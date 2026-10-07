@@ -1,8 +1,6 @@
-“I am not interested in political games or division.
+0 Skip to Content About Ben Why I'm Running My Values Endorsements Take Action Volunteer Contact Voter Registration Endorse Contribute Open Menu Close Menu About Ben Why I'm Running My Values Endorsements Take Action Volunteer Contact Voter Registration Endorse Contribute Open Menu Close Menu About Ben Why I'm Running My Values Endorsements Folder: Take Action Back Volunteer Contact Voter Registration Endorse Contribute “I am not interested in political games or division.
 I am tired of the “us versus them” mindset that keeps people apart and problems unsolved.
-We get better results when we work together and stay focused on the people we serve.I believe in showing up, listening, and doing the hard work it takes to deliver real results for working families, retirees, small business owners, and the next generation.”
-— Ben Christly, Candidate for State Representative, 17th District
-I’m Ben Christly, and I’m running for State Representative in Washington’s 17th Legislative District.
+We get better results when we work together and stay focused on the people we serve.I believe in showing up, listening, and doing the hard work it takes to deliver real results for working families, retirees, small business owners, and the next generation.” — Ben Christly, Candidate for State Representative, 17th District I’m Ben Christly, and I’m running for State Representative in Washington’s 17th Legislative District.
 I’m running because too many people in our communities are struggling to make ends meet.
 We have folks working multiple jobs and still falling behind.
 It’s getting harder for working families, small business owners, and retirees to build any kind of stability, let alone get ahead.
@@ -27,10 +25,13 @@ Responsible budgeting in Olympia means investing in the things that help communi
 Working families and small businesses should not be carrying a disproportionate share of the tax burden while billion-dollar corporations find ways to avoid paying theirs.
 A fair and responsible tax structure is essential to building a stable economy that works for everyone.
 We need to make healthcare affordable and accessible in every corner of our district, so no one has to choose between getting the care they need and paying their bills.
-We also need housing policies that support working families, stabilize costs, and help more people put down roots in the communities they call home
-Just as important as what we do is how we do it.
+We also need housing policies that support working families, stabilize costs, and help more people put down roots in the communities they call home Just as important as what we do is how we do it.
 I am not interested in political games or division.
 I am tired of the “us versus them” mindset that keeps people apart and problems unsolved.
 We get better results when we work together and stay focused on the people we serve.
 I believe in showing up, listening, and doing the hard work it takes to deliver real results for working families, retirees, small business owners, and the next generation.
 Thank you and I would be honored to earn your support.
+Sign up for updates Media Contact Paid for by Elect Ben Christly (D) 304 S.E.
+Hearthwood Blvd.
+P.O.
+Box 87872, Vancouver, WA 98684

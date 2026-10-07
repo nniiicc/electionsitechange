@@ -1,10 +1,7 @@
-Janet Metz
-Chair of the Chittenden County Republican Committee
-Janet Metz serves as the chair of the Chittenden County Republican Committee.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Janet Metz Chair of the Chittenden County Republican Committee Janet Metz serves as the chair of the Chittenden County Republican Committee.
 Outside of her political leadership in the county, she lives and works in Bolton, Vermont, alongside her husband, Craig Metz.
 EnSave, Inc., an agricultural energy efficiency and resource conservation company based nearby in Richmond, Vermont.
-TRANSCRIPT
-Two years ago, during the Yankee Sportsman Classic, I received a phone call saying I needed to get right over to the Yankee Sportsman Classic at the fairgrounds, where they were manning the (Chittenden County Republican Committee) booth.
+TRANSCRIPT Two years ago, during the Yankee Sportsman Classic, I received a phone call saying I needed to get right over to the Yankee Sportsman Classic at the fairgrounds, where they were manning the (Chittenden County Republican Committee) booth.
 There was an extraordinary young man that I simply had to meet at the South Burlington Dolphins booth next to ours.
 I was introduced to Javen, found that he's polite, thoughtful, well-spoken, with a maturity and depth of understanding of policy issues far beyond his years.
 He's a leader in the South Burlington community, which is testament to all the people here today, and his a common sense vision of how to restore affordability, security and prosperity for all Vermonters.
@@ -30,5 +27,7 @@ And to the young people here tonight, I hope Javen’s example motivates you to 
 Thank you very much.
 And now you're going to hear from the other candidate in the southeast.
 Thank you very much.
-Janet Metz
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Janet Metz Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

@@ -1,3 +1,1 @@
-NC HOUSE 108
-© Copyright 2018 - John Torbett
-This site was paid for by the "Friends to Elect John Torbett" campaign committee.
+NC HOUSE 108 Home BIO Issues LINKS CONTRIBUTE LETTERS OF SUPPORT CONTACT CONTACT NC HOUSE 108 © Copyright # - John Torbett This site was paid for by the "Friends to Elect John Torbett" campaign committee.

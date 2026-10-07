@@ -1,15 +1,66 @@
 [
-"https://facebook.com/Prather-for-NC-109005721623927",
-"https://instagram.com/pratherfornc",
-"https://pratherfornc.com/",
-"https://pratherfornc.com/about",
-"https://pratherfornc.com/donate",
-"https://pratherfornc.com/endorsements",
-"https://pratherfornc.com/es/privacy-policy",
-"https://pratherfornc.com/issues",
-"https://pratherfornc.com/news",
-"https://pratherfornc.com/privacy-policy",
-"https://pratherfornc.com/volunteer",
-"https://twitter.com/pratherfornc",
-"https://xpslane.com/"
+{
+"text": "About",
+"href": "https://pratherfornc.com/about"
+},
+{
+"text": "Donate",
+"href": "https://pratherfornc.com/donate"
+},
+{
+"text": "EN[image]",
+"href": "https://pratherfornc.com/privacy-policy"
+},
+{
+"text": "ES[image]",
+"href": "https://pratherfornc.com/es/privacy-policy/"
+},
+{
+"text": "Endorsements",
+"href": "https://pratherfornc.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://pratherfornc.com/"
+},
+{
+"text": "Issues",
+"href": "https://pratherfornc.com/issues"
+},
+{
+"text": "News",
+"href": "https://pratherfornc.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pratherfornc.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://pratherfornc.com/volunteer"
+},
+{
+"text": "[image: Prather for NC]",
+"href": "https://pratherfornc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/pratherfornc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Prather-for-NC-109005721623927"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/pratherfornc/"
+},
+{
+"text": "team@pratherfornc.com",
+"href": "mailto:team@pratherfornc.com"
+}
 ]

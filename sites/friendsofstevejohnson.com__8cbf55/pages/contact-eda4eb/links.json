@@ -1,10 +1,34 @@
 [
-"https://campaignpartner.com/",
-"https://friendsofstevejohnson.com/",
-"https://friendsofstevejohnson.com/contribute",
-"https://friendsofstevejohnson.com/endorsements",
-"https://friendsofstevejohnson.com/home",
-"https://friendsofstevejohnson.com/legislation",
-"https://friendsofstevejohnson.com/news",
-"https://friendsofstevejohnson.com/scholarship"
+{
+"text": "Contribute",
+"href": "https://www.friendsofstevejohnson.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofstevejohnson.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofstevejohnson.com/home"
+},
+{
+"text": "Keeping You In The Loop",
+"href": "https://www.friendsofstevejohnson.com/news"
+},
+{
+"text": "Legislation",
+"href": "https://www.friendsofstevejohnson.com/legislation"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Scholarship",
+"href": "https://www.friendsofstevejohnson.com/scholarship"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofstevejohnson.com/"
+}
 ]

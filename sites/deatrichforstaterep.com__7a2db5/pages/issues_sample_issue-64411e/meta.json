@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.deatrichforstaterep.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "ef92d3f566912ad35c3d9aa3420b921db9805212",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Data Centers",
  "years_mentioned": []
 }

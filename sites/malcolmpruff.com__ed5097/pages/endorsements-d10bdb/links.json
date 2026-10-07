@@ -1,14 +1,58 @@
 [
-"http://facebook.com/malcolmpruff",
-"http://instagram.com/malcolmpruff",
-"http://threads.net/@malcolmpruff",
-"https://malcolmpruff.com/",
-"https://malcolmpruff.com/about-me",
-"https://malcolmpruff.com/cart",
-"https://malcolmpruff.com/endorsements",
-"https://malcolmpruff.com/issues",
-"https://malcolmpruff.com/privacy-policy",
-"https://malcolmpruff.com/volunteer",
-"https://malcolmpruff.com/vote",
-"https://secure.actblue.com/donate/mpr41ct"
+{
+"text": "0",
+"href": "https://www.malcolmpruff.com/cart"
+},
+{
+"text": "About Malcolm",
+"href": "https://www.malcolmpruff.com/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mpr41ct"
+},
+{
+"text": "Endorsements",
+"href": "https://www.malcolmpruff.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.malcolmpruff.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.malcolmpruff.com/issues"
+},
+{
+"text": "MALCOLM P. RUFF",
+"href": "https://www.malcolmpruff.com/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://www.malcolmpruff.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.malcolmpruff.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.malcolmpruff.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/malcolmpruff"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/malcolmpruff"
+},
+{
+"text": "[no text]",
+"href": "http://threads.net/@malcolmpruff"
+},
+{
+"text": "info@ruff41.com",
+"href": "mailto:info@ruff41.com"
+}
 ]

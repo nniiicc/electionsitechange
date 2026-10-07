@@ -1,254 +1,41 @@
-People Power a Movement.
+Skip to content Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X Facebook Instagram Youtube Envelope Donate Facebook Instagram Youtube Envelope Donate Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X Donate Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X People Power a Movement.
 Join #TeamTarra by endorsing the campaign, making a donation, knocking doors, or however your efforts can help move this people-powered campaign forward.
-Bob Ferguson, Governor
-Patty Kuderer, Insurance Commissioner
-Mike Pellicciotti, State Treasurer
-Pramila Jayapal, Congresswoman
-Emily Alvarado, 34th LD
-Jessica Bateman, 22nd LD
-Noel Frame, 36th LD
-Drew Hansen, 23rd LD
-Bob Hasegawa, 11th LD
-Marko Liias, 21st LD
-Liz Lovelett, 40th LD
-John Lovick, 41st LD
-Marcus Riccelli, 3rd LD
-Yasmin Trudeau, 27th LD
-Steve Bergquist, 11th LD
-Adam Bernbaum, 24th LD
-Liz Berry, 36th LD
-Julio Cortes, 38th LD
-Beth Doglio, 22nd LD
-Brandy Donaghy, 44th LD
-Darya Farivar, 46th LD
-Roger Goodman, 45th LD
-Mia Gregerson, 33rd LD
-Zach Hall, 5th LD
-Shelley Kloba, 1st LD
-Nicole Macri, 43rd LD
-Sharlett Mena, 29th LD
-Melanie Morgan, 29th LD
-Greg Nance, 23rd LD
-Timm Ormsby, 3rd LD
-Lisa Parshley, 22nd LD
-Strom Peterson, 21st LD
-Gerry Pollet, 46th LD
-Julia Reed, 36th LD
-Kristine Reeves, 30th LD
-Cindy Ryu, 32nd LD
-Sharon Tomiko-Santos, 37th LD
-Shaun Scott, 43rd LD
-Chipalo Street, 37th LD
-Jamila Taylor, 30th LD
-Janice Zahn, 41st LD
-HOUSE LEADERS
-Laurie Jinkins, 27th LD, Speaker of the House
-Chris Stearns, 47th LD, Speaker Pro Tempore
-Joe Fitzgibbon, 34th LD, House Majority Leader
-Lillian Ortiz-Self, 21st LD, Majority Caucus Chair
-Alex Ramel, 40th LD, Majority Whip
-Monica Jurado Stonier, 49th LD, Majority Floor Leader
-Mari Leavitt, 28th LD, Deputy Majority Whip
-Mary Fosse, 38th LD, Deputy Majority Floor Leader
-Edwin Obras, 33rd LD, Assistant Majority Whip
-Osman Salahuddin, 48th LD, Assistant Majority Whip
-Support from local elected officials reflects confidence from leaders who understand the challenges and opportunities facing the 23rd Legislative District firsthand.
+2026 Endorsements State Executive officials Bob Ferguson, Governor Patty Kuderer, Insurance Commissioner Mike Pellicciotti, State Treasurer Washington State Congressional Representatives Pramila Jayapal, Congresswoman State Senators Emily Alvarado, 34th LD Jessica Bateman, 22nd LD Noel Frame, 36th LD Drew Hansen, 23rd LD Bob Hasegawa, 11th LD Marko Liias, 21st LD Liz Lovelett, 40th LD John Lovick, 41st LD Marcus Riccelli, 3rd LD Yasmin Trudeau, 27th LD State representatives Steve Bergquist, 11th LD Adam Bernbaum, 24th LD Liz Berry, 36th LD Julio Cortes, 38th LD Beth Doglio, 22nd LD Brandy Donaghy, 44th LD Darya Farivar, 46th LD Roger Goodman, 45th LD Mia Gregerson, 33rd LD Zach Hall, 5th LD Shelley Kloba, 1st LD Nicole Macri, 43rd LD Sharlett Mena, 29th LD Melanie Morgan, 29th LD Greg Nance, 23rd LD Timm Ormsby, 3rd LD Lisa Parshley, 22nd LD Strom Peterson, 21st LD Gerry Pollet, 46th LD Julia Reed, 36th LD Kristine Reeves, 30th LD Cindy Ryu, 32nd LD Sharon Tomiko-Santos, 37th LD Shaun Scott, 43rd LD Chipalo Street, 37th LD Jamila Taylor, 30th LD Janice Zahn, 41st LD HOUSE LEADERS Laurie Jinkins, 27th LD, Speaker of the House Chris Stearns, 47th LD, Speaker Pro Tempore Joe Fitzgibbon, 34th LD, House Majority Leader Lillian Ortiz-Self, 21st LD, Majority Caucus Chair Alex Ramel, 40th LD, Majority Whip Monica Jurado Stonier, 49th LD, Majority Floor Leader Mari Leavitt, 28th LD, Deputy Majority Whip Mary Fosse, 38th LD, Deputy Majority Floor Leader Edwin Obras, 33rd LD, Assistant Majority Whip Osman Salahuddin, 48th LD, Assistant Majority Whip Kitsap county elected officials Support from local elected officials reflects confidence from leaders who understand the challenges and opportunities facing the 23rd Legislative District firsthand.
 From city halls and fire districts to local boards and commissions, these leaders work every day to serve the communities that make up our region.
-Christy Cammarata, Bremerton City Council
-Jennifer Chamberlin, Bremerton City Council
-Chad Enright, Kitsap County Prosecutor
-Brenda Fantroy-Johnson, Bainbridge Island City Council (Former Mayor)
-Denise Frey, Bremerton City Council Vice President
-Lara Lant, Bainbridge Island City Council
-Britt Livdahl, Poulsbo City Council
-Mike Nelson, Bainbridge Island City Council
-Heather Pauley, Kitsap Public Utilities District Commissioner
-Jane Rebelowski, Bremerton City Council President
-Ed Stern, Mayor of Poulsbo
-Ken Thomas, Former Poulsbo City Council
-Shannon Turner, Bremerton School District Board Director
-Port Gamble S’Klallam Tribe
-The Port Gamble S’Klallam Tribe has been part of the land, waters, and communities of the Kitsap Peninsula since time immemorial.
+Christy Cammarata, Bremerton City Council Jennifer Chamberlin, Bremerton City Council Chad Enright, Kitsap County Prosecutor Brenda Fantroy-Johnson, Bainbridge Island City Council (Former Mayor) Denise Frey, Bremerton City Council Vice President Lara Lant, Bainbridge Island City Council Britt Livdahl, Poulsbo City Council Mike Nelson, Bainbridge Island City Council Heather Pauley, Kitsap Public Utilities District Commissioner Jane Rebelowski, Bremerton City Council President Ed Stern, Mayor of Poulsbo Ken Thomas, Former Poulsbo City Council Shannon Turner, Bremerton School District Board Director Tribal Nations Port Gamble S’Klallam Tribe The Port Gamble S’Klallam Tribe has been part of the land, waters, and communities of the Kitsap Peninsula since time immemorial.
 The S’Klallam people are known historically as the Nux Sklai Yem, or “Strong People”, are descendants of Salish peoples who have lived throughout the Puget Sound region for thousands of years.
 Today, the Port Gamble S’Klallam Tribe remains a sovereign nation and a vital part of the 23rd Legislative District.
 An endorsement from the Port Gamble S’Klallam Tribe carries a significance that goes beyond a campaign.
 It reflects a relationship rooted in place, sovereignty, and the shared responsibility to build a stronger future for the people who call this district home.
+ORGANIZATIONS & NON-PROFITS ENDORSEMENTS SHOW SUPPORT.
+CONTRIBUTIONS HELP US WIN.
 If you want to see Tarra back in Olympia, this is where you can make a real difference.
 Tarra has earned the support of organizations, community leaders, and people across the 23rd.
 Now we need the resources to reach voters, build our field operation, and bring this campaign to the finish line.
-Chance Corey
-Democratic Party Leader
-Olivia salamon
-Mental Health Professional
-Micaela E. romero
-UW President’s Student Civic Leader
-Joe Barsana | Recovery Advocate
-Chance Corey | LGBTQIA2S+ Activist, Democratic Party Leader
-Sheila Curwen | Activist
-Marsha Cutting | Disability Rights Advocate
-Debby Haase | Community Organizer
-Mark Hoffman | Consumer Protection Activist
-Karen Klein | Lawyer, Social Justice & Political Activist
-Beth Nichols | Environmental Leader
-Chuck Pirtle | Union Activist
-Micaela Romero | Activist, UW President’s Student Civic Leader
-Diane Rose Vincent | Elder Advocate
-Marianne Wiley | Activist
-Carollynn Zimmers | North Kitsap Indivisible Founder
-Fran Korten | Environmental Activist
-Elizabeth Lindquist | Lawyer, WSAJ Board Member, EOI Board Member
-“I support Tarra because she understands what it is like to have to work to get things done.
+DONATE TODAY Community Leaders Tarra’s campaign is grounded in the belief that the people closest to an issue should have a voice in shaping the policies that affect their lives.
+Community endorsements represent more than support at the ballot box, they reflect the trust Tarra has built with neighbors, advocates, workers, families, small business owners, organizers, and community leaders across the 23rd Legislative District and beyond.
+Chance Corey Democratic Party Leader Olivia salamon Mental Health Professional Micaela E. romero UW President’s Student Civic Leader Activists & Advocates Joe Barsana | Recovery Advocate Chance Corey | LGBTQIA2S+ Activist, Democratic Party Leader Sheila Curwen | Activist Marsha Cutting | Disability Rights Advocate Debby Haase | Community Organizer Mark Hoffman | Consumer Protection Activist Karen Klein | Lawyer, Social Justice & Political Activist Beth Nichols | Environmental Leader Chuck Pirtle | Union Activist Micaela Romero | Activist, UW President’s Student Civic Leader Diane Rose Vincent | Elder Advocate Marianne Wiley | Activist Carollynn Zimmers | North Kitsap Indivisible Founder Fran Korten | Environmental Activist Elizabeth Lindquist | Lawyer, WSAJ Board Member, EOI Board Member “I support Tarra because she understands what it is like to have to work to get things done.
 Her life story shows how she has overcome obstacle after obstacle.
 I have watched with others in Olympia, and talked with others in Olympia, who tell me she overcomes obstacles there for those coming next, and works to get things done.
-I’m proud to endorse Tarra Simmons for State Representative.”
-– Chance Corey
-Dr.
-Niran Al-Agba | Physician, Writer, Small Business Owner
-Chris Cioc | Small Business Owner
-Robin Henderson | Small Business Owner
-Alison Slow Loris | Business Owner, Human Rights Advocate
-Crystal Rolfe-Hogan | Small Business Owner
-Terri Hunter Schumacher | Small Business Owner
-Tevyn Toledo | Coach, Small Business Owner
-Martitha May | Community Legend
-Akuyea Karen Vargas | Community Legend
-Keis Al-Agba
-Laith Alagba-Green
-Diana Allen
-Richard Ashton
-Perry Barett
-Vicente Barraza
-Orion Beckert
-Ranae Beeker
-Paul Benz
-Stephanie Binschus
-Katherine Bobman
-Kari Boiter
-Janet Boltwood
-Dorothy Bonnett
-Denise Brown
-Nikki Brownalenoir
-Gene Bulloc
-Susan Chamberlain
-Sam Christy
-Pam Churchill
-Cameron Clark
-Julie Ann Cooper
-Jordan Couch
-Cheryl Crist
-Jolene Culbertson
-Paul Cullen
-Shea Cunningham
-Amy Curran
-Katy Curtis
-Leslie Cushman
-Brooke Hammet
-Bill Harju
-Donna Hart
-Emily Hassakonburee
-Debbi Hollyer
-Trevor Holmber
-Jazzmyn Inisis
-Dave Johnsen
-Jeanne Joues
-Linda Jueco
-Judie Kasaick
-Kathryn Kennedy
-Steve Kirby
-Paul Kundtz
-Devon Lewis
-Arnel Leyva
-Marey Lynn
-Chastity Malatesta
-Pamela Malo
-Frances Malone
-Deborah Marcet
-Kenneth McDouall
-Loretta McGinley
-David Mensah
-Shauna Metschke
-Jeremy Monroe
-Susan Moskwa
-Becky Mowry
-Missy Ohearn
-Carl Olson
-Alys Orsborn
-Joyce Oswald
-Ingrid Ougland
-Jeff Ozimek
-Janelle Perreira
-Harley Peyton
-Susan Plum
-Jeff Powers
-Ann Pyles
-Ann Randall
-Liam Reihders
-Mark Renick
-Jason Schwarz
-Larry Seaquist
-Liz Shaw
-Michael Shoemaker
-Eileen Sickle
-Peter Sills
-Theodore Smith
-Heidi Solem
-Ginger Sommerhauser
-James Sommerhauser
-Jim Sommerhauser
-April Stitt
-Marilyn Stoknes
-John Strait
-Ken Thomas
-Terry Tilton
-Michael Tomberg
-Laura Van Tosh
-Michelle Vargo
-Kathy Wallace
-Sue Welsh
-Christine Wernette
-Sean Wescott
-Greg Wiegand
-Bryan Worthington
-Mike Yestramski
-Mickey Zimmerman
-Debby Zoo
-Jon Zulauf
-Diane Clouser | Former Teacher
-Milliniua Hager | Early Childhood Educator
-Alice McCain | Retired Educator, Activist
-Natasha Fecteau Minger | Community Advocate & Education Champion
-Josh Binda | Former Lynnwood City Council
-John Patrick Kelly | Key Peninsula Fire Commissioner
-John Gustafson | Registered Nurse , Strong Democrat, PCO
-Olivia Salamon | Social & Political Activist, Mental Health Professional
-“As an RN, an active community member, a labor activist, a strong Democrat, PCO, and grandfather of three, I have supported Tarra Simmons since her very first campaign.
+I’m proud to endorse Tarra Simmons for State Representative.” – Chance Corey Business Owners Dr.
+Niran Al-Agba | Physician, Writer, Small Business Owner Chris Cioc | Small Business Owner Robin Henderson | Small Business Owner Alison Slow Loris | Business Owner, Human Rights Advocate Crystal Rolfe-Hogan | Small Business Owner Terri Hunter Schumacher | Small Business Owner Tevyn Toledo | Coach, Small Business Owner Community Legends Martitha May | Community Legend Akuyea Karen Vargas | Community Legend Community Members Keis Al-Agba Laith Alagba-Green Diana Allen Richard Ashton Perry Barett Vicente Barraza Orion Beckert Ranae Beeker Paul Benz Stephanie Binschus Katherine Bobman Kari Boiter Janet Boltwood Dorothy Bonnett Denise Brown Nikki Brownalenoir Gene Bulloc Susan Chamberlain Sam Christy Pam Churchill Cameron Clark Julie Ann Cooper Jordan Couch Cheryl Crist Jolene Culbertson Paul Cullen Shea Cunningham Amy Curran Katy Curtis Leslie Cushman Brooke Hammet Bill Harju Donna Hart Emily Hassakonburee Debbi Hollyer Trevor Holmber Jazzmyn Inisis Dave Johnsen Jeanne Joues Linda Jueco Judie Kasaick Kathryn Kennedy Steve Kirby Paul Kundtz Devon Lewis Arnel Leyva Marey Lynn Chastity Malatesta Pamela Malo Frances Malone Deborah Marcet Kenneth McDouall Loretta McGinley David Mensah Shauna Metschke Jeremy Monroe Susan Moskwa Becky Mowry Missy Ohearn Carl Olson Alys Orsborn Joyce Oswald Ingrid Ougland Jeff Ozimek Janelle Perreira Harley Peyton Susan Plum Jeff Powers Ann Pyles Ann Randall Liam Reihders Mark Renick Jason Schwarz Larry Seaquist Liz Shaw Michael Shoemaker Eileen Sickle Peter Sills Theodore Smith Heidi Solem Ginger Sommerhauser James Sommerhauser Jim Sommerhauser April Stitt Marilyn Stoknes John Strait Ken Thomas Terry Tilton Michael Tomberg Laura Van Tosh Michelle Vargo Kathy Wallace Sue Welsh Christine Wernette Sean Wescott Greg Wiegand Bryan Worthington Mike Yestramski Mickey Zimmerman Debby Zoo Jon Zulauf Educators Diane Clouser | Former Teacher Milliniua Hager | Early Childhood Educator Alice McCain | Retired Educator, Activist Natasha Fecteau Minger | Community Advocate & Education Champion Electeds Outside of the 23rd LD Josh Binda | Former Lynnwood City Council John Patrick Kelly | Key Peninsula Fire Commissioner Healthcare Professionals John Gustafson | Registered Nurse , Strong Democrat, PCO Olivia Salamon | Social & Political Activist, Mental Health Professional “ As an RN, an active community member, a labor activist, a strong Democrat, PCO, and grandfather of three, I have supported Tarra Simmons since her very first campaign.
 She loves this county and has lived here her whole life.
 She is one of the hardest working people I know.
 In her three terms, she has shown great skill in sponsoring legislation that matters, such as rent stabilization, charity care, behavioral health advocacy, reentry, and rehab.
 She has maintained a 100% voting record with the Washington State Labor Council and nurses.
 The legislation she proposes is important to me.
-She shows up, is approachable, listens, and recognizes champions for justice in our community.”
-– John Gustafson
-Anthony Adams | Tribal Leader
-Ken Thomas | United States Navy Veteran
-Dominic Jones | United States Marine
-Jason Gomez | United States Army Veteran, Lead SUDP, NKHS Graduate
-Shannon Turner | United States Army Veteran
-Our endorsement categories simply help organize our growing coalition and are not exhaustive or limiting.
+She shows up, is approachable, listens, and recognizes champions for justice in our community.” – John Gustafson Tribal Leaders Anthony Adams | Tribal Leader United States Military Ken Thomas | United States Navy Veteran Dominic Jones | United States Marine Jason Gomez | United States Army Veteran, Lead SUDP, NKHS Graduate Shannon Turner | United States Army Veteran Our endorsement categories simply help organize our growing coalition and are not exhaustive or limiting.
 If you’d like to add your name or update your category, please use the form below to Endorse Tarra.
-Support for Tarra comes from all across our community.
+Add Your Voice Support for Tarra comes from all across our community.
 From elected leaders and Sovereign Nations, to neighbors, advocates, and people who believe in the work.
 Endorse Tarra and let us know you’re with us.
 Your endorsement may also open the door to other ways to get involved, from sharing your support with your network to hosting a gathering, connecting Tarra with your community, or helping others get to know her and her vision for the 23rd Legislative District.
-Tarra’s story has always been about what we can accomplish when we show up for one another.
+ENDORSE TARRA VOLUNTEER WITH US Tarra’s story has always been about what we can accomplish when we show up for one another.
 Whether you’re knocking doors, making calls, sharing her message, or simply bringing a friend into the conversation, there’s a place for you in this campaign.
-Paid for by People for Tarra Simmons
-PO Box 774
-Tracyton, WA 98398
-Read our Privacy Policy and SMS Terms
-LAND ACKNOWLEDGEMENT
-Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+Join Team Tarra Request a Yard Sign Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 Read our Privacy Policy and SMS Terms Home Meet Tarra Endorsements Priorities Events Volunteer Contact DONATE LAND ACKNOWLEDGEMENT Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
 The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
 We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.
-Paid for by People for Tarra Simmons
-PO Box 774 Tracyton, WA 98398
+Facebook Instagram Youtube Envelope Request a Yard Sign Home Meet Tarra Endorsements Priorities Events Volunteer Contact DONATE Facebook Instagram Youtube Envelope Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 LAND ACKNOWLEDGEMENT Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
+We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.
+Read our Privacy Policy and SMS Terms

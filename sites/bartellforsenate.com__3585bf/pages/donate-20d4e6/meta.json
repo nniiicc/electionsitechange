@@ -1,9 +1,9 @@
 {
  "description": "Support Bartell for Senate by making political donations. Your contribution helps empower leadership for a brighter future in Georgia.",
  "final_url": "https://bartellforsenate.com/donate",
- "paid_for_by": null,
+ "fingerprint": "ef8cab06a567f1b088378da68c4521b3741f9a17",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

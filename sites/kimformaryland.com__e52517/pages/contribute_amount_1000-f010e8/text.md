@@ -1,10 +1,9 @@
-I truly appreciate your support – your generous political contribution is greatly appreciated and will make a meaningful difference in helping me get elected this coming term.
+Meet Kimberly Issues News Volunteer Contribute I truly appreciate your support – your generous political contribution is greatly appreciated and will make a meaningful difference in helping me get elected this coming term.
 Thank you.
-FRIENDS FOR KIMBERLY SIMMONS ROBINSON, 6710 LAUREL BOWIE ROAD #412, BOWIE, MD 20715
-Contribution rules
-- I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
-- I am at least eighteen years old.
-- This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
-Informative Links:
-Contributions & Transfers Limits Guide
-Authorized by Friends for Kimberly Simmons Robinson - Arthur Simmons - Treasurer
+FRIENDS FOR KIMBERLY SIMMONS ROBINSON, 6710 LAUREL BOWIE ROAD #412, BOWIE, MD 20715 Contribution rules I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+I am at least eighteen years old.
+This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
+Informative Links: Contributions & Transfers Limits Chart Contributions & Transfers Limits Guide Authorized by Friends for Kimberly Simmons Robinson - Arthur Simmons - Treasurer Complete your $ 1000 contribution: Select Your Information Choose an amount: $10 $15 $25 $50 $100 $250 $500 $1000 $1500 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Kimberly Simmons Robinson Elected to the Republican Central Committee I'm Officially A Candidate Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Friends for Kimberly Simmons Robinson Arthur Simmons, Treasurer 6710 Laurel Bowie Road #412 Bowie, Maryland 20715 (240) 245-7659 Powered by CampaignPartner.com - Political Websites Home Meet Kimberly Issues Endorsements Contribute Volunteer News Yard Signs Events Photos Contact Voter Information Close Menu

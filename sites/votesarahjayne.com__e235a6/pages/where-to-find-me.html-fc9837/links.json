@@ -1,13 +1,50 @@
 [
-"http://facebook.com/votesarahjayne",
-"https://instagram.com/votesarahjayne?igsh=MWVzdmJ5MXQ0NDBqeA%3D%3D",
-"https://secure.actblue.com/donate/votesarahjayne",
-"https://tiktok.com/@vote.sarah.jayne",
-"https://votesarahjayne.com/",
-"https://votesarahjayne.com/_blank",
-"https://votesarahjayne.com/about-me.html",
-"https://votesarahjayne.com/cdn-cgi/l/email-protection",
-"https://votesarahjayne.com/join-team-sjdv.html",
-"https://votesarahjayne.com/platform.html",
-"https://votesarahjayne.com/where-to-find-me.html"
+{
+"text": "About Me",
+"href": "https://www.votesarahjayne.com/about-me.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarahjayne"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/votesarahjayne"
+},
+{
+"text": "Home",
+"href": "https://www.votesarahjayne.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votesarahjayne?igsh=MWVzdmJ5MXQ0NDBqeA%3D%3D"
+},
+{
+"text": "Join Team SJDV!",
+"href": "https://www.votesarahjayne.com/join-team-sjdv.html"
+},
+{
+"text": "MEET SARAH JAYNE",
+"href": "https://www.votesarahjayne.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.votesarahjayne.com/platform.html"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@vote.sarah.jayne"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "Where to Find Me",
+"href": "https://www.votesarahjayne.com/where-to-find-me.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.votesarahjayne.com/cdn-cgi/l/email-protection"
+}
 ]

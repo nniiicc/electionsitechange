@@ -1,7 +1,11 @@
 {
  "description": "Fill out our form so we can reserve a yard sign request for you. We can deliver your sign if you would like.",
  "final_url": "https://www.ronnieglynnforstaterep.com/yard-sign-request",
- "paid_for_by": null,
- "title": "Yard Sign Request \u2014 Ronnie Glynn for State Rep",
- "years_mentioned": []
+ "fingerprint": "69ede3021c3c16bca71b781a564e214db377c6f4",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Yard Sign Request — Ronnie Glynn for State Rep",
+ "years_mentioned": [
+  "2026"
+ ]
 }

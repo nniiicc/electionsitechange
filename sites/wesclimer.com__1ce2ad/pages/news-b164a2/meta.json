@@ -1,7 +1,9 @@
 {
  "description": "Get all of the news and updates from the Wes Climer for Congress team. Sign up for updates to hear news from his campaign first!",
  "final_url": "https://wesclimer.com/news/",
- "paid_for_by": "Paid for by Climer for Congress PO Box 4898 | Rock Hill SC 29732 | (803) 752-0052 Privacy Policy Terms of Service &copy;2026 All Rights Reserved Yes! I",
+ "fingerprint": "7a2897aa82ec860aca281f766ac18e118f31a012",
+ "format": 3,
+ "paid_for_by": "Paid for by Climer for Congress PO Box 4898",
  "title": "News - Wes Climer for Congress",
  "years_mentioned": [
   "2026"

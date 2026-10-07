@@ -1,7 +1,11 @@
 {
  "description": "Learn about Washington State Senator Jeff Holy's background and experience.",
  "final_url": "https://www.votejeffholy.com/about",
- "paid_for_by": "Paid for by Jeff Holy for Senate, R PO Box 40231 Spokane, WA 99220 &copy; 2026 Privacy Policy bottom of page",
+ "fingerprint": "3ecfc7300af08e466a42930ec760b1ef1429cb2b",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeff Holy for Senate, R PO Box 40231 Spokane, WA 99220 © # Privacy Policy bottom of page",
  "title": "About | Jeff Holy for Washington State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1975"
+ ]
 }

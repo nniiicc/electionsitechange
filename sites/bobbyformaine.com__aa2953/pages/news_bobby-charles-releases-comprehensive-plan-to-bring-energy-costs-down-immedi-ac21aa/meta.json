@@ -1,9 +1,12 @@
 {
  "description": "- Read the latest news and updates from Bobby Charles for Maine Governor campaign.",
  "final_url": "https://www.bobbyformaine.com/news/bobby-charles-releases-comprehensive-plan-to-bring-energy-costs-down-immediately-by-taking-207m-from-the-rainy-day-fund-for-urgent-energy-cost-relief-package",
- "paid_for_by": "paid for by drawing down the state\u2019s Rainy Day Fund by $207 million",
+ "fingerprint": "06a4f49f12d5a2d90f20e9de2fb31783db441d49",
+ "format": 3,
+ "paid_for_by": "paid for by drawing down the state’s Rainy Day Fund by $207 million",
  "title": "| Bobby Charles for Maine",
  "years_mentioned": [
-  "2026"
+  "2026",
+  "2040"
  ]
 }

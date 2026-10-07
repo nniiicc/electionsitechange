@@ -1,15 +1,12 @@
-Press Releases
-IBEW Local 164 Endorses Rob Menendez for New Jersey’s Eighth Congressional District
-PARAMUS – The International Brotherhood of Electrical Workers (IBEW) Local 164 today announced its endorsement of Rob Menendez for the 8th Congressional District of New Jersey.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Press Releases IBEW Local 164 Endorses Rob Menendez for New Jersey’s Eighth Congressional District March 30, 2022 PARAMUS – The International Brotherhood of Electrical Workers (IBEW) Local 164 today announced its endorsement of Rob Menendez for the 8th Congressional District of New Jersey.
 “To put it simply, we are endorsing Rob Menendez because he gets it,” said IBEW Local 164 Business Manager Daniel Gumble.
 “Rob has made support for unions and our right to organize a core tenet of his campaign.
 He knows that unions like ours provide financial security and a path to a stable living to so many men and women in New Jersey, many of them immigrants just like Rob’s grandparents.
-With him in Congress, IBEW and hard working families throughout the 8th Congressional District will have a bona fide fighter who will always advocate for us.”
-“Unions uplift families to a stable living,” said Rob Menendez.
+With him in Congress, IBEW and hard working families throughout the 8th Congressional District will have a bona fide fighter who will always advocate for us.” “Unions uplift families to a stable living,” said Rob Menendez.
 “I am proud to accept the endorsement of IBEW Local 164, and to be a supporter of the critical work that Dan and his team do every day to strengthen working families in the 8th Congressional District.
 IBEW’s work on securing project labor agreements and in their apprenticeship projects has ensured that generations of union workers receive fair compensation and attain safe working conditions.
 Our cities and towns are built on the labor of workers represented by IBEW Local 164 and in Congress I will work to ensure that organized labor retains the right to organize and to continue to fight for working men and women.
-Strengthening families is at the heart of this campaign.”
-Local 164 includes more than 2,000 electricians, active in Bergen, Hudson and Essex counties on residential, commercial and industrial projects, and more than 700 telecommunications workers contracted throughout the state.
+Strengthening families is at the heart of this campaign.” Local 164 includes more than 2,000 electricians, active in Bergen, Hudson and Essex counties on residential, commercial and industrial projects, and more than 700 telecommunications workers contracted throughout the state.
 Local 164 members have provided highly skilled electrical and telecom installations, repairs and maintenance on some of New Jersey’s most significant construction projects.
 These have included the George Washington Bridge, Lincoln and Holland tunnels, Meadowlands Sports Complex, mega-shopping centers such as Garden State Plaza and Newport Mall, leading entertainment venues like The Prudential Center, Red Bull Stadium, Newark Bears Stadium, the American Dream mall, and prominent office buildings along New Jersey’s Gold Coast.
+Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

@@ -1,5 +1,5 @@
-JMW 4 CONGRESS
-SCROLL DOWN FOR ELECTION TIMES & DATES
-JMW 4 CONGRESS — Jomo Manuel Williams for CONGRESS – NY-13 Reject Communism and Anarchism.
-Early Voting: General Oct 24 to Nov 1, 2026 General Election Day · 6am to 9pm November 3, 2026
-Pages: 1 2 3 4 5 6 7 8 9 10 11 12
+Skip to content JMW 4 CONGRESS JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 📋 TABLE OF CONTENTS / QUICK NAVIGATION Candidate Side-by-Side Comparison Candidate JMW, VOTING TIMES Republican and Democrat Comparison Harlem Community is Not DSA’s Political Prop SAVE Act & Election Integrity Litigation USA -vs- DSA Analysis & Platform Breakdown All Americans Vs.
+Anti-America (Political Civil War) Universal Capitalism (UCAP) Not Socialism No Sanctuary City / Dignity City Escape NYC -⚠️- DSA & DEMS’ GENTRIFICATION TOOLBOX Campaign Contribution Station RAPolitical VERZUZ Catalogues SCROLL DOWN FOR ELECTION TIMES & DATES JMW 4 CONGRESS — Jomo Manuel Williams for CONGRESS – NY-13 Reject Communism and Anarchism.
+Early Voting: General Oct 24 to Nov 1, 2026 General Election Day · 6am to 9pm November 3, 2026 CLICK FOR TABLE OF CONTENTS Pages: 1 2 3 4 5 6 7 8 9 10 11 12 JMW 4 CONGRESS Choose Liberty, Free Economy, and Equality.
+Say No to Communism and Anarchism.
+JOMO MANUEL WILLIAMS FOR CONGRESS NY 13 Designed with WordPress

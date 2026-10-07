@@ -1,6 +1,5 @@
-Born and raised in Seattle and ready to represent the community that raised him!
-Meet Kelabe
-Kelabe was raised in a working class union family by his single mother who came to this country as a refugee.
+0 Skip to Content About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Open Menu Close Menu About Priorities Events Take Action Endorsements Contact Us Donate Born and raised in Seattle and ready to represent the community that raised him!
+Meet Kelabe Kelabe was raised in a working class union family by his single mother who came to this country as a refugee.
 She had dreams that were put on hold because of the barriers that come with raising a child on your own.
 They were priced out of neighborhood after neighborhood because no matter how hard she worked, rising costs always moved faster than her wages.
 They dealt with housing insecurity, but they were supported by their tight knit community.
@@ -28,3 +27,4 @@ Students fear for their safety in their neighborhoods losing classmates to gun v
 Kelabe has done everything he can inside the classroom.
 Now it's time to lead outside of it.
 The 37th deserves a representative that will do all he can to ease the burden on families from the Central District all the way to Skyway.
+Join Kelabe on the campaign! hello@kelabeforwashington.com PO Box 18094 Seattle, WA 98118 (206) 588-6096‬ Paid for by Kelabe for Washington (D)

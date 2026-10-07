@@ -1,12 +1,3 @@
-HOME
-MEET DIANE
-ENDORSEMENTS
-VIDEOS
-EVENTS
-GALLERY
-JOIN
-More
-Tuesday, November 8, 2022
-Thursday, October 6, 2022
-Until Tuesday, November 8, 2022
-Until Tuesday, November 8, 2022
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE Upcoming Events Join Diane at these upcoming events.
+Election Day Tuesday, November 8, 2022 Click Here October 6th Event Thursday, October 6, 2022 Click Here Become a Volunteer Until Tuesday, November 8, 2022 Click Here Become a Volunteer Until Tuesday, November 8, 2022 Click Here HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

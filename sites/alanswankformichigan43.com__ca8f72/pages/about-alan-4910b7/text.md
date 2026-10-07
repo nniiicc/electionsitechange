@@ -1,11 +1,8 @@
-Meet Alan Swank
-Right Time.
+Skip to main content Alan SWANK for MICHIGAN Alan SWANK for MICHIGAN Home About Alan Issues & Stances Endorsements Events Volunteer Meeting Recaps Videos District Maps Municipalities in 43rd District Donate to Committee to Elect Alan Swank Meet Alan Swank Right Time.
 Right Choice.
-Core beliefs and guiding principles
-Alan Swank's decisions and actions are guided by core beliefs in integrity, transparency, and accountability.
+Core beliefs and guiding principles Alan Swank's decisions and actions are guided by core beliefs in integrity, transparency, and accountability.
 He believes that public service is a sacred trust, and he is committed to representing the interests of all Michiganders with honesty and dedication.
 His values include respect for diverse perspectives, a commitment to fiscal responsibility, and the conviction that collaboration is key to overcoming challenges.
 Alan stands for a government that works for the people, not special interests, and he will always prioritize the well-being and future of Michigan in every decision he makes.
-"Alan Swank is a leader who truly listens and cares about the future of our state.
-His dedication to Michigan is inspiring."
-A Michigan Resident
+Join Alan's campaign for Michigan "Alan Swank is a leader who truly listens and cares about the future of our state.
+His dedication to Michigan is inspiring." A Michigan Resident © # Alan Swank for Michigan Powered by Webador

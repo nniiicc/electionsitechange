@@ -1,7 +1,30 @@
 [
-"https://facebook.com/NagelForCongress",
-"https://instagram.com/nagelforcongress",
-"https://nagelforcongress.com/",
-"https://secure.winred.com/nagel-for-congress/website-links",
-"https://x.com/NagelForCongress"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nagel-for-congress/website-links"
+},
+{
+"text": "[no text]",
+"href": "https://nagelforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NagelForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nagelforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NagelForCongress"
+},
+{
+"text": "info@nagelforcongress.com",
+"href": "mailto:info@nagelforcongress.com"
+},
+{
+"text": "‍info@nagelforcongress.com",
+"href": "mailto:‍info@nagelforcongress.com"
+}
 ]

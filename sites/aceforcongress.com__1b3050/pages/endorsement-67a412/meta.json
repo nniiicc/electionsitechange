@@ -1,12 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.aceforcongress.com/endorsement",
- "paid_for_by": null,
+ "fingerprint": "7d53164e60c125df9aa5738b01ecdc0ee643eea3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsement | Ace For Congress",
  "years_mentioned": [
   "2016",
   "2018",
   "2020",
-  "2022"
+  "2022",
+  "2035"
  ]
 }

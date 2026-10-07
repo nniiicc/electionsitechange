@@ -1,9 +1,5 @@
-Back to All Events
-Join us for this rally to stop data centers in Baltimore City!
-Previous
-Previous
-August 17
-Frederick County Meet & Greet
-Next
-Next
-August 27
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Back to All Events No Data Centers in Baltimore City Rally Sunday, August 23, 2026 5:00 PM 7:00 PM Baltimore City Hall 100n Holliday Street Baltimore, Maryland, 21202 United States (map) Google Calendar ICS Join us for this rally to stop data centers in Baltimore City!
+Previous Previous August 17 Frederick County Meet & Greet Next Next August 27 Baltimore Meet & Greet Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

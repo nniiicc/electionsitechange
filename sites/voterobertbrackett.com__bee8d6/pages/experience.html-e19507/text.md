@@ -1,4 +1,2 @@
-Without Success
-To Leading
-Please show your support for Robert Brackett so he may continue to fight the good fight in Tallahassee!
-MEET ROBERT | THE ISSUES | VOLUNTEER | CONTACT
+Experience is nothing Without Success ROBERT HAS BOTH Robert is no stranger To Leading Stand with Robert Mayor Vero Beach, FL Board of Directors Indian River Charter High School Board of Trustees Lipscomb University STAND WITH ROBERT Please show your support for Robert Brackett so he may continue to fight the good fight in Tallahassee!
+STAND WITH ROBERT SHARE ON SOCIAL MEDIA MEET ROBERT | THE ISSUES | VOLUNTEER | CONTACT © Copyright #-# - All Rights Reserved Paid by Robert Brackett, Republican, for State Representative Powered by The Front Line Agency STAND WITH ROBERT AND SUPPORT THE CAMPAIGN Home Meet Robert The Issues Experience Volunteer CONTRIBUTIONS

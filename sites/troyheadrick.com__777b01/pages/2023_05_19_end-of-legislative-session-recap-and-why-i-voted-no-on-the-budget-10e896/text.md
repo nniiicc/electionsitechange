@@ -1,6 +1,4 @@
-End of Legislative Session Recap and Why I Voted ‘No’ on the Budget
-Friday, May 19, 2023
-One week ago, I walked into our final session on the House floor certain of two things.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / End of Legislative Session Recap and Why I Voted ‘No’ on the Budget May 19, 2023 Friday, May 19, 2023 One week ago, I walked into our final session on the House floor certain of two things.
 I knew we were in for a long day and I knew that I would be voting against the budget that, in my estimation, fell far too short of our potential for caring for our fellow Vermonters most in need.
 One year ago, at about this time, I received a call from Representative Selene Colburn who was completing the second session of her third term as Representative.
 With that call, she informed me that she would not be seeking re-election and wondered if I might consider running for the seat myself.
@@ -19,16 +17,16 @@ I recall finding myself completely caught off guard by the fact that I would hav
 For the curious, that legislation then stalled in the Senate once we passed it out of the House.
 I could fill an entire journal with similar moments of disillusionment and the impact they have had at the intersection of my idealism and naivete for party politics.
 Notwithstanding those disappointments, there is so much optimism to be found in the bold and progressive legislation we have passed.
-- We passed an amazing child care package that will bring so much needed relief and affordability to struggling parents as well as a living wage to our overworked providers.
-- We have permanently extended the free school meals program so that all of our Vermont students can be assured that poor nutrition and hunger will not impede their learning.
-- We have passed legislation that will have a significant impact on the processes by which we build housing that is so desperately needed in all regions of our state, while maintaining a balance with our rural landscape that makes Vermont so unique.
-- We have passed the Affordable Heat Act that, while not perfect, moves us in the right direction toward a more respectable commitment of response to our climate crises.
+We passed an amazing child care package that will bring so much needed relief and affordability to struggling parents as well as a living wage to our overworked providers.
+We have permanently extended the free school meals program so that all of our Vermont students can be assured that poor nutrition and hunger will not impede their learning.
+We have passed legislation that will have a significant impact on the processes by which we build housing that is so desperately needed in all regions of our state, while maintaining a balance with our rural landscape that makes Vermont so unique.
+We have passed the Affordable Heat Act that, while not perfect, moves us in the right direction toward a more respectable commitment of response to our climate crises.
 Additionally, we have already overridden the Governor’s predicted veto of this legislation.
-- We have passed new shield laws that protect our health care providers who deliver reproductive and gender-affirming care.
-- We have passed gun safety legislation that interrupts the processes by which so many of our children gain access to firearms.
+We have passed new shield laws that protect our health care providers who deliver reproductive and gender-affirming care.
+We have passed gun safety legislation that interrupts the processes by which so many of our children gain access to firearms.
 I am convinced this legislation will reduce the rates of suicide by firearms.
 The new law creates safe storage requirements, a 72 hour waiting period for purchases, and expands our ability to initiate red-flag response protocol in order to intervene with gun possession by people who pose an imminent threat of harm.
-- We have passed legislation that will increase legislative pay beginning after the next election cycle.
+We have passed legislation that will increase legislative pay beginning after the next election cycle.
 This is critical if we want to make service in the legislature available and accessible to a much wider variety of people who would be more representative of all Vermont voices.
 It is beyond time to create broader access to the opportunity to serve beyond only those who can afford to be here.
 This is an impressive list of accomplishments and our Committee on Ways and Means as well as our Committee on Appropriations deserve so much credit for creating a budget that allows for the delivery of these endeavors.
@@ -52,4 +50,4 @@ The House budget reallocated about half of that money back to the general fund, 
 If I were a Republican Governor facing a Democratic/Progressive supermajority and I wanted to retain control over money in order to not see it spent on a housing program I’ve been so consistently and vocally opposed to, making certain that more than $60 million dollars became locked into inaccessible corners of the budget might provide some of that control.
 Those of us who stood in opposition to passing the budget on the final day of the 2023 session last Friday have remained hard at work making certain we have an alternative solution ready to go for when we return to the State House on June 20th for our veto override session.
 We intend to finalize a budget that serves all of our amazing legislative accomplishments while also continuing to protect our most vulnerable without an overreliance on our minicipalities.
-It can be no other way.
+It can be no other way. < Continued Conversation on the Development of a New Women’s Correctional Facility > General Housing Just Housing Coalition Response to Governor Scott’s Budget Veto Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

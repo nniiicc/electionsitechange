@@ -1,5 +1,4 @@
-Jobs and the Economy
-Senator Watters is known across the state as a “jobs senator” who works for economic development that supports New Hampshire communities and businesses.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Jobs and the Economy Senator Watters is known across the state as a “jobs senator” who works for economic development that supports New Hampshire communities and businesses.
 Senator Watters’ legislation has addressed immediate issues to promote the economy, but he is known for his work on long-term transformations of economic development, workforce training, and the clean energy economy.
 Opposed to any new broad-based taxes, Senator Watters knows we have strong state revenues to keep taxes low while spending on priorities that benefit New Hampshire.
 New Hampshire should move quickly to give power to people to take charge of their energy costs.
@@ -22,7 +21,8 @@ A thriving economy depends on a modern, multi-modal transportation system to get
 Senator Watters fought for funding to rebuild roads and bridges and to provide road funds for District 4 projects.
 Supported by the Business and Industry Association, the NH Municipal Association, and local governments, he cosponsored the bill to raise the road toll by 4.2 cents a gallon.
 Serving on the Transportation Committee, Sen.
-Watters ensured the Ten-Year Highway Plan included Rte. 108 upgrades, the Little Bay Bridges project, all-electronic tolling on the turnpike and highway systems, and major additional funding for municipal roads and bridges.
+Watters ensured the Ten-Year Highway Plan included Rte.
+108 upgrades, the Little Bay Bridges project, all-electronic tolling on the turnpike and highway systems, and major additional funding for municipal roads and bridges.
 He is the legislative leader on Electric Vehicle charging infrastructure.
 Senator Watters supports legislation on freight and passenger rail in New Hampshire.
 Senator Watters fought back attempts to undermine collective bargaining and supported efforts to provide fair pension and medical benefits for New Hampshire workers.
@@ -30,3 +30,6 @@ Businesses can’t grow their workforce without affordable housing.
 As a member of the Commission on Affordable Housing, Senator Watters sponsored bills to cut red tape and promote development of workforce housing and secured the first state funding for workforce housing in the capital budget since the 1980s.
 To make sure that people working full time don’t fall below the poverty line and have enough income to offset the rise in the cost of living, Senator Watters cosponsored legislation to raise the minimum wage.
 He took the “Minimum Wage Challenge” to experience life on minimum wage as part of the fight to create a New Hampshire minimum wage law.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

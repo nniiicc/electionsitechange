@@ -1,7 +1,6 @@
-Meet Rob
-I am honored to serve as the State Representative for the 14th Suffolk District, proudly representing the communities of Hyde Park, Roslindale, Readville, and West Roxbury in the Massachusetts House of Representatives!
-My Story
-After graduating Xavier University in Cincinnati, Ohio, with a degree in Political Science, Rob Consalvo started his career in public service nearly 30 years ago as an aide to Massachusetts Senator Edward M.
+top of page Meet Rob Meet Emily Newsletters Legislation Committees Donate More Use tab to navigate through the menu items.
+Meet Rob I am honored to serve as the State Representative for the 14th Suffolk District, proudly representing the communities of Hyde Park, Roslindale, Readville, and West Roxbury in the Massachusetts House of Representatives!
+My Story After graduating Xavier University in Cincinnati, Ohio, with a degree in Political Science, Rob Consalvo started his career in public service nearly #ago as an aide to Massachusetts Senator Edward M.
 Kennedy.
 Rob began as an intern in the Senator’s office and later held the positions of staff assistant and press assistant working out of Senator Kennedy’s offices in Washington, DC and Boston.
 Rob also served as a Legislative Aide in the office of Massachusetts State Representative Angelo M.
@@ -17,5 +16,4 @@ He has also served as a Trustee on the City of Boston’s Neighborhood Housing T
 Today, Rob serves as the State Representative for the 14th Suffolk District representing the Boston neighborhoods of Hyde Park, Roslindale, Readville and West Roxbury.
 He currently serves as Vice Chairman of the Committee on Cannabis Policy as well as he serves on the committees on Housing, Bonding, Capital Expenditures and State Assets and Emergency and Preparedness and Management.
 Rob is the proud father of Amanda, Anthony and Austin and lives in Hyde Park with his children and wife Michelle.
-Contact
-617-722-2030
+Contact rob.consalvo@mahouse.gov 617-722-2030 bottom of page

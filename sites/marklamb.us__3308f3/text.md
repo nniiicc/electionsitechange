@@ -1,40 +1,15 @@
-To the People
-Of Arizona's 5th Congressional District
+ARIZONA'S CHOICE PROVEN CONSERVATIVE LEADER HOME WHO IS MARK LAMB JOIN THE FIGHT EMAIL/TEXT UPDATES VOLUNTEER NEWS MARK LAMB IN THE NEWS ENDORSEMENTS MEDIA INQUIRIES DONATE SUPPORT MARK LAMB (One-time) BECOME A MONTHLY SUPPORTER CONTACT Mark Lamb for U.S.
+Congress in Arizona's 5th Congressional District Thank You To the People Of Arizona's 5 th Congressional District SUPPORT MARK LAMB CLICK HERE TO DONATE Who Is Sheriff Mark Lamb?
 Mark Lamb is not a career politician.
 He is a constitutional conservative and retired sheriff who spent eight years protecting Arizona communities, confronting cartels, fighting human trafficking, and seeing firsthand how Washington's failures affect working families.
 In Congress, Mark will bring practical Arizona leadership to Washington.
 He will work to secure the border, restore order to our immigration system, defend the Constitution, support law enforcement, and advance an economy where families and small businesses can thrive.
-- Proven Law Enforcement Leadership Eight years serving and protecting Arizona communities
-- Secure Border.
+Proven Law Enforcement Leadership Eight years serving and protecting Arizona communities Secure Border.
 Orderly Immigration.
-Stop the cartels, enforce the law, and protect legal immigration and commerce
-- A Stronger Economy for Arizona and American Families Lower costs, support small businesses, protect taxpayers, and strengthen American jobs
-Mesa Arizona Chamber of Commerce endorses Mark Lamb for Congress, highlighting his small-business experience and commitment to reducing burdensome regulation. ...more
-Endorsements
-September 27, 2026•2 min read
-Mark Lamb explains why free isn’t free and calls for fiscal responsibility in Washington, cutting government waste, protecting Arizona taxpayers, reducing unnecessary bureaucracy, and demanding accoun... ...more
-From The Desk of Sheriff Mark Lamb
-September 10, 2026•4 min read
-U.S.
-Congressional candidate for Arizona CD-5, former Pinal County Sheriff Mark Lamb, explains his opposition to defunding police and abolishing ICE, drawing on his experience with border security, fe... ...more
-September 09, 2026•3 min read
-Mark Lamb explains his position on Arizona AI data centers, including water use, power-grid demands, ratepayer costs and protections for local communities. ...more
-September 05, 2026•4 min read
-The National Association of Police Organizations has endorsed former Pinal County Sheriff Mark Lamb for Congress in Arizona’s 5th Congressional District. ...more
-August 19, 2026•4 min read
-Mark Lamb joins Newsmax host Joe Pinion to discuss how illegal immigration affects housing, jobs, taxpayer-funded benefits and the American Dream. ...more
-Interviews
-August 12, 2026•3 min read
-Republican congressional candidate Mark Lamb joins Steve Gruber on Real America's Voice to discuss Arizona's future, election integrity, border security, constitutional rights, and the common-sense le... ...more
-July 23, 2026•4 min read
-Mark Lamb discusses Arizona's future, border security, election confidence, constitutional government, and common-sense leadership in his OAN interview. ...more
-July 23, 2026•3 min read
-Retired Sheriff Mark Lamb speaks to Republicans in Chandler, Arizona about border security, immigration, the economy, election integrity, constitutional government, and why he is running for Congress ... ...more
-Events
-July 16, 2026•4 min read
-Retired Pinal County Sheriff and congressional candidate Mark Lamb joins Matt Gaetz to discuss border security, immigration enforcement, ICE operations, and why local law enforcement partnerships are ... ...more
-July 15, 2026•3 min read
-Former Maricopa County Sheriff Joe Arpaio has endorsed Mark Lamb for Congress, joining President Donald Trump in supporting the former Pinal County Sheriff in Arizona's 5th Congressional District. ...more
-July 15, 2026•2 min read
-Stand for Health Freedom has officially endorsed Mark Lamb for Congress, recognizing his commitment to constitutional rights, individual liberty, and health freedom ahead of Arizona's July 21 Republic... ...more
-July 13, 2026•2 min read
+Stop the cartels, enforce the law, and protect legal immigration and commerce A Stronger Economy for Arizona and American Families Lower costs, support small businesses, protect taxpayers, and strengthen American jobs Learn More Donate $100 through this special offer and receive a laser-engraved Mark Lamb knife and one available Mark Lamb challenge coin.
+Supplies are limited.
+Coin style varies, and the first available design will be shipped.
+MARK LAMB IN THE NEWS MARK LAMB IN THE NEWS Mesa Chamber of Commerce Endorses Mark Lamb for Congress Mesa Arizona Chamber of Commerce endorses Mark Lamb for Congress, highlighting his small-business experience and commitment to reducing burdensome regulation. ...more Endorsements September 27, 2026 • 2 min read Free Isn’t Free: Somebody Is Paying The Bill Mark Lamb explains why free isn’t free and calls for fiscal responsibility in Washington, cutting government waste, protecting Arizona taxpayers, reducing unnecessary bureaucracy, and demanding accoun... ...more From The Desk of Sheriff Mark Lamb September 10, 2026 • 4 min read You Cannot Secure a Country You Refuse to Police | Mark Lamb U.S.
+Congressional candidate for Arizona CD-5, former Pinal County Sheriff Mark Lamb, explains his opposition to defunding police and abolishing ICE, drawing on his experience with border security, fe... ...more From The Desk of Sheriff Mark Lamb September 09, 2026 • 3 min read Arizona Shouldn’t Pay the Price for Big Tech’s Data Centers Mark Lamb explains his position on Arizona AI data centers, including water use, power-grid demands, ratepayer costs and protections for local communities. ...more From The Desk of Sheriff Mark Lamb September 05, 2026 • 4 min read National Association of Police Organizations Endorses Mark Lamb for Congress The National Association of Police Organizations has endorsed former Pinal County Sheriff Mark Lamb for Congress in Arizona’s 5th Congressional District. ...more Endorsements August 19, 2026 • 4 min read Mark Lamb on Newsmax: Put Americans First on Immigration Mark Lamb joins Newsmax host Joe Pinion to discuss how illegal immigration affects housing, jobs, taxpayer-funded benefits and the American Dream. ...more Interviews August 12, 2026 • # min read Mark Lamb on The Steve Gruber Show: Common Sense Leadership, Election Integrity & Arizona's Future Republican congressional candidate Mark Lamb joins Steve Gruber on Real America's Voice to discuss Arizona's future, election integrity, border security, constitutional rights, and the common-sense le... ...more Interviews July 23, 2026 • 4 min read Mark Lamb on OAN: Common Sense Leadership, Election Confidence, and Arizona's Path Forward Mark Lamb discusses Arizona's future, border security, election confidence, constitutional government, and common-sense leadership in his OAN interview. ...more Interviews July 23, 2026 • 3 min read Mark Lamb Speaks to Chandler Republicans About Securing America's Future Retired Sheriff Mark Lamb speaks to Republicans in Chandler, Arizona about border security, immigration, the economy, election integrity, constitutional government, and why he is running for Congress ... ...more Events July 16, 2026 • 4 min read Mark Lamb on Matt Gaetz: Border Security, ICE Cooperation, and Immigration Enforcement Retired Pinal County Sheriff and congressional candidate Mark Lamb joins Matt Gaetz to discuss border security, immigration enforcement, ICE operations, and why local law enforcement partnerships are ... ...more Interviews July 15, 2026 • 3 min read Joe Arpaio Endorses Mark Lamb for Congress in Arizona's 5th District Former Maricopa County Sheriff Joe Arpaio has endorsed Mark Lamb for Congress, joining President Donald Trump in supporting the former Pinal County Sheriff in Arizona's 5th Congressional District. ...more Endorsements July 15, 2026 • 2 min read Stand for Health Freedom Endorses Mark Lamb for Congress Stand for Health Freedom has officially endorsed Mark Lamb for Congress, recognizing his commitment to constitutional rights, individual liberty, and health freedom ahead of Arizona's July 21 Republic... ...more Endorsements July 13, 2026 • 2 min read More News SIGN UP FOR NEWS UPDATES Mark Lamb News, Updates, and More HOME ABOUT EMAIL UPDATES VOLUNTEER DONATE BECOME A MONTHLY SUPPORTER Get in Touch © # Mark Lamb for Congress.
+All Rights Reserved.
+Privacy Terms PAID FOR BY MARK LAMB FOR CONGRESS

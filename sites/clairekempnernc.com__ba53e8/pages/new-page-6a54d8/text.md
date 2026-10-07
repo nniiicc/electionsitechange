@@ -1,2 +1,2 @@
-Voter Information Make your plan to vote on November 3.
-Check Your Registration View Your Sample Ballot Voting Locations and Times
+0 Skip to Content Home Meet Claire Priorities Voter Info Get Involved DONATE Open Menu Close Menu DONATE Home Meet Claire Priorities Voter Info Get Involved Open Menu Close Menu Home Meet Claire Priorities Voter Info Get Involved DONATE Voter Information Make your plan to vote on November 3.
+Check Your Registration View Your Sample Ballot Voting Locations and Times Paid for by Claire Kempner for NC

@@ -1,3 +1,18 @@
-Ro Khanna doesn’t deserve support
-The election of Ro Khanna, US Representative from California’s 17th congressional district, in 2018, was supported by some leading Hindu Americans in CA17 district.
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact History & Policies Latest News Ro Khanna doesn’t deserve support News Ro Khanna News January 9, 2020 The election of Ro Khanna, US Representative from California’s 17th congressional district, in 2018, was supported by some leading Hindu Americans in CA17 district.
 The trust of Hindu American community on his abilities went far beyond the trust on his principal opponent Ron Cohen in 2018.
+Read more Ro Khanna-A Power-Hungry Politician or Unscrupulous Charlatan News Ro Khanna News January 8, 2020 In early August 2019, Ro Khanna, the congressman representing the 17th district of California, joined the Congressional Pakistan Caucus.
+Then subsequently, on August 29th, Representative Khanna tweeted “it’s the duty of every American politician of Hindu faith to stand for pluralism, reject Hindutva, Read more Ro Khanna, the anti-poverty crusader and messiah of plurality News Ro Khanna News January 7, 2020 Why does an ethnically diverse district in which the median income of households is $141,000 per annum need an anti-poverty and anti-fascism campaign?
+This is probably the question that arises in the minds of many reasonable-minded people in Ro Khanna’s district and around the country.
+Read more 230 Indian-American organisations urge RO Khanna to withdraw from Pakistan Caucus News Ro Khanna News January 6, 2020 WASHINGTON: A record number of 230 Indian-American organisations in the US have urged Democratic Congressman Ro Khanna to withdraw from the Congressional Caucus on Pakistan, saying it was contrary to both American principles and India's geo-strategic interests.
+Read more Schwab Abandons San Francisco News January 5, 2020 Charles Schwab's $26 billion deal to acquire TD Ameritrade will result in the relocation of its San Francisco-based headquarters to Dallas-Fort Worth, reported The Wall Street Journal.
+Read more The truth of congressman RO Khanna News Ro Khanna News January 4, 2020 The Truth About Congressman Ro Khanna and why you Should Vote for Ritesh Tandon (TandonForCongress) Read more Campaign Announcement: Ritesh Tandon, CA-17 Achievement Economy News January 13, 2018 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test.
+Override the digital divide with clickthroughs.
+Dramatically engage top-line web services cutting-edge deliver.
+Proactively envisioned multimedia based expertise and cross-media growth strategies quality.
+Read more Robust Economy, Less Regulation and Low corporate tax is my goal News Statement January 12, 2018 Robust Economy, Less Regulation and Low Corporate Tax is my goal.
+Donate to my campaign www.tandonforcongress.com Read more No Affirmative Education in our School System!
+Achievement News People January 11, 2018 Why Prop 209 is important for college admissions?
+Removing Prop 209 will only deteriorate the quality of education in California UC colleges and the state universities.
+I wholeheartedly oppose anything that minimizes competition and success as the key admissions requirement to our esteemed state school system Read more Immigration Reform and STOP torture of families Achievement Economy News January 10, 2018 As a representative of Silicon Valley, I will make improving and modernizing our legal immigration system a top priority.
+This issue is too important to our community to be treated like a political football!
+Read more Older Posts PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

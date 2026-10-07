@@ -1,5 +1,4 @@
-Meet Nick
-Nick DiCeglie grew up in North Woodmere NY.
+Skip to content Meet Nick Issues Join Recent News Meet Nick Issues Join Recent News Contribute Meet Nick Nick DiCeglie grew up in North Woodmere NY.
 He has resided in Florida since 1996.
 Nick is married to Erica DiCeglie, an accomplished musician and composer.
 They have two children, Livia and Carlo.
@@ -11,8 +10,12 @@ The following year Nick sponsored and passed HB 441 to improve transparency and 
 With a strong commitment to compassion and innovation, Nick has successfully spearheaded initiatives that not only enhance the organization’s impact but also foster a culture of empathy and support within the community.
 Under his leadership, HVA continues to thrive, making meaningful contributions and forging partnerships that drive positive change.
 In the Florida Senate Nick currently serves as Chair of the Appropriation Committee on Transportation, Tourism, and Economic Development.
-More about Nick
-• Business leadership background.
-• Legislative achievements in the House & Senate.
-• Emergency management leadership and hurricane recovery record.
-• Conservative legislative wins on taxes, public safety, and economic policy.
+More about Nick • Business leadership background. • Legislative achievements in the House & Senate. • Emergency management leadership and hurricane recovery record. • Conservative legislative wins on taxes, public safety, and economic policy.
+See Nick's Florida Senate Profile Donate Volunteer Sign Up Recent News Privacy Policy Sign Up Recent News Privacy Policy Paid by Nick DiCeglie, Republican, for State Senate.
+Contributions not deductible for Federal income tax purposes.
+9800 4th Street North, Suite 200, St.
+Petersburg, FL 33702 By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from the Nick DiCeglie Campaign.
+Msg frequency varies.
+Msg & data rates may apply.
+Text HELP for support or e-mail info@nickdiceglie.com.
+Terms and Conditions | Privacy Policy

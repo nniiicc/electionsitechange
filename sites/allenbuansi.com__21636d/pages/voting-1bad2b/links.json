@@ -1,19 +1,70 @@
 [
-"https://allenbuansi.com/",
-"https://allenbuansi.com/accomplishments",
-"https://allenbuansi.com/allen",
-"https://allenbuansi.com/cart",
-"https://allenbuansi.com/endorsements",
-"https://allenbuansi.com/priorities",
-"https://allenbuansi.com/voting",
-"https://dl.ncsbe.gov/RegistrationRepair/index.html",
-"https://facebook.com/AllenBuansiNC",
-"https://instagram.com/allenbuansi",
-"https://nc-orangecounty.civicplus.com/1104/Absentee-Voting-By-Mail",
-"https://ncsbe.gov/registrationrepair",
-"https://orangecountync.gov/1102/Voter-Registration",
-"https://orangecountync.gov/1116/Early-Voting",
-"https://payments.ncdot.gov/",
-"https://secure.ngpvan.com/fL3yXlihIkK8Y4omezez0Q2",
-"https://twitter.com/AllenBuansi"
+{
+"text": "0",
+"href": "https://www.allenbuansi.com/cart"
+},
+{
+"text": "Absentee Voting by Mail page",
+"href": "https://nc-orangecounty.civicplus.com/1104/Absentee-Voting-By-Mail"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.allenbuansi.com/accomplishments"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/fL3yXlihIkK8Y4omezez0Q2"
+},
+{
+"text": "Early Voting Info",
+"href": "https://www.allenbuansi.com/voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.allenbuansi.com/endorsements"
+},
+{
+"text": "Meet Allen",
+"href": "https://www.allenbuansi.com/allen"
+},
+{
+"text": "NC State Board of Elections - Same Day Registration page",
+"href": "https://www.orangecountync.gov/1116/Early-Voting"
+},
+{
+"text": "Priorities",
+"href": "https://www.allenbuansi.com/priorities"
+},
+{
+"text": "[image: Allen Buansi]",
+"href": "https://www.allenbuansi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AllenBuansi"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AllenBuansiNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/allenbuansi/"
+},
+{
+"text": "here",
+"href": "https://www.orangecountync.gov/1102/Voter-Registration"
+},
+{
+"text": "https://dl.ncsbe.gov/RegistrationRepair/index.html",
+"href": "https://dl.ncsbe.gov/RegistrationRepair/index.html"
+},
+{
+"text": "https://payments.ncdot.gov/",
+"href": "https://payments.ncdot.gov/"
+},
+{
+"text": "https://www.ncsbe.gov/registrationrepair",
+"href": "https://www.ncsbe.gov/registrationrepair"
+}
 ]

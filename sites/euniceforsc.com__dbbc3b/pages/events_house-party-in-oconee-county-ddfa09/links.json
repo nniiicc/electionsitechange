@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Celebration+of+Democratic+Primary+Winners&dates=20260613T210000Z%2F20260614T010000Z&location=305+McCall+Brothers+Drive%2C+Salem%2C+South+Carolina%2C+29676%2C+United+States",
-"http://maps.google.com/?q=305+McCall+Brothers+Drive+Salem%2C+South+Carolina%2C+29676+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/house-party-in-oconee-county?format=ical",
-"https://euniceforsc.com/events/meet-greet-for-eunice-in-clemson-patrick-square",
-"https://euniceforsc.com/events/pickens-county-democratic-party-meeting",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://instagram.com/euniceforsc",
-"https://mobilize.us/indivisibleoconeesc/event/963347?referring_vol=12570958&share_context=dashboard-event-details&sharer_role=2",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=305+mccall+brothers+drive+salem%2C+south+carolina%2C+29676+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Celebration+of+Democratic+Primary+Winners&dates=20260613T210000Z%2F20260614T010000Z&location=305+McCall+Brothers+Drive%2C+Salem%2C+South+Carolina%2C+29676%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/house-party-in-oconee-county?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next June 29 Meet & Greet for Eunice in Clemson (Patrick Square)",
+"href": "https://www.euniceforsc.com/events/meet-greet-for-eunice-in-clemson-patrick-square"
+},
+{
+"text": "Previous Previous June 13 Pickens County Democratic Party Meeting",
+"href": "https://www.euniceforsc.com/events/pickens-county-democratic-party-meeting"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/indivisibleoconeesc/event/963347/?referring_vol=12570958&share_context=dashboard-event-details&sharer_role=2"
+}
 ]

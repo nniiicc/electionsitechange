@@ -1,26 +1,2 @@
-HOME
-ABOUT GAIL
-PRIORITIES
-ENDORSEMENTS
-PRESS
-VOTING
-GET INVOLVED
-More
-WORLDWIDE
-Protecting Voting Rights and Fighting for Democracy
-WORLDWIDE
-Stimulating Jobs, Wages
-and our Economy
-WORLDWIDE
-Improving Physical
-and Mental Healthcare
-WORLDWIDE
-Addressing Environmental Impacts and Climate Change
-WORLDWIDE
-Tackling the Housing Shortage and Homelessness
-WORLDWIDE
-Investing in Quality Affordable Education
-WORLDWIDE
-Fighting for Equality
-WORLDWIDE
-Strengthening Public Safety
+top of page HOME ABOUT GAIL PRIORITIES ENDORSEMENTS PRESS VOTING GET INVOLVED More Use tab to navigate through the menu items.
+DONATE 28TH ASSEMBLY DISTRICT WORLDWIDE Protecting Voting Rights and Fighting for Democracy WORLDWIDE Stimulating Jobs, Wages and our Economy WORLDWIDE Improving Physical and Mental Healthcare WORLDWIDE Addressing Environmental Impacts and Climate Change WORLDWIDE Tackling the Housing Shortage and Homelessness WORLDWIDE Investing in Quality Affordable Education WORLDWIDE Fighting for Equality WORLDWIDE Strengthening Public Safety PAID FOR and authorized BY GAIL PELLERIN FOR ASSEMBLY PO Box 4100, Santa Cruz CA, 95063 | ‪(408) 214-4521 ‬ | info@gailpellerinforassembly.com | FPPC ID#1476812 bottom of page

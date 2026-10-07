@@ -1,6 +1,2 @@
-MIKE WALSH
-Sun, Oct 11
-Shrewsbury Street
-Oct 11, 2026, 12:00 PM – 1:30 PM
-Shrewsbury Street, Shrewsbury St, Worcester, MA, USA
-ALEN BLANCO HARNANDEZ 2035
+top of page MIKE WALSH DONATE SHOP VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close Shrewsbury Street Italian Heritage Parade Sun, Oct 11 | Shrewsbury Street RSVP Time & Location Oct 11, 2026, 12:00 PM – 1:30 PM Shrewsbury Street, Shrewsbury St, Worcester, MA, USA RSVP Share this event VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST Menu Close X INSTAGRAM FACEBOOK CONTACT mikewalshforag@gmail.com Donations can be mailed to: (Checks payable to Committee to Elect Michael Walsh) P.O.
+Box 9 Lynnfield MA, 01940 ​ ​ ​ © # by THE COMMITTEE TO ELECT MICHAEL WALSH VISION ABOUT GET INVOLVED EVENTS MEDIA YARD SIGN REQUEST ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

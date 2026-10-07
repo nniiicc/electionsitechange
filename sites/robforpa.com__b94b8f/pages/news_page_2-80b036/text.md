@@ -1,17 +1,19 @@
-Latest
-News
-- Bresnahan Earns Unified Endorsement from Four Maritime Unions Pittston, PA – Congressman Rob Bresnahan today announced the unified endorsement of his re-election campaign by four national maritime labor unions representing the licensed and…
-- Bresnahan Campaign Announces NFIB Endorsement Pittston, PA – Congressman Rob Bresnahan today announced the National Federation of Independent Business (NFIB) has endorsed his reelection campaign for Pennsylvania’s 8th Congressional District.…
-- Bresnahan Campaign Announces U.S.
-Chamber of Commerce Endorsement Pittston, PA – Congressman Rob Bresnahan today announced the endorsement of the U.S.
-Chamber of Commerce for his reelection campaign, highlighting his record in Congress…
-- Rob Bresnahan Announces Launch of “Women for Rob” Coalition Pittston, PA – Rep.
-Rob Bresnahan today announced the launch of the “Women for Rob” Coalition, a growing network of more than 80 women…
-- Bresnahan Earns Endorsement of American Federation of Government Employees Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the the American Federation of Government Employees and the…
-- Bresnahan Earns Pennsylvania Conference of Teamsters Endorsement Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Pennsylvania Conference of Teamsters, representing over 90,000 hardworking…
-- Bresnahan Earns Endorsement From Pennsylvania State Troopers Association Pittston, PA – Congressman Rob Bresnahan today announced the endorsement of the Pennsylvania State Troopers Association, along with the endorsements of Fraternal Order of Police…
-- Bresnahan Earns Endorsement from Stroud Lodge #75 Fraternal Order of Police Monroe County law enforcement backs Bresnahan’s reelection, citing strong support for first responders.
-- Rob Bresnahan Earns Endorsement from Boilermakers Local 13 Pittston, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Boilermakers Local Lodge No. 13, representing skilled tradespeople who…
-- Democrat City Councilman Calls Out Mayor Cognetti for Prioritizing Campaign Over Scranton Democrat Scranton City Councilman Sean McAndrew calls out mayor Paige Cognetti for putting her congressional campaign ahead of her city.
-- Democrats for Rob Coalition Launches in Support of Congressman Bresnahan’s Reelection PITTSTON, PA — Today, Congressman Rob Bresnahan announced the launch of “Democrats for Rob.” This coalition, co-chaired by former Nanticoke Mayor and current Council President Joseph…
-- Rob Bresnahan Earns Endorsement from Operating Engineers Local 542 PITTSTON, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Amalgamated Transit Union (ATU), representing transit workers including…
+Skip to content Join Team Rob Home About News Labor Endorsements Get Involved Vote Shop Donate Instagram Facebook X YouTube DONATE Latest News Bresnahan Campaign Announces First Two Ads of 2026 Election Cycle August 5, 2026 Pittston, PA – Congressman Rob Bresnahan’s campaign released two new ads today highlighting his work for Northeastern Pennsylvania.
+Read more Bresnahan Earns Unified Endorsement from Four Maritime Unions July 31, 2026 Pittston, PA – Congressman Rob Bresnahan today announced the unified endorsement of his re-election campaign by four national maritime labor unions representing the licensed and… Read more Bresnahan Campaign Announces NFIB Endorsement July 14, 2026 Pittston, PA – Congressman Rob Bresnahan today announced the National Federation of Independent Business (NFIB) has endorsed his reelection campaign for Pennsylvania’s 8th Congressional District.… Read more Bresnahan Campaign Announces U.S.
+Chamber of Commerce Endorsement July 1, 2026 Pittston, PA – Congressman Rob Bresnahan today announced the endorsement of the U.S.
+Chamber of Commerce for his reelection campaign, highlighting his record in Congress… Read more Rob Bresnahan Announces Launch of “Women for Rob” Coalition June 26, 2026 Pittston, PA – Rep.
+Rob Bresnahan today announced the launch of the “Women for Rob” Coalition, a growing network of more than 80 women… Read more Bresnahan Earns Endorsement of American Federation of Government Employees June 19, 2026 Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the the American Federation of Government Employees and the… Read more Bresnahan Earns Pennsylvania Conference of Teamsters Endorsement June 18, 2026 Pittston, PA – Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of the Pennsylvania Conference of Teamsters, representing over 90,000 hardworking… Read more Bresnahan Earns Endorsement From Pennsylvania State Troopers Association June 18, 2026 Pittston, PA – Congressman Rob Bresnahan today announced the endorsement of the Pennsylvania State Troopers Association, along with the endorsements of Fraternal Order of Police… Read more Bresnahan Earns Endorsement from Stroud Lodge #75 Fraternal Order of Police May 1, 2026 Monroe County law enforcement backs Bresnahan’s reelection, citing strong support for first responders.
+Read more Rob Bresnahan Earns Endorsement from Boilermakers Local 13 April 30, 2026 Pittston, PA — Congressman Rob Bresnahan’s campaign today announced that he has earned the endorsement of Boilermakers Local Lodge No.
+13, representing skilled tradespeople who… Read more Democrat City Councilman Calls Out Mayor Cognetti for Prioritizing Campaign Over Scranton April 17, 2026 Democrat Scranton City Councilman Sean McAndrew calls out mayor Paige Cognetti for putting her congressional campaign ahead of her city.
+Read more Democrats for Rob Coalition Launches in Support of Congressman Bresnahan’s Reelection April 14, 2026 PITTSTON, PA — Today, Congressman Rob Bresnahan announced the launch of “Democrats for Rob.” This coalition, co-chaired by former Nanticoke Mayor and current Council President Joseph… Read more 1 2 3 4 Support Rob $25 $50 $75 $100 Join Team Rob!
+First Name (Required) Last Name (Required) Email (Required) Phone Zip Code Text Opt-in (Required) By providing your mobile phone number, you are giving your consent to receive calls and sms/mms messages to that number from Rob for PA.
+Messages may include requests for donations.
+Msg frequency varies.
+Msg & data rates may apply.
+Text Help for support.
+Text Stop to opt out.
+See: Privacy Policy .
+Terms & Conditions .
+I consent Join Us!
+Rob for PA PO Box 971 Pittston, PA 18640 Please send all media inquiries to [email protected] Instagram Facebook X YouTube Privacy Policy Terms & Conditions Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Rob for PA

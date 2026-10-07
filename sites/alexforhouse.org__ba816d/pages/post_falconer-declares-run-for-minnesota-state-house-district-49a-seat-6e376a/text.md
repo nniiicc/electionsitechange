@@ -1,2 +1,4 @@
-Falconer declares run for Minnesota State House District 49A seat Jan 29, 2024 1 min read Read the full article in the Eden Prairie Local News Here
-Letter to the Editor: Letter writer criticizes GOP tax plans, backs DFL House candidates Falconer, Kotyza-Witthuhn
+top of page IN THE NEWS Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+DONATE All Posts Press Releases In the News Letters to the Editor Search Falconer declares run for Minnesota State House District 49A seat Jan 29, 2024 1 min read Read the full article in the Eden Prairie Local News Here In the News Recent Posts See All Letter to the Editor: Support for Falconer as education advocate Letter to the Editor: Falconer earns voter’s support for state House Letter to the Editor: Letter writer criticizes GOP tax plans, backs DFL House candidates Falconer, Kotyza-Witthuhn Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+Meet Alex The Issues VOTE EARLY Volunteer Endorsements DONATE alexforhouse@gmail.com ©# by Alex For House Prepared and paid for by Campaign Fund of Alexander Falconer P.O.
+Box 1346 Minnetonka, MN 55345 bottom of page

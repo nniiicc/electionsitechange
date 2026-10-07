@@ -1,24 +1,10 @@
-Trades Back Santucci for State Representative
-Santucci has earned the endorsement of the Western Reserve Building Trades, SMART Local 33, and the IUPAT Local 476 in his campaign for Ohio’s 64th House District…
-WKBN: Local company celebrates self-founded National Skilled Trades Day
-Wednesday is National Skilled Trades Day, which happens on the first Wednesday in May.
-It’s a day to raise awareness about the skilled trades deficit in the United States, and it started right here in the Mahoning Valley…
-WFMJ: Ohio House Speaker calls map redistricting 'work in progress'
-Bob Cupp, the Ohio House Speaker, was in Warren for a fundraiser and feels the Redistricting Commission has drawn fair maps throughout the process…
-WFMJ: Brookfall Group CEO offering six months of free rent for Ukrainian refugees
-Senior Consultant for Workforce and Community Engagement for VAZA Consulting, Nick Santucci says after Ohio Governor, Mike DeWine asked Ohioans to support Ukrainian refugees, Volodarsky decided to do his part to help with the cause.
-Tribune Chronicle: Nick Santucci will deliver results, not rhetoric
-Nick Santucci will deliver results, not rhetoric
-Tribune Chronicle: Incumbent state legislators, Santucci lead in raising money
-The Republican incumbents in three Ohio General Assembly races in the Mahoning Valley, seeking re-election this year, have healthy cash balances in their campaign funds while Nick Santucci, running for the 64th Ohio House District seat, has the second-most money in his account of any state legislative candidate locally.
-Tribune Chronicle: Delicious fundraiser surrounded by art
-The third annual Men Who Cook was hosted by the Medici Museum in Howland, where 16 “chefs” prepared 14 different meal items for the public to sample.
+0 Skip to Content About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate Tex Fischer 5/10/22 Tex Fischer 5/10/22 Trades Back Santucci for State Representative Santucci has earned the endorsement of the Western Reserve Building Trades, SMART Local 33, and the IUPAT Local 476 in his campaign for Ohio’s 64th House District… Read More Tex Fischer 5/5/22 Tex Fischer 5/5/22 WKBN: Local company celebrates self-founded National Skilled Trades Day Wednesday is National Skilled Trades Day, which happens on the first Wednesday in May.
+It’s a day to raise awareness about the skilled trades deficit in the United States, and it started right here in the Mahoning Valley… Read More Tex Fischer 4/26/22 Tex Fischer 4/26/22 WFMJ: Ohio House Speaker calls map redistricting 'work in progress' Bob Cupp, the Ohio House Speaker, was in Warren for a fundraiser and feels the Redistricting Commission has drawn fair maps throughout the process… Read More Tex Fischer 3/30/22 Tex Fischer 3/30/22 WFMJ: Brookfall Group CEO offering six months of free rent for Ukrainian refugees Senior Consultant for Workforce and Community Engagement for VAZA Consulting, Nick Santucci says after Ohio Governor, Mike DeWine asked Ohioans to support Ukrainian refugees, Volodarsky decided to do his part to help with the cause.
+Read More Tex Fischer 3/27/22 Tex Fischer 3/27/22 Tribune Chronicle: Nick Santucci will deliver results, not rhetoric Nick Santucci will deliver results, not rhetoric Read More Tex Fischer 2/7/22 Tex Fischer 2/7/22 Tribune Chronicle: Incumbent state legislators, Santucci lead in raising money The Republican incumbents in three Ohio General Assembly races in the Mahoning Valley, seeking re-election this year, have healthy cash balances in their campaign funds while Nick Santucci, running for the 64th Ohio House District seat, has the second-most money in his account of any state legislative candidate locally.
+Read More Tex Fischer 2/7/22 Tex Fischer 2/7/22 Tribune Chronicle: Delicious fundraiser surrounded by art The third annual Men Who Cook was hosted by the Medici Museum in Howland, where 16 “chefs” prepared 14 different meal items for the public to sample.
 The event drew more than 200 people.
-WFMJ: Republican Statehouse Candidate Nick Santucci Talks Primary Race
-Nick Santucci answers questions about the Republican primary race for Ohio's 64th District House of Representatives
-Tribune Chronicle: Howland Republican leads in funds for state House race
-Republican Nick Santucci raised the most money of any candidate seeking to succeed state Rep.
+Read More Tex Fischer 2/5/22 Tex Fischer 2/5/22 WFMJ: Republican Statehouse Candidate Nick Santucci Talks Primary Race Nick Santucci answers questions about the Republican primary race for Ohio's 64th District House of Representatives Read More Tex Fischer 8/8/21 Tex Fischer 8/8/21 Tribune Chronicle: Howland Republican leads in funds for state House race Republican Nick Santucci raised the most money of any candidate seeking to succeed state Rep.
 Michael J.
 O’Brien in the 64th Ohio House District race during the first half of the year.
-WKBN: ‘The seat is winnable,’ says young Republican vying for Ohio rep. seat
-Nick Santucci, 30, is running as a Republican for the 64th District seat currently held by Democrat Mike O’Brien, who is term limited.
+Read More Tex Fischer 6/9/21 Tex Fischer 6/9/21 WKBN: ‘The seat is winnable,’ says young Republican vying for Ohio rep. seat Nick Santucci, 30, is running as a Republican for the 64th District seat currently held by Democrat Mike O’Brien, who is term limited.
+Read More Newer Posts PAID FOR BY FRIENDS OF NICK SANTUCCI

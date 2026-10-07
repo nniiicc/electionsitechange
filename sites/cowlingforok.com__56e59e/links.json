@@ -1,16 +1,94 @@
 [
-"https://cowlingforok.com/",
-"https://cowlingforok.com/about-randy",
-"https://cowlingforok.com/issues",
-"https://cowlingforok.com/map",
-"https://cowlingforok.com/privacy-policy",
-"https://cowlingforok.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/CowlingforOK",
-"https://iwillvote.com/",
-"https://mobilize.us/okdemocrats?q=cowling",
-"https://oklahoma.gov/elections/voters/absentee-voting.html",
-"https://oklahoma.gov/elections/voters/early-voting.html",
-"https://okvoterportal.okelections.gov/Home/RegWizard",
-"https://secure.actblue.com/donate/randy-cowling-1"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "Early voting locations",
+"href": "https://oklahoma.gov/elections/voters/early-voting.html"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/okdemocrats/?q=cowling"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cowlingforok.com/volunteer"
+},
+{
+"text": "Issues",
+"href": "https://www.cowlingforok.com/issues"
+},
+{
+"text": "Map",
+"href": "https://www.cowlingforok.com/map"
+},
+{
+"text": "Meet Randy",
+"href": "https://www.cowlingforok.com/about-randy"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/randy-cowling-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cowlingforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://okvoterportal.okelections.gov/Home/RegWizard"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://oklahoma.gov/elections/voters/absentee-voting.html"
+},
+{
+"text": "View More",
+"href": "https://www.cowlingforok.com/issues"
+},
+{
+"text": "[image: Randy Cowling for Senate logo]",
+"href": "https://www.cowlingforok.com/"
+},
+{
+"text": "[image: Randy Cowling for Senate]",
+"href": "https://www.cowlingforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CowlingforOK"
+},
+{
+"text": "info@CowlingForOK.com",
+"href": "mailto:info@cowlingforok.com"
+}
 ]

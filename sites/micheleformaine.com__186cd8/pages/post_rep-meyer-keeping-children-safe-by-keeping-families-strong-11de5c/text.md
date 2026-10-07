@@ -1,9 +1,7 @@
-Rep.
-Meyer: Keeping children safe by keeping families strong
-Rep.
-MicheleMeyer
-Guest Columnist
-As a Registered Nurse, State Legislator, parent and grandparent, I know with certainty that supporting families to provide nurturing environments where their children can thrive is critical to their growth and development.
+top of page HOME ABOUT CONTACT CONTRIBUTE NEWS FIND MY DISTRICT More Use tab to navigate through the menu items.
+In the news News & Press Search Rep.
+Meyer: Keeping children safe by keeping families strong Jun 9, 2025 3 min read Rep.
+MicheleMeyer Guest Columnist As seen in SeacoastOnline.com As a Registered Nurse, State Legislator, parent and grandparent, I know with certainty that supporting families to provide nurturing environments where their children can thrive is critical to their growth and development.
 In my four terms of service in the Maine state legislature, three as the House Chair of the Health Human Services Committee, I have proudly advanced and supported legislation, policies and programs that enhance family stability and improve the health and safety of Maine children.
 One of the most important ways we can support Maine families is by building out a network of support, where parents feel they have programs, people and places they can turn to when they face challenges.
 Since parenting can be difficult and hard times can fall on any family, it is critical that supportive communities, accessible programs, and stigma- free assistance are available for every family, wherever they live in our state.
@@ -13,7 +11,7 @@ Research consistently demonstrates that community support significantly enhances
 We encourage help-seeking when a strong community partner like Mainspring provides access to resources, fosters a sense of belonging, and offers vital support for families, leading to improved outcomes for children and caregivers.
 At the level of state government, I am proud of the support I have offered in the development of Maine’s Child Safety and Family Well-Being Plan, which establishes a collective framework for keeping children safe by keeping families strong.
 Working with the Maine Dept. of Health and Human Services and the Maine Child Welfare Action Network, parents and community partners, we acknowledge the fear and stigma parents face when reaching out for assistance as a barrier to ensuring they can get the help they need, when they need it, to care for themselves and their children.
-We developed, and the state funded, a campaign focused on normalizing the challenges of parenting and encouraging and connecting to opportunities for help through a new website: BeThereForMe.org.
+We developed, and the state funded, a campaign focused on normalizing the challenges of parenting and encouraging and connecting to opportunities for help through a new website: BeThereForMe.org .
 The website offers places to start to reach out for support for a variety of issues, including healthcare, food, child care, housing and behavioral health.
 As a policymaker dually focused across my years of service on improving access to and the effectiveness of Maine’s anti-poverty and family support services as well as strengthening child safety and welfare, I introduced LD1877 in the last legislature, providing a 20% increase to the monthly TANF cash benefit for families who have children and very low incomes, the first increase in 7 years now bringing our state in line with our New England neighbors.
 LD393 strengthened behavioral health services for at-risk families and increased support for kinship families.
@@ -22,3 +20,5 @@ There is urgent work ahead for the Maine State Legislature, that is clear.
 Deep, reckless federal funding cuts to Maine’s social safety net including Medicaid (Mainecare), SNAP, and TANF pose significant risks to vulnerable populations − children, older, and disabled citizens − and to the broader economy here.
 Through these difficult times, I will continue my work on behalf of Maine families- improving systems, services, connections and prevention- committed as always to keeping children safe by keeping families strong.
 Now more than ever before, we must fulfill the promise to build villages of hope, change and transformation, investing in the well-being of all members of society, and creating a Maine where every child has the support and resources they need to thrive.
+Recent Posts See All Gearing up for a State Senate race Property taxes and the rising cost of living in Maine: Rep.
+Meyer Mainspring celebrates impact on fighting hunger, poverty in Seacoast ©# Paid for and authorized by Michele for Maine bottom of page

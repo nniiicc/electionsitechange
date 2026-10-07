@@ -1,5 +1,3 @@
-Back to All Events
-Earlier Event: May 28
-Join Us at Vecchia Osteria to Re-Elect Our State Representative Perry Warren
-Later Event: December 19
-Perry Warren's Holiday Reception
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Come Celebrate National Ice Cream Day with Perry and Liz Sunday, July 20, 2025 1:00 PM 4:00 PM 13:00 16:00 Google Calendar ICS Come celebrate National Ice Cream Day Join Representative Perry Warren on July 20th from 1-4pm as we scoop up the sweet treat Tickets Earlier Event: May 28 Join Us at Vecchia Osteria to Re-Elect Our State Representative Perry Warren Later Event: December 19 Perry Warren's Holiday Reception Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

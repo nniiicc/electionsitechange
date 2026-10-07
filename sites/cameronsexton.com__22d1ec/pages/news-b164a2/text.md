@@ -1,8 +1,6 @@
-NASHVILLE, Tenn.
+Toggle navigation Home About Issues On the Road News Volunteer Contact Donate News WREG: Tennessee House Speaker plans to call special session if schools issue mask mandates August 4, 2021 NASHVILLE, Tenn.
 (WKRN) – The new school year is getting started as Tennessee has seen an increase in COVID-19 cases and hospitalizations.
 While doctors have been calling for masks in schools amid the spread of the more contagious Delta variant, Tennessee’s Speaker of the House disagrees.
-During a press conference on Monday afternoon, Cameron Sexton threatened school districts […]
-Republican House Speaker Cameron Sexton, who has long been involved in healthcare policy, outlined in broad strokes what he would like to do earlier this week, but he began his Zoom appearance before the Economic Club of Nashville with a reminder.
-Watch…
-“We need to play our part … it’s a sacrifice, but If we follow CDC guidance and remain steady and positive, we’ll come out on the other side of this,” Sexton said.
-Read more…
+During a press conference on Monday afternoon, Cameron Sexton threatened school districts […] “Tennessee House Speaker outlines vision of healthcare as economy works to re-open” – WKRN April 17, 2020 Republican House Speaker Cameron Sexton, who has long been involved in healthcare policy, outlined in broad strokes what he would like to do earlier this week, but he began his Zoom appearance before the Economic Club of Nashville with a reminder.
+Watch… “Speaker Sexton urges constituents to stay home, social distance” – Crossville Chronicle April 2, 2020 “We need to play our part … it’s a sacrifice, but If we follow CDC guidance and remain steady and positive, we’ll come out on the other side of this,” Sexton said.
+Read more… Home About Issues On the Road News Volunteer Contact Donate Paid for by Cameron Sexton for State Representative Mark Elmore, Treasurer Privacy Policy

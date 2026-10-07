@@ -1,33 +1,198 @@
 [
-"https://capenconsulting.com/",
-"https://chrishumphreync.com/",
-"https://chrishumphreync.com/about",
-"https://chrishumphreync.com/donate",
-"https://chrishumphreync.com/media",
-"https://chrishumphreync.com/news",
-"https://chrishumphreync.com/post/news-ncga-passes-state-budget-humphrey-secures-funding-for-local-projects",
-"https://chrishumphreync.com/post/the-hwy-70-connector-august-september-2026-edition",
-"https://chrishumphreync.com/post/the-hwy-70-connector-july-2026-edition",
-"https://chrishumphreync.com/volunteer",
-"https://congress.gov/",
-"https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
-"https://facebook.com/RepChrisHumphrey",
-"https://governor.nc.gov/",
-"https://instagram.com/rep_humphrey",
-"https://linkedin.com/company/chrishumphreync",
-"https://ltgov.nc.gov/",
-"https://nc.gov/agencies",
-"https://nccourts.gov/",
-"https://ncleg.gov/",
-"https://ncleg.gov/About",
-"https://ncleg.gov/FindYourLegislators",
-"https://ncleg.gov/House/PageProgram",
-"https://ncleg.gov/Laws/Constitution",
-"https://ncleg.gov/Legislation",
-"https://ncleg.gov/Members/MemberList/H",
-"https://nctreasurer.com/",
-"https://sosnc.gov/",
-"https://twitter.com/rephumphrey",
-"https://tyndallfh.com/obituaries/Louis-M-Pate-Jr?obId=44867209",
-"https://youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+{
+"text": "ABOUT",
+"href": "https://www.chrishumphreync.com/about"
+},
+{
+"text": "About the General Assembly",
+"href": "https://www.ncleg.gov/About"
+},
+{
+"text": "Bill Information",
+"href": "https://ncleg.gov/Legislation"
+},
+{
+"text": "CHIP-IN TO HELP RE-ELECT REP. CHRIS HUMPHREY >>>",
+"href": "https://www.chrishumphreync.com/donate"
+},
+{
+"text": "Capen Consulting, LLC",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "Capitol Building Tours",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=I%27d+like+to+tour+the+Old+Capitol+Building"
+},
+{
+"text": "Careers & Employment",
+"href": "https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+},
+{
+"text": "Congress",
+"href": "https://www.congress.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=Contact+Us+%5BRep.+Chris+Humphrey%5D"
+},
+{
+"text": "DONATE",
+"href": "https://www.chrishumphreync.com/donate"
+},
+{
+"text": "Email Webmaster",
+"href": "mailto:info@capenconsulting.com"
+},
+{
+"text": "Find Your Legislative District",
+"href": "https://ncleg.gov/FindYourLegislators"
+},
+{
+"text": "Flag Requests",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=I%27d+like+a+North+Carolina+flag"
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.nc.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.chrishumphreync.com"
+},
+{
+"text": "Help with a State Agency",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=Need+help+with+a+State+Agency"
+},
+{
+"text": "House Members",
+"href": "https://www.ncleg.gov/Members/MemberList/H"
+},
+{
+"text": "House Page Program",
+"href": "https://www.ncleg.gov/House/PageProgram"
+},
+{
+"text": "Internships",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=NCGA+Internship+Opportunities"
+},
+{
+"text": "JOIN OUR TEAM",
+"href": "https://www.chrishumphreync.com/volunteer"
+},
+{
+"text": "Legislative Building Tours",
+"href": "mailto:Chris.Humphrey@ncleg.gov?subject=I%27d+like+a+tour+of+the+Legislative+Building"
+},
+{
+"text": "Lt. Governor's Office",
+"href": "https://ltgov.nc.gov/"
+},
+{
+"text": "MEDIA",
+"href": "https://www.chrishumphreync.com/media"
+},
+{
+"text": "NCGA Live Stream",
+"href": "https://www.youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+},
+{
+"text": "NEWS",
+"href": "https://www.chrishumphreync.com/news"
+},
+{
+"text": "NEWS: NCGA passes state budget, Humphrey secures funding for local projects",
+"href": "https://www.chrishumphreync.com/post/news-ncga-passes-state-budget-humphrey-secures-funding-for-local-projects"
+},
+{
+"text": "News & Media Resources",
+"href": "https://www.chrishumphreync.com/media"
+},
+{
+"text": "North Carolina Courts",
+"href": "https://www.nccourts.gov/"
+},
+{
+"text": "North Carolina General Assembly",
+"href": "https://ncleg.gov/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:info@capenconsulting.com?subject=HUMPHREY%3A+Press+Inquiry"
+},
+{
+"text": "READ OFFICIAL OBITUARY >>>",
+"href": "https://www.tyndallfh.com/obituaries/Louis-M-Pate-Jr?obId=44867209"
+},
+{
+"text": "Secretary of State's Office",
+"href": "https://www.sosnc.gov/"
+},
+{
+"text": "See All",
+"href": "https://www.chrishumphreync.com/news"
+},
+{
+"text": "State Agencies",
+"href": "https://www.nc.gov/agencies"
+},
+{
+"text": "State Constitution",
+"href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "THE HWY 70 CONNECTOR: August-September 2026 Edition",
+"href": "https://www.chrishumphreync.com/post/the-hwy-70-connector-august-september-2026-edition"
+},
+{
+"text": "THE HWY 70 CONNECTOR: July 2026 Edition",
+"href": "https://www.chrishumphreync.com/post/the-hwy-70-connector-july-2026-edition"
+},
+{
+"text": "Treasurer's Office",
+"href": "https://www.nctreasurer.com/"
+},
+{
+"text": "[image: CHumphrey Logo _wt.png]",
+"href": "https://www.chrishumphreync.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepChrisHumphrey"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/rep_humphrey/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rep_humphrey/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/chrishumphreync"
+},
+{
+"text": "[image: NEWS: NCGA passes state budget, Humphrey secures funding for local projects]",
+"href": "https://www.chrishumphreync.com/post/news-ncga-passes-state-budget-humphrey-secures-funding-for-local-projects"
+},
+{
+"text": "[image: THE HWY 70 CONNECTOR: August-September 2026 Edition]",
+"href": "https://www.chrishumphreync.com/post/the-hwy-70-connector-august-september-2026-edition"
+},
+{
+"text": "[image: THE HWY 70 CONNECTOR: July 2026 Edition]",
+"href": "https://www.chrishumphreync.com/post/the-hwy-70-connector-july-2026-edition"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/rephumphrey"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/rephumphrey"
+},
+{
+"text": "[image]",
+"href": "https://www.capenconsulting.com/"
+}
 ]

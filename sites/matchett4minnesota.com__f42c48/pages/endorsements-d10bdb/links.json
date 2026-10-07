@@ -1,33 +1,142 @@
 [
-"https://facebook.com/profile.php?id=61578539772678",
-"https://instagram.com/matchett4minnesota",
-"https://matchett4minnesota.com/",
-"https://matchett4minnesota.com/about",
-"https://matchett4minnesota.com/accessibility",
-"https://matchett4minnesota.com/book-online",
-"https://matchett4minnesota.com/contact",
-"https://matchett4minnesota.com/endorsements",
-"https://matchett4minnesota.com/endorsements/afscme-council-5",
-"https://matchett4minnesota.com/endorsements/clean-water-action",
-"https://matchett4minnesota.com/endorsements/communications-workers-of-america",
-"https://matchett4minnesota.com/endorsements/fairvote-minnesota",
-"https://matchett4minnesota.com/endorsements/faith-in-minnesota",
-"https://matchett4minnesota.com/endorsements/friends-of-the-boundary-waters-action-network",
-"https://matchett4minnesota.com/endorsements/mape",
-"https://matchett4minnesota.com/endorsements/minnesota-afl-cio",
-"https://matchett4minnesota.com/endorsements/minnesota-dfl",
-"https://matchett4minnesota.com/endorsements/minnesota-dfl-senior-caucus",
-"https://matchett4minnesota.com/endorsements/minnesota-young-dfl",
-"https://matchett4minnesota.com/endorsements/moms-demand-action",
-"https://matchett4minnesota.com/endorsements/planned-parenthood-mn-nd-sd-action-fund",
-"https://matchett4minnesota.com/endorsements/save-the-boundary-waters-action-fund",
-"https://matchett4minnesota.com/endorsements/stonewall-dfl",
-"https://matchett4minnesota.com/endorsements/women-winning",
-"https://matchett4minnesota.com/events",
-"https://matchett4minnesota.com/issues",
-"https://matchett4minnesota.com/press",
-"https://matchett4minnesota.com/privacy-policy",
-"https://matchett4minnesota.com/volunteer",
-"https://secure.actblue.com/donate/amandamatchett",
-"https://tiktok.com/@matchett4minnesota"
+{
+"text": "About",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "About Amanda",
+"href": "https://matchett4minnesota.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://matchett4minnesota.com/accessibility/"
+},
+{
+"text": "Communications Workers of America",
+"href": "https://matchett4minnesota.com/endorsements/communications-workers-of-america/"
+},
+{
+"text": "Contact form",
+"href": "https://matchett4minnesota.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+},
+{
+"text": "Endorsements",
+"href": "https://matchett4minnesota.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://matchett4minnesota.com/events/"
+},
+{
+"text": "Home",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "Issues",
+"href": "https://matchett4minnesota.com/issues/"
+},
+{
+"text": "Meet Amanda",
+"href": "https://matchett4minnesota.com/book-online/"
+},
+{
+"text": "Press",
+"href": "https://matchett4minnesota.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://matchett4minnesota.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://matchett4minnesota.com/volunteer/"
+},
+{
+"text": "[image] AFSCME Council 5",
+"href": "https://matchett4minnesota.com/endorsements/afscme-council-5/"
+},
+{
+"text": "[image] Amanda Matchett MN House 32A",
+"href": "https://matchett4minnesota.com/"
+},
+{
+"text": "[image] Clean Water Action",
+"href": "https://matchett4minnesota.com/endorsements/clean-water-action/"
+},
+{
+"text": "[image] FairVote Minnesota",
+"href": "https://matchett4minnesota.com/endorsements/fairvote-minnesota/"
+},
+{
+"text": "[image] Faith in Minnesota",
+"href": "https://matchett4minnesota.com/endorsements/faith-in-minnesota/"
+},
+{
+"text": "[image] Friends of the Boundary Waters Action Network",
+"href": "https://matchett4minnesota.com/endorsements/friends-of-the-boundary-waters-action-network/"
+},
+{
+"text": "[image] Minnesota AFL-CIO",
+"href": "https://matchett4minnesota.com/endorsements/minnesota-afl-cio/"
+},
+{
+"text": "[image] Minnesota Association of Professional Employees",
+"href": "https://matchett4minnesota.com/endorsements/mape/"
+},
+{
+"text": "[image] Minnesota DFL",
+"href": "https://matchett4minnesota.com/endorsements/minnesota-dfl/"
+},
+{
+"text": "[image] Minnesota DFL Senior Caucus",
+"href": "https://matchett4minnesota.com/endorsements/minnesota-dfl-senior-caucus/"
+},
+{
+"text": "[image] Minnesota Young DFL",
+"href": "https://matchett4minnesota.com/endorsements/minnesota-young-dfl/"
+},
+{
+"text": "[image] Moms Demand Action",
+"href": "https://matchett4minnesota.com/endorsements/moms-demand-action/"
+},
+{
+"text": "[image] Planned Parenthood MN, ND, SD Action Fund",
+"href": "https://matchett4minnesota.com/endorsements/planned-parenthood-mn-nd-sd-action-fund/"
+},
+{
+"text": "[image] Save the Boundary Waters Action Fund",
+"href": "https://matchett4minnesota.com/endorsements/save-the-boundary-waters-action-fund/"
+},
+{
+"text": "[image] Stonewall DFL",
+"href": "https://matchett4minnesota.com/endorsements/stonewall-dfl/"
+},
+{
+"text": "[image] Women Winning",
+"href": "https://matchett4minnesota.com/endorsements/women-winning/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578539772678"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/matchett4minnesota/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@matchett4minnesota"
+},
+{
+"text": "info@matchett4minnesota.com",
+"href": "mailto:info@matchett4minnesota.com"
+},
+{
+"text": "♥ Donate",
+"href": "https://secure.actblue.com/donate/amandamatchett"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"https://alonsforsenate.com/",
-"https://alonsforsenate.com/about",
-"https://alonsforsenate.com/cart",
-"https://alonsforsenate.com/contact",
-"https://alonsforsenate.com/events",
-"https://alonsforsenate.com/issues",
-"https://alonsforsenate.com/news",
-"https://alonsforsenate.com/store",
-"https://alonsforsenate.com/volunteer",
-"https://facebook.com/KevinAlonsForIowaSenate",
-"https://secure.winred.com/alons-for-senate/contribute"
+{
+"text": "0",
+"href": "https://www.alonsforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.alonsforsenate.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/alons-for-senate/contribute"
+},
+{
+"text": "Contact",
+"href": "https://www.alonsforsenate.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.alonsforsenate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.alonsforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.alonsforsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.alonsforsenate.com/news"
+},
+{
+"text": "Store",
+"href": "https://www.alonsforsenate.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alonsforsenate.com/volunteer"
+},
+{
+"text": "[image: Alons for Iowa Senate]",
+"href": "https://www.alonsforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KevinAlonsForIowaSenate"
+}
 ]

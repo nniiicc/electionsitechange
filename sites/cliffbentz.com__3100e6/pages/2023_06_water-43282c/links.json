@@ -1,20 +1,94 @@
 [
-"https://bentz.house.gov/",
-"https://cliffbentz.com/",
-"https://cliffbentz.com/contact",
-"https://cliffbentz.com/endorsements",
-"https://cliffbentz.com/issues",
-"https://cliffbentz.com/media",
-"https://cliffbentz.com/meet-cliff",
-"https://cliffbentz.com/privacy-policy",
-"https://cliffbentz.com/volunteer",
-"https://facebook.com/bentzfororegon",
-"https://facebook.com/ofbinfo?__tn__=K-R&eid=ARB3px7VUkV7vrBeajRKpAvDI2AGsPhCd0nx7O7P7EiJsqiCMzsuj5nYqUKB0QR0kjNwmy5h7w_wajLg&fref=mentions&__xts__%5B0%5D=68.ARCkfBoZ6fgvGO81rWg_QoFgI1VzX6Pu3Zms9xb4V1pl67JUfZTXo6vFjxpGn4pH2jOSfcJ45cdYEOiGo8Gu5iEAZatv-Ta0Uzm4wgmZLgPAqdHr-orCTpLpPGbgAybfsD3iCAzkK0LxJytWXTb-mvHtPHd1stAFahz4rDAsxx_SGKpe0nLMJ_uIlA_zw5Yg5wHUzchxVsQ_GpOzUWC0buzK3VF68SXOJmV6fkUie3v-wtaiOvC7dV_dqyrC5dgG4BVcGSDNMQTwmvwNz9rqMp2VpNvoEr50VYJmdImBsfTp68GpfciB-8EgMsoE-4Zy67XzWZ7bP5nMEfYu8W8",
-"https://facebook.com/orcattle?__tn__=K-R&eid=ARC-1Puyxmg39vUuJXYOcax-9czZBHtBeO8xlzIo2bKDvYsqr78KJyWbHIjTSTEAHWRQ3EvdheG8rnNh&fref=mentions&__xts__%5B0%5D=68.ARCkfBoZ6fgvGO81rWg_QoFgI1VzX6Pu3Zms9xb4V1pl67JUfZTXo6vFjxpGn4pH2jOSfcJ45cdYEOiGo8Gu5iEAZatv-Ta0Uzm4wgmZLgPAqdHr-orCTpLpPGbgAybfsD3iCAzkK0LxJytWXTb-mvHtPHd1stAFahz4rDAsxx_SGKpe0nLMJ_uIlA_zw5Yg5wHUzchxVsQ_GpOzUWC0buzK3VF68SXOJmV6fkUie3v-wtaiOvC7dV_dqyrC5dgG4BVcGSDNMQTwmvwNz9rqMp2VpNvoEr50VYJmdImBsfTp68GpfciB-8EgMsoE-4Zy67XzWZ7bP5nMEfYu8W8",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=100",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=25",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=250",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=50",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "About",
+"href": "https://cliffbentz.com/meet-cliff/"
+},
+{
+"text": "Contact",
+"href": "https://cliffbentz.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "Endorsements",
+"href": "https://cliffbentz.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bentzfororegon/"
+},
+{
+"text": "Farm Bureau",
+"href": "https://www.facebook.com/ofbinfo/?__tn__=K-R&eid=ARB3px7VUkV7vrBeajRKpAvDI2AGsPhCd0nx7O7P7EiJsqiCMzsuj5nYqUKB0QR0kjNwmy5h7w_wajLg&fref=mentions&__xts__%5B0%5D=68.ARCkfBoZ6fgvGO81rWg_QoFgI1VzX6Pu3Zms9xb4V1pl67JUfZTXo6vFjxpGn4pH2jOSfcJ45cdYEOiGo8Gu5iEAZatv-Ta0Uzm4wgmZLgPAqdHr-orCTpLpPGbgAybfsD3iCAzkK0LxJytWXTb-mvHtPHd1stAFahz4rDAsxx_SGKpe0nLMJ_uIlA_zw5Yg5wHUzchxVsQ_GpOzUWC0buzK3VF68SXOJmV6fkUie3v-wtaiOvC7dV_dqyrC5dgG4BVcGSDNMQTwmvwNz9rqMp2VpNvoEr50VYJmdImBsfTp68GpfciB-8EgMsoE-4Zy67XzWZ7bP5nMEfYu8W8"
+},
+{
+"text": "Home",
+"href": "https://cliffbentz.com/"
+},
+{
+"text": "Issues",
+"href": "https://cliffbentz.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://cliffbentz.com/media/"
+},
+{
+"text": "Meet Cliff",
+"href": "https://cliffbentz.com/meet-cliff/"
+},
+{
+"text": "Oregon",
+"href": "https://www.facebook.com/ofbinfo/?__tn__=K-R&eid=ARB3px7VUkV7vrBeajRKpAvDI2AGsPhCd0nx7O7P7EiJsqiCMzsuj5nYqUKB0QR0kjNwmy5h7w_wajLg&fref=mentions&__xts__%5B0%5D=68.ARCkfBoZ6fgvGO81rWg_QoFgI1VzX6Pu3Zms9xb4V1pl67JUfZTXo6vFjxpGn4pH2jOSfcJ45cdYEOiGo8Gu5iEAZatv-Ta0Uzm4wgmZLgPAqdHr-orCTpLpPGbgAybfsD3iCAzkK0LxJytWXTb-mvHtPHd1stAFahz4rDAsxx_SGKpe0nLMJ_uIlA_zw5Yg5wHUzchxVsQ_GpOzUWC0buzK3VF68SXOJmV6fkUie3v-wtaiOvC7dV_dqyrC5dgG4BVcGSDNMQTwmvwNz9rqMp2VpNvoEr50VYJmdImBsfTp68GpfciB-8EgMsoE-4Zy67XzWZ7bP5nMEfYu8W8"
+},
+{
+"text": "Oregon Cattlemen’s Association",
+"href": "https://www.facebook.com/orcattle/?__tn__=K-R&eid=ARC-1Puyxmg39vUuJXYOcax-9czZBHtBeO8xlzIo2bKDvYsqr78KJyWbHIjTSTEAHWRQ3EvdheG8rnNh&fref=mentions&__xts__%5B0%5D=68.ARCkfBoZ6fgvGO81rWg_QoFgI1VzX6Pu3Zms9xb4V1pl67JUfZTXo6vFjxpGn4pH2jOSfcJ45cdYEOiGo8Gu5iEAZatv-Ta0Uzm4wgmZLgPAqdHr-orCTpLpPGbgAybfsD3iCAzkK0LxJytWXTb-mvHtPHd1stAFahz4rDAsxx_SGKpe0nLMJ_uIlA_zw5Yg5wHUzchxVsQ_GpOzUWC0buzK3VF68SXOJmV6fkUie3v-wtaiOvC7dV_dqyrC5dgG4BVcGSDNMQTwmvwNz9rqMp2VpNvoEr50VYJmdImBsfTp68GpfciB-8EgMsoE-4Zy67XzWZ7bP5nMEfYu8W8"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cliffbentz.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://cliffbentz.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/"
+},
+{
+"text": "click here.",
+"href": "https://bentz.house.gov/"
+}
 ]

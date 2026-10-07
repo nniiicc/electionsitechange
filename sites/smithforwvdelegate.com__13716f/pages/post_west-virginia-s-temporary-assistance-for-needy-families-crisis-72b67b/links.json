@@ -1,11 +1,66 @@
 [
-"https://facebook.com/smithforwvdelegate",
-"https://governor.wv.gov/article/statement-school-clothing-allowance-and-tanf-review",
-"https://smithforwvdelegate.com/",
-"https://smithforwvdelegate.com/donate-page",
-"https://smithforwvdelegate.com/home-1",
-"https://smithforwvdelegate.com/news",
-"https://smithforwvdelegate.com/post/on-data-centers",
-"https://smithforwvdelegate.com/post/on-last-week-s-homecoming-parade",
-"https://smithforwvdelegate.com/post/why-vote-3rd-party-this-november"
+{
+"text": "About Stephen",
+"href": "https://www.smithforwvdelegate.com/home-1"
+},
+{
+"text": "All Posts",
+"href": "https://www.smithforwvdelegate.com/news"
+},
+{
+"text": "DONATE",
+"href": "https://www.smithforwvdelegate.com/donate-page"
+},
+{
+"text": "Get Involved",
+"href": "https://www.smithforwvdelegate.com#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.smithforwvdelegate.com#about"
+},
+{
+"text": "News from Stephen",
+"href": "https://www.smithforwvdelegate.com/news"
+},
+{
+"text": "On Data Centers",
+"href": "https://www.smithforwvdelegate.com/post/on-data-centers"
+},
+{
+"text": "On Last Week's Homecoming Parade",
+"href": "https://www.smithforwvdelegate.com/post/on-last-week-s-homecoming-parade"
+},
+{
+"text": "See All",
+"href": "https://www.smithforwvdelegate.com/news"
+},
+{
+"text": "Why Vote \"3rd Party\" this November?",
+"href": "https://www.smithforwvdelegate.com/post/why-vote-3rd-party-this-november"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.smithforwvdelegate.com"
+},
+{
+"text": "[image: On Data Centers]",
+"href": "https://www.smithforwvdelegate.com/post/on-data-centers"
+},
+{
+"text": "[image: On Last Week's Homecoming Parade]",
+"href": "https://www.smithforwvdelegate.com/post/on-last-week-s-homecoming-parade"
+},
+{
+"text": "[image: Why Vote \"3rd Party\" this November?]",
+"href": "https://www.smithforwvdelegate.com/post/why-vote-3rd-party-this-november"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/smithforwvdelegate/"
+},
+{
+"text": "issued a statement",
+"href": "https://governor.wv.gov/article/statement-school-clothing-allowance-and-tanf-review"
+}
 ]

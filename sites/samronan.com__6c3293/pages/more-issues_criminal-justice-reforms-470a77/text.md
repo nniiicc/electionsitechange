@@ -1,44 +1,6 @@
-CRIMINAL JUSTICE REFORMS
-Corrections
-Rehabilitation as Priority
-- Incarcerated individuals shall receive support and services to reintegrate into society after serving their sentence throughout their sentence and during probation
-- Lowering the cost of sealing records, and removing felony convictions from permanent records
-- Offering incentives to employers for hiring convicted felons who have served their time
-Treatment of Incarcerated Individuals
-- Humane treatment of inmates as priority, with consideration to level of danger the inmate presents, and level of corrections facilities
-- National standards for Isolation, and use of force
-- Modernization of incarceration facilities
-Prioritization of Rehabilitation Centers for Drug Related Crimes
-- Decriminalization of Drug Use and Drug Possession
-- Converting incarcerated inmates for Drug Use or Possession into members of society going through Rehab
-- Investment in Drug and Alcohol Rehabilitation Centers
-- Conversion of existing correctional facilities in part or whole into rehabilitation centers separate from convicted inmates
-- Improving counseling services, and standards to emphasize minimization of relapse
-- Job seeking, and resume building services to all members in rehabilitation centers
-- Support in finding affordable housing, and stable financial standing
-National Standards of Corrections
-- Elimination of privately operated prisons, corrections facilities, and any other facilities associated with Criminal Justice
-- Elimination of privately owned or operated services within the Criminal Justice system
-- Psychological standards for corrections, and criminal justice personnel to ensure humane treatment, and ethical practices
-- Zero tolerance for personnel who receive charges for DUI, DWI, drug usage, assault, sexual offenses, or other felony crimes
-- Zero tolerance also includes misconduct within the facilities themselves such as, but not limited to: assault of inmates, abuse of power, sexual misconduct, or aiding in drug trafficking
-Judicial Support
-Public Defenders
-- Municipalities, and all courts shall set the number of public defenders available to the public to a ratio of 1 public defender to 10 cases that are misdemeanors or above, and have no less than 3 public defenders to assist with minor misdemeanors
-- Private law firms may rotate personnel to serve as public defenders if staffing needs aren’t met for a period of 6 months maximum, per provided public defender
-- Public defenders shall focus on rehabilitative, community service, or other non-jail and fine related resolutions to all cases whenever possible
-Reduction of Traffic Court
-- Traffic Court shall be reduced, as shall policing of traffic as a priority within the criminal justice community
-- Traffic Court shall henceforth deal with misdemeanors, and felony cases exclusively related to traffic, or vehicle crimes
-- Rulings shall focus on rehabilitation, education, public service, or other non-jail and fine related resolutions whenever possible
-Improving Privacy Within Court Arraignments
-- Arraignments for all courts shall be for individuals only, no longer shall group hearings be admissible to ensure and protect privacy of persons arraigned
-- Arraignments should include remote options to reduce traffic and burden of the arraigned from missing work, or other private activities
-National Standards for Qualification of Judgeship or Magistrate
-- For all levels of courts, the standard for Judgeship or Magistrate shall include
-- A minimum of 5 years within a legal field
-- No party affiliation, support, or endorsement
-- No private interest group support, endorsement, or affiliation
-- Term limits not to exceed 12 years cumulative service at any given court system
-- No history, public or private of intolerance, discrimination, bigotry, misogyny, or other forms of demographically charged impartiality
-- Violations of any of the standards shall result in immediate removal from the bench and review of cases judged for impartiality, integrity, and legality
+top of page Log In CRIMINAL JUSTICE REFORMS Previous Next Corrections Rehabilitation as Priority Incarcerated individuals shall receive support and services to reintegrate into society after serving their sentence throughout their sentence and during probation Lowering the cost of sealing records, and removing felony convictions from permanent records Offering incentives to employers for hiring convicted felons who have served their time Treatment of Incarcerated Individuals Humane treatment of inmates as priority, with consideration to level of danger the inmate presents, and level of corrections facilities National standards for Isolation, and use of force Modernization of incarceration facilities Prioritization of Rehabilitation Centers for Drug Related Crimes Decriminalization of Drug Use and Drug Possession Converting incarcerated inmates for Drug Use or Possession into members of society going through Rehab Investment in Drug and Alcohol Rehabilitation Centers Conversion of existing correctional facilities in part or whole into rehabilitation centers separate from convicted inmates Improving counseling services, and standards to emphasize minimization of relapse Job seeking, and resume building services to all members in rehabilitation centers Support in finding affordable housing, and stable financial standing National Standards of Corrections Elimination of privately operated prisons, corrections facilities, and any other facilities associated with Criminal Justice Elimination of privately owned or operated services within the Criminal Justice system Psychological standards for corrections, and criminal justice personnel to ensure humane treatment, and ethical practices Zero tolerance for personnel who receive charges for DUI, DWI, drug usage, assault, sexual offenses, or other felony crimes Zero tolerance also includes misconduct within the facilities themselves such as, but not limited to: assault of inmates, abuse of power, sexual misconduct, or aiding in drug trafficking Judicial Support Public Defenders Municipalities, and all courts shall set the number of public defenders available to the public to a ratio of 1 public defender to 10 cases that are misdemeanors or above, and have no less than 3 public defenders to assist with minor misdemeanors Private law firms may rotate personnel to serve as public defenders if staffing needs aren’t met for a period of 6 months maximum, per provided public defender Public defenders shall focus on rehabilitative, community service, or other non-jail and fine related resolutions to all cases whenever possible Reduction of Traffic Court Traffic Court shall be reduced, as shall policing of traffic as a priority within the criminal justice community Traffic Court shall henceforth deal with misdemeanors, and felony cases exclusively related to traffic, or vehicle crimes Rulings shall focus on rehabilitation, education, public service, or other non-jail and fine related resolutions whenever possible Improving Privacy Within Court Arraignments Arraignments for all courts shall be for individuals only, no longer shall group hearings be admissible to ensure and protect privacy of persons arraigned Arraignments should include remote options to reduce traffic and burden of the arraigned from missing work, or other private activities National Standards for Qualification of Judgeship or Magistrate For all levels of courts, the standard for Judgeship or Magistrate shall include A minimum of 5 years within a legal field No party affiliation, support, or endorsement No private interest group support, endorsement, or affiliation Term limits not to exceed 12 years cumulative service at any given court system No history, public or private of intolerance, discrimination, bigotry, misogyny, or other forms of demographically charged impartiality Violations of any of the standards shall result in immediate removal from the bench and review of cases judged for impartiality, integrity, and legality STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

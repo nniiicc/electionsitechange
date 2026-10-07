@@ -1,9 +1,8 @@
-Western New York’s Economy Can Thrive Again
-Let’s stop pretending.
-Niagara County’s economy isn’t “slow.”
-It isn’t “transitioning.”
-It isn’t “finding its footing.”
-It’s dead.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Western New York’s Economy Can Thrive Again Let’s stop pretending.
+Niagara County’s economy isn’t “slow.” It isn’t “transitioning.” It isn’t “finding its footing.” It’s dead.
 Stores are empty.
 Jobs are scarce.
 Young people leave because they have to.
@@ -21,14 +20,12 @@ Young families don’t stay.
 Every few years we hear the same talking points, the same promises, the same excuses—followed by the same results.
 Be honest: do your kids want to stay here?
 Can they?
-A Practical Path to Revival
-Revival doesn’t start with slogans.
+A Practical Path to Revival Revival doesn’t start with slogans.
 It starts with aligning policy to the economy that already exists here—and then getting out of the way of the people doing real work.
 First: stop sabotaging our own trade.
 If you want a reminder of who we really are, walk into Buffalo City Hall and look at the mural of the U.S.–Canada border.
 It doesn’t show walls or barbed wire.
-It shows two nations side by side, separated only by a line — “unfettered by any frowning fortress.”
-That wasn’t naïveté.
+It shows two nations side by side, separated only by a line — “unfettered by any frowning fortress.” That wasn’t naïveté.
 That was wisdom.
 For generations, this region lived that idea — and prospered because of it.
 Trade ships and pleasure boats crossed the lake constantly, carrying workers, families, and tourists back and forth.
@@ -75,7 +72,7 @@ Schools shrink.
 Main Streets empty.
 That isn’t theory.
 It’s a chain reaction.
-Our agricultural economy cannot survive without workers.
+Our agricultural economy cannot survive without workers .
 The population simply isn’t there.
 Pretending otherwise doesn’t protect jobs—it closes farms.
 We need practical, legal, seasonal labor programs that reflect reality, not talking points.
@@ -83,11 +80,10 @@ Supporting farmers means supporting the workforce they actually need—not forci
 Nearly every farmer in this region knows this—even if politicians won’t say it out loud.
 Third: reinvest where wealth is already being generated.
 Niagara Falls, tourism, energy, and cross-border commerce generate enormous value—but too much of that wealth is extracted and spent elsewhere.
-Meanwhile, the Canadian side—already far ahead—is investing billions to turn Niagara Falls, Ontario into the Las Vegas of the North.
+Meanwhile, the Canadian side—already far ahead—is investing billions to turn Niagara Falls, Ontario into the Las Vegas of the North .
 Why are we willing to accept being the neglected side of one of the most valuable tourist destinations on Earth?
 Revival means fighting to keep more revenue local: reinvesting in infrastructure, small businesses, housing, and walkable commercial districts instead of routing money through distant authorities that never see the consequences.
-(See the section on this site about how Niagara Falls is being robbed.)
-Fourth: rebuild places, not just balance sheets.
+(See the section on this site about how Niagara Falls is being robbed.) Fourth: rebuild places, not just balance sheets.
 People stay where life feels possible.
 That means vibrant main streets, affordable housing, reliable transit, and neighborhoods where starting a business or raising a family doesn’t feel like swimming upstream.
 Economic policy isn’t abstract.
@@ -133,3 +129,6 @@ It comes from fixing what’s broken around what already works—clearing obstac
 That’s not a gimmick.
 That’s not a slogan.
 That’s how regions actually recover.
+No more excuses.
+Let’s get to work.
+Volunteer and Sign Up for Updates!

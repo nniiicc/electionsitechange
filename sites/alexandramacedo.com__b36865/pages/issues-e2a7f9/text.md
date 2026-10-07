@@ -1,5 +1,4 @@
-ISSUES
-Making life more affordable for normal people.
+0 Skip to Content ABOUT ISSUES CONTACT PHOTOS English DONATE Open Menu Close Menu ABOUT ISSUES CONTACT PHOTOS English DONATE Open Menu Close Menu ABOUT ISSUES CONTACT PHOTOS English Back DONATE ISSUES Making life more affordable for normal people.
 Sacramento’s answer to every problem is higher taxes and more laws that lead to higher prices for gas, food, and other things we all need every day.
 I oppose new taxes and support reducing the taxes that make life harder for normal people.
 I support reducing unfair rules so that we can build more homes and apartments that people can actually afford.
@@ -21,3 +20,4 @@ Education is the civil rights issue of our day.
 When our K-12 schools fail our students, we steal their opportunity for a better life.
 We need to rethink how we go about our school system.
 I support making charter schools easier to set up and ensuring they have the money needed by focusing resources on the classroom, not the administration, demanding results, and making sure parents have a strong voice in what their children are learning.
+CONTRIBUTE Paid for by Alexandra Macedo for Assembly 2026 Privacy Policy & Terms and Conditions

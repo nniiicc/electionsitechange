@@ -1,16 +1,6 @@
-Polling Places
-SANFORD:
-City Clerk’s Office: (207)-324-9125
-Ward #1 votes at: Nasson Community Center Gym: 457 Main Street, Springvale
-Ward #2 votes at: St.
-Ignatius Parish Hall/Gym: 25 Riverside Avenue, Sanford
-Ward #3 votes at: Sanford High School & Technical Center: 100 Alumni Blvd.
-LEBANON:
-Town Clerk’s Office: (207)-457-6082 Option 3
-Vote at: Lebanon Elementary School: 65 Upper Guinea Road, Lebanon
-WATERBORO:
-Town Clerk’s Office: (207)-247-6166 Ext. 110
-Vote at: Massabesic High School: 88 West Road, East Waterboro
-ALFRED:
-Town Clerk’s Office: (207)-324-5872, Ext. 204
-Vote at: Conant Chapel: 8 Kennebunk Road, Alfred
+Home About About Matt Sign Up Contact Vote New Events Issues Get Involved Useful Links Maine State Legislature Maine Senate Republicans Maine GOP SHOP Donate Home About About Matt Sign Up Contact Vote New Events Issues Get Involved Useful Links Maine State Legislature Maine Senate Republicans Maine GOP SHOP Donate Back to All Events Election Day 2024 Tuesday, November 5, 2024 7:00 AM 8:00 PM 07:00 20:00 Maine USA (map) Google Calendar ICS Polling Places SANFORD: City Clerk’s Office: (207)-324-9125 Ward #1 votes at: Nasson Community Center Gym: 457 Main Street, Springvale Ward #2 votes at: St.
+Ignatius Parish Hall/Gym: 25 Riverside Avenue, Sanford Ward #3 votes at: Sanford High School & Technical Center: 100 Alumni Blvd.
+LEBANON: Town Clerk’s Office: (207)-457-6082 Option 3 Vote at: Lebanon Elementary School: 65 Upper Guinea Road, Lebanon WATERBORO: Town Clerk’s Office: (207)-247-6166 Ext.
+110 Vote at: Massabesic High School: 88 West Road, East Waterboro ALFRED: Town Clerk’s Office: (207)-324-5872, Ext.
+204 Vote at: Conant Chapel: 8 Kennebunk Road, Alfred Earlier Event: August 26 2024 Sunset Cruise Bash Donate Today!
+Back to Top Paid for and Authorized by the Committee to Elect Matt Harrington, Donna Ring Treasurer.

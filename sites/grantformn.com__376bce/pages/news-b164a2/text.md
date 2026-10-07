@@ -1,28 +1,7 @@
-News
-FACT CHECK: Dark Money PAC Attack Ads Distort Hauschild’s Record on Fraud while Taking Credit for DFL Solutions
-FOR IMMEDIATE RELEASE HERMANTOWN, MN – Northland voters deserve to know the truth about dark money PAC attack ads airing across the region.
+Skip to content About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact About Delivered Promises Delivered Projects MN District 3 News Get Involved Contact Donate News Senator Hauschild Awarded Minnesota Hospital Association Public Service Award During a stop on his ‘Defend Northland Healthcare’ Tour, Senator Hauschild was recognized for his leadership in protecting rural healthcare FOR IMMEDIATE RELEASE HERMANTOWN, MN. — Today, Senator Grant Hauschild (SD3) was awarded the Minnesota Hospital Association Public Service Award for his commitment to protecting rural healthcare.
+The award was Read More » October 6, 2026 Senator Hauschild Meets with Healthcare Providers in Bigfork and Cook As part of his ‘Defend Northland Healthcare’ Tour, Hauschild and Providers agree that affordable healthcare is a top priority for the Northland HERMANTOWN, MN. — Today, on his first two stops of his ‘Defend Northland Healthcare’ Tour, Senator Grant Hauschild (SD-03) stopped in Bigfork and Cook visiting local hospitals, clinics, Read More » October 5, 2026 Senator Grant Hauschild and Senate Candidate Mark Legvold Demand Action To Address Diesel Prices From Washington to St.Paul Trump’s reckless policies have put Minnesotan workers’ livelihoods on the line FOR IMMEDIATE RELEASE NORTHFIELD, MN — On Friday, Senator Grant Hauschild (SD3) and State Senate candidate Mark Legvold (SD58) called on leaders in Washington and St.
+Paul to address skyrocketing diesel prices that are putting significant pressure on Minnesota’s Read More » October 3, 2026 Senators Hauschild and Maye Quade Meet with Northland Childcare Providers Senators Highlight Impact of Childcare Costs on Families FOR IMMEDIATE RELEASE HERMANTOWN, MN. — Yesterday, Senator Grant Hauschild (SD3), Senator Erin Maye Quade (SD56), and Senate candidate Mary Carlson (SD11) met with childcare providers to discuss the rising cost of childcare.
+During his first term, Senator Hauschild and Senator Maye Read More » September 30, 2026 FACT CHECK: Dark Money PAC Attack Ads Distort Hauschild’s Record on Fraud while Taking Credit for DFL Solutions FOR IMMEDIATE RELEASE HERMANTOWN, MN – Northland voters deserve to know the truth about dark money PAC attack ads airing across the region.
 In a recent fact-check, Heartland Signal found that the group’s advertising misrepresents Senator Hauschild’s record fighting fraud, relying on procedural motions and omitting votes on significant fraud prevention legislation.
-According
-RELEASE: Northland Mayors Endorse Sen.
-Hauschild For Second Term
-Mayors Across Northern Minnesota Back Grant Hauschild: “He Shows Up and Just Delivers” FOR IMMEDIATE RELEASE [Pictured in left photo: International Falls Mayor Drake Dill, Cook Mayor Dan Manick, Senator Grant Hauschild, and Ely Mayor Heidi Omerza] [Pictured in right photo: Two Harbors Mayor Lew Connor, Rice Lake Mayor Jayme Heim,
-ADVISORY: Sen.
-Grant Hauschild to Join Mayors Across District
-Northland Mayors to join Sen.
-Hauschild for special announcement FOR IMMEDIATE RELEASE HERMANTOWN, MN. — Tuesday, September 22, Senator Grant Hauschild (SD-03) will join local mayors for a special announcement headed into the final stretch of his campaign.
-Press is invited to two events: the first at the Fall Inn in Rice Lake at 10 AM, followed by an
-RELEASE: Mail-In Voting Decision Welcomed by Sen.
-Grant Hauschild
-Hauschild’s Senate District 3 Relies Heavily on Mailed Ballots FOR IMMEDIATE RELEASE HERMANTOWN, MN. — On Monday, a ruling by the U.S.
-Supreme Court prohibited President Donald Trump from interfering with mail-in voting in the 2026 elections.
-The 7-2 ruling keeps current mail-in voting procedures for the U.S.
-Postal Service
-RELEASE: In New Campaign Ad, Sen.
-Grant Hauschild Comes Out Swinging Against Fraudsters Hurting Minnesotans
-Highlights record on fighting fraud and standing up to his own party to protect Minnesota taxpayers FOR IMMEDIATE RELEASE HERMANTOWN, MN. — On Wednesday, Senator Grant Hauschild released the second digital ad of his 2026 reelection campaign focused on his record of fighting to stop fraud in Minnesota.
-WATCH HERE In
-RELEASE: Sen.
-Grant Hauschild Releases First Campaign Ad of 2026
-Highlights Strong Record of Resisting Big Tech and Regulating Data Centers in Minnesota FOR IMMIDIATE RELEASE ST.
-PAUL, MN. — On Thursday, Senator Grant Hauschild released the first digital ad of his 2026 reelection campaign.
-Hauschild’s message to voters in Senate District 3 focuses on his first-term record of putting people
+According Read More » September 23, 2026 RELEASE: Northland Mayors Endorse Sen.
+Hauschild For Second Term Mayors Across Northern Minnesota Back Grant Hauschild: “He Shows Up and Just Delivers” FOR IMMEDIATE RELEASE [Pictured in left photo: International Falls Mayor Drake Dill, Cook Mayor Dan Manick, Senator Grant Hauschild, and Ely Mayor Heidi Omerza] [Pictured in right photo: Two Harbors Mayor Lew Connor, Rice Lake Mayor Jayme Heim, Read More » September 23, 2026 Contact the Campaign Contact Us PO Box 1045 Duluth, MN 55810 Contribute $50 $75 $100 $250 $500 $1000 Other Amount Follow Us Facebook Twitter Flickr Vimeo @Grant_Hauschild @GrantforMN Privacy Policy Prepared and paid for by the Grant Hauschild for the Minnesota State Senate Committee PO Box 1045 Duluth, MN 55810

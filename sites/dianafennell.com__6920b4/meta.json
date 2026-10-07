@@ -1,11 +1,17 @@
 {
  "description": "Diana Fennell Delegate 47th District A",
  "final_url": "https://www.dianafennell.com/",
- "paid_for_by": null,
+ "fingerprint": "c9524c07e2c892b0619bfa3d970109e8a9b7be60",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Friends of Diana Fennell",
  "years_mentioned": [
+  "1995",
+  "2000",
   "2010",
   "2014",
-  "2022"
+  "2019",
+  "2022",
+  "2026"
  ]
 }

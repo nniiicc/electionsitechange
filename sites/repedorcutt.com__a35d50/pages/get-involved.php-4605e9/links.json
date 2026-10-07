@@ -1,41 +1,162 @@
 [
-"http://chronline.com/",
-"http://ci.chehalis.wa.us/",
-"http://ci.tenino.wa.us/",
-"http://ci.woodland.wa.us/",
-"http://cityofcentralia.com/",
-"http://cityofkalama.com/",
-"http://cityofmossyrock.com/",
-"http://cityofnapavine.com/",
-"http://cityofwinlock.com/index.html",
-"http://co.cowlitz.wa.us/",
-"http://columbian.com/",
-"http://destinationpackwood.com/",
-"http://lewiscountytribune.com/chehalis.html",
-"http://lewiscountytribune.com/toledo.html",
-"http://lewiscountywa.gov/",
-"http://mrsc.org/cityprofiles/cityprofile.aspx?id=176",
-"http://randlewa.com/",
-"http://redistricting.wa.gov/default.asp",
-"http://repedorcutt.com/achievements.php",
-"http://repedorcutt.com/calendar.php",
-"http://repedorcutt.com/contact.php",
-"http://repedorcutt.com/donate.php",
-"http://repedorcutt.com/get-involved.php",
-"http://repedorcutt.com/images/LD_20_BIG.jpg",
-"http://repedorcutt.com/index.php",
-"http://repedorcutt.com/issues.php",
-"http://repedorcutt.com/meet-ed.php",
-"http://repedorcutt.com/news.php",
-"http://richarddebolt.com/",
-"http://rochester-wa.com/",
-"http://tdn.com/",
-"http://theolympian.com/",
-"http://thereflector.com/",
-"http://thurstoncountywa.gov/tchome/Pages/default.aspx",
-"http://toledowa.us/city_of_toledo/Toledo.html",
-"http://vaderwa.org/",
-"http://visitmorton.com/",
-"http://wei.secstate.wa.gov/osos/en/voterinformation/Pages/RegistertoVote.aspx",
-"https://clark.wa.gov/"
+{
+"text": "Achievements",
+"href": "http://www.repedorcutt.com/achievements.php"
+},
+{
+"text": "CITY OF CENTRALIA",
+"href": "http://www.cityofcentralia.com/"
+},
+{
+"text": "CITY OF CHEHALIS",
+"href": "http://ci.chehalis.wa.us/"
+},
+{
+"text": "CITY OF KALAMA",
+"href": "http://www.cityofkalama.com/"
+},
+{
+"text": "CITY OF MORTON",
+"href": "http://www.visitmorton.com/"
+},
+{
+"text": "CITY OF MOSSYROCK",
+"href": "http://www.cityofmossyrock.com/"
+},
+{
+"text": "CITY OF NAPAVINE",
+"href": "http://www.cityofnapavine.com/"
+},
+{
+"text": "CITY OF PACKWOOD",
+"href": "http://destinationpackwood.com/"
+},
+{
+"text": "CITY OF PE ELL",
+"href": "http://www.mrsc.org/cityprofiles/cityprofile.aspx?id=176"
+},
+{
+"text": "CITY OF RANDLE",
+"href": "http://www.randlewa.com/"
+},
+{
+"text": "CITY OF ROCHESTER",
+"href": "http://www.rochester-wa.com/"
+},
+{
+"text": "CITY OF TENINO",
+"href": "http://www.ci.tenino.wa.us/"
+},
+{
+"text": "CITY OF TOLEDO",
+"href": "http://www.toledowa.us/city_of_toledo/Toledo.html"
+},
+{
+"text": "CITY OF VADER",
+"href": "http://www.vaderwa.org/"
+},
+{
+"text": "CITY OF WINLOCK",
+"href": "http://www.cityofwinlock.com/index.html"
+},
+{
+"text": "CITY OF WOODLAND",
+"href": "http://www.ci.woodland.wa.us/"
+},
+{
+"text": "CLARK COUNTY",
+"href": "https://www.clark.wa.gov/"
+},
+{
+"text": "COWLITZ COUNTY",
+"href": "http://www.co.cowlitz.wa.us/"
+},
+{
+"text": "Calendar",
+"href": "http://www.repedorcutt.com/calendar.php"
+},
+{
+"text": "Contact",
+"href": "http://www.repedorcutt.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "http://www.repedorcutt.com/donate.php"
+},
+{
+"text": "ElectEdOrcutt@kalama.com",
+"href": "mailto:ElectEdOrcutt@kalama.com"
+},
+{
+"text": "Get Involved",
+"href": "http://www.repedorcutt.com/get-involved.php"
+},
+{
+"text": "Home",
+"href": "http://www.repedorcutt.com/index.php"
+},
+{
+"text": "Issues",
+"href": "http://www.repedorcutt.com/issues.php"
+},
+{
+"text": "LEWIS COUNTY",
+"href": "http://lewiscountywa.gov/"
+},
+{
+"text": "Meet Ed",
+"href": "http://www.repedorcutt.com/meet-ed.php"
+},
+{
+"text": "News",
+"href": "http://www.repedorcutt.com/news.php"
+},
+{
+"text": "REPRESENTATIVE RICHARD DEBOLT, 20TH DISTRICT, REPUBLICAN",
+"href": "http://richarddebolt.com/"
+},
+{
+"text": "Register toVote",
+"href": "http://wei.secstate.wa.gov/osos/en/voterinformation/Pages/RegistertoVote.aspx"
+},
+{
+"text": "Rural Areas Seek Broadband",
+"href": "http://www.lewiscountytribune.com/chehalis.html"
+},
+{
+"text": "THE CHRONICLE",
+"href": "http://www.chronline.com/"
+},
+{
+"text": "THE COLUMBIAN NEWSPAPER",
+"href": "http://www.columbian.com/"
+},
+{
+"text": "THE LONGVIEW DAILY NEWS",
+"href": "http://tdn.com/"
+},
+{
+"text": "THE OLYMPIAN",
+"href": "http://www.theolympian.com/"
+},
+{
+"text": "THE REFLECTOR",
+"href": "http://www.thereflector.com/"
+},
+{
+"text": "THURSTON COUNTY",
+"href": "http://www.thurstoncountywa.gov/tchome/Pages/default.aspx"
+},
+{
+"text": "Volunteers Share Love for Toledo",
+"href": "http://www.lewiscountytribune.com/toledo.html"
+},
+{
+"text": "Washington State Redistricting Commission's website",
+"href": "http://www.redistricting.wa.gov/default.asp"
+},
+{
+"text": "here",
+"href": "http://www.repedorcutt.com/images/LD_20_BIG.jpg"
+}
 ]

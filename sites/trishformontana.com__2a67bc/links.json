@@ -1,11 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61585502116974",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/trish-for-montana/donate-today",
-"https://secure.winred.com/trish-for-montana/donate-today?amount=10",
-"https://secure.winred.com/trish-for-montana/donate-today?amount=25",
-"https://secure.winred.com/trish-for-montana/donate-today?amount=50",
-"https://trishformontana.com/",
-"https://trishformontana.com/privacy-policy"
+{
+"text": "$10",
+"href": "https://secure.winred.com/trish-for-montana/donate-today?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/trish-for-montana/donate-today?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/trish-for-montana/donate-today?amount=50"
+},
+{
+"text": "About Trish",
+"href": "https://trishformontana.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://trishformontana.com/#contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/trish-for-montana/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585502116974"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/trish-for-montana/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://trishformontana.com/privacy-policy"
+},
+{
+"text": "Terms & conditions/privacy policy",
+"href": "https://trishformontana.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Trish on the Issues",
+"href": "https://trishformontana.com/#issues"
+},
+{
+"text": "Vote Trish Schreiber",
+"href": "https://trishformontana.com/"
+}
 ]

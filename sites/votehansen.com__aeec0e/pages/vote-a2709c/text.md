@@ -1,1 +1,2 @@
-For information about how and where to vote, visit https://www.sos.state.mn.us/elections-voting/ or mnvotes.org The General Election is on November 5th, 2024.
+0 Skip to Content Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote Open Menu Close Menu Meet Rick Donate Volunteer Gallery Events Vote For information about how and where to vote, visit https://www.sos.state.mn.us/elections-voting/ or mnvotes.org The General Election is on November 5th, 2024 .
+Prepared and paid for by People for Hansen PO Box 231 South St Paul, MN 55075

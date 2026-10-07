@@ -1,23 +1,12 @@
-Mustello: More Than $871,000 Awarded for School Safety, Mental Health
-August 17, 2026
-BUTLER – State Rep.
+PA State Rep.
+Marci Mustello Serving PA's 11th Legislative District Subscribe Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care & Assisted Living Guide REAL ID Contact Mustello: More Than $871,000 Awarded for School Safety, Mental Health August 17, 2026 BUTLER – State Rep.
 Marci Mustello (R-Butler) today announced four school districts serving the 11th Legislative District will be awarded $871,536 in School Safety and Mental Health Grants for physical security enhancements, behavioral health supports or both.
 “Every school has its own security and mental health needs, and the people working in those buildings every day understand those needs best,” Mustello said.
-“These grants will give our local educators greater flexibility to make practical improvements that protect students, support teachers and help families feel confident about where their children spend their school day.”
-The grants are:
-• Butler Area School District - $355,725.
-• Freeport Area School District - $177,596.
-• Karns City Area School District - $154,575.
-• Knoch School District - $183,640.
+“These grants will give our local educators greater flexibility to make practical improvements that protect students, support teachers and help families feel confident about where their children spend their school day.” The grants are: • Butler Area School District - $355,725. • Freeport Area School District - $177,596. • Karns City Area School District - $154,575. • Knoch School District - $183,640.
 The noncompetitive grant program is administered by the Pennsylvania Commission on Crime and Delinquency.
 Each school district receives a base allocation of $100,000, plus additional funding calculated using its 2024-25 adjusted average daily membership.
-Representative Marci Mustello
-11th Legislative District
-Pennsylvania House of Representatives
-Media Contact: Chris Comisac
-717.772.9845
-ccomisac@pahousegop.com
-RepMustello.com / Facebook.com/RepMustello
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Representative Marci Mustello 11th Legislative District Pennsylvania House of Representatives Media Contact: Chris Comisac 717.772.9845 ccomisac@pahousegop.com RepMustello.com / Facebook.com/RepMustello Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations BUTLER 100 Barracks Road Butler, PA 16001 724-283-5852 1-855-282-0613 Mon-Fri 9 a.m. to 4:30 p.m.
+CAPITOL 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011 717-787-7686 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care &amp; Assisted Living Guide REAL ID Contact

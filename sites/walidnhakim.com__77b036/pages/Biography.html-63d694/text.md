@@ -1,6 +1,6 @@
-| BIOGRAPHY | | |
-|---|---|---|
-| A History of Caring Born in Kuwait to an American mother and a Palestinian Greek father, Walid attended the American School of Kuwait (A.S.K.) until his family decided to move to his mother‘s home state of South Carolina in 1985.
+WALID N.
+HAKIM FOR GOVERNOR OF SOUTH CAROLINA HOME PLATFORM BIOGRAPHY VOLUNTEER DONATE BIOGRAPHY About Walid N.
+Hakim A History of Caring Born in Kuwait to an American mother and a Palestinian Greek father, Walid attended the American School of Kuwait (A.S.K.) until his family decided to move to his mother‘s home state of South Carolina in 1985.
 Walid attended Lexington high school where he played flute in the Symphony Orchestra and bass drum in the LHS marching band when they won their first state championship in 1987.
 Baptized Greek Orthodox at his father’s church in Kuwait, then attending and later confirmed United Methodist at his mother’s church in Lexington.
 He identifies as a Unitarian Universalist, but holds no belief in a traditional supreme being.
@@ -29,4 +29,10 @@ He explored socialism too, but none of the parties he explored felt as though th
 Not one.
 Walid has spent years helping to run and manage his and his families businesses in Columbia SC.
 He has been married and divorced twice with three loving children.
-His middle daughter is married to an Air Force veteran. | | |
+His middle daughter is married to an Air Force veteran.
+Walid N.
+Hakim for Governor DONATE TO: The Campaign To Elect Walid N.
+Hakim EMAIL: WalidSC2026@gmail.com CAMPAIGN: Home Platform Biography Volunteer Privacy Policy ©# DESIGNED FOR THE CAMPAIGN TO ELECT WALID N.
+HAKIM.
+ALL RIGHTS RESERVED.
+WEBSITE CODED BY CONOR X ROM.

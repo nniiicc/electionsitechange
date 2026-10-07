@@ -1,9 +1,12 @@
 {
  "description": "Home",
  "final_url": "https://www.blancarubio.com/",
- "paid_for_by": "Paid for by Blanca Rubio for Assembly 2024 \u2022 FPPC ID #1456604 Site by BSC",
+ "fingerprint": "1446f50a9ee50b5540ebe0cd41865ba1e034e728",
+ "format": 3,
+ "paid_for_by": "Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC",
  "title": "Assemblywoman Blanca Rubio",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2024"
  ]
 }

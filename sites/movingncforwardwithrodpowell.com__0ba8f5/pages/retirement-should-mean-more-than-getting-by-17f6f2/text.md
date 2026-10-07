@@ -1,4 +1,6 @@
-Over the last few months, I’ve been hearing the same thing from retired folks across Cleveland County, Lincoln County, and Cherryville.
+Skip to content Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+DONATE DONATE DONATE DONATE Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+Retirement Should Mean More Than Getting By By Rod Powell / July 11, 2026 Over the last few months, I’ve been hearing the same thing from retired folks across Cleveland County, Lincoln County, and Cherryville.
 Everything costs too much.
 Groceries.
 Power bills.
@@ -27,3 +29,4 @@ This issue is bigger than politics.
 It is about how we treat the people who built our communities.
 Retirees deserve leaders who understand their challenges and are willing to fight for practical solutions.
 That is one reason I am running for North Carolina Senate District 44.
+Next Post → Search for: Home About Endorsements Issues Blog Volunteer Donate Contact Home About Endorsements Issues Blog Volunteer Donate Contact Contact Me Call Me: (980) 368-0377 Email Me Follow Me Facebook Instagram Threads Bluesky TikTok YouTube Substack Menu Home About Issues Blog Endorsements Volunteer Donate Contact Privacy Policy Copyright © # Moving NC Forward with Rod Powell | Powered by Moving NC Forward with Rod Powell Scroll to Top

@@ -1,7 +1,12 @@
 {
  "description": "Everything NY-17 voters need: registration, polling places, early voting, and key dates for the upcoming election.",
  "final_url": "https://www.lawlerforcongress.com/vote/",
+ "fingerprint": "3c07a195662114fb8a7bb92e2d743455caf7cd56",
+ "format": 3,
  "paid_for_by": "Paid for by Lawler for Congress, Inc",
  "title": "Voting Info - Mike Lawler for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1974",
+  "2000"
+ ]
 }

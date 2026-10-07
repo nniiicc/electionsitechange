@@ -1,5 +1,14 @@
 [
-"http://dryenh.com/",
-"http://dryenh.com/issues",
-"http://dryenh.com/support"
+{
+"text": "Home Page",
+"href": "http://dryenh.com/"
+},
+{
+"text": "On the Issues",
+"href": "http://dryenh.com/issues"
+},
+{
+"text": "Support",
+"href": "http://dryenh.com/support"
+}
 ]

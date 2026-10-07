@@ -1,37 +1,146 @@
 [
-"https://boardsandcommissions.sd.gov/boardmembers.aspx?BoardID=203",
-"https://csg.org/2025/08/04/csg-names-48-state-leaders-to-2025-henry-toll-fellowship-class",
-"https://csgmidwest.org/2023/06/21/introducing-this-years-2023-billd-class",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://heermannfordist7.com/",
-"https://heermannfordist7.com/about",
-"https://heermannfordist7.com/contact-me",
-"https://heermannfordist7.com/donate",
-"https://heermannfordist7.com/legislative-activity-1",
-"https://heermannfordist7.com/news-and-information",
-"https://heermannfordist7.com/privacy-policy",
-"https://mylrc.sdlegislature.gov/api/Documents/281169.pdf",
-"https://mylrc.sdlegislature.gov/api/Documents/283272.pdf",
-"https://sdlegislature.gov/Interim/Committee/469/HearingDocuments",
-"https://sdlegislature.gov/Interim/Committee/489/Detail",
-"https://sdlegislature.gov/Session/Bill/24327",
-"https://sdlegislature.gov/Session/Bill/24516",
-"https://sdlegislature.gov/Session/Bill/24671",
-"https://sdlegislature.gov/Session/Bill/24673",
-"https://sdlegislature.gov/Session/Bill/25096",
-"https://sdlegislature.gov/Session/Bill/25184",
-"https://sdlegislature.gov/Session/Bill/25276",
-"https://sdlegislature.gov/Session/Bill/25857",
-"https://sdlegislature.gov/Session/Bill/26231",
-"https://sdlegislature.gov/Session/Bill/26316",
-"https://sdlegislature.gov/Session/Bill/26466",
-"https://sdlegislature.gov/Session/Bill/26657",
-"https://sdlegislature.gov/Session/Bill/26871",
-"https://sdlegislature.gov/Session/Bill/26906",
-"https://sdlegislature.gov/Session/Bill/27202",
-"https://sdlegislature.gov/Session/Bill/27333",
-"https://sdlegislature.gov/Session/Committee/1194/Detail",
-"https://sdlegislature.gov/Session/Committee/1196/Detail",
-"https://sdlegislature.gov/Session/Committee/1228/Detail",
-"https://sdlegislature.gov/Session/Committee/1234/Detail"
+{
+"text": "About",
+"href": "https://heermannfordist7.com/about"
+},
+{
+"text": "Bowhay Institute for Legislative Leadership Development",
+"href": "https://csgmidwest.org/2023/06/21/introducing-this-years-2023-billd-class/"
+},
+{
+"text": "Contact Me",
+"href": "https://heermannfordist7.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://heermannfordist7.com/donate"
+},
+{
+"text": "Extraordinary Cost Oversite Board",
+"href": "https://boardsandcommissions.sd.gov/boardmembers.aspx?BoardID=203"
+},
+{
+"text": "HB 1077",
+"href": "https://sdlegislature.gov/Session/Bill/26657"
+},
+{
+"text": "HB 1081",
+"href": "https://sdlegislature.gov/Session/Bill/24516"
+},
+{
+"text": "HB 1138",
+"href": "https://sdlegislature.gov/Session/Bill/26906"
+},
+{
+"text": "HB 1144",
+"href": "https://sdlegislature.gov/Session/Bill/25096"
+},
+{
+"text": "HB 1225",
+"href": "https://sdlegislature.gov/Session/Bill/26231"
+},
+{
+"text": "HB 1231",
+"href": "https://sdlegislature.gov/Session/Bill/24327"
+},
+{
+"text": "HB 1238",
+"href": "https://sdlegislature.gov/Session/Bill/27202"
+},
+{
+"text": "HB 1292",
+"href": "https://sdlegislature.gov/Session/Bill/26466"
+},
+{
+"text": "HB1016-",
+"href": "https://sdlegislature.gov/Session/Bill/24671"
+},
+{
+"text": "HC 8007 -",
+"href": "https://mylrc.sdlegislature.gov/api/Documents/281169.pdf"
+},
+{
+"text": "HC 8014",
+"href": "https://mylrc.sdlegislature.gov/api/Documents/283272.pdf"
+},
+{
+"text": "Home",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "House Education",
+"href": "https://sdlegislature.gov/Session/Committee/1194/Detail"
+},
+{
+"text": "House Education",
+"href": "https://sdlegislature.gov/Session/Committee/1228/Detail"
+},
+{
+"text": "House Health and Human Services",
+"href": "https://sdlegislature.gov/Session/Committee/1196/Detail"
+},
+{
+"text": "House Local Government",
+"href": "https://sdlegislature.gov/Session/Committee/1234/Detail"
+},
+{
+"text": "LINK",
+"href": "https://sdlegislature.gov/Interim/Committee/489/Detail"
+},
+{
+"text": "LINK",
+"href": "https://www.csg.org/2025/08/04/csg-names-48-state-leaders-to-2025-henry-toll-fellowship-class/"
+},
+{
+"text": "Legislative Activity",
+"href": "https://heermannfordist7.com/legislative-activity-1"
+},
+{
+"text": "News and Information",
+"href": "https://heermannfordist7.com/news-and-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heermannfordist7.com/privacy-policy"
+},
+{
+"text": "SB 111",
+"href": "https://sdlegislature.gov/Session/Bill/25857"
+},
+{
+"text": "SB 117",
+"href": "https://sdlegislature.gov/Session/Bill/26871"
+},
+{
+"text": "SB 146",
+"href": "https://sdlegislature.gov/Session/Bill/25184"
+},
+{
+"text": "SB 209",
+"href": "https://sdlegislature.gov/Session/Bill/25276"
+},
+{
+"text": "SB 80",
+"href": "https://sdlegislature.gov/Session/Bill/24673"
+},
+{
+"text": "SB 87",
+"href": "https://sdlegislature.gov/Session/Bill/26316"
+},
+{
+"text": "SC 813",
+"href": "https://sdlegislature.gov/Session/Bill/27333"
+},
+{
+"text": "Study Committee on Sustainable Models for Long Term Care",
+"href": "https://sdlegislature.gov/Interim/Committee/469/HearingDocuments"
+},
+{
+"text": "[image: Heermann for District 7]",
+"href": "https://heermannfordist7.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

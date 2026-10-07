@@ -1,15 +1,70 @@
 [
-"http://elections.il.gov/",
-"https://bjbe.org/",
-"https://bjbe.shulcloud.com/form/attendee-sign-up.html",
-"https://facebook.com/share/1EqsGckcpA?mibextid=wwXIfr",
-"https://instagram.com/mcgrath4senate",
-"https://kateforstatesenate.com/",
-"https://kateforstatesenate.com/issues",
-"https://kateforstatesenate.com/meet-kate",
-"https://kateforstatesenate.com/volunteer",
-"https://linkedin.com/in/kate-mcgrath-a323047",
-"https://secure.winred.com/citizens-for-kate-mcgrath/donate-today",
-"https://twitter.com/katyperrone13?ref_src=twsrc%5Etfw",
-"https://x.com/katyperrone13"
+{
+"text": "Congregation BJBE.",
+"href": "https://www.bjbe.org"
+},
+{
+"text": "Contact",
+"href": "https://www.kateforstatesenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-kate-mcgrath/donate-today"
+},
+{
+"text": "Donate HERE!",
+"href": "https://secure.winred.com/citizens-for-kate-mcgrath/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://www.kateforstatesenate.com/issues"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateforstatesenate.com/meet-kate"
+},
+{
+"text": "North Shore Jewish",
+"href": "https://bjbe.shulcloud.com/form/attendee-sign-up.html"
+},
+{
+"text": "Register to attend the forum",
+"href": "https://bjbe.shulcloud.com/form/attendee-sign-up.html"
+},
+{
+"text": "Tweets by katyperrone13",
+"href": "https://twitter.com/katyperrone13?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateforstatesenate.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1EqsGckcpA/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mcgrath4senate/"
+},
+{
+"text": "[image: Kate_Senate_Final.jpg]",
+"href": "https://www.kateforstatesenate.com"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/kate-mcgrath-a323047/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/katyperrone13"
+},
+{
+"text": "[image]",
+"href": "https://bjbe.shulcloud.com/form/attendee-sign-up.html"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

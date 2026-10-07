@@ -1,5 +1,18 @@
 [
-"https://toddpodgorski.com/",
-"https://toddpodgorski.com/mobile-terms-conditions",
-"https://toddpodgorski.com/privacy-policy"
+{
+"text": "Home",
+"href": "https://toddpodgorski.com/"
+},
+{
+"text": "Mobile Terms Conditions",
+"href": "https://toddpodgorski.com/mobile-terms-conditions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://toddpodgorski.com/privacy-policy"
+},
+{
+"text": "todd@toddpodgorski.com",
+"href": "mailto:todd@toddpodgorski.com"
+}
 ]

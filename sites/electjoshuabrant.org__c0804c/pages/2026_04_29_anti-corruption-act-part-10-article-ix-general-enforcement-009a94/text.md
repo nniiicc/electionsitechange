@@ -1,4 +1,7 @@
-Joshua Brant, candidate for Indiana State Senate District 23, walks us through his process for refining the framework for his signature anti-corruption legislation.
-The most current written version of the bill can be read HERE.
-Hi,
-Enter your email below to receive updates.
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Blog , The Issues Anti-Corruption Act Part 10: Article IX: General Enforcement Published by J.R.
+Brant on April 29, 2026 Joshua Brant, candidate for Indiana State Senate District 23, walks us through his process for refining the framework for his signature anti-corruption legislation.
+The most current written version of the bill can be read HERE .
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Hump Day Campaign Update (04/29/26) Next: Day Late Campaign Update (05/07/26) → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

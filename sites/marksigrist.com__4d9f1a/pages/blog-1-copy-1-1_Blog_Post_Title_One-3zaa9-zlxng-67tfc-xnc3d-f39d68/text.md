@@ -1,5 +1,4 @@
-Why I Chose to Serve
-I’m often asked why, after retiring from a three-decade career at Honda, I decided to run for office.
+0 Skip to Content Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Why I Chose to Serve Aug 31 Written By Leslie Anderson I’m often asked why, after retiring from a three-decade career at Honda, I decided to run for office.
 It's a fair question.
 The truth is, I never planned to.
 As I got closer to retirement, I spent a lot of time thinking about what came next.
@@ -15,6 +14,4 @@ I simply found another way to serve.
 Over the coming weeks, I'd like to share more of my journey, the people I've met along the way, and some of the experiences that continue to shape how I serve.
 Thank you for taking a few minutes to get to know me.
 I'm grateful for the opportunity to serve.
-Mark Sigrist
-State Representative
-Ohio House District 10
+Mark Sigrist State Representative Ohio House District 10 Leslie Anderson Previous Previous ONE DOLPHIN IS TOO MANY Mark Sigrist for State House Representative | District 10 | Paid for by Friends of Mark Sigrist

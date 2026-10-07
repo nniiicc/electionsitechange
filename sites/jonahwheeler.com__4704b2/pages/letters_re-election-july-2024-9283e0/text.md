@@ -1,5 +1,4 @@
-July 2024 Letter
-The campaign has begun.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Re-Election Re-Election Re-Election Jul 31, 2024 Jul 31, 2024 July 2024 Letter Pink Sky - 25 July 2024 - 20:22 - Peterborough, NH - Taken by Jonah Pink Sky - 25 July 2024 - 20:22 - Peterborough, NH - Taken by Jonah The campaign has begun.
 It is very nice to be back out in the district full time.
 Out shaking hands, answering questions, and introducing to myself to anyone willing to brave the annoyance of a candidate asking for their vote.
 It has heartened me to hear how closely the voters have been paying attention to the General Court.
@@ -10,7 +9,7 @@ A leadership more interested in funding private education than it is addressing 
 More interested in appeasing the waste management industry than they are the environment of their State.
 A leadership committed to themselves, their political aspirations, and the wealthy donors they will use to get there.
 People are as desperate as they ever have been for leadership committed to the role they swear an oath to the constitution to preform.
-With the end of my work consulting for Marianne, which I was incredibly privileged to do.
+Filming with Eddie - 6 July 2024 - 16:39 - Peterborough, NH - Taken by Jonah Filming with Eddie - 6 July 2024 - 16:39 - Peterborough, NH - Taken by Jonah With the end of my work consulting for Marianne, which I was incredibly privileged to do.
 I got back out doing odds jobs.
 Mainly working for a man named Paul out in Hancock who owns a large property which has some yurts on it.
 He houses people in need and there is plenty of work to do there.
@@ -37,4 +36,4 @@ Every bit of free time I get this summer i’ll be out and about knocking doors,
 You can join me on the trail, talk to your friends, and most importantly come out to vote on September 10th.
 This is a people powered campaign to build a legislature focused on it’s citizens.
 The only way we win is together.
-Back to all
+Darkstar and Roam - 8 July 2024 - 20:11 - Peterborough, NH - Taken by Jonah Darkstar and Roam - 8 July 2024 - 20:11 - Peterborough, NH - Taken by Jonah ‹ The Sprint ‹ The Sprint ‹ The Sprint Onward › Onward › Onward › Back to all

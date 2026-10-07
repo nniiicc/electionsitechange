@@ -1,9 +1,12 @@
 {
  "description": "Explore the Pamelya Herndon biography to learn about her journey as a legal advocate and New Mexico legislator, fighting for justice and opportunity.",
  "final_url": "https://pamelyaherndon.com/about",
- "paid_for_by": null,
+ "fingerprint": "6cdf466b6b4bb5e144b56c0333de23bda0169f28",
+ "format": 3,
+ "paid_for_by": "authorized by Herndon For NM, Bronwen Murray, Treasurer",
  "title": "About",
  "years_mentioned": [
+  "2008",
   "2012",
   "2018"
  ]

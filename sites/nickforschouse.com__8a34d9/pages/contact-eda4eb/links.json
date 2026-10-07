@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61586775890009",
-"https://instagram.com/nick29412",
-"https://nickforschouse.com/",
-"https://nickforschouse.com/contact",
-"https://secure.actblue.com/donate/nick-uricchio-1",
-"https://x.com/NickUricchio115"
+{
+"text": "Contact",
+"href": "https://nickforschouse.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/nick-uricchio-1"
+},
+{
+"text": "Facebook-square",
+"href": "https://www.facebook.com/profile.php?id=61586775890009"
+},
+{
+"text": "Home",
+"href": "https://nickforschouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nick29412/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/NickUricchio115"
+},
+{
+"text": "[image: Nick Uricchio for State House District 115]",
+"href": "https://nickforschouse.com"
+},
+{
+"text": "nick@nickforschouse.com",
+"href": "mailto:nick@nickforschouse.com"
+}
 ]

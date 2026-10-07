@@ -1,4 +1,4 @@
-Donate to the Mary Madison Campaign 3 ways !
+0 Skip to Content HOME NEWSLETTER SIGN-UP ENDORSEMENTS & RECOMMENDATIONS DONATE REQUEST YARD SIGNS Open Menu Close Menu Open Menu Close Menu HOME NEWSLETTER SIGN-UP ENDORSEMENTS & RECOMMENDATIONS DONATE REQUEST YARD SIGNS HOME NEWSLETTER SIGN-UP ENDORSEMENTS & RECOMMENDATIONS DONATE REQUEST YARD SIGNS Donate to the Mary Madison Campaign 3 ways !
 Click for ActBlue Other ways to support Purchase an art print to support Mary Madison for Iowa House!
 Available Art OR CONTACT US BY MAIL Thank you for your generous support!
-Mary Madison for Iowa 3775 EP True Pkwy Box #133 West Des Moines, IA 50265
+Mary Madison for Iowa 3775 EP True Pkwy Box #133 West Des Moines, IA 50265 Mary Madison for Iowa House District 31 Phone: 515-480-3162 Capitol Phone: (515) 281-3221 Email: Mary.Madison@legis.iowa.gov Chamber Address: State Capitol, Attn Representative Mary Madison, 1007 E Grand Ave, Des Moines, IA 50319 GET IN TOUCH Paid For By Mary Madison for Iowa

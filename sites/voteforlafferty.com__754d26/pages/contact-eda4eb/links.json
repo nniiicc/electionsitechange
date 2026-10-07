@@ -1,8 +1,38 @@
 [
-"https://facebook.com/LaffertyforStateHouse",
-"https://ovr.govote.tn.gov/",
-"https://voteforlafferty.com/",
-"https://voteforlafferty.com/contact",
-"https://voteforlafferty.com/donate",
-"https://voteforlafferty.com/platform"
+{
+"text": "DONATE",
+"href": "https://www.voteforlafferty.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.voteforlafferty.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.voteforlafferty.com/platform"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.voteforlafferty.com/contact"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LaffertyforStateHouse/"
+},
+{
+"text": "[image]",
+"href": "https://www.voteforlafferty.com/contact"
+},
+{
+"text": "https://ovr.govote.tn.gov/",
+"href": "https://ovr.govote.tn.gov/"
+},
+{
+"text": "https://www.facebook.com/LaffertyforStateHouse/",
+"href": "https://www.facebook.com/LaffertyforStateHouse/"
+},
+{
+"text": "voteforlafferty@gmail.com",
+"href": "mailto:voteforlafferty@gmail.com"
+}
 ]

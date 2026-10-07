@@ -1,87 +1,17 @@
-Get in touch with Steve
-Stephen Bennett for Assembly 2026 | ID#1477509
-16633 Ventura Blvd., #1008 Encino, CA 91436
-*the Gun Sense Candidate distinction is not an endorsement from Moms Demand Action or Everytown for Gun Safety Action Fund
-California Democratic Party
-California Professional Firefighters
-California Teachers Association
-California Nurses Association
-Sierra Club California
-Equality California
-United Farm Workers
-SEIU
-Planned Parenthood Central Coast Action Fund
-California Environmental Voters
-CAUSE Action Fund
-Ventura County Professional Firefighters
-Greater Oxnard Organization of Democrats (GOOD Club)
-Democratic Club of Camarillo
-United Democrats of the Ojai Valley
-Ventura County Young Democrats
-West Ventura County Business Alliance
-Western States Regional Council of Carpenters
-Association of State Supervisors
-Association of State Retirees
-California Professional Scientists
-PECG
-Senator Alex Padilla
-Congressmember Julia Brownley
-Congressmember Salud Carbajal
-Senate President pro Tempore Monique Limón
-Assemblymember Gregg Hart
-Assemblymember Jacqui Irwin
-*TITLES FOR ID PURPOSES ONLY
-Ventura County Supervisor Vianey Lopez
-Fillmore Mayor Albert Mendez
-Fillmore Councilmember Christina Villaseñor
-Vice Mayor of Camarillo Dr.
-Martita Martinez-Bravo
-Camarillo Councilmember Kevin Kildee
-Ojai Mayor Andy Gilman
-Oxnard Mayor Luis Mc Arthur
-Oxnard Mayor Pro Tem Gabe Teran
-Oxnard Councilmember Gabriela Rodriguez
-Oxnard Councilmember Gabriela Basua
-Oxnard Councilmember Michaela Perez
-Santa Paula Mayor Carlos Juarez
-Santa Paula Councilmember Pedro Chavez
-Santa Paula Councilmember Jenny Crosswhite
-Ventura Councilmember Ryyn Schumacher
-Port Hueneme Mayor Dr.
-Martha McQueen-Legohn
-Port Hueneme Councilmember Laura Hernandez
-Port Hueneme Councilmember Jess Lopez
-Thousand Oaks Councilmember Connie “Tie” Gutierrez
-Oxnard Union High School District, Trustee Genevieve Flores-Haro
-Ventura Unified School District, Trustee James Forsythe
-Ventura Unified School District Trustee Sabrena Rodriguez
-Ventura Unified School District, Trustee Shannon Trani Fredericks
-Organizations
-Federal and State Officials
-Local Officials
-Camarillo Mayor Albert Mendez
-Camarillo Councilmember Christina Villaseñor
-Oaji Mayor Andy Gilman
-Ojai Councilmember Rachel Lang
-Oxnard Mayor Luis McArthur
-Ventura Councilmember Liz Campos
-Point Hueneme Mayor Dr.
-Martha McQueen-Legohn
-Point Hueneme Councilmember Laura Hernandez
-Point Hueneme Councilmember Jess Lopez
-Oxnard Union High School District, Trustee James Forsythe
-Oxnard Union High School District, Trustee Sabrena Rodriguez
-Oxnard Union High School District, Trustee Shannon Trani Fredericks
-See full list here
-"Steve Bennett has consistently delivered on the issues that matter—protecting our environment, standing up for farmworkers, and expanding access to affordable housing.
-At a moment when so much feels uncertain, his steady leadership is exactly what we need in the Assembly to hold the line and protect Californians and California values."
-"Steve Bennett is a staunch advocate for environmental protections, clean water, clean air, and climate action.
+Skip to the content Home Meet Steve A Proven Record Supporters Photos Contact Contribute Home Meet Steve A Proven Record Supporters Photos Contact Contribute Official candidate of the California Democratic Party 2026 Moms Demand Action Gun Sense Candidate *the Gun Sense Candidate distinction is not an endorsement from Moms Demand Action or Everytown for Gun Safety Action Fund We support Steve!
+Organizations California Democratic Party California Professional Firefighters California Teachers Association California Nurses Association Sierra Club California Equality California United Farm Workers SEIU Planned Parenthood Central Coast Action Fund California Environmental Voters CAUSE Action Fund Ventura County Professional Firefighters Greater Oxnard Organization of Democrats (GOOD Club) Democratic Club of Camarillo United Democrats of the Ojai Valley Ventura County Young Democrats West Ventura County Business Alliance Western States Regional Council of Carpenters Association of State Supervisors Association of State Retirees California Professional Scientists PECG Federal & State Officials Senator Alex Padilla Congressmember Julia Brownley Congressmember Salud Carbajal Senate President pro Tempore Monique Limón Assemblymember Gregg Hart Assemblymember Jacqui Irwin *TITLES FOR ID PURPOSES ONLY Local Officials Ventura County Supervisor Vianey Lopez Fillmore Mayor Albert Mendez Fillmore Councilmember Christina Villaseñor Vice Mayor of Camarillo Dr.
+Martita Martinez-Bravo Camarillo Councilmember Kevin Kildee Ojai Mayor Andy Gilman Oxnard Mayor Luis Mc Arthur Oxnard Mayor Pro Tem Gabe Teran Oxnard Councilmember Gabriela Rodriguez Oxnard Councilmember Gabriela Basua Oxnard Councilmember Michaela Perez Santa Paula Mayor Carlos Juarez Santa Paula Councilmember Pedro Chavez Santa Paula Councilmember Jenny Crosswhite Ventura Councilmember Ryyn Schumacher Port Hueneme Mayor Dr.
+Martha McQueen-Legohn Port Hueneme Councilmember Laura Hernandez Port Hueneme Councilmember Jess Lopez Thousand Oaks Councilmember Connie “Tie” Gutierrez Oxnard Union High School District, Trustee Genevieve Flores-Haro Ventura Unified School District, Trustee James Forsythe Ventura Unified School District Trustee Sabrena Rodriguez Ventura Unified School District , Trustee Shannon Trani Fredericks *TITLES FOR ID PURPOSES ONLY Organizations California Democratic Party California Professional Firefighters California Teachers Association California Nurses Association Equality California United Farm Workers SEIU Planned Parenthood Central Coast Action Fund California Environmental Voters CAUSE Action Fund Ventura County Professional Firefighters Greater Oxnard Organization of Democrats (GOOD Club) Democratic Club of Camarillo United Democrats of the Ojai Valley Ventura County Young Democrats West Ventura County Business Alliance Western States Regional Council of Carpenters Association of State Supervisors Association of State Retirees California Professional Scientists PECG Federal and State Officials Senator Alex Padilla Congressmember Julia Brownley Congressmember Salud Carbajal Senate President pro Tempore Monique Limón Assemblymember Gregg Hart Assemblymember Jacqui Irwin Local Officials Ventura County Supervisor Vianey Lopez Camarillo Mayor Albert Mendez Vice Mayor of Camarillo Dr.
+Martita Martinez-Bravo Camarillo Councilmember Kevin Kildee Camarillo Councilmember Christina Villaseñor Oaji Mayor Andy Gilman Ojai Councilmember Rachel Lang Oxnard Mayor Luis McArthur Oxnard Mayor Pro Tem Gabe Teran Oxnard Councilmember Gabriela Rodriguez Oxnard Councilmember Gabriela Basua Oxnard Councilmember Michaela Perez Santa Paula Mayor Carlos Juarez Santa Paula Councilmember Pedro Chavez Santa Paula Councilmember Jenny Crosswhite Ventura Councilmember Ryyn Schumacher Ventura Councilmember Liz Campos Point Hueneme Mayor Dr.
+Martha McQueen-Legohn Point Hueneme Councilmember Laura Hernandez Point Hueneme Councilmember Jess Lopez Thousand Oaks Councilmember Connie “Tie” Gutierrez Oxnard Union High School District, Trustee Genevieve Flores-Haro Oxnard Union High School District, Trustee James Forsythe Oxnard Union High School District, Trustee Sabrena Rodriguez Oxnard Union High School District, Trustee Shannon Trani Fredericks See full list here *TITLES FOR ID PURPOSES ONLY Senator Alex Padilla "Steve Bennett has consistently delivered on the issues that matter—protecting our environment, standing up for farmworkers, and expanding access to affordable housing.
+At a moment when so much feels uncertain, his steady leadership is exactly what we need in the Assembly to hold the line and protect Californians and California values." California Environmental Voters Executive Director Mike Young "Steve Bennett is a staunch advocate for environmental protections, clean water, clean air, and climate action.
 Bennett navigates complex environmental challenges with nuance and careful attention to those who suffer disproportionately from climate change.
-We are proud to endorse him again for the State Assembly."
-"Steve Bennett is the example of a powerful, unwavering ally to the LGBTQIA+ community.
+We are proud to endorse him again for the State Assembly." Equality California "Steve Bennett is the example of a powerful, unwavering ally to the LGBTQIA+ community.
 He has always been there for our rights to safety, to self expression, and most importantly: the right to thrive as our most authentic selves.
-We are proud to call him an ally and honored to endorse him."
-Steve Bennett is dedicated to serving working people and Latino communities.
+We are proud to call him an ally and honored to endorse him." United Farm Workers Steve Bennett is dedicated to serving working people and Latino communities.
 He meaningfully collaborates with farm workers to empower them to help shape the policies that impact our daily lives.
 Bennett is an effective and incredible ally to farm workers across Ventura County who deserve strong representation in Sacramento.
-Thank You ...
+We support Steve!
+CONTRIBUTE Stay Updated!
+First Name Last Name Email Thank You ...
+Get in touch with Steve Facebook info@stevebennettforassembly. com Stephen Bennett for Assembly 2026 | ID#1477509 16633 Ventura Blvd., #1008 Encino, CA 91436

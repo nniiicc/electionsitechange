@@ -1,10 +1,10 @@
-The Leaders For
-New Mexico's Future.
-The Leaders For
-New Mexico's Future.
-Gregg Hull
-Candidate For Governor
-Greggory D.
+Skip to main content Election Day is November 3, 2026 — early voting begins October 6th.
+Find your polling place Register to vote Close Meet the Team Governor Gregg Hull Lt.
+Governor David Gallegos Priorities News Endorsements Shop Volunteer Request Sign Donate Want a Hull / Gallegos yard sign?
+Click here to request your a free sign delivered right to your door.
+The Leaders For New Mexico's Future.
+The Leaders For New Mexico's Future.
+Gregg Hull Candidate For Governor Gregg's Accomplishments Proven Results Greggory D.
 Hull has been a resident of New Mexico for over 40 years, with Rio Rancho at the heart of his personal and professional life.
 Alongside his wife, Carrie, they raised their five children in New Mexico, all of whom attended local public schools.
 Their family has now grown to include nine grandchildren, spanning three generations living in New Mexico.
@@ -17,10 +17,8 @@ During his tenure, Mayor Hull has focused on infrastructure improvement, public 
 Mayor Hull's leadership has earned Rio Rancho numerous national recognitions, including in 2024, Best Places to Live for Families in the US, safest place to live in New Mexico, and most affordable place to live.
 Through his dedication to infrastructure, public safety, economic growth, and quality of life, Gregg continues to lead Rio Rancho toward a prosperous future.
 Now, he wants to do the same for ALL New Mexicans.
-David Gallegos
-Candidate For Lt.
-Governor
-David Gallegos has served as a steady, unifying voice for New Mexico’s constitutional freedoms in the State Senate since 2020.
+David Gallegos Candidate For Lt.
+Governor David Gallegos has served as a steady, unifying voice for New Mexico’s constitutional freedoms in the State Senate since 2020.
 He is known for working respectfully, building relationships, and standing firm on the principles that matter to families, communities, and taxpayers.
 He will bring that same approach to the Lieutenant Governor’s office.
 David has also spent decades serving his community.
@@ -30,10 +28,8 @@ Before entering public office, David spent 30 years in the natural gas industry,
 He is now a manager in his family’s construction company.
 David has been married to his wife, Sonya, for 46 years.
 They have two daughters and one granddaughter, and remain deeply rooted in the community they love.
-David Gallegos
-Candidate For Lt.
-Governor
-David Gallegos has served as a steady, unifying voice for New Mexico’s constitutional freedoms in the State Senate since 2020.
+David Gallegos Candidate For Lt.
+Governor David Gallegos has served as a steady, unifying voice for New Mexico’s constitutional freedoms in the State Senate since 2020.
 He is known for working respectfully, building relationships, and standing firm on the principles that matter to families, communities, and taxpayers.
 He will bring that same approach to the Lieutenant Governor’s office.
 David has also spent decades serving his community.
@@ -43,3 +39,17 @@ Before entering public office, David spent 30 years in the natural gas industry,
 He is now a manager in his family’s construction company.
 David has been married to his wife, Sonya, for 46 years.
 They have two daughters and one granddaughter, and remain deeply rooted in the community they love.
+Let's get to work.
+Join thousands of New Mexicans getting campaign updates by email and text.
+First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Link to Privacy Policy Join The Team Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Paid for By Hull For New Mexico Meet Gregg Priorities News Volunteer Endorsements Shop Follow Us Contact Privacy Policy Meet Gregg Issues News Volunteer Endorsements Shop Follow Us Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Privacy Policy Contact Paid for By Hull For New Mexico Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Follow Us Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Privacy Policy Contact Paid for By Hull For New Mexico

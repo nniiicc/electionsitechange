@@ -1,15 +1,9 @@
-FOR IMMEDIATE RELEASE
-August 6, 2015
-Contact: Mike Trujillo
-mike [at] barraganforcongress com
-Nanette Barragán Releases Statement on the 50th Anniversary of the Voting Rights Act
-SAN PEDRO, CA – Nanette Barragán, Congressional candidate in CA-44, released a statement on the 50th anniversary of the Voting Rights Act:
-“I have a clear memory as a child watching my mom studying for her U.S. citizenship exam.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Nanette Barragán Releases Statement on the 50th Anniversary of the Voting Rights Act FOR IMMEDIATE RELEASE August 6, 2015 Contact: Mike Trujillo mike [at] barraganforcongress com Nanette Barragán Releases Statement on the 50 th Anniversary of the Voting Rights Act SAN PEDRO, CA – Nanette Barragán, Congressional candidate in CA-44, released a statement on the 50 th anniversary of the Voting Rights Act: “I have a clear memory as a child watching my mom studying for her U.S. citizenship exam.
 She was so proud the day she passed that test, and one thing in particular she took very seriously as a new citizen was her right to vote.
 I know it’s easy to take that right for granted, but it’s something my mom taught me to treasure and protect.
 The Voting Rights Act of 1965, which today celebrates its 50th anniversary, was designed to make sure that no eligible voter is ever deprived of his or her right to vote based on the color of their skin, their zip code, or their financial status.
 As an attorney volunteering with the Obama voter protection team in Florida in 2012, I saw firsthand the lengths some people will go to violate those rights.
 It was inexcusable.
-Every eligible person deserves the opportunity to have a voice in our democracy, and as a Member of Congress I will never waver in my commitment to protecting our right to vote.”
-Find more information here: www.barraganforcongress.com
-###
+Every eligible person deserves the opportunity to have a voice in our democracy, and as a Member of Congress I will never waver in my commitment to protecting our right to vote.” Find more information here: www.barraganforcongress.com ### Stacy Lona 2015-08-06T11:25:47-07:00 August 6th, 2015 | Uncategorized | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities State Senator Isadore Hall Files Motion for a Protective Order State Senator Isadore Hall Files Motion for a Protective Order Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

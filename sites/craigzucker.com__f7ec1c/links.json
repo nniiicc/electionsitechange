@@ -1,12 +1,82 @@
 [
-"https://craigzucker.com/",
-"https://craigzucker.com/about-craig",
-"https://craigzucker.com/contribute",
-"https://craigzucker.com/endorsements",
-"https://craigzucker.com/issues",
-"https://craigzucker.com/scholarship",
-"https://craigzucker.com/voter-faq-2",
-"https://facebook.com/senatorzucker",
-"https://forms.gle/Kvq8qTUjgJ6yJNWJA",
-"https://twitter.com/SenatorZucker"
+{
+"text": "Contribute",
+"href": "https://craigzucker.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "https://craigzucker.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/Kvq8qTUjgJ6yJNWJA"
+},
+{
+"text": "Issues",
+"href": "https://craigzucker.com/#issues"
+},
+{
+"text": "Meet Craig",
+"href": "https://craigzucker.com/#meet-craig"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#economy"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#education"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#families"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#healthcare"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#natural-resources"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#neighborhoods"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#resources"
+},
+{
+"text": "Read More",
+"href": "https://craigzucker.com/issues/#transportation"
+},
+{
+"text": "Read More About Craig",
+"href": "https://craigzucker.com/about-craig/"
+},
+{
+"text": "Scholarship",
+"href": "https://craigzucker.com/scholarship/"
+},
+{
+"text": "Voter FAQ",
+"href": "https://craigzucker.com/voter-faq-2/"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://craigzucker.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenatorZucker"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/senatorzucker/"
+},
+{
+"text": "craig@craigzucker.com",
+"href": "mailto:craig@craigzucker.com"
+}
 ]

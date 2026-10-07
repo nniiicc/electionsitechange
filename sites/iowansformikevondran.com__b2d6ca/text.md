@@ -1,5 +1,8 @@
-Iowans For Mike Vondran | 4401 Fairhaven Court Davenport, IA 52807 | 563-650-6555
-Mike is a lifelong Iowan who has raised his family and grown a thriving business in our state for over three decades.
+Iowans For Mike Vondran | 4401 Fairhaven Court Davenport, IA 52807 | 563-650-6555 Facebook Twitter LinkedIn Pinterest Email Donate Home About Contact Mike MIKE VONDRAN: WORKING FOR IOWA Mike has been honored to serve Iowans in the House of Representatives since 2023.
+Representing District 94, Mike has sponsored a number of bills to move Iowa forward and help families statewide.
+He has sponsored legislation helping middle-class families lower their taxes, helping nurse practitioners increase the quality of healthcare statewide, increasing opportunities for rural businesses and expanding education and technical training for young people.
+Mike’s vision is for all Iowans to thrive, not just survive, and to help build a state with opportunities for all.
+View District Map Meet Mike Vondran Growing the Future of Iowa Together Mike is a lifelong Iowan who has raised his family and grown a thriving business in our state for over three decades.
 His leadership and commitment to the Quad-Cities community has included service on numerous community boards over the past four decades, including Grow Quad-Cities, the Great Mississippi Valley Fair, Junior Achievement of the Heartland, Quad Cities Chamber of Commerce, Trinity Health Foundation, Downtown Davenport Partnership, and Greater Davenport Redevelopment Corporation.
 Mike also founded the HAVlife™ Foundation, a not-for-profit organization that serves the needs of area at-risk youth, providing education and life opportunities to young people.
 Working hard for all Iowans, Mike serves as Chairman of the Iowa House Public Safety Committee and also serves on the Ways & Means, Commerce, and Judiciary Appropriations committees.
@@ -8,9 +11,10 @@ He has sponsored and voted for legislation to help lower taxes for families and 
 Additionally, Mike is focused on growing a vibrant economy in our Eastern Iowa region, building a recognition, appreciation and understanding of the value that we add to the state.
 His efforts in his legislative and business career have been directed towards growing a competitive, innovative business environment.
 He has remained a strong voice for House District 94 and helped its growth and influence statewide.
-Mike knows Iowa must have a competitive business climate that will grow, retain and attract quality businesses.
+Growing Iowa’s Economy Mike knows Iowa must have a competitive business climate that will grow, retain and attract quality businesses.
 He has worked to improve the tax structure to reward hard work and innovation and has enhanced education and workforce initiatives to prepare Iowans with the skills necessary to succeed in a global economy.
-During his time in the House, Mike has worked for sound management of taxpayer dollars, eliminating wasteful spending and balancing the budget, setting priorities aligning with the needs of Iowans.
+Accountability to Iowans During his time in the House, Mike has worked for sound management of taxpayer dollars, eliminating wasteful spending and balancing the budget, setting priorities aligning with the needs of Iowans.
 As a small business owner, Mike knows these principles are key to reaching our potential and providing value to all Iowans.
-Mike has worked hard to return Iowa to one of the top states in the nation for education and has strived to help young Iowans have access to services to promote positive mental and physical health.
+A Future-Focused Iowa Mike has worked hard to return Iowa to one of the top states in the nation for education and has strived to help young Iowans have access to services to promote positive mental and physical health.
 Mike’s vision is for Iowa to be the best place for all people to learn, earn, and grow, and he has worked towards achieving that goal.
+Donate To Mike $5 $10 $20 $50 $100 Mike's Community Service HAVlife™ Foundation Founder Founder, Past Chair and current Board Member Great Mississippi Valley Fair Current Board Member, 34 years of service including 18 years on Executive Committee and 5 years as Board President Junior Achievement of the Heartland Past Board Chair and Retired Board Member Greater Davenport Redevelopment Corporation Past Board Member Quad Cities Chamber of Commerce Retired Board Member Trinity Health Foundation Retired Board Member Downtown Davenport Partnership Past Board Member Email Signup Subscribe Contact Mike 4401 Fairhaven Court Davenport, IA 52807 Phone: 563-650-6555 Email: MikeV@IowansforMikeVondran.com Contact Mike Leave this field blank First Name Email Message Submit © # Paid for by Iowans for Mike Vondran Privacy Policy | Terms of Use

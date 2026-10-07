@@ -1,4 +1,4 @@
-Representative Paul J.
+Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter More Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter About Paul Donato Representative Paul J.
 Donato (D-Medford) has been in the Massachusetts House of Representatives for twelve terms.
 Prior to entering the Legislature in 2001, he served on the Medford School Committee and the Medford City Council (serving as Mayor and Council President).
 Representative Donato represents the 35th Middlesex District which consists of Wards 1 and 2, Ward 3, Precinct 1, Ward 6, Precinct 2A, Ward 7, Precinct 2 and Ward 8, Precinct 1 in the City of Medford as well as Ward 1, Ward 3, Precinct 1A and Ward 7, Precinct 1, 3, and 3A in the City of Malden.
@@ -15,4 +15,5 @@ Governor), Medford Elks, Malden Irish American Club, Medford Chamber of Commerce
 Representative Donato has been recognized by many organizations for his work.
 Recently, the Representative was honored with the 2026 Housing Hero Award for his work with Housing Families in Malden.
 He has previously been awarded Legislator of The Year by the Massachusetts Providers Council for his work with the Foster Care System in Massachusetts, and has also been recognized by the Disabled American Veterans of Massachusetts as well as the Children's League for his advocacy on their behalf.
-Copyright © 2020 Friends of Paul Donato - All Rights Reserved.
+Copyright © # Friends of Paul Donato - All Rights Reserved.
+Endorsements Donate Volunteer Newsletter Powered by

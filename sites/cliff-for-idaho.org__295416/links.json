@@ -1,15 +1,78 @@
 [
-"https://bsky.app/profile/cliff-for-idaho.org",
-"https://cliff-for-idaho.org/",
-"https://cliff-for-idaho.org/about",
-"https://cliff-for-idaho.org/contact",
-"https://cliff-for-idaho.org/issues",
-"https://cliff-for-idaho.org/newsletter",
-"https://cliff-for-idaho.org/privacy%20policy",
-"https://cliff-for-idaho.org/volunteer",
-"https://discord.gg/kGxabHFhPG",
-"https://facebook.com/cliffforidaho",
-"https://instagram.com/cliff_for_idaho",
-"https://secure.actblue.com/donate/cliff4idaho",
-"https://threads.net/@cliff_for_idaho"
+{
+"text": "(208) 350-8041",
+"href": "tel:2083508041"
+},
+{
+"text": "About",
+"href": "https://cliff-for-idaho.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://cliff-for-idaho.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cliff4idaho"
+},
+{
+"text": "Home",
+"href": "https://cliff-for-idaho.org/"
+},
+{
+"text": "Issues",
+"href": "https://cliff-for-idaho.org/issues/"
+},
+{
+"text": "Newsletter Signup",
+"href": "https://cliff-for-idaho.org/newsletter/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cliff-for-idaho.org/privacy%20policy"
+},
+{
+"text": "Volunteer",
+"href": "https://cliff-for-idaho.org/volunteer/"
+},
+{
+"text": "[image: Cliff for Idaho]",
+"href": "https://cliff-for-idaho.org/"
+},
+{
+"text": "[image: Cliff for Idaho][image: Cliff for Idaho]",
+"href": "https://cliff-for-idaho.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/cliff-for-idaho.org"
+},
+{
+"text": "[no text]",
+"href": "https://discord.gg/kGxabHFhPG"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cliffforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cliff_for_idaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@cliff_for_idaho"
+},
+{
+"text": "cliff@cliff-for-idaho.org",
+"href": "mailto:cliff@cliff-for-idaho.org"
+},
+{
+"text": "donating",
+"href": "https://secure.actblue.com/donate/cliff4idaho"
+},
+{
+"text": "volunteering",
+"href": "https://cliff-for-idaho.org/volunteer/"
+}
 ]

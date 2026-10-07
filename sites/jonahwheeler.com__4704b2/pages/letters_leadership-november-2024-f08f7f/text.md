@@ -1,5 +1,4 @@
-November 2024 Letter
-The national Democratic Party lost the Presidential election, including the popular vote for the first time since 2004, the majority in the United States House of Representatives, and the United States Senate.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Leadership Leadership Leadership Nov 30, 2024 Nov 30, 2024 November 2024 Letter Knockin' Doors - 3 November 2024 - 13:49 - Milford, NH - Taken by Jonah Knockin' Doors - 3 November 2024 - 13:49 - Milford, NH - Taken by Jonah The national Democratic Party lost the Presidential election, including the popular vote for the first time since 2004, the majority in the United States House of Representatives, and the United States Senate.
 The state Democratic Party lost the election for Governor, and the majorities in the State Senate by a margin of 16 to 8, and the State House of Representatives by 222 to 176.
 I know some have tried to play the ‘rigged election’ card back on the Republicans but the fact of the matter is this election was a repudiation of the Democratic Party.
 If we do not come to terms with that fact, and reconcile with why, we are doomed to continue to lose going forward.
@@ -21,7 +20,7 @@ They are jobs in which you’re largely bound to hyper partisanship, or at least
 Changing that dynamic would take a mountain of work, and you may endeavor up that mountain only to find yourself lost above the clouds without oxygen.
 There is no easy solution to the ails of the caucus system.
 The real solutions will come through a Speaker, and the majority which elects one, that is willing to do the hard work of raising the standards of the legislature as a whole.
-Matthew Wilhelm served as the leader of the minority caucus in the 168th General Court.
+Election Day - 5 November 2024 - Peterborough, NH - Taken by Kath Allen Election Day - 5 November 2024 - Peterborough, NH - Taken by Kath Allen Matthew Wilhelm served as the leader of the minority caucus in the 168th General Court.
 He was elected by a twenty vote margin against former Speaker Steve Shurtleff, who was just elected as a Merrimack county commissioner in this last election.
 Matt had a tough job in a legislature where the margin between caucuses was less than ten people, and anybody who was leader during those conditions would have.
 He sent out a letter to all elected House Democrats after the election stating his intention to run for re-election as leader in the upcoming caucus.
@@ -35,7 +34,7 @@ As the seat for leader of the caucus was now technically an open race, despite t
 Colleagues I knew had expressed well thought out concerns about where the party found itself, and had solutions about how to make it better.
 People who were good at building bridges not just between caucuses but within the caucus.
 Lifting up and showcasing the expertise of all the members of our caucus.
-Everybody agreed someone should, but none thought it should be them.
+Moments before Leadership Speech - 14 November 2024 - Taken by Timothy Horrigan Moments before Leadership Speech - 14 November 2024 - Taken by Timothy Horrigan Everybody agreed someone should, but none thought it should be them.
 There were only a couple days left until the election and seemingly no one was willing to run against the ‘anointed one’.
 After speaking to those closest to me in the legislature, as I had in the summer when considering other positions, which include people who have served in democratic leadership in the past.
 It dawned on me that I could not sit at lunch with them for another two years only to complain about the failures of the current leadership, doing nothing about it.
@@ -69,4 +68,4 @@ Legislation to address the Statewide Education Property tax, relieving towns acr
 Establishing a voluntary ‘blue envelope’ program similar to the one implemented in State’s across the country to ensure better communication between drivers with autism and the law enforcement pulling them over.
 I believe despite the minority in which Democrats find themselves, we will be able to still get plenty of non partisan work done for the State.
 Showing that no matter what the composition of the legislature we are willing to work towards governing the State we were all elected to serve.
-Back to all
+The Line - 5 November 2024 - 10:12 - Peterborough, NH - Taken by Jonah The Line - 5 November 2024 - 10:12 - Peterborough, NH - Taken by Jonah ‹ In With The New ‹ In With The New ‹ In With The New Knock, Knock, Knock your door. › Knock, Knock, Knock your door. › Knock, Knock, Knock your door. › Back to all

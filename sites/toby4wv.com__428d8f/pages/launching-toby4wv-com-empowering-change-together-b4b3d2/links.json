@@ -1,15 +1,78 @@
 [
-"https://facebook.com/TobyforWV",
-"https://secure.winred.com/friends-of-toby-heaney/donate-today",
-"https://toby4wv.com/",
-"https://toby4wv.com/about",
-"https://toby4wv.com/author/tobyheaney",
-"https://toby4wv.com/category/blog",
-"https://toby4wv.com/contact-toby",
-"https://toby4wv.com/donations-and-volunteer-opportunities",
-"https://toby4wv.com/events-calendar",
-"https://toby4wv.com/issues",
-"https://toby4wv.com/issues-policies",
-"https://toby4wv.com/news",
-"https://wsiworld.com/martin-milligan"
+{
+"text": "About",
+"href": "https://toby4wv.com/about/"
+},
+{
+"text": "About Toby:",
+"href": "https://toby4wv.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://toby4wv.com/category/blog/"
+},
+{
+"text": "Contact Toby",
+"href": "https://toby4wv.com/contact-toby/"
+},
+{
+"text": "Contact Us:",
+"href": "https://toby4wv.com/contact-toby/"
+},
+{
+"text": "Donations & Volunteer Opportunities",
+"href": "https://toby4wv.com/donations-and-volunteer-opportunities/"
+},
+{
+"text": "Events Calendar",
+"href": "https://toby4wv.com/events-calendar/"
+},
+{
+"text": "Events:",
+"href": "https://toby4wv.com/events-calendar/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/TobyforWV"
+},
+{
+"text": "Get Involved:",
+"href": "https://toby4wv.com/issues-policies/"
+},
+{
+"text": "Home",
+"href": "https://toby4wv.com/"
+},
+{
+"text": "Issues",
+"href": "https://toby4wv.com/issues/"
+},
+{
+"text": "News",
+"href": "https://toby4wv.com/news/"
+},
+{
+"text": "Our Vision:",
+"href": "https://toby4wv.com/issues-policies/"
+},
+{
+"text": "Powered by [image]",
+"href": "https://www.wsiworld.com/martin-milligan"
+},
+{
+"text": "Toby Heaney",
+"href": "https://toby4wv.com/author/tobyheaney/"
+},
+{
+"text": "Toby4WV.com",
+"href": "https://toby4wv.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-of-toby-heaney/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://toby4wv.com/"
+}
 ]

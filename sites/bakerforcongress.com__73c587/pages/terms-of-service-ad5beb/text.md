@@ -1,31 +1,3 @@
-0
-Skip to Content
-Why I'm Running
-Announcement Video
-About Ethan
-Issues
-Media Releases
-Get Involved
-Donate
-Open Menu
-Close Menu
-Why I'm Running
-Announcement Video
-About Ethan
-Issues
-Media Releases
-Get Involved
-Donate
-Open Menu
-Close Menu
-Why I'm Running
-Announcement Video
-About Ethan
-Issues
-Media Releases
-Get Involved
-Donate
-Please wait while the policy is loaded.
-If it does not load, please
-click here to view the policy
-.
+0 Skip to Content Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Please wait while the policy is loaded.
+If it does not load, please click here to view the policy .
+Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # Privacy Policy ‍ ‍ Terms of Service ‍ ‍ Disclaimer contact@BakerForCongress.com contact@BakerForCongress.com Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # PAID FOR BY BAKER FOR CONGRESS

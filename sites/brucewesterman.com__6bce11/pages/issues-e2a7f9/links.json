@@ -1,12 +1,58 @@
 [
-"https://brucewesterman.com/",
-"https://brucewesterman.com/get-involved",
-"https://brucewesterman.com/issues",
-"https://brucewesterman.com/privacy",
-"https://congress.gov/bill/116th-congress/house-bill/1332/text?q=%7B%22search%22%3A%5B%22Medicare+Prescription+Drug+Price+Negotiation+Act%22%5D%7D&r=13&s=1",
-"https://facebook.com/WestermanAR",
-"https://secure.winred.com/westerman-for-congress/donate",
-"https://twitter.com/westermanAR",
-"https://westerman.house.gov/media-center/blog-posts/summary-fair-care-act-2019",
-"https://youtube.com/user/WestermanAR"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/westerman-for-congress/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brucewesterman.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.brucewesterman.com/issues"
+},
+{
+"text": "Meet Bruce",
+"href": "https://www.brucewesterman.com/#meet-bruce"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brucewesterman.com/privacy"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/WestermanAR"
+},
+{
+"text": "[image]",
+"href": "https://www.brucewesterman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/WestermanAR"
+},
+{
+"text": "full legislative text of the Fair Care Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/1332/text?q=%7B%22search%22%3A%5B%22Medicare+Prescription+Drug+Price+Negotiation+Act%22%5D%7D&r=13&s=1"
+},
+{
+"text": "section by section summary of the Fair Care Act.",
+"href": "https://westerman.house.gov/media-center/blog-posts/summary-fair-care-act-2019"
+}
 ]

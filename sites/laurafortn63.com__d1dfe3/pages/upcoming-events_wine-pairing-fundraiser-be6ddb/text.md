@@ -1,14 +1,6 @@
-Back to All Events
-Our last fundraiser is this Wednesday, 10/7!
-Join the Nashville Wine Duo for an exploration of wine and appetizer pairings from Trader Joe's.
+0 Skip to Content Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Folder: Learn More Back Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Back to All Events Wine Pairing Fundraiser Wednesday, October 7, 2026 5:30 PM 7:30 PM Google Calendar ICS Our last fundraiser is this Wednesday, 10/7!
+Join the Nashville Wine Duo for an exploration of wine and appetizer pairings from Trader Joe's .
 Let's enjoy good wine and good company as we rally behind Dr.
-Laura Andreson—OB/GYN, reproductive rights champion, healthcare advocate and the kind of leader Tennessee needs right now.
+Laura Andreson —OB/GYN, reproductive rights champion, healthcare advocate and the kind of leader Tennessee needs right now.
 Plus, we’ve got a special musical guest - singer/songwriter Morgxn!
-Get your tickets here
-Previous
-Previous
-October 7
-Community Canvass in Brentwood
-Next
-Next
-October 8
+Get your tickets here Previous Previous October 7 Community Canvass in Brentwood Next Next October 8 Community Canvass in Franklin Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

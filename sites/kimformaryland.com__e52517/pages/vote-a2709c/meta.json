@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://kimformaryland.com/vote",
- "paid_for_by": null,
+ "fingerprint": "6b0cc95f7153d0585c1936a032babea8de395f66",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

@@ -1,28 +1,12 @@
-- Government Resources
-- Maryland General Assembly
-- Sen.
-Cheryl Kagan (District 17)
-- Del.
-Julie Palakovich Carr (District 17)
-- Del.
-Ryan Spiegel (District 17)
-- Del.
-Joe Vogel (District 17)
-- Local Government:
-- Federal Government
-- Sen.
-Angela Alsobrooks
-- Sen.
-Chris Van Hollen
-- Rep.
-April McClain Delaney (District 6)
-- Rep.
-Jamie Raskin (District 8)
-- Voting
-- District 17 Community Resources
-- Homeless Shelters
-- Montgomery County Chambers of Commerce
-- Schools and Colleges
-- Rotary Clubs
-- State Resources/Assistance
-- News
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute Community Resources Home Community Resources Government Resources Maryland General Assembly Sen.
+Cheryl Kagan (District 17) Del.
+Julie Palakovich Carr (District 17) Del.
+Ryan Spiegel (District 17) Del.
+Joe Vogel (District 17) Maryland State Government How a Bill Becomes a Law Office of the Governor Office of the Attorney General Office of the Comptroller Local Government: Montgomery County Government City of Gaithersburg Government City of Rockville Government Federal Government Sen.
+Angela Alsobrooks Sen.
+Chris Van Hollen Rep.
+April McClain Delaney (District 6) Rep.
+Jamie Raskin (District 8) Voting Find your Elected Officials Register to Vote Request an Absentee Ballot District 17 Community Resources Recreation and Parks Montgomery County Recreation and Parks Aquatics Camps Classes Senior Programs Trips and Tours Maryland National Capital Parks and Planning Commission Rockville Parks and Facilities Rockville Recreation and Parks Foundation Gaithersburg Parks and Facilities Montgomery County Public Library Montgomery County Child Care Association Community Reach of Montgomery County (Formerly Community Ministries of Rockville) Kentlands Market Square Thomas Farm Community Center Casey Community Center Glen Echo Park Homeless Shelters Interfaith Works Montgomery County Coalition for the Homeless Stepping Stones Shelter Hospitals Adventist Health Care Shady Grove Center Holy Cross Health Center Suburban Hospital Farmers Markets Gaithersburg Farmers Market Rockville Farmers Market Shady Grove Farmers Market Montgomery County Chambers of Commerce Rockville Chamber of Commerce Gaithersburg-Germantown Chamber of Commerce Montgomery County Chamber of Commerce Schools and Colleges Montgomery County Public Schools Montgomery College Universities at Shady Grove Museums & Theatres Adventure Theatre MTC Blackrock Center for the Arts Gaithersburg Book Festival F.
+Scott Fitzgerald Theatre Glenstone Museum Olney Theatre The Puppet Co.
+Round House Theatre Strathmore Hall National Capital Trolley Museum The Underground Railroad Experience Trail VisArts Center The Writer’s Center Rotary Clubs Rockville Rotary Club Gaithersburg Rotary Club State Resources/Assistance Energy Assistance Choosing an Energy Provider Maryland Health Connection Maryland Health Department Maryland Medical Assistance Programs Veteran Job Opportunities YMCA Youth and Family Services Donate Life Maryland Maryland Homeowner Assistance Fund News Baltimore Banner Baltimore Sun Bethesda Today (Bethesda Magazine) Center Maryland El Tiempo Latino Greater Greater Washington Maryland Matters Maryland Reporter The MoCo Show Montgomery Perspective The Seventh State Washington Post WTOP Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

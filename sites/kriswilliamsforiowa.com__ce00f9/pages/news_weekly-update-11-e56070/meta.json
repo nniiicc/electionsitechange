@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-11",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "05cbbb0a17cd5d3f2c255fe855041db31564d34b",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly update #11 \"Money out of Politics\"",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

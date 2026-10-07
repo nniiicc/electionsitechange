@@ -1,15 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://electdebbutler.com/",
-"https://electdebbutler.com/Events",
-"https://electdebbutler.com/contact",
-"https://electdebbutler.com/contribute",
-"https://electdebbutler.com/events",
-"https://electdebbutler.com/home",
-"https://electdebbutler.com/issues",
-"https://electdebbutler.com/legislation",
-"https://electdebbutler.com/news",
-"https://ncleg.gov/Members/Committees/H/730",
-"https://ncleg.gov/Members/IntroducedBills/H/730/2025/true",
-"https://ncleg.gov/Members/Votes/H/730"
+{
+"text": "#ago",
+"href": "https://www.electdebbutler.com/Events"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Committees",
+"href": "https://www.ncleg.gov/Members/Committees/H/730"
+},
+{
+"text": "Contact",
+"href": "https://www.electdebbutler.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.electdebbutler.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.electdebbutler.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.electdebbutler.com/home"
+},
+{
+"text": "Legislation",
+"href": "https://www.electdebbutler.com/legislation"
+},
+{
+"text": "News",
+"href": "https://www.electdebbutler.com/news"
+},
+{
+"text": "Next ›",
+"href": "https://www.electdebbutler.com/Events"
+},
+{
+"text": "Our Issues",
+"href": "https://www.electdebbutler.com/issues"
+},
+{
+"text": "Primary Sponsored Bills",
+"href": "https://www.ncleg.gov/Members/IntroducedBills/H/730/2025/true"
+},
+{
+"text": "This Month",
+"href": "https://www.electdebbutler.com/Events"
+},
+{
+"text": "This Week",
+"href": "https://www.electdebbutler.com/Events"
+},
+{
+"text": "Votes",
+"href": "https://www.ncleg.gov/Members/Votes/H/730"
+},
+{
+"text": "[image]",
+"href": "https://www.electdebbutler.com/"
+},
+{
+"text": "‹ Previous",
+"href": "https://www.electdebbutler.com/Events"
+}
 ]

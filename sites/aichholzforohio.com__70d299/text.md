@@ -1,7 +1,10 @@
-Nancy’s Priorities
-Practical leadership focused on safer communities, stronger schools, and a growing economy.
-Meet Nancy Aichholz
-Nancy Aichholz is a proven business leader, entrepreneur, and public servant with decades of experience building organizations, creating opportunities, and bringing people together to solve complex challenges.
-Throughout her career, Nancy has led marketing strategy for a global, multibillion-dollar company and founded two successful businesses of her own.
+top of page Home Meet Nancy Nancy's Vision Get Involved Menu Close DONATE NANCY AICHHOLZ FOR OHIO STATE REPRESENTATIVE, DISTRICT 27 A business owner and former school board president, Nancy Aichholz is ready to bring proven, practical leadership to Ohio District 27.
+MEET NANCY GET INVOLVED Nancy’s Priorities Practical leadership focused on safer communities, stronger schools, and a growing economy.
+Safe Streets Nancy believes every family deserves to feel safe at home, at school, and in their neighborhood.
+She will support law enforcement, hold criminals accountable, and work for policies that protect communities across District 27. ​ Learn More Strong Communities Good schools are the backbone of strong communities.
+Nancy has served on her local School Board and is passionate about ensuring our schools have the resources they need to give our kids the education they deserve. ​ Learn More Steady Leadership Nancy has spent her career building organizations, creating opportunities, and helping businesses grow.
+She will bring practical, results-focused leadership to Columbus and work to make Ohio a place where families and small businesses can thrive.
+Learn More Meet Nancy Aichholz Nancy Aichholz is a proven business leader, entrepreneur, and public servant with decades of experience building organizations, creating opportunities, and bringing people together to solve complex challenges. ​ Throughout her career, Nancy has led marketing strategy for a global, multibillion-dollar company and founded two successful businesses of her own.
 Her experience extends well beyond marketing and brand development, encompassing business strategy, operations, finance, logistics, and organizational growth.
 She has also helped strengthen an organization dedicated to supporting women-owned businesses, giving more entrepreneurs the tools and resources they need to succeed.
+LEARN MORE CONTACT THE CAMPAIGN First name * Last name * Email * Phone MESSAGE * Submit PAID FOR BY NANCY AICHHOLZ FOR OHIO Home Meet Nancy Nancy's Vision Get Involved bottom of page

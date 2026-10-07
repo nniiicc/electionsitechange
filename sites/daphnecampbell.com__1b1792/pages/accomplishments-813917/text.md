@@ -1,156 +1,26 @@
-Accomplishments
-A Message from Representative Campbell
-Dear Constituents,
-I have recently wrapped up my second Legislative Session in the Florida House of Representatives.
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 Accomplishments State Representative Daphne Campbell — 2012 Legislative Session Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear Constituents, I have recently wrapped up my second Legislative Session in the Florida House of Representatives.
 I returned to Tallahassee in January to start an early session due to Florida redistricting.
-The 2012 …
-A Message from Representative Campbell
-Dear constituents, supporters, and friends,
-I am very pleased to present my first legislative newsletter to the community of District 108.
-It has been nearly a year since I have represented the people of Miami Shores and I …
-Senator Campbell worked tirelessly to secure critical funding for the cities and communities of Senate District 38.
+The 2012 … Read more State Representative Daphne Campbell — 2011 Legislative Newsletter District 108 | Florida House of Representatives A Message from Representative Campbell Dear constituents, supporters, and friends, I am very pleased to present my first legislative newsletter to the community of District 108.
+It has been nearly a year since I have represented the people of Miami Shores and I … Read more Senator Campbell's 2018 Appropriations Projects Introduced into HB 5001 — Filed March 19, 2018 Senator Campbell worked tirelessly to secure critical funding for the cities and communities of Senate District 38.
 Below is a full breakdown of every project she introduced, the amounts requested, and the final outcomes.
-Environment & Water Projects
-Bal Harbour …
-Message from Senator Campbell
-Dear Friends and Neighbors,
-As many of you are aware, the 2018 Legislative session concluded in March.
-I would like to share with you the incredible work that was accomplished on your behalf in Tallahassee, which I believe will …
-Throughout her tenure in the Florida Legislature, Representative and later Senator Daphne Campbell fought passionately for her constituents, filing dozens of bills across healthcare, education, public safety, civil rights, and community development.
-Below is a …
-Senator Campbell worked tirelessly to secure critical funding for District 108 and the surrounding communities through the 2018 appropriations process.
+Environment & Water Projects Bal Harbour … Read more Senator Daphne Campbell — Monthly Newsletter Florida State Senate | Working for the People of Senate District 38 Message from Senator Campbell Dear Friends and Neighbors, As many of you are aware, the 2018 Legislative session concluded in March.
+I would like to share with you the incredible work that was accomplished on your behalf in Tallahassee, which I believe will … Read more Bills Filed by Representative & Senator Daphne Campbell District 108 / Senate District 38 — Signed into Law, 2011–2018 Throughout her tenure in the Florida Legislature, Representative and later Senator Daphne Campbell fought passionately for her constituents, filing dozens of bills across healthcare, education, public safety, civil rights, and community development.
+Below is a … Read more Senator Campbell 2018 Appropriations Projects Introduced into HB 5001 / SB 2500 Senator Campbell worked tirelessly to secure critical funding for District 108 and the surrounding communities through the 2018 appropriations process.
 Below is a full breakdown of the projects she introduced, the amounts requested, and the outcomes achieved.
-Inf…
-Hardly and tirelessly advocating for District 108 — brought to you by Representative Daphne Campbell, R.N.
-Family Empowerment and Intervention — North Miami
-Funding Secured — $100,000 Passed in the House and Senate, Session 2012.
-Unfortunately vetoed by …
-FOR IMMEDIATE RELEASE Contact: Rep.
-Daphne Campbell Date: May 9, 2011 Phone: (305) 795-1210
-Rep.
-Campbell Procures Funding for District 108 Programs
-Tallahassee, Fla. — Despite a difficult budget outlook and testy partisan politics during the appropriations …
-In the 2018 legislative session, Senator Campbell championed several key initiatives aimed at enhancing the well-being and infrastructure of Florida's communities.
-These projects were introduced as part of the General Appropriations Act, HB 5001/SB 2500, which …
-Senator Daphne Campbell has a proven track record of securing vital appropriations to support the needs of her constituents and communities across Florida.
-Through her diligent advocacy and strategic leadership, she has successfully secured over $4 billion in …
-Senator Daphne Campbell D-38 Signed into Law (2011-2018)
-CS/CS/CS/CS/HB 479 - Medical MalpracticeGeneral Bill by Judiciary Committee, Health Care Appropriations Subcommittee, Health & Human Services Access Subcommittee, Civil Justice Subcommittee, Horner, …
-Bills Last Event: Died in K-20 Competitiveness Subcommittee
-Bills Last Event: Withdrawn prior to introduction
-Bills Last Event: Died in Transportation & Highway Safety Subcommittee
-Bills Last Event: 06/13/11 Signed by Officers and presented to Governor
-Bills Last Event: Died in Civil Justice Subcommittee
-Bills Last Event: Died in Criminal Justice Subcommittee
-Bills Last Event: Died in Health & Human Services Access Subcommittee
-Bills Last Event: Died in Civil Justice Subcommittee
-Bills Last Event: Died in Health & Human Services Access Subcommittee
-Bills Last Event: Died in PreK-12 Appropriations Subcommittee
-Bills Last Event: 05/07/11 S Died in Messages
-Bills Last Event: Died in Judiciary Committee
-Bills Last Event: Adopted by Publication
-Bills Last Event: Adopted by Publication
-Bills Last Event: Adopted by Publication
-Bills Last Event: Adopted by Publication
-Bills Last Event: Adopted by Publication
-Subject: Assault or Battery of a Law Enforcement Officer
-Bills Last Event: 05/31/11 Approved by Governor
-Subject: Child-restraint Requirements
-Bills Last Event: Died in Transportation & Highway Safety Subcommittee
-Subject: Postsecondary Student Fees
-Bills Last Event: Died in K-20 Innovation Subcommittee
-Subject: Code of Student Conduct
-Bills Last Event: Laid on Table, refer to SB 228
-Subject: Treatment-based Drug Court Programs
-Bills Last Event: Laid on Table, refer to CS/SB 400
-Subject: Drug-related Overdoses
-Bills Last Event: 05/07/11 S Died in Messages
-Subject: Violations of Injunctions for Protection
-Bills Last Event: Laid on Table, refer to SB 240
-Subject: Local Government Accountability
-Bills Last Event: Laid on Table, refer to CS/SB 224
-Subject: Barbering
-Bills Last Event: Died in Business & Consumer Affairs Subcommittee
-Subject: Florida Kidcare Program
-Bills Last Event: Died in Health & Human Services Access Subcommittee
-Subject: Nursing Home Diversion Program
-Bills Last Event: Died in Health & Human Services Quality Subcommittee
-Subject: Value Adjustment Boards
-Bills Last Event: 06/09/11 Signed by Officers and presented to Governor
-Subject: Seaports
-Bills Last Event: 05/25/11 Chapter No. 2011-41
-Subject: Breast Cancer Early Detection and Treatment Referral Program
-Bills Last Event: Withdrawn prior to introduction
-Subject: Florida Center for Nursing
-Bills Last Event: Died in Health & Human Services Quality Subcommittee
-Subject: Community-based Juvenile Justice
-Bills Last Event: Died in Justice Appropriations Subcommittee
-Subject: Automated External Defibrillators
-Bills Last Event: Died in Health & Human Services Quality Subcommittee
-Subject: Employment Liability for Persons with Disabilities
-Bills Last Event: Laid on Table, refer to CS/SB 926
-Subject: Criminal Justice
-Bills Last Event: Laid on Table, refer to CS/SB 146
-Subject: Student Safety
-Bills Last Event: 05/07/11 S Died in Messages
-Subject: Dextromethorphan
-Bills Last Event: Died in Appropriations Committee
-Subject: Missing Adults
-Bills Last Event: Laid on Table, refer to CS/SB 664
-Subject: Postsecondary Student Fees
-Bills Last Event: Died in Higher Education Appropriations Subcommittee
-Subject: Assessment of Residential and Nonhomestead Real Property
-Bills Last Event: 05/07/11 S Died in Messages
-Subject: Parental Rights Amendment
-Bills Last Event: 06/09/11 Signed by Officers and filed with Secretary of State
-Subject: Affordable Housing
-Bills Last Event: 06/13/11 Signed by Officers and presented to Governor
-Subject: Florida Education Finance Program
-Bills Last Event: Died in PreK-12 Appropriations Subcommittee
-Subject: Homestead Assessment Limitation/Senior Citizens
-Bills Last Event: 05/07/11 S Died in Messages
-Subject: Eyewitness Identification
-Bills Last Event: Died on Second Reading Calendar
-Subject: High School Athletic Trainers
-Bills Last Event: Died on Second Reading Calendar
-Subject: Sentencing of Inmates
-Bills Last Event: Died in Justice Appropriations Subcommittee
-Subject: Florida Tax Credit Scholarship Program
-Bills Last Event: 06/02/11 Chapter No. 2011-123
-Subject: Juvenile Civil Citations
-Bills Last Event: 06/02/11 Chapter No. 2011-124
-Subject: State Lotteries
-Bills Last Event: Died in Government Operations Subcommittee
-Subject: Telecommunications
-Bills Last Event: 05/06/11 Chapter No. 2011-36
-Subject: Colleges and Universities Authorized to Operate Educational Programs Beyond the Secondary Level
-Bills Last Event: Laid on Table, refer to CS/SM 1654
-Subject: Local Government Services
-Bills Last Event: 06/13/11 Signed by Officers and presented to Governor
-Subject: Assisted Living Facilities
-Bills Last Event: 06/13/11 Signed by Officers and presented to Governor
-Subject: Assisted Living Facilities
-Bills Last Event: Laid on Table under Rule 7.19(a), refer to CS for HB 4045, HB 4047, HB 4049, HB 4051 & HB 4053
-Subject: Community-Based Development Organizations
-Bills Last Event: 05/07/11 S Died in Messages
-Subject: Affordable Housing
-Bills Last Event: 04/27/11 Chapter No. 2011-15
-Subject: Operating Trust Fund/DOE
-Bills Last Event: Laid on Table, refer to SB 1026
-Subject: Administrative Trust Fund/DOE
-Bills Last Event: Laid on Table, refer to SB 1028
-Subject: Public Health
-Bills Last Event: Died on Second Reading Calendar
-Subject: Corporate Income Tax
-Bills Last Event: 06/09/11 Signed by Officers and presented to Governor
-Subject: Background Screening
-Bills Last Event: Laid on Table, refer to CS/SB 1992
-Subject: Bay of Pigs Memorial Day
-Bills Last Event: Adopted
-Subject: Japan
-Bills Last Event: Adopted
-Bills Last Event: Adopted
-Subject: Miami-Dade County Days
-Bills Last Event: Adopted by Publication
-Subject: Caribbean Heritage Month
-Bills Last Event: Adopted
+Inf… Read more Funds From State Budget Appropriations 2012 Hardly and tirelessly advocating for District 108 — brought to you by Representative Daphne Campbell, R.N.
+Family Empowerment and Intervention — North Miami Funding Secured — $100,000 Passed in the House and Senate, Session 2012.
+Unfortunately vetoed by … Read more Rep.
+Campbell Procures Funding for District 108 Programs FOR IMMEDIATE RELEASE Contact: Rep.
+Daphne Campbell Date: May 9, 2011 Phone: (305) 795-1210 Rep.
+Campbell Procures Funding for District 108 Programs Tallahassee, Fla. — Despite a difficult budget outlook and testy partisan politics during the appropriations … Read more Senator Campbell 2018 Appropriations Projects In the 2018 legislative session, Senator Campbell championed several key initiatives aimed at enhancing the well-being and infrastructure of Florida's communities.
+These projects were introduced as part of the General Appropriations Act, HB 5001/SB 2500, which … Read more Appropriations Accomplishments Senator Daphne Campbell has a proven track record of securing vital appropriations to support the needs of her constituents and communities across Florida.
+Through her diligent advocacy and strategic leadership, she has successfully secured over $4 billion in … Read more Bills Filed by Representative Daphne Campbell Senator Daphne Campbell D-38 Signed into Law (2011-2018) CS/CS/CS/CS/HB 479 - Medical Malpractice General Bill by Judiciary Committee, Health Care Appropriations Subcommittee, Health & Human Services Access Subcommittee, Civil Justice Subcommittee, Horner, … Read more Daphne Campbell’s Bills Sponsored and Co-Sponsored Representative is : First Named Sponsor (by rule) ‏‏‎ ‎ Session 2011 | Bill Number HB 71 Subject: Student Assessment in the Public Schools Bills Last Event: Died in K-20 Competitiveness Subcommittee Session 2011 | Bill Number HB 157 Subject: Education and Training Opportunities for Public Employees Bills Last Event: Died in K-20 Competitiveness Subcommittee Session 2011 | Bill Number HB 159 Subject: Public Service Commission Bills Last Event: Withdrawn prior to introduction Session 2011 | Bill Number HB 181 Subject: Driving Without a Valid Driver License Bills Last Event: Died in Transportation & Highway Safety Subcommittee Session 2011 | Bill Number CS/CS/CS/CS/HB 479 Subject: Medical Malpractice Bills Last Event: 06/13/11 Signed by Officers and presented to Governor Session 2011 | Bill Number HB 603 Subject: Relief/Yvonne Morton/Department of Health Bills Last Event: Died in Civil Justice Subcommittee Session 2011 | Bill Number HB 665 Subject: Conditions of Probation Bills Last Event: Died in Criminal Justice Subcommittee Session 2011 | Bill Number HB 1271 Subject: Dentistry Bills Last Event: Died in Health & Human Services Access Subcommittee Session 2011 | Bill Number HB 4091 Subject: Expunction of Criminal History Records Bills Last Event: Died in Civil Justice Subcommittee Session 2011 | Bill Number HB 4103 Subject: Medical Practice Bills Last Event: Died in Health & Human Services Access Subcommittee Session 2011 | Bill Number HB 4141 Subject: Public School Class Size Maximums Bills Last Event: Died in PreK-12 Appropriations Subcommittee Session 2011 | Bill Number HB 7131 Subject: Seat Requirements Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number HB 7141 Subject: Adulterated Syrup Bills Last Event: Died in Judiciary Committee Session 2011 | Bill Number HR 9017 Subject: Advanced Practice Registered Nurse Week Bills Last Event: Adopted by Publication Session 2011 | Bill Number HR 9081 Subject: Haitian American Nurses Association of Florida, Inc.
+Bills Last Event: Adopted by Publication Session 2011 | Bill Number HR 9083 Subject: Dr.
+Barth A.
+Green Bills Last Event: Adopted by Publication Session 2011 | Bill Number HR 9111 Subject: Police and Other Law Enforcement Officers Bills Last Event: Adopted by Publication Session 2011 | Bill Number HR 9115 Subject: Haitian Heritage Museum Bills Last Event: Adopted by Publication Representative is : Co Sponsor (by rule) ‏‏‎ ‎ Session 2011 | Bill Number CS/HB 3 Subject: Assault or Battery of a Law Enforcement Officer Bills Last Event: 05/31/11 Approved by Governor Session 2011 | Bill Number HB 11 Subject: Child-restraint Requirements Bills Last Event: Died in Transportation & Highway Safety Subcommittee Session 2011 | Bill Number HB 55 Subject: Postsecondary Student Fees Bills Last Event: Died in K-20 Innovation Subcommittee Session 2011 | Bill Number HB 61 Subject: Code of Student Conduct Bills Last Event: Laid on Table, refer to SB 228 Session 2011 | Bill Number CS/HB 81 Subject: Treatment-based Drug Court Programs Bills Last Event: Laid on Table, refer to CS/SB 400 Session 2011 | Bill Number CS/HB 91 Subject: Drug-related Overdoses Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number HB 101 Subject: Violations of Injunctions for Protection Bills Last Event: Laid on Table, refer to SB 240 Session 2011 | Bill Number CS/HB 107 Subject: Local Government Accountability Bills Last Event: Laid on Table, refer to CS/SB 224 Session 2011 | Bill Number HB 175 Subject: Barbering Bills Last Event: Died in Business & Consumer Affairs Subcommittee Session 2011 | Bill Number HB 245 Subject: Florida Kidcare Program Bills Last Event: Died in Health & Human Services Access Subcommittee Session 2011 | Bill Number HB 267 Subject: Nursing Home Diversion Program Bills Last Event: Died in Health & Human Services Quality Subcommittee Session 2011 | Bill Number CS/CS/CS/HB 281 Subject: Value Adjustment Boards Bills Last Event: 06/09/11 Signed by Officers and presented to Governor Session 2011 | Bill Number CS/CS/CS/CS/HB 283 Subject: Seaports Bills Last Event: 05/25/11 Chapter No.
+2011-41 Session 2011 | Bill Number HB 323 Subject: Breast Cancer Early Detection and Treatment Referral Program Bills Last Event: Withdrawn prior to introduction Session 2011 | Bill Number HB 327 Subject: Florida Center for Nursing Bills Last Event: Died in Health & Human Services Quality Subcommittee Session 2011 | Bill Number CS/HB 333 Subject: Community-based Juvenile Justice Bills Last Event: Died in Justice Appropriations Subcommittee Session 2011 | Bill Number HB 373 Subject: Automated External Defibrillators Bills Last Event: Died in Health & Human Services Quality Subcommittee Session 2011 | Bill Number CS/HB 405 Subject: Employment Liability for Persons with Disabilities Bills Last Event: Laid on Table, refer to CS/SB 926 Session 2011 | Bill Number CS/HB 449 Subject: Criminal Justice Bills Last Event: Laid on Table, refer to CS/SB 146 Session 2011 | Bill Number CS/HB 481 Subject: Student Safety Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number CS/HB 487 Subject: Dextromethorphan Bills Last Event: Died in Appropriations Committee Session 2011 | Bill Number CS/HB 513 Subject: Missing Adults Bills Last Event: Laid on Table, refer to CS/SB 664 Session 2011 | Bill Number HB 523 Subject: Postsecondary Student Fees Bills Last Event: Died in Higher Education Appropriations Subcommittee Session 2011 | Bill Number CS/CS/HB 531 Subject: Assessment of Residential and Nonhomestead Real Property Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number HM 557 Subject: Parental Rights Amendment Bills Last Event: 06/09/11 Signed by Officers and filed with Secretary of State Session 2011 | Bill Number HB 639 Subject: Affordable Housing Bills Last Event: 06/13/11 Signed by Officers and presented to Governor Session 2011 | Bill Number HB 729 Subject: Florida Education Finance Program Bills Last Event: Died in PreK-12 Appropriations Subcommittee Session 2011 | Bill Number CS/CS/HJR 789 Subject: Homestead Assessment Limitation/Senior Citizens Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number CS/CS/HB 821 Subject: Eyewitness Identification Bills Last Event: Died on Second Reading Calendar Session 2011 | Bill Number CS/CS/HB 831 Subject: High School Athletic Trainers Bills Last Event: Died on Second Reading Calendar Session 2011 | Bill Number CS/HB 917 Subject: Sentencing of Inmates Bills Last Event: Died in Justice Appropriations Subcommittee Session 2011 | Bill Number CS/CS/HB 965 Subject: Florida Tax Credit Scholarship Program Bills Last Event: 06/02/11 Chapter No.
+2011-123 Session 2011 | Bill Number CS/HB 997 Subject: Juvenile Civil Citations Bills Last Event: 06/02/11 Chapter No.
+2011-124 Session 2011 | Bill Number HB 1017 Subject: State Lotteries Bills Last Event: Died in Government Operations Subcommittee Session 2011 | Bill Number CS/CS/HB 1231 Subject: Telecommunications Bills Last Event: 05/06/11 Chapter No.
+2011-36 Session 2011 | Bill Number CS/CS/HM 1445 Subject: Colleges and Universities Authorized to Operate Educational Programs Beyond the Secondary Level Bills Last Event: Laid on Table, refer to CS/SM 1654 Session 2011 | Bill Number HB 4031 Subject: Local Government Services Bills Last Event: 06/13/11 Signed by Officers and presented to Governor Session 2011 | Bill Number CS/HB 4045 Subject: Assisted Living Facilities Bills Last Event: 06/13/11 Signed by Officers and presented to Governor Session 2011 | Bill Number HB 4047 Subject: Assisted Living Facilities Bills Last Event: Laid on Table under Rule 7.19(a), refer to CS for HB 4045, HB 4047, HB 4049, HB 4051 & HB 4053 Session 2011 | Bill Number HB 4049 Subject: Assisted Living Facilities Bills Last Event: Laid on Table under Rule 7.19(a), refer to CS for HB 4045, HB 4047, HB 4049, HB 4051 & HB 4053 Session 2011 | Bill Number HB 4051 Subject: Assisted Living Facilities Bills Last Event: Laid on Table under Rule 7.19(a), refer to CS for HB 4045, HB 4047, HB 4049, HB 4051 & HB 4053 Session 2011 | Bill Number HB 4165 Subject: Community-Based Development Organizations Bills Last Event: 05/07/11 S Died in Messages Session 2011 | Bill Number HB 7003 Subject: Affordable Housing Bills Last Event: 04/27/11 Chapter No.
+2011-15 Session 2011 | Bill Number HB 7053 Subject: Operating Trust Fund/DOE Bills Last Event: Laid on Table, refer to SB 1026 Session 2011 | Bill Number HB 7055 Subject: Administrative Trust Fund/DOE Bills Last Event: Laid on Table, refer to SB 1028 Session 2011 | Bill Number HB 7143 Subject: Public Health Bills Last Event: Died on Second Reading Calendar Session 2011 | Bill Number CS/HB 7185 Subject: Corporate Income Tax Bills Last Event: 06/09/11 Signed by Officers and presented to Governor Session 2011 | Bill Number CS/HB 7233 Subject: Background Screening Bills Last Event: Laid on Table, refer to CS/SB 1992 Session 2011 | Bill Number HR 9001 Subject: Bay of Pigs Memorial Day Bills Last Event: Adopted Session 2011 | Bill Number HR 9025 Subject: Japan Bills Last Event: Adopted Session 2011 | Bill Number HR 9045 Subject: Florida National Guard Day Bills Last Event: Adopted Session 2011 | Bill Number HR 9065 Subject: Miami-Dade County Days Bills Last Event: Adopted by Publication Session 2011 | Bill Number HR 9077 Subject: Caribbean Heritage Month Bills Last Event: Adopted View All Merchant Policies Legal Notice Powered by

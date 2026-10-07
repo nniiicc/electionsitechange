@@ -1,7 +1,9 @@
 {
  "description": "Education",
  "final_url": "https://www.sethfordelegate.com/issues/education",
- "paid_for_by": null,
+ "fingerprint": "1e157d74d803429e8e53593cdea7a75ade97bbdf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education",
  "years_mentioned": []
 }

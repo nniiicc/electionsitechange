@@ -1,8 +1,3 @@
-top of page
-Thank you for your generous support!
-I have completed my fundraising for 2026.
-If you'd like to volunteer with the campaign, please complete this form.
-1/1
-Questions?
-Please feel free to reach out -
-bottom of page
+top of page Amy for State Rep Home News & Updates Endorsements Voting Information Get Involved Thank you for your generous support!
+I have completed my fundraising for 2026. ​ ​ ​ ​ If you'd like to volunteer with the campaign, please complete this form. ​ ​ ​ ​ ​ press to zoom press to zoom press to zoom press to zoom press to zoom press to zoom press to zoom press to zoom press to zoom 1/1 Questions?
+Please feel free to reach out - amymorrinbello@gmail.com Paid for by Amy for State Rep Steve Bobin, Treasurer Approved by Amy Morrin Bello Wethersfield Your Voice at the Capitol Democrat bottom of page

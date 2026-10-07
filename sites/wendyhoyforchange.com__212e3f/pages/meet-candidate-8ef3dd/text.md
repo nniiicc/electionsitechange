@@ -1,7 +1,4 @@
-Why I'm Running
-Time to Get Off the Bench
-My story
-I grew up in a home where democracy wasn’t something you watched from a distance — it was something you participated in.
+Donate Menu Home Meet Candidate Issues Events Endorsements Voting Information Volunteer News Follow us Why I'm Running Time to Get Off the Bench My story I grew up in a home where democracy wasn’t something you watched from a distance — it was something you participated in.
 My parents were Democratic committee members in New York, ordinary people who believed deeply in fairness, representation, and the responsibility to show up for your community.
 They knocked on doors, registered voters, attended meetings, and taught me that when something is wrong, you don’t wait for someone else to fix it.
 You step forward.
@@ -40,3 +37,5 @@ I’m stepping forward because our voices matter.
 Our communities matter.
 And our future matters.
 Staying quiet is no longer an option.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Candidate Issues Events Endorsements Voting Information Volunteer News Donate Follow us Accessibility Statement Political advertisement paid for and approved by Wendy Hoy, Democrat for Florida Representative District 57 PO Box 136 Oldsmar, FL 34677 Wendy Hoy for Change © #

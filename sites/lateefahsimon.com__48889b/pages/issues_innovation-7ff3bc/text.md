@@ -1,5 +1,4 @@
-Innovation
-Alameda County stands as a beacon of innovation in technology and the knowledge economy, including in the biotech space.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities Public Safety Affordable Housing Homelessness Affordability and Job Creation Healthcare for All Reproductive Freedom Racial and Social Justice Immigration LGBTQ+ Rights Disability Rights Voting Rights and Democracy Reform Global Security Innovation Transportation and Infrastructure Climate and Environmental Justice Building a Care Economy Innovation Alameda County stands as a beacon of innovation in technology and the knowledge economy, including in the biotech space.
 These industries offer vast opportunities, generating thousands of jobs, driving significant advancements in healthcare, and bolstering national security.
 Now more than ever, Alameda County has the potential to foster a thriving economy that benefits all residents by fully embracing the opportunities presented by the knowledge economy.
 Lateefah’s office will champion innovative leadership, fostering growth through technology and ensuring our district remains a hub for investment in economic opportunities that create an inclusive economy for our communities.
@@ -9,4 +8,4 @@ Lateefah hopes to establish clear regulatory frameworks to create an environment
 This vision includes implementing strong safeguards to secure personal data, promoting equitable access to technology, and expanding affordable internet access to ensure everyone can benefit.
 By investing in sustainable practices and supporting local businesses and entrepreneurs, Lateefah aims to cultivate a robust economy that leaves no one behind.
 She will lead the transformation of Alameda County into a thriving ecosystem where innovation drives prosperity, opportunity, and community empowerment.
-This vision for innovation is a beacon of hope for a brighter future for all.
+This vision for innovation is a beacon of hope for a brighter future for all. info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

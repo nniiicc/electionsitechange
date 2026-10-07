@@ -1,21 +1,90 @@
 [
-"http://linkedin.com/in/alycia4usa",
-"https://alycia4senate.com/news",
-"https://alyciaforamerica.com/",
-"https://alyciaforamerica.com/contact",
-"https://alyciaforamerica.com/donate-now",
-"https://alyciaforamerica.com/get-involved",
-"https://alyciaforamerica.com/post/__dei",
-"https://alyciaforamerica.com/post/article-v-convention-of-states-risks-and-benefits",
-"https://alyciaforamerica.com/post/national-secuity",
-"https://alyciaforamerica.com/views",
-"https://facebook.com/ARG4USA",
-"https://facebook.com/alycia4senate",
-"https://facebook.com/arg4congress",
-"https://facebook.com/greenerpasturescoop",
-"https://instagram.com/ARG4USA",
-"https://instagram.com/ARG4senate",
-"https://instagram.com/arg4senate",
-"https://x.com/alycia4usa",
-"https://youtube.com/@ARG4USA"
+{
+"text": "Alycia Gruenhagen",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "Article V Convention of States - Risks and Benefits",
+"href": "https://www.alyciaforamerica.com/post/article-v-convention-of-states-risks-and-benefits"
+},
+{
+"text": "Contact",
+"href": "https://www.alyciaforamerica.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.alyciaforamerica.com/donate-now"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/ARG4USA/"
+},
+{
+"text": "Fostering a Movement to Challenge and Rethink DEI Initiatives",
+"href": "https://www.alyciaforamerica.com/post/__dei"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.alyciaforamerica.com/get-involved"
+},
+{
+"text": "Greener Pastures Natural Food Co-op in McLeod County",
+"href": "https://www.facebook.com/greenerpasturescoop"
+},
+{
+"text": "Home",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/ARG4USA/"
+},
+{
+"text": "Investing In National Security",
+"href": "https://www.alyciaforamerica.com/post/national-secuity"
+},
+{
+"text": "My Views",
+"href": "https://www.alyciaforamerica.com/views"
+},
+{
+"text": "READ MORE",
+"href": "https://www.alycia4senate.com/news"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.alyciaforamerica.com"
+},
+{
+"text": "X / TWITTER",
+"href": "https://x.com/alycia4usa"
+},
+{
+"text": "YOUTUBE",
+"href": "https://www.youtube.com/@ARG4USA"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/alycia4senate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/arg4congress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ARG4senate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/arg4senate"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/alycia4usa"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/alycia4usa"
+}
 ]

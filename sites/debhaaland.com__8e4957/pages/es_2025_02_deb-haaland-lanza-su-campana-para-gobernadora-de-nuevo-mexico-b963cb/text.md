@@ -1,5 +1,4 @@
-Deb Haaland lanza su campaña para gobernadora de Nuevo México
-Haaland se enfoca en el costo de vida y la seguridad en su video de lanzamiento.
+Contribuye a una campaña para todos en Nuevo México La gente de Nuevo México enfrenta desafíos difíciles, y Deb Haaland es la líder que necesitamos para desafiar el status quo y llevarnos hacia un futuro donde todos podamos prosperar. ¡Haz lo que puedas hoy para ayudarnos a ganar! $10 $25 $100 $250 $500 Otra cantidad cerrarse English Facebook Instagram X TikTok Bluesky YouTube Deb Haaland por Nuevo México menú Inicio Conoce a Deb Prioridades Noticias Eventos Tienda Contribuye Presione soltar Deb Haaland lanza su campaña para gobernadora de Nuevo México 2025-02-11 Haaland se enfoca en el costo de vida y la seguridad en su video de lanzamiento .
 Albuquerque, NM – Hoy, Deb Haaland lanzó su campaña para gobernadora de Nuevo México.
 En un video de lanzamiento, Haaland priorizó el costo de vida, la seguridad y destacó la importancia de escuchar a las comunidades de Nuevo México.
 Haaland también resaltó su experiencia trayendo recursos para pequeñas empresas, empleos en energía limpia, financiamiento para proyectos de agua en áreas rurales y proyectos para limpiar la contaminación en los paisajes de Nuevo México, como congresista y Secretaria del Departamento del Interior de los Estados Unidos.
@@ -8,8 +7,7 @@ Si es elegida, será la primera mujer indigenanativa americana en servir como go
 “Reducir los costos, hacer que el alquiler y la vivienda sean asequibles, fortalecer nuestras escuelas y prevenir crímenes para que te sientas seguro criando una familia aquí.
 Las soluciones están ahí si somos lo suficientemente decididos para elegirlas,” dijo Haaland en el video de lanzamiento.
 Deb Haaland recorrerá el estado en una gira de lanzamiento de campaña para escuchar a los Nuevo Méxicanos y conocer sus luchas e ideas para encontrar soluciones que se ajusten a sus comunidades.
-Conoce a Deb
-Deb Haaland es una Nuevo Méxicana de 35 generaciones, miembro del Pueblo de Laguna, empresaria, madre trabajadora que ha vivido de cheque en cheque, excongresista y, durante los últimos cuatro años, Secretaria del Interior de los Estados Unidos.
+Conoce a Deb Deb Haaland es una Nuevo Méxicana de 35 generaciones, miembro del Pueblo de Laguna, empresaria, madre trabajadora que ha vivido de cheque en cheque, excongresista y, durante los últimos cuatro años, Secretaria del Interior de los Estados Unidos.
 Al igual que muchos Nuevo Méxicanos, Deb ha enfrentado desafíos, como la falta de vivienda e inseguridad financiera.
 Deb ayudó a pagar la preescolar de su hija trabajando como voluntaria en la escuela para obtener matrícula con descuento.
 Ella dependió de los cupones de alimentos para poner comida en la mesa y de Planned Parenthood para recibir cuidados esenciales.
@@ -27,4 +25,13 @@ Quería marcar la diferencia para los trabajadores Nuevo Méxicanos como ella, p
 En 2018, Deb hizo historia al convertirse en una de las primeras mujeres nativas americanas elegidas al Congreso.
 Creciendo en una familia militar, Deb asistió a 13 escuelas públicas antes de graduarse de Highland High School en Albuquerque.
 A los 28 años, obtuvo una licenciatura en inglés de la Universidad de Nuevo México y luego un J.D. de la Facultad de Derecho de la UNM.
-###
+### Únete a la campaña de Deb Deb Haaland está postulándose para gobernadora porque ella ha vivido las dificultades de la gente de Nuevo México.
+Ella entiende que el crimen, la falta de vivienda, la adicción y los altos precios están poniendo el éxito fuera del alcance de muchas familias en nuestro estado, y Deb está decidida a enfrentar esos desafíos desde la raíz.
+Nombre Email * Código postal * Teléfono celular Al enviar este formulario y registrarte para recibir mensajes de texto, aceptas recibir información sobre votación, solicitudes de contribución y otros mensajes informativos de Deb para Nuevo México.
+La suscripción a mensajes de texto es opcional.
+Pueden aplicarse tarifas de mensajes y datos.
+La frecuencia de los mensajes puede variar.
+Cancela en cualquier momento respondiendo STOP.
+Envía HELP para obtener ayuda.
+Política de privacidad y Términos . ¡Regístrate!
+Contribuir ¡Haz lo que puedas hoy para ayudarnos a ganar! $10 $25 $100 $250 $500 Otra cantidad Deb Haaland por Nuevo México Home Noticias Conoce a Deb Prioridades Síguela Facebook Instagram X TikTok Bluesky YouTube Contribuir Por Correo Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and Authorized by Deb for New Mexico Contacto Política de Privacidad Hecho con Middle Seat

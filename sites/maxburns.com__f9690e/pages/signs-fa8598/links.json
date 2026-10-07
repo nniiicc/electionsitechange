@@ -1,19 +1,74 @@
 [
-"https://facebook.com/VoteMaxBurns",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/votemaxburns",
-"https://maxburns.com/",
-"https://maxburns.com/archived-news",
-"https://maxburns.com/contact",
-"https://maxburns.com/contribute",
-"https://maxburns.com/issues",
-"https://maxburns.com/meet-max",
-"https://maxburns.com/news-1",
-"https://maxburns.com/newsletter",
-"https://maxburns.com/press",
-"https://maxburns.com/privacy-statement",
-"https://maxburns.com/signs",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://x.com/@votemaxburns"
+{
+"text": "Archived News",
+"href": "https://maxburns.com/archived-news"
+},
+{
+"text": "Contact",
+"href": "https://maxburns.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://maxburns.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://maxburns.com/"
+},
+{
+"text": "Issues",
+"href": "https://maxburns.com/issues"
+},
+{
+"text": "Meet Max",
+"href": "https://maxburns.com/meet-max"
+},
+{
+"text": "News",
+"href": "https://maxburns.com/news-1"
+},
+{
+"text": "Newsletter",
+"href": "https://maxburns.com/newsletter"
+},
+{
+"text": "Press",
+"href": "https://maxburns.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Statement",
+"href": "https://maxburns.com/privacy-statement"
+},
+{
+"text": "Signs",
+"href": "https://maxburns.com/signs"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Max Burns for State Senate]",
+"href": "https://maxburns.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMaxBurns"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemaxburns/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@votemaxburns"
+}
 ]

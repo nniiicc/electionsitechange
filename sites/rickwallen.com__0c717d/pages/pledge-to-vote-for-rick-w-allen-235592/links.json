@@ -1,14 +1,74 @@
 [
-"http://pushdigital.com/",
-"http://twitter.com/RickAllen",
-"https://facebook.com/RickAllenGA",
-"https://rickwallen.com/",
-"https://rickwallen.com/about",
-"https://rickwallen.com/category/news",
-"https://rickwallen.com/contact",
-"https://rickwallen.com/pledge-to-vote-for-rick-w-allen",
-"https://rickwallen.com/privacy-policy",
-"https://secure.winred.com/RickAllen/donate",
-"https://twitter.com/rickallen",
-"https://youtube.com/user/RickAllenGA"
+{
+"text": "About",
+"href": "https://rickwallen.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://rickwallen.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/RickAllen/donate"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.winred.com/RickAllen/donate"
+},
+{
+"text": "News",
+"href": "https://rickwallen.com/category/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickwallen.com/privacy-policy/"
+},
+{
+"text": "Push Digital",
+"href": "http://pushdigital.com"
+},
+{
+"text": "Share On Twitter",
+"href": "https://rickwallen.com"
+},
+{
+"text": "Share on Facebook",
+"href": "https://rickwallen.com"
+},
+{
+"text": "Tweets by @rickallen",
+"href": "https://twitter.com/rickallen"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RickAllenGA"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/RickAllen"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/RickAllenGA"
+},
+{
+"text": "[image: image]Donate Now!",
+"href": "https://secure.winred.com/RickAllen/donate"
+},
+{
+"text": "[image: image]News",
+"href": "https://rickwallen.com/category/news/"
+},
+{
+"text": "[image: image]Sign Up Today!",
+"href": "https://rickwallen.com/pledge-to-vote-for-rick-w-allen/"
+},
+{
+"text": "[image]",
+"href": "https://rickwallen.com"
+},
+{
+"text": "[image]",
+"href": "javascript:void();"
+}
 ]

@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Wellington+Kiwanis+Candidates+Night&dates=20261008T230000Z%2F20261009T010000Z&location=627+North+Main+Street%2C+Wellington%2C+Ohio%2C+44090%2C+United+States",
-"http://maps.google.com/?q=627+North+Main+Street+Wellington%2C+Ohio%2C+44090+United+States",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/early-voting-rally-and-fundraiser",
-"https://joemillerforohio.com/events-1/wellington-kiwanis-candidates-night?format=ical",
-"https://joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=627+north+main+street+wellington%2C+ohio%2C+44090+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wellington+Kiwanis+Candidates+Night&dates=20261008T230000Z%2F20261009T010000Z&location=627+North+Main+Street%2C+Wellington%2C+Ohio%2C+44090%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/wellington-kiwanis-candidates-night?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next October 13 YWCA and League of Women Voters Voter Education Forum",
+"href": "https://www.joemillerforohio.com/events-1/ywca-and-league-of-women-voters-voter-education-forum"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 7 Early Voting Rally and Fundraiser",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

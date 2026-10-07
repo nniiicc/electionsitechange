@@ -1,21 +1,134 @@
 [
-"http://go.robfarnsworth.org/donate",
-"https://facebook.com/robfarnsworthmn",
-"https://robfarnsworth.org/",
-"https://robfarnsworth.org/2nd-amendment",
-"https://robfarnsworth.org/author/rob",
-"https://robfarnsworth.org/author/rob/page/2",
-"https://robfarnsworth.org/campaign",
-"https://robfarnsworth.org/environment-energy",
-"https://robfarnsworth.org/jobs",
-"https://robfarnsworth.org/liberty",
-"https://robfarnsworth.org/life",
-"https://robfarnsworth.org/medical-freedom",
-"https://robfarnsworth.org/mining",
-"https://robfarnsworth.org/privacy-policy",
-"https://robfarnsworth.org/public-safety",
-"https://robfarnsworth.org/state-budget",
-"https://robfarnsworth.org/taxes",
-"https://twitter.com/@RobFarnsworthMN",
-"https://youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+{
+"text": "2",
+"href": "https://robfarnsworth.org/author/rob/page/2/"
+},
+{
+"text": "2nd Amendment",
+"href": "https://robfarnsworth.org/2nd-amendment/"
+},
+{
+"text": "CAMPAIGN",
+"href": "https://robfarnsworth.org/campaign/"
+},
+{
+"text": "DONATE",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "Environment/Energy",
+"href": "https://robfarnsworth.org/environment-energy/"
+},
+{
+"text": "HOME",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "Jobs",
+"href": "https://robfarnsworth.org/jobs/"
+},
+{
+"text": "Liberty",
+"href": "https://robfarnsworth.org/liberty/"
+},
+{
+"text": "Life",
+"href": "https://robfarnsworth.org/life/"
+},
+{
+"text": "Medical Freedom",
+"href": "https://robfarnsworth.org/medical-freedom/"
+},
+{
+"text": "Mining",
+"href": "https://robfarnsworth.org/mining/"
+},
+{
+"text": "Next",
+"href": "https://robfarnsworth.org/author/rob/page/2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robfarnsworth.org/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://robfarnsworth.org/public-safety/"
+},
+{
+"text": "Rob Farnsworth",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "State Budget",
+"href": "https://robfarnsworth.org/state-budget/"
+},
+{
+"text": "Taxes",
+"href": "https://robfarnsworth.org/taxes/"
+},
+{
+"text": "[image: Rob Farnsworth for MN State Senate]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/2nd-amendment/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/environment-energy/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/jobs/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/liberty/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/life/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/medical-freedom/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/mining/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/public-safety/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/state-budget/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/taxes/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/robfarnsworthmn"
+},
+{
+"text": "[tooltip: PayPal]",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/@RobFarnsworthMN"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+}
 ]

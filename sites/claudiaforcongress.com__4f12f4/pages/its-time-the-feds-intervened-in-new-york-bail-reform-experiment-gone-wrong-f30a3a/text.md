@@ -1,4 +1,4 @@
-A Level 3 serial sex offender enters a nursery school playground, is arrested, and then is set free.
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Previous page It’s time the feds intervened in New York bail reform experiment gone wrong Share March 15 2020 A Level 3 serial sex offender enters a nursery school playground, is arrested, and then is set free.
 A man brutally beats his girlfriend in front of her two young children and arrested for child endangerment and menacing — only to be let back onto our streets.
 A woman with a history of anti-Semitic violence punches a mother who was walking with her three-year-old yet is now moving freely among us.
 None of this is normal.
@@ -29,3 +29,5 @@ This is about common sense.
 This is about public safety and protecting our children.
 It’s about restoring the basic tenets of living in a society where we feel safe and free of fear, knowing that when people commit the most heinous of crimes, they are arrested and not released back onto our streets just so they can do it again.
 If the politicians in Albany don’t understand that or refuse to understand that, then it is time the federal government investigate.
+Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

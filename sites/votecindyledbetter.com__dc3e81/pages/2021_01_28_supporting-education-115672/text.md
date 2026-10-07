@@ -1,2 +1,8 @@
-The Indiana House of Representatives voted 93-2 on Tuesday in support of legislation to fully fund all K-12 public school students for the 2020-21 school year, regardless of whether students attended classes in-person or virtually due to COVID-19.
-The legislation now advances to the Senate for consideration. https://www.indianahouserepublicans.com/news/press-releases/bartels-ledbetter-house-passes-legislation-fully-funding-all-k-12-public-school-students-this-year/
+Search Menu Skip to content Home Cindy In Indy Donate/Contact/Volunteer Meet Cindy On The Issues 2nd Amendment & Gun Violence A Right to Life Agriculture Economic Development/Workforce Education Healthcare Mental Health/Substance Abuse Supporting Education by Cindy Ledbetter Posted on January 28, 2021 The Indiana House of Representatives voted 93-2 on Tuesday in support of legislation to fully fund all K-12 public school students for the 2020-21 school year, regardless of whether students attended classes in-person or virtually due to COVID-19.
+The legislation now advances to the Senate for consideration. https://www.indianahouserepublicans.com/news/press-releases/bartels-ledbetter-house-passes-legislation-fully-funding-all-k-12-public-school-students-this-year/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Post navigation Prev Helping end generational poverty with a hand-up Next Supporting Law Enforcement, Boosting Accountability & Transparency In Policing Leave a comment Cancel reply Δ CLICK HERE TO SIGN UP FOR EMAIL NEWSLETTER To stay up to date with House District 75 campaign news and events follow Cindy on social media Instagram X TikTok Facebook LinkedIn Cindy Ledbetter P.O.
+Box 1174 Newburgh, IN 47629 voteledbetter@gmail.com © # Vote Cindy Ledbetter.
+All rights reserved.
+Paid for by Ledbetter for State Representative Blog at WordPress.com.
+Search for: Search × Comment Reblog Subscribe Subscribed votecindyledbetter.com Sign me up Have a WordPress.com account?
+Log in now. votecindyledbetter.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

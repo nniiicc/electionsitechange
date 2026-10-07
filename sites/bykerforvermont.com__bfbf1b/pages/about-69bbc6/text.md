@@ -1,6 +1,4 @@
-Skip navigation menu
-WHO I AM AND WHY I'M RUNNING
-I'VE SPENT MY CAREER WORKING WITH NUMBERS.
+Skip navigation menu About Issues Endorsements Volunteer News Donate ABOUT TANYA About Issues Endorsements Volunteer News Donate ABOUT TANYA WHO I AM AND WHY I'M RUNNING I'VE SPENT MY CAREER WORKING WITH NUMBERS.
 I'm a parent, selectboard member, and economics professor at Middlebury College.
 I live in Cornwall with my husband, Ian.
 We have two kids who recently graduated from college.
@@ -13,4 +11,4 @@ Rural communities that show up for one another and for their towns have made Ver
 These same communities can and must shape the path ahead.
 I am running for office because of the difficult challenges AND the amazing opportunities facing Vermont.
 I can dig into the numbers and keep an eye on the bigger picture: we need to keep our communities' needs front and center in the rooms where decisions are made.
-THIS CAMPAIGN IS A TEAM EFFORT
+THIS CAMPAIGN IS A TEAM EFFORT Join Us Get in touch: tanya@bykerforvermont.com Powered by RUN! website builder Paid for by Byker for Vermont, 3372 Route 30, Cornwall, VT 05753 You need to enable JavaScript to run this app.

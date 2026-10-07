@@ -1,7 +1,9 @@
 {
- "description": "\u00danase a CJ Hernandez en los pr\u00f3ximos eventos en el Distrito 5",
+ "description": "Únase a CJ Hernandez en los próximos eventos en el Distrito 5",
  "final_url": "https://www.cjforsenate.com/es/events",
- "paid_for_by": null,
+ "fingerprint": "03d8dd95e9b1695e156eb176deff360f2218788a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Eventos",
  "years_mentioned": []
 }

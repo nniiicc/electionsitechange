@@ -1,15 +1,74 @@
 [
-"https://bsky.app/profile/yourallyinmontgomery.org",
-"https://facebook.com/YourAllyInMontgomery",
-"https://instagram.com/YourAllyInMontgomery",
-"https://secure.actblue.com/donate/allison-montgomery-1",
-"https://tiktok.com/@allisonmontgomeryhd25",
-"https://yourallyinmontgomery.org/",
-"https://yourallyinmontgomery.org/about",
-"https://yourallyinmontgomery.org/contact",
-"https://yourallyinmontgomery.org/district-map",
-"https://yourallyinmontgomery.org/events",
-"https://yourallyinmontgomery.org/platform",
-"https://yourallyinmontgomery.org/prayers",
-"https://yourallyinmontgomery.org/volunteer"
+{
+"text": "About Allison",
+"href": "https://yourallyinmontgomery.org/about/"
+},
+{
+"text": "About the Campaign",
+"href": "https://yourallyinmontgomery.org/"
+},
+{
+"text": "Allison's Platform",
+"href": "https://yourallyinmontgomery.org/platform/"
+},
+{
+"text": "Check if you're in the district",
+"href": "https://yourallyinmontgomery.org/district-map/"
+},
+{
+"text": "Contact Allison",
+"href": "https://yourallyinmontgomery.org/contact/"
+},
+{
+"text": "District Map",
+"href": "https://yourallyinmontgomery.org/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allison-montgomery-1"
+},
+{
+"text": "Donate to the campaign",
+"href": "https://secure.actblue.com/donate/allison-montgomery-1"
+},
+{
+"text": "Prayers",
+"href": "https://yourallyinmontgomery.org/prayers/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://yourallyinmontgomery.org/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://yourallyinmontgomery.org/volunteer/"
+},
+{
+"text": "Volunteer with us",
+"href": "https://yourallyinmontgomery.org/volunteer/"
+},
+{
+"text": "[image: Bluesky]",
+"href": "https://bsky.app/profile/yourallyinmontgomery.org"
+},
+{
+"text": "[image: Contact the campaign]",
+"href": "https://yourallyinmontgomery.org/contact/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://facebook.com/YourAllyInMontgomery"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/YourAllyInMontgomery"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@allisonmontgomeryhd25/"
+},
+{
+"text": "…and more! (check out my full platform here)",
+"href": "https://yourallyinmontgomery.org/platform/"
+}
 ]

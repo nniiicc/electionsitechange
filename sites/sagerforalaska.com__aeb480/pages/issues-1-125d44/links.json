@@ -1,12 +1,46 @@
 [
-"https://elections.alaska.gov/election-polls?district=18",
-"https://elections.alaska.gov/voter-information/absentee-and-early-voting",
-"https://sagerforalaska.com/",
-"https://sagerforalaska.com/about",
-"https://sagerforalaska.com/cart",
-"https://sagerforalaska.com/contact",
-"https://sagerforalaska.com/issues-1",
-"https://secure.anedot.com/dan-sager-for-house/92ed21cf-aec4-4c0b-acce-cf8217dc26c0",
-"https://squarespace.com/",
-"https://voterregistration.alaska.gov/"
+{
+"text": "0",
+"href": "https://www.sagerforalaska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sagerforalaska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.sagerforalaska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dan-sager-for-house/92ed21cf-aec4-4c0b-acce-cf8217dc26c0"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.elections.alaska.gov/election-polls/?district=18"
+},
+{
+"text": "Home",
+"href": "https://www.sagerforalaska.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.sagerforalaska.com/issues-1"
+},
+{
+"text": "Register To Vote",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Vote Absentee",
+"href": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.sagerforalaska.com/"
+}
 ]

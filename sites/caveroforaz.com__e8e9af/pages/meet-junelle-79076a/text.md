@@ -1,11 +1,9 @@
-MEET
-JUNELLE
-Hello.
+top of page HOME MEET JUNELLE PRIORITIES 2025 SESSION 2026 SESSION OUR DISTRICT VOTING CENTERS FOOD BANKS DISTRICT DEMOGRAPHICS ENDORSEMENTS MEDIA NEWS PHOTO GALLERY GET INVOLVED VOLUNTEER ENDORSE JOB OPENING: INTERNSHIP More Use tab to navigate through the menu items.
+DONATE MEET JUNELLE Hello.
 Hola.
 Kamusta.
 Aloha.
-Yá'át'ééh. नमस्ते (Namaste). 你好 (Nǐ hǎo).
-今日は (Konnichiwa).
+Yá'át'ééh. नमस्ते (Namaste). 你好 (Nǐ hǎo). 今日は (Konnichiwa).
 Bonjour. 안녕하세요 (Anyeonghaseyo).
 Ciao.
 PROVEN ADVOCATE.
@@ -21,7 +19,9 @@ Her previous work experience includes monitoring and drafting policy on the fede
 Today, she is an executive at the largest multicultural digital media company in the country.
 She resides in South Phoenix with her two daughters, two dogs and two tortoises.
 We’re fighting to fully fund public education, water sustainability, affordable housing, diversity, and access to quality healthcare for Arizonans.
-Together, we can accomplish this and so much more.
--Junelle Cavero
-Let Junelle know you're with her all the way—endorse her campaign for Arizona State House today!
-Our campaign is powered by Arizona's working families— chip in to kick off our grassroots campaign!
+Together, we can accomplish this and so much more. -Junelle Cavero VOLUNTEER Junelle needs YOU to win— g rab a clipboard and hit the campaign trail with us!
+GET INVOLVED ENDORSE Let Junelle know you're with her all the way—endorse her campaign for Arizona State House today!
+I'M WITH JUNELLE CONTRIBUTE Our campaign is powered by Arizona's working families— chip in to kick off our grassroots campaign!
+DONATE DONATE INFO@CAVEROFORAZ.COM PAID FOR BY JUNELLE CAVERO FOR ARIZONA.
+AUTHORIZED BY JUNELLE CAVERO.
+Privacy Policy PO BOX 72141, PHOENIX, AZ 85050 Terms and Conditions bottom of page

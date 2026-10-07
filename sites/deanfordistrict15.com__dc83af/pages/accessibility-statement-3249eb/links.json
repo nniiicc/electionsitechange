@@ -1,10 +1,50 @@
 [
-"https://deanfordistrict15.com/",
-"https://deanfordistrict15.com/accessibility-statement",
-"https://deanfordistrict15.com/terms-of-service",
-"https://deanfordistrict15.com/volunteer",
-"https://facebook.com/Deanfordistrict15",
-"https://heyvictor.com/",
-"https://instagram.com/deanfordistrict15",
-"https://secure.actblue.com/donate/deanfor15"
+{
+"text": "Accessibility Statement",
+"href": "https://www.deanfordistrict15.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:deanfordistrict15@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deanfor15"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deanfor15?amount="
+},
+{
+"text": "Home",
+"href": "https://www.deanfordistrict15.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.deanfordistrict15.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.deanfordistrict15.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.deanfordistrict15.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/Deanfordistrict15/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/deanfordistrict15/"
+},
+{
+"text": "https://www.deanfordistrict15.com",
+"href": "https://www.deanfordistrict15.com"
+}
 ]

@@ -1,4 +1,4 @@
-Growing up, I never aspired to politics or government.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now Western Kansas Work Ethic Growing up, I never aspired to politics or government.
 I never wanted any power or control.
 I would much rather be the guy setting up chairs and tables or cleaning up afterwards than the guy running the meeting or giving the keynote speech.
 My feelings haven’t changed.
@@ -18,5 +18,5 @@ We spent many night working late when the meetings ran long.
 After the meeting was over, I would go back to my office and stay there until 2 or 3 in the morning reading the testimony and materials from the meeting more thoroughly, noting additional questions I might have.
 I worked until I felt the task was finished.
 Little did I know my years of working late nights in the harvest fields, early mornings putting up hay, and the long hours working at the local grain elevator in high school during wheat harvest would help prepare me for the time commitment of working in the legislature!
-I may change my outfit from my work boots to business suits when I’m at the Capitol, but I bring the same no-nonsense tenacity and work ethic no matter where I am.
-~ Adam Smith
+I may change my outfit from my work boots to business suits when I’m at the Capitol, but I bring the same no-nonsense tenacity and work ethic no matter where I am. ~ Adam Smith Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

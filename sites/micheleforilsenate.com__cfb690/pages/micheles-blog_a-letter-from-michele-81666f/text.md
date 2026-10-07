@@ -1,6 +1,4 @@
-A Letter From Michele…
-Dear Friends of Michele Clark,
-Illinois has always been my home.
+0 Skip to Content About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us A Letter From Michele… Mar 19 Written By Michele Clark Dear Friends of Michele Clark, Illinois has always been my home.
 I was born in Cook County, raised in Lake County, owned a business in McHenry County, and have lived and raised a family in Kane County for nearly 30 years.
 I love this state.
 And until recently, I have to admit, I have taken many things that make Illinois such a special place for granted.
@@ -18,5 +16,6 @@ I am proud that in Illinois, we care about our neighbors.
 These days it is too easy to get sucked into negative conversations and find the bad side of things before the good.
 Abraham Lincoln said, “We can complain that roses have thorns or rejoice because thorn bushes have roses.” Well said, Abe.
 It is in this positive spirit, my candidacy for Illinois State Senate will reside.
-Unapologetically an Illinois lover,
-Michele
+Unapologetically an Illinois lover, Michele Michele Clark Previous Previous Not a Rose Garden: The Work Illinois Needs Next Next What Do Illinois State Legislators Actually DO?… Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
+Algonquin Rd.
+#7203 Algonquin, IL 60102 Contact info@friendsofmicheleclark.com

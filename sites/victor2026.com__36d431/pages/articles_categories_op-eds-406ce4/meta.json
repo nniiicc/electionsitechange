@@ -1,10 +1,13 @@
 {
  "description": "Opinion essays and op-eds",
  "final_url": "https://www.victor2026.com/articles/categories/op-eds",
- "paid_for_by": null,
+ "fingerprint": "82a82c412494514b869f34b8687aac48118247dc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Op-Eds",
  "years_mentioned": [
   "2022",
-  "2023"
+  "2023",
+  "2035"
  ]
 }

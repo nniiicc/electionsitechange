@@ -1,7 +1,9 @@
 {
  "description": "Discover Andrew Hattaway&#39;s endorsements for political support in Minnesota. Join us in building a brighter future together!",
  "final_url": "https://andrewhattawayformn.com/endorsements",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "af47859e30ce51ca8c9ea2fbed5b9db7d267074f",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "ENDORSEMENTS",
  "years_mentioned": []
 }

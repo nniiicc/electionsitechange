@@ -1,9 +1,42 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"https://secure.anedot.com/citizens-for-derek-j-howell/donatetoderek",
-"https://secure.anedot.com/citizens-for-derek-j-howell/events/boots_buckles_bbq_for_derekjhowell",
-"https://voteforhowell.com/"
+{
+"text": "Click Here or the Flyer Below to Get Your Tickets to Boots, Buckles, & BBQ",
+"href": "https://secure.anedot.com/citizens-for-derek-j-howell/events/boots_buckles_bbq_for_derekjhowell"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/citizens-for-derek-j-howell/donatetoderek"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/citizens-for-derek-j-howell/donatetoderek"
+},
+{
+"text": "We're just $# away from our next goal. Donate now",
+"href": "https://secure.anedot.com/citizens-for-derek-j-howell/donatetoderek"
+},
+{
+"text": "[image: C81E48F9-3875-4810-83E7-72593E6A5CE1.png]",
+"href": "https://secure.anedot.com/citizens-for-derek-j-howell/events/boots_buckles_bbq_for_derekjhowell"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.voteforhowell.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+}
 ]

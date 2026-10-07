@@ -1,16 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://gunther4assembly.com/",
-"https://gunther4assembly.com/contact",
-"https://gunther4assembly.com/contribute",
-"https://gunther4assembly.com/donate-by-mail",
-"https://gunther4assembly.com/home",
-"https://gunther4assembly.com/images/150680/CONTRIBUTION_CARD_rev2.pdf",
-"https://gunther4assembly.com/meet_john",
-"https://gunther4assembly.com/news",
-"https://gunther4assembly.com/view-endorsements",
-"https://gunther4assembly.com/volunteer",
-"https://gunther4assembly.com/vote",
-"https://gunther4assembly.com/yard-sign",
-"https://nyassembly.gov/mem/search"
+{
+"text": "Contact",
+"href": "https://gunther4assembly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://gunther4assembly.com/contribute"
+},
+{
+"text": "Donate by Mail",
+"href": "https://gunther4assembly.com/donate-by-mail"
+},
+{
+"text": "Download Contribution Card",
+"href": "https://gunther4assembly.com/images/150680/CONTRIBUTION_CARD_rev2.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://gunther4assembly.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://gunther4assembly.com/home"
+},
+{
+"text": "Meet John",
+"href": "https://gunther4assembly.com/meet_john"
+},
+{
+"text": "News",
+"href": "https://gunther4assembly.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://gunther4assembly.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://gunther4assembly.com/vote"
+},
+{
+"text": "Whats My District?",
+"href": "https://nyassembly.gov/mem/search/"
+},
+{
+"text": "Yard Signs",
+"href": "https://gunther4assembly.com/yard-sign"
+},
+{
+"text": "[image: John Gunther Assembly]",
+"href": "https://gunther4assembly.com/"
+},
+{
+"text": "contribution card (required)",
+"href": "https://gunther4assembly.com/images/150680/CONTRIBUTION_CARD_rev2.pdf"
+}
 ]

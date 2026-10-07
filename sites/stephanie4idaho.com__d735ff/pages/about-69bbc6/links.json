@@ -1,18 +1,70 @@
 [
-"https://stephanie4idaho.com/",
-"https://stephanie4idaho.com/about",
-"https://stephanie4idaho.com/blog",
-"https://stephanie4idaho.com/contact",
-"https://stephanie4idaho.com/donate",
-"https://stephanie4idaho.com/endorsements",
-"https://stephanie4idaho.com/media/221k5eq4/stephanie-2.jpg",
-"https://stephanie4idaho.com/media/24xjx5sj/stephanie-and-the-grandkids.jpg",
-"https://stephanie4idaho.com/media/33sdknpm/stephanie-7.jpg",
-"https://stephanie4idaho.com/media/4rpnp0kq/stephanie-1.jpg",
-"https://stephanie4idaho.com/media/jrbkrtsc/stephanie-and-the-children.jpeg",
-"https://stephanie4idaho.com/media/lyqnircp/stephanie-6.jpg",
-"https://stephanie4idaho.com/media/s0thatt0/stephanie-4.jpeg",
-"https://stephanie4idaho.com/media/sm4ltpp1/stephanie-3.jpeg",
-"https://stephanie4idaho.com/media/smljxcbk/stephanie-5.jpg",
-"https://stephanie4idaho.com/volunteer"
+{
+"text": "About",
+"href": "https://stephanie4idaho.com/about/"
+},
+{
+"text": "Blog",
+"href": "https://stephanie4idaho.com/blog/"
+},
+{
+"text": "Contact",
+"href": "https://stephanie4idaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://stephanie4idaho.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://stephanie4idaho.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://stephanie4idaho.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://stephanie4idaho.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/221k5eq4/stephanie-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/24xjx5sj/stephanie-and-the-grandkids.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/33sdknpm/stephanie-7.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/4rpnp0kq/stephanie-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/jrbkrtsc/stephanie-and-the-children.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/lyqnircp/stephanie-6.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/s0thatt0/stephanie-4.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/sm4ltpp1/stephanie-3.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://stephanie4idaho.com/media/smljxcbk/stephanie-5.jpg"
+},
+{
+"text": "[image] Stephanie Mickelsen",
+"href": "https://stephanie4idaho.com/"
+}
 ]

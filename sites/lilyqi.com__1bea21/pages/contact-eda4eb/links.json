@@ -1,14 +1,54 @@
 [
-"https://facebook.com/qulturematters",
-"https://instagram.com/LilyQiMaryland",
-"https://lilyqi.com/",
-"https://lilyqi.com/about-lily",
-"https://lilyqi.com/book",
-"https://lilyqi.com/cart",
-"https://lilyqi.com/contact",
-"https://lilyqi.com/events",
-"https://lilyqi.com/invite-lily-to-speak",
-"https://lilyqi.com/new-page",
-"https://linkedin.com/in/lily-qi-604a9018",
-"https://x.com/LilyQiMaryland"
+{
+"text": "0",
+"href": "https://www.lilyqi.com/cart"
+},
+{
+"text": "About Lily",
+"href": "https://www.lilyqi.com/about-lily"
+},
+{
+"text": "Book",
+"href": "https://www.lilyqi.com/book"
+},
+{
+"text": "Contact",
+"href": "https://www.lilyqi.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.lilyqi.com/events"
+},
+{
+"text": "Invite Lily to Speak",
+"href": "https://www.lilyqi.com/invite-lily-to-speak"
+},
+{
+"text": "Media",
+"href": "https://www.lilyqi.com/new-page"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.lilyqi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/qulturematters/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/LilyQiMaryland/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lily-qi-604a9018/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LilyQiMaryland"
+},
+{
+"text": "lilyqiauthor@gmail.com",
+"href": "mailto:lilyqiauthor@gmail.com"
+}
 ]

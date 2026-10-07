@@ -1,11 +1,42 @@
 [
-"https://facebook.com/lawlerforiowa",
-"https://juddlawler.com/",
-"https://juddlawler.com/contact",
-"https://juddlawler.com/donate",
-"https://juddlawler.com/my-story",
-"https://juddlawler.com/newsletter",
-"https://legis.iowa.gov/legislators/legislator/newsletter?id=37392&ga=91",
-"https://nursery.iowadnr.gov/",
-"https://twitter.com/LawlerforIowa"
+{
+"text": "Contact",
+"href": "https://www.juddlawler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.juddlawler.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.juddlawler.com"
+},
+{
+"text": "My Story",
+"href": "https://www.juddlawler.com/my-story"
+},
+{
+"text": "NEWSLETTER",
+"href": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=37392&ga=91"
+},
+{
+"text": "Newsletter",
+"href": "https://www.juddlawler.com/newsletter"
+},
+{
+"text": "State Forest Nursery’s online store",
+"href": "https://nursery.iowadnr.gov/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawlerforiowa"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/LawlerforIowa"
+},
+{
+"text": "seedlingsales@dnr.iowa.gov",
+"href": "mailto:seedlingsales@dnr.iowa.gov"
+}
 ]

@@ -1,6 +1,18 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://robertqua.com/contact",
-"https://x.com/RFQ4NH"
+{
+"text": "Get Involved",
+"href": "https://robertqua.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RFQ4NH"
+}
 ]

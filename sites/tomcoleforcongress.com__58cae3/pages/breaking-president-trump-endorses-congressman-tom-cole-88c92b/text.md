@@ -1,7 +1,8 @@
-MOORE, OK – On Truth Social, President Trump has endorsed Congressman Tom Cole saying:
-“Congressman Tom Cole is a Tremendous Champion for Oklahoma’s 4th Congressional District!
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room Breaking: President Trump Endorses Congressman Tom Cole October 14, 2025 October 16, 2025 Donate MOORE, OK – On Truth Social, President Trump has endorsed Congressman Tom Cole saying: “Congressman Tom Cole is a Tremendous Champion for Oklahoma’s 4th Congressional District!
 As the Chairman of the POWERFUL House Appropriations Committee, Tom knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation’s Golden Age.
-He is fighting tirelessly to Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE,
-Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
-Tom Cole has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN!”
-###
+He is fighting tirelessly to Advance American Energy DOMINANCE, Keep our now very Secure Border, SECURE, Strengthen our Military/Veterans, and Defend our always under siege Second Amendment.
+Tom Cole has my Complete and Total Endorsement for Re-Election – HE WILL NOT LET YOU DOWN!” ### Post navigation Previous: Cole: Promises Made, Promises Kept Next: Tom Cole Announces For Re-Election Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

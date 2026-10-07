@@ -1,24 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Cafe+Louie+-+St.+Matthews+%2F+Eline+Library&dates=20260221T150000Z%2F20260221T160000Z&location=3940+Grandview+Ave%2C+Louisville%2C+KY%2C+40207%2C+United+States",
-"http://maps.google.com/?q=3940+Grandview+Ave+Louisville%2C+KY%2C+40207+United+States",
-"http://swayed.digital/",
-"https://act.campaigndeputy.com/sarahstalkeremailsignups",
-"https://donate.campaigndeputy.com/sarahstalkerforky",
-"https://elections.jeffersoncountyclerk.org/registration-deadlines",
-"https://sarahforky.com/",
-"https://sarahforky.com/cart",
-"https://sarahforky.com/contact",
-"https://sarahforky.com/endorsements",
-"https://sarahforky.com/events",
-"https://sarahforky.com/events/cafe-louie-crescent-hill-library-7ktnt",
-"https://sarahforky.com/events/cafe-louie-crescent-hill-library?format=ical",
-"https://sarahforky.com/events/democrats-united-we-stand-rally-and-picnic",
-"https://sarahforky.com/issues",
-"https://sarahforky.com/meet",
-"https://sarahforky.com/news",
-"https://sarahforky.com/take-action",
-"https://secure.actblue.com/donate/stalkerkhdccc",
-"https://secure.kentucky.gov/Corrections/VoterEligibility/search",
-"https://vrsws.sos.ky.gov/ovrweb",
-"https://vrsws.sos.ky.gov/vic"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3940+grandview+ave+louisville%2C+ky%2C+40207+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sarahforky.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sarahforky.com/meet"
+},
+{
+"text": "Am I Still on the Voter Rolls?",
+"href": "https://vrsws.sos.ky.gov/vic/"
+},
+{
+"text": "Back",
+"href": "https://www.sarahforky.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.sarahforky.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.sarahforky.com/contact"
+},
+{
+"text": "Donate to Sarah",
+"href": "https://donate.campaigndeputy.com/sarahstalkerforky"
+},
+{
+"text": "Donate to the Democratic House",
+"href": "https://secure.actblue.com/donate/stalkerkhdccc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sarahforky.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sarahforky.com/events"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.sarahforky.com/take-action"
+},
+{
+"text": "Get On the List!",
+"href": "https://act.campaigndeputy.com/sarahstalkeremailsignups"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cafe+Louie+-+St.+Matthews+%2F+Eline+Library&dates=20260221T150000Z%2F20260221T160000Z&location=3940+Grandview+Ave%2C+Louisville%2C+KY%2C+40207%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.sarahforky.com/events/cafe-louie-crescent-hill-library?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.sarahforky.com/issues"
+},
+{
+"text": "News + Media",
+"href": "https://www.sarahforky.com/news"
+},
+{
+"text": "Next Next September 12 Louisville Democrats: United We Stand Rally and Picnic",
+"href": "https://www.sarahforky.com/events/democrats-united-we-stand-rally-and-picnic"
+},
+{
+"text": "Previous Previous January 17 Cafe Louie - Crescent Hill Library",
+"href": "https://www.sarahforky.com/events/cafe-louie-crescent-hill-library-7ktnt"
+},
+{
+"text": "Register to Vote",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "Swayed",
+"href": "http://www.swayed.digital/"
+},
+{
+"text": "Voter Restoration Rights",
+"href": "https://secure.kentucky.gov/Corrections/VoterEligibility/search"
+},
+{
+"text": "Ways to Vote Before Election Day",
+"href": "https://elections.jeffersoncountyclerk.org/registration-deadlines/"
+},
+{
+"text": "[image: SARAH for KY]",
+"href": "https://www.sarahforky.com/"
+}
 ]

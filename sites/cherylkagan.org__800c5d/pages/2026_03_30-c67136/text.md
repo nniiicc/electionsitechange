@@ -1,5 +1,5 @@
-March 30, 2026 Montgomery Perspective By Adam Pagnucco.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute March 30, 2026 Home 2026 March Day: March 30, 2026 March 30, 2026 In The News Democrats Who Sabotage Democracy March 30, 2026 Montgomery Perspective By Adam Pagnucco.
 Few issues animate Democratic and progressive activists more than voting rights.
 And more than at any point since the 1960s, voting rights are under attack.
-President Donald Trump and his right-wing allies …
-Continue Reading
+President Donald Trump and his right-wing allies … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

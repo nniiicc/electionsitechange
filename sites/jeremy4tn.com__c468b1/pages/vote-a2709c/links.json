@@ -1,23 +1,98 @@
 [
-"https://google.com/maps/search?api=1&query=132+Bank+St%2C+Tellico+Plains%2C+TN+37385",
-"https://google.com/maps/search?api=1&query=203+Monroe+St%2C+Sweetwater%2C+TN+37874",
-"https://google.com/maps/search?api=1&query=401+Main+St%2C+Madisonville%2C+TN+37354",
-"https://google.com/maps/search?api=1&query=6+E+Madison+Ave%2C+Athens%2C+TN",
-"https://google.com/maps/search?api=1&query=611+Church+St%2C+Vonore%2C+TN+37885",
-"https://hub.jeremy4tn.com/pledge",
-"https://hub.jeremy4tn.com/preferences/request",
-"https://jeremy4tn.com/",
-"https://jeremy4tn.com/bio",
-"https://jeremy4tn.com/cdn-cgi/l/email-protection",
-"https://jeremy4tn.com/events",
-"https://jeremy4tn.com/images/2026-monroe-voting-general.jpeg",
-"https://jeremy4tn.com/platform",
-"https://jeremy4tn.com/privacy",
-"https://jeremy4tn.com/subscribe",
-"https://jeremy4tn.com/terms",
-"https://jeremy4tn.com/vote",
-"https://mcminnelections.com/",
-"https://monroecountyelectioncommission.com/",
-"https://secure.anedot.com/jeremy-4-tn/signs",
-"https://sos.tn.gov/elections"
+{
+"text": "About",
+"href": "https://jeremy4tn.com/bio"
+},
+{
+"text": "Already decided? Planning to vote for Jeremy? Add your name. Count me in",
+"href": "https://hub.jeremy4tn.com/pledge"
+},
+{
+"text": "Count Me In",
+"href": "https://hub.jeremy4tn.com/pledge"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeremy-4-tn/signs"
+},
+{
+"text": "Events",
+"href": "https://jeremy4tn.com/events"
+},
+{
+"text": "Get directions to McMinn County Courthouse",
+"href": "https://www.google.com/maps/search/?api=1&query=6+E+Madison+Ave%2C+Athens%2C+TN"
+},
+{
+"text": "Get directions to Monroe County Election Commission",
+"href": "https://www.google.com/maps/search/?api=1&query=401+Main+St%2C+Madisonville%2C+TN+37354"
+},
+{
+"text": "Get directions to Sweetwater City Hall",
+"href": "https://www.google.com/maps/search/?api=1&query=203+Monroe+St%2C+Sweetwater%2C+TN+37874"
+},
+{
+"text": "Get directions to Tellico Plains Community Center",
+"href": "https://www.google.com/maps/search/?api=1&query=132+Bank+St%2C+Tellico+Plains%2C+TN+37385"
+},
+{
+"text": "Get directions to Vonore Community Center",
+"href": "https://www.google.com/maps/search/?api=1&query=611+Church+St%2C+Vonore%2C+TN+37885"
+},
+{
+"text": "McMinn County Election Commission mcminnelections.com",
+"href": "https://www.mcminnelections.com"
+},
+{
+"text": "Monroe County Election Commission monroecountyelectioncommission.com",
+"href": "https://monroecountyelectioncommission.com"
+},
+{
+"text": "Platform",
+"href": "https://jeremy4tn.com/platform"
+},
+{
+"text": "Printable schedule from the Monroe County Election Commission",
+"href": "https://jeremy4tn.com/images/2026-monroe-voting-general.jpeg"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jeremy4tn.com/privacy"
+},
+{
+"text": "State of Tennessee elections Voter registration, registration status, and ID requirements at sos.tn.gov/elections",
+"href": "https://sos.tn.gov/elections"
+},
+{
+"text": "Stay in the loop Not sure yet, or live outside the district? Join the list.",
+"href": "https://jeremy4tn.com/subscribe"
+},
+{
+"text": "Subscribe",
+"href": "https://jeremy4tn.com/subscribe"
+},
+{
+"text": "Terms of Service",
+"href": "https://jeremy4tn.com/terms"
+},
+{
+"text": "Update Communication Preferences",
+"href": "https://hub.jeremy4tn.com/preferences/request"
+},
+{
+"text": "Voting Info",
+"href": "https://jeremy4tn.com/vote"
+},
+{
+"text": "[email protected]",
+"href": "mailto:legal@jeremy4tn.com"
+},
+{
+"text": "[image: Printable early voting schedule from the Monroe County Election Commission. The full schedule is listed in text above.]",
+"href": "https://jeremy4tn.com/images/2026-monroe-voting-general.jpeg"
+},
+{
+"text": "[image] Jeremy 4 TN",
+"href": "https://jeremy4tn.com/"
+}
 ]

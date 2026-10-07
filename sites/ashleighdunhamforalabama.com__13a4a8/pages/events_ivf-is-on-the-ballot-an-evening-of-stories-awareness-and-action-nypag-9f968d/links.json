@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action+&dates=20261005T223000Z%2F20261006T013000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States",
-"http://maps.google.com/?q=208+Dauphin+Street+Mobile%2C+Alabama%2C+36602+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/cocktails-by-the-pool",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag?format=ical",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://eventbrite.com/e/ivf-is-on-the-ballot-an-evening-of-stories-awareness-action-tickets-1999786175283?aff=ebdssbdestsearch",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=208+dauphin+street+mobile%2C+alabama%2C+36602+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Get Tickets",
+"href": "https://www.eventbrite.com/e/ivf-is-on-the-ballot-an-evening-of-stories-awareness-action-tickets-1999786175283?aff=ebdssbdestsearch"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=IVF+is+on+the+Ballot%3A+An+Evening+of+Stories+Awareness%2C+and+Action+&dates=20261005T223000Z%2F20261006T013000Z&location=208+Dauphin+Street%2C+Mobile%2C+Alabama%2C+36602%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Previous Previous October 3 Cocktails by the Pool",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

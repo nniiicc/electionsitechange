@@ -1,5 +1,10 @@
-Conozca A Austin
-Creciendo en el Mon Valley, en el oeste de Pennsylvania, un histórico centro industrial al sur de la ciudad de Pittsburgh, el vicegobernador Austin Davis vio de primera mano las dificultades de las familias trabajadoras.
+Skip to Main Content Contribuye para apoyar a Josh para gobernador Contribuye para apoyar a Josh para gobernador Necesitamos tu ayuda para mantener a Pennsylvania Demócrata y azul! $5 $15 $25 $50 $100 Otra Si tienes tu información de pago guardada con ActBlue Express, tu donación será procesada inmediatamente.
+Este enlace conduce fuera del sitio.
+Donar Conozca a Josh Conozca a Austin Prensa Voluntariado Tienda EN Este enlace conduce fuera del sitio.
+Donar This link leads off-site.
+This link leads off-site.
+This link leads off-site.
+This link leads off-site. en Conozca A Austin Creciendo en el Mon Valley, en el oeste de Pennsylvania, un histórico centro industrial al sur de la ciudad de Pittsburgh, el vicegobernador Austin Davis vio de primera mano las dificultades de las familias trabajadoras.
 Observó cómo su madre, una estilista en McKeesport durante más de 40 años, equilibraba la crianza de una familia con la responsabilidad de traer comida a la mesa.
 También vio a su padre trabajar arduamente cada día como conductor de autobús sindicalizado.
 Desde un incidente de violencia armada que ocurrió en su barrio, el vicegobernador Davis supo desde muy joven que quería dedicar su vida y carrera al servicio público.
@@ -23,3 +28,10 @@ Su firme compromiso de brindar segundas oportunidades a personas que lo merecen 
 Durante su mandato, el vicegobernador Davis supervisó el lanzamiento de un sistema de solicitud de indultos completamente en línea, el aumento de personal para ayudar a procesar un número récord de solicitudes y la realización de un número récord de audiencias durante su tiempo como presidente de la junta.
 Además de su servicio en Pennsylvania, el vicegobernador Davis también se desempeñó como presidente de la Asociación Demócrata de Vicegobernadores (DLGA) y como miembro de la Asociación Nacional de Vicegobernadores (NLGA).
 Actualmente reside en la región del Mon Valley, en el oeste de Pennsylvania, con su esposa, Blayre Holmes Davis, y su hija, Harper.
+Donar por correo Shapiro para Pennsylvania PO Box 22635 Philadelphia, PA 19110 Financiado por Shapiro para Pennsylvania Al participar, usted acepta los términos y la política de privacidad para mensajes de marketing recurrentes enviados automáticamente por Josh Shapiro al número de teléfono que usted proporcione.
+No es necesario su consentimiento para comprar.
+Pueden aplicarse tarifas de mensajes y datos.
+Contactános Invitar a Josh Donar Voluntariado Política de privacidad Declaración de Accesibilidad This link leads off-site.
+This link leads off-site.
+This link leads off-site.
+This link leads off-site.

@@ -1,7 +1,9 @@
 {
  "description": "Billboard Fundraiser on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/BillboardFundraiser",
- "paid_for_by": null,
+ "fingerprint": "b7998d18c652e207cd97c049160440cc6ff45c46",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Billboard Fundraiser | Maxwell for Congress",
  "years_mentioned": []
 }

@@ -1,7 +1,12 @@
 {
  "description": "Articles from The newsletter of the Banking and Monetary Reform Committee of the Green Party",
  "final_url": "https://www.kmm2026.org/monetary/mrblog",
- "paid_for_by": null,
+ "fingerprint": "35f6c1532a4c4b4c2663b2e1b05e213673e9746d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MR-Blog",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

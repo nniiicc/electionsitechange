@@ -1,18 +1,90 @@
 [
-"https://facebook.com/JohnRutherfordFL",
-"https://facebook.com/JohnRutherfordFL/posts/1393027252836797",
-"https://instagram.com/jrutherfordfl",
-"https://johnrutherfordforcongress.com/",
-"https://johnrutherfordforcongress.com/contribute",
-"https://johnrutherfordforcongress.com/contribute?amount=100",
-"https://johnrutherfordforcongress.com/contribute?amount=250",
-"https://johnrutherfordforcongress.com/contribute?amount=50",
-"https://johnrutherfordforcongress.com/contribute?amount=500",
-"https://johnrutherfordforcongress.com/meet-john",
-"https://johnrutherfordforcongress.com/priorities",
-"https://johnrutherfordforcongress.com/volunteer",
-"https://truthsocial.com/@realDonaldTrump/posts/116049016029391163",
-"https://twitter.com/JRutherfordFL/status/2021407164125061217",
-"https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw",
-"https://x.com/jrutherfordfl"
+{
+"text": "$100",
+"href": "https://johnrutherfordforcongress.com/contribute/?amount=100"
+},
+{
+"text": "$250",
+"href": "https://johnrutherfordforcongress.com/contribute/?amount=250"
+},
+{
+"text": "$50",
+"href": "https://johnrutherfordforcongress.com/contribute/?amount=50"
+},
+{
+"text": "$500",
+"href": "https://johnrutherfordforcongress.com/contribute/?amount=500"
+},
+{
+"text": "@JRutherfordFL",
+"href": "https://x.com/jrutherfordfl"
+},
+{
+"text": "@JohnRutherfordFL",
+"href": "https://www.facebook.com/JohnRutherfordFL/"
+},
+{
+"text": "@realDonaldTrump",
+"href": "https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Contribute",
+"href": "https://johnrutherfordforcongress.com/contribute/"
+},
+{
+"text": "Donate Today",
+"href": "https://johnrutherfordforcongress.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://johnrutherfordforcongress.com/"
+},
+{
+"text": "Meet John",
+"href": "https://johnrutherfordforcongress.com/meet-john/"
+},
+{
+"text": "More",
+"href": "https://johnrutherfordforcongress.com/contribute/"
+},
+{
+"text": "Priorities",
+"href": "https://johnrutherfordforcongress.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://johnrutherfordforcongress.com/meet-john/"
+},
+{
+"text": "View post",
+"href": "https://twitter.com/JRutherfordFL/status/2021407164125061217"
+},
+{
+"text": "View post",
+"href": "https://www.facebook.com/JohnRutherfordFL/posts/1393027252836797"
+},
+{
+"text": "Volunteer",
+"href": "https://johnrutherfordforcongress.com/volunteer/"
+},
+{
+"text": "[image: Endorsement of President Trump on Truth Social]",
+"href": "https://truthsocial.com/@realDonaldTrump/posts/116049016029391163"
+},
+{
+"text": "[image: Republican John Rutherford for Congressional District 5]",
+"href": "https://johnrutherfordforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnRutherfordFL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jrutherfordfl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jrutherfordfl"
+}
 ]

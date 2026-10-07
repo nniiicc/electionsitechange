@@ -1,17 +1,66 @@
 [
-"https://betsycoffia.com/",
-"https://betsycoffia.com/about",
-"https://betsycoffia.com/cdn-cgi/l/email-protection",
-"https://betsycoffia.com/events",
-"https://betsycoffia.com/home",
-"https://betsycoffia.com/policy",
-"https://betsycoffia.com/press-and-news",
-"https://betsycoffia.com/privacy-policy",
-"https://betsycoffia.com/taxonomy/term/18/feed",
-"https://betsycoffia.com/volunteer",
-"https://facebook.com/BetsyCoffia",
-"https://forms.gle/sZRNwqbEmytggceW7",
-"https://galiantsolutions.com/",
-"https://instagram.com/betsycoffia",
-"https://secure.actblue.com/donate/betsyfor103"
+{
+"text": "About",
+"href": "https://www.betsycoffia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/betsyfor103"
+},
+{
+"text": "Events",
+"href": "https://www.betsycoffia.com/events"
+},
+{
+"text": "Galiant Solutions Inc.",
+"href": "https://www.galiantsolutions.com"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://forms.gle/sZRNwqbEmytggceW7"
+},
+{
+"text": "Get Involved",
+"href": "https://www.betsycoffia.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.betsycoffia.com/home"
+},
+{
+"text": "Policy",
+"href": "https://www.betsycoffia.com/policy"
+},
+{
+"text": "Press & News",
+"href": "https://www.betsycoffia.com/press-and-news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.betsycoffia.com/privacy-policy"
+},
+{
+"text": "Subscribe to Elections",
+"href": "https://www.betsycoffia.com/taxonomy/term/18/feed"
+},
+{
+"text": "[email protected]",
+"href": "mailto:betsy@electbetsycoffia.com"
+},
+{
+"text": "[image: Home] [image: Home]",
+"href": "https://www.betsycoffia.com/"
+},
+{
+"text": "‌",
+"href": "https://www.facebook.com/BetsyCoffia"
+},
+{
+"text": "‌",
+"href": "https://www.instagram.com/betsycoffia/"
+},
+{
+"text": "‌",
+"href": "mailto:betsy@electbetsycoffia.com"
+}
 ]

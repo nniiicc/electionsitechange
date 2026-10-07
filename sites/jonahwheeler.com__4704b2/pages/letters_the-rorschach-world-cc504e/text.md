@@ -1,5 +1,6 @@
-January 2026
-Rorschach tests are the ink blotter images which evoke differing reactions depending on the observer.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The Rorschach World The Rorschach World The Rorschach World Feb 1, 2026 Feb 1, 2026 January 2026 Granite Place - 17:11 January 20 2026 - Jonah O.
+Granite Place - 17:11 January 20 2026 - Jonah O.
+0:00 / 1:34 Rorschach tests are the ink blotter images which evoke differing reactions depending on the observer.
 One person sees a butterfly where the other sees a bat.
 This idea has stuck with me throughout the month as each news story seems to bring a whole other level of division.
 Everyone is seeing what they want to see.
@@ -9,6 +10,8 @@ Specifically the deaths of both Alex Pretti, and Renee Good.
 Both of their lives were ended on video that was almost instantaneously distributed across the nation via social media.
 In both instances, those who have predispositions to the right and left perspectives fell into their respective camps; with each attempting to build a narrative as powerful as the other.
 We’re in a Rorschach world.
+Frigid Sun - 16:02 January 23 2026 - Jonah O.
+Frigid Sun - 16:02 January 23 2026 - Jonah O.
 For some looking at the ink blotter that is our world, the United States is under siege from the federal government.
 They see Immigration and Customs Enforcement officers as rogue thugs acting as agents of an out of control federal administration.
 They see the raids on cities such as Minneapolis as intimidation warfare on the civilian population of the nation.
@@ -26,8 +29,7 @@ These United States of America, and any nation in the world, in order to functio
 Having a secure border means that you know who is coming and going from it, that they are doing so with documentation and through a legal process.
 Otherwise, you are inviting the mass chaos of unvetted immigration from all corners of the globe.
 In a situation where a large number of undocumented people illegally enter the country, there will and has always been; deportations of those individuals.
-I don’t particularly want to quote Barack Obama, however this is a prescient quote of his from 2010:
-"There are those in the immigrants' rights community who have argued passionately that we should simply provide those who are here illegally with legal status, or at least ignore the laws on the books and put an end to deportation until we had better laws.
+I don’t particularly want to quote Barack Obama, however this is a prescient quote of his from 2010: "There are those in the immigrants' rights community who have argued passionately that we should simply provide those who are here illegally with legal status, or at least ignore the laws on the books and put an end to deportation until we had better laws.
 And often this argument is framed in moral terms: why should we punish people who are just trying to earn a living?
 I recognize the sense of compassion that drives this argument.
 But I believe such an indiscriminate approach would be both unwise and unfair.
@@ -35,7 +37,8 @@ It would suggest to those thinking about coming here illegally that there will b
 And it would also ignore millions of people around the world who are waiting in line to come here legally.
 Ultimately, aren't we a nation of laws?
 Our nation, like all nations, has the right — and the obligation — to control its borders and set laws for residency and citizenship.
-No matter how decent they are, no matter their reasons, the 11 million who broke these laws should be held accountable."
+No matter how decent they are, no matter their reasons, the 11 million who broke these laws should be held accountable." I miss the LOB - 16:55 7 January 2026 - Jonah O.
+I miss the LOB - 16:55 7 January 2026 - Jonah O.
 He said this because the truly compassionate approach to immigration, is a sane and comprehensible system by which people can legally enter the country.
 Who does it benefit to have a secondary class on individuals with no legal status living within the country?
 As Senator Sanders said to Ezra Klein in 2015, open borders is a koch brother proposal.
@@ -56,6 +59,8 @@ Left, right.
 Black, white.
 Keep ‘em going about whatever it may be while we make out with the gold.
 And let us be clear, they don’t care what carnage it takes to get it.
+2 and a half feet - 13:13 25 January 2026 - Jonah O.
+2 and a half feet - 13:13 25 January 2026 - Jonah O.
 This feels to me like the last squeeze of the lemon slice.
 Those in power trying to wring out the last drops of wealth that can be extracted from this system before the house of cards crashes on its own weight.
 The drip, drip, drip of the contents of the Epstein documents held by the department of justice seems the prime example of the pressure on the floodgate.
@@ -75,4 +80,5 @@ If we are to proceed as a nation, we must find a way to put the test down entire
 The more we wait the faster the atrophy of our basic natural rights as citizens will erode.
 What this really comes down to is, I refuse to concede my nation to pedophilic sociopaths.
 You should too.
-Back to all
+Touring with USS Liberty Veteran, Terry McFarland - 25 January - By Jason G.
+Touring with USS Liberty Veteran, Terry McFarland - 25 January - By Jason G. ‹ The Secrets of Carcosa ‹ The Secrets of Carcosa ‹ The Secrets of Carcosa The Curtain of Slop › The Curtain of Slop › The Curtain of Slop › Back to all

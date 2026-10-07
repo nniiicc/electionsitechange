@@ -1,7 +1,4 @@
-Terms of Service
-WEBSITE TERMS AND CONDITIONS
-Last Updated: May 21, 2026
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+Meet Ashley Issues Endorse Volunteer Contribute Terms of Service WEBSITE TERMS AND CONDITIONS Last Updated: May 21, 2026 PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE.
 This website is operated by Ashley Hinson for Iowa.
@@ -13,44 +10,34 @@ Your continued use of these Sites following the posting of changes or modificati
 Therefore, you should frequently review the Terms of Service and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Sites.
 If you do not agree to the amended terms, you must stop using the Sites.
 All questions or comments about the Sites or site content should be directed to info@ashleyhinson.com.
-PRIVACY POLICY
-Please refer to our Privacy Policy information on how we collect, use and disclose personally identifiable information from our users.
-10DLC COMPLIANCE
-A.
-Consent
-By providing your mobile phone number, you consent to receive SMS/MMS messages from AshleyHinson.com.
+PRIVACY POLICY Please refer to our Privacy Policy information on how we collect, use and disclose personally identifiable information from our users.
+10DLC COMPLIANCE A.
+Consent By providing your mobile phone number, you consent to receive SMS/MMS messages from AshleyHinson.com.
 Consent to receive campaign text messages is not required as a condition of purchasing any goods or services.
 B.
-Message Frequency
-Message frequency varies, typically up to 3 messages per week.
+Message Frequency Message frequency varies, typically up to 3 messages per week.
 Standard message and data rates may apply.
 C.
-Opt-Out
-You may opt out of receiving text messages at any time by texting STOP.
+Opt-Out You may opt out of receiving text messages at any time by texting STOP.
 You will receive a one-time opt-out confirmation text message.
 If you need assistance, text HELP.
 D.
-Data Privacy
-We will not share or sell your personal information, including your phone number, to any third parties except as required by law.
+Data Privacy We will not share or sell your personal information, including your phone number, to any third parties except as required by law.
 For more details, please see our Privacy Policy.
-COPYRIGHT AND LIMITED LICENSE
-Unless otherwise indicated in the Sites, the Sites and all content and other materials on the Sites, including, without limitation, Ashley Hinson for Iowa’s logo, and all designs, text, graphics, pictures, information, data, software, tools, widgets, sound files, other files and the selection and arrangement thereof (collectively, the ‘Site Materials’) are the proprietary property of Ashley Hinson for Iowa or its licensors or users and are protected by U.S. and international copyright laws.
+COPYRIGHT AND LIMITED LICENSE Unless otherwise indicated in the Sites, the Sites and all content and other materials on the Sites, including, without limitation, Ashley Hinson for Iowa’s logo, and all designs, text, graphics, pictures, information, data, software, tools, widgets, sound files, other files and the selection and arrangement thereof (collectively, the ‘Site Materials’) are the proprietary property of Ashley Hinson for Iowa or its licensors or users and are protected by U.S. and international copyright laws.
 You are granted a limited, non-sublicensable license to access and use the Sites and the Site Materials for your informational, non-commercial and personal use only.
 Such license is subject to these Terms of Service and does not include: (a) any resale or commercial use of the Sites or the Site Materials therein; (b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site; (c) modifying or otherwise making any derivative uses of the Sites and the Site Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Sites, the Site Materials or any information contained therein, except as expressly permitted on the Sites; or (f) any use of the Sites or the Site Materials other than for its intended purpose.
 Any use of the Sites or the Site Materials other than as specifically authorized herein, without the prior written permission of Ashley Hinson for Iowa is strictly prohibited and will terminate the license granted herein.
 Such unauthorized use may also violate applicable laws, including, without limitation, copyright and trademark laws and applicable communications regulations and statutes.
 Unless explicitly stated herein, nothing in these Terms of Service shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise.
 This license is revocable at any time.
-REPEAT INFRINGER POLICY
-In accordance with the Digital Millennium Copyright Act (‘DMCA’) and other applicable laws, Ashley Hinson for Iowa has adopted a policy of terminating, in appropriate circumstances as determined by Ashley Hinson for Iowa in its sole discretion, subscribers or account holders who are deemed to be repeat infringers.
+REPEAT INFRINGER POLICY In accordance with the Digital Millennium Copyright Act (‘DMCA’) and other applicable laws, Ashley Hinson for Iowa has adopted a policy of terminating, in appropriate circumstances as determined by Ashley Hinson for Iowa in its sole discretion, subscribers or account holders who are deemed to be repeat infringers.
 Ashley Hinson for Iowa may also at its sole discretion limit access to the Sites and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
-TRADEMARKS
-You may not use any metatags or any other ‘hidden text’ utilizing ‘Ashley Hinson for Iowa’ or any other name, trademark or product or service name of Ashley Hinson for Iowa without our prior written permission.
+TRADEMARKS You may not use any metatags or any other ‘hidden text’ utilizing ‘Ashley Hinson for Iowa’ or any other name, trademark or product or service name of Ashley Hinson for Iowa without our prior written permission.
 In addition, the look and feel of the Site, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark and/or trade dress of Ashley Hinson for Iowa and may not be copied, imitated or used, in whole or in part, without our prior written permission.
 All other trademarks, registered trademarks, product names and company names or logos mentioned in the Sites are the property of their respective owners.
 Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, and supplier or otherwise, does not constitute or imply endorsement, sponsorship, or recommendation thereof by us.
-HYPERLINKS
-You may not use an Ashley Hinson for Iowa logo or other proprietary graphic of Ashley Hinson for Iowa to link to these Sites without the express written permission of Ashley Hinson for Iowa.
+HYPERLINKS You may not use an Ashley Hinson for Iowa logo or other proprietary graphic of Ashley Hinson for Iowa to link to these Sites without the express written permission of Ashley Hinson for Iowa.
 Further, you may not use, frame or utilize framing techniques to enclose any Ashley Hinson for Iowa trademark, logo or other proprietary information, including the images found at the Sites, the content of any text or the layout/design of any page or form contained on a page on the Sites without Ashley Hinson for Iowa’s express written consent.
 Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or proprietary right of Ashley Hinson for Iowa or any third party.
 Ashley Hinson for Iowa makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature, or reliability of third-party Web sites accessible by hyperlink from the Sites, or Web sites linking to the Sites.
@@ -58,32 +45,19 @@ Such sites are not under the control of Ashley Hinson for Iowa and Ashley Hinson
 Ashley Hinson for Iowa provides these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by Ashley Hinson for Iowa of any site or any information contained therein.
 When you leave the Sites, you should be aware that our terms and policies no longer govern.
 You should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from the Sites.
-THIRD PARTY CONTENT
-We may make third party information and other content available on or through the Sites (the ‘Third Party Content’) as a service to those interested in this information and we may provide information regarding or access to third party products or services available on or through the Sites (‘Third Party Products and Services’).
+THIRD PARTY CONTENT We may make third party information and other content available on or through the Sites (the ‘Third Party Content’) as a service to those interested in this information and we may provide information regarding or access to third party products or services available on or through the Sites (‘Third Party Products and Services’).
 Your business dealings or correspondence with such third parties, and any terms, conditions, warranties or representations associated therewith, are solely between you and such third party.
 Ashley Hinson for Iowa does not control, endorse or adopt any Third Party Content or Third Party Products, and makes no representation or warranties of any kind regarding the Third Party Content, including, without limitation, regarding its accuracy or completeness.
 You acknowledge and agree that Ashley Hinson for Iowa is not responsible or liable in any manner for any Third Party Content and undertakes no responsibility to update or review any Third Party Content.
 Users use such Third Party Content contained therein at their own risk.
-ADVERTISEMENTS AND PROMOTIONS; THIRD-PARTY PRODUCTS AND SERVICES
-Ashley Hinson for Iowa may run advertisements and promotions from third parties on the Site or may otherwise provide information about or links to third-party organizations, products, or services on the Site.
+ADVERTISEMENTS AND PROMOTIONS; THIRD-PARTY PRODUCTS AND SERVICES Ashley Hinson for Iowa may run advertisements and promotions from third parties on the Site or may otherwise provide information about or links to third-party organizations, products, or services on the Site.
 Your dealings or correspondence with, or participation in promotions of, such third parties, and any terms, conditions, warranties or representations associated with such dealings or promotions are solely between you and such third party.
 Ashley Hinson for Iowa is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or promotions or as the result of the presence of such non-Ashley Hinson for Iowa advertisers or third party information on the Site.
-SUBMISSIONS
-You acknowledge and agree that any feedback, questions, comments, suggestions, ideas, or other information or materials regarding the Site or Ashley Hinson for Iowa that are provided by you in the form of email or other submissions to Ashley Hinson for Iowa or any postings on the Sites, are non-confidential and shall become the sole property of Ashley Hinson for Iowa.
+SUBMISSIONS You acknowledge and agree that any feedback, questions, comments, suggestions, ideas, or other information or materials regarding the Site or Ashley Hinson for Iowa that are provided by you in the form of email or other submissions to Ashley Hinson for Iowa or any postings on the Sites, are non-confidential and shall become the sole property of Ashley Hinson for Iowa.
 Ashley Hinson for Iowa shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these materials for any purpose without acknowledgment or compensation to you.
-USER CONTENT AND INTERACTIVE SERVICES OR AREAS
-The Sites may include interactive areas or services (‘Interactive Areas’), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (‘User Content’).
+USER CONTENT AND INTERACTIVE SERVICES OR AREAS The Sites may include interactive areas or services (‘Interactive Areas’), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (‘User Content’).
 You are solely responsible for your use of such Interactive Areas and use them at your own risk.
-By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following:
-- User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-- User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
-- User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-- User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-- Unsolicited promotions, advertising, or solicitations;
-- Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-- Viruses, corrupted data or other harmful, disruptive or destructive files; and
-- User Content which violates the terms of any Ashley Hinson for Iowa guidelines, policies or rules posted on the Site or otherwise provided to you; and
-- User Content that, in the sole judgment of Ashley Hinson for Iowa, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Ashley Hinson for Iowa or its users to any harm or liability of any type.
+By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; Unsolicited promotions, advertising, or solicitations; Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; Viruses, corrupted data or other harmful, disruptive or destructive files; and User Content which violates the terms of any Ashley Hinson for Iowa guidelines, policies or rules posted on the Site or otherwise provided to you; and User Content that, in the sole judgment of Ashley Hinson for Iowa, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Ashley Hinson for Iowa or its users to any harm or liability of any type.
 Ashley Hinson for Iowa takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is Ashley Hinson for Iowa liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, profanity or objectionable content you may encounter.
 Your use of Interactive Areas is at your own risk.
 Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at Ashley Hinson for Iowa’s discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
@@ -95,12 +69,9 @@ Except as otherwise provided, you retain ownership of all User Content you post 
 However, if you post User Content to the Sites, unless we indicate otherwise, you grant Ashley Hinson for Iowa and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform and display such User Content throughout the world in any manner or media, including, without limitation, in advertising, fundraising and other communications in support of Ashley Hinson for Iowa and the issues, and causes it supports, without any right of compensation or attribution.
 You grant Ashley Hinson for Iowa and its affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose.
 You represent and warrant that (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content to the Sites; (b) the User Content is accurate and not misleading; and (c) use and posting of the User Content you supply does not violate these Terms of Service and will not violate any rights of or cause injury to any person or entity.
-REGISTRATION DATA; ACCOUNT SECURITY
-In consideration of your use of the Sites, you agree to (a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites (‘Registration Data’); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to Ashley Hinson for Iowa, to keep it accurate, current and complete; and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to Ashley Hinson for Iowa.
-INDEMNIFICATION
-You agree to defend, indemnify and hold harmless Ashley Hinson for Iowa, its independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to any User Content you post, store or otherwise transmit on or through the Sites, your use of the Interactive Areas, or any act or omission relating to the Site or the User Content, including, without limitation, any actual or threatened suit, demand or claim made against Ashley Hinson for Iowa and/or its independent contractors, service providers, employees, directors or consultants, arising out of or relating to the User Content, your conduct, your violation of these Terms of Service or your violation of the rights of any third party.
-DISCLAIMERS
-EXCEPT AS EXPRESSLY PROVIDED TO THE CONTRARY IN A WRITING BY ASHLEY HINSON FOR IOWA THE SITES, THE SITE MATERIALS CONTAINED THEREIN AND THE SERVICES PROVIDED ON OR IN CONNECTION THEREWITH (THE ‘SERVICES’) ARE PROVIDED ON AN ‘AS IS’ BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+REGISTRATION DATA; ACCOUNT SECURITY In consideration of your use of the Sites, you agree to (a) provide accurate, current and complete information about you as may be prompted by any registration forms on the Sites (‘Registration Data’); (b) maintain the security of your password and identification; (c) maintain and promptly update the Registration Data, and any other information you provide to Ashley Hinson for Iowa, to keep it accurate, current and complete; and (d) accept all risks of unauthorized access to the Registration Data and any other information you provide to Ashley Hinson for Iowa.
+INDEMNIFICATION You agree to defend, indemnify and hold harmless Ashley Hinson for Iowa, its independent contractors, service providers and consultants, and their respective directors, employees and agents, from and against any claims, damages, costs, liabilities and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to any User Content you post, store or otherwise transmit on or through the Sites, your use of the Interactive Areas, or any act or omission relating to the Site or the User Content, including, without limitation, any actual or threatened suit, demand or claim made against Ashley Hinson for Iowa and/or its independent contractors, service providers, employees, directors or consultants, arising out of or relating to the User Content, your conduct, your violation of these Terms of Service or your violation of the rights of any third party.
+DISCLAIMERS EXCEPT AS EXPRESSLY PROVIDED TO THE CONTRARY IN A WRITING BY ASHLEY HINSON FOR IOWA THE SITES, THE SITE MATERIALS CONTAINED THEREIN AND THE SERVICES PROVIDED ON OR IN CONNECTION THEREWITH (THE ‘SERVICES’) ARE PROVIDED ON AN ‘AS IS’ BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED.
 ASHLEY HINSON FOR IOWA DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT AND AS TO ACCURACY OR RELIABILITY OF THE INFORMATION, CONTENT, FORMS OR OTHER SITE MATERIALS ACCESSED THROUGH THE SITE.
 ASHLEY HINSON FOR IOWA DOES NOT REPRESENT OR WARRANT THAT THE SITES, THE SITE MATERIALS OR THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE.
 ASHLEY HINSON FOR IOWA IS NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS OR OMISSIONS, INCLUDING THOSE RELATING TO PRICING, TEXT OR PHOTOGRAPHY.
@@ -109,36 +80,27 @@ LISTED PRICES FOR MERCHANDISE INCLUDE APPLICABLE SALES/USE TAX.
 ASHLEY HINSON FOR IOWA IS ALSO NOT RESPONSIBLE OR LIABLE IN ANY MANNER FOR ANY THIRD PARTY ACTIVITIES OR EVENTS LISTED ON THE SITES OR FOR THE CONDUCT OF ANY EVENT OR ACTIVITY ORGANIZERS OF OTHER USERS OF THE SITES.
 ASHLEY HINSON FOR IOWA reserves the right to change any and all content contained in the Sites and any Services offered through the Sites at any time without notice.
 Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, ASHLEY HINSON FOR IOWA.
-LIMITATION OF LIABILITY
-IN NO EVENT SHALL ASHLEY HINSON FOR IOWA OR OUR EMPLOYEES, AGENTS OR VOLUNTEERS BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE SITES, THE SERVICES, THE CONTENT OR THE SITE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE SITE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY USER ON ANY INFORMATION OBTAINED FROM ASHLEY HINSON FOR IOWA OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO ASHLEY HINSON FOR IOWA RECORDS, PROGRAMS OR SERVICES.
+LIMITATION OF LIABILITY IN NO EVENT SHALL ASHLEY HINSON FOR IOWA OR OUR EMPLOYEES, AGENTS OR VOLUNTEERS BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE SITES, THE SERVICES, THE CONTENT OR THE SITE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE SITE, INCLUDING, WITHOUT LIMITATION, ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY USER ON ANY INFORMATION OBTAINED FROM ASHLEY HINSON FOR IOWA OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO ASHLEY HINSON FOR IOWA RECORDS, PROGRAMS OR SERVICES.
 IN NO EVENT SHALL THE AGGREGATE LIABILITY OF ASHLEY HINSON FOR IOWA, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE SITES OR THE SITE MATERIALS EXCEED ANY COMPENSATION YOU PAY, IF ANY, TO ASHLEY HINSON FOR IOWA FOR ACCESS TO OR USE OF THE SITES.
 CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OF LIMITATION OF CERTAIN DAMAGES.
 THEREFORE, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
-APPLICABLE LAW AND VENUE
-These Terms of Service and your use of the Site shall be governed by and construed in accordance with the laws of the Iowa applicable to agreements made and to be entirely performed within the Iowa, without resort to its conflict of law provisions.
+APPLICABLE LAW AND VENUE These Terms of Service and your use of the Site shall be governed by and construed in accordance with the laws of the Iowa applicable to agreements made and to be entirely performed within the Iowa, without resort to its conflict of law provisions.
 You agree that any action at law or in equity arising out of or relating to these Terms of Service shall be filed only in the state and federal courts located in the Iowa and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these Terms of Service.
-TERMINATION
-Notwithstanding any of these Terms of Service, Ashley Hinson for Iowa reserves the right, without notice and in its sole discretion, to terminate your license to use the Sites, and to block or prevent future access to and use of the Sites.
-SEVERABILITY
-If any provision of these Terms of Service shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Service and shall not affect the validity and enforceability of any remaining provisions.
-DONATION POLICIES
-When donating, federal law requires that you verify the following statements are true and accurate.
+TERMINATION Notwithstanding any of these Terms of Service, Ashley Hinson for Iowa reserves the right, without notice and in its sole discretion, to terminate your license to use the Sites, and to block or prevent future access to and use of the Sites.
+SEVERABILITY If any provision of these Terms of Service shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms of Service and shall not affect the validity and enforceability of any remaining provisions.
+DONATION POLICIES When donating, federal law requires that you verify the following statements are true and accurate.
 Your contribution is made from your own funds with a personal credit card, and not with a corporate credit card or funds provided to me by another person.
 I am not a federal government contractor, nor am I a foreign national who lacks permanent resident status in the United States.
 I am at least 16 years old.
 Contributions are not deductible for federal income tax purposes.
 Funds received in response to this solicitation will be subject to federal contribution limits.
-Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and name of employer of individuals whose contributions aggregate in excess of $200 per election cycle
-DONATION REFUND AND CANCELLATION POLICY
-All donations are final.
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and name of employer of individuals whose contributions aggregate in excess of $200 per election cycle DONATION REFUND AND CANCELLATION POLICY All donations are final.
 Refunds and cancellations will be given at the discretion of Ashley Hinson for Iowa.
 If you believe that an error has been made in connection with your online donation, contact us at info@ashleyhinson.com.
 We will endeavor to work with you to correct any such error.
-DONATION SHIPPING AND HANDLING POLICY
-All online donation confirmations will be sent via e-mail.
+DONATION SHIPPING AND HANDLING POLICY All online donation confirmations will be sent via e-mail.
 It is your responsibility to provide a correct and valid e-mail address, street address, and other contact information.
-Terms and Conditions
-Go to https://ashleyhinson.com/ and sign up to receive political campaign alerts, updates and news by registering your mobile number with us.
+Terms and Conditions Go to https://ashleyhinson.com/ and sign up to receive political campaign alerts, updates and news by registering your mobile number with us.
 By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
 After signing up, you will receive a text message from 30934 on your mobile number.
 Msg&data rates may apply.
@@ -146,16 +108,13 @@ Msg freq may vary.
 Reply HELP for “help”.
 Compatible carriers include: AT&T, T-Mobile® T-Mobile is not liable for delayed or undelivered messages, Verizon Wireless, Sprint, Boost, Alltel (Verizon Wireless), U.S.
 Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®.
-Carriers are not liable for delayed or undelivered messages
-To discontinue receiving SMS messages from Ashley Hinson for Iowa, text STOP to 30934.
-For additional help text HELP to 30934 or contact info@ashleyhinsonforia.com
-Ashley Hinson for Iowa respects your right to privacy.
-You can view our privacy policy here https://ashleyhinson.com/privacy-policy/
-HELP for help, STOP to cancel.
-MOBILE MESSAGES
-If you request to receive updates or other information by mobile phone or text message (the “SMS Service”), you consent to receiving periodic text messages from us and our otherwise communicating with you via your mobile device.
+Carriers are not liable for delayed or undelivered messages To discontinue receiving SMS messages from Ashley Hinson for Iowa, text STOP to 30934.
+For additional help text HELP to 30934 or contact info@ashleyhinsonforia.com Ashley Hinson for Iowa respects your right to privacy.
+You can view our privacy policy here https://ashleyhinson.com/privacy-policy/ HELP for help, STOP to cancel.
+MOBILE MESSAGES If you request to receive updates or other information by mobile phone or text message (the “SMS Service”), you consent to receiving periodic text messages from us and our otherwise communicating with you via your mobile device.
 We do not charge for this SMS Service.
 However, your carrier’s standard messaging, data and other rates and fees still apply to any messages you send, our confirmations, and all subsequent SMS correspondence and/or transmissions.
 At any time, you may text STOP to cancel or HELP for customer support information.
-QUESTIONS & CONTACT INFORMATION
-Questions or comments about the Sites may be directed to Ashley Hinson for Iowa at info@ashleyhinson.com.
+QUESTIONS & CONTACT INFORMATION Questions or comments about the Sites may be directed to Ashley Hinson for Iowa at info@ashleyhinson.com .
+Follow Follow Follow Follow Contribute by check To contribute to Ashley Hinson for Iowa by check, mail to the below address Ashley Hinson for Iowa P.O.
+Box 811 Marion, IA 52302 Privacy Policy | Terms and Conditions PAID FOR BY ASHLEY FOR IOWA

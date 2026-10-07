@@ -1,8 +1,8 @@
-Balancing Our Spending:
-If there is one common theme I hear from Idahoans as I travel the state, it is their concern with the size of the federal budget and the impact our nation’s debt will have on future generations.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Budget & Spending October 11, 2019 Balancing Our Spending : If there is one common theme I hear from Idahoans as I travel the state, it is their concern with the size of the federal budget and the impact our nation’s debt will have on future generations.
 I couldn’t agree more, and believe getting our fiscal house in order must be the first priority of a Congress.
 That is one of the reasons why I am an original cosponsor of H.J.
-Res. 22, which would amend the U.S.
+Res.
+22, which would amend the U.S.
 Constitution to require a balanced budget.
 I also support reinstituting true pay-as-you-go (PAYGO) budget practices in Congress so that any spending increase in one area must be paid for with a spending decrease in another area.
 These are the kinds of budgetary practices American families and businesses have to live with every single day and there is no reason why Congress shouldn’t live by them as well.
@@ -24,4 +24,6 @@ Social Security trustees have recently said that the Social Security trust fund 
 Every proposal that I have ever supported to update or reform these programs would preserve these benefits for current beneficiaries, and save it for future generations that are currently at risk of not receiving these benefits.
 The longer we wait to address these issues, the more difficult they will be to solve.
 As I have said time and time again, I stand ready to work with any colleague who is willing to take on the tough issues that are busting our budgets year in and year out, which unfortunately have gone ignored for far too long.
-As a member of both the House Budget Committee and the House Appropriations Committee, I will continue pushing for a balanced budget amendment, true PAYGO reform, and real budget reductions as components of a overall strategy to get our federal budget under control and set the course for aggressive economic growth.
+As a member of both the House Budget Committee and the House Appropriations Committee, I will continue pushing for a balanced budget amendment, true PAYGO reform, and real budget reductions as components of a overall strategy to get our federal budget under control and set the course for aggressive economic growth. « Previous: Protecting Life Guns » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

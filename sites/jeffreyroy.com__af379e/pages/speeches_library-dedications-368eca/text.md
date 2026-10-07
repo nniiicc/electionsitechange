@@ -1,5 +1,5 @@
-DeBaggis Library Dedication
-Virtue may be its own reward, but we believe that virtuosity deserves some concrete and tangible form of recognition.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Library dedications DeBaggis Library Dedication Virtue may be its own reward, but we believe that virtuosity deserves some concrete and tangible form of recognition.
 And that is why we gather here today — to recognize Vinnie DeBaggis.
 From the time of the laurel wreath awarded by the ancient Greeks, we recognized that in every field of endeavor, some people are outstanding in that particular work, and some people are outstanding simply as people.
 Vinnie DeBaggis is honored here today because he is simply one of those outstanding people and it is for that reason that this cherished library in the school is dedicated in his name.
@@ -20,18 +20,15 @@ I wanted to get Vinny gifts and I thought long and hard but what would be most a
 The only answer of course was a book.
 While trolling the shelves of the bookstore, I came across a volume entitled Helen and teacher which details the remarkable lives of the women for whom this school is named.
 Vinny, you will be forever associated with these remarkable symbols so I would like to offer you this book as a token of our appreciation.
-Colace/Rabaioli Library Dedication
-We are all influenced by books, sometimes unwittingly.
+Colace/Rabaioli Library Dedication We are all influenced by books, sometimes unwittingly.
 Did you know that every time you vow not to budge an inch or claim to be in a pickle or say someone is tongue tied you are quoting Shakespeare?
 Did you know that every time you vow to turn over a new leaf or affirm that honesty is the best policy, you are quoting Cervantes.
 If you say, “Every dog has his day” or “Mum’s the word,” you are quoting Don Quixote?
-And it was Cervantes in Don Quixote who first observed that “birds of a feather flock together,” that a “closed mouth catches no flies” and that “honesty’s the best policy.”
-These words become a part of us.
+And it was Cervantes in Don Quixote who first observed that “birds of a feather flock together,” that a “closed mouth catches no flies” and that “honesty’s the best policy.” These words become a part of us.
 What others have written and said is more the heart of who we are and the way we are than many of us could imagine.
 And we house these ideals in the books in our nation’s libraries.
 And we look to them because as Barbara Tuchman observed: “Books are the carriers of civilization.
-Without books history is silent, literature dumb, science crippled, thought and speculation at a standstill.”
-A library represents one of the most cherished gifts we pass on to future generations.
+Without books history is silent, literature dumb, science crippled, thought and speculation at a standstill.” A library represents one of the most cherished gifts we pass on to future generations.
 A library is a place where history comes to life.
 It is more than just a place to go for facts.
 A library is also a place to go for wisdom.
@@ -56,8 +53,14 @@ And it is with that in mind that I want to thank Mr.
 Colace and the family of Mr.
 Rabaioli, on behalf of the Franklin School Committee, and welcome you all to the new Colace/Rabaioli Library.
 We have gifts for each of you – books of course.
-For the Rabaioli family, the book In Search of America.
+For the Rabaioli family, the book In Search of America .
 The book explores the basic ideals that continue to drive and define the American character, many traits exhibited by Mr.
 Rabaioli.
 For Mr.
 Colace, the biography of John Adams – the man who reminded us to always carry books with us because “you’re never alone with a poet in your pocket.” Thank you for the contributions you have made, please treasure this honor, and enjoy these words.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

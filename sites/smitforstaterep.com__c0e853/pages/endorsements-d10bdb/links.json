@@ -1,43 +1,174 @@
 [
-"https://abcmi.com/2022PrimaryGuide",
-"https://ctvmichigan.org/endorsements",
-"https://facebook.com/smitforstaterep",
-"https://instagram.com/smitforstaterep",
-"https://makelibertywin.com/candidates",
-"https://mihealthchoice.org/endorsements",
-"https://mimfg.org/Portals/0/Documents/GA/election22endorsements_general.pdf",
-"https://new.michfb.com/endorsements",
-"https://nfib.com/advocacy/elections/endorsed-candidates",
-"https://nrapvf.org/grades/Michigan",
-"https://rtl.org/legislation/endorsement-generator",
-"https://rumble.com/v1bwr0l-rachelle-smit-43rd-district-state-rep-patriotapproved-standupallegan-county.html",
-"https://secure.winred.com/committee-to-elect-rachelle-smit-for-state-representative/storefront",
-"https://smitforstaterep.com/",
-"https://smitforstaterep.com/43rd-district-map",
-"https://smitforstaterep.com/contact",
-"https://smitforstaterep.com/endorsement-form",
-"https://smitforstaterep.com/endorsements",
-"https://smitforstaterep.com/get-involved",
-"https://smitforstaterep.com/meetrachelle",
-"https://smitforstaterep.com/press",
-"https://smitforstaterep.com/priorities",
-"https://smitforstaterep.com/signs",
-"https://smitforstaterep.com/testimonials/dave-agema",
-"https://smitforstaterep.com/testimonials/endorsed-by-bernadette-smith",
-"https://smitforstaterep.com/testimonials/endorsed-by-citizens-for-traditional-values-pac",
-"https://smitforstaterep.com/testimonials/endorsed-by-don-black",
-"https://smitforstaterep.com/testimonials/endorsed-by-donald-j-trump",
-"https://smitforstaterep.com/testimonials/endorsed-by-fulton-sheen",
-"https://smitforstaterep.com/testimonials/endorsed-by-gale-dugan",
-"https://smitforstaterep.com/testimonials/endorsed-by-michigan-health-choice-alliance-pac",
-"https://smitforstaterep.com/testimonials/endorsed-by-nfib-mi-pac",
-"https://smitforstaterep.com/testimonials/endorsed-by-rep-mary-whiteford",
-"https://smitforstaterep.com/testimonials/endorsed-by-students-for-life-action",
-"https://smitforstaterep.com/testimonials/kurt-knight-fire-chief",
-"https://smitforstaterep.com/testimonials/marlena-pavlos-hackney",
-"https://smitforstaterep.com/testimonials/roger-vanvolkinburg",
-"https://smitforstaterep.com/testimonials/tammy-clark",
-"https://smitforstaterep.com/testimonials/tom-hooker",
-"https://studentsforlifeaction.org/",
-"https://youtube.com/channel/UCQWimN1Nf-9nDcivR9grgbQ"
+{
+"text": "Contact",
+"href": "https://smitforstaterep.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://smitforstaterep.com/43rd-district-map/"
+},
+{
+"text": "Endorsement",
+"href": "https://mimfg.org/Portals/0/Documents/GA/election22endorsements_general.pdf"
+},
+{
+"text": "Endorsement",
+"href": "https://new.michfb.com/endorsements"
+},
+{
+"text": "Endorsement",
+"href": "https://rtl.org/legislation/endorsement-generator/"
+},
+{
+"text": "Endorsement",
+"href": "https://www.ctvmichigan.org/endorsements/"
+},
+{
+"text": "Endorsement",
+"href": "https://www.makelibertywin.com/candidates/"
+},
+{
+"text": "Endorsement",
+"href": "https://www.mihealthchoice.org/endorsements"
+},
+{
+"text": "Endorsement",
+"href": "https://www.nfib.com/advocacy/elections/endorsed-candidates/"
+},
+{
+"text": "Endorsement",
+"href": "https://www.nrapvf.org/grades/Michigan/"
+},
+{
+"text": "Endorsements",
+"href": "https://smitforstaterep.com/endorsements/"
+},
+{
+"text": "GIVE YOUR ENDORSEMENT",
+"href": "https://smitforstaterep.com/endorsement-form/"
+},
+{
+"text": "Get Involved",
+"href": "https://smitforstaterep.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://smitforstaterep.com/"
+},
+{
+"text": "Meet Rachelle",
+"href": "https://smitforstaterep.com/meetrachelle/"
+},
+{
+"text": "Merch",
+"href": "https://secure.winred.com/committee-to-elect-rachelle-smit-for-state-representative/storefront"
+},
+{
+"text": "Press",
+"href": "https://smitforstaterep.com/press/"
+},
+{
+"text": "Priorities",
+"href": "https://smitforstaterep.com/priorities/"
+},
+{
+"text": "Video Endorsement",
+"href": "https://rumble.com/v1bwr0l-rachelle-smit-43rd-district-state-rep-patriotapproved-standupallegan-county.html"
+},
+{
+"text": "Website",
+"href": "https://www.abcmi.com/2022PrimaryGuide"
+},
+{
+"text": "Website",
+"href": "https://www.studentsforlifeaction.org/"
+},
+{
+"text": "Yard Signs",
+"href": "https://smitforstaterep.com/signs/"
+},
+{
+"text": "[image: Endorsed by Bernadette Smith]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-bernadette-smith/"
+},
+{
+"text": "[image: Endorsed by Citizens for Traditional Values PAC]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-citizens-for-traditional-values-pac/"
+},
+{
+"text": "[image: Endorsed by Dave Agema]",
+"href": "https://smitforstaterep.com/testimonials/dave-agema/"
+},
+{
+"text": "[image: Endorsed by Don Black]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-don-black/"
+},
+{
+"text": "[image: Endorsed by Fulton Sheen]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-fulton-sheen/"
+},
+{
+"text": "[image: Endorsed by Gale Dugan]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-gale-dugan/"
+},
+{
+"text": "[image: Endorsed by Kurt Knight]",
+"href": "https://smitforstaterep.com/testimonials/kurt-knight-fire-chief/"
+},
+{
+"text": "[image: Endorsed by Marlena Pavlos-Hackney]",
+"href": "https://smitforstaterep.com/testimonials/marlena-pavlos-hackney/"
+},
+{
+"text": "[image: Endorsed by Michigan Health Choice Alliance PAC]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-michigan-health-choice-alliance-pac/"
+},
+{
+"text": "[image: Endorsed by NFIB MI PAC]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-nfib-mi-pac/"
+},
+{
+"text": "[image: Endorsed by President Donald J. Trump]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-donald-j-trump/"
+},
+{
+"text": "[image: Endorsed by Rep. Mary Whiteford]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-rep-mary-whiteford/"
+},
+{
+"text": "[image: Endorsed by Roger VanVolkinburg]",
+"href": "https://smitforstaterep.com/testimonials/roger-vanvolkinburg/"
+},
+{
+"text": "[image: Endorsed by Students for Life Action]",
+"href": "https://smitforstaterep.com/testimonials/endorsed-by-students-for-life-action/"
+},
+{
+"text": "[image: Endorsed by Tammy Herrema Clark]",
+"href": "https://smitforstaterep.com/testimonials/tammy-clark/"
+},
+{
+"text": "[image: Endorsed by Tom Hooker]",
+"href": "https://smitforstaterep.com/testimonials/tom-hooker/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/smitforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smitforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQWimN1Nf-9nDcivR9grgbQ"
+},
+{
+"text": "[tooltip: - Smit for State Rep]",
+"href": "https://smitforstaterep.com/"
+},
+{
+"text": "rachelle@smitforstaterep.com",
+"href": "mailto:rachelle@smitforstaterep.com"
+}
 ]

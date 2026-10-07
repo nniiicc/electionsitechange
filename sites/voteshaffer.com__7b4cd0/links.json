@@ -1,12 +1,54 @@
 [
-"https://facebook.com/shaffer4pa",
-"https://ryvall.com/",
-"https://secure.winred.com/friends-of-jeremy-shaffer-42e7f3c5/website",
-"https://twitter.com/voteshafferpa",
-"https://voteshaffer.com/",
-"https://voteshaffer.com/about",
-"https://voteshaffer.com/gallery",
-"https://voteshaffer.com/privacy-policy",
-"https://voteshaffer.com/terms-of-service",
-"https://voteshaffer.com/volunteer"
+{
+"text": "About",
+"href": "https://www.voteshaffer.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-jeremy-shaffer-42e7f3c5/website"
+},
+{
+"text": "Home",
+"href": "https://www.voteshaffer.com/"
+},
+{
+"text": "Media",
+"href": "https://www.voteshaffer.com/gallery"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteshaffer.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.voteshaffer.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteshaffer.com/volunteer"
+},
+{
+"text": "[image: Jeremy Shaffer Website Banner]",
+"href": "https://www.voteshaffer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/shaffer4pa"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/friends-of-jeremy-shaffer-42e7f3c5/website"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/voteshafferpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteshaffer.com/"
+}
 ]

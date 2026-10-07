@@ -1,25 +1,94 @@
 [
-"https://kelleyforco.com/accessibility",
-"https://kelleyforco.com/admin/analytics",
-"https://kelleyforco.com/admin/dashboard",
-"https://kelleyforco.com/admin/questions",
-"https://kelleyforco.com/admin/volunteer-intake",
-"https://kelleyforco.com/admin/yard-signs",
-"https://kelleyforco.com/ask-kelley",
-"https://kelleyforco.com/ask-kelley/submit",
-"https://kelleyforco.com/endorsements",
-"https://kelleyforco.com/issues",
-"https://kelleyforco.com/issues/economic-affordability",
-"https://kelleyforco.com/issues/education-reform",
-"https://kelleyforco.com/issues/environmental-stewardship",
-"https://kelleyforco.com/issues/pro-family-policies",
-"https://kelleyforco.com/issues/second-amendment",
-"https://kelleyforco.com/issues/term-limits",
-"https://kelleyforco.com/press",
-"https://kelleyforco.com/privacy-policy",
-"https://kelleyforco.com/store",
-"https://kelleyforco.com/store/coming-soon",
-"https://kelleyforco.com/unsubscribe",
-"https://kelleyforco.com/volunteer-intake",
-"https://kelleyforco.com/yard-sign"
+{
+"text": "Accessibility",
+"href": "https://kelleyforco.com/accessibility"
+},
+{
+"text": "Admin Dashboard",
+"href": "https://kelleyforco.com/admin/dashboard"
+},
+{
+"text": "Analytics Dashboard",
+"href": "https://kelleyforco.com/admin/analytics"
+},
+{
+"text": "Ask Kelley",
+"href": "https://kelleyforco.com/ask-kelley"
+},
+{
+"text": "Ask Kelley Submit",
+"href": "https://kelleyforco.com/ask-kelley/submit"
+},
+{
+"text": "Economic Affordability",
+"href": "https://kelleyforco.com/issues/economic-affordability"
+},
+{
+"text": "Education Reform",
+"href": "https://kelleyforco.com/issues/education-reform"
+},
+{
+"text": "Endorsements",
+"href": "https://kelleyforco.com/endorsements"
+},
+{
+"text": "Environmental Stewardship",
+"href": "https://kelleyforco.com/issues/environmental-stewardship"
+},
+{
+"text": "Issues",
+"href": "https://kelleyforco.com/issues"
+},
+{
+"text": "Press Releases",
+"href": "https://kelleyforco.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kelleyforco.com/privacy-policy"
+},
+{
+"text": "Pro Family Policies",
+"href": "https://kelleyforco.com/issues/pro-family-policies"
+},
+{
+"text": "Questions Dashboard",
+"href": "https://kelleyforco.com/admin/questions"
+},
+{
+"text": "Second Amendment",
+"href": "https://kelleyforco.com/issues/second-amendment"
+},
+{
+"text": "Store",
+"href": "https://kelleyforco.com/store"
+},
+{
+"text": "Store Coming Soon",
+"href": "https://kelleyforco.com/store/coming-soon"
+},
+{
+"text": "Term Limits",
+"href": "https://kelleyforco.com/issues/term-limits"
+},
+{
+"text": "Unsubscribe",
+"href": "https://kelleyforco.com/unsubscribe"
+},
+{
+"text": "Volunteer Intake",
+"href": "https://kelleyforco.com/volunteer-intake"
+},
+{
+"text": "Volunteer Intake Admin",
+"href": "https://kelleyforco.com/admin/volunteer-intake"
+},
+{
+"text": "Yard Sign",
+"href": "https://kelleyforco.com/yard-sign"
+},
+{
+"text": "Yard Sign Dashboard",
+"href": "https://kelleyforco.com/admin/yard-signs"
+}
 ]

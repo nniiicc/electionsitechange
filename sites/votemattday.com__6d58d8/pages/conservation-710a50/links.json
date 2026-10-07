@@ -1,26 +1,102 @@
 [
-"https://citizengo.org/en-row/oth/16807",
-"https://facebook.com/profile.php?id=61578575818759",
-"https://fws.gov/refuge/blackbeard-island",
-"https://fws.gov/refuge/harris-neck",
-"https://fws.gov/refuge/okefenokee",
-"https://fws.gov/refuge/savannah",
-"https://fws.gov/refuge/wassaw",
-"https://fws.gov/refuge/wolf-island",
-"https://instagram.com/mattdayforcongress",
-"https://linkedin.com/in/matt-day-976983381",
-"https://secure.anedot.com/day-victory-fund/donate",
-"https://tiktok.com/@mattdaycongress",
-"https://votemattday.com/",
-"https://votemattday.com/_files/ugd/5a3034_157f642abcbf4f8b99c6e7837baeea5e.pdf",
-"https://votemattday.com/_files/ugd/5a3034_5a167a688bcc4688a7bdc788ae40a9f9.pdf",
-"https://votemattday.com/_files/ugd/5a3034_612a12f3986e483abd7f2908ca6b1c9c.pdf?index=true",
-"https://votemattday.com/copy-2-of-home",
-"https://votemattday.com/copy-of-matt-s-pledges",
-"https://votemattday.com/copy-of-national-issues",
-"https://votemattday.com/copy-of-privacy-policy",
-"https://votemattday.com/matt-s-pledges",
-"https://votemattday.com/privacy-policy",
-"https://x.com/MattDayCongress",
-"https://youtube.com/@MattDayForCongress"
+{
+"text": "ABOUT MATT",
+"href": "https://www.votemattday.com/copy-2-of-home"
+},
+{
+"text": "Blackbeard Island NWR",
+"href": "https://www.fws.gov/refuge/blackbeard-island"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/day-victory-fund/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votemattday.com"
+},
+{
+"text": "Harris Neck NWR",
+"href": "https://www.fws.gov/refuge/harris-neck"
+},
+{
+"text": "Local Issues",
+"href": "https://www.votemattday.com/copy-of-national-issues"
+},
+{
+"text": "National Issues",
+"href": "https://www.votemattday.com/copy-of-matt-s-pledges"
+},
+{
+"text": "Okefenokee NWR",
+"href": "https://www.fws.gov/refuge/okefenokee"
+},
+{
+"text": "Privacy Policies",
+"href": "https://www.votemattday.com/privacy-policy"
+},
+{
+"text": "Re-Election Pledges",
+"href": "https://www.votemattday.com/matt-s-pledges"
+},
+{
+"text": "SEE THE PLAN",
+"href": "https://www.votemattday.com/_files/ugd/5a3034_157f642abcbf4f8b99c6e7837baeea5e.pdf"
+},
+{
+"text": "SEE THE PLAN",
+"href": "https://www.votemattday.com/_files/ugd/5a3034_5a167a688bcc4688a7bdc788ae40a9f9.pdf"
+},
+{
+"text": "SEE THE PLAN",
+"href": "https://www.votemattday.com/_files/ugd/5a3034_612a12f3986e483abd7f2908ca6b1c9c.pdf?index=true"
+},
+{
+"text": "SIGN PETITION",
+"href": "https://citizengo.org/en-row/oth/16807"
+},
+{
+"text": "Savannah NWR",
+"href": "https://www.fws.gov/refuge/savannah"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votemattday.com/copy-of-privacy-policy"
+},
+{
+"text": "Wassaw NWR",
+"href": "https://www.fws.gov/refuge/wassaw"
+},
+{
+"text": "Wolf Island NWR",
+"href": "https://www.fws.gov/refuge/wolf-island"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578575818759"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mattdayforcongress/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/matt-day-976983381/"
+},
+{
+"text": "[image: Screenshot (301).png]",
+"href": "https://www.votemattday.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattdaycongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/MattDayCongress"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@MattDayForCongress"
+}
 ]

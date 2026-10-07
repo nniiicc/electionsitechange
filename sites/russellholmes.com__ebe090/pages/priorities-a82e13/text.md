@@ -1,56 +1,9 @@
-Priorities
-Priorities
-Times are tough.
+Skip to content Skip to content Welcome Meet Russell Priorities Partnership Participate Contribute Now Priorities Priorities Priorities Times are tough.
 We have all been affected in ways unimaginable even a few years ago.
 Now, we must make critical decisions that will shape our community for many years to come.
 We have incredible opportunities to revitalize our communities, recharge our economy, and rebuild Massachusetts.
 If we invest wisely in ourselves, we can truly create a brighter future for all.
-“I work for you.” ~Russell Holmes
-A proven leader with values and integrity who delivers results for our community.
-BUDGET ACHIEVEMENTS
-Secured Funding
-- African American Meeting House
-- BECMA
-- Caribbean Integration Community Development
-- Dorchester Food Co-Op
-- Lena Park
-- Mattapan Square Main Streets
-- Mattapan Food and Fitness
-- Mass Minority Contractors
-- More Than Words
-- NAACP Boston
-- National Champions Boston Lady Raiders
-- National Champions Dorchester Elite Eagles
-- NECAT
-- No Books No Ball
-- Rebuilding Together Boston
-- Sportsmen’s Tennis
-- Strive
-- The Guild
-- Urban Farm Institute
-ENGAGED CONSTITUENT SERVICES
-Committed Advocate
-- Attended 3,000 Community Meetings over the past 14 years
-- Teaches Financial Literacy in Jail, House of Corrections, Department of Corrections
-- Provides Weekly Street Clean Up
-- Brooks Charter School
-- Casey Overpass (Forest Hills Bridge)
-- COTE FORD Village
-- Mattapan Commuter Rail Station
-- Mattapan State Hospital Site
-- Morton and Gallivan Intersection
-- Morton Village
-MEANINGFUL LEGISLATION
-Sponsored Bills
-- POST (Police Officer Standard & Training)
-- Body Cameras
-- Civil Service Reform
-- POST Commission
-- Structural Racism Commissions
-- Use of Force
-- Criminal Justice Reform
-- Crown Act
-- Redistricting Reform
-- Student Opportunity Act
-- The Work & Family Mobility Act
-- Votes Act
+“I work for you.” ~Russell Holmes A proven leader with values and integrity who delivers results for our community.
+BUDGET ACHIEVEMENTS Secured Funding African American Meeting House BECMA Caribbean Integration Community Development Dorchester Food Co-Op Lena Park Mattapan Square Main Streets Mattapan Food and Fitness Mass Minority Contractors More Than Words NAACP Boston National Champions Boston Lady Raiders National Champions Dorchester Elite Eagles NECAT No Books No Ball Rebuilding Together Boston Sportsmen’s Tennis Strive The Guild Urban Farm Institute ENGAGED CONSTITUENT SERVICES Committed Advocate Attended 3,000 Community Meetings over the past 14 years Teaches Financial Literacy in Jail, House of Corrections, Department of Corrections Provides Weekly Street Clean Up Brooks Charter School Casey Overpass (Forest Hills Bridge) COTE FORD Village Mattapan Commuter Rail Station Mattapan State Hospital Site Morton and Gallivan Intersection Morton Village MEANINGFUL LEGISLATION Sponsored Bills POST (Police Officer Standard & Training) Body Cameras Civil Service Reform POST Commission Structural Racism Commissions Use of Force Criminal Justice Reform Crown Act Redistricting Reform Student Opportunity Act The Work & Family Mobility Act Votes Act Privacy Policy Contact@RussellHolmes.com Political advertisement paid for and approved by the Committee to Elect Russell Holmes. ©#-#.
+All rights reserved.
+Categories News

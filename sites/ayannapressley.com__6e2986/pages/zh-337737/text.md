@@ -1,11 +1,5 @@
-果斷，活躍份子領導才。
-雅仁娜 Ayanna 為麻州第七選區的民眾而戰，我們一起在所有社區建立推動正義與平權運動。
-Enter your phone number above to join our team.
+EN ES HT ZH Facebook Twitter Instagram 與雅仁娜會面 議政事項 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram 義工 購物站 捐献 與雅仁娜會面 活動 選民信息 義工 購物站 捐献 果斷，活躍份子領導才。 雅仁娜 Ayanna 為麻州第七選區的民眾而戰，我們一起在所有社區建立推動正義與平權運動。 電郵地址 * 郵政编碼 * Mobile (optional) 提交 Enter your phone number above to join our team.
 By clicking submit, you agree to the terms & privacy policy , for recurring campaign messages (including donations).
 Message & data rates may apply.
 Message frequency varies.
-Text HELP for help, text STOP to Opt Out.
-與雅仁娜會面
-雅仁娜·普斯利 Ayanna Pressley 是一位倡議者，決策者，活躍份子者和倖存者。雅仁娜 Ayanna 認為最感受到苦困的人應該是與權力最親近，在政治進程中的多元聲音，對於製定更有效的公共政策至關重要。
-讓我們加速前進
-找到最新的裝備，以表達對雅仁娜 Ayanna 和我們共同努力的運動的支持！
+Text HELP for help, text STOP to Opt Out. 與雅仁娜會面 雅仁娜·普斯利 Ayanna Pressley 是一位倡議者，決策者，活躍份子者和倖存者。雅仁娜 Ayanna 認為最感受到苦困的人應該是與權力最親近，在政治進程中的多元聲音，對於製定更有效的公共政策至關重要。 閱讀雅仁娜的故事 A 團隊 我們非常感謝與我們站在一起，並有助開展這運動的所有人。 在一起，我們已經建立了令人難以置信的工作，而-我們才剛剛開始。 提交 我們所有人都關心的議題 雅仁娜 Ayanna 為我們的價值觀而戰。 在国会，雅仁娜倡导以人为本的政策，以应对我们社区面临的挑战。她与当地领导人、组织者和社区成员一起解决重要的问题 — 从经济和种族正义到无障碍和可负担房屋、医疗保健、交通等 — 为马萨诸塞州第七区的每个人取得真正的进步。 马萨诸塞州国会第 7 选区是多元化且充满活力。它也是全国最不平等的地区之一。雅仁娜毕生致力于扭转有害政策的后遗症，促进正义、公平和康复。她的意图始终是确保最接近痛苦的人也最接近权力，推动并知会决策制定。 为公正的经济而战 应对气候危机 应对暴力和创伤的影响 住房是一项人权 改变刑事法律制度 查看所有議題 而我們是有一組織力的 查找有關你附近的競選活動的信息。 加入我們！ 提交 讓我們加速前進 找到最新的裝備，以表達對雅仁娜 Ayanna 和我們共同努力的運動的支持！ 雅仁娜驕傲的坦克 $35.00 我的女議員貼紙（5 片裝） $12.00 小隊 T 恤 $20.00 競選運動 T 恤 $30.00 瀏覽商店 加入對話 Facebook Twitter Instagram 此時資助 雅仁娜 Ayanna 不懈地為民眾倡議，你今天是否願意藉着捐款去支持她呢？ 我們在本年的平均捐款 $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District 與雅仁娜會面 選民信息 義工 購物站 捐献 追踨我們 Facebook Twitter Instagram 郵寄捐献 Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 由雅仁娜 Ayanna Pressley 競選委員會支付 聯絡我們 隱私政策 Made with Middle Seat

@@ -1,11 +1,46 @@
 [
-"https://bsky.app/profile/thepricecampaign.bsky.social",
-"https://facebook.com/ThePriceCampaign",
-"https://instagram.com/thepricecampaign",
-"https://reddit.com/user/ThePriceCampaign",
-"https://secure.actblue.com/donate/samuel-price-1",
-"https://thepricecampaign.com/blog",
-"https://thepricecampaign.com/blog/posts/what-berkeley-county-needs-from-columbia.html",
-"https://thepricecampaign.com/blog/posts/why-im-running.html",
-"https://thepricecampaign.com/vote"
+{
+"text": "Blog",
+"href": "https://www.thepricecampaign.com/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/thepricecampaign.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/samuel-price-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThePriceCampaign"
+},
+{
+"text": "Get official voting info",
+"href": "https://www.thepricecampaign.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thepricecampaign"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/user/ThePriceCampaign/"
+},
+{
+"text": "Voting info",
+"href": "https://www.thepricecampaign.com/vote/"
+},
+{
+"text": "What Berkeley County needs from Columbia right now",
+"href": "https://www.thepricecampaign.com/blog/posts/what-berkeley-county-needs-from-columbia.html"
+},
+{
+"text": "Why I'm running for State House in Berkeley County",
+"href": "https://www.thepricecampaign.com/blog/posts/why-im-running.html"
+},
+{
+"text": "info@thepricecampaign.com",
+"href": "mailto:info@thepricecampaign.com"
+}
 ]

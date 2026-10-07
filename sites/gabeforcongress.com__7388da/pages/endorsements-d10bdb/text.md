@@ -1,54 +1,8 @@
-Skip to content
-Meet Gabe
-Issues
-Endorsements
-Recent News
-Volunteer
-Store
-Donate
-Media
-Meet Gabe
-Issues
-Endorsements
-Recent News
-Volunteer
-Store
-Donate
-Media
-Facebook
-Instagram
-X-twitter
-DONATE
-Team Vasquez
-Endorsements
-AFGE Local 1050
-AFT New Mexico
-Brady PAC
-Committee of Interns and Residents of New Mexico
-AFSCME Council 18
-New Mexico Carpenters Local 1319
-CWA Unidos Local 7076
-Education Votes
-Equality PAC
-Giffords PAC
-Human Rights campaign
-IBEW Local 611
-Latino Victory
-League of Conservation Voters
-Moms Demand Action Gun Sense Candidate
-MoveOn
-National Wildlife Action Fund
-NRDC Action Fund
-National Committee to Preserve Social Security and Medicare
-New Mexico State Council of Machinists
-New Mexico Federation of labor
-New Mexico Professional Fire Fighters Association
-New Mexico State College Dems
-The Next 50
-Organizers in the Land of Enchantment
-Repro Freedom For all
-Semilla Action
-SMART Local 49
-Stop Gun Violence pac
-Young Democrats of New Mexico
-Sierra Club
+Skip to content Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Facebook Instagram X-twitter DONATE Team Vasquez Endorsements AFGE Local 1050 AFT New Mexico Brady PAC Committee of Interns and Residents of New Mexico AFSCME Council 18 New Mexico Carpenters Local 1319 CWA Unidos Local 7076 Education Votes Equality PAC Giffords PAC Human Rights campaign IBEW Local 611 Latino Victory League of Conservation Voters Moms Demand Action Gun Sense Candidate MoveOn National Wildlife Action Fund NRDC Action Fund National Committee to Preserve Social Security and Medicare New Mexico State Council of Machinists New Mexico Federation of labor New Mexico Professional Fire Fighters Association New Mexico State College Dems The Next 50 Organizers in the Land of Enchantment Repro Freedom For all Semilla Action SMART Local 49 Stop Gun Violence pac IATSE Local 480 Young Democrats of New Mexico Sierra Club Share: Join Our Team First Name Last Name Email Zip Code Cell Phone Get Updates By providing your cell phone number you consent to receive recurring updates from Gabe Vasquez for Congress, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy.
+Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Meet Gabe Issues Endorsements Recent News Volunteer Store Donate Media Gabe Vasquez has represented New Mexico’s 2nd Congressional District in the House of Representatives since 2022.
+He is running for re-election in one of the most competitives races in the nation.
+Support his campaign by making a donation here .
+575-202-8870 [email protected] Facebook Instagram X-twitter contributions can be mailed to: Gabe Vasquez for Congress Drawer L, Mesilla, NM 88046 Media Paid for by Gabe Vasquez for Congress Privacy Policy

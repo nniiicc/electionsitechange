@@ -1,35 +1,28 @@
-My position
-We share with Mexico, and with Canada
-Started during the Trump administration
-To secure both the northern and southern borders
-For America’s workforce
-Implement Title 42 health protections
-To sanctuary cities, countries, and states
-End catch-and-release
-Resurrect the ‘Remain in Mexico’ Policy
-An experiment where individuals can manage their own lives and affairs.
+Icon-email Instagram Icon-youtube-v Icon-facebook Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Issue energy Issue China Issue immigration Issue drugs Events Issue energy Issue China Issue immigration Issue drugs Events VIDEO ISSUES Icon-email Instagram Icon-youtube-v Icon-facebook Issue Immigration My position Secure our borders We share with Mexico, and with Canada Finish constructing the Wall Started during the Trump administration Deploy the US Military To secure both the northern and southern borders Implement e-verify For America’s workforce Protection Implement Title 42 health protections Suspend federal aid To sanctuary cities, countries, and states Zero Tolerance End catch-and-release Remain in Mexico Resurrect the ‘Remain in Mexico’ Policy Issue IMMIGRATION My position Secure our borders We share with Mexico, and with Canada Finish constructing the Wall Started during the Trump administration Deploy the US Military To secure both the northern and southern borders Implement e-verify For America’s workforce Protection Implement Title 42 health protections Suspend federal aid To sanctuary cities, countries, and states Zero Tolerance End catch-and-release Remain in Mexico Resurrect the ‘Remain in Mexico’ Policy America is an idea, an experiment An experiment where individuals can manage their own lives and affairs.
 An experiment where individuals can pursue dreams and passions in a free and open economy and political culture.
 The American experiment is still young, and growing.
 America is not a color or gender.
 America’s experiment is to empower individual’s to live and manage their lives with minimal interference from the government.
 The American experiment limits government power by enshrining sacred rights in our Constitution’s Bill-of-Rights.
 The American experiment can be summed up as individual rights for all citizens, limited government to prevent abuse of power, economic and political freedom, freedom of religion, speech, association, and assembly.
-America’s immigration policies should ensure the following objectives are achieved:
-Secure both the southern and northern borders: Impenetrable wall; military presence; Title 42 enforcement; aggressive deportation of criminals
-Effective tracking of who is here in our country, why they are here, and measures to ensure that legal immigrants do not overstay their work or student visa, thereby becoming illegal immigrants
-Stiff penalties for illegal immigrants: deportation and fines
-Issuance of work visas that benefit our American economy and American workforce
-Issuance of work visas that benefit our American economy and American workforce.
-Contributions by check are made out to:
-The Committee to Elect Justin Murphy
-20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088
-INFO
-Paid for by The Committee to
-Elect Justin Murphy
-Cynthia Gallenthin – Treasurer
-20 WORRELL ROAD TABERNACLE,
-NJ 08088
-ABOUT
-© Jersey Justin for Senate.
+America’s immigration policies should ensure the following objectives are achieved: Secure both the southern and northern borders: Impenetrable wall; military presence; Title 42 enforcement; aggressive deportation of criminals Effective tracking of who is here in our country, why they are here, and measures to ensure that legal immigrants do not overstay their work or student visa, thereby becoming illegal immigrants Stiff penalties for illegal immigrants: deportation and fines Issuance of work visas that benefit our American economy and American workforce America is an idea, an experiment An experiment where individuals can manage their own lives and affairs.
+An experiment where individuals can pursue dreams and passions in a free and open economy and political culture.
+The American experiment is still young, and growing.
+America is not a color or gender.
+America’s experiment is to empower individual’s to live and manage their lives with minimal interference from the government.
+The American experiment limits government power by enshrining sacred rights in our Constitution’s Bill-of-Rights.
+The American experiment can be summed up as individual rights for all citizens, limited government to prevent abuse of power, economic and political freedom, freedom of religion, speech, association, and assembly.
+America’s immigration policies should ensure the following objectives are achieved: Secure both the southern and northern borders: Impenetrable wall; military presence; Title 42 enforcement; aggressive deportation of criminals Effective tracking of who is here in our country, why they are here, and measures to ensure that legal immigrants do not overstay their work or student visa, thereby becoming illegal immigrants Stiff penalties for illegal immigrants: deportation and fines Issuance of work visas that benefit our American economy and American workforce.
+America is an idea, an experiment An experiment where individuals can manage their own lives and affairs.
+An experiment where individuals can pursue dreams and passions in a free and open economy and political culture.
+The American experiment is still young, and growing.
+America is not a color or gender.
+America’s experiment is to empower individual’s to live and manage their lives with minimal interference from the government.
+The American experiment limits government power by enshrining sacred rights in our Constitution’s Bill-of-Rights.
+The American experiment can be summed up as individual rights for all citizens, limited government to prevent abuse of power, economic and political freedom, freedom of religion, speech, association, and assembly.
+America’s immigration policies should ensure the following objectives are achieved: Secure both the southern and northern borders: Impenetrable wall; military presence; Title 42 enforcement; aggressive deportation of criminals Effective tracking of who is here in our country, why they are here, and measures to ensure that legal immigrants do not overstay their work or student visa, thereby becoming illegal immigrants Stiff penalties for illegal immigrants: deportation and fines Issuance of work visas that benefit our American economy and American workforce.
+MAKE A CONTRIBUTION TODAY Contributions by check are made out to: The Committee to Elect Justin Murphy 20 WORRELL ROAD, TABERNACLE, NEW JERSEY 08088 Donate CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations CONTACT 609 969 0959 jerseyjustin4senate@gmail.com Instagram Icon-youtube-v Icon-facebook INFO Paid for by The Committee to Elect Justin Murphy Cynthia Gallenthin – Treasurer 20 WORRELL ROAD TABERNACLE, NJ 08088 ABOUT Video Issues Events Donations © Jersey Justin for Senate.
 All Rights Reserved.
-Web: IGV Web Design
+Web: IGV Web Design © Jersey Justin for Senate.
+All Rights Reserved.
+Web: IGV Web Design privacy policy

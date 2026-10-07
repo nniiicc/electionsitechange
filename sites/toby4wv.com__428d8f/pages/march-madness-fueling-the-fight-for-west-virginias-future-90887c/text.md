@@ -1,4 +1,4 @@
-Hey there, fellow West Virginians!
+Home About Issues Events Calendar Donations & Volunteer Opportunities News Contact Toby Contact Toby March Madness: Fueling the Fight for West Virginia’s Future! by Toby Heaney | Mar 1, 2024 | Blog Hey there, fellow West Virginians!
 March is upon us, and let me tell you, it’s game time!
 As a Republican candidate for the West Virginia House of Delegates, I’m gearing up for what I like to call the “grind month” of our campaign.
 And let me tell you, folks, this is where the rubber meets the road.
@@ -23,9 +23,9 @@ Together, we can build a better West Virginia for generations to come.
 Are you with me?
 Let’s do this!
 Campaign contributions can be made online clicking HERE!
-Or checks may be mailed to
-Friends of Toby Heaney
-2452 Jamison Rd
-Fairview, WV 26570
-Contributions CANNOT exceed $2800 per person.
-#MarchMadness #CampaignGrind #WestVirginiaForward #DonateNow #RepublicanCandidate #WestVirginiaHouseOfDelegates
+Or checks may be mailed to Friends of Toby Heaney 2452 Jamison Rd Fairview, WV 26570 Contributions CANNOT exceed $2800 per person.
+#MarchMadness #CampaignGrind #WestVirginiaForward #DonateNow #RepublicanCandidate #WestVirginiaHouseOfDelegates Newsletter Subscribe Our Newsletter /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ Home About Issues Events Calendar Donations & Volunteer Opportunities News Contact Toby Follow Paid for by Friends of Toby Heaney The appearance of U.S.
+Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.
+Copyright.
+Toby Heaney All Rights Reserved.
+Powered by

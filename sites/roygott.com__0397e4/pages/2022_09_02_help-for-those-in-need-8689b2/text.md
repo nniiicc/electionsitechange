@@ -1,5 +1,5 @@
-From my August 15th post to the Facebook page:
-One of the common threads I'm hearing as I'm visiting residents of the district is an emphasis for support for the elderly, disabled, and poor.
+Roy D.
+Gott Home About Contact Positions Blog Help for Those in Need admin September 2, 2022 2:50 am From my August 15th post to the Facebook page: One of the common threads I'm hearing as I'm visiting residents of the district is an emphasis for support for the elderly, disabled, and poor.
 The elderly make up a significant portion of the population in our region and we are certainly no strangers to poverty with schools averaging above 50% free and reduce lunch rates.
 One person recently expressed displeasure with the fairness in application of laws and supports and how a person in need of assistance might get different results based on their gender.
 This concern wasn't about medical assistance specifically, but across a spectrum of services.
@@ -19,3 +19,10 @@ While perhaps not perfect, changes like this will help to ensure people don't ge
 Even with gasoline prices trending gently downward at the moment, heating oil will likely spike up more than typical this winter heating season.
 That and the current rate of inflation will mean that more people will have difficulty making ends meet and that there will be increased reliance on assistance and welfare across the spectrum.
 I hope to work with other legislators to ensure that we remain committed to the programs we have, to ensure that they are sufficient for the people who need them, and importantly, work to improve their efficiency, so that those eligible and in need of help do not have to wait until it is too late for that aid to matter.
+Category : Positions Previous People Love a Trier Next Encouraging Words are a Sign Search Search Recent Posts Endorsements & Distinctions Lobster Rule Scoping Session in Portland I Don’t Debate in the Comments Section I Support Our Lobster Industry Encouraging Words are a Sign Recent Comments Ken Gleason on Encouraging Words are a Sign Archives September 2026 October 2022 September 2022 Categories Campaigning Positions Uncategorized Roy D.
+Gott Roy D.
+Gott serves the communities of Franklin, Gouldsboro, Hancock, Milbridge, Sorrento, Steuben, Sullivan, Tremont, Trenton, and Winter Harbor with technical support and sales for their municipal, utility, and public safety functions.
+He served as Franklin's member of the Regional School Unit No.
+24 Board of Directors (2012-2025, Chair 2016-2025), and as Region IV (Hancock County) Director (2022-2024) and Vice President (2024-2025) for the Maine School Boards Association.
+He served as chair of the Schoodic Peninsula Broadband Committee and is founder of the Sumner Alumni Association.
+Quick Links Home About Contact Get in Touch PO Box 94, Franklin, ME 04634 2075653666 roy@roygott.com

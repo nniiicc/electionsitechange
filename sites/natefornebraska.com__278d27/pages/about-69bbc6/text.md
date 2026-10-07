@@ -1,5 +1,4 @@
-Skip navigation menu
-Nate Ostdiek is not your typical candidate, he is a 24-year-old lifelong Nebraskan, born and raised in Omaha's Westside neighborhood and isn't taking any campaign donations from corporations or Dark Money PACs.
+Skip navigation menu Meet Nate Priorities Volunteer Yard Sign Contact Donate Meet Nate Ostdiek Meet Nate Priorities Volunteer Yard Sign Contact Donate Meet Nate Ostdiek Nate Ostdiek is not your typical candidate, he is a 24-year-old lifelong Nebraskan, born and raised in Omaha's Westside neighborhood and isn't taking any campaign donations from corporations or Dark Money PACs.
 He is an educator, researcher, and community organizer who chose to never give up on Nebraska and is ready to bring a fresh perspective to the Legislature.
 Nate is currently building his experience working as a Teaching Assistant and Researcher in UNO's Political Science Department where he spends his day to day researching pressing national security issues, including nuclear deterrence, environmental security, and wargame design while helping teach a variety of courses.
 Nate has a proven track record as a driven advocate for his community.
@@ -7,4 +6,4 @@ From expanding Community Gardens through grant work while grocery prices skyrock
 Nate has delivered lower costs for his community which is why in this moment he decided to deepen his commitment to Nebraska by running for the Legislature.
 Nate has spent the last year knocking doors, listening to neighbors, and connecting with District 6 because knows that unless we make the change, we will not have a seat at the table.
 Nate is ready to serve his neighbors in District 6 and any Nebraskan who feels left behind by politics.
-He believes that all people deserve a life of dignity and that, together, we have what it takes to make it happen.
+He believes that all people deserve a life of dignity and that, together, we have what it takes to make it happen. nate@natefornebraska.com Powered by RUN! website builder Paid for by Nate Ostdiek for Nebraska Legislature 9380 Western Ave Apt 108 Omaha NE 68114 You need to enable JavaScript to run this app.

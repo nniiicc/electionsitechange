@@ -1,21 +1,20 @@
-Campaign News
-Latest news and updates from Brandon Herrera for Congress
-Brandon Herrera Breaks $800K Raised for Congressional Campaign
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Campaign News Latest news and updates from Brandon Herrera for Congress General Updates Running For Congress – The First 30 Days A Message from Brandon Thank you to everyone for your outpouring of support so far!
+This campaign is wasting no time getting into gear, and the response has been incredible.
+We have more momentum, better fundraising, more resources, and higher odds than ever before, and it’s all because of you.
+I have no doubt that […] Read More Posted October 22, 2025 Press Releases Brandon Herrera Breaks $# Raised for Congressional Campaign San Antonio, TX – Today, the Brandon Herrera campaign announced it has raised a total of $829,855.38 since launching in August.
 This nearly matches the amount raised during the entire primary campaign in the previous election cycle.
-This total includes $724,097.34 raised through the Brandon Herrera Victory Committee, as reported in filings today, plus an […]
-Challenger Brandon Herrera Massively Outraises Incumbent RINO Tony Gonzales
-San Antonio, TX – According to FEC reports for the third quarter of 2025, fake Republican Congressman Tony Gonzales was outraised by pro-Trump, pro-Constitution challenger Brandon Herrera by a whopping 67%.
-A closer look […]
-Join Team Herrera!
+This total includes $724,097.34 raised through the Brandon Herrera Victory Committee, as reported in filings today, plus an […] Read More Posted October 21, 2025 Press Releases Challenger Brandon Herrera Massively Outraises Incumbent RINO Tony Gonzales San Antonio, TX – According to FEC reports for the third quarter of 2025, fake Republican Congressman Tony Gonzales was outraised by pro-Trump, pro-Constitution challenger Brandon Herrera by a whopping 67%.
+While Herrera raised $305,271.99, Tony Gonzales brought in just $182,958.59.
+Even worse for Gonzales, he spent nearly everything he raised ($173,332.28).
+A closer look […] Read More Posted October 18, 2025 Volunteering Join Team Herrera!
 Join the movement to help elect Brandon Herrera to Congress!
 If you’ve been thinking about getting involved, now’s the time!
 Whether you’re new to canvassing or a seasoned pro, we’d love for you to join us.
-Together, we’re making a difference and having a great time doing it! 👉🏻 Sign up to volunteer today and […]
-🔥 John’s First Day Knocking Doors and He’s on Fire! 🔥
-We’re excited to highlight John, one of our incredible volunteers, who hit the ground running over the weekend, on his very first day canvassing for Brandon Herrera for Congress (TX-23)!
+Together, we’re making a difference and having a great time doing it! 👉🏻 Sign up to volunteer today and […] Read More Posted October 17, 2025 Volunteering 🔥 John’s First Day Knocking Doors and He’s on Fire! 🔥 We’re excited to highlight John, one of our incredible volunteers, who hit the ground running over the weekend, on his very first day canvassing for Brandon Herrera for Congress (TX-23)!
 His energy, passion, and dedication are exactly what keeps this movement growing.
-We’re so grateful for volunteers like John who are helping us share Brandon’s message […]
-I’m Running For Congress
-In the 1976 film Rocky, despite what people might remember, Sylvester Stallone’s character, Rocky Balboa, doesn’t actually win in the climax of the film.
+We’re so grateful for volunteers like John who are helping us share Brandon’s message […] Read More Posted October 13, 2025 General Updates I’m Running For Congress In the 1976 film Rocky, despite what people might remember, Sylvester Stallone’s character, Rocky Balboa, doesn’t actually win in the climax of the film.
 Instead, everyone is impressed that, despite going up against the current champion, this rough-around-the-edges everyman goes the distance, beating everyone’s expectations and almost winning.
-In fact, it’s not until the rematch […]
+In fact, it’s not until the rematch […] Read More Posted August 9, 2025 Previous 1 2 3 Signup for Updates Subscribe to our newsletter for the latest campaign updates.
+Subscribe Upcoming Events Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 10th, 2026 at 10:00 am CST Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 17th, 2026 at 10:00 am CST Bexar County Town Hall – Parker’s Ice Cream Monday, October 19th, 2026 at 11:00 am CST Campaign Merch No recent news available.
+Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

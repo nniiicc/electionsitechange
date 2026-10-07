@@ -1,40 +1,250 @@
 [
-"https://facebook.com/ColTreverNehls",
-"https://instagram.com/trevernehlsforcongress",
-"https://linkedin.com/in/trever-nehls-130480a",
-"https://secure.anedot.com/trever-nehls-for-congress/donate",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=100",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=1000",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=2000",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=25",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=250",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=3500",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=5",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=50",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=500",
-"https://trevernehlsfor.wpenginepowered.com/privacy-policy",
-"https://trevernehlsfor.wpenginepowered.com/terms-and-conditions",
-"https://trevernehlsforcongress.com/",
-"https://trevernehlsforcongress.com/about",
-"https://trevernehlsforcongress.com/contact",
-"https://trevernehlsforcongress.com/early-voting-locations",
-"https://trevernehlsforcongress.com/endorsements",
-"https://trevernehlsforcongress.com/issues",
-"https://trevernehlsforcongress.com/media",
-"https://trevernehlsforcongress.com/texas-district-maps",
-"https://trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026",
-"https://trevernehlsforcongress.com/texas/cbs-trump-endorses-texas-rep-nehls-twin-brother-trever-to-replace-him-in-congress",
-"https://trevernehlsforcongress.com/texas/fox-news-trump-endorses-close-allys-twin-brother-in-race-for-texas-congressional-seat",
-"https://trevernehlsforcongress.com/texas/nehls-on-texas-house-race-2026-midterms-and-more",
-"https://trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election",
-"https://trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat",
-"https://trevernehlsforcongress.com/texas/politico-trump-endorses-identical-twin-of-retiring-rep-troy-nehls-to-fill-his-seat",
-"https://trevernehlsforcongress.com/texas/state-of-the-union-with-jake-tapper-and-dana-bash",
-"https://trevernehlsforcongress.com/texas/the-daily-signal-seeing-double-trump-endorses-retiring-reps-twin-brother-for-texas-seat",
-"https://trevernehlsforcongress.com/texas/the-hill-trump-endorses-retiring-troy-nehlss-identical-twin-for-his-house-seat",
-"https://trevernehlsforcongress.com/texas/trump-ally-rep-troy-nehls-taps-twin-brother-to-replace-him-as-he-announced-retirement-from-congress",
-"https://trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition",
-"https://trevernehlsforcongress.com/volunteer",
-"https://truthsocial.com/@TreverNehls",
-"https://x.com/TreverNehls"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=1000"
+},
+{
+"text": "$2000",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=2000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=250"
+},
+{
+"text": "$3500",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=3500"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=500"
+},
+{
+"text": "A guide to the candidates running for Texas’ 22nd Congressional District in 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026/"
+},
+{
+"text": "About",
+"href": "https://www.trevernehlsforcongress.com/about/"
+},
+{
+"text": "CBS: Trump endorses Texas Rep. Nehls’ twin brother Trever to replace him in Congress",
+"href": "https://www.trevernehlsforcongress.com/texas/cbs-trump-endorses-texas-rep-nehls-twin-brother-trever-to-replace-him-in-congress/"
+},
+{
+"text": "Contact",
+"href": "https://www.trevernehlsforcongress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate"
+},
+{
+"text": "December 10, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat/"
+},
+{
+"text": "December 2, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/cbs-trump-endorses-texas-rep-nehls-twin-brother-trever-to-replace-him-in-congress/"
+},
+{
+"text": "December 2, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/state-of-the-union-with-jake-tapper-and-dana-bash/"
+},
+{
+"text": "December 2, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/trump-ally-rep-troy-nehls-taps-twin-brother-to-replace-him-as-he-announced-retirement-from-congress/"
+},
+{
+"text": "December 3, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/the-daily-signal-seeing-double-trump-endorses-retiring-reps-twin-brother-for-texas-seat/"
+},
+{
+"text": "December 8, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/fox-news-trump-endorses-close-allys-twin-brother-in-race-for-texas-congressional-seat/"
+},
+{
+"text": "December 8, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/politico-trump-endorses-identical-twin-of-retiring-rep-troy-nehls-to-fill-his-seat/"
+},
+{
+"text": "December 8, 2025",
+"href": "https://www.trevernehlsforcongress.com/texas/the-hill-trump-endorses-retiring-troy-nehlss-identical-twin-for-his-house-seat/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.trevernehlsforcongress.com/endorsements/"
+},
+{
+"text": "FOX NEWS: Trump endorses close ally’s twin brother in race for Texas congressional seat",
+"href": "https://www.trevernehlsforcongress.com/texas/fox-news-trump-endorses-close-allys-twin-brother-in-race-for-texas-congressional-seat/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ColTreverNehls"
+},
+{
+"text": "February 1, 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026/"
+},
+{
+"text": "February 2, 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election/"
+},
+{
+"text": "February 4, 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-on-texas-house-race-2026-midterms-and-more/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/trevernehlsforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://www.trevernehlsforcongress.com/issues/"
+},
+{
+"text": "January 8, 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/trever-nehls-130480a/"
+},
+{
+"text": "Media",
+"href": "https://www.trevernehlsforcongress.com/media/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/cbs-trump-endorses-texas-rep-nehls-twin-brother-trever-to-replace-him-in-congress/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/fox-news-trump-endorses-close-allys-twin-brother-in-race-for-texas-congressional-seat/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-on-texas-house-race-2026-midterms-and-more/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/politico-trump-endorses-identical-twin-of-retiring-rep-troy-nehls-to-fill-his-seat/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/state-of-the-union-with-jake-tapper-and-dana-bash/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/the-daily-signal-seeing-double-trump-endorses-retiring-reps-twin-brother-for-texas-seat/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/the-hill-trump-endorses-retiring-troy-nehlss-identical-twin-for-his-house-seat/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/trump-ally-rep-troy-nehls-taps-twin-brother-to-replace-him-as-he-announced-retirement-from-congress/"
+},
+{
+"text": "More",
+"href": "https://www.trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition/"
+},
+{
+"text": "NEWSMAX: Trump Endorses Retiring Rep. Nehls’ Twin for His Seat",
+"href": "https://www.trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat/"
+},
+{
+"text": "Nehls on Texas House race, 2026 midterms and more",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-on-texas-house-race-2026-midterms-and-more/"
+},
+{
+"text": "Nehls twins discuss upcoming congressional election",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election/"
+},
+{
+"text": "POLITICO: Trump endorses identical twin of retiring Rep. Troy Nehls to fill his seat",
+"href": "https://www.trevernehlsforcongress.com/texas/politico-trump-endorses-identical-twin-of-retiring-rep-troy-nehls-to-fill-his-seat/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://trevernehlsfor.wpenginepowered.com/privacy-policy/"
+},
+{
+"text": "State of the Union with Jake Tapper and Dana Bash",
+"href": "https://www.trevernehlsforcongress.com/texas/state-of-the-union-with-jake-tapper-and-dana-bash/"
+},
+{
+"text": "THE HILL: Trump endorses retiring Troy Nehls’s identical twin for his House seat",
+"href": "https://www.trevernehlsforcongress.com/texas/the-hill-trump-endorses-retiring-troy-nehlss-identical-twin-for-his-house-seat/"
+},
+{
+"text": "TX CD 22 Map",
+"href": "https://www.trevernehlsforcongress.com/texas-district-maps/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://trevernehlsfor.wpenginepowered.com/terms-and-conditions/"
+},
+{
+"text": "The Daily Signal: SEEING DOUBLE? Trump Endorses Retiring Rep’s Twin Brother for Texas Seat",
+"href": "https://www.trevernehlsforcongress.com/texas/the-daily-signal-seeing-double-trump-endorses-retiring-reps-twin-brother-for-texas-seat/"
+},
+{
+"text": "Trump ally Rep. Troy Nehls taps twin brother to replace him as he announced retirement from Congress",
+"href": "https://www.trevernehlsforcongress.com/texas/trump-ally-rep-troy-nehls-taps-twin-brother-to-replace-him-as-he-announced-retirement-from-congress/"
+},
+{
+"text": "Twins in Congress: Nehls brothers and a potentially history-making transition",
+"href": "https://www.trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trevernehlsforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.trevernehlsforcongress.com/early-voting-locations/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/TreverNehls"
+},
+{
+"text": "[image]",
+"href": "https://www.trevernehlsforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@TreverNehls"
+}
 ]

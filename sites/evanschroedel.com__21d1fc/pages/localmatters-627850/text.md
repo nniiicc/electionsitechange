@@ -1,4 +1,7 @@
-Local Matters.
+0 Skip to Content Why vote Evan Schroedel?
+Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Open Menu Close Menu Why vote Evan Schroedel?
+Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Open Menu Close Menu Folder: Why vote Evan Schroedel?
+Back Local Matters Principals Key Components Hear It From Evan Endorsements Contact Donate Local Matters.
 Local Roots.
 Proven Leadership.
 Montana’s strength has always come from its communities, not political insiders or national agendas.
@@ -18,3 +21,4 @@ He has trained young people in railway safety, volunteered in community initiati
 That same approach will guide his service in the Montana House: listen first, act responsibly, and focus on measurable results.
 Local matters because this is home.
 Evan understands House District 88 deserves representation that reflects the people who live, work, and raise their families here.
+Evan Schroedel for House District 88 Check out our Facebook Page for updates and election information.

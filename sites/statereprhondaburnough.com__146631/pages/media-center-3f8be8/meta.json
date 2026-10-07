@@ -1,9 +1,13 @@
 {
  "description": "Stay connected to District 77 News by visiting the Press Center!",
  "final_url": "https://www.statereprhondaburnough.com/media-center",
- "paid_for_by": null,
+ "fingerprint": "1d551ef631c028cf9c6a3b9b32eb830f2f42044a",
+ "format": 3,
+ "paid_for_by": "sponsored by Burnough, Rep",
  "title": "State Representative Rhonda Burnough | PRESS CENTER",
  "years_mentioned": [
+  "2004",
+  "2016",
   "2017",
   "2018",
   "2019",

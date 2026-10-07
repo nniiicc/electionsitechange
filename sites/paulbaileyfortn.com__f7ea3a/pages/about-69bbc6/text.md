@@ -1,55 +1,28 @@
-ABOUT SENATOR PAUL BAILEY
-ABOUT SENATOR PAUL BAILEY
-A lifelong conservative, the political bug to run for office first bit Paul in 2002 with an unsuccessful bid for the 15th District Senate seat.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 ABOUT SENATOR PAUL BAILEY Paul Bailey is a lifelong resident of the Upper Cumberland.
+Today, he and wife Amy reside on their White County farm with their son, Caleb, who is also a student at Rhodes College. ​ Paul was a senior at Tennessee Tech when his father Charles approached and persuaded him to join a new trucking business.
+From meager beginnings, borrowing money against two used trucks, they built what today is a thriving family business, CB Trucking, employing 100 people.
+Yet today, with Paul serving as General Manager, CB Trucking remains a family enterprise.
+Amy serves as CFO, with son Jordan and daughter Korry also involved in day to day operations.​ ABOUT SENATOR PAUL BAILEY Paul Bailey is a lifelong resident of the Upper Cumberland.
+Today, he and wife Amy reside on their White County farm with their son, Caleb, who is also a student at Rhodes College. ​ Paul was a senior at Tennessee Tech when his father Charles approached and persuaded him to join a new trucking business.
+From meager beginnings, borrowing money against two used trucks, they built what today is a thriving family business, CB Trucking, employing 100 people.
+Yet today, with Paul serving as General Manager, CB Trucking remains a family enterprise.
+Amy serves as CFO, with son Jordan and daughter Korry also involved in day to day operations.​ A lifelong conservative, the political bug to run for office first bit Paul in 2002 with an unsuccessful bid for the 15th District Senate seat.
 Despite this setback, the desire to serve remained within Paul, leading him to run and win a seat on the White County Commission, where he became Chairman.
 In 2014, Paul was chosen to fulfill the unexpired term of Rep.
 Charles Curtis upon his retirement.
-Paul served in the 42nd House seat while successfully running for the then open 15th District Senate seat representing Smith, Jackson, Putnam, White, Van Buren, and Cumberland Counties.
-A lifelong conservative, the political bug to run for office first bit Paul in 2002 with an unsuccessful bid for the 15th District Senate seat.
+Paul served in the 42nd House seat while successfully running for the then open 15th District Senate seat representing Smith, Jackson, Putnam, White, Van Buren, and Cumberland Counties.​ A lifelong conservative, the political bug to run for office first bit Paul in 2002 with an unsuccessful bid for the 15th District Senate seat.
 Despite this setback, the desire to serve remained within Paul, leading him to run and win a seat on the White County Commission, where he became Chairman.
 In 2014, Paul was chosen to fulfill the unexpired term of Rep.
 Charles Curtis upon his retirement.
-Paul served in the 42nd House seat while successfully running for the then open 15th District Senate seat representing Smith, Jackson, Putnam, White, Van Buren, and Cumberland Counties.
-While still a first term Senator, Paul’s common sense conservative representation gained him the confidence and support to be named Chairman of the Senate Transportation Committee in 2017.
-Just a year later, Paul was appointed Chairman of the Senate Commerce and Labor Committee where he serves today.
-Throughout his tenure in office, Paul has taken his business ability and love for the Upper Cumberland to Nashville to be an effective advocate for growth and prosperity to the rural areas of Tennessee, as well as the urban and suburban centers which have grown so much in recent years.
-Paul is an advocate of small government and protecting our Volunteer State as one of America’s best when it comes to living, working and raising a family.
-PAUL’S BACKGROUND IN THE PRIVATE AND PUBLIC SECTOR
-- Charles Bailey Trucking, Inc., Vice President, and General Manager for over 31 years
-- White County Republican Party, Member, and Past Chairman
-- Lighthouse Church, Member, and Worship Leader
-- White County Legislative Commission, Chairman
-- Commerce and Labor Committee, Chairman
-- Transportation and Safety Committee, Member
-- Fiscal Review Committee, Member
-- Financial Management Committee, Chairman
-- Airport Industrial Park Advisory Committee, Chairman
-- Budget Committee, Member
-- Solid Waste Committee, Member
-- White County Fair Board, Past President
-- White County Chamber of Commerce, Member
-- White County Farm Bureau, Member
-- Tennessee Department of Transportation Freight Advisory Committee, Member
-- Upper Cumberland Regional Airport Board, Member
-- Farm Animal Care Coalition of Tennessee, Charter Member
-- American Quarter Horse Association, Director
-- National Reined Cow Horse Association, Vice President
-- East Coast Reined Cow Horse Association, Chairman
-- Middle TN State University Horse Advisory Council, Member
-- National Rifle Association, Member
-NEWSLETTER SIGN-UP
-Sign up for Senator Bailey’s email newsletter.
-CONTACT
-Phone
-(615) 741-3978
-Email
-paul@paulbaileyfortn.com
-District Address
-252 Lowery Rd.
-Sparta, TN 38583
-Nashville Address
-425 5th Ave.
-N
-Ste 736 Cordell Hull Bldg.
-Nashville, TN 37243
-Paid for by Paul Bailey for Senate. | Privacy Policy
+Paul served in the 42nd House seat while successfully running for the then open 15th District Senate seat representing Smith, Jackson, Putnam, White, Van Buren, and Cumberland Counties.​ While still a first term Senator, Paul’s common sense conservative representation gained him the confidence and support to be named Chairman of the Senate Transportation Committee in 2017.
+Just a year later, Paul was appointed Chairman of the Senate Commerce and Labor Committee where he serves today. ​ While still a first term Senator, Paul’s common sense conservative representation gained him the confidence and support to be named Chairman of the Senate Transportation Committee in 2017.
+Just a year later, Paul was appointed Chairman of the Senate Commerce and Labor Committee where he serves today. ​ Throughout his tenure in office, Paul has taken his business ability and love for the Upper Cumberland to Nashville to be an effective advocate for growth and prosperity to the rural areas of Tennessee, as well as the urban and suburban centers which have grown so much in recent years.
+Paul is an advocate of small government and protecting our Volunteer State as one of America’s best when it comes to living, working and raising a family. ​ Throughout his tenure in office, Paul has taken his business ability and love for the Upper Cumberland to Nashville to be an effective advocate for growth and prosperity to the rural areas of Tennessee, as well as the urban and suburban centers which have grown so much in recent years.
+Paul is an advocate of small government and protecting our Volunteer State as one of America’s best when it comes to living, working and raising a family. ​ PAUL’S BACKGROUND IN THE PRIVATE AND PUBLIC SECTOR Charles Bailey Trucking, Inc., Vice President, and General Manager for over 31 years White County Republican Party, Member, and Past Chairman Lighthouse Church, Member, and Worship Leader White County Legislative Commission, Chairman Commerce and Labor Committee, Chairman Transportation and Safety Committee, Member Fiscal Review Committee, Member Financial Management Committee, Chairman Airport Industrial Park Advisory Committee, Chairman Budget Committee, Member Solid Waste Committee, Member White County Fair Board, Past President White County Chamber of Commerce, Member White County Farm Bureau, Member Tennessee Department of Transportation Freight Advisory Committee, Member Upper Cumberland Regional Airport Board, Member Farm Animal Care Coalition of Tennessee, Charter Member American Quarter Horse Association, Director National Reined Cow Horse Association, Vice President East Coast Reined Cow Horse Association, Chairman Middle TN State University Horse Advisory Council, Member National Rifle Association, Member WEEKLY CAPITOL UPDATES NEWSLETTER SIGN-UP Sign up for Senator Bailey’s email newsletter.
+Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT CONTACT Phone (615) 741-3978 Email paul@paulbaileyfortn.com District Address 252 Lowery Rd.
+Sparta, TN 38583 Nashville Address 425 5th Ave.
+N Ste 736 Cordell Hull Bldg.
+Nashville, TN 37243 CONNECT Paid for by Paul Bailey for Senate. | Privacy Policy

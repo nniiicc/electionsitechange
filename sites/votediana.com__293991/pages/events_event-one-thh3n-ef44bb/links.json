@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Harshbarger+Ho-Down&dates=20201010T200000Z%2F20201010T220000Z&location=4444+West+Stone+Drive%2C+Kingsport%2C+TN%2C+37660%2C+United+States",
-"http://maps.google.com/?q=4444+West+Stone+Drive+Kingsport%2C+TN%2C+37660+United+States",
-"https://facebook.com/Diana-for-Congress-101459351485507",
-"https://instagram.com/dianaforcongress",
-"https://secure.winred.com/diana-for-congress/donate",
-"https://twitter.com/DHarshbargerTN1",
-"https://votediana.com/",
-"https://votediana.com/cart",
-"https://votediana.com/coalitions",
-"https://votediana.com/events",
-"https://votediana.com/events/4th-annual-harshbarger-hoedown",
-"https://votediana.com/events/event-one-thh3n?format=ical",
-"https://votediana.com/get-involved",
-"https://votediana.com/issues",
-"https://votediana.com/news",
-"https://votediana.com/privacy-policy",
-"https://youtube.com/channel/UCNUslkMd-zdXIEiLtaiQyag"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4444+west+stone+drive+kingsport%2C+tn%2C+37660+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votediana.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votediana.com/events"
+},
+{
+"text": "Coalitions",
+"href": "https://www.votediana.com/coalitions"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/diana-for-congress/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votediana.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votediana.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Harshbarger+Ho-Down&dates=20201010T200000Z%2F20201010T220000Z&location=4444+West+Stone+Drive%2C+Kingsport%2C+TN%2C+37660%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votediana.com/events/event-one-thh3n?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votediana.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.votediana.com/news"
+},
+{
+"text": "Next Next September 28 4th Annual Harshbarger Hoedown with Special Guest Congressman Jim Jordan",
+"href": "https://www.votediana.com/events/4th-annual-harshbarger-hoedown"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votediana.com/privacy-policy"
+},
+{
+"text": "[image: Diana Harshbarger for Congress]",
+"href": "https://www.votediana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DHarshbargerTN1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Diana-for-Congress-101459351485507"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dianaforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNUslkMd-zdXIEiLtaiQyag"
+}
 ]

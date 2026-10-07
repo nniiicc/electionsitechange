@@ -1,3 +1,4 @@
+HOME ABOUT ABOUT JAVIER ABOUT THE DISTRICT DONATE CONTACT Menu HOME ABOUT ABOUT JAVIER ABOUT THE DISTRICT DONATE CONTACT Visit our social media pages!
 Javier Martínez is the New Mexico State Representative from District 11 and serves as the 31st Speaker of the NM House.
 Javier sits on the House Judiciary and House Taxation and Revenue Committees.
 Javier’s rise to the Speakership is a testament to his ability to work across ideological and party lines, and for always putting the needs of working families first.
@@ -14,7 +15,7 @@ After graduation, Javier worked as a public health advocate for the University o
 In 2010, Javier graduated from the UNM School of Law with honors in International and Comparative Law and the Southwest Indian Law Clinic.
 Since then, Javier has continued his dedicated advocacy on behalf of New Mexico's most vulnerable families at the local, state, and national levels.
 He has fought to ensure access to health care for all families, advocated for smart growth policies, pushed for permanent investments in early childhood education, and fought tirelessly to protect civil rights for all.
-Javier is an avid fan of baseball and lucha libre.
+Javier is an avid fan of baseball and lucha libre .
 He lives in the Los Duranes neighborhood with his wife Diana and their two children.
 You can often find the Martinez family at the Edward C.
 Sandoval North Valley Little League Complex enjoying a baseball game.

@@ -1,14 +1,50 @@
 [
-"http://theme-junkie.com/",
-"https://findmypollsite.vote.nyc/",
-"https://nypost.com/2019/08/22/new-yorks-red-flag-gun-control-measure-goes-into-effect-this-weekend",
-"https://portfolio.seamuscampbell.nyc/",
-"https://secure.actblue.com/donate/jo-anne-simon",
-"https://simonforbrooklyn.com/",
-"https://simonforbrooklyn.com/about",
-"https://simonforbrooklyn.com/contact",
-"https://simonforbrooklyn.com/endorsements",
-"https://simonforbrooklyn.com/issues",
-"https://simonforbrooklyn.com/volunteer",
-"https://vote.nyc/page/register-vote"
+{
+"text": "About Jo Anne",
+"href": "https://simonforbrooklyn.com/about"
+},
+{
+"text": "Contact",
+"href": "https://simonforbrooklyn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jo-anne-simon"
+},
+{
+"text": "Endorsements",
+"href": "https://simonforbrooklyn.com/endorsements"
+},
+{
+"text": "Find My Poll Site",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Issues",
+"href": "https://simonforbrooklyn.com/issues"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.vote.nyc/page/register-vote"
+},
+{
+"text": "Seamus Campbell",
+"href": "https://portfolio.seamuscampbell.nyc"
+},
+{
+"text": "Theme Junkie",
+"href": "http://www.theme-junkie.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://simonforbrooklyn.com/volunteer"
+},
+{
+"text": "[image: Jo Anne Simon - Democrat for New York State Assembly]",
+"href": "https://simonforbrooklyn.com"
+},
+{
+"text": "establishing a “red flag” law",
+"href": "https://nypost.com/2019/08/22/new-yorks-red-flag-gun-control-measure-goes-into-effect-this-weekend/"
+}
 ]

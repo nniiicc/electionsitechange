@@ -1,10 +1,3 @@
-Make a plan to
-VOTE!
+0 Skip to Content Michael Myers for HD 10 Home Who I Am Issues Campaign Signs Endorsements Voting Volunteer Donate Open Menu Close Menu Michael Myers for HD 10 Home Who I Am Issues Campaign Signs Endorsements Voting Volunteer Donate Open Menu Close Menu Home Who I Am Issues Campaign Signs Endorsements Voting Volunteer Donate Make a plan to VOTE !
 When We Vote, We Win!
-IMPORTANT ELECTION DATES:
-Last Day to Register to Vote Monday, October 5, 2026
-First Day of Early Voting by Personal Appearance Monday, October 19, 2026
-Last Day to Apply for Ballot by Mail (Received, not Postmarked) Friday, October 23, 2026
-Last Day of Early Voting by Personal Appearance Friday October 30, 2026
-Election Day Tuesday, November 3, 2026
-Last Day to Receive Ballot by Mail Tuesday, November 3, 2026
+IMPORTANT ELECTION DATES: Last Day to Register to Vote Monday, October 5, 2026 First Day of Early Voting by Personal Appearance Monday, October 19, 2026 Last Day to Apply for Ballot by Mail (Received, not Postmarked) Friday, October 23, 2026 Last Day of Early Voting by Personal Appearance Friday October 30, 2026 Election Day Tuesday, November 3, 2026 Last Day to Receive Ballot by Mail Tuesday, November 3, 2026 Early Voting Locations Election Day Voting Locations Here are some helpful links from the local elections’ office: Election Order and Notices Register to Vote Voting by Mail Information Regular Absentee Ballot Information En Español Absentee Ballot Information for Service Members, their families and overseas citizens Michael Myers for HD 10

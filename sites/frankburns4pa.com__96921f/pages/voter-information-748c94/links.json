@@ -1,16 +1,66 @@
 [
-"https://docs.google.com/document/d/1-WAhi7s5Z5qZYyQ23zREleFqa9-kSqVK50wmm0jKs-Q/edit?usp=sharing",
-"https://facebook.com/Representative-Frank-Burns-685932521559148",
-"https://frankburns4pa.com/",
-"https://frankburns4pa.com/cart",
-"https://frankburns4pa.com/get-involved",
-"https://frankburns4pa.com/home",
-"https://frankburns4pa.com/meet-frank",
-"https://frankburns4pa.com/priorities",
-"https://frankburns4pa.com/voter-information",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://secure.anedot.com/committee-to-re-elect-frank-burns/donate",
-"https://twitter.com/RepFrankBurns",
-"https://votepamsnyder.com/get-involved",
-"https://votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+{
+"text": "0",
+"href": "https://frankburns4pa.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-re-elect-frank-burns/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://frankburns4pa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://frankburns4pa.com/home"
+},
+{
+"text": "Make a donation",
+"href": "https://secure.anedot.com/committee-to-re-elect-frank-burns/donate"
+},
+{
+"text": "Meet Frank",
+"href": "https://frankburns4pa.com/meet-frank"
+},
+{
+"text": "Priorities",
+"href": "https://frankburns4pa.com/priorities"
+},
+{
+"text": "Privacy Policy Terms & Conditions",
+"href": "https://docs.google.com/document/d/1-WAhi7s5Z5qZYyQ23zREleFqa9-kSqVK50wmm0jKs-Q/edit?usp=sharing"
+},
+{
+"text": "Volunteer",
+"href": "https://votepamsnyder.com/get-involved"
+},
+{
+"text": "Voter Info",
+"href": "https://frankburns4pa.com/voter-information"
+},
+{
+"text": "[image: Frank Burns for PA]",
+"href": "https://frankburns4pa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepFrankBurns"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Representative-Frank-Burns-685932521559148/"
+},
+{
+"text": "early voting and mail-in ballots",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "polling place",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+},
+{
+"text": "voter registration",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+}
 ]

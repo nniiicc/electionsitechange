@@ -1,9 +1,8 @@
-What Demi Stands For
-Demi Palecek is running for State Representative to fight for the values that matter most to our communities—from healthcare and housing to justice and education.
+top of page Home Meet Demi About Demi Issues Endorsements The 13th Get Involved Events Volunteer Donate Request A Yard Sign Voting Information Check My Registration Register To Vote Find My Polling Location Store More Use tab to navigate through the menu items.
+What Demi Stands For Demi Palecek is running for State Representative to fight for the values that matter most to our communities—from healthcare and housing to justice and education.
 She brings lived experience, legislative insight, and a record of showing up.
 Explore her key priorities below.
-PROTECTING REPRODUCTIVE FREEDOM
-Demi believes every person, regardless of gender identity, deserves full autonomy over their body, their healthcare, and their future.
+PROTECTING REPRODUCTIVE FREEDOM Demi believes every person, regardless of gender identity, deserves full autonomy over their body, their healthcare, and their future.
 Reproductive freedom remains under constant threat, and we need leaders who will defend this fundamental right without compromise.
 I am committed to protecting and expanding access to the full spectrum of reproductive healthcare, including contraception, abortion care, fertility treatments, gender-affirming care, maternal health services, prenatal care, postpartum support, STI testing and treatment, and comprehensive sex education.
 Every person should have the right to make decisions about their own body, healthcare, and future in consultation with their healthcare providers, not politicians.
@@ -36,8 +35,7 @@ Why This Matters: When I needed an abortion, the Chicago Abortion Fund (CAF) hel
 I organize fundraisers for CAF, house people traveling for care, and volunteer as a clinic safeguard.
 Illinois serves 89,000+ people annually, including 35,000+ out-of-state patients.
 I will be abortion access's fiercest champion in Springfield, never compromising, always centering on those who need care.
-ENSURING ACCESS TO HEALTHCARE
-Our District's Healthcare Crisis: District 13 has lost three major healthcare facilities in six years.
+ENSURING ACCESS TO HEALTHCARE Our District's Healthcare Crisis: District 13 has lost three major healthcare facilities in six years.
 On a busy night, an ambulance ride to the nearest hospital can take 25 minutes, long enough for people to die waiting for care they would have received with local hospitals.
 People also face bankruptcy from ambulance costs or avoid calling 911 because they can't afford it.
 This is what happens when healthcare is treated as a profit center.
@@ -58,8 +56,7 @@ Prescription Drug Costs: Lower prescription drug costs through bulk purchasing, 
 Protect access to life-saving medications, including insulin, EpiPens, and HIV prevention drugs like PrEP.
 Why This Matters: Our district's healthcare crisis, the loss of hospitals, rising costs, and people choosing between bankruptcy and care prove that the market has failed; we need state investment, universal coverage, and recognition that healthy communities require accessible, affordable, comprehensive healthcare for everyone.
 I'll fight to make that real.
-Strengthening Public Education
-Our District's Education Crisis: Every child deserves access to a well-funded public education, regardless of their zip code, income, race, or immigration status.
+Strengthening Public Education Our District's Education Crisis: Every child deserves access to a well-funded public education, regardless of their zip code, income, race, or immigration status.
 Education is the transformative power that can break cycles of poverty but only when it's adequately funded and accessible to EVERYONE.
 I joined the military at 19 because it was my only pathway to attend college.
 No child should face that choice.
@@ -113,8 +110,7 @@ Fully funded public schools with comprehensive services, culturally responsive c
 Public education is the foundation of democracy, economic mobility, and justice; we must invest in it accordingly.
 Every child deserves an excellent education regardless of zip code.
 That's what I'll fight for.
-Housing Affordability & Tenant Protections
-Our District's Housing Crisis: Rising rents and displacement are destroying working-class communities across District 13.
+Housing Affordability & Tenant Protections Our District's Housing Crisis: Rising rents and displacement are destroying working-class communities across District 13.
 Long-time residents, immigrants, seniors, people with disabilities, and low-income families are being forced out by luxury development and corporate landlords extracting as much wealth as possible.
 Homelessness is exploding.
 Our diverse communities, comprising longtime residents and new neighbors, deserve housing for everyone who wants to live here.
@@ -153,9 +149,7 @@ As a veteran dedicated to peace, I believe we must utilize our influence as a na
 I’m also deeply concerned about the ongoing crises in Sudan and other conflict zones, where civilians face famine, displacement, and violence.
 We must expand aid and support diplomatic solutions that end bloodshed and hold these violent actors accountable for their actions.
 Real security comes from investing in people and providing them with the resources to stand with pride.
-Gaza & Global Genocide
-Promoting Environmental Sustainability & Transit
-Demi believes environmental justice starts at the local level, and that our communities deserve clean air, safe water, reliable transit, and protection from climate catastrophe.
+Gaza & Global Genocide “I believe leadership is earned through action, and that starts with listening to the people most impacted.” Promoting Environmental Sustainability & Transit Demi believes environmental justice starts at the local level, and that our communities deserve clean air, safe water, reliable transit, and protection from climate catastrophe.
 Our District's Environmental Challenges: Climate change is already here, with extreme heat, flooding, pollution disproportionately harming Black and Brown neighborhoods, and inadequate green space in working-class communities.
 District 13 faces a transit crisis with threatened 40% service cuts, environmental racism concentrating pollution in poor neighborhoods, lakefront access inequities, and aging infrastructure failing to protect us from climate impacts.
 We can't leave this to future generations; we need action now.
@@ -261,8 +255,7 @@ Workers deserve everything: living wages, safe conditions, union protections, di
 Economic justice means shifting power from corporations to workers, from bosses to unions, from oligarchs to working families.
 I reject corporate money, so I'm never beholden to anti-labor interests.
 I stand with workers always, because I am a worker, I come from workers, and I will fight for workers without compromise.
-Immigrant & Refugee Rights
-Illinois should be a welcoming, supportive home for all, no matter where you're from or what language you speak.
+Immigrant & Refugee Rights Illinois should be a welcoming, supportive home for all, no matter where you're from or what language you speak.
 I am the daughter of a Mexican immigrant who was undocumented most of my life.
 I understand the fear, the constant looking over your shoulder, the terror of family separation.
 Right now, I'm one of only two National Guard members in the entire nation publicly speaking out against Trump's use of military forces for ICE enforcement, and I'm under investigation, risking my 14-year career for it.
@@ -311,8 +304,7 @@ Everyone deserves dignity, safety, and opportunity to build lives here.
 Immigration enforcement is white supremacy, it's family destruction, and it's economic exploitation.
 I will fight it with everything I have, because this is my family, my community, my culture, and the future we're building together.
 Immigrant communities built Illinois and this country, and deserve safety, resources, and pathways to full participation in society.
-Supporting Seniors
-Our District's Senior Challenges: Seniors in District 13 face rising property taxes forcing them out of homes they've lived in for decades, inadequate public transit and paratransit services limiting mobility and independence, loss of healthcare infrastructure (three hospitals in six years) making medical care inaccessible, isolation and loneliness as communities change around them, fixed incomes that don't keep up with rising costs of living, and inadequate support for aging in place.
+Supporting Seniors Our District's Senior Challenges: Seniors in District 13 face rising property taxes forcing them out of homes they've lived in for decades, inadequate public transit and paratransit services limiting mobility and independence, loss of healthcare infrastructure (three hospitals in six years) making medical care inaccessible, isolation and loneliness as communities change around them, fixed incomes that don't keep up with rising costs of living, and inadequate support for aging in place.
 Our seniors built these neighborhoods; they deserve to stay in them.
 What I'll Fight For: Aging in Place Support: Expand funding for home and community-based services, including personal care attendants, meal delivery, home health services, and transportation assistance.
 Fund affordable housing modifications and accessibility improvements through grants or low-interest loans for ramps, grab bars, bathroom modifications, and safety upgrades.
@@ -356,8 +348,7 @@ Ensure seniors have resources to adapt to climate impacts.
 Why This Matters: Our seniors have devoted their lives to building our communities; they deserve security, dignity, and support as they age.
 Forcing seniors out of homes through property taxes, denying them healthcare access, or leaving them isolated is a moral failure.
 I'll fight to ensure every senior can age with dignity in the community they helped build.
-Public Safety with a Justice Lens
-Everyone deserves to feel safe in their neighborhood but safety must come with accountability, equity, and care.
+Public Safety with a Justice Lens Everyone deserves to feel safe in their neighborhood but safety must come with accountability, equity, and care.
 Our Community's Safety Crisis: District 13 faces real safety challenges, gun violence, domestic violence, mental health crises, and community trauma.
 But decades of mass incarceration and over-policing haven't made us safer; they've harmed Black and Brown communities while failing to address root causes of violence.
 Real safety comes from meeting people's needs: housing stability, economic opportunity, mental health care, and community investment, not more police and prisons.
@@ -418,8 +409,7 @@ We need a transformative approach centered on community investment, accountabili
 I'm working on gun manufacturer accountability legislation, supporting community-based violence prevention efforts, and organizing mutual aid to address immediate needs.
 I understand that real safety requires meeting people's needs, not criminalizing poverty, mental illness, addiction, or survival.
 That's what I'll fight for in Springfield.
-LGBTQ+ Rights & Inclusion
-Demi will fight to protect and affirm the dignity, safety, and rights of LGBTQ+ Illinoisans, no exceptions, no compromise.
+LGBTQ+ Rights & Inclusion Demi will fight to protect and affirm the dignity, safety, and rights of LGBTQ+ Illinoisans, no exceptions, no compromise.
 As a proud queer Latina, I know what it means to fight for your right to exist in spaces designed to exclude you.
 I defended transgender soldiers' rights in the Army National Guard, protections we've now lost under this administration.
 I've organized for LGBTQ+ liberation, shown up at pride events and protests, and lived the reality that our rights are constantly under attack.
@@ -486,14 +476,8 @@ Our rights are non-negotiable, our dignity is not up for debate, and our existen
 Ready to Build a Better Future Together?
 Demi’s priorities are rooted in community, experience, and action.
 If you believe in this vision for Illinois, now’s the time to get involved.
-Supporting Our Workforce & Economic Justice
-Get Involved
-Connect
-Demi for Illinois - PO BOX 408016, Chicago, IL, United States, 60640
-Checks Payable:
-For media inquiries and interview requests
-Office: 4802 N.
-Broadway, Suite #200, Chicago, IL, 60640
-Privacy Policy: Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law.
+Contribute to the Campaign Volunteer Endorse Demi Supporting Our Workforce & Economic Justice Get Involved Connect Demi for Illinois - PO BOX 408016, Chicago, IL, United States, 60640 Checks Payable: For media inquiries and interview requests contact@demiforillinois.com Office: 4802 N.
+Broadway, Suite #200, Chicago, IL, 60640 Subscribe for Campaign Updates Email * Phone * Subscribe Now Privacy Policy: Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law.
 Demi Palecek is a former member of the US Air Force and an active member of the Army National Guard.
 Use of her military rank, job titles, and photographs in uniform does not imply endorsement by either branch of service, the Department of Defense or any branch of U.S. government.
+Paid for by Demi for Illinois. ​ A copy of our report filed with the State Board of Elections is available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois. bottom of page

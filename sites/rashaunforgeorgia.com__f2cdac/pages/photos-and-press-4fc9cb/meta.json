@@ -1,7 +1,9 @@
 {
  "description": "View photos from Rashaun's campaign events. Join us in voting!",
  "final_url": "https://www.rashaunforgeorgia.com/photos-and-press",
- "paid_for_by": null,
+ "fingerprint": "b7216851bf77cc5d97c9499a97c45392fdcabb3f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Photos | Rashaun for Georgia | Dist. 38",
  "years_mentioned": []
 }

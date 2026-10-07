@@ -1,14 +1,62 @@
 [
-"https://aimeforiowa.org/",
-"https://aimeforiowa.org/about",
-"https://aimeforiowa.org/contact",
-"https://aimeforiowa.org/donate",
-"https://aimeforiowa.org/endorsements",
-"https://aimeforiowa.org/get-involved",
-"https://aimeforiowa.org/policy",
-"https://aimeforiowa.org/yard-sign",
-"https://facebook.com/profile.php?id=61554223334630",
-"https://twitter.com/aimeforiowa",
-"https://youtu.be/s3u5nIcIP6Y?si=Z4mwOOgh2jCZdDb0",
-"https://youtube.com/@aimejwichtendahl5292"
+{
+"text": "About Aime",
+"href": "https://aimeforiowa.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://aimeforiowa.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://aimeforiowa.org/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://aimeforiowa.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://aimeforiowa.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61554223334630"
+},
+{
+"text": "Get Involved",
+"href": "https://aimeforiowa.org/get-involved/"
+},
+{
+"text": "Policy",
+"href": "https://aimeforiowa.org/policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://aimeforiowa.org/yard-sign/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/aimeforiowa"
+},
+{
+"text": "YouTube",
+"href": "https://youtu.be/s3u5nIcIP6Y?si=Z4mwOOgh2jCZdDb0"
+},
+{
+"text": "[image: Vote Aime Wichtendahl for Iowa's Future logo]",
+"href": "https://aimeforiowa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/aimeforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61554223334630"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@aimejwichtendahl5292"
+}
 ]

@@ -1,19 +1,74 @@
 [
-"https://corybooker.com/",
-"https://corybooker.com/about-cory",
-"https://corybooker.com/accessibility",
-"https://corybooker.com/privacy-policy",
-"https://corybooker.com/shop",
-"https://facebook.com/corybooker",
-"https://flickr.com/photos/corybooker",
-"https://instagram.com/corybooker",
-"https://secure.actblue.com/donate/corybooker-2020-website",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=20.20",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=500",
-"https://twitter.com/CoryBooker",
-"https://youtube.com/user/CoryBookerdotcom"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=100"
+},
+{
+"text": "$20.20",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=20.20"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=5"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true&amount=500"
+},
+{
+"text": "About Cory",
+"href": "https://corybooker.com/about-cory/"
+},
+{
+"text": "Accessibility",
+"href": "https://corybooker.com/accessibility/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website"
+},
+{
+"text": "Facebook Link",
+"href": "https://www.facebook.com/corybooker"
+},
+{
+"text": "Flickr Link",
+"href": "https://www.flickr.com/photos/corybooker/"
+},
+{
+"text": "Home",
+"href": "https://corybooker.com/"
+},
+{
+"text": "Instagram Link",
+"href": "https://www.instagram.com/corybooker/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://corybooker.com/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://corybooker.com/shop/"
+},
+{
+"text": "Twitter Link",
+"href": "https://twitter.com/CoryBooker"
+},
+{
+"text": "YouTube Link",
+"href": "https://www.youtube.com/user/CoryBookerdotcom"
+},
+{
+"text": "[no text]",
+"href": "https://corybooker.com/"
+},
+{
+"text": "or chip inanother amount",
+"href": "https://secure.actblue.com/donate/corybooker-2020-website?express_lane=true"
+}
 ]

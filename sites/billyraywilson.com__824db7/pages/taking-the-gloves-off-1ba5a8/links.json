@@ -1,12 +1,46 @@
 [
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/author/hotwire",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/category/blog-post",
-"https://billyraywilson.com/contact",
-"https://billyraywilson.com/foreign-power-in-us-elections",
-"https://billyraywilson.com/the-united-states-is-a-constitutional-republic-not-a-theocracy-nor-america",
-"https://billyraywilson.com/wp-content/uploads/2026/07/American-patriotism-and-US-Israel-relationship.pdf"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "American patriotism and US-Israel relationship",
+"href": "https://billyraywilson.com/wp-content/uploads/2026/07/American-patriotism-and-US-Israel-relationship.pdf"
+},
+{
+"text": "Billy Ray Wilson",
+"href": "https://billyraywilson.com/author/hotwire/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Blog Post",
+"href": "https://billyraywilson.com/category/blog-post/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://billyraywilson.com/foreign-power-in-us-elections/"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "← Previous Post",
+"href": "https://billyraywilson.com/the-united-states-is-a-constitutional-republic-not-a-theocracy-nor-america/"
+}
 ]

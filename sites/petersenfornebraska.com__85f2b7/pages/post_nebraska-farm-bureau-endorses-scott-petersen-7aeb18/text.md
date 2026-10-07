@@ -1,18 +1,19 @@
-Nebraska Farm Bureau PAC Endorses Scott Petersen for Nebraska Secretary of State
-OMAHA, Neb. — Scott Petersen, Republican nominee for Nebraska Secretary of State, today announced the endorsement by the Nebraska Farm Bureau Political Action Committee.
+top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
+Where Does Your Election Data Go?
+NBC News Investigation Stealing Military Votes?
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE Nebraska Farm Bureau PAC Endorses Scott Petersen for Nebraska Secretary of State Sep 15 2 min read OMAHA, Neb. — Scott Petersen, Republican nominee for Nebraska Secretary of State, today announced the endorsement by the Nebraska Farm Bureau Political Action Committee .
 The endorsement adds the support of one of Nebraska’s most prominent agricultural organizations to Petersen’s campaign for Secretary of State.
 “Nebraska agriculture is the backbone of our state, and I’m proud to earn the endorsement of the Nebraska Farm Bureau PAC,” Petersen said.
-“I’m grateful for the confidence of the farmers, ranchers and agricultural leaders who work every day to feed Nebraska, America and the world.”
-Petersen said the endorsement reflects the importance of making sure state government works well for rural communities, producers and businesses across all 93 counties.
+“I’m grateful for the confidence of the farmers, ranchers and agricultural leaders who work every day to feed Nebraska, America and the world.” Petersen said the endorsement reflects the importance of making sure state government works well for rural communities, producers and businesses across all 93 counties.
 “As Secretary of State, I will always remember that Nebraska does not stop at the city limits of Lincoln or Omaha,” Petersen said.
-“Our farmers, ranchers and rural businesses deserve a state government that is responsive, efficient and accountable.”
-Petersen said his priorities for the office include strengthening confidence in Nebraska elections, improving business services and ensuring the Secretary of State’s office is accessible and responsive to Nebraskans in every part of the state.
+“Our farmers, ranchers and rural businesses deserve a state government that is responsive, efficient and accountable.” Petersen said his priorities for the office include strengthening confidence in Nebraska elections, improving business services and ensuring the Secretary of State’s office is accessible and responsive to Nebraskans in every part of the state.
 “Agriculture depends on strong communities, reliable institutions and leaders who understand the importance of stewardship,” Petersen said.
-“I’ll work every day to earn the confidence Nebraska Farm Bureau has placed in me and to serve the people who make our state strong.”
-Petersen is running for Secretary of State on a platform focused on restoring confidence in Nebraska elections, modernizing business services, promoting civic education and ensuring the office serves Nebraskans with transparency, accountability and professionalism.
-About Nebraska Farm Bureau PAC
-The Nebraska Farm Bureau Political Action Committee supports candidates for public office who understand the importance of agriculture, rural communities, and the issues affecting Nebraska farmers and ranchers.
-About Scott Petersen
-Scott Petersen is the Republican nominee for Nebraska Secretary of State.
+“I’ll work every day to earn the confidence Nebraska Farm Bureau has placed in me and to serve the people who make our state strong.” Petersen is running for Secretary of State on a platform focused on restoring confidence in Nebraska elections, modernizing business services, promoting civic education and ensuring the office serves Nebraskans with transparency, accountability and professionalism.
+About Nebraska Farm Bureau PAC The Nebraska Farm Bureau Political Action Committee supports candidates for public office who understand the importance of agriculture, rural communities, and the issues affecting Nebraska farmers and ranchers.
+About Scott Petersen Scott Petersen is the Republican nominee for Nebraska Secretary of State.
 A Nebraska business owner and conservative leader, Petersen is running to restore confidence in Nebraska elections, improve business services, and ensure the Secretary of State’s office serves every Nebraskan with transparency, accountability, and professionalism.
-Learn more at PetersenForNebraska.com.
+Learn more at PetersenForNebraska.com .
+Tags: Scott Petersen Nebraska Secretary of State Rural Nebraska Nebraska Agriculture Nebraska Farm Bureau Ranchers Farmers Election 2026 Recent Posts See All Scott Petersen: Nebraska Should Act Now on Citizenship Verification Following the Supreme Court’s 6–3 decision allowing the expanded SAVE citizenship-verification system to proceed while litigation continues, Scott Petersen is calling for Nebraska election officials t Governor Jim Pillen Endorses Scott Petersen for Nebraska Secretary of State Nebraska Governor Jim Pillen has endorsed Scott Petersen for Secretary of State, saying Petersen will be a strong partner in expanding opportunities for Nebraska businesses, producers and communities.
+Nebraska Attorney General Mike Hilgers Endorses Scott Petersen for Secretary of State Nebraska Attorney General Mike Hilgers has endorsed Scott Petersen for Secretary of State, praising Petersen’s commitment to the rule of law, transparent elections, competent administration and public RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
+All Rights Reserved.
+Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

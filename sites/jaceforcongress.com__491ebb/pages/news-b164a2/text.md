@@ -1,16 +1,3 @@
-March 5, 2026
-|
-Press Release
-February 23, 2026
-|
-Endorsement
-February 23, 2026
-|
-Endorsement
-February 16, 2026
-|
-Endorsement
-February 5, 2026
-|
-Endorsement
-Help fight for President Trump's America First Agenda
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate News March 5, 2026 | Press Release Monty Montanez Endorses Jace Yarbrough, Urges Republicans to Unite Behind Trump-Endorsed Candidate Read More February 23, 2026 | Endorsement House Majority Leader Steve Scalise Endorses Jace Yarbrough for Congress in Texas’ 32nd District Read More February 23, 2026 | Endorsement Susan B.
+Anthony Pro-Life America Endorses Jace Yarbrough for Congress in Texas’ 32nd District Read More February 16, 2026 | Endorsement Turning Point Action Endorses Jace Yarbrough for Congress in Texas’ 32nd District Read More February 5, 2026 | Endorsement President Donald J.
+Trump Endorses Jace Yarbrough for Congress in Texas’ 32nd District Read More Next Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

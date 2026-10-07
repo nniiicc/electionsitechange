@@ -1,17 +1,114 @@
 [
-"https://facebook.com/thomaschittenden",
-"https://feedly.com/i/subscription/feed/https://www.thomaschittenden.com/rss",
-"https://thomaschittenden.com/",
-"https://thomaschittenden.com/about",
-"https://thomaschittenden.com/author/thomas",
-"https://thomaschittenden.com/contact_old",
-"https://thomaschittenden.com/donate",
-"https://thomaschittenden.com/issues",
-"https://thomaschittenden.com/issues/affordability",
-"https://thomaschittenden.com/issues/climate",
-"https://thomaschittenden.com/issues/growth",
-"https://thomaschittenden.com/issues/justice-2",
-"https://thomaschittenden.com/issues/regionalization",
-"https://thomaschittenden.com/privacy",
-"https://twitter.com/tchittenden"
+{
+"text": "About",
+"href": "https://www.thomaschittenden.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.thomaschittenden.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/thomaschittenden/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.thomaschittenden.com/contact_old/"
+},
+{
+"text": "Issues",
+"href": "https://www.thomaschittenden.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.thomaschittenden.com/privacy"
+},
+{
+"text": "READ MORE ▶",
+"href": "https://www.thomaschittenden.com/issues/affordability/"
+},
+{
+"text": "READ MORE ▶",
+"href": "https://www.thomaschittenden.com/issues/climate/"
+},
+{
+"text": "READ MORE ▶",
+"href": "https://www.thomaschittenden.com/issues/growth/"
+},
+{
+"text": "READ MORE ▶",
+"href": "https://www.thomaschittenden.com/issues/justice-2/"
+},
+{
+"text": "READ MORE ▶",
+"href": "https://www.thomaschittenden.com/issues/regionalization/"
+},
+{
+"text": "Thomas Chittenden",
+"href": "https://www.thomaschittenden.com/author/thomas/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/tchittenden"
+},
+{
+"text": "[image: Affordability]",
+"href": "https://www.thomaschittenden.com/issues/affordability/"
+},
+{
+"text": "[image: Climate]",
+"href": "https://www.thomaschittenden.com/issues/climate/"
+},
+{
+"text": "[image: Growth]",
+"href": "https://www.thomaschittenden.com/issues/growth/"
+},
+{
+"text": "[image: Justice]",
+"href": "https://www.thomaschittenden.com/issues/justice-2/"
+},
+{
+"text": "[image: Regionalization]",
+"href": "https://www.thomaschittenden.com/issues/regionalization/"
+},
+{
+"text": "[image: Thomas Chittenden]",
+"href": "https://www.thomaschittenden.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.thomaschittenden.com/author/thomas/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/thomaschittenden/"
+},
+{
+"text": "[tooltip: RSS]",
+"href": "https://feedly.com/i/subscription/feed/https://www.thomaschittenden.com/rss/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/tchittenden"
+},
+{
+"text": "issues Affordability Affordability is about more than just affordable housing. We need to reduce the tax burden on our residents. This can be done with regionalizing our services, growing our economy, growing our grand lists and attracting more people to our state.",
+"href": "https://www.thomaschittenden.com/issues/affordability/"
+},
+{
+"text": "issues Climate We are in a climate emergency and we need our state strategies to support our people and our planet by reducing our CO2 emissions.",
+"href": "https://www.thomaschittenden.com/issues/climate/"
+},
+{
+"text": "issues Growth We need our state government to foster the conditions for economic growth so our present and future generations have more opportunity to stay, live, work and thrive here.",
+"href": "https://www.thomaschittenden.com/issues/growth/"
+},
+{
+"text": "issues Justice Black lives matter. And we have a lot of work to do.",
+"href": "https://www.thomaschittenden.com/issues/justice-2/"
+},
+{
+"text": "issues Regionalization We need to align our small towns and cities to work across boundaries for better outcomes at lower costs.",
+"href": "https://www.thomaschittenden.com/issues/regionalization/"
+}
 ]

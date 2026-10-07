@@ -1,10 +1,58 @@
 [
-"https://facebook.com/jlforpa",
-"https://instagram.com/jlforpa",
-"https://jlforpa.com/",
-"https://jlforpa.com/about-me",
-"https://jlforpa.com/about-pa-40",
-"https://jlforpa.com/contact",
-"https://jlforpa.com/endorsements",
-"https://jlforpa.com/wp-content/uploads/2025/12/Jon-Lloyd-Policy.pdf"
+{
+"text": "About Me",
+"href": "https://jlforpa.com/about-me/"
+},
+{
+"text": "Contact",
+"href": "https://jlforpa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://jlforpa.com/contact/"
+},
+{
+"text": "Donation",
+"href": "https://jlforpa.com/contact/"
+},
+{
+"text": "Endorsements",
+"href": "https://jlforpa.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://jlforpa.com"
+},
+{
+"text": "Issues",
+"href": "https://jlforpa.com/wp-content/uploads/2025/12/Jon-Lloyd-Policy.pdf"
+},
+{
+"text": "PA’s 40th District",
+"href": "https://jlforpa.com/about-pa-40/"
+},
+{
+"text": "[no text]",
+"href": "https://jlforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jlforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jlforpa/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://facebook.com/jlforpa"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://instagram.com/jlforpa"
+},
+{
+"text": "hello@jlforpa.com",
+"href": "https://jlforpa.com/contact/"
+}
 ]

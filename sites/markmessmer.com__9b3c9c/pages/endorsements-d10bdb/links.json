@@ -1,7 +1,26 @@
 [
-"http://markmessmer.com/endorsements",
-"http://markmessmer.com/privacy-policy",
-"https://markmessmer.com/",
-"https://secure.winred.com/messmer-for-congress/donate-today",
-"https://youtube.com/channel/UCTEbPkJbamL_JqEYtMfLGnQ"
+{
+"text": "DONATE ONLINE",
+"href": "https://secure.winred.com/messmer-for-congress/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "http://www.markmessmer.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.markmessmer.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "http://www.markmessmer.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCTEbPkJbamL_JqEYtMfLGnQ"
+},
+{
+"text": "[no text]",
+"href": "http://www.markmessmer.com/endorsements"
+}
 ]

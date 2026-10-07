@@ -1,11 +1,46 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Krista+Anderson&dates=20260924T223000Z%2F20260925T000000Z",
-"https://paypal.biz/plaidsylvania",
-"https://plaidsylvania.com/",
-"https://plaidsylvania.com/cart",
-"https://plaidsylvania.com/events",
-"https://plaidsylvania.com/events/day-of-action-canvassing-in-springettsbury-township",
-"https://plaidsylvania.com/events/town-hall-with-krista-anderson?format=ical",
-"https://plaidsylvania.com/newsletter",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.plaidsylvania.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.biz/plaidsylvania"
+},
+{
+"text": "Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Town+Hall+with+Krista+Anderson&dates=20260924T223000Z%2F20260925T000000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.plaidsylvania.com/events/town-hall-with-krista-anderson?format=ical"
+},
+{
+"text": "Plaidsylvania",
+"href": "https://www.plaidsylvania.com/"
+},
+{
+"text": "Previous Previous August 15 Day of Action - Canvassing in Springettsbury Township",
+"href": "https://www.plaidsylvania.com/events/day-of-action-canvassing-in-springettsbury-township"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Subscribe to Edward's Newsletter",
+"href": "https://www.plaidsylvania.com/newsletter"
+},
+{
+"text": "[image: Plaidsylvania]",
+"href": "https://www.plaidsylvania.com/"
+}
 ]

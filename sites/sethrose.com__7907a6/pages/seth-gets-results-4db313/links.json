@@ -1,8 +1,30 @@
 [
-"https://paypal.com/donate?hosted_button_id=BX2VAJ87SARNE",
-"https://sethrose.com/",
-"https://sethrose.com/about",
-"https://sethrose.com/cart",
-"https://sethrose.com/seth-gets-results",
-"https://sethrose.com/seth-gets-results-1"
+{
+"text": "0",
+"href": "https://www.sethrose.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sethrose.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.sethrose.com/seth-gets-results-1"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=BX2VAJ87SARNE"
+},
+{
+"text": "Home",
+"href": "https://www.sethrose.com/"
+},
+{
+"text": "Seth Gets Results",
+"href": "https://www.sethrose.com/seth-gets-results"
+},
+{
+"text": "Seth Rose",
+"href": "https://www.sethrose.com/"
+}
 ]

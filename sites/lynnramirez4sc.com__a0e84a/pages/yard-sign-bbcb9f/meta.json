@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.lynnramirez4sc.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "02d73c31fe81d9f46c258a56951a724d2f133022",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": [
   "2026"

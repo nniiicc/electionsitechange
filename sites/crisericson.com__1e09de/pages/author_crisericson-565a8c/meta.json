@@ -1,9 +1,12 @@
 {
  "description": "http://crisericson.com",
  "final_url": "https://crisericson.wordpress.com/author/crisericson/",
- "paid_for_by": null,
+ "fingerprint": "21ab9500ba2c4944780acef35dbed0c0bf0a9161",
+ "format": 3,
+ "paid_for_by": "",
  "title": "crisericson",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

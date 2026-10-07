@@ -1,5 +1,4 @@
-December 2023 Letter
-The year has come to it’s conclusion.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Empty Nest Empty Nest Empty Nest Dec 29, 2023 Dec 29, 2023 December 2023 Letter Lantern Walk - 2 December 2023 - 18:33 - Peterborough, NH - Taken by Jonah Lantern Walk - 2 December 2023 - 18:33 - Peterborough, NH - Taken by Jonah The year has come to it’s conclusion.
 December 6th marks the anniversary of our being sworn into office for the 168th General Court.
 I wrote a piece earlier in the month for social media entitled ‘One year down, one to go.’ The full piece can be read on my website.
 I do not want to repeat that which has already been written but this last session has been a honor to serve in.
@@ -16,7 +15,7 @@ The term of a member of the House is two years.
 I have not decided whether or not I will run again, because I refuse to allow myself to start campaigning too early.
 Therefore I am doing everything I can to maximize my time left under the golden dome, working for the people.
 I ran to work, not perpetually campaign.
-The primary campaign for President has also started to heat up a bit.
+On the Trail - 16 December 2023 - 15:57 - Littleton, NH - Taken by Wendy Zahler On the Trail - 16 December 2023 - 15:57 - Littleton, NH - Taken by Wendy Zahler The primary campaign for President has also started to heat up a bit.
 Despite the pundits who said that nobody would focus on New Hampshire’s primary, the media has still descended on the State to cover our primary tradition.
 The President made a sore mistake in not participating in the primary.
 The entire political debate is being held by the Republicans.
@@ -43,6 +42,8 @@ We have a strong team of people from all across the country working together to 
 We ran around the State this month holding events in as many places that would have us.
 It was a privilege running around with someone so dedicated to a nation that works for all it’s citizens and not just the elite few.
 Marianne is worth checking out if you have not yet.
+Soel Sistas Event - 27 December 2023 - 20:10 - Nashua, NH - Credit unknown.
+Soel Sistas Event - 27 December 2023 - 20:10 - Nashua, NH - Credit unknown.
 Peter Leishman endorsed Dean Phillips, but we both agreed that we need a new nominee if we are going to be competitive nationally.
 The House had a holiday party in the middle of the month.
 Peterborough did it’s annual holiday proceedings, including the lantern walk and Christmas tree lighting in Putnam park.
@@ -57,5 +58,4 @@ Leaving me the one with the empty nest for the next year.
 I have to be honest, as much as I will miss everybody the prospect of a little peace and quiet is certainly not unwelcome.
 The Christmas season was still full of family, good food, better conversation and those moments of peace which you do your best to savor knowing the drum beat of the next year is around the corner.
 Blessings to all as we usher in the year 2024.
-Until next month,
-Back to all
+Until next month, Marianne - 18 December 2023 - 20:32 - Candia, NH - Taken by Jonah Marianne - 18 December 2023 - 20:32 - Candia, NH - Taken by Jonah ‹ Back to It ‹ Back to It ‹ Back to It Wrapping it up › Wrapping it up › Wrapping it up › Back to all

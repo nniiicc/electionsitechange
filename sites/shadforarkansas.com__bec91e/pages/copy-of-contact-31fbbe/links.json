@@ -1,6 +1,18 @@
 [
-"https://secure.winred.com/shad-pearce-for-state-representative/donate-today",
-"https://shadforarkansas.com/",
-"https://shadforarkansas.com/contact",
-"https://shadforarkansas.com/copy-of-contact"
+{
+"text": "About Shad",
+"href": "https://www.shadforarkansas.com/copy-of-contact"
+},
+{
+"text": "Contact",
+"href": "https://www.shadforarkansas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/shad-pearce-for-state-representative/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.shadforarkansas.com"
+}
 ]

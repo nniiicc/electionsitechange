@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/votedinanina.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSfNY31gRbEzROAruDAwPEfQkRDLw_1O2VQchznyX3LqYY4qhg/viewform",
-"https://facebook.com/votedinanina",
-"https://instagram.com/votedinanina",
-"https://secure.actblue.com/donate/dinanina",
-"https://votedinanina.com/",
-"https://votedinanina.com/about",
-"https://votedinanina.com/cart",
-"https://votedinanina.com/endorsements",
-"https://votedinanina.com/mutualaid",
-"https://votedinanina.com/policy",
-"https://votedinanina.com/volunteer"
+{
+"text": "0",
+"href": "https://www.votedinanina.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votedinanina.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dinanina"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedinanina.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votedinanina.com/"
+},
+{
+"text": "Mutual Aid",
+"href": "https://www.votedinanina.com/mutualaid"
+},
+{
+"text": "Policy",
+"href": "https://www.votedinanina.com/policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votedinanina.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfNY31gRbEzROAruDAwPEfQkRDLw_1O2VQchznyX3LqYY4qhg/viewform"
+},
+{
+"text": "[image: Vote Dina Nina]",
+"href": "https://www.votedinanina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votedinanina.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votedinanina"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votedinanina/"
+}
 ]

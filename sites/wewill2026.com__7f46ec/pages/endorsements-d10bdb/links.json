@@ -1,68 +1,290 @@
 [
-"http://facebook.com/wewill2026",
-"https://act.wewill2026.com/events",
-"https://act.wewill2026.com/volunteer",
-"https://bsky.app/profile/wewill2026.bsky.social",
-"https://instagram.com/wewill2026mi",
-"https://secure.actblue.com/donate/stand-with-william-lawrence",
-"https://secure.actblue.com/donate/william-lawrence-1&refcode=webheader",
-"https://secure.actblue.com/donate/williamlawrence",
-"https://secure.actblue.com/donate/williamlawrence?amount=250",
-"https://secure.actblue.com/donate/williamlawrence?amount=27",
-"https://secure.actblue.com/donate/williamlawrence?amount=50",
-"https://tiktok.com/@wewill2026",
-"https://wewill2026.com/",
-"https://wewill2026.com/about",
-"https://wewill2026.com/endorsements",
-"https://wewill2026.com/home",
-"https://wewill2026.com/media",
-"https://wewill2026.com/privacy-policy",
-"https://wewill2026.com/terms-and-conditions",
-"https://wewill2026.com/updates",
-"https://wewill2026.com/wp-content/uploads/2026/04/20240809_artwork_FINAL_Sunrise_Movement_Die_Cut_Stickers.webp",
-"https://wewill2026.com/wp-content/uploads/2026/04/Kara-Hope-2.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-4.16.13-PM.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-1.26.38-PM.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-4.21.34-PM.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/WFP-WORDMARK-STACKED_working-orange__1.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/emily-s.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/heard.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/04/john-andrews.png",
-"https://wewill2026.com/wp-content/uploads/2026/04/kost.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/04/lynnjondahl-e1777320711598.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/04/track-aipac.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/05/about-senator-bernie-sanders-headshot-376x476-1.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/05/ryan-e1777990257117.png",
-"https://wewill2026.com/wp-content/uploads/2026/06/624bddb6-2270-45bf-9b1a-46719b494b20.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/06/Indivisible_24130056.png",
-"https://wewill2026.com/wp-content/uploads/2026/06/Sierra-Club-Endorsement-Seal_Color-1.png",
-"https://wewill2026.com/wp-content/uploads/2026/06/andy_levin.webp",
-"https://wewill2026.com/wp-content/uploads/2026/06/signal-2026-05-28-211046_002.png",
-"https://wewill2026.com/wp-content/uploads/2026/07/John-Hayhoe-v2.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/07/MAF-smiling-scaled.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/07/images-17.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/07/images-21.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/07/images-4.png",
-"https://wewill2026.com/wp-content/uploads/2026/07/images-6.png",
-"https://wewill2026.com/wp-content/uploads/2026/07/images-7.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/07/lisa-dilg-headshot.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/09/242516424_162447029404155_2723250582697614438_n.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/272394029_309907914506484_2171821463469175324_n.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/09/436772406_814860294011682_4072391434864549282_n.jpg",
-"https://wewill2026.com/wp-content/uploads/2026/09/AWF-Blogo-Logos-Template-400x400_SEIU517M.webp",
-"https://wewill2026.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-3.26.21-PM.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/UFCW-876-Logo.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/image001.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-11.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-12.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-13.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-14.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-15.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-16.png",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-23.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-24.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-25.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-26.jpeg",
-"https://wewill2026.com/wp-content/uploads/2026/09/images-27.jpeg",
-"https://x.com/wewill2026"
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=250"
+},
+{
+"text": "$27",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=27"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/williamlawrence?amount=50"
+},
+{
+"text": "About",
+"href": "https://wewill2026.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/william-lawrence-1&refcode=webheader"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "Endorsements",
+"href": "https://wewill2026.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://act.wewill2026.com/events/"
+},
+{
+"text": "Facebook-f",
+"href": "http://facebook.com/wewill2026"
+},
+{
+"text": "Get Updates",
+"href": "https://wewill2026.com/updates/"
+},
+{
+"text": "Home",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/wewill2026mi"
+},
+{
+"text": "Media",
+"href": "https://wewill2026.com/media/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/williamlawrence"
+},
+{
+"text": "Platform",
+"href": "https://wewill2026.com/#platform"
+},
+{
+"text": "Press inquiries",
+"href": "mailto:communications@wewill2026.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wewill2026.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://wewill2026.com/terms-and-conditions/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@wewill2026"
+},
+{
+"text": "Volunteer",
+"href": "https://act.wewill2026.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/wewill2026"
+},
+{
+"text": "[image: A New Policy PAC] A New Policy PAC",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/images-4.png"
+},
+{
+"text": "[image: IBEW] International Brotherhood of Electrical Workers - Local 665",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/image001.png"
+},
+{
+"text": "[image: International Association of Machinist and Aerospace Workers Local 698] International Association of Machinist and Aerospace Workers Local 698",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-27.jpeg"
+},
+{
+"text": "[image: Jamie Raskin] US Rep. Jamie Raskin",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/images-17.jpeg"
+},
+{
+"text": "[image: Lisa Dilg - South Lyon City Council] Lisa Dilg - South Lyon City Council",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/lisa-dilg-headshot.jpg"
+},
+{
+"text": "[image: Northern Midwest Regional Council of Carpenters] Northern Midwest Regional Council of Carpenters",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-16.png"
+},
+{
+"text": "[image: Office & Professional Employees International Union Local 459] Office & Professional Employees International Union Local 459",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-26.jpeg"
+},
+{
+"text": "[image: Rep. Andy Levin] Andy Levin - Fmr. US Rep. (MI-9)",
+"href": "https://wewill2026.com/wp-content/uploads/2026/06/andy_levin.webp"
+},
+{
+"text": "[image: US Rep Pramila Jayapal] US Rep Pramila Jayapal",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/images-21.jpeg"
+},
+{
+"text": "[image: United Food and Commercial Workers Local 876] United Food and Commercial Workers Local 876",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/UFCW-876-Logo.png"
+},
+{
+"text": "[image: William Lawrence for Congress]",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/stand-with-william-lawrence"
+},
+{
+"text": "[image]",
+"href": "https://wewill2026.com/"
+},
+{
+"text": "[image]",
+"href": "https://wewill2026.com/home"
+},
+{
+"text": "[image] Bernie Sanders - US Senator",
+"href": "https://wewill2026.com/wp-content/uploads/2026/05/about-senator-bernie-sanders-headshot-376x476-1.jpg"
+},
+{
+"text": "[image] Collin Baker - Leslie City Council Member",
+"href": "https://wewill2026.com/wp-content/uploads/2026/06/624bddb6-2270-45bf-9b1a-46719b494b20.jpeg"
+},
+{
+"text": "[image] Common Defense",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/images-6.png"
+},
+{
+"text": "[image] Communications Workers of America",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-12.png"
+},
+{
+"text": "[image] Congressional Progressive Caucus",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-13.png"
+},
+{
+"text": "[image] DCCC Red to Blue List",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-25.jpeg"
+},
+{
+"text": "[image] Dr. Lavontè Heard - Lansing Board of Education",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/heard.jpg"
+},
+{
+"text": "[image] Emily Dievendorf - State Representative",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/emily-s.png"
+},
+{
+"text": "[image] Guillermo Lopez - President, Lansing Board of Education",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-1.26.38-PM.png"
+},
+{
+"text": "[image] Indivisible",
+"href": "https://wewill2026.com/wp-content/uploads/2026/06/Indivisible_24130056.png"
+},
+{
+"text": "[image] Jason Peek - Eaton County Commissioner",
+"href": "https://wewill2026.com/wp-content/uploads/2026/06/signal-2026-05-28-211046_002.png"
+},
+{
+"text": "[image] John Andrews - Clinton County Commissioner",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/john-andrews.png"
+},
+{
+"text": "[image] John Hayhoe - Former Delhi Township Supervisor (R)",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/John-Hayhoe-v2.jpg"
+},
+{
+"text": "[image] Kara Hope - State Representative",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/Kara-Hope-2.png"
+},
+{
+"text": "[image] League of Conversation Voters Action Fund",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-23.jpeg"
+},
+{
+"text": "[image] Lynn Jondahl - Former State Representative",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/lynnjondahl-e1777320711598.jpg"
+},
+{
+"text": "[image] Michigan AFL-CIO",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/436772406_814860294011682_4072391434864549282_n.jpg"
+},
+{
+"text": "[image] National Nurses United",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-4.21.34-PM.png"
+},
+{
+"text": "[image] Planned Parenthood Action Fund",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-14.png"
+},
+{
+"text": "[image] Progressive Change Campaign Committee",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/272394029_309907914506484_2171821463469175324_n.jpg"
+},
+{
+"text": "[image] Reproductive Freedom for All",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-15.png"
+},
+{
+"text": "[image] Ryan Bushard - President, Village of Dansville",
+"href": "https://wewill2026.com/wp-content/uploads/2026/05/ryan-e1777990257117.png"
+},
+{
+"text": "[image] Ryan Kost - Lansing City Council",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/kost.jpg"
+},
+{
+"text": "[image] SEIU 517M",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/AWF-Blogo-Logos-Template-400x400_SEIU517M.webp"
+},
+{
+"text": "[image] Sierra Club",
+"href": "https://wewill2026.com/wp-content/uploads/2026/06/Sierra-Club-Endorsement-Seal_Color-1.png"
+},
+{
+"text": "[image] Social Security Works",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/242516424_162447029404155_2723250582697614438_n.png"
+},
+{
+"text": "[image] State Senator Sarah Anthony",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-3.26.21-PM.png"
+},
+{
+"text": "[image] Sunrise Movement",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/20240809_artwork_FINAL_Sunrise_Movement_Die_Cut_Stickers.webp"
+},
+{
+"text": "[image] Track AIPAC",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/track-aipac.jpg"
+},
+{
+"text": "[image] Trini Pehlivanoglu - Lansing City Council",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-at-4.16.13-PM.png"
+},
+{
+"text": "[image] US Rep. Delia Ramirez",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/images-7.jpeg"
+},
+{
+"text": "[image] US Rep. Maxwell Frost",
+"href": "https://wewill2026.com/wp-content/uploads/2026/07/MAF-smiling-scaled.jpg"
+},
+{
+"text": "[image] United Auto Workers",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-11.png"
+},
+{
+"text": "[image] United Food and Commercial Workers Local 951",
+"href": "https://wewill2026.com/wp-content/uploads/2026/09/images-24.jpeg"
+},
+{
+"text": "[image] Working Families Party",
+"href": "https://wewill2026.com/wp-content/uploads/2026/04/WFP-WORDMARK-STACKED_working-orange__1.png"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/wewill2026.bsky.social"
+}
 ]

@@ -1,18 +1,86 @@
 [
-"https://carriebuckforcongress.com/",
-"https://carriebuckforcongress.com/about",
-"https://carriebuckforcongress.com/endorsements",
-"https://carriebuckforcongress.com/get-involved",
-"https://carriebuckforcongress.com/privacy-policy",
-"https://facebook.com/carriebuckforNV",
-"https://flickr.com/photos/carriebuckforNV",
-"https://instagram.com/carriebuckforNV",
-"https://secure.anedot.com/carriebuck/donate",
-"https://secure.anedot.com/carriebuck/donate?amount=100",
-"https://secure.anedot.com/carriebuck/donate?amount=15",
-"https://secure.anedot.com/carriebuck/donate?amount=25",
-"https://secure.anedot.com/carriebuck/donate?amount=5",
-"https://secure.anedot.com/carriebuck/donate?amount=50",
-"https://twitter.com/carriebuckforNV",
-"https://youtube.com/@CarrieBuckforNV"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/carriebuck/donate?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.anedot.com/carriebuck/donate?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/carriebuck/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/carriebuck/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/carriebuck/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://carriebuckforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://carriebuckforcongress.com/get-involved/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/carriebuck/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://carriebuckforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://carriebuckforcongress.com/"
+},
+{
+"text": "Learn More",
+"href": "https://carriebuckforcongress.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/carriebuck/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carriebuckforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://carriebuckforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Carrie Buck for Congress]",
+"href": "https://carriebuckforcongress.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://carriebuckforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/carriebuckforNV/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarrieBuckforNV"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"http://facebook.com/ChrisKingForAZ",
-"http://instagram.com/ChrisKingForAZ",
-"http://x.com/ChrisKingForAZ",
-"https://chriskingforaz.com/",
-"https://chriskingforaz.com/cart",
-"https://chriskingforaz.com/privacy-policy",
-"https://chriskingforaz.com/terms-and-conditions"
+{
+"text": "0",
+"href": "https://www.chriskingforaz.com/cart"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chriskingforaz.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.chriskingforaz.com/terms-and-conditions"
+},
+{
+"text": "[image: King for State Senate]",
+"href": "https://www.chriskingforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ChrisKingForAZ"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/ChrisKingForAZ"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/ChrisKingForAZ"
+},
+{
+"text": "info@chriskingforaz.com",
+"href": "mailto:info@chriskingforaz.com"
+}
 ]

@@ -1,6 +1,22 @@
 [
-"https://facebook.com/OrestisforMaine",
-"https://maine.gov/ethics/candidates/maine-clean-election-act",
-"https://maine.gov/sos/elections-voting/information-about-voting",
-"https://orestisformaine.com/?hsLang=en"
+{
+"text": "Clean Elections Program",
+"href": "https://www.maine.gov/ethics/candidates/maine-clean-election-act"
+},
+{
+"text": "Maine Voter Information",
+"href": "https://www.maine.gov/sos/elections-voting/information-about-voting"
+},
+{
+"text": "Press & Statements",
+"href": "https://orestisformaine.com?hslang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/OrestisforMaine"
+},
+{
+"text": "info@orestisformaine.com",
+"href": "mailto:info@orestisformaine.com"
+}
 ]

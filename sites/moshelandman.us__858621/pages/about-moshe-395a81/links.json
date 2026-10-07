@@ -1,59 +1,250 @@
 [
-"http://landman-law.com/",
-"http://marylandmetal.us/",
-"http://mmedicinals.com/",
-"https://amazon.com/s?i=digital-text&rh=p_27%3AMoshe%2BLandman&s=relevancerank&text=Moshe+Landman",
-"https://bermanhebrewacademy.org/",
-"https://business.gmu.edu/",
-"https://cbf.org/index.html",
-"https://elections.maryland.gov/elections/2022/general_results/gen_results_2022_6.html",
-"https://elections.maryland.gov/elections/2022/primary_candidates/gen_cand_lists_2022_6_39.html",
-"https://elections.maryland.gov/elections/2024/Primary_candidates/gen_cand_lists_2024_3.html",
-"https://en.wikipedia.org/wiki/Bachelor_of_Artshttps://en.wikipedia.org/wiki/Bachelor_of_Arts",
-"https://en.wikipedia.org/wiki/Barack_Obama",
-"https://en.wikipedia.org/wiki/Israel",
-"https://en.wikipedia.org/wiki/Juris_Doctor",
-"https://en.wikipedia.org/wiki/Maryland",
-"https://en.wikipedia.org/wiki/Maryland%27s_6th_congressional_district",
-"https://en.wikipedia.org/wiki/Master_of_Business_Administration",
-"https://en.wikipedia.org/wiki/Silver_Spring,_Maryland",
-"https://en.wikipedia.org/wiki/United_States_Congress",
-"https://georgetownclimate.org/",
-"https://gmu.edu/",
-"https://google.com/url?q=https%3A%2F%2Fa.co%2Fd%2F3UdhuAt&sa=D&sntz=1&usg=AOvVaw33A0hE-8valmy4bqr2s6Y-",
-"https://google.com/url?q=https%3A%2F%2Fa.co%2Fd%2FbJXkcfs&sa=D&sntz=1&usg=AOvVaw3yRF5fEd6XUeL5bkJAOqzE",
-"https://google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClarksburg%2C_Maryland&sa=D&sntz=1&usg=AOvVaw1yiswpI_2qdjuKIEVUCkZZ",
-"https://google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy",
-"https://google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FJourney-Through-American-Law-Controversies%2Fdp%2FB0F5MDSQKS%2Fref%3Dtmm_hrd_swatch_0%3F_encoding%3DUTF8%26dib_tag%3Dse%26dib%3DeyJ2IjoiMSJ9.xlQvh4Jknyk-Q7NlUikDsNOSWv8vZFBFL5jZ64gNeCFcZ4hmDUris2520zPAruE1.jtJNuRJyOIGusimn09ilkS-nWPze1CAJoTLFzGw1Ebo%26qid%3D1745281496%26sr%3D8-1&sa=D&sntz=1&usg=AOvVaw2qQ2DTf1mbk7GuKldevp8S",
-"https://google.com/url?q=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DY1MMNMV&sa=D&sntz=1&usg=AOvVaw2yuxiSdYPAJjc5EBBfkgSR",
-"https://google.com/url?q=https%3A%2F%2Fwww.mdgreens.org%2F&sa=D&sntz=1&usg=AOvVaw07US05-jg6UjJmVvTjsZai",
-"https://gp.org/",
-"https://gp.org/national_meetings",
-"https://htaa.org/",
-"https://htaa.org/clergy.html",
-"https://iapps.courts.state.ny.us/attorneyservices/search",
-"https://justice.gov/eoir",
-"https://justice.gov/eoir/immigration-court-information",
-"https://law.georgetown.edu/",
-"https://longandfoster.com/",
-"https://mdgreens.org/",
-"https://mdrealtor.org/",
-"https://montgomerycountymd.gov/boards/list.html",
-"https://moshelandman.us/10-key-values",
-"https://moshelandman.us/about-moshe",
-"https://moshelandman.us/contact-us",
-"https://moshelandman.us/documents-evidence",
-"https://moshelandman.us/home",
-"https://moshelandman.us/maryland",
-"https://moshelandman.us/news-social-media",
-"https://moshelandman.us/the-green-new-deal",
-"https://moshelandman.us/the-green-party",
-"https://moshelandman.us/the-issues",
-"https://moshelandman.us/vote-support-us",
-"https://nmlsconsumeraccess.org/EntityDetails.aspx/INDIVIDUAL/2188540",
-"https://rabbinicalassembly.org/",
-"https://umces.edu/",
-"https://washingtonjewishweek.com/gila-landman-remembered-for-positive-attitude-self-discipline",
-"https://wheatonmd.org/",
-"https://yu.edu/"
+{
+"text": "10 Key Values",
+"href": "https://www.moshelandman.us/10-key-values"
+},
+{
+"text": "2024 Virtual Annual National Meeting & Presidential Nominating Convention",
+"href": "https://www.gp.org/national_meetings"
+},
+{
+"text": "About Moshe",
+"href": "https://www.moshelandman.us/about-moshe"
+},
+{
+"text": "Bachelor of Arts",
+"href": "https://en.wikipedia.org/wiki/Bachelor_of_Artshttps://en.wikipedia.org/wiki/Bachelor_of_Arts"
+},
+{
+"text": "Chesapeake Bay Foundation",
+"href": "https://www.cbf.org/index.html"
+},
+{
+"text": "Congregation Har Tzeon-Agudath Achim",
+"href": "https://www.htaa.org/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.moshelandman.us/contact-us"
+},
+{
+"text": "Costello College of Business",
+"href": "https://business.gmu.edu/"
+},
+{
+"text": "Documents & Evidence",
+"href": "https://www.moshelandman.us/documents-evidence"
+},
+{
+"text": "Executive Office for Immigration Review",
+"href": "https://www.justice.gov/eoir"
+},
+{
+"text": "George Mason University",
+"href": "https://www.gmu.edu/"
+},
+{
+"text": "Georgetown Climate Center",
+"href": "https://www.georgetownclimate.org/"
+},
+{
+"text": "Georgetown University Law Center",
+"href": "https://www.law.georgetown.edu/"
+},
+{
+"text": "Gila Landman",
+"href": "https://www.washingtonjewishweek.com/gila-landman-remembered-for-positive-attitude-self-discipline/"
+},
+{
+"text": "Green Party",
+"href": "https://www.gp.org/"
+},
+{
+"text": "Green Party",
+"href": "https://www.mdgreens.org/"
+},
+{
+"text": "Green Party of Maryland",
+"href": "https://www.mdgreens.org/"
+},
+{
+"text": "Hebrew Academy of Greater Washington",
+"href": "https://www.bermanhebrewacademy.org/"
+},
+{
+"text": "Home",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Israel",
+"href": "https://en.wikipedia.org/wiki/Israel"
+},
+{
+"text": "Juris Doctor",
+"href": "https://en.wikipedia.org/wiki/Juris_Doctor"
+},
+{
+"text": "Landman Law",
+"href": "http://www.landman-law.com"
+},
+{
+"text": "Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "Long & Foster",
+"href": "https://www.longandfoster.com/"
+},
+{
+"text": "Maryland",
+"href": "https://www.moshelandman.us/maryland"
+},
+{
+"text": "Maryland Medicinals",
+"href": "http://www.mmedicinals.com"
+},
+{
+"text": "Maryland Metal",
+"href": "http://www.marylandmetal.us"
+},
+{
+"text": "Maryland Realtor",
+"href": "https://www.mdrealtor.org/"
+},
+{
+"text": "Maryland State Senate in District 39",
+"href": "https://elections.maryland.gov/elections/2022/general_results/gen_results_2022_6.html"
+},
+{
+"text": "Maryland's 6th Congressional District.",
+"href": "https://en.wikipedia.org/wiki/Maryland%27s_6th_congressional_district"
+},
+{
+"text": "Maryland,",
+"href": "https://en.wikipedia.org/wiki/Maryland"
+},
+{
+"text": "Master of Business Administration",
+"href": "https://en.wikipedia.org/wiki/Master_of_Business_Administration"
+},
+{
+"text": "Montgomery County Forest Conservation Advisory Committee",
+"href": "https://www.montgomerycountymd.gov/boards/list.html#forest"
+},
+{
+"text": "Moshe has published four books, available on Amazon",
+"href": "https://www.amazon.com/s?i=digital-text&rh=p_27%3AMoshe%2BLandman&s=relevancerank&text=Moshe+Landman"
+},
+{
+"text": "NMLS residential mortgage loan originator",
+"href": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/INDIVIDUAL/2188540"
+},
+{
+"text": "News & Social Media",
+"href": "https://www.moshelandman.us/news-social-media"
+},
+{
+"text": "President Barack Obama",
+"href": "https://en.wikipedia.org/wiki/Barack_Obama"
+},
+{
+"text": "Rabbi Reuben Landman",
+"href": "https://www.htaa.org/clergy.html"
+},
+{
+"text": "Rabbinical Assembly",
+"href": "https://www.rabbinicalassembly.org/"
+},
+{
+"text": "Silver Spring",
+"href": "https://en.wikipedia.org/wiki/Silver_Spring,_Maryland"
+},
+{
+"text": "The Green New Deal",
+"href": "https://www.moshelandman.us/the-green-new-deal"
+},
+{
+"text": "The Green Party",
+"href": "https://www.moshelandman.us/the-green-party"
+},
+{
+"text": "The Issues",
+"href": "https://www.moshelandman.us/the-issues"
+},
+{
+"text": "United States Congress",
+"href": "https://en.wikipedia.org/wiki/United_States_Congress"
+},
+{
+"text": "United States Congress to represent Maryland's 6th Congressional District in 2024",
+"href": "https://elections.maryland.gov/elections/2024/Primary_candidates/gen_cand_lists_2024_3.html"
+},
+{
+"text": "United States Immigration Court",
+"href": "https://www.justice.gov/eoir/immigration-court-information"
+},
+{
+"text": "University of Maryland environmental programs",
+"href": "https://www.umces.edu/"
+},
+{
+"text": "Vote & Support Us",
+"href": "https://www.moshelandman.us/vote-support-us"
+},
+{
+"text": "Wheaton",
+"href": "https://www.wheatonmd.org/"
+},
+{
+"text": "Yeshiva University",
+"href": "https://www.yu.edu/"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fa.co%2Fd%2F3UdhuAt&sa=D&sntz=1&usg=AOvVaw33A0hE-8valmy4bqr2s6Y-"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fa.co%2Fd%2FbJXkcfs&sa=D&sntz=1&usg=AOvVaw3yRF5fEd6XUeL5bkJAOqzE"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FClarksburg%2C_Maryland&sa=D&sntz=1&usg=AOvVaw1yiswpI_2qdjuKIEVUCkZZ"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSeal_of_Maryland&sa=D&sntz=1&usg=AOvVaw3EuY51slqPIbq4OgK5kEZy"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FJourney-Through-American-Law-Controversies%2Fdp%2FB0F5MDSQKS%2Fref%3Dtmm_hrd_swatch_0%3F_encoding%3DUTF8%26dib_tag%3Dse%26dib%3DeyJ2IjoiMSJ9.xlQvh4Jknyk-Q7NlUikDsNOSWv8vZFBFL5jZ64gNeCFcZ4hmDUris2520zPAruE1.jtJNuRJyOIGusimn09ilkS-nWPze1CAJoTLFzGw1Ebo%26qid%3D1745281496%26sr%3D8-1&sa=D&sntz=1&usg=AOvVaw2qQ2DTf1mbk7GuKldevp8S"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DY1MMNMV&sa=D&sntz=1&usg=AOvVaw2yuxiSdYPAJjc5EBBfkgSR"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.mdgreens.org%2F&sa=D&sntz=1&usg=AOvVaw07US05-jg6UjJmVvTjsZai"
+},
+{
+"text": "[image]",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "[image]Landman for Congress",
+"href": "https://www.moshelandman.us/home"
+},
+{
+"text": "candidate",
+"href": "https://elections.maryland.gov/elections/2022/primary_candidates/gen_cand_lists_2022_6_39.html"
+},
+{
+"text": "licensed attorney and registered member of the New York State Bar",
+"href": "https://iapps.courts.state.ny.us/attorneyservices/search?1="
+},
+{
+"text": "membership #5368303",
+"href": "https://iapps.courts.state.ny.us/attorneyservices/search?0="
+}
 ]

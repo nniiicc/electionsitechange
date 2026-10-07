@@ -1,29 +1,150 @@
 [
-"http://facebook.com/BakerforOhio",
-"https://bakerforohio.com/",
-"https://bakerforohio.com/contact",
-"https://bakerforohio.com/contribute",
-"https://bakerforohio.com/events",
-"https://bakerforohio.com/home",
-"https://bakerforohio.com/issues",
-"https://bakerforohio.com/issues/EducationWorkforceDevelopment",
-"https://bakerforohio.com/issues/environmental-protections-clean-energy",
-"https://bakerforohio.com/issues/fairness-accountability-ending-unjust-tort-caps-in-ohio",
-"https://bakerforohio.com/issues/government-transparency-accountability",
-"https://bakerforohio.com/issues/healthcare-access-lowering-costs",
-"https://bakerforohio.com/issues/infrastructure-public-safety",
-"https://bakerforohio.com/issues/lgbtq-rights-individual-freedoms",
-"https://bakerforohio.com/issues/lowering-the-cost-of-living-housing-affordability",
-"https://bakerforohio.com/issues/voting-rights-fair-elections",
-"https://bakerforohio.com/issues/workers-rights-strong-unions",
-"https://bakerforohio.com/meet_mike",
-"https://bakerforohio.com/news",
-"https://bakerforohio.com/photos",
-"https://bakerforohio.com/view-endorsements",
-"https://bakerforohio.com/volunteer",
-"https://bakerforohio.com/vote",
-"https://bakerforohio.com/yard-sign",
-"https://campaignpartner.com/",
-"https://instagram.com/bakerforohio",
-"https://x.com/BakerforOhio"
+{
+"text": "Contact",
+"href": "https://bakerforohio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://bakerforohio.com/contribute"
+},
+{
+"text": "Education & Workforce Development",
+"href": "https://bakerforohio.com/issues/EducationWorkforceDevelopment"
+},
+{
+"text": "Endorsements",
+"href": "https://bakerforohio.com/view-endorsements"
+},
+{
+"text": "Environmental Protections & Clean Energy",
+"href": "https://bakerforohio.com/issues/environmental-protections-clean-energy"
+},
+{
+"text": "Events",
+"href": "https://bakerforohio.com/events"
+},
+{
+"text": "Fairness & Accountability: Ending Unjust Tort Caps in Ohio",
+"href": "https://bakerforohio.com/issues/fairness-accountability-ending-unjust-tort-caps-in-ohio"
+},
+{
+"text": "Government Transparency & Accountability",
+"href": "https://bakerforohio.com/issues/government-transparency-accountability"
+},
+{
+"text": "Healthcare Access & Lowering Costs",
+"href": "https://bakerforohio.com/issues/healthcare-access-lowering-costs"
+},
+{
+"text": "Home",
+"href": "https://bakerforohio.com/home"
+},
+{
+"text": "Infrastructure & Public Safety",
+"href": "https://bakerforohio.com/issues/infrastructure-public-safety"
+},
+{
+"text": "Issues",
+"href": "https://bakerforohio.com/issues"
+},
+{
+"text": "LGBTQ+ Rights & Individual Freedoms",
+"href": "https://bakerforohio.com/issues/lgbtq-rights-individual-freedoms"
+},
+{
+"text": "Lowering the Cost of Living & Housing Affordability",
+"href": "https://bakerforohio.com/issues/lowering-the-cost-of-living-housing-affordability"
+},
+{
+"text": "Meet Mike",
+"href": "https://bakerforohio.com/meet_mike"
+},
+{
+"text": "News",
+"href": "https://bakerforohio.com/news"
+},
+{
+"text": "Photos",
+"href": "https://bakerforohio.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/EducationWorkforceDevelopment"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/environmental-protections-clean-energy"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/fairness-accountability-ending-unjust-tort-caps-in-ohio"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/government-transparency-accountability"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/healthcare-access-lowering-costs"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/infrastructure-public-safety"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/lgbtq-rights-individual-freedoms"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/lowering-the-cost-of-living-housing-affordability"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/voting-rights-fair-elections"
+},
+{
+"text": "Read More",
+"href": "https://bakerforohio.com/issues/workers-rights-strong-unions"
+},
+{
+"text": "Volunteer",
+"href": "https://bakerforohio.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://bakerforohio.com/vote"
+},
+{
+"text": "Voting Rights & Fair Elections",
+"href": "https://bakerforohio.com/issues/voting-rights-fair-elections"
+},
+{
+"text": "Workers’ Rights & Strong Unions",
+"href": "https://bakerforohio.com/issues/workers-rights-strong-unions"
+},
+{
+"text": "Yard Signs",
+"href": "https://bakerforohio.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://bakerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/BakerforOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bakerforohio"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/BakerforOhio"
+}
 ]

@@ -1,4 +1,4 @@
-April 6, 2023 Delegate Robbyn Lewis joined Andrea Learned to talk about how improving transit is absolutely a social justice issue.
+Skip to content RobbynLewis.com About Open menu Priorities Robbyn’s Story Services Open menu Request Help About District 46 Initiatives Open menu Livable Streets Coalition Zero Waste Task Force Press Donate Category: Safe Streets Living Change Podcast: Transit, Democracy, and Coalition Building April 6, 2023 Delegate Robbyn Lewis joined Andrea Learned to talk about how improving transit is absolutely a social justice issue.
 Delegate Lewis makes a great case for really understanding the tools of community engagement and coalition building.
 “You know, it’s all connected.
-Fixing public transit is one of the most powerful ways that we… Continue reading Living Change Podcast: Transit, Democracy, and Coalition Building
+Fixing public transit is one of the most powerful ways that we… Continue reading Living Change Podcast: Transit, Democracy, and Coalition Building Published August 22, 2023 Categorized as Environment , In the Media , News , Safe Streets , Transportation Tagged News , Transit @robbynlewis46th @robbynlewis46th info@robbynlewis.com 410.929.0555 Privacy Policy Authority: Friends of Robbyn Lewis, Tracey Lynn Lewis, Treasurer

@@ -1,9 +1,30 @@
 [
-"https://bridgetformissouri.com/",
-"https://bridgetformissouri.com/about",
-"https://bridgetformissouri.com/cart",
-"https://bridgetformissouri.com/endorsements",
-"https://bridgetformissouri.com/get-involved",
-"https://bridgetformissouri.com/issues",
-"https://secure.actblue.com/donate/bridget-walsh-moore-1"
+{
+"text": "0",
+"href": "https://www.bridgetformissouri.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bridgetformissouri.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bridget-walsh-moore-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bridgetformissouri.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bridgetformissouri.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.bridgetformissouri.com/issues"
+},
+{
+"text": "[image: Bridget Walsh Moore]",
+"href": "https://www.bridgetformissouri.com/"
+}
 ]

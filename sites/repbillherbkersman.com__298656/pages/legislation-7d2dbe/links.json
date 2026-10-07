@@ -1,37 +1,194 @@
 [
-"https://buy.stripe.com/dR603k7pp8RlbQY9AA",
-"https://facebook.com/repbillherbkersman",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/PPI_2022_Compliance%20one-pager%20(4)%20(1).pdf",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20-%202022%20Update%20(Members).pdf",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20Legislative%20Update%20'23.pdf",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Caucus-Finalized%20State%20Budget%20June%202022.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2011%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2012%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2013%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2014%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2015%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%204%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%205%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%206%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%207%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%208%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%209%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149",
-"https://instagram.com/billherbkersman",
-"https://repbillherbkersman.com/",
-"https://repbillherbkersman.com/about-bill",
-"https://repbillherbkersman.com/contact-us",
-"https://repbillherbkersman.com/issues",
-"https://repbillherbkersman.com/legislation",
-"https://repbillherbkersman.com/news",
-"https://repbillherbkersman.com/resources",
-"https://scfirefighters.org/sccancerbill",
-"https://scpolicycouncil.org/weekly-calendar",
-"https://scstatehouse.gov/sess123_2019-2020/bills/3020.htm",
-"https://scstatehouse.gov/sess124_2021-2022/bills/3230.htm",
-"https://scstatehouse.gov/sess124_2021-2022/bills/3361.htm",
-"https://scstatehouse.gov/sess124_2021-2022/bills/3620.htm",
-"https://sctelehealth.org/",
-"https://wfxg.com/story/46397516/sc-legislatures-introduce-bill-to-legalize-sports-betting",
-"https://x.com/HerbkersmanBill"
+{
+"text": "About Bill",
+"href": "https://repbillherbkersman.com/about-bill"
+},
+{
+"text": "Caucus-Finalized State Budget June 2022 (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Caucus-Finalized%20State%20Budget%20June%202022.pdf?ver=1774660126149"
+},
+{
+"text": "Contact Us",
+"href": "https://repbillherbkersman.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://buy.stripe.com/dR603k7pp8RlbQY9AA"
+},
+{
+"text": "Find out more",
+"href": "https://scpolicycouncil.org/weekly-calendar"
+},
+{
+"text": "Home",
+"href": "https://repbillherbkersman.com/"
+},
+{
+"text": "Issues",
+"href": "https://repbillherbkersman.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://scfirefighters.org/sccancerbill/"
+},
+{
+"text": "Learn More",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3361.htm"
+},
+{
+"text": "Learn More",
+"href": "https://www.sctelehealth.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3620.htm"
+},
+{
+"text": "Legislation",
+"href": "https://repbillherbkersman.com/legislation"
+},
+{
+"text": "News",
+"href": "https://repbillherbkersman.com/news"
+},
+{
+"text": "Resources",
+"href": "https://repbillherbkersman.com/resources"
+},
+{
+"text": "See More",
+"href": "https://repbillherbkersman.com/legislation#482a4891-64e7-4249-adb3-1d84f798c063"
+},
+{
+"text": "View or Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/PPI_2022_Compliance%20one-pager%20(4)%20(1).pdf"
+},
+{
+"text": "View or Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20-%202022%20Update%20(Members).pdf"
+},
+{
+"text": "View or Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20Legislative%20Update%20'23.pdf"
+},
+{
+"text": "Week 11 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2011%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 12 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2012%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 13 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2013%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 14 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2014%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 15 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%2015%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 4 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%204%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 5 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%205%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 6 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%206%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 7 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%207%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 8 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%208%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "Week 9 - SCHRC Legislative Update (pdf)Download",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/downloads/Week%209%20-%20SCHRC%20Legislative%20Update.pdf?ver=1774660126149"
+},
+{
+"text": "[image: Rep. Bill Herbkersman]",
+"href": "https://repbillherbkersman.com/"
+},
+{
+"text": "[image]",
+"href": "https://scpolicycouncil.org/weekly-calendar"
+},
+{
+"text": "[image]",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3020.htm"
+},
+{
+"text": "[image]",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3230.htm"
+},
+{
+"text": "[image]",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3361.htm"
+},
+{
+"text": "[image]",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3620.htm"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/PPI_2022_Compliance%20one-pager%20(4)%20(1).pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20-%202022%20Update%20(Members).pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/e6c275b0-368a-472d-bfc7-bb0ef4ccbe15/Week%201%20Legislative%20Update%20'23.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repbillherbkersman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billherbkersman"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/HerbkersmanBill"
+},
+{
+"text": "learn more",
+"href": "https://www.scstatehouse.gov/sess123_2019-2020/bills/3020.htm"
+},
+{
+"text": "learn more",
+"href": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3230.htm"
+},
+{
+"text": "read More",
+"href": "https://repbillherbkersman.com/legislation#5826d4dd-23f2-4312-980d-581638648b50"
+},
+{
+"text": "read more",
+"href": "https://repbillherbkersman.com/legislation#ca1af9cb-f455-469f-98e0-5b247f5f4eca"
+},
+{
+"text": "read more",
+"href": "https://www.wfxg.com/story/46397516/sc-legislatures-introduce-bill-to-legalize-sports-betting"
+},
+{
+"text": "top of page",
+"href": "https://repbillherbkersman.com/legislation"
+}
 ]

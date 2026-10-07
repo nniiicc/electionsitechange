@@ -1,7 +1,11 @@
 {
  "description": "Mike Baker Campaign Events",
  "final_url": "https://bakerforohio.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "695d5791a652915706b9ea844250c5990478a7ce",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Baker Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

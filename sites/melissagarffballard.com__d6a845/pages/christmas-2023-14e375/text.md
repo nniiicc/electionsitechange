@@ -1,90 +1,45 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: Christmas Newsletter |
-| |
-| Dear Friends and Neighbors, Thank you for the many efforts of service you are rendering this time of year.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session *|MC_PREVIEW_TEXT|* CHECKING IN AT THE LEGISLATURE: Christmas Newsletter Dear Friends and Neighbors, Thank you for the many efforts of service you are rendering this time of year.
 As we reflect on the blessings and opportunities we have living in Utah, this is a time to give generously and serve the many in need.
 Bountiful Food Pantry needs your help!
 The Bountiful Food Pantry is feeding more than double the number of families from just two years ago!
-In November the Bountiful Food Pantry provided groceries to over 8,000 people in need.The pantry only has enough supplies to last until January.
-Learn how you can help here.
-Warmest regards, Melissa Ballard |
-| |
-| |
-| Helpful Links |
-| |
-| |
-| |
-| In this Issue: Legislative News: Legislative policy priorities, how the Utah legislature is supporting our educators Community News: Municipal election results, happiest state in the nation, tribute to President M.
-Russell Ballard, Merry Christmas |
-| |
-| |
-| |
-| |
-| Legislative Policy Priorities 2024 |
-| |
-| The Utah House of Representatives' 2024 Policy Priorities focuses on key areas for the upcoming session.
+In November the Bountiful Food Pantry provided groceries to over 8,000 people in need.
+The pantry only has enough supplies to last until January.
+Learn how you can help here .
+Warmest regards, Melissa Ballard Helpful Links See the November Interim highlights here and all other interims here See the dates of the upcoming 2024 Legislative Session here See the budget for 2024 h ere See policy priorities for 2024 here Safe Harbor resources for women experiencing abuse In this Issue: Legislative News: Legislative policy priorities, how the Utah legislature is supporting our educators Community News: Municipal election results, happiest state in the nation, tribute to President M.
+Russell Ballard, Merry Christmas Legislative Policy Priorities 2024 The Utah House of Representatives' 2024 Policy Priorities focuses on key areas for the upcoming session.
 Emphasizing representation and support for families, the caucus aims to champion pro-family policies, fiscal prudence, and lower the cost of living.
-It encompasses diverse issues such as healthcare, education, natural resource management, government accountability, public safety, infrastructure development, sustainability, and ensuring a prosperous future for Utah. |
-| |
-| |
-| Supporting our Educators |
-| |
-| During this past session, my colleagues and I passed the largest single teacher pay raise in state history and teachers across Utah are already benefiting.
+It encompasses diverse issues such as healthcare, education, natural resource management, government accountability, public safety, infrastructure development, sustainability, and ensuring a prosperous future for Utah.
+Supporting our Educators During this past session, my colleagues and I passed the largest single teacher pay raise in state history and teachers across Utah are already benefiting.
 In total, the Legislature allocated nearly $5.6 billion toward public education.
 We know that education is the key to upward mobility and I remain committed to setting our students and teachers up for success.
-You can learn more here. |
-| |
-| |
-| |
-| |
-| Winners of the Bountiful, North Salt Lake, and Woods Cross Municipal Elections |
-| |
-| Congratulations to the newly elected City Council members: Bountiful: Matt Murri, Richard Higginson, Katie Bradshaw North Salt Lake: Tammy Clayton, Ted Knowlton, Suzette Jackson Woods Cross: Julie Checketts, Matthew Terry, Wallace Larrabee |
-| |
-| |
-| Happiest State in the Nation |
-| |
-| Utah was recently named the happiest state in the nation.
+You can learn more here .
+Winners of the Bountiful, North Salt Lake, and Woods Cross Municipal Elections Congratulations to the newly elected City Council members: Bountiful : Matt Murri, Richard Higginson, Katie Bradshaw North Salt Lake : Tammy Clayton, Ted Knowlton, Suzette Jackson Woods Cross : Julie Checketts, Matthew Terry, Wallace Larrabee Happiest State in the Nation Utah was recently named the happiest state in the nation .
 From stunning landscapes to unparalleled opportunities, what truly sets Utah apart is its incredible people and communities.
-I am grateful for the chance to serve this wonderful state. |
-| |
-| |
-| Gratitude for the life of President M.
-Russell Ballard |
-| |
-| As many of you may be aware, my father-in-law President M.
+I am grateful for the chance to serve this wonderful state.
+Gratitude for the life of President M.
+Russell Ballard As many of you may be aware, my father-in-law President M.
 Russell Ballard recently passed away.
 He led a life of service and was a friend to all he knew.
 He loved this community and dedicated his life to creating bridges of understanding between those of all faiths and nationalities.
 He will be dearly missed.
 Here are two of my favorite quotes of his: “Be involved; be informed.
-Make meaningful contributions to society through service and involvement.” “If we are truly disciples of the Lord Jesus Christ, we will reach out with love and understanding to all of our neighbors at all times.” |
-| |
-| |
-| |
-| Merry Christmas |
-| |
-| I want to wish all of you a wonderful and joyous holiday season filled with cherished moments with loved ones.
+Make meaningful contributions to society through service and involvement.” “If we are truly disciples of the Lord Jesus Christ, we will reach out with love and understanding to all of our neighbors at all times.” Merry Christmas I want to wish all of you a wonderful and joyous holiday season filled with cherished moments with loved ones.
 Your continued support and community spirit make this season even brighter and better.
-Happy holidays to each and every one of you! |
-| |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| This email was sent to *\|EMAIL\|* why did I get this? unsubscribe from this list update subscription preferences *\|LIST:ADDRESSLINE\|* |
+Happy holidays to each and every one of you!
+Learn More About Melissa Facebook Instagram Email This email was sent to *|EMAIL|* why did I get this? unsubscribe from this list update subscription preferences *|LIST:ADDRESSLINE|* Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

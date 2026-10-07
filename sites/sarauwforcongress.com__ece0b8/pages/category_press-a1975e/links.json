@@ -1,41 +1,230 @@
 [
-"http://politicia-demo.pbminfotech.com/demo1",
-"https://facebook.com/JanelleKSarauw",
-"https://instagram.com/teamsarauw",
-"https://sarauwforcongress.com/",
-"https://sarauwforcongress.com/a-beautiful-politician-for-thinkers-dreamers",
-"https://sarauwforcongress.com/about",
-"https://sarauwforcongress.com/author/admin_gqm50n68",
-"https://sarauwforcongress.com/blog-classic",
-"https://sarauwforcongress.com/category/election",
-"https://sarauwforcongress.com/category/events",
-"https://sarauwforcongress.com/category/politics",
-"https://sarauwforcongress.com/category/press",
-"https://sarauwforcongress.com/category/social",
-"https://sarauwforcongress.com/category/statement",
-"https://sarauwforcongress.com/contact-us",
-"https://sarauwforcongress.com/faq",
-"https://sarauwforcongress.com/full-platform",
-"https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament",
-"https://sarauwforcongress.com/our-history",
-"https://sarauwforcongress.com/our-humanity-of-preparing-youth-for-success",
-"https://sarauwforcongress.com/president-deflects-on-claims-of-senate-attempt",
-"https://sarauwforcongress.com/principle-stability-in-the-future-with-activity",
-"https://sarauwforcongress.com/service/healthcare-medicaid",
-"https://sarauwforcongress.com/service/prescription-drug-costs",
-"https://sarauwforcongress.com/service/rum-cover-over-gers",
-"https://sarauwforcongress.com/service/veterans-care",
-"https://sarauwforcongress.com/services",
-"https://sarauwforcongress.com/tag/climate",
-"https://sarauwforcongress.com/tag/defence",
-"https://sarauwforcongress.com/tag/defense",
-"https://sarauwforcongress.com/tag/energy",
-"https://sarauwforcongress.com/tag/press",
-"https://sarauwforcongress.com/tag/security",
-"https://sarauwforcongress.com/tag/success",
-"https://sarauwforcongress.com/tag/vote",
-"https://secure.actblue.com/donate/sarauw26for26",
-"https://statcounter.com/",
-"https://tiktok.com/@sarauw.for.congress",
-"https://whatsapp.com/channel/0029Vb7dyngEQIamNyZLt70Z"
+{
+"text": "A Beautiful politician For Thinkers & Dreamers",
+"href": "https://sarauwforcongress.com/a-beautiful-politician-for-thinkers-dreamers/"
+},
+{
+"text": "About",
+"href": "https://sarauwforcongress.com/about/"
+},
+{
+"text": "Blog Classic",
+"href": "https://sarauwforcongress.com/blog-classic/"
+},
+{
+"text": "Call for help: +1 340-642-0876",
+"href": "tel:+1%20340-642-0876"
+},
+{
+"text": "Climate",
+"href": "https://sarauwforcongress.com/tag/climate/"
+},
+{
+"text": "Contact Us",
+"href": "https://sarauwforcongress.com/contact-us/"
+},
+{
+"text": "Defence",
+"href": "https://sarauwforcongress.com/tag/defence/"
+},
+{
+"text": "Defense",
+"href": "https://sarauwforcongress.com/tag/defense/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/sarauw26for26"
+},
+{
+"text": "E-mail us: info@sarauwforcongress.com",
+"href": "mailto:info@sarauwforcongress.com"
+},
+{
+"text": "Election",
+"href": "https://sarauwforcongress.com/category/election/"
+},
+{
+"text": "Energy",
+"href": "https://sarauwforcongress.com/tag/energy/"
+},
+{
+"text": "Events",
+"href": "https://sarauwforcongress.com/category/events/"
+},
+{
+"text": "FAQ",
+"href": "https://sarauwforcongress.com/faq/"
+},
+{
+"text": "Full Platform",
+"href": "https://sarauwforcongress.com/full-platform/"
+},
+{
+"text": "Healthcare & Medicaid",
+"href": "https://sarauwforcongress.com/service/healthcare-medicaid/"
+},
+{
+"text": "Home",
+"href": "https://sarauwforcongress.com/"
+},
+{
+"text": "How to invent a law & pass it in parliament",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "Issues",
+"href": "https://sarauwforcongress.com/services/"
+},
+{
+"text": "July 20, 2020",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+},
+{
+"text": "June 10, 2020",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "May 26, 2020",
+"href": "https://sarauwforcongress.com/president-deflects-on-claims-of-senate-attempt/"
+},
+{
+"text": "May 31, 2020",
+"href": "https://sarauwforcongress.com/our-humanity-of-preparing-youth-for-success/"
+},
+{
+"text": "Our History",
+"href": "https://sarauwforcongress.com/our-history/"
+},
+{
+"text": "Our humanity of Preparing Youth for Success",
+"href": "https://sarauwforcongress.com/our-humanity-of-preparing-youth-for-success/"
+},
+{
+"text": "Politicia",
+"href": "http://politicia-demo.pbminfotech.com/demo1/"
+},
+{
+"text": "Politics",
+"href": "https://sarauwforcongress.com/category/politics/"
+},
+{
+"text": "Prescription Drug Costs",
+"href": "https://sarauwforcongress.com/service/prescription-drug-costs/"
+},
+{
+"text": "President deflects on claims of senate attempt",
+"href": "https://sarauwforcongress.com/president-deflects-on-claims-of-senate-attempt/"
+},
+{
+"text": "Press",
+"href": "https://sarauwforcongress.com/category/press/"
+},
+{
+"text": "Press",
+"href": "https://sarauwforcongress.com/tag/press/"
+},
+{
+"text": "Principle stability in the future with activity",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+},
+{
+"text": "Read More",
+"href": "https://sarauwforcongress.com/a-beautiful-politician-for-thinkers-dreamers/"
+},
+{
+"text": "Read More",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "Rum Cover-Over & GERS",
+"href": "https://sarauwforcongress.com/service/rum-cover-over-gers/"
+},
+{
+"text": "Sarauw For Congress",
+"href": "https://sarauwforcongress.com"
+},
+{
+"text": "Security",
+"href": "https://sarauwforcongress.com/tag/security/"
+},
+{
+"text": "Social",
+"href": "https://sarauwforcongress.com/category/social/"
+},
+{
+"text": "Statement",
+"href": "https://sarauwforcongress.com/category/statement/"
+},
+{
+"text": "Success",
+"href": "https://sarauwforcongress.com/tag/success/"
+},
+{
+"text": "Veterans Care",
+"href": "https://sarauwforcongress.com/service/veterans-care/"
+},
+{
+"text": "Vote",
+"href": "https://sarauwforcongress.com/tag/vote/"
+},
+{
+"text": "[image: Sarauw For Congress]",
+"href": "https://sarauwforcongress.com/"
+},
+{
+"text": "[image: web analytics]",
+"href": "https://statcounter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://sarauwforcongress.com/a-beautiful-politician-for-thinkers-dreamers/"
+},
+{
+"text": "[no text]",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JanelleKSarauw"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamsarauw/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sarauw.for.congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.whatsapp.com/channel/0029Vb7dyngEQIamNyZLt70Z"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/JanelleKSarauw"
+},
+{
+"text": "[tooltip: How to invent a law & pass it in parliament]",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/teamsarauw/"
+},
+{
+"text": "[tooltip: Our humanity of Preparing Youth for Success]",
+"href": "https://sarauwforcongress.com/our-humanity-of-preparing-youth-for-success/"
+},
+{
+"text": "[tooltip: President deflects on claims of senate attempt]",
+"href": "https://sarauwforcongress.com/president-deflects-on-claims-of-senate-attempt/"
+},
+{
+"text": "[tooltip: Principle stability in the future with activity]",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+},
+{
+"text": "admin",
+"href": "https://sarauwforcongress.com/author/admin_gqm50n68/"
+}
 ]

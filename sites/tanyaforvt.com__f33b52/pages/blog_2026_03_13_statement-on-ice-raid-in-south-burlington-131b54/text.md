@@ -1,5 +1,4 @@
-Statement on ICE Raid in South Burlington
-Wednesday morning I was notified of ICE activity in S.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Statement on ICE Raid in South Burlington Safety Mar 13 Written By Wednesday morning I was notified of ICE activity in S.
 Burlington and as soon as my work at the Statehouse was done I drove there to stand with not only those I represent, but the entire community who stepped in to protect the rights of fellow community members.
 Early in the morning, ICE was tracking a car that had previously belonged to a Mexican citizen they had an administrative – not criminal – warrant for.
 The driver was not the person named in the administrative warrant and was terrified to be surrounded by unmarked SUVs.
@@ -15,8 +14,10 @@ Community members were injured, and many are now traumatized and afraid.
 ICE agents used pepper spray and tear gas without provocation, drove into groups of people, and attempted to run over incapacitated protesters.
 I watched agents rip off community members’ masks and spray irritants directly in their faces just because they could.
 Their violent, erratic and dangerous behavior did absolutely nothing to make our community safer, and now three people who have committed no crime are detained and senselessly separated from their children.
-As a state Senator, I call for the immediate investigation into state and local law enforcement’s role in this operation, and I again call for the passing of S. 208, which will make the use of face masks and lack of identification illegal for law enforcement operating in the state in most instances.
+As a state Senator, I call for the immediate investigation into state and local law enforcement’s role in this operation, and I again call for the passing of S.
+208, which will make the use of face masks and lack of identification illegal for law enforcement operating in the state in most instances.
 As a Vermonter, I am exhausted, I am sad, and I’m concerned for the safety of my community.
 What happened Wednesday was not only reckless and dangerous, it was a complete waste of resources that are desperately needed elsewhere.
 I hope this is a wake up call for many who didn’t believe this could happen here.
 Now it’s time to do better.
+Previous Previous Reflections from the Campaign Kickoff Next Next 2026 Mid-Session Update Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

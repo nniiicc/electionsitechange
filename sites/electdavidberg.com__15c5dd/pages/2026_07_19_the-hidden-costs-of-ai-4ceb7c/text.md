@@ -1,4 +1,5 @@
-I’m an AI skeptic.
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box The Hidden Costs of AI Posted on July 19, 2026 by David Berg Leave a Comment I’m an AI skeptic.
 While it can have its uses, I’m very concerned about the external costs being paid by our communities because of the rush to embrace AI.
 Power and water demands to run the data centers that AI systems require are increasing costs for everyone, and often those costs are falling disproportionately on those communities who are already at-risk and can least afford it.
 Some communities have seen data centers create noise pollution issues, while research has also shown that they’ve created heat islands.
@@ -23,3 +24,7 @@ It’s a tool, not a manager, and should be treated as a tool and not a final au
 I’ve seen it said that on topics people aren’t familiar with, AI can seem 100% reliable, while on topics they are familiar with it’s only about 20% accurate.
 We’ve all seen stories of what’s been dubbed to be “AI hallucinations,” citing articles that don’t exist, court cases that don’t exist, or the infamous four and six fingered hands that were all too common in AI generated imagery.
 AIs will get more refined, but that doesn’t change concerns about their value and their role.
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Uncategorized Tags: 25th Legislative District , AI , Equity , Ethics , Heat Island , Skeptic , Washington State Legislature ← Diversity, Equity, and Inclusion David Berg is the Right Choice for the 25th LD → Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

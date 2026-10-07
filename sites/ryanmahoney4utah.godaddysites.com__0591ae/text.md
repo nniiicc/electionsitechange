@@ -1,10 +1,5 @@
-- RyanMahoney4utah.godaddysites.com - Last Updated - 9/30/2026 -
-Republican Nominee for Utah State Senate District 13
-I’m a life long Utahn and proud resident of West Valley City.
-I’m running for Utah State Senate district 13 because I believe in protecting what makes our State strong
-"safe neighborhoods, thriving families, and smart growth that honors our values."
-Raised in UTAH
-Growing up, I moved frequently and attended several schools across Utah, including Lake Ridge Elementary (Magna), Monroe and Farnsworth Elementary (West Valley City), Mountain Shadows Elementary (West Jordan).
+- RyanMahoney4utah.godaddysites.com - Last Updated - 9/30/2026 - Home Event calendars Photo Gallery UPDATES More Home Event calendars Photo Gallery UPDATES Donate Today Home Event calendars Photo Gallery UPDATES Donate Today Welcome, Meet Ryan L Mahoney Republican Nominee for Utah State Senate District 13 I’m a life long Utahn and proud resident of West Valley City.
+I’m running for Utah State Senate district 13 because I believe in protecting what makes our State strong "safe neighborhoods, thriving families, and smart growth that honors our values." Raised in UTAH Growing up, I moved frequently and attended several schools across Utah, including Lake Ridge Elementary (Magna), Monroe and Farnsworth Elementary (West Valley City), Mountain Shadows Elementary (West Jordan).
 I went on to Brockbank Junior High in Magna and attended Cyprus High School and Clearfield Job Corps, where I Completed my GED, Diploma and studied business.
 Following my studies, I spent several years working as a mechanic and A.S.E. certified automotive technician, eventually transitioning into management roles within the Company.
 Throughout my career, I’ve overcome personal health challenges, staying committed to growth and living life to its fullest.
@@ -12,27 +7,27 @@ Education and public service were strong values in my family.
 Both of my parents dedicated many years to the Granite School District—my father, Patrick Mahoney, worked as a custodian at several schools before retiring from Fox Hills Elementary, and my mother, Georgia Vallejos, served years as principal’s secretary at Cyprus High School, retiring from the same district.
 I am currently pursuing pre-law studies while working toward a lighter-than-air pilot’s license and certifications in aviation inspection and repair.
 I remain active in my community and hope to earn the privilege of serving on the Utah State Senate.
-As an Automotive Fleet repair Manager, Member of the National Balloon Federation of America's Student CAAP Training Committee , Elected County Delegate, Precinct Chairman and Central Region Chair of the County GOP, I’ve had the opportunity to meet and build relationships with elected leaders and local business owners at multiple levels.
+Local Impact & Key Issues Republican Nominee for Utah State Senate District 13 As an Automotive Fleet repair Manager, Member of the National Balloon Federation of America's Student CAAP Training Committee , Elected County Delegate, Precinct Chairman and Central Region Chair of the County GOP , I’ve had the opportunity to meet and build relationships with elected leaders and local business owners at multiple levels.
 These connections have positioned me to serve effectively and advocate for our community.
 I successfully led a petition on behalf of local businesses opposing a high-density development construction site that was negatively impacting the area—an effort that reached Mayor Erin Mendenhall’s office and helped bring much-needed relief.
 I also led a safety visibility audit of the 300 West bike lane corridor and submitted a supplementary audit of the ballot processing system in coordination with the Lieutenant Governor’s Office, helping identify and address a gap in our statewide voting system.
 By regularly attending West Valley City Council meetings, I’ve worked to ensure residents’ voices are heard, bringing forward real concerns and helping shape local decision-making.
 If elected, I will bring that same level of effectiveness, diligence, and accountability to serving Utah State Senate District 13.
-I’m committed to:
-- Balanced Housing: Supporting affordable, well-planned housing that meets growth needs while respecting single-family neighborhoods.
-- Water Conservation: Advocating for zoning that enables homeowners to use zero-scaping and other water-wise landscaping without unnecessary red tape.
-- Community Preservation: Protecting historic properties and local landmarks that reflect our city’s heritage.
-- Skilled Trades & Economic Opportunity: As a Job Corps graduate, I believe in investing in skilled trades training—especially for youth who may not choose the college path but deserve access to well-paid careers.
-- Public Safety: I strongly support our Military and first responders including police, firefighters, and emergency medical personnel.
+I’m committed to: Balanced Housing : Supporting affordable, well-planned housing that meets growth needs while respecting single-family neighborhoods.
+Water Conservation : Advocating for zoning that enables homeowners to use zero-scaping and other water-wise landscaping without unnecessary red tape.
+Community Preservation : Protecting historic properties and local landmarks that reflect our city’s heritage.
+Skilled Trades & Economic Opportunity : As a Job Corps graduate , I believe in investing in skilled trades training —especially for youth who may not choose the college path but deserve access to well-paid careers.
+Public Safety: I strongly support our Military and first responders including police, firefighters, and emergency medical personnel.
 As part of my volunteer work supporting hot air balloon events, I’ve completed CPR, AED and First Aid training to ensure I’m prepared to respond in emergency situations.
 Public Safety and preparedness are top priorities.
-- Fiscal Responsibility: I am committed to fiscal responsibility by prioritizing essential infrastructure improvements while ensuring taxpayer dollars are spent wisely.
+Fiscal Responsibility: I am committed to fiscal responsibility by prioritizing essential infrastructure improvements while ensuring taxpayer dollars are spent wisely.
 I believe in investing where it matters most roads, utilities, and public safety.
 Not in subsidizing city owned properties that consistently operate at a deficit or funding non essential programs raising the cost of Property taxes state wide.
 I am focused on long-term value for all of our residents.
 This campaign is about community.
 Let’s build a strong, sustainable, and united Utah, together.
-Over the past several weeks, I’ve been incredibly grateful for the encouragement, conversations, and support I’ve received from friends, colleagues, and community members across our city.
+Support Our Efforts Take the Survey Share your voice Register to VOTE 2026 campaign announcement State Senate District 13 A Message from Ryan L.
+Mahoney Over the past several weeks, I’ve been incredibly grateful for the encouragement, conversations, and support I’ve received from friends, colleagues, and community members across our city.
 Many have asked whether I would consider stepping up to run for a State House or State Senate seat.
 The Senate seat has been held by Democrats for decades, I believe strongly that every voter deserves a choice on the ballot.
 No seat in our district should go without a republican choice on the ballot, and I don’t believe in sitting out simply because the challenge is difficult or a long shot.
@@ -41,35 +36,31 @@ Meaningful change, accountability, and transparency require participation, persi
 I want to sincerely thank everyone who has reached out with encouragement, support, and trust in my ability to represent State Senate District 13.
 Your confidence means more to me than you know, and I do not take the responsibility lightly.
 No matter win or lose, I remain committed to serving our community and working toward responsible leadership that puts Utah residents first.
-Following a successful tenure working to restore order to the county central region and executive committee, I am honored to have the unanimous support of the Republican Party as the official nominee for
-State Senate District 13
-Sincerely, Ryan Mahoney - Central Region Chair, SLCoGOP
-September 8th 2026 - When West Valley City tried to replace its towing rotation with a single exclusive contract (Resolution 26-96), local family owned towing businesses faced losing their livelihoods to a corporate monopoly.
+Following a successful tenure working to restore order to the county central region and executive committee, I am honored to have the unanimous support of the Republican Party as the official nominee for State Senate District 13 Sincerely, Ryan Mahoney - Central Region Chair, SLCoGOP meeting Calendars Salt Lake County GOP Calendar GOP Utah State Central Committee (SCC) Calendar South Salt Lake Valley Mosquito Abatement meetings Women’s Republican Club of Salt Lake (WRCSLC) event calendar Utah State Legislative Calendar City council Calendars West Valley City Council Calendar Taylorsville City Council Calendar West Jordan City Council Calendar West Jordan City Council Calendar South Salt Lake Council Calendar South Salt Lake Council Calendar West Jordan City Council Calendar Millcreek City Council Calendar South Salt Lake Council Calendar Millcreek City Council Calendar Murray City Council Calendar South Salt Lake Council Calendar Millcreek City Council Calendar Cottonwood Heights Council Calendar Midvale Council Calendar Holladay Council Calendars Holladay Council Calendars up coming Events October - first week Albuquerque Balloon Fiesta Albuquerque , New Mexico October - first week Albuquerque Balloon Fiesta Albuquerque , New Mexico updates WVC Towing rotation Resolution 26-96 September 8th 2026 - When West Valley City tried to replace its towing rotation with a single exclusive contract (Resolution 26-96), local family owned towing businesses faced losing their livelihoods to a corporate monopoly.
 To help protect these multi generational operators, I brought the issue directly to the podium during public comments, laying out the hard questions regarding capacity, fairness, and monopoly risks.
 Working in sync with Councilman Tom Huynh as he used those exact points to cross-examine city staff on the dais and formally move to kill the resolution.
-Thanks to this joint push, the council voted 4–3 to defeat the contract, keeping the towing rotation alive and securing a major win for our local small businesses and taxpayers.
+Thanks to this joint push, the council voted 4–3 to defeat the contract , keeping the towing rotation alive and securing a major win for our local small businesses and taxpayers.
 Standing Up for Local Businesses.
 Fighting for Fair Competition.
 Ryan L.
-Mahoney
-When evaluating the proposed 5% adjustment for our firefighters and police officers, we must look at the financial and operational reality: the cost of retaining experienced first responders is significantly lower than the ongoing tax burden of constantly retraining replacements caused by high turnover.
-Our police officers and firefighters deserve a living wage, particularly in the face of the persistent inflation that has impacted every household and worker in our community.
-What is deeply concerning is the double standard we saw on this issue.
-Several months ago, when a vote was brought forward to increase the amount of money the city could spend without reporting it—as well as granting city officials their own pay raises—that measure passed unanimously with virtually no debate or hesitation.
-Yet, when it comes time to support the everyday firefighters and police officers who protect our neighborhoods, sudden friction and opposition emerge.
+Mahoney WEST VALLEY CITY TAX INCREASE ​When evaluating the proposed 5% adjustment for our firefighters and police officers, we must look at the financial and operational reality: the cost of retaining experienced first responders is significantly lower than the ongoing tax burden of constantly retraining replacements caused by high turnover.
+Our police officers and firefighters deserve a living wage, particularly in the face of the persistent inflation that has impacted every household and worker in our community. ​What is deeply concerning is the double standard we saw on this issue.
+Several months ago, when a vote was brought forward to increase the amount of money the city could spend without reporting it—as well as granting city officials their own pay raises—that measure passed unanimously with virtually no debate or hesitation. ​Yet, when it comes time to support the everyday firefighters and police officers who protect our neighborhoods, sudden friction and opposition emerge.
 No one likes a tax increase, but as I stated at the City Council meeting, this is a necessary evil, especially when it is required to fund the police officers, firefighters, and first responders who protect and serve communities across West Valley City.
-I oppose the proposed Little Cottonwood Canyon gondola project.
+Little Cottonwood Canyon gondola project I oppose the proposed Little Cottonwood Canyon gondola project.
 While improving access and safety in the canyon is important, committing approximately $1.4 billion in taxpayer funds to a single fixed-guideway system is not fiscally responsible.
 Those dollars would come from the state’s general fund, funded by sales taxes on groceries, school supplies, and everyday items—meaning Utah families across rural, suburban, and urban communities would shoulder the cost, even if they never use the gondola.
 In addition to construction costs, the ongoing operations and maintenance would create a significant, long-term burden for taxpayers.
 I believe Utah should prioritize more flexible and cost-effective transportation solutions—like enhanced bus service and targeted road safety improvements—that serve the broader public while respecting principles of limited government and responsible budgeting.
 Transportation investments should meet the needs of all Utahn's, not just a few.
-DISCLAIMER - ALL PHOTOS ARE TAKEN AT PUBLIC EVENTS FOR THE PURPOSE OF DOCUMENTING CIVIC ENGAGEMENT.
-APPEARANCE OF PERSONS AND ORGANIZATIONS IN ANY PHOTO DOES NOT IMPLY AN ENDORSEMENT
-Explore our Great State with Activities for the whole Family.
-Utah Fun is
-Published by: Ryan L.
-Mahoney
-Ryan.Mahoney4Utah@Gmail.com wvc008.godaddysites.com slcogop.com Phone: 801-554-0064
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Photo Gallery WVC Resolution 26-96 Utah Republican State party Chairman - Rob Axson State Convention 2026 Walla Walla Balloon Stampede Walla Walla WA.
+Balloon Stampede - Nemesis Balloon Team Flight Training - Confetti Balloons Thank you Heather Watkins B's Hangout Eureka UT, Family businesses, great food Tintic Royalty - 10 out of 10 must stop here Turning Point Action - 2/15/2026 Super Chase Event Ogden Turning Point Action - 2/15/2026 Super Chase Event Ogden Freedom Hill Park - Centerville Turning Point Action - 2/14/2026 Super Chase Event Centerville Turning Point Action - 2/14/2026 Super Chase Event Centerville Turning Point Action - 2/12/2026 Super Chase Event Murray Turning Point Action - 2/11/2026 Super Chase Event Sandy Turning Point Action - 2/11/2026 Super Chase Event Sandy Lunch with Brad Bonham, RNC National Committeeman Copper Hills High Caucus prep 2026 Women's Republican Club SLC Jan.
+29 Utah Capitol Meeting Up and away Balloon Festival - Saint George, UT Up and away Balloon Festival Saint George, UT Taylorsville High Caucus prep 2026 West Jordan High Caucus prep 2026 Bennion JR High Caucus prep 2026 Nominated to Balloon Federation of America student CAAP Committee Sumo Fiber hot air balloon Veterans day Golf Tournament "The Ridge" American Preparatory Academy's Veterans Day Luncheon 2025 West Valley 2 Campus American Preparatory Academy's Veterans Day Luncheon 2025 West Valley 1 Campus Municipal Election Lone ballot watcher Scout troop/Pack 820 Spaghetti Dinner 2025 Eden, UT Balloon Fest 2025 Eden, UT Balloon Fest 2025 Eden, UT Balloon Fest 2025 Eden, UT Balloon Fest 2025 Sandy Balloon Festival 2025 Sandy Balloon Festival 2025 "Heaven Bound Balloon" Logic and Accuracy Demonstration 2025 Logic and Accuracy Demonstration 2025 Logic and Accuracy Demonstration 2025 Movie at the Park & WVC Farmers Market 2025 Freedom Fest 2025 Freedom Fest 2025 Freedom Fest 2025 Stadium of Fire 2025 Stadium of Fire 2025 Granite Youth Symphony 2025 Granite Youth Symphony 2025 West Fest 2025 The Utah Asian Festival 2025 The Utah Asian Festival 2025 The Utah Asian Festival 2025 The Utah Asian Festival 2025 The Utah Asian Festival 2025 The Utah Asian Festival 2025 West Valley City Council Chambers 2025 Don't you know anything about Bumbles?
+Bumbles BOUNCE .
+WVC Local Art busses 2025 trolleys 2025 State organizing Convention 2025 SLC budget Proposal and Flag amendment Meeting 2025 State Senate Chambers 2025 State Senate Floor 2025 Lincoln Day Dinner Event, Miller Campus Ran as Candidate for SCC State Central Committee 2025 Eagle Mountain Balloon Fest 2025 Eagle Mountain Balloon Fest 2025 Eagle Mountain Balloon Fest 2025 Eagle Mountain Balloon Fest 2025 DISCLAIMER - ALL PHOTOS ARE TAKEN AT PUBLIC EVENTS FOR THE PURPOSE OF DOCUMENTING CIVIC ENGAGEMENT.
+APPEARANCE OF PERSONS AND ORGANIZATIONS IN ANY PHOTO DOES NOT IMPLY AN ENDORSEMENT Ryan Mahoney - Timeline of Educational Achievements 1997 State Highschool computer programing contest 1997 State Highschool computer programing contest Fun Things to do in Utah Utah Fun website Explore our Great State with Activities for the whole Family.
+Utah Fun is Published by: Ryan L.
+Mahoney Uniquely Utah Check out Utah fun Contact Us Feel free to Contact Ryan Mahoney With your questions and concerns RyanMahoney4Utah.godaddysites.COM Ryan.Mahoney4Utah@Gmail.com wvc008.godaddysites.com slcogop.com Phone: 801-554-0064 Send Message Send Message Name Email* Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Site Visits Copyright © # Ryan.Mahoney4Utah - All Rights Reserved.
+This FREE Website is Curated and Published by : Ryan Mahoney This site is Authorized by: Ryan L.
+Mahoney Republican Nominee for Utah State Senate District 13 Donation portal Powered By: WinRed Powered by

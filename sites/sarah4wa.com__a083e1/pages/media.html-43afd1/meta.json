@@ -1,7 +1,9 @@
 {
  "description": "Read articles and watch videos from Sarah Mittelman on issues affecting Southwest Washington and the 49th Legislative District.",
  "final_url": "https://www.sarah4wa.com/media.html",
- "paid_for_by": "Paid for by Friends of Sarah Mittelman (R) PO Box 248 \u00b7 Vancouver, WA 98666",
+ "fingerprint": "ad66aa04de29d44fbce9d4a62535d805aee9ad9a",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Sarah Mittelman (R) PO Box 248 · Vancouver, WA 98666",
  "title": "Articles & Videos | Sarah Mittelman",
  "years_mentioned": []
 }

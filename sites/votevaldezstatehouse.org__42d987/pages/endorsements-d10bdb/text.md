@@ -1,5 +1,4 @@
-A HISTORIC WIN: Most Democratic primary votes ever for a Hispanic candidate in this community, dating back to before 2000!
-〰️
-23 Years of Federal Service experience
-〰️
-A HISTORIC WIN: Most Democratic primary votes ever for a Hispanic candidate in this community, dating back to before 2000! 〰️ 23 Years of Federal Service experience 〰️
+0 Skip to Content Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Our Georgia Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Donate Open Menu Close Menu Home About Folder: Our Georgia Back Raising Minimum Wage Environmental Conservation Smart Growth District 139 Maps Blog Endorsements Donate Thank You FAQs English Back Donate A HISTORIC WIN: Most Democratic primary votes ever for a Hispanic candidate in this community, dating back to before 2000! 〰️ 23 Years of Federal Service experience 〰️ A HISTORIC WIN: Most Democratic primary votes ever for a Hispanic candidate in this community, dating back to before 2000! 〰️ 23 Years of Federal Service experience 〰️ A HISTORIC WIN: Most Democratic primary votes ever for a Hispanic candidate in this community, dating back to before 2000! 〰️ 23 Years of Federal Service experience 〰️ Endorsements Support comes in all sizes!
+Newsletter and Volunteer Sign-up! make a difference!
+Email: georgia@votevaldezstatehouse.org P.O.
+Box 14 Cataula, GA 31804 Paid for by the Committee to Elect Elliot Valdez

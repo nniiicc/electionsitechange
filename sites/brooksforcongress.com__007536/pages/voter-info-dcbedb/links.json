@@ -1,26 +1,158 @@
 [
-"https://brooksforcongress.com/",
-"https://brooksforcongress.com/accessibility-statement",
-"https://brooksforcongress.com/campaign-updates",
-"https://brooksforcongress.com/cdn-cgi/l/email-protection",
-"https://brooksforcongress.com/donate",
-"https://brooksforcongress.com/donate?amount=10",
-"https://brooksforcongress.com/donate?amount=100",
-"https://brooksforcongress.com/donate?amount=25",
-"https://brooksforcongress.com/donate?amount=250",
-"https://brooksforcongress.com/donate?amount=5",
-"https://brooksforcongress.com/donate?amount=50",
-"https://brooksforcongress.com/endorsements",
-"https://brooksforcongress.com/meet-bob",
-"https://brooksforcongress.com/on-the-issues",
-"https://brooksforcongress.com/privacy-policy",
-"https://brooksforcongress.com/volunteer",
-"https://brooksforcongress.com/voter-info",
-"https://commons.wikimedia.org/wiki/Data:Pennsylvania%27s_7th_congressional_district_(2023%E2%80%932033).map",
-"https://facebook.com/profile.php?id=61579956682086",
-"https://instagram.com/votebobbrooks",
-"https://pa.gov/agencies/vote/voter-registration",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/pages/voterregistrationstatus.aspx",
-"https://x.com/VoteBobBrooks"
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.brooksforcongress.com/donate?amount=50"
+},
+{
+"text": "$10",
+"href": "https://www.brooksforcongress.com/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://www.brooksforcongress.com/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://www.brooksforcongress.com/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://www.brooksforcongress.com/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://www.brooksforcongress.com/donate?amount=50"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.brooksforcongress.com/accessibility-statement/"
+},
+{
+"text": "District Map",
+"href": "https://commons.wikimedia.org/wiki/Data:Pennsylvania%27s_7th_congressional_district_(2023%E2%80%932033).map"
+},
+{
+"text": "Donate",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brooksforcongress.com/endorsements/"
+},
+{
+"text": "Endorsements Endorsements",
+"href": "https://www.brooksforcongress.com/endorsements/"
+},
+{
+"text": "Learn More More information about Voter Registration",
+"href": "https://www.pa.gov/agencies/vote/voter-registration"
+},
+{
+"text": "Meet Bob",
+"href": "https://www.brooksforcongress.com/meet-bob/"
+},
+{
+"text": "Meet Bob Meet",
+"href": "https://www.brooksforcongress.com/meet-bob/"
+},
+{
+"text": "News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "News News",
+"href": "https://www.brooksforcongress.com/campaign-updates/"
+},
+{
+"text": "Other",
+"href": "https://www.brooksforcongress.com/donate"
+},
+{
+"text": "PA Voter Services Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Platform",
+"href": "https://www.brooksforcongress.com/on-the-issues/"
+},
+{
+"text": "Platform Platform",
+"href": "https://www.brooksforcongress.com/on-the-issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.brooksforcongress.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms and Conditions.",
+"href": "https://www.brooksforcongress.com/privacy-policy/"
+},
+{
+"text": "Stay Current Check Voter Registration Status",
+"href": "https://www.pavoterservices.pa.gov/pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brooksforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://www.brooksforcongress.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://www.brooksforcongress.com/voter-info/"
+},
+{
+"text": "Voter Info Voter Info",
+"href": "https://www.brooksforcongress.com/voter-info/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@brooksforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@brooksforcongress.com"
+},
+{
+"text": "[image: Bob Brooks for Congress Logo (inverted)]",
+"href": "https://www.brooksforcongress.com/"
+},
+{
+"text": "[image: Bob Brooks for Congress Logo]",
+"href": "https://www.brooksforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579956682086"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebobbrooks/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteBobBrooks"
+}
 ]

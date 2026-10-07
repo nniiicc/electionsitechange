@@ -1,9 +1,39 @@
-bills and amendments
-by rep. steve toth
-Authored, Co-Authored, Sponsored or Co-Sponsored
-Skip to content
-Legislative Wins
-bills and amendments
-by rep. steve toth
-Authored, Co-Authored, Sponsored or Co-Sponsored
-Contribute to the TOTH campaign today!
+Skip to content Join Team Toth Today!
+Home Meet Steve Toth Endorsements Issues Legislative Wins Get Involved Donate Join Team Toth Today!
+Donate Legislative Wins bills and amendments by rep. steve toth Authored, Co-Authored, Sponsored or Co-Sponsored 2025 (Special Session 2) SB 8 – Allows entities to be fined up to $125,000 if men enter a public women’s bathroom or locker room.
+Additonally allows individuals to file civil suits.
+Amendment https://capitol.texas.gov/BillLookup/Amendments.aspx?LegSess=892&Bill=SB8 2025 SB 12 – Bans social transitioning of minors in public schools.
+Amendment https://capitol.texas.gov/BillLookup/Amendments.aspx?LegSess=89R&Bill=SB12 2025 SB 17 – Bans certain foreign nations from buying or leasing property in Texas.
+Amendment https://capitol.texas.gov/BillLookup/Amendments.aspx?LegSess=89R&Bill=SB17 2025 HB 2440 – Protects the right of individuals to own vehicles regardless of the engine type.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2440 2025 SB 506 – Prevents local governments from using misleading or biased language on ballot propositions.
+Joint Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB506 2023 SB 14 – Prohibits doctors from providing gender-transitioning or gender-reassignment medical treatments to anyone under 18 years of age including the use of puberty blockers and cross-sex hormones.
+Joint Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB14 2023 SB 545 – Strengthens voter registration list maintenance and election integrity by increasing the frequency of data sharing regarding deceased residents.
+Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB545 2023 HB 5311 – Enhanced local revenue streams for The Woodlands Township by allowing it to receive a portion of mixed-beverage taxes, similar to incorporated cities, and to boost tourism through a specialized development zone.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB5311 2023 HB 3928 – Fundamentally overhauled dyslexia services in public schools.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB3928 2023 HB 3137 – Protects gun owners from over-burdensome insurance requirments by local municipality.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB3137 2023 HB 467 – Expands the statute of limitations for specific assaultive crimes involving family, dating, or household members, allowing more time for prosecutions.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB467 2023 HB 14 – Prevent local government delays in approving property development plans, plats, and inspections.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=HB14 2023 (3rd Special Session) SB 7 – Allows companies to be fined up to $10,000 per violation if they take “adverse action” (e.g., termination, refusal to hire, discrimination) against individuals who refuse a COVID-19 vaccine.
+Amendment https://capitol.texas.gov/BillLookup/Amendments.aspx?LegSess=883&Bill=SB7 2023 SB 773 – Known as the “Medical Freedom Act,” allows patients with severe chronic diseases to access investigational drugs, biological products, and devices that have completed phase one of a clinical trial but are not yet FDA-approved.
+Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB773 2023 – secured over $25 million to set up an Active Shooter Response training center in Montgomery County – the first of its kind in Texas.
+Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=88R&Bill=SB773 2021 (Special Session 2) SB 3 – Prohibits schools from adopting or teaching the tenets of Critical Race Theory.
+Additionally, it ensures parents have access to all learning materials via a learning management system.
+Joint Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=872&Bill=SB3 2021 HB 3979 – Prohibits teaching that one race or sex is inherently superior, that individuals are inherently racist/sexist, or that they should feel guilt for actions committed by others in the past.
+Prohibits teachers from awarding credit or extra credit for student participation in social or political activism.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=87R&Bill=HB3979 2021 HB 2675 – Requires the Texas Department of Public Safety (DPS) to expedite the handgun license (LTC) process for individuals deemed at higher risk of becoming victims of violence.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=87R&Bill=HB2675 2019 HB 2858 – The “Judah Brown Act” Established a uniform, modern, and safer code for pool construction to prevent drowning and entrapment.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB2858 2019 HB 2179 – Authorizes removal of Appraisal Review Board members for repeated bias or misconduct.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB2179 2019 HB 1791 – Strengthens the ability of license holders to carry in public spaces by ensuring government entities do not overstep with “gun-free” restrictions.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB1791 2019 HB 1495 – Relating to the ethics of certain public officials, including certain disclosure requirements.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB1495 2019 HB 1177 – Known as a “disaster protection” act. it allows licensed and unlicensed Texans to legally carry handguns, openly or concealed, for up to seven days while evacuating from or during a declared state of natural disaster.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB1177 2019 HB 1143 – Prohibits school districts and charter schools from banning licensed gun owners—including employees and parents—from storing firearms or ammunition in their locked, private vehicles in school parking areas.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB1143 2019 HB 1052 – Allows the Texas Water Development Board to use the state participation account of the water development fund to provide financial assistance for the development of certain facilities.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB1052 2019 HB 803 – Enhances toll transparency by requiring toll entities to publish specific financial data on their websites.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB803 2019 HB 440 – Requires political subdivisions to provide greater transparency on bond issues.
+Joint Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB440 2019 HB 3145 – Permits a parent appointed as a conservator of a child to attend school activities—such as lunches, performances, and meetings—without fear of violating child custody orders.
+Author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=HB3145 2019 SB 345 – “Jones Forest Preservation Act,” restricts the use of land within the 1,722-acre William Goodrich Jones State Forest in Montgomery County.
+Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=86R&Bill=SB345 2013 HB 1302 – Increased criminal penalties for repeat sex offenders and imposing employment restrictions on certain sex offenders.
+Joint author https://capitol.texas.gov/BillLookup/History.aspx?LegSess=83R&Bill=HB1302 2013 SB 1406 – Gave the State Board of Education (SBOE) oversight of regional education service center (ESC) activities regarding curriculum management systems, such as CSCOPE.
+Sponsor https://capitol.texas.gov/BillLookup/History.aspx?LegSess=83R&Bill=SB1406 Contribute to the TOTH campaign today!
+Donate Today!
+Paid for by Toth for Congress Mailing Address PO Box 7657 The Woodlands, TX 77387 Make Checks Payable to Toth for Congress Legal Privacy Policy Terms & Conditions © # Toth for Congress Home Meet Steve Toth Endorsements Issues Legislative Wins Get Involved

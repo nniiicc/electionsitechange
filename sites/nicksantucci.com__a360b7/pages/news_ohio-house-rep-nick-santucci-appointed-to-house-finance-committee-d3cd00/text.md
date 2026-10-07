@@ -1,5 +1,2 @@
-Previous
-Previous
-WTRF: ‘No sympathy,’ Ohio bill aims to stiffen penalties for human traffickers
-Next
-Next
+0 Skip to Content About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate Open Menu Close Menu About 64th District News Events Shop Donate WFMJ: Ohio House Rep.
+Nick Santucci appointed to House Finance Committee Jun 13 Written By Tex Fischer Tex Fischer Previous Previous WTRF: ‘No sympathy,’ Ohio bill aims to stiffen penalties for human traffickers Next Next Santucci Announces Bipartisan ‘Lake to River Caucus’ PAID FOR BY FRIENDS OF NICK SANTUCCI

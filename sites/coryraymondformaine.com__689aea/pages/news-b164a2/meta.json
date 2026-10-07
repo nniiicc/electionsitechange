@@ -1,7 +1,11 @@
 {
  "description": "Latest news and updates from the Cory Raymond campaign for Maine House of Representatives, District 41 in ME.",
  "final_url": "https://coryraymondformaine.com/news",
- "paid_for_by": "Paid for by Cory Raymond for Maine House District 41 &copy; 2026 Cory Raymond for Maine House of Representatives, District 41",
+ "fingerprint": "a6b89164a2f6de3e56854b10f80acbcc6b6a93cc",
+ "format": 3,
+ "paid_for_by": "Paid for by Cory Raymond for Maine House District 41 © # Cory Raymond for Maine House of Representatives, District 41",
  "title": "News & Updates | Cory Raymond for Maine House of Representatives, District 41",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

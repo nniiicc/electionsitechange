@@ -1,36 +1,3 @@
-0
-Skip to Content
-Home
-Meet Dave
-Bio
-The District
-Awards & Endorsements
-Volunteer
-Voter Info
-Donate
-Contact
-Open Menu
-Close Menu
-Home
-Meet Dave
-Bio
-The District
-Awards & Endorsements
-Volunteer
-Voter Info
-Donate
-Contact
-Open Menu
-Close Menu
-Home
-Folder:
-Meet Dave
-Back
-Bio
-The District
-Awards & Endorsements
-Volunteer
-Voter Info
-Donate
-Contact
-Request A Yard Sign!
+0 Skip to Content Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Meet Dave Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Open Menu Close Menu Home Folder: Meet Dave Back Bio The District Awards & Endorsements Volunteer Voter Info Donate Contact Request A Yard Sign!
+Home Meet Dave Issues & Core Values Donate Contact Me Phone: (815) 914-5108 Email: Iori@syversonforsenate.com 527 Colman Center Drive | Cherry Valley, IL, United States, 61108 A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Syverson for Senate. © # All Rights Reserved.

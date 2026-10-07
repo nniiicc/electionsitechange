@@ -1,67 +1,57 @@
-Florida's voters are saying no.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT DATA CENTERS Florida's voters are saying no.
 David Jolly is listening.
 A moratorium on hyperscale data centers, issued on day one.
-David Jolly and Gwen Graham have proposed an immediate moratorium on the construction of hyperscale data centers in Florida, and David says they would issue it on their first day in office.
+In short David Jolly and Gwen Graham have proposed an immediate moratorium on the construction of hyperscale data centers in Florida, and David says they would issue it on their first day in office.
 His reasons are the strain on Florida's water, power, and natural resources; what these facilities do to the neighborhoods and property values around them; and serious questions about the long term economic payoff that he says have yet to be answered.
 He also says voters across Florida are telling their leaders they do not want data centers, and that leaders should listen.
-“Florida needs a moratorium.
-We would issue it on our first day in office.”
-Those are David Jolly's words, and he does not hedge them.
-“Gwen and I have proposed an immediate moratorium on the construction of hyperscale data centers in the state of Florida, and it's for several reasons.”
-Water and power.
+THE MORATORIUM “Florida needs a moratorium.
+We would issue it on our first day in office.” Those are David Jolly's words, and he does not hedge them.
+“Gwen and I have proposed an immediate moratorium on the construction of hyperscale data centers in the state of Florida, and it's for several reasons.” Water and power.
 Neighborhoods.
 An economic promise nobody has proven.
 And one more reason that politicians in Tallahassee tend to forget: the people who live here are saying no.
-David Jolly Calls for a Moratorium on Florida Data Centers
-The water comes first.
+David Jolly Calls for a Moratorium on Florida Data Centers The water comes first.
 “The environmental impact is something that still, I think, requires further study.
-Even the protections in place, I think, are insufficient for protection of the water, the aquifer, and what it means to continue to strain an already strained aquifer.”
-This is not a small amount of water.
+Even the protections in place, I think, are insufficient for protection of the water, the aquifer, and what it means to continue to strain an already strained aquifer.” This is not a small amount of water.
 The Congressional Research Service, which works for Congress and not for any industry, estimates that a single 100 megawatt data center may directly consume roughly as much water per day as 2,600 households.
 Across the country, data centers directly used about 17 billion gallons of water in 2023, up from 5.6 billion gallons in 2014.
 Project Tango, the campus proposed for western Palm Beach County, was described by its own project manager as 600 megawatts across five buildings.
 David calls Florida's aquifer already strained.
 His position is that you need to find out what a project like that does to the water before you build it, not after.
 It changes the neighborhood around it.
-“We also know it destabilizes communities, the hyperscale data centers do—devalues real estate.”
-Floridians have not waited for Tallahassee to figure out this fact.
+“We also know it destabilizes communities, the hyperscale data centers do—devalues real estate.” Floridians have not waited for Tallahassee to figure out this fact.
 In Palm Beach County, a hearing on Project Tango ran more than 12 hours and drew more than 80 people who signed up to speak.
 On July 15, 2026, commissioners voted 5 to 1 to deny it, saying the applicant had not adequately answered questions about noise, water use, traffic, and whether the project fit the area around it.
 Proposals in Indiantown, Okeechobee County, and Fort Pierce were withdrawn after public opposition.
 Lakeland published a proposed 12 month moratorium ordinance of its own.
-“The people of Florida are rightly concerned that what's going to happen to this neighborhood is going to happen to theirs, and they're demanding that local officials not build these data centers.”
-The jobs pitch has not been proven.
+“The people of Florida are rightly concerned that what's going to happen to this neighborhood is going to happen to theirs, and they're demanding that local officials not build these data centers.” The jobs pitch has not been proven.
 “I'm not convinced that the long-term economic impact justifies the building of data centers in the state of Florida.
-We benefit from construction jobs, but the long-term economic impact has yet to be proven.”
-In the state with the most hyperscale data centers, Virginia, the state's own legislative watchdog went and counted.
+We benefit from construction jobs, but the long-term economic impact has yet to be proven.” In the state with the most hyperscale data centers, Virginia, the state's own legislative watchdog went and counted.
 It found that a data center typically employs around 50 people, and that statewide the industry supports roughly 59,000 jobs a year during construction, dropping to roughly 15,000 once the buildings are running.
 Most of the jobs are in the building, not in the running.
 Meanwhile, Florida already exempts the largest data centers from sales tax: a facility with a critical IT load of 100 megawatts or more and at least $150 million in investment.
 So, communities are told the project will pay for its own water and power and lift the local economy.
 David's answer: “I think Florida's voters realize it's all a ruse.
-What ends up happening is you devalue real estate, you disrupt communities, you raise public health concerns.”
-You either lead or you follow.
-“Elected politicians, candidates, you either lead or you follow, and rarely do you have the opportunity to do both.”
-On data centers, David says this is one of those rare moments.
+What ends up happening is you devalue real estate, you disrupt communities, you raise public health concerns.” You either lead or you follow.
+“Elected politicians, candidates, you either lead or you follow, and rarely do you have the opportunity to do both.” On data centers, David says this is one of those rare moments.
 Leading means protecting Florida's environment and its communities.
 Following means doing what the people who hired you are asking you to do.
-“We also need leaders that listen to voters, and voters across the state of Florida right now are saying we don't want data centers.”
-Not everyone in this race agrees.
+“We also need leaders that listen to voters, and voters across the state of Florida right now are saying we don't want data centers.” Not everyone in this race agrees.
 “Our opponents have suggested they want to continue to build them in the state of Florida.
-That's a disagreement.”
-Hear it from David.
+That's a disagreement.” IN HIS OWN WORDS Hear it from David.
+Moratorium on data centers.
+David Jolly with John Fugelsang on data centers Byron Donalds sure has a lot to say about data centers coming to Florida.
+Ever wonder why?
 Where the numbers come from.
-Water use: Congressional Research Service report R49057, Data Centers and Water, July 31, 2026.
-Jobs: Virginia Joint Legislative Audit and Review Commission, Data Centers in Virginia, December 2024.
-Project Tango: WPTV News Channel 5 and WPLG Local 10, July 15, 2026.
-Lakeland: LkldNow via WUSF, July 3, 2026.
-The sales tax exemption: section 212.08(5)(r), Florida Statutes.
-Protect the water.
+Water use: Congressional Research Service report R49057, Data Centers and Water , July 31, 2026.
+Jobs: Virginia Joint Legislative Audit and Review Commission, Data Centers in Virginia , December 2024.
+Project Tango: WPTV News Channel 5 and WPLG Local 10 , July 15, 2026.
+Lakeland: LkldNow via WUSF , July 3, 2026.
+The sales tax exemption: section 212.08(5)(r), Florida Statutes .
+A DIFFERENT KIND OF LEADERSHIP Protect the water.
 Protect the neighborhood.
 Listen to the voters.
-“Gwen and I are going to lead the state in an area of environmental protection, of economic integrity, of community resilience, but we're also going to listen to voters who right now are telling us don't build data centers in the state of Florida.”
-Frequently asked questions
-Q.
+“Gwen and I are going to lead the state in an area of environmental protection, of economic integrity, of community resilience, but we're also going to listen to voters who right now are telling us don't build data centers in the state of Florida.” Join the Movement Frequently asked questions Q.
 What is a hyperscale data center?
 Hyperscale generally refers to the largest class of data centers, and in Florida the working line is drawn at electrical demand.
 State law defines a large-scale data center and a large load customer as a single location with an anticipated monthly peak load of 50 megawatts or more, calculated as the highest average load over a 15 minute interval, including colocated tenants at the same site.
@@ -102,3 +92,6 @@ It also says the risk of nonpayment may not be borne by other ratepayers.
 Every public utility had to file a compliant tariff with the Florida Public Service Commission by October 1, 2026.
 The commission may approve tools such as minimum demand charges, financial guarantees, minimum load factors and take or pay provisions.
 Whether those protections work in practice will depend on the tariffs the commission approves and on how utilities apply them, which is why the same bill ordered an independent study of rate impacts due July 1, 2027.
+About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

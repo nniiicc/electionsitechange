@@ -1,7 +1,9 @@
 {
  "description": "Discover upcoming events in Mississippi County. Get Arkansas voter information and join us for insightful workshops and community events.",
  "final_url": "https://www.teammiddlebrook2026.com/event-list",
- "paid_for_by": null,
+ "fingerprint": "e47cf11dd5f694330e2b3f685dc41cdd90471c5c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Teammiddlebrook2026",
  "years_mentioned": []
 }

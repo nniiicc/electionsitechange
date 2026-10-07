@@ -1,11 +1,5 @@
-Meet Eric
-“I lived the American Dream.
-I'm running because I can't promise my kids this country will give them a brighter future.”
-SCROLL TO LEARN ABOUT ERIC
-If there is a specific topic you are interested in, click one the following links to take a deep dive:
-Eric’s Story • Eric’s Family • Eric’s as a Business Leader • Eric as a Nonprofit Executive
-Where I come from
-I grew up poor in a small town in rural Maine — local businesses, farming, and timber.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Meet Eric “I lived the American Dream.
+I'm running because I can't promise my kids this country will give them a brighter future.” SCROLL TO LEARN ABOUT ERIC If there is a specific topic you are interested in, click one the following links to take a deep dive: Eric’s Story • Eric’s Family • Eric’s as a Business Leader • Eric as a Nonprofit Executive Where I come from I grew up poor in a small town in rural Maine — local businesses, farming, and timber.
 My father is a veteran.
 He came home from war with injuries he would never fully recover from.
 He worked as a farmer.
@@ -25,8 +19,7 @@ We relied on our community.
 She told me it was going to get better.
 She told me that I would build a better life than the one we had, and that this great country would give me the chance to.
 I believed her.
-The path
-Education was my path.
+The path Education was my path.
 It was the only one I could see.
 It started with books: novels were my escape during a challenging childhood.
 Thanks to great teachers, I thrived in high school.
@@ -44,8 +37,7 @@ I spent less than a year at that first job in New York City.
 I went on one date while living in New York — that's when I met my wife, Rachel.
 We are a team at home and at work, and we have integrated both of our family lives and work lives.
 I could not be more lucky.
-What I built
-I moved to California to help start a firm that didn't exist yet.
+Read the whole story What I built I moved to California to help start a firm that didn't exist yet.
 I spent the next decade helping entrepreneurs with great ideas build businesses.
 I put together executive teams, set strategy, built out boards, raised money, and would step into operating roles at critical periods.
 By the time I left, our business was one of the most successful investment firms in the country.
@@ -54,15 +46,15 @@ I chose to focus on healthcare because of my father — Maven Clinic and Lyra He
 I helped build Chime and Nubank, two financial inclusion companies that gave bank accounts to people the banks would not take, and Duolingo, which made learning a new language accessible to anyone with a phone.
 The companies I helped build now serve millions of people.
 And I spent years helping pilot new ways of getting care to seniors in rural counties, with Medicare and CMS, under both a Democratic and a Republican administration.
-What we give back
-Rachel and I run a family foundation based in Napa.
+I am now fully detached from my prior business career and entirely focused on public service.
+My business career What we give back Rachel and I run a family foundation based in Napa.
 Our distribution network gives out thousands of free car seats for families who can't buy one.
 With Nation's Finest, we launched a support community for women veterans.
 We help protect a historic theater in downtown Vacaville that was facing closure.
 We expand reading programs in Sonoma County schools, because I remembered my childhood — reading was the first step in my path to a different future.
+When schools shut down during COVID, I led an effort that raised more than $# million to get low-income kids in-person tutoring.
 I also founded the American Dream Institute, which works to protect and expand free speech online.
-My family
-Rachel and I have two kids.
+The nonprofit work My family Rachel and I have two kids.
 Our son Owen was born with a congenital heart defect and went into open-heart surgery as a newborn.
 His doctors saved his life.
 We moved to Sonoma in our late 20s.
@@ -73,8 +65,7 @@ We wanted somewhere quiet and safe and close to doctors, but also a place with a
 My parents live here too, three generations of us in this district.
 I came back to my faith in the hospital with Owen, after a long time away from it.
 Being a husband and a father is the best thing I have ever done.
-Our Why I'm running
-My daughter was born in the fall of 2024.
+Meet my family Our Why I'm running My daughter was born in the fall of 2024.
 I was holding her when it hit me that I could not give her the same promise my mother gave me — that all of this was going to get better, that she would build a better life than the one we have, and that this country would give her the chance to.
 20 years from now, I hope that my daughter will be graduating from college.
 Our world will be very different.
@@ -92,3 +83,5 @@ Nobody earns a lifetime appointment in Congress just for showing up.
 CA-4 is nine counties — Colusa, Lake, Napa, Placer, Sacramento, Sonoma, Sutter, Yolo, and Yuba.
 Almost half the people living here have never once been represented by the man who holds the seat.
 I'm running to redeem the American Dream for my kids, and for everybody else's.
+Read the whole story My family My nonprofit work My business career Where I stand Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

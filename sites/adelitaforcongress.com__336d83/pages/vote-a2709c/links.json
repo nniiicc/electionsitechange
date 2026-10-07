@@ -1,13 +1,66 @@
 [
-"https://adelitaforcongress.com/",
-"https://adelitaforcongress.com/endorsements",
-"https://adelitaforcongress.com/meet-adelita",
-"https://adelitaforcongress.com/privacy-policy",
-"https://adelitaforcongress.com/vote",
-"https://azmvdnow.gov/guest/customeranonymous/voterregistration",
-"https://facebook.com/adelitaforcongress",
-"https://instagram.com/AdelitaForCongress",
-"https://secure.actblue.com/donate/adelita-grijalva",
-"https://x.com/AdelitaForAZ",
-"https://youtube.com/@AdelitaforCongress"
+{
+"text": "About",
+"href": "https://www.adelitaforcongress.com/meet-adelita"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adelita-grijalva"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@adelitaforcongress.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.adelitaforcongress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.adelitaforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.adelitaforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adelitaforcongress.com/privacy-policy"
+},
+{
+"text": "Register to Vote Here!",
+"href": "https://azmvdnow.gov/guest/customeranonymous/voterregistration"
+},
+{
+"text": "Volunteer",
+"href": "https://www.adelitaforcongress.com"
+},
+{
+"text": "Vote",
+"href": "https://www.adelitaforcongress.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/adelitaforcongress/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/AdelitaForCongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.youtube.com/@AdelitaforCongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/AdelitaForAZ"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@AdelitaforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.adelitaforcongress.com"
+}
 ]

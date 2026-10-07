@@ -1,3 +1,5 @@
-Congratulations to the Souhegan High School basketball players and Coach Pierce for winning the Division II boys basketball championship in an exciting overtime victory.
+(603) 673-3065 gary@garydaniels.org Facebook X Facebook X HOME ABOUT ISSUES EVENTS GET UPDATES Press Signup ENDORSEMENTS VOLUNTEER VIDEOS DONATE Select Page Congratulations Souhegan High Basketball Feb 25, 2022 Congratulations to the Souhegan High School basketball players and Coach Pierce for winning the Division II boys basketball championship in an exciting overtime victory.
 The Saber boys showed determination throughout the game and saved their best for the final minutes of the game.
 It was wonderful to see the strong community support especially by the “white out” student section, where SHS students dressed in white to support their team, which was the home team and wore white uniforms.
+Read more… Search for: Click on the titles to reveal the full article and social media sharing icons.
+Recent Posts New Hampshire’s Unemployment Hits Record Low 2% for June HB 1221 Lowers Business Taxes Congratulations Souhegan High Basketball Concord This Week End of All Tolls in Merrimack Copyright © # • Gary Daniels for NH • 127 Whitten Road • Milford, NH 03055-3228 • (603) 673-3065 • Friends of Gary Daniels • Fiscal Agent Polly Cote

@@ -1,12 +1,74 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61590210223123",
-"https://secure.actblue.com/donate/susan-doman-1",
-"https://susandoman.com/",
-"https://susandoman.com/about",
-"https://susandoman.com/contact",
-"https://susandoman.com/endorsements",
-"https://susandoman.com/issues",
-"https://susandoman.com/privacy-policy",
-"https://susandoman.com/volunteer"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "About",
+"href": "https://www.susandoman.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.susandoman.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.susandoman.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.susandoman.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.susandoman.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/susan-doman-1"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View More",
+"href": "https://www.susandoman.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.susandoman.com/volunteer"
+},
+{
+"text": "Your Privacy Is Important",
+"href": "https://www.susandoman.com/privacy-policy"
+},
+{
+"text": "[image: Susan Doman for State Rep Logo]",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "[image: Susan Doman logo]",
+"href": "https://www.susandoman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61590210223123"
+}
 ]

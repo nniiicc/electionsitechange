@@ -1,5 +1,5 @@
-Dear Friend,
-From the bottom of my heart, I want to send a big ‘Thank You’ to everyone who helped send me back to Beacon Hill to do a job I love – representing the great people of Chelsea and Charlestown.
+Home Issues News Volunteer Donate Select Page News & Updates Thank You!
+Sep 3, 2020 | News Dear Friend, From the bottom of my heart, I want to send a big ‘Thank You’ to everyone who helped send me back to Beacon Hill to do a job I love – representing the great people of Chelsea and Charlestown.
 These are trying times.
 From the first signature collected until the last vote was counted, we stuck together.
 In a societal shutdown we found ways to spread a positive, inclusive message through a vast local network.
@@ -11,4 +11,6 @@ We will continue to press the issues at hand respectfully.
 There are far too many people to thank.
 For every text sent, phone call made, neighbor talked to, absentee ballot delivered; I just want to let you know how much you are appreciated!
 It’s on to November!
-With tremendous gratitude, your friend,
+With tremendous gratitude, your friend, ← Previous STAY CONNECTED Follow Follow Follow SUPPORT OUR CAMPAIGN Click on the button below to make an online donation.
+DONATE Personal checks made payable to the Committee to Elect Dan Ryan can be mailed to 19 Essex St, Charlestown, MA 02129 State Law prohibits all corporate, LLC and LLP contributions.
+PAID FOR BY THE COMMITTEE TO ELECT DAN RYAN

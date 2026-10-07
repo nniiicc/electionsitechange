@@ -1,8 +1,10 @@
-Meet the Candidates
-The Upper Chesapeake Bay Pride Foundation is hosting a "Meet the Candidates" event on Friday, May 29th.
+0 Skip to Content Meet Elliott Issues Videos Events Volunteer Donate Elliott Herneker for District 34a Donate Now Open Menu Close Menu Meet Elliott Issues Videos Events Volunteer Donate Elliott Herneker for District 34a Donate Now Open Menu Close Menu Meet Elliott Issues Videos Events Volunteer Donate Donate Now Jul 24 Interview with Kimberly Klacik Friday, July 24, 2026 11:00 AM 12:00 PM https://www.wbal.com/audio (map) Google Calendar ICS View Event → Jun 11 Harford Lincoln Reagan Dinner Featuring Rep.
+Kat Cammack Thursday, June 11, 2026 6:00 PM 9:00 PM Maryland Golf and Country Clubs (map) Google Calendar ICS View Event → Jun 3 THE DELEGATE'S SENATOR'S TOWN HALL Wednesday, June 3, 2026 6:00 PM 8:00 PM FALLSTON BARREL HOUSE (map) Google Calendar ICS View Event → May 29 Meet the Candidates Friday, May 29, 2026 5:00 PM 10:00 PM Upper Chesapeake Bay Pride Foundation (map) Google Calendar ICS The Upper Chesapeake Bay Pride Foundation is hosting a "Meet the Candidates" event on Friday, May 29th.
 We're bringing together members of the Harford County LGBTQIA+ community who are eager to meet the people running for office and talk about issues that hit close to home.
 It's going to be a relaxed, in-person event where you can share your vision and connect directly with our community.
-Meet the Candidates Night
-Join us for a non‑partisan community forum where you can meet the individuals running to represent Harford County — from Governor to School Board.
+View Event → Apr 23 Meet the Candidates Night Thursday, April 23, 2026 5:00 PM 10:00 PM Jarrettsville Volunteer Fire Company (map) Google Calendar ICS Join us for a non‑partisan community forum where you can meet the individuals running to represent Harford County — from Governor to School Board.
 Not sure who’s running in your district or what their priorities are?
 This is the perfect chance to put a name on the ballot to a real face, in person, and hear directly from the people seeking to serve our community.
+View Event → Apr 12 Burgers with Bob Sunday, April 12, 2026 1:00 PM 3:00 PM 710 Belair Road Bel Air, MD, 21014 United States (map) Google Calendar ICS View Event → Herneker for district 34a Donate Now Authorized by Elliott J.
+Herneker for District 34A, Steven Herneker, Treasurer © # Elliott J.
+Herneker for District 34A Follow our campaign Linktree Facebook Instagram Contact ejhfordistricta@gmail.com

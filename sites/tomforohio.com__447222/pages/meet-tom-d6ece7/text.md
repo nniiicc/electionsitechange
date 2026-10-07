@@ -1,5 +1,4 @@
-Why I'm Running
-I'm running to flip our District 37 Ohio House of Representative seat because all Ohioans deserve leaders who will actually represent them.
+Priorities Meet Tom Volunteer Donate Vote Meet Tom Donate Meet Tom Donate Why I'm Running I'm running to flip our District 37 Ohio House of Representative seat because all Ohioans deserve leaders who will actually represent them.
 Leaders who will be transparent in their work and who will be accountable to their constituents, not special interest groups or billionaires.
 Ohio deserves leaders who aren't afraid to call out and combat public corruption, who aren't afraid to go to the statehouse and fight for them.
 For too long we in Ohio have been abandoned by our legislators and government officials.
@@ -14,8 +13,8 @@ In the last state budget our legislators harmed our public schools by taking mor
 From worsening our local property and income tax problems, to diverting $2.4B+ in tax dollars away from our public schools, our state legislature has made it clear who they represent, and IT'S.
 NOT.
 US.
-When I'm elected to the Ohio Statehouse, I pledge to represent YOU.
-I'm a lifelong Ohioan, who's proudly called the Dayton area home for over 25 years.
+When I'm elected to the Ohio Statehouse, I pledge to represent YOU .
+About Tom I'm a lifelong Ohioan, who's proudly called the Dayton area home for over 25 years.
 I was raised by our community, attended our public schools, and received an education at our public university.
 GO RAIDERS!
 I understand how vital it is for the success of our community to have elected officials who will listen to their concerns and have their back at the statehouse.
@@ -30,4 +29,4 @@ I was conceived through In Vitro Fertilization (IVF).
 Without access to reproductive healthcare like IVF, I would not have been born.
 When I'm elected I will fight relentlessly to protect and defend our right to reproductive healthcare.
 I'm asking for your vote in the General Election on November 3rd, 2026 so together we can represent District 37!
-Follow Tom's Socials:
+Priorities Meet Tom Volunteer Donate Vote 2026 © Paid for by Citizens for Tom Herner Follow Tom's Socials: Email Tom

@@ -1,11 +1,5 @@
-HOME
-MEET DIANE
-ENDORSEMENTS
-VIDEOS
-EVENTS
-GALLERY
-JOIN
-More
-Thanks for submitting!
-If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
-Make a contribution to Diane Papan's election campaign.
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE #TeamDian Join "#TeamDiane" and stay informed on legislative issues affecting you and your family.
+Please volunteer to be a “#TeamDiane” community liaison to support my efforts to inform/engage your neighbors and network on legislative issues affecting your community.
+Let us know how you can help: First Name Last Name Email Phone Address (Street, City, State, Postal Code) Click all that apply * Required Send me email updates Join #TeamDiane I would like a yard sign I will knock doors I will help fundraise I will text voters Send Thanks for submitting! $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Contribute to Diane Papan's Campaign Make a contribution to Diane Papan's election campaign. $# HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

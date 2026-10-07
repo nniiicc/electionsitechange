@@ -1,5 +1,4 @@
-Editor’s note: Campaign donors are power for Letitia James
-In the News
-The state attorney general is a national figure, thanks to the president.
+Donate now!
+Tish James is protecting all of us from the Trump Administration and the ultra-powerful interests that want to control our government. $10 $25 $100 $250 $500 Other amount Close Facebook X Instagram Letitia James for New York Menu Home Meet Letitia Priorities News Donate Newsroom Editor’s note: Campaign donors are power for Letitia James In the News March 25, 2026 City & State New York The state attorney general is a national figure, thanks to the president.
 With all due respect to Rep.
-Hakeem Jeffries – who’s been going through a rough patch in Washington, D.C. – no Black politico can match state Attorney General Letitia James’ …
+Hakeem Jeffries – who’s been going through a rough patch in Washington, D.C. – no Black politico can match state Attorney General Letitia James’ … Connect with us: Facebook X Instagram Contribute Tish James is protecting all of us from the Trump Administration and the ultra-powerful interests that want to control our government. $10 $25 $100 $250 $500 Other amount Letitia James for New York Home Meet Letitia Priorities News Donate Follow Us: Facebook X Instagram Donate By Mail James for NY 2026 PO Box 20656 Brooklyn, NY 11202 Paid for by James for NY 2026 Contact Privacy Policy Made with Middle Seat

@@ -1,3 +1,5 @@
+Home About Community Projects Contact Kalihi-Salt Lake-Foster Village Glenn Wakai is a model of integrity and tenacious leadership.
+He attacks problems with innovative solutions and effectively communicates with constituents.
 Glenn is a product of his district, having attended Moanalua Elementary School and Moanalua Intermediate, before graduating from Mid-Pacific Institute in 1985.
 He left Hawaii to attend the University of Southern California (USC) where he obtained two B.A.s in Broadcast Journalism and Sociology (minor: Business Administration).
 In 1991, he landed his first job in television news as an anchor/reporter for KUAM-TV in Guam.
@@ -9,3 +11,5 @@ In November 2002 the residents of Salt Lake and Moanalua elected Glenn to the St
 Glenn is Vice-Chairman of the Consumer Protection Committee and is a member of the following committees: Economic Development, Judiciary, Tourism, and Agriculture.
 He is President of High Impact Communications, a public relations firm, and also runs a non-profit, Reach out Pacific (REPAC), which takes surplus medical and educational supplies to Pacific islands.
 Glenn sits on the board of Goodwill Contract Services, Japanese Cultural Center, the Young Business Council, and the Moanalua High School Learning Center Advisory Board.
+CONNECT ONLINE © Glenn Wakai State House (D) All Rights Reserved.
+# glenn@glennwakai.com Privacy Policy

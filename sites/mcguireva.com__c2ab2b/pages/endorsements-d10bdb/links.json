@@ -1,12 +1,46 @@
 [
-"https://facebook.com/JohnMcGuire4VA",
-"https://instagram.com/johnmcguire4va",
-"https://mcguireva.com/",
-"https://mcguireva.com/about",
-"https://mcguireva.com/contact-us",
-"https://mcguireva.com/donate",
-"https://mcguireva.com/endorsements",
-"https://mcguireva.com/home",
-"https://mcguireva.com/media",
-"https://twitter.com/JohnMcGuire4VA"
+{
+"text": "About",
+"href": "https://www.mcguireva.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.mcguireva.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://www.mcguireva.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcguireva.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.mcguireva.com/"
+},
+{
+"text": "Media",
+"href": "https://www.mcguireva.com/media"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mcguireva.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.mcguireva.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JohnMcGuire4VA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnMcGuire4VA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johnmcguire4va/"
+}
 ]

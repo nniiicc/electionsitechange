@@ -1,12 +1,2 @@
-Events
-Tuesday, September 15
-Doors Open 6:30 pm, Debate begins at 7:00 pm
-UMW 7th Congressional District Debate
-Location: Dodd Auditorium, University of Mary Washington
-Friday, September 25
-6:00 pm – 8:00 pm
-Fundraiser hosted by Howie Lind & Lynne Schneider
-Location: Old Glory Grille
-6341 Columbia Pike
-Falls Church, VA 22041
-Click here to RSVP & contribute
+Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Events Tuesday, September 15 Doors Open 6:30 pm, Debate begins at 7:00 pm UMW 7th Congressional District Debate Location: Dodd Auditorium, University of Mary Washington Friday, September 25 6:00 pm – 8:00 pm Fundraiser hosted by Howie Lind & Lynne Schneider Location: Old Glory Grille 6341 Columbia Pike Falls Church, VA 22041 Click here to RSVP & contribute Home Meet Doug District Issues Endorsements News Events Volunteer Contact Voting Info Donate Donate Paid for by Ollivant for Congress Use of military images and/or information does not imply endorsement by Department of Defense/War or the United States Army.
+Privacy Policy | Terms & Conditions

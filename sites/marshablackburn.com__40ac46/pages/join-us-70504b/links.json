@@ -1,20 +1,90 @@
 [
-"http://flickr.com/photos/votemarsha",
-"https://facebook.com/votemarshablackburn",
-"https://instagram.com/votemarsha",
-"https://marshablackburn.com/",
-"https://marshablackburn.com/bell-to-bell-no-cell",
-"https://marshablackburn.com/issues",
-"https://marshablackburn.com/join-us",
-"https://marshablackburn.com/join-us?checkbox=endorse",
-"https://marshablackburn.com/meet-marsha",
-"https://marshablackburn.com/news",
-"https://marshablackburn.com/privacy-policy",
-"https://marshablackburn.com/submissions?checkbox=endorse",
-"https://marshablackburn.com/team-marsha-store",
-"https://secure.winred.com/marsha-for-governor/website",
-"https://truthsocial.com/@VoteMarshaBlackburn",
-"https://vimeo.com/votemarsha",
-"https://x.com/votemarsha",
-"https://youtube.com/@votemarshablackburn"
+{
+"text": "Bell to Bell: No Cell",
+"href": "https://marshablackburn.com/bell-to-bell-no-cell/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/marsha-for-governor/website"
+},
+{
+"text": "Endorse",
+"href": "https://marshablackburn.com/join-us/?checkbox=endorse"
+},
+{
+"text": "Endorsement Submissions",
+"href": "https://marshablackburn.com/submissions/?checkbox=endorse"
+},
+{
+"text": "Home",
+"href": "https://marshablackburn.com/"
+},
+{
+"text": "In The News",
+"href": "https://marshablackburn.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://marshablackburn.com/issues/"
+},
+{
+"text": "Join The Team",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Join Us",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Meet Marsha",
+"href": "https://marshablackburn.com/meet-marsha/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marshablackburn.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marshablackburn.com/privacy-policy/"
+},
+{
+"text": "Team Store",
+"href": "https://marshablackburn.com/team-marsha-store/"
+},
+{
+"text": "[image: Marsha Blackburn for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[image: Marsha for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.flickr.com/photos/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@VoteMarshaBlackburn"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/votemarsha"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemarshablackburn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votemarshablackburn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votemarsha"
+}
 ]

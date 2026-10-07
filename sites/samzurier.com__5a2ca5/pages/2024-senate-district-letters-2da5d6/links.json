@@ -1,53 +1,210 @@
 [
-"https://conta.cc/3WGSpKM",
-"https://samzurier.com/",
-"https://samzurier.com/2024-legislative-agenda",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/april-14-2024-letter",
-"https://samzurier.com/april-28-2024-letter",
-"https://samzurier.com/april-7-2024-letter",
-"https://samzurier.com/budget-documents",
-"https://samzurier.com/december-8-2024-letter",
-"https://samzurier.com/donate",
-"https://samzurier.com/february-11-2024-letter",
-"https://samzurier.com/february-18-2024-letter",
-"https://samzurier.com/february-4-2024-letter",
-"https://samzurier.com/january-14-2024-letter",
-"https://samzurier.com/january-21-2024-district-letter",
-"https://samzurier.com/january-28-2024-district-letter",
-"https://samzurier.com/january-7-2024-letter",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/july-14-2024-letter",
-"https://samzurier.com/july-21-2024-letter",
-"https://samzurier.com/june-16-2024-letter",
-"https://samzurier.com/june-2-2024-letter",
-"https://samzurier.com/june-2-2024-letter-copy",
-"https://samzurier.com/march-10-2024-letter",
-"https://samzurier.com/march-17-2024-letter",
-"https://samzurier.com/march-24-2024-letter",
-"https://samzurier.com/march-3-2024-letter",
-"https://samzurier.com/march-31-2024-letter",
-"https://samzurier.com/may-12-2024-letter",
-"https://samzurier.com/may-26-2024-letter",
-"https://samzurier.com/may-5-2024-letter",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/november-10-2024-letter",
-"https://samzurier.com/november-17-2024-letter",
-"https://samzurier.com/november-24-2024-letter",
-"https://samzurier.com/november-3-2024-letter",
-"https://samzurier.com/october-10-2024-letter",
-"https://samzurier.com/october-16-2024-letter",
-"https://samzurier.com/october-20-2024-letter",
-"https://samzurier.com/october-25-2024-letter",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/september-15-2024-letter",
-"https://samzurier.com/september-2-2024-letter",
-"https://samzurier.com/september-22-2024-letter",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation",
-"https://samzurier.com/washington-bridge-lawsuit"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "April 14 letter",
+"href": "https://samzurier.com/april-14-2024-letter/"
+},
+{
+"text": "April 28 letter",
+"href": "https://samzurier.com/april-28-2024-letter/"
+},
+{
+"text": "April 7 letter",
+"href": "https://samzurier.com/april-7-2024-letter/"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "Budget Page",
+"href": "https://samzurier.com/budget-documents/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "December 8, 2024 letter",
+"href": "https://samzurier.com/december-8-2024-letter/"
+},
+{
+"text": "February 11 letter",
+"href": "https://samzurier.com/february-11-2024-letter/"
+},
+{
+"text": "February 18 letter",
+"href": "https://samzurier.com/february-18-2024-letter/"
+},
+{
+"text": "February 4 letter",
+"href": "https://samzurier.com/february-4-2024-letter/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "January 14 letter",
+"href": "https://samzurier.com/january-14-2024-letter/"
+},
+{
+"text": "January 21 letter",
+"href": "https://samzurier.com/january-21-2024-district-letter/"
+},
+{
+"text": "January 28 letter",
+"href": "https://samzurier.com/january-28-2024-district-letter/"
+},
+{
+"text": "January 7, 2024 letter",
+"href": "https://samzurier.com/january-7-2024-letter/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "July 14 letter",
+"href": "https://samzurier.com/july-14-2024-letter/"
+},
+{
+"text": "July 21 letter",
+"href": "https://samzurier.com/july-21-2024-letter/"
+},
+{
+"text": "June 16 letter",
+"href": "https://samzurier.com/june-16-2024-letter/"
+},
+{
+"text": "June 2 letter",
+"href": "https://samzurier.com/june-2-2024-letter/"
+},
+{
+"text": "June 9 letter",
+"href": "https://samzurier.com/june-2-2024-letter-copy/"
+},
+{
+"text": "March 10 letter",
+"href": "https://samzurier.com/march-10-2024-letter/"
+},
+{
+"text": "March 17 letter",
+"href": "https://samzurier.com/march-17-2024-letter/"
+},
+{
+"text": "March 24 letter",
+"href": "https://samzurier.com/march-24-2024-letter/"
+},
+{
+"text": "March 3 letter",
+"href": "https://samzurier.com/march-3-2024-letter/"
+},
+{
+"text": "March 31 letter",
+"href": "https://samzurier.com/march-31-2024-letter/"
+},
+{
+"text": "May 12",
+"href": "https://samzurier.com/may-12-2024-letter/"
+},
+{
+"text": "May 19 letter",
+"href": "https://conta.cc/3WGSpKM"
+},
+{
+"text": "May 26 letter",
+"href": "https://samzurier.com/may-26-2024-letter/"
+},
+{
+"text": "May 5 letter",
+"href": "https://samzurier.com/may-5-2024-letter/"
+},
+{
+"text": "November 10, 2024 letter",
+"href": "https://samzurier.com/november-10-2024-letter/"
+},
+{
+"text": "November 17, 2024 letter",
+"href": "https://samzurier.com/november-17-2024-letter/"
+},
+{
+"text": "November 24, 2024 letter",
+"href": "https://samzurier.com/november-24-2024-letter/"
+},
+{
+"text": "November 3 letter",
+"href": "https://samzurier.com/november-3-2024-letter/"
+},
+{
+"text": "October 10 letter",
+"href": "https://samzurier.com/october-10-2024-letter/"
+},
+{
+"text": "October 16 letter",
+"href": "https://samzurier.com/october-16-2024-letter/"
+},
+{
+"text": "October 20 letter",
+"href": "https://samzurier.com/october-20-2024-letter/"
+},
+{
+"text": "October 25 letter",
+"href": "https://samzurier.com/october-25-2024-letter/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "September 15 letter",
+"href": "https://samzurier.com/september-15-2024-letter/"
+},
+{
+"text": "September 2 letter",
+"href": "https://samzurier.com/september-2-2024-letter/"
+},
+{
+"text": "September 22 letter",
+"href": "https://samzurier.com/september-22-2024-letter/"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "Washington Bridge Lawsuit Court Filings Page",
+"href": "https://samzurier.com/washington-bridge-lawsuit/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+},
+{
+"text": "clicking on this link",
+"href": "https://samzurier.com/2024-legislative-agenda/"
+}
 ]

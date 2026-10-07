@@ -1,9 +1,42 @@
 [
-"https://kc4boston.com/contact-us",
-"https://kc4boston.com/donate",
-"https://kc4boston.com/home",
-"https://kc4boston.com/meet-kc",
-"https://kc4boston.com/news-events",
-"https://kc4boston.com/on-the-issues",
-"https://kc4boston.com/volunteer"
+{
+"text": "Contact Us",
+"href": "https://www.kc4boston.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://www.kc4boston.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kc4boston.com/home"
+},
+{
+"text": "Meet KC",
+"href": "https://www.kc4boston.com/meet-kc"
+},
+{
+"text": "News & Events",
+"href": "https://www.kc4boston.com/news-events"
+},
+{
+"text": "On The Issues",
+"href": "https://www.kc4boston.com/on-the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kc4boston.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.kc4boston.com/home"
+},
+{
+"text": "[image]kc4boston",
+"href": "https://www.kc4boston.com/home"
+},
+{
+"text": "kc4boston",
+"href": "https://www.kc4boston.com/home"
+}
 ]

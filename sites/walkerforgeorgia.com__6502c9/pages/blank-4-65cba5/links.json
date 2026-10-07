@@ -1,12 +1,42 @@
 [
-"https://facebook.com/SenatorLarryWalker",
-"https://instagram.com/larrywalkerforga",
-"https://linkedin.com/in/larry-walker-iii-97858994",
-"https://secure.psqimpact.com/donate/larry-walker-for-state-senate/donate",
-"https://walkerforgeorgia.com/",
-"https://walkerforgeorgia.com/blank",
-"https://walkerforgeorgia.com/blank-2",
-"https://walkerforgeorgia.com/blank-3",
-"https://walkerforgeorgia.com/blank-4",
-"https://youtube.com/@larrywalker8174/videos"
+{
+"text": "About",
+"href": "https://www.walkerforgeorgia.com/blank-2"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforgeorgia.com/blank-4"
+},
+{
+"text": "Home",
+"href": "https://www.walkerforgeorgia.com"
+},
+{
+"text": "Issues",
+"href": "https://www.walkerforgeorgia.com/blank-3"
+},
+{
+"text": "Join Us",
+"href": "https://www.walkerforgeorgia.com/blank"
+},
+{
+"text": "Support",
+"href": "https://secure.psqimpact.com/donate/larry-walker-for-state-senate/donate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorLarryWalker"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/larrywalkerforga/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/larry-walker-iii-97858994"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@larrywalker8174/videos"
+}
 ]

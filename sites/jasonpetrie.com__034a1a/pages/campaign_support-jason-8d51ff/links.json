@@ -1,13 +1,50 @@
 [
-"http://google.com/url?q=http%3A%2F%2Fsecure.winred.com%2Fjason-petrie-campaign-fund%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw3Y3bY_MuQwHh-7cUkEvV63",
-"https://jasonpetrie.com/attorney-at-law",
-"https://jasonpetrie.com/campaign",
-"https://jasonpetrie.com/campaign/contact-the-campaign",
-"https://jasonpetrie.com/campaign/petrie-on-the-issues",
-"https://jasonpetrie.com/campaign/support-jason",
-"https://jasonpetrie.com/home",
-"https://jasonpetrie.com/meet-jason-petrie",
-"https://jasonpetrie.com/state-representative",
-"https://jasonpetrie.com/state-representative/petrie-in-the-press",
-"https://jasonpetrie.com/state-representative/petrie-posts"
+{
+"text": "Attorney at Law",
+"href": "https://www.jasonpetrie.com/attorney-at-law"
+},
+{
+"text": "Campaign",
+"href": "https://www.jasonpetrie.com/campaign"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.jasonpetrie.com/campaign/contact-the-campaign"
+},
+{
+"text": "Donate Online",
+"href": "http://www.google.com/url?q=http%3A%2F%2Fsecure.winred.com%2Fjason-petrie-campaign-fund%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw3Y3bY_MuQwHh-7cUkEvV63"
+},
+{
+"text": "Home",
+"href": "https://www.jasonpetrie.com/home"
+},
+{
+"text": "Meet Jason Petrie",
+"href": "https://www.jasonpetrie.com/meet-jason-petrie"
+},
+{
+"text": "Petrie Posts",
+"href": "https://www.jasonpetrie.com/state-representative/petrie-posts"
+},
+{
+"text": "Petrie in the Press",
+"href": "https://www.jasonpetrie.com/state-representative/petrie-in-the-press"
+},
+{
+"text": "Petrie on the Issues",
+"href": "https://www.jasonpetrie.com/campaign/petrie-on-the-issues"
+},
+{
+"text": "State Representative",
+"href": "https://www.jasonpetrie.com/state-representative"
+},
+{
+"text": "Support Jason",
+"href": "https://www.jasonpetrie.com/campaign/support-jason"
+},
+{
+"text": "[image]",
+"href": "https://www.jasonpetrie.com/home"
+}
 ]

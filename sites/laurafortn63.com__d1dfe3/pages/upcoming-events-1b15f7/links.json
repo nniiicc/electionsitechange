@@ -1,151 +1,922 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20260916T150000Z%2F20260916T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20260930T150000Z%2F20260930T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20261003T180000Z%2F20261003T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260918T150000Z%2F20260918T160000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260919T180000Z%2F20260919T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260922T220000Z%2F20260923T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260924T180000Z%2F20260924T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260925T150000Z%2F20260925T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260926T190000Z%2F20260926T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260929T150000Z%2F20260929T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261003T150000Z%2F20261003T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261005T180000Z%2F20261005T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261007T180000Z%2F20261007T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261008T180000Z%2F20261008T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261010T180000Z%2F20261010T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20260920T180000Z%2F20260920T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261001T150000Z%2F20261001T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261002T150000Z%2F20261002T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261007T150000Z%2F20261007T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261008T150000Z%2F20261008T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261009T150000Z%2F20261009T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville&dates=20260920T180000Z%2F20260920T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260922T150000Z%2F20260922T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260923T170000Z%2F20260923T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260925T150000Z%2F20260925T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261001T173000Z%2F20261001T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261002T173000Z%2F20261002T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261004T180000Z%2F20261004T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261006T160000Z%2F20261006T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261007T160000Z%2F20261007T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261008T160000Z%2F20261008T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261009T160000Z%2F20261009T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261011T190000Z%2F20261011T210000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Happy+Hour+Fundraiser+in++Nashville&dates=20260930T223000Z%2F20261001T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=House+Party+Fundraiser&dates=20260915T230000Z%2F20260916T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+House+Party&dates=20261001T220000Z%2F20261002T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+and+Greet&dates=20260924T220000Z%2F20260925T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Laura+&dates=20260916T220000Z%2F20260917T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Laura+&dates=20260923T220000Z%2F20260924T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pizza+Party+%26amp%3B+Phone+Bank+with+Team+Laura+&dates=20260928T223000Z%2F20260929T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=WCDW+Celebrate+Women+Sip+and+Stamp&dates=20261002T230000Z%2F20261003T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wine+Pairing+Fundraiser&dates=20261007T223000Z%2F20261008T003000Z",
-"https://andreson.substack.com/",
-"https://facebook.com/lauraandresonfortn",
-"https://google.com/maps/place/The+John+P.+Holt+Brentwood+Library/data=!4m2!3m1!1s0x0:0xc70b4fb4c36440c1?sa=X&ved=1t%3A2428&ictx=111",
-"https://instagram.com/lauraandreson4tn",
-"https://laurafortn63.com/",
-"https://laurafortn63.com/cart",
-"https://laurafortn63.com/issues",
-"https://laurafortn63.com/learn-more",
-"https://laurafortn63.com/meet-aura",
-"https://laurafortn63.com/privacy-policy",
-"https://laurafortn63.com/upcoming-events",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75?format=ical",
-"https://laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws?format=ical",
-"https://laurafortn63.com/upcoming-events/house-party-fundraiser",
-"https://laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb",
-"https://laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb?format=ical",
-"https://laurafortn63.com/upcoming-events/house-party-fundraiser?format=ical",
-"https://laurafortn63.com/upcoming-events/neighborhood-meet-and-greet",
-"https://laurafortn63.com/upcoming-events/neighborhood-meet-and-greet?format=ical",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar?format=ical",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk?format=ical",
-"https://laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w?format=ical",
-"https://laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8",
-"https://laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8?format=ical",
-"https://laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp",
-"https://laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp?format=ical",
-"https://laurafortn63.com/upcoming-events/wine-pairing-fundraiser",
-"https://laurafortn63.com/upcoming-events/wine-pairing-fundraiser?format=ical",
-"https://laurafortn63.com/volunteer-with-laura",
-"https://mobilize.us/williamsoncountydemocraticpartytn/event/1027809",
-"https://mobilize.us/williamsoncountydemocraticpartytn/event/1032627",
-"https://mobilize.us/williamsoncountydemocraticpartytn/event/1043240",
-"https://mobilize.us/williamsoncountydemocraticpartytn/event/968917",
-"https://mobilize.us/williamsoncountydemocraticpartytn/event/975132",
-"https://secure.actblue.com/donate/cj4la",
-"https://secure.actblue.com/donate/laura-andreson-for-tn",
-"https://secure.actblue.com/donate/mj4la",
-"https://secure.actblue.com/donate/tnfc",
-"https://tiktok.com/@lauraandreson4tn63",
-"https://williamsoncounty-tn.gov/40/Election-Commission"
+{
+"text": "0",
+"href": "https://www.laurafortn63.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.laurafortn63.com/"
+},
+{
+"text": "Brentwood Library",
+"href": "https://www.google.com/maps/place/The+John+P.+Holt+Brentwood+Library/data=!4m2!3m1!1s0x0:0xc70b4fb4c36440c1?sa=X&ved=1t%3A2428&ictx=111"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb"
+},
+{
+"text": "Community Canvass in Brentwood",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx"
+},
+{
+"text": "Community Canvass in Franklin",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9"
+},
+{
+"text": "Community Canvass in Nolensville",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/laura-andreson-for-tn"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.laurafortn63.com/learn-more"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20260916T150000Z%2F20260916T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20260930T150000Z%2F20260930T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood&dates=20261003T180000Z%2F20261003T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260918T150000Z%2F20260918T160000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260919T180000Z%2F20260919T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260922T220000Z%2F20260923T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260924T180000Z%2F20260924T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260925T150000Z%2F20260925T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260926T190000Z%2F20260926T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20260929T150000Z%2F20260929T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261003T150000Z%2F20261003T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261005T180000Z%2F20261005T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261007T180000Z%2F20261007T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261008T180000Z%2F20261008T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Brentwood+&dates=20261010T180000Z%2F20261010T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20260920T180000Z%2F20260920T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261001T150000Z%2F20261001T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261002T150000Z%2F20261002T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261007T150000Z%2F20261007T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261008T150000Z%2F20261008T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Franklin+&dates=20261009T150000Z%2F20261009T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville&dates=20260920T180000Z%2F20260920T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260922T150000Z%2F20260922T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260923T170000Z%2F20260923T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20260925T150000Z%2F20260925T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261001T173000Z%2F20261001T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261002T173000Z%2F20261002T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261004T180000Z%2F20261004T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261006T160000Z%2F20261006T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261007T160000Z%2F20261007T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261008T160000Z%2F20261008T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261009T160000Z%2F20261009T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Canvass+in+Nolensville+&dates=20261011T190000Z%2F20261011T210000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Happy+Hour+Fundraiser+in++Nashville&dates=20260930T223000Z%2F20261001T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+House+Party&dates=20261001T220000Z%2F20261002T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Neighborhood+Meet+and+Greet&dates=20260924T220000Z%2F20260925T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Laura+&dates=20260916T220000Z%2F20260917T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phone+Bank+with+Team+Laura+&dates=20260923T220000Z%2F20260924T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pizza+Party+%26amp%3B+Phone+Bank+with+Team+Laura+&dates=20260928T223000Z%2F20260929T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=WCDW+Celebrate+Women+Sip+and+Stamp&dates=20261002T230000Z%2F20261003T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wine+Pairing+Fundraiser&dates=20261007T223000Z%2F20261008T003000Z"
+},
+{
+"text": "Happy Hour Fundraiser in Nashville",
+"href": "https://www.laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/neighborhood-meet-and-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.laurafortn63.com/upcoming-events/wine-pairing-fundraiser?format=ical"
+},
+{
+"text": "Meet Laura",
+"href": "https://www.laurafortn63.com/meet-aura"
+},
+{
+"text": "Meet the Candidates House Party",
+"href": "https://www.laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8"
+},
+{
+"text": "Neighborhood Meet and Greet",
+"href": "https://www.laurafortn63.com/upcoming-events/neighborhood-meet-and-greet"
+},
+{
+"text": "On The Issues",
+"href": "https://www.laurafortn63.com/issues"
+},
+{
+"text": "Phone Bank with Team Laura",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w"
+},
+{
+"text": "Phone Bank with Team Laura",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar"
+},
+{
+"text": "Pizza Party & Phone Bank with Team Laura",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.laurafortn63.com/privacy-policy"
+},
+{
+"text": "Read Laura's Substack",
+"href": "https://andreson.substack.com"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.laurafortn63.com/upcoming-events"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/neighborhood-meet-and-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp"
+},
+{
+"text": "View Event →",
+"href": "https://www.laurafortn63.com/upcoming-events/wine-pairing-fundraiser"
+},
+{
+"text": "Volunteer With Laura",
+"href": "https://www.laurafortn63.com/volunteer-with-laura"
+},
+{
+"text": "WCDW Celebrate Women Sip and Stamp",
+"href": "https://www.laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp"
+},
+{
+"text": "Williamson Election Commission",
+"href": "https://www.williamsoncounty-tn.gov/40/Election-Commission"
+},
+{
+"text": "Wine Pairing Fundraiser",
+"href": "https://www.laurafortn63.com/upcoming-events/wine-pairing-fundraiser"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-a46p2"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47"
+},
+{
+"text": "[image: Community Canvass in Brentwood ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k-dzhhz-e22bd-d5d47-7rmpb"
+},
+{
+"text": "[image: Community Canvass in Brentwood]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38"
+},
+{
+"text": "[image: Community Canvass in Brentwood]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-34yww-xwp3k"
+},
+{
+"text": "[image: Community Canvass in Brentwood]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-gsh38-3zcm7-k7dxn-y5763-wblcb-57xlp-zgakb-jtk3r"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx"
+},
+{
+"text": "[image: Community Canvass in Franklin ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-zjr75-lzn6l-s92t8-ettfx-f27pg"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9"
+},
+{
+"text": "[image: Community Canvass in Nolensville ]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9-3af64-25teb-z5bx5-dad9b-pmzzb-tszjn-w2t7s-h9g8y-k9nrt-jkrg9-3mblh"
+},
+{
+"text": "[image: Community Canvass in Nolensville]",
+"href": "https://www.laurafortn63.com/upcoming-events/community-canvass-6jwlg-pmyke-es95d-3ffr3-ynx4p-9gmek-4b7kr-z3t8a-xchn7-t3pws-kc4x9"
+},
+{
+"text": "[image: Dr. Laura Andreson for TN63]",
+"href": "https://www.laurafortn63.com/"
+},
+{
+"text": "[image: Happy Hour Fundraiser in Nashville]",
+"href": "https://www.laurafortn63.com/upcoming-events/house-party-fundraiser-w8bnb"
+},
+{
+"text": "[image: Meet the Candidates House Party]",
+"href": "https://www.laurafortn63.com/upcoming-events/svb5nyayhm1vmaapc6e6jzow2xewh8"
+},
+{
+"text": "[image: Neighborhood Meet and Greet]",
+"href": "https://www.laurafortn63.com/upcoming-events/neighborhood-meet-and-greet"
+},
+{
+"text": "[image: Phone Bank with Team Laura ]",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w"
+},
+{
+"text": "[image: Phone Bank with Team Laura ]",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-a62ar"
+},
+{
+"text": "[image: Pizza Party &amp; Phone Bank with Team Laura ]",
+"href": "https://www.laurafortn63.com/upcoming-events/phone-bank-with-team-laura-ae5c3-4sccw-ba48w-d4xlk"
+},
+{
+"text": "[image: WCDW Celebrate Women Sip and Stamp]",
+"href": "https://www.laurafortn63.com/upcoming-events/wcdw-celebrate-women-sip-and-stamp"
+},
+{
+"text": "[image: Wine Pairing Fundraiser]",
+"href": "https://www.laurafortn63.com/upcoming-events/wine-pairing-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/lauraandreson4tn"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lauraandresonfortn"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lauraandreson4tn63"
+},
+{
+"text": "[no text]",
+"href": "mailto:team@laurafortn63.com"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/mj4la"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/tnfc"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/williamsoncountydemocraticpartytn/event/1027809/"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/williamsoncountydemocraticpartytn/event/1032627/"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/williamsoncountydemocraticpartytn/event/1043240/"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/williamsoncountydemocraticpartytn/event/968917/"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/williamsoncountydemocraticpartytn/event/975132/"
+},
+{
+"text": "team@laur",
+"href": "mailto:team@lauraandresonfortn.com"
+}
 ]

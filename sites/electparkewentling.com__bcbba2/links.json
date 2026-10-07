@@ -1,13 +1,42 @@
 [
-"https://electparkewentling.com/",
-"https://electparkewentling.com/about",
-"https://electparkewentling.com/connect",
-"https://electparkewentling.com/cookie-policy",
-"https://electparkewentling.com/endorsements",
-"https://electparkewentling.com/priorities",
-"https://electparkewentling.com/volunteer",
-"https://facebook.com/profile.php?id=100058022621626",
-"https://parkewentling.wpengine.com/about",
-"https://parkewentling.wpengine.com/donate",
-"https://wpconsent.com/powered-by"
+{
+"text": "Connect",
+"href": "https://electparkewentling.com/connect/"
+},
+{
+"text": "DONATE",
+"href": "https://parkewentling.wpengine.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://electparkewentling.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100058022621626"
+},
+{
+"text": "Make A Donation",
+"href": "https://parkewentling.wpengine.com/donate/"
+},
+{
+"text": "Meet Parke",
+"href": "https://electparkewentling.com/about/"
+},
+{
+"text": "Meet Parke",
+"href": "https://parkewentling.wpengine.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://electparkewentling.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://electparkewentling.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://electparkewentling.com"
+}
 ]

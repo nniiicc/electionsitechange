@@ -1,11 +1,11 @@
-A vision for the future that is bold enough to matter
-You’re going to have to bear with me for a minute, because this is going to require a little Heather Cox Richardson–length setup— not because I got lost on the way to the point, but because the point is bigger than a bumper sticker.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search A vision for the future that is bold enough to matter Drew Howells Jun 23 16 min read You’re going to have to bear with me for a minute, because this is going to require a little Heather Cox Richardson–length setup— not because I got lost on the way to the point, but because the point is bigger than a bumper sticker.
 To understand why Utah should begin building a spaceport in the West Desert, we have to connect a NASA capsule landing in the dirt, Hill Air Force Base, lunar mining, freight rail, the Great Salt Lake, public education, and the economy our grandchildren may inherit.
 I promise they all belong in the same story.
 Stick with me.
 I believe Utah should think and plan at the scale of the future we want to inhabit, not just the scale of the problems immediately in front of us.
 Stewardship is not only about protecting what we have.
-It is also about having the courage to build what comes next.
+It is also about having the courage to build what comes next .
 A state that does nothing but manage decline, react incrementally to change, or wait for decisions to be made elsewhere will always be dependent on somebody else’s imagination.
 A state that thinks bigger can help shape the trajectory of the next century.
 This is where my future-oriented vision comes fully into focus.
@@ -20,6 +20,9 @@ The regions that prepare now will help determine how that economy operates, who 
 I believe Utah should help lead.
 The West Desert, particularly the Utah Test and Training Range, already has a proven record in sample-return science.
 When the United States has needed a large, controlled landing area for material returning from space, it has repeatedly turned to Utah.
+NASA’s OSIRIS-REx sample-return capsule rests on the Utah Test and Training Range after delivering rocks and dust from the asteroid Bennu on September 24, 2023.
+It was the first asteroid sample ever returned to Earth by the United States—and proof that Utah’s West Desert already serves as a gateway between our planet and the wider solar system.
+Photo: NASA/Keegan Barber.
 NASA’s Genesis capsule returned solar-wind particles to the Utah desert in 2004.
 Its parachute failed, but scientists still recovered valuable material from the damaged capsule.
 Stardust landed successfully in 2006 carrying particles from Comet Wild 2 and interstellar space.
@@ -36,10 +39,10 @@ That infrastructure, connected directly to Hill Air Force Base, gives Utah somet
 That existing architecture is one of the strongest arguments for locating a national reentry and recovery complex here.
 Utah would not be starting with an uncontrolled patch of desert and trying to build a safety system around it.
 We already have a protected range, military and civilian airspace coordination, communications infrastructure, emergency-response capacity, and decades of experience managing complex missions.
-A Great Salt Lake Spaceport developed in conjunction with Hill Air Force Base, the Utah Test and Training Range, and federal space agencies could add a nationally distinctive mission to that infrastructure: the controlled recovery, containment, inspection, and processing of spacecraft and cargo returning from orbit, the Moon, Mars, and near-Earth asteroids.
+A Great Salt Lake Spaceport developed in conjunction with Hill Air Force Base, the Utah Test and Training Range, and federal space agencies could add a nationally distinctive mission to that infrastructure: t he controlled recovery, containment, inspection, and processing of spacecraft and cargo returning from orbit, the Moon, Mars, and near-Earth asteroids.
 That capability would not replace Hill’s existing missions.
 It would strengthen them.
-Hill Air Force Base is already one of the most important military installations in the country, supporting fighter operations, weapons testing, nuclear deterrence, software engineering, logistics, depot maintenance, and dozens of mission partners.
+Hill Air Force Base is already one of the most important military installations in the country , supporting fighter operations, weapons testing, nuclear deterrence, software engineering, logistics, depot maintenance, and dozens of mission partners.
 It also already contributes to the military space enterprise.
 Space Systems Command personnel and acquisition programs operate at Hill, while Utah’s aerospace workforce supports launch, testing, sustainment, communications, propulsion, and national-security missions.
 The Great Salt Lake Spaceport could build on that foundation and give the Department of Defense a rare inland reentry and recovery capability linked directly to controlled military airspace, advanced testing infrastructure, depot-level maintenance, cybersecurity, logistics, emergency response, and scientific facilities.
@@ -55,6 +58,11 @@ The goal is to create the infrastructure and mission capability that make that d
 A fully developed spaceport and reentry complex could give Hill a capability that few military installations could match: a one-of-a-kind connection between a major inland landing zone, military test airspace, space-system support, aerospace manufacturing, scientific research, and national freight infrastructure.
 By connecting Hill Air Force Base, the Utah Test and Training Range, the Space Force, Utah’s aerospace industry, and a federally licensed reentry facility, we could ensure that Hill remains indispensable not only through the next round of military planning, but through the next century of American defense.
 That is part of what a 22nd-century vision for Utah should mean: protecting the institutions that sustain our communities by preparing them for missions the future will require.
+NASA’s Perseverance rover takes a selfie beside nine of the ten sample tubes it deposited at the Three Forks sample depot in Mars’ Jezero Crater.
+The labeled tubes, including Atsah and Skyland, contain carefully selected Martian material that could one day be returned to Earth for study.
+The samples are already waiting.
+The question is whether Utah will begin building the infrastructure now to help receive the missions that bring them home.
+Photo: NASA/JPL-Caltech/MSSS.
 NASA’s Perseverance rover has collected and cached carefully selected samples on Mars.
 The original Mars Sample Return program intended to bring those samples to Earth, with Utah studied as a potential recovery location.
 That program was ultimately canceled after its projected cost and schedule became unsustainable, although work continues on technologies and alternative approaches that could support future Mars missions.
@@ -62,7 +70,7 @@ The samples are still there.
 The scientific value has not disappeared.
 And neither has the larger question of how material returning from Mars, the Moon, asteroids, commercial stations, and future research platforms will be safely received and processed in the decades ahead.
 Utah should be ready when the next architecture emerges.
-I propose building on that legacy by creating what I call the Great Salt Lake Spaceport: a long-term aerospace, reentry, research, logistics, and processing complex in Utah’s West Desert, developed in coordination with Hill Air Force Base, the Utah Test and Training Range, the Federal Aviation Administration, NASA, the Space Force, and other federal partners.
+I propose building on that legacy by creating what I call the Great Salt Lake Spaceport: a long-term aerospace, reentry, research, logistics, and processing complex in Utah’s West Desert , developed in coordination with Hill Air Force Base, the Utah Test and Training Range, the Federal Aviation Administration, NASA, the Space Force, and other federal partners.
 The final site would have to respect the military mission of the range, federal land authority, airspace requirements, environmental law, and the needs of surrounding communities.
 It may ultimately sit adjacent to the range rather than inside its operational footprint.
 That is exactly why this should begin with serious planning rather than a political ribbon cutting.
@@ -101,7 +109,7 @@ Reusability changes the economics.
 The less hardware that must be thrown away after every flight, the more frequently missions can operate and the lower the cost of moving equipment and cargo can become.
 That does not mean lunar mines and asteroid freighters will appear overnight.
 It does mean that the transportation systems, resource technologies, customers, contracts, and public programs needed to make them possible are beginning to develop at the same time.
-By the late 2030s or early 2040s, we could begin seeing sustained commercial extraction and return operations at a scale large enough to require dedicated landing, inspection, processing, storage, and distribution infrastructure.
+By the late #s or early #s, we could begin seeing sustained commercial extraction and return operations at a scale large enough to require dedicated landing, inspection, processing, storage, and distribution infrastructure.
 If Utah waits until the cargo is already on its way home, we will be too late.
 Ports are not built after the trade arrives.
 They are built because leaders understand where trade is going.
@@ -226,3 +234,7 @@ It is something we choose, design, and build together.
 Utah is already the Crossroads of the West.
 Now let’s build the crossroads of the solar system.
 I choose a future bold enough to matter— and responsible enough to last.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

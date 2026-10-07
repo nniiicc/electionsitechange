@@ -1,7 +1,11 @@
 {
  "description": "Andrew Fudge in the News",
  "final_url": "https://www.fudge4oregon.org/news",
+ "fingerprint": "582674b86d53b4393dd24fa9314719a425c1b610",
+ "format": 3,
  "paid_for_by": "paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

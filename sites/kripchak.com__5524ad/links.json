@@ -1,11 +1,50 @@
 [
-"https://facebook.com/KripchakForOhioSenate",
-"https://instagram.com/kripchakforcongress",
-"https://kripchak.com/",
-"https://kripchak.com/about.html",
-"https://kripchak.com/coming-soon.html",
-"https://kripchak.com/issues-policies.html",
-"https://secure.actblue.com/donate/michael-kripchak-1",
-"https://twitter.com/KripchakOH",
-"https://youtube.com/@KripchakForCongress"
+{
+"text": "About Me",
+"href": "https://www.kripchak.com/about.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/michael-kripchak-1"
+},
+{
+"text": "Home",
+"href": "https://www.kripchak.com/"
+},
+{
+"text": "Issues & Policies",
+"href": "https://www.kripchak.com/issues-policies.html"
+},
+{
+"text": "Kripchak for Ohio",
+"href": "https://www.kripchak.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.kripchak.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KripchakOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KripchakForOhioSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kripchakforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KripchakForCongress"
+},
+{
+"text": "donating",
+"href": "https://www.kripchak.com/coming-soon.html"
+},
+{
+"text": "vote@kripchak.com",
+"href": "mailto:vote@kripchak.com"
+}
 ]

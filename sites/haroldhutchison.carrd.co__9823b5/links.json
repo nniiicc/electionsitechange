@@ -1,8 +1,26 @@
 [
-"https://carrd.com/build",
-"https://facebook.com/profile.php?id=61580656994575",
-"https://haroldhutchison.carrd.co/cdn-cgi/l/email-protection",
-"https://secure.anedot.com/hutchison-s-service-pac/donate",
-"https://voteforharold.substack.com/",
-"https://x.com/HaroldHhutch"
+{
+"text": "Donate?",
+"href": "https://secure.anedot.com/hutchison-s-service-pac/donate"
+},
+{
+"text": "Email",
+"href": "mailto:hhutch@juno.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580656994575"
+},
+{
+"text": "Made with Carrd",
+"href": "https://carrd.com/build"
+},
+{
+"text": "Substack",
+"href": "https://voteforharold.substack.com"
+},
+{
+"text": "X",
+"href": "https://x.com/HaroldHhutch"
+}
 ]

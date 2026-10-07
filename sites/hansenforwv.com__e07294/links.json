@@ -1,12 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSd-WeSdURgDe2WB8hjzwBSbKc7-K00WjCvrwgcqyk00vUzsyA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSd-WeSdURgDe2WB8hjzwBSbKc7-K00WjCvrwgcqyk00vUzsyA/viewform?usp=send_form",
-"https://facebook.com/HansenForWV",
-"https://hansenforwv.com/",
-"https://hansenforwv.com/cart",
-"https://instagram.com/hansenforwv",
-"https://secure.actblue.com/donate/hansen-for-house-1",
-"https://threads.com/@hansenforwv",
-"https://tiktok.com/@delegate.evan.hansen",
-"https://x.com/HansenForWV"
+{
+"text": "0",
+"href": "https://www.hansenforwv.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/hansen-for-house-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/hansen-for-house-1%20"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd-WeSdURgDe2WB8hjzwBSbKc7-K00WjCvrwgcqyk00vUzsyA/viewform"
+},
+{
+"text": "Get involved.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd-WeSdURgDe2WB8hjzwBSbKc7-K00WjCvrwgcqyk00vUzsyA/viewform?usp=send_form"
+},
+{
+"text": "[image: VOTE EVAN HANSEN]",
+"href": "https://www.hansenforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HansenForWV/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hansenforwv/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@hansenforwv%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@delegate.evan.hansen"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/HansenForWV"
+},
+{
+"text": "hansenforwv@gmail.com",
+"href": "mailto:hansenforwv@gmail.com"
+}
 ]

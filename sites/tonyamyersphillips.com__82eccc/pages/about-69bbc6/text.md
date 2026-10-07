@@ -1,8 +1,6 @@
-Meet Tonya
-Service + Advocacy
-Tonya Myers Phillips is an attorney and leader with a lifelong history of service and advocacy on behalf of the community.
+0 Skip to Content Home Meet Tonya Issues and Endorsements Contact Us Connect Volunteer Donate Open Menu Close Menu Home Meet Tonya Issues and Endorsements Contact Us Connect Volunteer Donate Open Menu Close Menu Home Meet Tonya Issues and Endorsements Folder: Contact Us Back Connect Volunteer Donate Meet Tonya Service + Advocacy Tonya Myers Phillips is an attorney and leader with a lifelong history of service and advocacy on behalf of the community.
 Tonya was born and raised in the City of Detroit.
-Tonya knew from an early age that she would commit her life to serving others.
+Tonya, Estella and Ryan Myers Tonya knew from an early age that she would commit her life to serving others.
 She attended Detroit Public Schools and graduated from Renaissance High School with honors.
 She worked with fellow teens to start a nonprofit organization, where high school students could read to elementary school students and teach them about African history and culture.
 She received the Coleman A.
@@ -28,9 +26,14 @@ Tonya also has experience serving in public office and being accountable to cons
 Tonya served as a member of the Detroit Charter Revision Commission from 2010-2012.
 As a Commissioner, Tonya treated all colleagues and community members with dignity and respect.
 Most importantly, her votes aligned with her values and record of community service.
-In 2015, Tonya led and championed Detroit's first "Community Court" jail diversion program where she coordinated community service and wrap-around services, in lieu of jail and/or high fines, for hundreds of people.
+Tonya Myers Phillips and members of the 2012 Detroit Charter Revision Commission Tonya Myers Phillips receiving the “Spirit of Detroit” award for her work in Criminal Justice Reform In 2015, Tonya led and championed Detroit's first "Community Court" jail diversion program where she coordinated community service and wrap-around services, in lieu of jail and/or high fines, for hundreds of people.
 She is a fierce advocate for widespread criminal justice reform and changing laws that disproportionately criminalize the poor.
 She was instrumental in designing an anti-human trafficking program in partnership with human trafficking survivors, service providers, the 36th District Court, and the Detroit Police Department.
+Tonya Myers Phillips with Ms.
+Mildred Hunt-Robinson and beloved advocates now with the ancestors, Hon.
+Isaac Robinson, Hon.
+Jewel Ware, and Hon.
+JoAnn Watson at WGBC Community Benefits Agreement Signing.
 Tonya returned to the Sugar Law Center in 2019 where she serves as the Community Partnerships & Development Director.
 Tonya works side-by-side with community organizations to negotiate and implement community benefits agreements and provide advice and counsel on economic issues.
 Recently, Tonya represented and worked collaboratively with the West Grand Boulevard Collaborative (WGBC) to obtain a letter of understanding with Henry Ford Health System to prioritize the hiring of Detroiters and community residents through a community-led jobs pipeline, negotiated the first private community benefits agreement between a developer and community organization in Detroit, and most recently successfully advocating for the first community land trust created through the Detroit community benefits ordinance process.
@@ -41,7 +44,15 @@ Tonya led a successful advocacy campaign to pass the Detroit Right to Counsel Or
 Tonya has also worked successfully with community members, advocates, and state officials to get a statewide Right to Counsel bill introduced in 2023 to protect tenants throughout Michigan.
 Tonya was again honored with the Spirit of Detroit Award in 2022 for her exemplary advocacy for equitable laws and systems for vulnerable Detroiters.
 Tonya also teaches as an Adjunct Professor at Wayne State Law School, and her scholarship was published in the American Bar Association Journal of Affordable Housing in 2023.
+Tonya Myers Phillips with community members, organizers, and Detroit City Council President celebrated unanimous passage of the Detroit Right to Counsel Ordinance.
 Tonya currently volunteers and serves on the Board of Directors for the Community Development Advocates of Detroit, Sidewalk Festival Detroit, the Community Tech Collective Advisory Board, and her neighborhood block club.
 Tonya has also served on the Justice Policy Initiatives Committee for the State Bar of Michigan, the Board of Directors for Habitat for Humanity-Detroit, the Wolverine Bar Association, New Leaders Council-Detroit (A Founding Detroit Chapter Member), the National Lawyers Guild Michigan & Detroit Chapter, Mothering Justice, the Coleman A.
 Young Foundation, the Institute for Population Health, Detroiters Working for Environmental Justice, and many others.
-Tonya resides in Detroit with her husband of 18 years and their teenage son.
+Tonya resides in Detroit with her husband of 18 years and their teenage son. “ We have also come to this hallowed spot to remind America of the fierce urgency of now.
+This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism.
+Now is the time to make real the promises of democracy. ” — Dr, Martin Luther King Jr.
+“I Have a Dream” speech in Washington, D.C.
+August 28, 1963 313.528.9514 repmyersphillips@gmail.com Meet Tonya Issues Connect Donate Paid for by Friends of Tonya Myers Phillips, 830 Blaine, Detroit, MI 48202.
+Copyright © # Tonya Myers Phillips.
+All rights reserved.
+Site crafted by Smith Anderson Group

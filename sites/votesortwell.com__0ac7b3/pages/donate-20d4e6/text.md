@@ -1,10 +1,2 @@
-Home
-Issues
-Media
-More
-To donate online via PayPal or card, visit:
-Note that 1,000 dollars is the legal individual donation limit and 2,000 dollars is the legal couple donation limit
-To donate via personal check, mail to:
-Taxpayers for Shae Sortwell
-13219 Co Rd Q
-Two Rivers, WI 54241
+top of page Home Issues Media More Use tab to navigate through the menu items.
+DONATE VOLUNTEER To donate online via PayPal or card, visit: Donate Now Note that 1,000 dollars is the legal individual donation limit and 2,000 dollars is the legal couple donation limit ​ To donate via personal check, mail to: Taxpayers for Shae Sortwell 13219 Co Rd Q Two Rivers, WI 54241 Sortwell for Assembly Support Our Cause DONATE VOLUNTEER DISTRICT MAP Contact: votesortwell@gmail.com Paid for by Taxpayers for Shae Sortwell Information does not imply endorsement by DOD or US Army bottom of page

@@ -1,64 +1,266 @@
 [
-"http://voteamada.com/donate",
-"https://afscmemn.org/",
-"https://boundarywatersaction.org/",
-"https://carecandidates.org/",
-"https://careproviders.org/",
-"https://cbsnews.com/minnesota/news/columbia-heights-community-plans-vigil-for-daunte-wright",
-"https://cleanwater.org/states/minnesota",
-"https://columbiaheightsmn.gov/community/residential_resources/pollinators.php",
-"https://columbiaheightsmn.gov/government/boards_and_commissions/youth_commission.php",
-"https://columbiaheightsmn.gov/government/sister_cities_committee/index.php",
-"https://dfl.org/",
-"https://dflec.org/endorsements",
-"https://dflfeminist.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/",
-"https://everytown.org/",
-"https://facebook.com/voteamada",
-"https://fairvotemn.org/",
-"https://fox9.com/news/wonder-woman-columbia-heights-mayors-superhero-alter-ego-motivates-girl-through-cancer-battle",
-"https://friendsaction-bwca.org/",
-"https://genderjusticeaction.us/gjapac",
-"https://heightsnext.org/events/heights-cultural-festival",
-"https://heightsnext.org/events/pride",
-"https://heightsnext.org/monarch",
-"https://hometownsource.com/abc_newspapers/news/government/columbia-heights-mayor-declares-july-1-somali-american-day-in-the-city/article_9c401902-e07b-11eb-a017-bfe792b7cf8d.html",
-"https://hometownsource.com/abc_newspapers/news/photosandvideo/columbia-heights-plants-tree-for-sister-city-on-arbor-day-at-omianki-park/article_25bb2208-aebd-11eb-8461-eba1e71a88a1.html",
-"https://inseparable.us/",
-"https://instagram.com/amadaformnhouse",
-"https://iupat.org/",
-"https://latinovictory.org/",
-"https://liuna.org/",
-"https://mape.org/",
-"https://mfu.org/",
-"https://mnaflcio.org/",
-"https://mncpa.org/involvement/legislative/election-guide/district-39",
-"https://mnnurses.org/",
-"https://movetoamend.org/minnesota",
-"https://mprnews.org/election/voting-guide",
-"https://nmcarpenters.com/",
-"https://northeastmetroclimateaction.org/",
-"https://nwf.org/",
-"https://pollfinder.sos.state.mn.us/",
-"https://ppncs.org/",
-"https://sierraclub.org/",
-"https://sos.state.mn.us/elections-voting/register-to-vote",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/endorsements",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/lawn-sign",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://womenwinning.org/",
-"https://youngdfl.org/"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.voteamada.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.voteamada.com/lawn-sign/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Many more endorsements…",
+"href": "https://www.voteamada.com/endorsements/"
+},
+{
+"text": "More issues…",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "National Wildlife Federation",
+"href": "https://www.nwf.org/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read more…",
+"href": "https://www.voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "Register",
+"href": "https://www.sos.state.mn.us/elections-voting/register-to-vote"
+},
+{
+"text": "Sister City",
+"href": "https://www.columbiaheightsmn.gov/government/sister_cities_committee/index.php"
+},
+{
+"text": "Where to Vote",
+"href": "https://pollfinder.sos.state.mn.us/"
+},
+{
+"text": "Youth Commission",
+"href": "https://www.columbiaheightsmn.gov/government/boards_and_commissions/youth_commission.php"
+},
+{
+"text": "[image: 2026 Endorsed Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund]",
+"href": "https://ppncs.org/"
+},
+{
+"text": "[image: A girl watches caterpillars eat milkweed at a Monarch Butterfly Festival in Columbia Heights, MN.]",
+"href": "https://heightsnext.org/monarch/#festival"
+},
+{
+"text": "[image: AFSCME Council 5 - We make Minnesota happen]",
+"href": "https://www.afscmemn.org/"
+},
+{
+"text": "[image: Amáda Márquez Simula wins DFL Primary election for Minnesota House 39B!]",
+"href": "https://www.voteamada.com/2026/08/11/amada-marquez-simula-wins-dfl-primary-for-house/"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Care Providers of Minnesota]",
+"href": "https://www.careproviders.org/"
+},
+{
+"text": "[image: Care for MN Candidate]",
+"href": "https://carecandidates.org/"
+},
+{
+"text": "[image: Clean Water Action]",
+"href": "https://cleanwater.org/states/minnesota"
+},
+{
+"text": "[image: Columbia Heights mayor declares July 1 Somali American Day in the city]",
+"href": "https://www.hometownsource.com/abc_newspapers/news/government/columbia-heights-mayor-declares-july-1-somali-american-day-in-the-city/article_9c401902-e07b-11eb-a017-bfe792b7cf8d.html"
+},
+{
+"text": "[image: DFLEC Minnesota DFL Party Environmental Caucus]",
+"href": "https://dflec.org/endorsements/"
+},
+{
+"text": "[image: Education Minnesota]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image: Fairvote Minnesota Democracy Champion. I Heart Ranked Choice Voting]",
+"href": "https://www.fairvotemn.org"
+},
+{
+"text": "[image: Friends of the Boundary Waters Action Network]",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "[image: Gender Justice Action]",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "[image: IUPAT District Council 82]",
+"href": "https://www.iupat.org/"
+},
+{
+"text": "[image: Kids dressed in butterfly wings do a coloring activity at the Columbia Heights Monarch Festival.]",
+"href": "https://heightsnext.org/monarch/#festival"
+},
+{
+"text": "[image: Latino Victory]",
+"href": "https://latinovictory.org/"
+},
+{
+"text": "[image: Lawn sign that reads 'We are participating in No Mow May to help keep our pollinators from fading away.']",
+"href": "https://www.columbiaheightsmn.gov/community/residential_resources/pollinators.php"
+},
+{
+"text": "[image: LiUNA! Feel the Power]",
+"href": "https://www.liuna.org/"
+},
+{
+"text": "[image: MFU PAC]",
+"href": "https://mfu.org/"
+},
+{
+"text": "[image: MNA Minnesota Nurses Association An Affiliate of National Nurses United]",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "[image: MPR News]",
+"href": "https://www.mprnews.org/election/voting-guide"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula encourages a young cancer survivor, both dressed as Wonder Woman.]",
+"href": "https://www.fox9.com/news/wonder-woman-columbia-heights-mayors-superhero-alter-ego-motivates-girl-through-cancer-battle"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula holds a proclamation declaring PRIDE Day in Columbia Heights, MN.]",
+"href": "https://heightsnext.org/events/pride/"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula leads the community in grieving after Brooklyn Center police killed former Columbia Heights student Daunte Wright.]",
+"href": "https://www.cbsnews.com/minnesota/news/columbia-heights-community-plans-vigil-for-daunte-wright/"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula leads the festivities at the Columbia Heights Monarch Festival.]",
+"href": "https://heightsnext.org/monarch/#festival"
+},
+{
+"text": "[image: Mayor Amáda Márquez Simula poses with performers at the Columbia Heights Multicultural Festival.]",
+"href": "https://heightsnext.org/events/heights-cultural-festival/"
+},
+{
+"text": "[image: Minneapolis Regional Labor Federation AFL CIO]",
+"href": "https://www.mnaflcio.org/"
+},
+{
+"text": "[image: Minnesota Association of Professional Employees]",
+"href": "https://mape.org/"
+},
+{
+"text": "[image: Minnesota DFL Feminist Caucus]",
+"href": "https://www.dflfeminist.org/"
+},
+{
+"text": "[image: Minnesota DFL Senior Caucus]",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image: Minnesota DFL]",
+"href": "https://dfl.org/"
+},
+{
+"text": "[image: Minnesota Young DFL Endorsed 2026]",
+"href": "https://www.youngdfl.org/"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate 2026]",
+"href": "https://www.everytown.org/"
+},
+{
+"text": "[image: Move To Amend]",
+"href": "https://www.movetoamend.org/minnesota"
+},
+{
+"text": "[image: Northeast Metro Climate Action - Twin Cities, MN]",
+"href": "https://northeastmetroclimateaction.org/"
+},
+{
+"text": "[image: Northern Midwest Regional Council of Carpenters]",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "[image: Powered by Inseparable Action - Mental Helath Now. Mental Health Candidate 2026]",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "[image: Save the Boundary Waters Action Fund]",
+"href": "https://www.boundarywatersaction.org/"
+},
+{
+"text": "[image: Sierra Club Endorsed]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[image: Women Winning]",
+"href": "https://womenwinning.org/"
+},
+{
+"text": "[image: mncpa - Elevate your impact.]",
+"href": "https://www.mncpa.org/involvement/legislative/election-guide/district-39/"
+},
+{
+"text": "[image: Łomianki Park in the City of Columbia Heights, MN had its sign corrected by Mayor Amáda Márquez Simula to reflect the true spelling of its Sister City, Łomianki Poland.]",
+"href": "https://www.hometownsource.com/abc_newspapers/news/photosandvideo/columbia-heights-plants-tree-for-sister-city-on-arbor-day-at-omianki-park/article_25bb2208-aebd-11eb-8461-eba1e71a88a1.html"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+}
 ]

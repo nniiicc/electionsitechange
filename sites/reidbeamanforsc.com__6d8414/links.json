@@ -1,23 +1,94 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/reidbeamanforsc",
-"https://instagram.com/reidbeamanforsc",
-"https://reidbeamanforsc.com/",
-"https://reidbeamanforsc.com/about",
-"https://reidbeamanforsc.com/b36199b8-1021-4b13-b1a3-593b0544c898",
-"https://reidbeamanforsc.com/contact",
-"https://reidbeamanforsc.com/house-district-87-survey",
-"https://reidbeamanforsc.com/news",
-"https://reidbeamanforsc.com/sc-house-district-87-map",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/early-voting",
-"https://scvotes.gov/voters/register-to-vote",
-"https://secure.actblue.com/donate/votesforbeaman",
-"https://secure.actblue.com/donate/votesforbeaman?amount=10",
-"https://secure.actblue.com/donate/votesforbeaman?amount=100",
-"https://secure.actblue.com/donate/votesforbeaman?amount=25",
-"https://secure.actblue.com/donate/votesforbeaman?amount=250",
-"https://secure.actblue.com/donate/votesforbeaman?amount=50",
-"https://tiktok.com/@reidbeamanforsc",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/votesforbeaman?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/votesforbeaman?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/votesforbeaman?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/votesforbeaman?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/votesforbeaman?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.reidbeamanforsc.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=VoterInformation"
+},
+{
+"text": "Contact",
+"href": "https://www.reidbeamanforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesforbeaman"
+},
+{
+"text": "Early voting locations",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "Learn More",
+"href": "https://www.reidbeamanforsc.com/about"
+},
+{
+"text": "News",
+"href": "https://www.reidbeamanforsc.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/votesforbeaman"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "SC House District 87 Map",
+"href": "https://www.reidbeamanforsc.com/sc-house-district-87-map"
+},
+{
+"text": "Take the Survey",
+"href": "https://www.reidbeamanforsc.com/house-district-87-survey"
+},
+{
+"text": "[image: Beaman Lgo]",
+"href": "https://www.reidbeamanforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@reidbeamanforsc"
+},
+{
+"text": "https://reidbeamanforsc/privacy-policy/",
+"href": "https://www.reidbeamanforsc.com/b36199b8-1021-4b13-b1a3-593b0544c898"
+}
 ]

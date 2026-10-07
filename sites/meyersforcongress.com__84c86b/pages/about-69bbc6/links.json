@@ -1,7 +1,50 @@
 [
-"https://meyersforcongress.com/",
-"https://meyersforcongress.com/about",
-"https://meyersforcongress.com/issues",
-"https://meyersforcongress.com/media",
-"https://x.com/ScottAMeyersLA"
+{
+"text": "Contact",
+"href": "https://www.meyersforcongress.com/#contact"
+},
+{
+"text": "District",
+"href": "https://www.meyersforcongress.com/#district"
+},
+{
+"text": "Donate",
+"href": "https://www.meyersforcongress.com/#donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.meyersforcongress.com/#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.meyersforcongress.com/#endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.meyersforcongress.com/#contact"
+},
+{
+"text": "Home",
+"href": "https://www.meyersforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.meyersforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.meyersforcongress.com/media"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.meyersforcongress.com/about"
+},
+{
+"text": "[image: Scott Alan Meyers for Congress]",
+"href": "https://www.meyersforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ScottAMeyersLA"
+}
 ]

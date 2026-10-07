@@ -1,10 +1,38 @@
 [
-"https://facebook.com/GreggForHD30",
-"https://instagram.com/randynformt?igsh=MXU2YzhtOWl3Mnkydg%3D%3D",
-"https://randynformontana.com/",
-"https://randynformontana.com/about",
-"https://randynformontana.com/contact",
-"https://randynformontana.com/news",
-"https://randynformontana.com/platform",
-"https://secure.winred.com/randyn-for-montana/donate"
+{
+"text": "About",
+"href": "https://www.randynformontana.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.randynformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/randyn-for-montana/donate"
+},
+{
+"text": "Home",
+"href": "https://www.randynformontana.com"
+},
+{
+"text": "Media",
+"href": "https://www.randynformontana.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.randynformontana.com/platform"
+},
+{
+"text": "[image: 2024 logo 3rd copy.jpeg]",
+"href": "https://www.randynformontana.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GreggForHD30"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/randynformt?igsh=MXU2YzhtOWl3Mnkydg%3D%3D"
+}
 ]

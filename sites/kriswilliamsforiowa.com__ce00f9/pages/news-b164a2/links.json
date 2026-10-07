@@ -1,51 +1,206 @@
 [
-"https://bsky.app/profile/@kriswilliams4iowa.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61579789080435",
-"https://instagram.com/kriswilliamsforiowa",
-"https://kriswilliamsforiowa.com/",
-"https://kriswilliamsforiowa.com/about",
-"https://kriswilliamsforiowa.com/about-copy",
-"https://kriswilliamsforiowa.com/contact1",
-"https://kriswilliamsforiowa.com/endorsements",
-"https://kriswilliamsforiowa.com/events",
-"https://kriswilliamsforiowa.com/new-page",
-"https://kriswilliamsforiowa.com/news/4th-of-july",
-"https://kriswilliamsforiowa.com/news/campaign-calendar-week-of-sep-14-20",
-"https://kriswilliamsforiowa.com/news/canvassing-event-23rd",
-"https://kriswilliamsforiowa.com/news/door-knocking-event",
-"https://kriswilliamsforiowa.com/news/fort-dodge-pridee",
-"https://kriswilliamsforiowa.com/news/frontier-days",
-"https://kriswilliamsforiowa.com/news/headline-goes-here",
-"https://kriswilliamsforiowa.com/news/ice-cream-social",
-"https://kriswilliamsforiowa.com/news/karaoke-with-the-candidates",
-"https://kriswilliamsforiowa.com/news/kris-williams-canvass-event",
-"https://kriswilliamsforiowa.com/news/letter-to-the-editor-4062026",
-"https://kriswilliamsforiowa.com/news/meet-chris-jones-and-clean-water-candidates-in-kiron",
-"https://kriswilliamsforiowa.com/news/news-1",
-"https://kriswilliamsforiowa.com/news/news-2",
-"https://kriswilliamsforiowa.com/news/weekly-campaign-calendar-sep-21-27",
-"https://kriswilliamsforiowa.com/news/weekly-update-10-woke-trans",
-"https://kriswilliamsforiowa.com/news/weekly-update-11",
-"https://kriswilliamsforiowa.com/news/weekly-update-2",
-"https://kriswilliamsforiowa.com/news/weekly-update-3",
-"https://kriswilliamsforiowa.com/news/weekly-update-5",
-"https://kriswilliamsforiowa.com/news/weekly-update-58",
-"https://kriswilliamsforiowa.com/news/weekly-update-67",
-"https://kriswilliamsforiowa.com/news/weekly-update-713",
-"https://kriswilliamsforiowa.com/news/weekly-update-8-may-31",
-"https://kriswilliamsforiowa.com/news/weekly-update-817",
-"https://kriswilliamsforiowa.com/news/weekly-update-824",
-"https://kriswilliamsforiowa.com/news/weekly-update-831",
-"https://kriswilliamsforiowa.com/news/weekly-update-9-water-quality",
-"https://kriswilliamsforiowa.com/news/weekly-update-913",
-"https://kriswilliamsforiowa.com/news/weekly-update-921",
-"https://kriswilliamsforiowa.com/privacy-policy",
-"https://kriswilliamsforiowa.com/take-action",
-"https://kriswilliamsforiowa.com/terms-and-conditions",
-"https://kriswilliamsforiowa.com/volunteer",
-"https://linktree.com/kriswilliamsforiowa",
-"https://secure.actblue.com/donate/kris-williams-1",
-"https://tiktok.com/@kriswilliamsforiowa",
-"https://x.com/Kristof92108985"
+{
+"text": "About",
+"href": "https://www.kriswilliamsforiowa.com/about"
+},
+{
+"text": "About",
+"href": "https://www.kriswilliamsforiowa.com/about-copy"
+},
+{
+"text": "Contact",
+"href": "https://www.kriswilliamsforiowa.com/contact1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kris-williams-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kriswilliamsforiowa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kriswilliamsforiowa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kriswilliamsforiowa.com/new-page"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kriswilliamsforiowa.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/events"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/4th-of-july"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/campaign-calendar-week-of-sep-14-20"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/canvassing-event-23rd"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/door-knocking-event"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/fort-dodge-pridee"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/frontier-days"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/headline-goes-here"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/ice-cream-social"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/karaoke-with-the-candidates"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/kris-williams-canvass-event"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/letter-to-the-editor-4062026"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/meet-chris-jones-and-clean-water-candidates-in-kiron"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/news-1"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/news-2"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-campaign-calendar-sep-21-27"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-10-woke-trans"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-11"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-2"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-3"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-5"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-58"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-67"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-713"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-8-may-31"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-817"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-824"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-831"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-9-water-quality"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-913"
+},
+{
+"text": "Read more",
+"href": "https://www.kriswilliamsforiowa.com/news/weekly-update-921"
+},
+{
+"text": "Take Action",
+"href": "https://www.kriswilliamsforiowa.com/take-action"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.kriswilliamsforiowa.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kriswilliamsforiowa.com/volunteer"
+},
+{
+"text": "[image: Kris Williams for Iowa]",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/@kriswilliams4iowa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579789080435"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Kristof92108985"
+}
 ]

@@ -1,12 +1,58 @@
 [
-"http://events/",
-"https://katenugent.org/about",
-"https://katenugent.org/donate",
-"https://katenugent.org/events",
-"https://katenugent.org/home",
-"https://katenugent.org/issues-endorsements",
-"https://katenugent.org/news",
-"https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-10.pdf",
-"https://legislature.vermont.gov/committee/detail/2024/14",
-"https://southburlingtonvt.gov/departments/city_clerk/elections_and_voting.php"
+{
+"text": "About",
+"href": "https://www.katenugent.org/about"
+},
+{
+"text": "Chittenden County's 10",
+"href": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Chittenden-10.pdf"
+},
+{
+"text": "DONATE",
+"href": "http://events"
+},
+{
+"text": "Donate",
+"href": "https://www.katenugent.org/donate"
+},
+{
+"text": "Events",
+"href": "https://www.katenugent.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.katenugent.org/home"
+},
+{
+"text": "Issues & Endorsements",
+"href": "https://www.katenugent.org/issues-endorsements"
+},
+{
+"text": "Kate Nugent * State Representative",
+"href": "https://www.katenugent.org/home"
+},
+{
+"text": "News",
+"href": "https://www.katenugent.org/news"
+},
+{
+"text": "here",
+"href": "https://www.southburlingtonvt.gov/departments/city_clerk/elections_and_voting.php"
+},
+{
+"text": "homepage here",
+"href": "https://legislature.vermont.gov/committee/detail/2024/14"
+},
+{
+"text": "katenugent@gmail.com",
+"href": "mailto:katenugent@gmail.com"
+},
+{
+"text": "knugent@leg.state.vt.us",
+"href": "mailto:knugent@leg.state.vt.us"
+},
+{
+"text": "mid and end of session reports.",
+"href": "https://www.katenugent.org/news"
+}
 ]

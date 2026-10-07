@@ -1,20 +1,102 @@
 [
-"https://alexforaz.com/es",
-"https://alexforaz.com/es/conoce-a-alex",
-"https://alexforaz.com/es/contacto",
-"https://alexforaz.com/es/plataforma",
-"https://alexforaz.com/es/unete",
-"https://alexforaz.com/es/vota",
-"https://alexforaz.com/privacy-policy",
-"https://alexforaz.com/vote",
-"https://azsos.gov/elections/about-elections/county-election-contact-info",
-"https://azsos.gov/elections/election-information/2026-election-info",
-"https://azsos.gov/elections/voters/early-voting",
-"https://azsos.gov/elections/voters/register-vote-update-current-voter-information",
-"https://facebook.com/AlexForAZ",
-"https://instagram.com/realalexkolodin",
-"https://my.arizona.vote/PortalList.aspx",
-"https://my.arizona.vote/WhereToVote.aspx?s=address",
-"https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027",
-"https://x.com/realalexkolodin"
+{
+"text": "Abrir my.Arizona.vote",
+"href": "https://my.arizona.vote/PortalList.aspx"
+},
+{
+"text": "Abrir my.Arizona.vote↗",
+"href": "https://my.arizona.vote/PortalList.aspx"
+},
+{
+"text": "Conoce a Alex",
+"href": "https://www.alexforaz.com/es/conoce-a-alex"
+},
+{
+"text": "Contacto",
+"href": "https://www.alexforaz.com/es/contacto"
+},
+{
+"text": "Contactos electorales de los condados ↗",
+"href": "https://azsos.gov/elections/about-elections/county-election-contact-info"
+},
+{
+"text": "Donar",
+"href": "https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027"
+},
+{
+"text": "Encontrar un centro de votación↗",
+"href": "https://my.arizona.vote/WhereToVote.aspx?s=address"
+},
+{
+"text": "English",
+"href": "https://www.alexforaz.com/vote"
+},
+{
+"text": "EnglishEN",
+"href": "https://www.alexforaz.com/vote"
+},
+{
+"text": "Español",
+"href": "https://www.alexforaz.com/es/vota"
+},
+{
+"text": "EspañolES",
+"href": "https://www.alexforaz.com/es/vota"
+},
+{
+"text": "Información electoral de 2026 ↗",
+"href": "https://azsos.gov/elections/election-information/2026-election-info"
+},
+{
+"text": "Información sobre votación anticipada ↗",
+"href": "https://azsos.gov/elections/voters/early-voting"
+},
+{
+"text": "Inicio",
+"href": "https://www.alexforaz.com/es"
+},
+{
+"text": "Plataforma",
+"href": "https://www.alexforaz.com/es/plataforma"
+},
+{
+"text": "Política de privacidad",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Verificar mi registro",
+"href": "https://azsos.gov/elections/voters/register-vote-update-current-voter-information"
+},
+{
+"text": "Verificar mi registro↗",
+"href": "https://azsos.gov/elections/voters/register-vote-update-current-voter-information"
+},
+{
+"text": "Vota",
+"href": "https://www.alexforaz.com/es/vota"
+},
+{
+"text": "[image: Alex Kolodin for Secretary of State]",
+"href": "https://www.alexforaz.com/es"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/realalexkolodin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realalexkolodin"
+},
+{
+"text": "política de privacidad de la campaña",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Únete",
+"href": "https://www.alexforaz.com/es/unete"
+}
 ]

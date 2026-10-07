@@ -1,7 +1,22 @@
 [
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/healthcare-shouldnt-be-this-hard.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/ottawa-county-healthcare-navigation.html",
-"https://zickusfor89th.com/priorities.html"
+{
+"text": "Browse the Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Compare candidate positions",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Healthcare Shouldn’t Be This Hard",
+"href": "https://zickusfor89th.com/healthcare-shouldnt-be-this-hard.html"
+},
+{
+"text": "Navigating Healthcare in Ottawa County: Making the System Easier for Families",
+"href": "https://zickusfor89th.com/ottawa-county-healthcare-navigation.html"
+},
+{
+"text": "← Back to priorities",
+"href": "https://zickusfor89th.com/priorities.html"
+}
 ]

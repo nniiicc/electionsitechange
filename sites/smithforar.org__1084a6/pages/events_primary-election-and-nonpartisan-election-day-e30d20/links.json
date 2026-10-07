@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+and+Nonpartisan+Election+Day&dates=20260303T133000Z%2F20260303T133000Z",
-"http://instagram.com/smith_for_ar_13",
-"https://arvotes.org/contents",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/dpbc-march-meeting",
-"https://smithforar.org/events/primary-election-and-nonpartisan-election-day?format=ical",
-"https://smithforar.org/events/rogers-lowell-chamber-of-commerce",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store",
-"https://voterview.ar-nova.org/VoterView"
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "AR Votes",
+"href": "https://www.arvotes.org/contents"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+and+Nonpartisan+Election+Day&dates=20260303T133000Z%2F20260303T133000Z"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/primary-election-and-nonpartisan-election-day?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Next Next March 9 Democratic Party of Benton County - March Meeting",
+"href": "https://smithforar.org/events/dpbc-march-meeting"
+},
+{
+"text": "Previous Previous February 5 Rogers-Lowell Chamber of Commerce Hob Nob at Joint Business After Hours",
+"href": "https://smithforar.org/events/rogers-lowell-chamber-of-commerce"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+},
+{
+"text": "polling place",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+}
 ]

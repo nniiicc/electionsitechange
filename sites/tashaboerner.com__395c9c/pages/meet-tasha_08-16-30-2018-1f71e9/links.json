@@ -1,17 +1,86 @@
 [
-"http://eepurl.com/c8gBO9",
-"http://google.com/calendar/event?action=TEMPLATE&text=Walking+to+Win+with+%23TeamTasha+in+August&dates=20180818T170000Z%2F20180831T030000Z&location=570+Laguna+Drive%2C+Suite+A%2C+Carlsbad%2C+CA+92008",
-"http://instagram.com/tashaboerner",
-"http://maps.google.com/?q=570+Laguna+Drive%2C+Suite+A+Carlsbad%2C+CA+92008",
-"https://efundraisingconnections.com/c/TashaBoernerforAssembly2026",
-"https://facebook.com/Tasha4Assembly",
-"https://flickr.com/photos/derekhumphrey/albums/72177720312376632",
-"https://tashaboerner.com/",
-"https://tashaboerner.com/about-tasha",
-"https://tashaboerner.com/issues",
-"https://tashaboerner.com/meet-tasha",
-"https://tashaboerner.com/meet-tasha/08-16-30-2018?format=ical",
-"https://tashaboerner.com/meet-tasha/20180923",
-"https://tashaboerner.com/meet-tasha/watchparty",
-"https://tashaboerner.com/yourpriorities"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=570+laguna+drive%2C+suite+a+carlsbad%2C+ca+92008+"
+},
+{
+"text": "About",
+"href": "https://tashaboerner.com/about-tasha"
+},
+{
+"text": "Back to All Events",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/TashaBoernerforAssembly2026/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walking+to+Win+with+%23TeamTasha+in+August&dates=20180818T170000Z%2F20180831T030000Z&location=570+Laguna+Drive%2C+Suite+A%2C+Carlsbad%2C+CA+92008"
+},
+{
+"text": "Home",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "ICS",
+"href": "https://tashaboerner.com/meet-tasha/08-16-30-2018?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://tashaboerner.com/issues"
+},
+{
+"text": "Meet Tasha",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Meet and Greet with Catherine S. Blakespear and Tasha Boerner Horvath",
+"href": "https://tashaboerner.com/meet-tasha/20180923"
+},
+{
+"text": "Newsletter sign-up",
+"href": "http://eepurl.com/c8gBO9"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632/"
+},
+{
+"text": "Watch Party with Team Tasha",
+"href": "https://tashaboerner.com/meet-tasha/watchparty"
+},
+{
+"text": "Your priorities",
+"href": "https://tashaboerner.com/yourpriorities"
+},
+{
+"text": "[image: Tasha Boerner for Assembly 2024]",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/tashaboerner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tasha4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632"
+},
+{
+"text": "[no text]",
+"href": "mailto:tasha@tasha4assembly.com"
+},
+{
+"text": "ethan@tasha4assembly.com",
+"href": "mailto:ethan@tasha4assembly.com"
+},
+{
+"text": "tasha@tashaboerner.com",
+"href": "mailto:tasha@tashaboerner.com"
+}
 ]

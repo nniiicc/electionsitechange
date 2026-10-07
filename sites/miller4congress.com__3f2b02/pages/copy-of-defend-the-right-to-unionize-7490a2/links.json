@@ -1,14 +1,58 @@
 [
-"https://miller4congress.com/",
-"https://miller4congress.com/about-5",
-"https://miller4congress.com/about-5-1",
-"https://miller4congress.com/blog",
-"https://miller4congress.com/copy-of-bio",
-"https://miller4congress.com/copy-of-campaign-information",
-"https://miller4congress.com/copy-of-campaign-information-1",
-"https://miller4congress.com/copy-of-main-page-1",
-"https://miller4congress.com/copy-of-other-issues",
-"https://miller4congress.com/copy-of-welcome",
-"https://miller4congress.com/copy-of-welcome-1",
-"https://miller4congress.com/donate"
+{
+"text": "BIO",
+"href": "https://www.miller4congress.com/about-5-1"
+},
+{
+"text": "CAMPAIGN INFORMATION",
+"href": "https://www.miller4congress.com/copy-of-welcome"
+},
+{
+"text": "EMAIL SUBSCRIBE",
+"href": "https://www.miller4congress.com/copy-of-other-issues"
+},
+{
+"text": "ISSUES",
+"href": "https://www.miller4congress.com/blog"
+},
+{
+"text": "Issues",
+"href": "https://www.miller4congress.com/copy-of-main-page-1"
+},
+{
+"text": "MEDIA COVERAGE",
+"href": "https://www.miller4congress.com/copy-of-campaign-information"
+},
+{
+"text": "MT2 Townhall Question Form",
+"href": "https://www.miller4congress.com/copy-of-campaign-information-1"
+},
+{
+"text": "MY STATEMENT OF CANDIDACY",
+"href": "https://www.miller4congress.com/about-5"
+},
+{
+"text": "Main Page",
+"href": "https://www.miller4congress.com/copy-of-welcome-1"
+},
+{
+"text": "Miller for Congress",
+"href": "https://www.miller4congress.com"
+},
+{
+"text": "SUPPORT OUR CAMPAIGN",
+"href": "https://www.miller4congress.com/donate"
+},
+{
+"text": "Signature Fraud Investigation",
+"href": "https://www.miller4congress.com/copy-of-bio"
+},
+{
+"text": "WELCOME",
+"href": "https://www.miller4congress.com"
+},
+{
+"text": "brian@miller4congress.com",
+"href": "mailto:brian@miller4congress.com"
+}
 ]

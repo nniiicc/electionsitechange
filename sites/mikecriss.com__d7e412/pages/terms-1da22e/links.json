@@ -1,7 +1,38 @@
 [
-"https://facebook.com/crissforsenate",
-"https://forms.gle/1Hsma5pBBp6r7vw9A",
-"https://mikecriss.com/",
-"https://mikecriss.com/privacy",
-"https://mikecriss.com/terms"
+{
+"text": "About Mike",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Contact",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Home",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Lawn Sign",
+"href": "https://forms.gle/1Hsma5pBBp6r7vw9A"
+},
+{
+"text": "MIKE CRISS",
+"href": "https://www.mikecriss.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikecriss.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.mikecriss.com/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/crissforsenate"
+},
+{
+"text": "info@mikecriss.com",
+"href": "mailto:info@mikecriss.com"
+}
 ]

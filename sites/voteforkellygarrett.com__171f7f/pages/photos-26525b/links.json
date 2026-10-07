@@ -1,35 +1,134 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/kellygarrettforcommunity",
-"https://i.campaignpartner.net/images/cdn_queue/148220/029e967be6484552be58bee53d1c6125.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/0c8d7a7b3e9d4f9d8211fe740fc37868.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/12ad043fcd5f44108d15e0816887fa50.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/32d69ab9d48b442cb6de9fe55411cf39.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/33f2c42c89bb4e7f9c5c8ba8e61b5367.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/3438656a04d34566926c52b2ec80a7f1.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/3455e1464e644f0f901d9b69491645a2.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/4625ff4a9210493aaf83eddbfc81e1b9.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/6950aa15463c4babbb5b839db9dec47e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/ae41fe43d2f94cc8aeae533bc7d6466b.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/bc30d65fc062425b8b7f0e2247958381.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/c86c483d99194084b9f81c1a7b340771.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/d73be80c666d46288cd0ebb3707a806e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/f35374b14fdf44e285c19965ec1ad558.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/fa4ccad0b79f4e3494dc0fb2e3f60f46.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/148220/fb414ccc86ce4261aa10628ae190d9ff.jpg",
-"https://linkedin.com/in/kellyg1",
-"https://voteforkellygarrett.com/",
-"https://voteforkellygarrett.com/contact",
-"https://voteforkellygarrett.com/contribute",
-"https://voteforkellygarrett.com/events",
-"https://voteforkellygarrett.com/home",
-"https://voteforkellygarrett.com/issues",
-"https://voteforkellygarrett.com/meet_kelly",
-"https://voteforkellygarrett.com/news",
-"https://voteforkellygarrett.com/photos",
-"https://voteforkellygarrett.com/privacy-policy",
-"https://voteforkellygarrett.com/view-endorsements",
-"https://voteforkellygarrett.com/volunteer",
-"https://voteforkellygarrett.com/vote",
-"https://voteforkellygarrett.com/yard-sign"
+{
+"text": "Contact",
+"href": "https://www.voteforkellygarrett.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteforkellygarrett.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteforkellygarrett.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteforkellygarrett.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voteforkellygarrett.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteforkellygarrett.com/issues"
+},
+{
+"text": "Meet Kelly",
+"href": "https://www.voteforkellygarrett.com/meet_kelly"
+},
+{
+"text": "News",
+"href": "https://www.voteforkellygarrett.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.voteforkellygarrett.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforkellygarrett.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteforkellygarrett.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voteforkellygarrett.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.voteforkellygarrett.com/yard-sign"
+},
+{
+"text": "[image: Kelly Garrett State Representative - District 18]",
+"href": "https://www.voteforkellygarrett.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/029e967be6484552be58bee53d1c6125.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/0c8d7a7b3e9d4f9d8211fe740fc37868.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/12ad043fcd5f44108d15e0816887fa50.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/32d69ab9d48b442cb6de9fe55411cf39.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/33f2c42c89bb4e7f9c5c8ba8e61b5367.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/3438656a04d34566926c52b2ec80a7f1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/3455e1464e644f0f901d9b69491645a2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/4625ff4a9210493aaf83eddbfc81e1b9.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/6950aa15463c4babbb5b839db9dec47e.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/ae41fe43d2f94cc8aeae533bc7d6466b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/bc30d65fc062425b8b7f0e2247958381.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/c86c483d99194084b9f81c1a7b340771.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/d73be80c666d46288cd0ebb3707a806e.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/f35374b14fdf44e285c19965ec1ad558.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/fa4ccad0b79f4e3494dc0fb2e3f60f46.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/148220/fb414ccc86ce4261aa10628ae190d9ff.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kellygarrettforcommunity/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kellyg1/"
+}
 ]

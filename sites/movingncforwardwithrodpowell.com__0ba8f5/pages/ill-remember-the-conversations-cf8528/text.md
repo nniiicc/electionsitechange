@@ -1,4 +1,6 @@
-By the end of this week, I’d spent time in Belwood, Lincolnton, Shelby, Gardner-Webb, Lexington, and back home in Casar.
+Skip to content Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+DONATE DONATE DONATE DONATE Moving NC Forward with Rod Powell Powered by people, driven by purpose.
+I’ll Remember the Conversations By Rod Powell / August 6, 2026 By the end of this week, I’d spent time in Belwood, Lincolnton, Shelby, Gardner-Webb, Lexington, and back home in Casar.
 Looking at my calendar, it seemed like another busy week of meetings and events.
 Looking back, though, that’s not what I’ll remember.
 I’ll remember the conversations.
@@ -13,7 +15,7 @@ I left that visit grateful.
 A campaign that stretches across Cleveland County, Lincoln County, and the Cherryville area of Gaston County depends on people willing to give their time.
 I’m thankful for every one of them.
 That evening, we gathered at the historic Don Gibson Theatre in Shelby for the Cleveland County Democratic Party’s annual fundraising gala.
-As county chair, I welcomed everyone before speaking about why I decided to run for the North Carolina Senate, representing District 44.
+As county chair, I welcomed everyone before speaking about why I decided to run for the North Carolina Senate, representing District 44 .
 The theater was packed.
 The food was excellent, and a group of local pastors had the crowd singing along to Motown classics made famous by the Four Tops and the Temptations.
 Before long, I was out on the dance floor with Kim.
@@ -72,4 +74,4 @@ Every one of those conversations teaches me a little more about the district I�
 District 44 has been teaching me a little more every day.
 I’ll keep listening.
 I’ll keep showing up.
-I’ll see you somewhere around District 44 next week.
+I’ll see you somewhere around District 44 next week. ← Previous Post Search for: Home About Endorsements Issues Blog Volunteer Donate Contact Home About Endorsements Issues Blog Volunteer Donate Contact Contact Me Call Me: (980) 368-0377 Email Me Follow Me Facebook Instagram Threads Bluesky TikTok YouTube Substack Menu Home About Issues Blog Endorsements Volunteer Donate Contact Privacy Policy Copyright © # Moving NC Forward with Rod Powell | Powered by Moving NC Forward with Rod Powell Scroll to Top

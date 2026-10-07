@@ -1,9 +1,38 @@
 [
-"https://klauzerfornd.com/",
-"https://klauzerfornd.com/contact",
-"https://klauzerfornd.com/get-involved",
-"https://klauzerfornd.com/home",
-"https://klauzerfornd.com/news",
-"https://klauzerfornd.com/senator-dean-rummel-and-kylan-klauzer-announce-joint-candidacy-for-district-37",
-"https://secure.winred.com/klauzer-for-nd/donate"
+{
+"text": "Contact",
+"href": "https://klauzerfornd.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/klauzer-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://klauzerfornd.com/get-involved/"
+},
+{
+"text": "MEET KYLAN",
+"href": "https://klauzerfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://klauzerfornd.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://klauzerfornd.com/home/#priorities"
+},
+{
+"text": "Read More",
+"href": "https://klauzerfornd.com/senator-dean-rummel-and-kylan-klauzer-announce-joint-candidacy-for-district-37/"
+},
+{
+"text": "Senator Dean Rummel and Kylan Klauzer Announce Joint Candidacy for District 37",
+"href": "https://klauzerfornd.com/senator-dean-rummel-and-kylan-klauzer-announce-joint-candidacy-for-district-37/"
+},
+{
+"text": "[image]",
+"href": "https://klauzerfornd.com/"
+}
 ]

@@ -1,4 +1,4 @@
-Who Am I?
+0 Skip to Content HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Open Menu Close Menu HOME MEET JULIO ISSUES ENDORSEMENTS CONTACT DONATE Who Am I?
 My father was the second youngest in a pack of 9 siblings.
 They travelled as migrant farmers from New York to California before settling in the Rio Grande Valley.
 The promise of America and the Rio Grande Valley was still alive.
@@ -16,18 +16,15 @@ Living in the Valley was never easy, but it was never this hard.
 We’ve been left behind.
 The leaders we trusted to fight for us have stopped fighting — and our families are paying the price.
 That’s why I’m running for State Representative in House District 41.
-I’m running to restore opportunity, rebuild our sense of community, and make sure working families are prioritized
-As a longtime organizer and capitol staffer, I have the experience and the drive to organize a more connected community at home and deliver major investments into our community in Austin.
-I’m running to fight for:
-- Investments in education, so every child can succeed.
-- Access to affordable healthcare and mental health services.
-- Good jobs and strong labor protections, so hard work once again pays off.
+I’m running to restore opportunity, rebuild our sense of community, and make sure working families are prioritized As a longtime organizer and capitol staffer, I have the experience and the drive to organize a more connected community at home and deliver major investments into our community in Austin.
+I’m running to fight for: Investments in education, so every child can succeed.
+Access to affordable healthcare and mental health services.
+Good jobs and strong labor protections, so hard work once again pays off.
 It’s clear we’re up against financial powerhouses but hard work and rebuilding community will be what will win us the RGV, along with small dollar donors willing to pitch in what they can.
 This is a scrappy community campaign and it belongs to the working families that built the RGV.
 It's about neighbors coming together to rebuild trust in our leaders and in each other.
 This campaign will not be easy but this is a critical moment for the future of the Valley and failure is NOT an option.
-Meet Julio Salinas
-Contact us
-Interested in working together?
+Meet Julio Salinas Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+For inquiries, please contact: Jake Webber (Campaign Manager) jake@julioforrgv.com (512)-968-3299 For inquiries, please contact: Julio Salinas julio@julioforrgv.com PAID FOR BY JULIO FOR TEXAS

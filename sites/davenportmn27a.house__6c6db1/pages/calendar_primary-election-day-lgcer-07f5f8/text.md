@@ -1,12 +1,2 @@
-Back to All Events
-- Ballots available for in person and mail voting: Friday, September 18
-- Start of Early Voting*: Friday, October 16
-- Last day to vote early in person: Monday, November 2
-- Ballots must be received by: Tuesday, November 3
-Previous
-Previous
-October 28
-TBD Door Knocking
-Next
-Next
-November 11
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Back to All Events Election Day!
+Tuesday, November 3, 2026 11:00 AM 12:00 PM Google Calendar ICS Ballots available for in person and mail voting : Friday, September 18 Start of Early Voting* : Friday, October 16 Last day to vote early in person : Monday, November 2 Ballots must be received by : Tuesday, November 3 Source: https://sos.mn.gov/elections-voting/other-ways-to-vote/ Previous Previous October 28 TBD Door Knocking Next Next November 11 DFL SD27 Monthly Meeting Paid for by Davenport for Minnesota House 27A

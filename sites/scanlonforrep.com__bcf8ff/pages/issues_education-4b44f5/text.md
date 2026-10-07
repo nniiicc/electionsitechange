@@ -1,5 +1,4 @@
-Embedded Files
-Every student in Massachusetts deserves access to a high-quality public education that prepares them for college, a career, and full participation in their community.
+Search this site Embedded Files Skip to main content Skip to navigation HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety More HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety Education Every student in Massachusetts deserves access to a high-quality public education that prepares them for college, a career, and full participation in their community.
 Our education system should provide students with meaningful choices, protect local decision-making, invest in students with the greatest needs, and ensure that schools remain places where students can learn, participate, and express themselves.
 I have filed legislation on the following priorities.
 Expand access to vocational-technical education.
@@ -31,8 +30,7 @@ The Commonwealth should examine how standardized admissions tests affect access 
 Provide effective tools for resolving educator labor disputes.
 School districts and educators should have access to a structured, voluntary arbitration process when collective bargaining reaches an impasse.
 A fair and timely process can help resolve prolonged disputes while protecting collective bargaining and maintaining stability for students, educators, and communities.
-Successes
-Strengthen early literacy education.
+Successes Strengthen early literacy education.
 I supported landmark legislation that was signed into law to improve how Massachusetts teaches children to read by establishing statewide standards for evidence-based literacy instruction, including phonics, fluency, vocabulary, comprehension, and phonemic awareness.
 The legislation ensures schools have access to high-quality K-3 reading curricula, strengthens dyslexia and literacy screening, requires regular assessments so struggling readers can be identified and supported earlier, and provides families with information and intervention plans when students fall behind.
 It also strengthens training and professional development for teachers, paraprofessionals, and reading specialists and ensures educator preparation programs are aligned with evidence-based reading practices.
@@ -40,7 +38,7 @@ These reforms will help ensure that every child, regardless of their community o
 Invest in public education at every level.
 I supported a state budget that was signed into law that completed the Commonwealth’s commitment to fully fund and implement the Student Opportunity Act, delivering record Chapter 70 aid to our public schools and increasing minimum per-pupil funding.
 The budget also made major investments in special education, including funding to reimburse districts for the costs of educating students with disabilities and complex needs.
-I was also proud that the budget included my legislation to reestablish the Foundation Budget Review Commission, which will examine the rising costs facing school districts, including special education, transportation, personnel, and educator health care, and determine how our school funding formula should be updated to better reflect those costs.
+I was also proud that the budget included my legislation to reestablish the Foundation Budget Review Commission , which will examine the rising costs facing school districts, including special education, transportation, personnel, and educator health care, and determine how our school funding formula should be updated to better reflect those costs.
 We also continued our commitment to universal free school meals, free community college through MassEducate and MassReconnect, early education and child care providers, rural schools, and additional supports for students receiving special education services.
 These investments help provide students with a high-quality education while reducing financial pressures on families and local communities.
 Invest Fair Share funding directly in students, families, and public schools.
@@ -63,8 +61,4 @@ I was proud to help lead and sponsor landmark legislation protecting free expres
 The legislation establishes clear, consistent standards for selecting and reviewing library materials so that decisions are based on educational, literary, artistic, and age-appropriate considerations rather than political or ideological pressure.
 It creates a transparent public process for challenges to school library materials, protects librarians and educators who make good-faith professional decisions, and provides avenues to appeal decisions to remove materials.
 These protections will ensure that students and residents continue to have access to a broad range of ideas and perspectives while preserving the ability of parents and community members to raise legitimate concerns through a fair and transparent process.
-Mansfield High School
-North Attleboro High School
-Attleboro High School
-Google Sites
-Report abuse
+Mansfield High School North Attleboro High School Attleboro High School ISSUES adam.scanlon@scanlonforstaterepma.com DONATE PRIVACY Google Sites Report abuse Google Sites Report abuse

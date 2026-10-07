@@ -1,12 +1,6 @@
-News & Updates
-Press Releases
-No Results Found
-The page you requested could not be found.
+MEET SHAWN PRIORITIES GET INVOLVED NEWS VOTE CONTACT CONTRIBUTE News & Updates Press Releases Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy,… Read More No Results Found The page you requested could not be found.
 Try refining your search, or use the navigation above to locate the post.
-In the News
-Roers Hires New Director of Business Development
-News & Updates FARGO – Roers is proud to announce and welcome Shawn Kessel as the Director of Business Development.
-Kessel will oversee the commercial leasing process and leverage his extensive experience and professional relationships to identify development…
-North Dakota Treatment Foster Parent Testimonial
-News & Updates Shawn and Lori Kessel share their experience as foster parents.
-Latest News Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first…
+In the News District 27 House Candidate Shawn Kessel Joins Tyler Axness on Afternoons Live on KFGO News & Updates Shawn Kessel, Republican candidate for North Dakota House for District 27 in Fargo joined Tyler Axness on Afternoon Live on KFGO to talk about his campaign and priorities for District 27.
+Latest News Political newcomer announces bid for North Dakota… Read More Roers Hires New Director of Business Development Jan 24, 2025 | In the News News & Updates FARGO – Roers is proud to announce and welcome Shawn Kessel as the Director of Business Development.
+Kessel will oversee the commercial leasing process and leverage his extensive experience and professional relationships to identify development… North Dakota Treatment Foster Parent Testimonial Dec 9, 2022 | In the News News & Updates Shawn and Lori Kessel share their experience as foster parents.
+Latest News Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary News & Updates BISMARCK, ND – Governor Kelly Armstrong today announced his first… « Older Entries Next Entries »  STAY CONNECTED FULL NAME (Required) First Last Email (Required) Phone (Required) MESSAGE CAPTCHA Submit PAID FOR BY FRIENDS OF KESSEL

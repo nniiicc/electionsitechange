@@ -1,25 +1,114 @@
 [
-"https://bsky.app/profile/joshsmead.bsky.social",
-"https://facebook.com/profile.php?id=61574602100872",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260925T110000%2F20260926T180000&text=Liberty+Fall+Festival&details=%3Ch2+class%3D%22wp-block-heading%22%3ELiberty+Fall+Festival%3C%2Fh2%3E%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Cstrong%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Fwww.mobilize.us%2Fclaycountydemocraticcentralcommittee%2Fevent%2F1036911%2F%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3ESign+Up%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com",
-"https://instagram.com/smead_for_missouri",
-"https://mobilize.us/claycountydemocraticcentralcommittee/event/1036911",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-25T11%3A00%3A00%2B00%3A00&enddt=2026-09-26T18%3A00%3A00%2B00%3A00&subject=Liberty+Fall+Festival&body=Liberty+Fall+Festival%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-09-25T11%3A00%3A00%2B00%3A00&enddt=2026-09-26T18%3A00%3A00%2B00%3A00&subject=Liberty+Fall+Festival&body=Liberty+Fall+Festival%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E",
-"https://secure.actblue.com/donate/votesmead",
-"https://store.votesmead.com/",
-"https://threads.com/@smead_for_missouri",
-"https://tiktok.com/@josh.smead",
-"https://votesmead.com/",
-"https://votesmead.com/event/liberty-fall-festival-parade",
-"https://votesmead.com/event/terra-vox-winery-fundraiser",
-"https://votesmead.com/events",
-"https://votesmead.com/freedom",
-"https://votesmead.com/get-involved",
-"https://votesmead.com/media",
-"https://votesmead.com/meet-josh",
-"https://votesmead.com/privacy-policy",
-"https://votesmead.com/the-plan",
-"https://x.com/JoshSmead",
-"https://youtube.com/@JoshSmead"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesmead"
+},
+{
+"text": "Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260925T110000%2F20260926T180000&text=Liberty+Fall+Festival&details=%3Ch2+class%3D%22wp-block-heading%22%3ELiberty+Fall+Festival%3C%2Fh2%3E%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Cstrong%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fstrong%3E%3C%2Fp%3E+%3Cp+class%3D%22wp-block-paragraph%22%3E%3Ca+class%3D%22btn+btn--donate%22+href%3D%22https%3A%2F%2Fwww.mobilize.us%2Fclaycountydemocraticcentralcommittee%2Fevent%2F1036911%2F%22+target%3D%22_blank%22+rel%3D%22noopener+noreferrer%22%3ESign+Up%3C%2Fa%3E%3C%2Fp%3E+&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fvotesmead.com"
+},
+{
+"text": "Liberty Fall Festival Parade »",
+"href": "https://votesmead.com/event/liberty-fall-festival-parade/"
+},
+{
+"text": "Media",
+"href": "https://votesmead.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://votesmead.com/meet-josh/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T11%3A00%3A00%2B00%3A00&enddt=%23T18%3A00%3A00%2B00%3A00&location=&subject=Liberty+Fall+Festival&body=Liberty+Fall+Festival%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T11%3A00%3A00%2B00%3A00&enddt=%23T18%3A00%3A00%2B00%3A00&location=&subject=Liberty+Fall+Festival&body=Liberty+Fall+Festival%3Cp+class%3D%22wp-block-paragraph%22%3EJoin+Team+Smead+at+the+Liberty+Fall+Festival+in+historic+downtown+Liberty.+Clay+County+Democrats+will+have+a+booth+%E2%80%94+come+say+hello+and+help+show+strong+grassroots+support.%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3EHistoric+Downtown+Liberty%2C+MO%3C%2Fp%3E%3Cp+class%3D%22wp-block-paragraph%22%3ESign+Up%3C%2Fp%3E"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesmead.com/privacy-policy/"
+},
+{
+"text": "Sign Up",
+"href": "https://www.mobilize.us/claycountydemocraticcentralcommittee/event/1036911/"
+},
+{
+"text": "Store",
+"href": "https://store.votesmead.com/"
+},
+{
+"text": "The Plan",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "The Platform",
+"href": "https://votesmead.com/the-plan/"
+},
+{
+"text": "Volunteer",
+"href": "https://votesmead.com/get-involved/"
+},
+{
+"text": "What Freedom Means",
+"href": "https://votesmead.com/freedom/"
+},
+{
+"text": "[image: Josh Smead for Congress]",
+"href": "https://votesmead.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joshsmead.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574602100872"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/smead_for_missouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@smead_for_missouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@josh.smead"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JoshSmead"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JoshSmead"
+},
+{
+"text": "https://www.mobilize.us/claycountydemocraticcentralcommittee/event/1036911/",
+"href": "https://www.mobilize.us/claycountydemocraticcentralcommittee/event/1036911/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://votesmead.com/event/liberty-fall-festival/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://votesmead.com/events/"
+},
+{
+"text": "« Terra Vox Winery Fundraiser",
+"href": "https://votesmead.com/event/terra-vox-winery-fundraiser/"
+}
 ]

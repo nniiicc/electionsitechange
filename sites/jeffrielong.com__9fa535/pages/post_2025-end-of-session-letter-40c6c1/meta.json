@@ -1,9 +1,12 @@
 {
  "description": "Updates from Delegate Long after the 447th Legislative Session of the Maryland General Assembly.",
  "final_url": "https://www.jeffrielong.com/post/2025-end-of-session-letter",
- "paid_for_by": null,
+ "fingerprint": "41d3a579889fa9df5eec24dbc76427bb9e09f60a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2025 End of Session Letter",
  "years_mentioned": [
+  "2024",
   "2025",
   "2026"
  ]

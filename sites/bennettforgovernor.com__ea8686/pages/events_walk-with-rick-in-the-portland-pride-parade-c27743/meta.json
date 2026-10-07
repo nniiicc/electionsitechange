@@ -1,7 +1,11 @@
 {
- "description": "Email Riley@BennettForGovernor.com if you\u2019d like to join us!",
+ "description": "Email Riley@BennettForGovernor.com if you’d like to join us!",
  "final_url": "https://bennettforgovernor.com/events/walk-with-rick-in-the-portland-pride-parade",
- "paid_for_by": null,
- "title": "Walk with Rick in the Portland Pride Parade \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "f574d0b8c4a0c6c260be01580c14dfae2ec5f464",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "Walk with Rick in the Portland Pride Parade — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

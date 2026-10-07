@@ -1,10 +1,9 @@
 {
  "description": "Get in touch with Representative Pamelya Herndon for inquiries and support at her Albuquerque district office. Book an appointment or subscribe to our newsletter!",
  "final_url": "https://pamelyaherndon.com/contact",
- "paid_for_by": null,
+ "fingerprint": "1a9b56a8dcd80ae0d3f1c0c875d0be620f3021b4",
+ "format": 3,
+ "paid_for_by": "authorized by Herndon For NM, Bronwen Murray, Treasurer",
  "title": "Contact",
- "years_mentioned": [
-  "2021",
-  "2026"
- ]
+ "years_mentioned": []
 }

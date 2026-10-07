@@ -1,6 +1,26 @@
 [
-"https://lopezforaz.com/",
-"https://lopezforaz.com/cart",
-"https://lopezforaz.com/contact",
-"https://secure.winred.com/lopez-for-az/give"
+{
+"text": "0",
+"href": "https://www.lopezforaz.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.lopezforaz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lopez-for-az/give"
+},
+{
+"text": "Issues",
+"href": "https://www.lopezforaz.com/#issues"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.lopezforaz.com/#chris"
+},
+{
+"text": "[image: Chris Lopez for Arizona State House]",
+"href": "https://www.lopezforaz.com/"
+}
 ]

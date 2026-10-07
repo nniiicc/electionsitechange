@@ -1,12 +1,46 @@
 [
-"http://facebook.com/heintzeman",
-"http://joshheintzeman.com/donate",
-"http://twitter.com/joshheintzeman",
-"https://flickr.com/gp/136913926@N07/u582p7",
-"https://joshheintzeman.com/",
-"https://joshheintzeman.com/accomplishments",
-"https://joshheintzeman.com/donate",
-"https://joshheintzeman.com/lawn-sign",
-"https://joshheintzeman.com/news",
-"https://joshheintzeman.com/volunteer"
+{
+"text": "Accomplishments",
+"href": "https://joshheintzeman.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://joshheintzeman.com/donate/"
+},
+{
+"text": "Email the Campaign",
+"href": "javascript:;"
+},
+{
+"text": "Find on Facebook",
+"href": "http://facebook.com/heintzeman"
+},
+{
+"text": "Follow on Twitter",
+"href": "http://twitter.com/joshheintzeman"
+},
+{
+"text": "News",
+"href": "https://joshheintzeman.com/news"
+},
+{
+"text": "Request Sign",
+"href": "https://joshheintzeman.com/lawn-sign"
+},
+{
+"text": "Support Josh",
+"href": "http://joshheintzeman.com/donate/"
+},
+{
+"text": "View Photos on Flickr",
+"href": "https://www.flickr.com/gp/136913926@N07/u582p7"
+},
+{
+"text": "Volunteer",
+"href": "https://joshheintzeman.com/volunteer"
+},
+{
+"text": "[image: Josh Heintzeman for State Representative]",
+"href": "https://joshheintzeman.com"
+}
 ]

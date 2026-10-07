@@ -1,13 +1,62 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://pezzo4vthouse.com/",
-"https://pezzo4vthouse.com/about",
-"https://pezzo4vthouse.com/contact",
-"https://pezzo4vthouse.com/events-1",
-"https://pezzo4vthouse.com/general-1",
-"https://pezzo4vthouse.com/news",
-"https://pezzo4vthouse.com/post/june-2026-end-of-session-legislative-update-provided-by-colchester-s-state-representatives",
-"https://pezzo4vthouse.com/post/thank-you-for-joining-us-colchester",
-"https://pezzo4vthouse.com/post/the-governor-s-health-care-executive-order"
+{
+"text": "About",
+"href": "https://www.pezzo4vthouse.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.pezzo4vthouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.pezzo4vthouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.pezzo4vthouse.com/general-1"
+},
+{
+"text": "Events",
+"href": "https://www.pezzo4vthouse.com/events-1"
+},
+{
+"text": "Gayle Pezzo",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "June 2026 – End of Session Legislative Update Provided by Colchester’s State Representatives",
+"href": "https://www.pezzo4vthouse.com/post/june-2026-end-of-session-legislative-update-provided-by-colchester-s-state-representatives"
+},
+{
+"text": "Newsletter",
+"href": "https://www.pezzo4vthouse.com/news"
+},
+{
+"text": "Representing CHI-20",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "Thank you for joining us, Colchester!",
+"href": "https://www.pezzo4vthouse.com/post/thank-you-for-joining-us-colchester"
+},
+{
+"text": "The Governor’s Health Care Executive Order",
+"href": "https://www.pezzo4vthouse.com/post/the-governor-s-health-care-executive-order"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "gpezzo@leg.state.vt.us",
+"href": "mailto:gpezzo@leg.state.vt.us"
+}
 ]

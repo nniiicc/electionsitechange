@@ -1,50 +1,194 @@
 [
-"http://madinahfordelaware.com/mobile-terms-of-service",
-"http://madinahfordelaware.com/privacy-policy",
-"https://facebook.com/MadinahForDE",
-"https://instagram.com/madinahforde",
-"https://legis.delaware.gov/BillDetail?LegislationId=109409",
-"https://legis.delaware.gov/BillDetail?LegislationId=109463",
-"https://legis.delaware.gov/BillDetail?LegislationId=109575",
-"https://legis.delaware.gov/BillDetail?LegislationId=109591",
-"https://legis.delaware.gov/BillDetail?LegislationId=109593",
-"https://legis.delaware.gov/BillDetail?LegislationId=119655",
-"https://legis.delaware.gov/BillDetail?LegislationId=129700",
-"https://legis.delaware.gov/BillDetail?LegislationId=129729",
-"https://legis.delaware.gov/BillDetail?LegislationId=48445",
-"https://legis.delaware.gov/BillDetail?LegislationId=58598",
-"https://legis.delaware.gov/BillDetail?LegislationId=68637",
-"https://legis.delaware.gov/BillDetail?LegislationId=68671",
-"https://legis.delaware.gov/BillDetail?LegislationId=78765",
-"https://legis.delaware.gov/BillDetail?LegislationId=78766",
-"https://legis.delaware.gov/BillDetail?LegislationId=78767",
-"https://legis.delaware.gov/BillDetail?LegislationId=78777",
-"https://legis.delaware.gov/BillDetail?LegislationId=78838",
-"https://legis.delaware.gov/BillDetail?LegislationId=78841",
-"https://legis.delaware.gov/BillDetail?LegislationId=78844",
-"https://legis.delaware.gov/BillDetail?LegislationId=78845",
-"https://legis.delaware.gov/BillDetail?LegislationId=78879",
-"https://legis.delaware.gov/BillDetail?LegislationId=78881",
-"https://legis.delaware.gov/BillDetail?LegislationId=78885",
-"https://legis.delaware.gov/BillDetail?LegislationId=78947",
-"https://legis.delaware.gov/BillDetail?LegislationId=78990",
-"https://legis.delaware.gov/BillDetail?LegislationId=79014",
-"https://legis.delaware.gov/BillDetail?LegislationId=79029",
-"https://legis.delaware.gov/BillDetail?LegislationId=79180",
-"https://legis.delaware.gov/BillDetail?LegislationId=79186",
-"https://legis.delaware.gov/BillDetail?LegislationId=79227",
-"https://legis.delaware.gov/BillDetail?LegislationId=79247",
-"https://legis.delaware.gov/BillDetail?LegislationId=79252",
-"https://legis.delaware.gov/BillDetail?LegislationId=89296",
-"https://legis.delaware.gov/BillDetail?LegislationId=99319",
-"https://legis.delaware.gov/BillDetail?legislationId=48343",
-"https://madinahfordelaware.com/",
-"https://madinahfordelaware.com/about-madinah",
-"https://madinahfordelaware.com/cdn-cgi/l/email-protection",
-"https://madinahfordelaware.com/contact-us",
-"https://madinahfordelaware.com/our-platform",
-"https://madinahfordelaware.com/platform-to-progress",
-"https://madinahfordelaware.com/voting-information",
-"https://secure.actblue.com/donate/committee-to-elect-madinah-wilson-anton-1",
-"https://twitter.com/MadinahForDE"
+{
+"text": "About Madinah",
+"href": "https://www.madinahfordelaware.com/about-madinah/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.madinahfordelaware.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-madinah-wilson-anton-1"
+},
+{
+"text": "HB 123 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78841"
+},
+{
+"text": "HB 157",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=58598"
+},
+{
+"text": "HB 163",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=68637"
+},
+{
+"text": "HB 180",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=68671"
+},
+{
+"text": "HB 220",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=109409"
+},
+{
+"text": "HB 234 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78845"
+},
+{
+"text": "HB 235 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78844"
+},
+{
+"text": "HB 238 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78881"
+},
+{
+"text": "HB 243 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78885"
+},
+{
+"text": "HB 244 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78879"
+},
+{
+"text": "HB 252",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78947"
+},
+{
+"text": "HB 256 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78990"
+},
+{
+"text": "HB 334 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=129729"
+},
+{
+"text": "HB 334 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79227"
+},
+{
+"text": "HB 343 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79247"
+},
+{
+"text": "HB 349 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=109591"
+},
+{
+"text": "HB 353",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79252"
+},
+{
+"text": "HB 374",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=99319"
+},
+{
+"text": "HB 409 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=109463"
+},
+{
+"text": "HB 435 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=109593"
+},
+{
+"text": "HB 466 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=119655"
+},
+{
+"text": "HB 481",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=129700"
+},
+{
+"text": "HB 88 (co)",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=48343"
+},
+{
+"text": "HCR 40 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79014"
+},
+{
+"text": "HS1 to HB94 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79029"
+},
+{
+"text": "Mobile Terms of Service",
+"href": "http://madinahfordelaware.com/mobile-terms-of-service/"
+},
+{
+"text": "Our Platform",
+"href": "https://www.madinahfordelaware.com/our-platform/"
+},
+{
+"text": "Platform to Progress",
+"href": "https://www.madinahfordelaware.com/platform-to-progress/"
+},
+{
+"text": "Privacy Policy",
+"href": "http://madinahfordelaware.com/privacy-policy/"
+},
+{
+"text": "SB 101 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78838"
+},
+{
+"text": "SB 147 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78765"
+},
+{
+"text": "SB 148 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78767"
+},
+{
+"text": "SB 149 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78766"
+},
+{
+"text": "SB 15 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=48445"
+},
+{
+"text": "SB 2 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=78777"
+},
+{
+"text": "SB 231 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79180"
+},
+{
+"text": "SB 305 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=109575"
+},
+{
+"text": "SS 2 for SB 1 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=79186"
+},
+{
+"text": "SS1 to SB208 (co)",
+"href": "https://legis.delaware.gov/BillDetail?LegislationId=89296"
+},
+{
+"text": "Voting Information",
+"href": "https://www.madinahfordelaware.com/voting-information/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.madinahfordelaware.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/MadinahForDE"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/MadinahForDE/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/madinahforde/"
+},
+{
+"text": "[image]",
+"href": "https://www.madinahfordelaware.com/"
+}
 ]

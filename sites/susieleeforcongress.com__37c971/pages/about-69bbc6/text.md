@@ -1,4 +1,4 @@
-Since being elected to Congress in 2018, Susie Lee has worked relentlessly with Democrats and Republicans alike to achieve real results for Nevada families.
+Skip to main content about news volunteer Donate Susie Lee for Congress Meet Susie Lee Since being elected to Congress in 2018, Susie Lee has worked relentlessly with Democrats and Republicans alike to achieve real results for Nevada families.
 From combating the drought, to bringing supply chains back to America to lower costs, to ensuring our veterans get the benefits they deserve, Susie Lee has effectively worked with both parties and delivered for Nevadans.
 In fact, she was recognized as one of the top 10 most bipartisan Members of Congress, out of over 400 Members across the country.
 Lee also took on pharmaceutical companies and won, passing the most significant legislation to bring down prescription drug costs in decades.
@@ -13,3 +13,4 @@ After moving to Las Vegas in 1993, Susie became the Founding Director of After-S
 Since 2010, Susie served as President of Communities In Schools of Nevada (CIS), a leading dropout prevention organization.
 Under Susie’s leadership, CIS has grown to serve over 64,000 students in 63 schools in Nevada.
 As a member of Congress, Susie is fighting for Nevada's 3rd District students every day.
+5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

@@ -1,4 +1,4 @@
-Starting up again with the eighth and ninth legislative days, there are a few more controversial bills in here.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Hypothetical voting record 2026 (Part 2) 15 May Friday, 6:25 AM · 2026 Hypothetical voting record 2026 (Part 2) Starting up again with the eighth and ninth legislative days, there are a few more controversial bills in here.
 HB1030: An Act to amend provisions pertaining to the timing of municipal elections.
 Yea – Cleaning up some language related to local elections, and making provisions for municipalities with elections on odd-numbered years, or with odd-numbered terms.
 HB1060: An Act to remove the five percent calculation requirement from the county budgetary process.
@@ -72,5 +72,4 @@ HJR5001 in the next installment.
 Again, trying to listen to all the committee testimony, listen to all the floor debate, read all the bills.
 It takes time, and it’ll start taking longer when we get to the senate bills.
 Twice as much testimony and debate to get through.
-But hopefully I’ll get the next post out quicker than this one.
--Sam Froehlke
+But hopefully I’ll get the next post out quicker than this one. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

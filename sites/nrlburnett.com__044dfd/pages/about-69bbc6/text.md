@@ -1,12 +1,5 @@
 Nathan R.L.
-BURNETT
-≡
-About Me
-District Map
-Personal Concerns
-Public Concerns
-Endorsements
-Who am I?
+BURNETT ≡ About Me District Map Personal Concerns Public Concerns Endorsements Who am I?
 I was born in Australia, and moved to Aroostook County when I was 14 to be closer to my mother's family.
 I graduated from Presque Isle High School and then the University of Maine with a bachelor's degree in economics.
 I began teaching math and computer science at Sacopee Valley High School, and my wife and I bought a home in the district.
@@ -31,12 +24,6 @@ These are the things that make me, me.
 I'm ready to learn, and lead.
 Over the next months leading up to November 3rd, I look forward to meeting the residents of Senate District 22 and getting to learn even more about the place I’m working to represent.
 If there is any concerns or issues near and dear to your heart, please reach out and request a meeting.
-Home
-About Me
-District Map
-Personal Concerns
-Public Concerns
-Endorsements
-MCEA Contribution
+Home About Me District Map Personal Concerns Public Concerns Endorsements MCEA Contribution © #-# Nathan R.L.
 Burnett, paid for and maintained by the candidate.
 Email:

@@ -1,10 +1,2 @@
-top of page
-Meet your Candidates
-Fri, Oct 16
-|Cary & Kim Hocutt's Home
-Meet and get to know your NC State Senate District 2 Candidate, Roy Surrett.
-Time & Location
-Oct 16, 2026, 6:00 PM – 8:00 PM
-Cary & Kim Hocutt's Home, 101 Fairway Ln, Cape Carteret, NC 28584, USA
-About the event
-bottom of page
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Meet your Candidates Fri, Oct 16 | Cary & Kim Hocutt's Home Meet and get to know your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Oct 16, 2026, 6:00 PM – 8:00 PM Cary & Kim Hocutt's Home, 101 Fairway Ln, Cape Carteret, NC 28584, USA About the event RSVP by emailing: caryhocutt@gmail.com Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

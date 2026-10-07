@@ -1,10 +1,38 @@
 [
-"https://donate.stripe.com/6oEeVV24h3kIczSfYY",
-"https://estebanfloresforaz.com/",
-"https://estebanfloresforaz.com/Contacts/About-me",
-"https://estebanfloresforaz.com/Contacts/Contacts",
-"https://estebanfloresforaz.com/Contacts/Donate",
-"https://estebanfloresforaz.com/Contacts/Endorsements-1",
-"https://estebanfloresforaz.com/Contacts/Issues",
-"https://estebanfloresforaz.com/Contacts/Public-Forums-Media"
+{
+"text": "About me",
+"href": "https://estebanfloresforaz.com/Contacts/About-me/"
+},
+{
+"text": "Contacts",
+"href": "https://estebanfloresforaz.com/Contacts/Contacts/"
+},
+{
+"text": "Donate",
+"href": "https://estebanfloresforaz.com/Contacts/Donate/"
+},
+{
+"text": "Donate to the Esteban Flores For Arizona Campaign",
+"href": "https://donate.stripe.com/6oEeVV24h3kIczSfYY"
+},
+{
+"text": "Endorsements",
+"href": "https://estebanfloresforaz.com/Contacts/Endorsements-1/"
+},
+{
+"text": "Home",
+"href": "https://estebanfloresforaz.com/"
+},
+{
+"text": "Issues",
+"href": "https://estebanfloresforaz.com/Contacts/Issues/"
+},
+{
+"text": "Public Forums & Media",
+"href": "https://estebanfloresforaz.com/Contacts/Public-Forums-Media/"
+},
+{
+"text": "[no text]",
+"href": "https://estebanfloresforaz.com/"
+}
 ]

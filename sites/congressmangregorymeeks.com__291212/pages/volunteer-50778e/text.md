@@ -1,12 +1,1 @@
-Skip to main content
-Main navigation
-Meet Representative Meeks
-Endorse
-Volunteer
-Social Menu
-Facebook
-Twitter
-Instagram
-EA
-Donate
-Volunteer for Congressman Gregory Meeks
+Skip to main content Main navigation Meet Representative Meeks Endorse Volunteer Social Menu Facebook Twitter Instagram EA Donate Volunteer for Congressman Gregory Meeks Facebook Twitter Instagram Paid for by Friends for Gregory Meeks

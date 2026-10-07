@@ -1,17 +1,106 @@
 [
-"https://electmonica.com/",
-"https://electmonica.com/about.html",
-"https://electmonica.com/contact.html",
-"https://electmonica.com/events.html",
-"https://electmonica.com/gallery.html",
-"https://electmonica.com/get-involved.html",
-"https://electmonica.com/how-to-vote.html",
-"https://electmonica.com/issues.html",
-"https://electmonica.com/news.html",
-"https://electmonica.com/privacy.html",
-"https://facebook.com/share/1AiqbWX4CM?mibextid=wwXIfr",
-"https://secure.actblue.com/donate/monica-mowdy-25",
-"https://substack.com/@monicamowdy?r=osa2b&shareImageVariant=light",
-"https://tiktok.com/@mowdy_tn_25?_r=1&_t=ZT-94FZLk53Scn",
-"https://tnmap.tn.gov/voterlookup"
+{
+"text": "About",
+"href": "https://www.electmonica.com/about.html"
+},
+{
+"text": "About Monica",
+"href": "https://www.electmonica.com/about.html"
+},
+{
+"text": "Check Registration",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "Contact",
+"href": "https://www.electmonica.com/contact.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.electmonica.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monica-mowdy-25"
+},
+{
+"text": "Events",
+"href": "https://www.electmonica.com/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electmonica.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.electmonica.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://www.electmonica.com/how-to-vote.html"
+},
+{
+"text": "Issues",
+"href": "https://www.electmonica.com/issues.html"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.electmonica.com/get-involved.html"
+},
+{
+"text": "News",
+"href": "https://www.electmonica.com/news.html"
+},
+{
+"text": "Photos",
+"href": "https://www.electmonica.com/gallery.html"
+},
+{
+"text": "Press Inquiries",
+"href": "https://www.electmonica.com/contact.html#press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmonica.com/privacy.html"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.electmonica.com/get-involved.html#yard-sign"
+},
+{
+"text": "See the Issues",
+"href": "https://www.electmonica.com/issues.html"
+},
+{
+"text": "Support Monica",
+"href": "https://secure.actblue.com/donate/monica-mowdy-25"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electmonica.com/get-involved.html"
+},
+{
+"text": "Voting Info",
+"href": "https://www.electmonica.com/how-to-vote.html"
+},
+{
+"text": "[image: Monica Mowdy 2026 - For You. For Tennessee.]",
+"href": "https://www.electmonica.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/share/1AiqbWX4CM/?mibextid=wwXIfr"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.facebook.com/share/1AiqbWX4CM/?mibextid=wwXIfr"
+},
+{
+"text": "[tooltip: Substack]",
+"href": "https://substack.com/@monicamowdy?r=osa2b&shareImageVariant=light"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@mowdy_tn_25?_r=1&_t=ZT-94FZLk53Scn"
+}
 ]

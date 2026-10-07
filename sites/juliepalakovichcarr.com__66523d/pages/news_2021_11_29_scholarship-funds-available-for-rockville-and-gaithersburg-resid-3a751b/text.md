@@ -1,4 +1,6 @@
-Applications are now being accepted for the Delegate Julie Palakovich Carr Scholarship.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr November 29, 2021 Scholarship Funds Available for Rockville and Gaithersburg Residents Julie Palakovich Carr November 29, 2021 Applications are now being accepted for the Delegate Julie Palakovich Carr Scholarship.
 The scholarship is open to residents of Maryland's 17th legislative district (Gaithersburg and Rockville) who are full-time or part-time students.
 Each member of the Maryland General Assembly provides scholarships to Maryland residents, although our application processes vary.
 My office awards funds through three mechanisms: 1) directly to students via this application form, 2) through the Universities at Shady Grove, and 3) through the Montgomery County branch of the NAACP.
@@ -21,4 +23,4 @@ If you’re unsure of your eligibility, please ask my office before you apply.
 Finally, please note that the scholarship is for a single academic year.
 Prior recipients must reapply each year.
 To apply, submit your application no later than May 16, 2022.
-To apply for the scholarship, please complete and submit the following Google form: bit.ly/JPCscholarship22
+To apply for the scholarship, please complete and submit the following Google form: bit.ly/JPCscholarship22 Newer Post 2022 Legislative Session 2022 Wraps Up Older Post Seven of Julie's Bills Become Law Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

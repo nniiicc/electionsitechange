@@ -1,20 +1,3 @@
-top of page
-ARTICLES
-Council members probe staff on industrial expansion plan
-July 15, 2026
-Frederick News Post
-Donald seeks state delegate seat after three terms on County Council
-April 4, 2026
-Frederick News Post
-Why I voted against the data center overlay map
-January 2, 2026
-Frederick News Post
-Frederick County Council Member Jerry Donald to run for state delegate in 2026
-September 19, 2025
-Frederick News Post
-Frederick County Councilman Jerry Donald To Run For State Delegate From District Four
-September 15, 2025
-WFMD
-Jerry Donald Announces Candidacy for Maryland House of Delegates in District Four
-September 14, 2025
-bottom of page
+top of page Jerry Donald for District 4 Delegate HOME VOTING RECORD TIMELINE TAX VOTE RECORD MEET JERRY ABOUT JERRY PLATFORM ENDORSEMENTS ARTICLES GET INVOLVED EVENTS VOLUNTEER CONTACT REQUEST A YARD SIGN More Use tab to navigate through the menu items.
+DONATE ARTICLES Council members probe staff on industrial expansion plan July 15, 2026 Frederick News Post ​ Donald seeks state delegate seat after three terms on County Council April 4, 2026 Frederick News Post ​ ​ Why I voted against the data center overlay map January 2, 2026 Frederick News Post ​ ​ Frederick County Council Member Jerry Donald to run for state delegate in 2026 September 19, 2025 Frederick News Post ​ ​ Frederick County Councilman Jerry Donald To Run For State Delegate From District Four September 15, 2025 WFMD ​ ​ ​ ​ Jerry Donald Announces Candidacy for Maryland House of Delegates in District Four September 14, 2025 ​ ​ ​ ​ ​ ​ HOME VOTING RECORD TIMELINE TAX VOTE RECORD MEET JERRY ABOUT JERRY PLATFORM ENDORSEMENTS ARTICLES GET INVOLVED EVENTS VOLUNTEER CONTACT REQUEST A YARD SIGN More Use tab to navigate through the menu items.
+Register to vote or check your voter registration status in Frederick County CONTACT Mail Make A Donation Citizens for Jerry Donald PO Box 235 Braddock Heights, MD 21714 Donate Online AUTHORITY OF CITIZENS FOR JERRY DONALD, CAMDEN RAYNOR, TREASURER bottom of page

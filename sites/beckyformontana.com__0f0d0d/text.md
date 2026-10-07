@@ -1,8 +1,6 @@
+top of page SUBSCRIBE DONATE About Me Issues In the Media Endorsements Join the Mailing List Volunteer Contact More Use tab to navigate through the menu items.
 Public lands, healthcare, and affordability for all.
-ABOUT ME
-Putting My Experience
-to Work
-Hi neighbors.
+ABOUT ME Putting My Experience to Work Hi neighbors.
 I’m Becky Edwards, a farm kid turned 28-year resident of Montana.
 I’m also a sitting state legislator, a working mom of three amazing daughters, a local small-business owner, and an executive director of a national conservation organization.
 I’m excited to run for state house district 57, to continue fighting for and serving my neighbors in Gallatin and Park Counties.
@@ -18,4 +16,12 @@ What issues are important to you?
 What does your family struggle with?
 This hard-working, tenacious, and courageous mama would be incredibly honored to represent the thoughtful citizens of HD57 in the state legislature.
 Please support my campaign by donating.
-Together, we can make sure every Montanan's voice is heard.
+Together, we can make sure every Montanan's voice is heard. -Becky Edwards, Democratic Candidate for HD57 (and mom) Learn About Becky's Values Rep.
+Edwards delivers $37 million every other year for parks, trails, wildlife habitat, and wildlife crossing projects across Montana with passage of HB932!
+FOLLOW BECKY ON SOCIAL MEDIA PITCH IN Support the cause with a donation.
+DONATE SUBSCRIBE Get the latest updates from the campaign trail.
+SIGN UP VOLUNTEER Teamwork makes the dream work.
+JOIN US About Me Issues In the Media Join our Mailing List Volunteer Contact Terms and Conditions Privacy Policy © # Becky for Montana.
+Website by Ten Squared Creative .
+Paid for by Becky for Montana, DEMOCRAT P.O.
+Box 152 Bozeman, MT 59771 beckyformontana@gmail.com bottom of page

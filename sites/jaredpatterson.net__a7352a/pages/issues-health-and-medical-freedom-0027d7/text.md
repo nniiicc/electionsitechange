@@ -1,9 +1,9 @@
-Health And Medical Freedom
-Health & Medical Freedom
-· One of many significant healthcare issues Texans faced prior to the 2021 legislative session was surprise medical bills.
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now Health And Medical Freedom Health & Medical Freedom · Making Texas Healthy Again was a big priority in 2025 – SB 25, which I co-authored, requires more stringent Physical Education (P.E.) requirements in Kindergarten through 12th Grade and establishes label requirements for foods containing certain ingredients. · SB 379 is another MAHA bill that r emoves unhealthy food and drinks from qualifying for SNAP benefits.
+This law ensures that children are being fed quality food with government funding rather than spending these funds on candy or sodas. · HB 3441 – Empowers individuals to legally pursue vaccine manufacturers if the vaccine advertised causes harm to someone.
+If a product is being pushed to the public, the company advertising should be held legally liable for the subsequent harms. · One of many significant healthcare issues Texans faced prior to the 2021 legislative session was surprise medical bills.
 When a patient’s hospital and doctor were in-network, he or she could still be hit with outrageous medical bills from other providers engaged in the procedure.
-In response, I helped pass SB 1264 to end surprise medical bills in Texas.
-· In 2023, I helped pass another major win for healthcare competition and transparency in HB 711.
-This bill eliminates anti-competitive clauses in healthcare contracts and opens the state to more competition among providers by providing greater cost transparency for patients to access before seeking treatment.
-· Along those same lines, I supported and helped pass SB 490, which requires hospitals and other healthcare facilities to provide an itemized billing to patients before seeking final payment.
+In response, I helped pass SB 1264 to end surprise medical bills in Texas. · In 2023, I helped pass another major win for healthcare competition and transparency in HB 711.
+This bill eliminates anti-competitive clauses in healthcare contracts and opens the state to more competition among providers by providing greater cost transparency for patients to access before seeking treatment. · Along those same lines, I supported and helped pass SB 490, which requires hospitals and other healthcare facilities to provide an itemized billing to patients before seeking final payment.
 SB 490 is a major win for transparency in healthcare costs.
+Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

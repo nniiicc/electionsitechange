@@ -1,5 +1,4 @@
-Healthcare
-Healthcare should be a right, not a privilege.
+Skip navigation menu Meet Jocelyn Issues News Volunteer Store Donate Meet Jocelyn Issues News Volunteer Store Donate Affordability Housing Healthcare Childcare Energy Costs Education Data Centers Environment Healthcare Healthcare should be a right, not a privilege.
 With all of the chaos, corruption, and confusion emerging from Washington, D.C. — where elected officials are ripping away Medicaid for hundreds of thousands of people, women's health care is under attack, and many Michiganders have to travel across multiple counties just to get to their doctor, a Democratic Governor in Michigan will be the last line of defense against the failings at the federal level.
 But I don't just want to be on defense.
 I want to make sure Michigan knows I have their back when it comes to getting them the quality, affordable care they need.
@@ -16,4 +15,5 @@ It shows up in sky-high prescription drug costs that prevent people from complet
 As Governor, I'll fight back.
 I'll work to increase options for low or no-cost preventive healthcare services across Michigan, because when people can get timely treatment, they address health issues before they become emergencies — saving lives and reducing costs.
 I'll push for real transparency and accountability in prescription drug pricing through an independent Prescription Drug Affordability Board with the authority to review manufacturing practices and approve price increases.
-And I'll champion healthcare cost transparency legislation to end the surprise billing that makes even routine procedures unaffordable, while expanding medical debt relief for the thousands of Michiganders crushed by expenses they never saw coming
+And I'll champion healthcare cost transparency legislation to end the surprise billing that makes even routine procedures unaffordable, while expanding medical debt relief for the thousands of Michiganders crushed by expenses they never saw coming Read the full healthcare affordability agenda here .
+Donate By Mail Jocelyn Benson for Governor 23133 Woodward Ave, Number 116 Ferndale, MI 48220 Powered by RUN! website builder Paid for by Jocelyn Benson for Governor, 23133 Woodward Ave, Number 116, Ferndale, MI 48220 You need to enable JavaScript to run this app.

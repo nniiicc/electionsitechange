@@ -1,6 +1,6 @@
-Rep.
-Mary Frances’ roots run deep in Marietta.
-Born and raised in the heart of Marietta, Rep.
+Meet Mary Frances Serving You Priorities Voting Community Voices Meet Mary Frances Serving You Priorities Voting Georgia House District 37 Community Voices Scroll Meet your State Rep.
+Mary Frances Williams Rep.
+Mary Frances’ roots run deep in Marietta. ﻿ Born and raised in the heart of Marietta, Rep.
 Mary Frances attended Marietta City Schools and graduated from Marietta High School.
 Her passion for advocacy and public service were instilled at an early age by her late father, L.
 Howard “Red” Atherton, who owned Atherton's Drug Store on the Square, and served as mayor of Marietta and later as a state representative in the 1960s.
@@ -14,3 +14,4 @@ She is a member of the Leadership Georgia, class of 1993 and the Leadership Cobb
 Rep.
 Mary Frances earned a Bachelor’s of Arts from Earlham College and a Masters of Social Work from the University of Georgia.
 She has two sons, Nick and Ben, and two grandchildren, twins Cooper and Madison.
+MaryFrances-Banner MaryFrances-Bio New Page New Page New Page Follow Me on Instagram Sign Up Contact Us Paid for by Friends and Neighbors of Mary Frances Williams 1000 Whitlock Ave NW, Ste 320 PMB 249 Marietta, GA 30064 (770) 424-9084 info@maryfranceswilliams.com

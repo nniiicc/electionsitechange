@@ -1,885 +1,3538 @@
 [
-"https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website",
-"https://secure.winred.com/van-drew-for-congress/storefront",
-"https://team-turnout-tracker-frontend.onrender.com/",
-"https://vandrewforcongress.com/",
-"https://vandrewforcongress.com/awards-endorsements",
-"https://vandrewforcongress.com/endorsejvd",
-"https://vandrewforcongress.com/events",
-"https://vandrewforcongress.com/latest",
-"https://vandrewforcongress.com/wins",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/0102ff35-581b-4a42-b9a9-b24a8e1e6b671-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/0e501774-9b99-4e98-b70c-571467242cb61-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027616-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027619-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027643-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/181893665_792575144989758_2421032284422336637_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/182594256_792575028323103_8331608549446394005_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/1b13b6f2-9ca2-431d-ad1f-ba2702c29c2d1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/20feaa57-53e5-4098-9620-0bafd5f8e1ef1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/21f949e8-d9cf-46d6-9a8c-57edaac6556d1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/336ec5ae-1651-45cb-a088-df836a28f3dd1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/3a3758da-ef6d-413a-a37f-6de03faaefd91-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/3ca8f302-f2d0-471e-8b17-f6f32dd1cc9b1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/4014-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/454714654_1051717229857361_5137157445954288956_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/469310738_18149156476345287_8635970815100889511_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/469311302_18149156146345287_3351344391416854314_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/469350913_18149156350345287_6507450070495621815_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/474879328_1176122394083510_5833572733192218133_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/480352232_1185238343171915_1833714676255417996_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/480465747_1185888573106892_9169644601169003129_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/480533048_1184664869895929_8306003381366001872_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/480668476_1185238299838586_2058198920155359547_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/480879778_1193353359027080_3704366776514724179_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481028279_1193140255715057_580130722641360660_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481093782_1192174575811625_8230416379521175508_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481120097_1192578009104615_3750498426910319132_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481241810_1192174155811667_3822168726905757399_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481256865_1195280342167715_1666819676401241364_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/481700029_1189734889388927_3945667107080979906_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/482122720_1196420352053714_1072090273453671495_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/489926100_1125438149619222_6421132098997786099_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/494209892_1239196247776124_7881250940165263957_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/494616874_1239921997703549_4013789409615098876_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/494665554_1240795694282846_7544200225406095138_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/495578125_1265086431853772_2271179829954126895_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/503508719_1263673751995040_409825879841392691_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/513835722_1281635636865518_6876289056867593191_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/513cfaaa-a2dc-4142-a8ff-a7890804bf3f1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/517998779_1295953932100355_8315289383161984557_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/518398065_1298095381886210_4711461580975679235_n.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/5357033525364936256-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/6a3dcb29-0f3b-4243-9ab6-a0d8b6b277cc1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/72ca0826-a848-4eec-b5de-f6a1b3a139e21-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/77cdb1f6-a5b7-4a9d-aacf-145c74d355371.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/787da9c2-8b64-4947-b600-1ca88bc3364d1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/7ce5f5a4-fef2-45fa-805e-4a30a17b8dac1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/7de93a89-9e31-43f3-af92-d9ed4891c4dc1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/85f2159a-6e29-40dc-a758-c8ec0e9c84a11.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/8d18798d-f8aa-43a0-8d5d-c604886cdd401-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/9991b4c6-f271-44ab-9f7d-752da77da2541-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/9a6e074c-2678-46ec-b9c4-1207fcf644ed1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/9f258dfe-567f-4923-a84c-8992c449c6821-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539439553.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539446577.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539449632.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250208_224013.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131101.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131104.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131116.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250310_115600.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250310_115601.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401392.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401412.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401452.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_140149.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401512.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250426_1707482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091900-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091905-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091908-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091909-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091911-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091913-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091914-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092322-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092407-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092409-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092410-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092413-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100150-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100157-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100159-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100207-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100207-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100213-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100216-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155120.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155122.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155126.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160145-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160148-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160155-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164155-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164159-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164201-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164203-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250804_113024.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103923-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103925-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103927-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103928-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103933-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_104628-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250822_110001.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250822_110003-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110728-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110730-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110735-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110737-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260608_1347342.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143811.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143813.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143817.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143826.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143831.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143834.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143838.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143850.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143855.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143858.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143903.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143909.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143953.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143959.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144004.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144008.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144011.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144022.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144032.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144034.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144037.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144051.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151458.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151502.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151516.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151521.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151524.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151526.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151532.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151536.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151541.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151545.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151551.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56872-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57182-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57212-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57372.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57532-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57583.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20240702_215222318.MP_-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1842109122-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1842535782-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1902118972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1905314183-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908151762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908194432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908401393-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1918291262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_170328770-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1704140982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1708299292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1709349942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_174053389-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_190641780-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191030937-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191054738-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191118513-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_192211475-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2140059702-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2145247392-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2148204492-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_172424942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1835042372-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1848072762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1849128142-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1849274972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_185051997-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1856532062.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1900552582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1903488152.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1908148662-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2303367652-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_231705804-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2321258482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2323244482.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2330398762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_233312425-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_233420582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1834302912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_184256415-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1843212452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1856024962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1857343562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1905482202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_005246332.PORTRAIT2-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0101458572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0107264122-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0141254672-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0143206722-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2342580922-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2346410972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2347224033-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2348360292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349021712-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349334472-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349556742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0002386843-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0008414432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0008539743-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0009466902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0016489742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_001656040.PORTRAIT2-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0017243602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0018159422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0035427432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0036445232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0038500142-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0039247732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0040205262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0040465102-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0042146152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0043508222-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0045270922-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0048272112-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250222_0023138982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250222_002442578-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_232204640-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2331535493-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2338200172-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2338364512-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_233954975-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2341182442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0033518652-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0046398702-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0048427152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_004953635-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0103059302-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0110063502-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0120152833-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0300417762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0012455902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0015240552.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_001632501-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0025062052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0035529232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0038561242-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0039530902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_004351694-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0049411752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_2342539802-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_2353471542-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_235651729.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1732131652-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1734442682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1738314742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_174003079-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1748504022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1749016022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1830281162.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1833527582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1834471022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1835025232.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1835347342.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1840015162-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1843442902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_231633246-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_2321530762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_232534703-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250320_2324403762.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2156043062-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2210307032-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2212228742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2230230912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2230473942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2239013122-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1415087102-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1417399352-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1418054462-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1446460252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1451197232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1454382892-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_145630356-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1458156332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1501593252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1503221862-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2051354732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2052509992-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2057106342-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2059441672-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2102182692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2103572442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2110473844-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_211341543-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2114458312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1430333822.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1434554022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_143534953-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1438048912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1442421192-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_153514359-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1537020222.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_154055517-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_155559329-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1557401612-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160054682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160248318-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1603128212-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1603517672.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160640717-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1638265062-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_171301860-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1726019012-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1750145882-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_181858957-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1958523232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2012172572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2014479932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2354304712-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2356444302-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250412_1754145262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_000724616-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0008393352-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0018065152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0019314102-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0022553892-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0023281122.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0025288342-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_002641409-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_002700353-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1809584732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1815102822-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_181837181-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182427851-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182655851-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182915281-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184257545-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184604665-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184732093-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1851509132-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_185653820-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_191050404.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1912087312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_200337847-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_2015507842-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_202345030-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_2039400582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_204633361-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_204701907-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250415_2351542052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1536274952-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1542111582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_154222350-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1544584042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1701451722-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705209622-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705209622-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705515423.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1710094642-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1710377552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1728376273-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1729436813-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_2308127272-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_2351185522-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0010574232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0032134572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0049290642-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0050267832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0053215022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1903225552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1904549392-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1909118332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1914191202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1830403232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1841476982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1843242602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1917328922-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_221431026-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_224419409-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_224422085-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_225115456-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_225115995-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2256158752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2302117052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2302215022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1613141982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1617475282-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1633401222-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_163626085.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_163659177.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1637362382-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1850558712-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1917538442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1919572042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2017111002-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2019044052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2024379622-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_202617062-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2029241722-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2107032932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2113591792-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_211835769-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2245201912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2251384252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2253126252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2255266252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2256010482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2301351112-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2303072332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304015032-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304307242-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304493712-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2308104922-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2311436272-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2313275432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2348554552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_0029048662-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_0036389682.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1453127272-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1455224932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1552197982.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1846441962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1848294132-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_231957033.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_2340062852-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_234443631-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_234821286-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_2355467702-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000039505-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000152191-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000312374-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215430949-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215700393-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215903791-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221032319-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221236049-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221442077-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_2246298382-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_233703015-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1746001622-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1752374632-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1754542492-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250713_175654505.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2020260272-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_202957558-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2042512612-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2118178762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2119387882-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2133134472-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2135125132.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2307204882-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2312097972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2313406243-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1708208072-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1952512512-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1954100452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1956231152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_205741414-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_2205190162-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_220823704-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_1937075842-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_2013522022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_2020461562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_230111738-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_230619353-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_2317582232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_2319299532-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1220424402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1240312902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1242166692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1634342952-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1637029432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1725433732.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2331250672-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2333394682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2334177362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2336375972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2353245102-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2356256792-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2357174952-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_175342895-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1757236462-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1804175442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1806203202.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1821582662.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1825425372-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1826576902.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_1851499652-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_1958093312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2005169422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2005449232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_200935147-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2017266532-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2018192662-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2019348152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2020374752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2035031482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2016066852-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2031462742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2133588102-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2137107482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2138128983-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2159156602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2205063422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2206505632-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2222240902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2225262172-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_223740315-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2321088252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2321572862-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2324094852-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328071682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328226522-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328226522-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2346085312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2033082432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2148103412-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2158519542-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2205546522-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2208160012-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2210287832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2211449613-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2218121942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2220084042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2224255792-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2227582042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2233232862-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2237504002-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2305256732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2309337962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2314472662-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2314593562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2325074442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2325144082-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2334213072-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2336294832.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2339240582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2341540572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2344265122-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2345337882-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2346266572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2354125332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250806_2256124962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1555026452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1647258642-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1722300332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250808_2309277862-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250808_2316593412-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1439184052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1441173492-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1442402292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1446376132-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1448286252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1450115982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1818533142-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1830485622-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1833293582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1841116682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_184247247-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1845085502-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1849448552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1851100682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1941596602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1946423092-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1948522452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1957099182.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_2007239832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_2014316912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2209427832.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2216178742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2219392742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_222101805-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2223535412-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_222724687-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2233045212-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2253346762-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2254320932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2257197872-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2315076322-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2330123692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2157463012.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2212252812-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2214220562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2319264832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2322020002-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250814_1421096232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250814_1440038482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1537125302-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1540239942-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1540239942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1542481172-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1549113942-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1551018112-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1605559742.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1610509402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2313075362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2317225912-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2321489542-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2346272082-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1625411982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1633410583-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1634362902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1723036312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172458199-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172528223-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172704246-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172736348-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172929833-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2256514322-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2312456202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_232906239-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2330033052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2330218822.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_233314632-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_233633828-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2343467382-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2346320872-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2307221952-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2309462142-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2318001902.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2329024152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2329525132.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260427_2341531332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260427_234843213-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_181853956-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_182101370-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_1835299452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212401769-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212538452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212827067-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_215153256-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_230209755-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_1903393742-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_190709230-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_194441465-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_195615368-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_195712745-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_2003174552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260504_200017560-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260504_200035530-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2132382452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2136429402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_213716333-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2138520192-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_000858920-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_223342649-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_2248159902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_225048689-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_2311115782-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260509_211723201-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_1810064162-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_181324886-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_1814041452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_165151041-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_1656186442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_212139854-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_212729015-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1621005702-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1624427562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1746543192-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_181246686-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1709473622-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1716584672-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_172029570-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1721515482-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1729332072-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260527_2324548822-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260527_2357279832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_0002239842-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1702530962-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1711307512-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_172441915-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1746568432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_2233078732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230330832.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230424592-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230445269-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_2312258503-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_1725331383-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_1742184072-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_174406353-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1446510073-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1450225662-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1511388003-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1511554162-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1512060902-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1513413212-1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1754078292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1754257752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1808562432-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1822065182-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1824575442-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1827011342-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1837091722-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1838545532-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1841245452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1846017362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1851569422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1853140632-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1856522672-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2003250082-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2009218232-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2012521372-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2015335722-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2022517402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2028147272-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2031233792-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2033151922-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2034521092-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2042466182-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1801284462-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1801467982-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1802252202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1803016222-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1804050652-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1804515692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1829269842-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1841259182-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1850496823-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1859560772-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_2208250112-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_2213163372-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1453539312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1500278342-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1507580902-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1637139332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_2131282742.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1642506022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1723050892-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1724057552-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1727079802-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1727522162-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1818156602.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1825388132-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1827324422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_2134115992-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_2224240692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260617_2315358432.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_1754411862.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_175814864.PORTRAIT2-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_180641011.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_180718050.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_181054787-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_182522528-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_1828145312-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_232639818.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_000506151-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_0008286682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_001533084.PORTRAIT2-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1607387822-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1607552622.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1729428172-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1735058323.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_173559504-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_173735409-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_175701835-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1808178402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_224111595-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_2322388242-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_233950044-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_234048419-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1224102832-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1225366822-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_122839125-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_122845380-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1235357932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_123930076-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_124426132-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1249107152-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1251222452-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1258470422-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1939084072-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1944068322-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1946597082-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_2008222992.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_2014404492-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_2144366022-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_215523480.PORTRAIT3-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_215648143.PORTRAIT2-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_2206311302-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1815120042-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1830274103-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1850377612-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1906014702-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1913267002-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1949094292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1950441692-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1959356163-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2004183903-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2010077144-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_201030556-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2105548512-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_210621433-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_211243567-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2134367512-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2141125492-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2213589813-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2010530522-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_203025662.PORTRAIT-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2058486172-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2100459853-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_212333371-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2127434342.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2131591173-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2138084262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2143313032-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2154103202-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2159276262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2212075362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2318133133-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1816220932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1819030602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1847276332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_185512698-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2042343972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2122121572-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2126133252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2134554182-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2137051362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1901374162-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1909188752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1934145262-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_193956409-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_0007208362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_2227216242-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_231618903-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_2317076062-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2145294402-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2158304252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2213463362-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2221314932-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2253570662-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2304214972-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2312504682-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2317318562-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2327406602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2343453292-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2347552342-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260804_005947961-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2157136332-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2335338242-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2346388752-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2350537602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2214437732-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2221389582-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_222203773-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2230562052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2235598052-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2258067602-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2300586892-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2303206252-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2313417352-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2326169592-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260517-2053302.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-1059282.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-110332.png",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-110418-1.png",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/a03cf5fe-e758-4197-b5fc-41212a96f7e81-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/a0caaff4-5932-4f96-9dd1-f599e9c43be71-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/a52c01af-63bb-4a1a-8f19-7e45489f84dd1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/abc8237b-a649-4e7e-a758-c19be9035aa71-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/c42b2beb-0acc-4935-92b0-3f0afe63710f1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/d4b56152-eabe-4bca-8ded-9e8bd4eda8df1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/d85894c3-9ebb-481f-9023-0f68d97379fe1-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/d877b1d6-a82f-4034-9092-19c6f3bcb1f31-scaled.jpg",
-"https://vandrewforcongress.com/wp-content/uploads/2026/04/f09cc1b4-486c-479c-8580-a42eb046c3c11-scaled.jpg"
+{
+"text": "Awards & Endorsements",
+"href": "https://vandrewforcongress.com/awards-endorsements/"
+},
+{
+"text": "Boots on the Ground",
+"href": "https://team-turnout-tracker-frontend.onrender.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website"
+},
+{
+"text": "Events",
+"href": "https://vandrewforcongress.com/events/"
+},
+{
+"text": "Latest News",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/van-drew-for-congress/storefront/"
+},
+{
+"text": "Support Jeff",
+"href": "https://vandrewforcongress.com/endorsejvd/"
+},
+{
+"text": "Wins for South Jersey",
+"href": "https://vandrewforcongress.com/wins/"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/0102ff35-581b-4a42-b9a9-b24a8e1e6b671-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/0e501774-9b99-4e98-b70c-571467242cb61-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027616-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027619-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/1000027643-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/181893665_792575144989758_2421032284422336637_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/182594256_792575028323103_8331608549446394005_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/1b13b6f2-9ca2-431d-ad1f-ba2702c29c2d1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/20feaa57-53e5-4098-9620-0bafd5f8e1ef1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/21f949e8-d9cf-46d6-9a8c-57edaac6556d1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/336ec5ae-1651-45cb-a088-df836a28f3dd1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/3a3758da-ef6d-413a-a37f-6de03faaefd91-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/3ca8f302-f2d0-471e-8b17-f6f32dd1cc9b1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/4014-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/454714654_1051717229857361_5137157445954288956_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/469310738_18149156476345287_8635970815100889511_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/469311302_18149156146345287_3351344391416854314_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/469350913_18149156350345287_6507450070495621815_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/474879328_1176122394083510_5833572733192218133_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/480352232_1185238343171915_1833714676255417996_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/480465747_1185888573106892_9169644601169003129_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/480533048_1184664869895929_8306003381366001872_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/480668476_1185238299838586_2058198920155359547_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/480879778_1193353359027080_3704366776514724179_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481028279_1193140255715057_580130722641360660_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481093782_1192174575811625_8230416379521175508_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481120097_1192578009104615_3750498426910319132_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481241810_1192174155811667_3822168726905757399_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481256865_1195280342167715_1666819676401241364_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/481700029_1189734889388927_3945667107080979906_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/482122720_1196420352053714_1072090273453671495_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/489926100_1125438149619222_6421132098997786099_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/494209892_1239196247776124_7881250940165263957_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/494616874_1239921997703549_4013789409615098876_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/494665554_1240795694282846_7544200225406095138_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/495578125_1265086431853772_2271179829954126895_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/503508719_1263673751995040_409825879841392691_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/513835722_1281635636865518_6876289056867593191_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/513cfaaa-a2dc-4142-a8ff-a7890804bf3f1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/517998779_1295953932100355_8315289383161984557_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/518398065_1298095381886210_4711461580975679235_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/5357033525364936256-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/6a3dcb29-0f3b-4243-9ab6-a0d8b6b277cc1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/72ca0826-a848-4eec-b5de-f6a1b3a139e21-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/77cdb1f6-a5b7-4a9d-aacf-145c74d355371.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/787da9c2-8b64-4947-b600-1ca88bc3364d1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/7ce5f5a4-fef2-45fa-805e-4a30a17b8dac1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/7de93a89-9e31-43f3-af92-d9ed4891c4dc1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/85f2159a-6e29-40dc-a758-c8ec0e9c84a11.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/8d18798d-f8aa-43a0-8d5d-c604886cdd401-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/9991b4c6-f271-44ab-9f7d-752da77da2541-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/9a6e074c-2678-46ec-b9c4-1207fcf644ed1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/9f258dfe-567f-4923-a84c-8992c449c6821-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539439553.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539446577.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/FB_IMG_1755539449632.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250208_224013.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131101.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131104.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250303_131116.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250310_115600.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250310_115601.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401392.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401412.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401452.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_140149.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250331_1401512.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250426_1707482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091900-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091905-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091908-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091909-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091911-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091913-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_091914-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092322-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092407-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092409-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092410-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_092413-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100150-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100157-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100159-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100207-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100207-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100213-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250714_100216-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155120.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155122.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_155126.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160145-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160148-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_160155-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164155-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164159-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164201-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250730_164203-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250804_113024.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103923-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103925-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103927-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103928-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_103933-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250815_104628-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250822_110001.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250822_110003-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110728-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110730-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110735-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20250825_110737-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260608_1347342.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143811.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143813.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143817.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143826.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143831.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143834.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143838.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143850.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143855.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143858.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143903.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143909.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143953.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_143959.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144004.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144008.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144011.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144022.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144032.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144034.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144037.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260731_144051.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151458.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151502.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151516.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151521.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151524.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151526.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151532.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151536.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151541.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151545.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_20260818_151551.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56872-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_56982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57182-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57212-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57372.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57532-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/IMG_57583.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20240702_215222318.MP_-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1842109122-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1842535782-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1902118972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1905314183-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908151762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908194432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1908401393-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250126_1918291262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_170328770-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1704140982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1708299292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250130_1709349942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_174053389-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_190641780-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191030937-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191054738-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_191118513-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_192211475-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2140059702-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2145247392-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250201_2148204492-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_172424942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1835042372-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1848072762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1849128142-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1849274972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_185051997-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1856532062.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1900552582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1903488152.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250202_1908148662-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2303367652-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_231705804-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2321258482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2323244482.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_2330398762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_233312425-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250208_233420582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1834302912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_184256415-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1843212452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1856024962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1857343562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250215_1905482202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_005246332.PORTRAIT2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0101458572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0107264122-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0141254672-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250218_0143206722-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2342580922-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2346410972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2347224033-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2348360292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349021712-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349334472-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250219_2349556742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0002386843-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0008414432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0008539743-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0009466902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0016489742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_001656040.PORTRAIT2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0017243602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0018159422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0035427432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0036445232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0038500142-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0039247732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0040205262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0040465102-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0042146152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0043508222-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0045270922-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250220_0048272112-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250222_0023138982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250222_002442578-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_232204640-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2331535493-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2338200172-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2338364512-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_233954975-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250301_2341182442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0033518652-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0046398702-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0048427152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_004953635-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0103059302-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0110063502-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0120152833-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250309_0300417762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0012455902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0015240552.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_001632501-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0025062052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0035529232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0038561242-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0039530902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_004351694-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_0049411752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_2342539802-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_2353471542-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250315_235651729.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1732131652-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1734442682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1738314742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_174003079-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1748504022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1749016022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1830281162.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1833527582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1834471022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1835025232.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1835347342.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1840015162-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250317_1843442902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_231633246-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_2321530762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250318_232534703-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250320_2324403762.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2156043062-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2210307032-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2212228742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2230230912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2230473942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250321_2239013122-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1415087102-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1417399352-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1418054462-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1446460252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1451197232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1454382892-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_145630356-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1458156332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1501593252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250329_1503221862-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2051354732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2052509992-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2057106342-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2059441672-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2102182692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2103572442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2110473844-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_211341543-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250330_2114458312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1430333822.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1434554022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_143534953-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1438048912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1442421192-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_153514359-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1537020222.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_154055517-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_155559329-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1557401612-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160054682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160248318-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1603128212-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1603517672.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_160640717-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1638265062-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_171301860-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1726019012-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1750145882-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_181858957-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_1958523232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2012172572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2014479932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2354304712-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250411_2356444302-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250412_1754145262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_000724616-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0008393352-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0018065152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0019314102-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0022553892-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0023281122.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_0025288342-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_002641409-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250413_002700353-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1809584732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1815102822-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_181837181-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182427851-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182655851-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_182915281-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184257545-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184604665-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_184732093-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1851509132-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_185653820-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_191050404.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_1912087312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_200337847-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_2015507842-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_202345030-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_2039400582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_204633361-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250414_204701907-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250415_2351542052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1536274952-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1542111582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_154222350-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1544584042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1701451722-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705209622-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705209622-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1705515423.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1710094642-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1710377552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1728376273-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_1729436813-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_2308127272-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250426_2351185522-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0010574232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0032134572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0049290642-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0050267832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_0053215022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1903225552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1904549392-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1909118332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250427_1914191202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1830403232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1841476982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1843242602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250616_1917328922-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_221431026-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_224419409-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_224422085-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_225115456-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_225115995-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2256158752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2302117052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250618_2302215022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1613141982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1617475282-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1633401222-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_163626085.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_163659177.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250620_1637362382-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1850558712-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1917538442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_1919572042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2017111002-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2019044052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2024379622-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_202617062-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2029241722-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2107032932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2113591792-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_211835769-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2245201912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2251384252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2253126252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2255266252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2256010482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2301351112-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2303072332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304015032-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304307242-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2304493712-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2308104922-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2311436272-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2313275432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250621_2348554552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_0029048662-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_0036389682.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1453127272-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1455224932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1552197982.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1846441962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250622_1848294132-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_231957033.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_2340062852-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_234443631-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_234821286-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250708_2355467702-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000039505-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000152191-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250709_000312374-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215430949-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215700393-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_215903791-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221032319-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221236049-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_221442077-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_2246298382-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250711_233703015-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1746001622-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1752374632-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250712_1754542492-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250713_175654505.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2020260272-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_202957558-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2042512612-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2118178762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2119387882-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2133134472-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2135125132.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2307204882-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2312097972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250719_2313406243-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1708208072-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1952512512-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1954100452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_1956231152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_205741414-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_2205190162-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250726_220823704-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_1937075842-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_2013522022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250728_2020461562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_230111738-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_230619353-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_2317582232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250729_2319299532-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1220424402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1240312902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1242166692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1634342952-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1637029432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_1725433732.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2331250672-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2333394682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2334177362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2336375972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2353245102-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2356256792-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250730_2357174952-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_175342895-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1757236462-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1804175442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1806203202.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1821582662.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1825425372-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250802_1826576902.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_1851499652-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_1958093312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2005169422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2005449232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_200935147-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2017266532-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2018192662-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2019348152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2020374752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250803_2035031482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2016066852-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2031462742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2133588102-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2137107482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2138128983-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2159156602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2205063422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2206505632-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2222240902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2225262172-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_223740315-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2321088252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2321572862-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2324094852-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328071682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328226522-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2328226522-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250804_2346085312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2033082432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2148103412-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2158519542-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2205546522-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2208160012-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2210287832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2211449613-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2218121942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2220084042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2224255792-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2227582042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2233232862-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2237504002-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2305256732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2309337962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2314472662-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2314593562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2325074442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2325144082-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2334213072-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2336294832.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2339240582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2341540572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2344265122-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2345337882-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2346266572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250805_2354125332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250806_2256124962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1555026452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1647258642-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250807_1722300332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250808_2309277862-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250808_2316593412-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1439184052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1441173492-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1442402292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1446376132-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1448286252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1450115982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1818533142-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1830485622-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1833293582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1841116682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_184247247-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1845085502-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1849448552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250809_1851100682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1941596602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1946423092-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1948522452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_1957099182.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_2007239832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250811_2014316912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2209427832.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2216178742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2219392742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_222101805-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2223535412-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_222724687-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2233045212-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2253346762-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2254320932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2257197872-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2315076322-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250812_2330123692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2157463012.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2212252812-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2214220562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2319264832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250813_2322020002-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250814_1421096232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250814_1440038482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1537125302-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1540239942-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1540239942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1542481172-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1549113942-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1551018112-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1605559742.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_1610509402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2313075362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2317225912-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2321489542-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250819_2346272082-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1625411982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1633410583-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1634362902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_1723036312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172458199-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172528223-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172704246-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172736348-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_172929833-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2256514322-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2312456202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_232906239-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2330033052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2330218822.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_233314632-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_233633828-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2343467382-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250821_2346320872-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2307221952-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2309462142-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2318001902.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2329024152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250822_2329525132.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260427_2341531332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260427_234843213-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_181853956-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_182101370-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_1835299452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212401769-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212538452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_212827067-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_215153256-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260502_230209755-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_1903393742-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_190709230-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_194441465-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_195615368-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_195712745-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260503_2003174552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260504_200017560-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260504_200035530-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2132382452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2136429402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_213716333-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260505_2138520192-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_000858920-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_223342649-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_2248159902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_225048689-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260506_2311115782-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260509_211723201-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_1810064162-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_181324886-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260511_1814041452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_165151041-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_1656186442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_212139854-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260517_212729015-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1621005702-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1624427562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_1746543192-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260525_181246686-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1709473622-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1716584672-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_172029570-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1721515482-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260526_1729332072-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260527_2324548822-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260527_2357279832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_0002239842-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1702530962-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1711307512-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_172441915-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_1746568432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_2233078732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230330832.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230424592-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_230445269-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260528_2312258503-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_1725331383-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_1742184072-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260530_174406353-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1446510073-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1450225662-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1511388003-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1511554162-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1512060902-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1513413212-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1754078292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1754257752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1808562432-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1822065182-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1824575442-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1827011342-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1837091722-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1838545532-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1841245452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1846017362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1851569422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1853140632-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_1856522672-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2003250082-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2009218232-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2012521372-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2015335722-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2022517402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2028147272-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2031233792-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2033151922-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2034521092-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260606_2042466182-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1801284462-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1801467982-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1802252202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1803016222-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1804050652-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1804515692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1829269842-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1841259182-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1850496823-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_1859560772-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_2208250112-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260607_2213163372-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1453539312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1500278342-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1507580902-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_1637139332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260613_2131282742.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1642506022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1723050892-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1724057552-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1727079802-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1727522162-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1818156602.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1825388132-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_1827324422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_2134115992-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260615_2224240692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260617_2315358432.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_1754411862.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_175814864.PORTRAIT2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_180641011.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_180718050.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_181054787-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_182522528-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_1828145312-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260619_232639818.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_000506151-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_0008286682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_001533084.PORTRAIT2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1607387822-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1607552622.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1729428172-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1735058323.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_173559504-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_173735409-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_175701835-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260620_1808178402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_224111595-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_2322388242-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_233950044-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260626_234048419-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1224102832-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1225366822-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_122839125-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_122845380-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1235357932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_123930076-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_124426132-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1249107152-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1251222452-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1258470422-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1939084072-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1944068322-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_1946597082-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_2008222992.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260704_2014404492-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_2144366022-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_215523480.PORTRAIT3-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_215648143.PORTRAIT2-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260707_2206311302-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1815120042-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1830274103-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1850377612-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1906014702-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260708_1913267002-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1949094292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1950441692-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_1959356163-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2004183903-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2010077144-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_201030556-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2105548512-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_210621433-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_211243567-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2134367512-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2141125492-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260712_2213589813-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2010530522-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_203025662.PORTRAIT-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2058486172-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2100459853-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_212333371-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2127434342.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2131591173-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2138084262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2143313032-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2154103202-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2159276262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2212075362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260717_2318133133-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1816220932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1819030602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_1847276332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_185512698-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2042343972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2122121572-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2126133252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2134554182-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260719_2137051362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1901374162-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1909188752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_1934145262-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260801_193956409-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_0007208362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_2227216242-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_231618903-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260802_2317076062-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2145294402-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2158304252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2213463362-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2221314932-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2253570662-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2304214972-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2312504682-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2317318562-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2327406602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2343453292-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260803_2347552342-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260804_005947961-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2157136332-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2335338242-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2346388752-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260805_2350537602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2214437732-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2221389582-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_222203773-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2230562052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2235598052-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2258067602-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2300586892-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2303206252-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2313417352-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20260807_2326169592-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260517-2053302.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-1059282.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-110332.png"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/Screenshot_20260520-110418-1.png"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/a03cf5fe-e758-4197-b5fc-41212a96f7e81-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/a0caaff4-5932-4f96-9dd1-f599e9c43be71-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/a52c01af-63bb-4a1a-8f19-7e45489f84dd1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/abc8237b-a649-4e7e-a758-c19be9035aa71-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/c42b2beb-0acc-4935-92b0-3f0afe63710f1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/d4b56152-eabe-4bca-8ded-9e8bd4eda8df1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/d85894c3-9ebb-481f-9023-0f68d97379fe1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/d877b1d6-a82f-4034-9092-19c6f3bcb1f31-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/f09cc1b4-486c-479c-8580-a42eb046c3c11-scaled.jpg"
+},
+{
+"text": "[tooltip: PXL_20250808_234407507~2]",
+"href": "https://vandrewforcongress.com/wp-content/uploads/2026/04/PXL_20250808_2344075072-scaled.jpg"
+}
 ]

@@ -1,14 +1,74 @@
 [
-"https://facebook.com/Barta4ND43",
-"https://instagram.com/barta4senate",
-"https://linkedin.com/in/jeffrey-p-barta",
-"https://ndlegis.gov/biography/jeff-barta",
-"https://secure.winred.com/committee-to-elect-jeff-barta/donate-today",
-"https://voteforbarta.com/",
-"https://voteforbarta.com/about-jeff-barta",
-"https://voteforbarta.com/cdn-cgi/l/email-protection",
-"https://voteforbarta.com/get-involved",
-"https://voteforbarta.com/key-issues",
-"https://voteforbarta.com/record-of-results",
-"https://voteforbarta.com/support-and-resources"
+{
+"text": "About Jeff",
+"href": "https://www.voteforbarta.com/about-jeff-barta"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-jeff-barta/donate-today"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.winred.com/committee-to-elect-jeff-barta/donate-today"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/Barta4ND43"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/barta4senate/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteforbarta.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.voteforbarta.com/"
+},
+{
+"text": "Invite to Speak or Attend Your Event",
+"href": "https://www.voteforbarta.com/support-and-resources"
+},
+{
+"text": "Key Issues",
+"href": "https://www.voteforbarta.com/key-issues"
+},
+{
+"text": "Read My Full Legislative Record",
+"href": "https://ndlegis.gov/biography/jeff-barta"
+},
+{
+"text": "Record of Results",
+"href": "https://www.voteforbarta.com/record-of-results"
+},
+{
+"text": "Send an Email",
+"href": "mailto:jeff@voteforbarta.com"
+},
+{
+"text": "Support & Resources",
+"href": "https://www.voteforbarta.com/support-and-resources"
+},
+{
+"text": "[email protected]",
+"href": "https://www.voteforbarta.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Committee to Elect Jeff Barta logo]",
+"href": "https://www.voteforbarta.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/Barta4ND43"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/barta4senate/"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/in/jeffrey-p-barta"
+}
 ]

@@ -1,13 +1,74 @@
 [
-"https://facebook.com/WelchForRep",
-"https://instagram.com/chriswelch_jd",
-"https://twitter.com/ChrisWelch_JD",
-"https://votechriswelch.com/",
-"https://votechriswelch.com/donate",
-"https://votechriswelch.com/map",
-"https://votechriswelch.com/meet-chris",
-"https://votechriswelch.com/news",
-"https://votechriswelch.com/priorities",
-"https://votechriswelch.com/search",
-"https://votechriswelch.com/volunteer"
+{
+"text": "District Map",
+"href": "https://www.votechriswelch.com/map/"
+},
+{
+"text": "Donate",
+"href": "https://www.votechriswelch.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votechriswelch.com/volunteer/"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.votechriswelch.com/meet-chris/"
+},
+{
+"text": "News",
+"href": "https://www.votechriswelch.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votechriswelch.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votechriswelch.com/volunteer/"
+},
+{
+"text": "[image: Emanuel &quot;Chris&quot; Welch]",
+"href": "https://www.votechriswelch.com/"
+},
+{
+"text": "[image: News]",
+"href": "https://www.votechriswelch.com/news/"
+},
+{
+"text": "[image: Priorities]",
+"href": "https://www.votechriswelch.com/priorities/"
+},
+{
+"text": "[image: Volunteer]",
+"href": "https://www.votechriswelch.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChrisWelch_JD"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WelchForRep/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chriswelch_jd"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriswelch.com/news/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriswelch.com/priorities/"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriswelch.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.votechriswelch.com/volunteer/"
+}
 ]

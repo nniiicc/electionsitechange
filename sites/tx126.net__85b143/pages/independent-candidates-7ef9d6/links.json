@@ -1,30 +1,146 @@
 [
-"https://collierfortexas.com/",
-"https://jennmackfortexas.com/",
-"https://khwaja4texas.com/",
-"https://ronaldevans.org/",
-"https://sos.state.tx.us/elections/forms/2026-independent-declaration-tracking.pdf",
-"https://tx126.net/",
-"https://tx126.net/2025/12",
-"https://tx126.net/2026/01",
-"https://tx126.net/about-me",
-"https://tx126.net/activity-2",
-"https://tx126.net/author/lisa",
-"https://tx126.net/blog",
-"https://tx126.net/bonefide",
-"https://tx126.net/cart",
-"https://tx126.net/category/verify",
-"https://tx126.net/contact",
-"https://tx126.net/faqs",
-"https://tx126.net/forums",
-"https://tx126.net/geography-of-impact",
-"https://tx126.net/groups-2",
-"https://tx126.net/independent-candidates",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/success-tier-1",
-"https://tx126.net/thank-you-for-signing-up-for-the-email-list",
-"https://tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Findependent-candidates%2F",
-"https://williamtaggart.org/"
+{
+"text": "About Lisa",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "About Me",
+"href": "https://www.tx126.net/about-me/"
+},
+{
+"text": "Activity",
+"href": "https://www.tx126.net/activity-2/"
+},
+{
+"text": "Blog",
+"href": "https://www.tx126.net/blog/"
+},
+{
+"text": "Cancel reply",
+"href": "https://www.tx126.net/independent-candidates/#respond"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/bonefide/"
+},
+{
+"text": "Continue reading...",
+"href": "https://www.tx126.net/success-tier-1/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "December 8, 2025",
+"href": "https://www.tx126.net/2025/12/"
+},
+{
+"text": "Donate",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "FAQs",
+"href": "https://www.tx126.net/faqs/"
+},
+{
+"text": "Forums",
+"href": "https://www.tx126.net/forums/"
+},
+{
+"text": "Groups",
+"href": "https://www.tx126.net/groups-2/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "January 29, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "January 30, 2026",
+"href": "https://www.tx126.net/2026/01/"
+},
+{
+"text": "Jenn Mack Raphoon",
+"href": "https://jennmackfortexas.com/"
+},
+{
+"text": "Join the Email List",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "Log In",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Findependent-candidates%2F"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Michael Edward Collier",
+"href": "https://collierfortexas.com/"
+},
+{
+"text": "Next post",
+"href": "https://www.tx126.net/thank-you-for-signing-up-for-the-email-list/"
+},
+{
+"text": "Omer Wagas Khwaja",
+"href": "https://khwaja4texas.com/"
+},
+{
+"text": "Prev post",
+"href": "https://www.tx126.net/geography-of-impact/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Ronald Demetrius Evans",
+"href": "https://www.ronaldevans.org/"
+},
+{
+"text": "Sign Up for Emails",
+"href": "https://www.tx126.net/contact/"
+},
+{
+"text": "SocialProof",
+"href": "https://www.tx126.net/bonefide/"
+},
+{
+"text": "Success: Tier 1",
+"href": "https://www.tx126.net/success-tier-1/"
+},
+{
+"text": "The Candidate: Lisa Emerson",
+"href": "https://www.tx126.net/author/lisa/"
+},
+{
+"text": "Verify",
+"href": "https://www.tx126.net/category/verify/"
+},
+{
+"text": "William Miskey Taggart IV",
+"href": "https://williamtaggart.org/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+},
+{
+"text": "list",
+"href": "https://www.sos.state.tx.us/elections/forms/2026-independent-declaration-tracking.pdf"
+},
+{
+"text": "logged in",
+"href": "https://www.tx126.net/wp-login.php?redirect_to=https%3A%2F%2Fwww.tx126.net%2Findependent-candidates%2F"
+}
 ]

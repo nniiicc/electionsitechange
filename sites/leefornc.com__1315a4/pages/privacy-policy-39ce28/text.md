@@ -1,5 +1,4 @@
-Privacy Policy
-We respect your privacy.
+top of page HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE Privacy Policy We respect your privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 This includes sharing information with our program partners, message content providers, phone companies, and vendors who assist us in the delivery of mobile messages.
 EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.
@@ -8,3 +7,4 @@ When you complete forms online or otherwise provide us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, or you have opted into a Program for an ulterior purpose, we may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
+HOME MEET MICHAEL PRIORITIES RESULTS NEWS & MEDIA GET INVOLVED DONATE PAID FOR BY THE COMMITTEE TO ELECT MICHAEL LEE​ Copyright © #, Committee to Elect Michael Lee | All Rights Reserved Terms & Conditions | Privacy Policy bottom of page

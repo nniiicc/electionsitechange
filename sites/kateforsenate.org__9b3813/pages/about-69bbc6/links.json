@@ -1,14 +1,54 @@
 [
-"http://kateforrep.com/",
-"https://facebook.com/KateforSenateMA",
-"https://instagram.com/kateforsenatema",
-"https://kateforsenate.org/",
-"https://kateforsenate.org/about",
-"https://kateforsenate.org/cart",
-"https://kateforsenate.org/endorsements",
-"https://kateforsenate.org/kates-plan",
-"https://kateforsenate.org/volunteer",
-"https://secure.actblue.com/donate/kateforsenate-2026",
-"https://soundcloud.com/mmtv3/sets/conversations-with-kate",
-"https://youtube.com/channel/UCxrqtUVf3vvvl9kiKAu0RKQ/videos?view=0"
+{
+"text": "0",
+"href": "https://www.kateforsenate.org/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kateforsenate-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kateforsenate.org/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kateforsenate.org/"
+},
+{
+"text": "Kate's Plan",
+"href": "https://www.kateforsenate.org/kates-plan"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.kateforsenate.org/about"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kateforsenate.org/volunteer"
+},
+{
+"text": "[image: Kate Lipper-Garabedian for State Senate]",
+"href": "https://www.kateforsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "https://soundcloud.com/mmtv3/sets/conversations-with-kate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KateforSenateMA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kateforsenatema/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxrqtUVf3vvvl9kiKAu0RKQ/videos?view=0"
+},
+{
+"text": "kateforrep.com",
+"href": "http://kateforrep.com"
+}
 ]

@@ -1,10 +1,46 @@
 [
-"http://facebook.com/darrinmadisonwi",
-"http://instagram.com/darrinmadisonwi",
-"https://darrinmadison.com/",
-"https://darrinmadison.com/aboutdarrin",
-"https://darrinmadison.com/endorsements",
-"https://darrinmadison.com/platform",
-"https://forms.gle/J3a1gJPS5UnaTzdw6",
-"https://secure.actblue.com/donate/votedarrin2026"
+{
+"text": "About Darrin",
+"href": "https://www.darrinmadison.com/aboutdarrin"
+},
+{
+"text": "Contact Me",
+"href": "https://www.darrinmadison.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votedarrin2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darrinmadison.com/endorsements"
+},
+{
+"text": "Learn About Darrin",
+"href": "https://www.darrinmadison.com/aboutdarrin"
+},
+{
+"text": "Learn About My Work",
+"href": "https://www.darrinmadison.com/platform"
+},
+{
+"text": "The Work",
+"href": "https://www.darrinmadison.com/platform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/J3a1gJPS5UnaTzdw6"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/darrinmadisonwi"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/darrinmadisonwi"
+},
+{
+"text": "friendsofmadisonjr@gmail.com",
+"href": "mailto:friendsofmadisonjr@gmail.com"
+}
 ]

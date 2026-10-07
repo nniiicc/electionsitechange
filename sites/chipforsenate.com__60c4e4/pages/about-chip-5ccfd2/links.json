@@ -1,6 +1,26 @@
 [
-"https://chipforsenate.com/",
-"https://chipforsenate.com/about-chip",
-"https://chipforsenate.com/in-the-community",
-"https://chipforsenate.com/on-the-issues"
+{
+"text": "ABOUT CHIP",
+"href": "https://www.chipforsenate.com/about-chip"
+},
+{
+"text": "CONTACT",
+"href": "https://www.chipforsenate.com"
+},
+{
+"text": "HOME",
+"href": "https://www.chipforsenate.com"
+},
+{
+"text": "IN THE COMMUNITY",
+"href": "https://www.chipforsenate.com/in-the-community"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.chipforsenate.com/on-the-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.chipforsenate.com/about-chip"
+}
 ]

@@ -1,11 +1,7 @@
-Anna Scharf
-Standing Strong Against Government Overreach
-REPRESENTING OREGONIANS IN HOUSE DISTRICT 23
-Anna Scharf
-Standing Strong Against Government Overreach
-REPRESENTING OREGONIANS IN HOUSE DISTRICT 23
-REPRESENTING YOU
-Hi, I'm Anna Scharf.
+0 Skip to Content About Meet Anna District Endorsements Endorsed By...
+Endorsement Form News Press Releases Session Accomplishments Session Updates Get Involved Contact Donate Open Menu Close Menu About Meet Anna District Endorsements Endorsed By...
+Endorsement Form News Press Releases Session Accomplishments Session Updates Get Involved Contact Donate Open Menu Close Menu Folder: About Back Meet Anna District Folder: Endorsements Back Endorsed By...
+Endorsement Form Folder: News Back Press Releases Session Accomplishments Session Updates Get Involved Contact Donate Anna Scharf Standing Strong Against Government Overreach REPRESENTING OREGONIANS IN HOUSE DISTRICT 23 Meet Anna Contribute Anna Scharf Standing Strong Against Government Overreach REPRESENTING OREGONIANS IN HOUSE DISTRICT 23 Meet Anna Contribute REPRESENTING YOU Hi, I'm Anna Scharf.
 I’m your neighbor, a local farmer, an involved parent, and your State Representative.
 I have deep roots in our district, and like you, I care about making it a great place to live, work, and raise a family.
 From serving on the Perrydale School Board and budget committee, enjoying many years on the Polk County Fair board, being an active member of the Polk County Farm Bureau, and a Trustee on the OSU 4-H Foundation, I have a history of showing up and doing the work that is needed to be done to make a difference in our community.
@@ -21,11 +17,14 @@ Please take a moment to sign up for my newsletter and follow me on Facebook so w
 “We need leaders willing to dig deep into the policies coming out of Salem and ask the tough questions.
 That is 100% Representative Anna Scharf.
 She brings the same drive and work ethic to Salem as she does at home on the farm.
-I am thankful she is a leader in the fight to preserve and protect our way of life in rural Oregon.”
-- KIT JOHNSTON
-YAMHILL COUNTY COMMISSIONER
-Support Anna's Campaign
-Help me continue bringing a commonsense perspective to Salem!
-Oregon is unique in that we have what is called the Political Tax Credit.
+I am thankful she is a leader in the fight to preserve and protect our way of life in rural Oregon.” - KIT JOHNSTON YAMHILL COUNTY COMMISSIONER Support Anna's Campaign Help me continue bringing a commonsense perspective to Salem!
+Oregon is unique in that we have what is called the Political Tax Credit .
 Most taxpayers are eligible to contribute $50 to a political candidate ($100 if filing jointly) and receive that back as a direct credit on their taxes that tax year.
 So, either you can contribute that $50/$100 to my campaign, or it goes to the Governor—I hope you’ll choose me!
+Contribute Get Involved Sign up to get updates from Anna!
+By entering your information, you consent to receive campaign updates, GOTV reminders, informational messages, and solicitations for support from Friends of Anna Scharf.
+Message and data rates may apply.
+Message frequency varies.
+You can unsubscribe at any time by replying STOP or using the unsubscribe link at the bottom of our emails.
+For more, please read our Privacy Policy .
+Paid for by Friends of Anna Scharf

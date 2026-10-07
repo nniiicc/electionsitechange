@@ -1,12 +1,42 @@
 [
-"https://facebook.com/@MicheleforFL",
-"https://instagram.com/MicheleforFL",
-"https://secure.actblue.com/donate/mr-web",
-"https://secure.actblue.com/donate/mr-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/mr-web?express_lane=true&amount=1000",
-"https://secure.actblue.com/donate/mr-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/mr-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/mr-web?express_lane=true&amount=500",
-"https://tiktok.com/@MicheleforFL",
-"https://twitter.com/@MicheleforFL"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mr-web?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mr-web?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mr-web?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/mr-web?express_lane=true&amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/mr-web?express_lane=true&amount=1000"
+},
+{
+"text": "Facebook-f",
+"href": "https://facebook.com/@MicheleforFL"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/MicheleforFL/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mr-web"
+},
+{
+"text": "Tiktok",
+"href": "https://tiktok.com/@MicheleforFL"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/@MicheleforFL"
+}
 ]

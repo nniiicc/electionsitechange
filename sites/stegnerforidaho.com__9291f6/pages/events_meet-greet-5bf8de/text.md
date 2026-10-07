@@ -1,11 +1,4 @@
-Back to All Events
-Doing your research to determine who to vote for in November?
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events Meet & Greet Thursday, October 15, 2026 5:30 PM 6:30 PM Tommy Vaughn's Grill 850 Jensen Grove Drive Blackfoot, Idaho, 83221 United States (map) Google Calendar ICS Doing your research to determine who to vote for in November?
 Come meet John at a Tommy Vaughn’s Grill in Blackfoot, hosted by Karole Honas, former news anchor for KIFI Local News 8.
 Ask questions, get answers.
-Previous
-Previous
-October 15
-Idaho Falls City Club Governors Candidate Forum
-Next
-Next
-October 23
+Previous Previous October 15 Idaho Falls City Club Governors Candidate Forum Next Next October 23 Citizens' Forum Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

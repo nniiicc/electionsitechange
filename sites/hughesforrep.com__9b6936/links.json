@@ -1,11 +1,54 @@
 [
-"https://facebook.com/hughesproactivect",
-"https://google.com/maps/search?api=1&query=1100+Kings+Highway+East+Suite+C+Fairfield+CT",
-"https://google.com/maps/search?api=1&query=Mark+Twain+Library+439+Redding+Road+Redding+CT",
-"https://instagram.com/repannehughes",
-"https://marktwainlibrary.org/events/2026-state-candidate-debates-in-person",
-"https://marktwainlibrary.org/events/2026-state-candidate-debates-virtual",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
-"https://thresholdvote.com/events/building-trades-canvass-d108ce",
-"https://thresholdvote.com/events/candidate-debate-135th-house-district-764c44"
+{
+"text": "(203) 613-4040",
+"href": "tel:+12036134040"
+},
+{
+"text": "1100 Kings Highway East, Suite C, Fairfield",
+"href": "https://www.google.com/maps/search/?api=1&query=1100+Kings+Highway+East+Suite+C+Fairfield+CT"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/hughesproactivect"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repannehughes/"
+},
+{
+"text": "Make a Voting Plan",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "Mark Twain Library, 439 Redding Road, Redding",
+"href": "https://www.google.com/maps/search/?api=1&query=Mark+Twain+Library+439+Redding+Road+Redding+CT"
+},
+{
+"text": "RSVP for the Debate",
+"href": "https://thresholdvote.com/events/candidate-debate-135th-house-district-764c44"
+},
+{
+"text": "Sign Up to Canvass",
+"href": "https://thresholdvote.com/events/building-trades-canvass-d108ce"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hughesproactivect"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repannehughes/"
+},
+{
+"text": "hughesforrep@gmail.com",
+"href": "mailto:hughesforrep@gmail.com"
+},
+{
+"text": "in person",
+"href": "https://marktwainlibrary.org/events/2026-state-candidate-debates-in-person/"
+},
+{
+"text": "on Zoom",
+"href": "https://marktwainlibrary.org/events/2026-state-candidate-debates-virtual/"
+}
 ]

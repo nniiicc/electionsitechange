@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Berea+Fundraiser%21&dates=20261015T213000Z%2F20261015T223000Z&location=826+Front+St%2C+Berea+OH%2C+USA",
-"http://maps.google.com/?q=826+Front+St+Berea+OH+USA",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/berea-canvass-with-megan-coy",
-"https://coyforohio.com/events/berea-fundraiser?format=ical",
-"https://coyforohio.com/events/north-royalton-canvass-with-megan-coy-1",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/10.1berea"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=826+front+st+berea+oh+usa"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Berea+Fundraiser%21&dates=20261015T213000Z%2F20261015T223000Z&location=826+Front+St%2C+Berea+OH%2C+USA"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/berea-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next October 17 Berea Canvass with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/berea-canvass-with-megan-coy"
+},
+{
+"text": "Previous Previous October 10 North Royalton Canvass with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/north-royalton-canvass-with-megan-coy-1"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "https://secure.actblue.com/donate/10.1berea",
+"href": "https://secure.actblue.com/donate/10.1berea"
+}
 ]

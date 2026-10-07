@@ -1,11 +1,46 @@
 [
-"https://facebook.com/jaroncraneforidaho",
-"https://instagram.com/jaroncraneid",
-"https://jaroncrane.com/",
-"https://jaroncrane.com/about",
-"https://jaroncrane.com/contact",
-"https://jaroncrane.com/donate",
-"https://jaroncrane.com/issues",
-"https://jaroncrane.com/privacy-policy",
-"https://verastly.com/"
+{
+"text": "About",
+"href": "https://www.jaroncrane.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jaroncrane.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jaroncrane.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jaroncrane.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jaroncrane.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jaroncrane.com/privacy-policy"
+},
+{
+"text": "Verastly",
+"href": "https://verastly.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://jaroncrane.com"
+},
+{
+"text": "[image: Jaron Crane for Idaho]",
+"href": "https://www.jaroncrane.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/jaroncraneforidaho"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/jaroncraneid/"
+}
 ]

@@ -1,8 +1,4 @@
-Month: May 2016
-Protecting Privacy of Electronic Data
-Marijuana Legalization – Post Mortem
-Senate Bill S.214
-The General Assembly’s consideration of whether to regulate and legalize marijuana started in the Senate.
+Vermont State House Representative Martin LaLonde South Burlington, Chittenden District 12 Menu Skip to content Home About Martin LaLonde Contact me State House Photos Month: May 2016 Announcement of Re-election Campaign in Other Paper Image May 27, 2016 October 7, 2016 lalonde Protecting Privacy of Electronic Data Image May 12, 2016 October 7, 2016 lalonde Marijuana Legalization – Post Mortem May 9, 2016 May 12, 2016 lalonde Senate Bill S.214 The General Assembly’s consideration of whether to regulate and legalize marijuana started in the Senate.
 After considering the issue for a year, the Senate passed S.241, a bill that would have created a detailed regulatory system for licensed cultivation, retail, and testing establishments.
 It would also have legalized the possession of up to an ounce of marijuana and the sale of up to a half-ounce for residents (a quarter-ounce for nonresidents).
 Legalization would have begun in January 2018 and would have been restricted to individuals 21 or older.
@@ -10,25 +6,21 @@ Under the Senate bill, the Department of Health would have promulgated rules add
 The Agency of Agriculture, Food and Markets would have been tasked with adopting rules on cultivation and testing.
 The bill would also have established a commission to review and recommend action on such matters as the sale of edibles and allowing home-grown marijuana.
 It would have raised funds through license fees and a 25% tax on the sale of marijuana; changed current laws on medical marijuana; invested in highway safety, including increasing the number of Drug Recognition Experts (DREs); and created a committee to study the use of marijuana in the workplace.
-House Attempts to Amend the Senate Proposal
-The House Judiciary Committee took testimony for nearly four weeks then passed out a significantly scaled-back bill that did not legalize activities related to marijuana.
+House Attempts to Amend the Senate Proposal The House Judiciary Committee took testimony for nearly four weeks then passed out a significantly scaled-back bill that did not legalize activities related to marijuana.
 Rather, the amendment addressed concerns related to marijuana use in Vermont and laid the groundwork for eventual marijuana legalization.
 Next, the Ways and Means Committee considered the Judiciary Committee’s bill and offered a further amendment that would legalize the possession of an ounce of marijuana and up to two marijuana plants.
 As the Senate bill and these amendments lay dormant at their next stop, the House Appropriations Committee, the Senate attached the language of S.241 to an unrelated bill, H.858, that it sent to the House.
-House Rejection of Senate Version
-Late in the session, the Senate version of marijuana legalization had its day on the House Floor when H.858 was considered.
+House Rejection of Senate Version Late in the session, the Senate version of marijuana legalization had its day on the House Floor when H.858 was considered.
 The House rejected the Senate version on a 121 to 28 vote.
 The vote in part reflected the sentiment held by many representatives that there had not been sufficient time for the House to vet the complicated issues involved in the initiative.
 Nor had enough time passed to understand the costs and benefits of marijuana legalization in states that have recently legalized marijuana.
 In addition, a number of representatives were concerned about creating a commercial market for legal marijuana, particularly if Vermont were the only state to do so within a day’s drive of some 40 million people.
 The Senate approach also frustrated those who wanted to see the legalization of home-grown marijuana.
-House Rejection of Decriminalization of Possession of Two Plants
-After overwhelmingly rejecting the Senate proposal, the House considered an amendment that would have decriminalized the possession of up to two marijuana plants.
+House Rejection of Decriminalization of Possession of Two Plants After overwhelmingly rejecting the Senate proposal, the House considered an amendment that would have decriminalized the possession of up to two marijuana plants.
 (Decriminalization is not the same as full legalization.
 If possession were decriminalized, it would not be a crime, but the possessor would still be subject to a civil penalty.) The amendment sought to address the current inconsistency in Vermont law whereby individuals who possess up to one ounce of marijuana are subject to a civil fine (such possession is currently decriminalized), but in order to obtain that ounce of marijuana they must engage in a criminal transaction.
 The House defeated this amendment on a 70 to 77 vote.
-House Passage of Amendment Addressing Education and Highway Safety and Creating Marijuana Advisory Commission
-The House did pass another amendment, however.
+House Passage of Amendment Addressing Education and Highway Safety and Creating Marijuana Advisory Commission The House did pass another amendment, however.
 This amendment recognized that Vermont is not addressing problems caused by current use of marijuana in the state, primarily health risks to youth from use of marijuana and highway safety.
 In addition, it recognized that marijuana legalization in Vermont and neighboring states is likely inevitable, and our state needs to prepare for that eventuality.
 First, although youth usage of marijuana has remained steady, fewer young people believe that regular use of marijuana causes them harm.
@@ -52,20 +44,17 @@ Third, the House also recognized that a neighboring state will likely legalize m
 Thus, the amendment would have established a Marijuana Advisory Commission to guide the administration and the General Assembly.
 The Commission would advise on issues relating to the national trend toward reclassifying marijuana at the state level and the possible emergence of a regulated adult-use commercial market for marijuana within Vermont.
 In addition, a Workforce Study Committee would have been created to examine the potential impacts of alcohol and drug use in the workplace.
-Senate Rejection of House Actions
-The Senate did not pass the House amendment described above.
+Senate Rejection of House Actions The Senate did not pass the House amendment described above.
 It failed to support the provisions on youth education and highway safety and the establishment of the advisory commission.
 Nor did it agree with the House’s provision in the transportation bill that would have created a poly-substance impaired driving violation and would have permitted the use of saliva tests to detect THC.
-Conclusion
-No law addressing recreational marijuana made it out of the legislature this year, despite the fact that many representatives in the House were sympathetic to the arguments in favor of legalizing or decriminalizing possession.
+Conclusion No law addressing recreational marijuana made it out of the legislature this year, despite the fact that many representatives in the House were sympathetic to the arguments in favor of legalizing or decriminalizing possession.
 Proponents of marijuana legalization have argued that prohibition and the war on drugs have failed.
 Marijuana is already widely used by Vermonters, and in order to obtain marijuana, users must confront the dangers associated with the black market, including product with pesticides or other additives and exposure to dealers selling other more harmful drugs.
 Proponents assert that individuals should have the same right to moderate use of marijuana that they do for alcohol without being subject to criminal penalties so long as they are not causing others harm.
 But the House majority was not yet ready to legalize or decriminalize.
 Nevertheless, many in the House recognize that legalization is likely going to occur more broadly in the region, and potentially in Vermont in the future.
 The work done by the House in examining the issues will help the State to prepare for that eventuality.
-Protecting Privacy of Electronic Data
-An increasing amount of personal information is being captured and stored electronically.
+Protecting Privacy of Electronic Data May 9, 2016 lalonde An increasing amount of personal information is being captured and stored electronically.
 For example, hospitals and other health care providers collect health information.
 Electronic communication providers such as Google and Facebook keep email and social media postings on their servers.
 And law enforcement captures and retains photos of license plates.
@@ -75,16 +64,11 @@ The legislature passed a bill, S.155, that takes significant steps in addressing
 It increases privacy protections for health and other personal electronic information.
 It also would address privacy concerns related to new technologies including drones used by law enforcement.
 In dealing with these areas, the law carefully balances personal privacy and public safety interests.
-The bill addresses four separate areas, further explained below:
-- Enhances the State’s protection of health information
-- Sets guidelines for law enforcement’s use of drones
-- Establishes procedures for law enforcement to obtain electronic information from electronic communication providers
-- Reauthorizes law enforcement’s use of cameras to capture photos of license plates, but with additional protections related to the use of the captured data.
+The bill addresses four separate areas, further explained below: Enhances the State’s protection of health information Sets guidelines for law enforcement’s use of drones Establishes procedures for law enforcement to obtain electronic information from electronic communication providers Reauthorizes law enforcement’s use of cameras to capture photos of license plates, but with additional protections related to the use of the captured data.
 (1) As to health care privacy, the bill tracks existing privacy protections for protected health information contained in the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA).
 HIPAA generally prohibits health care providers, insurers, and others (defined as “covered entities”) from disclosing information about a person’s health condition and treatment (defined as “protected health information”).
 S.155 adopts the HIPAA definitions and prohibits, as a matter of State law, a covered entity from disclosing protected health information.
-(2) The bill addresses the use of drones, primarily as used by law enforcement.
-(the Federal Aviation Administration regulates the private use of drones, so this legislation addresses that area only in a limited manner).
+(2) The bill addresses the use of drones, primarily as used by law enforcement. (the Federal Aviation Administration regulates the private use of drones, so this legislation addresses that area only in a limited manner).
 Currently, drones are not widely used by law enforcement in Vermont.
 They could, however, become ubiquitous, particularly as technology advances and costs drop.
 Drones enable their users to peek into some spaces that may otherwise be difficult to observe, including some spaces where individuals have a reasonable expectation of privacy.
@@ -119,8 +103,7 @@ The data in the central database can be retained for up to 18 months, however, o
 That data maintained by VTC can be accessed by law enforcement for “legitimate law enforcement purposes,” including the detection, investigation, analysis, or enforcement of a crime, or commercial traffic violation (or defending against the same); operation of an AMBER alert; or a missing or endangered person search.
 To obtain data from the VTC database during the first six months of its retention, law enforcement must provide specific articulable facts showing that there are reasonable grounds to believe that the data are relevant and material to an ongoing criminal, missing person, or commercial motor vehicle investigation or enforcement action.
 To obtain the data after that period but before the expiration of the 18-month retention period, law enforcement must obtain a warrant.
-Updating Vermont’s Stalking Law
-Stalking is a serious problem in Vermont and nationwide.
+Updating Vermont’s Stalking Law May 9, 2016 May 12, 2016 lalonde Stalking is a serious problem in Vermont and nationwide.
 It involves severe intrusions on the victim’s personal privacy and autonomy, causes a long-lasting impact on the victim’s quality of life, and creates risks to the security and safety of the victim and others even in the absence of express threats of physical harm.
 Stalking conduct often becomes increasingly violent over time and there is a strong connection between stalking and domestic violence and sexual assault.
 In Vermont, 3 out of every 4 stalking civil protective order requests are denied, most often due to the inflexible and confusing language in the definition of stalking.
@@ -135,8 +118,7 @@ It does not require an offender to make an express or overt threat; he or she ne
 It clarifies that the stalker need not have had the intended to cause the victim’s fear, but that he or she knew or should have known that a reasonable person in the victim’s circumstance would have felt that fear.
 The bill would ease the way for individuals to obtain protective orders against stalkers and for law enforcement to prosecute stalkers.
 It would improve a victim’s ability to prevent the severe intrusions on their personal privacy and autonomy that stalking causes.
-Juvenile Justice
-Science shows that the brain continues to change and mature throughout childhood and adolescence.
+Juvenile Justice May 9, 2016 lalonde Science shows that the brain continues to change and mature throughout childhood and adolescence.
 Due to the stage of their brain development, adolescents are more likely to act on impulse and misread or misinterpret social cues, and less likely to think twice, change their mind, or pause to consider the consequences of their actions.
 The legislature has recognized this as it has delved into issues related to juvenile justice.
 The Legislature passed a bill that prohibits sentences of life without parole for a person who committed his or her offense as a minor.
@@ -159,18 +141,16 @@ Currently, the Family Division generally has jurisdiction over delinquency proce
 One exception is that prosecutors can bring charges against 16 and 17 year olds in either the Family or the Criminal Court.
 Also, a 14-17 year old charged with a “Big 12” offense (the 12 worst felonies such as murder, arson causing death, etc.), is brought to Criminal Court.
 A 10-13 year old charged with such an offense is brought to Family Court, but can be transferred up to the Criminal Court on a prosecutor’s motion.
-Under the bill, the graduated changes are as follows:
-- Starting in July 2016 10-11 year olds charged with a Big 12 offense can only be charged and adjudicated in the Family Division.
-- Starting in January 2017, 16 year olds who commit a misdemeanor or a felony (not Big 12) must be charged in the Family Division.
+Under the bill, the graduated changes are as follows: Starting in July 2016 10-11 year olds charged with a Big 12 offense can only be charged and adjudicated in the Family Division.
+Starting in January 2017, 16 year olds who commit a misdemeanor or a felony (not Big 12) must be charged in the Family Division.
 If it is a felony charge, the case may be transferred to the Criminal Division on motion.
 Misdemeanors shall be adjudicated in the Family Court.
-- Starting in January 2018, 17 year olds are treated the same as 16 year olds.
-- Starting in July 2018, the bill extends youthful offender status from 17 year olds to 21 year olds.
+Starting in January 2018, 17 year olds are treated the same as 16 year olds.
+Starting in July 2018, the bill extends youthful offender status from 17 year olds to 21 year olds.
 In addition, the bill directs the Justice Oversight Committee to study the feasibility of raising the age of the juvenile court jurisdiction to 18-20 year olds who are charged with something other than a Big 12 offense.
 For years Vermont has subjected too many kids to a lifetime of limitations arising from carrying a criminal record with them through life.
 The legislature’s actions this biennium should reduce these limitations.
-Reducing the Impact of Suspended Drivers Licenses
-In a rural state like Vermont, access to transportation is critical for economic prosperity, public safety, and healthy communities.
+Reducing the Impact of Suspended Drivers Licenses May 9, 2016 lalonde In a rural state like Vermont, access to transportation is critical for economic prosperity, public safety, and healthy communities.
 Many Vermonters lack access to a vehicle or public transportation, but a less obvious barrier exists in the form of driver’s license suspensions.
 Sixty percent of suspended Vermont driver’s licenses are suspended for failure to pay judgments on traffic violations.
 Presumably, the legislature intended to encourage payment of fines with laws that suspend driver’s licenses for failure to pay.
@@ -221,3 +201,9 @@ Finally, the bill requires a report related to the statewide driver restoration 
 The driver’s license suspension bill should improve the safety of our roads.
 It will allow law enforcement to deploy its resources more effectively to address dangerous driving offenses rather than policing what has proved to be an ineffective payment collection tool.
 More importantly, it will reduce the number of drivers who have suspended license, allowing individuals whose offenses are unrelated to highway safety to retain their driving privileges, ability to earn a living, and opportunity to contribute to the economy.
+Upcoming Constituent Meetings No upcoming events Archives June 2026 (2) April 2026 (1) March 2026 (4) February 2026 (1) January 2026 (1) December 2025 (1) October 2025 (1) July 2025 (1) May 2025 (5) April 2025 (1) March 2025 (1) February 2025 (4) January 2025 (1) December 2024 (1) October 2024 (1) May 2024 (3) April 2024 (1) March 2024 (2) February 2024 (1) January 2024 (1) December 2023 (1) November 2023 (1) September 2023 (1) July 2023 (1) June 2023 (1) May 2023 (1) April 2023 (1) March 2023 (3) February 2023 (2) June 2022 (1) May 2022 (1) April 2022 (1) March 2022 (1) February 2022 (2) January 2022 (1) December 2021 (1) October 2021 (1) August 2021 (1) July 2021 (2) June 2021 (1) May 2021 (2) April 2021 (1) March 2021 (4) February 2021 (1) October 2020 (1) September 2020 (3) June 2020 (1) May 2020 (1) April 2020 (1) March 2020 (2) February 2020 (1) January 2020 (1) December 2019 (1) November 2019 (1) October 2019 (1) September 2019 (1) August 2019 (1) July 2019 (1) June 2019 (2) May 2019 (2) April 2019 (1) March 2019 (4) February 2019 (1) January 2019 (2) December 2018 (1) November 2018 (1) October 2018 (1) September 2018 (1) August 2018 (1) July 2018 (1) June 2018 (2) May 2018 (1) April 2018 (1) March 2018 (2) February 2018 (3) January 2018 (2) December 2017 (1) November 2017 (1) October 2017 (1) September 2017 (1) August 2017 (1) July 2017 (1) June 2017 (2) May 2017 (1) April 2017 (2) March 2017 (6) February 2017 (2) January 2017 (4) December 2016 (1) November 2016 (1) October 2016 (1) September 2016 (1) August 2016 (1) July 2016 (1) June 2016 (2) May 2016 (7) April 2016 (5) March 2016 (4) February 2016 (5) January 2016 (4) December 2015 (2) November 2015 (1) October 2015 (1) September 2015 (1) August 2015 (1) July 2015 (1) June 2015 (2) May 2015 (5) April 2015 (10) March 2015 (5) February 2015 (7) January 2015 (2) December 2014 (1) October 2014 (4) June 2014 (1) Follow Vermont State House Representative Martin LaLonde on WordPress.com This site paid for by LaLonde for Vermont House, Michele Kupersmith, Treasurer.
+Blog at WordPress.com.
+Subscribe Subscribed Vermont State House Representative Martin LaLonde Sign me up Have a WordPress.com account?
+Log in now.
+Vermont State House Representative Martin LaLonde View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+You must be logged in to post a comment.

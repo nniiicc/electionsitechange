@@ -1,15 +1,2 @@
-Proud Of Our
-Endorsements
-We're garnering community support for our campaign
-New York Working Families Party
-Progressive Political Organization
-Planned Parenthood
-American Non-profit Organization
-Run For Something
-Progressive American Political Organization
-Amy McDonald
-Building the Next Generation
-Errol Toulon
-Suffolk County Sheriff
-Leigh-Ann M Barde
-Islip Town Chair
+Follow us Menu Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Follow us Donate Proud Of Our Endorsements We're garnering community support for our campaign New York Health Act Healthcare Champion New York Working Families Party Progressive Political Organization Planned Parenthood American Non-profit Organization Run For Something Progressive American Political Organization Amy McDonald Building the Next Generation Errol Toulon Suffolk County Sheriff Leigh-Ann M Barde Islip Town Chair Endorse My Campaign Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Paid for by Friends of Josh taveras Josh Taveras for New York State Senate © # 54 Academy Street Bayport, NY 11705 Accessibility Statement Terms of Service Contact

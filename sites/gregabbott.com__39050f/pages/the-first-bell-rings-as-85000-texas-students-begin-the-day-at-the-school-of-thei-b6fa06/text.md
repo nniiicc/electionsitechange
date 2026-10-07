@@ -1,4 +1,4 @@
-It’s back-to-school time in Texas, and kids are already benefiting from Texas’ historic rollout of Texas Education Freedom Accounts (TEFA).
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page The First Bell Rings as 85,000 Texas Students Begin the Day at the School of Their Choosing Aug 17, 2026 It’s back-to-school time in Texas, and kids are already benefiting from Texas’ historic rollout of Texas Education Freedom Accounts (TEFA).
 According to the Texas Comptroller of Public Accounts, over 85,000 students received TEFA funds this year, 80% of whom come from low-income backgrounds.
 In addition, 25% of the recipients reported a disability.
 Less than 30 students were approved from families making over $66,000 a year.
@@ -13,4 +13,6 @@ Governor Greg Abbott’s dream of launching the largest day-one school choice pr
 With school choice, Texas is on the path to become number one in the nation for educating our children.
 Demand for school choice was astronomical, with over 270,000 applications in the first application cycle, according to the Texas Comptroller.
 If you or your family missed the application period, Governor Abbott encourages you to apply next year to receive funds that can be used for textbooks, uniforms, tuition, travel costs, and so much more.
-Get more details at https://educationfreedom.texas.gov/.
+Get more details at https://educationfreedom.texas.gov/ .
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

@@ -1,19 +1,74 @@
 [
-"https://bsky.app/profile/celeste4sos.bsky.social",
-"https://celeste4sos.com/",
-"https://celeste4sos.com/blog",
-"https://celeste4sos.com/donate",
-"https://celeste4sos.com/events",
-"https://celeste4sos.com/help",
-"https://celeste4sos.com/meet",
-"https://celeste4sos.com/news-archive-1",
-"https://celeste4sos.com/post/being-available-to-meet-everyone",
-"https://celeste4sos.com/post/week-32-election-integrity-is-election-security-and-so-much-more",
-"https://celeste4sos.com/post/week-33-the-politics-of-endorsements-and-voter-guides",
-"https://celeste4sos.com/priorities",
-"https://celeste4sos.com/privacy-policy",
-"https://celeste4sos.com/profile/celeste4cosos4441/profile?disableScrollToTop=true",
-"https://facebook.com/people/Celeste-Landry/61587657275237",
-"https://instagram.com/celeste4sos",
-"https://x.com/celeste4sos"
+{
+"text": "Donate",
+"href": "https://www.celeste4sos.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.celeste4sos.com/events"
+},
+{
+"text": "Help",
+"href": "https://www.celeste4sos.com/help"
+},
+{
+"text": "Home",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "Meet",
+"href": "https://www.celeste4sos.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.celeste4sos.com/news-archive-1"
+},
+{
+"text": "Newsletters",
+"href": "https://www.celeste4sos.com/blog"
+},
+{
+"text": "Priorities",
+"href": "https://www.celeste4sos.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.celeste4sos.com/privacy-policy"
+},
+{
+"text": "Profile",
+"href": "https://www.celeste4sos.com/profile/celeste4cosos4441/profile?disableScrollToTop=true"
+},
+{
+"text": "[image: Bluesky_edited]",
+"href": "https://bsky.app/profile/celeste4sos.bsky.social"
+},
+{
+"text": "[image: Celeste Landry for Secretary of State logo]",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Celeste-Landry/61587657275237/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/celeste4sos/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/celeste4sos"
+},
+{
+"text": "[image]Sep 15, 2026 ∙ 2 minWeek 31: Being Available to Meet EveryoneDear Colorado Voter, You’ve probably heard by now that Colorado’s mail ballots may proceed as usual. The Supreme Court ruled that the U.S. Postal Service may NOT change mail-ballot procedures this year. Justices Alito and Thomas dissented, while Justice Kavanaugh thought the USPS argument had merit but concurred with the majority that “officials do not have sufficient time to reasonably implement the rule before” the November 2026 election. As a candidate, my life continues to proceed...50",
+"href": "https://www.celeste4sos.com/post/being-available-to-meet-everyone"
+},
+{
+"text": "[image]Sep 22, 2026 ∙ 2 minWeek 32: Election Integrity Is Election Security AND So Much MoreElection integrity – one of my priority issues – may seem synonymous with election security. Yet, election integrity is so much more. 10",
+"href": "https://www.celeste4sos.com/post/week-32-election-integrity-is-election-security-and-so-much-more"
+},
+{
+"text": "[image]Sep 29, 2026 ∙ 2 minWeek 33: The Politics of Endorsements and Voter GuidesBy now, Colorado’s big Blue Book on ballot measures has arrived in voters’ mailboxes. Various other voter guides cover candidates and/or may include endorsements.50",
+"href": "https://www.celeste4sos.com/post/week-33-the-politics-of-endorsements-and-voter-guides"
+}
 ]

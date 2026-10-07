@@ -1,4 +1,4 @@
-Tying into affordability is our tax code.
+Home Platform Endorsements More Home Platform Endorsements Donate Home Platform Endorsements Donate Helping Families Thrive Tax Policy Tying into affordability is our tax code.
 Several changes can be made to increase the amount of money working families have.
 Currently, even people making less than the poverty level wage still pay state income taxes.
 We need to exempt the first $14,000 of income from state income taxes for an individual, and $20,000 for families.
@@ -13,5 +13,4 @@ Property taxes have been increasing, as we’ve seen with the staggering growth 
 This can be remedied by revamping our school funding formula at the state level, which will provide more consistent and increased support for schools, and lessen the need for higher property taxes.
 Corporate tax rates should be lowered for small businesses.
 Taken together, these measures would save low-income and working families anywhere from $500 up to thousands of dollars a year.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms of Service Paid for by Friends of John Perryman PO Box 5, Williams Bay, WI 53191 Powered by

@@ -1,16 +1,6 @@
-Representative Greg Smith Announces Committee Assignments
-SALEM, Ore. – State Representative Greg Smith (GOP-Heppner) has been appointed by House Speaker Tina Kotek to serve on the following committees in the 80th Legislative Assembly:
-- Joint Ways and Means Committee, Co-Vice Chair
-- Joint Ways and Means Subcommittee on General Government, Co-Chair
-- Joint Ways and Means Subcommittee on Capital Construction
-- Joint Student Success Committee, Co-Vice Chair
-- Joint Tax Expenditures Committee
-- Joint Legislative Administration Committee
-- Joint Legislative Audit Committee
-- House Committee on Revenue
-In addition to Representative Smith’s committee assignments, he has also been appointed by HouseRepublican Leader Carl Wilson to continue to serve as the Caucus Budget Chair.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Representative Greg Smith Announces Committee Assignments January 15, 2019 / in News SALEM, Ore. – State Representative Greg Smith (GOP-Heppner) has been appointed by House Speaker Tina Kotek to serve on the following committees in the 80th Legislative Assembly: Joint Ways and Means Committee, Co-Vice Chair Joint Ways and Means Subcommittee on General Government, Co-Chair Joint Ways and Means Subcommittee on Capital Construction Joint Student Success Committee, Co-Vice Chair Joint Tax Expenditures Committee Joint Legislative Administration Committee Joint Legislative Audit Committee House Committee on Revenue In addition to Representative Smith’s committee assignments, he has also been appointed by HouseRepublican Leader Carl Wilson to continue to serve as the Caucus Budget Chair.
 “I am honored to have been appointed to these positions by my colleagues and look forward to the opportunity to continue to serve in a leadership capacity,” said Representative Smith.
-“These committee appointments will allow me to continue to bring House District 57’s voice to the table as I work with my colleagues to craft solutions to the issues facing our great state.”
-On January 14, Representative Smith will be sworn in for his tenth consecutive term serving as a Member of the Oregon House of Representatives.
+“These committee appointments will allow me to continue to bring House District 57’s voice to the table as I work with my colleagues to craft solutions to the issues facing our great state.” On January 14, Representative Smith will be sworn in for his tenth consecutive term serving as a Member of the Oregon House of Representatives.
 He will be the longest serving member of the GOP caucus.
-As the State Representative for House District 57, Representative Smith serves constituents in Umatilla, Morrow, Gilliam, Sherman and Wasco Counties.
+As the State Representative for House District 57, Representative Smith serves constituents in Umatilla, Morrow, Gilliam, Sherman and Wasco Counties. https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2019-01-15 20:32:56 2022-03-30 20:33:20 Representative Greg Smith Announces Committee Assignments July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

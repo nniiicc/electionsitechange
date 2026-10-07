@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+Launch&dates=20260329T170000Z%2F20260329T193000Z",
-"https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form",
-"https://facebook.com/KristaLAllison49",
-"https://instagram.com/krista_l_allison",
-"https://kristalallisonforoh49.com/",
-"https://kristalallisonforoh49.com/about",
-"https://kristalallisonforoh49.com/cart",
-"https://kristalallisonforoh49.com/contact",
-"https://kristalallisonforoh49.com/endorsements",
-"https://kristalallisonforoh49.com/events",
-"https://kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6?format=ical",
-"https://kristalallisonforoh49.com/events/custard-and-conversations-with-krista",
-"https://kristalallisonforoh49.com/events/fundraiser",
-"https://kristalallisonforoh49.com/learnmore",
-"https://kristalallisonforoh49.com/media",
-"https://kristalallisonforoh49.com/privacy-policy",
-"https://kristalallisonforoh49.com/what-krista-believes",
-"https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+{
+"text": "0",
+"href": "https://www.kristalallisonforoh49.com/cart"
+},
+{
+"text": "About Krista",
+"href": "https://www.kristalallisonforoh49.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kristalallisonforoh49.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/community-for-krista-l-allison-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kristalallisonforoh49.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.kristalallisonforoh49.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canton+Canvass+Launch&dates=20260329T170000Z%2F20260329T193000Z"
+},
+{
+"text": "Home",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.kristalallisonforoh49.com/events/06kyzfb0g5uv8sy7dasrtn2pp8t0h6?format=ical"
+},
+{
+"text": "Learn More",
+"href": "https://www.kristalallisonforoh49.com/learnmore"
+},
+{
+"text": "Media",
+"href": "https://www.kristalallisonforoh49.com/media"
+},
+{
+"text": "Next Next April 8 Custard and Conversations with Krista",
+"href": "https://www.kristalallisonforoh49.com/events/custard-and-conversations-with-krista"
+},
+{
+"text": "Previous Previous March 26 All In Fundraiser",
+"href": "https://www.kristalallisonforoh49.com/events/fundraiser"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristalallisonforoh49.com/privacy-policy"
+},
+{
+"text": "What Krista Believes",
+"href": "https://www.kristalallisonforoh49.com/what-krista-believes"
+},
+{
+"text": "[image: Krista L Allison for OH 49]",
+"href": "https://www.kristalallisonforoh49.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristaLAllison49/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/krista_l_allison"
+},
+{
+"text": "https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfEXbTJ9H_2WSushlWzC1CSJSf6cp8j4Gq1F31Py9t8X0foew/viewform?usp=send_form"
+}
 ]

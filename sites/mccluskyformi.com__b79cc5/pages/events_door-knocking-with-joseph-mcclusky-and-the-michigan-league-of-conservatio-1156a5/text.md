@@ -1,8 +1,2 @@
-Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy
-Previous
-Previous
-June 13
-Summer Meet and Greet Picnic with Joseph McClusky
-Next
-Next
-June 27
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky and the Michigan League of Conservation Voters Monday, June 15, 2026 3:00 PM 5:00 PM Winstrom Park 1774 Perry Street Holland, Michigan, 49424 United States (map) Google Calendar ICS Previous Previous June 13 Summer Meet and Greet Picnic with Joseph McClusky Next Next June 27 Canvass Launch with State Rep.
+Joey Andrews and joseph mcclusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

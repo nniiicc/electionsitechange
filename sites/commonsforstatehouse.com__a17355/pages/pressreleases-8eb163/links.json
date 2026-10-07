@@ -1,19 +1,78 @@
 [
-"http://digitalbreezesolutions.com/",
-"https://commonsforstatehouse.com/",
-"https://commonsforstatehouse.com/about",
-"https://commonsforstatehouse.com/common-sense-conservative-policies",
-"https://commonsforstatehouse.com/endorsements",
-"https://commonsforstatehouse.com/issues",
-"https://commonsforstatehouse.com/join",
-"https://commonsforstatehouse.com/post/common-sense-conservative-policies",
-"https://commonsforstatehouse.com/post/letter-to-district-13",
-"https://commonsforstatehouse.com/post/local-interests-not-special-interests-granville-bridge",
-"https://commonsforstatehouse.com/post/what-does-local-control-mean",
-"https://commonsforstatehouse.com/pressreleases",
-"https://commonsforstatehouse.com/privacy-policy",
-"https://commonsforstatehouse.com/raffle",
-"https://facebook.com/commonsforstatehouse",
-"https://instagram.com/commonsforstatehouse",
-"https://secure.winred.com/mattcommons/donate"
+{
+"text": "About",
+"href": "https://www.commonsforstatehouse.com/about"
+},
+{
+"text": "Common Sense Conservative Policies",
+"href": "https://www.commonsforstatehouse.com/common-sense-conservative-policies"
+},
+{
+"text": "Common Sense Conservative Policies",
+"href": "https://www.commonsforstatehouse.com/post/common-sense-conservative-policies"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mattcommons/donate"
+},
+{
+"text": "Dear District 13,",
+"href": "https://www.commonsforstatehouse.com/post/letter-to-district-13"
+},
+{
+"text": "Digital Breeze Solutions",
+"href": "http://digitalbreezesolutions.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.commonsforstatehouse.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.commonsforstatehouse.com/join"
+},
+{
+"text": "Home",
+"href": "https://www.commonsforstatehouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.commonsforstatehouse.com/issues"
+},
+{
+"text": "Local Interests, Not Special Interests: Granville Bridge",
+"href": "https://www.commonsforstatehouse.com/post/local-interests-not-special-interests-granville-bridge"
+},
+{
+"text": "News",
+"href": "https://www.commonsforstatehouse.com/pressreleases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.commonsforstatehouse.com/privacy-policy"
+},
+{
+"text": "Raffle",
+"href": "https://www.commonsforstatehouse.com/raffle"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.commonsforstatehouse.com"
+},
+{
+"text": "What Does Local Control Mean?",
+"href": "https://www.commonsforstatehouse.com/post/what-does-local-control-mean"
+},
+{
+"text": "[image: 13]",
+"href": "https://www.facebook.com/commonsforstatehouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/commonsforstatehouse/"
+},
+{
+"text": "info@commonsforstatehouse.com",
+"href": "mailto:Info@commonsforstatehouse.com"
+}
 ]

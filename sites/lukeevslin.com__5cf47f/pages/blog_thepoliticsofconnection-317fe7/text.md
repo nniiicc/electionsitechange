@@ -1,4 +1,4 @@
-The work of campaigning is unlike anything I’ve ever done before.
+Home About Luke Blog Issues Contribute Home About Luke Blog Issues Contribute Luke Evslin for Hawai'i State House The Politics of Connection The work of campaigning is unlike anything I’ve ever done before.
 I’m much more comfortable reading a working paper from the National Bureau of Economic Research than I am waving signs on the side of the road or knocking on people’s doors.
 But, as I’m learning, part of running for office is to force yourself out of your comfort zone.
 For me, it’s all WAY out of my comfort zone.
@@ -16,3 +16,4 @@ And if we mix up personal identity with policy prescriptions, then progress beco
 Seeing each other as neighbors and community members rather than members of an opposing ideology is the most important step we can take towards building a new kind of politics.
 One that’s focused on solutions and not divisions.
 And so I step out of my car, I grab my banner, and I wave.
+Luke Evslin June 17, 2018 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous Let’s build tiny houses Luke Evslin October 17, 2019 Next A Leap of Hope Luke Evslin February 8, 2018 Instagram Twitter Facebook Friends of Luke Evslin PO Box 662074 Lihuʻe, HI 96766 Luke@LukeEvslin.com

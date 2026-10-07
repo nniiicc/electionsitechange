@@ -1,4 +1,5 @@
-Jose' was born in Victoria De Las Tunas, Cuba in 1960.
+Skip to content New Hampshire State Rep.
+For Canterbury and Loudon 2020-2022 2023-2024 2025-2026 Jose' Cambrils, "Servant Leader for New Hampshire" Home About the Candidate Community Service Contact my campaign FAQ Photo Gallery Endorsements NEWS & DONATIONS About Us Jose' was born in Victoria De Las Tunas, Cuba in 1960.
 At the age of 5, he and his family immigrated (legally) to the United States to escape from the Communist Castro regime.
 The family settled in Boston, Massachusetts.
 Jose' learned English and attended the local elementary and middle schools in Dorchester.
@@ -14,12 +15,12 @@ Jose' and Allison, moved to Loudon, NH in 2016 and absolutely love living in thi
 Jose' is fluent in Spanish and his interests include Hunting, Fishing, Coin Collecting, and doing the best Cuban style Pig Roasts in all of NH.
 Elected as NH State Rep. for Canterbury / Loudon 2021-2022, 2023-2024 and 2025-2026.
 Running for District 4 seat in 2024.
-THANK YOU FOR supportING my candidacy
-Thanks to all that voted for me in the September 2024 Republican Primary Win.
+THANK YOU FOR supportING my candidacy Thanks to all that voted for me in the September 2024 Republican Primary Win.
 We had a record turnout for the Primary, and I was easily able to defeat the democrat-RINO plant that ran against me by a wide vote margin.
 My vote count was the highest I have had in four primaries, which means that I have great name recognition in Loudon and Canterbury.
 Thank you all for electing me to a third term at the General Election in November 2024.
 I look forward to serving you all for the next two years.
 Please make donation checks out to: Jose' For NH State Rep.
-Mail to: 83 Berry Road Loudon, NH 03307
-Thank you, and God Bless. - Jose' -
+Mail to: 83 Berry Road Loudon, NH 03307 Thank you, and God Bless. - Jose' - Call to Action Contact Us Email jose4nh@comcast.net Phone 603-731-8287 Fax N/A Address 83 Berry Road Loudon, NH.
+03307 Home About the Candidate Community Service Contact my campaign FAQ Photo Gallery Endorsements NEWS & DONATIONS Copyright © # New Hampshire State Rep.
+For Canterbury and Loudon 2020-2022 2023-2024 2025-2026 — Escapade WordPress theme by GoDaddy

@@ -1,5 +1,3 @@
-Back to All Events
-Join us for one of our biggest events of the year on October 3rd at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) at 9AM and 1PM to connect with neighbors and support Josh Hoover.
-Next
-Next
-October 10
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE Back to All Events Folsom HQ - Super Saturday Saturday, October 3, 2026 9:00 AM 2:00 PM Google Calendar ICS Join us for one of our biggest events of the year on October 3rd at Hoover HQ (13405 Folsom Blvd, Building 500, Folsom) at 9AM and 1PM to connect with neighbors and support Josh Hoover.
+Next Next October 10 Orangevale Walk ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

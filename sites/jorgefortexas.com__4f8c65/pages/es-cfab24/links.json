@@ -1,16 +1,114 @@
 [
-"https://jorgefortexas.com/en",
-"https://jorgefortexas.com/es",
-"https://jorgefortexas.com/es/about",
-"https://jorgefortexas.com/es/endorsements",
-"https://jorgefortexas.com/es/get-involved",
-"https://jorgefortexas.com/es/issues",
-"https://jorgefortexas.com/es/privacy",
-"https://jorgefortexas.com/es/terms",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=10",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=100",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=25",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=250",
-"https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=50"
+{
+"text": "$10",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today?amount=50"
+},
+{
+"text": "Acerca de",
+"href": "https://www.jorgefortexas.com/es/about"
+},
+{
+"text": "Conoce Más",
+"href": "https://www.jorgefortexas.com/es/about"
+},
+{
+"text": "Donar",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "Donar hoy",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "English",
+"href": "https://www.jorgefortexas.com/en"
+},
+{
+"text": "Inicio",
+"href": "https://www.jorgefortexas.com/es"
+},
+{
+"text": "Jorge Borrego",
+"href": "https://www.jorgefortexas.com/es"
+},
+{
+"text": "OTRO",
+"href": "https://secure.winred.com/jorge-borrego-campaign/donate-today"
+},
+{
+"text": "Participa",
+"href": "https://www.jorgefortexas.com/es/get-involved"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.jorgefortexas.com/es/privacy"
+},
+{
+"text": "Privacidad",
+"href": "https://www.jorgefortexas.com/es/privacy"
+},
+{
+"text": "Respaldos",
+"href": "https://www.jorgefortexas.com/es/endorsements"
+},
+{
+"text": "Temas",
+"href": "https://www.jorgefortexas.com/es/issues"
+},
+{
+"text": "Términos",
+"href": "https://www.jorgefortexas.com/es/terms"
+},
+{
+"text": "Ver todos los respaldos",
+"href": "https://www.jorgefortexas.com/es/endorsements"
+},
+{
+"text": "Voluntario",
+"href": "https://www.jorgefortexas.com/es/get-involved"
+},
+{
+"text": "[image: Casa de Texas y etiqueta fiscal]Reducir los Impuestos a la PropiedadDetener a los burócratas locales que año tras año hacen subir los impuestos a la propiedad.Reducir las tasas de impuestos a la propiedad para que las familias conserven más de lo que ganan.Proteger a los propietarios para que los impuestos no los obliguen a perder la casa que ya tienen.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-4"
+},
+{
+"text": "[image: Dos estudiantes con mochilas caminando a la escuela tomados de la mano]Proteger a Nuestros Hijos del FentaniloLiderar la lucha para sacar el fentanilo mortal de nuestras calles y mantenerlo lejos de nuestros hijos.Dar a la policía las herramientas para perseguir a quienes venden y trafican fentanilo.Ampliar la prevención y la información para que las familias conozcan el peligro antes de que ocurra una tragedia.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-3"
+},
+{
+"text": "[image: Jugadoras de baloncesto de preparatoria compitiendo durante un partido en un gimnasio lleno]Prohibir que los Hombres Compitan en Deportes FemeninosProhibir que los hombres compitan en deportes femeninos.Proteger la competencia justa y las oportunidades deportivas para las niñas y jóvenes.Mantener los deportes femeninos para las mujeres y las niñas.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-5"
+},
+{
+"text": "[image: Maestra leyendo a estudiantes en un salón de clases con bandera estadounidense]Aumentar el Sueldo de los MaestrosAumentar el sueldo de maestros, bibliotecarios, consejeros y enfermeras de las escuelas públicas.Poner más recursos educativos en las personas que trabajan directamente con los estudiantes.Hacer de Texas un estado donde los buenos educadores puedan hacer carrera y quedarse en nuestras escuelas.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-6"
+},
+{
+"text": "[image: Oficial de policía sonriendo mientras conversa con una familia]Sacar a los Criminales de Nuestras CallesMantener a los criminales violentos fuera de nuestras calles y comunidades.Respaldar a la policía con los recursos y el apoyo que necesita para detener a delincuentes peligrosos.Poner primero a las víctimas, las familias y la seguridad de nuestros vecindarios.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-2"
+},
+{
+"text": "[image: Una familia de Texas caminando junta, que representa a las familias trabajadoras saliendo adelante]Bajar el Costo de Vida para las Familias del Distrito 118Luchar contra el alza de precios en la despensa, la gasolina, los servicios, el seguro y los gastos diarios.Mantener a Texas como la economía más fuerte del país para que las familias trabajadoras salgan adelante.Apoyar políticas que generen buenos empleos y protejan el cheque que tanto cuesta ganar.",
+"href": "https://www.jorgefortexas.com/es/issues#issue-1"
+},
+{
+"text": "Únete al Equipo",
+"href": "https://www.jorgefortexas.com/es/get-involved"
+}
 ]

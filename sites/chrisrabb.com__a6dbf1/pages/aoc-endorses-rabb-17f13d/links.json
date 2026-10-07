@@ -1,96 +1,422 @@
 [
-"https://aft2026.org/about-us",
-"https://amistadlaw.org/abolishing-death-incarceration",
-"https://ballotpedia.org/Zephyr_Teachout",
-"https://bencrump.com/about/attorneys/ben-crump",
-"https://cairaction.org/about-us",
-"https://centeractionfund.org/",
-"https://chrisrabb.com/",
-"https://chrisrabb.com/about",
-"https://chrisrabb.com/cart",
-"https://chrisrabb.com/cdn-cgi/l/email-protection",
-"https://chrisrabb.com/donate",
-"https://chrisrabb.com/endorsements",
-"https://chrisrabb.com/media",
-"https://chrisrabb.com/platform",
-"https://chrisrabb.com/press",
-"https://chrisrabb.com/record",
-"https://chrisrabb.com/sign",
-"https://climatehawksvote.com/about",
-"https://commondefense.us/about-us",
-"https://docs.google.com/document/d/1QFX-pvHwl27WYH8U9Oa37ZVuqx_ENYZOiNzD3qBSG7k/edit?usp=sharing",
-"https://elizabethfiedler.com/",
-"https://facebook.com/chrisrabbCD03",
-"https://foodandwateraction.org/about",
-"https://ilhanomar.com/",
-"https://inquirer.com/opinion/editorials/chris-rabb-endorsement-3rd-congressional-district-20260420.html",
-"https://inquirer.com/politics/new-jersey/analilia-mejia-mikie-sherrill-explained-congress-20260416.html",
-"https://inquirer.com/politics/philadelphia/aoc-endorses-chris-rabb-congress-20260424.html",
-"https://instagram.com/affordableamerica",
-"https://instagram.com/chrisrabb",
-"https://instagram.com/chrisrabb/p/DVMlWGMCRIA",
-"https://instagram.com/chrisrabb/p/DVRoBZZCTYw",
-"https://instagram.com/chrisrabb/p/DVWDaXFEW6o",
-"https://instagram.com/chrisrabb/p/DWBprE9lons",
-"https://instagram.com/chrisrabb/p/DWJV4ftFtOt",
-"https://instagram.com/chrisrabb/p/DWJrC30kYic",
-"https://instagram.com/chrisrabb/p/DWNjKmIjF7S",
-"https://instagram.com/chrisrabb/p/DWOjLS1EUFi",
-"https://instagram.com/chrisrabb/p/DWUel0kCbuy",
-"https://instagram.com/chrisrabb/p/DWW10xQkQvn",
-"https://instagram.com/chrisrabb/p/DWW2LmakWXD",
-"https://instagram.com/chrisrabb/p/DWW2YdOiXuz",
-"https://instagram.com/chrisrabb/p/DXSzRRGjEf9",
-"https://instagram.com/janefondaclimatepac/p/DWeWtJzCUNY",
-"https://instagram.com/jews4rabb",
-"https://instagram.com/justicedemocrats/p/DWEZIfXlk7b",
-"https://instagram.com/nodemleftbehind/p/DXP8D_PE69g",
-"https://instagram.com/paworkingfamilies/p/DWEshnIjpWJ",
-"https://instagram.com/phila2ndward/p/DVOa2DXjT9X",
-"https://instagram.com/phillyfirstward/p/DT-4-dVDjRl",
-"https://instagram.com/progressivevotersnetwork/p/DUL05vLkZux",
-"https://instagram.com/reclaimphiladelphia/p/DUZFmpXCY3-",
-"https://instagram.com/votepalpac/p/DXe4Xa4kfAN",
-"https://interfaithalliance.org/post/faith-in-action-bishop-dwayne-roysters-call-to-justice",
-"https://jamieraskin.com/meet-jamie-raskin",
-"https://jaredhuffman.com/",
-"https://kendraforphiladelphia.com/about",
-"https://leyvhair.org/index.cfm?fuseaction=Page.ViewPage&pageId=485",
-"https://mtairydemocrats.org/",
-"https://muslimsunitedpac.com/",
-"https://newjerseymonitor.com/briefs/aoc-endorses-house-race",
-"https://nicforphilly.com/about",
-"https://nikilsaval.com/",
-"https://ocasiocortez.com/about",
-"https://oilchangeaction.org/about",
-"https://onepa.org/",
-"https://ourrevolution.com/about-us",
-"https://passmedicareforall.org/",
-"https://patrioticmillionaires.org/about",
-"https://peaceaction.org/who-we-are",
-"https://phillydsa.org/",
-"https://phillydsa.org/press",
-"https://phillytrib.com/news/local_news/civil-rights-attorney-ben-crump-endorses-rep-chris-rabb-for-congress/article_9d91dfab-d0b5-4384-8875-f4942f734d11.html",
-"https://pramilaforcongress.com/home",
-"https://rabb-for-congress.solidarity.tech/",
-"https://reclaimphiladelphia.org/",
-"https://rickforphilly.com/",
-"https://robintforpa3.com/2026/03/10/press-release-robin-j-toldens-suspends-campaign-and-endorses-chris-rabb",
-"https://rokhanna.com/page/meet-ro",
-"https://rrc.edu/profile/rabbi-mordechai-liebling",
-"https://secure.actblue.com/donate/rabbwebsite",
-"https://summerforpa.com/",
-"https://summerforpa.com/about",
-"https://sunrisemovement.org/about",
-"https://sunrisemovementphiladelphia.org/",
-"https://thehill.com/homenews/campaign/5822819-khanna-2028-white-house-bid",
-"https://thehill.com/homenews/campaign/5828661-cpc-pac-chris-rabb-pennsylvania-house-primary",
-"https://trackaipac.com/contact",
-"https://vanhollen.org/",
-"https://ward39a.org/",
-"https://weareprogressives.org/",
-"https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-chris-rabb-for-pa-03",
-"https://whyy.org/articles/pennsylvania-primary-fundraising-rabb-stanford",
-"https://x.com/chrisrabb",
-"https://youtube.com/@RabbForCongressPA03"
+{
+"text": "$385,885 raised in Q1",
+"href": "https://whyy.org/articles/pennsylvania-primary-fundraising-rabb-stanford/"
+},
+{
+"text": "0",
+"href": "https://www.chrisrabb.com/cart"
+},
+{
+"text": "2028 Democratic presidential",
+"href": "https://thehill.com/homenews/campaign/5822819-khanna-2028-white-house-bid/"
+},
+{
+"text": "About",
+"href": "https://www.chrisrabb.com/about"
+},
+{
+"text": "Analilia Mejia",
+"href": "https://newjerseymonitor.com/briefs/aoc-endorses-house-race/"
+},
+{
+"text": "Ben Cohen (co-founder of Ben & Jerry’s Ice Cream)",
+"href": "https://www.instagram.com/chrisrabb/p/DVMlWGMCRIA/"
+},
+{
+"text": "Ben Crump",
+"href": "https://bencrump.com/about/attorneys/ben-crump/"
+},
+{
+"text": "Bishop Dwayne Royster",
+"href": "https://www.interfaithalliance.org/post/faith-in-action-bishop-dwayne-roysters-call-to-justice"
+},
+{
+"text": "CAIR Action (Council on American-Islamic Relations)",
+"href": "https://cairaction.org/about-us/"
+},
+{
+"text": "Center for Biological Diversity Action Fund",
+"href": "https://centeractionfund.org/"
+},
+{
+"text": "Civil Rights Activist + Attorney Michael Coard Esq.",
+"href": "https://www.instagram.com/chrisrabb/p/DWUel0kCbuy/"
+},
+{
+"text": "Climate Hawks Vote",
+"href": "https://climatehawksvote.com/about/"
+},
+{
+"text": "Common Defense (Veterans & Military Community)",
+"href": "https://commondefense.us/about-us/"
+},
+{
+"text": "Community College of Philadelphia AFT-2026",
+"href": "https://www.aft2026.org/about-us"
+},
+{
+"text": "Congressional Progressive Caucus PAC",
+"href": "https://thehill.com/homenews/campaign/5828661-cpc-pac-chris-rabb-pennsylvania-house-primary/"
+},
+{
+"text": "Congressional Progressive Caucus PAC",
+"href": "https://weareprogressives.org/congressional-progressive-caucus-pac-endorses-chris-rabb-for-pa-03/"
+},
+{
+"text": "Congressional Progressive Caucus PAC (CPC PAC)",
+"href": "https://weareprogressives.org/"
+},
+{
+"text": "Councilmember Kendra Brooks",
+"href": "https://www.kendraforphiladelphia.com/about"
+},
+{
+"text": "Councilmember Nic O’Rourke",
+"href": "https://www.nicforphilly.com/about"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.actblue.com/donate/rabbwebsite"
+},
+{
+"text": "Donate",
+"href": "https://www.chrisrabb.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisrabb.com/endorsements"
+},
+{
+"text": "Food & Water Action",
+"href": "https://www.foodandwateraction.org/about/"
+},
+{
+"text": "Friends of the Earth Action",
+"href": "https://www.instagram.com/chrisrabb/p/DWJrC30kYic/"
+},
+{
+"text": "Get a Sign!",
+"href": "https://www.chrisrabb.com/sign"
+},
+{
+"text": "Home",
+"href": "https://www.chrisrabb.com/"
+},
+{
+"text": "If Not Now Philly Action",
+"href": "https://www.instagram.com/chrisrabb/p/DVWDaXFEW6o/"
+},
+{
+"text": "Ilhan Omar",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "Jamie Raskin",
+"href": "https://jamieraskin.com/meet-jamie-raskin/"
+},
+{
+"text": "Jane Fonda Climate PAC",
+"href": "https://www.instagram.com/janefondaclimatepac/p/DWeWtJzCUNY/"
+},
+{
+"text": "Jews For Rabb",
+"href": "https://www.instagram.com/jews4rabb/"
+},
+{
+"text": "Justice Democrats",
+"href": "https://www.instagram.com/justicedemocrats/p/DWEZIfXlk7b/"
+},
+{
+"text": "Make America Affordable Now PAC",
+"href": "https://www.chrisrabb.com/about"
+},
+{
+"text": "Make America Affordable Now PAC",
+"href": "https://www.instagram.com/affordableamerica/"
+},
+{
+"text": "Media",
+"href": "https://www.chrisrabb.com/media"
+},
+{
+"text": "Medicare For All PAC",
+"href": "https://passmedicareforall.org/#about"
+},
+{
+"text": "Mt. Airy Democrats",
+"href": "https://mtairydemocrats.org/"
+},
+{
+"text": "Muslims United PAC",
+"href": "https://muslimsunitedpac.com/"
+},
+{
+"text": "National Civil Rights Trial Lawyers Association President Ben Crump",
+"href": "https://www.phillytrib.com/news/local_news/civil-rights-attorney-ben-crump-endorses-rep-chris-rabb-for-congress/article_9d91dfab-d0b5-4384-8875-f4942f734d11.html"
+},
+{
+"text": "No Dem Left Behind",
+"href": "https://www.instagram.com/nodemleftbehind/p/DXP8D_PE69g/"
+},
+{
+"text": "Oil Change Action",
+"href": "https://oilchangeaction.org/about/"
+},
+{
+"text": "One Pennsylvania",
+"href": "https://www.onepa.org/"
+},
+{
+"text": "OnePA",
+"href": "https://www.onepa.org/"
+},
+{
+"text": "Our Revolution",
+"href": "https://ourrevolution.com/about-us/"
+},
+{
+"text": "Patriotic Millionaires",
+"href": "https://patrioticmillionaires.org/about/"
+},
+{
+"text": "Peace Action",
+"href": "https://www.peaceaction.org/who-we-are/"
+},
+{
+"text": "Peace, Accountability, and Leadership PAC",
+"href": "https://www.instagram.com/votepalpac/p/DXe4Xa4kfAN/"
+},
+{
+"text": "Pennsylvania State Rep. Elizabeth Fielder (HD-184)",
+"href": "https://www.instagram.com/chrisrabb/p/DWW2LmakWXD/"
+},
+{
+"text": "Pennsylvania State Rep. Rick Krajewski (HD-188)",
+"href": "https://www.instagram.com/chrisrabb/p/DWW10xQkQvn/"
+},
+{
+"text": "Pennsylvania State Sen. Nikil Saval (SD-01)",
+"href": "https://www.instagram.com/chrisrabb/p/DWW2YdOiXuz/"
+},
+{
+"text": "Philadelphia Anti-Violence Advocate: Ms Marthea Brown",
+"href": "https://amistadlaw.org/abolishing-death-incarceration"
+},
+{
+"text": "Philadelphia Anti-Violence Advocate: Ms. Dee Dee Haw",
+"href": "https://www.instagram.com/chrisrabb/p/DWBprE9lons/"
+},
+{
+"text": "Philadelphia Anti-Violence Advocate: Ms. Karimah McClary",
+"href": "https://www.instagram.com/chrisrabb/p/DWJV4ftFtOt/"
+},
+{
+"text": "Philadelphia Councilmember Kendra Brooks",
+"href": "https://www.instagram.com/chrisrabb/p/DWOjLS1EUFi/"
+},
+{
+"text": "Philadelphia Councilmember Nic O’Rourke",
+"href": "https://www.instagram.com/chrisrabb/p/DWNjKmIjF7S/"
+},
+{
+"text": "Philadelphia First Ward Democratic Committee",
+"href": "https://www.instagram.com/phillyfirstward/p/DT-4-dVDjRl/"
+},
+{
+"text": "Philadelphia Inquirer",
+"href": "https://www.inquirer.com/opinion/editorials/chris-rabb-endorsement-3rd-congressional-district-20260420.html"
+},
+{
+"text": "Philadelphia Second Ward Democratic Committee",
+"href": "https://www.instagram.com/phila2ndward/p/DVOa2DXjT9X/"
+},
+{
+"text": "Philadelphia Ward 39A Democratic Committee",
+"href": "https://www.ward39a.org/"
+},
+{
+"text": "Philly DSA",
+"href": "https://www.phillydsa.org/"
+},
+{
+"text": "Philly DSA",
+"href": "https://www.phillydsa.org/press"
+},
+{
+"text": "Philly Neighborhood Networks",
+"href": "https://www.instagram.com/chrisrabb/p/DVRoBZZCTYw/"
+},
+{
+"text": "Platform",
+"href": "https://www.chrisrabb.com/platform"
+},
+{
+"text": "Pramila Jayapal",
+"href": "https://www.pramilaforcongress.com/home"
+},
+{
+"text": "Press",
+"href": "https://www.chrisrabb.com/press"
+},
+{
+"text": "Progressive Voter Network",
+"href": "https://www.instagram.com/progressivevotersnetwork/p/DUL05vLkZux/"
+},
+{
+"text": "Rabbi Julie Greenberg",
+"href": "https://www.leyvhair.org/index.cfm?fuseaction=Page.ViewPage&pageId=485"
+},
+{
+"text": "Rabbi Mordechai Liebling",
+"href": "https://rrc.edu/profile/rabbi-mordechai-liebling/"
+},
+{
+"text": "Reclaim Philadelphia",
+"href": "https://www.instagram.com/reclaimphiladelphia/p/DUZFmpXCY3-/"
+},
+{
+"text": "Reclaim Philadelphia",
+"href": "https://www.reclaimphiladelphia.org/"
+},
+{
+"text": "Record",
+"href": "https://www.chrisrabb.com/record"
+},
+{
+"text": "Rep. Elizabeth Fiedler",
+"href": "https://elizabethfiedler.com/"
+},
+{
+"text": "Rep. Rick Krajewski",
+"href": "https://www.rickforphilly.com/"
+},
+{
+"text": "Ro Khanna",
+"href": "https://www.rokhanna.com/page/meet-ro"
+},
+{
+"text": "Robin Toldens, PA-03 Congressional Candidate",
+"href": "https://robintforpa3.com/2026/03/10/press-release-robin-j-toldens-suspends-campaign-and-endorses-chris-rabb/"
+},
+{
+"text": "State Rep. Chris Rabb",
+"href": "https://www.chrisrabb.com/about"
+},
+{
+"text": "State Sen. Nikil Saval",
+"href": "https://nikilsaval.com/"
+},
+{
+"text": "Summer Lee",
+"href": "https://summerforpa.com/about/"
+},
+{
+"text": "Sunrise Movement National",
+"href": "https://www.sunrisemovement.org/about/"
+},
+{
+"text": "Sunrise Movement Philadelphia",
+"href": "https://www.sunrisemovementphiladelphia.org/"
+},
+{
+"text": "The Philadelphia Inquirer",
+"href": "https://www.inquirer.com/opinion/editorials/chris-rabb-endorsement-3rd-congressional-district-20260420.html"
+},
+{
+"text": "Track AIPAC",
+"href": "https://www.trackaipac.com/contact"
+},
+{
+"text": "U.S. Rep Jamie Raskin",
+"href": "https://jamieraskin.com/meet-jamie-raskin/"
+},
+{
+"text": "U.S. Rep Jared Huffman",
+"href": "https://www.jaredhuffman.com/"
+},
+{
+"text": "U.S. Rep Summer Lee",
+"href": "https://summerforpa.com/"
+},
+{
+"text": "U.S. Rep. Alexandria Ocasio-Cortez",
+"href": "https://www.ocasiocortez.com/about"
+},
+{
+"text": "U.S. Rep. Ilhan Omar",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "U.S. Rep. Pramila Jayapal",
+"href": "https://www.pramilaforcongress.com/home"
+},
+{
+"text": "U.S. Rep. Ro Khanna",
+"href": "https://www.rokhanna.com/page/meet-ro"
+},
+{
+"text": "U.S. Representative Alexandria Ocasio-Cortez (NY-14)",
+"href": "https://www.ocasiocortez.com/about"
+},
+{
+"text": "U.S. Senator Chris Van Hollen",
+"href": "https://vanhollen.org/"
+},
+{
+"text": "U.S. Senator Chris Van Hollen",
+"href": "https://www.instagram.com/chrisrabb/p/DXSzRRGjEf9/"
+},
+{
+"text": "Volunteer",
+"href": "https://rabb-for-congress.solidarity.tech/"
+},
+{
+"text": "Working Families Party",
+"href": "https://www.instagram.com/paworkingfamilies/p/DWEshnIjpWJ/"
+},
+{
+"text": "Zephyr Teachout",
+"href": "https://ballotpedia.org/Zephyr_Teachout"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@rabbforcongress.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:staff@rabbforcongress.com"
+},
+{
+"text": "[image: Chris Rabb For Congress]",
+"href": "https://www.chrisrabb.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/chrisrabbCD03/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisrabb/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RabbForCongressPA03"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/chrisrabb"
+},
+{
+"text": "blockbuster report",
+"href": "https://docs.google.com/document/d/1QFX-pvHwl27WYH8U9Oa37ZVuqx_ENYZOiNzD3qBSG7k/edit?usp=sharing"
+},
+{
+"text": "endorsing his campaign",
+"href": "https://www.inquirer.com/politics/philadelphia/aoc-endorses-chris-rabb-congress-20260424.html"
+},
+{
+"text": "won",
+"href": "https://www.inquirer.com/politics/new-jersey/analilia-mejia-mikie-sherrill-explained-congress-20260416.html"
+}
 ]

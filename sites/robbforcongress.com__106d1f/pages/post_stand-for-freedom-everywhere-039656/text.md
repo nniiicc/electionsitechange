@@ -1,6 +1,4 @@
-Stand for Freedom Everywhere
-We Live in a Global Neighborhood
-I believe the world is more like a neighborhood than we admit.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Stand for Freedom Everywhere Mar 22 2 min read We Live in a Global Neighborhood I believe the world is more like a neighborhood than we admit.
 Different cultures.
 Different histories.
 Different ways of life.
@@ -13,8 +11,7 @@ Because being a good neighbor isn’t passive.
 Sometimes it means showing up.
 Sometimes it means speaking out.
 Sometimes it means stepping back.
-But it always means respecting one simple truth:
-No one should get to decide other people’s future.
+But it always means respecting one simple truth: No one should get to decide other people’s future.
 Right now, we are failing that test in different ways across the world.
 In Gaza, we are watching a genocide that is devastating violence against civilians.
 Entire communities destroyed.
@@ -47,11 +44,7 @@ It’s in the Constitution.
 But over time, presidents of both parties have taken more and more control.
 That’s not how a democracy is supposed to work.
 Because when one person can make those decisions, the consequences fall on everyone else.
-Here’s what needs to change:
-- We must speak clearly about human rights and oppose violence against civilians wherever it occurs
-- We must support people defending themselves while rejecting actions that harm innocent lives
-- And we must restore Congress’s authority over war and military action
-This isn’t about being perfect.
+Here’s what needs to change: We must speak clearly about human rights and oppose violence against civilians wherever it occurs We must support people defending themselves while rejecting actions that harm innocent lives And we must restore Congress’s authority over war and military action This isn’t about being perfect.
 It’s about being consistent.
 Because in a neighborhood, people notice.
 They notice who shows up.
@@ -61,4 +54,4 @@ The same is true in the world.
 If we want to stand for freedom, it has to mean something everywhere.
 Not just when it’s easy.
 Not just when it benefits us.
-Everywhere.
+Everywhere. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

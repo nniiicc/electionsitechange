@@ -1,22 +1,13 @@
-jaime's Kickoff Fundraiser 2026
-You’re invited to join us for our kickoff event as I officially begin my campaign to be elected as Downriver Michigan’s State Representative for District 27.
+0 Skip to Content About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Donate Now Open Menu Close Menu About Jaime House District 27 Priorities Endorsements Events Subscribe Volunteer Request a Yard Sign English Back Donate Now Apr 21 jaime's Kickoff Fundraiser 2026 Tuesday, April 21, 2026 7:00 PM 9:00 PM Location shared upon RSVP (map) Google Calendar ICS You’re invited to join us for our kickoff event as I officially begin my campaign to be elected as Downriver Michigan’s State Representative for District 27.
 Our seat is one of the most competitive disticts in the entire state.
 We won in 2022 and we are going to do it again.
 It would mean so much to have your support as we launch this campaign and share our vision for the future of our community.
 The event location is in Wyandotte and will be shared upon RSVP.
 If you have any questions please contact us via email at: layla@jaimechurches.com.
-To purchase a ticket in advance, please visit:
-https://secure.actblue.com/donate/churches-kickoff-2026
-I hope to see you there!
--jaime
-Elba Island Event
-We can’t wait to see you at our next event at Barry & Chad’s on Elba Island — https://secure.actblue.com/donate/elbaisland
-General Contact: info@jaimechurches.com
-Auburn Cafe Fundraiser
-Join us as we support Jaime’s campaign for State Representative!
-Auburn Cafe
-3520 W Jefferson Ave Ecorse, MI 48229
-Wyandotte Beer Co Fundraiser
-Join us for a beer as we support Jaime’s campaign for State Representative!
+To purchase a ticket in advance, please visit: https://secure.actblue.com/donate/churches-kickoff-2026 I hope to see you there! -jaime View Event → Jun 26 Elba Island Event Sunday, June 26, 2022 9:30 PM 11:30 PM Google Calendar ICS We can’t wait to see you at our next event at Barry & Chad’s on Elba Island — https://secure.actblue.com/donate/elbaisland General Contact: info@jaimechurches.com View Event → Dec 9 to Dec 10 Auburn Cafe Fundraiser Thu, Dec 9, 2021 10:00 PM Fri, Dec 10, 2021 12:00 AM Auburn Cafe (map) Google Calendar ICS Join us as we support Jaime’s campaign for State Representative!
+Auburn Cafe 3520 W Jefferson Ave Ecorse, MI 48229 Tick et L ink View Event → Oct 14 Wyandotte Beer Co Fundraiser Thursday, October 14, 2021 9:00 PM 11:00 PM Wyandotte Beer Company (map) Google Calendar ICS Join us for a beer as we support Jaime’s campaign for State Representative!
 Wyandotte Beer Co.
-3016 1st Street, Wyandotte MI 48192
+3016 1st Street, Wyandotte MI 48192 Click here to purchase your ticket online!
+View Event → About ‍ ‍ Contact ‍ ‍ Subscribe ‍ ‍ Volunteer ‍ ‍ Donate‍ ‍ Paid for by Friends of Jaime Churches | info@jaimechurches.com | PO Box 23 Grosse Ile, MI 48138 | Political donations are not tax exempt.
+Friends of Jaime Churches upholds stringent privacy standards, guaranteeing that the personal information of our users and members remains confidential and is never sold, rented out, disclosed, or exchanged with any third parties unless explicitly authorized by the user or required by law.
+Contact us at: jaime@jaimechurches.com

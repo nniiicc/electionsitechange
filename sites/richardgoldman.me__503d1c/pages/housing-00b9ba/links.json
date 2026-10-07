@@ -1,17 +1,66 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://cookieadmin.net/",
-"https://richardgoldman.me/",
-"https://richardgoldman.me/about",
-"https://richardgoldman.me/contact",
-"https://richardgoldman.me/endorsements",
-"https://richardgoldman.me/how-to-vote",
-"https://richardgoldman.me/issues",
-"https://richardgoldman.me/issues/farms-small-business",
-"https://richardgoldman.me/issues/housing",
-"https://richardgoldman.me/issues/property-taxes",
-"https://richardgoldman.me/issues/rural-healthcare",
-"https://richardgoldman.me/news",
-"https://richardgoldman.me/privacy-policy",
-"https://richardgoldman.me/volunteer"
+{
+"text": "About",
+"href": "https://richardgoldman.me/about/"
+},
+{
+"text": "Contact",
+"href": "https://richardgoldman.me/contact/"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Endorsements",
+"href": "https://richardgoldman.me/endorsements/"
+},
+{
+"text": "Family Farms & Small Business",
+"href": "https://richardgoldman.me/issues/farms-small-business/"
+},
+{
+"text": "Housing & Affordability",
+"href": "https://richardgoldman.me/issues/housing/"
+},
+{
+"text": "How to Vote",
+"href": "https://richardgoldman.me/how-to-vote/"
+},
+{
+"text": "Issues",
+"href": "https://richardgoldman.me/issues/"
+},
+{
+"text": "News",
+"href": "https://richardgoldman.me/news/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://richardgoldman.me/privacy-policy/"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://richardgoldman.me/issues/property-taxes/"
+},
+{
+"text": "Richard Goldman for Maine",
+"href": "https://richardgoldman.me/"
+},
+{
+"text": "Richard Goldman for Maine House 53",
+"href": "https://richardgoldman.me"
+},
+{
+"text": "Rural Healthcare",
+"href": "https://richardgoldman.me/issues/rural-healthcare/"
+},
+{
+"text": "Volunteer",
+"href": "https://richardgoldman.me/volunteer/"
+}
 ]

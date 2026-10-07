@@ -1,15 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com//PatricMooreForMaineSenate",
-"https://facebook.com/reel/1078251027989735",
-"https://facebook.com/reel/1394653642563491",
-"https://facebook.com/reel/994010603685254",
-"https://facebook.com/share/r/1FDTguYjsr",
-"https://instagram.com/patricmooreformaine",
-"https://patricmooreformaine.com/",
-"https://patricmooreformaine.com/about",
-"https://patricmooreformaine.com/contact",
-"https://patricmooreformaine.com/donate",
-"https://patricmooreformaine.com/issues",
-"https://patricmooreformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.patricmooreformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.patricmooreformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.patricmooreformaine.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.patricmooreformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.patricmooreformaine.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patricmooreformaine.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//PatricMooreForMaineSenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patricmooreformaine"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reel/1078251027989735"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reel/1394653642563491"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reel/994010603685254"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/r/1FDTguYjsr/"
+},
+{
+"text": "patricmooreformaine@gmail.com",
+"href": "mailto:patricmooreformaine@gmail.com"
+}
 ]

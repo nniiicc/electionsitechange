@@ -1,36 +1,8 @@
-Nancy’s Background
-Background
-Born in Dallas, Texas 1951; moved to Eugene 1973.
-Education
-Hillcrest High School, Dallas Texas
-Northwestern University, Evanston Ill.
+0 Skip to Content Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Nancy’s Background Nancy on a Girl Scout field trip, ca.
+1960’s Background Born in Dallas, Texas 1951; moved to Eugene 1973.
+Education Hillcrest High School, Dallas Texas Northwestern University, Evanston Ill.
 University of Oregon, BS with Honors in urban geography.
-Phi Beta Kappa
-Employment
-Since 2007: Oregon State Representative
-Current committees:
-- House Committee on Revenue, Chair
-- Joint Legislative Committee on Information Management and Technology, Co-Chair
-- Joint Committee on Transportation
-- Joint Committee on Ways and Means – Capital Construction Subcommittee
-- Joint Committee on Legislative Audits
-Other legislative committees prior to 2021 (partial list):
-- Joint Committee on Ways and Means, Co-Chair
-- Joint Committee on Transportation
-- Transportation and Economic Development
-- Health Care
-- Subcommittee on Public Safety
-- Subcommittee on Human Services, Co-Chair
-- Joint Committee on Court Facilities, Co-Chair
-- Joint Committee on Court Technology, Co-Chair
-- Government Efficiency Task Force, Legislative sponsor and Chair
-Prior employment
-Orbis Cascade Alliance (a consortium of 37 private and public college and university libraries in Washington and Oregon): Resource Sharing Manager, Training Coordinator
-University of Oregon Library: public and technical services
-Photoscapes: owned and operated an entrepreneurial small business that manufactured and distributed framed scenic photographs and wood frames
-Other Activities
-League of Women Voters of Lane County
-League of Oregon Cities, Legislative Committee
-Convention and Visitors Association of Lane County, Board member
-Friends of the Museum of Natural History (UO)
-Tap dance instructor, private studio and community center programs
+Phi Beta Kappa Employment Since 2007: Oregon State Representative Current committees: House Committee on Revenue, ​​Chair Joint Legislative Committee on Information Management and Technology, Co-Chair Joint Committee on Transportation Joint Committee on Ways and Means – Capital Construction Subcommittee Joint Committee on Legislative Audits Other legislative committees prior to 2021 (partial list): Joint Committee on Ways and Means, Co-Chair Joint Committee on Transportation Transportation and Economic Development Health Care Subcommittee on Public Safety Subcommittee on Human Services, Co-Chair Joint Committee on Court Facilities, Co-Chair Joint Committee on Court Technology, Co-Chair Government Efficiency Task Force, Legislative sponsor and Chair Prior employment Orbis Cascade Alliance (a consortium of 37 private and public college and university libraries in Washington and Oregon): Resource Sharing Manager, Training Coordinator University of Oregon Library : public and technical services Photoscapes : owned and operated an entrepreneurial small business that manufactured and distributed framed scenic photographs and wood frames Civic Offices, Boards and Commissions Eugene City Council , elected to three terms (1993-2004) Eugene Planning Commission , 1987-93 ​​City Committees (partial list) Parks, Recreation & Open Space, Chair Greater Downtown Visioning, Co-chair North End Downtown, Chair Parks and Open Space, Chair Intergovernmental Relations; Ferry St.
+Bridge Citizen Advisory; Telecommunications; Affordable Housing; Automation (Chair); Public Safety; West End Planning; Downtown Design Review Other Federal, State, and Regional Groups National League of Cities (NLC): Board of Directors, 2002-04 NLC Information Technology and Communication Committee, Chair NLC Municipalities in Transition panel, Chair Federal Communications Commission Local & State Government Advisory Committee Lane County Public Safety Coordinating Council Intergovernmental Human Services Committee Metropolitan Area Planning Advisory Committee League of Oregon Cities, Legislative/Resolutions Committee Lane Regional Air Pollution Authority (LRAPA), Board member Lane Council of Governments, Board member Metropolitan Policy Committee, Board member Eugene Springfield Metro Partnership; Transportation planning stakeholders group; Land Use Measures task force Civic Awards and Honors Legislative Awards and Recognition Special Services Award, Oregon State Pharmacy Association, 2024 Housing Advocate of the Year, Square One Villages, 2023 Excellence in Telecommunications Policy and Legislation, Oregon Connections Telecommunications Association, 2022 Outstanding Elected Official 2019, Lane Council of Governments Capital Caregiver award from AARP, 2017 AARP Ben Westlund "Down the Trail" Award, 2017 Oregon Primary Care Association "Health Center Hero" Award, 2015 AARP Ben Westlund "Down the Trail" Award, 2015 Community Providers Association of Oregon: Legislative Champion Award, 2014 Recognition by the Oregon Alliance of Children's Programs, 2014 Oregon Opportunity Network Housing Champion, 2014 LILAC award, Lane Independent Living Alliance, 2014 Oregon Housing Alliance recognition, 2014 Health Care Hero award from Oregon Primary Care Association, 2013 SBHC Champion award from Oregon School-Based Health Care Network, 2013 Legislative Leadership Award, from Court Appointed Special Advocates, 2012 Children’s Champion, from Oregon Alliance of Children’s Programs, 2012 Oregon Partnership to Immunize Children, 2011 Community Hero, Eugene Parks Foundation, 2008 City Council Awards and Recognition West Eugene Wetlands Award, 2005 James C.
+Richards Memorial Award, League of Oregon Cities, 2004 Outstanding Elected Official Award, Lane Council of Governments, 2001 Other Activities League of Women Voters of Lane County League of Oregon Cities, Legislative Committee Convention and Visitors Association of Lane County, Board member Friends of the Museum of Natural History (UO) Tap dance instructor, private studio and community center programs Friends of Nancy Nathanson PO Box 41895.
+Eugene, OR 97404 541-632-3417 info@nancynathanson.org Paid for by Friends of Nancy Nathanson

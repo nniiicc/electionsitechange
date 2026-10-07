@@ -1,5 +1,5 @@
-Waukesha County Sheriff Eric Severson has endorsed Jim Piwowarczyk for state Assembly, saying he believes Piwowarczyk will serve the district with “great effectiveness.”
-“I’m enthusiastic about Jim’s candidacy.
+Skip to content Skip to footer Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Donate Now!
+Home Donation Events Contacts FAQ About Us Waukesha County Sheriff Eric Severson Endorses Jim Piwowarczyk for Assembly Posted May 16, 2024 by Jim Piwowarczyk in Endorsements , News , ticker Waukesha County Sheriff Eric Severson has endorsed Jim Piwowarczyk for state Assembly , saying he believes Piwowarczyk will serve the district with “great effectiveness.” “I’m enthusiastic about Jim’s candidacy.
 He will be a strong, smart voice for public safety and has the analytical skills to serve his district with great effectiveness,” Severson said.
 Severson joins a chorus of Waukesha and Washington County leaders who have all endorsed Piwowarczyk, 53, for the 98th Assembly seat.
 The Assembly seat includes Hartford, Sussex, Merton, Richfield, the Town of Erin, Lisbon, and more.
@@ -15,7 +15,14 @@ He is running as a Republican.
 “We must turn this state around from the disastrous policies of Gov.
 Tony Evers and President Joe Biden.
 We must ensure that Republicans keep control of the Legislature.
-I am very grateful to have the endorsement of Sheriff Eric Severson, who has led the way on tough immigration enforcement and held the line on public safety in Waukesha County.”
-Piwowarczyk is a lifelong conservative and a supporter of President Donald Trump, who is running on a platform to improve the economy, improve public safety, strengthen schools, and get tough on illegal immigration.
+I am very grateful to have the endorsement of Sheriff Eric Severson, who has led the way on tough immigration enforcement and held the line on public safety in Waukesha County.” Piwowarczyk is a lifelong conservative and a supporter of President Donald Trump, who is running on a platform to improve the economy, improve public safety, strengthen schools, and get tough on illegal immigration.
 The other candidate in the race is former legislator Don Pridemore, 77.
 There is no incumbent in the race.
+Post navigation Previous post: Prev Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly May 3, 2024 Next post: Next Jim Piwowarczyk Files Signatures to Get on 98th Assembly Ballot as Momentum Grows May 24, 2024 You May Also Like Posted July 31, 2024 in News DON PRIDEMORE SHOULD RESIGN FROM HARTFORD SCHOOL BOARDS & DROP OUT OF ASSEMBLY RACE AFTER INEXCUSABLE BIDEN TITLE IX VOTE Posted April 30, 2024 in ticker , Endorsements , News Former Lt Governor Candidate Will Martin Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Interest?
+Donate?
+Help Door Knock?
+Campaign Volunteer?
+Sign Nomination Paper?
+Request a Yard Sign?
+Go Fishing W/Jim? /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ PAID FOR BY: JIM FOR WISCONSIN

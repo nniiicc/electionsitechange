@@ -1,18 +1,5 @@
-hello@dowlingforassembly.com
-(920) 268-4734
-Home
-WI Assembly District 53
-About
-Endorsements
-Proven Record
-Experience
-Contact
-Video Message
-Merch
-Events & Community Conversations
-Request A Yard Sign
-File Share
-Notifications
-Members
-Blog
-More
+top of page hello@dowlingforassembly.com (920) 268-4734‬ Home WI Assembly District 53 About Endorsements Proven Record Experience Contact Video Message Merch Events & Community Conversations Request A Yard Sign File Share Notifications Members Blog More Use tab to navigate through the menu items.
+All Posts Flock Cameras Data Centers Housing Fixed Income Data Centers Community Conversations | Why I'm Concerned About Irresponsible Data Centers If a company chooses the less expensive option because it saves money while shifting long-term costs and environmental risks onto the community, that's not innovation.
+That's cutting corners.
+Rachael Dowling Jul 22 4 min read CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

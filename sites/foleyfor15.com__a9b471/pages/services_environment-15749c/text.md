@@ -1,3 +1,5 @@
-Linda was a key supporter of the Climate Solutions Now Act, passed in 2022, which requires Maryland to reduce its greenhouse gas emissions.
+Home About Issues Get Involved Contact Menu Home About Issues Get Involved Contact Contribute Menu Home About Issues Get Involved Contact Contribute Friends of Linda Foley Linda Foley for Delegate, District 15 Home About Issues Get Involved Contact Protect Our Environment and Fight Climate Change Linda was a key supporter of the Climate Solutions Now Act, passed in 2022, which requires Maryland to reduce its greenhouse gas emissions.
 She has sponsored legislation to stop the spread of invasive plants and to limit the use of gasoline-powered leaf blowers.
 She has co-sponsored key legislation to promote environmental justice for underserved communities, and she has fought for measures to clean up and protect the Cheasapeake Bay.
+Home Overview Contribute About Biography Resources Newsletter Legislative Page Media Issues Latest News Contact Email Volunteer Facebook Twitter Home Overview Contribute Media Issues Latest News About Biography Resources Newsletter Legislative Page Contact Email Volunteer Facebook Twitter Contribute By Authority: Friends of Linda Foley, Monty N.
+Foley, Treasurer

@@ -1,2 +1,3 @@
-The last few years have shown us the gravity of the neglect our infrastructure is facing.
+Toggle navigation Home Issues Family and Faith Roads, Transportation, & Infrastructure Expanding broadband Protecting our Heritage Skilled Trades About Curt Contact Volunteer Donate Roads, Transportation, & Infrastructure The last few years have shown us the gravity of the neglect our infrastructure is facing.
 Failed dams, flooding and crumbling roads continue to plague us.The State must prioritize our spending and make sure we’re investing to improve our roads, bridges and infrastructure.
+Home Issues About Curt Contact Volunteer Donate Paid for by Committee to Elect Curt VanderWall-4906 Rasmussen Road, Ludington, MI 49431

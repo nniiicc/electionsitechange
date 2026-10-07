@@ -1,6 +1,4 @@
-Terms and Conditions — SMS Messaging Program
-Organization: Friends of Laurie Gill Mailing Address: 129 River View Dr, Pierre, SD, 57501 Contact:laurie@lauriegill24.com
-By providing your mobile phone number and opting in to receive text messages from Friends of Laurie Gill, you agree to the following terms and conditions.
+0 Skip to Content About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Open Menu Close Menu About Priorities Contact Donate Terms and Conditions — SMS Messaging Program Organization: Friends of Laurie Gill Mailing Address: 129 River View Dr, Pierre, SD, 57501 Contact: laurie@lauriegill24.com By providing your mobile phone number and opting in to receive text messages from Friends of Laurie Gill, you agree to the following terms and conditions.
 Program Description.
 Friends of Laurie Gill operates an SMS messaging program to keep supporters informed about the campaign.
 By opting in, you consent to receive recurring autodialed text messages from Friends of Laurie Gill.
@@ -26,9 +24,10 @@ Cellular, Boost, MetroPCS, Cricket, and others.
 Carriers are not liable for delayed or undelivered messages.
 Privacy.
 Your privacy is important to us.
-For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy.
+For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy .
 Changes to These Terms.
 Friends of Laurie Gill may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
 Paid for by Friends of Laurie Gill.
+Paid for by Friends of Laurie Gill Terms & Conditions Privacy Policy

@@ -1,6 +1,26 @@
 [
-"https://digiovancarlo.com/assets/calendar/early-voting-2026.ics",
-"https://digiovancarlo.com/assets/calendar/election-day-2026.ics",
-"https://digiovancarlo.com/meet",
-"https://waterburyct.org/townclerk"
+{
+"text": "Add to Calendar",
+"href": "https://digiovancarlo.com/assets/calendar/early-voting-2026.ics"
+},
+{
+"text": "Add to Calendar",
+"href": "https://digiovancarlo.com/assets/calendar/election-day-2026.ics"
+},
+{
+"text": "Read more →",
+"href": "https://digiovancarlo.com/meet#accomplishments"
+},
+{
+"text": "Read more →",
+"href": "https://digiovancarlo.com/meet#bio"
+},
+{
+"text": "Waterbury Town Clerk elections information page",
+"href": "https://www.waterburyct.org/townclerk"
+},
+{
+"text": "[no text]",
+"href": "tel:+12035746806"
+}
 ]

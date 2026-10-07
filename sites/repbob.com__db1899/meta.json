@@ -1,7 +1,9 @@
 {
  "description": "Bob Godfrey is running for re-election as State Representative in Connecticut's 110th District, Danbury. Learn about his record and find voting info.",
  "final_url": "https://repbob.com/",
- "paid_for_by": null,
+ "fingerprint": "705b37b0881da74fabf4896923709bb3ddf5b89e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bob Godfrey, State Representative, 110th, Danbury CT",
  "years_mentioned": []
 }

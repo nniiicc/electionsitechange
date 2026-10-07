@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Christmas+in+July&dates=20260724T220000Z%2F20260725T000000Z&location=102+Melinda+Drive%2C+Madison%2C+United+States",
-"http://maps.google.com/?q=102+Melinda+Drive+Madison+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/christmas-in-july?format=ical",
-"https://ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=102+melinda+drive+madison+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Christmas+in+July&dates=20260724T220000Z%2F20260725T000000Z&location=102+Melinda+Drive%2C+Madison%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/christmas-in-july?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Next Next July 31 Mahjong for the Matriarchy",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "Previous Previous July 12 Diaper Drive & Candidate Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/diaper-drive-candidate-meet-and-greet"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

@@ -1,10 +1,3 @@
-- Julie Mayfield State Senator, District 49
-- Terry Van Duyn Former State Senator, District 49
-- Eric Ager State Representative, District 114
-- Lindsey Prather State Representative, District 115
-- Al Whitesides Buncombe County Commissioner, District 1
-- Amanda Edwards Buncombe County Commissioner, District 3
-- Drew Reisinger Buncombe County Register of Deeds
-- Parker Sloan Buncombe County Commissioner, District 3
-- Quentin Miller Buncombe County Sheriff
-- Terri Wells Buncombe County Commissioner, District 1
+Skip to content No results Home About Endorsements News Donate Search Home About Endorsements News DONATE Menu Endorsements Julie Mayfield State Senator, District 49 Terry Van Duyn Former State Senator, District 49 Eric Ager State Representative, District 114 Lindsey Prather State Representative, District 115 Al Whitesides Buncombe County Commissioner, District 1 Amanda Edwards Buncombe County Commissioner, District 3 Drew Reisinger Buncombe County Register of Deeds Parker Sloan Buncombe County Commissioner, District 3 Quentin Miller Buncombe County Sheriff Terri Wells Buncombe County Commissioner, District 1 Home About Endorsements News Donate Donate by Mail Turner for NC PO Box 5533 Asheville, NC 28813 Follow Brian Paid For by Turner for NC .
+Website design by Express Lane Strategies .
+Privacy Policy .

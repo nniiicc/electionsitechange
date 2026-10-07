@@ -1,97 +1,410 @@
 [
-"https://acrobat.adobe.com/id/urn:aaid:sc:us:05b006ad-c580-4934-a3cf-c9daffc9c18a",
-"https://blakemanfornewyork.com/",
-"https://blakemanfornewyork.com/coalitions",
-"https://blakemanfornewyork.com/volunteer",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6949a86b51d020a349cc0e7c_Blakeman%20Press%20Release_%20Subway%20Knife%20Attacks.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6949abaf4e943b3144c7d4a6_Blakeman%20Press%20Release_%20Holiday%20(1).pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/694eb598e881ad740ac718da_Blakeman%20Press%20Release_%20Convicted%20Criminals.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6952904639b25018a0b41309_Blakeman%20Press%20Release_%20Fire%20Radical%20Anti-Police%20Activist%20.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6957c8035c7885dce96a4f3c_Blakeman%20Press%20Release_%20Hochul%20Tax%20Flip%20Flop.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695bbc3dd924a5a961e675e9_Blakeman%20Press%20Release_%20Hochul%20Defends%20Narco%20Regime.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695bbc6566b4b0b009adf6c7_Blakeman%20Press%20Release_%20MTA%20Fare%20Hike.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695c04975e0220804d7375af_Blakeman%20Press%20Release_%20Jerry%20Kassar%20Endorsement.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695d4fef7887af04c22c682d_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Sky-High%20Electric%20Bill.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695ebb5ad91a844ce8255be2_Blakeman%20Press%20Release_%20Hochul%20Administration%E2%80%99s%20Ties%20to%20Chinese%20Communist%20Party.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6960142833ff22c3b7a5ce03_Blakeman%20Press%20Release_%20Hochul%20Targets%20ICE.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69601436c3092fb958be3e7c_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20NYC-Only%20Child%20Care%20Plan.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69615d34548111a97c16978c_Blakeman%20Press%20Release_%20Hochul%20Brags%20About%20Taxing%20the%20Rich.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6964ff27da485c42068c1be2_Blakeman%20Press%20Release_%20Investigation%20Into%20Hochul%E2%80%99s%20Corrupt%20Medicaid%20Program.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6966bf70fecbbfa691312348_Hochul%E2%80%99s%20State%20of%20the%20State.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6968fffc45fee4f735903fe2_Blakeman%20Press%20Release_%20New%20Federal%20Milk%20Rules.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696a4fe9152c0180f4f90452_Blakeman%20Press%20Release_%20Attack%20on%20Asian%20American%20Values.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696f7fa4c2e1fc8e7dce717c_Blakeman%20Press%20Release_%20Hochul%27s%20Trains%20and%20Airports%20Into%20Homeless%20Camps.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696fe91f4c91f41845566dbf_Blakeman%20Press%20Release_%20Hochul%27s%20More%20Migrant%20Spending.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6972267f97401e17e762d5f6_Blakeman%20Press%20Release_%20Hochul%20Is%20Blocking%20Millions%20in%20Education%20Scholarships.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/697226a8f7f2ae89aced7abc_Blakeman%20Press%20Release_%20Restore%20Local%20Control.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69776a6c9575d3625d1b12c5_Blakeman%20Press%20Release_%20Blakeman%20Slams%20Hochul%20for%20Rejecting%20Federal%20Storm%20Assistance.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6977dde4c237bc7ea75ed317_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Energy%20Policies.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/697bc6ef208f65a451057214_Blakeman%20Press%20Release_%20Hochul%20Turned%20Her%20Back%20on%20Nurses.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6980a73b9ecaca42638d3d7e_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Intent%20to%20Ban%20Local%20Cooperation%20with%20Federal%20Law%20Enforcement.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6980aec955c4128ec1e0971f_Blakeman%20Press%20Release_%20Hochul%20Made%20New%20York%20One%20of%20the%20Worst%20States.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994944f85913fe5ca694e55_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Energy%202%3A2%20Mandates.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994949fa7d618bb71a28875_Blakeman%20Press%20Release_%20Kathy%20Hochul%E2%80%99s%20Running%20Mate%202%3A4.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699494e85f79f4bd862c6df5_Blakeman%20Press%20Release_%20Mamdani%E2%80%99s%20Endorsement%20of%20Hochul%202%3A5.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994955a178b15c6571b717b_Blakeman%20Press%20Release%20Kathy%20Hochul%E2%80%99s%20Nomination%202%3A6.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699495a4178b15c6571b82b7_Blakeman%20Press%20Release_%20Blakeman%20Selects%20Todd%20Hood%20as%20Lieutenant%20Governor%202_9.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699495e2834b8346552676b3_Blakeman%20Press%20Release_%20HOCHUL%E2%80%99S%20%241.5%20BILLION%20GOTHAM%20BAILOUT.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6995d9981d7eb111242d4e6c_Blakeman%20Press%20Release_%20Mamdani%E2%80%99s%20Plan%20to%20Raid%20Retiree%20Funds.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6998be5b5814f9a9d8de745f_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Offshore%20Wind%20Plan.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699c4f54af1c0207655264c7_Blakeman%20Press%20Release_%20Crumbling%20Infrastructure%20After%20Dangerous%20Damage%20Found%20on%20State%20Bridge.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69aebd79913bee88d25f4ff5_Blakeman%20Press%20Release_%20Mamdani%20Family%E2%80%99s%20Antisemitic%20Words.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69bc0c7674f75f48218e9721_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Homeless%20Spending%20Scandal.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69bc0d1155c3b39770d362cc_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Unaffordable%20New%20York.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569733f2df1f343b123a40_01_Kathy_Hochul_Wants_You_To_Sweat_in_the_Dark.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56978e7c5d6e2899e02229_02_Blakeman_Slams_Mamdani_s_4th_of_July_Address__Dangerous_Subversive_Who_Must_Be_Stopped_.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569809c1025bc02a586059_03_BLAKEMAN_TO_HOCHUL_You_Free_the_Predators_and_Cut_the_Lifeline_for_Victims.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56986167eb877eeb2658bf_04_Robot_Regents_Hochul_Outsourced_Our_Kids__Education_to_an_AI.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a5698dcd522db994493b074_05_Blakeman_Pledges_to_Block_New_16_75__Tax_at_Ulster_County_Rally__Dead_on_Arriv_.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a5698fa0e4f86d7e1f10dda_06_Transit_Union_Leader_Sounds_the_Alarm_on_NYC_Primary_Results.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56994a25fdb3694cbe5d9d_07_Hochul_s_State-Run_Shelter_System_Turns_Deadly__Blakeman_Calls_for_Immediate_Investigation.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569a85c4e7674b417c75c8_08_Kathy_Hochul_Is_Stealing_from_New_York_s_Most_Vulnerable.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569e4757d76e1799e6f44f_09_First_It_Was_Now_Critical_Infrastructure_Jobs_Are_Fleeing__Too.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a027772f4ed65525fc22_10_VIDEO_FOOTAGE_Blakeman_Reveals_Plan_for_One_of_New_York_s_Largest_Untapped_Economic_Assets.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0411e0e89466736f910_11_Blakeman_Launches_Digital_Ad_Campaign_to_Stop_Hochul_s__Solar_Scam____Save_New_York_Farmland.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a06837de1eb897349ff7_12_Dis-Gracie_Mansion_After_Mamdas_Doors_onDay_Bash__Blakeman_Launches_Emergency_Rescue_Party.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a07a23eb59f03b1fccd6_13_The_Inmates_Are_Running_the_Asylum_in_Kathy_Hochul_s_New_York.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a08e8a45711d2029e1f6_14_Transit_Workers_Endorse__Friend_of_Blue_Collar_Men_and_Women__Bruce_Blakeman_for_Governor.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a09f77689069aaef30b8_15_Kathy_Hochul_Has_Blood_On_Her_Hands.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0b4c025dac55dd123af_16_Blakeman_Declares_Utility_Bill_State_of_Emergency_as_Hochul_Approves_48th_Rate_Hike.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0c88d3e6c5adfd52f37_17_ZOHRAN_MAMDANI_JUST_SHOWED_HIS_TRUE_COLORS_OF_ANTISEMITISM.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0da4431fcb237901b2f_18_Hochul_s_Incompetence_Puts_the_Safety_of_New_Yorkers_in_Jeopardy.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0f87aff1517860e31cf_19_Long_Islanders_Woke_Up_To_Chaos_Because_Kathy_Hochul_Failed.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a117ce2c042bd7fc1c94_20_KATHY_HOCHUL_S_BUDGET_IS_A_TRIPLE_THREAT.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a132eb0f059c1a9cd4c6_21_Blakeman_Blastske_Looms__Calls_for_Immediate_Settlement_to_Avert_Economic_Crisis.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a14b9bf63b8b4284e503_22_The_World_s_Worst_Real_Estate_Agents_Hochul_and_Mamdani_s_Gift_to_Your_Neighborhood.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a183eb0f059c1a9cfa81_23_BLAKIES_TO_BRACE_FOR_HIGHER_PRICES_AS_HOCHUL_TARGETS_JOB_CREATORS.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a190817e2c9055308c3a_24_THE__2_BILLION_BLACKOUT_BLAKEMAN__SLATER_EXPOSE_HOCHUL_S_HIDDEN_ENERGY_TAX_SLUSH_FUND.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a58d4c1b8bde408ae4d556c_BLAKEMAN_%20Driving%20up%20Rent.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a0cae4cbeb24ecd33d73d_blakeman_pfas_release.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a0ee83b1d8b9b5889c484_blakeman_bronx_shooting_release.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a1042ce07f32a155f5466_blakeman_utility_lawsuit_release.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a112ad80b96bf3a1c636d_blakeman_poll_release.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a70b0fb6c373efd322135ea_Hochul_Education_Press_Release_Metadata_Updated.pdf",
-"https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a7caa3fe845ffc70a82e106_Blakeman_Siena_Poll_Press_Release.pdf",
-"https://docs.google.com/document/d/e/2PACX-1vQVfJM_eOqnUWg17AQHd19D8cPyaJOtKQXeaS4ZI8oievNOofJkM9T-_I4CjCJgLiCkMa3XJ9_PhxI8/pub",
-"https://docs.google.com/document/d/e/2PACX-1vSugmL-F6NwE04dTYFltWDDAMxPFs_iWbyZWfSr5LCrE9nV0xNKFEvbemVe-WxGDMGiUP2b8KoPk53j/pub",
-"https://facebook.com/BruceBlakemanNewYorkFirst",
-"https://instagram.com/bruceblakemanforgovernor",
-"https://liherald.com/valleystream/stories/county-executive-blakeman-announces-run-for-governor,219167",
-"https://nypost.com/2025/11/17/us-news/nassau-county-executive-bruce-blakeman-challenges-hochul-to-draw-line-as-dsa-pressures-her-to-back-zohran-mamdani-tax-hike",
-"https://nypost.com/2025/12/08/us-news/bruce-blakeman-will-officially-announce-ny-governor-campaign-tuesday-challenging-rep-elise-stefanik-for-gop-nom-sources",
-"https://nypost.com/2026/04/22/us-news/gop-gubernatorial-bruce-blakeman-promises-tax-relief-for-restaurants-small-businesses-as-he-blasts-hochul-special-tax-crisis",
-"https://nypost.com/2026/05/09/us-news/blakeman-ill-dip-into-3-8-m-hochul-slush-fund-to-lower-ny-taxes",
-"https://nypost.com/2026/05/25/us-news/puerto-rico-governor-endorses-bruce-blakeman-over-kathy-hochul-in-ny-election-race",
-"https://nypost.com/2026/05/29/us-news/2-transport-union-chapters-endorse-gops-bruce-blakeman-for-governor-in-snub-to-hochul",
-"https://nypost.com/2026/06/01/us-news/adams-gives-ny-gop-gov-hopeful-blakeman-tips-on-nyc-campaigning-doesnt-rule-out-endorsement",
-"https://nypost.com/2026/06/28/us-news/gops-bruce-blakeman-blasts-dangerous-mamdani-hochul-in-pitch-to-moderates",
-"https://nypost.com/2026/07/08/us-news/bruce-blakeman-ad-features-ai-generated-truthful-look-at-hochuls-new-york-want-some-crack",
-"https://secure.winred.com/blakeman-for-new-york/donate-now",
-"https://secure.winred.com/blakeman-for-new-york/stopkathyhochul",
-"https://secure.winred.com/blakeman-for-new-york/storefront",
-"https://spectrumlocalnews.com/nys/central-ny/politics/2025/11/13/bruce-blakeman-weighs-joining-race-for-new-york-governor",
-"https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/11/bruce-blakeman-touts-executive-experience-in-race-for-governor",
-"https://sun-sentinel.com/2025/12/15/bruce-blakeman-jewish-long-island-politician-launches-run-for-ny-governor",
-"https://trib.al/iYJYJ2l",
-"https://x.com/NassauExec"
+{
+"text": "April 19, 2026Blakeman exposes Hochul's \"secret business tax\"; warns families to brace for higher prices as Hochul targets job creatorsNassau County Executive and Republican gubernatorial candidate Bruce Blakeman today blasted Kathy Hochul for proposing what he called a \"secret business tax\" in her FY 2027 budget—warning it will squeeze local employers and drive up prices for everyday New Yorkers.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a183eb0f059c1a9cfa81_23_BLAKIES_TO_BRACE_FOR_HIGHER_PRICES_AS_HOCHUL_TARGETS_JOB_CREATORS.pdf"
+},
+{
+"text": "April 19, 2026Bruce Blakeman’s 100-day plan to ‘fix’ New York if elected governor: Lower taxes and a return to law and orderRepublican gubernatorial candidate Bruce Blakeman says he has a plan to make New York safer and more affordable. READ MORE",
+"href": "https://trib.al/iYJYJ2l"
+},
+{
+"text": "April 21, 2026Blakeman Blasts Hochul Inaction as LIRR Strike Looms, Calls for Immediate Settlement to Avert Economic CrisisNassau County Executive Bruce Blakeman today slammed Governor Kathy Hochul for her failure to advance a federal framework to resolve the Long Island Rail Road (LIRR) labor dispute, warning that an impending strike could cripple the regional economy if immediate action is not taken.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a132eb0f059c1a9cd4c6_21_Blakeman_Blastske_Looms__Calls_for_Immediate_Settlement_to_Avert_Economic_Crisis.pdf"
+},
+{
+"text": "April 22, 2026GOP gubernatorial Bruce Blakeman promises tax relief for restaurants, small businesses as he blasts ‘Hochul Special’ tax crisisRepublican gubernatorial candidate Bruce Blakeman on Wednesday outlined a plan to offer tax relief to restaurants and other small businesses during an appearance at a Gramercy Park eatery.READ MORE",
+"href": "https://nypost.com/2026/04/22/us-news/gop-gubernatorial-bruce-blakeman-promises-tax-relief-for-restaurants-small-businesses-as-he-blasts-hochul-special-tax-crisis/"
+},
+{
+"text": "April 27, 2026The World's Worst Real Estate Agents: Hochul and Mamdani's \"Gift\" to Your Neighborhood If you live in Morris Park or Bensonhurst, Governor Kathy Hochul and Mayor Zohran Mamdani have a \"welcome home\" gift for you—though you might want to double-lock your doors before opening itREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a14b9bf63b8b4284e503_22_The_World_s_Worst_Real_Estate_Agents_Hochul_and_Mamdani_s_Gift_to_Your_Neighborhood.pdf"
+},
+{
+"text": "April 9, 2026The $2 billion blackout: Blakeman, slater expose Hochul's hidden energy tax slush fundNassau County Executive and Republican candidate for Governor of New York Bruce Blakeman today joined Assemblyman Matt Slater to expose a multibillion-dollar secret in Albany: while Kathy Hochul's energy policies drive utility bills to record highs, the state is sitting on a massive $2.4 billion \"Energy Tax\" surplus.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a190817e2c9055308c3a_24_THE__2_BILLION_BLACKOUT_BLAKEMAN__SLATER_EXPOSE_HOCHUL_S_HIDDEN_ENERGY_TAX_SLUSH_FUND.pdf"
+},
+{
+"text": "August 12, 2026Blakeman on Siena Poll: This Race is Neck & Neck All of the polls we have seen in the last two months have us virtually tied with Kathy Hochul. This poll is always off and continues to be off. We know and she knows this race is neck and neck.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a7caa3fe845ffc70a82e106_Blakeman_Siena_Poll_Press_Release.pdf"
+},
+{
+"text": "Blakeman’s Record",
+"href": "https://www.blakemanfornewyork.com/#Success"
+},
+{
+"text": "Coalitions",
+"href": "https://www.blakemanfornewyork.com/coalitions"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/blakeman-for-new-york/donate-now"
+},
+{
+"text": "December 11, 2025Bruce Blakeman touts executive experience against Stefanik in race for N.Y. governorIt looks like New York could have a Republican primary to match the Democratic primary between Gov. Kathy Hochul and Lt. Gov. Antonio Delgado in 2026. Nassau County Executive Bruce Blakeman announced his candidacy for governor on Tuesday, a little over a month after U.S. Rep. Elise Stefanik threw her hat into the ring.READ MORE",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/12/11/bruce-blakeman-touts-executive-experience-in-race-for-governor"
+},
+{
+"text": "December 12, 2025 Nassau County Executive Bruce Blakeman announces run for New York governorIn a video ad unveiled on his campaign website, Nassau County Executive Bruce Blakeman officially announced his intention to run for governor of New York on Dec. 9. Blakeman, 70, who was toying with the idea of a gubernatorial run since last year, solidified his ambition for the state's top elected spot with a 12-point victory over County Legislator Seth Koslow last month.READ MORE",
+"href": "https://www.liherald.com/valleystream/stories/county-executive-blakeman-announces-run-for-governor,219167"
+},
+{
+"text": "December 15, 2025Bruce Blakeman, Jewish Long Island politician, launches run for NY governorJewish Republican Bruce Blakeman, the chief executive of Long Island's Nassau County, announced on Dec. 9 that he will run for governor of New York.READ MORE",
+"href": "https://www.sun-sentinel.com/2025/12/15/bruce-blakeman-jewish-long-island-politician-launches-run-for-ny-governor/"
+},
+{
+"text": "December 19, 2025Sole Jewish Gubernatorial Candidate Calls Out Mamdani's Blatant AntisemitismRising Hate Crimes & Antisemitic Social Media Posts from Mamdani Team Demand Urgent ActionREAD MORE",
+"href": "https://acrobat.adobe.com/id/urn:aaid:sc:us:05b006ad-c580-4934-a3cf-c9daffc9c18a"
+},
+{
+"text": "December 21, 2025Blakeman Calls Out Hochul's Subway Safety Failure After Second Stabbing This MonthSays Hochul's Soft-on-Crime Policies Embolden CriminalsREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6949a86b51d020a349cc0e7c_Blakeman%20Press%20Release_%20Subway%20Knife%20Attacks.pdf"
+},
+{
+"text": "December 22, 2025 Blakeman: Hochul's Cashless Bail Law Fuels Holiday Crime and Hurts Local BusinessesCareer Criminals with Dozens of Prior Arrests Targeting Tourists & ShoppersREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6949abaf4e943b3144c7d4a6_Blakeman%20Press%20Release_%20Holiday%20(1).pdf"
+},
+{
+"text": "December 26, 2025Blakeman Blasts Hochul Move to Put Convicted Criminals on State CommissionNassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today slammed Governor Kathy Hochul for “putting criminals first” as she expands the State Commission of Corrections to include at least one convicted criminal.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/694eb598e881ad740ac718da_Blakeman%20Press%20Release_%20Convicted%20Criminals.pdf"
+},
+{
+"text": "December 29, 2025Blakeman to Mamdani: Fire Radical Anti-Police Activist from Your Transition TeamNassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today called on Mayor-elect Zohran Mamdani to immediately fire Kazi Fouzia from his transition team after a video surfaced in which she referred to the brave men and women of the New York City Police Department as “killers.”READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6952904639b25018a0b41309_Blakeman%20Press%20Release_%20Fire%20Radical%20Anti-Police%20Activist%20.pdf"
+},
+{
+"text": "December 8, 2025Trump ally to announce run for NY gov Tuesday, setting up clash with GOP frontrunner Elise StefanikNassau County Executive Bruce Blakeman is set to announce his bid for New York governor on Tuesday facing off against Rep. Elise Stefanik for the GOP nomination, The Post has learned.READ MORE",
+"href": "https://nypost.com/2025/12/08/us-news/bruce-blakeman-will-officially-announce-ny-governor-campaign-tuesday-challenging-rep-elise-stefanik-for-gop-nom-sources/"
+},
+{
+"text": "February 17, 2026Hochul's $1.5 billion Gotham bailout should go to tax relief insteadBlakeman calls out Hochul's $1.5 billion NYC bailout, arguing surplus funds should deliver school tax relief instead of rewarding fiscal mismanagement.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699495e2834b8346552676b3_Blakeman%20Press%20Release_%20HOCHUL%E2%80%99S%20%241.5%20BILLION%20GOTHAM%20BAILOUT.pdf"
+},
+{
+"text": "February 18, 2026Blakeman: Mamdani's Plan to Raid Retiree Funds Is Stealing from Seniors to Cover Reckless SpendingBlakeman blasts Mamdani's proposal to tap retiree funds and raise property taxes, warning it would punish seniors and homeowners to cover reckless city spending.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6995d9981d7eb111242d4e6c_Blakeman%20Press%20Release_%20Mamdani%E2%80%99s%20Plan%20to%20Raid%20Retiree%20Funds.pdf"
+},
+{
+"text": "February 2, 2026Hochul's Energy Mandates Are Driving Electric Bills to Record HighsHochul's Energy Mandates Are Driving Electric Bills to Record HighsREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994944f85913fe5ca694e55_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Energy%202%3A2%20Mandates.pdf"
+},
+{
+"text": "February 20, 2026New State Data: Hochul's Offshore Wind Plan Now Costs 5 Times More — And You're Paying for It on Your Electric BillBlakeman Pledges to Cut Electricity Bills in Half as GovernorREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6998be5b5814f9a9d8de745f_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Offshore%20Wind%20Plan.pdf"
+},
+{
+"text": "February 22, 2026 Blakeman Slams Hochul Over Crumbling Infrastructure After Dangerous Damage Found on State BridgeBlakeman calls out Hochul after dangerous damage was found on a state bridge, demanding immediate action and restored infrastructure funding.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699c4f54af1c0207655264c7_Blakeman%20Press%20Release_%20Crumbling%20Infrastructure%20After%20Dangerous%20Damage%20Found%20on%20State%20Bridge.pdf"
+},
+{
+"text": "February 4, 2026Statement from Bruce Blakeman on Kathy Hochul's Running Mate AnnouncementBlakeman slams Hochul's choice of a radical running mate tied to defunding police, welcoming the migrant crisis, and driving jobs out of New York.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994949fa7d618bb71a28875_Blakeman%20Press%20Release_%20Kathy%20Hochul%E2%80%99s%20Running%20Mate%202%3A4.pdf"
+},
+{
+"text": "February 5, 2026Statement from Bruce Blakeman on Mayor Zohran Mamdani's Endorsement of Kathy HochulBlakeman questions what Hochul promised Zohran Mamdani in exchange for his endorsement and warns taxpayers will pay the price.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699494e85f79f4bd862c6df5_Blakeman%20Press%20Release_%20Mamdani%E2%80%99s%20Endorsement%20of%20Hochul%202%3A5.pdf"
+},
+{
+"text": "February 6, 2026Statement from Bruce Blakeman on Kathy Hochul's Nomination as Democrat Candidate for GovernorBlakeman says Hochul's nomination signals four more years of high taxes, soaring energy costs, and weakened public safety if voters do not change course.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6994955a178b15c6571b717b_Blakeman%20Press%20Release%20Kathy%20Hochul%E2%80%99s%20Nomination%202%3A6.pdf"
+},
+{
+"text": "February 9, 2026Blakeman Selects Madison County Sheriff Todd Hood as Lieutenant Governor Candidate & Partner to Make New York Safe & Affordable Blakeman names Sheriff Todd Hood as his running mate, forming a law-and-order ticket focused on public safety, tax relief, and affordability statewide.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/699495a4178b15c6571b82b7_Blakeman%20Press%20Release_%20Blakeman%20Selects%20Todd%20Hood%20as%20Lieutenant%20Governor%202_9.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://www.blakemanfornewyork.com/#GetInvolved"
+},
+{
+"text": "January 1, 2026Blakeman: Hochul Flip-Flops on Taxing Tips While Workers Pay the PriceNassau County Executive and Republican candidate for Governor Bruce Blakeman today blasted Governor Kathy Hochul for playing political games with New Yorkers’ paychecks — flip-flopping on taxing tips and congestion pricing when it suits her politically, while workers and commuters are left paying the price.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6957c8035c7885dce96a4f3c_Blakeman%20Press%20Release_%20Hochul%20Tax%20Flip%20Flop.pdf"
+},
+{
+"text": "January 1, 2026Blakeman: Mamdani's First Move as Mayor Is a Direct Attack on Jewish New Yorkers Mayor Repeals Executive Order Recognizing IHRA Definition, Gutting Citywide Protections Against AntisemitismREAD MORE",
+"href": "https://docs.google.com/document/d/e/2PACX-1vQVfJM_eOqnUWg17AQHd19D8cPyaJOtKQXeaS4ZI8oievNOofJkM9T-_I4CjCJgLiCkMa3XJ9_PhxI8/pub"
+},
+{
+"text": "January 10, 2026Blakeman Calls for Investigation Into Hochul's Corrupt Medicaid Program as CDPAP Fraud and Waste ExplodeExperts warn scandal is \"Minnesota multiplied by 10\" as taxpayers are on the hook for $12 billionREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6964ff27da485c42068c1be2_Blakeman%20Press%20Release_%20Investigation%20Into%20Hochul%E2%80%99s%20Corrupt%20Medicaid%20Program.pdf"
+},
+{
+"text": "January 13, 2026Blakeman: Hochul's State of the State Still Ignores New York's Affordability and Crime Crises \"Last year, the Governor made affordability the centerpiece of her State of the State,\" Blakeman said.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6966bf70fecbbfa691312348_Hochul%E2%80%99s%20State%20of%20the%20State.pdf"
+},
+{
+"text": "January 14, 2026Blakeman: New Federal Milk Rules Must Benefit New York FarmersCalls for \"Buy New York Dairy\" policy to keep school milk dollars in-stateREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6968fffc45fee4f735903fe2_Blakeman%20Press%20Release_%20New%20Federal%20Milk%20Rules.pdf"
+},
+{
+"text": "January 15, 2026Blakeman: Hochul-Mamdani Agenda Is a Direct Attack on Asian American ValuesBlakeman Warns Hochul-Mamdani Agenda Undermines Merit-Based Education, Opportunity, and Homeownership for Asian American FamiliesREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696a4fe9152c0180f4f90452_Blakeman%20Press%20Release_%20Attack%20on%20Asian%20American%20Values.pdf"
+},
+{
+"text": "January 19, 2026 Blakeman: Hochul Let Our Trains and Airports Turn Into Homeless Camps — I'll Clean Them UpHochul's soft-on-crime agenda has allowed disorder to take over transit hubs, while Blakeman pledges enforcement and safe, functional facilities for travelers.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696f7fa4c2e1fc8e7dce717c_Blakeman%20Press%20Release_%20Hochul%27s%20Trains%20and%20Airports%20Into%20Homeless%20Camps.pdf"
+},
+{
+"text": "January 2, 2026Blakeman: Mamdani Repeal Empowers MS-13 and Tren de AraguaSays Hochul's Inaction Threatens Public SafetyREAD MORE",
+"href": "https://docs.google.com/document/d/e/2PACX-1vSugmL-F6NwE04dTYFltWDDAMxPFs_iWbyZWfSr5LCrE9nV0xNKFEvbemVe-WxGDMGiUP2b8KoPk53j/pub"
+},
+{
+"text": "January 20, 2026Blakeman Slams Hochul's Budget: \"More Migrant Spending, More Giveaways, New York Gets More Unaffordable\"Hochul's budget prioritizes billions in migrant spending while families and seniors face higher costs with no relief in sight.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/696fe91f4c91f41845566dbf_Blakeman%20Press%20Release_%20Hochul%27s%20More%20Migrant%20Spending.pdf"
+},
+{
+"text": "January 21, 2026 Blakeman: Restore Local Control—Albany Should Not Bulldoze Rural Communities for Industrial SolarNassau County Executive and Presumptive Republican Nominee for Governor Bruce Blakeman Stands with Copake Residents Opposing Shepherd's RunREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/697226a8f7f2ae89aced7abc_Blakeman%20Press%20Release_%20Restore%20Local%20Control.pdf"
+},
+{
+"text": "January 21, 2026Blakeman: Hochul Is Blocking Hundreds of Millions in Education Scholarships for New York KidsHochul Blocking Program That Would Send Tutoring and Tuition Aid to New York ChildrenREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6972267f97401e17e762d5f6_Blakeman%20Press%20Release_%20Hochul%20Is%20Blocking%20Millions%20in%20Education%20Scholarships.pdf"
+},
+{
+"text": "January 24, 2026Blakeman Slams Hochul for Rejecting Federal Storm Assistance as New Yorkers Brace for Major Winter EmergencyAs New Yorkers prepare for a major winter emergency, Hochul rejects federal help and puts politics over public safety.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69776a6c9575d3625d1b12c5_Blakeman%20Press%20Release_%20Blakeman%20Slams%20Hochul%20for%20Rejecting%20Federal%20Storm%20Assistance.pdf"
+},
+{
+"text": "January 26, 2026 Hochul's Energy Policies Leave New Yorkers at Risk During Historic SnowstormThousands of New Yorkers Without Power as Hochul Decisions Fuel Sky-High Electric Bills and Fragile GridREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6977dde4c237bc7ea75ed317_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Energy%20Policies.pdf"
+},
+{
+"text": "January 27, 2026Hochul Made New York One of the Worst States in America to RetireCareScout Report Ranks New York #49, Based on Affordability & Quality of LifeREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6980aec955c4128ec1e0971f_Blakeman%20Press%20Release_%20Hochul%20Made%20New%20York%20One%20of%20the%20Worst%20States.pdf"
+},
+{
+"text": "January 28, 2026Hochul Turned Her Back on NursesAfter Taking Hundreds of Thousands in Campaign Donations from Hospital CEOs and PACs, Hochul Sided with Executives Over Frontline NursesREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/697bc6ef208f65a451057214_Blakeman%20Press%20Release_%20Hochul%20Turned%20Her%20Back%20on%20Nurses.pdf"
+},
+{
+"text": "January 3, 2026 Blakeman: Hochul Defends a Narco-Regime While Its Criminal Networks Flood New York With Deadly DrugsNassau County Executive Bruce Blakeman, Republican candidate for Governor of New York, today sharply criticized Governor Kathy Hochul for denouncing today’s mission as a “flagrant abuse of power,” calling her remarks “a stunning defense of a narco-regime whose criminal enterprise has devastated New York families.”READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695bbc3dd924a5a961e675e9_Blakeman%20Press%20Release_%20Hochul%20Defends%20Narco%20Regime.pdf"
+},
+{
+"text": "January 30, 2026Statement from Nassau County Executive Bruce Blakeman on Governor Hochul's Intent to Ban Local Cooperation with Federal Law EnforcementNassau County Executive and Republican candidate for Governor Bruce Blakeman today slammed Governor Kathy Hochul’s proposal to ban local law enforcement partnerships with U.S. Immigration and Customs Enforcement (ICE), warning it will tie the hands of police and endanger communities across New York.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6980a73b9ecaca42638d3d7e_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Intent%20to%20Ban%20Local%20Cooperation%20with%20Federal%20Law%20Enforcement.pdf"
+},
+{
+"text": "January 4, 2026Blakeman: MTA Fare Hikes Prove Hochul's \"Affordability\" Talk is All Smoke and MirrorsCommuters Face Up to 4.5% Fare Hikes as Fare Evasion Bleeds MTA of MillionsREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695bbc6566b4b0b009adf6c7_Blakeman%20Press%20Release_%20MTA%20Fare%20Hike.pdf"
+},
+{
+"text": "January 5, 2026New York State Conservative Party Chairman Jerry Kassar Endorses Blakeman for GovernorBlakeman Will Fix Hochul's Broken Policies That Drove Up Taxes & CrimeREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695c04975e0220804d7375af_Blakeman%20Press%20Release_%20Jerry%20Kassar%20Endorsement.pdf"
+},
+{
+"text": "January 6, 2026Blakeman: You Can Thank Kathy Hochul's Backroom Deal for Your Sky-High Electric Bill $493 Million PSEG Contract Under Investigation for Rewarding Hochul's Political Allies, Punishing RatepayersREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695d4fef7887af04c22c682d_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Sky-High%20Electric%20Bill.pdf"
+},
+{
+"text": "January 7, 2026Blakeman: Investigation Needed Into Hochul Administration's Ties to Chinese Communist PartyWarns Pattern of Engagement Raises Serious National Security ConcernsREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/695ebb5ad91a844ce8255be2_Blakeman%20Press%20Release_%20Hochul%20Administration%E2%80%99s%20Ties%20to%20Chinese%20Communist%20Party.pdf"
+},
+{
+"text": "January 8, 2026 Blakeman: Hochul's NYC-Only Child Care Plan Is a Slap in the Face to Upstate and Long Island FamiliesHochul's Plan Forces Suburbs & Upstate to Pay for NYC Kids at Their ExpenseREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69601436c3092fb958be3e7c_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20NYC-Only%20Child%20Care%20Plan.pdf"
+},
+{
+"text": "January 8, 2026Blakeman Slams Hochul for Targeting Law Enforcement and Putting Officers in Harm's WayHochul's plan to retaliate against ICE agents endangers officersREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6960142833ff22c3b7a5ce03_Blakeman%20Press%20Release_%20Hochul%20Targets%20ICE.pdf"
+},
+{
+"text": "January 9, 2026Hochul Brags About Taxing the Rich While Blue-Collar Families Pay the PriceBruce Blakeman today slammed Governor Kathy Hochul for boasting that on her watch, \"the wealthy are paying higher taxes in New York now,\"READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69615d34548111a97c16978c_Blakeman%20Press%20Release_%20Hochul%20Brags%20About%20Taxing%20the%20Rich.pdf"
+},
+{
+"text": "July 15, 2026Blakeman, NYC Builders Expose Gas Ban for Stalling Housing Construction and Driving Up RentBrooklyn, New York - Nassau County Executive and candidate for Governor of New York Bruce Blakeman joined Senator Steve Chan, Assemblyman Lester Chang, Assemblyman Michael Novakhov, and Humberto “HL” Lopes, CEO of HL Dynasty and Gotham Housing Alliance, for a press conference to sound the alarm as “All-Electric Building” mandates drive up the cost of rent and utilities while stalling housing construction. READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a58d4c1b8bde408ae4d556c_BLAKEMAN_%20Driving%20up%20Rent.pdf"
+},
+{
+"text": "July 2, 2026BLAKEMAN TO HOCHUL: You Free the Predators and Cut the Lifeline for VictimsNassau County Executive and candidate for Governor Bruce Blakeman today slammed Kathy Hochul as a newly released State Comptroller audit found that the state's Domestic Violence Hotline is plagued by dropped calls, unanswered emergency texts, and severe foreign-language translation failures.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569809c1025bc02a586059_03_BLAKEMAN_TO_HOCHUL_You_Free_the_Predators_and_Cut_the_Lifeline_for_Victims.pdf"
+},
+{
+"text": "July 2, 2026Kathy Hochul Wants You To Sweat in the Dark-Kathy Hochul's energy policy is a blueprint for blackouts. Right now, during a massive heatwave, she wants you to turn your thermostat up to 78 degrees because she broke New York's power grid.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569733f2df1f343b123a40_01_Kathy_Hochul_Wants_You_To_Sweat_in_the_Dark.pdf"
+},
+{
+"text": "July 21, 2026Blakeman Blasts Hochul for Spending Tax Dollars on Lawsuit to Force Higher Electric RatesOnly Kathy Hochul could look at New Yorkers paying the highest electric bills in the country and decide the real crisis is the people trying to lower them.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a1042ce07f32a155f5466_blakeman_utility_lawsuit_release.pdf"
+},
+{
+"text": "July 23, 2026Blakeman to Hochul: Stop Poisoning Our Drinking Water For Your Green Energy ScamKathy Hochul’s Green Energy Scam is not only a threat to your wallet; it is now a public health threat poisoning our communities.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a0cae4cbeb24ecd33d73d_blakeman_pfas_release.pdf"
+},
+{
+"text": "July 27, 2026Kathy Hochul Surrendered New York to Violent GangsWhen a 12-year-old child gets gunned down in broad daylight, there is no middle ground left. Kathy Hochul has surrendered New York to violent gangs who use her ‘Raise the Age’ law and Cashless Bail policies every single day to terrorize the public, run gun violence through our streets, and walk out of jail without consequences. READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a0ee83b1d8b9b5889c484_blakeman_bronx_shooting_release.pdf"
+},
+{
+"text": "July 28, 2026New Poll Has Blakeman Neck & Neck with HochulThis latest poll confirms what we have consistently seen over the last two months in various polls, both statewide and in congressional districts, that have me neck and neck with Kathy Hochul.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a6a112ad80b96bf3a1c636d_blakeman_poll_release.pdf"
+},
+{
+"text": "July 3, 2026Blakeman Slams Mamdani's 4th of July Address: \"Dangerous Subversive Who Must Be StoppedMamdani's 4th of July Address was a dark and vindictive appraisal of America's past, present and future. America is a beacon of freedom that has created more prosperity for everyday people than any other civilization in the history of the world.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56978e7c5d6e2899e02229_02_Blakeman_Slams_Mamdani_s_4th_of_July_Address__Dangerous_Subversive_Who_Must_Be_Stopped_.pdf"
+},
+{
+"text": "July 31, 2026Hochul Sacrificed an Entire Generation’s EducationAnthony Fauci and Kathy Hochul forced masks on our kids even though children were at virtually zero risk of serious illness from COVID.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a70b0fb6c373efd322135ea_Hochul_Education_Press_Release_Metadata_Updated.pdf"
+},
+{
+"text": "July 8, 2026Blistering Bruce Blakeman ad features AI-Hochul being ‘truthful’ about her New York: ‘Want some crack?’Nassau County Executive Bruce Blakeman has released a blistering new ad featuring an AI-generated Gov. Kathy Hochul being “truthful” about what her reelection would look like, going after his rival on everything from affordability and crime to illegal immigration.READ MORE",
+"href": "https://nypost.com/2026/07/08/us-news/bruce-blakeman-ad-features-ai-generated-truthful-look-at-hochuls-new-york-want-some-crack/"
+},
+{
+"text": "June 1, 2026Adams gives NY GOP gov hopeful Blakeman tips on NYC campaigning, doesn’t rule out endorsementFormer Mayor Eric Adams is giving Republican gubernatorial hopeful Bruce Blakeman tips on campaigning in New York City — and isn’t ruling out an endorsement across party lines.READ MORE",
+"href": "https://nypost.com/2026/06/01/us-news/adams-gives-ny-gop-gov-hopeful-blakeman-tips-on-nyc-campaigning-doesnt-rule-out-endorsement/"
+},
+{
+"text": "June 1, 2026Transit Workers Endorse \"Friend of Blue Collar Men and Women\" Bruce Blakeman for GovernorTransit Workers Union (TWU) Local 106 and Local 252 endorsed Nassau County Executive Bruce Blakeman for Governor of New York, delivering a powerful blue-collar blow to the Hochul administration.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a08e8a45711d2029e1f6_14_Transit_Workers_Endorse__Friend_of_Blue_Collar_Men_and_Women__Bruce_Blakeman_for_Governor.pdf"
+},
+{
+"text": "June 11, 2026Blakeman Launches Digital Ad Campaign to Stop Hochul's \"Solar Scam\" & Save New York FarmlandKathy Hochul's solar sprawl is cannibalizing our state's most precious resource: our farmland. Between 2024 and 2025 alone, New York lost 500 farms and 100,000 acres of land—with 80% of that devastating hit crushing small, family-owned operations.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0411e0e89466736f910_11_Blakeman_Launches_Digital_Ad_Campaign_to_Stop_Hochul_s__Solar_Scam____Save_New_York_Farmland.pdf"
+},
+{
+"text": "June 12, 2026VIDEO FOOTAGE: Blakeman Reveals Plan for One of New York's Largest Untapped Economic AssetsThe solution to New York's affordability crisis is sitting right beneath our feet. The Marcellus Shale holds more than 9 trillion cubic feet of clean-burning natural gas, but Kathy Hochul's fracking ban keeps that prosperity locked in the ground.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a027772f4ed65525fc22_10_VIDEO_FOOTAGE_Blakeman_Reveals_Plan_for_One_of_New_York_s_Largest_Untapped_Economic_Assets.pdf"
+},
+{
+"text": "June 15, 2026First It Was Our Jobs, Then Our Families, and Now Critical Infrastructure Jobs Are Fleeing, TooMillions of families and businesses have already packed up and left to escape the soaring taxes, skyrocketing utility bills, and pro-criminal policies of the Hochul administration. Chasing out the people who fund this state is bad enough, but now Kathy Hochul is letting critical federal infrastructure lines flee too.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569e4757d76e1799e6f44f_09_First_It_Was_Now_Critical_Infrastructure_Jobs_Are_Fleeing__Too.pdf"
+},
+{
+"text": "June 17, 2026Kathy Hochul Is Stealing from New York's Most VulnerableEvery dollar stolen by Hochul's administrative fraud is a dollar that should have gone to caring for patients. It is absolutely disgusting that Kathy Hochul uses programs meant to help our most vulnerable neighbors to reward political insiders, from overpaying $286 million on a no-bid contract for healthcare testing to an $11 billion home care giveaway.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a569a85c4e7674b417c75c8_08_Kathy_Hochul_Is_Stealing_from_New_York_s_Most_Vulnerable.pdf"
+},
+{
+"text": "June 23, 2026Hochul's State-Run Shelter System Turns Deadly, Blakeman Calls for Immediate InvestigationFollowing the horrific, fatal fire at the Knights Inn motel in Endwell, Nassau County Executive and Republican Candidate for Governor Bruce Blakeman called for an independent, immediate investigation into Governor Kathy Hochul and the New York State Office of Temporary and Disability Assistance (OTDA).READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56994a25fdb3694cbe5d9d_07_Hochul_s_State-Run_Shelter_System_Turns_Deadly__Blakeman_Calls_for_Immediate_Investigation.pdf"
+},
+{
+"text": "June 24, 2026Transit Union Leader Sounds the Alarm on NYC Primary ResultsYesterday, New Yorkers watched as three far-left, anti-American candidates won Democratic primary races. Their vision for New York is one of bigger government, higher taxes, reckless spending, and policies that threaten the economic future of working families.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a5698fa0e4f86d7e1f10dda_06_Transit_Union_Leader_Sounds_the_Alarm_on_NYC_Primary_Results.pdf"
+},
+{
+"text": "June 25, 2026Blakeman Pledges to Block New 16.75% Income Tax at Ulster County Rally: \"Dead on Arrival When I'm Governor\"Standing with local leaders in the Hudson Valley, Nassau County Executive and gubernatorial candidate Bruce Blakeman slammed Governor Kathy Hochul for crushing New Yorkers with the highest taxes in the nation, warning that her tax-and-spend agenda has trickled down to Ulster County where local Democrats are now pushing a new 16.75% income tax.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a5698dcd522db994493b074_05_Blakeman_Pledges_to_Block_New_16_75__Tax_at_Ulster_County_Rally__Dead_on_Arriv_.pdf"
+},
+{
+"text": "June 26, 2026Robot Regents: Hochul Outsourced Our Kids' Education to an AINassau County Executive and Republican nominee for Governor Bruce Blakeman today demanded an immediate, independent investigation into the New York State Board of Regents, slamming Governor Kathy Hochul for allowing unvetted artificial intelligence to generate this year's high-stakes high school graduation exams.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56986167eb877eeb2658bf_04_Robot_Regents_Hochul_Outsourced_Our_Kids__Education_to_an_AI.pdf"
+},
+{
+"text": "June 28, 2026GOP governor hopeful Bruce Blakeman blasts ‘dangerous’ Mamdani, Hochul in pitch to moderatesGOP gubernatorial candidate Bruce Blakeman blasted Gov. Kathy Hochul for enabling Mayor Zohran Mamdani — calling the pair “dangerous” as he said New Yorkers should vote for him to restore sanity to the state.READ MORE",
+"href": "https://nypost.com/2026/06/28/us-news/gops-bruce-blakeman-blasts-dangerous-mamdani-hochul-in-pitch-to-moderates/"
+},
+{
+"text": "June 4, 2026 The Inmates Are Running the Asylum in Kathy Hochul's New YorkIn Kathy Hochul's New York, if you commit a crime, she won't just let you out early—she'll give you the keys to the prison. Handing corrections oversight to a convict she personally cut loose is a slap in the face to victims and an absolute betrayal of our corrections officers.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a07a23eb59f03b1fccd6_13_The_Inmates_Are_Running_the_Asylum_in_Kathy_Hochul_s_New_York.pdf"
+},
+{
+"text": "June 5, 2026Dis-Gracie Mansion: After Mamdani Slams Doors on Historic Puerto Rican Day Bash, Blakeman Launches Emergency Rescue PartyIn a stunning slap in the face to millions of New Yorkers, socialist Mayor Zohran Mamdani has turned the traditional home of the people into \"Dis-Gracie Mansion,\" slamming the doors shut on the city's Puerto Rican community by abruptly axing the decades-old, historic pre-parade reception.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a06837de1eb897349ff7_12_Dis-Gracie_Mansion_After_Mamdas_Doors_onDay_Bash__Blakeman_Launches_Emergency_Rescue_Party.pdf"
+},
+{
+"text": "March 17, 2026Hochul's Homeless Spending Scandal: Every Homeless Person Costs Taxpayers a Year's Family IncomeBlakeman Calls for Investigation as New Report Finds Homeless Outreach Costs Now Equal the Median Household Income in New York CityREAD MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69bc0c7674f75f48218e9721_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Homeless%20Spending%20Scandal.pdf"
+},
+{
+"text": "March 19, 2026When You Made New York Unaffordable, Governor Hochul, You Made the Moving Companies RichAfter driving residents to lower tax states, Hochul now asks them to return while Blakeman calls for tax cuts and real affordability to keep New Yorkers from leaving.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69bc0d1155c3b39770d362cc_Blakeman%20Press%20Release_%20Hochul%E2%80%99s%20Unaffordable%20New%20York.pdf"
+},
+{
+"text": "March 8, 2026Mamdani Family's Antisemitic Words Fuel Climate of Violence Near Gracie MansionAs explosives are investigated near Gracie Mansion, Blakeman warns antisemitic rhetoric is fueling real-world threats against Jewish New Yorkers and demands immediate action.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69aebd79913bee88d25f4ff5_Blakeman%20Press%20Release_%20Mamdani%20Family%E2%80%99s%20Antisemitic%20Words.pdf"
+},
+{
+"text": "May 16, 2026Hochul's Incompetence Puts the Safety of New Yorkers in JeopardyGovernor Hochul's incompetence in handling labor relations from nurses to corrections officers and now railroad workers puts the safety of everyday New Yorkers in jeopardy. Blaming the LIRR strike on President Trump is so disingenuous it is laughable.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0da4431fcb237901b2f_18_Hochul_s_Incompetence_Puts_the_Safety_of_New_Yorkers_in_Jeopardy.pdf"
+},
+{
+"text": "May 16, 2026Long Islanders Woke Up To Chaos Because Kathy Hochul FailedHundreds of thousands of Long Islanders woke up to chaos because Kathy Hochul failed to do her job. This strike didn't come out of nowhere — Hochul knew this deadline was coming and still allowed commuters, small businesses, nurses, teachers, and tourists to become collateral damage.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0f87aff1517860e31cf_19_Long_Islanders_Woke_Up_To_Chaos_Because_Kathy_Hochul_Failed.pdf"
+},
+{
+"text": "May 20, 2026Zohran Mamdani just showed his true colors of antisemitismBy boycotting the Israel Day on Fifth Parade, Zohran Mamdani has finally dropped the mask and shown his true colors of antisemitism. While Jewish New Yorkers are being terrorized in the streets and attacked by radicals waving the inverted red triangle—the same symbol Hamas uses to mark targets for execution—the sitting Mayor has chosen to side with them.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0c88d3e6c5adfd52f37_17_ZOHRAN_MAMDANI_JUST_SHOWED_HIS_TRUE_COLORS_OF_ANTISEMITISM.pdf"
+},
+{
+"text": "May 25, 2026 Puerto Rico governor endorses Bruce Blakeman over Kathy Hochul in NY election raceGOP gubernatorial candidate Bruce Blakeman snagged an endorsement from Puerto Rico’s Gov. Jennifer González-Colón at a strategy meeting earlier this week alongside crypto-mogul Brock Pierce.READ MORE",
+"href": "https://nypost.com/2026/05/25/us-news/puerto-rico-governor-endorses-bruce-blakeman-over-kathy-hochul-in-ny-election-race/"
+},
+{
+"text": "May 26, 2026Blakeman Declares Utility Bill State of Emergency as Hochul Approves 48th Rate HikeCiting a new round of Hochul Administration utility rate hikes, Republican gubernatorial candidate Bruce Blakeman today declared New York's skyrocketing energy costs a \"Utility Bill State of Emergency\" and pledged to cut New Yorkers' electricity bills in half as Governor.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a0b4c025dac55dd123af_16_Blakeman_Declares_Utility_Bill_State_of_Emergency_as_Hochul_Approves_48th_Rate_Hike.pdf"
+},
+{
+"text": "May 29, 20262 transport union chapters endorse GOP’s Bruce Blakeman for governor in snub to HochulTwo transport union chapters are backing Republican Bruce Blakeman in a snub to incumbent Democrat Kathy Hochul for governor, The Post has learned.READ MORE",
+"href": "https://nypost.com/2026/05/29/us-news/2-transport-union-chapters-endorse-gops-bruce-blakeman-for-governor-in-snub-to-hochul/"
+},
+{
+"text": "May 30, 2026Kathy Hochul Has Blood On Her HandsFive people lost their lives and dozens are in the hospital today because Kathy Hochul refuses to enforce the law. Hochul is handing out commercial licenses to illegal migrants and non-English speakers who should never be behind the wheel of an 80,000-pound truck.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a09f77689069aaef30b8_15_Kathy_Hochul_Has_Blood_On_Her_Hands.pdf"
+},
+{
+"text": "May 7, 2026Kathy Hochul's budget is a triple threat Kathy Hochul's budget is a triple threat to your wallet: more taxes, record spending, and a utility bill crisis with no end in sight. In fact, it should be labeled hazardous for your bank account.READ MORE",
+"href": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/6a56a117ce2c042bd7fc1c94_20_KATHY_HOCHUL_S_BUDGET_IS_A_TRIPLE_THREAT.pdf"
+},
+{
+"text": "May 9, 2026Blakeman: I’ll dip into $3.8B Hochul ‘slush fund’ to lower NY taxesRepublican gubernatorial front-runner Bruce Blakeman says he wants to dip into a nearly $4 billion state discretionary fund set aside to help keep New York afloat during economic downturns to provide immediate tax relief to New Yorkers.READ MORE",
+"href": "https://nypost.com/2026/05/09/us-news/blakeman-ill-dip-into-3-8-m-hochul-slush-fund-to-lower-ny-taxes/"
+},
+{
+"text": "Meet Blakeman",
+"href": "https://www.blakemanfornewyork.com/#MeetBruce"
+},
+{
+"text": "Meet Todd",
+"href": "https://www.blakemanfornewyork.com/#MeetTodd"
+},
+{
+"text": "News",
+"href": "https://www.blakemanfornewyork.com/#News"
+},
+{
+"text": "November 17, 2025Nassau County Executive Bruce Blakeman challenges Hochul to draw line as DSA pressures her to back Zohran Mamdani tax hikeNassau County Executive Bruce Blakeman challenged Gov. Kathy Hochul to draw a line in the sand Monday as she faces pressure from Democratic Socialists of America to back Mayor-elect Zohran Mamdani's proposed tax hikes.READ MORE",
+"href": "https://nypost.com/2025/11/17/us-news/nassau-county-executive-bruce-blakeman-challenges-hochul-to-draw-line-as-dsa-pressures-her-to-back-zohran-mamdani-tax-hike/"
+},
+{
+"text": "November 17, 2025Nassau County executive visits Albany as he weighs joining race for New York governorBlakeman said after winning his reelection bid for county executive last week, business and community leaders called him and urged him to enter the race for governor.READ MORE",
+"href": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/11/13/bruce-blakeman-weighs-joining-race-for-new-york-governor"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/blakeman-for-new-york/storefront/"
+},
+{
+"text": "Stop Hochul",
+"href": "https://secure.winred.com/blakeman-for-new-york/stopkathyhochul"
+},
+{
+"text": "Supporters Map",
+"href": "https://www.blakemanfornewyork.com/#endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://www.blakemanfornewyork.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.blakemanfornewyork.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BruceBlakemanNewYorkFirst"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/bruceblakemanforgovernor"
+},
+{
+"text": "[image]",
+"href": "https://x.com/NassauExec"
+},
+{
+"text": "events@blakemanfornewyork.com",
+"href": "mailto:events@blakemanfornewyork.com?subject=Host+an+Event+with+Bruce"
+}
 ]

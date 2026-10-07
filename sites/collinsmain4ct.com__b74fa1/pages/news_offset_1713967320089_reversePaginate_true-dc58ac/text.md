@@ -1,53 +1,33 @@
-Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection
-First-Term Lawmaker Ready to Continue Delivering for Stamford Constituents
-The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House
-“The funding for Pacific House is a major win to help the shelter expand its services and continue to provide quality support to those experiencing homelessness in Fairfield County, especially going into the winter season,” Collins Main said.
-News 12 Connecticut: Recapping the 146th State House District Race
-There were several new state leaders that were elected in the 2024 Elections.
-(Scroll down to the second video to watch State Representative-Elect Collins Main’s interview.)
-Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th
-Since launching my campaign for state representative in April, I have had the opportunity and privilege to speak with hundreds of voters by knocking on doors, calling, attending local events, and being out in the community.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Eilish Main 5/26/26 Eilish Main 5/26/26 Press Release: State Representative Eilish Collins Main Announces Candidacy for Reelection First-Term Lawmaker Ready to Continue Delivering for Stamford Constituents Read More Eilish Main 12/5/25 Eilish Main 12/5/25 The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House “The funding for Pacific House is a major win to help the shelter expand its services and continue to provide quality support to those experiencing homelessness in Fairfield County, especially going into the winter season,” Collins Main said.
+Read More Miles Halpine 11/9/24 Miles Halpine 11/9/24 News 12 Connecticut: Recapping the 146th State House District Race There were several new state leaders that were elected in the 2024 Elections.
+(Scroll down to the second video to watch State Representative-Elect Collins Main’s interview.) Read More Miles Halpine 11/1/24 Miles Halpine 11/1/24 Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th Since launching my campaign for state representative in April, I have had the opportunity and privilege to speak with hundreds of voters by knocking on doors, calling, attending local events, and being out in the community.
 Through these venues, I’m often asked about my top policy concerns.
 My constant response is improving our schools, addressing the housing crisis, and tackling liveability and affordability in Stamford.
-Stamford Patch: CT Patch Candidate Profile: Eilish Collins Main For State Rep.
+Read More Miles Halpine 10/4/24 Miles Halpine 10/4/24 Stamford Patch: CT Patch Candidate Profile: Eilish Collins Main For State Rep.
 Eilish Collins Main shares with Patch why she should be elected to serve the 146th State House District in Stamford.
-Unofficial results: Stamford's Collins Main beats Michel in 146th House District Democratic primary
-"I want to thank the voters of the 146th District for putting their faith in me," she said in a statement Tuesday night.
-News 12 Connecticut: Eilish Collins Main declares victory in Democratic primary for Stamford’s 146th District
-Eilish Collins Main declared herself the winner of the Democratic Party’s primary in the 146th District in Stamford Tuesday night, according to The Associated Press.
-News 12 Connecticut: Preview of the Democratic race for the 146th state House district that covers part of Stamford
-News 12 is continuing to preview different races ahead of the Aug. 13 primary.
+Read More Miles Halpine 8/14/24 Miles Halpine 8/14/24 Unofficial results: Stamford's Collins Main beats Michel in 146th House District Democratic primary "I want to thank the voters of the 146th District for putting their faith in me," she said in a statement Tuesday night.
+Read More Miles Halpine 8/13/24 Miles Halpine 8/13/24 News 12 Connecticut: Eilish Collins Main declares victory in Democratic primary for Stamford’s 146th District Eilish Collins Main declared herself the winner of the Democratic Party’s primary in the 146th District in Stamford Tuesday night, according to The Associated Press.
+Read More Miles Halpine 8/9/24 Miles Halpine 8/9/24 News 12 Connecticut: Preview of the Democratic race for the 146th state House district that covers part of Stamford News 12 is continuing to preview different races ahead of the Aug.
+13 primary.
 Mark Sudol takes a look at the Democratic race for the 146th House District that covers parts of Stamford.
-Stamford Advocate letter to the editor: I strongly support Eilish Collins Main
-For several years, I have had the opportunity to volunteer with local organizations in Stamford.
+Read More Miles Halpine 8/8/24 Miles Halpine 8/8/24 Stamford Advocate letter to the editor: I strongly support Eilish Collins Main For several years, I have had the opportunity to volunteer with local organizations in Stamford.
 As my involvement grew, I have met community members who represent the best of our city.
 Through these efforts, I am reminded about what really matters and what public service is all about.
 So I’m excited to share why I’m running to be state representative here in Stamford, where I was born and raised.
-Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary
-“Affordability is one of my three priorities in this campaign.
-When it comes to ways that the General Assembly can take action to address the cost of living crisis, I think there is more that can be done around public transportation investments, small businesses and child care.”
-Stamford Advocate Op-Ed: Why I’m running
-For several years, I have had the opportunity to volunteer with local organizations in Stamford.
+Read More Miles Halpine 8/6/24 Miles Halpine 8/6/24 Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary “Affordability is one of my three priorities in this campaign.
+When it comes to ways that the General Assembly can take action to address the cost of living crisis, I think there is more that can be done around public transportation investments, small businesses and child care.” Read More Miles Halpine 7/19/24 Miles Halpine 7/19/24 Stamford Advocate Op-Ed: Why I’m running For several years, I have had the opportunity to volunteer with local organizations in Stamford.
 As my involvement grew, I have met community members who represent the best of our city.
 Through these efforts, I am reminded about what really matters and what public service is all about.
 So I’m excited to share why I’m running to be state representative here in Stamford, where I was born and raised.
-Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main
-STAMFORD, CT — On Friday, July 12, former Speaker of the Connecticut House of Representatives Moira Lyons and Stamford city Representative Terry Adams, who both previously represented the 146th State House District in Hartford, officially announced their endorsement of community advocate and endorsed Democrat Eilish Collins Main to serve the 146th State House District.
-Greater Stamford Young Democrats Announce Candidate Endorsements for 2024 Election Cycle
-State House District 146 - Eilish Collins Main
-Stamford Patch: Stamford Democrats Endorse Slate Of Candidates For November
-The Stamford Democratic City Committee recently endorsed a slate of candidates for this November's election.
-Stamford Advocate: Primaries likely in Stamford after DCC, RTC endorse candidates for state House, school board
-“‘I have been attending events all over the district while speaking with Stamford residents about their concerns,’ Collins Main said in a statement. ‘It’s clear that they’re ready for new leadership for the 146th State House District that will address what matters to them.’”
-Press Release: Community Advocate and State Representative Candidate Eilish Collins Main Receives Endorsement From Stamford Democratic City Committee
-STAMFORD, CT — On Wednesday, May 22, Stamford Democratic City Committee (DCC) delegates formally endorsed community advocate Eilish Collins Main as the Democratic nominee for the 146th State House District by a vote of 5-1.
-Stamford Current: State Legislative Races in Stamford Heating Up
-Businesswoman Eilish Collins Main, who has a background in marketing and business development in the education and technology sector, declared her candidacy on Wednesday, April 24.
+Read More Miles Halpine 7/12/24 Miles Halpine 7/12/24 Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main STAMFORD, CT — On Friday, July 12, former Speaker of the Connecticut House of Representatives Moira Lyons and Stamford city Representative Terry Adams, who both previously represented the 146th State House District in Hartford, officially announced their endorsement of community advocate and endorsed Democrat Eilish Collins Main to serve the 146th State House District.
+Read More Miles Halpine 6/17/24 Miles Halpine 6/17/24 Greater Stamford Young Democrats Announce Candidate Endorsements for 2024 Election Cycle State House District 146 - Eilish Collins Main Read More Miles Halpine 5/27/24 Miles Halpine 5/27/24 Stamford Patch: Stamford Democrats Endorse Slate Of Candidates For November The Stamford Democratic City Committee recently endorsed a slate of candidates for this November's election.
+Read More Miles Halpine 5/24/24 Miles Halpine 5/24/24 Stamford Advocate: Primaries likely in Stamford after DCC, RTC endorse candidates for state House, school board “‘I have been attending events all over the district while speaking with Stamford residents about their concerns,’ Collins Main said in a statement. ‘It’s clear that they’re ready for new leadership for the 146th State House District that will address what matters to them.’” Read More Miles Halpine 5/23/24 Miles Halpine 5/23/24 Press Release: Community Advocate and State Representative Candidate Eilish Collins Main Receives Endorsement From Stamford Democratic City Committee STAMFORD, CT — On Wednesday, May 22, Stamford Democratic City Committee (DCC) delegates formally endorsed community advocate Eilish Collins Main as the Democratic nominee for the 146th State House District by a vote of 5-1.
+Read More Miles Halpine 5/16/24 Miles Halpine 5/16/24 Stamford Current: State Legislative Races in Stamford Heating Up Businesswoman Eilish Collins Main, who has a background in marketing and business development in the education and technology sector, declared her candidacy on Wednesday, April 24.
 She is seeking the Democratic nomination.
-Stamford Advocate: Stamford state Rep.
-Michel, newcomer Collins Main vie for Democratic endorsement for 146th district
-Collins Main said in an interview with The Stamford Advocate that she receives legislative updates from the state representatives and senators who represent parts of Stamford in Hartford, and she has found that the issues Michel focuses on “are not relevant” to the residents of the 146th District.
-Press Release: Community Advocate and State Representative Candidate Eilish Collins Main Reaches Threshold for Citizens’ Election Program Funding in Only Four Days
+Read More Miles Halpine 5/5/24 Miles Halpine 5/5/24 Stamford Advocate: Stamford state Rep.
+Michel, newcomer Collins Main vie for Democratic endorsement for 146th district Collins Main said in an interview with The Stamford Advocate that she receives legislative updates from the state representatives and senators who represent parts of Stamford in Hartford, and she has found that the issues Michel focuses on “are not relevant” to the residents of the 146th District.
+Read More Miles Halpine 4/29/24 Miles Halpine 4/29/24 Press Release: Community Advocate and State Representative Candidate Eilish Collins Main Reaches Threshold for Citizens’ Election Program Funding in Only Four Days Today, Eilish Collins Main, Democratic candidate for Connecticut’s 146th State House District, announced that she has raised more than $5,800 from over 150 Stamford residents and local supporters in just four days after launching her campaign.
 Beyond the momentum indicated, it also means that she has reached the threshold required for the Citizens’ Election Program grant pending confirmation by the State Elections Enforcement Commission.
-Stamford Patch: Eilish Collins Main Announces Candidacy For 146th State House District
-Democrat Eilish Collins Main on Wednesday announced her candidacy for Stamford's 146th State House District, which spans over much of the South End neighborhood, Shippan and downtown.
+Read More Miles Halpine 4/24/24 Miles Halpine 4/24/24 Stamford Patch: Eilish Collins Main Announces Candidacy For 146th State House District Democrat Eilish Collins Main on Wednesday announced her candidacy for Stamford's 146th State House District, which spans over much of the South End neighborhood, Shippan and downtown.
+Read More Older Posts Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

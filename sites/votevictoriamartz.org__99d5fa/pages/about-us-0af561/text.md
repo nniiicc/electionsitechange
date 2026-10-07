@@ -1,5 +1,4 @@
-About Victoria
-Victoria Martz is a proud Hoosier, with deep roots right here in Ripley County.
+Skip to content Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer About Victoria Victoria Martz is a proud Hoosier, with deep roots right here in Ripley County.
 She grew up moving between Milan and Batesville with her parents and five brothers and sisters.
 While her family lived out of state for short time periods, in both big cities and small towns, her heart always stayed in Indiana.
 Her childhood was special.
@@ -25,3 +24,4 @@ Victoria lives right in the heart of Batesville, Indiana, raising her toddler ri
 You’ll often spot her at our local grocery stores or farmers markets, enjoying community parks and events, or browsing the gardening shops—she still loves to plant!
 Victoria is incredibly friendly and warm, so please don’t hesitate to say hello if you see her around.
 She’d love to meet you and talk with you!
+Menu Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer External-link-alt Facebook Instagram Tiktok Reddit-square Donate via act blue Copyright © # Vote Victoria Martz Home About the Candidate Donate & Merch Info Voting Info Contact & Volunteer Paid for by Friends of Victoria Martz

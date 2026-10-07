@@ -1,6 +1,1 @@
-Unions support JJ Galvez
-Unions and labor groups officially endorse JJ Galvez for CA Assembly District 71
-Endorsements
-Jaclyn Martin
-Endorsements
-Jaclyn Martin
+0 Skip to Content Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Learn More News Meet JJ Endorsements Get in Touch DONATE Open Menu Close Menu Events Priorities Donate Folder: Learn More Back News Meet JJ Endorsements Get in Touch DONATE Endorsements Jaclyn Martin 9/21/26 Endorsements Jaclyn Martin 9/21/26 Unions support JJ Galvez Unions and labor groups officially endorse JJ Galvez for CA Assembly District 71 Read More DONATE Support Support Donate Donate About JJ About JJ Meet with JJ Meet with JJ Get in Touch Get in Touch Endorsements Endorsements News + Updates News + Updates Issues + Priorities Issues + Priorities Paid for by JJ Galvez for Assembly District 71 - 2026 FPPC #1483089

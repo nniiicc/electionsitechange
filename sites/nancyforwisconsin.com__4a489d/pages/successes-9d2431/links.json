@@ -1,17 +1,74 @@
 [
-"http://topdogmktg.com/",
-"https://facebook.com/nancyforassembly",
-"https://legis.wisconsin.gov/assembly",
-"https://nancyforwisconsin.com/",
-"https://nancyforwisconsin.com/about",
-"https://nancyforwisconsin.com/authored-proposals",
-"https://nancyforwisconsin.com/co-sponsored-proposals",
-"https://nancyforwisconsin.com/contact",
-"https://nancyforwisconsin.com/contribute",
-"https://nancyforwisconsin.com/copy-of-legislation",
-"https://nancyforwisconsin.com/district",
-"https://nancyforwisconsin.com/issues",
-"https://nancyforwisconsin.com/photos",
-"https://nancyforwisconsin.com/successes",
-"https://nancyforwisconsin.com/volunteer"
+{
+"text": "About",
+"href": "https://www.nancyforwisconsin.com/about"
+},
+{
+"text": "Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/authored-proposals"
+},
+{
+"text": "Co-Authored Proposals",
+"href": "https://www.nancyforwisconsin.com/copy-of-legislation"
+},
+{
+"text": "Co-Sponsored Proposals",
+"href": "https://www.nancyforwisconsin.com/co-sponsored-proposals"
+},
+{
+"text": "Contact",
+"href": "https://www.nancyforwisconsin.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://www.nancyforwisconsin.com/contribute"
+},
+{
+"text": "District",
+"href": "https://www.nancyforwisconsin.com/district"
+},
+{
+"text": "Home",
+"href": "https://www.nancyforwisconsin.com"
+},
+{
+"text": "Issues & Actions",
+"href": "https://www.nancyforwisconsin.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.nancyforwisconsin.com/photos"
+},
+{
+"text": "Successes",
+"href": "https://www.nancyforwisconsin.com/successes"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nancyforwisconsin.com/volunteer"
+},
+{
+"text": "Wisconsin Manufacturers & Commerce (WMC)",
+"href": "https://www.nancyforwisconsin.com/"
+},
+{
+"text": "Wisconsin State Assembly",
+"href": "https://legis.wisconsin.gov/assembly"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nancyforassembly"
+},
+{
+"text": "[image: revised logo wh png.png]",
+"href": "http://www.topdogmktg.com"
+},
+{
+"text": "info@nancyforwisconsin.com",
+"href": "mailto:info@nancyforwisconsin.com"
+}
 ]

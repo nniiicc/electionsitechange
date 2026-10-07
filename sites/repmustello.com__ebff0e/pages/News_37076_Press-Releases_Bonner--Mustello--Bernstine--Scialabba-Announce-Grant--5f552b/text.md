@@ -1,39 +1,17 @@
-Bonner, Mustello, Bernstine, Scialabba Announce Grant for Butler County Historical Society
-December 16, 2025
-HARRISBURG – Reps.
+PA State Rep.
+Marci Mustello Serving PA's 11th Legislative District Subscribe Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care & Assisted Living Guide REAL ID Contact Bonner, Mustello, Bernstine, Scialabba Announce Grant for Butler County Historical Society December 16, 2025 HARRISBURG – Reps.
 Tim Bonner (R-Butler/Mercer), Marci Mustello (R-Butler), Aaron Bernstine (R-Butler/Lawrence and Stephenie Scialabba (R-Butler) today announced the Butler County Historical Society has been awarded a $9,000 grant to repair and maintain its three early 19th-century properties and support the preservation of thousands of objects, documents and images.
 “I am pleased the Pennsylvania Historical and Museum Commission has awarded the Butler County Historical Society the grant money to further the preservation of the history of Butler County,” Bonner said.
-“Supporting the care and maintenance of these historic sites ensures that future generations can connect with the people and places that shaped our community.”
-“For more than 65 years, the Butler County Historical Society has worked diligently to protect our local history and chronicle the people and events that have shaped our region,” said Mustello.
+“Supporting the care and maintenance of these historic sites ensures that future generations can connect with the people and places that shaped our community.” “For more than 65 years, the Butler County Historical Society has worked diligently to protect our local history and chronicle the people and events that have shaped our region,” said Mustello.
 “The ongoing work they do with historic sites such as the Cooper Cabin, Little Red School House and Lowerie House, among other projects, will be appreciated for generations to come.
-I’m pleased to join my legislative colleagues in support of this funding.”
-“Preserving Butler County’s history isn’t optional.
+I’m pleased to join my legislative colleagues in support of this funding.” “Preserving Butler County’s history isn’t optional.
 It’s our responsibility,” said Bernstine.
 “This funding ensures irreplaceable artifacts, documents and historic properties are protected, professionally maintained and accessible for generations to come.
-I’m proud to work alongside my colleagues to support the Butler County Historical Society’s vital mission.”
-“The Butler County Historical Society plays an invaluable role in preserving the stories, artifacts and places that define our community’s identity,” said Scialabba.
+I’m proud to work alongside my colleagues to support the Butler County Historical Society’s vital mission.” “The Butler County Historical Society plays an invaluable role in preserving the stories, artifacts and places that define our community’s identity,” said Scialabba.
 “This grant helps ensure the proper care of and public accessibility to treasured historic sites – the 1828 Senator Walter Lowrie House Museum, the 1838 Little Red School House and the Cooper Cabin Homestead – as well as important documents, images and artifacts.
-I’m grateful for this investment in the society’s work, which not only protects our past but strengthens our community for generations to come.”
-The grant funding comes from the Pennsylvania Historical and Museum Commission through the Cultural and Historical Support Program, which provides general operating support to museums and official county historical societies.
-Representative Aaron Bernstine
-8th Legislative District
-Pennsylvania House of Representatives
-Representative Tim Bonner
-17th Legislative District
-Pennsylvania House of Representatives
-Representative Marci Mustello
-11th Legislative District
-Pennsylvania House of Representatives
-Representative Stephenie Scialabba
-12th Legislative District
-Pennsylvania House of Representatives
-Bernstine, Mustello Media Contact: Rick Leiner
-717.260.6437 (office), 717.497.8478 (cell)
-Rleiner@pahousegop.com
-Bonner Media Contact: Andrew Forgotch
-717.772.9905, aforgotch@pahousegop.com
-Scialabba Media Contact: Chris Comisac
-717-772-9845, ccomisac@pahousegop.com
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+I’m grateful for this investment in the society’s work, which not only protects our past but strengthens our community for generations to come.” The grant funding comes from the Pennsylvania Historical and Museum Commission through the Cultural and Historical Support Program, which provides general operating support to museums and official county historical societies.
+Representative Aaron Bernstine 8th Legislative District Pennsylvania House of Representatives Representative Tim Bonner 17th Legislative District Pennsylvania House of Representatives Representative Marci Mustello 11th Legislative District Pennsylvania House of Representatives Representative Stephenie Scialabba 12th Legislative District Pennsylvania House of Representatives Bernstine, Mustello Media Contact: Rick Leiner 717.260.6437 (office), 717.497.8478 (cell) Rleiner@pahousegop.com Bonner Media Contact: Andrew Forgotch 717.772.9905, aforgotch@pahousegop.com Scialabba Media Contact: Chris Comisac 717-772-9845, ccomisac@pahousegop.com Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations BUTLER 100 Barracks Road Butler, PA 16001 724-283-5852 1-855-282-0613 Mon-Fri 9 a.m. to 4:30 p.m.
+CAPITOL 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011 717-787-7686 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care &amp; Assisted Living Guide REAL ID Contact

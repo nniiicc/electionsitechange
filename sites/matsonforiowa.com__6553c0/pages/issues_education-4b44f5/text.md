@@ -1,5 +1,4 @@
-Education
-As a mom of twins attending Ankeny High School, I am passionate about supporting our schools and the amazing educators who work tirelessly to foster the growth of our kids.
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Education As a mom of twins attending Ankeny High School, I am passionate about supporting our schools and the amazing educators who work tirelessly to foster the growth of our kids.
 Ankeny deserves a state senator with a demonstrated commitment to prioritizing public education.
 As the former Ranking Member of the House Education Committee and current Ranking Member of the Education Budget, my north star is getting Iowa back to being #1 in education again.
 Strong public schools are the heart of Iowa’s communities.
@@ -7,7 +6,8 @@ But volatile policy changes and a decade of underfunding have made it harder for
 I am deeply concerned about the number of educators and administrators leaving the profession.
 Recruiting and retention starts with ensuring public education is valued.
 It’s more important than ever that we focus on how we, as parents and community members, can be partners with our teachers and school staff to ensure all our kids have an excellent education and a safe environment in which to learn.
-Last fall I led a statewide listening tour on how to best support our kids and improve public education in Iowa.The feedback included, and I have supported: meet mental health and behavior challenges, fix special education deficits, end the $1 billion voucher experiment, restore the AEAs, and restore collective bargaining for teachers to negotiate smaller class sizes, select quality resources, and mandatory prep time to reduce burnout and improve outcomes.
+Last fall I led a statewide listening tour on how to best support our kids and improve public education in Iowa.
+The feedback included, and I have supported: meet mental health and behavior challenges, fix special education deficits, end the $1 billion voucher experiment, restore the AEAs, and restore collective bargaining for teachers to negotiate smaller class sizes, select quality resources, and mandatory prep time to reduce burnout and improve outcomes.
 The Legislature must show that it truly values public education with funding that exceeds the rate of inflation, and allows school districts to pay competitive wages, bring down class sizes, have safe and secure buildings, and ensure districts can offer a world-class education to all students.
 I am proud to have voted for an increase in teacher and associate pay, but I know Iowa can do better.
 You can learn more about the the results of the listening tour and my thoughts on how we get Iowa back to #1 here.
@@ -29,3 +29,6 @@ During my time in the Iowa House, I have fought against vouchers that send publi
 As a member of the House Higher Education Committee, I know that our commitment to public education doesn’t end at high school graduation.
 We also need to ensure that our regents universities and community colleges, like DMACC based here in Ankeny, have the resources they need to equip students with the education and skills needed in our ever-changing workforce.
 I am proud to have co-sponsored legislation to make college more affordable for Iowa families.
+Issues Voting Rights Transparency and Accountability Reproductive Freedom and Maternal Health Public Safety Health Care, Rising Cancer Rates, and Fixing Medicaid Economic Development, Workforce, and Lowering Costs for Iowans Clean Water, Conservation, and Climate Education Back to issues page Next: Clean Water, Conservation, and Climate Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

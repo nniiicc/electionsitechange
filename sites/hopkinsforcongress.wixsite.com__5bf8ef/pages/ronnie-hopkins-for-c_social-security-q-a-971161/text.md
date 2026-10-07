@@ -1,5 +1,6 @@
-Social Security Questions and Answers
-Is social security a retirement fund?
+top of page This website was built on Wix.
+Create yours today.
+Get Started Social Security Questions and Answers ​ Is social security a retirement fund?
 No, Because a true retirement plan would show dollars saved and dollars invested during up years and down years all in individual accounts with your name on it.
 Social security offers no such thing.
 Is social security a trust fund?
@@ -33,3 +34,4 @@ You do not own it and cannot pass it on to anyone of your choice when you die.
 In order to give future retirees a higher quality of life social security needs to be restructured into a real trust fund that gives more choices to future retirees.
 If social security is turned into a real trust fund it would make you owner of your own social security account.
 You would be able to retire at age 60 if you choose, you could leave your social security trust fund to anyone you choose when you die and you would not have to pay social security tax anymore.
+Home Page bottom of page

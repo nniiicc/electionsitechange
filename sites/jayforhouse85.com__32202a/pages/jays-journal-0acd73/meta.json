@@ -1,7 +1,11 @@
 {
  "description": "Jay&#39;s Journal is a newsletter that comes in video, PDF, and email format so that all of District 85 can stay up to date on the statehouse. And up to date with...",
  "final_url": "https://www.jayforhouse85.com/jays-journal",
- "paid_for_by": null,
+ "fingerprint": "515a3f85eea0e279825f091153fc7fb58218712e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jay's Journal",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

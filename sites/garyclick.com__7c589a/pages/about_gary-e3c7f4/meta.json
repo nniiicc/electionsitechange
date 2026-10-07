@@ -1,9 +1,12 @@
 {
  "description": "About Gary Click, candidate for State Representative",
  "final_url": "https://www.garyclick.com/about_gary",
- "paid_for_by": null,
+ "fingerprint": "70656e164d78b7ebe8f4028e30267da271d337a2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Gary",
  "years_mentioned": [
+  "2006",
   "2015",
   "2018",
   "2020"

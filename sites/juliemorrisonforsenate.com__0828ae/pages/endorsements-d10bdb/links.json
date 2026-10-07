@@ -1,27 +1,110 @@
 [
-"https://facebook.com/JulieForSenate",
-"https://juliemorrisonforsenate.com/",
-"https://juliemorrisonforsenate.com/about",
-"https://juliemorrisonforsenate.com/contact",
-"https://juliemorrisonforsenate.com/endorsements",
-"https://juliemorrisonforsenate.com/issues",
-"https://juliemorrisonforsenate.com/news",
-"https://juliemorrisonforsenate.com/privacy-policy",
-"https://juliemorrisonforsenate.com/voter-resources",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-1-1.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-1.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-2.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-3.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-4.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-5.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards.png.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/IMG_3712.jpeg",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-2.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-3.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-4.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-5.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards.png",
-"https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/IMG_4268.jpg",
-"https://secure.actblue.com/donate/julie-morrison-for-state-senate-1"
+{
+"text": "About",
+"href": "https://juliemorrisonforsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-morrison-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://juliemorrisonforsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JulieForSenate"
+},
+{
+"text": "Home",
+"href": "https://juliemorrisonforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://juliemorrisonforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://juliemorrisonforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://juliemorrisonforsenate.com/privacy-policy/"
+},
+{
+"text": "Send a Message",
+"href": "https://juliemorrisonforsenate.com/contact/"
+},
+{
+"text": "Voter Resources",
+"href": "https://juliemorrisonforsenate.com/voter-resources/"
+},
+{
+"text": "[image]",
+"href": "https://juliemorrisonforsenate.com"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-1-1.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-1.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-2.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-3.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-4.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards-1-5.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/Blue-and-Red-Campaign-Postcards.png.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/08/IMG_3712.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-2.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-3.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-4.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards-5.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/Blue-and-Red-Campaign-Postcards.png"
+},
+{
+"text": "[no text]",
+"href": "https://juliemorrisonforsenate.com/wp-content/uploads/2026/09/IMG_4268.jpg"
+}
 ]

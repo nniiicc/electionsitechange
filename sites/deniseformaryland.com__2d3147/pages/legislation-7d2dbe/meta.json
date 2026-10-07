@@ -1,7 +1,9 @@
 {
  "description": "Click the button to view the comprehensive list of bills sponsored and co-sponsored by Delegate Denise Roberts during the Legislative Session in Annapolis",
  "final_url": "https://www.deniseformaryland.com/legislation",
- "paid_for_by": null,
+ "fingerprint": "10021441a234afc00983227e5e135be1e3b625b6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "LEGISLATION | Denise For Maryland",
  "years_mentioned": [
   "2026"

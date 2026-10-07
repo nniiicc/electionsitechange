@@ -1,2 +1,2 @@
-Privacy Overview
-Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Skip to main content Menu Meet Ted Hill Issues Donate Voter Information Register to Vote Request Absentee Ballot Voter Locations Important Dates Contact twitter facebook youtube instagram Meet Ted Hill Issues Donate Voter Information Register to Vote Request Absentee Ballot Voter Locations Important Dates Contact Press enter to begin your search Close Search Have questions?
+Please fill out the form below and we will reach out to you! © # Ted Hill 4 Idaho. | Privacy Policy | Terms & Conditions | EULA | Disclaimer

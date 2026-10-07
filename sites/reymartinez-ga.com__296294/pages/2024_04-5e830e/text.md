@@ -1,4 +1,3 @@
-2024 Legislative Session Wrap-Up
-This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
-Many of these bills [More]
-Copyright © 2026 | WordPress Theme by MH Themes
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate Month: April 2024 2024 Legislative Session Wrap-Up April 5, 2024 Rey Martinez 0 This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
+Many of these bills [More] Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

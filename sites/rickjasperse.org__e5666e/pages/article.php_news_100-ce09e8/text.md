@@ -1,4 +1,4 @@
-[February 22, 2021] | Week 6 has passed of the 2021 legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK HALFWAY THROUGH THE SESSION [ February 22, 2021 ] | Week 6 has passed of the 2021 legislative session.
 We are about halfway through the session, and it's almost tomato seed-planting time for me.
 The meetings are many, and one-on-one discussions about legislation are nonstop.
 I have been getting lots of emails and phone calls about bills that are in committee or on the floor for a vote.
@@ -28,3 +28,4 @@ If you are interested in adoption, I can provide you with a copy of the bill to 
 I greatly appreciate any feedback I receive from my constituents, and I welcome you to contact my office for questions or concerns about the legislative session.
 My Capitol office number is 404-656-7153, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

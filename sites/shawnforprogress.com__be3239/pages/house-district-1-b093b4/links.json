@@ -1,18 +1,74 @@
 [
-"https://designedtorun.com/",
-"https://dreyforiowa.com/",
-"https://elections.woodburycountyiowa.gov/files/maps/iowa_house_district_1_82691.pdf",
-"https://facebook.com/Shawnforprogress",
-"https://instagram.com/Shawnforprogress",
-"https://shawnforprogress.com/",
-"https://shawnforprogress.com/about",
-"https://shawnforprogress.com/contact",
-"https://shawnforprogress.com/donate",
-"https://shawnforprogress.com/events",
-"https://shawnforprogress.com/host-a-yard-sign",
-"https://shawnforprogress.com/issues",
-"https://shawnforprogress.com/news",
-"https://shawnforprogress.com/volunteer",
-"https://threads.net/@shawnforprogress",
-"https://tiktok.com/@shawnforprogress"
+{
+"text": "About",
+"href": "https://www.shawnforprogress.com/about"
+},
+{
+"text": "Catelin Drey",
+"href": "https://dreyforiowa.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.shawnforprogress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.shawnforprogress.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.shawnforprogress.com/events"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.shawnforprogress.com/host-a-yard-sign"
+},
+{
+"text": "Issues and Policy",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.shawnforprogress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.shawnforprogress.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shawnforprogress.com/volunteer"
+},
+{
+"text": "[image: Shawn for Progress logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@shawnforprogress"
+},
+{
+"text": "here",
+"href": "https://elections.woodburycountyiowa.gov/files/maps/iowa_house_district_1_82691.pdf"
+}
 ]

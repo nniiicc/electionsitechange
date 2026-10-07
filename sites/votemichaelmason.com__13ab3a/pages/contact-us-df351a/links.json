@@ -1,5 +1,18 @@
 [
-"https://votemichaelmason.com/",
-"https://votemichaelmason.com/contact-us",
-"https://votemichaelmason.com/news-updates"
+{
+"text": "Contact Us",
+"href": "https://votemichaelmason.com/contact-us/"
+},
+{
+"text": "Home",
+"href": "https://votemichaelmason.com/"
+},
+{
+"text": "News & Updates",
+"href": "https://votemichaelmason.com/news-updates/"
+},
+{
+"text": "[image: Mike Mason]",
+"href": "https://votemichaelmason.com/"
+}
 ]

@@ -1,23 +1,94 @@
 [
-"https://facebook.com/karenforCt66th",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260521T190000%2F20260521T200000&text=CT66+House+Convention&details=%3Cimg+class%3D%22alignnone+size-medium+wp-image-237%22+src%3D%22https%3A%2F%2Fkarenforct66.com%2Fwp-content%2Fuploads%2Fimagepng_0-10-300x450.png%22+alt%3D%22%22+width%3D%22300%22+height%3D%22450%22+%2F%3E&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fkarenforct66.com",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/event/ct-gop-state-convention",
-"https://karenforct66.com/event/june-19th-freedom-liberty-rally",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-21T19%3A00%3A00-04%3A00&enddt=2026-05-21T20%3A00%3A00-04%3A00&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&subject=CT66+House+Convention",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-21T19%3A00%3A00-04%3A00&enddt=2026-05-21T20%3A00%3A00-04%3A00&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&subject=CT66+House+Convention",
-"https://youtube.com/@K66Campaign"
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260521T190000%2F20260521T200000&text=CT66+House+Convention&details=%3Cimg+class%3D%22alignnone+size-medium+wp-image-237%22+src%3D%22https%3A%2F%2Fkarenforct66.com%2Fwp-content%2Fuploads%2Fimagepng_0-10-300x450.png%22+alt%3D%22%22+width%3D%22300%22+height%3D%22450%22+%2F%3E&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fkarenforct66.com"
+},
+{
+"text": "June 19th Freedom & Liberty Rally »",
+"href": "https://karenforct66.com/event/june-19th-freedom-liberty-rally/"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&subject=CT66+House+Convention&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Memorial+Hall%2C+The+Green%2C+Bethlehem&subject=CT66+House+Convention&body="
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+},
+{
+"text": "iCalendar",
+"href": "webcal://karenforct66.com/event/ct66-house-convention/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "« CT GOP State Convention",
+"href": "https://karenforct66.com/event/ct-gop-state-convention/"
+}
 ]

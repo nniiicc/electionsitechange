@@ -1,14 +1,3 @@
-Endorsements
-Minnesota Association of Professional Employees
-Minnesota American Federation of Labor and the Congress of Industrial Organizations (AFL-CIO)
-Minnesota Nurses Association
-Vote Vets
-Moms Demand Action
-American Federation of State, County & Municipal Employees
-Friends of the Boundary Waters
-DFL Senior Caucus
-Northern Midwest Regional Council of Carpenters
-FairVote Minnesota
-AFSCME Council 65
-Education Minnesota
-Minnesota Farmers Union
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Endorsements Minnesota Association of Professional Employees Minnesota American Federation of Labor and the Congress of Industrial Organizations (AFL-CIO) Minnesota Nurses Association Vote Vets Moms Demand Action American Federation of State, County & Municipal Employees Friends of the Boundary Waters DFL Senior Caucus Northern Midwest Regional Council of Carpenters FairVote Minnesota AFSCME Council 65 Education Minnesota Minnesota Farmers Union Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
+Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

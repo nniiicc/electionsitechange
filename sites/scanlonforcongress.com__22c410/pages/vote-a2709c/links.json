@@ -1,20 +1,82 @@
 [
-"https://delcopa.gov/vote/ballotdropbox.html",
-"https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform",
-"https://expressforms.pa.gov/apps/pa/DOS/Remote-Access-Ballot-Request",
-"https://montcopa.org/3587/Secure-Ballot-Drop-Box-Locations",
-"https://pavoterservices.pa.gov/Pages/BallotTracking.aspx",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/onlineabsenteeapplication",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://phila.gov/voting",
-"https://scanlonforcongress.com/",
-"https://scanlonforcongress.com/about",
-"https://scanlonforcongress.com/contact",
-"https://scanlonforcongress.com/endorsements",
-"https://scanlonforcongress.com/news",
-"https://scanlonforcongress.com/vote",
-"https://secure.actblue.com/donate/socialmgs",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://votespa.com/Voting-in-PA/Documents/Accessible-Remote-Ballot-Request.pdf"
+{
+"text": "About",
+"href": "https://www.scanlonforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.scanlonforcongress.com/contact"
+},
+{
+"text": "DELAWARE COUNTY",
+"href": "https://www.delcopa.gov/vote/ballotdropbox.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/socialmgs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scanlonforcongress.com/endorsements"
+},
+{
+"text": "FIND MY POLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.scanlonforcongress.com"
+},
+{
+"text": "MONTGOMERY COUNTY",
+"href": "https://www.montcopa.org/3587/Secure-Ballot-Drop-Box-Locations"
+},
+{
+"text": "News",
+"href": "https://www.scanlonforcongress.com/news"
+},
+{
+"text": "PHILADELPHIA COUNTY",
+"href": "https://www.phila.gov/voting/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request a Mail-In Ballot",
+"href": "https://www.pavoterservices.pa.gov/onlineabsenteeapplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "TRACK MY BALLOT",
+"href": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx"
+},
+{
+"text": "VOTE",
+"href": "https://www.scanlonforcongress.com/vote"
+},
+{
+"text": "You can apply for a mail-in ballot here",
+"href": "https://www.pavoterservices.pa.gov/onlineabsenteeapplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "https://expressforms.pa.gov/apps/pa/DOS/Remote-Access-Ballot-Request",
+"href": "https://expressforms.pa.gov/apps/pa/DOS/Remote-Access-Ballot-Request"
+},
+{
+"text": "https://www.votespa.com/Voting-in-PA/Documents/Accessible-Remote-Ballot-Request.pdf",
+"href": "https://www.votespa.com/Voting-in-PA/Documents/Accessible-Remote-Ballot-Request.pdf"
+},
+{
+"text": "please click here.",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "ra-awib@pa.gov",
+"href": "mailto:ra-awib@pa.gov"
+}
 ]

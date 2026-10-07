@@ -1,23 +1,110 @@
 [
-"http://facebook.com/lunaforassembly",
-"http://instagram.com/lunaforassembly",
-"https://ismaelluna.com/",
-"https://ismaelluna.com/cart",
-"https://ismaelluna.com/commit-to-vote",
-"https://ismaelluna.com/endorse",
-"https://ismaelluna.com/home",
-"https://ismaelluna.com/meet-ismael",
-"https://ismaelluna.com/priorities",
-"https://ismaelluna.com/privacy-policy",
-"https://ismaelluna.com/volunteer",
-"https://ismaelluna.com/volunteer-1",
-"https://ismaelluna.com/vote",
-"https://secure.actblue.com/donate/voteluna",
-"https://secure.actblue.com/donate/voteluna?amount=100",
-"https://secure.actblue.com/donate/voteluna?amount=25",
-"https://secure.actblue.com/donate/voteluna?amount=5",
-"https://secure.actblue.com/donate/voteluna?amount=50",
-"https://secure.actblue.com/donate/voteluna?amount=500",
-"https://threads.com/@lunaforassembly",
-"https://tiktok.com/@ismile_moon"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/voteluna?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/voteluna?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/voteluna?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/voteluna?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/voteluna?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.ismaelluna.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.ismaelluna.com/"
+},
+{
+"text": "Commit to Vote",
+"href": "https://www.ismaelluna.com/commit-to-vote"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/voteluna"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/voteluna"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ismaelluna.com/endorse"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.ismaelluna.com/volunteer-1"
+},
+{
+"text": "HELLO@ISMAELLUNA.COM",
+"href": "mailto:hello@ismaelluna.com?bcc=hello%40bradycoulthard.com&subject=Website+Contact"
+},
+{
+"text": "Meet Ismael",
+"href": "https://www.ismaelluna.com/meet-ismael"
+},
+{
+"text": "Priorities",
+"href": "https://www.ismaelluna.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ismaelluna.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ismaelluna.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ismaelluna.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.ismaelluna.com/vote"
+},
+{
+"text": "[image: Ismael Luna for Wisconsin State Assembly]",
+"href": "https://www.ismaelluna.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.ismaelluna.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lunaforassembly"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lunaforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@lunaforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ismile_moon"
+},
+{
+"text": "hello@ismaelluna.com",
+"href": "mailto:hello@ismaelluna.com?bcc=hello%40bradycoulthard.com&subject=Privacy+Policy"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/voteluna"
+}
 ]

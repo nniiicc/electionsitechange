@@ -1,5 +1,11 @@
-19May
-U.S.
+Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Angel Bolques, Jr.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Home News and Updates Senator Bolques Shares Customs Options Provided by CBP amid complaints and meetings to Address Package Delivery Delays in St.
+John Senator Bolques Shares Customs Options Provided by CBP amid complaints and meetings to Address Package Delivery Delays in St.
+John Angel Bolques Jr.
+19 May 19 May U.S.
 Virgin Islands — In response to the continued disruptions in package deliveries affecting residents and businesses on St.
 John, Senator Angel L.
 Bolques Jr. is sharing critical updates and options provided by U.S.
@@ -14,5 +20,18 @@ However, CBP noted that these items are often not marked appropriately, resultin
 "I thank CBP for its cooperation and will continue working with them and the community to resolve challenges as they arise."###St.
 Thomas• Entry Branch & Import Specialists: (340) 774-2510 / (340) 774-2520•Vessel & Clearance: (340) 774-6755•Sandfill Cargo Office: (340) 714-1600St.
 John• CBP Terminal (The Creek): 1-877-305-8775St.
-Croix• Main Office: (340) 773-1490•Gallows Bay Port Terminal: (340) 773-1011
-Comments
+Croix• Main Office: (340) 773-1490•Gallows Bay Port Terminal: (340) 773-1011 Download File PDF • 266KB Angel Bolques Jr Senator Bolques U.S.
+Virgin Islands St.
+John shipping delays customs processing St.
+John CBP Virgin Islands package delays USVI customs clearance options importer bond CBP Excel manifest CBP consolidated entry summary excise tax clearance USVI St.
+John port cargo courier service delays medical shipment delays bonded clearance shipping low value item customs Virgin Islands shipping news package delivery Virgin Islands St.
+John logistics CBP updates St.
+John customs documentation USVI Bureau of Internal Revenue VI CBP customer service Caribbean logistics challenges St.
+Thomas customs St.
+Croix shipping 20 Mar Senator Bolques reads to Montessori School Elementary students 16 Mar Providing Assistance to the Elderly 15 Mar The Bolques Bulletin (A bimestrial newsletter) Comments Post Comment * The email will not be published on the website.
+Home Greetings Objectives LEGISLATIVE WORK Legislative POLICY Agenda Bill Tracking Professional Experience News and Updates Your Support How will my Donation be used?
+Donate Contact Gallery Subscribe Copyright © # All rights reserved - Angel Bolques, Jr.
+Terms | Privacy | Accessibility +1340-3406902555 - FRIENDS OF ANGEL BOLQUESJR.
+ANGELBOLQUESJRFORSENATE@GMAIL.COM 486G Estate Chocolate Hole Road, St.
+John, USVI (PO Box 8493.
+STT, Virgin Islands 00801 or PO Box 630, STJ VI 00830)

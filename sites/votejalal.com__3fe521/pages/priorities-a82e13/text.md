@@ -1,4 +1,4 @@
-Fighting for You in Lansing
-Jalal's Priorities
-Learn more about the priorities which Jalal has outlined for the future of the 15th District.
+Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Volunteer Take Our Survey Donate Home Meet Jalal Priorities Strong, Safe Neighborhoods Families & Economic Opportunity Education & Career Pathways Health Care & Wellness Community-Driven Leadership Donate Fighting for You in Lansing Jalal's Priorities Learn more about the priorities which Jalal has outlined for the future of the 15th District.
 Jalal plans to work across the aisle, collaborating with any party keen in delivering good legislation to benefit all those in the 15th District.
+Investing in & Protecting Strong, Safe Neighborhoods Protecting Working Families & Expanding Opportunity Strengthening Education & Pathways to the Middle Class Expanding Access to Health Care & Community Wellness Adovacting for Accountable, Community-Driven Leadership Donate by mail: CTE Jalal Abdallah 23035 Sheridan St.
+Dearborn, MI 48124 Home Meet Jalal Priorities Volunteer Donate Connect with us: Contact Privacy Policy Terms of Use | Built by: Brick by Brick PAID FOR BY COMMITTEE TO ELECT JALAL ABDALLAH, PO Box 83, Dearborn Heights, MI 48127

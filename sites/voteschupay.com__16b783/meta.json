@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteschupay.com/",
- "paid_for_by": null,
+ "fingerprint": "1f7009475428e08b559ad7376fad0e5b890a18dd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "HOME | Campaign for Conrad Schupay",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

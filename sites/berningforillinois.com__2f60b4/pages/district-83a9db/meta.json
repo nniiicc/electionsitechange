@@ -1,9 +1,9 @@
 {
  "description": "Explore the Illinois 45th Senate District with Joe Berning. Learn about counties, initiatives, and how to get involved. Subscribe for updates!",
  "final_url": "https://berningforillinois.com/district",
- "paid_for_by": null,
+ "fingerprint": "14d3c109cba1c131d79872a8de5eabacc4008732",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

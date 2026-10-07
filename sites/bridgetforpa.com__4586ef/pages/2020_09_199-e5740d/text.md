@@ -1,18 +1,8 @@
-PRESS RELEASE – Rep.
-Bridget Malloy Kosierowski Releases First Round of Endorsements
-FOR IMMEDIATE RELEASE – September 3, 2020
-CONTACT: info@BridgetForPA.com
-CLARKS SUMMIT – Today State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces her first round of campaign endorsements.
-They include the following:
-AFSCME Council 13
-United Brotherhood of Carpenters & Joiners of America Local Union 445
-PSEA – PA State Education Association PACE
-Human Rights Campaign
-UFCW Local 1776
-Pennsylvania AFL-CIO
-Action Together NEPA
-PASNAP
-United Association Local Union 524
-“I’m incredibly proud and humbled to have so much support from such a wide range of fantastic organizations from labor, to healthcare, to teachers, to grassroots organizations, and all the in between,” Malloy Kosierowski said.
+Skip to content Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: Previous Next Rep.
+Bridget Malloy Kosierowski Releases First Round of Endorsements PRESS RELEASE – Rep.
+Bridget Malloy Kosierowski Releases First Round of Endorsements FOR IMMEDIATE RELEASE – September 3, 2020 CONTACT: info@BridgetForPA.com CLARKS SUMMIT – Today State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces her first round of campaign endorsements.
+They include the following: AFSCME Council 13 United Brotherhood of Carpenters & Joiners of America Local Union 445 PSEA – PA State Education Association PACE Human Rights Campaign UFCW Local 1776 Pennsylvania AFL-CIO Action Together NEPA PASNAP United Association Local Union 524 “I’m incredibly proud and humbled to have so much support from such a wide range of fantastic organizations from labor, to healthcare, to teachers, to grassroots organizations, and all the in between,” Malloy Kosierowski said.
 “As your voice in Harrisburg, I will continue to share your core beliefs and work on behalf of our joint values including fair wages, good quality work environments and conditions, and more,” Malloy Kosierowski said.
-“It’s an honor to serve as your state representative and I look forward to continue having the opportunity to do so.”
+“It’s an honor to serve as your state representative and I look forward to continue having the opportunity to do so.” By BridgetForPA | 2020-09-03T20:17:57+00:00 September 3rd, 2020 | press release | Comments Off on Rep.
+Bridget Malloy Kosierowski Releases First Round of Endorsements Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn WhatsApp Tumblr Pinterest Vk Email Friends of Bridget Malloy Kosierowski PO Box 38 | Clarks Summit, PA 18411 Email: info@bridgetforpa.com copyright # Bridget For PA Facebook Page load link Go to Top

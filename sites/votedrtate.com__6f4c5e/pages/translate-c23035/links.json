@@ -1,15 +1,62 @@
 [
-"http://translate.google.com/",
-"https://votedrtate.com/about",
-"https://votedrtate.com/contact",
-"https://votedrtate.com/donate",
-"https://votedrtate.com/endorsements",
-"https://votedrtate.com/events",
-"https://votedrtate.com/home",
-"https://votedrtate.com/issues",
-"https://votedrtate.com/media",
-"https://votedrtate.com/media-stock",
-"https://votedrtate.com/publications",
-"https://votedrtate.com/the-politicians-creed",
-"https://votedrtate.com/translate"
+{
+"text": "About",
+"href": "https://www.votedrtate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votedrtate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.votedrtate.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedrtate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.votedrtate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votedrtate.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.votedrtate.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votedrtate.com/media"
+},
+{
+"text": "Media Stock",
+"href": "https://www.votedrtate.com/media-stock"
+},
+{
+"text": "Publications",
+"href": "https://www.votedrtate.com/publications"
+},
+{
+"text": "The Politicians Creed",
+"href": "https://www.votedrtate.com/the-politicians-creed"
+},
+{
+"text": "Translate",
+"href": "https://www.votedrtate.com/translate"
+},
+{
+"text": "[image]",
+"href": "https://www.votedrtate.com/home"
+},
+{
+"text": "[image]Home",
+"href": "https://www.votedrtate.com/home"
+},
+{
+"text": "translate.google.com",
+"href": "http://translate.google.com/"
+}
 ]

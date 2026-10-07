@@ -1,20 +1,78 @@
 [
-"https://al.com/",
-"https://al.com/news/2022/06/nobodys-going-to-come-greene-county-ambulance-woes-highlight-problems-in-rural-alabama.html",
-"https://al.com/news/2024/11/this-alabama-county-is-now-down-to-just-one-ambulance-its-cost-lives.html",
-"https://al.com/news/2026/07/alabama-county-suspends-ambulance-service-residents-told-to-expect-delayed-emergency-response.html",
-"https://al.com/news/2026/07/ambulances-running-again-in-rural-alabama-county-short-term-fixes-not-gonna-solve-it.html",
-"https://al.com/news/2026/07/congresswoman-files-bill-to-solve-alabamas-rural-ambulance-crisis.html",
-"https://congress.gov/bill/119th-congress/house-bill/9970/text",
-"https://digitalcommons.usm.maine.edu/cgi/viewcontent.cgi?article=1013&context=ems",
-"https://facebook.com/sewell4congress",
-"https://instagram.com/sewell4congress",
-"https://secure.actblue.com/donate/website-23",
-"https://sewellforcongress.com/",
-"https://sewellforcongress.com/about-terri",
-"https://sewellforcongress.com/issues",
-"https://sewellforcongress.com/news-listing",
-"https://sewellforcongress.com/photos",
-"https://sewellforcongress.com/privacy-policy",
-"https://twitter.com/sewell4congress"
+{
+"text": "AL.com",
+"href": "https://www.al.com/"
+},
+{
+"text": "About Terri",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "About Terri Sewell",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/website-23"
+},
+{
+"text": "Issues",
+"href": "https://sewellforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://sewellforcongress.com/news-listing/"
+},
+{
+"text": "Photos",
+"href": "https://sewellforcongress.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sewellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: logo-header]",
+"href": "https://sewellforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sewell4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sewell4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sewell4congress/"
+},
+{
+"text": "a “critical lack of funding” had prevented them from maintaining their ambulances.",
+"href": "https://www.al.com/news/2026/07/alabama-county-suspends-ambulance-service-residents-told-to-expect-delayed-emergency-response.html"
+},
+{
+"text": "according to a 2023 report by the Rural Health Research and Policy Centers.",
+"href": "https://digitalcommons.usm.maine.edu/cgi/viewcontent.cgi?article=1013&context=ems"
+},
+{
+"text": "are considered to be in an ‘ambulance desert,’",
+"href": "https://www.al.com/news/2024/11/this-alabama-county-is-now-down-to-just-one-ambulance-its-cost-lives.html"
+},
+{
+"text": "hospitals downsized or closed completely.",
+"href": "https://www.al.com/news/2022/06/nobodys-going-to-come-greene-county-ambulance-woes-highlight-problems-in-rural-alabama.html"
+},
+{
+"text": "https://www.al.com/news/2026/07/congresswoman-files-bill-to-solve-alabamas-rural-ambulance-crisis.html",
+"href": "https://www.al.com/news/2026/07/congresswoman-files-bill-to-solve-alabamas-rural-ambulance-crisis.html"
+},
+{
+"text": "secured money for two new ambulances from the state’s EMS office.",
+"href": "https://www.al.com/news/2026/07/ambulances-running-again-in-rural-alabama-county-short-term-fixes-not-gonna-solve-it.html"
+},
+{
+"text": "the Reimbursing Emergency Services for Critical Urgent Encounters (RESCUE) Act",
+"href": "https://www.congress.gov/bill/119th-congress/house-bill/9970/text"
+}
 ]

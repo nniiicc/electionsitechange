@@ -1,9 +1,38 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/winmitchellforme",
-"https://support.wix.com/en/article/creating-a-terms-and-conditions-policy",
-"https://winforsenate.com/",
-"https://winforsenate.com/accessibility-statement",
-"https://winforsenate.com/privacy-policy",
-"https://winforsenate.com/terms-and-conditions"
+{
+"text": "ABOUT",
+"href": "https://www.winforsenate.com"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.winforsenate.com/accessibility-statement"
+},
+{
+"text": "Creating a Terms and Conditions Policy",
+"href": "https://support.wix.com/en/article/creating-a-terms-and-conditions-policy"
+},
+{
+"text": "DONATE",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Edwin Mitchell for Senate",
+"href": "https://www.winforsenate.com"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/winmitchellforme"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.winforsenate.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.winforsenate.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.winforsenate.com"
+}
 ]

@@ -1,31 +1,130 @@
 [
-"https://ajforma.com/",
-"https://ajforma.com/events",
-"https://ajforma.com/get-involved",
-"https://ajforma.com/media",
-"https://ajforma.com/meet-andrea",
-"https://ajforma.com/platform",
-"https://ajforma.com/shop",
-"https://ajforma.com/voter-information",
-"https://axios.com/local/boston/2026/04/06/andrea-james-independent-governor-massachusetts-healey-dark-money-one-commonwealth-2026",
-"https://boston.com/news/politics/2026/03/17/after-serving-prison-time-andrea-james-became-a-leading-criminal-justice-advocate-now-shes-running-for-governor",
-"https://bostonglobe.com/2025/03/03/metro/massachusetts-governor-andrea-james-maura-healey-democrat",
-"https://bsky.app/profile/andreaforgovernor.bsky.social",
-"https://facebook.com/andreaforgovernor",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2FB8aftXqgkeY",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2FbOkWI1M1Kxo",
-"https://instagram.com/andreaforgovernor",
-"https://podbean.com/media/share/pb-tbabz-1a86f2d",
-"https://solidarity.tech/",
-"https://thenation.com/article/archive/these-women-spent-years-behind-bars-now-theyre-demanding-a-voice-in-the-criminal-justice-conversation",
-"https://tiktok.com/@ajforma",
-"https://time.com/4948746/prison-sentence-justice-reform",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fyoutu.be%2FB8aftXqgkeY",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fyoutu.be%2FbOkWI1M1Kxo",
-"https://umassmedia.com/40569/news/umass-boston-alum-andrea-james-runs-for-massachusetts-governor",
-"https://vineyardgazette.com/news/2026/05/06/independent-governor-candidate-makes-vineyard-campaign-stop",
-"https://wbur.org/news/2026/01/05/criminal-justice-advocate-andrea-james-plans-independent-gubernatorial-run",
-"https://wgbh.org/news/local/2020-08-04/activists-confront-markey-kennedy-on-criminal-justice-issues-in-virtual-forum",
-"https://x.com/ajforma",
-"https://youtube.com/live/hdgUEl5ug9A?si=fXave4_v2KbDykRn&t=2223"
+{
+"text": "Events",
+"href": "https://www.ajforma.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ajforma.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.ajforma.com/platform"
+},
+{
+"text": "Media and Contact",
+"href": "https://www.ajforma.com/media"
+},
+{
+"text": "Meet Andrea",
+"href": "https://www.ajforma.com/meet-andrea"
+},
+{
+"text": "Shop",
+"href": "https://www.ajforma.com/shop"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "Voter Information",
+"href": "https://www.ajforma.com/voter-information"
+},
+{
+"text": "[image: 2 Years In Prison Inspired Me to Fight for Justice Reform] 2 Years In Prison Inspired Me to Fight for Justice Reform",
+"href": "https://time.com/4948746/prison-sentence-justice-reform/"
+},
+{
+"text": "[image: 7th generation Roxbury native, multi-faceted independent governor candidate, Ms. Andrea C. James.] 7th generation Roxbury native, multi-faceted independent governor candidate, Ms. Andrea C. James.",
+"href": "https://www.podbean.com/media/share/pb-tbabz-1a86f2d"
+},
+{
+"text": "[image: Activists Confront Markey, Kennedy On Criminal Justice Issues In Virtual Forum] Activists Confront Markey, Kennedy On Criminal Justice Issues In Virtual Forum",
+"href": "https://www.wgbh.org/news/local/2020-08-04/activists-confront-markey-kennedy-on-criminal-justice-issues-in-virtual-forum"
+},
+{
+"text": "[image: Andrea James became a leading criminal justice advocate. Now she’s running for governor.] Andrea James became a leading criminal justice advocate. Now she’s running for governor.",
+"href": "https://www.boston.com/news/politics/2026/03/17/after-serving-prison-time-andrea-james-became-a-leading-criminal-justice-advocate-now-shes-running-for-governor/"
+},
+{
+"text": "[image: Andrea James for Governor]",
+"href": "https://www.ajforma.com/"
+},
+{
+"text": "[image: Andrea James goes after Healey's \"dark money\" groups] Andrea James goes after Healey's \"dark money\" groups",
+"href": "https://www.axios.com/local/boston/2026/04/06/andrea-james-independent-governor-massachusetts-healey-dark-money-one-commonwealth-2026"
+},
+{
+"text": "[image: Andrea James joined Spark FM Boston to discuss] Andrea James joined Spark FM Boston to discuss",
+"href": "https://www.youtube.com/live/hdgUEl5ug9A?si=fXave4_v2KbDykRn&t=2223"
+},
+{
+"text": "[image: Andrea James, UMass Boston alum, campaigns for Massachusetts governor] Andrea James, UMass Boston alum, campaigns for Massachusetts governor",
+"href": "https://umassmedia.com/40569/news/umass-boston-alum-andrea-james-runs-for-massachusetts-governor/"
+},
+{
+"text": "[image: Andrea James, criminal justice advocate, files for potential primary challenge of Governor Healey] Andrea James, criminal justice advocate, files for potential primary challenge of Governor Healey",
+"href": "https://www.bostonglobe.com/2025/03/03/metro/massachusetts-governor-andrea-james-maura-healey-democrat/"
+},
+{
+"text": "[image: Criminal justice advocate Andrea James plans independent gubernatorial run] Criminal justice advocate Andrea James plans independent gubernatorial run",
+"href": "https://www.wbur.org/news/2026/01/05/criminal-justice-advocate-andrea-james-plans-independent-gubernatorial-run"
+},
+{
+"text": "[image: Independent Governor Candidate Makes Vineyard Campaign Stop] Independent Governor Candidate Makes Vineyard Campaign Stop",
+"href": "https://vineyardgazette.com/news/2026/05/06/independent-governor-candidate-makes-vineyard-campaign-stop#comment-760851"
+},
+{
+"text": "[image: These Women Are Demanding a Voice in the Criminal Justice Conversation] These Women Are Demanding a Voice in the Criminal Justice Conversation",
+"href": "https://www.thenation.com/article/archive/these-women-spent-years-behind-bars-now-theyre-demanding-a-voice-in-the-criminal-justice-conversation/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/andreaforgovernor.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fyoutu.be%2FB8aftXqgkeY"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fyoutu.be%2FbOkWI1M1Kxo"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/andreaforgovernor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2FB8aftXqgkeY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2FbOkWI1M1Kxo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andreaforgovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ajforma"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ajforma"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Check+this+out&body=https%3A%2F%2Fyoutu.be%2FB8aftXqgkeY"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Check+this+out&body=https%3A%2F%2Fyoutu.be%2FbOkWI1M1Kxo"
+}
 ]

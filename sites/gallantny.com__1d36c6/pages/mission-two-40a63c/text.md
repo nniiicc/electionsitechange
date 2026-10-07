@@ -1,8 +1,4 @@
-Mission Two: Prepare Long Island for the Future
-Mission Two: Prepare Long Island for the Future
-A) Future Superstorms: Fortify Long Island
-Objective:
-October 2012.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Mission Two: Prepare Long Island for the Future​ Mission Two: Prepare Long Island for the Future​ A) Future Superstorms: Fortify Long Island Objective: October 2012.
 Most Long Islanders don’t need to be reminded of what Superstorm Sandy took from them.
 Homes destroyed, neighborhoods underwater, and businesses wiped out overnight.
 Thousands of families were without power for days; many for weeks.
@@ -20,33 +16,11 @@ Chris Gallant is a Black Hawk pilot, air traffic controller, and firefighter.
 He understands that you don’t wait for the emergency to prepare for it.
 You build the systems, train the teams, and secure the resources before the alarm sounds because once it does, it’s too late to start.
 In Congress, Chris will fight to make sure Long Island is never caught unprepared again.
-Congressional Action Plan
-- Secure Army Corps of Engineers funding for coastal protection including beach replenishment, dune restoration, shoreline stabilization, and erosion control along Suffolk County’s most vulnerable stretches
-- Fight for FEMA resilience and hazard mitigation grants so local governments can invest in preparation, not just recovery
-- Harden Long Island’s electric grid so a major storm doesn’t leave families, seniors, and small businesses without power for days
-- Expand flood mitigation and drainage improvements in communities that flood repeatedly because repetitive flooding is a solvable infrastructure problem
-- Push for federal wastewater and stormwater investments to reduce flooding, protect drinking water, and keep pollution out of our bays, harbors, and aquifers
-- Strengthen coordination between federal, state, county, and local agencies on evacuation planning, emergency communications, and disaster response
-- Make sure homeowners, renters, and small businesses can access fair and timely disaster recovery assistance and not months of paperwork after they’ve already lost everything
-- Support resiliency investments for coastal downtowns, marinas, beaches, farms, and tourism businesses that are the economic backbone of eastern Suffolk County
-Mission Success Metrics:
-✅ Reduced flooding in vulnerable neighborhoods
-✅ Faster storm recovery for families and small businesses
-✅ Stronger coastal protections across Suffolk County
-✅ A more reliable electric grid during extreme weather
-✅ Improved drainage, wastewater, and stormwater systems
-✅ Better protection for beaches, bays, harbors, and aquifers
-✅ More federal funding returned to Long Island communities
-✅ Local governments better equipped before disaster strikes
-✅ A safer, stronger, and more resilient Long Island for future generations
-Chris Gallant’s Commitment:
-Long Island families should never have to wonder if Washington will show up after a disaster.
+Congressional Action Plan Secure Army Corps of Engineers funding for coastal protection including beach replenishment, dune restoration, shoreline stabilization, and erosion control along Suffolk County’s most vulnerable stretches Fight for FEMA resilience and hazard mitigation grants so local governments can invest in preparation, not just recovery Harden Long Island’s electric grid so a major storm doesn’t leave families, seniors, and small businesses without power for days Expand flood mitigation and drainage improvements in communities that flood repeatedly because repetitive flooding is a solvable infrastructure problem Push for federal wastewater and stormwater investments to reduce flooding, protect drinking water, and keep pollution out of our bays, harbors, and aquifers Strengthen coordination between federal, state, county, and local agencies on evacuation planning, emergency communications, and disaster response Make sure homeowners, renters, and small businesses can access fair and timely disaster recovery assistance and not months of paperwork after they’ve already lost everything Support resiliency investments for coastal downtowns, marinas, beaches, farms, and tourism businesses that are the economic backbone of eastern Suffolk County Mission Success Metrics: ✅ Reduced flooding in vulnerable neighborhoods ✅ Faster storm recovery for families and small businesses ✅ Stronger coastal protections across Suffolk County ✅ A more reliable electric grid during extreme weather ✅ Improved drainage, wastewater, and stormwater systems ✅ Better protection for beaches, bays, harbors, and aquifers ✅ More federal funding returned to Long Island communities ✅ Local governments better equipped before disaster strikes ✅ A safer, stronger, and more resilient Long Island for future generations Chris Gallant’s Commitment: Long Island families should never have to wonder if Washington will show up after a disaster.
 Chris Gallant will fight to make sure Suffolk County has the resources, infrastructure, and emergency planning needed to protect our homes, our coastline, our environment, and our way of life.
 Hurricane Sandy taught us what is at stake.
 We won’t get to learn that lesson twice.
-B) Built To Last: Modernize Critical Infrastructure
-Objective:
-Fix what’s broken, build what’s needed, and make sure Long Island’s roads, bridges, water systems, and communications infrastructure reflect what Suffolk County taxpayers actually pay into.
+B) Built To Last: Modernize Critical Infrastructure Objective: Fix what’s broken, build what’s needed, and make sure Long Island’s roads, bridges, water systems, and communications infrastructure reflect what Suffolk County taxpayers actually pay into.
 Starting now.
 Long Islanders pay some of the highest property taxes in the country.
 In return, they’re dodging potholes, dealing with water they’re not sure is clean, sitting in traffic on roads built for a different era, and in some parts of the district, still waiting for reliable internet access.
@@ -59,27 +33,20 @@ It’s the kid trying to do homework on an internet connection that cuts out.
 It’s the commute that adds an hour to your day because roads and transit haven’t kept pace with the population they’re supposed to serve.
 Chris Gallant has spent his career operating in high-stakes environments where failing infrastructure isn’t an inconvenience, it’s a mission failure.
 In Congress, he’ll bring that same standard to Suffolk County.
-Congressional Action Plan:
-- Secure federal transportation grants to repair crumbling roads, fill dangerous potholes, and improve road safety across Suffolk County.
-- Support road and bridge repair funding so local communities are not left to shoulder the cost of long-overdue infrastructure upgrades alone.
-- Expand federal funding for drainage improvements to reduce flooding, protect neighborhoods, and prevent roadways from becoming unsafe during heavy rain and storms.
-- Fight for wastewater infrastructure programs that help modernize outdated systems and protect Long Island’s drinking water, bays, harbors, and beaches.
-- Support the transition away from aging septic systems and cesspools by securing funding for modern wastewater solutions, nitrogen-reducing technology, and local sewer expansion where appropriate.
-- Bring broadband funding to underserved areas so every family, student, small business, and worker has access to reliable internet.
-- Improve transportation connections across Suffolk County to reduce congestion, support commuters, strengthen local businesses, and make it easier for residents to get where they need to go.
-- Invest in resilient infrastructure that can withstand future storms, flooding, and extreme weather events.
-- Ensure Suffolk County receives its fair share of federal infrastructure dollars instead of being overlooked while Long Islanders continue paying more.
-Mission Success Metrics:
-Safer roads with fewer potholes and long-overdue repairs
-Stronger bridges and transportation infrastructure
-Improved drainage and reduce flooding in vulnerable areas
-Cleaner waterways, bays, haerbors, beaches, and aquifers
-Modernized wastewater systems and reduced nitrogen pollution
-Fewer outdated septic systems and cesspools threatening water quality
-Better broadband access for families, students, and businesses
-Stronger federal infrastructure investments returned to Suffolk County
-A safer, cleaner, and more reliable Long Island for future generations
-Chris Gallant’s Commitment:
-Long Islanders should not have to pay the highest taxes in the country just so they can dodge potholes, worry about contaminated waterways, or watch their tax dollars leave the region without seeing results at home.
+Congressional Action Plan: Secure federal transportation grants to repair crumbling roads, fill dangerous potholes, and improve road safety across Suffolk County.
+Support road and bridge repair funding so local communities are not left to shoulder the cost of long-overdue infrastructure upgrades alone.
+Expand federal funding for drainage improvements to reduce flooding, protect neighborhoods, and prevent roadways from becoming unsafe during heavy rain and storms.
+Fight for wastewater infrastructure programs that help modernize outdated systems and protect Long Island’s drinking water, bays, harbors, and beaches.
+Support the transition away from aging septic systems and cesspools by securing funding for modern wastewater solutions, nitrogen-reducing technology, and local sewer expansion where appropriate.
+Bring broadband funding to underserved areas so every family, student, small business, and worker has access to reliable internet.
+Improve transportation connections across Suffolk County to reduce congestion, support commuters, strengthen local businesses, and make it easier for residents to get where they need to go.
+Invest in resilient infrastructure that can withstand future storms, flooding, and extreme weather events.
+Ensure Suffolk County receives its fair share of federal infrastructure dollars instead of being overlooked while Long Islanders continue paying more.
+Mission Success Metrics: Safer roads with fewer potholes and long-overdue repairs Stronger bridges and transportation infrastructure Improved drainage and reduce flooding in vulnerable areas Cleaner waterways, bays, haerbors, beaches, and aquifers Modernized wastewater systems and reduced nitrogen pollution Fewer outdated septic systems and cesspools threatening water quality Better broadband access for families, students, and businesses Stronger federal infrastructure investments returned to Suffolk County A safer, cleaner, and more reliable Long Island for future generations Chris Gallant’s Commitment: Long Islanders should not have to pay the highest taxes in the country just so they can dodge potholes, worry about contaminated waterways, or watch their tax dollars leave the region without seeing results at home.
 Chris Gallant will fight to bring federal infrastructure funding back to Suffolk County so we can fix our roads, modernize wastewater systems, protect our environment, and build communities that are safer, cleaner, and stronger for the next generation.
 “Built to Last” means built for people who live here.
+This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

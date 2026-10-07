@@ -1,10 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61577073056921",
-"https://jimavery.com/",
-"https://jimavery.com/cart",
-"https://jimavery.com/meet-jim",
-"https://jimavery.com/platform",
-"https://jimavery.com/privacy-policy",
-"https://secure.anedot.com/avery-for-senate/donate",
-"https://x.com/averyforsenate"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/avery-for-senate/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/avery-for-senate/donate"
+},
+{
+"text": "$2,400",
+"href": "https://secure.anedot.com/avery-for-senate/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/avery-for-senate/donate"
+},
+{
+"text": "0",
+"href": "https://www.jimavery.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/avery-for-senate/donate"
+},
+{
+"text": "HERE",
+"href": "https://www.jimavery.com/privacy-policy"
+},
+{
+"text": "Home",
+"href": "https://www.jimavery.com/"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.jimavery.com/meet-jim"
+},
+{
+"text": "Platform",
+"href": "https://www.jimavery.com/platform"
+},
+{
+"text": "[image: Avery for State Senate]",
+"href": "https://www.jimavery.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577073056921"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/averyforsenate"
+}
 ]

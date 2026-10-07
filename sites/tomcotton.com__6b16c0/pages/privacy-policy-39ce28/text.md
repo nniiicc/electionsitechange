@@ -1,4 +1,5 @@
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+Skip to content ★ Endorsed by Gov.
+Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Privacy Policy For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
 With respect to cookies: We use cookies.
@@ -21,16 +22,12 @@ WE DO NOT SELL, SHARE, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT
 We will not provide site visitors with access to anyone’s information we have collected and maintain.
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 Consumers can have this information corrected by sending us e-mail at the above address.
-3rd Party Advertising Cookies Opt-Out
-Cotton for Senate is dedicated to providing privacy on the Internet.
-In addition to developing our privacy policy, we have provided you the opportunity to opt out of future 3rd party advertising cookies.
 Cotton for Senate allows third parties to place cookies on our site for advertising purposes.
 This Online Privacy Statement does not cover the collection methods or use of the information collected by these vendors.
 These vendors have their own privacy policies and may be members of the Network Advertising Initiative (“NAI”).
 To remove yourself from some or all NAI member advertising programs, please visit the NAI Opt-Out Page and follow the relevant instructions.
 Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
-SMS Terms of Service
-Go to https://www.tomcotton.com/ to sign up to receive fundraising solicitations and campaign notifications from Cotton for Senate, by registering your mobile number with us.
+SMS Terms of Service Go to https://www.tomcotton.com/ to sign up to receive fundraising solicitations and campaign notifications from Cotton for Senate, by registering your mobile number with us.
 After signing up, you will receive a text message from us on your mobile number.
 Message frequency may vary.
 Msg&Data Rates may apply.
@@ -40,3 +37,13 @@ Carriers are not liable for delayed or undelivered messages.
 Text messaging originator opt-in data and consent will not be shared with any third parties.
 To discontinue receiving SMS messages from Cotton for Senate, text STOP to any of our messages.
 For additional help, text HELP or contact info@tomcotton.com.
+We depend on you Stand with Tom.
+Stand with Arkansas.
+Your support helps Tom share our message and grow the team supporting it.
+Chip in any amount today. $4.49 $15 $50 Other Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.
+If you need help from his official Senate office, please click here .
+Paid for by Cotton for Senate.
+Senator Cotton was honorably discharged from the U.S.
+Army.
+Images do not imply endorsement by the Department of Defense or any Service Branch. © Copyright # Cotton for Senate.
+All Rights Reserved.

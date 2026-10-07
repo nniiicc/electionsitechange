@@ -1,4 +1,2 @@
-We must protect:
-- The right for all people to vote
-- The right to bear arms
-- The right to be treated equally under the law regardless of race, gender, age, religion, and income status.
+Meet Mark Issues News Volunteer Contribute Home ❭ Issues ❭ Individual Rights Individual Rights We must protect: - The right for all people to vote - The right to bear arms - The right to be treated equally under the law regardless of race, gender, age, religion, and income status.
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

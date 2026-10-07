@@ -1,4 +1,4 @@
-This is my mom Cornelia, best known as Connie.
+Home About Platform Media News Posts Volunteer Yard Signs Contact Follow Contribute Follow Home About Platform Media News Posts Volunteer Yard Signs Contact My Mom Connie, My Constant May 12, 2024 This is my mom Cornelia, best known as Connie.
 I still miss her every day.
 “Unwavering” describes my mother.
 She was steadfast in her faith, her principles, her loyalty, and her love.
@@ -20,6 +20,8 @@ As I ponder what she would think of this new endeavor, in running for Senate, I 
 I will do my best to carry on her legacy of unwavering faith, loyalty, hard work, and support.
 I humbly ask for your vote on June 4th as I lean on prayer, you the people, and my principles.
 I’m thinking of my mom today as we celebrate the blessing of mothers.
-I’m also thankful for the blessing of my mother-in-law Eldon N Tina Hohn.
+I’m also thankful for the blessing of my mother-in-law Eldon N Tina Hohn .
 Thank you for the love, support, and the wonderful son you raised, my now constant.
 Happy Mother’s Day!
+Click image to download file.
+Download Bio Search Search Recent Posts State Senator Joy Hohn Wins Re-Election to Second Term Mud Pie Memories and A Mom’s Motivation A Mother’s Journey of Hope & Resilience Flight Captain & Cart Driver Let’s Bring Back Balance Contact Information for Media: [email protected] (605) 212-9256 Integrity • Trust • Tenacity Follow Contribute Subscribe Δ Subscribe Paid for by Friends of Joy Hohn Privacy Policy

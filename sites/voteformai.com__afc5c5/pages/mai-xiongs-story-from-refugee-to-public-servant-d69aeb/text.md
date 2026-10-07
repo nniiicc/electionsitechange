@@ -1,5 +1,4 @@
-Hello, I’m Mai Xiong
-My late father, Vang Shoua Xiong, and mother, Der Vang, were born and raised in Laos.
+Skip to content Meet Mai Images/Media Merch Request a Yard Sign DONATE DONATE Main Menu Meet Mai Images/Media Merch Request a Yard Sign Hello, I’m Mai Xiong My late father, Vang Shoua Xiong, and mother, Der Vang, were born and raised in Laos.
 The CIA recruited my father when he was 17 to aid American soldiers during the Vietnam War.
 After the war, my parents fled to avoid persecution.
 In 1984, I was born in the Ban Vinai Refugee Camp in Thailand.
@@ -19,8 +18,9 @@ We are fortunate to live in Warren, as it provides a positive environment for ou
 We are forever grateful to our parents and to those who work to protect it.
 By 2020, I was at a point where I could give back to the community that had given me and my family so much.
 When I saw that my four children didn’t have leaders in office who looked like them, I knew I had to step up.
-I’m grateful to have been able to run for office, and to have been elected by the residents of Warren to serve as the first Asian-American and former refugee on the Macomb County Board of Commissioners.
+I’m grateful to have been able to run for office, and to have been elected by the residents of Warren to serve as the first Asian-American and former refugee on the Macomb County Board of Commissioners .
 I am overjoyed at the opportunity to help so many of our residents in my role.
 I believe government should work for every citizen –and we must keep fighting to protect it!
 Now, I’m running for re-election in Michigan’s 13th House District to build on the progress that’s been made in our state!
-I hope to earn your vote, on or before November 4, 2026!
+I hope to earn your vote, on or before November 4, 2026! mai@voteformai.com Copyright © # Paid for by Friends of Mai Xiong, P.O.
+Box 5385, Warren, MI 48090 Review My Order 0 Remove Use setting Suggested for you Subtotal Taxes & shipping calculated at checkout Checkout 0 Notifications

@@ -1,5 +1,4 @@
-How Texas School Vouchers Finally Passed After Decades of Failure
-The first time Texas lawmakers tried to pass a school voucher bill, it was 1957.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate How Texas School Vouchers Finally Passed After Decades of Failure Education Policy Apr 27 Written By Angie The first time Texas lawmakers tried to pass a school voucher bill, it was 1957.
 The Texas House had just voted in favor of tuition grants for private schools, one piece of a larger slate of legislation designed to resist the Supreme Court's ruling in Brown v.
 Board of Education.
 The Texas Senate killed it with a filibuster before it could become law.
@@ -42,3 +41,6 @@ So, he bullied for them and he bought them.
 With his massive war chest, he shaped the legislature to move SB2 into law.
 The votes that passed this bill in 2025 were not the same votes that blocked it in 2023.
 And that’s worth keeping in mind as we examine what the program actually does in our next post.
+Texas school vouchers TEFA Texas Education Freedom Accounts public education Angie Previous Previous How Texas Education Freedom Accounts Actually Work Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

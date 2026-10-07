@@ -1,5 +1,4 @@
-- October 3, 2024
-My opponent, Paul Frost, boasts a 100% voting attendance record.
+TerryBurkeDotson.com Terry Burke Dotson running for State Representative Author Archives: terryburkedotson.com Dotson challenges Paul Frost (R-Auburn) for 7th Worcester District state representative seat November 1, 2024 / terryburkedotson.com October 3, 2024 My opponent, Paul Frost, boasts a 100% voting attendance record.
 This means he shows up about 25 times a year for roll call to cast about 10 votes!
 Frost voted for sex change operations for minors without parental consent.
 I have a 100% attendance record serving 33 years with honor in the military reserve through deployment at Bagram AFB in Afghanistan, in the Army National Guard, Air Force Reserve, Navy Reserve, and Marine Corps.
@@ -9,21 +8,13 @@ My daughter is a Doctor of Physical Therapy in a local hospital.
 I was a military instructor/trainer, and full-time public-school teacher.
 In my last five years, I worked with high school students having learning challenges.
 I’ve served on Millbury’s Planning Board, Local Housing Partnership, Ponds and Lakes, and Master Plan Committees.
-I support:
-- Law and order
-- Detainment of those arrested until court hearing
-- Full police funding
-- Second amendment
-- Different drivers’ licenses for non-citizens
-- No voting for non-citizens
-- Voting reform
-- Reduced and frozen real estate taxes for senior citizens and disabled veterans
-- Reduced student loan interest rates
-- No free public education for non-citizens after 12th grade
-- Affordable housing using town assets
-As an Independent candidate, I will not accept money from any person or organization.
+I support: Law and order Detainment of those arrested until court hearing Full police funding Second amendment Different drivers’ licenses for non-citizens No voting for non-citizens Voting reform Reduced and frozen real estate taxes for senior citizens and disabled veterans Reduced student loan interest rates No free public education for non-citizens after 12th grade Affordable housing using town assets As an Independent candidate, I will not accept money from any person or organization.
 Want to help me?
-DO SOMETHING!
+D O SOMETHING!
 Ask 10 people to vote for me.
-Terry Burke Dotson
-Millbury
+Terry Burke Dotson Millbury terryburkedotson.com / Frost voted for sex change operations for minors without parental consent November 1, 2024 / terryburkedotson.com FILED ON: 6/2/2022 HOUSE . . . . . . . . . . . . . . .
+No.4954 House bill No.
+4930, as changed by the committee on Bills in the Third Reading, and as amended and passed to be engrossed, by the House.
+June 29, 2022. “ Gender-affirming health care services”, all supplies, care and services of a medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic, preventative, rehabilitative or supportive nature relating to the treatment of gender dysphoria. “ Legally-protected health care activity”, (i) the exercise and enjoyment, or attempted exercise and enjoyment, by any person of rights to reproductive health care services or gender- affirming health care services secured by the constitution or laws of the commonwealth; (1)(a) Upon recommendation of an application assistant , an adult person, a parent or guardian acting on behalf of a minor , or a guardian acting on behalf of an incapacitated person may apply to the secretary to have an address designated by the secretary serve as the person’s address or the address of the minor or incapacitated person; or (b) Individuals engaged in the provision, facilitation or promotion of legally-protected health care activity may apply to the secretary to have an address designated by the secretary serve as the health care professional’s address ; provided, that in such cases, no recommendation of an application assistant shall be required .
+Terry Burke DOTSON Opposes Sex Changes WITHOUT Parental Consent Gender-affirming “ MINORS ” have Legally-protected “ RIGHTS ” to ALL supplies, care and services related to the treatment of gender dysphoria or dissatisfaction…including those… ” WITHOUT PARENTAL CONSENT ” “ MINORS ” can even be given a “ DIFFERENT ADDRESS ” designated by the secretary.
+I believe in “ PARENTS’ RIGHTS ”…not Commonwealth’s control. terryburkedotson.com / Auburn News October 13, 2022 / terryburkedotson.com September 2nd, Auburn News Archive PDF terryburkedotson.com / Postcard September 23, 2022 / terryburkedotson.com Click Here for Terry Burke Dotson’s 2022 postcard terryburkedotson.com / Terry Burke Dotson and Paul Frost Respond to Voter Questions October 22, 2020 / terryburkedotson.com Zoom Virtual Meeting with Oxford Residents for Diversity and Equity Virtual Voter Education Night October 17, 2020 Click Here to View Video terryburkedotson.com / Pages About Contact News Photos Video Terry Burke Dotson running for State Representative © Terry Burke Dotson

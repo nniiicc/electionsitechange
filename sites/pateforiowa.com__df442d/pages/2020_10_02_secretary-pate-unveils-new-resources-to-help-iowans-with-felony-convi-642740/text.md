@@ -1,5 +1,10 @@
-DES MOINES, Iowa (KCRG) – Iowa Secretary of State Paul Pate has announced new resources to assist individuals with past felony convictions who have had their voting rights restored.
+Home Meet Paul Get Involved News Contact Donate Home News Secretary Pate unveils new resources to help Iowans with felony convictions understand voting process Home News Secretary Pate unveils new resources to help Iowans with felony convictions understand voting process Secretary Pate unveils new resources to help Iowans with felony convictions understand voting process By wordpress@victoryenterprises.com | October 2, 2020 | News | No Comments DES MOINES, Iowa (KCRG) – Iowa Secretary of State Paul Pate has announced new resources to assist individuals with past felony convictions who have had their voting rights restored.
 Pate’s office designed a new voter registration form that was unanimously approved by the state’s bipartisan Voter Registration Commission on Friday.
 The new form clarifies that Iowans with felony convictions can register to vote once their rights are restored by the Governor, including by Executive Order.
 The old form remains valid for voter registration.
-Continue reading here: https://www.kcrg.com/2020/10/02/secretary-pate-unveils-new-resources-to-help-iowans-with-felony-convictions-understand-voting-process/
+Continue reading here: https://www.kcrg.com/2020/10/02/secretary-pate-unveils-new-resources-to-help-iowans-with-felony-convictions-understand-voting-process/ Leave a comment Cancel reply Save my name, email, and website in this browser for the next time I comment.
+Paul Pate, a nationally recognized small business leader, is serving his third term as Iowa's Secretary of State.
+Pate followed through on his 2014 campaign promises by making it easier for overseas military members to vote, instituting online voter registration, implementing a Safe at Home program for survivors of violence, and bringing Voter ID to Iowa.
+Pate has succeeded in making it easy to vote, but hard to cheat.
+Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State Contact Information Address: 300 Walnut St.
+#79 Des Moines, Iowa 50309 Email: Info@PateForIowa.com PAID FOR BY PATE FOR IOWA Copyright # All Rights Reserved

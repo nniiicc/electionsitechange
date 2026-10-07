@@ -1,20 +1,90 @@
 [
-"https://careyforcongress.com/",
-"https://careyforcongress.com/faq",
-"https://careyforcongress.com/meet-mike-carey",
-"https://careyforcongress.com/news",
-"https://careyforcongress.com/priorities",
-"https://careyforcongress.com/privacy-policy",
-"https://careyforcongress.com/values-worth-fighting-for",
-"https://careyforcongress.com/volunteer",
-"https://cdn.prod.website-files.com/626a8a70c7321a52ae2509c9/6ab5a58550fae5bf8090131a_Mike%20Carey%20for%20Congress.zip",
-"https://facebook.com/CareyforCongress",
-"https://secure.winred.com/carey-for-congress/website",
-"https://secure.winred.com/carey-for-congress/website?amount=100",
-"https://secure.winred.com/carey-for-congress/website?amount=1000",
-"https://secure.winred.com/carey-for-congress/website?amount=25",
-"https://secure.winred.com/carey-for-congress/website?amount=250",
-"https://secure.winred.com/carey-for-congress/website?amount=50",
-"https://twitter.com/MikeCareyOH15",
-"https://youtube.com/channel/UCrLxMnO7lGC66fHNvPphSGw"
+{
+"text": "$100",
+"href": "https://secure.winred.com/carey-for-congress/website?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/carey-for-congress/website?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/carey-for-congress/website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/carey-for-congress/website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/carey-for-congress/website?amount=50"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/carey-for-congress/website"
+},
+{
+"text": "FAQ",
+"href": "https://www.careyforcongress.com/faq"
+},
+{
+"text": "Home",
+"href": "https://www.careyforcongress.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.careyforcongress.com/meet-mike-carey"
+},
+{
+"text": "More Information",
+"href": "https://cdn.prod.website-files.com/626a8a70c7321a52ae2509c9/6ab5a58550fae5bf8090131a_Mike%20Carey%20for%20Congress.zip"
+},
+{
+"text": "News",
+"href": "https://www.careyforcongress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/carey-for-congress/website"
+},
+{
+"text": "Priorities",
+"href": "https://www.careyforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.careyforcongress.com/privacy-policy"
+},
+{
+"text": "Values",
+"href": "https://www.careyforcongress.com/values-worth-fighting-for"
+},
+{
+"text": "Volunteer",
+"href": "https://www.careyforcongress.com/volunteer"
+},
+{
+"text": "Win@CareyForCongress.com",
+"href": "mailto:Win@CareyForCongress.com"
+},
+{
+"text": "[image]",
+"href": "https://www.careyforcongress.com/"
+},
+{
+"text": "[image]Back to News",
+"href": "https://www.careyforcongress.com/news"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MikeCareyOH15"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CareyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrLxMnO7lGC66fHNvPphSGw"
+}
 ]

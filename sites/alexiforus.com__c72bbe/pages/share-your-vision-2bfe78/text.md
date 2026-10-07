@@ -1,3 +1,3 @@
-Share Your Vision Alexi would love to hear from you.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Share Your Vision Alexi would love to hear from you.
 Share your vision for our great State of Illinois.
-First Name Last Name Email Message Share
+First Name Last Name Email Message Share Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

@@ -1,22 +1,86 @@
 [
-"http://rgj.com/story/news/education/2015/05/29/nv-legislature-approves-private-school-vouchers/28190165",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/bruce-rauner",
-"https://ilikereick.com/tag/education-funding",
-"https://ilikereick.com/tag/general-assembly",
-"https://ilikereick.com/tag/john-cullerton",
-"https://ilikereick.com/tag/michael-madigan",
-"https://ilikereick.com/tag/property-taxes",
-"https://ilikereick.com/tag/public-pensions",
-"https://ilikereick.com/tag/turnaround-agenda",
-"https://ilikereick.com/the-governors-sots-speech-what-he-said-and-what-he-didnt-say",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Bruce Rauner",
+"href": "https://ilikereick.com/tag/bruce-rauner/"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/the-governors-sots-speech-what-he-said-and-what-he-didnt-say/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Education Funding",
+"href": "https://ilikereick.com/tag/education-funding/"
+},
+{
+"text": "Educational Choice Scholarship Program",
+"href": "http://www.rgj.com/story/news/education/2015/05/29/nv-legislature-approves-private-school-vouchers/28190165/"
+},
+{
+"text": "General Assembly",
+"href": "https://ilikereick.com/tag/general-assembly/"
+},
+{
+"text": "John Cullerton",
+"href": "https://ilikereick.com/tag/john-cullerton/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Michael Madigan",
+"href": "https://ilikereick.com/tag/michael-madigan/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://ilikereick.com/tag/property-taxes/"
+},
+{
+"text": "Public Pensions",
+"href": "https://ilikereick.com/tag/public-pensions/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Turnaround Agenda",
+"href": "https://ilikereick.com/tag/turnaround-agenda/"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

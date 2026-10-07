@@ -1,12 +1,86 @@
 [
-"https://app.proximityimpact.com/event-registration-public/68/d1fcb567-84b1-4577-86cf-969d7f066c4a/453?name=Cherie-Vollmer",
-"https://app.proximityimpact.com/event-registration-public/68/d1fcb567-84b1-4577-86cf-969d7f066c4a/456?name=Cherie-Vollmer9",
-"https://app.proximityimpact.com/event-registration-public/73/d1fcb567-84b1-4577-86cf-969d7f066c4a/468?name=Cherie-Vollmer",
-"https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer",
-"https://app.proximityimpact.com/web-volunteer-form/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer",
-"https://facebook.com/profile.php?id=61582054072309",
-"https://instagram.com/cherieforidaho",
-"https://proximityimpact.com/",
-"https://voteidaho.gov/voter-registration",
-"https://votevollmer.com/"
+{
+"text": "$1,000",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$10",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$100",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$35",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$50",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$500",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "$750",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "Cherie Vollmer",
+"href": "https://votevollmer.com"
+},
+{
+"text": "Contribute",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "Donate",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "Other",
+"href": "https://app.proximityimpact.com/payment-donation/link/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/68/d1fcb567-84b1-4577-86cf-969d7f066c4a/453?name=Cherie-Vollmer"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/68/d1fcb567-84b1-4577-86cf-969d7f066c4a/456?name=Cherie-Vollmer9"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/73/d1fcb567-84b1-4577-86cf-969d7f066c4a/468?name=Cherie-Vollmer"
+},
+{
+"text": "Register to Vote",
+"href": "https://voteidaho.gov/voter-registration/"
+},
+{
+"text": "Volunteer",
+"href": "https://app.proximityimpact.com/web-volunteer-form/d1fcb567-84b1-4577-86cf-969d7f066c4a?name=Cherie-Vollmer"
+},
+{
+"text": "[image]",
+"href": "https://proximityimpact.com/"
+},
+{
+"text": "[image]",
+"href": "https://votevollmer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582054072309"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cherieforidaho/"
+},
+{
+"text": "votevollmer@gmail.com",
+"href": "mailto:vollmerforidaho@gmail.com"
+}
 ]

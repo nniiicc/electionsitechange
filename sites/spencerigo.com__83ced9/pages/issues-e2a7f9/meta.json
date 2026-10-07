@@ -1,7 +1,9 @@
 {
  "description": "Explore Minnesota campaign issues with Spencer Igo to foster community development and address vital Minnesota issues.",
  "final_url": "https://spencerigo.com/issues",
- "paid_for_by": null,
+ "fingerprint": "32932477a57b07cc74b36e5f6c2908c1f80ee496",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues",
  "years_mentioned": []
 }

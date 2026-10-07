@@ -1,5 +1,8 @@
-Mike Pohanka's Priorities for District 26
-Mike Pohanka is putting Idaho first—rooted in the same American Dream that brought his immigrant parents to this country and shaped his life of hard work, service, and gratitude.
+Home Who is Mike Pohanka?
+Idaho First How Can I Help?
+Donate Home Who is Mike Pohanka?
+Idaho First How Can I Help?
+Donate Mike Pohanka's Priorities for District 26 Mike Pohanka is putting Idaho first—rooted in the same American Dream that brought his immigrant parents to this country and shaped his life of hard work, service, and gratitude.
 From picking rocks on the family farm in Twin Falls to building a 30-year career at Idaho Power, teaching economics at the College of Southern Idaho for 23 years, raising a family of 10 grandchildren with his wife Susan, and serving as a reserve deputy and Idaho State Police chaplain, Mike has lived the values of strong faith, strong families, and strong communities.
 These are not just campaign slogans.
 They are the foundation of everything Mike fights for in the Idaho Legislature.
@@ -26,15 +29,12 @@ Ensuring District 26 and the Magic Valley receive equitable transportation fundi
 After 30 years at Idaho Power—working across rural and urban infrastructure needs—Mike knows how critical safe, well-maintained roads, bridges, and transportation systems are to families, farmers, and businesses.
 Now serving on the Transportation & Defense Committee, he is fighting for fair funding so our district isn’t overlooked.
 Mike believes local roads and infrastructure investments should reflect the real needs of Jerome, Lincoln, and Blaine counties, not just population centers.
-Public Safety
-World-Class Education
-Local Collaboration
-Transportation Investment
-Secure Water Rights
-These priorities are grounded in Mike’s personal story:
-A first-generation American who learned early that freedom, responsibility, and hard work create opportunity.
+Public Safety World-Class Education Local Collaboration Transportation Investment Secure Water Rights These priorities are grounded in Mike’s personal story: A first-generation American who learned early that freedom, responsibility, and hard work create opportunity.
 He is running for re-election to protect the Idaho he loves—the one that gave his family a chance and continues to reward those willing to work for it.
 Strong faith.
 Strong families.
 Strong communities.
 That’s the Idaho Mike Pohanka is fighting to preserve and strengthen for the next generation.
+Let's Socialize Submit Email Paid for by Pohanka for Idaho House © #.
+All rights reserved.
+Let's Keep in Touch

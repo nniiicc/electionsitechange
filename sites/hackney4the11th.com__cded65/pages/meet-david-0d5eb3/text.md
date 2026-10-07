@@ -1,10 +1,8 @@
-MEET DAVID
-My name is David Hackney, and I am seeking reelection for State Representative here in the 11th Legislative District because our district deserves a fighter.
+0 Skip to Content Meet David Priorities Endorsements Get Involved News & Media Contact DONATE Open Menu Close Menu Meet David Priorities Endorsements Get Involved News & Media Contact DONATE Open Menu Close Menu Meet David Priorities Endorsements Get Involved News & Media Contact DONATE MEET DAVID My name is David Hackney, and I am seeking reelection for State Representative here in the 11th Legislative District because our district deserves a fighter.
 By all accounts and purposes, I shouldn’t be in this race right now.
 In fact, my whole life has been shaped by opportunities that arose from difficult circumstances.
 My family’s history is this country’s history.
-My paternal grandfather George, was a Pullman Porter and a member of the Brotherhood of Sleeping Car Porters.
-(the first African-American union in the United States) As a result of the protection of his economic and civil rights by his union, he made the improbable journey from an impoverished agricultural worker to the Black middle class during the depression.
+My paternal grandfather George, was a Pullman Porter and a member of the Brotherhood of Sleeping Car Porters. (the first African-American union in the United States) As a result of the protection of his economic and civil rights by his union, he made the improbable journey from an impoverished agricultural worker to the Black middle class during the depression.
 My maternal grandfather John, was a sharecropper.
 He moved north during World War II as part of the great migration of African-Americans fleeing the Jim Crow south.
 He later joined the United Automobile Workers union, where he made tanks and later freight trucks for 37 years, without missing a day of scheduled work.
@@ -13,6 +11,8 @@ I was born in Cleveland, Ohio, the youngest of three.
 My father had a job that required us to move frequently.
 By the time I entered college, I had attended five different schools in three states.
 My family stayed just long enough to make friends and join the community, before we packed our bags and moved to the next city.
+THE EXPERIENCE WE NEED My background has allowed me to be an effective legislator on the issues that that matter most to our district - public safety, economic opportunity in rural and traditionally disadvantaged neighborhoods, climate protection , human rights , gun safety , and fair justice systems .
+I would be honored to continue using this experience in Olympia to fight for residents in the 11th District.
 Neither of my parents completed college, but they did everything in their power to make sure my siblings and I received a quality education.
 This meant moving to neighborhoods that they could barely afford to ensure my siblings and I went to good schools.
 At the time, I didn’t fully appreciate the sacrifices my parents were making and my grades suffered.
@@ -35,6 +35,8 @@ At the UN, I was a member of a trial team that convicted a detention camp comman
 After my time working for the UN and Justice Department, I spent several years working with companies to bring broadband to rural and economically disadvantaged communities.
 I then had the privilege of serving as the Senior Counsel for Global Human Resources at The Nature Conservancy, the largest Non-Profit organization in the world dedicated to preserving the environment.
 The last several years I have had the opportunity to devote myself even further to causes I believe in.
-In 2018, I joined the Boards of Tabor 100 and the Alliance for Gun Responsibility Foundation, where I advocate in the state of Washington on behalf of civil rights and responsible gun laws, respectively.
-In 2019, Governor Inslee appointed me as a Commissioner on the Washington Human Rights Commission, and then prior to being elected for the first time in 2020 I served as the Director of Legal Affairs and Human Resources for a start-up non-profit that is attempting to build the largest paid membership organization in the United States, dedicated to addressing income inequality.
-My life has been shaped by opportunities, and as your State Representative I will continue to work every day to ensure everyone has access to the same opportunities that will allow them to thrive.
+In 2018, I joined the Boards of Tabor 100 and the Alliance for Gun Responsibility Foundation , where I advocate in the state of Washington on behalf of civil rights and responsible gun laws, respectively.
+In 2019, Governor Inslee appointed me as a Commissioner on the Washington Human Rights Commission , and then prior to being elected for the first time in 2020 I served as the Director of Legal Affairs and Human Resources for a start-up non-profit that is attempting to build the largest paid membership organization in the United States, dedicated to addressing income inequality.
+My life has been shaped by opportunities, and as your State Representative I will continue to work every day to ensure everyone has access to the same opportunities that will allow them to thrive .
+My life has been shaped by opportunities, and as State Representative from the 11th I will continue to work every day to ensure everyone has access to opportunities that will allow them to thrive . info@hackney4the11th.com 206.717.4439 Paid for by: Hackney for the 11th (D) PO Box 12066 Seattle WA 98102 **Pictures do not imply an endorsement** Show your support for our campaign by contributing today!
+CONTRIBUTE Follow Us

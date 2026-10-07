@@ -1,29 +1,138 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Dodge+County+Fair+&dates=20260822T170000Z%2F20260822T180000Z&location=N6885+High+Point+Road%2C+Beaver+Dam%2C+Wisconsin%2C+53916%2C+United+States",
-"http://maps.google.com/?q=N6885+High+Point+Road+Beaver+Dam%2C+Wisconsin%2C+53916+United+States",
-"https://beckforcongress.com/",
-"https://beckforcongress.com/about",
-"https://beckforcongress.com/beck-campaign-commits-to-unrig-washington",
-"https://beckforcongress.com/beck-campaign-receives-mental-health-now-designation",
-"https://beckforcongress.com/blue-5th-coalition-launches-with-14-candidates",
-"https://beckforcongress.com/campaign-merch-1",
-"https://beckforcongress.com/cart",
-"https://beckforcongress.com/endorsed",
-"https://beckforcongress.com/events",
-"https://beckforcongress.com/events/washington-county-fair-6m427-s45z7-34ygt",
-"https://beckforcongress.com/events/washington-county-fair-6m427-s45z7-34ygt-xrpcn?format=ical",
-"https://beckforcongress.com/events/ys5wqgjtif111kvhvm3t2qg2ofkzvd-59d76",
-"https://beckforcongress.com/issues",
-"https://beckforcongress.com/news",
-"https://beckforcongress.com/press-kit",
-"https://beckforcongress.com/press-releases",
-"https://beckforcongress.com/video-radio-ads",
-"https://beckforcongress.com/volunteer",
-"https://bsky.app/profile/beck5thcd.bsky.social",
-"https://facebook.com/profile/61573557437825",
-"https://instagram.com/beckforcongress",
-"https://secure.actblue.com/donate/beck-for-congress-1?amount=26",
-"https://threads.com/@beckforcongress",
-"https://tiktok.com/@beckforcongress",
-"https://youtube.com/channel/UCrZcU0YnnKTQfLMdlbQRLhw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=n6885+high+point+road+beaver+dam%2C+wisconsin%2C+53916+united+states"
+},
+{
+"text": "0",
+"href": "https://www.beckforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.beckforcongress.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.beckforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.beckforcongress.com/events"
+},
+{
+"text": "Beck Campaign Commits To “Unrig Washington”",
+"href": "https://www.beckforcongress.com/beck-campaign-commits-to-unrig-washington"
+},
+{
+"text": "Beck Campaign Receives Mental Health Now Designation",
+"href": "https://www.beckforcongress.com/beck-campaign-receives-mental-health-now-designation"
+},
+{
+"text": "Blue 5th Coalition Launches with 14 Candidates",
+"href": "https://www.beckforcongress.com/blue-5th-coalition-launches-with-14-candidates"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/beck-for-congress-1?amount=26"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/beck-for-congress-1?amount=26"
+},
+{
+"text": "Endorsed",
+"href": "https://www.beckforcongress.com/endorsed"
+},
+{
+"text": "Events",
+"href": "https://www.beckforcongress.com/events"
+},
+{
+"text": "Folder: Press Releases",
+"href": "https://www.beckforcongress.com/press-releases"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Dodge+County+Fair+&dates=20260822T170000Z%2F20260822T180000Z&location=N6885+High+Point+Road%2C+Beaver+Dam%2C+Wisconsin%2C+53916%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.beckforcongress.com/events/washington-county-fair-6m427-s45z7-34ygt-xrpcn?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.beckforcongress.com/issues"
+},
+{
+"text": "Merch",
+"href": "https://www.beckforcongress.com/campaign-merch-1"
+},
+{
+"text": "News",
+"href": "https://www.beckforcongress.com/news"
+},
+{
+"text": "Next Next August 25 JeffDems Monthly Meeting",
+"href": "https://www.beckforcongress.com/events/ys5wqgjtif111kvhvm3t2qg2ofkzvd-59d76"
+},
+{
+"text": "Press Kit",
+"href": "https://www.beckforcongress.com/press-kit"
+},
+{
+"text": "Previous Previous August 21 Dodge County Fair",
+"href": "https://www.beckforcongress.com/events/washington-county-fair-6m427-s45z7-34ygt"
+},
+{
+"text": "Video and Radio Ads",
+"href": "https://www.beckforcongress.com/video-radio-ads"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beckforcongress.com/volunteer"
+},
+{
+"text": "[image: Beck for Congress]",
+"href": "https://www.beckforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/beck-for-congress-1?amount=26"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/beck5thcd.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile/61573557437825"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beckforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@beckforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@beckforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrZcU0YnnKTQfLMdlbQRLhw"
+},
+{
+"text": "andy.beck@beckforcongress.com",
+"href": "mailto:andy.beck@beckforcongress.com"
+},
+{
+"text": "info@beckforcongress.com",
+"href": "mailto:info@beckforcongress.com"
+},
+{
+"text": "press@beckforcongress.com",
+"href": "mailto:press@beckforcongress.com"
+}
 ]

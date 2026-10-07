@@ -1,5 +1,4 @@
-Embedded Files
-I have been a Westchester resident for 60 years.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE ABOUT LAURIE I have been a Westchester resident for 60 years.
 My family and I currently live in Cortlandt Manor.
 I am a retired public highschool math teacher and I have served as an elected HenHud Board trustee, and have volunteered my time as a sports coach and math tutor across the county.
 My husband worked for Indian Point for 36 years so I am extremely knowledgeable regarding the plant and nuclear power.
@@ -22,7 +21,4 @@ I worked with the Board and Superintendent for strategies regarding the closing 
 I also made public the Town of Cortlandt 2020 Budget showing outrageous salary increases during COVID, the realities of Indian Point, and toxic locations throughout Cortlandt.
 I put forth ideas regarding energy, beautification, law enforcement, community events, more access to voting, tree trimming, road paving management and code enforcement as well as participating in the Verplanck waterfront forums.
 All positions have provided me with years of experience in leadership, management, and patience.
-Haga clic aquí para la traducción al español
-Page updated
-Google Sites
-Report abuse
+Haga clic aquí para la traducción al español LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

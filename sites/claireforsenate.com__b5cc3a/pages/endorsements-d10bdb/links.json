@@ -1,116 +1,498 @@
 [
-"http://30thdemswa.org/",
-"http://jc28.org/blog",
-"http://local86.org/",
-"http://nisqually-nsn.gov/",
-"http://opeiu8.org/",
-"http://puyallup-tribe.com/",
-"http://stand.org/washington",
-"http://washingtonbus.org/",
-"https://act.myngp.com/Forms/-6357474911972291584",
-"https://afscme.org/blog/filter/affiliates/wa-council-28",
-"https://aftwa.org/",
-"https://apace-wa.org/",
-"https://arcwa.org/",
-"https://auws.enpnetwork.com/",
-"https://auws.enpnetwork.com/nurse-practitioner-news/216844-auws-makes-primary-election-endorsements",
-"https://childrenscampaignfund.org/",
-"https://claireforsenate.com/",
-"https://claireforsenate.com/about",
-"https://claireforsenate.com/accountability",
-"https://claireforsenate.com/affordability",
-"https://claireforsenate.com/community-investment",
-"https://claireforsenate.com/contact",
-"https://claireforsenate.com/early-education",
-"https://claireforsenate.com/education",
-"https://claireforsenate.com/endorsements",
-"https://claireforsenate.com/environment",
-"https://claireforsenate.com/gun-responsibility",
-"https://claireforsenate.com/healthcare",
-"https://claireforsenate.com/photos",
-"https://claireforsenate.com/teaching-healthy-relationships-and-medically-accurate-information-to-our-kids",
-"https://claireforsenate.com/volunteer",
-"https://council2.com/about",
-"https://ctuir.org/",
-"https://democratsfordiversityandinclusion.net/",
-"https://eccwa.org/wp/endorsed-candidates-2022",
-"https://educationvoters.org/",
-"https://facebook.com/ClaireforSenate",
-"https://fairvotewa.org/",
-"https://gunresponsibility.org/",
-"https://gunsensevoter.org/candidates/details?cid=4bb29370931703c9d48b29b926743fba7cd8480667885f2372e1c5ca21b7ff49",
-"https://humanevotersofwa.net/",
-"https://humanevotersofwa.net/endorsements",
-"https://iaff2024.org/",
-"https://iaff2024.org/about-us",
-"https://iaff27.org/",
-"https://iam751.org/",
-"https://ibew77.com/",
-"https://ibew77.org/",
-"https://ilwuinwa.org/",
-"https://iupatdc5.org/",
-"https://kcdems.org/",
-"https://kingcountyyd.org/",
-"https://laborerslocal242.com/",
-"https://momsdemandaction.org/",
-"https://nafoa.org/tribes/muckleshoot-indian-tribe",
-"https://nasw-wa.org/",
-"https://now.org/chapter/washington-now",
-"https://nwcarpenters.org/",
-"https://nwpc.org/",
-"https://nwpcwa.org/",
-"https://oavotes.org/2022endorsements",
-"https://oavotes.org/our-work/endorsements/2026-endorsements",
-"https://plannedparenthoodaction.org/planned-parenthood-alliance-advocates/elections/washington-candidate-endorsements",
-"https://prochoicewashington.org/",
-"https://protec17.org/political-action",
-"https://pseclassified.org/",
-"https://quinaultindiannation.com/",
-"https://rhawa.org/pac",
-"https://rpecwa.org/",
-"https://seattlebuildingtrades.org/",
-"https://secure.actblue.com/donate/claire-wilson-for-senate-1",
-"https://secure.ngpvan.com/aiH9zQPI2EGOMc2T5PoXVg2",
-"https://secure.ngpvan.com/dLxjL4ODkUCzjAbo_cKdqA2",
-"https://seiu1199nw.org/",
-"https://seiu775.org/",
-"https://seiu925.org/",
-"https://sierraclub.org/",
-"https://sierraclub.org/washington",
-"https://smw66.org/",
-"https://snoqualmietribe.us/",
-"https://teamlpac.com/our-work",
-"https://teamster.org/political-legislative-action",
-"https://teamsters117.org/",
-"https://theurbanist.org/",
-"https://theurbanist.org/2022/07/18/2022-primary-election-endorsements",
-"https://transitriders.org/",
-"https://transportation4wa.org/",
-"https://tulaliptribes-nsn.gov/",
-"https://ualocal32.com/",
-"https://uaw4121.org/",
-"https://ufcw21.org/",
-"https://victoryfund.org/",
-"https://wa4pj.com/",
-"https://wabikes.org/",
-"https://wabikes.org/index.php/advocacy/endorsements",
-"https://wabuildingtrades.org/",
-"https://waconservationaction.org/",
-"https://waequality.org/endorsements",
-"https://wafop.com/",
-"https://wahousingalliance.org/",
-"https://warealtor.org/",
-"https://washingtoncan.org/",
-"https://washingtonea.org/",
-"https://washingtonjustice.org/?pg=JusticeForAll",
-"https://wcvoters.org/",
-"https://wfse.org/",
-"https://whca.org/advocacy/whca-pac",
-"https://winwithwomen.nationbuilder.com/",
-"https://wscff.org/",
-"https://wsfdw.org/about",
-"https://wslc.org/",
-"https://wsna.org/",
-"https://wssra.org/",
-"https://ydwa.org/"
+{
+"text": "30th LD Democrats",
+"href": "http://www.30thdemswa.org/"
+},
+{
+"text": "AFSCME Council 28",
+"href": "https://www.afscme.org/blog/filter/affiliates/wa-council-28"
+},
+{
+"text": "AFT Washington",
+"href": "https://www.aftwa.org/"
+},
+{
+"text": "ANRPs United of Washington State",
+"href": "https://auws.enpnetwork.com/nurse-practitioner-news/216844-auws-makes-primary-election-endorsements"
+},
+{
+"text": "APRNs of Washington",
+"href": "https://auws.enpnetwork.com"
+},
+{
+"text": "About Claire",
+"href": "https://www.claireforsenate.com/about/"
+},
+{
+"text": "Affordability",
+"href": "https://www.claireforsenate.com/affordability/"
+},
+{
+"text": "Alliance for Gun Responsibility",
+"href": "https://gunresponsibility.org"
+},
+{
+"text": "Alliance for Gun Responsibility",
+"href": "https://gunresponsibility.org/"
+},
+{
+"text": "Asian Pacific Islander Americans for Civic Empowerment",
+"href": "https://www.apace-wa.org/"
+},
+{
+"text": "Children’s Campaign Fund",
+"href": "https://www.childrenscampaignfund.org/"
+},
+{
+"text": "Community Investment",
+"href": "https://www.claireforsenate.com/community-investment/"
+},
+{
+"text": "Confederated Tribes of the Umatilla Indian Reservation",
+"href": "https://ctuir.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.claireforsenate.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/claire-wilson-for-senate-1"
+},
+{
+"text": "Democrats for Diversity and Inclusion",
+"href": "https://democratsfordiversityandinclusion.net/"
+},
+{
+"text": "Early Education",
+"href": "https://www.claireforsenate.com/early-education/"
+},
+{
+"text": "Education",
+"href": "https://www.claireforsenate.com/education/"
+},
+{
+"text": "Endorse",
+"href": "https://secure.ngpvan.com/aiH9zQPI2EGOMc2T5PoXVg2"
+},
+{
+"text": "Endorse Claire",
+"href": "https://act.myngp.com/Forms/-6357474911972291584"
+},
+{
+"text": "Endorsements",
+"href": "https://www.claireforsenate.com/endorsements/"
+},
+{
+"text": "Environment and Sustainability",
+"href": "https://www.claireforsenate.com/environment/"
+},
+{
+"text": "FairVote Washington",
+"href": "https://fairvotewa.org"
+},
+{
+"text": "Gun Responsibility",
+"href": "https://www.claireforsenate.com/gun-responsibility/"
+},
+{
+"text": "Healthcare and Reproductive Rights",
+"href": "https://www.claireforsenate.com/healthcare/"
+},
+{
+"text": "Humane Voters of Washington",
+"href": "https://humanevotersofwa.net/"
+},
+{
+"text": "Humane Voters of Washington",
+"href": "https://humanevotersofwa.net/endorsements/"
+},
+{
+"text": "IAFF Local 27",
+"href": "https://iaff27.org"
+},
+{
+"text": "IAM 751",
+"href": "https://www.iam751.org/"
+},
+{
+"text": "IBEW 77",
+"href": "https://www.ibew77.org"
+},
+{
+"text": "IBEW Local 77",
+"href": "https://www.ibew77.com/"
+},
+{
+"text": "IUPAT District Council 5",
+"href": "https://www.iupatdc5.org"
+},
+{
+"text": "International Longshore & Warehouse Union, Washington Area District Council",
+"href": "https://ilwuinwa.org/"
+},
+{
+"text": "International Union of Painters & Allied Trades, District Council 5",
+"href": "https://www.iupatdc5.org/"
+},
+{
+"text": "Iron Workers Local Union 86",
+"href": "http://www.local86.org/"
+},
+{
+"text": "Justice For All PAC",
+"href": "https://www.washingtonjustice.org/?pg=JusticeForAll"
+},
+{
+"text": "King County Democrats",
+"href": "https://www.kcdems.org/"
+},
+{
+"text": "King County Young Democrats",
+"href": "https://www.kingcountyyd.org/"
+},
+{
+"text": "LPAC",
+"href": "https://www.teamlpac.com/our-work"
+},
+{
+"text": "League of Education Voters",
+"href": "https://educationvoters.org"
+},
+{
+"text": "LiUNA 242",
+"href": "https://www.laborerslocal242.com"
+},
+{
+"text": "LiUNA 242",
+"href": "https://www.laborerslocal242.com/"
+},
+{
+"text": "Moms Demand Action Gun Sense Candidate",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "Moms Demand Action Gun Sense Candidate (not an endorsement)",
+"href": "https://gunsensevoter.org/candidates/details/?cid=4bb29370931703c9d48b29b926743fba7cd8480667885f2372e1c5ca21b7ff49"
+},
+{
+"text": "Muckleshoot Indian Tribe",
+"href": "https://www.nafoa.org/tribes/muckleshoot-indian-tribe"
+},
+{
+"text": "National Association of Social Workers – Washington Chapter",
+"href": "https://www.nasw-wa.org/"
+},
+{
+"text": "National Women’s Political Caucus",
+"href": "https://www.nwpc.org/"
+},
+{
+"text": "National Women’s Political Caucus",
+"href": "https://www.nwpcwa.org"
+},
+{
+"text": "Nisqually Indian Tribe",
+"href": "http://www.nisqually-nsn.gov/"
+},
+{
+"text": "North West Carpenters Union",
+"href": "https://www.nwcarpenters.org/"
+},
+{
+"text": "OPEIU Local 8",
+"href": "http://www.opeiu8.org"
+},
+{
+"text": "One America Votes",
+"href": "https://oavotes.org/our-work/endorsements/2026-endorsements/"
+},
+{
+"text": "OneAmerica Votes",
+"href": "https://oavotes.org/2022endorsements/"
+},
+{
+"text": "Photos",
+"href": "https://www.claireforsenate.com/photos/"
+},
+{
+"text": "Planned Parenthood Alliance Advocates",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-alliance-advocates/elections/washington-candidate-endorsements"
+},
+{
+"text": "Pro-Choice Washington",
+"href": "https://prochoicewashington.org/"
+},
+{
+"text": "ProChoice Washington",
+"href": "https://prochoicewashington.org"
+},
+{
+"text": "Professional & Technical Employees Local 17 (PROTEC17)",
+"href": "https://www.protec17.org/political-action/"
+},
+{
+"text": "Public School Employees of Washington (PSE SEIU Local 1948)",
+"href": "https://www.pseclassified.org/"
+},
+{
+"text": "Puyallup Tribe of Indians",
+"href": "http://www.puyallup-tribe.com/"
+},
+{
+"text": "Quinault Indian Nation",
+"href": "https://www.quinaultindiannation.com/"
+},
+{
+"text": "Rental Housing Association PAC",
+"href": "https://www.rhawa.org/pac"
+},
+{
+"text": "Retired Public Employees Council of Washington (RPEC)",
+"href": "https://rpecwa.org"
+},
+{
+"text": "Retired Public Employees Council of Washington PAC",
+"href": "https://rpecwa.org/"
+},
+{
+"text": "SEIU 755 Quality Care Committee",
+"href": "https://seiu775.org/"
+},
+{
+"text": "SEIU Healthcare 1199 NW",
+"href": "https://www.seiu1199nw.org/"
+},
+{
+"text": "SEIU Local 925 Public Service",
+"href": "https://www.seiu925.org/"
+},
+{
+"text": "Salish Sea Chapter of Washington State Federation of Democratic Women",
+"href": "https://www.wsfdw.org/about"
+},
+{
+"text": "Seattle Building Trades Union",
+"href": "https://www.seattlebuildingtrades.org"
+},
+{
+"text": "Sexuality Health Education",
+"href": "https://www.claireforsenate.com/teaching-healthy-relationships-and-medically-accurate-information-to-our-kids/"
+},
+{
+"text": "Sheet Metal Workers (SMC) Local 66",
+"href": "https://www.smw66.org"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org"
+},
+{
+"text": "Sierra Club Washington State",
+"href": "https://www.sierraclub.org/washington"
+},
+{
+"text": "Snoqualmie Indian Tribe",
+"href": "https://snoqualmietribe.us"
+},
+{
+"text": "South King County Firefighters IAFF 2024",
+"href": "https://www.iaff2024.org/about-us/"
+},
+{
+"text": "South King County Professional Firefighters",
+"href": "https://www.iaff2024.org/"
+},
+{
+"text": "Stand for Children Washington PAC",
+"href": "http://stand.org/washington"
+},
+{
+"text": "Teamsters 117",
+"href": "https://www.teamsters117.org"
+},
+{
+"text": "Teamsters Joint Council 28 and Teamsters Local Unions",
+"href": "http://jc28.org/blog/"
+},
+{
+"text": "The Arc of Washington",
+"href": "https://arcwa.org"
+},
+{
+"text": "The Urbanist",
+"href": "https://www.theurbanist.org"
+},
+{
+"text": "The Urbanist",
+"href": "https://www.theurbanist.org/2022/07/18/2022-primary-election-endorsements/"
+},
+{
+"text": "The Washington Bus",
+"href": "http://www.washingtonbus.org/"
+},
+{
+"text": "Transit Riders Union",
+"href": "https://transitriders.org/"
+},
+{
+"text": "Transportation and Taxpayer Accountability",
+"href": "https://www.claireforsenate.com/accountability/"
+},
+{
+"text": "Transportation for Washington",
+"href": "https://transportation4wa.org/"
+},
+{
+"text": "Tulalip Tribes of Washington",
+"href": "https://www.tulaliptribes-nsn.gov/"
+},
+{
+"text": "UAW Local 4121",
+"href": "https://www.uaw4121.org/"
+},
+{
+"text": "United Association of Plumbers and Pipefitters Local 32",
+"href": "https://ualocal32.com/"
+},
+{
+"text": "United Food and Commercial Workers 3000",
+"href": "https://www.ufcw21.org/"
+},
+{
+"text": "Victory Fund",
+"href": "https://victoryfund.org"
+},
+{
+"text": "Victory Fund",
+"href": "https://victoryfund.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/dLxjL4ODkUCzjAbo_cKdqA2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.claireforsenate.com/volunteer/"
+},
+{
+"text": "WA Equality PAC",
+"href": "https://waequality.org/endorsements"
+},
+{
+"text": "WA Federation of State Employees SSF",
+"href": "https://www.wfse.org/"
+},
+{
+"text": "WSNA",
+"href": "https://www.wsna.org/"
+},
+{
+"text": "Washington Association of Realtors",
+"href": "https://www.warealtor.org"
+},
+{
+"text": "Washington Bikes",
+"href": "https://wabikes.org/"
+},
+{
+"text": "Washington Bikes",
+"href": "https://wabikes.org/index.php/advocacy/endorsements/"
+},
+{
+"text": "Washington Community Action Network (CAN)",
+"href": "https://www.washingtoncan.org"
+},
+{
+"text": "Washington Conservation Voters",
+"href": "https://waconservationaction.org"
+},
+{
+"text": "Washington Conservation Voters",
+"href": "https://wcvoters.org/"
+},
+{
+"text": "Washington Education Association",
+"href": "https://www.washingtonea.org"
+},
+{
+"text": "Washington Education Association",
+"href": "https://www.washingtonea.org/"
+},
+{
+"text": "Washington Health Care Association PAC",
+"href": "https://www.whca.org/advocacy/whca-pac/"
+},
+{
+"text": "Washington Housing Alliance Action Fund",
+"href": "https://www.wahousingalliance.org"
+},
+{
+"text": "Washington State Building and Construction Trades Council",
+"href": "https://www.wabuildingtrades.org/"
+},
+{
+"text": "Washington State Business & Construction Trade Council",
+"href": "https://www.wabuildingtrades.org/"
+},
+{
+"text": "Washington State Council of County and City Employees",
+"href": "https://council2.com/about/"
+},
+{
+"text": "Washington State Council of Fire Fighters",
+"href": "https://www.wscff.org/"
+},
+{
+"text": "Washington State Democratic Party Environment and Climate Caucus",
+"href": "https://eccwa.org/wp/endorsed-candidates-2022/"
+},
+{
+"text": "Washington State Fraternal Order of Police",
+"href": "https://www.wafop.com"
+},
+{
+"text": "Washington State Fraternal Order of Police",
+"href": "https://www.wafop.com/"
+},
+{
+"text": "Washington State Labor Council",
+"href": "https://www.wslc.org/"
+},
+{
+"text": "Washington State National Organization for Women PAC",
+"href": "https://now.org/chapter/washington-now/"
+},
+{
+"text": "Washington State School Retirees’ Association",
+"href": "https://wssra.org/"
+},
+{
+"text": "Washington Teamsters Legislative League",
+"href": "https://teamster.org/political-legislative-action/"
+},
+{
+"text": "Washington for Justice and Peace",
+"href": "https://www.wa4pj.com"
+},
+{
+"text": "Win With Women PAC",
+"href": "https://winwithwomen.nationbuilder.com/"
+},
+{
+"text": "Young Democrats of Washington",
+"href": "https://www.ydwa.org"
+},
+{
+"text": "[image: Claire Wilson]",
+"href": "https://www.claireforsenate.com/"
+},
+{
+"text": "[image: Facebook Link]",
+"href": "https://www.facebook.com/ClaireforSenate/"
+},
+{
+"text": "info@claireforsenate.com",
+"href": "mailto:info@claireforsenate.com"
+}
 ]

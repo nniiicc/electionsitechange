@@ -1,7 +1,5 @@
-From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land
-My Unforgettable Juneteenth Moment at the U.S.
-Supreme Court
-I never imagined this moment—not as a boy chopping cotton in the Mississippi Delta, and not as a young soldier fighting in Iraq.
+top of page DONATE VOLUNTEER HOME ABOUT TY ISSUES FULCRUM PRESS RELEASES VOTE TRANSPARENCY All Posts Search From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land Jul 5, 2025 3 min read My Unforgettable Juneteenth Moment at the U.S.
+Supreme Court I never imagined this moment—not as a boy chopping cotton in the Mississippi Delta, and not as a young soldier fighting in Iraq.
 But this morning, during Juneteenth week, I walked up the storied steps of the United States Supreme Court.
 The marble was gleaming.
 The line of attorneys filing in was long and diverse—men and women from across the country, dressed sharply, many accompanied by proud family members.
@@ -19,11 +17,8 @@ The energy was reverent.
 Sacred.
 Then a woman in an all-white suit approached the lectern.
 “MR.
-CHIEF JUSTICE, AND MAY IT PLEASE THE COURT, I MOVE THE ADMISSION OF THE FOLLOWING ATTORNEYS.”
-She began reading names—attorneys from California, Florida, Illinois, Maryland, and the District of Columbia.
-Then came:
-“From the state of Mississippi, Tyrone Cortez Pinkins.”
-I stood.
+CHIEF JUSTICE, AND MAY IT PLEASE THE COURT, I MOVE THE ADMISSION OF THE FOLLOWING ATTORNEYS.” She began reading names—attorneys from California, Florida, Illinois, Maryland, and the District of Columbia.
+Then came: “From the state of Mississippi, Tyrone Cortez Pinkins.” I stood.
 And as I did, my eyes drifted to the end of the bench—where Justice Ketanji Brown Jackson sat.
 The first Black woman to serve on the United States Supreme Court.
 And in that moment… she smiled.
@@ -34,10 +29,8 @@ As a son of Mississippi, standing in that chamber during Juneteenth week, with a
 A quiet thunder in my chest.
 The motion was formally made: I was of good moral and professional character.
 The sponsoring attorney requested admission.
-Chief Justice John Roberts responded:
-“The motion is granted.
-The applicants will be admitted.”
-I was officially sworn into the Bar of the United States Supreme Court.
+Chief Justice John Roberts responded: “The motion is granted.
+The applicants will be admitted.” I was officially sworn into the Bar of the United States Supreme Court.
 Let me tell you something: growing up in Rolling Fork, Mississippi, this was not a day I could’ve imagined.
 I chopped cotton in fields under a scorching Delta sun.
 I lived in a house without indoor plumbing.
@@ -51,7 +44,7 @@ But nothing compared to this.
 Because on this day—during this week—we aren’t just talking about law.
 We’re talking about legacy.
 Juneteenth reminds us that freedom didn’t come with the Emancipation Proclamation.
-It came late.
+It came late .
 It came only after resistance.
 Only after persistence.
 And only because people kept pushing—even when they had every reason to give up.
@@ -70,5 +63,9 @@ Fuel to end insider trading in Congress and corporate greed in our politics.
 If you’ve walked with me on this journey—thank you.
 You were with me in that courtroom.
 And I promise you: I’ll carry you into every room I enter from here on out.
-Let’s keep going.
-~Ty
+Let’s keep going. ~Ty Recent Posts See All Why I’m Leaving the Democratic Party and Running as an Independent When the System Fails the People, You Don’t Have to Stay in It For too long, working families in Mississippi—and across this country—have...
+Closed Doors, Lost Voices, Greed and Gatekeeping “But What About…”: How Whataboutism Is Breaking American Politics HOME ABOUT TY JOIN US NEWS ISSUES PRIVACY POLICY TERMS OF SERVICE DONATE VOLUNTEER DONATE BY MAIL ​ T y Pinkins for U.S.
+Senate P.O.
+Box 4525 Jackson, MS 39296 ​ ​ FEC ID: C00830554 Contributions to Ty Pinkins for U.S.
+Senate are not tax deductible.
+PAID FOR BY TY PINKINS FOR CONGRESS bottom of page

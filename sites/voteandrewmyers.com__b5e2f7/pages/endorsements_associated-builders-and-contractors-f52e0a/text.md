@@ -1,13 +1,9 @@
-On behalf of Associated Builders and Contractors MN/ND, a statewide organization that represents more than 340 merit shop construction industry members and their 20,000+ employees, ABC MN/ND is proud to announce its endorsement of Andrew Myers for Minnesota House District 45A.
+Home Community Priorities Bills Endorsements Photos Events Priorities Survey Contact Donate On behalf of Associated Builders and Contractors MN/ND, a statewide organization that represents more than 340 merit shop construction industry members and their 20,000+ employees, ABC MN/ND is proud to announce its endorsement of Andrew Myers for Minnesota House District 45A.
 ABC endorses lawmakers and candidates who champion free market principles and who defend the merit shop philosophy in the construction industry.
 This philosophy encourages competition and a free-enterprise approach to construction that is based solely on merit, regardless of labor affiliation.
-We look forward to working together to pursue commonsense solutions that create the conditions for all Minnesotans to prosper and achieve their career dreams by addressing issues critical to the merit shop construction industry, including:
-- Promoting market-based wage rates by preventing any new prevailing wage mandates or the expansion of prevailing wage laws that infringe upon local control.
-- Ensuring that merit shop construction contractors can continue to openly and fairly compete for public construction projects by preventing the use of union-only project labor agreement mandates on taxpayer funded projects.
-- Promoting an “all-of-the-above” workforce development strategy that includes both industry-driven and government-registered apprenticeship programs so workers and employers have the freedom to choose the best way to upskill and develop their workforce.
-- Supporting the employer-employee relationship by opposing employment mandates that impose one-size-fits all requirements.
+We look forward to working together to pursue commonsense solutions that create the conditions for all Minnesotans to prosper and achieve their career dreams by addressing issues critical to the merit shop construction industry, including: Promoting market-based wage rates by preventing any new prevailing wage mandates or the expansion of prevailing wage laws that infringe upon local control.
+Ensuring that merit shop construction contractors can continue to openly and fairly compete for public construction projects by preventing the use of union-only project labor agreement mandates on taxpayer funded projects.
+Promoting an “all-of-the-above” workforce development strategy that includes both industry-driven and government-registered apprenticeship programs so workers and employers have the freedom to choose the best way to upskill and develop their workforce.
+Supporting the employer-employee relationship by opposing employment mandates that impose one-size-fits all requirements.
 Please do not hesitate to reach out should you have any questions.
-Sincerely,
-Jon Boesche
-Director of Government Affairs
-Associated Builders & Contractors MN/ND
+Sincerely, Jon Boesche Director of Government Affairs Associated Builders & Contractors MN/ND Follow Follow Follow Follow Follow Prepared and Paid for by Andrew Myers for Minnesota House of Representatives District 45A | PO Box 149 Excelsior, MN 55331

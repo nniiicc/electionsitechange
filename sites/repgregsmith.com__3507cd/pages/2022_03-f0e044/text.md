@@ -1,41 +1,39 @@
-Representative Greg Smith Announces Adjournment of 2022 Legislative Session
-SALEM, Ore. – Last Friday, the Oregon Legislature officially adjourned the 2022 Legislative Session.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Smith Spearheads $1.5 Million for Pre-Apprenticeship Construction Center March 30, 2022 / in News FOR IMMEDIATE RELEASE : March 30, 2022 Representative Smith Spearheads $1.5 Million for Pre-Apprenticeship Construction Center Hermiston, Ore. – The Hermiston School District was delighted to receive an investment from the Oregon Legislature in a local Pre-Apprenticeship Construction Center in Eastern Oregon to support a wide range of trade craft opportunities for students.
+The $1.5 million general fund capital construction appropriation during the 2022 Legislative Session will create a bridge between the current career technical education (CTE) offerings and BOLI certified pre-apprenticeship programs.
+“Investing in CTE programs will make sure all students have a pathway to a career or further education following their K-12 education,” said Hermiston School District Superintendent Dr.
+Tricia Mooney.
+“Rep.
+Greg Smith has been a vocal advocate for these programs and we’re thrilled to be able to add new opportunities for students.” The Hermiston School District has been regarded as a leader in innovating CTE programs for K-12 students, and the center will expand opportunities for students in western Umatilla County and Morrow County.
+“Providing pre-apprenticeship training allows high school students to try out skills and trades to figure out what they like and then find a tangible pipeline from their education directly into careers with family-wage salaries and opportunity for growth,” said Rep.
+Smith.
+Dr.
+Mooney will work with Rep.
+Smith to establish an advisory committee that will oversee the construction of the center, as well as an advisory committee that ensures the program meets the needs of the local and regional workforce.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-30 10:27:02 2023-10-02 10:28:36 Press Release: Representative Smith Spearheads $1.5 Million for Pre-Apprenticeship Construction Center Press Release: Representative Greg Smith Visits Shaniko March 23, 2022 / in News FOR IMMEDIATE RELEASE : March 23, 2022 Representative Greg Smith Visits Shaniko Shaniko, Ore. – During last September’s special session, the Oregon Legislature undertook the redistricting process.
+This meant that the District 57 lines changed.
+The City of Shaniko is now included within District 57.
+On Monday, Representative Greg Smith (R-Heppner) met with community leaders at City Hall, including Don Treanor, Shaniko Mayor, Diana Marrs, Shaniko City Recorder, Scott Marrs, Shaniko Volunteer Fire Department Chief, and David Long, Shaniko City Councilor.
+“Learning more about Shaniko’s history and visiting about rural emergency medical services was invaluable” said Representative Smith.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-23 10:23:33 2023-10-02 10:26:02 Press Release: Representative Greg Smith Visits Shaniko Press Release: Representative Greg Smith Visits Jefferson County March 23, 2022 / in News FOR IMMEDIATE RELEASE : March 23, 2022 Representative Greg Smith Visits Jefferson County Madras, Ore. – During last September’s special session, the Oregon Legislature undertook the redistricting process.
+This meant that the District 57 lines changed.
+Parts of northern Jefferson County and the entirety of the Warm Springs Reservation are now included within District 57.
+On Monday, Representative Greg Smith (R-Heppner) met with community leaders, including Kelly Simmelink, Jefferson County Commissioner, Jeff Blake, Jefferson County Fire District No.
+1 Chief, and Glendon Smith, Warm Springs Tribal Council Chair.
+“I was thankful for the opportunity to be educated on critical issues for both Jefferson County and the Confederated Tribes of Warms Springs, I look forward to strengthening our connection” said Representative Smith.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-23 10:19:46 2023-10-02 10:22:30 Press Release: Representative Greg Smith Visits Jefferson County Press Release: Representative Greg Smith Visits Maupin March 23, 2022 / in News FOR IMMEDIATE RELEASE : March 23, 2022 Representative Greg Smith Visits Maupin Maupin, Ore. – During last September’s special session, the Oregon Legislature undertook the redistricting process.
+This meant that the District 57 lines changed.
+The City of Maupin is now included within District 57.
+Representative Greg Smith (R-Heppner) met with community leaders at the Maupin Civic Center, including Kevin Lewis, Maupin City Manager, and Carol Beatty, Maupin City Councilor.
+Additionally, Councilor Beatty was kind enough to give Rep.
+Smith a tour of Maupin.
+“I deeply appreciated the tour of Maupin and was glad to learn more about the area and the new constituents of District 57” said Representative Smith.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-23 10:17:01 2023-10-02 10:18:27 Press Release: Representative Greg Smith Visits Maupin Press Release: Representative Greg Smith gives Legislative Update to Milton-Freewater Rotary March 23, 2022 / in News FOR IMMEDIATE RELEASE : March 23, 2022 Representative Greg Smith gives Legislative Update to Milton-Freewater Rotary Milton-Freewater, Ore. – Yesterday, Representative Greg Smith (R-Heppner) gave a legislative update to the Milton-Freewater Rotary.
+“I want to extend my thanks to the entire community of Milton-Freewater, especially to Umatilla County Commissioner John Shafer, Milton-Freewater Mayor Lewis Key, and Milton-Freewater Rotary President Cindy Timmons,” said Representative Smith.
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-23 10:11:01 2023-10-02 10:15:50 Press Release: Representative Greg Smith gives Legislative Update to Milton-Freewater Rotary Press Release: Representative Greg Smith Announces Adjournment of 2022 Legislative Session March 6, 2022 / in News FOR IMMEDIATE RELEASE : March 6, 2022 Representative Greg Smith Announces Adjournment of 2022 Legislative Session SALEM, Ore. – Last Friday, the Oregon Legislature officially adjourned the 2022 Legislative Session.
 Representative Greg Smith (R-Heppner) is recognizing the adjournment of the month-long session by highlighting legislation and funding allocations that were vital to District 57.
-“During the 2022 Legislative session, the legislature was looking to invest in critical projects and programs (HB 5202)” said Representative Smith, “Municipalities and organizations all around the state submitted funding requests.
+“During the 2022 Legislative session, the legislature was looking to invest in critical projects and programs ( HB 5202 ) ” said Representative Smith, “Municipalities and organizations all around the state submitted funding requests.
 As a Co-Vice Chair of the Joint Ways and Means Committee and a member of its Subcommittee on Capital Construction, I was able to make sure these funds were allocated not only to Portland and urban areas, but also returned to hardworking tax payers in our rural communities.
-Below is a list of District 57 specific allocations.”
-• $4,590,000 – Northeast Oregon Regional Acute Care Center
-• $3,048,464 – City of Milton-Freewater Police and Dispatch Center
-• $1,500,000 – Columbia Basin Apprenticeship Training Center
-• $1,000,000 – Eastern Oregon University Visual & Performing Arts Scholarship
-• $1,000,000 – Umatilla County Fairgrounds Infrastructure
-• $1,000,000 – Gilliam County Fairgrounds Infrastructure
-• $1,000,000 – Sherman County Fairgrounds Infrastructure
-• $1,000,000 – Morrow County Fairgrounds Infrastructure
-• $1,000,000 – Wheeler County Fairgrounds Infrastructure
-• $1,000,000 – Wasco County Fairgrounds Infrastructure
-• $900,000 – South Wasco County High School Track Renovations
-• $500,000 – City of Dufur Sidewalk Improvements
-• $500,000 – City Heppner of Community Development Fund
-• $405,000 – Glover Hall Renovations (Wheeler County)
-• $250,000 – Umatilla County Road Digitized Pilot Project
-• $166,666 – City of Antelope Community Development Fund
-• $166,666 – City of Spray Community Development Fund
-• $166,666 – City of Mitchell Community Development Fund
-• $166,666 – City of Fossil Community Development Fund
-• $166,666 – City of Grass Valley Community Development Fund
-• $166,666 – City of Rufus Community Development Fund
-• $166,666 – City of Maupin Community Development Fund
-• $166,666 – City of Moro Community Development Fund
-• $166,666 – City of Wasco Community Development Fund
-• $166,666 – City of Tygh Valley Community Development Fund
-• $166,666 – City of Condon Community Development Fund
-• $166,666 – City of Arlington Community Development Fund
-“Recognizing that homelessness is a pervasive issue in the entire state, I was proud to co-chief sponsor HB 4123” said Representative Smith, “this legislation allocated grant funds to homeless response projects in eight communities across the state, two of which will directly benefit District 57.”
-• $1,000,000 – Mid-Columbia Community Action Council Homeless Response System
-• $1,000,000 – Umatilla County Homeless Response System
-“For years, rural pharmacies have been hurt by excessive and unnecessary taxes, however, SB 1524 takes a major step in alleviating the problem” said Representative Smith, “this legislation exempts pharmacies with nine or fewer locations in Oregon from the Corporate Activities Tax.
-SB 1524 is a major win for rural Oregon and as the senior member of the House Revenue Committee, I believed it was paramount to include this provision within the bill.”
-“The federal government’s new infrastructure package will be allocating funds to the State of Oregon specifically for broadband infrastructure” said Representative Smith, “HB 4092 expands the duties of the Oregon Broadband Advisory Council to ensure they are able to prepare the state for these incoming funds.
-Understanding that rural Oregon is in desperate need of expanded internet quality and access, my fellow co-chief sponsors and I supported the bill because it equips each of our communities with the necessary resources to implement broadband expansion.”
-Representative Greg Smith
+Below is a list of District 57 specific allocations.” • $4,590,000 – Northeast Oregon Regional Acute Care Center • $3,048,464 – City of Milton-Freewater Police and Dispatch Center • $1,500,000 – Columbia Basin Apprenticeship Training Center • $1,000,000 – Eastern Oregon University Visual & Performing Arts Scholarship • $1,000,000 – Umatilla County Fairgrounds Infrastructure • $1,000,000 – Gilliam County Fairgrounds Infrastructure • $1,000,000 – Sherman County Fairgrounds Infrastructure • $1,000,000 – Morrow County Fairgrounds Infrastructure • $1,000,000 – Wheeler County Fairgrounds Infrastructure • $1,000,000 – Wasco County Fairgrounds Infrastructure • $900,000 – South Wasco County High School Track Renovations • $500,000 – City of Dufur Sidewalk Improvements • $500,000 – City Heppner of Community Development Fund • $405,000 – Glover Hall Renovations (Wheeler County) • $250,000 – Umatilla County Road Digitized Pilot Project • $166,666 – City of Antelope Community Development Fund • $166,666 – City of Spray Community Development Fund • $166,666 – City of Mitchell Community Development Fund • $166,666 – City of Fossil Community Development Fund • $166,666 – City of Grass Valley Community Development Fund • $166,666 – City of Rufus Community Development Fund • $166,666 – City of Maupin Community Development Fund • $166,666 – City of Moro Community Development Fund • $166,666 – City of Wasco Community Development Fund • $166,666 – City of Tygh Valley Community Development Fund • $166,666 – City of Condon Community Development Fund • $166,666 – City of Arlington Community Development Fund “Recognizing that homelessness is a pervasive issue in the entire state, I was proud to co-chief sponsor HB 4123 ” said Representative Smith, “this legislation allocated grant funds to homeless response projects in eight communities across the state, two of which will directly benefit District 57.” • $1,000,000 – Mid-Columbia Community Action Council Homeless Response System • $1,000,000 – Umatilla County Homeless Response System “For years, rural pharmacies have been hurt by excessive and unnecessary taxes, however, SB 1524 takes a major step in alleviating the problem” said Representative Smith, “this legislation exempts pharmacies with nine or fewer locations in Oregon from the Corporate Activities Tax.
+SB 1524 is a major win for rural Oregon and as the senior member of the House Revenue Committee, I believed it was paramount to include this provision within the bill.” “The federal government’s new infrastructure package will be allocating funds to the State of Oregon specifically for broadband infrastructure” said Representative Smith, “ HB 4092 expands the duties of the Oregon Broadband Advisory Council to ensure they are able to prepare the state for these incoming funds.
+Understanding that rural Oregon is in desperate need of expanded internet quality and access, my fellow co-chief sponsors and I supported the bill because it equips each of our communities with the necessary resources to implement broadband expansion.” ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2022-03-06 10:05:45 2023-10-02 10:10:05 Press Release: Representative Greg Smith Announces Adjournment of 2022 Legislative Session July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

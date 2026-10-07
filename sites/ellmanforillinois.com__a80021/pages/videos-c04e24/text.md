@@ -1,11 +1,3 @@
-Toggle navigation
-ABOUT LAURA
-MY VISION
-ISSUES
-GET INVOLVED
-REQUEST A YARD SIGN
-THE 21ST DISTRICT
-ENDORSEMENTS
-DONATE TODAY
-Campaign Videos
-Laura Ellman | Rules
+Toggle navigation ABOUT LAURA MY VISION ISSUES GET INVOLVED REQUEST A YARD SIGN THE 21ST DISTRICT ENDORSEMENTS DONATE TODAY Campaign Videos Laura Ellman | Rules Notice: JavaScript is required for this content.
+PROMOTIONAL COMMUNICATIONS You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from Ellman for IL Senate D21 by following the instructions in those communications.
+Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services PAID FOR BY ELLMAN FOR IL SENATE D21

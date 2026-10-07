@@ -1,12 +1,46 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://facebook.com/RonTuslerForAssembly",
-"https://rally.org/covers/77THXffXeQp/contribute",
-"https://rontuslerforassembly.com/",
-"https://rontuslerforassembly.com/biography",
-"https://rontuslerforassembly.com/contact",
-"https://rontuslerforassembly.com/district-map",
-"https://rontuslerforassembly.com/endorsements",
-"https://rontuslerforassembly.com/projects",
-"https://rontuslerforassembly.com/take-action"
+{
+"text": "Biography",
+"href": "https://rontuslerforassembly.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://rontuslerforassembly.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://rontuslerforassembly.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://rally.org/covers/77THXffXeQp/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://rontuslerforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://rontuslerforassembly.com/"
+},
+{
+"text": "Projects",
+"href": "https://rontuslerforassembly.com/projects"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Volunteer",
+"href": "https://rontuslerforassembly.com/take-action"
+},
+{
+"text": "[image: Ron Tusler Wisconsin State Assembly]",
+"href": "https://rontuslerforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RonTuslerForAssembly/"
+}
 ]

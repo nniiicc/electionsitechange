@@ -1,4 +1,14 @@
 [
-"https://facebook.com/staffordfor131",
-"https://heatherforstaterep.com/"
+{
+"text": "Home",
+"href": "https://www.heatherforstaterep.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/staffordfor131"
+},
+{
+"text": "heather@heatherforstaterep.com",
+"href": "mailto:heather@heatherforstaterep.com"
+}
 ]

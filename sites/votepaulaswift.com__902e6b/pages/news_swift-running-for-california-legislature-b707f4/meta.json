@@ -1,10 +1,13 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.votepaulaswift.com/news/swift-running-for-california-legislature",
+ "fingerprint": "b2e243f999f7fb7d75bc34deae229b19885bbcc2",
+ "format": 3,
  "paid_for_by": "Paid for by Swift for Assembly 2026 FPPC #1485309 1 W",
  "title": "Because of redistricting, Paula Swift is now running for a California Legislature seat",
  "years_mentioned": [
   "2022",
+  "2025",
   "2026"
  ]
 }

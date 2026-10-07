@@ -1,12 +1,58 @@
 [
-"https://grayforassembly.com/",
-"https://grayforassembly.com/assembly-minority-leader-will-barclay-endorses-scott-gray",
-"https://grayforassembly.com/author/admin",
-"https://grayforassembly.com/category/news",
-"https://grayforassembly.com/contact",
-"https://grayforassembly.com/donate",
-"https://grayforassembly.com/endorsements",
-"https://grayforassembly.com/national-federation-of-independent-business-nfib-endorses-scott-gray",
-"https://grayforassembly.com/photo-gallery",
-"https://userway.org/"
+{
+"text": "Contact",
+"href": "https://www.grayforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.grayforassembly.com/endorsements/"
+},
+{
+"text": "Make A Campaign Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "Make A Donation",
+"href": "https://www.grayforassembly.com/donate/"
+},
+{
+"text": "News",
+"href": "https://www.grayforassembly.com/category/news/"
+},
+{
+"text": "Next Post:National Federation of Independent Business (NFIB) Endorses Scott Gray",
+"href": "https://www.grayforassembly.com/national-federation-of-independent-business-nfib-endorses-scott-gray/"
+},
+{
+"text": "Photos",
+"href": "https://www.grayforassembly.com/photo-gallery/"
+},
+{
+"text": "Previous Post:Assembly Minority Leader Will Barclay Endorses Scott Gray",
+"href": "https://www.grayforassembly.com/assembly-minority-leader-will-barclay-endorses-scott-gray/"
+},
+{
+"text": "[image: Scott Gray for Assembly | New York State Assembly, 116th District]",
+"href": "https://www.grayforassembly.com/"
+},
+{
+"text": "admin",
+"href": "https://www.grayforassembly.com/author/admin/"
+},
+{
+"text": "friendsofgray@gmail.com",
+"href": "mailto:friendsofgray@gmail.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

@@ -1,24 +1,3 @@
-Highlights
-An Act to Reduce Single-Use Plastics from the Environment
-| H767/S525 An Act to Reduce SIngle Use Plastics from the Environment | |
-| File Size: | 93 kb |
-| File Type: | docx |
-| H3676 An Act to Update the Bottle Bill (Ciccolo) | |
-| File Size: | 88 kb |
-| File Type: | docx |
-| h2205.pdf | |
-| File Size: | 588 kb |
-| File Type: | |
-| h779.pdf | |
-| File Size: | 758 kb |
-| File Type: | |
-| Zero Waste Caucus Priorities for New Administration | |
-| File Size: | 142 kb |
-| File Type: | docx |
-| FY24 Zero Waste Caucus House Budget Letter | |
-| File Size: | 211 kb |
-| File Type: | |
-| Zero Waste Caucus Comments to the Draft 2020-2030 Solid Waste Master Plan | |
-| File Size: | 199 kb |
-| File Type: | |
-194th Session Caucus Members:
+MICHELLE CICCOLO STATE REPRESENTATIVE Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign Zero Waste Caucus The current recycling and waste systems are not sustainable and not functioning to meet our growing Commonwealth's needs.
+To combat the waste crisis, I joined with Senator Jason Lewis to form the bipartisan and bicameral Massachusetts Zero Waste Caucus .
+The caucus works together to reduce and eliminate solid waste in Massachusetts through legislative action, state and local collaboration, information gathering, education, and public outreach. ​ Highlights Priority Legislation: ​An Act to Reduce Single-Use Plastics from the Environment H767/S525 An Act to Reduce SIngle Use Plastics from the Environment File Size: 93 kb File Type: docx Download File An Act to Update the Bottle Bill H3676 An Act to Update the Bottle Bill (Ciccolo) File Size: 88 kb File Type: docx Download File An Act Decreasing Food Waste... h2205.pdf File Size: 588 kb File Type: pdf Download File An Act to save recycling costs in the Commonwealth h779.pdf File Size: 758 kb File Type: pdf Download File Advocacy Letters Priority Letter to New Governor Administration (2023) Zero Waste Caucus Priorities for New Administration File Size: 142 kb File Type: docx Download File FY24 Caucus Letter to House Leadership FY24 Zero Waste Caucus House Budget Letter File Size: 211 kb File Type: pdf Download File Comments to the Draft 2020-2030 Solid Waste Master Plan Zero Waste Caucus Comments to the Draft 2020-2030 Solid Waste Master Plan File Size: 199 kb File Type: pdf Download File ​194th Session Caucus Members: ​ Paid for by the Committee to ​Elect Michelle Ciccolo Copyright © # Home About Meet Michelle Career Accomplishments The District Updates Office Hours Newsletter Press Priorities Zero Waste Caucus Legislative Trails Caucus Legislation Contact Campaign

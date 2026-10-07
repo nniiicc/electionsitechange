@@ -1,6 +1,34 @@
 [
-"https://facebook.com/GaryDeeringForMeadeCountyCommission",
-"https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://voteforgarydeering.com/",
-"https://voteforgarydeering.com/news"
+{
+"text": "About",
+"href": "https://voteforgarydeering.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://voteforgarydeering.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-gary-deering/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/GaryDeeringForMeadeCountyCommission"
+},
+{
+"text": "Home",
+"href": "https://voteforgarydeering.com/"
+},
+{
+"text": "News",
+"href": "https://voteforgarydeering.com/news/"
+},
+{
+"text": "[image: Gary Deering]",
+"href": "https://voteforgarydeering.com/"
+}
 ]

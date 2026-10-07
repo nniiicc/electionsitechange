@@ -1,28 +1,21 @@
-Pittston, PA — The Rob Bresnahan for Congress campaign today announced the endorsement of the National Postal Mail Handlers Union (NPMHU) Local 308, in Congressman Rob Bresnahan’s reelection bid in Pennsylvania’s 8th Congressional District.
+Skip to content Join Team Rob Home About News Labor Endorsements Get Involved Vote Shop Donate Instagram Facebook X YouTube DONATE Congressman Rob Bresnahan Earns Endorsement of National Postal Mail Handlers Union Local 308 September 8, 2026 Pittston, PA — The Rob Bresnahan for Congress campaign today announced the endorsement of the National Postal Mail Handlers Union (NPMHU) Local 308, in Congressman Rob Bresnahan’s reelection bid in Pennsylvania’s 8th Congressional District.
 Local 308, a division of the Laborers’ International Union of North America, represents postal mail handlers across Pennsylvania, New Jersey, and Delaware.
 In its endorsement letter, the union pointed to Bresnahan’s record of standing up for the men and women of the United States Postal Service during his first term in Congress.
 As calls to privatize postal processing jobs have continued, including at the Scranton Processing & Distribution Center and the Wilkes-Barre Sectional Distribution Center, both located in the 8th District, Bresnahan has spoken out for keeping the Postal Service an independent establishment of the federal government.
 The union also credited him with backing the broader labor movement and collective bargaining rights, which ensure safe workplaces and wages that keep pace with the cost of living.
-“Representative Bresnahan has continually shown support for the dedicated men and women of the United States Postal Service, and he understands that collective bargaining and union rights ensure a safe work environment and promote wages that meet the cost of living,” said NPMHU Local 308 President and NPMHU Eastern Region Vice President John Gibson.
-The full endorsement letter can be read HERE.
-“The dedicated men and women of the US Postal Service show up every day to make sure a grandmother in Carbondale gets her medication on time and a small business in Hazleton gets its products to their customers.” said Congressman Rob Bresnahan.
-“I am honored to have the support of the National Mail Postal Handlers Union Local 308, and will always fight to protect these vital jobs.”
-The Eastern Atlantic States Regional Council of Carpenters joins a large and growing coalition of labor organizations supporting Bresnahan’s re-election, including:
-- Amalgamated Transit Union (Endorsement announcement HERE)
-- American Federation of Government Employees (Endorsement announcement HERE)
-- American Federation of Government Employees District 3 (Endorsement letter HERE)
-- American Maritime Officers (Endorsement letter HERE)
-- Brotherhood of Railroad Signalmen (Endorsement letter HERE)
-- Eastern Atlantic States Regional Council of Carpenters (Endorsement letter HERE)
-- International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 13 (Endorsement Letter HERE)
-- International Brotherhood of Electrical Workers Local 163 (Endorsement letter HERE)
-- International Brotherhood of Electrical Workers Local 1319 (Endorsement letter HERE)
-- International Organization of Masters, Mates, and Pilots (Endorsement letter HERE)
-- International Union of Operating Engineers Local 542 (Endorsement letter HERE)
-- Marine Engineers’ Beneficial Association (Endorsement letter HERE)
-- Pennsylvania Conference of Teamsters (Endorsement letter HERE)
-- Pennsylvania Laborers’ District Council (Endorsement letter HERE)
-- Seafarers International Union (Endorsement letter HERE)
-- SMART – Transportation Division (Endorsement letter HERE)
-For more information visit www.RobForPA.com.
-###
+“Representative Bresnahan has continually shown support for the dedicated men and women of the United States Postal Service, and he understands that collective bargaining and union rights ensure a safe work environment and promote wages that meet the cost of living,” said NPMHU Local 308 President and NPMHU Eastern Region Vice President John Gibson .
+The full endorsement letter can be read HERE .
+“The dedicated men and women of the US Postal Service show up every day to make sure a grandmother in Carbondale gets her medication on time and a small business in Hazleton gets its products to their customers.” said Congressman Rob Bresnahan .
+“I am honored to have the support of the National Mail Postal Handlers Union Local 308, and will always fight to protect these vital jobs.” The Eastern Atlantic States Regional Council of Carpenters joins a large and growing coalition of labor organizations supporting Bresnahan’s re-election, including: Amalgamated Transit Union (Endorsement announcement HERE ) American Federation of Government Employees (Endorsement announcement HERE ) American Federation of Government Employees District 3 (Endorsement letter HERE ) American Maritime Officers (Endorsement letter HERE ) Brotherhood of Railroad Signalmen (Endorsement letter HERE ) Eastern Atlantic States Regional Council of Carpenters (Endorsement letter HERE ) International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 13 (Endorsement Letter HERE ) International Brotherhood of Electrical Workers Local 163 (Endorsement letter HERE ) International Brotherhood of Electrical Workers Local 1319 (Endorsement letter HERE ) International Organization of Masters, Mates, and Pilots (Endorsement letter HERE ) International Union of Operating Engineers Local 542 (Endorsement letter HERE ) Marine Engineers’ Beneficial Association (Endorsement letter HERE ) Pennsylvania Conference of Teamsters (Endorsement letter HERE ) Pennsylvania Laborers’ District Council (Endorsement letter HERE ) Seafarers International Union (Endorsement letter HERE ) SMART – Transportation Division (Endorsement letter HERE ) For more information visit www.RobForPA.com .
+### Support Rob $25 $50 $75 $100 Join Team Rob!
+First Name (Required) Last Name (Required) Email (Required) Phone Zip Code Text Opt-in (Required) By providing your mobile phone number, you are giving your consent to receive calls and sms/mms messages to that number from Rob for PA.
+Messages may include requests for donations.
+Msg frequency varies.
+Msg & data rates may apply.
+Text Help for support.
+Text Stop to opt out.
+See: Privacy Policy .
+Terms & Conditions .
+I consent Join Us!
+Rob for PA PO Box 971 Pittston, PA 18640 Please send all media inquiries to [email protected] Instagram Facebook X YouTube Privacy Policy Terms & Conditions Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Paid for by Rob for PA

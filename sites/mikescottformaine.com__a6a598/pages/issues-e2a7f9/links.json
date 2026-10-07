@@ -1,13 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MikeScottforMaineSenate",
-"https://mikescottformaine.com/",
-"https://mikescottformaine.com/about",
-"https://mikescottformaine.com/contact",
-"https://mikescottformaine.com/endorsements",
-"https://mikescottformaine.com/issues/issue-1",
-"https://mikescottformaine.com/issues/issue-2",
-"https://mikescottformaine.com/issues/safe-communities",
-"https://mikescottformaine.com/news",
-"https://mikescottformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.mikescottformaine.com/about"
+},
+{
+"text": "Affordability",
+"href": "https://www.mikescottformaine.com/issues/issue-1"
+},
+{
+"text": "Contact",
+"href": "https://www.mikescottformaine.com/contact"
+},
+{
+"text": "Education",
+"href": "https://www.mikescottformaine.com/issues/issue-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikescottformaine.com/endorsements"
+},
+{
+"text": "News",
+"href": "https://www.mikescottformaine.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.mikescottformaine.com/issues/safe-communities"
+},
+{
+"text": "View more",
+"href": "https://www.mikescottformaine.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.mikescottformaine.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.mikescottformaine.com/issues/safe-communities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikescottformaine.com/volunteer"
+},
+{
+"text": "[image: Mike Scott for Maine]",
+"href": "https://www.mikescottformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeScottforMaineSenate"
+}
 ]

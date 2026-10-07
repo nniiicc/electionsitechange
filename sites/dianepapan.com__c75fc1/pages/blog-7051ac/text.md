@@ -1,23 +1,2 @@
-top of page
-HOME
-MEET DIANE
-PRIORITIES
-DIANE'S STORY
-NEWS
-ENDORSEMENTS
-VIDEOS
-EVENTS
-GALLERY
-JOIN
-More
-Use tab to navigate through the menu items.
-DONATE
-The Latest News
-All Posts
-San Mateo Deputy Mayor Diane Papan Decisively Wins June Primary By A 2:1 Margin
-Vote For Papan
-Papan Takes On Tough Issues
-Vote Diane Papan For State Assembly
-Open Letter To Team Papan
-A Message From Team Papan
-bottom of page
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE The Latest News All Posts San Mateo Deputy Mayor Diane Papan Decisively Wins June Primary By A 2:1 Margin Vote For Papan Papan Takes On Tough Issues Vote Diane Papan For State Assembly Open Letter To Team Papan A Message From Team Papan HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

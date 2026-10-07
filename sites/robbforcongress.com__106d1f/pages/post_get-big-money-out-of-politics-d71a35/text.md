@@ -1,6 +1,4 @@
-Get Big Money Out of Politics
-Updated: Mar 22
-Who Gets Heard?
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Get Big Money Out of Politics Jun 2, 2025 2 min read Updated: Mar 22 Who Gets Heard?
 When I first ran for Congress in 2018, I made a decision: I wouldn’t take any corporate PAC money.
 People told me I was crazy.
 They said I’d never raise enough to compete.
@@ -21,11 +19,7 @@ And if you can’t afford access, you’re left hoping someone else speaks for y
 If you’ve ever wondered why politicians don’t listen to you, this is a big reason why.
 I’m running for Congress because I want to change that.
 I want to help build a democracy where people come before profits.
-Here’s what that requires:
-- No corporate PAC money, so elected leaders answer to people, not big donors
-- Clear rules and full transparency, so money can’t hide behind the scenes
-- Real pathways for everyday people to run for office, not just the wealthy and well-connected
-This isn’t just about fairness.
+Here’s what that requires: No corporate PAC money, so elected leaders answer to people, not big donors Clear rules and full transparency, so money can’t hide behind the scenes Real pathways for everyday people to run for office, not just the wealthy and well-connected This isn’t just about fairness.
 It’s about who gets heard.
 Because when money decides who gets access, it also decides whose problems get solved.
 I’ve seen the other side of that.
@@ -49,4 +43,4 @@ Open.
 Accountable.
 Grounded in real people.
 Because when money stops calling the shots, people finally get heard.
-And that’s when democracy starts to work again.
+And that’s when democracy starts to work again. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

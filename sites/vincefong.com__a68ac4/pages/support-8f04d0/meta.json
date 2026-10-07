@@ -1,7 +1,9 @@
 {
  "description": "Join Vince EmailThis field is for validation purposes and should be left unchanged.Name or Organization*TitleStreet Address*City*State*Zip Code*Phone",
  "final_url": "https://vincefong.com/support/",
- "paid_for_by": "Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top",
+ "fingerprint": "691bda1e1e82c64921df56e00fba646dbdd00656",
+ "format": 3,
+ "paid_for_by": "Paid for by Vince Fong for Congress Privacy Policy",
  "title": "Join Us - Vince Fong for Congress",
  "years_mentioned": []
 }

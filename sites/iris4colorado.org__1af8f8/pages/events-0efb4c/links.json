@@ -1,130 +1,774 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Congress+Park%2F+Cheesman+Park&dates=20260607T180000Z%2F20260607T220000Z&location=774+Clayton+Street%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260523T180000Z%2F20260523T220000Z&location=774+Clayton+St.%2C+774+N+Clayton+St%2C+Denver%2C+CO+80206",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Hale+Neighborhood&dates=20260530T180000Z%2F20260530T220000Z&location=4601+E.+Hale+Parkway+%2C+4601+E+Hale+Pkwy%2C+Denver%2C+CO+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Lowry%2FMontclair+Neighborhoods&dates=20260606T190000Z%2F20260606T230000Z&location=729+Ulster+Way%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Montclair+Neighborhood&dates=20260524T170000Z%2F20260524T200000Z&location=1362+Olive+St.+%2C+1362+Olive+St%2C+Denver%2C+CO+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+Congress+Park%2FCheesman+Park%2FUptown+Neighborhoods&dates=20260614T190000Z%2F20260614T230000Z&location=774+Clayton+St.%2C+Denver%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+Montclair%2FLowry%2FEast+Colfax+Neighborhoods&dates=20260613T180000Z%2F20260613T220000Z&location=6820+East+12th+Avenue%2C+Denver%2C+CO%2C+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+with+the+Coalition+of+Black+Trade+Unionists+Montclair%2FHale%2FEast+Colfax+Neighborhoods&dates=20260622T220000Z%2F20260623T010000Z&location=6820+East+12th+Avenue%2C+Denver%2C+Colorado%2C+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Denver+Teacher%27s+Association+for+Iris+Halpern+for+House+District+-+Capitol+Hill%2FUptown+Neighborhoods&dates=20260625T230000Z%2F20260626T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Night+Watch+Party+at+Town+Hall+Collaborative&dates=20260701T003000Z%2F20260701T040000Z&location=525+Santa+Fe+Drive%2C+Denver%2C+Colorado%2C+80204%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Help+Flip+HD6+Progressive+and+Defeat+Dark+Money+Canvass+Joint+Canvass+with+Iris+Halpern+for+HD6+and+Melat+Kiros+for+CD1+Launch+5-6+pm%26nbsp%3B+Canvass+5-8+pm%26nbsp%3BCapitol+Hill+Location+Launch&dates=20260629T230000Z%2F20260630T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=JCRC+Forum&dates=20260609T000000Z%2F20260609T030000Z&location=51+Grape+St%2C++CO+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3B+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260620T180000Z%2F20260620T220000Z&location=774+Clayton+St.%2C+Denver%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BCongress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260623T230000Z%2F20260624T013000Z&location=United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BCongress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods+&dates=20260626T220000Z%2F20260627T010000Z&location=United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BHale+Neighborhood&dates=20260621T180000Z%2F20260621T220000Z&location=4601+East+Hale+Parkway%2C+Denver%2C+CO%2C+80220%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BHale+Neighborhood.&dates=20260624T230000Z%2F20260625T013000Z&location=4601+East+Hale+Parkway%2C+Denver%2C+Colorado%2C+80220%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+-%26nbsp%3BLowry+Neighborhood&dates=20260619T220000Z%2F20260620T000000Z&location=+600+S+Fulton+St%2C+%2C+Denver%2C+CO+8024%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C+Julie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260627T190000Z%2F20260627T230000Z&location=774+Clayton+St.%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C+Julie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods+&dates=20260630T170000Z%2F20260630T180000Z&location=701+South+Pennsylvania+Street%2C+Denver%2C+Colorado%2C+80209%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+and+David+Seligman+-+Cheesman+Park%2C+Capitol+Hill%2C+Congress+Park+Neighborhoods+%21&dates=20260531T180000Z%2F20260531T190000Z&location=1900+East+11th+Avenue%2C+Denver%2C+CO%2C+80206",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Julie+Gonzales+for+U.S.+Senate%2C+David+Seligman+for+Attorney+General%2C+and+Iris+Halpern+for+House+District+6+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260618T230000Z%2F20260619T013000Z&location=850+Josephine+Street%2C+Denver%2C+Colorado%2C+80206%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+and+Ask+Your+Questions+-+Lowry+Neighborhood+Windsor+Gardens+Community+Center&dates=20260619T180000Z%2F20260619T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+And+Ask+Your+Questions+-+Cheesman+Park%2FCongress+Park+Neighborhoods&dates=20260621T170000Z%2F20260621T183000Z&location=1200+Clayton+St.%2C+CO+80206",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+and+Ask+Your+Questions+-+Hale%2FLowry+Neighborhoods&dates=20260614T170000Z%2F20260614T183000Z&location=1447+Quince+Street%2C+Denver%2C+CO+80220",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Happy+Hour+and+Ask+Your+Questions+-+Capitol+Hill+Neighborhood&dates=20260607T220000Z%2F20260608T000000Z&location=619+East+13th+Avenue%2C+Denver%2C+CO%2C+80203",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Happy+Hour+and+Ask+Your+Questions+-+Montclair+Neighborhood&dates=20260524T210000Z%2F20260524T230000Z&location=7101+East+Colfax+Avenue%2C+Denver%2C+CO%2C+80220%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+Iris+For+House+District+6.+Neighborhood+Event&dates=20260625T233000Z%2F20260626T010000Z&location=1433+N.+Williams+Street%2C+Cheesman+Park%2C+CO+80206",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pride+Weekend+Canvass+HD6+for+Iris+-+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260628T190000Z%2F20260628T200000Z&location=850+Josephine+St.%2C+Denver%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Demand+Change+%28Student+Forum%29&dates=20260522T203000Z%2F20260522T223000Z&location=Dimond+Hall%2C+Room+195%2C+Denver%2C+CO+80210",
-"http://maps.google.com/?q=++United+States",
-"http://maps.google.com/?q=+600+S+Fulton+St%2C++Denver%2C+CO+8024+United+States",
-"http://maps.google.com/?q=1200+Clayton+St.+CO+80206",
-"http://maps.google.com/?q=1362+Olive+St.++1362+Olive+St%2C+Denver%2C+CO+80220",
-"http://maps.google.com/?q=1433+N.+Williams+Street%2C+Cheesman+Park+CO+80206",
-"http://maps.google.com/?q=1447+Quince+Street+Denver%2C+CO+80220",
-"http://maps.google.com/?q=1900+East+11th+Avenue+Denver%2C+CO%2C+80206",
-"http://maps.google.com/?q=4601+E.+Hale+Parkway++4601+E+Hale+Pkwy%2C+Denver%2C+CO+80220",
-"http://maps.google.com/?q=4601+East+Hale+Parkway+Denver%2C+CO%2C+80220+United+States",
-"http://maps.google.com/?q=4601+East+Hale+Parkway+Denver%2C+Colorado%2C+80220+United+States",
-"http://maps.google.com/?q=51+Grape+St++CO+80220",
-"http://maps.google.com/?q=525+Santa+Fe+Drive+Denver%2C+Colorado%2C+80204+United+States",
-"http://maps.google.com/?q=619+East+13th+Avenue+Denver%2C+CO%2C+80203",
-"http://maps.google.com/?q=6820+East+12th+Avenue+Denver%2C+CO%2C+80220",
-"http://maps.google.com/?q=6820+East+12th+Avenue+Denver%2C+Colorado%2C+80220",
-"http://maps.google.com/?q=701+South+Pennsylvania+Street+Denver%2C+Colorado%2C+80209+United+States",
-"http://maps.google.com/?q=7101+East+Colfax+Avenue+Denver%2C+CO%2C+80220+United+States",
-"http://maps.google.com/?q=729+Ulster+Way+Denver+United+States",
-"http://maps.google.com/?q=774+Clayton+St.%2C+Denver+Denver+United+States",
-"http://maps.google.com/?q=774+Clayton+St.+774+N+Clayton+St%2C+Denver%2C+CO+80206",
-"http://maps.google.com/?q=774+Clayton+St.+Denver+United+States",
-"http://maps.google.com/?q=774+Clayton+Street+Denver+United+States",
-"http://maps.google.com/?q=850+Josephine+St.+Denver+United+States",
-"http://maps.google.com/?q=850+Josephine+Street+Denver%2C+Colorado%2C+80206+United+States",
-"http://maps.google.com/?q=Dimond+Hall%2C+Room+195+Denver%2C+CO+80210",
-"http://maps.google.com/?q=RSVP++by+email+for+address%3A+iris.halpern%40iris4colorado.com",
-"http://maps.google.com/?q=Windsor+Gardens+Community+Center",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events/election-night-watch-party",
-"https://iris4colorado.org/events/election-night-watch-party?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73?format=ical",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2?format=ical",
-"https://iris4colorado.org/events/jcrc-forum",
-"https://iris4colorado.org/events/jcrc-forum?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4?format=ical",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood?format=ical",
-"https://iris4colorado.org/events/we-demand-change-student-forum",
-"https://iris4colorado.org/events/we-demand-change-student-forum?format=ical",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=++united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+600+s+fulton+st%2C++denver%2C+co+8024+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1200+clayton+st.+co+80206+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1362+olive+st.++1362+olive+st%2C+denver%2C+co+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1433+n.+williams+street%2C+cheesman+park+co+80206+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1447+quince+street+denver%2C+co+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1900+east+11th+avenue+denver%2C+co%2C+80206+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4601+e.+hale+parkway++4601+e+hale+pkwy%2C+denver%2C+co+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4601+east+hale+parkway+denver%2C+co%2C+80220+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4601+east+hale+parkway+denver%2C+colorado%2C+80220+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=51+grape+st++co+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=525+santa+fe+drive+denver%2C+colorado%2C+80204+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=619+east+13th+avenue+denver%2C+co%2C+80203+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6820+east+12th+avenue+denver%2C+co%2C+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6820+east+12th+avenue+denver%2C+colorado%2C+80220+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=701+south+pennsylvania+street+denver%2C+colorado%2C+80209+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7101+east+colfax+avenue+denver%2C+co%2C+80220+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=729+ulster+way+denver+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=774+clayton+st.%2C+denver+denver+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=774+clayton+st.+774+n+clayton+st%2C+denver%2C+co+80206+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=774+clayton+st.+denver+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=774+clayton+street+denver+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=850+josephine+st.+denver+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=850+josephine+street+denver%2C+colorado%2C+80206+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=dimond+hall%2C+room+195+denver%2C+co+80210+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=rsvp++by+email+for+address%3A+iris.halpern%40iris4colorado.com+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=windsor+gardens+community+center"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "And join us for a drink afte",
+"href": "mailto:Iris.Halpern@Iris4Colorado.com"
+},
+{
+"text": "Canvass HD6 for Iris - Congress Park/ Cheesman Park",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w"
+},
+{
+"text": "Canvass HD6 for Iris - Congress Park/Cheesman Park Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2"
+},
+{
+"text": "Canvass HD6 for Iris - Hale Neighborhood",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x"
+},
+{
+"text": "Canvass HD6 for Iris - Lowry/Montclair Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7"
+},
+{
+"text": "Canvass HD6 for Iris - Montclair Neighborhood",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73"
+},
+{
+"text": "Canvass for Iris Congress Park/Cheesman Park/Uptown Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d"
+},
+{
+"text": "Canvass for Iris Montclair/Lowry/East Colfax Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj"
+},
+{
+"text": "Canvass for Iris with the Coalition of Black Trade Unionists Montclair/Hale/East Colfax Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6"
+},
+{
+"text": "Canvass with the Denver Teacher's Association for Iris Halpern for House District - Capitol Hill/Uptown Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Election Night Watch Party at Town Hall Collaborative",
+"href": "https://www.iris4colorado.org/events/election-night-watch-party"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Congress+Park%2F+Cheesman+Park&dates=20260607T180000Z%2F20260607T220000Z&location=774+Clayton+Street%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260523T180000Z%2F20260523T220000Z&location=774+Clayton+St.%2C+774+N+Clayton+St%2C+Denver%2C+CO+80206"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Hale+Neighborhood&dates=20260530T180000Z%2F20260530T220000Z&location=4601+E.+Hale+Parkway+%2C+4601+E+Hale+Pkwy%2C+Denver%2C+CO+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Lowry%2FMontclair+Neighborhoods&dates=20260606T190000Z%2F20260606T230000Z&location=729+Ulster+Way%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+HD6+for+Iris+-+Montclair+Neighborhood&dates=20260524T170000Z%2F20260524T200000Z&location=1362+Olive+St.+%2C+1362+Olive+St%2C+Denver%2C+CO+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+Congress+Park%2FCheesman+Park%2FUptown+Neighborhoods&dates=20260614T190000Z%2F20260614T230000Z&location=774+Clayton+St.%2C+Denver%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+Montclair%2FLowry%2FEast+Colfax+Neighborhoods&dates=20260613T180000Z%2F20260613T220000Z&location=6820+East+12th+Avenue%2C+Denver%2C+CO%2C+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Iris+with+the+Coalition+of+Black+Trade+Unionists+Montclair%2FHale%2FEast+Colfax+Neighborhoods&dates=20260622T220000Z%2F20260623T010000Z&location=6820+East+12th+Avenue%2C+Denver%2C+Colorado%2C+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Denver+Teacher%27s+Association+for+Iris+Halpern+for+House+District+-+Capitol+Hill%2FUptown+Neighborhoods&dates=20260625T230000Z%2F20260626T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Night+Watch+Party+at+Town+Hall+Collaborative&dates=20260701T003000Z%2F20260701T040000Z&location=525+Santa+Fe+Drive%2C+Denver%2C+Colorado%2C+80204%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Help+Flip+HD6+Progressive+and+Defeat+Dark+Money+Canvass+Joint+Canvass+with+Iris+Halpern+for+HD6+and+Melat+Kiros+for+CD1+Launch+5-6+pm%26nbsp%3B+Canvass+5-8+pm%26nbsp%3BCapitol+Hill+Location+Launch&dates=20260629T230000Z%2F20260630T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=JCRC+Forum&dates=20260609T000000Z%2F20260609T030000Z&location=51+Grape+St%2C++CO+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3B+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260620T180000Z%2F20260620T220000Z&location=774+Clayton+St.%2C+Denver%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BCongress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260623T230000Z%2F20260624T013000Z&location=United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BCongress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods+&dates=20260626T220000Z%2F20260627T010000Z&location=United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BHale+Neighborhood&dates=20260621T180000Z%2F20260621T220000Z&location=4601+East+Hale+Parkway%2C+Denver%2C+CO%2C+80220%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General%26nbsp%3BHale+Neighborhood.&dates=20260624T230000Z%2F20260625T013000Z&location=4601+East+Hale+Parkway%2C+Denver%2C+Colorado%2C+80220%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C%26nbsp%3BJulie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+-%26nbsp%3BLowry+Neighborhood&dates=20260619T220000Z%2F20260620T000000Z&location=+600+S+Fulton+St%2C+%2C+Denver%2C+CO+8024%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C+Julie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260627T190000Z%2F20260627T230000Z&location=774+Clayton+St.%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+Halpern+for+House+District+6%2C+Julie+Gonzales+for+U.S.+Senate%2C+and+David+Seligman+for+Attorney+General+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods+&dates=20260630T170000Z%2F20260630T180000Z&location=701+South+Pennsylvania+Street%2C+Denver%2C+Colorado%2C+80209%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Iris+and+David+Seligman+-+Cheesman+Park%2C+Capitol+Hill%2C+Congress+Park+Neighborhoods+%21&dates=20260531T180000Z%2F20260531T190000Z&location=1900+East+11th+Avenue%2C+Denver%2C+CO%2C+80206"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+for+Julie+Gonzales+for+U.S.+Senate%2C+David+Seligman+for+Attorney+General%2C+and+Iris+Halpern+for+House+District+6+Congress+Park%2FCheesman+Park+Neighborhoods&dates=20260618T230000Z%2F20260619T013000Z&location=850+Josephine+Street%2C+Denver%2C+Colorado%2C+80206%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+and+Ask+Your+Questions+-+Lowry+Neighborhood+Windsor+Gardens+Community+Center&dates=20260619T180000Z%2F20260619T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+And+Ask+Your+Questions+-+Cheesman+Park%2FCongress+Park+Neighborhoods&dates=20260621T170000Z%2F20260621T183000Z&location=1200+Clayton+St.%2C+CO+80206"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+and+Ask+Your+Questions+-+Hale%2FLowry+Neighborhoods&dates=20260614T170000Z%2F20260614T183000Z&location=1447+Quince+Street%2C+Denver%2C+CO+80220"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Happy+Hour+and+Ask+Your+Questions+-+Capitol+Hill+Neighborhood&dates=20260607T220000Z%2F20260608T000000Z&location=619+East+13th+Avenue%2C+Denver%2C+CO%2C+80203"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Happy+Hour+and+Ask+Your+Questions+-+Montclair+Neighborhood&dates=20260524T210000Z%2F20260524T230000Z&location=7101+East+Colfax+Avenue%2C+Denver%2C+CO%2C+80220%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+Iris+For+House+District+6.+Neighborhood+Event&dates=20260625T233000Z%2F20260626T010000Z&location=1433+N.+Williams+Street%2C+Cheesman+Park%2C+CO+80206"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pride+Weekend+Canvass+HD6+for+Iris+-+Congress+Park%2FCheesman+Park%2FCapitol+Hill+Neighborhoods&dates=20260628T190000Z%2F20260628T200000Z&location=850+Josephine+St.%2C+Denver%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Demand+Change+%28Student+Forum%29&dates=20260522T203000Z%2F20260522T223000Z&location=Dimond+Hall%2C+Room+195%2C+Denver%2C+CO+80210"
+},
+{
+"text": "Help Flip HD6 Progressive and Defeat Dark Money Canvass Joint Canvass with Iris Halpern for HD6 and Melat Kiros for CD1 Launch 5-6 pm Canvass 5-8 pm Capitol Hill Location Launch",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/election-night-watch-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/jcrc-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/we-demand-change-student-forum?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Iris.Halpern@Iris4Colorado.com",
+"href": "mailto:Iris.Halpern@Iris4Colorado.com"
+},
+{
+"text": "Iris.halpern@iris4colorado.com",
+"href": "mailto:Iris.halpern@iris4colorado.com"
+},
+{
+"text": "JCRC Forum",
+"href": "https://www.iris4colorado.org/events/jcrc-forum"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General - Lowry Neighborhood",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Hale Neighborhood",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46"
+},
+{
+"text": "Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Hale Neighborhood.",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx"
+},
+{
+"text": "Joint Canvass for Iris and David Seligman - Cheesman Park, Capitol Hill, Congress Park Neighborhoods !",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5"
+},
+{
+"text": "Joint Canvass for Julie Gonzales for U.S. Senate, David Seligman for Attorney General, and Iris Halpern for House District 6 Congress Park/Cheesman Park Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f"
+},
+{
+"text": "Meet Iris and Ask Your Questions - Lowry Neighborhood Windsor Gardens Community Center",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj"
+},
+{
+"text": "Meet Iris for Coffee And Ask Your Questions - Cheesman Park/Congress Park Neighborhoods",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4"
+},
+{
+"text": "Meet Iris for Coffee and Ask Your Questions - Hale/Lowry Neighborhoods",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8"
+},
+{
+"text": "Meet Iris for Happy Hour and Ask Your Questions - Capitol Hill Neighborhood",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood"
+},
+{
+"text": "Meet Iris for Happy Hour and Ask Your Questions - Montclair Neighborhood",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood"
+},
+{
+"text": "Meet and Greet Iris For House District 6. Neighborhood Event",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Pride Weekend Canvass HD6 for Iris - Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/election-night-watch-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/jcrc-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55"
+},
+{
+"text": "View Event →",
+"href": "https://www.iris4colorado.org/events/we-demand-change-student-forum"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "We Demand Change (Student Forum)",
+"href": "https://www.iris4colorado.org/events/we-demand-change-student-forum"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/election-night-watch-party"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-6xrm7"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-bnk8f-nht35"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-n5jn6"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-fewtk-zfpgm-tw7rn"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-r5gzx"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj-pc697"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-zn4z5"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-ndf73"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/jcrc-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-capitol-hill-neighborhood"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-8xgtj"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55"
+},
+{
+"text": "[no text]",
+"href": "https://www.iris4colorado.org/events/we-demand-change-student-forum"
+},
+{
+"text": "iris.halpern@iris4colorado.com",
+"href": "mailto:iris.halpern@iris4colorado.com"
+}
 ]

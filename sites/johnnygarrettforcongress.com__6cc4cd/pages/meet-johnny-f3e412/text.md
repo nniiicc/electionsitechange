@@ -1,5 +1,4 @@
-Meet Johnny
-As a Christian conservative, husband, and father of three, Johnny Garrett is running for Congress to fight alongside President Trump in doing what the swamp in Washington would never do - stand up for conservative family values, fix our economy, and keep our country safe.
+Skip to main content Skip to footer Opens in a new tab Home Meet Johnny Issues News Donate Meet Johnny As a Christian conservative, husband, and father of three, Johnny Garrett is running for Congress to fight alongside President Trump in doing what the swamp in Washington would never do - stand up for conservative family values, fix our economy, and keep our country safe.
 Johnny is committed to working with President Trump and supporting his America First agenda.
 After President Trump took office in 2016, Johnny saw the need for more America First fighters, which is why he ran for State Representative in 2018 to ensure Tennessee continued to be a bastion for the American First movement and conservative values.
 After his first election in 2018, Johnny was selected by his peers in the Tennessee General Assembly to serve as the House Majority Whip, a position that he has held since 2019.
@@ -18,3 +17,10 @@ Johnny co-founded the 100 Club of Sumner County, which is a non-profit dedicated
 Johnny is a member of the Hendersonville Rotary Club, the Sumner County Bar Association, the Nashville Bar Association, and the Tennessee Bar Association.
 Johnny is a lifetime member of the National Rifle Association and a past member of Ducks Unlimited.
 In his spare time, Johnny enjoys spending time with family, hunting, golf, and anything baseball.
+Paid for by Johnny Garrett for Congress Please provide your mobile phone to opt-in to Johnny Garrett for Congress campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

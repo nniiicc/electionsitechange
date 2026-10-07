@@ -1,13 +1,1 @@
-Donate
-Connect with Brenna
-News
-Donate
-Attorney General Brenna Bird
-In The News
-December 4, 2023
-AGs fed up with NYT, CNN Hamas coverage issue stern warning: ‘Follow the law’
-Prev
-1
-…
-6
-7
+Donate Connect with Brenna News Donate Attorney General Brenna Bird In The News December 4, 2023 AGs fed up with NYT, CNN Hamas coverage issue stern warning: ‘Follow the law’ Prev 1 … 6 7 Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

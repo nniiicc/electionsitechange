@@ -1,4 +1,4 @@
-Karin is the second of three daughters born to Pete and Jeanette Locke — both public school teachers — in South St.
+Meet Karin Issues More Endorsements Privacy Policy Donate Meet Karin Housley Karin is the second of three daughters born to Pete and Jeanette Locke — both public school teachers — in South St.
 Paul, Minnesota.
 After graduating from South St.
 Paul High School in 1982, Karin briefly attended Augsburg College in Minneapolis before moving east to be with her high school sweetheart, Phil Housley, who had just been drafted by the NHL’s Buffalo Sabres.
@@ -16,7 +16,7 @@ As a mom and small business owner, Karin knew she had a perspective needed at th
 In 2012, Karin was first elected to serve Forest Lake, Stillwater, and the St.
 Croix Valley in the Minnesota Senate; she was re-elected in 2016, 2020, and 2022.
 Karin has become known as a passionate advocate for senior citizens, veterans, and families, and is proud of the relationships she has built with the communities she represents.
-As a state senator, Karin is an effective, bipartisan leader that gets things done.
+As a state senator, Karin is an effective, bipartisan leader that gets things done .
 She is an Assistant Minority Leader and the ranking Republican on the Senate Capital Investment Committee.
 She previously chaired the Senate Aging and Long-Term Care Committee, the first-ever committee focused on long-term care issues.
 Karin also serves on the housing and jobs committees.
@@ -28,9 +28,9 @@ Croix Valley Yellow Ribbon Network.
 Karin has also served as the honorary chair of the Canvas Health Annual Fundraiser for individuals with mental health and chemical dependency issues, as president of the local Board of Community Thread chapter, and as a board member of the Lower St.
 Croix Valley Foundation, the Special Olympics Red Carpet Committee, the Washington County Historic Courthouse Advisory Council, the Washington County Agricultural Society, and the Greater Stillwater Chamber of Commerce.
 The Housleys are members of Shepherd of the Valley Lutheran Church in Afton.
-Karin is the author of Chicks Laying Nest Eggs: How 10 Skirts Beat the Pants Off Wall Street…And How You Can Too!, a finance book aimed at teaching women how to invest in the stock market.
-After the book was published by Random House in 2001, Karin led a media tour across the country to promote it, including appearances on The View, The Rosie O’Donnell Show, Fox News, CNBC, and other local news programs.
-In addition to serving in the Minnesota Senate, Karin is a licensed realtor.
-Along with her daughter, she owns Housley Homes at Keller Williams in Stillwater, where they help local people achieve their dreams of homeownership.
-As with everything she does, Karin gets results and is exceptional at the craft; she was voted “Super Agent” by Minneapolis/St.
-Paul Magazine for 12 consecutive years.
+Join Team Housley Leave this field empty if you're human: Proudly representing Senate District 33 Bayport, Dellwood, Forest Lake, Grant, Hugo, Mahtomedi, Marine on Saint Croix, May Township, Oak Park Heights, Scandia, Stillwater, Stillwater Township, Willernie Instagram X Facebook YouTube Flickr Prepared and paid for by Housley for Senate · PO Box 2314, Stillwater, MN 55082 SMS Disclaimer: SMS opt-in information will not be shared with third parties.
+By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Housley for Senate.
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Menu

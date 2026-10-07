@@ -1,18 +1,70 @@
 [
-"https://ajforma.com/",
-"https://ajforma.com/events",
-"https://ajforma.com/get-involved",
-"https://ajforma.com/media",
-"https://ajforma.com/meet-andrea",
-"https://ajforma.com/platform",
-"https://ajforma.com/shop",
-"https://ajforma.com/shop?locale=en",
-"https://ajforma.com/shop?locale=es",
-"https://ajforma.com/shop?locale=fr",
-"https://ajforma.com/shop?locale=ht",
-"https://ajforma.com/shop?locale=ja",
-"https://ajforma.com/shop?locale=pt",
-"https://ajforma.com/shop?locale=zh",
-"https://ajforma.com/voter-information",
-"https://solidarity.tech/"
+{
+"text": "English",
+"href": "https://www.ajforma.com/shop?locale=en"
+},
+{
+"text": "Español",
+"href": "https://www.ajforma.com/shop?locale=es"
+},
+{
+"text": "Events",
+"href": "https://www.ajforma.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ajforma.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.ajforma.com/platform"
+},
+{
+"text": "Kreyòl",
+"href": "https://www.ajforma.com/shop?locale=ht"
+},
+{
+"text": "Media and Contact",
+"href": "https://www.ajforma.com/media"
+},
+{
+"text": "Meet Andrea",
+"href": "https://www.ajforma.com/meet-andrea"
+},
+{
+"text": "Português",
+"href": "https://www.ajforma.com/shop?locale=pt"
+},
+{
+"text": "Shop",
+"href": "https://www.ajforma.com/shop"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Voter Information",
+"href": "https://www.ajforma.com/voter-information"
+},
+{
+"text": "[image] Andrea James for Governor of Massachusetts",
+"href": "https://www.ajforma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "français",
+"href": "https://www.ajforma.com/shop?locale=fr"
+},
+{
+"text": "日本語",
+"href": "https://www.ajforma.com/shop?locale=ja"
+},
+{
+"text": "汉语",
+"href": "https://www.ajforma.com/shop?locale=zh"
+}
 ]

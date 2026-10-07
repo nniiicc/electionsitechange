@@ -1,21 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=A+Campy+Fundraiser+for+Paula+at+Iroquois+Springs+Camp%E2%80%93S%27mores+and+Bon+Fires&dates=20240923T213000Z%2F20240923T233000Z&location=66+Bowers+Road%2C+Monticello%2C+NY",
-"http://maps.google.com/?q=66+Bowers+Road+Monticello%2C+NY",
-"https://facebook.com/paulaforassembly",
-"https://instagram.com/paulaforassembly",
-"https://paulaforassembly100.com/",
-"https://paulaforassembly100.com/cart",
-"https://paulaforassembly100.com/contact",
-"https://paulaforassembly100.com/district-100",
-"https://paulaforassembly100.com/endorsements",
-"https://paulaforassembly100.com/events",
-"https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires?format=ical",
-"https://paulaforassembly100.com/events/campaign-fundraiser",
-"https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado",
-"https://paulaforassembly100.com/home",
-"https://paulaforassembly100.com/news",
-"https://paulaforassembly100.com/privacy-policy",
-"https://paulaforassembly100.com/volunteer",
-"https://secure.actblue.com/donate/paula-kay",
-"https://voterreg.dmv.ny.gov/MotorVoter"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=66+bowers+road+monticello%2C+ny+"
+},
+{
+"text": "0",
+"href": "https://paulaforassembly100.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://paulaforassembly100.com/events"
+},
+{
+"text": "Contact",
+"href": "https://paulaforassembly100.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paula-kay"
+},
+{
+"text": "District 100",
+"href": "https://paulaforassembly100.com/district-100"
+},
+{
+"text": "Donate",
+"href": "https://paulaforassembly100.com/home#Donate"
+},
+{
+"text": "Endorsements",
+"href": "https://paulaforassembly100.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulaforassembly100.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Campy+Fundraiser+for+Paula+at+Iroquois+Springs+Camp%E2%80%93S%27mores+and+Bon+Fires&dates=20240923T213000Z%2F20240923T233000Z&location=66+Bowers+Road%2C+Monticello%2C+NY"
+},
+{
+"text": "HOME",
+"href": "https://paulaforassembly100.com/home"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires?format=ical"
+},
+{
+"text": "News",
+"href": "https://paulaforassembly100.com/news"
+},
+{
+"text": "Next Next October 15 Meet Lt. Governor Antonio Delgado And Paula",
+"href": "https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado"
+},
+{
+"text": "Previous Previous August 22 Campaign Fundraiser",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterreg.dmv.ny.gov/MotorVoter/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://paulaforassembly100.com/volunteer"
+},
+{
+"text": "We respect your privacy.",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "[image: Paula for Assembly]",
+"href": "https://paulaforassembly100.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulaforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulaforassembly"
+}
 ]

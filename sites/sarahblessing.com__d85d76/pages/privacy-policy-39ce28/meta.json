@@ -1,7 +1,11 @@
 {
  "description": "How the Sarah Blessing for State House campaign handles contributions, contributor information, and website accessibility.",
  "final_url": "https://www.sarahblessing.com/privacy-policy/",
- "paid_for_by": null,
- "title": "Privacy Policy \u00b7 Sarah Blessing for House District 70",
- "years_mentioned": []
+ "fingerprint": "32ffe8398598f3fc13fd15c6605eea1b6f3bf304",
+ "format": 3,
+ "paid_for_by": "authorized by Sarah Blessing for State House",
+ "title": "Privacy Policy · Sarah Blessing for House District 70",
+ "years_mentioned": [
+  "2026"
+ ]
 }

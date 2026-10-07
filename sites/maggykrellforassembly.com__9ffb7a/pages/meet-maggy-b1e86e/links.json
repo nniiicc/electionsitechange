@@ -1,9 +1,30 @@
 [
-"https://maggykrellforassembly.com/",
-"https://maggykrellforassembly.com/issues",
-"https://maggykrellforassembly.com/maggys-bus",
-"https://maggykrellforassembly.com/media",
-"https://maggykrellforassembly.com/meet-maggy",
-"https://maggykrellforassembly.com/wp-content/uploads/2024/12/KRELL-SUPER-SPOT-804AM-1.wav",
-"https://secure.actblue.com/donate/maggy-krell-1"
+{
+"text": "About Maggy",
+"href": "https://maggykrellforassembly.com/meet-maggy/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/maggy-krell-1"
+},
+{
+"text": "Issues",
+"href": "https://maggykrellforassembly.com/issues/"
+},
+{
+"text": "Maggy’s Bus",
+"href": "https://maggykrellforassembly.com/maggys-bus/"
+},
+{
+"text": "Media",
+"href": "https://maggykrellforassembly.com/media/"
+},
+{
+"text": "[image]",
+"href": "https://maggykrellforassembly.com/"
+},
+{
+"text": "https://maggykrellforassembly.com/wp-content/uploads/2024/12/KRELL-SUPER-SPOT-804AM-1.wav",
+"href": "https://maggykrellforassembly.com/wp-content/uploads/2024/12/KRELL-SUPER-SPOT-804AM-1.wav"
+}
 ]

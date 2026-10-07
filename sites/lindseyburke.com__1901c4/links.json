@@ -1,14 +1,54 @@
 [
-"https://facebook.com/LindseyBurkeforKY",
-"https://instagram.com/lbforkentucky?hl=en",
-"https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=31&CommitteeType=Caucuses",
-"https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=39&CommitteeType=Caucuses",
-"https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=4&CommitteeType=Caucuses",
-"https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=54&CommitteeType=Caucuses",
-"https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75",
-"https://lindseyburke.com/",
-"https://lindseyburke.com/bienvenidos",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/lbweb"
+{
+"text": "Affordable Housing Caucus",
+"href": "https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=39&CommitteeType=Caucuses"
+},
+{
+"text": "BIENVENIDOS!",
+"href": "https://lindseyburke.com/bienvenidos"
+},
+{
+"text": "Central Kentucky Caucus",
+"href": "https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=4&CommitteeType=Caucuses"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lbweb"
+},
+{
+"text": "Find out more",
+"href": "https://lindseyburke.com/bienvenidos#12f74432-9f2e-4cc9-b6b3-63cfa0c71d61"
+},
+{
+"text": "Home",
+"href": "https://lindseyburke.com/"
+},
+{
+"text": "Official Kentucky Representative Page",
+"href": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Veterans Caucus",
+"href": "https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=54&CommitteeType=Caucuses"
+},
+{
+"text": "Women's Caucus",
+"href": "https://legislature.ky.gov/Committees/Pages/Committee-Details.aspx?CommitteeRSN=31&CommitteeType=Caucuses"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LindseyBurkeforKY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lbforkentucky/?hl=en"
+}
 ]

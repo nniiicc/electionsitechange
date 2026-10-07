@@ -1,7 +1,9 @@
 {
  "description": "Request A Lawn Sign",
  "final_url": "https://www.fishbein4ct.com/lawn-signs",
- "paid_for_by": null,
+ "fingerprint": "9c3074d9c79eacebf5bed79a604bb745fcab76ba",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Lawn Sign",
  "years_mentioned": []
 }

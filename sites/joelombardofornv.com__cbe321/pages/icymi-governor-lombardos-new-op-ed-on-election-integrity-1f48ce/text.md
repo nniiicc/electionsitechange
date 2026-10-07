@@ -1,15 +1,8 @@
-ICYMI: Governor Lombardo's New Op-Ed on Election Integrity
-FOR IMMEDIATE RELEASE
-July 20, 2026
-Contact: press@joelombardofornv.com
-ICYMI - Governor Lombardo recently published an op-ed calling for commonsense election reforms that would strengthen voter confidence and deliver timely election results.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE ICYMI: Governor Lombardo's New Op-Ed on Election Integrity FOR IMMEDIATE RELEASE July 20, 2026 Contact: press@joelombardofornv.com ICYMI - Governor Lombardo recently published an op-ed calling for commonsense election reforms that would strengthen voter confidence and deliver timely election results.
 He outlines why Nevada should require ballots to be received by Election Day, modernize the vote-counting process, and join the overwhelming majority of Nevadans who support voter ID to ensure elections remain fair, transparent, and trusted.
-You can read the full op-ed HERE or below:
-Election Day Should Mean Election Day in Nevada
-While respecting a recent Supreme Court ruling that allows certain ballots to be received after Election Day, Nevada should update its policy for the sake of trust in the election process, its governor writes.
+You can read the full op-ed HERE or below: Election Day Should Mean Election Day in Nevada While respecting a recent Supreme Court ruling that allows certain ballots to be received after Election Day, Nevada should update its policy for the sake of trust in the election process, its governor writes.
 By Gov.
-Joe Lombardo
-When Americans go to bed on Election Night, they should know the results of their elections.
+Joe Lombardo When Americans go to bed on Election Night, they should know the results of their elections.
 Across most of the country, they do.
 But in Nevada and a handful of other states, voters often wait days before final results are known.
 That delay creates confusion, fuels skepticism, and erodes confidence in the democratic process.
@@ -47,4 +40,5 @@ At the end of the day, this isn’t about partisanship.
 It’s about restoring confidence in the system that underpins our democracy.
 Nevadans deserve elections that are fair, transparent, and trusted.
 And together, we can deliver just that.
-###
+### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

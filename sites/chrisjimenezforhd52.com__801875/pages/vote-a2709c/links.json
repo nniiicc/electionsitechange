@@ -1,21 +1,82 @@
 [
-"https://apps.wilcotx.gov/elections/voterlookup",
-"https://chrisjimenezforhd52.com/",
-"https://chrisjimenezforhd52.com/endorsements",
-"https://chrisjimenezforhd52.com/get-involved",
-"https://chrisjimenezforhd52.com/meetchris",
-"https://chrisjimenezforhd52.com/priorities",
-"https://chrisjimenezforhd52.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61585090072229",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/chrisjimenezforhd52",
-"https://secure.actblue.com/donate/chrisjimenezforhd52",
-"https://tiktok.com/@chrisjimenezforhd52",
-"https://tx-williamsoncounty.civicplus.com/445/Register-to-Vote",
-"https://txapps.texas.gov/tolapp/sos/SOSACManager",
-"https://votetexas.gov/voters-with-special-needs/index.html",
-"https://votetexas.gov/voting-by-mail/index.html",
-"https://votetexas.gov/voting/need-id.html",
-"https://wrm.capitol.texas.gov/home"
+{
+"text": "AM I REGISTERED?",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chrisjimenezforhd52"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisjimenezforhd52.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chrisjimenezforhd52.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.chrisjimenezforhd52.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.chrisjimenezforhd52.com/meetchris"
+},
+{
+"text": "Priorities",
+"href": "https://www.chrisjimenezforhd52.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.chrisjimenezforhd52.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://tx-williamsoncounty.civicplus.com/445/Register-to-Vote"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: SAMPLE BALLOT & VOTING LOCATIONS]SAMPLE BALLOT & VOTING LOCATIONS",
+"href": "https://apps.wilcotx.gov/elections/voterlookup"
+},
+{
+"text": "[image: UPDATE YOUR NAME OR ADDRESS]UPDATE YOUR NAME OR ADDRESS",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "[image: VOTER ID REQUIREMENTS]VOTER ID REQUIREMENTS",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "[image: VOTERS WITH DISABILITIES]VOTERS WITH DISABILITIES",
+"href": "https://www.votetexas.gov/voters-with-special-needs/index.html"
+},
+{
+"text": "[image: VOTING BY MAIL]VOTING BY MAIL",
+"href": "https://www.votetexas.gov/voting-by-mail/index.html"
+},
+{
+"text": "[image: WHO REPRESENTS YOU?]WHO REPRESENTS YOU?",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "[image: chrisjimenezforhd52.com]",
+"href": "https://www.chrisjimenezforhd52.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61585090072229"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/chrisjimenezforhd52"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@chrisjimenezforhd52"
+}
 ]

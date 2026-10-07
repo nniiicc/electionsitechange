@@ -1,195 +1,92 @@
-Blakeman on Siena Poll: This Race is Neck & Neck
-All of the polls we have seen in the last two months have us virtually tied with Kathy Hochul.
+Meet Blakeman Blakeman’s Record Meet Todd News Get Involved Volunteer Supporters Map Coalitions DONATE STORE BLAKEMAN IN THE NEWS August 12, 2026 Blakeman on Siena Poll: This Race is Neck & Neck All of the polls we have seen in the last two months have us virtually tied with Kathy Hochul.
 This poll is always off and continues to be off.
 We know and she knows this race is neck and neck.
-August 12, 2026
-July 31, 2026
-Anthony Fauci and Kathy Hochul forced masks on our kids even though children were at virtually zero risk of serious illness from COVID.
-July 28, 2026
-This latest poll confirms what we have consistently seen over the last two months in various polls, both statewide and in congressional districts, that have me neck and neck with Kathy Hochul.
-July 27, 2026
-When a 12-year-old child gets gunned down in broad daylight, there is no middle ground left.
+READ MORE Read Article July 31, 2026 Hochul Sacrificed an Entire Generation’s Education Anthony Fauci and Kathy Hochul forced masks on our kids even though children were at virtually zero risk of serious illness from COVID.
+READ MORE Read Article July 28, 2026 New Poll Has Blakeman Neck & Neck with Hochul This latest poll confirms what we have consistently seen over the last two months in various polls, both statewide and in congressional districts, that have me neck and neck with Kathy Hochul.
+READ MORE Read Article July 27, 2026 Kathy Hochul Surrendered New York to Violent Gangs When a 12-year-old child gets gunned down in broad daylight, there is no middle ground left.
 Kathy Hochul has surrendered New York to violent gangs who use her ‘Raise the Age’ law and Cashless Bail policies every single day to terrorize the public, run gun violence through our streets, and walk out of jail without consequences.
-July 23, 2026
-Kathy Hochul’s Green Energy Scam is not only a threat to your wallet; it is now a public health threat poisoning our communities.
-July 21, 2026
-Only Kathy Hochul could look at New Yorkers paying the highest electric bills in the country and decide the real crisis is the people trying to lower them.
-July 15, 2026
-Brooklyn, New York - Nassau County Executive and candidate for Governor of New York Bruce Blakeman joined Senator Steve Chan, Assemblyman Lester Chang, Assemblyman Michael Novakhov, and Humberto “HL” Lopes, CEO of HL Dynasty and Gotham Housing Alliance, for a press conference to sound the alarm as “All-Electric Building” mandates drive up the cost of rent and utilities while stalling housing construction.
-July 8, 2026
-Nassau County Executive Bruce Blakeman has released a blistering new ad featuring an AI-generated Gov.
+READ MORE Read Article July 23, 2026 Blakeman to Hochul: Stop Poisoning Our Drinking Water For Your Green Energy Scam Kathy Hochul’s Green Energy Scam is not only a threat to your wallet; it is now a public health threat poisoning our communities.
+READ MORE Read Article July 21, 2026 Blakeman Blasts Hochul for Spending Tax Dollars on Lawsuit to Force Higher Electric Rates Only Kathy Hochul could look at New Yorkers paying the highest electric bills in the country and decide the real crisis is the people trying to lower them.
+READ MORE Read Article July 15, 2026 Blakeman, NYC Builders Expose Gas Ban for Stalling Housing Construction and Driving Up Rent Brooklyn, New York - Nassau County Executive and candidate for Governor of New York Bruce Blakeman joined Senator Steve Chan, Assemblyman Lester Chang, Assemblyman Michael Novakhov, and Humberto “HL” Lopes, CEO of HL Dynasty and Gotham Housing Alliance, for a press conference to sound the alarm as “All-Electric Building” mandates drive up the cost of rent and utilities while stalling housing construction.
+READ MORE Read Article July 8, 2026 Blistering Bruce Blakeman ad features AI-Hochul being ‘truthful’ about her New York: ‘Want some crack?’ Nassau County Executive Bruce Blakeman has released a blistering new ad featuring an AI-generated Gov.
 Kathy Hochul being “truthful” about what her reelection would look like, going after his rival on everything from affordability and crime to illegal immigration.
-July 3, 2026
-Mamdani's 4th of July Address was a dark and vindictive appraisal of America's past, present and future.
+READ MORE Read Article July 3, 2026 Blakeman Slams Mamdani's 4th of July Address: "Dangerous Subversive Who Must Be Stopped Mamdani's 4th of July Address was a dark and vindictive appraisal of America's past, present and future.
 America is a beacon of freedom that has created more prosperity for everyday people than any other civilization in the history of the world.
-July 2, 2026
-Nassau County Executive and candidate for Governor Bruce Blakeman today slammed Kathy Hochul as a newly released State Comptroller audit found that the state's Domestic Violence Hotline is plagued by dropped calls, unanswered emergency texts, and severe foreign-language translation failures.
-Kathy Hochul's energy policy is a blueprint for blackouts.
+READ MORE Read Article July 2, 2026 BLAKEMAN TO HOCHUL: You Free the Predators and Cut the Lifeline for Victims Nassau County Executive and candidate for Governor Bruce Blakeman today slammed Kathy Hochul as a newly released State Comptroller audit found that the state's Domestic Violence Hotline is plagued by dropped calls, unanswered emergency texts, and severe foreign-language translation failures.
+READ MORE Read Article July 2, 2026 Kathy Hochul Wants You To Sweat in the Dark- Kathy Hochul's energy policy is a blueprint for blackouts.
 Right now, during a massive heatwave, she wants you to turn your thermostat up to 78 degrees because she broke New York's power grid.
-June 28, 2026
-GOP gubernatorial candidate Bruce Blakeman blasted Gov.
+READ MORE Read Article June 28, 2026 GOP governor hopeful Bruce Blakeman blasts ‘dangerous’ Mamdani, Hochul in pitch to moderates GOP gubernatorial candidate Bruce Blakeman blasted Gov.
 Kathy Hochul for enabling Mayor Zohran Mamdani — calling the pair “dangerous” as he said New Yorkers should vote for him to restore sanity to the state.
-June 26, 2026
-Nassau County Executive and Republican nominee for Governor Bruce Blakeman today demanded an immediate, independent investigation into the New York State Board of Regents, slamming Governor Kathy Hochul for allowing unvetted artificial intelligence to generate this year's high-stakes high school graduation exams.
-June 25, 2026
-Standing with local leaders in the Hudson Valley, Nassau County Executive and gubernatorial candidate Bruce Blakeman slammed Governor Kathy Hochul for crushing New Yorkers with the highest taxes in the nation, warning that her tax-and-spend agenda has trickled down to Ulster County where local Democrats are now pushing a new 16.75% income tax.
-June 24, 2026
-Yesterday, New Yorkers watched as three far-left, anti-American candidates won Democratic primary races.
+READ MORE Read Article June 26, 2026 Robot Regents: Hochul Outsourced Our Kids' Education to an AI Nassau County Executive and Republican nominee for Governor Bruce Blakeman today demanded an immediate, independent investigation into the New York State Board of Regents, slamming Governor Kathy Hochul for allowing unvetted artificial intelligence to generate this year's high-stakes high school graduation exams.
+READ MORE Read Article June 25, 2026 Blakeman Pledges to Block New 16.75% Income Tax at Ulster County Rally: "Dead on Arrival When I'm Governor" Standing with local leaders in the Hudson Valley, Nassau County Executive and gubernatorial candidate Bruce Blakeman slammed Governor Kathy Hochul for crushing New Yorkers with the highest taxes in the nation, warning that her tax-and-spend agenda has trickled down to Ulster County where local Democrats are now pushing a new 16.75% income tax.
+READ MORE Read Article June 24, 2026 Transit Union Leader Sounds the Alarm on NYC Primary Results Yesterday, New Yorkers watched as three far-left, anti-American candidates won Democratic primary races.
 Their vision for New York is one of bigger government, higher taxes, reckless spending, and policies that threaten the economic future of working families.
-June 23, 2026
-Following the horrific, fatal fire at the Knights Inn motel in Endwell, Nassau County Executive and Republican Candidate for Governor Bruce Blakeman called for an independent, immediate investigation into Governor Kathy Hochul and the New York State Office of Temporary and Disability Assistance (OTDA).
-June 17, 2026
-Every dollar stolen by Hochul's administrative fraud is a dollar that should have gone to caring for patients.
+READ MORE Read Article June 23, 2026 Hochul's State-Run Shelter System Turns Deadly, Blakeman Calls for Immediate Investigation Following the horrific, fatal fire at the Knights Inn motel in Endwell, Nassau County Executive and Republican Candidate for Governor Bruce Blakeman called for an independent, immediate investigation into Governor Kathy Hochul and the New York State Office of Temporary and Disability Assistance (OTDA).
+READ MORE Read Article June 17, 2026 Kathy Hochul Is Stealing from New York's Most Vulnerable Every dollar stolen by Hochul's administrative fraud is a dollar that should have gone to caring for patients.
 It is absolutely disgusting that Kathy Hochul uses programs meant to help our most vulnerable neighbors to reward political insiders, from overpaying $286 million on a no-bid contract for healthcare testing to an $11 billion home care giveaway.
-June 15, 2026
-Millions of families and businesses have already packed up and left to escape the soaring taxes, skyrocketing utility bills, and pro-criminal policies of the Hochul administration.
+READ MORE Read Article June 15, 2026 First It Was Our Jobs, Then Our Families, and Now Critical Infrastructure Jobs Are Fleeing, Too Millions of families and businesses have already packed up and left to escape the soaring taxes, skyrocketing utility bills, and pro-criminal policies of the Hochul administration.
 Chasing out the people who fund this state is bad enough, but now Kathy Hochul is letting critical federal infrastructure lines flee too.
-June 12, 2026
-The solution to New York's affordability crisis is sitting right beneath our feet.
+READ MORE Read Article June 12, 2026 VIDEO FOOTAGE: Blakeman Reveals Plan for One of New York's Largest Untapped Economic Assets The solution to New York's affordability crisis is sitting right beneath our feet.
 The Marcellus Shale holds more than 9 trillion cubic feet of clean-burning natural gas, but Kathy Hochul's fracking ban keeps that prosperity locked in the ground.
-June 11, 2026
-Kathy Hochul's solar sprawl is cannibalizing our state's most precious resource: our farmland.
+READ MORE Read Article June 11, 2026 Blakeman Launches Digital Ad Campaign to Stop Hochul's "Solar Scam" & Save New York Farmland Kathy Hochul's solar sprawl is cannibalizing our state's most precious resource: our farmland.
 Between 2024 and 2025 alone, New York lost 500 farms and 100,000 acres of land—with 80% of that devastating hit crushing small, family-owned operations.
-June 5, 2026
-In a stunning slap in the face to millions of New Yorkers, socialist Mayor Zohran Mamdani has turned the traditional home of the people into "Dis-Gracie Mansion," slamming the doors shut on the city's Puerto Rican community by abruptly axing the decades-old, historic pre-parade reception.
-June 4, 2026
-In Kathy Hochul's New York, if you commit a crime, she won't just let you out early—she'll give you the keys to the prison.
+READ MORE Read Article June 5, 2026 Dis-Gracie Mansion: After Mamdani Slams Doors on Historic Puerto Rican Day Bash, Blakeman Launches Emergency Rescue Party In a stunning slap in the face to millions of New Yorkers, socialist Mayor Zohran Mamdani has turned the traditional home of the people into "Dis-Gracie Mansion," slamming the doors shut on the city's Puerto Rican community by abruptly axing the decades-old, historic pre-parade reception.
+READ MORE Read Article June 4, 2026 The Inmates Are Running the Asylum in Kathy Hochul's New York In Kathy Hochul's New York, if you commit a crime, she won't just let you out early—she'll give you the keys to the prison.
 Handing corrections oversight to a convict she personally cut loose is a slap in the face to victims and an absolute betrayal of our corrections officers.
-June 1, 2026
-Transit Workers Union (TWU) Local 106 and Local 252 endorsed Nassau County Executive Bruce Blakeman for Governor of New York, delivering a powerful blue-collar blow to the Hochul administration.
-Former Mayor Eric Adams is giving Republican gubernatorial hopeful Bruce Blakeman tips on campaigning in New York City — and isn’t ruling out an endorsement across party lines.
-May 30, 2026
-Five people lost their lives and dozens are in the hospital today because Kathy Hochul refuses to enforce the law.
+READ MORE Read Article June 1, 2026 Transit Workers Endorse "Friend of Blue Collar Men and Women" Bruce Blakeman for Governor Transit Workers Union (TWU) Local 106 and Local 252 endorsed Nassau County Executive Bruce Blakeman for Governor of New York, delivering a powerful blue-collar blow to the Hochul administration.
+READ MORE Read Article June 1, 2026 Adams gives NY GOP gov hopeful Blakeman tips on NYC campaigning, doesn’t rule out endorsement Former Mayor Eric Adams is giving Republican gubernatorial hopeful Bruce Blakeman tips on campaigning in New York City — and isn’t ruling out an endorsement across party lines.
+READ MORE Read Article May 30, 2026 Kathy Hochul Has Blood On Her Hands Five people lost their lives and dozens are in the hospital today because Kathy Hochul refuses to enforce the law.
 Hochul is handing out commercial licenses to illegal migrants and non-English speakers who should never be behind the wheel of an 80,000-pound truck.
-May 29, 2026
-Two transport union chapters are backing Republican Bruce Blakeman in a snub to incumbent Democrat Kathy Hochul for governor, The Post has learned.
-May 26, 2026
-Citing a new round of Hochul Administration utility rate hikes, Republican gubernatorial candidate Bruce Blakeman today declared New York's skyrocketing energy costs a "Utility Bill State of Emergency" and pledged to cut New Yorkers' electricity bills in half as Governor.
-May 25, 2026
-GOP gubernatorial candidate Bruce Blakeman snagged an endorsement from Puerto Rico’s Gov.
+READ MORE Read Article May 29, 2026 2 transport union chapters endorse GOP’s Bruce Blakeman for governor in snub to Hochul Two transport union chapters are backing Republican Bruce Blakeman in a snub to incumbent Democrat Kathy Hochul for governor, The Post has learned.
+READ MORE Read Article May 26, 2026 Blakeman Declares Utility Bill State of Emergency as Hochul Approves 48th Rate Hike Citing a new round of Hochul Administration utility rate hikes, Republican gubernatorial candidate Bruce Blakeman today declared New York's skyrocketing energy costs a "Utility Bill State of Emergency" and pledged to cut New Yorkers' electricity bills in half as Governor.
+READ MORE Read Article May 25, 2026 Puerto Rico governor endorses Bruce Blakeman over Kathy Hochul in NY election race GOP gubernatorial candidate Bruce Blakeman snagged an endorsement from Puerto Rico’s Gov.
 Jennifer González-Colón at a strategy meeting earlier this week alongside crypto-mogul Brock Pierce.
-May 20, 2026
-By boycotting the Israel Day on Fifth Parade, Zohran Mamdani has finally dropped the mask and shown his true colors of antisemitism.
+READ MORE Read Article May 20, 2026 Zohran Mamdani just showed his true colors of antisemitism By boycotting the Israel Day on Fifth Parade, Zohran Mamdani has finally dropped the mask and shown his true colors of antisemitism.
 While Jewish New Yorkers are being terrorized in the streets and attacked by radicals waving the inverted red triangle—the same symbol Hamas uses to mark targets for execution—the sitting Mayor has chosen to side with them.
-May 16, 2026
-Hundreds of thousands of Long Islanders woke up to chaos because Kathy Hochul failed to do her job.
+READ MORE Read Article May 16, 2026 Long Islanders Woke Up To Chaos Because Kathy Hochul Failed Hundreds of thousands of Long Islanders woke up to chaos because Kathy Hochul failed to do her job.
 This strike didn't come out of nowhere — Hochul knew this deadline was coming and still allowed commuters, small businesses, nurses, teachers, and tourists to become collateral damage.
-Governor Hochul's incompetence in handling labor relations from nurses to corrections officers and now railroad workers puts the safety of everyday New Yorkers in jeopardy.
+READ MORE Read Article May 16, 2026 Hochul's Incompetence Puts the Safety of New Yorkers in Jeopardy Governor Hochul's incompetence in handling labor relations from nurses to corrections officers and now railroad workers puts the safety of everyday New Yorkers in jeopardy.
 Blaming the LIRR strike on President Trump is so disingenuous it is laughable.
-May 9, 2026
-Republican gubernatorial front-runner Bruce Blakeman says he wants to dip into a nearly $4 billion state discretionary fund set aside to help keep New York afloat during economic downturns to provide immediate tax relief to New Yorkers.
-May 7, 2026
-Kathy Hochul's budget is a triple threat to your wallet: more taxes, record spending, and a utility bill crisis with no end in sight.
+READ MORE Read Article May 9, 2026 Blakeman: I’ll dip into $3.8B Hochul ‘slush fund’ to lower NY taxes Republican gubernatorial front-runner Bruce Blakeman says he wants to dip into a nearly $4 billion state discretionary fund set aside to help keep New York afloat during economic downturns to provide immediate tax relief to New Yorkers.
+READ MORE Read Article May 7, 2026 Kathy Hochul's budget is a triple threat Kathy Hochul's budget is a triple threat to your wallet: more taxes, record spending, and a utility bill crisis with no end in sight.
 In fact, it should be labeled hazardous for your bank account.
-April 27, 2026
-If you live in Morris Park or Bensonhurst, Governor Kathy Hochul and Mayor Zohran Mamdani have a "welcome home" gift for you—though you might want to double-lock your doors before opening it
-April 22, 2026
-Republican gubernatorial candidate Bruce Blakeman on Wednesday outlined a plan to offer tax relief to restaurants and other small businesses during an appearance at a Gramercy Park eatery.
-April 21, 2026
-Nassau County Executive Bruce Blakeman today slammed Governor Kathy Hochul for her failure to advance a federal framework to resolve the Long Island Rail Road (LIRR) labor dispute, warning that an impending strike could cripple the regional economy if immediate action is not taken.
-April 19, 2026
-Nassau County Executive and Republican gubernatorial candidate Bruce Blakeman today blasted Kathy Hochul for proposing what he called a "secret business tax" in her FY 2027 budget—warning it will squeeze local employers and drive up prices for everyday New Yorkers.
-Republican gubernatorial candidate Bruce Blakeman says he has a plan to make New York safer and more affordable.
-April 9, 2026
-Nassau County Executive and Republican candidate for Governor of New York Bruce Blakeman today joined Assemblyman Matt Slater to expose a multibillion-dollar secret in Albany: while Kathy Hochul's energy policies drive utility bills to record highs, the state is sitting on a massive $2.4 billion "Energy Tax" surplus.
-March 19, 2026
-After driving residents to lower tax states, Hochul now asks them to return while Blakeman calls for tax cuts and real affordability to keep New Yorkers from leaving.
-March 17, 2026
-Blakeman Calls for Investigation as New Report Finds Homeless Outreach Costs Now Equal the Median Household Income in New York City
-March 8, 2026
-As explosives are investigated near Gracie Mansion, Blakeman warns antisemitic rhetoric is fueling real-world threats against Jewish New Yorkers and demands immediate action.
-February 22, 2026
-Blakeman calls out Hochul after dangerous damage was found on a state bridge, demanding immediate action and restored infrastructure funding.
-February 20, 2026
-Blakeman Pledges to Cut Electricity Bills in Half as Governor
-February 18, 2026
-Blakeman blasts Mamdani's proposal to tap retiree funds and raise property taxes, warning it would punish seniors and homeowners to cover reckless city spending.
-February 17, 2026
-Blakeman calls out Hochul's $1.5 billion NYC bailout, arguing surplus funds should deliver school tax relief instead of rewarding fiscal mismanagement.
-February 9, 2026
-Blakeman names Sheriff Todd Hood as his running mate, forming a law-and-order ticket focused on public safety, tax relief, and affordability statewide.
-February 6, 2026
-Blakeman says Hochul's nomination signals four more years of high taxes, soaring energy costs, and weakened public safety if voters do not change course.
-February 5, 2026
-Blakeman questions what Hochul promised Zohran Mamdani in exchange for his endorsement and warns taxpayers will pay the price.
-February 4, 2026
-Blakeman slams Hochul's choice of a radical running mate tied to defunding police, welcoming the migrant crisis, and driving jobs out of New York.
-February 2, 2026
-Hochul's Energy Mandates Are Driving Electric Bills to Record Highs
-January 30, 2026
-Nassau County Executive and Republican candidate for Governor Bruce Blakeman today slammed Governor Kathy Hochul’s proposal to ban local law enforcement partnerships with U.S.
+READ MORE Read Article April 27, 2026 The World's Worst Real Estate Agents: Hochul and Mamdani's "Gift" to Your Neighborhood If you live in Morris Park or Bensonhurst, Governor Kathy Hochul and Mayor Zohran Mamdani have a "welcome home" gift for you—though you might want to double-lock your doors before opening it READ MORE Read Article April 22, 2026 GOP gubernatorial Bruce Blakeman promises tax relief for restaurants, small businesses as he blasts ‘Hochul Special’ tax crisis Republican gubernatorial candidate Bruce Blakeman on Wednesday outlined a plan to offer tax relief to restaurants and other small businesses during an appearance at a Gramercy Park eatery.
+READ MORE Read Article April 21, 2026 Blakeman Blasts Hochul Inaction as LIRR Strike Looms, Calls for Immediate Settlement to Avert Economic Crisis Nassau County Executive Bruce Blakeman today slammed Governor Kathy Hochul for her failure to advance a federal framework to resolve the Long Island Rail Road (LIRR) labor dispute, warning that an impending strike could cripple the regional economy if immediate action is not taken.
+READ MORE Read Article April 19, 2026 Blakeman exposes Hochul's "secret business tax"; warns families to brace for higher prices as Hochul targets job creators Nassau County Executive and Republican gubernatorial candidate Bruce Blakeman today blasted Kathy Hochul for proposing what he called a "secret business tax" in her FY 2027 budget—warning it will squeeze local employers and drive up prices for everyday New Yorkers.
+READ MORE Read Article April 19, 2026 Bruce Blakeman’s 100-day plan to ‘fix’ New York if elected governor: Lower taxes and a return to law and order Republican gubernatorial candidate Bruce Blakeman says he has a plan to make New York safer and more affordable.
+READ MORE Read Article April 9, 2026 The $2 billion blackout: Blakeman, slater expose Hochul's hidden energy tax slush fund Nassau County Executive and Republican candidate for Governor of New York Bruce Blakeman today joined Assemblyman Matt Slater to expose a multibillion-dollar secret in Albany: while Kathy Hochul's energy policies drive utility bills to record highs, the state is sitting on a massive $2.4 billion "Energy Tax" surplus.
+READ MORE Read Article March 19, 2026 When You Made New York Unaffordable, Governor Hochul, You Made the Moving Companies Rich After driving residents to lower tax states, Hochul now asks them to return while Blakeman calls for tax cuts and real affordability to keep New Yorkers from leaving.
+READ MORE Read Article March 17, 2026 Hochul's Homeless Spending Scandal: Every Homeless Person Costs Taxpayers a Year's Family Income Blakeman Calls for Investigation as New Report Finds Homeless Outreach Costs Now Equal the Median Household Income in New York City READ MORE Read Article March 8, 2026 Mamdani Family's Antisemitic Words Fuel Climate of Violence Near Gracie Mansion As explosives are investigated near Gracie Mansion, Blakeman warns antisemitic rhetoric is fueling real-world threats against Jewish New Yorkers and demands immediate action.
+READ MORE Read Article February 22, 2026 Blakeman Slams Hochul Over Crumbling Infrastructure After Dangerous Damage Found on State Bridge Blakeman calls out Hochul after dangerous damage was found on a state bridge, demanding immediate action and restored infrastructure funding.
+READ MORE Read Article February 20, 2026 New State Data: Hochul's Offshore Wind Plan Now Costs 5 Times More — And You're Paying for It on Your Electric Bill Blakeman Pledges to Cut Electricity Bills in Half as Governor READ MORE Read Article February 18, 2026 Blakeman: Mamdani's Plan to Raid Retiree Funds Is Stealing from Seniors to Cover Reckless Spending Blakeman blasts Mamdani's proposal to tap retiree funds and raise property taxes, warning it would punish seniors and homeowners to cover reckless city spending.
+READ MORE Read Article February 17, 2026 Hochul's $1.5 billion Gotham bailout should go to tax relief instead Blakeman calls out Hochul's $1.5 billion NYC bailout, arguing surplus funds should deliver school tax relief instead of rewarding fiscal mismanagement.
+READ MORE Read Article February 9, 2026 Blakeman Selects Madison County Sheriff Todd Hood as Lieutenant Governor Candidate & Partner to Make New York Safe & Affordable Blakeman names Sheriff Todd Hood as his running mate, forming a law-and-order ticket focused on public safety, tax relief, and affordability statewide.
+READ MORE Read Article February 6, 2026 Statement from Bruce Blakeman on Kathy Hochul's Nomination as Democrat Candidate for Governor Blakeman says Hochul's nomination signals four more years of high taxes, soaring energy costs, and weakened public safety if voters do not change course.
+READ MORE Read Article February 5, 2026 Statement from Bruce Blakeman on Mayor Zohran Mamdani's Endorsement of Kathy Hochul Blakeman questions what Hochul promised Zohran Mamdani in exchange for his endorsement and warns taxpayers will pay the price.
+READ MORE Read Article February 4, 2026 Statement from Bruce Blakeman on Kathy Hochul's Running Mate Announcement Blakeman slams Hochul's choice of a radical running mate tied to defunding police, welcoming the migrant crisis, and driving jobs out of New York.
+READ MORE Read Article February 2, 2026 Hochul's Energy Mandates Are Driving Electric Bills to Record Highs Hochul's Energy Mandates Are Driving Electric Bills to Record Highs READ MORE Read Article January 30, 2026 Statement from Nassau County Executive Bruce Blakeman on Governor Hochul's Intent to Ban Local Cooperation with Federal Law Enforcement Nassau County Executive and Republican candidate for Governor Bruce Blakeman today slammed Governor Kathy Hochul’s proposal to ban local law enforcement partnerships with U.S.
 Immigration and Customs Enforcement (ICE), warning it will tie the hands of police and endanger communities across New York.
-January 28, 2026
-After Taking Hundreds of Thousands in Campaign Donations from Hospital CEOs and PACs, Hochul Sided with Executives Over Frontline Nurses
-January 27, 2026
-CareScout Report Ranks New York #49, Based on Affordability & Quality of Life
-January 26, 2026
-Thousands of New Yorkers Without Power as Hochul Decisions Fuel Sky-High Electric Bills and Fragile Grid
-January 24, 2026
-As New Yorkers prepare for a major winter emergency, Hochul rejects federal help and puts politics over public safety.
-January 21, 2026
-Nassau County Executive and Presumptive Republican Nominee for Governor Bruce Blakeman Stands with Copake Residents Opposing Shepherd's Run
-Hochul Blocking Program That Would Send Tutoring and Tuition Aid to New York Children
-January 20, 2026
-Hochul's budget prioritizes billions in migrant spending while families and seniors face higher costs with no relief in sight.
-January 19, 2026
-Hochul's soft-on-crime agenda has allowed disorder to take over transit hubs, while Blakeman pledges enforcement and safe, functional facilities for travelers.
-January 15, 2026
-Blakeman Warns Hochul-Mamdani Agenda Undermines Merit-Based Education, Opportunity, and Homeownership for Asian American Families
-January 14, 2026
-Calls for "Buy New York Dairy" policy to keep school milk dollars in-state
-January 13, 2026
-"Last year, the Governor made affordability the centerpiece of her State of the State," Blakeman said.
-January 10, 2026
-Experts warn scandal is "Minnesota multiplied by 10" as taxpayers are on the hook for $12 billion
-January 9, 2026
-Bruce Blakeman today slammed Governor Kathy Hochul for boasting that on her watch, "the wealthy are paying higher taxes in New York now,"
-January 8, 2026
-Hochul's plan to retaliate against ICE agents endangers officers
-Hochul's Plan Forces Suburbs & Upstate to Pay for NYC Kids at Their Expense
-January 7, 2026
-Warns Pattern of Engagement Raises Serious National Security Concerns
-January 6, 2026
-$493 Million PSEG Contract Under Investigation for Rewarding Hochul's Political Allies, Punishing Ratepayers
-January 5, 2026
-Blakeman Will Fix Hochul's Broken Policies That Drove Up Taxes & Crime
-January 4, 2026
-Commuters Face Up to 4.5% Fare Hikes as Fare Evasion Bleeds MTA of Millions
-January 3, 2026
-Nassau County Executive Bruce Blakeman, Republican candidate for Governor of New York, today sharply criticized Governor Kathy Hochul for denouncing today’s mission as a “flagrant abuse of power,” calling her remarks “a stunning defense of a narco-regime whose criminal enterprise has devastated New York families.”
-January 2, 2026
-Says Hochul's Inaction Threatens Public Safety
-January 1, 2026
-Mayor Repeals Executive Order Recognizing IHRA Definition, Gutting Citywide Protections Against Antisemitism
-Nassau County Executive and Republican candidate for Governor Bruce Blakeman today blasted Governor Kathy Hochul for playing political games with New Yorkers’ paychecks — flip-flopping on taxing tips and congestion pricing when it suits her politically, while workers and commuters are left paying the price.
-December 29, 2025
-Nassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today called on Mayor-elect Zohran Mamdani to immediately fire Kazi Fouzia from his transition team after a video surfaced in which she referred to the brave men and women of the New York City Police Department as “killers.”
-December 26, 2025
-Nassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today slammed Governor Kathy Hochul for “putting criminals first” as she expands the State Commission of Corrections to include at least one convicted criminal.
-December 22, 2025
-Career Criminals with Dozens of Prior Arrests Targeting Tourists & Shoppers
-December 21, 2025
-Says Hochul's Soft-on-Crime Policies Embolden Criminals
-December 19, 2025
-Rising Hate Crimes & Antisemitic Social Media Posts from Mamdani Team Demand Urgent Action
-December 15, 2025
-Jewish Republican Bruce Blakeman, the chief executive of Long Island's Nassau County, announced on Dec. 9 that he will run for governor of New York.
-December 12, 2025
-In a video ad unveiled on his campaign website, Nassau County Executive Bruce Blakeman officially announced his intention to run for governor of New York on Dec. 9.
+READ MORE Read Article January 28, 2026 Hochul Turned Her Back on Nurses After Taking Hundreds of Thousands in Campaign Donations from Hospital CEOs and PACs, Hochul Sided with Executives Over Frontline Nurses READ MORE Read Article January 27, 2026 Hochul Made New York One of the Worst States in America to Retire CareScout Report Ranks New York #49, Based on Affordability & Quality of Life READ MORE Read Article January 26, 2026 Hochul's Energy Policies Leave New Yorkers at Risk During Historic Snowstorm Thousands of New Yorkers Without Power as Hochul Decisions Fuel Sky-High Electric Bills and Fragile Grid READ MORE Read Article January 24, 2026 Blakeman Slams Hochul for Rejecting Federal Storm Assistance as New Yorkers Brace for Major Winter Emergency As New Yorkers prepare for a major winter emergency, Hochul rejects federal help and puts politics over public safety.
+READ MORE Read Article January 21, 2026 Blakeman: Restore Local Control—Albany Should Not Bulldoze Rural Communities for Industrial Solar Nassau County Executive and Presumptive Republican Nominee for Governor Bruce Blakeman Stands with Copake Residents Opposing Shepherd's Run READ MORE Read Article January 21, 2026 Blakeman: Hochul Is Blocking Hundreds of Millions in Education Scholarships for New York Kids Hochul Blocking Program That Would Send Tutoring and Tuition Aid to New York Children READ MORE Read Article January 20, 2026 Blakeman Slams Hochul's Budget: "More Migrant Spending, More Giveaways, New York Gets More Unaffordable" Hochul's budget prioritizes billions in migrant spending while families and seniors face higher costs with no relief in sight.
+READ MORE Read Article January 19, 2026 Blakeman: Hochul Let Our Trains and Airports Turn Into Homeless Camps — I'll Clean Them Up Hochul's soft-on-crime agenda has allowed disorder to take over transit hubs, while Blakeman pledges enforcement and safe, functional facilities for travelers.
+READ MORE Read Article January 15, 2026 Blakeman: Hochul-Mamdani Agenda Is a Direct Attack on Asian American Values Blakeman Warns Hochul-Mamdani Agenda Undermines Merit-Based Education, Opportunity, and Homeownership for Asian American Families READ MORE Read Article January 14, 2026 Blakeman: New Federal Milk Rules Must Benefit New York Farmers Calls for "Buy New York Dairy" policy to keep school milk dollars in-state READ MORE Read Article January 13, 2026 Blakeman: Hochul's State of the State Still Ignores New York's Affordability and Crime Crises "Last year, the Governor made affordability the centerpiece of her State of the State," Blakeman said.
+READ MORE Read Article January 10, 2026 Blakeman Calls for Investigation Into Hochul's Corrupt Medicaid Program as CDPAP Fraud and Waste Explode Experts warn scandal is "Minnesota multiplied by 10" as taxpayers are on the hook for $12 billion READ MORE Read Article January 9, 2026 Hochul Brags About Taxing the Rich While Blue-Collar Families Pay the Price Bruce Blakeman today slammed Governor Kathy Hochul for boasting that on her watch, "the wealthy are paying higher taxes in New York now," READ MORE Read Article January 8, 2026 Blakeman Slams Hochul for Targeting Law Enforcement and Putting Officers in Harm's Way Hochul's plan to retaliate against ICE agents endangers officers READ MORE Read Article January 8, 2026 Blakeman: Hochul's NYC-Only Child Care Plan Is a Slap in the Face to Upstate and Long Island Families Hochul's Plan Forces Suburbs & Upstate to Pay for NYC Kids at Their Expense READ MORE Read Article January 7, 2026 Blakeman: Investigation Needed Into Hochul Administration's Ties to Chinese Communist Party Warns Pattern of Engagement Raises Serious National Security Concerns READ MORE Read Article January 6, 2026 Blakeman: You Can Thank Kathy Hochul's Backroom Deal for Your Sky-High Electric Bill $493 Million PSEG Contract Under Investigation for Rewarding Hochul's Political Allies, Punishing Ratepayers READ MORE Read Article January 5, 2026 New York State Conservative Party Chairman Jerry Kassar Endorses Blakeman for Governor Blakeman Will Fix Hochul's Broken Policies That Drove Up Taxes & Crime READ MORE Read Article January 4, 2026 Blakeman: MTA Fare Hikes Prove Hochul's "Affordability" Talk is All Smoke and Mirrors Commuters Face Up to 4.5% Fare Hikes as Fare Evasion Bleeds MTA of Millions READ MORE Read Article January 3, 2026 Blakeman: Hochul Defends a Narco-Regime While Its Criminal Networks Flood New York With Deadly Drugs Nassau County Executive Bruce Blakeman, Republican candidate for Governor of New York, today sharply criticized Governor Kathy Hochul for denouncing today’s mission as a “flagrant abuse of power,” calling her remarks “a stunning defense of a narco-regime whose criminal enterprise has devastated New York families.” READ MORE Read Article January 2, 2026 Blakeman: Mamdani Repeal Empowers MS-13 and Tren de Aragua Says Hochul's Inaction Threatens Public Safety READ MORE Read Article January 1, 2026 Blakeman: Mamdani's First Move as Mayor Is a Direct Attack on Jewish New Yorkers Mayor Repeals Executive Order Recognizing IHRA Definition, Gutting Citywide Protections Against Antisemitism READ MORE Read Article January 1, 2026 Blakeman: Hochul Flip-Flops on Taxing Tips While Workers Pay the Price Nassau County Executive and Republican candidate for Governor Bruce Blakeman today blasted Governor Kathy Hochul for playing political games with New Yorkers’ paychecks — flip-flopping on taxing tips and congestion pricing when it suits her politically, while workers and commuters are left paying the price.
+READ MORE Read Article December 29, 2025 Blakeman to Mamdani: Fire Radical Anti-Police Activist from Your Transition Team Nassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today called on Mayor-elect Zohran Mamdani to immediately fire Kazi Fouzia from his transition team after a video surfaced in which she referred to the brave men and women of the New York City Police Department as “killers.” READ MORE Read Article December 26, 2025 Blakeman Blasts Hochul Move to Put Convicted Criminals on State Commission Nassau County Executive and presumptive Republican nominee for Governor of New York, Bruce Blakeman, today slammed Governor Kathy Hochul for “putting criminals first” as she expands the State Commission of Corrections to include at least one convicted criminal.
+READ MORE Read Article December 22, 2025 Blakeman: Hochul's Cashless Bail Law Fuels Holiday Crime and Hurts Local Businesses Career Criminals with Dozens of Prior Arrests Targeting Tourists & Shoppers READ MORE Read Article December 21, 2025 Blakeman Calls Out Hochul's Subway Safety Failure After Second Stabbing This Month Says Hochul's Soft-on-Crime Policies Embolden Criminals READ MORE Read Article December 19, 2025 Sole Jewish Gubernatorial Candidate Calls Out Mamdani's Blatant Antisemitism Rising Hate Crimes & Antisemitic Social Media Posts from Mamdani Team Demand Urgent Action READ MORE Read Article December 15, 2025 Bruce Blakeman, Jewish Long Island politician, launches run for NY governor Jewish Republican Bruce Blakeman, the chief executive of Long Island's Nassau County, announced on Dec.
+9 that he will run for governor of New York.
+READ MORE Read Article December 12, 2025 Nassau County Executive Bruce Blakeman announces run for New York governor In a video ad unveiled on his campaign website, Nassau County Executive Bruce Blakeman officially announced his intention to run for governor of New York on Dec.
+9.
 Blakeman, 70, who was toying with the idea of a gubernatorial run since last year, solidified his ambition for the state's top elected spot with a 12-point victory over County Legislator Seth Koslow last month.
-December 11, 2025
-It looks like New York could have a Republican primary to match the Democratic primary between Gov.
+READ MORE Read Article December 11, 2025 Bruce Blakeman touts executive experience against Stefanik in race for N.Y. governor It looks like New York could have a Republican primary to match the Democratic primary between Gov.
 Kathy Hochul and Lt.
 Gov.
 Antonio Delgado in 2026.
 Nassau County Executive Bruce Blakeman announced his candidacy for governor on Tuesday, a little over a month after U.S.
 Rep.
 Elise Stefanik threw her hat into the ring.
-December 8, 2025
-Nassau County Executive Bruce Blakeman is set to announce his bid for New York governor on Tuesday facing off against Rep.
+READ MORE Read Article December 8, 2025 Trump ally to announce run for NY gov Tuesday, setting up clash with GOP frontrunner Elise Stefanik Nassau County Executive Bruce Blakeman is set to announce his bid for New York governor on Tuesday facing off against Rep.
 Elise Stefanik for the GOP nomination, The Post has learned.
-November 17, 2025
-Blakeman said after winning his reelection bid for county executive last week, business and community leaders called him and urged him to enter the race for governor.
-Nassau County Executive Bruce Blakeman challenged Gov.
+READ MORE Read Article November 17, 2025 Nassau County executive visits Albany as he weighs joining race for New York governor Blakeman said after winning his reelection bid for county executive last week, business and community leaders called him and urged him to enter the race for governor.
+READ MORE Read Article November 17, 2025 Nassau County Executive Bruce Blakeman challenges Hochul to draw line as DSA pressures her to back Zohran Mamdani tax hike Nassau County Executive Bruce Blakeman challenged Gov.
 Kathy Hochul to draw a line in the sand Monday as she faces pressure from Democratic Socialists of America to back Mayor-elect Zohran Mamdani's proposed tax hikes.
-➜
+READ MORE Read Article ➜ ➜ Meet Blakeman Blakeman’s Record News Get involved Volunteer Supporters Map Coalitions DONATE To request an event with Bruce Blakeman or the campaign, please email: events@blakemanfornewyork.com Paid for by Blakeman for new york Stop Hochul

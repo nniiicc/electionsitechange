@@ -1,18 +1,90 @@
 [
-"https://bsky.app/profile/ldsfn.bsky.social",
-"https://designedtorun.com/",
-"https://e50120cb-9f4f-4c9f-8556-d6a0625dbbbd.site-preview.designedtorun.com/privacy-policy",
-"https://facebook.com/dkcalder",
-"https://secure.actblue.com/donate/dave-calder-1",
-"https://tiktok.com/@uintahiker",
-"https://vote.utah.gov/register-to-vote-or-update-your-voter-registration",
-"https://votedavecalder.com/",
-"https://votedavecalder.com/about",
-"https://votedavecalder.com/donate",
-"https://votedavecalder.com/events",
-"https://votedavecalder.com/issues",
-"https://votedavecalder.com/new-page",
-"https://votedavecalder.com/news",
-"https://votedavecalder.com/privacy-policy",
-"https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-info"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://votesearch.utah.gov/voter-search/search/search-by-voter/voter-info"
+},
+{
+"text": "Donate",
+"href": "https://www.votedavecalder.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votedavecalder.com/events"
+},
+{
+"text": "Learn more",
+"href": "https://www.votedavecalder.com/issues"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.votedavecalder.com/about"
+},
+{
+"text": "News",
+"href": "https://www.votedavecalder.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dave-calder-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://e50120cb-9f4f-4c9f-8556-d6a0625dbbbd.site-preview.designedtorun.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.votedavecalder.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedavecalder.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://vote.utah.gov/register-to-vote-or-update-your-voter-registration/"
+},
+{
+"text": "Want to Help?",
+"href": "https://www.votedavecalder.com/new-page"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.votedavecalder.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ldsfn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dkcalder"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@uintahiker"
+}
 ]

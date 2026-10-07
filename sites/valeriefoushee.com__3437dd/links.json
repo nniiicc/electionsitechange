@@ -1,20 +1,126 @@
 [
-"https://bsky.app/profile/fousheefornc.bsky.social",
-"https://facebook.com/FousheeforNC",
-"https://instagram.com/fousheefornc",
-"https://iwillvote.com/nc",
-"https://secure.actblue.com/donate/blu-vcf-21q4-em",
-"https://secure.actblue.com/donate/foushee-web",
-"https://secure.actblue.com/donate/foushee-web?amount=1000",
-"https://secure.actblue.com/donate/foushee-web?amount=150",
-"https://secure.actblue.com/donate/foushee-web?amount=20",
-"https://secure.actblue.com/donate/foushee-web?amount=45",
-"https://secure.actblue.com/donate/foushee-web?amount=500",
-"https://threads.com/@fousheefornc",
-"https://valeriefoushee.com/",
-"https://valeriefoushee.com/endorsements",
-"https://valeriefoushee.com/issues",
-"https://valeriefoushee.com/valeries-story",
-"https://valeriefoushee.com/volunteer",
-"https://x.com/FousheeforNC"
+{
+"text": "$ 1,000",
+"href": "https://secure.actblue.com/donate/foushee-web?amount=1000"
+},
+{
+"text": "$ 150",
+"href": "https://secure.actblue.com/donate/foushee-web?amount=150"
+},
+{
+"text": "$ 20",
+"href": "https://secure.actblue.com/donate/foushee-web?amount=20"
+},
+{
+"text": "$ 45",
+"href": "https://secure.actblue.com/donate/foushee-web?amount=45"
+},
+{
+"text": "$ 500",
+"href": "https://secure.actblue.com/donate/foushee-web?amount=500"
+},
+{
+"text": "Affordability",
+"href": "https://valeriefoushee.com/issues/#affordability"
+},
+{
+"text": "All Endorsements",
+"href": "https://valeriefoushee.com/endorsements/"
+},
+{
+"text": "Democracy",
+"href": "https://valeriefoushee.com/issues/#democracy"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blu-vcf-21q4-em"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/foushee-web"
+},
+{
+"text": "Donate Online→",
+"href": "https://secure.actblue.com/donate/foushee-web"
+},
+{
+"text": "Endorsements",
+"href": "https://valeriefoushee.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/FousheeforNC"
+},
+{
+"text": "Healthcare",
+"href": "https://valeriefoushee.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://valeriefoushee.com/"
+},
+{
+"text": "ICE",
+"href": "https://valeriefoushee.com/issues/#ice"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fousheefornc/"
+},
+{
+"text": "Issues",
+"href": "https://valeriefoushee.com/issues/"
+},
+{
+"text": "Meet Valerie",
+"href": "https://valeriefoushee.com/valeries-story/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/foushee-web"
+},
+{
+"text": "On The Issues",
+"href": "https://valeriefoushee.com/issues/"
+},
+{
+"text": "Registerto Vote→",
+"href": "https://iwillvote.com/nc"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://valeriefoushee.com/issues/#reproductive"
+},
+{
+"text": "Sign Up To Volunteer→",
+"href": "https://valeriefoushee.com/volunteer/"
+},
+{
+"text": "Taxes",
+"href": "https://valeriefoushee.com/issues/#taxes"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@fousheefornc"
+},
+{
+"text": "Valerie’s Story",
+"href": "https://valeriefoushee.com/valeries-story/"
+},
+{
+"text": "Volunteer",
+"href": "https://valeriefoushee.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/FousheeforNC"
+},
+{
+"text": "[image]",
+"href": "https://valeriefoushee.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fousheefornc.bsky.social"
+}
 ]

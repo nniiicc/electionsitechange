@@ -1,9 +1,3 @@
-- Putting a yard sign in my yard
-- Dropping off door hangers in my neighborhood
-- Putting yard signs in supporter's yards
-- Registering voters
-- Hosting a neighborhood 1-hour "Cookies & Questions with the Representative"
-- Talking to my neighbors
-- Contributing money to the campaign
-- Hosting a fundraiser event
-- Sign me up for your newsletter
+575-937-1474 harlan.vincent@nmlegis.gov HARLAN VINCENT State Representative District 56 Lincoln and Otero Counties Home Meet Harlan Issues Events Working For You Join Us Vote News Media Contact Contribute Join Us Volunteers Make It Possible Help Harlan Get Things Done In New Mexico!
+I can help your campaign by: Putting a yard sign in my yard Dropping off door hangers in my neighborhood Putting yard signs in supporter's yards Registering voters Hosting a neighborhood 1-hour "Cookies & Questions with the Representative" Talking to my neighbors Contributing money to the campaign Hosting a fundraiser event Sign me up for your newsletter VOLUNTEER FLYERS For Download Rack Card Download pdf Campaign Flyer Download pdf Harlan Vincent State Representative District 56 Lincoln and Otero Counties Contact Harlan Follow Harlan Home Meet Harlan Issues Events Working For You Join Us Vote Copyright © #-# Harlan Vincent, State Representative District 56 - All Rights Reserved.
+Paid for by the Committee to Elect Harlan Vincent Designed and maintained by Southwest Marketing and Information Services .

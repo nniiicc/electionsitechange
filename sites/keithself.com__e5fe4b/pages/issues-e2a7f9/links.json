@@ -1,7 +1,26 @@
 [
-"https://keithself.com/",
-"https://keithself.com/endorsements",
-"https://keithself.com/issues",
-"https://keithself.com/meet-keith",
-"https://secure.winred.com/self-for-congress/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/self-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://keithself.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://keithself.com/#involved"
+},
+{
+"text": "Issues",
+"href": "https://keithself.com/issues/"
+},
+{
+"text": "Meet Keith",
+"href": "https://keithself.com/meet-keith/"
+},
+{
+"text": "[image: Keith Self — Texas Tough Conservative]",
+"href": "https://keithself.com/"
+}
 ]

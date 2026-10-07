@@ -1,5 +1,4 @@
-Privacy Policy
-Terms and Conditions: All Data will be used only by Citizens for J Christian.
+top of page Home About Issues Events Store Volunteer Donate Privacy Policy Terms and Conditions: All Data will be used only by Citizens for J Christian.
 No personal data will be shared or distributed for any other use.
 Privacy Policy Last Updated 7/16/2024, 1:30:30 PM The campaign cares about your privacy rights, and about providing you with the information you need in order to protect them.
 Accordingly, we've created this policy to explain our privacy practices.
@@ -64,4 +63,4 @@ We encourage you to review and understand their privacy practices before providi
 Updating This Policy We may revise or update this policy if our practices change, as we change existing or add new features or as we develop better ways to inform you of features we think will be of interest.
 You should refer back to this page often for the latest information.
 If we decide to change this policy, we will post a new policy on our sites and change the date at the top of the policy.
-How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@christianforohio.com, or at the mailing address listed below: PO Box 315 Galena Ohio 43021 Citizens For J Christian
+How to Contact Us If you have any questions, comments or concerns, please contact us by e-mail at info@christianforohio.com, or at the mailing address listed below: PO Box 315 Galena Ohio 43021 Citizens For J Christian Paid for by Citizens for J Christian Get in touch email: info@christianforohio.com Citizens For J Christian PO Box 315 Galena, OH 43021 bottom of page

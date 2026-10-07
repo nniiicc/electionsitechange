@@ -1,58 +1,250 @@
 [
-"http://event/",
-"https://assets.nationbuilder.com/lpnc/pages/13/attachments/original/1686360910/2023_LPNC_Bylaws.pdf",
-"https://assets.nationbuilder.com/lpnc/pages/13/attachments/original/1686360912/2023_LPNC_Convention_Rules.pdf",
-"https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1697599903/NOTA_Report_-final.pdf",
-"https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1705372647/2024_LPNC_Convention_Agenda-v1.pdf",
-"https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1706158079/2024_platform_final_report.pdf",
-"https://facebook.com/LPofNC",
-"https://facebook.com/people/Jonathan-Miller-for-Liberty/100072275899477",
-"https://forms.gle/2tTLaTXkgvgA9Nyq5",
-"https://instagram.com/jonathan_the_politician",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://lpnc.org/2024_lpnc_convention",
-"https://lpnc.org/2024_lpnc_convention_donation",
-"https://lpnc.org/join",
-"https://lpnc.org/our-principles_platform-of-the-libertarian-party-of-north-carolina",
-"https://miller.wakeupliberty.com/news",
-"https://miller.wakeupliberty.com/privacy-policy",
-"https://miller.wakeupliberty.com/take-action/donate",
-"https://miller.wakeupliberty.com/take-action/volunteer",
-"https://miller4ncsenate.org/",
-"https://miller4ncsenate.org/cookie-policy",
-"https://miller4ncsenate.org/etn_category/lpnc",
-"https://miller4ncsenate.org/events",
-"https://miller4ncsenate.org/meet",
-"https://miller4ncsenate.org/meet/district",
-"https://miller4ncsenate.org/meet/people-not-politics",
-"https://miller4ncsenate.org/news",
-"https://miller4ncsenate.org/priorities",
-"https://miller4ncsenate.org/priorities/abolish-the-abc",
-"https://miller4ncsenate.org/priorities/cost-effective-conservation",
-"https://miller4ncsenate.org/priorities/cost-effective-healthcare",
-"https://miller4ncsenate.org/priorities/defend-the-guard",
-"https://miller4ncsenate.org/priorities/electoral-reform-gerrymandering",
-"https://miller4ncsenate.org/priorities/electoral-reform-independent-voters",
-"https://miller4ncsenate.org/priorities/electoral-reform-instant-runoff-voting",
-"https://miller4ncsenate.org/priorities/expanded-housing-market",
-"https://miller4ncsenate.org/priorities/restorative-justice",
-"https://miller4ncsenate.org/priorities/smarter-education",
-"https://miller4ncsenate.org/priorities/stronger-economy",
-"https://miller4ncsenate.org/take-action",
-"https://miller4ncsenate.org/take-action/donate",
-"https://miller4ncsenate.org/take-action/volunteer",
-"https://miller4ncsenate.org/take-action/when-where-to-vote",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://thevillageinn.com/",
-"https://tiktok.com/@miller4ncsenate",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://wyndhamhotels.com/en-ca/trademark/clemmons-north-carolina/village-inn-clemmons-winston-salem-trademark/rooms-rates?brand_id=ALL&checkInDate=2%2F16%2F2024&checkOutDate=2%2F18%2F2024&useWRPoints=false&children=0&groupCode=021624LIB&adults=1&rooms=1&loc=ChIJO3RvNyagU4gR0N0T2lponoI",
-"https://x.com/JDM4NC",
-"https://youtube.com/@miller4ncsenate"
+{
+"text": "Abolish the ABC!",
+"href": "https://miller4ncsenate.org/priorities/abolish-the-abc/"
+},
+{
+"text": "Agenda",
+"href": "https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1705372647/2024_LPNC_Convention_Agenda-v1.pdf"
+},
+{
+"text": "Book Lodging (Group Code: 021624LIB)",
+"href": "https://www.wyndhamhotels.com/en-ca/trademark/clemmons-north-carolina/village-inn-clemmons-winston-salem-trademark/rooms-rates?brand_id=ALL&checkInDate=2%2F16%2F2024&checkOutDate=2%2F18%2F2024&useWRPoints=false&children=0&groupCode=021624LIB&adults=1&rooms=1&loc=ChIJO3RvNyagU4gR0N0T2lponoI"
+},
+{
+"text": "Bylaws",
+"href": "https://assets.nationbuilder.com/lpnc/pages/13/attachments/original/1686360910/2023_LPNC_Bylaws.pdf"
+},
+{
+"text": "Click here to register now",
+"href": "https://www.lpnc.org/2024_lpnc_convention_donation"
+},
+{
+"text": "Contribute",
+"href": "https://miller.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Convention Rules",
+"href": "https://assets.nationbuilder.com/lpnc/pages/13/attachments/original/1686360912/2023_LPNC_Convention_Rules.pdf"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://miller4ncsenate.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://miller4ncsenate.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://miller4ncsenate.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://miller4ncsenate.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://miller4ncsenate.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Electoral Reform — Gerrymandering",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-gerrymandering/"
+},
+{
+"text": "Electoral Reform — Independent Voters",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform — Instant Runoff Voting",
+"href": "https://miller4ncsenate.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto:contact@miller4ncsenate.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://miller4ncsenate.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://miller4ncsenate.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/people/Jonathan-Miller-for-Liberty/100072275899477/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jonathan_the_politician/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC",
+"href": "https://miller4ncsenate.org/etn_category/lpnc/"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Live Auction Item Donation",
+"href": "https://forms.gle/2tTLaTXkgvgA9Nyq5"
+},
+{
+"text": "Meet",
+"href": "https://miller4ncsenate.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://miller4ncsenate.org/meet/"
+},
+{
+"text": "NC Senate 16",
+"href": "https://miller4ncsenate.org/meet/district/"
+},
+{
+"text": "News",
+"href": "https://miller.wakeupliberty.com/news/"
+},
+{
+"text": "News",
+"href": "https://miller4ncsenate.org/news/"
+},
+{
+"text": "People. not Politics.",
+"href": "https://miller4ncsenate.org/meet/people-not-politics/"
+},
+{
+"text": "Platform",
+"href": "https://www.lpnc.org/our-principles_platform-of-the-libertarian-party-of-north-carolina"
+},
+{
+"text": "Platform Committee Report",
+"href": "https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1706158079/2024_platform_final_report.pdf"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://miller4ncsenate.org/priorities/"
+},
+{
+"text": "Register Today!",
+"href": "https://www.lpnc.org/2024_lpnc_convention"
+},
+{
+"text": "Report",
+"href": "https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1697599903/NOTA_Report_-final.pdf"
+},
+{
+"text": "Restorative Justice",
+"href": "https://miller4ncsenate.org/priorities/restorative-justice/"
+},
+{
+"text": "Smarter Education",
+"href": "https://miller4ncsenate.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://miller4ncsenate.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://miller4ncsenate.org/take-action/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@miller4ncsenate"
+},
+{
+"text": "Village Inn Hotel and Event Center",
+"href": "https://thevillageinn.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://miller.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://miller4ncsenate.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://miller4ncsenate.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JDM4NC"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@miller4ncsenate"
+},
+{
+"text": "[image]",
+"href": "https://miller4ncsenate.org"
+},
+{
+"text": "[image]",
+"href": "https://miller4ncsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "tel:%E2%80%AA919-298-0240%E2%80%AC"
+},
+{
+"text": "contact@miller4ncsenate.org",
+"href": "mailto:contact@miller4ncsenate.org"
+},
+{
+"text": "here",
+"href": "https://assets.nationbuilder.com/lpnc/pages/3161/attachments/original/1706158079/2024_platform_final_report.pdf"
+},
+{
+"text": "here",
+"href": "https://www.lpnc.org/join"
+},
+{
+"text": "‪919-298-0240‬",
+"href": "tel:%E2%80%AA919-298-0240%E2%80%AC"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Add your event description here",
  "final_url": "https://www.kennealy4hawaii.com/events/l6jljrnc?s=20260910T160000Z",
- "paid_for_by": null,
+ "fingerprint": "c6ff1a182277f2752abc8287e8af874f013307c0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sign Waving",
  "years_mentioned": [
   "2026"

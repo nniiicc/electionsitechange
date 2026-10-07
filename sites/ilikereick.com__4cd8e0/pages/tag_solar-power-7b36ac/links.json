@@ -1,15 +1,66 @@
 [
-"https://ilikereick.com/about",
-"https://ilikereick.com/clean-and-reliable-grid-affordability-act-part-2-the-brave-new-world-of-batteries",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/how-many-renewable-energy-credits-does-it-take-to-screw-in-a-light-bulb",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/s-b-25-clean-and-reliable-grid-affordability-act-affordable-hardly",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Clean and Reliable Grid Affordability Act, Part 2: The Brave New World of Batteries",
+"href": "https://ilikereick.com/clean-and-reliable-grid-affordability-act-part-2-the-brave-new-world-of-batteries/"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "How Many Renewable Energy Credits Does It Take To Screw in a Light Bulb?",
+"href": "https://ilikereick.com/how-many-renewable-energy-credits-does-it-take-to-screw-in-a-light-bulb/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/clean-and-reliable-grid-affordability-act-part-2-the-brave-new-world-of-batteries/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/how-many-renewable-energy-credits-does-it-take-to-screw-in-a-light-bulb/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/s-b-25-clean-and-reliable-grid-affordability-act-affordable-hardly/"
+},
+{
+"text": "S.B. 25 – “Clean and Reliable Grid Affordability Act.” Affordable? Hardly",
+"href": "https://ilikereick.com/s-b-25-clean-and-reliable-grid-affordability-act-affordable-hardly/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

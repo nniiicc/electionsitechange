@@ -1,14 +1,58 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/reports/pctc/PCTC_Report_11032025.pdf",
-"https://praterforok.com/",
-"https://praterforok.com/about-me",
-"https://praterforok.com/search",
-"https://ruralhospitals.chqpr.org/Solutions.html",
-"https://secure.actblue.com/donate/tiffany-prater-3"
+{
+"text": "About Me",
+"href": "https://www.praterforok.com/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tiffany-prater-3"
+},
+{
+"text": "Home",
+"href": "https://www.praterforok.com"
+},
+{
+"text": "Meet Tiffany",
+"href": "https://www.praterforok.com/about-me"
+},
+{
+"text": "Request a Sign",
+"href": "mailto:info@praterforok.com?subject=Request+a+Sign"
+},
+{
+"text": "Search Results",
+"href": "https://www.praterforok.com/search"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "https://ruralhospitals.chqpr.org/Solutions.html#the-need-for-rapid-action-to-prevent-closures-and-sustain-rural-healthcare",
+"href": "https://ruralhospitals.chqpr.org/Solutions.html#the-need-for-rapid-action-to-prevent-closures-and-sustain-rural-healthcare"
+},
+{
+"text": "school year 2024-25",
+"href": "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/reports/pctc/PCTC_Report_11032025.pdf"
+}
 ]

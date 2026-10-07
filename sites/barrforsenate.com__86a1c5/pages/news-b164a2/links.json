@@ -1,33 +1,142 @@
 [
-"https://barrforsenate.com/",
-"https://barrforsenate.com/coalitions",
-"https://barrforsenate.com/contact",
-"https://barrforsenate.com/endorsements",
-"https://barrforsenate.com/endorsements/city-of-butler-mayor-taylor-endorses-andy-barr-for-u-s-senate",
-"https://barrforsenate.com/endorsements/kentucky-senate-republican-conference-endorses-barr-for-senate",
-"https://barrforsenate.com/endorsements/ky-rep-mike-clines-endorses-andy-barr-for-senate",
-"https://barrforsenate.com/endorsements/ky-rep-thomas-huff-endorses-andy-barr-for-senate",
-"https://barrforsenate.com/endorsements/menifee-county-judge-executive-hector-alcala-endorses-andy-barr-for-senate",
-"https://barrforsenate.com/endorsements/representative-scott-sharp-endorses-andy-barr-for-u-s-senate",
-"https://barrforsenate.com/issues",
-"https://barrforsenate.com/issues/kentucky-coal-plan",
-"https://barrforsenate.com/issues/law-enforcement",
-"https://barrforsenate.com/issues/military-and-veterans",
-"https://barrforsenate.com/join-the-team",
-"https://barrforsenate.com/meet-andy",
-"https://barrforsenate.com/news",
-"https://barrforsenate.com/news/page/18",
-"https://barrforsenate.com/news/page/2",
-"https://barrforsenate.com/news/page/3",
-"https://barrforsenate.com/newsletters/bluegrass-brief-team-barr-dominates-fancy-farm",
-"https://barrforsenate.com/order-a-yard-sign",
-"https://barrforsenate.com/press-release/barr-maintains-commanding-financial-advantage-as-general-election-begins-booker-reports-debt",
-"https://barrforsenate.com/press-release/special-update-team-barr-ready-to-hit-fancy-farm",
-"https://barrforsenate.com/privacy-policy",
-"https://barrforsenate.com/terms-and-conditions",
-"https://barrforsenate.com/uncategorized/barr-celebrates-street-dedication-honoring-former-jefferson-county-clerk-bobbie-holsclaw",
-"https://facebook.com/BarrForSenate",
-"https://instagram.com/barrforsenate",
-"https://secure.winred.com/andybarrforsenate/donate-1",
-"https://x.com/barrforsenate"
+{
+"text": "18",
+"href": "https://barrforsenate.com/news/page/18/"
+},
+{
+"text": "2",
+"href": "https://barrforsenate.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://barrforsenate.com/news/page/3/"
+},
+{
+"text": "Contact",
+"href": "https://barrforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/andybarrforsenate/donate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://barrforsenate.com/endorsements/"
+},
+{
+"text": "Get Your Yard Sign",
+"href": "https://barrforsenate.com/order-a-yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://barrforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://barrforsenate.com/issues/"
+},
+{
+"text": "Join the team",
+"href": "https://barrforsenate.com/coalitions/"
+},
+{
+"text": "Kentucky Coal Plan",
+"href": "https://barrforsenate.com/issues/kentucky-coal-plan/"
+},
+{
+"text": "Law Enforcement",
+"href": "https://barrforsenate.com/issues/law-enforcement/"
+},
+{
+"text": "Meet Andy",
+"href": "https://barrforsenate.com/meet-andy/"
+},
+{
+"text": "Military & Veterans",
+"href": "https://barrforsenate.com/issues/military-and-veterans/"
+},
+{
+"text": "News",
+"href": "https://barrforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://barrforsenate.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://barrforsenate.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/city-of-butler-mayor-taylor-endorses-andy-barr-for-u-s-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/kentucky-senate-republican-conference-endorses-barr-for-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/ky-rep-mike-clines-endorses-andy-barr-for-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/ky-rep-thomas-huff-endorses-andy-barr-for-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/menifee-county-judge-executive-hector-alcala-endorses-andy-barr-for-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/endorsements/representative-scott-sharp-endorses-andy-barr-for-u-s-senate/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/newsletters/bluegrass-brief-team-barr-dominates-fancy-farm/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/press-release/barr-maintains-commanding-financial-advantage-as-general-election-begins-booker-reports-debt/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/press-release/special-update-team-barr-ready-to-hit-fancy-farm/"
+},
+{
+"text": "Read More",
+"href": "https://barrforsenate.com/uncategorized/barr-celebrates-street-dedication-honoring-former-jefferson-county-clerk-bobbie-holsclaw/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://barrforsenate.com/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://barrforsenate.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://barrforsenate.com/join-the-team/"
+},
+{
+"text": "[image: Andy Barr for Senate]",
+"href": "https://barrforsenate.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BarrForSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barrforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/barrforsenate"
+},
+{
+"text": "→",
+"href": "https://barrforsenate.com/news/page/2/"
+}
 ]

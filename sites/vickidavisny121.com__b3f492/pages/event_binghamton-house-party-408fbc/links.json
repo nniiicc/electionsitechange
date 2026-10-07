@@ -1,20 +1,82 @@
 [
-"https://broomedems.com/",
-"https://facebook.com/vickidavisny121",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260819T180000%2F20260819T200000&text=Binghamton+House+Party&details=Sponsored+by+the+%3Ca+href%3D%22https%3A%2F%2Fwww.broomedems.com%22+target%3D%22_blank%22+rel%3D%22noopener%22%3EBroome+County+Democrats%3C%2Fa%3E.&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvickidavisny121.com",
-"https://instagram.com/vickidavisny121",
-"https://maps.google.com/maps?f=q&hl=en&q=Binghamton+NY+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-08-19T18%3A00%3A00-04%3A00&enddt=2026-08-19T20%3A00%3A00-04%3A00&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&subject=Binghamton+House+Party&body=Sponsored+by+the+Broome+County+Democrats.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-08-19T18%3A00%3A00-04%3A00&enddt=2026-08-19T20%3A00%3A00-04%3A00&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&subject=Binghamton+House+Party&body=Sponsored+by+the+Broome+County+Democrats.",
-"https://secure.actblue.com/donate/vicki-davis-for-assembly-1",
-"https://vickidavisny121.com/",
-"https://vickidavisny121.com/calendar",
-"https://vickidavisny121.com/contact",
-"https://vickidavisny121.com/endorsements",
-"https://vickidavisny121.com/event/celebrate-our-candidates",
-"https://vickidavisny121.com/event/family-community-picnic-chenango-county",
-"https://vickidavisny121.com/events",
-"https://vickidavisny121.com/map-of-ny-assembly-district-121",
-"https://vickidavisny121.com/news",
-"https://vickidavisny121.com/platform"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=Binghamton+NY+United+States"
+},
+{
+"text": "Broome County Democrats",
+"href": "https://www.broomedems.com"
+},
+{
+"text": "Celebrate Our Candidates »",
+"href": "https://vickidavisny121.com/event/celebrate-our-candidates/"
+},
+{
+"text": "Contact",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vicki-davis-for-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://vickidavisny121.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vickidavisny121.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260819T180000%2F20260819T200000&text=Binghamton+House+Party&details=Sponsored+by+the+%3Ca+href%3D%22https%3A%2F%2Fwww.broomedems.com%22+target%3D%22_blank%22+rel%3D%22noopener%22%3EBroome+County+Democrats%3C%2Fa%3E.&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvickidavisny121.com"
+},
+{
+"text": "Map of NY121",
+"href": "https://vickidavisny121.com/map-of-ny-assembly-district-121/"
+},
+{
+"text": "News",
+"href": "https://vickidavisny121.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&subject=Binghamton+House+Party&body=Sponsored+by+the+Broome+County+Democrats."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T18%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=Binghamton%2C+Binghamton%2C+NY%2C+United+States&subject=Binghamton+House+Party&body=Sponsored+by+the+Broome+County+Democrats."
+},
+{
+"text": "Platform",
+"href": "https://vickidavisny121.com/platform/"
+},
+{
+"text": "Vicki Davis for NY Assembly 121",
+"href": "https://vickidavisny121.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vickidavisny121/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vickidavisny121/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vickidavisny121.com/event/binghamton-house-party/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vickidavisny121.com/calendar/"
+},
+{
+"text": "« Family Community Picnic – Chenango County",
+"href": "https://vickidavisny121.com/event/family-community-picnic-chenango-county/"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"http://facebook.com/senatorhawj",
-"http://youtube.com/founghawj",
-"https://cfb.mn.gov/citizen-resources/board-programs/public-subsidy-of-campaigns/political-contribution-refund-program",
-"https://founghawj.com/about-1.html",
-"https://founghawj.com/contact-us.html",
-"https://founghawj.com/donation.html",
-"https://founghawj.com/home.html",
-"https://founghawj.com/supporters.html",
-"https://revenue.state.mn.us/sites/default/files/2025-12/pcr-25.pdf",
-"https://revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf",
-"https://secure.actblue.com/donate/foung-hawj-2",
-"https://twitter.com/founghawj"
+{
+"text": "Background",
+"href": "https://www.founghawj.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.founghawj.com/contact-us.html"
+},
+{
+"text": "Donation",
+"href": "https://www.founghawj.com/donation.html"
+},
+{
+"text": "Home",
+"href": "https://www.founghawj.com/home.html"
+},
+{
+"text": "MAKE YOUR DONATION ONLINE",
+"href": "https://secure.actblue.com/donate/foung-hawj-2"
+},
+{
+"text": "Supporters",
+"href": "https://www.founghawj.com/supporters.html"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/senatorhawj"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/founghawj"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/founghawj"
+},
+{
+"text": "[no text]",
+"href": "https://cfb.mn.gov/citizen-resources/board-programs/public-subsidy-of-campaigns/political-contribution-refund-program/"
+},
+{
+"text": "[no text]",
+"href": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf"
+},
+{
+"text": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-25.pdf",
+"href": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-25.pdf"
+},
+{
+"text": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf​",
+"href": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf"
+},
+{
+"text": "​",
+"href": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf"
+}
 ]

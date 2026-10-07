@@ -1,4 +1,18 @@
-Raised in Fair Oaks and Carmichael, I grew up on food stamps and Medi-Cal, lived in subsidized housing, put myself through college, and supported my family on an educator’s salary.
+Skip navigation menu About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Terms of Service and Privacy Policy apply.
+About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate District 7 We can do better Join me Email Email Phone Phone ZIP Code ZIP Code Submit By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Amy Slavensky for Assembly 2026.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Terms of Service and Privacy Policy apply.
+Support Our Campaign $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other I’m running to fight for you.
+Our current representatives are failing on what matters most: affordability, healthcare, and education.
+I listen to how people in our district are struggling to get by.
+We deserve better.
+What I Stand For Hoover's record Raised in Fair Oaks and Carmichael, I grew up on food stamps and Medi-Cal, lived in subsidized housing, put myself through college, and supported my family on an educator’s salary.
 That version of California, where you can build a better life for your family through hard work and playing by the rules, doesn't exist anymore.
 The status quo in Sacramento is making life harder for working families.
 We deserve better.
@@ -18,4 +32,8 @@ In our public schools, I've seen our community’s challenges firsthand.
 Now I'm running for State Assembly to fight for solutions for working Californians.
 Wondering where District 7 is?
 You're not alone!
-If you're unsure where you fall, you can put in your address to check here.
+If you're unsure where you fall, you can put in your address to check here .
+What does Josh Hoover's record show?
+With Josh Hoover, there's what he says and there's how he votes.
+Share Now Healthcare costs keep going up And Josh Hoover isn't trying to stop it.
+Share Now Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.

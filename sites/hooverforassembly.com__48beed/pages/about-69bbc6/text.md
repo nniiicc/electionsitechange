@@ -1,5 +1,4 @@
-ABOUT JOSH HOOVER
-On November 8, 2022, California State Assemblyman Josh Hoover was elected to represent the 7th Assembly District in Sacramento County.
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE ABOUT JOSH HOOVER On November 8, 2022, California State Assemblyman Josh Hoover was elected to represent the 7th Assembly District in Sacramento County.
 Assembly District 7 includes the cities of Citrus Heights, Folsom, and Rancho Cordova and the unincorporated communities of Carmichael, Fair Oaks, Foothill Farms, Gold River, Mather, McClellan Park, North Highlands, Orangevale, and Rosemont.
 Josh is a passionate advocate for California families.
 His top priorities include making sure our community remains a great place to live, work, and go to school.
@@ -11,4 +10,5 @@ Prior to his election to the Assembly, Josh served as a school board member in t
 He led the fight to reopen schools in his community, and as a result, FCUSD was the first district in Sacramento County to bring students back for in-person instruction.
 He also worked to balance the budget, protect taxpayers, expand mental health services, support school police officers, and improve student achievement.
 Josh earned a bachelor’s degree in political science and public policy from UCLA and a master’s degree in public administration from USC.
-He lives in Folsom with his wife Nicole and their three children Ayden, Addison, and Austin.
+He lives in Folsom with his wife Nicole and their three children Ayden, Addison, and Austin. donate online Listen to his podcast get a yard sign ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

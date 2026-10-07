@@ -1,5 +1,4 @@
-Meet Chipalo
-Street is a leader with a proven track record creating change.
+Home Meet Chipalo Priorities Endorsements Join Team Chipalo Home Meet Chipalo Priorities Endorsements Join Team Chipalo Donate Donate Meet Chipalo Street is a leader with a proven track record creating change.
 He’s used his experience to improve the systems that shape our state in the House and is excited to continue the work in the Senate.
 He grew up in a working class African American community with a sister and two loving parents during the tumultuous decades of the ‘80s and ‘90s.
 As a product of the public school system, he was lucky to discover a love for technology during high school.
@@ -16,3 +15,4 @@ Street fed his entrepreneurial spirit by starting a small real estate company wh
 Determined to live his morals, he managed to keep all of his tenants housed throughout the pandemic despite 30% of them losing work.
 Performing at the highest levels does not intimidate Street.
 He retired from a successful “nights and weekends” career refereeing international, professional, and collegiate soccer matches and gives back by mentoring young referees.
+Paid for by Friends of Chipalo Street Friends of Chipalo Street | PO Box 9100 | Seattle, WA 98109

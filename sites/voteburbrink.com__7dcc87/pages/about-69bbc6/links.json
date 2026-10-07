@@ -1,8 +1,42 @@
 [
-"https://facebook.com/voteburbrink",
-"https://secure.actblue.com/donate/showupdothework",
-"https://voteburbrink.com/",
-"https://voteburbrink.com/about",
-"https://voteburbrink.com/issues",
-"https://voteburbrink.com/volunteer"
+{
+"text": "About",
+"href": "https://www.voteburbrink.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/showupdothework"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/showupdothework"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/voteburbrink"
+},
+{
+"text": "Home",
+"href": "https://www.voteburbrink.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteburbrink.com/issues"
+},
+{
+"text": "The Issues",
+"href": "https://www.voteburbrink.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteburbrink.com/volunteer"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.voteburbrink.com/issues"
+},
+{
+"text": "★ Donate",
+"href": "https://secure.actblue.com/donate/showupdothework"
+}
 ]

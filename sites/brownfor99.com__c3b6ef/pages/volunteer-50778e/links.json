@@ -1,11 +1,42 @@
 [
-"https://brownfor99.com/",
-"https://brownfor99.com/about",
-"https://brownfor99.com/contact",
-"https://brownfor99.com/endorsements",
-"https://brownfor99.com/issues",
-"https://designedtorun.com/",
-"https://facebook.com/brownfor99",
-"https://instagram.com/brownfor99",
-"https://secure.actblue.com/donate/ws_main"
+{
+"text": "Contact",
+"href": "https://www.brownfor99.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ws_main"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brownfor99.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.brownfor99.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.brownfor99.com/issues"
+},
+{
+"text": "Meet Dr. Brown",
+"href": "https://www.brownfor99.com/about"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Dr. Brown for House District 99]",
+"href": "https://www.brownfor99.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/brownfor99"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brownfor99"
+}
 ]

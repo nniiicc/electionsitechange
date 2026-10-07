@@ -1,7 +1,4 @@
-November 2: Meet And Greet at Bistro Baffi - 1st Ave S, Suite 101, Normandy Park WA 98148
-Guest Speaker: Doug Basler and others
-Know More About the Story
-I believe that our fight should transcend personal gain or position and instead be fueled by the noble cause that truly matters: Unity.
+November 2: Meet And Greet at Bistro Baffi - 1st Ave S, Suite 101, Normandy Park WA 98148 Guest Speaker: Doug Basler and others Skip to content X Home Issues Affordability • Economy • Employment Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education & Local Control Media Volunteer Contact Us 2072 Pinnickinick Street, WA 98370 info@website.com Home Issues Affordability • Economy • Employment Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education & Local Control Media Volunteer Contact Us DONATE Know More About the Story Meet Nirav I believe that our fight should transcend personal gain or position and instead be fueled by the noble cause that truly matters: Unity.
 My name is Nirav Sheth, from Ahmedabad, India, where I was raised in a lower middle-class family.
 When I first arrived in the USA in 2008, my family could barely afford a ticket.
 Nonetheless, I embarked on a journey as a student of computer and electrical engineering.
@@ -23,8 +20,7 @@ My experiences as a Marine veteran and former police officer have instilled with
 Having personally witnessed the sacrifices and challenges inherent in serving, my passion burns brightly to fight for the fundamental rights of our people, guarantee community safety, fortify our infrastructure, and foster a robust economy that will secure a promising future for generations to come.
 This profound sense of purpose has led me to make the resolute decision to run for Congressional District 7th.
 I am determined to stand up for the people and leave an indelible mark that will endure for years to come.
-For Washington's Congressional District 7th
-My story is pretty simple, I fell, I stood back up and I leaned from my mistakes and I progressed.
+For Washington's Congressional District 7th Purpose Driving My Candidacy My story is pretty simple, I fell, I stood back up and I leaned from my mistakes and I progressed.
 That’s what normal people do everyday in their daily lives.
 But Let me tell you why I am here today, I am tired.
 Weary body can be dealt with but weary soul is something else.
@@ -50,3 +46,4 @@ It is time for us to rise up and demand change.
 We must hold our leaders accountable, insist on policies that prioritize the well-being of all citizens, and fight for a system that truly serves the people.
 Our democracy is at stake, and it is our duty to reclaim it from the clutches of those who seek to control and manipulate us.
 Together, we can build a future where our will and determination are not constantly undermined, and where every individual has the opportunity to thrive.
+Envelope Facebook-f X-twitter Linkedin Instagram Reach Us Please send us your support & donation: 17837 1st Ave PMB # 291, Normandy Park WA 98148 campaign@shethforcongress.com Call (206) 816 - 2977 Issues Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education Resources About Nirav Media Events Volunteer Contact Us Paid for by the Nirav Sheth for Congress | Terms & Conditions | Design and Developed by Scratch

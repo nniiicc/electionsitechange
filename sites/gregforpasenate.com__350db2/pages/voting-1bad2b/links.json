@@ -1,16 +1,82 @@
 [
-"https://gregforpasenate.com/",
-"https://gregforpasenate.com/about",
-"https://gregforpasenate.com/contact",
-"https://gregforpasenate.com/contact-2",
-"https://gregforpasenate.com/district",
-"https://gregforpasenate.com/issues",
-"https://gregforpasenate.com/privacy-policy",
-"https://gregforpasenate.com/voting",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/BallotTracking.aspx",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://secure.anedot.com/greg-banks-for-pa-senate/donate"
+{
+"text": "APPLY FOR ABSENTEE BALLOT",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeStart"
+},
+{
+"text": "APPLY FORMAIL-IN BALLOT",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "About",
+"href": "https://gregforpasenate.com/about/"
+},
+{
+"text": "BALLOT STATUS",
+"href": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx"
+},
+{
+"text": "CHECK YOUR REGISTRATION",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Contact",
+"href": "https://gregforpasenate.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/greg-banks-for-pa-senate/donate"
+},
+{
+"text": "ELECTION",
+"href": "https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx"
+},
+{
+"text": "FIND YOURPOLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Greg Bankos for PA Senate A Coach, NOT A King",
+"href": "https://gregforpasenate.com/"
+},
+{
+"text": "Home",
+"href": "https://gregforpasenate.com"
+},
+{
+"text": "Home",
+"href": "https://gregforpasenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://gregforpasenate.com/issues/"
+},
+{
+"text": "Join Greg’s Campaign Team",
+"href": "https://gregforpasenate.com/contact-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gregforpasenate.com/privacy-policy/"
+},
+{
+"text": "REGISTER",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "TO VOTE",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Voting Options",
+"href": "https://gregforpasenate.com/voting/"
+},
+{
+"text": "Your District, Your Home",
+"href": "https://gregforpasenate.com/district/"
+},
+{
+"text": "[image: Greg Bankos for PA Senate]",
+"href": "https://gregforpasenate.com/"
+}
 ]

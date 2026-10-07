@@ -1,11 +1,78 @@
 [
-"http://sunkentreasuredesign.com/",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://wendyfinkforpa.com/",
-"https://wendyfinkforpa.com/about",
-"https://wendyfinkforpa.com/contact",
-"https://wendyfinkforpa.com/donate",
-"https://wendyfinkforpa.com/events",
-"https://wendyfinkforpa.com/volunteer",
-"https://wendyfinkforpa.com/wendy-finks-plan-for-pa"
+{
+"text": "ABOUT",
+"href": "https://wendyfinkforpa.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://wendyfinkforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://wendyfinkforpa.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://wendyfinkforpa.com/events"
+},
+{
+"text": "HOME",
+"href": "https://wendyfinkforpa.com/"
+},
+{
+"text": "PLAN for PA",
+"href": "https://wendyfinkforpa.com/wendy-finks-plan-for-pa"
+},
+{
+"text": "Sunken Treasure Design",
+"href": "http://www.sunkentreasuredesign.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://wendyfinkforpa.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.wendyfinkforpa.com/about/"
+},
+{
+"text": "[image]",
+"href": "https://www.wendyfinkforpa.com/donate/"
+},
+{
+"text": "[image]",
+"href": "https://www.wendyfinkforpa.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/about"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/contact"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/donate"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/events"
+},
+{
+"text": "[no text]",
+"href": "https://wendyfinkforpa.com/volunteer"
+},
+{
+"text": "wendyfinkforpa@gmail.com",
+"href": "mailto:wendyfinkforpa@gmail.com"
+}
 ]

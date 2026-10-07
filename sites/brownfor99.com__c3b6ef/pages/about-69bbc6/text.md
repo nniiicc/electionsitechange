@@ -1,4 +1,9 @@
-Herschel’s story begins right here in Oklahoma City - shaped by family, community and a deep-rooted belief in hard work and service.
+Skip navigation menu Home Meet Dr.
+Brown Issues Volunteer Endorsements Contact Donate A Trusted Leader - For Us About Dr.
+Herschel Brown Herschel’s story begins right here in Oklahoma City - shaped by family, community and a deep-rooted belief in hard work and service.
+Home Meet Dr.
+Brown Issues Volunteer Endorsements Contact Donate A Trusted Leader - For Us About Dr.
+Herschel Brown Herschel’s story begins right here in Oklahoma City - shaped by family, community and a deep-rooted belief in hard work and service.
 Herschel Brown’s life is rooted in a legacy of service and community leadership.
 His father, a pioneering businessman, owned multiple successful enterprises and was among the first Black men in the area to secure a Small Business Administration loan, setting a powerful example of determination and vision.
 These early influences instilled in Herschel a strong work ethic and a lifelong commitment to helping others.
@@ -12,3 +17,8 @@ In the House, he will champion healthcare access and affordability - protecting 
 Beyond medicine, he is an active leader at Voice of Hope Church, a supporter of education, and a member of Omega Psi Phi Fraternity, Inc.
 Alongside his wife, Doris, he is a proud father of four.
 Now, he seeks to serve District 99, bringing experience, compassion and a commitment to Oklahoma’s future.
+The Doctor is IN!
+Support Dr.
+Herschel Brown’s campaign for HD-99.
+Powered by RUN! website builder Paid for By the Dr.
+Brown for District Campaign 2026 You need to enable JavaScript to run this app.

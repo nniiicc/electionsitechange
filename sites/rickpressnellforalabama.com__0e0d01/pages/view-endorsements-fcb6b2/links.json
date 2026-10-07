@@ -1,17 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://rickpressnellforalabama.com/",
-"https://rickpressnellforalabama.com/contact",
-"https://rickpressnellforalabama.com/contribute",
-"https://rickpressnellforalabama.com/events",
-"https://rickpressnellforalabama.com/home",
-"https://rickpressnellforalabama.com/issues",
-"https://rickpressnellforalabama.com/make-endorsement",
-"https://rickpressnellforalabama.com/meet_rick",
-"https://rickpressnellforalabama.com/news",
-"https://rickpressnellforalabama.com/photos",
-"https://rickpressnellforalabama.com/view-endorsements",
-"https://rickpressnellforalabama.com/volunteer",
-"https://rickpressnellforalabama.com/vote",
-"https://rickpressnellforalabama.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://www.rickpressnellforalabama.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://www.rickpressnellforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.rickpressnellforalabama.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rickpressnellforalabama.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.rickpressnellforalabama.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.rickpressnellforalabama.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.rickpressnellforalabama.com/issues"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.rickpressnellforalabama.com/meet_rick"
+},
+{
+"text": "News",
+"href": "https://www.rickpressnellforalabama.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.rickpressnellforalabama.com/photos"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.rickpressnellforalabama.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rickpressnellforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.rickpressnellforalabama.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.rickpressnellforalabama.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.rickpressnellforalabama.com/"
+}
 ]

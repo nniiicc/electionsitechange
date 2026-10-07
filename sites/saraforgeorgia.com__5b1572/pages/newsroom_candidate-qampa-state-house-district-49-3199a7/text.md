@@ -1,21 +1,13 @@
-Appen Media Candidate Q&A: State House District 49
-Sep 26, 2026
-Sara Fuchs
-Party affiliation: Democrat
-Campaign website and social media pages: https://www.saraforgeorgia.com/ https://www.facebook.com/saraforgeorgia/ https://www.instagram.com/saraforgeorgia
-What is your occupation?
-Librarian
-What neighborhood do you call home?
-Roswell
-Why are you running for this office?
+0 Skip to Content FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Open Menu Close Menu FAQ Your candidate Our opponent The issues How to vote Newsroom Chip in Appen Media Candidate Q&A: State House District 49 Sep 27 Written By Sara Fuchs By DAN WHISENHUNT Sep 26, 2026 Sara Fuchs Party affiliation: Democrat Campaign website and social media pages: https://www.saraforgeorgia.com/ https://www.facebook.com/saraforgeorgia/ https://www.instagram.com/saraforgeorgia What is your occupation?
+Librarian What neighborhood do you call home?
+Roswell Why are you running for this office?
 The original candidate for this office, Teresa Lin, withdrew due to illness.
 When she stepped down, I stepped up.
 I knew no one would work harder than I would to flip this seat.
 I'm a mom, a librarian, a PTA president, and I've worked most of the last six years in the State House as Chief of Staff to State House Representative Betsy Holland.
 I believe government works best when it listens to the people it serves, brings people together to solve problems, and approaches public service with curiosity, integrity, and a willingness to do the work, and I know I am the right person for this job.
 What are your top priorities if you are elected?
-Fully funded public schools, healthcare that doesn't bankrupt you, and affordable communities
-What makes you a better candidate than your opponent?
+Fully funded public schools, healthcare that doesn't bankrupt you, and affordable communities What makes you a better candidate than your opponent?
 My opponent says that our public schools are fully funded, but as a mom of two school-age children, I actually use the public schools he's voted to defund.
 In the early 2000s (when my opponent took office), the state paid for 56% of public school funding - now it's 51%.
 As PTA president, I'm the one who raised the funds to fill the gaps that the school could not meet.
@@ -83,10 +75,15 @@ I'd rather target relief where it helps most: a state tax credit for working fam
 If elected, do you promise to be ethical and transparent?
 If you are elected, what will you do to promote ethics and transparency in government?
 The only way to restore trust in state government is by being ethical and transparent.
-My opponent received $3,300 from Competitive Georgia Action Inc. on Jan. 8, 2025, a lobbying coalition focused on passing tort reform.
+My opponent received $3,300 from Competitive Georgia Action Inc. on Jan.
+8, 2025, a lobbying coalition focused on passing tort reform.
 Two months later, he voted yes on SB 68, a tort reform package that limits victims' ability to sue businesses and insurers.
 I will push for legislation that bars industry contributions within 90 days of a related vote.
 I support strengthening the State Ethics Commission's independence and enforcement funding.
 I will send out weekly newsletters during legislative session with plain-language explanation of my votes - my constituents shouldn't have to be experts in legalese to understand the laws that we are passing.
 I will hold regular town halls and will answer every email and return every phone call.
 I work for the voters and am ready to be held accountable by them.
+Sara Fuchs Next Next Fulton County Democrats endorse Sara Fuchs for House District 49 Support our campaign!
+Volunteer with us!
+Georgia’s 49th state house district includes Alpharetta , Milton , & Roswell Early voting begins October 13, 2026 Election Day is Tuesday, November 3, 2026 Contact me Paid for by Sara Fuchs for Georgia. ©# Sara Fuchs.
+All rights reserved.

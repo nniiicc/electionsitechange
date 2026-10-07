@@ -1,9 +1,14 @@
 {
  "description": "James McDermott ran for the US House of Representatives in 2014. He wanted to be a voice representing Alaskans in Washington DC. This was his website",
  "final_url": "https://www.mcdermott4congress4alaska.com/index.php?id=1&reveal=yes&view_only=yes",
- "paid_for_by": null,
+ "fingerprint": "1a74d54a72933cf138c575db780cdc3515e175ff",
+ "format": 3,
+ "paid_for_by": "",
  "title": "McDermott 4 Congress 4 Alaska",
  "years_mentioned": [
+  "1973",
+  "2002",
+  "2003",
   "2014"
  ]
 }

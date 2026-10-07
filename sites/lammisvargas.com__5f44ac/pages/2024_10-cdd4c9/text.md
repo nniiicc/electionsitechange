@@ -1,14 +1,3 @@
-The Edgewood Highland School community proudly announces the grand reopening of the Edgewood Highland Playground,…
-For Lammis Vargas, having more women, and moms, serve alongside her on the Cranston City…
-Skip to content Skip to footer The Edgewood Highland School community proudly announces the grand reopening of the Edgewood Highland Playground,…
-For Lammis Vargas, having more women, and moms, serve alongside her on the Cranston City…
-document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ?
-'0' : '1') + '; path=/; SameSite=Lax';
-if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
-var proxyPurgeOnly = 0;
-if (typeof navigator.sendBeacon !== 'undefined') {
-var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjQvMTAv'); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', 'e57f4941ef40435afd78b51570ccef4b905601c8d29c61ccae366860315b2ae993c58b8bdaea36b98aabb6895813f3198ce9d8e13eabb77be311e6808a1acc58'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'archive'); navigator.sendBeacon(location.href, nitroData);
-} else {
-var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjQvMTAv&nitroBeaconCookies=W10=&nitroBeaconHash=e57f4941ef40435afd78b51570ccef4b905601c8d29c61ccae366860315b2ae993c58b8bdaea36b98aabb6895813f3198ce9d8e13eabb77be311e6808a1acc58&proxyPurgeOnly=&layout=archive');
-}
-}
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Monthly Archives: October 2024 Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Vargas and team reopen Edgewood Highland Playground Posted October 3, 2024 The Edgewood Highland School community proudly announces the grand reopening of the Edgewood Highland Playground,… Lammis Vargas featured in Mom Power profile Posted October 3, 2024 For Lammis Vargas, having more women, and moms, serve alongside her on the Cranston City… Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

@@ -1,16 +1,82 @@
 [
-"https://facebook.com/SenatorLondonLamar",
-"https://instagram.com/senatorlondonlamar",
-"https://londonlamar.com/",
-"https://londonlamar.com/about-london-lamar",
-"https://londonlamar.com/aboutlondon",
-"https://londonlamar.com/contact",
-"https://londonlamar.com/copy-of-healthy-families",
-"https://londonlamar.com/copy-of-strong-schools",
-"https://londonlamar.com/donate",
-"https://londonlamar.com/juniorteaparty",
-"https://londonlamar.com/news",
-"https://londonlamar.com/services-7",
-"https://londonlamar.com/volunteer",
-"https://secure.actblue.com/donate/lamarsenate33"
+{
+"text": "ABOUT",
+"href": "https://www.londonlamar.com/about-london-lamar"
+},
+{
+"text": "About Me",
+"href": "https://www.londonlamar.com/aboutlondon"
+},
+{
+"text": "CLICK HERE TO DONATE",
+"href": "https://secure.actblue.com/donate/lamarsenate33"
+},
+{
+"text": "CONTACT",
+"href": "https://www.londonlamar.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lamarsenate33"
+},
+{
+"text": "DONATE",
+"href": "https://www.londonlamar.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.londonlamar.com"
+},
+{
+"text": "Healthy Families",
+"href": "https://www.londonlamar.com/copy-of-strong-schools"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.londonlamar.com/about-london-lamar"
+},
+{
+"text": "LEARN MORE ABOUT SENATOR LONDON LAMAR",
+"href": "https://www.londonlamar.com/about-london-lamar"
+},
+{
+"text": "News",
+"href": "https://www.londonlamar.com/news"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.londonlamar.com/copy-of-healthy-families"
+},
+{
+"text": "Save My Spot",
+"href": "https://www.londonlamar.com/juniorteaparty"
+},
+{
+"text": "Strong Schools",
+"href": "https://www.londonlamar.com/services-7"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.londonlamar.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorLondonLamar/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorlondonlamar"
+},
+{
+"text": "info@LondonLamar.com",
+"href": "mailto:info@LondonLamar.com"
+}
 ]

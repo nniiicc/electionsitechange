@@ -1,20 +1,8 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: October 2014
-Endorsement of the NH Sierra Club
-Because of the Paint Stewardship bills and other stewardship bills, I have received the endorsement of the NH Sierra Club.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: October 2014 Endorsement of the NH Sierra Club Posted on October 25, 2014 by Scott Burns for State Representative Because of the Paint Stewardship bills and other stewardship bills, I have received the endorsement of the NH Sierra Club.
 I will continue to improve on recycling laws.
-I am working on stewardship bills, recycling of electronics and composting bill. … Continue reading
-Posted in Uncategorized
-Leave a comment
-More Support and Franklin Candidate Forum
-The teamsters have supported me in the past few weeks.
+I am working on stewardship bills, recycling of electronics and composting bill. … Continue reading → Posted in Uncategorized | Leave a comment More Support and Franklin Candidate Forum Posted on October 19, 2014 by Scott Burns for State Representative The teamsters have supported me in the past few weeks.
 I have been endorsed by the NH National Education Association.
 Tonight’s Franklin Candidate’s forum.
-One of the main issue was how we were going to cut the county budget and … Continue reading
-Posted in Uncategorized
-Leave a comment
+One of the main issue was how we were going to cut the county budget and … Continue reading → Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events October 2014 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Sep Nov » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

@@ -1,22 +1,98 @@
 [
-"https://broninforcongress.com/",
-"https://broninforcongress.com/about",
-"https://broninforcongress.com/contact",
-"https://broninforcongress.com/endorsements",
-"https://broninforcongress.com/issues",
-"https://bsky.app/profile/lukebronin.bsky.social",
-"https://facebook.com/luke.bronin",
-"https://forms.gle/5QurvELnXkRUHiLi8",
-"https://instagram.com/lukebronin",
-"https://mobilize.us/lukebronin/event/955674",
-"https://secure.actblue.com/donate/lb-web",
-"https://secure.actblue.com/donate/lb-web?amount=10",
-"https://secure.actblue.com/donate/lb-web?amount=100",
-"https://secure.actblue.com/donate/lb-web?amount=25",
-"https://secure.actblue.com/donate/lb-web?amount=250",
-"https://secure.actblue.com/donate/lb-web?amount=50",
-"https://threads.net/@lukebronin",
-"https://tiktok.com/@lukebronin",
-"https://x.com/lukebronin",
-"https://youtube.com/@LukeBroninForCongress/shorts"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/lb-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/lb-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/lb-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/lb-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/lb-web?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.broninforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.broninforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lb-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.broninforcongress.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.broninforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://forms.gle/5QurvELnXkRUHiLi8"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.mobilize.us/lukebronin/event/955674/"
+},
+{
+"text": "Learn more",
+"href": "https://www.broninforcongress.com/about"
+},
+{
+"text": "Luke's Priorities",
+"href": "https://www.broninforcongress.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/lb-web"
+},
+{
+"text": "[image: Luke Bronin for Congress logo]",
+"href": "https://www.broninforcongress.com/"
+},
+{
+"text": "[image: Luke Bronin for Congress]",
+"href": "https://www.broninforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/lukebronin.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/luke.bronin"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@lukebronin"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LukeBroninForCongress/shorts"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/lukebronin"
+}
 ]

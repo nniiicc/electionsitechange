@@ -1,13 +1,11 @@
-The Spokesman-Review
-Jan 27, 2024
-Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA)...
+top of page About Gerry Issues Endorsements News Media More Use tab to navigate through the menu items.
+DONATE < Back Pair of proposed bills would offer free community college to eligible Washington students The Spokesman-Review The Spokesman-Review Jan 27, 2024 Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA)...
 OLYMPIA – Per capita, Washington ranks among the lowest states in the country in terms of the number of residents who apply for federal student aid to fund a postsecondary education.
 And community colleges are struggling to meet students’ needs nationwide.
 In the United States today, 16% of students who enroll in community college complete a degree in three years and only 28% complete one within eight years, according to state Rep.
 Gerry Pollet, D-Seattle.
 “We are failing,” Pollet testified at a legislative committee hearing Tuesday.
-“We are in the bottom half of the nation in terms of postsecondary enrollments, despite having the most generous college grant, financial aid in the nation.”
-Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA).
+“We are in the bottom half of the nation in terms of postsecondary enrollments, despite having the most generous college grant, financial aid in the nation.” Pollet and a group of his fellow lawmakers hope to turn those bleak numbers around with a pair of bills aiming to increase the number of Washingtonians who submit a Free Application for Federal Student Aid (FAFSA) or a Washington Application for State Financial Aid (WAFSA) .
 In doing so, education experts say applicants will realize just how much state and federal cash they qualify for to help them pay for college or technical school.
 “Students don’t understand that, indeed, postsecondary education is for them and is going to be available,” Pollet said.
 Public hearings were held for the pair of bills in the state House Postsecondary Education & Workforce Committee.
@@ -29,7 +27,7 @@ In Washington, officials say there’s a funding gap for prospective college and
 Current government programs provide a lot of support for students below 65% of the median family income, and families above 150% generally have enough income to help their kids go to college, Berquist said.
 “There’s almost a canyon of affordability that is created,” he said.
 Second in the pair of proposed bills is the Washington Promise Program.
-The bill’s prime sponsor is Pollet, who said he’s been trying to start a free community and technical college program since 2016.
+The bill ’s prime sponsor is Pollet, who said he’s been trying to start a free community and technical college program since 2016.
 The promise program would offer 90 credits – or two years’ worth – of tuition-free community or technical college for qualifying Washingtonians beginning in the 2026-2027 academic year.
 Students would be required to earn the credits within six academic years after starting the program.
 Eligibility requirements for the proposed legislation look similar to those of the proposed 13 Free Guarantee.
@@ -48,4 +46,5 @@ This is why the 13 Free Guarantee would begin this year, and the promise program
 Angelita Cervantes is a student at Yakima Valley College.
 She testified at the committee hearing, saying she’s seen firsthand how invaluable a year of free higher education would be for her neighbors in Yakima County.
 “With my 13 years of experience working in a warehouse and in the fields, I have met a lot of students who just wanted to work for a year to save money for school but never made it,” Cervantes said.
-“They got caught up in other responsibilities, leaving their aspirations and dreams of attending school unfulfilled.”
+“They got caught up in other responsibilities, leaving their aspirations and dreams of attending school unfulfilled.” Previous Next Join Our Email List Submit Thanks for submitting!
+7750 17th Ave NE Seattle, WA 98115 info@gerrypollet.com Paid for by Gerry Pollet for State Representative bottom of page

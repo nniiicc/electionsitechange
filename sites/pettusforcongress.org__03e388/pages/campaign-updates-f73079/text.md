@@ -1,17 +1,7 @@
-08/05/2026 – C.
-Mia Pettus Official Campaign Launch
-Paid for by Pettus for Congress
-08/06/2026 – https://palsreport.substack.com/p/constitutional-and-privacy-constraints
-Paid for by Pettus for Congress
-08/06/2026 – https://palsreport.substack.com/p/the-surveillance-state-and-the-constitution
-Paid for by Pettus for Congress
-08/07/2026 – PALS Report (Protecting American Liberty Against Surveillance) https://palsreport.substack.com
-Paid for by Pettus for Congress
-08/19/2026 – CANDIDATE STATEMENT
-C.
-Mia Pettus Condemns Anti-Muslim Demonstration and Violence in Dearborn, Michiganmonstration and Violence in Dearborn, Michigan
-August 19, 2026
-I condemn the anti-Muslim demonstration organized by Jake Lang in Dearborn, Michigan, on August 18, 2026, and I condemn the violence that occurred during the ensuing confrontation.
+Skip to content Pettus for Congress Home About Mia Priorities Campaign Updates, Events and News Volunteer Donations Pettus for Congress About Mia Campaign Updates, Events and News Donations Home Priorities Privacy Policy Volunteer Donate Donate Campaign Updates, Events and News 08/05/2026 – C.
+Mia Pettus Official Campaign Launch Press Release Website copy Download Paid for by Pettus for Congress 08/06/2026 – https://palsreport.substack.com/p/constitutional-and-privacy-constraints Constitutional and Privacy Constraints on Law Enforcement Drone Surveillance Under the Fourth Amendment (U.S. and Michigan Focus) Download Paid for by Pettus for Congress 08/06/2026 – https://palsreport.substack.com/p/the-surveillance-state-and-the-constitution FISA 101: Understanding Section 702 and U.S.
+Surveillance Powers Download Paid for by Pettus for Congress 08/07/2026 – PALS Report (Protecting American Liberty Against Surveillance) https://palsreport.substack.com Paid for by Pettus for Congress 08/19/2026 – CANDIDATE STATEMENT C.
+Mia Pettus Condemns Anti-Muslim Demonstration and Violence in Dearborn, Michiganmonstration and Violence in Dearborn, Michigan August 19, 2026 I condemn the anti-Muslim demonstration organized by Jake Lang in Dearborn, Michigan, on August 18, 2026 , and I condemn the violence that occurred during the ensuing confrontation.
 There is a fundamental constitutional principle that should not be complicated: the First Amendment protects the free exercise of religion and the freedom of speech for every American.
 Those protections do not belong exclusively to Christians, Muslims, Jews, or any other faith.
 They belong to all Americans.
@@ -30,19 +20,14 @@ Religious liberty is not conditional upon whether we approve of someone’s reli
 It is a constitutional right.
 And the Constitution protects the rights of all Americans.
 C.
-Mia Pettus
-Candidate for Congress
-Michigan’s 8th Congressional District
-Restore Constitutional Government.
+Mia Pettus Candidate for Congress Michigan’s 8th Congressional District Restore Constitutional Government.
 Restore Trust.
 Restore Liberty.
 Paid for by Pettus for Congress.
 I’m C.
-Mia Pettus and I approve this message
-08/20/2026 – Black Democratic Women Shape Elections – Do they Shape Outcomes?
-Paid for by Pettus for Congress
-08/23/2026 – Independent Political Report – Article
-09/22/2026 -PALS Report (Protecting American Liberty Against Surveillance) https://bsky.app/profile/palsreport.bsky.social
-09/24/2026 – CANDIDATE STATEMENT
-09/25/2026 – https://palsreport.substack.com/p/black-christian-conservative-women-a3f
-PAID FOR BY PETTUS FOR CONGRESS
+Mia Pettus and I approve this message 08/20/2026 – Black Democratic Women Shape Elections – Do they Shape Outcomes?
+Black Democratic Women Shape Elections – But Do They Shape Outcomes?
+Download Paid for by Pettus for Congress 08/23/2026 – Independent Political Report – Article Libertarian C.
+Mia Pettus Launches Campaign for Michigan’s 8th Congressional District – Independent Political Report Download 09/22/2026 -PALS Report (Protecting American Liberty Against Surveillance) https://bsky.app/profile/palsreport.bsky.social bluesky Download 09/24/2026 – CANDIDATE STATEMENT IMMEDIATE PRESS RELEASE PDF 9 24 26 Download 09/25/2026 – https://palsreport.substack.com/p/black-christian-conservative-women-a3f BLACK CHRISTIAN PDF CONSERVATIVE WOMEN: POLITICAL BACKLASH, MEDIA PRESSURE, AND SOCIAL PUNISHMENT Download PAID FOR BY PETTUS FOR CONGRESS Contact: info@pettusforcongress.org 810-901-0898 Campaign Address: Pettus For Congress 2461 W Hill Rd Unit #3003 Flint, MI 48507 (810) 901-0898 info@pettusforcongress.org Privacy Policy © # Pettus For Congress.
+All Rights Reserved.
+Paid for by Pettus for Congress Campaign Headquarters Pettus For Congress 2461 W Hill Rd Unit #3003 Flint, MI 48507 Scroll to Top

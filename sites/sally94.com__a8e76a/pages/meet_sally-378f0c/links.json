@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61575408201021",
-"https://instagram.com/sallyhebert94",
-"https://sally94.com/",
-"https://sally94.com/contact",
-"https://sally94.com/contribute",
-"https://sally94.com/district-map",
-"https://sally94.com/home",
-"https://sally94.com/issues",
-"https://sally94.com/meet_sally",
-"https://sally94.com/news",
-"https://sally94.com/photos",
-"https://sally94.com/privacy-policy",
-"https://sally94.com/volunteer",
-"https://sally94.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://sally94.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://sally94.com/contribute"
+},
+{
+"text": "District Map",
+"href": "https://sally94.com/district-map"
+},
+{
+"text": "Home",
+"href": "https://sally94.com/home"
+},
+{
+"text": "Issues",
+"href": "https://sally94.com/issues"
+},
+{
+"text": "News",
+"href": "https://sally94.com/news"
+},
+{
+"text": "Photos",
+"href": "https://sally94.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sally94.com/privacy-policy"
+},
+{
+"text": "Sally!",
+"href": "https://sally94.com/meet_sally"
+},
+{
+"text": "Volunteer",
+"href": "https://sally94.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://sally94.com/yard-sign"
+},
+{
+"text": "[image: Sally Hebert]",
+"href": "https://sally94.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575408201021"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sallyhebert94/"
+}
 ]

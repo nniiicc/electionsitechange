@@ -1,8 +1,5 @@
-Repeal Senate Bill 54
-By Bob Smith
-Restore Transparency, Safety, and Support.
-SB 54 prohibits nearly all cooperation between local law enforcement and federal immigration authorities, with the unintended consequence that federal agents must cast a broad net rather than a criminal-targeted one. | Credit: Ingrid Bostrom
-The California Values Act, SB 54, often called the “Sanctuary Law,” was, historically, enacted with noble intentions by ensuring that undocumented immigrants could report crimes without fear of immigration reprisal.
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE Repeal Senate Bill 54 Independent.com By Bob Smith Restore Transparency, Safety, and Support.
+SB 54 prohibits nearly all cooperation between local law enforcement and federal immigration authorities, with the unintended consequence that federal agents must cast a broad net rather than a criminal-targeted one. | Credit: Ingrid Bostrom The California Values Act, SB 54, often called the “Sanctuary Law,” was, historically, enacted with noble intentions by ensuring that undocumented immigrants could report crimes without fear of immigration reprisal.
 Unfortunately, in actual practice, SB 54 has led to a complete lack of transparency and only protects criminals.
 SB 54 prohibits nearly all cooperation between local law enforcement and federal immigration authorities.
 While it may feel like a moral stand, the unintended consequences are such that the federal agents now need to cast a broad net rather than a criminal-targeted one.
@@ -38,5 +35,16 @@ The good news is that we can make a change by demanding that our State Senator, 
 We can then empower Santa Barbara County to form a formal task force, led by the Sheriff, DA, Public Defender, and community members, to ensure that essential services and transparency are provided.
 I have personally seen the Santa Barbara County Public Defender speak, and I have the utmost confidence in her ability to develop a process for providing proper legal representation on-site, working in communication with federal authorities.
 So, whether at the state level or county level, we need to craft a policy that offers up undocumented criminals and protects hard-working, law-abiding folks who have been here for decades.
-As a candidate for Congress, running against Salud Carbajal in California’s 24th Congressional District, I am committed to bipartisan solutions, solutions that don’t involve camera-worthy performative antics but instead understand that “a little less noise and a little more light” will provide our community with a thoughtful path forward.
+As a candidate for Congress, running against Salud Carbajal in California’s 24 th Congressional District, I am committed to bipartisan solutions, solutions that don’t involve camera-worthy performative antics but instead understand that “a little less noise and a little more light” will provide our community with a thoughtful path forward.
 Can we please stop binary rhetoric and begin the dialogue?
+Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

@@ -1,9 +1,12 @@
 {
  "description": "Stay updated with Mary Beth Walsh news and insights on political issues in New York Assembly.",
  "final_url": "https://marybeth4ny.com/news-%26-media",
- "paid_for_by": null,
+ "fingerprint": "ea8065d74ad32777b14d20afc003d816d5570958",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NEWS & MEDIA",
  "years_mentioned": [
-  "2020"
+  "2025",
+  "2026"
  ]
 }

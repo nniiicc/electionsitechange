@@ -1,19 +1,23 @@
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 A tale of two posters… I’m Ashley Bean Thornton, and I am running for the Texas House of Representatives, House District 56.
+If you like what I have to say, and you live in HD 56, I hope you will vote for me in November 2026.
+Meanwhile, I hope you will subscribe to my newsletter: https://ashleybeanthornton.com/stay-in-the-loop/.
+Thank you!
+Let’s build the Texas we want to live in!
 A TALE OF TWO POSTERS...
-This post originally appeared on Dead Dillo.
+This post originally appeared on Dead Dillo .
 Senate Bill 10 and House Bill 2696 are identical bills that have been filed in the two houses of the Texas Legislature.
 If passed, they would require a poster of the 10 Commandments to be displayed in every public school classroom in Texas.
-Here is the version of the 10 Commandments that would be required:
-I AM the Lord thy God.
-- Thou shalt have no other gods before me.
-- Thou shalt not take the Name of the Lord thy God in vain.
-- Remember the Sabbath day, to keep it holy.
-- Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.
-- Thou shalt not kill.
-- Thou shalt not commit adultery.
-- Thou shalt not steal.
-- Thou shalt not bear false witness against thy neighbor.
-- Thou shalt not covet thy neighbor’s house.
-- Thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor’s.
+Here is the version of the 10 Commandments that would be required: I AM the Lord thy God.
+Thou shalt have no other gods before me.
+Thou shalt not take the Name of the Lord thy God in vain.
+Remember the Sabbath day, to keep it holy.
+Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.
+Thou shalt not kill.
+Thou shalt not commit adultery.
+Thou shalt not steal.
+Thou shalt not bear false witness against thy neighbor.
+Thou shalt not covet thy neighbor’s house.
+Thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor’s.
 SB 10 has already passed in the Senate where our state senator, Brian Birdwell, voted for it.
 In the house both of our McLennan County representatives, Pat Curry (District 56) and Angelia Orr (District 13), have signed on as coauthors of HB 2696, signaling their support.
 I think these bills infringe on religious freedom.
@@ -46,7 +50,7 @@ Does my “yes” really mean anything if I am not free to say “no?” I don�
 That is why religious liberty is so precious and important to me.
 I certainly don’t think I understand how God intends to weave together all the incredible variety of religious thought into a pattern that makes sense.
 All I know is that it is my job to try to love people the best I can, and I don’t feel like infringing on someone else’s religious liberty is the best way to do that.
-A few weeks ago I read about a controversy at a school in Idaho.
+A few weeks ago I read about a controversy at a school in Idaho .
 A sixth-grade history teacher had a poster on the wall that said, “Everyone is welcome here!” The graphics on the poster were raised hands of every skin tone with a heart in the palm of each hand.
 She was asked to take it down because the district had a rule that classroom decorations had to be “content-neutral,” and they felt this poster violated that rule.
 It made national news when she decided not to take it down.
@@ -64,3 +68,4 @@ I think these bills to require posters of the 10 Commandments are misguided, wro
 I realize these posters will cost next to nothing, so it is easy for our legislators to support them.
 I wish, instead, that they would do the hard work of funding across the board, permanent raises for teachers and increasing the basic allotment to keep up with inflation.
 I think that would be helpful.
+Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

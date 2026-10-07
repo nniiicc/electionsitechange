@@ -1,3 +1,5 @@
-| Saco Bay News reported that the Maine Senate advanced Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt) in a key procedural vote.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Maine Senate Advances Sen.
+Bailey Bill to Strengthen Maine's Medical Debt Law 6/13/2026 0 Comments Saco Bay News reported that the Maine Senate advanced Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt) in a key procedural vote.
 The bill, which would bar medical debt collectors from garnishing wages and placing liens on primary residences, cleared an important hurdle on its path to becoming law.
-Senator Bailey expressed optimism that the measure would deliver meaningful relief to Mainers burdened by healthcare costs. | Blog Latest News Archives Categories |
+Senator Bailey expressed optimism that the measure would deliver meaningful relief to Mainers burdened by healthcare costs. read more 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

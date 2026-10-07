@@ -1,37 +1,234 @@
 [
-"https://facebook.com/GoodmanCampaign",
-"https://rogergoodman.org/",
-"https://rogergoodman.org/440-2",
-"https://rogergoodman.org/about-roger",
-"https://rogergoodman.org/add-me-to-the-mailing-list",
-"https://rogergoodman.org/aerospace-machinists-751",
-"https://rogergoodman.org/afteachers",
-"https://rogergoodman.org/alliance-for-gun-responsibility",
-"https://rogergoodman.org/awards",
-"https://rogergoodman.org/call-to-action-police-reform-and-racial-justice",
-"https://rogergoodman.org/childrens-campaign-fund",
-"https://rogergoodman.org/contact2",
-"https://rogergoodman.org/endorse-roger",
-"https://rogergoodman.org/endorsements",
-"https://rogergoodman.org/equal-rights-washington-erw",
-"https://rogergoodman.org/fop",
-"https://rogergoodman.org/gallery",
-"https://rogergoodman.org/granniesnotguns",
-"https://rogergoodman.org/humane-voters-of-washington",
-"https://rogergoodman.org/legislation-2",
-"https://rogergoodman.org/leoff",
-"https://rogergoodman.org/national-association-of-social-workers",
-"https://rogergoodman.org/new-media",
-"https://rogergoodman.org/planned-parenthood-votes-northwest-and-hawaii",
-"https://rogergoodman.org/pnrcc",
-"https://rogergoodman.org/ptwa",
-"https://rogergoodman.org/sierra-club",
-"https://rogergoodman.org/the-national-association-of-social-workers-wa-chapter",
-"https://rogergoodman.org/volunteer",
-"https://rogergoodman.org/washington-conservation-voters",
-"https://rogergoodman.org/washington-education-association",
-"https://rogergoodman.org/washington-state-patrol-troopers-association-wspta",
-"https://rogergoodman.org/wsna",
-"https://seattletimes.com/opinion/editorials/the-times-recommends-rep-roger-goodman-for-legislative-district-45-position-1",
-"https://secure.actblue.com/donate/friends-of-roger-goodman-1"
+{
+"text": "Aerospace Machinists 751",
+"href": "https://www.rogergoodman.org/aerospace-machinists-751/"
+},
+{
+"text": "Alliance For Gun Responsibility",
+"href": "https://www.rogergoodman.org/alliance-for-gun-responsibility/"
+},
+{
+"text": "American Federation of Teachers",
+"href": "https://www.rogergoodman.org/afteachers/"
+},
+{
+"text": "Awards",
+"href": "https://www.rogergoodman.org/awards/"
+},
+{
+"text": "Children’s Campaign Fund",
+"href": "https://www.rogergoodman.org/childrens-campaign-fund/"
+},
+{
+"text": "Contact",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Contact Roger",
+"href": "https://www.rogergoodman.org/contact2/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-roger-goodman-1"
+},
+{
+"text": "Endorse Roger",
+"href": "https://www.rogergoodman.org/endorse-roger/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rogergoodman.org/endorsements/"
+},
+{
+"text": "Equal Rights Washington (ERW)",
+"href": "https://www.rogergoodman.org/equal-rights-washington-erw/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/GoodmanCampaign/"
+},
+{
+"text": "Fraternal Order of Police (FOP)",
+"href": "https://www.rogergoodman.org/fop/"
+},
+{
+"text": "Grandmothers Against Gun Violence",
+"href": "https://www.rogergoodman.org/granniesnotguns/"
+},
+{
+"text": "Home",
+"href": "https://www.rogergoodman.org/"
+},
+{
+"text": "Humane Voters of Washington (HVW)",
+"href": "https://www.rogergoodman.org/humane-voters-of-washington/"
+},
+{
+"text": "Justice Reform",
+"href": "https://www.rogergoodman.org/call-to-action-police-reform-and-racial-justice/"
+},
+{
+"text": "Laborers’ Local 440",
+"href": "https://www.rogergoodman.org/440-2/"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://www.rogergoodman.org/legislation-2/"
+},
+{
+"text": "Mailing List",
+"href": "https://www.rogergoodman.org/add-me-to-the-mailing-list/"
+},
+{
+"text": "Media",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "Meet Roger",
+"href": "https://www.rogergoodman.org/about-roger/"
+},
+{
+"text": "National Association of Social Workers",
+"href": "https://www.rogergoodman.org/national-association-of-social-workers/"
+},
+{
+"text": "News",
+"href": "https://www.rogergoodman.org/new-media/"
+},
+{
+"text": "PNRCC",
+"href": "https://www.rogergoodman.org/pnrcc/"
+},
+{
+"text": "PTWA",
+"href": "https://www.rogergoodman.org/ptwa/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.rogergoodman.org/gallery/"
+},
+{
+"text": "Planned Parenthood Votes Northwest and Hawai’i",
+"href": "https://www.rogergoodman.org/planned-parenthood-votes-northwest-and-hawaii/"
+},
+{
+"text": "Retired Law Enforcement Officers and Fire Fighters Coalition (LEOFF)",
+"href": "https://www.rogergoodman.org/leoff/"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.rogergoodman.org/sierra-club/"
+},
+{
+"text": "The National Association of Social Workers WA Chapter (NASW)",
+"href": "https://www.rogergoodman.org/the-national-association-of-social-workers-wa-chapter/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rogergoodman.org/volunteer/"
+},
+{
+"text": "WSNA",
+"href": "https://www.rogergoodman.org/wsna/"
+},
+{
+"text": "Washington Conservation Voters (WCV)",
+"href": "https://www.rogergoodman.org/washington-conservation-voters/"
+},
+{
+"text": "Washington Education Association",
+"href": "https://www.rogergoodman.org/washington-education-association/"
+},
+{
+"text": "Washington State Patrol Troopers Association (WSPTA)",
+"href": "https://www.rogergoodman.org/washington-state-patrol-troopers-association-wspta/"
+},
+{
+"text": "With police reform likely second only to budget issues at the top of legislators’ agendas this winter, Goodman’s experience as chair of the House Public Safety Committee will be an asset in sifting through proposals intended to reduce racial disparities in policing.-- The Seattle Times",
+"href": "https://www.seattletimes.com/opinion/editorials/the-times-recommends-rep-roger-goodman-for-legislative-district-45-position-1/"
+},
+{
+"text": "[image: cropped-SignLogo.png]",
+"href": "https://www.rogergoodman.org"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/440-2/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/aerospace-machinists-751/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/afteachers/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/alliance-for-gun-responsibility/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/childrens-campaign-fund/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/equal-rights-washington-erw/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/fop/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/granniesnotguns/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/humane-voters-of-washington/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/leoff/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/national-association-of-social-workers/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/planned-parenthood-votes-northwest-and-hawaii/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/pnrcc/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/ptwa/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/sierra-club/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/the-national-association-of-social-workers-wa-chapter/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/washington-conservation-voters/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/washington-education-association/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/washington-state-patrol-troopers-association-wspta/"
+},
+{
+"text": "[image]",
+"href": "https://www.rogergoodman.org/wsna/"
+}
 ]

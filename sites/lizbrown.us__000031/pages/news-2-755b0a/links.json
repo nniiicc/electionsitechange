@@ -1,13 +1,62 @@
 [
-"http://lizbrown.us/",
-"http://lizbrown.us/about",
-"http://lizbrown.us/cart",
-"http://lizbrown.us/news-2",
-"http://lizbrown.us/news-2/blog-post-title-two-t5my5-k4xmd-g9sg6",
-"http://lizbrown.us/news-2/keepfortwayneaffordable",
-"http://lizbrown.us/privacy-policy",
-"http://lizbrown.us/terms-and-conditions",
-"http://x.com/lizbrownus",
-"https://facebook.com/LizBrownUS",
-"https://secure.winred.com/friends-of-liz-brown/donate-hd-copy-80e94ec53aa9e70a?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "0",
+"href": "http://www.lizbrown.us/cart"
+},
+{
+"text": "About",
+"href": "http://www.lizbrown.us/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-liz-brown/donate-hd-copy-80e94ec53aa9e70a?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Liz Defends Women's Sports in the Journal Gazette",
+"href": "http://www.lizbrown.us/news-2/blog-post-title-two-t5my5-k4xmd-g9sg6"
+},
+{
+"text": "News",
+"href": "http://www.lizbrown.us/news-2"
+},
+{
+"text": "Privacy Policy",
+"href": "http://www.lizbrown.us/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "http://www.lizbrown.us/news-2/blog-post-title-two-t5my5-k4xmd-g9sg6"
+},
+{
+"text": "Read More",
+"href": "http://www.lizbrown.us/news-2/keepfortwayneaffordable"
+},
+{
+"text": "Terms of Conditions",
+"href": "http://www.lizbrown.us/terms-and-conditions"
+},
+{
+"text": "Why Was Fort Wayne Ranked as America’s Most Affordable Hometown?",
+"href": "http://www.lizbrown.us/news-2/keepfortwayneaffordable"
+},
+{
+"text": "[image: Liz Brown | Indiana Senate District 15]",
+"href": "http://www.lizbrown.us/"
+},
+{
+"text": "[image: Liz Defends Women's Sports in the Journal Gazette]",
+"href": "http://www.lizbrown.us/news-2/blog-post-title-two-t5my5-k4xmd-g9sg6"
+},
+{
+"text": "[image: Why Was Fort Wayne Ranked as America’s Most Affordable Hometown?]",
+"href": "http://www.lizbrown.us/news-2/keepfortwayneaffordable"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/lizbrownus"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LizBrownUS"
+}
 ]

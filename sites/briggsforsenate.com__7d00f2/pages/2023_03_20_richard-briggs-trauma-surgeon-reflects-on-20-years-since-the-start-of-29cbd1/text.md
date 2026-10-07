@@ -1,6 +1,4 @@
-Richard Briggs, trauma surgeon, reflects on 20 years since the start of the Iraq War
-March 20, 2023
-Twenty years after the start of the Iraq War, Colonel Richard Briggs’ extraordinary work as a trauma surgeon stands as a powerful testament to dedication under the most difficult circumstances.
+Home About Issues Endorsements News Volunteer Donate Richard Briggs, trauma surgeon, reflects on 20 years since the start of the Iraq War March 20, 2023 Twenty years after the start of the Iraq War, Colonel Richard Briggs’ extraordinary work as a trauma surgeon stands as a powerful testament to dedication under the most difficult circumstances.
 Serving on the front lines, Dr.
 Briggs treated thousands of wounded soldiers and civilians, bringing world-class surgical skill to a battlefield environment.
 One of his most remarkable cases involved journalist Bob Woodruff, who in 2006 suffered devastating injuries from a roadside bomb, including severe head trauma and skull damage.
@@ -14,4 +12,4 @@ Briggs later reflected warmly on a touching video Lee Woodruff shared of her hus
 Dr.
 Briggs went on to partner with the Woodruff family, speaking at conventions across the country to honor veterans and raise awareness of their sacrifices.
 His service, both in the operating room and beyond, reflects the very best of military medicine and compassionate care.
-Credit: WBIR
+Credit: WBIR Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

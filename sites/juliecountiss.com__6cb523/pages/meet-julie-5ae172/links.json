@@ -1,7 +1,26 @@
 [
-"https://donorbox.org/julie-countiss",
-"https://facebook.com/JusticeJulieCountiss",
-"https://juliecountiss.com/",
-"https://juliecountiss.com/endorsement",
-"https://juliecountiss.com/meet-julie"
+{
+"text": "DONATE",
+"href": "https://donorbox.org/julie-countiss"
+},
+{
+"text": "DONATE NOW",
+"href": "https://donorbox.org/julie-countiss"
+},
+{
+"text": "Endorsement",
+"href": "https://juliecountiss.com/endorsement/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/JusticeJulieCountiss"
+},
+{
+"text": "Meet Julie",
+"href": "https://juliecountiss.com/meet-julie/"
+},
+{
+"text": "[image]",
+"href": "https://juliecountiss.com/"
+}
 ]

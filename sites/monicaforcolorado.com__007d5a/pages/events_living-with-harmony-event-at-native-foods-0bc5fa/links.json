@@ -1,23 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Living+with+Harmony+event+at+Native+Foods&dates=20260907T230000Z%2F20260908T010000Z&location=680+South+Colorado+Boulevard%2C+Denver%2C+Colorado%2C+80246%2C+United+States",
-"http://maps.google.com/?q=680+South+Colorado+Boulevard+Denver%2C+Colorado%2C+80246+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://google.com/url?q=https%3A%2F%2Fnativefoods.com%2Fglendale&sa=D&ust=1788362563252058&usg=AOvVaw2oXs8gtfKUwNi63gdwk34z",
-"https://google.com/url?q=https%3A%2F%2Fwww.bleatingheartssanctuary.org%2F&sa=D&ust=1788362563252058&usg=AOvVaw0BHEwlgH0Zu7gd01zZfm4E",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4",
-"https://monicaforcolorado.com/events/living-with-harmony-event-at-native-foods?format=ical",
-"https://monicaforcolorado.com/events/university-hills-neighborhood-association",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=680+south+colorado+boulevard+denver%2C+colorado%2C+80246+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Bleating Hearts,",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.bleatingheartssanctuary.org%2F&sa=D&ust=1788362563252058&usg=AOvVaw0BHEwlgH0Zu7gd01zZfm4E"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Living+with+Harmony+event+at+Native+Foods&dates=20260907T230000Z%2F20260908T010000Z&location=680+South+Colorado+Boulevard%2C+Denver%2C+Colorado%2C+80246%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/living-with-harmony-event-at-native-foods?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Native Foods",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fnativefoods.com%2Fglendale&sa=D&ust=1788362563252058&usg=AOvVaw2oXs8gtfKUwNi63gdwk34z"
+},
+{
+"text": "Next Next September 9 University Hills Neighborhood Association",
+"href": "https://www.monicaforcolorado.com/events/university-hills-neighborhood-association"
+},
+{
+"text": "Previous Previous September 3 HD9 Coffee Hour",
+"href": "https://www.monicaforcolorado.com/events/event-one-mcyfj-db49n-kjxft-edf7z-z6jrh-tlcnb-r3bhw-gfys4"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+}
 ]

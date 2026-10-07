@@ -1,5 +1,6 @@
-November 2: Meet And Greet at Bistro Baffi - 1st Ave S, Suite 101, Normandy Park WA 98148
-Guest Speaker: Doug Basler and others
+November 2: Meet And Greet at Bistro Baffi - 1st Ave S, Suite 101, Normandy Park WA 98148 Guest Speaker: Doug Basler and others Skip to content X Home Issues Affordability • Economy • Employment Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education & Local Control Media Volunteer Contact Us 2072 Pinnickinick Street, WA 98370 info@website.com Home Issues Affordability • Economy • Employment Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education & Local Control Media Volunteer Contact Us DONATE MEET NIRAV SHETH Unity.
+Determination.
+Safety.
 I firmly believe that our fight should not be against each other but for each other.
 I was born and raised in India and came to the US in 2008 as a student of computer and electrical engineering where English became my fourth language.
 I joined the Marines and proudly served four years as an aircraft mechanic and military police officer.
@@ -7,16 +8,13 @@ I then continued to serve the people as a police officer here in Lakewood, WA in
 I found my home here in the United States and worked my way from being homeless into becoming a successful business owner in Pierce County.
 My passion has been to help others come out of similar poverty situations and improve the lives of all those around me.
 My goal running for office is to unite us by enabling each of us to achieve our dreams by creating safe communities, strong infrastructure, and a bright future for our next generation.
-- Marine Veteran
-- Former Police Officer
-Join The Fight to Unite
-Supporting our emergency services and making crime illegal again in Washington State is crucial.
+Marine Veteran Former Police Officer Contribute Today Creating Unity One Donation At a Time $# $# $# $# Other Join The Fight to Unite Issues That Matter To You Public Safety Supporting our emergency services and making crime illegal again in Washington State is crucial.
 By providing adequate funding and better equipment, we can ensure the safety of our communities and enable law enforcement and fire departments to respond effectively to emergencies.
-Collaborating with parents, educators, and local communities is key to creating an education system that prioritizes critical thinking skills and independent thought.
+Education Collaborating with parents, educators, and local communities is key to creating an education system that prioritizes critical thinking skills and independent thought.
 Together, we can ensure a brighter future for our students.
-Infrastructure is a critical foundation for a thriving economy.
+Strong Infrastructure Infrastructure is a critical foundation for a thriving economy.
 By investing in stronger and safer transportation systems, ensuring the resilience of our electric grid, and providing support for small businesses, we can create a conducive environment for economic growth.
-As an Immigrant, I know that legal immigration not only ensures a successful integration into our great nation but also upholds the values of fairness, opportunity, and diversity that make the U.S. a beacon of hope for those seeking a better life.
-Facebook
-Twitter
-Instagram
+Immigration As an Immigrant, I know that legal immigration not only ensures a successful integration into our great nation but also upholds the values of fairness, opportunity, and diversity that make the U.S. a beacon of hope for those seeking a better life.
+Sign Up to Volunteer Unite with other volunteers to help Sheth bring his message to all of the 7th District.
+SIGN UP TODAY Facebook Instagram View this post on Instagram Embed Instagram Post Twitter Facebook Instagram Gallery Neither the military information nor photographs imply endorsement by the Department of Defense or any branch of the United States military.
+Contact Us Envelope Facebook-f X-twitter Linkedin Instagram Reach Us Please send us your support & donation: 17837 1st Ave PMB # 291, Normandy Park WA 98148 campaign@shethforcongress.com Call (206) 816 - 2977 Issues Immigration Public Safety Growth & Support For Small Businesses Strong Infrastructure Education Resources About Nirav Media Events Volunteer Contact Us Paid for by the Nirav Sheth for Congress | Terms & Conditions | Design and Developed by Scratch DONATE NOW

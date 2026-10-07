@@ -1,36 +1,158 @@
 [
-"http://codes.ohio.gov/orc/3501.01",
-"http://codes.ohio.gov/orc/3501.32",
-"http://codes.ohio.gov/orc/3503.19",
-"http://codes.ohio.gov/orc/3509.03",
-"http://codes.ohio.gov/orc/3509.08",
-"http://codes.ohio.gov/orc/3511.02",
-"http://codes.ohio.gov/orc/3513.05",
-"http://codes.ohio.gov/orc/3513.121",
-"http://facebook.com/garyclickforohio",
-"http://instagram.com/gary_click",
-"http://twitter.com/clickforohio",
-"https://campaignpartner.com/",
-"https://garyclick.com/",
-"https://garyclick.com/about_gary",
-"https://garyclick.com/contact",
-"https://garyclick.com/events",
-"https://garyclick.com/home",
-"https://garyclick.com/issues",
-"https://garyclick.com/make-endorsement",
-"https://garyclick.com/news",
-"https://garyclick.com/photos",
-"https://garyclick.com/privacy-policy",
-"https://garyclick.com/volunteer",
-"https://garyclick.com/vote",
-"https://nbc4i.com/news/politics/ohio-senate-expected-to-vote-on-overriding-gov-dewines-veto-of-trans-athlete-healthcare-bill",
-"https://norwalkreflector.com/news/506105/local-officials-oppose-landfill-expansion",
-"https://ohiohouse.gov/members/gary-click/news/click-releases-statement-following-dewine-executive-order-118161",
-"https://ohiohouse.gov/members/gary-click/news/click-responds-to-aclu-lawsuit-news-118299",
-"https://ohiohouse.gov/members/gary-click/news/house-overrides-governor-veto-of-house-bill-68-118121",
-"https://olvr.ohiosos.gov/",
-"https://secure.anedot.com/clickforohio/donate",
-"https://sos.state.oh.us/publications/2020-elections-calendar",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx",
-"https://youtube.com/channel/UCOVYLke2x5KjFXaT0SwsNVw"
+{
+"text": ".08(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3509.08"
+},
+{
+"text": ".32(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3501.32"
+},
+{
+"text": "3511.02(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3511.02"
+},
+{
+"text": "About Gary",
+"href": "https://www.garyclick.com/about_gary"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/clickforohio/donate"
+},
+{
+"text": "Click Releases Statement Following DeWine Executive Order",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-releases-statement-following-dewine-executive-order-118161"
+},
+{
+"text": "Click Responds to ACLU HB68 Lawsuit News",
+"href": "https://ohiohouse.gov/members/gary-click/news/click-responds-to-aclu-lawsuit-news-118299"
+},
+{
+"text": "Click here to Register Online",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.garyclick.com/contact"
+},
+{
+"text": "ENDORSE GARY",
+"href": "https://www.garyclick.com/make-endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.garyclick.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/home"
+},
+{
+"text": "House Overrides Governor Veto of House Bill 68",
+"href": "https://ohiohouse.gov/members/gary-click/news/house-overrides-governor-veto-of-house-bill-68-118121"
+},
+{
+"text": "Local officials oppose landfill expansion",
+"href": "https://norwalkreflector.com/news/506105/local-officials-oppose-landfill-expansion/"
+},
+{
+"text": "News",
+"href": "https://www.garyclick.com/news"
+},
+{
+"text": "Ohio Senate overrides Gov. DeWine’s veto of trans athlete, healthcare bill",
+"href": "https://www.nbc4i.com/news/politics/ohio-senate-expected-to-vote-on-overriding-gov-dewines-veto-of-trans-athlete-healthcare-bill/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.garyclick.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.garyclick.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "R.C. 3501.01(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3501.01"
+},
+{
+"text": "R.C. 3503.19(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3503.19"
+},
+{
+"text": "R.C. 3509.03(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3509.03"
+},
+{
+"text": "R.C. 3513.05(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3513.05"
+},
+{
+"text": "R.C. 3513.121(opens in a new window)",
+"href": "http://codes.ohio.gov/orc/3513.121"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.garyclick.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.garyclick.com/vote"
+},
+{
+"text": "Voter Registration Deadline: February 18",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "[image]",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/garyclickforohio"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/gary_click"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/clickforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOVYLke2x5KjFXaT0SwsNVw/"
+},
+{
+"text": "here",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "here",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "here",
+"href": "https://www.sos.state.oh.us/publications/2020-elections-calendar/"
+},
+{
+"text": "privacy policy",
+"href": "https://www.garyclick.com/privacy-policy"
+},
+{
+"text": "register to vote online",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "registration status.",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+}
 ]

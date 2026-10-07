@@ -1,6 +1,22 @@
 [
-"https://loveridgeformontana.com/",
-"https://loveridgeformontana.com/blank",
-"https://loveridgeformontana.com/blank-1",
-"https://secure.anedot.com/charlie-loveridge/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/charlie-loveridge/donate"
+},
+{
+"text": "Home",
+"href": "https://www.loveridgeformontana.com"
+},
+{
+"text": "Reach Out",
+"href": "https://www.loveridgeformontana.com/blank-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.loveridgeformontana.com/blank"
+},
+{
+"text": "Volunteer Now",
+"href": "mailto:charlie4billings@gmail.com?subject=I+Want+to+Volunteer%21"
+}
 ]

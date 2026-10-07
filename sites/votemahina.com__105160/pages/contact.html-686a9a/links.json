@@ -1,13 +1,50 @@
 [
-"https://facebook.com/votemahina",
-"https://votemahina.com/",
-"https://votemahina.com/_blank",
-"https://votemahina.com/about-me.html",
-"https://votemahina.com/cdn-cgi/l/email-protection",
-"https://votemahina.com/contact.html",
-"https://votemahina.com/donate.html",
-"https://votemahina.com/experience.html",
-"https://votemahina.com/press.html",
-"https://votemahina.com/priority-issues.html",
-"https://votemahina.com/questionnaires.html"
+{
+"text": "About Me",
+"href": "https://www.votemahina.com/about-me.html"
+},
+{
+"text": "Contact",
+"href": "https://www.votemahina.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.votemahina.com/donate.html"
+},
+{
+"text": "Experience",
+"href": "https://www.votemahina.com/experience.html"
+},
+{
+"text": "Home",
+"href": "https://www.votemahina.com/"
+},
+{
+"text": "Press",
+"href": "https://www.votemahina.com/press.html"
+},
+{
+"text": "Priority Issues",
+"href": "https://www.votemahina.com/priority-issues.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.votemahina.com/questionnaires.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.votemahina.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: RE-ELECT MAHINA POEPOE DISTRICT 13 STATE HOUSE REP]",
+"href": "https://www.votemahina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemahina"
+}
 ]

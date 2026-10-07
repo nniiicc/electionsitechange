@@ -1,37 +1,158 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/grateful-to-sen-collins-for-making-alzheimers-research-a-priority",
-"https://susancollins.com/letter-to-the-editor/susan-collins-deserves-credit-not-criticism",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/maine-teen-ruby-whitmore-advocates-for-type-1-diabetes-funding-at-capitol-hill",
-"https://susancollins.com/news/page/20",
-"https://susancollins.com/news/page/21",
-"https://susancollins.com/news/presque-isle-five-others-to-receive-more-than-2-2-million-for-airport-improvements",
-"https://susancollins.com/news/sen-collins-advances-more-than-52-million-in-funding-for-university-of-maine-system",
-"https://susancollins.com/news/sen-collins-and-king-introducing-bill-to-reauthorize-kay-hagan-tick-act",
-"https://susancollins.com/news/senators-introduce-bipartisan-bill-to-extend-type-1-diabetes-research-program",
-"https://susancollins.com/news/trump-administration-agrees-to-release-some-education-funding-to-states",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500"
+},
+{
+"text": "1",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "20",
+"href": "https://susancollins.com/news/page/20/"
+},
+{
+"text": "21",
+"href": "https://susancollins.com/news/page/21/"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreJuly 14, 2025Grateful to Sen. Collins for making Alzheimer’s research a priorityLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/grateful-to-sen-collins-for-making-alzheimers-research-a-priority/"
+},
+{
+"text": "Read MoreJuly 14, 2025Senators Introduce Bipartisan Bill To Extend Type 1 Diabetes Research ProgramNews",
+"href": "https://susancollins.com/news/senators-introduce-bipartisan-bill-to-extend-type-1-diabetes-research-program/"
+},
+{
+"text": "Read MoreJuly 15, 2025Presque Isle & Five Others to Receive More Than $2.2 Million for Airport ImprovementsNews",
+"href": "https://susancollins.com/news/presque-isle-five-others-to-receive-more-than-2-2-million-for-airport-improvements/"
+},
+{
+"text": "Read MoreJuly 18, 2025Sen. Collins and King introducing bill to reauthorize Kay Hagan Tick ActNews",
+"href": "https://susancollins.com/news/sen-collins-and-king-introducing-bill-to-reauthorize-kay-hagan-tick-act/"
+},
+{
+"text": "Read MoreJuly 18, 2025Trump administration agrees to release some education funding to statesNews",
+"href": "https://susancollins.com/news/trump-administration-agrees-to-release-some-education-funding-to-states/"
+},
+{
+"text": "Read MoreJuly 21, 2025Susan Collins deserves credit, not criticismLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-deserves-credit-not-criticism/"
+},
+{
+"text": "Read MoreJuly 22, 2025Sen. Collins advances more than $52 million in funding for University of Maine SystemNews",
+"href": "https://susancollins.com/news/sen-collins-advances-more-than-52-million-in-funding-for-university-of-maine-system/"
+},
+{
+"text": "Read MoreJuly 23, 2025Senate advances military construction and veterans bill funding Maine initiativesNews",
+"href": "https://susancollins.com/news/senate-advances-military-construction-and-veterans-bill-funding-maine-initiatives/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "←",
+"href": "https://susancollins.com/news/page/21/"
+}
 ]

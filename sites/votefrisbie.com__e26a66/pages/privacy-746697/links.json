@@ -1,5 +1,26 @@
 [
-"https://facebook.com/votefrisbie",
-"https://votefrisbie.com/",
-"https://votefrisbie.com/privacy"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votefrisbie"
+},
+{
+"text": "Frisbie.",
+"href": "https://votefrisbie.com/"
+},
+{
+"text": "Home",
+"href": "https://votefrisbie.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votefrisbie.com/privacy"
+},
+{
+"text": "votefrisbie.com",
+"href": "https://votefrisbie.com"
+},
+{
+"text": "← Back to Home",
+"href": "https://votefrisbie.com/"
+}
 ]

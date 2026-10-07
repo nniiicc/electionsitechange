@@ -1,15 +1,62 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://pennyfornchouse.com/",
-"https://pennyfornchouse.com/contact-us",
-"https://pennyfornchouse.com/m/account",
-"https://pennyfornchouse.com/m/create-account",
-"https://pennyfornchouse.com/m/login",
-"https://pennyfornchouse.com/m/orders",
-"https://pennyfornchouse.com/privacy-policy",
-"https://pennyfornchouse.com/shop",
-"https://pennyfornchouse.com/shop?olsPage=cart",
-"https://pennyfornchouse.com/terms-and-conditions",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "Contact Us",
+"href": "https://pennyfornchouse.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://pennyfornchouse.com/m/create-account"
+},
+{
+"text": "Home",
+"href": "https://pennyfornchouse.com/"
+},
+{
+"text": "My Account",
+"href": "https://pennyfornchouse.com/m/account"
+},
+{
+"text": "Orders",
+"href": "https://pennyfornchouse.com/m/orders"
+},
+{
+"text": "Penny for NC HousePenny for NC HousePenny for NC HousePenny for NC House",
+"href": "https://pennyfornchouse.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pennyfornchouse.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Shop",
+"href": "https://pennyfornchouse.com/shop"
+},
+{
+"text": "Sign In",
+"href": "https://pennyfornchouse.com/m/account"
+},
+{
+"text": "Sign in",
+"href": "https://pennyfornchouse.com/m/login"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://pennyfornchouse.com/terms-and-conditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://pennyfornchouse.com/shop?olsPage=cart"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

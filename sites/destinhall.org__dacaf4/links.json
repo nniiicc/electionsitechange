@@ -1,10 +1,78 @@
 [
-"https://destinhall.org/",
-"https://destinhall.org/contact",
-"https://destinhall.org/meetdestin",
-"https://facebook.com/destinhallnc",
-"https://instagram.com/destinhallnc",
-"https://secure.winred.com/citizens-for-destin-hall/webdonate",
-"https://twitter.com/DestinHall",
-"https://x.com/DestinHall"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "$2,500",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "$5,000",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "$6,800",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "About Destin",
+"href": "https://www.destinhall.org/meetdestin"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "Home",
+"href": "https://www.destinhall.org/meetdestin"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.destinhall.org/contact"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.winred.com/citizens-for-destin-hall/webdonate"
+},
+{
+"text": "Read More",
+"href": "https://www.destinhall.org/meetdestin"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/destinhallnc"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/destinhallnc/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/destinhallnc/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/DestinHall"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/DestinHall"
+},
+{
+"text": "home",
+"href": "https://www.destinhall.org"
+},
+{
+"text": "meet destin",
+"href": "https://www.destinhall.org/meetdestin"
+}
 ]

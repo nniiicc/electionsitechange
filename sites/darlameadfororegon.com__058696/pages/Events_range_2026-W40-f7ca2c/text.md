@@ -1,9 +1,4 @@
-Events
-More events coming soon!
-27
-Sep
-Sunday, 10:00 AM – 11:00 AM
-Virtual Phone Banking Kickoff
-virtual
-Whether you're an experienced volunteer or new to phone banking, we'll help get you set up with VAN and everything you need to get started.
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Events More events coming soon!
+#ago This Week This Month ‹ Previous Sun Sep 27 2026 - Sun Oct 4 2026 Next › 27 Sep Sunday, 10:00 AM – 11:00 AM Virtual Phone Banking Kickoff virtual Whether you're an experienced volunteer or new to phone banking, we'll help get you set up with VAN and everything you need to get started.
 Together, we can make sure every voter hears directly from our campaign.
+More info › Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

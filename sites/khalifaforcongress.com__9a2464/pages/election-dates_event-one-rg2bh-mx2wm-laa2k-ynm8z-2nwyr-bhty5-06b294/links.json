@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=We+Are+The+People&dates=20260522T230000Z%2F20260523T000000Z&location=400+Magnolia+Street%2C+Orangeburg%2C+SC%2C+29115%2C+United+States",
-"http://maps.google.com/?q=400+Magnolia+Street+Orangeburg%2C+SC%2C+29115+United+States",
-"https://facebook.com/share/1CLvb9PTAE?mibextid=wwXIfr",
-"https://instagram.com/khalifaforcongress?igsh=MXByeWliN2YzMm5hdw%3D%3D",
-"https://khalifaforcongress.com/",
-"https://khalifaforcongress.com/about-2",
-"https://khalifaforcongress.com/about-2-1",
-"https://khalifaforcongress.com/campaign-merch",
-"https://khalifaforcongress.com/cart",
-"https://khalifaforcongress.com/contact",
-"https://khalifaforcongress.com/contact-1-1",
-"https://khalifaforcongress.com/election-dates",
-"https://khalifaforcongress.com/election-dates/acdp-monthly-meeting",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p",
-"https://khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5?format=ical",
-"https://khalifaforcongress.com/platform",
-"https://khalifaforcongress.com/privacy-policy",
-"https://khalifaforcongress.com/volunteer",
-"https://khalifaforcongress.com/what-have-we-been-up-to",
-"https://secure.actblue.com/donate/zyon-khalifa-2026"
+{
+"text": "(0)",
+"href": "https://www.khalifaforcongress.com/cart"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+magnolia+street+orangeburg%2C+sc%2C+29115+united+states"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.khalifaforcongress.com/election-dates"
+},
+{
+"text": "Campaign Merch",
+"href": "https://www.khalifaforcongress.com/campaign-merch"
+},
+{
+"text": "Cart (0)",
+"href": "https://www.khalifaforcongress.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.khalifaforcongress.com/contact"
+},
+{
+"text": "Debate",
+"href": "https://www.khalifaforcongress.com/contact-1-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zyon-khalifa-2026"
+},
+{
+"text": "Events",
+"href": "https://www.khalifaforcongress.com/election-dates"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=We+Are+The+People&dates=20260522T230000Z%2F20260523T000000Z&location=400+Magnolia+Street%2C+Orangeburg%2C+SC%2C+29115%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-bhty5?format=ical"
+},
+{
+"text": "Meet Zyon Khalifa",
+"href": "https://www.khalifaforcongress.com/about-2"
+},
+{
+"text": "Meet Zyon Khalifa",
+"href": "https://www.khalifaforcongress.com/about-2-1"
+},
+{
+"text": "Next Next May 23 Meet and Greet with Zyon Khalifa (Copy)",
+"href": "https://www.khalifaforcongress.com/election-dates/event-one-rg2bh-mx2wm-laa2k-ynm8z-2nwyr-44m4k-x6zyp-gym9p"
+},
+{
+"text": "Platform",
+"href": "https://www.khalifaforcongress.com/platform"
+},
+{
+"text": "Previous Previous May 21 ACDP Monthly Meeting",
+"href": "https://www.khalifaforcongress.com/election-dates/acdp-monthly-meeting"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.khalifaforcongress.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.khalifaforcongress.com/volunteer"
+},
+{
+"text": "Zyon's Messages",
+"href": "https://www.khalifaforcongress.com/what-have-we-been-up-to"
+},
+{
+"text": "[image: Khalifa For Congress]",
+"href": "https://www.khalifaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1CLvb9PTAE/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/khalifaforcongress?igsh=MXByeWliN2YzMm5hdw%3D%3D"
+}
 ]

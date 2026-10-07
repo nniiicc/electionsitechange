@@ -1,36 +1,146 @@
 [
-"https://facebook.com/palakovichcarr",
-"https://instagram.com/delpalakovichcarr",
-"https://juliepalakovichcarr.com/",
-"https://juliepalakovichcarr.com/2026-legislation",
-"https://juliepalakovichcarr.com/about-julie",
-"https://juliepalakovichcarr.com/accomplishments",
-"https://juliepalakovichcarr.com/contact-julie",
-"https://juliepalakovichcarr.com/contribute",
-"https://juliepalakovichcarr.com/endorsements",
-"https://juliepalakovichcarr.com/news",
-"https://juliepalakovichcarr.com/services",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0157?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0177?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0333?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0357?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0358?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0363?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0434?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0518?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0549?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0560?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0561?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0578?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0601?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0704?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0735?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0880?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0983?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1124?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1166?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1197?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1297?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1321?ys=2026RS",
-"https://x.com/palakovichcarr"
+{
+"text": "About Julie",
+"href": "https://www.juliepalakovichcarr.com/about-julie"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.juliepalakovichcarr.com/accomplishments"
+},
+{
+"text": "Bicyclist Safety",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0177?ys=2026RS"
+},
+{
+"text": "Child Care Scholarships",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1321?ys=2026RS"
+},
+{
+"text": "Consumer Protections for Medical Credit Cards",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1124?ys=2026RS"
+},
+{
+"text": "Contact",
+"href": "https://www.juliepalakovichcarr.com/contact-julie"
+},
+{
+"text": "Contribute",
+"href": "https://www.juliepalakovichcarr.com/contribute"
+},
+{
+"text": "Decouple from Federal Tax Giveaways",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0880?ys=2026RS"
+},
+{
+"text": "Earned Income Tax Credit Study",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0735?ys=2026RS"
+},
+{
+"text": "Endangered Species Act Protections",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0578?ys=2026RS"
+},
+{
+"text": "Endorsements",
+"href": "https://www.juliepalakovichcarr.com/endorsements"
+},
+{
+"text": "Ensure Funding for Child Care Credentialing Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0561?ys=2026RS"
+},
+{
+"text": "Expand the Whistleblowers Program",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1197?ys=2026RS"
+},
+{
+"text": "Free School Meals",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0704?ys=2026RS"
+},
+{
+"text": "Front License Plate",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1166?ys=2026RS"
+},
+{
+"text": "Home",
+"href": "https://www.juliepalakovichcarr.com/"
+},
+{
+"text": "Increase Transparency for Exploratory Committees",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0157?ys=2026RS"
+},
+{
+"text": "Increase Voter Awareness of Municipal Elections",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0357?ys=2026RS"
+},
+{
+"text": "Legislation",
+"href": "https://www.juliepalakovichcarr.com/2026-legislation"
+},
+{
+"text": "Local Child Tax Credit",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0363?ys=2026RS"
+},
+{
+"text": "Modernizing Ethics Disclosures",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0549?ys=2026RS"
+},
+{
+"text": "Need Help?",
+"href": "https://www.juliepalakovichcarr.com/services"
+},
+{
+"text": "News",
+"href": "https://www.juliepalakovichcarr.com/news"
+},
+{
+"text": "Prohibit Rent Price Fixing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0434?ys=2026RS"
+},
+{
+"text": "Promoting Child Literacy",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0358?ys=2026RS"
+},
+{
+"text": "Reform Legislative Appointments",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0333?ys=2026RS"
+},
+{
+"text": "Repeal Data Center Tax Breaks",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0560?ys=2026RS"
+},
+{
+"text": "Road Safety Near Schools",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0601?ys=2026RS"
+},
+{
+"text": "Stronger Protections in Gambling",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0518?ys=2026RS"
+},
+{
+"text": "Student Loan Debt",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1297?ys=2026RS"
+},
+{
+"text": "Sunset Unproductive Tax Credits",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0983?ys=2026RS"
+},
+{
+"text": "[image: Julie Palakovich Carr]",
+"href": "https://www.juliepalakovichcarr.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/palakovichcarr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/delpalakovichcarr/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/palakovichcarr"
+},
+{
+"text": "[no text]",
+"href": "mailto:julie@juliepalakovichcarr.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Support Spencer Igo&#39;s Minnesota House campaign by donating to Team Igo. Every contribution helps make a difference in the community!",
  "final_url": "https://spencerigo.com/donate",
- "paid_for_by": null,
+ "fingerprint": "12df2ea577e11197fe4a30a81ae0ed9e3f133753",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": [
   "2026"

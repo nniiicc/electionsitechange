@@ -1,5 +1,5 @@
-Budgetary Issues
-As a state representative, I’ve been a strong advocate for fiscal responsibility.
+Skip to content Fairchild for Freedom Pro Life | Pro Liberty Menu Home About Me Issue Positions Abortion Agriculture Budgetary Issues Civil Liberties Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes KS State Rep., Dist.
+113 Donate Get Involved Newsletter Budgetary Issues Home Abortion Agriculture Budgetary Issues Civil Liberties Direct Ballot Initiatives Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes As a state representative, I’ve been a strong advocate for fiscal responsibility.
 I’ve voted against budgets that I believe spend too much money and are fiscally irresponsible.
 Several of the years that Governor Kelly has been Governor, we’ve spent even more money than what Governor Kelly has recommended we spend.
 I believe this is a big problem.
@@ -15,4 +15,4 @@ This amendment would’ve limited spending increases to no more than the rate of
 Unfortunately, this amendment failed to pass.
 Ultimately, I believe that it’s necessary to put this kind of structural reform in place.
 Placing a limit on the amount that spending can be increased each year is a good way to promote fiscal responsibility in our state.
-In the future, I will continue to promote the idea of implementing structural reforms to control state spending and put our state on a solid financial footing.
+In the future, I will continue to promote the idea of implementing structural reforms to control state spending and put our state on a solid financial footing. © # Fairchild For Freedom Website Design by Atlas Marketing Solutions

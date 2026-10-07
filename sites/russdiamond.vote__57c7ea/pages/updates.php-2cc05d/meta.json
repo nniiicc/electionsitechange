@@ -1,7 +1,9 @@
 {
  "description": "Mainstream media coverage and items of note...",
  "final_url": "https://russdiamond.vote/updates.php",
- "paid_for_by": "PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy",
+ "fingerprint": "6ff6e4fc97ae0d53202caaa171948e52f99be434",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
  "title": "Russ Diamond in the News",
  "years_mentioned": [
   "2014",

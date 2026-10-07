@@ -1,5 +1,5 @@
-LGBTQ equality, pluralism, and human dignity
-My position on LGBTQ equality begins with a line I am not willing to blur: human dignity is not negotiable.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search LGBTQ equality, pluralism, and human dignity Drew Howells Jun 22 6 min read My position on LGBTQ equality begins with a line I am not willing to blur: human dignity is not negotiable.
 It is not conditional.
 It is not something to be weighed against political convenience, public discomfort, or someone else’s theology.
 Equal protection under the law is not a favor granted by the majority.
@@ -98,3 +98,7 @@ The boundary I will enforce as a legislator is simple and firm: you are free to 
 That is not radical.
 It is the foundation of a free society.
 And it is not something I am willing to compromise.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

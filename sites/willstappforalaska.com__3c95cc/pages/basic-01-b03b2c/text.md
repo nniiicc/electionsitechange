@@ -1,15 +1,3 @@
-top of page
-DISTRICT 32
-Strong and Stable Economy
-Responsible Resource Development
-Accountable Government Spending
-Affordable Energy
-Protecting the Permanent Fund for Future Generations of Alaskans
-Accountable and Performance based
-Financial Literacy
-Promote crafts and trades
-Efficient and Innovative UAF.
-Safe Neighborhoods
-Pro Law Enforcement
-Quality and Affordable Healthcare
-bottom of page
+top of page Will Stapp FOR ALASKA STATE HOUSE DISTRICT 32 Issues Economy Education About Events Contact More Use tab to navigate through the menu items.
+Log In SUBSCRIBE VOLUNTEER Our Economy. ​ Strong and Stable Economy ​ Responsible Resource Development ​ Accountable Government Spending ​ Affordable Energy ​ Protecting the Permanent Fund for Future Ge nerations of Alaskans ​ Military and Veterans ​ ​ Quality Education ​ Accountable and Performance based ​ Financial Literacy ​ Promote crafts and trades ​ Efficient and Innovative UAF. ​ Health and Safety Safe Neighborhoods ​ ​ Pro Law Enforcement ​ Quality and Affordable Healthcare ​ ​ ​ START CHANGING Support Our Cause VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Me News Events Get Involved Contact Paid for by Will Stapp for Alaska PO.BOX 71556 Fairbanks AK 99707 ​ The military information and photographs on this website do not imply endorsement by the Department of War or the United States Army. ​ ​ bottom of page

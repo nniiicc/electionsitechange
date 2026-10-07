@@ -1,7 +1,13 @@
 {
  "description": "Monetary Stability requires a public money system. Recommends a 100% reserve banking system.",
  "final_url": "https://www.kmm2026.org/monetary/a-monetary-and-fiscal-framework-for-economic-stability",
- "paid_for_by": null,
+ "fingerprint": "c619d94dd33afee24d6b2402f824acfa5fae0dec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "A Monetary and Fiscal Framework for Economic Stability",
- "years_mentioned": []
+ "years_mentioned": [
+  "1953",
+  "2016",
+  "2026"
+ ]
 }

@@ -1,4 +1,4 @@
-I was rummaging through some boxes the other day and came across an old software manual from Powerhouse Systems, a startup I co-founded back in my early twenties.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate 1986 · Powerhouse Systems Ahead of My Time × I was rummaging through some boxes the other day and came across an old software manual from Powerhouse Systems, a startup I co-founded back in my early twenties.
 I was the tech guy on the team, and worked with a gifted salesman who later served as the best man at our wedding when Gloria and I got married.
 Back then, "sales tools" consisted of manual Rolodexes and basic software programs like Packrat or Goldmine.
 Together, our team built a system to manage prospects, contacts, leads, and opportunities right on a laptop.
@@ -14,4 +14,6 @@ We need a practical, forward-looking approach that looks at our state's infrastr
 Let's bring that proactive mindset to Helena.
 That's Montana common sense.
 These career stories were originally posted on Facebook.
-You can follow the entire story at facebook.com/leman4mt.
+You can follow the entire story at facebook.com/leman4mt . ← Back to Greg's Story Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://mattbrass.org/news/",
- "paid_for_by": null,
+ "fingerprint": "bf0ef1fa081c5c52aebacb86a597aac755f86c83",
+ "format": 3,
+ "paid_for_by": "sponsored by the Newnan-Coweta Chamber of Commerce",
  "title": "News | Matt Brass | for State Senate",
  "years_mentioned": [
   "2015",
+  "2016",
+  "2018",
+  "2019",
   "2020"
  ]
 }

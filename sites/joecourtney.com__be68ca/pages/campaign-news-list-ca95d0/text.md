@@ -1,18 +1,13 @@
-Campaign News
-Veterans of Foreign Wars (VFW), one of the nation’s largest and oldest veteran advocacy organizations, on Friday condemned former President Trump’s recent statement comparing the Medal…
-Congressman Joe Courtney recently introduced legislation to address issues in public housing.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News Tuesday’s election will be remembered as a milestone for communities in Connecticut’s Second District.
+Voters turned out in support of a message focused on protecting our democracy, transparency, and affordability.
+November 6, 2025 Veterans of Foreign Wars blasts Donald Trump Medal of Honor statement as “asinine” Veterans of Foreign Wars (VFW), one of the nation’s largest and oldest veteran advocacy organizations, on Friday condemned former President Trump’s recent statement comparing the Medal… August 22, 2024 REP.
+COURTNEY PROPOSES LEGISLATION TO ADDRESS MOLD, ISSUES IN PUBLIC HOUSING Congressman Joe Courtney recently introduced legislation to address issues in public housing.
 This new legislation pushes for a federal mold standard.
-The legislation would give…
-Congressman Joe Courtney joined State Rep.
-Anthony Nolan, Mayor Michael Passero and others to celebrate the groundbreaking for the site of a new 28 mixed-income…
-Democrats are delivering on the promise to lower prescription drug costs, make health insurance more affordable, and make the economy work for working families.
-Through…
-Congressman Joe Courtney faced off against his Republican opponent in the first debate of Connecticut’s second congressional district race this week, hosted by Connecticut’s League…
-An international defense agreement between the United States, Australia, and the U.K. still expected to bolster the shipbuilding industry in the region.
-“There’s no question…
-Rep.
-Joe Courtney joined other lawmakers across New England in an effort to secure $1 Billion in federal funding for the Low-Income Home Energy Assistance…
-Rep.
+The legislation would give… October 21, 2022 HOUSING “AFFORDABLE TO MANY” COMING TO NEW LONDON Congressman Joe Courtney joined State Rep.
+Anthony Nolan, Mayor Michael Passero and others to celebrate the groundbreaking for the site of a new 28 mixed-income… October 12, 2022 THE INFLATION REDUCTION ACT LOWERS HEALTH CARE COSTS FOR MILLIONS OF AMERICANS Democrats are delivering on the promise to lower prescription drug costs, make health insurance more affordable, and make the economy work for working families.
+Through… October 5, 2022 JOE COURTNEY, MIKE FRANCE DEBATE ABORTION, ECONOMY AND MORE Congressman Joe Courtney faced off against his Republican opponent in the first debate of Connecticut’s second congressional district race this week, hosted by Connecticut’s League… October 4, 2022 INTERNATIONAL SECURITY AGREEMENT STILL EXPECTED TO BRING SHIPBUILDING WORK TO ELECTRIC BOAT An international defense agreement between the United States, Australia, and the U.K. still expected to bolster the shipbuilding industry in the region.
+“There’s no question… October 2, 2022 LOW-INCOME HOME ENERGY PROGRAM GETS BOOST FROM CT LAWMAKERS Rep.
+Joe Courtney joined other lawmakers across New England in an effort to secure $1 Billion in federal funding for the Low-Income Home Energy Assistance… September 28, 2022 COURTNEY PROVIDES CHAMBER WITH LEGISLATIVE UPDATE Rep.
 Joe Courtney provided business leaders with updates on recently passed legislation aimed at improving healthcare for veterans, reducing prescription drug prices and boosting U.S….
-Congressman Courtney joined other elected officials and nurses in a protest outside Windham Hospital to support a positive resolution to the contract negotiations.
-Elected officials…
+September 26, 2022 UNION LEADER, ELECTED OFFICIALS JOIN STRIKING NURSES OUTSIDE WINDHAM HOSPITAL Congressman Courtney joined other elected officials and nurses in a protest outside Windham Hospital to support a positive resolution to the contract negotiations.
+Elected officials… September 23, 2022 1 2 3 4 5 Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

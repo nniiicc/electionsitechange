@@ -1,22 +1,98 @@
 [
-"http://allaboutcookies.org/",
-"https://authentic.org/",
-"https://facebook.com/IlhanMN",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fprivacy-policy%2F",
-"https://ilhanomar.com/",
-"https://ilhanomar.com/contact",
-"https://ilhanomar.com/endorsements",
-"https://ilhanomar.com/jobs",
-"https://ilhanomar.com/media",
-"https://ilhanomar.com/my-record",
-"https://ilhanomar.com/news",
-"https://ilhanomar.com/privacy-policy",
-"https://ilhanomar.com/progress",
-"https://ilhanomar.com/visions",
-"https://ilhanomar.com/volunteer",
-"https://instagram.com/ilhanmn",
-"https://secure.actblue.com/donate/ilhan_for_congress",
-"https://store.ilhanomar.com/",
-"https://twitter.com/IlhanMN",
-"https://twitter.com/intent/tweet?text=Privacy+Policy&url=https%3A%2F%2Filhanomar.com%2Fprivacy-policy%2F"
+{
+"text": "Authentic",
+"href": "https://www.authentic.org"
+},
+{
+"text": "Contact Us",
+"href": "https://ilhanomar.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ilhan_for_congress"
+},
+{
+"text": "Endorsements",
+"href": "https://ilhanomar.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://ilhanomar.com/volunteer/"
+},
+{
+"text": "Get the Facts",
+"href": "https://ilhanomar.com/my-record/"
+},
+{
+"text": "Home",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "Ilhan’s Record",
+"href": "https://ilhanomar.com/progress/"
+},
+{
+"text": "Jobs",
+"href": "https://ilhanomar.com/jobs/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://ilhanomar.com/media/"
+},
+{
+"text": "News",
+"href": "https://ilhanomar.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilhanomar.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.ilhanomar.com/"
+},
+{
+"text": "Vision",
+"href": "https://ilhanomar.com/visions/"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Privacy+Policy&url=https%3A%2F%2Filhanomar.com%2Fprivacy-policy%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fprivacy-policy%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ilhanmn/"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Privacy+Policy&body=%3Cp%3EWho+we+are+Suggested+text%3A+Our+website+address+is%3A+https%3A%2F%2Filhanomar.com.+Comments+Suggested+text%3A+When+visitors+leave+comments+on+the+site+we+collect+the+data+shown+in+the+comments+form%2C+and+also+the+visitor%E2%80%99s+IP+address+and+browser+user+agent+string+to+help+spam+detection.+An+anonymized+string+created+from+your+email+address+%28also+called+a+%5B%E2%80%A6%5D%3C%2Fp%3E...+view+more%3A+https%3A%2F%2Filhanomar.com%2Fprivacy-policy%2F"
+},
+{
+"text": "http://www.Allaboutcookies.Org/",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "ilhanomar.com",
+"href": "https://ilhanomar.com"
+},
+{
+"text": "info@ilhanomar.com",
+"href": "mailto:info@ilhanomar.com"
+}
 ]

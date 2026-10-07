@@ -1,48 +1,218 @@
 [
-"https://corymaloy.com/",
-"https://corymaloy.com/blog",
-"https://corymaloy.com/blog/2020-convention-speech-rep-cory-maloy",
-"https://corymaloy.com/blog/9-11-25th-anniversary-charlie-kirk",
-"https://corymaloy.com/blog/my-principles-made-me-a-republican",
-"https://corymaloy.com/blog/school-choice-in-utah-starts-with-the-parent",
-"https://corymaloy.com/blog/stratos-data-center-box-elder-where-i-stand",
-"https://corymaloy.com/blog/utah-county-republican-party-caucus-and-convention-information",
-"https://corymaloy.com/blog/utah-education-funding-reading-part-1",
-"https://corymaloy.com/blog?cat=Community",
-"https://corymaloy.com/blog?cat=Education",
-"https://corymaloy.com/blog?cat=Elections",
-"https://corymaloy.com/blog?cat=Legislation",
-"https://corymaloy.com/blog?cat=Opinion",
-"https://corymaloy.com/blog?tag=Budget",
-"https://corymaloy.com/blog?tag=Convention",
-"https://corymaloy.com/blog?tag=Data+Centers",
-"https://corymaloy.com/blog?tag=Education",
-"https://corymaloy.com/blog?tag=Elections",
-"https://corymaloy.com/blog?tag=Energy",
-"https://corymaloy.com/blog?tag=Growth",
-"https://corymaloy.com/blog?tag=HB+120",
-"https://corymaloy.com/blog?tag=HB+143",
-"https://corymaloy.com/blog?tag=HB+146",
-"https://corymaloy.com/blog?tag=HB+180",
-"https://corymaloy.com/blog?tag=HB+184",
-"https://corymaloy.com/blog?tag=Healthcare",
-"https://corymaloy.com/blog?tag=Housing",
-"https://corymaloy.com/blog?tag=Life",
-"https://corymaloy.com/blog?tag=Public+Safety",
-"https://corymaloy.com/blog?tag=Second+Amendment",
-"https://corymaloy.com/blog?tag=Taxes",
-"https://corymaloy.com/blog?tag=Transparency",
-"https://corymaloy.com/blog?tag=Water",
-"https://corymaloy.com/cdn-cgi/l/email-protection",
-"https://corymaloy.com/contact",
-"https://corymaloy.com/donate",
-"https://corymaloy.com/issues",
-"https://corymaloy.com/meet-cory",
-"https://corymaloy.com/the-record",
-"https://facebook.com/RepCoryMaloy",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy",
-"https://linkedin.com/in/acorymaloy",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy&text=Schedule%3A+Virtual+Cottage+Meetings+with+Cory+Maloy",
-"https://votecorymaloy.com/"
+{
+"text": "#Budget 15",
+"href": "https://www.corymaloy.com/blog?tag=Budget"
+},
+{
+"text": "#Convention 12",
+"href": "https://www.corymaloy.com/blog?tag=Convention"
+},
+{
+"text": "#Data Centers 2",
+"href": "https://www.corymaloy.com/blog?tag=Data+Centers"
+},
+{
+"text": "#Education 19",
+"href": "https://www.corymaloy.com/blog?tag=Education"
+},
+{
+"text": "#Elections 27",
+"href": "https://www.corymaloy.com/blog?tag=Elections"
+},
+{
+"text": "#Energy 5",
+"href": "https://www.corymaloy.com/blog?tag=Energy"
+},
+{
+"text": "#Growth 11",
+"href": "https://www.corymaloy.com/blog?tag=Growth"
+},
+{
+"text": "#HB 120 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+120"
+},
+{
+"text": "#HB 143 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+143"
+},
+{
+"text": "#HB 146 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+146"
+},
+{
+"text": "#HB 180 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+180"
+},
+{
+"text": "#HB 184 2",
+"href": "https://www.corymaloy.com/blog?tag=HB+184"
+},
+{
+"text": "#Healthcare 6",
+"href": "https://www.corymaloy.com/blog?tag=Healthcare"
+},
+{
+"text": "#Housing 5",
+"href": "https://www.corymaloy.com/blog?tag=Housing"
+},
+{
+"text": "#Life 3",
+"href": "https://www.corymaloy.com/blog?tag=Life"
+},
+{
+"text": "#Public Safety 8",
+"href": "https://www.corymaloy.com/blog?tag=Public+Safety"
+},
+{
+"text": "#Second Amendment 10",
+"href": "https://www.corymaloy.com/blog?tag=Second+Amendment"
+},
+{
+"text": "#Taxes 13",
+"href": "https://www.corymaloy.com/blog?tag=Taxes"
+},
+{
+"text": "#Transparency 10",
+"href": "https://www.corymaloy.com/blog?tag=Transparency"
+},
+{
+"text": "#Water 8",
+"href": "https://www.corymaloy.com/blog?tag=Water"
+},
+{
+"text": "2020 Convention Speech: Rep. Cory Maloy →",
+"href": "https://www.corymaloy.com/blog/2020-convention-speech-rep-cory-maloy"
+},
+{
+"text": "801-477-0019",
+"href": "tel:8014770019"
+},
+{
+"text": "Community 4",
+"href": "https://www.corymaloy.com/blog?cat=Community"
+},
+{
+"text": "Contact",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.corymaloy.com/donate"
+},
+{
+"text": "Education 2",
+"href": "https://www.corymaloy.com/blog?cat=Education"
+},
+{
+"text": "Elections 8",
+"href": "https://www.corymaloy.com/blog?cat=Elections"
+},
+{
+"text": "Issues",
+"href": "https://www.corymaloy.com/issues"
+},
+{
+"text": "Legislation 36",
+"href": "https://www.corymaloy.com/blog?cat=Legislation"
+},
+{
+"text": "Meet Cory",
+"href": "https://www.corymaloy.com/meet-cory"
+},
+{
+"text": "Opinion 1",
+"href": "https://www.corymaloy.com/blog?cat=Opinion"
+},
+{
+"text": "Stand With Cory in November",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "The 52 Report",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The 52 Report Blog",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The Record",
+"href": "https://www.corymaloy.com/the-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "[email protected]",
+"href": "https://www.corymaloy.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:cory@corymaloy.com"
+},
+{
+"text": "[image: Cory Maloy, Utah House District 52]",
+"href": "https://www.corymaloy.com/"
+},
+{
+"text": "[image] Jun 8, 2026 Where I Stand on the Stratos Data Center in Box Elder County",
+"href": "https://www.corymaloy.com/blog/stratos-data-center-box-elder-where-i-stand"
+},
+{
+"text": "[image] Sep 11, 2026 A Day of Infamy at 25, and a Year Without Charlie Kirk",
+"href": "https://www.corymaloy.com/blog/9-11-25th-anniversary-charlie-kirk"
+},
+{
+"text": "[image] Sep 28, 2026 School Choice in Utah Starts with the Parent",
+"href": "https://www.corymaloy.com/blog/school-choice-in-utah-starts-with-the-parent"
+},
+{
+"text": "[image] Sep 28, 2026 Utah Education Funding Is Up. Reading Isn't.",
+"href": "https://www.corymaloy.com/blog/utah-education-funding-reading-part-1"
+},
+{
+"text": "[image] Sep 8, 2026 My Principles Made Me a Republican. Not the Other Way Around.",
+"href": "https://www.corymaloy.com/blog/my-principles-made-me-a-republican"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepCoryMaloy"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/acorymaloy/"
+},
+{
+"text": "[tooltip: Share by email]",
+"href": "mailto:?subject=Schedule%3A+Virtual+Cottage+Meetings+with+Cory+Maloy&body=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy"
+},
+{
+"text": "[tooltip: Share on LinkedIn]",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.corymaloy.com%2Fblog%2Fschedule-virtual-cottage-meetings-with-cory-maloy&text=Schedule%3A+Virtual+Cottage+Meetings+with+Cory+Maloy"
+},
+{
+"text": "https://www.facebook.com/RepCoryMaloy/",
+"href": "https://www.facebook.com/RepCoryMaloy/"
+},
+{
+"text": "https://www.votecorymaloy.com",
+"href": "https://www.votecorymaloy.com/"
+},
+{
+"text": "← The 52 Report",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "← Utah County Republican Party Caucus and Convention Information",
+"href": "https://www.corymaloy.com/blog/utah-county-republican-party-caucus-and-convention-information"
+}
 ]

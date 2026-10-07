@@ -1,17 +1,4 @@
-(Top donation form uses built-in compatibility with Stripe, which charges us a good deal less per transaction, but other forms of payment are available below.)
-Secure Donation Through Square
-One-Time
-Monthly
-Make a one-time donation
-Make a monthly donation
-Choose an amount
-$5.00
-$15.00
-$100.00
-$5.00
-$15.00
-$100.00
-Or enter a custom amount
-$
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Donate (Top donation form uses built-in compatibility with Stripe, which charges us a good deal less per transaction, but other forms of payment are available below.) Secure Donation Through Square One-Time Monthly Make a one-time donation Make a monthly donation Choose an amount $#.# $#.# $#.# $#.# $#.# $#.# Or enter a custom amount $ Your contribution is appreciated.
 Your contribution is appreciated.
-Your contribution is appreciated.
+Donate Donate monthly Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .

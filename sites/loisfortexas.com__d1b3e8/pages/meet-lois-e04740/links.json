@@ -1,14 +1,58 @@
 [
-"https://facebook.com/LoisKolkhorst",
-"https://instagram.com/lois.kolkhorst",
-"https://loisfortexas.com/",
-"https://loisfortexas.com/meet-lois",
-"https://loisfortexas.com/privacy-policy",
-"https://secure.anedot.com/lwk/donate",
-"https://secure.anedot.com/lwk/donate?exitintent=true&amount=100",
-"https://secure.anedot.com/lwk/donate?exitintent=true&amount=1000",
-"https://secure.anedot.com/lwk/donate?exitintent=true&amount=2000",
-"https://secure.anedot.com/lwk/donate?exitintent=true&amount=250",
-"https://secure.anedot.com/lwk/donate?exitintent=true&amount=50",
-"https://x.com/loiskolkhorst"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/lwk/donate?exitintent=true&amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/lwk/donate?exitintent=true&amount=1000"
+},
+{
+"text": "$2000",
+"href": "https://secure.anedot.com/lwk/donate?exitintent=true&amount=2000"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/lwk/donate?exitintent=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/lwk/donate?exitintent=true&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lwk/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/LoisKolkhorst"
+},
+{
+"text": "Get Involved",
+"href": "https://loisfortexas.com/#INVOLVED"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lois.kolkhorst/"
+},
+{
+"text": "Meet The Senator",
+"href": "https://loisfortexas.com/meet-lois/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/lwk/donate"
+},
+{
+"text": "Terms & Privacy",
+"href": "https://loisfortexas.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/loiskolkhorst"
+},
+{
+"text": "[image]",
+"href": "https://loisfortexas.com/"
+}
 ]

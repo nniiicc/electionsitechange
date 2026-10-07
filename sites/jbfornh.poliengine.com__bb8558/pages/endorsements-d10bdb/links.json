@@ -1,14 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61586921821592",
-"https://jbfornh.poliengine.com/",
-"https://jbfornh.poliengine.com/about",
-"https://jbfornh.poliengine.com/contact-us",
-"https://jbfornh.poliengine.com/endorsements",
-"https://jbfornh.poliengine.com/home",
-"https://jbfornh.poliengine.com/issues",
-"https://jbfornh.poliengine.com/privacy-policy",
-"https://jbfornh.poliengine.com/store/cart",
-"https://jbfornh.poliengine.com/volunteer",
-"https://secure.actblue.com/donate/joseph-beaulieu-1",
-"https://youtube.com/@JosephBeaulieu-GC1"
+{
+"text": "About",
+"href": "https://jbfornh.poliengine.com/about"
+},
+{
+"text": "Beaulieu with a U , Serving You!",
+"href": "https://jbfornh.poliengine.com"
+},
+{
+"text": "Contact Us!",
+"href": "https://jbfornh.poliengine.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joseph-beaulieu-1"
+},
+{
+"text": "Endorsements",
+"href": "https://jbfornh.poliengine.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://jbfornh.poliengine.com/home"
+},
+{
+"text": "Issues",
+"href": "https://jbfornh.poliengine.com/issues"
+},
+{
+"text": "Joseph Beaulieu for State Representative",
+"href": "https://jbfornh.poliengine.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jbfornh.poliengine.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://jbfornh.poliengine.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "emailto:jbfornh@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/joseph-beaulieu-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586921821592"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JosephBeaulieu-GC1"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://jbfornh.poliengine.com/store/cart"
+}
 ]

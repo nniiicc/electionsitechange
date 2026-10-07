@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.joelazumah.com/contribute?amount=10",
- "paid_for_by": null,
+ "fingerprint": "ed367e4508cd89fba29d1d55aa0080394442ea54",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

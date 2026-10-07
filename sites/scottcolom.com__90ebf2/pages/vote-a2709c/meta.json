@@ -1,7 +1,11 @@
 {
  "description": "Election Day: Tuesday, November 3rd Last Day of Voter Registration: October 5th Last Day for In-Person Absentee Ballot: October 31st Verify Voter Registration",
  "final_url": "https://scottcolom.com/vote/",
- "paid_for_by": "Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including",
+ "fingerprint": "1db532ce391504c833af2349504fed92c5f567d1",
+ "format": 3,
+ "paid_for_by": "Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text me",
  "title": "Voting Information - Scott Colom for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

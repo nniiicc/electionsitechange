@@ -1,4 +1,4 @@
-I have dedicated my career to serving our South King County communities.
+0 Skip to Content Contact Home About Platform Events Team Volunteer Donate Open Menu Close Menu Contact Home About Platform Events Team Volunteer Donate Open Menu Close Menu Contact Home About Platform Events Team Volunteer Donate Meet Debra View fullsize I have dedicated my career to serving our South King County communities.
 I grew up in Rainier Vista, a low-income housing project in Seattle.
 I was fortunate to be surrounded by powerful women and a supportive community that motivated me to aspire for more.
 As a non-traditional college student and a mother of two, I first attended Highline Community College and later transferred to Seattle University to receive a B.A. in Political Science.
@@ -15,3 +15,4 @@ I bring the experience necessary to ensure that all of our voices are heard in O
 As your Representative, I will continue to work every day to ensure that we are represented fairly with policies that impact and elevate our lives positively.
 I ask for your vote.
 Endorsed by Senator Patty Murray, Congressman Adam Smith, Washington State Labor Council, and many more.
+Paid for By: Elect Debra Entenman (D) 11604 SE 221ST ST KENT, WA, 98031

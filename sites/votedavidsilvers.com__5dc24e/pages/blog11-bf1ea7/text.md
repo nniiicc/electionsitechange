@@ -1,8 +1,4 @@
-Improving mental health for minors remains a top priority Another viewpoint
-South Florida Sun-Sentinel
-October 16, 2019 Wednesday
-1 Edition
-Nearly three years ago, my sister, a child psychologist, brought a story to my attention about a 6-year-old boy, Nicholas, who threw a temper tantrum at his elementary school in Jacksonville.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Improving mental health for minors remains a top priority Another viewpoint October 16, 2019 / in News / by David Silvers South Florida Sun-Sentinel October 16, 2019 Wednesday 1 Edition Nearly three years ago, my sister, a child psychologist, brought a story to my attention about a 6-year-old boy, Nicholas, who threw a temper tantrum at his elementary school in Jacksonville.
 What happened next could be considered a total and complete failure by local authorities.
 Nicholas, who was an Individualized Education Program (IEP) elementary school student, was removed from school by a Sheriff’s deputy using the Baker Act, and taken to a mental health facility for a medical evaluation.
 His parents were not contacted until he was admitted to the facility, meaning the doctors could hold him for up to 72 hours, even if it was against the wishes of his parents.
@@ -28,4 +24,5 @@ The issue of mental illness is something that we as a society need to make a pri
 I believe addressing mental health issues and civic responsibility will save and enrich the lives of all Floridians.
 I’m honored to serve in a Legislature that understands and supports these goals.
 State Rep.
-David Silvers, a Democrat, represents the 87th House district.
+David Silvers , a Democrat, represents the 87th House district. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/images.jpg 168 299 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2019-10-16 18:49:45 2025-06-17 17:41:19 Improving mental health for minors remains a top priority Another viewpoint Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: Medical amnesty bill could save lives of Fla. students Medical amnesty bill could save lives of Fla. students Link to: Point of View: New Florida allows for domestic violence injunctions to protect pets Point of View: New Florida allows for domestic violence injunctions to protect...
+Scroll to top Scroll to top

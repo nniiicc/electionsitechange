@@ -1,2 +1,9 @@
-Please note, the meeting may be either virtual or in-person depending on Selena’s availability.
-Accessibility Tools
+Skip to content Facebook Instagram Volunteer Events Donate Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Meet Selena Legislative Wins Issues Endorsements Constituents What is the State Assembly?
+Bill Tracker How to give public comment in NELIS How to give testimony Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Issues Meet Selena Endorsements Donate Events Press & Media Center Search for events Location Find Events Additional Filters From To Your browser does not support JavaScript, or it is disabled.
+JavaScript must be enabled in order to view listings.
+Events 18 Oct 18 Oct Weekly Canvass – 10/18 1PM 2026-10-18 @ 01:00 PM Location Upon RSVP 18 Oct 18 Oct Weekly Canvass – 10/18 10AM 2026-10-18 @ 10:00 AM Location Upon RSVP 17 Oct 17 Oct Weekly Canvass – 10/17 1PM 2026-10-17 @ 01:00 PM Location Upon RSVP 17 Oct 17 Oct Weekly Canvass – 10/17 10AM 2026-10-17 @ 10:00 AM Location Upon RSVP 11 Oct 11 Oct Weekly Canvass – 10/11 1PM 2026-10-11 @ 01:00 PM Location Upon RSVP 11 Oct 11 Oct Weekly Canvass – 10/11 10AM 2026-10-11 @ 10:00 AM Location Upon RSVP 10 Oct 10 Oct Weekly Canvass – 10/10 1PM 2026-10-10 @ 01:00 PM Location Upon RSVP 10 Oct 10 Oct Weekly Canvass – 10/10 10AM 2026-10-10 @ 10:00 AM Location Upon RSVP 04 Oct 04 Oct Weekly Canvass – 10/4, 10AM 2026-10-04 @ 10:00 AM Location Upon RSVP 03 Oct 03 Oct Joint Canvass with Kate Marshall for Reno Mayor – 10/3, 1PM 2026-10-03 @ 01:00 PM Location Upon RSVP Load more events Meet with Selena Please note, the meeting may be either virtual or in-person depending on Selena’s availability.
+Name Email Phone Zip Message By providing your cell phone number, you agree to receive calls and texts to your number from Selena for Nevada on issues and ways to get involved.
+Msg frequency varies.
+STOP to quit.
+Msg and data rates may apply. https://selenafornevada.com/privacy-policy/ Request Meeting Close Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

@@ -1,15 +1,78 @@
 [
-"https://bsky.app/profile/petermanforiowa.bsky.social",
-"https://facebook.com/people/Ryan-Peterman-for-Iowa/61576454610668",
-"https://instagram.com/ryanpetermanforiowa",
-"https://petermanforiowa.com/",
-"https://petermanforiowa.com/about",
-"https://petermanforiowa.com/election-resources",
-"https://petermanforiowa.com/events",
-"https://petermanforiowa.com/get-involved",
-"https://petermanforiowa.com/privacy-policy",
-"https://petermanforiowa.com/public-service-agenda",
-"https://rayguncustom.com/collections/ryan-peterman-for-iowa-secretary-of-state",
-"https://secure.actblue.com/donate/rp4sos_website",
-"https://x.com/petermanforiowa"
+{
+"text": "About",
+"href": "https://petermanforiowa.com/about/"
+},
+{
+"text": "Agenda",
+"href": "https://petermanforiowa.com/public-service-agenda/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@petermanforiowa.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rp4sos_website"
+},
+{
+"text": "Election Resources",
+"href": "https://petermanforiowa.com/election-resources/"
+},
+{
+"text": "Events",
+"href": "https://petermanforiowa.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Ryan-Peterman-for-Iowa/61576454610668/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/people/Ryan-Peterman-for-Iowa/61576454610668/"
+},
+{
+"text": "Get Involved",
+"href": "https://petermanforiowa.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://petermanforiowa.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ryanpetermanforiowa"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ryanpetermanforiowa/"
+},
+{
+"text": "Media Inquiry",
+"href": "mailto:info@petermanforiowa.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://petermanforiowa.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://petermanforiowa.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://www.rayguncustom.com/collections/ryan-peterman-for-iowa-secretary-of-state"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/petermanforiowa"
+},
+{
+"text": "[image]",
+"href": "https://petermanforiowa.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/petermanforiowa.bsky.social"
+}
 ]

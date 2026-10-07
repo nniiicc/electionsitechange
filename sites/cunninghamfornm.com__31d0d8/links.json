@@ -1,9 +1,30 @@
 [
-"https://cunninghamfornm.com/",
-"https://cunninghamfornm.com/privacy",
-"https://cunninghamfornm.com/terms",
-"https://facebook.com/cunninghamfornm",
-"https://flickr.com/photos/204713669@N06",
-"https://secure.winred.com/cunningham-for-nm/donate-today",
-"https://x.com/cunninghamfornm"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/cunningham-for-nm/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.cunninghamfornm.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cunninghamfornm.com/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.cunninghamfornm.com/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cunninghamfornm/"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/204713669@N06/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/cunninghamfornm"
+}
 ]

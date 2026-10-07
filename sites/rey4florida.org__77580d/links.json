@@ -1,15 +1,82 @@
 [
-"https://facebook.com/rey4florida",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Frey4florida.org",
-"https://instagram.com/rey4florida",
-"https://rey4florida.org/",
-"https://secure.actblue.com/donate/rey4florida",
-"https://secure.actblue.com/donate/rey4florida?amount=100",
-"https://secure.actblue.com/donate/rey4florida?amount=1000",
-"https://secure.actblue.com/donate/rey4florida?amount=25",
-"https://secure.actblue.com/donate/rey4florida?amount=250",
-"https://secure.actblue.com/donate/rey4florida?amount=50",
-"https://secure.actblue.com/donate/rey4florida?amount=500",
-"https://secure.actblue.com/donate/rey4florida?recurring=true",
-"https://x.com/ReysyFor119"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=500"
+},
+{
+"text": "@ReysyFor119, X (Twitter)",
+"href": "https://x.com/ReysyFor119"
+},
+{
+"text": "@rey4florida, Instagram",
+"href": "https://instagram.com/rey4florida"
+},
+{
+"text": "Chip In $50",
+"href": "https://secure.actblue.com/donate/rey4florida?amount=50"
+},
+{
+"text": "Donate Now via ActBlue →",
+"href": "https://secure.actblue.com/donate/rey4florida"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/rey4florida"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/rey4florida"
+},
+{
+"text": "Rey4Florida, Facebook",
+"href": "https://www.facebook.com/rey4florida"
+},
+{
+"text": "Share with Neighbors",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frey4florida.org"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rey4florida"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/rey4florida"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ReysyFor119"
+},
+{
+"text": "info@rey4florida.org",
+"href": "mailto:info@rey4florida.org"
+},
+{
+"text": "rey4florida.org",
+"href": "https://rey4florida.org"
+},
+{
+"text": "♥ Make it monthly, recurring neighbors are how we out-organize big money.",
+"href": "https://secure.actblue.com/donate/rey4florida?recurring=true"
+}
 ]

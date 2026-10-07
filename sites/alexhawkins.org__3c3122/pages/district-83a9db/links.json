@@ -1,20 +1,90 @@
 [
-"https://alexhawkins.org/",
-"https://alexhawkins.org/about",
-"https://alexhawkins.org/dashboard",
-"https://alexhawkins.org/district",
-"https://alexhawkins.org/endorsements",
-"https://alexhawkins.org/issues",
-"https://alexhawkins.org/join",
-"https://bsky.app/profile/alexhawkinsmi.bsky.social",
-"https://ci.rochester.mi.us/",
-"https://facebook.com/AlexHawkinsMI",
-"https://instagram.com/alexhawkinsmi",
-"https://linkedin.com/in/alex-hawkins-8223a367",
-"https://oaklandtwpmi.gov/",
-"https://rochesterhills.org/",
-"https://secure.actblue.com/donate/ah4mi55",
-"https://tiktok.com/@alexhawkinsmi",
-"https://x.com/alexhawkinsmi",
-"https://youtube.com/@AlexHawkinsMI"
+{
+"text": "About",
+"href": "https://www.alexhawkins.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ah4mi55"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/ah4mi55"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexhawkins.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.alexhawkins.org/join"
+},
+{
+"text": "Home",
+"href": "https://www.alexhawkins.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.alexhawkins.org/issues"
+},
+{
+"text": "Our District",
+"href": "https://www.alexhawkins.org/district"
+},
+{
+"text": "Staff Login",
+"href": "https://www.alexhawkins.org/dashboard"
+},
+{
+"text": "Visit Official Website",
+"href": "https://oaklandtwpmi.gov/"
+},
+{
+"text": "Visit Official Website",
+"href": "https://www.ci.rochester.mi.us/"
+},
+{
+"text": "Visit Official Website",
+"href": "https://www.rochesterhills.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexhawkins.org/join"
+},
+{
+"text": "[image: Alex Hawkins for State House District 55]",
+"href": "https://www.alexhawkins.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/alexhawkinsmi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexHawkinsMI"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexhawkinsmi"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/alex-hawkins-8223a367"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@alexhawkinsmi"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AlexHawkinsMI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/alexhawkinsmi"
+},
+{
+"text": "hello@alexhawkins.org",
+"href": "mailto:hello@alexhawkins.org"
+}
 ]

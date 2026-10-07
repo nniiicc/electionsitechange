@@ -1,23 +1,98 @@
 [
-"https://facebook.com/profile.php?id=61557905641953",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/sonyaspauldingforbarre",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sonya+Spaulding+for+State+Rep+Events+%E2%80%93+Sonya+Spaulding+for+State+Rep",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sonya+Spaulding+for+State+Rep+Events+%E2%80%93+Sonya+Spaulding+for+State+Rep",
-"https://secure.actblue.com/donate/sonya-for-barre",
-"https://sonyaforbarre.com/",
-"https://sonyaforbarre.com/contact-sonya",
-"https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard",
-"https://sonyaforbarre.com/endorsements",
-"https://sonyaforbarre.com/event/building-bright-futures-forum-old-labor-hall",
-"https://sonyaforbarre.com/event/election-day",
-"https://sonyaforbarre.com/event/empire-of-normality-book-discussion-barre-social-club",
-"https://sonyaforbarre.com/event/hedding-methodist-annual-chicken-pie-supper",
-"https://sonyaforbarre.com/events",
-"https://sonyaforbarre.com/events/list",
-"https://sonyaforbarre.com/events/list?ical=1",
-"https://sonyaforbarre.com/events/list?outlook-ical=1",
-"https://sonyaforbarre.com/get-involved",
-"https://sonyaforbarre.com/priorities",
-"https://sonyaforbarre.com/volunteer"
+{
+"text": "#ago",
+"href": "https://sonyaforbarre.com/events/list/"
+},
+{
+"text": "Building Bright Futures Forum – Old Labor Hall",
+"href": "https://sonyaforbarre.com/event/building-bright-futures-forum-old-labor-hall/"
+},
+{
+"text": "CONTACT SONYA",
+"href": "https://sonyaforbarre.com/contact-sonya/"
+},
+{
+"text": "Candidate Forum Moderated by The Times Argus – Aldrich Public Library",
+"href": "https://sonyaforbarre.com/event/empire-of-normality-book-discussion-barre-social-club/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/sonya-for-barre"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://sonyaforbarre.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://sonyaforbarre.com/events/"
+},
+{
+"text": "Election Day!",
+"href": "https://sonyaforbarre.com/event/election-day/"
+},
+{
+"text": "Export .ics file",
+"href": "https://sonyaforbarre.com/events/list/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://sonyaforbarre.com/events/list/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557905641953"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://sonyaforbarre.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "HOME",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "Hedding Methodist Annual Chicken Pie Supper",
+"href": "https://sonyaforbarre.com/event/hedding-methodist-annual-chicken-pie-supper/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sonyaspauldingforbarre/"
+},
+{
+"text": "List",
+"href": "https://sonyaforbarre.com/events/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sonya+Spaulding+for+State+Rep+Events+%E2%80%93+Sonya+Spaulding+for+State+Rep"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fsonyaforbarre.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Sonya+Spaulding+for+State+Rep+Events+%E2%80%93+Sonya+Spaulding+for+State+Rep"
+},
+{
+"text": "PRIORITIES",
+"href": "https://sonyaforbarre.com/priorities/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sonyaforbarre.com/volunteer/"
+},
+{
+"text": "VOTE",
+"href": "https://sonyaforbarre.com/election-day-is-november-3rd-let-your-voice-be-heard/"
+},
+{
+"text": "[image: Sonya Spaulding for State Rep]",
+"href": "https://sonyaforbarre.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://sonyaforbarre.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

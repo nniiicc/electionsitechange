@@ -1,6 +1,22 @@
 [
-"https://lauratelerski.com/",
-"https://lauratelerski.com/cart",
-"https://lauratelerski.com/endorsements",
-"https://secure.actblue.com/donate/laura-telerski"
+{
+"text": "0",
+"href": "https://www.lauratelerski.com/cart"
+},
+{
+"text": "Donate to Laura",
+"href": "https://secure.actblue.com/donate/laura-telerski"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lauratelerski.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.lauratelerski.com/"
+},
+{
+"text": "Laura Telerski for NH State Senate District 13",
+"href": "https://www.lauratelerski.com/"
+}
 ]

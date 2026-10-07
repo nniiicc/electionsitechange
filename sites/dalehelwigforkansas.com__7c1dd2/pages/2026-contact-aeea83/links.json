@@ -1,16 +1,62 @@
 [
-"https://dalehelwigforkansas.com/",
-"https://dalehelwigforkansas.com/2026-contact",
-"https://dalehelwigforkansas.com/2026-endorsements",
-"https://dalehelwigforkansas.com/2026-events",
-"https://dalehelwigforkansas.com/2026-get-involved",
-"https://dalehelwigforkansas.com/2026-key-issues",
-"https://dalehelwigforkansas.com/TC_Policy",
-"https://dalehelwigforkansas.com/about",
-"https://dalehelwigforkansas.com/cdn-cgi/l/email-protection",
-"https://dalehelwigforkansas.com/overthecattleguard",
-"https://dalehelwigforkansas.com/tc-privacy",
-"https://facebook.com/profile.php?id=61561663505675",
-"https://kdor.ks.gov/apps/voterreg",
-"https://myvoteinfo.voteks.org/VoterView"
+{
+"text": "About",
+"href": "https://dalehelwigforkansas.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.dalehelwigforkansas.com/overthecattleguard"
+},
+{
+"text": "Contact",
+"href": "https://dalehelwigforkansas.com/2026-contact"
+},
+{
+"text": "Endorsements",
+"href": "https://dalehelwigforkansas.com/2026-endorsements"
+},
+{
+"text": "Events",
+"href": "https://dalehelwigforkansas.com/2026-events"
+},
+{
+"text": "Get Involved",
+"href": "https://dalehelwigforkansas.com/2026-get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.dalehelwigforkansas.com/"
+},
+{
+"text": "Key Issues",
+"href": "https://dalehelwigforkansas.com/2026-key-issues"
+},
+{
+"text": "Polling Information",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dalehelwigforkansas.com/tc-privacy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "Terms & Conditions/Privacy Policy",
+"href": "https://www.dalehelwigforkansas.com/TC_Policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.dalehelwigforkansas.com/tc-privacy"
+},
+{
+"text": "[email protected]",
+"href": "https://dalehelwigforkansas.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61561663505675"
+}
 ]

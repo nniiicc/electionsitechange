@@ -1,5 +1,4 @@
-Skip navigation menu
-El Asambleísta Matt Haney está orgulloso de representar el Distrito 17 de la Asamblea de California, el cual abarca el lado del este de San Francisco.
+Skip navigation menu Meet Matt Issues News Events Gallery Español 中文 Donate Español Meet Matt Issues News Events Gallery Español 中文 Donate Español El Asambleísta Matt Haney está orgulloso de representar el Distrito 17 de la Asamblea de California, el cual abarca el lado del este de San Francisco.
 En la asamblea estatal, actualmente el Presidente del Comité sobre Viviendas y Desarrollo de Comunidades.
 Como uno de los pocos inquilinos dentro de la Legislatura, también es el Presidente del Caucus Legislativo de Inquilinos.
 Previamente ha tenido puestos de liderazgo como Líder Asistente del partido mayoritario y Presidente del Comité Selecto sobre Fentanilo, Adicción a los Opiáceos y Prevención de Sobredosis y Recuperación del Centro.
@@ -19,4 +18,5 @@ Abordando la cuestión de reincidencia, el Asambleísta Haney sabe que mantenien
 Pasando varias piezas de legislación que fueron las primeras a través de la nación, la ley titulada “Detener Farmacias Peligrosas” creó regulaciones para farmacias corporativas de cadenas, como CVS y Walgreens, para acabar con el problema a nivel nacional de farmacias de cadena con escasez de personal haciendo errores peligrosos de medicamento.
 De manera similar, el primero de su tipo, el “Fondo de Beneficio de Retiro de Artes Marciales Mixtas” creó el primer Fondo de Pensión de MMA, permitiendo que luchadores de artes marciales mixtas accedan beneficios de retiro, fundados por un porcentaje de las ventas de boletos de los luchadores.
 Representado el Distrito Transgénero de San Francisco, el Asambleísta Haney quería subrayar la historia de transgénero y crear consciencia sobre los ataques sobre esta comunidad.
-Pasando esta legislacion histórica, el Asambleísta Haney creó la primera declaración del Mes de Historia de Transgénero, declarando a agosto como un mes para celebrar la historia de transgénero y comunidades.
+Pasando esta legislacion histórica, el Asambleísta Haney creó la primera declaración del Mes de Historia de Transgénero, declarando a agosto como un mes para celebrar la historia de transgénero y comunidades. info@matthaney.com Matt Haney for Assembly 2024 2370 Market St.
+Suite 103 - 463 San Francisco, CA 94114 Powered by RUN! website builder Paid for by Matt Haney for Assembly 2026 FPPC #1476944 You need to enable JavaScript to run this app.

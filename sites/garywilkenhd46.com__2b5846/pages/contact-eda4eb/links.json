@@ -1,7 +1,30 @@
 [
-"http://secure.actblue.com/donate/garywilkenhd46",
-"https://garywilkenhd46.com/",
-"https://garywilkenhd46.com/contact",
-"https://garywilkenhd46.com/feed",
-"https://garywilkenhd46.com/privacy-policy-2"
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/garywilkenhd46"
+},
+{
+"text": "Gary Wilken",
+"href": "https://garywilkenhd46.com"
+},
+{
+"text": "Get in Touch",
+"href": "https://garywilkenhd46.com/contact"
+},
+{
+"text": "Mail",
+"href": "mailto:info@GaryWilkenHD46.com"
+},
+{
+"text": "RSS Feed",
+"href": "https://www.garywilkenhd46.com/feed"
+},
+{
+"text": "[image: Gary Wilken]",
+"href": "https://garywilkenhd46.com/"
+},
+{
+"text": "privacy policy",
+"href": "https://garywilkenhd46.com/privacy-policy-2/"
+}
 ]

@@ -1,13 +1,66 @@
 [
-"https://joegedeon.com/",
-"https://joegedeon.com/about",
-"https://joegedeon.com/admin/login",
-"https://joegedeon.com/donate",
-"https://joegedeon.com/events",
-"https://joegedeon.com/priorities",
-"https://joegedeon.com/privacy-policy",
-"https://joegedeon.com/terms-conditions",
-"https://joegedeon.com/volunteer",
-"https://repgedeon.com/",
-"https://secure.anedot.com/friends-of-joe-gedeon/donate"
+{
+"text": "About",
+"href": "https://joegedeon.com/about"
+},
+{
+"text": "Admin Sign-In",
+"href": "https://joegedeon.com/admin/login"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-joe-gedeon/donate"
+},
+{
+"text": "Donate",
+"href": "https://joegedeon.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:joe@joegedeon.com"
+},
+{
+"text": "Events",
+"href": "https://joegedeon.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://joegedeon.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://joegedeon.com/"
+},
+{
+"text": "Joe's Rep Page ↗",
+"href": "https://www.repgedeon.com/"
+},
+{
+"text": "Learn More About Joe",
+"href": "https://joegedeon.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://joegedeon.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joegedeon.com/privacy-policy"
+},
+{
+"text": "Support the Campaign",
+"href": "https://joegedeon.com/donate"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://joegedeon.com/terms-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://joegedeon.com/volunteer"
+},
+{
+"text": "[image: Joe Gedeon for State House]",
+"href": "https://joegedeon.com/"
+}
 ]

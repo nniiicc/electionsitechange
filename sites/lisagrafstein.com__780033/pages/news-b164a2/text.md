@@ -1,14 +1,2 @@
-top of page
-NEWS
-SEPTEMBER 25, 2024 | NEWS & OBSERVER
-by Luciana Perez Uribe Guinassi
-SEPTEMBER 13, 2024 | CARDINAL AND PINE
-by Dylan Rhoney
-JUNE 26, 2024 | CARDINAL AND PINE
-Op-Ed: The North Carolina Senate’s only LGBTQ member on the importance of representation in politics
-by Lisa Grafstein
-JUNE 24, 2024 | NC NEWSLINE
-by Ahmed Jallow
-JUNE 12, 2023 | NC NEWSLINE
-by Clayton Henkel
-bottom of page
+top of page DONATE HOME ABOUT LISA ISSUES NEWS GET INVOLVED More Use tab to navigate through the menu items.
+NEWS SEPTEMBER 25, 2024 | NEWS & OBSERVER Democrat Lisa Grafstein, candidate for Senate District 13 in NC, answers our questions by Luciana Perez Uribe Guinassi SEPTEMBER 13, 2024 | CARDINAL AND PINE NC Republicans vote to expand private school voucher program by $463 million, but refuse to raise teacher pay by Dylan Rhoney JUNE 26, 2024 | CARDINAL AND PINE Op-Ed: The North Carolina Senate’s only LGBTQ member on the importance of representation in politics by Lisa Grafstein JUNE 24, 2024 | NC NEWSLINE On anniversary of Dobbs ruling, NC Senate Dems renew calls to protect contraception rights by Ahmed Jallow JUNE 12, 2023 | NC NEWSLINE Senator Lisa Grafstein shares her worries about proposed election law changes by Clayton Henkel QUICK NAVIGATION Home About Issues News Get Involved STAY CONNECTED DONATE Paid for by Lisa Grafstein Campaign PO Box 10541 Raleigh, NC 27605 bottom of page

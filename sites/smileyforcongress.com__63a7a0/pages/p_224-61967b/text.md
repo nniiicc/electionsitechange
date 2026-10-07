@@ -1,0 +1,4 @@
+Skip to content Home Information Platform Issues Endorsements/Voter Guides My Opponent In the News FAQ Gallery Resources Join Heather Donate About Our District Privacy Policy Terms and Conditions Log Cabin Republicans Jun 5, 2024 — by Ron in Article , Event Log Cabin Republicans of Metro Detroit is hosting another mixer on Wednesday!
+Make sure to RSVP if you’ll be around Birmingham on Wednesday.
+Heather Smiley will be speaking about how we can give the Dems a race in Michigan’s 6th Congressional District. https://t.co/nYK6awkNNL pic.twitter.com/hXn5ydcA0p — MichiganRepublicanPrimary (@MI_GOP_Primary) June 3, 2024 ← Previous: Thank you Pete Hoekstra Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Paid for by the CTE Heather Smiley P.O.
+Box 2093 Riverview, Michigan 48193

@@ -1,5 +1,4 @@
-Masuda Announces Town Hall Tour & Challenges McClintock to Debate
-“We’re taking this campaign back on the road to every corner of the district.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Masuda Announces Town Hall Tour & Challenges McClintock to Debate Jul 31 Written By Wyatt Nordvik “We’re taking this campaign back on the road to every corner of the district.
 The doors are open to anyone, regardless of party to come and ask questions.
 I’ve also sent a direct invite to Tom McClintock.
 Let's debate.
@@ -12,5 +11,6 @@ However, he has not had a public appearance with his current constituents in CA5
 His recent town hall in Alpine County was done using taxpayer dollars and a career politician should not be making mistakes like that.
 I don't think that's a lot to ask.
 This job is a public trust.
-The people who fund it and live under it have earned a couple of hours of your time and straight answers."
-Click here for more information about the Summer Town Hall Series.
+The people who fund it and live under it have earned a couple of hours of your time and straight answers." Click here for more information about the Summer Town Hall Series.
+Wyatt Nordvik Previous Previous Where is the Representative who was elected to represent and protect Yosemite National Park?
+Next Next Masuda calls out mcclintock’s taxpayer funded town hall Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

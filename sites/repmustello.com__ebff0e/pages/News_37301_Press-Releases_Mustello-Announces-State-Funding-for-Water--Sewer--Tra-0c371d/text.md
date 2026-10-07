@@ -1,31 +1,18 @@
-Mustello Announces State Funding for Water, Sewer, Transportation Projects in Butler County
-January 20, 2026
-BUTLER COUNTY - Rep.
+PA State Rep.
+Marci Mustello Serving PA's 11th Legislative District Subscribe Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care & Assisted Living Guide REAL ID Contact Mustello Announces State Funding for Water, Sewer, Transportation Projects in Butler County January 20, 2026 BUTLER COUNTY - Rep.
 Marci Mustello (R-Butler) announced today nearly $1.4 million in state funding has been approved for local water, sewer and transportation projects through the Pennsylvania Small Water and Sewer Program and the Multimodal Transportation Fund.
 “These grants help communities address aging infrastructure and improve public safety while reducing costs for local taxpayers,” Mustello said.
-“Whether it’s upgrading sewer systems or repairing roads, these projects help make sure residents have dependable services and safer streets every day.”
-The following projects received funding:
-• Saxonburg Area Authority:
-$489,558 to replace two remaining vitrified clay sewer lines on Carol Drive and Beatty Drive with PVC pipe.
-The project will reduce stormwater infiltration, extend the life of the wastewater system and free up capacity equivalent to more than 100 homes.
-• Clearfield Township:
-$500,000 to reconstruct 2.6 miles of Clearfield Road.
-The project includes replacing culverts and inlets, resurfacing the road, and improving drainage to create a safer, more reliable roadway.
-• Oakland Township:
-$400,000 for road enhancement and preservation projects.
+“Whether it’s upgrading sewer systems or repairing roads, these projects help make sure residents have dependable services and safer streets every day.” The following projects received funding: • Saxonburg Area Authority: $489,558 to replace two remaining vitrified clay sewer lines on Carol Drive and Beatty Drive with PVC pipe.
+The project will reduce stormwater infiltration, extend the life of the wastewater system and free up capacity equivalent to more than 100 homes. • Clearfield Township: $500,000 to reconstruct 2.6 miles of Clearfield Road.
+The project includes replacing culverts and inlets, resurfacing the road, and improving drainage to create a safer, more reliable roadway. • Oakland Township: $400,000 for road enhancement and preservation projects.
 The work will improve road surfaces, address drainage issues and enhance travel safety for residents.
 The Pennsylvania Small Water and Sewer Program awards grants to municipalities and municipal authorities for water, sewer, storm water, and flood control projects with a cost of not less than $30,000 and not more than $500,000.
 Funds may be used toward construction, improvement, expansion, or rehabilitation or repair of a water supply system, sanitary sewer system, storm sewer system, or flood control projects.
 The Multimodal Transportation Fund provides grants to encourage economic development and ensure a safe and reliable system of transportation is available to the residents of the Commonwealth.
 Funds may be used for the development, rehabilitation and enhancement of transportation assets to existing communities, streetscape, lighting, sidewalk enhancement, pedestrian safety, connectivity of transportation assets, and transit-oriented development.
 The grants were approved by the Commonwealth Financing Authority, which administers both the Pennsylvania Small Water and Sewer Program and the Multimodal Transportation Fund to support infrastructure, recreation and community development projects across Pennsylvania.
-Representative Marci Mustello
-11th Legislative District
-Pennsylvania House of Representatives
-Media Contact: Rick Leiner
-717-260-6437 (office), 717-497-8478 (cell)
-Rleiner@pahousegop.com
-RepMustello.com / Facebook.com/RepMustello
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+Representative Marci Mustello 11th Legislative District Pennsylvania House of Representatives Media Contact: Rick Leiner 717-260-6437 (office), 717-497-8478 (cell) Rleiner@pahousegop.com RepMustello.com / Facebook.com/RepMustello Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations BUTLER 100 Barracks Road Butler, PA 16001 724-283-5852 1-855-282-0613 Mon-Fri 9 a.m. to 4:30 p.m.
+CAPITOL 147A East Wing PO Box 202011 Harrisburg, PA 17120-2011 717-787-7686 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Press Releases Video Livestreams Veteran Luncheon Photos Events 11th District District Map Resources Citizens Access Portal State Government Links Property Tax Rent/Rebates PennDOT Forms LiHeap Information Senior Care &amp; Assisted Living Guide REAL ID Contact

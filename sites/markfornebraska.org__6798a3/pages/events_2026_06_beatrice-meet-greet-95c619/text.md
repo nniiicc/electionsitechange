@@ -1,9 +1,1 @@
-Back to All Events
-Here’s your chance to Meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot
-Previous
-Previous
-June 26
-Chester Petition Signing / Meet & Greet
-Next
-Next
-June 28
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Beatrice Meet & Greet Saturday, June 27, 2026 11:30 AM 1:30 PM Chautauqua Park 1098 Grable Avenue Beatrice, Nebraska, 68310 (map) Google Calendar ICS Here’s your chance to Meet Mark Cohen, Independent Candidate for Nebraska CD3, and sign the petition to get him on the ballot Previous Previous June 26 Chester Petition Signing / Meet & Greet Next Next June 28 Fairmont Meet & Greet Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

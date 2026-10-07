@@ -1,5 +1,3 @@
-Mark Rendón Endorsement Interview with the Oakland Education Association
-VIDEO
-September 8, 2026
-Mark Rendón was interviewed by his former union, the Oakland Education Association, as part of their formal endorsement process.
+0 Skip to Content About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Open Menu Close Menu About + FAQs Priorities News Endorsements Contact Volunteer Donate Mark Rendón Endorsement Interview with the Oakland Education Association Sep 8 Written By Sabina Ali VIDEO September 8, 2026 Mark Rendón was interviewed by his former union, the Oakland Education Association, as part of their formal endorsement process.
 Learn more about Mark's stances on education by tuning into this interview!
+Sabina Ali Previous Previous The Richmond Progressive Alliance Endorses Mark Rendón for State Assembly in AD-14 Next Next Mark Rendón’s Campaign for State Assembly Gains Momentum Amidst Steady Stream of Endorsements Mark Rendón for AD14 Contact us at vote@markrendon4ad14.com Paid for by Mark Rendón for Assembly 2026

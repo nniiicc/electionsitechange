@@ -1,52 +1,6 @@
-Endorsements
-Organizations
-AFL-CIO Florida
-Democratic Veterans Caucus of Florida
-Elect Democratic Women
-Emilys List
-New Politics
-Veterans for responsible leadership
-VoteVEts
-West Central Florida Labor Council, AFL-CIO
-Leaders
-Skip navigation menu
-Endorsements
-Organizations
-AFL-CIO Florida
-Democratic Veterans Caucus of Florida
-Elect Democratic Women
-Emilys List
-New Politics
-Veterans for responsible leadership
-VoteVEts
-West Central Florida Labor Council, AFL-CIO
-Leaders
-Joe Ayoub
-Mayor of Safety Harbor
-Pete Buttigieg
-Former Secretary of Transportation
-Kathy Castor
-Representative, Fl-14
-Katherine Clark
-Representative, MA-05 & Democratic Whip
-Jason Crow
-Representative, CO-06
-Jim Davis
-Former Representative
-Ben Diamond
-Former Member of the Florida House of Representatives
-Whitney Fox
-2024 Democratic candidate for FL-13
-Lois Frankel
-Representative, FL-22
-Mark Kelly
-U.S.
-Senator, AZ
-Ted Lieu
-Representative, CA-36
-Pat Ryan
-Representative, NY-19
-Alex Sink
-Former Chief Financial Officer of Florida
-Abigail Spanberger
-governor of virginia
+Skip navigation menu Home About Endorsements Issues News Events Store Español Donate Home About Endorsements Issues News Events Store Español Donate Endorsements Organizations AFL-CIO Florida Democratic Veterans Caucus of Florida Elect Democratic Women Emilys List New Politics Veterans for responsible leadership VoteVEts West Central Florida Labor Council, AFL-CIO Leaders Joe Ayoub Mayor of Safety Harbor Pete Buttigieg Former Secretary of Transportation Kathy Castor Representative, Fl-14 Katherine Clark Representative, MA-05 & Democratic Whip Jason Crow Representative, CO-06 Jim Davis Former Representative Ben Diamond Former Member of the Florida House of Representatives Whitney Fox 2024 Democratic candidate for FL-13 Lois Frankel Representative, FL-22 Mark Kelly U.S.
+Senator, AZ Ted Lieu Representative, CA-36 Pat Ryan Representative, NY-19 Alex Sink Former Chief Financial Officer of Florida Abigail Spanberger governor of virginia Privacy Policy Terms Leela Gray is a former member of the United States Army and Army Reserve.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or Department of Defense.
+P.O.
+Box 40162 St.
+Petersburg, FL 33743 outreach@leelagray.com PAID FOR BY LEELA J GRAY FOR CONGRESS INC You need to enable JavaScript to run this app.

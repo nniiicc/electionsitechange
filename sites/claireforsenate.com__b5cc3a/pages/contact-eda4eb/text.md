@@ -1,6 +1,3 @@
-Contact
-I’d love to hear from you!
+Toggle navigation Contribute Volunteer About About Claire Photos Accomplishments Community Investment Early Education Sexuality Health Education Issues Affordability Education Environment and Sustainability Gun Responsibility Healthcare and Reproductive Rights Transportation and Taxpayer Accountability Endorsements Join Volunteer Endorse Contact Contact I’d love to hear from you!
 If you have questions or would like to get involved please contact us.
-Claire for Senate
-31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003
-info@claireforsenate.com
+Claire for Senate 31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003 info@claireforsenate.com Paid for by Claire for Senate 31811 Pacific Hwy S, Ste B #288 | Federal Way, WA 98003 info@claireforsenate.com

@@ -1,6 +1,4 @@
-Looking Forward to 2022
-Where did 2021 go?!?
-Well, here we are just days away from ushering in 2022 ... where did 2021 go??
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Looking Forward to 2022 Trish Ladner • December 29, 2021 Where did 2021 go?!? ﻿ Well, here we are just days away from ushering in 2022 ... where did 2021 go??
 As I look back over the last 12 months, it has been a year of learning and growth.
 I have met so many amazing people across South Dakota and the United States, gaining knowledge from them along the way.
 As part of that learning experience, I have had the opportunity to champion and support bills that were important to those living in District 30.
@@ -28,4 +26,4 @@ It was a very productive meeting and before it ended, the group decided to form 
 Qusi noted that it is easier to adjust existing programs than to create new ones.
 Recognizing that there is strength in numbers, the group is hoping to bring in other counties such as Fall River, Meade, and Lawrence counties (to name a few), to work together and participate in finding solutions.
 There were many great ideas and strategic conversations around the table, and I am looking forward to working with this motivated and focused group of professionals to work toward a plan and solution to the lack of housing that we are experiencing in our communities.
-As we move forward to 2022, I’d like to wish you and your family a wonderful New Year filled with good health, and prosperity in every area of your life!!
+As we move forward to 2022, I’d like to wish you and your family a wonderful New Year filled with good health, and prosperity in every area of your life!! < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

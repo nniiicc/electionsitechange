@@ -1,16 +1,66 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sarahfornysenate",
-"https://instagram.com/sarahfornysenate",
-"https://sarahfornysenate.com/",
-"https://sarahfornysenate.com/about",
-"https://sarahfornysenate.com/contact",
-"https://sarahfornysenate.com/issues",
-"https://sarahfornysenate.com/volunteer",
-"https://secure.actblue.com/donate/sarahforsd44",
-"https://secure.actblue.com/donate/sarahforsd44?amount=10",
-"https://secure.actblue.com/donate/sarahforsd44?amount=100",
-"https://secure.actblue.com/donate/sarahforsd44?amount=250",
-"https://secure.actblue.com/donate/sarahforsd44?amount=44",
-"https://secure.actblue.com/donate/sarahforsd44?amount=75"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/sarahforsd44?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sarahforsd44?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/sarahforsd44?amount=250"
+},
+{
+"text": "$44",
+"href": "https://secure.actblue.com/donate/sarahforsd44?amount=44"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/sarahforsd44?amount=75"
+},
+{
+"text": "About",
+"href": "https://www.sarahfornysenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.sarahfornysenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarahforsd44"
+},
+{
+"text": "Issues",
+"href": "https://www.sarahfornysenate.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/sarahforsd44"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sarahfornysenate.com/volunteer"
+},
+{
+"text": "[image: Sarah Rogerson for NY Senate - Stronger Together!]",
+"href": "https://www.sarahfornysenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sarahfornysenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sarahfornysenate"
+},
+{
+"text": "info@sarahfornysenate.com",
+"href": "mailto:info@sarahfornysenate.com"
+}
 ]

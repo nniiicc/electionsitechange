@@ -1,10 +1,42 @@
 [
-"https://facebook.com/teganforok",
-"https://instagram.com/teganforok",
-"https://secure.actblue.com/donate/teganfoundingdonor",
-"https://teganforok.com/",
-"https://teganforok.com/meet-tegan",
-"https://teganforok.com/platform",
-"https://teganforok.com/volunteer",
-"https://threads.com/@teganforok"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/teganfoundingdonor"
+},
+{
+"text": "Get Invovled",
+"href": "https://www.teganforok.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.teganforok.com"
+},
+{
+"text": "Meet Tegan",
+"href": "https://www.teganforok.com/meet-tegan"
+},
+{
+"text": "Platform",
+"href": "https://www.teganforok.com/platform"
+},
+{
+"text": "[image: 2026 Logo (1) Transparent.png]",
+"href": "https://www.teganforok.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/teganforok"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/teganforok/"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.threads.com/@teganforok"
+},
+{
+"text": "info@teganforok.com",
+"href": "mailto:info@teganforok.com"
+}
 ]

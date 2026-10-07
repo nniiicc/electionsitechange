@@ -1,7 +1,22 @@
 [
-"https://alineontheballot.com/",
-"https://alineontheballot.com/about",
-"https://alineontheballot.com/cart",
-"https://alineontheballot.com/contact",
-"https://alineontheballot.com/home"
+{
+"text": "0",
+"href": "https://www.alineontheballot.com/cart"
+},
+{
+"text": "A Line on the Ballot",
+"href": "https://www.alineontheballot.com/"
+},
+{
+"text": "About",
+"href": "https://www.alineontheballot.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.alineontheballot.com/contact"
+},
+{
+"text": "This site is maintained by Jami Woodman, P.O. Box 99, Dodson, Montana, 59524",
+"href": "https://www.alineontheballot.com/home"
+}
 ]

@@ -1,5 +1,30 @@
 [
-"https://secure.anedot.com/committee-to-elect-steve-carra/donate",
-"https://stevecarra.com/blog",
-"https://stevecarra.com/privacy-policy"
+{
+"text": "Blog",
+"href": "https://www.stevecarra.com/blog"
+},
+{
+"text": "Cookies Settings",
+"href": "https://www.stevecarra.com/privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-steve-carra/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stevecarra.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.stevecarra.com/privacy-policy"
+},
+{
+"text": "https://www.stevecarra.com/privacy-policy",
+"href": "https://www.stevecarra.com/privacy-policy"
+},
+{
+"text": "terms of use",
+"href": "https://www.stevecarra.com/privacy-policy"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "The official website for State Representative Robin Bartleman, District 103.",
  "final_url": "https://robinbartleman.com/fighting-for-our-community",
- "paid_for_by": null,
+ "fingerprint": "84a3c6bc8adaf18b383bee374bab03103bc14ae7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Robin Bartleman | State Representative, District 103",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023"
+ ]
 }

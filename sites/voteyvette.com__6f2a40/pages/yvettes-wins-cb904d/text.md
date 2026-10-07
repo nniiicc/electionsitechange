@@ -1,34 +1,11 @@
-In the 119th Congress, Congresswoman Clarke serves on one House committee:
-- Committee on Energy and Commerce
-- Oversight and Investigations, Ranking Member
-- Commerce, Manufacturing, and Trade
-- Communications and Technology
-Congresswoman Clarke also serves on several House caucuses, including:
-- Congressional Black Caucus, Chair
-- Congressional Caucus on Smart Cities, Co-Chair
-- Congressional Caucus on Multicultural Media, Co-Chair
-- Congressional Caucus on Black Women & Girls, Co-Chair
-- Congressional Caribbean Caucus, Co-Chair
-- Congressional Haiti Caucus, Co-Chair
-- Congressional Progressive Caucus
-- Congressional Renters Caucus
-Yvette has been a successful legislator, passing meaningful legislation to improve the lives of both her constituents in Brooklyn and families across the country.
-Homeland Security Committee Reconciliation bill:
-In the Homeland Security Committee Reconciliation bill, Yvette passed two amendments.
-- The first amendment provides a $75 million investment in CISA’s CyberSentry program to ensure that CISA is better equipped to detect vulnerabilities and identify malicious activity.
-- The second amendment adds resources to CISA’s cyber education and training programs, including investing in existing partnerships with HBCU’s, MSI’s, and community colleges in order to tap into even more talent and ensure that our nation’s cybersecurity workforce can reflect the diversity of our country.
-The Infrastructure Investment and Jobs Act, also known as the Bipartisan Infrastructure Framework (BIF):
-Many of Yvette’s bills and amendments were included in the final version of the BIF, which was signed into law in November 2021:
-- $42.5 billion for the Broadband Equity, Access, and Deployment program and $2 billion in rural broadband investments in order to improve access to telehealth services for rural and underserved communities
-- The Make PPE in America Act to rebuild the domestic PPE supply chain by incentivizing its domestic production
-- An extension of the deadline for funds to get paid out to healthcare providers impacted by COVID-19
-- $1 billion in funding to establish a new DHS grant program developed as part of Yvette’s State and Local Cybersecurity Improvement Act, which will provide states and localities with more resources to combat cyberattacks
-- A provision requiring manufacturers of single-dose container or single-use package drugs payable under Medicare Part B to provide a rebate to the government for any discarded portion of that drug
-- A moratorium on the implementation of an AKS rule providing safe harbor protection for prescription drug rebates
-In addition, Yvette was the primary sponsor of these bills, which have since become enacted into law.
-- The Synthetic Opioid Exposure Prevention and Training Act protects U.S.
+DONATE Menu Close Toggle navigation DONATE About Yvette About Yvette Yvette’s Wins Issues Community Resources Get Involved Endorsements Press Yvette’s Wins In the 119th Congress, Congresswoman Clarke serves on one House committee: Committee on Energy and Commerce Oversight and Investigations, Ranking Member Commerce, Manufacturing, and Trade Communications and Technology Congresswoman Clarke also serves on several House caucuses, including: Congressional Black Caucus, Chair Congressional Caucus on Smart Cities, Co-Chair Congressional Caucus on Multicultural Media, Co-Chair Congressional Caucus on Black Women & Girls, Co-Chair Congressional Caribbean Caucus, Co-Chair Congressional Haiti Caucus, Co-Chair Congressional Progressive Caucus Congressional Renters Caucus Yvette has been a successful legislator, passing meaningful legislation to improve the lives of both her constituents in Brooklyn and families across the country.
+Homeland Security Committee Reconciliation bill: In the Homeland Security Committee Reconciliation bill, Yvette passed two amendments.
+The first amendment provides a $75 million investment in CISA’s CyberSentry program to ensure that CISA is better equipped to detect vulnerabilities and identify malicious activity.
+The second amendment adds resources to CISA’s cyber education and training programs, including investing in existing partnerships with HBCU’s, MSI’s, and community colleges in order to tap into even more talent and ensure that our nation’s cybersecurity workforce can reflect the diversity of our country.
+The Infrastructure Investment and Jobs Act, also known as the Bipartisan Infrastructure Framework (BIF): Many of Yvette’s bills and amendments were included in the final version of the BIF, which was signed into law in November 2021: $42.5 billion for the Broadband Equity, Access, and Deployment program and $2 billion in rural broadband investments in order to improve access to telehealth services for rural and underserved communities The Make PPE in America Act to rebuild the domestic PPE supply chain by incentivizing its domestic production An extension of the deadline for funds to get paid out to healthcare providers impacted by COVID-19 $1 billion in funding to establish a new DHS grant program developed as part of Yvette’s State and Local Cybersecurity Improvement Act, which will provide states and localities with more resources to combat cyberattacks A provision requiring manufacturers of single-dose container or single-use package drugs payable under Medicare Part B to provide a rebate to the government for any discarded portion of that drug A moratorium on the implementation of an AKS rule providing safe harbor protection for prescription drug rebates In addition, Yvette was the primary sponsor of these bills, which have since become enacted into law.
+The Synthetic Opioid Exposure Prevention and Training Act protects U.S.
 Customs and Border Protection officers, agents, other personnel, and canines against potential synthetic opioid exposure.
-- An amendment to title XI of the Social Security Act to require states to include behavioral health indicators in their annual reports on the quality of care under Medicaid, beginning in 2024.
-- The U.S.
+An amendment to title XI of the Social Security Act to require states to include behavioral health indicators in their annual reports on the quality of care under Medicaid, beginning in 2024.
+The U.S.
 Virgin Islands Small Business Contracting Assistance Act helps to empower small businesses in the Virgin Islands through credits, contracting incentives, and mentor-protege relationships.
-An amendment to the Small Business Act to require an annual report of contracts awarded by federal agencies in order to gather more accurate data about small businesses owned by women, service-disabeled veterans, and more
+An amendment to the Small Business Act to require an annual report of contracts awarded by federal agencies in order to gather more accurate data about small businesses owned by women, service-disabeled veterans, and more Paid for by Clarke for Congress Built by Veracity Media

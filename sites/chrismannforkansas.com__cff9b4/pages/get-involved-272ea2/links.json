@@ -1,14 +1,58 @@
 [
-"https://act.chrismannforkansas.com/a/mann-yardsign",
-"https://act.chrismannforkansas.com/a/volunteer-team-mann",
-"https://chrismannforkansas.com/",
-"https://chrismannforkansas.com/get-involved",
-"https://chrismannforkansas.com/meet-chris",
-"https://chrismannforkansas.com/news",
-"https://chrismannforkansas.com/priorities",
-"https://chrismannforkansas.com/privacy-policy",
-"https://facebook.com/ChrisMannKS",
-"https://instagram.com/chrismannks",
-"https://secure.actblue.com/donate/cmwebsite",
-"https://x.com/ChrisMannKS"
+{
+"text": "Chris Mann for Kansas [image: Chris Mann for Kansas]",
+"href": "https://chrismannforkansas.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cmwebsite"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ChrisMannKS/"
+},
+{
+"text": "Get Involved",
+"href": "https://chrismannforkansas.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chrismannks/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrismannforkansas.com/meet-chris/"
+},
+{
+"text": "News",
+"href": "https://chrismannforkansas.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://chrismannforkansas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrismannforkansas.com/privacy-policy"
+},
+{
+"text": "X",
+"href": "https://x.com/ChrisMannKS"
+},
+{
+"text": "[image: Chris Mann for Kansas]",
+"href": "https://chrismannforkansas.com/"
+},
+{
+"text": "[image] Get Involved Donate",
+"href": "https://secure.actblue.com/donate/cmwebsite"
+},
+{
+"text": "[image] Get Involved Request a Yard Sign",
+"href": "https://act.chrismannforkansas.com/a/mann-yardsign"
+},
+{
+"text": "[image] Get Involved Volunteer",
+"href": "https://act.chrismannforkansas.com/a/volunteer-team-mann"
+}
 ]

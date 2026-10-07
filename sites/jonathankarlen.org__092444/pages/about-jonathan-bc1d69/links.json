@@ -1,11 +1,42 @@
 [
-"https://cart/",
-"https://jonathankarlen.org/",
-"https://jonathankarlen.org/Home",
-"https://jonathankarlen.org/about-jonathan",
-"https://jonathankarlen.org/contact-jonathan",
-"https://jonathankarlen.org/housedistrict98",
-"https://jonathankarlen.org/legislative-accomplishments",
-"https://jonathankarlen.org/news",
-"https://secure.actblue.com/donate/jonathan-karlen-for-montana-1"
+{
+"text": "About Jonathan",
+"href": "https://jonathankarlen.org/about-jonathan"
+},
+{
+"text": "Contact",
+"href": "https://jonathankarlen.org/contact-jonathan"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jonathan-karlen-for-montana-1"
+},
+{
+"text": "District Info",
+"href": "https://jonathankarlen.org/housedistrict98"
+},
+{
+"text": "District Information",
+"href": "https://jonathankarlen.org/housedistrict98"
+},
+{
+"text": "Home",
+"href": "https://jonathankarlen.org/Home"
+},
+{
+"text": "In the News",
+"href": "https://jonathankarlen.org/news"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://jonathankarlen.org/legislative-accomplishments"
+},
+{
+"text": "[image: Rep. Jonathan Karlen]",
+"href": "https://jonathankarlen.org"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

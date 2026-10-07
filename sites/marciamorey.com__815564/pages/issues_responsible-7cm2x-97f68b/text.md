@@ -1,5 +1,4 @@
-Public Safety & Gun Laws
-As a former judge, I presided over thousands of gun violence cases in Durham.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Public Safety & Gun Laws Aug 5 Written By Mary Lee As a former judge, I presided over thousands of gun violence cases in Durham.
 All were senseless and tragic.
 Public safety is diminished with every incidence of a shooting and death.
 Today there are more guns in this country than there are people.
@@ -24,3 +23,4 @@ With the second Trump administration, we now face a new threat to safety in our 
 Federal immigration agents are abducting our neighbors, smashing car windows, and wreaking havoc in our streets.
 Republicans in the General Assembly passed legislation forcing local law enforcement to cooperate with ICE agents.
 Many local law enforcement officials have told us that they do not want to erode the trust within their community by acting as quasi-ICE agents.
+Mary Lee Previous Previous Healthcare & Reproductive Freedom Next Next Protecting Democracy: Voting Rights & Fair Elections Marcia Morey Campaign PO Box 61030 Durham, NC 27715 campaign@marciamorey.com Follow Facebook Instagram X

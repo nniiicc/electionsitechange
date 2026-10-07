@@ -1,123 +1,18 @@
-TRUSTED LEADERS AND ORGANIZATIONS SUPPORT DONAVAN BECAUSE HE HAS OUR BACK
-- BERNIE SANDERS U.S.
-Senator, Vermont
-- RASHIDA TLAIB U.S.
-Congresswoman, MI-12
-- Steven Horsford U.S.
+0 Skip to Content Meet Donavan Priorities Endorsements Events News Get In Touch DONATE Open Menu Close Menu Meet Donavan Priorities Endorsements Events News Get In Touch DONATE Open Menu Close Menu Meet Donavan Priorities Endorsements Events News Get In Touch DONATE TRUSTED LEADERS AND ORGANIZATIONS SUPPORT DONAVAN BECAUSE HE HAS OUR BACK BERNIE SANDERS U.S.
+Senator, Vermont RASHIDA TLAIB U.S.
+Congresswoman, MI-12 Steven Horsford U.S.
 Congressman, NV-04.
-Chair Emeritus of the Congressional Black Caucus
-- Ayanna Pressley U.S.
-Congresswoman, MA-07
-- Ilhan Omar U.S.
-Congresswoman, MN-05
-- Summer Lee U.S.
-Congresswoman, PA-12
-- Lateefah Simon U.S.
-Congresswoman, CA-12
-- BRENDA LAWRENCE Former U.S.
-Congresswoman
-- ANDY LEVIN Former U.S.
-Congressman
-- Abdul El-Sayed Candidate for US Senate
-- Dr.
-Adam Hamway Congressional Candidate NJ-12
-- Melat Kiros Congressional Candidate CO-01
-- Chris Rabb Congressional Candidate (PA-03)
-- GARLIN GILCHRIST Lt.
-Governor
-- WARREN EVANS Wayne County Executive
-- Eric Sabree Wayne County Treasurer
-- DARRIN CAMILLERI State Senator
-- MARY CAVANAGH State Senator
-- STEPHANIE CHANG State Senator
-- John Cherry State Senator
-- Erika Geiss State Senator
-- Kevin Hertel State Senator
-- Jeff Irwin State Senator
-- VERONICA KLINEFELT State Senator
-- SYLVIA SANTANA State Senator
-- PAUL WOJNO State Senator
-- STEPHANIE YOUNG Detroit Caucus Chair & State Representative
-- Amos O'Neal Chair of the Michigan Legislative Black Caucus and State Representative
-- ERIN BYRNES State Representative
-- Brenda Carter State Representative
-- Jennifer Conlin State Representative
-- KIMBERLY EDWARDS State Representative
-- ALABAS FARHAT State Representative
-- PETER HERZBERG State Representative
-- Jason Hoskins State Representative
-- MATT KOLESZAR State Representative
-- TULLIO LIBERATI State Representative
-- Jasper Martus State Representative
-- MIKE MCFALL State Representative
-- JASON MORGAN State Representative
-- TONYA MYERS PHILLIPS State Representative
-- Cynthia Neeley State Representative
-- VERONICA PAIZ State Representative
-- LAURIE POHUTSKY State Representative
-- CARRIE RHEINGANS State Representative
-- DYLAN WEGELA State Representative
-- Regina Weiss State Representative
-- Jimmie Wilson, Jr.
-State Representative
-- ABRAHAM AIYASH Former State Representative
-- JAIME CHURCHES Former State Representative
-- Doug Geiss Former State Representative
-- LESLIE LOVE Former State Representative
-- ALBERTA TINSLEY-TALABI Former State Representative
-- Sam Baydoun Wayne County Commissioner
-- ALISHA BELL Wayne County Commission Chair
-- ALEX GARZA Wayne County Commissioner
-- Tim Killeen Wayne County Commissioner
-- DAVID KNEZEK Wayne County Commissioner
-- Angelique Mayberry Peterson Wayne County Commissioner
-- Martha Scott Wayne County Commissioner
-- ALLEN WILSON Wayne County Commissioner
-- ILONA VARGA Former Wayne County Commissioner
-- KELLY STEC Wyandotte Mayor Pro Tempore
-- GARY SCHLACK Allen Park City Councilman
-- Abdullah Hammoud Dearborn Mayor
-- Mo Baydoun Dearborn Heights Mayor
-- NANCY BRYER Dearborn Heights City Councilwoman
-- Denise Malinowski Maxwell Dearborn Heights City Councilmember
-- Mary Beth Beltowski President of the Dearborn Heights School Board
-- Latanya Gater Former Vice Chairperson of the Dearborn Heights School Board (D7)
-- James Tate Detroit City Council President
-- Latisha Johnson Detroit City Councilwoman
-- Denzel McCampbell Detroit City Councilman
-- Renata Miller Detroit City Councilwoman
-- Gabriela Santiago-Romero Detroit City Councilwoman
-- Lamar Tidwell Ecorse Mayor
-- Rodger Parker Sr Ecorse City Councilmember
-- DeVonte Sherard Former Ecorse Councilmember
-- Adam Alharbi Hamtramck Mayor
-- Valerie Kindle Harper Woods Mayor
-- Ivery Toussant, Jr Harper Woods City Councilman
-- Glenda McDonald Highland Park Mayor
-- Jamal Thomas Highland Park Council President
-- Sharmain Robinson Highland Park Council President Pro Tem
-- Temeko Manica Highland Park Councilmember
-- Kallela Martin Highland Park Councilmember
-- Khursheed Ash-Shafii Highland Park Councilmember
-- Jason Behr Lincoln Park City Councilman
-- William Campbell River Rouge Mayor
-- Robert McCraight Romulus Mayor
-- David Jones Romulus City Councilman
-- Tina Talley Romulus City Councilwoman
-- Porsche Laster Romulus School Board President
-- Paris McCarthy Romulus School Board Vice President
-- VICTORIA ARAJ Southgate City Councilwoman
-- PRISCILLA AYRES-REISS Southgate City Councilwoman
-- Korey Morris Taylor School Board Vice President
-- John Rhaesa Wayne Mayor
-- CHRIS CALVIN Wyandotte City Councilman
-- ADRIANA CERULLA Wyandotte City Councilwoman
-- MELANDIE HINES Wayne Westland School Board
-- Shannon Rochon Wayne-Westland School Board Member
-- Rev.
-Keith Whitney
-- Rev.
+Chair Emeritus of the Congressional Black Caucus Ayanna Pressley U.S.
+Congresswoman, MA-07 Ilhan Omar U.S.
+Congresswoman, MN-05 Summer Lee U.S.
+Congresswoman, PA-12 Lateefah Simon U.S.
+Congresswoman, CA-12 BRENDA LAWRENCE Former U.S.
+Congresswoman ANDY LEVIN Former U.S.
+Congressman Abdul El-Sayed Candidate for US Senate Dr.
+Adam Hamway Congressional Candidate NJ-12 Melat Kiros Congressional Candidate CO-01 Chris Rabb Congressional Candidate (PA-03) GARLIN GILCHRIST Lt.
+Governor WARREN EVANS Wayne County Executive Eric Sabree Wayne County Treasurer DARRIN CAMILLERI State Senator MARY CAVANAGH State Senator STEPHANIE CHANG State Senator John Cherry State Senator Erika Geiss State Senator Kevin Hertel State Senator Jeff Irwin State Senator VERONICA KLINEFELT State Senator SYLVIA SANTANA State Senator PAUL WOJNO State Senator STEPHANIE YOUNG Detroit Caucus Chair & State Representative Amos O'Neal Chair of the Michigan Legislative Black Caucus and State Representative ERIN BYRNES State Representative Brenda Carter State Representative Jennifer Conlin State Representative KIMBERLY EDWARDS State Representative ALABAS FARHAT State Representative PETER HERZBERG State Representative Jason Hoskins State Representative MATT KOLESZAR State Representative TULLIO LIBERATI State Representative Jasper Martus State Representative MIKE MCFALL State Representative JASON MORGAN State Representative TONYA MYERS PHILLIPS State Representative Cynthia Neeley State Representative VERONICA PAIZ State Representative LAURIE POHUTSKY State Representative CARRIE RHEINGANS State Representative DYLAN WEGELA State Representative Regina Weiss State Representative Jimmie Wilson, Jr.
+State Representative ABRAHAM AIYASH Former State Representative JAIME CHURCHES Former State Representative Doug Geiss Former State Representative LESLIE LOVE Former State Representative ALBERTA TINSLEY-TALABI Former State Representative Sam Baydoun Wayne County Commissioner ALISHA BELL Wayne County Commission Chair ALEX GARZA Wayne County Commissioner Tim Killeen Wayne County Commissioner DAVID KNEZEK Wayne County Commissioner Angelique Mayberry Peterson Wayne County Commissioner Martha Scott Wayne County Commissioner ALLEN WILSON Wayne County Commissioner ILONA VARGA Former Wayne County Commissioner KELLY STEC Wyandotte Mayor Pro Tempore GARY SCHLACK Allen Park City Councilman Abdullah Hammoud Dearborn Mayor Mo Baydoun Dearborn Heights Mayor NANCY BRYER Dearborn Heights City Councilwoman Denise Malinowski Maxwell Dearborn Heights City Councilmember Mary Beth Beltowski President of the Dearborn Heights School Board Latanya Gater Former Vice Chairperson of the Dearborn Heights School Board (D7) James Tate Detroit City Council President Latisha Johnson Detroit City Councilwoman Denzel McCampbell Detroit City Councilman Renata Miller Detroit City Councilwoman Gabriela Santiago-Romero Detroit City Councilwoman Lamar Tidwell Ecorse Mayor Rodger Parker Sr Ecorse City Councilmember DeVonte Sherard Former Ecorse Councilmember Adam Alharbi Hamtramck Mayor Valerie Kindle Harper Woods Mayor Ivery Toussant, Jr Harper Woods City Councilman Glenda McDonald Highland Park Mayor Jamal Thomas Highland Park Council President Sharmain Robinson Highland Park Council President Pro Tem Temeko Manica Highland Park Councilmember Kallela Martin Highland Park Councilmember Khursheed Ash-Shafii Highland Park Councilmember Jason Behr Lincoln Park City Councilman William Campbell River Rouge Mayor Robert McCraight Romulus Mayor David Jones Romulus City Councilman Tina Talley Romulus City Councilwoman Porsche Laster Romulus School Board President Paris McCarthy Romulus School Board Vice President VICTORIA ARAJ Southgate City Councilwoman PRISCILLA AYRES-REISS Southgate City Councilwoman Korey Morris Taylor School Board Vice President John Rhaesa Wayne Mayor CHRIS CALVIN Wyandotte City Councilman ADRIANA CERULLA Wyandotte City Councilwoman MELANDIE HINES Wayne Westland School Board Shannon Rochon Wayne-Westland School Board Member Rev.
+Keith Whitney Rev.
 Robert Smith Jr.
-- Pastor Barry Randolph
-- Pastor Sterling H.
-Brewer Description goes here
+Pastor Barry Randolph Pastor Sterling H.
+Brewer Description goes here To donate by check, please mail to: Donavan McKinney for Congress PO Box 44133 Detroit, MI 48244 Contact the Campaign Press Inquiry Media Volunteer Privacy Policy PAID FOR BY DONAVAN MCKINNEY FOR CONGRESS

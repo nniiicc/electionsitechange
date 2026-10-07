@@ -1,40 +1,21 @@
-Skip to content
-News
-Chris Mann leads over incumbent Kris Kobach in the latest poll in Kansas Attorney General race|October 1, 2026
-LAWRENCE, KS — As first reported by the Washington Sun, Chris Mann leads over Kris Kobach in Kansas’ Attorney General race, according to a recent poll commissioned by the Democratic Attorneys General Association.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved Merch Vote News Donate News Kansas State Lodge Fraternal Order of Police Endorses Chris Mann for Kansas Attorney General | October 6, 2026 LAWRENCE, KS — As first reported by the Topeka Capital Journal, the Kansas State Lodge Fraternal Order of Police (FOP) has announced its endorsement of Chris Mann in the state’s attorney general race.
+Mann is the first Democratic Attorney General candidate to be endorsed by the organization in nearly 25 years.
+The Kansas State Lodge FOP […] Chris Mann leads over incumbent Kris Kobach in the latest poll in Kansas Attorney General race | October 1, 2026 LAWRENCE, KS — As first reported by the Washington Sun, Chris Mann leads over Kris Kobach in Kansas’ Attorney General race, according to a recent poll commissioned by the Democratic Attorneys General Association.
 Kris Kobach’s deep unpopularity is on full display in this recent poll, with 48% of respondents viewing Kobach unfavorably.
-“Kansans are fed […]
-NEW AD: Sitting Republican Sheriff Endorses Chris Mann for Kansas Attorney General|September 29, 2026
-LAWRENCE, KS — Chris Mann’s campaign has released its second broadcast television ad of the election cycle.
+“Kansans are fed […] NEW AD: Sitting Republican Sheriff Endorses Chris Mann for Kansas Attorney General | September 29, 2026 LAWRENCE, KS — Chris Mann’s campaign has released its second broadcast television ad of the election cycle.
 This six-figure buy is running across Kansas and features Neosho County Sheriff Greg Taylor, a lifelong Republican and well-respected leader who has spent the past 28 years serving his community with the Neosho County Sheriff’s Office.
-WATCH NOW […]
-Mann says voters are ready for a change from ‘Politics as it is’ during recent campaign fundraiser in Emporia Monday|September 28, 2026
-It is the opinion of Democratic Candidate Chris Mann that voters are tired of “politics as it is” and ready for a change.
+WATCH NOW […] Mann says voters are ready for a change from ‘Politics as it is’ during recent campaign fundraiser in Emporia Monday | September 28, 2026 It is the opinion of Democratic Candidate Chris Mann that voters are tired of “politics as it is” and ready for a change.
 Mann shared this thought with residents and KVOE News during a fundraiser in Emporia supporting his campaign for Attorney General Monday evening.
-With just over 30 days remaining before the general election, […]
-Chris Mann campaign responds to multiple reports that Kris Kobach engaged in “illegal” and “unusual” campaign finance practices|September 18, 2026
-LAWRENCE, KS — Yesterday, The Wall Street Journal released a report outlining an alleged pay-to-play relationship between Kansas Attorney General Kris Kobach and his corporate donors, identifying a pattern where campaign contributions aligned with Kobach’s decision to join lawsuits in his donors’ favor.
-The Wall Street Journal identified large contributions from a Newsmax executive within […]
-FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations|September 15, 2026
-LAWRENCE, KS — Today, Chris Mann’s campaign released its first broadcast television ad of the election cycle.
+With just over 30 days remaining before the general election, […] Chris Mann campaign responds to multiple reports that Kris Kobach engaged in “illegal” and “unusual” campaign finance practices | September 18, 2026 LAWRENCE, KS — Yesterday, The Wall Street Journal released a report outlining an alleged pay-to-play relationship between Kansas Attorney General Kris Kobach and his corporate donors, identifying a pattern where campaign contributions aligned with Kobach’s decision to join lawsuits in his donors’ favor.
+The Wall Street Journal identified large contributions from a Newsmax executive within […] FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations | September 15, 2026 LAWRENCE, KS — Today, Chris Mann’s campaign released its first broadcast television ad of the election cycle.
 This six-figure buy will run across the state and highlights Chris Mann’s career as a police officer and prosecutor, fighting to keep Kansans safe and hold violent offenders accountable.
-WATCH NOW Chris Mann became a police officer at […]
-Chris Mann campaign launches Statewide Law Enforcement Advisory Committee|September 10, 2026
-LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
+WATCH NOW Chris Mann became a police officer at […] Chris Mann campaign launches Statewide Law Enforcement Advisory Committee | September 10, 2026 LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
 Mann’s Law Enforcement Advisory Committee, which was also announced today, is spearheading the coalition.
-The Law Enforcement Advisory Committee comprises current and retired sheriffs and chiefs of police, a former U.S. attorney, and a former […]
-“Kansans need an Attorney General that works for working people,” Chris Mann clinches several new endorsements from organized labor in his race for Kansas Attorney General|August 31, 2026
-LAWRENCE, KS — Chris Mann has earned several new endorsements from organized labor groups, bringing his total labor union endorsements to sixteen.
+The Law Enforcement Advisory Committee comprises current and retired sheriffs and chiefs of police, a former U.S. attorney, and a former […] “Kansans need an Attorney General that works for working people,” Chris Mann clinches several new endorsements from organized labor in his race for Kansas Attorney General | August 31, 2026 LAWRENCE, KS — Chris Mann has earned several new endorsements from organized labor groups, bringing his total labor union endorsements to sixteen.
 This strong support from organized labor groups for Chris’ campaign for Attorney General reflects his commitment to protect and defend Kansas workers.
-The United Auto Workers Local 31, the United Food and Commercial […]
-AFT-Kansas Becomes Second Statewide Public Education Union to Back Chris Mann for Kansas Attorney General|August 18, 2026
-LAWRENCE, KS — On Tuesday, the American Federation of Teachers – Kansas announced its endorsement of Chris Mann for Kansas Attorney General, becoming the second statewide public education union to back Chris Mann’s campaign.
-AFT-Kansas is one of the largest public employee unions in Kansas, representing more than 10,000 workers who keep Kansas communities moving. […]
-Chris Mann: “It shouldn’t be Team Red or Team Blue, but Team Kansas”|July 27, 2026
-In November 2026, Kansas voters will elect their next attorney general, who is the state’s top legal and safety officer.
+The United Auto Workers Local 31, the United Food and Commercial […] AFT-Kansas Becomes Second Statewide Public Education Union to Back Chris Mann for Kansas Attorney General | August 18, 2026 LAWRENCE, KS — On Tuesday, the American Federation of Teachers – Kansas announced its endorsement of Chris Mann for Kansas Attorney General, becoming the second statewide public education union to back Chris Mann’s campaign.
+AFT-Kansas is one of the largest public employee unions in Kansas, representing more than 10,000 workers who keep Kansas communities moving. […] Chris Mann: “It shouldn’t be Team Red or Team Blue, but Team Kansas” | July 27, 2026 In November 2026, Kansas voters will elect their next attorney general, who is the state’s top legal and safety officer.
 This position is important because the attorney general must protect consumers from fraud, help victims of crime, and make sure state laws are applied fairly.
-Chris Mann is running to return the office’s focus to […]
-LAWRENCE, KS — Chris Mann’s campaign for Kansas Attorney General filed another record-breaking fundraising report today, raising nearly $800,000 during the 2026 pre-primary reporting period, bringing the campaign’s total fundraising to $1,324,188 for the cycle.
-Mann outraised his opponent, Kris Kobach, by more than four to one, and ended the reporting period with more cash […]
-Posts navigation
+Chris Mann is running to return the office’s focus to […] Posts navigation Newer posts Meet Chris Priorities Get Involved Merch Vote News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Docking Treasurer.
 Privacy Policy

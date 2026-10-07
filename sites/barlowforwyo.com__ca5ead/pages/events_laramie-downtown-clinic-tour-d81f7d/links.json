@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Laramie+Downtown+Clinic+Tour+&dates=20260918T160000Z%2F20260918T164500Z&location=611+South+2nd+Street%2C+Laramie%2C+Wyoming%2C+82070%2C+United+States",
-"http://maps.google.com/?q=611+South+2nd+Street+Laramie%2C+Wyoming%2C+82070+United+States",
-"https://barlowforwyo.com/",
-"https://barlowforwyo.com/cart",
-"https://barlowforwyo.com/contact",
-"https://barlowforwyo.com/events",
-"https://barlowforwyo.com/events/climb-wyomings-40th-anniversary",
-"https://barlowforwyo.com/events/laramie-downtown-clinic-tour?format=ical",
-"https://barlowforwyo.com/events/laramie-soup-kitchen",
-"https://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/meeteric",
-"https://barlowforwyo.com/positions",
-"https://barlowforwyo.com/privacy-policy",
-"https://barlowforwyo.com/setting-the-record-straight",
-"https://facebook.com/EricBarlowRidingForWyoming",
-"https://instagram.com/barlow_wyo",
-"https://secure.winred.com/eric-barlow-32097f9d/donate",
-"https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@barlowforwyo",
-"https://x.com/Barlowforwyo"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=611+south+2nd+street+laramie%2C+wyoming%2C+82070+united+states"
+},
+{
+"text": "0",
+"href": "https://www.barlowforwyo.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate"
+},
+{
+"text": "Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Laramie+Downtown+Clinic+Tour+&dates=20260918T160000Z%2F20260918T164500Z&location=611+South+2nd+Street%2C+Laramie%2C+Wyoming%2C+82070%2C+United+States"
+},
+{
+"text": "Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/healthcare"
+},
+{
+"text": "ICS",
+"href": "https://www.barlowforwyo.com/events/laramie-downtown-clinic-tour?format=ical"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Next Next September 18 Laramie Soup Kitchen",
+"href": "https://www.barlowforwyo.com/events/laramie-soup-kitchen"
+},
+{
+"text": "Positions",
+"href": "https://www.barlowforwyo.com/positions"
+},
+{
+"text": "Previous Previous September 17 Climb Wyoming's 40th Anniversary",
+"href": "https://www.barlowforwyo.com/events/climb-wyomings-40th-anniversary"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barlowforwyo.com/privacy-policy"
+},
+{
+"text": "Sign UP",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "The Facts",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.barlowforwyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EricBarlowRidingForWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barlow_wyo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@barlowforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barlowforwyo"
+}
 ]

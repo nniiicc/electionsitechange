@@ -1,5 +1,4 @@
-Janelle believes in
-IMPROVING ACCESS TO EDUCATION
-Education is our greatest equalizer – Janelle knows this firsthand as the daughter of public school teachers and mom of four children.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS Janelle believes in IMPROVING ACCESS TO EDUCATION Education is our greatest equalizer – Janelle knows this firsthand as the daughter of public school teachers and mom of four children.
 She believes that every child deserves access to a high-quality education that meets their needs.
 In Congress, she introduced legislation to invest in our students from kindergarten through college or trade school by equipping schools with resources, supporting educators, and expanding access to mental health and special education services.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

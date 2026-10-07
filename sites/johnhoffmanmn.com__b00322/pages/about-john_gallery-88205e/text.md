@@ -1,5 +1,4 @@
-Embedded Files
-Most enjoyable time giving back while playing drums to raise money for youth in the Anoka Hennepin School District.
+Search this site Embedded Files Skip to main content Skip to navigation Senator John Hoffman Home About John Biography Awards Endorsements Letters Gallery Mentions Work in Legislature Bonding & Infrastructure Education Environment & Energy Health & Human Services Creating Jobs & Boosting the Economy Public Safety, Veterans & Government Supporting Local Business Transportation Year End Reports Volunteer Sign Up for Senator Hoffman News and Update Donate Senator John Hoffman Home About John Biography Awards Endorsements Letters Gallery Mentions Work in Legislature Bonding & Infrastructure Education Environment & Energy Health & Human Services Creating Jobs & Boosting the Economy Public Safety, Veterans & Government Supporting Local Business Transportation Year End Reports Volunteer Sign Up for Senator Hoffman News and Update Donate More Home About John Biography Awards Endorsements Letters Gallery Mentions Work in Legislature Bonding & Infrastructure Education Environment & Energy Health & Human Services Creating Jobs & Boosting the Economy Public Safety, Veterans & Government Supporting Local Business Transportation Year End Reports Volunteer Sign Up for Senator Hoffman News and Update Donate Gallery Most enjoyable time giving back while playing drums to raise money for youth in the Anoka Hennepin School District.
 Our Beautiful State Capitol.
-Google Sites
-Report abuse
+Paid for on behalf of the committee to elect John Hoffman 8224 109th Place N.
+Champlin MN 55316 Google Sites Report abuse Google Sites Report abuse

@@ -1,4 +1,4 @@
-- MEET JOSEPH I ran for office because the people of Paulding and Cobb Counties - and all Georgians - deserve representation that is fiscally responsible and holds true to our conservative values.
+HOME MEET JOSEPH ON THE ISSUES GET INVOLVED … HOME MEET JOSEPH ON THE ISSUES GET INVOLVED DONATE HOME MEET JOSEPH ON THE ISSUES GET INVOLVED … HOME MEET JOSEPH ON THE ISSUES GET INVOLVED DONATE MEET JOSEPH I ran for office because the people of Paulding and Cobb Counties - and all Georgians - deserve representation that is fiscally responsible and holds true to our conservative values.
 My voting record proves that I continue to give you just that: lower taxes, government accountability, and a commitment to public safety.
 I am a proven leader with a deep understanding of the issues that matter most to you.
 I'm often referred to as the busiest man in the legislature.
@@ -26,9 +26,9 @@ I enjoy the opportunity to meet new people and be a part of something bigger tha
 Ways to get involved in our community are plentiful.
 Be it a special talent to share or a busy schedule to accommodate, there are opportunities for community engagement to suit everyone.
 If you'd like to learn more, reach out by emailing me at joseph@josephgullett.com, and I can help direct you to some great organizations and projects.
-- ON THE ISSUES I am and will continue to be open and transparent about where I stand on the issues that matter most to you.
+ON THE ISSUES I am and will continue to be open and transparent about where I stand on the issues that matter most to you.
 I invite you to explore my stance on these critical topics and be part of the conversation.
-- LOWER TAXES It’s quite simple, really.
+LOWER TAXES It’s quite simple, really.
 Lowering taxes gives Georgians more control over their own earnings.
 Every dollar that stays in your pocket is a dollar that can be spent, saved, or invested in whatever way you believe is best for your family and financial future.
 My belief in lower taxes goes beyond pure economics.
@@ -77,7 +77,7 @@ Parents should have the freedom to choose the educational path that best suits t
 Whether it's traditional public schools, public charter schools, private schools, homeschooling, or other innovative options, parents should have the ability to make the right choice for their children's future.
 As a legislator, I have a proven commitment to funding colleges and universities while keeping tuition rates reasonable and ensuring a quality post-secondary education for Georgia's students.
 Beyond traditional institutions, I also strongly support investing in workforce development to prepare students for a dynamic job market by passing legislation that encourages access to technical and vocational education.
-- GET INVOLVED Becoming an active participant in the political process is one of the best decisions I've ever made.
+GET INVOLVED Becoming an active participant in the political process is one of the best decisions I've ever made.
 When you campaign for a candidate you believe in, you are helping to achieve the changes you want to see in the world.
 Volunteers are the lifeblood of a campaign.
 These are the men and women who selflessly share their time and talents without monetary compensation.
@@ -85,18 +85,18 @@ Yet, if you could put a price on the satisfaction you get from helping shape the
 Below are three simple ways to get involved, support my campaign, and stay up to date on the issues that matter most to you.
 Have a special talent or interest you'd like to share with my campaign?
 I would be humbled and honored to have you on my team.
-Send me an email at joseph@josephgullett.com.
+Send me an email at joseph@josephgullett.com .
 YARD SIGN Putting up a yard sign is an easy way to show your support.
 Yard signs promote name recognition, represent a personal endorsement, and attract new supporters.
 It's a small sign, but it sends a powerful message.
 If you'd like to put a sign in your yard, or have a location for a larger sign, please get in touch by clicking the button below.
-VOLUNTEER Behind every successful campaign is a dedicated team of volunteers.
+Request a Yard Sign VOLUNTEER Behind every successful campaign is a dedicated team of volunteers.
 Whether they're making phone calls, delivering yard signs, or even marching in a Christmas parade, it takes volunteers to get the job done.
 If you're interested in volunteering with my campaign team, please click the button below, and we'll send you more information.
-NEWSLETTER My email newsletter is one of the most important ways I keep my constituents up to date on what's happening under the Gold Dome during the legislative session.
+Learn More NEWSLETTER My email newsletter is one of the most important ways I keep my constituents up to date on what's happening under the Gold Dome during the legislative session.
 I also send newsletters periodically throughout the year with essential information about statewide and local government issues.
 To sign up for my newsletter, simply click the button below.
-- CONTACT ME I benefit greatly from hearing from my constituents.
+Sign Up CONTACT ME I benefit greatly from hearing from my constituents.
 I strive to be consistently responsive when it comes to your questions, thoughts, and ideas.
 Please do not hesitate to reach out.
 I truly welcome and encourage your input.

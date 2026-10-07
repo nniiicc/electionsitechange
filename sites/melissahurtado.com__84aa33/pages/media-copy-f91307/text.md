@@ -1,19 +1,14 @@
-The Latest from Senator Melissa Hurtado
-sjv water
-Project to reduce groundwater pumping near Friant-Kern Canal – damaged by excessive pumping...
-sierra sun times
-California State Senator Melissa Hurtado’s Legislation Signed Into Law, Tightening Firearm...
-KGET 17 News
-‘The heart of California is right here’: Xavier Becerra stops in Bakersfield for Hurtado campaign...
-23ABC News
-Xavier Becerra endorses state Sen.
-Melissa Hurtado for reelection in first Kern County visit
-el popular
-Xavier Becerra en Bakersfield ayuda a lanzar la campaña de reelección de Sen.
-Melissa Hurtado
-EIN Presswire
-Hurtado Taxpayer Protection Plan Secures Budget Reform, Delivers Millions Back to the Valley
-KGET
-Sen.
-Melissa Hurtado urges Central Valley counties to coordinate cybersecurity efforts in new letter
-PRESS RELEASE
+Skip navigation menu Home About Issues Take Action Endorsements News Media Contact Donate Home About Issues Take Action Endorsements News Media Contact Donate The Latest from Senator Melissa Hurtado sjv water Project to reduce groundwater pumping near Friant-Kern Canal – damaged by excessive pumping...
+Read more Oct 3 2026 The porterville recorder Groundbreaking marks significant stage of Friant-Kern Canal repairs Read more Oct 2 2026 ein presswire Hurtado Secures $150,000 For Public Safety Improvements in Lamont Read more Oct 2 2026 valley voice Hurtado warns California can’t wait on airport infrastructure after Newsom veto Read more Oct 1 2026 sierra sun times California State Senator Melissa Hurtado’s Legislation Signed Into Law, Tightening Firearm...
+Read more Sep 29 2026 FOX26NEWS Sen.
+Melissa Hurtado presents $1 million for Kingsburg City Hall, emergency center Read more Sep 29 2026 PRESS RELEASE California Police Chiefs Association Endorses Read more Sep 21 2026 Sun-gazette Sen.
+Hurtado secures funds for safe water Read more Sep 8 2026 KGET 17 News ‘The heart of California is right here’: Xavier Becerra stops in Bakersfield for Hurtado campaign...
+Read more Sep 7 2026 KGET 17 News Kern County In Depth: Sept.
+6, 2026 Read more Sep 6 2026 23ABC News Xavier Becerra endorses state Sen.
+Melissa Hurtado for reelection in first Kern County visit Read more Sep 4 2026 valley ag voice Becerra Backs Senator Hurtado at Bakersfield Campaign Kickoff Read more Sep 3 2026 The Bakersfield Californian In Bakersfield, Becerra calls Central Valley heart of California Read more Sep 3 2026 The Bakersfield Californian With Becerra's backing, Hurtado kicks off state Senate campaign Read more Sep 3 2026 el popular Xavier Becerra en Bakersfield ayuda a lanzar la campaña de reelección de Sen.
+Melissa Hurtado Read more Sep 3 2026 EIN Presswire Hurtado Taxpayer Protection Plan Secures Budget Reform, Delivers Millions Back to the Valley Read more Sep 2 2026 KGET Sen.
+Melissa Hurtado urges Central Valley counties to coordinate cybersecurity efforts in new letter Read more Aug 31 2026 the sun-gazette newspaper Hwy 99 Agri-Center Interchange Project complete Read more Jul 27 2026 ain media group Aviation Coalition Supports California Fuel Tax Bill Read more Jul 1 2026 Valley voice TCAG names Senator Hurtado as 2026 LocalMotion Elected Official of the Year Read more Jun 5 2026 PRESS RELEASE Thank You Senate District 16!
+Read more Jun 3 2026 PRESS RELEASE Senator Melissa Hurtado Draws Nearly 200 Supporters For Final Push Ahead of Tuesday's Election Read more May 30 2026 Agri-Pulse Ag overtime tax credit returns as lawmakers seek relief for growers Read more Feb 4 2026 NEWS ARTICLE State Senate Bill aims to boost farmworker pay and support agricultural employers Read more Feb 2 2026 Fox 26 news Farmersville unveils new fire station with state funding boost Read more Jan 20 2026 NEWS ARTICLE Kern County Board of Supervisors honors Sen.
+Melissa Hurtado for securing state funds Read more Nov 6 2025 NEWS ARTICLE From Shafter to McFarland: New Investments in Public Safety Read more Dec 16 2025 NEWS ARTICLE Central Valley lawmaker wants to make it easier to get help paying energy bills Read more Sep 1 2025 23 ABC News Bakersfield Hurtado’s ‘Common Sense Plan’ bills advance to California Assembly Read more Jul 29 2025 23 ABC News Bakersfield Sen.
+Hurtado promotes SB 661 at Meadows Field Airport Read more Jun 20 2025 SJV Wire Hurtado's Bill Seeks More Funds to Protect South Valley From Floods Read more Jun 18 2025 23 ABC News Bakersfield Hurtado’s ‘Common Sense Plan’ bills advance to California Assembly Read more Jun 5 2025 NEWS ARTICLE Bill aims to get a bigger slice of state funding to protect south San Joaquin Valley Read more Apr 3 2025 NEWS ARTICLE Senator Hurtado introduces bill to tackle California's water crisis Read more Jan 28 2025 NEWS ARTICLE Tulare County gets $1M for rural road repairs, check presented by State Sen.
+Melissa Hurtado Read more Jan 31 2024 Paid for by Valley Families for Melissa Hurtado for Senate 2026 You need to enable JavaScript to run this app.

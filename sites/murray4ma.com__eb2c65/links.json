@@ -1,21 +1,86 @@
 [
-"https://bsky.app/profile/murray4ma.bsky.social",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLScSV9UC13ER2wZ80q_rsnlWAzHrI0SgWgyl5fNtVy1kH0pqMg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSe5zfm2kmDmQ9SFo84x6NwNmCeF_72fDGbXb3wMq0fu8qAM1w/viewform",
-"https://facebook.com/murray4ma",
-"https://instagram.com/murray4ma",
-"https://murray4ma.com/",
-"https://murray4ma.com/about",
-"https://murray4ma.com/endorsements",
-"https://murray4ma.com/httpssecureactbluecomdonatemurray4ma",
-"https://murray4ma.com/issues",
-"https://murray4ma.com/statement-of-candidacy.png",
-"https://murray4ma.com/volunteer",
-"https://murray4ma.com/volunteer-copy",
-"https://sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?Action=Register",
-"https://sec.state.ma.us/WhereDoIVoteMA/wheredoivote",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-"https://sec.state.ma.us/voterregistrationsearch",
-"https://tiktok.com/@murray4ma"
+{
+"text": "About",
+"href": "https://www.murray4ma.com/about"
+},
+{
+"text": "Apply Now!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScSV9UC13ER2wZ80q_rsnlWAzHrI0SgWgyl5fNtVy1kH0pqMg/viewform?usp=header"
+},
+{
+"text": "Contact",
+"href": "https://www.murray4ma.com/volunteer-copy"
+},
+{
+"text": "Donate",
+"href": "https://www.murray4ma.com/httpssecureactbluecomdonatemurray4ma"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murray4ma.com/endorsements"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe5zfm2kmDmQ9SFo84x6NwNmCeF_72fDGbXb3wMq0fu8qAM1w/viewform"
+},
+{
+"text": "Priorities",
+"href": "https://www.murray4ma.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read full statement",
+"href": "https://www.murray4ma.com/statement-of-candidacy.png"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murray4ma.com/volunteer"
+},
+{
+"text": "[image: Check if you're registered to vote]Check if you're registered to vote",
+"href": "https://www.sec.state.ma.us/voterregistrationsearch/"
+},
+{
+"text": "[image: Connor Murray]",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "[image: ECM logo]",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "[image: Register to vote]Register to vote",
+"href": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?Action=Register"
+},
+{
+"text": "[image: Request a mail-in ballot]Request a mail-in ballot",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+},
+{
+"text": "[image: Voting locations]Voting locations",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/wheredoivote"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/murray4ma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@murray4ma"
+},
+{
+"text": "murray4ma@gmail.com",
+"href": "mailto:murray4ma@gmail.com"
+}
 ]

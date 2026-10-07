@@ -1,22 +1,86 @@
 [
-"https://absentee.vote.org/",
-"https://app.sos.nh.gov/",
-"https://campaignpartner.com/",
-"https://register.vote.org/",
-"https://verify.vote.org/",
-"https://voterondunn.com/",
-"https://voterondunn.com/contact",
-"https://voterondunn.com/contribute",
-"https://voterondunn.com/events",
-"https://voterondunn.com/home",
-"https://voterondunn.com/issues",
-"https://voterondunn.com/make-endorsement",
-"https://voterondunn.com/meet_ron",
-"https://voterondunn.com/news",
-"https://voterondunn.com/photos",
-"https://voterondunn.com/privacy-policy",
-"https://voterondunn.com/tank",
-"https://voterondunn.com/view-endorsements",
-"https://voterondunn.com/volunteer",
-"https://voterondunn.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to contact your town or city clerk for registration deadlines and dates of town or city elections.",
+"href": "https://app.sos.nh.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.voterondunn.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.voterondunn.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterondunn.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voterondunn.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.voterondunn.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voterondunn.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.voterondunn.com/make-endorsement"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.voterondunn.com/meet_ron"
+},
+{
+"text": "News",
+"href": "https://www.voterondunn.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.voterondunn.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterondunn.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "TANK",
+"href": "https://www.voterondunn.com/tank"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voterondunn.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.voterondunn.com/vote"
+},
+{
+"text": "[image: Ron Dunn NH State Representative]",
+"href": "https://www.voterondunn.com/"
+},
+{
+"text": "local clerk’s office",
+"href": "https://app.sos.nh.gov/"
+}
 ]

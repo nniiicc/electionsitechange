@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteschupay.com/donation",
- "paid_for_by": null,
+ "fingerprint": "7c1edcf5744f254a288d709c7dc6afd148f7eb30",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATION | Campaign for Conrad Schupay",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

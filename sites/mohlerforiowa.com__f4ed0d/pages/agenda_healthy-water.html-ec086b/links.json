@@ -1,42 +1,190 @@
 [
-"https://fsa.usda.gov/news-events/news/01-02-2026/usda-announces-january-2026-lending-rates-agricultural-producers",
-"https://fsa.usda.gov/news-events/news/09-01-2026/usda-announces-september-2026-lending-rates-agricultural-producers",
-"https://iowaagriculture.gov/news/crop-ins-discount-prog-signup-12-25",
-"https://iowaledger.com/",
-"https://legis.iowa.gov/docs/code/161A.42.pdf",
-"https://legis.iowa.gov/docs/code/161A.7.pdf",
-"https://legis.iowa.gov/docs/code/161A.71.pdf",
-"https://legis.iowa.gov/docs/code/161A.73.pdf",
-"https://legis.iowa.gov/docs/code/161A.pdf",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/331.304A.pdf",
-"https://legis.iowa.gov/docs/code/335.2.pdf",
-"https://legis.iowa.gov/docs/code/422.pdf",
-"https://legis.iowa.gov/docs/code/455B.171.pdf",
-"https://legis.iowa.gov/docs/code/459.102.pdf",
-"https://legis.iowa.gov/docs/code/459.202.pdf",
-"https://legis.iowa.gov/docs/code/459.303.pdf",
-"https://legis.iowa.gov/docs/code/459.304.pdf",
-"https://legis.iowa.gov/docs/code/459.305.pdf",
-"https://legis.iowa.gov/docs/code/459.pdf",
-"https://legis.iowa.gov/docs/code/466B.43.pdf",
-"https://legis.iowa.gov/docs/code/466B.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/87/SF512.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/88/HF2127.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/90/SF124.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/HF2732.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/HF2733.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/SF2260.pdf",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/Iowa/iav1.pdf",
-"https://opportunityiowa.gov/community/water-quality/srf-programs/nonpoint-source-water-quality-programs/local-water-protection",
-"https://owapps.epa.gov/expertquery/attains",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "FSA's monthly announcements",
+"href": "https://www.fsa.usda.gov/news-events/news/09-01-2026/usda-announces-september-2026-lending-rates-agricultural-producers"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "fsa.usda.gov",
+"href": "https://www.fsa.usda.gov/news-events/news/01-02-2026/usda-announces-january-2026-lending-rates-agricultural-producers"
+},
+{
+"text": "fsa.usda.gov",
+"href": "https://www.fsa.usda.gov/news-events/news/09-01-2026/usda-announces-september-2026-lending-rates-agricultural-producers"
+},
+{
+"text": "iowaagriculture.gov",
+"href": "https://iowaagriculture.gov/news/crop-ins-discount-prog-signup-12-25"
+},
+{
+"text": "latest Census of Agriculture for Iowa",
+"href": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/Iowa/iav1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.42.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.7.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.71.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.73.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/161A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/331.304A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/335.2.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/455B.171.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.102.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.202.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.303.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.304.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.305.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/459.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/466B.43.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/466B.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/87/SF512.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2771.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/88/HF2127.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/90/SF124.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2732.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2733.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/SF2260.pdf"
+},
+{
+"text": "nass.usda.gov",
+"href": "https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/Iowa/iav1.pdf"
+},
+{
+"text": "opportunityiowa.gov",
+"href": "https://opportunityiowa.gov/community/water-quality/srf-programs/nonpoint-source-water-quality-programs/local-water-protection"
+},
+{
+"text": "owapps.epa.gov",
+"href": "https://owapps.epa.gov/expertquery/attains"
+}
 ]

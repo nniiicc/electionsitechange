@@ -1,37 +1,146 @@
 [
-"https://flsenate.gov/Session/Bill/2021/1482",
-"https://flsenate.gov/Session/Bill/2021/68",
-"https://flsenate.gov/Session/Bill/2021/70",
-"https://flsenate.gov/Session/Bill/2021/996",
-"https://flsenate.gov/Session/Bill/2022/1064",
-"https://flsenate.gov/Session/Bill/2022/1436",
-"https://flsenate.gov/Session/Bill/2022/1708",
-"https://flsenate.gov/Session/Bill/2022/288",
-"https://flsenate.gov/Session/Bill/2022/340",
-"https://flsenate.gov/Session/Bill/2022/606",
-"https://flsenate.gov/Session/Bill/2022/988",
-"https://flsenate.gov/Session/Bill/2023/1190",
-"https://flsenate.gov/Session/Bill/2023/1396",
-"https://flsenate.gov/Session/Bill/2023/1596",
-"https://flsenate.gov/Session/Bill/2023/232",
-"https://flsenate.gov/Session/Bill/2023/242",
-"https://flsenate.gov/Session/Bill/2023/272",
-"https://flsenate.gov/Session/Bill/2023/410",
-"https://flsenate.gov/Session/Bill/2023/536",
-"https://flsenate.gov/Session/Bill/2023/914",
-"https://flsenate.gov/Session/Bill/2024/1188",
-"https://flsenate.gov/Session/Bill/2024/192",
-"https://flsenate.gov/Session/Bill/2024/388",
-"https://flsenate.gov/Session/Bill/2024/536",
-"https://flsenate.gov/Session/Bill/2024/564",
-"https://flsenate.gov/Session/Bill/2025/1054",
-"https://flsenate.gov/Session/Bill/2025/56",
-"https://flsenate.gov/Session/Bill/2025/584",
-"https://flsenate.gov/Session/Bill/2026/186",
-"https://flsenate.gov/Session/Bill/2026/302",
-"https://ileanagarcia.com/",
-"https://ileanagarcia.com/about",
-"https://ileanagarcia.com/home",
-"https://ileanagarcia.com/legislation",
-"https://secure.anedot.com/ileana-garcia-campaign/donate"
+{
+"text": "About",
+"href": "https://ileanagarcia.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://ileanagarcia.com/"
+},
+{
+"text": "CS/CS/CS/SB 536",
+"href": "https://www.flsenate.gov/Session/Bill/2024/536"
+},
+{
+"text": "CS/CS/SB 1188",
+"href": "https://www.flsenate.gov/Session/Bill/2024/1188"
+},
+{
+"text": "CS/CS/SB 192",
+"href": "https://www.flsenate.gov/Session/Bill/2024/192"
+},
+{
+"text": "CS/CS/SB 272",
+"href": "https://www.flsenate.gov/Session/Bill/2023/272"
+},
+{
+"text": "CS/CS/SB 388",
+"href": "https://www.flsenate.gov/Session/Bill/2024/388"
+},
+{
+"text": "CS/CS/SB 56",
+"href": "https://www.flsenate.gov/Session/Bill/2025/56"
+},
+{
+"text": "CS/CS/SB 564",
+"href": "https://www.flsenate.gov/Session/Bill/2024/564"
+},
+{
+"text": "CS/CS/SB 584",
+"href": "https://www.flsenate.gov/Session/Bill/2025/584"
+},
+{
+"text": "CS/CS/SB 988",
+"href": "https://flsenate.gov/Session/Bill/2022/988"
+},
+{
+"text": "CS/SB 1190",
+"href": "https://www.flsenate.gov/Session/Bill/2023/1190"
+},
+{
+"text": "CS/SB 1436",
+"href": "https://flsenate.gov/Session/Bill/2022/1436"
+},
+{
+"text": "CS/SB 1482",
+"href": "https://www.flsenate.gov/Session/Bill/2021/1482"
+},
+{
+"text": "CS/SB 1596",
+"href": "https://www.flsenate.gov/Session/Bill/2023/1596"
+},
+{
+"text": "CS/SB 232",
+"href": "https://www.flsenate.gov/Session/Bill/2023/232"
+},
+{
+"text": "CS/SB 242",
+"href": "https://www.flsenate.gov/Session/Bill/2023/242"
+},
+{
+"text": "CS/SB 536",
+"href": "https://www.flsenate.gov/Session/Bill/2023/536"
+},
+{
+"text": "CS/SB 606",
+"href": "https://flsenate.gov/Session/Bill/2022/606"
+},
+{
+"text": "CS/SB 68",
+"href": "https://www.flsenate.gov/Session/Bill/2021/68"
+},
+{
+"text": "CS/SB 70",
+"href": "https://www.flsenate.gov/Session/Bill/2021/70"
+},
+{
+"text": "CS/SB 914",
+"href": "https://www.flsenate.gov/Session/Bill/2023/914"
+},
+{
+"text": "CS/SR 1064",
+"href": "https://flsenate.gov/Session/Bill/2022/1064"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://ileanagarcia.com/home/"
+},
+{
+"text": "Legislative Record",
+"href": "https://ileanagarcia.com/legislation/"
+},
+{
+"text": "SB 1054",
+"href": "https://www.flsenate.gov/Session/Bill/2025/1054"
+},
+{
+"text": "SB 1396",
+"href": "https://www.flsenate.gov/Session/Bill/2023/1396"
+},
+{
+"text": "SB 1708",
+"href": "https://flsenate.gov/Session/Bill/2022/1708"
+},
+{
+"text": "SB 186",
+"href": "https://www.flsenate.gov/Session/Bill/2026/186"
+},
+{
+"text": "SB 288",
+"href": "https://flsenate.gov/Session/Bill/2022/288"
+},
+{
+"text": "SB 302",
+"href": "https://www.flsenate.gov/Session/Bill/2026/302"
+},
+{
+"text": "SB 340",
+"href": "https://flsenate.gov/Session/Bill/2022/340"
+},
+{
+"text": "SB 410",
+"href": "https://www.flsenate.gov/Session/Bill/2023/410"
+},
+{
+"text": "SB 996",
+"href": "https://www.flsenate.gov/Session/Bill/2021/996"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+}
 ]

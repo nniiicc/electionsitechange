@@ -1,17 +1,62 @@
 [
-"https://facebook.com/KatieFryHesterMD9",
-"https://forms.gle/q8Ya3SDmVYVjBKEs8",
-"https://instagram.com/katiefryhestermd9?hl=en",
-"https://katiefryhester.com/",
-"https://katiefryhester.com/chinese",
-"https://katiefryhester.com/korean-trasnlation",
-"https://katiefryhester.com/meet-katie",
-"https://katiefryhester.com/priorities",
-"https://katiefryhester.com/privacy-policy",
-"https://katiefryhester.com/request-a-yard-sign",
-"https://katiefryhester.com/services",
-"https://katiefryhester.com/spanish-translation",
-"https://katiefryhester.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-katie-fry-hester-1",
-"https://twitter.com/katiefryhester"
+{
+"text": "About",
+"href": "https://www.katiefryhester.com/meet-katie"
+},
+{
+"text": "Chinese",
+"href": "https://www.katiefryhester.com/chinese/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-katie-fry-hester-1"
+},
+{
+"text": "Korean",
+"href": "https://www.katiefryhester.com/korean-trasnlation/"
+},
+{
+"text": "Priorities",
+"href": "https://www.katiefryhester.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.katiefryhester.com/privacy-policy"
+},
+{
+"text": "Services",
+"href": "https://www.katiefryhester.com/services"
+},
+{
+"text": "Spanish",
+"href": "https://www.katiefryhester.com/spanish-translation/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.katiefryhester.com/volunteer"
+},
+{
+"text": "Volunteer with Team 9",
+"href": "https://forms.gle/q8Ya3SDmVYVjBKEs8"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.katiefryhester.com/request-a-yard-sign"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.katiefryhester.com/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/KatieFryHesterMD9"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/katiefryhestermd9/?hl=en"
+},
+{
+"text": "twitter",
+"href": "https://twitter.com/katiefryhester"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/miraforwv",
-"https://jeffersoncountywv.org/county-government/elected-officials/county-clerk",
-"https://miraforwv.com/",
-"https://miraforwv.com/about-mira-tanner-hughes",
-"https://miraforwv.com/district-65-voter-registration",
-"https://miraforwv.com/get-involved-upshur-county",
-"https://miraforwv.com/mira-tanner-hughes-endorsements",
-"https://miraforwv.com/priorities-district-65",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://sos.wv.gov/",
-"https://wvlegislature.gov/"
+{
+"text": "(681) 245-7654",
+"href": "tel:+16812457654"
+},
+{
+"text": "About",
+"href": "https://www.miraforwv.com/about-mira-tanner-hughes"
+},
+{
+"text": "County Clerk",
+"href": "https://www.jeffersoncountywv.org/county-government/elected-officials/county-clerk"
+},
+{
+"text": "District 65",
+"href": "https://www.miraforwv.com/district-65-voter-registration"
+},
+{
+"text": "Endorsements",
+"href": "https://www.miraforwv.com/mira-tanner-hughes-endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.miraforwv.com/get-involved-upshur-county"
+},
+{
+"text": "Home",
+"href": "https://www.miraforwv.com/"
+},
+{
+"text": "Mira Tanner-Hughes | WV District 65",
+"href": "https://www.miraforwv.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.miraforwv.com/priorities-district-65"
+},
+{
+"text": "Register to Vote",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Secretary of State",
+"href": "https://sos.wv.gov/"
+},
+{
+"text": "WV Legislature",
+"href": "https://www.wvlegislature.gov/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/miraforwv/"
+}
 ]

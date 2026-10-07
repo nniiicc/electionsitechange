@@ -1,8 +1,8 @@
-I have spent my career as a paralegal working to help people through some of the most difficult times in their lives.
+Paid for by The Committee to Elect Sydnie Hutchinson sydniehutchinson.nchouse108@gmail.com Home Donate Home See more Donate ABOUT SYDNIE HUTCHINSON Vote For Sydnie Hutchinson I have spent my career as a paralegal working to help people through some of the most difficult times in their lives.
 I have seen first hand the negative effects of how harmful legislation can impact my community.
 Right now, there are systems and policies in place that prevent our citizens and communities from thriving.
 I chose to run for office so that I can serve my community and work to introduce legislation that will improve those systems and policies.
-I will identify new and innovative ways to make housing and daily cost of living affordable in Gaston county.
+My Commitment To You I will identify new and innovative ways to make housing and daily cost of living affordable in Gaston county.
 I will invest in Gaston county's local economy.
 I will improve my district's infrastructure and broadband access.
 I will prevent government overreach, particularly where it concerns women's reproductive healthcare and the expansion of the legislature's power.
@@ -11,8 +11,9 @@ I will oppose partisan gerrymandering in any form, regardless of party affiliati
 You deserve to be represented by someone who will listen to you.
 I will contribute to making childcare affordable in North Carolina.
 I will improve North Carolinians access to high quality and affordable healthcare.
-Dramatically innovate adaptive ideas those revolutionize cutting-edge total linkage it’s synthesize vote done
-North Carolina's economy is strong and growing but not everyone is benefitting from that growth.
+Campign Principles Grow Up Political Team Using Campaign Principles Houses Campaign Dramatically innovate adaptive ideas those revolutionize cutting-edge total linkage it’s synthesize vote done Education Campaign Dramatically innovate adaptive ideas those revolutionize cutting-edge total linkage it’s synthesize vote done Vote Campaign Dramatically innovate adaptive ideas those revolutionize cutting-edge total linkage it’s synthesize vote done Do you share a different view?
+Let's chat!
+My Views Economic Growth Affordable Housing Education Our Fundamental Rights Healthcare North Carolina's economy is strong and growing but not everyone is benefitting from that growth.
 Everyone deserves equitable success and access at obtaining a good job or starting a business.
 This should also not depend on where you live in the state.
 We must end corporate greed and invest in our workforce.
@@ -60,4 +61,14 @@ Medicaid expansion in North Carolina has helped in giving more North Carolinians
 North Carolina ranks as the most expensive state for healthcare, with the highest average premium for residents with “plus-one” health insurance coverage through an employer.
 I will work to increase access to affordable, quality health care for all North Carolinians by building on Medicaid expansion and working to get drug and hospital costs under control.
 We need to increase the number of quality health care providers in rural North Carolina, promote hospital price transparency, and strengthen our mental health, behavioral health, and drug treatment systems.
-Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Affordable Housing Affordable Housing Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Cost of Living Cost of Living Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Economic Growth Economic Growth Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Worker Prosperity Worker Prosperity Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Broadband Access Broadband Access Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Women's Reproductive Healthcare Women's Reproductive Healthcare Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Government Overreach Government Overreach Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Public Education Investment Public Education Investment Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Affordable Childcare Affordable Childcare Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Affordable Healthcare Affordable Healthcare Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.
+Community Engagement Community Engagement Molitia modi quae laboriosam nemo minima explicabo provident rerulla provident main political program and lactivist minima.

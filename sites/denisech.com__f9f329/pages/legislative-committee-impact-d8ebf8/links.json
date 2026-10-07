@@ -1,7 +1,26 @@
 [
-"https://denisech.com/",
-"https://denisech.com/donate",
-"https://denisech.com/election-info",
-"https://denisech.com/legislative-committee-impact",
-"https://denisech.com/support-denise"
+{
+"text": "Donate",
+"href": "https://www.denisech.com/donate"
+},
+{
+"text": "Election Info",
+"href": "https://www.denisech.com/election-info"
+},
+{
+"text": "Home",
+"href": "https://www.denisech.com"
+},
+{
+"text": "Join the Team",
+"href": "https://www.denisech.com/support-denise"
+},
+{
+"text": "Legislative & Committee Impact",
+"href": "https://www.denisech.com/legislative-committee-impact"
+},
+{
+"text": "[image: Hader Logo.png]",
+"href": "https://www.denisech.com"
+}
 ]

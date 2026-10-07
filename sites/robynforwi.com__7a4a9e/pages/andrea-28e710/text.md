@@ -1,6 +1,4 @@
-Andrea
-“I Have One Tough Mother.”
-Andrea is a Wauwatosa mom who taught middle school for eight years in the Elmbrook School District.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Andrea More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett “I Have One Tough Mother.” Andrea is a Wauwatosa mom who taught middle school for eight years in the Elmbrook School District.
 After the Marjory Stoneman Douglas High School shooting in Parkland, Florida she remembers having to go into school the next day.
 She wondered how to face her students.
 How could she tell them that they are safe in school?
@@ -27,5 +25,5 @@ She also witnessed student reactions when Representative Vining showed up to Wau
 The students saw her presence and understood their voices matter to Robyn.
 Last year Andrea’s daughter started junior Kindergarten.
 In only the first week, she was taught to hide in her cubby in case of an active shooter.
-Andrea hopes that through her volunteer work with Moms Demand Action and through the work of compassionate gun sense candidates like Robyn Vining, one day our students will no longer need to participate in such drills. – Andrea
-*Moms Demand Action affiliation is for identification purposes only and not an indication of organizational support or endorsement.
+Andrea hopes that through her volunteer work with Moms Demand Action and through the work of compassionate gun sense candidates like Robyn Vining, one day our students will no longer need to participate in such drills. – Andrea *Moms Demand Action affiliation is for identification purposes only and not an indication of organizational support or endorsement.
+More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

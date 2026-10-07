@@ -1,4 +1,4 @@
-Tom Kean, Jr. is serving his second term in Congress representing New Jersey’s 7th Congressional District.
+Meet Tom Media Contact Us Donate Meet Tom Tom Kean, Jr. is serving his second term in Congress representing New Jersey’s 7th Congressional District.
 Tom serves on the Energy and Commerce Committee and the Foreign Affairs Committee.
 As the representative for more than 775,000 New Jersey residents, Tom is focused on lowering costs for families, improving access to high-quality healthcare, supporting a robust and reliable infrastructure, boosting innovation at home, and helping students reach their top potential.
 In his two terms in Congress, his office has succeeded in returning $61 million back to New Jersey residents and has secured $38 million in investments for local projects in our communities.
@@ -26,3 +26,16 @@ Tom is a graduate of Dartmouth College and attended the Fletcher School of Law a
 There, he received a master’s degree in law and diplomacy and was also employed as a graduate school instructor.
 Tom completed his doctoral studies ABD at Fletcher.
 Tom, his wife Rhonda, and their two daughters reside in Westfield, New Jersey.
+Support the campaign today! $10 $25 $50 $100 Get involved with Team Kean Name * First Last Email * Mobile Phone * Zip code * This field is hidden when viewing the form Address ZIP Code Consent I would like to receive text messages from Team Kean By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms and conditions and privacy policy for auto dialed messages from Tom Kean, Jr. to the phone number you provide.
+No consent is required to buy.
+Msg frequency varies.
+Msg&data rates may apply.
+Text STOP to opt out.
+Text HELP for assistance.
+Message frequency may vary by month.
+This field is hidden when viewing the form Δ Paid for by Kean for Congress Inc For Inquiries - Please Contact Team Kean at [email protected] Donate online here or mail your donation along with this form to PO Box 999, Edison, NJ 08818 By providing your phone number, you are consenting to receive calls and text messages, including autodialed and automated calls and texts and prerecorded messages, to that number from Kean for Congress.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Text STOP to cancel anytime.
+Privacy Policy

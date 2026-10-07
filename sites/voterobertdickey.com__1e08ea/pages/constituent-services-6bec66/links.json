@@ -1,10 +1,42 @@
 [
-"http://house.ga.gov/Documents/PAGE_Program/PageInterestForm.docx",
-"http://house.ga.gov/en-US/HousePageProgram.aspx",
-"https://voterobertdickey.com/",
-"https://voterobertdickey.com/about-robert",
-"https://voterobertdickey.com/author/notrotten",
-"https://voterobertdickey.com/constituent-services",
-"https://voterobertdickey.com/contact-robert",
-"https://voterobertdickey.com/issues"
+{
+"text": "About Robert",
+"href": "https://voterobertdickey.com/about-robert/"
+},
+{
+"text": "Constituent Services",
+"href": "https://voterobertdickey.com/constituent-services/"
+},
+{
+"text": "Contact Robert",
+"href": "https://voterobertdickey.com/contact-robert/"
+},
+{
+"text": "Home",
+"href": "https://voterobertdickey.com"
+},
+{
+"text": "Home",
+"href": "https://voterobertdickey.com/"
+},
+{
+"text": "House Page Program website",
+"href": "http://www.house.ga.gov/en-US/HousePageProgram.aspx"
+},
+{
+"text": "Issues",
+"href": "https://voterobertdickey.com/issues/"
+},
+{
+"text": "Page Interest Form",
+"href": "http://www.house.ga.gov/Documents/PAGE_Program/PageInterestForm.docx"
+},
+{
+"text": "Steve Allen",
+"href": "https://voterobertdickey.com/author/notrotten/"
+},
+{
+"text": "[image: State Representative Robert Dickey Logo]",
+"href": "https://voterobertdickey.com/"
+}
 ]

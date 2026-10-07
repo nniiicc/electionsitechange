@@ -1,11 +1,5 @@
-Helen for State Rep District 137
-- Community Safety
-- Job Creation
-- Economic Growth
-Pd.
-Pol.
-Ad by Helen Zhou Campaign
-We respect your privacy.
+About Helen Issues Endorsements Events Contact Hamburger Toggle Menu Donate Today!
+Privacy Policy We respect your privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 This includes sharing information with our program partners, message content providers, phone companies, and vendors who assist us in the delivery of mobile messages.
 EXCEPT AS SET FORTH IN THIS SECTION, WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH PROGRAMS TO ANY THIRD PARTY.
@@ -14,8 +8,8 @@ When you complete forms online or otherwise provide us information in connection
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, or you have opted into a Program for an ulterior purpose, we may refuse you access to the Program and pursue any appropriate legal remedies.
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
-Helen Zhou Campaign
-P.
+Helen for State Rep District 137 Community Safety Job Creation Economic Growth Pd.
+Pol.
+Ad by Helen Zhou Campaign Helen Zhou Campaign P.
 O.
-Box 770212
-Houston, TX 77215-0212
+Box 770212 Houston, TX 77215-0212

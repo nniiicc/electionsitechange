@@ -1,7 +1,9 @@
 {
- "description": "Register & Buy Tickets \u2192 Grab your foursome and play a round for Western Maryland. Senator Mike McKay\u2019s 8th Annual Golf Tournament tees off with a 10am shotgun start on [\u2026]",
+ "description": "Register & Buy Tickets → Grab your foursome and play a round for Western Maryland. Senator Mike McKay’s 8th Annual Golf Tournament tees off with a 10am shotgun start on […]",
  "final_url": "https://mikemckaymd.com/event/8th-annual-mike-mckay-golf-tournament/",
- "paid_for_by": null,
+ "fingerprint": "5d5e061bb6cb2ba3daf625c382509f3b88484d2c",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
  "title": "8th Annual Mike McKay Golf Tournament - State Senator Mike McKay for Maryland District 1",
  "years_mentioned": [
   "2023",

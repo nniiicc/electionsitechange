@@ -1,10 +1,38 @@
 [
-"https://facebook.com/BarbaraHaney100",
-"https://haneyforakhouse.com/",
-"https://haneyforakhouse.com/about-barbara",
-"https://haneyforakhouse.com/contact",
-"https://haneyforakhouse.com/contribute",
-"https://haneyforakhouse.com/privacy-policy",
-"https://haneyforakhouse.com/yard-sign",
-"https://snappages.com/"
+{
+"text": "About Barbara",
+"href": "https://haneyforakhouse.com/about-barbara"
+},
+{
+"text": "Contact",
+"href": "https://haneyforakhouse.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://haneyforakhouse.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://haneyforakhouse.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://haneyforakhouse.com/privacy-policy"
+},
+{
+"text": "STAY INFORMED",
+"href": "https://haneyforakhouse.com/contact"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://haneyforakhouse.com/yard-sign"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BarbaraHaney100"
+},
+{
+"text": "powered by SnapPages",
+"href": "https://snappages.com"
+}
 ]

@@ -1,9 +1,14 @@
 {
  "description": "Texas must develop a holistic concept of public health which includes a preventive health care model, economic security, healthy food, removing dangerous chemicals, and making a healthy lifestyle more practical.",
  "final_url": "https://www.kmm2026.org/issues2026/health-care-proposal",
- "paid_for_by": null,
+ "fingerprint": "52ebbf0ab8f1e3e5fc4efe0b9a528724b4313dc7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Health Care Proposal",
  "years_mentioned": [
-  "2025"
+  "1960",
+  "2016",
+  "2025",
+  "2026"
  ]
 }

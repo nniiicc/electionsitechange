@@ -1,10 +1,38 @@
 [
-"https://facebook.com/voteadrianreyna",
-"https://instagram.com/voteadrianreyna",
-"https://secure.actblue.com/donate/adrian-reyna-1",
-"https://voteadrianreyna.com/",
-"https://voteadrianreyna.com/about",
-"https://voteadrianreyna.com/get-involved",
-"https://voteadrianreyna.com/platform",
-"https://voteadrianreyna.com/press"
+{
+"text": "About",
+"href": "https://voteadrianreyna.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrian-reyna-1"
+},
+{
+"text": "Get Involved",
+"href": "https://voteadrianreyna.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://voteadrianreyna.com/"
+},
+{
+"text": "Platform",
+"href": "https://voteadrianreyna.com/platform"
+},
+{
+"text": "Press",
+"href": "https://voteadrianreyna.com/press"
+},
+{
+"text": "[image: Adrian Reyna for Texas House District 125]",
+"href": "https://voteadrianreyna.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteadrianreyna"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteadrianreyna/"
+}
 ]

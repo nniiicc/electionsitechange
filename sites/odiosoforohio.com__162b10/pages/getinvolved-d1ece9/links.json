@@ -1,14 +1,50 @@
 [
-"https://facebook.com/MikeOdioso",
-"https://henryricke.wixstudio.com/my-site-14/blank-4",
-"https://odiosoforohio.com/",
-"https://odiosoforohio.com/contact",
-"https://odiosoforohio.com/deliveringresults",
-"https://odiosoforohio.com/getinvolved",
-"https://odiosoforohio.com/meetmike",
-"https://odiosoforohio.com/news",
-"https://odiosoforohio.com/privacypolicy",
-"https://odiosoforohio.com/tos",
-"https://secure.anedot.com/mike-odioso-for-ohio/donate",
-"https://twitter.com/mikeodioso"
+{
+"text": "CONTACT",
+"href": "https://www.odiosoforohio.com/contact"
+},
+{
+"text": "DELIVERING RESULTS",
+"href": "https://www.odiosoforohio.com/deliveringresults"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mike-odioso-for-ohio/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.odiosoforohio.com/getinvolved"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.odiosoforohio.com/meetmike"
+},
+{
+"text": "NEWS",
+"href": "https://www.odiosoforohio.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.odiosoforohio.com/privacypolicy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://henryricke.wixstudio.com/my-site-14/blank-4"
+},
+{
+"text": "TERMS OF SERVICE",
+"href": "https://www.odiosoforohio.com/tos"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MikeOdioso/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/mikeodioso"
+},
+{
+"text": "[no text]",
+"href": "https://www.odiosoforohio.com"
+}
 ]

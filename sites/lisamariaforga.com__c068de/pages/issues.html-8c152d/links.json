@@ -1,7 +1,26 @@
 [
-"https://lisamariaforga.com/get-involved.html",
-"https://lisamariaforga.com/index.html",
-"https://lisamariaforga.com/issues.html",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/lisa-for-georgia"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lisa-for-georgia"
+},
+{
+"text": "Get Involved",
+"href": "https://lisamariaforga.com/get-involved.html"
+},
+{
+"text": "Get Out to Vote",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Issues",
+"href": "https://lisamariaforga.com/issues.html"
+},
+{
+"text": "Meet Lisa",
+"href": "https://lisamariaforga.com/index.html#meet"
+},
+{
+"text": "[image: Lisa Maria for Georgia]",
+"href": "https://lisamariaforga.com/index.html"
+}
 ]

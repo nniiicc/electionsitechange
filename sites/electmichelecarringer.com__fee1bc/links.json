@@ -1,8 +1,30 @@
 [
-"http://electmichelecarringer.com/about-1.html",
-"http://electmichelecarringer.com/contact-us.html",
-"http://electmichelecarringer.com/donate.html",
-"http://electmichelecarringer.com/home.html",
-"http://electmichelecarringer.com/news.html",
-"http://electmichelecarringer.com/volunteer.html"
+{
+"text": "About",
+"href": "http://www.electmichelecarringer.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "http://www.electmichelecarringer.com/contact-us.html"
+},
+{
+"text": "Donate",
+"href": "http://www.electmichelecarringer.com/donate.html"
+},
+{
+"text": "EMAIL ME",
+"href": "mailto:rep.michele.carringer@capitol.tn.gov"
+},
+{
+"text": "Home",
+"href": "http://www.electmichelecarringer.com/home.html"
+},
+{
+"text": "News",
+"href": "http://www.electmichelecarringer.com/news.html"
+},
+{
+"text": "Volunteer",
+"href": "http://www.electmichelecarringer.com/volunteer.html"
+}
 ]

@@ -1,6 +1,4 @@
-My Economic Philosophy
-Discipline and Accountability equals Success
-Government works best when every level: local, state, and federal functions as part of one system, each supporting the others for the good of the community it serves.
+Home Current Situation My Philosophy Contact Back Education Economics Community Country Home Current Situation My Philosophy Education Economics Community Country Contact Veteran | PTSA President | Pop Warner Football Coach | Community Advocate My Economic Philosophy Discipline and Accountability equals Success Government works best when every level: local, state, and federal functions as part of one system, each supporting the others for the good of the community it serves.
 When government creates the right conditions, businesses grow.
 When businesses grow, the goods, services, and revenue they generate flow back into people's lives, making our community stronger, more livable, and better to call home.
 My approach to economic policy comes down to fundamentals that have never gone out of style: don't spend beyond your means, keep something set aside for hard times, know your priorities, invest with the future in mind, and meet your obligations on time.
@@ -17,3 +15,4 @@ It's what I've taught my own kids, and what we owe it to every child in this com
 Like any discipline, it takes practice before it becomes habit but once you feel the payoff, that discipline starts reinforcing itself.
 Looking ahead through 2026, I continue to be guided by a framework I call E2C2 — Education, Economy, Community, and Country built on the belief that these four pillars rise or fall together.
 I look forward to implementing more of this vision with District 32 in the months ahead.
+Contact Authority Line: Mike Rogers Campaign Antonio Downing, Treasurer

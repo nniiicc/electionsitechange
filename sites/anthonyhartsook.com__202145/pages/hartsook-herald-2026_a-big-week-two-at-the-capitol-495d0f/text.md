@@ -1,5 +1,4 @@
-A Big Week Two at the Capitol
-On Friday at the Capitol, I was honored to receive the Ireland Seal of Office, from Senator Mark Daly, President of the Ireland Senate.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE A Big Week Two at the Capitol Jan 19 Written By Jack Cutter On Friday at the Capitol, I was honored to receive the Ireland Seal of Office, from Senator Mark Daly, President of the Ireland Senate.
 It commemorates the work we are doing to increase opportunities for business, tourism, education, healthcare, and cultural exchange between Colorado and Ireland.
 It is a humble honor to my Irish heritage.
 Irish immigrants on my mother’s side settled in Douglas, Wyoming, on the O’Brien Ranch near LaPrele Creek.
@@ -20,6 +19,6 @@ They support our communities and help bring friends and families together.
 This week continues the National Western Stock Show.
 There are numerous businesses, ranchers, and people that visit from all over the country.
 It is a grand event for a little more than two weeks.
-The rodeo is one of the most watched events, and bull riding is the wildest 8 second ride at the rodeo.
-(Watch here)
-Stay tuned as we start our second week of the 2026 regular session.
+The rodeo is one of the most watched events, and bull riding is the wildest 8 second ride at the rodeo. ( Watch here) Stay tuned as we start our second week of the 2026 regular session.
+Receiving the “Going to Bat for Businesses” award from the Colorado Chamber.
+Taking Senator Daly around on a tour of Parker, introducing him to local businesses, the Mayor, and Members of the Town Council. anthony hartsook Jack Cutter Previous Previous The Beginning Of Week Three At The Colorado State Capitol Next Next Day 1 / 120 of the 2026 Colorado General Assembly Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

@@ -1,10 +1,38 @@
 [
-"https://facebook.com/joesosnowski",
-"https://joesosnowski.com/",
-"https://joesosnowski.com/about",
-"https://joesosnowski.com/cdn-cgi/l/email-protection",
-"https://joesosnowski.com/contribute",
-"https://joesosnowski.com/issues",
-"https://joesosnowski.com/vote",
-"https://twitter.com/repsosnowski"
+{
+"text": "Contribute",
+"href": "https://joesosnowski.com/contribute/"
+},
+{
+"text": "Home",
+"href": "https://joesosnowski.com/"
+},
+{
+"text": "Issues",
+"href": "https://joesosnowski.com/issues/"
+},
+{
+"text": "Meet Joe",
+"href": "https://joesosnowski.com/about/"
+},
+{
+"text": "Voter Info",
+"href": "https://joesosnowski.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://joesosnowski.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repsosnowski"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joesosnowski"
+},
+{
+"text": "[no text]",
+"href": "mailto:citizensforjoe@gmail.com"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"http://local.nixle.com/register",
-"https://facebook.com/Vote-for-Ilagan-103745284693090",
-"https://instagram.com/voteilagan",
-"https://member.everbridge.net/index/371914103062563",
-"https://olvr.hawaii.gov/Default.aspx?redir=1",
-"https://public.govdelivery.com/accounts/hidot/subscriber/new",
-"https://secure.actblue.com/donate/voteilagan-2025",
-"https://voteilagan.com/",
-"https://voteilagan.com/author/greggorilagan",
-"https://voteilagan.com/home/supporters",
-"https://voteilagan.com/meet-greggor",
-"https://voteilagan.com/priorities"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/voteilagan-2025"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/Vote-for-Ilagan-103745284693090"
+},
+{
+"text": "Greggor Ilagan",
+"href": "https://voteilagan.com/author/greggorilagan/"
+},
+{
+"text": "Hawaii County Civil Defense Alerts and Messages",
+"href": "https://member.everbridge.net/index/371914103062563#/signup"
+},
+{
+"text": "Hawaii County Police Department Email and Text Alerts",
+"href": "http://local.nixle.com/register/"
+},
+{
+"text": "Hawaii State Department of Transportation",
+"href": "https://public.govdelivery.com/accounts/hidot/subscriber/new"
+},
+{
+"text": "Home",
+"href": "https://voteilagan.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteilagan"
+},
+{
+"text": "Meet Greggor",
+"href": "https://voteilagan.com/meet-greggor/"
+},
+{
+"text": "Priorities",
+"href": "https://voteilagan.com/priorities/"
+},
+{
+"text": "Support",
+"href": "https://voteilagan.com/home/supporters/"
+},
+{
+"text": "[image: Greggor Ilagan for State House: Official Campaign Website Logo]",
+"href": "https://voteilagan.com/"
+},
+{
+"text": "[image]",
+"href": "https://olvr.hawaii.gov/Default.aspx?redir=1"
+}
 ]

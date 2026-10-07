@@ -1,17 +1,94 @@
 [
-"https://andraegonzales.com/",
-"https://andraegonzales.com/about",
-"https://andraegonzales.com/about/candidate-statement",
-"https://andraegonzales.com/about/record",
-"https://andraegonzales.com/concerts",
-"https://andraegonzales.com/contact",
-"https://andraegonzales.com/endorsements",
-"https://andraegonzales.com/get-involved",
-"https://andraegonzales.com/media",
-"https://andraegonzales.com/statements-of-support",
-"https://efundraisingconnections.com/c/AndraeGonzales?fid=309",
-"https://facebook.com/CouncilmemberGonzales",
-"https://instagram.com/andraegonzales",
-"https://voterstatus.sos.ca.gov/",
-"https://willisdesign.com/"
+{
+"text": "About Andrae",
+"href": "https://www.andraegonzales.com/about/"
+},
+{
+"text": "Andrae’s Record",
+"href": "https://www.andraegonzales.com/about/record/"
+},
+{
+"text": "Candidate Statement",
+"href": "https://www.andraegonzales.com/about/candidate-statement/"
+},
+{
+"text": "Concerts",
+"href": "https://www.andraegonzales.com/concerts/"
+},
+{
+"text": "Contact",
+"href": "https://www.andraegonzales.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/AndraeGonzales/?fid=309"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andraegonzales.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.andraegonzales.com/get-involved/"
+},
+{
+"text": "Get Involved... VOLUNTEER",
+"href": "https://www.andraegonzales.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.andraegonzales.com/"
+},
+{
+"text": "Media",
+"href": "https://www.andraegonzales.com/media/"
+},
+{
+"text": "Meet Andrae",
+"href": "https://www.andraegonzales.com/about/"
+},
+{
+"text": "More Endorsements",
+"href": "https://www.andraegonzales.com/endorsements/"
+},
+{
+"text": "Register To Vote",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "See Endorsements",
+"href": "https://www.andraegonzales.com/endorsements/"
+},
+{
+"text": "Statements of Support",
+"href": "https://www.andraegonzales.com/statements-of-support/"
+},
+{
+"text": "W&WDS",
+"href": "https://willisdesign.com"
+},
+{
+"text": "[image: Andrae Gonzales]",
+"href": "https://www.andraegonzales.com"
+},
+{
+"text": "[image: Andrae Gonzales]",
+"href": "https://www.andraegonzales.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.efundraisingconnections.com/c/AndraeGonzales/?fid=309"
+},
+{
+"text": "[no text]",
+"href": "https://www.andraegonzales.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CouncilmemberGonzales"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andraegonzales"
+}
 ]

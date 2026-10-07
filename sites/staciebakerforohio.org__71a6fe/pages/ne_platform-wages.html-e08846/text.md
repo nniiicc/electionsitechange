@@ -1,21 +1,17 @@
-समस्या
-El salario mínimo de Ohio de $11 por hora en 2026 simplemente no es suficiente.
+Baker को लागि Ohio Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate EN ES SO NE Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate ← कार्यक्रममा फर्कनुस् प्राथमिकता 01 Luchando por Salarios Dignos Ningún habitante de Ohio que trabaje tiempo completo debería ser incapaz de pagar el alquiler, la comida y el cuidado infantil.
+Stacie Baker lucha por cerrar la brecha entre lo que ganan los trabajadores y lo que realmente cuesta vivir en el Distrito 3. $11/hr Salario mínimo en Ohio en 2026 $20+/hr Salario digno para una familia de 4 en el Condado Franklin 150,000 Habitantes de Ohio ganando el salario mínimo समस्या El salario mínimo de Ohio de $11 por hora en 2026 simplemente no es suficiente.
 Un salario digno para una familia de cuatro en el Condado Franklin supera los $20 por hora, casi el doble de lo que requiere la ley.
 Esa brecha representa comidas perdidas, elecciones imposibles y familias que trabajan dos o tres empleos solo para mantener las luces encendidas.
 En todo el Distrito 3, las familias trabajadoras se están quedando atrás.
 Los salarios se han estancado mientras que el alquiler, los víveres y los costos de atención médica se han disparado.
 Las personas que hacen el trabajo más difícil en nuestras comunidades, auxiliares de salud en el hogar, trabajadores de almacén, empleados de restaurantes, cuidadores, merecen un salario real que refleje el costo real de vida en Ohio.
-Stacie को योजना
-- Aumentar el salario mínimo de Ohio a $15 por hora, vinculado a la inflación para que nunca vuelva a quedarse atrás
-- Reducir el nivel de pobreza de Ohio y sacar a las familias trabajadoras de la crisis financiera cerrando la brecha entre los salarios y el costo real de vida
-- Fortalecer la clase media asegurando que un trabajo de tiempo completo pague lo suficiente para cubrir alquiler, comida, cuidado infantil y necesidades básicas
-- Apoyar el derecho de los trabajadores a organizarse y negociar colectivamente junto con la AFL-CIO y los socios laborales que han respaldado esta campaña
-- Combatir el robo de salarios y proteger el pago de horas extras para los trabajadores por hora y los que reciben propinas en todo el Distrito 3
-Stacie को अडान
-Stacie Baker creció viendo a su madre soltera elegir entre comida y alquiler, viviendo de cheque en cheque en el lado sureste de Columbus.
+Stacie को योजना Aumentar el salario mínimo de Ohio a $15 por hora , vinculado a la inflación para que nunca vuelva a quedarse atrás Reducir el nivel de pobreza de Ohio y sacar a las familias trabajadoras de la crisis financiera cerrando la brecha entre los salarios y el costo real de vida Fortalecer la clase media asegurando que un trabajo de tiempo completo pague lo suficiente para cubrir alquiler, comida, cuidado infantil y necesidades básicas Apoyar el derecho de los trabajadores a organizarse y negociar colectivamente junto con la AFL-CIO y los socios laborales que han respaldado esta campaña Combatir el robo de salarios y proteger el pago de horas extras para los trabajadores por hora y los que reciben propinas en todo el Distrito 3 Stacie को अडान Stacie Baker creció viendo a su madre soltera elegir entre comida y alquiler, viviendo de cheque en cheque en el lado sureste de Columbus.
 Como adulto, enfrentó las mismas luchas.
 Esa experiencia no es abstracta para él.
 Es por eso que ha dedicado 15 años al servicio público luchando por las familias trabajadoras del Condado Franklin.
 Ha servido como Presidente del Comité de Finanzas del Concejo Municipal de Reynoldsburg, trabajando con presupuestos reales y números reales.
 Sabe lo que realmente compra $11 por hora.
 Sabe que podemos hacerlo mejor, y en el Senado de Ohio, lo hará.
+"Un salario mínimo de $15 vinculado a la inflación eleva a las familias, reduce la pobreza y fortalece la clase media.
+Eso no es una idea radical, es un piso." Stacie Baker समर्थित Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus नोभेम्बर ३ मा Stacie को साथ दिनुस् आम चुनावमा हरेक मत डिस्ट्रिक्ट ३ का श्रमिक परिवारहरूको लागि मत हो। अहिले दान गर्नुस् सहभागी हुनुस् Pagado por Citizens For Baker • © # Todos los Derechos Reservados • P.O.
+Box, Reynoldsburg, OH 43068

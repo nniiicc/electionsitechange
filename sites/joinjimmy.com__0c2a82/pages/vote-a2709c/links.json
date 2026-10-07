@@ -1,22 +1,110 @@
 [
-"http://facebook.com/jimmypatronis",
-"http://instagram.com/jpatronis",
-"http://joinjimmy.com/",
-"http://joinjimmy.com/about",
-"http://joinjimmy.com/blog",
-"http://joinjimmy.com/volunteer",
-"http://joinjimmy.com/vote",
-"http://x.com/jimmypatronis",
-"https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup",
-"https://escambiavotes.gov/precinct-finder",
-"https://govote-okaloosa.com/Voters/Where-Do-I-Vote",
-"https://joinjimmy.com/",
-"https://joinjimmy.com/about",
-"https://joinjimmy.com/blog",
-"https://joinjimmy.com/volunteer",
-"https://secure.anedot.com/friends-of-jimmy-patronis-inc/friendsofjimmypatronis",
-"https://secure.winred.com/friends-of-jimmy-patronis-inc/storefront",
-"https://votesantarosa.gov/Voter-Information/List-of-Precincts",
-"https://votewalton.gov/Voting/Where-Do-I-Vote",
-"https://youtube.com/@jimmypatronisforcongress"
+{
+"text": "@JimmyPatronis",
+"href": "http://www.x.com/jimmypatronis"
+},
+{
+"text": "ABOUT",
+"href": "http://joinjimmy.com/about"
+},
+{
+"text": "ABOUT",
+"href": "https://joinjimmy.com/about/"
+},
+{
+"text": "CHIP IN!",
+"href": "https://secure.anedot.com/friends-of-jimmy-patronis-inc/friendsofjimmypatronis"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/friends-of-jimmy-patronis-inc/friendsofjimmypatronis"
+},
+{
+"text": "FIND POLLING LOCATION",
+"href": "https://dos.fl.gov/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+},
+{
+"text": "FIND PRECINCT",
+"href": "http://joinjimmy.com/vote/"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://escambiavotes.gov/precinct-finder"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://www.govote-okaloosa.com/Voters/Where-Do-I-Vote"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://www.votesantarosa.gov/Voter-Information/List-of-Precincts"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://www.votewalton.gov/Voting/Where-Do-I-Vote#ED"
+},
+{
+"text": "HOME",
+"href": "http://joinjimmy.com/"
+},
+{
+"text": "HOME",
+"href": "https://joinjimmy.com/"
+},
+{
+"text": "NEWS",
+"href": "https://joinjimmy.com/blog/"
+},
+{
+"text": "News",
+"href": "http://joinjimmy.com/blog"
+},
+{
+"text": "SANTA ROSA",
+"href": "https://www.votesantarosa.gov/Voter-Information/List-of-Precincts"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/friends-of-jimmy-patronis-inc/storefront"
+},
+{
+"text": "VOLUNTEER",
+"href": "http://joinjimmy.com/volunteer"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://joinjimmy.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/jimmypatronis"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/jpatronis"
+},
+{
+"text": "[image]",
+"href": "http://joinjimmy.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/jimmypatronis"
+},
+{
+"text": "[image]",
+"href": "http://www.instagram.com/jpatronis"
+},
+{
+"text": "[image]",
+"href": "http://www.x.com/jimmypatronis"
+},
+{
+"text": "[image]",
+"href": "http://x.com/jimmypatronis"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@jimmypatronisforcongress"
+}
 ]

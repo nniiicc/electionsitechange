@@ -1,24 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet+%26+Greet&dates=20260425T210000Z%2F20260425T230000Z&location=8921+Hwy+10%2C+Bismarck%2C+ND+",
-"http://maps.google.com/?q=8921+Hwy+10+Bismarck%2C+ND",
-"https://bsky.app/profile/hammerfornd.bsky.social/post/3lkjilyt7tk2z",
-"https://facebook.com/HammerForND",
-"https://hammerfornd.com/",
-"https://hammerfornd.com/about",
-"https://hammerfornd.com/calendar",
-"https://hammerfornd.com/calendar/candidate-meet-greet?format=ical",
-"https://hammerfornd.com/calendar/governors-dinner",
-"https://hammerfornd.com/calendar/meet-the-candidates",
-"https://hammerfornd.com/cart",
-"https://hammerfornd.com/contact-us",
-"https://hammerfornd.com/get-involved",
-"https://hammerfornd.com/invite-trygve",
-"https://hammerfornd.com/news",
-"https://hammerfornd.com/priorities",
-"https://hammerfornd.com/videos",
-"https://instagram.com/hammer4nd",
-"https://secure.actblue.com/donate/trygve-hammer-1",
-"https://tiktok.com/@hammer.for.nd",
-"https://twitter.com/TrygveHammer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-"https://youtube.com/@TrygveHammer"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8921+hwy+10+bismarck%2C+nd++"
+},
+{
+"text": "0",
+"href": "https://www.hammerfornd.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.hammerfornd.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.hammerfornd.com/calendar"
+},
+{
+"text": "Contact Us",
+"href": "https://www.hammerfornd.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trygve-hammer-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Meet+%26+Greet&dates=20260425T210000Z%2F20260425T230000Z&location=8921+Hwy+10%2C+Bismarck%2C+ND+"
+},
+{
+"text": "Home",
+"href": "https://www.hammerfornd.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.hammerfornd.com/calendar/candidate-meet-greet?format=ical"
+},
+{
+"text": "Invite Trygve",
+"href": "https://www.hammerfornd.com/invite-trygve"
+},
+{
+"text": "Meet Trygve",
+"href": "https://www.hammerfornd.com/about"
+},
+{
+"text": "News",
+"href": "https://www.hammerfornd.com/news"
+},
+{
+"text": "Next Next May 2 Governors Dinner",
+"href": "https://www.hammerfornd.com/calendar/governors-dinner"
+},
+{
+"text": "Previous Previous April 13 Meet the Candidates for Governmental Transparency",
+"href": "https://www.hammerfornd.com/calendar/meet-the-candidates"
+},
+{
+"text": "Priorities",
+"href": "https://www.hammerfornd.com/priorities"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.hammerfornd.com/get-involved"
+},
+{
+"text": "Videos",
+"href": "https://www.hammerfornd.com/videos"
+},
+{
+"text": "[image: Trygve Hammer for ND]",
+"href": "https://www.hammerfornd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/hammerfornd.bsky.social/post/3lkjilyt7tk2z"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TrygveHammer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HammerForND/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hammer4nd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hammer.for.nd"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@TrygveHammer"
+}
 ]

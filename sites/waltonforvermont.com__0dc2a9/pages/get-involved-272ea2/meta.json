@@ -1,7 +1,11 @@
 {
  "description": "Volunteer, organize, host, build, write, research, create, or bring a Walton for Vermont event to your community.",
  "final_url": "https://www.waltonforvermont.com/get-involved",
- "paid_for_by": null,
+ "fingerprint": "916995aa8014afe22654febe0fe54b627e569e05",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Get Involved | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

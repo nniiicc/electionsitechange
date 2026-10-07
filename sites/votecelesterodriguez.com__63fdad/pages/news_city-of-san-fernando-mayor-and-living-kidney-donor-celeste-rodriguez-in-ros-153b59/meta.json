@@ -1,9 +1,13 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.votecelesterodriguez.com/news/city-of-san-fernando-mayor-and-living-kidney-donor-celeste-rodriguez-in-rose-parade",
+ "fingerprint": "b95babed0afce771c0c3226222d5e332c2e17db9",
+ "format": 3,
  "paid_for_by": "Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd",
  "title": "City of San Fernando Mayor and Living Kidney Donor Celeste Rodriguez in Rose Parade",
  "years_mentioned": [
-  "2024"
+  "2023",
+  "2024",
+  "2026"
  ]
 }

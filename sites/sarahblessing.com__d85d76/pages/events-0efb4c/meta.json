@@ -1,7 +1,11 @@
 {
- "description": "Campaign events for Sarah Blessing \u2014 Democratic nominee for Indiana House District 70. Upcoming trainings, town halls, and volunteer events posted as they're scheduled.",
+ "description": "Campaign events for Sarah Blessing — Democratic nominee for Indiana House District 70. Upcoming trainings, town halls, and volunteer events posted as they're scheduled.",
  "final_url": "https://www.sarahblessing.com/events/",
- "paid_for_by": null,
- "title": "Events \u00b7 Sarah Blessing for House District 70",
- "years_mentioned": []
+ "fingerprint": "5c00dd896a2576347669406914e101439ed7ea0a",
+ "format": 3,
+ "paid_for_by": "authorized by Sarah Blessing for State House",
+ "title": "Events · Sarah Blessing for House District 70",
+ "years_mentioned": [
+  "2026"
+ ]
 }

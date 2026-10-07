@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Final+Get+Out+The+Vote+Phone+Bank&dates=20251104T010000Z%2F20251104T030000Z",
-"https://debkforsenate.com/",
-"https://debkforsenate.com/cart",
-"https://debkforsenate.com/endorsements",
-"https://debkforsenate.com/events",
-"https://debkforsenate.com/events/final-get-out-the-vote-phone-bank?format=ical",
-"https://debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa",
-"https://debkforsenate.com/issues",
-"https://debkforsenate.com/news",
-"https://facebook.com/profile.php?id=61575289710681",
-"https://flickr.com/photos/203048066@N04",
-"https://forms.gle/xzortGKB7kkXnJ2H8",
-"https://instagram.com/debkforsenate",
-"https://secure.actblue.com/donate/debk",
-"https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+{
+"text": "0",
+"href": "https://www.debkforsenate.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/debk"
+},
+{
+"text": "Endorse Deb",
+"href": "https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.debkforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/xzortGKB7kkXnJ2H8"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Final+Get+Out+The+Vote+Phone+Bank&dates=20251104T010000Z%2F20251104T030000Z"
+},
+{
+"text": "Home",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/final-get-out-the-vote-phone-bank?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.debkforsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.debkforsenate.com/news"
+},
+{
+"text": "Previous Previous November 2 Get Out The Vote Doorbelling with Pro-Choice WA",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-doorbelling-with-pro-choice-wa"
+},
+{
+"text": "[image: Deb Krishnadasan, Democrat for State Senate]",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575289710681"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/203048066@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/debkforsenate/"
+}
 ]

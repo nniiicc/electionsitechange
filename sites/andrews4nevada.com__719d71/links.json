@@ -1,20 +1,90 @@
 [
-"https://314action.org/candidates/state-municipal",
-"https://andrews4nevada.com/about",
-"https://andrews4nevada.com/contact",
-"https://andrews4nevada.com/events",
-"https://andrews4nevada.com/home",
-"https://andrews4nevada.com/voting-info",
-"https://committeetoprotect.org/",
-"https://facebook.com/109127451735329",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/andrews4nevada",
-"https://nvaflcio.org/en/news-details/news/press-media/44389/110002",
-"https://nvafscme.org/news/2026-primary-endorsements",
-"https://nvassemblydems.com/",
-"https://paypal.com/donate?hosted_button_id=2HJK9CGQJY4B8",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://seiunv.org/endorsements",
-"https://x.com/Andrews4Nevada"
+{
+"text": "ABOUT",
+"href": "https://andrews4nevada.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://andrews4nevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=2HJK9CGQJY4B8"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.paypal.com/donate/?hosted_button_id=2HJK9CGQJY4B8"
+},
+{
+"text": "EVENTS",
+"href": "https://andrews4nevada.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/109127451735329"
+},
+{
+"text": "HOME",
+"href": "https://andrews4nevada.com/home"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andrews4nevada"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "VOTING INFO",
+"href": "https://andrews4nevada.com/voting-info"
+},
+{
+"text": "X",
+"href": "https://www.x.com/Andrews4Nevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/109127451735329"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrews4nevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Andrews4Nevada"
+},
+{
+"text": "https://committeetoprotect.org/",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "https://nvafscme.org/news/2026-primary-endorsements",
+"href": "https://nvafscme.org/news/2026-primary-endorsements"
+},
+{
+"text": "https://seiunv.org/endorsements/",
+"href": "https://seiunv.org/endorsements/"
+},
+{
+"text": "https://www.314action.org/candidates/state-municipal/",
+"href": "https://www.314action.org/candidates/state-municipal/"
+},
+{
+"text": "https://www.nvaflcio.org/en/news-details/news/press-media/44389/110002",
+"href": "https://www.nvaflcio.org/en/news-details/news/press-media/44389/110002"
+},
+{
+"text": "https://www.nvassemblydems.com/",
+"href": "https://www.nvassemblydems.com/"
+}
 ]

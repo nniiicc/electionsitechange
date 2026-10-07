@@ -1,7 +1,11 @@
 {
  "description": "United States Congressional Candidate for GA's District-12 Vision. Service. Joy.",
  "final_url": "https://cerettaforga.com/",
- "paid_for_by": null,
+ "fingerprint": "f539fb7514355f63cabc08c18ceeb326452a4ae2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Ceretta Smith for Georgia",
- "years_mentioned": []
+ "years_mentioned": [
+  "2027"
+ ]
 }

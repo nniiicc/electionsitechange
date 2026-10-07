@@ -1,12 +1,46 @@
 [
-"https://docs.google.com/forms/d/1ZUOnqexAaV9RL4KNX42RDR2gVpwoWK1UwqzICN7oTn4/edit",
-"https://facebook.com/Sam-Bell-628191587512029",
-"https://instagram.com/samuelwbell",
-"https://sambellpvd.com/",
-"https://sambellpvd.com/about-sam",
-"https://sambellpvd.com/contact",
-"https://sambellpvd.com/copy-of-issues",
-"https://sambellpvd.com/endorsements",
-"https://sambellpvd.com/volunteer",
-"https://x.com/SamuelWBell?lang=en"
+{
+"text": "Contact",
+"href": "https://www.sambellpvd.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sambellpvd.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.sambellpvd.com"
+},
+{
+"text": "Issues",
+"href": "https://www.sambellpvd.com/copy-of-issues"
+},
+{
+"text": "Sam's Story",
+"href": "https://www.sambellpvd.com/about-sam"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/1ZUOnqexAaV9RL4KNX42RDR2gVpwoWK1UwqzICN7oTn4/edit"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sambellpvd.com/volunteer"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/samuelwbell/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/Sam-Bell-628191587512029/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/SamuelWBell?lang=en"
+},
+{
+"text": "swbell11@gmail.com",
+"href": "mailto:swbell11@gmail.com"
+}
 ]

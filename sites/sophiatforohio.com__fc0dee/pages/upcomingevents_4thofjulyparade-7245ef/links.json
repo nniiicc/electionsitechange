@@ -1,26 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Walk+with+Sophia&dates=20260704T143000Z%2F20260704T163000Z&location=25800+Hilliard+Boulevard%2C+Westlake%2C+Ohio%2C+44145%2C+United+States",
-"http://instagram.com/sophiatforohio",
-"http://maps.google.com/?q=25800+Hilliard+Boulevard+Westlake%2C+Ohio%2C+44145+United+States",
-"https://facebook.com/profile.php?id=61591490878692",
-"https://secure.winred.com/sophia-tjotjos-for-ohio/websitedonate",
-"https://sophiatforohio.com/",
-"https://sophiatforohio.com/cart",
-"https://sophiatforohio.com/contact",
-"https://sophiatforohio.com/data-centers",
-"https://sophiatforohio.com/divedeeperwithsophia",
-"https://sophiatforohio.com/endorsements",
-"https://sophiatforohio.com/getinvolved",
-"https://sophiatforohio.com/home",
-"https://sophiatforohio.com/its-pronounced",
-"https://sophiatforohio.com/lake-erie",
-"https://sophiatforohio.com/meetsophia",
-"https://sophiatforohio.com/peopleoverparty",
-"https://sophiatforohio.com/priorities",
-"https://sophiatforohio.com/property-tax-relief",
-"https://sophiatforohio.com/upcomingevents",
-"https://sophiatforohio.com/upcomingevents/4thofjulyparade?format=ical",
-"https://sophiatforohio.com/upcomingevents/kammcornergreekfestival",
-"https://sophiatforohio.com/upcomingevents/meet-sophia-bay-days3",
-"https://sophiatforohio.com/why-sophia-from-her"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=25800+hilliard+boulevard+westlake%2C+ohio%2C+44145+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sophiatforohio.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.sophiatforohio.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.sophiatforohio.com/upcomingevents"
+},
+{
+"text": "Contact Me",
+"href": "https://www.sophiatforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sophia-tjotjos-for-ohio/websitedonate"
+},
+{
+"text": "Data Centers",
+"href": "https://www.sophiatforohio.com/data-centers"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sophiatforohio.com/endorsements"
+},
+{
+"text": "Folder: Dive Deeper with Sophia",
+"href": "https://www.sophiatforohio.com/divedeeperwithsophia"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sophiatforohio.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walk+with+Sophia&dates=20260704T143000Z%2F20260704T163000Z&location=25800+Hilliard+Boulevard%2C+Westlake%2C+Ohio%2C+44145%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.sophiatforohio.com/upcomingevents/4thofjulyparade?format=ical"
+},
+{
+"text": "It's Pronounced",
+"href": "https://www.sophiatforohio.com/its-pronounced"
+},
+{
+"text": "It’s Pronounced",
+"href": "https://www.sophiatforohio.com/its-pronounced"
+},
+{
+"text": "Lake Erie",
+"href": "https://www.sophiatforohio.com/lake-erie"
+},
+{
+"text": "Meet Sophia",
+"href": "https://www.sophiatforohio.com/meetsophia"
+},
+{
+"text": "My Priorities",
+"href": "https://www.sophiatforohio.com/priorities"
+},
+{
+"text": "Next Next September 4 Kamm’s Corner Greek Festival",
+"href": "https://www.sophiatforohio.com/upcomingevents/kammcornergreekfestival"
+},
+{
+"text": "People Over Party",
+"href": "https://www.sophiatforohio.com/peopleoverparty"
+},
+{
+"text": "Previous Previous July 3 Meet Sophia @ Bay Days",
+"href": "https://www.sophiatforohio.com/upcomingevents/meet-sophia-bay-days3"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://www.sophiatforohio.com/property-tax-relief"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.sophiatforohio.com/upcomingevents"
+},
+{
+"text": "Why Sophia? Ask Her Husband.",
+"href": "https://www.sophiatforohio.com/why-sophia-from-her"
+},
+{
+"text": "[image: Sophia for Ohio]",
+"href": "https://www.sophiatforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.sophiatforohio.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/sophiatforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591490878692"
+}
 ]

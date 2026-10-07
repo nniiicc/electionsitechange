@@ -1,12 +1,4 @@
-Back to All Events
-Representative LaMont will be attending the Vermont Women’s Fund will hold its 2024 Annual Celebration on Tuesday, October 8 at The Flynn Center featuring special guest Stacey Abrams, an expert on voter engagement and a former legislative leader in the Georgia House of Representatives.
-She is also the author of numerous books, including the New York Times best-seller “Our Time Is Now.”
-The celebration will take place at 5:30 p.m. and will be emceed by Vermont Public’s Jane Lindholm, with music provided by Myra Flynn.
+0 Skip to Content About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Open Menu Close Menu About Issues Events Endorsements Contact Donate Back to All Events Vermont Women’s Fund 2024 Annual Celebration Tuesday, October 8, 2024 5:30 PM 8:30 PM Google Calendar ICS Representative LaMont will be attending the Vermont Women’s Fund will hold its 2024 Annual Celebration on Tuesday, October 8 at The Flynn Center featuring special guest Stacey Abrams, an expert on voter engagement and a former legislative leader in the Georgia House of Representatives.
+She is also the author of numerous books, including the New York Times best-seller “Our Time Is Now.” The celebration will take place at 5:30 p.m. and will be emceed by Vermont Public’s Jane Lindholm, with music provided by Myra Flynn.
 The Women’s Fund at the Vermont Community Foundation is a statewide nonprofit whose philanthropic mission is to advance and achieve gender equity in Vermont.
-Previous
-Previous
-October 6
-Sunday Canvassing in Elmore
-Next
-Next
-October 11
+Previous Previous October 6 Sunday Canvassing in Elmore Next Next October 11 Friday Canvassing in Elmore Donate Register to vote LaMont for Vermont lamontforvermont@gmail.com (802) 335-2334 PO Box 333 Morrisville VT 05661

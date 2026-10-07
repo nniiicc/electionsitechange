@@ -1,7 +1,12 @@
 {
  "description": "Meet Ricky Santiago, candidate for Florida House District 50",
  "final_url": "https://rickyfor50.com/meet_ricky",
- "paid_for_by": null,
+ "fingerprint": "54b3558b7577cf038fe2c02b3d5679bc460aaa3d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Ricky | Ricky Santiago",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "1990"
+ ]
 }

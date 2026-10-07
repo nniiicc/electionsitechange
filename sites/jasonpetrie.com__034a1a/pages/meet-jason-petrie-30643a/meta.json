@@ -1,12 +1,17 @@
 {
  "description": "MEET JASON PETRIE",
  "final_url": "https://www.jasonpetrie.com/meet-jason-petrie",
- "paid_for_by": null,
+ "fingerprint": "2e661e63e193ce800a2b1d4755cf07ccc644f19e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Jason Petrie",
  "years_mentioned": [
+  "1989",
+  "1993",
+  "1995",
+  "1998",
   "2016",
   "2017",
-  "2022",
   "2026"
  ]
 }

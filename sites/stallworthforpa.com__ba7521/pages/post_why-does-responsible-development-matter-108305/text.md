@@ -1,8 +1,7 @@
-Why Does Responsible Development Matter?
-Development can sound like a good word.
+top of page Like Like Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Menu Close DONATE GET INVOLVED DONATE All Posts Campaign Why Does Responsible Development Matter?
+TaWanda Stallworth Aug 7 5 min read Development can sound like a good word.
 Here in Pennsylvania's 199th district, we’re hearing it a lot.
-“New developments are coming!” “Look at all the progress!”
-Development sometimes does mean progress, growth, new buildings, new jobs, and new opportunities.
+“New developments are coming!” “Look at all the progress!” Development sometimes does mean progress, growth, new buildings, new jobs, and new opportunities.
 However, I would argue that development is not automatically progress.
 Hard questions to ask about development are: Who benefits from it?
 Who pays for it?
@@ -19,8 +18,7 @@ Across Cumberland County, families are trying to understand what is happening, w
 People deserve answers before the bulldozers show up.
 They deserve to know how their water, roads, schools, farmland, property taxes, and neighborhoods may be affected—and they deserve those answers in plain language.
 Not political spin.
-Not “trust us.”
-Not a meeting where people feel like the decision was already made before they walked in the room.
+Not “trust us.” Not a meeting where people feel like the decision was already made before they walked in the room.
 Look, I am not against growth.
 Nor am I against opportunity.
 I am also all for building things our communities actually need.
@@ -81,6 +79,8 @@ If you believe, as I do, that Pennsylvania’s 199th District deserves better, I
 You can donate your time by volunteering with the campaign, knocking doors, making calls, talking with neighbors, helping at events, or sharing your gifts in whatever way you are able.
 Visit https://www.stallworthforpa.com/ to fill out the volunteer form and let us know how you’d like to help.
 You can also donate to help us reach more voters, expand our outreach across the district, and ensure people hear directly from a campaign rooted in service, community, and real representation.
-To give, visit https://secure.actblue.com/donate/stallworthforpa.
+To give, visit https://secure.actblue.com/donate/stallworthforpa .
 This campaign is powered by people who believe Cumberland County deserves leadership that listens, shows up, and puts the people first.
 I would be honored to have you with us.
+Recent Posts See All We Can’t Do This Without You You’re the Neighbor We’ve Been Waiting For Reclaiming Freedom, Community, and Democracy in Pennsylvania’s 199th District Home Accessibility Statement Privacy Policy Terms of Service Stallworth for PA | PO Box 314 | Carlisle, PA 17013 hello@stallworthforpa.com Paid for by Stallworth For PA Home About Issues Endorsements Events Join Us Vote Donate Blog Students for Stallworth Empowering Community, Championing Change.
+VOTE FOR TAWANDA 2026 bottom of page

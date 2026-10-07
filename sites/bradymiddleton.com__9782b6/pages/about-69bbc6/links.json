@@ -1,18 +1,86 @@
 [
-"https://bradymiddleton.com/",
-"https://bradymiddleton.com/about",
-"https://bradymiddleton.com/events",
-"https://bradymiddleton.com/get-involved",
-"https://bradymiddleton.com/platform",
-"https://dailymail.com/news/article-2727515/The-amazing-road-forgiveness-taken-man-24-beaten-robbed-assailants-MENTOR-close-friend.html",
-"https://instagram.com/planetbrady",
-"https://secure.winred.com/middleton-for-michigan/donate-today",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=100",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=25",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=250",
-"https://secure.winred.com/middleton-for-michigan/donate-today?amount=50",
-"https://threads.com/@planetbrady",
-"https://washingtontimes.com/news/2014/aug/25/assault-victim-befriends-attacker-becomes-mentor",
-"https://wwmt.com/news/local/beating-victim-perpetrator-stand-as-example-of-restorative-justice",
-"https://x.com/planetbrady"
+{
+"text": "$100",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today"
+},
+{
+"text": "Events",
+"href": "https://bradymiddleton.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://bradymiddleton.com/get-involved"
+},
+{
+"text": "Meet Brady",
+"href": "https://bradymiddleton.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/middleton-for-michigan/donate-today"
+},
+{
+"text": "Platform",
+"href": "https://bradymiddleton.com/platform"
+},
+{
+"text": "See the Platform",
+"href": "https://bradymiddleton.com/platform"
+},
+{
+"text": "[image: Brady Middleton campaign wordmark]",
+"href": "https://bradymiddleton.com/"
+},
+{
+"text": "[image: Brady Middleton for State Senate, 29th District campaign logo][image]",
+"href": "https://bradymiddleton.com/"
+},
+{
+"text": "[image]Daily MailAugust 2014The amazing road to forgiveness taken by man, 24, who was beaten and robbed — and is now mentor and close friend to one of his assailantsRead the story →",
+"href": "https://www.dailymail.com/news/article-2727515/The-amazing-road-forgiveness-taken-man-24-beaten-robbed-assailants-MENTOR-close-friend.html"
+},
+{
+"text": "[image]NewsChannel 3 · WWMTWest MichiganBeating victim, perpetrator stand as example of restorative justiceRead the story →",
+"href": "https://wwmt.com/news/local/beating-victim-perpetrator-stand-as-example-of-restorative-justice"
+},
+{
+"text": "[image]The Washington TimesAugust 25, 2014Assault victim befriends attacker, becomes mentorRead the story →",
+"href": "https://www.washingtontimes.com/news/2014/aug/25/assault-victim-befriends-attacker-becomes-mentor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/planetbrady/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@planetbrady"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/planetbrady"
+},
+{
+"text": "[no text]",
+"href": "tel:6163655182"
+}
 ]

@@ -1,18 +1,74 @@
 [
-"https://designedwithbee.com/",
-"https://facebook.com/CityOfKirkwoodMo?__cft__%5B0%5D=AZX9aJ46GmwevSYCZtnspvbc9BjKqc4QYX1IbNFUuoOSeDU15ngj1CUvODB0Kfvsr-utDjXLGfZxt9sv-r9UoFjGVT2V0ee_AW1Y_SxphaIownHe3CRlmglkQRH2omtaFdzJTAuV8SeFm5nNDHEZB_Uxt3TggoCcmRKvGJvpGU2nyDXVHxPyr5f9OrsbwW6ApA8&__tn__=-%5DK-R",
-"https://facebook.com/KirkwoodParksRec?__cft__%5B0%5D=AZX9aJ46GmwevSYCZtnspvbc9BjKqc4QYX1IbNFUuoOSeDU15ngj1CUvODB0Kfvsr-utDjXLGfZxt9sv-r9UoFjGVT2V0ee_AW1Y_SxphaIownHe3CRlmglkQRH2omtaFdzJTAuV8SeFm5nNDHEZB_Uxt3TggoCcmRKvGJvpGU2nyDXVHxPyr5f9OrsbwW6ApA8&__tn__=-%5DK-R",
-"https://facebook.com/hruzaformissouri",
-"https://fb.me/e/2KfrGPdGo",
-"https://fb.watch/fFRrYdsdou",
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/kirkwood-greentree-festival/www.example.com",
-"https://hruzaformissouri.com/the-issues",
-"https://instagram.com/georgehruza",
-"https://linkedin.com/in/george-hruza-657b475",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f",
-"https://twitter.com/GeorgeHruza"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "City of Kirkwood, MO (Government)",
+"href": "https://www.facebook.com/CityOfKirkwoodMo?__cft__%5B0%5D=AZX9aJ46GmwevSYCZtnspvbc9BjKqc4QYX1IbNFUuoOSeDU15ngj1CUvODB0Kfvsr-utDjXLGfZxt9sv-r9UoFjGVT2V0ee_AW1Y_SxphaIownHe3CRlmglkQRH2omtaFdzJTAuV8SeFm5nNDHEZB_Uxt3TggoCcmRKvGJvpGU2nyDXVHxPyr5f9OrsbwW6ApA8&__tn__=-%5DK-R"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Designed with BEE",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "Kirkwood, MO Parks and Recreation",
+"href": "https://www.facebook.com/KirkwoodParksRec?__cft__%5B0%5D=AZX9aJ46GmwevSYCZtnspvbc9BjKqc4QYX1IbNFUuoOSeDU15ngj1CUvODB0Kfvsr-utDjXLGfZxt9sv-r9UoFjGVT2V0ee_AW1Y_SxphaIownHe3CRlmglkQRH2omtaFdzJTAuV8SeFm5nNDHEZB_Uxt3TggoCcmRKvGJvpGU2nyDXVHxPyr5f9OrsbwW6ApA8&__tn__=-%5DK-R"
+},
+{
+"text": "RSVP Here or Tap \"Reply\"",
+"href": "https://fb.me/e/2KfrGPdGo"
+},
+{
+"text": "Read More",
+"href": "https://fb.watch/fFRrYdsdou/"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "[image: Company logo]",
+"href": "https://hruzaformissouri.com/kirkwood-greentree-festival/www.example.com"
+},
+{
+"text": "[image: Designed with BEE]",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hruzaformissouri"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/georgehruza/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/george-hruza-657b475/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/GeorgeHruza"
+}
 ]

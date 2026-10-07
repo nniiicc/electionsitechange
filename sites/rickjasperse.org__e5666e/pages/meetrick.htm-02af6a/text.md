@@ -1,3 +1,4 @@
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Meet Rick Hello, I’m Rick Jasperse , candidate for the Georgia House of Representatives District 11.
 Thanks for taking the time to get to know me today.
 To really know someone, you need to know a little about his background.
 I started my raising in independent East Tennessee, an area that is full of conservative, hard-working folks just like here.
@@ -54,6 +55,7 @@ We assisted in decision-making on new Ag enterprises.
 When a homeowner or business has a problem with fungus, weed, or insect we haven’t seen before, we were trained to use state-of-the-art technology and research from UGA to identify and recommend cost-effective solutions.
 Agriculture and the adults and youth who dedicate their lives to this way of life have made my career a special one.
 I have worked closely with many volunteers and co-workers over the years.
+We started our local farmer’s market, we have written and received grants, and we have raised over $100,000 for college scholarships for youth.
 We developed a lamb/livestock program, Cattlemen’s Association, and Master Gardener program.
 We have helped hundreds of 4-H youth learn individual responsibility and citizenship by guiding them through project work and community service.
 Through these real-life experiences, I have developed a personal appreciation and understanding of the challenges our community faces.
@@ -67,9 +69,7 @@ We need honest folks in Atlanta who don’t go with political agendas other than
 I have worked hard to keep government out of your life and as small as we can make it.
 Mark Twain once said, “Loyalty to the country always.
 Loyalty to the government when it deserves it.” It is MY goal to work to give us a state government worthy of your support.
-I want to leave you with a quote I learned a long time ago:
-“Res Verba non”: “Deeds, not words.”
-During the next few months we will listen to a lot of words, get a bunch of mail, and be overwhelmed by signs.
+I want to leave you with a quote I learned a long time ago: “Res Verba non”: “Deeds, not words.” During the next few months we will listen to a lot of words, get a bunch of mail, and be overwhelmed by signs.
 Take time to look at deeds, not words, when you evaluate a candidate.
 Google them and ask them the hard question: “What has this person done in the past?” It is a pretty good indicator of what they will do in the future.
 Running for office is a great and humbling honor.
@@ -77,7 +77,8 @@ I look at what my grandfathers and father have done for me, and what I have want
 I am willing to work hard and guarantee that they, too, can have the endless opportunity that Georgia offers.
 I look forward to meeting you.
 Please don’t hesitate to contact me.
-Thank you,
+Thank you, Meet Marcia Rowlett Jasperse Marcia was born in Florida, and her family moved to Georgia when she was four.
+They lived in Clayton, DeKalb, and Savannah/Chatham counties where her father, Robert Lee Rowlett (“Bob”) was an Assistant Principal, Principal, and Assistant Superintendent of Schools.
 Marcia graduated from North Clayton High School and worked her way through college, graduating with honors from Gordon Jr.
 College in Accounting and the University of Georgia in Early Childhood Education.
 Marcia started teaching kindergarten in Glynn County and lived on “Marcia’s Beach.” Rick must have been pretty special for her to marry him and move from the coast to Cartersville, Georgia.
@@ -91,7 +92,11 @@ Marcia taught many years in Sunday and Bible School.
 She kept her teaching certificate current by taking classes, stayed involved in school activities, and in school policy.
 She was appointed by Congressman Nathan Deal to State School Superintendent Schrenko’s Advisory Committee and served on the team that revised the State’s Quality Core Curriculum.
 She has served on the Pickens County Library Board.
+The "Children" Elizabeth graduated with an English degree from Mercer University and received her Master’s from the University of Georgia in English Education.
+She is married to Justin Wright (Mercer grad), and they live in Centerville, near Warner Robins, where she teaches high school English, and he is Pastor at Centerville Community Church.
+Their daughter was born in 2017.
 Mary Alice attended law school after graduating with a degree in Environmental Economics from the University of Georgia.
 She is married to Ross Tumlin Christopher (UGA, then Mercer Med grad), and they live in Atlanta; where she is an attorney, and he is in radiology residency at Emory.
 Bob graduated with an Accounting degree from the University of Georgia and received his Master’s at Kennesaw State in Accounting.
 He lives in Atlanta and is an auditor with an accounting firm.
+Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

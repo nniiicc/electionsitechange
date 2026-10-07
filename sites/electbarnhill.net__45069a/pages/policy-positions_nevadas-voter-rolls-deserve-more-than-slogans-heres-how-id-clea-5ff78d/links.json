@@ -1,39 +1,230 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/category/policy-positions",
-"https://electbarnhill.net/commentary/declare-your-independence",
-"https://electbarnhill.net/commentary/how-to-check-nevada-voter-registration",
-"https://electbarnhill.net/commentary/independent-secretary-of-state-democrat-controlled-legislature",
-"https://electbarnhill.net/commentary/independents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan",
-"https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance",
-"https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state",
-"https://electbarnhill.net/policy-positions/twenty-years-courtrooms-twenty-years-systems-nevada-secretary-of-state",
-"https://electbarnhill.net/policy-positions/voter-id-is-coming-lets-talk-about-making-it-actually-work-for-people-2",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F",
-"https://instagram.com/electbarnhill",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F&title=Nevada%E2%80%99s+Voter+Rolls+Deserve+More+Than+Slogans+%E2%80%94+Here%E2%80%99s+How+I%E2%80%99d+Clean+Them+Up",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F&text=Nevada%E2%80%99s+Voter+Rolls+Deserve+More+Than+Slogans+%E2%80%94+Here%E2%80%99s+How+I%E2%80%99d+Clean+Them+Up",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "\"Independents Are the Plurality\"",
+"href": "https://electbarnhill.net/commentary/independents-are-the-plurality-and-nevadas-voter-data-should-stay-in-nevadas-hands/"
+},
+{
+"text": "#YourIndependentVoice",
+"href": "https://x.com/electbarnhill"
+},
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "A Nevada Election Cybersecurity Plan for Voters | Barnhill",
+"href": "https://electbarnhill.net/policy-positions/nevada-election-cybersecurity-plan/"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Brad Lee Barnhill’s background and experience",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "How to Check Nevada Voter Registration Status | Barnhill",
+"href": "https://electbarnhill.net/commentary/how-to-check-nevada-voter-registration/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Nevada Secretary of State: Barnhill's 20/20 Plan for Reform",
+"href": "https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state/"
+},
+{
+"text": "Nevada Voter Roll Maintenance: Accuracy and Due Process | Barnhill",
+"href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
+},
+{
+"text": "Nevada Voter Roll Maintenance: Accuracy, Due Process, and Public Trust",
+"href": "https://electbarnhill.net/policy-positions/nevada-voter-roll-maintenance/"
+},
+{
+"text": "Next Next post: Declare Your Independence from Partisan Politics: Nevada Voter ID Plan",
+"href": "https://electbarnhill.net/commentary/declare-your-independence/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Policy Positions",
+"href": "https://electbarnhill.net/category/policy-positions/"
+},
+{
+"text": "Previous Previous post: Twenty Years in Courtrooms, Twenty Years in Systems: Why Nevada’s Next Secretary of State Needs Both",
+"href": "https://electbarnhill.net/policy-positions/twenty-years-courtrooms-twenty-years-systems-nevada-secretary-of-state/"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Voter ID Is Coming. Let’s Talk About Making It Actually Work For People.",
+"href": "https://electbarnhill.net/policy-positions/voter-id-is-coming-lets-talk-about-making-it-actually-work-for-people-2/"
+},
+{
+"text": "Voter ID Is Coming: Let’s Talk About Making It Actually Work for People",
+"href": "https://electbarnhill.net/policy-positions/voter-id-is-coming-lets-talk-about-making-it-actually-work-for-people-2/"
+},
+{
+"text": "Voter ID once Question 7 passes",
+"href": "https://electbarnhill.net/commentary/declare-your-independence/"
+},
+{
+"text": "What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature",
+"href": "https://electbarnhill.net/commentary/independent-secretary-of-state-democrat-controlled-legislature/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F&text=Nevada%E2%80%99s+Voter+Rolls+Deserve+More+Than+Slogans+%E2%80%94+Here%E2%80%99s+How+I%E2%80%99d+Clean+Them+Up"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fpolicy-positions%2Fnevadas-voter-rolls-deserve-more-than-slogans-heres-how-id-clean-them-up%2F&title=Nevada%E2%80%99s+Voter+Rolls+Deserve+More+Than+Slogans+%E2%80%94+Here%E2%80%99s+How+I%E2%80%99d+Clean+Them+Up"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "policy position outlines",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+},
+{
+"text": "the 20/20 plan for Nevada Secretary of State",
+"href": "https://electbarnhill.net/policy-positions/results-not-noise-20-20-plan-nevada-secretary-of-state/"
+},
+{
+"text": "what an independent Secretary of State can accomplish under a Legislature controlled by another party",
+"href": "https://electbarnhill.net/commentary/independent-secretary-of-state-democrat-controlled-legislature/"
+}
 ]

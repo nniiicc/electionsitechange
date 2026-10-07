@@ -1,17 +1,78 @@
 [
-"http://andreacampbell.org/",
-"https://andreacampbell.org/",
-"https://andreacampbell.org/accomplishments",
-"https://andreacampbell.org/bio",
-"https://andreacampbell.org/news",
-"https://andreacampbell.org/privacy-policy",
-"https://andreacampbell.org/volunteer",
-"https://bsky.app/profile/ajcampbellma.bsky.social",
-"https://facebook.com/ajcampbellma",
-"https://instagram.com/andreaforag",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/website20252026",
-"https://threads.com/@andreaforag?igshid=NTc4MTIwNjQ2YQ%3D%3D",
-"https://x.com/McGovernMA/status/1981013025667813841",
-"https://youtube.com/watch?v=c9FXYP-7bnE"
+{
+"text": "Accomplishments",
+"href": "https://andreacampbell.org/accomplishments/"
+},
+{
+"text": "Andrea’s Story",
+"href": "https://andreacampbell.org/bio/"
+},
+{
+"text": "Congressman Jim McGovern",
+"href": "https://x.com/McGovernMA/status/1981013025667813841"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/website20252026"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ajcampbellma"
+},
+{
+"text": "Home",
+"href": "https://andreacampbell.org/"
+},
+{
+"text": "In The News",
+"href": "https://andreacampbell.org/news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andreaforag/"
+},
+{
+"text": "Privacy policy.",
+"href": "https://andreacampbell.org/privacy-policy/"
+},
+{
+"text": "The Latest",
+"href": "https://andreacampbell.org/news/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@andreaforag?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "Volunteer",
+"href": "https://andreacampbell.org/volunteer/"
+},
+{
+"text": "[image: Website designed and developed by SBDigital, sbdigital.com]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[image]",
+"href": "https://andreacampbell.org"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ajcampbellma.bsky.social"
+},
+{
+"text": "press@andreacampbell.org",
+"href": "mailto:press@andreacampbell.org"
+},
+{
+"text": "www.andreacampbell.org",
+"href": "http://www.andreacampbell.org"
+},
+{
+"text": "© Copyright #. All Rights Reserved. Privacy Policy.",
+"href": "https://andreacampbell.org/privacy-policy/"
+},
+{
+"text": "“Fearless”",
+"href": "https://www.youtube.com/watch?v=c9FXYP-7bnE"
+}
 ]

@@ -1,20 +1,94 @@
 [
-"http://kslegislature.org/li/about",
-"http://kslegislature.org/li/b2021_22/chamber/house",
-"http://kslegislature.org/li/b2021_22/members",
-"https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf",
-"https://facebook.com/MinnixforKansasHouse",
-"https://jimminnix.com/",
-"https://jimminnix.com/about-jim-minnix",
-"https://jimminnix.com/contact-jim",
-"https://jimminnix.com/donate",
-"https://jimminnix.com/jim-in-the-legislature",
-"https://jimminnix.com/jims-newsletters",
-"https://jimminnix.com/join-jims-mailing-list",
-"https://jimminnix.com/kansas-house-district-118",
-"https://jimminnix.com/legislative-highlights",
-"https://jimminnix.com/news-and-updates",
-"https://jimminnix.com/policy-resources",
-"https://jimminnix.com/resource-links",
-"https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg"
+{
+"text": "About Jim",
+"href": "https://jimminnix.com/about-jim-minnix/"
+},
+{
+"text": "About the Legislature",
+"href": "http://www.kslegislature.org/li/about/"
+},
+{
+"text": "Contact",
+"href": "https://jimminnix.com/contact-jim/"
+},
+{
+"text": "Donate",
+"href": "https://jimminnix.com/donate/"
+},
+{
+"text": "Find Your Legislator",
+"href": "http://www.kslegislature.org/li/b2021_22/members/"
+},
+{
+"text": "Home",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "House District 118",
+"href": "https://jimminnix.com/kansas-house-district-118/"
+},
+{
+"text": "Jim Minnix for Kansas House",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "Jim in the Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Jim in the News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Jim’s Newsletters",
+"href": "https://jimminnix.com/jims-newsletters/"
+},
+{
+"text": "Kansas Legislative Guide",
+"href": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf"
+},
+{
+"text": "Legislative Highlights",
+"href": "https://jimminnix.com/legislative-highlights/"
+},
+{
+"text": "Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Minnix for Kansas House",
+"href": "https://www.facebook.com/MinnixforKansasHouse/"
+},
+{
+"text": "Mobile Menu ↓",
+"href": "javascript:void(null);"
+},
+{
+"text": "News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Policy Resources",
+"href": "https://jimminnix.com/policy-resources/"
+},
+{
+"text": "Resource Links",
+"href": "https://jimminnix.com/resource-links/"
+},
+{
+"text": "Subscribe to Jim’s mailing list",
+"href": "https://www.jimminnix.com/join-jims-mailing-list/"
+},
+{
+"text": "The Kansas House",
+"href": "http://www.kslegislature.org/li/b2021_22/chamber/house/"
+},
+{
+"text": "[image: Jim Minnix for Kansas House District 118][image: Jim Minnix for Kansas House District 118]",
+"href": "https://www.jimminnix.com"
+},
+{
+"text": "[image]",
+"href": "https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg"
+}
 ]

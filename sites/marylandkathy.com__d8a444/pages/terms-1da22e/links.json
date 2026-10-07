@@ -1,16 +1,74 @@
 [
-"https://instagram.com/kathyformd",
-"https://kathyformaryland.substack.com/",
-"https://marylandkathy.com/",
-"https://marylandkathy.com/contact",
-"https://marylandkathy.com/events",
-"https://marylandkathy.com/get-involved",
-"https://marylandkathy.com/meet-kathy",
-"https://marylandkathy.com/news",
-"https://marylandkathy.com/newsletter",
-"https://marylandkathy.com/priorities",
-"https://marylandkathy.com/privacy",
-"https://marylandkathy.com/terms",
-"https://secure.anedot.com/kathyszeliga/general",
-"https://x.com/KathyforMD"
+{
+"text": "410-989-2148",
+"href": "tel:+1-410-989-2148"
+},
+{
+"text": "Contact",
+"href": "https://marylandkathy.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://marylandkathy.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kathyszeliga/general"
+},
+{
+"text": "Events",
+"href": "https://marylandkathy.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://marylandkathy.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://marylandkathy.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kathyformd/"
+},
+{
+"text": "Meet Kathy",
+"href": "https://marylandkathy.com/meet-kathy"
+},
+{
+"text": "News",
+"href": "https://marylandkathy.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://marylandkathy.com/newsletter"
+},
+{
+"text": "Priorities",
+"href": "https://marylandkathy.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://marylandkathy.com/privacy"
+},
+{
+"text": "Substack",
+"href": "https://kathyformaryland.substack.com"
+},
+{
+"text": "Terms",
+"href": "https://marylandkathy.com/terms"
+},
+{
+"text": "X",
+"href": "https://x.com/KathyforMD"
+},
+{
+"text": "[image: Kathy Szeliga, State Delegate]",
+"href": "https://marylandkathy.com/"
+},
+{
+"text": "info@marylandkathy.com",
+"href": "mailto:info@marylandkathy.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "MICHAEL RIKER Campaign Events",
  "final_url": "https://www.riker4pg.com/Events?range=2026-8",
- "paid_for_by": null,
+ "fingerprint": "2fbde1772179cb4791a1d948021a1fa1a519bb97",
+ "format": 3,
+ "paid_for_by": "",
  "title": "MICHAEL RIKER Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

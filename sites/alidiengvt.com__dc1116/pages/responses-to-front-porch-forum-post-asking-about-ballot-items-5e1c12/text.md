@@ -1,5 +1,4 @@
-Item #2
-Not sure if it’s accurate to say that the increase is mainly for maintaining core municipal services.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: Responses to Front Porch Forum Post Asking About Ballot Items Posted on March 5, 2019 January 6, 2021 Author steve Leave a comment Item #2 Not sure if it’s accurate to say that the increase is mainly for maintaining core municipal services.
 This proposed municipal tax increase is geared more toward having the ability to pay salary increases of both firefighters and police officers.
 Here is an example of salary/wage increases for firefighters: for FY19 2% wage increase (retroactive to 7/1/18) – FY20 2.5% – FY21 and FY22 3%.
 To your questions are they referring to core downtown, the answer is NO.
@@ -17,9 +16,7 @@ B) We already have $70 million on the backs of taxpayers for the BHS bond and an
 C) We have a projected spending per equalized pupil of 6.31% higher than spending for the current year for the FY20 school budget.
 D) Burlington Telecom has been sold, the sale may have over $6 Million in revenue for the city.
 I will be voting NO for #2.
-Item #3
-Ballot item number #3 has two major components:
-The Planning Director appointed by the Mayor.
+Item #3 Ballot item number #3 has two major components: The Planning Director appointed by the Mayor.
 Currently, the Planning Director responds to the planning commissions therefore there is no accountability to the Mayor or the council.
 Please note all other department heads in the city are appointed by the mayor except for the Planning Director who works with almost all other Department heads on a daily basis to plan and execute projects.
 I personally don’t think the Mayor appointing the planning director is a bad idea.
@@ -27,8 +24,7 @@ Everyone in this community should welcome having a one stop shop where you could
 Even city staff found the aspect of going to many places to get a permit not very efficient.
 I think it has been an ask from residents, builders and developers for years now.
 I will be voting YES for #3.
-Item #4
-Our Church Street Marketplace (CSMP) was established in 1981 and has become an asset for the city of Burlington.
+Item #4 Our Church Street Marketplace (CSMP) was established in 1981 and has become an asset for the city of Burlington.
 All assets need to be marketed, strengthened and polished.
 Over the years, The CSMP, a city department has been functioning greatly without a penny from taxpayers but simply with federal funds for the capital improvement plan and levy tax from Church Street property owners and marketplace businesses.
 Knowing that municipalities are more and more losing funding from our federal Government, knowing that online sales are increasingly taking over retail sales, knowing that our local businesses are the backbone of our state’s economy, knowing that our businesses are an important part of our tax base, I think it is important that we find ways to strengthen our downtown and support our downtown businesses.
@@ -41,9 +37,7 @@ Let’s not forget the work well done by CEDO providing at least 4 options with 
 One can argue that Charter Change ballot item language is different from development ballot item language, but what they have in common is you cannot design democracy or anything without a public referendum.
 I would have voted Yes if it was proposed as an advisory ballot item, not a mandate.
 I am voting No for #4.
-Item #5
-For the ” Business Personal Property Tax” (BPPT)
-Every business will still pay taxes.
+Item #5 For the ” Business Personal Property Tax” (BPPT) Every business will still pay taxes.
 Here it’s important to refer to the title of this ballot item Personal Property Tax.
 The State of Vermont permits towns and municipalities to tax business personal property.
 The cities of Burlington and Winooski are the only municipalities in Chittenden County currently imposing a tax on personal property with personal property (business equipments, furnitures etc.) assets estimated at $45,000 or more.
@@ -52,4 +46,8 @@ The City anticipates eliminating this Business Personal Property Tax starting in
 City leaders are committed to business growth and fostering a climate and tax structure that encourages growth in a responsible manner.
 Small businesses are the backbone of Vermont’s economic vitality.
 Supporting them in our city is supporting the economic growth of our community and state.
-I will be voting Yes for #5
+I will be voting Yes for #5 Categories Ali , Election Post navigation ← Previous Previous post: Thank You for Joining Us at La Boca Next → Next post: Ali’s Corner: Young Women In Politics Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61583092595718",
-"https://secure.anedot.com/friends-for-mcgraw/support-the-campaign",
-"https://votepaulmcgraw.com/",
-"https://votepaulmcgraw.com/cart",
-"https://votepaulmcgraw.com/contact",
-"https://votepaulmcgraw.com/home",
-"https://votepaulmcgraw.com/support",
-"https://votepaulmcgraw.com/videos"
+{
+"text": "0",
+"href": "https://votepaulmcgraw.com/cart"
+},
+{
+"text": "Anedot",
+"href": "https://secure.anedot.com/friends-for-mcgraw/support-the-campaign"
+},
+{
+"text": "Contact",
+"href": "https://votepaulmcgraw.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/friends-for-mcgraw/support-the-campaign"
+},
+{
+"text": "Home",
+"href": "https://votepaulmcgraw.com/home"
+},
+{
+"text": "Support",
+"href": "https://votepaulmcgraw.com/support"
+},
+{
+"text": "Videos",
+"href": "https://votepaulmcgraw.com/videos"
+},
+{
+"text": "[image: Vote Paul McGraw]",
+"href": "https://votepaulmcgraw.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583092595718"
+}
 ]

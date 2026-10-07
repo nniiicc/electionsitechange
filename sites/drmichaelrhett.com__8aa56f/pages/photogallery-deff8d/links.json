@@ -1,7 +1,34 @@
 [
-"https://drmichaelrhett.com/",
-"https://drmichaelrhett.com/bio",
-"https://drmichaelrhett.com/contact",
-"https://drmichaelrhett.com/photogallery",
-"https://drmichaelrhett.com/whats-going-on"
+{
+"text": "About Doc",
+"href": "https://www.drmichaelrhett.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://www.drmichaelrhett.com/contact"
+},
+{
+"text": "Dr. Michael \"Doc\" Rhett",
+"href": "https://www.drmichaelrhett.com"
+},
+{
+"text": "Gallery",
+"href": "https://www.drmichaelrhett.com/photogallery"
+},
+{
+"text": "Georgia State Senate",
+"href": "https://www.drmichaelrhett.com"
+},
+{
+"text": "Home",
+"href": "https://www.drmichaelrhett.com"
+},
+{
+"text": "Updates",
+"href": "https://www.drmichaelrhett.com/whats-going-on"
+},
+{
+"text": "[image: Untitled design_edited.png]",
+"href": "https://www.drmichaelrhett.com"
+}
 ]

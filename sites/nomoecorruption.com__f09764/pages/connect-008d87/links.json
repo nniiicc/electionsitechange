@@ -1,36 +1,158 @@
 [
-"https://apnews.com/article/business-miami-florida-theft-420f9d408c0c7d2efe5063fb90da0871",
-"https://apps.apple.com/sa/app/moegpt/id6743128675?uo=2",
-"https://channelstore.roku.com/details/66ea5667d89c7d403a6c28381af3dbc8:b304fea15c0a13e543f0f4947e158475/moe",
-"https://clickorlando.com/news/local/2025/03/08/could-pine-hills-become-its-own-city-thats-what-local-leaders-are-asking",
-"https://donorbox.org/nomoecorruption?amount=10",
-"https://donorbox.org/nomoecorruption?amount=100",
-"https://donorbox.org/nomoecorruption?amount=1000",
-"https://donorbox.org/nomoecorruption?amount=50",
-"https://donorbox.org/nomoecorruption?amount=500",
-"https://donorbox.org/nomoecorruption?amount=999",
-"https://en.wikipedia.org/wiki/Dimanche_v._Brown",
-"https://facebook.com/moedimanche",
-"https://imdb.com/title/tt37457041?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_american%2520convict",
-"https://instagram.com/MoeDimanche",
-"https://jimcrowmuseum.ferris.edu/question/2013/may.htm",
-"https://nomoecorruption.com/",
-"https://nomoecorruption.com/2024/12/06/judicial-cleanup",
-"https://nomoecorruption.com/connect",
-"https://nomoecorruption.com/connect?query-0-page=2",
-"https://nomoecorruption.com/connect?share=facebook",
-"https://nomoecorruption.com/connect?share=twitter",
-"https://nomoecorruption.com/constant-vigilance-what-made-moe",
-"https://nomoecorruption.com/donate",
-"https://nomoecorruption.com/judicial-corruption",
-"https://nomoecorruption.com/moe-war-room",
-"https://nomoecorruption.com/the-moe-dimanche-show",
-"https://nomoecorruption.com/volunteer",
-"https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf",
-"https://subscribe.wordpress.com/memberships/jwt?site_id=110880426&redirect_url=https%3A%2F%2Fnomoecorruption.com%2Fwp-json%2Fjetpack%2Fv4%2Fsubscribers%2Fauth%3Fredirect_url%3Dhttps%253A%252F%252Fnomoecorruption.com%252Fconnect%252F",
-"https://tiktok.com/@moedimanche",
-"https://wesh.com/article/audit-orange-county-911-calls-not-being-answered-quickly-enough/64817050",
-"https://x.com/DHSgov/status/1939034194979455282",
-"https://x.com/moedimanche?lang=en",
-"https://youtube.com/channel/UCFW4SMmaqUR9Hqpax2njfnQ"
+{
+"text": "$1,000",
+"href": "https://donorbox.org/nomoecorruption?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://donorbox.org/nomoecorruption?amount=10"
+},
+{
+"text": "$100",
+"href": "https://donorbox.org/nomoecorruption?amount=100"
+},
+{
+"text": "$50",
+"href": "https://donorbox.org/nomoecorruption?amount=50"
+},
+{
+"text": "$500",
+"href": "https://donorbox.org/nomoecorruption?amount=500"
+},
+{
+"text": "911 is deficient",
+"href": "https://www.wesh.com/article/audit-orange-county-911-calls-not-being-answered-quickly-enough/64817050"
+},
+{
+"text": "City_of_West_Orlando_Charter",
+"href": "https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf"
+},
+{
+"text": "Connect",
+"href": "https://nomoecorruption.com/connect/"
+},
+{
+"text": "Constant Vigilance: What Made Moe?",
+"href": "https://nomoecorruption.com/constant-vigilance-what-made-moe/"
+},
+{
+"text": "Donate",
+"href": "https://nomoecorruption.com/donate/"
+},
+{
+"text": "Download",
+"href": "https://nomoecorruption.com/wp-content/uploads/2025/06/city_of_west_orlando_charter.pdf"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/moedimanche/"
+},
+{
+"text": "HOME",
+"href": "https://nomoecorruption.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/MoeDimanche/"
+},
+{
+"text": "JOIN TEAM MOE",
+"href": "https://nomoecorruption.com/volunteer/"
+},
+{
+"text": "Judicial Corruption",
+"href": "https://nomoecorruption.com/2024/12/06/judicial-cleanup/"
+},
+{
+"text": "Lawfare",
+"href": "https://nomoecorruption.com/judicial-corruption/"
+},
+{
+"text": "Log in",
+"href": "https://subscribe.wordpress.com/memberships/jwt/?site_id=110880426&redirect_url=https%3A%2F%2Fnomoecorruption.com%2Fwp-json%2Fjetpack%2Fv4%2Fsubscribers%2Fauth%3Fredirect_url%3Dhttps%253A%252F%252Fnomoecorruption.com%252Fconnect%252F"
+},
+{
+"text": "Moe War Room",
+"href": "https://nomoecorruption.com/moe-war-room/"
+},
+{
+"text": "Next Page",
+"href": "https://nomoecorruption.com/connect/?query-0-page=2"
+},
+{
+"text": "No MOE Corruption",
+"href": "https://nomoecorruption.com"
+},
+{
+"text": "Other",
+"href": "https://donorbox.org/nomoecorruption?amount=999"
+},
+{
+"text": "Proven Fighter Against Corruption",
+"href": "https://en.wikipedia.org/wiki/Dimanche_v._Brown"
+},
+{
+"text": "READ MORE ABOUT MOE",
+"href": "https://nomoecorruption.com/constant-vigilance-what-made-moe/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://nomoecorruption.com/connect/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://nomoecorruption.com/connect/?share=twitter"
+},
+{
+"text": "The Moe Dimanche Show",
+"href": "https://nomoecorruption.com/the-moe-dimanche-show/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@moedimanche"
+},
+{
+"text": "Volunteer",
+"href": "https://nomoecorruption.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/moedimanche?lang=en"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCFW4SMmaqUR9Hqpax2njfnQ"
+},
+{
+"text": "[image: No MOE Corruption]",
+"href": "https://nomoecorruption.com/"
+},
+{
+"text": "[image]",
+"href": "https://apnews.com/article/business-miami-florida-theft-420f9d408c0c7d2efe5063fb90da0871"
+},
+{
+"text": "[image]",
+"href": "https://apps.apple.com/sa/app/moegpt/id6743128675?uo=2"
+},
+{
+"text": "[image]",
+"href": "https://channelstore.roku.com/details/66ea5667d89c7d403a6c28381af3dbc8:b304fea15c0a13e543f0f4947e158475/moe"
+},
+{
+"text": "[image]",
+"href": "https://www.clickorlando.com/news/local/2025/03/08/could-pine-hills-become-its-own-city-thats-what-local-leaders-are-asking/"
+},
+{
+"text": "[image]",
+"href": "https://www.imdb.com/title/tt37457041/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_american%2520convict"
+},
+{
+"text": "[image]",
+"href": "https://x.com/DHSgov/status/1939034194979455282"
+},
+{
+"text": "extensively documented by the Jim Crow Museum",
+"href": "https://jimcrowmuseum.ferris.edu/question/2013/may.htm"
+}
 ]

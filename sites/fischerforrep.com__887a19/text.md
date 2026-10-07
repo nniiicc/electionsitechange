@@ -1,4 +1,2 @@
-PETER FISCHER
-I am excited to announce I am running for ReElection in House District 44A.
-.
-"I pledge to treat everyone with respect, build community through advocacy and lasting partnerships, and create opportunities for hard-working Minnesotans." – Peter Fischer
+top of page HOME MEET PETER IN THE NEWS ISSUES ENDORSEMENTS GET INVOLVED Donate HOW TO VOTE More Use tab to navigate through the menu items.
+PETER FISCHER I am excited to announce I am running for ReElection in House District 44A. ​ . ​ "I pledge to treat everyone with respect, build community through advocacy and lasting partnerships, and create opportunities for hard-working Minnesotans." – Peter Fischer ​ DONATE HOME MEET PETER IN THE NEWS ISSUES ENDORSEMENTS GET INVOLVED Donate HOW TO VOTE More Use tab to navigate through the menu items. © # Prepared and Paid for by Fischer for Representative committee, 2443 Standridge Ave Maplewood, MN 55109 Powered by Wix bottom of page

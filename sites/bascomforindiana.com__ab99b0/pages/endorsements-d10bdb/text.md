@@ -1,6 +1,2 @@
-- Allen Goodman - Dearborn County Commissioner
-- Rick Probst - Dearborn County Commissioner
-- Jim Thatcher - Dearborn County Commissioner
-- Liz Morris – President, Dearborn County Council
-- Tim Doll – Vice President, Dearborn County Council
-- Dave Lusby – Former Dearborn County Sheriff
+top of page HOME ABOUT ISSUES ENDORSEMENTS ENDORSEMENTS Allen Goodman - Dearborn County Commissioner Rick Probst - Dearborn County Commissioner Jim Thatcher - Dearborn County Commissioner Liz Morris – President, Dearborn County Council Tim Doll – Vice President, Dearborn County Council Dave Lusby – Former Dearborn County Sheriff PAID FOR BY BASCOM FOR INDIANA, E.G.
+MCLAUGHLIN, TREASURER bottom of page

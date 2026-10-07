@@ -1,11 +1,3 @@
-Back to All Events
-Join Joseph for coffee and conversation at The Bluestocking Bookshop.
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events January Coffee Hour Saturday, January 24, 2026 10:00 AM 11:00 AM The Bluestocking Bookshop 12330 James Street Holland, MI 49424 United States (map) Google Calendar ICS Join Joseph for coffee and conversation at The Bluestocking Bookshop.
 Can’t make it, but still want to share your concerns, ideas, and hopes for our state government?
-Send an email to info@mccluskyformi.com or visit www.mccluskyformi.com
-Previous
-Previous
-August 19
-Campaign Launch Celebration
-Next
-Next
-February 21
+Send an email to info@mccluskyformi.com or visit www.mccluskyformi.com Previous Previous August 19 Campaign Launch Celebration Next Next February 21 February Coffee Hour Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

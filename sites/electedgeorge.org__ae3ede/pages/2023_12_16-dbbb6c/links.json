@@ -1,35 +1,154 @@
 [
-"http://event/",
-"http://instagram.com/electedgeorge",
-"https://edgeorge.wakeupliberty.com/news",
-"https://edgeorge.wakeupliberty.com/privacy-policy",
-"https://edgeorge.wakeupliberty.com/take-action/donate",
-"https://edgeorge.wakeupliberty.com/take-action/volunteer",
-"https://electedgeorge.org/",
-"https://electedgeorge.org/cookie-policy",
-"https://electedgeorge.org/events",
-"https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races",
-"https://electedgeorge.org/meet",
-"https://electedgeorge.org/meet/district",
-"https://electedgeorge.org/meet/people-not-politics",
-"https://electedgeorge.org/news",
-"https://electedgeorge.org/priorities",
-"https://electedgeorge.org/priorities/cost-effective-healthcare",
-"https://electedgeorge.org/priorities/smarter-education",
-"https://electedgeorge.org/priorities/stronger-economy",
-"https://electedgeorge.org/take-action",
-"https://electedgeorge.org/take-action/donate",
-"https://electedgeorge.org/take-action/volunteer",
-"https://electedgeorge.org/take-action/when-where-to-vote",
-"https://facebook.com/LPofNC",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://x.com/edgeorgewv"
+{
+"text": "(919) 438-2657",
+"href": "tel:(919)%20438-2657"
+},
+{
+"text": "Contribute",
+"href": "https://edgeorge.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://electedgeorge.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Donate",
+"href": "https://electedgeorge.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electedgeorge.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://electedgeorge.org/events/"
+},
+{
+"text": "House 34",
+"href": "https://electedgeorge.org/meet/district/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/electedgeorge"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Libertarian Party of North Carolina Candidates File for 46 Races",
+"href": "https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "Meet",
+"href": "https://electedgeorge.org/meet/"
+},
+{
+"text": "Meet Ed George",
+"href": "https://electedgeorge.org/meet/"
+},
+{
+"text": "News",
+"href": "https://edgeorge.wakeupliberty.com/news/"
+},
+{
+"text": "News",
+"href": "https://electedgeorge.org/news/"
+},
+{
+"text": "People. not Politics.",
+"href": "https://electedgeorge.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://electedgeorge.org/priorities/"
+},
+{
+"text": "Smarter Education",
+"href": "https://electedgeorge.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://electedgeorge.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://electedgeorge.org/take-action/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/edgeorgewv"
+},
+{
+"text": "Volunteer",
+"href": "https://edgeorge.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://electedgeorge.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://electedgeorge.org/take-action/when-where-to-vote/"
+},
+{
+"text": "[image: Libertarian Party Of North Carolina - logo]",
+"href": "https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "[image]",
+"href": "https://electedgeorge.org"
+},
+{
+"text": "[image]",
+"href": "https://electedgeorge.org/"
+},
+{
+"text": "[no text]",
+"href": "tel:(919)%20438-2657"
+},
+{
+"text": "info@electedgeorge.org",
+"href": "mailto:info@electedgeorge.org"
+}
 ]

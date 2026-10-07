@@ -1,18 +1,18 @@
-This is a question I am often asked: “Where do you get your news, and how do you fact-check what you read?”
-Answering that question is more difficult today than when I was a kid and news outlets were just that—news.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Where do you get your news and facts?
+This is a question I am often asked: “Where do you get your news, and how do you fact-check what you read?” Answering that question is more difficult today than when I was a kid and news outlets were just that—news.
 Much of today’s news has become entertainment, often feeding our expectations, desires, and beliefs.
 We tend to default to sources that reinforce what we already believe and are less likely to challenge our own belief systems by seeking out alternative perspectives.
 To answer the question most directly, I’ll share my own sources for your consideration.
-Printed Media: I read the Omaha World-Herald every day, the Lincoln Journal Star most days, and, occasionally, the weekly Epoch Times.
-I receive articles from The Wall Street Journal from time to time and am also on the routing list in the Capitol Building for The Atlantic.
-My favorite publication is Nebraskaland Magazine, published by Nebraska Game and Parks which I read cover-to-cover, with a close second being Nebraska History Magazine, which has fascinating stories about our state.
+Printed Media: I read the Omaha World-Herald every day, the Lincoln Journal Star most days, and, occasionally, the weekly Epoch Times .
+I receive articles from The Wall Street Journal from time to time and am also on the routing list in the Capitol Building for The Atlantic .
+My favorite publication is Nebraskaland Magazine , published by Nebraska Game and Parks which I read cover-to-cover, with a close second being Nebraska History Magazine , which has fascinating stories about our state.
 Online: The Nebraska Examiner does, by far, the best job of covering legislative matters and has two full-time reporters on the floor during debate.
 They are accurate and, by my measure, fair in their reporting.
 Often, their analysis of a bill is better than what I get inside the building.
 Flatwater Free Press does more in-depth investigative reporting on a smaller number of issues and offers a Friday summary newsletter that links to its full articles.
 Radio: I have satellite radio in my car, along with the standard AM/FM.
 My first four preset stations are KFAB, BBC, CNN, and Fox.
-KFAB, of course, gives a local perspective on issues that constituents are tracking and is often a healthy antagonist to whatever is going on in the Legislature (remember Jim Rose gets paid by the word 😊).
+KFAB, of course, gives a local perspective on issues that constituents are tracking and is often a healthy antagonist to whatever is going on in the Legislature ( remember Jim Rose gets paid by the word 😊).
 CNN and Fox provide national coverage with different slants, which I believe is healthy.
 BBC covers international matters that you’ll rarely hear about on any other outlet.
 With all four news stations, one must always remember that they are entertainment businesses, often giving their audiences what they want to hear.
@@ -36,13 +36,26 @@ So, how do you know what is fact and what is fiction?
 The short—and uncomfortable—answer is that you first have to do your homework and, second, go to the sources themselves.
 Your homework should involve more than one provider, one of which should present a perspective that makes you uncomfortable.
 If every source agrees with you, you’re probably not getting the full picture.
-Going to the source is easy:
-Reach out and ask!
+Going to the source is easy: Reach out and ask !
 If it’s a legislative matter, each senator has an office, a staff, an email address, and phone access.
 Reach out and ask for their position, and you may acquire more facts than you had before.
 I often say “whether your glad, mad, sad, we want to hear from you and we will respond”.
 During the heat of the session, we can get backed up on replies, but we generally try to respond quickly on important and timely matters.
 My legislative email is bvongillern@leg.ne.gov and the office phone is 402-471-2621.
-My campaign/political email is bvg4ne@gmail.com.
+My campaign/political email is bvg4ne@gmail.com .
 If you’re glad, mad, sad about anything and want to reach out to me please do so.
 I hope you do.
+VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

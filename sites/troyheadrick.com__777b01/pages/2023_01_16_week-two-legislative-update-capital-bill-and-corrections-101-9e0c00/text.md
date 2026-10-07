@@ -1,13 +1,13 @@
-Week Two Legislative Update.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / Week Two Legislative Update.
 Capital Bill and Corrections 101.
-I have not yet determined if it will be feasible to provide an update every week.
+January 16, 2023 I have not yet determined if it will be feasible to provide an update every week.
 At this point in time, however, I’ve got the capacity to offer a summary following the second week of the legislative session.
-Before I provide that, allow me to alert you to the fact that the House and Senate Progressives have a press conference scheduled for this Tuesday, January 17th at noon.
+Before I provide that, allow me to alert you to the fact that the House and Senate Progressives have a press conference scheduled for this Tuesday, January 17 th at noon.
 Following the press conference, we’ll be posting our platform for the new legislative biennium.
 I’ll certainly post links for locating that document once it has been made public.
 Week two began the real work of getting all new committee members up to speed on the general concepts and previous legislation that is likely to have an impact on our committee work.
 Given the fact that both the House and Senate are experiencing the largest turnover of legislators in history, these overview sessions are critically important.
-My committee, the House Committee on Corrections and Institutions, spent time learning about the 2022-23 Capital Bill as well as an overview of the Department of Corrections in anticipation of receiving the Governor’s proposed budget this Friday, January 20th.
+My committee, the House Committee on Corrections and Institutions , spent time learning about the 2022-23 Capital Bill as well as an overview of the Department of Corrections in anticipation of receiving the Governor’s proposed budget this Friday, January 20 th .
 Jennifer Fitch, Commissioner for the Department of Buildings and General Services, along with Joe Aja, her Director for Design and Construction offered incredibly thorough presentations over the course of the week that outlined the history of the recent Capital Bill and some of the larger projects supported through those appropriations.
 I urge you all to become familiar with the linked page that will take you to our committee landing spot.
 From there you have access to all meeting agendas as well as any documents we review.
@@ -34,4 +34,4 @@ I anticipate that my first bill will be introduced to the floor very soon.
 I am finalizing the process by which I gather co-sponsors and do not have a clear understanding of the timeline between the completion of that step and the point at which it becomes formally introduced.
 That bill, in general, will seek to protect our k-12 public educators from outside influence from far-right activist groups that seek to restrict curricula on matters pertaining to social justice.
 I am also in the initial stages of working with other Representatives from Burlington to introduce legislation that seeks to hold UVM accountable to building solutions for the housing and rental crisis in our city.
-I’ll have more details for you as they develop.
+I’ll have more details for you as they develop. < Reflections on My First Week as a Legislator > Week Four: Budget Adjustment, Trust in our Teachers, Alarming Worker Conditions Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

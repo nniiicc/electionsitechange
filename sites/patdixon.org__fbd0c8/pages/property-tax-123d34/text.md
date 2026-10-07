@@ -1,4 +1,6 @@
-I don’t have to convince you that there is no political party that wants lower taxes than the Libertarian Party.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Uncategorized Property Tax Property Tax patdixon June 5, 2026 June 5, 2026 Uncategorized I don’t have to convince you that there is no political party that wants lower taxes than the Libertarian Party.
 That might make you think we like it when politicians say they are going to eliminate your property taxes.
 Never mind that many of those politicians are not running for the state legislature, which sets tax policy.
 It is important to understand that there is no state property tax.
@@ -31,3 +33,8 @@ If I am elected governor, I will work on identifying spending cuts first, which 
 I will also respect local control and the ability for political subdivisions of the state to implement reasonable and responsible tax policy.
 Beware of those who make popular promises with no detail.
 Honesty is the best policy.
+Bookmark .
+AI The Abbott Report 2 Comments Pingback: The Abbott Ad Nya Dutkowsky September 9, 2026 at 18:16 Pat, there is a group on Facebook called Eliminate Property Tax that has a bill to eliminate property taxes backed by research.
+Please reach out to the founder, Russell Bennett to inform yourself on how property taxes can and should be eliminated.
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

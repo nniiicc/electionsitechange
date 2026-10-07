@@ -1,10 +1,3 @@
-Paid for by Tatiana for Washington (D)
-PO Box 27113 • Seattle, WA 98165
-(206) 412-1535 • hello@tatianaforwa.org
-Previous
-Previous
-October 19
-Canvass with Tatiana in Othello & New Holly!
-Next
-Next
-October 20
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Back to All Events 2026 A&NH/PI General Candidate Forum Tuesday, October 20, 2026 5:15 PM 7:00 PM Wing Luke Museum 719 South King Street Seattle, Washington, 98104 United States (map) Google Calendar ICS Source: https://docs.google.com/forms/d/e/1FAIpQLSfH5LWRos2q-6Z-xiOXAfGuRK8NrOoDk8v-7GgwGBTW9YZTSg/viewform Previous Previous October 19 Canvass with Tatiana in Othello & New Holly!
+Next Next October 20 Canvass with Tatiana in North Beacon Hill!
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

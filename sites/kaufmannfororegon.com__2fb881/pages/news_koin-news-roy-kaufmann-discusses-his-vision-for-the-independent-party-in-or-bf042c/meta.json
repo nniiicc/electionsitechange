@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kaufmannfororegon.com/news/koin-news-roy-kaufmann-discusses-his-vision-for-the-independent-party-in-oregon",
- "paid_for_by": null,
+ "fingerprint": "1973b578fd0fe5f2e5d19ba492a0d91796495524",
+ "format": 3,
+ "paid_for_by": "",
  "title": "KOIN NEWS: Roy Kaufmann discusses his vision for the Independent Party in Oregon",
  "years_mentioned": [
   "2026"

@@ -1,10 +1,13 @@
-Every strong movement starts with listening.
+Skip to content About Issues Gallery One Minute Survey Volunteer Donate About Issues Gallery One Minute Survey Volunteer Donate Facebook-f Youtube Envelope Let’s Set Our Priorities Together Every strong movement starts with listening.
 Rank your top 3 concerns from the list below so we can focus on what matters most to our community.
-Rising crime rates and drug problems demand stronger support for law enforcement and tougher penalties for violent offenders to keep our neighborhoods safe.
-Missourians face rising premiums, fewer doctors, and higher prescription costs, making affordable and reliable healthcare harder to access.
-Overregulation hurts job growth and drives up costs—small businesses need less bureaucracy so they can thrive and create good-paying jobs.
-Families are being squeezed by higher electric and gas bills, and Missouri needs reliable, affordable energy instead of costly green mandates.
-Families and seniors are struggling as rising property taxes make it harder to stay in their homes and afford basic living costs.
-Parents deserve more say in their children’s education, ensuring schools reflect community values instead of bureaucratic or political agendas.
-Local highways, roads, and bridges need repair and expansion so families can travel safely and businesses can grow without costly delays.
-Out-of-state groups have spent millions to change Missouri’s constitution on issues like legalizing marijuana, expanding Medicaid, and abortion up to birth—making IP reform essential to protect Missouri values.
+Name (Required) First Last Email (Required) Phone (Required) Address (Required) Street Address City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Please select the 3 most important issues to you: (Required) Crime & Public Safety Rising crime rates and drug problems demand stronger support for law enforcement and tougher penalties for violent offenders to keep our neighborhoods safe.
+Healthcare Access & Costs Missourians face rising premiums, fewer doctors, and higher prescription costs, making affordable and reliable healthcare harder to access.
+Cutting Red Tape for Small Businesses Overregulation hurts job growth and drives up costs—small businesses need less bureaucracy so they can thrive and create good-paying jobs.
+Energy & Utility Costs Families are being squeezed by higher electric and gas bills, and Missouri needs reliable, affordable energy instead of costly green mandates.
+Property Taxes Families and seniors are struggling as rising property taxes make it harder to stay in their homes and afford basic living costs.
+Parents’ Power in Education Parents deserve more say in their children’s education, ensuring schools reflect community values instead of bureaucratic or political agendas.
+Roads, Bridges, and Infrastructure Local highways, roads, and bridges need repair and expansion so families can travel safely and businesses can grow without costly delays.
+Initiative Petition (IP) Reform Out-of-state groups have spent millions to change Missouri’s constitution on issues like legalizing marijuana, expanding Medicaid, and abortion up to birth—making IP reform essential to protect Missouri values.
+Other Other (please explain below) Phone consent By providing your phone number, you agree to receive campaign messages from "Friends of Melanie Stinnett" to the phone number you provide.
+Submit Privacy Policy PAID FOR BY Friends of Melanie Stinnett, Treasurer Cristian Rath

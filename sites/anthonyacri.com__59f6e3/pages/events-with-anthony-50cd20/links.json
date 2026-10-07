@@ -1,10 +1,42 @@
 [
-"https://anthonyacri.com/",
-"https://anthonyacri.com/anthonyacri-com",
-"https://anthonyacri.com/contact-us",
-"https://anthonyacri.com/events-with-anthony",
-"https://anthonyacri.com/gallery",
-"https://anthonyacri.com/location",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "Am I Registered to Vote",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "AnthonyAcri.com",
+"href": "https://anthonyacri.com/"
+},
+{
+"text": "AnthonyAcri.com",
+"href": "https://anthonyacri.com/anthonyacri-com"
+},
+{
+"text": "Connect",
+"href": "tel:203-772-8996"
+},
+{
+"text": "Contact us",
+"href": "https://anthonyacri.com/contact-us"
+},
+{
+"text": "Events with Anthony",
+"href": "https://anthonyacri.com/events-with-anthony"
+},
+{
+"text": "Gallery",
+"href": "https://anthonyacri.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://anthonyacri.com/"
+},
+{
+"text": "Location",
+"href": "https://anthonyacri.com/location"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+}
 ]

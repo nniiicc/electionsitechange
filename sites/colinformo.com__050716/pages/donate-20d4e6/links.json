@@ -1,14 +1,114 @@
 [
-"https://colinformo.com/",
-"https://colinformo.com/accessibility",
-"https://colinformo.com/donate",
-"https://colinformo.com/privacy",
-"https://facebook.com/WellenkampforMO",
-"https://house.mo.gov/MemberDetails.aspx?district=105",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=100",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=25",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=250",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=50",
-"https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=500"
+{
+"text": "$100 A mail piece to a precinct →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=100"
+},
+{
+"text": "$25 Signs for a block →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=25"
+},
+{
+"text": "$250 A weekend of voter contact →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=250"
+},
+{
+"text": "$50 A door-hanger route →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=50"
+},
+{
+"text": "$500 A week of digital ads →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate?amount=500"
+},
+{
+"text": "01 Meet Colin",
+"href": "https://colinformo.com/#about"
+},
+{
+"text": "02 The Record",
+"href": "https://colinformo.com/#priorities"
+},
+{
+"text": "03 What's Next",
+"href": "https://colinformo.com/#next"
+},
+{
+"text": "04 Photos",
+"href": "https://colinformo.com/#around"
+},
+{
+"text": "05 District 105",
+"href": "https://colinformo.com/#district"
+},
+{
+"text": "06 Volunteer",
+"href": "https://colinformo.com/#help"
+},
+{
+"text": "Accessibility",
+"href": "https://colinformo.com/accessibility/"
+},
+{
+"text": "Chip in",
+"href": "https://colinformo.com/donate/"
+},
+{
+"text": "Chip in",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate"
+},
+{
+"text": "District 105",
+"href": "https://colinformo.com/#district"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WellenkampforMO"
+},
+{
+"text": "Meet Colin",
+"href": "https://colinformo.com/#about"
+},
+{
+"text": "Other Whatever works for you →",
+"href": "https://secure.anedot.com/citizens-for-colin-wellenkamp/donate"
+},
+{
+"text": "Photos",
+"href": "https://colinformo.com/#around"
+},
+{
+"text": "Privacy",
+"href": "https://colinformo.com/privacy/"
+},
+{
+"text": "See the record",
+"href": "https://colinformo.com/#priorities"
+},
+{
+"text": "The Record",
+"href": "https://colinformo.com/#priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://colinformo.com/#help"
+},
+{
+"text": "Volunteer instead",
+"href": "https://colinformo.com/#help"
+},
+{
+"text": "Wellenkamp State Rep. · District 105",
+"href": "https://colinformo.com/"
+},
+{
+"text": "What's Next",
+"href": "https://colinformo.com/#next"
+},
+{
+"text": "house.mo.gov",
+"href": "https://house.mo.gov/MemberDetails.aspx?district=105"
+},
+{
+"text": "info@colinformo.com",
+"href": "mailto:info@colinformo.com"
+}
 ]

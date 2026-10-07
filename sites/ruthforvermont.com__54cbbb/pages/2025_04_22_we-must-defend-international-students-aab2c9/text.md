@@ -1,4 +1,4 @@
-I delivered the following remarks today on the Senate Floor, as part of an effort by some senators to comment every day on the troubling actions of the Trump Administration.
+Skip to content Ruth for Vermont Senator Ruth Hardy for Addison District Menu Meet Ruth Updates Endorsements Get Email Updates Legislation Commitments En Español Contribute Issues We must defend international students April 22, 2025 ruthhardy I delivered the following remarks today on the Senate Floor, as part of an effort by some senators to comment every day on the troubling actions of the Trump Administration.
 Recently, Vermont has become a focal point for disturbing actions against international students.
 This includes ICE using Vermont as a stopping point for the imprisonment of a Tufts University student, Rümeysa Öztürk; the cancellation of a humanitarian parole program affecting two students at CVU; the arrest of Vermont resident and Columbia University student, Mohsen Mahdawi; and the unjustified visa revocation of a Middlebury College student.
 Over the past few weeks, an estimated 1,500 students from 250 colleges nationwide have had their visas revoked, mostly without notice or reason.
@@ -25,5 +25,7 @@ That is exactly what we are seeing now in America.
 The dozens of international faculty members who are permanent residents in my district are scared they are next.
 We in Vermont cannot stand by quietly and let national leaders repeat fascist history.
 We must speak up and act to protect the rights and safety of international students and professors in our towns and on our campuses.
-Discover more from Ruth for Vermont
-Subscribe to get the latest posts sent to your email.
+Discover more from Ruth for Vermont Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Post navigation Previous post Community Forum Gratitude & Resources Next post Late April Update – Education Forum 1 thought on “We must defend international students” Pingback: Late April Update – Education Forum – Ruth for Vermont Comments are closed.
+Facebook Instagram Recent Posts Everywhere, All of the Time Setting the record straight about my work Vergennes Opera House All Access Project Search for: Follow Ruth for Vermont on WordPress.com Follow Us Facebook Instagram Paid for by Ruth Hardy for Vermont Senate | PO Box 343 | East Middlebury, VT 05740 Create a website or blog at WordPress.com Subscribe %d

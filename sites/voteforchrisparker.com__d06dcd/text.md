@@ -1,5 +1,7 @@
-About Chris:
-Successful Realtor and local businessman Chris Parker came to Huntington in 1996 to attend Huntington University, and found both his education and his calling.
+top of page Voting Locations Click here!
+Platform D.O.G.E.
+Connect Volunteer Store Donate Platform D.O.G.E.
+Connect Volunteer Store Donate About Chris: Successful Realtor and local businessman Chris Parker came to Huntington in 1996 to attend Huntington University, and found both his education and his calling.
 Shortly after graduating in 1999, he married his wife, Angie.
 Today, they are proud Huntington County residents raising two adult sons and a young daughter.
 A lifelong Christian and conservative Republican, Chris earned a Bachelor of Science in Youth Ministry and served in pastoral leadership in several churches.
@@ -15,7 +17,7 @@ True growth, he believes, should strengthen local communities instead of sell co
 Instead, Chris supports responsible Hoosier First economic growth that uplifts families, provides real long-term and good-paying jobs, and preserves our community’s small town charm.
 He believes that real economic revitalization depends on expanding local job offerings, restoring domestic manufacturing, encouraging local entrepreneurship, and growing the tax base through productive enterprise.
 Towards this end, Chris is a strong advocate for local home rule and stands against increasing consolidation of decision-making in Indy.
-He believes local communities are best positioned to decide their own future and that state government should empower, not overshadow, counties and municipalities.
-Chris Parker believes public office should not be about power, but about faithful stewardship and standing strong for the interests of the people.
+He believes local communities are best positioned to decide their own future and that state government should empower, not overshadow, counties and municipalities. ​ Chris Parker believes public office should not be about power, but about faithful stewardship and standing strong for the interests of the people.
 With deep roots in District 17, experience in business and ministry, and a lifelong commitment to faith, family, and our community, he is prepared to serve with integrity, humility, and firm resolve.
-His goal is clear: to keep our rural Indiana towns strong where families can flourish, local businesses grow, and the next generation can confidently build their future.
+His goal is clear: to keep our rural Indiana towns strong where families can flourish, local businesses grow, and the next generation can confidently build their future. ​ Paid for by Friends of Chris Parker Terms & Conditions Privacy Policy Platform Connect D.O.G.E.
+Volunteer Donate bottom of page

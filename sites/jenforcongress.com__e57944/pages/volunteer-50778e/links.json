@@ -1,18 +1,74 @@
 [
-"https://facebook.com/Jen4VA",
-"https://flickr.com/photos/jenforcongress",
-"https://instagram.com/jenkiggans?hl=en",
-"https://jenforcongress.com/",
-"https://jenforcongress.com/about",
-"https://jenforcongress.com/early-voting-information",
-"https://jenforcongress.com/issues",
-"https://jenforcongress.com/privacy-policy",
-"https://jenforcongress.com/recent-news",
-"https://jenforcongress.com/volunteer",
-"https://secure.winred.com/kiggans-for-congress/donate",
-"https://secure.winred.com/kiggans-for-congress/donate?amount=10",
-"https://secure.winred.com/kiggans-for-congress/donate?amount=25",
-"https://secure.winred.com/kiggans-for-congress/donate?amount=50",
-"https://secure.winred.com/kiggans-for-congress/storefront",
-"https://twitter.com/JenKiggans"
+{
+"text": "About",
+"href": "https://jenforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kiggans-for-congress/donate"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.winred.com/kiggans-for-congress/donate?amount=10"
+},
+{
+"text": "Donate $25",
+"href": "https://secure.winred.com/kiggans-for-congress/donate?amount=25"
+},
+{
+"text": "Donate $50",
+"href": "https://secure.winred.com/kiggans-for-congress/donate?amount=50"
+},
+{
+"text": "Early Voting",
+"href": "https://jenforcongress.com/early-voting-information/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Jen4VA"
+},
+{
+"text": "In The News",
+"href": "https://jenforcongress.com/recent-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jenkiggans/?hl=en"
+},
+{
+"text": "Issues",
+"href": "https://jenforcongress.com/issues/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.flickr.com/photos/jenforcongress/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.winred.com/kiggans-for-congress/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jenforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/kiggans-for-congress/storefront/"
+},
+{
+"text": "Terms and Conditions/Privacy Policy here",
+"href": "https://jenforcongress.com/privacy-policy"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/JenKiggans"
+},
+{
+"text": "Volunteer",
+"href": "https://jenforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://jenforcongress.com"
+}
 ]

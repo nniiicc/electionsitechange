@@ -1,6 +1,4 @@
-vanessa believes in
-Transparent and Responsive Government
-Government must be accountable to the people it serves.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Affordable Communities & Housing Affordable, High-Quality Healthcare Safe and Accessible Communities Strong Public Education Clean and Healthy Communities Championing the LGBTQ+ Community Vibrant Communities Where Seniors Can Age in Place Transparent and Responsive Government vanessa believes in Transparent and Responsive Government Government must be accountable to the people it serves.
 I will fight to strengthen ethics laws, increase transparency, and ensure that elections are decided by New Yorkers, not outside interests.
 I will support stronger oversight and enforcement so that public trust in government is earned and maintained.
-Most importantly, I will lead with openness and responsiveness, ensuring that constituents always have a voice in the decisions that affect their lives.
+Most importantly, I will lead with openness and responsiveness, ensuring that constituents always have a voice in the decisions that affect their lives. vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

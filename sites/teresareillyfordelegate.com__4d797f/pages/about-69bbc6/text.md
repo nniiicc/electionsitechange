@@ -1,6 +1,4 @@
-Delegate Teresa Reilly,
-District 35A Cecil and Harford Counties
-Member of The House of Delegates, representing District 35A, Cecil and Harford Counties, since January 2015.
+Home About Priorities Resources Scholarship Contact Us News About Delegate Teresa Reilly, District 35A Cecil and Harford Counties Member of The House of Delegates, representing District 35A, Cecil and Harford Counties, since January 2015.
 Member, Health & Government Operations Committee, 2020- (Health Occupations & Long-Term Care Subcommittee, 2020-; Public Health & Minority Health Disparities Subcommittee, 2020-); Joint Committee on Behavioral Health and Opioid Use, 2020- and Rules and Executive Nominations Committee, 2021-.
 Member, Bainbridge Development Advisory Board, 2015-; Cecil County Local Development Council, 2015-; House Chair, Harford County Delegation, 2017-.
 Member, House Ways and Means Committee, 2015-2019 (Revenues Subcommittee, 2015-2019; Election Law Subcommittee, 2015-2019); Deputy Minority Whip of Ways & Means Committee, 2015-2019.
@@ -30,4 +28,5 @@ I have dedicated my life to family, faith, community, and hard work.
 I represent the right mix of principles, knowledge, values, and experience to serve you and your family as Your Delegate and to get things done for you in the General Assembly.
 Thus, I am honored to represent the citizens of Maryland’s Legislative District 35A, Cecil and Harford Counties, in the Maryland House of Delegates.
 Thank you for allowing me to be your voice.
-Teresa
+Teresa Comments are closed.
+Search for: Get Weekly Updates Sign up to get weekly e-newsletters about what's going on in Annapolis from Teresa during the legislative session. © Copyright # - Theme Chip Zero 1.2 by TutorialChip - Powered by WordPress 5.4.16

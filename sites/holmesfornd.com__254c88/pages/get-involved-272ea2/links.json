@@ -1,7 +1,34 @@
 [
-"https://facebook.com/HolmesforND",
-"https://holmesfornd.com/",
-"https://holmesfornd.com/get-involved",
-"https://holmesfornd.com/home",
-"https://secure.winred.com/holmes-for-nd/donate"
+{
+"text": "Contact",
+"href": "https://holmesfornd.com/home/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/holmes-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://holmesfornd.com/get-involved/"
+},
+{
+"text": "Meet Mike",
+"href": "https://holmesfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://holmesfornd.com/home/#news"
+},
+{
+"text": "Priorities",
+"href": "https://holmesfornd.com/home#priorities"
+},
+{
+"text": "[image]",
+"href": "https://holmesfornd.com/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/HolmesforND/"
+}
 ]

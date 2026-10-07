@@ -1,21 +1,14 @@
-top of page
-IN THE NEWS
-May 9, 2024
-The Texas Tribune
-JUNE 5, 2023
-Houston Public Media
-December 17, 2021
-Texas Standard
-July 26, 2022
-Houston Public Media
-October 16, 2023
-Houston Chronicle
-April 3, 2024
-Houston Chronicle
-February 28, 2023
-Houston Chronicle
-October 13, 2023
-Houston Chronicle
-January 26, 2023
-North Channel Star
-bottom of page
+top of page Meet Sylvia Accomplishments Endorsements Issues News Contact More Use tab to navigate through the menu items.
+DONATE IN THE NEWS May 22, 2025 Houston Public Media Texas Democrats speak out against Republicans’ proposed cuts to Medicaid and SNAP Read More April 25, 2025 Houston Chronicle Texas Democrats push inquiry into Trump deals with prominent law firms Read More February 6, 2025 Houston Public Media Houston congresswoman to re-introduce a bill seeking citizenship for DACA recipients.
+Read More January 30, 2025 Houston Public Media Houston congresswoman says recent immigration enforcement going beyond targeted efforts Read More December 31, 2024 Houston Chronicle Congresswoman says Union Pacific executive told her she was too ‘emotional’ over Milby student’s train death.
+Read More July 2, 2024 Roll Call Labor adds heat rule as world temps rise; Heat wave season has grown by # days since the #s, EPA says Read More May 9, 2024 Click2Houston ‘Grave concerns’: Rep.
+Sylvia Garcia calls for federal audit into Houston ISD Sup.
+Mike Miles’ Colorado school Read More May 9, 2024 The Texas Tribune Texas Democrat leads renewed push in Congress to grant citizenship to DACA recipients Read More JUNE 5, 2023 Houston Public Media Houston awarded $36.9 million federal grant to build railroad underpasses in East End neighborhood plagued by stopped trains Read More December 17, 2021 Texas Standard Military sexual assault bill honoring Vanessa Guillén reaches the president’s desk Read More April 14, 2022 Baylor College of Medicine Baylor’s Post-COVID clinic receives federal funding Read More March 11, 2021 North Channel Star Galena Park’s Medical Clinic Administers COVID Vaccine Read More July 26, 2022 Houston Public Media A new law would require breaks for outside workers.
+Its sponsor says it’s long overdue Read More May 9, 2025 KHOU 11 Congresswoman: Family heading to Houston for daughter's brain cancer treatment stopped at checkpoint, deported Read More February 26, 2025 Texas Observer Sylvia Garcia on the immigration narrative, the 14th Amendment, and the long fight for Dreamers Read More January 30, 2025 Houston Chronicle How one Houston congresswoman is trying to protect immigrants from deportation Read More January 13, 2025 Houston Chronicle Mass deportation would be a moral catastrophe — and an economic one Read More December 10, 2024 KHOU 11 Houston leaders step into spotlight in renewed effort to make railroad crossings safer for students Read More May 16, 2024 Houston Chronicle U.S.
+Rep.
+Sylvia Garcia demands Department of Education audit of HISD funding during COVID pandemic Read More October 16, 2023 Houston Chronicle Sylvia Garcia: What the U.S. must do to cope with extreme heat (Opinion) Read More April 3, 2024 Houston Chronicle Houston post office officially renamed after Army Spc.
+Vanessa Guillén Read More February 28, 2023 Houston Chronicle Stopped trains still block East End streets.
+A federal bill could lead to fines for railroads.
+Read More October 13, 2023 Houston Chronicle DOE's billion-dollar investment in Houston's clean hydrogen sector could create more than 10K jobs Read More January 26, 2023 North Channel Star $60 million in Maritime grants to benefit Port of Houston and San Jac Center of Excellence Read More April 30, 2020 North Channel Star Congresswoman Garcia brings funding to District’s Colleges Read More JOIN THE FIGHT Donate Volunteer Contact the Campaign (832) 899-5390 PO Box 8530, Houston, TX 77249 team@sylviaforcongress.com Thank you for visiting my campaign website.
+If your intention was to visit my official Government website, please visit sylviagarcia.house.gov .
+PAID FOR BY SYLVIA GARCIA FOR CONGRESS bottom of page

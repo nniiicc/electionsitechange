@@ -1,6 +1,4 @@
-PRIORITIES • Protect Our Future • Policy to
-Make Big Tech Build Responsibly
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Make Big Tech Build Responsibly Why I believe this — and how I’ll fight for it.
 Artificial intelligence is going to reshape every part of our lives, whether we’re ready or not.
 It’s here, and the rest of the world is racing ahead.
 Standing still isn’t an option.
@@ -15,11 +13,10 @@ It can also hand a few companies more power and wealth than any group in history
 The question was never whether AI is coming.
 It’s whether it’s built to serve the people, or the few who own it.
 So my position is simple, and it starts with getting ahead of this instead of chasing it: regulate it, standardize it, build it responsibly, and protect our people, our planet, and our economy every step of the way.
-And let me say plainly what the tech giants won’t — the real danger here is no regulation at all.
+And let me say plainly what the tech giants won’t — the real danger here is no regulation at all .
 Leave the most powerful technology in history to a handful of companies with no rules and no referees, and we hand them a grip on our economy, our information, and our government that no one voted to give them.
 We have to get ahead of it: get the money out of politics, put people who understand the technology in the room, and make AI work for all of us instead of a chosen few.
-Here’s what I’ll do — and why
-Protect the workers this technology is about to displace.
+Here’s what I’ll do — and why Protect the workers this technology is about to displace.
 Let’s be honest, because no one in Washington will: AI is going to take jobs — real jobs, held by real people in this district.
 We made a catastrophic mistake a generation ago, when we let globalization ship our work overseas and told the families left behind they were on their own.
 Whole communities never recovered.
@@ -30,7 +27,7 @@ The gains have to be shared, or none of this is worth it.
 Keep Big Tech’s data centers from raising your bills and draining your water — starting with a moratorium in California.
 AI runs on massive data centers, and they’re gulping electricity and water at a staggering rate — the worst of them burn through a whole city’s worth of water in a year — while sticking you with higher utility bills to power them.
 That’s Big Tech offloading its costs onto you.
-I’ll fight for a moratorium on new data centers in California, so we stop letting them strain our grid, drain our water, and drive up your bills.
+I’ll fight for a moratorium on new data centers in California , so we stop letting them strain our grid, drain our water, and drive up your bills.
 Any new data centers in the US must pay to generate their own clean, on-site power and meet strict water standards — so they never come out of your pocket or our rivers.
 Make Big Tech pay its fair share.
 Some of the richest companies in human history pay little or nothing in federal taxes — Amazon paid zero as recently as 2018.
@@ -49,8 +46,7 @@ I’ll fight for real antitrust enforcement so no one can corner the foundationa
 We can only regulate Big Tech properly if we get the corporate money out of politics first.
 As long as they can buy the referees, they’ll never play by the rules.
 This fight and the fight to end corruption are the same fight.
-What this means for Our District
-This isn’t someone else’s problem — it lands right here.
+What this means for Our District This isn’t someone else’s problem — it lands right here.
 The data centers AI runs on want our land, our power, and our water — the very water our farms and families are already fighting to hold onto — and they’d pave our farmland for server farms if we let them.
 The automation coming with it threatens the jobs this district runs on.
 And the same Big Tech giants dodging their taxes are the ones squeezing out the small businesses on our Main Streets.
@@ -59,13 +55,10 @@ And here’s why we don’t have that protection now: our own congressman takes 
 I take none of it: no corporate PAC money, not a dollar.
 After nearly 30 years in Washington, he’s not the one to write the rules for a technology moving this fast — you can’t regulate what you don’t understand.
 This district needs a representative who understands the tools about to reshape our lives, and who answers to the families they’ll affect, not the companies building them.
-The bottom line
-This is the fight for who controls the future.
+The bottom line This is the fight for who controls the future.
 AI is here, and it’s going to be more powerful than anything we’ve seen — the only question is whether it serves the people or the few who own it.
 We can regulate it, build it responsibly, protect your job, your bills, your water, and your privacy, and keep it from being owned and weaponized by a handful of companies.
 But we’ll only get it right if we get the money out of politics and put people who understand the technology in the room.
 That’s what I’m running to do — make sure the most powerful technology in history works for all of us, not just the few.
-SOURCES
-- U.S. data centers’ electricity and water demands — about 17 billion gallons of water consumed in 2023, with hyperscale facilities’ direct water use projected to reach 16–33 billion gallons a year by 2028: Lawrence Berkeley National Laboratory — 2024 United States Data Center Energy Usage Report
-- Amazon paid $0 in federal income tax on $11.2 billion in U.S. profits in 2018: ITEP — “Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes”
-- Contributions to Thompson from Amazon and Google corporate PACs, and from an Apple government-affairs executive (receipts on file): FEC — Mike Thompson for Congress, Committee C00326363
+All Policies Next Policy Return to Top SOURCES U.S. data centers’ electricity and water demands — about 17 billion gallons of water consumed in 2023, with hyperscale facilities’ direct water use projected to reach 16–33 billion gallons a year by 2028: Lawrence Berkeley National Laboratory — 2024 United States Data Center Energy Usage Report Amazon paid $0 in federal income tax on $11.2 billion in U.S. profits in 2018: ITEP — “Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes” Contributions to Thompson from Amazon and Google corporate PACs, and from an Apple government-affairs executive (receipts on file): FEC — Mike Thompson for Congress, Committee C00326363 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

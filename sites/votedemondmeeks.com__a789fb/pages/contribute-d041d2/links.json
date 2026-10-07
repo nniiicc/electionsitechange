@@ -1,13 +1,54 @@
 [
-"https://facebook.com/demondlmeeks",
-"https://forms.fillout.com/t/4rkyw9QnNgus",
-"https://instagram.com/demondlmeeks",
-"https://secure.actblue.com/donate/demond-meeks-1?express_lane=true",
-"https://votedemondmeeks.com/",
-"https://votedemondmeeks.com/about",
-"https://votedemondmeeks.com/contact",
-"https://votedemondmeeks.com/contribute",
-"https://votedemondmeeks.com/endorsements",
-"https://votedemondmeeks.com/issues",
-"https://votedemondmeeks.com/privacy-policy"
+{
+"text": "About",
+"href": "https://votedemondmeeks.com/about"
+},
+{
+"text": "Become A Volunteer",
+"href": "https://forms.fillout.com/t/4rkyw9QnNgus"
+},
+{
+"text": "Contact",
+"href": "https://votedemondmeeks.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/demond-meeks-1?express_lane=true"
+},
+{
+"text": "Endorsements",
+"href": "https://votedemondmeeks.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/demondlmeeks"
+},
+{
+"text": "Get Involved",
+"href": "https://votedemondmeeks.com/contribute"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/demondlmeeks"
+},
+{
+"text": "Issues",
+"href": "https://votedemondmeeks.com/issues"
+},
+{
+"text": "Meet Demond",
+"href": "https://votedemondmeeks.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedemondmeeks.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.fillout.com/t/4rkyw9QnNgus"
+},
+{
+"text": "[image: demond meeks logo]",
+"href": "https://votedemondmeeks.com/"
+}
 ]

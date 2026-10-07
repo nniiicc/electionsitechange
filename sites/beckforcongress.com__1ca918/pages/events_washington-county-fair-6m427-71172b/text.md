@@ -1,10 +1,3 @@
-Back to All Events
-It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Washington County Fair Friday, July 24, 2026 4:00 PM 6:00 PM Washington County Fair Grounds 3000 County Highway PV West Bend, Wisconsin, 53095 United States (map) Google Calendar ICS It’s a West Bend-area tradition that’s entertained generations of families with animal showings, thrilling rides and top-performing acts.
 Come visit us at our Washington County Democratic Booth!
-Previous
-Previous
-July 23
-Muskego Action Meeting
-Next
-Next
-July 25
+Previous Previous July 23 Muskego Action Meeting Next Next July 25 Washington County Fair DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

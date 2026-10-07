@@ -1,16 +1,16 @@
-Signed in as:
-filler@godaddy.com
-Pell City Rec Center
-Event Details
-The St.
+Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Home Meet Alan Defending your rights Events Shop More Home Meet Alan Defending your rights Events Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home Meet Alan Defending your rights Events Shop Account Orders My Account Sign out Sign In Orders My Account Events 02/24/2026 St.
+Clair County Democratic Meeting 6pm Pell City Rec Center Event Details 02/24/2026 St.
+Clair County Democratic Meeting The St.
 Clair County Democratic Committee monthly meeting where Alan will be a guest speaker, introducing himself, as well as Democratic can...
-We encourage all Alabamians to participate in following along with their perspective candidates finance reports as a measure of fiscal respo...
-Alan plans to attend Rep.
+Event Details 6pm Pell City Rec Center 03/03/2026 Campaign Finance Reports Due All day Event Details 03/03/2026 Campaign Finance Reports Due We encourage all Alabamians to participate in following along with their perspective candidates finance reports as a measure of fiscal respo...
+Event Details All day 03/05/2026 Rep.
+Neil Rafferty's Campaign Kickoff Event 6pm Event Details 03/05/2026 Rep.
+Neil Rafferty's Campaign Kickoff Event Alan plans to attend Rep.
 Rafferty's re-election campaign kickoff event, supporting his efforts to continue working for the people of Alabam...
-Birmingham Public Library Central Branch
-Hosted by Mothers United Against Gun Violence, Alan plans to attend this forum, participate as a panelist, and listen to what the mothers in...
-Come out and get active!
+Event Details 6pm 03/14/2026 Youth Violence Prevention Forum-3 12pm - 2pm Birmingham Public Library Central Branch Event Details 03/14/2026 Youth Violence Prevention Forum-3 Hosted by Mothers United Against Gun Violence, Alan plans to attend this forum, participate as a panelist, and listen to what the mothers in...
+Event Details 12pm - 2pm Birmingham Public Library Central Branch 03/31/2026 St.
+Clair County Democratic Monthly Meeting 6pm Pell City Rec Center Event Details 03/31/2026 St.
+Clair County Democratic Monthly Meeting Come out and get active!
 Join with fellow voters to make your voice heard and meet with Alan to discuss how, together, we can keep Alabama a...
-More Events
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Event Details 6pm Pell City Rec Center More Events Copyright © # Alan Thomas for Alabama House District 50 - All Rights Reserved.
+Paid for by the Alan Thomas for HD50 Committee Powered by Privacy Policy Terms and Conditions

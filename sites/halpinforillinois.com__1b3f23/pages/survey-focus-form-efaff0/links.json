@@ -1,15 +1,58 @@
 [
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form"
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+}
 ]

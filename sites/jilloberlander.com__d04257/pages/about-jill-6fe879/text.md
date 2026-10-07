@@ -1,4 +1,4 @@
-Jill’s commitment to public service was shaped early.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn About Jill Jill’s commitment to public service was shaped early.
 She was raised in a family rooted in service and community.
 Her father—a Bronx OB-GYN, Vietnam veteran, and first-generation college graduate—cared for women who often could not afford to pay.
 Her mother, a public school teacher, instilled the importance of education, opportunity, and giving back.
@@ -13,3 +13,5 @@ She founded and chaired the Greenwich Sustainability Committee and has worked wi
 Jill earned a law degree from the University of Chicago and a master’s in Public Administration from Cornell.
 In addition to her town service, she has worked in government and with nonprofit organizations delivering essential public services, including transportation, parks and recreation, and economic development.
 Jill is running for state senate to bring experienced, independent leadership to Hartford—focused on affordability, supporting business, and growing our economy, and delivering results for residents in Greenwich, North Stamford, and New Canaan.
+Learn where Jill stands on the issues CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

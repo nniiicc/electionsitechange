@@ -1,5 +1,4 @@
-Competent Leadership, Not Career Politics
-I have spent my life leading in situations where results mattered and failure was not an option.
+HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM DONATE Competent Leadership, Not Career Politics I have spent my life leading in situations where results mattered and failure was not an option.
 I am not a career politician, and I am not running to become one.
 I grew up here, went to school here, and I am raising my family here.
 I attended West Point, served as an Army officer, and after 9/11 returned to uniform as a chaplain.
@@ -21,3 +20,5 @@ I will work with anyone when it helps families in Chester and Berks counties, an
 My loyalty is to this district, not to party leadership or political agendas.
 I am running for Congress to bring discipline, judgment, and real-world experience to a system that desperately needs it.
 Leadership should be measured by what gets fixed, not how long someone has held a title.
+PAID FOR BY MARTY YOUNG FOR CONGRESS P.O.
+Box 7 Pocopson, PA 19366-9998 info@voteyoung.com HOME DONATE VOLUNTEER PRIVACY & TERMS Share by:

@@ -1,4 +1,4 @@
-Arizona Wrote the Toughest ICE Law in America.
+Skip to content Arizona Wrote the Toughest ICE Law in America.
 One Governor Killed It.
 She’s on the ballot November 3.
 Add your name — then help us replace her.
@@ -25,7 +25,6 @@ Add your name below.
 “I stand with Senator Wendy Rogers.
 Law enforcement should be free to work with ICE to remove dangerous criminal aliens from our communities.
 Katie Hobbs blocked that with her veto pen.
-I’m adding my name to help elect a Governor who will sign it, a Legislature that will pass it, and a Congress that will back President Trump.”
-Takes 10 seconds.
+I’m adding my name to help elect a Governor who will sign it, a Legislature that will pass it, and a Congress that will back President Trump.” Takes 10 seconds.
 You can make a big impact.
-PAID FOR AND AUTHORIZED BY WENDY ROGERS FOR AZ SENATE
+First Name (Required) Last Name Email Address (Required) (Required) PAID FOR AND AUTHORIZED BY WENDY ROGERS FOR AZ SENATE Scroll to Top

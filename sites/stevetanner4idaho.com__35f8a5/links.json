@@ -1,11 +1,54 @@
 [
-"https://facebook.com/SteveTanner4Idaho",
-"https://stevetanner4idaho.com/",
-"https://stevetanner4idaho.com/about",
-"https://stevetanner4idaho.com/contact",
-"https://stevetanner4idaho.com/donate",
-"https://stevetanner4idaho.com/endorsements",
-"https://stevetanner4idaho.com/news",
-"https://verastly.com/",
-"https://x.com/Daniel10_USA"
+{
+"text": "About",
+"href": "https://www.stevetanner4idaho.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.stevetanner4idaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.stevetanner4idaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.stevetanner4idaho.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stevetanner4idaho.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.stevetanner4idaho.com"
+},
+{
+"text": "News",
+"href": "https://www.stevetanner4idaho.com/news"
+},
+{
+"text": "Support My Race",
+"href": "https://www.stevetanner4idaho.com/donate"
+},
+{
+"text": "Verastly",
+"href": "https://verastly.com"
+},
+{
+"text": "[image: Steve Tanner for Idaho] [image: Steve Tanner for Idaho]",
+"href": "https://www.stevetanner4idaho.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/SteveTanner4Idaho"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/Daniel10_USA"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/Daniel10_USA"
+}
 ]

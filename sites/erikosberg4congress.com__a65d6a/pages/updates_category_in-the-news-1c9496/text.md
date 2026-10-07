@@ -1,17 +1,12 @@
-- Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg - Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Can gathering neighbors over fried fish help change who…
-- Douglas County DFL presents candidates to represent Alexandria area - Osberg, Dorry, Gardner and Werner seek midterm offices.
-ALEXANDRIA — On June 8, the Douglas County DFL hosted a meet-and-greet…
-- Erik Osberg earns DFL endorsement in Minnesota’s 7th Congressional District - First-time candidate wins 65% of delegate vote on first ballot WADENA, MINN.
-(Valley News Live) – Erik Osberg won the…
-- Congressional District 7 DFL endorses Erik Osberg of Wadena for US House - After a year-long campaign, Erik Osberg received the Minnesota 7th Congressional District DFL endorsement for the U.S.
-House of Representatives.…
-- Osberg, Schierer, Skogen rally to full house at Bigwood - U.S.
-Senate DFL candidate Erik Osberg was joined by Fergus Falls local DFL candidate Ben Schierer and others to address…
-- CD7 candidates Keeler, Osberg meet voters in DFL town hall - Heather Keeler, right, speaks Sunday, March 22, 2026, to the crowd at a Democratic-Farmer-Labor Party town hall in Willmar.
-The…
-- Record turnout at DFL caucus - ‘People are fired up,’ Lyon Co. leaders say MARSHALL — The turnout at Tuesday’s precinct caucuses came as a surprise for…
-- Time to be ‘loud and clear,’ DFL candidates say - Craig, Flanagan, Osberg among speakers at CD 7 fundraiser GRANITE FALLS — Speakers at a Democratic-Farmer-Labor event this weekend said…
-- Democrat Erik Osberg wants less ‘uncertainty & chaos’ amid tariff discussions - WADENA, Minn. – Democrat Erik Osberg is challenging Republican Congresswoman Michelle Fischbach for Minnesota’s 7th Congressional District seat.
-The Wadena…
-In The News
-Erik Osberg for Congress > In The News
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate In The News Erik Osberg for Congress > In The News In The News September 23, 2026 - by Erik Osberg Congressional candidate holds fish fry town hall in Breckenridge BRECKENRIDGE — Minnesota’s 7th Congressional District candidate Erik Osberg held a… Read more 0 Erik Osberg In The News Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg September 8, 2026 - by Erik Osberg Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Can gathering neighbors over fried fish help change who… Read more 0 Erik Osberg In The News Douglas County DFL presents candidates to represent Alexandria area June 29, 2026 - by Erik Osberg Osberg, Dorry, Gardner and Werner seek midterm offices.
+ALEXANDRIA — On June 8, the Douglas County DFL hosted a meet-and-greet… Read more 0 Erik Osberg In The News Erik Osberg earns DFL endorsement in Minnesota’s 7th Congressional District June 7, 2026 - by Erik Osberg First-time candidate wins 65% of delegate vote on first ballot WADENA, MINN.
+(Valley News Live) – Erik Osberg won the… Read more 0 Erik Osberg In The News Congressional District 7 DFL endorses Erik Osberg of Wadena for US House April 25, 2026 - by Erik Osberg After a year-long campaign, Erik Osberg received the Minnesota 7th Congressional District DFL endorsement for the U.S.
+House of Representatives.… Read more 0 Erik Osberg In The News Osberg, Schierer, Skogen rally to full house at Bigwood April 13, 2026 - by Erik Osberg U.S.
+Senate DFL candidate Erik Osberg was joined by Fergus Falls local DFL candidate Ben Schierer and others to address… Read more 0 Erik Osberg In The News CD7 candidates Keeler, Osberg meet voters in DFL town hall March 23, 2026 - by Erik Osberg Heather Keeler, right, speaks Sunday, March 22, 2026, to the crowd at a Democratic-Farmer-Labor Party town hall in Willmar.
+The… Read more 0 Erik Osberg In The News Record turnout at DFL caucus February 23, 2026 - by Erik Osberg ‘People are fired up,’ Lyon Co. leaders say MARSHALL — The turnout at Tuesday’s precinct caucuses came as a surprise for… Read more 0 Erik Osberg In The News Time to be ‘loud and clear,’ DFL candidates say October 13, 2025 - by Erik Osberg Craig, Flanagan, Osberg among speakers at CD 7 fundraiser GRANITE FALLS — Speakers at a Democratic-Farmer-Labor event this weekend said… Read more 0 Erik Osberg In The News Democrat Erik Osberg wants less ‘uncertainty & chaos’ amid tariff discussions April 23, 2025 - by Erik Osberg WADENA, Minn. – Democrat Erik Osberg is challenging Republican Congresswoman Michelle Fischbach for Minnesota’s 7th Congressional District seat.
+The Wadena… Read more 0 Erik Osberg 1 2 Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

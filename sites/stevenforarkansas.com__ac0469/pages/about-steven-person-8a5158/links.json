@@ -1,9 +1,30 @@
 [
-"https://facebook.com/therightpersonforAR",
-"https://secure.fundhero.com/therightperson",
-"https://stevenforarkansas.com/",
-"https://stevenforarkansas.com/about-steven-person",
-"https://stevenforarkansas.com/cart",
-"https://stevenforarkansas.com/get-involved",
-"https://stevenforarkansas.com/issues"
+{
+"text": "0",
+"href": "https://www.stevenforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.stevenforarkansas.com/about-steven-person"
+},
+{
+"text": "DONATE TO SUPPORT",
+"href": "https://secure.fundhero.com/therightperson"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevenforarkansas.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.stevenforarkansas.com/issues"
+},
+{
+"text": "[image: Elect Steven Person]",
+"href": "https://www.stevenforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/therightpersonforAR"
+}
 ]

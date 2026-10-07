@@ -1,5 +1,4 @@
-Dear Friends,
-I’m excited to announce that I am running for re-election in the newly formed Senate District 23.
+0 Skip to Content Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Donate Home Announcement Endorsements Volunteer Contact DONATE Dear Friends, I’m excited to announce that I am running for re-election in the newly formed Senate District 23.
 It has been an honor to represent our community (and my hometown of Brunswick) as your State Senator for the past two years.
 I am proud of our accomplishments, the victories we have worked towards for our area and the entire state.
 In my first year in the State Senate I was elected by my colleagues to be the Assistant Senate Majority Leader—making me one of the youngest Senate leaders in our state’s history and our country.
@@ -30,4 +29,4 @@ I’ve passed legislation to keep carcinogenic chemicals out of our food, water,
 Whether it’s meaningful tax reform, education funding, supporting our seniors, or economic development, I’ve worked to find solutions that benefit our community.
 I hope I have earned your support and that you will work with me to make a difference for all Mainers.
 I hope you’ll join our campaign!
-Best,
+Best, DONATE Mattie Daughtry For Maine District 23 State Senate (207) 370-9871 mattieforsenate@gmail.com Home Announcements Endorsements Volunteer Contact Paid for and authorized by the Candidate.

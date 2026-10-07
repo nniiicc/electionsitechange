@@ -1,9 +1,34 @@
 [
-"https://brenttaylorforcongress.com/",
-"https://brenttaylorforcongress.com/about",
-"https://brenttaylorforcongress.com/endorsements",
-"https://brenttaylorforcongress.com/issues",
-"https://brenttaylorforcongress.com/privacy-policy",
-"https://brenttaylorforcongress.com/terms-and-conditions",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_about_navbar"
+{
+"text": "About",
+"href": "https://brenttaylorforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_about_navbar"
+},
+{
+"text": "Endorsements",
+"href": "https://brenttaylorforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://brenttaylorforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brenttaylorforcongress.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brenttaylorforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://brenttaylorforcongress.com/terms-and-conditions/"
+},
+{
+"text": "[image: Brent Taylor for Tennessee]",
+"href": "https://brenttaylorforcongress.com"
+}
 ]

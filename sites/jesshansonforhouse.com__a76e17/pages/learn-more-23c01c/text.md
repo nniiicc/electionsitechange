@@ -1,7 +1,7 @@
-Jess Hanson is a…
-- Working-class mom to two kids educated in public schools
-- Homeowner in Burnsville
-- First-generation college graduate with Bachelor’s of Science in Social Work from St.
-Catherine University and Master’s in Advocacy and Political Leadership from Metropolitan State University
-- Persistent advocate for a #PoliticsOfCare that improves the lives of all
-Jess has been your state representative for Savage and NW Burnsville since 2021.
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Jess Hanson is a… - Working-class mom to two kids educated in public schools - Homeowner in Burnsville - First-generation college graduate with Bachelor’s of Science in Social Work from St.
+Catherine University and Master’s in Advocacy and Political Leadership from Metropolitan State University - Persistent advocate for a #PoliticsOfCare that improves the lives of all Jess has been your state representative for Savage and NW Burnsville since 2021.
+Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

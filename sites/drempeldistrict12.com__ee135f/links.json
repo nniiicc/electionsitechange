@@ -1,4 +1,10 @@
 [
-"https://drempeldistrict12.com/platform",
-"https://drempeldistrict12.com/volunteer"
+{
+"text": "Platform",
+"href": "https://drempeldistrict12.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://drempeldistrict12.com/volunteer"
+}
 ]

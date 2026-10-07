@@ -1,6 +1,4 @@
-Experienced Leader You Can Trust
-Meet Trent Maier
-Trent Maier is an engineer, entrepreneur, husband, and small business owner who has spent his career building businesses, creating jobs, and investing in the Inland Northwest.
+top of page Home Endorsements Contact Donate Experienced Leader You Can Trust Meet Trent Maier Trent Maier is an engineer, entrepreneur, husband, and small business owner who has spent his career building businesses, creating jobs, and investing in the Inland Northwest.
 After earning his degree in Electrical Engineering from Michigan State University, Trent worked in the automation and energy industries before pursuing his passion for entrepreneurship.
 Alongside his family, he founded Trailbreaker Cider, helping grow it into one of the Northwest's leading cider manufacturers and a thriving local business serving families throughout the Spokane Valley.
 As a business owner, Trent understands firsthand the challenges facing working families, employees, and job creators.
@@ -12,17 +10,9 @@ He believes government should focus on its core responsibilities: keeping commun
 He is committed to fighting for lower taxes, affordable energy, responsible government spending, public safety, and policies that promote economic growth rather than government dependence.
 Trent believes common-sense leadership and real-world experience are desperately needed in Olympia.
 He is running to bring a practical, results-oriented perspective to state government and to ensure the voices of Eastern Washington families are heard.
-- Past Board President, Spokane Valley Chamber of Commerce
-- Past Board Member, Greater Spokane Incorporated
-- 15+ Year Business Owner
-On the Issues
-Lower Taxes & Affordability
-Cutting Red Tape for Small Businesses
-Public Safety & Safe Communities
-Families and small businesses across Washington are feeling the pressure of rising costs, higher taxes, and inflation.
+Past Board President, Spokane Valley Chamber of Commerce ​ Past Board Member, Greater Spokane Incorporated ​ 15+ Year Business Owner On the Issues Lower Taxes & Affordability Cutting Red Tape for Small Businesses Public Safety & Safe Communities Families and small businesses across Washington are feeling the pressure of rising costs, higher taxes, and inflation.
 Trent believes government should live within its means just like hardworking families do.
-He will fight against unnecessary tax increases, oppose policies that make it harder to afford housing, groceries, fuel, and utilities, and work to keep more money in the pockets of the people who earn it.
-Right now, state government continues to make life more expensive for working families and employers.
+He will fight against unnecessary tax increases, oppose policies that make it harder to afford housing, groceries, fuel, and utilities, and work to keep more money in the pockets of the people who earn it. ​ Right now, state government continues to make life more expensive for working families and employers.
 Trent believes that has to change.
 Trent has owned, operated, and managed several businesses throughout his career.
 He understands the real challenges employers and entrepreneurs face in Washington because he has experienced them firsthand.
@@ -36,13 +26,17 @@ Trent believes government's first responsibility is protecting its citizens.
 He supports recruiting and retaining more law enforcement officers, restoring accountability in the criminal justice system, combating the fentanyl crisis, and ensuring prosecutors and first responders have the tools they need to keep dangerous offenders off the streets.
 As a business owner, Trent understands that businesses cannot grow and invest when crime, theft, and disorder are allowed to go unchecked.
 He will support common-sense public safety policies that protect neighborhoods, support law enforcement, defend victims' rights, and create an environment where families, workers, and employers can succeed.
-Reliable & Affordable Energy
-Workforce Development & Job Growth
-Washington’s economy depends on reliable and affordable energy.
-Trent has worked in the energy sector and understands firsthand how critical dependable power is for families, manufacturers, agriculture, and small businesses.
-He opposes policies that drive up utility costs, threaten grid reliability, or make Washington less competitive.
+Reliable & Affordable Energy Workforce Development & Job Growth Washington’s economy depends on reliable and affordable energy.
+Trent has worked in the energy sector and understands firsthand how critical dependable power is for families, manufacturers, agriculture, and small businesses. ​ He opposes policies that drive up utility costs, threaten grid reliability, or make Washington less competitive.
 Trent supports practical energy policies that protect jobs, maintain affordability, and ensure our state has the energy infrastructure needed to support economic growth for years to come.
 Washington needs more opportunities for workers, tradespeople, and young people entering the workforce.
-Trent believes we should strengthen workforce development programs that connect students and workers with real careers in manufacturing, engineering, agriculture, skilled trades, and small business.
-As a business owner, Trent understands the importance of building a strong workforce and creating an economy where businesses can grow, hire, and invest in their communities.
+Trent believes we should strengthen workforce development programs that connect students and workers with real careers in manufacturing, engineering, agriculture, skilled trades, and small business. ​ As a business owner, Trent understands the importance of building a strong workforce and creating an economy where businesses can grow, hire, and invest in their communities.
 He supports partnerships between schools, apprenticeships, community colleges, and local industries to prepare the next generation for good-paying careers.
+Contact Trent First Name * Last Name * Email Address * Cell Phone Number Address Yes, I want to receive text messages.
+By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Friends of Trent Maier at the number provided, including messages sent by autodialer.
+Message frequency varies.
+Message and data rates may apply.
+Reply HELP for help.
+Reply STOP to unsubscribe.
+See our Privacy Policy | Terms and Conditions .
+Let us know how you can help Endorse Trent Volunteer Yard Sign Ask a question Submit Previous 01 02 03 04 05 06 07 08 Next 01 / 08 Close Previous Next 01 02 03 04 05 06 07 08 Paid for by Friends of Trent Maier (R) PO Box 151, Greenacres, WA 99016 Home Endorsements Contact Donate Privacy Policy Terms & Conditions bottom of page

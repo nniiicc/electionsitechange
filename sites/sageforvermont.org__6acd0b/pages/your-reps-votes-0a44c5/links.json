@@ -1,12 +1,46 @@
 [
-"https://ethanallen.org/legislators_windham_county",
-"https://instagram.com/sageforvermont",
-"https://legislature.vermont.gov/bill/search/2026",
-"https://sageforvermont.org/get-in-touch",
-"https://sageforvermont.org/home",
-"https://sageforvermont.org/hot-topics",
-"https://sageforvermont.org/meet-rusty",
-"https://sageforvermont.org/wcgop-com-",
-"https://sageforvermont.org/your-reps-votes",
-"https://thefreedomindex.org/vt/report"
+{
+"text": "Ethanallen.org",
+"href": "https://www.ethanallen.org/legislators_windham_county"
+},
+{
+"text": "Get In Touch",
+"href": "https://sageforvermont.org/get-in-touch"
+},
+{
+"text": "Home",
+"href": "https://sageforvermont.org/home"
+},
+{
+"text": "Hot Topics",
+"href": "https://sageforvermont.org/hot-topics"
+},
+{
+"text": "Meet Rusty",
+"href": "https://sageforvermont.org/meet-rusty"
+},
+{
+"text": "The Freedom Index",
+"href": "https://thefreedomindex.org/vt/report/"
+},
+{
+"text": "Vermont Legislature",
+"href": "https://legislature.vermont.gov/bill/search/2026"
+},
+{
+"text": "WCGOP Com.",
+"href": "https://sageforvermont.org/wcgop-com-"
+},
+{
+"text": "Your Rep's Votes",
+"href": "https://sageforvermont.org/your-reps-votes"
+},
+{
+"text": "[no text]",
+"href": "https://sageforvermont.org/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sageforvermont/"
+}
 ]

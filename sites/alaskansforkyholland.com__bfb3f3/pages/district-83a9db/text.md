@@ -1,28 +1,5 @@
-Our District
-Spanning across South Anchorage all the way to Whittier, House District 9 includes the Hillside, Indian, Bird Creek, Girdwood, and Whittier.
+0 Skip to Content About Get Involved Our District Priorities Support the campaign Open Menu Close Menu About Get Involved Our District Priorities Support the campaign Open Menu Close Menu About Get Involved Our District Priorities Support the campaign Our District Spanning across South Anchorage all the way to Whittier, House District 9 includes the Hillside, Indian, Bird Creek, Girdwood, and Whittier.
 I am fully committed to this district and representing the issues we care about.
 I would be honored to continue to represent you in Juneau.
 Let’s build the future together!
-Polling Locations
-Girdwood
-Girdwood Community Center
-250 Egloff St
-Indian
-Valley Bible Chalet
-29135 Seward Hwy
-Whittier
-3rd Floor City Council Chambers Whittier Public Safety Building
-660 Whittier St
-Anchorage
-Rabbit Creek Elementary School
-13650 Lake Otis Pkwy
-South High School
-13400 Elmore Rd
-Rabbit Creek Community Church
-3401 Rabbit Creek Rd
-Goldenview Middle School
-15800 Golden View Dr
-Bear Valley Elementary School
-15001 Mountain Air Dr
-Benny Benson School
-4515 Campbell Airstrip Rd
+Find your Polling Location Polling Locations Girdwood Girdwood Community Center 250 Egloff St Indian Valley Bible Chalet 29135 Seward Hwy Whittier 3rd Floor City Council Chambers Whittier Public Safety Building 660 Whittier St Anchorage Rabbit Creek Elementary School 13650 Lake Otis Pkwy South High School 13400 Elmore Rd Rabbit Creek Community Church 3401 Rabbit Creek Rd Goldenview Middle School 15800 Golden View Dr Bear Valley Elementary School 15001 Mountain Air Dr Benny Benson School 4515 Campbell Airstrip Rd Media Paid for by Alaskans for Ky Holland, PO Box 220314 Anchorage, AK 99522 ky@alaskansforkyholland.com 907-727-2735

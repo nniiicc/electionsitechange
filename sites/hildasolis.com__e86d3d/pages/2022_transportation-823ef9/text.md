@@ -1,14 +1,9 @@
-As Chair of the Metro Board of Directors, Hilda Solis is working to provide equitable and innovative transportation services to move the County into a transit-oriented community.
-Lowering Metro fares for Ridership
-During the peak of the pandemic, Hilda Solis asked Metro to reduce the cost of ridership in both bus and light rail services due to the financial hardships being experienced by the riders.
-Free Transit service for Students in LA County
-Hilda Solis championed a board motion to create a program for students from TK through 12th grade to provide unlimited rides at no cost.
-San Gabriel Valley Goldline Foothill Extension
-Hilda authored a motion at Metro to help the Gold Line Authority close the funding gap for the Foothill Extension and make Pomona the first stop for the project.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Home | Transportation As Chair of the Metro Board of Directors, Hilda Solis is working to provide equitable and innovative transportation services to move the County into a transit-oriented community.
+Lowering Metro fares for Ridership During the peak of the pandemic, Hilda Solis asked Metro to reduce the cost of ridership in both bus and light rail services due to the financial hardships being experienced by the riders.
+Free Transit service for Students in LA County Hilda Solis championed a board motion to create a program for students from TK through 12th grade to provide unlimited rides at no cost.
+San Gabriel Valley Goldline Foothill Extension Hilda authored a motion at Metro to help the Gold Line Authority close the funding gap for the Foothill Extension and make Pomona the first stop for the project.
 This motion reaffirmed this project as a first priority for Metro to deliver.
-Investing in East LA Park Improvements and Transportation services
-Hilda Solis authored two actions to direct investments in projects and services supporting the East Los Angeles community.
-Funding was allocated for Salazar Park to improve the amenities at the park and a contract was secured with El Sol Shuttle Service to provide seniors, those with disabilities, and children reliable transportation service for $0.25 per ride
-Mobile Showers Near Metro Stations
-Hilda Solis led efforts to establish a hygiene and mobile shower program for the homeless population in or near Metro stations.
+Investing in East LA Park Improvements and Transportation services Hilda Solis authored two actions to direct investments in projects and services supporting the East Los Angeles community.
+Funding was allocated for Salazar Park to improve the amenities at the park and a contract was secured with El Sol Shuttle Service to provide seniors, those with disabilities, and children reliable transportation service for $0.25 per ride Mobile Showers Near Metro Stations Hilda Solis led efforts to establish a hygiene and mobile shower program for the homeless population in or near Metro stations.
 Providing these services helps restore dignity and makes it easier to connect people to the appropriate resources needed to put them on a path to permanent housing.
+Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

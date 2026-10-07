@@ -1,7 +1,9 @@
-State Senator Jim Tomes was honored to visit the Mt.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Investing in the Next Generation of Ag Leaders!
+Hoosiers For Tomes January 22, 2026 Indiana State Senator Jim Tomes was honored to visit the Mt.
 Vernon High School FFA chapter on January 21.
 Keeping with his annual tradition, Jim was joined by State Senator Brian Buchanan to see firsthand the incredible work these students are doing.
 Agriculture is the backbone of our community, and Jim is committed to showcasing the hard work and dedication of our FFA members.
 From leadership skills to hands-on innovation, the future of Indiana farming is in great hands at Mt.
 Vernon!
-#FFA #IndianaAg #JimTomes #FutureLeaders #MtVernonSuccess
+#FFA #IndianaAg #JimTomes #FutureLeaders #MtVernonSuccess Tagged Agriculture , farming , Jim Tomes , Posey County Post navigation Previous Previous post: Statement from State Sen.
+Jim Tomes Next Next post: Protecting Our Great Outdoors: A Visit with Indiana’s Conservation Officers October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

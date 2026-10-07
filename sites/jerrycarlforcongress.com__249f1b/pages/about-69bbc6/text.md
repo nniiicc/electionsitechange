@@ -1,5 +1,4 @@
-About
-Born in Mobile, Jerry Carl started his first company at the age of 25 and grew that small business into numerous other companies throughout the region.
+Skip to main content Skip to footer Opens in a new tab Home About Issues News Donate About Born in Mobile, Jerry Carl started his first company at the age of 25 and grew that small business into numerous other companies throughout the region.
 Jerry has started over ten different companies ranging from real estate to healthcare and timber, to even the manufacturing of church furniture.
 In all, Jerry brings 40+ years of business experience.
 Being an entrepreneur has filled much of Jerry’s time, but nothing could take Jerry away from his wife of 44 years, Tina.
@@ -16,3 +15,10 @@ Alabama’s First District brings together the richness of Alabama and all its b
 Jerry believes we need strong representation fighting for conservative values in Congress.
 He’s an outsider, a job creator, and a businessman looking to get things done.
 He doesn’t take no for an answer and works to find solutions to our problems because that’s how it works in the real-world.
+Paid for by Jerry Carl for Congress Please provide your mobile phone to opt-in to Jerry Carl for Congress campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

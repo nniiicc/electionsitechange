@@ -1,14 +1,11 @@
-Massachusetts should work for people who work
-During my 100 Conversations tour across the district, I’ve been hearing a lot about what affordability really means in Massachusetts.
-We hear politicians talk about “lowering costs,” but here’s the reality many families are living with:
-- Mortgage or rent
-- Property taxes
-- Utility bills
-- Childcare
-- Health insurance
-- Commuting
-By the time all the essentials are paid, many working families are already spending over HALF of their income just trying to stay afloat.
+top of page Ming Zhang for MA state senate Worcester & middlesex Log In Home News About Get Involved Contact All Articles Search Massachusetts should work for people who work Ming Zhang May 9 1 min read During my 100 Conversations tour across the district, I’ve been hearing a lot about what affordability really means in Massachusetts.
+We hear politicians talk about “lowering costs,” but here’s the reality many families are living with: Mortgage or rent Property taxes Utility bills Childcare Health insurance Commuting By the time all the essentials are paid, many working families are already spending over HALF of their income just trying to stay afloat.
 That’s why I believe Massachusetts needs a new governing standard: the 50% Rule.
 No working family should have to spend more than 50% of their income on basic living costs just to remain in the state they helped build.
 Every major policy should be measured against one simple question: Does this help working families stay under the 50% threshold?
 Massachusetts should work for people who work.
+Recent Posts See All Ming Zhang Announces his Independent Run for MA State Senate ​​100 Conversations Tour​ - What Town of Clinton Taught Me On June 9, I spent Election Day in Clinton, talking with residents as they headed to the polls.
+Residents generously shared their thoughts about the issues affecting their daily lives.
+Several themes Certified Signatures Filed With the State One Month Ahead of the Deadline ​Support Our Cause When making a donation, please make sure that you are:​​ - At least eighteen years old. - The contribution is made from your own funds, and funds are not being provided to you by another person or entity for the purpose of making this contribution. - You are a U.S. citizen or permanent resident. - You are responsible for paying all charges incurred in using the debit or credit card to be charged, and that your personal funds will be the true source of the contribution. - You are making this contribution with your own personal credit card and not with a corporate or business credit card or a card issue to another person.
+Frequency One time One time Monthly Monthly Amount $10 $10 $50 $50 $100 $100 $200 $200 Other Other Donate $10 Monthly Newsletters Newsletter - April Issue 20 Hampshire Road Wayland, MA 01778.
+Newsletter - May Issue Newsletter - June Issue Newsletter - July Issue Newsletter - August Issue Home About Me Get Involved Contact Ming Zhang - FOR STATE SENATE- Terms & Conditions Privacy Policy Accessibility Statement ​ Zhang Committee, ngdddd Westford, MA 01886 mingzhang.for2026@gmail.com 617-460-1538 bottom of page

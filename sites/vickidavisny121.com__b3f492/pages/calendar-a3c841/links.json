@@ -1,18 +1,74 @@
 [
-"https://facebook.com/vickidavisny121",
-"https://instagram.com/vickidavisny121",
-"https://secure.actblue.com/donate/vicki-davis-for-assembly-1",
-"https://vickidavisny121.com/",
-"https://vickidavisny121.com/calendar/list",
-"https://vickidavisny121.com/calendar/list?eventDisplay=past",
-"https://vickidavisny121.com/calendar/month",
-"https://vickidavisny121.com/contact",
-"https://vickidavisny121.com/endorsements",
-"https://vickidavisny121.com/event/greene-apple-fest",
-"https://vickidavisny121.com/event/south-new-berlin-house-party",
-"https://vickidavisny121.com/event/unadilla-house-party",
-"https://vickidavisny121.com/events",
-"https://vickidavisny121.com/map-of-ny-assembly-district-121",
-"https://vickidavisny121.com/news",
-"https://vickidavisny121.com/platform"
+{
+"text": "#ago",
+"href": "https://vickidavisny121.com/calendar/list/"
+},
+{
+"text": "Contact",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vicki-davis-for-assembly-1"
+},
+{
+"text": "Endorsements",
+"href": "https://vickidavisny121.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vickidavisny121.com/events/"
+},
+{
+"text": "Greene Apple Fest",
+"href": "https://vickidavisny121.com/event/greene-apple-fest/"
+},
+{
+"text": "List",
+"href": "https://vickidavisny121.com/calendar/list/"
+},
+{
+"text": "Map of NY121",
+"href": "https://vickidavisny121.com/map-of-ny-assembly-district-121/"
+},
+{
+"text": "Month",
+"href": "https://vickidavisny121.com/calendar/month/"
+},
+{
+"text": "News",
+"href": "https://vickidavisny121.com/news/"
+},
+{
+"text": "Platform",
+"href": "https://vickidavisny121.com/platform/"
+},
+{
+"text": "South New Berlin House Party",
+"href": "https://vickidavisny121.com/event/south-new-berlin-house-party/"
+},
+{
+"text": "Unadilla House Party",
+"href": "https://vickidavisny121.com/event/unadilla-house-party/"
+},
+{
+"text": "Vicki Davis for NY Assembly 121",
+"href": "https://vickidavisny121.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://vickidavisny121.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vickidavisny121/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vickidavisny121/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://vickidavisny121.com/calendar/list/?eventDisplay=past"
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.fellows4nh.com/my-experience",
- "paid_for_by": null,
+ "fingerprint": "1487aebd2aa019fe2ebce9e52b4fd4504ce2e5a7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Experience | Fellows4nh",
- "years_mentioned": []
+ "years_mentioned": [
+  "1965",
+  "1987"
+ ]
 }

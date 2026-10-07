@@ -1,8 +1,42 @@
 [
-"https://facebook.com/jutt.howard",
-"https://jutthoward.com/",
-"https://jutthoward.com/about-jutt",
-"https://jutthoward.com/spotlight-on-legislation",
-"https://jutthoward.com/wp-content/uploads/2025/05/Howard-25-01-Digital-Legislative-Update-8-5x17-1.pdf",
-"https://secure.anedot.com/jutt-howard-for-state-house/donate"
+{
+"text": "About Jutt",
+"href": "https://jutthoward.com/about-jutt/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jutt-howard-for-state-house/donate"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/jutt.howard/"
+},
+{
+"text": "Home",
+"href": "https://jutthoward.com/"
+},
+{
+"text": "Learn More",
+"href": "https://jutthoward.com/about-jutt/"
+},
+{
+"text": "Learn More",
+"href": "https://jutthoward.com/spotlight-on-legislation/"
+},
+{
+"text": "Priorities",
+"href": "https://jutthoward.com/#priorities"
+},
+{
+"text": "Spotlight on Legislation",
+"href": "https://jutthoward.com/spotlight-on-legislation/"
+},
+{
+"text": "Updates",
+"href": "https://jutthoward.com/wp-content/uploads/2025/05/Howard-25-01-Digital-Legislative-Update-8-5x17-1.pdf"
+},
+{
+"text": "[image]",
+"href": "https://jutthoward.com/"
+}
 ]

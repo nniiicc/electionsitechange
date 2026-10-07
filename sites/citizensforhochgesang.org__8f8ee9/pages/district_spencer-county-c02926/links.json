@@ -1,34 +1,150 @@
 [
-"https://14news.com/",
-"https://14news.com/2025/02/03/iurc-make-final-decision-centerpoint-rate-hike",
-"https://aep.com/news/stories/view/9974",
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/district/spencer-county/rockport",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/platform/accountability",
-"https://citizensforhochgesang.org/platform/data-centers",
-"https://citizensforhochgesang.org/platform/housing",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://duboiscountyherald.com/spencer_county_news",
-"https://duboiscountyherald.com/spencer_county_news/announcements/apartment-development-in-progress-in-santa-claus/article_806ee2f4-bd72-57e0-9929-74609a3376fa.html",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://in.gov/counties/spencer/files/ordinances-resolutions/2024-10-Ordinance-Energy.pdf",
-"https://instagram.com/bradhochgesang.official",
-"https://midstatescorridor.com/project-key-points",
-"https://midstatescorridor.com/wp-content/uploads/2023/09/Record-of-Decision.pdf",
-"https://midstatescorridor.com/wp-content/uploads/2026/01/Screening-of-Alternatives-Report.pdf",
-"https://spencercountyonline.com/",
-"https://spencercountyonline.com/spencer-county-council-votes-down-tax-abatement-for-natural-gas-plant-members-may-consider-alternative-incentive-structures",
-"https://spencercountyonline.com/spencer-county-on-the-cutting-edge-this-is-historic",
-"https://swidc.org/regional-strategy/projects/back-9-housing-development",
-"https://waterwaysjournal.net/2025/02/07/superior-ag-plans-southwest-indiana-fertilizer-terminal",
-"https://whas11.com/article/news/local/indiana/holiday-world-indiana-unveils-plans-22-million-water-roller-coaster-cannonball/417-3ff1b54e-b7ef-485f-ba3c-3f3284153bf3",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "14 News",
+"href": "https://www.14news.com/"
+},
+{
+"text": "14 News, IURC approves CenterPoint increase",
+"href": "https://www.14news.com/2025/02/03/iurc-make-final-decision-centerpoint-rate-hike/"
+},
+{
+"text": "AEP, Rockport SMR grant application",
+"href": "https://www.aep.com/news/stories/view/9974/"
+},
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "Meet me in person",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Mid-States Corridor, project key points (existing US 231 in Spencer County)",
+"href": "https://midstatescorridor.com/project-key-points/"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/accountability"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/data-centers"
+},
+{
+"text": "Read where I stand →",
+"href": "https://citizensforhochgesang.org/platform/housing"
+},
+{
+"text": "RockportRockport carried Spencer County's tax base for fifty years. What replaces the plant, and what gets built beside it, should not be decided without the people who live here.",
+"href": "https://citizensforhochgesang.org/district/spencer-county/rockport"
+},
+{
+"text": "SWIDC, Back 9 housing development",
+"href": "https://swidc.org/regional-strategy/projects/back-9-housing-development/"
+},
+{
+"text": "Screening of Alternatives Report, October 2025",
+"href": "https://midstatescorridor.com/wp-content/uploads/2026/01/Screening-of-Alternatives-Report.pdf"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Spencer County Journal-Democrat",
+"href": "https://www.duboiscountyherald.com/spencer_county_news/"
+},
+{
+"text": "Spencer County Journal-Democrat, Santa Claus apartment development",
+"href": "https://www.duboiscountyherald.com/spencer_county_news/announcements/apartment-development-in-progress-in-santa-claus/article_806ee2f4-bd72-57e0-9929-74609a3376fa.html"
+},
+{
+"text": "Spencer County Online",
+"href": "https://spencercountyonline.com/"
+},
+{
+"text": "Spencer County Online, council votes down the abatement",
+"href": "https://spencercountyonline.com/spencer-county-council-votes-down-tax-abatement-for-natural-gas-plant-members-may-consider-alternative-incentive-structures/"
+},
+{
+"text": "Spencer County Online, county officials on the SMR",
+"href": "https://spencercountyonline.com/spencer-county-on-the-cutting-edge-this-is-historic/"
+},
+{
+"text": "Spencer County, Ordinance 2024-10",
+"href": "https://www.in.gov/counties/spencer/files/ordinances-resolutions/2024-10-Ordinance-Energy.pdf"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Tell me what I'm missing",
+"href": "mailto:campaign@citizensforhochgesang.org?subject=From+Spencer+County"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "Tier 1 Record of Decision, August 2023 (no construction in Section 1)",
+"href": "https://midstatescorridor.com/wp-content/uploads/2023/09/Record-of-Decision.pdf"
+},
+{
+"text": "WHAS11, Holiday World announces Cannonball",
+"href": "https://www.whas11.com/article/news/local/indiana/holiday-world-indiana-unveils-plans-22-million-water-roller-coaster-cannonball/417-3ff1b54e-b7ef-485f-ba3c-3f3284153bf3"
+},
+{
+"text": "Waterways Journal, Superior Ag fertilizer terminal",
+"href": "https://www.waterwaysjournal.net/2025/02/07/superior-ag-plans-southwest-indiana-fertilizer-terminal/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

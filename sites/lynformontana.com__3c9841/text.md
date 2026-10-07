@@ -1,10 +1,5 @@
-Lyn Hellegaard
-Trusted advocate for YOU!
-Montana House District 89
-Your Conservative Voice for HD 89
-WHY I’M RUNNING
-Montana Families Are Paying More and Getting Less
-Just like you, I’m tired of it.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Lyn Hellegaard Trusted advocate for YOU!
+Montana House District 89 Enter to win a Byrna SD Launcher -$20 per ticket Enter Here Your Conservative Voice for HD 89 WHY I’M RUNNING Montana Families Are Paying More and Getting Less Just like you, I’m tired of it.
 Every year, government asks for more money.
 More taxes.
 More fees.
@@ -32,18 +27,16 @@ And it’s worth fighting for.
 Lyn is a proven conservative leader.
 As a business owner, banker, and city councilperson, she recognizes it’s individuals and businesses – NOT government – that creates vibrant communities and prosperity for our citizens.
 Support Lyn’s campaign and help her win this race!
-On The Issues
-Improving our Economy
-Without a doubt reducing regulation and taxes on businesses are proven to improve the local and state economies.
+Contribute Now!
+On The Issues Improving our Economy Without a doubt reducing regulation and taxes on businesses are proven to improve the local and state economies.
 Achieving a robust economy would let Montanans achieve the long-held dream of having good paying jobs so our children can stay in Montana rather than seeking jobs in other states.
-Tax Policy
-Like many of you I have concerns about how your local government uses and abuses Tax Increment Financing (TIF) funds and Urban Renewal Districts (URDs).
+Tax Policy Like many of you I have concerns about how your local government uses and abuses Tax Increment Financing (TIF) funds and Urban Renewal Districts (URDs).
 These taxing schemes result in homeowners carrying an ever-increasing tax burden.
 I believe we need to put restrictions on these schemes and require voter approval for any URD extension.
-Election Security
-The only way to ensure our individual freedom is with election security.
+Election Security The only way to ensure our individual freedom is with election security.
 I was part of the Missoula Election Integrity Project which found many anomalies in the Missoula County 2020 elections.
-Education
-I believe parents should be the primary voice in their child’s education.
+Education I believe parents should be the primary voice in their child’s education.
 The draconian mask and remote learning mandates imposed by some tone-deaf school boards proved to be detrimental to our kids learning and mental health.
 We can and must do better by our kids.
+On The Issues Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

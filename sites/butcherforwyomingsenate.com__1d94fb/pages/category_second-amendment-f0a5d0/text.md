@@ -1,4 +1,3 @@
-A Family Story Behind My Second Amendment Values
-When people ask where my support for the Second Amendment comes from, the answer starts at home.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate A Family Story Behind My Second Amendment Values mdbutcher 2026-07-31T21:04:30-06:00 July 29, 2026 | Issues , Second Amendment | When people ask where my support for the Second Amendment comes from, the answer starts at home.
 I grew up in my dad's gun shop.
-The shop was part of our house, so firearms were simply part of everyday life. [...]
+The shop was part of our house, so firearms were simply part of everyday life. [...] Read More Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

@@ -1,15 +1,70 @@
 [
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/bills",
-"https://danblueforsenate.org/category/news",
-"https://danblueforsenate.org/category/sourced",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://newsobserver.com/news/politics-government/article289038604.html",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://twitter.com/DanBlueNC"
+{
+"text": "&",
+"href": "https://www.newsobserver.com/news/politics-government/article289038604.html"
+},
+{
+"text": "Bills",
+"href": "https://danblueforsenate.org/category/bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "News",
+"href": "https://danblueforsenate.org/category/news/"
+},
+{
+"text": "News",
+"href": "https://www.newsobserver.com/news/politics-government/article289038604.html"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Observer",
+"href": "https://www.newsobserver.com/news/politics-government/article289038604.html"
+},
+{
+"text": "Read Article",
+"href": "https://www.newsobserver.com/news/politics-government/article289038604.html"
+},
+{
+"text": "Sourced",
+"href": "https://danblueforsenate.org/category/sourced/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+}
 ]

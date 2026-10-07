@@ -1,42 +1,186 @@
 [
-"https://bridgemi.com/michigan-environment-watch/michigan-lawmakers-unveil-plan-to-repeal-data-center-tax-breaks",
-"https://bridgemi.com/outdoors-life/michigan-bill-legalizing-backyard-deer-feeding-passes-but-bans-could-remain",
-"https://countrylines.com/featured-2/snowman-cam",
-"https://detroitnews.com/story/news/politics/2025/01/23/gop-led-michigan-house-oks-changes-to-paid-sick-leave-tipped-wage-laws/77902389007",
-"https://facebook.com/YOURPAGE",
-"https://gophouse.org/member/repkenborton/about",
-"https://instagram.com/YOURPAGE",
-"https://ivoterguide.com/candidate/54220/race/8538/election/799",
-"https://kenborton.com/",
-"https://legiscan.com/MI/people/ken-borton/id/22462",
-"https://legiscan.com/MI/rollcall/SB0237/id/1467618",
-"https://legislature.mi.gov/",
-"https://michiganadvance.com/2025/01/23/minimum-wage-and-sick-leave-bills-clear-michigan-house-with-bipartisan-support-after-heated-debate",
-"https://michiganadvance.com/briefs/republicans-3-1b-road-funding-plan-clears-the-michigan-house",
-"https://michiganlcv.org/lawmaker/ken-borton",
-"https://michiganvotes.org/Legislator.aspx?ID=145345",
-"https://planetdetroit.org/2025/01/michigan-data-centers-tax-exemptions",
-"https://secure.actblue.com/donate/YOURPAGE",
-"https://secure.actblue.com/donate/rachel-longendyke-teeter-1",
-"https://transparencyusa.org/mi/candidate/ken-borton-can",
-"https://wearethe105.com/",
-"https://wearethe105.com/about",
-"https://wearethe105.com/about-rachel",
-"https://wearethe105.com/cart",
-"https://wearethe105.com/endorsements",
-"https://wearethe105.com/events",
-"https://wearethe105.com/find-fun",
-"https://wearethe105.com/find-help",
-"https://wearethe105.com/findhelp",
-"https://wearethe105.com/get-involved",
-"https://wearethe105.com/rachelorken",
-"https://wearethe105.com/the-105",
-"https://wearethe105.com/updates",
-"https://wearethe105.com/volunteer",
-"https://wearethe105.com/whats-up-in-lansing",
-"https://wearethe105.com/whatsuplansing",
-"https://wearethe105.com/where-we-stand",
-"https://wearethe105.com/yard-sign",
-"https://wearethe105.com/yardsign",
-"https://youtube.com/@YOURPAGE"
+{
+"text": "0",
+"href": "https://www.wearethe105.com/cart"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about"
+},
+{
+"text": "About Rachel",
+"href": "https://www.wearethe105.com/about-rachel"
+},
+{
+"text": "Bridge Michigan",
+"href": "https://bridgemi.com/michigan-environment-watch/michigan-lawmakers-unveil-plan-to-repeal-data-center-tax-breaks/"
+},
+{
+"text": "Bridge Michigan",
+"href": "https://bridgemi.com/outdoors-life/michigan-bill-legalizing-backyard-deer-feeding-passes-but-bans-could-remain/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/YOURPAGE"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rachel-longendyke-teeter-1"
+},
+{
+"text": "Detroit News",
+"href": "https://www.detroitnews.com/story/news/politics/2025/01/23/gop-led-michigan-house-oks-changes-to-paid-sick-leave-tipped-wage-laws/77902389007/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wearethe105.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.wearethe105.com/events"
+},
+{
+"text": "Find Fun",
+"href": "https://www.wearethe105.com/find-fun"
+},
+{
+"text": "Find Help",
+"href": "https://www.wearethe105.com/findhelp"
+},
+{
+"text": "Find help in the 105",
+"href": "https://www.wearethe105.com/find-help"
+},
+{
+"text": "Get involved",
+"href": "https://www.wearethe105.com/get-involved"
+},
+{
+"text": "HOME: WE ARE THE 105",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "Home",
+"href": "https://www.wearethe105.com/"
+},
+{
+"text": "MI Advance",
+"href": "https://michiganadvance.com/2025/01/23/minimum-wage-and-sick-leave-bills-clear-michigan-house-with-bipartisan-support-after-heated-debate/"
+},
+{
+"text": "MI Advance",
+"href": "https://michiganadvance.com/briefs/republicans-3-1b-road-funding-plan-clears-the-michigan-house/"
+},
+{
+"text": "MI House GOP",
+"href": "https://gophouse.org/member/repkenborton/about"
+},
+{
+"text": "MI House Republicans",
+"href": "https://gophouse.org/member/repkenborton/about"
+},
+{
+"text": "MI House roll call #297",
+"href": "https://legiscan.com/MI/rollcall/SB0237/id/1467618"
+},
+{
+"text": "MI LCV",
+"href": "https://www.michiganlcv.org/lawmaker/ken-borton/"
+},
+{
+"text": "Michigan Country Lines",
+"href": "https://www.countrylines.com/featured-2/snowman-cam/"
+},
+{
+"text": "Michigan LCV",
+"href": "https://www.michiganlcv.org/lawmaker/ken-borton/"
+},
+{
+"text": "MichiganVotes",
+"href": "https://www.michiganvotes.org/Legislator.aspx?ID=145345"
+},
+{
+"text": "MichiganVotes.org",
+"href": "https://www.michiganvotes.org/Legislator.aspx?ID=145345"
+},
+{
+"text": "Planet Detroit",
+"href": "https://planetdetroit.org/2025/01/michigan-data-centers-tax-exemptions/"
+},
+{
+"text": "Rachel or Ken?",
+"href": "https://www.wearethe105.com/rachelorken"
+},
+{
+"text": "Request a yard sign",
+"href": "https://www.wearethe105.com/yard-sign"
+},
+{
+"text": "The 105",
+"href": "https://www.wearethe105.com/the-105"
+},
+{
+"text": "TransparencyUSA",
+"href": "https://www.transparencyusa.org/mi/candidate/ken-borton-can"
+},
+{
+"text": "Updates",
+"href": "https://www.wearethe105.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wearethe105.com/volunteer"
+},
+{
+"text": "What's up in Lansing",
+"href": "https://www.wearethe105.com/whats-up-in-lansing"
+},
+{
+"text": "What's up, Lansing?",
+"href": "https://www.wearethe105.com/whatsuplansing"
+},
+{
+"text": "Where we stand",
+"href": "https://www.wearethe105.com/where-we-stand"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.wearethe105.com/yardsign"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/YOURPAGE"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@YOURPAGE"
+},
+{
+"text": "his bills (LegiScan)",
+"href": "https://legiscan.com/MI/people/ken-borton/id/22462"
+},
+{
+"text": "iVoterGuide",
+"href": "https://ivoterguide.com/candidate/54220/race/8538/election/799"
+},
+{
+"text": "kenborton.com",
+"href": "https://www.kenborton.com/"
+},
+{
+"text": "legislature.mi.gov",
+"href": "https://www.legislature.mi.gov/"
+},
+{
+"text": "rachel@wearethe105.com",
+"href": "mailto:rachel@wearethe105.com"
+},
+{
+"text": "wearethe105.com",
+"href": "https://www.wearethe105.com"
+}
 ]

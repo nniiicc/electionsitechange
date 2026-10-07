@@ -1,6 +1,18 @@
 [
-"https://matthewsformt.com/",
-"https://matthewsformt.com/erics-priorities",
-"https://matthewsformt.com/meet-eric",
-"https://secure.actblue.com/donate/mypeople"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mypeople"
+},
+{
+"text": "Eric's Priorities",
+"href": "https://matthewsformt.com/erics-priorities"
+},
+{
+"text": "Home",
+"href": "https://matthewsformt.com/"
+},
+{
+"text": "Meet Eric",
+"href": "https://matthewsformt.com/meet-eric"
+}
 ]

@@ -1,30 +1,19 @@
-Why
-Running statewide requires real resources
-Seventy-five counties, field time, and voter education do not run on goodwill alone—money covers the plain costs so people can show up.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Support the campaign Donate A clear, honest ask: running statewide requires real resources.
+If giving fits your budget, it helps the practical work—alongside neighbors who volunteer and bring five.
+Donate Volunteer Bring 5 Why Running statewide requires real resources Seventy-five counties, field time, and voter education do not run on goodwill alone—money covers the plain costs so people can show up.
 Giving never replaces trust; it helps pay for gas, print, tools, and staff time so the campaign can be present where Arkansans already gather.
-How
-Funds support
-Travel, materials, and the everyday costs of showing up in 75 counties.
-- Travel
-- Materials
-- Voter education
-- Organizing
-- Digital tools
-For treasurer questions, contact the committee.
-What
-If you give
-No “right” amount—only what fits.
-- Give what you can.
-- Monthly helps when it works for you—steady beats one-off spikes for planning.
-- Pair your gift with Bring 5 — money plus introductions scales the right way.
+How Funds support Travel, materials, and the everyday costs of showing up in 75 counties.
+Travel Materials Voter education Organizing Digital tools For treasurer questions, contact the committee.
+What If you give No “right” amount—only what fits.
+Give what you can.
+Monthly helps when it works for you—steady beats one-off spikes for planning.
+Pair your gift with Bring 5 — money plus introductions scales the right way.
 If you cannot give, volunteer or bring five.
-Volunteer · Bring 5— you are not a backup; you are how counties move.
-Take the next step
-Donations go through the committee’s secure page—the same processor linked from KellyGrappe.com.
-National map
-Democratic Association of Secretaries of State (DASS)
-DASS spotlights the Arkansas Secretary of State race on its 2026 state page—useful context for anyone following pro-voter, pro-democracy work nationwide.
-DASS: Arkansas 2026 (demsofstate.org) ↗
-Contributions are processed securely through the same trusted link used on KellyGrappe.com.
+Volunteer · Bring 5 — you are not a backup; you are how counties move.
+Take the next step Donations go through the committee’s secure page—the same processor linked from KellyGrappe.com .
+Donate Volunteer Bring 5 National map Democratic Association of Secretaries of State (DASS) DASS spotlights the Arkansas Secretary of State race on its 2026 state page—useful context for anyone following pro-voter, pro-democracy work nationwide.
+DASS: Arkansas 2026 (demsofstate.org) ↗ Contributions are processed securely through the same trusted link used on KellyGrappe.com .
 Paid for by the committee—details appear in the footer on every page.
-Kelly Grappe for Arkansas Secretary of State
+Kelly Grappe for Arkansas Secretary of State Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

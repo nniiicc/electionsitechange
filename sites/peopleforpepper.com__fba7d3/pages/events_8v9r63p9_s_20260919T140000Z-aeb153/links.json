@@ -1,17 +1,62 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/share/198J3xZec8",
-"https://peopleforpepper.com/",
-"https://peopleforpepper.com/contact",
-"https://peopleforpepper.com/contribute",
-"https://peopleforpepper.com/events",
-"https://peopleforpepper.com/events/8v9r63p9.ics?s=20260919T140000Z",
-"https://peopleforpepper.com/home",
-"https://peopleforpepper.com/issues",
-"https://peopleforpepper.com/make-endorsement",
-"https://peopleforpepper.com/meet_pepper",
-"https://peopleforpepper.com/photos",
-"https://peopleforpepper.com/view-endorsements",
-"https://peopleforpepper.com/volunteer",
-"https://peopleforpepper.com/yard-sign"
+{
+"text": "Add to calendar",
+"href": "https://www.peopleforpepper.com/events/8v9r63p9.ics?s=20260919T140000Z"
+},
+{
+"text": "Contact",
+"href": "https://www.peopleforpepper.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.peopleforpepper.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peopleforpepper.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.peopleforpepper.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.peopleforpepper.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.peopleforpepper.com/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.peopleforpepper.com/make-endorsement"
+},
+{
+"text": "Meet Pepper",
+"href": "https://www.peopleforpepper.com/meet_pepper"
+},
+{
+"text": "Photos",
+"href": "https://www.peopleforpepper.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.peopleforpepper.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.peopleforpepper.com/yard-sign"
+},
+{
+"text": "[image: Pepper Snyder State Representative District 50]",
+"href": "https://www.peopleforpepper.com/"
+},
+{
+"text": "https://www.facebook.com/share/198J3xZec8/",
+"href": "https://www.facebook.com/share/198J3xZec8/"
+}
 ]

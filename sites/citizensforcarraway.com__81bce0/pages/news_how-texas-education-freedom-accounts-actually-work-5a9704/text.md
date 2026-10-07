@@ -1,5 +1,4 @@
-How Texas Education Freedom Accounts Actually Work
-When Senate Bill 2 was signed into law in May 2025, it was described by Governor Greg Abbott as the largest day-one school choice program in the nation.
+0 Skip to Content Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Citizens for Carraway Home Meet Angie Priorities Endorsements Events News Shop Donate Open Menu Close Menu Home Meet Angie Priorities Endorsements Events News Shop Donate How Texas Education Freedom Accounts Actually Work Education Policy May 5 Written By Angie When Senate Bill 2 was signed into law in May 2025, it was described by Governor Greg Abbott as the largest day-one school choice program in the nation.
 The pitch was specific.
 Vouchers would help working families afford private school with some sort of universal eligibility.
 They would expand options for students with disabilities.
@@ -7,21 +6,14 @@ They would put parents, not bureaucrats, in charge of their children's education
 That was the pitch.
 The program that was built tells a different story, and most of that story lives in the mechanics.
 And we’ll lay it out here in two parts.
-Part One
-The first sign that the program was not built the way it was sold is who was put in charge of it.
+Part One The first sign that the program was not built the way it was sold is who was put in charge of it.
 TEFA, the voucher program, is administered by the Texas Comptroller's office rather than the Texas Education Agency.
 The Comptroller is the state's tax collector.
 The office has no education staff, no curriculum expertise, no school accreditation experience, and no history of overseeing programs that serve children.
 What it does have is the checkbook.
 The first-year budget for vouchers is $1 billion, enough to fund roughly 90,000 students.
 Vouchers are available to students who attend or plan to leave public school for private school, homeschool, or a specialized disability program.
-Here is what each student will get based on where they head:
-| Student | Annual Award |
-|---|---|
-| Private school | $10,474 |
-| Homeschool | $2,000 |
-| Disability | Up to $30,000 |
-Those are the numbers.
+Here is what each student will get based on where they head: Student Annual Award Private school $10,474 Homeschool $2,000 Disability Up to $30,000 Those are the numbers.
 They sound straightforward but they aren’t.
 There are two places where the pitch really splits from reality before a single child sits down in a new classroom.
 The first catch is that a family that receives a voucher is not guaranteed admission anywhere.
@@ -35,17 +27,10 @@ Meaning families pay the difference out of pocket.
 For a family earning $60,000 a year, the gap between the voucher and a $25,000 tuition is a wall, not a door.
 So the program hands a family a check, does not promise them a seat, and at most schools doesn’t cover the cost.
 That is what TEFA looks like at the door.
-Part Two
-There is a difference between a program that delivers less than it promised and a program whose design tells you the promise was not the point.
+Part Two There is a difference between a program that delivers less than it promised and a program whose design tells you the promise was not the point.
 And the first tell is the priority tier system and who the program was actually built for.
 Because the program has more applicants than there is money for the program, awards are distributed by lottery within four priority tiers.
-| Tier | Household Income | Outcome |
-|---|---|---|
-| 1 | Up to $165K, with disability | Fully funded |
-| 2 | Up to $66K | Funding runs out here |
-| 3 | $66K to $165K | Mostly waitlisted |
-| 4 | Above $165K (20% cap) | Mostly waitlisted |
-Tier 1 receives funding first.
+Tier Household Income Outcome # Up to $165K, with disability Fully funded # Up to $66K Funding runs out here # $66K to $165K Mostly waitlisted # Above $165K (#% cap) Mostly waitlisted Tier 1 receives funding first.
 Tier 4 receives whatever is left, capped at 20% of total program funding regardless of how much money remains.
 Here is what the 20% cap actually means.
 No more than $200 million of the voucher budget can go to Tier 4 families, the ones earning above $165,000 a year.
@@ -72,8 +57,7 @@ The cap and the IEP forfeit are not separate problems.
 They are the same program telling on itself in two different places.
 The cap admits, in budget law, that the program would otherwise serve wealthy families first.
 The IEP forfeit admits, in education law, that the families the program claimed to prioritize are the ones being asked to give up the most to participate.
-What it adds up to
-I have spent fourteen years teaching middle school in Collin County.
+What it adds up to I have spent fourteen years teaching middle school in Collin County.
 I have sat in IEP meetings.
 I have watched parents fight, sometimes for years, to get specific services written into those documents.
 I have seen what it costs them to get there, and I have seen what those services do for their kids.
@@ -83,3 +67,6 @@ And the disability award asks families to trade a federal guarantee for a privat
 Families will be told to wait, to try again next year, or look elsewhere.
 In the next post of this series, we'll examine the data.
 Who actually applied, who the program actually reached, and further dive into the difference between what was sold to Texans and what we got.
+Texas school vouchers TEFA Texas Education Freedom Accounts Public Education Angie Previous Previous Who Is Actually Using Texas School Vouchers Next Next How Texas School Vouchers Finally Passed After Decades of Failure Angie Carraway for Texas HD-89 Citizens for Carraway PO Box 322, Allen, TX 75013 contact@citizensforcarraway.com 972-302-9914 Explore Meet Angie Priorities Endorsements News Contact Take Action Donate Volunteer Shop Campaign Gear Register to vote Voting information Political advertising paid for by Citizens for Carraway Contributions or gifts to Citizens for Carraway are not deductible as charitable contributions for Federal income tax purposes.
+Texas law requires political committees to report certain contributor information.
+Privacy Policy · © # Citizens for Carraway

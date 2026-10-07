@@ -1,15 +1,82 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/share/1DfpJeTDvc?milbextid=wwXlfr",
-"https://house.mo.gov/districtmap.aspx?district=099&counties=StLouis",
-"https://instagram.com/toriformissouri",
-"https://s1.sos.mo.gov/elections/voterregistration",
-"https://secure.actblue.com/donate/torischafer",
-"https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/absentee-voting",
-"https://stlouiscovotes.maps.arcgis.com/apps/instant/nearby/index.html?appid=4648de793711440faa7653921da40270&sliderDistance=15",
-"https://voteroutreach.sos.mo.gov/portal",
-"https://votetori.com/",
-"https://votetori.com/about",
-"https://votetori.com/contact",
-"https://votetori.com/endorsements"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "$2000",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "Absentee Voting Begins June 23rd",
+"href": "https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/absentee-voting/"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voteroutreach.sos.mo.gov/portal/"
+},
+{
+"text": "Contact",
+"href": "https://www.votetori.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "Early voting locations",
+"href": "https://stlouiscovotes.maps.arcgis.com/apps/instant/nearby/index.html?appid=4648de793711440faa7653921da40270&sliderDistance=15"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votetori.com/endorsements"
+},
+{
+"text": "Meet Tori",
+"href": "https://www.votetori.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/torischafer"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://s1.sos.mo.gov/elections/voterregistration/"
+},
+{
+"text": "[image: Tori Schafer for State Representative]",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "[image: votetori.com logo]",
+"href": "https://www.votetori.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/share/1DfpJeTDvc/?milbextid=wwXlfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/toriformissouri"
+},
+{
+"text": "many more!",
+"href": "https://www.votetori.com/endorsements"
+}
 ]

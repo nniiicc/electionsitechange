@@ -1,13 +1,58 @@
 [
-"https://davidforkauai.com/",
-"https://davidforkauai.com/about-david",
-"https://davidforkauai.com/event-details/general-election-day",
-"https://davidforkauai.com/events-list",
-"https://davidforkauai.com/privacy-policy",
-"https://davidforkauai.com/terms-conditions",
-"https://facebook.com/davidforkauai",
-"https://instagram.com/davidforkauai",
-"https://olvr.hawaii.gov/",
-"https://secure.winred.com/friends-of-david-hazlebeck/donate-today",
-"https://x.com/davidforkauai"
+{
+"text": "About David",
+"href": "https://www.davidforkauai.com/about-david"
+},
+{
+"text": "David Hazlebeck",
+"href": "https://www.davidforkauai.com"
+},
+{
+"text": "David@DavidForKauai.com",
+"href": "mailto:David@DavidForKauai.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-david-hazlebeck/donate-today"
+},
+{
+"text": "Events",
+"href": "https://www.davidforkauai.com/events-list"
+},
+{
+"text": "General Election Day!",
+"href": "https://www.davidforkauai.com/event-details/general-election-day"
+},
+{
+"text": "Home",
+"href": "https://www.davidforkauai.com"
+},
+{
+"text": "Learn more",
+"href": "https://www.davidforkauai.com/event-details/general-election-day"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidforkauai.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davidforkauai.com/terms-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/davidforkauai"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/davidforkauai"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/davidforkauai"
+}
 ]

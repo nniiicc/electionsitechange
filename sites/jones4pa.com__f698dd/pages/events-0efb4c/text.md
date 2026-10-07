@@ -1,18 +1,5 @@
-Oct
-25
-6:00 PM18:00
-- Heritage Hills Golf Resort (map)
-- Google Calendar ICS
-Click Here to Register
-20
-5:00 PM17:00
-2
-- Wyndridge Farm (map)
-- Google Calendar ICS
-Sep
-12
-- United Fiber and Data (map)
-- Google Calendar ICS
-Newsletter Block
-This newsletter signup form needs a storage option.
+People Over Politics Home About Mike Events Donate Contact People Over Politics Home About Mike Events Donate Contact Events Oct 25 6:00 PM 18:00 An Evening With Mike Jones Tuesday, October 25, 2022 6:00 PM 8:00 PM 18:00 20:00 Heritage Hills Golf Resort (map) Google Calendar ICS Click Here to Register View Event → Oct 20 5:00 PM 17:00 Dallastown Halloween Parade Thursday, October 20, 2022 5:00 PM 9:00 PM 17:00 21:00 Google Calendar ICS View Event → Oct 2 6:00 PM 18:00 An Evening With Dave Sunday and Mike Jones Tuesday, October 2, 2018 6:00 PM 8:00 PM 18:00 20:00 Wyndridge Farm (map) Google Calendar ICS Click Here to Register View Event → Sep 12 6:00 PM 18:00 An Evening With Kristin Phillips-Hill and Mike Jones Wednesday, September 12, 2018 6:00 PM 8:00 PM 18:00 20:00 United Fiber and Data (map) Google Calendar ICS Click Here to Register View Event → Newsletter Block This newsletter signup form needs a storage option.
 Edit the block and enter a storage location via the Storage tab.
+STAY INFORMED Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you! home | about mike | events | donate TeamJones@JonesForPa.com Paid For by Jones For PA ©#

@@ -1,9 +1,58 @@
 [
-"http://shaarawattsforsomd.com/",
-"https://ballotpedia.org/Shaara_Watts",
-"https://shaarawattsforsomd.com/",
-"https://shaarawattsforsomd.com/About-me",
-"https://shaarawattsforsomd.com/Contacts",
-"https://shaarawattsforsomd.com/Donate",
-"https://shaarawattsforsomd.com/Issues"
+{
+"text": "About me",
+"href": "https://shaarawattsforsomd.com/About-me/"
+},
+{
+"text": "Contacts",
+"href": "https://shaarawattsforsomd.com/Contacts/"
+},
+{
+"text": "Donate",
+"href": "https://shaarawattsforsomd.com/Donate/"
+},
+{
+"text": "Email to Sign Up",
+"href": "mailto:info@shaarawattsforsomd.com?subject=Sign+Up&body=Name%3AEmail%3AHow+I%E2%80%99d+like+to+help%3A"
+},
+{
+"text": "Home",
+"href": "https://shaarawattsforsomd.com/"
+},
+{
+"text": "Issues",
+"href": "https://shaarawattsforsomd.com/Issues/"
+},
+{
+"text": "Read more",
+"href": "https://shaarawattsforsomd.com/Contacts/"
+},
+{
+"text": "Read more",
+"href": "https://shaarawattsforsomd.com/Donate/"
+},
+{
+"text": "Read more",
+"href": "https://shaarawattsforsomd.com/Issues/"
+},
+{
+"text": "[image]",
+"href": "https://ballotpedia.org/Shaara_Watts"
+},
+{
+"text": "[no text]",
+"href": "https://ballotpedia.org/Shaara_Watts"
+},
+{
+"text": "info@shaarawattsforsomd.com",
+"href": "mailto:info@shaarawattsforsomd.com"
+},
+{
+"text": "shaarawattsforsomd.com",
+"href": "http://shaarawattsforsomd.com"
+},
+{
+"text": "use our contact form",
+"href": "https://shaarawattsforsomd.com/Contacts/"
+}
 ]

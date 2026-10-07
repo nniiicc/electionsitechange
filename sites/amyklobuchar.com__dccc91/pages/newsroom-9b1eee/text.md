@@ -1,32 +1,14 @@
-“If we want parents to be able to work, we need good childcare.”
-September 25, 2026
-Brainerd Dispatch
-Child care
-September 21, 2026
-InForum
-Health care
-“People need to understand that there’s a major difference between me and my opponent… when it comes to healthcare and costs.”
-KTTC
-“I will protect the discounted medicines that keep our rural and safety net hospitals and local pharmacies open, known as the 340B program.”
-September 18, 2026
-Lakeland PBS
-“If elected Governor, I know what it’s going to take to make childcare affordable and available in Minnesota.”
-August 31, 2026
-CBS News
-Governing
-“I was the one that made the calls to say we shouldn't put in funding requests and guess what?
-It was never funded.”
-August 22, 2026
-Tourism
-“As people look at their bottom lines, they’re gonna think about ‘well, maybe I can take my vacation in Minnesota.’”
-August 14, 2026
-“We need more training pathways that encourage medical professionals to live and work in the communities that need it the most.”
-July 2, 2026
-Mesabi Tribune
-Labor
-“She is running for governor to bring Minnesotans together, get things done, and stand up for what’s right while fixing what’s wrong.”
-WDIO
-“Workers have always been able to count on Amy Klobuchar to show up for us.”
-July 1, 2026
-Greater Minnesota
-“A government that carries its weight and matches its people’s ambition.”
+Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Newsroom Follow the latest plans, endorsements, and moments from Amy and Ben’s campaign across Minnesota.
+Klobuchar outlines childcare plan at Brainerd Family YMCA visit September 25, 2026 Brainerd Dispatch Child care “If we want parents to be able to work, we need good childcare.” Klobuchar outlines childcare plan at Brainerd Family YMCA visit Sen.
+Amy Klobuchar highlights healthcare plans September 21, 2026 InForum Health care “People need to understand that there’s a major difference between me and my opponent… when it comes to healthcare and costs.” Sen.
+Amy Klobuchar highlights healthcare plans Klobuchar touts healthcare as key campaign platform as November election draws closer September 21, 2026 KTTC Health care “I will protect the discounted medicines that keep our rural and safety net hospitals and local pharmacies open, known as the 340B program.” Klobuchar touts healthcare as key campaign platform as November election draws closer Klobuchar Stops in Brainerd To Discuss Affordable Childcare Plan for MN September 18, 2026 Lakeland PBS Child care “If elected Governor, I know what it’s going to take to make childcare affordable and available in Minnesota.” Klobuchar Stops in Brainerd To Discuss Affordable Childcare Plan for MN Amy Klobuchar pushes back on GOP fraud attack as Minnesota governor’s race heats up August 31, 2026 CBS News Governing “I was the one that made the calls to say we shouldn't put in funding requests and guess what?
+It was never funded.” Amy Klobuchar pushes back on GOP fraud attack as Minnesota governor’s race heats up Klobuchar promotes tourism plan during Lanesboro stop August 22, 2026 KTTC Tourism “As people look at their bottom lines, they’re gonna think about ‘well, maybe I can take my vacation in Minnesota.’” Klobuchar promotes tourism plan during Lanesboro stop Klobuchar unveils healthcare workforce plan during Winona visit August 14, 2026 KTTC Health care “We need more training pathways that encourage medical professionals to live and work in the communities that need it the most.” Klobuchar unveils healthcare workforce plan during Winona visit Minnesota Steelworkers endorse Klobuchar for governor July 2, 2026 Mesabi Tribune Labor “She is running for governor to bring Minnesotans together, get things done, and stand up for what’s right while fixing what’s wrong.” Minnesota Steelworkers endorse Klobuchar for governor United Steelworkers endorse Sen.
+Amy Klobuchar for governor July 2, 2026 WDIO Labor “Workers have always been able to count on Amy Klobuchar to show up for us.” United Steelworkers endorse Sen.
+Amy Klobuchar for governor U.S.
+Sen.
+Amy Klobuchar announces plan to grow rural Minnesota economy July 1, 2026 InForum Greater Minnesota “A government that carries its weight and matches its people’s ambition.” U.S.
+Sen.
+Amy Klobuchar announces plan to grow rural Minnesota economy 1 2 3 → New stories are added as the campaign continues across Minnesota.
+Media Inquiries Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104.

@@ -1,7 +1,8 @@
-Mayor Kevin Hartke
-A husband, father, grandfather, and pastor, Kevin Hartke has lived in Chandler since 1985 and has played an integral role in making Chandler one of the best-run cities in Arizona.
+Skip to content Sign Petition Home About Issues Volunteer Endorsements Donate DONATE Sign Petition Mayor Kevin Hartke A husband, father, grandfather, and pastor, Kevin Hartke has lived in Chandler since 1985 and has played an integral role in making Chandler one of the best-run cities in Arizona.
 He is currently serving his second term as Mayor, with his term ending in January 2027.
 He previously served on the City Council for nine years before becoming Mayor.
 Kevin is a strong believer in fiscal conservatism, limited government, and smart economic growth with an eye toward the future.
 Kevin served as Lead Pastor at Trinity Christian Fellowship for over 40 years and continues to serve part-time at the church.
 He has been married to his wife Lynne for 44 years, and together they have four children, four grandchildren, and a doodle named Sadie.
+Community Leadership & Service President, Arizona League of Cities and Towns Executive Board and Regional Council Member, Maricopa Association of Governments Board Member, Arizona Commerce Authority Board Member, Greater Phoenix Economic Council Technology and Innovation Committee Member, US Conference of Mayors CHIPS Implementation Task Force Member, US Conference of Mayors Ex-Officio Board Member, Chandler Chamber of Commerce Ex-Officio Board Member, Chandler’s Sister Cities Ex-Officio Board Member, For Our City Chandler Volunteer, American Cancer Society $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Donate campaign@kevinhartke.com PAID FOR BY KEVIN HARTKE FOR STATE REPRESENTATIVE - DISTRICT 13.
+AUTHORIZED BY KEVIN HARTKE. © 2026 • Privacy Policy • Terms & Conditions

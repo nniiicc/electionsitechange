@@ -1,4 +1,4 @@
-Ramona Goolsby came to New Mexico in 2019 for work and when the pandemic hit, she chose to stay.
+Close Menu About For Churches For Businesses 100 Days Volunteer Contact Donate Search Election Day is November 3, 2026 — Get your sample ballot today About For Churches For Businesses 100 Days Volunteer Contact Donate Mobile Menu About Ramona Ramona Goolsby came to New Mexico in 2019 for work and when the pandemic hit, she chose to stay.
 While others retreated, she kept reporting to work as a Primary Care Provider for the Veterans Administration, caring for the men and women who had given so much for this country.
 She had found her home.
 Her career spans more than three decades of service.
@@ -12,9 +12,9 @@ In November 2025, she was elected to the Ciudad Soil and Water Conservation Dist
 Ramona believes elections should bring people together, not divide them.
 When she saw transparency concerns go unanswered, she acted: filing a lawsuit in the 13th District Court challenging constitutional violations by the Secretary of State’s office, a Writ of Mandamus to obtain 2022 election ballots, and multiple ethics complaints with the State Ethics Commission.
 Encouraged by the Bernalillo County GOP following her conservation board win, she filed for Secretary of State on February 3, 2026.
-Her campaign rests on three principles:
-- Access: every eligible voter can register and vote clearly and confidently
-- Responsibility: public resources managed with transparency and respect for taxpayers
-- Trust: built through clear rules, professional oversight, and leadership that is calm, principled, and solution-focused.
+Her campaign rests on three principles: Access: every eligible voter can register and vote clearly and confidently Responsibility: public resources managed with transparency and respect for taxpayers Trust: built through clear rules, professional oversight, and leadership that is calm, principled, and solution-focused.
 Faith in God, love for her family, and a commitment to America’s founding ideals are the foundation of everything Ramona does.
 She is asking for the honor of serving all of New Mexico without fear, without favor, and with integrity.
+Stay in the Loop Notice: JavaScript is required for this content.
+About 100 Days Volunteer Contact Donate Paid for by RamonaNM © # Ramona for New Mexico.
+All rights reserved. [email protected]

@@ -1,5 +1,4 @@
-About Joe
-Joe Major’s connection to Vermont isn’t something he had to build—it’s something he’s lived every day.
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue About Joe Joe Major’s connection to Vermont isn’t something he had to build—it’s something he’s lived every day.
 A native of Buffalo, New York, he grew up with values that he carries to this day: hard work, community, and a deep respect for the land and the people who call it home.
 Joe learned early on that neighbors look out for one another, that showing up matters, and that small actions can have a big impact.
 Those lessons stayed with him and continue to guide how he approaches both his personal and professional life.
@@ -19,3 +18,5 @@ His decisions are shaped by the same principles he learned growing up: be honest
 At the end of the day, Joe Major is not just a senator—he’s a Vermonter through and through.
 A neighbor, a public servant, a community leader, and someone who believes deeply in the future of this state.
 His commitment to Vermont isn’t about a title; it’s about continuing to serve the place and people he’s proud to call home.
+Joe Major for Windsor County Senate Donate Today!
+Actblue.com

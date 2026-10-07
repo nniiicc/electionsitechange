@@ -1,20 +1,2 @@
-Skip navigation menu
-Home
-About
-Issues
-Events
-Volunteer
-Contact
-Yard Sign
-Donate
-Home
-About
-Issues
-Events
-Volunteer
-Contact
-Yard Sign
-Donate
-Campaign Events
-There are no upcoming events.
-You need to enable JavaScript to run this app.
+Skip navigation menu Home About Issues Events Volunteer Contact Yard Sign Donate Home About Issues Events Volunteer Contact Yard Sign Donate Campaign Events There are no upcoming events.
+Privacy Policy Alicia@Aliciaescottlumpkin.com Powered by RUN! website builder Paid for by the Committee to Elect Alicia Escott Lumpkin PO BOX 1993 Birmingham, AL 35201 You need to enable JavaScript to run this app.

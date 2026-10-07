@@ -1,4 +1,30 @@
 [
-"https://digital4dems.com/",
-"https://tracyforrep.com/"
+{
+"text": "ABOUT",
+"href": "https://tracyforrep.com/#about"
+},
+{
+"text": "CAMPAIGN ISSUES",
+"href": "https://tracyforrep.com/#issues"
+},
+{
+"text": "CONTACT",
+"href": "https://tracyforrep.com/#contact"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://tracyforrep.com/#endorsement"
+},
+{
+"text": "HOME",
+"href": "https://tracyforrep.com/#home"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://tracyforrep.com/#volunteer"
+},
+{
+"text": "© # Digital4Dems",
+"href": "https://digital4dems.com/"
+}
 ]

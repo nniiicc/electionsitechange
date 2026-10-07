@@ -1,43 +1,12 @@
-Issues
-Solutions Over Ideology - Government should focus on solving problems, not pushing agendas.
-I will work with anyone, Republican or Democrats, who is serious about:
-- Lowering costs for families
-- Making housing and rent more affordable
-- Building a strong, safe communities for everyone
-Because results matter more than party lines
-Cutting Red Tape & Creating Affordability - We need to make it easier—not harder—to live, work, and build here.
-I will fight to:
-- Cut unnecessary regulations that slow down housing development
-- Expand affordable housing options for homeowners and renters
-- Reduce barriers for small businesses and job creators
-When government gets out of the way, opportunity grows.
+Meet Bruce Issues News Volunteer Contribute Issues Solutions Over Ideology - Government should focus on solving problems, not pushing agendas.
+I will work with anyone, Republican or Democrats, who is serious about: Lowering costs for families Making housing and rent more affordable Building a strong, safe communities for everyone Because results matter more than party lines Cutting Red Tape & Creating Affordability - We need to make it easier—not harder—to live, work, and build here.
+I will fight to: Cut unnecessary regulations that slow down housing development Expand affordable housing options for homeowners and renters Reduce barriers for small businesses and job creators When government gets out of the way, opportunity grows.
 Lower Taxes & Fiscal Responsibility - Families are feeling squeezed and government shouldn’t make it worse.
-I believe in:
-- Reducing the tax burden on hardworking families
-- Ending “blank check” spending
-- Ensuring full transparency and accountability in government budgets
-Taxpayers deserve to know where every dollar goes.
+I believe in: Reducing the tax burden on hardworking families Ending “blank check” spending Ensuring full transparency and accountability in government budgets Taxpayers deserve to know where every dollar goes.
 Real Education Results - We need to get back to the basics.
-Our schools should focus on:
-- Strong reading, writing, and math skills
-- Measurable outcomes
-- Empowering parents with school choice options
-Our kids deserve an education system that prepares them to succeed.
+Our schools should focus on: Strong reading, writing, and math skills Measurable outcomes Empowering parents with school choice options Our kids deserve an education system that prepares them to succeed.
 Jobs, Workforce, and Opportunity - To keep top talent here, we must create opportunity.
-My focus:
-- Support business growth and job creation
-- Attract and retain skilled workers
-- Build an economy where families can thrive, not just get by
-Standing With Our Communities
-I will always stand with:
-- Law enforcement who keep our neighborhoods safe
-- Farmers and rural communities who are the backbone of our state
-- Workers and small businesses who drive our economy
-A Different Approach
-I’m not a career politician, but I am a problem solver.
-I believe in:
-- Accountability
-- Transparency
-- Delivering real results
-It is time for a common-sense alternative focused on getting things done.
-Driving Real Results
+My focus: Support business growth and job creation Attract and retain skilled workers Build an economy where families can thrive, not just get by Standing With Our Communities I will always stand with: Law enforcement who keep our neighborhoods safe Farmers and rural communities who are the backbone of our state Workers and small businesses who drive our economy A Different Approach I’m not a career politician, but I am a problem solver.
+I believe in: Accountability Transparency Delivering real results It is time for a common-sense alternative focused on getting things done.
+Driving Real Results VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Bruce Stabenow Launches Facebook Site Bruce Stabenow Launches Campaign for the 91st assembly district Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner.com - Political Websites Home Meet Bruce Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

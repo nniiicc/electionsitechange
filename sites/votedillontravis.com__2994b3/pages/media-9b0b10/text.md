@@ -1,5 +1,3 @@
-Dillon Travis Announces Campaign for State House in Oklahoma’s 35th District
-Maramec, OK — Dillon Travis, a 6th-generation Oklahoman, lifelong farmer, and rural business owner, officially
-announced his campaign today for the Oklahoma House of Representatives in the upcoming special election for
-House District 35.
+Skip to content HOME MEET DILLON ISSUES MEDIA GET INVOLVED VOTE CONTACT HOME MEET DILLON ISSUES MEDIA GET INVOLVED VOTE CONTACT Donate MEDIA Dillon Travis Announces Campaign for State House in Oklahoma’s 35th District Maramec, OK — Dillon Travis, a 6th-generation Oklahoman, lifelong farmer, and rural business owner, officially announced his campaign today for the Oklahoma House of Representatives in the upcoming special election for House District 35.
 The Republican primary is scheduled for December 9, 2025.
+Read More » 261062 HB Dillon Travis 2nd Mailer 050126-v2 (2) 260889 Dillion Travis Primary Mail final pdf (5) Vote Dillon Travis for State House PRIMARY ELECTION: June 16 Follow Dillon on Social Media: Facebook PRIVACY POLICY TERMS & CONDITIONS Authorized and Paid for by Dillon Travis for State House 2026

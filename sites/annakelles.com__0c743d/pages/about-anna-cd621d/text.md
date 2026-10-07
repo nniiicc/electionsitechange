@@ -1,5 +1,4 @@
-About Anna
-Dr.
+0 Skip to Content Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Issues Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate Open Menu Close Menu Home About Anna Folder: Issues Back Healthcare Childcare Housing for All Environment Rural Resources Improving Public Safety Protecting Immigrant Communities Strengthening Worker Rights Legislative Accomplishments Get Involved Voter Information Donate About Anna Dr.
 Anna Kelles is a public health scientist, environmental advocate, and New York State Assemblymember representing the 125th District, which includes Tompkins County and southwest Cortland County.
 Born and raised in Tompkins County, Anna studied biology and environmental science before spending four years in Ecuador, where she taught high school biology and worked as an ecological guide in the Amazon.
 She later earned a PhD in Nutritional Epidemiology and built a career in teaching, nutrition, and nonprofit leadership before entering public service.
@@ -9,8 +8,7 @@ Anna was elected to the State Assembly in 2020 and took office in January 2021.
 She now chairs the Legislative Commission on Rural Resources, where she works to ensure that state policy accounts for the different needs and resources of rural communities.
 She also serves on the Assembly Committees on Agriculture, Correction, Environmental Conservation, Health, Higher Education, and Housing.
 Anna is a member of the Legislative Women’s Caucus and serves on its Executive Board.
-Legislative Work and Accomplishments
-Anna is best known statewide for sponsoring and passing New York’s first-in-the-nation moratorium on certain proof-of-work cryptocurrency mining operations.
+Legislative Work and Accomplishments Anna is best known statewide for sponsoring and passing New York’s first-in-the-nation moratorium on certain proof-of-work cryptocurrency mining operations.
 The law responded to the reopening of fossil-fuel power plants to supply enormous amounts of energy for cryptocurrency mining.
 It paused new or expanded permits for these operations while requiring the State to study their effects on the climate and surrounding communities.
 This work led Anna to examine how New York should prepare for other rapidly growing industries with significant demands for energy, water, and public infrastructure.
@@ -38,8 +36,7 @@ She also carries the CARE Act, which strengthens protections, healthcare support
 In 2025, legislation Anna sponsored became law providing immunity to people engaged in sex work and victims of trafficking when they are victims or witnesses of serious crimes.
 The law allows someone to call for medical help, report violence, or assist law enforcement without the evidence they provide being used to prosecute them for prostitution.
 This makes it easier to report dangerous offenders and protects people who are especially vulnerable to violence and exploitation.
-BEFORE THE ASSEMBLY
-Anna earned dual bachelor’s degrees in biology and environmental studies from Binghamton University.
+BEFORE THE ASSEMBLY Anna earned dual bachelor’s degrees in biology and environmental studies from Binghamton University.
 After college, she moved to Ecuador, where her work as a teacher and ecological guide brought her into communities in the Andes and the Amazon.
 She returned to the United States to earn her PhD at the University of North Carolina at Chapel Hill.
 Her research examined how urbanization affected health and behavior across generations in Cebu, Philippines.
@@ -51,3 +48,4 @@ She worked to expand affordable housing and rural broadband, support alternative
 This work convinced her that many of the challenges local communities face cannot be resolved locally.
 Municipalities need the State to provide resources, remove barriers, and write laws that respond to very different conditions across New York.
 Anna ran for the Assembly to bring this local experience, along with her background in science and public health, to decisions made in Albany.
+Email: info@annakelles.com

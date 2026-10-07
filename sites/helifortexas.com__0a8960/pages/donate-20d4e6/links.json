@@ -1,9 +1,30 @@
 [
-"http://linkedin.com/in/heliprilliman",
-"https://helifortexas.com/",
-"https://helifortexas.com/cart",
-"https://helifortexas.com/contact",
-"https://helifortexas.com/donate",
-"https://helifortexas.com/issues",
-"https://instagram.com/helifortexas"
+{
+"text": "0",
+"href": "https://www.helifortexas.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.helifortexas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.helifortexas.com/donate"
+},
+{
+"text": "The Issues",
+"href": "https://www.helifortexas.com/issues"
+},
+{
+"text": "[image: Heli for Congress TX-12]",
+"href": "https://www.helifortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/in/heliprilliman"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/helifortexas"
+}
 ]

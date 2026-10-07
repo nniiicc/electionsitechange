@@ -1,13 +1,8 @@
-FOR IMMEDIATE RELEASE
-March 10, 2026
-Colom lifted to victory by broad coalition of Mississippians
-Victory comes as new local reporting reveals Hyde-Smith billed nearly $10,000 in Vegas hotel stays to her campaign — then voted to keep her spending secret
-District Attorney Colom: “Tonight, Mississippi voted for a new direction, and that’s what this campaign has always been about”
-Columbus, MS — District Attorney and Democratic U.S.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate March 10, 2026 Press Release VICTORY: District Attorney Scott Colom Wins Democratic Senate Primary, Advances to Face Cindy Hyde-Smith in November: “We’re Going in a New Direction” FOR IMMEDIATE RELEASE March 10, 2026 Colom lifted to victory by broad coalition of Mississippians Victory comes as new local reporting reveals Hyde-Smith billed nearly $10,000 in Vegas hotel stays to her campaign — then voted to keep her spending secret District Attorney Colom: “Tonight, Mississippi voted for a new direction, and that’s what this campaign has always been about” Columbus, MS — District Attorney and Democratic U.S.
 Senate candidate Scott Colom won the Mississippi Democratic primary tonight, securing his place on the November ballot against incumbent Republican Senator Cindy Hyde-Smith.
 Colom, a seventh-generation Mississippian and District Attorney with a 94% conviction record, won an overwhelming majority of the vote, powered by a broad coalition of Mississippians across the state.
 Colom’s victory caps a primary campaign built on thousands of conversations across Mississippi focused on the need to lower costs, protect health care and hospitals, and bring good jobs home — issues Colom has pledged to prioritize in Washington.
-In contrast, Senator Cindy Hyde-Smith — who voted to gut Medicaid, slash health care for 140,000 Mississippians, and told Mississippians struggling with grocery prices to stop eating beef and instead ‘choose’ a different protein — billed nearly $10,000 in Las Vegas hotel stays to her campaign account and voted against the very transparency measures that would have required her to explain them, according to a Mississippi Free Press report and FEC records.
+In contrast, Senator Cindy Hyde-Smith — who voted to gut Medicaid, slash health care for 140,000 Mississippians, and told Mississippians struggling with grocery prices to stop eating beef and instead ‘ choose ’ a different protein — billed nearly $10,000 in Las Vegas hotel stays to her campaign account and voted against the very transparency measures that would have required her to explain them, according to a Mississippi Free Press report and FEC records .
 “Tonight, Mississippi voted for a new direction, and that’s what this campaign has always been about.
 I’ve traveled all over this state, listening to farmers who can’t sell their crops, mothers deciding between paying their utility bill or buying groceries, and workers who are terrified of losing their health care.
 These folks matter, they’re why I’m running, and they’re why we’re going to win.
@@ -15,11 +10,9 @@ Cindy Hyde-Smith has had the seat, the platform, and the power to act for Missis
 That ends in November,” said District Attorney Colom.
 Colom enters the general election with momentum for his growing campaign: he out-raised Hyde-Smith in Q4, and earned the endorsement of the Mississippi AFL-CIO, Congressman Bennie Thompson, and 29 Mississippi state legislators representing residents in every corner of the state.
 Colom’s strong election night victory demonstrates that Mississippi — home to the largest Black proportional population in America, and a state where the 2023 gubernatorial race saw Democrats come within 27,000 votes of a win — is competitive when the right candidate makes the right case.
-Key highlights of Scott Colom’s primary victory remarks:
-“Now, over the last five months—for anybody that’s been watching—you know that I’ve been traveling all across the state listening to Mississippians, asking them what matters to them.
+Key highlights of Scott Colom’s primary victory remarks: “Now, over the last five months—for anybody that’s been watching—you know that I’ve been traveling all across the state listening to Mississippians, asking them what matters to them.
 And I can tell you all something that I’ve learned: we are headed in the wrong direction, y’all.
-We’re heading in the wrong direction.”
-“But during this campaign, I found out that [Cindy Hyde-Smith is] not asleep at the wheel–she’s in Las Vegas!
+We’re heading in the wrong direction.” “But during this campaign, I found out that [Cindy Hyde-Smith is] not asleep at the wheel–she’s in Las Vegas!
 Vacation!
 Eating good!
 Shopping!
@@ -28,18 +21,14 @@ That’s why she’s so disconnected from the lives of average Mississippians.
 That’s why she says stuff like, if you can’t afford beef, pick another protein.
 And while we are headed in the wrong direction—headed towards a cliff—we all know what she’s going to try and do.
 She’s going to try to divide and distract us.
-She’s going to have scary commercials that are dark with deep, scary voices—all aimed at dividing and distracting us from what really matters to the working people in Mississippi, what really matters to us.”
-“We’re going to go in this new direction together, and we’re going to do it by doing the exact opposite of the failed leadership we’re getting from Cindy Hyde-Smith.
+She’s going to have scary commercials that are dark with deep, scary voices—all aimed at dividing and distracting us from what really matters to the working people in Mississippi, what really matters to us.” “We’re going to go in this new direction together, and we’re going to do it by doing the exact opposite of the failed leadership we’re getting from Cindy Hyde-Smith.
 We’re going to show up all across the state—listening to Mississippians, understanding their needs, their desires, what will make our state reach its potential.
 Together, this new direction will include young people […] We’re going to get disaffected Democrats that have too often been ignored and felt like they don’t matter. […] This new direction will include independents and disaffected Republicans. […] We’re going to get them.
 But we’re going to have to get them together.
-We’re going to have to get them together.”
-“Each generation of Mississippians gets to decide what our future looks like.
+We’re going to have to get them together.” “Each generation of Mississippians gets to decide what our future looks like.
 We all get to write the chapter that future generations will read about Mississippi.
 We all get to control what they’ll say about us in this moment; what we did to put this state in a new direction.
-Deep down, I’m sorry, I believe: with your prayers, with your volunteering, with your belief—we can write a chapter that lives up to the best of our state and shows the country that Mississippi matters.”
-Read the full transcript of Scott Colom’s primary victory remarks below:
-“Thank you to Luci, Madi, Nadia—the loves of my life.
+Deep down, I’m sorry, I believe: with your prayers, with your volunteering, with your belief—we can write a chapter that lives up to the best of our state and shows the country that Mississippi matters.” Read the full transcript of Scott Colom’s primary victory remarks below: “Thank you to Luci, Madi, Nadia—the loves of my life.
 “I’ve got to give a special shout-out to G, Huber, and Theresa—the original “Mississippi Matters” team for believing in us.
 I also want to thank Congressman Bennie Thompson for his support, his guidance and his endorsement.
 I’ve been all across Mississippi today, talking to voters in Hattiesburg, Jackson, Grenada.
@@ -113,9 +102,19 @@ Each generation of Mississippians gets to decide what our future looks like.
 We all get to write the chapter that future generations will read about Mississippi.
 We all get to control what they’ll say about us in this moment; what we did to put this state in a new direction.
 Deep down, I’m sorry, I believe: with your prayers, with your volunteering, with your belief—we can write a chapter that lives up to the best of our state and shows the country that Mississippi matters.
-God bless y’all, thank y’all so much.”
-###
-About Scott: Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+God bless y’all, thank y’all so much.” ### About Scott : Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
 Guided by his Christian faith, Scott has dedicated his life to serving his neighbors and keeping them safe from violent criminals.
 Now he’s running to lower costs for families, save our Mississippi hospitals, and bring good jobs home.
 Scott loves his state and will always put Mississippi first – and he’ll work with anyone, Republican or Democrat, to get things done for us.
+SHARE Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

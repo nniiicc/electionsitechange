@@ -1,7 +1,9 @@
 {
  "description": "Support Kozak for PA and contribute to a political campaign by donating today for resources to ensure a win in November!",
  "final_url": "https://kozakforpa.com/donate",
- "paid_for_by": "Paid for by Citizens For Kozak - All Rights Reserved Powered by This website uses cookies",
+ "fingerprint": "5e1f83108f6c0fcbff8cfaf2f2dec23ed543e15e",
+ "format": 3,
+ "paid_for_by": "Paid for by Citizens For Kozak - All Rights Reserved Powered by",
  "title": "DONATE",
  "years_mentioned": []
 }

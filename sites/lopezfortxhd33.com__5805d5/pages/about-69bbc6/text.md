@@ -1,5 +1,4 @@
-Meet Our Candidate: Orlando Lopez
-Orlando was born and raised in South Texas in a hardworking Mexican-American family.
+0 Skip to Content About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Folder: Get Involved Back Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Meet Our Candidate: Orlando Lopez Orlando was born and raised in South Texas in a hardworking Mexican-American family.
 His parents instilled in him and his siblings the values of hard work, honesty, selflessness, and personal responsibility.
 He was also influenced by his maternal grandmother, a strong matriarch who guided the family with love and wisdom.
 Family members in the LGBTQ+ community have further shaped his commitment to equality, inclusion, and standing up for those too often overlooked.
@@ -12,3 +11,8 @@ He began considering a run for public office in the summer of 2025 after seeing 
 His decision to step forward was solidified after attending an October rally responding to abuses of power at the state and federal levels.
 Orlando is running to defend public education, highlight the essential role immigrants play in Texas’s workforce and economy, and ensure working-class families have proper representation.
 He believes leadership means listening to his constituents and putting people over partisan politics.
+Donate to the Cause Our Family.
+Our Community.
+Our Future.
+Lopez for Texas House District 33 About ‍ ‍ Donate ‍ ‍ Privacy Policy E-mail: campaign@lopezfortxhd33.com Office Number: (972) 246-8104 Mailing Address: PO Box 700 Rockwall, TX 75087 Copyright © # Lopez for Texas House District 33 - All Rights Reserved Pol.
+Adv. paid for by Lopez for Texas House District 33

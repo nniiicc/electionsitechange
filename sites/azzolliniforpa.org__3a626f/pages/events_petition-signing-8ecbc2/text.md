@@ -1,11 +1,4 @@
-Back to All Events
-WE NEED REGISTERED DEMOCRATS TO SIGN OUR PETITION SO WE CAN GET ON THE BALLOT.
+0 Skip to Content Home Issues About PA 139 Events Donate Open Menu Close Menu Donate Home Issues About PA 139 Events Open Menu Close Menu Home Issues About PA 139 Events Donate Back to All Events Petition Signing Sunday, March 8, 2026 3:00 PM 5:00 PM Paddlers Point Paddlers Point PA, 18336 United States (map) Google Calendar ICS WE NEED REGISTERED DEMOCRATS TO SIGN OUR PETITION SO WE CAN GET ON THE BALLOT.
 Please add your signature to our petition to ensure that you have a choice in November of who will be your next PA State Representative.
 We will be at the gazebo in the front of the Paddlers Point Apartment complex, directly behind the ShopRite in Matamoras PA.
-Previous
-Previous
-March 5
-Campaign Launch Party
-Next
-Next
-May 3
+Previous Previous March 5 Campaign Launch Party Next Next May 3 Candidates Meet & Greet Dominique Azzollini For PA 139 Paid for by Azzollini For PA

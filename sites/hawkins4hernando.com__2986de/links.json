@@ -1,4 +1,14 @@
 [
-"https://brianhawkinsforflorida.com/privacy",
-"https://secure.anedot.com/brian-hawkins-campaign/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/brian-hawkins-campaign/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/brian-hawkins-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianhawkinsforflorida.com/privacy"
+}
 ]

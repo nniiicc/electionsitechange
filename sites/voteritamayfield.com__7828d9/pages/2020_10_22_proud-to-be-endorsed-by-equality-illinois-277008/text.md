@@ -1,21 +1,2 @@
-Skip to content
-Toggle mobile menu
-Home
-About Rita
-Endorsements
-Issues
-News
-Take Action
-Donate
-Volunteer
-Get Your Rita Mayfield Yard Sign
-Contact
-Search for:
-October 22, 2020
-Proud to be endorsed by Equality Illinois
-news
-by
-staff
-Post navigation
-Join in Support of Rita
-Proud to be endorsed by the Sierra Club
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: October 22, 2020 Proud to be endorsed by Equality Illinois news by staff Post navigation Join in Support of Rita Proud to be endorsed by the Sierra Club Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

@@ -1,7 +1,9 @@
 {
  "description": "Read the latest news, statements, and upcoming events from the Mike Mazzei for Governor campaign, the Republican nominee for Oklahoma Governor.",
  "final_url": "https://mikeforok.com/news-events/",
- "paid_for_by": "Paid for by Mazzei for Governor \u2013 2026 media@mikeforok",
+ "fingerprint": "93ec4b0c595caf5e4c2382dff5bf6984f7659744",
+ "format": 3,
+ "paid_for_by": "Paid for by Mazzei for Governor – 2026 media@mikeforok",
  "title": "News & Events | Mike Mazzei for Governor",
  "years_mentioned": [
   "2026"

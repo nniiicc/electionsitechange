@@ -1,32 +1,214 @@
 [
-"https://apolloartistry.com/",
-"https://secure.actblue.com/donate/evfc-website",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7",
-"https://vindmanforcongress.com/",
-"https://vindmanforcongress.com/about",
-"https://vindmanforcongress.com/accessibility",
-"https://vindmanforcongress.com/bluesky",
-"https://vindmanforcongress.com/cdn-cgi/l/email-protection",
-"https://vindmanforcongress.com/endorsements",
-"https://vindmanforcongress.com/facebook",
-"https://vindmanforcongress.com/instagram",
-"https://vindmanforcongress.com/issues",
-"https://vindmanforcongress.com/news",
-"https://vindmanforcongress.com/privacy-policy",
-"https://vindmanforcongress.com/shop",
-"https://vindmanforcongress.com/store",
-"https://vindmanforcongress.com/substack",
-"https://vindmanforcongress.com/sunstack",
-"https://vindmanforcongress.com/take-action",
-"https://vindmanforcongress.com/terms-of-service",
-"https://vindmanforcongress.com/threads",
-"https://vindmanforcongress.com/twitter",
-"https://vindmanforcongress.com/vote",
-"https://vindmanforcongress.com/youtube"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=10"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=100"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=25"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=250"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=50"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=500"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/evfc-website?express_lane=true&amount=7"
+},
+{
+"text": "About",
+"href": "https://vindmanforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://vindmanforcongress.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://vindmanforcongress.com/accessibility"
+},
+{
+"text": "By submitting your mobile phone number you are agreeing to receive periodic text messages from Vindman for Congress. Messages include donation asks. Message and data rates may apply. Text HELP for more information. Text STOP to stop receiving messages. Terms and privacy policy.",
+"href": "https://vindmanforcongress.com/privacy-policy"
+},
+{
+"text": "Contact",
+"href": "mailto:info@vindmanforcongress.com"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Endorsements",
+"href": "https://vindmanforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://vindmanforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://vindmanforcongress.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://vindmanforcongress.com"
+},
+{
+"text": "Instagram",
+"href": "https://vindmanforcongress.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://vindmanforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://vindmanforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://vindmanforcongress.com/news"
+},
+{
+"text": "News",
+"href": "https://vindmanforcongress.com/news/"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Other Amount...",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Other Amount... Other Amount...",
+"href": "https://secure.actblue.com/donate/evfc-website"
+},
+{
+"text": "Powered By Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@vindmanforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vindmanforcongress.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://vindmanforcongress.com/shop"
+},
+{
+"text": "Shop",
+"href": "https://vindmanforcongress.com/store"
+},
+{
+"text": "Take Action",
+"href": "https://vindmanforcongress.com/take-action"
+},
+{
+"text": "Take Action",
+"href": "https://vindmanforcongress.com/take-action/"
+},
+{
+"text": "Terms of Service",
+"href": "https://vindmanforcongress.com/terms-of-service"
+},
+{
+"text": "Threads",
+"href": "https://vindmanforcongress.com/threads"
+},
+{
+"text": "Vote",
+"href": "https://vindmanforcongress.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://vindmanforcongress.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://vindmanforcongress.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://vindmanforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://vindmanforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://vindmanforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/bluesky"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/facebook"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/instagram"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/substack"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/sunstack"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/threads"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/twitter"
+},
+{
+"text": "[no text]",
+"href": "https://vindmanforcongress.com/youtube"
+}
 ]

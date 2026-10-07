@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.aceforcongress.com/inthepapers",
- "paid_for_by": null,
+ "fingerprint": "c30295909c5342c2df5738b7c907eb0e38f58230",
+ "format": 3,
+ "paid_for_by": "",
  "title": "In the News | Ace For Congress",
  "years_mentioned": [
   "2020",
   "2024",
-  "2026"
+  "2026",
+  "2035"
  ]
 }

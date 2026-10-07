@@ -1,7 +1,9 @@
 {
  "description": "Washington State Immigration",
  "final_url": "https://sites.google.com/site/00motr/platform",
- "paid_for_by": null,
+ "fingerprint": "c6f9367967a69cbc1b286632b2186d82157a33bf",
+ "format": 3,
+ "paid_for_by": "sponsored by Senator Tina Orwall, to provide specialized services for juvenile victims of commercial sexual exploitation and trafficking",
  "title": "Platform",
  "years_mentioned": [
   "2021",

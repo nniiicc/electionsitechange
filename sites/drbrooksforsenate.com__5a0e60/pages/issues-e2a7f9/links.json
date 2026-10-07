@@ -1,16 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://drbrooksforsenate.com/",
-"https://drbrooksforsenate.com/about",
-"https://drbrooksforsenate.com/endorsements",
-"https://drbrooksforsenate.com/volunteer",
-"https://facebook.com/people/Dr-Theresa-Brooks-For-State-Senate/61588617410419",
-"https://instagram.com/drbrooksforsenate",
-"https://michigan.gov/sos/elections/voting/early-in-person-voting",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://mvic.sos.state.mi.us/registervoter",
-"https://onyourballot.vote411.org/candidate-detail.do?id=72495716",
-"https://secure.actblue.com/donate/theresa-brooks-1",
-"https://vote.org/am-i-registered-to-vote"
+{
+"text": "About",
+"href": "https://www.drbrooksforsenate.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://www.vote.org/am-i-registered-to-vote/"
+},
+{
+"text": "Contact | Volunteer",
+"href": "https://www.drbrooksforsenate.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/theresa-brooks-1"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.michigan.gov/sos/elections/voting/early-in-person-voting#WhenCanIVote"
+},
+{
+"text": "Election day location and sample ballot",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drbrooksforsenate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.drbrooksforsenate.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://mvic.sos.state.mi.us/registervoter"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "VOTE411 Voter Guide",
+"href": "https://onyourballot.vote411.org/candidate-detail.do?id=72495716"
+},
+{
+"text": "[image: Dr. Brooks for State Senate]",
+"href": "https://www.drbrooksforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Dr-Theresa-Brooks-For-State-Senate/61588617410419/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drbrooksforsenate"
+}
 ]

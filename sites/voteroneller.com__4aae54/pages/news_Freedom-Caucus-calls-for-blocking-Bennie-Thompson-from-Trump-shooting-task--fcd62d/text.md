@@ -1,5 +1,1 @@
-24
-Jul
-Wednesday, 3:42 PM · 2024
-Paid for by Ron Eller for Congress
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Ron Issues News Volunteer Swag Contribute News / Freedom Caucus calls for blocking Bennie Thompson from Trump shooting task force 24 Jul Wednesday, 3:42 PM · 2024 Freedom Caucus calls for blocking Bennie Thompson from Trump shooting task force Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

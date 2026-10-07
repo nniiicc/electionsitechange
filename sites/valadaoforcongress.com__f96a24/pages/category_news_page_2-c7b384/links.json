@@ -1,24 +1,106 @@
 [
-"https://facebook.com/ValadaoforCongress",
-"https://secure.winred.com/valadao-for-congress",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/about-david",
-"https://valadaoforcongress.com/category/news",
-"https://valadaoforcongress.com/category/news/page/19",
-"https://valadaoforcongress.com/category/news/page/2",
-"https://valadaoforcongress.com/category/news/page/3",
-"https://valadaoforcongress.com/category/news/page/4",
-"https://valadaoforcongress.com/david-valadao-declares-victory",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/issues",
-"https://valadaoforcongress.com/media",
-"https://valadaoforcongress.com/news",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/showsupportrequestayardsign",
-"https://valadaoforcongress.com/voter-information"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "19",
+"href": "https://valadaoforcongress.com/category/news/page/19/"
+},
+{
+"text": "2",
+"href": "https://valadaoforcongress.com/category/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://valadaoforcongress.com/category/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://valadaoforcongress.com/category/news/page/4/"
+},
+{
+"text": "About David",
+"href": "https://valadaoforcongress.com/about-david/"
+},
+{
+"text": "David Valadao Declares Victory",
+"href": "https://valadaoforcongress.com/david-valadao-declares-victory/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/valadao-for-congress/"
+},
+{
+"text": "Español",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "Get Involved",
+"href": "https://valadaoforcongress.com/showsupportrequestayardsign/"
+},
+{
+"text": "Home",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://valadaoforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://valadaoforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://valadaoforcongress.com/david-valadao-declares-victory/"
+},
+{
+"text": "Voter Information",
+"href": "https://valadaoforcongress.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://valadaoforcongress.com/category/news/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+},
+{
+"text": "«Previous page",
+"href": "https://valadaoforcongress.com/category/news/"
+},
+{
+"text": "»Next page",
+"href": "https://valadaoforcongress.com/category/news/page/3/"
+}
 ]

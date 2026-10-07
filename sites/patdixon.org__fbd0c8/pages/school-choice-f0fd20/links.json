@@ -1,71 +1,306 @@
 [
-"http://amazon.com/author/pdixon",
-"http://dpas-inc.com/",
-"http://keepthepartylibertarian.org/",
-"http://logic14.org/",
-"http://patdixon.org/cdt-2",
-"http://patdixon.org/lv_council.html",
-"https://cryoutcreations.eu/",
-"https://facebook.com/patrick.dixon.50",
-"https://flickr.com/photos/131895608@N07/albums",
-"https://linkedin.com/in/dixonpatrick",
-"https://music.apple.com/us/artist/pat-axyl-dixon/1741570754",
-"https://patdixon.org/",
-"https://patdixon.org/765-kv-transmission",
-"https://patdixon.org/abbotts-tax-plan",
-"https://patdixon.org/about-greg-abbott",
-"https://patdixon.org/about-me",
-"https://patdixon.org/about-pat-dixon",
-"https://patdixon.org/about-psp",
-"https://patdixon.org/ai",
-"https://patdixon.org/ai-data-centers",
-"https://patdixon.org/approval-voting",
-"https://patdixon.org/arts",
-"https://patdixon.org/author/patdixon",
-"https://patdixon.org/axyl",
-"https://patdixon.org/biblical-principles",
-"https://patdixon.org/bio",
-"https://patdixon.org/business",
-"https://patdixon.org/category/pat-dixon-statements",
-"https://patdixon.org/covid",
-"https://patdixon.org/election-integrity",
-"https://patdixon.org/exonerate-robert-roberson",
-"https://patdixon.org/flock-cameras",
-"https://patdixon.org/free-market-sustainability",
-"https://patdixon.org/government",
-"https://patdixon.org/guns",
-"https://patdixon.org/how-to-return-taxes",
-"https://patdixon.org/hyperbole-anyone",
-"https://patdixon.org/israel",
-"https://patdixon.org/ivoterguide-questionnaire",
-"https://patdixon.org/league-of-women-voters-general-election-voters-guide",
-"https://patdixon.org/mail-stops",
-"https://patdixon.org/marijuana-policy-project-texas-cannabis-policy-centers-2026-candidate-survey",
-"https://patdixon.org/media-appearances",
-"https://patdixon.org/minority-winner",
-"https://patdixon.org/missed-opportunity",
-"https://patdixon.org/my-journey",
-"https://patdixon.org/my-mom",
-"https://patdixon.org/new-braunfels-herald-zeitung-article-8-29-26",
-"https://patdixon.org/non-partisan-redistricting",
-"https://patdixon.org/parent-teacher-empowerment",
-"https://patdixon.org/pat-dixon-for-governor-statements",
-"https://patdixon.org/property-tax",
-"https://patdixon.org/school-choice",
-"https://patdixon.org/school-choice?replytocom=7184",
-"https://patdixon.org/school-choice?replytocom=7405",
-"https://patdixon.org/sports-and-outdoors",
-"https://patdixon.org/texas-cannabis-policy-questionnaire",
-"https://patdixon.org/texas-muslims",
-"https://patdixon.org/texas-stance-on-science-questionnaire",
-"https://patdixon.org/texas-transportation",
-"https://patdixon.org/the-abbott-ad",
-"https://patdixon.org/the-abbott-report",
-"https://patdixon.org/the-border",
-"https://patdixon.org/the-war-on-hemp",
-"https://patdixon.org/tx20",
-"https://twitter.com/patjdixon",
-"https://wordpress.org/",
-"https://youtube.com/user/pdpatjdixon/videos",
-"https://youtube.com/watch?v=OBDdCO2H_es&list=PLcdFpxmffW3dCrMWYbaU4LuiQcMZQ6IM5"
+{
+"text": "765 kV Transmission",
+"href": "https://patdixon.org/765-kv-transmission/"
+},
+{
+"text": "AI",
+"href": "https://patdixon.org/ai/"
+},
+{
+"text": "AI Data Centers",
+"href": "https://patdixon.org/ai-data-centers/"
+},
+{
+"text": "Abbott’s Tax Plan",
+"href": "https://patdixon.org/abbotts-tax-plan/"
+},
+{
+"text": "About Greg Abbott",
+"href": "https://patdixon.org/about-greg-abbott/"
+},
+{
+"text": "About Me",
+"href": "https://patdixon.org/about-me/"
+},
+{
+"text": "About PSP",
+"href": "https://patdixon.org/about-psp/"
+},
+{
+"text": "About Pat Dixon",
+"href": "https://patdixon.org/about-pat-dixon/"
+},
+{
+"text": "Amazon author page",
+"href": "http://amazon.com/author/pdixon"
+},
+{
+"text": "Approval Voting",
+"href": "https://patdixon.org/approval-voting/"
+},
+{
+"text": "Arts",
+"href": "https://patdixon.org/arts/"
+},
+{
+"text": "Axyl",
+"href": "https://patdixon.org/axyl/"
+},
+{
+"text": "Biblical Principles",
+"href": "https://patdixon.org/biblical-principles/"
+},
+{
+"text": "Bio",
+"href": "https://patdixon.org/bio/"
+},
+{
+"text": "Bookmark",
+"href": "https://patdixon.org/school-choice/"
+},
+{
+"text": "Business",
+"href": "https://patdixon.org/business/"
+},
+{
+"text": "CDT 2015",
+"href": "http://patdixon.org/cdt-2/"
+},
+{
+"text": "COVID",
+"href": "https://patdixon.org/covid/"
+},
+{
+"text": "Cancel reply",
+"href": "https://patdixon.org/school-choice/#respond"
+},
+{
+"text": "DPAS-INC",
+"href": "http://dpas-inc.com/"
+},
+{
+"text": "Election Integrity",
+"href": "https://patdixon.org/election-integrity/"
+},
+{
+"text": "Exonerate Robert Roberson",
+"href": "https://patdixon.org/exonerate-robert-roberson/"
+},
+{
+"text": "Flock Cameras",
+"href": "https://patdixon.org/flock-cameras/"
+},
+{
+"text": "Free Market Sustainability",
+"href": "https://patdixon.org/free-market-sustainability/"
+},
+{
+"text": "Government",
+"href": "https://patdixon.org/government/"
+},
+{
+"text": "Guns",
+"href": "https://patdixon.org/guns/"
+},
+{
+"text": "Home",
+"href": "https://patdixon.org"
+},
+{
+"text": "Home",
+"href": "https://patdixon.org/"
+},
+{
+"text": "How to Return Taxes",
+"href": "https://patdixon.org/how-to-return-taxes/"
+},
+{
+"text": "Hyperbole anyone?",
+"href": "https://patdixon.org/hyperbole-anyone/"
+},
+{
+"text": "Israel",
+"href": "https://patdixon.org/israel/"
+},
+{
+"text": "July 20, 2026 at 19:58",
+"href": "https://patdixon.org/school-choice/#comment-7405"
+},
+{
+"text": "June 17, 2026 at 00:28",
+"href": "https://patdixon.org/school-choice/#comment-7184"
+},
+{
+"text": "Keep the Party Libertarian",
+"href": "http://www.keepthepartylibertarian.org"
+},
+{
+"text": "Lago Vista city council",
+"href": "http://patdixon.org/lv_council.html"
+},
+{
+"text": "League of Women Voters General Election Voters Guide",
+"href": "https://patdixon.org/league-of-women-voters-general-election-voters-guide/"
+},
+{
+"text": "Mail Stops",
+"href": "https://patdixon.org/mail-stops/"
+},
+{
+"text": "Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey",
+"href": "https://patdixon.org/marijuana-policy-project-texas-cannabis-policy-centers-2026-candidate-survey/"
+},
+{
+"text": "May 28, 2026",
+"href": "https://patdixon.org/school-choice/"
+},
+{
+"text": "Media and Video",
+"href": "https://patdixon.org/media-appearances/"
+},
+{
+"text": "Minority Winner",
+"href": "https://patdixon.org/minority-winner/"
+},
+{
+"text": "Missed Opportunity?",
+"href": "https://patdixon.org/missed-opportunity/"
+},
+{
+"text": "Music",
+"href": "https://music.apple.com/us/artist/pat-axyl-dixon/1741570754"
+},
+{
+"text": "My Journey",
+"href": "https://patdixon.org/my-journey/"
+},
+{
+"text": "My Mom",
+"href": "https://patdixon.org/my-mom/"
+},
+{
+"text": "New Braunfels Herald-Zeitung article 8/29/26",
+"href": "https://patdixon.org/new-braunfels-herald-zeitung-article-8-29-26/"
+},
+{
+"text": "Nirvana",
+"href": "https://www.cryoutcreations.eu"
+},
+{
+"text": "Non-Partisan Redistricting",
+"href": "https://patdixon.org/non-partisan-redistricting/"
+},
+{
+"text": "Parent & Teacher Empowerment",
+"href": "https://patdixon.org/parent-teacher-empowerment/"
+},
+{
+"text": "Pat Dixon Statements",
+"href": "https://patdixon.org/category/pat-dixon-statements/"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/131895608@N07/albums"
+},
+{
+"text": "Policy Statements",
+"href": "https://patdixon.org/pat-dixon-for-governor-statements/"
+},
+{
+"text": "Property Tax",
+"href": "https://patdixon.org/property-tax/"
+},
+{
+"text": "Reply",
+"href": "https://patdixon.org/school-choice/?replytocom=7184#respond"
+},
+{
+"text": "Reply",
+"href": "https://patdixon.org/school-choice/?replytocom=7405#respond"
+},
+{
+"text": "School Choice",
+"href": "https://patdixon.org/school-choice/"
+},
+{
+"text": "Sports and Outdoors",
+"href": "https://patdixon.org/sports-and-outdoors/"
+},
+{
+"text": "TX20",
+"href": "https://patdixon.org/tx20/"
+},
+{
+"text": "Texas Cannabis Policy Questionnaire",
+"href": "https://patdixon.org/texas-cannabis-policy-questionnaire/"
+},
+{
+"text": "Texas Muslims",
+"href": "https://patdixon.org/texas-muslims/"
+},
+{
+"text": "Texas Senate District 14",
+"href": "http://logic14.org/"
+},
+{
+"text": "Texas Stance on Science Questionnaire",
+"href": "https://patdixon.org/texas-stance-on-science-questionnaire/"
+},
+{
+"text": "Texas Transportation",
+"href": "https://patdixon.org/texas-transportation/"
+},
+{
+"text": "The Abbott Ad",
+"href": "https://patdixon.org/the-abbott-ad/"
+},
+{
+"text": "The Abbott Report",
+"href": "https://patdixon.org/the-abbott-report/"
+},
+{
+"text": "The Border",
+"href": "https://patdixon.org/the-border/"
+},
+{
+"text": "The War on Hemp",
+"href": "https://patdixon.org/the-war-on-hemp/"
+},
+{
+"text": "WordPress.",
+"href": "https://wordpress.org/"
+},
+{
+"text": "YouTube Channel",
+"href": "https://www.youtube.com/watch?v=OBDdCO2H_es&list=PLcdFpxmffW3dCrMWYbaU4LuiQcMZQ6IM5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/patrick.dixon.50"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/dixonpatrick/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patjdixon"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/pdpatjdixon/videos"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://patdixon.org/"
+},
+{
+"text": "iVoterGuide Questionnaire",
+"href": "https://patdixon.org/ivoterguide-questionnaire/"
+},
+{
+"text": "patdixon",
+"href": "https://patdixon.org/author/patdixon/"
+}
 ]

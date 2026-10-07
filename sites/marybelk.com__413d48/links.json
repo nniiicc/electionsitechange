@@ -1,10 +1,38 @@
 [
-"https://act.myngp.com/Forms/6896120006113822720",
-"https://act.myngp.com/Forms/7472580758417246208",
-"https://marybelk.com/",
-"https://marybelk.com/_blank",
-"https://marybelk.com/contribute.html",
-"https://marybelk.com/meet-mary.html",
-"https://marybelk.com/our-freshman-year.html",
-"https://marybelk.com/the-latest.html"
+{
+"text": "CONTRIBUTE",
+"href": "https://www.marybelk.com/contribute.html"
+},
+{
+"text": "EMAIL UPDATES",
+"href": "https://act.myngp.com/Forms/7472580758417246208"
+},
+{
+"text": "Home",
+"href": "https://www.marybelk.com/"
+},
+{
+"text": "MARY BELK FOR STATE HOUSE",
+"href": "https://www.marybelk.com/"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.marybelk.com/meet-mary.html"
+},
+{
+"text": "Our Freshman Year",
+"href": "https://www.marybelk.com/our-freshman-year.html"
+},
+{
+"text": "The Latest",
+"href": "https://www.marybelk.com/the-latest.html"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://act.myngp.com/Forms/6896120006113822720"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+}
 ]

@@ -1,8 +1,7 @@
-Meet Ann
-Being your Congresswoman has never been a job for me, it is a calling.
+Home About Endorsements Get Involved Store Donate Meet Ann Being your Congresswoman has never been a job for me, it is a calling.
 The work I do in Congress is personal.
 The Second Congressional District - to me and my family - is home.
-Born and raised in Missouri, Ann Wagner understands our conservative Christian family values.
+Congresswoman Ann Wagner Born and raised in Missouri, Ann Wagner understands our conservative Christian family values.
 Working alongside her parents at their small retail carpet store in Manchester, Carpetime, she learned the value of a dollar, a strong work ethic, honesty, integrity, and that government ought to get out of the way and off the backs of hard-working Americans.
 These values continue to guide her today as she works to cut taxes and eliminate burdensome regulations so local businesses, like her parents’, can grow and create more jobs and put more money in the pockets of hardworking Missourians.
 Ann took her experience with the family business to Mizzou and studied Business Administration.
@@ -26,3 +25,13 @@ She will also use her business experience to get Washington’s spending under c
 Ann is the conservative fighter with a proven track record of getting things done in Washington.
 She’ll always fight for our conservative Christian values.
 Ann and her husband, Ray, are blessed with three children, two daughters-in-law, and six grandchildren.
+Paid for by Ann Wagner for Congress.
+Contributions to Ann Wagner for Congress are not deductible as charitable contributions for Federal income tax purposes.
+PO Box 50 Ballwin, MO 63022 Please provide your mobile phone to opt-in to Ann Wagner’s campaign alerts, updates and news.
+By providing your phone number and opting in, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+You will receive a confirmation text from 72191.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Home About Endorsements Get Involved Store Donate

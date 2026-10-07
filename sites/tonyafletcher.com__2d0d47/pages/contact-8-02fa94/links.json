@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61576311457785",
-"https://growth.capitol-resources.com/email/click/d7554748u38964/328902/8NYd6dL0l71KXV0fO-0QQW2LBUicIqljj6qcqXs7eUI.2",
-"https://secure.winred.com/tonya-fletcher-for-state-rep/donate-today",
-"https://tonyafletcher.com/",
-"https://tonyafletcher.com/about",
-"https://tonyafletcher.com/contact-8",
-"https://tonyafletcher.com/general-5",
-"https://tonyafletcher.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.tonyafletcher.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tonyafletcher.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tonya-fletcher-for-state-rep/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.tonyafletcher.com"
+},
+{
+"text": "Join The Team!",
+"href": "https://www.tonyafletcher.com/contact-8"
+},
+{
+"text": "Privacy Policies.",
+"href": "https://growth.capitol-resources.com/email/click/d7554748u38964/328902/8NYd6dL0l71KXV0fO-0QQW2LBUicIqljj6qcqXs7eUI.2"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.tonyafletcher.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tonyafletcher.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61576311457785"
+}
 ]

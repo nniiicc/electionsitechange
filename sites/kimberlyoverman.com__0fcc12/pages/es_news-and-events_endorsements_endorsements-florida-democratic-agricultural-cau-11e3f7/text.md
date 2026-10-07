@@ -1,25 +1,12 @@
-Kimberly Overman: «
-» para el Congreso
-Distrito 12 de Florida
-Recomendación
-Inicio » Noticias y eventos » Respaldos » Respaldos: El Grupo Demócrata Agrícola de Florida (FDAC) respalda a Kimberly Overman
-EL GRUPO AGRÍCOLA DEMÓCRATA DE FLORIDA
-RESPALDA A KIMBERLY OVERMAN, DE
-, PARA LA CÁMARA DE REPRESENTANTES DE ESTADOS UNIDOS, DISTRITO 12
-Kimberly Overman se ha ganado el respaldo del Grupo Demócrata Agrícola de Florida, otorgado tras completar un detallado cuestionario sobre las comunidades rurales, la seguridad alimentaria, la mano de obra agrícola, la conservación del suelo y la resiliencia climática.
+Ir al contenido Ir al contenido Ir al pie de página Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Facebook LinkedIn X-Twitter Voluntario Colabora Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Inicio Te presentamos a Kimberly Los temas Kimberly en Substack Noticias y eventos En las noticias Comunicados de prensa Recomendaciones Eventos Contacto Kimberly Overman: « » para el Congreso Distrito 12 de Florida Recomendación Inicio » Noticias y eventos » Respaldos » Respaldos: El Grupo Demócrata Agrícola de Florida (FDAC) respalda a Kimberly Overman EL GRUPO AGRÍCOLA DEMÓCRATA DE FLORIDA RESPALDA A KIMBERLY OVERMAN, DE , PARA LA CÁMARA DE REPRESENTANTES DE ESTADOS UNIDOS, DISTRITO 12 Kimberly Overman se ha ganado el respaldo del Grupo Demócrata Agrícola de Florida , otorgado tras completar un detallado cuestionario sobre las comunidades rurales, la seguridad alimentaria, la mano de obra agrícola, la conservación del suelo y la resiliencia climática.
 La relación entre la agricultura y la factura de la compra es directa: las decisiones que se toman en el Congreso determinan lo que las familias pagan al pasar por caja y si las explotaciones agrícolas de Florida pueden seguir en activo.
 Kimberly se presenta para garantizar que los alimentos sigan siendo asequibles y saludables, proteger las tierras agrícolas de la expansión urbana y hacer frente a la contaminación por nutrientes que provoca la proliferación de algas y las mareas rojas, que dañan tanto nuestras explotaciones agrícolas como nuestro litoral.
-###
-Contacto para los medios de comunicación:
-Overman para el Congreso – Distrito 12 de Florida
-813-720-7719
-4610 N Central Avenue
-Tampa, FL 33603
-Vote@kimberlyoverman.com
-Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+### Contacto para los medios de comunicación: Overman para el Congreso – Distrito 12 de Florida 813-720-7719 4610 N Central Avenue Tampa, FL 33603 Vote@kimberlyoverman.com https://kimberlyoverman.com/ Impulsa una campaña que se nutra de la gente, no de intereses particulares.
 Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
 Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
-Este movimiento comienza
-contigo.
+Colabora Este movimiento comienza contigo.
 Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
 Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.
+Voluntario Mantente informado Distrito 12 de Florida LinkedIn Instagram Enlaces Inicio Te presentamos a Kimberly Temas En las noticias Kimberly en Substack Comunicados de prensa Eventos Contacto Colabora Privacidad Ponte en contacto con nosotros vote@KimberlyOverman.com Overman al Congreso 4610 Central Avenue Tampa, FL 33603-3904 813-720-7719 © #.
+Todos los derechos reservados.
+Financiado por Overman para el Congreso Español English

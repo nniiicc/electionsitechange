@@ -1,24 +1,130 @@
 [
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538",
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538?amount=%24100",
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538?amount=%2425",
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538?amount=%245",
-"https://campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538?amount=%2450",
-"https://facebook.com/Smith4NJ",
-"https://smith4nj.com/",
-"https://smith4nj.com/about",
-"https://smith4nj.com/cdn-cgi/l/email-protection",
-"https://smith4nj.com/contact",
-"https://smith4nj.com/endorsements",
-"https://smith4nj.com/news",
-"https://smith4nj.com/privacy-policy",
-"https://smith4nj.com/rep-chris-smith-when-clinton-lost-china",
-"https://smith4nj.com/rep-smith-leads-survey-of-noreaster-damage-along-monmouth-and-ocean-county-shore",
-"https://smith4nj.com/rep-smith-on-the-50th-anniversary-of-the-hyde-amendment-we-renew-our-commitment-to-end-taxpayer-funded-abortion",
-"https://smith4nj.com/republican-rep-chris-smith-urges-trump-to-confront-xi-about-americans-jailed-in-china",
-"https://smith4nj.com/request-a-yard-sign",
-"https://smith4nj.com/volunteer",
-"https://smith4nj.com/voting-information",
-"https://youtube.com/watch?v=6lCqqKs_ZRM",
-"https://youtube.com/watch?v=SNT9lNUateI"
+{
+"text": "$100",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538/?amount=%24100"
+},
+{
+"text": "$25",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538/?amount=%2425"
+},
+{
+"text": "$5",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538/?amount=%245"
+},
+{
+"text": "$50",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538/?amount=%2450"
+},
+{
+"text": "732-357-0900",
+"href": "tel:7323570900"
+},
+{
+"text": "About",
+"href": "https://smith4nj.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://smith4nj.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.campaigncontribution.com/payment/contribution/info/6be33664-4500-45dd-a593-b2a47d017538"
+},
+{
+"text": "Election Information",
+"href": "https://smith4nj.com/voting-information/"
+},
+{
+"text": "Endorsements",
+"href": "https://smith4nj.com/endorsements/"
+},
+{
+"text": "News",
+"href": "https://smith4nj.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://smith4nj.com/privacy-policy/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://smith4nj.com/request-a-yard-sign"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-leads-survey-of-noreaster-damage-along-monmouth-and-ocean-county-shore/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/rep-smith-on-the-50th-anniversary-of-the-hyde-amendment-we-renew-our-commitment-to-end-taxpayer-funded-abortion/"
+},
+{
+"text": "Read More",
+"href": "https://smith4nj.com/republican-rep-chris-smith-urges-trump-to-confront-xi-about-americans-jailed-in-china/"
+},
+{
+"text": "Read full article",
+"href": "https://smith4nj.com/rep-chris-smith-when-clinton-lost-china/"
+},
+{
+"text": "Rep. Smith Leads Survey of Nor’easter Damage Along Monmouth and Ocean County Shore",
+"href": "https://smith4nj.com/rep-smith-leads-survey-of-noreaster-damage-along-monmouth-and-ocean-county-shore/"
+},
+{
+"text": "Rep. Smith: On the 50th anniversary of the Hyde Amendment, we renew our commitment to end taxpayer-funded abortion",
+"href": "https://smith4nj.com/rep-smith-on-the-50th-anniversary-of-the-hyde-amendment-we-renew-our-commitment-to-end-taxpayer-funded-abortion/"
+},
+{
+"text": "Republican Rep. Chris Smith urges Trump to confront Xi about Americans jailed in China",
+"href": "https://smith4nj.com/republican-rep-chris-smith-urges-trump-to-confront-xi-about-americans-jailed-in-china/"
+},
+{
+"text": "See All News",
+"href": "https://smith4nj.com/news"
+},
+{
+"text": "Terms and Conditions / Privacy Policy",
+"href": "https://smith4nj.com/privacy-policy/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://smith4nj.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://smith4nj.com/volunteer/"
+},
+{
+"text": "Watch The Video",
+"href": "https://www.youtube.com/watch?v=SNT9lNUateI"
+},
+{
+"text": "Watch his remarks",
+"href": "https://www.youtube.com/watch?v=6lCqqKs_ZRM"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@smith4nj.com"
+},
+{
+"text": "[image]",
+"href": "https://smith4nj.com/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-leads-survey-of-noreaster-damage-along-monmouth-and-ocean-county-shore/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/rep-smith-on-the-50th-anniversary-of-the-hyde-amendment-we-renew-our-commitment-to-end-taxpayer-funded-abortion/"
+},
+{
+"text": "[no text]",
+"href": "https://smith4nj.com/republican-rep-chris-smith-urges-trump-to-confront-xi-about-americans-jailed-in-china/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Smith4NJ/"
+}
 ]

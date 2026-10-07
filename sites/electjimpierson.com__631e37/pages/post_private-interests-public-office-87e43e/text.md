@@ -1,6 +1,4 @@
-Private Interests, Public Office
-Updated: Sep 17
-I’ve been looking at the campaign contributions reported by my Republican competitor and my own campaign.
+top of page Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback Menu Close All Posts Private Interests, Public Office jemzpierson Sep 16 2 min read Updated: Sep 17 I’ve been looking at the campaign contributions reported by my Republican competitor and my own campaign.
 The difference is striking.
 His funding largely represents private industry interests, including Chevron, oil and gas companies, data centers and other large businesses.
 Mine comes from individuals, workers, educators and local Democratic organizations.
@@ -32,8 +30,7 @@ Campaign contributions do not prove that a candidate has promised anyone a parti
 But voters deserve to know who finances each campaign and whose interests may be heard after the election.
 Businesses deserve a voice in government.
 They should not have a louder voice than the people who live here.
-References:
-- PDC - Dan Griffey: https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/3340126
-- PDC - Jim Pierson: https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/3390977
-- https://www.gasbuddy.com/charts
-- Weekly Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon)
+References: PDC - Dan Griffey: https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/3340126 PDC - Jim Pierson: https://www.pdc.wa.gov/political-disclosure-reporting-data/browse-search-data/candidates/3390977 https://www.gasbuddy.com/charts Weekly Washington Regular All Formulations Retail Gasoline Prices (Dollars per Gallon) Recent Posts See All More Seniors Qualify for Property Tax Relief.
+Raid on the Police and Fire Pensions?
+Is That the Plan, Make Voting Harder?
+GET INVOLVED WITH OUR TEAM DONATE VOLUNTEER Paid for by Vote 4 Jim Pierson | PO Box 41 East Olympia, WA 98540 Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback bottom of page

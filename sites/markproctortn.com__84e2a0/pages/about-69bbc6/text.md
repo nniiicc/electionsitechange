@@ -1,5 +1,5 @@
-Mark Proctor is running for State House District 59 to fight for the values we share: gun safety, strong public schools, and affordable living for working families.
-Mark Proctor is running for State House District 59 to fight for the values we share: gun safety, strong public schools, and affordable living for working families.
+Skip navigation menu Home About Endorsements Issues Op-eds Volunteer Request a Yard Sign Contact Donate Meet Mark Mark Proctor is running for State House District 59 to fight for the values we share: gun safety, strong public schools, and affordable living for working families.
+Home About Endorsements Issues Op-eds Volunteer Request a Yard Sign Contact Donate Meet Mark Mark Proctor is running for State House District 59 to fight for the values we share: gun safety, strong public schools, and affordable living for working families.
 I’m running for State Representative because I believe Tennessee needs steady, trusted leadership.
 The kind that listens before acting and puts people ahead of politics.
 For more than 25 years, I had the honor of serving Tennesseans with the Tennessee Highway Patrol, working every day to keep our families safe.
@@ -11,4 +11,6 @@ I’ve seen firsthand how government decisions affect real people, from school s
 And I know we can do better when leaders focus on solutions instead of sides.
 District 59 deserves a representative who shows up, listens to neighbors, and fights for what makes our communities strong — safe streets, good schools, and a healthy local economy.
 My goal isn’t to score political points; it’s to bring accountability, compassion, and common sense back into our state government.
-I’m running because I’ve spent my life serving others — and I’m not done yet.
+I’m running because I’ve spent my life serving others — and I’m not done yet. team@markproctortn.com Powered by RUN! website builder Paid for by Mark Proctor for Tennessee.
+Patricia Glaser Shea, Treasurer.
+You need to enable JavaScript to run this app.

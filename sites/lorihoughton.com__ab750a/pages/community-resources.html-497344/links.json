@@ -1,10 +1,38 @@
 [
-"https://lorihoughton.com/",
-"https://lorihoughton.com/about-lori.html",
-"https://lorihoughton.com/cdn-cgi/l/email-protection",
-"https://lorihoughton.com/community-resources.html",
-"https://lorihoughton.com/news.html",
-"https://lorihoughton.com/priorities.html",
-"https://lorihoughton.com/voter-information.html",
-"https://secure.actblue.com/donate/lorihoughton-for-vt-house-1"
+{
+"text": "About Lori",
+"href": "https://www.lorihoughton.com/about-lori.html"
+},
+{
+"text": "Community Resources",
+"href": "https://www.lorihoughton.com/community-resources.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lorihoughton-for-vt-house-1"
+},
+{
+"text": "Home",
+"href": "https://www.lorihoughton.com/"
+},
+{
+"text": "News",
+"href": "https://www.lorihoughton.com/news.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.lorihoughton.com/priorities.html"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.lorihoughton.com/voter-information.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.lorihoughton.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.lorihoughton.com/"
+}
 ]

@@ -1,64 +1,39 @@
-ISSUES & IDEAS
-Better Georgia for All
-We live in a great community and when we unite, we can make it even better for everyone.
+0 Skip to Content Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate Open Menu Close Menu Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate Open Menu Close Menu Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate ISSUES & IDEAS Better Georgia for All We live in a great community and when we unite, we can make it even better for everyone.
 That’s why I’m serving, because our community deserves a representative who works to build unity and consensus, and foster relationships rooted in trust and respect.
 I’m serving to restore honesty and integrity in politics as your State House Representative for District 35.
 I’m committed to transparency and accountability in every level of our state government.
 Join us, because together, we can create a Better Georgia for All.
-Investing in Early Learning & Childcare
-Affordable child care is a barrier for many Georgians.
+JOIN US!
+Investing in Early Learning & Childcare Affordable child care is a barrier for many Georgians.
 The average annual cost of a child care center for a toddler in Georgia is $7,500, meaning that a two-parent household would on average need to spend 8 percent of their income on care for one child every year.
 Child care and early learning remain one of the biggest expenses working families face.
 Families across Georgia struggle to afford child care, with the average yearly infant tuition costing more than in-state tuition at a four-year public college.
 As I listen to parents, educators, employers and childcare providers, I have developed a Childcare Agenda.
-As the first phase of this agenda, I was excited to introduce a novel bill, HR396 “Georgia’s Children First Trust Fund” designed to address the growing issue of lack of affordable access to quality early learning and childcare.
-The bill would propose the following:
-- One-time investment of $3B from GA’s undesignated funds (currently $21B) to an investment fund to be self funding and grow over time
-- Not to supplant the current DECAL budget, but instead to supplement
-- Short term goals to help the families who need the most help cover child care costs to ensure quality care AND
-- Long term goals as the funds grow, provide quality early learning and child care universally to ALL of Georgia’s families
-- Help working parents participate in our economy
-- Foster stronger brain development in our babies—greatest ROI for our investment resulting in lifelong positive outcomes including higher improved literacy rates, academic outcomes, increased graduation numbers, better jobs, stronger relationships, fewer teen pregnancies, reduced crimes and incarcerations, better abilities for our children to achieve their dreams
+As the first phase of this agenda, I was excited to introduce a novel bill, HR396 “ Georgia’s Children First Trust Fund” designed to address the growing issue of lack of affordable access to quality early learning and childcare.
+The bill would propose the following: One-time investment of $3B from GA’s undesignated funds (currently $21B) to an investment fund to be self funding and grow over time Not to supplant the current DECAL budget, but instead to supplement Short term goals to help the families who need the most help cover child care costs to ensure quality care AND Long term goals as the funds grow, provide quality early learning and child care universally to ALL of Georgia’s families Help working parents participate in our economy Foster stronger brain development in our babies—greatest ROI for our investment resulting in lifelong positive outcomes including higher improved literacy rates, academic outcomes, increased graduation numbers, better jobs, stronger relationships, fewer teen pregnancies, reduced crimes and incarcerations, better abilities for our children to achieve their dreams House Resolution 396: Georgia’s Children First Trust Fund, a constitutional amendment to create a dedicated $3 billion fund to improve access to affordable childcare and invest in early childhood education using state unallocated taxes.
+It aims to support working families with quality early learning, invest in child care providers, and enhance child care infrastructure to achieve universally available quality childcare for all families in Georgia.
 The lack of affordable child care also makes it more difficult for women to remain in their jobs, contributing to the 19 percent gender gap in workforce participation between mothers and fathers in Georgia.
 Access to care is just as important as cost, especially for the 44 percent of Georgians living in areas without enough child care options to meet the need.
 Over time the Georgia Children First Trust Fund will enable low and middle-income families to pay no more than 7 percent of their income on high-quality child care, generating lifetime benefits for 208,000 children under 5 in Georgia and helping working families make ends meet.
 We must also make sure child care is a source of good jobs for Georgia, where the median hourly wage of child care workers is just $9.37.
 The GA Children First Trust Fund will help increase revenue to cover increased wages for early childhood educators and provide compensation and benefits comparable to kindergarten educators to those with similar qualifications.
-I look forward to expanding on this agenda to include:
-• Increased wages and benefits for early childhood educators
-• Expanded training opportunities for caregivers and educators
-• Increased reimbursement rates based on the true cost of care
-• Interventions and incentives to areas of highest need
-• Tech assistance and startup grants to develop family child care networks
-I am also committed to expanding Medicaid so that more children have access to healthcare, including vision, dental and mental care.
+I look forward to expanding on this agenda to include: • Increased wages and benefits for early childhood educators • Expanded training opportunities for caregivers and educators • Increased reimbursement rates based on the true cost of care • Interventions and incentives to areas of highest need • Tech assistance and startup grants to develop family child care networks I am also committed to expanding Medicaid so that more children have access to healthcare, including vision, dental and mental care.
 I will also champion expanded investments in HeadStart, PreK, K-12, and public schools, paid family leave, and funding to eliminate child hunger.
 Early learning, caregiving and caregivers should be valued.
 I am committed to making GA #1 for children, learning and families, serving as a champion for our kids and families.
 I believe that caregiving and caregivers should be valued and I am committed to making this a top priority while I continue to serve.
 Read more about this investment approach.
 It’s a big idea—but it’s time for big ideas to make Georgia #1 for children, learning and families!
-Investing in Education
-As the daughter, granddaughter and great-granddaughter of public school teachers, I have a profound respect for the essential role of teachers in our communities.
+Investing in Education As the daughter, granddaughter and great-granddaughter of public school teachers, I have a profound respect for the essential role of teachers in our communities.
 I attended public school in Cobb County, graduated from our public University of Georgia, and I understand how important education is to the future success and lifelong opportunities for our students.
 We know that the educational outcomes of Georgia’s population – our future community leaders, creators, and workforce – is critical to supporting our economic and community goals.
 Unfortunately, for the last 30 years our public school system has been woefully underfunded.
 As a direct result, our state ranks in the bottom quartile in the country for student outcomes.
 This is unacceptable but we can create solutions to improve.
-In the legislature this session, I voted in support of:
-- Fully funding public education
-- Giving teachers and school staff a raise
-- Funding universally available breakfast and lunch so that no child is hungry in our classrooms
-- Increasing emphasis on literacy and reading curriculum
-- Expanding the HOPE scholarship program so more students can pursue advanced and technical degrees
-- Working with a bipartisan coalition to defeat a dangerous voucher bill designed to take money out of our state’s public school budget and subsidize private schools.
-I will continue to work on legislation to invest in public education including legislation to:
-- Help recruit and retain high quality teachers with professional compensation and incentives for advanced degrees and certification
-- Expand early education and quality child care for our youngest children
-- Expand PreK and child care resources for all of our children
-- Support innovative ways to address poverty as a primary barrier to school success including adding a poverty weight to our Quality Basic Education (QBE) funding formula
-As your State House Representative, you can count on me to partner with students, parents, and teachers, to empower our educational systems with the teams, tools, and trust they need to deliver excellence in our public schools.
-Expanding Access to Healthcare
-Now, more than ever, the people of Georgia need equal access to high quality, affordable healthcare, close to home.
+In the legislature this session, I voted in support of: Fully funding public education Giving teachers and school staff a raise Funding universally available breakfast and lunch so that no child is hungry in our classrooms Increasing emphasis on literacy and reading curriculum Expanding the HOPE scholarship program so more students can pursue advanced and technical degrees Working with a bipartisan coalition to defeat a dangerous voucher bill designed to take money out of our state’s public school budget and subsidize private schools.
+View fullsize I was honored to be named to the Georgia Association of Educators 2023 and 2024 Legislative Honor Roll for dedication to public education in Georgia.
+I will continue to work on legislation to invest in public education including legislation to: Help recruit and retain high quality teachers with professional compensation and incentives for advanced degrees and certification Expand early education and quality child care for our youngest children Expand PreK and child care resources for all of our children Support innovative ways to address poverty as a primary barrier to school success including adding a poverty weight to our Quality Basic Education (QBE) funding formula As your State House Representative, you can count on me to partner with students, parents, and teachers, to empower our educational systems with the teams, tools, and trust they need to deliver excellence in our public schools.
+Expanding Access to Healthcare Now, more than ever, the people of Georgia need equal access to high quality, affordable healthcare, close to home.
 With the Republican led, new Medicaid coverage program known as “Pathways,” Georgia’s Medicaid work reporting requirement will be the only one in effect in the nation and is the most restrictive—with no exceptions for caregiving or high child care costs.
 This means it is extremely unlikely that many parents will be able to receive coverage under this approach.
 The new Medicaid waiver agreement between the federal and state governments stipulates that 64,000 Georgians are likely to be covered; this equates to about 12 to 14 percent of people who would be covered under a full Medicaid expansion.
@@ -66,23 +41,14 @@ In this environment, women will make up the majority of the low-wage uninsured w
 I believe it is long overdue for Georgia to prioritize health for all Georgians, including women and children, and I am committed to the ongoing work for Georgians to lower prices and increase access, through full Medicaid expansion.
 Pharmaceutical companies are also wielding enormous power over equitable access to life saving drugs, home care and mental wellness therapies.
 I will work to empower the state to negotiate drug prices for state Medicaid and Medicare purchases and establish reasonable caps so the pharmaceutical companies who provide life saving medications and therapies end price gouging.
-I will offer legislation to:
-- Audit and evaluate the pharmacy benefit manager contracts for provision of pharmacy benefits provided through the Georgia State Health Benefit Plan and the Georgia Department of Community Health
-- Compare the overall annual cost to provide pharmacy benefits, whether under Fee-for-Service plans or Managed Care Plans or Waiver Plans
-- Evaluate the management of the contracts, including its oversight of practices that are prohibited by the pharmacy benefit manager contract such as spread pricing.
-I am committed to improving the lives of all Georgians, including:
-- Expanded access to high quality, affordable health care services such as addiction rehabilitation
-- Advocating for a better crisis response systems
-- Developing resources for youth and young adults
-- Expanding access to telehealth services
-- Increasing educational materials to better address the needs of underrepresented communities
-- Increasing accountability and penalties on health insurers for violating federal and state parity laws
-- Changes that drive integration of care teams
-- Support efforts to place health professionals in high priority shortage areas where they are needed most
-- Providing proactive support for care providers and caregivers.
+I will offer legislation to: Audit and evaluate the pharmacy benefit manager contracts for provision of pharmacy benefits provided through the Georgia State Health Benefit Plan and the Georgia Department of Community Health Compare the overall annual cost to provide pharmacy benefits, whether under Fee-for-Service plans or Managed Care Plans or Waiver Plans Evaluate the management of the contracts, including its oversight of practices that are prohibited by the pharmacy benefit manager contract such as spread pricing.
+I am committed to improving the lives of all Georgians, including: Expanded access to high quality, affordable health care services such as addiction rehabilitation Advocating for a better crisis response systems Developing resources for youth and young adults Expanding access to telehealth services Increasing educational materials to better address the needs of underrepresented communities Increasing accountability and penalties on health insurers for violating federal and state parity laws Changes that drive integration of care teams Support efforts to place health professionals in high priority shortage areas where they are needed most Providing proactive support for care providers and caregivers.
 It’s time for equal access to high quality, affordable healthcare.
-Protecting Reproductive Rights
-As a woman and lifelong women’s rights activist, reproductive rights are front of mind.
+House Bill 654: Prohibit Prior Authorization, getting back to the practice of medicine by doctors directly with patients.
+Seeks to prohibit insurers, third-party administrators, and pharmacy benefit managers from requiring prior authorization for covered medical tests, procedures, or prescription drugs prescribed by licensed providers.
+House Bill 765: Georgia’s Medical Debt Protection Act, to ensure that no one goes bankrupt because of sickness or an accident.
+Provides significant consumer benefits by enhancing transparency, fairness, and legal recourse for residents dealing with medical expenses.
+Protecting Reproductive Rights As a woman and lifelong women’s rights activist, reproductive rights are front of mind.
 I’ve seen the negative and pervasive impact of inequality in business, education, government, and especially as related to access to healthcare.
 It’s hugely important in this campaign cycle in particular because recent legislation has been proposed that restricts access to healthcare services including abortion, and takes away a woman’s right to her own bodily autonomy.
 As your GA HD 35 Representative, I signed on to support the Reproductive Freedom Act to protect our rights as equal citizens to make choices about our own lives, health and well-being.
@@ -91,9 +57,9 @@ I’ll continue to speak up loudly for women to repeal discriminatory laws, and 
 I will stand up with patients and their doctors, who can’t practice healthcare with the government getting between them.
 I trust Georgia women to make decisions that are right for them and their families, and I vow to stand with the people of Kennesaw and Acworth in protecting reproductive justice, and expanding, not diminishing our rights to equitable healthcare.
 It’s time to protect equal rights for women.
-Securing Voting Rights
-My family has lived in Cobb County since the 1940’s.
-During this time, Cobb has grown from a population of 38k to 768k+ and we’ve seen a significant increase in diversity. 2020 Census results show that in Cobb, non-Hispanic whites constitute a plurality not a majority.
+Securing Voting Rights My family has lived in Cobb County since the 1940’s.
+During this time, Cobb has grown from a population of 38k to 768k+ and we’ve seen a significant increase in diversity.
+2020 Census results show that in Cobb, non-Hispanic whites constitute a plurality not a majority.
 White residents who are not Hispanic or Latino make up 48.2% of the population.
 The white alone share of population declined from 62.2% to 50.6% from 2010-2020.
 The proportion of Cobb Countians who are Black, Asian, Hispanic or two or more races all increased.
@@ -104,8 +70,9 @@ The better answer for fair representation would be to create a single Congressio
 Voting is a fundamental right of our constitution, and I will never stop fighting to protect it for every eligible voter.
 As your State Representative, I will put my experience in leading teams and building technology to protect our voting rights and ensure that every eligible voter has access to the ballot box.
 It’s time for free, fair and transparent voting for all eligible voters in Georgia.
-Ending Gun Violence
-In the state of Georgia, where our Constitution is based on the principles of “justice to all and the preservation of peace, and the promotion of the interest and happiness of the citizen and family,” it is time to ensure that we all have equal access to safe homes, schools, churches, parks, and neighborhoods—free from preventable gun violence.
+As your Representative and first woman elected to serve GA HD35, I am proud to take the @fairdistrictsga pledge to work to reform redistricting and to end gerrymandering in Georgia.
+Every voice and vote matters!
+Learn more bit.ly/FDGAPledge Ending Gun Violence In the state of Georgia, where our Constitution is based on the principles of “justice to all and the preservation of peace, and the promotion of the interest and happiness of the citizen and family,” it is time to ensure that we all have equal access to safe homes, schools, churches, parks, and neighborhoods—free from preventable gun violence.
 In June, 2024, the U.S. surgeon general declared gun violence a public health crisis, driven by the fast-growing number of injuries and deaths involving firearms.
 In Georgia and nationwide, gun violence rates have increased almost 20% over the past 15 years and in 2020 became the leading cause of death in children.
 To drive down gun deaths, Surgeon General Murthy calls on the U.S. to ban assault weapons and large-capacity magazines for civilian use, introduce universal background checks for purchasing guns, regulate the industry, pass laws that would restrict their use in public spaces and penalize people who fail to safely store their weapons.
@@ -115,29 +82,17 @@ For too long, the gun issue has been discussed in public forums almost exclusive
 But what about the right of all Georgians to live a life free from the constant fear of being shot in our own house, backyard or school?
 The people of GA House District 35 are ready for responsible gun violence prevention laws and practices.
 While this is a multi-faceted crisis, several policies have proven effective in reducing gun violence rates in states across the country, and I believe that Georgians deserve the protection these modest regulations afford.
-As your GA State House Representative, I supported key changes and legislation to address this urgent public health crisis, reduce gun violence, save lives, and promote public safety in Georgia:
-- Stop thinking of gun violence prevention as a political issue and start addressing gun safety as an acute public-health emergency, requiring a whole of state strategy and resourced plan of action.
-- Enact evidence-based laws that are are overwhelmingly supported by Georgians, and proven to reduce the risk of gun violence such as restraining orders for domestic abusers and background checks to keep guns out of the hands of those who have a history of hospitalization for mental illness including:
-- HB44 Brady Law Regulations-universal background checks
-- HB161 Pediatric Safe Storage Act
-- HB195 Firearms Safety Course
-- HB224 Require lost or stolen firearms be reported to police
-- HB553 Risk protection orders restricting a person from purchasing weapons
-- HB554 Make it a crime to provide a semiautomatic assault weapon to any person under the age of 11
-- HB555 Restricts the use of modifications to firearms to produce rapid fire capabilities
-- HB584 Red Flag Law
-- Increased funding for Community Violence Intervention in the state budget
-Empowering an Inclusive Economy
-From marketing for Nashville’s Grand Ole Opry to advertising for General Motors, I have a long track record of attracting and creating new business opportunities.
+As your GA State House Representative, I supported key changes and legislation to address this urgent public health crisis, reduce gun violence, save lives, and promote public safety in Georgia: Stop thinking of gun violence prevention as a political issue and start addressing gun safety as an acute public-health emergency, requiring a whole of state strategy and resourced plan of action.
+Enact evidence-based laws that are are overwhelmingly supported by Georgians, and proven to reduce the risk of gun violence such as restraining orders for domestic abusers and background checks to keep guns out of the hands of those who have a history of hospitalization for mental illness including: HB44 Brady Law Regulations-universal background checks HB161 Pediatric Safe Storage Act HB195 Firearms Safety Course HB224 Require lost or stolen firearms be reported to police HB553 Risk protection orders restricting a person from purchasing weapons HB554 Make it a crime to provide a semiautomatic assault weapon to any person under the age of 11 HB555 Restricts the use of modifications to firearms to produce rapid fire capabilities HB584 Red Flag Law Increased funding for Community Violence Intervention in the state budget Empowering an Inclusive Economy From marketing for Nashville’s Grand Ole Opry to advertising for General Motors, I have a long track record of attracting and creating new business opportunities.
 As your State House Representative, I’ll use this expertise to bring inclusive businesses and well-paying jobs with quality of life benefits, to our community that can ensure the success of everyone who lives here.
 I’ve built my career in technology, and I understand just how many missed opportunities there are for our government to employ new technologies that can make our state healthier, safer, and more just.
 As your State Representative you can count on me to put my expertise to work using technology to create new and innovative solutions that can improve the lives of everyone in our community.
 Our state government and our state leaders can do a better a better job of looking forward, investing in the tools, teams and best practices to build the technology infrastructure we need to thrive in the global world.
 It’s time for a better technology vision for Georgia!
-Protecting Georgia’s Working
-Families & Youth
-I believe all working people deserve opportunities for good jobs, fair wages and safe working conditions, and I’m committed to working for an economy that works for all of us.
+Protecting Georgia’s Working Families & Youth I believe all working people deserve opportunities for good jobs, fair wages and safe working conditions, and I’m committed to working for an economy that works for all of us.
 During my first term, I was proud to speak up for working Georgians supporting equal pay for equal rights, expanded paid family leave, and other legislation to support safe working environments, eliminate age discrimination, and expand anti-discrimination policies to ensure that all Georgians have access to safe spaces to work.
 In the last two legislative sessions, Georgia’s GOP worked to dismantle child labor laws.
 I spoke out adamantly against HB501 that was introduced to repeal certain provisions relating to employment certificate requirements for minors; and to prohibit requiring certificates of employment, certificates of age, or youth work permits.
 Listen to my interview with WABE’s Rose Scott sharing my concerns about proposed legislation that would loosen the state’s child labor laws.
+View Lisa’s Sponsored Legislation Get Involved Friends of Lisa Campbell, Inc.
+2001 Duncan Drive, Unit 2281 Kennesaw, GA 30156 info@lisaforga.com 770.299.9973 ©# Friends of Lisa Campbell, Inc., All rights reserved | Terms of Use | Privacy Policy

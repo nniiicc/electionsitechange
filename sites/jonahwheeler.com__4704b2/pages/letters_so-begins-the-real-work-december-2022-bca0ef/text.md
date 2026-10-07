@@ -1,5 +1,4 @@
-December 2022 Letter
-Orientation finished on the first of the month by going through a mock session of the legislature in the morning, working with the caucus offices, the Senate, and the roles and the responsibilities of being a legislator.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all So Begins the Real Work So Begins the Real Work So Begins the Real Work Dec 30, 2022 Dec 30, 2022 December 2022 Letter Lantern Walk - 4 December 2022 - 18:03 - Peterborough, NH - Taken by Jonah Lantern Walk - 4 December 2022 - 18:03 - Peterborough, NH - Taken by Jonah Orientation finished on the first of the month by going through a mock session of the legislature in the morning, working with the caucus offices, the Senate, and the roles and the responsibilities of being a legislator.
 I thought that the orientation process was well crafted and a good foundation for the freshman members of the House.
 It served it’s purpose, if one was listening.
 On the fourth of the month Peterborough held a lantern walk to celebrate the coming winter.
@@ -11,7 +10,7 @@ December 7th was the organization day for the House.
 The constitution of our State mandates that we meet on the first Wednesday of the first December of each biennium to elect the House leadership and other constitutional officers elected by the legislature in joint session.
 Peter and I carpooled to the House that day.
 He had a decal of the Queen of England, Elizabeth the II on his car, and so I was hesitant to get in - but I did.
-The House buzzed with new members eager to get started, old ones returning as if it were the first day back to school, staff rushing back and forth to get things in final order for the members.
+The Queen - 7 December 2022 - 09:12 - Concord, NH - Taken by Jonah The Queen - 7 December 2022 - 09:12 - Concord, NH - Taken by Jonah The House buzzed with new members eager to get started, old ones returning as if it were the first day back to school, staff rushing back and forth to get things in final order for the members.
 It was an exciting day of mostly formalities.
 Speaker Packard was running for a second term and despite the close composition of the House had a clear path to victory with none of his members launching surprise challenges, or throwing their votes to the minority.
 The race for Secretary of State was hotly contested between the former Deputy Secretary of State David Scanlan, who took over for Bill Gardner after he retired the job; and former State Senator Melanie Levesque.
@@ -35,7 +34,7 @@ Accusing Secretary Scanlan of partisanship when he has stood up to the Republica
 It is a disingenuous argument that leaves us without a leg to stand on.
 After speaking to other elder members of my caucus, I decided to vote with Peter for Secretary Scanlan to be the Secretary of State.
 It is a private vote, but I feel an obligation to be honest about who I chose to be in such an important position.
-The next day I got to run a tour with a group of lawyers from Kyrgyzstan.
+The Tour - Taken by Alex Deressuo The Tour - Taken by Alex Deressuo The next day I got to run a tour with a group of lawyers from Kyrgyzstan.
 A group I participated in as a younger teenager called Friends Forever International, brings different groups of people from all over the world together to see the civic life in other countries.
 To build bridges between far away places and break down mental barriers between peoples.
 What an honor that experience was.
@@ -70,4 +69,4 @@ The day with the least amount of light.
 It is this day that is the culmination of a season where every day we lose a little more light until finally the 21st of December comes.
 With it the darkest day; and the reminder that every day succeeding it will bring another drop of light into our world - until finally the sun fully rises once more.
 It is our reminder from Earth that it is always darkest, before the dawn.
-Back to all
+More Lanterns - 4 December 2022 - 18:05 - Peterborough, NH - Taken by Jonah More Lanterns - 4 December 2022 - 18:05 - Peterborough, NH - Taken by Jonah ‹ The 168th General Court ‹ The 168th General Court ‹ The 168th General Court The End of the Campaign › The End of the Campaign › The End of the Campaign › Back to all

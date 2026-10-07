@@ -1,7 +1,26 @@
 [
-"http://support.microsoft.com/kb/278835",
-"https://bethanyballard.com/",
-"https://bethanyballard.com/cdn-cgi/l/email-protection",
-"https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
-"https://support.google.com/accounts/answer/32050"
+{
+"text": "RETURN HOME",
+"href": "https://bethanyballard.com/"
+},
+{
+"text": "[email protected]",
+"href": "https://bethanyballard.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "http://support.microsoft.com/kb/278835",
+"href": "http://support.microsoft.com/kb/278835"
+},
+{
+"text": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
+"href": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac"
+},
+{
+"text": "https://support.google.com/accounts/answer/32050",
+"href": "https://support.google.com/accounts/answer/32050"
+},
+{
+"text": "https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored",
+"href": "http://support.microsoft.com/kb/278835"
+}
 ]

@@ -1,11 +1,66 @@
 [
-"https://bsky.app/profile/fix4hd6",
-"https://designedtorun.com/",
-"https://fixforsix.com/",
-"https://fixforsix.com/about",
-"https://fixforsix.com/contact",
-"https://fixforsix.com/why-im-running",
-"https://secure.actblue.com/donate/fix4hd6",
-"https://tiktok.com/@fix4hd6",
-"https://x.com/fix4hd6"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "About",
+"href": "https://www.fixforsix.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.fixforsix.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "Learn more",
+"href": "https://www.fixforsix.com/why-im-running"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/fix4hd6"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Darren Fix for HD 6]",
+"href": "https://www.fixforsix.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/fix4hd6"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@fix4hd6"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/fix4hd6"
+},
+{
+"text": "info@fix4hd6.com",
+"href": "mailto:info@fix4hd6.com"
+}
 ]

@@ -1,22 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=HD9+Margarita+Mixer&dates=20260829T220000Z%2F20260830T000000Z&location=6265+East+Evans+Avenue%2C+Denver%2C+CO%2C+80222%2C+United+States",
-"http://maps.google.com/?q=6265+East+Evans+Avenue+Denver%2C+CO%2C+80222+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://givebutter.com/dyd-2026?emci=c532e446-e386-f111-b337-000d3a1558ce&emdi=8c983685-e686-f111-b337-000d3a1558ce&ceid=24613015",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/arapahoe-county-central-committee-meeting",
-"https://monicaforcolorado.com/events/hd9-margarita-mixer-n39d8?format=ical",
-"https://monicaforcolorado.com/events/south-by-southeast-summer-concert",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6265+east+evans+avenue+denver%2C+co%2C+80222+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Click here to buy tickets",
+"href": "https://givebutter.com/dyd-2026?emci=c532e446-e386-f111-b337-000d3a1558ce&emdi=8c983685-e686-f111-b337-000d3a1558ce&ceid=24613015"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=HD9+Margarita+Mixer&dates=20260829T220000Z%2F20260830T000000Z&location=6265+East+Evans+Avenue%2C+Denver%2C+CO%2C+80222%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/hd9-margarita-mixer-n39d8?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next September 2 Arapahoe County Central Committee Meeting",
+"href": "https://www.monicaforcolorado.com/events/arapahoe-county-central-committee-meeting"
+},
+{
+"text": "Previous Previous August 15 South by Southeast Summer Concert",
+"href": "https://www.monicaforcolorado.com/events/south-by-southeast-summer-concert"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+}
 ]

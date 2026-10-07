@@ -1,4 +1,5 @@
-Thank you for your endorsement!
+Skip to content Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Volunteer Contact Donate Mailing List Menu Volunteer Contact Donate Mailing List Thank you for your endorsement!
 I look forward to continuing to serve the people of the 45th Legislative District at the State Capitol in Olympia.
-Very truly yours, Roger
-Please fill out the form below, and then click "Send Endorsement" at the bottom of the form.
+Very truly yours, Roger Please fill out the form below, and then click "Send Endorsement" at the bottom of the form.
+Send Endorsement Brought to you by: Friends of Roger Goodman 218 Main St.
+PMB 763 Kirkland, WA 98033 Facebook-f

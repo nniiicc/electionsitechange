@@ -1,8 +1,10 @@
-Vote Aaron Paul
-Minnesota House of Representatives 54A – Shakopee
-Vote Aaron Paul
-Minnesota House of Representatives 54A – Shakopee
-Vote Aaron Paul
-Minnesota House of Representatives 54A – Shakopee
-Shakopee, MN — Longtime public servant and current police sergeant, Aaron Paul, announced today his candidacy for the Minnesota House of Representatives, pledging to bring common-sense leadership and accessible representation to the people of Shakopee..
-Aaron is running for state representative to focus on issues that matter most to Shakopee families including strong schools and quality education, affordable housing and childcare, continuing to support law enforcement and public safety, tackling the rampant fraud and abuse in our community, lower property taxes, and reducing the political divide by bringing people together.
+Home Issues Endorsements Photos Articles Videos Priorities Survey Voting Information Contact Donate Vote Aaron Paul Minnesota House of Representatives 54A – Shakopee Donate Vote Aaron Paul Minnesota House of Representatives 54A – Shakopee Donate Vote Aaron Paul Minnesota House of Representatives 54A – Shakopee Donate 30-Year Police Officer Aaron Paul Announces Campaign for Minnesota House Serving Shakopee Shakopee, MN — Longtime public servant and current police sergeant, Aaron Paul, announced today his candidacy for the Minnesota House of Representatives, pledging to bring common-sense leadership and accessible representation to the people of Shakopee..
+Press Release Meet Aaron Aaron Paul is a long-time Shakopee resident and active duty police officer who has served in a variety of law enforcement roles for more than 30 years, including as a school resource officer.
+He is also the President of the Association of Training Officers of Minnesota, and a member of the Shakopee Lions Club.
+Aaron is an active member of River Valley Church – Shakopee Campus.
+Aaron is running for state representative to focus on issues that matter most to Shakopee families including s trong schools and quality education, a ffordable housing and childcare, c ontinuing to support law enforcement and public safety, tackling the rampant fraud and abuse in our community, l ower property taxes, and r educing the political divide by bringing people together.
+Priorities Meet Aaron Aaron Paul is a long-time Shakopee resident and active duty police officer who has served in a variety of law enforcement roles for more than 30 years, including as a school resource officer.
+He is also the President of the Association of Training Officers of Minnesota, and a member of the Shakopee Lions Club.
+Aaron is running for state representative to focus on issues that matter most to Shakopee families including s trong schools and quality education, a ffordable housing and childcare, c ontinuing to support law enforcement and public safety, tackling the rampant fraud and abuse in our community, l ower property taxes, and r educing the political divide by bringing people together.
+Priorities Follow Follow Follow Get Involved | The Republican Party of Minnesota | Scott County GOP Prepared and Paid for by Aaron Paul for Minnesota House | P.O.
+Box 385125, 6101 West Old Shakopee Rd, Bloomington, MN 55438

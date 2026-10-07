@@ -1,7 +1,11 @@
 {
  "description": "The official campaign site of Victor Marx for Governor and his mission to protect Colorado today for a better tomorrow.",
  "final_url": "https://www.victor2026.com/",
- "paid_for_by": null,
+ "fingerprint": "315ce29a0c06c59fbf5f37f3cc83b1696da71532",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Victor Marx for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2035"
+ ]
 }

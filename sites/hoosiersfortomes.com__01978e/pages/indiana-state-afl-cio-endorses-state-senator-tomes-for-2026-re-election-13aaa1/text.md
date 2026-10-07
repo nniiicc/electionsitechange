@@ -1,16 +1,7 @@
-June 16, 2026 – State Senator Jim Tomes (District 49) picked up another
-endorsement for re-election when he received the backing of the Indiana State
-AFL-CIO for the 2026 General Election.
-The Labor organization’s President and
-Secretary Treasurer both informed Tomes earlier today that he would once again
-be endorsed to return to the Indiana Statehouse.
+Skip to content Menu Close Vote For Freedom, Vote For Indiana Vote JIM TOMES Elect Jim Tomes Indiana State Senate District 49 Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Search for: Menu Contribute Elect Jim Tomes Indiana State Senate District 49 Search for: Menu Vote For Freedom, Vote For Indiana Vote JIM TOMES Search for: Jim Tomes About Jim Tomes Jim Tomes – Dedicated To Service My State Senate Page My Legislation Events Jim Tomes News Jim Tomes Endorsements Testimonials Contribute Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election Hoosiers For Tomes June 16, 2026 Campaign June 16, 2026 – State Senator Jim Tomes (District 49) picked up another endorsement for re-election when he received the backing of the Indiana State AFL-CIO for the 2026 General Election.
+The Labor organization’s President and Secretary Treasurer both informed Tomes earlier today that he would once again be endorsed to return to the Indiana Statehouse.
 The Indiana AFL-CIO makes endorsements for state and federal candidates.
-State
-Senator Tomes is one of only a few Republicans to receive the organization’s
-endorsement for the 2026 General Election.
+State Senator Tomes is one of only a few Republicans to receive the organization’s endorsement for the 2026 General Election.
 “It is a tremendous honor to receive the backing of the Indiana AFL-CIO.
-As a
-Teamster I understand the concerns of the working men and women of my district,
-and have always worked hard to represent these concerns.”
-Sen.
-Jim Tomes
+As a Teamster I understand the concerns of the working men and women of my district, and have always worked hard to represent these concerns.” Sen.
+Jim Tomes Tagged AFL-CIO , Endorsement , Indiana State Senate , Jim Tomes , Posey County , Vanderburgh County Post navigation Previous Previous post: SHOTGUN SHOWDOWN Next Next post: The Data Center Issue October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul News The Data Center Issue Indiana State AFL-CIO endorses State Senator Tomes for 2026 Re-election SHOTGUN SHOWDOWN GROUNDBREAKING OF NEW CGB EXPANSION Expanded Indiana Early Voting Indiana Senate District 49 Copyright © # Elect Jim Tomes – Powered by My Campaign Web. *Paid for by Committee to Elect Jim Tomes, Treasurer Margie Tomes

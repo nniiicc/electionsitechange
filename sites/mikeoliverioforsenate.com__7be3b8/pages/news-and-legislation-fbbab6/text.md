@@ -1,10 +1,4 @@
-News and Legislation
-September 17, 2026 - Statement on "Flock" Cameras
-During the 2026 WV Legislative Session, Senator Mike Oliverio highlighted key initiatives by sponsoring bills focused on supporting First Responders, expanding Child Care, protecting Seniors, and reducing Insurance Premium costs.
-As a result of these efforts, 14 of those bills are now law in the West Virginia Senate.
-Paid for by Friends of Mike Oliverio
-Chase F.
-Thomas, CPA - Treasurer
-Copyright © 2026 Mike Oliverio for WV - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Click Here To Support Mike Oliverio's Re-Election Campaign For WV State Senate!
+Home About Mike's Priorities News and Legislation Endorsements More Home About Mike's Priorities News and Legislation Endorsements Home About Mike's Priorities News and Legislation Endorsements News and Legislation 2026 Statements September 17, 2026 - Statement on "Flock" Cameras 2026 Legislative Highlights During the 2026 WV Legislative Session, Senator Mike Oliverio highlighted key initiatives by sponsoring bills focused on supporting First Responders, expanding Child Care, protecting Seniors, and reducing Insurance Premium costs.
+As a result of these efforts, 14 of those bills are now law in the West Virginia Senate. https://www.wvlegislature.gov/Bill_Status/Bills_Sponsors.cfm?year=2026&sessiontype=rs&btype=bill&sortby=stataction&sortorder=desc&senmem=Oliverio 2026 News Media Highlights https://www.wvnews.com/news/wvnews/west-virginia-senator-mike-oliverio-highlights-focuses-during-legislative-season/article_297c1f80-ed3c-47e1-8c22-ffd53baa7644.html https://wajr.com/2025/04/10/mon-county-senator-oliverio-details-priorities-in-closing-days-of-legislative-session/ https://wvmetronews.com/2025/12/01/oliverio-announces-plans-to-run-for-reelection-in-state-senate/ https://wvmetronews.com/2026/03/13/senate-passes-bill-aimed-at-regulating-cryptocurrency-kiosks/ https://wvmetronews.com/2026/01/20/senate-will-take-a-more-deliberative-approach-to-emergency-schools-fund-bill/ Home About Mike's Priorities News and Legislation Statements Endorsements Paid for by Friends of Mike Oliverio Chase F.
+Thomas, CPA - Treasurer Copyright © # Mike Oliverio for WV - All Rights Reserved.

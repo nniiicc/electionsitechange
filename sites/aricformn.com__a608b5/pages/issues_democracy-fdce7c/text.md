@@ -1,12 +1,6 @@
-Democracy
-Strengthen our democracy
-We talk a great deal about election security, and we should.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Strengthen our democracy ← All policy Democracy Strengthen our democracy We talk a great deal about election security, and we should.
 But election security is about making sure that everyone who can vote and wants to vote does so, and has their vote counted.
 That means making voting as easy as it can be, to protect Minnesota’s history of high turnout in safe, secure, free elections.
-As our State Senator, I have
-- Introduced a bill allowing high school juniors to pre-register to vote in their social studies classes, and worked to make voter registration more convenient and efficient
-- Supported legislation making it a crime to harass election volunteers or intimidate voters at polling places
-- Authored a resolution requesting Congress overturn the Citizens United decision, to get money out of our politics
-Join us
-Or chip in
-Through ActBlue
+As our State Senator, I have Introduced a bill allowing high school juniors to pre-register to vote in their social studies classes, and worked to make voter registration more convenient and efficient Supported legislation making it a crime to harass election volunteers or intimidate voters at polling places Authored a resolution requesting Congress overturn the Citizens United decision, to get money out of our politics Our job is to make sure that all eligible Minnesotans can make their voices heard and vote with the least struggle.
+Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next Supporting Minnesota’s agriculture heritage → PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

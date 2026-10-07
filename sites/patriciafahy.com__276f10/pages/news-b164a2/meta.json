@@ -1,9 +1,13 @@
 {
  "description": "See recent news and updates on Senator Patricia Fahy's work in the State Senate and in our communities.",
  "final_url": "https://www.patriciafahy.com/news",
- "paid_for_by": null,
+ "fingerprint": "6bc75f9c799a8ac020b660bd053043d3038c6fcf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Patricia Fahy For State Senate",
  "years_mentioned": [
-  "2014"
+  "1977",
+  "2014",
+  "2026"
  ]
 }

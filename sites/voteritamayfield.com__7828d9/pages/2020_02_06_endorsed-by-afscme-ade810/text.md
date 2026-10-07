@@ -1,2 +1,5 @@
-February 6, 2020February 6, 2020 Endorsed by AFSCME Council 31 news by staff I am proud and appreciative to be endorsed by AFSCME Council 31.
-I will always stand up for working families. #100PercentUnion
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: February 6, 2020 February 6, 2020 Endorsed by AFSCME Council 31 news by staff I am proud and appreciative to be endorsed by AFSCME Council 31.
+I will always stand up for working families.
+#100PercentUnion Post navigation 2/29/2020 – Please Join Us!
+National Environmental Group, Sierra Club endorses Rita Mayfield for State Representative Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

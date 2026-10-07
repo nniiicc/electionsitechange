@@ -1,15 +1,58 @@
 [
-"https://facebook.com/lpqforfl",
-"https://instagram.com/lpqforfl",
-"https://lpq-for-florida.solidarity.tech/event-schedule",
-"https://lpqforfl.com/",
-"https://lpqforfl.com/about",
-"https://lpqforfl.com/cart",
-"https://lpqforfl.com/endorsements",
-"https://lpqforfl.com/get-involved",
-"https://lpqforfl.com/priorities",
-"https://lpqforfl.com/privacy-policy",
-"https://secure.actblue.com/donate/lpqforfl",
-"https://statecraftmedia.com/",
-"https://youtube.com/lpqforfl"
+{
+"text": "0",
+"href": "https://www.lpqforfl.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lpqforfl.com/about"
+},
+{
+"text": "Connect",
+"href": "mailto:info@lpqforfl.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lpqforfl"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lpqforfl.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://lpq-for-florida.solidarity.tech/event-schedule"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lpqforfl.com/get-involved"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.lpqforfl.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.lpqforfl.com/priorities"
+},
+{
+"text": "Site By Statecraft Media",
+"href": "https://statecraftmedia.com"
+},
+{
+"text": "[image: Lindsay Polega-Quigley]",
+"href": "https://www.lpqforfl.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lpqforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lpqforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/lpqforfl"
+}
 ]

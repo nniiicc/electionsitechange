@@ -1,18 +1,78 @@
 [
-"https://chrisrogersforassembly.com/",
-"https://chrisrogersforassembly.com/about-chris-rogers",
-"https://chrisrogersforassembly.com/cdn-cgi/l/email-protection",
-"https://chrisrogersforassembly.com/gallery",
-"https://chrisrogersforassembly.com/get-involved",
-"https://chrisrogersforassembly.com/issues",
-"https://facebook.com/ChrisRogersForAssembly",
-"https://flickr.com/photos/chrisrogersforassembly",
-"https://instagram.com/chrisrogersforassembly",
-"https://secure.actblue.com/donate/chrisrogers",
-"https://secure.actblue.com/donate/chrisrogers?amount=100",
-"https://secure.actblue.com/donate/chrisrogers?amount=1000",
-"https://secure.actblue.com/donate/chrisrogers?amount=250",
-"https://secure.actblue.com/donate/chrisrogers?amount=50",
-"https://secure.actblue.com/donate/chrisrogers?amount=500",
-"https://zacmaybury.com/"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/chrisrogers?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/chrisrogers?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/chrisrogers?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/chrisrogers?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/chrisrogers?amount=500"
+},
+{
+"text": "(707) 234-5263",
+"href": "tel:17072345263"
+},
+{
+"text": "About Chris",
+"href": "https://chrisrogersforassembly.com/about-chris-rogers/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chrisrogers"
+},
+{
+"text": "Gallery",
+"href": "https://chrisrogersforassembly.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://chrisrogersforassembly.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://chrisrogersforassembly.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://chrisrogersforassembly.com/about-chris-rogers/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/chrisrogers"
+},
+{
+"text": "Zac Maybury",
+"href": "https://zacmaybury.com/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@voterogers.com"
+},
+{
+"text": "[image: Chris Rogers for Assembly][image]",
+"href": "https://chrisrogersforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChrisRogersForAssembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/chrisrogersforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisrogersforassembly/"
+}
 ]

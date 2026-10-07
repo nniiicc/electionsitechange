@@ -1,17 +1,10 @@
-As a Tulsa Fire Captain/Paramedic he was twice awarded Tulsa firefighter of the year (2001 and 2011) (retired 2020)
-As the Director of Emergency Management for Rogers County he has prepared our community for and led response and recovery efforts through four presidentially declared disasters.
+Skip to content Donate Facebook-f About Join Issues About Join Issues REPUBLICAN FOR STATE REPRESENTATIVE DISTRICT 9 ABOUT SCOTTY As a Tulsa Fire Captain/Paramedic he was twice awarded Tulsa firefighter of the year (2001 and 2011) (retired 2020) As the Director of Emergency Management for Rogers County he has prepared our community for and led response and recovery efforts through four presidentially declared disasters.
 Founder and 20 year Director of the Oklahoma Firefighters Burn Camp he has supported hundreds of child burn survivors and others that have suffered major disfiguring and debilitating injuries.
 Husband, father, grandad and committed Christian conservative whose priorities are faith, family, and freedom.
-Sign Up here to follow along and receive updates as Scotty embarks on his campaign for State House!
-- Defend parental rights because parents NOT politicians know what is best for their children
-- 50th in education is embarrassing!
-We must support our children's futures by improving Oklahoma public education
-- Oppose higher taxes and work to reduce tax burden
-- Support Small Business & Rural Economy job growth
-- Protect agriculture and ensure rural Oklahoma has a strong voice at the Capitol
-- Support law enforcement, firefighters, EMS, and Military
-- Use his Emergency Management experience to improve disaster response, recovery, preparedness and mitigation
-- Keep neighborhoods safe by backing tough-on-crime policies
-- Stand up for life, religious liberty, and constitutional freedoms
-- Fight against federal overreach and protect Oklahoma's independence
-- Demand transparency and accountability in government
+Get Involved Sign Up here to follow along and receive updates as Scotty embarks on his campaign for State House!
+First Name (Required) Last Name (Required) Email (Required) Phone Address (Required) Street Address City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code How would you like to help?
+Display a yard sign Host a neighborhood meet and greet Host a fundraiser Display a 4' x 8' Barn Sign Make phone calls Deliver literature door to door Other Comments/Questions Consent (Required) By providing your phone number, you agree to receive campaign & donation messages from Scotty Stokes to the phone number you provide.
+(Required) Volunteer!
+Scotty's Priorities Support for our Families Defend parental rights because parents NOT politicians know what is best for their children 50th in education is embarrassing!
+We must support our children's futures by improving Oklahoma public education Oppose higher taxes and work to reduce tax burden Support Small Business & Rural Economy job growth Protect agriculture and ensure rural Oklahoma has a strong voice at the Capitol Stronger, Safer, Communities Support law enforcement, firefighters, EMS, and Military Use his Emergency Management experience to improve disaster response, recovery, preparedness and mitigation Keep neighborhoods safe by backing tough-on-crime policies Defend Conservative Values Stand up for life, religious liberty, and constitutional freedoms Fight against federal overreach and protect Oklahoma's independence Demand transparency and accountability in government Vote June 16th 2026 info@scottystokes.com Privacy Policy Paid for by Scotty Stokes for State House 2026

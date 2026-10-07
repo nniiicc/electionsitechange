@@ -1,7 +1,26 @@
 [
-"https://brad4nh.com/contact",
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://facebook.com/Brad Macrae for Grafton 9",
-"https://twitter.com/Brad4NH"
+{
+"text": "Contact",
+"href": "https://brad4nh.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://brad4nh.com/contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Brad%20Macrae%20for%20Grafton%209"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Brad4NH"
+}
 ]

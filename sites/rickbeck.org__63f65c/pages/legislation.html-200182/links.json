@@ -1,105 +1,770 @@
 [
-"http://rickbeck.org/about-1.html",
-"http://rickbeck.org/contact-us.html",
-"http://rickbeck.org/contribute.html",
-"http://rickbeck.org/home.html",
-"http://rickbeck.org/legislation.html",
-"http://rickbeck.org/new-.html",
-"https://arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=503.pdf&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1012&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1035&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1036&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1067&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1076&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1145&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1149&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1162&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1166&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1172&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1198&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1210&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1228&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1240&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1282&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1342&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1361&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1378&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1385&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1399&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1409&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1421&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1426&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1432&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1466&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1489&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1491&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1492&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1505&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1506&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1564&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1569&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1592&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1615&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1626&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1636&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1653&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1667&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1678&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1697&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1707&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1720&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1738&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1743&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1775&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1821&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1825&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1839&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1844&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1846&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1853&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1908&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1971&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB1984&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HB2026&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HCR1004&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HCR1010&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HJR1022&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1013&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1017&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1019&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1022&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1024&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=HR1069&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB120&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB149&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB156&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB158&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB17&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB175&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB183&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB189&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB2&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB238&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB244&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB265&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB3&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB385&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB386&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB508&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB509&ddBienniumSession=2019%2F2019R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB53&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB537&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB612&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB702&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB725&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB939&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SB975&ddBienniumSession=2015%2F2015R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SCR1&ddBienniumSession=2017%2F2017R",
-"https://arkleg.state.ar.us/Bills/Detail?id=SJR8&ddBienniumSession=2017%2F2017R",
-"https://godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+{
+"text": "About",
+"href": "http://www.rickbeck.org/about-1.html"
+},
+{
+"text": "Act 503",
+"href": "https://www.arkleg.state.ar.us/Acts/FTPDocument?path=%2FACTS%2F2019R%2FPublic%2F&file=503.pdf&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "Contact Us",
+"href": "http://www.rickbeck.org/contact-us.html"
+},
+{
+"text": "Contribute",
+"href": "http://www.rickbeck.org/contribute.html"
+},
+{
+"text": "HB1012",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1012&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1035",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1035&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1036",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1036&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1067",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1067&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1076",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1076&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1145",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1145&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1149",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1149&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1162",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1162&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1166",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1166&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1172",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1172&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1198",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1198&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1210",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1210&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1228",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1228&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1240",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1240&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1263",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1282",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1282&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1342",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1342&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1361",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1361&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1378",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1378&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1385",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1385&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1399",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1399&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1409",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1409&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1421",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1421&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1426",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1426&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1432",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1432&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1466",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1466&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1489",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1489&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1491",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1491&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1492",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1492&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1505",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1505&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1506",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1506&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1529",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1539",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1539",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1569",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1569&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1592",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1592&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1615",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1615&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1626",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1626&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1636",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1636&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1653",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1653&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1667",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1667&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1678",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1678&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1697",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1697&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1707",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1707&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1738",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1738&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1743",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1743&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1775",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1775&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1821",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1821&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1825",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1825&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1839",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1839&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1844",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1844&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB1846",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1846&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1853",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1853&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1908",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1908&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HB1971",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1971&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HB1984",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1984&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HB2026",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB2026&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HCR1010",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HCR1010&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "HJR1022",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HJR1022&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HR1013",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1013&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HR1017",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1017&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HR1019",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1019&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HR1022",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1022&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "HR1024",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1024&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "HR1069",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1069&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "Home",
+"href": "http://www.rickbeck.org/home.html"
+},
+{
+"text": "Legislation",
+"href": "http://www.rickbeck.org/legislation.html"
+},
+{
+"text": "New",
+"href": "http://www.rickbeck.org/new-.html"
+},
+{
+"text": "SB120",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB120&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SB149",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB149&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB156",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB156&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB158",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB158&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB17",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB17&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB175",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB175&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB183",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB183&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB189",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB189&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB2",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB2&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB238",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB238&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB244",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB244&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SB265",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB265&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SB3",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB3&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB385",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB385&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB508",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB508&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB509",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB509&ddBienniumSession=2019%2F2019R"
+},
+{
+"text": "SB53",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB53&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB537",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB537&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SB612",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB612&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB702",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB702&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SB725",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB725&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB939",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB939&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SB975",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB975&ddBienniumSession=2015%2F2015R"
+},
+{
+"text": "SCR1",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SCR1&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "SJR8",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SJR8&ddBienniumSession=2017%2F2017R"
+},
+{
+"text": "[image: HB1263]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[image: HB1615]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1615&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[image: HR1069]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1069&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[image: SB3]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB3&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[image]",
+"href": "https://www.godaddy.com/websites/website-builder?cvosrc=assets.wsb_badge.wsb_badge"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1012&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1035&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1036&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1067&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1076&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1145&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1149&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1162&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1166&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1172&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1198&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1210&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1228&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1240&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1263&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1282&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1342&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1361&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1378&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1385&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1399&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1409&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1421&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1426&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1432&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1466&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1489&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1491&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1492&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1505&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1506&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1529&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1539&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1564&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1569&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1592&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1615&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1626&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1636&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1653&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1667&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1678&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1697&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1707&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1720&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1738&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1743&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1775&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1825&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1839&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1844&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1846&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1853&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1908&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1971&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB1984&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HB2026&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HCR1004&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HCR1010&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HJR1022&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1013&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1017&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1019&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1022&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1024&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=HR1069&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB120&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB149&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB156&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB158&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB17&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB175&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB183&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB189&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB2&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB238&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB244&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB265&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB3&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB386&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB508&ddBienniumSession=2019%2F2019R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB53&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB537&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB612&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB702&ddBienniumSession=2017%2F2017R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB725&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SB939&ddBienniumSession=2015%2F2015R#status"
+},
+{
+"text": "[no text]",
+"href": "https://www.arkleg.state.ar.us/Bills/Detail?id=SCR1&ddBienniumSession=2017%2F2017R#status"
+}
 ]

@@ -1,4 +1,1 @@
-About
-Contribute
-Select Page
-Join Us
+About Contribute Select Page Join Us

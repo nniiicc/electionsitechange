@@ -1,16 +1,74 @@
 [
-"https://facebook.com/BlancaPachecoCA",
-"https://flic.kr/ps/3YABYF",
-"https://instagram.com/blancapachecoca",
-"https://pachecoforassembly.com/",
-"https://pachecoforassembly.com/endorse",
-"https://pachecoforassembly.com/endorsements",
-"https://pachecoforassembly.com/meet-blanca",
-"https://pachecoforassembly.com/newsletter",
-"https://pachecoforassembly.com/priorities",
-"https://pachecoforassembly.com/volunteer",
-"https://secure.actblue.com/donate/blanca-pacheco-1",
-"https://thedowneypatriot.com/articles/blanca-pacheco-for-state-assembly?emci=b0c37048-df4b-ed11-819c-002248258e08&emdi=0ae0fa21-3d4e-ed11-819c-002248258e08&ceid=15789143",
-"https://twitter.com/BlancaNPacheco",
-"https://youtube.com/channel/UClVIWoAzyTnGtnyUu-YgOIA"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/blanca-pacheco-1"
+},
+{
+"text": "Downey Patriot",
+"href": "https://www.thedowneypatriot.com/articles/blanca-pacheco-for-state-assembly?emci=b0c37048-df4b-ed11-819c-002248258e08&emdi=0ae0fa21-3d4e-ed11-819c-002248258e08&ceid=15789143"
+},
+{
+"text": "ENDORSE",
+"href": "https://www.pachecoforassembly.com/endorse"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.pachecoforassembly.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.pachecoforassembly.com"
+},
+{
+"text": "INFO@PACHECOFORASSEMBLY.COM",
+"href": "mailto:info@pachecoforassembly.com"
+},
+{
+"text": "MEET BLANCA",
+"href": "https://www.pachecoforassembly.com/meet-blanca"
+},
+{
+"text": "NEWSLETTER SIGN UP",
+"href": "https://www.pachecoforassembly.com/newsletter"
+},
+{
+"text": "PHOTOS",
+"href": "https://flic.kr/ps/3YABYF"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.pachecoforassembly.com/priorities"
+},
+{
+"text": "STATEMENTS OF SUPPORT",
+"href": "https://www.pachecoforassembly.com/endorsements"
+},
+{
+"text": "VIDEO",
+"href": "https://www.youtube.com/channel/UClVIWoAzyTnGtnyUu-YgOIA"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.pachecoforassembly.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BlancaPachecoCA"
+},
+{
+"text": "[image: Flickr]",
+"href": "https://flic.kr/ps/3YABYF"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/blancapachecoca/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/BlancaNPacheco"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UClVIWoAzyTnGtnyUu-YgOIA"
+}
 ]

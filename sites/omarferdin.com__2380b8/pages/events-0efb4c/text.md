@@ -1,2 +1,3 @@
-Upcoming Events Join the movement by attending or volunteering at one of our events!
+0 Skip to Content Home Information Issues Omar's Book Events Events Bootlegger Ball Get Involved Donate Open Menu Close Menu Home Information Issues Omar's Book Events Events Bootlegger Ball Get Involved Donate Open Menu Close Menu Home Folder: Information Back Issues Omar's Book Folder: Events Back Events Bootlegger Ball Get Involved Donate Upcoming Events Join the movement by attending or volunteering at one of our events!
 Immersive Fund Raisin' Events Roller Rally for Change 6/3/26 Bootlegger Ball 7/17/26 Meet & Greet with Omar Meet & Greet and Town Hall Q&A with Omar 5/19/26 Building Trades Small Business Q&A 5/23/26 Community Events Events coming soon!
+Paid for by Friends to Elect Omar Ferdin Made with Squarespace Contact Information friends2electomar@gmail.com (734) 344-9422

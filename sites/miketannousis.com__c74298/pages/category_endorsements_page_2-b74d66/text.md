@@ -1,9 +1,4 @@
-Detectives’ Union Endorses Mike Tannousis for State Assembly
-As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
-READ post
-Tannousis Endorsed by the Staten Island Republican Party
-The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
-READ post
-Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party
-The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
-READ post
+Skip to Content Donate to Mike Tannousis for State Assembly Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE posts categorized in Endorsements Sun, May 31 2020 Endorsements Detectives’ Union Endorses Mike Tannousis for State Assembly As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
+READ post share Tue, Jan 07 2020 Endorsements Tannousis Endorsed by the Staten Island Republican Party The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
+READ post share Thu, Dec 26 2019 Endorsements Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
+READ post share Posts pagination Previous page 1 2 Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

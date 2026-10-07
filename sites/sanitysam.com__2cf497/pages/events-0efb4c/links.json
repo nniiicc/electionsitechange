@@ -1,14 +1,58 @@
 [
-"https://sanitysam.com/",
-"https://sanitysam.com/contact",
-"https://sanitysam.com/event/campaign-event",
-"https://sanitysam.com/event/coconino-democrats-monthly-action-meeting",
-"https://sanitysam.com/events",
-"https://sanitysam.com/events/month",
-"https://sanitysam.com/events/month/2026-09",
-"https://sanitysam.com/events/today",
-"https://sanitysam.com/join-the-sanity-campaign",
-"https://sanitysam.com/who-is-sam-martin",
-"https://sanitysam.com/why-sam-martin",
-"https://wp-royal-themes.com/"
+{
+"text": "Campaign event",
+"href": "https://sanitysam.com/event/campaign-event/"
+},
+{
+"text": "Coconino Democrats Monthly Action Meeting",
+"href": "https://sanitysam.com/event/coconino-democrats-monthly-action-meeting/"
+},
+{
+"text": "Day",
+"href": "https://sanitysam.com/events/today/"
+},
+{
+"text": "Events",
+"href": "https://sanitysam.com/events/"
+},
+{
+"text": "Join The Sanity Campaign",
+"href": "https://sanitysam.com/join-the-sanity-campaign/"
+},
+{
+"text": "Month",
+"href": "https://sanitysam.com/events/month/"
+},
+{
+"text": "Sam for AZ House of Representatives",
+"href": "https://sanitysam.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://sanitysam.com/contact/"
+},
+{
+"text": "This Month",
+"href": "https://sanitysam.com/events/month/"
+},
+{
+"text": "WP Royal",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "Who is Sam Martin?",
+"href": "https://sanitysam.com/who-is-sam-martin/"
+},
+{
+"text": "Why Sam Martin?",
+"href": "https://sanitysam.com/why-sam-martin/"
+},
+{
+"text": "[no text]",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://sanitysam.com/events/month/2026-09/"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://facebook.com/profile.php?id=100084531318374",
-"https://jessicalamontagne.com/",
-"https://jessicalamontagne.com/about",
-"https://jessicalamontagne.com/cart",
-"https://jessicalamontagne.com/contact",
-"https://jessicalamontagne.com/news",
-"https://jessicalamontagne.com/policies",
-"https://jessicalamontagne.com/take-action",
-"https://secure.actblue.com/donate/friends-of-jessica-lamontagne-1"
+{
+"text": "0",
+"href": "https://www.jessicalamontagne.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jessicalamontagne.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jessicalamontagne.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-jessica-lamontagne-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.jessicalamontagne.com/take-action"
+},
+{
+"text": "JESSICA LAMONTAGNE FOR DOVER WARD 5",
+"href": "https://www.jessicalamontagne.com/"
+},
+{
+"text": "NEWS",
+"href": "https://www.jessicalamontagne.com/news"
+},
+{
+"text": "POLICIES",
+"href": "https://www.jessicalamontagne.com/policies"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100084531318374"
+}
 ]

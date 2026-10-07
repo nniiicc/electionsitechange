@@ -1,13 +1,62 @@
 [
-"https://facebook.com/SalisburyforPA",
-"https://salisburyforpa.com/",
-"https://salisburyforpa.com/about",
-"https://salisburyforpa.com/blog-news",
-"https://salisburyforpa.com/contacts",
-"https://salisburyforpa.com/endorsements",
-"https://salisburyforpa.com/issue-environment?amp=1",
-"https://salisburyforpa.com/issues",
-"https://salisburyforpa.com/volunteer",
-"https://secure.actblue.com/donate/people-for-abigail-salisbury-2",
-"https://twitter.com/SalisburyforPA"
+{
+"text": "About",
+"href": "https://salisburyforpa.com/about/"
+},
+{
+"text": "Blog & News",
+"href": "https://salisburyforpa.com/blog-news/"
+},
+{
+"text": "Contact",
+"href": "https://salisburyforpa.com/contacts/"
+},
+{
+"text": "Contact Us",
+"href": "https://salisburyforpa.com/contacts/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+},
+{
+"text": "Endorsements",
+"href": "https://salisburyforpa.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SalisburyforPA"
+},
+{
+"text": "Go to mobile version",
+"href": "https://salisburyforpa.com/issue-environment/?amp=1"
+},
+{
+"text": "Home",
+"href": "https://salisburyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://salisburyforpa.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://salisburyforpa.com/volunteer/"
+},
+{
+"text": "X formerly Twitter",
+"href": "https://twitter.com/SalisburyforPA"
+},
+{
+"text": "[image]",
+"href": "https://salisburyforpa.com/"
+},
+{
+"text": "click now to donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+}
 ]

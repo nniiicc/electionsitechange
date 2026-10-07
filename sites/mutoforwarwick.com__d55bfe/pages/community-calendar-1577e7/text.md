@@ -1,12 +1,7 @@
-top of page
-Upcoming Events
-Upcoming Events with Bill
-Stay tuned for upcoming fundraisers, and events.
-Donations for fundraisers, are welcome but not required
-Community Calendar
-Looking for something to do in Warwick?
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute Upcoming Events Upcoming Events with Bill Stay tuned for upcoming fundraisers, and events.
+Donations for fundraisers, are welcome but not required Community Calendar Looking for something to do in Warwick?
 Learn more about upcoming community events on the calendar below.
-Community Calendar
-Looking for something to do in Warwick?
+Community Calendar Looking for something to do in Warwick?
 Learn more about upcoming community events on the calendar below.
-bottom of page
+Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

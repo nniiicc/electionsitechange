@@ -1,4 +1,10 @@
 [
-"https://lopezforrep.com/donate.html",
-"https://lopezforrep.com/get-involved.html"
+{
+"text": "Donate",
+"href": "https://www.lopezforrep.com/donate.html"
+},
+{
+"text": "Volunteer Now",
+"href": "https://www.lopezforrep.com/get-involved.html"
+}
 ]

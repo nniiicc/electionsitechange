@@ -1,17 +1,94 @@
 [
-"https://andyzahn.com/",
-"https://andyzahn.com/2026/01/18/industrial-hemp",
-"https://andyzahn.com/2026/01/18/rural-parks",
-"https://andyzahn.com/2026/03/04/clean-energy",
-"https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river",
-"https://andyzahn.com/2026/05/14/hopgood-rock-park-plan",
-"https://andyzahn.com/2026/06/06/fighting-back-against-data-centers",
-"https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute",
-"https://andyzahn.com/2026/08/18/investing-in-rural-washington",
-"https://andyzahn.com/about",
-"https://andyzahn.com/platform",
-"https://bsky.app/profile/electandy.bsky.social",
-"https://facebook.com/people/Elect-Andy-Zahn/61560679994242",
-"https://substack.com/@andyzahn1",
-"https://youtube.com/@AndyZahn"
+{
+"text": "About",
+"href": "https://andyzahn.com/about/"
+},
+{
+"text": "Andy Zahn",
+"href": "https://andyzahn.com"
+},
+{
+"text": "Clean Energy",
+"href": "https://andyzahn.com/2026/03/04/clean-energy/"
+},
+{
+"text": "Cutting the cost of your commute",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/"
+},
+{
+"text": "Fighting back against data centers",
+"href": "https://andyzahn.com/2026/06/06/fighting-back-against-data-centers/"
+},
+{
+"text": "Hopgood Rock Park Plan",
+"href": "https://andyzahn.com/2026/05/14/hopgood-rock-park-plan/"
+},
+{
+"text": "Industrial Hemp",
+"href": "https://andyzahn.com/2026/01/18/industrial-hemp/"
+},
+{
+"text": "Investing in Rural Washington",
+"href": "https://andyzahn.com/2026/08/18/investing-in-rural-washington/"
+},
+{
+"text": "Platform",
+"href": "https://andyzahn.com/platform/"
+},
+{
+"text": "Rural Parks",
+"href": "https://andyzahn.com/2026/01/18/rural-parks/"
+},
+{
+"text": "USACE is wrecking the Toutle River",
+"href": "https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river/"
+},
+{
+"text": "[image: Clean Energy]",
+"href": "https://andyzahn.com/2026/03/04/clean-energy/"
+},
+{
+"text": "[image: Cutting the cost of your commute]",
+"href": "https://andyzahn.com/2026/06/22/cutting-the-cost-of-your-commute/"
+},
+{
+"text": "[image: Fighting back against data centers]",
+"href": "https://andyzahn.com/2026/06/06/fighting-back-against-data-centers/"
+},
+{
+"text": "[image: Hopgood Rock Park Plan]",
+"href": "https://andyzahn.com/2026/05/14/hopgood-rock-park-plan/"
+},
+{
+"text": "[image: Industrial Hemp]",
+"href": "https://andyzahn.com/2026/01/18/industrial-hemp/"
+},
+{
+"text": "[image: Investing in Rural Washington]",
+"href": "https://andyzahn.com/2026/08/18/investing-in-rural-washington/"
+},
+{
+"text": "[image: Rural Parks]",
+"href": "https://andyzahn.com/2026/01/18/rural-parks/"
+},
+{
+"text": "[image: USACE is wrecking the Toutle River]",
+"href": "https://andyzahn.com/2026/05/11/usace-is-wrecking-the-toutle-river/"
+},
+{
+"text": "https://bsky.app/profile/electandy.bsky.social",
+"href": "https://bsky.app/profile/electandy.bsky.social"
+},
+{
+"text": "https://substack.com/@andyzahn1",
+"href": "https://substack.com/@andyzahn1"
+},
+{
+"text": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/",
+"href": "https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/"
+},
+{
+"text": "https://www.youtube.com/@AndyZahn",
+"href": "https://www.youtube.com/@AndyZahn"
+}
 ]

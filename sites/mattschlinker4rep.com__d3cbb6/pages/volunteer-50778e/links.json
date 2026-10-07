@@ -1,17 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61563492839457",
-"https://forms.gle/AKFAvbe5sVh26QLv5",
-"https://heyvictor.com/",
-"https://instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://mattschlinker4rep.com/",
-"https://mattschlinker4rep.com/accessibility-statement",
-"https://mattschlinker4rep.com/endorsements",
-"https://mattschlinker4rep.com/events",
-"https://mattschlinker4rep.com/meet-candidate",
-"https://mattschlinker4rep.com/news",
-"https://mattschlinker4rep.com/priorities",
-"https://mattschlinker4rep.com/terms-of-service",
-"https://mattschlinker4rep.com/volunteer",
-"https://mattschlinker4rep.com/voter-101",
-"https://secure.actblue.com/donate/schlinkerweb"
+{
+"text": "Accessibility Statement",
+"href": "https://mattschlinker4rep.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/schlinkerweb?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://mattschlinker4rep.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://mattschlinker4rep.com/events/"
+},
+{
+"text": "Home",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "In the News",
+"href": "https://mattschlinker4rep.com/news/"
+},
+{
+"text": "Meet Matt",
+"href": "https://mattschlinker4rep.com/meet-candidate/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://mattschlinker4rep.com/priorities/"
+},
+{
+"text": "Terms of Service",
+"href": "https://mattschlinker4rep.com/terms-of-service/"
+},
+{
+"text": "VOLUNTEER NOW!",
+"href": "https://forms.gle/AKFAvbe5sVh26QLv5"
+},
+{
+"text": "VOTER 101",
+"href": "https://mattschlinker4rep.com/voter-101/"
+},
+{
+"text": "Volunteer",
+"href": "https://mattschlinker4rep.com/volunteer/"
+},
+{
+"text": "[image] [image]",
+"href": "https://mattschlinker4rep.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61563492839457"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mattschlinkermi?igsh=ZDNlZDc0MzIxNw%3D%3D"
+}
 ]

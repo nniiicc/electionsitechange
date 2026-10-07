@@ -1,23 +1,106 @@
 [
-"https://campaignpartner.com/",
-"https://electdavidfabrikant.com/",
-"https://electdavidfabrikant.com/contact",
-"https://electdavidfabrikant.com/contribute",
-"https://electdavidfabrikant.com/contribute?amount=10",
-"https://electdavidfabrikant.com/contribute?amount=100",
-"https://electdavidfabrikant.com/contribute?amount=1000",
-"https://electdavidfabrikant.com/contribute?amount=25",
-"https://electdavidfabrikant.com/contribute?amount=250",
-"https://electdavidfabrikant.com/contribute?amount=50",
-"https://electdavidfabrikant.com/contribute?amount=500",
-"https://electdavidfabrikant.com/events",
-"https://electdavidfabrikant.com/home",
-"https://electdavidfabrikant.com/issues",
-"https://electdavidfabrikant.com/meet_david",
-"https://electdavidfabrikant.com/news",
-"https://electdavidfabrikant.com/photos",
-"https://electdavidfabrikant.com/view-endorsements",
-"https://electdavidfabrikant.com/volunteer",
-"https://electdavidfabrikant.com/vote",
-"https://electdavidfabrikant.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://www.electdavidfabrikant.com/contribute?amount=1000"
+},
+{
+"text": "Contact",
+"href": "https://www.electdavidfabrikant.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.electdavidfabrikant.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electdavidfabrikant.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.electdavidfabrikant.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.electdavidfabrikant.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.electdavidfabrikant.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.electdavidfabrikant.com/volunteer"
+},
+{
+"text": "Meet David",
+"href": "https://www.electdavidfabrikant.com/meet_david"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.electdavidfabrikant.com/vote"
+},
+{
+"text": "News",
+"href": "https://www.electdavidfabrikant.com/news"
+},
+{
+"text": "Other",
+"href": "https://www.electdavidfabrikant.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.electdavidfabrikant.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.electdavidfabrikant.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.electdavidfabrikant.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electdavidfabrikant.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.electdavidfabrikant.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.electdavidfabrikant.com/yard-sign"
+},
+{
+"text": "[image: David Fabrikant Congress]",
+"href": "https://www.electdavidfabrikant.com/"
+}
 ]

@@ -1,11 +1,10 @@
-Op-Ed: Do Better Chris Sununu
-At a recent Portsmouth Chamber of Commerce event on March 11th, Chris Sununu responded to a question from an audience member asking how New Hampshire can provide a safe environment for the LGBTQ+ community.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: Do Better Chris Sununu Mar 21 Written By Alice Wade At a recent Portsmouth Chamber of Commerce event on March 11th, Chris Sununu responded to a question from an audience member asking how New Hampshire can provide a safe environment for the LGBTQ+ community.
 He replied that we’re doing well on LGBTQ+ inclusion and followed up by saying, “I tend not to focus on that stuff.
 Government isn’t here to solve it.” He later commented that he isn’t for discrimination.
 Maybe he should act like it.
 The republican politicians who have spent the last year filing and voting for over 30 targeted anti-LGBTQ+ bills in the statehouse seem to disagree.
 Tell that to the parents who are scared for their children’s lives after seeing trans people being bullied, attacked, and murdered across the country just for existing, tell that to the trans people who have to live in fear every day knowing that their fundamental rights are being ripped away by politicians who don’t even know a single transgender person.
-I attended a candlelit vigil in Concord recently for Nex Benedict, a non-binary teen who died after a fight with their classmates in Oklahoma just a few weeks ago.
+I attended a candlelit vigil in Concord recently for Nex Benedict , a non-binary teen who died after a fight with their classmates in Oklahoma just a few weeks ago.
 Their story is sadly not an outlier.
 During the open mic section, dozens of people came forward to share their stories and feelings about what had happened.
 I heard parents talk about how their child was too afraid to attend the vigil in case their face was shown and their classmates found out.
@@ -22,10 +21,10 @@ He himself signed non-discrimination protections for transgender people into law
 His inaction and complacency is doing real harm to the people of this state.
 Governor Sununu’s heir apparent for governor, Kelly Ayotte, has been ramping up so-called ‘culture war’ rhetoric by claiming that gender ideology is taking over classrooms.
 Ayotte also recently endorsed Donald Trump, and I don’t need to tell you what that says about her views on LGBTQ+ rights.
-He also endorsed and campaigned for Nikki Haley, who on national television during one of the Republican presidential debates called the existence of trans women “the women’s issue of our time” among many other horrific comments.
+He also endorsed and campaigned for Nikki Haley, who on national television during one of the Republican presidential debates called the existence of trans women “the women’s issue of our time” among many other horrific comments .
 For someone who doesn’t pay much attention to LGBTQ+ issues, he sure seems to support those who love using trans people as a pitching wedge.
 New Hampshire ranks last among all New England states for LGBTQ+ equality.
-The Washington Post recently found that in states with laws targeting LGBTQ issues, school hate crimes quadrupled.
+The Washington Post recently found that in states with laws targeting LGBTQ issues, school hate crimes quadrupled .
 Hate, so it seems, trickles down to children.
 These kids have no idea why they hate gay or trans people.
 All they know is that the adults are talking about us with disgust, that the government is trying to regulate us out of existence.
@@ -35,3 +34,4 @@ Given its current makeup, it’s very likely that these discriminatory proposals
 We have to call on our senators and our governor to not let hate find a safe haven in New Hampshire, for all of our sakes.
 During his last term as governor, I hope that he might choose to do the right thing here and veto any anti-trans bills that pass the statehouse.
 It truly is the least he could do.
+Alice Wade Previous Previous Op-Ed: Inherited Hatred and How to Stop It Next Next Op-Ed: Stop pretending Trans Persecution is Helping Kids Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

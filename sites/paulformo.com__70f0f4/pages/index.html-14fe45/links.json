@@ -1,7 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61589379903476",
-"https://house.mo.gov/districtmap.aspx?district=101&counties=StLouis",
-"https://paulformo.com/media-kit.html",
-"https://secure.actblue.com/donate/paulformo",
-"https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/voter-services/voter-registration-information"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/paulformo"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/paulformo"
+},
+{
+"text": "FOR STATE REPRESENTATIVE • DISTRICT 101",
+"href": "https://house.mo.gov/districtmap.aspx?district=101&counties=StLouis"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61589379903476"
+},
+{
+"text": "Media Kit",
+"href": "https://paulformo.com/media-kit.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://stlouiscountymo.gov/st-louis-county-government/board-of-elections/elections/voter-services/voter-registration-information/"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"https://facebook.com/profile.php?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=61569224484498&sk=about",
-"https://instagram.com/votestaceymcduffie",
-"https://mobilize.us/staceymcduffieforstaterepresentative?q=mcduffie",
-"https://staceymcduffie.com/",
-"https://staceymcduffie.com/about",
-"https://staceymcduffie.com/cart",
-"https://staceymcduffie.com/contact",
-"https://staceymcduffie.com/endorsements",
-"https://staceymcduffie.com/priorities",
-"https://tiktok.com/@stacey.mcduffie.d"
+{
+"text": "0",
+"href": "https://www.staceymcduffie.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.staceymcduffie.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.staceymcduffie.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.staceymcduffie.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/staceymcduffieforstaterepresentative/?q=mcduffie"
+},
+{
+"text": "Priorities",
+"href": "https://www.staceymcduffie.com/priorities"
+},
+{
+"text": "Stacey McDuffie for State Representative",
+"href": "https://www.staceymcduffie.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=61569224484498&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votestaceymcduffie/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@stacey.mcduffie.d"
+}
 ]

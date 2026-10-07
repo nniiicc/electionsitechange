@@ -1,7 +1,9 @@
 {
  "description": "Join the movement, get involved, and find some resources.",
  "final_url": "https://www.bellforus.com/help",
- "paid_for_by": null,
+ "fingerprint": "51e99efa752209caeea632aa1f96ae14320a3911",
+ "format": 3,
+ "paid_for_by": "",
  "title": "HELP | BellForUs",
  "years_mentioned": []
 }

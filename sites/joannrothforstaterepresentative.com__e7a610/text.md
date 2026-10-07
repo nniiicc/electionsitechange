@@ -1,8 +1,2 @@
-About Jo Ann
-Issues
-In Person
-On Video
-Donate
-Jo Ann Roth
-for State Representative, House 113
-DONATE
+About Jo Ann Issues In Person On Video Donate Jo Ann Roth for State Representative, House 113 DONATE © # joannrothforstaterepresentative.com Follow us on Facebook and Donate Using ActBlue Contact JoAnn at (620) 282-4054 or by email joannroth@embarqmail.com © # Paid for by Jo Ann Roth for State Representative, Kent Roth, Treasurer.
+10 North Main, Ellinwood KS 67526 joannrothforstaterepresentative.com

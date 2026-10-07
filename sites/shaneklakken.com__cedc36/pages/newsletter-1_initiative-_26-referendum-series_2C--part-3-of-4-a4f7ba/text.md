@@ -1,9 +1,4 @@
-Initiative & Referendum Series,
-Part 3 of 4
-By Shane Klakken, Montana House District 37
-May 20, 2026
-They Can’t Win Our Elections, So They’re Buying Our Ballot
-I’ve spent the last two editorials laying groundwork.
+top of page News Principles Calendar About Menu Close Donate Initiative & Referendum Series, Part 3 of 4 By Shane Klakken, Montana House District 37 May 20, 2026 They Can’t Win Our Elections, So They’re Buying Our Ballot I’ve spent the last two editorials laying groundwork.
 We established that Montana is a republic, not a democracy, and that the Founders built it that way on purpose.
 We established that the initiative and referendum process was designed by the Progressive Movement specifically to bypass elected representatives.
 Now I want to get concrete.
@@ -46,3 +41,7 @@ Montana’s legislature has tried to push back.
 I’ve been part of those efforts.
 But as long as the initiative process exists in its current form, we are fighting with one hand tied.
 In my last editorial on this topic I’ll lay out what real reform looks like — and what we can actually do about it.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

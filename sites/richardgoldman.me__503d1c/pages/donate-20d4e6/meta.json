@@ -1,7 +1,9 @@
 {
- "description": "Redirecting to the Volunteer page\u2026If you are not redirected automatically, click here to continue.",
+ "description": "Redirecting to the Volunteer page…If you are not redirected automatically, click here to continue.",
  "final_url": "https://richardgoldman.me/donate/",
- "paid_for_by": null,
+ "fingerprint": "2fe2250c35b07cc65dbcbb78322b35b894538a6a",
+ "format": 3,
+ "paid_for_by": "authorized by Richard Goldman, 19 Calls Hill Rd, Dresden, ME",
  "title": "Donate - Richard Goldman for Maine House 53",
  "years_mentioned": []
 }

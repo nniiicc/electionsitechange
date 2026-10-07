@@ -1,4 +1,4 @@
-Throughout my life, as an athlete, a swimming coach, President of KJA, the manager of Knoxville’s BELFOR office, and especially as a father and husband, I have learned the importance of making decisions based on the common good.
+0 Skip to Content Meet Bryan Issues District Map Get Involved Donate Open Menu Close Menu Open Menu Close Menu Donate Meet Bryan Issues District Map Get Involved Meet Bryan Issues District Map Get Involved Donate Throughout my life, as an athlete, a swimming coach, President of KJA, the manager of Knoxville’s BELFOR office, and especially as a father and husband, I have learned the importance of making decisions based on the common good.
 In my work, our team cleans up messes caused by natural disasters like tornadoes, hurricanes, fires, and floods.
 Our state legislature is a man-made disaster full of mean-spirited legislation, misplaced priorities, and legislators solely focused on extreme social issues.
 I’m asking you to send me to Nashville to clean up the mess.
@@ -16,8 +16,8 @@ They are currently students at Cedar Bluff Elementary School.
 In 2017, I joined the board of the Knoxville Jewish Alliance and became the President in 2020.
 As President, I immersed both myself and the KJA within the greater Knoxville community.
 I wanted to learn the struggles and opportunities of others to help better lead our Jewish community to be active and engaged within Knoxville.
-During my tenure as President, I participated in the Leadership Knoxville Class of 2022, the FBI Citizens Academy Program, and was listed as a 40 under 40 leader by Knox News.
-Now, I’ve joined the Dean's Advisory Board for the College of Education, Health, and Human Sciences as well as the East Tennessee Foundation Board and was honored this summer as on of VIP Knoxville’s 50 under 50.
+During my tenure as President, I participated in the Leadership Knoxville Class of 2022, the FBI Citizens Academy Program, and was listed as a 40 under 40 leader by Knox News .
+Now, I’ve joined the Dean's Advisory Board for the College of Education, Health, and Human Sciences as well as the East Tennessee Foundation Board and was honored this summer as on of VIP Knoxville’s 50 under 50 .
 I’m running for State House District 18 because our community deserves someone who listens, understands, and makes decisions that benefit our lives.
 Our state is going in the wrong direction.
 We’re being led by folks who’d rather talk about outrage issues than the problems we’re all facing.
@@ -25,7 +25,7 @@ It’s time for real leaders who understand how to listen and prioritize the com
 My work in Disaster Restoration is all about working alongside folks to pick up the pieces in our community during a disaster.
 I clean up messes every day.
 I’m asking you to send me to Nashville to clean up the mess for all of us.
-- You may have heard me say that throughout my life—as a business leader, athlete, coach, President of the Knoxville Jewish Alliance, husband, and father—I’ve learned that leadership isn’t about making everyone happy.
+Manager You may have heard me say that throughout my life—as a business leader, athlete, coach, President of the Knoxville Jewish Alliance, husband, and father—I’ve learned that leadership isn’t about making everyone happy.
 It’s about listening, solving problems, and making decisions based on what’s best for the community as a whole.
 This is a deeper look at the experiences that have shaped me as a leader and explain why I believe I’m prepared to be your voice in Nashville.
 Let’s start with what I do every day.
@@ -61,7 +61,7 @@ Tennessee doesn’t need more political theater.
 It needs leaders who know how to solve problems.
 That’s what I’ve spent my career doing.
 With your support, I’m ready to bring that same practical, results-oriented leadership to Nashville—to listen first, work hard, and help clean up the mess.
-- The experiences that shape us say a lot about how we’ll lead and serve others.
+Athlete The experiences that shape us say a lot about how we’ll lead and serve others.
 That’s why I want to share these parts of my life —to show you the experiences that have shaped how I lead, how I make decisions, and how I’ll approach the responsibility of representing our community in Nashville.
 I want to tell you about swimming and, more importantly, what it taught me.
 From the age of 8 to 23, competitive swimming consumed much of my life.
@@ -74,9 +74,9 @@ Representing our country remains one of the proudest experiences of my life.
 But looking back, the medal isn’t the most important thing swimming gave me.
 It was everything required to get there.
 Thousands of hours spent training, refining technique, pushing through exhaustion, overcoming disappointing races, and getting back in the pool the next morning taught lessons that have stayed with me ever since.
-At UT, I received the Ray Bussard Spizzerinctum Award—an award recognizing the “will to succeed.” Spizzerinctum has been one of my favorite words ever since, because it describes something I’ve carried far beyond the pool: the determination to keep working when something is difficult, the resilience to recover when things don’t go your way, and the optimism to believe that progress is still possible.
+At UT, I received the Ray Bussard Spizzerinctum Award—an award recognizing the “will to succeed.” Spizzerinctum has been one of my favorite words ever since, because it describes something I’ve carried far beyond the pool: the determination to keep working when something is difficult, the resilience to recover when things don’t go your way, and the optimism to believe that progress is still possible .
 Those are qualities our politics could use more of.
-Resilience means being a strong advocate for West and South Knoxville, even when the political obstacles in Nashville are significant.
+Resilience means being a strong advocate for West and South Knoxville , even when the political obstacles in Nashville are significant.
 Optimism means believing we can protect and strengthen our public schools and build a Tennessee where the next generation has even greater opportunities than we did.
 And the will to succeed means refusing to give up on families who are working hard, doing everything right, and still struggling to make ends meet or get ahead.
 Swimming taught me that meaningful progress rarely happens overnight.
@@ -85,7 +85,7 @@ That’s the approach I’ve tried to carry throughout my life—and it’s the 
 Because representing our community isn’t about promising that every fight will be easy or that every victory will come quickly.
 It’s about having the discipline to show up, the resilience to keep fighting, and the will to succeed on behalf of the people you serve.
 I’m ready to put those lessons to work for you in Nashville.
-- To tell you what I learned when I moved to the other side of the pool deck, I first have to tell you about my coach.
+Coach To tell you what I learned when I moved to the other side of the pool deck, I first have to tell you about my coach.
 From the time I was 10 until I finished my competitive swimming career at 23, I was coached by Jack Nelson.
 Jack became like a grandfather to me—years later, Adrienne and I were even married at his home.
 Jack believed in me 100 percent.
@@ -124,7 +124,7 @@ Jack did that for me.
 Years later, I had the privilege of trying to do it for the young people I coached.
 Today, Adrienne and I try to do it for Chase and Charlize.
 That's the kind of leadership I want to bring to Nashville—leadership that believes in what Tennessee can become and is willing to invest in making it possible.
-- I’ve always believed that if you want to lead a community, you first have to show up for it.
+Community Leader I’ve always believed that if you want to lead a community, you first have to show up for it.
 You have to get involved.
 You have to listen to people whose experiences are different from your own.
 And you have to be willing to take responsibility when you’re asked to serve.
@@ -136,20 +136,20 @@ So when I had the opportunity to help secure the future of our Jewish community 
 But one of the things I believed most strongly as President was that our Jewish community couldn't exist in a bubble.
 To lead our community well, I needed to better understand the entire community we called home.
 That meant showing up across Knoxville, building relationships, learning about challenges outside my own experience, and finding opportunities to work alongside others.
-During that time, I participated in Leadership Knoxville's Class of 2022 and the FBI Citizens Academy, experiences that introduced me to even more of the people, institutions, and challenges that shape our region.
-I was also honored to be recognized by Knox News as a 40 Under 40 leader.
+During that time, I participated in Leadership Knoxville's Class of 2022 and the FBI Citizens Academy , experiences that introduced me to even more of the people, institutions, and challenges that shape our region.
+I was also honored to be recognized by Knox News as a 40 Under 40 leader .
 And my involvement has continued to grow.
-I was asked to serve on the Dean's Advisory Board for the University of Tennessee's College of Education, Health, and Human Sciences, helping support a college whose work touches education, health, families, and communities across our state.
-This year, I was also asked to serve on the board of the East Tennessee Foundation, which works throughout our region to connect charitable resources with the communities and organizations that need them.
+I was asked to serve on the Dean's Advisory Board for the University of Tennessee's College of Education, Health, and Human Sciences , helping support a college whose work touches education, health, families, and communities across our state.
+This year, I was also asked to serve on the board of the East Tennessee Foundation , which works throughout our region to connect charitable resources with the communities and organizations that need them.
 And the work that began locally within Knoxville's Jewish community has led to opportunities to serve nationally.
-Today, I serve as National Chair of Network Communities for the Jewish Federations of North America, helping represent and support more than 250 smaller Jewish communities across the country as they work to ensure people can live safe, free, and meaningful Jewish lives.
+Today, I serve as National Chair of Network Communities for the Jewish Federations of North America , helping represent and support more than 250 smaller Jewish communities across the country as they work to ensure people can live safe, free, and meaningful Jewish lives.
 I don't share these roles because I think leadership is about collecting titles.
 I share them because I believe leadership is about showing up.
 Throughout my life—as an athlete, a swimming coach, a business leader, a volunteer, a husband and a father—I’ve learned that good decisions rarely come from staying inside your own circle.
 They come from listening, getting involved, bringing different people to the table, and trying to understand how the decisions you make affect the larger community.
 That’s the kind of leadership I’ve tried to practice in Knoxville.
 And it’s the kind of leadership I want to bring to Nashville.
-- I want to tell you about the most important role I have: being a husband to my incredible wife, Adrienne, and a father to our two children, Chase and Charlize.
+Father & Husband I want to tell you about the most important role I have : being a husband to my incredible wife, Adrienne, and a father to our two children, Chase and Charlize.
 A month after graduating from UT, I met Adrienne, a beautiful woman from Oak Ridge who would change the course of my life.
 When we married a few years later, we knew we wanted to build our life here.
 Instead of taking a honeymoon, we put that money toward our first house in Karns.
@@ -160,7 +160,7 @@ Somehow, those early years have gone by faster than I ever imagined.
 Today, Chase and Charlize are fifth- and third-graders at Cedar Bluff Elementary, and one of the parts of my life I treasure most is walking them to school in the morning.
 Those few minutes give me a window into their world—the things they’re excited about, the things they’re worried about, the friendships they’re navigating, and the hopes they’re beginning to form for themselves.
 I know those walks won’t last forever, which makes me appreciate them even more.
-Of all the roles I’ve had in my life, none means more to me than being a dad to Chase and Charlize.
+Of all the roles I’ve had in my life, none means more to me than being a dad to Chase and Charlize .
 I want to be someone they can count on—someone who encourages them when they doubt themselves, celebrates who they are becoming, and helps them understand that a meaningful life is measured by more than what you accomplish for yourself.
 Adrienne and I certainly don’t pretend there is a rulebook for parenting.
 Like every family, we are learning as we go.
@@ -172,10 +172,15 @@ They have shaped the way I lead, the way I serve, and ultimately, the way I thin
 Fatherhood has also made me think differently about time and responsibility.
 The decisions we make today aren’t only about us.
 We are temporary stewards of the communities we inherit, and we have a responsibility to leave them stronger for the generation that follows.
-I want Chase and Charlize to grow up in a Tennessee where families can thrive, communities are strong, hard work is rewarded, and every child has a genuine opportunity to succeed.
+I want Chase and Charlize to grow up in a Tennessee where families can thrive , communities are strong, hard work is rewarded, and every child has a genuine opportunity to succeed.
 And I want that same future for every family in our community.
 We only get so much time to make a difference.
 I want to use mine working hard, serving others, and doing everything I can to leave this community better than I found it before handing it on to the next generation.
 That is a big part of why I’m running.
-I believe public service should be about the common good—not what benefits a political party, a special interest, or a select few.
+I believe public service should be about the common good —not what benefits a political party, a special interest, or a select few.
 I want to do my part to build a Tennessee that Chase and Charlize—and all of our children—will be proud to call home.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get Updates from Team Goldberg Email Address Sign Up Thank you!
+Paid for by the Committee to Elect Bryan Goldberg.
+Treasurer, Eddie Mannis.

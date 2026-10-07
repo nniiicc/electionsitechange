@@ -1,11 +1,62 @@
 [
-"https://erickharrisok.com/",
-"https://erickharrisok.com/contact",
-"https://erickharrisok.com/issues",
-"https://erickharrisok.com/media",
-"https://erickharrisok.com/privacy-policy",
-"https://erickharrisok.com/terms-and-conditions",
-"https://facebook.com/erickharrisok",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://secure.anedot.com/friends-of-erick-harris-2024-special/donate"
+{
+"text": "CONTACT US",
+"href": "https://erickharrisok.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-erick-harris-2024-special/donate"
+},
+{
+"text": "Facebook-square",
+"href": "https://www.facebook.com/erickharrisok"
+},
+{
+"text": "HOME",
+"href": "https://erickharrisok.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://erickharrisok.com/issues/"
+},
+{
+"text": "MEDIA",
+"href": "https://erickharrisok.com/media/"
+},
+{
+"text": "MEET ERICK",
+"href": "https://erickharrisok.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://erickharrisok.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erickharrisok.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "RESULTS",
+"href": "https://erickharrisok.com/#results"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://erickharrisok.com/#take-action"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://erickharrisok.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://erickharrisok.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://erickharrisok.com"
+}
 ]

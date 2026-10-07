@@ -1,6 +1,6 @@
-Your Budget Isn't Broken.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Your Budget Isn't Broken.
 Washington's Choices Are.
-Open your mailbox this fall, and you'll find the same story.
+Sep 15 Written By Wyatt Nordvik Open your mailbox this fall, and you'll find the same story.
 The health insurance notice says the premium is going up again.
 The fire insurance renewal, if it comes at all, costs far more than last year.
 The gas receipt shows the highest prices in the nation.
@@ -55,3 +55,6 @@ Washington should try it.
 Your budget isn't broken.
 The choices are.
 And choices can be changed.
+Wyatt Nordvik Previous Previous Masuda For Congress Statement on the Impeachment Resolution of Defense Secretary Pete Hegseth Next Next Fire Prevention Pays.
+It's Time We Act Like It.
+Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

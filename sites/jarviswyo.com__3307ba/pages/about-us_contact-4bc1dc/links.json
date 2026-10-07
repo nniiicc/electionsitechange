@@ -1,15 +1,70 @@
 [
-"http://facebook.com/jarvisforwyo",
-"https://facebook.com/jarvisforwyo",
-"https://forms.gle/1di7UHTJa25P99D29",
-"https://forms.gle/ser3XXr3As7Fzdtz9",
-"https://jarviswyo.com/",
-"https://jarviswyo.com/?post_type=wpcf7_contact_form&p=7",
-"https://jarviswyo.com/about-us/about-me",
-"https://jarviswyo.com/about-us/contact",
-"https://jarviswyo.com/about-us/contact/contact",
-"https://jarviswyo.com/news",
-"https://youtube.com/@FriendsofJulieJarvis",
-"https://youtube.com/watch?v=o-opGIRKZj4",
-"https://zeffy.com/en-US/donation-form/2053aafa-1f9c-4877-b44d-a4cf4cfa1485"
+{
+"text": "Contact",
+"href": "https://jarviswyo.com/about-us/contact/"
+},
+{
+"text": "Contact form 1",
+"href": "https://jarviswyo.com/?post_type=wpcf7_contact_form&p=7"
+},
+{
+"text": "Contribute",
+"href": "https://www.zeffy.com/en-US/donation-form/2053aafa-1f9c-4877-b44d-a4cf4cfa1485"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/2053aafa-1f9c-4877-b44d-a4cf4cfa1485"
+},
+{
+"text": "Julie’s Views",
+"href": "https://jarviswyo.com/news/"
+},
+{
+"text": "Learn More About Julie",
+"href": "https://jarviswyo.com/about-us/about-me/"
+},
+{
+"text": "Meet Julie",
+"href": "https://jarviswyo.com/about-us/about-me/"
+},
+{
+"text": "News",
+"href": "https://jarviswyo.com/news/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://forms.gle/ser3XXr3As7Fzdtz9"
+},
+{
+"text": "Video",
+"href": "https://www.youtube.com/@FriendsofJulieJarvis"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/1di7UHTJa25P99D29"
+},
+{
+"text": "[image: JarvisWYO.com][image: JarvisWYO.com]",
+"href": "https://jarviswyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jarvisforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@FriendsofJulieJarvis"
+},
+{
+"text": "[tooltip: ]",
+"href": "http://facebook.com/jarvisforwyo"
+},
+{
+"text": "https://www.youtube.com/watch?v=o-opGIRKZj4",
+"href": "https://www.youtube.com/watch?v=o-opGIRKZj4"
+},
+{
+"text": "julie@jarviswyo.com",
+"href": "https://jarviswyo.com/about-us/contact/contact"
+}
 ]

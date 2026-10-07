@@ -1,20 +1,78 @@
 [
-"https://caseynoce.com/",
-"https://caseynoce.com/about-3",
-"https://caseynoce.com/accessibility-statement",
-"https://caseynoce.com/blog",
-"https://caseynoce.com/campaign-internship",
-"https://caseynoce.com/contact-1",
-"https://caseynoce.com/endorsement-form",
-"https://caseynoce.com/general-1",
-"https://caseynoce.com/general-6",
-"https://caseynoce.com/general-8",
-"https://caseynoce.com/general-9",
-"https://caseynoce.com/privacy-policy",
-"https://caseynoce.com/registration",
-"https://caseynoce.com/team-3",
-"https://facebook.com/profile.php?id=61573676254085",
-"https://instagram.com/votenoce?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://secure.anedot.com/committee-to-elect-casey-noce/donation",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.caseynoce.com/about-3"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.caseynoce.com/accessibility-statement"
+},
+{
+"text": "Blog",
+"href": "https://www.caseynoce.com/blog"
+},
+{
+"text": "Campaign Internship",
+"href": "https://www.caseynoce.com/campaign-internship"
+},
+{
+"text": "Click Here",
+"href": "https://secure.anedot.com/committee-to-elect-casey-noce/donation"
+},
+{
+"text": "Donate",
+"href": "https://www.caseynoce.com/general-9"
+},
+{
+"text": "Education",
+"href": "https://www.caseynoce.com/general-8"
+},
+{
+"text": "Endorsement Form",
+"href": "https://www.caseynoce.com/endorsement-form"
+},
+{
+"text": "Endorsements",
+"href": "https://www.caseynoce.com/team-3"
+},
+{
+"text": "Events",
+"href": "https://www.caseynoce.com/registration"
+},
+{
+"text": "Fiscal Policy",
+"href": "https://www.caseynoce.com/general-6"
+},
+{
+"text": "Get Involved",
+"href": "https://www.caseynoce.com/contact-1"
+},
+{
+"text": "Home",
+"href": "https://www.caseynoce.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.caseynoce.com/privacy-policy"
+},
+{
+"text": "Small Government",
+"href": "https://www.caseynoce.com/general-1"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Casey Noce_StateRep_2 Logo.png]",
+"href": "https://www.caseynoce.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61573676254085"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votenoce?igsh=ZDNlZDc0MzIxNw%3D%3D"
+}
 ]

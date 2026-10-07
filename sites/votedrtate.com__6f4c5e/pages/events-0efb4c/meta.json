@@ -1,7 +1,11 @@
 {
  "description": "EVENTS",
  "final_url": "https://www.votedrtate.com/events",
+ "fingerprint": "0fec85599c26ecd84fec2f202f033fbafc6205a7",
+ "format": 3,
  "paid_for_by": "Paid For by Tate For Senate 2026 Committee Report abuse Page details Page updated Report abuse",
  "title": "Home - Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

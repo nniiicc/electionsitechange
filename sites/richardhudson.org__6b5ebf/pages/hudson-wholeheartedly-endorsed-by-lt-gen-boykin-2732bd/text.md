@@ -1,7 +1,8 @@
-Hudson “Wholeheartedly” Endorsed by Lt.
+Richard Hudson for Congress facebook instagram twitter Donate Meet Richard News Issues Get Involved Store Navigation Meet Richard News Issues Get Involved Store By Richard Hudson for Congress On 7 November 2016 In Press releases share tweet +1 Comments Off on Hudson “Wholeheartedly” Endorsed by Lt.
 Gen.
-Boykin
-CONCORD, N.C. – Today, U.S.
+Boykin Hudson “Wholeheartedly” Endorsed by Lt.
+Gen.
+Boykin CONCORD, N.C. – Today, U.S.
 Representative Richard Hudson (NC-08) was endorsed by Lieutenant General William G.
 “Jerry” Boykin.
 Lt.
@@ -17,18 +18,15 @@ Boykin then served at the Pentagon as the Deputy Undersecretary of Defense for I
 I’m grateful for his trust and belief in the conservative work I’m doing to get our country back on track,” said Rep.
 Hudson.
 “I’m proud of my record fighting for our community, but there’s still a lot of work to do.
-I will continue to focus on finding common sense solutions that grow our economy, rein in reckless spending, empower businesses to create jobs, and make our country safer.”
-Lt.
+I will continue to focus on finding common sense solutions that grow our economy, rein in reckless spending, empower businesses to create jobs, and make our country safer.” Lt.
 Gen.
 Boykin is supporting Rep.
 Hudson for his “consistent commitment to conservative values, from reducing taxes, to reining in Washington’s wasteful spending and reducing the size of government.” In addition, Lt.
 Gen.
 Boykin applauded Rep.
 Hudson for his dedication to the care of our veterans and support of our military.
-The full endorsement letter is below and attached:
-“Dear Rep.
-Hudson:
-I am pleased to endorse you in the race for re-election to United States Congress in the 8th Congressional District of the state of North Carolina.
+The full endorsement letter is below and attached: “Dear Rep.
+Hudson: I am pleased to endorse you in the race for re-election to United States Congress in the 8th Congressional District of the state of North Carolina.
 Your work ethic, dedication to public service, and experience on Capitol Hill have set you apart as precisely the kind of leader this nation needs.
 Your work as a legislator has been noted by many for its consistent commitment to conservative values, from reducing taxes, to reining in Washington’s wasteful spending and reducing the size of government.
 Your congressional record supports a platform dedicated to the most fundamental freedom of Americans.
@@ -39,6 +37,13 @@ I commend the way in which you called upon the U.S.
 Air Force to provide additional airlift support for Special Operations units at Fort Bragg, understanding that these brave men and women are on the front lines in the protection of our nation against forces that seek to do us evil.
 Without support for these units, the very practice of our cherished freedoms could be compromised.
 I wholeheartedly endorse you in your bid for re-election to North Carolina’s 8th Congressional District, and will encourage others who care about the preservation of our republic to do so as well.
-Sincerely,
-LTG (Ret.) William Boykin
-US Army Special Forces”
+Sincerely, LTG (Ret.) William Boykin US Army Special Forces” Previous: Moore Pilot: Richard Hudson for U.S.
+House Next: Rep.
+Richard Hudson: “We’re Going to Repeal Obamacare” Comments are closed.
+Join Team Hudson Email * Zip Code Phone Mobile Opt-In I agree By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Richard Hudson for Congress at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
+Privacy Policy Contact Us PO Box 1875 Southern Pines, NC 28388 Paid for by Hudson for Congress

@@ -1,7 +1,9 @@
 {
  "description": "Press releases and news about Jeff Peckman&#39;s campaign for Colorado gubernatorial election and Unity Party updates.",
  "final_url": "https://jeffpeckman.com/press-releases",
- "paid_for_by": null,
+ "fingerprint": "e151b221ba08e4875511d013b18f27a5e85a43f8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PRESS RELEASES",
  "years_mentioned": [
   "2012",

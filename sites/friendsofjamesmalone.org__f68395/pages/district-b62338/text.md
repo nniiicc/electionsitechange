@@ -1,12 +1,9 @@
-About the District
-The 36th District is built on hard work, strong communities, and a deep sense of responsibility to one another.
+Skip to content Home Meet James Priorities Endorsements News Get Involved District Donate About the District The 36th District is built on hard work, strong communities, and a deep sense of responsibility to one another.
 From boroughs like Lititz, Ephrata, Columbia, Manheim, and Elizabethtown to the surrounding townships that define Lancaster County, this district is home to families who value honesty, fairness, and leaders who show up and listen.
 Small businesses, manufacturing, construction, healthcare, and skilled trades all play a vital role here, and residents take pride in caring for their neighbors while planning thoughtfully for the future.
 Education and opportunity are central to life in the 36th District.
 Local school districts. including Hempfield, Manheim Central, Warwick, Donegal, Elizabethtown Area, Eastern Lancaster County, and others, reflect a shared commitment to preparing the next generation while respecting the values that make each community unique.
 Across the district, people want safe neighborhoods, affordable living, good schools, and a government that works as hard as they do.
 The 36th District deserves representation that understands these communities, respects their traditions, and focuses on practical solutions that strengthen families and deliver results.
-The 36th District
-Check out individual municipalities below the map for more information.
-Municipalities:
-School Districts:
+The 36th District Check out individual municipalities below the map for more information.
+Municipalities: Akron Borough Columbia Borough Conoy Township Earl Township East Donegal Township East Hempfield Township East Petersburg Borough Elizabeth Township Elizabethtown Borough Ephrata Borough Ephrata Township Lititz Borough Manheim Borough Manheim Township Mount Joy Township Mountville Borough Penn Township Rapho Township Warwick Township West Donegal Township West Earl Township West Hempfield Township School Districts: Columbia Borough School District Conestoga Valley School District Donegal School District Eastern Lancaster County School District Elizabethtown Area School District Ephrata Area School District Hempfield School District Manheim Central School District Manheim Township School District Warwick School District Contact PO Box 5 East Petersburg, PA 17520 campaign@friendsofjamesmalone.org Donate Privacy Policy Follow us Facebook Instagram X Bluesky YouTube Prepared and Paid for by Friends of James Malone Powered by Tech for Campaigns

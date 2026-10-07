@@ -1,19 +1,70 @@
 [
-"https://abc10.com/article/entertainment/television/programs/to-the-point/meet-the-candidates-in-californias-congressional-district-6-race/103-e7f10557-2e21-421a-8ee6-aa4b0babcc94",
-"https://axios.com/2026/05/13/kevin-kiley-redistricting-discharge-petition",
-"https://cnn.com/2026/05/13/politics/video/kevin-kiley-gerrymandering-wrong-with-politics",
-"https://electkevinkiley.com/about",
-"https://electkevinkiley.com/get-involved",
-"https://electkevinkiley.com/home",
-"https://electkevinkiley.com/updates",
-"https://facebook.com/KevinKileyCA",
-"https://instagram.com/kevinpkiley?hl=en",
-"https://kiley.house.gov/posts/rep-kiley-backs-dhs-funding-bill-calls-for-lasting-bipartisan-fix",
-"https://nbcnews.com/politics/2026-primary-elections/california-us-house-district-6-results",
-"https://nytimes.com/2025/10/31/podcasts/the-daily/kevin-kiley-shutdown-interview.html",
-"https://sacbee.com/opinion/article315077456.html",
-"https://thehill.com/homenews/campaign/5917439-kevin-kiley-independent-showdown",
-"https://thehill.com/homenews/house/5775383-kevin-kiley-independent-gop",
-"https://x.com/KevinKileyCA",
-"https://x.com/KevinKileyCA/status/2055752593993843014"
+{
+"text": "About",
+"href": "https://electkevinkiley.com/about"
+},
+{
+"text": "Get Involved",
+"href": "https://electkevinkiley.com/get-involved"
+},
+{
+"text": "Listen to The Daily Episode",
+"href": "https://www.nytimes.com/2025/10/31/podcasts/the-daily/kevin-kiley-shutdown-interview.html"
+},
+{
+"text": "Read ABC 10 Article",
+"href": "https://www.abc10.com/article/entertainment/television/programs/to-the-point/meet-the-candidates-in-californias-congressional-district-6-race/103-e7f10557-2e21-421a-8ee6-aa4b0babcc94"
+},
+{
+"text": "Read Axios Article",
+"href": "https://www.axios.com/2026/05/13/kevin-kiley-redistricting-discharge-petition"
+},
+{
+"text": "Read Kiley’s Statement",
+"href": "https://kiley.house.gov/posts/rep-kiley-backs-dhs-funding-bill-calls-for-lasting-bipartisan-fix"
+},
+{
+"text": "Read The Hill Article",
+"href": "https://thehill.com/homenews/campaign/5917439-kevin-kiley-independent-showdown/"
+},
+{
+"text": "Read The Hill Article",
+"href": "https://thehill.com/homenews/house/5775383-kevin-kiley-independent-gop/"
+},
+{
+"text": "Read The Sacramento Bee Opinion Article",
+"href": "https://www.sacbee.com/opinion/article315077456.html"
+},
+{
+"text": "See the Results on NBC News",
+"href": "https://www.nbcnews.com/politics/2026-primary-elections/california-us-house-district-6-results"
+},
+{
+"text": "Updates",
+"href": "https://electkevinkiley.com/updates"
+},
+{
+"text": "Watch CNN Clip",
+"href": "https://www.cnn.com/2026/05/13/politics/video/kevin-kiley-gerrymandering-wrong-with-politics"
+},
+{
+"text": "Watch CNN Clip on X",
+"href": "https://x.com/KevinKileyCA/status/2055752593993843014"
+},
+{
+"text": "[image]",
+"href": "https://electkevinkiley.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/KevinKileyCA"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/kevinpkiley/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://x.com/KevinKileyCA"
+}
 ]

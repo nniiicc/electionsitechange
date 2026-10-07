@@ -1,38 +1,202 @@
 [
-"https://facebook.com/BrianMastFL",
-"https://mastforcongress.com/",
-"https://mastforcongress.com/56-days-one-mission",
-"https://mastforcongress.com/blog",
-"https://mastforcongress.com/clean-water-results-you-can-measure",
-"https://mastforcongress.com/contact",
-"https://mastforcongress.com/meet-brian",
-"https://mastforcongress.com/petition/save-act",
-"https://mastforcongress.com/priorities",
-"https://mastforcongress.com/priorities/america-first",
-"https://mastforcongress.com/priorities/community",
-"https://mastforcongress.com/priorities/healthcare",
-"https://mastforcongress.com/priorities/israel",
-"https://mastforcongress.com/priorities/life",
-"https://mastforcongress.com/priorities/second-amendment",
-"https://mastforcongress.com/priorities/seniors",
-"https://mastforcongress.com/priorities/swamp",
-"https://mastforcongress.com/priorities/tax",
-"https://mastforcongress.com/priorities/veterans",
-"https://mastforcongress.com/priorities/water",
-"https://mastforcongress.com/privacy-policy",
-"https://mastforcongress.com/put-veterans-in-the-drivers-seat",
-"https://mastforcongress.com/shop",
-"https://mastforcongress.com/shop/limited-edition-brian-mast-salute-hat",
-"https://mastforcongress.com/shop/where-we-stand-white-cotton-t-shirt",
-"https://mastforcongress.com/shop/where-we-stand-white-t-shirt",
-"https://mastforcongress.com/take-action",
-"https://mastforcongress.com/what-service-before-self-means-to-me",
-"https://secure.winred.com/mast-for-congress/donate",
-"https://secure.winred.com/mast-for-congress/donate?amount=10",
-"https://secure.winred.com/mast-for-congress/donate?amount=100",
-"https://secure.winred.com/mast-for-congress/donate?amount=20.24&recurring=true",
-"https://secure.winred.com/mast-for-congress/donate?amount=50",
-"https://truthsocial.com/@BrianMastFL",
-"https://twitter.com/BrianMastFL",
-"https://youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+{
+"text": "$10",
+"href": "https://secure.winred.com/mast-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/mast-for-congress/donate?amount=100"
+},
+{
+"text": "$20.24",
+"href": "https://secure.winred.com/mast-for-congress/donate?amount=20.24&recurring=true"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/mast-for-congress/donate?amount=50"
+},
+{
+"text": "56 Days. One Mission.",
+"href": "https://mastforcongress.com/56-days-one-mission/"
+},
+{
+"text": "@BrianMastFL",
+"href": "https://twitter.com/BrianMastFL"
+},
+{
+"text": "America First",
+"href": "https://mastforcongress.com/priorities/america-first/"
+},
+{
+"text": "Blog",
+"href": "https://mastforcongress.com/blog/"
+},
+{
+"text": "Clean Water Results You Can Measure",
+"href": "https://mastforcongress.com/clean-water-results-you-can-measure/"
+},
+{
+"text": "Contact",
+"href": "https://mastforcongress.com/contact/"
+},
+{
+"text": "Defending Life",
+"href": "https://mastforcongress.com/priorities/life/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/mast-for-congress/donate"
+},
+{
+"text": "Drain The Swamp",
+"href": "https://mastforcongress.com/priorities/swamp/"
+},
+{
+"text": "Ensuring Care for Seniors",
+"href": "https://mastforcongress.com/priorities/seniors/"
+},
+{
+"text": "Fighting For Clean Water",
+"href": "https://mastforcongress.com/priorities/water/"
+},
+{
+"text": "From The Blog",
+"href": "https://mastforcongress.com/blog/"
+},
+{
+"text": "Improving Care for Veterans",
+"href": "https://mastforcongress.com/priorities/veterans/"
+},
+{
+"text": "Limited Edition: Team Mast Salute Hat - $35",
+"href": "https://mastforcongress.com/shop/limited-edition-brian-mast-salute-hat/"
+},
+{
+"text": "Making Healthcare More Affordable",
+"href": "https://mastforcongress.com/priorities/healthcare/"
+},
+{
+"text": "Meet Brian",
+"href": "https://mastforcongress.com/meet-brian/"
+},
+{
+"text": "Petition: Pass the SAVE America Act [image: Pass the SAVE America Act]",
+"href": "https://mastforcongress.com/petition/save-act/"
+},
+{
+"text": "Priorities",
+"href": "https://mastforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mastforcongress.com/privacy-policy/"
+},
+{
+"text": "Protecting The Second Amendment",
+"href": "https://mastforcongress.com/priorities/second-amendment/"
+},
+{
+"text": "Put Veterans in the Driver’s Seat",
+"href": "https://mastforcongress.com/put-veterans-in-the-drivers-seat/"
+},
+{
+"text": "Read More",
+"href": "https://mastforcongress.com/56-days-one-mission/"
+},
+{
+"text": "Read More",
+"href": "https://mastforcongress.com/clean-water-results-you-can-measure/"
+},
+{
+"text": "Read More",
+"href": "https://mastforcongress.com/put-veterans-in-the-drivers-seat/"
+},
+{
+"text": "Read More",
+"href": "https://mastforcongress.com/what-service-before-self-means-to-me/"
+},
+{
+"text": "Safer And Stronger Communities",
+"href": "https://mastforcongress.com/priorities/community/"
+},
+{
+"text": "Shop",
+"href": "https://mastforcongress.com/shop/"
+},
+{
+"text": "Shop All Products",
+"href": "https://mastforcongress.com/shop/"
+},
+{
+"text": "Supporting our Ally Israel",
+"href": "https://mastforcongress.com/priorities/israel/"
+},
+{
+"text": "Survey: What Issues Are Most Important To You? [image: Survey]",
+"href": "https://mastforcongress.com/priorities/"
+},
+{
+"text": "Take Action",
+"href": "https://mastforcongress.com/take-action/"
+},
+{
+"text": "Tax Cuts And Jobs",
+"href": "https://mastforcongress.com/priorities/tax/"
+},
+{
+"text": "What Service Before Self Means To Me",
+"href": "https://mastforcongress.com/what-service-before-self-means-to-me/"
+},
+{
+"text": "Where We Stand White Cotton T-Shirt - $34",
+"href": "https://mastforcongress.com/shop/where-we-stand-white-cotton-t-shirt/"
+},
+{
+"text": "Where We Stand White T-Shirt - $28",
+"href": "https://mastforcongress.com/shop/where-we-stand-white-t-shirt/"
+},
+{
+"text": "[image: Limited Edition: Team Mast Salute Hat]",
+"href": "https://mastforcongress.com/shop/limited-edition-brian-mast-salute-hat/"
+},
+{
+"text": "[image: Mast for Congress]",
+"href": "https://mastforcongress.com"
+},
+{
+"text": "[image: Where We Stand White Cotton T-Shirt]",
+"href": "https://mastforcongress.com/shop/where-we-stand-white-cotton-t-shirt/"
+},
+{
+"text": "[image: Where We Stand White T-Shirt]",
+"href": "https://mastforcongress.com/shop/where-we-stand-white-t-shirt/"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrianMastFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrianMastFL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFHmV3VcjZxOEFeTitzUszQ"
+},
+{
+"text": "terms & privacy policy",
+"href": "https://mastforcongress.com/privacy-policy/"
+}
 ]

@@ -1,25 +1,154 @@
 [
-"https://bsky.app/profile/samforstag.bsky.social",
-"https://facebook.com/people/Sam-Forstag/61585766866234",
-"https://instagram.com/samforstag",
-"https://mobilize.us/samformontana",
-"https://samformontana.com/",
-"https://samformontana.com/cdn-cgi/l/email-protection",
-"https://samformontana.com/endorsements",
-"https://samformontana.com/in-the-news",
-"https://samformontana.com/jobs",
-"https://samformontana.com/media",
-"https://samformontana.com/policies",
-"https://samformontana.com/privacy-policy",
-"https://samformontana.com/volunteer",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/sf-web",
-"https://secure.actblue.com/donate/sf-web?amount=200",
-"https://secure.actblue.com/donate/sf-web?amount=25",
-"https://secure.actblue.com/donate/sf-web?amount=500",
-"https://secure.actblue.com/donate/sf-web?amount=75",
-"https://store.samformontana.com/",
-"https://tiktok.com/@sam.forstag",
-"https://x.com/SamForstag",
-"https://youtube.com/@SamForstag"
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/sf-web?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sf-web?amount=25"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/sf-web?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/sf-web?amount=75"
+},
+{
+"text": "All policies",
+"href": "https://samformontana.com/policies/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sf-web"
+},
+{
+"text": "Endorsements",
+"href": "https://samformontana.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/samformontana/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Sam-Forstag/61585766866234/"
+},
+{
+"text": "Finally Fix Our Broken Immigration System",
+"href": "https://samformontana.com/policies/#immigration"
+},
+{
+"text": "Get Involved",
+"href": "https://samformontana.com/volunteer/"
+},
+{
+"text": "Get Money Out Of Politics",
+"href": "https://samformontana.com/policies/#money"
+},
+{
+"text": "Home",
+"href": "https://samformontana.com/"
+},
+{
+"text": "In The News",
+"href": "https://samformontana.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/samforstag/"
+},
+{
+"text": "Jobs",
+"href": "https://samformontana.com/jobs/"
+},
+{
+"text": "Make Childcare and Education Work for Working People",
+"href": "https://samformontana.com/policies/#education"
+},
+{
+"text": "Make Healthcare Work for Working People",
+"href": "https://samformontana.com/policies/#healthcare"
+},
+{
+"text": "Make Housing Work for Working People",
+"href": "https://samformontana.com/policies/#housing"
+},
+{
+"text": "Make Retirement Work for All of Us",
+"href": "https://samformontana.com/policies/#retirement"
+},
+{
+"text": "Make Taxes Work for Working People",
+"href": "https://samformontana.com/policies/#taxes"
+},
+{
+"text": "Media",
+"href": "https://samformontana.com/media/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/sf-web"
+},
+{
+"text": "Policies",
+"href": "https://samformontana.com/policies/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://samformontana.com/privacy-policy/"
+},
+{
+"text": "Raise Wages and Strengthen Unions",
+"href": "https://samformontana.com/policies/#wages"
+},
+{
+"text": "Reinvest in Public Lands and Reinvigorate Public Service",
+"href": "https://samformontana.com/policies/#public-lands"
+},
+{
+"text": "Sam Forstag for Montana",
+"href": "https://samformontana.com/"
+},
+{
+"text": "Sign Up",
+"href": "https://samformontana.com/volunteer/"
+},
+{
+"text": "Store",
+"href": "https://store.samformontana.com/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@sam.forstag"
+},
+{
+"text": "Volunteer",
+"href": "https://samformontana.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/SamForstag"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@SamForstag"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@samformontana.com"
+},
+{
+"text": "[image: Campaign log for Sam Forstag for Montana, depicting his name next to a mountain with a sunset in the background]",
+"href": "https://samformontana.com"
+},
+{
+"text": "[image]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/samforstag.bsky.social"
+}
 ]

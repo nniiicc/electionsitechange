@@ -1,21 +1,32 @@
-ICYMI
-Independent Seth Bodnar Joins Michael Smerconish on Sirius XM
-MISSOULA, MT — In case you missed it, Independent U.S.
+Skip navigation menu About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate About Issues News Events Get Involved Endorsements Store Seth's Record at UM Donate WATCH YouTube: The Outsider Outrunning Every Candidate in Montana LISTEN Montana Public Radio, Q&A: Seth Bodnar, independent U.S.
+Senate candidate PRess Release Bodnar Campaign Statement on ‘Puppet’ Alme’s Nomination WATCH Independent Americans: Seth Bodnar, Independent Vet For Senate from Montana PRESS RELEASE Bodnar Campaign Surpasses 20,000 Accepted Signatures, Cementing Path to November Ballot READ Seth Bodnar: With Authority Must Come Responsibility PRESS RELEASE Racicot, Tester, Baucus, Geise, Bradley, Buchanan Endorse Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE End Citizens United Endorses Independent Seth Bodnar for U.S.
+Senate in Montana PRESS RELEASE On Dobbs Anniversary, Independent Seth Bodnar Reaffirms Commitment to Montanans' Freedom and Privacy PRESS RELEASE Montana AFL-CIO Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Air Force Veteran and "Country First" Leader Adam Kinzinger Endorses Seth Bodnar for U.S.
+Senate PRESS RELEASE Bodnar Campaign Raises Nearly $1.9 Million in Q2, Building on Grassroots Coalition Momentum READ Making the Montana Way of Life a Reality Again PRESS RELEASE Bodnar Campaign Releases “Independent”, First TV Ad of Independent Campaign for U.S.
+Senate PRESS RELEASE Independent Seth Bodnar Releases DD 214, Calls for Full Transparency in Montana's Senate Race PRESS RELEASE VoteVets Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Bodnar Releases "Making Themselves Rich," New TV Ad Calling Out The Monopolies and Corruption PRESS RELEASE Independent Veterans of America Endorses Seth Bodnar for U.S.
+Senate NEWS ARTICLE Bodnar Campaign Releases "Montana First: Veteran's Agenda" PRESS RELEASE Independent Seth Bodnar Will Fight to End the VA Hiring Crisis in Montana PRESS RELEASE Veterans Across the Political Spectrum Back Independent Seth Bodnar ICYMI Montana Author and Former U.S.
+Ambassador Backs Bodnar for Senate ICYMI Seth Bodnar Talks with Alex Wagner on Runaway Country PRESS RELEASE ICYMI: Bodnar Campaign Outlines Path to Victory in November PRESS RELEASE Bodnar Campaign Releases New TV Ad “Boxes” PRESS RELEASE Statement from the Campaign of Independent Seth Bodnar PRESS RELEASE Statement from Montana’s Independent U.S.
+Senate Candidate Seth Bodnar PRESS RELEASE Seth Bodnar Affirms His Commitment To Independent Campaign for Montana's U.S.
+Senate Seat PRESS RELEASE ICYMI: SEIU 775 Montana Members Endorse Independent U.S.
+Senate Candidate Seth Bodnar PRESS RELEASE Montana Federation of Public Employees Endorses Independent Seth Bodnar for U.S.
+Senate PRESS RELEASE Independent Seth Bodnar Opposes Sheep Creek Mine: “Not Going To Stand For It” ICYMI “People Are Hungry for Change”: Seth Bodnar Joins Money Power Politics with Stephanie Ruhle PRESS RELEASE Seth Bodnar Slams Beef Import Plan: “Outrageous Attack on Montana Ranchers” PRESS RELEASE Bodnar Calls for Mandatory Country of Origin Labeling, Blasts Plan to Flood Market with Foreign Imports READ Read in Full: Protect Montana: AI Pledge PRESS RELEASE Independent Seth Bodnar Signs “Protect Montana: AI Pledge,” Vows to Fight Data Centers and Hold AI Companies Accountable READ ICYMI: Independent Seth Bodnar Will Fight AI Data Centers, Hold Big Tech Accountable WATCH Independent Seth Bodnar on MeidasTouch: “Montana deserves a senator who doesn't work for Chuck Schumer, and who's not afraid of Donald Trump” READ ICYMI: Bankhead and Alme Stay Silent As “Trump's Beef Import Plan Rankles Montana Farmers” READ The Monitor: After tug-of-war, Bodnar calls for unity WATCH Independent Seth Bodnar Joins Charlie Sykes on To the Contrary PRESS RELEASE Seth Bodnar Statement on Labor Day ICYMI Independent Seth Bodnar Joins Jon Tester and Maritsa Georgiou on Grounded Podcast ICYMI Independent Seth Bodnar Joins Michael Smerconish on Sirius XM READ Read in Full: Seth Bodnar's Montana First Health Care Agenda PRESS RELEASE Independent Seth Bodnar Releases His "Montana First Health Care Agenda" to Lower Costs, Expand Access, Take on Corruption, and Protect Rural Health PRESS RELEASE Seth Bodnar Statement on the 25th Anniversary of the September 11 Terrorist Attacks PRESS RELEASE NEW POLL: Independent Seth Bodnar Gaining Ground, Winning Montana's Largest Voting Bloc and a Majority of Democrats PRESS RELEASE "Flock Off": Independent Seth Bodnar Takes Aim at Data Privacy in New Video ICYMI ICYMI: Independent Seth Bodnar’s “Wild New Ad” Turns Heads Online ICYMI “They’re Watching”: Independent Seth Bodnar’s Viral Video Sparks National Debate About Flock Cameras PRESS RELEASE Statement from Independent Candidate Seth Bodnar on Reporting Showing Destruction at U.S.
+Bases in Saudi Arabia and Kuwait In the news Glasgow Courier: Disenchanted With The Two-Party System, Voters Consider Seth Bodnar's Pitch PRESS RELEASE Planned Parenthood Action Fund Endorses Independent Seth Bodnar for Senate PRESS RELEASE Democrat Alani Bankhead Attended Pro-MAGA Megachurch, Released Book with Far-Right Publisher ICYMI ICYMI: Independent Seth Bodnar Endorsed by Planned Parenthood Action Fund PRESS RELEASE Independent Seth Bodnar’s Campaign Gains Steam in Final Weeks of Montana’s U.S.
+Senate Race ICYMI “We are gaining momentum”: Independent Seth Bodnar on CNN's Inside Politics ICYMI NRSC Tries and Fails to Censor Kurt Alme’s Shocking Record of Refusing to Prosecute Sex Crimes ICYMI Independent Seth Bodnar Blasts Kurt Alme’s Blind Support for Costly and Unauthorized War in Iran PRESS RELEASE Reproductive Freedom for All Endorses Independent Seth Bodnar for U.S.
+Senate in Montana PRESS RELEASE Veterans for All Voters Action Endorses Independent Seth Bodnar for U.S.
+Senate in Montana icymi Independent Seth Bodnar on CNN: "The Question We Should Be Asking Isn't What's Good for Republicans or Democrats.
+It's What's Good for the Country." PRESS RELEASE Former Montana Governor Steve Bullock Endorses Independent Candidate Seth Bodnar for U.S.
+Senate ICYMI Montana Voices: Bodnar “Will bring positive change,” Bankhead is “A Democrat in name only, ”Alme was “Forced down our throats by the Republican Party” Sep 8 2026 ICYMI Independent Seth Bodnar Joins Michael Smerconish on Sirius XM MISSOULA, MT — In case you missed it, Independent U.S.
 Senate candidate Seth Bodnara joined Michael Smerconish on Sirius XM for a wide-ranging conversation on why he’s running, why he’ll refuse to caucus with either party, and why he believes both parties have taken Montana voters for granted.
-Watch the full interview here.
-Below are key excerpts:
-Can an Independent Actually Win a Senate Seat?
-The Michael Smerconish Program
-September 2, 2026
-ON WHY HE'S RUNNING
-“Three reasons: two of them just turned 16, and one of them's 12.
+Watch the full interview here .
+Below are key excerpts: Can an Independent Actually Win a Senate Seat?
+The Michael Smerconish Program September 2, 2026 ON WHY HE'S RUNNING “Three reasons: two of them just turned 16, and one of them's 12.
 I have three kids.
 My wife and I decided we could no longer stand aside and watch this country descend into chaos, descend deeper into debt, and watch our kids inherit a United States of America that's less prosperous, less secure, a country in which they have fewer rights than we did.
 It's a moral failure.
 My wife and I decided we had to step up, because our system is broken.
-We see leaders working to divide us and distract us, not addressing the major challenges we face as a country.”
-ON RUNNING AS AN INDEPENDENT
-“Our system's broken right now.
+We see leaders working to divide us and distract us, not addressing the major challenges we face as a country.” ON RUNNING AS AN INDEPENDENT “Our system's broken right now.
 I see toxic partisan warfare happening in Washington D.C. while nothing gets done, and the casualties in that trench warfare are the people of this state and this country.
 We need leadership that's willing to work with either side when it makes sense, and stand up to either side when it doesn't.
 We need political competition in this country.
@@ -25,9 +36,7 @@ We wouldn't.
 So why do we accept that in American politics today?
 Forty-seven percent of Americans identify as Independent, yet they don't have a single Independent U.S. senator who doesn't caucus with either party.
 Forty-seven percent of Americans are effectively unrepresented.
-We need to change that.”
-ON THE NATIONAL DEBT
-“It's a number you can't even conceptualize.
+We need to change that.” ON THE NATIONAL DEBT “It's a number you can't even conceptualize.
 We heard in January 2025, and throughout the campaign, that we were going to drive down the debt.
 It's gone up by $4 trillion since last January.
 A trillion is a number we can't fathom, so the number I talk about on the campaign trail is $119,000.
@@ -36,45 +45,33 @@ When I was a kid in the 70s, it was $3,000.
 This is a disgrace, it's dishonorable.
 We see politicians in D.C. spending like drunken sailors, a gilded ballroom, a restarted arch, reflecting pools, billions of dollars a day in Iran on a war we don't have a strategy for.
 Meanwhile we're passing the buck to our kids.
-It's a complete moral failure, and it's going to take both parties working together, with some Independent leadership, to say: we need to lock arms and lean into the hard decisions we have to make as a country for our kids.”
-ON NOT CAUCUSING WITH EITHER PARTY
-“I don't intend to caucus with either party.
+It's a complete moral failure, and it's going to take both parties working together, with some Independent leadership, to say: we need to lock arms and lean into the hard decisions we have to make as a country for our kids.” ON NOT CAUCUSING WITH EITHER PARTY “I don't intend to caucus with either party.
 The problem right now is that elected leaders run, talk to their voters, go to D.C., and put a jersey on, a blue one with a D or a red one with an R, and that becomes the team they fight for.
 I'm not going to go to the lunch meetings with either party.
 I'm going to work with other Independent-minded senators, hopefully we get a few more Independents in there, and also with folks who are more moderate within their own parties, to form an Independent bloc of votes that moves common sense legislation forward.
 We've talked about a solutions caucus.
-How about a common sense caucus, an Independent caucus, where our first and foremost loyalty is not to a party brand but to our voters and to the country.”
-ON INDEPENDENCE AND ACCOUNTABILITY
-“It's not even about power, it's about how we move things forward.
+How about a common sense caucus, an Independent caucus, where our first and foremost loyalty is not to a party brand but to our voters and to the country.” ON INDEPENDENCE AND ACCOUNTABILITY “It's not even about power, it's about how we move things forward.
 One of my favorite presidents is Harry Truman.
 People remember him for "the buck stops here," and that's a great quote, accountability matters.
 As a platoon leader in the 101st Airborne Division, I was responsible for everything that happened or failed to happen in that platoon.
 But the Truman quote I like even more is: "It's amazing what you can accomplish when nobody cares who gets the credit." Our problem in American politics today is that the parties spend all their time fighting over blame or credit, not outcomes.
 We need leaders who focus on outcomes regardless of who gets the credit.
 That's what our kids deserve.
-ON DATA CENTERS AND AI
-“It's like any issue, I'm against anything that happens to Montana communities without their involvement.
+ON DATA CENTERS AND AI “It's like any issue, I'm against anything that happens to Montana communities without their involvement.
 I'm against anything that threatens our water, our habitat, our wildlife, our Montana way of life.
 I'm against anything that drives up utility rates for hardworking ratepayers across this state.
 These redacted agreements getting struck in the middle of the night and thrust upon Montana communities, that's not okay.
-Any big tech company that wants to come in and do that without engaging the community, I'm against that.”
-“At the same time, we can't bury our heads in the sand and pretend the technology of today, that AI, doesn't exist.
+Any big tech company that wants to come in and do that without engaging the community, I'm against that.” “At the same time, we can't bury our heads in the sand and pretend the technology of today, that AI, doesn't exist.
 We've got to fight for common sense guardrails: how do we do this responsibly while protecting American workers, protecting our kids, putting safeguards in place, protecting Montana communities, and still competing globally with countries like China.
 We need leaders who will fight and push to get those guardrails in place.
-Right now we don't have them, and a lot of Montanans are at risk of being taken advantage of.”
-ON PROTECTING MONTANANS FROM BEING TAKEN ADVANTAGE OF
-“We've got to make sure Montanans never get taken advantage of, never get taken for granted, and that's one of the reasons I'm running as an Independent, because I've seen our political system taking Montanans for granted.
-I look at the Republican Party, they're treating Senate elections in this state not like the competitive process at the core of our democracy, but like corporate succession plans, and corrupt ones at that.”
-“Steve Daines, the incumbent I jumped into this race to challenge, lied.
+Right now we don't have them, and a lot of Montanans are at risk of being taken advantage of.” ON PROTECTING MONTANANS FROM BEING TAKEN ADVANTAGE OF “We've got to make sure Montanans never get taken advantage of, never get taken for granted, and that's one of the reasons I'm running as an Independent, because I've seen our political system taking Montanans for granted.
+I look at the Republican Party, they're treating Senate elections in this state not like the competitive process at the core of our democracy, but like corporate succession plans, and corrupt ones at that.” “Steve Daines, the incumbent I jumped into this race to challenge, lied.
 He told Montanans he was running, running, running, until three minutes before the filing deadline, when he dropped out and tapped his buddy Kurt Alme, a Trump-appointed U.S. attorney, on the shoulder.
-Alme filed one minute before Daines dropped out, clearing the primary field and disenfranchising Montana voters.”
-“Then I look at the national Democratic Party, where Chuck Schumer has said that for every blue-collar worker they lose in rural areas, they'll gain back two in the cities and suburbs.
+Alme filed one minute before Daines dropped out, clearing the primary field and disenfranchising Montana voters.” “Then I look at the national Democratic Party, where Chuck Schumer has said that for every blue-collar worker they lose in rural areas, they'll gain back two in the cities and suburbs.
 Trading rural voters and blue-collar workers to win in the cities and suburbs is a strategy for writing Montana off.
 So yes, Montanans are absolutely at risk of being taken advantage of.
 I'm going to make sure they don't get taken advantage of.
-I'm going to make sure they have the representation they deserve.”
-ON THE STATE OF THE RACE
-“Would it be easier if one of my opponents dropped out?
+I'm going to make sure they have the representation they deserve.” ON THE STATE OF THE RACE “Would it be easier if one of my opponents dropped out?
 Sure.
 Easier if they both dropped out?
 Sure.
@@ -88,4 +85,6 @@ The polls are narrowing for us, getting closer.
 Would it be easier if one or both candidates dropped out?
 Absolutely.
 But that's not the point of democracy.
-The point of democracy is to show up and earn those votes, and we have a clear path that I feel really good about for November.”
+The point of democracy is to show up and earn those votes, and we have a clear path that I feel really good about for November.” Contact Privacy Policy MEDIA Use of his military rank, job titles and photographs in uniform does not imply endorsement by the U.S.
+Army or the Department of Defense.
+Seth for Montana | PO Box 7188, Missoula, MT 59807 Powered by RUN! website builder Paid for by Seth Bodnar for Montana You need to enable JavaScript to run this app.

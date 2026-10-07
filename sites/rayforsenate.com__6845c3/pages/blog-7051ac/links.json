@@ -1,13 +1,50 @@
 [
-"http://x.com/rayforsenate24",
-"http://youtube.com/channel/UCrA_OCEiSPiRM-Gu1RYYkNg",
-"https://facebook.com/profile.php?id=61593875879414",
-"https://rayforsenate.com/",
-"https://rayforsenate.com/about-the-campaign",
-"https://rayforsenate.com/about-the-candidate",
-"https://rayforsenate.com/blog",
-"https://rayforsenate.com/cart",
-"https://rayforsenate.com/constituent-responses",
-"https://rayforsenate.com/monday",
-"https://rayforsenate.com/philosophy"
+{
+"text": "0",
+"href": "https://www.rayforsenate.com/cart"
+},
+{
+"text": "About the Campaign",
+"href": "https://www.rayforsenate.com/about-the-campaign"
+},
+{
+"text": "About the Candidate",
+"href": "https://www.rayforsenate.com/about-the-candidate"
+},
+{
+"text": "Constituent Responses",
+"href": "https://www.rayforsenate.com/constituent-responses"
+},
+{
+"text": "Meet Me Monday",
+"href": "https://www.rayforsenate.com/monday"
+},
+{
+"text": "Political Philosophy",
+"href": "https://www.rayforsenate.com/philosophy"
+},
+{
+"text": "Weekly Observations",
+"href": "https://www.rayforsenate.com/blog"
+},
+{
+"text": "[image: Raymond Petersen for Senate]",
+"href": "https://www.rayforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/channel/UCrA_OCEiSPiRM-Gu1RYYkNg"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/rayforsenate24"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61593875879414"
+},
+{
+"text": "[no text]",
+"href": "mailto:ray@rayforsenate.com"
+}
 ]

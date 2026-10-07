@@ -1,10 +1,14 @@
+0 Newsletter Archive Volunteer Store Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive news and updates.
+First Name Last Name Email Address YES, KEEP ME UPDATED!
+Thank you!
 I’m focused on Idaho’s future.
 Will you join me?
 Please, take sixty seconds to fill out the Idaho Homeowner Insurance Survey.
-This campaign is powered by everyday Idahoans like you.
-“Your demonstrated commitment to advancing reproductive health, rights, and justice distinguishes you as a strong partner in this work, and we look forward to supporting your campaign.”
-- Planned Parenthood Alliance Advocates
-I am pleased to have received CVI’s political endorsement for the 2026 Election Cycle, as well the Public Lands Defender Award.
+Doorknock With Me!
+Homeowners Insurance Survey This campaign is powered by everyday Idahoans like you.
+DONATE $35 DONATE $75 DONATE $100 DONATE ANOTHER AMOUNT SIGN UP TO VOLUNTEER “ Your demonstrated commitment to advancing reproductive health, rights, and justice distinguishes you as a strong partner in this work, and we look forward to supporting your campaign.” Planned Parenthood Alliance Advocates I am pleased to have received CVI’s political endorsement for the 2026 Election Cycle, as well the Public Lands Defender Award.
 A legacy of service.
 A focus on the future.
 Hello!
@@ -23,19 +27,24 @@ I’d love to hear from you!
 Send me a message with any questions or comments.
 You can use this form to send me a message!
 I want to know what questions and concerns you have so I can better represent our neighborhood and our district in the Idaho Legislature.
-As promised, in the Idaho Legislature, I have committed to:
-- Prioritize fully funded K-12 education, pre-k investment, and ensuring affordable and equitable access to higher education and technical schools.
-- Partnering with pro-public education policymakers to secure state funding for Career and Technical Education (CTE) endorsements for current Idaho teachers.
-- Building a statewide coalition to replicate and expand the Boise School District’s early childhood programs, with a focus on including qualified educators in every phase of implementation and evaluation.
-- Advancing land conservation and healthy environmental policies while promoting Idaho-grown, sustainable, science-based agricultural products and practices.
-- Working with policymakers in impacted communities to attain a local tax option for cities and counties to meet the needs of their constituents and safeguard Idaho’s most valued resources - children, the elderly, public health, and the environment.
-- Promoting economic development that values workers’ rights, uplifts small businesses, and drives sustainable growth throughout our state.
-- Expanding access to affordable healthcare, including mental health services, complete reproductive care, elder care, and preventive medicine.
-- Speaking up for the dignity, privacy, and essential human rights of Idahoans.
-- Defending voting rights and safeguarding access to the ballot for every generation of voters.
-- Supporting housing policies that ensure every Idahoan, regardless of background, has access to safe, abundant, and affordable housing.
-- Protecting our clean air, clean water, and access to Idaho’s cherished public lands.
+Rep.
+Chris Mathias “Monica’s background in education and many years of community service will be an invaluable asset to the people of District 19, and every corner of Idaho.
+We need her experience and tenacity defending our values at the Statehouse” Sen.
+Melissa Wintrow “I’ve worked with Monica for over a decade engaging youth and community members in civic life.
+I’ve known her to be a fierce advocate for Idahoans and democratic values.
+There is no question she loves this Great State, and she is exactly the kind of voice we need in the legislature.” Rep.
+Lauren Necochea I'm thrilled that Monica Church has stepped up to run for my seat in District 19!
+She is a proven leader who will represent us very well.
+Mom's Demand Action Gun Sense Candidate Idaho Education Association Political Action Committee for Education Planned Parenthood Alliance Advocates Conservation Voters for Idaho As promised, in the Idaho Legislature, I have committed to: Prioritize fully funded K-12 education, pre-k investment, and ensuring affordable and equitable access to higher education and technical schools.
+Partnering with pro-public education policymakers to secure state funding for Career and Technical Education (CTE) endorsements for current Idaho teachers.
+Building a statewide coalition to replicate and expand the Boise School District’s early childhood programs, with a focus on including qualified educators in every phase of implementation and evaluation.
+Advancing land conservation and healthy environmental policies while promoting Idaho-grown, sustainable, science-based agricultural products and practices.
+Working with policymakers in impacted communities to attain a local tax option for cities and counties to meet the needs of their constituents and safeguard Idaho’s most valued resources - children, the elderly, public health, and the environment.
+Promoting economic development that values workers’ rights, uplifts small businesses, and drives sustainable growth throughout our state.
+Expanding access to affordable healthcare, including mental health services, complete reproductive care, elder care, and preventive medicine.
+Speaking up for the dignity, privacy, and essential human rights of Idahoans.
+Defending voting rights and safeguarding access to the ballot for every generation of voters.
+Supporting housing policies that ensure every Idahoan, regardless of background, has access to safe, abundant, and affordable housing.
+Protecting our clean air, clean water, and access to Idaho’s cherished public lands.
 Paid for by Monica C.
-Church for Idaho / Kelly Andrus, Treasurer
-PO Box 8843
-Boise, ID 83707
+Church for Idaho / Kelly Andrus, Treasurer PO Box 8843 Boise, ID 83707 Paid for by Monica Church for Idaho | Kelly Andrus, Treasurer

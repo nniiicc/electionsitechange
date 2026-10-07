@@ -1,8 +1,30 @@
 [
-"https://dickey4alabama.com/",
-"https://dickey4alabama.com/about",
-"https://dickey4alabama.com/contact",
-"https://dickey4alabama.com/httpssecureactbluecomdonatejohn-dickey-1",
-"https://dickey4alabama.com/issues",
-"https://facebook.com/"
+{
+"text": "About",
+"href": "https://dickey4alabama.com/about"
+},
+{
+"text": "Contact",
+"href": "https://dickey4alabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://dickey4alabama.com/httpssecureactbluecomdonatejohn-dickey-1"
+},
+{
+"text": "Home",
+"href": "https://dickey4alabama.com/"
+},
+{
+"text": "Issues",
+"href": "https://dickey4alabama.com/issues"
+},
+{
+"text": "John for State Senate",
+"href": "https://dickey4alabama.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+}
 ]

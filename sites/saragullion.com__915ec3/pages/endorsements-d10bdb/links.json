@@ -1,26 +1,98 @@
 [
-"https://ballotpedia.org/Indiana",
-"https://cmwcarpenters.com/",
-"https://dlcc.org/races",
-"https://facebook.com/SaraforIN34",
-"https://in.aft.org/",
-"https://in.gov/sos/elections/voter-information/register-to-vote",
-"https://inaflcio.org/",
-"https://indianacoalitionforpubliced.org/",
-"https://inreproductivefreedompac.org/",
-"https://ipace-in.org/",
-"https://madvoters.org/",
-"https://momsdemandaction.org/",
-"https://muncieresists.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-alliance-advocates",
-"https://region2b.uaw.org/",
-"https://saragullion.com/",
-"https://saragullion.com/about",
-"https://saragullion.com/cart",
-"https://saragullion.com/contact",
-"https://saragullion.com/endorsements",
-"https://saragullion.com/get-involved",
-"https://saragullion.com/keyissues",
-"https://saragullion.com/sue-errington",
-"https://secure.actblue.com/donate/sara-gullion-1"
+{
+"text": "0",
+"href": "https://www.saragullion.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.saragullion.com/about"
+},
+{
+"text": "BallotPedia Indiana",
+"href": "https://ballotpedia.org/Indiana"
+},
+{
+"text": "Contact",
+"href": "https://www.saragullion.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sara-gullion-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.saragullion.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.saragullion.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.saragullion.com/keyissues"
+},
+{
+"text": "Register to vote or check your status",
+"href": "https://www.in.gov/sos/elections/voter-information/register-to-vote/"
+},
+{
+"text": "Sara Gullion",
+"href": "https://www.saragullion.com/"
+},
+{
+"text": "[image: AFT Indiana is happy to announce its endorsement of Sara Gullion. (5).png]",
+"href": "https://www.saragullion.com/sue-errington"
+},
+{
+"text": "[image: AFT Indiana is happy to announce its endorsement of Sara Gullion..png]",
+"href": "https://in.aft.org/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (3).png]",
+"href": "https://www.dlcc.org/races/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (4).png]",
+"href": "https://inaflcio.org/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (5).png]",
+"href": "https://ipace-in.org/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (6).png]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (7).png]",
+"href": "https://www.cmwcarpenters.com/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion. (8).png]",
+"href": "https://region2b.uaw.org/"
+},
+{
+"text": "[image: Endorsement of Sara Gullion..png]",
+"href": "https://www.inreproductivefreedompac.org/"
+},
+{
+"text": "[image: IMG_7015.jpeg]",
+"href": "https://www.madvoters.org/"
+},
+{
+"text": "[image: IN_PPAA_Endorsed_Badge.jpg]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-alliance-advocates"
+},
+{
+"text": "[image: MR Endorsement (5).png]",
+"href": "https://www.muncieresists.org/"
+},
+{
+"text": "[image: Sara Gullion .png]",
+"href": "https://indianacoalitionforpubliced.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraforIN34/"
+}
 ]

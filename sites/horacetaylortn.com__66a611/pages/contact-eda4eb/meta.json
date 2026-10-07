@@ -1,7 +1,11 @@
 {
- "description": "Send a message to the Horace Taylor for Congress campaign \u2014 questions, press inquiries, event invitations, and endorsements across Tennessee's 8th District.",
+ "description": "Send a message to the Horace Taylor for Congress campaign — questions, press inquiries, event invitations, and endorsements across Tennessee's 8th District.",
  "final_url": "https://horacetaylortn.com/contact",
+ "fingerprint": "bd6bffe92fc721e6e906f3914bc74812ea389dcf",
+ "format": 3,
  "paid_for_by": "Paid for by Horace Taylor for Congress",
  "title": "Contact the Campaign | Horace Taylor for Congress, TN-8",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

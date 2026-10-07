@@ -1,4 +1,4 @@
-David Boyd is a father and a resident of Franklin Township in Southeast Indianapolis.
+Home Meet David Priorities Volunteer YARD SIGN Donate More Home Meet David Priorities Volunteer YARD SIGN Donate Home Meet David Priorities Volunteer YARD SIGN Donate MEET DAVID David Boyd is a father and a resident of Franklin Township in Southeast Indianapolis.
 As a multi-state licensed catastrophe insurance adjuster, he responds to customers directly affected by hurricanes, floods, hailstorms, and wildfires.
 David is a former federal officer with the United States Department of Homeland Security (DHS) and a former field representative with the U.S.
 Census Bureau.
@@ -16,4 +16,4 @@ David is currently an insurance adjuster with experience handling specialty prop
 David specializes in inspecting and adjusting property damage claims for automobiles, motorcycles, recreational vehicles, boats, motorhomes, and heavy equipment.
 David is married to his wife Constance, and they share two daughters.
 David enjoys being an advocate for others and is a member of a local Christian church.
-Copyright © 2026 BOYDFORINDIANA ALL RIGHTS RESERVED
+Copyright © # BOYDFORINDIANA ALL RIGHTS RESERVED

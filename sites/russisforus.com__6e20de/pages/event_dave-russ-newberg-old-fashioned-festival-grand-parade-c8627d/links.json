@@ -1,27 +1,150 @@
 [
-"http://facebook.com/russisforus",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260725T000000%2F20260725T235959&text=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&details=%3Cstrong%3EDavid+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.%3C%2Fstrong%3E+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.%3Ch2%3EEvent+Details%3C%2Fh2%3E%3Cul%3E+%09%3Cli%3E%3Cstrong%3EDate%3A%3C%2Fstrong%3E+Saturday%2C+July+25%2C+2026%3C%2Fli%3E+%09%3Cli%3E%3Cstrong%3ETime%3A%3C%2Fstrong%3E+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT%3C%2Fli%3E+%09%3Cli%3E%3Cstrong%3EStarting+point%3A%3C%2Fstrong%3E+Renne+Field%2C+Newberg%2C+Oregon%3C%2Fli%3E%3C%2Ful%3ECome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.%3Ca+href%3D%22https%3A%2F%2Fwww.newbergoldfashionedfestival.org%22+target%3D%22_blank%22+rel%3D%22noopener%22%3ELearn+more+about+the+Newberg+Old+Fashioned+Festival%3C%2Fa%3E&trp=false&ctz=America%2FLos_Angeles&sprop=website%3Ahttps%3A%2F%2Frussisforus.com",
-"https://instagram.com/russisforus?igsh=MW8wbzQzNnkzY2IzdQ%3D%3D",
-"https://newbergoldfashionedfestival.org/",
-"https://op1776.com/",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-07-25T00%3A00%3A00-07%3A00&enddt=2026-07-25T00%3A00%3A00&subject=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&body=David+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.Event+Details+%09Date%3A+Saturday%2C+July+25%2C+2026+%09Time%3A+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT+%09Starting+point%3A+Renne+Field%2C+Newberg%2C+OregonCome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.Learn+more+about+the+Newberg+Old+Fashioned+Festival",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-07-25T00%3A00%3A00-07%3A00&enddt=2026-07-25T00%3A00%3A00&subject=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&body=David+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.Event+Details+%09Date%3A+Saturday%2C+July+25%2C+2026+%09Time%3A+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT+%09Starting+point%3A+Renne+Field%2C+Newberg%2C+OregonCome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.Learn+more+about+the+Newberg+Old+Fashioned+Festival",
-"https://russisforus.com/",
-"https://russisforus.com/about-me",
-"https://russisforus.com/ask-david",
-"https://russisforus.com/ask-david-a-question",
-"https://russisforus.com/donate",
-"https://russisforus.com/event/marion-county-farm-bureau",
-"https://russisforus.com/events",
-"https://russisforus.com/events/category/campaign-events",
-"https://russisforus.com/events/category/community-events",
-"https://russisforus.com/events/category/events",
-"https://russisforus.com/faqs",
-"https://russisforus.com/news",
-"https://russisforus.com/privacy-policy",
-"https://russisforus.com/terms-of-services",
-"https://russisforus.com/virtual-rally",
-"https://russisforus.com/volunteer",
-"https://x.com/realRUSSISFORUS",
-"https://youtube.com/@russisforus-virtualrally9186"
+{
+"text": "+1 (503) 714-8086‬",
+"href": "tel:+15037148086"
+},
+{
+"text": "About",
+"href": "https://russisforus.com/about-me"
+},
+{
+"text": "About",
+"href": "https://russisforus.com/about-me/"
+},
+{
+"text": "Ask David",
+"href": "https://russisforus.com/ask-david-a-question"
+},
+{
+"text": "Ask David",
+"href": "https://russisforus.com/ask-david/"
+},
+{
+"text": "Campaign Events",
+"href": "https://russisforus.com/events/category/campaign-events/"
+},
+{
+"text": "Community Events",
+"href": "https://russisforus.com/events/category/community-events/"
+},
+{
+"text": "David Russ",
+"href": "https://op1776.com/"
+},
+{
+"text": "Donate",
+"href": "https://russisforus.com/donate"
+},
+{
+"text": "Events",
+"href": "https://russisforus.com/events"
+},
+{
+"text": "Events",
+"href": "https://russisforus.com/events/"
+},
+{
+"text": "Events",
+"href": "https://russisforus.com/events/category/events/"
+},
+{
+"text": "FAQs",
+"href": "https://russisforus.com/faqs"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/russisforus"
+},
+{
+"text": "Facebook-f",
+"href": "http://facebook.com/russisforus"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260725T000000%2F20260725T235959&text=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&details=%3Cstrong%3EDavid+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.%3C%2Fstrong%3E+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.%3Ch2%3EEvent+Details%3C%2Fh2%3E%3Cul%3E+%09%3Cli%3E%3Cstrong%3EDate%3A%3C%2Fstrong%3E+Saturday%2C+July+25%2C+2026%3C%2Fli%3E+%09%3Cli%3E%3Cstrong%3ETime%3A%3C%2Fstrong%3E+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT%3C%2Fli%3E+%09%3Cli%3E%3Cstrong%3EStarting+point%3A%3C%2Fstrong%3E+Renne+Field%2C+Newberg%2C+Oregon%3C%2Fli%3E%3C%2Ful%3ECome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.%3Ca+href%3D%22https%3A%2F%2Fwww.newbergoldfashionedfestival.org%22+target%3D%22_blank%22+rel%3D%22noopener%22%3ELearn+more+about+the+Newberg+Old+Fashioned+Festival%3C%2Fa%3E&trp=false&ctz=America%2FLos_Angeles&sprop=website%3Ahttps%3A%2F%2Frussisforus.com"
+},
+{
+"text": "Home",
+"href": "https://russisforus.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/russisforus?igsh=MW8wbzQzNnkzY2IzdQ%3D%3D"
+},
+{
+"text": "Learn more about the Newberg Old Fashioned Festival",
+"href": "https://www.newbergoldfashionedfestival.org"
+},
+{
+"text": "Marion County Farm Bureau »",
+"href": "https://russisforus.com/event/marion-county-farm-bureau/"
+},
+{
+"text": "News",
+"href": "https://russisforus.com/news"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00-07%3A00&enddt=%23T00%3A00%3A00&location=&subject=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&body=David+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.Event+Details+%09Date%3A+Saturday%2C+July+25%2C+2026+%09Time%3A+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT+%09Starting+point%3A+Renne+Field%2C+Newberg%2C+OregonCome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.Learn+more+about+the+Newberg+Old+Fashioned+Festival"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00-07%3A00&enddt=%23T00%3A00%3A00&location=&subject=David+Russ+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade&body=David+Russ+will+be+at+the+Newberg+Old+Fashioned+Festival+Grand+Parade+on+Saturday%2C+July+25%2C+from+10+a.m.+to+noon.+Join+neighbors+from+across+Newberg+for+the+festival%E2%80%99s+%E2%80%9CThen+%26amp%3B+Now%E2%80%9D+celebration+and+one+of+the+community%E2%80%99s+signature+summer+traditions.Event+Details+%09Date%3A+Saturday%2C+July+25%2C+2026+%09Time%3A+10%3A00+a.m.%E2%80%9312%3A00+p.m.+PDT+%09Starting+point%3A+Renne+Field%2C+Newberg%2C+OregonCome+say+hello%2C+enjoy+the+parade%2C+and+celebrate+Newberg+with+friends%2C+families%2C+and+neighbors.+We+look+forward+to+seeing+you+along+the+parade+route.Learn+more+about+the+Newberg+Old+Fashioned+Festival"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russisforus.com/privacy-policy"
+},
+{
+"text": "Terms of Services",
+"href": "https://russisforus.com/terms-of-services"
+},
+{
+"text": "Virtual Rally",
+"href": "https://russisforus.com/virtual-rally/"
+},
+{
+"text": "Volunteer",
+"href": "https://russisforus.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://russisforus.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/realRUSSISFORUS"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@russisforus-virtualrally9186"
+},
+{
+"text": "[image: David Russ Is For US]",
+"href": "https://russisforus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://russisforus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realRUSSISFORUS"
+},
+{
+"text": "https://www.newbergoldfashionedfestival.org",
+"href": "https://www.newbergoldfashionedfestival.org"
+},
+{
+"text": "iCalendar",
+"href": "webcal://russisforus.com/event/dave-russ-newberg-old-fashioned-festival-grand-parade/?ical=1"
+},
+{
+"text": "info@RussIsForUS.com",
+"href": "mailto:info@RussIsForUS.com"
+},
+{
+"text": "« All Events",
+"href": "https://russisforus.com/events/"
+}
 ]

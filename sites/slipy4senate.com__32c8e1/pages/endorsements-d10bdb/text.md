@@ -1,45 +1,27 @@
-Endorsements
-Endorsements
-Here’s what folks are saying about Denise Slipy!
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Endorsements Endorsements Endorsements Here’s what folks are saying about Denise Slipy!
 “We need a real fighter in St.
-Paul who puts Minnesota First— that’s why I endorse Denise Slipy in this race.”
--U.S.
-Representative Angie Craig (MN-02)
-Save the Boundary Waters Action Fund
-The Boundary Waters Canoe Area Wilderness (BWCAW) is currently threatened by proposed sulfide-ore copper mining from Antofagasta's Twin Metals project.
+Paul who puts Minnesota First— that’s why I endorse Denise Slipy in this race.” -U.S.
+Representative Angie Craig (MN-02) Save the Boundary Waters Action Fund The Boundary Waters Canoe Area Wilderness (BWCAW) is currently threatened by proposed sulfide-ore copper mining from Antofagasta's Twin Metals project.
 This mine would be established adjacent to the BWCAW, just miles from the Wilderness edge.
 Copper mining has never been done before in Minnesota, and has never been done anywhere in the world safely.
-Brainerd Trades and Labor Assembly
-The Brainerd Trades and Labor Assembly is a local grassroots federation representing organized labor unions and working families in the Brainerd Lakes area.
+Brainerd Trades and Labor Assembly The Brainerd Trades and Labor Assembly is a local grassroots federation representing organized labor unions and working families in the Brainerd Lakes area.
 Affiliated with the Minnesota AFL-CIO and the East Central Minnesota Area Labor Council, it advocates for workers' rights, organizes community events, and supports local charities.
-MN DFL Veterans's Caucus
-Veterans and Military Families Caucus of the Minnesota Democratic-Farmer Labor-Party (DFL).
+MN DFL Veterans's Caucus Veterans and Military Families Caucus of the Minnesota Democratic-Farmer Labor-Party (DFL).
 People interested in public policy issues related to military veterans, active military, their families and survivors.
-MN DFL Feminist Caucus
-We champion feminist issues and candidates within the DFL Party.
+MN DFL Feminist Caucus We champion feminist issues and candidates within the DFL Party.
 We are one of the original community organization units within the Democratic Farmer Labor (DFL) Party with a 50-year history of advancing women's issues and women's rights.
-International Brotherhood of Electrical Workers (Local 343)
-The International Brotherhood of Electrical Workers represents approximately 901,000 active members and retirees who work in a wide variety of fields, including utilities, construction, telecommunications, broadcasting, manufacturing, railroads and government.
-International Brotherhood of Electrical Workers (Local 110)
-The International Brotherhood of Electrical Workers represents approximately 901,000 active members and retirees who work in a wide variety of fields, including utilities, construction, telecommunications, broadcasting, manufacturing, railroads and government.
-MN DFL Rural Caucus
-The DFL Rural Caucus delivers DFL values in rural communities - comprehensive health care for working families, world-class K-12/pre-K education, reproductive rights, support for beginning and family farmers, support for vital main street businesses, and border-to-border broadband.
+International Brotherhood of Electrical Workers (Local 343) The International Brotherhood of Electrical Workers represents approximately 901,000 active members and retirees who work in a wide variety of fields, including utilities, construction, telecommunications, broadcasting, manufacturing, railroads and government.
+International Brotherhood of Electrical Workers (Local 110) The International Brotherhood of Electrical Workers represents approximately 901,000 active members and retirees who work in a wide variety of fields, including utilities, construction, telecommunications, broadcasting, manufacturing, railroads and government.
+MN DFL Rural Caucus The DFL Rural Caucus delivers DFL values in rural communities - comprehensive health care for working families, world-class K-12/pre-K education, reproductive rights, support for beginning and family farmers, support for vital main street businesses, and border-to-border broadband.
 We advance these values through voter engagement, outreach, and work to elect DFL candidates supporting Rural Minnesota priorities.
-MN DFL
-The purpose of the DFL Party shall be to elect candidates to public office who represent our shared values.
+MN DFL The purpose of the DFL Party shall be to elect candidates to public office who represent our shared values.
 Those shared values are embodied by our Platform and Action Agenda, and by The Charter and The Bylaws of the Democratic Party.
-Women Winning
-We are changing the face of power by activating pro-choice campaign leaders, candidates, and elected officials committed to reproductive health, rights and justice to protect the safety, dignity and bodily autonomy of Minnesotans.
-MN DFL — Stonewall
-Stonewall DFL represents the DFL in the 2SLGBTQIA+ community and represents the 2SLGBTQIA+ community in the DFL.
-Minnesota Association of Professional Employees
-MAPE is Minnesota’s largest state government union, representing more than 18,000 professional employees across state agencies and public and private institutions.
+Women Winning We are changing the face of power by activating pro-choice campaign leaders, candidates, and elected officials committed to reproductive health, rights and justice to protect the safety, dignity and bodily autonomy of Minnesotans.
+MN DFL — Stonewall Stonewall DFL represents the DFL in the 2SLGBTQIA+ community and represents the 2SLGBTQIA+ community in the DFL.
+Minnesota Association of Professional Employees MAPE is Minnesota’s largest state government union, representing more than 18,000 professional employees across state agencies and public and private institutions.
 AFSCME Council 5 is a union of more than 43,000 working Minnesotans from across the state.
 We advocate for excellence in services for the public, dignity in the workplace, and opportunity and prosperity for all workers.
-AFSCME - Council 5
-Endorsement from Candi Wilmes Greer, daughter of Denise Slipy
-Submitted by Candi Wilmes Greer, Denise Slipy’s daughter:
-“When real Americans sit down at the dinner table, they don't hold a sign up with red or blue.
+AFSCME - Council 5 Ryan Whitaker 4/23/25 Ryan Whitaker 4/23/25 Endorsement from Candi Wilmes Greer, daughter of Denise Slipy Submitted by Candi Wilmes Greer, Denise Slipy’s daughter: “When real Americans sit down at the dinner table, they don't hold a sign up with red or blue.
 They discuss the real issues.
 When polled, most of us agree on most things.
 Kids should be able to have free lunch and breakfast.
@@ -62,10 +44,7 @@ They distort and disturb our views and turn us against each other.
 It's our duty as citizens to stand up when enough is enough!
 Let Denise Slipy be your voice, Minnesota!
 I love you Mom.
-I’m proud to be your daughter!”
-Endorsement from Shelly Boeglin, sister of Denise Slipy
-Submitted by Shelly Boeglin, Denise Slipy’s sister:
-“Where to start...
+I’m proud to be your daughter!” Read More Ryan Whitaker 4/23/25 Ryan Whitaker 4/23/25 Endorsement from Shelly Boeglin, sister of Denise Slipy Submitted by Shelly Boeglin, Denise Slipy’s sister: “Where to start...
 I guess I'll start with telling you my name is Shelly and I am Denise's sister.
 I got to meet some of you last week.
 I want to thank all of you for the long hours and hard work that you are putting in to help Denise get elected.
@@ -76,8 +55,7 @@ So much energy and life that she kept them on their toes every minute of the day
 She grew into a vibrant and strong-willed young woman who knew what she wanted and went after it.
 From time to time this could get her into trouble.
 I've even had to pin her down on the floor and sit on her a few times.
-(LOL)
-She never was the kind to go with the status quo.
+(LOL) She never was the kind to go with the status quo.
 She wanted answers for everything.
 "Because I said so" was not gonna cut it - she questioned everything.
 If you could not give her a satisfactory answer, she was going to search until she found one.
@@ -98,4 +76,10 @@ You make me so proud.
 I would vote for you in a flat second if I could.
 We will be cheering you on from home.
 We love you.
-GO GET'EM NEENEE!!!!”
+GO GET'EM NEENEE!!!!” Read More Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

@@ -1,4 +1,10 @@
 [
-"https://tonydarrigo.com/community",
-"https://tonydarrigo.com/community?fcom_action=auth&redirect_to=%2Fcommunity&form=login"
+{
+"text": "Login",
+"href": "https://tonydarrigo.com/community?fcom_action=auth&redirect_to=%2Fcommunity&form=login"
+},
+{
+"text": "[image: Site logo]",
+"href": "https://tonydarrigo.com/community/"
+}
 ]

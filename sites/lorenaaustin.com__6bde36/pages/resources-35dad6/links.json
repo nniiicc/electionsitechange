@@ -1,29 +1,142 @@
 [
-"https://211arizona.org/",
-"https://azahcccs.gov/",
-"https://azuravets.org/",
-"https://des.az.gov/ddd",
-"https://des.az.gov/domestic-violence",
-"https://des.az.gov/emergency-food",
-"https://des.az.gov/erap",
-"https://des.az.gov/esap",
-"https://des.az.gov/homeless",
-"https://des.az.gov/na",
-"https://des.az.gov/services/basic-needs/adult-protective-services",
-"https://des.az.gov/services/child-and-family/child-care/grants-scholarships-program",
-"https://des.az.gov/services/child-and-family/child-care/how-apply-for-child-care-assistance",
-"https://facebook.com/LorenaAustinAZ",
-"https://instagram.com/LorenaAustinaz",
-"https://lorenaaustin.com/",
-"https://lorenaaustin.com/accomplishments",
-"https://lorenaaustin.com/contact",
-"https://lorenaaustin.com/endorsements",
-"https://lorenaaustin.com/events",
-"https://lorenaaustin.com/issues",
-"https://lorenaaustin.com/meet-lorena",
-"https://lorenaaustin.com/resources",
-"https://secure.actblue.com/donate/lorenaforaz",
-"https://turnanewleaf.org/services/financial-empowerment/mesacan",
-"https://twitter.com/LorenaAustin4Az",
-"https://unitedfoodbank.org/"
+{
+"text": "Accomplishments",
+"href": "https://www.lorenaaustin.com/accomplishments"
+},
+{
+"text": "Adult Protective Services (APS)",
+"href": "https://des.az.gov/services/basic-needs/adult-protective-services"
+},
+{
+"text": "Arizona Health Care Cost Containment System (AHCCCS)",
+"href": "https://www.azahcccs.gov/"
+},
+{
+"text": "Child Care Grants and Scholarships",
+"href": "https://des.az.gov/services/child-and-family/child-care/grants-scholarships-program"
+},
+{
+"text": "Child care Assistance",
+"href": "https://des.az.gov/services/child-and-family/child-care/how-apply-for-child-care-assistance"
+},
+{
+"text": "Contact",
+"href": "https://www.lorenaaustin.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lorenaforaz"
+},
+{
+"text": "Division of Developmental Disabilities",
+"href": "https://des.az.gov/ddd"
+},
+{
+"text": "Domestic Violence Support",
+"href": "https://des.az.gov/domestic-violence"
+},
+{
+"text": "Elderly Simplified Application Project (ESAP)",
+"href": "https://des.az.gov/esap"
+},
+{
+"text": "Emergency Rental Assistance Program",
+"href": "https://des.az.gov/erap"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lorenaaustin.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lorenaaustin.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LorenaAustinAZ/"
+},
+{
+"text": "Home",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "Homeless Services",
+"href": "https://des.az.gov/homeless"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "Issues",
+"href": "https://www.lorenaaustin.com/issues"
+},
+{
+"text": "Meet Lorena",
+"href": "https://www.lorenaaustin.com/meet-lorena"
+},
+{
+"text": "Read More >",
+"href": "https://211arizona.org/"
+},
+{
+"text": "Read More >",
+"href": "https://www.azuravets.org/"
+},
+{
+"text": "Read More >",
+"href": "https://www.turnanewleaf.org/services/financial-empowerment/mesacan/"
+},
+{
+"text": "Read More >",
+"href": "https://www.unitedfoodbank.org/"
+},
+{
+"text": "Resources",
+"href": "https://www.lorenaaustin.com/resources"
+},
+{
+"text": "Supplemental Nutrition Assistance Program (SNAP)",
+"href": "https://des.az.gov/na"
+},
+{
+"text": "The Emergency Food Assistance Program (TEFAP)",
+"href": "https://des.az.gov/emergency-food"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LorenaAustinAZ"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/LorenaAustinaz/"
+},
+{
+"text": "[image: Lorena Austin Long Logo.png]",
+"href": "https://www.lorenaaustin.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LorenaAustin4Az"
+},
+{
+"text": "[image: image.png]",
+"href": "https://211arizona.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.azuravets.org/"
+},
+{
+"text": "[image: image.png]",
+"href": "https://www.unitedfoodbank.org/"
+},
+{
+"text": "[image: image_edited.png]",
+"href": "https://www.turnanewleaf.org/services/financial-empowerment/mesacan/"
+},
+{
+"text": "lorena@lorenaaustin.com",
+"href": "mailto:lorena@lorenaaustin.com"
+}
 ]

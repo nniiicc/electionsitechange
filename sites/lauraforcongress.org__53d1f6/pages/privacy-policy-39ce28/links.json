@@ -1,8 +1,50 @@
 [
-"http://networkadvertising.org/",
-"https://facebook.com/laurafriedmanca",
-"https://instagram.com/laurafriedmanca",
-"https://lauraforcongress.org/",
-"https://secure.actblue.com/donate/laura-friedman-for-congress-1",
-"https://twitter.com/LauraFriedmanCA"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/laura-friedman-for-congress-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "HOME",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "MEET LAURA",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/laurafriedmanca"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/laurafriedmanca/"
+},
+{
+"text": "[image: Twitter ]",
+"href": "https://twitter.com/LauraFriedmanCA"
+},
+{
+"text": "adam@lauraforcongress.org",
+"href": "mailto:adam@lauraforcongress.org"
+},
+{
+"text": "click here.",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "https://www.lauraforcongress.org/",
+"href": "https://www.lauraforcongress.org/"
+},
+{
+"text": "info@lauraforcongress.org",
+"href": "mailto:info@lauraforcongress.org"
+}
 ]

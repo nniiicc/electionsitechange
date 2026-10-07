@@ -1,11 +1,38 @@
 [
-"http://squarespace.com/",
-"https://gretchenforcolorado.com/",
-"https://gretchenforcolorado.com/cart",
-"https://gretchenforcolorado.com/endorsements",
-"https://gretchenforcolorado.com/events",
-"https://gretchenforcolorado.com/legislation",
-"https://gretchenforcolorado.com/meet-gretchen",
-"https://gretchenforcolorado.com/news",
-"https://gretchenforcolorado.com/take-action"
+{
+"text": "0",
+"href": "https://www.gretchenforcolorado.com/cart"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gretchenforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.gretchenforcolorado.com/events"
+},
+{
+"text": "Legislation",
+"href": "https://www.gretchenforcolorado.com/legislation"
+},
+{
+"text": "Meet Gretchen",
+"href": "https://www.gretchenforcolorado.com/meet-gretchen"
+},
+{
+"text": "News",
+"href": "https://www.gretchenforcolorado.com/news"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.gretchenforcolorado.com/take-action"
+},
+{
+"text": "[image: Gretchen for Colorado]",
+"href": "https://www.gretchenforcolorado.com/"
+}
 ]

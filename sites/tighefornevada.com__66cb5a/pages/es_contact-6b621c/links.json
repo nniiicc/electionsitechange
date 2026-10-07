@@ -1,15 +1,62 @@
 [
-"http://lpnevada.org/",
-"https://clark.lpnevada.org/volunteer",
-"https://facebook.com/people/Tighe-for-Nevada/61586385324506",
-"https://instagram.com/tighefornevada",
-"https://lpnevada.org/email",
-"https://tighefornevada.com/contact",
-"https://tighefornevada.com/es",
-"https://tighefornevada.com/es/about",
-"https://tighefornevada.com/es/contact",
-"https://tighefornevada.com/es/donate",
-"https://tighefornevada.com/es/on-the-issues",
-"https://wpastra.com/",
-"https://x.com/tighefornevada"
+{
+"text": "+1 (702) 748-7696",
+"href": "tel:+17027487696"
+},
+{
+"text": "Acerca de Tighe",
+"href": "https://tighefornevada.com/es/about/"
+},
+{
+"text": "Contacto",
+"href": "https://tighefornevada.com/es/contact/"
+},
+{
+"text": "Donar",
+"href": "https://tighefornevada.com/es/donate/"
+},
+{
+"text": "En los temas",
+"href": "https://tighefornevada.com/es/on-the-issues/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Tighe-for-Nevada/61586385324506/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/tighefornevada"
+},
+{
+"text": "Nuestro Partido",
+"href": "http://lpnevada.org/"
+},
+{
+"text": "Sign up for our Newsletter",
+"href": "https://www.lpnevada.org/email"
+},
+{
+"text": "Voluntario",
+"href": "https://clark.lpnevada.org/volunteer"
+},
+{
+"text": "X / Twitter",
+"href": "https://x.com/tighefornevada"
+},
+{
+"text": "[image]",
+"href": "https://tighefornevada.com/es/"
+},
+{
+"text": "[image]English",
+"href": "https://tighefornevada.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://tighefornevada.com/es/"
+},
+{
+"text": "info@tighefornevada.com",
+"href": "mailto:info@tighefornevada.com"
+}
 ]

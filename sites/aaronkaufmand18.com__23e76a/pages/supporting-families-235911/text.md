@@ -1,10 +1,10 @@
-Supporting Families
-Families are being challenged, financially and emotionally, at both ends of the age spectrum.
+0 Skip to Content About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu Folder: About Back About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Folder: Priorities Back My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Folder: Contact Back Legislative Contact Campaign Contact DONATE Supporting Families Families are being challenged, financially and emotionally, at both ends of the age spectrum.
 Young families simply cannot afford childcare costs in this county or state.
 Quality childcare is an essential element for stable families, working parents, and a healthy overall family environment.
 On the other end of the spectrum, seniors and people with disabilities who need support cannot find it and if they are fortunate enough to locate an aide or personal care attendant, they often cannot afford them.
 The costs for care have risen astronomically.
 Medicare, Medicaid, long-term care insurance and the other “safety nets” are simply not sufficient anymore.
 We need to pass legislation supporting the family, both young and old.
-Contact me
-Please fill out the form to get in touch with me
+Contact me Please fill out the form to get in touch with me Form Block This form needs a storage option.
+Double-click here to edit this form, and tell us where to save form submissions in the Storage tab.
+Learn more Stay Connected Legislative Contact Campaign Contact By Authority: Friends of Aaron Kaufman -Joshua Kaufman, Treasurer Elect Aaron Kaufman PO Box 151542 Chevy Chase, MD 20815 e-mail: aaronkaufmand18@gmail.com Phone: 240.600.1812 Privacy Policy

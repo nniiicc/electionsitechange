@@ -1,8 +1,42 @@
 [
-"https://facebook.com/moore4oksenate2026",
-"https://facebook.com/moore4oksenate2026/events",
-"https://moore4oksenate.com/",
-"https://moore4oksenate.com/about",
-"https://secure.actblue.com/donate/chayelynn-moore-1",
-"https://tiktok.com/@chaye.moore.4.ok"
+{
+"text": "About",
+"href": "https://www.moore4oksenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.moore4oksenate.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chayelynn-moore-1"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/moore4oksenate2026/events"
+},
+{
+"text": "Home",
+"href": "https://www.moore4oksenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.moore4oksenate.com/#issues"
+},
+{
+"text": "[image]",
+"href": "https://www.moore4oksenate.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/moore4oksenate2026"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@chaye.moore.4.ok"
+},
+{
+"text": "info@moore4oksenate.com",
+"href": "mailto:info@moore4oksenate.com"
+}
 ]

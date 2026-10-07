@@ -1,15 +1,23 @@
-One of the main problems in Iberia Parish, Louisiana, could be its vulnerability to natural disasters, particularly hurricanes and flooding, due to its coastal location.
+Skip Link Text Menu Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Iberia Parish One of the main problems in Iberia Parish, Louisiana, could be its vulnerability to natural disasters, particularly hurricanes and flooding, due to its coastal location.
 This can lead to significant property damage, displacement of residents, and disruption of livelihoods.
-Advocate for Disaster Relief Funding
-She can work to secure federal funding for disaster relief efforts, including assistance for affected residents, infrastructure repairs, and mitigation measures to reduce the risk of future disasters.
-Support Infrastructure Investments
-Push for federal funding to improve infrastructure resilience, such as strengthening levees, upgrading drainage systems, and investing in flood protection measures.
-Promote Climate Resilience Initiatives
-Advocate for policies and programs that address the root causes of climate change and promote resilience to its impacts, such as supporting renewable energy development, coastal restoration projects, and sustainable land-use planning.
-Facilitate Community Engagement
-Act as a liaison between federal agencies and local stakeholders to ensure that the needs and concerns of Iberia Parish residents are addressed in disaster preparedness and recovery efforts.
-Promote Insurance Accessibility
-Work to improve access to affordable flood insurance for residents and businesses in Iberia Parish to help mitigate financial losses in the event of a disaster.
+Advocate for Disaster Relief Funding She can work to secure federal funding for disaster relief efforts, including assistance for affected residents, infrastructure repairs, and mitigation measures to reduce the risk of future disasters.
+Support Infrastructure Investments Push for federal funding to improve infrastructure resilience, such as strengthening levees, upgrading drainage systems, and investing in flood protection measures.
+Promote Climate Resilience Initiatives Advocate for policies and programs that address the root causes of climate change and promote resilience to its impacts, such as supporting renewable energy development, coastal restoration projects, and sustainable land-use planning.
+Facilitate Community Engagement Act as a liaison between federal agencies and local stakeholders to ensure that the needs and concerns of Iberia Parish residents are addressed in disaster preparedness and recovery efforts.
+Promote Insurance Accessibility Work to improve access to affordable flood insurance for residents and businesses in Iberia Parish to help mitigate financial losses in the event of a disaster.
 If elected, I will be advocating for disaster relief funding, supporting infrastructure investments, and promoting climate resilience initiatives, I will also facilitate community engagement and promote insurance accessibility.
 Acting as a liaison between federal agencies and local stakeholders, I will ensure that the needs and concerns of Iberia Parish residents are addressed in disaster preparedness and recovery efforts.
 Through these efforts, I will help Iberia Parish become more resilient to the challenges posed by natural disasters, safeguarding the safety and well-being of its residents, and fostering a more sustainable and prosperous future for the community.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Donate ActBlue Threads PayPal Venmo Cash App Social Ballotpedia Discord Reddit Facebook X Priscilla Gonzalez for Louisiana State Representative, 3rd District Design & Developed by Buy WordPress Templates

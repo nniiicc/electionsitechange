@@ -1,38 +1,154 @@
 [
-"http://russdiamond.vote/ci200414.php",
-"https://buckscountycouriertimes.com/news/20200501/states-ordered-nursing-homes-to-take-covid-19-residents-thousands-died-how-it-happened",
-"https://buckscountycouriertimes.com/news/20200508/pa-nursing-home-deaths-spike-550-percent-in-one-month-as-state-faces-federal-lawsuit",
-"https://cisa.gov/identifying-critical-infrastructure-during-covid-19",
-"https://dced.pa.gov/covid-19-exempt-businesses",
-"https://definitions.uslegal.com/r/reasonable-man-theory",
-"https://facebook.com/SenatorKristin/videos/634427590442376",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/repdiamond/photos/a.700878966700774/2745349125587071",
-"https://facebook.com/repdiamond/posts/2639007426221242",
-"https://facebook.com/repdiamond/posts/2668937539894897",
-"https://facebook.com/repdiamond/posts/2709395875849063",
-"https://facebook.com/repdiamond/posts/2747807408674576",
-"https://facebook.com/repdiamond/reels",
-"https://facebook.com/repdiamond/videos/309561740031784",
-"https://governor.pa.gov/newsroom/gov-wolf-calls-for-universal-masking",
-"https://health.pa.gov/topics/disease/coronavirus/Pages/Stop-the-Spread.aspx",
-"https://instagram.com/russdiamond",
-"https://komonews.com/news/coronavirus/12-quarantined-kirkland-firefighters-showing-flu-like-symptoms",
-"https://lebtown.com/2020/03/27/editorial-governor-wolf-must-release-waiver-rubric-list-of-waived-businesses",
-"https://penncapital-star.com/covid-19/citing-shuttered-offices-wolf-admin-says-it-cant-process-capital-stars-request-for-covid-19-waiver-requests",
-"https://pennlive.com/coronavirus/2020/04/face-masks-are-now-mandatory-in-pa-weve-unpacked-the-order-requiring-everyone-to-wear-one.html",
-"https://pennlive.com/news/2020/05/gov-tom-wolf-talks-about-pa-primary-watch-live.html",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled",
-"https://spotlightpa.org/news/2020/03/wolf-coronavirus-shutdown-businesses",
-"https://spotlightpa.org/news/2020/05/pennsylvania-coronavirus-nursing-homes-plan-quick-strike-teams",
-"https://spotlightpa.org/news/2020/05/pennsylvania-waivers-businesses-tom-wolf-list-released",
-"https://x.com/russdiamond"
+{
+"text": "69 percent of all COVID-19 deaths",
+"href": "https://www.facebook.com/repdiamond/photos/a.700878966700774/2745349125587071"
+},
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Almost 1.8 million Pennsylvanians have lost their jobs",
+"href": "https://www.facebook.com/repdiamond/posts/2747807408674576"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Cybersecurity & Infrastructure Security Agency's critical infrastructure sector list",
+"href": "https://www.cisa.gov/identifying-critical-infrastructure-during-covid-19"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "Life Care Center nursing home in Kirkland WA",
+"href": "https://www.seattletimes.com/seattle-news/times-watchdog/coronavirus-spread-in-a-kirkland-nursing-home-for-weeks-while-response-stalled/"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "Tom Wolf stated that they could just keep collecting unemployment",
+"href": "https://www.facebook.com/repdiamond/posts/2709395875849063"
+},
+{
+"text": "USLegal.com",
+"href": "https://definitions.uslegal.com/r/reasonable-man-theory/"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "admit or re-admit COVID patients",
+"href": "https://www.facebook.com/repdiamond/videos/309561740031784/"
+},
+{
+"text": "all employees and customers of businesses",
+"href": "https://www.pennlive.com/coronavirus/2020/04/face-masks-are-now-mandatory-in-pa-weve-unpacked-the-order-requiring-everyone-to-wear-one.html"
+},
+{
+"text": "article from Spotlight PA",
+"href": "https://www.spotlightpa.org/news/2020/05/pennsylvania-coronavirus-nursing-homes-plan-quick-strike-teams/"
+},
+{
+"text": "article in the Bucks County Courier-Times",
+"href": "https://www.buckscountycouriertimes.com/news/20200501/states-ordered-nursing-homes-to-take-covid-19-residents-thousands-died-how-it-happened"
+},
+{
+"text": "despite a Senate supeona for more complete information",
+"href": "https://www.spotlightpa.org/news/2020/05/pennsylvania-waivers-businesses-tom-wolf-list-released/"
+},
+{
+"text": "editorials to the same effect",
+"href": "https://lebtown.com/2020/03/27/editorial-governor-wolf-must-release-waiver-rubric-list-of-waived-businesses/"
+},
+{
+"text": "first responders",
+"href": "https://komonews.com/news/coronavirus/12-quarantined-kirkland-firefighters-showing-flu-like-symptoms"
+},
+{
+"text": "had any real experience in the private sector or with supply chains",
+"href": "https://www.spotlightpa.org/news/2020/03/wolf-coronavirus-shutdown-businesses/"
+},
+{
+"text": "halting routine inspections",
+"href": "https://www.buckscountycouriertimes.com/news/20200508/pa-nursing-home-deaths-spike-550-percent-in-one-month-as-state-faces-federal-lawsuit"
+},
+{
+"text": "letters",
+"href": "https://www.facebook.com/repdiamond/posts/2668937539894897"
+},
+{
+"text": "masks are merely encouraged",
+"href": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Stop-the-Spread.aspx"
+},
+{
+"text": "new rubric",
+"href": "https://www.facebook.com/repdiamond/posts/2639007426221242"
+},
+{
+"text": "not a lawyer",
+"href": "https://www.pennlive.com/news/2020/05/gov-tom-wolf-talks-about-pa-primary-watch-live.html"
+},
+{
+"text": "public calls for openness",
+"href": "http://russdiamond.vote/ci200414.php"
+},
+{
+"text": "publicly recommended universal masking",
+"href": "https://www.governor.pa.gov/newsroom/gov-wolf-calls-for-universal-masking/"
+},
+{
+"text": "published a list",
+"href": "https://dced.pa.gov/covid-19-exempt-businesses/"
+},
+{
+"text": "right to know request",
+"href": "https://www.penncapital-star.com/covid-19/citing-shuttered-offices-wolf-admin-says-it-cant-process-capital-stars-request-for-covid-19-waiver-requests/"
+},
+{
+"text": "this testimony from a recent Senate hearing",
+"href": "https://www.facebook.com/SenatorKristin/videos/634427590442376/"
+}
 ]

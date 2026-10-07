@@ -1,11 +1,78 @@
 [
-"https://mikeredondo.com/",
-"https://mikeredondo.com/connect",
-"https://mikeredondo.com/home",
-"https://mikeredondo.com/meet-mike",
-"https://mikeredondo.com/privacy-policy",
-"https://mikeredondo.com/terms-conditions",
-"https://mikeredondo.com/volunteer",
-"https://secure.anedot.com/michael-david-redondo-campaign/chipin",
-"https://secure.anedot.com/michael-david-redondo-campaign/donate"
+{
+"text": "Connect",
+"href": "https://mikeredondo.com/connect/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/michael-david-redondo-campaign/chipin"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/michael-david-redondo-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://mikeredondo.com/#donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/michael-david-redondo-campaign/donate"
+},
+{
+"text": "Endorsement",
+"href": "https://mikeredondo.com/#trump"
+},
+{
+"text": "Get Involved",
+"href": "https://mikeredondo.com/#getinvolved"
+},
+{
+"text": "Home",
+"href": "https://mikeredondo.com/"
+},
+{
+"text": "Home",
+"href": "https://mikeredondo.com/home/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikeredondo.com/#meet"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikeredondo.com/meet-mike/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikeredondo.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikeredondo.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://mikeredondo.com/terms-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://mikeredondo.com/volunteer/"
+},
+{
+"text": "Where Mike Stands",
+"href": "https://mikeredondo.com/#where"
+},
+{
+"text": "[image]",
+"href": "https://mikeredondo.com"
+},
+{
+"text": "[image]",
+"href": "https://mikeredondo.com/"
+},
+{
+"text": "www.MikeRedondo.com",
+"href": "https://mikeredondo.com"
+}
 ]

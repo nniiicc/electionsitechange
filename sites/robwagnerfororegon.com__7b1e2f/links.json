@@ -1,19 +1,86 @@
 [
-"https://bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html",
-"https://heyvictor.com/",
-"https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday",
-"https://robwagnerfororegon.com/",
-"https://robwagnerfororegon.com/about",
-"https://robwagnerfororegon.com/accessibility-statement",
-"https://robwagnerfororegon.com/endorsements",
-"https://robwagnerfororegon.com/news",
-"https://robwagnerfororegon.com/priorities",
-"https://robwagnerfororegon.com/privacy-policy",
-"https://secure.actblue.com/donate/webnew",
-"https://secure.actblue.com/donate/webnew?amount=150",
-"https://secure.actblue.com/donate/webnew?amount=25",
-"https://secure.actblue.com/donate/webnew?amount=250",
-"https://secure.actblue.com/donate/webnew?amount=5",
-"https://secure.actblue.com/donate/webnew?amount=50",
-"https://timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/webnew?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/webnew?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/webnew?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/webnew?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/webnew?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.robwagnerfororegon.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robwagnerfororegon.com/accessibility-statement/"
+},
+{
+"text": "Commentary: These are my wishes for America’s 250th birthday",
+"href": "https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/webnew?amount="
+},
+{
+"text": "Eastern Oregon Housing Tour kicks off in Arlington",
+"href": "https://www.timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robwagnerfororegon.com/endorsements/"
+},
+{
+"text": "News",
+"href": "https://www.robwagnerfororegon.com/news/"
+},
+{
+"text": "Officials make case for $600M in public funds for Moda Center renovations",
+"href": "https://www.bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/webnew?amount="
+},
+{
+"text": "Priorities",
+"href": "https://www.robwagnerfororegon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robwagnerfororegon.com/privacy-policy/"
+},
+{
+"text": "Read news article →",
+"href": "https://lakeoswegoreview.com/2026/06/22/commentary-these-are-my-wishes-for-americas-250th-birthday/"
+},
+{
+"text": "Read news article →",
+"href": "https://www.bizjournals.com/portland/news/2026/06/24/chamber-wilson-vega-pederson-lieber.html"
+},
+{
+"text": "Read news article →",
+"href": "https://www.timesjournal1886.com/story/2026/08/27/news/eastern-oregon-housing-tour-kicks-off-in-arlington/2140.html"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.robwagnerfororegon.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

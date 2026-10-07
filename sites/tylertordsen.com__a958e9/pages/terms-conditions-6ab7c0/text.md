@@ -1,6 +1,4 @@
-Terms and Conditions — SMS Messaging Program
-Organization: Tyler Tordsen for SD Mailing Address: 4705 E Tiger Lilly St, Sioux Falls, SD 57110 Contact: tyler@tylertordsen.com
-By providing your mobile phone number and opting in to receive text messages from Tyler Tordsen for SD, you agree to the following terms and conditions.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG Terms & Conditions Terms and Conditions — SMS Messaging Program Organization: Tyler Tordsen for SD Mailing Address: 4705 E Tiger Lilly St, Sioux Falls, SD 57110 Contact: tyler@tylertordsen.com By providing your mobile phone number and opting in to receive text messages from Tyler Tordsen for SD, you agree to the following terms and conditions.
 Program Description.
 Tyler Tordsen for SD operates an SMS messaging program to keep supporters informed about the campaign.
 By opting in, you consent to receive recurring autodialed text messages from Tyler Tordsen for SD.
@@ -26,9 +24,10 @@ Cellular, Boost, MetroPCS, Cricket, and others.
 Carriers are not liable for delayed or undelivered messages.
 Privacy.
 Your privacy is important to us.
-For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy.
+For information about how we collect, use, store, and protect your personal information — including information collected through this SMS program — please review our Privacy Policy .
 Changes to These Terms.
 Tyler Tordsen for SD may update or modify these terms at any time.
 Material changes will be reflected on this page.
 Your continued participation in the SMS program after changes are posted constitutes acceptance of the updated terms.
-Paid for by Tyler Tordsen for SD.
+Paid for by Tyler Tordsen for SD .
+PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN ,

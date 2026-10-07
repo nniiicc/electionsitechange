@@ -1,8 +1,42 @@
 [
-"https://makibagaines4congress.com/",
-"https://makibagaines4congress.com/blank-1",
-"https://makibagaines4congress.com/blank-2",
-"https://makibagaines4congress.com/donate",
-"https://makibagaines4congress.com/privacy-policy",
-"https://makibagaines4congress.com/terms-and-conditions"
+{
+"text": "ABOUT",
+"href": "https://www.makibagaines4congress.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.makibagaines4congress.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.makibagaines4congress.com/donate"
+},
+{
+"text": "MAKIBA GAINES",
+"href": "https://www.makibagaines4congress.com"
+},
+{
+"text": "MEDIA REQUESTS",
+"href": "mailto:gaines4congress@gmail.com?subject=Let+me+talk+to+Makiba+Gaines"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.makibagaines4congress.com/privacy-policy"
+},
+{
+"text": "REQUEST MAKIBA GAINES AT YOUR EVENT",
+"href": "https://www.makibagaines4congress.com/blank-2"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.makibagaines4congress.com/terms-and-conditions"
+},
+{
+"text": "VISION",
+"href": "https://www.makibagaines4congress.com/blank-1"
+},
+{
+"text": "helpgaines4congress@gmail.com",
+"href": "mailto:helpgaines4congress@gmail.com"
+}
 ]

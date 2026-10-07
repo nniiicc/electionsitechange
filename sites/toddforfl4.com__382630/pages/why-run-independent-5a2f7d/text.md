@@ -1,4 +1,5 @@
-When will Americans snap out of the Two-Party Daydream?
+Meet Todd Issues Why Run Independent?
+Volunteer Contact When will Americans snap out of the Two-Party Daydream?
 Our democracy, to the extent that one exists in the United States, has been stolen from us.
 It is easy to reference the 2014 Princeton study by Gilens and Page that shows the majority of legislation passed doesn't reflect the needs or demands of the vast majority of Americans.
 It is a much harder task to pin down where it began.
@@ -74,3 +75,4 @@ The new norm is lesser of two evils.
 People have numbed to the fact that this just means TWO EVILS.
 The voters who are ignored have no power, but only until they realize they have ALL of the power.
 I only hope that they don’t realize that after it’s too late.
+Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

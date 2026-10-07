@@ -1,11 +1,23 @@
 {
  "description": "",
  "final_url": "https://www.winforsenate.com/",
- "paid_for_by": null,
+ "fingerprint": "fde96e6beeac66605d47ba0ae889bd25e60cb50e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "HOME | Win For Senate",
  "years_mentioned": [
+  "1966",
+  "1984",
+  "1988",
+  "1992",
+  "1996",
+  "2000",
+  "2004",
+  "2006",
+  "2009",
   "2010",
   "2012",
-  "2013"
+  "2013",
+  "2035"
  ]
 }

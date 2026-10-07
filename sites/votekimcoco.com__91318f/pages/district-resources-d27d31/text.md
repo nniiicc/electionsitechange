@@ -1,51 +1,8 @@
-SOME USEFUL PHONE NUMBERS & RESOURCES
-If I can help you with another number, or anything else, please call me at (808) 664-3830.
-Services for Kupuna (Elders)
-Lanakila Produce Delivery (808) 356-8519
-Meals on Wheels (808) 988-6747
-Elderly Housing (808) 768-7700
-Senior Citizen Info 808) 768-7700
-Recreation Program (808) 973-7258
-Nearby Food Assistance (call first)
-Central Union Church, 1660 S.Beretania Every Wed. 11am-1pm (808) 941-0957
-Sts.
-Peter & Paul Church, 800 Kaheka 3rd Sat. 10-11am (808) 941-0675
-HHHRC, 653 Ala Moana Blvd. 4th Wed. @ 12:30 pm (808) 521-2437
-Other Food Resources
-Food Stamps (SNAP) (808) 586-8047
-Hawaii Food Bank (808) 836-3600
-The Salvation Army (808) 440-1800
-Pet Food Bank (808) 356-2222
-Oahu Claims Office (808) 586-8970
-State Call Center (833) 901-2275
-DLIR Unemployment Insurance
-Family Promise (808) 548-7478
-Catholic Charities (808) 521-4357
-Housing Support
-Hawaii CARES (808) 832-3100
-Domestic Violence (808) 266-7233
-DV Shelter Access (808) 526-2200
-24-Hr Crisis Hotlines
-HOME Project (808) 223-8859
-HI Homeless Healthcare Hui “4H” (808) 376-5315
-Aloha Medical Mission Dental Clinic (808) 847-3400
-Project Vision HI (808) 201-3937
-Adult Mental Health (808) 643-2643
-Medical Care
-Emergency 911
-District State Senators
-Sharon Moriwaki (808) 586-6740
-Karl Rhoads (808) 586-6130
-Carol Fukanaga (808) 586-6460
-Calvin Say (808) 768-5005
-Tyler Dos Santos-Tam (808) 768-5006
-City Complaints (808) 768-4381
-Graffiti Clean-up (808) 723-3475
-Bulky Item Pick-up (808) 768-3200
-Illegal Dumping (808) 768-3203
-Handi-Van (808) 456-5555
-Report Potholes (808) 768-7777
-Traffic Light Outage (808) 768-8387
-City & County Offices
-Legal Aid Society (808) 536-4302
-Volunteer Legal Svc (808) 528-7046
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me SOME USEFUL PHONE NUMBERS & RESOURCES If I can help you with another number, or anything else, please call me at (808) 664-3830.
+Services for Kupuna (Elders) Lanakila Produce Delivery (808) 356-8519 Meals on Wheels (808) 988-6747 Elderly Housing (808) 768-7700 Senior Citizen Info 808) 768-7700 Recreation Program (808) 973-7258 Nearby Food Assistance (call first) Central Union Church , 1660 S.Beretania Every Wed.
+11am-1pm (808) 941-0957 Sts.
+Peter & Paul Church , 800 Kaheka 3rd Sat.
+10-11am (808) 941-0675 HHHRC , 653 Ala Moana Blvd.
+4th Wed. @ 12:30 pm (808) 521-2437 Other Food Resources Food Stamps (SNAP) (808) 586-8047 Hawaii Food Bank (808) 836-3600 The Salvation Army (808) 440-1800 Pet Food Bank (808) 356-2222 Oahu Claims Office (808) 586-8970 State Call Center (833) 901-2275 DLIR Unemployment Insurance Family Promise (808) 548-7478 Catholic Charities (808) 521-4357 Housing Support Hawaii CARES (808) 832-3100 Domestic Violence (808) 266-7233 DV Shelter Access (808) 526-2200 24-Hr Crisis Hotlines HOME Project (808) 223-8859 HI Homeless Healthcare Hui “4H” (808) 376-5315 Aloha Medical Mission Dental Clinic (808) 847-3400 Project Vision HI (808) 201-3937 Adult Mental Health (808) 643-2643 Medical Care Emergency 911 District State Senators Sharon Moriwaki (808) 586-6740 Karl Rhoads (808) 586-6130 Carol Fukanaga (808) 586-6460 Calvin Say (808) 768-5005 Tyler Dos Santos-Tam (808) 768-5006 City Complaints (808) 768-4381 Graffiti Clean-up (808) 723-3475 Bulky Item Pick-up (808) 768-3200 Illegal Dumping (808) 768-3203 Handi-Van (808) 456-5555 Report Potholes (808) 768-7777 Traffic Light Outage (808) 768-8387 City & County Offices Legal Aid Society (808) 536-4302 Volunteer Legal Svc (808) 528-7046 Low-Income Legal Assistance DIAL 2-1-1 for Aloha United Way Helpline (7 days a week, 7am-10pm) Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

@@ -1,10 +1,10 @@
-Conserving Hoosier agriculture, protecting Homestead Farm families
-This article originally ran in The Daily Journal on January 28, 2025.
+top of page Writings Special Needs Families District 47 Get a sign More Use tab to navigate through the menu items.
+Donate Donate All Posts Search Conserving Hoosier agriculture, protecting Homestead Farm families Robb Greene Jan 28, 2025 3 min read This article originally ran in The Daily Journal on January 28, 2025.
 Anarchist author Michael Malice once quipped that conservatism is just progressivism driving the speed limit.
 It’s an observation that has long shaped my own political views, as it seems even when Republicans control the levers of power, progressivism continues to progress – albeit slower and legally.
 It grieves me that the word “conservative” has seemingly lost all denotative meaning within right-of-center politics.
 If you don’t believe me, just ask many “Conservative Republican” elected officials to explain what it is they specifically want to conserve.
-Most will parrot neoliberal tenets about low taxes, or some vague notion of traditional values, both of which I agree with, but few can articulate a specific thing.
+Most will parrot neoliberal tenets about low taxes, or some vague notion of traditional values, both of which I agree with, but few can articulate a specific thing .
 For me, my problem isn’t naming specifics, it’s narrowing them to a manageable list.
 However, in my role representing rural Shelby and Johnson counties, there is one resource to which I have devoted my conservative attention: land.
 In 2023, I had the privilege of voting for the Inventory of Lost Farmland Bill.
@@ -27,5 +27,7 @@ Rather, when families reach an impasse in negotiations, or they outright do not 
 In most instances, this is their county board of commissioners.
 Enabling homestead families to move these deals out from the shadows and into a local, public meeting not only gives them their day in court, so to speak, but it provides a check on the often-unmindful use of eminent domain.
 To put it another way, House Bill 1265 seeks to balance competing views of time – the public projects that are too often bound by expediency, against a multi-generational family farm that in many ways is not.
-Returning to my original lament over the etymological drift, conservatives would do well to remember that the Latin root of conservative is servare, which conveys the idea of maintaining something in its original state.
+Returning to my original lament over the etymological drift, conservatives would do well to remember that the Latin root of conservative is servare , which conveys the idea of maintaining something in its original state .
 For these families who have literally invested generations into their land, I believe this proposal is conservative in the truest sense.
+Recent Posts See All Bringing transparency to economic development Brake Lights RobbGreene.com P.O.
+Box 1148 Shelbyville, IN 46176 Paid for by RobbGreene.com © # by RobbGreene.com bottom of page

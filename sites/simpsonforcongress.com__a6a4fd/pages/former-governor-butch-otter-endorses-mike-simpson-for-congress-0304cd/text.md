@@ -1,4 +1,4 @@
-Everyone is aware the May primary elections are just around the corner.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Former Governor Butch Otter Endorses Mike Simpson for Congress May 7, 2022 Everyone is aware the May primary elections are just around the corner.
 The commercials and mailers are in full force telling you who to vote for or against.
 One of the mailers caught my attention the other day because it attacked my friend and colleague Mike Simpson regarding his support for agriculture.
 With all the fake news and misinformation in this day and age, this accusation is by far the craziest claim I have heard.
@@ -18,6 +18,8 @@ Thanks to Mike Simpson, Idaho is one of the two states where wolves are not cont
 This enables Idaho to continue to follow the science and provides some peace of mind to Idaho ranchers and farmers who deal with wolves in their backyard.
 This is the Mike Simpson I know.
 He has always had agriculture’s back and he always will.
-Idaho needs him and I encourage you cast your vote for him on May 17th.
+Idaho needs him and I encourage you cast your vote for him on May 17 th .
 Governor C.L.
-“Butch” Otter
+“Butch” Otter « Previous: Opinion: The choice of Simpson versus Smith National Right to Life Endorses Mike Simpson » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

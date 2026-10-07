@@ -1,10 +1,38 @@
 [
-"https://form.jotform.com/262267774201154",
-"https://pluckerforthepeople.com/",
-"https://pluckerforthepeople.com/about",
-"https://pluckerforthepeople.com/cart",
-"https://pluckerforthepeople.com/contact",
-"https://pluckerforthepeople.com/faq-1",
-"https://secure.actblue.com/donate/pluckerforthepeople",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://pluckerforthepeople.com/cart"
+},
+{
+"text": "About",
+"href": "https://pluckerforthepeople.com/about"
+},
+{
+"text": "Contact",
+"href": "https://pluckerforthepeople.com/contact"
+},
+{
+"text": "FAQ",
+"href": "https://pluckerforthepeople.com/faq-1"
+},
+{
+"text": "Home",
+"href": "https://pluckerforthepeople.com/"
+},
+{
+"text": "Plucker For the People",
+"href": "https://pluckerforthepeople.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "https://form.jotform.com/262267774201154",
+"href": "https://form.jotform.com/262267774201154"
+},
+{
+"text": "https://secure.actblue.com/donate/pluckerforthepeople",
+"href": "https://secure.actblue.com/donate/pluckerforthepeople"
+}
 ]

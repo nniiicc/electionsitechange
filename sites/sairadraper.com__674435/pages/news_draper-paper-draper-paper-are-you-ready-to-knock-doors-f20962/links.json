@@ -1,46 +1,222 @@
 [
-"https://bsky.app/intent/compose?text=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F++https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://georgiademocrat.org/voter-resources",
-"https://google.com/maps/search/4746+Flat+Shoals+Parkway?entry=gmail",
-"https://instagram.com/votesaira",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors",
-"https://mobilize.us/dekalbcountydemocrats/event/1038610",
-"https://mobilize.us/democraticpartyofgeorgia26/event/1003327?referring_vol=13116019&share_context=dashboard-event-details&sharer_role=2",
-"https://mobilize.us/democraticpartyofgeorgia26/event/1005447?referring_vol=13116019&share_context=dashboard-event-details&sharer_role=2",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/submit?url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors&title=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F+",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/",
-"https://sairadraper.com/accessibility",
-"https://sairadraper.com/canvass",
-"https://sairadraper.com/district",
-"https://sairadraper.com/do-not-contact",
-"https://sairadraper.com/endorsements",
-"https://sairadraper.com/es/news/draper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://sairadraper.com/get-help",
-"https://sairadraper.com/get-involved",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/draper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://sairadraper.com/privacy",
-"https://sairadraper.com/terms",
-"https://sairadraper.com/vi/news/draper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://sairadraper.com/vote",
-"https://sairadraper.com/work-with-saira",
-"https://secure.actblue.com/donate/saira-draper-1",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://threads.com/@votesaira",
-"https://threads.net/intent/post?text=And+other+things+you+can+do+to+help+acheive+big+wins+in+November+https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors",
-"https://tiktok.com/@votesaira",
-"https://twitter.com/intent/tweet?text=And+other+things+you+can+do+to+help+acheive+big+wins+in+November&url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors&via=sairaforGeorgia",
-"https://twitter.com/intent/tweet?text=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F+&url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://twitter.com/sairaforGeorgia",
-"https://votesaira.com/get-help",
-"https://youtube.com/@votesaira"
+{
+"text": "1-888-730-5816",
+"href": "https://georgiademocrat.org/voter-resources/"
+},
+{
+"text": "4746 Flat Shoals Parkway",
+"href": "https://www.google.com/maps/search/4746+Flat+Shoals+Parkway?entry=gmail"
+},
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Canvass",
+"href": "https://www.sairadraper.com/canvass"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Democratic Party of Georgia website",
+"href": "https://georgiademocrat.org/"
+},
+{
+"text": "Democrats running for statewide office",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "District 44",
+"href": "https://www.sairadraper.com/district"
+},
+{
+"text": "Do Not Contact",
+"href": "https://www.sairadraper.com/do-not-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-draper-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sairadraper.com/endorsements"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/news/draper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "Get Help",
+"href": "https://www.sairadraper.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Get in Touch",
+"href": "https://votesaira.com/get-help"
+},
+{
+"text": "Learn more about voter protection volunteering",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "Meet Saira",
+"href": "https://www.sairadraper.com/#about"
+},
+{
+"text": "News + Events",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.sairadraper.com/privacy"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Read our full accessibility statement",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Saira Draper",
+"href": "https://www.twitter.com/sairaforGeorgia"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sairadraper.com/terms"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/news/draper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sairadraper.com/vote"
+},
+{
+"text": "Work with Saira",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/intent/compose?text=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F++https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=And+other+things+you+can+do+to+help+acheive+big+wins+in+November&url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors&via=sairaforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F+&url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors&title=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F+"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/intent/post?text=And+other+things+you+can+do+to+help+acheive+big+wins+in+November+https%3A%2F%2Fdraperpaper.votesaira.com%2Fp%2Fdraper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Draper+Paper%3A+Are+you+Ready+to+Knock+Doors%3F+&body=https%3A%2F%2Fwww.sairadraper.com%2Fnews%2Fdraper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "contact us form on my website",
+"href": "https://votesaira.com/get-help"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/dekalbcountydemocrats/event/1038610/"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/democraticpartyofgeorgia26/event/1003327/?referring_vol=13116019&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "here",
+"href": "https://www.mobilize.us/democraticpartyofgeorgia26/event/1005447/?referring_vol=13116019&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "https://gadems.info/voprovol",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "saira.draper@house.ga.gov",
+"href": "mailto:saira.draper@house.ga.gov"
+},
+{
+"text": "← All News",
+"href": "https://www.sairadraper.com/news"
+}
 ]

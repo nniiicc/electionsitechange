@@ -1,11 +1,38 @@
 [
-"http://constitutionparty.com/principles/platform-preamble",
-"https://prolife-idaho.com/",
-"https://prolife-idaho.com/about-pro-life",
-"https://prolife-idaho.com/contact",
-"https://prolife-idaho.com/idaho-politicians-murder",
-"https://prolife-idaho.com/issues",
-"https://prolife-idaho.com/more-about-us",
-"https://prolife-idaho.com/more-on-the-platform",
-"https://prolife-idaho.com/resources.php"
+{
+"text": "About",
+"href": "https://www.prolife-idaho.com/about-pro-life"
+},
+{
+"text": "About Us",
+"href": "https://www.prolife-idaho.com/more-about-us"
+},
+{
+"text": "Contact",
+"href": "https://www.prolife-idaho.com/contact"
+},
+{
+"text": "Idaho Politicians & Murder",
+"href": "https://www.prolife-idaho.com/idaho-politicians-murder"
+},
+{
+"text": "On The Platform",
+"href": "https://www.prolife-idaho.com/more-on-the-platform"
+},
+{
+"text": "ProLife Idaho",
+"href": "https://www.prolife-idaho.com/"
+},
+{
+"text": "Resources",
+"href": "https://www.prolife-idaho.com/resources.php"
+},
+{
+"text": "The Issues",
+"href": "https://www.prolife-idaho.com/issues"
+},
+{
+"text": "www.constitutionparty.com/principles/platform-preamble/",
+"href": "http://www.constitutionparty.com/principles/platform-preamble/"
+}
 ]

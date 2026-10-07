@@ -1,20 +1,82 @@
 [
-"http://chicagotribune.com/news/opinion/editorials/ct-edit-berrios-taxes-rigged-democrats-20171226-story.html",
-"http://chicagotribune.com/news/watchdog/taxdivide",
-"https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/silence-of-the-dems-lisa-madigan-edition",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/cook-county",
-"https://ilikereick.com/tag/joseph-berrios",
-"https://ilikereick.com/tag/lisa-madigan",
-"https://ilikereick.com/tag/property-taxes",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/silence-of-the-dems-lisa-madigan-edition/#respond"
+},
+{
+"text": "Chicago Tribune",
+"href": "http://www.chicagotribune.com/news/watchdog/taxdivide/"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Cook County",
+"href": "https://ilikereick.com/tag/cook-county/"
+},
+{
+"text": "January 6, 2018 at 10:57 am",
+"href": "https://ilikereick.com/silence-of-the-dems-lisa-madigan-edition/#comment-86"
+},
+{
+"text": "Joseph Berrios",
+"href": "https://ilikereick.com/tag/joseph-berrios/"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Lisa Madigan",
+"href": "https://ilikereick.com/tag/lisa-madigan/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "ProPublica Illinois",
+"href": "https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/"
+},
+{
+"text": "Property Taxes",
+"href": "https://ilikereick.com/tag/property-taxes/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "Tribune",
+"href": "http://www.chicagotribune.com/news/opinion/editorials/ct-edit-berrios-taxes-rigged-democrats-20171226-story.html"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

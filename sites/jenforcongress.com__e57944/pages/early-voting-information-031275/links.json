@@ -1,37 +1,150 @@
 [
-"https://elections.virginia.gov/casting-a-ballot",
-"https://elections.virginia.gov/casting-a-ballot/absentee-voting",
-"https://elections.virginia.gov/casting-a-ballot/early-voting-office-locations",
-"https://elections.virginia.gov/casting-a-ballot/polling-place-lookup",
-"https://elections.virginia.gov/registration",
-"https://facebook.com/Jen4VA",
-"https://flickr.com/photos/jenforcongress",
-"https://instagram.com/jenkiggans?hl=en",
-"https://jenforcongress.com/",
-"https://jenforcongress.com/about",
-"https://jenforcongress.com/early-voting-information",
-"https://jenforcongress.com/issues",
-"https://jenforcongress.com/privacy-policy",
-"https://jenforcongress.com/recent-news",
-"https://jenforcongress.com/volunteer",
-"https://maps.app.goo.gl/3xnTx2BzYJBhE7Jr5",
-"https://maps.app.goo.gl/9dekdfbP3Ebmifuj7",
-"https://maps.app.goo.gl/Ja661A2ffh6MHfpi6",
-"https://maps.app.goo.gl/LdjFk5ykJFKut4Sy6",
-"https://maps.app.goo.gl/LwCPbwa8UZS511Vx6",
-"https://maps.app.goo.gl/NTRXPATUryHJZkQa6",
-"https://maps.app.goo.gl/Qa4YfY1rvrcFPtyz9",
-"https://maps.app.goo.gl/Y5iwAJVvzqenQMS47",
-"https://maps.app.goo.gl/bMudaJdEVfxG2539A",
-"https://maps.app.goo.gl/bhKuJzgXi2sRXtn19",
-"https://maps.app.goo.gl/fkFarszdbANL1wDT6",
-"https://maps.app.goo.gl/huzftVk4HEmW58Li7",
-"https://maps.app.goo.gl/in8BffJorawjtbDG7",
-"https://maps.app.goo.gl/nFGmXTjar5Lszra47",
-"https://maps.app.goo.gl/w3B8Ytcs9Qx6ED7c6",
-"https://maps.app.goo.gl/wszJ8hmonLybsXgB9",
-"https://maps.app.goo.gl/xmQbDi2BzKQ88ksbA",
-"https://secure.winred.com/kiggans-for-congress/donate",
-"https://secure.winred.com/kiggans-for-congress/storefront",
-"https://twitter.com/JenKiggans"
+{
+"text": "About",
+"href": "https://jenforcongress.com/about/"
+},
+{
+"text": "Bayside Recreation Center, 4500 First Ct Rd, Virginia Beach, VA 23455",
+"href": "https://maps.app.goo.gl/xmQbDi2BzKQ88ksbA"
+},
+{
+"text": "Central Library – 298 Cedar Road, Chesapeake, VA 23322",
+"href": "https://maps.app.goo.gl/LdjFk5ykJFKut4Sy6"
+},
+{
+"text": "Click here",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/"
+},
+{
+"text": "Click here",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/"
+},
+{
+"text": "Click here",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/polling-place-lookup/"
+},
+{
+"text": "Cuffee Community Center – 2019 Windy Road, Chesapeake, VA 23324",
+"href": "https://maps.app.goo.gl/NTRXPATUryHJZkQa6"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kiggans-for-congress/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://jenforcongress.com/early-voting-information/"
+},
+{
+"text": "Early Voting Locations",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/early-voting-office-locations/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Jen4VA"
+},
+{
+"text": "General Registrar’s Office – 100 S Main St, Franklin, VA 23851-1606",
+"href": "https://maps.app.goo.gl/bMudaJdEVfxG2539A"
+},
+{
+"text": "Great Neck Recreation Center, 2521 Shorehaven Dr, Virginia Beach, VA 23454",
+"href": "https://maps.app.goo.gl/Qa4YfY1rvrcFPtyz9"
+},
+{
+"text": "In The News",
+"href": "https://jenforcongress.com/recent-news/"
+},
+{
+"text": "Indian River Library – 2320 Old Greenbrier Road, Chesapeake, VA 23325",
+"href": "https://maps.app.goo.gl/9dekdfbP3Ebmifuj7"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jenkiggans/?hl=en"
+},
+{
+"text": "Issues",
+"href": "https://jenforcongress.com/issues/"
+},
+{
+"text": "Kempsville Area Library, 832 Kempsville Rd, Virginia Beach, VA 23464",
+"href": "https://maps.app.goo.gl/in8BffJorawjtbDG7"
+},
+{
+"text": "Major Hillard Library – 824 Old George Washington Hwy N, Chesapeake, VA 23323",
+"href": "https://maps.app.goo.gl/bhKuJzgXi2sRXtn19"
+},
+{
+"text": "Media Kit",
+"href": "https://www.flickr.com/photos/jenforcongress/"
+},
+{
+"text": "OWC Elections Office – 17106 Monument Circle, Isle of Wight, VA 23397",
+"href": "https://maps.app.goo.gl/w3B8Ytcs9Qx6ED7c6"
+},
+{
+"text": "Office of Voter Registration and Elections, 24387 Joynes Neck Rd, Accomack, VA 23301",
+"href": "https://maps.app.goo.gl/Y5iwAJVvzqenQMS47"
+},
+{
+"text": "Princess Anne Area Library – 1444 Nimmo Parkway, Virginia Beach, VA 23456",
+"href": "https://maps.app.goo.gl/LwCPbwa8UZS511Vx6"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jenforcongress.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.elections.virginia.gov/registration/"
+},
+{
+"text": "Request a Ballot",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/absentee-voting/"
+},
+{
+"text": "Russell Memorial Library – 2808 Taylor Road, Chesapeake, VA 23321",
+"href": "https://maps.app.goo.gl/wszJ8hmonLybsXgB9"
+},
+{
+"text": "Seatack Recreation Center, 141 S Birdneck Rd, Virginia Beach, VA 23451",
+"href": "https://maps.app.goo.gl/fkFarszdbANL1wDT6"
+},
+{
+"text": "Southampton County Registrar’s Office, 22305 Main St, Courtland, VA 23837",
+"href": "https://maps.app.goo.gl/nFGmXTjar5Lszra47"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/kiggans-for-congress/storefront/"
+},
+{
+"text": "Suffolk Registrar’s Office – 440 Market Street, First Floor, Suffolk, VA 23434",
+"href": "https://maps.app.goo.gl/Ja661A2ffh6MHfpi6"
+},
+{
+"text": "The General Registrar’s Office – 411 Cedar Road, Chesapeake, VA 23322",
+"href": "https://maps.app.goo.gl/wszJ8hmonLybsXgB9"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/JenKiggans"
+},
+{
+"text": "Volunteer",
+"href": "https://jenforcongress.com/volunteer/"
+},
+{
+"text": "Voter Registration & Elections Office – 500 Studio Drive, Virginia Beach, VA 23452",
+"href": "https://maps.app.goo.gl/huzftVk4HEmW58Li7"
+},
+{
+"text": "Voter Registration Office – 16404 Courthouse Road, Eastville, VA 23347",
+"href": "https://maps.app.goo.gl/3xnTx2BzYJBhE7Jr5"
+},
+{
+"text": "[image]",
+"href": "https://jenforcongress.com"
+}
 ]

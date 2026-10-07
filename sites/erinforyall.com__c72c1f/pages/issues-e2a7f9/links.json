@@ -1,10 +1,42 @@
 [
-"https://erinforyall.com/",
-"https://erinforyall.com/issues",
-"https://erinforyall.com/meet-erin",
-"https://erinforyall.com/vote",
-"https://facebook.com/ErinForYall",
-"https://instagram.com/erinforyall",
-"https://secure.actblue.com/donate/reelecterin",
-"https://twitter.com/ErinForYall"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelecterin"
+},
+{
+"text": "ISSUES",
+"href": "https://www.erinforyall.com/issues"
+},
+{
+"text": "MEET ERIN",
+"href": "https://www.erinforyall.com/meet-erin"
+},
+{
+"text": "VOTE",
+"href": "https://www.erinforyall.com/vote"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:info@erinforyall.com?subject=Contact+from+website+footer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ErinForYall/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/erinforyall/"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/ErinForYall"
+},
+{
+"text": "[image]",
+"href": "https://www.erinforyall.com"
+},
+{
+"text": "info@erinforyall.com",
+"href": "mailto:info@erinforyall.com"
+}
 ]

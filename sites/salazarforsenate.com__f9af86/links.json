@@ -1,30 +1,146 @@
 [
-"https://brooklyn-usa.org/",
-"https://cirseiu.org/",
-"https://comptroller.nyc.gov/about/about-brad-lander",
-"https://cuffhaction.org/",
-"https://jewishvote.org/",
-"https://jfrej.org/",
-"https://maketheroadny.org/",
-"https://newkingsdemocrats.com/",
-"https://northbrooklynprogdems.org/",
-"https://nycdistrictcouncil.com/",
-"https://nycommunities.org/",
-"https://nyic.org/",
-"https://nysenate.gov/legislation/bills/2019/S659",
-"https://nysenate.gov/legislation/bills/2021/s2836",
-"https://nysna.org/",
-"https://ocasio-cortez.house.gov/",
-"https://pubadvocate.nyc.gov/",
-"https://salazarforsenate.com/",
-"https://salazarforsenate.com/about",
-"https://salazarforsenate.com/cart",
-"https://salazarforsenate.com/platform",
-"https://salazarforsenate.com/platform-1",
-"https://secure.actblue.com/donate/salazarforsenate",
-"https://socialists.nyc/",
-"https://streetspac.org/",
-"https://velazquez.house.gov/",
-"https://vocal-ny.org/",
-"https://workingfamilies.org/state/new-york"
+{
+"text": "0",
+"href": "https://www.salazarforsenate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.salazarforsenate.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.salazarforsenate.com/"
+},
+{
+"text": "Climate",
+"href": "https://www.salazarforsenate.com/platform/#climate"
+},
+{
+"text": "Economic Justice",
+"href": "https://www.salazarforsenate.com/platform/#economic-justice"
+},
+{
+"text": "Folder: Platform",
+"href": "https://www.salazarforsenate.com/platform-1"
+},
+{
+"text": "Healthcare",
+"href": "https://www.salazarforsenate.com/platform/#healthcare"
+},
+{
+"text": "Housing",
+"href": "https://www.salazarforsenate.com/platform/#housing"
+},
+{
+"text": "Learn more",
+"href": "https://www.nysenate.gov/legislation/bills/2019/S659"
+},
+{
+"text": "Learn more",
+"href": "https://www.nysenate.gov/legislation/bills/2021/s2836"
+},
+{
+"text": "Learn more",
+"href": "https://www.salazarforsenate.com/platform/#housing"
+},
+{
+"text": "Public Safety",
+"href": "https://www.salazarforsenate.com/platform/#public-safety"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.salazarforsenate.com/platform/#reproductive-rights"
+},
+{
+"text": "Support The Campaign",
+"href": "https://secure.actblue.com/donate/salazarforsenate"
+},
+{
+"text": "Workers Rights",
+"href": "https://www.salazarforsenate.com/platform/#workers-rights"
+},
+{
+"text": "[image: Julia Salazar for State Senate]",
+"href": "https://www.salazarforsenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://comptroller.nyc.gov/about/about-brad-lander/"
+},
+{
+"text": "[image]",
+"href": "https://jewishvote.org"
+},
+{
+"text": "[image]",
+"href": "https://maketheroadny.org"
+},
+{
+"text": "[image]",
+"href": "https://nycdistrictcouncil.com"
+},
+{
+"text": "[image]",
+"href": "https://ocasio-cortez.house.gov"
+},
+{
+"text": "[image]",
+"href": "https://socialists.nyc"
+},
+{
+"text": "[image]",
+"href": "https://velazquez.house.gov"
+},
+{
+"text": "[image]",
+"href": "https://workingfamilies.org/state/new-york/"
+},
+{
+"text": "[image]",
+"href": "https://www.brooklyn-usa.org"
+},
+{
+"text": "[image]",
+"href": "https://www.cirseiu.org"
+},
+{
+"text": "[image]",
+"href": "https://www.cuffhaction.org"
+},
+{
+"text": "[image]",
+"href": "https://www.jfrej.org"
+},
+{
+"text": "[image]",
+"href": "https://www.newkingsdemocrats.com"
+},
+{
+"text": "[image]",
+"href": "https://www.northbrooklynprogdems.org"
+},
+{
+"text": "[image]",
+"href": "https://www.nycommunities.org"
+},
+{
+"text": "[image]",
+"href": "https://www.nyic.org"
+},
+{
+"text": "[image]",
+"href": "https://www.nysna.org"
+},
+{
+"text": "[image]",
+"href": "https://www.pubadvocate.nyc.gov"
+},
+{
+"text": "[image]",
+"href": "https://www.streetspac.org"
+},
+{
+"text": "[image]",
+"href": "https://www.vocal-ny.org"
+}
 ]

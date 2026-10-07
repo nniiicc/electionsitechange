@@ -1,24 +1,98 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/cdn-cgi/l/email-protection",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/zh",
-"https://ayannapressley.com/zh/lianluo-women",
-"https://ayannapressley.com/zh/xuanmin-xinxi",
-"https://ayannapressley.com/zh/yigong",
-"https://ayannapressley.com/zh/yinsi-zhengce",
-"https://ayannapressley.com/zh/yizheng-shixiang",
-"https://ayannapressley.com/zh/yu-yaren-na-huimian",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[email protected]",
+"href": "https://ayannapressley.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "捐献",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "活動",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "義工",
+"href": "https://ayannapressley.com/zh/yigong/"
+},
+{
+"text": "聯絡我們",
+"href": "https://ayannapressley.com/zh/lianluo-women/"
+},
+{
+"text": "與雅仁娜會面",
+"href": "https://ayannapressley.com/zh/yu-yaren-na-huimian/"
+},
+{
+"text": "議政事項",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/"
+},
+{
+"text": "購物站",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "選民信息",
+"href": "https://ayannapressley.com/zh/xuanmin-xinxi/"
+},
+{
+"text": "隱私政策",
+"href": "https://ayannapressley.com/zh/yinsi-zhengce/"
+}
 ]

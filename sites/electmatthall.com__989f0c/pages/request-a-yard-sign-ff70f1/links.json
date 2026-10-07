@@ -1,12 +1,50 @@
 [
-"https://electmatthall.com/",
-"https://electmatthall.com/about",
-"https://electmatthall.com/issues",
-"https://electmatthall.com/privacy-policy",
-"https://electmatthall.com/request-a-yard-sign",
-"https://electmatthall.com/terms-and-conditions",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://secure.winred.com/matt-hall-for-state-representative/donate",
-"https://twitter.com/"
+{
+"text": "About",
+"href": "https://electmatthall.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/matt-hall-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://electmatthall.com/"
+},
+{
+"text": "Issues",
+"href": "https://electmatthall.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electmatthall.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://electmatthall.com/request-a-yard-sign/"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://electmatthall.com/terms-and-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://electmatthall.com/terms-and-conditions"
+},
+{
+"text": "[image: Matt Hall]",
+"href": "https://electmatthall.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+}
 ]

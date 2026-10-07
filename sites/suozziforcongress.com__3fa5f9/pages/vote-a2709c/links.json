@@ -1,31 +1,150 @@
 [
-"https://absenteeballot.elections.ny.gov/",
-"https://docs.google.com/forms/d/e/1FAIpQLSdR6qUaTqn6Ka6C-GJVmre4AcQsriqJzH4sfXe3OF7bp27avA/viewform",
-"https://e-register.vote.nyc/",
-"https://elections.ny.gov/early-voting",
-"https://facebook.com/tom.suozzi",
-"https://findmypollsite.vote.nyc/",
-"https://icrmedia.com/",
-"https://instagram.com/tom_suozzi",
-"https://iwillvote.com/",
-"https://mobilize.us/s/6LjiU7",
-"https://nassaucountyny.gov/580/Voting-Info-Services",
-"https://nassaucountyny.gov/DocumentCenter/View/43065/Nassau-Early-Voting-Flyer-CD-03-Special-2024-v2",
-"https://requestballot.vote.nyc/",
-"https://secure.actblue.com/donate/ts_web",
-"https://suozziforcongress.com/",
-"https://suozziforcongress.com/about-tom",
-"https://suozziforcongress.com/contact",
-"https://suozziforcongress.com/endorsements",
-"https://suozziforcongress.com/join",
-"https://suozziforcongress.com/media",
-"https://suozziforcongress.com/news",
-"https://suozziforcongress.com/privacy",
-"https://suozziforcongress.com/signs",
-"https://suozziforcongress.com/tom-suozzi-gets-things-done-for-new-yorks-third-district",
-"https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan",
-"https://suozziforcongress.com/wp-content/uploads/2024/01/Queens-Early-Voting-Flyer.png",
-"https://vote411.org/new-york",
-"https://voterlookup.elections.ny.gov/",
-"https://x.com/Tom_Suozzi"
+{
+"text": "1-844-698-6837",
+"href": "tel:1-844-698-6837"
+},
+{
+"text": "About Tom",
+"href": "https://suozziforcongress.com/about-tom/"
+},
+{
+"text": "Accomplishments",
+"href": "https://suozziforcongress.com/tom-suozzi-gets-things-done-for-new-yorks-third-district/"
+},
+{
+"text": "American Affordability Plan",
+"href": "https://suozziforcongress.com/tom-suozzis-five-point-american-affordability-plan/"
+},
+{
+"text": "Check Registration",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Contact",
+"href": "https://suozziforcongress.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ts_web"
+},
+{
+"text": "Endorsements",
+"href": "https://suozziforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/tom.suozzi"
+},
+{
+"text": "Home",
+"href": "https://suozziforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tom_suozzi/"
+},
+{
+"text": "InterCreative Media",
+"href": "https://icrmedia.com"
+},
+{
+"text": "Join Us",
+"href": "https://suozziforcongress.com/join"
+},
+{
+"text": "Join Us!",
+"href": "https://suozziforcongress.com/join/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://mobilize.us/s/6LjiU7"
+},
+{
+"text": "Media",
+"href": "https://suozziforcongress.com/media/"
+},
+{
+"text": "More Voting Info",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Nassau",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://suozziforcongress.com/privacy"
+},
+{
+"text": "Queens",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Request a Sign!",
+"href": "https://suozziforcongress.com/signs"
+},
+{
+"text": "Tom in the News",
+"href": "https://suozziforcongress.com/news/"
+},
+{
+"text": "Twitter Logo",
+"href": "https://x.com/Tom_Suozzi"
+},
+{
+"text": "VOTE to 70888",
+"href": "sms://70888&body=vote"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdR6qUaTqn6Ka6C-GJVmre4AcQsriqJzH4sfXe3OF7bp27avA/viewform"
+},
+{
+"text": "Voting Early",
+"href": "https://elections.ny.gov/early-voting"
+},
+{
+"text": "Voting Info",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.vote411.org/new-york"
+},
+{
+"text": "[image: Suozzi for Congress 2026 logo]",
+"href": "https://suozziforcongress.com"
+},
+{
+"text": "here",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "here",
+"href": "https://e-register.vote.nyc/"
+},
+{
+"text": "here",
+"href": "https://iwillvote.com/"
+},
+{
+"text": "here",
+"href": "https://requestballot.vote.nyc/"
+},
+{
+"text": "here",
+"href": "https://suozziforcongress.com/wp-content/uploads/2024/01/Queens-Early-Voting-Flyer.png"
+},
+{
+"text": "here",
+"href": "https://www.nassaucountyny.gov/580/Voting-Info-Services"
+},
+{
+"text": "here",
+"href": "https://www.nassaucountyny.gov/DocumentCenter/View/43065/Nassau-Early-Voting-Flyer-CD-03-Special-2024-v2?bidId="
+},
+{
+"text": "www.iwillvote.com",
+"href": "https://www.iwillvote.com"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"https://billmercier.com/",
-"https://billmercier.com/cart",
-"https://billmercier.com/contact",
-"https://billmercier.com/donate",
-"https://billmercier.com/endorsements",
-"https://facebook.com/profile.php?id=61586255349916",
-"https://instagram.com/mercierforcitizens?hl=en",
-"https://secure.anedot.com/mercier-for-citizens/billmercierdonations"
+{
+"text": "0",
+"href": "https://www.billmercier.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.billmercier.com/"
+},
+{
+"text": "Bill Mercier For Ohio House District 7",
+"href": "https://www.billmercier.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.billmercier.com/contact"
+},
+{
+"text": "DONATE TO MERCIER FOR CITIZENS",
+"href": "https://secure.anedot.com/mercier-for-citizens/billmercierdonations"
+},
+{
+"text": "Donate",
+"href": "https://www.billmercier.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.billmercier.com/endorsements"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586255349916"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mercierforcitizens/?hl=en"
+}
 ]

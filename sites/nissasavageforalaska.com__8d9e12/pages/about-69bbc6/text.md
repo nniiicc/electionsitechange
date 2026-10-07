@@ -1,6 +1,4 @@
-Savage for Alaska
-Ready To Thrive
-Like so many families across the Kenai Peninsula, my family knows what it means to work hard, sacrifice, and stitch together a life against the odds.
+Home About Me Priorities Contact DONATE Select Page Savage for Alaska Ready To Thrive Like so many families across the Kenai Peninsula, my family knows what it means to work hard, sacrifice, and stitch together a life against the odds.
 For years, my husband shipped out to work on the Alaska Marine Highway ferries for weeks at a time.
 While he was away keeping our state moving, I stayed home here on the Peninsula, pulling double duty.
 I was a mom trying to find safe, affordable childcare that simply didn’t exist, while simultaneously fighting to build and grow a local business from the ground up.
@@ -14,3 +12,4 @@ I am Nissa Savage, and I am running for the Alaska House of Representatives beca
 We need a focused fiscal strategy that centers on the real issues that Alaskans face daily.
 I am going to Juneau to demand accountability, to secure the baseline support our families deserve, and to ensure the Kenai Peninsula is a place where people can actually afford to stay, work, and thrive.
 Please consider making a donation to support my campaign.
+Donate Nissa Savage for Alaska State House of Representatives DISTRICT 8 p: (907) 252-5549 e: nissaforstatehouse@gmail.com Paid for by Nissa for State House 36439 Edgington Rd, Soldotna, AK 99669 Proudly Endorsed By Copyright © # · Nissa for State House · All Rights Reserved

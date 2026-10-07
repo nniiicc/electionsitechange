@@ -1,40 +1,10 @@
-Press
-Release
-STEVE SAUTER FOR ND
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
-BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North Dakota’s way of life.
+Meet Steve Priorities News Get Involved Vote Contact DONATE Press Release STEVE SAUTER FOR ND Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 5, 2026 | Press Release BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North Dakota’s way of life.
 “By working together and focusing on the issues that matter to North Dakota families, our conservative legislators have delivered meaningful, results-driven policies for our state,” Governor Armstrong said.
 “They passed historic property tax relief, eliminated sixteen boards and commissions to reduce wasteful spending, and prioritized education, including implementing cell phone-free schools.
 They continue to stand strong for our business community and the energy and agriculture industries that power our state.
-As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.”
-“I’m also encouraged by a new generation of conservative candidates stepping forward to serve,” Armstrong added.
+As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.” “I’m also encouraged by a new generation of conservative candidates stepping forward to serve,” Armstrong added.
 “They are committed to lowering property taxes, growing our economy, and reducing government spending.
-I’m proud to support this slate of candidates and encourage North Dakotans to join me in supporting them on June 9.”
-Governor Armstrong Endorsements:
-District 3
-- Blaine DesLauriers
-- Tim Mihalick
-District 7
-- Senator Michelle Axtman
-- Steve Sauter
-- Greg Vetter
-District 13
-- Senator Judy Lee
-- Representative Austen Schauer
-- Representative Jim Jonas
-District 23
-- Corey Johnson
-District 25
-- Terry Goerger
-District 27
-- Senator Kristin Roers
-- Representative Greg Stemen
-- Shawn Kessel
-District 31
-- Senator Don Schaible
-District 33
-- Representative Anna Novak
-- Mike Heger
-District 42
-- Representative Dustin McNally
-District 43
+I’m proud to support this slate of candidates and encourage North Dakotans to join me in supporting them on June 9.” Governor Armstrong Endorsements: District 3 Blaine DesLauriers Tim Mihalick District 7 Senator Michelle Axtman Steve Sauter Greg Vetter District 13 Senator Judy Lee Representative Austen Schauer Representative Jim Jonas District 23 Corey Johnson District 25 Terry Goerger District 27 Senator Kristin Roers Representative Greg Stemen Shawn Kessel District 31 Senator Don Schaible District 33 Representative Anna Novak Mike Heger District 42 Representative Dustin McNally District 43 Mike Holmes SUPPORT STEVE'S CAMPAIGN DONATE VOLUNTEER Follow Steve on the Campaign Trail Follow Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY SAUTER FOR ND

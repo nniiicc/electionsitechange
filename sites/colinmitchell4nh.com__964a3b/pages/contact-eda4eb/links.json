@@ -1,7 +1,46 @@
 [
-"https://colinmitchell4nh.com/",
-"https://colinmitchell4nh.com/contact",
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://secure.anedot.com/friends-of-colin-mitchell/donate"
+{
+"text": "About",
+"href": "https://colinmitchell4nh.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://colinmitchell4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-colin-mitchell/donate"
+},
+{
+"text": "Host an Event",
+"href": "https://colinmitchell4nh.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://colinmitchell4nh.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://colinmitchell4nh.com/contact"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "Values",
+"href": "https://colinmitchell4nh.com/#values"
+},
+{
+"text": "Volunteer",
+"href": "https://colinmitchell4nh.com/contact"
+},
+{
+"text": "[image]Colin Mitchell",
+"href": "https://colinmitchell4nh.com/"
+}
 ]

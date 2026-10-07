@@ -1,34 +1,178 @@
 [
-"https://aacounty.org/services",
-"https://aafoodbank.org/",
-"https://amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf",
-"https://coronavirus.maryland.gov/pages/symptoms-testing",
-"https://coronavirus.maryland.gov/pages/vaccine",
-"https://dllr.state.md.us/employment/unemployment.shtml",
-"https://dnr.maryland.gov/publiclands/pages/central/patapsco.aspx",
-"https://dnr.maryland.gov/wildlife/Pages/publiclands/central/mckeebeshers.aspx",
-"https://donate.unitedwaynca.org/page/contribute/stand-up-and-deliver-program",
-"https://hyattsville.org/413/Heurich-Dog-Park",
-"https://instagram.com/delmarylehman",
-"https://laurelhistoricalsociety.org/about-us.html",
-"https://laurelmuseum.org/",
-"https://makeyourbodywork.com/how-to-exercise-at-home",
-"https://marylehman.com/",
-"https://marylehman.com/about",
-"https://marylehman.com/cart",
-"https://marylehman.com/contact",
-"https://marylehman.com/contact-mary",
-"https://marylehman.com/donate",
-"https://marylehman.com/internships",
-"https://marylehman.com/issues",
-"https://marylehman.com/key-issues",
-"https://marylehman.com/my-initiatives",
-"https://marylehman.com/new-folder",
-"https://marylehman.com/scholarships",
-"https://mhanational.org/31-tips-boost-your-mental-health",
-"https://moinagency.com/",
-"https://princegeorgescountymd.gov/departments-offices/social-services/services",
-"https://rd.com/list/what-to-bring-to-a-protest",
-"https://wired.com/story/how-to-protest-safely-gear-tips",
-"https://youtube.com/watch?v=v7AYKMP6rOE"
+{
+"text": "0",
+"href": "https://www.marylehman.com/cart"
+},
+{
+"text": "2022-2024 MD Bills",
+"href": "https://www.marylehman.com/my-initiatives#bills"
+},
+{
+"text": "ABOUT",
+"href": "https://www.marylehman.com/about"
+},
+{
+"text": "Amnesty USA’s Tips",
+"href": "https://www.amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf"
+},
+{
+"text": "Anne Arundel County Services",
+"href": "https://www.marylehman.com/issues#AnneArundel"
+},
+{
+"text": "Back",
+"href": "https://www.marylehman.com/"
+},
+{
+"text": "CLICK HERE",
+"href": "https://www.aacounty.org/services"
+},
+{
+"text": "CLICK HERE",
+"href": "https://www.princegeorgescountymd.gov/departments-offices/social-services/services"
+},
+{
+"text": "CONTACT MARY",
+"href": "https://www.marylehman.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.marylehman.com/contact"
+},
+{
+"text": "Covid Updates",
+"href": "https://www.marylehman.com/issues#covid"
+},
+{
+"text": "DONATE",
+"href": "https://www.marylehman.com/donate"
+},
+{
+"text": "Donate Here",
+"href": "https://aafoodbank.org/"
+},
+{
+"text": "Donate Here",
+"href": "https://donate.unitedwaynca.org/page/contribute/stand-up-and-deliver-program"
+},
+{
+"text": "Folder: CONTACT MARY",
+"href": "https://www.marylehman.com/contact-mary"
+},
+{
+"text": "Folder: INITIATIVES",
+"href": "https://www.marylehman.com/new-folder"
+},
+{
+"text": "Folder: ISSUES",
+"href": "https://www.marylehman.com/issues"
+},
+{
+"text": "Food Bank Info",
+"href": "https://www.marylehman.com/issues#foodbank"
+},
+{
+"text": "HOME",
+"href": "https://www.marylehman.com"
+},
+{
+"text": "Heurich Dog Park",
+"href": "https://www.hyattsville.org/413/Heurich-Dog-Park"
+},
+{
+"text": "INITIATIVES",
+"href": "https://www.marylehman.com/my-initiatives"
+},
+{
+"text": "ISSUES",
+"href": "https://www.marylehman.com/key-issues"
+},
+{
+"text": "Internships",
+"href": "https://www.marylehman.com/internships"
+},
+{
+"text": "Key Issues",
+"href": "https://www.marylehman.com/key-issues"
+},
+{
+"text": "Laurel Historical Society",
+"href": "https://www.laurelhistoricalsociety.org/about-us.html"
+},
+{
+"text": "Laurel Museum",
+"href": "https://laurelmuseum.org"
+},
+{
+"text": "MOIN AGENCY",
+"href": "https://moinagency.com"
+},
+{
+"text": "Make Your Body Work",
+"href": "https://makeyourbodywork.com/how-to-exercise-at-home/"
+},
+{
+"text": "McKee-Besher WMA",
+"href": "https://dnr.maryland.gov/wildlife/Pages/publiclands/central/mckeebeshers.aspx"
+},
+{
+"text": "Mental Health America Tips",
+"href": "https://www.mhanational.org/31-tips-boost-your-mental-health"
+},
+{
+"text": "My Initiatives",
+"href": "https://www.marylehman.com/my-initiatives"
+},
+{
+"text": "Patapsco Valley State Park",
+"href": "https://dnr.maryland.gov/publiclands/pages/central/patapsco.aspx"
+},
+{
+"text": "Prince George's County Services",
+"href": "https://www.marylehman.com/issues#PrinceGeorge"
+},
+{
+"text": "Reader’s Digest Tips",
+"href": "https://www.rd.com/list/what-to-bring-to-a-protest/"
+},
+{
+"text": "Scholarships",
+"href": "https://www.marylehman.com/scholarships"
+},
+{
+"text": "State Redistricting",
+"href": "https://www.marylehman.com/my-initiatives#redistricting"
+},
+{
+"text": "TESTING LOCATIONS",
+"href": "https://coronavirus.maryland.gov/pages/symptoms-testing"
+},
+{
+"text": "Wired’s Tips on Safely Protesting",
+"href": "https://www.wired.com/story/how-to-protest-safely-gear-tips/#:~:text=Pack%20lightweight%2C%20nutritious%2C%20protein%2D,are%20some%20things%20to%20consider."
+},
+{
+"text": "Yoga With Adriene",
+"href": "https://www.youtube.com/watch?v=v7AYKMP6rOE"
+},
+{
+"text": "[image: Delegate Mary A. Lehman ]",
+"href": "https://www.marylehman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/delmarylehman/"
+},
+{
+"text": "click here",
+"href": "https://www.dllr.state.md.us/employment/unemployment.shtml"
+},
+{
+"text": "here",
+"href": "https://coronavirus.maryland.gov/pages/vaccine"
+},
+{
+"text": "marylehman@marylehman.com",
+"href": "mailto:marylehman@marylehman.com"
+}
 ]

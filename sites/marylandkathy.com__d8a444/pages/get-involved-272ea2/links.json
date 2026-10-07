@@ -1,21 +1,118 @@
 [
-"https://instagram.com/kathyformd",
-"https://kathyformaryland.substack.com/",
-"https://marylandkathy.com/",
-"https://marylandkathy.com/contact",
-"https://marylandkathy.com/events",
-"https://marylandkathy.com/get-involved",
-"https://marylandkathy.com/meet-kathy",
-"https://marylandkathy.com/news",
-"https://marylandkathy.com/newsletter",
-"https://marylandkathy.com/priorities",
-"https://marylandkathy.com/privacy",
-"https://marylandkathy.com/terms",
-"https://secure.anedot.com/kathyszeliga/general",
-"https://secure.anedot.com/kathyszeliga/general?amount=100",
-"https://secure.anedot.com/kathyszeliga/general?amount=25",
-"https://secure.anedot.com/kathyszeliga/general?amount=250",
-"https://secure.anedot.com/kathyszeliga/general?amount=50",
-"https://secure.anedot.com/kathyszeliga/general?amount=500",
-"https://x.com/KathyforMD"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/kathyszeliga/general?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/kathyszeliga/general?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/kathyszeliga/general?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/kathyszeliga/general?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/kathyszeliga/general?amount=500"
+},
+{
+"text": "410-989-2148",
+"href": "tel:+1-410-989-2148"
+},
+{
+"text": "Contact",
+"href": "https://marylandkathy.com/contact"
+},
+{
+"text": "Contact KathyAn idea for a bill, an invitation to your event, or something on your mind.Get in touch",
+"href": "mailto:info@marylandkathy.com?subject=Message+for+Delegate+Szeliga"
+},
+{
+"text": "Contact us",
+"href": "https://marylandkathy.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/kathyszeliga/general"
+},
+{
+"text": "Donate now",
+"href": "https://secure.anedot.com/kathyszeliga/general"
+},
+{
+"text": "DonateFuel the campaign. Every contribution goes straight into reaching District 7A voters.Contribute",
+"href": "https://secure.anedot.com/kathyszeliga/general"
+},
+{
+"text": "Events",
+"href": "https://marylandkathy.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://marylandkathy.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://marylandkathy.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kathyformd/"
+},
+{
+"text": "Meet Kathy",
+"href": "https://marylandkathy.com/meet-kathy"
+},
+{
+"text": "News",
+"href": "https://marylandkathy.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://marylandkathy.com/newsletter"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/kathyszeliga/general"
+},
+{
+"text": "Priorities",
+"href": "https://marylandkathy.com/priorities"
+},
+{
+"text": "Privacy",
+"href": "https://marylandkathy.com/privacy"
+},
+{
+"text": "Request a yard signTell your street where you stand. We will get a sign to your door.Request a sign",
+"href": "mailto:info@marylandkathy.com?subject=Yard+sign+request&body=Name%3AStreet+address%3APhone%3A"
+},
+{
+"text": "Substack",
+"href": "https://kathyformaryland.substack.com"
+},
+{
+"text": "Terms",
+"href": "https://marylandkathy.com/terms"
+},
+{
+"text": "VolunteerKnock doors, make calls, staff an event. Put your time where your convictions are.Join the team",
+"href": "mailto:info@marylandkathy.com?subject=I+want+to+volunteer&body=Name%3APhone%3AWhat+I+would+like+to+help+with%3A"
+},
+{
+"text": "X",
+"href": "https://x.com/KathyforMD"
+},
+{
+"text": "[image: Kathy Szeliga, State Delegate]",
+"href": "https://marylandkathy.com/"
+},
+{
+"text": "info@marylandkathy.com",
+"href": "mailto:info@marylandkathy.com"
+}
 ]

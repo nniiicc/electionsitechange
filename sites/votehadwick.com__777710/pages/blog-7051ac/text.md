@@ -1,11 +1,10 @@
-top of page
-News
-By providing your phone number and checking this box, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Hadwick for Assembly.
+top of page Heather Out In The District Donate Home About Heather About District 1 Support Volunteer Issues Year 1 Victories Endorsements Contact Photos Privacy Policy Fundraisers News More Use tab to navigate through the menu items.
+News California State Assemblymember Laurie Davies Endorses Heather Hadwick for AD01 Jan 19, 2024 Siskiyou County Supervisor Brandon Criss Endorses Heather Hadwick for State Assembly Dec 13, 2023 Former Shasta County Supervisor Bill Schappell Endorses Heather Hadwick for Assembly Nov 30, 2023 Butte Valley Unified School Board President Shannon Struble Endorses Heather Hadwick Nov 16, 2023 Heather Hadwick Earns Endorsement from California Professional Firefighters Nov 8, 2023 Former Placer County Supervisor Kirk Uhler Endorses Heather Hadwick Nov 2, 2023 Siskiyou County Supervisor Michael Kobseff Endorses Heather Hadwick for State Assembly Oct 5, 2023 Modoc County Assessor-Recorder Kristen DePaul Endorses Heather Hadwick for State Assembly Sep 28, 2023 Assemblymember Megan Dahle Endorses District 1 Candidate Heather Hadwick Sep 21, 2023 Modoc County Superintendent Mike Martin Endorses Heather Hadwick for State Assembly Aug 23, 2023 August Fires Strike the North State Aug 16, 2023 Heather Hadwick Criticizes Public Safety Committee Liberals for Failure of SB 14 Jul 11, 2023 Karin Rosser Endorses Heather Hadwick's Campaign for Assembly District 1 Jun 14, 2023 Heather Hadwick Launches Campaign for California Assembly District 1 May 18, 2023 HELP OUR CAMPAIGN First Name Last Name Email Phone Opt-in to receive text messages Send Thanks for submitting!
+HEATHER HADWICK California District 1 Assembly By providing your phone number and checking this box, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from Hadwick for Assembly.
 We do not share your information with third parties unless required by law.
 Message and data rates may apply.
 Message and data rates may apply.
 Message frequency may vary.
 Reply "STOP" to opt-out.
 Please see Privacy Policy & Terms of Use for more info.
-Paid for by Hadwick for Assembly 2026
-bottom of page
+Contact: hhadwick@votehadwick.com ​ Address: PO Box 693 Alturas, CA 96101 Paid for by Hadwick for Assembly 2026 Privacy Policy & Terms and Conditions bottom of page

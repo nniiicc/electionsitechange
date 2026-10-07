@@ -1,21 +1,2 @@
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
-Carey Hamilton
-Carey Hamilton
-Read More
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Amendment to secure fair electoral maps struck down Read More Carey Hamilton 8/5/24 Carey Hamilton 8/5/24 Hamilton amendment to expand voting access struck down: ‘Democracy is not a spectator sport’ Read More Carey Hamilton 9/25/21 Carey Hamilton 9/25/21 Hamilton Urges Lawmakers to Slow Down Redistricting, Strengthen Democracy with Fair Maps Read More Carey Hamilton 4/8/21 Carey Hamilton 4/8/21 Hamilton advocates for redistricting reform on the House floor (2021) Read More Carey Hamilton 1/8/21 Carey Hamilton 1/8/21 Hamilton focuses on improving quality of life for all Hoosiers during 2021 Legislative Session (2021) Read More Carey Hamilton 7/23/20 Carey Hamilton 7/23/20 Hamilton calls for no-excuse vote-by-mail option (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton supports voter verifiable paper audit trails (2020) Read More Carey Hamilton 7/1/20 Carey Hamilton 7/1/20 Hamilton supports extending voting hours (2020).
+Read More Carey Hamilton 8/1/19 Carey Hamilton 8/1/19 Hamilton supports absentee ballots for all (2019) Read More Paid for and authorized by the Committee to Elect Carey Hamilton

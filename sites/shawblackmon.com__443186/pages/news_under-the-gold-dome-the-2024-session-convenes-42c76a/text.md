@@ -1,5 +1,5 @@
-| |
-| The House of Representatives has gotten off to a busy and productive start since convening January 8 for the 2024 legislative session.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+News / Under the Gold Dome: The 2024 Session Convenes 15 Jan Monday, 10:34 AM · 2024 Under the Gold Dome: The 2024 Session Convenes The House of Representatives has gotten off to a busy and productive start since convening January 8 for the 2024 legislative session.
 Our first order of business included re-electing Speaker Jon Burns and Speaker Pro-Tempore Jan Jones to continue leading the House, as well as setting our legislative calendar.
 The General Assembly will meet for 40 legislative days as required by law, and we will conclude on “Sine Die,” which falls on March 29 this year.
 Gov.
@@ -25,4 +25,6 @@ As we continue working on the state budget, education improvements and other imp
 We will be working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective laws.
 We hope you will take the opportunity to sign up here if you've not already done so.
 Thank you for the honor of allowing us to serve as your voice under the Gold Dome, as we work towards SIMPLE, SMART, AND EFFECTIVE government.
-May God bless you and may He continue to bless the great state of Georgia. |
+May God bless you and may He continue to bless the great state of Georgia.
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

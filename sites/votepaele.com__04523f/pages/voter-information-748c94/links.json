@@ -1,16 +1,62 @@
 [
-"https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit",
-"https://facebook.com/profile.php?id=61583577130830",
-"https://instagram.com/voteforpaele",
-"https://mauicountyvotes.gov/",
-"https://mauicountyvotes.gov/dropbox-locations",
-"https://mohoaina.com/vote",
-"https://olvr.hawaii.gov/",
-"https://votepaele.com/",
-"https://votepaele.com/cart",
-"https://votepaele.com/donate",
-"https://votepaele.com/events",
-"https://votepaele.com/ola",
-"https://votepaele.com/volunteer",
-"https://votepaele.com/voter-information"
+{
+"text": "0",
+"href": "https://www.votepaele.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.votepaele.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votepaele.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votepaele.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votepaele.com/ola"
+},
+{
+"text": "Maui County Ballot Dropbox Locations",
+"href": "https://mauicountyvotes.gov/dropbox-locations"
+},
+{
+"text": "Maui County's Voter Resource Website",
+"href": "https://mauicountyvotes.gov/"
+},
+{
+"text": "Moho ʻĀina Voter Guide",
+"href": "https://mohoaina.com/vote"
+},
+{
+"text": "Source: Hawaiʻi Office of Elections",
+"href": "https://elections.hawaii.gov/voter-service-centers-and-places-of-deposit/"
+},
+{
+"text": "Update your Voter Registration",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votepaele.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votepaele.com/voter-information"
+},
+{
+"text": "[image: Pā&#39;ele Kiakona for Maui House Rep District 14]",
+"href": "https://www.votepaele.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583577130830"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voteforpaele/"
+}
 ]

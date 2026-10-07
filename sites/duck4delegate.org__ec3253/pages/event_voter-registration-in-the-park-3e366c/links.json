@@ -1,15 +1,70 @@
 [
-"https://duck4delegate.org/",
-"https://duck4delegate.org/accessibility-statement",
-"https://duck4delegate.org/endorsements",
-"https://duck4delegate.org/event/south-county-dems-meeting",
-"https://duck4delegate.org/events",
-"https://duck4delegate.org/issues",
-"https://duck4delegate.org/meet-candidate",
-"https://duck4delegate.org/news",
-"https://duck4delegate.org/terms-of-service",
-"https://duck4delegate.org/volunteer",
-"https://duck4delegate.org/voting-info",
-"https://heyvictor.com/",
-"https://secure.actblue.com/donate/andrew-duck-4"
+{
+"text": "Accessibility Statement",
+"href": "https://duck4delegate.org/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-duck-4?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://duck4delegate.org/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://duck4delegate.org/events/"
+},
+{
+"text": "Home",
+"href": "https://duck4delegate.org/"
+},
+{
+"text": "Issues",
+"href": "https://duck4delegate.org/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://duck4delegate.org/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://duck4delegate.org/news/"
+},
+{
+"text": "See event info",
+"href": "https://duck4delegate.org/event/south-county-dems-meeting/"
+},
+{
+"text": "South County Dems Meeting",
+"href": "https://duck4delegate.org/event/south-county-dems-meeting/"
+},
+{
+"text": "Terms of Service",
+"href": "https://duck4delegate.org/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://duck4delegate.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://duck4delegate.org/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://duck4delegate.org/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "← Back To Events",
+"href": "https://duck4delegate.org/events"
+}
 ]

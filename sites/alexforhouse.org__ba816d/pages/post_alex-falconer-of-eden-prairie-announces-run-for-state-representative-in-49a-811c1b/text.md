@@ -1,6 +1,6 @@
-Alex Falconer of Eden Prairie announces run for State Representative in 49A, Rep.
-Laurie Pryor’s newly open seat
-Eden Prairie, MN — Today, Alex Falconer of Eden Prairie announced he is running to fill the open Minnesota State House seat 49A.
+top of page IN THE NEWS Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+DONATE All Posts Press Releases In the News Letters to the Editor Search Alex Falconer of Eden Prairie announces run for State Representative in 49A, Rep.
+Laurie Pryor’s newly open seat Jan 28, 2024 2 min read Eden Prairie, MN — Today, Alex Falconer of Eden Prairie announced he is running to fill the open Minnesota State House seat 49A.
 Rep.
 Laurie Pryor announced her retirement, opening a seat that covers parts of Eden Prairie and Minnetonka.
 He is running as a proud Democrat and vying for the DFL Party endorsement at their Senate District Convention in April.
@@ -17,5 +17,6 @@ He’ll be focusing his campaign on environmental stewardship, access to afforda
 Alex and his wife have three kids in the Minnetonka public schools.
 He is an assistant coach of the cross country running team at Minnetonka Middle School East and is an assistant coach with the Minnetonka High School Nordic Cross Country Ski Team.
 They have lived in the district since 2013.
-Contact: Alex Falconer
-(612) 419-3423 / alexforhouse@gmail.com
+Contact: Alex Falconer (612) 419-3423 / alexforhouse@gmail.com Press Releases Meet Alex The Issues VOTE EARLY Volunteer Endorsements More Use tab to navigate through the menu items.
+Meet Alex The Issues VOTE EARLY Volunteer Endorsements DONATE alexforhouse@gmail.com ©# by Alex For House Prepared and paid for by Campaign Fund of Alexander Falconer P.O.
+Box 1346 Minnetonka, MN 55345 bottom of page

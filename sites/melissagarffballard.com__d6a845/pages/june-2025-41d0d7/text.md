@@ -1,60 +1,39 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: JUNE 2025 |
-| |
-| Dear Friends and Neighbors, As we mourn the loss of 4 Utahns killed in senseless shootings this weekend, and the loss of Minnesota legislators being gunned down in their homes, my heart goes out to the victims’ families and friends who have lost their loved ones.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session CHECKING IN AT THE LEGISLATURE: JUNE 2025 Dear Friends and Neighbors, As we mourn the loss of 4 Utahns killed in senseless shootings this weekend, and the loss of Minnesota legislators being gunned down in their homes, my heart goes out to the victims’ families and friends who have lost their loved ones.
 I condemn violent acts associated with political protests and rallies, and gang-related activity.
-During the 2025 Utah legislative session, we enhanced gang-related felonies, even holding adults responsible for pressuring and organizing youth to engage in crime, through HB38.
+During the 2025 Utah legislative session, we enhanced gang-related felonies, even holding adults responsible for pressuring and organizing youth to engage in crime, through HB38 .
 As your representative in the Utah House, I have made multiple public statements that criminals are not welcome in Utah: we don’t want their drugs, their violence, and any crimes against children are inexcusable.
 Thanks to all of our active-duty soldiers, sailors, and airmen serving around the world to protect and fight for the liberties we hold dear.
 We especially appreciate their families who support them.
 Thanks to our local and state law enforcement for the work they do to keep us safe!!
-And God Bless America |
-| |
-| |
-| UPCOMING EVENTS: Tue, June 24 (5-7pm): FrontRunner 2X Neighborhood Meeting
-Wood Cross City Hall Community Room Sat, June 28 and July 2-3: North Salt Lake Liberty Fest Events
-Includes volleyball tournament and races at Legacy Park, a car show, and fireworks at Eaglewood Golf Course Click here for more details!
-Fri, July 25 (5-9pm) and Sat, July 26 (10am-4pm): Bountiful Handcart Parade and Events
-400 N 200 W, Bountiful City Park Woods Cross City Summer Rec program
-Click here for more info! |
-| |
-| |
-| |
-| QUICK LINKS |
-| |
-| |
-| IN THIS ISSUE 1.
+And God Bless America UPCOMING EVENTS: Tue, June 24 (5-7pm): FrontRunner 2X Neighborhood Meeting Wood Cross City Hall Community Room Sat, June 28 and July 2-3: North Salt Lake Liberty Fest Events Includes volleyball tournament and races at Legacy Park, a car show, and fireworks at Eaglewood Golf Course Click here for more details!
+Fri, July 25 (5-9pm) and Sat, July 26 (10am-4pm): Bountiful Handcart Parade and Events 400 N 200 W, Bountiful City Park Woods Cross City Summer Rec program Click here for more info!
+QUICK LINKS Learn about Utah’s Budget and use of your tax dollars here How do tariffs work?
+Let’s look at Arctic Circle Fry Sauce to find out What recent investments and initiatives has Utah government made in Housing?
+Deseret News: A win for Utah and Oklahoma: Supreme Court tells EPA to back off IN THIS ISSUE 1.
 Recent Legislation enhancing public safety 2.
 Utah’s Newest State Park near Moab- Utah Raptor State Park 3.
 D-Day events with WWII Vets from the USA in Normandy, France 4.
-A visit to the White House and US Senate |
-| |
-| |
-| Enhancing Public Safety and Opioid Settlement Update |
-| |
-| Here’s an update on Utah's use of Opioid Settlement funding to help those impacted by addiction: https://budget.utah.gov/dont-just-settle-leveraging-opioid-funds-for-lasting-impact/.
+A visit to the White House and US Senate Enhancing Public Safety and Opioid Settlement Update Here’s an update on Utah's use of Opioid Settlement funding to help those impacted by addiction: https://budget.utah.gov/dont-just-settle-leveraging-opioid-funds-for-lasting-impact/ .
 We enhanced penalties for crimes against children through HB148 and increased school safety protocol and resources.
 The Utah Legislature has supported enhancing public safety for a number of years.
-Just in the 2025 legislative session here’s a sample of what we did for you: |
-| |
-| |
-| |
-| Utah’s Newest State Park, 100 Million Years in the Making |
-| |
-| Utah Raptor State Park is officially open, welcoming visitors to explore 6,500 acres of stunning red rock desert just outside Moab.
+Just in the 2025 legislative session here’s a sample of what we did for you: Utah’s Newest State Park, 100 Million Years in the Making Utah Raptor State Park is officially open, welcoming visitors to explore 6,500 acres of stunning red rock desert just outside Moab.
 Named after the fierce dinosaur whose fossils were discovered in the area, the park offers something for everyone—mountain biking, off-roading, hiking, and a brand-new campground with 67 campsites.
-History buffs can also visit the Dalton Wells Quarry, a major fossil site with a layered past that includes ties to the Civilian Conservation Corps and WWII-era internment. visit the Utah State Parks website. |
-| |
-| |
-| |
-| D-Day 81st Anniversary with USA WWII Veterans |
-| |
-| It was an honor to attend D-Day celebrations in Normandy with our heroic WWII Veterans from the USA, ages 95-104.
+History buffs can also visit the Dalton Wells Quarry, a major fossil site with a layered past that includes ties to the Civilian Conservation Corps and WWII-era internment. visit the Utah State Parks website.
+D-Day 81st Anniversary with USA WWII Veterans It was an honor to attend D-Day celebrations in Normandy with our heroic WWII Veterans from the USA, ages 95-104.
 "These are the boys of Pointe du Hoc.
 These are the men who took the cliffs.
 These are the champions who helped free a continent.
@@ -64,33 +43,12 @@ They hadn't come to die.
 They had come to win.'" — Stephen Ambrose, Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest "At the core, the American citizen soldiers knew the difference between right and wrong, and they didn't want to live in a world in which wrong prevailed.
 So, they fought and won, and we, all of us, living and yet to be born, must be forever profoundly grateful." — Stephen Ambrose, Citizen Soldiers "I took chances on D-Day that I never would have taken later in the war." — First Sergeant C.
 Carwood Lipton, 506th Parachute Regiment, 101st Airborne Division "Our sons, pride of our nation, this day have set upon a mighty endeavor, a struggle to preserve our Republic, our religion, and our civilization, and to set free a suffering humanity." — President Franklin D.
-Roosevelt |
-| |
-| |
-| |
-| Visiting the White House and US Senate |
-| |
-| Invited by the Rainey Center, I attended a Latinos for America First briefing with multiple White House officials, including Kassandra Dulin, the Special Assistant to the President and Policy Advisor in the White House Faith Office, and Lynne Patton, Deputy Assistant to the President for Minority Policy and Outreach.
+Roosevelt Visiting the White House and US Senate Invited by the Rainey Center , I attended a Latinos for America First briefing with multiple White House officials, including Kassandra Dulin, the Special Assistant to the President and Policy Advisor in the White House Faith Office, and Lynne Patton, Deputy Assistant to the President for Minority Policy and Outreach.
 Attendees included Utah House District 58 Legislator David Shallenberger, Salt Lake County Council member Carlos Moreno, Utah County Commissioner Amelia Gardner, Rainey Center President Sarah Hunt.
 The Rainey Center scheduled meetings for us to meet with US Republican Senators to discuss conservative energy policies and supporting Utah Energy businesses.
-We appreciate the work of the Rainey Center whose focus is “Making change through policy research and leadership development to advance freedom, equality, and a more perfect union where the American dream is for everyone.” |
-| |
-| |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Copyright © 2025, All rights reserved.
+We appreciate the work of the Rainey Center whose focus is “Making change through policy research and leadership development to advance freedom, equality, and a more perfect union where the American dream is for everyone.” Learn More About Melissa Facebook Instagram Email Copyright © #, All rights reserved.
 Paid for by the Committee to Elect Melissa Garff Ballard Want to change how you receive these emails?
-You can update your preferences or unsubscribe from this list. |
+You can update your preferences or unsubscribe from this list .
+Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

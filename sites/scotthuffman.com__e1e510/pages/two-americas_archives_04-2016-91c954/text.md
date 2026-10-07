@@ -1,5 +1,7 @@
-| Rep.
-Hudson(R) could not be ‘more’ wrong on his recent Vote in support of H.R. 2666.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Wrong on Broadband 4/18/2016 Rep.
+Hudson(R) could not be ‘more’ wrong on his recent Vote in support of H.R.
+2666.
 The FCC should regulate rates charged for Broadband Internet service.
 If this makes it to the President’s desk, President Obama should veto it.
 Rep.
@@ -29,7 +31,7 @@ Consumers are paying higher rates for slow internet.
 Why doesn't every home have fiber yet?
 De-regulation at the state and federal level killed that idea.
 Fiber Optic was developed in 1966 and was quickly adopted to replace copper for telecom communications.
-Telecom's have held on to copper vs upgrading their network 20 years ago.
+Telecom's have held on to copper vs upgrading their network #ago.
 There was no reason to upgrade a 100 year old copper network.
 Remember, not ALL de-regulation is good.
 In fact to de-regulate you have to regulate.
@@ -47,7 +49,12 @@ They were cheering when he voted YES for this bill.
 I posted this on Rep Hudson's Facebook page.
 It was quickly deleted and I was blocked from posting.
 It's clear he doesn't listen to constituents.
-He listened to the Corporate PAC's who donate to him. | Posts from before 2025 were written during Scott's campaigns for U.S.
+He listened to the Corporate PAC's who donate to him.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

@@ -1,7 +1,4 @@
-Media Resources
-Photo for publication
-Biography for publication
-Senator Melissa Wintrow is the Senate Minority Leader in the Idaho Legislature.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE Media Resources Photo for publication Biography for publication Senator Melissa Wintrow is the Senate Minority Leader in the Idaho Legislature.
 She is now in her 5th term representing Boise’s Legislative District 19, second term in the Idaho Senate after completing three terms as a member of the Idaho House of Representatives.
 Senator Wintrow currently serves on the Health & Welfare, Judiciary & Rules and Transportation Committees.
 She serves on Idaho Governor’s Criminal Justice Commission and the is Co-chair of the Joint Legislative Oversight Committee that reviews research requests of public agencies.
@@ -11,4 +8,4 @@ Senator Wintrow worked in higher education for more than twenty-five years at si
 She owns a consulting firm, SAGA Strategic Consulting, specializing in project management, team facilitation, and leadership development.
 Her decision to run for office was spurred through involvement as a Program Manager for N.E.W.
 Leadership (National Education for Women), a program founded by Rutgers University to introduce women to politics and public policy to inspire them to run for office.
-To quote Teddy Roosevelt, after mentoring numerous students, especially women, it was time for her to “enter the arena.”
+To quote Teddy Roosevelt, after mentoring numerous students, especially women, it was time for her to “enter the arena.” Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

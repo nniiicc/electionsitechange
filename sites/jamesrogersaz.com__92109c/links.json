@@ -1,6 +1,22 @@
 [
-"https://jamesrogersaz.com/",
-"https://jamesrogersaz.com/bio",
-"https://jamesrogersaz.com/privacy-policy",
-"https://secure.anedot.com/james-rogers-az/donate"
+{
+"text": "Arizona First and America First",
+"href": "https://jamesrogersaz.com/bio"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/james-rogers-az/donate"
+},
+{
+"text": "Home",
+"href": "https://jamesrogersaz.com"
+},
+{
+"text": "Meet James",
+"href": "https://jamesrogersaz.com/bio/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamesrogersaz.com/privacy-policy/"
+}
 ]

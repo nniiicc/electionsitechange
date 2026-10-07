@@ -1,14 +1,54 @@
 [
-"http://instagram.com/Nelly4RI",
-"https://bsky.app/profile/electnelly.bsky.social",
-"https://electnelly.com/",
-"https://electnelly.com/about",
-"https://electnelly.com/get-involved",
-"https://electnelly.com/issues",
-"https://electnelly.com/newsletter",
-"https://electnelly.com/privacy-policy",
-"https://facebook.com/electnelly",
-"https://oha.ri.gov/sites/g/files/xkgbur251/files/2024-02/2023-2026%20SPA%20Final%20-%20updated%208.2023.pdf",
-"https://secure.actblue.com/donate/nelly-burdette-1",
-"https://threads.com/@nelly4ri"
+{
+"text": "About",
+"href": "https://electnelly.com/about"
+},
+{
+"text": "Citation:",
+"href": "https://oha.ri.gov/sites/g/files/xkgbur251/files/2024-02/2023-2026%20SPA%20Final%20-%20updated%208.2023.pdf"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/nelly-burdette-1"
+},
+{
+"text": "Get involved",
+"href": "https://electnelly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://electnelly.com/"
+},
+{
+"text": "Issues",
+"href": "https://electnelly.com/issues"
+},
+{
+"text": "Newsletter",
+"href": "https://electnelly.com/newsletter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electnelly.com/privacy-policy"
+},
+{
+"text": "[image: Nelly Burdette for RI Senate District 17 logo]",
+"href": "https://electnelly.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/electnelly.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/electnelly"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "http://instagram.com/Nelly4RI"
+},
+{
+"text": "[tooltip: Go to Threads page]",
+"href": "https://www.threads.com/@nelly4ri"
+}
 ]

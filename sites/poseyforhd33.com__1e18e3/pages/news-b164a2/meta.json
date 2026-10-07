@@ -1,7 +1,11 @@
 {
  "description": "Check here for news from the Ivan Posey for House District 33 Campaign.",
  "final_url": "https://www.poseyforhd33.com/news",
- "paid_for_by": null,
- "title": "News \u2014 Ivan Posey for House District 33",
- "years_mentioned": []
+ "fingerprint": "3a114954e4b26bba2b56621f47fe92bb1f7e4e02",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News — Ivan Posey for House District 33",
+ "years_mentioned": [
+  "1980"
+ ]
 }

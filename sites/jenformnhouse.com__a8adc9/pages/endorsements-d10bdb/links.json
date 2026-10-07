@@ -1,27 +1,102 @@
 [
-"https://afscmemn.org/",
-"https://bsky.app/profile/jenbloom.bsky.social",
-"https://designedtorun.com/",
-"https://dflruralcaucus.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/",
-"https://facebook.com/Jen4MNhouse",
-"https://facebook.com/MNSD31",
-"https://fairvotemn.org/",
-"https://friends-bwca.org/",
-"https://genderjusticeaction.us/",
-"https://instagram.com/jenformnhouse",
-"https://jenformnhouse.com/",
-"https://jenformnhouse.com/about",
-"https://jenformnhouse.com/contact",
-"https://jenformnhouse.com/events",
-"https://jenformnhouse.com/issues",
-"https://jenformnhouse.com/volunteer",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://naswmn.socialworkers.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-minnesota-advocate",
-"https://secure.actblue.com/donate/jenformn",
-"https://seiumn.org/",
-"https://threads.net/@jenbloomquist"
+{
+"text": "About",
+"href": "https://www.jenformnhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenformnhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenformn"
+},
+{
+"text": "Events",
+"href": "https://www.jenformnhouse.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.jenformnhouse.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jenformnhouse.com/volunteer"
+},
+{
+"text": "[image: AFSCME Council 5]",
+"href": "https://afscmemn.org/"
+},
+{
+"text": "[image: DFL Rural Caucus logo]",
+"href": "https://www.dflruralcaucus.org/"
+},
+{
+"text": "[image: DFL Senior Caucus logo]",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image: Education Minnesota logo]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image: FairVote Minnesota democracy champion badge]",
+"href": "https://fairvotemn.org/"
+},
+{
+"text": "[image: Friends of the Boundary Waters Action Network logo]",
+"href": "https://www.friends-bwca.org/"
+},
+{
+"text": "[image: Gender Justice Action PAC logo]",
+"href": "https://www.genderjusticeaction.us/"
+},
+{
+"text": "[image: Jen for MN House]",
+"href": "https://www.jenformnhouse.com/"
+},
+{
+"text": "[image: Logo for DFL Senate District 31]",
+"href": "https://www.facebook.com/MNSD31"
+},
+{
+"text": "[image: Mental Health Now Candidate]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Moms Demand Action logo]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: National Association of Social Workers logo]",
+"href": "https://naswmn.socialworkers.org/"
+},
+{
+"text": "[image: Planned Parenthood logo]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-minnesota-advocate"
+},
+{
+"text": "[image: SEIU MN State Council]",
+"href": "https://www.seiumn.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenbloom.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Jen4MNhouse"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenformnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jenbloomquist"
+}
 ]

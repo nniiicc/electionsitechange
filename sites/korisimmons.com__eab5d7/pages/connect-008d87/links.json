@@ -1,22 +1,110 @@
 [
-"https://bsky.app/profile/korisimmons.bsky.social",
-"https://facebook.com/profile.php?id=61573661133334",
-"https://instagram.com/kori.for.the.people",
-"https://korisimmons.com/",
-"https://korisimmons.com/about-kori",
-"https://korisimmons.com/broken",
-"https://korisimmons.com/connect",
-"https://korisimmons.com/connections",
-"https://korisimmons.com/connections/contact",
-"https://korisimmons.com/connections/volunteer",
-"https://korisimmons.com/events",
-"https://korisimmons.com/legal-notice",
-"https://korisimmons.com/platform",
-"https://korisimmons.com/the-abyss",
-"https://korisimmons.com/your-voice",
-"https://mvp.ga.gov/s",
-"https://secure.actblue.com/donate/KoriSimmons",
-"https://threads.com/@kori.for.the.people",
-"https://tiktok.com/@kori.for.the.people",
-"https://x.com/Kori4thePeople"
+{
+"text": "About Kori",
+"href": "https://www.korisimmons.com/about-kori/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/korisimmons.bsky.social"
+},
+{
+"text": "Connect",
+"href": "https://www.korisimmons.com/connect/"
+},
+{
+"text": "Connections",
+"href": "https://www.korisimmons.com/connections/"
+},
+{
+"text": "Contact",
+"href": "https://www.korisimmons.com/connections/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/KoriSimmons"
+},
+{
+"text": "Events",
+"href": "https://www.korisimmons.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61573661133334"
+},
+{
+"text": "Georgia's My Voter Page",
+"href": "https://mvp.ga.gov/s/"
+},
+{
+"text": "Home",
+"href": "https://www.korisimmons.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/kori.for.the.people"
+},
+{
+"text": "Legal notice",
+"href": "https://www.korisimmons.com/legal-notice/"
+},
+{
+"text": "Platform",
+"href": "https://www.korisimmons.com/platform/"
+},
+{
+"text": "The Abyss",
+"href": "https://www.korisimmons.com/the-abyss/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@kori.for.the.people"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@kori.for.the.people"
+},
+{
+"text": "Twitter/X",
+"href": "https://www.x.com/Kori4thePeople"
+},
+{
+"text": "Volunteer",
+"href": "https://www.korisimmons.com/connections/volunteer/"
+},
+{
+"text": "Your Voice",
+"href": "https://www.korisimmons.com/your-voice/"
+},
+{
+"text": "[image]",
+"href": "https://www.korisimmons.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573661133334"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kori.for.the.people"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kori.for.the.people"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Kori4thePeople"
+},
+{
+"text": "[no text]",
+"href": "mailto:kori@korisimmons.com"
+},
+{
+"text": "[no text]",
+"href": "tel:+1%20(678)%20269-7506"
+},
+{
+"text": "broken",
+"href": "https://www.korisimmons.com/broken/"
+}
 ]

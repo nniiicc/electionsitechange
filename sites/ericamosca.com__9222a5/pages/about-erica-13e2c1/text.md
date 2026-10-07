@@ -1,3 +1,4 @@
+top of page EN ESPAÑOL & SA TAGALOG SA TAGALOG ABOUT ERICA MY WHY BILLS LEGISLATIVE AWARDS & WORK GET INVOLVED DONATE MEDIA & NEWS 2025 COMMUNITY ENDORSEMENTS CONTACT MORE Use tab to navigate through the menu items.
 Erica Mosca is a proud first-generation college graduate who is a former teacher, former Non-profit Founder & Executive Director and small business owner who is the first Filipina to serve in the NV State Legislature.
 Growing up in a low-income household, Mosca experienced first-hand the resilience, tenacity and promise of individuals growing up in marginalized communities and how lack of access and systems perpetuated inequitable opportunities.
 As her parents always reminded her the definition of success was helping others, Mosca joined Teach For America in 2008 in East Las Vegas after graduating Summa Cum Laude from Boston University.
@@ -6,3 +7,5 @@ After 10 years, Mosca would leave her nonprofit, which stills continues today, i
 During her freshman session Mosca passed 5 out of 6 bills into law, Chaired the AANHPI Legislative Caucus and organized regular community members to visit Carson City weekly.
 During her second session she served as the Assistant Majority Leader, Chair of Legislative Operations & Elections Committee and Chair of the Health & Human Services budget subcommittee on Ways & Means.
 She is a proud military spouse, parent to two newly adopted brothers ages 5 & 7 and is proud to be a values-driven leader who never forgets where she comes from.
+Paid for & Authorized by the Committee to Elect Erica Mosca 2126 Citroen St.
+Las Vegas, NV 89142 702-250-2320 Ericamosca14@gmail.com ABOUT ERICA Bills GET INVOLVED Donate Legislative Awards & Work MEDIA & NEWS CONTACT Community Endorsements bottom of page

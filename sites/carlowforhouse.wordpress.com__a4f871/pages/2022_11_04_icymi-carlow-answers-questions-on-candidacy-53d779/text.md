@@ -1,4 +1,4 @@
-Via Portland Press Herald.
+Skip to content Nathan Carlow for Representative Join Nathan in bringing common-sense solutions to the Maine State Legislature Menu + × expanded collapsed Home Meet Nathan Biography Newsroom Services Help With an Agency Sentiments and Letters Flag Requests Legislative Concerns Contact CONTRIBUTE ICYMI: Carlow Answers Questions on Candidacy Posted by communicationsdirector November 4, 2022 February 12, 2024 Posted in General Via Portland Press Herald.
 Published November 3, 2022.
 A Buxton legislator is facing a challenger for his seat in House District 137, which includes parts of Buxton and Hollis.
 Rep.
@@ -20,18 +20,15 @@ Q: Do you support changing Maine’s abortion law to make it more or less restri
 The point of viability is the standard currently used in Maine law, and I would not support legislation allowing abortions after that point except for medical necessity.
 Q: Do you believe President Biden won the 2020 election fairly?
 Yes.
-AT A GLANCE
-City/Town: Buxton
-Party: Republican
-Occupation: Accounts payable specialist
-Education: High school diploma, Bonny Eagle High School Class of 2018.
+AT A GLANCE City/Town : Buxton Party : Republican Occupation : Accounts payable specialist Education : High school diploma, Bonny Eagle High School Class of 2018.
 Currently attending University of Southern Maine majoring in political science.
-Civic/Political Experience: I am the youngest state legislator elected in Maine since 1917, currently serving on the Energy, Utilities and Technology Committee.
+Civic/Political Experience : I am the youngest state legislator elected in Maine since 1917, currently serving on the Energy, Utilities and Technology Committee.
 In the state Legislature, I have written and passed two pieces of legislation; the first to help the Buxton Hollis Historical Society obtain additional grant money, and the second to encourage improved fiscal planning for Maine’s public schools.
 Additionally, I am serving my sixth year on the MSAD 6 board of directors, and I was elected by my colleagues to serve as chairman of the board this year.
 I was humbled to be asked to lead the 2022 superintendent search process, and I helped to draft the first strategic plan for MSAD 6 since 1998.
-Social Media/Website: Please contact me on any of my social media pages, or by emailing contact@nathancarlow.com.
-Facebook: @Representative Nathan Carlow.
-Instagram: @repnathancarlow.
-Check out my website as well at nathancarlow.com
-— Lucas Dufalia
+Social Media/Website : Please contact me on any of my social media pages, or by emailing contact@nathancarlow.com .
+Facebook: @ Representative Nathan Carlow .
+Instagram: @repnathancarlow .
+Check out my website as well at nathancarlow.com — Lucas Dufalia Posted by communicationsdirector November 4, 2022 February 12, 2024 Posted in General Post navigation Previous Post Previous post: Carlow Named 2022 Clean Energy Champion Next Post Next post: Carlow Opposes Governor Mills’s Proposed Supplemental Budget on Preliminary Vote Leave a comment Cancel reply Δ Nathan Carlow for Representative , Comment Subscribe Subscribed Nathan Carlow for Representative Sign me up Have a WordPress.com account?
+Log in now.
+Nathan Carlow for Representative Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

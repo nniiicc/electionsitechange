@@ -1,42 +1,53 @@
-- Press Release
-Columbus, MS — With one day until Mississippi voters head to the polls, a new report from the Mississippi Free Press adds a devastating layer to weeks of damning coverage of Senator Cindy Hyde-Smith’s campaign finances: the same senator who billed her campaign account nearly $10,000 at the MGM Grand Las Vegas also voted to block the very transparency and anti-corruption laws that...
-Columbus, MS — On Tuesday, March 10, 2026, District Attorney Scott Colom will spend Primary Election Day visiting polling locations from South Mississippi to the Golden Triangle, greeting voters across the state before casting his own ballot at his home precinct in Columbus....
-Columbus, MS — On Tuesday, March 10, 2026, District Attorney Scott Colom will host an Election Night watch party for supporters at the James M.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate The Latest Recent News & Campaign Updates March 9, 2026 Press Release ICYMI: Hyde-Smith Billed Nearly $10,000 in Vegas Hotel Stays to Her Campaign — and Voted to Block Legislation That Would Have Made Her Explain Them Columbus, MS — With one day until Mississippi voters head to the polls, a new report from the Mississippi Free Press adds a devastating layer to weeks of damning coverage of Senator Cindy Hyde-Smith’s campaign finances: the same senator who billed her campaign account nearly $10,000 at the MGM Grand Las Vegas also voted to block the very transparency and anti-corruption laws that...
+Read More March 9, 2026 Press Release TOMORROW, MARCH 10: District Attorney Scott Colom To Crisscross Mississippi on Primary Day, Greet Voters at the Polls Before Casting His Own Ballot in Columbus Columbus, MS — On Tuesday, March 10, 2026, District Attorney Scott Colom will spend Primary Election Day visiting polling locations from South Mississippi to the Golden Triangle, greeting voters across the state before casting his own ballot at his home precinct in Columbus....
+Read More March 7, 2026 Press Release TUESDAY AT 7:30 PM: District Attorney Scott Colom Hosts Election Night Watch Party in Columbus Columbus, MS — On Tuesday, March 10, 2026, District Attorney Scott Colom will host an Election Night watch party for supporters at the James M.
 Trotter Convention Center in Columbus as Mississippi awaits primary results in the U.S.
 Senate race.
 Members of the press are also invited to attend....
-Columbus, MS — Following widely-circulated remarks by Senator Cindy Hyde-Smith telling Mississippians struggling with high grocery costs to simply “eat something else,” District Attorney and U.S.
+Read More February 24, 2026 Press Release Colom: Hyde-Smith’s Dismissive Grocery Cost Comments an “Insult” to Mississippi Families Columbus, MS — Following widely-circulated remarks by Senator Cindy Hyde-Smith telling Mississippians struggling with high grocery costs to simply “eat something else,” District Attorney and U.S.
 Senate candidate Scott Colom released the following statement:...
-Columbus, MS — Today, Congressman Bennie Thompson, U.S.
+Read More February 17, 2026 Press Release In New Radio Ad, Congressman Bennie Thompson Endorses Scott Colom for U.S.
+Senate Ahead of March 10 Democratic Primary Columbus, MS — Today, Congressman Bennie Thompson, U.S.
 Representative for Mississippi’s 2nd congressional district and dean of Mississippi’s federal congressional delegation, endorsed District Attorney Scott Colom’s campaign for U.S.
 Senate in a new radio ad that will run statewide through the March 10 primary election....
-Jackson, MS — Today, surrounded by union members from across the state, District Attorney Scott Colom accepted the endorsement of the Mississippi AFL-CIO Committee on Political Education (COPE) at a press conference at the Mississippi AFL-CIO headquarters.
+Read More February 16, 2026 Press Release Mississippi AFL-CIO Endorses Scott Colom for U.S.
+Senate Jackson, MS — Today, surrounded by union members from across the state, District Attorney Scott Colom accepted the endorsement of the Mississippi AFL-CIO Committee on Political Education (COPE) at a press conference at the Mississippi AFL-CIO headquarters.
 Colom has made fighting for higher wages, health care, good jobs and lower costs the focus of his campaign, making him the clear choice for working...
-Columbus, MS — Following the partial federal government shutdown that began at midnight, impacting the Department of Homeland Security and agencies under its umbrella like the Federal Emergency Management Agency (FEMA), District Attorney and U.S.
+Read More February 14, 2026 Press Release District Attorney Scott Colom Statement on Government Shutdown Columbus, MS — Following the partial federal government shutdown that began at midnight, impacting the Department of Homeland Security and agencies under its umbrella like the Federal Emergency Management Agency (FEMA), District Attorney and U.S.
 Senate candidate Scott Colom released the following statement:...
-Columbus, MS — In a new TV ad, the first of his U.S.
+Read More February 12, 2026 Press Release Colom Launches First TV Ad Ahead of the Primary; District Attorney Colom Pledges to “Never Quit” on Mississippi, Calls Out Hyde-Smith’s Votes to Raise Health Care Costs Columbus, MS — In a new TV ad, the first of his U.S.
 Senate campaign, District Attorney Scott Colom draws on his mother's teachings in pledging to "never quit" on Mississippi – highlighting his strong commitment to lowering costs and putting working families first while calling out Senator Cindy Hyde-Smith's votes that could spike health care costs more than 300% for Mississippi families....
-Columbus, MS — U.S.
+Read More February 11, 2026 Press Release ICYMI: District Attorney Scott Colom Talks Tackling High Costs, Health Care During “Mississippi Matters” Listening Tour Columbus, MS — U.S.
 Senate Candidate and District Attorney Scott Colom brought his “Mississippi Matters” Listening Tour to the state’s Gulf Coast and beyond last week, hosting in-person listening sessions with local residents in Biloxi, Gulfport and Moss Point, respectively, as well as a separate town hall meeting in Hattiesburg....
-Columbus, MS — The Congressional Black Caucus PAC (CBCPAC) today announced its endorsement of Scott Colom for the United States Senate, citing his commitment to working families, rural communities, and ensuring Mississippi has a strong, independent voice in Washington....
-Today, on the last day Mississippians can sign up for health care coverage through the Affordable Care Act’s health care marketplace, U.S.
+Read More February 11, 2026 Press Release Scott Colom for U.S.
+Senate Endorsed by Congressional Black Caucus PAC Columbus, MS — The Congressional Black Caucus PAC (CBCPAC) today announced its endorsement of Scott Colom for the United States Senate, citing his commitment to working families, rural communities, and ensuring Mississippi has a strong, independent voice in Washington....
+Read More January 15, 2026 Press Release On Last Day of Open Enrollment,District Attorney Scott Colom Blasts Cindy Hyde-Smith for Making Health Care Less Affordable for 200,000 Mississippians Today, on the last day Mississippians can sign up for health care coverage through the Affordable Care Act’s health care marketplace, U.S.
 Senate Candidate and District Attorney Scott Colom issued the following statement...
-Today, U.S.
+Read More December 16, 2025 Press Release District Attorney Scott Colom Releases Video “Farmers” Highlighting the Harmful Impact of Tariffs Supported by Cindy Hyde-Smith Today, U.S.
 Senate Candidate and District Attorney Scott Colom released a new video highlighting how the tariffs backed by Cindy Hyde-Smith have hurt Mississippi farmers....
-Nearly 400,000 Mississippians rely on SNAP benefits each month and will go hungry thanks to Cindy Hyde-Smith’s shutdown FOR IMMEDIATE RELEASE October 30, 2025 Columbus, MS – As nearly 400,000 Mississippians brace for losing access to food through SNAP benefits because Cindy Hyde-Smith is keeping the government shut down rather than address the health care crisis she created, Scott Colom […]
-...
-Scott met with soybean farmers to talk about how tariffs are impacting their livelihoods.
+Read More October 30, 2025 Press Release Colom Volunteers with Sim Scott Seniors as Cindy Hyde-Smith’s Government Shutdown Rips Away SNAP Benefits Nearly 400,000 Mississippians rely on SNAP benefits each month and will go hungry thanks to Cindy Hyde-Smith’s shutdown FOR IMMEDIATE RELEASE October 30, 2025 Columbus, MS – As nearly 400,000 Mississippians brace for losing access to food through SNAP benefits because Cindy Hyde-Smith is keeping the government shut down rather than address the health care crisis she created, Scott Colom […] ...
+Read More October 16, 2025 Press Release District Attorney Scott Colom Meets With Soybean Farmers to Discuss Tariffs Scott met with soybean farmers to talk about how tariffs are impacting their livelihoods.
 FOR IMMEDIATE RELEASE October 16, 2025 Columbus, MS – U.S.
 Senate Candidate and District Attorney Scott Colom held a listening session with a group of farmers to hear firsthand how the tariffs are hurting their livelihoods.
-The farmers in attendance were soybean farmers who […]
-...
-FOR IMMEDIATE RELEASE October 6, 2025 Scott attended events in Oktibbeha, Lowndes, and Rankin Counties this weekend.
+The farmers in attendance were soybean farmers who […] ...
+Read More October 6, 2025 Press Release District Attorney Scott Colom Spends Weekend Traveling the State, Talking to Mississippians FOR IMMEDIATE RELEASE October 6, 2025 Scott attended events in Oktibbeha, Lowndes, and Rankin Counties this weekend.
 Columbus, MS – Over the weekend, U.S.
 Senate Candidate and District Attorney Scott Colom traveled across Mississippi, talking to voters on key issues, such as rising costs in healthcare and bringing good jobs back to Mississippi for young people.
-Colom […]
-...
-FOR IMMEDIATE RELEASE September 23, 2025 Scott talked about fighting for the working families of Mississippi while calling out the hypocrisy of Senator Cindy Hyde-Smith.
+Colom […] ...
+Read More September 23, 2025 Press Release District Attorney Scott Colom Joins MeidasTouch to Talk About Mississippi’s U.S.
+Senate Race FOR IMMEDIATE RELEASE September 23, 2025 Scott talked about fighting for the working families of Mississippi while calling out the hypocrisy of Senator Cindy Hyde-Smith.
 Columbus, MS – U.S.
 Senate Candidate and District Attorney Scott Colom joined MediaTouch with host Ben Meisalas to talk about his United States Senate run.
-During the interview, Scott touched […]
-...
+During the interview, Scott touched […] ...
+Read More Page 1 Page 2 Page 3 Page 4 Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

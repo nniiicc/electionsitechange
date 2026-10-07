@@ -1,9 +1,5 @@
-Upcoming Events
-Filtering by: “Meet and Greet”
-Sep
-15
-North Fulton Candidate Meet & Greet — Sandy Springs
-Sandy Springs, GA | Address provided upon registration
-Join Beth and fellow candidates for a North Fulton candidate meet and greet in Sandy Springs.
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Upcoming Events Filtering by: “Meet and Greet” Sep 15 North Fulton Candidate Meet & Greet — Sandy Springs Tuesday, September 15, 2026 7:00 PM 9:00 PM Google Calendar ICS Sandy Springs, GA | Address provided upon registration Join Beth and fellow candidates for a North Fulton candidate meet and greet in Sandy Springs.
 This is an opportunity to meet candidates running to represent the community, connect with neighbors, and learn more about the races on the ballot this November.
 Registration is required to receive the exact event location and any event updates.
+REGISTER TO ATTEND View Event → info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

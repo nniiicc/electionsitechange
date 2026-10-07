@@ -1,13 +1,10 @@
-Dean Cascadden Democratic Candidate for the NH House of Representatives for Meredith
-Issues: Public Education Environmental Stewardship Property Tax Relief
-Dean Cascadden Democratic Candidate for the NH House of Representatives for Meredith
-My life passions are public education, the natural environment and building empowering organizations that respect and support the diverse people who engage with them.
+Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Cascadden for Meredith Home About Dean Cascadden Democratic Candidate for the NH House of Representatives for Meredith Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Donate Request a Sign Dean Cascadden Democratic Candidate for the NH House of Representatives for Meredith Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Issues: Public Education Environmental Stewardship Property Tax Relief Donate Request a Sign How to Vote Resources for resgiztering to vote Secretary of State- How to Vote Meredith- How to Vote Why I am Running A lifelong NH Resident My life passions are public education, the natural environment and building empowering organizations that respect and support the diverse people who engage with them.
 I have been a biology teacher, a middle school principal, a district curriculum director and a superintendent of schools.
 I have been a husband, a father and now a grandfather.
 I care deeply about NH and about our future as a state.
 I have been engaged in local town and school politics and have also worked with state legislative committees to understand and refine bills.
 I am very concerned about the influence of the Free State Project on NH.
-Presently the NH House is not the People’s House.
+Our Legislators should be Representatives of the Voters Presently the NH House is not the People’s House.
 Jason Osbourne the Majority Leader, the NH Liberty Alliance and members of the Free State Project have a republican majority and vote lock step on ideologically driven bills.
 Policy decisions have been made putting more costs to the local cities and towns, while at the same time failing to address NH’s long standing educational funding issues.
 Testimony from citizens on bills often is ignored and votes are consistently determined along party lines.
@@ -24,7 +21,7 @@ We need to manage our natural resources for our present economic health and for 
 Our Lakes, Mountains and natural areas need protection and reliable funding sources for managing multiple users.
 Common resources need to be managed fairly or they will be destroyed by selfish interests.
 Laws and policy that balance the competing interests are critical.
-I am a lifelong NH resident.
+Position Statements Videos on YOUTUBE and Surveys Cascadden4Meredith on youtube Citizens for Belknap My Story I am a lifelong NH resident.
 My life passions have been education, the natural environment and building empowering organizations that run effectively by respecting and supporting the diverse people who engage with them.
 I grew up in Littleton NH, delivering the Manchester Union Leader and reading it daily.
 I remember William Loeb and Governor Thompson promoting “the pledge” and the “NH advantage” that included no broad based taxes.
@@ -49,13 +46,18 @@ In 2024, my wife passed away after a wonderful 40 year marriage and I retired fr
 I have put more time into my passion for singing and and music, but I find I am ready to get back into public service.
 I have a strong desire and the time to be an effective state representative and will advocate for fair funding for our communities, environmental stewardship and support for public schools as the foundation of our future.
 I hope you get to know me as a person who can represent you in Concord.
-Public education with local control and supported by a wide base of funding is the hope and future of our democracy.
+Top 3 Issues Supporting Public Education Supporting Public Education Supporting Public Education Public education with local control and supported by a wide base of funding is the hope and future of our democracy.
 In recent years, our schools have been over-regulated and underfunded by the Republican controlled legislature.
-As president of the Lake Wicwas association and its lake host coordinator, I see that managing our natural resources for recreation, tourism and preservation is critical to our state.
+Environmental Stewardship Supporting Public Education Supporting Public Education As president of the Lake Wicwas association and its lake host coordinator, I see that managing our natural resources for recreation, tourism and preservation is critical to our state.
 We all own our lakes and mountains and we need to protect them as we use them.
-NH funds most of its services off of Property Taxes, user fees and "sin" taxes.
+Property Tax Relief Supporting Public Education Property Tax Relief NH funds most of its services off of Property Taxes, user fees and "sin" taxes.
 A lot of burden has been pushed from Concord to the localities.
 There are other sources of revenue that can be looked at to provide the governmental services we want.
-1/5
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Email: Cascadden4Meredith@gmail.com I would love to engage with you!
+Cascadden4Meredith cascadden4meredith@gmail.com Drop me a line!
+Drop me a line!
+Name Email* Most concerning issue?
+Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Drop me a line!
+Social Media Candidate Information Resume (docx) Download My Story (docx) Download Introduction (docx) Download Around Meredith 1/5 Political Signs Copyright © # Cascadden4Meredith - All Rights Reserved.
+Powered by

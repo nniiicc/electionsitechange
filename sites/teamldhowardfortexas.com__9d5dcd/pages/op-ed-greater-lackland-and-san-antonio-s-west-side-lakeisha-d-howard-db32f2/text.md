@@ -1,10 +1,16 @@
-Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
-Howard
-Guest Commentary / Historical Perspective Piece by LaKeisha D.
+Skip to content L.D.
+Howard for Texas House District 124 2026 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Guest Commentary / Historical Perspective Piece by LaKeisha D.
 Howard, West Side Resident, Air Force and VA Retiree who resides at 730 Barrow Peak, San Antonio, TX 78251.
-She can be reached at 210-559-7245
-On San Antonio’s West Side, History Explains the Present
-San Antonio’s West Side did not arrive at its current challenges by accident, nor through a lack of effort or pride.
+She can be reached at 210-559-7245 On San Antonio’s West Side, History Explains the Present San Antonio’s West Side did not arrive at its current challenges by accident, nor through a lack of effort or pride.
 Its story is one of service, industry, and resilience—followed by decisions made far from the neighborhoods that felt their consequences most deeply.
 In 1917, Kelly Field was established on farmland southwest of downtown, helping birth American military aviation.
 Over the next several decades, the surrounding communities grew alongside it.
@@ -31,8 +37,23 @@ Any serious conversation about the city’s future must begin by recognizing tha
 History does not simply explain where we’ve been.
 On the West Side, it explains what was lost—and what can still be rebuilt.
 LaKeisha D.
-Howard
-LaKeisha D.
+Howard LaKeisha D.
 Howard is a San Antonio–based retired professional with a background in military service and human‑centered leadership, bringing experience across healthcare, counseling, and community‑focused work.
 She holds a graduate degree from Colorado Christian University and has built her career around supporting individuals and families through wellness‑oriented and service‑driven roles.
 Her professional experience reflects a commitment to mentorship, care coordination, and community support shaped by years of work connected to military and public‑service environments.
+Learn More about L.D.
+Howard for Texas House District 124 L.D.
+Howard for Texas House District 124 Privacy Policy Contact Details: P.O.
+Box 760024 San Antonio, TX 78245 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Copyright ©# Team L.
+D.
+Howard for Texas House District 124.
+All Rights Reserved.
+Designed by Sandbank Group, Inc.

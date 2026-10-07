@@ -1,5 +1,5 @@
-Emily Gregory's Amazing Win
-Emily Gregory's recent win in the Florida legislative special election for District 87 on March 24, 2026, is a meaningful milestone.
+Top Fleming For AD131 Hope and success for all people!
+About Issues Events Blog Volunteer Voting Information Contact Donate Emily Gregory's Amazing Win Emily Gregory's recent win in the Florida legislative special election for District 87 on March 24, 2026, is a meaningful milestone.
 It showcases the power of democracy and sets an optimistic tone for the upcoming midterms.
 This victory underscores how grassroots efforts and dedicated candidates can rally communities for change.
 It’s especially meaningful for many Democrats and supporters of democracy because Mar-a-Lago, Trump’s residence in Palm Beach, falls within District 87.
@@ -24,4 +24,7 @@ All in all, Emily Gregory's victory is a proud moment for democracy—showing th
 As the 2026 midterm season ramps up, let's draw inspiration from her win and keep fighting for the values that move us forward.
 The future is bright, and together, we can build a democracy that reflects all of us.
 So the next time someone comes at you and says that your vote doesn’t matter, you now have proof saying otherwise!
-Posted on 29 Mar 2026, 9:10 - Category: News
+Posted on 29 Mar 2026, 9:10 - Category: News Twitter Facebook LinkedIn Email Donate Volunteer Contact Latest Entries A WXXI-NPR article by By Rosemary Misdary, Published July 30, 2026 Finger Lakes Times op-ed on solar energy proposal in NY Shamieh Law and ICE Campaign Donation Update Back to Main Categories Campaign Donation Update Information News Connect With Us COUNTING DOWN TO Election Day Support the Campaign Events Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-23-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 10-06-2026 Voluncheers For Democracy Creating postcards and making phone calls for local Democratic candidates 09-23-2026 Read More...
+Help Us Win!
+Help us raise more money to win on Election Day.
+0 % $0 of $250000 Donate Now Facebook Privacy Terms Print Page Political advertisement paid for and approved by the candidate.

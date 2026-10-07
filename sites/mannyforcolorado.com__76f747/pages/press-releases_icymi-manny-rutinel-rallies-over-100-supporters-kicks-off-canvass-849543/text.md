@@ -1,0 +1,10 @@
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate ICYMI: Manny Rutinel Rallies Over 100 Supporters, Kicks Off Canvass Launch Alongside Reps.
+Jamie Raskin, Brittany Pettersen Press Release Aug 24 Written By THORNTON, CO –Yesterday, Manny Rutinel’s campaign held a Day of Action canvass launch, joined by U.S.
+Reps.
+Jamie Raskin, Brittany Pettersen, and over 100 volunteers .
+Rutinel, Raskin, and Pettersen emphasized the importance of this year’s midterm elections and the need to lower costs for Coloradans in their remarks.
+After the kickoff, volunteers spread throughout the district to knock doors and had conversations with 8th District voters about Manny’s plan to lower costs, stop corruption, and fight for working families.
+In emphasizing his platform of lowering costs for working families, Rutinel told volunteers: “I grew up on the same Medicaid and food stamp programs that Trump and Evans are destroying to give tax breaks to their billionaire donors.
+I know what working people in this district are having to go through with rising costs.
+Corporate PAC donations are flowing to Gabe Evans, the same corporations raising the price of your gas, healthcare, and groceries, and we need to put a stop to it.” Previous Previous Reproductive Freedom for All Endorses Manny Rutinel for Congress Next Next SUNDAY: Manny Rutinel to Rally Supporters, Kick Off Canvass Launch Alongside Rep.
+Jamie Raskin Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

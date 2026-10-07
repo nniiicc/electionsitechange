@@ -1,19 +1,106 @@
 [
-"https://facebook.com/Vote4MichelleDavis",
-"https://instagram.com/vote4michelledavis",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=10",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=100",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=1000",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=25",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=250",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=50",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=500",
-"https://vote4michelledavis.com/",
-"https://vote4michelledavis.com/about",
-"https://vote4michelledavis.com/endorsements",
-"https://vote4michelledavis.com/privacy",
-"https://vote4michelledavis.com/terms",
-"https://vote4michelledavis.com/volunteer",
-"https://x.com/vote4mdavis"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.vote4michelledavis.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today"
+},
+{
+"text": "DONATE NOW TO SEND MICHELLE TO THE STATE SENATE",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.vote4michelledavis.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.vote4michelledavis.com/volunteer"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.vote4michelledavis.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vote4michelledavis.com/privacy"
+},
+{
+"text": "T",
+"href": "https://www.vote4michelledavis.com/terms"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.vote4michelledavis.com/terms"
+},
+{
+"text": "[image: Davis (1)]",
+"href": "https://www.facebook.com/Vote4MichelleDavis/"
+},
+{
+"text": "[image: Davis (2)]",
+"href": "https://x.com/vote4mdavis"
+},
+{
+"text": "[image: Davis (5)]",
+"href": "https://www.instagram.com/vote4michelledavis/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Vote4MichelleDavis/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vote4michelledavis/"
+},
+{
+"text": "[image: Michelle-Davis-Logo.png]",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "[image: Twitter X]",
+"href": "https://x.com/vote4mdavis"
+},
+{
+"text": "erms & Conditions.",
+"href": "https://www.vote4michelledavis.com/terms"
+}
 ]

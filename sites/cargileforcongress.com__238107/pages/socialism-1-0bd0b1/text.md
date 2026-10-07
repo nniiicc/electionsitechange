@@ -1,8 +1,8 @@
-Socialism
-Those who would trade freedom for security will soon have neither.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Socialism Those who would trade freedom for security will soon have neither.
 Unlike Norma Torres who supports Socialism (H.
 Con.
-Res. 9), I stand completely against Socialism/Communism.
+Res.
+9), I stand completely against Socialism/Communism.
 Both are a form of subjugation to governmental authority, all the while posing as egalitarian liberators.
 Socialism initially presents itself as the great “equalizer”.
 Nothing could be further from the truth.
@@ -29,3 +29,6 @@ They feel they are a law unto themselves.
 There is no standard above them and, as a result, they can redefine everything from lying to murder.
 The United States has always conducted itself under the Judeo-Christian principles and standards set forth in the Bible and this is precisely why we have enjoyed unparalleled peace and prosperity.
 If we jettison that standard in favor of the shifting opinions of Washington politicians…we are doomed.
+SO HELP ME GOD… Please Contribute Socialism Copy of Flag Footer CTA Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

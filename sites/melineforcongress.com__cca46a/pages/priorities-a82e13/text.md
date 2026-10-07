@@ -1,39 +1,65 @@
-Vision & Priorities
-I believe the American Dream is still alive, but it’s getting harder to reach.
+Donate to the campaign today!
+Home Vision & Priorities Volunteer & Contact Home Vision & Priorities Volunteer & Contact Donate Donate Vision & Priorities Vision and Priorities I believe the American Dream is still alive, but it’s getting harder to reach.
 America is built on innovation, forward-thinking leadership, and the dignity of hard work.
 That dream has always defined our country.
 I’m running for Congress to keep that dream within reach for working families and ensure the next generation has the same chance to build a meaningful life.
-Strong Small Businesses
-Small businesses are the backbone of Washington’s 8th District.
-When small businesses are strong, communities are strong, workers have opportunity, and the American Dream is real.
-In Congress, I will work to ensure Washington supports the people who create jobs, not just corporations with teams of lobbyists and lawyers.
-Local owners, not distant bureaucracies, should be empowered to make decisions that are best for their employees and communities.
-That starts with lowering costs and removing barriers that hold small businesses back.
-Lower Cost of Living
-Working families shouldn’t feel squeezed from every direction.
-Groceries cost more.
-Energy costs more.
-Housing feels further out of reach.
-When Washington overspends and overregulates, families pay the price.
-Lowering the cost of living starts with restoring fiscal responsibility in Congress.
-I will support responsible federal budgeting, oppose reckless spending that fuels inflation, and push for policies that protect the long-term stability of our economy.
-I support measures that prevent large institutional investors from crowding out families in the single-family housing market and pricing out first-time buyers.
-Young families deserve a real chance at homeownership not competition from Wall Street-backed investment firms.
-America moves forward when families can afford to live, save, and build a future with confidence.
-Safe Communities
-Families deserve safe streets and peace of mind.
-No parent should worry about open drug use in public parks, rising fentanyl deaths, or repeat offenders cycling through the system.
-Public safety starts with supporting well-trained and properly funded law enforcement.
-Officers need the tools, training, and backing to do their jobs effectively and keep our communities secure.
-Responsible Stewardship of Public Lands
-Public lands define Washington’s 8th District and deserve active care.
-These lands aren’t abstract to me; they are part of how my family lives and explores this place we call home.
-Responsible stewardship means more than preservation.
-It means reducing catastrophic wildfire risk, increasing active forest management, improving maintenance of trails and access roads, and ensuring public lands remain accessible for future generations.
-We can’t confuse neglect with conservation.
-Smart & Secure Immigration
-America is strongest when our laws are enforced and our system works.
-We need a secure border so we can stop trafficking and cartel activity and enforce immigration law consistently.
-Washington’s farms, ranches, and food supply depend on a stable and legal workforce.
-Immigration policy shouldn’t punish those who followed the rules or reward those who broke them.
-It should restore integrity, fairness, and confidence in our system.
+Jump to a priority Government Reform Economy & Jobs Housing & Cost of Living Wildfire & Natural Resources Healthcare Education & Skills Technology & AI 01 Government That Actually Works Washington has become too complicated, too expensive, and too disconnected from the people it serves.
+Congress should be accountable to the public again.
+Congressional Term Limits I support term limits for Congress.
+Public service should be a season of life, not a lifetime career.
+Single-Issue Bills Congress should vote on one issue at a time.
+No more hiding controversial provisions inside thousand-page bills that members barely have time to read.
+Plain-English Government Transparency Federal spending should be easily searchable and understandable.
+Americans should be able to see where their money goes without needing an accounting degree to figure it out.
+End Congressional Stock Trading Members of Congress should not be trading individual stocks while making laws that can affect those investments.
+Retirement accounts, diversified funds, and broad-market investments are one thing; individual stock picking while serving in Congress is another.
+Fiscal Accountability Congress needs enforceable restraints on deficit growth and a serious commitment to reducing waste, duplication, and unnecessary federal spending.
+02 Main Street Economy & American Jobs Small businesses create jobs, build communities, and provide opportunity, yet federal policy too often works better for the largest corporations than for the entrepreneur trying to get started.
+Reform the SBA Simplify SBA lending, shorten approval times, reduce unnecessary paperwork, expand access to capital, and strengthen microloan programs so entrepreneurs outside major financial centers have a real opportunity to build something.
+Reward Small-Business Growth Create tax incentives that reward small businesses for investing, hiring, and growing here in America.
+Simplify the Tax Code Families and small businesses should not need teams of accountants to understand what they owe.
+Reduce unnecessary complexity and eliminate special-interest loopholes.
+Bring American Production Home Use a competitive tax and regulatory environment to encourage companies to manufacture, invest, and hire in the United States.
+Give Struggling Small Businesses Breathing Room Explore reforms allowing qualifying small businesses experiencing significant revenue declines greater flexibility with quarterly estimated tax payments without being punished for circumstances outside their control.
+03 Housing & the Cost of Living For too many working families, homeownership is moving further out of reach.
+We need to increase supply while helping ordinary Americans, not massive institutions, compete for homes.
+Build More Homes Encourage housing construction by reducing unnecessary regulatory barriers and using federal infrastructure and housing programs in ways that increase supply while respecting state and local authority over land use.
+First-Time Homebuyer Tax Relief Provide targeted tax relief that helps working Americans overcome the enormous upfront cost of purchasing their first home.
+Help Seniors Downsize Modernize capital-gains rules so older Americans who have spent decades building equity aren’t unnecessarily discouraged from selling a larger home and downsizing.
+Freeing those homes also increases inventory for younger families.
+Protect Starter Homes Address large institutional investors accumulating substantial portfolios of single-family starter homes so families aren’t forced to compete against enormous pools of institutional capital.
+Explore Portable Mortgages Test whether qualified homeowners, beginning with an appropriate pilot such as VA borrowers, could transfer an existing mortgage rate when moving to another home rather than becoming trapped by dramatically higher rates.
+04 Wildfire Defense, Forest Health & Natural Resources In Washington’s 8th District, wildfire isn’t an abstract environmental debate.
+It threatens homes, businesses, forests, recreation, agriculture, and entire communities.
+Act Before the Fire Starts Expand responsible thinning, prescribed burning, hazardous-fuel removal, and other active forest-management practices.
+Year-Round Wildfire Prevention Shift more resources toward year-round prevention and mitigation rather than spending enormous sums only after fires become emergencies.
+Restore Access to Public Lands Maintain strategic forest roads and access routes that firefighters need while restoring responsible access to trails, campgrounds, and recreation.
+Protect Hydropower Washington’s hydroelectric system provides reliable electricity and is an important part of the region’s economy.
+Protect existing generation while modernizing the electrical grid.
+All-of-the-Above American Energy America should pursue abundant, reliable energy, including hydropower, nuclear power, renewables, natural gas, and domestic oil production, to strengthen energy security and keep utility and transportation costs manageable.
+Protect Agriculture and Water Invest in water storage and infrastructure and pursue agricultural policies that recognize the realities facing farmers, growers, and rural communities.
+05 Healthcare That Works for Patients Healthcare has become dominated by enormous systems of hospitals, insurers, pharmacy benefit managers, and other intermediaries.
+Reform should put patients, families, and local providers back at the center.
+Real Price Transparency Patients should be able to know the actual price of non-emergency healthcare before receiving it, including their expected out-of-pocket cost whenever practicable.
+More Competition Encourage competition among insurers and healthcare providers and examine interstate insurance reforms that could give consumers more choices while maintaining appropriate protections.
+Main Street Healthcare Make it easier for independent physicians and local practices to compete with massive healthcare systems instead of allowing continued consolidation to eliminate community-based care.
+Insurance Accountability Patients should receive clear information about coverage, deductibles, denials, and actual costs.
+Reward Prevention Give patients and health plans greater flexibility to invest in evidence-based preventive care, nutrition, metabolic health, and other approaches aimed at reducing chronic disease.
+06 Education, Skills & Opportunity There should be more than one path to a successful American life.
+College is right for some students.
+The trades, apprenticeships, entrepreneurship, and technical careers are right for others.
+Put the Trades on Equal Footing Expand access to apprenticeships, technical education, and career training, and stop treating a four-year university degree as the only respectable path to success.
+Teach Practical Skills Encourage education in financial literacy, taxes, contracts, budgeting, nutrition, and other practical skills students will actually use as adults, while respecting state and local control of curriculum.
+Parents Deserve Transparency Parents should have meaningful access to information about what their children are being taught and what is happening in their schools, consistent with applicable law and legitimate student protections.
+07 Technology, AI & America’s Future Artificial intelligence may be one of the most consequential technologies of our generation.
+Government shouldn’t try to stop innovation, but neither should America enter this transition without safeguards for workers, competition, privacy, and national security.
+Americans Should Own Their Data Establish strong federal privacy protections giving individuals greater transparency and control over how their personal information is collected, stored, sold, and used.
+Prepare Workers for AI Modernize workforce-development and retraining programs so workers displaced or substantially affected by automation have opportunities to move into growing industries.
+Protect Competition Enforce existing antitrust laws when dominant technology companies unlawfully suppress competition, while ensuring regulations don’t create barriers that prevent startups from challenging incumbents.
+Keep Humans Accountable High-impact uses of AI should not become an excuse for institutions to avoid human responsibility.
+Americans deserve transparency and meaningful avenues to challenge consequential automated decisions.
+Protect American Innovation America should remain the world leader in AI and emerging technologies while addressing national-security risks, critical infrastructure, energy requirements, and foreign adversaries.
+Restore the American Dream in Washington’s 8th District.
+Your contribution helps Spencer fight for affordability, safe communities, and economic opportunity.
+Contribute to the Campaign JOIN THE CAMPAIGN Get Involved with Spencer's Campaign. donate now donate now Home Vision & Priorities Volunteer & Contact Paid for by Friends of Spencer Meline.
+Privacy Policy.

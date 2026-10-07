@@ -1,22 +1,90 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+JeffCo+Candidates+before+Assembly&dates=20260313T003000Z%2F20260313T020000Z&location=7601+Grandview+Ave+%2C+Arvada%2C+CO+80002",
-"http://instagram.com/alexisforcolorado",
-"http://maps.google.com/?q=7601+Grandview+Ave++Arvada%2C+CO+80002",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/events/assemble-with-community-for-jeffco-caucus",
-"https://alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling",
-"https://alexisforcolorado.com/events/meet-jeffco-candidates-before-assembly?format=ical",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://forms.gle/da88TyDF34JcQVpf7",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7601+grandview+ave++arvada%2C+co+80002+"
+},
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+JeffCo+Candidates+before+Assembly&dates=20260313T003000Z%2F20260313T020000Z&location=7601+Grandview+Ave+%2C+Arvada%2C+CO+80002"
+},
+{
+"text": "ICS",
+"href": "https://www.alexisforcolorado.com/events/meet-jeffco-candidates-before-assembly?format=ical"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Next Next March 14 Assemble with Community for JeffCo Caucus and Assembly",
+"href": "https://www.alexisforcolorado.com/events/assemble-with-community-for-jeffco-caucus"
+},
+{
+"text": "Please RSVP Here.",
+"href": "https://forms.gle/da88TyDF34JcQVpf7"
+},
+{
+"text": "Previous Previous February 28 Community Canvass with Dr. Alexis Hoffkling",
+"href": "https://www.alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+}
 ]

@@ -1,23 +1,15 @@
-Skip navigation menu
-Students
-Students Vote for Tom!
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate Students Home About Issues and Priorities Students Contact More Donate Students Students Vote for Tom!
+Students!
 Are you a student in the district?
 Register to vote in the Fifth District!
 Whether you attend UVA, Averett, or Southside Virginia Community College, you’re likely eligible to vote in the November 3rd midterm election!
 This is a battleground district that has been named one of the most important elections of the year.
 You have the right to vote here as a college student if you’re an eligible Virginia voter.
-Need help navigating voter registration?
+VA Voting Resources Need help navigating voter registration?
 Reach out!
-A member of our team will help
-Voting Information
-Make a plan to vote!
-Early In-Person Voting
-September 18 - October 31
-Election Day
-November 3
-Double Check–
-Tips for Voting Day!
-These are some of the top priorities our campaign is focused on.
+A member of our team will help Name Name Email Email University (if applicable) University (if applicable) Submit Voting Information Make a plan to vote!
+Early In-Person Voting September 18 - October 31 Election Day November 3 Find your polling place Learn more about same-day registration Voting information for students Know your info and bring your ID!
+PS: Your student ID counts!
 You will be asked for your full name, full social security number, and a photo ID.
 If you don’t have a photo ID, you can still cast a provisional ballot– speak to your polling location staff to find out how.
 Click here for more information about acceptable IDs.
@@ -31,3 +23,4 @@ Post with #StudentsForPerriello or @perriello_hq for a chance to win some free s
 If you have problems voting, contact the Virginia Voter Protection Hotline at 844-4VA-VOTE.
 If you are Virginia eligible, you have a right to vote.
 Resources are available to help you do so if a problem arises.
+Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

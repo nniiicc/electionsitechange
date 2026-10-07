@@ -1,9 +1,13 @@
 {
  "description": "News",
  "final_url": "https://www.electcharlesperry.com/news?author=54f73a41e4b067f71ea31f6c",
- "paid_for_by": null,
- "title": "News \u2014 Elect Charles Perry",
+ "fingerprint": "2a81ad2d8838134d6966412889a66c73cbc3a858",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News — Elect Charles Perry",
  "years_mentioned": [
+  "1993",
+  "2003",
   "2011",
   "2013",
   "2014",

@@ -1,5 +1,4 @@
-TERMS OF SERVICE
-John Sununu and Sununu Senator (collectively referred to herein as “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE TERMS OF SERVICE John Sununu and Sununu Senator (collectively referred to herein as “We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP”, “CANCEL”, or “UNSUBSCRIBE” to any mobile message from Us in order to opt out of the Program or opt-out using the processes outlined in these Terms.
 Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning news alerts, action items, and donation requests from each of John Sununu and Sununu Senator.
 Message and data rates may apply.
@@ -19,7 +18,6 @@ You may receive an additional mobile message confirming your decision to opt out
 The entity sending such text will be the entity that processes your opt-out request, and you will need to send separate and individual opt-out requests to each of Us separately if you wish to opt-out of communications from both John Sununu and Sununu Senator.
 You may also contact Us via the means provided below and clearly communicate your intent to unsubscribe from the Program and from receiving communications from each or either of John Sununu and/or Sununu Senator.
 Contact Information: For support, text “HELP” in response to any of Our mobile messages.
-You may also email Info@SununuSenator.com
-MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging.
-Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
+You may also email Info@SununuSenator.com MMS Disclosure: The Program will send SMS MTs if your mobile device does not support MMS messaging. ​ Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator and is outside of Our control.
+MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page

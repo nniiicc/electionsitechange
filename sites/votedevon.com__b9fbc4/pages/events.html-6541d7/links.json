@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61585977344123",
-"https://instagram.com/votedevonin",
-"https://mobilize.us/votedevon",
-"https://secure.actblue.com/donate/devon-wellington-1",
-"https://tiktok.com/@votedevon",
-"https://votedevon.com/about.html",
-"https://votedevon.com/blog.html",
-"https://votedevon.com/contact.html",
-"https://votedevon.com/electionbasics.html",
-"https://votedevon.com/events.html",
-"https://votedevon.com/index.html",
-"https://votedevon.com/platform.html",
-"https://votedevon.com/volunteer.html"
+{
+"text": "Blog & Updates",
+"href": "https://www.votedevon.com/blog.html"
+},
+{
+"text": "Check Your District",
+"href": "https://www.votedevon.com/contact.html"
+},
+{
+"text": "Contact",
+"href": "https://www.votedevon.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/devon-wellington-1"
+},
+{
+"text": "Election Basics",
+"href": "https://www.votedevon.com/electionbasics.html"
+},
+{
+"text": "Events",
+"href": "https://www.votedevon.com/events.html"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/profile.php?id=61585977344123"
+},
+{
+"text": "Home",
+"href": "https://www.votedevon.com/index.html"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/votedevonin"
+},
+{
+"text": "Meet Devon",
+"href": "https://www.votedevon.com/about.html"
+},
+{
+"text": "Platform",
+"href": "https://www.votedevon.com/platform.html"
+},
+{
+"text": "See All on Mobilize",
+"href": "https://www.mobilize.us/votedevon/"
+},
+{
+"text": "TT",
+"href": "https://www.tiktok.com/@votedevon"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.votedevon.com/events.html"
+},
+{
+"text": "Updates",
+"href": "https://www.votedevon.com/blog.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votedevon.com/volunteer.html"
+},
+{
+"text": "[image: Devon Wellington for State Representative]",
+"href": "https://www.votedevon.com/index.html"
+}
 ]

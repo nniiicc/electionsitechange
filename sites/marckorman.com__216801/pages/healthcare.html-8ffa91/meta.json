@@ -1,7 +1,11 @@
 {
  "description": "Healthcare impacts the well-being of every person in our State and plays a significant role in our economy and budget. Marc believes we must do everything possible to provide and maintain access to...",
  "final_url": "https://www.marckorman.com/healthcare.html",
- "paid_for_by": null,
+ "fingerprint": "d1d544946a442a6950fda8db1fd84c9a0e73d531",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare - MARC KORMAN",
- "years_mentioned": []
+ "years_mentioned": [
+  "2013"
+ ]
 }

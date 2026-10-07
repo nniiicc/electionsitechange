@@ -1,18 +1,74 @@
 [
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/2024-endorsements",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/donate?amt=100",
-"https://drewstokesbary.com/donate?amt=200",
-"https://drewstokesbary.com/donate?amt=25",
-"https://drewstokesbary.com/donate?amt=50",
-"https://drewstokesbary.com/donate?amt=other",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/privacy-policy",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary"
+{
+"text": "$100",
+"href": "https://drewstokesbary.com/donate?amt=100"
+},
+{
+"text": "$200",
+"href": "https://drewstokesbary.com/donate?amt=200"
+},
+{
+"text": "$25",
+"href": "https://drewstokesbary.com/donate?amt=25"
+},
+{
+"text": "$50",
+"href": "https://drewstokesbary.com/donate?amt=50"
+},
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Learn How",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "Other",
+"href": "https://drewstokesbary.com/donate?amt=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "See All Endorsements",
+"href": "https://drewstokesbary.com/2024-endorsements/"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+}
 ]

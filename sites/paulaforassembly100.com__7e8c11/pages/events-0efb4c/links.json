@@ -1,76 +1,430 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=A+Campy+Fundraiser+for+Paula+at+Iroquois+Springs+Camp%E2%80%93S%27mores+and+Bon+Fires&dates=20240923T213000Z%2F20240923T233000Z&location=66+Bowers+Road%2C+Monticello%2C+NY",
-"http://google.com/calendar/event?action=TEMPLATE&text=Bagels+and+Ballots&dates=20241027T150000Z%2F20241027T162500Z&location=7+West+Main+Street%2C+Middletown%2C+NY%2C+10940%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brunch+with+Paula&dates=20240818T140000Z%2F20240818T180000Z&location=280+Rock+Hill+Drive%2C+Rock+Hill%2C+NY++12775",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Fundraiser&dates=20240822T213000Z%2F20240822T233000Z&location=888+Resorts+World+Drive%2C+Monticello",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Fundraiser+-+Town+of+Wallkill&dates=20240516T213000Z%2F20240516T233000Z&location=North+Galleria+Drive%2C+Middletown%2C+NY%2C+10941%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Everyone+Loves+a+Diner&dates=20260914T213000Z%2F20260914T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Everyone+Loves+an+Italian+Restaurant&dates=20261029T093000Z%2F20261029T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=FundRaiser+at+2+Queens+Coffee&dates=20240725T213000Z%2F20240725T233000Z&location=90+Main+Street%2C+Narrowburgh%2C+NY+",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Lt.+Governor+Antonio+Delgado+And+Paula&dates=20241015T213000Z%2F20241015T233000Z&location=405+Broadway%2C+Monticello%2C+NY%2C+US",
-"http://google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240518T150000Z%2F20240518T160000Z&location=3405+New+York+97%2C+Barryville%2C+NY%2C+12719%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240530T213000Z%2F20240530T223000Z&location=54+Pine+Street%2C+Wurtsboro%2C+NY%2C+12790%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240620T223000Z%2F20240620T233000Z&location=158-170+Lake+Avenue%2C+Middletown%2C+NY%2C+10940%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240711T223000Z%2F20240711T233000Z&location=888+Resorts+World+Drive%2C+Monticello%2C+NY%2C+12701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240728T223000Z%2F20240728T233000Z&location=46+Main+Street%2C+Parksville%2C+NY%2C+12768%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Plants+%26+Petitions&dates=20260510T150000Z%2F20260510T170000Z&location=217+East+Brodway%2C+Monticello%2C+NY+12750%2C+United+States",
-"http://maps.google.com/?q=158-170+Lake+Avenue+Middletown%2C+NY%2C+10940+United+States",
-"http://maps.google.com/?q=217+East+Brodway+Monticello%2C+NY+12750+United+States",
-"http://maps.google.com/?q=280+Rock+Hill+Drive+Rock+Hill%2C+NY++12775",
-"http://maps.google.com/?q=3405+New+York+97+Barryville%2C+NY%2C+12719+United+States",
-"http://maps.google.com/?q=405+Broadway+Monticello%2C+NY+US",
-"http://maps.google.com/?q=46+Main+Street+Parksville%2C+NY%2C+12768+United+States",
-"http://maps.google.com/?q=54+Pine+Street+Wurtsboro%2C+NY%2C+12790+United+States",
-"http://maps.google.com/?q=66+Bowers+Road+Monticello%2C+NY",
-"http://maps.google.com/?q=7+West+Main+Street+Middletown%2C+NY%2C+10940+United+States",
-"http://maps.google.com/?q=888+Resorts+World+Drive%2C+Monticello",
-"http://maps.google.com/?q=888+Resorts+World+Drive+Monticello%2C+NY%2C+12701+United+States",
-"http://maps.google.com/?q=90+Main+Street+Narrowburgh%2C+NY",
-"http://maps.google.com/?q=North+Galleria+Drive+Middletown%2C+NY%2C+10941+United+States",
-"https://2queenscoffee.com/",
-"https://facebook.com/paulaforassembly",
-"https://instagram.com/paulaforassembly",
-"https://paulaforassembly100.com/",
-"https://paulaforassembly100.com/cart",
-"https://paulaforassembly100.com/contact",
-"https://paulaforassembly100.com/district-100",
-"https://paulaforassembly100.com/endorsements",
-"https://paulaforassembly100.com/events",
-"https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires",
-"https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires?format=ical",
-"https://paulaforassembly100.com/events/bagels-and-ballots",
-"https://paulaforassembly100.com/events/bagels-and-ballots?format=ical",
-"https://paulaforassembly100.com/events/campaign-fundraiser",
-"https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill",
-"https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill?format=ical",
-"https://paulaforassembly100.com/events/campaign-fundraiser?format=ical",
-"https://paulaforassembly100.com/events/everyone-loves-a-diner",
-"https://paulaforassembly100.com/events/everyone-loves-a-diner?format=ical",
-"https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant",
-"https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant?format=ical",
-"https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee",
-"https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee?format=ical",
-"https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado",
-"https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado?format=ical",
-"https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw",
-"https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw?format=ical",
-"https://paulaforassembly100.com/events/pk-1k-july-11",
-"https://paulaforassembly100.com/events/pk-1k-july-11?format=ical",
-"https://paulaforassembly100.com/events/pk-1k-july-28",
-"https://paulaforassembly100.com/events/pk-1k-july-28?format=ical",
-"https://paulaforassembly100.com/events/pk-1k-june-20",
-"https://paulaforassembly100.com/events/pk-1k-june-20?format=ical",
-"https://paulaforassembly100.com/events/pk-1k-may-18",
-"https://paulaforassembly100.com/events/pk-1k-may-18?format=ical",
-"https://paulaforassembly100.com/events/pk-1k-may-30",
-"https://paulaforassembly100.com/events/pk-1k-may-30?format=ical",
-"https://paulaforassembly100.com/events/plants-petitions",
-"https://paulaforassembly100.com/events/plants-petitions?format=ical",
-"https://paulaforassembly100.com/home",
-"https://paulaforassembly100.com/news",
-"https://paulaforassembly100.com/privacy-policy",
-"https://paulaforassembly100.com/volunteer",
-"https://rwcatskills.com/",
-"https://secure.actblue.com/donate/paula-kay",
-"https://voterreg.dmv.ny.gov/MotorVoter"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=158-170+lake+avenue+middletown%2C+ny%2C+10940+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=217+east+brodway+monticello%2C+ny+12750+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=280+rock+hill+drive+rock+hill%2C+ny++12775+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3405+new+york+97+barryville%2C+ny%2C+12719+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=405+broadway+monticello%2C+ny+us"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=46+main+street+parksville%2C+ny%2C+12768+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=54+pine+street+wurtsboro%2C+ny%2C+12790+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=66+bowers+road+monticello%2C+ny+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7+west+main+street+middletown%2C+ny%2C+10940+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=888+resorts+world+drive%2C+monticello++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=888+resorts+world+drive+monticello%2C+ny%2C+12701+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=90+main+street+narrowburgh%2C+ny++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=north+galleria+drive+middletown%2C+ny%2C+10941+united+states"
+},
+{
+"text": "0",
+"href": "https://paulaforassembly100.com/cart"
+},
+{
+"text": "2 Queens Coffee",
+"href": "https://2queenscoffee.com"
+},
+{
+"text": "A Campy Fundraiser for Paula at Iroquois Springs Camp–S'mores and Bon Fires",
+"href": "https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires"
+},
+{
+"text": "Bagels and Ballots",
+"href": "https://paulaforassembly100.com/events/bagels-and-ballots"
+},
+{
+"text": "Brunch with Paula",
+"href": "https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw"
+},
+{
+"text": "Campaign Fundraiser",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser"
+},
+{
+"text": "Campaign Fundraiser - Town of Wallkill",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill"
+},
+{
+"text": "Contact",
+"href": "https://paulaforassembly100.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paula-kay"
+},
+{
+"text": "District 100",
+"href": "https://paulaforassembly100.com/district-100"
+},
+{
+"text": "Donate",
+"href": "https://paulaforassembly100.com/home#Donate"
+},
+{
+"text": "Endorsements",
+"href": "https://paulaforassembly100.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulaforassembly100.com/events"
+},
+{
+"text": "Everyone Loves a Diner",
+"href": "https://paulaforassembly100.com/events/everyone-loves-a-diner"
+},
+{
+"text": "Everyone Loves an Italian Restaurant",
+"href": "https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant"
+},
+{
+"text": "FundRaiser at 2 Queens Coffee",
+"href": "https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=A+Campy+Fundraiser+for+Paula+at+Iroquois+Springs+Camp%E2%80%93S%27mores+and+Bon+Fires&dates=20240923T213000Z%2F20240923T233000Z&location=66+Bowers+Road%2C+Monticello%2C+NY"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bagels+and+Ballots&dates=20241027T150000Z%2F20241027T162500Z&location=7+West+Main+Street%2C+Middletown%2C+NY%2C+10940%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brunch+with+Paula&dates=20240818T140000Z%2F20240818T180000Z&location=280+Rock+Hill+Drive%2C+Rock+Hill%2C+NY++12775"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Fundraiser&dates=20240822T213000Z%2F20240822T233000Z&location=888+Resorts+World+Drive%2C+Monticello"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Fundraiser+-+Town+of+Wallkill&dates=20240516T213000Z%2F20240516T233000Z&location=North+Galleria+Drive%2C+Middletown%2C+NY%2C+10941%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Everyone+Loves+a+Diner&dates=20260914T213000Z%2F20260914T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Everyone+Loves+an+Italian+Restaurant&dates=20261029T093000Z%2F20261029T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=FundRaiser+at+2+Queens+Coffee&dates=20240725T213000Z%2F20240725T233000Z&location=90+Main+Street%2C+Narrowburgh%2C+NY+"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Lt.+Governor+Antonio+Delgado+And+Paula&dates=20241015T213000Z%2F20241015T233000Z&location=405+Broadway%2C+Monticello%2C+NY%2C+US"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240518T150000Z%2F20240518T160000Z&location=3405+New+York+97%2C+Barryville%2C+NY%2C+12719%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240530T213000Z%2F20240530T223000Z&location=54+Pine+Street%2C+Wurtsboro%2C+NY%2C+12790%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240620T223000Z%2F20240620T233000Z&location=158-170+Lake+Avenue%2C+Middletown%2C+NY%2C+10940%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240711T223000Z%2F20240711T233000Z&location=888+Resorts+World+Drive%2C+Monticello%2C+NY%2C+12701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=PK-1K+Walk+%26amp%3B+Talk&dates=20240728T223000Z%2F20240728T233000Z&location=46+Main+Street%2C+Parksville%2C+NY%2C+12768%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Plants+%26+Petitions&dates=20260510T150000Z%2F20260510T170000Z&location=217+East+Brodway%2C+Monticello%2C+NY+12750%2C+United+States"
+},
+{
+"text": "HOME",
+"href": "https://paulaforassembly100.com/home"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/bagels-and-ballots?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/everyone-loves-a-diner?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-28?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/pk-1k-june-20?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-18?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://paulaforassembly100.com/events/plants-petitions?format=ical"
+},
+{
+"text": "Meet Lt. Governor Antonio Delgado And Paula",
+"href": "https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado"
+},
+{
+"text": "News",
+"href": "https://paulaforassembly100.com/news"
+},
+{
+"text": "PK-1K Walk & Talk",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-11"
+},
+{
+"text": "PK-1K Walk & Talk",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-28"
+},
+{
+"text": "PK-1K Walk & Talk",
+"href": "https://paulaforassembly100.com/events/pk-1k-june-20"
+},
+{
+"text": "PK-1K Walk & Talk",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-18"
+},
+{
+"text": "PK-1K Walk & Talk",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-30"
+},
+{
+"text": "Plants & Petitions",
+"href": "https://paulaforassembly100.com/events/plants-petitions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterreg.dmv.ny.gov/MotorVoter/"
+},
+{
+"text": "Resorts World Catskills",
+"href": "https://rwcatskills.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://paulaforassembly100.com/volunteer"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/bagels-and-ballots"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/everyone-loves-a-diner"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-11"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-28"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/pk-1k-june-20"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-18"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-30"
+},
+{
+"text": "View Event →",
+"href": "https://paulaforassembly100.com/events/plants-petitions"
+},
+{
+"text": "We respect your privacy.",
+"href": "https://paulaforassembly100.com/privacy-policy"
+},
+{
+"text": "[image: A Campy Fundraiser for Paula at Iroquois Springs Camp–S'mores and Bon Fires]",
+"href": "https://paulaforassembly100.com/events/a-campy-fundraiser-for-paula-at-iroquois-springs-campsmores-and-a-bon-fires"
+},
+{
+"text": "[image: Bagels and Ballots]",
+"href": "https://paulaforassembly100.com/events/bagels-and-ballots"
+},
+{
+"text": "[image: Brunch with Paula]",
+"href": "https://paulaforassembly100.com/events/ovw49zcaoyg004b97dh1zqemteuyvw"
+},
+{
+"text": "[image: Campaign Fundraiser - Town of Wallkill]",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser-town-of-wallkill"
+},
+{
+"text": "[image: Campaign Fundraiser]",
+"href": "https://paulaforassembly100.com/events/campaign-fundraiser"
+},
+{
+"text": "[image: Everyone Loves a Diner]",
+"href": "https://paulaforassembly100.com/events/everyone-loves-a-diner"
+},
+{
+"text": "[image: Everyone Loves an Italian Restaurant]",
+"href": "https://paulaforassembly100.com/events/everyone-loves-an-italian-restaurant"
+},
+{
+"text": "[image: FundRaiser at 2 Queens Coffee]",
+"href": "https://paulaforassembly100.com/events/fund-raiser-at-2-queens-coffee"
+},
+{
+"text": "[image: Meet Lt. Governor Antonio Delgado And Paula]",
+"href": "https://paulaforassembly100.com/events/meet-lt-governor-antonio-ddelgado"
+},
+{
+"text": "[image: PK-1K Walk &amp; Talk]",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-11"
+},
+{
+"text": "[image: PK-1K Walk &amp; Talk]",
+"href": "https://paulaforassembly100.com/events/pk-1k-july-28"
+},
+{
+"text": "[image: PK-1K Walk &amp; Talk]",
+"href": "https://paulaforassembly100.com/events/pk-1k-june-20"
+},
+{
+"text": "[image: PK-1K Walk &amp; Talk]",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-18"
+},
+{
+"text": "[image: PK-1K Walk &amp; Talk]",
+"href": "https://paulaforassembly100.com/events/pk-1k-may-30"
+},
+{
+"text": "[image: Paula for Assembly]",
+"href": "https://paulaforassembly100.com/"
+},
+{
+"text": "[image: Plants & Petitions]",
+"href": "https://paulaforassembly100.com/events/plants-petitions"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulaforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulaforassembly"
+},
+{
+"text": "contact us",
+"href": "https://paulaforassembly100.com/contact"
+}
 ]

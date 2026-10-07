@@ -1,20 +1,94 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61592896419628",
-"https://linkedin.com/in/shayne-morgan-48507648",
-"https://morganformontana.com/",
-"https://morganformontana.com/contact",
-"https://morganformontana.com/contribute",
-"https://morganformontana.com/contribute?amount=10",
-"https://morganformontana.com/contribute?amount=100",
-"https://morganformontana.com/contribute?amount=25",
-"https://morganformontana.com/contribute?amount=250",
-"https://morganformontana.com/contribute?amount=50",
-"https://morganformontana.com/home",
-"https://morganformontana.com/issues",
-"https://morganformontana.com/meet_shayne",
-"https://morganformontana.com/view-endorsements",
-"https://morganformontana.com/volunteer",
-"https://morganformontana.com/vote",
-"https://morganformontana.com/yard-sign"
+{
+"text": "$#",
+"href": "https://www.morganformontana.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.morganformontana.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.morganformontana.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.morganformontana.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://www.morganformontana.com/contribute?amount=50"
+},
+{
+"text": "Contact",
+"href": "https://www.morganformontana.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.morganformontana.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.morganformontana.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.morganformontana.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.morganformontana.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://www.morganformontana.com/volunteer"
+},
+{
+"text": "Meet Shayne",
+"href": "https://www.morganformontana.com/meet_shayne"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://www.morganformontana.com/vote"
+},
+{
+"text": "Other",
+"href": "https://www.morganformontana.com/contribute"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://www.morganformontana.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://www.morganformontana.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://www.morganformontana.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.morganformontana.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.morganformontana.com/yard-sign"
+},
+{
+"text": "[image: Shayne Morgan]",
+"href": "https://www.morganformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61592896419628"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/shayne-morgan-48507648/"
+}
 ]

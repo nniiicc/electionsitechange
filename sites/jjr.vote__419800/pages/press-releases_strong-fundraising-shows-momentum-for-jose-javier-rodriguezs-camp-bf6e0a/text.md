@@ -1,12 +1,5 @@
-FOR IMMEDIATE RELEASE
-January 12, 2026
-Contact: press@jjr.vote, 786-683-8781
-Miami, FL.- José Javier Rodríguez’s campaign for Florida Attorney General reported strong fundraising, signaling growing momentum behind his campaign to restore integrity, independence, and accountability to Florida’s top legal office.
-“Floridians want an Attorney General who works for them, not for powerful interests.
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE January 12, 2026 Contact: press@jjr.vote , 786-683-8781 EN ES Strong Fundraising Shows Momentum for José Javier Rodríguez’s Campaign to Bring Accountability to the Attorney General’s Office Miami, FL .- José Javier Rodríguez’s campaign for Florida Attorney General reported strong fundraising, signaling growing momentum behind his campaign to restore integrity, independence, and accountability to Florida’s top legal office. ‍ Since launching his campaign, Rodríguez has raised nearly $# combined through his campaign committee and affiliated political committee, underscoring broad support for his message of standing up to corruption, taking on powerful interests, and fighting to lower costs for Florida families. ‍ “Floridians want an Attorney General who works for them, not for powerful interests.
 The strong support behind our campaign shows real momentum to restore integrity and accountability to the Attorney General’s office,” said José Javier Rodríguez.
-“As Attorney General, I’ll take on corruption, hold state government accountable, and be an independent voice for working families.”
-About José Javier Rodríguez
-José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
-He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office.
-Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee.
-###
+“As Attorney General, I’ll take on corruption, hold state government accountable, and be an independent voice for working families.” ‍ About José Javier Rodríguez ‍ José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
+He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office. ‍ Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee. ‍ ### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL January 12, 2026

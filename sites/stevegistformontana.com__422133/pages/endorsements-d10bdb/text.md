@@ -1,7 +1,7 @@
-"The Carpenters Political Action Committee (CARPAC) has carefully reviewed your qualifications and believes you best represent the men and women of our organization.
-Your committment in protecting our members' job opportunities, fair wages, and safe working conditions, while advancing policies that improve overall standard of living for working families, reflect the values we strive to uphold."
-National Rifle Association Political Victory Fund grade A and NRA endorsed.
-"Based on our analysis, we believe you will be a strong voice for solid pro-famiy legislation in the upcoming session."
-Steve has worked with Sheriff Jesse Slaughter on numerous state law enforcement issues and has offered his endorsement to Steve's candidacy.
-"...you are clearly the best candidate in your Election contest to represent gun owners and hunters of House District 25.
+Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Steve Gist For The Montana Legislature HD 25 Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Steve The Issues Contact Us Donate Today Endorsements Account My Account Sign out Sign In My Account Trusted Support Carpenters Support Steve "The Carpenters Political Action Committee (CARPAC) has carefully reviewed your qualifications and believes you best represent the men and women of our organization.
+Your committment in protecting our members' job opportunities, fair wages, and safe working conditions, while advancing policies that improve overall standard of living for working families, reflect the values we strive to uphold." Gun Rights Endorsement National Rifle Association Political Victory Fund grade A and NRA endorsed.
+Family Values "Based on our analysis, we believe you will be a strong voice for solid pro-famiy legislation in the upcoming session." Law Enforcement Support Steve has worked with Sheriff Jesse Slaughter on numerous state law enforcement issues and has offered his endorsement to Steve's candidacy.
+Gun Owners Support "...you are clearly the best candidate in your Election contest to represent gun owners and hunters of House District 25.
 We highly recommend you ..." Montana Shooting Sports Association, Inc.
+Paid for by Gist for Montana House 339 1st St.
+N Cascade, MT 59421 (R) Powered by

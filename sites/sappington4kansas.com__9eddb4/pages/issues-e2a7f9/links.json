@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61581701956566",
-"https://kslegislature.gov/li/b2025_26/members/rep_sappington_courtney_1",
-"https://sappington4kansas.com/",
-"https://sappington4kansas.com/cart",
-"https://sappington4kansas.com/contact",
-"https://sappington4kansas.com/endorsements",
-"https://sappington4kansas.com/issues",
-"https://secure.anedot.com/sappington-for-kansas/donate"
+{
+"text": "0",
+"href": "https://www.sappington4kansas.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.sappington4kansas.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/sappington-for-kansas/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sappington4kansas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.sappington4kansas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.sappington4kansas.com/issues"
+},
+{
+"text": "[image: Courtney Sappington for Kansas]",
+"href": "https://www.sappington4kansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581701956566"
+},
+{
+"text": "[no text]",
+"href": "https://www.kslegislature.gov/li/b2025_26/members/rep_sappington_courtney_1/"
+}
 ]

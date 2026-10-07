@@ -1,7 +1,9 @@
 {
  "description": "Joe Gresko is running for re-election as State Representative in Connecticut's 121st District, Stratford. Learn about his record and find voting info.",
  "final_url": "https://joegresko.com/",
- "paid_for_by": null,
+ "fingerprint": "61a057efe01e6b3cf02c7f8d20727e15a8887b7e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Joe Gresko, State Representative, 121st, Stratford CT",
  "years_mentioned": []
 }

@@ -1,7 +1,4 @@
-January - Winooski Newsletter
-From Your Local Representatives
-By Representative Daisy Berbeco
-Happy holidays, neighbors!
+0 Skip to Content Welcome Priorities Blog About Donate Open Menu Close Menu Open Menu Close Menu Welcome Priorities Blog About Donate Welcome Priorities Blog About Donate January - Winooski Newsletter Dec 20 Written By Daisy Berbeco From Your Local Representatives By Representative Daisy Berbeco Happy holidays, neighbors!
 As we enter a new calendar year and the start of the legislative session, I want to share a broad overview of what we will be working on in Montpelier, and how you can stay involved and informed.
 Rep.
 Small and I are very united in our appreciation for the unique needs of our community, as well as the importance of collaboration and connection throughout this upcoming term.
@@ -19,3 +16,5 @@ Please join upcoming monthly community conversations that Representative Small a
 Our first conversation will be January 28 at the Community Center on Mallets Bay Ave.
 Watch our social media and websites for details.
 I look forward to working with you in 2023 and hope you have a safe and happy holiday season.
+Daisy Berbeco Previous Previous Legislative Update Next Next Resource Round-Up Daisy for Winooski P.O.
+Box 381 | Winooski, VT | 05404 (802) 391-4112 DaisyBerbecoVT@gmail.com Donate Welcome Priorities Blog About

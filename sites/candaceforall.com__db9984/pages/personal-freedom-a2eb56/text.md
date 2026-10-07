@@ -1,8 +1,4 @@
+Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events More Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events Donate Home Working Families Infrastructure That Lasts Personal Freedom Candace Cares Events Donate Protect Personal Freedom and Opportunity Government should support people, not control their private lives or undermine public institutions.
 Freedom means autonomy, respect, and opportunity for everyone.
-WE WILL:
-Fully fund public schools and support teachers
-Oppose political interference in classrooms
-Keep medical decisions between patients and qualified healthcare providers
-Affirm equal rights and dignity for all people
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+WE WILL: Fully fund public schools and support teachers Oppose political interference in classrooms Keep medical decisions between patients and qualified healthcare providers Affirm equal rights and dignity for all people Connect With Us Volunteer Candace For All paid for by Women Get Schutt Done candaceforall@gmail.com Copyright © # Candace For All - All Rights Reserved.
+Powered by

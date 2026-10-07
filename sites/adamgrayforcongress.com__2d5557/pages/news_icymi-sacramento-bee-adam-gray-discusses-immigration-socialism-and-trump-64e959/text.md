@@ -1,14 +1,15 @@
-PRESS RELEASE
-ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+Skip navigation menu About News Take Action Issues Contact Media Donate About News Take Action Issues Contact Media Donate PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
+PRESS RELEASE ADAM GRAY SECURES ENDORSEMENT FROM CALIFORNIA FRATERNAL ORDER OF POLICE PRESS RELEASE Modesto Police Officers' Association Endorses Congressman Adam Gray for Re-Election Op-ED, The Washington Post Rep.
+Gray's Op-Ed: My Purple District Can Tell You What The Democratic Autopsy Left Out PRESS RELEASE Adam Gray Issues Statement on CA-13 Primary Election Results PRESS RELEASE Central Valley Local Leaders Endorse Adam Gray's Re-Election PRESS RELEASE Central Valley Mayors Endorse Adam Gray's Re-Election PRESS RELEASE California Farm Bureau Endorses Adam Gray for Re-Election in CA-13 NEWS ARTICLE, TURLOCK JOURNAL Gray Earns Key Endorsement From California Farm Bureau NEWS ARTICLE, your central valley Congressman Gray says he would not vote to support Iran War, discusses reelection NEWS ARTICLE: Turlock Journal Gray officially kicks off re-election campaign for CA-13 NEWS ARTICLE, KCRA 3 Congressman Adam Gray announces re-election for competitive Central Valley seat PRESS RELEASE Rep.
+Adam Gray Launches Re-Election Campaign in California’s 13th Congressional District NEWS ARTICLE: Turlock Journal Gray helps Farm Bill move along NEWS ARTICLE: Fresno Bee State of the Union guest list included Madera Republican.
+Why did a Democrat invite him?
+NEWS ARTICLE: ABC 30 Valley Congressman proposes new bipartisan effort to crack down on fentanyl crisis NEWS ARTICLE: SACRAMENTO BEE Central Valley congressman caught in the middle in a bitterly divided Washington NEWS ARTICLE: Turlock Journal Gray brings growers to the table, hears big concerns NEWS ARTICLE: Turlock Journal Congressman Gray talks Trump, tariffs and immigration NEWS ARTICLE Congressman Gray introduces Valley Water Protection Act NEWS ARTICLE: Turlock Journal Congressman Gray suits up with the Blue Devils OP-ED BY ADAM GRAY: FResno Bee Adam Gray: Farmers are the ones taking the bullets in Trump’s on-again, off-again trade wars NEWS ARTICLE: Fresno Bee Editorial House Democrat Adam Gray of Merced is ready to solve problems.
+The GOP, not so much NEWS ARTICLE: CNN State of the Union What four freshman members hope to accomplish in the narrowly divided House Sep 30 2026 PRESS RELEASE ICYMI, Sacramento Bee: Adam Gray Discusses immigration, Socialism and Trump.
 MERCED, CA – In an interview with The Sacramento Bee, Congressman Adam Gray discussed the need to move beyond partisan politics, take a practical approach to governing, and focus on delivering results for the Central Valley.
 Congressman Adam Gray is running for re-election in California’s 13th Congressional District to build on his record of delivering bipartisan results and being an independent voice for the Central Valley.
 In an interview with Mathew Miranda from the Sacramento Bee, Congressman Gray addressed a range of topics including immigration reform, access to affordable health care, bipartisanship, and the importance of putting the Central Valley first.
 Gray emphasized that voters are tired of political games and want to see their elected officials focus on making everyday life better.
-“What voters want here is an independent voice, not a Democratic voice, not a Republican voice,” said Congressman Gray.“ They just want somebody who's going to always put the Valley first.”
-For more information about Congressman Adam Gray’s campaign, visit AdamGrayForCongress.com.
-_____________________________________________________________________________________________________
-A transcript of Adam Gray’s Interview with Mathew Miranda from the Sacramento Bee can be found below:
-Question: The way the political winds seem to be blowing is that Democrats may regain control of the House.
+“What voters want here is an independent voice, not a Democratic voice, not a Republican voice,” said Congressman Gray.“ They just want somebody who's going to always put the Valley first.” For more information about Congressman Adam Gray’s campaign, visit AdamGrayForCongress.com . _____________________________________________________________________________________________________ A transcript of Adam Gray’s Interview with Mathew Miranda from the Sacramento Bee can be found below: Question: The way the political winds seem to be blowing is that Democrats may regain control of the House.
 If that does happen, what do you think the new leadership should focus on when it comes to the Trump administration?
 A: Let’s govern, because what frustrates me and what I think frustrates a lot of people is that politics has become just a game of blaming the other party for everything, and I think a lot of voters ask the question, ‘Well, is my life getting better?’ My advice to Democrats is: If we want people to vote for us, if we want people to support our efforts, we ought to make people’s lives better.
 Making people’s lives better does not mean having a symbolic vote on something that goes to the Senate and dies — that’s what the Republicans have done for two years.
@@ -71,7 +72,8 @@ This year, political experts are saying things are a little bit different.
 As we’ve talked about, there’s a lot of frustration with the Republican Party right now.
 Polls are showing high disapproval ratings for President Trump.
 Historical voting patterns show that typically the party in power loses control of Congress.
-Prop. 50 made your district a little more blue.
+Prop.
+50 made your district a little more blue.
 Are all these factors making you feel confident about retaining your seat this November?
 A: I’ve always lived in a world where you have to earn every vote, and I will say that winning by 187 made it crystal clear to me...
 I have a lot of respect for elections.
@@ -87,4 +89,4 @@ What voters want here is an independent voice, not a Democratic voice, not a Rep
 They just want somebody who’s going to go up there.
 They may be Democrat or Republican, but they want someone who’s going to always put the Valley first.
 And I think when you’re running right now with really the sole purpose of trying to keep the House in Republican hands and allow Trump to continue to do whatever he wants, I’m not sure that’s a great message that Valley voters are going to get behind.
-###
+### info@AdamGrayforCongress.com If donating by mail, make checks payable to: Adam Gray for Congress | PO Box 1229 Merced, CA 95341 Privacy Policy Press Inquires: press@adamGrayforCongress.com Put your “paid for” disclaimer here You need to enable JavaScript to run this app.

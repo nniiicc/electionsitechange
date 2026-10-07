@@ -1,5 +1,4 @@
-A Champion for Northampton County Families
-As our State Representative, Ann has continued her commitment to helping and serving others because nothing is more important to her than faith, family, country, and community.
+0 Skip to Content Ann Flood | State Representative Home About DONATE NOW Open Menu Close Menu Ann Flood | State Representative Home About DONATE NOW Open Menu Close Menu Home About DONATE NOW A Champion for Northampton County Families As our State Representative, Ann has continued her commitment to helping and serving others because nothing is more important to her than faith, family, country, and community.
 Her journey to the Pennsylvania House of Representatives was driven by a profound desire to make a difference and to improve the lives of others.
 Elected in 2020, Ann has worked hard to be a strong advocate and to represent the priorities of her constituents in Northampton’s 138th District in Harrisburg and here at home.
 Prior to her election to the State House, Ann used her business skills to establish and lead Lauren’s Hope Foundation to enhance the quality of life for brain-injured children and offer support for their families.
@@ -14,3 +13,4 @@ A native of Wind Gap, Ann and her husband, Daniel, call Bath home.
 They take immense pride in their family, which includes their children Jake and Ella, and honor the memory of their daughter, Lauren.
 Ann graduated from Pen Argyl Area High School before earning a Bachelor of Science degree in biology with a concentration in chemistry and psychology from Moravian College in Bethlehem, Pennsylvania.
 As our State Representative, Ann will continue to be a champion for Northampton County families, seniors, veterans and our communities.
+DONATE NOW PAID FOR BY FRIENDS OF ANN FLOOD Copyright # Friends of Ann Flood

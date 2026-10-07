@@ -1,16 +1,66 @@
 [
-"https://chrismoraitisforstatesenate.com/",
-"https://chrismoraitisforstatesenate.com/about",
-"https://chrismoraitisforstatesenate.com/contact",
-"https://chrismoraitisforstatesenate.com/endorsements",
-"https://chrismoraitisforstatesenate.com/issues",
-"https://chrismoraitisforstatesenate.com/privacy-policy",
-"https://chrismoraitisforstatesenate.com/sms-terms-and-conditions",
-"https://chrismoraitisforstatesenate.com/volunteer",
-"https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_5504CC.jpg",
-"https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_7925CC.jpg",
-"https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_8172CC.jpg",
-"https://chrismoraitisforstatesenate.com/wp-content/uploads/2026/01/Abbott.png",
-"https://inspirationwebworks.com/",
-"https://secure.winred.com/chris-moraitis-for-state-senate/donate-today"
+{
+"text": "About",
+"href": "https://chrismoraitisforstatesenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://chrismoraitisforstatesenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/chris-moraitis-for-state-senate/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://chrismoraitisforstatesenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://chrismoraitisforstatesenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://chrismoraitisforstatesenate.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrismoraitisforstatesenate.com/privacy-policy/"
+},
+{
+"text": "SMS Terms and Conditions",
+"href": "https://chrismoraitisforstatesenate.com/sms-terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://chrismoraitisforstatesenate.com/volunteer/"
+},
+{
+"text": "[image: Chris Moraitis for State Senate]",
+"href": "https://chrismoraitisforstatesenate.com/"
+},
+{
+"text": "[image]",
+"href": "https://chrismoraitisforstatesenate.com"
+},
+{
+"text": "[image]",
+"href": "https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_5504CC.jpg"
+},
+{
+"text": "[image]",
+"href": "https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_7925CC.jpg"
+},
+{
+"text": "[image]",
+"href": "https://chrismoraitisforstatesenate.com/wp-content/uploads/2025/09/IMG_8172CC.jpg"
+},
+{
+"text": "[image]",
+"href": "https://chrismoraitisforstatesenate.com/wp-content/uploads/2026/01/Abbott.png"
+},
+{
+"text": "[image]",
+"href": "https://www.inspirationwebworks.com"
+}
 ]

@@ -1,15 +1,10 @@
-Join us at an event near you
-Attend one of our many events to hear more from Mike about his campaign and connect with people in your community.
-- Join us at the Worthington Community Room in Oconomowoc on May 13 from 5:30pm-7:00pm.
-RSVP today: https://secure.actblue.com/donate/may13_oconomowoc
-- Both of us were invited.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Join us at an event near you Attend one of our many events to hear more from Mike about his campaign and connect with people in your community.
+May 13, 2026 - Oconomowoc Join us at the Worthington Community Room in Oconomowoc on May 13 from 5:30pm-7:00pm.
+RSVP today: https://secure.actblue.com/donate/may13_oconomowoc June 24, 2026 - Ashippun Candidate Forum Both of us were invited.
 As of now, I’m the only one who will be there.
-Doors Open - 7:00pm W1266 County Rd O
-Oconomowoc, WI 53066
-- Come join us to march in the Hometown Celebration Parade starting at 11:15AM.
+Doors Open - 7:00pm W1266 County Rd O Oconomowoc, WI 53066 June 28, 2026 - Hartland Hometown Celebration Parade Come join us to march in the Hometown Celebration Parade starting at 11:15AM.
 If you want to join us, reach out for more details.
-- Join us at 2:45pm to walk in the Oconomowoc Independence Day Parade beginning at 3:30pm.
-- Join me on YouTube and TikTok [username @MVSforWI on both platforms] at 8:30pm every Wednesday for a virtual town hall.
+July 3, 2026 - Oconomowoc Independence Day Parade Join us at 2:45pm to walk in the Oconomowoc Independence Day Parade beginning at 3:30pm.
+Every Wednesday - Virtual Town Hall Join me on YouTube and TikTok [username @MVSforWI on both platforms] at 8:30pm every Wednesday for a virtual town hall.
 You’re busy and I’m busy but that doesn’t mean we shouldn’t talk about the future we want to see here in Wisconsin.
-Host an Event
-If you're interested in hosting an event in support of Mike Van Someren, fill out this form and our team will follow up soon.
+Host an Event If you're interested in hosting an event in support of Mike Van Someren, fill out this form and our team will follow up soon. info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

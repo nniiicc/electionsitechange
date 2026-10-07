@@ -1,31 +1,138 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/county",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/district31.html",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/education.html",
-"https://andycantwin.com/healthbills",
-"https://andycantwin.com/issues.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/start",
-"https://andycantwin.com/the-rigged-system.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/where-i-stand",
-"https://andycantwin.com/why-andy.html",
-"https://andycantwin.com/workshop",
-"https://cfequality.org/find-candidates",
-"https://equalityncpac.org/2026-endorsements",
-"https://era-nc.org/2026-candidate-survey",
-"https://facebook.com/FCAEnc/posts/pfbid0Co3f4LxNDpJn71XCn1U3VgAxnN3KwZgLRUCoUx1VkuZZXNjzX1XxGD68oqjJTNF7l",
-"https://facebook.com/StokesDemocrats/posts/pfbid021W3VrY4nz1n6k7YUbv171tXpHF9SGXRMoyHssCS7myecB2TQdhCzJYsqaUhhvASWl",
-"https://facebook.com/andycantwin",
-"https://greatpublicschoolsfund.org/recommended-candidates-statewide",
-"https://instagram.com/andycantwin",
-"https://naswnc.org/page/Voting",
-"https://ncnowpac.org/2026/02/23/2026-endorsements",
-"https://pcncdp.org/endorsements",
-"https://plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic/protect-abortion-access-in-nc-2026/north-carolina-endorsed-candidates-26",
-"https://prochoicenc.org/2026/05/18/2026-pro-choice-north-carolina-pac-endorsements",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Public education feeling broken?p.28",
+"href": "https://andycantwin.com/education.html"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "The issues →",
+"href": "https://andycantwin.com/issues.html"
+},
+{
+"text": "The rigged system →",
+"href": "https://andycantwin.com/the-rigged-system.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "What I would actually do →",
+"href": "https://andycantwin.com/where-i-stand/"
+},
+{
+"text": "Why your property tax keeps climbingp.52",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "Worried about data centers?p.20 The one near Walnut Cove would use as much power as a small town. Guess whose bill that lands on.",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "Your district →",
+"href": "https://andycantwin.com/district31.html"
+},
+{
+"text": "Your power bill went up againp.24",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "[image: Andy Bowline]",
+"href": "https://andycantwin.com/why-andy.html"
+},
+{
+"text": "[image: Center for Freethought Equality PAC logo]",
+"href": "https://www.cfequality.org/find-candidates"
+},
+{
+"text": "[image: ERA-NC Alliance ERA Certified decal]",
+"href": "https://www.era-nc.org/2026-candidate-survey/"
+},
+{
+"text": "[image: Equality North Carolina Action Fund PAC logo]",
+"href": "https://equalityncpac.org/2026-endorsements/"
+},
+{
+"text": "[image: Forsyth County Association of Educators logo]",
+"href": "https://www.facebook.com/FCAEnc/posts/pfbid0Co3f4LxNDpJn71XCn1U3VgAxnN3KwZgLRUCoUx1VkuZZXNjzX1XxGD68oqjJTNF7l"
+},
+{
+"text": "[image: NASW North Carolina Chapter PACE logo]",
+"href": "https://www.naswnc.org/page/Voting"
+},
+{
+"text": "[image: NC NOW PAC logo]",
+"href": "https://ncnowpac.org/2026/02/23/2026-endorsements/"
+},
+{
+"text": "[image: NCAE Great Public Schools Fund 2026 endorsed candidate logo]",
+"href": "https://www.greatpublicschoolsfund.org/recommended-candidates-statewide"
+},
+{
+"text": "[image: Planned Parenthood Votes South Atlantic logo]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-south-atlantic/protect-abortion-access-in-nc-2026/north-carolina-endorsed-candidates-26"
+},
+{
+"text": "[image: Pro-Choice North Carolina PAC logo]",
+"href": "https://prochoicenc.org/2026/05/18/2026-pro-choice-north-carolina-pac-endorsements/"
+},
+{
+"text": "[image: Progressive Caucus of the NC Democratic Party logo]",
+"href": "https://www.pcncdp.org/endorsements"
+},
+{
+"text": "[image: Stokes County Democrats logo]",
+"href": "https://www.facebook.com/StokesDemocrats/posts/pfbid021W3VrY4nz1n6k7YUbv171tXpHF9SGXRMoyHssCS7myecB2TQdhCzJYsqaUhhvASWl"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "hospital bills",
+"href": "https://andycantwin.com/healthbills/"
+},
+{
+"text": "is your vote rigged?",
+"href": "https://andycantwin.com/the-rigged-system.html"
+},
+{
+"text": "or just poke around →",
+"href": "https://andycantwin.com/start/"
+},
+{
+"text": "the whole site",
+"href": "https://andycantwin.com/start/"
+}
 ]

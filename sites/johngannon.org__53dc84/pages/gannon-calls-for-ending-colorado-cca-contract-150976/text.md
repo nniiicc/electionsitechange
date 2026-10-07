@@ -1,3 +1,6 @@
-Representative John Gannon and a colleague have proposed a Legislative Resolution to require the State to end its last remaining CCA contract which provides for the housing of Idaho inmates at the private CCA Kit Carson facility in Colorado.
+Home About About John Gannon Newsroom News Press Releases Issues Southwest Ada Well Issues Education Open Legislature and Voting Neighborhood Involvement Quality of Life Resources Government Page Program Blog Contact Connect on Facebook Gannon Calls for Ending Colorado CCA Contract Post Date May 10, 2014 Comments 0 Comments Author John Category Blog , Issues , News Share Representative John Gannon and a colleague have proposed a Legislative Resolution to require the State to end its last remaining CCA contract which provides for the housing of Idaho inmates at the private CCA Kit Carson facility in Colorado.
 Currently there are 250 Idaho inmates there.
 The private prison experiment has failed in Idaho and the way in which the contract has been breached is a good reason to end all CCA contracts.
+Lawmakers want out-of-state prisoners brought home This post was written by John Leave a Reply Cancel reply Subscribe via Email Enter your email address to subscribe to John's website and receive notifications of new posts by email.
+Email Address Subscribe Paid for by Gannon for Rep Dawn King Treasurer © # Gannon State Rep.
+District 17A : John Gannon is member of the Idaho Legislature representing District 17

@@ -1,2 +1,3 @@
-Dale is proud to have the support of organizations and leaders across our community and state.
-This list will continue to grow as the campaign earns more support.
+Home About Key Issues Events Endorsements Get Involved Voter Info Register to Vote Polling Information Contact Blog Sign Up for Newsletter Endorsements Community Support Dale is proud to have the support of organizations and leaders across our community and state.
+FEATURED ENDORSEMENT ENDORSED BY KANSANS FOR LIFE ENDORSED BY Kansas Farm Bureau Voters Organized to Elect Farm Bureau Friends (VOTE FBF) ENDORSED BY Kansas Agri Business Counsel Pac Growing Momentum ENDORSEMENT COMING SOON ENDORSEMENT COMING SOON ENDORSEMENT COMING SOON ENDORSEMENT COMING SOON ENDORSEMENT COMING SOON ENDORSEMENT COMING SOON Building Together This list will continue to grow as the campaign earns more support.
+Terms & Conditions/Privacy Policy Email: [email protected] Paid for by Dale Helwig for Kansas, Treasurer Clark Hall

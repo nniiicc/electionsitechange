@@ -1,9 +1,6 @@
-Landsman Statement on Gov.
-Tim Walz Being Named Harris VP Nominee
-August 6, 2024
-CINCINNATI, OH — Congressman Landsman released the following statement regarding Minnesota Gov.
-Tim Walz being named Vice President Kamala Harris’ Vice Presidential nominee:
-Gov.
+0 Skip to Content Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home Folder: About Back Greg Landsman The Issues Our Supporters Folder: Media Back Releases Media Videos In the News Endorsements Folder: Vote Back Voter Info The District Shop Donate Landsman Statement on Gov.
+Tim Walz Being Named Harris VP Nominee Oct 26 Written By Guest User August 6, 2024 CINCINNATI, OH — Congressman Landsman released the following statement regarding Minnesota Gov.
+Tim Walz being named Vice President Kamala Harris’ Vice Presidential nominee: Gov.
 Walz can do the job, and helps reinforce that we’re team normal.
 We’re pragmatic, reliable and bipartisan.
 Vance reinforces chaos and extremism.
@@ -16,4 +13,5 @@ Walz and Harris will help us end this gun violence nightmare, empowering law enf
 This is our path forward.
 We can stop worrying about our politicians and begin to elect leaders who are working for us and get things done.
 And as a former teacher myself, it’s nice to see a teacher in this role.
-###
+### Guest User Previous Previous Landsman Releases First Ad of the Cycle: “Listening” Next Next Landsman Comment Regarding His Constituent, Mr.
+Vance, Being Named Trump VP Nominee Donate Contact Us info@landsmanforcongress.com PO Box 68033 Cincinnati, OH 45206 Paid for by Landsman for Congress Privacy Policy

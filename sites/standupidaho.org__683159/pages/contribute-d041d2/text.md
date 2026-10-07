@@ -1,6 +1,2 @@
-top of page
-Stand With Barbara
-Contact Barbara:
-- info@standupidaho.org
-- Follow Barbara on Facebook
-bottom of page
+top of page State Representative Idaho Falls | District 33 DONATE VIDEOS WHO I AM WHAT I STAND FOR WHO STANDS WITH ME HOW I VOTE STAND WITH ME HELP BARBARA WIN CONTACT More Use tab to navigate through the menu items.
+Stand With Barbara DONATE GET A YARD SIGN VOLUNTEER Contact Barbara: info@standupidaho.org Follow Barbara on Facebook VOTE FOR BARBARA MAY 19th © # by Committee to Elect Barbara Ehardt bottom of page

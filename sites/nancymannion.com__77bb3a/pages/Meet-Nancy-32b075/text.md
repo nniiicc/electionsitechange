@@ -1,5 +1,5 @@
-A Life of Service
-Nancy Mannion is an accomplished registered nurse and healthcare leader.
+Donate Home Meet Nancy Priorities Endorsements Events News ▾ News & Press Newsletters Volunteer Contact Us Donate MEET NANCY Democrat for Pennsylvania's 11th District.
+A Life of Service Nancy Mannion is an accomplished registered nurse and healthcare leader.
 She’s spent decades caring for people experiencing health emergencies, listening and acting to improve, and sometimes save, lives.
 No stranger to high-stakes situations, Nancy built her career around thinking clearly under pressure, solving complex problems quickly, and delivering compassionate care.
 For Nancy, integrity and accountability are core values.
@@ -10,8 +10,7 @@ Her priorities include creating affordable, accessible healthcare programs and b
 In addition, recognizing that Lancaster and York counties are home to some of the most fertile farmland in our nation, Nancy is committed to helping farmers achieve economic success.
 The residents of PA’s 11th District deserve a representative who will funnel tax dollars back into Lancaster and York to provide affordable healthcare, housing, and education and ensure that children and seniors are safe, have enough to eat, and a chance to thrive.
 Nancy will work tirelessly for YOU, not the billionaires looking to increase their stock portfolios.
-More about Nancy
-Nancy’s life of service began in childhood.
+More about Nancy Nancy’s life of service began in childhood.
 Led by her parents’ example, she volunteered at church and completed service activities as a Girl Scout.
 Her engagement in community service continues as an adult—she is Rotarian, church volunteer, and leader on multiple non-profit boards.
 Nancy’s nursing education began with a Registered Nurse diploma.
@@ -29,3 +28,6 @@ Nancy has been recognized as a Fellow by the American Academy of Nursing and the
 Her writing has been published extensively in books and journals, and she is an in-demand speaker worldwide.
 At home, Nancy and her husband enjoy gardening and are the proud pet parents of two dogs, Mr.
 Finn and Joey.
+NANCY MANNION FOR CONGRESS Citizens for Nancy Mannion PO Box 4217 Lancaster PA 17604 info@nancymannion.com Home Meet Nancy Events Donate Facebook Instagram Contact Us Sitemap Stay in the loop Get campaign updates, event invitations, and important election news.
+Sign Up → Paid for by Citizens for Nancy Mannion. © # Nancy Mannion for Congress.
+All Rights Reserved.

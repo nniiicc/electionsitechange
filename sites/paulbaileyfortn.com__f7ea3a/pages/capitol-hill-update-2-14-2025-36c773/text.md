@@ -1,48 +1,27 @@
-A snapshot of my week in Nashville
-Governor Lee delivers annual State of the State address
-This week Governor Bill Lee delivered his seventh State of the State address where he laid out his 2025 budget priorities.
+Home About Paul Events Weekly Capitol Update Contact Home About Paul Events Weekly Capitol Update Contact Already Registered Forgot password?
+Not a member?
+Join today https://paulbaileyfortn.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fpaulbaileyfortn.com%2F&_wpnonce=4394063799 Home Weekly Capitol Update / Capitol Hill Update 2/14/2025 Capitol Hill Update 2/14/2025 A snapshot of my week in Nashville Governor Lee delivers annual State of the State address This week Governor Bill Lee delivered his seventh State of the State address where he laid out his 2025 budget priorities.
 Lee’s proposed $59.5 billion budget includes strategic investments to secure a prosperous future for Tennessee.
 It prioritizes economic and educational opportunities, infrastructure, protecting communities and preserving Tennessee’s natural resources.
-Continued Fiscal Responsibility
-Governor Lee and the General Assembly remain committed to the state’s economic future through fiscal responsibility and promoting economic development.
+Continued Fiscal Responsibility Governor Lee and the General Assembly remain committed to the state’s economic future through fiscal responsibility and promoting economic development.
 Because tax revenue growth is slowing and leveling out to normal rates after years or record growth, lawmakers and Governor Lee will work together to carefully plan the best way to be responsible with taxpayer dollars.
-Some of this year’s budget highlights include:
-- $35.6 million investment into the Rainy Day Fund
-- $45.8 million for Rural Development Grant Fund to enhance Tennessee’s rural and distressed communities through site development, community asset improvements, strategic planning and downtown revitalization.
-- $25 million for FastTrack grants to recruit new businesses to Tennessee and support workforce development.
-- $10 million for the Rural Grant Opportunity Fund to match funding for at-risk and distressed counties seeking state and federal grants.
-Housing + Infrastructure
-- $1 billion to the Tennessee Department of Transportation to address the state’s infrastructure needs, including expediting existing road projects and funding new projects across rural and urban Tennessee.
-- $30 million to fund the Rural and Workforce Housing Tax Credit, making it easier to build homes and businesses.
-Education
-- $198.4 million for teacher bonuses in recognition of their hard work and dedication and for leading the nation in student achievement and growth.
-- $244 million to strengthen education through the TISA formula growth, including teacher pay raises.
-- $12 million to create the TennesseeWORKS Scholarship, a new award covering every penny of TCAT tuition and fees for all students while relieving the extra cost burden of tools and equipment for those most in-need.
-Strong + Healthy Families
-- $95.5 million utilizing Share Savings to enhance long term care services and supports for older adults and people living with disabilities.
-- $7.2 million to expand the WAGE$ Program and reduce turnover in Tennessee’s childcare workforce by increasing pay and rewarding greater education.
-- $5.9 million to cover childcare for more working families through an expansion of the Smart Steps Child Care Program and ease the benefits cliff.
-- $11.8 million to reduce waitlists in the OPTIONS and Senior Nutrition programs.
-Safe Neighborhoods
-- $130 million investment in the Violent Crime Intervention Fund to support local law enforcement and local jurisdictions through grants to fund evidence-based strategies to improve public safety.
-- $5 million to further expand the Statewide SRO Program Grant, which places SROs in each K-12 public school and public charter school in Tennessee.
-- $38 million for an additional 117 State Troopers and related support staff to improve public safety across the State.
-Agriculture and Energy
-- $20 million in additional funding for the Agricultural Enterprise Fund and Agricultural Enhancement fund, both of which are utilized to aid Tennesseans in creating and expanding agricultural, food, and forestry businesses and making long-term strategic investments in rural communities.
-- $10 million investment in the Nuclear Energy Fund to attract advanced nuclear technology companies.
-Combat Human Trafficking and Protect Victims
-For over a decade, Tennessee has been a leader in recognizing and protecting victims of human trafficking.
+Some of this year’s budget highlights include: $35.6 million investment into the Rainy Day Fund $45.8 million for Rural Development Grant Fund to enhance Tennessee’s rural and distressed communities through site development, community asset improvements, strategic planning and downtown revitalization. $25 million for FastTrack grants to recruit new businesses to Tennessee and support workforce development. $10 million for the Rural Grant Opportunity Fund to match funding for at-risk and distressed counties seeking state and federal grants.
+Housing + Infrastructure $1 billion to the Tennessee Department of Transportation to address the state’s infrastructure needs, including expediting existing road projects and funding new projects across rural and urban Tennessee. $30 million to fund the Rural and Workforce Housing Tax Credit, making it easier to build homes and businesses.
+Education $198.4 million for teacher bonuses in recognition of their hard work and dedication and for leading the nation in student achievement and growth. $244 million to strengthen education through the TISA formula growth, including teacher pay raises. $12 million to create the TennesseeWORKS Scholarship, a new award covering every penny of TCAT tuition and fees for all students while relieving the extra cost burden of tools and equipment for those most in-need.
+Strong + Healthy Families $95.5 million utilizing Share Savings to enhance long term care services and supports for older adults and people living with disabilities. $7.2 million to expand the WAGE$ Program and reduce turnover in Tennessee’s childcare workforce by increasing pay and rewarding greater education. $5.9 million to cover childcare for more working families through an expansion of the Smart Steps Child Care Program and ease the benefits cliff. $11.8 million to reduce waitlists in the OPTIONS and Senior Nutrition programs.
+Safe Neighborhoods $130 million investment in the Violent Crime Intervention Fund to support local law enforcement and local jurisdictions through grants to fund evidence-based strategies to improve public safety. $5 million to further expand the Statewide SRO Program Grant, which places SROs in each K-12 public school and public charter school in Tennessee. $38 million for an additional 117 State Troopers and related support staff to improve public safety across the State.
+Agriculture and Energy $20 million in additional funding for the Agricultural Enterprise Fund and Agricultural Enhancement fund, both of which are utilized to aid Tennesseans in creating and expanding agricultural, food, and forestry businesses and making long-term strategic investments in rural communities. $10 million investment in the Nuclear Energy Fund to attract advanced nuclear technology companies.
+Combat Human Trafficking and Protect Victims For over a decade, Tennessee has been a leader in recognizing and protecting victims of human trafficking.
 This week, the Senate passed two measures to continue their efforts.
 The Senate Commerce and Labor Committee unanimously passed SB 171 aimed at combating human trafficking through awareness and training within the tattoo industry.
 The Ink of Hope Act would require tattoo artists to receiving training on recognizing and reporting signs of human trafficking as part of their licensing requirement.
 Senate Joint Resolution 15, which passed out of the Senate Judiciary Committee, establishes January as Human Awareness Trafficking Month.
-To the Citizens of Senate District 15
-I want to take a moment to express my heartfelt gratitude for the trust you have placed in me by allowing me to serve, in the Tennessee General Assembly, as your Senator.
+To the Citizens of Senate District 15 I want to take a moment to express my heartfelt gratitude for the trust you have placed in me by allowing me to serve, in the Tennessee General Assembly, as your Senator.
 It is an honor to represent you and work on your behalf.
 Please know I am here to help you in any way I can.
 If you have questions, concerns or ideas, I encourage you to reach out to my office.
 My dedicated staff stand ready to assist you and ensure your voice is heard.
 Thank you once again for this opportunity to serve.
 Together, we can continue to make our community and state the best place to live, work and raise a family.
-All My Best,
-Paul
+All My Best, Paul Previous Article Next Article Share With Facebook Tweet With Twitter SEARCH RECENT UPDATES Capitol Hill Update 4/17/2026 Capitol Hill Update 4/10/2026 Capitol Hill Update 4/3/2026 NEWSLETTER Please enable JavaScript in your browser to complete this form.
+Email * SUBMIT

@@ -1,10 +1,46 @@
 [
-"https://facebook.com/repjohngaskey",
-"https://hockomock.org/",
-"https://instagram.com/repjohngaskey",
-"https://johngaskey.com/",
-"https://johngaskey.com/meet-john",
-"https://johngaskey.com/privacy-policy",
-"https://secure.winred.com/gaskey-committee/donate-today",
-"https://x.com/repjohngaskey"
+{
+"text": "Back to Home",
+"href": "https://www.johngaskey.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gaskey-committee/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/repjohngaskey"
+},
+{
+"text": "GASKEYState Representative",
+"href": "https://www.johngaskey.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johngaskey.com/#join-team"
+},
+{
+"text": "Hockomock Digital",
+"href": "https://hockomock.org"
+},
+{
+"text": "Home",
+"href": "https://www.johngaskey.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/repjohngaskey"
+},
+{
+"text": "Meet John",
+"href": "https://www.johngaskey.com/meet-john"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.johngaskey.com/privacy-policy"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/repjohngaskey"
+}
 ]

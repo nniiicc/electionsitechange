@@ -1,20 +1,2 @@
-Skip navigation menu
-Endorsements
-We are strongly supporting
-Chris Duncan for State Senate
-Rob Bonta
-California Attorney General
-Robert Garcia
-Member of Congress
-Dave Min
-Member of Congress
-Mike Levin
-Member of Congress
-Katrina Foley
-Orange County Supervisor
-Cottie Petrie-Norris
-State Assemblymember
-Tom Umberg
-State Senator
-Individuals
-Organizations
+Skip navigation menu About District 36 Endorsements Contact Media Donate Endorsements About District 36 Endorsements Contact Media Donate Endorsements We are strongly supporting Chris Duncan for State Senate Rob Bonta California Attorney General Robert Garcia Member of Congress Dave Min Member of Congress Mike Levin Member of Congress Katrina Foley Orange County Supervisor Cottie Petrie-Norris State Assemblymember Tom Umberg State Senator Individuals Rob Bonta, Attorney General of California Robert Garcia, Member of Congress Lou Correa, Member of Congress Mike Levin, Member of Congress Dave Min, Member of Congress Derek Tran, Member of Congress Avelino Valencia, State Assemblymember Cottie Petrie-Norris, State Assemblymember Patrick Ahrens, State Assemblymember Tom Umberg, State Senator Catherine Blakespear, State Senator Jeff Prang, Los Angeles County Assessor Carlos Manzo.
+Westminster Councilmember Valerie Amezcua, Santa Ana Mayor Katrina Foley, Orange County Supervisor John Stephens, Costa Mesa Mayor Leo Medrano, Cypress Hill Mayor Alex Rounaghi, Laguna Beach Councilmember Connor Traut, Buena Park Deputy Mayor Ashliegh Aitkin, Anaheim Mayor Stehanie Oddo, Laguna Niguel Councilmember Mark Enmeier, San Clemente Councilmember Michael Villar, Dana Point Councilmember Joe Kalmick, Seal Beach Councilmember Glen Grandis, Fountain Valley Councilmember Patricia Singer, Vice President, Board of Trustees, Ocean View School Board Gina Clayton-Tarvin, President, Board of Trustees, Ocean View School Board Ryan Dack, South Orange County Community College District Trustee Florice Hoffman, Chair, Democratic Party of Orange County Giovanni Chavez, President, California Young Democrats (former) Adam Tallabas, President, Orange County Young Democrats (former) Organizations California Democratic Party Community Action Fund (CAF) of Planned Parenthood of Orange and San Bernardino Counties (PPOSBC) California Federation of Labor Unions California Young Democrats Equality California Democratic Women of South Orange County Laguna Beach Democratic Club National Union of Healthcare Workers California Federation of Teachers California Nurses Association International Longshore and Warehouse Union (ILWU) Center for Biological Diversity Action Fund Unite HERE Local 11 Climate Action California Check contributions can be sent to: Chris Duncan for Senate 2026 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Powered by RUN! website builder Paid for by Chris Duncan for Senate 2026 | FPPC ID# 1485389 You need to enable JavaScript to run this app.

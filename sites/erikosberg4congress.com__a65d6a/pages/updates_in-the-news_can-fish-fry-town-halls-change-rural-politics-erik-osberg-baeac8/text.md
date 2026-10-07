@@ -1,10 +1,17 @@
-Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg
-Can gathering neighbors over fried fish help change who gets heard in Washington?
+Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Store Updates Get Involved 38 Door Club 38 Phones Club Donate Menu Meet Erik Priorities Defend The Constitution Get Corporate Money Out of Politics Healthcare for Everyone Strengthening Public Education Agriculture & the Farm Bill Housing & Homelessness Fighting Fraud & Waste in Government With Liberty and Justice for All Honoring Our Veterans Firearms & Gun Safety Environmental Stewardship Workers’ Rights & Union Protections Reproductive Rights Protecting Our Seniors Equal Rights.
+No Exceptions.
+Voting Events Updates Get Involved Donate Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Erik Osberg for Congress > Blog > In The News > Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg September 8, 2026 Erik Osberg By Erik Osberg September 8, 2026 0 0 Shares Can Fish Fry Town Halls Change Rural Politics? | Erik Osberg Can gathering neighbors over fried fish help change who gets heard in Washington?
 In Episode 49 of The Politics Chicks podcast, Christy and Monica welcome Erik Osberg, the Minnesota DFL candidate challenging Michelle Fischbach in Minnesota’s 7th Congressional District, for a conversation about rural voters, common concerns, and accountable representation.
 Known as the “fishing politician,” Erik explains why his community fish fry town halls welcome everyone—and what he’s hearing from people who feel their concerns have gone unanswered.
 He shares stories of Republican support, challenges Fischbach’s record, and explains why he wants a constitutional amendment overturning Citizens United.
 The conversation also explores his work on rural economic development in Otter Tail County, the need for housing and childcare, and his argument that family farmers need predictable markets and reliable trade relationships.
 Erik describes how he would build an accessible congressional office and why showing up must continue after Election Day.
-As Erik puts it: “I want to be beholden to the people.”
-Listen to the full episode for a candid conversation about community, corporate influence, and what meaningful representation could look like for western Minnesota—plus a distinctly Minnesotan lightning round.
-Watch the Podcast
+As Erik puts it: “I want to be beholden to the people.” Listen to the full episode for a candid conversation about community, corporate influence, and what meaningful representation could look like for western Minnesota—plus a distinctly Minnesotan lightning round.
+Watch the Podcast 0 Likes 0 Shares 0 0 0 0 About Erik Osberg Erik Osberg is a husband, father, small business owner, and working-class Minnesotan running to represent Western Minnesota in Congress.
+Erik believes public service starts with listening.
+Across thousands of conversations with people throughout the district, he has heard the same concerns again and again: families are working hard and still falling behind, family farms are under pressure, rural healthcare is harder to access, public schools need support, and Washington is not focused enough on the people it is supposed to serve.
+Erik is running because we can do better.
+More by Erik Osberg Related Articles In The News Erik Osberg earns DFL endorsement in Minnesota’s 7th Congressional District June 7, 2026 - by Erik Osberg In The News Osberg, Schierer, Skogen rally to full house at Bigwood April 13, 2026 - by Erik Osberg In The News Wadena Democrat Erik Osberg launches bid for 7th Congressional District seat March 11, 2025 - by Erik Osberg Home | Meet Erik | Priorities | Events | Voting | Updates | Store | Donate | Join The Team info@erikosberg4congress.com PAID FOR BY ERIK OSBERG FOR CONGRESS PO Box 550, Wadena, MN 56482 ©# Erik Osberg For Congress · Built by Cora+Krist .
+Accessibility Privacy Policy & Terms of Use Media Toolkit Volunteer Hub

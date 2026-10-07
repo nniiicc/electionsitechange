@@ -1,4 +1,4 @@
-Our volunteer military is an extraordinary thing.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Military, War, Veterans, and the NDAA Our volunteer military is an extraordinary thing.
 It’s the best vehicle we have for socioeconomic advancement.
 My own father turned his appointment to the Naval Academy into an upper middle class life that included sending his five children to college.
 People enter the military from poor circumstances and leave with a skill, a trade, a college scholarship, and the discipline and vision to build a better life for themselves.
@@ -6,14 +6,14 @@ We do not conscript young people into service.
 They choose service as a way to secure their future.
 And some of them choose out of patriotism and a sense of duty to their country.
 Some of them are called.
-And that is the marketing angle Secretary Hegseth is hoping to exploit through the “Send Me” campaign that makes use of Isaiah 6:8 as if it were “Just Do It” or “Got Milk?”
-If you want to read the entire passage from Isaiah, click here.
+And that is the marketing angle Secretary Hegseth is hoping to exploit through the “Send Me” campaign that makes use of Isaiah 6:8 as if it were “Just Do It” or “Got Milk?” If you want to read the entire passage from Isaiah, click here .
 It’s one I have personally felt attached to as this entire campaign has felt like a mission.
 Those who are called to military service may find ranks with other like-minded patriots who feel grateful for the opportunity to serve.
 They may find a rewarding career, the vehicle they need to advance their own station, or the skills they need to be prepared for life after separation.
 They might also find themselves dismembered, mentally damaged, or suffering from long-term afflictions like multiple sclerosis, due to service in combat zones.
 They might go missing in action, become a prisoner of war, or be killed in action.
 Service is not without risk.
+A wreath at the WWII Memorial in Washington, DC photo taken while I was there for Memorial Day Weekend, 2024 Me in my favorite Navy sweatshirt Our “buddy” Bill the Goat in front of an Army banner on Army/Navy game day at Fort Jackson’s NCO Club on December 10, 2022 Marine Corps display in Bishopville, SC visited on July 25, 2026 during the 46-county tour on the occasion of honoring Medal of Honor recipient and Bishopville native, Major James Capers, Jr.
 We should take service seriously.
 We should fully understand the risks of military action, including the sacrifice of service members.
 And we should be prudent when deploying service members and utilizing military force.
@@ -27,8 +27,7 @@ Our nation is safer when we support and encourage trade and cultural exchange.
 We are not safe when we leverage the International Monetary Fund or the World Bank to fund fragile or failing governments so that they purchase American goods and services and become beholden to our interests.
 Actions have consequences and for too long, under the blanket of “soft power” we have funneled taxpayer money into spaces with no transparency or accountability.
 We can no longer afford the kind of international philanthropy with no visibility or metrics.
-The first question for every action of the federal government should be, “how will we pay for this?”
-There are three options: 1) by reallocating funds from a failing program, 2) by working within the existing budgeted means of the department, or 3) by borrowing more money above the allocated budget.
+The first question for every action of the federal government should be, “how will we pay for this?” There are three options: 1) by reallocating funds from a failing program, 2) by working within the existing budgeted means of the department, or 3) by borrowing more money above the allocated budget.
 The third option is never the right answer.
 The National Defense Authorization Act sets budgetary priorities and guidelines for the military, but the funding is actually done through the regular budget process.
 Except we don’t have a working process.
@@ -61,3 +60,6 @@ Here I am, send me.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

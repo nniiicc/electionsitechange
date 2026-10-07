@@ -1,11 +1,8 @@
-Life, Liberty, Family
-Dan Ugaste values life, liberty and family above all else, but is continuously shocked by the actions of Illinois elected officials that put all he cherishes at risk.
-He will help rebuild government with the same work ethic he employed to create a successful life for his family
-Holding Government Accountable
-Like all Illinois residents, the Ugaste’s have been bitterly disappointed in a Democrat state legislature controlled by Mike Madigan for 40 years that ran up $160 billion in debt while allowing the quality of life and economic prosperity to deteriorate.
-Help Repair The Damage
-The moral and economic fabric of Illinois that has been ripped by Madigan’s negligence can be repaired, but it will take strong leadership from responsible no-nonsense adults like Dan Ugaste who are prepared to make the hard choices to reverse 40 years of corrupt bargains.
-Main Street Values
-Like many Illinois families, the Ugaste’s built a life, a family and a home by working hard and expecting our elected officials to manage the government responsibly.
-Protecting Liberty
-It’s really not that hard to spend less than you tax, regulate without reducing personal liberty, and protect the lives and property of the citizens who depend on
+Skip to primary navigation Skip to main content Skip to footer Dan Ugaste for State Representative A Voice of Reason in a Time of Extremism Home About Dan’s Plan for Illinois Issues Contact Volunteer News Donate Dan’s Plan for Illinois Contribute Now! $10 $20 $50 $100 Other Life, Liberty, Family Dan Ugaste values life, liberty and family above all else, but is continuously shocked by the actions of Illinois elected officials that put all he cherishes at risk.
+He will help rebuild government with the same work ethic he employed to create a successful life for his family Holding Government Accountable Like all Illinois residents, the Ugaste’s have been bitterly disappointed in a Democrat state legislature controlled by Mike Madigan for 40 years that ran up $160 billion in debt while allowing the quality of life and economic prosperity to deteriorate.
+Help Repair The Damage The moral and economic fabric of Illinois that has been ripped by Madigan’s negligence can be repaired, but it will take strong leadership from responsible no-nonsense adults like Dan Ugaste who are prepared to make the hard choices to reverse 40 years of corrupt bargains.
+Main Street Values Like many Illinois families, the Ugaste’s built a life, a family and a home by working hard and expecting our elected officials to manage the government responsibly.
+Protecting Liberty It’s really not that hard to spend less than you tax, regulate without reducing personal liberty, and protect the lives and property of the citizens who depend on Stay in Touch div id=”mc_embed_shell”> * indicates required Email Address * /* real people should not fill this in and expect good things – do not remove this or risk form bot signups */ Footer Contact Us Dan@UgasteforIllinois.com (847) 595-0522 Contribute Today Every contribution to the campaign helps ensure Victory in November!
+DONATE Copyright © # · Dan Ugaste, All Rights Reserved · Log in Paid for by Citizens for Dan Ugaste.
+A copy of our reports filed with the State Board of Elections is (or will be) available on the Board’s official website .
+Manage consent

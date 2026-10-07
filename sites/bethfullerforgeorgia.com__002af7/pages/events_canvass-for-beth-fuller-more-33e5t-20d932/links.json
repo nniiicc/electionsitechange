@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26amp%3B+More%21&dates=20260926T160000Z%2F20260926T190000Z",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-more-33e5t?format=ical",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-sheila-edwards-peter-hubbard-with-necessary-trouble-georgia",
-"https://bethfullerforgeorgia.com/events/canvass-with-georgia-majority-in-hd-53",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1028351",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+for+Beth+Fuller+%26amp%3B+More%21&dates=20260926T160000Z%2F20260926T190000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-more-33e5t?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next September 27 Canvass with Georgia Majority in HD 53",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-with-georgia-majority-in-hd-53"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous September 26 Canvass for Beth Fuller, Sheila Edwards, & Peter Hubbard with Necessary Trouble Georgia",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-sheila-edwards-peter-hubbard-with-necessary-trouble-georgia"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/bethfullerforgeorgia/event/1028351/",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1028351/"
+}
 ]

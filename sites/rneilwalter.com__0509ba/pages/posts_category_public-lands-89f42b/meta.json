@@ -1,9 +1,14 @@
 {
  "description": "The US Forest Service today is not the Forest Service our parents and grandparents knew. Below is a Dixie National Forrest map from 1962. The text is more interesting than the map. The first...",
  "final_url": "https://www.rneilwalter.com/posts/category/public-lands",
- "paid_for_by": null,
+ "fingerprint": "6fae590bcd08848a4401bd85beabedb306adf34b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "R Neil Walter Blog - R. Neil Walter",
  "years_mentioned": [
-  "2014"
+  "1960",
+  "1962",
+  "2014",
+  "2015"
  ]
 }

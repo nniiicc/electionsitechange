@@ -1,6 +1,38 @@
 [
-"https://camcavitt.com/",
-"https://facebook.com/CamCavitt",
-"https://secure.winred.com/committee-to-elect-cam-cavitt/donate-today",
-"https://spirelight.com/"
+{
+"text": "About",
+"href": "https://www.camcavitt.com/#About"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-cam-cavitt/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.camcavitt.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.camcavitt.com/#Issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.camcavitt.com/#JointheTeam"
+},
+{
+"text": "Spirelight Web",
+"href": "https://www.spirelight.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CamCavitt"
+},
+{
+"text": "[no text]",
+"href": "https://www.camcavitt.com/"
+},
+{
+"text": "info@CamCavitt.com",
+"href": "mailto:info@camcavitt.com"
+}
 ]

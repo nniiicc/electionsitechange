@@ -1,7 +1,9 @@
 {
  "description": "Grab a hot (or cold) drink, some snacks and meet with Tina!",
  "final_url": "https://www.tinaspearsri.com/events/tea-with-tina-2026-10-10-10-00",
- "paid_for_by": null,
+ "fingerprint": "340613587b9d69909a2dbc3cf89f615b3356e2b3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tea with Tina | Tina Spears for RI",
  "years_mentioned": [
   "2026"

@@ -1,7 +1,11 @@
 {
  "description": "Campaign website for Amanda and Karlie Easley running for Idaho Legislature for District 22.",
  "final_url": "https://www.easleyforidaho.com/",
+ "fingerprint": "436a48cec1a0c9821ba799f10400a90aa3296e15",
+ "format": 3,
  "paid_for_by": "Paid for by Amanda For Idaho and Karlie For Idaho",
  "title": "Home | EasleyForIdaho",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

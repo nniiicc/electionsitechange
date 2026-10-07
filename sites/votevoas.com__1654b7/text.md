@@ -1,17 +1,3 @@
-“I WAS BORN AND RAISED HERE, AND IT HAS BEEN THE HONOR OF A LIFETIME TO REPRESENT THE PEOPLE OF CUMBERLAND AND CENTRAL FALLS AT THE STATE HOUSE FOR DISTRICT 57.”
-AMONG ALL NEWLY ELECTED LEGISLATORS IN RHODE ISLAND, REPRESENTATIVE BRANDON VOAS WAS NAMED THE MOST EFFECTIVE BY THE CENTER FOR EFFECTIVE LAWMAKING AT VANDERBILT UNIVERSITY*
-*CEL Highlights from the Rhode Island General Assembly State Legislative Effectiveness Scores, 3/31/2026
-PROTECTING SENIORS
-Passed legislation to safeguard seniors from deceptive trade practices and continues to fight for policies that help older Rhode Islanders remain financially secure
-SUPPORTING SAFE HOMES FOR FAMILIES
-Strengthened Rhode Island's lead safety laws, dramatically reducing childhood lead poisoning and ensuring safer homes for children & families
-TACKLING THE HOUSING CRISIS
-Advocated for laws to create more housing opportunities, helping address Rhode Island's housing shortage and making it easier for families to continue living in the communities they call home
-ENSURING GOVERNMENT ACCOUNTABILITY
-Supported the creation of an independent Inspector General to investigate waste, fraud, and abuse in state government and enhance accountability for taxpayers
-SUPPORTING SMALL BUSINESSES
-Backed legislation to eliminate the tangible property tax for thousands of Rhode Island small businesses, reducing costs and cutting unnecessary red tape
-HONORING OUR VETERANS
-Sponsored and passed legislation establishing a statewide minimum property tax exemption for veterans, increasing tax relief for veterans in many Rhode Island communities
-OVER THE PAST 2 TERMS, BRANDON VOAS HAS DELIVERED RESULTS FOR DISTRICT 57
-WE ARE PROUD TO BE ENDORSED BY SEVERAL ORGANIZATIONS:
+top of page DONATE NOW “I WAS BORN AND RAISED HERE, AND IT HAS BEEN THE HONOR OF A LIFETIME TO REPRESENT THE PEOPLE OF CUMBERLAND AND CENTRAL FALLS AT THE STATE HOUSE FOR DISTRICT 57.” AMONG ALL NEWLY ELECTED LEGISLATORS IN RHODE ISLAND, REPRESENTATIVE BRANDON VOAS WAS NAMED THE MOST EFFECTIVE BY THE CENTER FOR EFFECTIVE LAWMAKING AT VANDERBILT UNIVERSITY* *CEL Highlights from the Rhode Island General Assembly State Legislative Effectiveness Scores, 3/31/2026 PROTECTING SENIORS Passed legislation to safeguard seniors from deceptive trade practices and continues to fight for policies that help older Rhode Islanders remain financially secure ​ SUPPORTING SAFE HOMES FOR FAMILIES Strengthened Rhode Island's lead safety laws, dramatically reducing childhood lead poisoning and ensuring safer homes for children & families ​ TACKLING THE HOUSING CRISIS Advocated for laws to create more housing opportunities, helping address Rhode Island's housing shortage and making it easier for families to continue living in the communities they call home ​ ENSURING GOVERNMENT ACCOUNTABILITY Supported the creation of an independent Inspector General to investigate waste, fraud, and abuse in state government and enhance accountability for taxpayers ​ SUPPORTING SMALL BUSINESSES Backed legislation to eliminate the tangible property tax for thousands of Rhode Island small businesses, reducing costs and cutting unnecessary red tape ​ HONORING OUR VETERANS Sponsored and passed legislation establishing a statewide minimum property tax exemption for veterans, increasing tax relief for veterans in many Rhode Island communities OVER THE PAST 2 TERMS, BRANDON VOAS HAS DELIVERED RESULTS FOR DISTRICT 57 DONATE TODAY HELP US CONTINUE OUR IMPORTANT WORK IN DISTRICT 57 $25 $250 $100 $1000 WE ARE PROUD TO BE ENDORSED BY SEVERAL ORGANIZATIONS: Mail Paid for by Friends of Brandon T.
+Voas VOTEBRANDONVOAS@GMAIL.COM PAID FOR BY FRIENDS OF BRANDON T.
+VOAS 22 CLARK STREET, UNIT 8 CUMBERLAND, RHODE ISLAND 02864 bottom of page

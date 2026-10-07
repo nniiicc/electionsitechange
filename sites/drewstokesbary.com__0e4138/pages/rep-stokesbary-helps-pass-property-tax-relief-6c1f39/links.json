@@ -1,24 +1,94 @@
 [
-"http://app.leg.wa.gov/billinfo/summary.aspx?bill=1427&year=2015",
-"http://app.leg.wa.gov/billinfo/summary.aspx?bill=5186&year=2015",
-"http://auburn-reporter.com/news/316173331.html",
-"https://drewstokesbary.com/",
-"https://drewstokesbary.com/blog",
-"https://drewstokesbary.com/category/endorsements",
-"https://drewstokesbary.com/category/in-the-news",
-"https://drewstokesbary.com/donate",
-"https://drewstokesbary.com/endorsements",
-"https://drewstokesbary.com/get-involved",
-"https://drewstokesbary.com/issues",
-"https://drewstokesbary.com/meet-drew",
-"https://drewstokesbary.com/privacy-policy",
-"https://drewstokesbary.com/rep-stokesbary-introduces-bipartisan-bill-to-provide-property-tax-relief",
-"https://drewstokesbary.com/rep-stokesbary-votes-no-on-house-budget",
-"https://drewstokesbary.com/states-largest-law-enforcement-group-endorses-stokesbary",
-"https://drewstokesbary.com/tag/property-tax",
-"https://drewstokesbary.com/tag/seniors",
-"https://drewstokesbary.com/tag/taxes",
-"https://drewstokesbary.com/the-seattle-times-endorses-stokesbary-for-reelection",
-"https://facebook.com/drewstokesbary",
-"https://twitter.com/stokesbary"
+{
+"text": "About",
+"href": "https://drewstokesbary.com/meet-drew/"
+},
+{
+"text": "Auburn Reporter",
+"href": "http://www.auburn-reporter.com/news/316173331.html"
+},
+{
+"text": "Blog",
+"href": "https://drewstokesbary.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://drewstokesbary.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://drewstokesbary.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://drewstokesbary.com/get-involved/"
+},
+{
+"text": "HB 1427",
+"href": "http://app.leg.wa.gov/billinfo/summary.aspx?bill=1427&year=2015"
+},
+{
+"text": "Home",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "In the News",
+"href": "https://drewstokesbary.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://drewstokesbary.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drewstokesbary.com/privacy-policy"
+},
+{
+"text": "SB 5186",
+"href": "http://app.leg.wa.gov/billinfo/summary.aspx?bill=5186&year=2015"
+},
+{
+"text": "The very first bill I introduced",
+"href": "https://drewstokesbary.com/rep-stokesbary-introduces-bipartisan-bill-to-provide-property-tax-relief/"
+},
+{
+"text": "[image: Stokesbary Logo]",
+"href": "https://drewstokesbary.com/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/awb-announces-endorsement-drew-stokesbary/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/making-state-government-more-effective-efficient-and-accountable/"
+},
+{
+"text": "[no text]",
+"href": "https://drewstokesbary.com/tnt-profiles-stokesbary-sumner-traffic-efforts/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drewstokesbary"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stokesbary"
+},
+{
+"text": "property tax",
+"href": "https://drewstokesbary.com/tag/property-tax/"
+},
+{
+"text": "seniors",
+"href": "https://drewstokesbary.com/tag/seniors/"
+},
+{
+"text": "taxes",
+"href": "https://drewstokesbary.com/tag/taxes/"
+}
 ]

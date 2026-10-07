@@ -1,9 +1,54 @@
 [
-"https://bsky.app/profile/thepricecampaign.bsky.social",
-"https://facebook.com/ThePriceCampaign",
-"https://instagram.com/thepricecampaign",
-"https://reddit.com/user/ThePriceCampaign",
-"https://scvotes.gov/",
-"https://thepricecampaign.com/",
-"https://thepricecampaign.com/blog"
+{
+"text": "Blog",
+"href": "https://www.thepricecampaign.com/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/thepricecampaign.bsky.social"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThePriceCampaign"
+},
+{
+"text": "Home",
+"href": "https://www.thepricecampaign.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thepricecampaign"
+},
+{
+"text": "Make a plan",
+"href": "https://www.thepricecampaign.com/#get-involved"
+},
+{
+"text": "Open scVOTES.gov",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Price for State House",
+"href": "https://www.thepricecampaign.com/"
+},
+{
+"text": "Reddit",
+"href": "https://www.reddit.com/user/ThePriceCampaign/"
+},
+{
+"text": "Review official South Carolina voting guidance",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Save your vote plan",
+"href": "https://www.thepricecampaign.com/#get-involved"
+},
+{
+"text": "Start with the state elections site",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "info@thepricecampaign.com",
+"href": "mailto:info@thepricecampaign.com"
+}
 ]

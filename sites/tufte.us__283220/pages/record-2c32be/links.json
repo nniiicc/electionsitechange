@@ -1,14 +1,70 @@
 [
-"https://facebook.com/JudgeTufte",
-"https://ndcourts.gov/",
-"https://tufte.us/",
-"https://tufte.us/about",
-"https://tufte.us/contact",
-"https://tufte.us/contribute",
-"https://tufte.us/disclosures",
-"https://tufte.us/endorsements",
-"https://tufte.us/record",
-"https://tufte.us/signs",
-"https://tufte.us/the-court",
-"https://tufte.us/volunteer"
+{
+"text": "About",
+"href": "https://tufte.us/about/"
+},
+{
+"text": "About Justice Tufte",
+"href": "https://tufte.us/about/"
+},
+{
+"text": "About the Court",
+"href": "https://tufte.us/the-court/"
+},
+{
+"text": "Contact",
+"href": "https://tufte.us/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://tufte.us/contribute/"
+},
+{
+"text": "Disclosures",
+"href": "https://tufte.us/disclosures/"
+},
+{
+"text": "Endorsements",
+"href": "https://tufte.us/endorsements/"
+},
+{
+"text": "Facebook: @JudgeTufte",
+"href": "https://www.facebook.com/JudgeTufte"
+},
+{
+"text": "Re-elect Justice Jerod Tufte North Dakota Supreme Court",
+"href": "https://tufte.us/"
+},
+{
+"text": "Record",
+"href": "https://tufte.us/record/"
+},
+{
+"text": "Record and Service",
+"href": "https://tufte.us/record/"
+},
+{
+"text": "Request a sign",
+"href": "https://tufte.us/signs/"
+},
+{
+"text": "Signs",
+"href": "https://tufte.us/signs/"
+},
+{
+"text": "The Court",
+"href": "https://tufte.us/the-court/"
+},
+{
+"text": "Volunteer",
+"href": "https://tufte.us/volunteer/"
+},
+{
+"text": "justice@tufte.net",
+"href": "mailto:justice@tufte.net"
+},
+{
+"text": "ndcourts.gov",
+"href": "https://www.ndcourts.gov"
+}
 ]

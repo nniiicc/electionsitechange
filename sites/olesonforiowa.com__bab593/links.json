@@ -1,5 +1,22 @@
 [
-"https://olesonforiowa.com/",
-"https://secure.anedot.com/oleson-for-iowa/donate",
-"https://youenjoymedia.pixieset.com/mattoleson"
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/oleson-for-iowa/donate"
+},
+{
+"text": "Matt Oleson for House",
+"href": "https://www.olesonforiowa.com"
+},
+{
+"text": "Media",
+"href": "https://youenjoymedia.pixieset.com/mattoleson/"
+},
+{
+"text": "Olesonforiowa@gmail.com",
+"href": "mailto:Olesonforiowa@gmail.com"
+},
+{
+"text": "olesonforiowa@gmail.com",
+"href": "mailto:olesonforiowa@gmail.com"
+}
 ]

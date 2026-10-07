@@ -1,15 +1,122 @@
 [
-"http://linkedin.com/in/sonyahalpern",
-"https://facebook.com/sonya4GA",
-"https://instagram.com/sonyahalpern_",
-"https://secure.ngpvan.com/6kP4JipJR02oi_oZy76S_A2",
-"https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2",
-"https://sonyahalpern.com/",
-"https://sonyahalpern.com/connect",
-"https://sonyahalpern.com/leadership",
-"https://sonyahalpern.com/meet-sonya-1",
-"https://sonyahalpern.com/news-2",
-"https://sonyahalpern.com/priorities",
-"https://sonyahalpern.com/vote",
-"https://x.com/SonyaHalpern_"
+{
+"text": "Button",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Button",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "Connect",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.ngpvan.com/tVnkNvizTku2eLZU7dQG_A2"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Get the latest campaign and legislative updates from Senator Halpern delivered directly to your inbox.",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Have a question, a story to share, or a constituent issue that needs attention? Senator Halpern's team wants to hear from you.",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Home",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "How I Lead →",
+"href": "https://www.sonyahalpern.com/leadership"
+},
+{
+"text": "In the News",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "JOIN MY EMAIL LIST",
+"href": "https://secure.ngpvan.com/6kP4JipJR02oi_oZy76S_A2"
+},
+{
+"text": "Join my Email List",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Leadership",
+"href": "https://www.sonyahalpern.com/leadership"
+},
+{
+"text": "Learn More About Sonya →",
+"href": "https://www.sonyahalpern.com/leadership"
+},
+{
+"text": "MY PRIORITIES →",
+"href": "https://www.sonyahalpern.com/priorities"
+},
+{
+"text": "Meet Sonya",
+"href": "https://www.sonyahalpern.com/meet-sonya-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.sonyahalpern.com/priorities"
+},
+{
+"text": "Recent press coverage, interviews, and media appearances featuring Senator Halpern.",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "Updates",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "Vote",
+"href": "https://www.sonyahalpern.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sonya4GA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sonyahalpern_/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://linkedin.com/in/sonyahalpern"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/SonyaHalpern_"
+},
+{
+"text": "[image]",
+"href": "https://www.sonyahalpern.com/connect"
+},
+{
+"text": "[image]",
+"href": "https://www.sonyahalpern.com/news-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.sonyahalpern.com"
+},
+{
+"text": "sonya@sonya4ga.com",
+"href": "mailto:sonya@sonya4ga.com"
+}
 ]

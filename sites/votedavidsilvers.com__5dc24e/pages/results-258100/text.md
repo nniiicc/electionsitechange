@@ -1,4 +1,4 @@
-David Silvers served as our State Representative for House Districts 87 and 89 and is now running for the Florida Senate.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Results David Silvers served as our State Representative for House Districts 87 and 89 and is now running for the Florida Senate.
 For David, it’s about people, not politics.
 As our legislator, David has gained a reputation as a pragmatic and effective leader who focuses on finding solutions to the challenges facing Floridians.
 He has worked tirelessly with colleagues on both sides of the aisle to lead the way on passing meaningful and impactful legislation.
@@ -6,21 +6,18 @@ David’s legislative record is a testament to his effectiveness and leadership 
 David’s legislative priorities have focused on mental health reform, education reform, student safety at our universities, affordable housing initiatives, supporting children and families, and protecting our seniors.
 David is one of Florida’s most accomplished legislators, focusing on policies that have a positive impact on all Floridians.
 Below is a list of policy bills David has passed in the Legislature and has been signed into law by our Governor.
-2024 Bills Passed
-CS/HB 707 – State University Unexpended Funds: Currently, each state university is required to maintain a minimum carry forward balance of a least 7% of its state operating budget.
+2024 Bills Passed CS/HB 707 – State University Unexpended Funds: Currently, each state university is required to maintain a minimum carry forward balance of a least 7% of its state operating budget.
 If a university retains a state operating fund carry forward balance in excess of 7%, it must submit a spending plan for the excess carry forward balance to the Board of Governors.
 The bill allows a state university to carry forward unexpended funds in excess of the 7% minimum of its state operating budget as an annual reserve balance.
 CS/CS/SB 556 – Protection of Specified Adults: The bill amends the Adult Protective Services Act to protect specified adults from financial exploitation.
 Authorizing financial institutions, under certain circumstances, to delay a disbursement or transaction from an account of a specified adult; specifying that a delay on a disbursement or transaction expires on a certain date, authorizing the financial institution to extend the delay under certain circumstances and authorizing a court of competent jurisdiction to shorten or extend the delay.
 CS/CS/HB 7021 – Mental Health and Substance Abuse: The bill requires when transporting a minor and the parent or legal guardian of the minor is present, before departing, the law enforcement officer shall provide the parent or legal guardian of the minor with the name, address, and contact information for the behavioral health facility within the establishes an Office of Children’s Behavioral health Ombudsman within the Department of Children and Families (“DCF”) for a specified purpose; provides responsibilities of the office; and requires DCF & managing entities to include information about a contact information for the office placed prominently on their websites on easily accessible webpages related to children and adolescent behavioral health services.
-2023 Bills Passed
-HB 117 – Genetic Counselors Using Telehealth: Revises definition of term telehealth provider to include persons licensed as genetic counselor.
+2023 Bills Passed HB 117 – Genetic Counselors Using Telehealth: Revises definition of term telehealth provider to include persons licensed as genetic counselor.
 CS/HB 515 – Officer of Inspector General of the Board of Governors of the State University System: Grants Office of Inspector General of Board of Governors additional authority to take certain actions in carrying out its duties.
 CS/HB 537 – Custody and Supervision of Specified Offenders: Excludes certain offenders from eligibility to receive basic gain-time & incentive gain-time; excludes certain offenders from eligibility for specified reductions to term of supervision; requires court to impose additional conditions of supervision on specified offenders.
 HB 829 – Operation and Administration of the Baker Act: Requires DCF to provide specified information to certain individuals & organizations; requires DCF to maintain information handbook & repository of answers to frequently asked questions; provides requirements for such handbook & repository.
 CS/HB 1571 – Juvenile Court Proceedings: Authorizes person to attend certain proceedings through audio or audio-video communication technology; requires parties to provide their primary e-mail address to court for notice purposes; provides exceptions; requires notices & summons to include instructions for parties to attend hearings through audio or audio-video communication technology; requires notices that failure to appear at hearings either in person or through audio or audio-video communication technology constitutes consent to adjudicating child as dependent or termination of parental rights.
-2022 Bills Passed
-CS/HB 255 – Private Instructional Personnel Providing Applied Behavior Analysis Services: Current law requires K-12 public schools to allow certified applied behavior analysts and licensed mental health professionals, to provide Applied Behavior Analysis (“ABA”) services in a classroom setting.
+2022 Bills Passed CS/HB 255 – Private Instructional Personnel Providing Applied Behavior Analysis Services: Current law requires K-12 public schools to allow certified applied behavior analysts and licensed mental health professionals, to provide Applied Behavior Analysis (“ABA”) services in a classroom setting.
 However, this requirement does not apply to registered behavior technicians working under the direction of these certified or licensed professionals.
 This bill allows registered behavior technicians, holding a nationally recognized paraprofessional certification in behavior analysis, to be added to the list of private instructional personnel to now be allowed to provide much needed ABA services in the classroom setting.
 This bill is greatly needed so that children will have greater access to the mental healthcare they need.
@@ -30,46 +27,42 @@ The specific requirements are to be determined by the Board of Professional Engi
 Recognition by the Board is not required to practice structural engineering.
 However, engineers who have received this recognition can use it in marketing and advertising their services.
 The purpose of this bill is so that each and every engineer, in Florida, will hold themselves out to a higher standard and to help further prevent any structural tragedies.
-2021 Bills Passed
-CS/HB 311 – Pub.
-Rec/Assessment Instruments: In order to protect proprietary information contained in assessments as well as their related materials and to combat cheating, plagiarism, and academic dishonesty, the bill expands the scope of the existing public records exemption for the assessments and developmental materials related to the student assessment program for public schools.
-CS/HB 847 – Florida Postsecondary Academic Library Network: The bill establishes the Florida Postsecondary Academic Library Network under the oversight of the Office of the Board of Governors and the Department of Education.
+2021 Bills Passed CS/HB 311 – Pub.
+Rec/Assessment Instruments : In order to protect proprietary information contained in assessments as well as their related materials and to combat cheating, plagiarism, and academic dishonesty, the bill expands the scope of the existing public records exemption for the assessments and developmental materials related to the student assessment program for public schools.
+CS/HB 847 – Florida Postsecondary Academic Library Network : The bill establishes the Florida Postsecondary Academic Library Network under the oversight of the Office of the Board of Governors and the Department of Education.
 The bill repeals the Complete Florida Plus Program (Complete Florida Plus), while maintaining the functions related to distance learning courses and degree programs, and online academic support services.
-CS/CS/HB 1233 – Genetic Counseling Patient Protection Act: Genetic counseling provides information and support to people who have, or may be at risk for, genetic disorders and providing information about how genetic conditions might affect their health and/or family.
+CS/CS/HB 1233 – Genetic Counseling Patient Protection Act : Genetic counseling provides information and support to people who have, or may be at risk for, genetic disorders and providing information about how genetic conditions might affect their health and/or family.
 This legislation creates a new licensed and regulated profession, genetic counseling, within the Department of Health and the Division of Medical Quality Assurance.
-CS/CS/HB 673 – DNA Evidence Collected in Sexual Offense Investigations: Gail’s Law requires the Florida Department of Law Enforcement to create and maintain a statewide system for tracking sexual assault evidence kits from the point of collection through the criminal justice process.
+CS/CS/HB 673 – DNA Evidence Collected in Sexual Offense Investigations : Gail’s Law requires the Florida Department of Law Enforcement to create and maintain a statewide system for tracking sexual assault evidence kits from the point of collection through the criminal justice process.
 That tracking system must be accessible to sexual assault survivors, giving them the option of receiving updates on the status of the evidence in their case.
 Currently, 30 states and Washington D.C. have implemented statewide databases for tracking sexual assault kits.
-2020 Bills Passed
-HB 945 – Children’s Mental Health: HB 945 seeks to limit the use of crisis inpatient services by children and enhance the effectiveness of our current community services for children.
+2020 Bills Passed HB 945 – Children’s Mental Health : HB 945 seeks to limit the use of crisis inpatient services by children and enhance the effectiveness of our current community services for children.
 It focuses on three areas: mobile response teams, the coordination of children’s system of care, and crisis stabilization services.
 The bill addresses some recommendations from the Department of Children and Families and the Marjory Stoneman Douglas Public Safety Commission.
 Specifically, the bill seeks to de-escalate situations so children are less likely to be sent for a traumatic Baker Act evaluation.
-HB 1459 – Affordable Housing: (amended into HB1339 in Commerce Committee): This bill allows for housing provided by a not-for-profit organization that derives at least 75% of its annual revenues from contracts or services provided to a state or federal agency for low-income individuals and low-income households; that provides supportive housing for persons who suffer from mental health issues, substance abuse, or domestic violence; and that provides on-premise social and community support services relating to job training, life skills training, alcohol and substance abuse disorder, child care, and client case management.
+HB 1459 – Affordable Housing: (amended into HB1339 in Commerce Committee) : This bill allows for housing provided by a not-for-profit organization that derives at least 75% of its annual revenues from contracts or services provided to a state or federal agency for low-income individuals and low-income households; that provides supportive housing for persons who suffer from mental health issues, substance abuse, or domestic violence; and that provides on-premise social and community support services relating to job training, life skills training, alcohol and substance abuse disorder, child care, and client case management.
 Specifically, this bill assists in affordable housing development.
-HB 241 – Domestic Violence Injunctions: Domestic violence perpetrators commonly threaten to harm or kill a family or household pet to exert control over their victims, and research shows that pet abuse is one of four significant domestic violence predictors.
+HB 241 – Domestic Violence Injunctions : Domestic violence perpetrators commonly threaten to harm or kill a family or household pet to exert control over their victims, and research shows that pet abuse is one of four significant domestic violence predictors.
 This bill serves to help prevent victims from staying in abusive relationships out of fear of harm to the family pet.
-HB 813 – Protection of Vulnerable Investors: Requires securities dealers, investment advisers, & associated persons to report knowledge or suspicion of abuse, neglect, or exploitation of vulnerable adults to Department of Children & Families; authorizes dealers & investment advisers to delay certain disbursements or transactions based on reasonable belief of financial exploitation of a specified adult; requires dealer or investment adviser to notify certain persons & OFR of such delays within specified timeframe.
-2019 Bills Passed
-HB 595 – Alcohol or Drug Overdose Prosecutions: The bill provides immunity from arrest, charge, prosecution, or other penalties under specified circumstances to a person who provides alcohol to an individual under 21 years old and under 21 years old who possesses or consumes alcohol.
+HB 813 – Protection of Vulnerable Investors : Requires securities dealers, investment advisers, & associated persons to report knowledge or suspicion of abuse, neglect, or exploitation of vulnerable adults to Department of Children & Families; authorizes dealers & investment advisers to delay certain disbursements or transactions based on reasonable belief of financial exploitation of a specified adult; requires dealer or investment adviser to notify certain persons & OFR of such delays within specified timeframe.
+2019 Bills Passed HB 595 – Alcohol or Drug Overdose Prosecutions : The bill provides immunity from arrest, charge, prosecution, or other penalties under specified circumstances to a person who provides alcohol to an individual under 21 years old and under 21 years old who possesses or consumes alcohol.
 Such immunity protects a person who seeks aid for an individual believed to be experiencing an alcohol or drug-related overdose.
 A person may receive this immunity only by staying at the scene and cooperating with emergency medical services personnel and law enforcement.
-HB 361 – Mental Health: This bill implements two recommendations of the Baker Act Task Force, which was created in 2017.
+HB 361 – Mental Health : This bill implements two recommendations of the Baker Act Task Force, which was created in 2017.
 This bill seeks to prevent suicides by children, by enhancing the voluntary Suicide Prevention Certified Schools Program.
 It helps the Department of Children and Families (DCF) collect more data on children who had involuntary examinations so they can learn how to address this issue.
 It also requires Baker Act receiving facilities to report more information to DCF on individuals receiving involuntary assessments.
 It requires DCF to analyze and report on child Baker Acts to the Governor and Legislature every two years.
-HB 363 – Public Records for Admission to Mental Health Facilities: This bill protects the privacy of children impacted by the Baker Act.
+HB 363 – Public Records for Admission to Mental Health Facilities : This bill protects the privacy of children impacted by the Baker Act.
 It also provides that all petitions for voluntary and involuntary admission for mental health treatment, court orders, and related records filed with or by a court, according to the Baker Act, are confidential and exempt.
 The information contained in these court files will not be subject to public records and would remain private.
-2018 Bills Passed
-HB 577 – High School Graduation Requirements: This bill allows a student to use credit earned upon completion of a Department of Education registered apprenticeship or pre-apprenticeship program toward their high school graduation.
+2018 Bills Passed HB 577 – High School Graduation Requirements : This bill allows a student to use credit earned upon completion of a Department of Education registered apprenticeship or pre-apprenticeship program toward their high school graduation.
 It also requires the State Board of Education to approve and identify in the Course Code Directory apprenticeship and pre-apprenticeship programs from which a student may use earned credit to satisfy high school graduation requirements.
-2017 Bills Passed
-HB 557 – Controlled Substance Prescribing: The bill amends provisions relating to the Prescription Drug Monitoring Program (PDMP).
+2017 Bills Passed HB 557 – Controlled Substance Prescribing : The bill amends provisions relating to the Prescription Drug Monitoring Program (PDMP).
 The PDMP uses a comprehensive electronic database to monitor the prescribing and dispensing of certain controlled substances.
 The bill requires dispensers to report the dispensing of a controlled substance to the PDMP by the close of the next business day, rather than seven days.
-HB 1183 – Admission of Children and Adolescents to Mental Health Facilities: This bill provides a safeguard for children experiencing a mental health crisis.
+HB 1183 – Admission of Children and Adolescents to Mental Health Facilities : This bill provides a safeguard for children experiencing a mental health crisis.
 The bill creates an expedited exam requirement of 12 hours upon admission to a mental health facility, which will allow children to quickly receive the services they need and return home to their families in an expedited manner.
 It also creates a task force within the Florida Department of Children and Families to review the state’s current use of the Baker Act on minors.
 The task force includes healthcare providers, law enforcement, school officials, and mental health advocates who will take an in-depth look at how children are affected by the sometimes unnecessary use of the Baker Act.
+Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Scroll to top Scroll to top

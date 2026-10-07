@@ -1,8 +1,34 @@
 [
-"http://facebook.com/votemullins",
-"http://instagram.com/votemullins",
-"https://votemullins.com/",
-"https://votemullins.com/about",
-"https://votemullins.com/donate",
-"https://votemullins.com/priorities"
+{
+"text": "ABOUT KYLE",
+"href": "https://www.votemullins.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.votemullins.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votemullins.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.votemullins.com/priorities"
+},
+{
+"text": "[image: VOTE MULLINS]",
+"href": "https://www.votemullins.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votemullins"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/votemullins"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@votemullins.com"
+}
 ]

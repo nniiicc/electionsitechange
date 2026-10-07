@@ -1,52 +1,218 @@
 [
-"http://bluestatecampaigns.com/",
-"https://americanprogress.org/issues/early-childhood/news/2017/11/06/442280/new-data-reveal-250-preschoolers-suspended-expelled-every-day",
-"https://americanprogress.org/issues/early-childhood/reports/2015/10/08/122867/point-of-entry",
-"https://blancarubio.com/",
-"https://blancarubio.com/__trashed",
-"https://blancarubio.com/assemblywoman-blanca-rubio-her-drive-to-help-children-is-fueled-by-her-familys-struggles-and-sacrifices",
-"https://blancarubio.com/aunque-una-vez-fueron-deportadas-las-rubio-son-las-primeras-hermanas-en-servir-en-la-legislatura-de-california",
-"https://blancarubio.com/awards",
-"https://blancarubio.com/category/media/updates-media",
-"https://blancarubio.com/contact",
-"https://blancarubio.com/district",
-"https://blancarubio.com/early-child-mental-health-services-deliver-critical-help",
-"https://blancarubio.com/events",
-"https://blancarubio.com/issue/aging",
-"https://blancarubio.com/issue/animal-protection",
-"https://blancarubio.com/issue/climate-change",
-"https://blancarubio.com/issue/consumer-protections",
-"https://blancarubio.com/issue/criminal-justice",
-"https://blancarubio.com/issue/domestic-violence",
-"https://blancarubio.com/issue/healthcare",
-"https://blancarubio.com/issue/housing-homelessness",
-"https://blancarubio.com/issue/water",
-"https://blancarubio.com/issue/womens-issues",
-"https://blancarubio.com/issue/youth",
-"https://blancarubio.com/media",
-"https://blancarubio.com/meet-blanca",
-"https://blancarubio.com/once-deported-the-rubios-are-the-first-sisters-to-serve-in-the-california-legislature",
-"https://blancarubio.com/photos",
-"https://blancarubio.com/volunteer",
-"https://census.gov/programs-surveys/nsch.html",
-"https://childresearch.net/projects/ecec/2012_04.html",
-"https://childtrends.org/the-health-and-well-being-of-early-childhood-educators-a-need-for-compassion-and-commitment",
-"https://eclkc.ohs.acf.hhs.gov/policy/45-cfr-chap-xiii/1302-45-child-mental-health-social-emotional-well-being",
-"https://facebook.com/BlancaRubioforAssembly",
-"https://flickr.com/photos/199839557@N05",
-"https://hechingerreport.org/",
-"https://hechingerreport.org/a-new-movement-to-treat-troubled-children-as-sad-not-bad",
-"https://hechingerreport.org/california-adopts-a-new-model-to-curb-preschool-suspensions",
-"https://hechingerreport.org/opinion-must-acknowledge-connection-race-trauma-mental-health",
-"https://hechingerreport.org/rural-schools-find-online-resource-fill-gaps-mental-health-services-students",
-"https://instagram.com/BlancaRubioforAssembly",
-"https://learningpolicyinstitute.org/sites/default/files/product-files/Teacher_Turnover_BRIEF.pdf",
-"https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB2698",
-"https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB752",
-"https://medicine.yale.edu/childstudy/zigler/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379_v1.pdf",
-"https://secure.actblue.com/donate/blanca-rubio-2",
-"https://tandfonline.com/doi/abs/10.1080/10409280903475444",
-"https://tandfonline.com/doi/full/10.1080/10409280801975834?src=recsys",
-"https://www2.ed.gov/about/inits/ed/earlylearning/files/fact-sheet-pyramid-equity-project.pdf",
-"https://wxxv25.com/2019/01/26/can-mental-health-training-for-teachers-prevent-preschool-suspensions"
+{
+"text": "2016",
+"href": "https://www.americanprogress.org/issues/early-childhood/news/2017/11/06/442280/new-data-reveal-250-preschoolers-suspended-expelled-every-day/"
+},
+{
+"text": "2016 National Survey of Children’s Health",
+"href": "https://www.census.gov/programs-surveys/nsch.html"
+},
+{
+"text": "A new movement to treat troubled children as ‘sad not bad’",
+"href": "https://hechingerreport.org/a-new-movement-to-treat-troubled-children-as-sad-not-bad/"
+},
+{
+"text": "Aging",
+"href": "https://www.blancarubio.com/issue/aging/"
+},
+{
+"text": "Animal Protection",
+"href": "https://www.blancarubio.com/issue/animal-protection/"
+},
+{
+"text": "Assemblywoman Blanca Rubio",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices",
+"href": "https://www.blancarubio.com/assemblywoman-blanca-rubio-her-drive-to-help-children-is-fueled-by-her-familys-struggles-and-sacrifices/"
+},
+{
+"text": "Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California",
+"href": "https://www.blancarubio.com/aunque-una-vez-fueron-deportadas-las-rubio-son-las-primeras-hermanas-en-servir-en-la-legislatura-de-california/"
+},
+{
+"text": "Awards",
+"href": "https://www.blancarubio.com/awards/"
+},
+{
+"text": "Climate Change",
+"href": "https://www.blancarubio.com/issue/climate-change/"
+},
+{
+"text": "Consumer Protections",
+"href": "https://www.blancarubio.com/issue/consumer-protections/"
+},
+{
+"text": "Contact",
+"href": "https://www.blancarubio.com/contact/"
+},
+{
+"text": "Domestic Violence",
+"href": "https://www.blancarubio.com/issue/domestic-violence/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blanca-rubio-2"
+},
+{
+"text": "Early Child Mental Health Services Deliver Critical Help",
+"href": "https://www.blancarubio.com/early-child-mental-health-services-deliver-critical-help/"
+},
+{
+"text": "Education & Youth",
+"href": "https://www.blancarubio.com/issue/youth/"
+},
+{
+"text": "Events",
+"href": "https://www.blancarubio.com/events/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.blancarubio.com/issue/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.blancarubio.com/issue/housing-homelessness/"
+},
+{
+"text": "Media",
+"href": "https://www.blancarubio.com/media/"
+},
+{
+"text": "Meet Blanca",
+"href": "https://www.blancarubio.com/meet-blanca/"
+},
+{
+"text": "News",
+"href": "https://www.blancarubio.com/media/"
+},
+{
+"text": "Once deported, the Rubios are the first sisters to serve in the California Legislature",
+"href": "https://www.blancarubio.com/once-deported-the-rubios-are-the-first-sisters-to-serve-in-the-california-legislature/"
+},
+{
+"text": "Opinion: We must acknowledge the connection between race, trauma and mental health",
+"href": "https://hechingerreport.org/opinion-must-acknowledge-connection-race-trauma-mental-health/"
+},
+{
+"text": "Our District",
+"href": "https://www.blancarubio.com/district/"
+},
+{
+"text": "Photos",
+"href": "https://www.blancarubio.com/photos/"
+},
+{
+"text": "Previous: Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices",
+"href": "https://www.blancarubio.com/assemblywoman-blanca-rubio-her-drive-to-help-children-is-fueled-by-her-familys-struggles-and-sacrifices/"
+},
+{
+"text": "Public Safety & Criminal Justice",
+"href": "https://www.blancarubio.com/issue/criminal-justice/"
+},
+{
+"text": "Rural schools find an online resource to fill gaps in mental health services for students",
+"href": "https://hechingerreport.org/rural-schools-find-online-resource-fill-gaps-mental-health-services-students/"
+},
+{
+"text": "SAN JOSE, Calif",
+"href": "https://www.wxxv25.com/2019/01/26/can-mental-health-training-for-teachers-prevent-preschool-suspensions/"
+},
+{
+"text": "Site by BSC",
+"href": "http://www.bluestatecampaigns.com"
+},
+{
+"text": "Solving California’s housing crisis demands action. These steps will help",
+"href": "https://www.blancarubio.com/__trashed/"
+},
+{
+"text": "The Hechinger Report",
+"href": "https://hechingerreport.org/"
+},
+{
+"text": "Updates",
+"href": "https://www.blancarubio.com/category/media/updates-media/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.blancarubio.com/volunteer/"
+},
+{
+"text": "Water",
+"href": "https://www.blancarubio.com/issue/water/"
+},
+{
+"text": "Women’s Issues",
+"href": "https://www.blancarubio.com/issue/womens-issues/"
+},
+{
+"text": "[image]",
+"href": "https://www.blancarubio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BlancaRubioforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/199839557@N05/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/BlancaRubioforAssembly"
+},
+{
+"text": "confidence and competence in dealing with troubling or difficult behaviors of young children in their care",
+"href": "https://www.tandfonline.com/doi/full/10.1080/10409280801975834?src=recsys"
+},
+{
+"text": "early childhood mental health",
+"href": "https://hechingerreport.org/california-adopts-a-new-model-to-curb-preschool-suspensions/"
+},
+{
+"text": "high rate",
+"href": "https://www2.ed.gov/about/inits/ed/earlylearning/files/fact-sheet-pyramid-equity-project.pdf"
+},
+{
+"text": "implicit racial bias",
+"href": "https://medicine.yale.edu/childstudy/zigler/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379_v1.pdf"
+},
+{
+"text": "legislation",
+"href": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB2698"
+},
+{
+"text": "more likely to drop out of high school",
+"href": "https://www.americanprogress.org/issues/early-childhood/reports/2015/10/08/122867/point-of-entry/"
+},
+{
+"text": "prohibits state-funded preschools",
+"href": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB752"
+},
+{
+"text": "rate of K-12 teachers",
+"href": "https://learningpolicyinstitute.org/sites/default/files/product-files/Teacher_Turnover_BRIEF.pdf"
+},
+{
+"text": "reports",
+"href": "https://www.childresearch.net/projects/ecec/2012_04.html"
+},
+{
+"text": "required to use a mental health consultant",
+"href": "https://eclkc.ohs.acf.hhs.gov/policy/45-cfr-chap-xiii/1302-45-child-mental-health-social-emotional-well-being"
+},
+{
+"text": "teachers reporting fewer problem behaviors among their students",
+"href": "https://www.tandfonline.com/doi/abs/10.1080/10409280903475444"
+},
+{
+"text": "underpaid and work in demanding environments in which they must meet the needs of dozens of students each day.",
+"href": "https://www.childtrends.org/the-health-and-well-being-of-early-childhood-educators-a-need-for-compassion-and-commitment"
+}
 ]

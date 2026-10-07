@@ -1,5 +1,2 @@
-Contact Us
-Let people know what to reach out about and what to expect after contacting you.
-Don’t forget to choose a storage option for submissions
-email@example.com
-(555) 555-5555
+Skip to Content Open Menu Close Menu Donate Substack Shop Contact About ( 0 ) Cart ( 0 ) DONATE ( 0 ) Cart ( 0 ) DONATE Donate Substack Shop Contact About Open Menu Close Menu Donate Substack Shop Contact About DONATE Contact Us Let people know what to reach out about and what to expect after contacting you.
+Don’t forget to choose a storage option for submissions email@example.com (555) 555-5555 BRAVE 2026 - MURPHY FOR KENTUCKY Made with Squarespace brave2026@murphyforkentucky.com 502-BRAVE-KY

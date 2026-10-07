@@ -1,5 +1,4 @@
-Connie
-Connie has been a State Representative for Ward 2 in Concord and Penacook since 2018, serving on the Election Law Committee.
+Connie Lane - Merrimack District 16 About Connie Priorities News Volunteer Contact Donate About Connie Priorities News Volunteer Contact Connie Lane - Merrimack District 16 Donate Scroll Connie Connie has been a State Representative for Ward 2 in Concord and Penacook since 2018, serving on the Election Law Committee.
 There, she has advocated for bills to simplify the voting process, eliminate gerrymandering by creating a redistricting commission, and get dark money out of NH politics.
 This past session she co-sponsored 10 bills related to election laws, 1 to create a study committee about state loans to low-middle income residents for first time homes or student loans, and 1 to require live streaming of properly noticed local municipal meetings.
 Connie has called Concord home for 38 years, raising her two sons, practicing law, and devoting time to her community in the schools, her church, and as a member on numerous nonprofit boards.
@@ -24,9 +23,8 @@ Red River has been an integral participant in the revitalization of Concord and 
 Under her leadership, Red River hired a new executive director and renovated its third theater.
 This year, Connie worked with other board members and the executive director to handle the threats to Red River posed by Covid 19.
 As an active member of the Concord Unitarian Universalist church for many years, Connie served that community as a Sunday school teacher, covenant group leader, and coordinated the annual Thanksgiving basket program for families in need in the Concord community.
-You can watch Connie’s video explaining her background and reasons for running for office by clicking here.
-Why I'm Running for Office
-I want to ensure that NH reflects the values that our country was founded upon: equal justice and opportunity for all.
+You can watch Connie’s video explaining her background and reasons for running for office by clicking here .
+Why I'm Running for Office I want to ensure that NH reflects the values that our country was founded upon: equal justice and opportunity for all.
 Every person should have a chance at the American dream, regardless of race, income, gender, faith, or sexual orientation.
 To be a successful State, we must provide quality public education, affordable housing and health care, jobs that provide a livable wage, and a voting process that ensures that every inhabitant of NH can easily exercise their most important right: the right to vote.
 After my third term in office, I am even more dedicated to providing affordable health care to my constituents, who are still dealing with the long-term impacts of the pandemic and the opioid crisis, in addition to everyday healthcare needs.
@@ -56,3 +54,4 @@ If Canada, Mexico, all the nations of Europe, and many others across the globe c
 My experiences and those of my friends, family, and clients have shown me how important it is to be vigilant and to fight for the basic civil rights of all those who live in NH.
 I have worked hard as a state representative to ensure that your vote counts, voting is an easy and secure process, NH has quality public education, affordable housing is available to all, and everyone has access to quality healthcare.
 I will continue to fight hard on your behalf on these and other issues if re-elected.
+Connie Connie Connie Connie © # Impact (603) 491-7379 connielane4staterep@gmail.com Powered by: Squarespace Photography by: www.jpuzaphoto.com and www.bryanjohnsonphotos.com Info Meet Connie Priorities News Paid for by: Campaign to Elect Connie Lane by Connie Lane, Fiscal Agent Action Volunteer Contact Donate

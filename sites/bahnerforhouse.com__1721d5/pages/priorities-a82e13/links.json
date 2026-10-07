@@ -1,11 +1,42 @@
 [
-"http://facebook.com/kristinbahnermn",
-"http://instagram.com/kristinbahnermn",
-"https://bahnerforhouse.com/",
-"https://bahnerforhouse.com/contact-kristins-team",
-"https://bahnerforhouse.com/endorsements",
-"https://bahnerforhouse.com/join-the-team",
-"https://bahnerforhouse.com/priorities",
-"https://secure.actblue.com/donate/kristinbahner",
-"https://twitter.com/KristinBahnerMN"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kristinbahner"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bahnerforhouse.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bahnerforhouse.com/contact-kristins-team"
+},
+{
+"text": "Join the Team",
+"href": "https://www.bahnerforhouse.com/join-the-team"
+},
+{
+"text": "Meet Kristin",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.bahnerforhouse.com/priorities"
+},
+{
+"text": "[image: Kristin Bahner for State Representative ]",
+"href": "https://www.bahnerforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/kristinbahnermn"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KristinBahnerMN"
+}
 ]

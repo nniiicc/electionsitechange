@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.lehmanfranklin.com/",
- "paid_for_by": null,
+ "fingerprint": "23a948ce6becc6507ead2b3e3f68d86126162e92",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | new-home-page",
- "years_mentioned": []
+ "years_mentioned": [
+  "1997"
+ ]
 }

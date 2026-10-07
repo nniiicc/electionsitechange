@@ -1,17 +1,8 @@
-Nebraska’s First District is home to Offutt Air Force Base, U.S.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Priorities Restoring American Leadership & National Security Nebraska’s First District is home to Offutt Air Force Base, U.S.
 Strategic Command, and thousands of servicemembers, veterans, and military families.
 National security is not abstract here — it’s personal.
 With 21 years of national security experience, I am the most qualified candidate in this race to strengthen America’s security and protect our interests abroad.
-My priorities include:
-- Maintain a strong national defense to deter threats, protect U.S. interests, and ensure global security
-- Strengthen our international alliances through principled diplomacy
-- Avoid forever wars by reasserting Congressional war powers to authorize military actions and prevent unilateral presidential war-making
-- Reverse harmful cuts to the VA so veterans receive the disability services, mental health care, and timely claims processing they have earned
-- Expand veteran entrepreneurship programs, strengthen veteran hiring initiatives, and increase housing assistance so veterans and their families can put down roots in Nebraska
-Experience to lead.
+My priorities include: Maintain a strong national defense to deter threats, protect U.S. interests, and ensure global security Strengthen our international alliances through principled diplomacy Avoid forever wars by reasserting Congressional war powers to authorize military actions and prevent unilateral presidential war-making Reverse harmful cuts to the VA so veterans receive the disability services, mental health care, and timely claims processing they have earned Expand veteran entrepreneurship programs, strengthen veteran hiring initiatives, and increase housing assistance so veterans and their families can put down roots in Nebraska View Priorities Making Healthcare Affordable & Accessible Smart, Fair Immigration and a Secure Border Supporting Agriculture & Rural Communities Lowering Costs & Restoring the Middle Class Ending Washington Dysfunction Reining In Our National Debt Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

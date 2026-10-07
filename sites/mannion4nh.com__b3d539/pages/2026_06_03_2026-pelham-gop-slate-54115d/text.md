@@ -1,6 +1,9 @@
-I’m proud to announce the GOP slate for Pelham has filed!
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Campaign 2026 Pelham GOP Slate June 3, 2026 Tom Mannion Leave a comment I’m proud to announce the GOP slate for Pelham has filed!
 Join me in welcoming Deb Kruzel and Diane Rogers to the race, with myself and Jeff Tenczar returning for our 3rd run!
 We’re excited to serve the people of Pelham in Concord in 2027!
-Primary: Sept 8th
-General: Nov 3
-State Representative – Hillsborough County District 01 (Pelham)
+Primary: Sept 8th General: Nov 3 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Campaign Post navigation Previous Post Interview – Radio Canada Next Post Interview – The Granite Discourse (ep 34) Leave a comment Cancel reply Δ State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

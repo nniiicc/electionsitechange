@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://prisforcongress.com/newsroom/",
- "paid_for_by": null,
+ "fingerprint": "9bb72e6ff45d2226ca8ec166f1ade48d0f1a8bbb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsroom",
  "years_mentioned": [
+  "2007",
   "2017",
   "2026"
  ]

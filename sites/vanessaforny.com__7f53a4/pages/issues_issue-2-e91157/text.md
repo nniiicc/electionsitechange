@@ -1,8 +1,6 @@
-vanessa believes in
-Affordable Communities & Housing
-New York is in the middle of a housing crisis.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Affordable Communities & Housing Affordable, High-Quality Healthcare Safe and Accessible Communities Strong Public Education Clean and Healthy Communities Championing the LGBTQ+ Community Vibrant Communities Where Seniors Can Age in Place Transparent and Responsive Government vanessa believes in Affordable Communities & Housing New York is in the middle of a housing crisis.
 Rising rents, increasing operating costs, and the loss of rent-stabilized units are making it harder for families to stay in their homes.
 At the state level, I will prioritize protecting existing affordable housing while also increasing supply.
 That means supporting investments to stabilize rent-stabilized and affordable buildings that are at risk, and ensuring those homes remain available to the tenants who depend on them.
 The State must play a direct role in creating and sustaining housing that is truly affordable.
-I will support expanding mixed-income housing development and ensuring that affordability standards reflect real local income levels, so that “affordable” housing is actually accessible to the people it is meant to serve.
+I will support expanding mixed-income housing development and ensuring that affordability standards reflect real local income levels, so that “affordable” housing is actually accessible to the people it is meant to serve. vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

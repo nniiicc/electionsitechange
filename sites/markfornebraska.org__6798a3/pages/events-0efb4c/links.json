@@ -1,141 +1,838 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=AI+Data+Center%3A+Listening+and+Brainstorming+Session&dates=20260925T230000Z%2F20260926T001500Z&location=2020+1st+Avenue%2C+Kearney%2C+Nebraska%2C+68847",
-"http://google.com/calendar/event?action=TEMPLATE&text=Alliance+Meet+%26+Greet&dates=20260910T010000Z%2F20260910T030000Z&location=Alliance%2C+NE",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beatrice+Meet+%26+Greet&dates=20260627T183000Z%2F20260627T203000Z&location=1098+Grable+Avenue%2C+Beatrice%2C+Nebraska%2C+68310",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beatrice+Tailgate&dates=20260919T231500Z%2F20260920T011500Z&location=2317+North+6th+Street%2C+Beatrice%2C+Nebraska%2C+68310",
-"http://google.com/calendar/event?action=TEMPLATE&text=Broken+Bow+Town+Hall&dates=20260923T233000Z%2F20260924T003000Z&location=626+South+D+Street%2C+Broken+Bow%2C+Nebraska%2C+68822",
-"http://google.com/calendar/event?action=TEMPLATE&text=Chester+Petition+Signing+%2F+Meet+%26+Greet&dates=20260627T010000Z%2F20260627T020000Z&location=103+U.S.+81%2C+Chester%2C+Nebraska%2C+68327",
-"http://google.com/calendar/event?action=TEMPLATE&text=Clay+Center+Parade&dates=20260704T170000Z%2F20260704T200000Z&location=Clay+Center%2C+NE",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fairmont+Meet+%26+Greet&dates=20260628T190000Z%2F20260628T203000Z&location=Fairmont%2C+NE",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fur+Trade+Days&dates=20260710T190000Z%2F20260711T020000Z&location=Courhouse+Lawn%2C+Chadron%2C+NE",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gering+Social+Event&dates=20261009T013000Z%2F20261009T030000Z&location=2930+Old+Oregon+Trail%2C+Gering%2C+Nebraska%2C+69361",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Island+Meet+%26+Greet&dates=20260625T010000Z%2F20260625T020000Z&location=316+North+Pine+Street%2C+Grand+Island%2C+Nebraska%2C+68801",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grant+Town+Hall&dates=20261006T030000Z%2F20261006T040000Z&location=420+Central+Avenue%2C+Grant%2C+Nebraska%2C+69140",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hastings+Town+Hall&dates=20261011T023000Z%2F20261011T040000Z&location=717+West+1st+Street%2C+Hastings%2C+Nebraska%2C+68901",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hemingford+Coffee+with+a+Candidate&dates=20260910T160000Z%2F20260910T170000Z&location=523+Niobrara+Avenue%2C+Hemingford%2C+Nebraska%2C+69348",
-"http://google.com/calendar/event?action=TEMPLATE&text=Holdrege+Town+Hall&dates=20261009T200000Z%2F20261009T210000Z&location=1698+12th+Avenue%2C+Holdrege%2C+Nebraska%2C+68949",
-"http://google.com/calendar/event?action=TEMPLATE&text=Johnson+Lake+Meet+%26+Greet&dates=20261009T020000Z%2F20261009T040000Z&location=2+Johnson+Lake+Drive+18%2C+Johnson+Lake%2C+Nebraska%2C+68937",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kearney+Meet+%26+Greet&dates=20260705T200000Z%2F20260705T220000Z&location=18+East+21st+Street%2C+Kearney%2C+Nebraska%2C+68847",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lexington+Town+Hall&dates=20260923T183000Z%2F20260923T203000Z&location=Lexington%2C+NE+68850",
-"http://google.com/calendar/event?action=TEMPLATE&text=Livestream+Q%26A&dates=20260917T020000Z%2F20260917T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Lunch+in+the+Park+with+Mark&dates=20260708T180000Z%2F20260708T203000Z&location=627+Toledo+Street%2C+Sidney%2C+Nebraska%2C+69162",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+At+Morton-James+Public+Library&dates=20260626T190000Z%2F20260626T200000Z&location=923+1st+Corso%2C+Nebraska+City%2C+Nebraska%2C+68410",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+on+%22G%22+Street&dates=20260625T180000Z%2F20260625T210000Z&location=924+G+Street%2C+Geneva%2C+Nebraska%2C+68361",
-"http://google.com/calendar/event?action=TEMPLATE&text=Morning+Coffee+with+Mark&dates=20260917T140000Z%2F20260917T160000Z&location=215+East+Douglas+Street%2C+O%26%2339%3BNeill%2C+Nebraska%2C+68763",
-"http://google.com/calendar/event?action=TEMPLATE&text=Oregon+Trail+Days&dates=20260711T170000Z%2F20260711T220000Z&location=1320+12th+Street%2C+Gering%2C+Nebraska%2C+69341",
-"http://google.com/calendar/event?action=TEMPLATE&text=Oshkosh+Meet+%26+Greet&dates=20261020T013000Z%2F20261020T033000Z&location=201+Main+Street%2C+Oshkosh%2C+Nebraska%2C+69154",
-"http://google.com/calendar/event?action=TEMPLATE&text=Southeast+Candidate+Forum&dates=20260626T013000Z%2F20260626T033000Z&location=Tobias%2C+NE",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Back+Roads+Tour&dates=20260905T000000Z%2F20260905T010000Z&location=2930+Old+Oregon+Trail%2C+Scottsbluff%2C+Nebraska%2C+69361",
-"http://google.com/calendar/event?action=TEMPLATE&text=Verdigre-Townhall&dates=20260918T010000Z%2F20260918T023000Z&location=52339+881+Road%2C+Verdigre%2C+Nebraska%2C+68783",
-"http://google.com/calendar/event?action=TEMPLATE&text=Yard+Party+with+Dan+Osborn&dates=20260709T000000Z%2F20260709T023000Z&location=1920+Avenue+O%2C+Scottsbluff%2C+Nebraska%2C+69361",
-"http://google.com/calendar/event?action=TEMPLATE&text=York+Meet+%26+Greet&dates=20260703T210000Z%2F20260703T230000Z&location=426+N+Ohio+Ave%2C+York%2C+Nebraska%2C+68467",
-"http://maps.google.com/?q=+Alliance%2C+NE",
-"http://maps.google.com/?q=+Clay+Center%2C+NE",
-"http://maps.google.com/?q=+Fairmont%2C+NE",
-"http://maps.google.com/?q=+Lexington%2C+NE+68850",
-"http://maps.google.com/?q=+Tobias%2C+NE",
-"http://maps.google.com/?q=103+U.S.+81+Chester%2C+Nebraska%2C+68327",
-"http://maps.google.com/?q=1098+Grable+Avenue+Beatrice%2C+Nebraska%2C+68310",
-"http://maps.google.com/?q=1320+12th+Street+Gering%2C+Nebraska%2C+69341",
-"http://maps.google.com/?q=1698+12th+Avenue+Holdrege%2C+Nebraska%2C+68949",
-"http://maps.google.com/?q=18+East+21st+Street+Kearney%2C+Nebraska%2C+68847",
-"http://maps.google.com/?q=1920+Avenue+O+Scottsbluff%2C+Nebraska%2C+69361",
-"http://maps.google.com/?q=2+Johnson+Lake+Drive+18+Johnson+Lake%2C+Nebraska%2C+68937",
-"http://maps.google.com/?q=201+Main+Street+Oshkosh%2C+Nebraska%2C+69154",
-"http://maps.google.com/?q=2020+1st+Avenue+Kearney%2C+Nebraska%2C+68847",
-"http://maps.google.com/?q=215+East+Douglas+Street+O%27Neill%2C+Nebraska%2C+68763",
-"http://maps.google.com/?q=2317+North+6th+Street+Beatrice%2C+Nebraska%2C+68310",
-"http://maps.google.com/?q=2930+Old+Oregon+Trail+Gering%2C+Nebraska%2C+69361",
-"http://maps.google.com/?q=2930+Old+Oregon+Trail+Scottsbluff%2C+Nebraska%2C+69361",
-"http://maps.google.com/?q=316+North+Pine+Street+Grand+Island%2C+Nebraska%2C+68801",
-"http://maps.google.com/?q=420+Central+Avenue+Grant%2C+Nebraska%2C+69140",
-"http://maps.google.com/?q=426+N+Ohio+Ave+York%2C+Nebraska%2C+68467",
-"http://maps.google.com/?q=523+Niobrara+Avenue+Hemingford%2C+Nebraska%2C+69348",
-"http://maps.google.com/?q=52339+881+Road+Verdigre%2C+Nebraska%2C+68783",
-"http://maps.google.com/?q=626+South+D+Street+Broken+Bow%2C+Nebraska%2C+68822",
-"http://maps.google.com/?q=627+Toledo+Street+Sidney%2C+Nebraska%2C+69162",
-"http://maps.google.com/?q=717+West+1st+Street+Hastings%2C+Nebraska%2C+68901",
-"http://maps.google.com/?q=923+1st+Corso+Nebraska+City%2C+Nebraska%2C+68410",
-"http://maps.google.com/?q=924+G+Street+Geneva%2C+Nebraska%2C+68361",
-"http://maps.google.com/?q=Courhouse+Lawn+Chadron%2C+NE",
-"https://facebook.com/profile.php?id=61581549796742",
-"https://facebook.com/share/1CS8SRgtQE",
-"https://instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu",
-"https://markfornebraska.org/",
-"https://markfornebraska.org/about-mark",
-"https://markfornebraska.org/blog",
-"https://markfornebraska.org/cart",
-"https://markfornebraska.org/contact",
-"https://markfornebraska.org/events",
-"https://markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session",
-"https://markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session?format=ical",
-"https://markfornebraska.org/events/09/26/broken-bow-town-hall",
-"https://markfornebraska.org/events/09/26/broken-bow-town-hall?format=ical",
-"https://markfornebraska.org/events/09/26/lexington-town-hall",
-"https://markfornebraska.org/events/09/26/lexington-town-hall?format=ical",
-"https://markfornebraska.org/events/09/26/verdigre-townhall",
-"https://markfornebraska.org/events/09/26/verdigre-townhall?format=ical",
-"https://markfornebraska.org/events/2026/06/beatrice-meet-greet",
-"https://markfornebraska.org/events/2026/06/beatrice-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet",
-"https://markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/06/clay-center-parade",
-"https://markfornebraska.org/events/2026/06/clay-center-parade?format=ical",
-"https://markfornebraska.org/events/2026/06/fairmont-meet-greet",
-"https://markfornebraska.org/events/2026/06/fairmont-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/06/fur-trade-days",
-"https://markfornebraska.org/events/2026/06/fur-trade-days?format=ical",
-"https://markfornebraska.org/events/2026/06/grand-island-meet-greet",
-"https://markfornebraska.org/events/2026/06/grand-island-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark",
-"https://markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark?format=ical",
-"https://markfornebraska.org/events/2026/06/meet-and-greet-on-g-street",
-"https://markfornebraska.org/events/2026/06/meet-and-greet-on-g-street?format=ical",
-"https://markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet",
-"https://markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/06/oregon-trail-days",
-"https://markfornebraska.org/events/2026/06/oregon-trail-days?format=ical",
-"https://markfornebraska.org/events/2026/06/southeast-candidate-forum",
-"https://markfornebraska.org/events/2026/06/southeast-candidate-forum?format=ical",
-"https://markfornebraska.org/events/2026/06/yard-party-with-dan-osborn",
-"https://markfornebraska.org/events/2026/06/yard-party-with-dan-osborn?format=ical",
-"https://markfornebraska.org/events/2026/07/kearney-meet-greet",
-"https://markfornebraska.org/events/2026/07/kearney-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/07/york-meet-greet",
-"https://markfornebraska.org/events/2026/07/york-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/10/gering-social-event",
-"https://markfornebraska.org/events/2026/10/gering-social-event?format=ical",
-"https://markfornebraska.org/events/2026/10/grant-town-hall",
-"https://markfornebraska.org/events/2026/10/grant-town-hall?format=ical",
-"https://markfornebraska.org/events/2026/10/hastings-town-hall",
-"https://markfornebraska.org/events/2026/10/hastings-town-hall?format=ical",
-"https://markfornebraska.org/events/2026/10/holdrege-town-hall",
-"https://markfornebraska.org/events/2026/10/holdrege-town-hall?format=ical",
-"https://markfornebraska.org/events/2026/10/johnson-lake-meet-greet",
-"https://markfornebraska.org/events/2026/10/johnson-lake-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/10/oshkosh-meet-greet",
-"https://markfornebraska.org/events/2026/10/oshkosh-meet-greet?format=ical",
-"https://markfornebraska.org/events/2026/8/the-back-roads-tour",
-"https://markfornebraska.org/events/2026/8/the-back-roads-tour?format=ical",
-"https://markfornebraska.org/events/26/09/morning-coffee-with-mark",
-"https://markfornebraska.org/events/26/09/morning-coffee-with-mark?format=ical",
-"https://markfornebraska.org/events/alliance-meet-greet",
-"https://markfornebraska.org/events/alliance-meet-greet?format=ical",
-"https://markfornebraska.org/events/beatrice-tailgate",
-"https://markfornebraska.org/events/beatrice-tailgate?format=ical",
-"https://markfornebraska.org/events/hemingford-coffee-with-a-candidate",
-"https://markfornebraska.org/events/hemingford-coffee-with-a-candidate?format=ical",
-"https://markfornebraska.org/events/livestream-qa",
-"https://markfornebraska.org/events/livestream-qa?format=ical",
-"https://markfornebraska.org/faq",
-"https://markfornebraska.org/issues",
-"https://markfornebraska.org/press",
-"https://markfornebraska.org/privacy-policy",
-"https://markfornebraska.org/terms-of-use",
-"https://markfornebraska.org/volunteer",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://politics.raisethemoney.com/en/mark-for-nebraska",
-"https://tiktok.com/@markfornebraska",
-"https://x.com/MarkForNebraska",
-"https://youtube.com/@MarkForNebraskaCampaign"
+{
+"text": "$10",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$100",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$25",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$5",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "$50",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+alliance%2C+ne+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+clay+center%2C+ne+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+fairmont%2C+ne+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+lexington%2C+ne+68850+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+tobias%2C+ne+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=103+u.s.+81+chester%2C+nebraska%2C+68327+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1098+grable+avenue+beatrice%2C+nebraska%2C+68310+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1320+12th+street+gering%2C+nebraska%2C+69341+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1698+12th+avenue+holdrege%2C+nebraska%2C+68949+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=18+east+21st+street+kearney%2C+nebraska%2C+68847+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1920+avenue+o+scottsbluff%2C+nebraska%2C+69361+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2+johnson+lake+drive+18+johnson+lake%2C+nebraska%2C+68937+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=201+main+street+oshkosh%2C+nebraska%2C+69154+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2020+1st+avenue+kearney%2C+nebraska%2C+68847+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=215+east+douglas+street+o%27neill%2C+nebraska%2C+68763+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2317+north+6th+street+beatrice%2C+nebraska%2C+68310+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2930+old+oregon+trail+gering%2C+nebraska%2C+69361+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2930+old+oregon+trail+scottsbluff%2C+nebraska%2C+69361+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=316+north+pine+street+grand+island%2C+nebraska%2C+68801+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=420+central+avenue+grant%2C+nebraska%2C+69140+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=426+n+ohio+ave+york%2C+nebraska%2C+68467+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=523+niobrara+avenue+hemingford%2C+nebraska%2C+69348+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=52339+881+road+verdigre%2C+nebraska%2C+68783+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=626+south+d+street+broken+bow%2C+nebraska%2C+68822+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=627+toledo+street+sidney%2C+nebraska%2C+69162+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=717+west+1st+street+hastings%2C+nebraska%2C+68901+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=923+1st+corso+nebraska+city%2C+nebraska%2C+68410+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=924+g+street+geneva%2C+nebraska%2C+68361+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=courhouse+lawn+chadron%2C+ne+"
+},
+{
+"text": "0",
+"href": "https://www.markfornebraska.org/cart"
+},
+{
+"text": "AI Data Center: Listening and Brainstorming Session",
+"href": "https://www.markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session"
+},
+{
+"text": "About Mark",
+"href": "https://www.markfornebraska.org/about-mark"
+},
+{
+"text": "Alliance Meet & Greet",
+"href": "https://www.markfornebraska.org/events/alliance-meet-greet"
+},
+{
+"text": "Beatrice Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/06/beatrice-meet-greet"
+},
+{
+"text": "Beatrice Tailgate",
+"href": "https://www.markfornebraska.org/events/beatrice-tailgate"
+},
+{
+"text": "Broken Bow Town Hall",
+"href": "https://www.markfornebraska.org/events/09/26/broken-bow-town-hall"
+},
+{
+"text": "Chester Petition Signing / Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet"
+},
+{
+"text": "Clay Center Parade",
+"href": "https://www.markfornebraska.org/events/2026/06/clay-center-parade"
+},
+{
+"text": "Contact",
+"href": "https://www.markfornebraska.org/contact"
+},
+{
+"text": "Continue to website →",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Events",
+"href": "https://www.markfornebraska.org/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.markfornebraska.org/faq"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1CS8SRgtQE/"
+},
+{
+"text": "Fairmont Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/06/fairmont-meet-greet"
+},
+{
+"text": "Fur Trade Days",
+"href": "https://www.markfornebraska.org/events/2026/06/fur-trade-days"
+},
+{
+"text": "Gering Social Event",
+"href": "https://www.markfornebraska.org/events/2026/10/gering-social-event"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=AI+Data+Center%3A+Listening+and+Brainstorming+Session&dates=20260925T230000Z%2F20260926T001500Z&location=2020+1st+Avenue%2C+Kearney%2C+Nebraska%2C+68847"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Alliance+Meet+%26+Greet&dates=20260910T010000Z%2F20260910T030000Z&location=Alliance%2C+NE"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beatrice+Meet+%26+Greet&dates=20260627T183000Z%2F20260627T203000Z&location=1098+Grable+Avenue%2C+Beatrice%2C+Nebraska%2C+68310"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beatrice+Tailgate&dates=20260919T231500Z%2F20260920T011500Z&location=2317+North+6th+Street%2C+Beatrice%2C+Nebraska%2C+68310"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Broken+Bow+Town+Hall&dates=20260923T233000Z%2F20260924T003000Z&location=626+South+D+Street%2C+Broken+Bow%2C+Nebraska%2C+68822"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Chester+Petition+Signing+%2F+Meet+%26+Greet&dates=20260627T010000Z%2F20260627T020000Z&location=103+U.S.+81%2C+Chester%2C+Nebraska%2C+68327"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Clay+Center+Parade&dates=20260704T170000Z%2F20260704T200000Z&location=Clay+Center%2C+NE"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fairmont+Meet+%26+Greet&dates=20260628T190000Z%2F20260628T203000Z&location=Fairmont%2C+NE"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fur+Trade+Days&dates=20260710T190000Z%2F20260711T020000Z&location=Courhouse+Lawn%2C+Chadron%2C+NE"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gering+Social+Event&dates=20261009T013000Z%2F20261009T030000Z&location=2930+Old+Oregon+Trail%2C+Gering%2C+Nebraska%2C+69361"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Island+Meet+%26+Greet&dates=20260625T010000Z%2F20260625T020000Z&location=316+North+Pine+Street%2C+Grand+Island%2C+Nebraska%2C+68801"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grant+Town+Hall&dates=20261006T030000Z%2F20261006T040000Z&location=420+Central+Avenue%2C+Grant%2C+Nebraska%2C+69140"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hastings+Town+Hall&dates=20261011T023000Z%2F20261011T040000Z&location=717+West+1st+Street%2C+Hastings%2C+Nebraska%2C+68901"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hemingford+Coffee+with+a+Candidate&dates=20260910T160000Z%2F20260910T170000Z&location=523+Niobrara+Avenue%2C+Hemingford%2C+Nebraska%2C+69348"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Holdrege+Town+Hall&dates=20261009T200000Z%2F20261009T210000Z&location=1698+12th+Avenue%2C+Holdrege%2C+Nebraska%2C+68949"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Johnson+Lake+Meet+%26+Greet&dates=20261009T020000Z%2F20261009T040000Z&location=2+Johnson+Lake+Drive+18%2C+Johnson+Lake%2C+Nebraska%2C+68937"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kearney+Meet+%26+Greet&dates=20260705T200000Z%2F20260705T220000Z&location=18+East+21st+Street%2C+Kearney%2C+Nebraska%2C+68847"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lexington+Town+Hall&dates=20260923T183000Z%2F20260923T203000Z&location=Lexington%2C+NE+68850"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Livestream+Q%26A&dates=20260917T020000Z%2F20260917T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lunch+in+the+Park+with+Mark&dates=20260708T180000Z%2F20260708T203000Z&location=627+Toledo+Street%2C+Sidney%2C+Nebraska%2C+69162"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+At+Morton-James+Public+Library&dates=20260626T190000Z%2F20260626T200000Z&location=923+1st+Corso%2C+Nebraska+City%2C+Nebraska%2C+68410"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+on+%22G%22+Street&dates=20260625T180000Z%2F20260625T210000Z&location=924+G+Street%2C+Geneva%2C+Nebraska%2C+68361"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Morning+Coffee+with+Mark&dates=20260917T140000Z%2F20260917T160000Z&location=215+East+Douglas+Street%2C+O%26%2339%3BNeill%2C+Nebraska%2C+68763"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oregon+Trail+Days&dates=20260711T170000Z%2F20260711T220000Z&location=1320+12th+Street%2C+Gering%2C+Nebraska%2C+69341"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oshkosh+Meet+%26+Greet&dates=20261020T013000Z%2F20261020T033000Z&location=201+Main+Street%2C+Oshkosh%2C+Nebraska%2C+69154"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Southeast+Candidate+Forum&dates=20260626T013000Z%2F20260626T033000Z&location=Tobias%2C+NE"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Back+Roads+Tour&dates=20260905T000000Z%2F20260905T010000Z&location=2930+Old+Oregon+Trail%2C+Scottsbluff%2C+Nebraska%2C+69361"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Verdigre-Townhall&dates=20260918T010000Z%2F20260918T023000Z&location=52339+881+Road%2C+Verdigre%2C+Nebraska%2C+68783"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Yard+Party+with+Dan+Osborn&dates=20260709T000000Z%2F20260709T023000Z&location=1920+Avenue+O%2C+Scottsbluff%2C+Nebraska%2C+69361"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=York+Meet+%26+Greet&dates=20260703T210000Z%2F20260703T230000Z&location=426+N+Ohio+Ave%2C+York%2C+Nebraska%2C+68467"
+},
+{
+"text": "Grand Island Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/06/grand-island-meet-greet"
+},
+{
+"text": "Grant Town Hall",
+"href": "https://www.markfornebraska.org/events/2026/10/grant-town-hall"
+},
+{
+"text": "Hastings Town Hall",
+"href": "https://www.markfornebraska.org/events/2026/10/hastings-town-hall"
+},
+{
+"text": "Hemingford Coffee with a Candidate",
+"href": "https://www.markfornebraska.org/events/hemingford-coffee-with-a-candidate"
+},
+{
+"text": "Holdrege Town Hall",
+"href": "https://www.markfornebraska.org/events/2026/10/holdrege-town-hall"
+},
+{
+"text": "Home",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/09/26/broken-bow-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/09/26/lexington-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/09/26/verdigre-townhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/beatrice-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/clay-center-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/fairmont-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/fur-trade-days?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/grand-island-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/meet-and-greet-on-g-street?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/oregon-trail-days?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/southeast-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/06/yard-party-with-dan-osborn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/07/kearney-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/07/york-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/gering-social-event?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/grant-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/hastings-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/holdrege-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/johnson-lake-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/10/oshkosh-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/2026/8/the-back-roads-tour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/26/09/morning-coffee-with-mark?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/alliance-meet-greet?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/beatrice-tailgate?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/hemingford-coffee-with-a-candidate?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.markfornebraska.org/events/livestream-qa?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.markfornebraska.org/issues"
+},
+{
+"text": "Johnson Lake Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/10/johnson-lake-meet-greet"
+},
+{
+"text": "Kearney Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/07/kearney-meet-greet"
+},
+{
+"text": "Lexington Town Hall",
+"href": "https://www.markfornebraska.org/events/09/26/lexington-town-hall"
+},
+{
+"text": "Livestream Q&A",
+"href": "https://www.markfornebraska.org/events/livestream-qa"
+},
+{
+"text": "Lunch in the Park with Mark",
+"href": "https://www.markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark"
+},
+{
+"text": "Mark for Nebraska YouTube",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "Meet & Greet At Morton-James Public Library",
+"href": "https://www.markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet"
+},
+{
+"text": "Meet and Greet on \"G\" Street",
+"href": "https://www.markfornebraska.org/events/2026/06/meet-and-greet-on-g-street"
+},
+{
+"text": "Morning Coffee with Mark",
+"href": "https://www.markfornebraska.org/events/26/09/morning-coffee-with-mark"
+},
+{
+"text": "News",
+"href": "https://www.markfornebraska.org/blog"
+},
+{
+"text": "Oregon Trail Days",
+"href": "https://www.markfornebraska.org/events/2026/06/oregon-trail-days"
+},
+{
+"text": "Oshkosh Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/10/oshkosh-meet-greet"
+},
+{
+"text": "Other",
+"href": "https://politics.raisethemoney.com/en/mark-for-nebraska"
+},
+{
+"text": "Press",
+"href": "https://www.markfornebraska.org/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markfornebraska.org/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Southeast Candidate Forum",
+"href": "https://www.markfornebraska.org/events/2026/06/southeast-candidate-forum"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.markfornebraska.org/terms-of-use"
+},
+{
+"text": "The Back Roads Tour",
+"href": "https://www.markfornebraska.org/events/2026/8/the-back-roads-tour"
+},
+{
+"text": "Verdigre-Townhall",
+"href": "https://www.markfornebraska.org/events/09/26/verdigre-townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/09/26/broken-bow-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/09/26/lexington-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/09/26/verdigre-townhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/beatrice-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/clay-center-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/fairmont-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/fur-trade-days"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/grand-island-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/meet-and-greet-on-g-street"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/oregon-trail-days"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/southeast-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/06/yard-party-with-dan-osborn"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/07/kearney-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/07/york-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/gering-social-event"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/grant-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/hastings-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/holdrege-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/johnson-lake-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/10/oshkosh-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/2026/8/the-back-roads-tour"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/26/09/morning-coffee-with-mark"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/alliance-meet-greet"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/beatrice-tailgate"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/hemingford-coffee-with-a-candidate"
+},
+{
+"text": "View Event →",
+"href": "https://www.markfornebraska.org/events/livestream-qa"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markfornebraska.org/volunteer"
+},
+{
+"text": "Yard Party with Dan Osborn",
+"href": "https://www.markfornebraska.org/events/2026/06/yard-party-with-dan-osborn"
+},
+{
+"text": "York Meet & Greet",
+"href": "https://www.markfornebraska.org/events/2026/07/york-meet-greet"
+},
+{
+"text": "[image: AI Data Center: Listening and Brainstorming Session]",
+"href": "https://www.markfornebraska.org/events/09/26/ai-data-center-listening-and-brainstorming-session"
+},
+{
+"text": "[image: Alliance Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/alliance-meet-greet"
+},
+{
+"text": "[image: Beatrice Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/06/beatrice-meet-greet"
+},
+{
+"text": "[image: Beatrice Tailgate]",
+"href": "https://www.markfornebraska.org/events/beatrice-tailgate"
+},
+{
+"text": "[image: Broken Bow Town Hall]",
+"href": "https://www.markfornebraska.org/events/09/26/broken-bow-town-hall"
+},
+{
+"text": "[image: Chester Petition Signing / Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/06/chester-petition-signing-meet-greet"
+},
+{
+"text": "[image: Clay Center Parade]",
+"href": "https://www.markfornebraska.org/events/2026/06/clay-center-parade"
+},
+{
+"text": "[image: Fairmont Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/06/fairmont-meet-greet"
+},
+{
+"text": "[image: Fur Trade Days]",
+"href": "https://www.markfornebraska.org/events/2026/06/fur-trade-days"
+},
+{
+"text": "[image: Gering Social Event]",
+"href": "https://www.markfornebraska.org/events/2026/10/gering-social-event"
+},
+{
+"text": "[image: Grand Island Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/06/grand-island-meet-greet"
+},
+{
+"text": "[image: Grant Town Hall]",
+"href": "https://www.markfornebraska.org/events/2026/10/grant-town-hall"
+},
+{
+"text": "[image: Hastings Town Hall]",
+"href": "https://www.markfornebraska.org/events/2026/10/hastings-town-hall"
+},
+{
+"text": "[image: Hemingford Coffee with a Candidate]",
+"href": "https://www.markfornebraska.org/events/hemingford-coffee-with-a-candidate"
+},
+{
+"text": "[image: Holdrege Town Hall]",
+"href": "https://www.markfornebraska.org/events/2026/10/holdrege-town-hall"
+},
+{
+"text": "[image: Johnson Lake Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/10/johnson-lake-meet-greet"
+},
+{
+"text": "[image: Kearney Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/07/kearney-meet-greet"
+},
+{
+"text": "[image: Lexington Town Hall]",
+"href": "https://www.markfornebraska.org/events/09/26/lexington-town-hall"
+},
+{
+"text": "[image: Livestream Q&A]",
+"href": "https://www.markfornebraska.org/events/livestream-qa"
+},
+{
+"text": "[image: Lunch in the Park with Mark]",
+"href": "https://www.markfornebraska.org/events/2026/06/lunch-in-the-park-with-mark"
+},
+{
+"text": "[image: Mark for Nebraska]",
+"href": "https://www.markfornebraska.org/"
+},
+{
+"text": "[image: Meet &amp; Greet At Morton-James Public Library]",
+"href": "https://www.markfornebraska.org/events/2026/06/morton-james-public-library-meet-greet"
+},
+{
+"text": "[image: Meet and Greet on \"G\" Street]",
+"href": "https://www.markfornebraska.org/events/2026/06/meet-and-greet-on-g-street"
+},
+{
+"text": "[image: Morning Coffee with Mark]",
+"href": "https://www.markfornebraska.org/events/26/09/morning-coffee-with-mark"
+},
+{
+"text": "[image: Oregon Trail Days]",
+"href": "https://www.markfornebraska.org/events/2026/06/oregon-trail-days"
+},
+{
+"text": "[image: Oshkosh Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/10/oshkosh-meet-greet"
+},
+{
+"text": "[image: Southeast Candidate Forum]",
+"href": "https://www.markfornebraska.org/events/2026/06/southeast-candidate-forum"
+},
+{
+"text": "[image: The Back Roads Tour]",
+"href": "https://www.markfornebraska.org/events/2026/8/the-back-roads-tour"
+},
+{
+"text": "[image: Verdigre-Townhall]",
+"href": "https://www.markfornebraska.org/events/09/26/verdigre-townhall"
+},
+{
+"text": "[image: Yard Party with Dan Osborn]",
+"href": "https://www.markfornebraska.org/events/2026/06/yard-party-with-dan-osborn"
+},
+{
+"text": "[image: York Meet & Greet]",
+"href": "https://www.markfornebraska.org/events/2026/07/york-meet-greet"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581549796742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mark_for_nebraska?igsh=MnlweGFpaXh0YjBu"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@markfornebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarkForNebraskaCampaign"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MarkForNebraska"
+},
+{
+"text": "info@markfornebraska.org",
+"href": "mailto:info@markfornebraska.org"
+}
 ]

@@ -1,13 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61588326052667",
-"https://instagram.com/voteanneberbert",
-"https://linkedin.com/in/anne-berbert",
-"https://threads.com/@voteanneberbert?hl=en",
-"https://voteanneberbert.com/",
-"https://voteanneberbert.com/about",
-"https://voteanneberbert.com/accessibility-statement",
-"https://voteanneberbert.com/blog",
-"https://voteanneberbert.com/donate",
-"https://voteanneberbert.com/event-list",
-"https://voteanneberbert.com/privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.voteanneberbert.com/about"
+},
+{
+"text": "ANNE BERBERT YOU",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Accessibility statement",
+"href": "https://www.voteanneberbert.com/accessibility-statement"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteanneberbert.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteanneberbert.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.voteanneberbert.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.voteanneberbert.com/blog"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.voteanneberbert.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteanneberbert.com/accessibility-statement"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588326052667"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteanneberbert"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/anne-berbert/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@voteanneberbert?hl=en"
+},
+{
+"text": "voteanneberbert@gmail.com",
+"href": "mailto:voteanneberbert@gmail.com"
+},
+{
+"text": "voteanneberbet@gmail.com",
+"href": "mailto:voteanneberbet@gmail.com"
+}
 ]

@@ -1,15 +1,58 @@
 [
-"http://mdelect.net/",
-"http://mhec.state.md.us/",
-"http://riceconsultingllc.com/",
-"https://andreaharrison.org/",
-"https://andreaharrison.org/contact",
-"https://andreaharrison.org/issues",
-"https://andreaharrison.org/meet-andrea",
-"https://andreaharrison.org/privacy-policy",
-"https://andreaharrison.org/scholarship",
-"https://docs.google.com/forms/d/e/1FAIpQLSej1ArhjSR9icN2-voVqWS4sHEsNQ6IyhnVn0DeGqodskNtBg/viewform?usp=header",
-"https://facebook.com/andreacharrisond24",
-"https://instagram.com/andreacharrisond24",
-"https://secure.ngpvan.com/i1dSBHhykUCYV2GhJR52wg2"
+{
+"text": "CONTACT",
+"href": "https://www.andreaharrison.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/i1dSBHhykUCYV2GhJR52wg2"
+},
+{
+"text": "HOME",
+"href": "https://www.andreaharrison.org"
+},
+{
+"text": "ISSUES",
+"href": "https://www.andreaharrison.org/issues"
+},
+{
+"text": "MEET ANDREA",
+"href": "https://www.andreaharrison.org/meet-andrea"
+},
+{
+"text": "PLEASE FILL OUT THE APPLICATION AND UPLOAD DOCUMENTS HERE",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSej1ArhjSR9icN2-voVqWS4sHEsNQ6IyhnVn0DeGqodskNtBg/viewform?usp=header"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.andreaharrison.org/privacy-policy"
+},
+{
+"text": "Rice Consulting",
+"href": "http://www.riceconsultingllc.com"
+},
+{
+"text": "SCHOLARSHIP",
+"href": "https://www.andreaharrison.org/scholarship"
+},
+{
+"text": "[image]",
+"href": "https://www.andreaharrison.org"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/andreacharrisond24/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/andreacharrisond24/"
+},
+{
+"text": "http://www.mdelect.net",
+"href": "http://www.mdelect.net/"
+},
+{
+"text": "www.mhec.state.md.us",
+"href": "http://www.mhec.state.md.us/"
+}
 ]

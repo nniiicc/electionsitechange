@@ -1,19 +1,94 @@
 [
-"https://apps.azsos.gov/equal",
-"https://go.azsos.gov/5g2r",
-"https://sanitysam.com/",
-"https://sanitysam.com/author/sam",
-"https://sanitysam.com/campaign-update",
-"https://sanitysam.com/category/uncategorized",
-"https://sanitysam.com/contact",
-"https://sanitysam.com/customer-service-to-consumer-advocate",
-"https://sanitysam.com/events",
-"https://sanitysam.com/join-the-sanity-campaign",
-"https://sanitysam.com/tag/arizona",
-"https://sanitysam.com/tag/azpol",
-"https://sanitysam.com/tag/democrat",
-"https://sanitysam.com/who-is-sam-martin",
-"https://sanitysam.com/why-sam-martin",
-"https://secure.actblue.com/donate/samuel-martin-1",
-"https://wp-royal-themes.com/"
+{
+"text": "#arizona",
+"href": "https://sanitysam.com/tag/arizona/"
+},
+{
+"text": "#azpol",
+"href": "https://sanitysam.com/tag/azpol/"
+},
+{
+"text": "#democrat",
+"href": "https://sanitysam.com/tag/democrat/"
+},
+{
+"text": "0 Comments",
+"href": "https://sanitysam.com/campaign-update/#respond"
+},
+{
+"text": "Cancel reply",
+"href": "https://sanitysam.com/campaign-update/#respond"
+},
+{
+"text": "E-Qual",
+"href": "https://apps.azsos.gov/equal/"
+},
+{
+"text": "Events",
+"href": "https://sanitysam.com/events/"
+},
+{
+"text": "Join The Sanity Campaign",
+"href": "https://sanitysam.com/join-the-sanity-campaign/"
+},
+{
+"text": "Sam for AZ House of Representatives",
+"href": "https://sanitysam.com/"
+},
+{
+"text": "Samuel Martin",
+"href": "https://sanitysam.com/author/sam/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://sanitysam.com/contact/"
+},
+{
+"text": "Uncategorized",
+"href": "https://sanitysam.com/category/uncategorized/"
+},
+{
+"text": "WP Royal",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "Who is Sam Martin?",
+"href": "https://sanitysam.com/who-is-sam-martin/"
+},
+{
+"text": "Why Sam Martin?",
+"href": "https://sanitysam.com/why-sam-martin/"
+},
+{
+"text": "[image: Samuel Martin]",
+"href": "https://sanitysam.com/author/sam/"
+},
+{
+"text": "[no text]",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "[tooltip: Customer service to consumer advocate]",
+"href": "https://sanitysam.com/customer-service-to-consumer-advocate/"
+},
+{
+"text": "arizona",
+"href": "https://sanitysam.com/tag/arizona/"
+},
+{
+"text": "azpol",
+"href": "https://sanitysam.com/tag/azpol/"
+},
+{
+"text": "democrat",
+"href": "https://sanitysam.com/tag/democrat/"
+},
+{
+"text": "https://go.azsos.gov/5g2r",
+"href": "https://go.azsos.gov/5g2r"
+},
+{
+"text": "https://secure.actblue.com/donate/samuel-martin-1",
+"href": "https://secure.actblue.com/donate/samuel-martin-1"
+}
 ]

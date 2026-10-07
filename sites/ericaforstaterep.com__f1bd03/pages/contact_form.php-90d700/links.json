@@ -1,7 +1,22 @@
 [
-"https://ericaforstaterep.com/about.html",
-"https://ericaforstaterep.com/contact_form.php",
-"https://ericaforstaterep.com/events.html",
-"https://ericaforstaterep.com/index.html",
-"https://ericaforstaterep.com/issues.html"
+{
+"text": "Events",
+"href": "https://ericaforstaterep.com/events.html"
+},
+{
+"text": "Home",
+"href": "https://ericaforstaterep.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://ericaforstaterep.com/issues.html"
+},
+{
+"text": "Who I Am",
+"href": "https://ericaforstaterep.com/about.html"
+},
+{
+"text": "Write to Me",
+"href": "https://ericaforstaterep.com/contact_form.php"
+}
 ]

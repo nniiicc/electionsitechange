@@ -1,11 +1,42 @@
 [
-"https://facebook.com/PierceForIndiana",
-"https://instagram.com/pierceforindiana",
-"https://pierceforindiana.com/",
-"https://pierceforindiana.com/about",
-"https://pierceforindiana.com/cart",
-"https://pierceforindiana.com/get-involved",
-"https://pierceforindiana.com/kyles-record",
-"https://secure.winred.com/kyle-pierce-for-indiana/donate",
-"https://x.com/PierceForIN"
+{
+"text": "0",
+"href": "https://www.pierceforindiana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.pierceforindiana.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kyle-pierce-for-indiana/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.pierceforindiana.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.pierceforindiana.com/"
+},
+{
+"text": "Kyle's Record",
+"href": "https://www.pierceforindiana.com/kyles-record"
+},
+{
+"text": "[image: Kyle Pierce for Indiana]",
+"href": "https://www.pierceforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PierceForIndiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/pierceforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PierceForIN"
+}
 ]

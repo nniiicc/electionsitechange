@@ -1,9 +1,17 @@
 {
  "description": "",
  "final_url": "https://www.jamiejoyce.com/albany-needs",
- "paid_for_by": "Paid for by Jamie Joyce for Congress &nbsp; Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you",
+ "fingerprint": "d7a4b2c8a40a16bc0b00191beb138ba5623a2c23",
+ "format": 3,
+ "paid_for_by": "Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for",
  "title": "Jamie Joyce for Congress",
  "years_mentioned": [
+  "1963",
+  "1978",
+  "1983",
+  "1990",
+  "1997",
+  "2006",
   "2012",
   "2013",
   "2014",
@@ -20,6 +28,9 @@
   "2026",
   "2027",
   "2028",
-  "2029"
+  "2029",
+  "2030",
+  "2031",
+  "2035"
  ]
 }

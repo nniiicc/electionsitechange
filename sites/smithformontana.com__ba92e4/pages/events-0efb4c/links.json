@@ -1,10 +1,46 @@
 [
-"https://facebook.com/smithformontana",
-"https://instagram.com/melsformontana",
-"https://smithformontana.com/",
-"https://smithformontana.com/about",
-"https://smithformontana.com/donate",
-"https://smithformontana.com/get-involved",
-"https://smithformontana.com/issues",
-"https://tiktok.com/@melsinmt"
+{
+"text": "About",
+"href": "https://smithformontana.com/about/"
+},
+{
+"text": "Call or Text (406) 534-9879",
+"href": "tel:406-534-9879"
+},
+{
+"text": "Donate",
+"href": "https://smithformontana.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://smithformontana.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://smithformontana.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/melsformontana/"
+},
+{
+"text": "Issues",
+"href": "https://smithformontana.com/issues/"
+},
+{
+"text": "Jki-facebook-light",
+"href": "https://www.facebook.com/smithformontana"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@melsinmt"
+},
+{
+"text": "[image]",
+"href": "https://smithformontana.com"
+},
+{
+"text": "melissa@smithformontana.com",
+"href": "mailto:melissa@esmiths.net"
+}
 ]

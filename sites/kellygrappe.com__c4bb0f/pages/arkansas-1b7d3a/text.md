@@ -1,16 +1,12 @@
-Across Arkansas
-County presence
-Counties Kelly has visited and stops already on the public calendar.
-Where we've been
-Counties where Kelly has already made a public campaign stop.
-0 of 75 counties visited
-VisitedNot yet on the calendar
-County visits will appear here as they are added to the calendar.
-Where we're going
-Upcoming stops from the campaign calendar.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Across Arkansas County presence Counties Kelly has visited and stops already on the public calendar.
+Invite Kelly All 75 counties Campaign calendar Where we've been Counties where Kelly has already made a public campaign stop.
+0 of 75 counties visited Visited Not yet on the calendar County visits will appear here as they are added to the calendar.
+Search all 75 counties → Where we're going Upcoming stops from the campaign calendar.
 No upcoming public events are listed right now.
 Check the campaign calendar or invite Kelly to your community.
-Bring Kelly to your community
-Every county matters.
+Full campaign calendar Bring Kelly to your community Every county matters.
 Invite Kelly or share a local gathering.
-Community calendar items on /events include published campaign events and approved public listings.
+Invite Kelly Request an event Community calendar items on /events include published campaign events and approved public listings.
+Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

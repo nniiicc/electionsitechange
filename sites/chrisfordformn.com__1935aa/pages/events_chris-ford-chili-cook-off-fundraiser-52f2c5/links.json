@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Chris+Ford+Chili+Cook-off+Fundraiser&dates=20261009T223000Z%2F20261010T010000Z&location=11211+Club+West+Parkway+Northeast%2C+Minneapolis%2C+Minnesota%2C+55449%2C+United+States",
-"http://maps.google.com/?q=11211+Club+West+Parkway+Northeast+Minneapolis%2C+Minnesota%2C+55449+United+States",
-"https://chrisfordformn.com/",
-"https://chrisfordformn.com/about",
-"https://chrisfordformn.com/about-1",
-"https://chrisfordformn.com/cart",
-"https://chrisfordformn.com/contact",
-"https://chrisfordformn.com/donate",
-"https://chrisfordformn.com/endorsements",
-"https://chrisfordformn.com/events",
-"https://chrisfordformn.com/events/chris-ford-chili-cook-off-fundraiser?format=ical",
-"https://chrisfordformn.com/events/recurring-tuesday-phone-banks",
-"https://chrisfordformn.com/priorities",
-"https://facebook.com/people/Chris-Ford-for-Minnesota/61583983913457",
-"https://flickr.com/photos/204620145@N02",
-"https://instagram.com/chrisfordformn",
-"https://mobilize.us/s/jdwrdH",
-"https://secure.actblue.com/donate/10.9.fundraiser"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11211+club+west+parkway+northeast+minneapolis%2C+minnesota%2C+55449+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chrisfordformn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chrisfordformn.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chrisfordformn.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.chrisfordformn.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chrisfordformn.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chrisfordformn.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chrisfordformn.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Chris+Ford+Chili+Cook-off+Fundraiser&dates=20261009T223000Z%2F20261010T010000Z&location=11211+Club+West+Parkway+Northeast%2C+Minneapolis%2C+Minnesota%2C+55449%2C+United+States"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.chrisfordformn.com/about-1"
+},
+{
+"text": "ICS",
+"href": "https://www.chrisfordformn.com/events/chris-ford-chili-cook-off-fundraiser?format=ical"
+},
+{
+"text": "Previous Previous September 22 Recurring Tuesday Phone Banks",
+"href": "https://www.chrisfordformn.com/events/recurring-tuesday-phone-banks"
+},
+{
+"text": "Priorities",
+"href": "https://www.chrisfordformn.com/priorities"
+},
+{
+"text": "[image: Chris Ford for MN]",
+"href": "https://www.chrisfordformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Chris-Ford-for-Minnesota/61583983913457/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/204620145@N02/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chrisfordformn/"
+},
+{
+"text": "https://mobilize.us/s/jdwrdH",
+"href": "https://mobilize.us/s/jdwrdH"
+},
+{
+"text": "https://secure.actblue.com/donate/10.9.fundraiser",
+"href": "https://secure.actblue.com/donate/10.9.fundraiser"
+}
 ]

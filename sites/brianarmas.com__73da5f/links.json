@@ -1,8 +1,26 @@
 [
-"https://brianarmas.com/",
-"https://brianarmas.com/193-2",
-"https://brianarmas.com/privacy-policy",
-"https://lightfly.wufoo.com/forms/z1vxh9ox0g3zhpv",
-"https://lightfly.wufoo.com/forms/z1vxh9ox0g3zhpv?entsource=wordpress",
-"https://secure.winred.com/armas-for-arkansas/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/armas-for-arkansas/donate-today"
+},
+{
+"text": "Home",
+"href": "https://brianarmas.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianarmas.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://brianarmas.com/193-2/"
+},
+{
+"text": "[image: Brian Armas]",
+"href": "https://brianarmas.com/"
+},
+{
+"text": "online form",
+"href": "https://lightfly.wufoo.com/forms/z1vxh9ox0g3zhpv"
+}
 ]

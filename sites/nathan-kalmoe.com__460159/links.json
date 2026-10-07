@@ -1,24 +1,126 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwswew35j223",
-"https://docs.google.com/forms/d/e/1FAIpQLSeRmwHGMwQDHdZG8DqBZDNYoMehlL1lqgqv2gVMx_zQ7SPBwA/viewform",
-"https://en.wikipedia.org/wiki/Wisconsin%27s_27th_Senate_district",
-"https://facebook.com/share/p/19N8ortS7L",
-"https://instagram.com/p/Dd8-FuNkS2a?img_index=1",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/getting-it-right",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/social-media",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://opensecrets.org/officeholders/dianne-hesselbein/contributors?cycle=2022&id=13736118",
-"https://reckoning.wisc.edu/the-early-years",
-"https://tiktok.com/@nathankalmoeforsenate/photo/7691687603560598798"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwswew35j223"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/nathanforsenate.bsky.social/post/3mwtveug4os2e"
+},
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/p/19N8ortS7L/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/r/1LZquZMVwD/"
+},
+{
+"text": "Get yard signs & stickers!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeRmwHGMwQDHdZG8DqBZDNYoMehlL1lqgqv2gVMx_zQ7SPBwA/viewform"
+},
+{
+"text": "Hesselbein takes money from corporate PACs",
+"href": "https://www.opensecrets.org/officeholders/dianne-hesselbein/contributors?cycle=2022&id=13736118"
+},
+{
+"text": "Ho-Chunk land",
+"href": "https://reckoning.wisc.edu/the-early-years/"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dd8-FuNkS2a/?img_index=1"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/Dd98kGoMAxm/"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Share on social media!",
+"href": "https://www.nathan-kalmoe.com/social-media"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nathankalmoeforsenate/photo/7691687603560598798"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@nathankalmoeforsenate/video/7691826089085259022"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "email me",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "here",
+"href": "https://en.wikipedia.org/wiki/Wisconsin%27s_27th_Senate_district#/map/0"
+},
+{
+"text": "here",
+"href": "https://www.nathan-kalmoe.com/getting-it-right"
+},
+{
+"text": "listening sessions",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+}
 ]

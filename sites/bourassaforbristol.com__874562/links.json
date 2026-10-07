@@ -1,8 +1,46 @@
 [
-"https://secure.actblue.com/donate/bourassa-for-bristol",
-"https://secure.actblue.com/donate/bourassa-for-bristol?amount=10",
-"https://secure.actblue.com/donate/bourassa-for-bristol?amount=100",
-"https://secure.actblue.com/donate/bourassa-for-bristol?amount=25",
-"https://secure.actblue.com/donate/bourassa-for-bristol?amount=250",
-"https://secure.actblue.com/donate/bourassa-for-bristol?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol?amount=50"
+},
+{
+"text": "(603) 969-1216",
+"href": "tel:6039691216"
+},
+{
+"text": "Invest",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol"
+},
+{
+"text": "Invest Now",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol"
+},
+{
+"text": "Invest via ActBlue",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/bourassa-for-bristol"
+},
+{
+"text": "bourassaforbristol@gmail.com",
+"href": "mailto:bourassaforbristol@gmail.com"
+}
 ]

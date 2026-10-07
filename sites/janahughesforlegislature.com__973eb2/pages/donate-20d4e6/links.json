@@ -1,10 +1,34 @@
 [
-"https://facebook.com/people/Jana-Hughes-for-Legislature/100075874397959",
-"https://janahughesforlegislature.com/",
-"https://janahughesforlegislature.com/about",
-"https://janahughesforlegislature.com/contact",
-"https://janahughesforlegislature.com/district-24",
-"https://janahughesforlegislature.com/donate",
-"https://janahughesforlegislature.com/issues",
-"https://janahughesforlegislature.com/volunteer"
+{
+"text": "About Jana",
+"href": "https://janahughesforlegislature.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://janahughesforlegislature.com/contact/"
+},
+{
+"text": "District 24",
+"href": "https://janahughesforlegislature.com/district-24/"
+},
+{
+"text": "Donate",
+"href": "https://janahughesforlegislature.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/people/Jana-Hughes-for-Legislature/100075874397959/"
+},
+{
+"text": "Issues",
+"href": "https://janahughesforlegislature.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://janahughesforlegislature.com/volunteer/"
+},
+{
+"text": "[image: Jana Hughes for Legislature]",
+"href": "https://janahughesforlegislature.com/"
+}
 ]

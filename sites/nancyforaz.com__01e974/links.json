@@ -1,13 +1,58 @@
 [
-"https://adlcc.com/about-1",
-"https://azleg.gov/House/House-member?legislature=57&session=130&legislator=2310",
-"https://azmirror.com/briefs/ddd-community-celebrates-the-women-who-fought-for-vital-funding-bill",
-"https://facebook.com/nancyforaz",
-"https://hunt-institute.org/programs/hunt-kean-leadership-fellows-program",
-"https://instagram.com/nancyforaz",
-"https://mailchi.mp/a193ce05c8b5/votingbeginssoon",
-"https://my.arizona.vote/",
-"https://secure.actblue.com/donate/nancy-for-az-3",
-"https://servicearizona.com/VoterRegistration/selectLanguage",
-"https://youtube.com/channel/UC-UsPKEvRo90yjInyvIv1fQ"
+{
+"text": "(520) 222-9969",
+"href": "tel:+15202229969"
+},
+{
+"text": "Arizona Democratic Legislative Campaign Committee (ADLCC)",
+"href": "https://adlcc.com/about-1"
+},
+{
+"text": "Arizona Mirror, April 30, 2025",
+"href": "https://azmirror.com/briefs/ddd-community-celebrates-the-women-who-fought-for-vital-funding-bill/"
+},
+{
+"text": "Bills Sponsored current session · azleg.gov",
+"href": "https://www.azleg.gov/House/House-member/?legislature=57&session=130&legislator=2310"
+},
+{
+"text": "Check my registration",
+"href": "https://my.arizona.vote/"
+},
+{
+"text": "Check your registration",
+"href": "https://my.arizona.vote/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nancy-for-az-3"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/nancyforaz"
+},
+{
+"text": "Hunt Institute",
+"href": "https://hunt-institute.org/programs/hunt-kean-leadership-fellows-program/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nancyforaz/"
+},
+{
+"text": "Read the latest",
+"href": "https://mailchi.mp/a193ce05c8b5/votingbeginssoon"
+},
+{
+"text": "Register to vote",
+"href": "https://servicearizona.com/VoterRegistration/selectLanguage"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UC-UsPKEvRo90yjInyvIv1fQ"
+},
+{
+"text": "nancyforaz@gmail.com",
+"href": "mailto:nancyforaz@gmail.com"
+}
 ]

@@ -1,18 +1,86 @@
 [
-"https://bob4colorado.com/about",
-"https://bob4colorado.com/canvass",
-"https://bob4colorado.com/contact",
-"https://bob4colorado.com/events-1",
-"https://bob4colorado.com/hd43",
-"https://bob4colorado.com/news",
-"https://bob4colorado.com/news/categories/2025-legislative-newsletters",
-"https://bob4colorado.com/news/categories/2026-campaign-re-elect-bob-marshall",
-"https://bob4colorado.com/news/categories/legislative-newsletter",
-"https://bob4colorado.com/platform",
-"https://bob4colorado.com/post/e-bike-tax-rebates",
-"https://bob4colorado.com/post/rip-jason-harwell",
-"https://bob4colorado.com/post/sneaky-hobbitses",
-"https://facebook.com/Bob4Colorado",
-"https://secure.actblue.com/donate/bob-4-colorado-1",
-"https://twitter.com/Bob4Colorado"
+{
+"text": "2025 Legislative Newsletters",
+"href": "https://www.bob4colorado.com/news/categories/2025-legislative-newsletters"
+},
+{
+"text": "2026 Campaign Re-Elect Bob Marshall",
+"href": "https://www.bob4colorado.com/news/categories/2026-campaign-re-elect-bob-marshall"
+},
+{
+"text": "2026 Legislative Newsletters",
+"href": "https://www.bob4colorado.com/news/categories/legislative-newsletter"
+},
+{
+"text": "About",
+"href": "https://www.bob4colorado.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "Canvass",
+"href": "https://www.bob4colorado.com/canvass"
+},
+{
+"text": "Contact",
+"href": "https://www.bob4colorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bob-4-colorado-1"
+},
+{
+"text": "E-BIKE Tax Rebates",
+"href": "https://www.bob4colorado.com/post/e-bike-tax-rebates"
+},
+{
+"text": "Events",
+"href": "https://www.bob4colorado.com/events-1"
+},
+{
+"text": "HD43",
+"href": "https://www.bob4colorado.com/hd43"
+},
+{
+"text": "News",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.bob4colorado.com/platform"
+},
+{
+"text": "RIP Jason Harwell",
+"href": "https://www.bob4colorado.com/post/rip-jason-harwell"
+},
+{
+"text": "See All",
+"href": "https://www.bob4colorado.com/news"
+},
+{
+"text": "Sneaky Hobbitses",
+"href": "https://www.bob4colorado.com/post/sneaky-hobbitses"
+},
+{
+"text": "[image: E-BIKE Tax Rebates]",
+"href": "https://www.bob4colorado.com/post/e-bike-tax-rebates"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Bob4Colorado"
+},
+{
+"text": "[image: RIP Jason Harwell]",
+"href": "https://www.bob4colorado.com/post/rip-jason-harwell"
+},
+{
+"text": "[image: Sneaky Hobbitses]",
+"href": "https://www.bob4colorado.com/post/sneaky-hobbitses"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/Bob4Colorado"
+}
 ]

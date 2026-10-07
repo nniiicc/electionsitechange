@@ -1,5 +1,7 @@
-April 2025 Letter
-We began the month rallying for medicaid, and medicare in the April showers.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all April, and a Horrible, No Good, Very Bad Budget.
+April, and a Horrible, No Good, Very Bad Budget.
+April, and a Horrible, No Good, Very Bad Budget.
+Apr 30, 2025 Apr 30, 2025 April 2025 Letter April Showers - 7 April 2025 - 16:23 - Concord, NH - Taken by Jonah April Showers - 7 April 2025 - 16:23 - Concord, NH - Taken by Jonah We began the month rallying for medicaid, and medicare in the April showers.
 The looming threats to the system from the State and Federal governments have brought out people from all sides of the spectrum to advocate for the care they are able to receive because of these programs.
 The elderly on fixed incomes, the children on the brink of or in poverty, the pregnant mothers; those on the edges of society who are in need of aid from the larger society.
 A social safety net to ensure the poverty we saw in this country during the 19th and 20th centuries is never seen again.
@@ -38,8 +40,7 @@ Returning to the chamber, the Speaker reopened the session and Representative Gr
 He was met with boos, and the Speaker snapped at the members yelling for order.
 Granger continued on to give his parliamentary inquiry to why he’s moving removal, stating “If I know that its always good to have a little huddle.
 And if I know that it is good to have a couple little chats about what we’re going to do.
-And if I know that everyone on my team is going to be doing exactly what we agreed to, and that we’re going to be sticking together, then would I press the green button?”
-The Speaker opened the thirty second vote and the bell rang to mark the end of the time.
+And if I know that everyone on my team is going to be doing exactly what we agreed to, and that we’re going to be sticking together, then would I press the green button?” The Speaker opened the thirty second vote and the bell rang to mark the end of the time.
 A moment of quiet paused engulfed the chamber as the clerk checked the votes to ensure everyone voted.
 On a vote of 193 yeas to 170 nays, the bill was removed from the table.
 Representative Joe Sweeney, the floor leader for the majority caucus, hopped up to the podium and moved the previous question.
@@ -51,7 +52,7 @@ The House then quickly moved through the remaining amendments and voted to pass 
 The budget is now onto the Senate.
 Where they will compile their own revenue estimates, and expenditures.
 That will then come back to the House where we will get another bite at the apple.
-It hasn’t been all doom and gloom in the State House.
+Profile Shots - 8 April 2025 - 15:55 - Concord, NH - Taken by Photographer for the Free Press Profile Shots - 8 April 2025 - 15:55 - Concord, NH - Taken by Photographer for the Free Press It hasn’t been all doom and gloom in the State House.
 Serving on the Environment and Agriculture committee this session has been a whole other world than the proceedings on the floor.
 The committee is chaired by Representative Judy Aron.
 The ranking member of the committee, aka the head democrat, is Representative Peter Bixby.
@@ -85,4 +86,4 @@ It all seemed so gloomy this month.
 The rain, the politics, the unbelievable made for tv movie going on around us at all times.
 The weights of the world which for so long our comforts allowed us to ignore are becoming unavoidable.
 Yet we are reminded by source as we are each Easter Sunday, that no matter how dark it gets in the winter, the sun shall shine again.
-Back to all
+Easter Sunrise - 20 April 2025 - 06:10 - Peterborough, NH - Taken by Jonah Easter Sunrise - 20 April 2025 - 06:10 - Peterborough, NH - Taken by Jonah ‹ Getting the Gavel ‹ Getting the Gavel ‹ Getting the Gavel How Do You Sleep At Night? › How Do You Sleep At Night? › How Do You Sleep At Night? › Back to all

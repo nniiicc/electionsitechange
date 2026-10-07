@@ -1,7 +1,9 @@
 {
  "description": "Approve Users on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ApproveUsers",
- "paid_for_by": null,
+ "fingerprint": "5ba886fce8abf09c652e1ea450b915bc4e60529f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Approve Users | Maxwell for Congress",
  "years_mentioned": []
 }

@@ -1,13 +1,50 @@
 [
-"https://drsusanformo.com/",
-"https://drsusanformo.com/about",
-"https://drsusanformo.com/cart",
-"https://drsusanformo.com/endorsements",
-"https://drsusanformo.com/media",
-"https://drsusanformo.com/privacy-policy",
-"https://drsusanformo.com/scheduling",
-"https://drsusanformo.com/scheduling-1",
-"https://drsusanformo.com/volunteer",
-"https://facebook.com/DrSusanforMO",
-"https://secure.actblue.com/donate/susan-hoisington-1"
+{
+"text": "0",
+"href": "https://www.drsusanformo.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.drsusanformo.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/susan-hoisington-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drsusanformo.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.drsusanformo.com/scheduling"
+},
+{
+"text": "Learn more",
+"href": "https://www.drsusanformo.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.drsusanformo.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.drsusanformo.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.drsusanformo.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.drsusanformo.com/scheduling-1"
+},
+{
+"text": "[image: Susan Hoisington]",
+"href": "https://www.drsusanformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DrSusanforMO/"
+}
 ]

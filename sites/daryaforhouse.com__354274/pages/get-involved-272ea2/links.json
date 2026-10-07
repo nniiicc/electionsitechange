@@ -1,15 +1,66 @@
 [
-"https://daryaforhouse.com/",
-"https://daryaforhouse.com/about",
-"https://daryaforhouse.com/access",
-"https://daryaforhouse.com/contact",
-"https://daryaforhouse.com/endorsements",
-"https://daryaforhouse.com/get-involved",
-"https://daryaforhouse.com/issues",
-"https://daryaforhouse.com/news",
-"https://daryaforhouse.com/rsvp",
-"https://facebook.com/DaryaForHouse",
-"https://linkedin.com/in/darya-farivar-52ab61103",
-"https://secure.actblue.com/donate/friends-of-darya-farivar-1",
-"https://twitter.com/Darya4House"
+{
+"text": "About",
+"href": "https://daryaforhouse.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://daryaforhouse.com/access/"
+},
+{
+"text": "Contact",
+"href": "https://daryaforhouse.com/contact/"
+},
+{
+"text": "Door Knocking Meet your neighbors and share Darya's vision for the district.",
+"href": "https://secure.actblue.com/donate/friends-of-darya-farivar-1"
+},
+{
+"text": "Endorsements",
+"href": "https://daryaforhouse.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DaryaForHouse"
+},
+{
+"text": "Fundraising Help power the movement with your financial support.",
+"href": "https://secure.actblue.com/donate/friends-of-darya-farivar-1"
+},
+{
+"text": "Get Involved",
+"href": "https://daryaforhouse.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://daryaforhouse.com/issues/"
+},
+{
+"text": "Linkedin-in",
+"href": "https://www.linkedin.com/in/darya-farivar-52ab61103/"
+},
+{
+"text": "News",
+"href": "https://daryaforhouse.com/news/"
+},
+{
+"text": "Phone Banking Connect with voters from the comfort of your own home.",
+"href": "https://secure.actblue.com/donate/friends-of-darya-farivar-1"
+},
+{
+"text": "RSVP",
+"href": "https://daryaforhouse.com/rsvp/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/Darya4House"
+},
+{
+"text": "Yard Signs Show your support! Order a yard sign and spread the word.",
+"href": "https://secure.actblue.com/donate/friends-of-darya-farivar-1"
+},
+{
+"text": "[image]",
+"href": "https://daryaforhouse.com"
+}
 ]

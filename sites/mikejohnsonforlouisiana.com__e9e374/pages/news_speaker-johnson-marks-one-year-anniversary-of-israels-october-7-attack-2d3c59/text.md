@@ -1,12 +1,8 @@
-Speaker Johnson Marks One Year Anniversary of Israel's October 7 Attack
-October 8, 2024
-Contact: Greg Steele
-LAS VEGAS, NV – Speaker Mike Johnson joined Jewish faith leaders and community members at Young Israel Aish in Las Vegas yesterday to mark the one year anniversary of Hamas's barbaric terrorist attack in Israel.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson Marks One Year Anniversary of Israel's October 7 Attack Oct 8 Written By Rachel Kjellman October 8, 2024 Contact: Greg Steele LAS VEGAS, NV – Speaker Mike Johnson joined Jewish faith leaders and community members at Young Israel Aish in Las Vegas yesterday to mark the one year anniversary of Hamas's barbaric terrorist attack in Israel.
 Speaker Johnson participated in a candle lighting in remembrance of those lost and delivered remarks voicing America's support for our ally Israel and against the rise of Antisemitism across the world.
 Also delivering remarks were Rabbi Yitz Wyne and Matt Brooks, CEO of the Republican Jewish Coalition.
 Following the remarks, prayers were offered recognizing the American and IDF soldiers risking their lives to protect the state of Israel and its people, and the memory of those lost in the last year.
-An excerpt of Speaker Johnson's remarks below:
-"This is a tragic anniversary.
+An excerpt of Speaker Johnson's remarks below: "This is a tragic anniversary.
 In some ways, it seems like it just happened yesterday, but in other ways, it seems like an eternity, and it certainly does for the families of the hostages that are still there and all of us who are so deeply affected.
 "Since World War II, there's not been anything like this that's happened at this level, of course, to the Jewish people, and what it's unleashed.
 And it's been a very difficult thing for all of us.
@@ -36,6 +32,10 @@ I also believe we are going to grow my House Majority.
 We're going to win the Senate back as well.
 "Why that matters is not just for the economy, not just for energy policy, not just for reduced crime, the cost of living.
 All of those things are true.
-But most important is so that we can project strength on the world stage again so that our enemies will fear us, and our allies will respect us, and we can take our rightful place that we have had since World War II when the leadership of the free world was placed upon the shoulders of the United States."
-Watch coverage of the Speaker's visit here.
-###
+But most important is so that we can project strength on the world stage again so that our enemies will fear us, and our allies will respect us, and we can take our rightful place that we have had since World War II when the leadership of the free world was placed upon the shoulders of the United States." Watch coverage of the Speaker's visit here .
+### Rachel Kjellman Previous Previous Speaker Johnson Sets Record for Republican House Speaker in Third Quarter Next Next Speaker Johnson on the Vice Presidential Debate:'Tonight proved Harris and Walz are the most radical, left-wing ticket in history' Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

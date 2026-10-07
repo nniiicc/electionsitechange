@@ -1,12 +1,42 @@
 [
-"https://parajonfornm.com/",
-"https://parajonfornm.com/about",
-"https://parajonfornm.com/news",
-"https://parajonfornm.com/post/2025-pilot-program-to-support-workforce-training",
-"https://parajonfornm.com/post/albuquerque-house-district-25-gets-a-new-representative",
-"https://parajonfornm.com/post/waiting-period-bill-passed",
-"https://parajonfornm.com/profile/parajon-for-nm/events",
-"https://parajonfornm.com/profile/parajon-for-nm/profile",
-"https://parajonfornm.com/projects-6",
-"https://secure.actblue.com/donate/parajon-for-nm"
+{
+"text": "Events",
+"href": "https://www.parajonfornm.com/profile/parajon-for-nm/events"
+},
+{
+"text": "Home",
+"href": "https://www.parajonfornm.com"
+},
+{
+"text": "INVEST",
+"href": "https://secure.actblue.com/donate/parajon-for-nm"
+},
+{
+"text": "ISSUES",
+"href": "https://www.parajonfornm.com/projects-6"
+},
+{
+"text": "MEET CRISTINA",
+"href": "https://www.parajonfornm.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.parajonfornm.com/news"
+},
+{
+"text": "Profile",
+"href": "https://www.parajonfornm.com/profile/parajon-for-nm/profile"
+},
+{
+"text": "[image]Aug 11, 2023 ∙ 3 minSuccessor to District 25 Rep becomes the youngest female state legislatorRep. Parajón was appointed to fill the District 25 seat in the NM House of Representatives and is now the youngest female state legislator.1370",
+"href": "https://www.parajonfornm.com/post/albuquerque-house-district-25-gets-a-new-representative"
+},
+{
+"text": "[image]Feb 11, 2024 ∙ 4 minBill passed requiring a waiting period for gun buyersRep. Parajón sponsored House Bill 129 was passed, requiring gun sellers to wait 7 days after purchase to deliver a gun to the buyer.150",
+"href": "https://www.parajonfornm.com/post/waiting-period-bill-passed"
+},
+{
+"text": "[image]Jun 4, 2024 ∙ 2 min2025 pilot program to support workforce trainingRep. Parajon sponsored House Bill 303, creating a pilot program to test how stipends for work training can help increase access to jobs430",
+"href": "https://www.parajonfornm.com/post/2025-pilot-program-to-support-workforce-training"
+}
 ]

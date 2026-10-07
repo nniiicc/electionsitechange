@@ -1,10 +1,42 @@
 [
-"https://electjay.com/",
-"https://electjay.com/author/obernolteadmin",
-"https://facebook.com/ElectJay",
-"https://flickr.com/photos/185135131@N02",
-"https://instagram.com/teamobernolte",
-"https://secure.winred.com/JayObernolte/donate",
-"https://x.com/TeamObernolte",
-"https://youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/JayObernolte/donate"
+},
+{
+"text": "Home",
+"href": "https://electjay.com/"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[image: Jay Obernolte for Congress Logo] [image: Jay Obernolte for Congress Logo]",
+"href": "https://electjay.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/ElectJay/"
+},
+{
+"text": "[tooltip: Flickr]",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/teamobernolte/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/TeamObernolte"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+},
+{
+"text": "obernolteadmin",
+"href": "https://electjay.com/author/obernolteadmin/"
+}
 ]

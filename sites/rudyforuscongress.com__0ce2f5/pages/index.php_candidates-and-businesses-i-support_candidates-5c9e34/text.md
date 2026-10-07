@@ -1,15 +1,4 @@
-Federal Races 2026
-Katherine Piccinini for California 10th Assembly District
-Chris Bish for Congress CD 6
-Melissa Toomim for Congress CD 36
-State Races
-Chad Bianco for Governor
-Steve Hilton for Governor
-Jenny Callison for California 11th Assembly District
-Local Races
-Katrina Garcia for Suisun City Council
-Comments are closed.
-Find Your Congressional District
-Click here to see a detailed map of your district
-Rudy's podcast Boot's on the Ground
-Register to Vote in California
+Major (Ret) Rudy Recile For U.S.
+Congress "Ang Inyong Lingkod" (At Your Service) Menu Skip to content Home About Issues Support for Veterans Education and School Choice Energy Independence Accountability in Government Spending Politics Volunteer Donate Interviews and Media coverage Candidates and Businesses I Support Candidates Businesses I support Contact Us Past Events Candidates Federal Races 2026 Katherine Piccinini for California 10th Assembly District Chris Bish for Congress CD 6 Melissa Toomim for Congress CD 36 State Races Chad Bianco for Governor Steve Hilton for Governor Jenny Callison for California 11th Assembly District Local Races Katrina Garcia for Suisun City Council Comments are closed.
+Donate Here Click on Map to see more detail Find Your Congressional District Click here to see a detailed map of your district Rudy's podcast Boot's on the Ground Register to Vote in California Major (Ret) Rudy Recile For U.S.
+Congress | Powered by Mantra & WordPress.

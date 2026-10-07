@@ -1,9 +1,12 @@
 {
  "description": "Please join a virtual fundraiser in support of Rita Mayfield.",
  "final_url": "https://www.voteritamayfield.com/2020/06/29/join-in-support-of-rita/",
- "paid_for_by": null,
+ "fingerprint": "aabe4d6ac133586a49720604d8b5fbce1d78fef1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Join in Support of Rita",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2024"
  ]
 }

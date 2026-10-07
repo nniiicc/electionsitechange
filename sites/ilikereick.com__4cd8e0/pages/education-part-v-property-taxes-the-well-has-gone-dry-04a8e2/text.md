@@ -1,9 +1,6 @@
-Education Part V: Property Taxes, the Well Has Gone Dry
-“The State has the primary responsibility for financing the system of public education.”
-Constitution of Illinois, Article X, Section 1
-Question: Why do property taxes keep going up?
+Skip to content Contribute Other ways to help About Steve Legislation Videos Steve’s Blog Contact Steve's Blog “We cannot solve our problems with the same thinking we used when we created them.” – Albert Einstein Back to Steve's Blog Education Part V: Property Taxes, the Well Has Gone Dry “The State has the primary responsibility for financing the system of public education.” Constitution of Illinois, Article X, Section 1 Question: Why do property taxes keep going up?
 Answer: Because they can.
-Over the past several posts, I’ve discussed the means by which the state funds education, primarily through the General State Aid formula and the Poverty Grant.
+Over the past several posts, I’ve discussed the means by which the state funds education, primarily through the General State Aid formula and the Poverty Grant .
 Just as every golfer knows that putts break toward the water, both of these means of funding have been gerrymandered in such a way as to bend the funding curve toward Lake Michigan and the Chicago Public School system, away from the collar counties and districts downstate.
 That leaves the property tax as the last leg on the funding stool.
 As GSA and Poverty funds get diverted toward Chicago, districts in the collar counties have had to rely to a larger degree on property taxes to fund their schools.
@@ -18,8 +15,7 @@ Your taxes may not go up so much when your assessed valuation declines, but it�
 The politicians in Springfield love this arrangement for several reasons.
 One is that they can impose all sorts of unfunded mandates on schools and stick the locals with the tab.
 The second is that, since the majority of the Democrats’ power structure resides in Cook County, howls of protest from overburdened property owners in the collar counties tend to fall on deaf ears.
-The following chart will illustrate what I mean:
-These two properties belong to clients of mine.
+The following chart will illustrate what I mean: Click Image to Enlarge These two properties belong to clients of mine.
 One lives in McHenry, and the other lives on the north side of Chicago.
 Their houses are roughly the same value, but the guy in McHenry pays almost double the taxes as the guy in Chicago, even though his house is house is worth almost $6,000 LESS.
 That’s because the Chicago property is assessed at 10% of its fair market value and the McHenry property, like every other residential property in Illinois is assessed at 1/3rd of its fair market value.
@@ -30,7 +26,8 @@ So there you have it, folks.
 You now know as much about school funding in Illinois as I do.
 So how do we fix it?
 We’ll discuss that in the next installment.
-- susan This is a good opportunity to elaborate on the deleterious effect TIFs have on property tax rates, and therefore on property tax value destruction.
+Leave a Reply Cancel Reply Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Submit Δ susan October 29, 2015 at 9:56 am This is a good opportunity to elaborate on the deleterious effect TIFs have on property tax rates, and therefore on property tax value destruction.
 1.
 TIFs take money for 35 years, long after alleged ‘blight’ has been corrected.
 The money TIFs take includes normal inflationary tax increases on existing homes that were included in the TIF taxing district.
@@ -56,5 +53,14 @@ Solution: Change the rules for TIFs such that they not be allowed to be ‘For P
 If Chicago property tax money started to go to its schools, it would alter the formula of state funding.
 And Chicago property tax rates would go down substantially.
 If Chicago property tax RATES go back below 2% of total home value, it might be a little harder for Woodstock (for example) to justify property tax rates of 5% of total home value.
-- Pingback: OK, Mr.
-Speaker, the Ball’s in Your Court. |
+Reply Pingback: OK, Mr.
+Speaker, the Ball’s in Your Court. | Sign up for updates Email Sign Up First Name Last Name Email * Phone SIGN UP If you are human, leave this field blank. Δ By submitting this form, you are consenting to receive marketing emails from: Citizens to Elect Steven Reick, P.O.
+Box 27, Harvard, IL, 60033.
+You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
+Chicago Public Schools / General State Aid / Poverty Grant / Property Taxes / Funded by Citizens to Elect Steven Reick.
+A copy of our report filed with the state board of elections is (or will be) available on the board’s official website (www.Elections.Il.Gov) or for purchase from the state board of elections, Springfield, Illinois.
+Privacy Policy © # Steve Reick.
+All Rights Reserved.
+Website designed and developed by TurnKey Digital.
+Contribute Other ways to help About Steve Legislation Videos Steve’s Blog Contact © # Steve Reick.
+All Rights Reserved.

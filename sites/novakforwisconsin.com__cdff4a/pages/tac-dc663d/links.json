@@ -1,6 +1,34 @@
 [
-"https://facebook.com/VoteToddNovak",
-"https://novakforwisconsin.com/",
-"https://secure.anedot.com/novak-for-assembly/donate",
-"https://twitter.com/VoteToddNovak"
+{
+"text": "ABOUT",
+"href": "https://www.novakforwisconsin.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/novak-for-assembly/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.novakforwisconsin.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.novakforwisconsin.com"
+},
+{
+"text": "WATER QUALITY TASK FORCE",
+"href": "https://www.novakforwisconsin.com"
+},
+{
+"text": "WHERE I STAND",
+"href": "https://www.novakforwisconsin.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/VoteToddNovak/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/VoteToddNovak"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Delegate Ryan Spiegel represents District 17 (Gaithersburg and Rockville) in the Maryland House of Delegates.",
  "final_url": "https://www.ryanspiegel.com/",
- "paid_for_by": null,
+ "fingerprint": "5cba3159136863f5953ba1c166caab9b1757e1ce",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Delegate Ryan Spiegel",
  "years_mentioned": [
   "2026"

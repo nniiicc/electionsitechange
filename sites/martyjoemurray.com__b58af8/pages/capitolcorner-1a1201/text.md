@@ -1,46 +1,26 @@
-Capitol Corner: Constitutional Amendments Breakdown
-AMENDMENT 4 OVERVIEW : VOTE NO Amendment 4 would effectively eliminate use of the initiative petition process to change the Missouri Constitution by setting an impossibly high bar for voter ratification of future constitutional amendments proposed by petition.
-It will appear on the Aug. 4 statewide ballot.
-The Missouri General Assembly placed Amendment 4 before…
-Hearing Notice: HCR 28 Infertility Awareness
-Public Hearing on Resolution Recognizing Infertility Awareness Week in Missouri JEFFERSON CITY — Today, the Missouri House Health and Mental Health Committee is holding a public hearing on House Concurrent Resolution 28 (HCR 28), legislation sponsored by State Representative Marty Joe Murray that would designate the last full week of April each year as “Infertility…
-Capitol Corner: February 2026
-State of The State: Cuts, Cuts, Cuts.
+Skip to content Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Capitol Corner Type your email… Subscribe Capitol Corner: Constitutional Amendments Breakdown AMENDMENT 4 OVERVIEW : VOTE NO Amendment 4 would effectively eliminate use of the initiative petition process to change the Missouri Constitution by setting an impossibly high bar for voter ratification of future constitutional amendments proposed by petition.
+It will appear on the Aug.
+4 statewide ballot.
+The Missouri General Assembly placed Amendment 4 before… by Marty Joe Murray August 3, 2026 Hearing Notice: HCR 28 Infertility Awareness Public Hearing on Resolution Recognizing Infertility Awareness Week in Missouri JEFFERSON CITY — Today, the Missouri House Health and Mental Health Committee is holding a public hearing on House Concurrent Resolution 28 (HCR 28), legislation sponsored by State Representative Marty Joe Murray that would designate the last full week of April each year as “Infertility… by Marty Joe Murray March 12, 2026 Capitol Corner: February 2026 State of The State: Cuts, Cuts, Cuts.
 During the Governor’s State of the State address, we heard familiar themes; tax cuts, deregulation, and shifting responsibilities away from government services.
 While economic growth is important, growth must benefit working families, not just corporations and high-income earners.
-As we now review the proposed budget, I will be…
-Capitol Corner: Pre-Filed Bills 2026
-If Missouri lawmakers are willing to pass legislation giving billionaires massive tax breaks through capital gains loopholes and incentive packages for professional sports teams, then we can certainly pass a law that supports the people who actually keep our state running.
+As we now review the proposed budget, I will be… by Marty Joe Murray February 16, 2026 Capitol Corner: Pre-Filed Bills 2026 If Missouri lawmakers are willing to pass legislation giving billionaires massive tax breaks through capital gains loopholes and incentive packages for professional sports teams, then we can certainly pass a law that supports the people who actually keep our state running.
 The Missouri Worker Dues Tax Fairness Act does just that.
-It recognizes that everyday…
-October Neighborhood Tour Slides
-During the month of October and November I toured every neighborhood association in the district to provide the following updates.
+It recognizes that everyday… by Marty Joe Murray December 8, 2025 December 13, 2025 October Neighborhood Tour Slides During the month of October and November I toured every neighborhood association in the district to provide the following updates.
 The Missouri General Assembly meets each year from January to mid-May, and during that time every bill must travel a long, structured path before becoming law.
-Bills are first filed and assigned to committee, where…
-Capitol Corner: November 2025
-Federal Government Shutdown Causing Missourians to Lose Food Assistance An estimated 667,000 Missourians are slated to lose their food assistance benefits starting in November due to the ongoing shutdown of the Republican-controlled federal government.
-While the Missouri Department of Social Services will continue to accept new applications for the program, no benefits will be distributed…
-Rep Marty Joe Murray to Host Utility Assistance Fair
-Required Documents Photo ID (A photo of a valid State Photo ID or valid Drivers’s License) Proof of Income (If Applicable, Paycheck Stubs, SSI Letter Unemployment Letter, TANF, etc ) Proof of Primary Residence (Utility Bill) Proof of Social Security Number( needed for City of STL Water Bill) Past Due Utility Bill/ Disconnect Notice Utilities…
-Gerrymandering & Citizen Petition Sabotage Testimony
-Governor Kehoe has called a special session, but let’s be clear: this is not just routine business.
+Bills are first filed and assigned to committee, where… by Marty Joe Murray November 21, 2025 November 21, 2025 Capitol Corner: November 2025 Federal Government Shutdown Causing Missourians to Lose Food Assistance An estimated 667,000 Missourians are slated to lose their food assistance benefits starting in November due to the ongoing shutdown of the Republican-controlled federal government.
+While the Missouri Department of Social Services will continue to accept new applications for the program, no benefits will be distributed… by Marty Joe Murray November 12, 2025 Rep Marty Joe Murray to Host Utility Assistance Fair Required Documents Photo ID (A photo of a valid State Photo ID or valid Drivers’s License) Proof of Income (If Applicable, Paycheck Stubs, SSI Letter Unemployment Letter, TANF, etc ) Proof of Primary Residence (Utility Bill) Proof of Social Security Number( needed for City of STL Water Bill) Past Due Utility Bill/ Disconnect Notice Utilities… by Marty Joe Murray September 19, 2025 Gerrymandering & Citizen Petition Sabotage Testimony Governor Kehoe has called a special session, but let’s be clear: this is not just routine business.
 This move comes at a time when gerrymandering has twisted the will of the people into a political weapon, rigging districts so voices get silenced instead of heard.
 On top of that, the citizen petition process.
-One of…
-Murray Passes Language to Protect Workers
-Missouri Legislature Passes Language to Protect Workers in Payroll Processing Agreements JEFFERSON CITY, MO — Within Senate Bill 98 the Missouri General Assembly has approved new statutory language to clarify and protect the rights of employees and payees when payroll services are outsourced to third-party processors.
-Murray’s amended provision ensures accountability and reinforces safeguards for…
-8th Ward Alderman Debate
-The future of the 8th Ward is in your hands.
+One of… by Marty Joe Murray September 4, 2025 Murray Passes Language to Protect Workers Missouri Legislature Passes Language to Protect Workers in Payroll Processing Agreements JEFFERSON CITY, MO — Within Senate Bill 98 the Missouri General Assembly has approved new statutory language to clarify and protect the rights of employees and payees when payroll services are outsourced to third-party processors.
+Murray’s amended provision ensures accountability and reinforces safeguards for… by Marty Joe Murray July 14, 2025 July 14, 2025 8th Ward Alderman Debate The future of the 8th Ward is in your hands.
 As we approach the special election on July 1, this is your final opportunity to hear directly from the candidates who want to lead our community.
 Join us for the last Candidates Forum before Election Day.
-Date: Saturday, June 28 Time: 2:00 PM – 4:00…
-Capitol Corner: End of Session 2025
-Representative Murray 1st Year Successes Six Amendments Passed: This legislative session, I passed more amendments than any other House Democrat, demonstrating a strong commitment to thoughtful, impactful policymaking.
+Date: Saturday, June 28 Time: 2:00 PM – 4:00… by Marty Joe Murray June 28, 2025 Capitol Corner: End of Session 2025 Representative Murray 1st Year Successes Six Amendments Passed: This legislative session, I passed more amendments than any other House Democrat, demonstrating a strong commitment to thoughtful, impactful policymaking.
 Each amendment reflected a clear understanding of the needs of everyday Missourians and a willingness to work across the aisle to deliver results.
-From protecting workers and…
-Capitol Corner: April 2025
-State Representatives Passes $2.01 Million in the House.
+From protecting workers and… by Marty Joe Murray June 23, 2025 Capitol Corner: April 2025 State Representatives Passes $2.01 Million in the House.
 State Representative Marty Murray proudly announces that the Missouri House of Representatives has passed its budget, advancing it to the Senate for further consideration.
 Through strategic negotiations and steadfast advocacy, Rep.
-Murray has secured over $2 million in targeted community investments that will directly benefit the 78th…
+Murray has secured over $2 million in targeted community investments that will directly benefit the 78th… by Marty Joe Murray April 19, 2025 April 21, 2025 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

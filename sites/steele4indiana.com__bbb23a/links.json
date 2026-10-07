@@ -1,9 +1,34 @@
 [
-"http://facebook.com/share/17JBH2iEfk?mibextid=wwXlfr",
-"http://indianavoters.com/",
-"http://linkedin.com/in/sean-steele-5989a13b3",
-"http://tiktok.com/@steele4indiana",
-"https://in.gov/sos/elections",
-"https://instagram.com/steele4indiana",
-"https://steele4indiana.com/"
+{
+"text": "Click Here to Register to Vote",
+"href": "http://www.indianavoters.com"
+},
+{
+"text": "Start Now",
+"href": "https://www.steele4indiana.com#hero"
+},
+{
+"text": "State Board of Elections",
+"href": "https://www.in.gov/sos/elections/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/share/17JBH2iEfk/?mibextid=wwXlfr"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/in/sean-steele-5989a13b3"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/@steele4indiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/steele4indiana/"
+},
+{
+"text": "steele4indiana@gmail.com",
+"href": "mailto:steele4indiana@gmail.com?subject=Inquiry+about..."
+}
 ]

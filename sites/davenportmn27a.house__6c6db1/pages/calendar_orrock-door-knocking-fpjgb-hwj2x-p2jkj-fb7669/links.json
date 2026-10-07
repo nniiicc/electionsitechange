@@ -1,18 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Becker+Door+Knocking&dates=20260902T220000Z%2F20260902T230000Z&location=11500+Sherburne+Avenue%2C+Becker%2C+Minnesota%2C+55308%2C+United+States",
-"http://maps.google.com/?q=11500+Sherburne+Avenue+Becker%2C+Minnesota%2C+55308+United+States",
-"https://davenportmn27a.house/",
-"https://davenportmn27a.house/calendar",
-"https://davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-9mhfd",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj?format=ical",
-"https://davenportmn27a.house/campaign-priorities",
-"https://davenportmn27a.house/cart",
-"https://davenportmn27a.house/endorsements",
-"https://davenportmn27a.house/our-district",
-"https://davenportmn27a.house/the-patriot-newspaper-articles",
-"https://davenportmn27a.house/the-patriot-newspaper-articles-1",
-"https://facebook.com/profile.php?id=61586379279340",
-"https://facebook.com/share/19Qgp9cEGS",
-"https://mobilize.us/dflcc/event/993112?referring_vol=11496798&share_context=dashboard-event-details&sharer_role=2"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11500+sherburne+avenue+becker%2C+minnesota%2C+55308+united+states"
+},
+{
+"text": "0",
+"href": "https://www.davenportmn27a.house/cart"
+},
+{
+"text": "About",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Campaign Priorities",
+"href": "https://www.davenportmn27a.house/campaign-priorities"
+},
+{
+"text": "Davenport for Minnesota House 27A",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davenportmn27a.house/endorsements"
+},
+{
+"text": "Facebook Event Page",
+"href": "https://www.facebook.com/share/19Qgp9cEGS/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Becker+Door+Knocking&dates=20260902T220000Z%2F20260902T230000Z&location=11500+Sherburne+Avenue%2C+Becker%2C+Minnesota%2C+55308%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj?format=ical"
+},
+{
+"text": "Mobilize Sign Up",
+"href": "https://www.mobilize.us/dflcc/event/993112/?referring_vol=11496798&share_context=dashboard-event-details&sharer_role=2"
+},
+{
+"text": "Next Next September 9 DFL SD27 Monthly Meeting",
+"href": "https://www.davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3"
+},
+{
+"text": "Our District",
+"href": "https://www.davenportmn27a.house/our-district"
+},
+{
+"text": "Previous Previous August 23 Red & Rural DAY OF ACTION in Sherburne County!",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-9mhfd"
+},
+{
+"text": "The Patriot Newspaper",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586379279340"
+},
+{
+"text": "[no text]",
+"href": "mailto:vanessa@davenportmn27a.house"
+}
 ]

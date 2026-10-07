@@ -1,2 +1,8 @@
-Get the latest news and updates directly from the Kat Cammack for Congress campaign.
-Sign Up To Stay Connected
+Menu Home Meet Kat Accomplishments Updates Facebook Twitter Instagram Youtube Join Team Kat Shop Donate News & Updates Get the latest news and updates directly from the Kat Cammack for Congress campaign. - 10.02.2026 Cammack secures housing funds for Gainesville, Ocala veterans READ MORE → - 09.29.2026 Background checks should be mandatory for Hill staff, Cammack says READ MORE → - 09.20.2026 Kat Cammack announces major federal funding for several Big Bend area infrastructure projects READ MORE → - 08.18.2026 Cammack touts federal funding for rural healthcare providers in her Florida district READ MORE → - 07.23.2026 Rep.
+Kat Cammack secures 10 amendments in House-passed National Defense Authorization Act READ MORE → - 06.16.2026 Congresswoman Cammack highlights bill aimed at expanding mental health resources for first responders READ MORE → - 05.14.2026 Kat Cammack to co-lead bipartisan effort to root out sexual misconduct in Congress READ MORE → - 04.27.2026 Hearing Scheduled on Rep.
+Cammack’s MAHA Discussion Draft that Prevents a 12% Grocery Price Hike READ MORE → - 03.09.2026 The Hill: American women don’t need Democrats to protect them from election integrity READ MORE → News Release - 03.06.2026 Kat Cammack says Florida ‘made out like bandits’ in Farm Bill READ MORE → « Newer 1 2 3 &mldr; 6 Older » Keep Up With Kat Sign Up To Stay Connected First Name Last Name Zip Code Email Address* Mobile Phone Number By voluntarily providing your phone number, and checking this box, you are consenting to receive text messages to that number from Kat for Congress.
+Messages may include requests for donations.
+Message and data rates may apply.
+Reply "STOP" to opt-out and "HELP" for help or email info@katforcongress.com.
+Terms and Conditions & Privacy Policy apply.
+SIGN ME UP Home Meet Kat Accomplishments Updates Contact Mailing Address Kat for Congress 5200 NW 43rd Street, Suite 102-180 Gainesville, FL 32606 PAID FOR BY KAT FOR CONGRESS Privacy Policy | Terms of Use

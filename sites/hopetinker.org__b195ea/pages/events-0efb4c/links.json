@@ -1,9 +1,34 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://hopetinker.org/",
-"https://hopetinker.org/about",
-"https://hopetinker.org/contact",
-"https://hopetinker.org/donate",
-"https://hopetinker.org/endorsements",
-"https://hopetinker.org/events"
+{
+"text": "ABOUT",
+"href": "https://hopetinker.org/about"
+},
+{
+"text": "Contact",
+"href": "https://hopetinker.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://hopetinker.org/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://hopetinker.org/events"
+},
+{
+"text": "Home",
+"href": "https://hopetinker.org/"
+},
+{
+"text": "[image: Hope Tinker]",
+"href": "https://hopetinker.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "endorsements",
+"href": "https://hopetinker.org/endorsements"
+}
 ]

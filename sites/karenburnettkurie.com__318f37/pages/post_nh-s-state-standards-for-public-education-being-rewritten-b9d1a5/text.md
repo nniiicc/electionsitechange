@@ -1,11 +1,8 @@
-NH's State Standards for Public Education being Rewritten
-Updated: Oct 21, 2024
-Letter to the Editor:
-Every ten years the NH Department of Education is required to review and revise the state standards, 306 rules, for public schools.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search NH's State Standards for Public Education being Rewritten Karen Burnett-Kurie Apr 13, 2024 3 min read Updated: Oct 21, 2024 Letter to the Editor: Every ten years the NH Department of Education is required to review and revise the state standards, 306 rules, for public schools.
 This process started two years ago when the NHDoE hired a company to engage stakeholders and create an initial draft of changes to the existing standards.
 During the 306 revision process there were educators, policy experts and citizens who provided input, but they also expressed concerns the NHDoE, led by Commissioner Frank Edelblut, could not be trusted with updating these standards and protecting public education.
-A task force member commented at a listening session that people were worried the revisions, under Edelblut, could “create loopholes for people who had an anti-public-school bent.” The NH Business Review stated: "New Hampshire has become a beacon of conservative education policy in recent years, a number of right-leaning activist organizations, policy institutes and special interest groups have taken an interest in the state’s K-12 education system."
-These concerns were born out when suddenly the department of education discontinued the two-year 306’s process and started making revisions, behind closed doors, without involving any of the stakeholders.
+A task force member commented at a listening session that people were worried the revisions, under Edelblut, could “create loopholes for people who had an anti-public-school bent.” The NH Business Review stated: "New Hampshire has become a beacon of conservative education policy in recent years, a number of right-leaning activist organizations, policy institutes and special interest groups have taken an interest in the state’s K-12 education system." These concerns were born out when suddenly the department of education discontinued the two-year 306’s process and started making revisions, behind closed doors, without involving any of the stakeholders.
 When the department came out with their revisions in February, people who had previously been working on the revised standards didn't even recognize the rules presented in some sections.
 Members of the House Education Committee talk about the cooperation that existed for years between it, the Department of Education and the teacher unions.
 That is up until Edelbut came along.
@@ -15,13 +12,11 @@ The most common change to the department’s revised 306’s document is replaci
 This shift is misplaced.
 References to maximum class sizes (except for science labs) have been removed and many more standards about providing information to and engaging parents in their child’s education have been added.
 Some changes in the draft 306s are similar to efforts previously voted down by the Legislature, including cutting subjects from the core academic areas.
-Often, references to "teaching" have been substituted with "facilitators providing opportunities."
-Major rewrites are proposed for school board policies and procedures, basic instructional standards, required curriculum content, high school learning opportunities, graduation expectations and school approval.
+Often, references to "teaching" have been substituted with "facilitators providing opportunities." Major rewrites are proposed for school board policies and procedures, basic instructional standards, required curriculum content, high school learning opportunities, graduation expectations and school approval.
 Then there are some inclusions that just seem out of place.
 For example, in the educational opportunities to be offered by high schools, the list includes English, math, social studies, science, World languages, etc.
 But included in the list is a course/learning opportunity: “Holocaust and Genocide Education.” As a stand alone?
-In addition, under graduation requirements is a list of content/competency in areas such as: English, math, social studies, science, arts, health, physical education, world history, US history, NH history, economics, financial literacy, digital literacy, and then ‘logic and rhetoric.’
-Find the draft 306 document at: https://www.education.nh.gov/sites/g/files/ehbemt326/files/inline-documents/sonh/initial-proposal-minimum-standards-for-public-school-approval-ed-306.pdf
-You can still provide electronic testimony until April 30th.
-Simply send your thoughts, concerns, and recommendations to Julie Shea (Julie.R.Shea@doe.nh.gov) and Angela Adams (Angela.Adams@doe.nh.gov) at NHED and they will get your recommendations to the Board and into the public record.
-Karen Burnett-Kurie
+In addition, under graduation requirements is a list of content/competency in areas such as: English, math, social studies, science, arts, health, physical education, world history, US history, NH history, economics, financial literacy, digital literacy, and then ‘logic and rhetoric.’ Find the draft 306 document at: https://www.education.nh.gov/sites/g/files/ehbemt326/files/inline-documents/sonh/initial-proposal-minimum-standards-for-public-school-approval-ed-306.pdf You can still provide electronic testimony until April 30th.
+Simply send your thoughts, concerns, and recommendations to Julie Shea ( Julie.R.Shea@doe.nh.gov ) and Angela Adams ( Angela.Adams@doe.nh.gov ) at NHED and they will get your recommendations to the Board and into the public record.
+Karen Burnett-Kurie Education Recent Posts See All NH Better Served by Quality Education & Lower Property Taxes Educational Freedom Accounts Part 2: Education Freedom Accounts- Part 1 Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

@@ -1,5 +1,4 @@
-Meet Judge Hampson
-Judge Toby Hampson grew up in Moore County, NC.
+Skip to content Home About Volunteer Endorsements Home About Volunteer Endorsements Donate Menu Meet Judge Hampson Judge Toby Hampson grew up in Moore County, NC.
 He is a proud product of North Carolina public schools, having attended Sandhills Farm Life Elementary, Union Pines High School, and the North Carolina School of Science and Mathematics.
 He graduated from American University with a Bachelor’s Degree and Honors.
 Judge Hampson graduated from Campbell University School of Law in 2002 with Honors, where he was inducted into the Order of Barristers and was a member of the Law Review.
@@ -15,3 +14,4 @@ During his time on the bench, Judge Hampson has authored hundreds of opinions as
 He is a North Carolina State Bar certified specialist in Appellate Practice and serves on the North Carolina Bar Association Appellate Rules Committee.
 Judge Hampson lives in Raleigh with his wife, Kristin, a practicing lawyer, and their three daughters.
 In his free time, you can find him cooking or grilling for the family, or attending one of their children’s many sports games, practices, or competitions.
+DONATE Support Judge Toby Hampson's Re-Election DONATE Checks can be made out to Re-Elect Judge Toby Hampson and mailed to 6500 Creedmoor Rd, Suite 112, Raleigh, NC 27613 . toby@judgetobyhampson.com Facebook Instagram TikTok X Threads Paid for by Re-Elect Judge Toby Hampson | Privacy Policy | Website design by Express Lane Strategies .

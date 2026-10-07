@@ -1,9 +1,8 @@
-On the March 6th primary ballot, both the Republican and Democrat primaries have proposed planks that deal with education and education finance.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements February 27, 2018 Jeff Frazier Sit-Rep #16 - Solving the Property Tax Paradox February 27, 2018 Jeff Frazier On the March 6th primary ballot, both the Republican and Democrat primaries have proposed planks that deal with education and education finance.
 Before we vote on these proposals, let's reflect on the history of public-school finance and explore the challenges our current system faces along with the proposed changes.
 Of the 13 grievances in the Texas Declaration of independence, a lack of public education was listed right in-between being denied the right to a jury trial, and the dissolving of the Texas Legislature by the Mexican army.
 We can certainly see how our founding fathers valued education.
-When our current constitution was written in 1876, the framers once again placed education at the forefront; requiring the legislature to "provide and fund an efficient system of public schools to provide for the general diffusion of knowledge."
-This core tenant became the test our courts use to determine if we are meeting our constitutional requirements.
+When our current constitution was written in 1876, the framers once again placed education at the forefront; requiring the legislature to "provide and fund an efficient system of public schools to provide for the general diffusion of knowledge." This core tenant became the test our courts use to determine if we are meeting our constitutional requirements.
 The first is the "general diffusion of knowledge", which requires us to provide access to a quality education that enables students to achieve their potential and allows them to fully participate in social, economic, and educational opportunities, both now and in the future.
 This has become known as the adequacy test.
 We also have the requirement of "efficiency", the cause of all our difficulties in using property taxes to fund public schools.
@@ -31,7 +30,18 @@ Fixing education in Texas is going to require a fresh start, with ALL options on
 We need to look to places like Indiana, which is 29th in spending on education but 4th in math scores.
 We will need to look to leaders like CREEED in El Paso, where private business, education foundations, and school districts have come together to help create an employment pipeline to help lift people out of poverty and improve the quality of education.
 Justice Willett put it best in his 2016 ruling on the constitutionality of our current system, “Texas’s more than five million school children … deserve transformational, top-to-bottom reforms that amount to more than Band-Aid on top of Band-Aid.
-They deserve a … system fit for the 21st century.”
-For all the noise about tax reform in the 85th session, there was no serious effort to make true tax relief or education finance reform happen.
+They deserve a … system fit for the 21st century.” For all the noise about tax reform in the 85th session, there was no serious effort to make true tax relief or education finance reform happen.
 It’s time to stop kicking the can down the road.
 Tuesday, March 6th, is your opportunity to make your statement at the ballot box.
+February 27, 2018 Jeff Frazier Jeff Frazier Sit-Rep #17 - Importance of Local Elections Sit-Rep #15 - So You Want to Be Speaker of the House Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

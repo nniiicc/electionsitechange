@@ -1,8 +1,5 @@
-Meet Chris
-Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
-Skip navigation menu
-Meet Chris
-Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
+Skip navigation menu Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
+Home Meet Chris Priorities Get Involved Vote Endorsements Donate Meet Chris Marine Corps Veteran, husband, father, small business owner, and candidate running for State Representative in House District 52.
 Chris grew up in humble circumstances, learning early that nothing is handed to you and that stability is built through hard work, persistence, and character.
 Raised by a hard working immigrant mother and a father who owned a small business, he saw both the promise of this country and the daily grind it takes to carve out a future here.
 He learned what it means to stretch a dollar, to keep showing up when things are tough, and to value the dignity of work.
@@ -16,5 +13,9 @@ Chris has already answered the call to protect our country once.
 After sustained encouragement from those who know his commitment to service, he is answering that call again, this time by stepping forward to restore responsible, solutions-oriented leadership in House District 52.
 Texans deserve leaders who prioritize results over rhetoric and who focus on the real issues that determine whether families can build secure, stable, and promising lives.
 That means confronting the day-to-day realities they face: Rising property taxes, skyrocketing insurance premiums, rent that climbs faster than income, and a cost of living that strains working families and retirees alike.
-It means strengthening public schools, expanding access to affordable healthcare, and investing in reliable infrastructure—power, water, roads, and flood control—that keeps communities safe as Texas grows.
+It means strengthening public schools, expanding access to affordable healthcare, and investing in reliable infrastructure— power, water, roads, and flood control —that keeps communities safe as Texas grows.
 Chris will stay accountable to the people he serves and deliver tangible results—lower costs, stronger public schools, safer communities, and a Texas where the next generation has more opportunity than the last.
+Privacy Policy Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Powered by RUN! website builder Pol.
+Adv.
+Paid for by Chris Jimenez for Texas House District 52 You need to enable JavaScript to run this app.

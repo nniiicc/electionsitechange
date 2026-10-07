@@ -1,7 +1,11 @@
 {
  "description": "Explore E. Werner Reschke's biography, a small business owner and Oregon State Representative from Klamath County, dedicated to serving his community.",
  "final_url": "https://wernerfororegon.com/about",
+ "fingerprint": "a475f00296580060607c26511d98faabe025cedf",
+ "format": 3,
  "paid_for_by": "Paid for by Werner For Oregon",
  "title": "E. Werner Reschke Biography - Klamath County Leader",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001"
+ ]
 }

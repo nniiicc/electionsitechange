@@ -1,24 +1,130 @@
 [
-"https://erictoney.com/",
-"https://erictoney.com/2026/01/14/toney-campaign-announces-endorsements-from-44-current-and-former-sheriffs",
-"https://erictoney.com/?query-4-page=10",
-"https://erictoney.com/?query-4-page=4",
-"https://erictoney.com/?query-4-page=5",
-"https://erictoney.com/?query-4-page=7",
-"https://erictoney.com/?query-4-page=8",
-"https://erictoney.com/about",
-"https://erictoney.com/privacy-policy",
-"https://erictoney.com/volunteer",
-"https://facebook.com/EricToneyWI",
-"https://instagram.com/erictoney",
-"https://jsonline.com/story/news/politics/2026/01/29/eric-toney-notches-fundraising-edge-over-josh-kaul-in-ag-race/88379552007",
-"https://maciverinstitute.com/news/toney-rips-kaul-over-lagging-state-crime-lab",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/toney-for-attorney-general/donate",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=100",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=1000",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=25",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=250",
-"https://x.com/EricjToney"
+{
+"text": "$100",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=250"
+},
+{
+"text": "1",
+"href": "https://erictoney.com/?cst="
+},
+{
+"text": "10",
+"href": "https://erictoney.com/?query-4-page=10&cst="
+},
+{
+"text": "4",
+"href": "https://erictoney.com/?query-4-page=4&cst="
+},
+{
+"text": "5",
+"href": "https://erictoney.com/?query-4-page=5&cst="
+},
+{
+"text": "7",
+"href": "https://erictoney.com/?query-4-page=7&cst="
+},
+{
+"text": "8",
+"href": "https://erictoney.com/?query-4-page=8&cst="
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate"
+},
+{
+"text": "Eric Toney notches fundraising edge over Josh Kaul in AG race",
+"href": "https://www.jsonline.com/story/news/politics/2026/01/29/eric-toney-notches-fundraising-edge-over-josh-kaul-in-ag-race/88379552007/#new_tab"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EricToneyWI/"
+},
+{
+"text": "Get Involved",
+"href": "https://erictoney.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erictoney"
+},
+{
+"text": "Latest news",
+"href": "https://erictoney.com/#news"
+},
+{
+"text": "Learn More about Eric",
+"href": "https://erictoney.com/about/"
+},
+{
+"text": "Meet Eric",
+"href": "https://erictoney.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erictoney.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Read more: Eric Toney notches fundraising edge over Josh Kaul in AG race",
+"href": "https://www.jsonline.com/story/news/politics/2026/01/29/eric-toney-notches-fundraising-edge-over-josh-kaul-in-ag-race/88379552007/#new_tab"
+},
+{
+"text": "Read more: Toney Rips Kaul Over Lagging State Crime Lab",
+"href": "https://www.maciverinstitute.com/news/toney-rips-kaul-over-lagging-state-crime-lab#new_tab"
+},
+{
+"text": "Read more: Toney campaign: Announces endorsements from 44 current and former sheriffs",
+"href": "https://erictoney.com/2026/01/14/toney-campaign-announces-endorsements-from-44-current-and-former-sheriffs/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Toney Rips Kaul Over Lagging State Crime Lab",
+"href": "https://www.maciverinstitute.com/news/toney-rips-kaul-over-lagging-state-crime-lab#new_tab"
+},
+{
+"text": "Toney campaign: Announces endorsements from 44 current and former sheriffs",
+"href": "https://erictoney.com/2026/01/14/toney-campaign-announces-endorsements-from-44-current-and-former-sheriffs/"
+},
+{
+"text": "X",
+"href": "https://x.com/EricjToney"
+},
+{
+"text": "[image: Eric Toney for Attorney General]",
+"href": "https://erictoney.com/"
+},
+{
+"text": "[image: Eric Toney notches fundraising edge over Josh Kaul in AG race]",
+"href": "https://www.jsonline.com/story/news/politics/2026/01/29/eric-toney-notches-fundraising-edge-over-josh-kaul-in-ag-race/88379552007/#new_tab"
+},
+{
+"text": "[image: Toney Rips Kaul Over Lagging State Crime Lab]",
+"href": "https://www.maciverinstitute.com/news/toney-rips-kaul-over-lagging-state-crime-lab#new_tab"
+},
+{
+"text": "[image: Toney campaign: Announces endorsements from 44 current and former sheriffs]",
+"href": "https://erictoney.com/2026/01/14/toney-campaign-announces-endorsements-from-44-current-and-former-sheriffs/"
+}
 ]

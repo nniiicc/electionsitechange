@@ -1,19 +1,98 @@
 [
-"https://facebook.com/taylorrehmetfortexas",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://instagram.com/taylorfortexas",
-"https://secure.actblue.com/donate/taylor-rehmet-1",
-"https://secure.actblue.com/donate/tr-website",
-"https://secure.actblue.com/donate/tr-website?amount=10",
-"https://secure.actblue.com/donate/tr-website?amount=100",
-"https://secure.actblue.com/donate/tr-website?amount=25",
-"https://secure.actblue.com/donate/tr-website?amount=50",
-"https://tarrantcountytx.gov/en/elections.html",
-"https://taylorfortx.com/",
-"https://taylorfortx.com/affordability-agenda",
-"https://taylorfortx.com/copy-of-privacy-policy",
-"https://taylorfortx.com/copy-of-volunteer",
-"https://taylorfortx.com/privacy-policy",
-"https://taylorfortx.com/volunteer",
-"https://x.com/TaylorRehmetTX"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/tr-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tr-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tr-website?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tr-website?amount=50"
+},
+{
+"text": "ABOUT TAYLOR",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "Affordability Agenda",
+"href": "https://www.taylorfortx.com/affordability-agenda"
+},
+{
+"text": "CHECK YOUR REGISTRATION STATUS",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/taylor-rehmet-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tr-website"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://www.taylorfortx.com/copy-of-volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "MAKE YOUR PLAN TO VOTE",
+"href": "https://www.tarrantcountytx.gov/en/elections.html"
+},
+{
+"text": "Press Page",
+"href": "https://www.taylorfortx.com/copy-of-privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.taylorfortx.com/privacy-policy"
+},
+{
+"text": "THE ELECTION",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "Taylor for Texas PO Box 470812 Fort Worth, TX 76147",
+"href": "https://www.taylorfortx.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.taylorfortx.com/volunteer"
+},
+{
+"text": "WORKING FOR YOU",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "[image: Taylor Social Icons-01]",
+"href": "https://www.instagram.com/taylorfortexas"
+},
+{
+"text": "[image: Taylor Social Icons-02]",
+"href": "https://www.facebook.com/taylorrehmetfortexas/"
+},
+{
+"text": "[image: Texas Senate District 9, Talor Rehmet's logo]",
+"href": "https://www.taylorfortx.com"
+},
+{
+"text": "[image: x]",
+"href": "https://x.com/TaylorRehmetTX"
+},
+{
+"text": "learn more",
+"href": "https://www.taylorfortx.com/affordability-agenda"
+}
 ]

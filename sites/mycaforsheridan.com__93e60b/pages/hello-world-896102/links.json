@@ -1,19 +1,86 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F",
-"https://facebook.com/MycaforSheridan2026",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F",
-"https://gravatar.com/",
-"https://instagram.com/mycaforsheridan",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F",
-"https://mycaforsheridan.com/",
-"https://mycaforsheridan.com/author/meldbutcher",
-"https://mycaforsheridan.com/category/uncategorized",
-"https://mycaforsheridan.com/donate",
-"https://mycaforsheridan.com/hello-world",
-"https://mycaforsheridan.com/volunteer",
-"https://mycaforsheridan.com/what-matters-in-sheridan",
-"https://mycaforsheridan.com/what-matters-to-myca",
-"https://mycaforsheridan.nationbuilder.com/donate",
-"https://theswagcellar.chipply.com/myca-for-sheridan?action=viewall",
-"https://wordpress.org/"
+{
+"text": "1 Comment",
+"href": "https://mycaforsheridan.com/hello-world/#comments"
+},
+{
+"text": "A WordPress Commenter",
+"href": "https://wordpress.org/"
+},
+{
+"text": "ABOUT",
+"href": "https://mycaforsheridan.com/what-matters-to-myca/"
+},
+{
+"text": "DONATE",
+"href": "https://mycaforsheridan.com/donate/"
+},
+{
+"text": "Donate Online",
+"href": "https://mycaforsheridan.nationbuilder.com/donate"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F&subject=Hello+world%21"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F"
+},
+{
+"text": "Gravatar",
+"href": "https://gravatar.com/"
+},
+{
+"text": "HOME",
+"href": "https://mycaforsheridan.com/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F"
+},
+{
+"text": "PRIORITIES",
+"href": "https://mycaforsheridan.com/what-matters-in-sheridan/"
+},
+{
+"text": "Uncategorized",
+"href": "https://mycaforsheridan.com/category/uncategorized/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mycaforsheridan.com/volunteer/"
+},
+{
+"text": "Vote for Myca – Merch",
+"href": "https://theswagcellar.chipply.com/myca-for-sheridan/?action=viewall"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fmycaforsheridan.com%2Fhello-world%2F"
+},
+{
+"text": "[no text]",
+"href": "https://mycaforsheridan.com/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:mycaforsheridan@gmail.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/MycaforSheridan2026/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mycaforsheridan/"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:(307)%20752-6040"
+},
+{
+"text": "meldbutcher",
+"href": "https://mycaforsheridan.com/author/meldbutcher/"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Find out more about conservative Republican State Senator David Bullard, who represents Oklahoma Senate District 6 - Bryan, Choctaw, Atoka, Coal, and parts of Johnston counties.",
  "final_url": "https://www.davidbullard.com/about",
+ "fingerprint": "b4534817dd7bf0328ecee8d516c916f279e1c1b5",
+ "format": 3,
  "paid_for_by": "Paid for by David Bullard for Senate 2026 bottom of page",
  "title": "About | David Bullard For Senate 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

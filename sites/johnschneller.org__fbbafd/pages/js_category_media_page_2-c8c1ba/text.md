@@ -1,11 +1,10 @@
-Jun 1, 2026
-This Union Leader OpEd by House Science, Technology and Energy Committee Chairman, Representative Michael Vose, eloquently states the problems with solar versus more reliable and efficient (denser) energy sources such as natural gas and nuclear energy.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Power Must Be Reliable, Not Fashionable Jun 1, 2026 This Union Leader OpEd by House Science, Technology and Energy Committee Chairman, Representative Michael Vose, eloquently states the problems with solar versus more reliable and efficient (denser) energy sources such as natural gas and nuclear energy.
 As a...
-May 29, 2026
-Pictiured below: Seabrook Nuclear Power Station Tour May 26, 2026 with, among others, Reps McGrath (Hampton), Schneller (Bedford – House Science, Tech, and Energy Committee), Kesselring (Manchester) and Saborin dit Choinier (Seabrook and also ST&E), Senate...
-May 23, 2026
-In the background is the Building housing the office of Business and Economic Affairs.
+Seabrook Nuclear Power Station Tour May 29, 2026 Pictiured below: Seabrook Nuclear Power Station Tour May 26, 2026 with, among others, Reps McGrath (Hampton), Schneller (Bedford – House Science, Tech, and Energy Committee), Kesselring (Manchester) and Saborin dit Choinier (Seabrook and also ST&E), Senate...
+Science Technology and Energy (ST&E) Committee May 23, 2026 In the background is the Building housing the office of Business and Economic Affairs.
 Global economy-driving advanced scientific businesses will relocate to New Hampshire IF New Hampshire can ensure a reasonably-priced and reliable source of industrial-scale energy...
-May 14, 2026
-While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
+Vote Correction Forms May 14, 2026 While democrats would love to think one of the most conservative Representatives in the House declined to support a Constitutional measure permanently preventing an income tax, the vote was immediately corrected and is emblazoned in the House Permanent Journal.
 Like...
+Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

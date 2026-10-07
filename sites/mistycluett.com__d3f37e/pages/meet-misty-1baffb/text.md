@@ -1,4 +1,4 @@
-Misty Nagata Cluett is a Christian, wife, mother, small business owner, and former program manager for a Fortune 500 company.
+0 Skip to Content Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Misty Nagata Cluett is a Christian, wife, mother, small business owner, and former program manager for a Fortune 500 company.
 She has an extensive background in turning ideas into action, solving complex problems, and bringing people together to get things done.
 But at the heart of who Misty is, her faith is the foundation that guides her commitment to serving others with integrity, humility, and compassion.
 Misty is the hānai daughter of Daniel Nagata, son of Walter Nagata and Clara Oyama, whose family roots on Kauaʻi date back to the late 1880s.

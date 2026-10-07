@@ -1,21 +1,17 @@
-The Problem
-In five years, rents in the Columbus metro area have risen more than 30 percent.
+Baker for Ohio About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate About Platform Endorsements Announcements Events Get Involved Volunteer Yard Signs Contact Donate ← Back to Platform Priority 04 Creating Affordable Housing Reynoldsburg families are being priced out of the neighborhoods they built.
+Stacie Baker believes that development in District 3 must serve the people who already live here, not outside investors. +30% Columbus metro rent increase over 5 years $1,200+ Average monthly rent in Reynoldsburg 40%+ Of income many District 3 families spend on housing The Problem In five years, rents in the Columbus metro area have risen more than 30 percent.
 The average rent in Reynoldsburg now tops $1,200 per month, and many families spend well over 40 percent of their income just on housing.
 That leaves little left for food, healthcare, childcare, or savings.
 Homeownership, once the primary vehicle for building family wealth, is increasingly out of reach for working people in District 3.
 At the same time, homeowners are being squeezed by school levies that drive up property costs.
 The state has failed to fund public education adequately, and the bill gets passed down to local homeowners.
 Stacie believes the state needs to fix its funding, not keep pushing the burden onto families.
-Stacie's Plan
-- Increase funding for owner-occupied and homestead tax credits to reduce the housing cost burden on District 3 homeowners
-- Fund the Cupp-Patterson Fair School Funding Plan to reduce the school levy burden on homeowners, when the state pays its share, local property taxes go down
-- Lower the Homestead Tax Credit qualifying age from 65 to 60 and raise the income limit from $40,000 to $50,000 to help more families
-- Expand the Owner-Occupied Tax Credit rollback from 2.5% to 3.5% to put money back in the pockets of homeowners
-- Propose a Farmers Property Tax Credit: a 2% reduction on assessment, to help farmers in Pickaway and Madison counties stay on their land
-- Fight for development policies that serve the families already living in District 3, not outside investors
-Lower Taxes Through Smart Policy
-Stacie Baker is not looking to raise your taxes.
+Stacie's Plan Increase funding for owner-occupied and homestead tax credits to reduce the housing cost burden on District 3 homeowners Fund the Cupp-Patterson Fair School Funding Plan to reduce the school levy burden on homeowners, when the state pays its share, local property taxes go down Lower the Homestead Tax Credit qualifying age from 65 to 60 and raise the income limit from $40,000 to $50,000 to help more families Expand the Owner-Occupied Tax Credit rollback from 2.5% to 3.5% to put money back in the pockets of homeowners Propose a Farmers Property Tax Credit : a 2% reduction on assessment, to help farmers in Pickaway and Madison counties stay on their land Fight for development policies that serve the families already living in District 3, not outside investors Lower Taxes Through Smart Policy Stacie Baker is not looking to raise your taxes.
 He is fighting to expand the credits and exemptions that let working families and seniors stay in their homes.
 By fully funding public education at the state level, through the Cupp-Patterson plan, he can reduce the levy burden that drives up local property taxes.
 With 15 years serving Franklin County and experience as Finance Committee Chair on Reynoldsburg City Council, Stacie understands how state funding decisions ripple down to every household in District 3.
 He will use that knowledge to fight for real property tax relief in the Ohio Senate.
+"When the state funds education the way it should, homeowners stop paying for it through levy after levy.
+That is the housing relief that actually works." Stacie Baker Endorsed By Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus Stand with Stacie on November 3rd Every vote in the general election is a vote for the families who call District 3 home.
+Donate Now Get Involved Paid for by Citizens For Baker • © # All Rights Reserved • P.O.
+Box, Reynoldsburg, OH 43068

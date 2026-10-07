@@ -1,11 +1,6 @@
-Meet Mike Kirchner
-Cost of website and contents paid for by Mike Kirchner Growing Assets
-Mike Kirchner is the Republican candidate for U.S.
+Mike Kirchner About OAS Paper Walk or Talk with Mike Kirchner Meet Mike Kirchner Cost of website and contents paid for by Mike Kirchner Growing Assets Mike Kirchner is the Republican candidate for U.S.
 Representative of Ohio District 11.
 There are four videos below: Goals, Strategy, Family, Traits.
 If you hover toward bottom you can stop and start video.
 Each video is one song long.
-Goals
-Strategy
-Family
-Traits
+Goals Strategy Family Traits Proudly powered by WordPress Facebook Twitter WordPress

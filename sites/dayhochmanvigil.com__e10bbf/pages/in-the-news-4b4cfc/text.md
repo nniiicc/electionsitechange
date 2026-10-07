@@ -1,33 +1,16 @@
-A House Memorial addressing the “cliff effect” earned unanimous support, with Day highlighting the rare unity among lawmakers working to make economic independence more attainable.
-KSFR
-(Photo By: S.
-Baxter Clinton, )
-A long-awaited proposal to establish a New Mexico Office of Gun Violence Prevention took a critical step forward, backed by years of leadership from Day and her fellow Albuquerque legislators.
-Curtis Segarra, KRQE
-Speaking candidly about the root causes of crime, Day called for smarter judicial tools and more coordinated efforts to address systemic breakdowns in public safety.
+Need Help With A Constituent Services Request?
+Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us More Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us In The News Home About About Day About District 15 Photo Gallery Priorities Results Legislative Achievements 2025 Capital Outlay In the News Endorsements Get Involved Volunteer Contribute Contact Us In The News In The News Fighting Poverty with Bipartisan Support Legislators Tackle Crime and Needed CYFD Reform in Town Hall New Office Targets Gun Violence Statewide A House Memorial addressing the “cliff effect” earned unanimous support, with Day highlighting the rare unity among lawmakers working to make economic independence more attainable.
+KSFR (Photo By: S.
+Baxter Clinton, ) Learn More New Office Targets Gun Violence Statewide Legislators Tackle Crime and Needed CYFD Reform in Town Hall New Office Targets Gun Violence Statewide A long-awaited proposal to establish a New Mexico Office of Gun Violence Prevention took a critical step forward, backed by years of leadership from Day and her fellow Albuquerque legislators.
+Curtis Segarra, KRQE Learn More Legislators Tackle Crime and Needed CYFD Reform in Town Hall Legislators Tackle Crime and Needed CYFD Reform in Town Hall State Invests in Graduate Students with New Scholarship Expansion Speaking candidly about the root causes of crime, Day called for smarter judicial tools and more coordinated efforts to address systemic breakdowns in public safety.
 Josiah Ward, The Paper.
-(Photo Credit: The Paper)
-Day successfully championed legislation expanding scholarship access for underrepresented graduate students, reinforcing her focus on educational equity.
-Auriella Ortiz, New Mexico Higher Education Department
-New legislation co-sponsored by Day will phase out toxic PFAS chemicals from everyday products, helping protect water supplies and public health for years to come.
-Office of the Governor, Michelle Lujan Grisham
-Amid complex debates on energy grid modernization, Day took a measured approach to ensure both progress and fairness remain at the center of reform efforts.
-Nicholas Gilmore, The Santa Fe New Mexican
-(Photo By: Luis Sánchez Saturno)
-Day joined fellow local leaders in pushing forward long-overdue transportation upgrades to relieve congestion and improve emergency response on Albuquerque’s westside.
-City of Albuquerque
-(Photo Credit: CABQ)
-In a rare moment of cross-party consensus, lawmakers including Day came together to advocate for stronger community protections and safer streets across New Mexico.
-Brandon Evans, KOAT
-(Photo Credit: KOAT)
-At the AFRL Space Cyber Summit, Day participated in efforts to connect state policy with federal and private sector innovation in the growing field of space cybersecurity.
-Jessie Perkins, Air Force Materiel Command
-(Photo By: Jessie Perkins)
-As part of a legislative session focused on defending climate policy, Day stood with colleagues to safeguard clean transportation and community investment programs from rollback.
-Dan West, Clean Air Task Force
-In a historic first for District 15, Day secured another term without a challenger, proof of strong local support and her years of hard work in the Roundhouse.
-Dan Boyd, Albuquerque Journal
-(Photo By: Eddie Moore)
-Copyright © 2026 A New Day For New Mexico - All Rights Reserved.
-Site Creation: Morris Strategies for New Mexico
-Paid for by A New Day For New Mexico
+(Photo Credit: The Paper) Learn More State Invests in Graduate Students with New Scholarship Expansion State Invests in Graduate Students with New Scholarship Expansion State Invests in Graduate Students with New Scholarship Expansion Day successfully championed legislation expanding scholarship access for underrepresented graduate students, reinforcing her focus on educational equity.
+Auriella Ortiz, New Mexico Higher Education Department Learn More Landmark PFAS Ban Signed into Law State Invests in Graduate Students with New Scholarship Expansion Balancing Modernization with Affordability in Energy Reform New legislation co-sponsored by Day will phase out toxic PFAS chemicals from everyday products, helping protect water supplies and public health for years to come.
+Office of the Governor, Michelle Lujan Grisham Learn More Balancing Modernization with Affordability in Energy Reform State Invests in Graduate Students with New Scholarship Expansion Balancing Modernization with Affordability in Energy Reform Amid complex debates on energy grid modernization, Day took a measured approach to ensure both progress and fairness remain at the center of reform efforts.
+Nicholas Gilmore, The Santa Fe New Mexican (Photo By: Luis Sánchez Saturno) Learn More Progress on Paseo del Norte and Unser Improvements Cybersecurity and Space Innovation Gain Momentum in New Mexico Progress on Paseo del Norte and Unser Improvements Day joined fellow local leaders in pushing forward long-overdue transportation upgrades to relieve congestion and improve emergency response on Albuquerque’s westside.
+City of Albuquerque (Photo Credit: CABQ) Learn More Bipartisan Commitment to Public Safety Cybersecurity and Space Innovation Gain Momentum in New Mexico Progress on Paseo del Norte and Unser Improvements In a rare moment of cross-party consensus, lawmakers including Day came together to advocate for stronger community protections and safer streets across New Mexico.
+Brandon Evans, KOAT (Photo Credit: KOAT) Learn More Cybersecurity and Space Innovation Gain Momentum in New Mexico Cybersecurity and Space Innovation Gain Momentum in New Mexico Cybersecurity and Space Innovation Gain Momentum in New Mexico At the AFRL Space Cyber Summit, Day participated in efforts to connect state policy with federal and private sector innovation in the growing field of space cybersecurity.
+Jessie Perkins, Air Force Materiel Command (Photo By: Jessie Perkins) Learn More Defending Climate Progress and Clean Energy Investments Defending Climate Progress and Clean Energy Investments Cybersecurity and Space Innovation Gain Momentum in New Mexico As part of a legislative session focused on defending climate policy, Day stood with colleagues to safeguard clean transportation and community investment programs from rollback.
+Dan West, Clean Air Task Force Learn More Unopposed With Strong Local Support Defending Climate Progress and Clean Energy Investments Unopposed With Strong Local Support In a historic first for District 15, Day secured another term without a challenger, proof of strong local support and her years of hard work in the Roundhouse.
+Dan Boyd, Albuquerque Journal (Photo By: Eddie Moore) Learn More Copyright © # A New Day For New Mexico - All Rights Reserved.
+Site Creation: Morris Strategies for New Mexico Paid for by A New Day For New Mexico

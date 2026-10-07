@@ -1,27 +1,118 @@
 [
-"https://designedtorun.com/",
-"https://elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx",
-"https://elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx",
-"https://facebook.com/schneiderforcongress",
-"https://instagram.com/teambradschneider",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/RegistrationLookup.aspx",
-"https://schneiderforcongress.com/",
-"https://schneiderforcongress.com/contact-our-campaign",
-"https://schneiderforcongress.com/dad800cf-97fa-46fd-a5b9-83ace099a27b",
-"https://schneiderforcongress.com/events",
-"https://schneiderforcongress.com/internship",
-"https://schneiderforcongress.com/meet-brad",
-"https://schneiderforcongress.com/news",
-"https://schneiderforcongress.com/news/giffords-endorses-brad-schneider-for-reelection",
-"https://schneiderforcongress.com/news/jewish-members-of-congress-condemn-antisemitic-attacks-in-florida-republican-primary",
-"https://schneiderforcongress.com/news/schneider-condemns-hasan-pikers-call-to-violence-against-american-jews",
-"https://schneiderforcongress.com/request-a-yard-sign",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=10",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=100",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=25",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=250",
-"https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=50",
-"https://x.com/schneider4il10?lang=en"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate?amount=50"
+},
+{
+"text": "(847) 748-3788",
+"href": "tel:+18477483788"
+},
+{
+"text": "(847) 964-3365",
+"href": "tel:+18479643365"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://ova.elections.il.gov/RegistrationLookup.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.schneiderforcongress.com/contact-our-campaign"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate"
+},
+{
+"text": "Early voting locations",
+"href": "https://elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx"
+},
+{
+"text": "Events",
+"href": "https://www.schneiderforcongress.com/events"
+},
+{
+"text": "Internship",
+"href": "https://www.schneiderforcongress.com/internship"
+},
+{
+"text": "Learn more",
+"href": "https://www.schneiderforcongress.com/meet-brad"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.schneiderforcongress.com/meet-brad"
+},
+{
+"text": "News",
+"href": "https://www.schneiderforcongress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/contribute/page/schneider-homepage-donate"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.schneiderforcongress.com/news/giffords-endorses-brad-schneider-for-reelection"
+},
+{
+"text": "Read more",
+"href": "https://www.schneiderforcongress.com/news/jewish-members-of-congress-condemn-antisemitic-attacks-in-florida-republican-primary"
+},
+{
+"text": "Read more",
+"href": "https://www.schneiderforcongress.com/news/schneider-condemns-hasan-pikers-call-to-violence-against-american-jews"
+},
+{
+"text": "Register to vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Request a Vote-by-Mail Ballot",
+"href": "https://elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx"
+},
+{
+"text": "Road to 218",
+"href": "https://www.schneiderforcongress.com/dad800cf-97fa-46fd-a5b9-83ace099a27b"
+},
+{
+"text": "Sign Up",
+"href": "https://www.schneiderforcongress.com/request-a-yard-sign"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.schneiderforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/schneiderforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/teambradschneider/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/schneider4il10?lang=en"
+}
 ]

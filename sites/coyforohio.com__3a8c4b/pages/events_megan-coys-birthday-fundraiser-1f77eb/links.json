@@ -1,13 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Megan+Coy%27s+Birthday+Fundraiser&dates=20260910T213000Z%2F20260910T233000Z&location=20880+Royalton+Road%2C+Strongsville%2C+Ohio%2C+44149%2C+United+States",
-"http://maps.google.com/?q=20880+Royalton+Road+Strongsville%2C+Ohio%2C+44149+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/megan-coys-birthday-fundraiser?format=ical",
-"https://coyforohio.com/events/north-royalton-canvass-with-megan-coy",
-"https://coyforohio.com/events/t0gphknyes3359s9mjk3o96fq67s4u",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/megan2026"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=20880+royalton+road+strongsville%2C+ohio%2C+44149+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Megan+Coy%27s+Birthday+Fundraiser&dates=20260910T213000Z%2F20260910T233000Z&location=20880+Royalton+Road%2C+Strongsville%2C+Ohio%2C+44149%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/megan-coys-birthday-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next September 12 North Royalton Canvass with Megan Coy",
+"href": "https://www.coyforohio.com/events/north-royalton-canvass-with-megan-coy"
+},
+{
+"text": "Previous Previous August 30 Joint Canvass Launch with Megan Coy, Brian Poindexter and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/t0gphknyes3359s9mjk3o96fq67s4u"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/megan2026"
+}
 ]

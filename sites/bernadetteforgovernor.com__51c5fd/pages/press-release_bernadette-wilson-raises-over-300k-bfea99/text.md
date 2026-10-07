@@ -1,10 +1,7 @@
-FOR IMMEDIATE RELEASE
-February 18, 2026
-Contact: press@bernadetteforgovernor.com
+Skip to content About Vision for Alaska On the Issues Meet Mike Shower About Vision for Alaska On the Issues Meet Mike Shower Press Kit Press Release Merchandise Email Us Press Kit Press Release Merchandise Email Us Donate Now Donate Now Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Home About Vision for Alaska On the Issues Press Kit Press Releases Merchandise Contact Press Release February 18, 2026 Facebook Instagram X-twitter Bernadette Wilson Raises Over $300k Reports 2nd Highest GOP Total Raised, Most Donors FOR IMMEDIATE RELEASE February 18, 2026 Contact: press@bernadetteforgovernor.com Today, Bernadette Wilson, Republican candidate for Governor of Alaska, announced that she raised over $300,000 for her campaign, from nearly 1,500 individual donors.
 The total raised by Bernadette is the second highest among all Republican candidates in the race when candidate self funding is removed, and she had over three times the number of donors than any other candidate.
 In addition to this fundraising success, Bernadette has now led the GOP race in three separate independent polls and maintains by far the highest level of engagement and followers across social media.
-“From the start of this campaign, I made a decision to run a high-energy, relentless campaign to not only win the Republican primary, but to lay the groundwork now to beat the Democrats in November,” said Bernadette.
-“We decided to campaign as if every day was Election Day, and that’s paid off with a consistent lead in the polls.
+“From the start of this campaign, I made a decision to run a high-energy, relentless campaign to not only win the Republican primary, but to lay the groundwork now to beat the Democrats in November,” said Bernadette. “ We decided to campaign as if every day was Election Day, and that’s paid off with a consistent lead in the polls.
 We know that Alaskans will not let their vote be bought by self-anointed bureaucrats.
 We started early, meeting with Alaskans in coffee shops and living rooms all over the state.
 At some points, we were in as many cities in one week as there are days.
@@ -12,12 +9,14 @@ As a businesswoman and a lifelong Alaskan of Aleut descent, I strongly believe t
 I am also incredibly proud of the investment that we made in our national small-dollar donor program.
 For too long, Alaska has been shoved to the side.
 Our strategic location and the resources that we have demand that Alaska be front and center for the rest of the country, and we are excited to be leading this conversation.
-That’s the kind of state and national operation required to protect Alaska from the coming onslaught of national Democrat money and something that my Republican competitors are already out of time to start building.”
-“As one of the only leading candidates who hasn’t taken a paycheck from government, I am incredibly proud of Bernadette and the race she’s running,” said Bernadette for Governor Campaign Chairman and former Lt.
+That’s the kind of state and national operation required to protect Alaska from the coming onslaught of national Democrat money and something that my Republican competitors are already out of time to start building.” “As one of the only leading candidates who hasn’t taken a paycheck from government, I am incredibly proud of Bernadette and the race she’s running,” said Bernadette for Governor Campaign Chairman and former Lt.
 Gov.
 Craig Campbell.
 “She’s consistently and publicly leading on the tough issues, calling it like it is, resonating with hardworking Alaskans at events across the state and through her remarkable social media, and refusing to allow entrenched interests to influence her positions.
 That’s why she and her incredible Lt.
 Gov. pick Sen.
-Mike Shower lead in the polls – and why so many more donors have rallied to their cause more than to any other Republican candidate.”
-Paid for by Bernadette for Governor PO Box 112149 Anchorage, Alaska 99511
+Mike Shower lead in the polls – and why so many more donors have rallied to their cause more than to any other Republican candidate.” Paid for by Bernadette for Governor PO Box 112149 Anchorage, Alaska 99511 Morton Blackwell, Chairman of Conservative Leadership PAC, Endorses Bernadette Wilson for Governor FOR IMMEDIATE RELEASE Tuesday, June 30, 2026 Contact: paul@rivalstrategygroup.com Anchorage, AK – Today Bernadette Wilson, Republican candidate for Governor of Alaska, announced the endorsement of Read More » June 30, 2026 Bernadette Wilson Pledges To Exit Race If Not Top Republican Vote Getter September 24, 2025 Dear Republican candidates for governor of Alaska, First, thank you for your dedication to Alaska and your willingness to run for governor Read More » September 24, 2025 Bernadette Wilson Announces State Senator & Veteran Mike Shower As Running Mate for Gubernatorial Campaign FOR IMMEDIATE RELEASE September 9, 2025 Contact: Press@BernadetteforGovernor.com Big Lake – Today, leading Republican gubernatorial candidate Bernadette Wilson announced that State Senator and Veteran Mike Read More » September 9, 2025 Media and Press Inquiries Are you a member of the media or press interested in covering Bernadette’s campaign?
+We’d love to hear from you. 📩 For all media inquiries, please contact: Connect with Our Team On the Issues Press Kit Press Release Press Inquiries On the Issues Press Kit Press Release Press Inquiries info@bernadetteforgovernor.com PO.
+Box 112149 Anchorage, Alaska 99511 Facebook-f Instagram X-twitter Youtube Tiktok Donate Facebook-f Instagram X-twitter Youtube Tiktok © Copyright # Bernadette For Alaska.
+Paid for by Bernadette for Governor PO.
+Box 112149 Anchorage, Alaska 99511 Privacy Policy

@@ -1,11 +1,42 @@
 [
-"https://laurenjonesforus.com/",
-"https://laurenjonesforus.com/blank-12",
-"https://laurenjonesforus.com/event-list",
-"https://laurenjonesforus.com/groups",
-"https://laurenjonesforus.com/notifications",
-"https://laurenjonesforus.com/signrequest",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.laurenjonesforus.com%2Fevent-details%2Fpretty-in-pink",
-"https://secure.actblue.com/donate/bartow-united",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.laurenjonesforus.com%2Fevent-details%2Fpretty-in-pink&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Campaign Signs",
+"href": "https://www.laurenjonesforus.com/signrequest"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bartow-united"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjonesforus.com/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.laurenjonesforus.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.laurenjonesforus.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.laurenjonesforus.com/notifications"
+},
+{
+"text": "Photos",
+"href": "https://www.laurenjonesforus.com/blank-12"
+},
+{
+"text": "See other events",
+"href": "https://www.laurenjonesforus.com/event-list"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.laurenjonesforus.com%2Fevent-details%2Fpretty-in-pink&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.laurenjonesforus.com%2Fevent-details%2Fpretty-in-pink"
+}
 ]

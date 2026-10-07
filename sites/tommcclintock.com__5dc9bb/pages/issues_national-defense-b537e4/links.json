@@ -1,15 +1,62 @@
 [
-"https://facebook.com/jointom",
-"https://tommcclintock.com/",
-"https://tommcclintock.com/about-tom-mcclintock",
-"https://tommcclintock.com/contact-the-campaign",
-"https://tommcclintock.com/donate",
-"https://tommcclintock.com/news",
-"https://tommcclintock.com/privacy-policy",
-"https://tommcclintock.com/terms-and-conditions",
-"https://tommcclintock.com/voice-single.php?id=106",
-"https://tommcclintock.com/voice-single.php?id=107",
-"https://tommcclintock.com/volunteer",
-"https://twitter.com/tommcclintock",
-"https://youtube.com/user/votemcclintock"
+{
+"text": "About",
+"href": "https://www.tommcclintock.com/about-tom-mcclintock/"
+},
+{
+"text": "Contact the campaign",
+"href": "https://www.tommcclintock.com/contact-the-campaign/"
+},
+{
+"text": "Donate",
+"href": "https://www.tommcclintock.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.tommcclintock.com/#issues"
+},
+{
+"text": "News",
+"href": "https://www.tommcclintock.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tommcclintock.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.tommcclintock.com/terms-and-conditions/"
+},
+{
+"text": "The Principles of War",
+"href": "https://tommcclintock.com/voice-single.php?id=106"
+},
+{
+"text": "They Awakened the Camp",
+"href": "https://tommcclintock.com/voice-single.php?id=107"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tommcclintock.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/tommcclintock"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/jointom"
+},
+{
+"text": "[image]",
+"href": "https://www.tommcclintock.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/user/votemcclintock"
+}
 ]

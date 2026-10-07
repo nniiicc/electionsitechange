@@ -1,35 +1,202 @@
 [
-"https://facebook.com/",
-"https://instagram.com/votevega",
-"https://secure.votevega.nyc/donate",
-"https://tiktok.com/@votevega",
-"https://twitter.com/votevega26",
-"https://votevega.nyc/",
-"https://votevega.nyc/es/statements",
-"https://votevega.nyc/events",
-"https://votevega.nyc/meet-jose",
-"https://votevega.nyc/news",
-"https://votevega.nyc/policy",
-"https://votevega.nyc/policy/peace-through-development",
-"https://votevega.nyc/policy/real-medicare-for-all",
-"https://votevega.nyc/policy/robust-immigration-reform",
-"https://votevega.nyc/policy/space-ccc",
-"https://votevega.nyc/politico",
-"https://votevega.nyc/privacy-policy",
-"https://votevega.nyc/statements",
-"https://votevega.nyc/statements/charlie-kirk",
-"https://votevega.nyc/statements/declaring-my-independence-and-yours",
-"https://votevega.nyc/statements/how-long-will-the-biden-harris-administration-leave-american-astronauts-stranded-in-space",
-"https://votevega.nyc/statements/invoke-resolution-377-to-stop-genocide",
-"https://votevega.nyc/statements/jose-vega-endorses-h-r-10218-to-pull-u-s-atacms-back-from-ukraine-now",
-"https://votevega.nyc/statements/make-wealth-not-war",
-"https://votevega.nyc/statements/mayoral-race",
-"https://votevega.nyc/statements/real-patriots-diane-sare-and-jose-vega-attain-ballot-access-in-new-york",
-"https://votevega.nyc/statements/reject-aipac-and-reject-war",
-"https://votevega.nyc/statements/surveillance-against-jose-vega",
-"https://votevega.nyc/statements/the-bronx-has-never-accepted-slavery",
-"https://votevega.nyc/statements/the-mind-not-the-money-has-to-be-the-power",
-"https://votevega.nyc/statements/what-to-an-american-is-the-fourth-of-july",
-"https://votevega.nyc/terms-and-conditions",
-"https://youtube.com/@DeclaringIndependence"
+{
+"text": "A real medicare for all policy",
+"href": "https://votevega.nyc/policy/real-medicare-for-all/"
+},
+{
+"text": "A revolutionary approach to foreign policy: Peace through Development",
+"href": "https://votevega.nyc/policy/peace-through-development/"
+},
+{
+"text": "A robust immigration reform",
+"href": "https://votevega.nyc/policy/robust-immigration-reform/"
+},
+{
+"text": "All Policies",
+"href": "https://votevega.nyc/policy/"
+},
+{
+"text": "Botched Attack on Jose Vega Reveals Major Financial Conflicts of Interest in Ritchie Torres Campaign",
+"href": "https://votevega.nyc/politico/"
+},
+{
+"text": "Campaign Statements",
+"href": "https://votevega.nyc/statements/"
+},
+{
+"text": "Declaring My Independence - And Yours",
+"href": "https://votevega.nyc/statements/declaring-my-independence-and-yours/"
+},
+{
+"text": "Donate",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.votevega.nyc/donate"
+},
+{
+"text": "Esp",
+"href": "https://votevega.nyc/es/statements/"
+},
+{
+"text": "Events",
+"href": "https://votevega.nyc/events/"
+},
+{
+"text": "How Long Will the Biden-Harris Administration Leave American Astronauts Stranded in Space?",
+"href": "https://votevega.nyc/statements/how-long-will-the-biden-harris-administration-leave-american-astronauts-stranded-in-space/"
+},
+{
+"text": "Invoke Resolution 377 to Stop Genocide",
+"href": "https://votevega.nyc/statements/invoke-resolution-377-to-stop-genocide/"
+},
+{
+"text": "Is Pre-Assassination Surveillance Being Conducted Against Bronx Congressional Candidate Jose Vega?",
+"href": "https://votevega.nyc/statements/surveillance-against-jose-vega/"
+},
+{
+"text": "Jose Vega Endorses H.R. 10218 To Pull U.S. ATACMS Back From Ukraine Now!",
+"href": "https://votevega.nyc/statements/jose-vega-endorses-h-r-10218-to-pull-u-s-atacms-back-from-ukraine-now/"
+},
+{
+"text": "Make Wealth, Not War!!",
+"href": "https://votevega.nyc/statements/make-wealth-not-war/"
+},
+{
+"text": "Make the Bronx the center for reindustrialization of the United States",
+"href": "https://votevega.nyc/policy/space-ccc/"
+},
+{
+"text": "Meet Jose",
+"href": "https://votevega.nyc/meet-jose/"
+},
+{
+"text": "New York City is Not For Sale! We Cannot Be Bought or Bossed",
+"href": "https://votevega.nyc/statements/mayoral-race/"
+},
+{
+"text": "News & Media",
+"href": "https://votevega.nyc/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votevega.nyc/privacy-policy/"
+},
+{
+"text": "REJECT AIPAC, AND REJECT WAR!!",
+"href": "https://votevega.nyc/statements/reject-aipac-and-reject-war/"
+},
+{
+"text": "Read Full Statement",
+"href": "https://votevega.nyc/politico/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/charlie-kirk/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/declaring-my-independence-and-yours/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/how-long-will-the-biden-harris-administration-leave-american-astronauts-stranded-in-space/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/invoke-resolution-377-to-stop-genocide/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/jose-vega-endorses-h-r-10218-to-pull-u-s-atacms-back-from-ukraine-now/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/make-wealth-not-war/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/mayoral-race/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/real-patriots-diane-sare-and-jose-vega-attain-ballot-access-in-new-york/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/reject-aipac-and-reject-war/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/surveillance-against-jose-vega/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/the-bronx-has-never-accepted-slavery/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/the-mind-not-the-money-has-to-be-the-power/"
+},
+{
+"text": "Read More",
+"href": "https://votevega.nyc/statements/what-to-an-american-is-the-fourth-of-july/"
+},
+{
+"text": "Real Patriots Diane Sare and Jose Vega Attain Ballot Access in New York",
+"href": "https://votevega.nyc/statements/real-patriots-diane-sare-and-jose-vega-attain-ballot-access-in-new-york/"
+},
+{
+"text": "Sign Up",
+"href": "https://votevega.nyc/#volunteer"
+},
+{
+"text": "Statement on the Assassination of Charlie Kirk",
+"href": "https://votevega.nyc/statements/charlie-kirk/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votevega.nyc/terms-and-conditions/"
+},
+{
+"text": "The Bronx Has Never Accepted Slavery",
+"href": "https://votevega.nyc/statements/the-bronx-has-never-accepted-slavery/"
+},
+{
+"text": "The MIND, Not the Money, Has To Be the Power",
+"href": "https://votevega.nyc/statements/the-mind-not-the-money-has-to-be-the-power/"
+},
+{
+"text": "What to An “American” Is The Fourth of July?",
+"href": "https://votevega.nyc/statements/what-to-an-american-is-the-fourth-of-july/"
+},
+{
+"text": "[image: Jose Vega for Congress]",
+"href": "https://votevega.nyc/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votevega26"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevega/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votevega"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DeclaringIndependence"
+},
+{
+"text": "press@votevega.nyc",
+"href": "mailto:press@votevega.nyc"
+}
 ]

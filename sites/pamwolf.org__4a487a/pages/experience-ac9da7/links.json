@@ -1,7 +1,26 @@
 [
-"https://pamwolf.org/",
-"https://pamwolf.org/contact-us",
-"https://pamwolf.org/experience",
-"https://pamwolf.org/priorities",
-"https://pollfinder.sos.state.mn.us/"
+{
+"text": "Contact Us",
+"href": "https://pamwolf.org/contact-us/"
+},
+{
+"text": "Experience",
+"href": "https://pamwolf.org/experience/"
+},
+{
+"text": "Pam Wolf",
+"href": "https://pamwolf.org/"
+},
+{
+"text": "Priorities",
+"href": "https://pamwolf.org/priorities/"
+},
+{
+"text": "Vote November 3rd!",
+"href": "https://pollfinder.sos.state.mn.us/"
+},
+{
+"text": "[image: Pam Wolf for State Senate]",
+"href": "https://pamwolf.org/"
+}
 ]

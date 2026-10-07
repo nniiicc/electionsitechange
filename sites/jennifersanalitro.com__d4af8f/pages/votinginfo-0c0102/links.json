@@ -1,20 +1,94 @@
 [
-"https://cookcountyclerkil.gov/elections/voter-registration",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail",
-"https://cookcountyil.gov/service-groups/voting-and-elections",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/early_voting_locations.php",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/registration/register_to_vote.php",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/vote_by_mail_online_application.php",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://jennifersanalitro.com/",
-"https://jennifersanalitro.com/issues",
-"https://jennifersanalitro.com/privacypolicy",
-"https://jennifersanalitro.com/request-a-yard-sign",
-"https://jennifersanalitro.com/votinginfo",
-"https://secure.winred.com/citizens-for-sanalitro/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@wix",
-"https://x.com/wix"
+{
+"text": "About Jennifer",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Citizens for Sanalitro",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "Cook County Clerk",
+"href": "https://www.cookcountyil.gov/service-groups/voting-and-elections"
+},
+{
+"text": "Cook Early Voting",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations"
+},
+{
+"text": "Cook Vote by Mail",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail"
+},
+{
+"text": "Cook Voter Registration",
+"href": "https://www.cookcountyclerkil.gov/elections/voter-registration"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-sanalitro/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "DuPage County Clerk",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/"
+},
+{
+"text": "DuPage Early Voting",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/early_voting_locations.php"
+},
+{
+"text": "DuPage Vote by Mail",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/vote_by_mail_online_application.php"
+},
+{
+"text": "DuPage Voter Registration",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/registration/register_to_vote.php"
+},
+{
+"text": "DuPage Voting 2026",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/early_voting_locations.php"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Home",
+"href": "https://www.jennifersanalitro.com"
+},
+{
+"text": "Issues",
+"href": "https://www.jennifersanalitro.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jennifersanalitro.com/privacypolicy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.jennifersanalitro.com/request-a-yard-sign"
+},
+{
+"text": "Voting Information",
+"href": "https://www.jennifersanalitro.com/votinginfo"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "sanalitroforrep@gmail.com",
+"href": "mailto:info@mysite.com"
+}
 ]

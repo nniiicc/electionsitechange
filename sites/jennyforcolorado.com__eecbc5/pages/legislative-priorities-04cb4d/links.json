@@ -1,66 +1,262 @@
 [
-"http://facebook.com/jennyforcolorado",
-"http://tiktok.com/jennyforcolorado",
-"https://drive.google.com/drive/folders/1RqA1YFLZPdUu8qH88nzlTUbiYI2-pKLD",
-"https://instagram.com/JennyforColorado",
-"https://jennyforcolorado.com/",
-"https://jennyforcolorado.com/about-1",
-"https://jennyforcolorado.com/about-3",
-"https://jennyforcolorado.com/about-7",
-"https://jennyforcolorado.com/book-online",
-"https://jennyforcolorado.com/copy-of-caucus",
-"https://jennyforcolorado.com/copy-of-economy",
-"https://jennyforcolorado.com/copy-of-economy-1",
-"https://jennyforcolorado.com/copy-of-economy-2",
-"https://jennyforcolorado.com/copy-of-education",
-"https://jennyforcolorado.com/issues",
-"https://jennyforcolorado.com/jenny-on-the-issues",
-"https://jennyforcolorado.com/legislative-priorities",
-"https://jennyforcolorado.com/meet-jenny",
-"https://jennyforcolorado.com/press-inquiries",
-"https://jennyforcolorado.com/transparency",
-"https://jennyforcolorado.com/volunteer",
-"https://leg.colorado.gov/bills/HB25-1024",
-"https://leg.colorado.gov/bills/HB25-1185",
-"https://leg.colorado.gov/bills/HB25-1209",
-"https://leg.colorado.gov/bills/HB25-1269",
-"https://leg.colorado.gov/bills/HB25-1291",
-"https://leg.colorado.gov/bills/HB25-1300",
-"https://leg.colorado.gov/bills/SB25-004",
-"https://leg.colorado.gov/bills/SB25-063",
-"https://leg.colorado.gov/bills/SB25-144",
-"https://leg.colorado.gov/bills/SB25-164",
-"https://leg.colorado.gov/bills/SB25-304",
-"https://leg.colorado.gov/bills/hb23-1005",
-"https://leg.colorado.gov/bills/hb23-1031",
-"https://leg.colorado.gov/bills/hb23-1077",
-"https://leg.colorado.gov/bills/hb23-1158",
-"https://leg.colorado.gov/bills/hb23-1161",
-"https://leg.colorado.gov/bills/hb23-1228",
-"https://leg.colorado.gov/bills/hb23-1245",
-"https://leg.colorado.gov/bills/hb23-1294",
-"https://leg.colorado.gov/bills/hb23b-1002",
-"https://leg.colorado.gov/bills/hb24-1084",
-"https://leg.colorado.gov/bills/hb24-1153",
-"https://leg.colorado.gov/bills/hb24-1164",
-"https://leg.colorado.gov/bills/hb24-1223",
-"https://leg.colorado.gov/bills/hb24-1283",
-"https://leg.colorado.gov/bills/hb24-1311",
-"https://leg.colorado.gov/bills/hb24-1341",
-"https://leg.colorado.gov/bills/hb24-1370",
-"https://leg.colorado.gov/bills/hb24-1439",
-"https://leg.colorado.gov/bills/sb23-017",
-"https://leg.colorado.gov/bills/sb23-058",
-"https://leg.colorado.gov/bills/sb23-155",
-"https://leg.colorado.gov/bills/sb23-186",
-"https://leg.colorado.gov/bills/sb23-260",
-"https://leg.colorado.gov/bills/sb23-261",
-"https://leg.colorado.gov/bills/sb24-011",
-"https://leg.colorado.gov/bills/sb24-040",
-"https://leg.colorado.gov/bills/sb24-113",
-"https://leg.colorado.gov/bills/sb24-134",
-"https://leg.colorado.gov/bills/sb24-229",
-"https://leg.colorado.gov/bills/sb25b-002",
-"https://secure.actblue.com/donate/jw4co2024nov",
-"https://youtube.com/@JennyforColorado"
+{
+"text": "Additional Uses Paid Sick Leave",
+"href": "https://leg.colorado.gov/bills/sb23-017"
+},
+{
+"text": "Affordability",
+"href": "https://www.jennyforcolorado.com/about-7"
+},
+{
+"text": "Book Online",
+"href": "https://www.jennyforcolorado.com/book-online"
+},
+{
+"text": "Building Decarbonization Measures",
+"href": "https://leg.colorado.gov/bills/HB25-1269"
+},
+{
+"text": "Campaign Practices For Municipal Elections",
+"href": "https://leg.colorado.gov/bills/hb23-1245"
+},
+{
+"text": "Change Paid Family Medical Leave Insurance Program",
+"href": "https://leg.colorado.gov/bills/SB25-144"
+},
+{
+"text": "Child Conceived from Sex Assault Court Proceedings",
+"href": "https://leg.colorado.gov/bills/HB25-1185"
+},
+{
+"text": "Click here",
+"href": "https://drive.google.com/drive/folders/1RqA1YFLZPdUu8qH88nzlTUbiYI2-pKLD"
+},
+{
+"text": "Colorado Commodity Supplemental Food Grant Program",
+"href": "https://leg.colorado.gov/bills/hb23-1158"
+},
+{
+"text": "Contact",
+"href": "https://www.jennyforcolorado.com/issues"
+},
+{
+"text": "Direct Care Workforce Stabilization Board",
+"href": "https://leg.colorado.gov/bills/sb23-261"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jw4co2024nov"
+},
+{
+"text": "Education",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-1"
+},
+{
+"text": "Environment",
+"href": "https://www.jennyforcolorado.com/copy-of-economy"
+},
+{
+"text": "Environmental Standards For Appliances",
+"href": "https://leg.colorado.gov/bills/hb23-1161"
+},
+{
+"text": "Family Affordability Tax Credit",
+"href": "https://leg.colorado.gov/bills/hb24-1311"
+},
+{
+"text": "Financial Incentives Expand Apprenticeship Programs",
+"href": "https://leg.colorado.gov/bills/hb24-1439"
+},
+{
+"text": "Free Menstrual Products to Students",
+"href": "https://leg.colorado.gov/bills/hb24-1164"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jennyforcolorado.com/volunteer"
+},
+{
+"text": "Health Care",
+"href": "https://www.jennyforcolorado.com/copy-of-economy-2"
+},
+{
+"text": "House District 34",
+"href": "https://www.jennyforcolorado.com/about-3"
+},
+{
+"text": "Improved Access to the Child Care Assistance Program",
+"href": "https://leg.colorado.gov/bills/hb24-1223"
+},
+{
+"text": "Increased Earned Income Tax Credit 2023",
+"href": "https://leg.colorado.gov/bills/hb23b-1002"
+},
+{
+"text": "Individual Access To Publicly Funded Vaccines",
+"href": "https://leg.colorado.gov/bills/sb23-260"
+},
+{
+"text": "Informed Consent To Intimate Patient Examination",
+"href": "https://leg.colorado.gov/bills/hb23-1077"
+},
+{
+"text": "Job Application Fairness Act",
+"href": "https://leg.colorado.gov/bills/sb23-058"
+},
+{
+"text": "Legislature",
+"href": "https://www.jennyforcolorado.com/legislative-priorities"
+},
+{
+"text": "Library Resource Decision Standards for Public Schools",
+"href": "https://leg.colorado.gov/bills/SB25-063"
+},
+{
+"text": "Marijuana Regulation Streamline",
+"href": "https://leg.colorado.gov/bills/HB25-1209"
+},
+{
+"text": "Measures to Address Sexual Assault Kit Backlog",
+"href": "https://leg.colorado.gov/bills/SB25-304"
+},
+{
+"text": "Media Inquiries",
+"href": "https://www.jennyforcolorado.com/press-inquiries"
+},
+{
+"text": "Medical-Aesthetic Services Delegation Disclosures",
+"href": "https://leg.colorado.gov/bills/HB25-1024"
+},
+{
+"text": "Meet Jenny",
+"href": "https://www.jennyforcolorado.com/meet-jenny"
+},
+{
+"text": "Mental Health Professionals Reporting Exemption",
+"href": "https://leg.colorado.gov/bills/hb23-1031"
+},
+{
+"text": "New Energy Improvement Program Changes",
+"href": "https://leg.colorado.gov/bills/hb23-1005"
+},
+{
+"text": "Newsroom",
+"href": "https://www.jennyforcolorado.com/copy-of-caucus"
+},
+{
+"text": "Nursing Facility Reimbursement Rate Setting",
+"href": "https://leg.colorado.gov/bills/hb23-1228"
+},
+{
+"text": "Oil And Gas Commission Study Methane Seepage Raton Basin",
+"href": "https://leg.colorado.gov/bills/sb23-186"
+},
+{
+"text": "Older Adults",
+"href": "https://www.jennyforcolorado.com/copy-of-education"
+},
+{
+"text": "Online-Facilitated Misconduct & Remote Tracking",
+"href": "https://leg.colorado.gov/bills/sb24-011"
+},
+{
+"text": "Operation of Home-Based Businesses",
+"href": "https://leg.colorado.gov/bills/sb24-134"
+},
+{
+"text": "Opioid Antagonist Availability & State Board of Health",
+"href": "https://leg.colorado.gov/bills/SB25-164"
+},
+{
+"text": "Ozone Mitigation Measures",
+"href": "https://leg.colorado.gov/bills/sb24-229"
+},
+{
+"text": "Physician Continuing Education",
+"href": "https://leg.colorado.gov/bills/hb24-1153"
+},
+{
+"text": "Pollution Protection Measures",
+"href": "https://leg.colorado.gov/bills/hb23-1294"
+},
+{
+"text": "Priorities / Issues",
+"href": "https://www.jennyforcolorado.com/jenny-on-the-issues"
+},
+{
+"text": "Reduce Cost of Use of Natural Gas",
+"href": "https://leg.colorado.gov/bills/hb24-1370"
+},
+{
+"text": "Regulating Child Care Center Fees",
+"href": "https://leg.colorado.gov/bills/SB25-004"
+},
+{
+"text": "Repeal & Reenact Earned Income Tax Credit Increase",
+"href": "https://leg.colorado.gov/bills/hb24-1084"
+},
+{
+"text": "SB25B-002",
+"href": "https://leg.colorado.gov/bills/sb25b-002"
+},
+{
+"text": "Safer Youth Sports",
+"href": "https://leg.colorado.gov/bills/sb24-113"
+},
+{
+"text": "Secretary of State Review of Municipal Campaign Finance Complaints",
+"href": "https://leg.colorado.gov/bills/hb24-1283"
+},
+{
+"text": "Speeches & Videos",
+"href": "https://www.jennyforcolorado.com/about-1"
+},
+{
+"text": "State Funding for Senior Services",
+"href": "https://leg.colorado.gov/bills/sb24-040"
+},
+{
+"text": "State Vehicle Idling Standard",
+"href": "https://leg.colorado.gov/bills/hb24-1341"
+},
+{
+"text": "Sunset Continue Nursing Home Administrators",
+"href": "https://leg.colorado.gov/bills/sb23-155"
+},
+{
+"text": "Transparency",
+"href": "https://www.jennyforcolorado.com/transparency"
+},
+{
+"text": "Transportation Network Company Consumer Protection",
+"href": "https://leg.colorado.gov/bills/HB25-1291"
+},
+{
+"text": "Workers' Compensation Benefits Proof of Entitlement",
+"href": "https://leg.colorado.gov/bills/HB25-1300"
+},
+{
+"text": "[image: 1500x500.jpg]",
+"href": "https://www.jennyforcolorado.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/jennyforcolorado"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JennyforColorado/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/jennyforcolorado"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@JennyforColorado"
+},
+{
+"text": "jenny.willford.house@coleg.gov",
+"href": "mailto:jenny.willford.house@coleg.gov"
+}
 ]

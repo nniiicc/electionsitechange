@@ -1,13 +1,10 @@
-Colorado House District 62: Riggenbach and MartinezBy Owen Woods | owen@alamosacitizen.com
-CAROL Riggenbach defeated Ryan G.
+Meet Matthew Issues Legislation Photos News Volunteer Endorsements Contribute News / Colorado House District 62: Riggenbach and Martinez 28 Jun Tuesday, 5:33 PM · 2022 Colorado House District 62: Riggenbach and Martinez JUNE 28, 2022 Colorado House District 62: Riggenbach and Martinez By Owen Woods | owen@alamosacitizen.com CAROL Riggenbach defeated Ryan G.
 Williams in the Republican primary Tuesday to earn a matchup against Democrat Matthew Martinez for the Colorado House District 62 seat.
 Martinez will try to hold onto the statehouse seat for the Democrats following Don Valdez, who has represented the district since 2017.
 Valdez, who failed in his bid for the U.S.
 Congress, will end his term in January 2023.
-In interviews Tuesday with Alamosa Citizen, Riggenbach and Martinez addressed some of the issues that will come up on the campaign trail leading into the November general election.
-Read their answers below:
-Carol Riggenbach (Republican)
-Q: What is the general message you’re trying to get out to voters going into the November General Election?
+In interviews Tuesday with Alamosa Citizen , Riggenbach and Martinez addressed some of the issues that will come up on the campaign trail leading into the November general election.
+Read their answers below: Carol Riggenbach (Republican) Q: What is the general message you’re trying to get out to voters going into the November General Election?
 A: We have to take our state back.
 And we need to fight for our freedoms, we cannot lose our freedoms.
 There are many, many people that died to give us our freedom and we can’t just let it go and take it for granted.
@@ -36,14 +33,11 @@ That bill sat there and died, and why is that?
 Why are we at a place in our county, in our state, right now where you can’t even have a visitor in the hospital?
 And that means you could possibly die alone.
 There is some serious, serious healthcare issues that are on the table right now and it’s election year so they’ve kind of died down, but we’re gonna see all that come up again.
-It’s only a matter of time.
-*SB22-053 Health Facility Visitation During Pandemic bill, which allows at least one visitor and prohibits a health-care facility from prohibiting visitors due to the COVID-19 Pandemic was signed into law by Gov.
+It’s only a matter of time. * SB22-053 Health Facility Visitation During Pandemic bill, which allows at least one visitor and prohibits a health-care facility from prohibiting visitors due to the COVID-19 Pandemic was signed into law by Gov.
 Polis on June 8, 2022.
-Matthew Martinez (Democrat)
-Q: What is the general message you’re trying to get out to voters going into the November General Election?
+Matthew Martinez (Democrat) Q: What is the general message you’re trying to get out to voters going into the November General Election?
 A: First of all, I think that rural and southern Colorado really needs a good advocate and fighter at the capital and to be our voice and our representative in Denver to making sure legislation that’s passed has an impact here in the San Luis Valley and in Pueblo and in Huerfano counties, to make sure that we’re well represented.
-I want to be the voice for that, the voice for southern Colorado and I promise to be our champion, our advocate and our voice
-Q: Do you agree that Colorado has an effective election system?
+I want to be the voice for that, the voice for southern Colorado and I promise to be our champion, our advocate and our voice Q: Do you agree that Colorado has an effective election system?
 A: Yes I do.
 Q: Do you support Colorado’s Reproductive Health Equity Act, which enshrines the right to an abortion and to birth control?
 Is this a topic you expect to debate with your opponent?
@@ -62,3 +56,4 @@ Next, I want to expand healthcare out.
 I want to improve on our current system with telehealth, as well as providing support for community health center networks and our local hospitals in the district.
 The last big one is I want to have a statewide initiative to be able to combat veteran susicide from the state level, since the VA system has undergone some changes as of late and they’re not gonna be able to provide the same services that they were two or three years ago, so I want to be able to do that.
 Then I also want to fight to make sure that the Alamosa VA clinic stays open and operational.
+Endorsements Events Photos Contact Paid for By The Friends of Matthew Martinez Powered by CampaignPartner.com - Political Websites Home Meet Matthew Issues Legislation Endorsements Contribute Volunteer News Events Contact Close Menu

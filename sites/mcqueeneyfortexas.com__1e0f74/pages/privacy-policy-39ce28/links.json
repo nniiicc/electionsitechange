@@ -1,14 +1,58 @@
 [
-"https://facebook.com/McQueeneyForTX",
-"https://instagram.com/johnmcqueeneytx",
-"https://mcqueeneyfortexas.com/",
-"https://mcqueeneyfortexas.com/contact",
-"https://mcqueeneyfortexas.com/endorsements",
-"https://mcqueeneyfortexas.com/get-involved",
-"https://mcqueeneyfortexas.com/issues",
-"https://mcqueeneyfortexas.com/meet-john",
-"https://mcqueeneyfortexas.com/privacy-policy",
-"https://mcqueeneyfortexas.com/terms-conditions",
-"https://secure.anedot.com/john-mcqueeney-for-texas/donate",
-"https://x.com/JohnMcQueeneyTX"
+{
+"text": "Contact",
+"href": "https://mcqueeneyfortexas.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/john-mcqueeney-for-texas/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://mcqueeneyfortexas.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/McQueeneyForTX"
+},
+{
+"text": "Home",
+"href": "https://mcqueeneyfortexas.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/johnmcqueeneytx/"
+},
+{
+"text": "Issues",
+"href": "https://mcqueeneyfortexas.com/issues/"
+},
+{
+"text": "Meet John",
+"href": "https://mcqueeneyfortexas.com/meet-john/"
+},
+{
+"text": "Volunteer",
+"href": "https://mcqueeneyfortexas.com/get-involved/"
+},
+{
+"text": "X",
+"href": "https://x.com/JohnMcQueeneyTX"
+},
+{
+"text": "[image: John McQueeney for Texas]",
+"href": "https://mcqueeneyfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://mcqueeneyfortexas.com/privacy-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://mcqueeneyfortexas.com/terms-conditions/"
+},
+{
+"text": "contact@mcqueeneyfortexas.com",
+"href": "mailto:contact@mcqueeneyfortexas.com"
+}
 ]

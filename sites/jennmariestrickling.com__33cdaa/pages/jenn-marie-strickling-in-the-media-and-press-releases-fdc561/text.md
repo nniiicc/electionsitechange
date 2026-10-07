@@ -1,11 +1,2 @@
-JENN MARIE STRICKLING IN THE NEWS, MEDIA, AND PRESS RELEASES
-Jenn Marie Strickling In The News
-- Democrats Poised to Gain Seats in Washington State Legislature - The Urbanist 8/26/2026
-- Who’s running for a seat in the WA Legislature?
-Here are the local candidates - The Olympian 5/12/2026
-- Here’s who is running for elected office in Pierce County this year - Tacoma News Tribune 5/9/2026
-- Washington State University Athletics Profile - Rowing
-- Official Proclamation Recognizing Charter Review Commissioners - July 7th, 2026
-- On The Record Podcast: Representation for Working People - June 2nd, 2026
-- Charter Amendment C-12: Project Workforce & Labor Agreements - Submitted March 2026
-- Charter Amendment C-27: Housing Stability & Manufactured Home Protections - Submitted March 2026
+0 Skip to Content Home Endorsements Meet Jenn Marie My Priorities Media Contact English Donate Open Menu Close Menu Home Endorsements Meet Jenn Marie My Priorities Media Contact English Donate Open Menu Close Menu Home Endorsements Meet Jenn Marie My Priorities Media Contact English Back Donate JENN MARIE STRICKLING IN THE NEWS, MEDIA, AND PRESS RELEASES Jenn Marie Strickling In The News Democrats Poised to Gain Seats in Washington State Legislature - The Urbanist 8/26/2026 Who’s running for a seat in the WA Legislature?
+Here are the local candidates - The Olympian 5/12/2026 Here’s who is running for elected office in Pierce County this year - Tacoma News Tribune 5/9/2026 Washington State University Athletics Profile - Rowing Official Proclamation Recognizing Charter Review Commissioners - July 7th, 2026 On The Record Podcast: Representation for Working People - June 2nd, 2026 Charter Amendment C-12: Project Workforce & Labor Agreements - Submitted March 2026 Charter Amendment C-27: Housing Stability & Manufactured Home Protections - Submitted March 2026 Jenn Marie Strickling Media Photos Paid for by Elect Strickling 4320 44th AVE E, Summit-Waller, WA 98443 Contact electstrickling@gmail.com

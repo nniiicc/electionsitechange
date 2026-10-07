@@ -1,12 +1,54 @@
 [
-"https://facebook.com/jeff4idaho",
-"https://instagram.com/jeff4idaho",
-"https://jeffehlers4idaho.com/",
-"https://jeffehlers4idaho.com/about",
-"https://jeffehlers4idaho.com/donate",
-"https://jeffehlers4idaho.com/endorsements",
-"https://jeffehlers4idaho.com/experience",
-"https://jeffehlers4idaho.com/issues",
-"https://jeffehlers4idaho.com/waystohelp",
-"https://twitter.com/Jeff4Idaho"
+{
+"text": "ABOUT",
+"href": "https://jeffehlers4idaho.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://jeffehlers4idaho.com/donate/"
+},
+{
+"text": "Donate!",
+"href": "https://www.jeffehlers4idaho.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jeffehlers4idaho.com/endorsements/"
+},
+{
+"text": "EXPERIENCE",
+"href": "https://jeffehlers4idaho.com/experience/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/jeff4idaho"
+},
+{
+"text": "HOME",
+"href": "https://jeffehlers4idaho.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://jeffehlers4idaho.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jeff4idaho"
+},
+{
+"text": "Jeff Ehlers For Idaho",
+"href": "https://jeffehlers4idaho.com"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Jeff4Idaho"
+},
+{
+"text": "WAYS TO HELP",
+"href": "https://jeffehlers4idaho.com/waystohelp/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.jeffehlers4idaho.com/"
+}
 ]

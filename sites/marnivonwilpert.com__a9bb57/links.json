@@ -1,27 +1,118 @@
 [
-"https://bsky.app/profile/marnivonwilpert.bsky.social",
-"https://cbs8.com/video/news/local/san-diego-councilmember-demanding-firm-return-date-for-uss-abraham-lincoln/509-78973165-aea0-4b57-ace9-6089dd727839",
-"https://designedtorun.com/",
-"https://facebook.com/marniforcongress",
-"https://instagram.com/marni_von_wilpert",
-"https://mailchi.mp/marnivonwilpert/lincoln",
-"https://mailchi.mp/marnivonwilpert/sdpoa",
-"https://marnivonwilpert.com/",
-"https://marnivonwilpert.com/about",
-"https://marnivonwilpert.com/endorsements",
-"https://marnivonwilpert.com/issues",
-"https://marnivonwilpert.com/media-2",
-"https://marnivonwilpert.com/news",
-"https://marnivonwilpert.com/privacy-policy",
-"https://marnivonwilpert.com/terms-and-conditions",
-"https://marnivonwilpert.com/volunteer",
-"https://secure.actblue.com/donate/marni_vonwilpert",
-"https://secure.actblue.com/donate/marni_vonwilpert?amount=10",
-"https://secure.actblue.com/donate/marni_vonwilpert?amount=100",
-"https://secure.actblue.com/donate/marni_vonwilpert?amount=1000",
-"https://secure.actblue.com/donate/marni_vonwilpert?amount=25",
-"https://secure.actblue.com/donate/marni_vonwilpert?amount=250",
-"https://store.marnivonwilpert.com/",
-"https://x.com/marnivonwilpert",
-"https://youtube.com/@MarnivonWilpertforCongress"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert?amount=250"
+},
+{
+"text": "About",
+"href": "https://www.marnivonwilpert.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marnivonwilpert.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.marnivonwilpert.com/issues"
+},
+{
+"text": "Learn more about Marni's plans to make Congress work for us",
+"href": "https://www.marnivonwilpert.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.marnivonwilpert.com/media-2"
+},
+{
+"text": "Meet Marni",
+"href": "https://www.marnivonwilpert.com/about"
+},
+{
+"text": "News",
+"href": "https://www.marnivonwilpert.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marnivonwilpert.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://mailchi.mp/marnivonwilpert/lincoln"
+},
+{
+"text": "Read more",
+"href": "https://mailchi.mp/marnivonwilpert/sdpoa"
+},
+{
+"text": "Read more",
+"href": "https://www.cbs8.com/video/news/local/san-diego-councilmember-demanding-firm-return-date-for-uss-abraham-lincoln/509-78973165-aea0-4b57-ace9-6089dd727839"
+},
+{
+"text": "Store",
+"href": "https://store.marnivonwilpert.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.marnivonwilpert.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.marnivonwilpert.com/volunteer"
+},
+{
+"text": "[image: Marni von Wilpert for Congress]",
+"href": "https://www.marnivonwilpert.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/marnivonwilpert.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/marniforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/marni_von_wilpert/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarnivonWilpertforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/marnivonwilpert"
+},
+{
+"text": "info@marnivonwilpert.com",
+"href": "mailto:info@marnivonwilpert.com"
+}
 ]

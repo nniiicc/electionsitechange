@@ -1,10 +1,38 @@
 [
-"https://dan4mnhouse.com/",
-"https://dan4mnhouse.com/about",
-"https://dan4mnhouse.com/gallery",
-"https://dan4mnhouse.com/priorities",
-"https://dan4mnhouse.com/the-network",
-"https://facebook.com/Dan4MNHouse",
-"https://instagram.com/dan4mnhouse",
-"https://secure.actblue.com/donate/dan4mnhouse"
+{
+"text": "About",
+"href": "https://www.dan4mnhouse.com/about"
+},
+{
+"text": "Dan4MNHouse@outlook.com",
+"href": "mailto:Dan4MNHouse@outlook.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan4mnhouse"
+},
+{
+"text": "Gallery",
+"href": "https://www.dan4mnhouse.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.dan4mnhouse.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.dan4mnhouse.com/priorities"
+},
+{
+"text": "The Network",
+"href": "https://www.dan4mnhouse.com/the-network"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Dan4MNHouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/dan4mnhouse"
+}
 ]

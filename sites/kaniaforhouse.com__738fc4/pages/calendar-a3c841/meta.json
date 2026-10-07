@@ -1,7 +1,9 @@
 {
  "description": "View campaign events, appearances, and upcoming opportunities to connect with Aaron Kania across District 3A.",
  "final_url": "https://kaniaforhouse.com/calendar",
- "paid_for_by": null,
+ "fingerprint": "0217a0e99dbc195933337bfd10f40243cda93a8b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Calendar | Aaron Kania for Minnesota House District 3A",
  "years_mentioned": []
 }

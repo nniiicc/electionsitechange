@@ -1,6 +1,2 @@
-tamara bavendam believes in
-Supporting our Veterans
-- Specialized Veteran's Health Services
-- Subsidize Housing
-- Encourage companies to hire vets
-- Foster veteran-owned business development
+Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Vote Donate Home About Issues News Endorsements Events Volunteer Contact Vote Donate Strong Public Education Supporting Family Farms Supporting Working People Supporting our Senior Citizens Supporting our Veterans Affordable Healthcare for ALL tamara bavendam believes in Supporting our Veterans Specialized Veteran's Health Services Subsidize Housing Encourage companies to hire vets Foster veteran-owned business development Have any questions?
+Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

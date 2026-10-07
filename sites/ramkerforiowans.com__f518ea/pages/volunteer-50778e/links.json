@@ -1,9 +1,34 @@
 [
-"https://facebook.com/p/Nathan-Ramker-for-Iowans-61562098584272",
-"https://ramkerforiowans.com/",
-"https://ramkerforiowans.com/about",
-"https://ramkerforiowans.com/contribute",
-"https://ramkerforiowans.com/events-1",
-"https://ramkerforiowans.com/volunteer",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.ramkerforiowans.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.ramkerforiowans.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.ramkerforiowans.com/events-1"
+},
+{
+"text": "Home",
+"href": "https://www.ramkerforiowans.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ramkerforiowans.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/p/Nathan-Ramker-for-Iowans-61562098584272/"
+},
+{
+"text": "[image]",
+"href": "mailto:ramkerforiowans@gmail.com?subject=Your+name+-+A+note+to+Nathan+Ramker+for+Iowans+Campaign"
+}
 ]

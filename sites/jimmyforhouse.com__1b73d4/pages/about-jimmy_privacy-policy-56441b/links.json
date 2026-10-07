@@ -1,18 +1,78 @@
 [
-"https://jimmyforhouse.com/",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/about-jimmy",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/accessibility-statement",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/contact",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/donate",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/mobile-terms-and-conditions",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/my-principles",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/privacy-policy",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/terms-of-use",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/volunteer",
-"https://jimmyforhouse.com/about-jimmy/privacy-policy/yard-sign",
-"https://jimmyforhouse.com/cdn-cgi/l/email-protection",
-"https://pollfinder.sos.mn.gov/",
-"https://privacypolicytemplate.net/",
-"https://termsfeed.com/",
-"https://userway.org/"
+{
+"text": "763-587-5633",
+"href": "tel:763-587-5633"
+},
+{
+"text": "About Jimmy",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/about-jimmy/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/contact/"
+},
+{
+"text": "Contact Info",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/donate/"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Mobile Terms and Conditions",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/mobile-terms-and-conditions/"
+},
+{
+"text": "My Principles",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/my-principles/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/privacy-policy/"
+},
+{
+"text": "Privacy Policy Template",
+"href": "https://www.privacypolicytemplate.net"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/terms-of-use/"
+},
+{
+"text": "TermsFeed Generator",
+"href": "https://www.termsfeed.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/yard-sign/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@jimmyforhouse.com"
+},
+{
+"text": "[image: Jimmy Gordon for House]",
+"href": "https://www.jimmyforhouse.com/"
+},
+{
+"text": "contact us",
+"href": "https://www.jimmyforhouse.com/about-jimmy/privacy-policy/contact/"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+}
 ]

@@ -1,11 +1,54 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/contact.html",
-"https://staciebakerforohio.org/endorsements.html",
-"https://staciebakerforohio.org/events.html",
-"https://staciebakerforohio.org/get-involved.html",
-"https://staciebakerforohio.org/volunteer.html",
-"https://staciebakerforohio.org/yard-sign.html"
+{
+"text": "About",
+"href": "https://www.staciebakerforohio.org/#about"
+},
+{
+"text": "Announcements",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker for Ohio",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.staciebakerforohio.org/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.staciebakerforohio.org/endorsements.html"
+},
+{
+"text": "Events",
+"href": "https://www.staciebakerforohio.org/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staciebakerforohio.org/get-involved.html"
+},
+{
+"text": "Platform",
+"href": "https://www.staciebakerforohio.org/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.staciebakerforohio.org/volunteer.html"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.staciebakerforohio.org/yard-sign.html"
+},
+{
+"text": "← Back to Home",
+"href": "https://www.staciebakerforohio.org/"
+}
 ]

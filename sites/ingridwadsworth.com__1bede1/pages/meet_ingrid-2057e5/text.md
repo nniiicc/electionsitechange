@@ -1,7 +1,4 @@
-Meet Ingrid
-USA Today, in their article, May 29, 2026 about Grassroot Candidates wrote:
-"Ingrid Wadsworth appears to be the ideal candidate for Democrats in the Panhandle."
-I am running as the Democratic Candidate for Florida State House of Representatives District 3, which covers Santa Rosa County and the northern half of Okaloosa County on the Florida Panhandle.
+Home Meet Ingrid Issues Community & Career Connections News Contribute Endorsements Meet Ingrid USA Today, in their article, May 29, 2026 about Grassroot Candidates wrote: "Ingrid Wadsworth appears to be the ideal candidate for Democrats in the Panhandle." I am running as the Democratic Candidate for Florida State House of Representatives District 3, which covers Santa Rosa County and the northern half of Okaloosa County on the Florida Panhandle.
 New voice, new choice, for community over politics.
 I am a retired executive, military widow, microbiologist, farmer, and now an author.
 My two executive positions, over the past 25 years, required me to interact with Federal, State and local elected officials regularly and successfully, which gave me direct opportunities to build my unique skills in getting the job done.
@@ -19,3 +16,4 @@ I'm running to represent everyone.
 Both our US Constitution, and the Florida Constitution begin with the same 3 words: WE THE PEOPLE.
 Isn’t it time that we elected a candidate that remembers that elected officials work for WE THE PEOPLE?
 I am that candidate.
+Voter Information Endorsements Yard Signs Photos Contact Ingrid Wadsworth for Florida House District 3 Powered by CampaignPartner.com - Political Websites Home Meet Ingrid Issues Endorsements Contribute News Yard Signs Contact Voter Information Close Menu

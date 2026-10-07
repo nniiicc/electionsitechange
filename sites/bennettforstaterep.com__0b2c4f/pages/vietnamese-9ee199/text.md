@@ -1,40 +1,14 @@
-Là một viên chức vô cùng tận tuỵ trong việc phục vụ cộng đồng khu vực phía Tây Houston, ông Dave Bennett luôn đề cao sự liêm chính và đời sống trách nhiệm. Ông là chủ nhân của một công ty nhỏ, một kỹ sư chuyên nghiệp cao cấp đã nghỉ hưu, đồng thời cũng là một người lãnh đạo cộng đồng đáng tin cậy.
+DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 More DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 DAVE BENNETT FOR STATE REPRESENTATIVE TEXAS HOUSE DISTRICT 149 Vietnamese Vietnamese QUYÊN GÓP NGAY LIÊN HỆ / TÌNH NGUYỆN / BIỂN HIỆU SÂN VƯỜN / ỦNG HỘ See this page in English DAVE Bennett Là một viên chức vô cùng tận tuỵ trong việc phục vụ cộng đồng khu vực phía Tây Houston, ông Dave Bennett luôn đề cao sự liêm chính và đời sống trách nhiệm. Ông là chủ nhân của một công ty nhỏ, một kỹ sư chuyên nghiệp cao cấp đã nghỉ hưu, đồng thời cũng là một người lãnh đạo cộng đồng đáng tin cậy.
 Quyết tâm của ông trong cuộc tranh cử kỳ này là tăng cường an ninh ở các nơi công cộng, giảm chi phí sinh hoạt của đời sống, và là một người đại diện có trách nhiệm và phục vụ tốt cho mọi cư dân của khu vực HD 149.
-Các tổ chức ủng hộ:
-- Câu lạc bộ South 7 Meetup
-- Câu lạc bộ Menudo của Texas
-• TĂNG CƯỜNG AN NINH CÔNG CỘNG VÀ THỰC THI PHÁP LUẬT
-Ủng hộ các chính sách chế tài và không cho phép tại ngoại đối với các phạm nhân tái phạm hình sự và tội phạm bạo lực, đồng thời thúc đấy ưu tiên về an toàn cộng đồng trong ngành tư pháp.
-Mặc dù gần đây có những cải cách tích cực, nhưng vẫn cần thúc đẩy việc thực thi pháp luật mạnh mẽ để hạn chế tái phạm của các tội phạm có tiền án và giữ gìn an ninh trong các khu dân cư.
-• BẢO VỆ QUYỀN CỦA CHA MẸ VÀ BẢO VỆ TRẺ EM
-Đảm bảo cha mẹ vẫn là những người quyết định chính trong việc giáo dục và chăm lo phúc lợi cho con cái.
-Tiếp tục tăng cường an ninh, bảo vệ tốt học sinh trong các trường công lập, đồng thời buộc các cá nhân và tổ chức phải chịu trách nhiệm nếu có hành động gây nguy hiểm cho các em.
-• BẢO VỆ TEXAS KHỎI CÁC KẺ THÙ TỪ NGOẠI QUỐC
-Thúc đấy các đạo luật ngăn chặn các chính phủ ngoại quốc có thù địch với Hoa Kỳ muốn chiếm đoạt đất đai của Tiểu bang Texas hoặc gây ảnh hưởng đến các thể chế chính trị của chúng ta.
+Các tổ chức ủng hộ: Câu lạc bộ South 7 Meetup Câu lạc bộ Menudo của Texas Bennett Tranh Cử Dân Biểu Quốc Hội Tiểu Bang Texas Bảo vệ người dân và trẻ em Texas là ưu tiên hàng đầu Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas • TĂNG CƯỜNG AN NINH CÔNG CỘNG VÀ THỰC THI PHÁP LUẬT Ủng hộ các chính sách chế tài và không cho phép tại ngoại đối với các phạm nhân tái phạm hình sự và tội phạm bạo lực, đồng thời thúc đấy ưu tiên về an toàn cộng đồng trong ngành tư pháp.
+Mặc dù gần đây có những cải cách tích cực, nhưng vẫn cần thúc đẩy việc thực thi pháp luật mạnh mẽ để hạn chế tái phạm của các tội phạm có tiền án và giữ gìn an ninh trong các khu dân cư. • BẢO VỆ QUYỀN CỦA CHA MẸ VÀ BẢO VỆ TRẺ EM Đảm bảo cha mẹ vẫn là những người quyết định chính trong việc giáo dục và chăm lo phúc lợi cho con cái.
+Tiếp tục tăng cường an ninh, bảo vệ tốt học sinh trong các trường công lập, đồng thời buộc các cá nhân và tổ chức phải chịu trách nhiệm nếu có hành động gây nguy hiểm cho các em. • BẢO VỆ TEXAS KHỎI CÁC KẺ THÙ TỪ NGOẠI QUỐC Thúc đấy các đạo luật ngăn chặn các chính phủ ngoại quốc có thù địch với Hoa Kỳ muốn chiếm đoạt đất đai của Tiểu bang Texas hoặc gây ảnh hưởng đến các thể chế chính trị của chúng ta.
 Chính sách của Tiểu bang Texas phải ưu tiên an ninh, minh bạch và tính độc lập để đề phòng bất kỳ sự can thiệp nào từ bên ngoài.
-• THÚC ĐẨY CẢI CÁCH THUẾ BẤT ĐỘNG SẢN
-Các chính sách hiện hành chỉ làm chậm tốc độ tăng thuế.
-Texas cần cải cách cấu trúc để mang lại sự giảm thuế bất động sản lâu dài và có thể đo lường được cho các chủ nhà và doanh nghiệp nhỏ.
-• CẢI THIỆN SỰ ỔN ĐỊNH VỀ NĂNG LƯỢNG VÀ GIẢM CHI PHÍ
-Tiếp tục phát huy tiến độ lập pháp nhằm tăng cường lưới điện, giảm bớt các sự cố mất điện và ổn định chi phí điện.
-Cần có những hành động cụ thể và thường xuyên để duy trì việc cung cấp năng lượng ổn định và giá cả phải chăng cho các gia đình tại Texas.
-• TẬP TRUNG LÀM VIỆC VÀ ĐẠI DIỆN NGƯỜI DÂN MỘT CÁCH NHẤT QUÁN
-Mang đến sự đại diện tích cực cho người dân tại Austin.
-Tập trung và việc kết nối, lắng nghe ý kiến người dân để kịp thời ghi nhận, phản hồi và đáp ứng nhu cầu của người dân trong khu vực.
-• ỦNG HỘ CÁC ƯU TIÊN CỦA KHU VỰC
-Biến các ý kiến đóng góp của cộng đồng thành các hành động lập pháp cụ thể. Đảm bảo các ưu tiên của khu vực HD-149 được đại diện và được thúc đẩy mạnh mẽ.
-• TĂNG CƯỜNG TÍNH TOÀN VẸN VÀ MINH BẠCH CỦA HỆ THỐNG BẦU CỬ
-Hỗ trợ các biện pháp thực thi nhằm cải thiện việc giải trình về ghi danh bầu cử cũng như đảm bảo hoạt động của hệ thống bầu cử luôn chính xác và minh bạch.
+Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas • THÚC ĐẨY CẢI CÁCH THUẾ BẤT ĐỘNG SẢN Các chính sách hiện hành chỉ làm chậm tốc độ tăng thuế.
+Texas cần cải cách cấu trúc để mang lại sự giảm thuế bất động sản lâu dài và có thể đo lường được cho các chủ nhà và doanh nghiệp nhỏ. • CẢI THIỆN SỰ ỔN ĐỊNH VỀ NĂNG LƯỢNG VÀ GIẢM CHI PHÍ Tiếp tục phát huy tiến độ lập pháp nhằm tăng cường lưới điện, giảm bớt các sự cố mất điện và ổn định chi phí điện.
+Cần có những hành động cụ thể và thường xuyên để duy trì việc cung cấp năng lượng ổn định và giá cả phải chăng cho các gia đình tại Texas. ĐẢM BẢO SỰ ĐẠI DIỆN CÓ TRÁCH NHIỆM CHO KHU VỰC HD-149 Giảm chi phí sinh hoạt cho các gia đình người dân tại Texas ĐẢM BẢO SỰ ĐẠI DIỆN CÓ TRÁCH NHIỆM CHO KHU VỰC HD-149 • TẬP TRUNG LÀM VIỆC VÀ ĐẠI DIỆN NGƯỜI DÂN MỘT CÁCH NHẤT QUÁN Mang đến sự đại diện tích cực cho người dân tại Austin.
+Tập trung và việc kết nối, lắng nghe ý kiến người dân để kịp thời ghi nhận, phản hồi và đáp ứng nhu cầu của người dân trong khu vực. • ỦNG HỘ CÁC ƯU TIÊN CỦA KHU VỰC Biến các ý kiến đóng góp của cộng đồng thành các hành động lập pháp cụ thể. Đảm bảo các ưu tiên của khu vực HD-149 được đại diện và được thúc đẩy mạnh mẽ. • TĂNG CƯỜNG TÍNH TOÀN VẸN VÀ MINH BẠCH CỦA HỆ THỐNG BẦU CỬ Hỗ trợ các biện pháp thực thi nhằm cải thiện việc giải trình về ghi danh bầu cử cũng như đảm bảo hoạt động của hệ thống bầu cử luôn chính xác và minh bạch.
 Cần tăng cường giám sát chặt chẽ hơn để duy trì niềm tin của cử tri và công chúng.
-Đếm ngược đến ngày bầu cử
-00
-DaysDays
-HrsHours
-MinsMinutes
-SecsSeconds
-Political Ad Paid for by Dave Bennett Campaign
-11807 WESTHEIMER RD., STE. 550, BOX 532, HOUSTON, TX 77077
-Copyright © 2026 Dave Bennett Campaign - All Rights Reserved
-GoDaddy | Lone Star Strategic Consulting
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+HÃY CÙNG BẮT TAY HÀNH ĐỘNG TỪ HÔM NAY ĐỂ CÙNG NHAU XÂY DỰNG MỘT TIỂU BANG TEXAS VỮNG MẠNH HƠN!
+CHÚNG TA KHÔNG CÒN NHIỀU THỜI GIAN - HÃY CÙNG CHUNG TAY LÀM Đếm ngược đến ngày bầu cử # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Terms and Conditions Privacy Policy Political Ad Paid for by Dave Bennett Campaign 11807 WESTHEIMER RD., STE.
+550, BOX 532, HOUSTON, TX 77077 (713) 581-6591 Copyright © # Dave Bennett Campaign - All Rights Reserved GoDaddy | Lone Star Strategic Consulting

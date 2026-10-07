@@ -1,9 +1,12 @@
 {
  "description": "John Gunther in the News",
  "final_url": "https://gunther4assembly.com/news",
+ "fingerprint": "d5f1d4d5c23da5349a32f9b0883a0a2e86c9ea83",
+ "format": 3,
  "paid_for_by": "Paid for by the gunther4assembly committee Powered by CampaignPartner",
  "title": "News From John Gunther for Assembly NY District 114",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2026"
  ]
 }

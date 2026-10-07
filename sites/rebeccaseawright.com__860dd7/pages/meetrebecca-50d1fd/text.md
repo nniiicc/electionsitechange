@@ -1,5 +1,4 @@
-Meet Assemblywoman Rebecca Seawright
-Rebecca A.
+Skip to content MEET REBECCA ISSUES Protecting and Enhancing Women’s Rights Animal Rights Criminal Justice Reform Election Reform Environmental Gun Reform Health and Safety During COVID-19 Higher Education Homelessness Housing K-12 Education LGBTQ+ Senior Citizen Rights Small Businesses Taxes Transportation ENDORSEMENTS Organization Endorsements GET INVOLVED NEWS DONATE Meet Assemblywoman Rebecca Seawright Rebecca A.
 Seawright represents the Upper East Side, Yorkville, and Roosevelt Island in New York’s 76th Assembly District.
 As the first woman to serve the district and since her election in 2014, she is known as a strong voice for over 133,000 constituents, securing over $15 million in funding for public schools, senior centers, parks, and non-profits.
 Appointed by the Speaker in 2021, she holds the Leadership position of Chair of the Majority Steering Committee.
@@ -18,3 +17,4 @@ Rebecca has organized hundreds of community events supporting seniors, including
 In response to the COVID19 pandemic, Rebecca co-sponsored emergency legislation that suspends rent payments for small business commercial tenants and certain mortgage payments due to COVID-19.
 Rebecca has always stood alongside organized labor in Manhattan, Albany, and communities across New York in the fight for fair contracts, strong worker protections, and ensuring that working families have what they need to thrive.
 She has long supported the right of workers to organize and bargain collectively, believing that a strong labor movement is essential to building a more equitable economy and giving working people a real voice in the decisions that shape their lives and communities.
+Back to Top Paid for by Friends of Rebecca Seawright

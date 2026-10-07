@@ -1,4 +1,6 @@
-Since the Affordable Care Act (ACA) was implemented 10 years ago, 217,000 Mainers have gained health care coverage.
+207-400-6846 samzager@gmail.com CONTRIBUTE VOLUNTEER 207-400-6846 samzager@gmail.com Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show your support Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show Your Support Home About Sam Ballotpedia Survey What Others Say Endorsers Priorities Experience Taking a Stand Leadership and Education News Show Your Support Opinion: The battle for affordable, accessible health care is far from over Sasha Leland The Affordable Care Act must be protected.
+Donald Trump’s threats to “terminate” it are alarming and should concern every Mainer.
+Since the Affordable Care Act (ACA) was implemented #ago, 217,000 Mainers have gained health care coverage.
 I was one of them.I previously had military health insurance, then university student coverage, but in 2014 the ACA helped my family avoid falling into an abyss.
 During the two-month interval between finishing my family medicine training here in Maine and the start date of my employer-based coverage, my wife, Tracy, felt a lump and was diagnosed with breast cancer.
 Anyone who has been there understands the terror that follows.
@@ -11,7 +13,7 @@ It helped us obtain crucial coverage for prompt evaluation and treatment, and it
 These ACA protections are vital for so many Maine families.
 Yet, despite the ACA’s standing as the law of the land, the battle for affordable and accessible health care is far from over.
 Donald Trump’s threats to “terminate” the ACA are alarming and should concern every Mainer.
-On his first day in office in 2017, he issued an executive order for the “prompt repeal of the Affordable Care Act.” And just a few weeks ago on the debate stage, he said he was “looking at” plans to get rid of it.
+On his first day in office in 2017, he issued an executive order for the “prompt repeal of the Affordable Care Act.” And just a few weeks ago on the debate stage , he said he was “looking at” plans to get rid of it.
 Trump’s intended repeal of ACA protections could strip away health insurance from hundreds of thousands of Mainers and allow insurance companies to deny coverage for the preexisting conditions so many of us have.
 Kamala Harris offers a vision that prioritizes health care access and affordability.
 As vice president, she’s worked to reduce prescription drug costs for nearly 375,000 Mainers, cap insulin at $35/month for seniors, and allow Medicare to negotiate drug prices.
@@ -26,6 +28,12 @@ Maine’s leaders must also work for comprehensive coverage, affordable medicati
 Maine ballots for this election are already returning from military bases overseas.
 With this election already underway, let’s come together to shape the conversation around health care and make it a priority for every candidate.
 Together, we can make a real difference for our health and our future.
-Zager, S.
-(2024) ‘Opinion: The battle for affordable, accessible health care is far from over’, Portland Press Herald, October 3.
-Available at https://www.pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over/ (Accessed: November 6, 2024)
+Read full article Zager, S.
+(2024) ‘Opinion: The battle for affordable, accessible health care is far from over’, Portland Press Herald , October 3.
+Available at https://www.pressherald.com/2024/10/03/opinion-the-battle-for-affordable-accessible-health-care-is-far-from-over/ (Accessed: November 6, 2024) Share this post Back to NEWS page I would be honored to represent Maine House District 116 as a Democrat to help cultivate our brightest possible future.
+While I would faithfully represent our neighborhoods in Augusta, I am rooted in our community and committed to serving others.
+Menu Home Ballotpedia Survey What Others Say Endorsers Priorities Taking a Stand Leadership and Education News Show Your Support Please consider contributing $5 to the Maine Clean Election Act.
+Paid for and authorized by the Committee to Elect Sam Zager.
+Leah Koch, Treasurer ©# samzager.org.
+All Rights Reserved.
+Site ignited by Sparks and Fuel

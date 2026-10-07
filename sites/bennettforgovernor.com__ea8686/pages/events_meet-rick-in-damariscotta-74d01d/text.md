@@ -1,10 +1,6 @@
-Back to All Events
-Join Rick and Host Representative Lydia Crafts at Old Time Donuts in Damariscotta.
-Learn more and RSVP here: https://www.supportrickbennett.com/7_25_dam
-Previous
-Previous
-July 18
-March with Rick in the Potato Blossom Parade
-Next
-Next
-July 30
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events Meet Rick in Damariscotta Saturday, July 25, 2026 9:00 AM 11:00 AM Google Calendar ICS Join Rick and Host Representative Lydia Crafts at Old Time Donuts in Damariscotta.
+Learn more and RSVP here: https://www.supportrickbennett.com/7_25_dam Previous Previous July 18 March with Rick in the Potato Blossom Parade Next Next July 30 Meet Rick in Farmington Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

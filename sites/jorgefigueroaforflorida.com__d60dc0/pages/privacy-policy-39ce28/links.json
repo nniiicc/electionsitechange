@@ -1,8 +1,42 @@
 [
-"https://jorgefigueroaforflorida.com/",
-"https://jorgefigueroaforflorida.com/about",
-"https://jorgefigueroaforflorida.com/cdn-cgi/l/email-protection",
-"https://jorgefigueroaforflorida.com/priorities",
-"https://secure.actblue.com/donate/jorgefigueroa",
-"https://thenai.org/"
+{
+"text": "About",
+"href": "https://jorgefigueroaforflorida.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jorgefigueroa"
+},
+{
+"text": "Home",
+"href": "https://jorgefigueroaforflorida.com/"
+},
+{
+"text": "Priorities",
+"href": "https://jorgefigueroaforflorida.com/priorities/"
+},
+{
+"text": "Sign Up",
+"href": "https://jorgefigueroaforflorida.com/#sign-up"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@jorgefigueroaforflorida.com"
+},
+{
+"text": "[image]",
+"href": "https://jorgefigueroaforflorida.com"
+},
+{
+"text": "here",
+"href": "https://thenai.org/"
+},
+{
+"text": "jorgefigueroaforflorida.com",
+"href": "https://jorgefigueroaforflorida.com"
+},
+{
+"text": "jorgefigueroaforflorida.com",
+"href": "mailto:jorgefigueroaforflorida.com"
+}
 ]

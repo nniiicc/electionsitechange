@@ -1,5 +1,7 @@
-By Angela Plowhead – Oregon State Senate Candidate
-Oregonians don’t experience inflation in spreadsheets or policy debates.
+Priorities About News Support Volunteer Event Sign-Up Contact Contribute Priorities About News Support Volunteer Event Sign-Up Privacy Policy Terms and Conditions © # Paid for by: Angela for Oregon PAC #22280.
+All Rights Reserved.
+Developed and Managed by Hostdoodle .
+A service of Burnett Media Group 13 January 2026 Why the Cost of Living Changes at State Borders — and Why Oregon Can’t Ignore It Anymore By Angela Plowhead – Oregon State Senate Candidate Oregonians don’t experience inflation in spreadsheets or policy debates.
 We experience it when rent goes up again, when gas costs more than it did last month, and when everyday expenses quietly stretch family budgets thinner.
 We’re often told these rising costs are unavoidable — the result of national or global forces beyond any state’s control.
 But new federal data tells a different story.
@@ -33,5 +35,9 @@ We owe them solutions grounded in evidence, humility, and a willingness to do be
 The data is clear.
 The cost of living crisis is not inevitable.
 It is shaped by choices — and it’s time for new leadership in Salem willing to make better ones.
-Attention Press: A downloadable PDF is available at this link.
+Attention Press: A downloadable PDF is available at this link .
 You are welcome to publish this as an op-ed or letter to the editor.
+Tags: Angela for Oregon , Angela Plowhead , cost of living , cost of living crisis Oregon , District 10 , housing and energy costs Oregon , Oregon , Oregon Senate District 10 Mom & Wife Community Leader Veteran & Senior Advocate Clinical Psychologist Small Business Owner Author Priorities About News Support Shop Donate Volunteer Newsletter Events Yard Sign Share Your Story Email: Communications@angela4oregon.com Site: www.Angela4Oregon.com PO Box 512, Independence, OR 97351 Contact Angela © # Paid for by: Angela for Oregon PAC #22280.
+All Rights Reserved.
+Developed and Managed by Hostdoodle .
+A service of Burnett Media Group Privacy Policy Terms and Conditions Close Font Resize A- A+ Keyboard navigation Contrast Choose color black white green blue red orange yellow navi Underline links Highlight Links Close Accessibility by WAH

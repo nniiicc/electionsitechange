@@ -1,18 +1,90 @@
 [
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://facebook.com/61555826075683",
-"https://instagram.com/mccormickforwv",
-"https://mccormickforwv.com/",
-"https://mccormickforwv.com/endorsement-issues",
-"https://mccormickforwv.com/get-involved",
-"https://mccormickforwv.com/mon-county-district-82",
-"https://mccormickforwv.com/social-media",
-"https://ovr.sos.wv.gov/Register/Landing",
-"https://secure.winred.com/mccormick-for-wv",
-"https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx",
-"https://wvlegislature.gov/bill_status/Bills_history.cfm?input=2576&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/bill_status/Bills_history.cfm?input=2960&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/bill_status/Bills_history.cfm?input=3313&year=2025&sessiontype=RS&btype=bill",
-"https://wvlegislature.gov/bill_status/bills_history.cfm?INPUT=2595&year=2025&sessiontype=RS",
-"https://youtube.com/channel/UCKQalz_6aIXdB5AeUaM5nGg"
+{
+"text": "Absentee voting",
+"href": "https://sos.wv.gov/elections/Pages/AbsenteeVotingInformation.aspx"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.winred.com/mccormick-for-wv"
+},
+{
+"text": "Endorsements & Issues",
+"href": "https://mccormickforwv.com/endorsement-issues/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/61555826075683/"
+},
+{
+"text": "Get Involved",
+"href": "https://mccormickforwv.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://mccormickforwv.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mccormickforwv/"
+},
+{
+"text": "Learn More",
+"href": "https://www.wvlegislature.gov/bill_status/Bills_history.cfm?input=2576&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "Learn More",
+"href": "https://www.wvlegislature.gov/bill_status/Bills_history.cfm?input=2960&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "Learn More",
+"href": "https://www.wvlegislature.gov/bill_status/Bills_history.cfm?input=3313&year=2025&sessiontype=RS&btype=bill"
+},
+{
+"text": "Learn More",
+"href": "https://www.wvlegislature.gov/bill_status/bills_history.cfm?INPUT=2595&year=2025&sessiontype=RS"
+},
+{
+"text": "McCormick for WV",
+"href": "https://mccormickforwv.com"
+},
+{
+"text": "Mon County District 82",
+"href": "https://mccormickforwv.com/mon-county-district-82/"
+},
+{
+"text": "Register to vote",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+},
+{
+"text": "Social Media",
+"href": "https://mccormickforwv.com/social-media/"
+},
+{
+"text": "Where to vote",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCKQalz_6aIXdB5AeUaM5nGg"
+},
+{
+"text": "[image: McCormick for WV][image: McCormick for WV]",
+"href": "https://mccormickforwv.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/61555826075683/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/mccormickforwv/"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UCKQalz_6aIXdB5AeUaM5nGg"
+},
+{
+"text": "dave@mccormickforwv.com",
+"href": "mailto:dave@mccormickforwv.com"
+}
 ]

@@ -1,15 +1,19 @@
 {
  "description": "Articles",
  "final_url": "https://www.heatherbagnall.com/articles",
- "paid_for_by": null,
- "title": "Articles \u2014 Heather Bagnall - Maryland State Delegate - District 33",
+ "fingerprint": "7b65ee9f1b983d97918975a99dc38758b624b1ac",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Articles — Heather Bagnall - Maryland State Delegate - District 33",
  "years_mentioned": [
+  "2002",
   "2011",
   "2016",
   "2017",
   "2018",
   "2019",
   "2020",
+  "2021",
   "2022"
  ]
 }

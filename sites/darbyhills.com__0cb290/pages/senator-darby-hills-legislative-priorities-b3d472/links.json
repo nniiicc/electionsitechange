@@ -1,186 +1,822 @@
 [
-"http://elections.il.gov/",
-"https://cookieadmin.net/",
-"https://darbyhills.com/",
-"https://darbyhills.com/2026/08/03/privacy-policy",
-"https://darbyhills.com/about",
-"https://darbyhills.com/cdn-cgi/l/email-protection",
-"https://darbyhills.com/contact",
-"https://darbyhills.com/district-map",
-"https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district",
-"https://darbyhills.com/events",
-"https://darbyhills.com/get-involved",
-"https://darbyhills.com/issues",
-"https://darbyhills.com/issues/affordable",
-"https://darbyhills.com/issues/common-sense",
-"https://darbyhills.com/issues/safe",
-"https://darbyhills.com/news",
-"https://darbyhills.com/senator-darby-hills-legislative-priorities",
-"https://darbyhills.com/vote",
-"https://darbyhills.com/ys",
-"https://facebook.com/DarbyHills26%20",
-"https://fox32chicago.com/news/crystal-lake-e-bike-crash",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1050&GAID=18&DocTypeID=SB&LegId=158838&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1120&GAID=18&DocTypeID=SB&LegId=158926&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1121&GAID=18&DocTypeID=SB&LegId=158927&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1226&GAID=18&DocTypeID=HB&LegId=157017&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1251&GAID=18&DocTypeID=SB&LegId=159078&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1288&GAID=18&DocTypeID=SB&LegId=159148&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1313&GAID=18&DocTypeID=SB&LegId=159253&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1316&GAID=18&DocTypeID=HB&LegId=157219&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1352&GAID=18&DocTypeID=HB&LegId=157277&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1353&GAID=18&DocTypeID=HB&LegId=157278&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=136&GAID=18&DocTypeID=SB&LegId=157339&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1362&GAID=18&DocTypeID=HB&LegId=157292&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=137&GAID=18&DocTypeID=SB&LegId=157340&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1411&GAID=18&DocTypeID=HB&LegId=157401&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1505&GAID=18&DocTypeID=SB&LegId=160131&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1572&GAID=18&DocTypeID=SB&LegId=160317&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1644&GAID=18&DocTypeID=SB&LegId=160497&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1646&GAID=18&DocTypeID=SB&LegId=160499&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1647&GAID=18&DocTypeID=SB&LegId=160500&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1699&GAID=18&DocTypeID=SB&LegId=160655&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1719&GAID=18&DocTypeID=SB&LegId=160739&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1754&GAID=18&DocTypeID=HB&LegId=159116&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1773&GAID=18&DocTypeID=SB&LegId=160901&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=1843&GAID=18&DocTypeID=SB&LegId=160999&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2075&GAID=18&DocTypeID=SB&LegId=161560&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2086&GAID=18&DocTypeID=SB&LegId=161594&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2094&GAID=18&DocTypeID=SB&LegId=161603&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=216&GAID=18&DocTypeID=SB&LegId=157506&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2190&GAID=18&DocTypeID=HB&LegId=159838&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2246&GAID=18&DocTypeID=SB&LegId=162006&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2263&GAID=18&DocTypeID=SB&LegId=162038&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2277&GAID=18&DocTypeID=SB&LegId=162062&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2381&GAID=18&DocTypeID=SB&LegId=162375&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2382&GAID=18&DocTypeID=SB&LegId=162377&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2390&GAID=18&DocTypeID=SB&LegId=162395&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=24&GAID=18&DocTypeID=SB&LegId=157123&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2435&GAID=18&DocTypeID=HB&LegId=160196&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2442&GAID=18&DocTypeID=SB&LegId=162505&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=267&GAID=18&DocTypeID=SB&LegId=157712&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2682&GAID=18&DocTypeID=SB&LegId=164012&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2687&GAID=18&DocTypeID=SB&LegId=164069&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2690&GAID=18&DocTypeID=HB&LegId=160682&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2693&GAID=18&DocTypeID=SB&LegId=164147&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2738&GAID=18&DocTypeID=SB&LegId=164558&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2744&GAID=18&DocTypeID=SB&LegId=164599&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2745&GAID=18&DocTypeID=SB&LegId=164600&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2746&GAID=18&DocTypeID=SB&LegId=164601&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2763&GAID=18&DocTypeID=SB&LegId=164692&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2788&GAID=18&DocTypeID=SB&LegId=164845&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=280&GAID=18&DocTypeID=SB&LegId=157734&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2837&GAID=18&DocTypeID=SB&LegId=165038&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=284&GAID=18&DocTypeID=SB&LegId=157738&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2869&GAID=18&DocTypeID=SB&LegId=165117&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2895&GAID=18&DocTypeID=SB&LegId=165213&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=290&GAID=18&DocTypeID=SB&LegId=157745&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2926&GAID=18&DocTypeID=SB&LegId=165302&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2955&GAID=18&DocTypeID=HB&LegId=161163&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=2991&GAID=18&DocTypeID=SB&LegId=165486&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3020&GAID=18&DocTypeID=SB&LegId=165558&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3048&GAID=18&DocTypeID=SB&LegId=165594&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3070&GAID=18&DocTypeID=SB&LegId=165636&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3071&GAID=18&DocTypeID=SB&LegId=165637&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3077&GAID=18&DocTypeID=SB&LegId=165653&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3139&GAID=18&DocTypeID=SB&LegId=165778&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3140&GAID=18&DocTypeID=SB&LegId=165779&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3141&GAID=18&DocTypeID=SB&LegId=165780&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3142&GAID=18&DocTypeID=SB&LegId=165781&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=315&GAID=18&DocTypeID=SB&LegId=157797&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=318&GAID=18&DocTypeID=SB&LegId=157800&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3281&GAID=18&DocTypeID=HB&LegId=161769&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3294&GAID=18&DocTypeID=SB&LegId=166090&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3336&GAID=18&DocTypeID=SB&LegId=166189&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3355&GAID=18&DocTypeID=SB&LegId=166229&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3377&GAID=18&DocTypeID=HB&LegId=161914&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3401&GAID=18&DocTypeID=SB&LegId=166328&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3409&GAID=18&DocTypeID=HB&LegId=161978&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3409&GAID=18&DocTypeID=SB&LegId=166339&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3425&GAID=18&DocTypeID=SB&LegId=166366&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3484&GAID=18&DocTypeID=SB&LegId=166485&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3540&GAID=18&DocTypeID=SB&LegId=166580&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3578&GAID=18&DocTypeID=SB&LegId=166652&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3580&GAID=18&DocTypeID=SB&LegId=166654&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3581&GAID=18&DocTypeID=SB&LegId=166655&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3582&GAID=18&DocTypeID=SB&LegId=166656&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3605&GAID=18&DocTypeID=HB&LegId=162310&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3605&GAID=18&DocTypeID=SB&LegId=166700&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3619&GAID=18&DocTypeID=SB&LegId=166727&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3635&GAID=18&DocTypeID=SB&LegId=166772&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3781&GAID=18&DocTypeID=SB&LegId=167098&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3782&GAID=18&DocTypeID=SB&LegId=167099&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3783&GAID=18&DocTypeID=SB&LegId=167100&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3784&GAID=18&DocTypeID=SB&LegId=167102&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3785&GAID=18&DocTypeID=SB&LegId=167104&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3786&GAID=18&DocTypeID=SB&LegId=167106&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3788&GAID=18&DocTypeID=SB&LegId=167108&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3792&GAID=18&DocTypeID=SB&LegId=167113&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3833&GAID=18&DocTypeID=SB&LegId=167244&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3844&GAID=18&DocTypeID=SB&LegId=167261&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3848&GAID=18&DocTypeID=SB&LegId=167265&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3849&GAID=18&DocTypeID=SB&LegId=167266&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3851&GAID=18&DocTypeID=SB&LegId=167272&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3855&GAID=18&DocTypeID=SB&LegId=167280&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3868&GAID=18&DocTypeID=SB&LegId=167298&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3869&GAID=18&DocTypeID=SB&LegId=167299&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3871&GAID=18&DocTypeID=SB&LegId=167301&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3872&GAID=18&DocTypeID=SB&LegId=167302&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=39&GAID=18&DocTypeID=SB&LegId=157142&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3918&GAID=18&DocTypeID=SB&LegId=167377&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3945&GAID=18&DocTypeID=SB&LegId=167424&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=3959&GAID=18&DocTypeID=SB&LegId=167439&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4004&GAID=18&DocTypeID=SB&LegId=167531&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4010&GAID=18&DocTypeID=SB&LegId=167553&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4029&GAID=18&DocTypeID=SB&LegId=167586&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4160&GAID=18&DocTypeID=HB&LegId=164381&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4182&GAID=18&DocTypeID=SB&LegId=168158&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4187&GAID=18&DocTypeID=SB&LegId=168296&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4193&GAID=18&DocTypeID=SB&LegId=168362&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4195&GAID=18&DocTypeID=SB&LegId=168377&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4203&GAID=18&DocTypeID=SB&LegId=168522&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4205&GAID=18&DocTypeID=SB&LegId=168536&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4207&GAID=18&DocTypeID=SB&LegId=168578&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4211&GAID=18&DocTypeID=SB&LegId=168649&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4212&GAID=18&DocTypeID=SB&LegId=168691&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4242&GAID=18&DocTypeID=HB&LegId=164714&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4247&GAID=18&DocTypeID=HB&LegId=164719&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4328&GAID=18&DocTypeID=HB&LegId=164842&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4336&GAID=18&DocTypeID=HB&LegId=164859&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4382&GAID=18&DocTypeID=HB&LegId=164955&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4418&GAID=18&DocTypeID=HB&LegId=165082&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4534&GAID=18&DocTypeID=HB&LegId=165361&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4587&GAID=18&DocTypeID=HB&LegId=165447&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4654&GAID=18&DocTypeID=HB&LegId=165600&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4702&GAID=18&DocTypeID=HB&LegId=165721&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=4911&GAID=18&DocTypeID=HB&LegId=166211&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=5081&GAID=18&DocTypeID=HB&LegId=166621&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=5524&GAID=18&DocTypeID=HB&LegId=167503&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=68&GAID=18&DocTypeID=SB&LegId=157173&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=73&GAID=18&DocTypeID=SB&LegId=157179&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=762&GAID=18&DocTypeID=HB&LegId=156440&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=93&GAID=18&DocTypeID=SB&LegId=157211&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=939&GAID=18&DocTypeID=SB&LegId=158671&SessionID=114",
-"https://ilga.gov/Legislation/BillStatus?DocNum=98&GAID=18&DocTypeID=SB&LegId=157217&SessionID=114",
-"https://instagram.com/darbyhills26",
-"https://nbcchicago.com/investigations/bill-aims-to-close-loophole-for-those-convicted-of-secretly-videotaping-minors/3907327",
-"https://secure.winred.com/citizens-for-darby-hills/donate-today",
-"https://senatordarbyhills.com/fox32-sb2381",
-"https://senatordarbyhills.com/on-cbs-chicago-senator-darby-hills-responds-to-recent-teacher-coach-arrests-discussed-sb2381",
-"https://senatordarbyhills.com/videos",
-"https://tiktok.com/@darbyhills26",
-"https://wandtv.com/news/statehouse/healing-through-history-il-senate-passes-bill-helping-families-receive-foster-care-records/article_94ce84ce-9d84-4d84-9214-acdd35f0de2d.html",
-"https://wandtv.com/news/statehouse/il-senate-gop-introduce-bills-to-protect-children-from-exploitation/article_5fef92d8-5bd0-4ec5-a51a-85831a3a78c9.html",
-"https://wandtv.com/news/statehouse/new-illinois-law-requires-diaper-ingredients-transparency/article_4db4e92d-e4f7-4366-af3b-35800af10889.html",
-"https://wcia.com/capitol-connection/illinois-senate-republicans-unveil-plan-combatting-child-trafficking-exploitation",
-"https://wgntv.com/news/northwest-suburbs/teenage-boy-dies-in-e-bike-crash-in-wauconda",
-"https://wgntv.com/news/northwest-suburbs/third-hoffman-estates-data-center-faces-opposition-from-nearby-residents",
-"https://x.com/darbyhills26",
-"https://youtu.be/1py-JAO8QFk?si=4pqg_b4AhBzXb3Nm",
-"https://youtu.be/io14JAYU504?si=MMw9g-1u97NBs4rN",
-"https://youtube.com/@DarbyHills26",
-"https://youtube.com/@Darbyhills26",
-"https://youtube.com/watch?v=Fxf__pcM8jk",
-"https://youtube.com/watch?v=LCDctzj4eGs",
-"https://youtube.com/watch?v=QDB07rTd4vQ"
+{
+"text": "About",
+"href": "https://darbyhills.com/about/"
+},
+{
+"text": "Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors",
+"href": "https://www.nbcchicago.com/investigations/bill-aims-to-close-loophole-for-those-convicted-of-secretly-videotaping-minors/3907327/"
+},
+{
+"text": "Boy, 14, dies after e-moto crash with SUV in Wauconda",
+"href": "https://wgntv.com/news/northwest-suburbs/teenage-boy-dies-in-e-bike-crash-in-wauconda/"
+},
+{
+"text": "CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381",
+"href": "https://www.senatordarbyhills.com/on-cbs-chicago-senator-darby-hills-responds-to-recent-teacher-coach-arrests-discussed-sb2381/"
+},
+{
+"text": "Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules",
+"href": "https://www.fox32chicago.com/news/crystal-lake-e-bike-crash"
+},
+{
+"text": "Contact",
+"href": "https://darbyhills.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://darbyhills.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/citizens-for-darby-hills/donate-today"
+},
+{
+"text": "Darby's District Map",
+"href": "https://darbyhills.com/district-map/"
+},
+{
+"text": "Darby's Endorsements",
+"href": "https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district/"
+},
+{
+"text": "Darby's Legislation",
+"href": "https://darbyhills.com/senator-darby-hills-legislative-priorities/"
+},
+{
+"text": "Darby's Legislative Videos",
+"href": "https://www.senatordarbyhills.com/videos/"
+},
+{
+"text": "Darby's Political Videos",
+"href": "https://www.youtube.com/@Darbyhills26"
+},
+{
+"text": "Darby’s Endorsements",
+"href": "https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district/"
+},
+{
+"text": "Darby’s Political Videos",
+"href": "https://www.youtube.com/@Darbyhills26"
+},
+{
+"text": "Darby’s Videos",
+"href": "https://www.senatordarbyhills.com/videos/"
+},
+{
+"text": "District Map",
+"href": "https://darbyhills.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-darby-hills/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://darbyhills.com/events/"
+},
+{
+"text": "Envelope-open-text",
+"href": "mailto:citizensfordarbyhills@gmail.com"
+},
+{
+"text": "Events",
+"href": "https://darbyhills.com/events"
+},
+{
+"text": "Events & Volunteer Opportunities",
+"href": "https://darbyhills.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DarbyHills26%20"
+},
+{
+"text": "Get Involved",
+"href": "https://darbyhills.com/get-involved/"
+},
+{
+"text": "Healing Through History: IL Senate passes bill helping families receive foster care records",
+"href": "https://www.wandtv.com/news/statehouse/healing-through-history-il-senate-passes-bill-helping-families-receive-foster-care-records/article_94ce84ce-9d84-4d84-9214-acdd35f0de2d.html"
+},
+{
+"text": "Home",
+"href": "https://darbyhills.com/"
+},
+{
+"text": "IL Senate GOP introduce bills to protect children from exploitation",
+"href": "https://www.wandtv.com/news/statehouse/il-senate-gop-introduce-bills-to-protect-children-from-exploitation/article_5fef92d8-5bd0-4ec5-a51a-85831a3a78c9.html"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB0762",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=762&GAID=18&DocTypeID=HB&LegId=156440&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1226",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1226&GAID=18&DocTypeID=HB&LegId=157017&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1316",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1316&GAID=18&DocTypeID=HB&LegId=157219&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1352",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1352&GAID=18&DocTypeID=HB&LegId=157277&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1353",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1353&GAID=18&DocTypeID=HB&LegId=157278&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1362",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1362&GAID=18&DocTypeID=HB&LegId=157292&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1411",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1411&GAID=18&DocTypeID=HB&LegId=157401&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB1754",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1754&GAID=18&DocTypeID=HB&LegId=159116&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB2190",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2190&GAID=18&DocTypeID=HB&LegId=159838&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB2435",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2435&GAID=18&DocTypeID=HB&LegId=160196&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB2690",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2690&GAID=18&DocTypeID=HB&LegId=160682&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB2955",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2955&GAID=18&DocTypeID=HB&LegId=161163&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB3281",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3281&GAID=18&DocTypeID=HB&LegId=161769&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB3377",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3377&GAID=18&DocTypeID=HB&LegId=161914&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB3409",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3409&GAID=18&DocTypeID=HB&LegId=161978&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB3605",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3605&GAID=18&DocTypeID=HB&LegId=162310&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4160",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4160&GAID=18&DocTypeID=HB&LegId=164381&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4242",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4242&GAID=18&DocTypeID=HB&LegId=164714&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4247",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4247&GAID=18&DocTypeID=HB&LegId=164719&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4328",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4328&GAID=18&DocTypeID=HB&LegId=164842&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4336",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4336&GAID=18&DocTypeID=HB&LegId=164859&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4382",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4382&GAID=18&DocTypeID=HB&LegId=164955&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4418",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4418&GAID=18&DocTypeID=HB&LegId=165082&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4534",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4534&GAID=18&DocTypeID=HB&LegId=165361&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4587",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4587&GAID=18&DocTypeID=HB&LegId=165447&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4654",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4654&GAID=18&DocTypeID=HB&LegId=165600&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4702",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4702&GAID=18&DocTypeID=HB&LegId=165721&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB4911",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4911&GAID=18&DocTypeID=HB&LegId=166211&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB5081",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5081&GAID=18&DocTypeID=HB&LegId=166621&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of HB5524",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5524&GAID=18&DocTypeID=HB&LegId=167503&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0024",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=24&GAID=18&DocTypeID=SB&LegId=157123&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0039",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=39&GAID=18&DocTypeID=SB&LegId=157142&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0068",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=68&GAID=18&DocTypeID=SB&LegId=157173&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0073",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=73&GAID=18&DocTypeID=SB&LegId=157179&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0093",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=93&GAID=18&DocTypeID=SB&LegId=157211&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0098",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=98&GAID=18&DocTypeID=SB&LegId=157217&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0136",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=136&GAID=18&DocTypeID=SB&LegId=157339&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0137",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=137&GAID=18&DocTypeID=SB&LegId=157340&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0216",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=216&GAID=18&DocTypeID=SB&LegId=157506&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0267",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=267&GAID=18&DocTypeID=SB&LegId=157712&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0280",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=280&GAID=18&DocTypeID=SB&LegId=157734&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0284",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=284&GAID=18&DocTypeID=SB&LegId=157738&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0290",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=290&GAID=18&DocTypeID=SB&LegId=157745&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0315",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=315&GAID=18&DocTypeID=SB&LegId=157797&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0318",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=318&GAID=18&DocTypeID=SB&LegId=157800&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB0939",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=939&GAID=18&DocTypeID=SB&LegId=158671&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1050",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1050&GAID=18&DocTypeID=SB&LegId=158838&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1120",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1120&GAID=18&DocTypeID=SB&LegId=158926&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1121",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1121&GAID=18&DocTypeID=SB&LegId=158927&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1251",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1251&GAID=18&DocTypeID=SB&LegId=159078&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1288",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1288&GAID=18&DocTypeID=SB&LegId=159148&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1313",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1313&GAID=18&DocTypeID=SB&LegId=159253&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1505",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1505&GAID=18&DocTypeID=SB&LegId=160131&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1572",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1572&GAID=18&DocTypeID=SB&LegId=160317&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1644",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1644&GAID=18&DocTypeID=SB&LegId=160497&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1646",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1646&GAID=18&DocTypeID=SB&LegId=160499&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1647",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1647&GAID=18&DocTypeID=SB&LegId=160500&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1699",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1699&GAID=18&DocTypeID=SB&LegId=160655&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1719",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1719&GAID=18&DocTypeID=SB&LegId=160739&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1773",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1773&GAID=18&DocTypeID=SB&LegId=160901&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB1843",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1843&GAID=18&DocTypeID=SB&LegId=160999&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2075",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2075&GAID=18&DocTypeID=SB&LegId=161560&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2086",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2086&GAID=18&DocTypeID=SB&LegId=161594&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2094",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2094&GAID=18&DocTypeID=SB&LegId=161603&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2246",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2246&GAID=18&DocTypeID=SB&LegId=162006&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2263",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2263&GAID=18&DocTypeID=SB&LegId=162038&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2277",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2277&GAID=18&DocTypeID=SB&LegId=162062&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2381",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2381&GAID=18&DocTypeID=SB&LegId=162375&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2382",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2382&GAID=18&DocTypeID=SB&LegId=162377&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2390",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2390&GAID=18&DocTypeID=SB&LegId=162395&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2442",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2442&GAID=18&DocTypeID=SB&LegId=162505&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2682",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2682&GAID=18&DocTypeID=SB&LegId=164012&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2687",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2687&GAID=18&DocTypeID=SB&LegId=164069&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2693",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2693&GAID=18&DocTypeID=SB&LegId=164147&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2738",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2738&GAID=18&DocTypeID=SB&LegId=164558&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2744",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2744&GAID=18&DocTypeID=SB&LegId=164599&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2745",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2745&GAID=18&DocTypeID=SB&LegId=164600&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2746",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2746&GAID=18&DocTypeID=SB&LegId=164601&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2763",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2763&GAID=18&DocTypeID=SB&LegId=164692&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2788",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2788&GAID=18&DocTypeID=SB&LegId=164845&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2837",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2837&GAID=18&DocTypeID=SB&LegId=165038&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2869",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2869&GAID=18&DocTypeID=SB&LegId=165117&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2895",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2895&GAID=18&DocTypeID=SB&LegId=165213&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2926",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2926&GAID=18&DocTypeID=SB&LegId=165302&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB2991",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2991&GAID=18&DocTypeID=SB&LegId=165486&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3020",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3020&GAID=18&DocTypeID=SB&LegId=165558&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3048",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3048&GAID=18&DocTypeID=SB&LegId=165594&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3070",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3070&GAID=18&DocTypeID=SB&LegId=165636&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3071",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3071&GAID=18&DocTypeID=SB&LegId=165637&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3077",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3077&GAID=18&DocTypeID=SB&LegId=165653&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3139",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3139&GAID=18&DocTypeID=SB&LegId=165778&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3140",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3140&GAID=18&DocTypeID=SB&LegId=165779&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3141",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3141&GAID=18&DocTypeID=SB&LegId=165780&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3142",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3142&GAID=18&DocTypeID=SB&LegId=165781&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3294",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3294&GAID=18&DocTypeID=SB&LegId=166090&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3336",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3336&GAID=18&DocTypeID=SB&LegId=166189&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3355",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3355&GAID=18&DocTypeID=SB&LegId=166229&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3401",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3401&GAID=18&DocTypeID=SB&LegId=166328&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3409",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3409&GAID=18&DocTypeID=SB&LegId=166339&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3425",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3425&GAID=18&DocTypeID=SB&LegId=166366&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3484",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3484&GAID=18&DocTypeID=SB&LegId=166485&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3540",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3540&GAID=18&DocTypeID=SB&LegId=166580&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3578",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3578&GAID=18&DocTypeID=SB&LegId=166652&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3580",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3580&GAID=18&DocTypeID=SB&LegId=166654&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3581",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3581&GAID=18&DocTypeID=SB&LegId=166655&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3582",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3582&GAID=18&DocTypeID=SB&LegId=166656&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3605",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3605&GAID=18&DocTypeID=SB&LegId=166700&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3619",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3619&GAID=18&DocTypeID=SB&LegId=166727&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3635",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3635&GAID=18&DocTypeID=SB&LegId=166772&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3781",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3781&GAID=18&DocTypeID=SB&LegId=167098&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3782",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3782&GAID=18&DocTypeID=SB&LegId=167099&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3783",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3783&GAID=18&DocTypeID=SB&LegId=167100&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3784",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3784&GAID=18&DocTypeID=SB&LegId=167102&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3785",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3785&GAID=18&DocTypeID=SB&LegId=167104&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3786",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3786&GAID=18&DocTypeID=SB&LegId=167106&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3788",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3788&GAID=18&DocTypeID=SB&LegId=167108&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3792",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3792&GAID=18&DocTypeID=SB&LegId=167113&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3833",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3833&GAID=18&DocTypeID=SB&LegId=167244&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3844",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3844&GAID=18&DocTypeID=SB&LegId=167261&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3848",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3848&GAID=18&DocTypeID=SB&LegId=167265&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3849",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3849&GAID=18&DocTypeID=SB&LegId=167266&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3851",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3851&GAID=18&DocTypeID=SB&LegId=167272&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3855",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3855&GAID=18&DocTypeID=SB&LegId=167280&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3868",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3868&GAID=18&DocTypeID=SB&LegId=167298&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3869",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3869&GAID=18&DocTypeID=SB&LegId=167299&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3871",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3871&GAID=18&DocTypeID=SB&LegId=167301&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3872",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3872&GAID=18&DocTypeID=SB&LegId=167302&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3918",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3918&GAID=18&DocTypeID=SB&LegId=167377&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3945",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3945&GAID=18&DocTypeID=SB&LegId=167424&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB3959",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3959&GAID=18&DocTypeID=SB&LegId=167439&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4004",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4004&GAID=18&DocTypeID=SB&LegId=167531&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4010",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4010&GAID=18&DocTypeID=SB&LegId=167553&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4029",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4029&GAID=18&DocTypeID=SB&LegId=167586&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4182",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4182&GAID=18&DocTypeID=SB&LegId=168158&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4187",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4187&GAID=18&DocTypeID=SB&LegId=168296&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4193",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4193&GAID=18&DocTypeID=SB&LegId=168362&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4195",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4195&GAID=18&DocTypeID=SB&LegId=168377&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4203",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4203&GAID=18&DocTypeID=SB&LegId=168522&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4205",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4205&GAID=18&DocTypeID=SB&LegId=168536&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4207",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4207&GAID=18&DocTypeID=SB&LegId=168578&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4211",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4211&GAID=18&DocTypeID=SB&LegId=168649&SessionID=114"
+},
+{
+"text": "Illinois General Assembly – Bill Status of SB4212",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4212&GAID=18&DocTypeID=SB&LegId=168691&SessionID=114"
+},
+{
+"text": "Illinois Senate Republicans unveil plan combatting child trafficking, exploitation",
+"href": "https://www.wcia.com/capitol-connection/illinois-senate-republicans-unveil-plan-combatting-child-trafficking-exploitation/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/darbyhills26"
+},
+{
+"text": "Issues",
+"href": "https://darbyhills.com/issues/"
+},
+{
+"text": "Keep Our Communities Safe",
+"href": "https://darbyhills.com/issues/safe/"
+},
+{
+"text": "Keep Our Communities Safe for Families and Children",
+"href": "https://darbyhills.com/issues/safe/"
+},
+{
+"text": "Latest News",
+"href": "https://darbyhills.com/news/"
+},
+{
+"text": "Legislation to Access Foster Care History",
+"href": "https://youtu.be/1py-JAO8QFk?si=4pqg_b4AhBzXb3Nm"
+},
+{
+"text": "Make Life More Affordable",
+"href": "https://darbyhills.com/issues/affordable/"
+},
+{
+"text": "Make Life More Affordable for Struggling Working Families",
+"href": "https://darbyhills.com/issues/affordable/"
+},
+{
+"text": "Meet Darby",
+"href": "https://darbyhills.com/about/"
+},
+{
+"text": "New Illinois law requires diaper ingredients transparency",
+"href": "https://www.wandtv.com/news/statehouse/new-illinois-law-requires-diaper-ingredients-transparency/article_4db4e92d-e4f7-4366-af3b-35800af10889.html"
+},
+{
+"text": "News",
+"href": "https://darbyhills.com/news"
+},
+{
+"text": "News",
+"href": "https://darbyhills.com/news/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://darbyhills.com/2026/08/03/privacy-policy/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://darbyhills.com/ys"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://darbyhills.com/ys/"
+},
+{
+"text": "Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895",
+"href": "https://www.youtube.com/watch?v=LCDctzj4eGs"
+},
+{
+"text": "Senator Darby Hills on Transparency in Illinois",
+"href": "https://www.youtube.com/watch?v=QDB07rTd4vQ"
+},
+{
+"text": "Senator Darby Hills’ Legislative Priorities",
+"href": "https://darbyhills.com/senator-darby-hills-legislative-priorities/"
+},
+{
+"text": "Senator Darby Hills’ aiming to make life more affordable here in Illinoi",
+"href": "https://www.youtube.com/watch?v=Fxf__pcM8jk"
+},
+{
+"text": "Senator Hills Highlights Need for Statewide E-Bike Safety Standards",
+"href": "https://youtu.be/io14JAYU504?si=MMw9g-1u97NBs4rN"
+},
+{
+"text": "Stand for Common Sense",
+"href": "https://darbyhills.com/issues/common-sense/"
+},
+{
+"text": "Stand for Common Sense Over Extreme Agendas",
+"href": "https://darbyhills.com/issues/common-sense/"
+},
+{
+"text": "State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32",
+"href": "https://www.senatordarbyhills.com/fox32-sb2381/"
+},
+{
+"text": "Third Hoffman Estates data center faces opposition from nearby residents",
+"href": "https://wgntv.com/news/northwest-suburbs/third-hoffman-estates-data-center-faces-opposition-from-nearby-residents/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@darbyhills26"
+},
+{
+"text": "Upcoming Events & Volunteer Opportunities",
+"href": "https://darbyhills.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://darbyhills.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://darbyhills.com/vote"
+},
+{
+"text": "Voter Info",
+"href": "https://darbyhills.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/darbyhills26"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@DarbyHills26"
+},
+{
+"text": "[image]",
+"href": "https://darbyhills.com"
+},
+{
+"text": "fill out the form here",
+"href": "https://darbyhills.com/ys/"
+},
+{
+"text": "http://www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

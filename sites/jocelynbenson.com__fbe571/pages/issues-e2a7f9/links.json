@@ -1,25 +1,126 @@
 [
-"http://michigandems.com/volunteer",
-"https://bsky.app/profile/jocelynbenson",
-"https://designedtorun.com/",
-"https://facebook.com/bensonformichigan",
-"https://flickr.com/bensonforgovernor",
-"https://instagram.com/jocelynbenson",
-"https://jocelynbenson.com/",
-"https://jocelynbenson.com/MeetJocelyn",
-"https://jocelynbenson.com/issues/Affordability",
-"https://jocelynbenson.com/issues/Childcare",
-"https://jocelynbenson.com/issues/Energy-Costs",
-"https://jocelynbenson.com/issues/Healthcare",
-"https://jocelynbenson.com/issues/Housing",
-"https://jocelynbenson.com/issues/data-centers",
-"https://jocelynbenson.com/issues/education",
-"https://jocelynbenson.com/issues/environment",
-"https://jocelynbenson.com/news",
-"https://secure.actblue.com/donate/benson-web",
-"https://store.jocelynbenson.com/",
-"https://threads.net/@jocelynbenson",
-"https://tiktok.com/@jocelynbensonhq",
-"https://x.com/JocelynBenson",
-"https://youtube.com/@BensonforGovernor"
+{
+"text": "Affordability",
+"href": "https://www.jocelynbenson.com/issues/Affordability"
+},
+{
+"text": "Childcare",
+"href": "https://www.jocelynbenson.com/issues/Childcare"
+},
+{
+"text": "Data Centers",
+"href": "https://www.jocelynbenson.com/issues/data-centers"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/benson-web"
+},
+{
+"text": "Education",
+"href": "https://www.jocelynbenson.com/issues/education"
+},
+{
+"text": "Energy Costs",
+"href": "https://www.jocelynbenson.com/issues/Energy-Costs"
+},
+{
+"text": "Environment",
+"href": "https://www.jocelynbenson.com/issues/environment"
+},
+{
+"text": "Healthcare",
+"href": "https://www.jocelynbenson.com/issues/Healthcare"
+},
+{
+"text": "Housing",
+"href": "https://www.jocelynbenson.com/issues/Housing"
+},
+{
+"text": "Meet Jocelyn",
+"href": "https://www.jocelynbenson.com/MeetJocelyn"
+},
+{
+"text": "News",
+"href": "https://www.jocelynbenson.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.jocelynbenson.com/"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/Affordability"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/Childcare"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/Energy-Costs"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/Healthcare"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/Housing"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/data-centers"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.jocelynbenson.com/issues/environment"
+},
+{
+"text": "Volunteer",
+"href": "http://michigandems.com/volunteer"
+},
+{
+"text": "[image: Jocelyn Benson for Governor]",
+"href": "https://www.jocelynbenson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bensonformichigan"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/bensonforgovernor"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@jocelynbenson"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@jocelynbensonhq"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BensonforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JocelynBenson"
+}
 ]

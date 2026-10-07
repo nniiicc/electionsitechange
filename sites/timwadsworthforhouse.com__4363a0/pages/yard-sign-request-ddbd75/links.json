@@ -1,7 +1,26 @@
 [
-"https://timwadsworthforhouse.com/",
-"https://timwadsworthforhouse.com/about-tim",
-"https://timwadsworthforhouse.com/news",
-"https://timwadsworthforhouse.com/priorities",
-"https://timwadsworthforhouse.com/yard-sign-request"
+{
+"text": "About Tim",
+"href": "https://www.timwadsworthforhouse.com/about-tim"
+},
+{
+"text": "Home",
+"href": "https://www.timwadsworthforhouse.com/"
+},
+{
+"text": "News",
+"href": "https://www.timwadsworthforhouse.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.timwadsworthforhouse.com/priorities"
+},
+{
+"text": "Re-Elect Tim Wadsworth for House District 14",
+"href": "https://www.timwadsworthforhouse.com/"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.timwadsworthforhouse.com/yard-sign-request#main-content"
+}
 ]

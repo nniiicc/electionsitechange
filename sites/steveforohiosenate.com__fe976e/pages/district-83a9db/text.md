@@ -1,25 +1,3 @@
-Senate District 27
-Senate District 27 includes all of Portage County and portions of Summit and Geauga counties.
-All of Portage County
-Summit County
-Barberton
-Boston Heights
-Cuyahoga Falls
-Macedonia
-Northfield
-Norton
-Peninsula
-Richfield
-Reminderville
-Twinsburg
-Bath Township (Part)
-Boston Township
-Copley Township
-Northfield Center Township
-Richfield Township
-Sagamore Hills Township
-Twinsburg Township
-Geauga County
-South Russell
-Auburn Township
-Bainbridge Township
+Toggle navigation Home Meet Steve Endorsements District Media Volunteer Yard Signs Contact Donate Donate Senate District 27 Senate District 27 includes all of Portage County and portions of Summit and Geauga counties.
+All of Portage County Summit County Barberton Boston Heights Cuyahoga Falls Macedonia Northfield Norton Peninsula Richfield Reminderville Twinsburg Bath Township (Part) Boston Township Copley Township Northfield Center Township Richfield Township Sagamore Hills Township Twinsburg Township Geauga County South Russell Auburn Township Bainbridge Township​​ Home Meet Steve Endorsements District Media Volunteer Yard Signs Contact Donate Donate Paid for by Demetriou for Ohio Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Privacy Policy | Terms & Conditions

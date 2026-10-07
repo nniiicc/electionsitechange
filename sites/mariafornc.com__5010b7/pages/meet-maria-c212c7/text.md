@@ -1,6 +1,4 @@
-MEET MARIA CERVANIA
-EPIDEMIOLOGIST | STRATEGIST | COMMUNITY ADVOCATE
-I was born at Naval Hospital Oakland while my father was deployed in Vietnam.
+0 Skip to Content Home Meet Maria Maria's Vision Endorsements Vote DONATE Open Menu Close Menu Home Meet Maria Maria's Vision Endorsements Vote DONATE Open Menu Close Menu Home Meet Maria Maria's Vision Endorsements Vote DONATE MEET MARIA CERVANIA EPIDEMIOLOGIST | STRATEGIST | COMMUNITY ADVOCATE I was born at Naval Hospital Oakland while my father was deployed in Vietnam.
 After his retirement – serving 24 years in the U.S.
 Navy – my family settled in Sunnyvale, California.
 My mother worked 30 years in the technology industry, part of the rapid, ever-changing growth of Silicon Valley.
@@ -27,3 +25,5 @@ It’s about something bigger than us and working for the greater good.
 I am running for North Carolina House — to make positive change for all North Carolinians.
 When voters make their voices heard, our state is strengthened.
 I ask for your vote on November 8 or during early voting.
+PAID FOR BY MARIA FOR NC P.O.
+Box 5666 Cary, NC 27512

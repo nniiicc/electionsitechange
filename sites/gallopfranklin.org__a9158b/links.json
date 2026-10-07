@@ -1,7 +1,30 @@
 [
-"https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup",
-"https://forms.gle/YAhsBSMBtYnXpzyv5",
-"https://gallopfranklin.org/",
-"https://gallopfranklin.org/privacy-policy",
-"https://secure.actblue.com/donate/gallop-franklin-for-state-house-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gallop-franklin-for-state-house-1"
+},
+{
+"text": "Help me find it",
+"href": "https://dos.myflorida.com/elections/for-voters/check-your-voter-status-and-polling-place/voter-precinct-lookup/"
+},
+{
+"text": "Join the Team",
+"href": "https://forms.gle/YAhsBSMBtYnXpzyv5"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/gallop-franklin-for-state-house-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gallopfranklin.org/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.gallopfranklin.org"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/YAhsBSMBtYnXpzyv5"
+}
 ]

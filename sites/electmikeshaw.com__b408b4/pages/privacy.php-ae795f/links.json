@@ -1,5 +1,26 @@
 [
-"https://electmikeshaw.com/contact.php",
-"https://electmikeshaw.com/donate.php",
-"https://electmikeshaw.com/index.php"
+{
+"text": "About",
+"href": "https://www.electmikeshaw.com/index.php#about"
+},
+{
+"text": "Contact",
+"href": "https://www.electmikeshaw.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "https://www.electmikeshaw.com/donate.php"
+},
+{
+"text": "Priorities",
+"href": "https://www.electmikeshaw.com/index.php#priorities"
+},
+{
+"text": "[image: Mike Shaw campaign logo] Mike ShawAlabama State House 47",
+"href": "https://www.electmikeshaw.com/index.php#top"
+},
+{
+"text": "info@electmikeshaw.com",
+"href": "mailto:info@electmikeshaw.com"
+}
 ]

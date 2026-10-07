@@ -1,29 +1,28 @@
-Nic Kipke For Senate
-Now officially running for Maryland State Senate, Nic Kipke is focused on putting families first through thoughtful, dedicated leadership.
-A caring and effective conservative leader
-Nic Kipke is working hard to make Maryland more affordable and always votes against tax increases.
-Nic Kipke
-Announces Run
-for State Senate
-Joining a strong Republican slate for District 31, Nic Kipke is ready to serve Maryland families and communities.
+Skip to content Get Involved: Support Nic and help your local community!
+Facebook Youtube Twitter Facebook Youtube Icon-twitter-x Instagram Home About Issues Scholarship Services Events Service League News Contact Home About Issues Scholarship Services Events Service League News Contact Volunteer Donate Nic Kipke For Senate Now officially running for Maryland State Senate, Nic Kipke is focused on putting families first through thoughtful, dedicated leadership.
+Learn More A caring and effective conservative leader Nic Kipke is working hard to make Maryland more affordable and always votes against tax increases.
+Learn More Nic Kipke Announces Run for State Senate Joining a strong Republican slate for District 31, Nic Kipke is ready to serve Maryland families and communities.
 Learn more about his campaign and how to get involved.
-Constituent
-Service
-More than anything else Delegate Kipke enjoys using the access of the office to work on your behalf to solve problems.
-Who Is Kipke
-Know more about Delegate Nic Kipke
-Delegate Kipke has earned a reputation for being a caring and conservative legislator.
+Learn More Constituent Service More than anything else Delegate Kipke enjoys using the access of the office to work on your behalf to solve problems.
+Learn More Who Is Kipke Know more about Delegate Nic Kipke Delegate Kipke has earned a reputation for being a caring and conservative legislator.
 He has received awards and accolades for being the premier “go to person” for constituent needs and for our community.
-Follow Nic Kipke’s Senate Campaign.
+Learn More Follow Nic Kipke’s Senate Campaign.
 Stay up to date on Nic Kipke’s journey and latest campaign news.
-Testimonials
-What They Say
-Latest News
-See What's Happening
-Issues
-Nic's core focus is supporting policies that improve the quality of lives of Marylanders.
+Learn More Testimonials What They Say "He is by far the most responsive government representative ever.
+The relationships he's cultivated allows him to get things done quickly." Juli Blanton “Nic has strong conservative and family values.
+He is always available to help when needed.
+I am excited about the legislation he is sponsoring to expand school choice.” Anna Smith "He is an honest and humble man who strives to obtain the best for all those that he serves.
+Delegate Kipke is a model public servant that others should attempt to emulate." Rick Schimpf “In all the years we've lived in AA County, Nic has been the most caring and responsive representative we have had.
+He truly cares for what happens in our county as well as making the needs of the residents a priority.” Linda Cowan Latest News See What's Happening Cocktails with Kipke October 5, 2026 Join Nic Kipke for Cocktails!
+October 1, 2025 Nic Kipke and District 31 Republican Legislative Slate File for 2026 Election September 9, 2025 View more news Issues Nic's core focus is supporting policies that improve the quality of lives of Marylanders.
 He has earned the support of taxpayer protection organizations, civic leaders, and government waste watchdog groups.
-Scholarship
-Nic Kipke provides delegate scholarships through the Kipke scholarships website for maryland residents that currently reside in district 31b.
-Programs
-Nic focuses his time on several different programs to support Marylanders in many different ways throughout the year.
+Learn More Scholarship Nic Kipke provides delegate scholarships through the Kipke scholarships website for maryland residents that currently reside in district 31b.
+Learn More Programs Nic focuses his time on several different programs to support Marylanders in many different ways throughout the year.
+Learn More Get Connected Subscribe to my newsletter to get the latest updates on events and campaign efforts.
+Subscribe Nic Kipke is working hard to cut taxes, improve accountability to parents and students in public schools, and to improve public safety.
+Youtube Twitter Facebook Youtube Icon-twitter-x Facebook Useful Links Home About Issues Scholarship Services Events Service League News Contact Privacy Policy × Home About Issues Scholarship Services Events Service League News Contact Privacy Policy Community Impact Cocktails with Kipke JOIN US TO HELP ELECT DELEGATENIC KIPKE AS OUR NEXT STATE SENATOR… Join Nic Kipke for Cocktails!
+JOIN US TO HELP ELECT DELEGATENIC KIPKE AS OUR NEXT STATE SENATOR… Contact Del.
+Nic Kipke Campaign Contact Information: PO BOX 862 Pasadena, Maryland 21123 kipke@kipke.com Official State Delegate Office Contact Information House Office Building, Room 212 6 Bladen St., Annapolis, MD 21401 nicholaus.kipke@house.state.md.us (410) 841-3421 1-800-492-7122, ext.
+3421 ©Copyright Nic Kipke 2021, All Rights Reserved – Not at Taxpayer Expense.
+Auth: Friends of Nic Kipke.
+Judy Glinka, Treasurer.

@@ -1,13 +1,58 @@
 [
-"https://facebook.com/TiffanieArthurIN63",
-"https://heyvictor.com/",
-"https://instagram.com/tiffaniearthurin63",
-"https://secure.actblue.com/donate/tiffaniearthurin63",
-"https://tiffaniearthur.com/",
-"https://tiffaniearthur.com/accessibility-statement",
-"https://tiffaniearthur.com/meet-your-candidate",
-"https://tiffaniearthur.com/terms-of-service",
-"https://tiffaniearthur.com/volunteer",
-"https://tiffaniearthur.com/where-i-stand",
-"https://tiktok.com/@tarthurforstatehouse63?is_from_webapp=1&sender_device=pc"
+{
+"text": "Accessibility Statement",
+"href": "https://www.tiffaniearthur.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:tiffaniearthurin63@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tiffaniearthurin63"
+},
+{
+"text": "Home",
+"href": "https://www.tiffaniearthur.com/"
+},
+{
+"text": "Meet Your Candidate",
+"href": "https://www.tiffaniearthur.com/meet-your-candidate/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.tiffaniearthur.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tiffaniearthur.com/volunteer/"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.tiffaniearthur.com/where-i-stand/"
+},
+{
+"text": "[image] [image]",
+"href": "https://www.tiffaniearthur.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/TiffanieArthurIN63"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/tiffaniearthurin63/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@tarthurforstatehouse63?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "https://www.tiffaniearthur.com",
+"href": "https://www.tiffaniearthur.com"
+}
 ]

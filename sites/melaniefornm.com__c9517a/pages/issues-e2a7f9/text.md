@@ -1,6 +1,4 @@
-As a native New Mexican, I have dedicated my career to serving our community
-Issues
-As a native New Mexican, I have dedicated my career to serving our community -- working to help address some of our most pressing challenges.
+0 Skip to Content Melanie Stansbury for New Mexico About Issues Volunteer Contact DONATE Open Menu Close Menu Melanie Stansbury for New Mexico About Issues Volunteer Contact DONATE Open Menu Close Menu About Issues Volunteer Contact DONATE As a native New Mexican, I have dedicated my career to serving our community Issues As a native New Mexican, I have dedicated my career to serving our community -- working to help address some of our most pressing challenges.
 I grew up in Albuquerque, and am driven by the same grit, determination, and resilience that holds our community together and drives us forward.
 Like so many families in our community, mine often struggled to make ends meet.
 For me, these deeply personal experiences have shaped my life’s work in community building, economic development, hunger and homelessness, and water security issues.
@@ -10,7 +8,7 @@ As a former staffer in the U.S.
 Senate, I helped write and pass bipartisan legislation in Congress.
 As a former House Finance and Appropriations Committee member and White House Office of Management and Budget employee, I know how to deliver on a budget that serves the people.
 As the Congresswoman for New Mexico’s First Congressional District, I bring science, compassion, and my love for our community to deliver results for and lift up the voices of New Mexicans.
-- GROWING OUR ECONOMY, JOBS, AND RESILIENCE I grew up in a working family and know what it’s like to struggle to make ends meet.
+ECONOMY, JOBS, AND RESILIENCE GROWING OUR ECONOMY, JOBS, AND RESILIENCE I grew up in a working family and know what it’s like to struggle to make ends meet.
 That’s why I am focused on expanding our economy, supporting local businesses, and growing more meaningful jobs.
 That means investing in our economic strengths and our people, and ensuring that everyone has every opportunity to succeed.
 During the pandemic, I have fought to help support families and businesses, including helping to pass emergency relief in Congress, raising money to help bring food and water to communities across the state, and helping people in our own community access food and navigate unemployment and other services.
@@ -25,7 +23,7 @@ I believe everyone should have the opportunity to provide for their family with 
 IMMIGRATION We must take a compassionate approach to fixing our immigration system and reversing the discriminatory practices put in place by the last administration.
 Families must be reunited and we must provide a path to citizenship.
 In Congress, I support humane immigration policies that address root causes of migration and provide opportunities for immigration, which boost our economy and add to the rich cultural and economic fabric of our country.
-- MAKING OUR GOVERNMENT WORK FOR NEW MEXICANS To ensure that our government works for New Mexicans and is responsive and responsible, I have championed initiatives to get big money out of politics, and improve and modernize state government.
+COMMUNITY WELL-BEING MAKING OUR GOVERNMENT WORK FOR NEW MEXICANS To ensure that our government works for New Mexicans and is responsive and responsible, I have championed initiatives to get big money out of politics, and improve and modernize state government.
 I am committed to transparency at all levels of government.
 It has been my policy since I first ran for office in the 2018 cycle to not accept funds from corporations or corporate PACs.
 In Congress, I will continue the work to get big money out of politics, for campaign finance reform at all levels, to improve our agencies and oversight, and elevate the voices of everyday New Mexicans.
@@ -55,7 +53,7 @@ In Congress, I will always seek ways to identify and dismantle systems of oppres
 CANNABIS REFORM In 2019, I voted for legislation to decriminalize cannabis, an important step to reform the cannabis policies that have disproportionately impacted low-income people of color.
 I support expunging the records of non-violent drug offenders.
 I also support responsible recreational cannabis legislation that would regulate cannabis like alcohol and help to stimulate the economy.
-- PROTECTING OUR NATURAL RESOURCES New Mexico and our planet are facing a climate crisis.
+ENVIRONMENT AND SUSTAINABILITY PROTECTING OUR NATURAL RESOURCES New Mexico and our planet are facing a climate crisis.
 Historic drought is amplifying water insecurity throughout our country and more frequent fires are devastating our public and private lands.
 I have spent nearly two decades of my career dedicated to science-focused work on water and natural resource issues both on a statewide and national scale.
 The protection of our natural resources is not only essential to securing our economic prosperity and a more sustainable future, but is essential to the preservation of our cultural identity, heritage, and ways of life.
@@ -64,8 +62,8 @@ FOOD INSECURITY Addressing hunger, housing, and income insecurity has been a lif
 New Mexico has amongst the highest hunger rates in the nation, with nearly 1 in 4 children experiencing food insecurity in the state.
 As a State legislator, I championed efforts to expand access to school meal programs, obtain funding for hunger relief programs, and address systemic issues in our food system.
 We need more champions to address systemic hunger at the federal level, which is why in Congress, I will push for legislation to expand food and income support programs and provide funding to address childhood hunger across the country.
-To learn more about my take on how we address hunger in New Mexico, you can listen to a recent podcast I recorded with the New Mexico Out of School Time Networks podcast: Hunger in New Mexico, Repatriation, and Regionalizing the Food System.
-- INVESTING IN OUR CHILDREN, EDUCATORS, AND SCHOOLS I believe that education and child-wellbeing are the cornerstones of a thriving community.
+To learn more about my take on how we address hunger in New Mexico, you can listen to a recent podcast I recorded with the New Mexico Out of School Time Networks podcast: Hunger in New Mexico, Repatriation, and Regionalizing the Food System .
+EDUCATION AND CHILD WELL-BEING INVESTING IN OUR CHILDREN, EDUCATORS, AND SCHOOLS I believe that education and child-wellbeing are the cornerstones of a thriving community.
 As a graduate of Albuquerque Public Schools (K-12) myself, I know first-hand the impact teachers and mentors can have on a person’s life and the importance of access to education.
 That’s why I’ve worked to expand educational opportunities from early childhood, to K-12, trades education, college and university, and lifelong learning.
 As a state legislator, I voted to give our teachers and school workers a much-deserved raise and expand educational opportunities and equity across the state.
@@ -78,3 +76,4 @@ In Congress, I will support a Child and Dependent Care Credit and will work to l
 PAID FAMILY LEAVE Right now, families in New Mexico and across the country are forced to choose between taking time off to care for a loved one or themselves and keeping their job.
 Working families shouldn’t have to make that difficult decision and potentially lose precious time with their children or sick family members.
 That’s why I will push for the expansion of paid family and medical leave in Congress.
+Melanie for New Mexico PO Box 51493 Albuquerque, NM 87181 melanieforcongress@melaniefornm.com ©# Melaniefornm.com PAID FOR BY MELANIE FOR NEW MEXICO PRIVACY POLICY

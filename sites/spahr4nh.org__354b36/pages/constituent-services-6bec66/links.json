@@ -1,21 +1,82 @@
 [
-"https://batterynetwork.org/locator",
-"https://dhhs.nh.gov/programs-services/environmental-health-and-you/radon",
-"https://facebook.com/profile.php?id=61562034698041",
-"https://findnhmoney.gov/",
-"https://instagram.com/terryspahrrocks",
-"https://nhbr.com/alert-system-can-keep-people-from-taking-ownership-of-your-home",
-"https://nhdeeds.org/grafton-pfa",
-"https://nhrecycles.org/operator-toolkits/batteries-toolkit",
-"https://nhsaves.com/residential/weatherization",
-"https://spahr4nh.org/",
-"https://spahr4nh.org/about-terry-spahr",
-"https://spahr4nh.org/constituent-services",
-"https://spahr4nh.org/contact",
-"https://spahr4nh.org/donate",
-"https://spahr4nh.org/get-engaged",
-"https://spahr4nh.org/news",
-"https://spahr4nh.org/newsletter",
-"https://spahr4nh.org/nh-strong",
-"https://x.com/terryspahrrocks"
+{
+"text": "ALERT ME TO DEED FRAUD",
+"href": "https://www.nhdeeds.org/grafton-pfa/"
+},
+{
+"text": "About",
+"href": "https://spahr4nh.org/about-terry-spahr/"
+},
+{
+"text": "Constituent Services",
+"href": "https://spahr4nh.org/constituent-services/"
+},
+{
+"text": "Contact",
+"href": "https://spahr4nh.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://spahr4nh.org/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61562034698041"
+},
+{
+"text": "Find Unclaimed Property",
+"href": "https://www.findnhmoney.gov/"
+},
+{
+"text": "Free Radon Test",
+"href": "https://www.dhhs.nh.gov/programs-services/environmental-health-and-you/radon"
+},
+{
+"text": "Get Engaged",
+"href": "https://spahr4nh.org/get-engaged/"
+},
+{
+"text": "Home",
+"href": "https://spahr4nh.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/terryspahrrocks"
+},
+{
+"text": "NEAREST BATTERY RECYCLER",
+"href": "https://batterynetwork.org/locator/"
+},
+{
+"text": "NH Strong",
+"href": "https://spahr4nh.org/nh-strong/"
+},
+{
+"text": "News",
+"href": "https://spahr4nh.org/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://spahr4nh.org/newsletter/"
+},
+{
+"text": "Weatherize My Home!",
+"href": "https://nhsaves.com/residential/weatherization/"
+},
+{
+"text": "X",
+"href": "https://www.x.com/terryspahrrocks"
+},
+{
+"text": "[image: Terry Spahr for NH]",
+"href": "https://spahr4nh.org/"
+},
+{
+"text": "https://www.nhrecycles.org/operator-toolkits/batteries-toolkit",
+"href": "https://www.nhrecycles.org/operator-toolkits/batteries-toolkit"
+},
+{
+"text": "somebody has bought your house",
+"href": "https://www.nhbr.com/alert-system-can-keep-people-from-taking-ownership-of-your-home/"
+}
 ]

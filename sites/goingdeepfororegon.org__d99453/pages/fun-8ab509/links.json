@@ -1,21 +1,86 @@
 [
-"https://goingdeepfororegon.org/",
-"https://goingdeepfororegon.org/accessibility-statement",
-"https://goingdeepfororegon.org/darcey-edwards",
-"https://goingdeepfororegon.org/events",
-"https://goingdeepfororegon.org/fun",
-"https://goingdeepfororegon.org/going-deep",
-"https://goingdeepfororegon.org/issue-list",
-"https://goingdeepfororegon.org/legislating",
-"https://goingdeepfororegon.org/meet-candidate",
-"https://goingdeepfororegon.org/site-map",
-"https://goingdeepfororegon.org/volunteer",
-"https://goingdeepfororegon.org/voting-info",
-"https://goingdeepfororegon.org/why-im-running",
-"https://heyvictor.com/",
-"https://lansugarden.org/",
-"https://meetup.com/the-portland-hiking-meetup-group",
-"https://open.spotify.com/track/1i7eOIxX6vSndkXb3L6yGW?si=70857956b71b44fc",
-"https://oregonhiking.com/navillus-press/oregon-guides/100-hikes-northwest-oregon",
-"https://secure.actblue.com/donate/tom-lum-forest"
+{
+"text": "100 Hikes in Northwest Oregon",
+"href": "https://www.oregonhiking.com/navillus-press/oregon-guides/100-hikes-northwest-oregon"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://goingdeepfororegon.org/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:TLForestForOregon@gmail.com"
+},
+{
+"text": "Darcey Edwards",
+"href": "https://goingdeepfororegon.org/darcey-edwards/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom-lum-forest?amount="
+},
+{
+"text": "Events",
+"href": "https://goingdeepfororegon.org/events/"
+},
+{
+"text": "Fun",
+"href": "https://goingdeepfororegon.org/fun/"
+},
+{
+"text": "Going Deep",
+"href": "https://goingdeepfororegon.org/going-deep/"
+},
+{
+"text": "Home",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "Issue List",
+"href": "https://goingdeepfororegon.org/issue-list/"
+},
+{
+"text": "Lan Su",
+"href": "https://lansugarden.org/"
+},
+{
+"text": "Legislating",
+"href": "https://goingdeepfororegon.org/legislating/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://goingdeepfororegon.org/meet-candidate/"
+},
+{
+"text": "Portland Hiking Meetup Group",
+"href": "https://www.meetup.com/the-portland-hiking-meetup-group/"
+},
+{
+"text": "Site Map",
+"href": "https://goingdeepfororegon.org/site-map/"
+},
+{
+"text": "Volunteer",
+"href": "https://goingdeepfororegon.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://goingdeepfororegon.org/voting-info/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://goingdeepfororegon.org/why-im-running/"
+},
+{
+"text": "Wichita Mountain Stomp",
+"href": "https://open.spotify.com/track/1i7eOIxX6vSndkXb3L6yGW?si=70857956b71b44fc"
+},
+{
+"text": "[image: Me at Lan Su Portland Chinese Garden] [image]",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

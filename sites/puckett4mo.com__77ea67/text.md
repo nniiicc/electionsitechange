@@ -1,8 +1,9 @@
-Meet Gena Puckett
-“I spent 31 years in the classroom, not in politics,” Puckett said.
+Skip to content Donate Now Gena Puckett for Missouri I am running for State Representative for House District 9.
+I may have retired from teaching but I did not retire from caring about Missouri and it's future.
+Let's work together to make Missouri better.
+Make a Difference Meet Gena Puckett “I spent 31 years in the classroom, not in politics,” Puckett said.
 “I’m not a party loyalist; I’m just a wife, mother, grandma, and teacher who’s watched Jefferson City fail our communities for decades.
-I’m running to fight for regular people, plain and simple.”
-Gena Puckett, a retired public school teacher and lifelong resident of northwest Missouri, has announced her candidacy for the Missouri House of Representatives in District 9.
+I’m running to fight for regular people, plain and simple.” Gena Puckett, a retired public school teacher and lifelong resident of northwest Missouri, has announced her candidacy for the Missouri House of Representatives in District 9.
 A mom, grandma, and former educator, Puckett is running as an independent voice.
 She is choosing to run as a Democrat but will answer only to her constituents, not party bosses or special interests.
 A Gallatin native, Puckett moved to St.
@@ -17,4 +18,4 @@ Her campaign will focus on fully funding public schools, protecting rural hospit
 I raised a family here.
 I’m not looking for a political career.
 I’m looking to get things done.
-District 9 deserves a representative who knows this community, answers to no one but the voters, and will fight for what’s right.”
+District 9 deserves a representative who knows this community, answers to no one but the voters, and will fight for what’s right.” Support Gena on Facebook Email Gena Volunteer Copyright © # Puckett 4 Mo - All Rights Reserved.

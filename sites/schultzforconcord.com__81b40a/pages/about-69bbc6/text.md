@@ -1,5 +1,4 @@
-About Kris
-Kris Schultz has served 4 terms in the New Hampshire House of Representatives and is now seeking the Ward 9 City Council seat..
+Skip to main content Kris Schultz for Concord Ward 9 City Council Kris Schultz for Concord Ward 9 City Council Home About Media Contact State Rep Donate About Kris Kris Schultz has served 4 terms in the New Hampshire House of Representatives and is now seeking the Ward 9 City Council seat..
 Kris has been a dedicated community organizer and activist for over 20 years, with a life-long commitment to social justice and democratic values.
 She has worked as a consultant in political campaigns in New Hampshire and throughout the U.S., for candidates running for positions from mayor to president.
 She also advised AARP, Americans for Healthcare, and Reform Immigration for America.
@@ -9,4 +8,4 @@ She volunteers actively with organizations that address the needs and concerns o
 She has served as a Supervisor of the Checklist in Concord’s Ward 9 since 2009 registering new voters every election day.
 She holds a B.A. in Political Science from the School of Public Affairs at American University in Washington, D.C., and studied at the Department of Sociology at the University of Louisville in Kentucky.
 Kris has lived in Alton Woods in Concord’s Ward 9 with her husband Gene Taylor, their dog Louis “Lou” Brandeis, since 2008.
-She enjoys strategy board games, cooking big dinners, playing guitar, water fitness, knitting poorly, and writing reviews of pop culture for her friends.
+She enjoys strategy board games, cooking big dinners, playing guitar, water fitness, knitting poorly, and writing reviews of pop culture for her friends. © # Kris Schultz for Concord Powered by Webador

@@ -1,3 +1,1 @@
-What Voters Need to Know
-DOWNLOAD B-ROLL HERE >> ADDITIONAL B-ROLL HERE>> BERNIE ENDORSEMENT >>
-ADDITIONAL HI-RES PHOTOS HERE >>
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Media About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate Media What Voters Need to Know DOWNLOAD B-ROLL DOWNLOAD B-ROLL HERE >> ADDITIONAL B-ROLL HERE>> BERNIE ENDORSEMENT >> Randy Villegas For Congress Randy Villegas For Congress Hi-Res Portraits ADDITIONAL HI-RES PHOTOS HERE >> Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

@@ -1,18 +1,11 @@
-CODE OF CONDUCT
-All candidates, paid staff, and contractors with a contract term longer than one month will be required to acknowledge and agree to this code of conduct as a condition of employment.
+About Alex Endorsements Volunteer Contact Donate About Alex Endorsements Volunteer Contact Donate CODE OF CONDUCT All candidates, paid staff, and contractors with a contract term longer than one month will be required to acknowledge and agree to this code of conduct as a condition of employment.
 This code of conduct will be made visible to campaign volunteers.
 I, __________________________, understand that the following values, policies, and practices govern all employees, volunteers, contractors, vendors, and others working with the People for Alex Ramel campaign (the “Campaign”).
-I hereby agree to abide by the following as a requirement of my paid involvement with the Campaign, and understand that failure to do so may result in my dismissal:
-I understand that the candidate in this campaign, Alex Ramel, is an equal party to this code of conduct and is equally answerable to these policies.
+I hereby agree to abide by the following as a requirement of my paid involvement with the Campaign, and understand that failure to do so may result in my dismissal: I understand that the candidate in this campaign, Alex Ramel, is an equal party to this code of conduct and is equally answerable to these policies.
 The Campaign expects all employees, volunteers, contractors, vendors, and others to respect the rights and opinions of others, and to refrain from behavior that impairs our mission, purpose, or culture of empowerment in the workplace.
 The Campaign is deeply committed to maintaining a work environment that is free from any kind of harassment, bullying, or discrimination.
 Conduct that is discriminatory, harassing, or otherwise disempowering will not be tolerated.
-Such behavior includes, but is not limited to:
-- Behavior that causes or threatens to harm any person connected with the Campaign, physically or emotionally, or causes reasonable apprehension of such harm or subjecting another to a substantial risk of such harm;
-- Physical or verbal threats against, extreme disrespect to, or intimidation of any person which results in limiting her/his full participation in all aspects of the Campaign;
-- Activity that constitutes discrimination because of age, race, color, religion, sex, gender, gender identity, national origin, disability, veteran status, sexual orientation, or marital or relationship status;
-- Engaging in disorderly conduct such as fighting; threatening behavior; sexual, gender-based, or other harassment; public disturbance; or drunk and disorderly conduct; and
-- Other behavior inconsistent with the standard of conduct expected of the Campaign or its commitment to providing an environment conducive to progress, empowerment, and political leadership.
+Such behavior includes, but is not limited to: Behavior that causes or threatens to harm any person connected with the Campaign, physically or emotionally, or causes reasonable apprehension of such harm or subjecting another to a substantial risk of such harm; Physical or verbal threats against, extreme disrespect to, or intimidation of any person which results in limiting her/his full participation in all aspects of the Campaign; Activity that constitutes discrimination because of age, race, color, religion, sex, gender, gender identity, national origin, disability, veteran status, sexual orientation, or marital or relationship status; Engaging in disorderly conduct such as fighting; threatening behavior; sexual, gender-based, or other harassment; public disturbance; or drunk and disorderly conduct; and Other behavior inconsistent with the standard of conduct expected of the Campaign or its commitment to providing an environment conducive to progress, empowerment, and political leadership.
 The Campaign does not tolerate any form of sexual harassment, or sexual misconduct.
 Sexual harassment may include sexual advances, sexual solicitation, requests for sexual favors, or other verbal or physical conduct that is of a sexual nature.
 Sexual misconduct includes behavior that falls short of the legal definition of sexual harassment, but nonetheless is unprofessional, inappropriate, and inconsistent with our cultural values.
@@ -30,14 +23,11 @@ Any time I feel that the Campaign could be doing better, I understand that the C
 The Campaign believes that employees, volunteers, and others have an obligation to do their part to create a culture that is supportive and free from intimidation or bias.
 If, for whatever reason, I do not wish to talk to my supervisor about a concern, I understand that the following campaign advisors have agreed to be points of contact and are committed to taking my concerns seriously and will work with me to respond to the situation in accordance with my wishes.
 What I discuss with these individuals will remain confidential until I choose otherwise.
-While not employed by the campaign, these advisors have also agreed to this code of conduct:
-- Lynn Cambell, Skagit County Democrats.
-(CampbellLynn87@gmail.com)
-- Lauren Currin, Executive Director at House Democratic Campaign Committee (Lauren@hdcc.org)
-The Campaign knows that it’s impossible to identify every possible scenario in one document.
+While not employed by the campaign, these advisors have also agreed to this code of conduct: Lynn Cambell, Skagit County Democrats. ( CampbellLynn87@gmail.com ) Lauren Currin, Executive Director at House Democratic Campaign Committee ( Lauren@hdcc.org ) The Campaign knows that it’s impossible to identify every possible scenario in one document.
 To that end, we rely on each other’s judgment and willingness to take action in order to ensure that we maintain a workplace culture that is equitable and empowering.
 If I am not sure how this code applies to a certain situation, I understand that I should seek clarification from my supervisor, another trusted colleague, or one of the campaign advisors listed above.
-AGREED AND ACCEPTED:
-Signature ________________________________
-Print name _______________________________
-Date ___________________________________
+AGREED AND ACCEPTED: Signature ________________________________ Print name _______________________________ Date ___________________________________ Download PDF About Donate Contact Us Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Receive updates, get involved.
+First Name Last Name Email Address Sign Up Thank you!
+Subscribe Code of Conduct Paid for By People For Alex Ramel, PO Box 2819, Bellingham WA 98227

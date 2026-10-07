@@ -1,5 +1,38 @@
 [
-"https://hoseyforri.com/about.html",
-"https://hoseyforri.com/index.html",
-"https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+{
+"text": "About Joe",
+"href": "https://hoseyforri.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "Donate to Joe's Campaign",
+"href": "https://secure.winred.com/friends-of-joseph-hosey/donate-today"
+},
+{
+"text": "Elect Joe Hosey",
+"href": "https://hoseyforri.com/index.html"
+},
+{
+"text": "Get Involved",
+"href": "https://hoseyforri.com/index.html#get-involved"
+},
+{
+"text": "Home",
+"href": "https://hoseyforri.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://hoseyforri.com/index.html#issues"
+},
+{
+"text": "Join Team Hosey",
+"href": "https://hoseyforri.com/index.html#get-involved"
+},
+{
+"text": "Volunteer",
+"href": "https://hoseyforri.com/index.html#get-involved"
+}
 ]

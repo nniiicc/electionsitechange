@@ -1,5 +1,2 @@
-Legislatiave Background
-Information & History
-Click the button on the right to preview my legislative background history, bills I signed onto or was the Prime Sponsor.
-Privacy Policy
-Paid for by Trish For South Dakota
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Legislatiave Background Information & History Click the button on the right to preview my legislative background history, bills I signed onto or was the Prime Sponsor.
+Go to Background Privacy Policy Paid for by Trish For South Dakota Share by:

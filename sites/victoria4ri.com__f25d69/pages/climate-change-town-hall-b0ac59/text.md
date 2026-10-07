@@ -1,11 +1,6 @@
-May 9, 2025
-Thank you to the Ocean Community Collaborative for inviting me to speak about What RI Is Doing About Climate Change.
+Skip to content Meet Victoria Town Halls Newsletter News Contact Us 2026 Campaign The Issues Request a Lawn Sign Endorsements Volunteer Meet and Greets Donate Climate Change Town Hall Home Blog Climate Change Town Hall 09 May May 9, 2025 Thank you to the Ocean Community Collaborative for inviting me to speak about What RI Is Doing About Climate Change.
 We had a productive discussion on the impacts of climate change right here in South County — and the legislative solutions we’re pursuing to protect our communities, coastlines, and future.
 These challenges are urgent, especially for our coastal towns.
 It was a great audience and many people posed thoughtful questions.
-We don’t have a recording, but the slides are below and here is the outline:
-- Quick snapshot of the 2022 RI Climate Update and the largest sectors for greenhouse gas emissions
-- Status update on 2025 Climate Action Plan (still in progress) and how to participate in the process
-- Pending legislation: the Building Decarbonization Act (sponsored by Kallman)
-- Highlights from the RI Transit Master Plan (and what it has planned for Westerly)
-- Update on Act on Coasts and climate resiliency
+We don’t have a recording, but the slides are below and here is the outline: Quick snapshot of the 2022 RI Climate Update and the largest sectors for greenhouse gas emissions Status update on 2025 Climate Action Plan (still in progress) and how to participate in the process Pending legislation: the Building Decarbonization Act (sponsored by Kallman) Highlights from the RI Transit Master Plan (and what it has planned for Westerly) Update on Act on Coasts and climate resiliency Leave A Comment Save my name, email, and website in this browser for the next time I comment.
+Paid for by Friends of Victoria Gu Connect With Us Sen-Gu@rilegislature.gov (401) 388-0696 Westerly, Charlestown, South Kingstown Harnold Theme Developed by Ir-Tech

@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.jeremyjonesforhouse.com/news/news-1",
- "paid_for_by": "Paid for by Jeremy Jones for SC",
+ "fingerprint": "7405af92379ff74d8e03eeb41f8c95ad154e4a6b",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeremy Jones for SC You need to enable JavaScript to run this app",
  "title": "Who is running to represent Lexington County SC House seats?",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,20 +1,106 @@
 [
-"http://paper%20form%20absentee%20ballot%20application/",
-"https://dev.stevejohnsonforsenate.com/wp-content/uploads/map.jpg",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx",
-"https://facebook.com/SteveJohnsonforIdaho",
-"https://google.com/maps/place/Bonner+County+Administration+Building/@48.2663498,-116.5688166,15z/data=!4m5!3m4!1s0x0:0x79acbf44cd244d17!8m2!3d48.2663498!4d-116.5688166",
-"https://instagram.com/stevejohnsonforidaho",
-"https://secure.anedot.com/steve-johnson-for-senate/senate26",
-"https://sos.idaho.gov/elections/forms/party_affiliation.pdf",
-"https://stevejohnsonforsenate.com/",
-"https://stevejohnsonforsenate.com/about",
-"https://stevejohnsonforsenate.com/cdn-cgi/l/email-protection",
-"https://stevejohnsonforsenate.com/contact",
-"https://stevejohnsonforsenate.com/issues",
-"https://stevejohnsonforsenate.com/voter-resources",
-"https://youtube.com/@SteveJohnsonforIdaho"
+{
+"text": "208-255-8055",
+"href": "tel:%20208-255-8055"
+},
+{
+"text": "About",
+"href": "https://stevejohnsonforsenate.com/about/"
+},
+{
+"text": "Bonner County Administration Building",
+"href": "https://www.google.com/maps/place/Bonner+County+Administration+Building/@48.2663498,-116.5688166,15z/data=!4m5!3m4!1s0x0:0x79acbf44cd244d17!8m2!3d48.2663498!4d-116.5688166"
+},
+{
+"text": "Connect",
+"href": "https://stevejohnsonforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/steve-johnson-for-senate/senate26"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SteveJohnsonforIdaho"
+},
+{
+"text": "HERE",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "HERE",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "HERE",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "HERE",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx"
+},
+{
+"text": "Home",
+"href": "https://stevejohnsonforsenate.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stevejohnsonforidaho/"
+},
+{
+"text": "Issues",
+"href": "https://stevejohnsonforsenate.com/issues/"
+},
+{
+"text": "Online Change Affiliation",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Online Check Your Registration",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx"
+},
+{
+"text": "Online New/Update Registration",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Online Request Absentee Ballot",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "Paper Form Absentee Ballot Application",
+"href": "http://paper%20form%20absentee%20ballot%20application"
+},
+{
+"text": "Paper Form Change Affiliation",
+"href": "https://sos.idaho.gov/elections/forms/party_affiliation.pdf"
+},
+{
+"text": "Polling Locations",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "Voter Resources",
+"href": "https://stevejohnsonforsenate.com/voter-resources/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@SteveJohnsonforIdaho"
+},
+{
+"text": "[email protected]",
+"href": "mailto:steve@stevejohnsonforsenate.com"
+},
+{
+"text": "[image]",
+"href": "https://dev.stevejohnsonforsenate.com/wp-content/uploads/map.jpg"
+},
+{
+"text": "[image]",
+"href": "https://stevejohnsonforsenate.com"
+},
+{
+"text": "your polling location",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+}
 ]

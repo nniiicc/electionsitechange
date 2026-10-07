@@ -1,28 +1,114 @@
 [
-"http://instagram.com/athenaforhouse",
-"http://techiki.com/",
-"http://twitter.com/AthenaHollins",
-"https://athenahollins.com/",
-"https://athenahollins.com/bio",
-"https://athenahollins.com/contact",
-"https://athenahollins.com/endorsements",
-"https://athenahollins.com/events",
-"https://athenahollins.com/issues",
-"https://athenahollins.com/search",
-"https://athenahollins.com/vote",
-"https://athenahollins.com/voting-info-2022-hmong",
-"https://athenahollins.com/voting-info-2022-karen",
-"https://athenahollins.com/voting-info-2022-oromo",
-"https://athenahollins.com/voting-info-2022-somali",
-"https://athenahollins.com/voting-info-2022-spanish",
-"https://athenahollins.com/voting-info-2022-vietnamese",
-"https://facebook.com/athenaforhouse",
-"https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx",
-"https://mnvotes.sos.state.mn.us/VoterStatus.aspx",
-"https://pollfinder.sos.state.mn.us/",
-"https://pollfinder.sos.state.mn.us/docs/66B.pdf",
-"https://ramseycounty.us/residents/elections-voting/voters/vote-election-day/vote-person",
-"https://secure.actblue.com/donate/athena-hollins-for-state-representative-1",
-"https://sos.state.mn.us/elections-voting/election-day-voting/know-your-rights",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail"
+{
+"text": "Check your voter registration here",
+"href": "https://mnvotes.sos.state.mn.us/VoterStatus.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.athenahollins.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/athena-hollins-for-state-representative-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.athenahollins.com/endorsements"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://pollfinder.sos.state.mn.us"
+},
+{
+"text": "Find an early voting center",
+"href": "https://www.ramseycounty.us/residents/elections-voting/voters/vote-election-day/vote-person"
+},
+{
+"text": "Home",
+"href": "https://www.athenahollins.com/"
+},
+{
+"text": "Información en español",
+"href": "https://www.athenahollins.com/voting-info-2022-spanish"
+},
+{
+"text": "Issues",
+"href": "https://www.athenahollins.com/issues"
+},
+{
+"text": "Learn More About Voting Rights",
+"href": "https://www.sos.state.mn.us/elections-voting/election-day-voting/know-your-rights/"
+},
+{
+"text": "Learn more and request ballot",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/"
+},
+{
+"text": "Lus Hmoob",
+"href": "https://www.athenahollins.com/voting-info-2022-hmong"
+},
+{
+"text": "Meet Athena",
+"href": "https://www.athenahollins.com/bio"
+},
+{
+"text": "Odeeffannoo Afaan Oromootiin",
+"href": "https://www.athenahollins.com/voting-info-2022-oromo"
+},
+{
+"text": "S'gaw K'Nyaw",
+"href": "https://www.athenahollins.com/voting-info-2022-karen"
+},
+{
+"text": "Techiki",
+"href": "http://techiki.com"
+},
+{
+"text": "Thông tin bằng tiếng Việt",
+"href": "https://www.athenahollins.com/voting-info-2022-vietnamese"
+},
+{
+"text": "Track your ballot",
+"href": "https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://www.athenahollins.com/events"
+},
+{
+"text": "Vote",
+"href": "https://www.athenahollins.com/vote"
+},
+{
+"text": "Warbixin af-soomaali ah",
+"href": "https://www.athenahollins.com/voting-info-2022-somali"
+},
+{
+"text": "[image: 66bcroppedmap.jpg]",
+"href": "https://pollfinder.sos.state.mn.us/docs/66B.pdf"
+},
+{
+"text": "[image: Athena Hollins ]",
+"href": "https://www.athenahollins.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/athenaforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/AthenaHollins"
+},
+{
+"text": "[no text]",
+"href": "https://www.athenahollins.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/athenaforhouse/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@athenahollins.com"
+}
 ]

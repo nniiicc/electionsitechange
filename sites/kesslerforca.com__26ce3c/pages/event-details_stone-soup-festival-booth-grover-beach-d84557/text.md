@@ -1,25 +1,5 @@
-top of page
-Save Your Spot
-- Dave Congalton Hometown RadioMon, Oct 05KVEC920.COM
-- Pioneer Day ParadeSat, Oct 10Paso Robles
-- Candidate BarbecueSat, Oct 17Cuesta Canyon Park
-- Barbeque, Beer & BallotsSat, Oct 03Life Community Church
-- AG Harvest Festival - Arroyo GrandeFri, Sep 25Centennial Park
-- Coffee with KesslerSat, Sep 19Morro Bay Harbor City Park
-- Coffee with Kessler - Morro BaySat, Sep 19430 Morro Bay Blvd, Morro Bay, CA 93442, USA
-- Santa Cruz County Fair - Republican BoothFri, Sep 18Santa Cruz County Fairgrounds
-- Monterey County Fair - Republican BoothSat, Sep 05Monterey County Fairgrounds
-- Stone Soup Festival Booth - Grover BeachSat, Aug 29Ramona Garden Park
-- March to the Primary Fundraiser with Shannon KesslerSat, Mar 07Palo Mesa Pizza II
-Stone Soup Festival Booth - Grover Beach
-Sat, Aug 29
-|Ramona Garden Park
-Visit our campaign booth
-Time & Location
-Aug 29, 2026, 10:00 AM – Aug 30, 2026, 6:00 PM
-Ramona Garden Park, Grover Beach, CA 93433, USA
-About the event
-Visit the Kessler for Assembly campaign booth at the Stone Soup Festival in Grover Beach, Saturday August 29 and Sunday August 30 at Ramona Garden Park.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog Save Your Spot Pioneer Day Parade Sat, Oct 10 Paso Robles More info RSVP Candidate Barbecue Sat, Oct 17 Cuesta Canyon Park More info RSVP Dave Congalton Hometown Radio Mon, Oct 05 KVEC920.COM More info Details Barbeque, Beer & Ballots Sat, Oct 03 Life Community Church More info Details AG Harvest Festival - Arroyo Grande Fri, Sep 25 Centennial Park More info Learn more Coffee with Kessler Sat, Sep 19 Morro Bay Harbor City Park More info Details Coffee with Kessler - Morro Bay Sat, Sep 19 430 Morro Bay Blvd, Morro Bay, CA 93442, USA More info Learn more Santa Cruz County Fair - Republican Booth Fri, Sep 18 Santa Cruz County Fairgrounds More info Learn more Monterey County Fair - Republican Booth Sat, Sep 05 Monterey County Fairgrounds More info Learn more Stone Soup Festival Booth - Grover Beach Sat, Aug 29 Ramona Garden Park More info Learn more March to the Primary Fundraiser with Shannon Kessler Sat, Mar 07 Palo Mesa Pizza II More info Details Stone Soup Festival Booth - Grover Beach Sat, Aug 29 | Ramona Garden Park Visit our campaign booth Time & Location Aug 29, 2026, 10:00 AM – Aug 30, 2026, 6:00 PM Ramona Garden Park, Grover Beach, CA 93433, USA About the event Visit the Kessler for Assembly campaign booth at the Stone Soup Festival in Grover Beach, Saturday August 29 and Sunday August 30 at Ramona Garden Park.
 Stop by to meet the team, ask questions, and pick up a lawn sign.
-Festival schedule and hours: https://clarkcenter.org/about/stone-soup-music-festival/
-bottom of page
+Festival schedule and hours: https://clarkcenter.org/about/stone-soup-music-festival/ Show More Share this event PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
+Privacy Policy kesslerforca@gmail.com Kessler For California D istrict 30 © # by Kessler For California District 30.
+Powered and secured by Wix bottom of page

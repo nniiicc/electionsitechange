@@ -1,6 +1,4 @@
-New Mexico House of Representative
-District 43 (Los Alamos, Sandoval, Santa Fe Counties)
-Christine Chandler serves as State Representative for New Mexico House District 43, which encompasses Los Alamos, Sandoval, and Santa Fe Counties.
+Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop More Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Account Orders My Account Sign out Sign In Orders My Account Representative Christine Chandler New Mexico House of Representative District 43 (Los Alamos, Sandoval, Santa Fe Counties) Christine Chandler serves as State Representative for New Mexico House District 43, which encompasses Los Alamos, Sandoval, and Santa Fe Counties.
 She was first elected to the NM House of Representatives in 2018 and was re-elected in 2020.
 Chris serves as Chair of the influential House Judiciary Committee and as a member of the House Taxation & Revenue Committee.
 During the interim (June - December) Chris chairs Courts, Corrections & Justice and is a member of the Revenue Stabilization & Tax Policy Committee.
@@ -27,30 +25,6 @@ She is married to George Chandler, who is also an attorney and retired physicist
 Chris graduated from Smith College with a degree in economics and earned law degrees from Boston College and Georgetown University.
 She retired from her career as an attorney and manager at Los Alamos National Laboratory and has continued to devote herself to improving the communities she lives in.
 Chris and her husband have three children and six grandchildren who live in Los Alamos, Carlsbad, and Oregon.
-Earlier Civic Work
-Los Alamos County Councilor & Chair
-Los Alamos League of Women Voters President
-Los Alamos Public Schools Foundation Board Member
-Leadership Los Alamos Board Member
-Los Alamos Charter Review Committee Member
-Los Alamos Probate Judge
-Los Alamos Planning & Zoning Commission Member
-Los Alamos 60th Anniversary Committee Co-Chair
-New Mexico Commission on Access to Justice Commissioner
-Memberships
-Los Alamos League of Women Voters
-Los Alamos Sportsmen's Club
-Pajarito Environmental Education Center
-The Sierra Club
-Los Alamos COOP Market
-Education
-Georgetown University Law Center, L.L.M.
-International & Comparative Law, with distinction
-Boston College Law School, J.D. cum laude
-Smith College, A.B.
-Economics
-Paid for by Friends for Christine
-PO Box 1565, Los Alamos, NM 87544
-Copyright © 2026 Friends For Christine - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Earlier Civic Work Los Alamos County Councilor & Chair Los Alamos League of Women Voters President Los Alamos Public Schools Foundation Board Member Leadership Los Alamos Board Member Los Alamos Charter Review Committee Member Los Alamos Probate Judge Los Alamos Planning & Zoning Commission Member Los Alamos 60th Anniversary Committee Co-Chair New Mexico Commission on Access to Justice Commissioner Memberships Los Alamos League of Women Voters Los Alamos Sportsmen's Club Pajarito Environmental Education Center The Sierra Club Los Alamos COOP Market Education Georgetown University Law Center, L.L.M.
+International & Comparative Law, with distinction Boston College Law School, J.D. cum laude Smith College, A.B.
+Economics Download PDF Bio or jpg headshot Chandler_Bio_2021_Final (pdf) Download Chandler_Headshot_Photo (jpg) Download Privacy Policy Terms and Conditions Paid for by Friends for Christine PO Box 1565, Los Alamos, NM 87544 Copyright © # Friends For Christine - All Rights Reserved.

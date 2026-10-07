@@ -1,4 +1,4 @@
-I have yet to hear anyone, from any background, argue that our elections need more campaign money from any source to improve their quality.
+Skip to content Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Get Involved Donate Now Facebook X-twitter Instagram Why Vote Yes on I-194: The Montana Option admin September 30, 2026 8:23 am No Comments I have yet to hear anyone, from any background, argue that our elections need more campaign money from any source to improve their quality.
 More specifically, Montana voters enacted the Corrupt Practices Act through a citizens’ initiative in 1912.
 The law remained in force for 98 years, until the 2010 U.S.
 Supreme Court decision in Citizens United made it unconstitutional.
@@ -21,4 +21,6 @@ However, many of these claims are undocumented or unfounded and misrepresent the
 At the heart of the debate is the influence of large, difficult-to-trace corporate campaign contributions.
 Importantly, I-194 does not restrict the money or influence corporations and industries may direct toward lobbying. visit transparentelection.org for more information.
 Vote yes on I-194.
-#I-194 #transparent elections
+#I-194 #transparent elections more posts: Tale of Two Elections September 30, 2026 No Comments Read More » DEQ says no to Sheep Creek Mine Request July 27, 2026 No Comments Read More » RINO-CRAT.COM BY THE ROADSIDE July 21, 2026 No Comments Read More » Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Facebook X-twitter Instagram © # Rino-crat Campaign.
+All rights reserved.
+Read Our Privacy Policy

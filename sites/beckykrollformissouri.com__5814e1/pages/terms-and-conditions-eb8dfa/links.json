@@ -1,6 +1,30 @@
 [
-"https://mostlyserious.io/",
-"https://upballot.com/",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "Mostly Serious",
+"href": "https://www.mostlyserious.io"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "info@upballot.com",
+"href": "mailto:info@upballot.com"
+},
+{
+"text": "www.upballot.com",
+"href": "https://www.upballot.com"
+}
 ]

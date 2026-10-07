@@ -1,4 +1,4 @@
-I was able to attend ACLU’s Voter Summit down in SLC to learn more about what Utah voters are asking for, what they’re worried about, and how to build bridges across different ideas.
+Search × Skip to content Home About Policy Get Involved Notebook Donate Now Donate Now Voter Summit: Facts & Findings I was able to attend ACLU’s Voter Summit down in SLC to learn more about what Utah voters are asking for, what they’re worried about, and how to build bridges across different ideas.
 We’ll start with the elephant in the room: The recent legislative power grab.
 I was both comforted and concerned by what I learned about this.
 At the capitol, it doesn’t seem that most legislators know they’ve overstepped their authority in this redistricting kerfuffle.
@@ -15,6 +15,6 @@ Utah is growing, it has been growing.
 We simply cannot be surprised that no real change in housing policy has resulted in a housing crisis.
 I’m disappointed to see so many reactionary bills come through our legislature.
 It feels like they’ve lost the plot in a sea of angry voices and fear mongering.
-Utah elections aren’t in any more danger this year than they were ten years ago, but there are plenty that will try to convince you they are as they try to change what has always worked.
+Utah elections aren’t in any more danger this year than they were ten years ago , but there are plenty that will try to convince you they are as they try to change what has always worked.
 I want us to bring the focus back to what ISN’T working and what HASN’T worked for quite some time.
 THAT is where we need focus because THAT is what is hurting Utah’s economy, Utah’s families, and Utah’s land.

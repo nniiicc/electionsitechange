@@ -1,5 +1,5 @@
-Meet Mary Gay
-Congresswoman Mary Gay Scanlon is a life-long advocate for children and families.
+top of page Home About Endorsements News Contact Get Involved More Use tab to navigate through the menu items.
+VOTE Donate Meet Mary Gay Congresswoman Mary Gay Scanlon is a life-long advocate for children and families.
 In November 2018, she was sworn into Congress following a special election victory, the first woman of the new wave of representation to be sworn in.
 In her third full term in Congress, Mary Gay has continued her relentless advocacy on behalf of children and families in Pennsylvania’s 5th District and across the country.
 As a member of the House Judiciary Committee and the House Committee on Rules, Mary Gay plays a key role in shaping laws that impact the lives of Americans.
@@ -12,8 +12,7 @@ Congresswoman Scanlon led House floor debate on critical legislative victories, 
 Mary Gay also has brought significant resources back to southeast Pennsylvania thanks to the Bipartisan Infrastructure Law and the Inflation Reduction Act.
 Congresswoman Scanlon has been tirelessly fighting for the people, working closely with President Biden to restore faith in our democracy and build a fair economy for all.
 Congresswoman Scanlon’s advocacy journey began while she was a law student at the University of Pennsylvania, when she began volunteering at People’s Emergency Center, a homeless shelter for families founded by former Congressman Bob Edgar.
-Upon graduating, she began representing abused and neglected children with the Support Center for Child Advocate and has since served as a board member for numerous legal services agencies.
-Mary Gay continued to work on behalf of children and families as co-chair of both the Philadelphia Bar Association’s Commission on Children at Risk and the Legal Rights of Children Committee.
+Upon graduating, she began representing abused and neglected children with the Support Center for Child Advocate and has since served as a board member for numerous legal services agencies. ​ Mary Gay continued to work on behalf of children and families as co-chair of both the Philadelphia Bar Association’s Commission on Children at Risk and the Legal Rights of Children Committee.
 She later was appointed by the Bar to serve as a founding board member and officer of Philadelphia Legal Assistance, the federally funded legal services agency for Philadelphia County.
 As a senior staff attorney at the Education Law Center of Pennsylvania, Mary Gay led class action lawsuits to enforce the rights of students with disabilities, in addition to representing individual students and their parents from across the state, drafting legislative and regulatory proposals, and producing training materials and educational programs for parents, educators, social service providers, government agencies and other advocates.
 She also served on two statewide interagency councils charged with implementing federal special education laws and testified before the Pennsylvania legislature about the ill-effects of zero-tolerance policies.
@@ -32,4 +31,4 @@ Mary Gay is a graduate of Colgate University and the University of Pennsylvania 
 She served as a Judicial Clerk for the Superior Court of Pennsylvania.
 Mary Gay and her husband, Mark Stewart, have three children: Casey, Daniel, and Matthew.
 All three children graduated from the local public school system.
-Mary Gay and Mark reside in Swarthmore with their cockatiel named TJ and a number of chickens.
+Mary Gay and Mark reside in Swarthmore with their cockatiel named TJ and a number of chickens. bottom of page

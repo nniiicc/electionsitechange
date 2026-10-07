@@ -1,17 +1,98 @@
 [
-"https://briggsforsenate.com/",
-"https://briggsforsenate.com/2026/07/15/know-before-you-vote",
-"https://briggsforsenate.com/2026/08/07/east-tennessee-state-and-local-primary-winners-who-will-compete-in-november",
-"https://briggsforsenate.com/2026/09/09/who-is-dr-briggs",
-"https://briggsforsenate.com/about",
-"https://briggsforsenate.com/contact",
-"https://briggsforsenate.com/endorsements",
-"https://briggsforsenate.com/issues",
-"https://briggsforsenate.com/news",
-"https://briggsforsenate.com/privacy",
-"https://briggsforsenate.com/volunteer",
-"https://facebook.com/RichardBriggsTN",
-"https://instagram.com/senatorbriggstn",
-"https://secure.winred.com/briggsforsenate/donate?sc=website-menu",
-"https://x.com/SenatorBriggs"
+{
+"text": "About",
+"href": "https://www.briggsforsenate.com/about/"
+},
+{
+"text": "Before You Vote",
+"href": "https://www.briggsforsenate.com/2026/07/15/know-before-you-vote/"
+},
+{
+"text": "Contact",
+"href": "https://www.briggsforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/briggsforsenate/donate?sc=website-menu"
+},
+{
+"text": "East Tennessee state and local primary winners who will compete in November",
+"href": "https://www.briggsforsenate.com/2026/08/07/east-tennessee-state-and-local-primary-winners-who-will-compete-in-november/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.briggsforsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.briggsforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.briggsforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.briggsforsenate.com/news/"
+},
+{
+"text": "Posts by Sen. Richard Briggs",
+"href": "https://x.com/SenatorBriggs"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.briggsforsenate.com/privacy/"
+},
+{
+"text": "Read Article",
+"href": "https://www.briggsforsenate.com/2026/07/15/know-before-you-vote/"
+},
+{
+"text": "Read Article",
+"href": "https://www.briggsforsenate.com/2026/08/07/east-tennessee-state-and-local-primary-winners-who-will-compete-in-november/"
+},
+{
+"text": "Read Article",
+"href": "https://www.briggsforsenate.com/2026/09/09/who-is-dr-briggs/"
+},
+{
+"text": "Read More",
+"href": "https://www.briggsforsenate.com/about/"
+},
+{
+"text": "View All News",
+"href": "https://www.briggsforsenate.com/2026/07/15/know-before-you-vote/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.briggsforsenate.com/volunteer/"
+},
+{
+"text": "Who is Dr. Briggs?",
+"href": "https://www.briggsforsenate.com/2026/09/09/who-is-dr-briggs/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RichardBriggsTN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorbriggstn/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/SenatorBriggs"
+},
+{
+"text": "[image]",
+"href": "https://www.briggsforsenate.com/"
+},
+{
+"text": "[image]Get Involved",
+"href": "https://www.briggsforsenate.com/volunteer/"
+},
+{
+"text": "[image]On the Issues",
+"href": "https://www.briggsforsenate.com/issues/"
+}
 ]

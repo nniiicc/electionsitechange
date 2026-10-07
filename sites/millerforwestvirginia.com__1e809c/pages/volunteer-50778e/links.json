@@ -1,9 +1,38 @@
 [
-"https://buy.stripe.com/9B600ja0p6xW9Osdku7EQ00",
-"https://millerforwestvirginia.com/contact-us",
-"https://millerforwestvirginia.com/endorse-chris",
-"https://millerforwestvirginia.com/home",
-"https://millerforwestvirginia.com/meet-chris",
-"https://millerforwestvirginia.com/privacy-policy",
-"https://millerforwestvirginia.com/volunteer"
+{
+"text": "Contact Us",
+"href": "https://millerforwestvirginia.com/contact-us"
+},
+{
+"text": "DONATE ONLINE",
+"href": "https://buy.stripe.com/9B600ja0p6xW9Osdku7EQ00"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/9B600ja0p6xW9Osdku7EQ00"
+},
+{
+"text": "Endorse Chris",
+"href": "https://millerforwestvirginia.com/endorse-chris"
+},
+{
+"text": "Home",
+"href": "https://millerforwestvirginia.com/home"
+},
+{
+"text": "Meet Chris",
+"href": "https://millerforwestvirginia.com/meet-chris"
+},
+{
+"text": "Volunteer for Chris",
+"href": "https://millerforwestvirginia.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://millerforwestvirginia.com/meet-chris"
+},
+{
+"text": "https://millerforwestvirginia.com/privacy-policy",
+"href": "https://millerforwestvirginia.com/privacy-policy"
+}
 ]

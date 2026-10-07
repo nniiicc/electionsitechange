@@ -1,11 +1,6 @@
-SENATOR
-ROB ORTT
-SENATE REPUBLICAN LEADER
-As Leader of the Senate Republican Conference, Rob is committed to restoring balance to state government and ending one-party rule in Albany.
-Under Rob’s leadership, the Senate Republicans will fight tirelessly for lower taxes, affordability, personal freedom,
-and bringing back jobs to New York.
-ABOUT ROB
-Robert G.
+top of page HOME ABOUT NEWS ISSUES CONTACT More Use tab to navigate through the menu items.
+DONATE SENATOR ROB ORTT SENATE REPUBLICAN LEADER As Leader of the Senate Republican Conference, Rob is committed to restoring balance to state government and ending one-party rule in Albany.
+Under Rob’s leadership, the Senate Republicans will fight tirelessly for lower taxes, affordability, personal freedom, and bringing back jobs to New York. ​ rob@robortt.com ABOUT ROB Robert G.
 Ortt was sworn into office as a New York State Senator for the 62nd District in January of 2015.
 From January 1st, 2010 to December 31st, 2014, Rob served as Mayor of North Tonawanda.
 In that role, he developed executive experience with an in-depth understanding of local government.
@@ -29,10 +24,7 @@ Dwyer Program across western New York.
 The program provides peer-to-peer support program for veterans facing the challenges of post-traumatic stress, traumatic brain injuries, and reintegration into civilian life.
 In June of 2020, Rob was elected the Minority Leader by his colleagues in the Republican Conference.
 Rob lives in North Tonawanda with his wife, Meghan.
-SHORT BIO
-Senator Rob Ortt
-Leader, Senate Republican Conference
-Robert G.
+SHORT BIO Senator Rob Ortt Leader, Senate Republican Conference Robert G.
 Ortt has served the 62nd Senate District since 2015.
 In June of 2020, he was elected by his colleagues to serve as the Leader of the Senate Republican Conference.
 Prior to his election to the State Senate, Rob served as Mayor of the City of North Tonawanda, leading the economic revitalization efforts in his hometown.
@@ -40,3 +32,5 @@ Rob’s career in public service began in October of 2001 when he enlisted in th
 A First Lieutenant and veteran of Operation Enduring Freedom in Afghanistan, Rob is a recipient of the Bronze Star, the Army Commendation Medal, the Afghan Campaign Medal and the Combat Infantryman’s Badge.
 A graduate of St.
 Joseph’s Collegiate Institute and Canisius College, Rob lives in North Tonawanda with his wife Meghan.
+PO Box 1279 North Tonawanda, NY 14120 Paid for by Rob Ortt for New York HOME ABOUT NEWS ISSUES CONTACT Subscribe to Our Newsletter I accept terms & conditions Sign me up!
+Submit Thanks for submitting! bottom of page

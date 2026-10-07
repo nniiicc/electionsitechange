@@ -1,4 +1,4 @@
-Maurice Brown, or Mo as many in our community call him, believes that housing, healthcare and education are human rights.
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Maurice Brown, or Mo as many in our community call him, believes that housing, healthcare and education are human rights.
 He believes that every single person deserves to be treated with dignity and every child deserves a fair shot at an education regardless of their zip code.
 Mo is an Alumni of both Onondaga Community College & Syracuse University.
 Currently, Mo serves as the County Legislator for the 15th district of Onondaga County.
@@ -30,8 +30,7 @@ He’s fought to protect our community from the potential environmental impacts 
 In 2024, former Legislature Chairman Tim Burtis, a republican, appointed Mo as the Legislature’s Rep on the Greater Syracuse Land Bank’s board.
 He also serves on many other community and nonprofit boards.
 After helping lead the charge to flip the county legislature in 2025, Mo was named chair of the Ways and Means committee, which oversees the county’s over 1.7 billion dollar budget.
-Frequently Asked Questions:
-What is this campaign focused on?
+Frequently Asked Questions: What is this campaign focused on?
 This campaign is focused on lowering costs for working families in Central New York.
 That means expanding affordable housing, reducing utility bills, improving public transportation, investing in prevention focused public safety, and ensuring corporations and the ultra wealthy pay their fair share.
 What issues are most important in District 129?
@@ -42,3 +41,6 @@ Registered Democrats who live in New York State Assembly District 129 are eligib
 How can I get involved?
 You can donate, volunteer, host a house meeting, collect petition signatures, or sign up for campaign updates.
 Building a people powered campaign requires community participation.
+Click here to see what priorities we will address to help make our community a better place. ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

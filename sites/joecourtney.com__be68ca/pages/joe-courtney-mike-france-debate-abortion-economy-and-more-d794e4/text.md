@@ -1,4 +1,4 @@
-Congressman Joe Courtney faced off against his Republican opponent in the first debate of Connecticut’s second congressional district race this week, hosted by Connecticut’s League of Women Voters.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News October 4, 2022 JOE COURTNEY, MIKE FRANCE DEBATE ABORTION, ECONOMY AND MORE Congressman Joe Courtney faced off against his Republican opponent in the first debate of Connecticut’s second congressional district race this week, hosted by Connecticut’s League of Women Voters.
 The two major party candidates vying to represent Connecticut’s 2nd Congressional District discussed inflation, health care costs, student loans, public transportation, abortion rights and their shared love of submarines during a televised debate on Monday night.
 The event gave voters in eastern Connecticut their first opportunity to watch Democratic incumbent Joe Courtney, who has served in Congress for more than 15 years, face off against his Republican challenger Mike France, who has held a seat in the Connecticut General Assembly since 2015.
 The debate, which was hosted by Connecticut Public Broadcasting and sponsored by the League of Women Voters, offered both candidates opportunities to touch on issues they were eager to highlight and exploit.
@@ -6,8 +6,7 @@ For France, it was inflation and immigration policy.
 For Courtney, it was access to abortion and federal investments in his district, which covers more than 60 towns and cities in the eastern part of the state.
 Like many Republicans running for office this year, France leapt at the first opportunity to discuss the rising costs of food, gas and other consumer items.
 And he quickly tried to place the blame for those inflationary effects on President Joe Biden and the Democratic majorities in Congress, which passed a stimulus bill, a large infrastructure spending package and, most recently, a bill focused on investments to combat climate change.
-France argued that the current rate of inflation was due to the “infusion of trillions of dollars into the economy with no economic basis for it.”
-Courtney countered by arguing that he and his party were working to alleviate the financial pain of inflation for working-class Americans by providing additional assistance through things like increased Social Security payments.
+France argued that the current rate of inflation was due to the “infusion of trillions of dollars into the economy with no economic basis for it.” Courtney countered by arguing that he and his party were working to alleviate the financial pain of inflation for working-class Americans by providing additional assistance through things like increased Social Security payments.
 He also noted the recent Inflation Reduction Act, which will offer people financial aid to help install new heating systems in their homes.
 Still, Courtney said he was “not under any illusion” that the problem of inflation was solved.
 France may have felt more comfortable fielding the question on inflation, but that seemed to change quickly when the issue of abortion rights was raised.
@@ -34,3 +33,4 @@ They both agreed that Russia and China presented problems for the United States 
 And they both had the same solution to countering those perceived threats.
 The country needed to pay Electric Boat, a major employer in their district, to build more nuclear submarines at its manufacturing facility in New London.
 The two submarines that are currently produced every year, they agreed, is not nearly enough.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

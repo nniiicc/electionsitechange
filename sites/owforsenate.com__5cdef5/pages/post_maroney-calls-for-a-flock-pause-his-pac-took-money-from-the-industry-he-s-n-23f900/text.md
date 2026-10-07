@@ -1,6 +1,7 @@
-Maroney Calls for a Flock Pause.
+top of page Home About News Get Involved More Use tab to navigate through the menu items.
+All Posts Search Maroney Calls for a Flock Pause.
 His PAC Took Money From the Industry He’s Now Questioning.
-Sen.
+Admin Aug 17 2 min read Sen.
 James Maroney is now calling on our communities to pause new installations on Flock cameras.
 This comes on the heels of recent and well deserved community concerns over data privacy and surveillance.
 Over the past 8 years, Sen.
@@ -16,3 +17,7 @@ When a senator who regulates privacy and technology issues draws sustained suppo
 The people of Milford, Orange, West Haven, and Woodbridge deserve a senator whose first loyalty is to them—not to the lobbyists who write checks.
 Every dollar that flows from lobbyists in Hartford into Senator Maroney’ PAC raises the same question: Whose voice is being amplified, and whose is being diluted?
 The pattern visible in the filings does not reassure anyone who wants genuine representation rather than business-as-usual in Hartford.
+Recent Posts See All Affordable Housing Shouldn’t Mean Surrendering Local Control Weaver and Collins Call for Immediate Action.
+Not a Pause, on Surveillance Cameras Make No Mistake: Connecticut Cannot Afford to Subsidize the AI Data Center Boom on the Backs of Working Families Contact Me: Call or Text: 203-444-2167 Email: owen@owforsenate.com Join our mailing list Email * Subscribe I want to subscribe to your mailing list.
+Paid for by Weaver2026, Angela Driver Treasurer.
+Approved by Owen Weaver. bottom of page

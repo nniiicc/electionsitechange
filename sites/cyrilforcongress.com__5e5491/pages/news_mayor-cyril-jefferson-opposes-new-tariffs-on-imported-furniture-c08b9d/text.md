@@ -1,22 +1,18 @@
-Skip navigation menu
-Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture
-"Our Economy—and Our Legacy—Are at Stake"
-High Point, N.C. — Mayor Cyril Jefferson, candidate for the U.S.
-House of Representatives and current mayor of High Point, is speaking out strongly against proposed federal tariffs on imported furniture—calling the policy “a direct threat to local jobs, small businesses, and the future of North Carolina’s furniture industry.”
-“As Mayor of the Furniture Capital of the World, I’ve seen firsthand how deeply this industry supports our economy,” said Mayor Jefferson.
-“If these tariffs go into effect, they won’t just hurt large companies—they’ll hit our local manufacturers, retailers, and working families who depend on affordable goods and good-paying jobs.”
-High Point is home to the High Point Market, the world’s largest furniture trade show, held twice annually.
+Skip navigation menu Home About Issues News Endorsements Get Involved Contact Donate News Home About Issues News Endorsements Get Involved Contact Donate News PRESS RELEASE National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America PRESS RELEASE UNCF to Honor Mayor Cyril Jefferson at 2nd Annual Triad “A Mind Is...”® PRESS RELEASE Mayor Cyril Jefferson Joins “Take BAC Congress” to Advance Government Accountability Reforms PRESS RELEASE Cyril Jefferson Officially Files to Run for Congress in North Carolina’s 6th District PRESS RELEASE Jefferson Represents High Point at U.S.
+Global Leadership Coalition’s Mayors Foreign Policy Summit PRESS RELEASE Mayor Cyril Jefferson Selected for Prestigious ElevateNC: Higher Education Leadership Cohort PRESS RELEASE Cyril Jefferson Calls for Bold Action on Soaring Cost of Living PRESS RELEASE Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture PRESS RELEASE Cyril Jefferson Blasts Trump’s Federal Takeover of D.C.
+Police and National Guard Deployment PRESS RELEASE Cyril Jefferson Announces Run for Congress PRESS RELEASE Cyril Jefferson Slams Addison McDowell’s Anti-Community Votes ARTICLE Mayor Jefferson Delivers State of the City Address Article High Point Mayor Jefferson '18 to Receive 2025 Keeper of the Flame Award ARTICLE Meet the Jeffersons Aug 25 2025 PRESS RELEASE Mayor Cyril Jefferson Opposes New Tariffs on Imported Furniture "Our Economy—and Our Legacy—Are at Stake" High Point, N.C. — Mayor Cyril Jefferson, candidate for the U.S.
+House of Representatives and current mayor of High Point, is speaking out strongly against proposed federal tariffs on imported furniture—calling the policy “a direct threat to local jobs, small businesses, and the future of North Carolina’s furniture industry.” “As Mayor of the Furniture Capital of the World, I’ve seen firsthand how deeply this industry supports our economy,” said Mayor Jefferson.
+“If these tariffs go into effect, they won’t just hurt large companies—they’ll hit our local manufacturers, retailers, and working families who depend on affordable goods and good-paying jobs.” High Point is home to the High Point Market, the world’s largest furniture trade show, held twice annually.
 The Market brings in over $6 billion a year to the region and supports tens of thousands of jobs across hospitality, transportation, logistics, and design.
 Not only benefiting Guilford County, but also Forsyth, Davidson, and the surrounding areas.
 Mayor Jefferson emphasized that raising tariffs on imported furniture and components would undermine this vital economic engine.
 “These tariffs will raise prices, shrink our local workforce, and drive away global partners who have invested in High Point for decades,” Jefferson said.
-“That’s unacceptable.”
-North Carolina’s furniture legacy dates back to the early 1900s, when the state became a national leader in wood furniture production.
+“That’s unacceptable.” North Carolina’s furniture legacy dates back to the early 1900s, when the state became a national leader in wood furniture production.
 Today, many local businesses rely on global supply chains to source materials affordably.
 Mayor Jefferson warns that if costs spike due to tariffs, small businesses—not foreign competitors—will be the ones to suffer most.
 “You don’t protect American industry by making it more expensive to do business in America,” said Jefferson.
-“You protect it by investing in your people, encouraging innovation, and keeping your city—and your country—competitive.”
-If elected to Congress, Mayor Jefferson pledges to fight for:
-“I’m not just running for Congress—I’m running to protect a way of life that generations of North Carolinians built,” Jefferson said.
-“Let’s build on that legacy, not price it out of existence.”
-PRESS RELEASE
+“You protect it by investing in your people, encouraging innovation, and keeping your city—and your country—competitive.” If elected to Congress, Mayor Jefferson pledges to fight for: Fair trade policies that protect both consumers and American workers Federal investments in workforce development and manufacturing innovation Continued support for the High Point Market and regional economic growth “I’m not just running for Congress—I’m running to protect a way of life that generations of North Carolinians built,” Jefferson said.
+“Let’s build on that legacy, not price it out of existence.” Media Contact: Brandon W.
+Lenoir 336-247-6727 Management@CyrilForCongress.com https://CyrilForCongress.com Privacy Cyril For Congress | P.O.
+Box 5043 | High Point, NC 27262 Paid for by Cyril for Congress committee.
+You need to enable JavaScript to run this app.

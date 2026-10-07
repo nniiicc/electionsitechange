@@ -1,6 +1,8 @@
 {
  "description": "Contact CompanyThis field is for validation purposes and should be left unchanged.Name* First Last Email* PhoneMessage* Submit",
  "final_url": "https://amygaley.com/contact/",
+ "fingerprint": "294be7c4a8296312f6b7f1806f42732c2f88ef12",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Amy Galey",
  "title": "Contact - Amy Galey",
  "years_mentioned": []

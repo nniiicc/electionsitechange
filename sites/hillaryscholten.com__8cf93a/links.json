@@ -1,17 +1,74 @@
 [
-"https://facebook.com/scholtenforcongress",
-"https://hillaryscholten.com/",
-"https://hillaryscholten.com/democracy-summer-program",
-"https://hillaryscholten.com/meet-hillary",
-"https://hillaryscholten.com/priorities",
-"https://hillaryscholten.com/volunteer",
-"https://instagram.com/scholten4congress",
-"https://secure.actblue.com/donate/sch_web_22",
-"https://secure.actblue.com/donate/sch_web_22?amount=100",
-"https://secure.actblue.com/donate/sch_web_22?amount=200",
-"https://secure.actblue.com/donate/sch_web_22?amount=25",
-"https://secure.actblue.com/donate/sch_web_22?amount=5",
-"https://secure.actblue.com/donate/sch_web_22?amount=50",
-"https://secure.ngpvan.com/p/QgGpGxVYv0OFdt9PfUvvSg2",
-"https://twitter.com/HillaryScholten"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=50"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/sch_web_22"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sch_web_22?amount=5"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/scholtenforcongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scholten4congress/"
+},
+{
+"text": "Internship",
+"href": "https://hillaryscholten.com/democracy-summer-program/"
+},
+{
+"text": "Meet Hillary",
+"href": "https://hillaryscholten.com/meet-hillary/"
+},
+{
+"text": "Priorities",
+"href": "https://hillaryscholten.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://secure.ngpvan.com/p/QgGpGxVYv0OFdt9PfUvvSg2"
+},
+{
+"text": "Read More",
+"href": "https://hillaryscholten.com/meet-hillary"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/HillaryScholten"
+},
+{
+"text": "Volunteer",
+"href": "https://hillaryscholten.com/volunteer"
+},
+{
+"text": "[image: Hillary Scholten for Congress]",
+"href": "https://hillaryscholten.com/"
+},
+{
+"text": "info@hillaryscholten.com",
+"href": "mailto:info@hillaryscholten.com"
+}
 ]

@@ -1,15 +1,66 @@
 [
-"http://facebook.com/amin4ky",
-"http://tiktok.com/@amin4ky",
-"https://amin4ky.com/",
-"https://amin4ky.com/advisory-committee",
-"https://amin4ky.com/donate",
-"https://amin4ky.com/endorsements",
-"https://amin4ky.com/event-list",
-"https://amin4ky.com/faq",
-"https://amin4ky.com/top-priorities",
-"https://instagram.com/amin4ky",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.amin4ky.com%2Fevent-details%2Flaunch-party-fundraiser",
-"https://tinyurl.com/57vfncc7",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.amin4ky.com%2Fevent-details%2Flaunch-party-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "AMIN4KY@GMAIL.COM",
+"href": "mailto:AMIN4KY@GMAIL.COM"
+},
+{
+"text": "Advisory Committee",
+"href": "https://www.amin4ky.com/advisory-committee"
+},
+{
+"text": "Amin4KY",
+"href": "https://www.amin4ky.com"
+},
+{
+"text": "Amy Amin",
+"href": "https://www.amin4ky.com"
+},
+{
+"text": "Donate & Volunteer",
+"href": "https://www.amin4ky.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amin4ky.com/endorsements"
+},
+{
+"text": "FAQ",
+"href": "https://www.amin4ky.com/faq"
+},
+{
+"text": "Home",
+"href": "https://www.amin4ky.com"
+},
+{
+"text": "See other events",
+"href": "https://www.amin4ky.com/event-list"
+},
+{
+"text": "Top Priorities",
+"href": "https://www.amin4ky.com/top-priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/amin4ky"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/amin4ky"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@amin4ky"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.amin4ky.com%2Fevent-details%2Flaunch-party-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.amin4ky.com%2Fevent-details%2Flaunch-party-fundraiser"
+},
+{
+"text": "https://tinyurl.com/57vfncc7",
+"href": "https://tinyurl.com/57vfncc7"
+}
 ]

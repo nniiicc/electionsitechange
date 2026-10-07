@@ -1,10 +1,42 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/6562b37e-0319-4e8c-b00a-d5c1d48e68df/Maine_by_the_Numbers_Updated.pdf",
-"https://reaganformaine.com/",
-"https://reaganformaine.com/about",
-"https://reaganformaine.com/contact",
-"https://reaganformaine.com/donate",
-"https://reaganformaine.com/real-state-of-the-state",
-"https://reaganformaine.com/sponsored-legislation"
+{
+"text": "About",
+"href": "https://reaganformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://reaganformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://reaganformaine.com/donate"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/6562b37e-0319-4e8c-b00a-d5c1d48e68df/Maine_by_the_Numbers_Updated.pdf"
+},
+{
+"text": "Home",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Real State of the State",
+"href": "https://reaganformaine.com/real-state-of-the-state"
+},
+{
+"text": "Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul Representative Reagan Paul",
+"href": "https://reaganformaine.com/"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://reaganformaine.com/sponsored-legislation"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/6562b37e-0319-4e8c-b00a-d5c1d48e68df/Maine_by_the_Numbers_Updated.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

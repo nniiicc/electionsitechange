@@ -1,7 +1,42 @@
 [
-"https://lovable.dev/projects/lovp_24evwp2ja181b95z6qayfqw5p3",
-"https://secure.anedot.com/friends-of-sharon-carson-for-state-senate/reelect-sen-carson",
-"https://sencarson.com/",
-"https://sencarson.com/about",
-"https://sencarson.com/issues"
+{
+"text": "About",
+"href": "https://sencarson.com/about"
+},
+{
+"text": "About Sharon",
+"href": "https://sencarson.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/friends-of-sharon-carson-for-state-senate/reelect-sen-carson"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-sharon-carson-for-state-senate/reelect-sen-carson"
+},
+{
+"text": "Edit with",
+"href": "https://lovable.dev/projects/lovp_24evwp2ja181b95z6qayfqw5p3"
+},
+{
+"text": "Get Involved",
+"href": "https://sencarson.com/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://sencarson.com/"
+},
+{
+"text": "Issues",
+"href": "https://sencarson.com/issues"
+},
+{
+"text": "Send us a note",
+"href": "https://sencarson.com/#send-a-note"
+},
+{
+"text": "[image: Sharon Carson for State Senate campaign logo]Sharon CarsonNH Senate District 14",
+"href": "https://sencarson.com/"
+}
 ]

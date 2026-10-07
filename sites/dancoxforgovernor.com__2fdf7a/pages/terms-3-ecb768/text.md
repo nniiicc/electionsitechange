@@ -1,71 +1,20 @@
-Please read these terms and conditions carefully before using our website and services.
-By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
-Permission is granted to temporarily download one copy of the materials on this website for personal, non-commercial transitory viewing only.
-The materials on this website are provided on an “as is” basis.
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate Terms and Conditions Home / Terms and Conditions Terms and Conditions Please read these terms and conditions carefully before using our website and services.
+1.
+Acceptance of Terms By accessing and using this website, you accept and agree to be bound by the terms and provision of this agreement.
+2.
+Use License Permission is granted to temporarily download one copy of the materials on this website for personal, non-commercial transitory viewing only.
+3.
+Disclaimer The materials on this website are provided on an “as is” basis.
 We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-In no event shall we or our suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on this website.
-We may revise these terms of service at any time without notice.
+4.
+Limitations In no event shall we or our suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on this website.
+5.
+Revisions We may revise these terms of service at any time without notice.
 By using this website you are agreeing to be bound by the then current version of these terms of service.
-If you have any questions about these Terms and Conditions, please contact us.
-Manage Cookie Consent
-To provide the best experiences, we use technologies like cookies to store and/or access device information.
-Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site.
-Not consenting or withdrawing consent, may adversely affect certain features and functions.
-Functional
-Always active
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-Preferences
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-Statistics
-The technical storage or access that is used exclusively for statistical purposes.
-The technical storage or access that is used exclusively for anonymous statistical purposes.
-Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-Marketing
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-We use cookies to improve your experience on our site.
-By using our site, you consent to cookies.
-Manage your cookie preferences below:
-Essential cookies enable basic functions and are necessary for the proper function of the website.
-Name
-Description
-Duration
-Cookie Preferences
-This cookie is used to store the user's cookie consent preferences.
-Google reCAPTCHA helps protect websites from spam and abuse by verifying user interactions through challenges.
-_GRECAPTCHA
-Google reCAPTCHA sets a necessary cookie (_GRECAPTCHA) when executed for the purpose of providing its risk analysis.
-Google Tag Manager simplifies the management of marketing tags on your website without code changes.
-td
-Registers statistical data on users' behaviour on the website.
-Used for internal analytics by the website operator.
-session
-cookiePreferences
-Registers cookie preferences of a user
-2 years
-Stripe is a payment processing platform that enables businesses to accept online payments securely and efficiently.
-Service URL: stripe.com (opens in a new window)
-__stripe_mid
-Fraud prevention and detection
-1 year
-__stripe_sid
-m
-Set by payment provider stripe.com to process payments
-10 years
-Statistics cookies collect information anonymously.
-This information helps us understand how visitors use our website.
-SourceBuster is used by WooCommerce for order attribution based on user source.
-sbjs_current
-Traffic origin information for the visitor’s current visit to your store
-sbjs_first_add
-Timestamp, referring URL, and entry page for your visitor’s first visit to your store (only applicable if the visitor returns before the session expires)
-sbjs_current_add
-Timestamp, referring URL, and entry page for your visitor’s current visit to your store
-sbjs_migrations
-Technical data to help with migrations between different versions of the tracking feature
-sbjs_session
-The number of page views in this session and the current page path
-sbjs_udata
-Information about the visitor’s user agent, such as IP, the browser, and the device type
-sbjs_first
-Traffic origin information for the visitor’s first visit to your store (only applicable if the visitor returns before the session expires)
-You can find more information in our Cookies Policy Old and Privacy Policy.
+6.
+Contact Information If you have any questions about these Terms and Conditions, please contact us.
+Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

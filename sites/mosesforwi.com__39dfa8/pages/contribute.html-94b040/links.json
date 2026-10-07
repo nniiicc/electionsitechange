@@ -1,12 +1,42 @@
 [
-"https://mosesforwi.com/",
-"https://mosesforwi.com/about-clint.html",
-"https://mosesforwi.com/contact.html",
-"https://mosesforwi.com/contribute.html",
-"https://mosesforwi.com/district.html",
-"https://mosesforwi.com/priorities.html",
-"https://mosesforwi.com/privacy-policy.html",
-"https://mosesforwi.com/terms-and-conditions.html",
-"https://rally.org/f/kgsqpsZtRay",
-"https://secure.anedot.com/7941644f-7918-47a0-8845-21391275c2fd/donate"
+{
+"text": "About Clint",
+"href": "https://www.mosesforwi.com/about-clint.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://rally.org/f/kgsqpsZtRay"
+},
+{
+"text": "Contact",
+"href": "https://www.mosesforwi.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.mosesforwi.com/contribute.html"
+},
+{
+"text": "District",
+"href": "https://www.mosesforwi.com/district.html"
+},
+{
+"text": "Home",
+"href": "https://www.mosesforwi.com/"
+},
+{
+"text": "Online donations accepted here",
+"href": "https://secure.anedot.com/7941644f-7918-47a0-8845-21391275c2fd/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.mosesforwi.com/priorities.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mosesforwi.com/privacy-policy.html"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.mosesforwi.com/terms-and-conditions.html"
+}
 ]

@@ -1,36 +1,250 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020-2",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-14-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-18-2020",
-"https://voteyvette.com/press/clarke-and-freshdirect-deliver-500-boxes-of-food-to-brooklynites",
-"https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites",
-"https://voteyvette.com/press/democrats-introduce-bill-to-protect-health-data-used-for-tracing-the-coronavirus",
-"https://voteyvette.com/press/house-democrats-press-google-over-report-of-scaled-back-diversity-efforts",
-"https://voteyvette.com/press/max-murphy-podcast-rep-yvette-clarke-on-why-she-deserves-another-term-in-congress",
-"https://voteyvette.com/press/new-bill-would-suspend-deportations-for-haitians-in-bronx",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/5",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/7",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response",
-"https://voteyvette.com/press/small-landlords-say-they-need-relief-too-as-queens-congress-members-call-for-rent-and-mortgage-forgiveness",
-"https://voteyvette.com/press/the-technology-202-remote-work-could-be-here-to-stay",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "5",
+"href": "https://voteyvette.com/press/page/5/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "7",
+"href": "https://voteyvette.com/press/page/7/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 13, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020-2/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 14, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-14-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 18, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-18-2020/"
+},
+{
+"text": "COVID-19 Update: ‘Endangering staff and inmates alike’: Elected officials stand up for incarcerated Brooklynites",
+"href": "https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/"
+},
+{
+"text": "Clarke and FreshDirect deliver 500 boxes of food to Brooklynites",
+"href": "https://voteyvette.com/press/clarke-and-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Democrats introduce bill to protect health data used for tracing the coronavirus",
+"href": "https://voteyvette.com/press/democrats-introduce-bill-to-protect-health-data-used-for-tracing-the-coronavirus/"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House Democrats press Google over report of scaled-back diversity efforts",
+"href": "https://voteyvette.com/press/house-democrats-press-google-over-report-of-scaled-back-diversity-efforts/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-14-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-18-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-and-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/democrats-introduce-bill-to-protect-health-data-used-for-tracing-the-coronavirus/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-democrats-press-google-over-report-of-scaled-back-diversity-efforts/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/max-murphy-podcast-rep-yvette-clarke-on-why-she-deserves-another-term-in-congress/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/new-bill-would-suspend-deportations-for-haitians-in-bronx/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/small-landlords-say-they-need-relief-too-as-queens-congress-members-call-for-rent-and-mortgage-forgiveness/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/the-technology-202-remote-work-could-be-here-to-stay/"
+},
+{
+"text": "Max & Murphy Podcast: Rep. Yvette Clarke on Why She Deserves Another Term in Congress",
+"href": "https://voteyvette.com/press/max-murphy-podcast-rep-yvette-clarke-on-why-she-deserves-another-term-in-congress/"
+},
+{
+"text": "New Bill Would Suspend Deportations for Haitians in Bronx",
+"href": "https://voteyvette.com/press/new-bill-would-suspend-deportations-for-haitians-in-bronx/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Yvette Clarke, Sen. Wyden lead letter to prevent AI bias in COVID-19 response",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response/"
+},
+{
+"text": "Small landlords say they need relief, too, as Queens Congress members call for rent and mortgage forgiveness",
+"href": "https://voteyvette.com/press/small-landlords-say-they-need-relief-too-as-queens-congress-members-call-for-rent-and-mortgage-forgiveness/"
+},
+{
+"text": "The Technology 202: Remote Work Could Be Here to Stay",
+"href": "https://voteyvette.com/press/the-technology-202-remote-work-could-be-here-to-stay/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-14-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-18-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-and-freshdirect-deliver-500-boxes-of-food-to-brooklynites/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/democrats-introduce-bill-to-protect-health-data-used-for-tracing-the-coronavirus/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-democrats-press-google-over-report-of-scaled-back-diversity-efforts/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/max-murphy-podcast-rep-yvette-clarke-on-why-she-deserves-another-term-in-congress/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/new-bill-would-suspend-deportations-for-haitians-in-bronx/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/small-landlords-say-they-need-relief-too-as-queens-congress-members-call-for-rent-and-mortgage-forgiveness/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/the-technology-202-remote-work-could-be-here-to-stay/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/5/"
+}
 ]

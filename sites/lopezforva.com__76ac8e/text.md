@@ -1,4 +1,8 @@
-I live here.
+Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Home About My Legislative Proposals DONATE Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Taner Lopez for the US House of Representatives Home About My Legislative Proposals DONATE More Home About My Legislative Proposals DONATE Home About My Legislative Proposals DONATE The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence America should answer to Americans — not foreign lobbies, not billionaires, and not corporations that write the rules.
+The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence The 5 - Star Campaign For Our Re-Independence America should answer to Americans — not foreign lobbies, not billionaires, and not corporations that write the rules.
+Please Donate Every contribution; $5, $10, $25, $100, or whatever you can give, helps us reach more voters and win this election.
+Your generosity gives this campaign the resources to compete and carry our message across Virginia’s 7th District.
+Donate A neighbor with work already written for this district I live here.
 I am on the November ballot for Virginia’s 7th District because the problems in front of us are not theoretical.
 Power bills, farmland, veterans waiting for care, housing pressure, immigration and border security, and a government that too often serves someone other than the people who live in these counties—those are the urgent necessities of this district.
 I am Taner Lopez.
@@ -14,7 +18,7 @@ Existing AI policies largely govern how AI is developed, deployed, and used.
 My bill focuses on the point at which AI could become an existential threat to humanity.
 It would prohibit autonomous AI control of weapons of mass destruction and critical systems, require human-controlled emergency shutdown capabilities, restrict uncontrolled self-replication, and establish procedures to isolate and permanently eliminate an AI system determined to pose a catastrophic threat.
 AI may become extraordinarily powerful, but humanity must always retain the final authority.
-These proposals are part of a larger project I call Re-Independence: limited government, individual liberty, national sovereignty, and government accountable to the people it serves.
+These proposals are part of a larger project I call Re-Independence : limited government, individual liberty, national sovereignty, and government accountable to the people it serves.
 Washington should not treat this district as an easement for industrial load, a tax base for other countries’ priorities, or a captive market for two parties that have stopped solving problems.
 These are not campaign slogans.
 They are proposals I have put on paper so voters can examine exactly what I intend to fight for in Congress.
@@ -23,4 +27,7 @@ Question them.
 Challenge them.
 Hold me to them.
 If you want a representative who lives with the same pressures you do and who has already begun putting solutions on paper, I ask for your vote.
-Taner Lopez
+Taner Lopez Venmo or Paypal can be used for contributions less than $50 Connect With Me Contact Us Please provide a detailed explanation about policies you want to be addressed at the House, so I can represent you accordingly.
+Name Email* Attach Files Attachments (0) Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Lopez for VA PO Box 364, Locust Grove, VA 22508 Campaign@lopezforva.com Lopez for Virginia Copyright © # Lopez for Virginia - All Rights Reserved.
+Powered by

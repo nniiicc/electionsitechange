@@ -1,8 +1,30 @@
 [
-"https://buy.stripe.com/9AQ5lqgNh2Yf6kw001",
-"https://diamondgarcia.com/",
-"https://diamondgarcia.com/cart",
-"https://diamondgarcia.com/issues",
-"https://diamondgarcia.com/volunteer",
-"https://instagram.com/_diamondgarcia_"
+{
+"text": "0",
+"href": "https://www.diamondgarcia.com/cart"
+},
+{
+"text": "Donate $100 Today",
+"href": "https://buy.stripe.com/9AQ5lqgNh2Yf6kw001"
+},
+{
+"text": "Home",
+"href": "https://www.diamondgarcia.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.diamondgarcia.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.diamondgarcia.com/volunteer"
+},
+{
+"text": "[image: RE-ELECT DIAMOND GARCIA]",
+"href": "https://www.diamondgarcia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/_diamondgarcia_/"
+}
 ]

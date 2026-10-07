@@ -1,52 +1,214 @@
 [
-"https://facebook.com/votemaberry",
-"https://instagram.com/aronmaberry",
-"https://linkedin.com/in/aronmaberry",
-"https://secure.winred.com/aron-maberry-for-state-representative/donate-today",
-"https://secure.winred.com/aron-maberry-for-state-representative/donate-today?exitintent=true",
-"https://twitter.com/aronmaberry",
-"https://votemaberry.com/",
-"https://votemaberry.com/2021/09",
-"https://votemaberry.com/2021/10",
-"https://votemaberry.com/2021/11",
-"https://votemaberry.com/2021/12",
-"https://votemaberry.com/2022/01",
-"https://votemaberry.com/2022/02",
-"https://votemaberry.com/2022/03",
-"https://votemaberry.com/2022/05",
-"https://votemaberry.com/2023/02",
-"https://votemaberry.com/2023/03",
-"https://votemaberry.com/2023/04",
-"https://votemaberry.com/2023/08",
-"https://votemaberry.com/2023/11",
-"https://votemaberry.com/2024/02",
-"https://votemaberry.com/2024/03",
-"https://votemaberry.com/2024/04",
-"https://votemaberry.com/2024/05",
-"https://votemaberry.com/2024/06",
-"https://votemaberry.com/2024/07",
-"https://votemaberry.com/2024/08",
-"https://votemaberry.com/2024/09",
-"https://votemaberry.com/2025/04",
-"https://votemaberry.com/2025/10",
-"https://votemaberry.com/about-aron-maberry",
-"https://votemaberry.com/aron-maberry-in-the-news",
-"https://votemaberry.com/campaign-photos",
-"https://votemaberry.com/category/campaign-trail",
-"https://votemaberry.com/category/endorsement",
-"https://votemaberry.com/category/featured",
-"https://votemaberry.com/category/in-the-news",
-"https://votemaberry.com/category/leadership-clarksville",
-"https://votemaberry.com/category/leadership-cmcss",
-"https://votemaberry.com/category/public-participation",
-"https://votemaberry.com/category/republican-party",
-"https://votemaberry.com/category/school-board-meeting",
-"https://votemaberry.com/category/school-visits",
-"https://votemaberry.com/category/state-representative",
-"https://votemaberry.com/category/uncategorized",
-"https://votemaberry.com/contact",
-"https://votemaberry.com/events",
-"https://votemaberry.com/on-the-issues",
-"https://votemaberry.com/posts",
-"https://votemaberry.com/what-i-am-running-for"
+{
+"text": "About Aron",
+"href": "https://votemaberry.com/about-aron-maberry/"
+},
+{
+"text": "April 2023",
+"href": "https://votemaberry.com/2023/04/"
+},
+{
+"text": "April 2024",
+"href": "https://votemaberry.com/2024/04/"
+},
+{
+"text": "April 2025",
+"href": "https://votemaberry.com/2025/04/"
+},
+{
+"text": "August 2023",
+"href": "https://votemaberry.com/2023/08/"
+},
+{
+"text": "August 2024",
+"href": "https://votemaberry.com/2024/08/"
+},
+{
+"text": "Campaign Trail",
+"href": "https://votemaberry.com/category/campaign-trail/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/aron-maberry-for-state-representative/donate-today"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/aron-maberry-for-state-representative/donate-today?exitintent=true"
+},
+{
+"text": "December 2021",
+"href": "https://votemaberry.com/2021/12/"
+},
+{
+"text": "Endorsement",
+"href": "https://votemaberry.com/category/endorsement/"
+},
+{
+"text": "Events",
+"href": "https://votemaberry.com/events/"
+},
+{
+"text": "Featured Stories",
+"href": "https://votemaberry.com/category/featured/"
+},
+{
+"text": "February 2022",
+"href": "https://votemaberry.com/2022/02/"
+},
+{
+"text": "February 2023",
+"href": "https://votemaberry.com/2023/02/"
+},
+{
+"text": "February 2024",
+"href": "https://votemaberry.com/2024/02/"
+},
+{
+"text": "In the News",
+"href": "https://votemaberry.com/category/in-the-news/"
+},
+{
+"text": "January 2022",
+"href": "https://votemaberry.com/2022/01/"
+},
+{
+"text": "July 2024",
+"href": "https://votemaberry.com/2024/07/"
+},
+{
+"text": "June 2024",
+"href": "https://votemaberry.com/2024/06/"
+},
+{
+"text": "Leadership CMCSS",
+"href": "https://votemaberry.com/category/leadership-cmcss/"
+},
+{
+"text": "Leadership Clarksville",
+"href": "https://votemaberry.com/category/leadership-clarksville/"
+},
+{
+"text": "March 2022",
+"href": "https://votemaberry.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://votemaberry.com/2023/03/"
+},
+{
+"text": "March 2024",
+"href": "https://votemaberry.com/2024/03/"
+},
+{
+"text": "May 2022",
+"href": "https://votemaberry.com/2022/05/"
+},
+{
+"text": "May 2024",
+"href": "https://votemaberry.com/2024/05/"
+},
+{
+"text": "Media",
+"href": "https://votemaberry.com/campaign-photos/"
+},
+{
+"text": "Meet Aron Maberry",
+"href": "https://votemaberry.com/about-aron-maberry/"
+},
+{
+"text": "November 2021",
+"href": "https://votemaberry.com/2021/11/"
+},
+{
+"text": "November 2023",
+"href": "https://votemaberry.com/2023/11/"
+},
+{
+"text": "October 2021",
+"href": "https://votemaberry.com/2021/10/"
+},
+{
+"text": "October 2025",
+"href": "https://votemaberry.com/2025/10/"
+},
+{
+"text": "On the Issues",
+"href": "https://votemaberry.com/on-the-issues/"
+},
+{
+"text": "Posts",
+"href": "https://votemaberry.com/posts/"
+},
+{
+"text": "Republican Party",
+"href": "https://votemaberry.com/category/republican-party/"
+},
+{
+"text": "Request A Sign",
+"href": "https://votemaberry.com/contact/"
+},
+{
+"text": "School Board Meeting",
+"href": "https://votemaberry.com/category/school-board-meeting/"
+},
+{
+"text": "School Board Public Participation Speech",
+"href": "https://votemaberry.com/category/public-participation/"
+},
+{
+"text": "School Visits",
+"href": "https://votemaberry.com/category/school-visits/"
+},
+{
+"text": "September 2021",
+"href": "https://votemaberry.com/2021/09/"
+},
+{
+"text": "September 2024",
+"href": "https://votemaberry.com/2024/09/"
+},
+{
+"text": "State Representative",
+"href": "https://votemaberry.com/category/state-representative/"
+},
+{
+"text": "Support the campaign",
+"href": "https://votemaberry.com/contact/"
+},
+{
+"text": "Uncategorized",
+"href": "https://votemaberry.com/category/uncategorized/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://votemaberry.com/what-i-am-running-for/"
+},
+{
+"text": "[image: Aron Maberry | State Representative]",
+"href": "https://votemaberry.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/aronmaberry"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemaberry"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aronmaberry"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/aronmaberry/"
+},
+{
+"text": "financial contribution",
+"href": "https://secure.winred.com/aron-maberry-for-state-representative/donate-today?exitintent=true"
+},
+{
+"text": "“In The News”",
+"href": "https://votemaberry.com/aron-maberry-in-the-news/"
+}
 ]

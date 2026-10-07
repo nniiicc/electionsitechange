@@ -1,11 +1,4 @@
-Back to All Events
-If you’re in Baldwin County, Alabama, this is a great chance to meet AshLeigh in a casual setting.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events Baldwin County Fair Tuesday, September 22, 2026 5:00 PM 7:00 PM Google Calendar ICS If you’re in Baldwin County, Alabama, this is a great chance to meet AshLeigh in a casual setting.
 She’ll be at the Baldwin County Fair from 5-7 pm CST.
 Come learn more about her campaign, grab a sign for your yard, and find out how you can help us win on November 3 !
-Previous
-Previous
-September 21
-IVF is on the Ballot: An Evening of Stories Awareness, and Action
-Next
-Next
-September 23
+Previous Previous September 21 IVF is on the Ballot: An Evening of Stories Awareness, and Action Next Next September 23 Rally for Alabama- Doug Jones AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

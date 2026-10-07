@@ -1,52 +1,238 @@
 [
-"https://aaaphx.org/%20",
-"https://assets.ctfassets.net/61iwodu7d9u0/ydfskAX8prFruIDojZn0P/52a1d7ba7abf6223d0eac108676e4e99/MC-3398056-state-resource-pages--arizona.pdf",
-"https://azfw.org/",
-"https://azida.org/",
-"https://azimpactforgood.org/savi",
-"https://azmvdnow.gov/guest/customeranonymous/voterregistration",
-"https://beballotready.com/",
-"https://bgp4az.com/resources",
-"https://bgp4az.com/vamos",
-"https://bgp4az.com/vamos/about",
-"https://bgp4az.com/vamos/contact",
-"https://bgp4az.com/vamos/endorsements",
-"https://bgp4az.com/vamos/join-us",
-"https://bgp4az.com/vamos/legislative-district-websites",
-"https://bgp4az.com/vamos/media",
-"https://bgp4az.com/vamos/news",
-"https://bgp4az.com/vamos/priorities",
-"https://bgp4az.com/vamos/resources",
-"https://bgp4az.com/vamos/schedule",
-"https://bgp4az.com/wp-content/uploads/2026/08/CongressionalDistrict8LargeSize.pdf",
-"https://bsky.app/profile/bernadetteaz08.bsky.social",
-"https://caregiver.va.gov/CAREGIVER/index.asp",
-"https://des.az.gov/na",
-"https://des.az.gov/services/child-and-family/community-resources",
-"https://des.az.gov/services/older-adults",
-"https://dvs.az.gov/about/legislative-updates",
-"https://facebook.com/bernadetteforcongress",
-"https://fmcafilings.com/all-permits?gad_source=1&gad_campaignid=19215809452&gbraid=0AAAAApDbsGjEmF-IuipbeDGjoIQ7RmRBR",
-"https://herchoice.org/",
-"https://housing.az.gov/general-public/arizona-home-program",
-"https://instagram.com/bernadetteforaz",
-"https://irc-az.maps.arcgis.com/apps/instant/lookup/index.html?appid=424810a4667049388ef6df4f0c73098b+",
-"https://linkedin.com/in/bernadette-greene-placentia-7b21b13a",
-"https://maricopa.gov/1283/Veterans-Resources",
-"https://maricopa.vote/",
-"https://mirecc.va.gov/visn19/finvet",
-"https://nea.org/student-debt-support",
-"https://ooida.com/",
-"https://plannedparenthood.org/planned-parenthood-arizona",
-"https://secure.actblue.com/donate/bgp_website",
-"https://ssa.gov/onlineservices?gad_source=1&gad_campaignid=654156452&gbraid=0AAAAADx5V9VrefbyFx707VzyjxCiRTWKW",
-"https://stokeinteractive.com/",
-"https://studentaid.gov/resources",
-"https://themortgagereports.com/85586/arizona-first-time-home-buyer-programs-grants",
-"https://tiktok.com/@bernadetteforcongress%20",
-"https://truckercountry.com/cdl-training/arizona",
-"https://va.gov/burials-memorials/schedule-a-burial",
-"https://veteranscrisisline.net/find-resources/local-resources",
-"https://x.com/bernadetteaz08",
-"https://youtube.com/@Bernadette4District8"
+{
+"text": "Acerca de",
+"href": "https://bgp4az.com/vamos/about/"
+},
+{
+"text": "Agenda",
+"href": "https://bgp4az.com/vamos/schedule/"
+},
+{
+"text": "Contacto",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "Contáctanos",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "DONA",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "Dona",
+"href": "https://secure.actblue.com/donate/bgp_website"
+},
+{
+"text": "ENVIAR UN RECURSO",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bernadetteforcongress/"
+},
+{
+"text": "Globo terráqueo",
+"href": "https://bsky.app/profile/bernadetteaz08.bsky.social"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bernadetteforaz/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/bernadette-greene-placentia-7b21b13a/"
+},
+{
+"text": "Línea de Crisis Estatal de Arizona 1-844-534-HOPE (4673)",
+"href": "tel:1-844-534-4673"
+},
+{
+"text": "Línea de Crisis para Veteranos Marque 988 y luego presione 1",
+"href": "tel:988"
+},
+{
+"text": "Multimedia",
+"href": "https://bgp4az.com/vamos/media/"
+},
+{
+"text": "Noticias",
+"href": "https://bgp4az.com/vamos/news/"
+},
+{
+"text": "OBTENER AYUDA",
+"href": "https://www.veteranscrisisline.net/find-resources/local-resources/"
+},
+{
+"text": "OBTENER AYUDA",
+"href": "tel:988"
+},
+{
+"text": "Prioridades",
+"href": "https://bgp4az.com/vamos/priorities/"
+},
+{
+"text": "Recursos",
+"href": "https://bgp4az.com/vamos/resources/"
+},
+{
+"text": "Respaldos",
+"href": "https://bgp4az.com/vamos/endorsements/"
+},
+{
+"text": "SUGERIR UN RECURSO",
+"href": "https://bgp4az.com/vamos/contact/"
+},
+{
+"text": "Stoke Interactive",
+"href": "https://stokeinteractive.com"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@bernadetteforcongress%20"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://assets.ctfassets.net/61iwodu7d9u0/ydfskAX8prFruIDojZn0P/52a1d7ba7abf6223d0eac108676e4e99/MC-3398056-state-resource-pages--arizona.pdf"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://azida.org/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://azmvdnow.gov/guest/customeranonymous/voterregistration"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://beballotready.com"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://bgp4az.com/vamos/legislative-district-websites/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://bgp4az.com/wp-content/uploads/2026/08/CongressionalDistrict8LargeSize.pdf"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://des.az.gov/na"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://des.az.gov/services/child-and-family/community-resources"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://des.az.gov/services/older-adults"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://dvs.az.gov/about/legislative-updates"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://fmcafilings.com/all-permits?gad_source=1&gad_campaignid=19215809452&gbraid=0AAAAApDbsGjEmF-IuipbeDGjoIQ7RmRBR"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://housing.az.gov/general-public/arizona-home-program"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://irc-az.maps.arcgis.com/apps/instant/lookup/index.html?appid=424810a4667049388ef6df4f0c73098b+"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://maricopa.vote"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://studentaid.gov/resources"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://themortgagereports.com/85586/arizona-first-time-home-buyer-programs-grants"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://truckercountry.com/cdl-training/arizona/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.aaaphx.org/%20"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.azfw.org/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.azimpactforgood.org/savi/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.caregiver.va.gov/CAREGIVER/index.asp"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.herchoice.org/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.maricopa.gov/1283/Veterans-Resources"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.mirecc.va.gov/visn19/finvet/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.nea.org/student-debt-support"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.ooida.com/"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.plannedparenthood.org/planned-parenthood-arizona"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.ssa.gov/onlineservices/?gad_source=1&gad_campaignid=654156452&gbraid=0AAAAADx5V9VrefbyFx707VzyjxCiRTWKW"
+},
+{
+"text": "VISITAR SITIO",
+"href": "https://www.va.gov/burials-memorials/schedule-a-burial/"
+},
+{
+"text": "Voluntariado",
+"href": "https://bgp4az.com/vamos/join-us/"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/bernadetteaz08"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@Bernadette4District8"
+},
+{
+"text": "[image: bernadette-logo-website]",
+"href": "https://bgp4az.com/vamos"
+},
+{
+"text": "[image]English",
+"href": "https://bgp4az.com/resources/"
+},
+{
+"text": "info@bgp4az.com",
+"href": "mailto:info@bgp4az.com"
+},
+{
+"text": "Únete",
+"href": "https://bgp4az.com/vamos/join-us/"
+}
 ]

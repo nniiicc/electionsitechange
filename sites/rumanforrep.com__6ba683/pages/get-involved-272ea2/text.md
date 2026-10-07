@@ -1,2 +1,1 @@
-Join Ron, Support the Campaign
-Tell us how you’d like to get involved, a member of our team will get in touch soon
+top of page DONATE Home About Issues Get Involved Video & Media Contact GET INVOLVED Join Ron, Support the Campaign WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Social Media Blitz Take a Yard Sign First name * Last name * Email * Phone Zip code Message Submit Ron Ruman - FOR PENNSYLVANIA REPRESENTATIVE - © # RumanforRep Paid for by RumanforRep info@rumanforrep.com bottom of page

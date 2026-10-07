@@ -1,8 +1,4 @@
-For Indiana State Senate District 23…
-joshuabrant@electjoshuabrant.org
-More to Come!
-Δ
-Hi,
-Enter your email below to receive updates.
-Type your email…
-Subscribe
+Skip to content For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Communicate Facebook TikTok Instagram X YouTube LinkedIn joshuabrant@electjoshuabrant.org More to Come!
+Thank you for your response. ✨ Thanks for reaching out!
+Name Message Submit Submitting form Δ Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .

@@ -1,13 +1,58 @@
 [
-"https://clarkforwv.com/",
-"https://clarkforwv.com/blank-1",
-"https://clarkforwv.com/blank-2",
-"https://clarkforwv.com/blog",
-"https://clarkforwv.com/contact-8",
-"https://clarkforwv.com/donate",
-"https://facebook.com/ClarkforDelegate",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://linkedin.com/company/wix-com",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.clarkforwv.com/blank-1"
+},
+{
+"text": "Blog",
+"href": "https://www.clarkforwv.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.clarkforwv.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://www.clarkforwv.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.clarkforwv.com"
+},
+{
+"text": "News",
+"href": "https://www.clarkforwv.com/blank-2"
+},
+{
+"text": "Wayne@ClarkforWV.org",
+"href": "mailto:Wayne@ClarkforWV.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image: Wayne Track Banner No paid for.png]",
+"href": "https://www.clarkforwv.com"
+},
+{
+"text": "[image: alt.text.label.Facebook]",
+"href": "https://www.facebook.com/ClarkforDelegate"
+},
+{
+"text": "wayne@clarkforwv.com",
+"href": "mailto:wayne@clarkforwv.com"
+}
 ]

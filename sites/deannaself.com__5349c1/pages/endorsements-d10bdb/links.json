@@ -1,6 +1,18 @@
 [
-"https://deannaself.com/",
-"https://deannaself.com/about",
-"https://deannaself.com/contactvolunteer",
-"https://deannaself.com/endorsements"
+{
+"text": "ABOUT",
+"href": "https://www.deannaself.com/about"
+},
+{
+"text": "CONTRIBUTE & GET IN TOUCH",
+"href": "https://www.deannaself.com/contactvolunteer"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deannaself.com/endorsements"
+},
+{
+"text": "MEET DEANNA",
+"href": "https://www.deannaself.com"
+}
 ]

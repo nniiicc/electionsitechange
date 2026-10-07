@@ -1,17 +1,15 @@
-Judge Monica Purdy is a lifelong Democrat seeking election to the 5th District Court of Appeals, Place – 6.
+Skip to content 2026 GENERAL ELECTION - Tuesday, November 3 | VOTE EARLY - October 19-30 CLICK HERE FOR VOTING INFORMATION 5930 Royal Lane PMB 285, Dallas TX 75230 Facebook page opens in new window Twitter page opens in new window Instagram page opens in new window Linkedin page opens in new window Judge Monica Purdy Campaign Home About About Judge Purdy Endorsements Privacy Policy Contact Us Get Involved Events Campaign Central Blog Gallery Shop Voting information CONTRIBUTE Search: Search Home About About Judge Purdy Endorsements Privacy Policy Contact Us Get Involved Events Campaign Central Blog Gallery Shop Voting information Honorable Monica Purdy Judge Monica Purdy is a lifelong Democrat seeking election to the 5th District Court of Appeals, Place – 6 .
 She was first elected to the bench in November 2020, garnering an impressive 64% of the vote.
 In 2013, Judge Purdy was unanimously appointed by a merit panel of thirteen elected State Civil Court Judges, representing the highest trial court in Texas, to serve as an Associate Judge of the Civil District Courts in Dallas.
 Judge Purdy has consistently achieved some of the highest ratings among her judicial colleagues and is ranked as one of the top three civil judges in Dallas County.
-PLEDGE YOUR SUPPORT
-Elect Judge Monica Purdy as Justice of the 5th District Court of Appeals, Place – 6.
+Read more Continue PLEDGE YOUR SUPPORT Elect Judge Monica Purdy as Justice of the 5th District Court of Appeals, Place – 6 .
 She is a presiding judge known for her exceptional judicial temperament, integrity, thorough knowledge of the law, and an unwavering commitment to ensuring justice is served for ALL citizens and in EVERY case that comes before the court.
-Beyond the bench
-Judge Monica Purdy’s commitment as a servant leader extends well beyond the bench.
+Continue Beyond the bench Judge Monica Purdy’s commitment as a servant leader extends well beyond the bench.
 When she is not carrying out her judicial responsibilities, you can find the devoted wife and mother of two actively participating in a host of professional and community forums and events.
 A staunch advocate of educating citizens about their legal rights, Judge Purdy uses her platform to ensure the public is well-informed about the justice system, particularly regarding common civil actions they may encounter.
 A highly sought-after speaker and legal expert, she has appeared as a legal commentator on KDFW Fox 4 and Heaven 97 AM.
 Additionally, Judge Purdy participates in several podcasts on relevant civil matters throughout North Texas.
-Trusted.
+Read more Follow Judge Purdy Continue Trusted.
 Tested.
 Experienced.
 Judge Purdy has earned a stellar reputation as a diligent judge who is trusted to deliver timely and fair judgments for both plaintiffs and defendants.
@@ -21,5 +19,37 @@ Judge Monica Purdy is poised and ready to serve YOU at the next level as justice
 Her experience in the state district civil court system is irrefutable.
 With more than 30 years of experience in civil litigation, including the last decade as a judge, she brings a wealth of knowledge and a strong connection to the diverse community network.
 There is no one better suited to represent YOU and ALL the citizens of North Texas in the 5th District Court of Appeals than Judge Monica Purdy.
-Community
-We’re here to build a strong coalition of supporters, will you join me?
+Community We’re here to build a strong coalition of supporters, will you join me?
+Spread the word Join Team Purdy Make a contribution Political advertising paid for by Judge Monica Purdy Campaign, Richard A.
+Sayles, Treasurer 5930 Royal Lane PMB 285, Dallas TX 75230 Copyright © # · All Rights Reserved · The Juliett Bravo Agency · Privacy Policy Go to Top modal-check About Judge Purdy About Judge Purdy For over a decade, Judge Purdy has proudly served the citizens of Dallas County in her current position, as well as in previous roles as Municipal Court Judge and Associate Judge of the Civil District Courts.
+She is a sought-after speaker, actively engages in the community, and uses her platform to educate citizens on a variety of civil legal topics.
+The time is NOW for her to serve you as Justice of the 5th District Court of Appeals, Place – 6.
+Elect Judge Monica Purdy as Justice of the 5th District Court of Appeals, Place – 6.
+She is a presiding judge known for her exceptional judicial temperament, integrity, thorough knowledge of the law, and an unwavering commitment to ensuring justice is served for ALL citizens and in EVERY case that comes before the court.
+Judge Purdy began her legal career as an associate at a national law firm, where she was later elected as a partner.
+In that role, she represented governmental entities in the collection of receivables throughout Texas and the United States.
+In 2004, to accommodate her growing family, she opened her own private law practice in Dallas.
+There she primarily served as regional counsel for Fortune 500 clients involved in litigation and collection disputes in both state and federal courts.
+In 2010, Judge Purdy was appointed Associate Judge for the City of Dallas Municipal Courts.
+In this role, she presided over bench and jury trials, conducted jail magistrations, and managed pre-trial and show cause hearings.
+Additionally, she oversaw dangerous dogs and housing and premises violations, as well as juvenile magistrate warnings.
+She also issued emergency protective orders in cases of family violence and reviewed or issued search, inspection, seizure, and arrest warrants.
+Judge Purdy, a native of Tampa, Florida, earned her undergraduate degree from Spelman College, a prestigious liberal arts institution in Atlanta, Georgia.
+She obtained her law degree from the Thurgood Marshall School of Law at Texas Southern University in Houston, Texas, where she was a member of the Law Review.
+A dedicated advocate for education, Judge Purdy contributed to the development of the Legal Studies Department curriculum for Paul Quinn College in Dallas, Texas, where she also worked as an adjunct professor.
+Additionally, she has served the community as President of the J.L.
+Turner Legal Association and as the Regional Director for the National Bar Association.
+She has conducted countless community voter engagement seminars.
+Dismiss ad Dismiss ad This will close in # seconds modal-check Join Team Purdy Join Team Purdy Request a yard sign, join our team & endorse Judge Monica Purdy Please enable JavaScript in your browser to complete this form.
+I am interested in: Yard sign Work in our office Phone Calling Fundraising Data Entry Host an event Serve as a Precinct Captain Name * First Last Company Email * Email Confirm Email Cell Phone Home Phone Address * Address 2 City * State * Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho IllinoisIndiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri MontanaNebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon PennsylvaniaRhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Zip * Comment or Message Endorse I endorse Judge Monica Purdy Get Started!
+Dismiss ad Dismiss ad This will close in # seconds modal-check Beyond the Bench Beyond the Bench Judge Purdy is currently a member of the American Bar Association’s National Conference of State Trial Judges, Judicial Council of the National Bar Association, National Association of Women Judges, Texas Bar Foundation Fellow, League of Women Voters of Texas Past Board Member, The Dallas Assembly, Dallas Bar Association, J.L.
+Turner Legal Association, Alpha Kappa Alpha Sorority, Inc., Jack and Jill of America, Inc., The Links, Inc.
+In addition, she is a founding member of The Village Giving Circle at the Texas Women’s Foundation, a former appointed member to the Judicial Nominating Commission for the City of Dallas recommending the appointment of municipal court judges, and is a former member of the Thurgood Marshall School of Law National Alumni Board.
+Dismiss ad Dismiss ad This will close in # seconds modal-check Follow Judge Purdy Follow Judge Purdy Facebook Twitter Follow @JUDGEPURDY Dismiss ad Dismiss ad This will close in # seconds modal-check Spread the Word Spread the Word Please enable JavaScript in your browser to complete this form.
+Your Name * First Last Your email * Friends and family I want to share with.
+Enter up to 5 email addresses Submit Dismiss ad Dismiss ad This will close in # seconds modal-check Campaign Meet and Greet: June 18th Campaign Meet and Greet: June 18th Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Submit Dismiss ad Dismiss ad This will close in # seconds modal-check Volunteer Meetup Volunteer Meetup Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * T-shirt size x-small small medium large x-large 2X 3X 4X Submit Dismiss ad Dismiss ad This will close in # seconds modal-check Block Walking Block Walking Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * T-shirt size x-small small medium large x-large 2X 3X 4X Submit Dismiss ad Dismiss ad This will close in # seconds Endorse Judge Purdy Please fill out the form below.
+Fields marked with an * are required.
+I endorse Judge Monica Purdy First Name (required) Last Name (required) Company Email Address (required) Phone Number Comments (required) × Join Team Purdy First Name (required) Last Name (required) Your Email (required) Cell Phone (required) Home Phone Address (required) Address2 City (required) State (required) Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Zip (required) I am interested in: Work in our office Phone calling Fundraising Data entry Host an event Serve as a precinct captain Block walking Yard sign distribution Comments ×

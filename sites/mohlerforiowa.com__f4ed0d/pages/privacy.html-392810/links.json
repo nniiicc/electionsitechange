@@ -1,8 +1,38 @@
 [
-"https://iowaledger.com/",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "brett@mohlerforiowa.com",
+"href": "mailto:brett@mohlerforiowa.com"
+}
 ]

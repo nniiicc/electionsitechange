@@ -1,15 +1,54 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScbjI8iP71e2eQpuNYxXsccRWm1Texg7v8iIhrgLM05LJgVTQ/viewform",
-"https://facebook.com/TobiasForKansasHouse",
-"https://secure.actblue.com/donate/ts4kswebsite",
-"https://secure.ngpvan.com/QDi2zmIta0aipyZZfea_4Q2",
-"https://tobiasforkansashouse.com/",
-"https://tobiasforkansashouse.com/about",
-"https://tobiasforkansashouse.com/cart",
-"https://tobiasforkansashouse.com/contact",
-"https://tobiasforkansashouse.com/endorsements",
-"https://tobiasforkansashouse.com/home",
-"https://tobiasforkansashouse.com/priorities",
-"https://tobiasforkansashouse.com/privacy-policy",
-"https://twitter.com/TobiasForKansas"
+{
+"text": "0",
+"href": "https://www.tobiasforkansashouse.com/cart"
+},
+{
+"text": "About Tobias",
+"href": "https://www.tobiasforkansashouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tobiasforkansashouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ts4kswebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tobiasforkansashouse.com/endorsements"
+},
+{
+"text": "Newsletter",
+"href": "https://secure.ngpvan.com/QDi2zmIta0aipyZZfea_4Q2"
+},
+{
+"text": "Priorities",
+"href": "https://www.tobiasforkansashouse.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tobiasforkansashouse.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScbjI8iP71e2eQpuNYxXsccRWm1Texg7v8iIhrgLM05LJgVTQ/viewform"
+},
+{
+"text": "[image: Tobias Schlingensiepen]",
+"href": "https://www.tobiasforkansashouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.tobiasforkansashouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TobiasForKansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TobiasForKansasHouse%20"
+}
 ]

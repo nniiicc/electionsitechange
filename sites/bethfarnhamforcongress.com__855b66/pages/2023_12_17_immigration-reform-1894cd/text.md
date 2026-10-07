@@ -1,17 +1,26 @@
-Since the passing of the Immigration Act of 1965, immigrant workers have had fewer paths of entry, including green card status, into the United States.
-Unfortunately, this has resulted in a pattern of either unlawful entry, or more commonly, unlawful overstay of temporary visa status, for large numbers of immigrants referred to as “undocumented immigrants.” However, it is important to note the following:
-Undocumented immigrants pay federal taxes.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Immigration reform · December 17, 2023 Immigration Reform Since the passing of the Immigration Act of 1965, immigrant workers have had fewer paths of entry, including green card status, into the United States.
+Unfortunately, this has resulted in a pattern of either unlawful entry, or more commonly, unlawful overstay of temporary visa status, for large numbers of immigrants referred to as “undocumented immigrants.” However, it is important to note the following: Undocumented immigrants pay federal taxes.
 Undocumented immigrants pay state taxes.
 Undocumented immigrants pay local taxes.
 Undocumented immigrants pay sales taxes.
 To know the above information is to accept boring truths – that people who live among us in the 13th Congressional District and pick our fruit, staff our tourism industry, build our homes, prepare our food, maintain our yards, and whose labor we rely on in so many ways, contribute to our society.
 And like generations of huddled masses before them, these taxpayers work hard and nurture families, supporting and sustaining America, all while denied a path to legal residency and its benefits.
 According to The American Immigration Council, “Undocumented immigrants in Pennsylvania paid an estimated $418.1 million in federal taxes and $238.3 million in state and local taxes in 2018.
-Pennsylvania DACA recipients and DACA-eligible individuals paid an estimated $17.4 million in state and local taxes in 2018.” That older data from the second sentence of the quote about DACA recipients aligns with the 2022 assertion from the Migration Policy Institute that, “DACA holders contribute nearly $42 billion to U.S. gross domestic product each year and add $3.4 billion to the federal balance sheet.”
-In other words, undocumented immigrants and DACA recipients in Pennsylvania paid hundreds of millions of dollars in federal and state taxes in 2018 alone, helping our economy and boosting our Social Security and Medicare programs.
+Pennsylvania DACA recipients and DACA-eligible individuals paid an estimated $17.4 million in state and local taxes in 2018.” That older data from the second sentence of the quote about DACA recipients aligns with the 2022 assertion from the Migration Policy Institute that, “DACA holders contribute nearly $42 billion to U.S. gross domestic product each year and add $3.4 billion to the federal balance sheet.” In other words, undocumented immigrants and DACA recipients in Pennsylvania paid hundreds of millions of dollars in federal and state taxes in 2018 alone, helping our economy and boosting our Social Security and Medicare programs.
 Since then, estimates of taxes paid by undocumented immigrants and DACA recipients have only grown larger, but to swallow the dehumanizing and Republican lie of “Illegals don’t pay taxes” is to be ignorant of this truth.
 Researchers at the Institute on Taxation and Economic Policy estimated that if undocumented immigrants had been granted legal status, they might have paid $51 million more in Pennsylvania state and local taxes in 2017 alone.
 Instead of using taxpayer money to find ways to keep undocumented immigrants out of our country, Congress should legislate realistic routes to legal status.
 This may be accomplished by Congress amending our Immigration Act of 1965 by expanding DACA and Temporary Protection Status work authorization and protection from deportation through programs emulating those of Maryland and Utah, for example.
 If I am elected, I will work on strengthening ways for undocumented immigrants, those hard workers on whose labor we in Pennsylvania rely for basic services, and DACA recipients, who were brought here as minors, to pursue legal status and add even more to our economy and our Social Security and Medicare programs.
-Resources:
+Resources: How Undocumented Immigrants Pay Taxes and Contribute to the US Tax Base At Its 10th Anniversary, DACA Faces a Tenuous Future Despite Societal Benefits WAS THE 1965 IMMIGRATION ACT A FAILURE?
+Activism on Immigration by U.S.
+States Is Back, with New Tactics and Different Targets Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe %d

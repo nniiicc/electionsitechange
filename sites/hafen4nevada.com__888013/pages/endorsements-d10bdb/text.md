@@ -1,28 +1,4 @@
-THE PEOPLE YOU TRUST, TRUST GREGORY HAFEN
-Awards/Recognitions
-Endorsed by the Trump Campaign as Rural Nevada Chair
-Ranked Top 5 Conservative In the Nevada Legislature by American Conservative Union
-Ranked Top 5 In The Nevada Legislature by Americans for Prosperity
-88% Score from the National Federation of Independent Businesses - Nevada
-Current & Past Personal Endorsements
-Republican Governor Joe Lombardo
-Lt.
-Governor Stavros Anthony
-The Honorable Mark Hutchison
-The Honorable Bruce Woodbury
-The Honorable Warren Hardy
-Dr.
-Ashley & Joe Hoban, AD36
-Melissa Clement, President of Nevada Right to Life
-Donnie Gibson
-Carlos Rivera, Retired NHP Sergeant
-Assemblywoman Heidi Kasama (R-2)
-Assemblywoman Melissa Hardy (R-AD22)
-Assemblywoman Alexis Hansen (R-AD32)
-Assemblywoman Jill Dickman (R-AD31)
-Senator Ira Hansen (R-SD14)
-Victoria Seaman, Las Vegas City Council
-Current & Past Organizational Endorsements/Ratings
-Nevada Association of Public Safety Officers (NAPSO) and the Nevada Law Enforcement Coalition (NLEC)
-Public SafetyAlliance of Nevada (PSAN)
-Past Organizational Endorsements/Ratings
+0 Skip to Content About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate THE PEOPLE YOU TRUST, TRUST GREGORY HAFEN Awards/Recognitions Endorsed by the Trump Campaign as Rural Nevada Chair Ranked Top 5 Conservative In the Nevada Legislature by American Conservative Union Ranked Top 5 In The Nevada Legislature by Americans for Prosperity 88% Score from the National Federation of Independent Businesses - Nevada Current & Past Personal Endorsements Republican Governor Joe Lombardo Lt.
+Governor Stavros Anthony The Honorable Mark Hutchison The Honorable Bruce Woodbury The Honorable Warren Hardy Dr.
+Ashley & Joe Hoban, AD36 Melissa Clement, President of Nevada Right to Life Donnie Gibson Carlos Rivera, Retired NHP Sergeant Assemblywoman Heidi Kasama (R-2) Assemblywoman Melissa Hardy (R-AD22) Assemblywoman Alexis Hansen (R-AD32) Assemblywoman Jill Dickman (R-AD31) Senator Ira Hansen (R-SD14) Victoria Seaman, Las Vegas City Council Current & Past Organizational Endorsements/Ratings Nevada Association of Public Safety Officers (NAPSO) and the Nevada Law Enforcement Coalition (NLEC) Public SafetyAlliance of Nevada (PSAN) Past Organizational Endorsements/Ratings Donate Today Paid for by Friends of Gregory T.
+Hafen Contact Gregory@hafen4nevada.com 775-209-3006

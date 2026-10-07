@@ -1,7 +1,7 @@
-DAVENPORT – Congresswoman Mariannette Miller-Meeks released the following statement after securing the Republican nomination for Iowa's First Congressional District tonight:
-“I am deeply honored to win the Republican nomination for Iowa’s First Congressional District.
+About About Media Privacy Policy Triple-M Tour News Events Voting Information Donate June 6, 2024 Primary Win Puts Miller-Meeks on the Way to a Third Term in Congress DAVENPORT – Congresswoman Mariannette Miller-Meeks released the following statement after securing the Republican nomination for Iowa's First Congressional District tonight: “I am deeply honored to win the Republican nomination for Iowa’s First Congressional District.
 I look forward to taking our message to every Iowan in our district ahead of November.
 I share Iowans’ priorities for the next Congress: securing our southern border, getting inflation and the cost of living under control, tackling the mounting national debt, making sure we have strong K-12 education, and addressing escalating conflicts around the world.
 “My opponent and her radical leftist agenda will continue to drive costs, keep our borders open, prioritize social politics instead of quality education for our kids and continue rampant government spending, which has led to crippling high prices and interest rates while simultaneously increasing our national debt.
-“Her blind support for Democrat policies and Joe Biden’s failed agenda would mean years of financial hardship, limited opportunity for Iowans, pervasive crime in our communities, and weak support for Israel against Hamas.”
-“I look forward to continuing to serve and deliver for the constituents of Southeast Iowa.”
+“Her blind support for Democrat policies and Joe Biden’s failed agenda would mean years of financial hardship, limited opportunity for Iowans, pervasive crime in our communities, and weak support for Israel against Hamas.” “I look forward to continuing to serve and deliver for the constituents of Southeast Iowa.” About News Events Voting Information Donate Miller-Meeks for Congress P.O.
+Box 33 Ottumwa, IA 52501 [email protected] Privacy Policy | Terms of Service If you would like to send donation by mail, click here.
+Paid for by Miller-Meeks for Congress

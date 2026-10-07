@@ -1,7 +1,9 @@
 {
  "description": "Endorsements",
  "final_url": "https://www.sethfordelegate.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "5409f921ad9b6e7125090ee09bd9b654fe5eabee",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": []
 }

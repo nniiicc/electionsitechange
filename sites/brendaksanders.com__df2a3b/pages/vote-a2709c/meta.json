@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.brendaksanders.com/vote",
- "paid_for_by": null,
+ "fingerprint": "10c446fcdc6e483c139603f61386811bbf3291de",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

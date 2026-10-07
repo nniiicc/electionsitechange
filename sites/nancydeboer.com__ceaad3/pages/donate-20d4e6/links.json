@@ -1,15 +1,58 @@
 [
-"https://facebook.com/hollandsmayor",
-"https://instagram.com/formermayornancydeboer",
-"https://mvic.sos.state.mi.us/registervoter",
-"https://nancydeboer.com/",
-"https://nancydeboer.com/contact",
-"https://nancydeboer.com/donate",
-"https://nancydeboer.com/endorsements",
-"https://nancydeboer.com/get-involved",
-"https://nancydeboer.com/meet-nancy",
-"https://nancydeboer.com/the-issues",
-"https://purposedpress.com/",
-"https://secure.winred.com/committee-to-elect-nancy-deboer/donate-today",
-"https://twitter.com/deboernancy?lang=en"
+{
+"text": "Contact Nancy",
+"href": "https://nancydeboer.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://nancydeboer.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-nancy-deboer/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://nancydeboer.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/deboernancy?lang=en"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/hollandsmayor/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/formermayornancydeboer/"
+},
+{
+"text": "Get Involved",
+"href": "https://nancydeboer.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://nancydeboer.com/the-issues/"
+},
+{
+"text": "Meet Nancy",
+"href": "https://nancydeboer.com/meet-nancy/"
+},
+{
+"text": "Purposed Press Media | Holland, MI",
+"href": "https://www.purposedpress.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvic.sos.state.mi.us/registervoter"
+},
+{
+"text": "The Issues",
+"href": "https://nancydeboer.com/the-issues/"
+},
+{
+"text": "[image: Nancy DeBoer]",
+"href": "https://nancydeboer.com/"
+}
 ]

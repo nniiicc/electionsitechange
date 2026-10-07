@@ -1,9 +1,5 @@
-Back to All Events
-10:30 am – 2:00 pm: Madawaska, starting at the Madawaska Fire Station, 428 Main St, Madawaska, includes the Acadian Festival Parade
-Previous
-Previous
-August 16
-For a Better Maine Tour Launch
-Next
-Next
-August 17
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events For a Better Maine Walking Tour Sunday, August 16, 2026 10:30 AM 2:00 PM Google Calendar ICS 10:30 am – 2:00 pm: Madawaska, starting at the Madawaska Fire Station, 428 Main St, Madawaska, includes the Acadian Festival Parade Previous Previous August 16 For a Better Maine Tour Launch Next Next August 17 For a Better Maine: Caribou Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

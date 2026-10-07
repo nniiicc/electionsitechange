@@ -1,8 +1,42 @@
 [
-"https://derekmerrin.com/",
-"https://drive.google.com/drive/folders/13h6oy4_lma3Z-VCkedOO7TWXuw_mMUux?usp=drive_link",
-"https://facebook.com/derekmerrinforohio",
-"https://secure.winred.com/derek-merrin-for-congress/donate-today",
-"https://twitter.com/DerekMerrin",
-"https://youtu.be/sB0Tu4XP5RI"
+{
+"text": "About",
+"href": "https://www.derekmerrin.com/#About"
+},
+{
+"text": "Contact Us",
+"href": "https://www.derekmerrin.com/#ContactUs"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/derek-merrin-for-congress/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.derekmerrin.com/"
+},
+{
+"text": "Merrin Footage",
+"href": "https://youtu.be/sB0Tu4XP5RI"
+},
+{
+"text": "Merrin Pictures",
+"href": "https://drive.google.com/drive/folders/13h6oy4_lma3Z-VCkedOO7TWXuw_mMUux?usp=drive_link"
+},
+{
+"text": "Merrin for Congress",
+"href": "mailto:info@derekmerrin.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.derekmerrin.com/#Volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DerekMerrin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/derekmerrinforohio"
+}
 ]

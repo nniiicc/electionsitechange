@@ -1,7 +1,11 @@
 {
  "description": "The latest campaign news, legislative updates, and media coverage from State Representative Andrew Ireland.",
  "final_url": "https://www.irelandforindiana.com/news",
+ "fingerprint": "6106c351bc03890f1a406039f386bb84923c3771",
+ "format": 3,
  "paid_for_by": "PAID FOR BY IRELAND FOR INDIANA INC",
  "title": "News & Updates | Andrew Ireland for Indiana",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

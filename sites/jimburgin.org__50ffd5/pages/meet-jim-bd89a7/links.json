@@ -1,10 +1,42 @@
 [
-"https://facebook.com/burginforsenate",
-"https://instagram.com/jimburginnc",
-"https://jimburgin.org/",
-"https://jimburgin.org/cart",
-"https://jimburgin.org/contact",
-"https://jimburgin.org/get-involved",
-"https://jimburgin.org/meet-jim",
-"https://jimburgin.org/support"
+{
+"text": "0",
+"href": "https://www.jimburgin.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.jimburgin.org/meet-jim"
+},
+{
+"text": "Contact",
+"href": "https://www.jimburgin.org/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jimburgin.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jimburgin.org/"
+},
+{
+"text": "Meet Jim",
+"href": "https://www.jimburgin.org/meet-jim"
+},
+{
+"text": "SUPPORT",
+"href": "https://www.jimburgin.org/support"
+},
+{
+"text": "[image: Jim Burgin]",
+"href": "https://www.jimburgin.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/burginforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jimburginnc/"
+}
 ]

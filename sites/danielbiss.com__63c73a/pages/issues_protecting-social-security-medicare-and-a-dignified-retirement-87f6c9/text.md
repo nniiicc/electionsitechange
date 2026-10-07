@@ -1,15 +1,12 @@
-ISSUES
-Protecting Social Security, Medicare, and a dignified retirement
-Every time Republicans take power in Washington, the story is the same.
+Skip navigation menu About Endorsements Issues Resources Volunteer Contact Donate About Endorsements Issues Resources Volunteer Contact Donate Rebuilding an Economy that Works for Everyone Empowering Workers to Organize Bold Action to Respond to the Climate Crisis Cleaning Up Corruption and Restoring Trust in Our Democracy Combating Income Inequality By Taking on Wealth Hoarding Lowering the Cost of Essentials — Putting Working Families First Holding Big Tech Accountable Rein in the Trump Administration and Executive Power Protecting Civil Rights and Civil Liberties for All A Foreign Policy Rooted in Peace, Democracy, and Global Justice A Welcoming Immigration Policy Ending Gun Violence with Common Sense Reform Ensuring a Great Public Education for All Students Protecting Social Security, Medicare, and a dignified retirement Holding Up Our Promise to America’s Veterans ISSUES Protecting Social Security, Medicare, and a dignified retirement Every time Republicans take power in Washington, the story is the same.
 Another huge tax cut for billionaires, followed by threats of cuts — or paired with actual cuts — to Social Security, Medicare, and Medicaid.
 These programs lifted millions of seniors out of poverty and ensured that Americans could retire with dignity.
 Our seniors paid into these programs for their entire lives — and we have an obligation to provide them with the benefits they are owed — and to further improve these programs.
-In Congress, I’m committed to:
-- Fighting Against Cuts to These Crucial Programs: In Congress, I’ll vote against any legislation that makes cuts to Social Security, Medicare, or Medicaid — and I’ll stand up to the GOP’s attacks on these crucial programs wherever I can.
+In Congress, I’m committed to: Fighting Against Cuts to These Crucial Programs: In Congress, I’ll vote against any legislation that makes cuts to Social Security, Medicare, or Medicaid — and I’ll stand up to the GOP’s attacks on these crucial programs wherever I can.
 I’ll also work to undo the Big Beautiful Bill’s cuts to Medicaid that endanger care for many of our seniors.
-- Expanding Social Security Benefits and Making the Rich Pay Their Fair Share: Congress hasn’t expanded Social Security benefits in more than 50 years.
+Expanding Social Security Benefits and Making the Rich Pay Their Fair Share: Congress hasn’t expanded Social Security benefits in more than 50 years.
 If elected, I’ll champion Congresswoman Schakowsky’s bill that would increase benefits by $200 a month — $2,400 a year — paid for by applying the Social Security tax to incomes over $250,000.
-- Strengthening Medicare: I support Medicare for All.
+Strengthening Medicare: I support Medicare for All.
 I also support strengthening Medicare for our seniors.
 Medicare should be expanded to include vision and dental coverage.
-And we need to strengthen — and protect — the new program that lets Medicare negotiate lower prescription drug costs for our seniors.
+And we need to strengthen — and protect — the new program that lets Medicare negotiate lower prescription drug costs for our seniors. info@ danielbiss.com 708-303-8106 PO Box #5809 Evanston, IL 60204 Powered by RUN! website builder Paid for by Biss for Congress You need to enable JavaScript to run this app.

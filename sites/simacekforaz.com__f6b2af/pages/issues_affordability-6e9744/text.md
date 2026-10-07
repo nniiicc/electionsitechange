@@ -1,5 +1,4 @@
-Affordability
-The costs of healthcare, housing, childcare, food, transportation, and utilities are rising, while purchasing power is falling.
+Skip navigation menu About Issues Endorsements Volunteer Contact Donate Issues About Issues Endorsements Volunteer Contact Donate Issues Education Affordability Reproductive Freedom Housing The Environment & Water Affordability The costs of healthcare, housing, childcare, food, transportation, and utilities are rising, while purchasing power is falling.
 Dignity and security in Arizona cannot be reserved for those who can afford to pay more than ever for everyday needs.
 Arizona’s affordability crisis isn’t accidental; it’s manufactured.
 Corporate home buyers sweep single-family homes off the market.
@@ -9,3 +8,6 @@ Insurance companies deny claims without a human ever evaluating the case.
 Energy companies give huge discounts to data centers and chip manufacturers and pass the cost on to homeowners.
 Representative Simacek has fought for bills that would go after the companies fuelling this crisis.
 She knows that the only way forward is to respond with real solutions and fight bills that burden real people.
+Make checks payable to: Simacek for AZ PO Box 42834 Phoenix, AZ 85080 Powered by RUN! website builder Paid for by Simacek for AZ.
+Authorized by Stephanie Simacek.
+You need to enable JavaScript to run this app.

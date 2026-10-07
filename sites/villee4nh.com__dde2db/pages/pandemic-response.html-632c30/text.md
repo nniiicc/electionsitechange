@@ -1,13 +1,7 @@
-Pandemic Response
-If New Hampshire faces another pandemic similar to COVID-19 while I'm governor, I don't plan to impose any general lockdown or mask mandate, or to make any vaccination mandatory.
-I'll take inspiration from Sweden, which avoided any lockdown or mask mandate during the COVID-19 pandemic, and where all vaccinations are voluntary.
+Home Issues Issues 20,000 Activists Article 83 Drugs End of Life Grandfathering LPNH Tweets Pandemic Response Secession Veto List Libertarianism Lose the Hate Lose the Fear Contact Donate Pandemic Response If New Hampshire faces another pandemic similar to COVID-19 while I'm governor, I don't plan to impose any general lockdown or mask mandate, or to make any vaccination mandatory.
+I'll take inspiration from Sweden, which avoided any lockdown or mask mandate during the COVID-19 pandemic, and where all vaccinations are voluntary .
 My administration will certainly make recommendations on how people can stay as safe as possible, but individuals will have the freedom to decide what's appropriate in each case.
-I'll make exceptions for certain locations, where I'll fully defer to public health officials on mandatory protocols to be observed:
-- medical facilities, including doctors offices, hospitals, and clinics
-- nursing homes
-- public buildings, including city and town offices, public schools, courthouses and post offices
-- public transportation
-In addition, I may require grocery stores and other essential shopping centers to set aside certain hours each day when mandatory protocols are observed, so that those most vulnerable can shop safely.
-I'll remain open to arguments that a general lockdown or mask mandate is warranted, if it can be shown that when people don't follow these measures they pose a significant danger to others.
+I'll make exceptions for certain locations, where I'll fully defer to public health officials on mandatory protocols to be observed: medical facilities, including doctors offices, hospitals, and clinics nursing homes public buildings, including city and town offices, public schools, courthouses and post offices public transportation In addition, I may require grocery stores and other essential shopping centers to set aside certain hours each day when mandatory protocols are observed, so that those most vulnerable can shop safely.
+I'll remain open to arguments that a general lockdown or mask mandate is warranted, if it can be shown that when people don't follow these measures they pose a significant danger to others .
 Such arguments would need to be based on scientific evidence, i.e., actual experiments and not just computer models.
 I'll insist on seeing all the raw data from these experiments.

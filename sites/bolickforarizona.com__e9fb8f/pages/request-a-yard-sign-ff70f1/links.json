@@ -1,16 +1,62 @@
 [
-"https://bolickforarizona.com/about-shawnna",
-"https://bolickforarizona.com/contact-us",
-"https://bolickforarizona.com/donate",
-"https://bolickforarizona.com/endorsements",
-"https://bolickforarizona.com/home",
-"https://bolickforarizona.com/issues",
-"https://bolickforarizona.com/photos-1",
-"https://bolickforarizona.com/request-a-yard-sign",
-"https://facebook.com/Bolick4Arizona",
-"https://linkedin.com/in/sbolick",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://x.com/ShawnnaLMBolick",
-"https://youtube.com/@ShawnnaLMBolick"
+{
+"text": "About Shawnna",
+"href": "https://bolickforarizona.com/about-shawnna"
+},
+{
+"text": "Contact Us",
+"href": "https://bolickforarizona.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://bolickforarizona.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://bolickforarizona.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://bolickforarizona.com/home"
+},
+{
+"text": "Issues",
+"href": "https://bolickforarizona.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://bolickforarizona.com/photos-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://bolickforarizona.com/request-a-yard-sign"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: BOLICKFORARIZONA.COM]",
+"href": "https://bolickforarizona.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Bolick4Arizona"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/sbolick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/ShawnnaLMBolick"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ShawnnaLMBolick"
+}
 ]

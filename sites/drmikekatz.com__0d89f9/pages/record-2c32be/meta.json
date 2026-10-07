@@ -1,9 +1,15 @@
 {
  "description": "Dr. Mike Katz's legislative record in the Delaware State Senate: ten bills on accountability, transparency, and fiscal reform.",
  "final_url": "https://drmikekatz.com/record",
+ "fingerprint": "722fa0e118f0b1d061bfa31a6e45db01c43a23a1",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
- "title": "Record \u2014 Katz for Delaware",
+ "title": "Record — Katz for Delaware",
  "years_mentioned": [
-  "2013"
+  "1999",
+  "2000",
+  "2009",
+  "2013",
+  "2026"
  ]
 }

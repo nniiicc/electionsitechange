@@ -1,5 +1,5 @@
-Meet Nikki
-Congresswoman Nikki Budzinski is a lifelong champion for working families, a native of Downstate Illinois and the proud Representative for Illinois’ 13th Congressional District.
+Skip to content price changes since Jan.
+2025 5.9% Gallon of Milk $2.67 3.7% Roma Tomatoes $1.39 20% Wonderbread $3.29 129% Ground Beef $7.69 9.33% Corn $4.47 29.1% Gas $4.08 5.44% Soybeans $11.24 66.4% Eggs $1.59 16.6% Lettuce $2.79 Home Meet Nikki Issues News Endorsements Home Meet Nikki Issues News Endorsements Facebook Instagram Youtube Take Action Take Action Donate Donate Donate Donate Meet Nikki Congresswoman Nikki Budzinski is a lifelong champion for working families, a native of Downstate Illinois and the proud Representative for Illinois’ 13th Congressional District.
 Nikki knows that our communities thrive when the middle class is strong.
 But too often, those hardworking families are left behind.
 That’s why she’s spent her entire career fighting to help restore the American Dream for people like her grandpa, a union painter, and her grandma, a public school teacher.
@@ -12,9 +12,11 @@ On these committees, she is advocating for federal policies that support Illinoi
 She serves as Vice-Chair of the Congressional Labor Caucus, fighting to protect workers’ rights and advance the labor movement.
 Building on that work, she now leads the charge as Chair of the Democratic Congressional Campaign Committee’s Labor Council.
 Nikki is a member of the Sustainable Energy and Environment Coalition (SEEC) where she founded the Climate Jobs Task Force focused on driving economic development and creating good-paying union jobs while we transition to a clean energy economy.
-Most recently, Nikki was proud to assume the title of Chairwoman of SEEC PAC, where she is a leading voice in efforts to advance our nation’s clean energy transition.
+Most recently, Nikki was proud to assume the title of Chairwoman of SEEC PAC , where she is a leading voice in efforts to advance our nation’s clean energy transition.
 Nikki has consistently put people over partisan politics, striving for compromise and delivering results rather than political bickering.
 During her 2024 re-election to Congress, Nikki outperformed her opponent by 16 percent and increased her winning margins in every county across the district.
 Nikki attributes this success to her unwavering focus on addressing everyday issues and her willingness to listen to the American people, building bridges across the aisle.
 This approach has earned her the role of Vice-Chair of Policy for the New Democrat Coalition– a group of 100 lawmakers focused on bridging the partisan divide with solutions to the most pressing issues facing our country and our communities.
 And she’s been ranked as one of the most bipartisan members of the House of Representatives by the Common Ground Committee for her work across the party aisle.
+Illinois 13th Stay Updated Home Issues Meet Nikki News Take Action Donate P.O.
+Box 5171 Springfield, IL 62705-5171 [email protected] Facebook Instagram Youtube Paid for by Nikki for Congress Contact Privacy Policy Accessibility Media POWERED BY APOLLO Home Meet Nikki Issues News Endorsements TAKE ACTION TAKE ACTION Donate Donate Facebook Instagram Youtube

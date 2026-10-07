@@ -1,10 +1,38 @@
 [
-"https://stevebratcher.com/",
-"https://stevebratcher.com/about",
-"https://stevebratcher.com/contact",
-"https://stevebratcher.com/district-map",
-"https://stevebratcher.com/issues",
-"https://stevebratcher.com/support",
-"https://vrsws.sos.ky.gov/ovrweb",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://stevebratcher.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://stevebratcher.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://stevebratcher.com/district-map/"
+},
+{
+"text": "Home",
+"href": "https://stevebratcher.com/"
+},
+{
+"text": "Issues",
+"href": "https://stevebratcher.com/issues/"
+},
+{
+"text": "Steve Bratcher for the 25th District",
+"href": "https://stevebratcher.com"
+},
+{
+"text": "Support",
+"href": "https://stevebratcher.com/support/"
+},
+{
+"text": "Voter Registration",
+"href": "https://vrsws.sos.ky.gov/ovrweb/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+}
 ]

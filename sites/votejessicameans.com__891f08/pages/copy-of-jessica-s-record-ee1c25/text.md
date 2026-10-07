@@ -1,34 +1,12 @@
-On The Issues
-Faith, Family, & Community First.
+top of page MEET JESSICA RECORD ON THE ISSUES EVENTS NEWS DONATE On The Issues Faith, Family, & Community First.
 Jessica Means isn’t new to public service.
-As a former Sullivan County Commissioner, she has worked on real budgets, real policy, and real decisions that impact local families.
-She believes government should be transparent, accountable, and focused on the people it serves — not politics.
-Jessica is running for State House to bring steady conservative leadership to Nashville and ensure Northeast Tennessee has a strong, practical voice at the table.
-As a homeschool mom and strong supporter of public education, Jessica understands that every child is different; and parents know their children best.
-She supports:
-- Protecting parental rights in education
-- Strengthening public schools in Sullivan County
-- Respecting the choice to homeschool or pursue alternative education paths
-- Expanding career and technical education to prepare students for real-world opportunity
-Education should reflect our community’s values and prepare the next generation for success right here at home.
+As a former Sullivan County Commissioner, she has worked on real budgets, real policy, and real decisions that impact local families. ​ She believes government should be transparent, accountable, and focused on the people it serves — not politics. ​ Jessica is running for State House to bring steady conservative leadership to Nashville and ensure Northeast Tennessee has a strong, practical voice at the table.
+As a homeschool mom and strong supporter of public education, Jessica understands that every child is different; and parents know their children best. ​ She supports: Protecting parental rights in education Strengthening public schools in Sullivan County Respecting the choice to homeschool or pursue alternative education paths Expanding career and technical education to prepare students for real-world opportunity Education should reflect our community’s values and prepare the next generation for success right here at home.
 Families in Sullivan County work hard for every dollar.
-State government should treat those dollars with the same respect.
-Jessica believes:
-- Government must live within its means
-- Taxpayer dollars should be transparent and accountable
-- Small businesses deserve policies that help them grow, not burdens that hold them back
-- Wasteful spending should be identified and eliminated
-Her approach is simple: careful budgeting, common sense, and clear accountability.
-Jessica will stand firmly for the values that define Northeast Tennessee.
-She supports:
-- The right to life
-- The Second Amendment
-- Religious liberty
-- Strong support for law enforcement
-These principles are not political talking points.
-They are foundational to our community and deserve thoughtful, steady defense.
-Jessica previously served as a member of the board for Tennesseans for Life.
-Jessica believes elected officials should be visible, reachable, and accountable.
-As County Commissioner, she listened first, worked through the details, and focused on results.
-That same approach will guide her service in the State House.
-Nashville should work for Sullivan County — not the other way around.
+State government should treat those dollars with the same respect. ​ Jessica believes: Government must live within its means Taxpayer dollars should be transparent and accountable Small businesses deserve policies that help them grow, not burdens that hold them back Wasteful spending should be identified and eliminated Her approach is simple: careful budgeting, common sense, and clear accountability.
+Jessica will stand firmly for the values that define Northeast Tennessee. ​ She supports: The right to life The Second Amendment Religious liberty Strong support for law enforcement These principles are not political talking points.
+They are foundational to our community and deserve thoughtful, steady defense. ​ Jessica previously served as a member of the board for Tennesseans for Life.
+Jessica believes elected officials should be visible, reachable, and accountable. ​ As County Commissioner, she listened first, worked through the details, and focused on results.
+That same approach will guide her service in the State House. ​ Nashville should work for Sullivan County — not the other way around.
+Email * Yes, subscribe me to your newsletter. * Submit PO Box 114 Blountville, TN 37617 423-384-5813 votejessicameans@gmail.com Privacy Policy © # by Jessica Means for House. ​ Paid for by Jessica Means for House.
+Treasurer Tim Crowder. bottom of page

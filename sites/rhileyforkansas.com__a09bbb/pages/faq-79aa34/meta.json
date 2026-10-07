@@ -1,9 +1,12 @@
 {
  "description": "Explore the FAQ page for the Kansas House District 80 candidate, Rhiley for Kansas, addressing key issues in the upcoming Kansas elections.",
  "final_url": "https://rhileyforkansas.com/faq",
- "paid_for_by": "Paid for by Rhiley for Kansas: Steve Abrams Treasurer&nbsp; Powered by",
+ "fingerprint": "bce12c40b2b3228fdf452f40d02230e4bb990223",
+ "format": 3,
+ "paid_for_by": "Paid for by Rhiley for Kansas: Steve Abrams Treasurer Powered by",
  "title": "FAQ",
  "years_mentioned": [
-  "2010"
+  "2010",
+  "2017"
  ]
 }

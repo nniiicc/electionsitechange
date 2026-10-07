@@ -1,15 +1,3 @@
-Events
-More events coming soon!
-1
-Sep
-Tuesday, 7:00 PM – 8:00 PM
-Moanalua Gardens Community Association Meeting
-Moanalua Middle cafeteria
-9
-Sep
-9
-Sep
-14
-Sep
-16
-Sep
+Home About Donna Events News Community Bulletin Photo Gallery Events More events coming soon!
+#ago This Week This Month ‹ Previous Tue Sep 1 2026 - Wed Sep 30 2026 Next › 1 Sep Tuesday, 7:00 PM – 8:00 PM Moanalua Gardens Community Association Meeting Moanalua Middle cafeteria More info › 9 Sep Wednesday, 6:30 PM – 7:30 PM Moanalua Valley Community Association Meeting 99 Ranch More info › 9 Sep Wednesday, 7:00 PM – 8:00 PM Kalihi Valley Neighborhood Board Kaewai Elementary More info › 14 Sep Monday, 7:00 PM – 8:00 PM Alewa Neighborhood Board Maemae Elementary School cafeteria More info › 16 Sep Wednesday, 7:00 PM – 8:00 PM Kalihi Palama Neighborhood Board Kalihi Union Church More info › Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

@@ -1,15 +1,70 @@
 [
-"http://elections.il.gov/",
-"https://facebook.com/mccombieforillinois",
-"https://instagram.com/mccombieforilli",
-"https://mccombieforillinois.com/",
-"https://mccombieforillinois.com/2023/11/28/election-2024-filing-day",
-"https://mccombieforillinois.com/2023/12/01/il-house-gop-leader-mccombie-on-chicago-migrant-situation",
-"https://mccombieforillinois.com/2026/03/05/il-house-gop-leader-mccombie-named-one-of-the-the-hills-top-women-shaping-policy",
-"https://mccombieforillinois.com/endorsements",
-"https://mccombieforillinois.com/events",
-"https://mccombieforillinois.com/issues",
-"https://mccombieforillinois.com/meet-tony",
-"https://mccombieforillinois.com/volunteer",
-"https://secure.winred.com/tony-mccombie-for-illinois/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tony-mccombie-for-illinois/donate"
+},
+{
+"text": "Election 2024 Filing Day",
+"href": "https://www.mccombieforillinois.com/2023/11/28/election-2024-filing-day/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccombieforillinois.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mccombieforillinois.com/events/"
+},
+{
+"text": "IL House GOP Leader McCombie Named One of the The Hills Top Women Shaping Policy",
+"href": "https://www.mccombieforillinois.com/2026/03/05/il-house-gop-leader-mccombie-named-one-of-the-the-hills-top-women-shaping-policy/"
+},
+{
+"text": "IL House GOP Leader McCombie on Chicago Migrant Situation",
+"href": "https://www.mccombieforillinois.com/2023/12/01/il-house-gop-leader-mccombie-on-chicago-migrant-situation/"
+},
+{
+"text": "Issues",
+"href": "https://www.mccombieforillinois.com/issues/"
+},
+{
+"text": "Meet Tony",
+"href": "https://www.mccombieforillinois.com/meet-tony/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mccombieforillinois.com/volunteer/"
+},
+{
+"text": "[image: Tony McCombie for State Representative][image: Tony McCombie for State Representative]",
+"href": "https://www.mccombieforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mccombieforillinois.com/2023/12/01/il-house-gop-leader-mccombie-on-chicago-migrant-situation/"
+},
+{
+"text": "[image]",
+"href": "https://www.mccombieforillinois.com/2026/03/05/il-house-gop-leader-mccombie-named-one-of-the-the-hills-top-women-shaping-policy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mccombieforillinois"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mccombieforilli/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/mccombieforillinois"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/mccombieforilli/"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

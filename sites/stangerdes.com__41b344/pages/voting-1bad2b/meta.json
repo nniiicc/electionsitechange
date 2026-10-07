@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://stangerdes.com/voting",
- "paid_for_by": null,
+ "fingerprint": "3c9f93ff595fc20510c20901867845b4473ff385",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voting",
  "years_mentioned": []
 }

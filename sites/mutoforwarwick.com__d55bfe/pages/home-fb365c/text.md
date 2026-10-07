@@ -1,5 +1,4 @@
-for State Representative
-Fighting for District 23 — Every Day, For Every Family
-Vote in the Primary on September 9, 2026
-Have a question, or need to get in touch?
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute Contact the Campaign Have a question, or need to get in touch?
 Complete the form below and a member of our team will be in touch.
+Contact us First name * Last name * Email * Phone Message * Submit Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

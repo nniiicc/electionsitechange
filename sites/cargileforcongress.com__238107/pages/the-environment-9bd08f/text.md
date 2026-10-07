@@ -1,5 +1,4 @@
-Environment
-A cobalt mine.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Scroll Environment A cobalt mine.
 The greatest, cleanest, most reliable source of electricity is nuclear power.
 However, regardless of where you fall on the political spectrum, we all want to wind up at the same place.
 A world with clean air, pristine, untamed oceans, drinkable water and soil free of toxins, carcinogens and chemicals.
@@ -7,8 +6,7 @@ The journey to that beautiful destination becomes the issue.
 I love the idea of clean, green energy.
 In fact, I have solar panels on my house and I had no apprehension availing myself of the Federal and State rebates accompanying their installation.
 However, most of what we see being pushed as “environmentally friendly” energy sources are anything but… Most of what is currently being sold to the public is driven by dark sources of corporate greed.
-Think with me on this one example…
-The only real environmental difference between an electric vehicle (EV) and a gasoline vehicle (GV) is at the tailpipe.
+Think with me on this one example… The only real environmental difference between an electric vehicle (EV) and a gasoline vehicle (GV) is at the tailpipe.
 Everything else is basically the same.
 The car transports you from point A to point B, but the EV has zero emissions.
 However, with just a little research, you discover that it takes over 13 tons of CO2 just to manufacture the 80kwh Li-ion batteries.
@@ -24,3 +22,6 @@ And while there is a concerted effort to recycle much of a spent battery, it’s
 Our landfills are saturated with spent, leaking batteries that seep into the environment and ground water causing untold human suffering due to cancers, birth defects and a whole host of other illnesses.
 I, for one, am not willing to sacrifice our water and soil simply for cleaner air, especially when there are viable alternatives.
 As a legislator, on every front, I would push for more research and development into comprehensive solutions like Hydrogen Fuel Cells, which is essentially the same as both vehicles above, but the only thing that escapes from the tail pipe…is water.
+SO HELP ME GOD… Please Contribute Bitcoin Environment Copy of Flag Footer CTA (Copy) Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

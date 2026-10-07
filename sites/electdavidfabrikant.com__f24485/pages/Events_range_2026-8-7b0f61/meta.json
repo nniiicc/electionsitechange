@@ -1,7 +1,9 @@
 {
  "description": "David Fabrikant Campaign Events",
  "final_url": "https://www.electdavidfabrikant.com/Events?range=2026-8",
- "paid_for_by": null,
+ "fingerprint": "d3061a42f34c1b7fd342e6b1d2a26100678a6e78",
+ "format": 3,
+ "paid_for_by": "",
  "title": "David Fabrikant Campaign Events",
  "years_mentioned": [
   "2026"

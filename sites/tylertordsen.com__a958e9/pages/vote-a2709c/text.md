@@ -1,8 +1,6 @@
-WHERE DO I VOTE?
-Click here to verify your voter registration status, find your polling place for election day, and to view your sample ballot.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG VOTING INFORMATION WHERE DO I VOTE?
+Click here to verify your voter registration status, find your polling place for election day, and to view your sample ballot .
 If you have any questions about voting, please reach out to Tyler.
-Skip to content
-VOTING INFORMATION
-WHERE DO I VOTE?
-Click here to verify your voter registration status, find your polling place for election day, and to view your sample ballot.
-If you have any questions about voting, please reach out to Tyler.
+CONTACT TYLER PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

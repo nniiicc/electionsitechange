@@ -1,4 +1,4 @@
-Mother’s Day is one of the most important true holiday, we the people of the United States celebrate.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Mother’s Day / Blog Post / By Billy Ray Wilson Mother’s Day is one of the most important true holiday, we the people of the United States celebrate.
 Most other holidays, in my opinion, are fictional or demeaning to the American people.
 We must acknowledge that mothers are the heads of households; they not only manage the home and influence a child’s daily life, but more importantly, they shape a child’s understanding of future responsibilities and loyalties to the United States.
 Sadly, beginning with my late mother and most others in Laurel County, KY, in 1943, Kentucky mothers have been responsible for the religious indoctrination of their children.
@@ -14,4 +14,6 @@ We elect representatives to ensure our security and prosperity as directed by th
 Constitution.
 The Constitution does not authorize political parties to revoke our rights via Executive Orders, nor does it allow the Republican Party to violate our founding document under the leadership of a convicted felon.
 In November 2026, the people of Kentucky must vote for candidates who are defenders of the U.S.
-Constitution—not mouthpieces and lackeys for unethical investors and the criminal currently holding the Chief Executive Office of the United States
+Constitution—not mouthpieces and lackeys for unethical investors and the criminal currently holding the Chief Executive Office of the United States ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

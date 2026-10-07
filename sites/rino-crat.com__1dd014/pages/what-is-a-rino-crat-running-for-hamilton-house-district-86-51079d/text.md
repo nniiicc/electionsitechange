@@ -1,4 +1,4 @@
-A Rino‑Crat brings together the best of Republican and Democrat, finding more common ground with community neighbors than points of separation.
+Skip to content Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Get Involved Donate Now Facebook X-twitter Instagram What is a Rino-Crat running for Hamilton House District 86? admin April 1, 2026 8:07 am No Comments A Rino‑Crat brings together the best of Republican and Democrat, finding more common ground with community neighbors than points of separation.
 Over my 50+ years in Hamilton—as a small business owner and employer of anywhere from zero to twenty people—I lived through double‑digit inflation in the 1970s and 1980s, three recessions among other economic shocks.
 During all of that, I never believed a political party mattered more than showing up for work, making ends meet, and taking responsibility.
 I still don’t.
@@ -19,6 +19,7 @@ Eisenhower passed away when I was ten years old.
 Today, I am filed as a Democratic candidate for Hamilton House District 86.
 That filing does not make me a Democrat in ideology—it reflects the reality of where I can stand, speak honestly, and serve.
 I welcome the opportunity to continue this discussion.
-(Part 1)
-Vote in the primary on June 2.
-Archie Thomas Candidate for Hamilton House District 86
+(Part 1) Vote in the primary on June 2.
+Archie Thomas Candidate for Hamilton House District 86 more posts: Why Vote Yes on I-194: The Montana Option September 30, 2026 No Comments Read More » Tale of Two Elections September 30, 2026 No Comments Read More » DEQ says no to Sheep Creek Mine Request July 27, 2026 No Comments Read More » Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Facebook X-twitter Instagram © # Rino-crat Campaign.
+All rights reserved.
+Read Our Privacy Policy

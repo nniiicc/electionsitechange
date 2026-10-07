@@ -1,10 +1,54 @@
 [
-"https://andreabailey4assembly.com/",
-"https://andreabailey4assembly.com/about",
-"https://andreabailey4assembly.com/contact",
-"https://andreabailey4assembly.com/get-involved",
-"https://andreabailey4assembly.com/news",
-"https://andreabailey4assembly.com/thecampaigntrail",
-"https://facebook.com/AndreaBaileyforAssembly",
-"https://secure.winred.com/friends-of-akb/donate-today?exitintent=true"
+{
+"text": "About",
+"href": "https://www.andreabailey4assembly.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.andreabailey4assembly.com/about"
+},
+{
+"text": "Around the 133rd",
+"href": "https://www.andreabailey4assembly.com/thecampaigntrail"
+},
+{
+"text": "Contact",
+"href": "https://www.andreabailey4assembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-akb/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andreabailey4assembly.com/news"
+},
+{
+"text": "Get Involved",
+"href": "https://www.andreabailey4assembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.andreabailey4assembly.com"
+},
+{
+"text": "Home",
+"href": "https://www.andreabailey4assembly.com/thecampaigntrail"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.andreabailey4assembly.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AndreaBaileyforAssembly"
+},
+{
+"text": "abailey4assembly@gmail.com",
+"href": "mailto:abailey4assembly@gmail.com"
+},
+{
+"text": "andrea@andreabaileyforassembly.com",
+"href": "mailto:andrea@andreabaileyforassembly.com"
+}
 ]

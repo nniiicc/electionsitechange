@@ -1,4 +1,4 @@
-November 5, 2024, 89.9% of eligible voters in Lake County showed up.
+Skip to content Meet Banks Solutions News Contribute Volunteer × Meet Banks Solutions News Contribute Volunteer We The People November 5, 2024, 89.9% of eligible voters in Lake County showed up.
 Let that sink in for a moment.
 The first three words of the preamble to the Constitution and the most important words in the entire document, “We the People” highly participated in our democracy.
 We the People made our voices heard and We the People voted, and the only way we keep our democratic republic healthy is by showing up.
@@ -6,15 +6,15 @@ Because without engagement, or involvement, or voting, our government becomes an
 A government of and for the people means the leaders are We the People.
 That’s right!
 In our republic, leadership comes from the bottom, and We allow it to move up.
-We the People?
-Who are We?
+We the People ?
+Who are We ?
 When the Constitution was written, We were the persecuted souls from England fleeing to a new world for freedoms.
 Yet, we were not first to America.
 Palio-Indians from Asia came over many generations before.
 In the 1600s, We forcibly immigrated here making us secondary immigrants paralleling Central and South Americans of today.
 We are immigrants.
 In fact, every single citizen in this country is from somewhere else.
-Some 22,000 years ago Native Americans crossed Asia and Alaska to become the first American immigrants.
+Some 22,#ago Native Americans crossed Asia and Alaska to become the first American immigrants.
 Around the 1700s, English, Scots, Irish, and Germans formed the 13 colonies.
 Without their permission, Africans became the next generation of immigrants.
 Soon came more Irish and Chinese as laborers to build the transcontinental railroad.
@@ -38,9 +38,22 @@ We the People are all immigrants whether forced here or welcomed.
 So, the next time you hear someone disparage an immigrant collectively referring to them as thugs, unwanted free loaders, rapists, murderers, remember they are referring to you.
 We the People are We the immigrants.
 Link to article here.
-Banks Helfrich
-Candidate for Florida House,
-District 25
-As a native Floridian, I love this state.
+Banks Helfrich Candidate for Florida House, District 25 As a native Floridian, I love this state.
 As a resident of South Lake County, I love farming and teaching sustainability to this community.
 As a Candidate for State House, I love finding solutions to the issues of our time.
+I'm With Banks!
+Name (Required) First Name Last Name Email (Required) Enter Email Confirm Email Keep me up to date!
+The News Being a Patriot Wearing an American flag pin does not make us a patriot; it does show patriotism though.
+Wearing a farmer’s hat with the stars and stripes on the underside does not make us a patriot.
+Going to a ribbon cutting event and welcoming a new business into our city makes us a patriot.
+Chanting USA shows… Read More → What to Do About Property Insurance?
+As homeowners in Florida, we have two choices for property insurance – to be or not to be.
+If our home is paid off, we are not required to hold insurance on it.
+Many opt for this approach because of the skyrocketing cost of insurance.
+Most of us though are on the other side of ownership.… Read More → Taxes or Services So, you want to cut property taxes?
+What a fantastic idea!
+Wait, what exactly do property taxes pay for?
+Roughly half of property taxes pay for education, and the rest covers roads, police, fire, libraries, waste management, parks and trails.
+So, by cutting property taxes, we would be cutting these services, right?
+This November the… Read More → Quick Links Meet Banks Issues News Volunteer Contribute Issues Lowering Property Insurance Decreasing Traffic Congestion Supporting First Responders Curbing Excessive Development Lowering Grocery Costs Take Action Contribute Volunteer © # PAID by BANKS Helfrich, Democrat, Florida House of Representatives, District 25.
+All Rights Reserved. | Sitemap

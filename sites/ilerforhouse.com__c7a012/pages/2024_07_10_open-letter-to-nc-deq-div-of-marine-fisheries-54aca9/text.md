@@ -1,5 +1,4 @@
-Open letter to NC DEQ & Div. of Marine Fisheries: July 10th, 2024
-Among others, I was surprised when I learned the harvesting of flounder in NC by recreational fishermen went from a tiny catch season allowed last year to NO season this year.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Open letter to NC DEQ & Div. of Marine Fisheries: July 10th, 2024 By Frank Iler | July 10, 2024 Among others, I was surprised when I learned the harvesting of flounder in NC by recreational fishermen went from a tiny catch season allowed last year to NO season this year.
 It has taken some effort to determine the cause of NO season this year.
 However, the commercial fishermen CAN take flounder this year.
 Some of this was an effort to reduce the take by 72% and restore the fish population.
@@ -30,5 +29,5 @@ If our DMF cannot come up with a better Fishery Mgmt.
 Plan at least by 2025, perhaps we need to go to the floors of the N.C.
 House and Senate, hear from citizens and objective experts, and come up with a plan for them.
 Rep.
-Frank Iler
-District 17 – Brunswick County
+Frank Iler District 17 – Brunswick County Posted in Press Releases & Statements © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

@@ -1,5 +1,4 @@
-About Steve:
-U.S.
+0 Skip to Content Home About Steve Newsroom Contact Donate Open Menu Close Menu Home About Steve Newsroom Contact Donate Open Menu Close Menu Home About Steve Newsroom Contact Donate About Steve: U.S.
 Representative Steve Womack was elected to represent Arkansas’s Third Congressional District in 2010.
 He is a senior member of the House Appropriations Committee, where he serves as Chairman of the Transportation, Housing and Urban Development (THUD) Subcommittee and sits on the Defense and the Financial Services and General Government (FSGG) Subcommittees.
 He is also the former Chairman of the House Budget Committee.

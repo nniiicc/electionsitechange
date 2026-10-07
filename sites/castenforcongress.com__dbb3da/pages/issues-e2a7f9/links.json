@@ -1,30 +1,126 @@
 [
-"https://castenforcongress.com/",
-"https://castenforcongress.com/about",
-"https://castenforcongress.com/accomplishments",
-"https://castenforcongress.com/endorsements",
-"https://castenforcongress.com/issues",
-"https://castenforcongress.com/issues/education",
-"https://castenforcongress.com/issues/energy-and-climate-policy",
-"https://castenforcongress.com/issues/gun-safety",
-"https://castenforcongress.com/issues/health-care",
-"https://castenforcongress.com/issues/immigration-reform",
-"https://castenforcongress.com/issues/jobs-and-growing-our-economy",
-"https://castenforcongress.com/issues/lgbtq-rights",
-"https://castenforcongress.com/issues/racial-justice",
-"https://castenforcongress.com/issues/the-right-to-vote",
-"https://castenforcongress.com/issues/veterans-policy",
-"https://castenforcongress.com/issues/womens-reproductive-rights",
-"https://castenforcongress.com/jobs",
-"https://castenforcongress.com/media-center",
-"https://castenforcongress.com/press",
-"https://castenforcongress.com/privacy-policy",
-"https://castenforcongress.com/terms",
-"https://castenforcongress.com/volunteer",
-"https://castenforcongress.com/vote-2026",
-"https://castenforcongress.com/yard-sign",
-"https://facebook.com/castenforcongress",
-"https://instagram.com/teamcasten",
-"https://secure.actblue.com/donate/castenwebsite2020",
-"https://twitter.com/votecasten"
+{
+"text": "2026 primary info",
+"href": "https://www.castenforcongress.com/vote-2026"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/castenwebsite2020"
+},
+{
+"text": "Join Our TeamDonate",
+"href": "https://secure.actblue.com/donate/castenwebsite2020"
+},
+{
+"text": "[image: Education] On the Issues Education",
+"href": "https://www.castenforcongress.com/issues/education"
+},
+{
+"text": "[image: Energy and Climate Policy] On the Issues Energy and Climate Policy",
+"href": "https://www.castenforcongress.com/issues/energy-and-climate-policy"
+},
+{
+"text": "[image: Gun Safety] On the Issues Gun Safety",
+"href": "https://www.castenforcongress.com/issues/gun-safety"
+},
+{
+"text": "[image: Health Care] On the Issues Health Care",
+"href": "https://www.castenforcongress.com/issues/health-care"
+},
+{
+"text": "[image: Immigration Reform] On the Issues Immigration Reform",
+"href": "https://www.castenforcongress.com/issues/immigration-reform"
+},
+{
+"text": "[image: Jobs and Growing Our Economy] On the Issues Jobs and Growing Our Economy",
+"href": "https://www.castenforcongress.com/issues/jobs-and-growing-our-economy"
+},
+{
+"text": "[image: LGBTQ Rights] On the Issues LGBTQ Rights",
+"href": "https://www.castenforcongress.com/issues/lgbtq-rights"
+},
+{
+"text": "[image: Racial Justice] On the Issues Racial Justice",
+"href": "https://www.castenforcongress.com/issues/racial-justice"
+},
+{
+"text": "[image: Sean Casten for Congress logo]",
+"href": "https://www.castenforcongress.com/"
+},
+{
+"text": "[image: The Right to Vote] On the Issues The Right to Vote",
+"href": "https://www.castenforcongress.com/issues/the-right-to-vote"
+},
+{
+"text": "[image: Veterans Policy] On the Issues Veterans Policy",
+"href": "https://www.castenforcongress.com/issues/veterans-policy"
+},
+{
+"text": "[image: Women's Reproductive Rights] On the Issues Women's Reproductive Rights",
+"href": "https://www.castenforcongress.com/issues/womens-reproductive-rights"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votecasten"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/castenforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamcasten/"
+},
+{
+"text": "about",
+"href": "https://www.castenforcongress.com/about"
+},
+{
+"text": "accomplishments",
+"href": "https://www.castenforcongress.com/accomplishments"
+},
+{
+"text": "endorsements",
+"href": "https://www.castenforcongress.com/endorsements"
+},
+{
+"text": "get a yard sign",
+"href": "https://www.castenforcongress.com/yard-sign"
+},
+{
+"text": "home",
+"href": "https://www.castenforcongress.com/"
+},
+{
+"text": "info@castenforcongress.com",
+"href": "mailto:info@castenforcongress.com"
+},
+{
+"text": "issues",
+"href": "https://www.castenforcongress.com/issues"
+},
+{
+"text": "jobs",
+"href": "https://www.castenforcongress.com/jobs"
+},
+{
+"text": "media center",
+"href": "https://www.castenforcongress.com/media-center"
+},
+{
+"text": "press",
+"href": "https://www.castenforcongress.com/press"
+},
+{
+"text": "privacy policy",
+"href": "https://www.castenforcongress.com/privacy-policy"
+},
+{
+"text": "terms",
+"href": "https://www.castenforcongress.com/terms"
+},
+{
+"text": "volunteer",
+"href": "https://www.castenforcongress.com/volunteer"
+}
 ]

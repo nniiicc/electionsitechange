@@ -1,6 +1,14 @@
 [
-"http://aboutads.info/choices",
-"https://facebook.com/ElectBillKeating",
-"https://fec.gov/",
-"https://twitter.com/WilliamKeating?ref_src=twsrc%5Etfw"
+{
+"text": "Bill Keating",
+"href": "https://www.facebook.com/ElectBillKeating/"
+},
+{
+"text": "Tweets by WilliamKeating",
+"href": "https://twitter.com/WilliamKeating?ref_src=twsrc%5Etfw"
+},
+{
+"text": "https://www.fec.gov",
+"href": "https://www.fec.gov/"
+}
 ]

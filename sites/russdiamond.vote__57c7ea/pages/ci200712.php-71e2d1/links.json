@@ -1,22 +1,90 @@
 [
-"http://russdiamond.vote/ci200601.php",
-"https://ata.org/understanding-facts",
-"https://bbc.com/news/uk-politics-52553229",
-"https://cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/friendsofrussdiamond/posts/1717815275038815",
-"https://facebook.com/friendsofrussdiamond/posts/1720489368104739",
-"https://facebook.com/repdiamond/reels",
-"https://instagram.com/russdiamond",
-"https://nationalgeographic.com/history/2020/03/why-touch-others-history-handshake-offers-clues",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Children are not among the high-risk demographics for COVID-19",
+"href": "https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm#AgeAndSex"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "[image: Captiol Insights - State Representative Russ Diamond's Blog]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "contact traced and self-quarantining",
+"href": "http://russdiamond.vote/ci200601.php"
+},
+{
+"text": "handshaking as a customary greeting",
+"href": "https://www.nationalgeographic.com/history/2020/03/why-touch-others-history-handshake-offers-clues/"
+},
+{
+"text": "meme",
+"href": "https://www.facebook.com/friendsofrussdiamond/posts/1717815275038815"
+},
+{
+"text": "personal choice to go against social distancing",
+"href": "https://www.bbc.com/news/uk-politics-52553229"
+},
+{
+"text": "some 50 million Americans suffer from some type of tinnitus",
+"href": "https://www.ata.org/understanding-facts"
+},
+{
+"text": "using gum or candy to mollify a more difficult child",
+"href": "https://www.facebook.com/friendsofrussdiamond/posts/1720489368104739"
+},
+{
+"text": "work of Dr. Bruce Alexander and his \"rat park\" experiments",
+"href": "https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong"
+}
 ]

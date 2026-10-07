@@ -1,18 +1,70 @@
 [
-"http://fb.me/marykunesh4mn",
-"https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota",
-"https://en.wikipedia.org/wiki/Minnesota%27s_congressional_districts",
-"https://en.wikipedia.org/wiki/Minnesota_House_of_Representatives",
-"https://en.wikipedia.org/wiki/Minnesota_Senate",
-"https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
-"https://marykunesh.com/",
-"https://marykunesh.com/about",
-"https://marykunesh.com/donate",
-"https://marykunesh.com/elections-2026",
-"https://marykunesh.com/joinus",
-"https://marykunesh.com/vision",
-"https://sos.mn.gov/elections-voting/find-county-election-office",
-"https://sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://sos.mn.gov/elections-voting/register-to-vote/register-on-election-day",
-"https://twitter.com/MaryKunesh9"
+{
+"text": "About",
+"href": "https://marykunesh.com/about/"
+},
+{
+"text": "Contribute",
+"href": "https://marykunesh.com/donate/"
+},
+{
+"text": "Election 2026",
+"href": "https://marykunesh.com/elections-2026/"
+},
+{
+"text": "Facebook",
+"href": "http://fb.me/marykunesh4mn"
+},
+{
+"text": "Home",
+"href": "https://marykunesh.com/"
+},
+{
+"text": "Join Us",
+"href": "https://marykunesh.com/joinus/"
+},
+{
+"text": "Minnesota House of Representatives",
+"href": "https://en.wikipedia.org/wiki/Minnesota_House_of_Representatives"
+},
+{
+"text": "Minnesota Senate",
+"href": "https://en.wikipedia.org/wiki/Minnesota_Senate"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/MaryKunesh9"
+},
+{
+"text": "United States House of Representatives",
+"href": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives"
+},
+{
+"text": "Vision",
+"href": "https://marykunesh.com/vision/"
+},
+{
+"text": "[image: Mary Kunesh for Minnesota State Senate]",
+"href": "https://marykunesh.com/"
+},
+{
+"text": "county election office",
+"href": "https://sos.mn.gov/elections-voting/find-county-election-office/"
+},
+{
+"text": "eight seats",
+"href": "https://en.wikipedia.org/wiki/Minnesota%27s_congressional_districts"
+},
+{
+"text": "one United States Senate seat",
+"href": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Minnesota"
+},
+{
+"text": "proof of residence",
+"href": "https://sos.mn.gov/elections-voting/register-to-vote/register-on-election-day/"
+},
+{
+"text": "voting locations before election day",
+"href": "https://sos.mn.gov/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+}
 ]

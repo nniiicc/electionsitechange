@@ -1,5 +1,4 @@
-Celebrating America's 250th Birthday
-This Fourth of July I will join you and millions of other Americans to celebrate the 250th anniversary of the United States of America.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Celebrating America's 250th Birthday Jul 3 Written By Elle Casner This Fourth of July I will join you and millions of other Americans to celebrate the 250th anniversary of the United States of America.
 I am proud of how far our country has come.
 I am excited to help lead us to a better future.
 I know that it’s easy to feel like America is more divided than united.
@@ -15,3 +14,4 @@ When people of goodwill work toward solutions for their differences, we discover
 It’s an honor to run for governor during such an auspicious moment in our nation’s history.
 I have faith in Idahoans and our fellow American citizens that we will rise together and meet the challenges of today.
 Happy birthday, America!
+Donate Elle Casner Previous Previous Idaho Skies, Smoke, and Lies Next Next Idaho Is Ready for This Woman to Be Governor TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://kramerforalabama.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "37e4443bea7962f9e72dbe50a18f90d12e43b15e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare for All",
  "years_mentioned": []
 }

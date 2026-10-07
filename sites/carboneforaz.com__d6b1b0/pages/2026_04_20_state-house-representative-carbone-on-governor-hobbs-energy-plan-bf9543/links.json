@@ -1,11 +1,42 @@
 [
-"https://carboneforaz.com/",
-"https://carboneforaz.com/category/posts",
-"https://carboneforaz.com/in-the-news",
-"https://carboneforaz.com/volunteer",
-"https://facebook.com/profile.php?id=100079817160405",
-"https://give.cornerstone.cc/conservativesforcarbone/checkout",
-"https://grandcanyontimes.com/state-house-representative-carbone-on-governor-hobbs-energy-plan-it-a-solar-heavy-political-plan-that-puts-green-industry-insiders-ahead-of-taxpayers-pushes-utility-scale-solar-onto-state-land",
-"https://instagram.com/michael_carbone42",
-"https://twitter.com/MichaelCarbone"
+{
+"text": "All Posts",
+"href": "https://carboneforaz.com/category/posts/"
+},
+{
+"text": "Click Here to Donate",
+"href": "https://give.cornerstone.cc/conservativesforcarbone/checkout"
+},
+{
+"text": "Donate",
+"href": "https://give.cornerstone.cc/conservativesforcarbone/checkout"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100079817160405"
+},
+{
+"text": "In the News",
+"href": "https://carboneforaz.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/michael_carbone42/"
+},
+{
+"text": "Read full article here",
+"href": "https://grandcanyontimes.com/state-house-representative-carbone-on-governor-hobbs-energy-plan-it-a-solar-heavy-political-plan-that-puts-green-industry-insiders-ahead-of-taxpayers-pushes-utility-scale-solar-onto-state-land/"
+},
+{
+"text": "Volunteer",
+"href": "https://carboneforaz.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://carboneforaz.com"
+},
+{
+"text": "twitter / X",
+"href": "https://www.twitter.com/MichaelCarbone"
+}
 ]

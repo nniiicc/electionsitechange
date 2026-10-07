@@ -1,15 +1,50 @@
 [
-"https://davidsonforcongress.com/",
-"https://davidsonforcongress.com/about-warren",
-"https://davidsonforcongress.com/district",
-"https://davidsonforcongress.com/issues",
-"https://davidsonforcongress.com/privacy-policy",
-"https://davidsonforcongress.com/privacy-policy/[cm_site_url]",
-"https://davidsonforcongress.com/shop",
-"https://davidsonforcongress.com/volunteer",
-"https://facebook.com/CongressmanWarrenDavidson",
-"https://instagram.com/repwarrendavidson",
-"https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab",
-"https://x.com/WarrenDavidson",
-"https://youtube.com/@congressmanwarrendavidson2640?si=uiAhrWxxJbXFYTLO"
+{
+"text": "About Warren",
+"href": "https://www.davidsonforcongress.com/about-warren/"
+},
+{
+"text": "District",
+"href": "https://www.davidsonforcongress.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/davidson-for-congress/general-fund-c190511c3c1ea845988ab"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/CongressmanWarrenDavidson/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repwarrendavidson"
+},
+{
+"text": "Issues",
+"href": "https://www.davidsonforcongress.com/issues/"
+},
+{
+"text": "Shop",
+"href": "https://www.davidsonforcongress.com/shop/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.davidsonforcongress.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/WarrenDavidson"
+},
+{
+"text": "Youtube",
+"href": "https://youtube.com/@congressmanwarrendavidson2640?si=uiAhrWxxJbXFYTLO"
+},
+{
+"text": "[cm_site_name]",
+"href": "https://www.davidsonforcongress.com/privacy-policy/%5Bcm_site_url%5D"
+},
+{
+"text": "[image]",
+"href": "https://www.davidsonforcongress.com"
+}
 ]

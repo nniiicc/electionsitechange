@@ -1,18 +1,70 @@
 [
-"https://briggsforsenate.com/",
-"https://briggsforsenate.com/about",
-"https://briggsforsenate.com/contact",
-"https://briggsforsenate.com/endorsements",
-"https://briggsforsenate.com/issues",
-"https://briggsforsenate.com/news",
-"https://briggsforsenate.com/privacy",
-"https://briggsforsenate.com/volunteer",
-"https://compassknox.com/2022/09/06/election-2022-7th-state-senate-district",
-"https://facebook.com/RichardBriggsTN",
-"https://instagram.com/senatorbriggstn",
-"https://nashvillebanner.com/2026/06/29/tennessee-thca-ban-law-facts",
-"https://secure.winred.com/briggsforsenate/donate?sc=website-menu",
-"https://tennesseelookout.com/2026/06/10/tennessee-republican-senator-wants-to-change-book-ban-law",
-"https://wapp.capitol.tn.gov/apps/DistrictMaps?district=S7&ga=114",
-"https://x.com/SenatorBriggs"
+{
+"text": "7th District",
+"href": "https://wapp.capitol.tn.gov/apps/DistrictMaps/?district=S7&ga=114"
+},
+{
+"text": "About",
+"href": "https://www.briggsforsenate.com/about/"
+},
+{
+"text": "Briggs called for",
+"href": "https://tennesseelookout.com/2026/06/10/tennessee-republican-senator-wants-to-change-book-ban-law/"
+},
+{
+"text": "Contact",
+"href": "https://www.briggsforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/briggsforsenate/donate?sc=website-menu"
+},
+{
+"text": "Endorsements",
+"href": "https://www.briggsforsenate.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.briggsforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.briggsforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.briggsforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.briggsforsenate.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.briggsforsenate.com/volunteer/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RichardBriggsTN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senatorbriggstn/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/SenatorBriggs"
+},
+{
+"text": "[image]",
+"href": "https://www.briggsforsenate.com/"
+},
+{
+"text": "ban on THCA products",
+"href": "https://nashvillebanner.com/2026/06/29/tennessee-thca-ban-law-facts/"
+},
+{
+"text": "right here",
+"href": "https://compassknox.com/2022/09/06/election-2022-7th-state-senate-district/"
+}
 ]

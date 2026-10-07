@@ -1,7 +1,9 @@
 {
  "description": "Order your yard sign today!",
  "final_url": "https://www.morganfortexas.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "2d4f63fc8e616d37997c42889ff3e36d07e9bac4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Yard Sign | Morgan for Texas",
  "years_mentioned": []
 }

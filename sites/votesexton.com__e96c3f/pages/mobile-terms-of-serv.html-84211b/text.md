@@ -1,37 +1,25 @@
-Mobile Terms and Conditions
-Tom Sexton for MN House is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply "STOP" to any mobile message from Us in order to opt out of the Program.
-• By signing up for the program through a form provided or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
+Home About Tom Issues Get Involved Events Endorsements DONATE Mobile Terms and Conditions Tom Sexton for MN House is offering a mobile messaging program (the "Program"), subject to these Mobile Messaging Terms and Conditions (the "Terms").
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply "STOP" to any mobile message from Us in order to opt out of the Program. • By signing up for the program through a form provided or by giving your information to Us at an in-person event, you are giving your express consent, and opting in to receive automated text messages, alerts, and updates at the phone number you provided.
 Regardless of your opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
-By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from Us.
-• We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your mobile service operator.
-SMS MESSAGE SERVICES ARE PROVIDED ON AN "AS IS" BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED.
-• Carriers and our service providers are not liable for delayed or undelivered messages.
-• Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, and the date, time and content of your messages, as well as other information that you provide.
+By opting-in you agree to receive autodialed marketing mobile messages and you understand that your consent to be contacted in this method is not required to make any purchase from Us. • We will not be liable for any delays in the receipt of any SMS messages as delivery is subject to effective transmission from your mobile service operator.
+SMS MESSAGE SERVICES ARE PROVIDED ON AN "AS IS" BASIS, AND WE MAKE NO WARRANTY, EXPRESS OR IMPLIED, AND ALL WARRANTIES, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR PARTICULAR PURPOSE, ARE HEREBY EXPRESSLY DISCLAIMED. • Carriers and our service providers are not liable for delayed or undelivered messages. • Data obtained from you in connection with this SMS service may include your cell phone number, your carrier's name, and the date, time and content of your messages, as well as other information that you provide.
 We may use this information to contact you and to provide the services you request from us.
 If you change, forfeit, or deactivate the phone number you have provided to us, you agree to notify Us immediately.
-Failure to do so constitutes a material breach of these SMS Terms.
-• For additional information regarding use of information collected in connection with the Program, please refer to the Privacy Policy below.
-• By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice.
-• To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
-You will receive a subsequent message confirming your opt-out request.
-• For additional help, text HELP in reply to a text message you receive.
-• Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Sprint, Metro®, Boost, Virgin Mobile USA & U.S.
-Cellular®, among others.
-• Message and Data Rates May Apply.
-• By signing up, you are confirming you are over the age of 18, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions.
-• Program Availability: the Program is only available to residents of the United States.
+Failure to do so constitutes a material breach of these SMS Terms. • For additional information regarding use of information collected in connection with the Program, please refer to the Privacy Policy below. • By subscribing or otherwise using the service, you acknowledge and agree that we will have the right to change and/or terminate the service at any time, with or without cause and/or advance notice. • To cancel your SMS subscriptions, text STOP in reply to any text message you receive.
+You will receive a subsequent message confirming your opt-out request. • For additional help, text HELP in reply to a text message you receive. • Supported carriers may change from time to time, but currently include Verizon Wireless, AT&T, T-Mobile®, Sprint, Metro®, Boost, Virgin Mobile USA & U.S.
+Cellular®, among others. • Message and Data Rates May Apply. • By signing up, you are confirming you are over the age of 18, and are either the wireless account subscriber or have the permission of the wireless account subscriber to send and receive text messages under these Terms and Conditions. • Program Availability: the Program is only available to residents of the United States.
 You understand and acknowledge that you may not sign up for, access, or attempt to access or use the Program from countries outside of the U.S.
 You agree to abide by U.S. and other applicable export control laws and not to transfer, by electronic transmission or otherwise, any content or software subject to restrictions under such laws to a national destination or person prohibited under such laws.
-Privacy
-Mobile and Email Messaging Privacy Policy: We respect your privacy.
+Privacy Mobile and Email Messaging Privacy Policy : We respect your privacy.
 This Mobile and Email Messaging Privacy Policy describes any personal information that We collect or receive when you choose to participate in the Program, how We use or disclose your information, and your rights related to your personal information.
 This Privacy Policy applies to all personal information collected, used, or shared by us when you opt-in to the Program and is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please contact Us if you have any questions about the information in this Privacy Policy.
-Information We Collect and How We Use It: The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
+Information We Collect and How We Use It : The personal information We may collect, includes your name, phone number, email address and certain marketing preferences.
 We may also collect data with respect to confirmation that a message has been delivered to you, confirmation that you have read a message, and related information.
 We may use the information for the following purposes: (1) provide the Program and related customer service; (2) deliver information about party and candidates and events (3) improve the Program and services, (4) prevent fraud and comply with law, and (5) protect the security of Our systems.
 We may combine the personal information We obtain through your participation in the Program with offline or other online personal information We retain about you.
 When We Share Your Information: WE DO NOT SELL, RENT, LOAN, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR PERSONAL INFORMATION COLLECTED OR RECEIVED THROUGH THE PROGRAM TO ANY THIRD PARTY.
 However, We may share your personal information with the third-party text messaging platform provider or other trusted service partners as may be necessary to send you messages under the Program and these Terms.
-We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
+We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property. ﻿ ﻿﻿ ﻿ Mobile Terms & Privacy - Contact Us Prepared and paid for by the Campaign for Thomas J.
+Sexton Thomas Sexton is a veteran of the United States Air Force.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the United States Air Force or the Department of Defense.

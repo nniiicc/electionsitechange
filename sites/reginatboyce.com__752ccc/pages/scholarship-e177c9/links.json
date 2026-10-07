@@ -1,16 +1,62 @@
 [
-"http://mdelect.net/",
-"http://mhec.state.md.us/preparing/Pages/FinancialAid/index.aspx",
-"https://facebook.com/reginatboyce43",
-"https://instagram.com/reginatboyce",
-"https://reginatboyce.com/",
-"https://reginatboyce.com/about",
-"https://reginatboyce.com/about-regina",
-"https://reginatboyce.com/district43a",
-"https://reginatboyce.com/events",
-"https://reginatboyce.com/new-page-4",
-"https://reginatboyce.com/scholarship",
-"https://reginatboyce.com/search",
-"https://secure.actblue.com/donate/reginatboyce",
-"https://twitter.com/reginatboyce"
+{
+"text": "About Regina!",
+"href": "https://www.reginatboyce.com/about-regina"
+},
+{
+"text": "District 43A",
+"href": "https://www.reginatboyce.com/district43a"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/reginatboyce"
+},
+{
+"text": "Events",
+"href": "https://www.reginatboyce.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.reginatboyce.com/"
+},
+{
+"text": "In The News",
+"href": "https://www.reginatboyce.com/about"
+},
+{
+"text": "Maryland Higher Education Commission’s Programs and Applications webpage",
+"href": "http://www.mhec.state.md.us/preparing/Pages/FinancialAid/index.aspx"
+},
+{
+"text": "Record of Service",
+"href": "https://www.reginatboyce.com/new-page-4"
+},
+{
+"text": "Scholarship",
+"href": "https://www.reginatboyce.com/scholarship"
+},
+{
+"text": "[image: Regina T. Boyce]",
+"href": "https://www.reginatboyce.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reginatboyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reginatboyce43/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reginatboyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reginatboyce.com/search"
+},
+{
+"text": "enter your address here to determine your legislative district",
+"href": "http://www.mdelect.net/"
+}
 ]

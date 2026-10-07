@@ -1,7 +1,6 @@
-Increasing Transparency with New School Audit Bill
-Regular audits not only enhance accountability but also reinforce community confidence in the integrity of our education system.
-By Representative Jordan Ridley
-I'm proud to share some exciting news from the Capitol—House Bill 845 has officially passed in the Georgia House.
+top of page Home Meet Jordan Issues The Ridley Report Contact Menu Close Donate All Posts Increasing Transparency with New School Audit Bill Rep.
+Jordan Ridley Mar 31, 2025 1 min read Regular audits not only enhance accountability but also reinforce community confidence in the integrity of our education system.
+By Representative Jordan Ridley I'm proud to share some exciting news from the Capitol—House Bill 845 has officially passed in the Georgia House.
 This local measure will establish the role of an internal auditor for the Cherokee County Board of Education.
 This bill is about one thing: transparency — and the support it has received in the House reinforces our shared commitment to ensuring efficient and accountable government.
 By implementing regular performance and financial audits, we’re taking meaningful steps to ensure our school system operates with integrity, efficiency, and accountability.
@@ -12,3 +11,4 @@ I look forward to working with my colleagues in the Senate to see this legislati
 Our community, our parents and our students deserve nothing less.
 Read the full bill here.
 Read the House Press Release here.
+Recent Posts See All The "Ayes" of March About the 'Justice for Peanut and Fred Act' Paid for by Friends of Jordan Ridley Privacy Policy Home Meet Jordan Issues The Ridley Report Contact bottom of page

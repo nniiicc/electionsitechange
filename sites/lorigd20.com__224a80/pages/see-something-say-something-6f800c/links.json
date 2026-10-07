@@ -1,19 +1,90 @@
 [
-"https://facebook.com/charkoudian.lorig",
-"https://instagram.com/lorigcharkoudian?hl=en",
-"https://lorigd20.com/",
-"https://lorigd20.com/about-4",
-"https://lorigd20.com/community-resources",
-"https://lorigd20.com/contact",
-"https://lorigd20.com/delegate-scholarship",
-"https://lorigd20.com/donate",
-"https://lorigd20.com/get-involved",
-"https://lorigd20.com/immigration-resources",
-"https://lorigd20.com/legislation",
-"https://lorigd20.com/news",
-"https://lorigd20.com/power-in-the-park",
-"https://lorigd20.com/precinct-official-information",
-"https://lorigd20.com/see-something-say-something",
-"https://lorigd20.com/subscribe",
-"https://twitter.com/LCharkoudian"
+{
+"text": "About",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "About Lorig",
+"href": "https://www.lorigd20.com/about-4"
+},
+{
+"text": "Contact",
+"href": "https://www.lorigd20.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.lorigd20.com/donate"
+},
+{
+"text": "Delegate Scholarship",
+"href": "https://www.lorigd20.com/delegate-scholarship"
+},
+{
+"text": "Events",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "Home",
+"href": "https://www.lorigd20.com/see-something-say-something"
+},
+{
+"text": "Immigration Resources",
+"href": "https://www.lorigd20.com/immigration-resources"
+},
+{
+"text": "Legislation",
+"href": "https://www.lorigd20.com/legislation"
+},
+{
+"text": "Newsroom",
+"href": "https://www.lorigd20.com/news"
+},
+{
+"text": "Power in the Park",
+"href": "https://www.lorigd20.com/power-in-the-park"
+},
+{
+"text": "Precinct Official Information",
+"href": "https://www.lorigd20.com/precinct-official-information"
+},
+{
+"text": "Resources/Scholarship",
+"href": "https://www.lorigd20.com/community-resources"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.lorigd20.com/subscribe"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lorigd20.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/charkoudian.lorig"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lorigcharkoudian/?hl=en"
+},
+{
+"text": "[image: Screen Shot 2021-11-21 at 4.58.01 PM.png]",
+"href": "https://www.lorigd20.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/LCharkoudian"
+},
+{
+"text": "friendsoflorig@gmail.com",
+"href": "mailto:friendsoflorig@gmail.com"
+}
 ]

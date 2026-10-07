@@ -1,15 +1,58 @@
 [
-"http://taxcreditsvt.org/",
-"https://essexvt.gov/1245/Reappraisal-Tax-Billing-Q-A",
-"https://lorihoughton.com/",
-"https://lorihoughton.com/about-lori.html",
-"https://lorihoughton.com/cdn-cgi/l/email-protection",
-"https://lorihoughton.com/community-resources.html",
-"https://lorihoughton.com/news.html",
-"https://lorihoughton.com/news/june-08th-2026",
-"https://lorihoughton.com/priorities.html",
-"https://lorihoughton.com/voter-information.html",
-"https://secure.actblue.com/donate/lorihoughton-for-vt-house-1",
-"https://tax.vermont.gov/individuals/free-tax-preparation-assistance",
-"https://tax.vermont.gov/myvtax/homestead-declaration-property-tax-credit"
+{
+"text": "About Lori",
+"href": "https://www.lorihoughton.com/about-lori.html"
+},
+{
+"text": "Click Here to Read: 2026 Legislative Session: A Year in Review",
+"href": "https://www.lorihoughton.com/news/june-08th-2026"
+},
+{
+"text": "Community Resources",
+"href": "https://www.lorihoughton.com/community-resources.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lorihoughton-for-vt-house-1"
+},
+{
+"text": "Home",
+"href": "https://www.lorihoughton.com/"
+},
+{
+"text": "News",
+"href": "https://www.lorihoughton.com/news.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.lorihoughton.com/priorities.html"
+},
+{
+"text": "Reappraisal & Tax Billing Q & A | Essex, VT",
+"href": "https://www.essexvt.gov/1245/Reappraisal-Tax-Billing-Q-A"
+},
+{
+"text": "TaxCreditsVT.org",
+"href": "http://taxcreditsvt.org/"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.lorihoughton.com/voter-information.html"
+},
+{
+"text": "[email protected]",
+"href": "https://www.lorihoughton.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.lorihoughton.com/"
+},
+{
+"text": "homestead declaration",
+"href": "https://tax.vermont.gov/myvtax/homestead-declaration-property-tax-credit"
+},
+{
+"text": "volunteer tax preparers",
+"href": "https://tax.vermont.gov/individuals/free-tax-preparation-assistance"
+}
 ]

@@ -1,5 +1,17 @@
-Burlington Citywide Reappraisal Project Update
-Dear Neighbors, As residents of the New North End, we should be very proud of having great properties and neighborhoods.
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: blog Burlington Citywide Reappraisal Project Update Posted on March 17, 2021 March 17, 2021 Dear Neighbors, As residents of the New North End, we should be very proud of having great properties and neighborhoods.
 Below is information about the City Appraisal Project with important dates and questions to consider.
 The City of Burlington has secured over $1.1 million in funding a citywide Reappraisal Project.
-Appraisals are used to determine Read More …
+Appraisals are used to determine Read More … Categories Ali , blog Open Burning and Outside Fires Posted on November 3, 2020 January 6, 2021 This memorandum is intended to answer questions regarding open burning and outside fires in the City of Burlington.
+As a reminder, Burlington Code of Ordinances Chapter 13-3 prohibits fires as a means of fire prevention in our community since 1977.
+The primary hazard here is ignition of structures or vegetation by direct fire spread or Read More … Categories Ali , blog Call to protestors to pause the protest and organize for long-term systemic change Posted on September 10, 2020 January 6, 2021 This moment has been a long time coming.
+In 2018, several young black men suffered due to the unnecessary use of force by Burlington police officers.
+As elected officials we were not aware of these incidents until eight months after the incidents occurred and inappropriate discipline had already been applied by the former chief of Read More … Categories Ali , blog Let’s Work Together Posted on August 24, 2020 January 6, 2021 In these times of deep political discord, anger and confusion along with rising hatred and sometimes silence in response, we can each individually grow, learn from our mistakes, take responsibility for our judgment, and hold each other accountable while also striving to do better for the sake of future generations.
+The killing of George Floyd Read More … Categories Ali , blog Reinvesting in Burlington Telecom Posted on February 17, 2020 January 6, 2021 Many of my constituents may have questions about whether or not the City of Burlington should reinvest in Burlington Telecom.
+Burlington Telecom was sold to Schurz Communications for $30.8 million (the process began in 2017 and was finalized in 2019).
+Schurz Communications is a corporate company based in Indiana.
+When I joined the Burlington City Read More … Categories Ali , blog Diversity, Equity and Inclusion Resolution Posted on July 15, 2019 January 6, 2021 I am extremely pleased and honored to be able to introduce a Diversity, Equity and Inclusion Resolution at tonight’s City Council meeting.
+Please find resolution linked below. https://go.boarddocs.com/vt/burlingtonvt/Board.nsf/files/BDYN795E8374/$file/City%20Council%20%E2%80%93%20Racial%20Equity%2C%20Diversity%20and%20Inclusion.pdf Burlington prides itself on being a welcoming and inclusive community.
+As the largest and most diverse city in the State of Vermont, we have the opportunity to Read More … Categories Ali , blog Post navigation ← Older posts DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

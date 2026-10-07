@@ -1,59 +1,242 @@
 [
-"https://314action.org/",
-"https://314action.org/candidates/state-municipal",
-"https://afscmemn.org/election",
-"https://annjohnsonstewart.com/",
-"https://annjohnsonstewart.com/contact",
-"https://annjohnsonstewart.com/endorsements",
-"https://annjohnsonstewart.com/meet-ann",
-"https://annjohnsonstewart.com/priorities",
-"https://annjohnsonstewart.com/volunteer",
-"https://blet.org/",
-"https://boundarywatersaction.org/",
-"https://boundarywatersaction.org/endorsements",
-"https://carpenters.org/regional-council/north-central-states-regional-council",
-"https://cleanwater.org/be-clean-water-voter-2026-minnesota-endorsements",
-"https://cleanwater.org/states/minnesota",
-"https://cmvotercenter.org/",
-"https://dflec.org/endorsements",
-"https://dflseniors.org/",
-"https://edmnvotes.org/voter-guide",
-"https://educationminnesota.org/",
-"https://emilyslist.org/",
-"https://emilyslist.org/state-and-local-candidates",
-"https://facebook.com/annjohnsonstewartformnsenate",
-"https://flic.kr/ps/47UZo1",
-"https://friendsaction-bwca.org/",
-"https://friendsaction-bwca.org/2026-endorsements",
-"https://genderjusticeaction.us/gjapac",
-"https://giffords.org/",
-"https://giffords.org/candidates/minnesota-state-legislature",
-"https://ibew.org/",
-"https://indivisiblewestmetro.substack.com/p/our-local-endorsements?r=4jhdx9",
-"https://instagram.com/annjsmn",
-"https://janepac.com/",
-"https://janepac.com/endorsements",
-"https://jc32.org/",
-"https://jc32.org/drive.html",
-"https://liunaminnesota.org/en",
-"https://mape.org/",
-"https://mape.org/mape-pac-endorsements",
-"https://mnaflcio.org/",
-"https://mnaflcio.org/news/2026-minnesota-afl-cio-endorsed-candidates",
-"https://mnfuturefund.org/",
-"https://mnslb.org/endorsements",
-"https://mnstonewalldfl.org/2026-endorsed-candidates",
-"https://momsdemandaction.org/",
-"https://nmcarpenters.com/",
-"https://nursescarenursesvote.com/endorsed-2026-minnesota-senate-candidates",
-"https://outfrontpac.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-minnesota-advocate",
-"https://prochoiceminnesota.org/",
-"https://secure.actblue.com/donate/ann-johnson-stewart-senate-committtee-1",
-"https://seiuhealthcaremn.org/",
-"https://seiumn.org/endorsements/seiu-2026-endorsements",
-"https://sierraclub.org/minnesota",
-"https://sites.google.com/view/indivisiblewestmetro/home?authuser=0",
-"https://womenwinning.org/",
-"https://womenwinning.org/endorsed-candidates"
+{
+"text": "314 Action",
+"href": "https://314action.org/"
+},
+{
+"text": "314 Action Endorsement",
+"href": "https://www.314action.org/candidates/state-municipal/"
+},
+{
+"text": "AFSCME Council 5",
+"href": "https://afscmemn.org/election"
+},
+{
+"text": "AFSCME Council 5 Endorsement",
+"href": "https://afscmemn.org/election"
+},
+{
+"text": "BLET Endorsement",
+"href": "https://mnslb.org/endorsements/"
+},
+{
+"text": "Brotherhood of Locomotive Engineers and Trainemen (BLET)",
+"href": "https://blet.org/"
+},
+{
+"text": "Clean Water Action Minnesota",
+"href": "https://cleanwater.org/states/minnesota"
+},
+{
+"text": "Clean Water Action Minnesota Endorsement",
+"href": "https://cleanwater.org/be-clean-water-voter-2026-minnesota-endorsements"
+},
+{
+"text": "Conservation Minnesota Voter Center",
+"href": "https://www.cmvotercenter.org/"
+},
+{
+"text": "Contact",
+"href": "https://annjohnsonstewart.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ann-johnson-stewart-senate-committtee-1"
+},
+{
+"text": "DFL Environmental Caucus Endorsement",
+"href": "https://dflec.org/endorsements/"
+},
+{
+"text": "Education Minnesota",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "Education Minnesota Endorsement",
+"href": "https://www.edmnvotes.org/voter-guide/"
+},
+{
+"text": "Emily’s List",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "Emily’s List Endorsement",
+"href": "https://emilyslist.org/state-and-local-candidates/"
+},
+{
+"text": "Endorsement",
+"href": "https://friendsaction-bwca.org/2026-endorsements"
+},
+{
+"text": "Endorsement",
+"href": "https://womenwinning.org/endorsed-candidates/"
+},
+{
+"text": "Endorsement",
+"href": "https://www.boundarywatersaction.org/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://annjohnsonstewart.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://flic.kr/ps/47UZo1"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/annjohnsonstewartformnsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/annjsmn/"
+},
+{
+"text": "Friends of the Boundary Waters Action Network",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "Gender Justice Action PAC Endorsement",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "Get Involved",
+"href": "https://annjohnsonstewart.com/volunteer/"
+},
+{
+"text": "Gifford PAC",
+"href": "https://giffords.org/"
+},
+{
+"text": "Gifford PAC’s Endorsement",
+"href": "https://giffords.org/candidates/minnesota-state-legislature/"
+},
+{
+"text": "Home",
+"href": "https://annjohnsonstewart.com/"
+},
+{
+"text": "Indivisible West Metro",
+"href": "https://sites.google.com/view/indivisiblewestmetro/home?authuser=0"
+},
+{
+"text": "Indivisible West Metro’s Endorsement",
+"href": "https://indivisiblewestmetro.substack.com/p/our-local-endorsements?r=4jhdx9"
+},
+{
+"text": "International Brotherhood of Electrical Workers",
+"href": "https://ibew.org/"
+},
+{
+"text": "Jane Fonda Climate PAC",
+"href": "https://www.janepac.com/"
+},
+{
+"text": "Jane Fonda Climate PAC Endorsement",
+"href": "https://www.janepac.com/endorsements"
+},
+{
+"text": "LIUNA",
+"href": "https://liunaminnesota.org/en/"
+},
+{
+"text": "MAPE PAC Endorsement",
+"href": "https://mape.org/mape-pac-endorsements"
+},
+{
+"text": "MN AFL-CIO Endorsement",
+"href": "https://mnaflcio.org/news/2026-minnesota-afl-cio-endorsed-candidates"
+},
+{
+"text": "MN Future Fund",
+"href": "https://mnfuturefund.org/"
+},
+{
+"text": "MNA Endorsement",
+"href": "https://nursescarenursesvote.com/endorsed-2026-minnesota-senate-candidates/"
+},
+{
+"text": "Meet Ann",
+"href": "https://annjohnsonstewart.com/meet-ann/"
+},
+{
+"text": "Minnesota AFL-CIO",
+"href": "https://mnaflcio.org/"
+},
+{
+"text": "Minnesota Association of Professional Employees (MAPE)",
+"href": "https://mape.org/"
+},
+{
+"text": "Minnesota DFL Senior Caucus",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "Mom’s Demand Action",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "North Central States Regional Council of Carpenters",
+"href": "https://www.carpenters.org/regional-council/north-central-states-regional-council/"
+},
+{
+"text": "Northern Midwest Regional Council of Carpenters",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "OutFront Minnesota Action",
+"href": "https://outfrontpac.org/"
+},
+{
+"text": "Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-minnesota-advocate"
+},
+{
+"text": "Priorities",
+"href": "https://annjohnsonstewart.com/priorities/"
+},
+{
+"text": "Pro-Choice Minnesota",
+"href": "https://www.prochoiceminnesota.org/"
+},
+{
+"text": "Pro-Choice Minnesota Link",
+"href": "https://www.prochoiceminnesota.org/"
+},
+{
+"text": "SEIU Endorsement",
+"href": "https://www.seiumn.org/endorsements/seiu-2026-endorsements"
+},
+{
+"text": "Save the Boundary Waters Action Fund",
+"href": "https://www.boundarywatersaction.org/"
+},
+{
+"text": "Service Employees International Union (SEIU) Minnesota",
+"href": "https://www.seiuhealthcaremn.org/"
+},
+{
+"text": "Sierra Club North Star Chapter",
+"href": "https://www.sierraclub.org/minnesota"
+},
+{
+"text": "Stonewall DFL Endorsement",
+"href": "https://mnstonewalldfl.org/2026-endorsed-candidates/"
+},
+{
+"text": "Teamsters Joint Council 32 DRIVE and Executive Boards",
+"href": "https://www.jc32.org/"
+},
+{
+"text": "Teamsters Joint Council 32 Endorsement",
+"href": "https://www.jc32.org/drive.html"
+},
+{
+"text": "Women Winning",
+"href": "https://womenwinning.org/"
+},
+{
+"text": "[image]",
+"href": "https://annjohnsonstewart.com/"
+}
 ]

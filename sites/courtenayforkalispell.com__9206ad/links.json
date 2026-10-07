@@ -1,10 +1,42 @@
 [
-"https://courtenayforkalispell.com/",
-"https://courtenayforkalispell.com/connect",
-"https://courtenayforkalispell.com/contribute",
-"https://courtenayforkalispell.com/issues",
-"https://courtenayforkalispell.com/my-story",
-"https://courtenayforkalispell.com/news",
-"https://facebook.com/CourtenayForKalispell",
-"https://instagram.com/courtenayforkalispell"
+{
+"text": "Connect",
+"href": "https://www.courtenayforkalispell.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://www.courtenayforkalispell.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.courtenayforkalispell.com"
+},
+{
+"text": "Issues",
+"href": "https://www.courtenayforkalispell.com/issues"
+},
+{
+"text": "My Story",
+"href": "https://www.courtenayforkalispell.com/my-story"
+},
+{
+"text": "News",
+"href": "https://www.courtenayforkalispell.com/news"
+},
+{
+"text": "Read the full story",
+"href": "https://www.courtenayforkalispell.com/my-story"
+},
+{
+"text": "Tell me more...",
+"href": "https://www.courtenayforkalispell.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CourtenayForKalispell"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/courtenayforkalispell"
+}
 ]

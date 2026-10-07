@@ -1,1 +1,2 @@
-Let us know your comments on specific issues, share your opinions on policies. or leave a general comment for Cole.
+issues meet cole Home support cole MAKE A SUGGESTION BE HEARD YOUR VOICE MATTERS Let us know your comments on specific issues, share your opinions on policies. or leave a general comment for Cole.
+ISSUES MEET COLE Home Privacy policy terms of use Early Voting Thursday, June 11th 8AM - 6PM Friday, June 12th 8AM - 6PM Saturday, June 13th 8AM - 2PM Election Day Tuesday, June 16th 7AM - 7PM cole@stevensok.com Navigation ELECTION INFO ConnecT support cole published and paid for by Stevens for OK House 2026 © Stevens for OK House # follow on issues meet cole Home support cole make a suggestion

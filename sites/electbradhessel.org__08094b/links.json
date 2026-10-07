@@ -1,60 +1,318 @@
 [
-"http://event/",
-"https://electbradhessel.org/",
-"https://electbradhessel.org/2023/10/12",
-"https://electbradhessel.org/2023/12/16",
-"https://electbradhessel.org/2024/01/02",
-"https://electbradhessel.org/2024/06/14",
-"https://electbradhessel.org/2024/07/23",
-"https://electbradhessel.org/2026/09/04",
-"https://electbradhessel.org/category/announcements",
-"https://electbradhessel.org/category/lpnc",
-"https://electbradhessel.org/category/media",
-"https://electbradhessel.org/category/news",
-"https://electbradhessel.org/category/policy",
-"https://electbradhessel.org/category/press-release",
-"https://electbradhessel.org/cookie-policy",
-"https://electbradhessel.org/events",
-"https://electbradhessel.org/lpnc/anti-war-resources",
-"https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races",
-"https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press",
-"https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18",
-"https://electbradhessel.org/meet",
-"https://electbradhessel.org/meet/district",
-"https://electbradhessel.org/meet/people-not-politics",
-"https://electbradhessel.org/news",
-"https://electbradhessel.org/news/hessel-touts-instant-runoff-voting",
-"https://electbradhessel.org/news/pcs",
-"https://electbradhessel.org/priorities",
-"https://electbradhessel.org/priorities/abolish-the-abc",
-"https://electbradhessel.org/priorities/cost-effective-conservation",
-"https://electbradhessel.org/priorities/cost-effective-healthcare",
-"https://electbradhessel.org/priorities/defend-the-guard",
-"https://electbradhessel.org/priorities/electoral-reform-gerrymandering",
-"https://electbradhessel.org/priorities/electoral-reform-independent-voters",
-"https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting",
-"https://electbradhessel.org/priorities/expanded-housing-market",
-"https://electbradhessel.org/priorities/problem-solvers-caucus",
-"https://electbradhessel.org/priorities/restorative-justice",
-"https://electbradhessel.org/priorities/smarter-education",
-"https://electbradhessel.org/priorities/stronger-economy",
-"https://electbradhessel.org/privacy-policy",
-"https://electbradhessel.org/take-action",
-"https://electbradhessel.org/take-action/donate",
-"https://electbradhessel.org/take-action/volunteer",
-"https://electbradhessel.org/take-action/when-where-to-vote",
-"https://facebook.com/LPofNC",
-"https://facebook.com/elect.brad.hessel",
-"https://instagram.com/brad.hessel",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/ElectBradHessel",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://youtube.com/@BradHessel"
+{
+"text": "Abolish the ABC!",
+"href": "https://electbradhessel.org/priorities/abolish-the-abc/"
+},
+{
+"text": "Announcements",
+"href": "https://electbradhessel.org/category/announcements/"
+},
+{
+"text": "Contribute",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Contribute Give Now!",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Cost-Effective Healthcare",
+"href": "https://electbradhessel.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Cost-effective Conservation",
+"href": "https://electbradhessel.org/priorities/cost-effective-conservation/"
+},
+{
+"text": "December 16, 2023",
+"href": "https://electbradhessel.org/2023/12/16/"
+},
+{
+"text": "Defend The Guard",
+"href": "https://electbradhessel.org/priorities/defend-the-guard/"
+},
+{
+"text": "Donate",
+"href": "https://electbradhessel.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electbradhessel.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Electoral Reform—Gerrymandering",
+"href": "https://electbradhessel.org/priorities/electoral-reform-gerrymandering/"
+},
+{
+"text": "Electoral Reform—Independent Voters",
+"href": "https://electbradhessel.org/priorities/electoral-reform-independent-voters/"
+},
+{
+"text": "Electoral Reform—Instant Runoff Voting",
+"href": "https://electbradhessel.org/priorities/electoral-reform-instant-runoff-voting/"
+},
+{
+"text": "Envelope",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://electbradhessel.org/events/"
+},
+{
+"text": "Expanded Housing Market",
+"href": "https://electbradhessel.org/priorities/expanded-housing-market/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/elect.brad.hessel/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brad.hessel/"
+},
+{
+"text": "January 2, 2024",
+"href": "https://electbradhessel.org/2024/01/02/"
+},
+{
+"text": "July 23, 2024",
+"href": "https://electbradhessel.org/2024/07/23/"
+},
+{
+"text": "June 14, 2024",
+"href": "https://electbradhessel.org/2024/06/14/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC",
+"href": "https://electbradhessel.org/category/lpnc/"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Media",
+"href": "https://electbradhessel.org/category/media/"
+},
+{
+"text": "Meet",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://electbradhessel.org/meet/"
+},
+{
+"text": "News",
+"href": "https://electbradhessel.org/category/news/"
+},
+{
+"text": "News",
+"href": "https://electbradhessel.org/news/"
+},
+{
+"text": "No Comments",
+"href": "https://electbradhessel.org/lpnc/anti-war-resources/#respond"
+},
+{
+"text": "No Comments",
+"href": "https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/#respond"
+},
+{
+"text": "No Comments",
+"href": "https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/#respond"
+},
+{
+"text": "No Comments",
+"href": "https://electbradhessel.org/news/pcs/#respond"
+},
+{
+"text": "October 12, 2023",
+"href": "https://electbradhessel.org/2023/10/12/"
+},
+{
+"text": "People Not Politics",
+"href": "https://electbradhessel.org/meet/people-not-politics/"
+},
+{
+"text": "Policy",
+"href": "https://electbradhessel.org/category/policy/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Press Release",
+"href": "https://electbradhessel.org/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://electbradhessel.org/priorities/"
+},
+{
+"text": "Problem Solvers Caucus",
+"href": "https://electbradhessel.org/priorities/problem-solvers-caucus/"
+},
+{
+"text": "Restore Equal Justice",
+"href": "https://electbradhessel.org/priorities/restorative-justice/"
+},
+{
+"text": "Senate 18",
+"href": "https://electbradhessel.org/meet/district/"
+},
+{
+"text": "September 4, 2026",
+"href": "https://electbradhessel.org/2026/09/04/"
+},
+{
+"text": "Smarter Education",
+"href": "https://electbradhessel.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://electbradhessel.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://electbradhessel.org/take-action/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbradhessel.org/take-action/volunteer/"
+},
+{
+"text": "Volunteer Signup!",
+"href": "https://electbradhessel.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://electbradhessel.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/ElectBradHessel"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@BradHessel"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18/"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/news/hessel-touts-instant-runoff-voting/"
+},
+{
+"text": "[image: Brad Hessel - Libertarian Candidate for NC Senate 18]",
+"href": "https://electbradhessel.org/news/pcs/"
+},
+{
+"text": "[image: Libertarian Party Anti-War Resources - Love and Respect Everyone]",
+"href": "https://electbradhessel.org/lpnc/anti-war-resources/"
+},
+{
+"text": "[image: Libertarian Party Of North Carolina - logo]",
+"href": "https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "[image]",
+"href": "https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/lpnc/anti-war-resources/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/media/north-carolina-forward-party-endorses-hessel-for-nc-senate-18/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/news/hessel-touts-instant-runoff-voting/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/news/pcs/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/priorities/smarter-education/"
+},
+{
+"text": "[no text]",
+"href": "https://electbradhessel.org/priorities/stronger-economy/"
+},
+{
+"text": "[no text]",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+},
+{
+"text": "info@electbradhessel.org",
+"href": "mailto: info@electbradhessel.org"
+},
+{
+"text": "‪(919) 307-9413‬",
+"href": "tel:%E2%80%AA(919)%20307-9413%E2%80%AC"
+}
 ]

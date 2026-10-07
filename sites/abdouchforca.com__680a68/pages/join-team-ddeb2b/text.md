@@ -1,13 +1,6 @@
-Join the Team
-Stay informed & get updates on key issues and campaign events
-Sign up to volunteer, receive campaign updates, and help bring common sense back to California.
-Help Restore Common Sense
-California's families and small businesses face real hurdles, from rising costs of living to community safety concerns.
+Skip to content Home About Endorsements View Endorsements Add Endorsement Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Join the Team Stay informed & get updates on key issues and campaign events Sign up to volunteer, receive campaign updates, and help bring common sense back to California.
+Help Restore Common Sense California's families and small businesses face real hurdles, from rising costs of living to community safety concerns.
 Greg Abdouch is ready to stand as your common-sense voice in Sacramento—but winning requires a community working together.
-Join us to help build this movement from the ground up.
-- ✓Receive important campaign updates
-- ✓Learn about upcoming events & rallies
-- ✓Get volunteer opportunities locally
-- ✓Help restore common sense in CA
-“Real change doesn't start in Sacramento—it happens when everyday people in our communities decide to get involved.”
-— Greg Abdouch, Candidate for Assembly
+Join us to help build this movement from the ground up. ✓ Receive important campaign updates ✓ Learn about upcoming events & rallies ✓ Get volunteer opportunities locally ✓ Help restore common sense in CA “Real change doesn't start in Sacramento—it happens when everyday people in our communities decide to get involved.” — Greg Abdouch, Candidate for Assembly Endorse Greg | Donate | Back to homepage A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.
+Quick Links Home About Endorsements Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
+All Rights Reserved. | Privacy Policy | Team Portal Digital Strategy by GoSubmitto

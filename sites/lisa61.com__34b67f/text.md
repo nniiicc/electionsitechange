@@ -1,28 +1,18 @@
-Lisa is a proven, effective conservative servant leader and representative who is committed to serving the people of House District 61 in southwest Orem and west Provo.
+Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy More Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Sign in Account Signed in filler@godaddy.com Account Sign out Signed in filler@godaddy.com Home About Lisa Why Lisa?
+Education/Experience Lisa's Story Issues Principles/Issues Utah Constitution UCRP Platform District 61 Demographics HD61 Precinct Maps OREM HD61 Precinct Maps PROVO State House 61 Map Donate Volunteer Contact Privacy Policy Account Account Sign out Sign in Account Lisa's Servant Leadership Style Lisa is a proven, effective conservative servant leader and representative who is committed to serving the people of House District 61 in southwest Orem and west Provo.
 Since 1993, Lisa has diligently served our community in various partisan and nonpartisan leadership roles and was elected to the Utah House of Representatives in 2024.
 As a freshman legislator, Lisa takes on tough issues, works around the clock in a professional manner, and continues to stand strong for us and with us.
 Lisa is a proven collaborative legislative partner, seeking and finding common ground while holding firmly to conservative principles and values.
-When asked during the 2026 session why she never stops, Representative Shepherd responded:
-“There is no time to waste.
+When asked during the 2026 session why she never stops, Representative Shepherd responded: “There is no time to waste.
 We only have 45 days.
-I use every second available to get the job done and done right!”
-Effective servant leaders listen.
+I use every second available to get the job done and done right!” Lisa Listens and Shows Up Effective servant leaders listen.
 Lisa believes the best decisions begin by showing up.
 “Lisa’s Listening Tour” has continued throughout her first term, regularly meeting with constituents and intently listening to the issues firsthand.
 She also regularly meets with other stakeholders, and legislative partners preparing for the 2027 session.
 Her listening tour has included school visits and teacher events, meetings with Provo and Orem leaders, state agencies, constituent meetings on district issues, Utah Highway Patrol ride-alongs, facility tours across the state, and policy roundtables both in Utah and in DC, and so much more..
-As your representative, Lisa champions legislation that:
-- PRESERVES OUR FREEDOMS AND LIBERTIES
-- SUPPORTS AND DEFENDS 1st & 2nd Amendment
-- PRIORITIZES, PROTECTS, EMPOWERS UTAH CITIZENS
-- FOCUSES ON THE SEPARATION OF POWERS
-- PROTECTS WOMEN AND CHILDREN, FAMILY VALUES
-- SAFEGUARDS TAX RATE, TAX DOLLARS, AND ELECTIONS
-- ENHANCES GOVERNMENT TRANSPARENCY
-- ENFORCES LAW AND ORDER
-- SECURES DATA PRIVACY
-- BUILDS ENERGY INDEPENDENCE
-- STRENGTHENS INFRASTRUCTURE
-- REMOVES UNDUE BURDENS ON BUSINESS
-Paid for by Lisa Shepherd for State House
-Utah House District 61
+Lisa's Legislative Priorities As your representative, Lisa champions legislation that: PRESERVES OUR FREEDOMS AND LIBERTIES SUPPORTS AND DEFENDS 1st & 2nd Amendment PRIORITIZES, PROTECTS, EMPOWERS UTAH CITIZENS FOCUSES ON THE SEPARATION OF POWERS PROTECTS WOMEN AND CHILDREN, FAMILY VALUES SAFEGUARDS TAX RATE, TAX DOLLARS, AND ELECTIONS ENHANCES GOVERNMENT TRANSPARENCY ENFORCES LAW AND ORDER SECURES DATA PRIVACY BUILDS ENERGY INDEPENDENCE STRENGTHENS INFRASTRUCTURE REMOVES UNDUE BURDENS ON BUSINESS My Family!
+On to the 2026 General Election.
+Click On The Sign To Request A Sign Volunteer Contact Privacy Policy Convention Speech Paid for by Lisa Shepherd for State House Utah House District 61 801-787-8211 Copyright © # Lisa61 - All Rights Reserved.
+Powered by Thank YOU for the honor and privilege to serve!

@@ -1,27 +1,118 @@
 [
-"https://facebook.com/profile.php?id=61588004535584",
-"https://leman4mt.org/",
-"https://leman4mt.org/donate",
-"https://leman4mt.org/privacy",
-"https://leman4mt.org/story/ahead-of-my-time",
-"https://leman4mt.org/story/backing-the-front-lines",
-"https://leman4mt.org/story/breaking-down-the-silos",
-"https://leman4mt.org/story/building-my-own-path",
-"https://leman4mt.org/story/choosing-gallatin-gateway",
-"https://leman4mt.org/story/faith",
-"https://leman4mt.org/story/family",
-"https://leman4mt.org/story/freedom",
-"https://leman4mt.org/story/hard-work",
-"https://leman4mt.org/story/independence",
-"https://leman4mt.org/story/neighborliness",
-"https://leman4mt.org/story/protecting-the-environment",
-"https://leman4mt.org/story/raised-on-hard-work",
-"https://leman4mt.org/story/safety",
-"https://leman4mt.org/story/saving-lives-911-mapping",
-"https://leman4mt.org/story/starting-from-scratch",
-"https://leman4mt.org/terms",
-"https://nextdoor.com/page/greg-leman-for-montana",
-"https://truthinaccounting.org/library/doclib/MT-2024-2pager.pdf",
-"https://x.com/grillnggreg",
-"https://youtube.com/@GregLeman4Montana"
+{
+"text": "Ahead of My Time",
+"href": "https://leman4mt.org/story/ahead-of-my-time"
+},
+{
+"text": "Backing the Front Lines",
+"href": "https://leman4mt.org/story/backing-the-front-lines"
+},
+{
+"text": "Breaking Down the Silos",
+"href": "https://leman4mt.org/story/breaking-down-the-silos"
+},
+{
+"text": "Building My Own Path",
+"href": "https://leman4mt.org/story/building-my-own-path"
+},
+{
+"text": "Choosing Gallatin Gateway",
+"href": "https://leman4mt.org/story/choosing-gallatin-gateway"
+},
+{
+"text": "Donate",
+"href": "https://leman4mt.org/donate"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://leman4mt.org/donate"
+},
+{
+"text": "Faith",
+"href": "https://leman4mt.org/story/faith"
+},
+{
+"text": "Family",
+"href": "https://leman4mt.org/story/family"
+},
+{
+"text": "Freedom",
+"href": "https://leman4mt.org/story/freedom"
+},
+{
+"text": "Greg Leman",
+"href": "https://leman4mt.org"
+},
+{
+"text": "Hard Work",
+"href": "https://leman4mt.org/story/hard-work"
+},
+{
+"text": "Home",
+"href": "https://leman4mt.org"
+},
+{
+"text": "Independence",
+"href": "https://leman4mt.org/story/independence"
+},
+{
+"text": "Issues",
+"href": "https://leman4mt.org#issues"
+},
+{
+"text": "Montana's budget surplus from the last session was $3.5 Billion",
+"href": "https://www.truthinaccounting.org/library/doclib/MT-2024-2pager.pdf"
+},
+{
+"text": "Neighborliness",
+"href": "https://leman4mt.org/story/neighborliness"
+},
+{
+"text": "Privacy Policy",
+"href": "https://leman4mt.org/privacy"
+},
+{
+"text": "Protecting the Environment",
+"href": "https://leman4mt.org/story/protecting-the-environment"
+},
+{
+"text": "Raised on Hard Work",
+"href": "https://leman4mt.org/story/raised-on-hard-work"
+},
+{
+"text": "Safety",
+"href": "https://leman4mt.org/story/safety"
+},
+{
+"text": "Saving Lives With 911 Mapping",
+"href": "https://leman4mt.org/story/saving-lives-911-mapping"
+},
+{
+"text": "Starting From Scratch",
+"href": "https://leman4mt.org/story/starting-from-scratch"
+},
+{
+"text": "Terms of Service",
+"href": "https://leman4mt.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://leman4mt.org#volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://nextdoor.com/page/greg-leman-for-montana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588004535584"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GregLeman4Montana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/grillnggreg"
+}
 ]

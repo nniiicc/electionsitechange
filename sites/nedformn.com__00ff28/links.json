@@ -1,20 +1,94 @@
 [
-"https://facebook.com/CarrollCampaign",
-"https://instagram.com/nedcarrollformnhouse",
-"https://mobile.twitter.com/NedJCarroll",
-"https://nedformn.com/",
-"https://nedformn.com/endorsements",
-"https://nedformn.com/get-involved",
-"https://nedformn.com/meet-ned",
-"https://nedformn.com/priorities",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=10",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=100",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=1000",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=25",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=250",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=50",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=500",
-"https://techforcampaigns.org/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2"
+},
+{
+"text": "Endorsements",
+"href": "https://nedformn.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://nedformn.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://nedformn.com/"
+},
+{
+"text": "Learn More",
+"href": "https://nedformn.com/priorities/"
+},
+{
+"text": "Meet Ned",
+"href": "https://nedformn.com/meet-ned/"
+},
+{
+"text": "Minnesota Political Contribution Refund program",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Ned Carroll for House",
+"href": "https://nedformn.com/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2"
+},
+{
+"text": "Priorities",
+"href": "https://nedformn.com/priorities/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "[image: Ned Carroll for House]",
+"href": "https://nedformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://mobile.twitter.com/NedJCarroll"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarrollCampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nedcarrollformnhouse/"
+},
+{
+"text": "nedjcarroll@gmail.com",
+"href": "mailto:nedjcarroll@gmail.com"
+}
 ]

@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.mccombieforillinois.com/news/",
+ "fingerprint": "5d7d6c119729eefb2c81d18edc663377eb594e3d",
+ "format": 3,
  "paid_for_by": "Paid for by McCombie for Illinois",
  "title": "News - Tony McCombie for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

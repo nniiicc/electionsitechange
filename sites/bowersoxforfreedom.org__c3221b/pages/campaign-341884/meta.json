@@ -1,9 +1,12 @@
 {
  "description": "Campaign News, Press and Events News from the Campaign Events and Appearances",
  "final_url": "https://bowersoxforfreedom.org/campaign/",
+ "fingerprint": "9382618d01f86d2d4de6a60f023283730e5a7d2a",
+ "format": 3,
  "paid_for_by": "Paid for by the COMMITTEE TO PATRICK BOWERSOX",
  "title": "News - Patrick Bowersox S17",
  "years_mentioned": [
-  "2017"
+  "2017",
+  "2044"
  ]
 }

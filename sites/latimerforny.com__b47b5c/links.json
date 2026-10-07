@@ -1,27 +1,162 @@
 [
-"https://ballotapplication.elections.ny.gov/home/earlymail",
-"https://citizenparticipation.westchestergov.com/find-%20polling-place",
-"https://citizenparticipation.westchestergov.com/voting/early-voting-2024",
-"https://elections.ny.gov/VotingRegister.html",
-"https://facebook.com/LatimerforNY",
-"https://instagram.com/latimerforny",
-"https://latimerforny.com/",
-"https://latimerforny.com/bio",
-"https://latimerforny.com/cdn-cgi/l/email-protection",
-"https://latimerforny.com/priorities",
-"https://latimerforny.com/privacy",
-"https://latimerforny.com/volunteer",
-"https://latimerforny.com/wp-content/uploads/2023/12/Latimer_remittance_form.pdf",
-"https://ny.gov/services/register-vote",
-"https://nycvotes.org/how-to-vote/early-voting",
-"https://requestballot.vote.nyc/",
-"https://secure.actblue.com/donate/latimer-web",
-"https://secure.actblue.com/donate/latimer-web?amount=100",
-"https://secure.actblue.com/donate/latimer-web?amount=20",
-"https://secure.actblue.com/donate/latimer-web?amount=250",
-"https://secure.actblue.com/donate/latimer-web?amount=50",
-"https://secure.actblue.com/donate/latimer-web?amount=500",
-"https://twitter.com/LatimerforNY",
-"https://vote.nyc/page/find-your-poll-site",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=500"
+},
+{
+"text": "Bronx",
+"href": "https://requestballot.vote.nyc/"
+},
+{
+"text": "Bronx",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "Bronx",
+"href": "https://www.nycvotes.org/how-to-vote/early-voting/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@latimerforny.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Donate $20",
+"href": "https://secure.actblue.com/donate/latimer-web?amount=20"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LatimerforNY"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Follow On Facebook",
+"href": "https://www.facebook.com/LatimerforNY"
+},
+{
+"text": "Follow on X (Twitter)",
+"href": "https://twitter.com/LatimerforNY"
+},
+{
+"text": "Home",
+"href": "https://latimerforny.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/latimerforny"
+},
+{
+"text": "Meet George",
+"href": "https://latimerforny.com/bio/"
+},
+{
+"text": "Menu",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "NY Voter Registration Portal",
+"href": "https://www.elections.ny.gov/VotingRegister.html"
+},
+{
+"text": "Or, send a contribution in the mail",
+"href": "https://latimerforny.com/wp-content/uploads/2023/12/Latimer_remittance_form.pdf"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@latimerforny.com"
+},
+{
+"text": "Priorities",
+"href": "https://latimerforny.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://latimerforny.com/privacy/"
+},
+{
+"text": "Read George's Bio",
+"href": "https://latimerforny.com/bio/"
+},
+{
+"text": "Register to vote",
+"href": "https://www.ny.gov/services/register-vote"
+},
+{
+"text": "Sign Up To Volunteer",
+"href": "https://latimerforny.com/volunteer/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/LatimerforNY"
+},
+{
+"text": "Volunteer",
+"href": "https://latimerforny.com/volunteer/"
+},
+{
+"text": "Westchester",
+"href": "https://ballotapplication.elections.ny.gov/home/earlymail"
+},
+{
+"text": "Westchester",
+"href": "https://citizenparticipation.westchestergov.com/find-%20polling-place"
+},
+{
+"text": "Westchester",
+"href": "https://citizenparticipation.westchestergov.com/voting/early-voting-2024"
+},
+{
+"text": "[image]",
+"href": "https://latimerforny.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LatimerforNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LatimerforNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.ny.gov/services/register-vote"
+},
+{
+"text": "become a donor to George's Campaign →",
+"href": "https://secure.actblue.com/donate/latimer-web"
+},
+{
+"text": "become a founding donor →",
+"href": "https://secure.actblue.com/donate/latimer-web"
+}
 ]

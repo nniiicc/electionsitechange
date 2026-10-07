@@ -1,4 +1,4 @@
-31 years.
+Skip to content Home Priorities Meet Chris Blog Join Us Yard Sign Home Priorities Meet Chris Blog Join Us Yard Sign CONTRIBUTE Home Priorities Meet Chris Blog Join Us Yard Sign From the Cockpit to the Capitol: Why a Combat Veteran Is Running for Your State Legislature July 11, 2026 Please share this story in your social media or email contacts: Facebook X LinkedIn Email 31 years.
 B-52 combat missions.
 Legion of Merit.
 USSTRATCOM.
@@ -28,4 +28,10 @@ This mission is a vector from God and I intend to complete it.
 Know a veteran or military family in District 20?
 Share this story.
 Chris Anderson is one of us.
-#VeteransForAnderson#ServiceAboveSelf#NE20#MissionMatters
+#VeteransForAnderson#ServiceAboveSelf#NE20#MissionMatters Prev Previous FREEDOM FRIDAY BLOG FOR 19 JUNE 2026 Next Cut the Red Tape: State Overregulation Next Copyright © # Anderson For Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages and phone calls, including automated calls from Chris Anderson.
+Message & data rates may apply.
+Message frequency varies.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe PRIVACY POLICY | TERMS & CONDITIONS

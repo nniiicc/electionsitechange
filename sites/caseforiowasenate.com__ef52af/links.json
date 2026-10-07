@@ -1,17 +1,74 @@
 [
-"http://neatcreaturecreative.co/",
-"https://caseforiowasenate.com/",
-"https://caseforiowasenate.com/about",
-"https://caseforiowasenate.com/contact",
-"https://caseforiowasenate.com/priorties",
-"https://caseforiowasenate.com/privacy-policy",
-"https://facebook.com/profile.php?id=61587979232510",
-"https://instagram.com/case_for_iowa_senate",
-"https://secure.actblue.com/donate/caseforiowa",
-"https://secure.actblue.com/donate/caseforiowa?amount=100",
-"https://secure.actblue.com/donate/caseforiowa?amount=20",
-"https://secure.actblue.com/donate/caseforiowa?amount=250",
-"https://secure.actblue.com/donate/caseforiowa?amount=5",
-"https://secure.actblue.com/donate/caseforiowa?amount=50",
-"https://youtube.com/@CaseforIowaSenate"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/caseforiowa?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/caseforiowa?amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/caseforiowa?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/caseforiowa?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/caseforiowa?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.caseforiowasenate.com/about"
+},
+{
+"text": "CUSTOM $",
+"href": "https://secure.actblue.com/donate/caseforiowa"
+},
+{
+"text": "Contact",
+"href": "https://www.caseforiowasenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/caseforiowa"
+},
+{
+"text": "Home",
+"href": "https://www.caseforiowasenate.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.caseforiowasenate.com/about"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.caseforiowasenate.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.caseforiowasenate.com/priorties"
+},
+{
+"text": "SITE CREDIT",
+"href": "http://www.neatcreaturecreative.co"
+},
+{
+"text": "[image: 3.png]",
+"href": "https://www.caseforiowasenate.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587979232510"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/case_for_iowa_senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CaseforIowaSenate"
+}
 ]

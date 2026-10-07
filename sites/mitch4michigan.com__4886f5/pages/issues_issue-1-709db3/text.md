@@ -1,5 +1,6 @@
-Mitch for Michigan Believes in
-Money out of politics
-Money in politics is the foremost issue underpinning our democratic system.
+Skip navigation menu Home Meet Mitch Distin V.
+Roth Policy Events Press Volunteer Contact Donate Home Meet Mitch Distin V.
+Roth Policy Events Press Volunteer Contact Donate Localism as our core philosophy Money out of politics Ban Data Centers Ban Surveillance Tech (Like Flock and other ALPRs) Putting Michiganders First Community Banking/Insurance Energy/Food Independence of Communities Democracy reform & anti-corruption Reform the MPSC Economic fairness & citizen protections Universal social systems (at the communal level) Restoring our Evolved Nest: communal childhood development Restoring the Community Enshrining Nature's Rights Protecting children from Big Tech Protecting citizens from technofascism and the emerging surveillance state Knowledge Should Be Free Cut Out The Middleman A New, Open Science A New Economics Rooted in Nature A New Medicine (The Biopsychosociospiritual Model of Medicine) Mitch for Michigan Believes in Money out of politics Money in politics is the foremost issue underpinning our democratic system.
 The root cause of government acting against the public interest is that corporations and billionaires have more influence than citizens.
 Together, we must overturn Citizens United and ban corporate PACs.
+Contact and Press Inquiries: info@Mitch4Michigan.com Powered by RUN! website builder Paid for by Mitch for Michigan You need to enable JavaScript to run this app.

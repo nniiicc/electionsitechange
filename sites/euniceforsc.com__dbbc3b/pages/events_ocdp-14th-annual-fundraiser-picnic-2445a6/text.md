@@ -1,13 +1,3 @@
-Back to All Events
-This is your chance to:
-- Hear directly from Eunice and other candidates about their vision and plans for Oconee County
-- Ask questions and share your concern
-- Meet neighbors and show your support
-Admission $35.
-Previous
-Previous
-September 26
-A Dem Good Time Fish Fry Fundraiser for Greenville County Democratic Party
-Next
-Next
-September 28
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events OCDP 14th Annual Fundraiser Picnic Sunday, September 27, 2026 4:00 PM 7:00 PM High Falls County Park 671 High Falls Road Seneca, South Carolina, 29672 United States (map) Google Calendar ICS This is your chance to: Hear directly from Eunice and other candidates about their vision and plans for Oconee County Ask questions and share your concern Meet neighbors and show your support Admission $35.
+Previous Previous September 26 A Dem Good Time Fish Fry Fundraiser for Greenville County Democratic Party Next Next September 28 Meet & Greet in Pendleton Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

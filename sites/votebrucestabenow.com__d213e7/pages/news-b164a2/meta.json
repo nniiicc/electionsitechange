@@ -1,7 +1,11 @@
 {
  "description": "Bruce Stabenow in the News",
  "final_url": "https://www.votebrucestabenow.com/news",
+ "fingerprint": "4b3531bc8fa9e4ba33a2feb92402c8ce11fb96b8",
+ "format": 3,
  "paid_for_by": "Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

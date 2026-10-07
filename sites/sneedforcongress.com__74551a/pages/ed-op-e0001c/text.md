@@ -1,11 +1,3 @@
-top of page
-EDUCATION & OPPORTUNITY
-Future of the 5th
-OUR PRIORITIES
-DEFEND PUBLIC SCHOOLS
-Oppose the "CHOOSE Act" and all voucher schemes.
-NO MORE #43
-We cannot build a #1 economy on a #43 education system.
-INCREASE TEACHER PAY & RETENTION
-Create a public-private partnership to close the teacher pay gap.
-bottom of page
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE EDUCATION & OPPORTUNITY Future of the 5th OUR PRIORITIES DEFEND PUBLIC SCHOOLS ​ ​ ​ Oppose the " CHOOSE Act " and all voucher schemes . ​ NO MORE #43 We cannot build a #1 economy on a #43 education system . ​ INCREASE TEACHER PAY & RETENTION ​ Create a public-private partnership to close the teacher pay gap .
+THE ISSUES HEALTHCARE IMMIGRATION AFFORDABILITY LABOR EDUCATION | OPPORTUNITY ENVIRONMENT ENERGY FIX THE HOUSE DATA CENTERS SOCIAL SECURITY Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

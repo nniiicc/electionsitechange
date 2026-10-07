@@ -1,13 +1,54 @@
 [
-"http://facebook.com/MEETAbena",
-"http://instagram.com/MEETABENA",
-"http://tiktok.com/@meetabena",
-"https://docs.google.com/forms/d/e/1FAIpQLSdmUy5w0koUKzmHT6nZKKx_We5nLBi5Y04MhveqJcxJVUjc0A/viewform",
-"https://meetabena.com/",
-"https://meetabena.com/ENDORSEMENTS",
-"https://meetabena.com/ISSUES",
-"https://meetabena.com/MEETABENA",
-"https://meetabena.com/NEWS",
-"https://secure.actblue.com/donate/the-100-day-sprint",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/the-100-day-sprint"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/the-100-day-sprint"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.meetabena.com/ENDORSEMENTS"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdmUy5w0koUKzmHT6nZKKx_We5nLBi5Y04MhveqJcxJVUjc0A/viewform"
+},
+{
+"text": "HOME",
+"href": "https://www.meetabena.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.meetabena.com/ISSUES"
+},
+{
+"text": "MEET ABENA",
+"href": "https://www.meetabena.com/MEETABENA"
+},
+{
+"text": "NEWS",
+"href": "https://www.meetabena.com/NEWS"
+},
+{
+"text": "WHERE TO VOTE",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.meetabena.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/MEETAbena"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/MEETABENA"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/@meetabena"
+}
 ]

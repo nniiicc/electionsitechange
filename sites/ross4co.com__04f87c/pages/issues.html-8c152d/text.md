@@ -1,21 +1,19 @@
-Issues
-What matters most
-in HD23.
-in HD23.
-Pillar One
-Affordability
-Everything in Jeffco costs more than it should, and the rules are a big part of why.
+× Help build a grassroots campaign.
+This campaign runs on individual donors, not corporate checkbooks.
+If you can, a contribution today helps put Ross's name in front of HD23 voters.
+Contribute Now No thanks, maybe later About Issues Events Volunteer Contact Donate Issues What matters most in HD23.
+Pillar One Affordability Everything in Jeffco costs more than it should, and the rules are a big part of why.
 Housing is the center of gravity: when it climbs, everything climbs with it.
 But your energy bill and your medical bill run on the same broken logic, with costs added by people who never have to answer for them.
 I read the fine print for a living.
 Here's what it says.
-Housing built with residents, not over their heads.
+01 Housing built with residents, not over their heads.
 Here's where I stand, and it isn't complicated.
 I'm for housing.
 I'm for people doing more with their own property: a unit on your own lot is your right.
 What I'm against is fine print written over residents' heads, navigable only by whoever can afford the land-use attorneys, and a statehouse that overrides local voters instead of listening to them.
 Housing gets built, and stays affordable, when the rules are simple enough for regular people to use and legitimate enough that neighbors don't spend a year fighting them.
-Every data center is a different deal.
+02 Every data center is a different deal.
 Treat it that way.
 Xcel is asking for another rate increase right now: two pending cases totaling $546 million as filed, on top of eight increases since September 2023 that have already added roughly 22% to what Coloradans pay.
 And the biggest cost pressure coming down the line isn't your air conditioner.
@@ -38,7 +36,7 @@ Every proposal gets reviewed on its own facts: water use, noise, wildlife impact
 If a company promises jobs and tax revenue to get a permit, that promise belongs in a binding agreement with real consequences if it isn't kept, not a talking point that evaporates after the ribbon cutting.
 And the community that has to live next to the thing gets the final say, not a developer's projections and not an agency issuing approvals from Denver.
 If a data center is actually a good deal for a neighborhood, it should be able to make that case to the people who live there and win the argument honestly.
-The cash discount is the confession.
+03 The cash discount is the confession.
 Ask any doctor's office what a procedure costs and watch what happens.
 They often can't tell you, because the price depends on which insurer, which network, which billing code survives the back-office fight.
 Then offer to pay cash, and suddenly there's a number, and it's lower.
@@ -53,21 +51,16 @@ Make cash payments count toward your deductible, so choosing the cheaper price d
 And refuse to pile on new mandates and paperwork that fatten the middle layer while calling it consumer protection.
 I can't promise you cheap healthcare.
 I promise transparent options to stop making it more expensive.
-01
-02
-03
-Pillar Two
-Promises Kept
-One standard, three fights: your money, your property, your privacy.
+Pillar Two Promises Kept One standard, three fights: your money, your property, your privacy.
 The government keeps its word and follows its own rules, or it doesn't get the power.
-Make tax dollars go where they were promised.
+04 Make tax dollars go where they were promised.
 When Coloradans pay a vehicle registration fee or a transportation tax, that money should pay for roads and bridges.
 It often doesn't.
 Revenue meant for road maintenance gets diverted into other line items every year.
 Then we're told we need a new tax to fix the potholes.
 That's not a budgeting problem.
 It's a trust problem.
-I'll support Initiative 175, which amends the state constitution to require transportation tax revenue to be spent on roads and bridges as advertised.
+I'll support Initiative 175 , which amends the state constitution to require transportation tax revenue to be spent on roads and bridges as advertised.
 The legislature already tested how serious it is about that standard: before a single vote was cast on 175, it passed House Bill 1430, written to take effect only if 175 passes, cutting the same transportation revenue 175 would dedicate and backfilling the difference from the General Fund, so net road funding doesn't actually rise.
 That's not relief.
 It's a shell game: shrink the dedicated pot, backfill it with general money, and let the discretionary spending grow instead.
@@ -84,7 +77,7 @@ That's not really a tax problem.
 It's a translation problem, and it happens to be the one I've spent my career solving for other kinds of public data.
 Every dollar tracked, every increase explained, and the ones that aren't paying off, reversed.
 This is the accountability pillar in its plainest form: the government keeps its word about money.
-Due process before the state takes your property.
+05 Due process before the state takes your property.
 Civil asset forfeiture lets police seize your car, your home, or your savings without ever charging you with a crime.
 The state then makes you go to court to prove your property is innocent, on your dime, often with a deadline you can't meet.
 That's not how a justice system is supposed to work in either party's tradition.
@@ -93,7 +86,7 @@ The state already has a tool for taking property from people convicted of crimes
 What I oppose is the parallel system that takes from people who never get charged.
 There's bipartisan movement on this at the legislature already.
 The job is to push it across the finish line.
-Nothing about you without asking you.
+06 Nothing about you without asking you.
 Automated license plate readers are quietly building a record of where ordinary people drive: school, church, the doctor, a protest.
 Whatever you think of any one camera, a permanent, searchable map of everyone's movements is a power no government should hold without rules.
 I support hard guardrails: warrants for tracking individuals, strict retention limits, audit logs someone actually reads, and a flat prohibition on bulk-sharing Coloradans' location data with outside agencies.
@@ -101,7 +94,7 @@ Cameras without those rules shouldn't run at all.
 My rule for every bill that touches a camera, a database, or your data is simple: if there's an opportunity for abuse, expect the abuse.
 You don't fix a system built for abuse with penalties after the fact: you don't build it that way in the first place.
 And this isn't abstract.
-The dominant vendor in this industry now sells drones that its own executives describe as flying license plate readers, deployable to camera alerts.
+The dominant vendor in this industry now sells drones that its own executives describe as flying license plate readers , deployable to camera alerts.
 Its cameras have been the subject of more than fifty documented security vulnerabilities; in December 2025, journalists confirmed at least 60 of its cameras sitting on the open internet with no password at all: live feeds anyone could watch, footage anyone could pull.
 One of the exposed feeds showed a playground.
 One was in Douglas County, Colorado.
@@ -117,15 +110,10 @@ Officers' own investigative data sits in those insecure systems too.
 It's the same principle as everything else on this page: everyone gets a say in how we're governed, and nobody gets a vote on your rights.
 The government asks first: a judge, a hearing, a ballot.
 Or it doesn't get the power.
-04
-05
-06
-Pillar Three
-Take Care of Colorado
-Stewardship means taking care of what we already have: the people who serve us, the place we live, and the neighborhoods we live in.
+Pillar Three Take Care of Colorado Stewardship means taking care of what we already have: the people who serve us, the place we live, and the neighborhoods we live in.
 None of it is glamorous.
 It's maintenance, and maintenance is the job.
-No Coloradans in wars Congress won't declare.
+07 No Coloradans in wars Congress won't declare.
 The Colorado National Guard has been deployed into active combat overseas, repeatedly, for decades, without Congress ever declaring war.
 The Constitution puts that decision with Congress for a reason: it's the only check on a president sending other people's children to fight.
 Skipping the vote isn't a small procedural shortcut.
@@ -135,7 +123,7 @@ This is a bill anti-war Democrats wanted under Bush.
 It's a bill anti-Obama-war Republicans wanted under Obama.
 It's a bill veterans and Guard families want now.
 It is one of the few issues in modern American politics where the principled answer and the popular answer line up, and Colorado should be among the states that act on it.
-Stewardship means maintenance over monuments.
+08 Stewardship means maintenance over monuments.
 Colorado's outdoors aren't an ideology.
 They're the reason most of us are here.
 And the test of whether government actually cares for them is the same test as everything else on this page: where does the money go, and who bears the costs of the decisions?
@@ -155,5 +143,7 @@ It's Colorado in miniature.
 What that tells me is that policy decided by a single statewide vote still gets carried out by biologists and lived with by specific communities, sometimes hundreds of miles from where most of the votes were cast.
 Conservation decisions belong with the biologists and the people who live with the consequences.
 I'll treat that as a principle, not a slogan.
-07
-08
+Get Involved These issues need champions.
+The Colorado House runs on people power.
+Join the campaign and help move these priorities forward.
+Volunteer Donate Ross Metler for HD23 Paid for by Ross Metler for Colorado House District 23 · Ross4CO.com Privacy [email protected] X Facebook Instagram

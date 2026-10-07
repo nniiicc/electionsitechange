@@ -1,7 +1,9 @@
 {
  "description": "PETRIE IN THE PRESS",
  "final_url": "https://www.jasonpetrie.com/state-representative/petrie-in-the-press",
- "paid_for_by": null,
+ "fingerprint": "8a3f5a67f4196ce2e88c48b9abb266ad232b9ddd",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
  "title": "Petrie in the Press",
  "years_mentioned": [
   "2024",

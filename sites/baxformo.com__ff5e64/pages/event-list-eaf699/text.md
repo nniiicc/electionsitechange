@@ -1,20 +1,5 @@
-top of page
-Upcoming Events
-- Bax BonfireThu, Oct 014435 US-50
-- Westphalia After HoursThu, Sep 24Westphalia Inn
-- Montgomery Canvassing Kickoff with Rep.
-Gregg Bush!Sun, Sep 20Montgomery City Public Library
-- Boots, Brews, & BaxThu, Sep 17V.F.W.
-Post
-- Tie Dye, S'Mores, and Saving DemocracyThu, Aug 064435 US-50
-- Walk with Stacy at Gasconade County Fair Parade!Thu, Jul 30Snowensville Chicken & Burgers
-- Candidate ForumMon, Jul 27Scenic Regional Library - Owensville Bra
-- Roger Korenberg Campaign KickoffTue, Jun 30Legacy Barn
-- Montgomery County DemocratsThu, Jun 25Montgomery City Public Library
-- Loose Creek Church PicnicSun, Jun 14Immaculate Conception Catholic Church
-- Osage County Fair BoothThu, Jun 11Linn Lions Club Fairgrounds
-- Bax Team MeetingTue, Jun 09https://meet.google.com/msy-mfgi-tdr
-- Frankenstein Church PicnicSun, Jun 07Our Lady Help of Christians
-- Belle FairSat, Jun 06Belle City Park
-- We're Not Winging it: Osage County Kickoff with Will WestmorelandThu, Apr 30Osage County
-bottom of page
+top of page LOGO GET INVOLVED DONATE Upcoming Events Bax Bonfire Thu, Oct 01 4435 US-50 More info Details Westphalia After Hours Thu, Sep 24 Westphalia Inn More info Details Montgomery Canvassing Kickoff with Rep.
+Gregg Bush!
+Sun, Sep 20 Montgomery City Public Library More info Details Boots, Brews, & Bax Thu, Sep 17 V.F.W.
+Post More info Details Tie Dye, S'Mores, and Saving Democracy Thu, Aug 06 4435 US-50 More info Details Walk with Stacy at Gasconade County Fair Parade!
+Thu, Jul 30 Snowensville Chicken & Burgers More info Details Candidate Forum Mon, Jul 27 Scenic Regional Library - Owensville Bra More info Details Roger Korenberg Campaign Kickoff Tue, Jun 30 Legacy Barn More info Details Montgomery County Democrats Thu, Jun 25 Montgomery City Public Library More info Details Loose Creek Church Picnic Sun, Jun 14 Immaculate Conception Catholic Church More info Details Osage County Fair Booth Thu, Jun 11 Linn Lions Club Fairgrounds More info Details Bax Team Meeting Tue, Jun 09 https://meet.google.com/msy-mfgi-tdr More info Details Frankenstein Church Picnic Sun, Jun 07 Our Lady Help of Christians More info Details Belle Fair Sat, Jun 06 Belle City Park More info Details We're Not Winging it: Osage County Kickoff with Will Westmoreland Thu, Apr 30 Osage County More info Details HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

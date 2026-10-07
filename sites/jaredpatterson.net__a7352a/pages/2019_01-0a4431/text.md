@@ -1,3 +1,5 @@
-In Political Issues REP.
-JARED PATTERSON FILES LEGISLATION EXPANDING OPTIONS FOR LOCAL ECONOMIC DEVELOPMENT INITIATIVES
-In Political Issues HD 106 REPRESENTATIVE JARED PATTERSON SWORN-IN; FILES FIRST BILL ON BURDENSOME STATE MANDATES TO SCHOOL DISTRICTS
+Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Home About Issues Sanctity Of Life & Protecting Women Protecting The Innocence Of Children Border Security & Public Safety Property Tax Relief Enforcing The Second Amendment Educating Children in Texas Election Integrity Health And Medical Freedom Religious Liberty Safeguarding Our Pets Constituent Bills & Other Reforms News & Press Contact Donate Now In Political Issues REP.
+JARED PATTERSON FILES LEGISLATION EXPANDING OPTIONS FOR LOCAL ECONOMIC DEVELOPMENT INITIATIVES Continue Reading In Political Issues REP.
+JARED PATTERSON ANNOUNCES COMMITTEE APPOINTMENTS FOR THE 86TH LEGISLATURE Continue Reading In Political Issues REP.
+JARED PATTERSON FILES LEGISLATION REQUIRING TOLL TRANSPARENCY Continue Reading In Political Issues HD 106 REPRESENTATIVE JARED PATTERSON SWORN-IN; FILES FIRST BILL ON BURDENSOME STATE MANDATES TO SCHOOL DISTRICTS Continue Reading Email: votejaredpatterson@gmail.com P.O.
+Box 5419 Frisco, TX 75035 Follow: Pol Adv Paid for By Jared Patterson.

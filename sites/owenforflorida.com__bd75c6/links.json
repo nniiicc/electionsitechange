@@ -1,4 +1,10 @@
 [
-"https://owenforflorida.com/privacy-policy",
-"https://secure.anedot.com/michael-owen-for-hillsborough-county-commission/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/michael-owen-for-hillsborough-county-commission/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.owenforflorida.com/privacy-policy/"
+}
 ]

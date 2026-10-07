@@ -1,7 +1,9 @@
 {
- "description": "See Jaclyn\u2019s upcoming campaign events happening near you.",
+ "description": "See Jaclyn’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Jaclyn-Zimmermann/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "1c19ef41846250b6c4df268358ac3fdf1c1f1d7b",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Jaclyn Zimmermann Events",
  "years_mentioned": []
 }

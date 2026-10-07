@@ -1,4 +1,7 @@
-Trusted by the community.
+Skip to content MICHELLE EMBREE KU FOR NEWTOWN Search About About Michelle Photos Accomplishments A Clear Choice for Newtown Common Sense.
+Real Backbone.
+Get Involved Volunteer!
+Subscribe Contact News Latest Posts Facebook Feed Instagram Feed Newtown Bee: Letters to the Editor Issues Affordable Housing Action Not Talk Strong Schools Healthcare Traffic Regarding Property Taxes Home Trusted by the community.
 This race isn’t just about ideas—it’s about who’s ready to lead and who’ll actually stand up for our community.
 Michelle already shows up, she already serves, and now she is stepping forward to lead.
 In a moment that demands experience, toughness, and the ability to navigate real challenges, good intentions aren’t enough when families are counting on results.
@@ -11,3 +14,6 @@ Michelle Embree Ku is different.
 She has the experience, the strength, and the determination to stand up to both—pushing back against harmful policies while delivering real, local results.
 She listens, she shows up, and when it’s time to act, she fights—and wins.
 Newtown deserves a leader who is ready, grounded in our community, and unafraid to take on anyone who stands in the way of our progress.
+Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Brian Hartgraves Treasurer.
+Approved by Michelle Embree Ku.

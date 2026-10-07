@@ -1,5 +1,4 @@
-Urging Action on Proposed Campaign and Election Changes
-I’m writing to explain my intended vote on what I perceive to be a poorly constructed bill that has been voted out of the House Committee on Government Operations and Military Affairs.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Urging Action on Proposed Campaign and Election Changes February 26, 2023 I’m writing to explain my intended vote on what I perceive to be a poorly constructed bill that has been voted out of the House Committee on Government Operations and Military Affairs.
 It is very likely that we will be voting on this bill as early as Wednesday, March 1st.
 If you wish to take action by contacting other State Representatives, it will be critical for you to do so within the next day or two.
 I’ll link an action step option for you at the end of this blog.
@@ -7,7 +6,8 @@ It’s also important to realize that the Committee leadership created this bill
 I know there are a few co-sponsors who chose to sign on to the initial bill before these edits were strongarmed into place.
 At least one of those co-sponsors has expressed frustration with the fact that they now remain listed as a sponsor of this completely different bill.
 This is an unfortunate example of how others with personal agendas distort and misuse the process.
-The bill is listed on the Committee on Government Operations landing page as Draft No. 3.3 – H.97.
+The bill is listed on the Committee on Government Operations landing page as Draft No.
+3.3 – H.97.
 This is one of the more confusing bills I’ve had to decipher and I do not believe that is unintentional (anything struckout is language proposed for removal; anything underlined is language added for consideration).
 This is not merely a case in which the legal language necessary to create a new statute is confusing to the outside observer.
 This is also a case by which a supermajority party is seemingly adding deliberate complicated schemes to our campaign and election processes.
@@ -42,4 +42,4 @@ They’ve got such an opportunity to do good work.
 Pet projects and power grabs are not good work.
 H.97 only serves the party in charge.
 The Progressive Party of Vermont has made it very easy to reach out to any State Representative if you feel the desire to impact this vote.
-Please consider reaching out to voice your concern.
+Please consider reaching out to voice your concern. < Bill H.311 — An act relating to University of Vermont and residential living space. > Town Meeting Week Legislative Update Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

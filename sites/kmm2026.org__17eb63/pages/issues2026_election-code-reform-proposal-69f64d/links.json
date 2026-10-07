@@ -1,70 +1,282 @@
 [
-"https://archive.org/details/gilens_and_page_2014_-testing_theories_of_american_politics.doc",
-"https://ballotpedia.org/Ranked-choice_voting_(RCV)",
-"https://bipartisanpolicy.org/explainer/redistricting-and-gerrymandering-what-to-know",
-"https://bipartisanpolicy.org/explainer/what-are-the-federal-voluntary-voting-system-guidelines",
-"https://bipartisanpolicy.org/wp-content/uploads/2024/12/BPC_Primaries-and-Governance-Report_Final.pdf",
-"https://costofvotingindex.com/",
-"https://coupsaveamerica.substack.com/p/the-illusion-of-choice-how-democrats",
-"https://discord.com/login",
-"https://eac.gov/",
-"https://en.wikipedia.org/wiki/Election_Systems_%26_Software",
-"https://en.wikipedia.org/wiki/Open-source_voting_system",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://fairvote.org/our-reforms/ranked-choice-voting",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://fiveable.me/key-terms/hs-texas-gov/media-coverage-disparity",
-"https://goodparty.org/blog/article/who-is-the-donor-class",
-"https://govfacts.org/elections-voting/voting-rights-reform/barriers-to-voting-voter-suppression/why-voting-is-still-hard-in-america",
-"https://govtech.com/computing/la-county-oks-open-source-election-system.html",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://instagram.com/kevinmccormick2026",
-"https://kmm2026.org/",
-"https://kmm2026.org/2016campaign",
-"https://kmm2026.org/about",
-"https://kmm2026.org/business-cards",
-"https://kmm2026.org/campaign2026",
-"https://kmm2026.org/contact",
-"https://kmm2026.org/donate-now",
-"https://kmm2026.org/issues2026",
-"https://kmm2026.org/issues2026/property-tax-reform-proposal",
-"https://kmm2026.org/issues2026/rural-investment-proposal",
-"https://kmm2026.org/monetary",
-"https://kmm2026.org/monetary/mrblog",
-"https://kmm2026.org/transportation",
-"https://legalclarity.org/first-past-the-post-definition-and-how-the-system-works",
-"https://legalclarity.org/how-does-voter-turnout-in-texas-compare-to-the-rest-of-the-country",
-"https://legalclarity.org/why-is-it-so-hard-to-get-on-the-texas-ballot-as-an-independent",
-"https://news.gallup.com/poll/651278/support-third-political-party-dips.aspx",
-"https://news.gallup.com/poll/700499/new-high-identify-political-independents.aspx",
-"https://pewresearch.org/global/2025/09/15/people-around-the-world-want-political-change-but-many-doubt-it-can-happen",
-"https://politico.com/news/magazine/2021/06/25/voting-machines-costs-election-technology-democracy-matthew-caulfield-483080",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://reportingtexas.com/travis-county-clerks-dream-voting-system-gains-new-life",
-"https://secure.facebook.com/login",
-"https://sos.texas.gov/elections/candidates/guide/2024/ind2024.shtml",
-"https://sos.texas.gov/elections/candidates/guide/2026/lib-green-nom2026.shtml",
-"https://statutes.capitol.texas.gov/?tab=1&code=EL&chapter=EL.173",
-"https://statutes.capitol.texas.gov/docviewer?docName=EL.2.htm%232.001",
-"https://texas.gov/living-in-texas/texas-voter-registration",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://texaspolitics.utexas.edu/blog/june-2025-university-of-texas-texas-politics-project-poll-economic-concerns-drag-trump-s-job-approval-underwater-in-texas-while-most-texans-oppose-ban-on-thc-products-dividing-gop-leadership",
-"https://txgreens.org/platform",
-"https://uniteamerica.org/articles/how-extreme-primary-challengers-increase-polarization-in-elections",
-"https://uslawexplained.com/first-past-the-post",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://votetexas.gov/voting/voting-systems.html",
-"https://votevalue.co/blog/polsby-popper-explained",
-"https://voting.works/",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA",
-"https://youtube.com/watch?v=mG1qJeDI9Ok"
+{
+"text": "2016 Campaign",
+"href": "https://www.kmm2026.org/2016campaign"
+},
+{
+"text": "About",
+"href": "https://www.kmm2026.org/about"
+},
+{
+"text": "Business Card Campaign",
+"href": "https://www.kmm2026.org/business-cards"
+},
+{
+"text": "Campaign Donations",
+"href": "https://www.kmm2026.org/donate-now"
+},
+{
+"text": "Campaign-2026",
+"href": "https://www.kmm2026.org/campaign2026"
+},
+{
+"text": "Contact",
+"href": "https://www.kmm2026.org/contact"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "Election Assistance Commission",
+"href": "https://www.eac.gov/"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Gallup poll",
+"href": "https://news.gallup.com/poll/651278/support-third-political-party-dips.aspx"
+},
+{
+"text": "Gallup poll",
+"href": "https://news.gallup.com/poll/700499/new-high-identify-political-independents.aspx"
+},
+{
+"text": "Gerrymandering",
+"href": "https://bipartisanpolicy.org/explainer/redistricting-and-gerrymandering-what-to-know/"
+},
+{
+"text": "Home",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "How Primary Elections Impact Behavior in the U.S. House of Representatives",
+"href": "https://bipartisanpolicy.org/wp-content/uploads/2024/12/BPC_Primaries-and-Governance-Report_Final.pdf"
+},
+{
+"text": "Issues-2026",
+"href": "https://www.kmm2026.org/issues2026"
+},
+{
+"text": "MR-Blog",
+"href": "https://www.kmm2026.org/monetary/mrblog"
+},
+{
+"text": "Matt Taibbi states",
+"href": "https://www.youtube.com/watch?v=mG1qJeDI9Ok"
+},
+{
+"text": "Monetary",
+"href": "https://www.kmm2026.org/monetary"
+},
+{
+"text": "Next article: Property Tax Reform Proposal Next",
+"href": "https://www.kmm2026.org/issues2026/property-tax-reform-proposal"
+},
+{
+"text": "Open source electronic voting machine software",
+"href": "https://en.wikipedia.org/wiki/Open-source_voting_system"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "People Around the World Want Political Change, but Many Doubt It Can Happen",
+"href": "https://www.pewresearch.org/global/2025/09/15/people-around-the-world-want-political-change-but-many-doubt-it-can-happen/"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Polsby–Popper test",
+"href": "https://votevalue.co/blog/polsby-popper-explained"
+},
+{
+"text": "Previous article: Rural Investment Proposal Prev",
+"href": "https://www.kmm2026.org/issues2026/rural-investment-proposal"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Republican Party involvement with ESS",
+"href": "https://en.wikipedia.org/wiki/Election_Systems_%26_Software"
+},
+{
+"text": "STAR-Vote",
+"href": "https://www.reportingtexas.com/travis-county-clerks-dream-voting-system-gains-new-life/"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens",
+"href": "https://archive.org/details/gilens_and_page_2014_-testing_theories_of_american_politics.doc"
+},
+{
+"text": "Texas Green Party platform",
+"href": "https://www.txgreens.org/platform#reform"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "Texas law",
+"href": "https://statutes.capitol.texas.gov/docviewer?docName=EL.2.htm%232.001"
+},
+{
+"text": "Transportation",
+"href": "https://www.kmm2026.org/transportation"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "Voluntary Voting System Guidelines",
+"href": "https://bipartisanpolicy.org/explainer/what-are-the-federal-voluntary-voting-system-guidelines/"
+},
+{
+"text": "Voting Works",
+"href": "https://www.voting.works/"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "a Declaration, a Candidate Application, and a Nominating Petition",
+"href": "https://www.sos.texas.gov/elections/candidates/guide/2024/ind2024.shtml"
+},
+{
+"text": "better represent voter preferences",
+"href": "https://fairvote.org/our-reforms/ranked-choice-voting/"
+},
+{
+"text": "cost of voting",
+"href": "https://costofvotingindex.com/"
+},
+{
+"text": "donor class and corporations",
+"href": "https://goodparty.org/blog/article/who-is-the-donor-class"
+},
+{
+"text": "electronic voting machines",
+"href": "https://www.votetexas.gov/voting/voting-systems.html"
+},
+{
+"text": "extreme rhetoric from incumbents",
+"href": "https://www.uniteamerica.org/articles/how-extreme-primary-challengers-increase-polarization-in-elections"
+},
+{
+"text": "first-past-the-post",
+"href": "https://uslawexplained.com/first-past-the-post"
+},
+{
+"text": "independent candidates",
+"href": "https://legalclarity.org/why-is-it-so-hard-to-get-on-the-texas-ballot-as-an-independent/"
+},
+{
+"text": "little difference between the two major parties",
+"href": "https://coupsaveamerica.substack.com/p/the-illusion-of-choice-how-democrats"
+},
+{
+"text": "lower voter turnout rates",
+"href": "https://legalclarity.org/how-does-voter-turnout-in-texas-compare-to-the-rest-of-the-country/"
+},
+{
+"text": "media coverage disparity",
+"href": "https://fiveable.me/key-terms/hs-texas-gov/media-coverage-disparity"
+},
+{
+"text": "nearly a year before the election and pay an expensive filing fee",
+"href": "https://www.sos.texas.gov/elections/candidates/guide/2026/lib-green-nom2026.shtml"
+},
+{
+"text": "obstacles to voting",
+"href": "https://govfacts.org/elections-voting/voting-rights-reform/barriers-to-voting-voter-suppression/why-voting-is-still-hard-in-america/"
+},
+{
+"text": "only 1 in 4 Texans approve of the Texas Legislature",
+"href": "https://texaspolitics.utexas.edu/blog/june-2025-university-of-texas-texas-politics-project-poll-economic-concerns-drag-trump-s-job-approval-underwater-in-texas-while-most-texans-oppose-ban-on-thc-products-dividing-gop-leadership"
+},
+{
+"text": "open source voting system",
+"href": "https://www.govtech.com/computing/la-county-oks-open-source-election-system.html"
+},
+{
+"text": "produce two monolithic parties",
+"href": "https://legalclarity.org/first-past-the-post-definition-and-how-the-system-works/"
+},
+{
+"text": "ranked-choice voting process",
+"href": "https://ballotpedia.org/Ranked-choice_voting_(RCV)"
+},
+{
+"text": "register to vote and have an approved identification",
+"href": "https://www.texas.gov/living-in-texas/texas-voter-registration/"
+},
+{
+"text": "secretive private companies",
+"href": "https://www.politico.com/news/magazine/2021/06/25/voting-machines-costs-election-technology-democracy-matthew-caulfield-483080"
+},
+{
+"text": "the expenses are paid by the state",
+"href": "https://statutes.capitol.texas.gov/?tab=1&code=EL&chapter=EL.173&artSec="
+}
 ]

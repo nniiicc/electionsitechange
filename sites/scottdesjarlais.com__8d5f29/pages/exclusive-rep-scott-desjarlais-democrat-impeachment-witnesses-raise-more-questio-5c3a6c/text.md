@@ -1,5 +1,8 @@
-“I guess.” “I presume.” “I assume.”
-Over a thousand times, Chief Impeacher Adam Schiff’s “star witnesses” in hearings on Capitol Hill have admitted to having no first-hand knowledge of an alleged deal President Trump forged with Ukraine’s president to investigate Hunter Biden — the son of former Vice President Joe Biden — for corruption in that country.
+Skip to content Home About Dr.
+Scott Issues Endorsements Donate news > Exclusive–Rep.
+Scott DesJarlais: Democrat Impeachment Witnesses Raise More Questions Than They Answer Exclusive–Rep.
+Scott DesJarlais: Democrat Impeachment Witnesses Raise More Questions Than They Answer Posted by admin on December 2, 2019 REP.
+SCOTT DESJARLAIS (R-TN) “I guess.” “I presume.” “I assume.” Over a thousand times, Chief Impeacher Adam Schiff’s “star witnesses” in hearings on Capitol Hill have admitted to having no first-hand knowledge of an alleged deal President Trump forged with Ukraine’s president to investigate Hunter Biden — the son of former Vice President Joe Biden — for corruption in that country.
 Top U.S. diplomats also explained that under the Constitution the President does in fact possess authority to set U.S. foreign policy, fire ambassadors who fail to carry it out, delegate responsibility to those he trusts, and dispense or withhold foreign aid according to recipients’ agreement to key U.S. objectives, contrary to Democrats’ assertions.
 These are a few reasons why we have federal elections.
 U.S. ambassadors to the European Union and Ukraine, the Deputy Assistant Secretary of State for European and Eurasian Affairs, and others with fancy titles — even the most clearly biased against the President — agreed that Ukraine is one of the most corrupt countries on Earth, criticized Hunter Biden’s business dealings there, and acknowledged that the Trump administration has provided crucial military aid to Ukraine that the Obama administration denied for fear of antagonizing Russia.
@@ -40,5 +43,7 @@ Only in Washington would the president’s work to protect taxpayer money, our e
 But because he has uncovered yet another scandal in the “scandal-free” Obama administration, one that threatens to claim a leading Democrat presidential candidate, impeachment we have, whether we like it nor not.
 What could be Democrats’ last chance to undo an election, protect Joe Biden, and ensure that their far-left agenda prevails in 2020 could also be their worst idea yet.
 Rep.
-Scott DesJarlais is a member of the House Freedom Caucus representing Tennessee’s Fourth Congressional District
-https://www.breitbart.com/politics/2019/12/02/exclusive-rep-scott-desjarlais-democrat-impeachment-witnesses-raise-more-questions-than-they-answer/
+Scott DesJarlais is a member of the House Freedom Caucus representing Tennessee’s Fourth Congressional District https://www.breitbart.com/politics/2019/12/02/exclusive-rep-scott-desjarlais-democrat-impeachment-witnesses-raise-more-questions-than-they-answer/ news Written by admin Follow Scott: Home About Dr.
+Scott Issues Endorsements Donate Dr.
+Scott DesJarlais PO Box 90133 Nashville, TN 37209 Paid for by Friends of Scott DesJarlais Pol.
+Adv. paid for by Dustin Burrows Campaign.

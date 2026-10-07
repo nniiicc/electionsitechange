@@ -1,7 +1,9 @@
 {
  "description": "View campaign photos and media from Max Carter's race for Nevada Assembly District 12. See Max connecting with working Nevadans across the district.",
  "final_url": "https://www.carter4nv.com/media",
- "paid_for_by": null,
+ "fingerprint": "b7757309c9f6305ef55c4d610b0831569a0771f7",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Max E",
  "title": "Media | Max Carter for Nevada Assembly District 12",
  "years_mentioned": []
 }

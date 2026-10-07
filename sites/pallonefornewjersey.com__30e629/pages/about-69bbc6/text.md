@@ -1,5 +1,8 @@
-Frank Pallone has been fighting for New Jersey’s 6th Congressional District since his first day in Congress.
-The 6th District includes most of Middlesex County and the Bayshore and oceanfront areas of Monmouth County.
+Skip to main content Join Us The browser you are using does not support this form.
+If you would like to make a gift, please try a different browser.
+Follow Rep.
+Pallone Main navigation Home About Frank Volunteer Contact Donate About Frank Pallone Frank Pallone has been fighting for New Jersey’s 6th Congressional District since his first day in Congress.
+The 6 th District includes most of Middlesex County and the Bayshore and oceanfront areas of Monmouth County.
 During his time in Congress, Frank has fought to protect New Jersey’s coast from dangerous offshore oil and gas drilling, make health care affordable and accessible, and help hardworking New Jerseyans.
 Frank serves as the Chairman of the House Energy and Commerce Committee.
 As Chairman, he champions legislation to keep health care and prescription drug costs low for all Americans, combat the climate crisis, and protect consumer rights and safety.
@@ -45,3 +48,4 @@ After graduating from Middlebury, he received a master's degree in international
 Frank began his career in public service in Long Branch where he was elected to City Council and later to the State Senate.
 Frank and his wife Sarah reside in Long Branch.
 They have three children, daughters Rose and Celeste, and a son, Frank.
+Tweets by @pallonefornj Social Menu Facebook LinkedIn Twitter Main navigation Home About Frank Volunteer Contact Donate PAID FOR BY PALLONE FOR CONGRESS 495 BROADWAY | LONG BRANCH, NJ 07740 | (732) 571-4141

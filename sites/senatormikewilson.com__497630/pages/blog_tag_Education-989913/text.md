@@ -1,4 +1,4 @@
-Based on consistent messages from Kentucky public school educators, this is not a time to halt or apply the brakes on adopting Senate Bill 1 (SB1), but a time to step on the accelerator.
+Home About Mike Volunteer Donate Welcome Blog Home About Mike Volunteer Donate Welcome Blog Blog Education February 24, 2016 Whitney Westerfield Policy The Time is Now to Pass SB1 February 24, 2016 Whitney Westerfield Policy Based on consistent messages from Kentucky public school educators, this is not a time to halt or apply the brakes on adopting Senate Bill 1 (SB1), but a time to step on the accelerator.
 Since 2009, political posturing, artificial accountability, and bureaucratic burdens have “halted” practitioners long enough.
 First, SB 1 attempts to reduce political influences that have stifled educators’ voices for determining state academic standards and tests.
 Pursuit of federal “Race to the Top” money influenced our state to adopt standards without preliminary practitioner input and to hastily choose tests that inadequately aligned with those standards.
@@ -25,7 +25,7 @@ SB 1 of 2009 was that tree.
 However, federal and state influence and overreach has halted growth and significantly diminished the harvest of fruit we envisioned.
 Just ask any Kentucky educator.
 The second best time to plant a tree is NOW and we can do that with SB 1 of 2016.
-# # #
-Note: Senator Mike Wilson (R-Bowling Green) represents the 32nd District in Warren County.
+# # # Note: Senator Mike Wilson (R-Bowling Green) represents the 32nd District in Warren County.
 He is the Chair of both the Education Committee and the Education Assessment and Accountability Review Subcommittee.
 He is a member of the Economic Development, Tourism and Labor Committee and the Veterans, Military Affairs and Public Protection Committee, as well as a liaison member of the Budget Review Subcommittee on Education.
+February 24, 2016 Whitney Westerfield Policy Tagged: 2016 , Education , SB1 Paid for by Mike Wilson for State Senate Back to Top Video Service © # Mike Wilson for State Senate

@@ -1,4 +1,4 @@
-Progressive as defined by Miriam-Webster is of or relating to progress: such as using, involving, or interested in new or modern ideas characterized by continuous improvement or advancement.
+Skip to content HOME About The CandiDate Donate The Agenda for Change Website Privacy Policy Cookie Policy February 16, 2026 What It Means to Be Progressive — and Why Moving Forward Matters tmonks4nc Progressive as defined by Miriam-Webster is of or relating to progress: such as using, involving, or interested in new or modern ideas characterized by continuous improvement or advancement.
 To me, being progressive is about standing up against the status quo.
 Being progressive isn’t about a label.
 It’s about direction.
@@ -30,3 +30,10 @@ Progress doesn’t happen overnight, and it doesn’t happen alone.
 It happens when we bring people together across differences with a shared belief that our future can be better than our past.
 It happens when dignity, fairness, and opportunity guide every decision.
 That is why I’m deeply honored to be endorsed by the Progressive Caucus of the North Carolina Democratic Party — a group committed to real progress, bold solutions, and leadership that looks forward, not backward.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted in: Uncategorized ← Previous: Why I’m Running Next: The Real March Madness → Leave a Reply Cancel reply Together: Not Me.
+Not You.
+US.
+EVENTS DONATE VOLUNTEER Cookie Policy Privacy Policy About Thomas Events Platform Register to Vote Events Platform Register to Vote Facebook Instagram TikTok Bluesky X YouTube Discover more from Thomas Monks 4 North Carlona Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

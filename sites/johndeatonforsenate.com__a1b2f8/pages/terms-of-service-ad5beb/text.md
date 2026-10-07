@@ -1,10 +1,7 @@
-Terms of Service
-Last modified: {date}
-PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE Terms of Service Last modified: {date} PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
 BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
-These Terms of Service and Use (“Terms”) apply to your access to and use of the websites, mobile sites and other online offerings (collectively, the “Website”) provided by John Deaton for Senate Inc.
-(the “Organization,” “we,” or “us”) that link to these Terms.
+These Terms of Service and Use (“Terms”) apply to your access to and use of the websites, mobile sites and other online offerings (collectively, the “Website”) provided by John Deaton for Senate Inc. (the “Organization,” “we,” or “us”) that link to these Terms.
 By accessing or by using our Website, you agree to these Terms, and any terms incorporated by reference.
 If you do not agree to these Terms, do not use our Website.
 We may make changes to these Terms from time to time.
@@ -12,8 +9,7 @@ If we make changes, we will provide you with notice of such changes, such as by 
 Unless we say otherwise in our notice, the amended Terms will be effective immediately, and your continued use of our Website after we provide such notice will confirm your acceptance of the changes.
 If you do not agree to the amended Terms, you must stop using our Website.
 If you have any questions about these Terms or our Website, please contact us at info@johndeatonforsenate.com.
-ADDITIONAL TERMS
-1.Privacy For information about how we collect, use, share and otherwise process information about you, please see above.
+ADDITIONAL TERMS 1.Privacy For information about how we collect, use, share and otherwise process information about you, please see above.
 2.
 Consent to Use of Data and Mobile Communication; SMS Program Terms You consent to our communicating with you about the Website, the Organization and/or its activities by SMS, text message, email or other electronic means.
 Your carrier’s normal, messaging, data and other rates and fees will apply to these communications.
@@ -26,31 +22,9 @@ Neither the Organization nor the participating carriers guarantee that messages 
 The Organization may discontinue the program at any time without notice.
 3.
 Prohibited Conduct and Content You will not violate any applicable law, contract, intellectual property right or other third-party right or commit a tort in connection with any User Content you post to the Website, and you are solely responsible for your conduct while using our Website.
-You will not:
-- Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
-- Use or attempt to use another user’s account without authorization from that user and the Organization;
-- Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity;
-- Sell, resell or commercially use our Website;
-- Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Website, except as expressly permitted by us or our licensors;
-- Modify our Website, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Website;
-- Use our Website other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Website or that could damage, disable, overburden or impair the functioning of our Website in any manner;
-- Reverse engineer any aspect of our Website or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Website;
-- Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Website;
-- Develop or use any applications that interact with our Website without our prior written consent;
-- Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
-- Bypass or ignore instructions contained in our robots.txt file or similar files; or
-- Use our Website for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+You will not: Engage in any harassing, threatening, intimidating, predatory or stalking conduct; Use or attempt to use another user’s account without authorization from that user and the Organization; Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity; Sell, resell or commercially use our Website; Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Website, except as expressly permitted by us or our licensors; Modify our Website, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Website; Use our Website other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Website or that could damage, disable, overburden or impair the functioning of our Website in any manner; Reverse engineer any aspect of our Website or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Website; Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Website; Develop or use any applications that interact with our Website without our prior written consent; Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes; Bypass or ignore instructions contained in our robots.txt file or similar files; or Use our Website for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
 You may not post or otherwise share only User Content that is nonconfidential and that you have all necessary rights to disclose.
-You may not create, post, store or share any User Content that:
-- Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
-- Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;
-- May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-- Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences;
-- Impersonates, or misrepresents your affiliation with, any person or entity;
-- Contains any unsolicited promotions, advertising or solicitations;
-- Contains any private or personal information of a third party without such third party’s consent;
-- Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or
-- In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Website, or may expose the Organization or others to any harm or liability of any type.
+You may not create, post, store or share any User Content that: Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent; Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law; May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences; Impersonates, or misrepresents your affiliation with, any person or entity; Contains any unsolicited promotions, advertising or solicitations; Contains any private or personal information of a third party without such third party’s consent; Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Website, or may expose the Organization or others to any harm or liability of any type.
 Enforcement of this Section 4 is solely at the Organization’s discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
 In addition, this Section 4 does not create any private right of action on the part of any third party or any reasonable expectation that the Website is free of content that is prohibited by such rules.
 4.
@@ -68,8 +42,7 @@ You understand that we may use such Feedback for any purpose, commercial or othe
 You understand that the Organization may treat Feedback as nonconfidential.
 7.
 Repeat Infringer Policy; Copyright Complaints In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, the access or accounts of users who repeatedly infringe the intellectual property rights of others.
-If you believe that anything on our Website infringes any copyright that you own or control, you may notify the Organization’s designated agent: johndeatonforsenate.com
-Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
+If you believe that anything on our Website infringes any copyright that you own or control, you may notify the Organization’s designated agent: johndeatonforsenate.com Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
 Also, please note that if you knowingly misrepresent that any activity or material on our Website is infringing, you may be liable to the Organization for certain costs and damages.
 8.
 Third-Party Content, Products, and Websites.
@@ -104,3 +77,14 @@ Miscellaneous The failure of the Organization to exercise or enforce any right o
 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.
 You agree that communications and transactions between us may be conducted electronically.
+WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+Every donation counts.
+DONATE TODAY JOHN DEATON FOR SENATE INC.
+General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.
+PRIVACY POLICY TERMS OF SERVICE By providing your email address you consent to receive periodic campaign updates from John Deaton for Senate Inc.
+By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including artificial, pre-recorded, autodialed and automated calls and texts, to that number from John Deaton for Senate Inc.
+Msg&data rates may apply.
+Reply HELP for help, STOP to end.
+Terms & conditions/privacy policy apply.
+John Deaton was a Captain in the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not constitute or imply endorsement by the Marine Corps or the Department of Defense. ﻿ Share by:

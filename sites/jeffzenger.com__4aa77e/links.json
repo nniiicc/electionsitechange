@@ -1,17 +1,94 @@
 [
-"https://facebook.com/JeffZengerNC",
-"https://jeffzenger.com/",
-"https://jeffzenger.com/about",
-"https://jeffzenger.com/join",
-"https://jeffzenger.com/privacy",
-"https://jeffzenger.com/terms",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=100",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=1000",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=25",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=250",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=2500",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=50",
-"https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=500",
-"https://x.com/realjeffzenger"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=250"
+},
+{
+"text": "$2500",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=2500"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jeffzenger.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web"
+},
+{
+"text": "HOME",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.jeffzenger.com/join"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/committee-to-elect-jeff-zenger-to-nc-house/donate-web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeffzenger.com/privacy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.jeffzenger.com/about"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.jeffzenger.com/terms"
+},
+{
+"text": "Terms & Conditions.",
+"href": "https://www.jeffzenger.com/privacy"
+},
+{
+"text": "[image: Website Logos-01.png]",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "[image: Website Logos-02.png]",
+"href": "https://www.jeffzenger.com"
+},
+{
+"text": "[image: Zenger FB]",
+"href": "https://www.facebook.com/JeffZengerNC"
+},
+{
+"text": "[image: Zenger Insta]",
+"href": "https://x.com/realjeffzenger"
+},
+{
+"text": "[image: Zenger X]",
+"href": "https://x.com/realjeffzenger"
+},
+{
+"text": "and",
+"href": "https://www.jeffzenger.com/privacy"
+}
 ]

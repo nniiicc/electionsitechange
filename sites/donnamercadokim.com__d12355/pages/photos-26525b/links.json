@@ -1,31 +1,138 @@
 [
-"https://campaignpartner.com/",
-"https://donnamercadokim.com/",
-"https://donnamercadokim.com/about_donna",
-"https://donnamercadokim.com/community-bulletin",
-"https://donnamercadokim.com/contribute",
-"https://donnamercadokim.com/events",
-"https://donnamercadokim.com/home",
-"https://donnamercadokim.com/news",
-"https://donnamercadokim.com/photos",
-"https://donnamercadokim.com/photos/gallery/03404e86-129f-4c97-bafb-ad72b6de10ee",
-"https://donnamercadokim.com/photos/gallery/044a4e8e-9689-4bbc-86c2-b7d77b1a0c4f",
-"https://donnamercadokim.com/photos/gallery/1e3fa6fc-48cc-49d6-b746-915e185b42b6",
-"https://donnamercadokim.com/photos/gallery/20d4a9c5-0d8b-415c-9464-571b4d57b63e",
-"https://donnamercadokim.com/photos/gallery/301773aa-13e2-43c2-b20e-9cdae0513264",
-"https://donnamercadokim.com/photos/gallery/39f5f113-434e-47f9-bb78-6e72e942e550",
-"https://donnamercadokim.com/photos/gallery/3cd14161-f480-43bc-91f2-19788c238852",
-"https://donnamercadokim.com/photos/gallery/40deea50-4da1-4057-b12f-2c6eeea2e9d8",
-"https://donnamercadokim.com/photos/gallery/447f6023-4134-432f-8913-ba5fb7fd6c88",
-"https://donnamercadokim.com/photos/gallery/594813c2-b1d4-4e67-9015-41973b544616",
-"https://donnamercadokim.com/photos/gallery/8a6238f6-dcd5-471c-906a-d698cdfbbed5",
-"https://donnamercadokim.com/photos/gallery/91b56836-f881-4ac0-a8dd-fc60dbb5f3a5",
-"https://donnamercadokim.com/photos/gallery/91b6e71a-2c73-4f84-98da-229554309904",
-"https://donnamercadokim.com/photos/gallery/ca814a6e-cb49-4cb1-8afc-bfa76e4cda13",
-"https://donnamercadokim.com/photos/gallery/fbd8d3e5-fdeb-44aa-b87b-27a3f2f88d8f",
-"https://donnamercadokim.com/volunteer",
-"https://facebook.com/Friends-of-Donna-Mercado-Kim-162007987214365",
-"https://instagram.com/donnamercadokim14",
-"https://olvr.hawaii.gov/",
-"https://womenlegislators.org/celebrating-the-centennial"
+{
+"text": "About Donna",
+"href": "https://donnamercadokim.com/about_donna"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://donnamercadokim.com/contribute"
+},
+{
+"text": "Community Bulletin",
+"href": "https://donnamercadokim.com/community-bulletin"
+},
+{
+"text": "Events",
+"href": "https://donnamercadokim.com/events"
+},
+{
+"text": "Home",
+"href": "https://donnamercadokim.com/home"
+},
+{
+"text": "Legislators Push for Improved Dementia Care Training at Annual Advocacy Day",
+"href": "https://donnamercadokim.com/news/#legislators-push-for-improved-dementia-care-training-at-annual-advocacy-day"
+},
+{
+"text": "News",
+"href": "https://donnamercadokim.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://donnamercadokim.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education",
+"href": "https://donnamercadokim.com/news/#senator-donna-mercado-kim-produces-bipartisan-report-of-higher-education"
+},
+{
+"text": "Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award",
+"href": "https://donnamercadokim.com/news/#senator-kim-awarded-2024-dean-mcmanus-spirit-of-nfwl-award"
+},
+{
+"text": "Senator Kim runs for re-election",
+"href": "https://donnamercadokim.com/news/#senator-kim-runs-for-re-election"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://donnamercadokim.com/volunteer"
+},
+{
+"text": "Where to Get Your COVID-19 Vaccination Now",
+"href": "https://donnamercadokim.com/news/#where-to-get-your-covid-19-vaccination-now"
+},
+{
+"text": "Women’s Suffrage Centennial",
+"href": "https://www.womenlegislators.org/celebrating-the-centennial/"
+},
+{
+"text": "[image: 2022 Highlights] 2022 Highlights",
+"href": "https://donnamercadokim.com/photos/gallery/594813c2-b1d4-4e67-9015-41973b544616"
+},
+{
+"text": "[image: 2022 Opening Day] 2022 Opening Day",
+"href": "https://donnamercadokim.com/photos/gallery/91b56836-f881-4ac0-a8dd-fc60dbb5f3a5"
+},
+{
+"text": "[image: Bishop Museum] Bishop Museum",
+"href": "https://donnamercadokim.com/photos/gallery/447f6023-4134-432f-8913-ba5fb7fd6c88"
+},
+{
+"text": "[image: Farrington High School's Project Hope] Farrington High School's Project Hope",
+"href": "https://donnamercadokim.com/photos/gallery/39f5f113-434e-47f9-bb78-6e72e942e550"
+},
+{
+"text": "[image: Grandparents Day] Grandparents Day",
+"href": "https://donnamercadokim.com/photos/gallery/3cd14161-f480-43bc-91f2-19788c238852"
+},
+{
+"text": "[image: Kalihi Palama Library – Women’s History Month] Kalihi Palama Library – Women’s History Month",
+"href": "https://donnamercadokim.com/photos/gallery/40deea50-4da1-4057-b12f-2c6eeea2e9d8"
+},
+{
+"text": "[image: Keiki O Ka Aina Learning Program] Keiki O Ka Aina Learning Program",
+"href": "https://donnamercadokim.com/photos/gallery/91b6e71a-2c73-4f84-98da-229554309904"
+},
+{
+"text": "[image: Mahalo Mary Rivera!] Mahalo Mary Rivera!",
+"href": "https://donnamercadokim.com/photos/gallery/03404e86-129f-4c97-bafb-ad72b6de10ee"
+},
+{
+"text": "[image: May 2022: DHHL Press Conference] May 2022: DHHL Press Conference",
+"href": "https://donnamercadokim.com/photos/gallery/301773aa-13e2-43c2-b20e-9cdae0513264"
+},
+{
+"text": "[image: May 28 Triad Fundraiser at Bishop Museum] May 28 Triad Fundraiser at Bishop Museum",
+"href": "https://donnamercadokim.com/photos/gallery/1e3fa6fc-48cc-49d6-b746-915e185b42b6"
+},
+{
+"text": "[image: My Fantastic 2021 Office Staff] My Fantastic 2021 Office Staff",
+"href": "https://donnamercadokim.com/photos/gallery/044a4e8e-9689-4bbc-86c2-b7d77b1a0c4f"
+},
+{
+"text": "[image: Poi Pounding at the Capitol] Poi Pounding at the Capitol",
+"href": "https://donnamercadokim.com/photos/gallery/20d4a9c5-0d8b-415c-9464-571b4d57b63e"
+},
+{
+"text": "[image: Recognizing our Filipino Student Nurses] Recognizing our Filipino Student Nurses",
+"href": "https://donnamercadokim.com/photos/gallery/fbd8d3e5-fdeb-44aa-b87b-27a3f2f88d8f"
+},
+{
+"text": "[image: Red Hill Press Conference] Red Hill Press Conference",
+"href": "https://donnamercadokim.com/photos/gallery/ca814a6e-cb49-4cb1-8afc-bfa76e4cda13"
+},
+{
+"text": "[image: Red Hill Site Visitation January '22] Red Hill Site Visitation January '22",
+"href": "https://donnamercadokim.com/photos/gallery/8a6238f6-dcd5-471c-906a-d698cdfbbed5"
+},
+{
+"text": "[image]",
+"href": "https://donnamercadokim.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Friends-of-Donna-Mercado-Kim-162007987214365/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donnamercadokim14/"
+}
 ]

@@ -1,274 +1,123 @@
-Idaho Legislation
-Much of Melissa’s legislative work has focused on criminal justice reforms that center victims’ voices and needs.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE Idaho Legislation Much of Melissa’s legislative work has focused on criminal justice reforms that center victims’ voices and needs.
 She is vocal about common sense legislation around firearms and advocates for civil discussions and understanding to come to common ground.
 Melissa works hard to fight for fairness and equity and pursues policies to elevate the voices of those most marginalized in our communities and laws.
 Last year on the House Floor, the GOP silenced her when she questioned the motives for Rep Scott and her bill to roll back affirmative action when she purported good intentions, but has been photographed waving the Confederate flag, a well known symbol of racism.
 Even though they tried to silence Melissa with the rules of the House, Melissa would not back down; she stands strong in her values and remains committed to advocating for opportunities for all Idahoans.
-Committee Experience
-- Joint Finance and Appropriations Committee
-- House Judiciary and Rules
-- House Transportation
-- The Governor’s Idaho Criminal Justice Commission
-- The Governor’s Public Defense Commission
-- Senate Judiciary and Rules
-- Senate Transportation
-- Senate Health and Welfare
-- Child Protection Oversight
-Engagement
-- National Conference of State Legislators Opioid Policy Fellows, 2022
-- National Institute for Civil Discourse, former co-chair of national legislative network, (2017,2018); current advisory board member.
-- Western Legislative Academy, graduate 2017
-- Legislative Energy Horizon Institute, graduate 2017
-- Idaho Coalition Against Sexual and Domestic Violence, board member, 2014 – present
-Legislative Accomplishments
-- Increasing Access to Prescription Contraception: Passed legislation to expand access to prescription contraception to a 6-month supply at a time.
-- Ensuring Compassionate Care for Neurocognitive Disorders: Created and passed legislation that provides a safe and legal protective placement for those in an acute crisis with a neurocognitive disorder, like Alzheimer’s or other related dementias, to swiftly receive medical care.
-- Sexual Assault Evidence and Survivor Support: Passed five major pieces of legislation transforming how Idaho processes, tracks, and preserves sexual assault kit evidence that is now being copied in other states.
-- Resources and Support for Deaf and Hard of Hearing Community: Created and advanced proposals to secure funding for a full time sign language interpreter for Council for Deaf and Hard of Hearing and funding for closed captioning for all legislative meetings.
-- Rental Assistance and Financial Support During the Pandemic: Spearheaded proposals to secure funding during the pandemic for Emergency Rental Assistance, Food Banks, Crisis cCenters, and Domestic Violence Shelters.
-- Health Care and Medicaid Support: Led efforts to improve Medicaid Non-Emergency Medical Transportation (NEMT) systems and secured $6M rate increases for transportation providers.
-Coordinated efforts with constituents and DHW to add a vital screening to the newborn screening program to identify rare disease for early intervention
-- Property Tax Relief: Created and passed legislation to provide property tax relief for in-home caregivers who provide vital care for people with disabilities.
-Sexual Assault and Domestic Violence Survivors
-Sen.
+Committee Experience Joint Finance and Appropriations Committee House Judiciary and Rules House Transportation The Governor’s Idaho Criminal Justice Commission The Governor’s Public Defense Commission Senate Judiciary and Rules Senate Transportation Senate Health and Welfare Child Protection Oversight Engagement National Conference of State Legislators Opioid Policy Fellows, 2022 National Institute for Civil Discourse, former co-chair of national legislative network, (2017,2018); current advisory board member.
+Western Legislative Academy, graduate 2017 Legislative Energy Horizon Institute, graduate 2017 Idaho Coalition Against Sexual and Domestic Violence, board member, 2014 – present Legislative Accomplishments Increasing Access to Prescription Contraception: Passed legislation to expand access to prescription contraception to a 6-month supply at a time.
+Ensuring Compassionate Care for Neurocognitive Disorders: Created and passed legislation that provides a safe and legal protective placement for those in an acute crisis with a neurocognitive disorder, like Alzheimer’s or other related dementias, to swiftly receive medical care.
+Sexual Assault Evidence and Survivor Support: Passed five major pieces of legislation transforming how Idaho processes, tracks, and preserves sexual assault kit evidence that is now being copied in other states.
+Resources and Support for Deaf and Hard of Hearing Community: Created and advanced proposals to secure funding for a full time sign language interpreter for Council for Deaf and Hard of Hearing and funding for closed captioning for all legislative meetings.
+Rental Assistance and Financial Support During the Pandemic: Spearheaded proposals to secure funding during the pandemic for Emergency Rental Assistance, Food Banks, Crisis cCenters, and Domestic Violence Shelters.
+Health Care and Medicaid Support: Led efforts to improve Medicaid Non-Emergency Medical Transportation (NEMT) systems and secured $6M rate increases for transportation providers.
+Coordinated efforts with constituents and DHW to add a vital screening to the newborn screening program to identify rare disease for early intervention Property Tax Relief: Created and passed legislation to provide property tax relief for in-home caregivers who provide vital care for people with disabilities.
+Sexual Assault and Domestic Violence Survivors Sen.
 Wintrow has put her experience as a Women’s Center Director and advocate to good use.
 She has passed five meaningful pieces of legislation that transformed how Idaho processes, tracks, and preserves sexual assault kit evidence.
 Idaho’s sexual assault kit tracking system is now being replicated all over the country.
 More than 25 states have reached out to copy Idaho’s system.
 Melissa stays in regular contact with the Idaho State Police and the Idaho Sexaul Assault Kit Initiative team where she continues to work on improvements in the system for victims.
-As a member of the Governor’s Idaho Criminal Justice Commission, she worked on and passed bills to define a law for sexual battery in 2018 and a law to provide diversions and supports to human trafficking victims who are minors.
+As a member of the Governor’s Idaho Criminal Justice Commission, she worked on and passed bills to define a law for sexual battery in 2018 and a law to provide diversions and supports to human trafficking victims who are minors .
 Her work on the Foster Care Oversight Committee has also driven her to introduce legislation to raise the marriage age in Idaho and to prohibit firearms from convicted pedophiles and convicted domestic abusers.
 She is working on legislation that was introduced but was blocked last session by the NRA to provide a civil protection order to survivors of sexual assault.
-2026 Legislation
-2026 | S1226: Revises provisions and requirements regarding collection of DNA samples and thumbprint impressions in serious crimes.
-- View Legislative Text
-- Legislative Session: 2026
-- Bill Status: Law
-- About This Bill: This legislation adds two misdemeanors of sexual battery and domestic violence to the list of crimes for which collection of a DNA sample and thumbprint impression are required.
+2026 Legislation 2026 | S1226: Revises provisions and requirements regarding collection of DNA samples and thumbprint impressions in serious crimes.
+View Legislative Text Legislative Session: 2026 Bill Status: Law About This Bill: This legislation adds two misdemeanors of sexual battery and domestic violence to the list of crimes for which collection of a DNA sample and thumbprint impression are required.
 The misdemeanors added can be indicative of a tendency to more serious conduct, including: (a) crimes which may be precursors to more violent activities; (b) crimes that may have been originally charged as felonies, but were pleaded down to misdemeanor; or (c) crimes that evidence an unwillingness to comply with existing legal constraints.
-2026 | S1250: Prohibiting the Public Release of Decedent Photos
-- View Legislative Text
-- Legislative Session: 2026
-- Bill Status: Law
-- About This Bill: The purpose of this legislation is to exempt photographs or images of decedent individuals from public disclosure.
+2026 | S1250: Prohibiting the Public Release of Decedent Photos View Legislative Text Legislative Session: 2026 Bill Status: Law About This Bill: The purpose of this legislation is to exempt photographs or images of decedent individuals from public disclosure.
 2026 | S1257: Child Safety: Establishes provisions regarding visitation when abuse has been substantiated and termination of parental rights.
-- View Legislative Text
-- Legislative Session: 2026
-- Bill Status: Law
-- About This Bill: This legislation updates Idaho’s child protection statutes to clarify the application of existing provisions when a child is in the custody of the state.
+View Legislative Text Legislative Session: 2026 Bill Status: Law About This Bill: This legislation updates Idaho’s child protection statutes to clarify the application of existing provisions when a child is in the custody of the state.
 Specifically, the bill clarifies that mandatory in-person visitation is not required when sexual or physical abuse has been substantiated.
 Additionally, it clarifies existing provisions that allow a court to consider termination of parental rights when the Department of Health and Welfare initiates proceedings.
-2026 | S1293: Crime Victims Compensation
-- View Legislative Text
-- Legislative Session: 2026
-- Bill Status: Law
-- About This Bill: This legislation clarifies that the verification of lawful presence does not apply to applications for crime victims compensation, including the collection of evidence during sexual assault forensic examinations.
+2026 | S1293: Crime Victims Compensation View Legislative Text Legislative Session: 2026 Bill Status: Law About This Bill: This legislation clarifies that the verification of lawful presence does not apply to applications for crime victims compensation, including the collection of evidence during sexual assault forensic examinations.
 The crime victims compensation program encourages victims to come forward and cooperate with law enforcement, thereby supporting public safety.
 By restoring this well-established process, the legislation ensures that crime victims receive the essential services and compensation needed for healing and continued cooperation with law enforcement.
 2026 | S1267: Medicaid for Workers with Disabilities: Directs the Department of Health and Welfare to conduct a study of options regarding certain Medicaid programs.
-- View Legislative Text
-- Legislative Session: 2026
-- Bill Status: Failed
-- About This Bill: The Medicaid for Workers with Disabilities (MWD) program (Idaho Code §56-209n) is health insurance for people who work and have a disability.
+View Legislative Text Legislative Session: 2026 Bill Status: F ailed About This Bill: The Medicaid for Workers with Disabilities (MWD) program (Idaho Code §56-209n) is health insurance for people who work and have a disability.
 This program is intended to help people with disabilities work, earning more money and keeping health insurance, to support independent living.
 Many people with disabilities would like to continue to work beyond the age of 65 and maintain these benefits and supports.
 After age 65, many people who want to continue to work are kicked off the program and then must face higher costs shares that sometimes quadruple.
 In order to keep people living independently in their homes, and avoid the high costs of institutionalization, this legislation directs the Department of Health and Welfare to identify and evaluate options, no later than December 1, 2026, within existing federal Medicaid authority that prioritizes the continuity for individuals enrolled in or transitioning from the Medicaid for Workers with Disabilities program.
-2025 Legislation
-2025 | S1101: Roles of Coroners in Death Investigations
-- View Legislative Text
-- Legislative Session: 2025
-- Bill Status: Signed into Law
-- About This Bill: This legislation outlines common duties of coroners, and provides definitions and standards to increase consistency in practice and improve public safety.
-Press Coverage:
-- Gov.
-Little signs bill that will reform the roles Idaho coroners have in death investigations | Idaho Capital Sun – March 19, 2025
-- Coroner death investigation reform bill passes Senate | Idaho Reports – February 26, 2025
-2025 | H245: Foster Care Resources
-- View Legislative Text
-- Legislative Session: 2025
-- Bill Status: Signed into Law
-- About This Bill: This bill extends foster care resources for foster youth up to 23 years of age.
+2025 Legislation 2025 | S1101: Roles of Coroners in Death Investigations View Legislative Text Legislative Session: 2025 Bill Status: Signed into Law About This Bill: This legislation outlines common duties of coroners, and provides definitions and standards to increase consistency in practice and improve public safety.
+Press Coverage: Gov.
+Little signs bill that will reform the roles Idaho coroners have in death investigations | Idaho Capital Sun – March 19, 2025 Coroner death investigation reform bill passes Senate | Idaho Reports – February 26, 2025 2025 | H245: Foster Care Resources View Legislative Text Legislative Session: 2025 Bill Status: Signed into Law About This Bill: This bill extends foster care resources for foster youth up to 23 years of age.
 I’ve served on the Child Protection Oversight Committee for many years and know just how critical this bill is in terms of providing a supportive on-ramp for foster youth to transition successfully into stable, successful lives.
 No young person should be forced into homelessness simply because they aged out of foster care, and HB 245 gives them the time and resources they need to build their future.
 This is a commonsense, bipartisan step forward that will change lives, and I’m proud to stand with my colleagues in support of it.
-Idaho’s future is brighter when we invest in all of our kids.”
-Press Coverage:
-- House passes bill to further extend foster care | Idaho Reports – February 25, 2025
-- https://www.youtube.com/shorts/me6BOoO4Lyw
-2024 Legislation
-2024 | S1234: Increasing Access to Prescription Contraception
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into Law
-- About This Bill: This legislation allows enrollees to receive up to a six (6) month supply of prescribed contraceptives if they so choose or if they are on an established prescription already.
+Idaho’s future is brighter when we invest in all of our kids.” Press Coverage: House passes bill to further extend foster care | Idaho Reports – February 25, 2025 https://www.youtube.com/shorts/me6BOoO4Lyw 2024 Legislation 2024 | S1234: Increasing Access to Prescription Contraception View Legislative Text Legislative Session: 2024 Bill Status: Signed into Law About This Bill: This legislation allows enrollees to receive up to a six (6) month supply of prescribed contraceptives if they so choose or if they are on an established prescription already.
 Currently, many insurance plans reimburse for only a one (1) to three (3) month supply of contraceptive supplies.
 This legislation will require any health benefit plan issued or renewed on or after January 1, 2025, which covers contraceptives approved by the Federal Food and Drug Administration, to provide reimbursement for up to a six (6) month refill supply obtained at one time by the enrollee.
 The exception is if the enrollee has never been prescribed prescription contraception; then the provider shall provide a smaller supply.
-Press Coverage:
-- Idaho governor signs bill into law to extend contraceptive access | Idaho Capital Sun – March 19, 2024
-- Idaho House narrowly passes bill increasing access to contraceptives, sends to governor for signature | Idaho Press – March 11, 2024
-2024 | S1247: Creating Safe and Compassionate Intervention for Those with Neurocognitive Disorders in Acute Crisis
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into Law
-- About This Bill: This bill creates a legal and compassionate pathway to take someone with a major neurocognitive disorder in an acute crisis, and a danger to themselves or others, to a hospital emergency room for a medical assessment to determine if an undiagnosed medical reason is the cause of the acute crisis.
-Press Coverage:
-- Idaho Legislature widely approves bill to allow holds for neurological crisis situations | Idaho Capital Sun – March 25, 2024
-2024 | S1350: Implementing Human Trafficking Assessments in Juvenile Corrections
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into Law
-- About This Bill: This bill is a product of the recommendations of the Human Trafficking report required by H.B. 341a (2023).
+Press Coverage: Idaho governor signs bill into law to extend contraceptive access | Idaho Capital Sun – March 19, 2024 Idaho House narrowly passes bill increasing access to contraceptives, sends to governor for signature | Idaho Press – March 11, 2024 2024 | S1247: Creating Safe and Compassionate Intervention for Those with Neurocognitive Disorders in Acute Crisis View Legislative Text Legislative Session: 2024 Bill Status: Signed into Law About This Bill: This bill creates a legal and compassionate pathway to take someone with a major neurocognitive disorder in an acute crisis, and a danger to themselves or others, to a hospital emergency room for a medical assessment to determine if an undiagnosed medical reason is the cause of the acute crisis.
+Press Coverage: Idaho Legislature widely approves bill to allow holds for neurological crisis situations | Idaho Capital Sun – March 25, 2024 2024 | S1350: Implementing Human Trafficking Assessments in Juvenile Corrections View Legislative Text Legislative Session: 2024 Bill Status: Signed into Law About This Bill: This bill is a product of the recommendations of the Human Trafficking report required by H.B.
+341a (2023).
 That report recommended the development of standardized training, screening, and assessment tools for Human Trafficking victims, which this bill provides.
 The Idaho Department of Juvenile Corrections (IDJC) will collaborate with counties to support the development of the screening.
-2024 | S1364: Streamlining Brewery Licensing
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into Law
-- About This Bill: This bill consolidates the “brew pub” license and “retail” license into one license, a “brewer’s retail” license.
+2024 | S1364: Streamlining Brewery Licensing View Legislative Text Legislative Session: 2024 Bill Status: Signed into Law About This Bill: This bill consolidates the “brew pub” license and “retail” license into one license, a “brewer’s retail” license.
 This bill also provides that a brewery can maintain their retail privileges should they exceed 30,000 barrels of annual production, provided that it has continuously maintained a physical presence and continuously brewed beer in Idaho for at least five (5) years.
 The brewery will not lose its ability to operate a pub at its brewery or one remote retail location, provided the brewer has a clean record with no major violations from the Idaho State Police – Alcohol Beverage Control Division, and the Idaho State Tax Commission.
-2024 | H542: Advancing Healthcare Access in Idaho Through International Physician Licensure Expansion
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into Law
-- About This Bill: This bill expands Idaho’s licensure program for internationally-trained physicians.
+2024 | H542: Advancing Healthcare Access in Idaho Through International Physician Licensure Expansion View Legislative Text Legislative Session: 2024 Bill Status: Signed into Law About This Bill: This bill expands Idaho’s licensure program for internationally-trained physicians.
 It creates a pathway to licensure for high-quality, international physicians who have attended a recognized medical school and have already completed a residency or other post-graduate training.
 To qualify, physicians must have a job offer from an Idaho healthcare provider and must have practiced abroad or have experience in the U.S. medical system.
 After three years of successful practice under a provisional license, an international physician will be eligible to apply for a full license.
-2024 | S1237: Inclusive Amendments to the Idaho Human Rights Act
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Held
-- About This Bill: This legislation adds the words “sexual orientation” and “gender identity” to the Idaho Human Rights Act, provides definitions for these terms, and amends the stated purpose of the Act consistent with the legislation’s other amendments.
-2024 | S1260: Elections, Creating More Ballot Transparency
-- View Legislative Text
-- Legislative Session: 2024
-- Bill Status: Signed into law
-- About This Bill: This bill requires cities with a population of more than one hundred thousand, to hold a city election for an unopposed office where only one person filed a declaration of intent of candidacy for mayor and/or city council member, and publish the candidate’s name on the ballot.
-2023 – 2016 Legislation
-2023 | S1094: International Medical Graduates, creating pathways for medical practice
-- View Legislative Text
-- Legislative Session: 2023
-- Bill Status: Signed into Law
-- About This Bill: This legislation would extend a temporary license and registration, usually applied to U.S.
+2024 | S1237: Inclusive Amendments to the Idaho Human Rights Act View Legislative Text Legislative Session: 2024 Bill Status: Held About This Bill: This legislation adds the words “sexual orientation” and “gender identity” to the Idaho Human Rights Act, provides definitions for these terms, and amends the stated purpose of the Act consistent with the legislation’s other amendments.
+2024 | S1260: Elections, Creating More Ballot Transparency View Legislative Text Legislative Session: 2024 Bill Status: Signed into law About This Bill: This bill requires cities with a population of more than one hundred thousand, to hold a city election for an unopposed office where only one person filed a declaration of intent of candidacy for mayor and/or city council member, and publish the candidate’s name on the ballot.
+2023 – 2016 Legislation 2023 | S1094: International Medical Graduates, creating pathways for medical practice View Legislative Text Legislative Session: 2023 Bill Status: Signed into Law About This Bill: This legislation would extend a temporary license and registration, usually applied to U.S.
 Medical School graduates for residency training in Idaho, to experienced International Medical Graduates who are forcibly displaced persons to address the severe doctor shortage while simultaneously putting experienced physicians to work.
 Boise and Twin Falls are refugee resettlement locations and we see physicians escaping war torn areas resettling in Idaho.
 This is a creative and effective way to increase the number of practicing physicians in the state (something drastically needed) while we connect families resettling in our country to their communities and to their professions.
-2022 | S1240: Addressing Racially Restrictive Covenants
-- View Legislative Text
-- Legislative Session: 2022
-- Bill Status: Signed into Law
-- About This Bill: This bill allows homeowners to remove racially restrictive covenants that still exist in the chain of title for many Idaho homes in Idaho.
+2022 | S1240: Addressing Racially Restrictive Covenants View Legislative Text Legislative Session: 2022 Bill Status: Signed into Law About This Bill: This bill allows homeowners to remove racially restrictive covenants that still exist in the chain of title for many Idaho homes in Idaho.
 During the twentieth century, both redlining and racial covenants were widely used tools to ensure housing disparities based on race.
 Developers and private landowners embedded racial covenants in property deeds, prohibiting all non-whites from owning, renting, or occupying property – unless doing so as a domestic servant.
 This bill allows a homeowner or tenant to file a modification document in their county clerk’s office to be clear that these are null and void.
-This is so important for anyone purchasing a home; this sends the message that this practice is illegal and that everyone is welcome to own a home in our state
-Does your deed or covenant contain racist language?
-Search below and file a free request for removal through your COUNTY CLERK’S OFFICE.
-- Follow These Steps:
-- Review the CC&R’s for your home: Check your County Clerk’s Website for more information.
-In Ada County click on this link and scroll to the bottom of the page.
-- If discriminatory language is found, please download the modification form here
-- Complete the modification form.
-- The legal description for your property can be found on your most recent tax bill.
-- Bring completed form to your county recorder’s office; there is no fee to record this form.
-- Keep the recorded form for your records.
-Using your HOA to collectively address discriminatory language:
-Press Coverage:
-- Bill to remove racially restrictive covenants passes Senate floor | KIVI – February 8, 2022
-- Acknowledging Boise’s past: Student research helped create law to allow removal of race covenants | Idaho Capital Sun – July 5, 2022
-- Removing racial covenants in Idaho | Boise State Public Radio – July 7, 2022
-- Legislature’s vote ‘to rebuke racially restrictive covenants’ encouraging | Idaho County Free Press – July 10, 2022
-2022 | S1332: Protecting Confidential Communication of Sexual and Domestic Violence Survivors
-- View Legislative Text
-- Legislative Session: 2022
-- Bill Status: Signed into Law
-- About This Bill: Domestic and sexual violence programs are required to maintain confidentiality under their federal funding sources.
+This is so important for anyone purchasing a home; this sends the message that this practice is illegal and that everyone is welcome to own a home in our state Does your deed or covenant contain racist language?
+Search below and file a free request for removal through your COUNTY CLERK’S OFFICE .
+Follow These Steps: Review the CC&R’s for your home : Check your County Clerk’s Website for more information.
+In Ada County click on this link and scroll to the bottom of the page .
+If discriminatory language is found, please download the modification form here Complete the modification form.
+The legal description for your property can be found on your most recent tax bill.
+Bring completed form to your county recorder’s office; there is no fee to record this form.
+Keep the recorded form for your records.
+Using your HOA to collectively address discriminatory language: Eliminating discriminatory CC&Rs Delete discrimination grant program Press Coverage: Bill to remove racially restrictive covenants passes Senate floor | KIVI – February 8, 2022 Acknowledging Boise’s past: Student research helped create law to allow removal of race covenants | Idaho Capital Sun – July 5, 2022 Removing racial covenants in Idaho | Boise State Public Radio – July 7, 2022 Legislature’s vote ‘to rebuke racially restrictive covenants’ encouraging | Idaho County Free Press – July 10, 2022 2022 | S1332: Protecting Confidential Communication of Sexual and Domestic Violence Survivors View Legislative Text Legislative Session: 2022 Bill Status: Signed into Law About This Bill: Domestic and sexual violence programs are required to maintain confidentiality under their federal funding sources.
 Unfortunately, because there is no similar state-level protection, program employees and volunteers and records are sought.
 Programs must then divert their limited resources to respond to protect client information instead of providing services.
 This bill closes a loophole and makes is clear that the state law also protects the confidential communication of victims getting help from staff members of domestic and sexual violence programs.
 It’s essential to ensure that victims know that they can come forward without fear that personal information is shared which could put the victim at further harm; lack of protection also could have a chilling effect on victims who would like to seek services but fear for their safety and protection.
-2022 | S1259: Property Tax Relief for In Home Caregivers
-- View Legislative Text
-- Legislative Session: 2022
-- Bill Status: Signed into Law
-- About This Bill: This legislation would allow someone who is the homeowner of a Certified Family Home to apply for the “circuit breaker” property tax relief program by exempting the payment they receive from the state for caring for someone 24/7 in their home from the income counted toward the application.
+2022 | S1259: Property Tax Relief for In Home Caregivers View Legislative Text Legislative Session: 2022 Bill Status: Signed into Law About This Bill: This legislation would allow someone who is the homeowner of a Certified Family Home to apply for the “circuit breaker” property tax relief program by exempting the payment they receive from the state for caring for someone 24/7 in their home from the income counted toward the application.
 In order to keep people with disabilities out of institutions, Idaho like other states in our country, allow people to become licensed to care for someone in their home and receive payments for caring for their health and well-being.
 This saves the state many thousands of dollars; on average someone in a CFH is compensated $53 per day versus $265 per day in an institution.
 I believe that low income folks should be able to apply for property tax relief without this compensation counting against them when they apply for property tax relief.
-Press Coverage:
-- Property tax break for family care homes passes Legislature | Idaho Press – March 26, 2022
-- How One Caregiver’s Persistence Led to the Amendment of an Existing Property Tax Law in Idaho | Idaho Caregiver Alliance – April 19, 2022
-2022 | S1260: Increasing Access to Prescription Contraception
-- View Legislative Text
-- Legislative Session: 2022
-- Bill Status: Killed on the HOUSE floor
-- About This Bill: This legislation allows women to receive up to a 6 (six) month supply of prescribed contraceptives if they so choose.
+Press Coverage: Property tax break for family care homes passes Legislature | Idaho Press – March 26, 2022 How One Caregiver’s Persistence Led to the Amendment of an Existing Property Tax Law in Idaho | Idaho Caregiver Alliance – April 19, 2022 2022 | S1260: Increasing Access to Prescription Contraception View Legislative Text Legislative Session: 2022 Bill Status: Killed on the HOUSE floor About This Bill: This legislation allows women to receive up to a 6 (six) month supply of prescribed contraceptives if they so choose.
 Currently, many insurance plans reimburse for only a 1 (one) to 3 (three) month supply of contraceptive supplies, which can create unnecessary barriers for women.
 This bill merely increases accessibility to contraceptive medicine to help women in their own medication regimes.
 This was the fourth try to pass this bill, but within 20 minutes of this bill to increase access to contraception and the House passed to date the most restrictive abortion ban (S1309).
 If the majority party wanted to decrease the need for abortion, the #1 best practice would be to increase access to birth control.
-Press Coverage:
-- Idaho Senate passes bill requiring insurers to provide longer supply of contraceptives | Idaho Capital Sun – February 22, 2022
-- House Kills Increased Access to Contraceptives Bill | Idaho Press – March 14, 2022
-- The bill that Idaho’s Legislature should have passed | Idaho State Journal – April 15, 2022
-2021 | S1098: Contraception and Health Plans
-- View Legislative Text
-- Legislative Session: 2021
-- Bill Status: Killed on the Senate floor
-- About This Bill: This legislation allows women to receive up to a 12 (twelve) month supply of prescribed contraceptives if they so choose.
+Press Coverage: Idaho Senate passes bill requiring insurers to provide longer supply of contraceptives | Idaho Capital Sun – February 22, 2022 House Kills Increased Access to Contraceptives Bill | Idaho Press – March 14, 2022 The bill that Idaho’s Legislature should have passed | Idaho State Journal – April 15, 2022 2021 | S1098: Contraception and Health Plans View Legislative Text Legislative Session: 2021 Bill Status: Killed on the Senate floor About This Bill: This legislation allows women to receive up to a 12 (twelve) month supply of prescribed contraceptives if they so choose.
 Currently, many insurance plans reimburse for only a 1 (one) to 3 (three) month supply of contraceptive supplies, which can create unnecessary barriers for women.
 This bill merely increases accessibility to contraceptive medicine to help women in their own medication regimes.
-2021 | S1097: Promissory Notes and Unfair Debt Collection Practices
-- View Legislative Text
-- Legislative Session: 2021
-- Bill Status: Referred to Commerce and Human Resources on 02/15/21
-- About This Bill: This legislation clarifies the duration of time in which a junior lien holder may bring an action for deficiency resulting from the sale of a secured property.
+2021 | S1097: Promissory Notes and Unfair Debt Collection Practices View Legislative Text Legislative Session: 2021 Bill Status: Referred to Commerce and Human Resources on 02/15/21 About This Bill: This legislation clarifies the duration of time in which a junior lien holder may bring an action for deficiency resulting from the sale of a secured property.
 Idaho Code does not specify the time period in which such action may be brought; the results are extremely inequitable situations where junior lien holders are able to bring such actions at any point during the duration of an installment contract which could be up to 30 years.
 This bill was brought to me by a constituent who is an attorney and has directly observed how this loophole has created surprising and very traumatic consequences for people.
-2021 | S1089: Rape of a Spouse (Repeal of the law)
-- View Legislative Text
-- Legislative Session: 2021
-- Bill Status: Signed into law
-- About This Bill: The purpose of this bill is to repeal a portion of Idaho law that provides exceptions to the criminal definition of rape based on the relationship of the parties (spouse), which is unnecessary and inappropriate.
+2021 | S1089: Rape of a Spouse (Repeal of the law) View Legislative Text Legislative Session: 2021 Bill Status: Signed into law About This Bill: The purpose of this bill is to repeal a portion of Idaho law that provides exceptions to the criminal definition of rape based on the relationship of the parties (spouse), which is unnecessary and inappropriate.
 This bill updates Idaho law to define rape the same regardless of who is involved, by repealing in its entirety Section 18-6107.
 This law was originally introduced in 1977 and has evolved overtime.
 I was a little shocked that this law was still on the books.
 Most of my colleagues seem very supportive of removing it.
 There should be no defense for raping someone because they are your spouse.
 Idaho Code 18-6101 addresses rape and everyone should be accountable to the law regardless of relationship.
-- Press Coverage: House votes unanimously to roll back Idaho’s spousal rape exceptions, by Idaho Press April 8, 2021
-2021 | H212: Certified Family Homes (CFH) and Tax Relief
-- View Legislative Text
-- Legislative Session: 2021
-- Bill Status: Killed on the House floor
-- About This Bill: This legislation would allow someone who is the homeowner of a Certified Family Home to apply for the “circuit breaker” property tax relief program by exempting the payment they receive from the state for caring for someone 24/7 in their home from the income counted toward the application.
+Press Coverage: House votes unanimously to roll back Idaho’s spousal rape exceptions , by Idaho Press April 8, 2021 2021 | H212: Certified Family Homes (CFH) and Tax Relief View Legislative Text Legislative Session: 2021 Bill Status: Killed on the House floor About This Bill: This legislation would allow someone who is the homeowner of a Certified Family Home to apply for the “circuit breaker” property tax relief program by exempting the payment they receive from the state for caring for someone 24/7 in their home from the income counted toward the application.
 In order to keep people with disabilities out of institutions, Idaho like other states in our country, allow people to become licensed to care for someone in their home and receive payments for caring for their health and well-being.
 This saves the state many thousands of dollars; on average someone in a CFH is compensated $53 per day versus $265 per day in an institution.
 I believe that low income folks should be able to apply for property tax relief without this compensation counting against them when they apply for property tax relief.
-- Press Coverage: House kills 2 bills…, by Betsy Russel, Idaho Press, Feb 25, 2021
-2021 | Adding FACES of Hope to the Charitable Contribution List
-- Legislative Session: 2021
-- Bill Status: Denied a hearing
-- About This Bill: This bill would have added FACES of Hope Victim Center in Boise to the list of charities where donors could receive a tax credit to incentivize their contribution and double the impact for the organization.
+Press Coverage: House kills 2 bills… , by Betsy Russel, Idaho Press, Feb 25, 2021 2021 | Adding FACES of Hope to the Charitable Contribution List Legislative Session: 2021 Bill Status: Denied a hearing About This Bill: This bill would have added FACES of Hope Victim Center in Boise to the list of charities where donors could receive a tax credit to incentivize their contribution and double the impact for the organization.
 Unfortunately, the committee chair would not allow a hearing at this time.
-2020 | H345: Predatory Booting of Vehicles Stopped
-- View Legislative Text
-- Legislative Session: 2020
-- Bill Status: Passed into law
-- About This Bill: This bill ended a practice that allowed private towing/booting companies to boot vehicles solely on the basis of expired vehicle registration.
+2020 | H345: Predatory Booting of Vehicles Stopped View Legislative Text Legislative Session: 2020 Bill Status: Passed into law About This Bill: This bill ended a practice that allowed private towing/booting companies to boot vehicles solely on the basis of expired vehicle registration.
 Complaints were being filed where tenants were parked in their assigned parking spots, but getting booted for expired tags.
 The average bill for booting is about $85.00, and that can add up!
 This had the potential to be a money making scheme for landlords or private companies, so Melissa worked with stakeholders and Rep.
 Ricks from Eastern Idaho to pass this legislation.
 It’s a simple bill with far reaching positive impacts to tenants, especially, who were being booted solely for expired tags.
 We felt that was an overreach and had many negative consequences for renters in particular.
-2020 | H383: Sexual Assault Civil Protection Order
-- View Legislative Text
-- Bill Status: Chair denies a vote due to special interest
-- About This Bill: The purpose of this legislation is to expand the ability of the court to provide a legal means for victims of sexual assault to petition for a civil protection order.
+2020 | H383: Sexual Assault Civil Protection Order View Legislative Text Bill Status: Chair denies a vote due to special interest About This Bill: The purpose of this legislation is to expand the ability of the court to provide a legal means for victims of sexual assault to petition for a civil protection order.
 Protection orders are widely used legal interventions to reduce the risk of future harm by one person considered to be a threat to another.
 Currently, Idaho Code does not allow for a protection order to be granted for most people who have been sexually assaulted, unlike people who have been victims of domestic violence, stalking and telephone harassment.
 This legislation would clear up existing confusion for these victims and finally provide a means for them to seek legal protection through the courts.
@@ -276,12 +125,7 @@ This legislation was heard in House Judiciary and Rules, but was held in committ
 Many GOP colleagues were not willing to stand up to the NRA, even though their claim was unsubstantiated and unfounded, so the bill couldn’t get out of committee.
 As Rep Wintrow has shown in the past, she keeps getting up even when knocked down.
 She will continue to work on this bill and try to persuade many of those GOP colleagues that this bill is an essential element of protection for victims of sexual assault.
-- Press Coverage: NRA lobby efforts kill civil protection order bill for Idaho rape victims, advocates say, by Ruth Brow, Idaho Statesman, March 5, 2020
-2020 | H462: Tenant Bill of Rights
-- View Legislative Text
-- Legislative Session: 2020
-- Bill Status: Killed by GOP majority in the House
-- About This Bill: The purpose of this legislation is to define a process for a landlord and tenant to conduct a walkthrough of the premises being rented by the tenant at the time of move in and move out.
+Press Coverage: NRA lobby efforts kill civil protection order bill for Idaho rape victims, advocates say , by Ruth Brow, Idaho Statesman, March 5, 2020 2020 | H462: Tenant Bill of Rights View Legislative Text Legislative Session: 2020 Bill Status: Killed by GOP majority in the House About This Bill: The purpose of this legislation is to define a process for a landlord and tenant to conduct a walkthrough of the premises being rented by the tenant at the time of move in and move out.
 It also requires landlords to “show their work” regarding what portion of the security deposit they are keeping, and to provide an itemized receipt of charges they want to assess and the actual cost of repairs or cleaning.
 I have heard horror stories about tenants being assessed charges when they didn’t damage the property they are renting.
 I worked in college student housing for many years, and the best way to avoid problems is to do an inventory of the conditions of the property at move in and move out and then require the landlord to provide a written statement/assessment of damages.
@@ -295,105 +139,54 @@ When the Governor closed businesses to prevent the spread of the virus, that mea
 Rep Wintrow did her homework while reviewing US Treasury Guidance and over a 4 week period pursued this proposal which was passed and the Governor supported.
 The committee approved up to 15 million dollars of federal CARES Act funds to support he Rental/Utility Assistance Program.
 If you are an Idahoan struggling to pay the bill due to COVID19, apply on line through the Idaho Housing and Finance Association (June 15 – December 15).
-- Press Coverage: Inside the Statehouse: New bill addresses security deposits and late fees, by Madeline White, KIVI-TV, February 14, 2020
-- Press Coverage: Legislative issues worth consideration in the 2020 session, by Jim Jones, MagicValley Times News
-2020 | H595: Forcible Entry and Unlawful Detainer
-- View Legislative Text
-- Legislative Session: 2020
-- Bill Status: Voted down in House
-- About This Bill: Adds to and amends existing law to provide a certain requirement for a landlord and to provide a certain requirement for a security deposit.
-2019 | H266: Sexual Assault Evidence Kits
-- View Legislative Text
-- Legislative Session: 2019
-- Bill Status: Law
-- About This Bill: This legislation clarifies that when an adult victim of sexual assault comes to the hospital for a sexual assault medical forensci exam, the hospital staff is not required to report the injury to police in order to protect the anonymity of the victim.
+Press Coverage: Inside the Statehouse: New bill addresses security deposits and late fees , by Madeline White, KIVI-TV, February 14, 2020 Press Coverage: Legislative issues worth consideration in the 2020 session , by Jim Jones, MagicValley Times News 2020 | H595: Forcible Entry and Unlawful Detainer View Legislative Text Legislative Session: 2020 Bill Status: Voted down in House About This Bill: Adds to and amends existing law to provide a certain requirement for a landlord and to provide a certain requirement for a security deposit.
+2019 | H266: Sexual Assault Evidence Kits View Legislative Text Legislative Session: 2019 Bill Status: Law About This Bill: This legislation clarifies that when an adult victim of sexual assault comes to the hospital for a sexual assault medical forensci exam, the hospital staff is not required to report the injury to police in order to protect the anonymity of the victim.
 Idaho code 75-2919 defines conditions for the collection of an anonymous sexual assault forensic kit according to the Violence Against Women Act.
 This legislation clarifies policy and protects victims rights.
-2019 | H98: Raising the Child Marriage Age
-- View Legislation Text
-- Legislative Session: 2019
-- Bill Status: Killed by GOP majority in the House
-- About This Bill: I partnered with the Idaho Coalition Against Sexual and Domestic Violence to introduce House Bill 98.
+2019 | H98: Raising the Child Marriage Age View Legislation Text Legislative Session: 2019 Bill Status: Killed by GOP majority in the House About This Bill: I partnered with the Idaho Coalition Against Sexual and Domestic Violence to introduce House Bill 98.
 The purpose of the bill is to prevent forced or coerced marriages, the trafficking of children and to limit marriage to those with the legal and practical ability to protect themselves from abuse.
 The legal age to marry in our state is 18, but we currently grant exceptions to this age which allows children of any age to be married, and many times to adults much older than they are.
 This bill aligns marriage laws with our statutory rape laws and would permit minors who are 16 or 17 years of age to marry only if they consented to the marriage, have written consent from parents or legal guardian, permission from the court, and are appropriately mature and self-sufficient to enter into a marriage contract.
 Unfortunately this bill failed on the House floor on a 28-39 vote.
 Please read my news page for more information on this issue.
-- Press Coverage: An Idaho Bill Ending Child Marriage Before Age 16 Was Voted Down In The State House, By Madhuri Sathish Bustle, February 2019
-2019 | H105: Pet Friendly License Plate
-- View Legislation Text
-- Legislative Session: 2019
-- Bill Status: Passed into law
-- About This Bill: Congratulations, Hy Kloc and Idaho Human Society, for working so hard to pass our new Pet Friendly Plate.
+Press Coverage: An Idaho Bill Ending Child Marriage Before Age 16 Was Voted Down In The State House , By Madhuri Sathish Bustle, February 2019 2019 | H105: Pet Friendly License Plate View Legislation Text Legislative Session: 2019 Bill Status: Passed into law About This Bill: Congratulations, Hy Kloc and Idaho Human Society, for working so hard to pass our new Pet Friendly Plate.
 Proceeds from the sales of the plates will be granted to Idaho veterinarians, animal shelters or rescue groups in low income areas to help fund spay and neuter services to assist lower income families.
 Get ready to buy your plate on July 1, 2019!
-2019 | H116: Testing All Sexual Assault Evidence Kits
-- View Legislation Text
-- Legislative Session: 2019
-- Bill Status: Passed into law
-- About This Bill: This legislation amends our current law to test all sexual assault evidence kits with only rare exceptions.
+2019 | H116: Testing All Sexual Assault Evidence Kits View Legislation Text Legislative Session: 2019 Bill Status: Passed into law About This Bill: This legislation amends our current law to test all sexual assault evidence kits with only rare exceptions.
 In the past, there have been several legal exceptions to testing kits, which resulted in a growing number of kits not being tested.
 Thankfully, we established a first of its kind tracking system in 2016, which led us to identify issues and address them, which we are doing with this legislation.
 This is very important public safety policy because the more kits we can enter into the national database, the greater chance we have to identify a “serial” rapist and hold them accountable.
-- Press Coverage: Bill that would mandate testing of nearly all sexual assault kits moves to Idaho House, By Ruth Brown Idaho Statesman, February 7th, 2019
-2019 | H276: Child Battery Amendment
-- View Legislation Text
-- Legislative Session: 2019
-- Bill Status: Passed the House, was read for the first time in the Senate and referred to Judiciary and Rules on 3/15/20
-- About This Bill: This legislation amends existing law to provide that a person convicted of the crime of sexual battery of a minor child sixteen or seventeen years of age shall not have certain rights restored under certain circumstances.
-2018 | H429a: Sexual Assault Victim's Compensation
-- View Legislative Text
-- Legislative Session: 2018
-- Bill Status: Passed into law
-- About This Bill: Prior to passage of this bill, Idaho Code 72-1019 directed Idaho’s Crime Victims Compensation Program (CVCP) to pay for sexual assault forensic evidence collection “after collection from any third party who has liability.” Therefore, an adult sexual assault victim’s health insurance plan may be billed for a sexual assault forensic evidence collection first, and then CVCP pays any remaining costs after the insurance claim is settled.
+Press Coverage: Bill that would mandate testing of nearly all sexual assault kits moves to Idaho House , By Ruth Brown Idaho Statesman, February 7th, 2019 2019 | H276: Child Battery Amendment View Legislation Text Legislative Session: 2019 Bill Status: Passed the House, was read for the first time in the Senate and referred to Judiciary and Rules on 3/15/20 About This Bill: This legislation amends existing law to provide that a person convicted of the crime of sexual battery of a minor child sixteen or seventeen years of age shall not have certain rights restored under certain circumstances.
+2018 | H429a: Sexual Assault Victim's Compensation View Legislative Text Legislative Session: 2018 Bill Status: Passed into law About This Bill: Prior to passage of this bill, Idaho Code 72-1019 directed Idaho’s Crime Victims Compensation Program (CVCP) to pay for sexual assault forensic evidence collection “after collection from any third party who has liability.” Therefore, an adult sexual assault victim’s health insurance plan may be billed for a sexual assault forensic evidence collection first, and then CVCP pays any remaining costs after the insurance claim is settled.
 Sexual assault was the only crime in Idaho where the victim’s insurance is billed for forensic evidence collection.
 This legislation takes a third party, insurance, out of the billing process for adult victims and directs Idaho’s Crime Victims Compensation Program to pay the entire amount of the cost of sexual assault evidence collection at a medical facility or justice center.
-- Press Coverage: Bill aims to not have sex abuse victims file insurance claim to get a forensic exam, by Michael Sevren Kivitv, Jan. 14, 2018
-2018 | H585: Firearms and Domestic Violence
-- View Legislation Text
-- Legislative Session: 2018
-- Bill Status: Failed in the House by 5 votes
-- About This Bill: This legislation provides that a person who is found guilty of or is convicted of misdemeanor domestic violence may not possess, own, or purchase a firearm.
+Press Coverage: Bill aims to not have sex abuse victims file insurance claim to get a forensic exam , by Michael Sevren Kivitv, Jan.
+14, 2018 2018 | H585: Firearms and Domestic Violence View Legislation Text Legislative Session: 2018 Bill Status: Failed in the House by 5 votes About This Bill: This legislation provides that a person who is found guilty of or is convicted of misdemeanor domestic violence may not possess, own, or purchase a firearm.
 If a person who has been convicted of misdemeanor domestic violence is found in possession, owns, or purchases a firearm within two (2) years of the conviction, that person will be guilty of a misdemeanor.
 This legislation mirrors the Federal Gun Control Act of 1968 that prohibits individuals who are convicted of a misdemeanor crime of domestic violence from possessing a firearm.
 Currently there is not a state enforcement mechanism; this legislation would allow for state enforcement.
 Unfortunately this bill did not pass.
-- Press Coverage: Joint Opinion: Give Idaho Law Enforcement the Tools to Keep Domestic Abuse Victims Safe, Feb. 26, 2018, BYU Idaho-Radio
-- Press Coverage: Idaho House Rejects Bill to Keep Guns Away from Domestic Abusers, Besty Russell Spokesman Review, March 6, 2018
-2017 | H146: Sexual Assault Evidence Preservation
-- View Legislation Text
-- Legislative Session: 2017
-- Bill Status: Passed into law
-- About This Bill: H146 created some of the best standards in the country for preserving sexual assault evidence to support victims in the reporting process.
+Press Coverage: Joint Opinion: Give Idaho Law Enforcement the Tools to Keep Domestic Abuse Victims Safe , Feb.
+26, 2018, BYU Idaho-Radio Press Coverage: Idaho House Rejects Bill to Keep Guns Away from Domestic Abusers , Besty Russell Spokesman Review, March 6, 2018 2017 | H146: Sexual Assault Evidence Preservation View Legislation Text Legislative Session: 2017 Bill Status: Passed into law About This Bill: H146 created some of the best standards in the country for preserving sexual assault evidence to support victims in the reporting process.
 The purpose of this legislation is to codify standards for sexual assault victims’ access to medical examinations, as well as standards for sexual assault evidence retention and preservation.
 It ensures victims of sexual assault are not denied medical examinations regardless of the ability to pay for said examination.
 Additionally, this legislation defines evidence preservation periods based on the classification of the crimes alleged and ensures proper notification to victims upon destruction.
-- Press Coverage: Wintrow Leads the Fight Against Sexual Assault, Standard Journal, March 21, 2017
-- Press Coverage: Idaho Has Come a Long Way in a Short Time Dealing with Sexual Assault, OP Ed with Chief of Police Kingsbury and Rep Wintrow, Oct. 22, 2017
-2016 | H528: Sexual Assault Evidence Processing
-- View Legislation Text
-- Legislative Session: 2016
-- Bill Status: Passed into law
-- About This Bill: This legislation enacts legal standards to ensure that evidence collected in a sexual assault investigations will be tested in a timely manner, supporting victims and holding perpetrators accountable.
+Press Coverage: Wintrow Leads the Fight Against Sexual Assault , Standard Journal, March 21, 2017 Press Coverage: Idaho Has Come a Long Way in a Short Time Dealing with Sexual Assault , OP Ed with Chief of Police Kingsbury and Rep Wintrow, Oct.
+22, 2017 2016 | H528: Sexual Assault Evidence Processing View Legislation Text Legislative Session: 2016 Bill Status: Passed into law About This Bill: This legislation enacts legal standards to ensure that evidence collected in a sexual assault investigations will be tested in a timely manner, supporting victims and holding perpetrators accountable.
 This bill also created a first of its kind tracking system and requires information to be publicly posted and reported to the legislature annually.
 I worked with an interagency working group that included representatives from the Idaho State Police forensics laboratory, victim’s advocacy groups, law enforcement, crime victim’s compensation, prosecutors office, and public defense.
 This collaborative effort resulted in unanimous approval in both the House and Senate.
-- Sexual Assault Kit Tracking System: This legislation paved the way for the Idaho State Police to develop a statewide tracking system that victims can access to track their evidence as it goes through the process of testing.
+Sexual Assault Kit Tracking System : This legislation paved the way for the Idaho State Police to develop a statewide tracking system that victims can access to track their evidence as it goes through the process of testing.
 This is a great tool to empower victims and create transparency in the system.
 It also serves as a great organization tool for law enforcement.
-- Press Coverage: Legislator Proposes Changes in Rape Kit Testing Policy, by Ruth Brown,Idaho Press Tribune reporter, Feb. 15, 2016
-- Press Coverage: Legislature Approves Funding for Rape Kit Tracking Bill, by Ruth Brown,Idaho Press Tribune reporter, March 10, 2016
-- Press Coverage: Idaho becomes the First in the Nation with Online Tracking of Sexual Assault Evidence, by Emily Lowe, July 15, 2017
-- Press Coverage: Idaho Releases First Report on Sexual Assault Kit Tracking, by Frankie Barnhill, Jan. 23, 2018
-- Press Coverage: A New System to Ensure Sexual-Assault Cases Aren’t Forgotten, by Madeleine Carlisle, Apr. 7, 2019
-2016 | H481: The Right To Try
-- View Legislation Text
-- Legislative Session: 2016
-- Bill Status: Passed into law
-- About This Bill: The Right to Try gives patients with a terminal diagnosis the right to try an investigational drug to save their lives.
+Press Coverage: Legislator Proposes Changes in Rape Kit Testing Policy , by Ruth Brown,Idaho Press Tribune reporter, Feb.
+15, 2016 Press Coverage: Legislature Approves Funding for Rape Kit Tracking Bill , by Ruth Brown,Idaho Press Tribune reporter, March 10, 2016 Press Coverage: Idaho becomes the First in the Nation with Online Tracking of Sexual Assault Evidence , by Emily Lowe, July 15, 2017 Press Coverage: Idaho Releases First Report on Sexual Assault Kit Tracking , by Frankie Barnhill, Jan.
+23, 2018 Press Coverage: A New System to Ensure Sexual-Assault Cases Aren’t Forgotten , by Madeleine Carlisle, Apr.
+7, 2019 2016 | H481: The Right To Try View Legislation Text Legislative Session: 2016 Bill Status: Passed into law About This Bill: The Right to Try gives patients with a terminal diagnosis the right to try an investigational drug to save their lives.
 The FDA process can take upwards of 12-15 years to approve a new drug.
 Some patients, like those who have been diagnosed with ALS, may be given a very short little expectancy to live very long.
 This legislation allows a patient to work with their doctor to use an investigational drug as long as it has passed the PHASE 1 – Safety process.
 A constituent, John Knudsen, along with a research physician, Dr.
 James Quinn, contacted me to research and run this legislation.
 We worked as a team and even involved an attorney from the Goldwater Institute, who had drafted model legislation to assist state legislatures.
+Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

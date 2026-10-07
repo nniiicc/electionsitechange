@@ -1,4 +1,4 @@
-[January 08, 2024] | The Georgia General Assembly starts on Monday the 8th.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK GEORGIA ASSEMBLY STARTS MONDAY [ January 08, 2024 ] | The Georgia General Assembly starts on Monday the 8th.
 It's pretty exciting to be under the Gold Dome and represent the fine folks of this area.
 I am always asked, "What are you going to work on, Rick?", "What's important?", "What do you think about this and that?
 When preparing for the session in the last few weeks, I jotted down some of the issues we may see.
@@ -29,3 +29,4 @@ I encourage you to visit me at my Capitol office, or call me if you have any que
 My Capitol office number is 404-656-7153.
 My email is rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -4,4 +4,4 @@ Email * ZIP Code Phone By submitting your cell phone number you are agreeing to 
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Get Updates
+Get Updates Privacy Policy Accessibility Statement PAID FOR BY Soria for Senate Jump to Content Toggle High Contrast Toggle Font Size

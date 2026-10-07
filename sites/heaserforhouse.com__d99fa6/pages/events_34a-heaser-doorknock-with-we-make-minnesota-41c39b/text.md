@@ -1,4 +1,3 @@
-Prepared and paid for by the Heaser for House Committee:
-12299 Champlin Dr, Unit 124, Champlin, MN 55316
-Jason Heaser is a retired member of the US Army.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Back to All Events 34A - Heaser Doorknock with We Make Minnesota Thursday, October 1, 2026 5:00 PM 8:00 PM Google Calendar ICS Previous Previous September 30 34A - Heaser Doorknock Next Next October 3 Heaser for House Door Knock Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
 Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

@@ -1,14 +1,4 @@
-ABOUT
-John’s Story
-Quick Facts
-- Home: West Richland, WA
-- Service: 37 years (USAF + civilian)
-- Rank: Major, USAF (Ret.)
-- Education: Embry-Riddle
-Aeronautical University
-- Family: Married 31 years, two children
-- Party: Democrat
-I Could Be Fishing.
+0 Skip to Content Veterans for John Contact About John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer English DONATE Open Menu Close Menu English DONATE Veterans for John Contact About John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer Open Menu Close Menu Veterans for John Contact Folder: About Back John Duresky The District Endorsements Ballot drop boxes News Issues Events Volunteer English Back DONATE ABOUT John’s Story Quick Facts Home: West Richland, WA Service: 37 years (USAF + civilian) Rank: Major, USAF (Ret.) Education: Embry-Riddle Aeronautical University Family: Married 31 years, two children Party: Democrat I Could Be Fishing.
 Instead, I'm Running.
 I didn't set out to run for Congress.
 After 37 years of public service in the Air Force and in civil service, I had earned the right to slow down.
@@ -24,15 +14,7 @@ I've watched opportunity narrow.
 I've watched politics become about power instead of people.
 At some point, sitting on the sidelines stopped feeling like an option.
 So I stepped up.
-What I’m Running For
-As your Congressman, I will work to:
-✓ Protect working families and small businesses
-✓ Keep healthcare affordable and rural hospitals open
-✓ Defend voting rights and democracy
-✓ Make government accountable again
-✓ Put Central Washington first, not special interests
-Why Central Washington Is Home
-Washington didn't start out as my home.
+What I’m Running For As your Congressman, I will work to: ✓ Protect working families and small businesses ✓ Keep healthcare affordable and rural hospitals open ✓ Defend voting rights and democracy ✓ Make government accountable again ✓ Put Central Washington first, not special interests Why Central Washington Is Home Washington didn't start out as my home.
 My first Air Force assignment brought me to Fairchild Air Force Base outside Spokane.
 I came here to serve, and I stayed because this place and its people felt right.
 Over time, Central Washington became home and we built our lives here.
@@ -61,3 +43,12 @@ That's why this campaign uses every tool available, town halls, social media, co
 You deserve a representative who doesn't disappear after Election Day.
 You deserve someone who works for you every day.
 That's what I'm committed to doing.
+Home ‍ ‍ About‍ ‍ Issues‍ ‍ Events ‍ ‍ Endorsements‍ ‍ Volunteer ‍ Donate © # John Duresky for Congress.
+All rights reserved.
+Privacy Policy‍ Plain Talk.
+Real Service. info@johnduresky.com John Duresky is a retired member of the U.S.
+Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the U.S.
+Air Force or the Department of Defense.
+Plain Talk.
+Real Service. info@johnduresky.com Paid for by John Duresky for Congress

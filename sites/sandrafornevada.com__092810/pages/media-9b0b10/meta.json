@@ -1,7 +1,9 @@
 {
  "description": "Explore Sandra Jauregui&#39;s campaign media for Nevada politics, showcasing her vision and updates for engagement.",
  "final_url": "https://sandrafornevada.com/media",
- "paid_for_by": null,
+ "fingerprint": "46ba027bb3e52de88f69363e0d4bb8eafa11d413",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Media",
  "years_mentioned": []
 }

@@ -1,10 +1,3 @@
-Back to All Events
-Come help promote Andy Beck for Congress by holding Beck for Congress signs and protest signs.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Muskego Action Team Tuesday, September 8, 2026 6:00 PM 7:00 PM Kohls Parking Lot by Janesville Road S68W15388 West Janesville Road Muskego, Wisconsin, 53150 United States (map) Google Calendar ICS Come help promote Andy Beck for Congress by holding Beck for Congress signs and protest signs.
 Let drivers know there is a better alternative to Scott Fitzgerald for the 5th CD!
-Previous
-Previous
-September 7
-Labor Fest
-Next
-Next
-September 12
+Previous Previous September 7 Labor Fest Next Next September 12 West Bend Farmer's Market DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

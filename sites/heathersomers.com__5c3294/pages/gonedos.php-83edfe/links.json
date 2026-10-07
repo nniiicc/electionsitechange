@@ -1,5 +1,14 @@
 [
-"https://heathersomers.com/",
-"https://majoritymicro.wpengine.com/gonedos.php?action=lostpassword",
-"https://wordpress.org/"
+{
+"text": "Lost your password?",
+"href": "https://majoritymicro.wpengine.com/gonedos.php?action=lostpassword"
+},
+{
+"text": "Powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "← Go to Heather Somers",
+"href": "https://www.heathersomers.com/"
+}
 ]

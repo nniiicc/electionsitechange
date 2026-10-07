@@ -1,8 +1,26 @@
 [
-"https://robbgreene.com/",
-"https://robbgreene.com/blog",
-"https://robbgreene.com/district-47",
-"https://robbgreene.com/donate",
-"https://robbgreene.com/get-a-sign",
-"https://robbgreene.com/special-needs-families"
+{
+"text": "District 47",
+"href": "https://www.robbgreene.com/district-47"
+},
+{
+"text": "Donate",
+"href": "https://www.robbgreene.com/donate"
+},
+{
+"text": "Get a sign",
+"href": "https://www.robbgreene.com/get-a-sign"
+},
+{
+"text": "Special Needs Families",
+"href": "https://www.robbgreene.com/special-needs-families"
+},
+{
+"text": "Writings",
+"href": "https://www.robbgreene.com/blog"
+},
+{
+"text": "[image: ROBB_GREENE_LOGO_Mesa de trabajo 1.png]",
+"href": "https://www.robbgreene.com"
+}
 ]

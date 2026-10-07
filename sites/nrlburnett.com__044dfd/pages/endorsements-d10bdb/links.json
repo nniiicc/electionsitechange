@@ -1,9 +1,46 @@
 [
-"https://nrlburnett.com/",
-"https://nrlburnett.com/about",
-"https://nrlburnett.com/concerns",
-"https://nrlburnett.com/district-map",
-"https://nrlburnett.com/endorsements",
-"https://nrlburnett.com/issues",
-"https://nrlburnett.com/mcea"
+{
+"text": "About Me",
+"href": "https://nrlburnett.com/about"
+},
+{
+"text": "BURNETT",
+"href": "https://nrlburnett.com/"
+},
+{
+"text": "District Map",
+"href": "https://nrlburnett.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://nrlburnett.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://nrlburnett.com/"
+},
+{
+"text": "MCEA Contribution",
+"href": "https://nrlburnett.com/mcea"
+},
+{
+"text": "Nathan R.L.",
+"href": "https://nrlburnett.com/"
+},
+{
+"text": "Personal Concerns",
+"href": "https://nrlburnett.com/issues"
+},
+{
+"text": "Public Concerns",
+"href": "https://nrlburnett.com/concerns"
+},
+{
+"text": "[image]",
+"href": "https://nrlburnett.com/"
+},
+{
+"text": "[image]",
+"href": "https://nrlburnett.com/mcea"
+}
 ]

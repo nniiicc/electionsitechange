@@ -1,7 +1,11 @@
 {
  "description": "Housing and Cost of Living",
  "final_url": "https://www.heleneforcongress.com/issues/Housing-and-Cost-of-Living",
- "paid_for_by": null,
+ "fingerprint": "0084a5a15e59526b0f71709500caeb5fdecf7620",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Housing and Cost of Living",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008"
+ ]
 }

@@ -1,5 +1,5 @@
-A Life of Caring for Austin Families
-Dr.
+top of page About Priorities Endorsements Contact Donate More Use tab to navigate through the menu items.
+A Life of Caring for Austin Families Dr.
 Jennifer Mushtaler is a lifelong Texan, mother, wife, physician and community leader.
 She grew up across from NASA Johnson Space Center.
 Her father led design teams for mission control for the space shuttle arm, Hubble and the Mars rover.
@@ -29,3 +29,6 @@ That includes addressing reform of the recapture legislation to equip our school
 Jennifer is married to Trent Mushtaler.
 They have celebrated 26 years of marital “bliss”.
 They are proud parents of two rising young adults, both graduated from LISD Vandegrift High School.
+Donate Reach Out About Priorities Endorsements Contact Donate More Use tab to navigate through the menu items.
+Jennifer Mushtaler Campaign 3575 Far West Blvd, P.O.
+Box 26224 Austin, TX 78755 bottom of page

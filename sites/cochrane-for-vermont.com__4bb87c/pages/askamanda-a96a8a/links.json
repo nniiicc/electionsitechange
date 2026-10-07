@@ -1,15 +1,66 @@
 [
-"https://cochrane-for-vermont.com/",
-"https://cochrane-for-vermont.com/about-3",
-"https://cochrane-for-vermont.com/askamanda",
-"https://cochrane-for-vermont.com/contact",
-"https://cochrane-for-vermont.com/copy-of-flood-resources",
-"https://cochrane-for-vermont.com/endorsements",
-"https://cochrane-for-vermont.com/events",
-"https://cochrane-for-vermont.com/meet-amanda",
-"https://cochrane-for-vermont.com/volunteer",
-"https://facebook.com/CochraneforVermont",
-"https://forms.gle/UDPYupMySxWohVFs9",
-"https://instagram.com/cochraneforvt",
-"https://secure.actblue.com/donate/amanda-cochrane-1"
+{
+"text": "Ask Amanda Here",
+"href": "https://forms.gle/UDPYupMySxWohVFs9"
+},
+{
+"text": "Contact",
+"href": "https://www.cochrane-for-vermont.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amanda-cochrane-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cochrane-for-vermont.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cochrane-for-vermont.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cochrane-for-vermont.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.cochrane-for-vermont.com"
+},
+{
+"text": "Issues",
+"href": "https://www.cochrane-for-vermont.com/about-3"
+},
+{
+"text": "Meet Amanda",
+"href": "https://www.cochrane-for-vermont.com/meet-amanda"
+},
+{
+"text": "Q & A",
+"href": "https://www.cochrane-for-vermont.com/askamanda"
+},
+{
+"text": "Values",
+"href": "https://www.cochrane-for-vermont.com/copy-of-flood-resources"
+},
+{
+"text": "[image: Donate]",
+"href": "https://secure.actblue.com/donate/amanda-cochrane-1"
+},
+{
+"text": "[image: FINAL Green Logo.png]",
+"href": "https://www.cochrane-for-vermont.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/CochraneforVermont"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/cochraneforvt/"
+},
+{
+"text": "[image: Subscribe]",
+"href": "mailto:cochraneforvermont@gmail.com"
+}
 ]

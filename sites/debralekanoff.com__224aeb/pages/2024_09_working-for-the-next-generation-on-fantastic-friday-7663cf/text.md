@@ -1,6 +1,6 @@
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Working for the Next Generation on Fantastic Friday!
 Working for the Next Generation on Fantastic Friday!
-Dear Friends,
-In 2018, Beth was a monumental volunteer, one of the hundreds across Washington State who make a difference by helping get out the vote and supporting candidates to stay strong throughout a campaign season.
+Published On: September 20, 2024 Categories: Fantastic Fridays Dear Friends, In 2018, Beth was a monumental volunteer, one of the hundreds across Washington State who make a difference by helping get out the vote and supporting candidates to stay strong throughout a campaign season.
 Our elections and campaigns are built on the foundation of volunteers like Beth, and today I want to recognize her as someone who made a tremendous impact in the 40th and 42nd districts and is deeply respected in Whatcom County.
 In that 2018 campaign, thanks to the leadership of volunteers like Beth and many, many others, we knocked on 19,000 doors.
 Today, I want to express my heartfelt gratitude to Beth, a truly special person in my life.
@@ -19,12 +19,9 @@ She embraced me, held me tight, and assured me that I could overcome any challen
 Beth, your unwavering belief in me and your daily commitment to our community inspire me immensely.
 Thank you for being a guiding light in my life.
 Together, we will continue to fight for the principles we hold dear, ensuring that every voice is heard and valued.
-Your strength and passion make a difference in the lives of many, and I am truly grateful to call you my friend today
-Keep reading for more on this Fantastic Friday.
+Your strength and passion make a difference in the lives of many, and I am truly grateful to call you my friend today Keep reading for more on this Fantastic Friday.
 Rep.
-Debra Lekanoff
-Securing Vital Funding for Whatcom Families
-A Superior Court judge has rejected an initiative to repeal a tax funding essential child-care programs in Whatcom County, ensuring the tax remains on the November 5 ballot.
+Debra Lekanoff Securing Vital Funding for Whatcom Families A Superior Court judge has rejected an initiative to repeal a tax funding essential child-care programs in Whatcom County, ensuring the tax remains on the November 5 ballot.
 Judge Lee Grochmal’s ruling is a significant victory for supporters of the Healthy Children’s Fund, which provides crucial support to families across the county.
 During a 90-minute hearing, Judge Grochmal found that the initiative violated the contracts clause of the Washington Constitution, stating that financial matters cannot be modified or repealed through initiatives.
 He emphasized that allowing the repeal would severely impact the county’s budgetary authority.
@@ -35,7 +32,7 @@ The ruling highlights both the legal standing and community importance of the He
 Established through Proposition 5, which passed by just 20 votes in 2022, the fund plays a vital role in supporting families throughout Whatcom County by expanding access to high-quality, affordable child care for all parents.
 This financial support helps ensure children receive necessary care while parents work or pursue education, significantly impacting families’ economic stability and well-being.
 Proposition 5 imposes a tax of 16.75 cents per $1,000 of assessed property value, expected to generate about $10 million annually for child-care services, focusing on enhancing early childhood education quality and availability.
-Learn more about the Healthy Children’s Fund here!
+Learn more about the Healthy Children’s Fund here !
 Judge Grochmal clarified that the child-care tax was established through a valid legal process and integrated into the county’s budget and service planning.
 “The child-care tax was not subject to repeal.
 For that reason, the initiative is invalid,” he noted.
@@ -62,8 +59,7 @@ Navigating the challenges posed by the upcoming election season will be essentia
 I am honored to explore and advocate for these forward-thinking initiatives alongside esteemed colleagues in the state legislature, including Finance Chair April Berg, Early Childhood and Human Services Chair, Appropriations Chair Tim Ormsby, and Representative Alex Ramel.
 Together, we can make meaningful strides toward improving Early Learning and health outcomes for children across Washington State.
 By working collaboratively, we can ensure that every child has the opportunity for a bright and healthy future.
-Solutions for Environmental Stewardship
-As discussions around environmental stewardship evolve in Washington State, integrating sustainable practices within agriculture and various industries is increasingly important.
+Solutions for Environmental Stewardship As discussions around environmental stewardship evolve in Washington State, integrating sustainable practices within agriculture and various industries is increasingly important.
 By promoting initiatives like riparian buffer zones, we can protect natural resources while ensuring economic viability.
 Riparian buffers – vegetated areas adjacent to water bodies – are essential for maintaining water quality, preventing erosion, and enhancing biodiversity.
 Recognizing their critical role, agricultural stakeholders can benefit from programs that support their transition to these practices.
@@ -71,10 +67,10 @@ Recent reports emphasize the need for collaboration between agricultural produce
 Solutions-oriented approaches, such as investing in riparian zones, can create healthier ecosystems while enhancing agricultural productivity.
 Various grant programs assist private landowners, including farmers and those in forestry, to implement best management practices that align with both economic and ecological goals.
 These taxpayer-funded programs support the transition toward more sustainable practices while acknowledging contributions from different sectors.
-- Environmental Quality Incentives Program (EQIP): This USDA initiative offers financial and technical assistance to landowners implementing conservation practices, including riparian buffers, improving water quality while maintaining productivity.
-- Salmon Recovery Funding Board (SRFB): This program allocates funds to projects restoring salmon habitats, emphasizing collaboration with private landowners to enhance ecological health and benefit local economies.
-- Washington State Conservation Commission Grants: These grants provide financial assistance to farmers and private landowners for implementing best management practices, encouraging compliance with environmental regulations and fostering community engagement.
-- Regional Fisheries Enhancement Groups (RFEGs): RFEGs work with landowners to enhance fish habitats, demonstrating successful partnerships that benefit both agriculture and environmental conservation.
+Environmental Quality Incentives Program (EQIP): This USDA initiative offers financial and technical assistance to landowners implementing conservation practices, including riparian buffers, improving water quality while maintaining productivity.
+Salmon Recovery Funding Board (SRFB): This program allocates funds to projects restoring salmon habitats, emphasizing collaboration with private landowners to enhance ecological health and benefit local economies.
+Washington State Conservation Commission Grants: These grants provide financial assistance to farmers and private landowners for implementing best management practices, encouraging compliance with environmental regulations and fostering community engagement.
+Regional Fisheries Enhancement Groups (RFEGs): RFEGs work with landowners to enhance fish habitats, demonstrating successful partnerships that benefit both agriculture and environmental conservation.
 In addition to agricultural practices, the Washington State Forest and Fish Law emphasizes sustainable forestry through mandatory riparian buffers and protective measures for aquatic ecosystems.
 This law has led to improved salmon populations and greater collaboration among forestry stakeholders.
 By investing in sustainable forestry practices, landowners can benefit from healthy forest ecosystems.
@@ -89,27 +85,17 @@ Participating in programs that facilitate sustainable practices can mitigate env
 While I remain neutral on the decision regarding riparian buffers, I am dedicated to finding a solution.
 This cooperative approach ensures shared responsibility for environmental stewardship, encouraging all parties to contribute positively to Washington’s natural resources.
 Embracing a collaborative framework that values ecological integrity alongside economic vitality will be crucial for long-term success as we navigate resource management complexities.
-Supporting Our 40th LD Representatives
-As your elected official, I want to provide an update on the upcoming election for the 40th District state representatives.
+Supporting Our 40th LD Representatives As your elected official, I want to provide an update on the upcoming election for the 40th District state representatives.
 While Representative Ramel and I are running unopposed, the Guemes Island Ferry Workers, a bargaining unit of the Inlandboatmen’s Union of the Pacific, has endorsed our reelection.They have also endorsed Liz Lovelett for reelection to the state Senate.
 State Rep.
 Debra Lekanoff visits with Purser/Deckhands James Haugen and Evan Noteboom during Guemes Island Ferry Workers’ Day of Action on May 1, 2023.
 Ferry workers were successful in their long campaign to win a fair contract and livable wage.
 Representative Ramel and I have demonstrated our commitment to our state through bipartisan legislation.
-Our efforts have focused on:
-- Protecting access to health care
-- Improving behavioral health crisis response and treatment access
-- Safeguarding worker pay and rights
-- Promoting clean energy development
-- Easing the tax burden on disabled veterans and active-duty military personnel
-- Ensuring students have access to necessary nutrition
-- Fostering collaboration with tribal nations
-- Enhancing and protecting our environment
-I encourage you to review our legislative records here.
+Our efforts have focused on: Protecting access to health care Improving behavioral health crisis response and treatment access Safeguarding worker pay and rights Promoting clean energy development Easing the tax burden on disabled veterans and active-duty military personnel Ensuring students have access to necessary nutrition Fostering collaboration with tribal nations Enhancing and protecting our environment I encourage you to review our legislative records here .
 You can search for “Lekanoff” or “Ramel” under “Session Law” in the Bills and Other Biennium Documents section.
 While we are running unopposed, your vote on November 5 is still important.
 It’s an opportunity to show your support for our continued efforts to improve the quality of life in Washington state.
-Washington State has made significant strides in education funding since the 2012 McCleary decision, which exposed chronic underfunding in our K-12 system.
+Our Ongoing Struggle to Fund Quality Education Washington State has made significant strides in education funding since the 2012 McCleary decision, which exposed chronic underfunding in our K-12 system.
 Over the past 12 years, we’ve increased per-student funding by 89%, from $9,600 in 2013 to over $18,000 today.
 Our teachers are now the fourth highest-paid in the nation, averaging $86,804 annually.
 We’ve invested in full-day kindergarten, enhanced special education funding, supported small rural schools, and established programs for low-income students and those needing learning assistance.
@@ -126,22 +112,18 @@ In our 40th and 42nd districts, we see varying trends.
 While Blaine and Mount Baker face enrollment declines, Ferndale, Lynden, Meridian, and Nooksack Valley are experiencing slight increases, reflecting broader demographic shifts.
 Moving forward, we must re-evaluate fiscal management and maintain transparent communication with our communities.
 As your representative, I’m committed to upholding our constitutional responsibility to provide quality education for every student.
-We’ll continue working on proactive measures and strategic planning to address financial disparities and ensure all students have the resources they need to thrive.
-$1.5 Million in Funding for San Juan Ferries
-As your elected official, I’m pleased to share important news regarding ferry service improvements for San Juan County.
+We’ll continue working on proactive measures and strategic planning to address financial disparities and ensure all students have the resources they need to thrive. $1.5 Million in Funding for San Juan Ferries As your elected official, I’m pleased to share important news regarding ferry service improvements for San Juan County.
 Governor Jay Inslee has allocated $1.5 million to address service disruptions affecting our islands.
 The San Juan Islands rely on our ferries, and I am proud to support their work!
 This funding includes $1 million for temporary transportation solutions and $500,000 to enhance weekend interisland services during winter months.
-The funding will support three key initiatives:
-- A passenger-only water taxi service
-- A charter service between Anacortes and the San Juan Islands
-- An on-call barge transportation service for essential deliveries
-Our 40th Legislative Team is working to secure long-term funding for the inter island taxi ferry system while addressing job creation and housing options.
+The funding will support three key initiatives: A passenger-only water taxi service A charter service between Anacortes and the San Juan Islands An on-call barge transportation service for essential deliveries Our 40th Legislative Team is working to secure long-term funding for the inter island taxi ferry system while addressing job creation and housing options.
 We’re collaborating with Senator Lovelett and the Ferry Caucus to advocate for fair wages, and partnering with the local Opal Housing program to improve transportation accessibility.
 I am working with Anacortes Port Commissioner Bonnie Bowers to enhance the port’s barge landing area, aiming to increase goods transportation capacity and reduce reliance on WSDOT ferries.
-To ensure effective use of these funds, San Juan County plans to form a Transportation Working Group and prepare a legislative request to further address ferry service impacts
-Thank you, Governor Inslee!
+To ensure effective use of these funds, San Juan County plans to form a Transportation Working Group and prepare a legislative request to further address ferry service impacts Thank you, Governor Inslee!
 Governor Inslee acknowledged that while this funding won’t resolve all issues, it promises significant improvements.
 The funding will increase interisland connectivity and help maintain a stable workforce by encouraging year-round residency for crew members.
 We’re committed to enhancing our transportation infrastructure and will continue to keep you updated on our progress.
 As always, we welcome your input and support as we work to improve ferry services for our community.
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

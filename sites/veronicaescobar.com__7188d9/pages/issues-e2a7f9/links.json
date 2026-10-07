@@ -1,11 +1,50 @@
 [
-"https://veronicaescobar.com/",
-"https://veronicaescobar.com/about-veronica",
-"https://veronicaescobar.com/get-involved",
-"https://veronicaescobar.com/issues",
-"https://veronicaescobar.com/media",
-"https://veronicaescobar.com/vote-el-paso",
-"https://veronicaescobar.com/vote-el-paso/donors",
-"https://veronicaescobar.com/voting",
-"https://wpastra.com/"
+{
+"text": "About Veronica",
+"href": "https://veronicaescobar.com/about-veronica/"
+},
+{
+"text": "Ask us!",
+"href": "mailto:info@veronicaescobar.com"
+},
+{
+"text": "Astra WordPress Theme",
+"href": "https://wpastra.com"
+},
+{
+"text": "Get Involved",
+"href": "https://veronicaescobar.com/get-involved/"
+},
+{
+"text": "Homepage",
+"href": "https://veronicaescobar.com/"
+},
+{
+"text": "Issues",
+"href": "https://veronicaescobar.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://veronicaescobar.com/media/"
+},
+{
+"text": "Support Vote El Paso",
+"href": "https://veronicaescobar.com/vote-el-paso/donors/"
+},
+{
+"text": "Veronica Escobar | Democrat for Congress | El Paso, Texas",
+"href": "https://veronicaescobar.com/"
+},
+{
+"text": "Vote El Paso",
+"href": "https://veronicaescobar.com/vote-el-paso/"
+},
+{
+"text": "Voting",
+"href": "https://veronicaescobar.com/voting/"
+},
+{
+"text": "[image: Veronica Escobar | Democrat for Congress | El Paso, Texas]",
+"href": "https://veronicaescobar.com/"
+}
 ]

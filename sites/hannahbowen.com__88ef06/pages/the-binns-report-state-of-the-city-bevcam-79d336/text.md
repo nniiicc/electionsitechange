@@ -1,3 +1,4 @@
-Nov 21, 2024: As the teacher’s strike grinds on, there are implication to Beverly’s other programs and the potential for the City Council to revisit the budget.
+Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu The Binns Report: State of the City (BevCam) Post author By Website Manager Post date November 21, 2024 Nov 21, 2024: As the teacher’s strike grinds on, there are implication to Beverly’s other programs and the potential for the City Council to revisit the budget.
 Hannah Bowen City Councilor At Large helped us understand what’s happening and what could happen not only to future budgets and programs but to adjusting the already passed FY 25 budget.
 Also in the mix is coordinating local activities with the state, other than only $$$ wise, but thru state activities (like the bridges project and access to Folly Hill and Dunham Road).
+About Hannah 2025 Endorsements Priorities News Donate Contact Sign up for SMS Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab © # Committee to Elect Hannah Bowen

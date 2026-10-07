@@ -1,5 +1,7 @@
-Ed Guzman
-Ed Guzman is running for Arkansas State Senate District 27 to deliver practical results for Fort Smith.
+0 Skip to Content Guzman for Fort Smith About Donate Events (Yard) Sign Me Up!
+Vote Open Menu Close Menu Guzman for Fort Smith About Donate Events (Yard) Sign Me Up!
+Vote Open Menu Close Menu About Donate Events (Yard) Sign Me Up!
+Vote Ed Guzman Ed Guzman is running for Arkansas State Senate District 27 to deliver practical results for Fort Smith.
 With a background in small business, education, and public service, he believes state government should focus on strong schools, job training tied to real work, and policies that help families build a future here.
 Eduardo “Ed” Guzman grew up in the rough-and-tumble world of 1990s South Houston, Texas.
 He was raised by a single mother who spent more than three decades as a social worker advocating for those in need.
@@ -13,8 +15,7 @@ He founded the company to help artists with strong ideas succeed by providing th
 He later expanded the mission to youth theater, creating opportunities for young people to value teamwork, learn discipline, and build confidence through the performing arts.
 Running a small business gave Ed a clear understanding of how decisions on paper affect people in real life.
 He managed budgets, negotiated leases, built facilities, and navigated complex contracts, with full accountability for the success of his own company and the people who depended on it.
-As a state senator, he will apply that same practical leadership by writing and supporting bills that expand access to job training, strengthen career pathways tied to in-demand local jobs, and remove barriers that keep working families from taking advantage of those opportunities.
-After more than a decade running his company, Ed reached a point where his work had fulfilled its purpose and made clear he was ready to step into civic leadership.
+As a state senator, he will apply that same practical leadership by writing and supporting bills that expand access to job training, strengthen career pathways tied to in-demand local jobs, and remove barriers that keep working families from taking advantage of those opportunities. “ I believe government should focus on outcomes people can see and feel in their daily lives... ” After more than a decade running his company, Ed reached a point where his work had fulfilled its purpose and made clear he was ready to step into civic leadership.
 He chose Fort Smith as his launch pad partly because of the educational opportunities available to Arkansas residents and because he believes in the city’s history, its people, and its potential for growth.
 He is currently pursuing a dual master’s degree in business and public service through the University of Arkansas, where his coursework and research focus on how state policy decisions, budgets, and institutions shape opportunity at the local level.
 Approaching public service through the lens of business administration, his training is grounded in facts and in the realities of the American economy.
@@ -27,3 +28,4 @@ Ed is running for the Arkansas State Senate because he believes public service i
 He is focused on outcomes people can see and feel in their daily lives, including strong schools, accessible health care, job training aligned with the modern economy, and fiscal decisions that put Fort Smith first.
 At its core, Ed’s candidacy is grounded in the belief that hard work should open doors for working families and young people, and that government has a responsibility to keep the playing field fair.
 He will provide serious, thoughtful representation in the Arkansas Legislature and ensure Fort Smith’s voices, needs, and priorities are always part of the conversation.
+Guzman for Fort Smith Paid for by Guzman for Arkansas Contact Us PO Box 11064, Fort Smith, AR 72917 (479) 274-0660

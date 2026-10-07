@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.ericgisler.com/elections-voting",
- "paid_for_by": "Paid For by Committee To Elect Eric Gisler | \u00a9 2026",
+ "fingerprint": "4eb55ec6c7c3aaf1c5e6375ea4bc794360551535",
+ "format": 3,
+ "paid_for_by": "Paid For by Committee To Elect Eric Gisler",
  "title": "Elections & Voting",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

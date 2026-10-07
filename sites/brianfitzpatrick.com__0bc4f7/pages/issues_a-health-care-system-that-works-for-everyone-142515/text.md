@@ -1,4 +1,4 @@
-Every man, woman, and child should have affordable health insurance but skyrocketing costs are forcing thousands in Pennsylvania to be uninsured.
+Brian Fitzpatrick For Congress Home Bio Issues Contact Media Vote by Mail Endorsements Header Buttons Donate Protecting our Families Opportunity for All Government Reform Protecting Medicare & Social Security A Health Care System That Works for Everyone An Immigration System That Works for Everyone Opioid Addiction and Mental Health Workforce Training and Development Empowering Women Protecting our Environment and Clean Water Protecting our Animals Equality and Diversity Promoting Education and Affordability Supporting our Veterans and Law Enforcement A Health Care System That Works for Everyone Every man, woman, and child should have affordable health insurance but skyrocketing costs are forcing thousands in Pennsylvania to be uninsured.
 This is unacceptable.
 In Congress, I’m fighting for a health care system that works for everyone and lowers the cost of prescription drugs.
 In Congress, I’m fighting for a health care system that works for everyone, increases access and competition, and lowers the cost of prescription drugs.
@@ -12,3 +12,6 @@ In terms of quicker access to cures, I authored Right to Try legislation, which 
 I also am fighting for cures for kids with cancer.
 My bipartisan Fairness to Kids with Cancer Act would boost the share of federal funds for cancer research that is allocated to pediatric cancer research to equal the percentage of the U.S. population that is under the age of 18.
 Do you support legislation that would bypass strict FDA regulations and give terminally-ill patients access to experimental treatments where no alternative exists?
+Yes No Email Quotes “Rep.
+Brian Fitzpatrick earned the highest Bipartisan Index score we have ever recorded by a House member,” - Dan Diller, Policy Director, The Lugar Center, Georgetown University, 5/12/20 "Pa's Fitzpatrick Leads U.S.
+House in Bipartisan, New Rankings Show" - Pennsylvania Capital-Star, 2/21/2020 Paid for by Brian Fitzpatrick for All of Us Privacy Policy Terms and Conditions PO Box 939 Langhorne, PA 19047 info@brianfitzpatrick.com

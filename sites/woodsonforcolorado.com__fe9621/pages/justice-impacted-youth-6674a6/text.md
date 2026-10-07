@@ -1,27 +1,8 @@
-top of page
-Justice-Impacted Youth
-Workforce Pathways
-Justice-Impacted Youth Workforce Pathways
-Too many justice-impacted youth are caught in cycles of instability because they lack access to consistent income, support, and opportunity.
+top of page DONATE SUBSCRIBE Log In Home In Community About Endorsements Priorities Events Get Involved Contact More Use tab to navigate through the menu items.
+Justice-Impacted Youth Workforce Pathways Justice-Impacted Youth Workforce Pathways Too many justice-impacted youth are caught in cycles of instability because they lack access to consistent income, support, and opportunity.
 I support creating a paid, milestone-based workforce pathway for youth identified as high-risk for recidivism — focused on accountability, stability, and long-term success.
-This program would provide:
-- Paid workforce opportunities tied to clear monthly milestones such as education completion, job training, mentorship participation, and personal development
-- Mental health and wellness supports integrated into the program to address trauma, stress, and long-term stability
-- Structured accountability with clear expectations, coaching, and consistent check-ins
-- Asset-building through earned income, where 50% of monthly earnings are paid directly to participants and 50% are placed into a protected savings account
-- A completion-based savings release, giving participants access to their full savings at the end of the program to support housing, education, transportation, or entrepreneurship.
-As Your Legislator, I Will:
-- Expand programs like SAVE to identify at-risk youth and provide early intervention to prevent justice system involvement.
-- Sponsor and support legislation creating paid, milestone-based workforce pathways for justice-impacted youth
-- Secure state funding by aligning workforce, behavioral health, and public safety resources
-- Require trauma-informed mental health and mentorship supports as part of program design
-- Establish clear accountability measures tied to education, job training, and employment outcomes
-- Support asset-building models that help participants earn income while building protected savings
-- Partner with local governments, schools, employers, and community organizations to scale what works
-By investing in workforce pathways instead of incarceration, we strengthen public safety, reduce recidivism, and build a stronger local economy.
+This program would provide: ​ Paid workforce opportunities tied to clear monthly milestones such as education completion, job training, mentorship participation, and personal development Mental health and wellness supports integrated into the program to address trauma, stress, and long-term stability Structured accountability with clear expectations, coaching, and consistent check-ins Asset-building through earned income, where 50% of monthly earnings are paid directly to participants and 50% are placed into a protected savings account A completion-based savings release, giving participants access to their full savings at the end of the program to support housing, education, transportation, or entrepreneurship. ​ As Your Legislator, I Will: ​ Expand programs like SAVE to identify at-risk youth and provide early intervention to prevent justice system involvement.
+Sponsor and support legislation creating paid, milestone-based workforce pathways for justice-impacted youth Secure state funding by aligning workforce, behavioral health, and public safety resources Require trauma-informed mental health and mentorship supports as part of program design Establish clear accountability measures tied to education, job training, and employment outcomes Support asset-building models that help participants earn income while building protected savings Partner with local governments, schools, employers, and community organizations to scale what works ​ ​ By investing in workforce pathways instead of incarceration, we strengthen public safety, reduce recidivism, and build a stronger local economy.
 True accountability means providing opportunity — and expecting young people to rise to it.
-Sarah Woodson
-- FOR COLORADO -
-PAID FOR BY THE COMMITTEE TO ELECT SARAH WOODSON TO COLORADO STATE HOUSE DISTRICT 42.
-REGISTERED AGENT: SARAH WOODSON
-bottom of page
+SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE MEDIA KIT Sarah Woodson - FOR COLORADO - Terms & Conditions Privacy Policy Accessibility Statement PAID FOR BY THE COMMITTEE TO ELECT SARAH WOODSON TO COLORADO STATE HOUSE DISTRICT 42.
+REGISTERED AGENT: SARAH WOODSON bottom of page

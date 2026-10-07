@@ -1,5 +1,9 @@
-Invest In Affordable Housing
-Marquita believes every Tennessean deserves a safe, stable, and affordable place to call home.
+Skip navigation menu Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Meet Marquita Priorities Events Volunteer Go Vote Store Connect Donate Support Students and Teachers Build a Fair and Equitable Economy Invest In Affordable Housing Healthcare Is a Right Defend Voting Rights.
+End Gerrymandering.
+Universal Affordable Broadband Environmental and Climate Justice Invest In Affordable Housing Marquita believes every Tennessean deserves a safe, stable, and affordable place to call home.
 She will support policies that expand affordable housing, strengthen assistance for renters and first-time homebuyers, address homelessness, and protect families from unfair housing practices.
 By encouraging responsible development, preserving existing affordable homes, and investing in underserved communities, Marquita will work to ensure housing costs do not prevent families from meeting other basic needs.
 Affordable housing strengthens neighborhoods, supports local economies, and gives every family a foundation for lasting security.
+Tennesseans deserve a senator who answers to them -- not to corporations and billionaires who have spent decades calling the shots.
+Join Us JOIN OUR MOVEMENT Tennesseans deserve better, join Marquita in building a grassroots campaign that moves Tennessee forward.
+This race won’t be easy, and every supporter matters. $ 25 $ 50 $ 100 $ 250 $ 500 Other $ 25 $ 50 $ 100 $ 250 $ 500 Other DONATE BY MAIL Marquita Bradshaw for United States Senate 1498 Union #901 Memphis, Tennessee 38104 Please provide occupation and employer information for individual donations greater than $# PRESS CONTACT GENERAL CONTACT Designed and Created by Swing State Powered by RUN! website builder PAID FOR BY MARQUITA BRADSHAW FOR UNITED STATES SENATE You need to enable JavaScript to run this app.

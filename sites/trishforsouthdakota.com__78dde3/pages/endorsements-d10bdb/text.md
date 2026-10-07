@@ -1,4 +1,2 @@
-Trish enjoys her work in District 30, at the Capitol, and values an occasional trip to Washington, D.C.
-My First Vote on the House Floor
-Privacy Policy
-Paid for by Trish For South Dakota
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Trish enjoys her work in District 30, at the Capitol, and values an occasional trip to Washington, D.C.
+Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Our Page, Megan from Hot Springs Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button My First Vote on the House Floor Button Button Button Button Button Button Button Button Button Button Button Button Button Button View more Privacy Policy Paid for by Trish For South Dakota Share by:

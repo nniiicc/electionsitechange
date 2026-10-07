@@ -1,11 +1,38 @@
 [
-"https://facebook.com/profile.php?id=100081077073923",
-"https://instagram.com/AdrianneRamos4rep",
-"https://vote4ramos.com/",
-"https://vote4ramos.com/adrianne-s-priorities",
-"https://vote4ramos.com/donate",
-"https://vote4ramos.com/home-1",
-"https://vote4ramos.com/meet-adrianne",
-"https://vote4ramos.com/news",
-"https://vote4ramos.com/volunteer"
+{
+"text": "Adrianne's Priorities",
+"href": "https://www.vote4ramos.com/adrianne-s-priorities"
+},
+{
+"text": "Donate",
+"href": "https://www.vote4ramos.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vote4ramos.com/news"
+},
+{
+"text": "Home",
+"href": "https://www.vote4ramos.com"
+},
+{
+"text": "Meet Adrianne",
+"href": "https://www.vote4ramos.com/meet-adrianne"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vote4ramos.com/volunteer"
+},
+{
+"text": "[image: APRTempBanner.JPG]",
+"href": "https://www.vote4ramos.com/home-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100081077073923"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/AdrianneRamos4rep"
+}
 ]

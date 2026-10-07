@@ -1,202 +1,1150 @@
 [
-"http://bit.ly/45gqgNR",
-"http://google.com/calendar/event?action=TEMPLATE&text=%F0%9F%8D%BD%EF%B8%8F+Dining+Out+with+Carol+Pefley%3A+Dine+Local%2C+Support+Leadership%21&dates=20260716T230000Z%2F20260717T040000Z&location=1238+Lincoln+Avenue%2C+San+Jose%2C+California%2C+95125%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=AVCA+Debate+Prop+39+%26+Transit+Tax&dates=20260811T020000Z%2F20260811T033000Z&location=6601+Camden+Avenue%2C+San+Jose%2C+California%2C+95120%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Alara+Cellars+Wine+Social&dates=20260821T010000Z%2F20260822T030000Z&location=55+East+Hamilton+Avenue%2C+Campbell%2C+CA%2C+95008%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=August+SVGOP+Meeting%3A+Larry+Pegram+with+Informed+Parents+of+California&dates=20260819T013000Z%2F20260819T030000Z&location=1+West+Campbell+Avenue%2C+Campbell%2C+California%2C+95008%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=BBQ%2C+Beer%2C+%26amp%3B+Ballots&dates=20261003T173000Z%2F20261003T230000Z&location=TBA%2C+Morgan+Hill%2C+CA%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ballot+Breakdown+Cocktail+Hour&dates=20261003T000000Z%2F20261003T023000Z&location=130+North+Santa+Cruz+Avenue%2C+Los+Gatos%2C+California%2C+95030%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=California+Governor+Debate+Watch+Party%3A+Steve+Hilton+vs.+Javier+Becerra&dates=20261001T003000Z%2F20261001T033000Z&location=791+Auzerais+Avenue%2C+San+Jose%2C+California%2C+95126%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing&dates=20260820T223000Z%2F20260822T003000Z&location=55+East+Hamilton+Avenue%2C+Campbell%2C+CA%2C+95008%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Willow+Glen+%26amp%3B+Dinner+at+Giorgio%E2%80%99s&dates=20260815T210000Z%2F20260816T000000Z&location=San+Jose%2C+CA+95125%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Charlie+Kirk+Memorial%3A+Prove+Me+Wrong&dates=20260911T000000Z%2F20260911T023000Z&location=5160+Cherry+Avenue%2C+San+Jose%2C+California%2C+95118%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=City+Council+Meeting&dates=20260825T203000Z%2F20260825T233000Z&location=200+East+Santa+Clara+Street%2C+San+Jose%2C+California%2C+95113%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Debate+the+propositions%2C+Republican+Vs+DSA&dates=20260915T020000Z%2F20260915T040000Z&location=6601+Camden+Avenue%2C+San+Jose%2C+California%2C+95120%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election+Day+2026&dates=20261103T150000Z%2F20261104T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Glen+Fest+in+Downtown+Willow+Glen&dates=20260926T180000Z%2F20260927T010000Z&location=1238+Lincoln+Avenue%2C+San+Jose%2C+California%2C+95125%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Liberty+Forum&dates=20260909T020000Z%2F20260909T040000Z&location=432+Stierlin+Road%2C+Mountain+View%2C+California%2C+94043%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+at+Calvary&dates=20261011T200000Z%2F20261011T220000Z&location=1175+Hillsdale+Avenue%2C+San+Jose%2C+California%2C+95118%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Precinct+Activators+Podcast+Featuring+Carol+Pefley&dates=20260724T030000Z%2F20260724T063000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Republican+Club+at+The+Villages%3A+Fall+General+Meeting+%26amp%3B+Dinner&dates=20260927T230000Z%2F20260928T020000Z&location=5000+Cribari+Lane%2C+San+Jose%2C+California%2C+95135%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Restore+California%3A+Propositions+Explainer+Social&dates=20260919T220000Z%2F20260920T000000Z&location=Almaden+Valley",
-"http://google.com/calendar/event?action=TEMPLATE&text=SPARC+Annual+Picnic+with+Sonja+Shaw&dates=20260816T230000Z%2F20260817T020000Z&location=22100+Stevens+Creek+Boulevard%2C+Cupertino%2C+California%2C+95014%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=SVGOP+Picnic+featuring+Steve+Hilton&dates=20260823T210000Z%2F20260824T000000Z&location=5283+Snell+Avenue%2C+San+Jose%2C+California%2C+95136%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Clara+County+Republican+Party+Monthly+Meeting&dates=20260916T020000Z%2F20260916T030000Z&location=1+West+Campbell+Avenue+Rm+C31%2C+Campbell%2C+California%2C+95008%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+County+Board+of+Supervisors+Meeting+&dates=20260810T160000Z%2F20260810T180000Z&location=701+Ocean+Street+Rm+525%2C+Santa+Cruz%2C+California%2C+95060%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+%E2%80%93+Cocktail%2FMocktail+Meet-up+&dates=20260806T233000Z%2F20260807T013000Z&location=1900+41st+Avenue%2C+Capitola%2C+California%2C+95010%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+Federated+%E2%80%93+Coffee+Talk%3A+Aptos&dates=20260813T170000Z%2F20260813T183000Z&location=9105+Soquel+Drive%2C+Aptos%2C+California%2C+95003%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+Federated+%E2%80%93+Coffee+Talk%3A+Scotts+Valley&dates=20260820T173000Z%2F20260820T190000Z&location=4402+Scotts+Valley+Drive%2C+Scotts+Valley%2C+California%2C+95066%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republicans+Annual+BBQ&dates=20260822T200000Z%2F20260823T000000Z&location=United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=South+County+Congress+of+Republicans+%E2%80%93+August+Monthly+Meeting&dates=20260812T003000Z%2F20260812T020000Z&location=17370+Hill+Road%2C+Morgan+Hill%2C+California%2C+95037%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Taste+of+Los+Gatos&dates=20260919T190000Z%2F20260920T000000Z&location=Downtown+Los+Gatos+%2C+Los+Gatos%2C+CA%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Bay+Area+Taxpayer+Summit&dates=20260903T010000Z%2F20260903T030000Z&location=521+Charcot+Avenue+Ste+101%2C+San+Jose%2C+California%2C+95131%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Understanding+Housing+Growth+and+State+Mandates+in+Morgan+Hill&dates=20260728T010000Z%2F20260728T023000Z&location=40+East+4th+Street%2C+Morgan+Hill%2C+California%2C+95037%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wine%2C+Bites+%26amp%3B+Ballots%3A+An+Evening+with+Carol+Pefley&dates=20260810T000000Z%2F20260810T023000Z&location=3200a+Dryden+Avenue%2C+Gilroy%2C+California%2C+95020%2C+United+States",
-"http://maps.google.com/?q=++United+States",
-"http://maps.google.com/?q=+San+Jose%2C+CA+95125+United+States",
-"http://maps.google.com/?q=1+West+Campbell+Avenue+Campbell%2C+California%2C+95008+United+States",
-"http://maps.google.com/?q=1+West+Campbell+Avenue+Rm+C31+Campbell%2C+California%2C+95008+United+States",
-"http://maps.google.com/?q=1175+Hillsdale+Avenue+San+Jose%2C+California%2C+95118+United+States",
-"http://maps.google.com/?q=1238+Lincoln+Avenue+San+Jose%2C+California%2C+95125+United+States",
-"http://maps.google.com/?q=130+North+Santa+Cruz+Avenue+Los+Gatos%2C+California%2C+95030+United+States",
-"http://maps.google.com/?q=17370+Hill+Road+Morgan+Hill%2C+California%2C+95037+United+States",
-"http://maps.google.com/?q=1900+41st+Avenue+Capitola%2C+California%2C+95010+United+States",
-"http://maps.google.com/?q=200+East+Santa+Clara+Street+San+Jose%2C+California%2C+95113+United+States",
-"http://maps.google.com/?q=22100+Stevens+Creek+Boulevard+Cupertino%2C+California%2C+95014+United+States",
-"http://maps.google.com/?q=3200a+Dryden+Avenue+Gilroy%2C+California%2C+95020+United+States",
-"http://maps.google.com/?q=40+East+4th+Street+Morgan+Hill%2C+California%2C+95037+United+States",
-"http://maps.google.com/?q=432+Stierlin+Road+Mountain+View%2C+California%2C+94043+United+States",
-"http://maps.google.com/?q=4402+Scotts+Valley+Drive+Scotts+Valley%2C+California%2C+95066+United+States",
-"http://maps.google.com/?q=5000+Cribari+Lane+San+Jose%2C+California%2C+95135+United+States",
-"http://maps.google.com/?q=5160+Cherry+Avenue+San+Jose%2C+California%2C+95118+United+States",
-"http://maps.google.com/?q=521+Charcot+Avenue+Ste+101+San+Jose%2C+California%2C+95131+United+States",
-"http://maps.google.com/?q=5283+Snell+Avenue+San+Jose%2C+California%2C+95136+United+States",
-"http://maps.google.com/?q=55+East+Hamilton+Avenue+Campbell%2C+CA%2C+95008+United+States",
-"http://maps.google.com/?q=6601+Camden+Avenue+San+Jose%2C+California%2C+95120+United+States",
-"http://maps.google.com/?q=701+Ocean+Street+Rm+525+Santa+Cruz%2C+California%2C+95060+United+States",
-"http://maps.google.com/?q=791+Auzerais+Avenue+San+Jose%2C+California%2C+95126+United+States",
-"http://maps.google.com/?q=9105+Soquel+Drive+Aptos%2C+California%2C+95003+United+States",
-"http://maps.google.com/?q=Almaden+Valley",
-"http://maps.google.com/?q=Downtown+Los+Gatos++Los+Gatos%2C+CA+United+States",
-"http://maps.google.com/?q=TBA+Morgan+Hill%2C+CA+United+States",
-"http://maps.google.com/?q=X+Spaces",
-"https://california.ballottrax.net/voter",
-"https://carolpefleyforassembly.com/",
-"https://carolpefleyforassembly.com/about-carol",
-"https://carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates",
-"https://carolpefleyforassembly.com/ballot-statement",
-"https://carolpefleyforassembly.com/california-state-assembly-district-28",
-"https://carolpefleyforassembly.com/carols-calendar",
-"https://carolpefleyforassembly.com/cart",
-"https://carolpefleyforassembly.com/endorsements",
-"https://carolpefleyforassembly.com/events",
-"https://carolpefleyforassembly.com/events/alara-cellars-wine-social",
-"https://carolpefleyforassembly.com/events/alara-cellars-wine-social?format=ical",
-"https://carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church",
-"https://carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church?format=ical",
-"https://carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos",
-"https://carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos?format=ical",
-"https://carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca",
-"https://carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca?format=ical",
-"https://carolpefleyforassembly.com/events/bbq-beers-and-ballots",
-"https://carolpefleyforassembly.com/events/bbq-beers-and-ballots?format=ical",
-"https://carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30",
-"https://carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30?format=ical",
-"https://carolpefleyforassembly.com/events/canvassing",
-"https://carolpefleyforassembly.com/events/canvassing?format=ical",
-"https://carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong",
-"https://carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong?format=ical",
-"https://carolpefleyforassembly.com/events/city-council-meeting",
-"https://carolpefleyforassembly.com/events/city-council-meeting?format=ical",
-"https://carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola",
-"https://carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola?format=ical",
-"https://carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee",
-"https://carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee?format=ical",
-"https://carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california",
-"https://carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california?format=ical",
-"https://carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa",
-"https://carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa?format=ical",
-"https://carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16",
-"https://carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16?format=ical",
-"https://carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm",
-"https://carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm?format=ical",
-"https://carolpefleyforassembly.com/events/general-election-day-2026",
-"https://carolpefleyforassembly.com/events/general-election-day-2026?format=ical",
-"https://carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen",
-"https://carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen?format=ical",
-"https://carolpefleyforassembly.com/events/liberty-forum",
-"https://carolpefleyforassembly.com/events/liberty-forum?format=ical",
-"https://carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11",
-"https://carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11?format=ical",
-"https://carolpefleyforassembly.com/events/precinct-activators-carol-pefley",
-"https://carolpefleyforassembly.com/events/precinct-activators-carol-pefley?format=ical",
-"https://carolpefleyforassembly.com/events/restore-california-proposition-explainer",
-"https://carolpefleyforassembly.com/events/restore-california-proposition-explainer?format=ical",
-"https://carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting",
-"https://carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f",
-"https://carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f?format=ical",
-"https://carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting?format=ical",
-"https://carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026",
-"https://carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026?format=ical",
-"https://carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq",
-"https://carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq?format=ical",
-"https://carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11",
-"https://carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11?format=ical",
-"https://carolpefleyforassembly.com/events/sparc-annual-picnic",
-"https://carolpefleyforassembly.com/events/sparc-annual-picnic?format=ical",
-"https://carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton",
-"https://carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton?format=ical",
-"https://carolpefleyforassembly.com/events/taste-of-los-gatos",
-"https://carolpefleyforassembly.com/events/taste-of-los-gatos?format=ical",
-"https://carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit",
-"https://carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit?format=ical",
-"https://carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu",
-"https://carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu?format=ical",
-"https://carolpefleyforassembly.com/events/willow-glen-canvassing-august-15",
-"https://carolpefleyforassembly.com/events/willow-glen-canvassing-august-15?format=ical",
-"https://carolpefleyforassembly.com/get-involved",
-"https://carolpefleyforassembly.com/home-original",
-"https://carolpefleyforassembly.com/host-an-event",
-"https://carolpefleyforassembly.com/housing-mandates",
-"https://carolpefleyforassembly.com/in-the-news",
-"https://carolpefleyforassembly.com/key-priorities",
-"https://carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno",
-"https://carolpefleyforassembly.com/meet-carol",
-"https://carolpefleyforassembly.com/morgan-hill-against-up-zoning",
-"https://carolpefleyforassembly.com/news",
-"https://carolpefleyforassembly.com/patriot-store",
-"https://carolpefleyforassembly.com/phone-bank-sign-up",
-"https://carolpefleyforassembly.com/pictures",
-"https://carolpefleyforassembly.com/podcast-california-screamin",
-"https://carolpefleyforassembly.com/podcasts",
-"https://carolpefleyforassembly.com/s/BBQ-Beers-Ballots-Flyer-Oct-3.png",
-"https://carolpefleyforassembly.com/s/CAROL-PRINT.JPG",
-"https://carolpefleyforassembly.com/s/CPEFLEY-CANVASSING-AUG-15.JPG",
-"https://carolpefleyforassembly.com/s/Calvary-Event.JPG",
-"https://carolpefleyforassembly.com/s/Carol-Prop-Social-9-19.JPG",
-"https://carolpefleyforassembly.com/s/OCT-2.png",
-"https://carolpefleyforassembly.com/s/Propositions-at-the-Villages.png",
-"https://carolpefleyforassembly.com/s/The-Debate-Sept-30-2026.png",
-"https://carolpefleyforassembly.com/s/wine-social-final-flyer.png",
-"https://carolpefleyforassembly.com/santa-cruz-housing-policy",
-"https://carolpefleyforassembly.com/statewide-ballot-measures",
-"https://carolpefleyforassembly.com/the-issue",
-"https://carolpefleyforassembly.com/volunteer",
-"https://carolpefleyforassembly.com/vote-2026",
-"https://carolpefleyforassembly.com/voter-guide-santa-clara-county",
-"https://carolpefleyforassembly.com/voter-guide-santa-cruz-county",
-"https://carolpefleyforassembly.com/voter-help",
-"https://carolpefleyforassembly.com/weekly-volunteer-meeting",
-"https://carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning",
-"https://conservativetoolbox.com/",
-"https://cpf.nucleuspages.com/events/ballot-breakdown-cocktail-hour",
-"https://cpf.nucleuspages.com/events/ballot-proposition-discussion-and-wine-social",
-"https://cpf.nucleuspages.com/events/governor-debate-watch-party-2026",
-"https://cpf.nucleuspages.com/events/grill-chill-and-gotv",
-"https://cpf.nucleuspages.com/events/meet-the-candidates-at-calvary",
-"https://cpf.nucleuspages.com/landing/volunteer",
-"https://email.news.sparcgop.org/c/eJxsU8uS6iwYfBqym6kAublgYXS8RB0vc3TUjUWAJGgCGWC8Pf1fOqf-OlXnbPuj6W74mh0kJ2z7K4r3cNXtXo97e0x3y0XocRKwKI5zj-uGSkWUuNhX21LDSt2-alP-Hhz0RQljK9ke3K0VpNaMOql_cO4JAuMEYRwEndATDZX1oRHW0lI8lTG-3Qe_OtvJrkzp4HqezNrfp56XMdq0VJbqD-xBiyiO_Q6OUQA7GEKMsQ8jGEaeUGdptGqEcqQ1mn-zhxWvIpTjCEHBMGJJgRlLIoF9xiNeRD5Hie9JgnwU-REKkB8GYfgqYMB8FscwYJyHMASB__cT1KRyrrUAdwEaADT4cwjQwKvZ4ce5VE4YRWuyRgPLh5vTFgKUfu3Xu716Byid6K-jAyjtTRejaD1O4vFm7l-X0dnSAqCB4u3HZTZT_ZM9V6jK9xs3345ZMlFP3XQLdzOABmuA0mE2-8FWoU0uV_e2m6t82cuy3ttwdQcorQBKk686CCfLj8ux-cL3aZZsXdrbHYsGrnqjIZ4DNJi-v-WT3WI8NsM2o6bj-gCly60yEZ6k4nbhvBt1xWxhx-WtaPsfJYUF7cJmnEzR_LNHT1yszp9pc-LC3oKqmQ07_d34vc6PtQ9tdpTfowlarqdrFfdN7uL-dvJpVseZPpnNI5HQ23kM98Fo1VARJixrm2KYRxfM4ci_F9MRXJeZcupka1aV8vbRW_Tvo_sYx9O0HW2yj-yRQnaHb453Ae4D3Pdq_dx311a7-9XH5trdhPmi_uzo2muEqzQntJWeNrKUiuTf9enl-X1ea_RZcmFILShnWinBnDaeIfymqHXyBgLf0lo0tnhluvGs_jZMkCf5Rdrzy0WbkzCee9Tj8E99R5huDv-soiPCHf6vwpmg_wIAAP__NZg9FQ",
-"https://eventbrite.com/e/taste-of-los-gatos-2026-tickets-1994907718688?aff=oddtdtcreator",
-"https://facebook.com/CarolPefleyforAssembly",
-"https://google.com/maps/search/521+Charcot+Avenue,+Suite+101,+San+Jose,+CA+95131?entry=gmail",
-"https://instagram.com/carol.pefley",
-"https://libertyforumsiliconvalley.app.neoncrm.com/forms/kevin-lynn-tuesday-august-11-in-personcopi-registration?event=582",
-"https://linkedin.com/in/carolpefleyforassembly",
-"https://losgatosca.gov/3011/Parking-Maps",
-"https://maps.google.com/?q=791+Auzerais+Ave+San+Jose+CA",
-"https://registertovote.ca.gov/RegisterToVote",
-"https://sanjoseca.zoom.us/j/98221474336",
-"https://santacruzcounty-us.zoomgov.com/j/1601236676",
-"https://santacruzcountyca.primegov.com/public/portal",
-"https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2",
-"https://sos.ca.gov/elections/polling-place",
-"https://sos.ca.gov/elections/voter-registration/vote-mail",
-"https://sos.ca.gov/elections/who-are-my-representatives",
-"https://svgop.com/events/august-2026-svgop-meeting-opt-your-kids-out",
-"https://tiktok.com/@carolpefleyforassembly",
-"https://willowglen.org/glen-fest",
-"https://x.com/CPefley2026",
-"https://x.com/i/spaces/1jMKgmjWkonKL",
-"https://youtube.com/@CaliforniaScreamin",
-"https://youtube.com/@CarolPefleyforAssembly"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=++united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+monte+sereno+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+san+jose%2C+ca+95125+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+san+jose%2C+ca+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+west+campbell+avenue+campbell%2C+california%2C+95008+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+west+campbell+avenue+rm+c31+campbell%2C+california%2C+95008+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1175+hillsdale+avenue+san+jose%2C+california%2C+95118+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1238+lincoln+avenue+san+jose%2C+california%2C+95125+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=130+north+santa+cruz+avenue+los+gatos%2C+california%2C+95030+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=17370+hill+road+morgan+hill%2C+california%2C+95037+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1900+41st+avenue+capitola%2C+california%2C+95010+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=200+east+santa+clara+street+san+jose%2C+california%2C+95113+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=22100+stevens+creek+boulevard+cupertino%2C+california%2C+95014+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3200a+dryden+avenue+gilroy%2C+california%2C+95020+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=40+east+4th+street+morgan+hill%2C+california%2C+95037+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=432+stierlin+road+mountain+view%2C+california%2C+94043+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4402+scotts+valley+drive+scotts+valley%2C+california%2C+95066+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5000+cribari+lane+san+jose%2C+california%2C+95135+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5160+cherry+avenue+san+jose%2C+california%2C+95118+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=521+charcot+avenue+ste+101+san+jose%2C+california%2C+95131+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5283+snell+avenue+san+jose%2C+california%2C+95136+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=55+east+hamilton+avenue+campbell%2C+ca%2C+95008+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6601+camden+avenue+san+jose%2C+california%2C+95120+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=701+ocean+street+rm+525+santa+cruz%2C+california%2C+95060+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=791+auzerais+avenue+san+jose%2C+california%2C+95126+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9105+soquel+drive+aptos%2C+california%2C+95003+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=almaden+valley++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=downtown+los+gatos++los+gatos%2C+ca+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=tba+morgan+hill%2C+ca+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=x+spaces"
+},
+{
+"text": "0",
+"href": "https://www.carolpefleyforassembly.com/cart"
+},
+{
+"text": "521 Charcot Avenue, Suite 101, San Jose, CA 95131",
+"href": "https://www.google.com/maps/search/521+Charcot+Avenue,+Suite+101,+San+Jose,+CA+95131?entry=gmail"
+},
+{
+"text": "650-714-3680",
+"href": "sms:6507143680"
+},
+{
+"text": "AVCA Debate Prop 39 & Transit Tax",
+"href": "https://www.carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church"
+},
+{
+"text": "About Carol",
+"href": "https://www.carolpefleyforassembly.com/about-carol"
+},
+{
+"text": "Alara Cellars Wine Social",
+"href": "https://www.carolpefleyforassembly.com/events/alara-cellars-wine-social"
+},
+{
+"text": "Almaden Valley",
+"href": "https://www.carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates"
+},
+{
+"text": "Assembly District 28",
+"href": "https://www.carolpefleyforassembly.com/california-state-assembly-district-28"
+},
+{
+"text": "August SVGOP Meeting: Larry Pegram with Informed Parents of California",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting"
+},
+{
+"text": "BBQ, Beer, & Ballots",
+"href": "https://www.carolpefleyforassembly.com/events/bbq-beers-and-ballots"
+},
+{
+"text": "BBQ-Beer-&Ballots",
+"href": "https://www.carolpefleyforassembly.com/s/BBQ-Beers-Ballots-Flyer-Oct-3.png"
+},
+{
+"text": "Back",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "Ballot Breakdown Cocktail Hour",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos"
+},
+{
+"text": "Ballot Statement",
+"href": "https://www.carolpefleyforassembly.com/ballot-statement"
+},
+{
+"text": "BoardOfSupervisors@santacruzcountyca.gov",
+"href": "mailto:BoardOfSupervisors@santacruzcountyca.gov"
+},
+{
+"text": "California Governor Debate Watch Party: Steve Hilton vs. Javier Becerra",
+"href": "https://www.carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30"
+},
+{
+"text": "California Screamin",
+"href": "https://www.carolpefleyforassembly.com/podcast-california-screamin"
+},
+{
+"text": "Canvassing",
+"href": "https://www.carolpefleyforassembly.com/events/canvassing"
+},
+{
+"text": "Canvassing Willow Glen & Dinner at Giorgio’s",
+"href": "https://www.carolpefleyforassembly.com/events/willow-glen-canvassing-august-15"
+},
+{
+"text": "Carol Pefley for Assembly",
+"href": "https://www.youtube.com/@CarolPefleyforAssembly"
+},
+{
+"text": "Carol's Calendar",
+"href": "https://www.carolpefleyforassembly.com/carols-calendar"
+},
+{
+"text": "Charlie Kirk Memorial: Prove Me Wrong",
+"href": "https://www.carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong"
+},
+{
+"text": "City Council Meeting",
+"href": "https://www.carolpefleyforassembly.com/events/city-council-meeting"
+},
+{
+"text": "Click Here",
+"href": "https://svgop.com/events/august-2026-svgop-meeting-opt-your-kids-out"
+},
+{
+"text": "Click Here",
+"href": "https://www.carolpefleyforassembly.com/s/Propositions-at-the-Villages.png"
+},
+{
+"text": "Click Here",
+"href": "https://www.losgatosca.gov/3011/Parking-Maps"
+},
+{
+"text": "Click Here to RSVP",
+"href": "https://cpf.nucleuspages.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad"
+},
+{
+"text": "Click to download flyer",
+"href": "https://www.carolpefleyforassembly.com/s/OCT-2.png"
+},
+{
+"text": "Conservative Toolbox",
+"href": "https://conservativetoolbox.com"
+},
+{
+"text": "Debate Flyer",
+"href": "https://www.carolpefleyforassembly.com/s/CAROL-PRINT.JPG"
+},
+{
+"text": "Debate the propositions, Republican Vs DSA",
+"href": "https://www.carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Download Flyer",
+"href": "https://www.carolpefleyforassembly.com/s/Election-Watch-Party.jpg"
+},
+{
+"text": "Download flyer",
+"href": "https://www.carolpefleyforassembly.com/s/Calvary-Event.JPG"
+},
+{
+"text": "Download flyer here",
+"href": "https://www.carolpefleyforassembly.com/s/Carol-Prop-Social-9-19.JPG"
+},
+{
+"text": "Download flyer here",
+"href": "https://www.carolpefleyforassembly.com/s/The-Debate-Sept-30-2026.png"
+},
+{
+"text": "Education and California Law Discussion with Carol Pefley and Ishaan Prasad",
+"href": "https://www.carolpefleyforassembly.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad"
+},
+{
+"text": "Election Watch Party with Carol Pefley for Assembly District 28",
+"href": "https://www.carolpefleyforassembly.com/events/election-watch-party-with-carol-pefley-for-assembly-district-28"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolpefleyforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolpefleyforassembly.com/events"
+},
+{
+"text": "Find Polling Center",
+"href": "https://www.sos.ca.gov/elections/polling-place"
+},
+{
+"text": "Find my Representative",
+"href": "https://www.sos.ca.gov/elections/who-are-my-representatives"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.carolpefleyforassembly.com/get-involved"
+},
+{
+"text": "Folder: Housing Mandates",
+"href": "https://www.carolpefleyforassembly.com/housing-mandates"
+},
+{
+"text": "Folder: Meet Carol",
+"href": "https://www.carolpefleyforassembly.com/meet-carol"
+},
+{
+"text": "Folder: Podcasts",
+"href": "https://www.carolpefleyforassembly.com/podcasts"
+},
+{
+"text": "Folder: Vote 2026",
+"href": "https://www.carolpefleyforassembly.com/vote-2026"
+},
+{
+"text": "GOTV Aug 15 Flyer",
+"href": "https://www.carolpefleyforassembly.com/s/CPEFLEY-CANVASSING-AUG-15.JPG"
+},
+{
+"text": "General Election Day 2026",
+"href": "https://www.carolpefleyforassembly.com/events/general-election-day-2026"
+},
+{
+"text": "Glen Fest in Downtown Willow Glen",
+"href": "https://www.carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=%F0%9F%8D%BD%EF%B8%8F+Dining+Out+with+Carol+Pefley%3A+Dine+Local%2C+Support+Leadership%21&dates=20260716T230000Z%2F20260717T040000Z&location=1238+Lincoln+Avenue%2C+San+Jose%2C+California%2C+95125%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=AVCA+Debate+Prop+39+%26+Transit+Tax&dates=20260811T020000Z%2F20260811T033000Z&location=6601+Camden+Avenue%2C+San+Jose%2C+California%2C+95120%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Alara+Cellars+Wine+Social&dates=20260821T010000Z%2F20260822T030000Z&location=55+East+Hamilton+Avenue%2C+Campbell%2C+CA%2C+95008%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=August+SVGOP+Meeting%3A+Larry+Pegram+with+Informed+Parents+of+California&dates=20260819T013000Z%2F20260819T030000Z&location=1+West+Campbell+Avenue%2C+Campbell%2C+California%2C+95008%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=BBQ%2C+Beer%2C+%26amp%3B+Ballots&dates=20261003T173000Z%2F20261003T230000Z&location=TBA%2C+Morgan+Hill%2C+CA%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ballot+Breakdown+Cocktail+Hour&dates=20261003T000000Z%2F20261003T023000Z&location=130+North+Santa+Cruz+Avenue%2C+Los+Gatos%2C+California%2C+95030%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=California+Governor+Debate+Watch+Party%3A+Steve+Hilton+vs.+Javier+Becerra&dates=20261001T003000Z%2F20261001T033000Z&location=791+Auzerais+Avenue%2C+San+Jose%2C+California%2C+95126%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing&dates=20260820T223000Z%2F20260822T003000Z&location=55+East+Hamilton+Avenue%2C+Campbell%2C+CA%2C+95008%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Willow+Glen+%26amp%3B+Dinner+at+Giorgio%E2%80%99s&dates=20260815T210000Z%2F20260816T000000Z&location=San+Jose%2C+CA+95125%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Charlie+Kirk+Memorial%3A+Prove+Me+Wrong&dates=20260911T000000Z%2F20260911T023000Z&location=5160+Cherry+Avenue%2C+San+Jose%2C+California%2C+95118%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=City+Council+Meeting&dates=20260825T203000Z%2F20260825T233000Z&location=200+East+Santa+Clara+Street%2C+San+Jose%2C+California%2C+95113%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Debate+the+propositions%2C+Republican+Vs+DSA&dates=20260915T020000Z%2F20260915T040000Z&location=6601+Camden+Avenue%2C+San+Jose%2C+California%2C+95120%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Education+and+California+Law+Discussion+with+Carol+Pefley+and+Ishaan+Prasad&dates=20261010T220000Z%2F20261011T003000Z&location=Monte+Sereno%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Watch+Party+with+Carol+Pefley+for+Assembly+District+28&dates=20261104T030000Z%2F20261104T060000Z&location=San+Jose%2C+Ca%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election+Day+2026&dates=20261103T150000Z%2F20261104T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Glen+Fest+in+Downtown+Willow+Glen&dates=20260926T180000Z%2F20260927T010000Z&location=1238+Lincoln+Avenue%2C+San+Jose%2C+California%2C+95125%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Liberty+Forum&dates=20260909T020000Z%2F20260909T040000Z&location=432+Stierlin+Road%2C+Mountain+View%2C+California%2C+94043%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+at+Calvary&dates=20261011T200000Z%2F20261011T220000Z&location=1175+Hillsdale+Avenue%2C+San+Jose%2C+California%2C+95118%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Precinct+Activators+Podcast+Featuring+Carol+Pefley&dates=20260724T030000Z%2F20260724T063000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Republican+Club+at+The+Villages%3A+Fall+General+Meeting+%26amp%3B+Dinner&dates=20260927T230000Z%2F20260928T020000Z&location=5000+Cribari+Lane%2C+San+Jose%2C+California%2C+95135%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Restore+California%3A+Propositions+Explainer+Social&dates=20260919T220000Z%2F20260920T000000Z&location=Almaden+Valley"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SPARC+Annual+Picnic+with+Sonja+Shaw&dates=20260816T230000Z%2F20260817T020000Z&location=22100+Stevens+Creek+Boulevard%2C+Cupertino%2C+California%2C+95014%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=SVGOP+Picnic+featuring+Steve+Hilton&dates=20260823T210000Z%2F20260824T000000Z&location=5283+Snell+Avenue%2C+San+Jose%2C+California%2C+95136%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Clara+County+Republican+Party+Monthly+Meeting&dates=20260916T020000Z%2F20260916T030000Z&location=1+West+Campbell+Avenue+Rm+C31%2C+Campbell%2C+California%2C+95008%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+County+Board+of+Supervisors+Meeting+&dates=20260810T160000Z%2F20260810T180000Z&location=701+Ocean+Street+Rm+525%2C+Santa+Cruz%2C+California%2C+95060%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+%E2%80%93+Cocktail%2FMocktail+Meet-up+&dates=20260806T233000Z%2F20260807T013000Z&location=1900+41st+Avenue%2C+Capitola%2C+California%2C+95010%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+Federated+%E2%80%93+Coffee+Talk%3A+Aptos&dates=20260813T170000Z%2F20260813T183000Z&location=9105+Soquel+Drive%2C+Aptos%2C+California%2C+95003%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republican+Women+Federated+%E2%80%93+Coffee+Talk%3A+Scotts+Valley&dates=20260820T173000Z%2F20260820T190000Z&location=4402+Scotts+Valley+Drive%2C+Scotts+Valley%2C+California%2C+95066%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Santa+Cruz+Republicans+Annual+BBQ&dates=20260822T200000Z%2F20260823T000000Z&location=United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=South+County+Congress+of+Republicans+%E2%80%93+August+Monthly+Meeting&dates=20260812T003000Z%2F20260812T020000Z&location=17370+Hill+Road%2C+Morgan+Hill%2C+California%2C+95037%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taste+of+Los+Gatos&dates=20260919T190000Z%2F20260920T000000Z&location=Downtown+Los+Gatos+%2C+Los+Gatos%2C+CA%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Bay+Area+Taxpayer+Summit&dates=20260903T010000Z%2F20260903T030000Z&location=521+Charcot+Avenue+Ste+101%2C+San+Jose%2C+California%2C+95131%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Understanding+Housing+Growth+and+State+Mandates+in+Morgan+Hill&dates=20260728T010000Z%2F20260728T023000Z&location=40+East+4th+Street%2C+Morgan+Hill%2C+California%2C+95037%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wine%2C+Bites+%26amp%3B+Ballots%3A+An+Evening+with+Carol+Pefley&dates=20260810T000000Z%2F20260810T023000Z&location=3200a+Dryden+Avenue%2C+Gilroy%2C+California%2C+95020%2C+United+States"
+},
+{
+"text": "HERE",
+"href": "https://cpf.nucleuspages.com/events/governor-debate-watch-party-2026"
+},
+{
+"text": "Host an Event",
+"href": "https://www.carolpefleyforassembly.com/host-an-event"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/alara-cellars-wine-social?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/bbq-beers-and-ballots?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/canvassing?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/city-council-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/election-watch-party-with-carol-pefley-for-assembly-district-28?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/general-election-day-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/liberty-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/sparc-annual-picnic?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/taste-of-los-gatos?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carolpefleyforassembly.com/events/willow-glen-canvassing-august-15?format=ical"
+},
+{
+"text": "In The News",
+"href": "https://www.carolpefleyforassembly.com/in-the-news"
+},
+{
+"text": "Key Priorities",
+"href": "https://www.carolpefleyforassembly.com/key-priorities"
+},
+{
+"text": "Liberty Forum",
+"href": "https://www.carolpefleyforassembly.com/events/liberty-forum"
+},
+{
+"text": "Los Gatos-Saratoga-Monte Sereno",
+"href": "https://www.carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno"
+},
+{
+"text": "Meet the Candidates at Calvary",
+"href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11"
+},
+{
+"text": "Morgan Hill",
+"href": "https://www.carolpefleyforassembly.com/morgan-hill-against-up-zoning"
+},
+{
+"text": "News by Carol",
+"href": "https://www.carolpefleyforassembly.com/news"
+},
+{
+"text": "Palermo Italian Restaurant",
+"href": "https://maps.google.com/?q=791+Auzerais+Ave+San+Jose+CA"
+},
+{
+"text": "Patriot Store",
+"href": "https://www.carolpefleyforassembly.com/patriot-store"
+},
+{
+"text": "Phone Bank Sign Up",
+"href": "https://www.carolpefleyforassembly.com/phone-bank-sign-up"
+},
+{
+"text": "Pictures",
+"href": "https://www.carolpefleyforassembly.com/pictures"
+},
+{
+"text": "Precinct Activators Podcast Featuring Carol Pefley",
+"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
+},
+{
+"text": "Purchase early",
+"href": "https://www.eventbrite.com/e/taste-of-los-gatos-2026-tickets-1994907718688?aff=oddtdtcreator"
+},
+{
+"text": "Purchase your ticket here",
+"href": "https://libertyforumsiliconvalley.app.neoncrm.com/forms/kevin-lynn-tuesday-august-11-in-personcopi-registration?event=582"
+},
+{
+"text": "RSVP HERE",
+"href": "https://cpf.nucleuspages.com/events/ballot-breakdown-cocktail-hour"
+},
+{
+"text": "RSVP HERE",
+"href": "https://cpf.nucleuspages.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad"
+},
+{
+"text": "RSVP HERE",
+"href": "https://cpf.nucleuspages.com/events/governor-debate-watch-party-2026"
+},
+{
+"text": "RSVP Here",
+"href": "https://cpf.nucleuspages.com/events/grill-chill-and-gotv"
+},
+{
+"text": "RSVP TODAY",
+"href": "https://cpf.nucleuspages.com/events/meet-the-candidates-at-calvary"
+},
+{
+"text": "RSVP here",
+"href": "https://cpf.nucleuspages.com/events/election-watch-party"
+},
+{
+"text": "Register Today",
+"href": "https://email.news.sparcgop.org/c/eJxsU8uS6iwYfBqym6kAublgYXS8RB0vc3TUjUWAJGgCGWC8Pf1fOqf-OlXnbPuj6W74mh0kJ2z7K4r3cNXtXo97e0x3y0XocRKwKI5zj-uGSkWUuNhX21LDSt2-alP-Hhz0RQljK9ke3K0VpNaMOql_cO4JAuMEYRwEndATDZX1oRHW0lI8lTG-3Qe_OtvJrkzp4HqezNrfp56XMdq0VJbqD-xBiyiO_Q6OUQA7GEKMsQ8jGEaeUGdptGqEcqQ1mn-zhxWvIpTjCEHBMGJJgRlLIoF9xiNeRD5Hie9JgnwU-REKkB8GYfgqYMB8FscwYJyHMASB__cT1KRyrrUAdwEaADT4cwjQwKvZ4ce5VE4YRWuyRgPLh5vTFgKUfu3Xu716Byid6K-jAyjtTRejaD1O4vFm7l-X0dnSAqCB4u3HZTZT_ZM9V6jK9xs3345ZMlFP3XQLdzOABmuA0mE2-8FWoU0uV_e2m6t82cuy3ttwdQcorQBKk686CCfLj8ux-cL3aZZsXdrbHYsGrnqjIZ4DNJi-v-WT3WI8NsM2o6bj-gCly60yEZ6k4nbhvBt1xWxhx-WtaPsfJYUF7cJmnEzR_LNHT1yszp9pc-LC3oKqmQ07_d34vc6PtQ9tdpTfowlarqdrFfdN7uL-dvJpVseZPpnNI5HQ23kM98Fo1VARJixrm2KYRxfM4ci_F9MRXJeZcupka1aV8vbRW_Tvo_sYx9O0HW2yj-yRQnaHb453Ae4D3Pdq_dx311a7-9XH5trdhPmi_uzo2muEqzQntJWeNrKUiuTf9enl-X1ea_RZcmFILShnWinBnDaeIfymqHXyBgLf0lo0tnhluvGs_jZMkCf5Rdrzy0WbkzCee9Tj8E99R5huDv-soiPCHf6vwpmg_wIAAP__NZg9FQ"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov/RegisterToVote"
+},
+{
+"text": "Replace My Ballot",
+"href": "https://www.sos.ca.gov/elections/voter-registration/vote-mail"
+},
+{
+"text": "Republican Club at The Villages: Fall General Meeting & Dinner",
+"href": "https://www.carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm"
+},
+{
+"text": "Restore California: Propositions Explainer Social",
+"href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer"
+},
+{
+"text": "SPARC Annual Picnic with Sonja Shaw",
+"href": "https://www.carolpefleyforassembly.com/events/sparc-annual-picnic"
+},
+{
+"text": "SVGOP Picnic featuring Steve Hilton",
+"href": "https://www.carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton"
+},
+{
+"text": "Santa Clara County Republican Party Monthly Meeting",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f"
+},
+{
+"text": "Santa Clara County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-clara-county"
+},
+{
+"text": "Santa Cruz",
+"href": "https://www.carolpefleyforassembly.com/santa-cruz-housing-policy"
+},
+{
+"text": "Santa Cruz County Board of Supervisors Meeting",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026"
+},
+{
+"text": "Santa Cruz County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-cruz-county"
+},
+{
+"text": "Santa Cruz Republican Women Federated – Coffee Talk: Aptos",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee"
+},
+{
+"text": "Santa Cruz Republican Women Federated – Coffee Talk: Scotts Valley",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california"
+},
+{
+"text": "Santa Cruz Republican Women – Cocktail/Mocktail Meet-up",
+"href": "https://www.carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola"
+},
+{
+"text": "Santa Cruz Republicans Annual BBQ",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq"
+},
+{
+"text": "South County Congress of Republicans – August Monthly Meeting",
+"href": "https://www.carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11"
+},
+{
+"text": "Statewide Ballot Measures",
+"href": "https://www.carolpefleyforassembly.com/statewide-ballot-measures"
+},
+{
+"text": "Taste of Los Gatos",
+"href": "https://www.carolpefleyforassembly.com/events/taste-of-los-gatos"
+},
+{
+"text": "The Bay Area Taxpayer Summit",
+"href": "https://www.carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit"
+},
+{
+"text": "The Issue",
+"href": "https://www.carolpefleyforassembly.com/the-issue"
+},
+{
+"text": "Track My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Understanding Housing Growth and State Mandates in Morgan Hill",
+"href": "https://www.carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/alara-cellars-wine-social"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/bbq-beers-and-ballots"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/canvassing"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/city-council-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/election-watch-party-with-carol-pefley-for-assembly-district-28"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/general-election-day-2026"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/liberty-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/sparc-annual-picnic"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/taste-of-los-gatos"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu"
+},
+{
+"text": "View Event →",
+"href": "https://www.carolpefleyforassembly.com/events/willow-glen-canvassing-august-15"
+},
+{
+"text": "Volunteer",
+"href": "https://cpf.nucleuspages.com/landing/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carolpefleyforassembly.com/volunteer"
+},
+{
+"text": "Voter Help",
+"href": "https://www.carolpefleyforassembly.com/voter-help"
+},
+{
+"text": "Weekly Volunteer Meeting",
+"href": "https://www.carolpefleyforassembly.com/weekly-volunteer-meeting"
+},
+{
+"text": "Willow Glen",
+"href": "https://www.carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning"
+},
+{
+"text": "Wine, Bites & Ballots: An Evening with Carol Pefley",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca"
+},
+{
+"text": "Wine-Bites-&-Ballots",
+"href": "https://www.carolpefleyforassembly.com/s/wine-social-final-flyer.png"
+},
+{
+"text": "[image: August SVGOP Meeting: Larry Pegram with Informed Parents of California]",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting"
+},
+{
+"text": "[image: BBQ, Beer, &amp; Ballots]",
+"href": "https://www.carolpefleyforassembly.com/events/bbq-beers-and-ballots"
+},
+{
+"text": "[image: Ballot Breakdown Cocktail Hour]",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-breakdown-cocktail-hour-los-gatos"
+},
+{
+"text": "[image: California Governor Debate Watch Party: Steve Hilton vs. Javier Becerra]",
+"href": "https://www.carolpefleyforassembly.com/events/ca-governor-debate-watch-party-sept-30"
+},
+{
+"text": "[image: Canvassing Willow Glen &amp; Dinner at Giorgio’s]",
+"href": "https://www.carolpefleyforassembly.com/events/willow-glen-canvassing-august-15"
+},
+{
+"text": "[image: Canvassing]",
+"href": "https://www.carolpefleyforassembly.com/events/canvassing"
+},
+{
+"text": "[image: Carol Pefley for California State Assembly District 28]",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "[image: Charlie Kirk Memorial: Prove Me Wrong]",
+"href": "https://www.carolpefleyforassembly.com/events/charlie-kirk-memorial-prove-me-wrong"
+},
+{
+"text": "[image: Debate the propositions, Republican Vs DSA]",
+"href": "https://www.carolpefleyforassembly.com/events/debate-the-propositions-republican-vs-dsa"
+},
+{
+"text": "[image: Education and California Law Discussion with Carol Pefley and Ishaan Prasad]",
+"href": "https://www.carolpefleyforassembly.com/events/education-and-california-law-discussion-with-carol-pefley-and-ishaan-prasad"
+},
+{
+"text": "[image: Election Watch Party with Carol Pefley for Assembly District 28]",
+"href": "https://www.carolpefleyforassembly.com/events/election-watch-party-with-carol-pefley-for-assembly-district-28"
+},
+{
+"text": "[image: General Election Day 2026]",
+"href": "https://www.carolpefleyforassembly.com/events/general-election-day-2026"
+},
+{
+"text": "[image: Glen Fest in Downtown Willow Glen]",
+"href": "https://www.carolpefleyforassembly.com/events/glen-fest-in-downtown-willow-glen"
+},
+{
+"text": "[image: Liberty Forum]",
+"href": "https://www.carolpefleyforassembly.com/events/liberty-forum"
+},
+{
+"text": "[image: Meet the Candidates at Calvary]",
+"href": "https://www.carolpefleyforassembly.com/events/meet-christian-candidates-san-jose-oct-11"
+},
+{
+"text": "[image: Precinct Activators Podcast Featuring Carol Pefley]",
+"href": "https://www.carolpefleyforassembly.com/events/precinct-activators-carol-pefley"
+},
+{
+"text": "[image: Republican Club at The Villages: Fall General Meeting &amp; Dinner]",
+"href": "https://www.carolpefleyforassembly.com/events/fall-general-meeting-dinner-september-27-4pm"
+},
+{
+"text": "[image: Restore California: Propositions Explainer Social]",
+"href": "https://www.carolpefleyforassembly.com/events/restore-california-proposition-explainer"
+},
+{
+"text": "[image: SVGOP Picnic featuring Steve Hilton]",
+"href": "https://www.carolpefleyforassembly.com/events/svgop-picnic-featuring-steve-hilton"
+},
+{
+"text": "[image: Santa Clara County Republican Party Monthly Meeting]",
+"href": "https://www.carolpefleyforassembly.com/events/santa-clara-county-republican-party-monthly-meeting-tyz4f"
+},
+{
+"text": "[image: Santa Cruz Republican Women Federated – Coffee Talk: Aptos]",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-aptos-california-coffee"
+},
+{
+"text": "[image: Santa Cruz Republican Women Federated – Coffee Talk: Scotts Valley]",
+"href": "https://www.carolpefleyforassembly.com/events/coffee-talk-scotts-valley-california"
+},
+{
+"text": "[image: Santa Cruz Republican Women – Cocktail/Mocktail Meet-up ]",
+"href": "https://www.carolpefleyforassembly.com/events/cocktail-mocktail-meet-up-capitola"
+},
+{
+"text": "[image: Santa Cruz Republicans Annual BBQ]",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-republicans-annual-bbq"
+},
+{
+"text": "[image: South County Congress of Republicans – August Monthly Meeting]",
+"href": "https://www.carolpefleyforassembly.com/events/south-county-congress-of-republicans-meeting-august-11"
+},
+{
+"text": "[image: Taste of Los Gatos]",
+"href": "https://www.carolpefleyforassembly.com/events/taste-of-los-gatos"
+},
+{
+"text": "[image: The Bay Area Taxpayer Summit]",
+"href": "https://www.carolpefleyforassembly.com/events/the-bay-area-taxpayer-summit"
+},
+{
+"text": "[image: Understanding Housing Growth and State Mandates in Morgan Hill]",
+"href": "https://www.carolpefleyforassembly.com/events/viynvtfrhmnih13hhbooyvqx4urjfu"
+},
+{
+"text": "[image: Wine, Bites &amp; Ballots: An Evening with Carol Pefley]",
+"href": "https://www.carolpefleyforassembly.com/events/ballot-propositions-info-night-with-carol-pefley-gilroy-ca"
+},
+{
+"text": "[image: 🍽️ Dining Out with Carol Pefley: Dine Local, Support Leadership!]",
+"href": "https://www.carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16"
+},
+{
+"text": "[image]",
+"href": "https://www.carolpefleyforassembly.com/home-original"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/events/alara-cellars-wine-social"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/events/avca-debate-prop-39-transit-tax-westgate-church"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/events/city-council-meeting"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/events/santa-cruz-county-board-of-supervisors-meeting-august-11-2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/events/sparc-annual-picnic"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolPefleyforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carol.pefley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/carolpefleyforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carolpefleyforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CaliforniaScreamin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CPefley2026"
+},
+{
+"text": "bit.ly/45gqgNR",
+"href": "http://bit.ly/45gqgNR"
+},
+{
+"text": "carol@carolpefleyforassembly.com",
+"href": "mailto:carol@carolpefleyforassembly.com"
+},
+{
+"text": "https://cpf.nucleuspages.com/events/ballot-proposition-discussion-and-wine-social",
+"href": "https://cpf.nucleuspages.com/events/ballot-proposition-discussion-and-wine-social"
+},
+{
+"text": "https://sanjose.legistar.com/View.ashx?M=A&ID=1423858&GUID=8B773AA9-99BE-40BD-BC0D-3E46171B94E9",
+"href": "https://sanjoseca.zoom.us/j/98221474336"
+},
+{
+"text": "https://sanjoseca.zoom.us/j/98221474336",
+"href": "https://sanjoseca.zoom.us/j/98221474336"
+},
+{
+"text": "https://santacruzcounty-us.zoomgov.com/j/1601236676",
+"href": "https://santacruzcounty-us.zoomgov.com/j/1601236676"
+},
+{
+"text": "https://santacruzcountyca.primegov.com/public/portal",
+"href": "https://santacruzcountyca.primegov.com/public/portal"
+},
+{
+"text": "https://www.willowglen.org/glen-fest",
+"href": "https://www.willowglen.org/glen-fest"
+},
+{
+"text": "https://x.com/i/spaces/1jMKgmjWkonKL",
+"href": "https://x.com/i/spaces/1jMKgmjWkonKL"
+},
+{
+"text": "🍽️ Dining Out with Carol Pefley: Dine Local, Support Leadership!",
+"href": "https://www.carolpefleyforassembly.com/events/dining-out-johns-of-willow-glen-july-16"
+}
 ]

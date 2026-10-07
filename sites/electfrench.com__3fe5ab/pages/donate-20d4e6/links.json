@@ -1,9 +1,42 @@
 [
-"https://electfrench.com/",
-"https://electfrench.com/donate",
-"https://electfrench.com/privacy-policy",
-"https://electfrench.com/terms-and-conditions",
-"https://electfrench.com/wp-content/uploads/2026/02/French_Hill_for_Arkansas_Contribution_Form_One_Page_2026.pdf",
-"https://facebook.com/electfrench",
-"https://x.com/ElectFrench"
+{
+"text": "Click Here",
+"href": "https://www.electfrench.com/wp-content/uploads/2026/02/French_Hill_for_Arkansas_Contribution_Form_One_Page_2026.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.electfrench.com/donate"
+},
+{
+"text": "Fighting for French",
+"href": "https://www.electfrench.com/#endorsements"
+},
+{
+"text": "French on the Issues",
+"href": "https://www.electfrench.com/#issues"
+},
+{
+"text": "Meet French",
+"href": "https://www.electfrench.com/#about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electfrench.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electfrench.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://www.facebook.com/electfrench/"
+},
+{
+"text": "[image: Facebook icon]",
+"href": "https://x.com/ElectFrench"
+},
+{
+"text": "[image: French Hill for Congress logo]",
+"href": "https://www.electfrench.com/"
+}
 ]

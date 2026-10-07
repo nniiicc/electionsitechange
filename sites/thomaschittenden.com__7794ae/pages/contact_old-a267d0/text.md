@@ -1,4 +1,4 @@
-This campaign is about you.
+About Get Involved Issues Donate Donate Get Involved This campaign is about you.
 Your issues.
 Your voices.
 Our solutions.
@@ -12,5 +12,8 @@ Msg frequency varies.
 Reply STOP to opt-out.
 Reply HELP for help or more information.
 Msg and data rates may apply.
-Terms and Conditions can be found here https://www.thomaschittenden.com/terms-conditions/.
-Privacy Policy can be found here: http://www.thomaschittenden.com/privacy
+Terms and Conditions can be found here https://www.thomaschittenden.com/terms-conditions/ .
+Privacy Policy can be found here: http://www.thomaschittenden.com/privacy https://www.thomaschittenden.com/privacy/ Name: Email Phone How can you help?
+Volunteer your Time Donate to the Campaign Get a Yard Sign (We Deliver!) Be Added to the Campaign Mailing List Other - leave a comment below Comments Send Thanks for contacting me.
+I'll get back to you soon!
+Paid for by Thomas Chittenden for State Senate 1600 Dorset Street, South Burlington, VT 05403 thomas@thomaschittenden.com (802) 233 1913 Privacy Policy Facebook Twitter

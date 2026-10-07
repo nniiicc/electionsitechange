@@ -1,7 +1,4 @@
-About
-A Brief Introduction
-Meet Ryan
-Ryan Berman is a former two-term state representative who won a landslide re-election race in 2020 despite Joe Biden winning the contested swing district and record-setting spending by his democratic opponent.
+Elect Ryan Berman About Join Issues District Gallery Contribute About A Brief Introduction Meet Ryan Ryan Berman is a former two-term state representative who won a landslide re-election race in 2020 despite Joe Biden winning the contested swing district and record-setting spending by his democratic opponent.
 Ryan is a married father of two and life-long Michigan resident.
 Growing up in West Bloomfield, he learned about public service from his uncle, State Representative and State Senator, David Honigman.
 This experience helped instill in him the desire to use his abilities to help people and make things better for his community.
@@ -21,3 +18,5 @@ He was also appointed to the Criminal Jurisprudence & Practice Committee of the 
 Ryan was also a Charter Member of the International Law Enforcement Educators & Trainers Association, being a Firearms Instructor, Range Safety Officer, and Use of Force Instructor.
 Certified to teach concealed pistol classes, he also teaches the legal portion to other instructors, and lectures on the law of self-defense.
 With an extensive background in wrestling, jiu-jitsu and judo, Ryan helps teach police officers how to avoid ground fighting, and to stay safe in such situations.
+JOIN THE CAMPAIGN Sign Up for Campaign Updates Success!
+Name Email Sign UP Make a Call 248-956-0009 Follow Follow Follow Contact Us Paid For By: Elect Ryan Berman PO Box 906 Union Lake, MI 48387 Send A Message info@electryanberman.com Copyright © # by Elect Ryan Berman – Designed by Reach Digital

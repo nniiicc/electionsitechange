@@ -1,7 +1,38 @@
 [
-"https://secure.winred.com/shawnchaunceyforkansas/donate-today",
-"https://shawnchaunceyforkansas.com/",
-"https://shawnchaunceyforkansas.com/get-involved",
-"https://shawnchaunceyforkansas.com/newsletter",
-"https://shawnchaunceyforkansas.com/privacy-policy"
+{
+"text": "Back to home",
+"href": "https://shawnchaunceyforkansas.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shawnchaunceyforkansas/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://shawnchaunceyforkansas.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://shawnchaunceyforkansas.com/"
+},
+{
+"text": "Join",
+"href": "https://shawnchaunceyforkansas.com/get-involved"
+},
+{
+"text": "Newsletter",
+"href": "https://shawnchaunceyforkansas.com/newsletter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shawnchaunceyforkansas.com/privacy-policy"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://shawnchaunceyforkansas.com/privacy-policy"
+},
+{
+"text": "[image: District 65 logo]",
+"href": "https://shawnchaunceyforkansas.com/"
+}
 ]

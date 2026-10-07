@@ -1,4 +1,5 @@
-Education Investment a Focus this Session.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Education Investment A Focus This Session Feb 19, 2023 | Herndon's Editorial , Policy Analysis Education Investment a Focus this Session.
 For the last six weeks at the Idaho Legislature, I have sat on the Senate Education Committee and have listened to a multitude of presentations related to education in Idaho, K-20, and beyond.
 Presenters have included the new state superintendent of public instruction, superintendents of public schools, principals from charter schools, university and community college presidents, and representatives from various career technical programs.
 We have also heard from representatives from interstate exchanges like the one in which Idaho medical students attend programs in Washington and Utah.
@@ -16,8 +17,7 @@ The first step to intelligence is students’ ability to read and communicate.
 Every superintendent and the State Board of Education and the Idaho Education Association all admit that the performance of reading proficiency in the 8th grade is only a little above 30% in Idaho.
 At that level, Idaho is above the performance of 39 other states!
 Our superintendent of public instruction admitted that very little then changes in proficiency between the 8th grade and 12th grade.
-State Board of Education president Kurt Liebich recently stated about Idaho student reading proficiency that “approximately two-thirds are not proficient and that is a big concern.”
-Our math scores are no different.
+State Board of Education president Kurt Liebich recently stated about Idaho student reading proficiency that “approximately two-thirds are not proficient and that is a big concern.” Our math scores are no different.
 Eighth-grade math proficiency scores stand at 32% in 2022.
 So, we have a $3 billion state investment in public education in Idaho with an additional investment of federal dollars and local investment through bonds and levies, and we ask, are we creating a people who are intelligent enough to maintain our republican form of government?
 Which, I reiterate, is the goal of this whole exercise.
@@ -36,4 +36,6 @@ That will be a major focus of this legislative session.
 That will also be the driver of policies you will probably see in the news concerning public charter schools, public school funding, and education savings accounts.
 All of our decisions will be focused on how we improve the results we are getting from our state’s investment in K-12 education.
 If you have any questions or input, I welcome your emails at sherndon@senate.idaho.gov.
-To be added to my email newsletter, please click here.
+To be added to my email newsletter, please click here .
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

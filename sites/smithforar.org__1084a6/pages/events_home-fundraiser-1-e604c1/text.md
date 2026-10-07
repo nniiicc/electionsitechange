@@ -1,10 +1,3 @@
-Back to All Events
-Join us for an evening of food, beverages, and good conversation supporting the Smith for Arkansas 13 campaign, hosted by Brian Eaton and Chelsea Miller.
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Back to All Events Downtown Rogers Fundraiser Thursday, April 16, 2026 6:00 PM 8:00 PM Rogers, AR United States (map) Google Calendar ICS Join us for an evening of food, beverages, and good conversation supporting the Smith for Arkansas 13 campaign, hosted by Brian Eaton and Chelsea Miller.
 Email millercs56@gmail.com or smithforar13@gmail.com for event address.
-Previous
-Previous
-March 28
-No Kings National Day of Protest
-Next
-Next
-May 20
+Previous Previous March 28 No Kings National Day of Protest Next Next May 20 Stronger Together: NWA | Grassroots Gathering Paid for By Mitchell Smith For AR 13

@@ -1,10 +1,4 @@
-Back to All Events
-Join Mitchell Smith, the Democratic Candidate for AR House District 13, and Tim Heron, the Democratic Candidate for AR House District 14, in a fireside chat about the community-based efforts to turn Northwest Arkansas blue in November.
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Back to All Events Stronger Together: NWA | Grassroots Gathering Wednesday, May 20, 2026 5:30 PM 8:30 PM Museum of Native American History 214 Southwest O Street Bentonville, AR, 72712 United States (map) Google Calendar ICS Join Mitchell Smith, the Democratic Candidate for AR House District 13, and Tim Heron, the Democratic Candidate for AR House District 14, in a fireside chat about the community-based efforts to turn Northwest Arkansas blue in November.
 The discussion begins at 7:10pm.
-Previous
-Previous
-April 16
-Downtown Rogers Fundraiser
-Next
-Next
-May 22
+Previous Previous April 16 Downtown Rogers Fundraiser Next Next May 22 Friday Community Hours - Natural State Beer Co.
+Paid for By Mitchell Smith For AR 13

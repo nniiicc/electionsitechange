@@ -1,8 +1,8 @@
-top of page
-Endorsements
-Endorsements from respected leaders, community organizations, and advocates highlight the strong, broad-based support behind Delegate Cheryl Pasteur’s leadership.
+top of page Maryland General Assembly Subscribe to My Newsletter Donate Home About Issues News Events Resources and Scholarships Endorsements Get Involved More Use tab to navigate through the menu items.
+Endorsements Endorsements from respected leaders, community organizations, and advocates highlight the strong, broad-based support behind Delegate Cheryl Pasteur’s leadership.
 These voices reflect a shared commitment to her work advancing equity, economic opportunity, and meaningful results for the community.
-Call
-443-599-0444
-410-841-3448 (Office)
-bottom of page
+Vicki Almond Former Baltimore County County Council Chair CASA in Action A 501(c)(4) organization Congressman Johnny Olszewski Congressman for Maryland’s 2nd Congressional District Speaker Emerita Adrienne Jones Former Maryland Speaker of House Maryland League of Conservation Voters A 501(c)(4) organization AFSCME Maryland Council 3 Public Serving Union Congressman Kweisi Mfume Congressman for Maryland's 7th Congressional District Governor Wes Moore Governor of Maryland Maryland State Education Association The largest union and professional association representing educators and school employees in Maryland.
+League of Women Voters A nonpartisan, grassroots nonprofit dedicated to empowering everyone to fully participate in our democracy.
+Senator Angela Alsobrooks U.S.
+Senator for Maryland Maryland NOW PAC Maryland NOW Political Action Committee (PAC) Email cherylpasteurfor11a@gmail.com cheryl.pasteur@house.maryland.gov Call 443-599-0444 410-841-3448 (Office) Follow By Authority: Friends for Cheryl Pasteur, Deborah M.
+Moore, Treasurer Mail cherylpasteurfor11a@gmail.com bottom of page

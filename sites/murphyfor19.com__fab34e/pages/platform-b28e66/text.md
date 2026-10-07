@@ -1,38 +1,5 @@
-PLATFORM
-Our economic and political system does not work for most people, and we need to fix our representative democracy in Indiana so that we can solve the policy problems that are hurting so many Hoosiers.
-LIST OF ISSUES
-Democracy
-- Provide popular ballot initiative process for issue-based direct democracy
-- Create multi-member districts with proportional representation allocation
-Economic Justice
-- Increase minimum wage and index it to inflation going forward
-- Make it easier to form unions and end “right to work”
-- Offer tax incentives to businesses that have set percentage of workers on their board of directors
-Education
-- Require transparency in spending for charter and private schools that receive public tax dollars
-Families
-- Subsidize childcare in every county - no more than $10 per day per child
-- Offer universal paid parental leave of at least 13 weeks
-- Offer paid sick leave of at least 5 days per year
-Environment
-- Strengthen air and water quality to rules to protect communities from pollution
-- Expand battery storage and transmission lines for clean energy transition
-- Reforest the state with establishing a set percentage wilderness goal
-- Construct nature bridges for animals to cross over highways and connect wild areas
-Healthcare
-- Improve cost transparency for opaque medical billing
-- Improve access in every county
-- Protect Medicaid access for all eligible Hoosiers
-- Restore reproductive freedom and abortion access
-Taxes
-- Institute progressive state income tax and replace Indiana’s flat tax
-- Establish progressive property tax
-Housing
-- Increase tenant rights
-- Incentivize creation of land trusts in areas where communities face rapid displacement
-- Increase percentage of affordable units requirement for public-private projects that receive tax breaks
-Transportation and town design
-- Increase funding for buses and incentivize them to be free for those under 18 and over 65
-- Provide incentives for traffic calming and bulbouts in neighborhoods
-- Promote mixed-used development for walkable spaces for those unable to drive
-- Offer incentives for towns to create low-cost third-spaces for people to build community
+top of page HOME MEET TIMOTHY PLATFORM GET INVOLVED More Use tab to navigate through the menu items.
+Log In DONATE PLATFORM Our economic and political system does not work for most people, and we need to fix our representative democracy in Indiana so that we can solve the policy problems that are hurting so many Hoosiers.
+LIST OF ISSUES Democracy Provide popular ballot initiative process for issue-based direct democracy Create multi-member districts with proportional representation allocation Economic Justice Increase minimum wage and index it to inflation going forward Make it easier to form unions and end “right to work” Offer tax incentives to businesses that have set percentage of workers on their board of directors Education Require transparency in spending for charter and private schools that receive public tax dollars Families Subsidize childcare in every county - no more than $10 per day per child Offer universal paid parental leave of at least 13 weeks Offer paid sick leave of at least 5 days per year Environment Strengthen air and water quality to rules to protect communities from pollution Expand battery storage and transmission lines for clean energy transition Reforest the state with establishing a set percentage wilderness goal Construct nature bridges for animals to cross over highways and connect wild areas Healthcare Improve cost transparency for opaque medical billing Improve access in every county Protect Medicaid access for all eligible Hoosiers Restore reproductive freedom and abortion access Taxes Institute progressive state income tax and replace Indiana’s flat tax Establish progressive property tax Housing Increase tenant rights Incentivize creation of land trusts in areas where communities face rapid displacement Increase percentage of affordable units requirement for public-private projects that receive tax breaks Transportation and town design Increase funding for buses and incentivize them to be free for those under 18 and over 65 Provide incentives for traffic calming and bulbouts in neighborhoods Promote mixed-used development for walkable spaces for those unable to drive Offer incentives for towns to create low-cost third-spaces for people to build community HOME MEET TIMOTHY PLATFORM GET INVOLVED More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Find us on Facebook Send us an e-mail E-Mail Terms & Conditions Privacy Policy Accessibility Statement © # by Murphy for 19.
+Powered and secured by Wix bottom of page

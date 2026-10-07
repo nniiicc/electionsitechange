@@ -1,5 +1,4 @@
-About Stephanie
-Service is at the core of everything Stephanie Gricius has focused on with her family, faith, and community throughout her life.
+Home Meet Stephanie Issues Recent Updates Select Page About Stephanie Service is at the core of everything Stephanie Gricius has focused on with her family, faith, and community throughout her life.
 She began serving her community as a volunteer t-ball coach for the YMCA at age 14 and hasn’t stopped serving since.
 In 2014, Gricius saw a need in her community as the Utah Legislature debated relocating the state prison to Eagle Mountain and dedicated her time and energy to help lead the opposition.
 Gricius was then elected to the Eagle Mountain City Council in 2015 where she served until January 2020 when she took a step back to focus on her family of seven.
@@ -14,14 +13,7 @@ While serving on the City Council, she fell in love with the process of designin
 Gricius and her family moved to Eagle Mountain in 2010 where they currently reside with their five children, two dogs, seven ducks, and assortment of reptiles and small animals.
 As a foster family, they’ve opened their home and their hearts to children from hard places and balance the needs of those children with their own.
 Gricius loves traveling and learning about other cultures, hunting and shooting, water sports, relaxing with friends, crafting, and date nights with her husband.
-Legislative Service
-Stephanie Gricius began her legislative service in 2023 and has served in the following positions:
-*Vice-Chair: Social Services Appropriations Subcommittee – overseeing the largest area of the state budget.
-*Chair: Administrative Rules Review and General Oversight Committee – overseeing proper implementation of laws passed by the legislature as well as general oversight of government.
-*Chair: Judiciary Committee – overseeing judicial policy and activities.
-*Member: Health and Human Services Committee and the Government Operations Committee reviewing policy related to health and social servcices as well as elections and general government.
-*Member: 2025 Legislative Redistricting Committee
-*Gricius currently serves on the House of Representatives Majority Leadership Team as the House Majority Caucus Manager.
+Legislative Service Stephanie Gricius began her legislative service in 2023 and has served in the following positions: *Vice-Chair: Social Services Appropriations Subcommittee – overseeing the largest area of the state budget. *Chair: Administrative Rules Review and General Oversight Committee – overseeing proper implementation of laws passed by the legislature as well as general oversight of government. *Chair: Judiciary Committee – overseeing judicial policy and activities. *Member: Health and Human Services Committee and the Government Operations Committee reviewing policy related to health and social servcices as well as elections and general government. *Member: 2025 Legislative Redistricting Committee *Gricius currently serves on the House of Representatives Majority Leadership Team as the House Majority Caucus Manager.
 She also sits on the boards for the Utah Lake Authority and Indigent Defense Commission.
 Gricius passed the first ban on adding hydrofluorosilicic acid to drinking water in the nation while at the same time deregulating fluoride tablets through the pharmacies.
 This ensures families have the freedom to choose what prescription medications go into their bodies.
@@ -37,4 +29,4 @@ She also modified how population data is calculated for the purposes of tax and 
 Prior to the passing of this bill, money was distributed based on census data, which is rear facing and always lags by several years.
 Under the new policy state data, which is more responsive to the extreme growth being experienced in the district, is used as the primary data source.
 This gave Eagle Mountain City a significant bump in population numbers which has a positive impact on the amount of money the area will receive for roads and other things.
-You can view Stephanie’s current legislation HERE.
+You can view Stephanie’s current legislation HERE.  Call or Text Me 801.901.8251  Email Me stephanie@votestephanie.org  Visit The Capitol 350 North State Street Suite 350 Salt Lake City, UT 84114 Subscribe to my newsletter Name Email Address 1 + 9 = Subscribe © Flexile Child Theme For Divi # | All rights Reserved.

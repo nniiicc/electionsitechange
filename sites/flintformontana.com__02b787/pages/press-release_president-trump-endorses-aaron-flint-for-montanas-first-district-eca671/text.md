@@ -1,21 +1,25 @@
-In first 24 hours Flint sweeps endorsements from Trump, Zinke, Sheehy, Gianforte, Downing, Knudsen, Brown, Ler, Galt, other Montana Leaders
-Raises more than $100,000 and SUPER PAC announces $1 Million Commitment
-(KALISPELL, MT) Today, President Donald J.
+Skip to main content Skip to footer Opens in a new tab Endorsed by President Trump!
+Home About Issues News Get Involved Contact Store Donate PRESIDENT TRUMP ENDORSES AARON FLINT FOR MONTANA’S FIRST DISTRICT Press Release March 3, 2026 In first 24 hours Flint sweeps endorsements from Trump, Zinke, Sheehy, Gianforte, Downing, Knudsen, Brown, Ler, Galt, other Montana Leaders Raises more than $100,000 and SUPER PAC announces $1 Million Commitment (KALISPELL, MT) Today, President Donald J.
 Trump endorsed combat veteran and local broadcaster Aaron Flint for U.S.
 Congress in Montana’s First Congressional District.
 President Trump posted his statement on Truth Social.
-President Trump wrote:
-“It is my Great Honor to endorse Aaron Flint, who is running to represent the tremendous people of Montana’s 1st Congressional District.
+President Trump wrote: “It is my Great Honor to endorse Aaron Flint, who is running to represent the tremendous people of Montana’s 1st Congressional District.
 Aaron is a MAGA Warrior, who is strongly supported by many of the Greatest America First Patriots in Montana, including Senator Tim Sheehy, Congressmen Ryan Zinke and Troy Downing, and Governor Greg Gianforte, among others!
 “A Fifth Generation Montanan, and distinguished Combat Veteran, Aaron has dedicated his life to serving his Great State and Country.
 Lieutenant Colonel Flint served our Nation with Honor in Iraq and Afghanistan, and was awarded two Bronze Stars for Bravery.
 Aaron has a wonderful wife, Jessica, and three beautiful children.
 As your next Congressman, Aaron will work tirelessly to Champion our Amazing Farmers and Ranchers, Grow the Economy, Cut Taxes and Regulations, Promote MADE IN THE U.S.A., Unleash American Energy DOMINANCE, Keep our Border SECURE, Stop Migrant Crime, Support our Military/Veterans, Safeguard our Elections, and Defend our always under siege Second Amendment.
-“Aaron Flint has my Complete and Total Endorsement to be the next Representative from Montana’s 1st Congressional District – HE WILL NEVER LET YOU DOWN!”
-Aaron Flint responded to the endorsement, “I’m honored to have the support of President Donald J Trump in our campaign for Montana’s First District.
+“Aaron Flint has my Complete and Total Endorsement to be the next Representative from Montana’s 1st Congressional District – HE WILL NEVER LET YOU DOWN!” Aaron Flint responded to the endorsement, “I’m honored to have the support of President Donald J Trump in our campaign for Montana’s First District.
 Dr.
-Al and Christi Jacobsen have given a lot to Montana conservative movement but now is the time for new leadership and I’m honored to carry the flag.”
-Flint continued on why the Trump endorsement is meaningful to him: “My mom was a single mom who worked holidays at the restaurant to put food on the table.
+Al and Christi Jacobsen have given a lot to Montana conservative movement but now is the time for new leadership and I’m honored to carry the flag.” Flint continued on why the Trump endorsement is meaningful to him: “My mom was a single mom who worked holidays at the restaurant to put food on the table.
 My dad was a Bierstube bartender and a beer truck worker who chopped firewood as a side gig so he could see my brother and I when we were little.
 These are the working families President Trump has relentlessly fought for.
-It’s an incredible honor to have his endorsement.”
+It’s an incredible honor to have his endorsement.” Donate to Aaron Flint Help Aaron make the American Dream affordable again. $5 $15 $25 $50 $100 Other Paid for by Flint for Montana Please provide your mobile phone to opt-in to Flint for Montana campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Aaron Flint is a retired member of the United States Army.
+Use of his military rank, job titles, and photographs in uniform does not imply the endorsement of the Department of the Army or the Department of War.
+Privacy Policy

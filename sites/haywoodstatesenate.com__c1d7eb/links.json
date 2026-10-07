@@ -1,25 +1,182 @@
 [
-"http://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=25&CteeBody=S",
-"http://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=3&CteeBody=S",
-"http://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=33&CteeBody=S",
-"http://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=39&CteeBody=S",
-"https://facebook.com/223586671162913",
-"https://facebook.com/ArtHaywoodforSenate",
-"https://facebook.com/photo.php?fbid=1486050640011961&set=a.306770604606643&type=3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3",
-"https://haywoodstatesenate.com/",
-"https://haywoodstatesenate.com/about-art",
-"https://haywoodstatesenate.com/news/news-grid",
-"https://instagram.com/arthaywoodforall",
-"https://legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=57&CteeBody=S",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3&title=%09%09%09Do+you+have+mail+or+other+documents+that+contain+sensitive+information%2C+but+you+no+longer+need%3F+Join+us+on+Saturday%2C+October+10+at+Copper+Beach+Elementary+School.+Sensitive+information+could+be+your+name%2C+address%2C+date+of+birth%2C+work+or+school+address%2C+or+any+other+information+that+identifies+who+you+are.%09%09%09%09",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://secure.actblue.com/donate/campaign-for-compassion-2",
-"https://secure.ngpvan.com/gvwtSXAuZEuDQcbN5tt1OQ2",
-"https://signupgenius.com/go/5080A4DADA629A5F85-60762107-dignity",
-"https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3",
-"https://vote.phila.gov/voting/election-day/where-is-my-polling-place",
-"https://x.com/senatorhaywood",
-"https://youtube.com/channel/UCxkrWrTQ-xrm8YsZOGXLbVQ"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "5$ Donation",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "About Art",
+"href": "https://www.haywoodstatesenate.com/about-art/"
+},
+{
+"text": "About Senator Haywood",
+"href": "https://www.haywoodstatesenate.com/about-art/"
+},
+{
+"text": "Appropriations",
+"href": "http://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=3&CteeBody=S"
+},
+{
+"text": "Art Haywood for State Senate",
+"href": "https://facebook.com/223586671162913"
+},
+{
+"text": "Ballot Request Application",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "Campaign Updates",
+"href": "https://secure.ngpvan.com/gvwtSXAuZEuDQcbN5tt1OQ2"
+},
+{
+"text": "Contact Us",
+"href": "mailto:art@haywoodstatesenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "Donations",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "Finance",
+"href": "http://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=25&CteeBody=S"
+},
+{
+"text": "Find My Voting Place",
+"href": "https://vote.phila.gov/voting/election-day/where-is-my-polling-place/"
+},
+{
+"text": "Health & Human Services, Democratic Chair",
+"href": "http://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=33&CteeBody=S"
+},
+{
+"text": "Home",
+"href": "https://www.haywoodstatesenate.com/"
+},
+{
+"text": "Intergovernmental Operations",
+"href": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=57&CteeBody=S"
+},
+{
+"text": "Judiciary",
+"href": "http://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=39&CteeBody=S"
+},
+{
+"text": "News & Events",
+"href": "https://www.haywoodstatesenate.com/news/news-grid/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/campaign-for-compassion-2"
+},
+{
+"text": "Photo",
+"href": "https://www.facebook.com/photo.php?fbid=1486050640011961&set=a.306770604606643&type=3"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Seach For Pollling Place",
+"href": "https://vote.phila.gov/voting/election-day/where-is-my-polling-place/"
+},
+{
+"text": "Share",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3"
+},
+{
+"text": "Share by Email (opens in a new tab)",
+"href": "mailto:?subject=Facebook&body=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961&set=a.306770604606643&type=3+-+Do+you+have+mail+or+other+documents+that+contain+sensitive+information%2C+but+you+no+longer+need%3F+Join+us+on+Saturday%2C+October+10+at+Copper+Beach+Elementary+School.+Sensitive+information+could+be+your+name%2C+address%2C+date+of+birth%2C+work+or+school+address%2C+or+any+other+information+that+identifies+who+you+are."
+},
+{
+"text": "Share on Facebook (opens in a new tab)",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3"
+},
+{
+"text": "Share on LinkedIn (opens in a new tab)",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3&title=%09%09%09Do+you+have+mail+or+other+documents+that+contain+sensitive+information%2C+but+you+no+longer+need%3F+Join+us+on+Saturday%2C+October+10+at+Copper+Beach+Elementary+School.+Sensitive+information+could+be+your+name%2C+address%2C+date+of+birth%2C+work+or+school+address%2C+or+any+other+information+that+identifies+who+you+are.%09%09%09%09"
+},
+{
+"text": "Share on Twitter (opens in a new tab)",
+"href": "https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D1486050640011961%26amp%3Bset%3Da.306770604606643%26amp%3Btype%3D3"
+},
+{
+"text": "VOTE!",
+"href": "https://www.haywoodstatesenate.com/#VOTE"
+},
+{
+"text": "VOTE!",
+"href": "https://www.haywoodstatesenate.com/#VOTEmobile"
+},
+{
+"text": "View on Facebook (opens in a new tab)",
+"href": "https://www.facebook.com/photo.php?fbid=1486050640011961&set=a.306770604606643&type=3"
+},
+{
+"text": "Volunteer",
+"href": "https://www.signupgenius.com/go/5080A4DADA629A5F85-60762107-dignity#/"
+},
+{
+"text": "[image: Art Haywood For State Sentate]",
+"href": "https://www.haywoodstatesenate.com/"
+},
+{
+"text": "[image: Art Haywood for State Senate]",
+"href": "https://facebook.com/223586671162913"
+},
+{
+"text": "[no text]",
+"href": "https://vote.phila.gov/voting/election-day/where-is-my-polling-place"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ArtHaywoodforSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arthaywoodforall"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCxkrWrTQ-xrm8YsZOGXLbVQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/senatorhaywood"
+},
+{
+"text": "[tooltip: Find My Voting Place]",
+"href": "https://vote.phila.gov/voting/election-day/where-is-my-polling-place/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/ArtHaywoodforSenate"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/arthaywoodforall"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCxkrWrTQ-xrm8YsZOGXLbVQ"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://x.com/senatorhaywood"
+},
+{
+"text": "art@haywoodstatesenate.com",
+"href": "mailto:art@haywoodstatesenate.com"
+}
 ]

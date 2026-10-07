@@ -1,14 +1,62 @@
 [
-"http://nickdiceglie.com/",
-"https://facebook.com/nickdicegliefl",
-"https://instagram.com/nickdicegliecampaign",
-"https://nickdiceglie.com/",
-"https://nickdiceglie.com/category/recent-news",
-"https://nickdiceglie.com/issues",
-"https://nickdiceglie.com/join",
-"https://nickdiceglie.com/meet-nick",
-"https://nickdiceglie.com/privacy-policy",
-"https://oag.ca.gov/privacy/ccpa",
-"https://secure.winred.com/nick-diceglie/home-page",
-"https://x.com/NickDiCeglie"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/nick-diceglie/home-page"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/nick-diceglie/home-page"
+},
+{
+"text": "Issues",
+"href": "https://nickdiceglie.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://nickdiceglie.com/join/"
+},
+{
+"text": "Meet Nick",
+"href": "https://nickdiceglie.com/meet-nick/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nickdiceglie.com/privacy-policy/"
+},
+{
+"text": "Recent News",
+"href": "https://nickdiceglie.com/category/recent-news/"
+},
+{
+"text": "Volunteer",
+"href": "https://nickdiceglie.com/join/"
+},
+{
+"text": "[image: Facebook Logo]",
+"href": "https://www.facebook.com/nickdicegliefl"
+},
+{
+"text": "[image: Instagram Logo]",
+"href": "https://www.instagram.com/nickdicegliecampaign/"
+},
+{
+"text": "[image: Logo Nick DiCeglie]",
+"href": "https://nickdiceglie.com"
+},
+{
+"text": "[image: X Logo]",
+"href": "https://x.com/NickDiCeglie"
+},
+{
+"text": "https://oag.ca.gov/privacy/ccpa",
+"href": "https://oag.ca.gov/privacy/ccpa"
+},
+{
+"text": "info@nickdiceglie.com",
+"href": "mailto:info@nickdiceglie.com"
+},
+{
+"text": "www.Nickdiceglie.com",
+"href": "http://www.nickdiceglie.com"
+}
 ]

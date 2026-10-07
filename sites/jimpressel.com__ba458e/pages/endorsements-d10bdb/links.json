@@ -1,16 +1,70 @@
 [
-"http://facebook.com/jimpresselforstaterep",
-"https://facebook.com/Indiana-Kentucky-Ohio-Regional-Contract-Carpenters-141220459604195?__cft__%5B0%5D=AZUmffplajRDdbHgqvp-B7XqlwEwrbwjYVUiuTQfWTOSxzQjxlv9t_JCtE4LnZBto1KrF3d3X-teou7QERM0jNABJem2xNC-1vwSMutdFhYOG257X7HPMg3U8xHwcHujyCdLBbg5lWDG5f2jqbXi7jvy&__tn__=kK%2AF",
-"https://facebook.com/IndianaRTL?__cft__%5B0%5D=AZVIYykr9NLe8-j9r4m7n4G4N87mhefugIQqAbwcL0FmQM1MnZXftVrD0UYiTTem5xps-MP1KBIQ5Y9-Oa3akYrKiN82IXJqBkjqss6IMN3wGkKSTAMyQp5nq8nK5GUacvfl-7Dee8_gTrgCC5tnO6ZH&__tn__=kK-R",
-"https://facebook.com/PFFUIndiana?__cft__%5B0%5D=AZVOxXHY3glQLze8gcIIfF4P6hplKfOsGBUe3v1y8b8QJc2ZEoA7Xlvxs8TfWLJyUnpPXnCP32eNIq_SwK3NhfZc8t9RBwePhJ-AIxvIQ3vtEvt5jAu5iPSO0GPu3jHt5-btWTU9D3ui_ItmBz775WuE&__tn__=kK-R",
-"https://facebook.com/ispa1974?__cft__%5B0%5D=AZVWUB3q7HOs3xNVIRWpXK66KYY4ktfkdM6F-jtmIQz2rwkYrlKjfjgE0SFvCy64z0Lz2bSEOENvTKj3sp8fSt1ymoG5IU4nAFdaC3AyRxamvQx4BYVgDlyw4KpzQUe9fe0xYafuGHet42rPRC2SyWaF&__tn__=kK-R",
-"https://facebook.com/laportefoplodge54?__cft__%5B0%5D=AZWz4aewRhdFtQ154Nm-NC_pF5F01oiEN6URS-ffLcrD8Aksw92cYvFQkxzngEWJTeYG6sxGkfzSXk2LtisEIyUa6q2DBlJc2pHNmNd0CMt5n7oW_DIA9Bb7SmybtTn-nI2LxVTDGDdBCyDMFEdyb8V6&__tn__=kK-R",
-"https://jimpressel.com/",
-"https://jimpressel.com/about-jim",
-"https://jimpressel.com/contact-jim",
-"https://jimpressel.com/district-20",
-"https://jimpressel.com/donate",
-"https://jimpressel.com/endorsements",
-"https://jimpressel.com/gallery-jp",
-"https://jimpressel.com/platform"
+{
+"text": "About Jim",
+"href": "https://jimpressel.com/about-jim/"
+},
+{
+"text": "Contact Jim",
+"href": "https://jimpressel.com/contact-jim/"
+},
+{
+"text": "District 20",
+"href": "https://jimpressel.com/district-20/"
+},
+{
+"text": "Donate",
+"href": "https://jimpressel.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://jimpressel.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://jimpressel.com/gallery-jp/"
+},
+{
+"text": "Home",
+"href": "https://jimpressel.com"
+},
+{
+"text": "Home",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "Indiana Kentucky Ohio Regional Contract Carpenters",
+"href": "https://www.facebook.com/Indiana-Kentucky-Ohio-Regional-Contract-Carpenters-141220459604195/?__cft__%5B0%5D=AZUmffplajRDdbHgqvp-B7XqlwEwrbwjYVUiuTQfWTOSxzQjxlv9t_JCtE4LnZBto1KrF3d3X-teou7QERM0jNABJem2xNC-1vwSMutdFhYOG257X7HPMg3U8xHwcHujyCdLBbg5lWDG5f2jqbXi7jvy&__tn__=kK%2AF"
+},
+{
+"text": "Indiana Right to Life",
+"href": "https://www.facebook.com/IndianaRTL/?__cft__%5B0%5D=AZVIYykr9NLe8-j9r4m7n4G4N87mhefugIQqAbwcL0FmQM1MnZXftVrD0UYiTTem5xps-MP1KBIQ5Y9-Oa3akYrKiN82IXJqBkjqss6IMN3wGkKSTAMyQp5nq8nK5GUacvfl-7Dee8_gTrgCC5tnO6ZH&__tn__=kK-R"
+},
+{
+"text": "Indiana State Police Alliance",
+"href": "https://www.facebook.com/ispa1974/?__cft__%5B0%5D=AZVWUB3q7HOs3xNVIRWpXK66KYY4ktfkdM6F-jtmIQz2rwkYrlKjfjgE0SFvCy64z0Lz2bSEOENvTKj3sp8fSt1ymoG5IU4nAFdaC3AyRxamvQx4BYVgDlyw4KpzQUe9fe0xYafuGHet42rPRC2SyWaF&__tn__=kK-R"
+},
+{
+"text": "Laporte Fraternal Order of Police lodge 54",
+"href": "https://www.facebook.com/laportefoplodge54/?__cft__%5B0%5D=AZWz4aewRhdFtQ154Nm-NC_pF5F01oiEN6URS-ffLcrD8Aksw92cYvFQkxzngEWJTeYG6sxGkfzSXk2LtisEIyUa6q2DBlJc2pHNmNd0CMt5n7oW_DIA9Bb7SmybtTn-nI2LxVTDGDdBCyDMFEdyb8V6&__tn__=kK-R"
+},
+{
+"text": "Platform",
+"href": "https://jimpressel.com/platform/"
+},
+{
+"text": "Professional Firefighters Union of Indiana",
+"href": "https://www.facebook.com/PFFUIndiana/?__cft__%5B0%5D=AZVOxXHY3glQLze8gcIIfF4P6hplKfOsGBUe3v1y8b8QJc2ZEoA7Xlvxs8TfWLJyUnpPXnCP32eNIq_SwK3NhfZc8t9RBwePhJ-AIxvIQ3vtEvt5jAu5iPSO0GPu3jHt5-btWTU9D3ui_ItmBz775WuE&__tn__=kK-R"
+},
+{
+"text": "[image: Jim Pressel for State Representative] [image: Jim Pressel for State Representative]",
+"href": "https://jimpressel.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0);"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://facebook.com/jimpresselforstaterep"
+}
 ]

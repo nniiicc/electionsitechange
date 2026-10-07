@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://electcarole.com/news/",
- "paid_for_by": null,
+ "fingerprint": "96ce79d4a2228e84e7e3b30439dc001238692e62",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News - Carole Fiola",
  "years_mentioned": [
+  "2016",
   "2025",
   "2026"
  ]

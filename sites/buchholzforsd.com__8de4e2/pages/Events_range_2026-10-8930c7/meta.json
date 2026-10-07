@@ -1,7 +1,11 @@
 {
  "description": "Nick Buchholz Campaign Events",
  "final_url": "https://www.buchholzforsd.com/Events?range=2026-10",
+ "fingerprint": "3fbe0de89bd6464e782d15438c50cb981bf91331",
+ "format": 3,
  "paid_for_by": "Paid For by Nick Buchholz for South Dakota House Powered by CampaignPartner",
  "title": "Nick Buchholz Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

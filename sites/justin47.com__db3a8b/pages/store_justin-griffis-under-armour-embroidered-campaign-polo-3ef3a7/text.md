@@ -1,26 +1,6 @@
-$127.38–$132.28
-A lightweight, breathable polo that moves with you.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Under Armour Embroidered Campaign Polo $127.38–$132.28 A lightweight, breathable polo that moves with you.
 This relaxed-fit polo is cut from textured, moisture-wicking polyester that fights odor and keeps skin dry during long days on the course, at work, or running errands.
 The three-button placket and self-fabric collar keep the silhouette clean and familiar, while subtle embroidered branding on the chest adds a refined, sporty touch.
 Soft to the touch and low-maintenance, it layers easily under a sweater or wears solo when you want a crisp, put-together look without feeling stiff.
-Product features
-- 100% textured polyester — lightweight and durable
-- Relaxed fit for comfortable, everyday wear
-- Anti-odor, sweat-wicking fabric keeps you fresh
-- 3-button placket with self-fabric collar for a clean finish
-- Under Armour® embroidered logo and breathable construction
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Do not bleach
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
-Product features
-- Relaxed fit for comfortable, everyday wear
-- Anti-odor, sweat-wicking fabric keeps you fresh
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Do not bleach
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
+Product features - 100% textured polyester — lightweight and durable - Relaxed fit for comfortable, everyday wear - Anti-odor, sweat-wicking fabric keeps you fresh - 3-button placket with self-fabric collar for a clean finish - Under Armour® embroidered logo and breathable construction Care instructions - Machine wash: cold (max 30C or 90F) - Do not bleach - Tumble dry: low heat - Iron, steam or dry: low heat - Do not dryclean Option * White / L — $127.38 White / M — $127.38 White / S — $127.38 White / XL — $127.38 White / 2XL — $132.28 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

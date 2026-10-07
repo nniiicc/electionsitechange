@@ -1,46 +1,29 @@
-Rebalancing The Tax CODE
-Our tax structure in Washington is the second most regressive in the country.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate Rebalancing The Tax CODE Our tax structure in Washington is the second most regressive in the country.
 In fact, the lowest income folks in our state pay 13.8% of their income in taxes, while the highest income households pay just 4.1%.
 This is wrong, and it's not sustainable.
 We cannot continue to fund our most vital programs on the backs of the poor and working class, while the wealthy and large corporations receive massive tax breaks and don't pay their fair share.
 The passage of the Millionaires Tax was a huge step in the right direction.
 And the work isn’t done.
-Taxing Extraordinary Wealth
-Washington State has the second-worst tax code in the nation, where we ask those with the least to pay the most.
+Taxing Extraordinary Wealth Washington State has the second-worst tax code in the nation, where we ask those with the least to pay the most.
 When considering wealth, some of the richest people in the world, who call Washington state home, are paying a fraction of one percent in taxes.
 Wealth inequality was exacerbated during the pandemic, with the rich getting richer and working people getting poorer.
 NOW is the time to ensure the wealthiest among us must pay their fair share, and Noel is leading the fight locally and nationally.
-In the Legislature, Noel has championed:
-- SB 6346 (2026) - Millionaires Tax, a 9.9% tax on annual earnings over $1 million (PASSED)
-- SB 5797 (2025) - Wealth Tax/Financial Intangible Tax, a 1% tax on the value of capital assets such as stocks and bonds valued at more than $50 million (PRIME SPONSOR since 2021)
-- SB 5813 (2025) - Making the Capital Gains Tax more progressive by enacting a 9.9% rate on annual profits over $1 million (PASSED)
-- HB 5096 (2021) – Capital Gains Tax, enacting a 7% tax on the sale or transfer of capital assets, exempting the first $250,000 of profit and the sale of real estate and qualified family owned small businesses (PASSED)
-- SB 5998 (2019) – Graduated Real Estate Excise Tax (PASSED)
-Tax Fairness for Working People & Small BUsiness
-Washington state’s unfair tax code hurts Washington’s working families and small businesses.
-Given the tax code that we have today, our most effective way to rebalance the tax code is through targeted tax exemptions that are targeted at specific populations and businesses
-In the Legislature, Noel has championed:
-- SB 6162 (2026) - Expansion of the Senior Citizen and Disabled Person Property Tax Exemption Program to 50,000 new households statewide and increasing the amount that can be exempted.
-- SB 6346 (2026) - Expansion of the B&O Small Business Tax Credit, increasing the full exemption from $125,000 to $300,000, and the credit up to $600,000.
-- SB 6346 (2026) - Expansion of the Working Families Tax Credit to 460,000 households via increasing income thresholds and including young adults and senior citizens.
-- SB 6346 (2026) - Exempting diapers (baby and adult), personal care products (e.g. shampoo and deodorant), and over the counter drugs from the retail sales tax.
-- SB 5770 (2023) - Primary Residence Property Tax Exemption, to exempt the higher of $100,000 or 60% of county median home value before your property tax is calculated on your primary residence.
-- SB 5980 (2022) – B&O small business tax credit increased, expanding the full exemption from $44,000 to $125,00 (and the credit up to $250,000).
-(PASSED)
-- HB 1297 (2021) – Working Families Tax Credit created for low-income households for persons aged 25-64 years old (PASSED)
-Increasing Accountability & limiting benefits to the powerful few
-For too long, large corporations have benefited from tax breaks that we were told would eventually trickle down to the middle class.
-Outdated and inequitable tools like the Business & Occupation (B&O) Tax have plagued our tax code with a maze of tax exemptions, allowing large corporations to get themselves a break, shifting the responsibility of funding public services to everyone else.
+In the Legislature, Noel has championed: SB 6346 (2026) - Millionaires Tax, a 9.9% tax on annual earnings over $1 million (PASSED) SB 5797 (2025) - Wealth Tax/Financial Intangible Tax, a 1% tax on the value of capital assets such as stocks and bonds valued at more than $50 million (PRIME SPONSOR since 2021) SB 5813 (2025) - Making the Capital Gains Tax more progressive by enacting a 9.9% rate on annual profits over $1 million (PASSED) HB 5096 (2021) – Capital Gains Tax, enacting a 7% tax on the sale or transfer of capital assets, exempting the first $250,000 of profit and the sale of real estate and qualified family owned small businesses (PASSED) SB 5998 (2019) – Graduated Real Estate Excise Tax (PASSED) Tax Fairness for Working People & Small BUsiness Washington state’s unfair tax code hurts Washington’s working families and small businesses.
+Given the tax code that we have today, our most effective way to rebalance the tax code is through targeted tax exemptions that are targeted at specific populations and businesses In the Legislature, Noel has championed: SB 6162 (2026) - Expansion of the Senior Citizen and Disabled Person Property Tax Exemption Program to 50,000 new households statewide and increasing the amount that can be exempted.
+SB 6346 (2026) - Expansion of the B&O Small Business Tax Credit, increasing the full exemption from $125,000 to $300,000, and the credit up to $600,000.
+SB 6346 (2026) - Expansion of the Working Families Tax Credit to 460,000 households via increasing income thresholds and including young adults and senior citizens.
+SB 6346 (2026) - Exempting diapers (baby and adult), personal care products (e.g. shampoo and deodorant), and over the counter drugs from the retail sales tax.
+SB 5770 (2023) - Primary Residence Property Tax Exemption, to exempt the higher of $100,000 or 60% of county median home value before your property tax is calculated on your primary residence.
+SB 5980 (2022) – B&O small business tax credit increased, expanding the full exemption from $44,000 to $125,00 (and the credit up to $250,000).
+(PASSED) HB 1297 (2021) – Working Families Tax Credit created for low-income households for persons aged 25-64 years old (PASSED) Increasing Accountability & limiting benefits to the powerful few For too long, large corporations have benefited from tax breaks that we were told would eventually trickle down to the middle class.
+Outdated and inequitable tools like the Business & Occupation (B&O) Tax have plagued our tax code with a maze of tax exemptions , allowing large corporations to get themselves a break, shifting the responsibility of funding public services to everyone else.
 The old argument that providing corporations with tax breaks will keep them in our state has been proven false, time and time again, and we can no longer afford to believe large companies when they promise jobs in exchange for tax breaks, and then break that promise.
 Noel has kept a watchful eye through her leadership roles on tax policy, including as a former member of the Joint Legislative Audit & Review Committee (JLARC).
 She will continue to champion accountability.
-In the Legislature, Noel has championed:
-- SB 6231 (2026) - Repealing the data center tax preference for sales tax exemptions on replacement servers and other refurbishments.
-(PASSED, PRIME SPONSOR)
-- SB 6228 (2026) - Repealing the tax preference for prescription drug wholesalers - a legally obsolete part of the tax code no longer needed for WA state companies to remain competitive with out-of-state competitors.
-(PASSED, PRIME SPONSOR)
-- SB 5794 (2026) - Comprehensive cleanup of tax preference in state tax code (PASSED)
-- SB 5482 (2023) - Margin Tax, a bipartisan, revenue neutral proposal to replace the business and occupation tax, the result of the Tax Structure Work Group.
-(PRIME SPONSOR)
-- SB 5092 (2021) – Reauthorization of Tax Structure Work Group (PASSED, PRIME SPONSOR)
-- HB 2145 (2017) – Clawing back Boeing’s tax breaks (PRIME SPONSOR)
+In the Legislature, Noel has championed: SB 6231 (2026) - Repealing the data center tax preference for sales tax exemptions on replacement servers and other refurbishments.
+(PASSED, PRIME SPONSOR) SB 6228 (2026) - Repealing the tax preference for prescription drug wholesalers - a legally obsolete part of the tax code no longer needed for WA state companies to remain competitive with out-of-state competitors.
+(PASSED, PRIME SPONSOR) SB 5794 (2026) - Comprehensive cleanup of tax preference in state tax code (PASSED) SB 5482 (2023) - Margin Tax, a bipartisan, revenue neutral proposal to replace the business and occupation tax, the result of the Tax Structure Work Group.
+(PRIME SPONSOR) SB 5092 (2021) – Reauthorization of Tax Structure Work Group (PASSED, PRIME SPONSOR) HB 2145 (2017) – Clawing back Boeing’s tax breaks (PRIME SPONSOR) Next Next Economic Prosperity for All of Us HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

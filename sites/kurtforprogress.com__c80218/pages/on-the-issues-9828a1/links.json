@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/kurtforprogress.com",
-"https://facebook.com/kurtforprogress",
-"https://instagram.com/kurt.for.progress",
-"https://kurtforprogress.com/",
-"https://kurtforprogress.com/about-kurt-1",
-"https://kurtforprogress.com/accessibility",
-"https://kurtforprogress.com/donate",
-"https://kurtforprogress.com/endorsements-and-designations",
-"https://kurtforprogress.com/get-involved",
-"https://kurtforprogress.com/on-the-issues",
-"https://kurtforprogress.com/privacy",
-"https://kurtforprogress.com/terms",
-"https://secure.actblue.com/donate/kurtforprogress"
+{
+"text": "About Kurt",
+"href": "https://www.kurtforprogress.com/about-kurt-1"
+},
+{
+"text": "Accessibility - Paid for by Kurt For Progress",
+"href": "https://www.kurtforprogress.com/accessibility"
+},
+{
+"text": "Donate",
+"href": "https://www.kurtforprogress.com/donate"
+},
+{
+"text": "Endorsements and Designations",
+"href": "https://www.kurtforprogress.com/endorsements-and-designations"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kurtforprogress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kurtforprogress.com/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.kurtforprogress.com/on-the-issues"
+},
+{
+"text": "Privacy",
+"href": "https://www.kurtforprogress.com/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.kurtforprogress.com/terms"
+},
+{
+"text": "[image: Kurt For Progress]Kurt For Progress",
+"href": "https://www.kurtforprogress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kurtforprogress.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/kurtforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kurtforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kurt.for.progress/"
+},
+{
+"text": "contact@kurtforprogress.com",
+"href": "mailto:contact@kurtforprogress.com"
+}
 ]

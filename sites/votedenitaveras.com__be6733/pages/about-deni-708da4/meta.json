@@ -1,10 +1,13 @@
 {
  "description": "Find out more about what motivates Deni Taveras to run for public office.",
  "final_url": "https://votedenitaveras.com/about-deni",
- "paid_for_by": null,
- "title": "ABOUT DENI \u2014 Vote Deni Taveras 2026",
+ "fingerprint": "79db591d86bded4883f929906232ad63f237bae9",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "ABOUT DENI — Vote Deni Taveras 2026",
  "years_mentioned": [
   "2021",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

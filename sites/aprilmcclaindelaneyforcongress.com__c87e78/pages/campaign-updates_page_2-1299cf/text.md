@@ -1,27 +1,17 @@
-Press Releases
-ENDORSEMENTS: APRIL MCCLAIN DELANEY ENDORSED BY HOUSE DEMOCRATIC LEADERSHIP
-Endorsements: April McClain Delaney Endorsed by House Democratic Leadership GAITHERSBURG, MD – Building on her wave of support across Maryland, April McClain Delaney’s re-election campaign today announced endorsements from House Democratic Leader Hakeem Jeffries, House Democratic Whip Katherine Clark and House Democratic Caucus Chair Pete Aguilar.
-These endorsements and sustained momentum come on the heels […]
-Press Releases
-POLLING: April McClain Delaney Holds Commanding 12-Point Lead Over David Trone in MD-06 Primary
-POLLING: April McClain Delaney Holds Commanding 12-Point Lead Over David Trone in MD-06 Primary GAITHERSBURG, MD — A new survey conducted by Hart Research Associates shows Congresswoman April McClain Delaney maintaining a dominant 49% to 37% lead over David Trone in the Democratic primary for Maryland’s 6th District.
-Despite Trone’s massive early spending on television advertising, […]
-Campaign News · In the News
-Maryland lawmaker calls for Trump’s impeachment in wake of Venezuela operation
-Press Releases
-New Poll Shows Rep.
-April McClain Delaney Holding Dominant 17-Point Lead in MD-06 Democratic Primary
-New Poll Shows Rep.
-April McClain Delaney Holding Dominant 17-Point Lead in MD-06 Democratic Primary Survey finds voters satisfied with Delaney’s leadership and rejecting David Trone’s comeback bid GAITHERSBURG, MARYLAND – December, 18, 2025 — A new survey conducted by Hart Research Associates shows Congresswoman April McClain Delaney holding a commanding early advantage in the Democratic primary for […]
-Press Releases
-CONGRESSWOMAN APRIL MCCLAIN DELANEY ENDORSED BY LT.
-GOVERNOR ARUNA MILLER AND ATTORNEY GENERAL ANTHONY BROWN
-CONGRESSWOMAN APRIL MCCLAIN DELANEY ENDORSED BY LT.
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer The Latest Campaign News Campaign News In the News Press Releases Press Releases ENDORSEMENTS: APRIL MCCLAIN DELANEY ENDORSED BY HOUSE DEMOCRATIC LEADERSHIP Endorsements: April McClain Delaney Endorsed by House Democratic Leadership GAITHERSBURG, MD – Building on her wave of support across Maryland, April McClain Delaney’s re-election campaign today announced endorsements from House Democratic Leader Hakeem Jeffries, House Democratic Whip Katherine Clark and House Democratic Caucus Chair Pete Aguilar.
+These endorsements and sustained momentum come on the heels […] 04.20.26 Press Releases POLLING: April McClain Delaney Holds Commanding 12-Point Lead Over David Trone in MD-06 Primary POLLING: April McClain Delaney Holds Commanding 12-Point Lead Over David Trone in MD-06 Primary GAITHERSBURG, MD — A new survey conducted by Hart Research Associates shows Congresswoman April McClain Delaney maintaining a dominant 49% to 37% lead over David Trone in the Democratic primary for Maryland’s 6th District.
+Despite Trone’s massive early spending on television advertising, […] 04.13.26 Campaign News · In the News Maryland lawmaker calls for Trump’s impeachment in wake of Venezuela operation 01.05.26 Press Releases New Poll Shows Rep.
+April McClain Delaney Holding Dominant 17-Point Lead in MD-06 Democratic Primary New Poll Shows Rep.
+April McClain Delaney Holding Dominant 17-Point Lead in MD-06 Democratic Primary Survey finds voters satisfied with Delaney’s leadership and rejecting David Trone’s comeback bid GAITHERSBURG, MARYLAND – December, 18, 2025 — A new survey conducted by Hart Research Associates shows Congresswoman April McClain Delaney holding a commanding early advantage in the Democratic primary for […] 12.18.25 Press Releases CONGRESSWOMAN APRIL MCCLAIN DELANEY ENDORSED BY LT.
+GOVERNOR ARUNA MILLER AND ATTORNEY GENERAL ANTHONY BROWN CONGRESSWOMAN APRIL MCCLAIN DELANEY ENDORSED BY LT.
 GOVERNOR ARUNA MILLER AND ATTORNEY GENERAL ANTHONY BROWN Gaithersburg – November 13, 2025 – Just days after announcing her re-election campaign and being endorsed by the entire Federal delegation and Governor Wes Moore, Congresswoman April McClain Delaney received endorsements from Lt.
-Governor Aruna Miller and Attorney General Anthony Brown. […]
-In the News
-McClain Delaney gains key endorsements, taps Moore alum to run campaign
-Press Releases
-CONGRESSWOMAN APRIL McCLAIN DELANEY ANNOUNCES RE-ELECTION CAMPAIGN FOR MARYLAND’S 6TH DISTRICT
-McClain Delaney Receives Endorsement from Maryland Governor Moore and All of Maryland’s Democrat Congressional Delegation as She Commits to Lowering Costs, Protecting Healthcare, Hunger Assistance, & Working to Protect Maryland Families Gaithersburg – October 30, 2025 – Today, Maryland Congresswoman April McClain Delaney announced her re-election campaign, representing the 6th District of Maryland.
-“As […]
+Governor Aruna Miller and Attorney General Anthony Brown. […] 12.09.25 In the News McClain Delaney gains key endorsements, taps Moore alum to run campaign 11.14.25 Press Releases CONGRESSWOMAN APRIL McCLAIN DELANEY ANNOUNCES RE-ELECTION CAMPAIGN FOR MARYLAND’S 6TH DISTRICT McClain Delaney Receives Endorsement from Maryland Governor Moore and All of Maryland’s Democrat Congressional Delegation as She Commits to Lowering Costs, Protecting Healthcare, Hunger Assistance, & Working to Protect Maryland Families Gaithersburg – October 30, 2025 – Today, Maryland Congresswoman April McClain Delaney announced her re-election campaign, representing the 6th District of Maryland.
+“As […] 10.30.25 « Previous 1 2 3 4 … 10 Next » Up Next McClain Delaney’s legal team sends Cease-and-Desist to Trone over ‘Congressman’ title Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

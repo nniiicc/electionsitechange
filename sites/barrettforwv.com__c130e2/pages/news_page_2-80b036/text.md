@@ -1,5 +1,5 @@
-The Journal: Needing a Champion – Children’s Home Society of West Virginia Recognizes Del.
-Barrett’s Advocacy for Children
-The Journal MARTINSBURG — When the foster care system in West Virginia needed a champion, Delegate Jason Barrett was there.
-A member of the state House of Delegates, representing the […]
-Read More
+Skip to content Jason Barrett About District 16 Issues News Media Contact Donate News News Share The Journal: Needing a Champion – Children’s Home Society of West Virginia Recognizes Del.
+Barrett’s Advocacy for Children The Journal MARTINSBURG — When the foster care system in West Virginia needed a champion, Delegate Jason Barrett was there.
+A member of the state House of Delegates, representing the […] Read More Posts pagination Previous 1 2 Categories News Recent Posts 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Latest News 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Berkeley County’s Sen.
+Barrett to chair West Virginia Senate finance committee Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Donate Paid for by Friends of Jason Barrett Powered By Push Digital Jason Barrett © #

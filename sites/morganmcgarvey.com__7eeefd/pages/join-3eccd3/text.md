@@ -1,9 +1,2 @@
-Volunteer with Morgan McGarvey for Congress
-Meet Morgan
-Endorsements
-Take Action
-Donate
-Add your name
-Add your info to receive updates from our campaign.
-You can also get in touch with our team by emailing us
-info@morganmcgarvey.com
+Volunteer with Morgan McGarvey for Congress Meet Morgan Endorsements Take Action Donate Add your name Add your info to receive updates from our campaign.
+You can also get in touch with our team by emailing us info@morganmcgarvey.com Home Meet Morgan Endorsements Media Donate Email Us Press Inquiries Paid for by Morgan McGarvey for Congress Donate By Mail Morgan McGarvey for Congress ‍ PO Box 5324 Louisville, KY 40255 Terms of Service Privacy Policy

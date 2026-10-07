@@ -1,15 +1,62 @@
 [
-"https://ballotpedia.org/Consuelo_Redhorse",
-"https://coloradosos.gov/voter/pages/pub/home.xhtml",
-"https://facebook.com/voteredhorse",
-"https://instagram.com/voteredhorse",
-"https://secure.actblue.com/donate/voteredhorse",
-"https://vote411.org/",
-"https://voteredhorse.com/",
-"https://voteredhorse.com/endorsements",
-"https://voteredhorse.com/join-support",
-"https://voteredhorse.com/meet-consuelo",
-"https://voteredhorse.com/share-feedback",
-"https://voteredhorse.com/values-priorities",
-"https://voteredhorse.com/volunteer"
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Consuelo_Redhorse"
+},
+{
+"text": "Donate on Act Blue",
+"href": "https://secure.actblue.com/donate/voteredhorse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteredhorse.com/endorsements"
+},
+{
+"text": "Go Vote Colorado: Register to Vote & Check Your Voter Registration",
+"href": "https://www.coloradosos.gov/voter/pages/pub/home.xhtml"
+},
+{
+"text": "Home",
+"href": "https://www.voteredhorse.com"
+},
+{
+"text": "Join Us",
+"href": "https://www.voteredhorse.com/join-support"
+},
+{
+"text": "Join and Support",
+"href": "https://www.voteredhorse.com/join-support"
+},
+{
+"text": "Meet Consuelo",
+"href": "https://www.voteredhorse.com/meet-consuelo"
+},
+{
+"text": "Share Feedback",
+"href": "https://www.voteredhorse.com/share-feedback"
+},
+{
+"text": "Values and Priorities",
+"href": "https://www.voteredhorse.com/values-priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteredhorse.com/volunteer"
+},
+{
+"text": "Vote411",
+"href": "https://www.vote411.org/"
+},
+{
+"text": "VoteRedhorse@gmail.com",
+"href": "mailto:VoteRedhorse@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteredhorse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteredhorse/"
+}
 ]

@@ -1,12 +1,12 @@
-Nevada Secretary of State candidates are asking voters to trust them with one of the state’s most basic responsibilities: making sure every lawful vote is handled carefully, counted accurately, and supported by records the public can understand.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no What Nevada Secretary of State Candidates Owe Voters electbarnhill Oct 02, 2026 0 Comments Nevada Secretary of State candidates are asking voters to trust them with one of the state’s most basic responsibilities: making sure every lawful vote is handled carefully, counted accurately, and supported by records the public can understand.
 That job deserves more than campaign slogans.
 It calls for a clear plan, steady management, and someone willing to answer directly to Nevada citizens.
 The Secretary of State does not decide who wins an election.
 The office helps set the standards, systems, guidance, and public reporting that allow county election officials to do their work well.
 When that work is organized, transparent, and consistent, voters have less reason to wonder whether their registration is current, whether their ballot was received, or whether the final count can be verified.
 For voters in Clark County, Washoe County, and rural communities across Nevada, the central question is practical: who will protect your vote while treating every lawful voter fairly?
-The job is bigger than election night
-Election results are the final step of a process that begins long before ballots are cast.
+Nevada voters deserve clear plans, verifiable records, and answers in plain language.
+The job is bigger than election night Election results are the final step of a process that begins long before ballots are cast.
 Voter rolls must be maintained.
 Election equipment must be tested and secured.
 Poll workers need clear training.
@@ -18,9 +18,8 @@ Nevada’s counties have different populations, geography, budgets, and election
 A statewide standard should not ignore those realities.
 But voters should not receive weaker safeguards simply because they live farther from Carson City.
 The state office should provide counties with reliable technology, clear procedures, training, and support while preserving the local knowledge county officials bring to the work.
-I wrote more about this in why a voter in Ely shouldn’t have a harder path to the ballot, and in my plan for consistent standards in every county.
-What voters should ask Nevada Secretary of State candidates
-Candidates should be able to explain their plans in plain language.
+I wrote more about this in why a voter in Ely shouldn’t have a harder path to the ballot , and in my plan for consistent standards in every county .
+What voters should ask Nevada Secretary of State candidates Candidates should be able to explain their plans in plain language.
 Voters do not need to be technology experts or election lawyers to ask sensible questions.
 They should expect specific answers about how an administration will improve security, protect access, and measure results.
 Will elections have verifiable records?
@@ -28,7 +27,7 @@ Electronic systems can make elections faster and more efficient, but voters shou
 Paper records provide a durable way to verify ballots and conduct meaningful audits.
 Modern systems and physical records are not competing ideas.
 Used together, they give Nevada both speed and a dependable trail for review.
-See my position on paper records for Nevada elections.
+See my position on paper records for Nevada elections .
 Candidates should support regular, transparent audits that check whether reported outcomes match the underlying records.
 An audit is not a political weapon.
 It is a quality-control measure, much like reviewing financial records before signing off on an account.
@@ -57,10 +56,9 @@ That work should be routine, not reactive.
 Counties need dependable technical support, clear incident-response plans, and training that fits their operations.
 Voters deserve to know that the systems handling their information are treated with the seriousness they require.
 My election cybersecurity plan explains how.
-My standard: results, not noise
-I’m Brad Lee Barnhill, and I’m running for Secretary of State as the Independent American Party of Nevada candidate because Nevada needs an election administrator focused on the work, not on favors owed to a political establishment.
+My standard: results, not noise I’m Brad Lee Barnhill, and I’m running for Secretary of State as the Independent American Party of Nevada candidate because Nevada needs an election administrator focused on the work, not on favors owed to a political establishment.
 My standard is simple: run elections so well that nobody has to argue about the results.
-You can read more about me here.
+You can read more about me here .
 That is not a promise that every voter will agree with every policy.
 Nevada is a diverse state, and reasonable people will sometimes see election rules differently.
 It is a promise to build procedures that are secure, understandable, consistently applied, and open to public review.
@@ -68,13 +66,12 @@ I bring 20 years of experience as a computer systems analyst and 20 years as a N
 Those are useful backgrounds for this office.
 Election administration requires attention to systems, records, documentation, deadlines, and details.
 It also requires the discipline to read the fine print before a small weakness becomes a statewide problem.
-My approach centers on voter ID, paper records, cybersecurity, accurate voter rolls, modern election technology, and common standards across Nevada’s counties, all laid out in the 20/20 plan.
+My approach centers on voter ID, paper records, cybersecurity, accurate voter rolls, modern election technology, and common standards across Nevada’s counties, all laid out in the 20/20 plan .
 Just as important, it recognizes that a secure system must protect every lawful voter.
 Security without access fails voters.
 Access without careful verification fails voters, too.
-For a closer look at the counting process itself, read how secure ballot counting works in Nevada.
-Transparency should be routine, not occasional
-Public confidence grows when information is easy to find and hard to misunderstand.
+For a closer look at the counting process itself, read how secure ballot counting works in Nevada .
+Transparency should be routine, not occasional Public confidence grows when information is easy to find and hard to misunderstand.
 The Secretary of State’s office should publish useful, timely reports about election readiness, voter-roll maintenance, equipment testing, audits, and major system improvements.
 Reports should explain what the state is doing, why it is doing it, and what results citizens can expect.
 Quarterly public updates would help move election administration away from last-minute confusion.
@@ -85,9 +82,9 @@ Transparency also means making room for review.
 Election procedures should benefit from input by county officials, technical experts, voter-access advocates, and citizens across the political spectrum.
 Fair-minded review does not weaken a policy.
 It tests whether that policy can work in the real world.
-Civil debate, practical accountability
-Nevada voters do not all want the same policies, but most want the same basic assurance: their vote matters and the people responsible for elections take that duty seriously.
+Civil debate, practical accountability Nevada voters do not all want the same policies, but most want the same basic assurance: their vote matters and the people responsible for elections take that duty seriously.
 That is common ground worth protecting.
+Every lawful Nevada voter deserves a process they can understand and trust.
 The next Secretary of State should be judged less by who offers the sharpest talking point and more by who offers the clearest operating plan.
 Can the candidate explain how audits will work?
 How voter education will reach rural communities?
@@ -102,6 +99,11 @@ The office belongs to the people of Nevada.
 As voters consider their choices, they should look for calm judgment, documented plans, and a willingness to be measured by results.
 A well-run election is not a partisan prize.
 It is a public promise kept for every Nevada voter.
-If you want a Secretary of State who answers to citizens instead of parties, get to know me, join the campaign, or donate.
+If you want a Secretary of State who answers to citizens instead of parties, get to know me , join the campaign , or donate .
 Independence isn’t a wasted vote.
 It’s #YourIndependentVoice.
+Share: Categories: Commentary Post navigation Previous Previous post: How Nevada Election Audits Build Voter Confidence Next Next post: Secure Ballot Counting in Nevada Starts Here footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Results, Not Noise.
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
+Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

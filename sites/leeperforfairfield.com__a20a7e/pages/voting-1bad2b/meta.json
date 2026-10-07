@@ -1,8 +1,10 @@
 {
  "description": "Election Day is November 3, 2026. Register to vote, request an absentee ballot, and find early voting information for Fairfield & Southport, CT.",
  "final_url": "https://www.leeperforfairfield.com/voting",
+ "fingerprint": "2a98961505a5e08b076f11e9ab7d36e08554734b",
+ "format": 3,
  "paid_for_by": "Paid for by Jennifer Leeper 2026",
- "title": "Voter Resources \u2014 Jennifer Leeper for Fairfield & Southport",
+ "title": "Voter Resources — Jennifer Leeper for Fairfield & Southport",
  "years_mentioned": [
   "2026"
  ]

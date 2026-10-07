@@ -1,11 +1,8 @@
-Small Business Access to Capital Act
-Bill Name
-Small Business Access to Capital Act
-Bill Number
-798
-Year
-2026
-Priority Areas: Economic Opportunity & Development
-HB 798: The Department of Commerce operates a program called the Small, Minority and Women-Owned Business Account, which uses proceeds from video lottery terminals (VLT) to assist small, minority, and women-owned businesses.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Small Business Access to Capital Act Bill Name Small Business Access to Capital Act Bill Number 798 Year 2026 Priority Areas : Economic Opportunity & Development Learn More HB 798: The Department of Commerce operates a program called the Small, Minority and Women-Owned Business Account, which uses proceeds from video lottery terminals (VLT) to assist small, minority, and women-owned businesses.
 Nine fund managers (both public and private) across the State make loans and grants with VLT funds, but currently $57 million isn’t being disbursed to small businesses.
 This bill authorizes the Department of Commerce to allow 1.5% and 3% of the loan principal to be available to participating fund managers to defray costs of making these financial transactions with the goal of increasing loan-making activity by existing fund managers and by incentivizing more fund managers to join the program.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

@@ -1,9 +1,3 @@
-Skip navigation menu
-news & press
-Latest Campaign Developments
-Gainesville Commissioner Bryan Eastman, Marion County Civil Rights Leaders Back Antione Fields in HD 21
-PRESS RELEASE
-Antione Fields Announces First Slate of Progressive Endorsements in bid for State House District 21
-Campaign Media
-Approved Photos
-PRESS RELEASE
+Skip navigation menu Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Press Meet Antione Why I'm Running Platform Volunteer Vote Endorsements Resources Donate Press news & press Latest Campaign Developments PRESS RELEASE Gainesville Commissioner Bryan Eastman, Marion County Civil Rights Leaders Back Antione Fields in HD 21 Read more Jul 8 2026 NEWS ARTICLE A conversation on politics with Antione Fields Read more Jul 6 2026 Podcast How to Fix Florida with Antione Fields | OTV.
+Ep 34 Read more May 25 2026 PRESS RELEASE Antione Fields Announces First Slate of Progressive Endorsements in bid for State House District 21 Read more May 18 2026 PRESS RELEASE Antione Fields Announces HD-21 Campaign, Pledging to Fight for Working Families and Take On Corporate Influence in Tallahassee Read more Feb 20 2026 Campaign Media Approved Photos Donate Get Involved News PRIMARY ELECTION DATE: August 18, 2026 Contact: info@fieldsforflorida.com P.O.
+Box 770416 Ocala, FL 34477 Powered by RUN! website builder Paid for by Antione Fields, Democrat for Florida House District 21 You need to enable JavaScript to run this app.

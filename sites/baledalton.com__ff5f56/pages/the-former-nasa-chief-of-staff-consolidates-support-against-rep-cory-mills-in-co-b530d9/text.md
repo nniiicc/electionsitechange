@@ -1,16 +1,12 @@
-The Former NASA Chief of Staff Consolidates Support Against Rep.
-Cory Mills, In Competitive Race That Just Shifted Towards Dalton
+Skip to content The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs Facebook X-twitter Instagram Youtube DONATE January 15, 2026 Press Release Bale Dalton Raises Over $340,000 In Just Six Weeks The Former NASA Chief of Staff Consolidates Support Against Rep.
+Cory Mills, In Competitive Race That Just Shifted Towards Dalton Sanford, FL – After launching his campaign to unseat Congressman Cory Mills on November 17, Bale Dalton raised over $340,000 in just six weeks.
 Dalton, a Navy Captain and former NASA Chief of Staff, closed the year with approximately $300,000 in cash on hand.
 Congressman Mills, in contrast, reported just $134,000 in cash on hand in his latest filings from September 30th.
-Dalton expressed gratitude for his supporters, saying:
-“I got into this race because Central Floridians deserve a better option than Congressman Cory Mills.
+Dalton expressed gratitude for his supporters, saying: “I got into this race because Central Floridians deserve a better option than Congressman Cory Mills.
 We need a public servant who’s laser-focused on lowering the cost of living, not litigating his numerous ethical allegations.
 I’m humbled and grateful for the outpouring of support.
-And as a Navy combat veteran, I’m ready to take on this fight and ensure the people of Central Florida have the representation we deserve.”
-Dalton’s announcement comes on the same day that the Cook Political Report released new ratings, noting Congressman Cory Mills’s increasing vulnerability.
-The former “Solid Republican” ranking has been changed to “Likely Republican.”
-ABOUT BALE DALTON:
-Bale Dalton is a decorated Navy Captain and former NASA Chief of Staff who has always answered the call to serve America.
+And as a Navy combat veteran, I’m ready to take on this fight and ensure the people of Central Florida have the representation we deserve.” Dalton’s announcement comes on the same day that the Cook Political Report released new ratings, noting Congressman Cory Mills’s increasing vulnerability.
+The former “Solid Republican” ranking has been changed to “Likely Republican.” ABOUT BALE DALTON: Bale Dalton is a decorated Navy Captain and former NASA Chief of Staff who has always answered the call to serve America.
 One of four raised in a hardworking Central Florida family, Bale graduated from the U.S.
 Naval Academy and has served in the U.S.
 Navy and Navy Reserve for 23 years.
@@ -19,6 +15,11 @@ Following active duty, he worked for Senator Bill Nelson, helping Florida vetera
 After an additional stint on active duty, Bale returned to government service as NASA Chief of Staff.
 At NASA, he managed 16,500 employees and helped run one of the federal government’s most effective agencies.
 After a lifetime of service, Bale is now running against Congressman Cory Mills in Florida’s 7th Congressional District.
-Mills is under investigation by the House Ethics Committee for sexual misconduct, dating violence, and for improperly profiting from arms sales in government contracts.
+Mills is under investigation by the House Ethics Committee for sexual misconduct, dating violence , and for improperly profiting from arms sales in government contracts.
 In October, a Florida judge issued a restraining order against Cory Mills, to protect his ex-girlfriend from blackmail and intimidation.
-###
+### Share: Get INvolved Join The Team First Name Last Name Email Zip Code Cell Phone Get Involved or Chip in $25 Bale Dalton is running for Congress because, after 24 years serving his country, he believes Florida deserves leaders who put people ahead of politics and deliver results for families here at home.
+Support his campaign by making a donation .
+Reach out to his campaign by emailing [email protected] Facebook X-twitter Instagram Youtube Contributions can be mailed to: Dalton for Florida PO Box 1027 Sanford, FL 32772 Media Paid for by Dalton for Florida Bale Dalton is a former member of the United States Navy and current member of the United States Navy Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or Department of Defense. © Copyright #.
+All Rights Reserved.
+Privacy Policy.

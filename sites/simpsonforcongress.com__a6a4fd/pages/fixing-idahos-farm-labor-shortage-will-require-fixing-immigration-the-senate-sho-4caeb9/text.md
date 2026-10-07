@@ -1,7 +1,6 @@
-BY REP.
-MIKE SIMPSON AND BRYAN SEARLE
-MARCH 30, 2022
-The number one issue for farmers today is the labor shortage.
+Skip to content Home About Mike News Issues Endorsements Volunteer Media FIND VOTING LOCATION DONATE Fixing Idaho’s farm labor shortage will require fixing immigration.
+The Senate should act April 1, 2022 BY REP.
+MIKE SIMPSON AND BRYAN SEARLE MARCH 30, 2022 The number one issue for farmers today is the labor shortage.
 Wherever you go, there are help wanted signs.
 Common sense immigration solutions would go a long way to helping farmers find the workers they need to keep food on America’s tables.
 Those solutions must encompass stabilization of our existing workforce, and be coupled with substantial reforms to streamline and increase access to the agricultural guest workers program.
@@ -36,4 +35,6 @@ Rep.
 Michael Simpson is serving his twelfth term in the U.S.
 House of Representatives for Idaho’s Second Congressional District.
 Bryan Searle is serving his seventh year as president of the Idaho Farm Bureau Federation.
-Find original article at IdahoStatesman.com
+Find original article at IdahoStatesman.com « Previous: Simpson secures Idaho provisions in omnibus legislation My fight in Congress to ‘Back the Blue’ » Sign up for Updates First Name (Required) Last Name (Required) Email (Required) Zip Code Submit Twitter Facebook YouTube Paid for by Simpson for Congress, T.
+Layne Van Orden, Treasurer privacy Policy P.O.
+Box 1541, Boise, ID 83701 Phone: 208-367-1927 Email: info@simpsonforcongress.com

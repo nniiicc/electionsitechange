@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Lorain+County+Organized+Labor%E2%80%99s+Annual+Labor+Day+Family+Celebration&dates=20260906T160000Z%2F20260906T220000Z&location=421+Black+River+Lane",
-"http://maps.google.com/?q=421+Black+River+Lane",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/elyria-apple-festival",
-"https://joemillerforohio.com/events-1/grafton-america-250-parade",
-"https://joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration?format=ical",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=421+black+river+lane++"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Lorain+County+Organized+Labor%E2%80%99s+Annual+Labor+Day+Family+Celebration&dates=20260906T160000Z%2F20260906T220000Z&location=421+Black+River+Lane"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/lorain-county-organized-labors-annual-labor-day-family-celebration?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next September 18 Elyria Apple Festival",
+"href": "https://www.joemillerforohio.com/events-1/elyria-apple-festival"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous September 5 Join Team Joe Miller for the Grafton America 250 Parade",
+"href": "https://www.joemillerforohio.com/events-1/grafton-america-250-parade"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

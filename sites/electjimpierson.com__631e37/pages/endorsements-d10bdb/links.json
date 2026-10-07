@@ -1,31 +1,118 @@
 [
-"https://35thdemocrats.org/",
-"https://aftwa.org/endorsements-and-elections",
-"https://electjimpierson.com/",
-"https://electjimpierson.com/about",
-"https://electjimpierson.com/blog",
-"https://electjimpierson.com/calendar",
-"https://electjimpierson.com/endorsements",
-"https://electjimpierson.com/feedback",
-"https://electjimpierson.com/newsletters",
-"https://electjimpierson.com/platform",
-"https://electjimpierson.com/volunteer",
-"https://iam751.org/politics/endorsements.htm",
-"https://indivisibleportorchard.org/political-action",
-"https://kitsapdemocraticwomen.org/",
-"https://kitsapdemocrats.org/",
-"https://masoncountywademocrats.org/",
-"https://olympiaindivisible.org/elections-2026.html",
-"https://plannedparenthoodaction.org/",
-"https://secure.actblue.com/donate/jim-pierson-1",
-"https://sierraclub.org/",
-"https://stonewalldemocrats.us/new-cover-page-1",
-"https://thurstondemocrats.org/",
-"https://thurstondemwomen.org/2026-endorsements",
-"https://tlmlabor.org/?zone=%2Funionactive%2Fview_article.cfm&HomeID=997348",
-"https://ufcw3000.org/endorsements",
-"https://wabuildingtrades.org/candidates.html",
-"https://waconservationaction.org/our-work/areas-of-work/endorsements",
-"https://washingtonea.org/advocacy/wea-pac/2026-endorsements",
-"https://wslc.org/wp-content/uploads/2026/05/2026-WSLC-election-endorsements.pdf"
+{
+"text": "About",
+"href": "https://www.electjimpierson.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Calendar",
+"href": "https://www.electjimpierson.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jim-pierson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electjimpierson.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.electjimpierson.com"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electjimpierson.com/newsletters"
+},
+{
+"text": "Platform",
+"href": "https://www.electjimpierson.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjimpierson.com/volunteer"
+},
+{
+"text": "Voter Feedback",
+"href": "https://www.electjimpierson.com/feedback"
+},
+{
+"text": "[image: AFT]",
+"href": "https://www.aftwa.org/endorsements-and-elections"
+},
+{
+"text": "[image: KCDW]",
+"href": "https://kitsapdemocraticwomen.org/"
+},
+{
+"text": "[image: Machinists District 751]",
+"href": "https://www.iam751.org/politics/endorsements.htm"
+},
+{
+"text": "[image: Pink Poppy Flowers]",
+"href": "https://kitsapdemocrats.org/"
+},
+{
+"text": "[image: Pink Poppy Flowers]",
+"href": "https://www.35thdemocrats.org/"
+},
+{
+"text": "[image: Pink Poppy Flowers]",
+"href": "https://www.masoncountywademocrats.org/"
+},
+{
+"text": "[image: SKI2]",
+"href": "https://indivisibleportorchard.org/political-action/"
+},
+{
+"text": "[image: Sierra Club Endorsement Seal_Color-1]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: TCDW banner logo]",
+"href": "https://www.thurstondemwomen.org/2026-endorsements"
+},
+{
+"text": "[image: TCD_Banner_logo (1)]",
+"href": "https://www.thurstondemocrats.org/"
+},
+{
+"text": "[image: TLM-CLC]",
+"href": "https://www.tlmlabor.org/?zone=%2Funionactive%2Fview_article.cfm&HomeID=997348"
+},
+{
+"text": "[image: UFCW]",
+"href": "https://ufcw3000.org/endorsements"
+},
+{
+"text": "[image: WA Stonewall Dems Endorsement Icon]",
+"href": "https://www.stonewalldemocrats.us/new-cover-page-1"
+},
+{
+"text": "[image: WA_PPAA_Endorsed_Badge (1)]",
+"href": "https://www.plannedparenthoodaction.org/"
+},
+{
+"text": "[image: WCA_logo-no-tag_RGB_color.png]",
+"href": "https://waconservationaction.org/our-work/areas-of-work/endorsements/"
+},
+{
+"text": "[image: WSBCTC logo]",
+"href": "https://www.wabuildingtrades.org/candidates.html"
+},
+{
+"text": "[image: oly-indivisible-color-horizontal_1_orig]",
+"href": "https://www.olympiaindivisible.org/elections-2026.html"
+},
+{
+"text": "[image: weapaclogo_m]",
+"href": "https://www.washingtonea.org/advocacy/wea-pac/2026-endorsements/"
+},
+{
+"text": "[image: wslc-new-logo-trnsp-2]",
+"href": "https://wslc.org/wp-content/uploads/2026/05/2026-WSLC-election-endorsements.pdf"
+}
 ]

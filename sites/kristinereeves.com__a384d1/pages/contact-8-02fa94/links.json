@@ -1,13 +1,50 @@
 [
-"https://facebook.com/electkristinereeves",
-"https://instagram.com/kristinereeveswa",
-"https://kristinereeves.com/",
-"https://kristinereeves.com/about-kristine",
-"https://kristinereeves.com/contact-8",
-"https://kristinereeves.com/endorse-kristine",
-"https://kristinereeves.com/gotv",
-"https://kristinereeves.com/issues",
-"https://kristinereeves.com/media",
-"https://linkedin.com/in/kristinemreeves",
-"https://twitter.com/KristineMReeves"
+{
+"text": "ABOUT KRISTINE",
+"href": "https://www.kristinereeves.com/about-kristine"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kristinereeves.com/contact-8"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kristinereeves.com/endorse-kristine"
+},
+{
+"text": "GOTV",
+"href": "https://www.kristinereeves.com/gotv"
+},
+{
+"text": "HOME",
+"href": "https://www.kristinereeves.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kristinereeves.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.kristinereeves.com/media"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electkristinereeves"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kristinereeveswa/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/kristinemreeves/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/KristineMReeves"
+},
+{
+"text": "info@kristinereeves.com",
+"href": "mailto:info@mysite.com"
+}
 ]

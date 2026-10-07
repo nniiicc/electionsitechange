@@ -1,7 +1,5 @@
-About Me
-About Dr.
-Tim Reeder
-Dr.
+Home Accomplishments About Me News Contact Donate Home About Me About Me About Dr.
+Tim Reeder Dr.
 Tim Reeder is an emergency physician, educator, lifelong Republican, and committed conservative running for re-election to the North Carolina House of Representatives in Pitt County’s District 9.
 His dedication to service and helping others has shaped his approach to public office, where he brings real-world problem-solving skills to support the people of Pitt County and North Carolina.
 Dr.
@@ -16,10 +14,7 @@ Dr.
 Reeder has been active in the community, serving for 10 years on the Board and as President of the Greenville Community Shelter.
 Dr.
 Reeder first ran for office on a promise to the voters that he would always prioritize their needs above all, and in the state House of Representatives, that’s exactly what he’s done.
-Strong, Conservative Values
-Making NC Affordable
-Fixing Our Healthcare
-Defending Our American Freedoms
-Protecting Our Taxpayer Dollars
-Investing in Our Education Systems
-Protecting Our Communities
+Strong, Conservative Values Making NC Affordable Fixing Our Healthcare Defending Our American Freedoms Protecting Our Taxpayer Dollars Investing in Our Education Systems Protecting Our Communities Committee for Dr.
+Tim Reeder 1413 Fox Hollow Drive Ayden, NC 28513 Built in partnership with the Zudesa Corporation .
+Home About Me Contact Copyright ©# Paid for by Committee for Dr Tim Reeder, All rights reserved.
+Search

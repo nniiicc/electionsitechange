@@ -1,7 +1,11 @@
 {
  "description": "Recent news and press coverage of Congressman Shomari Figures and the campaign for Alabama's 2nd Congressional District.",
  "final_url": "https://www.figuresforcongress.com/news",
+ "fingerprint": "637bfdafa675d8f8182e4ea5f9eac0c976f8f6ef",
+ "format": 3,
  "paid_for_by": "Paid for by The Committee to Elect Shomari Figures for Congress",
  "title": "News & Press | Shomari Figures for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

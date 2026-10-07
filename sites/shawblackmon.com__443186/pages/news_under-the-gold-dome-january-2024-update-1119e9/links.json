@@ -1,23 +1,90 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/ShawBlackmonGA",
-"https://freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db",
-"https://legis.ga.gov/legislation/65965",
-"https://legis.ga.gov/legislation/65968",
-"https://legis.ga.gov/legislation/65995",
-"https://legis.ga.gov/legislation/65997",
-"https://legis.ga.gov/legislation/66162",
-"https://shawblackmon.com/",
-"https://shawblackmon.com/about_shaw",
-"https://shawblackmon.com/cities-counties",
-"https://shawblackmon.com/committee-service",
-"https://shawblackmon.com/constituent-services",
-"https://shawblackmon.com/contact",
-"https://shawblackmon.com/contribute",
-"https://shawblackmon.com/district-146",
-"https://shawblackmon.com/government-contacts",
-"https://shawblackmon.com/issues",
-"https://shawblackmon.com/news",
-"https://shawblackmon.com/photos",
-"https://shawblackmon.com/voter-information"
+{
+"text": "About Shaw",
+"href": "https://www.shawblackmon.com/about_shaw"
+},
+{
+"text": "Committee Service",
+"href": "https://www.shawblackmon.com/committee-service"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.shawblackmon.com/constituent-services"
+},
+{
+"text": "Contact",
+"href": "https://www.shawblackmon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.shawblackmon.com/contribute"
+},
+{
+"text": "District",
+"href": "https://www.shawblackmon.com/district-146"
+},
+{
+"text": "Gallery",
+"href": "https://www.shawblackmon.com/photos"
+},
+{
+"text": "Government Contacts",
+"href": "https://www.shawblackmon.com/government-contacts"
+},
+{
+"text": "House Bill 881",
+"href": "https://www.legis.ga.gov/legislation/65965"
+},
+{
+"text": "House Bill 884",
+"href": "https://www.legis.ga.gov/legislation/65968"
+},
+{
+"text": "House Bill 905",
+"href": "https://www.legis.ga.gov/legislation/65995"
+},
+{
+"text": "House Bill 906",
+"href": "https://www.legis.ga.gov/legislation/65997"
+},
+{
+"text": "House Bill 976",
+"href": "https://www.legis.ga.gov/legislation/66162"
+},
+{
+"text": "Local Government",
+"href": "https://www.shawblackmon.com/cities-counties"
+},
+{
+"text": "News",
+"href": "https://www.shawblackmon.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.shawblackmon.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "View Our Privacy Policy",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "View our privacy policy.",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "Voter Information",
+"href": "https://www.shawblackmon.com/voter-information"
+},
+{
+"text": "[image]",
+"href": "https://www.shawblackmon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ShawBlackmonGA/"
+}
 ]

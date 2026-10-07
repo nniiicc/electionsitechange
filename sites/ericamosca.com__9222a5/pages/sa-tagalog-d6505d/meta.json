@@ -1,15 +1,19 @@
 {
- "description": "Meet Erica Mosca, a Democrat running for Nevada State Assembly, District 14. Known by many in the community as \u201cMs. Mosca,\u201d Erica is a proud first-generation college graduate, daughter of a Filipino immigrant, and social justice advocate.",
+ "description": "Meet Erica Mosca, a Democrat running for Nevada State Assembly, District 14. Known by many in the community as “Ms. Mosca,” Erica is a proud first-generation college graduate, daughter of a Filipino immigrant, and social justice advocate.",
  "final_url": "https://www.ericamosca.com/sa-tagalog",
- "paid_for_by": null,
+ "fingerprint": "9f3b957ace57f6dc40456fade7791c0e9926cc02",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Erica Mosca 2126 Citroen St",
  "title": "About Erica Mosca | Las Vegas Democrat for Nevada State Assembly",
  "years_mentioned": [
+  "2008",
   "2011",
   "2012",
   "2017",
   "2019",
   "2020",
   "2021",
-  "2022"
+  "2022",
+  "2025"
  ]
 }

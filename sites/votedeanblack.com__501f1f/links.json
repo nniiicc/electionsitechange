@@ -1,9 +1,30 @@
 [
-"https://cfpublic.org/health/2026-03-11/florida-legislature-approves-two-alzheimers-related-bills",
-"https://floridapolitics.com/archives/779489-duggan-black-local-bills",
-"https://floridianpress.com/2026/01/dean-black-debra-tendrich-unveil-florida-israel-policy-exchange-initiative",
-"https://flvoicenews.com/florida-house-passes-dei-limits-for-local-governments-bill-heads-to-the-governor",
-"https://registertovoteflorida.gov/home",
-"https://secure.anedot.com/deanblackcampaign/donate",
-"https://votedeanblack.com/"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/deanblackcampaign/donate"
+},
+{
+"text": "Read More",
+"href": "https://floridapolitics.com/archives/779489-duggan-black-local-bills/"
+},
+{
+"text": "Read More",
+"href": "https://floridianpress.com/2026/01/dean-black-debra-tendrich-unveil-florida-israel-policy-exchange-initiative/"
+},
+{
+"text": "Read More",
+"href": "https://flvoicenews.com/florida-house-passes-dei-limits-for-local-governments-bill-heads-to-the-governor/"
+},
+{
+"text": "Read More",
+"href": "https://www.cfpublic.org/health/2026-03-11/florida-legislature-approves-two-alzheimers-related-bills"
+},
+{
+"text": "Register To Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "[image]",
+"href": "https://votedeanblack.com"
+}
 ]

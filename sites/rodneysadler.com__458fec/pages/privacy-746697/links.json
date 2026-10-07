@@ -1,21 +1,82 @@
 [
-"https://aboutads.info/choices",
-"https://adobe.com/products/flashplayer/security",
-"https://bsky.app/profile/rodneysadler.com",
-"https://facebook.com/RevDrSadler",
-"https://instagram.com/revdrsadler",
-"https://mobilize.us/rodneysadler",
-"https://rodneysadler.com/",
-"https://rodneysadler.com/about",
-"https://rodneysadler.com/category/press",
-"https://rodneysadler.com/endorsements",
-"https://rodneysadler.com/media-center",
-"https://rodneysadler.com/news",
-"https://rodneysadler.com/platform",
-"https://rodneysadler.com/privacy",
-"https://rodneysadler.com/vote",
-"https://secure.actblue.com/donate/rodneysadler",
-"https://threads.com/@revdrsadler",
-"https://x.com/RevDrSadler",
-"https://xpslane.com/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rodneysadler"
+},
+{
+"text": "Endorsements",
+"href": "https://rodneysadler.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/rodneysadler/"
+},
+{
+"text": "Home",
+"href": "https://rodneysadler.com/"
+},
+{
+"text": "Media Inquiries",
+"href": "https://rodneysadler.com/media-center"
+},
+{
+"text": "Meet Rodney",
+"href": "https://rodneysadler.com/about"
+},
+{
+"text": "News",
+"href": "https://rodneysadler.com/news"
+},
+{
+"text": "News Articles",
+"href": "https://rodneysadler.com/news"
+},
+{
+"text": "Platform",
+"href": "https://rodneysadler.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://rodneysadler.com/category/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rodneysadler.com/privacy"
+},
+{
+"text": "Vote",
+"href": "https://rodneysadler.com/vote"
+},
+{
+"text": "[image: Rev. Dr. Rodney Sadler for NC House District 106]",
+"href": "https://rodneysadler.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rodneysadler.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RevDrSadler"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/revdrsadler/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@revdrsadler"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RevDrSadler"
+},
+{
+"text": "www.aboutads.info/choices.",
+"href": "https://www.aboutads.info/choices"
+}
 ]

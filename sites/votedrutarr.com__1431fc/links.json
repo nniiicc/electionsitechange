@@ -1,5 +1,14 @@
 [
-"https://secure.actblue.com/donate/drutarr",
-"https://votedrutarr.com/",
-"https://votedrutarr.com/privacypolicy"
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/drutarr"
+},
+{
+"text": "Home",
+"href": "https://www.votedrutarr.com"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.votedrutarr.com/privacypolicy"
+}
 ]

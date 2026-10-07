@@ -1,5 +1,4 @@
-MEET SAM
-WHO IS SAM?
+top of page Log In MEET SAM WHO IS SAM?
 Sam grew up in Lancaster, Ohio.
 He graduated with honors from Lancaster High School, earned Magna Summa Cum Laude on the National Latin Exam, and spent his senior year as a Rotary International exchange student in Rosenheim, Germany.
 In 2009, Sam enlisted in the United States Air Force, where he served with distinction until receiving an honorable discharge.
@@ -14,11 +13,9 @@ He is a working person, not a career politician.
 He has lived paycheck to paycheck.
 He has navigated the VA.
 He understands what it means to struggle — and he's running because he believes that's exactly the kind of person who should be in Congress.
-FROM SERVICE TO ADVOCACY
-After his military service, Sam channeled his energy into grassroots organizing.
+FROM SERVICE TO ADVOCACY After his military service, Sam channeled his energy into grassroots organizing.
 He founded the Average Joe's Initiative and later Our Voice USA, building free tools to help candidates and organizers connect with voters without relying on expensive party infrastructure.
-He has spent nearly a decade fighting for government accountability, working-class economic reform, and giving ordinary citizens a seat at the table.
-Sam's political journey has taken him through multiple campaigns and parties.
+He has spent nearly a decade fighting for government accountability, working-class economic reform, and giving ordinary citizens a seat at the table. ​ Sam's political journey has taken him through multiple campaigns and parties.
 He makes no apologies for it.
 He has said openly that he left the Democratic Party because its leadership did not serve working people, and he is running as a Republican because he believes in earning the trust of the voters in his district — not in loyalty to any party machine.
 His record is public.
@@ -40,3 +37,9 @@ He is truly a man of the people, without having to put on a show.
 He was born into a blue-collar family, he has worked from the bottom, and he shows exceptional skill and talent as a leader.
 Furthermore, he has proven throughout his life to be tenacious when facing adversity.
 His candidacy is a testament to his want to right the wrongs of our political system, and his willingness to restore the promise of the American People as the masters of our own fate.
+GET INVOLVED MORE FROM SAM Sam Ronan on the Border Crisis Samuel Ronan on Police Reform Sam Ronan Speech From The Rally To Get Money Out Of Politics 2017 Live in Frankenmuth STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

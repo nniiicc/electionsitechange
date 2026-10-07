@@ -1,6 +1,5 @@
-Signed in as:
-filler@godaddy.com
-Our nation was built on the ideas of individual liberty, not government mandates.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Values About News Contact Us Donate More Home Values About News Contact Us Donate Signed in as: filler@godaddy.com Home Values About News Contact Us Donate Account My Account Sign out Sign In My Account E.
+Werner Reschke Biography Werner’s Values Our nation was built on the ideas of individual liberty, not government mandates.
 Our founders believed that each person has the unalienable right to life, liberty and the pursuit of happiness.
 These rights are endowed to us not by family lineage, the traditions of men or by government.
 These rights are woven into our very fabric by God the Creator.
@@ -17,10 +16,14 @@ To add salt to the wound, our judicial system continues to rule in favor for suc
 We Have The Solution!
 The Legislature has the power to limit the size and scope of Executive Agency powers.
 The answer to this Executive Power juggernaut is to elect legislators who value your liberty and your family above the government.
-Please help us win 2026 by donating to my campaign, writing letters of encouragement, praying for strength to win this election and for courage to step back into the belly of the beast.
+Please help us win 2026 by donating to my campaign , writing letters of encouragement, praying for strength to win this election and for courage to step back into the belly of the beast.
 My goal is not to become popular in Salem, but to bring back balance to our republic between the executive, judicial and legislative branches of government.
 I will stand for our right to life, liberty and the pursuit of happiness.
 I will champion equality under the law, not laws of equity — that benefit some but not others.
 In the end, the less money that goes to Salem and the fewer administrative agencies with autonomous rule making authority will mean victory for the people of House District 55 and all of Oregon.
-Join me today.
+Join me today .
 Werner is a 4 time recipient of the Conservative Excellence Award for his voting record.
+Contact Us Privacy Policy Donate Paid for by Werner For Oregon.
+PAC ID 17892.
+Copyright © # Werner For Oregon - All Rights Reserved.
+Powered by

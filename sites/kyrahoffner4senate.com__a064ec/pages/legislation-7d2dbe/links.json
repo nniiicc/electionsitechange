@@ -1,41 +1,162 @@
 [
-"https://app.jotform.com/250326592282154",
-"https://elections.delaware.gov/",
-"https://elections.delaware.gov/maps/sd/2023/newcastle/sen-district-14.pdf",
-"https://elections.delaware.gov/public/calendar/calendars.shtml",
-"https://elections.delaware.gov/voter/absentee/index.shtml",
-"https://elections.delaware.gov/voter/specialneeds.shtml",
-"https://facebook.com/kyrahoffner4senate",
-"https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore",
-"https://instagram.com/kyra_hoffner",
-"https://ivote.de.gov/VoterView",
-"https://kyrahoffner4senate.com/",
-"https://kyrahoffner4senate.com/about",
-"https://kyrahoffner4senate.com/contact",
-"https://kyrahoffner4senate.com/legislation",
-"https://kyrahoffner4senate.com/press",
-"https://kyrahoffner4senate.com/privacy-policy",
-"https://kyrahoffner4senate.com/work",
-"https://legis.delaware.gov/BillDetail?legislationId=129965",
-"https://legis.delaware.gov/BillDetail?legislationId=140514",
-"https://legis.delaware.gov/BillDetail?legislationId=140562",
-"https://legis.delaware.gov/BillDetail?legislationId=140943",
-"https://legis.delaware.gov/BillDetail?legislationId=141043",
-"https://legis.delaware.gov/BillDetail?legislationId=141304",
-"https://legis.delaware.gov/BillDetail?legislationId=141430",
-"https://legis.delaware.gov/BillDetail?legislationId=141516",
-"https://legis.delaware.gov/BillDetail?legislationId=141748",
-"https://legis.delaware.gov/BillDetail?legislationId=141751",
-"https://legis.delaware.gov/BillDetail?legislationId=141856",
-"https://legis.delaware.gov/BillDetail?legislationId=141863",
-"https://legis.delaware.gov/BillDetail?legislationId=141864",
-"https://legis.delaware.gov/BillDetail?legislationId=141904",
-"https://legis.delaware.gov/BillDetail?legislationId=142419",
-"https://legis.delaware.gov/BillDetail?legislationId=142506",
-"https://legis.delaware.gov/BillDetail?legislationId=142693",
-"https://legis.delaware.gov/BillDetail?legislationId=142727",
-"https://legis.delaware.gov/BillDetail?legislationId=142749",
-"https://legis.delaware.gov/Search/152/hoffner",
-"https://linkedin.com/in/kyra-hoffner-74681b16",
-"https://secure.actblue.com/donate/kyra-hoffner-1"
+{
+"text": "About",
+"href": "https://www.kyrahoffner4senate.com/about"
+},
+{
+"text": "Access the App",
+"href": "https://app.jotform.com/250326592282154"
+},
+{
+"text": "Contact",
+"href": "https://www.kyrahoffner4senate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kyra-hoffner-1"
+},
+{
+"text": "Delaware Department of Elections",
+"href": "https://elections.delaware.gov/"
+},
+{
+"text": "Delaware Election Calendars",
+"href": "https://elections.delaware.gov/public/calendar/calendars.shtml"
+},
+{
+"text": "Delaware Polling Place Locator",
+"href": "https://gis.elections.delaware.gov/apps/5bc1fa9352464944be601441655e36a0/explore"
+},
+{
+"text": "District 14 Map",
+"href": "https://elections.delaware.gov/maps/sd/2023/newcastle/sen-district-14.pdf"
+},
+{
+"text": "For a Complete List of Legislation Click here",
+"href": "https://legis.delaware.gov/Search/152/hoffner"
+},
+{
+"text": "Home",
+"href": "https://www.kyrahoffner4senate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kyrahoffner4senate.com/work"
+},
+{
+"text": "Legislation",
+"href": "https://www.kyrahoffner4senate.com/legislation"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kyrahoffner4senate.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://www.kyrahoffner4senate.com/press"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=129965"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=140514"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=140562"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=140943"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141043"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141304"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141430"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141516"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141748"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141751"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141856"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141863"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141864"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=141904"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142419"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142506"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142693"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142727"
+},
+{
+"text": "Read More",
+"href": "https://legis.delaware.gov/BillDetail?legislationId=142749"
+},
+{
+"text": "Register to Vote",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Voters with Special Needs",
+"href": "https://elections.delaware.gov/voter/specialneeds.shtml"
+},
+{
+"text": "Voting by Absentee Ballot",
+"href": "https://elections.delaware.gov/voter/absentee/index.shtml"
+},
+{
+"text": "[image: Kyra Hoffner for Senate Logo]",
+"href": "https://www.kyrahoffner4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kyrahoffner4senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kyra_hoffner/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kyra-hoffner-74681b16/"
+}
 ]

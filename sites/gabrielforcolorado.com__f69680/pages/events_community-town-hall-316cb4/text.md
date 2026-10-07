@@ -1,9 +1,7 @@
-Back to All Events
-Please join Gabriel and Colorado State Representatives Kenny Nguyen, and Jenny Willford in talking about issues facing Thorntonites and Thorntonians alike, as well as what you would like to see from your state representatives.
-Previous
-Previous
-April 28
-Pro-Animal Social
-Next
-Next
-September 12
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Back to All Events Community Town Hall Wednesday, September 9, 2026 6:00 PM 8:00 PM Margaret Carpenter Rec Center 11151 Colorado Boulevard Thornton, Colorado, 80233 United States (map) Google Calendar ICS Please join Gabriel and Colorado State Representatives Kenny Nguyen, and Jenny Willford in talking about issues facing Thorntonites and Thorntonians alike, as well as what you would like to see from your state representatives.
+Previous Previous April 28 Pro-Animal Social Next Next September 12 General Election Kick-Off Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

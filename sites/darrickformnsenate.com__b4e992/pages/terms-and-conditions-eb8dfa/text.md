@@ -1,5 +1,4 @@
-Terms & Conditions
-PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
+top of page Home About Issues Donate Terms & Conditions PLEASE READ THESE TERMS OF SERVICE CAREFULLY.
 BY ACCESSING OR USING THIS WEB SITE, MOBILE APPLICATION OR OTHER SOCIAL MEDIA APPLICATION, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS WEB SITE, MOBILE APPLICATION OR OTHER SOCIAL MEDIA APPLICATION.
 This website, mobile application or other social media application is operated by Darrick for State Senate.
@@ -10,8 +9,7 @@ Any changes or modification will be effective immediately upon posting of the re
 Your continued use of these Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
 Therefore, you should frequently review the Terms of Service and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Sites.
 If you do not agree to the amended terms, you must stop using the Sites.
-All questions or comments about the Sites or site content should be directed to darrickformnsenate@gmail.com
-1.
+All questions or comments about the Sites or site content should be directed to darrickformnsenate@gmail.com 1.
 PRIVACY POLICY Please refer to our Privacy Policy information on how we collect, use and disclose personally identifiable information from our users.
 2.
 COPYRIGHT AND LIMITED LICENSE Unless otherwise indicated in the Sites, the Sites and all content and other materials on the Sites, including, without limitation, Darrick for State Senate’s logo, and all designs, text, graphics, pictures, information, data, software, tools, widgets, sound files, other files and the selection and arrangement thereof (collectively, the “Site Materials”) are the proprietary property of Darrick for State Senate or its licensors or users and are protected by U.S. and international copyright laws.
@@ -55,16 +53,7 @@ Darrick for State Senate shall own exclusive rights, including all intellectual 
 9.
 USER CONTENT AND INTERACTIVE SERVICES OR AREAS The Sites may include interactive areas or services (“Interactive Areas”), such as forums, blogs, chat rooms or message boards, or other areas or services in which you or other users may create, post, share or store content, messages, materials, data, information, text, graphics, audio, video, or other items or materials on the Sites (“User Content”).
 You are solely responsible for your use of such Interactive Areas and use them at your own risk.
-By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following:
-User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading;
-User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law;
-User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity;
-Unsolicited promotions, advertising, or solicitations;
-Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers;
-Viruses, corrupted data or other harmful, disruptive or destructive files; and
-User Content which violates the terms of any Darrick for State Senate guidelines, policies or rules posted on the Site or otherwise provided to you; and
-User Content that, in the sole judgment of Darrick for State Senate, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Darrick for State Senate or its users to any harm or liability of any type.
+By using any Interactive Areas, you agree not to post, upload to, transmit, distribute, store, create, or otherwise publish through the Sites any of the following: User Content that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, fraudulent, deceptive or misleading; User Content that would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national or international law; User Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; User Content that impersonates any person or entity or otherwise misrepresents your affiliation with a person or entity; Unsolicited promotions, advertising, or solicitations; Private information of any third party, including, without limitation, addresses, phone numbers, email addresses, Social Security numbers and credit card numbers; Viruses, corrupted data or other harmful, disruptive or destructive files; and User Content which violates the terms of any Darrick for State Senate guidelines, policies or rules posted on the Site or otherwise provided to you; and User Content that, in the sole judgment of Darrick for State Senate, is objectionable or which restricts or inhibits any other person from using or enjoying the Interactive Areas or the Sites, or which may expose Darrick for State Senate or its users to any harm or liability of any type.
 Darrick for State Senate takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is Darrick for State Senate liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, profanity or objectionable content you may encounter.
 Your use of Interactive Areas is at your own risk.
 Enforcement of the user content or conduct rules set forth in these Terms of Service is solely at Darrick for State Senate's discretion, and failure to enforce such rules in some instances does not constitute a waiver of our right to enforce such rules in other instances.
@@ -113,11 +102,9 @@ Funds received in response to this solicitation will be subject to federal contr
 DONATION REFUND AND CANCELLATION POLICY All donations are final.
 Refunds and cancellations will be given at the discretion of Darrick for Senate.
 If you believe that an error has been made in connection with your online donation, contact us at darrickformnsenate@gmail.com.
-We will endeavor to work with you to correct any such error.
-19.
+We will endeavor to work with you to correct any such error. ​ 19.
 DONATION SHIPPING AND HANDLING POLICY All donation confirmations will be sent via e-mail.
-It is your responsibility to provide a correct and valid e-mail address, street address, and other contact information.
-20.
+It is your responsibility to provide a correct and valid e-mail address, street address, and other contact information. ​ 20.
 By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Darrick for Senate to the phone number you provide.
 No consent is required to buy.
@@ -125,6 +112,7 @@ Msg&data rates may apply.
 Opt-in data will not be shared with third parties.
 Reply HELP for help or STOP to opt out at any time.
 In addition to the Terms and Conditions on this page, you can read the Site's privacy policy.
-We and the carriers are not liable for delayed or undelivered messages.
-21.
+We and the carriers are not liable for delayed or undelivered messages. ​ 21.
 QUESTIONS & CONTACT INFORMATION Questions or comments about the Sites may be directed to Darrick for Senate at darrickformnsenate@gmail.com.
+Connect with Darrick First name * Last name * Email * Yes, subscribe me to your newsletter. * SUBSCRIBE Prepared and Paid for by the Darrick Law for State Senate Committee.
+Terms & Conditions Privacy Policy Accessibility Statement © # Darrick Law for State Senate darrickformnsenate@gmail.com (218)-302-5335 PO BOX 7005 DULUTH, MN 55807 bottom of page

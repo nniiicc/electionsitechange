@@ -1,13 +1,50 @@
 [
-"https://electclint.com/",
-"https://electclint.com/cart",
-"https://electclint.com/contact",
-"https://electclint.com/donate",
-"https://electclint.com/events",
-"https://electclint.com/meetclint",
-"https://electclint.com/priorities",
-"https://electclint.com/privacy-policy",
-"https://electclint.com/volunteer",
-"https://facebook.com/profile.php?id=61556878780395",
-"https://instagram.com/electclint"
+{
+"text": "0",
+"href": "https://www.electclint.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.electclint.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electclint.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.electclint.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.electclint.com/"
+},
+{
+"text": "Meet Clint",
+"href": "https://www.electclint.com/meetclint"
+},
+{
+"text": "Priorities",
+"href": "https://www.electclint.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electclint.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electclint.com/volunteer"
+},
+{
+"text": "[image: Elect Clint Okerlund]",
+"href": "https://www.electclint.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556878780395"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electclint/"
+}
 ]

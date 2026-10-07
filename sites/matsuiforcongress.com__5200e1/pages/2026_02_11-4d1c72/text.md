@@ -1,2 +1,2 @@
-Sacramento Rep.
-Doris Matsui tours facility ICE uses to detain people after 2 rejected requests February 11, 2026 Doris Matsui spoke out Friday after she was able to access, after repeated rejected requests Read More »
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE Campaign News Sacramento Rep.
+Doris Matsui tours facility ICE uses to detain people after 2 rejected requests February 11, 2026 Doris Matsui spoke out Friday after she was able to access, after repeated rejected requests Read More » MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

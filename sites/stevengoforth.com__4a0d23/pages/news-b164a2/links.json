@@ -1,21 +1,102 @@
 [
-"http://linkedin.com/in/stevenagoforth",
-"https://facebook.com/stevengoforthforcongress",
-"https://facebook.com/wix",
-"https://instagram.com/stevengoforthforcongress",
-"https://instagram.com/wix",
-"https://stevengoforth.com/",
-"https://stevengoforth.com/about",
-"https://stevengoforth.com/accessibility-statement",
-"https://stevengoforth.com/contact",
-"https://stevengoforth.com/events-1",
-"https://stevengoforth.com/get-involved",
-"https://stevengoforth.com/news",
-"https://stevengoforth.com/post/content-under-construction",
-"https://stevengoforth.com/privacy-policy",
-"https://stevengoforth.com/terms-and-conditions",
-"https://threads.com/@stevengoforthforcongress",
-"https://twitter.com/wix",
-"https://x.com/StevenAGoforth",
-"https://youtube.com/@StevenGoforthforCongress"
+{
+"text": "About",
+"href": "https://www.stevengoforth.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.stevengoforth.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stevengoforth.com/accessibility-statement"
+},
+{
+"text": "All Articles",
+"href": "https://www.stevengoforth.com/news"
+},
+{
+"text": "CONTENT UNDER CONSTRUCTION",
+"href": "https://www.stevengoforth.com/post/content-under-construction"
+},
+{
+"text": "Contact",
+"href": "https://www.stevengoforth.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "Events",
+"href": "https://www.stevengoforth.com/events-1"
+},
+{
+"text": "FOR CONGRESS",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevengoforth.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.stevengoforth.com/news"
+},
+{
+"text": "MEDIA PORTAL",
+"href": "https://www.stevengoforth.com"
+},
+{
+"text": "News",
+"href": "https://www.stevengoforth.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stevengoforth.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.stevengoforth.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/stevengoforthforcongress"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stevengoforthforcongress/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.youtube.com/@StevenGoforthforCongress"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@stevengoforthforcongress"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/StevenAGoforth"
+},
+{
+"text": "[image: Youtube]",
+"href": "http://www.linkedin.com/in/stevenagoforth"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "campaign@stevengoforth.com",
+"href": "mailto:campaign@stevengoforth.com"
+}
 ]

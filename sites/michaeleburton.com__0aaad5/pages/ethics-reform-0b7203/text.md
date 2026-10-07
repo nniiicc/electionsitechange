@@ -1,4 +1,5 @@
-Bringing Ethics to Government
-Michael believes government in Missouri in dire need of ethics reform.
+0 Skip to Content Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Folder: Legislation Back Seniors Helping Veterans Ethics Reform Conservation Folder: Issues Back Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Bringing Ethics to Government Michael believes government in Missouri in dire need of ethics reform.
 Just as Michael Stood up to the corrupt County Executive Steve Stenger.
 Michael sponsored legislation to close loopholes that allow unlimited anonymous contributions to political campaigns, known as “Super PACS” his bill HB 2891 forces those groups to disclose their donors.
+Michael Burton for State Representative 10258 Squire Meadows Dr., Unit #8 St.
+Louis MO, 63123 (314) 753-1165 Paid for by Friends of Michael Burton, Theresa Pelech, Treasurer

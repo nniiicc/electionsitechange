@@ -1,34 +1,190 @@
 [
-"https://bsky.app/profile/littleforcongress.bsky.social",
-"https://facebook.com/MattMLittle",
-"https://instagram.com/mattlittleforcongress",
-"https://littleforcongress.com/",
-"https://littleforcongress.com/about-district-2",
-"https://littleforcongress.com/contact-us",
-"https://littleforcongress.com/endorsements",
-"https://littleforcongress.com/for-media",
-"https://littleforcongress.com/get-involved",
-"https://littleforcongress.com/key-issues",
-"https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine",
-"https://littleforcongress.com/key-issues/fighting-for-affordable-childcare",
-"https://littleforcongress.com/key-issues/fighting-for-anti-corruption-policies",
-"https://littleforcongress.com/key-issues/fighting-for-freedom",
-"https://littleforcongress.com/key-issues/fighting-for-healthcare",
-"https://littleforcongress.com/key-issues/fighting-for-lower-prices-an-economy-that-works-for-everyone",
-"https://littleforcongress.com/key-issues/fighting-for-rural-america",
-"https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods",
-"https://littleforcongress.com/key-issues/fighting-for-social-security",
-"https://littleforcongress.com/key-issues/fighting-for-tax-cuts",
-"https://littleforcongress.com/key-issues/fighting-for-womens-reproductive-rights",
-"https://littleforcongress.com/key-issues/fighting-fot-lgbtqia2s-rights",
-"https://littleforcongress.com/key-issues/fighting-to-get-ice-out-of-minnesota-now",
-"https://littleforcongress.com/key-issues/fighting-to-regulate-ai-and-data-centers",
-"https://littleforcongress.com/key-issues/page/2",
-"https://littleforcongress.com/key-issues/why-im-running-for-congress",
-"https://littleforcongress.com/meet-matt",
-"https://littleforcongress.com/privacy-policy",
-"https://mobilize.us/mattlittleforcongress/event/966273",
-"https://secure.actblue.com/donate/little-website",
-"https://tiktok.com/@littlecongress",
-"https://x.com/LittleCongress"
+{
+"text": "About District 2",
+"href": "https://littleforcongress.com/about-district-2/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/littleforcongress.bsky.social"
+},
+{
+"text": "Contact Us",
+"href": "https://littleforcongress.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/little-website"
+},
+{
+"text": "Endorsements",
+"href": "https://littleforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MattMLittle"
+},
+{
+"text": "Fighting for Affordable Childcare",
+"href": "https://littleforcongress.com/key-issues/fighting-for-affordable-childcare/"
+},
+{
+"text": "Fighting for Anti-Corruption Policies",
+"href": "https://littleforcongress.com/key-issues/fighting-for-anti-corruption-policies/"
+},
+{
+"text": "Fighting for Freedom",
+"href": "https://littleforcongress.com/key-issues/fighting-for-freedom/"
+},
+{
+"text": "Fighting for LGBTQIA2S+ Rights",
+"href": "https://littleforcongress.com/key-issues/fighting-fot-lgbtqia2s-rights/"
+},
+{
+"text": "Fighting for Lower Prices & An Economy that Works for Everyone",
+"href": "https://littleforcongress.com/key-issues/fighting-for-lower-prices-an-economy-that-works-for-everyone/"
+},
+{
+"text": "Fighting for Medicare for All",
+"href": "https://littleforcongress.com/key-issues/fighting-for-healthcare/"
+},
+{
+"text": "Fighting for Rural America",
+"href": "https://littleforcongress.com/key-issues/fighting-for-rural-america/"
+},
+{
+"text": "Fighting for Safe Neighborhoods",
+"href": "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/"
+},
+{
+"text": "Fighting for Social Security",
+"href": "https://littleforcongress.com/key-issues/fighting-for-social-security/"
+},
+{
+"text": "Fighting for Tax Cuts",
+"href": "https://littleforcongress.com/key-issues/fighting-for-tax-cuts/"
+},
+{
+"text": "Fighting for Women’s Reproductive Rights",
+"href": "https://littleforcongress.com/key-issues/fighting-for-womens-reproductive-rights/"
+},
+{
+"text": "Fighting for a Just & Lasting Peace in Israel & Palestine",
+"href": "https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine/"
+},
+{
+"text": "Fighting to Get ICE OUT of Minnesota Now",
+"href": "https://littleforcongress.com/key-issues/fighting-to-get-ice-out-of-minnesota-now/"
+},
+{
+"text": "Fighting to Regulate AI and Data Centers",
+"href": "https://littleforcongress.com/key-issues/fighting-to-regulate-ai-and-data-centers/"
+},
+{
+"text": "For Media",
+"href": "https://littleforcongress.com/for-media/"
+},
+{
+"text": "Get Involved",
+"href": "https://littleforcongress.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mattlittleforcongress"
+},
+{
+"text": "Key Issues",
+"href": "https://littleforcongress.com/key-issues/"
+},
+{
+"text": "Learn moreFighting for Affordable Childcare",
+"href": "https://littleforcongress.com/key-issues/fighting-for-affordable-childcare/"
+},
+{
+"text": "Learn moreFighting for Anti-Corruption Policies",
+"href": "https://littleforcongress.com/key-issues/fighting-for-anti-corruption-policies/"
+},
+{
+"text": "Learn moreFighting for Freedom",
+"href": "https://littleforcongress.com/key-issues/fighting-for-freedom/"
+},
+{
+"text": "Learn moreFighting for LGBTQIA2S+ Rights",
+"href": "https://littleforcongress.com/key-issues/fighting-fot-lgbtqia2s-rights/"
+},
+{
+"text": "Learn moreFighting for Lower Prices & An Economy that Works for Everyone",
+"href": "https://littleforcongress.com/key-issues/fighting-for-lower-prices-an-economy-that-works-for-everyone/"
+},
+{
+"text": "Learn moreFighting for Medicare for All",
+"href": "https://littleforcongress.com/key-issues/fighting-for-healthcare/"
+},
+{
+"text": "Learn moreFighting for Rural America",
+"href": "https://littleforcongress.com/key-issues/fighting-for-rural-america/"
+},
+{
+"text": "Learn moreFighting for Safe Neighborhoods",
+"href": "https://littleforcongress.com/key-issues/fighting-for-safe-neighborhoods/"
+},
+{
+"text": "Learn moreFighting for Social Security",
+"href": "https://littleforcongress.com/key-issues/fighting-for-social-security/"
+},
+{
+"text": "Learn moreFighting for Tax Cuts",
+"href": "https://littleforcongress.com/key-issues/fighting-for-tax-cuts/"
+},
+{
+"text": "Learn moreFighting for Women’s Reproductive Rights",
+"href": "https://littleforcongress.com/key-issues/fighting-for-womens-reproductive-rights/"
+},
+{
+"text": "Learn moreFighting for a Just & Lasting Peace in Israel & Palestine",
+"href": "https://littleforcongress.com/key-issues/fighting-for-a-just-lasting-peace-in-israel-palestine/"
+},
+{
+"text": "Learn moreFighting to Get ICE OUT of Minnesota Now",
+"href": "https://littleforcongress.com/key-issues/fighting-to-get-ice-out-of-minnesota-now/"
+},
+{
+"text": "Learn moreFighting to Regulate AI and Data Centers",
+"href": "https://littleforcongress.com/key-issues/fighting-to-regulate-ai-and-data-centers/"
+},
+{
+"text": "Learn moreWhy I’m Running For Congress",
+"href": "https://littleforcongress.com/key-issues/why-im-running-for-congress/"
+},
+{
+"text": "Meet Matt",
+"href": "https://littleforcongress.com/meet-matt/"
+},
+{
+"text": "Next",
+"href": "https://littleforcongress.com/key-issues/page/2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://littleforcongress.com/privacy-policy/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@littlecongress"
+},
+{
+"text": "Why I’m Running For Congress",
+"href": "https://littleforcongress.com/key-issues/why-im-running-for-congress/"
+},
+{
+"text": "X",
+"href": "https://x.com/LittleCongress"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.mobilize.us/mattlittleforcongress/event/966273/"
+},
+{
+"text": "[image: Matt Little for Congress logo]",
+"href": "https://littleforcongress.com/"
+}
 ]

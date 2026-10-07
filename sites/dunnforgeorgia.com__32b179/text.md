@@ -1,12 +1,9 @@
-Republican Bret Dunn
-Georgia is worth defending
-Join the Team
-Sign up to receive updates, support Bret, and get involved.
-JOIN THE TEAM
+Home About Issues Volunteer DONATE Republican Bret Dunn Georgia is worth defending Join the Team Sign up to receive updates, support Bret, and get involved.
+JOIN THE TEAM Name: Email: Phone: I'd like to: Host Fundraiser Make A Donation Request Yard Sign Become A Volunteer Receive Updates Thank you for contacting us.
 We will get back to you as soon as possible.
+Oops, there was an error sending your message.
 Please try again later.
-Republican Bret Dunn:
-Conservative.
+Republican Bret Dunn: Conservative.
 Business Owner.
 Marine Veteran.
 A proud Marine Corps veteran, Bret served our nation with honor to defend the freedoms that make America great.
@@ -25,15 +22,9 @@ Bret Dunn is ready to bring bold, principled and unapologetic conservative leade
 He will stand tall to fight for our values and deliver real conservative results.
 Duty First.
 Accountability always.
-Defend Parental Rights in Education from Government Overreach
-Stop Forcing Ratepayers to Subsidize Datacenters & Big Corporations
-Back Law Enforcement & Give Them Tools to Do Their Jobs
-Defend the American family and oppose the Woke Agenda
-Protect the Unborn and Call on Fathers to Step Up to Lead and Raise Their Children
-Secure our borders and crack down on illegal immigration in Georgia
-Defend the 2nd Amendment.
+Defend Parental Rights in Education from Government Overreach Stop Forcing Ratepayers to Subsidize Datacenters & Big Corporations Back Law Enforcement & Give Them Tools to Do Their Jobs Defend the American family and oppose the Woke Agenda Protect the Unborn and Call on Fathers to Step Up to Lead and Raise Their Children Secure our borders and crack down on illegal immigration in Georgia Defend the 2nd Amendment.
 An Armed Citizenry is Safest.
 Hold the Powerful Accountable.
 Public Office is About Public Trust.
-Protect Taxpayers from Reckless Government Spending
-"I’m fighting to protect the American values that made our country great and block the radical Left’s agenda from infecting our schools, our government, and our way of life."
+Protect Taxpayers from Reckless Government Spending Chip In Make a donation to Bret's campaign. $# $# $# $# $# OTHER "I’m fighting to protect the American values that made our country great and block the radical Left’s agenda from infecting our schools, our government, and our way of life." Bret Dunn Paid for by Dunn for Georgia 1132 Conyers Street SE, Covington, GA 30014 bret@dunnforgeorgia.com DONATE *By providing your email and phone number you agree to receive digital and text updates from the campaign.
+Privacy Policy Share by:

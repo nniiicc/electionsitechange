@@ -1,3 +1,2 @@
-Conservative Warren County Leader, Fett, announces House District 22 candidacy.
-Conservative Warren County Leader, Fett, announces House District 22 candidacy - The Iowa Standard
-Published on 8 August 2023 at 11:29
+Skip to main content Representative Samantha Fett Representative Samantha Fett Fett for House District 22 Accomplishments Donate Events Fett for House » Accomplishments » Announcement House District 22 candidacy Announcement House District 22 candidacy Published on 8 August 2023 at 11:29 Conservative Warren County Leader, Fett, announces House District 22 candidacy.
+Conservative Warren County Leader, Fett, announces House District 22 candidacy - The Iowa Standard Share Share Share Share Donate Text "fettforhouse" to (888) 444-8774 to support Contact: info@fettforhouse.com Social Media Policy Facebook © # Fett for House Paid for by Fett for Iowa State House

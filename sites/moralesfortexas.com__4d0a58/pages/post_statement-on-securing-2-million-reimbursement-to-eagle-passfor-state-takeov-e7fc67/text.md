@@ -1,5 +1,4 @@
-STATEMENT ON SECURING $2 MILLION REIMBURSEMENT TO EAGLE PASSFOR STATE TAKEOVER OF SHELBY PARK
-Austin, TX - Eagle Pass was the center of one of the most unprecedented humanitarian crises we have seen in our lifetime.
+top of page Menu Close Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS DONATE All Posts Search STATEMENT ON SECURING $2 MILLION REIMBURSEMENT TO EAGLE PASSFOR STATE TAKEOVER OF SHELBY PARK Mason Reid Sep 24, 2025 2 min read Austin, TX - Eagle Pass was the center of one of the most unprecedented humanitarian crises we have seen in our lifetime.
 I was proud to Joint Author Operation Lonestar to ensure our communities had the resources they needed and for the state to stand up when the federal government did not.
 However, one overstep, I believe, was the overnight takeover of Shelby Park in lieu of Eagle Pass' Solar Eclipse Music Festival, leaving the City and our taxpayers on the hook for the $2 million festival after it was forced to change locations.
 Just as the State of Texas deserves a full reimbursement from the federal government for Operation Lone Star and our efforts to secure the border, Eagle Pass deserves a full reimbursement from the state for this takeover.
@@ -9,4 +8,6 @@ That's why I was a strong advocate for Operation Lone Star, called on the federa
 The takeover of Shelby Park, in large part, was political; working as a stage for high-profile politicians from across the state and country to give campaign speeches and take photo-ops, without actually working toward passing comprehensive immigration reform and imperative border security measures.
 This takeover cost our community their centerpiece for recreation, leisure, and events - and ended up costing the City of Eagle Pass $ 2 million dollars in funds for an anticipated solar-eclipse music festival that was set to attract thousands from across the globe.
 I am proud of the work done, and for the support of my colleagues, to secure a $ 2 million reimbursement to the City of Eagle Pass and for our taxpayers in the Texas House budget.
-Now, it's time for the Senate to concur and for Governor Abbott to sign; just as the federal government should reimburse our state for the cost of Operation Lone Star."
+Now, it's time for the Senate to concur and for Governor Abbott to sign; just as the federal government should reimburse our state for the cost of Operation Lone Star." Recent Posts See All SUPPORTING FEDERAL REIMBURSEMENT FOR TEXAS' BORDER SECURITY OPERATIONS SUL ROSS STATE RIO GRANDE COLLEGE EXPANSION TO A FOUR-YEAR COLLEGE PASSED TEXAS HOUSE AND SENATE REPRESENTATIVE MORALES SECURES EXCLUSIVE DISTRICT ATTORNEY OFFICE FOR MAVERICK COUNTY RESIDENTS DONATE Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS PRIVACY POLICY Pol.
+Adv.
+Paid for by the Eddie Morales Campaign TERMS & CONDITIONS bottom of page

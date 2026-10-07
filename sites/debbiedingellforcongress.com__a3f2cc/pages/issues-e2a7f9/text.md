@@ -1,5 +1,4 @@
-AFFORDABILITY
-President Donald Trump promised to lower costs on day one, but the policies ushered in by him and Congressional Republicans have only made the affordability crisis worse.
+Skip to content Debbie Dingell for Congress Working, Listening, and Delivering Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Facebook page opens in new window X page opens in new window DONATE Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Issues AFFORDABILITY President Donald Trump promised to lower costs on day one, but the policies ushered in by him and Congressional Republicans have only made the affordability crisis worse.
 Americans are struggling to afford everyday necessities like groceries, the cost to rent or buy a home continues to skyrocket and put housing out of reach, and families are struggling to heat their homes amid rising utility costs that are only being made worse by the conflict overseas.
 Debbie knows hardworking families are facing a real affordability crisis.
 She is fighting to ensure your taxpayer dollars are being used to lower the high cost of living, fix the broken healthcare system, and clean up corruption.
@@ -12,9 +11,7 @@ When you have been prescribed life-saving drugs, you shouldn’t have to ration 
 That’s why Debbie is a Co-Chair of the Medicare for All Caucus and a House lead of the Medicare for All Act.
 She is fighting to protect pre-existing condition protections gained through the Affordable Care Act, and is working to pass multiple pieces of legislation with colleagues on both sides of the aisle to lower the costs of prescription drugs, speed up access to treatments, and ensure there is a strong healthcare workforce ready to provide the critical services patients rely on in every community.
 As a member of the Subcommittee of Health on the House Committee on Energy and Commerce, Debbie has been one of the strongest advocates in Congress for expanding health care coverage, lowering the sky-high costs of prescription drugs, and making medical research a national priority.
-HEALTHCARE
-ECONOMY
-Under President Trump’s leadership, the United States is losing jobs and unemployment is on the rise, meaning Americans are getting stuck paying higher prices they cannot afford, all while jobs are simultaneously disappearing.
+HEALTHCARE ECONOMY Under President Trump’s leadership, the United States is losing jobs and unemployment is on the rise, meaning Americans are getting stuck paying higher prices they cannot afford, all while jobs are simultaneously disappearing.
 This isn’t right.
 Debbie is fighting to keep good-paying jobs in the United States by supporting our domestic manufacturing industry, including the automotive industry in Southeast Michigan.
 For too long, poor trade deals, outsourcing, and the decline of unionization have hollowed out the industrial base.
@@ -34,9 +31,7 @@ The President promised to remove violent criminals, yet we continue to see that 
 Debbie is fighting to make serious reforms that ensure ICE follows the same rules as other law enforcement agencies, like no masks, mandatory body cameras, and requiring judicial warrants.
 Debbie has also long been a strong advocate for comprehensive immigration reform in Congress.
 She co-sponsored the Keep Families Together Act and the Family Reunification Act.
-IMMIGRATION
-ENVIRONMENT
-Throughout her time in Congress, Debbie has worked tirelessly to protect the environment and fight the damaging effects of climate change.
+IMMIGRATION ENVIRONMENT Throughout her time in Congress, Debbie has worked tirelessly to protect the environment and fight the damaging effects of climate change.
 As the Co-Chair of the Great Lakes Task Force, Debbie has been one of the biggest advocates for the protection of the Great Lakes.
 She has successfully secured funding for the Great Lakes Restoration Initiative, and has also led bipartisan efforts to protect the Great Lakes ecosystem, introducing legislation to combat invasive species that threaten native fish populations and Michigan’s fishing economy.
 As a Co-Chair on the PFAS Task Force, she continues working to protect communities from the threat of these forever chemicals, including through her work fighting to have man-made PFAS chemicals declared as a hazardous substance, removing PFAS from food packaging, and banning them in cosmetics.
@@ -48,9 +43,7 @@ Debbie strongly believes that an investment in education is an investment in our
 She is proud to support our public schools, public universities, and teachers, and she is committed to promoting educational opportunities from Pre-K to higher education and older adults.
 Debbie introduced the Safe Equitable Campus Resources and Education Act to ensure individuals with disabilities are included in campus planning and response to incidents of sexual assault, domestic violence, and stalking.
 She has fought to restore, protect, and expand Title IX protections, and she is a cosponsor of the American Teacher Act, which would help support efforts to increase teacher salaries to a minimum of $60,000 per year.
-EDUCATION
-SENIORS
-Hundreds of thousands of Michiganders rely on Social Security and Medicare.
+EDUCATION SENIORS Hundreds of thousands of Michiganders rely on Social Security and Medicare.
 These men and women worked hard for decades and paid their fair share to support these vital programs.
 Debbis is a co-sponsor of the Social Security 2100 Act, a bill that increases Social Security’s vital benefits while making the system financially strong throughout the 21st century.
 Debbie believes all seniors should be able to live and age with dignity.
@@ -62,11 +55,10 @@ This is our responsibility.
 From the beginning of her time in Congress, Debbie has fought for veterans in the district.
 At the request of Debbie, the VA Inspector General initiated an investigation into the Detroit VA Medical Center amid reports of mismanagement and poor veteran outcomes.
 Based on its findings, Debbie has introduced legislation to improve the quality of care at VA medical facilities by ensuring neutrality in the VA’s peer review process.
-VETERANS
-EQUALITY
-Everyone deserves the same rights and protections under the law regardless of who they are or who they love.
+VETERANS EQUALITY Everyone deserves the same rights and protections under the law regardless of who they are or who they love.
 Discrimination in housing, employment, and other facets of American life is immoral and must be stopped.
 As a proud member of the Congressional Equality Caucus, she fights for equality for all people regardless of sexual orientation or gender identity.
 She is a co-sponsor of the Equality Act, which passed the House last Congress and prohibits discrimination based on sex, sexual orientation, and gender identity in a variety of areas.
 She supports the PRIDE Act of 2025, which requires the use of inclusive language in U.S. tax code.
 Additionally, Debbie was proud to serve as one of the leading advocates to help renew the Violence Against Women Act, which included provisions to help protect transgender people from violence.
+Stand with Debbie CLICK HERE TO JOIN THE TEAM View this profile on Instagram Debbie Dingell (@ debbiedingell ) • Instagram photos and videos Debbie Dingell Tweets by DebDingell $10 $25 $50 $100 DONATE Meet Debbie Issues Endorsements The District Get Involved reach us at info@debbiedingellforcongress.com Paid for by Debbie Dingell for Congress Go to Top Join the Team! ×

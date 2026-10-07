@@ -1,9 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61590360010516",
-"https://instagram.com/jones4nc83",
-"https://jonesfornc83.com/",
-"https://jonesfornc83.com/get-involved",
-"https://jonesfornc83.com/meet-johnnie",
-"https://jonesfornc83.com/platform",
-"https://secure.actblue.com/donate/johnnie-jones"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/johnnie-jones"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jonesfornc83.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jonesfornc83.com"
+},
+{
+"text": "Johnnie Jones for NC 83",
+"href": "https://www.jonesfornc83.com"
+},
+{
+"text": "MEET JOHNNIE",
+"href": "https://www.jonesfornc83.com/meet-johnnie"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.jonesfornc83.com/platform"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jones4nc83/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/johnnie-jones"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61590360010516"
+},
+{
+"text": "[image]",
+"href": "https://www.jonesfornc83.com/get-involved"
+}
 ]

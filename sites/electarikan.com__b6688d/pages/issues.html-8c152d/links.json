@@ -1,14 +1,54 @@
 [
-"https://electarikan.com/",
-"https://electarikan.com/advocate.html",
-"https://electarikan.com/cdn-cgi/l/email-protection",
-"https://electarikan.com/contact.html",
-"https://electarikan.com/donate.html",
-"https://electarikan.com/in-the-news.html",
-"https://electarikan.com/issues.html",
-"https://electarikan.com/newsletter.html",
-"https://facebook.com/Lauren-Arikan-for-Delegate-192624797940584",
-"https://instagram.com/laurenformd",
-"https://twitter.com/laurenformd",
-"https://youtube.com/@DelegateLaurenArikan/featured"
+{
+"text": "Advocacy",
+"href": "https://www.electarikan.com/advocate.html"
+},
+{
+"text": "Contact",
+"href": "https://www.electarikan.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.electarikan.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://www.electarikan.com/"
+},
+{
+"text": "In the News",
+"href": "https://www.electarikan.com/in-the-news.html"
+},
+{
+"text": "Issues",
+"href": "https://www.electarikan.com/issues.html"
+},
+{
+"text": "Newsletter",
+"href": "https://www.electarikan.com/newsletter.html"
+},
+{
+"text": "[image: Arikan for Delegate]",
+"href": "https://www.electarikan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/laurenformd"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Lauren-Arikan-for-Delegate-192624797940584/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/laurenformd"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DelegateLaurenArikan/featured"
+},
+{
+"text": "[no text]",
+"href": "mailto:electarikan@gmail.com"
+}
 ]

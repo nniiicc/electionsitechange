@@ -1,11 +1,6 @@
-| Coverage Guarantee | No denials for medically recommended care | Insurers may deny based on network or policy limits |
-| Public Option | Auto-deployed in underserved counties | No federal public option |
-| Price Transparency | Real-time dashboards for all providers and drugs | Limited transparency requirements |
-| Funding Model | Direct-to-provider payments tied to care delivered | Subsidies routed through insurers |
-| Administrative Overhead | Capped at 10% for insurers | No federal cap |
-| Dental & Vision | Included in all public option plans | Not required under ACA |
-| Mental Health | Parity enforced + zero-cost crisis care | Parity required, but uneven enforcement |
-| Substance Abuse Care | Zero-cost treatment + MAT coverage | Coverage varies by plan and state |
-| Veteran Protections | Fast-track enrollment + guaranteed care | No special provisions |
-| Reproductive Health | Comprehensive coverage with no denials | Coverage varies; subject to state restrictions |
-| Fraud Enforcement | Clawbacks, audits, and public exposure | Limited enforcement mechanisms |
+Floyd 2026 “A name you think you might know… but a leader you’ll never forget.” ❮ Home The Congress App Donate Draft Legislation Public/Press Statements Volunteer Community Scoreboard About Beliefs Issues FAQ Calendar Contact Finance Subscribe to SMS updates ❯ Main Street Health Compact vs.
+Affordable Care Act Feature Main Street Health Compact Affordable Care Act (ACA) Coverage Guarantee No denials for medically recommended care Insurers may deny based on network or policy limits Public Option Auto-deployed in underserved counties No federal public option Price Transparency Real-time dashboards for all providers and drugs Limited transparency requirements Funding Model Direct-to-provider payments tied to care delivered Subsidies routed through insurers Administrative Overhead Capped at 10% for insurers No federal cap Dental & Vision Included in all public option plans Not required under ACA Mental Health Parity enforced + zero-cost crisis care Parity required, but uneven enforcement Substance Abuse Care Zero-cost treatment + MAT coverage Coverage varies by plan and state Veteran Protections Fast-track enrollment + guaranteed care No special provisions Reproductive Health Comprehensive coverage with no denials Coverage varies; subject to state restrictions Fraud Enforcement Clawbacks, audits, and public exposure Limited enforcement mechanisms © # Floyd Taylor for Congress.
+All rights reserved.
+Paid for by Floyd Taylor for Congress.
+Contributions are not tax deductible.
+Privacy Policy and Terms of Service .

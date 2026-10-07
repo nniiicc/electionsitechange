@@ -1,7 +1,12 @@
 {
  "description": "John Deatrich Jr. in the News",
  "final_url": "https://www.deatrichforstaterep.com/news",
- "paid_for_by": null,
+ "fingerprint": "d287e155ce1b6632e6ae9211038713fddc846df2",
+ "format": 3,
+ "paid_for_by": "sponsored by the Schuylkill County Democratic Action Group on Wednesday February 18th at 6pm at Roma Pizza in Pottsville",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2002",
+  "2026"
+ ]
 }

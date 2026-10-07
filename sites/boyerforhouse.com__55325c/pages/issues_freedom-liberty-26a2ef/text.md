@@ -1,4 +1,4 @@
-Rep.
+Home About David Boyer Issues News Get Involved Donate Show your support! $25 $50 $100 $250 Donate Issues Freedom & Liberty Rep.
 Boyer sponsored multiple bills to advance individual rights.
 Having worked on the 2016 campaign to make cannabis legal, he has introduced legislation to further treat cannabis like alcohol.
 LD 1103 removed the prohibition of firearm ownership for medical cannabis patients and consumers.
@@ -13,5 +13,8 @@ LD 832 made important improvements to Maine’s medical cannabis program by allo
 Previously the department was resorting to revoking licenses rather than issuing fines.
 Additionally, OCP initiated compliance stings but would not alert license holders of a compliance violation until the 2nd or 3rd sting operation.
 Business owners deserve timely notification if employees violate the law, within 24 hours of the violation.
-LD 832 was unanimously passed by the Maine House and Senate and was signed into law by the Governor on June 20, 2024
-PAid for David Boyer for state representative
+LD 832 was unanimously passed by the Maine House and Senate and was signed into law by the Governor on June 20, 2024 Join Our Emailing List Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Home About David Boyer Issues News Get Involved Donate PAid for David Boyer for state representative

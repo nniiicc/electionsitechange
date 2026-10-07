@@ -1,7 +1,11 @@
 {
  "description": "Desiree Klaus Community Events",
  "final_url": "https://www.desireeklaustx.com/Events?range=2026-W41",
- "paid_for_by": null,
+ "fingerprint": "9b92c4d68710eea73fcb80746d8c6e3000998236",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Desiree Klaus Community Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

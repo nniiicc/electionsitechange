@@ -1,4 +1,4 @@
-Jason Bias is a husband, a proud father of three, and a committed advocate for faith, family, and freedom.
+Home Meet Jason Endorsements Donate More Home Meet Jason Endorsements Donate Home Meet Jason Endorsements Donate Meet Jason Jason Bias is a husband, a proud father of three, and a committed advocate for faith, family, and freedom.
 A lifelong Coloradan, Jason has always believed in the strength of community and the importance of standing up for our rural values.
 His professional background began in the oil and gas industry.
 Jason worked as a rig hand and in the derricks prior to becoming a tradesman.
@@ -14,5 +14,5 @@ Other than protecting our Constitutional rights, Jason has a deep sense of what 
 This district's economy rests on the shoulders of the ranchers, farmers, and fruit growers.
 Wine, beef, and peaches are more than just products - they are livelihoods that go back generations in Western Colorado.
 Jason will always advocate to promote the Western Slope producers that put food on our table!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Jason Bias for House District 54 - All Rights Reserved.
+Paid for by Jason Bias for House District 54; Registered Agent: Jason Bias

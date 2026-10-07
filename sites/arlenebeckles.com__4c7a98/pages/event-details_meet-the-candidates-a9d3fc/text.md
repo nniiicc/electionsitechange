@@ -1,5 +1,3 @@
-Thu, Apr 30
-Norcross Cultural Arts & Community Cente
-Candidate Crew Event
-Apr 30, 2026, 6:30 PM – 8:30 PM
-Norcross Cultural Arts & Community Cente, 10 College St NW, Norcross, GA 30071, USA
+top of page ABOUT PLATFORM EVENTS OUTREACH ENDORSEMENTS VOLUNTEER VOTING RESOURCES CONTACT DONATE Meet The Candidates Thu, Apr 30 | Norcross Cultural Arts & Community Cente Candidate Crew Event Registration is closed See other events Time & Location Apr 30, 2026, 6:30 PM – 8:30 PM Norcross Cultural Arts & Community Cente, 10 College St NW, Norcross, GA 30071, USA Share this event EMAIL: BecklesDistrict96@gmail.com PHONE: 404-781-9330 Privacy Policy © # by Committee to Elect Dr.
+Arlene Beckles | Re-elect Dr.
+Arlene Beckles | Georgia State House District 96 DONATE ABOUT PLATFORM EVENTS OUTREACH ENDORSEMENTS VOLUNTEER VOTING RESOURCES CONTACT DONATE bottom of page

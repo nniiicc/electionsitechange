@@ -1,17 +1,74 @@
 [
-"https://congressmanhalrogers.com/",
-"https://congressmanhalrogers.com/about",
-"https://congressmanhalrogers.com/contact",
-"https://congressmanhalrogers.com/news",
-"https://congressmanhalrogers.com/news/Hal-Rogers-wins-kentucky-primary-republican-nomination-2026",
-"https://congressmanhalrogers.com/news/files-reelection-2026",
-"https://congressmanhalrogers.com/news/wins-23rd-nomination",
-"https://congressmanhalrogers.com/privacy-policy",
-"https://congressmanhalrogers.com/results",
-"https://facebook.com/",
-"https://facebook.com/HalRogersForCongress",
-"https://gritcreative.co/",
-"https://halrogers.congress.gov/",
-"https://halrogers.house.gov/",
-"https://secure.winred.com/halrogers/donate"
+{
+"text": "Biography",
+"href": "https://www.congressmanhalrogers.com/about"
+},
+{
+"text": "CongressmanHal Rogers",
+"href": "https://www.congressmanhalrogers.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.congressmanhalrogers.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/halrogers/donate"
+},
+{
+"text": "Delivering for EKY",
+"href": "https://www.congressmanhalrogers.com/results"
+},
+{
+"text": "Follow Page",
+"href": "https://www.facebook.com/HalRogersForCongress"
+},
+{
+"text": "Hal Rogers for Congress",
+"href": "https://www.facebook.com/HalRogersForCongress"
+},
+{
+"text": "News & Updates",
+"href": "https://www.congressmanhalrogers.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.congressmanhalrogers.com/privacy-policy"
+},
+{
+"text": "Read More →",
+"href": "https://www.congressmanhalrogers.com/news/Hal-Rogers-wins-kentucky-primary-republican-nomination-2026"
+},
+{
+"text": "Read More →",
+"href": "https://www.congressmanhalrogers.com/news/files-reelection-2026"
+},
+{
+"text": "Read More →",
+"href": "https://www.congressmanhalrogers.com/news/wins-23rd-nomination"
+},
+{
+"text": "[no text]",
+"href": "https://gritcreative.co"
+},
+{
+"text": "[no text]",
+"href": "https://www.congressmanhalrogers.com/"
+},
+{
+"text": "[tooltip: Congress.gov]",
+"href": "https://halrogers.congress.gov"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://facebook.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/HalRogersForCongress"
+},
+{
+"text": "[tooltip: Official Website]",
+"href": "https://halrogers.house.gov/"
+}
 ]

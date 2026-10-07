@@ -1,5 +1,4 @@
-About Mike Mason
-A Lifelong Greenwich Resident.
+Skip to content Home News & Updates Contact Us About Mike Mason / 151 / By Mike About Mike Mason A Lifelong Greenwich Resident.
 A Business Owner.
 A Civic Volunteer.
 A Strong Voice for Greenwich.
@@ -36,23 +35,23 @@ And businesses face taxes and regulations that make it harder to invest, hire, a
 THE COST OF LIVING MATTERS.
 I believe Greenwich deserves a State Representative who will stand up to Hartford—not stand with Hartford.
 A STRONGER VOICE FOR GREENWICH.
-I will fight to:
-- Lower taxes and control state spending rather than continually asking taxpayers for more.
-- Protect property rights and local control from one-size-fits-all mandates coming out of Hartford.
-- Improve the inequitable Education Cost Sharing and School Construction grants to Greenwich.
-- Reduce unnecessary regulations that make it harder to build, invest, hire, and grow.
-- Protect Connecticut’s budget guardrails and demand fiscal discipline.
-- Support law enforcement and safer communities while holding criminals accountable.
-- Keep seniors and young people in Connecticut by making housing and the cost of living more manageable.
+I will fight to: Lower taxes and control state spending rather than continually asking taxpayers for more.
+Protect property rights and local control from one-size-fits-all mandates coming out of Hartford.
+Improve the inequitable Education Cost Sharing and School Construction grants to Greenwich.
+Reduce unnecessary regulations that make it harder to build, invest, hire, and grow.
+Protect Connecticut’s budget guardrails and demand fiscal discipline.
+Support law enforcement and safer communities while holding criminals accountable.
+Keep seniors and young people in Connecticut by making housing and the cost of living more manageable.
 LOWER TAXES.
 LOCAL CONTROL.
 FISCAL DISCIPLINE.
 I’m not a career politician.
-I’m a lifelong Greenwich resident, businessman, and community leader who understands that the government is spending your money.
+I’m a lifelong Greenwich resident, businessman, and community leader who understands that the government is spending your money .
 YOUR MONEY DESERVES ACCOUNTABILITY.
 I’m running to put Greenwich taxpayers, families, businesses, and property owners first—and to have the courage to say no when Hartford gets it wrong.
 GREENWICH FIRST.
 FISCALLY RESPONSIBLE.
 ACCOUNTABLE.
 I’m ready to bring common sense, fiscal responsibility, and a strong Greenwich voice to Hartford.
-Mike
+Mike ← Previous Post Next Post → Home News & Updates Contact Us Home News & Updates Contact Us Paid for by Elect Michael Mason 2026 Nicole Wittenberg, Treasurer.
+Approved by Michael Mason

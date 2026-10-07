@@ -1,15 +1,1 @@
-Back to All Events
-Meet the Candidates - an Evening of Conversation
-Andy Beck, Running for WI 5th District Congressional Candidate
-Joan Fitzgerald (Incumbent), WI 46th Assembly District
-With SPECIAL GUEST: Sarah Godlewski, Running for Lieutenant Governor, State of WI
-Korth Park Pavilion
-W8390 Korth Lane, Lake Mills, WI 53551
-5:30 pm to 7:30 pm
-Previous
-Previous
-September 12
-Waukesha Pride
-Next
-Next
-September 17
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Meet the Candidates - Lake Mills Tuesday, September 15, 2026 5:30 PM 7:30 PM Korth Park W8390 Korth Lane Lake Mills, Wisconsin, 53551 United States (map) Google Calendar ICS Meet the Candidates - an Evening of Conversation Andy Beck, Running for WI 5th District Congressional Candidate Joan Fitzgerald (Incumbent) , WI 46th Assembly District With SPECIAL GUEST: Sarah Godlewski, Running for Lieutenant Governor, State of WI Korth Park Pavilion W8390 Korth Lane, Lake Mills, WI 53551 5:30 pm to 7:30 pm Previous Previous September 12 Waukesha Pride Next Next September 17 Waukesha County Dems Meeting DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

@@ -1,54 +1,9 @@
-Endorsements
-Law Enforcement/Public Safety
-- Mike Clark — Benton County Sheriff
-- Eric Eisinger — Benton County Prosecutor
-- Bill Leach — Benton County Coroner
-- Scott Child — Ret.
-Commander, Kennewick Police Department
-Local Officials
-- Will McKay — Benton County Commissioner
-- Clint Didier — Franklin County Commissioner
-- Ken Spencer — Benton County Treasurer
-- Bill Spencer — Benton County Assessor
-- Jason McShane — (Mayor) Kennewick City Council
-- Loren Anderson — Kennewick City Council
-- Brad Beauchump — Kennewick City Council
-- Joe Cotta — Pasco City Council
-- Leo Perales — Pasco City Council
-- Ken Stoker — West Richland City Council
-- David Cole — West Richland City Council
-- Gerry Hill — Benton City Council
-- Victor Lombardi — Moses Lake City Council
-Education Leaders
-- Brittany Gledhill — Kennewick School Board
-- Micah Valentine — Kennewick School Board
-- Dr.
-Josh Miller — Kennewick School Board
-- Dr.
-Steve Norberg — Pasco School Board
-- Jason Rainer — Prosser School Board
-- Brian Weinmann — Prosser School Board
-- Dr.
-Traci Pierce — Former Kennewick School District Superintendent
-- Numerous School Directors across Washington State
-Community/Business Leaders
-- Rick Dunn — General Manager, Benton PUD
-- Issac Butts — Founder, Culture Boost
-- Saber Kingham — Sterlings Restaurant
-- Bill & Barbara Bridges — B&T Plumbing and Mechanical
-Organizations
-- Benton County Republican Party (BCRP)
-- Washington Patriot PAC
-- Latinos United for Conservative Action (LUCA)
-- Ladies of Liberty Tri-Cities
-- Republican Liberty Caucus Benton & Franklin County
-- Stand for Health Freedom
-- Parents Rights in Education (Supported by, cant officially endorse candidates)
-Paid for by Gabe Galbraith for State Senate, 6855 W.
-Clearwater Ave, STE 100, PMB #251, Kennewick, WA 99336
-Contact
-- 509 619 3183
-- gabeforwa@gmail.com
-- 6855 W.
-Clearwater Ave, STE 101, PMB #251, Kennewick, WA 99336
-© Copyright 2026
+Skip to content Home Issues Endorsements Accomplishments About Contact Donate Home Issues Endorsements Accomplishments About Contact Donate Facebook Endorsements I am proud to have the support of respected leaders from across the Tri-Cities and Washington state.
+From law enforcement and local elected officials to educators and community leaders, these endorsements reflect a shared commitment to strong communities, responsible government, and a better future for the 8th District.
+Law Enforcement/Public Safety Mike Clark — Benton County Sheriff Eric Eisinger — Benton County Prosecutor Bill Leach — Benton County Coroner Scott Child — Ret.
+Commander, Kennewick Police Department Local Officials Will McKay — Benton County Commissioner Clint Didier — Franklin County Commissioner Ken Spencer — Benton County Treasurer Bill Spencer — Benton County Assessor Jason McShane — (Mayor) Kennewick City Council Loren Anderson — Kennewick City Council Brad Beauchump — Kennewick City Council Joe Cotta — Pasco City Council Leo Perales — Pasco City Council Ken Stoker — West Richland City Council David Cole — West Richland City Council Gerry Hill — Benton City Council Victor Lombardi — Moses Lake City Council Education Leaders Brittany Gledhill — Kennewick School Board Micah Valentine — Kennewick School Board Dr.
+Josh Miller — Kennewick School Board Dr.
+Steve Norberg — Pasco School Board Jason Rainer — Prosser School Board Brian Weinmann — Prosser School Board Dr.
+Traci Pierce — Former Kennewick School District Superintendent Numerous School Directors across Washington State Community/Business Leaders Rick Dunn — General Manager, Benton PUD Issac Butts — Founder, Culture Boost Saber Kingham — Sterlings Restaurant Bill & Barbara Bridges — B&T Plumbing and Mechanical Organizations Benton County Republican Party (BCRP) Washington Patriot PAC Latinos United for Conservative Action (LUCA) Ladies of Liberty Tri-Cities Republican Liberty Caucus Benton & Franklin County Stand for Health Freedom Parents Rights in Education (Supported by, cant officially endorse candidates) Paid for by Gabe Galbraith for State Senate, 6855 W.
+Clearwater Ave, STE 100, PMB #251, Kennewick, WA 99336 Facebook Contact 509 619 3183 gabeforwa@gmail.com 6855 W.
+Clearwater Ave, STE 101, PMB #251, Kennewick, WA 99336 © Copyright #

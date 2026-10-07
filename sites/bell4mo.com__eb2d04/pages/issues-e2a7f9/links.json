@@ -1,16 +1,70 @@
 [
-"https://bell4mo.com/",
-"https://bell4mo.com/about",
-"https://bell4mo.com/endorsements",
-"https://bell4mo.com/issues",
-"https://bell4mo.com/privacy",
-"https://bell4mo.com/race-update",
-"https://bell4mo.com/terms",
-"https://bell4mo.com/volunteer",
-"https://bell4mo.com/vote",
-"https://facebook.com/bell4mo",
-"https://instagram.com/bell4mo",
-"https://mobilize.us/bell4mo",
-"https://secure.actblue.com/donate/bell-for-missouri-2",
-"https://twitter.com/bell4mo"
+{
+"text": "Chip In TodayDonate",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bell-for-missouri-2"
+},
+{
+"text": "[image: Wesley Bell for Congress logo]",
+"href": "https://www.bell4mo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bell4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bell4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bell4mo/"
+},
+{
+"text": "about",
+"href": "https://www.bell4mo.com/about"
+},
+{
+"text": "endorsements",
+"href": "https://www.bell4mo.com/endorsements"
+},
+{
+"text": "events",
+"href": "https://www.mobilize.us/bell4mo/"
+},
+{
+"text": "home",
+"href": "https://www.bell4mo.com/"
+},
+{
+"text": "info@bell4mo.com",
+"href": "mailto:info@bell4mo.com"
+},
+{
+"text": "issues",
+"href": "https://www.bell4mo.com/issues"
+},
+{
+"text": "privacy policy",
+"href": "https://www.bell4mo.com/privacy"
+},
+{
+"text": "race update",
+"href": "https://www.bell4mo.com/race-update"
+},
+{
+"text": "terms",
+"href": "https://www.bell4mo.com/terms"
+},
+{
+"text": "volunteer",
+"href": "https://www.bell4mo.com/volunteer"
+},
+{
+"text": "vote",
+"href": "https://www.bell4mo.com/vote"
+}
 ]

@@ -1,30 +1,146 @@
 [
-"https://act.suzannapavelle.com/contact-us",
-"https://act.suzannapavelle.com/events",
-"https://act.suzannapavelle.com/volunteer",
-"https://bsky.app/profile/suzannapavelle.bsky.social",
-"https://dailykos.com/stories/2026/8/26/800088371/community/run-everywhere-a-fed-up-business-owner-fights-back-by-running",
-"https://facebook.com/suzannapavellefl19",
-"https://secure.actblue.com/donate/suzanna-pavelle",
-"https://suzannapavelle.com/",
-"https://suzannapavelle.com/florida-democratic-agricultural-caucus-endorses-suzanna-pavelle-for-florida-house-district-19",
-"https://suzannapavelle.com/issue/affordability",
-"https://suzannapavelle.com/issue/public-education",
-"https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage",
-"https://suzannapavelle.com/issues",
-"https://suzannapavelle.com/meet-suzanna",
-"https://suzannapavelle.com/news",
-"https://suzannapavelle.com/news/decf-endorsement-2026",
-"https://suzannapavelle.com/news/fdac-endorsement-2026",
-"https://suzannapavelle.com/news/jax-now-pac-endorsement-2026",
-"https://suzannapavelle.com/news/mental-health-now-candidate-2026",
-"https://suzannapavelle.com/news/moms-demand-action-gun-sense-candidate-distinction-2026",
-"https://suzannapavelle.com/news/news-oath-of-office-endorsement-2026",
-"https://suzannapavelle.com/news/oath-of-office-endorsement-2026",
-"https://suzannapavelle.com/news/patients-over-profits-pledge-2026",
-"https://suzannapavelle.com/news/sierra-club-endorsement-2026",
-"https://suzannapavelle.com/news/voyage-jacksonville-profile-2026",
-"https://suzannapavelle.com/priorities",
-"https://threads.com/@suzannapavellefl19?hl=en",
-"https://x.com/SPavelleForFL"
+{
+"text": "Affordability",
+"href": "https://suzannapavelle.com/issue/affordability/"
+},
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/suzannapavelle.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://act.suzannapavelle.com/contact-us"
+},
+{
+"text": "Daily Kos: Run Everywhere — A Fed-Up Business Owner Fights Back by Running",
+"href": "https://www.dailykos.com/stories/2026/8/26/800088371/community/run-everywhere-a-fed-up-business-owner-fights-back-by-running/"
+},
+{
+"text": "Democratic Environmental Caucus of Florida endorses Suzanna Pavelle for Florida House District 19",
+"href": "https://suzannapavelle.com/news/decf-endorsement-2026/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/suzanna-pavelle"
+},
+{
+"text": "Events",
+"href": "https://act.suzannapavelle.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/suzannapavellefl19"
+},
+{
+"text": "Florida Democratic Agricultural Caucus endorses Suzanna Pavelle for Florida House District 19",
+"href": "https://suzannapavelle.com/news/fdac-endorsement-2026/"
+},
+{
+"text": "Issues",
+"href": "https://suzannapavelle.com/issues/"
+},
+{
+"text": "Jax NOW PAC endorses Suzanna Pavelle for Florida House District 19",
+"href": "https://suzannapavelle.com/news/jax-now-pac-endorsement-2026/"
+},
+{
+"text": "Meet Suzanna",
+"href": "https://suzannapavelle.com/meet-suzanna/"
+},
+{
+"text": "News",
+"href": "https://suzannapavelle.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://suzannapavelle.com/priorities/"
+},
+{
+"text": "Public Education",
+"href": "https://suzannapavelle.com/issue/public-education/"
+},
+{
+"text": "Read the Daily Kos article",
+"href": "https://www.dailykos.com/stories/2026/8/26/800088371/community/run-everywhere-a-fed-up-business-owner-fights-back-by-running/"
+},
+{
+"text": "Read the endorsement",
+"href": "https://suzannapavelle.com/florida-democratic-agricultural-caucus-endorses-suzanna-pavelle-for-florida-house-district-19/"
+},
+{
+"text": "Read the endorsement",
+"href": "https://suzannapavelle.com/news/decf-endorsement-2026/"
+},
+{
+"text": "Read the endorsement",
+"href": "https://suzannapavelle.com/news/jax-now-pac-endorsement-2026/"
+},
+{
+"text": "Read the endorsement",
+"href": "https://suzannapavelle.com/news/news-oath-of-office-endorsement-2026/"
+},
+{
+"text": "Read the endorsement",
+"href": "https://suzannapavelle.com/news/sierra-club-endorsement-2026/"
+},
+{
+"text": "Read the profile",
+"href": "https://suzannapavelle.com/news/voyage-jacksonville-profile-2026/"
+},
+{
+"text": "Read the update",
+"href": "https://suzannapavelle.com/news/mental-health-now-candidate-2026/"
+},
+{
+"text": "Read the update",
+"href": "https://suzannapavelle.com/news/moms-demand-action-gun-sense-candidate-distinction-2026/"
+},
+{
+"text": "Read the update",
+"href": "https://suzannapavelle.com/news/patients-over-profits-pledge-2026/"
+},
+{
+"text": "Sierra Club endorses Suzanna Pavelle for Florida House District 19",
+"href": "https://suzannapavelle.com/news/sierra-club-endorsement-2026/"
+},
+{
+"text": "Smart Growth",
+"href": "https://suzannapavelle.com/issue/smart-growth-water-and-natural-heritage/"
+},
+{
+"text": "Suzanna Pavelle designated a 2026 Mental Health Now Candidate",
+"href": "https://suzannapavelle.com/news/mental-health-now-candidate-2026/"
+},
+{
+"text": "Suzanna Pavelle for Florida House 19",
+"href": "https://suzannapavelle.com"
+},
+{
+"text": "Suzanna Pavelle receives 2026 Moms Demand Action Gun Sense Candidate distinction",
+"href": "https://suzannapavelle.com/news/moms-demand-action-gun-sense-candidate-distinction-2026/"
+},
+{
+"text": "Suzanna Pavelle signs the Patients over Profits pledge",
+"href": "https://suzannapavelle.com/news/patients-over-profits-pledge-2026/"
+},
+{
+"text": "The Oath Of Office endorses Suzanna Pavelle for Florida House District 19",
+"href": "https://suzannapavelle.com/news/oath-of-office-endorsement-2026/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@suzannapavellefl19?hl=en"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/SPavelleForFL"
+},
+{
+"text": "Volunteer",
+"href": "https://act.suzannapavelle.com/volunteer"
+},
+{
+"text": "Voyage Jacksonville profiles Suzanna Pavelle",
+"href": "https://suzannapavelle.com/news/voyage-jacksonville-profile-2026/"
+}
 ]

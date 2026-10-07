@@ -1,10 +1,4 @@
-top of page
-EVENTS
-JOIN US FOR THE NEXT GATHERING
-Upcoming Events
-- Paws on the Patio (Meddlesome Brewery)Sat, Oct 10Meddlesome Brewing Company
-- Canvass for 83Date and time is TBDLocation is TBD
-- Texting for MP for TN House (Virtual)Date and time is TBDVirtual; Google Meet
-- Make Your Own SignDate and time is TBDMunicipal Park
-- Parlor Series (Meddlesome Brewery)Date and time is TBDMeddlesome Brewing Company
-bottom of page
+top of page ABOUT PLATFORM ENDORSEMENTS EVENTS More Use tab to navigate through the menu items.
+SUPPORT EVENTS JOIN US FOR THE NEXT GATHERING Upcoming Events Paws on the Patio (Meddlesome Brewery) Sat, Oct 10 Meddlesome Brewing Company More info RSVP Canvass for 83 Date and time is TBD Location is TBD More info RSVP Texting for MP for TN House (Virtual) Date and time is TBD Virtual; Google Meet More info Details Make Your Own Sign Date and time is TBD Municipal Park More info RSVP Parlor Series (Meddlesome Brewery) Date and time is TBD Meddlesome Brewing Company More info RSVP ABOUT PLATFORM ENDORSEMENTS EVENTS More Use tab to navigate through the menu items.
+Paid for by Margaret Price for TN House | Christine Lamey, Treasurer © # If you would like to contribute, checks should be made payable to Margaret Price for TN House & mailed to Margaret Price for TN House; contact the campaign at info@votepricetnhouse.com for more mailing details.
+The maximum donation is $# per individual, $# per couple, $# per PAC. bottom of page

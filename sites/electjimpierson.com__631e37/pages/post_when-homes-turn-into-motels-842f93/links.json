@@ -1,23 +1,106 @@
 [
-"https://app.leg.wa.gov/BillSummary?BillNumber=2559&Initiative=false&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=5576&Initiative=False&Year=2025",
-"https://electjimpierson.com/",
-"https://electjimpierson.com/about",
-"https://electjimpierson.com/blog",
-"https://electjimpierson.com/calendar",
-"https://electjimpierson.com/endorsements",
-"https://electjimpierson.com/feedback",
-"https://electjimpierson.com/newsletters",
-"https://electjimpierson.com/platform",
-"https://electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief",
-"https://electjimpierson.com/post/private-interests-public-office",
-"https://electjimpierson.com/post/raid-on-the-police-and-fire-pensions",
-"https://electjimpierson.com/volunteer",
-"https://legiscan.com/WA/bill/HB2559/2025",
-"https://legiscan.com/WA/bill/SB5576/2025",
-"https://reddit.com/r/Apartmentliving/comments/1r0mawi/what_impact_do_shortterm_rentals_have_on_local",
-"https://reddit.com/r/Kitsap/comments/1r0m2cf/when_homes_turn_into_motels_it_becomes_harder_to",
-"https://reddit.com/r/olympia/comments/1r0lzgt/when_homes_turn_into_motels_it_becomes_harder_to",
-"https://reddit.com/r/shelton/comments/1r0miab/call_for_comments_when_homes_turn_into_motels_it",
-"https://secure.actblue.com/donate/jim-pierson-1"
+{
+"text": "About",
+"href": "https://www.electjimpierson.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Apartmentliving",
+"href": "https://www.reddit.com/r/Apartmentliving/comments/1r0mawi/what_impact_do_shortterm_rentals_have_on_local/"
+},
+{
+"text": "Blog",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Calendar",
+"href": "https://www.electjimpierson.com/calendar"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jim-pierson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electjimpierson.com/endorsements"
+},
+{
+"text": "HB2559",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=2559&Initiative=false&Year=2025"
+},
+{
+"text": "Home",
+"href": "https://www.electjimpierson.com"
+},
+{
+"text": "Kitsap",
+"href": "https://www.reddit.com/r/Kitsap/comments/1r0m2cf/when_homes_turn_into_motels_it_becomes_harder_to/"
+},
+{
+"text": "More Seniors Qualify for Property Tax Relief.",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "Newsletters",
+"href": "https://www.electjimpierson.com/newsletters"
+},
+{
+"text": "Olympia",
+"href": "https://www.reddit.com/r/olympia/comments/1r0lzgt/when_homes_turn_into_motels_it_becomes_harder_to/"
+},
+{
+"text": "Platform",
+"href": "https://www.electjimpierson.com/platform"
+},
+{
+"text": "Private Interests, Public Office",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "Raid on the Police and Fire Pensions?",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+},
+{
+"text": "SB5576",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=5576&Initiative=False&Year=2025"
+},
+{
+"text": "See All",
+"href": "https://www.electjimpierson.com/blog"
+},
+{
+"text": "Shelton",
+"href": "https://www.reddit.com/r/shelton/comments/1r0miab/call_for_comments_when_homes_turn_into_motels_it/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electjimpierson.com/volunteer"
+},
+{
+"text": "Voter Feedback",
+"href": "https://www.electjimpierson.com/feedback"
+},
+{
+"text": "[image: More Seniors Qualify for Property Tax Relief.]",
+"href": "https://www.electjimpierson.com/post/more-seniors-qualify-for-property-tax-relief"
+},
+{
+"text": "[image: Private Interests, Public Office]",
+"href": "https://www.electjimpierson.com/post/private-interests-public-office"
+},
+{
+"text": "[image: Raid on the Police and Fire Pensions?]",
+"href": "https://www.electjimpierson.com/post/raid-on-the-police-and-fire-pensions"
+},
+{
+"text": "https://legiscan.com/WA/bill/HB2559/2025",
+"href": "https://legiscan.com/WA/bill/HB2559/2025"
+},
+{
+"text": "https://legiscan.com/WA/bill/SB5576/2025",
+"href": "https://legiscan.com/WA/bill/SB5576/2025"
+}
 ]

@@ -1,4 +1,4 @@
-| Restraining the size of state government requires restricting its access to revenue.
+UT 74 VOTE ABOUT Posts Experience Contact Tax Policy and Restraining the Size of State Government 2/22/2023 Restraining the size of state government requires restricting its access to revenue.
 Governments tend to consume whatever revenue is in front of them.
 The best way to keep state government from growing faster than a state economy is to constrain access to revenue.
 Many states are effectively controlling the cost of government operations.
@@ -30,7 +30,7 @@ Summary It is very difficult to constrain spending in government.
 The most effective constraints on spending are those that limit resources.
 The constitutional earmark limited the growth of the largest, fastest growing portion of government.
 If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state.
-Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
+Political Semantics 9/7/2022 Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
 Over long periods of time, the meaning of words change.
 The context for their use may change, the way they are used may change, and their frequency may change.
 "Square" in the 1950s was used differently and more frequently that it is today.
@@ -67,7 +67,7 @@ If we choose to change their meaning, what words do we use to say what we used t
 The solution to economic prosperity is straightforward.
 Fiscal responsibility, sound money, and stable regulatory policy.
 The solution to our identity is not to rewrite history, whitewash it, or redefine it, it is to learn from it and be better today because of it.
-United States of America is still the most powerful economic influence in the world.
+Inflation and Geopolitics 3/5/2022 United States of America is still the most powerful economic influence in the world.
 If we choose to "drill baby drill", over the long run we will simultaneously erode Russia's financial ability to wage war on Ukraine and others by driving global energy prices down and slow inflation.
 This would begin the liberation of Eastern Europe from Russian influence through economic policy.
 As natural gas supplies increase, we can re-route liquefied natural gas exports from China to Europe.
@@ -89,7 +89,7 @@ A United States Government that is not dependent on its allies or aggressors for
 On defense, we should be the most respected nation in the world both because of our capability and our restraint.
 If we can’t lead from the White House, we should lead from the respective states.
 Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people.
-Real estate markets in 2021 showed historic gains as prices soared on low inventory.
+2022 Real estate forecast 2/1/2022 Real estate markets in 2021 showed historic gains as prices soared on low inventory.
 Looking ahead, these six drivers will impact housing markets in 2022.
 Population Shifts The trend toward the south and the intermountain west accelerated as employers became more flexible with work-from-home options and higher-ed has expanded online learning.
 Migration that favored large urban centers with high concentrations of employment and education is now leaning toward recreation, tourism, and open space.
@@ -114,7 +114,7 @@ In 2022, wages, home values, and materials are all expected to rise.
 It is a challenging time for housing affordability.
 Conclusion While we won’t solve the affordability problem in 2022, we do know that over a lifetime, owning beats renting consistently.
 Long-term housing stability and closing the wealth gap in the United States both point to home ownership.
-For more information please visit https://erabrokers.com/research/ The last twelve months have seen sentiment in residential housing markets change dramatically.
+For more information please visit https://erabrokers.com/research/ 2021 Mid-year real estate update 8/1/2021 The last twelve months have seen sentiment in residential housing markets change dramatically.
 The result is one of the most dynamic and challenging housing markets in memory.
 Following is a brief overview of market conditions over the past twelve months and a look at what to expect in the second half of 2021.
 Summer 2020 The summer of 2020 ended the first wave of COVID-19 cases and with it came a sense that the pandemic might be easing.
@@ -153,7 +153,7 @@ Supply constraints will continue to disrupt builders, but not at the same level 
 Rental demand will remain high and rental units will remain under supplied, causing rents to continue to rise in most markets.
 Price levels are at risk if interest rates rise, remote employees are called back to the office, or builders get ahead of market demand.
 Given the current conditions, we expect prices to rise in the second half of 2021, although more slowly than in the first half of the year.
-For more information visit https://erabrokers.com/research/ One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+For more information visit https://erabrokers.com/research/ Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -229,7 +229,12 @@ Homeowners, suburban and rural communities, and essential services are winners t
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
 Asset prices are rising and will do so until the policy induced stimulus runs out.
-Reduce Your Tax Liability, Buy Commercial Real Estate If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
+Reduce Your Tax Liability, Buy Real Estate 4/2/2020 Reduce Your Tax Liability, Buy Commercial Real Estate The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
+This provision benefits those who need depreciation tax benefits today more than in the future.
+Benefits could be up to 10 times larger in year 1.
+You may be able to offset taxable income for prior years.
+Consult your tax professional to determine what is appropriate for to your situation.
+If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
 You can either pay the IRS, or do something they have incentivized you to do that allows you to keep your hard earned income.
 It is not unusual for the tax code to use taxes to incentivize certain types of investment.
 For example, if you make financial contributions to a qualified retirement accounts, those contributions are deductible and reduce your overall taxable income, which reduces the amount of taxes owed in the year you make the investment.
@@ -244,7 +249,8 @@ Instead of being depreciated over 39.5 years, a cost segregation study separates
 For example, 15 year improvements are those improvements that have to be replaced in approximately 15 years because their useful life has been exceeded.
 This may include tenant improvements, the roof, or the HVAC system.
 Segregating improvements into their respective 5, 15, and 39.5 year useful lives provides larger deductions in earlier years relative to a standard 39.5 year depreciation schedule.
-Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable. 2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
+Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable.
+2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
 It allows for 5 and 15 year property designated in a cost segregation study to be fully depreciated in the year the property is put in service.
 That means that if you purchase and put in use a property in 2020 and the property has $500,000 in 5 and 15 year improvements, then the owner could deduct up to $500,000 in depreciation in 2020.
 Also significantly, the tax law in certain cases authorizes you to use the depreciation benefits to offset prior year income.
@@ -267,20 +273,21 @@ Benefits to owning real estate include the ability to depreciate the consumable 
 The depreciation benefits are set by the IRS and were revised in the 2017 Tax Cuts and Jobs Act.
 The revision resulted in the ability to accelerate depreciation and reduce taxable income today.
 This can be a valuable benefit for investors looking to offset taxable income from real estate investments.
-The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
-This provision benefits those who need depreciation tax benefits today more than in the future.
-Benefits could be up to 10 times larger in year 1.
-You may be able to offset taxable income for prior years.
-Consult your tax professional to determine what is appropriate for to your situation.
-The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
-It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry). 1) The bill that is being considered is enormous and highly inefficient.
-It will get passed anyway. 2) We should not subsidize state and local governments.
+United states Recovery Bill, Try this...
+3/24/2020 The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
+It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry).
+1) The bill that is being considered is enormous and highly inefficient.
+It will get passed anyway.
+2) We should not subsidize state and local governments.
 They made the decision to go into recession, their revenues are protected (utilities, property taxes, income taxes).
-Sales tax has exposure, but it has always been more volatile than income and property taxes. 3) We should not subsidize businesses or industries.
+Sales tax has exposure, but it has always been more volatile than income and property taxes.
+3) We should not subsidize businesses or industries.
 Their assets will be bought and the human capital will not be destroyed.
-Let the situation play out with investors and creditors. 4) We should not try and solve the situation through unemployment insurance.
+Let the situation play out with investors and creditors.
+4) We should not try and solve the situation through unemployment insurance.
 It is too bureaucratic.
-The money will not get distributed when it is needed, and then too much will get distributed when it is not needed. 5) There are approximately 130 million households in the United States.
+The money will not get distributed when it is needed, and then too much will get distributed when it is not needed.
+5) There are approximately 130 million households in the United States.
 Congress will approve an astounding $2 trillion dollar package.
 That is $15,000 per household.
 Why not send every household $15,000?
@@ -292,7 +299,7 @@ The payments will allow everyone to either get through the next couple of months
 Those who don’t end up needing it can return it on the next tax return.
 The rest of the country will be set to deal with the recession the government created.
 This solution can be executed fast, it is easy to implement, and easy to administer.
-We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
+Not like the last recession 3/19/2020 Graphics published by the Wall Street Journal Daily Shot 2019 03 18 We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
 It hasn't been confirmed by official statistics, that will take time.
 A recession is defined as two consecutive quarters of falling Gross Domestic Product (GDP).
 The first quarter of 2020 will show a small drop in GDP because of COVID-19 personal distancing measures and impacts to nonessential business implemented by governments in March.
@@ -342,4 +349,4 @@ Secure credit when times are good.
 Third, change is inevitable.
 We can't always predict the source of change, but we can adapt and be responsive to change.
 Our world changed in the matter of a few months.
-The more quickly we make adjustments, the quicker we will begin the process of recovering. | |
+The more quickly we make adjustments, the quicker we will begin the process of recovering. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

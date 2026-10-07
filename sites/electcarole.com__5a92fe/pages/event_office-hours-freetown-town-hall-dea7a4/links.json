@@ -1,25 +1,102 @@
 [
-"http://fallrivermarketing.com/",
-"https://electcarole.com/",
-"https://electcarole.com/2026/04/06/4-6-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/08/31/8-31-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/09/15/9-15-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/09/28/9-28-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/10/05/10-5-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/category/hot-jobs",
-"https://electcarole.com/category/press-release",
-"https://electcarole.com/contact",
-"https://electcarole.com/event/coffee-and-conversation-6",
-"https://electcarole.com/event/office-hours-freetown-town-hall?ical=1",
-"https://electcarole.com/event/walk-and-talk",
-"https://electcarole.com/events",
-"https://electcarole.com/join",
-"https://electcarole.com/meet-carole-fiola",
-"https://electcarole.com/news",
-"https://electcarole.com/news/housing-navigation",
-"https://electcarole.com/news/southcoast-rail-update",
-"https://electcarole.com/photos",
-"https://electcarole.com/tag/office-hours",
-"https://google.com/calendar/event?action=TEMPLATE&text=Office+Hours+-+Freetown+Town+Hall&dates=20261015T113000%2F20261015T123000&details=+%0A%0A%0A%09Related%0A&location=Freetown+Town+Hall%2C+3+Main+Street%2C+Assonet%2C+02702%2C+United+States&trp=false&sprop=website%3Ahttps%3A%2F%2Felectcarole.com&ctz=UTC",
-"https://maps.google.com/maps?f=q&hl=en&q=3+Main+Street+Assonet+02702+United+States"
+{
+"text": "+ Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=Office+Hours+-+Freetown+Town+Hall&dates=20261015T113000%2F20261015T123000&details=+%0A%0A%0A%09Related%0A&location=Freetown+Town+Hall%2C+3+Main+Street%2C+Assonet%2C+02702%2C+United+States&trp=false&sprop=website%3Ahttps%3A%2F%2Felectcarole.com&ctz=UTC"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=3+Main+Street+Assonet+02702+United+States"
+},
+{
+"text": "+ iCal Export",
+"href": "https://electcarole.com/event/office-hours-freetown-town-hall/?ical=1"
+},
+{
+"text": "10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/10/05/10-5-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/04/06/4-6-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/08/31/8-31-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/09/15/9-15-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/09/28/9-28-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "Coffee and Conversation »",
+"href": "https://electcarole.com/event/coffee-and-conversation-6/"
+},
+{
+"text": "Contact",
+"href": "https://electcarole.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://electcarole.com/events/"
+},
+{
+"text": "Fall River Housing Navigation Guide",
+"href": "https://electcarole.com/news/housing-navigation/"
+},
+{
+"text": "Fall River Marketing",
+"href": "http://fallrivermarketing.com"
+},
+{
+"text": "Home",
+"href": "https://electcarole.com/"
+},
+{
+"text": "Hot Jobs",
+"href": "https://electcarole.com/category/hot-jobs/"
+},
+{
+"text": "Keeping Up With Carole",
+"href": "https://electcarole.com/join/"
+},
+{
+"text": "Meet Carole",
+"href": "https://electcarole.com/meet-carole-fiola/"
+},
+{
+"text": "News",
+"href": "https://electcarole.com/news/"
+},
+{
+"text": "Office Hours",
+"href": "https://electcarole.com/tag/office-hours/"
+},
+{
+"text": "Photos",
+"href": "https://electcarole.com/photos/"
+},
+{
+"text": "Press Release",
+"href": "https://electcarole.com/category/press-release/"
+},
+{
+"text": "Southcoast Rail Update",
+"href": "https://electcarole.com/news/southcoast-rail-update/"
+},
+{
+"text": "[image: Carole Fiola]",
+"href": "https://electcarole.com/"
+},
+{
+"text": "« All Events",
+"href": "https://electcarole.com/events/"
+},
+{
+"text": "« Walk and Talk",
+"href": "https://electcarole.com/event/walk-and-talk/"
+}
 ]

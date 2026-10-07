@@ -1,8 +1,6 @@
-Key Issues
-Freedom surrendered must be reclaimed; keep calm and defend freedom.
+Skip to content About Warren District Issues Shop About Warren District Issues Shop Donate Volunteer About Warren District Issues Shop Donate Volunteer Key Issues Freedom surrendered must be reclaimed; keep calm and defend freedom.
 Make America Great Again by restoring a government small enough to fit within the Constitution.
-A republic, not an empire…
-Effective federal economic policy starts with the first principle: limited government constrained by the Constitution, free enterprise, private property, and sound money.
+A republic, not an empire… Economy Freedom Healthcare Justice National Security Secure Borders Secure Borders Social Security Sound Money Strong Families Economy Freedom Healthcare Justice National Security Secure Borders Social Security Sound Money Strong Families Effective federal economic policy starts with the first principle: limited government constrained by the Constitution, free enterprise, private property, and sound money.
 Limited Government.
 Historically, conservatives supported low taxes to “starve the beast”.
 With less of your money, the size and scope of government could be limited.
@@ -115,23 +113,22 @@ Clearly that isn’t working.
 In 1965, healthcare was about 6% of the US economy.
 Today, healthcare is nearly 25% of the US economy.
 This is not sustainable.
-Here are solutions I support:
-- Establish a House Healthcare Committee.
+Here are solutions I support: Establish a House Healthcare Committee.
 One Chairman.
 One question: Did you improve healthcare in America this Congress?
 If not, why should we keep this Chairman?
-- Individuals should be able to choose the combination of care, coverage, and cost they find best for their own circumstances from a range of high-quality alternatives in a truly competitive market.
-- End the antitrust exemption provided for health insurance companies.
-- Make HSAs available to all people and make payment for health insurance an eligible expense.
-- Require healthcare providers to provide one bill per visit and not multiple bills – which would eliminate surprise billing and apply pressure to contain costs.
-- Require healthcare providers & pharmacies to standardize their pricing so they each pick their own price, but they must honor it for everyone.
+Individuals should be able to choose the combination of care, coverage, and cost they find best for their own circumstances from a range of high-quality alternatives in a truly competitive market.
+End the antitrust exemption provided for health insurance companies.
+Make HSAs available to all people and make payment for health insurance an eligible expense.
+Require healthcare providers to provide one bill per visit and not multiple bills – which would eliminate surprise billing and apply pressure to contain costs.
+Require healthcare providers & pharmacies to standardize their pricing so they each pick their own price, but they must honor it for everyone.
 For example, if the final price paid by Anthem is currently lower than a small insurance company, or the cash price is lower than the insurance price, or Proctor & Gamble gets a better price than the local small business, plan A gets better pricing than plan B, that would end.
 One price.
-- Most Favored Nation drug pricing.
+Most Favored Nation drug pricing.
 President Trump’s executive order makes sense.
 If pharmaceutical companies sell a drug for $10 in England and $800 in the USA, they can reset their price, but they can’t keep subsidizing the world at our expense.
-- Eliminate gag rules for pharmacies.
-- A safety net already ensures that no one goes without healthcare, but it needs to be reformed.
+Eliminate gag rules for pharmacies.
+A safety net already ensures that no one goes without healthcare, but it needs to be reformed.
 There is no clear federal consensus.
 Providing Medicaid is not an enumerated power, so federalism offers a path forward.
 Eliminate most federal mandates and block grant all federal Medicaid on a per citizen basis.
@@ -152,20 +149,17 @@ Respecting civil liberties, we overwhelmingly support our police.
 We work to promote honest judges who apply the law rather than act as lawmakers.
 We expect our friends, families, and neighbors to do the same.
 The Founding Fathers cared deeply about justice.
-Much of our Bill of Rights is devoted to this cause:
-- The 1st Amendment protects freedom of assembly and the right to address grievances with elected officials.
-- The 3rd Amendment specifically prevents the federal government from compelling citizens to host the military in their homes at their own expense.
+Much of our Bill of Rights is devoted to this cause: The 1st Amendment protects freedom of assembly and the right to address grievances with elected officials.
+The 3rd Amendment specifically prevents the federal government from compelling citizens to host the military in their homes at their own expense.
 I believe the intent means citizens should not be compelled to host the government in their homes – or in their phones, computers, cars, bank accounts, etc.
-- The 4th Amendment protects against unreasonable searches and requires probable cause for warrants.
-- The 5th Amendment requires grand jury indictment for serious crimes, prohibits double jeopardy and compelled self-incrimination, guarantees due process of law, and requires just compensation for takings of private property.
-- The 6th Amendment guarantees a speedy and public trial by an impartial jury, notice of the accusation, confrontation of witnesses, compulsory process for screening biased witnesses, and assistance of professional counsel.
-- The 7th Amendment preserves the right to jury trial in certain civil suits, and limits re-examination of facts already tried by a jury.
-- The 8th prohibits excessive bail, excessive fines, and cruel and unusual punishments.
+The 4th Amendment protects against unreasonable searches and requires probable cause for warrants.
+The 5th Amendment requires grand jury indictment for serious crimes, prohibits double jeopardy and compelled self-incrimination, guarantees due process of law, and requires just compensation for takings of private property.
+The 6th Amendment guarantees a speedy and public trial by an impartial jury, notice of the accusation, confrontation of witnesses, compulsory process for screening biased witnesses, and assistance of professional counsel.
+The 7th Amendment preserves the right to jury trial in certain civil suits, and limits re-examination of facts already tried by a jury.
+The 8th prohibits excessive bail, excessive fines, and cruel and unusual punishments.
 This enforces proportionality and humanity in pretrial detention, monetary penalties, and sentencing.
-- The 10th Amendment was supposed to reserve most power for the states.
-“Justice consists not in being neutral between right and wrong, but finding out the right and upholding it, wherever found, against the wrong.” – Theodore Roosevelt
-“We the People of the United States, in Order to form a more perfect Union, establish Justice, ensure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.”
-Identity.
+The 10th Amendment was supposed to reserve most power for the states.
+“Justice consists not in being neutral between right and wrong, but finding out the right and upholding it, wherever found, against the wrong.” – Theodore Roosevelt “We the People of the United States, in Order to form a more perfect Union, establish Justice, ensure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.” Identity.
 National security begins at our own borders.
 The United States was formed by sovereign states for the benefit of our own people.
 Our founding fathers established a republic (if we can keep it), not an empire, and not an economic zone with open borders.
@@ -182,15 +176,14 @@ Endless war depletes our resources and diminishes our strength.
 I support President Trump’s National Security Strategy.
 Published in November 2025, the National Security Strategy provides a coherent America First framework.
 It centers on a focused definition of national interest, peace through strength, a predisposition to non-interventionism with a high bar for the use of force, flexible realism that seeks commercial relations without imposing social or political change, and the primacy of sovereign nations.
-Key points of alignment include:
-- Border security and mass migration as core national security priorities: The Strategy correctly identifies the end of the era of mass migration and full control of borders and the immigration system as foundational.
+Key points of alignment include: Border security and mass migration as core national security priorities: The Strategy correctly identifies the end of the era of mass migration and full control of borders and the immigration system as foundational.
 This matches my longstanding emphasis on securing the homeland, designating cartels as terrorist organizations, and treating illicit flows as direct threats.
-- Trump Corollary to the Monroe Doctrine and Western Hemisphere focus: Reasserting American preeminence in the Hemisphere, denying external competitors any foothold, countering migration and narcotics, and adjusting military posture accordingly reinforces the primacy of defending the homeland and near-abroad—consistent with realist prioritization.
-- Burden-sharing and alliance reform: The call for allies (especially in Europe/NATO) to assume primary regional responsibility, meet higher defense spending commitments, and end free-riding tracks with my advocacy for redeploying conventional forces from Eastern Europe, stopping further NATO expansion, and requiring Europeans to guard their own frontiers while the U.S. provides strategic enablers.
-- China as the pacing challenge and Indo-Pacific emphasis: Prioritizing economic reciprocity, technological competition, deterrence over Taiwan and key sea lanes, and industrial revitalization aligns with recognizing China as the main grand-strategic competitor requiring resource trade-offs.
-- Restraint and ending endless wars: The Strategy’s rejection of open-ended global commitments, preference for diplomacy and negotiated peace where possible, reduced emphasis on the Middle East as the perpetual center of policy and focus on decisive capability rather than permanent presence echo the rejection of neoconservative consensus and insistence on clear, achievable missions.
-- Peace through strength and military readiness: Investment in a lethal, advanced force free of ideological distractions, nuclear deterrence, missile defense, and a revived industrial base supports equipping American warriors to win decisively when the national interest demands it.
-- Economic security as national security: Reindustrialization, energy dominance, fair trade, supply-chain resilience, and protection of American workers strengthen the foundation of military power.
+Trump Corollary to the Monroe Doctrine and Western Hemisphere focus: Reasserting American preeminence in the Hemisphere, denying external competitors any foothold, countering migration and narcotics, and adjusting military posture accordingly reinforces the primacy of defending the homeland and near-abroad—consistent with realist prioritization.
+Burden-sharing and alliance reform: The call for allies (especially in Europe/NATO) to assume primary regional responsibility, meet higher defense spending commitments, and end free-riding tracks with my advocacy for redeploying conventional forces from Eastern Europe, stopping further NATO expansion, and requiring Europeans to guard their own frontiers while the U.S. provides strategic enablers.
+China as the pacing challenge and Indo-Pacific emphasis: Prioritizing economic reciprocity, technological competition, deterrence over Taiwan and key sea lanes, and industrial revitalization aligns with recognizing China as the main grand-strategic competitor requiring resource trade-offs.
+Restraint and ending endless wars: The Strategy’s rejection of open-ended global commitments, preference for diplomacy and negotiated peace where possible, reduced emphasis on the Middle East as the perpetual center of policy and focus on decisive capability rather than permanent presence echo the rejection of neoconservative consensus and insistence on clear, achievable missions.
+Peace through strength and military readiness: Investment in a lethal, advanced force free of ideological distractions, nuclear deterrence, missile defense, and a revived industrial base supports equipping American warriors to win decisively when the national interest demands it.
+Economic security as national security: Reindustrialization, energy dominance, fair trade, supply-chain resilience, and protection of American workers strengthen the foundation of military power.
 The Strategy’s overall direction of focused realism, America First prioritization, and restoration of strength provides a strong foundation for bipartisan congressional support of policies that keep America safe, free, and prosperous.
 Differences.
 America is a republic, not an empire.
@@ -322,3 +315,4 @@ Government is a poor substitute for family life.
 Nearly all means tested programs punish marriage, or even cohabitation.
 The impact on families has been devastating.
 When I say excessive government is bankrupting America financially and morally, this is one of the most abusive examples.
+Facebook-f Instagram X-twitter Youtube Paid for by Davidson for Congress About Warren District Issues Shop Donate Volunteer About Warren District Issues Shop Donate Volunteer Your Privacy Choices About Warren District Issues Shop Donate Volunteer

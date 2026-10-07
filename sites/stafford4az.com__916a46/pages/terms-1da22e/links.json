@@ -1,27 +1,110 @@
 [
-"https://bsky.app/profile/stafford4az.bsky.social",
-"https://facebook.com/Stafford4AZ",
-"https://instagram.com/stafford4az",
-"https://stafford4az.com/",
-"https://stafford4az.com/about",
-"https://stafford4az.com/contact",
-"https://stafford4az.com/endorsements",
-"https://stafford4az.com/es",
-"https://stafford4az.com/get-involved",
-"https://stafford4az.com/ld29",
-"https://stafford4az.com/ld29/el-mirage",
-"https://stafford4az.com/ld29/glendale",
-"https://stafford4az.com/ld29/goodyear",
-"https://stafford4az.com/ld29/litchfield-park",
-"https://stafford4az.com/ld29/surprise",
-"https://stafford4az.com/ld29/wittmann",
-"https://stafford4az.com/news",
-"https://stafford4az.com/platform",
-"https://stafford4az.com/privacy",
-"https://stafford4az.com/terms",
-"https://stafford4az.com/transparency",
-"https://stafford4az.com/voter-resources",
-"https://stafford4az.com/who-is-my-state-senator",
-"https://x.com/stafford4az",
-"https://youtube.com/@Stafford4AZ"
+{
+"text": "About",
+"href": "https://stafford4az.com/about"
+},
+{
+"text": "Contact",
+"href": "https://stafford4az.com/contact"
+},
+{
+"text": "El Mirage",
+"href": "https://stafford4az.com/ld29/el-mirage"
+},
+{
+"text": "En Español",
+"href": "https://stafford4az.com/es"
+},
+{
+"text": "Endorsements",
+"href": "https://stafford4az.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://stafford4az.com/get-involved"
+},
+{
+"text": "Glendale",
+"href": "https://stafford4az.com/ld29/glendale"
+},
+{
+"text": "Goodyear",
+"href": "https://stafford4az.com/ld29/goodyear"
+},
+{
+"text": "Home",
+"href": "https://stafford4az.com/"
+},
+{
+"text": "LD29 Guide",
+"href": "https://stafford4az.com/ld29"
+},
+{
+"text": "Litchfield Park",
+"href": "https://stafford4az.com/ld29/litchfield-park"
+},
+{
+"text": "News",
+"href": "https://stafford4az.com/news"
+},
+{
+"text": "Platform",
+"href": "https://stafford4az.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stafford4az.com/privacy"
+},
+{
+"text": "Surprise",
+"href": "https://stafford4az.com/ld29/surprise"
+},
+{
+"text": "Terms of Service",
+"href": "https://stafford4az.com/terms"
+},
+{
+"text": "Transparency",
+"href": "https://stafford4az.com/transparency"
+},
+{
+"text": "Voter Resources",
+"href": "https://stafford4az.com/voter-resources"
+},
+{
+"text": "Who Is My State Senator?",
+"href": "https://stafford4az.com/who-is-my-state-senator"
+},
+{
+"text": "Wittmann",
+"href": "https://stafford4az.com/ld29/wittmann"
+},
+{
+"text": "[image: Eric Stafford Logo]",
+"href": "https://stafford4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stafford4az.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Stafford4AZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stafford4az"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Stafford4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/stafford4az"
+},
+{
+"text": "contact us",
+"href": "https://stafford4az.com/contact"
+}
 ]

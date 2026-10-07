@@ -1,5 +1,4 @@
-Measure would provide property tax relief to homeowners, seniors and small businesses
-The Massachusetts Senate unanimously adopted an amendment to the economic development bill offered by Senator Nick Collins that would deliver property tax relief for the second time this legislative session.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Senate Passes Senator Collins’ Property Tax Relief Legislation for Second Time Unanimously August 3, 2026 Measure would provide property tax relief to homeowners, seniors and small businesses The Massachusetts Senate unanimously adopted an amendment to the economic development bill offered by Senator Nick Collins that would deliver property tax relief for the second time this legislative session.
 The amendment was approved during debate on the Senate’s economic development legislation and contains the same provisions as S.2900, Senator Collins’ municipal property tax relief bill, which previously passed the Senate 37-1 earlier in the legislative session.
 The measure would allow municipalities to use surplus funds to issue rebates to homeowners who received the residential exemption in the prior fiscal year.
 By reducing the property tax burden on residential properties, the proposal would also help renters who face rising housing costs when taxes are passed through in the form of higher rents.
@@ -9,8 +8,10 @@ Many of these policies build on property tax relief measures and priorities alre
 “Once again, my colleagues have recognized how important it is to move this legislation forward, approving it for a second time in the same session,” said Senator Nick Collins.
 “This relief is for homeowners, especially seniors, renters feeling the pressure of the city’s annual property tax increases, and small business owners working to keep their doors open.
 These are policies City officials are already on record supporting, policies that would provide badly needed property tax relief following the city’s annual property tax increases.
-Those residents deserve the same support when we fight for relief at the State House.”
-“I am grateful for the unanimous and bipartisan support of my Senate colleagues, but the work is not finished,” Collins continued.
-“I will keep fighting to ensure these provisions make it through conference committee and onto the Governor’s desk before the end of the legislative session.”
-The Senate adopted the amendment as part of its version of the Economic Development Bond bill.
+Those residents deserve the same support when we fight for relief at the State House.” “I am grateful for the unanimous and bipartisan support of my Senate colleagues, but the work is not finished,” Collins continued.
+“I will keep fighting to ensure these provisions make it through conference committee and onto the Governor’s desk before the end of the legislative session.” The Senate adopted the amendment as part of its version of the Economic Development Bond bill.
 A six-member conference committee will now reconcile the differences between the bills passed by the Senate and House, respectively, before a final bill is sent to the Governor for approval.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

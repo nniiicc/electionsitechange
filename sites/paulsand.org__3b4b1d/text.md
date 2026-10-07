@@ -1,14 +1,12 @@
-Signed in as:
-filler@godaddy.com
-The RED vs BLUE State Geo-Political Divorce movement is gaining momentum across the U.S.
+Home About Me Gallery Contact Me Yard Sale Pictures More Home About Me Gallery Contact Me Yard Sale Pictures Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Me Gallery Contact Me Yard Sale Pictures Account My Account Sign out Sign In My Account What is going on?
+A Fractured Country The RED vs BLUE State Geo-Political Divorce movement is gaining momentum across the U.S.
 The people who settled rural America had and still have a strong independent spirit and are getting tired of being ruled and exploited by their socialist urban governments.
-The traditional Republican Party in Idaho has been taken over by RINOs who want to impose their rules on the rest of us.
+A Fractured Party The traditional Republican Party in Idaho has been taken over by RINOs who want to impose their rules on the rest of us.
 What we need is for fiscally conservative small government Republicans to step up and replace the socialist, anti-freedom, big government politicians.
-The rich keep getting richer while working families struggle to survive.
+A Fractured Economy The rich keep getting richer while working families struggle to survive.
 This is causing a strong shift to the left politically.
 People everywhere are blaming capitalism for our problems and are pushing us towards more socialism.
-Businesses have only three choices:
-1.
+Businesses have only three choices: 1.
 Take care of your workers and their families.
 2.
 Pay more taxes to have the government take care of your workers and their families.
@@ -16,19 +14,19 @@ Pay more taxes to have the government take care of your workers and their famili
 Have more regulations of make businesses take care of their workers and their families.
 It is the business culture that is broken, not the system.
 Pay your workers first and everyone wins.
-My name is Paul Sand and I won the Libertarian Party nomination for the Office of Governor of Idaho in the Idaho Primary Election on May 19, 2026.
+OCTOBER 3, 2026 My name is Paul Sand and I won the Libertarian Party nomination for the Office of Governor of Idaho in the Idaho Primary Election on May 19, 2026.
 I will be on the general election ballot for Governor of Idaho in November.
 Before this, I served ten years on my local city council.
 I have experience preparing budgets and working with federal, state, and county agencies and other taxing districts.
 I have been an Idaho property and business owner for the last 30 years.
-On July 4, 2026, our country's 250th birthday, we survived 250 years of growth, while our liberties have only gone and will continue to go down hill.
+More About Me MY PLATFORM Our Vision for the Future On July 4, 2026, our country's 250th birthday, we survived 250 years of growth, while our liberties have only gone and will continue to go down hill.
 Our standing in the world is shot.
 Our corruption is on full display, and there is no reason for anyone to trust it will get better so long as the voters keep accepting it.
 The past 250 years taught us what not to do for the next 250 years.
 We need to try something completely different.
 As Americans, when our government no longer represents us, it is our duty to cast off such government and install a new one.
 With that goal in mind, my platform is to permanently remove politics from state government and keep it out of local government.
-Politics is the problem, not the solution.
+My Politics Politics is the problem, not the solution.
 I am opposed to all political parties, including Libertarians.
 My campaign is not endorsed, supported or even recognized by the Libertarian Party of Idaho or the National Libertarian Party.
 Many of my policies are not representative of blanket libertarianism.
@@ -53,7 +51,7 @@ I have no desire to be your leader, you need to stand up and lead yourselves.
 I am opposed to any efforts to privatize our public lands.
 Idaho is not for sale.
 Visit the Sagebrush Institute to help the fight against the privatization of our public land.
-If elected, I want to invert the political system in Idaho and make counties and local government the top layer.
+GO TO SAGEBRUSH INSTITUTE.ORG My Proposal If elected, I want to invert the political system in Idaho and make counties and local government the top layer.
 County governments are more democratic because your elected representatives are your neighbors.
 They share your social and economic community.
 They go to your same stores, churches and schools.
@@ -80,7 +78,7 @@ The urban areas will simply "relocate" their "problems" to rural communities.
 This would also be an enormous gift to the ultra wealthy campaign donors, as usual, who have substantial real estate holdings and no means of avoiding the tax.
 Eighty percent of the delegates to the recent Idaho GOP convention supported eliminating rural government and putting our corrupt RINO state government in complete control of our communities.
 This must be stopped.
-Get politics out of government.
+The State of Idaho Get politics out of government.
 The existing state government would be the bottom layer in the new political structure.
 The state government should only be concerned with non-partisan statewide issues that benefit the entire state and that everyone can agree needs to be done.
 The only statewide offices should be transportation/highways/road and fuel taxes, the state Attorney General, and the Secretary of State.
@@ -91,10 +89,13 @@ They could work one week per year and get paid $100 per day.
 The state income tax and sales tax would go away.
 This would greatly benefit Idaho workers and consumers.
 If all the counties in eastern Washington and eastern Oregon joined Idaho, the population of Idaho would be more than 3.5 million.
-The counties can implement policies that attract more people and more businesses to widen their economy or implement policies that lift our existing businesses and people without bringing in Californian or foreign immigrants.
-Donating to political parties and candidates is just a money laundering scheme.
+Horizontal vs Vertical Growth The counties can implement policies that attract more people and more businesses to widen their economy or implement policies that lift our existing businesses and people without bringing in Californian or foreign immigrants.
+Get Money Out of Politics Donating to political parties and candidates is just a money laundering scheme.
 They want you to spend your money knowing that third party candidates have no chance of beating the political establishment and their money machine.
 I am not accepting any donations from individuals or businesses.
 I have no money of my own, so I will be relying on free press and word of mouth to get my message out.
-Business - We have opened an Antique Store in White Bird, Idaho and on eBay.
+MY PAST PROJECTS You can see what I've been doing for the last 60 years or so.
+View My Photo Gallery My 2026 PROJECTS Business - We have opened an Antique Store in White Bird, Idaho and on eBay.
 For more information, go to SandcastleAntiques.com.
+Copyright © # Paul Sand - All Rights Reserved.
+Powered by

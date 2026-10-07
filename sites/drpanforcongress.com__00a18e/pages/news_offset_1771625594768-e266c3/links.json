@@ -1,46 +1,290 @@
 [
-"http://facebook.com/RichardPanMD",
-"http://instagram.com/DrPanMD",
-"http://x.com/DrPanMD",
-"http://youtube.com/@DrPanForCongress",
-"https://bsky.app/profile/drpanmd.bsky.social",
-"https://cidrap.umn.edu/childhood-vaccines/racially-charged-language-mothers-and-babies-taints-vaccine-advisory-meeting",
-"https://dailykos.com/stories/2026/1/16/2363856/-Doctors-Running-to-Serve-in-Congress-Blast-Trump-s-Great-Healthcare-Plan",
-"https://drpanforcongress.com/",
-"https://drpanforcongress.com/about",
-"https://drpanforcongress.com/cart",
-"https://drpanforcongress.com/endorsements",
-"https://drpanforcongress.com/get-involved",
-"https://drpanforcongress.com/home",
-"https://drpanforcongress.com/media",
-"https://drpanforcongress.com/news",
-"https://drpanforcongress.com/news/314-action-fund-endorses-dr-richard-pan-for-californias-6th-district-as-a-guardian-of-public-health",
-"https://drpanforcongress.com/news/afscme-endorses-dr-richard-pan-for-congress-in-ca-06",
-"https://drpanforcongress.com/news/dr-richard-pan-condemns-trump-administration-move-to-end-hepatitis-b-birth-vaccine-recommendation",
-"https://drpanforcongress.com/news/dr-richard-pan-issues-statement-on-cdc-vaccine-guidance-and-public-misinformation",
-"https://drpanforcongress.com/news/dr-richard-pan-receives-more-votes-than-all-other-primary-candidates-combined-in-democratic-party-endorsement-vote",
-"https://drpanforcongress.com/news/dr-richard-pan-responds-to-trump-administration-child-care-funding-freeze",
-"https://drpanforcongress.com/news/dr-richard-pans-statement-on-federal-agents-killing-minneapolis-nurse",
-"https://drpanforcongress.com/news/healthcare-for-action-pac-endorses-dr-richard-pan-for-congress",
-"https://drpanforcongress.com/news/nbsprep-luz-rivas-endorses-dr-richard-pan-for-congress",
-"https://drpanforcongress.com/news/seiu-california-endorses-dr-richard-pan-for-congress-in-ca-06",
-"https://drpanforcongress.com/news?offset=1763415360906",
-"https://drpanforcongress.com/news?offset=1770784559866&reversePaginate=true",
-"https://drpanforcongress.com/privacy-policy",
-"https://drpanforcongress.com/privacy-policy-1",
-"https://drpanforcongress.com/sms-opt-in",
-"https://fastcompany.com/91488762/rfk-jr-disregards-science-and-facts-these-stem-experts-are-fighting-back-by-running-for-congress",
-"https://kcra.com/article/surprise-covid-test-bills-rume-health/70252293",
-"https://kqed.org/news/12060682/california-at-forefront-as-democrats-tap-doctors-for-high-stakes-house-races",
-"https://newrepublic.com/article/204048/hepatitis-b-vaccine-children-immigrants",
-"https://news.bgov.com/bloomberg-government-news/democrats-are-running-against-a-kennedy-over-health-care",
-"https://secure.actblue.com/donate/pan-web",
-"https://secure.actblue.com/donate/pan-web?amount=10",
-"https://secure.actblue.com/donate/pan-web?amount=100",
-"https://secure.actblue.com/donate/pan-web?amount=1000",
-"https://secure.actblue.com/donate/pan-web?amount=3500",
-"https://store.drpanforcongress.com/",
-"https://telegraph.co.uk/us/news/2026/02/04/the-scientists-running-for-congress-to-take-on-rfk-jr",
-"https://the-downballot.com/p/morning-digest-a-surprise-trump-endorsement",
-"https://wsj.com/politics/policy/democrat-doctors-congress-2026-b234a240?st=nL53zv&reflink=desktopwebshare_permalink"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/pan-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/pan-web?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/pan-web?amount=1000"
+},
+{
+"text": "$3500",
+"href": "https://secure.actblue.com/donate/pan-web?amount=3500"
+},
+{
+"text": "0",
+"href": "https://drpanforcongress.com/cart"
+},
+{
+"text": "314 Action Fund Endorses Dr. Richard Pan for California’s 6th District as a Guardian of Public Health",
+"href": "https://drpanforcongress.com/news/314-action-fund-endorses-dr-richard-pan-for-californias-6th-district-as-a-guardian-of-public-health"
+},
+{
+"text": "ABOUT",
+"href": "https://drpanforcongress.com/about"
+},
+{
+"text": "AFSCME Endorses Dr. Richard Pan for Congress in CA-06",
+"href": "https://drpanforcongress.com/news/afscme-endorses-dr-richard-pan-for-congress-in-ca-06"
+},
+{
+"text": "About",
+"href": "https://drpanforcongress.com/about"
+},
+{
+"text": "Bloomberg Government: Democrats Are Running Against a Kennedy Over Health Care",
+"href": "https://news.bgov.com/bloomberg-government-news/democrats-are-running-against-a-kennedy-over-health-care"
+},
+{
+"text": "CIDRAP: Racially charged language on mothers and babies taints vaccine advisory meeting",
+"href": "https://www.cidrap.umn.edu/childhood-vaccines/racially-charged-language-mothers-and-babies-taints-vaccine-advisory-meeting"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@drpanforcongress.com"
+},
+{
+"text": "Daily Kos: Doctors Running to Serve in Congress Blast Trump’s ‘Great Healthcare Plan’",
+"href": "https://www.dailykos.com/stories/2026/1/16/2363856/-Doctors-Running-to-Serve-in-Congress-Blast-Trump-s-Great-Healthcare-Plan"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pan-web"
+},
+{
+"text": "Dr. Richard Pan Condemns Trump Administration Move to End Hepatitis B Birth Vaccine Recommendation",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-condemns-trump-administration-move-to-end-hepatitis-b-birth-vaccine-recommendation"
+},
+{
+"text": "Dr. Richard Pan Issues Statement on CDC Vaccine Guidance and Public Misinformation",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-issues-statement-on-cdc-vaccine-guidance-and-public-misinformation"
+},
+{
+"text": "Dr. Richard Pan Receives More Votes Than All Other Primary Candidates Combined In Democratic Party Endorsement Vote",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-receives-more-votes-than-all-other-primary-candidates-combined-in-democratic-party-endorsement-vote"
+},
+{
+"text": "Dr. Richard Pan Responds to Trump Administration Child Care Funding Freeze",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-responds-to-trump-administration-child-care-funding-freeze"
+},
+{
+"text": "Dr. Richard Pan’s Statement on Federal Agents Killing Minneapolis Nurse",
+"href": "https://drpanforcongress.com/news/dr-richard-pans-statement-on-federal-agents-killing-minneapolis-nurse"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://drpanforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://drpanforcongress.com/endorsements"
+},
+{
+"text": "Fast Company: RFK Jr. disregards science and facts. These STEM experts are fighting back by running for Congress",
+"href": "https://www.fastcompany.com/91488762/rfk-jr-disregards-science-and-facts-these-stem-experts-are-fighting-back-by-running-for-congress"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://drpanforcongress.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://drpanforcongress.com/get-involved"
+},
+{
+"text": "Healthcare for Action PAC Endorses Dr. Richard Pan for Congress",
+"href": "https://drpanforcongress.com/news/healthcare-for-action-pac-endorses-dr-richard-pan-for-congress"
+},
+{
+"text": "ISSUES",
+"href": "https://drpanforcongress.com/home#issues"
+},
+{
+"text": "Issues",
+"href": "https://drpanforcongress.com/home#issues"
+},
+{
+"text": "KCRA 3: Surprise COVID test bills from Rume Health? Here’s why they’re showing up—and what to do",
+"href": "https://www.kcra.com/article/surprise-covid-test-bills-rume-health/70252293"
+},
+{
+"text": "KQED: California at Forefront as Democrats Tap Doctors for High-Stakes House Races",
+"href": "https://www.kqed.org/news/12060682/california-at-forefront-as-democrats-tap-doctors-for-high-stakes-house-races"
+},
+{
+"text": "Media",
+"href": "https://drpanforcongress.com/media"
+},
+{
+"text": "Morning Digest: A surprise Trump endorsement triggers a surprise Senate bid",
+"href": "https://www.the-downballot.com/p/morning-digest-a-surprise-trump-endorsement"
+},
+{
+"text": "NEWS",
+"href": "https://drpanforcongress.com/news"
+},
+{
+"text": "Newer Posts",
+"href": "https://drpanforcongress.com/news?offset=1770784559866&reversePaginate=true"
+},
+{
+"text": "News",
+"href": "https://drpanforcongress.com/news"
+},
+{
+"text": "Older Posts",
+"href": "https://drpanforcongress.com/news?offset=1763415360906"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/pan-web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drpanforcongress.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/314-action-fund-endorses-dr-richard-pan-for-californias-6th-district-as-a-guardian-of-public-health"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/afscme-endorses-dr-richard-pan-for-congress-in-ca-06"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-condemns-trump-administration-move-to-end-hepatitis-b-birth-vaccine-recommendation"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-issues-statement-on-cdc-vaccine-guidance-and-public-misinformation"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-receives-more-votes-than-all-other-primary-candidates-combined-in-democratic-party-endorsement-vote"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/dr-richard-pan-responds-to-trump-administration-child-care-funding-freeze"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/dr-richard-pans-statement-on-federal-agents-killing-minneapolis-nurse"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/healthcare-for-action-pac-endorses-dr-richard-pan-for-congress"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/nbsprep-luz-rivas-endorses-dr-richard-pan-for-congress"
+},
+{
+"text": "Read More",
+"href": "https://drpanforcongress.com/news/seiu-california-endorses-dr-richard-pan-for-congress-in-ca-06"
+},
+{
+"text": "Read More",
+"href": "https://newrepublic.com/article/204048/hepatitis-b-vaccine-children-immigrants"
+},
+{
+"text": "Read More",
+"href": "https://news.bgov.com/bloomberg-government-news/democrats-are-running-against-a-kennedy-over-health-care"
+},
+{
+"text": "Read More",
+"href": "https://www.cidrap.umn.edu/childhood-vaccines/racially-charged-language-mothers-and-babies-taints-vaccine-advisory-meeting"
+},
+{
+"text": "Read More",
+"href": "https://www.dailykos.com/stories/2026/1/16/2363856/-Doctors-Running-to-Serve-in-Congress-Blast-Trump-s-Great-Healthcare-Plan"
+},
+{
+"text": "Read More",
+"href": "https://www.fastcompany.com/91488762/rfk-jr-disregards-science-and-facts-these-stem-experts-are-fighting-back-by-running-for-congress"
+},
+{
+"text": "Read More",
+"href": "https://www.kcra.com/article/surprise-covid-test-bills-rume-health/70252293"
+},
+{
+"text": "Read More",
+"href": "https://www.kqed.org/news/12060682/california-at-forefront-as-democrats-tap-doctors-for-high-stakes-house-races"
+},
+{
+"text": "Read More",
+"href": "https://www.telegraph.co.uk/us/news/2026/02/04/the-scientists-running-for-congress-to-take-on-rfk-jr/"
+},
+{
+"text": "Read More",
+"href": "https://www.the-downballot.com/p/morning-digest-a-surprise-trump-endorsement"
+},
+{
+"text": "Read More",
+"href": "https://www.wsj.com/politics/policy/democrat-doctors-congress-2026-b234a240?st=nL53zv&reflink=desktopwebshare_permalink"
+},
+{
+"text": "Rep. Luz Rivas Endorses Dr. Richard Pan for Congress",
+"href": "https://drpanforcongress.com/news/nbsprep-luz-rivas-endorses-dr-richard-pan-for-congress"
+},
+{
+"text": "SEIU California Endorses Dr. Richard Pan for Congress In CA-06",
+"href": "https://drpanforcongress.com/news/seiu-california-endorses-dr-richard-pan-for-congress-in-ca-06"
+},
+{
+"text": "SMS Opt-In",
+"href": "https://drpanforcongress.com/sms-opt-in"
+},
+{
+"text": "Store",
+"href": "https://store.drpanforcongress.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://drpanforcongress.com/privacy-policy-1"
+},
+{
+"text": "The New Republic: The Racist Worldview Behind the New Vaccine Recommendations",
+"href": "https://newrepublic.com/article/204048/hepatitis-b-vaccine-children-immigrants"
+},
+{
+"text": "The Telegraph: The scientists running for Congress to take on RFK Jr.",
+"href": "https://www.telegraph.co.uk/us/news/2026/02/04/the-scientists-running-for-congress-to-take-on-rfk-jr/"
+},
+{
+"text": "Wall Street Journal: RFK Jr.’s Rise Drives Democratic Doctors to Run for Congress",
+"href": "https://www.wsj.com/politics/policy/democrat-doctors-congress-2026-b234a240?st=nL53zv&reflink=desktopwebshare_permalink"
+},
+{
+"text": "[image: Dr. Pan for Congress]",
+"href": "https://drpanforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/RichardPanMD"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/DrPanMD"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@DrPanForCongress"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/DrPanMD"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/drpanmd.bsky.social"
+},
+{
+"text": "‍",
+"href": "https://drpanforcongress.com/get-involved"
+}
 ]

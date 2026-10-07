@@ -1,8 +1,50 @@
 [
-"https://allinforidaho.substack.com/",
-"https://carlson4idaho.com/",
-"https://carlson4idaho.com/blog",
-"https://facebook.com/Carlson4idaho",
-"https://secure.winred.com/carlson4idaho/donate",
-"https://wordpress.org/"
+{
+"text": "Contact",
+"href": "https://carlson4idaho.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/carlson4idaho/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://carlson4idaho.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Carlson4idaho"
+},
+{
+"text": "Home",
+"href": "https://carlson4idaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://carlson4idaho.com/#issues"
+},
+{
+"text": "My Substack",
+"href": "https://allinforidaho.substack.com/"
+},
+{
+"text": "News",
+"href": "https://carlson4idaho.com/blog/"
+},
+{
+"text": "Powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Sen. Cindy Carlson 4 Idaho",
+"href": "https://carlson4idaho.com/"
+},
+{
+"text": "Skip to the content",
+"href": "https://carlson4idaho.com/#site-content"
+},
+{
+"text": "To the top ↑ Up ↑",
+"href": "https://carlson4idaho.com/#site-header"
+}
 ]

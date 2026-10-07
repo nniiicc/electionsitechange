@@ -1,9 +1,9 @@
 {
  "description": "No donate button here. Your voice is the campaign. Five simple ways to help and make politics work for you! Volunteer! Richard Hricik for SC Attorney General.",
  "final_url": "https://richardforattorneygeneral.com/get-involved",
- "paid_for_by": null,
+ "fingerprint": "2fe58d2c73424f326b67eb2dfccec987d7e5b7a0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "You Are the Campaign | Richard Hricik for SC AG",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

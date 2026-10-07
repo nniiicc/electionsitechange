@@ -1,7 +1,12 @@
 {
  "description": "Learn more about Alina Bonsell and her time in politics. Read news articles, press releases, and watch video interviews here.",
  "final_url": "https://www.alinabonsell.com/news",
+ "fingerprint": "ec67cc91c3bc457215ddf0f4968ad26a516be0cb",
+ "format": 3,
  "paid_for_by": "PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page",
  "title": "NEWS | Alina Bonsell for NY State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

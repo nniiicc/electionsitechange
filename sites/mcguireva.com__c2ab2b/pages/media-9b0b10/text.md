@@ -1,6 +1,4 @@
-In the News
-Media inquiries: mcguireforcongresspress@gmail.com
-Virginia leaders respond to Supreme Court’s striking down of redistricting referendum
-WDBJ7
-Republicans breathe sigh of relief after Virginia map overturned, possibly saving four GOP seats
-Washington Examiner
+Home About Volunteer Media Endorsements Contact Us Donate Media In the News Media inquiries: mcguireforcongresspress@gmail.com Virginia leaders respond to Supreme Court’s striking down of redistricting referendum WDBJ7 Read story Va politicians react to State Supreme Court redistricting decision Cville Right Now Read story Republicans breathe sigh of relief after Virginia map overturned, possibly saving four GOP seats Washington Examiner Read story State leaders share mixed reactions after Supreme Court of Virginia strikes down redistricting referendum Read story Virginia’s high court strikes down voter-passed House map favoring Democrats Read story Rep.
+McGuire speaks to voters on the Southside, urges them to vote ‘no’ on redistricting Read story Rep.
+McGuire holds campaign event in Albemarle County amid redistricting uncertainty Read story Rep.
+John McGuire makes Albemarle appearance Read story Home About Volunteer Media Endorsements Contact Us Donate Home About Volunteer Media Endorsements Contact Us Donate Share by:

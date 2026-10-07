@@ -1,5 +1,5 @@
-Please donate to my campaign!
+Senator Sanderson is passionate about what matters to your family!
+Home Meet Norman Issues Endorsements Accomplishments Donate More Home Meet Norman Issues Endorsements Accomplishments Donate Home Meet Norman Issues Endorsements Accomplishments Donate Please donate to my campaign!
 Your support will help maintain a Republican supermajority in the NC Senate!
-Copyright © 2024 Citizens to Elect Norman Sanderson - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Donate Now Copyright © # Citizens to Elect Norman Sanderson - All Rights Reserved.
+Home Meet Norman Issues Endorsements Contact Me Accomplishments Powered by

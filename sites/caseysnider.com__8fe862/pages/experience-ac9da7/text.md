@@ -1,18 +1,4 @@
-top of page
-PROVEN EXPERIENCE
-Casey has produced legislative solutions at every level of government, from grassroots efforts to the steps of the U.S.
+top of page HOME EXPERIENCE ISSUES DONATE JOIN US LATEST NEWS REQUEST A FREE SIGN More Use tab to navigate through the menu items.
+PROVEN EXPERIENCE Casey has produced legislative solutions at every level of government, from grassroots efforts to the steps of the U.S.
 Capitol.
-He has advocated for common sense conservative solutions and strong Republican principles.
-His experience includes:
-- Chair, Cache County Republican Party
-- Member, Utah Cattlemen s Association
-- Legislative Director, United States House of Representatives
-- Staffer, House Natural Resource Committee
-- Cache County Young Farmer and Rancher Chair
-- Governor Appointed Member, Blue Ribbon Advisory Council
-- Member, Paradise City Board of Adjustments
-- Aide, United States Senate
-- Fire Fighter/EMT, Paradise City Fire Department
-- Member, Cache County Farm Bureau Board
-Deseret News August 13, 2015
-bottom of page
+He has advocated for common sense conservative solutions and strong Republican principles. ​ His experience includes: ​ Chair, Cache County Republican Party Member, Utah Cattlemen s Association Legislative Director, United States House of Representatives Staffer, House Natural Resource Committee Cache County Young Farmer and Rancher Chair Governor Appointed Member, Blue Ribbon Advisory Council Member, Paradise City Board of Adjustments Aide, United States Senate Fire Fighter/EMT, Paradise City Fire Department Member, Cache County Farm Bureau Board ​ ​ ​ ​ ​ ​ Deseret News August 13, 2015 CALL Tel: 435-770-4081 EMAIL CSNIDER5@GMAIL.COM bottom of page

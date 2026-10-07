@@ -1,8 +1,34 @@
 [
-"https://app.termly.io/dsar/9fd48d3e-9b01-4784-8951-54fab95b57a2",
-"https://kristaferrante.com/",
-"https://kristaferrante.com/cart",
-"https://kristaferrante.com/new-page",
-"https://secure.actblue.com/donate/krista-ferrante",
-"https://termly.io/products/privacy-policy-generator"
+{
+"text": "0",
+"href": "https://www.kristaferrante.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/krista-ferrante"
+},
+{
+"text": "Home",
+"href": "https://www.kristaferrante.com/"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://termly.io/products/privacy-policy-generator/"
+},
+{
+"text": "[no text]",
+"href": "https://app.termly.io/dsar/9fd48d3e-9b01-4784-8951-54fab95b57a2"
+},
+{
+"text": "data subject access request",
+"href": "https://app.termly.io/dsar/9fd48d3e-9b01-4784-8951-54fab95b57a2"
+},
+{
+"text": "https://www.kristaferrante.com/",
+"href": "https://www.kristaferrante.com/"
+},
+{
+"text": "privacy statement",
+"href": "https://www.kristaferrante.com/new-page"
+}
 ]

@@ -1,8 +1,26 @@
 [
-"http://secure.anedot.com/friendsofmylinh/donate",
-"https://forms.gle/Q3hKRskhBSx38bPw7",
-"https://mylinhthai.com/",
-"https://mylinhthai.com/about-2",
-"https://mylinhthai.com/endorsements-2",
-"https://mylinhthai.com/priorities-2"
+{
+"text": "About",
+"href": "https://www.mylinhthai.com/about-2/"
+},
+{
+"text": "Contribute",
+"href": "http://secure.anedot.com/friendsofmylinh/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mylinhthai.com/endorsements-2/"
+},
+{
+"text": "Home",
+"href": "https://www.mylinhthai.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.mylinhthai.com/priorities-2/"
+},
+{
+"text": "Volunteer with us!",
+"href": "https://forms.gle/Q3hKRskhBSx38bPw7"
+}
 ]

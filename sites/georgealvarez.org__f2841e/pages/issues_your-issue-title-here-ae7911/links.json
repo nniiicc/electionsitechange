@@ -1,19 +1,70 @@
 [
-"https://assembly.state.ny.us/leg?bn=A03725",
-"https://assembly.state.ny.us/leg?bn=A03899",
-"https://assembly.state.ny.us/leg?bn=A07870",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/endorsements",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/news",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://nysenate.gov/legislation/bills/2025/S3394/amendment/A",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://x.com/galvareznyc"
+{
+"text": "A03725",
+"href": "https://assembly.state.ny.us/leg/?bn=A03725&leg_video="
+},
+{
+"text": "A03899",
+"href": "https://assembly.state.ny.us/leg/?bn=A03899&leg_video="
+},
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Ceasing Repeated and Extremely Egregious Predatory Behavior Act (CREEP Act) S3394A",
+"href": "https://www.nysenate.gov/legislation/bills/2025/S3394/amendment/A"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.georgealvarez.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "News",
+"href": "https://www.georgealvarez.org/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+},
+{
+"text": "“Bodega Act”",
+"href": "https://assembly.state.ny.us/leg/?bn=A07870&leg_video="
+}
 ]

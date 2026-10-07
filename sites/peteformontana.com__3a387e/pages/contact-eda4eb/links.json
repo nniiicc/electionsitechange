@@ -1,8 +1,34 @@
 [
-"https://peteformontana.com/",
-"https://peteformontana.com/about",
-"https://peteformontana.com/contact",
-"https://peteformontana.com/issues",
-"https://secure.actblue.com/donate/peteformontana",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://peteformontana.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://peteformontana.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/peteformontana"
+},
+{
+"text": "Home",
+"href": "https://peteformontana.com"
+},
+{
+"text": "Issues",
+"href": "https://peteformontana.com/issues/"
+},
+{
+"text": "Pete Elverum for Montana HD 82",
+"href": "https://peteformontana.com"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "← Back",
+"href": "https://peteformontana.com/contact/"
+}
 ]

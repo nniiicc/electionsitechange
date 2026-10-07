@@ -1,7 +1,11 @@
 {
  "description": "Upcoming and past campaign events for Lucas Hewitt, no-party candidate for Iowa House District 61.",
  "final_url": "https://www.lucashewitt.com/events",
+ "fingerprint": "a2fc3a537c137107acc376a0e99c83c3e83e356c",
+ "format": 3,
  "paid_for_by": "Paid for by Hewitt for Iowa House Not affiliated with any party or organization",
- "title": "Events \u2014 Lucas Hewitt",
- "years_mentioned": []
+ "title": "Events — Lucas Hewitt",
+ "years_mentioned": [
+  "2026"
+ ]
 }

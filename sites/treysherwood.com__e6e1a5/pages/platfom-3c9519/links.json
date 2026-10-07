@@ -1,17 +1,70 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://endowyo.biz/",
-"https://facebook.com/reptreysherwood",
-"https://instagram.com/electtreysherwood",
-"https://lightfolly.com/",
-"https://treysherwood.com/",
-"https://treysherwood.com/contact",
-"https://treysherwood.com/donate",
-"https://treysherwood.com/mascot",
-"https://treysherwood.com/platfom",
-"https://treysherwood.com/record",
-"https://treysherwood.com/search",
-"https://treysherwood.com/volunteer",
-"https://treysherwood.com/vote",
-"https://wyomingsbdc.org/wp-content/uploads/2020/02/2019-Annual-Impact-Report-Wyoming-SBDC-Network-digital.pdf"
+{
+"text": "Contact",
+"href": "https://treysherwood.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://treysherwood.com/donate"
+},
+{
+"text": "ENDOW Executive Council",
+"href": "https://www.endowyo.biz"
+},
+{
+"text": "Home",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "I Believe",
+"href": "https://treysherwood.com/platfom"
+},
+{
+"text": "Lightfolly",
+"href": "https://www.lightfolly.com"
+},
+{
+"text": "Mascot",
+"href": "https://treysherwood.com/mascot"
+},
+{
+"text": "Record",
+"href": "https://treysherwood.com/record"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "Volunteer",
+"href": "https://treysherwood.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://treysherwood.com/vote"
+},
+{
+"text": "Wyoming Small Business Development Center’s 2019 Annual Report",
+"href": "https://www.wyomingsbdc.org/wp-content/uploads/2020/02/2019-Annual-Impact-Report-Wyoming-SBDC-Network-digital.pdf"
+},
+{
+"text": "[image: Trey Sherwood]",
+"href": "https://treysherwood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://treysherwood.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reptreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electtreysherwood/"
+},
+{
+"text": "[no text]",
+"href": "mailto:treysherwood@gmail.com"
+}
 ]

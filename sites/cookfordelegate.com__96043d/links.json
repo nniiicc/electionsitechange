@@ -1,11 +1,54 @@
 [
-"https://cookfordelegate.com/",
-"https://cookfordelegate.com/get-involved",
-"https://cookfordelegate.com/meet-chuck",
-"https://cookfordelegate.com/the-issues",
-"https://facebook.com/ChuckCookForAnneArundel",
-"https://instagram.com/chuckcookfordelegate",
-"https://secure.actblue.com/donate/cook4delegate",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType",
-"https://x.com/Cook4Delegate"
+{
+"text": "Cook for Delegate",
+"href": "https://www.cookfordelegate.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cook4delegate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.cookfordelegate.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.cookfordelegate.com"
+},
+{
+"text": "MEET CHUCK",
+"href": "https://www.cookfordelegate.com/meet-chuck"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.cookfordelegate.com/the-issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ChuckCookForAnneArundel/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/Cook4Delegate"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/cook4delegate"
+},
+{
+"text": "[image]",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/VoterType"
+},
+{
+"text": "[image]",
+"href": "https://www.cookfordelegate.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/chuckcookfordelegate/"
+},
+{
+"text": "chuck@cookfordelegate.com",
+"href": "mailto:chuck@cookfordelegate.com"
+}
 ]

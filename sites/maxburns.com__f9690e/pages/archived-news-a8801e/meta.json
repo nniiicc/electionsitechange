@@ -1,9 +1,9 @@
 {
  "description": "Explore the Archived News section for updates and insights from Max Burns, candidate for State Senate, and stay informed on political developments.",
  "final_url": "https://maxburns.com/archived-news",
- "paid_for_by": null,
+ "fingerprint": "8948e2bcd55e8f81e105ed03ca08e7174179f65c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Archived News",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

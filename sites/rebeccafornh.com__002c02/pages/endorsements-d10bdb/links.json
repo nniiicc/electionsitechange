@@ -1,24 +1,90 @@
 [
-"https://314action.org/",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSdfKhK2MJka7XDuNzuNWHLGKSopoWre_nd2CFYADvF43PMzYQ/viewform?usp=preview",
-"https://emilyslist.org/",
-"https://facebook.com/profile.php?id=61583707686254",
-"https://instagram.com/rebeccafornh",
-"https://momsrising.org/campaigns/new-hampshire",
-"https://naswnh.socialworkers.org/",
-"https://newpolitics.org/",
-"https://nh.aft.org/",
-"https://pffnh.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-new-hampshire-action-fund",
-"https://radmovement.org/nh",
-"https://rebeccafornh.com/",
-"https://rebeccafornh.com/about",
-"https://rebeccafornh.com/get-involved",
-"https://rebeccafornh.com/news",
-"https://rebeccafornh.com/our-priorities",
-"https://secure.actblue.com/donate/rebecca-harned-nh",
-"https://seiu1984.org/",
-"https://teamsters633.com/",
-"https://thenext50.us/candidates?class=2025-2026&state=NH"
+{
+"text": "About",
+"href": "https://www.rebeccafornh.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.rebeccafornh.com/get-involved"
+},
+{
+"text": "Invest",
+"href": "https://secure.actblue.com/donate/rebecca-harned-nh"
+},
+{
+"text": "Join Us",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdfKhK2MJka7XDuNzuNWHLGKSopoWre_nd2CFYADvF43PMzYQ/viewform?usp=preview"
+},
+{
+"text": "Learn More",
+"href": "https://naswnh.socialworkers.org/"
+},
+{
+"text": "Learn More",
+"href": "https://seiu1984.org/"
+},
+{
+"text": "Learn more",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.momsrising.org/campaigns/new-hampshire"
+},
+{
+"text": "Learn more",
+"href": "https://www.pffnh.org/"
+},
+{
+"text": "Learn more",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-new-hampshire-action-fund"
+},
+{
+"text": "News",
+"href": "https://www.rebeccafornh.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.rebeccafornh.com/our-priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Rebecca Harned for New Hampshire State Senate]",
+"href": "https://www.rebeccafornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61583707686254"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rebeccafornh/"
+},
+{
+"text": "learn more",
+"href": "https://nh.aft.org/"
+},
+{
+"text": "learn more",
+"href": "https://radmovement.org/nh/"
+},
+{
+"text": "learn more",
+"href": "https://teamsters633.com/"
+},
+{
+"text": "learn more",
+"href": "https://thenext50.us/candidates/?class=2025-2026&state=NH"
+},
+{
+"text": "learn more",
+"href": "https://www.314action.org/"
+},
+{
+"text": "learn more",
+"href": "https://www.newpolitics.org/"
+}
 ]

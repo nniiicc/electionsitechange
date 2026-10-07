@@ -1,10 +1,1 @@
-Contact
-Send Jana a Message
-Contact Information
-Address
-Jana Hughes for Legislature
-1825 Deer Run Drive
-Seward, NE 68434
-Jana Hughes for Legislature
-1825 Deer Run Drive
-Seward, NE 68434
+About Jana Issues District 24 Contact Volunteer Donate Select Page Contact Send Jana a Message Name Email Address Subject Message Send Contact Information Address Jana Hughes for Legislature 1825 Deer Run Drive Seward, NE 68434 Follow About Jana Issues District 24 Contact Volunteer Donate Paid for by Jana Hughes for Legislature | 1825 Deer Run Drive, Seward NE 68434 | ©# Follow

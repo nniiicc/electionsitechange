@@ -1,6 +1,3 @@
-Columbia Mayor Chaz Molder Campaigns in Union City
-June 5, 2026
-Tennessee 5th District Congressional candidate Chaz Molder made a recent stop in Union City.
+Skip to content Chaz Molder for Congress Meet Chaz News Issues Yard Sign Store Stay Informed Donate Columbia Mayor Chaz Molder Campaigns in Union City June 5, 2026 Tennessee 5th District Congressional candidate Chaz Molder made a recent stop in Union City.
 Molder is a Democratic candidate who was introduced to local constituents by former United States Congressman John Tanner.
-While in Union City, Molder told Thunderbolt News about his campaign.
-…
+While in Union City, Molder told Thunderbolt News about his campaign. … Read the full article Posts navigation Previous Next Meet Chaz Issues Stay Informed Donate Resources Facebook Instagram Twitter X Threads Tik Tok Paid for by Molder for Congress Molder for CongressPO Box 1468Columbia, TN 38402 Privacy Policy

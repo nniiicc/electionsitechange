@@ -1,5 +1,4 @@
-Erica
-A very famous saying in this world is “Music is the Language of the Soul.” Growing up with a strong musical foundation, given to me by the Elmbrook school district as a student, set me on a path to want to teach and share the gift of music with students.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Erica More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett A very famous saying in this world is “Music is the Language of the Soul.” Growing up with a strong musical foundation, given to me by the Elmbrook school district as a student, set me on a path to want to teach and share the gift of music with students.
 On my journey participating in choirs and music programs, my eyes opened to the communities music creates, the acceptance in others it fosters, and the magical ways it can bring people from different backgrounds and beliefs together.
 Through music, my heart expanded and I learned more and more to accept people and their truths.
 The people I sang with in choir and the personal stories and emotions shared by composers enlightened me to many aspects of the human experience.
@@ -14,4 +13,4 @@ Robyn’s ability to listen to teachers about what they need for students is imp
 Her fight for us to be fairly represented as a new larger liberal group of residents is important to me.
 And her support of a health care system that will get us through Covid-19 and then support us all after it is over, providing for students, parents, elderly and essential workers who will be nursing hidden mental wounds is important to me.
 Who Robyn is and what she stands for is important to me.
-The only path I see forward is one through empathy and kindness and remembering that LOVE WINS. – Erica
+The only path I see forward is one through empathy and kindness and remembering that LOVE WINS. – Erica More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

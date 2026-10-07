@@ -1,13 +1,6 @@
-Issues
-An Economy for Everyone
-By focusing on small businesses, workers and affordability, we can build a thriving economy that works for all Hoosiers.
-Public Safety
-Public safety starts with giving our local police, fire, and EMS the funding they need to do their jobs.
-Public Education
-Providing a high quality education to all Hoosier children requires fully and equitably funding our public schools.
-Healthcare
-Health care can be affordable, accessible, and guided by doctors, not politicians.
-Our Environment
-From clean water to clean, affordable energy, we must work together to protect our health and resources.
-Good Governance
-Every day, and in every vote, my mandate is clear: I go to work for the people of my district and this State—not other interests.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Issues Carey Hamilton 1/23/26 Carey Hamilton 1/23/26 An Economy for Everyone By focusing on small businesses , workers and affordability, we can build a thriving economy that works for all Hoosiers.
+Read More Carey Hamilton 1/20/26 Carey Hamilton 1/20/26 Public Safety Public safety starts with giving our local police, fire, and EMS the funding they need to do their jobs.
+Read More Carey Hamilton 7/14/24 Carey Hamilton 7/14/24 Public Education Providing a high quality education to all Hoosier children requires fully and equitably funding our public schools.
+Read More Carey Hamilton 7/14/24 Carey Hamilton 7/14/24 Healthcare Health care can be affordable , accessible , and guided by doctors , not politicians.
+Read More Carey Hamilton 7/14/24 Carey Hamilton 7/14/24 Our Environment From clean water to clean, affordable energy , we must work together to protect our health and resources .
+Read More Carey Hamilton 7/14/24 Carey Hamilton 7/14/24 Putting People First Every day, and in every vote, my mandate is clear: I go to work for the people of my district and this state— not special interests. ‍ ‍ Read More Paid for and authorized by the Committee to Elect Carey Hamilton

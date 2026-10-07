@@ -1,18 +1,82 @@
 [
-"https://cart/",
-"https://docs.google.com/forms/d/12JFGR4Ngqn5F5uv5KV4Si5CUnOFQJ8Ol1JjSKAu1s0o/edit?ts=6aab187a",
-"https://docs.google.com/forms/d/e/1FAIpQLSezlxGsNIRLXGYmIrbnVBIVQp6bpuNuXfD9Y-0DR34QrAqGmg/viewform",
-"https://facebook.com/sam.husseini",
-"https://instagram.com/meaningmonster?igsh=ZDNlZDc0MzIxNw%3D%3D",
-"https://samhusseini.com/",
-"https://samhusseini.com/about",
-"https://samhusseini.com/donate",
-"https://samhusseini.com/issues",
-"https://samhusseini.com/press",
-"https://samhusseini.com/privacy-policy",
-"https://samhusseini.com/resources",
-"https://samhusseini.com/terms-and-conditions",
-"https://samhusseini.com/volunteer",
-"https://twitter.com/samhusseini",
-"https://zeffy.com/en-US/peer-to-peer/sam-husseini-for-congress"
+{
+"text": "About",
+"href": "https://samhusseini.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.zeffy.com/en-US/peer-to-peer/sam-husseini-for-congress"
+},
+{
+"text": "Donate to Sam Husseini for Congress",
+"href": "https://samhusseini.com/donate"
+},
+{
+"text": "Events",
+"href": "https://samhusseini.com/events"
+},
+{
+"text": "Host a HOUSE PARTY",
+"href": "https://docs.google.com/forms/d/12JFGR4Ngqn5F5uv5KV4Si5CUnOFQJ8Ol1JjSKAu1s0o/edit?ts=6aab187a"
+},
+{
+"text": "Issues",
+"href": "https://samhusseini.com/issues"
+},
+{
+"text": "Press",
+"href": "https://samhusseini.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://samhusseini.com/privacy-policy"
+},
+{
+"text": "Resources for Supporters",
+"href": "https://samhusseini.com/resources"
+},
+{
+"text": "Sign up to host a meet and greet fundraiser for Sam Husseini for Congress!",
+"href": "https://docs.google.com/forms/d/12JFGR4Ngqn5F5uv5KV4Si5CUnOFQJ8Ol1JjSKAu1s0o/edit?ts=6aab187a"
+},
+{
+"text": "Sign up today to be part of this transformative journey and make a meaningful impact on our shared future.",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSezlxGsNIRLXGYmIrbnVBIVQp6bpuNuXfD9Y-0DR34QrAqGmg/viewform"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://samhusseini.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://samhusseini.com/volunteer"
+},
+{
+"text": "Volunteer Signup",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSezlxGsNIRLXGYmIrbnVBIVQp6bpuNuXfD9Y-0DR34QrAqGmg/viewform"
+},
+{
+"text": "[image: Sam Husseini For Congress]",
+"href": "https://samhusseini.com"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSezlxGsNIRLXGYmIrbnVBIVQp6bpuNuXfD9Y-0DR34QrAqGmg/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sam.husseini"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/samhusseini"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/meaningmonster?igsh=ZDNlZDc0MzIxNw%3D%3D"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

@@ -1,3 +1,21 @@
-Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act
-“It is for the classroom, the workplace, as well as in housing.
+Skip to content Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Facebook Instagram Twitter DONATE Facebook Instagram Twitter Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media DONATE VOLUNTEER In The News Share on facebook Share on twitter Share on reddit Garland Lawmaker Takes on Issue of Hair Discrimination, Re-Files CROWN Act “It is for the classroom, the workplace, as well as in housing.
 Students have been held from graduation, they have been kept from the prom, they have been pulled off of basketball courts,” said Bowers.
+Read More » January 23, 2023 At Paul Quinn College in Dallas, Beto O’Rourke promises not to take Black voters for granted – DMN “In order for us to do this, to get Texas on the right track, we have to make sure that we’re listening to and serving all of those among us, including the most vulnerable,” she said.
+“We’ve got to make sure that everyone can vote.” Read More » February 14, 2022 Redistricting “I am looking forward to having you in the district, working alongside you, and having the chance to serve you in the Texas House.” Read More » February 14, 2022 Gun Safety Rhetta strongly believes that we can and need to curtail gun violence in our communities and schools with common sense safety measures.
+Read More » February 14, 2022 Jobs Rhetta supports our local economy and our small business owners within our communities, as they are the heart of our communities.
+Read More » February 14, 2022 Education Rhetta believes we need to increase teacher pay, provide additional training and support for our teachers, and fully fund all day Pre-K.
+Read More » February 14, 2022 Criminal Justice Reform & Racial Justice Rhetta will continue to work with leadership at all levels of government and others in our community who are unafraid to have the uncomfortable conversations necessary to find solutions, eliminate racial inequities, and eradicate racism.
+Read More » February 14, 2022 Healthcare – Texans Need Affordable Healthcare Rhetta knows there is more work to do to make healthcare affordable and accessible for all Texans.
+Read More » February 14, 2022 An Open Letter to the Voters of Texas House District 113 I have gotten to know you, and you have gotten to know me.
+We have shopped at the same grocery stores, eaten together at local restaurants, supported our school teams and marching bands under the Friday night lights, attended PTA meetings, and watched as our community and families grew together.
+I am someone who understands the needs of our community and can be counted on to serve you.
+Read More » October 24, 2020 Barack Obama Endorsement [vc_row][vc_column][vc_column_text]I am humbled and overjoyed to have once again received the endorsement of former President Barack Obama, for re-election as State Representative for TX House Read More » August 3, 2020 « Previous Page 1 Page 2 Page 3 Page 4 Page 5 Next » Share on facebook Share on twitter Share on linkedin Share on whatsapp About Rhetta Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
+She made history elected as the first African American to represent this district.
+House District 113 includes all or parts of Rowlett, Garland, Mesquite, Sunnyvale, Seagoville, Combine, Balch Springs, and Dallas.
+Facebook-f Twitter Instagram Recent Posts Rhetta Bowers on FOX 4 News on the CROWN Act Read More » Rhetta Bowers in one of Texas’ hottest contests for the November midterms Read More » Rhetta at Monday Night Politics Read More » Search Help us deliver on our promises for the people of District 113 Donate Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Email Join Now Email Join Now ISSUES VOTE ABOUT Facebook Instagram Twitter Copyright ©# | Political advertising paid for by the Rhetta Andrews Bowers Campaign Go to Top

@@ -1,12 +1,46 @@
 [
-"https://jeremywooldridge.com/",
-"https://jeremywooldridge.com/about",
-"https://jeremywooldridge.com/news",
-"https://jeremywooldridge.com/privacy",
-"https://jeremywooldridge.com/terms",
-"https://jeremywooldridge.com/volunteer",
-"https://jeremywooldridge.com/voting-info",
-"https://secure.winred.com/jeremy-wooldridge-for-state-senate-11e63208/donate-today",
-"https://voterview.ar-nova.org/VoterView",
-"https://youtube.com/@JeremyWooldridgeForArSenate"
+{
+"text": "Click here to find your voting location",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jeremy-wooldridge-for-state-senate-11e63208/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.jeremywooldridge.com/"
+},
+{
+"text": "Meet Jeremy",
+"href": "https://www.jeremywooldridge.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.jeremywooldridge.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeremywooldridge.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jeremywooldridge.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeremywooldridge.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.jeremywooldridge.com/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://www.jeremywooldridge.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@JeremyWooldridgeForArSenate"
+}
 ]

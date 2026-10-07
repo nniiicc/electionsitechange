@@ -1,5 +1,4 @@
-Meet Mike Thurow
-Mike Thurow grew up in Mequon, Wi, in a middle-class family where hard work and responsibility were expected.
+× Chip in to support Mike Thurow for Congress DONATE WITH ACTBLUE DONATE WITH NUMERO Or, sign up to volunteer ➔ Skip to Content Open Menu Close Menu Home About Events Platform 0 0 Volunteer Home About Events Platform 0 0 Volunteer Open Menu Close Menu Home About Events Platform Volunteer Meet Mike Thurow Mike Thurow grew up in Mequon, Wi, in a middle-class family where hard work and responsibility were expected.
 His father, a U.S.
 Navy veteran, worked at Marquette Electronics, and his mother worked long hours as a nurse practitioner while raising three sons.
 From an early age, Mike saw how much effort it takes for working families to stay afloat.
@@ -14,3 +13,5 @@ His experiences reinforced his belief that the government should work for the pe
 Now as a husband to his high-school sweetheart and father to four children Mike is focused on building a future where his children, and all children, have the opportunity to succeed.
 Conversations with his oldest child and seeing the American dream disappear at the hands of corrupt politicians from both parties and corporate interests pushed Mike to step forward.
 He is running as an independent candidate for Congress in Wisconsin’s 6th District to challenge a broken political system and bring back an affordable America where working families can succeed.
+Get involved with Team Thurow Donate Volunteer Privacy Policy Contact Press Checks can be mailed to: 124 W Freistadt Rd, Box 154 Thiensville, WI PAID FOR BY MIKE THUROW FOR CONGRESS ©# Mike Thurow for Congress.
+All rights reserved.

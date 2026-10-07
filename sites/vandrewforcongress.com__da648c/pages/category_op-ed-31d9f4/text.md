@@ -1,5 +1,19 @@
-Van Drew: “A Failure in New Jersey, a Warning for America”
-August 31, 2026 — Last month, New Jersey officials acknowledged a massive failure in the state’s election safeguards.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Category: Op-Ed Op-Ed Van Drew: “A Failure in New Jersey, a Warning for America” August 31, 2026 — Last month, New Jersey officials acknowledged a massive failure in the state’s election safeguards.
 Approximately 6,600 people who self-identified as noncitizens were registered to vote while obtaining driver’s licenses or identification cards.
 Roughly 400 of those noncitizens actually cast ballots in New Jersey elections.
-This breakdown in basic election safeguards should […]
+This breakdown in basic election safeguards should […] Read More Op-Ed Van Drew: New Jersey Engineered its own Energy Crisis January 13, 2026 — Every month, families across New Jersey open their electric bills and ask the same question: How did it get this bad?
+I hear this question at diners, in the grocery store and from concerned constituents across the district who do not understand how we reached this point.
+The answer is not […] Read More Op-Ed Van Drew: Why South Jersey Needs Congressional Hearings on Offshore Wind Energy Since the very beginning, I have expressed my heartfelt concerns that these offshore wind projects are moving far too quickly and have failed to receive proper vetting and local input.
+In the years following their announcement, my concerns have only continued to mount.
+I am tired of being misled by big corporations, lectured by elites […] Read More Op-Ed Van Drew: “What would the World look like without America?” December 21, 2022 — As Americans, it’s a question we hardly ever stop to ponder – “What would the World look like without the United States of America?” Perhaps we should.
+Especially at a time when there are so many out there trying to tell us there is nothing special or exceptional about the America […] Read More Op-Ed Van Drew to Allegedly ‘Moderate’ Dems: “WHERE THE HELL HAVE YOU BEEN?” April 20, 2022 — By United States Congressman Jeff Van Drew (R – South Jersey) As Biden’s poll numbers continue to plummet and Election Day nears, I can’t help but ask this group of allegedly ‘moderate’ Democrats suddenly willing to buck their party’s leadership a very simple question – “WHERE THE HELL HAVE YOU BEEN […] Read More Op-Ed An Unapologetic Defense of American Exceptionalism By United States Congressman Jeff Van Drew (R-South Jersey) I never thought I would see the day when the front page headline in one of my hometown newspapers would read “Celebrate America?” and openly ask readers “Is there anything to praise?”…let alone in the Independence Day edition.
+There are people out there who want us […] Read More Op-Ed Van Drew to Challenge Electoral College Certification Over the last few months, tens of millions of Americans have raised legitimate questions and concerns about the manner in which we conduct our elections.
+Did Governors have the constitutional authority to unilaterally change election laws without the approval of their respective state legislatures?
+How accurate were the voter rolls that were used to send […] Read More Op-Ed Op-Ed: One year after I changed parties, the Democrats continue to hit new lows.
+One year ago, I sat next to President Trump in the Oval Office and announced that I would be walking away from the Democrat Party and becoming a Republican.
+It was a truly historic decision in that it marked the first time a member of Congress had left the majority party and joined the minority […] Read More Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

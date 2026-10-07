@@ -1,13 +1,46 @@
 [
-"http://ashleeforutah.com/",
-"https://ashleeforutah.com/",
-"https://ashleeforutah.com/about-ashlee",
-"https://ashleeforutah.com/contact",
-"https://ashleeforutah.com/endorsements",
-"https://ashleeforutah.com/new-district-boundaries",
-"https://ashleeforutah.com/our-platform-2",
-"https://ashleeforutah.com/volunteer",
-"https://facebook.com/AshleeforUtah",
-"https://secure.actblue.com/donate/ashlee-matthews-for-utah-1",
-"https://twitter.com/AshleeUT38"
+{
+"text": "About Me",
+"href": "https://www.ashleeforutah.com/about-ashlee/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleeforutah.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ashlee-matthews-for-utah-1"
+},
+{
+"text": "District 37 Boundaries",
+"href": "https://www.ashleeforutah.com/new-district-boundaries/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleeforutah.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AshleeforUtah"
+},
+{
+"text": "Home",
+"href": "http://www.ashleeforutah.com/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.ashleeforutah.com/our-platform-2/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ashleeforutah.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/AshleeUT38"
+},
+{
+"text": "[image: Ashlee Matthews]",
+"href": "https://www.ashleeforutah.com/"
+}
 ]

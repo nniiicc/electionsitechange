@@ -1,11 +1,10 @@
-Public education shouldn't be an afterthought.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Public education shouldn't be an afterthought.
 Florida families deserve real opportunity.
 And that starts with strong public schools.
-David Jolly believes public education should be Florida's foundation, not an afterthought.
+In short David Jolly believes public education should be Florida's foundation, not an afterthought.
 His plan focuses on paying teachers what they deserve, investing in school infrastructure and resources, and ensuring every child has access to strong public schools regardless of zip code.
 He argues Florida needs a public education renaissance, not abandonment, because strong public schools strengthen communities, support families, and build the workforce Florida's future depends on.
-David Jolly on Public Education
-This isn't what real school choice looks like.
+David Jolly on Public Education This isn't what real school choice looks like.
 For years, Florida politicians have talked about school choice as if it is the answer to everything.
 But for many families, that “choice” doesn’t actually exist.
 Because when public schools are underfunded, understaffed, and left behind, families aren’t choosing between great options.
@@ -25,10 +24,7 @@ Florida doesn’t need to abandon public education.
 It needs a renaissance.
 Every child deserves a real shot.
 That starts with schools we are willing to invest in.
-Get involved in the fight for Florida's public schools
-Join the movement
-Frequently asked questions
-Q.
+Get involved in the fight for Florida's public schools Join the movement Frequently asked questions Q.
 Why are so many teachers leaving Florida?
 Florida opened the 2024-25 school year with nearly 10,000 vacant positions, including over 5,000 teacher roles.
 The main reason is pay: Florida's average teacher salary ranks 50th of 51 states nationally (only Mississippi is worse), and teachers also cite high cost of living and Florida's political climate as reasons to leave.
@@ -47,9 +43,12 @@ Jolly's plan to raise teacher pay statewide would help rural districts compete f
 Q.
 How are Florida public schools currently funded?
 Florida K-12 public schools are funded primarily through the Florida Education Finance Program (FEFP), which combines state appropriations, local property tax revenue, and federal funds.
-Florida's per-pupil spending is approximately $12,400, ranking 8th lowest among U.S. states.
+Florida's per-pupil spending is approximately $# ranking 8th lowest among U.S. states.
 Q.
 Is the federal government taking over education policy?
 No.
 Federal funding is under 10% of total K-12 spending, and federal law explicitly gives states control over curriculum, funding, teacher policy, and school choice.
 State-level governance (governor and legislature) is the dominant driver of school quality, which is why a Florida governor's education plan has more impact on Florida students than any federal change.
+Explore this issue In depth Education Interview About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

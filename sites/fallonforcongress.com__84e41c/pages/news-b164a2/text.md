@@ -1,3 +1,1 @@
-The Mark Levin Show
-The Mark Davis Show on WBAP News Talk 820 AM
-The Chris Salcedo Show on WBAP News Talk 820 AM
+Toggle navigation Home Meet Pat Issues Endorsements News Volunteer Contact Fake News Donate Donate News Pat Fallon on The Mark Levin Show October 9, 2020 The Mark Levin Show Pat Fallon on The Mark Davis Show August 19, 2020 The Mark Davis Show on WBAP News Talk 820 AM Pat Fallon on The Chris Salcedo Show August 18, 2020 The Chris Salcedo Show on WBAP News Talk 820 AM Home Meet Pat Issues Endorsements News Volunteer Contact Fake News Donate Paid for by Fallon for Congress PO Box 1445 Frisco, TX 75034 Contact | Privacy Policy

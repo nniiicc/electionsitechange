@@ -1,3 +1,5 @@
-Since 2019, Democrat Jennifer Gong-Gershowitz has represented this north suburban district, centered in Glenview and including parts of Wilmette, Evanston, Skokie and Northbrook.
+P.O.
+Box 3042 Glenview, Illinois 60025 Email: Jen@JenGGforRep.com Home About Jen Issues News Take Action Donate Volunteer Yard Sign Contact Yearly Archives: 2024 Home 2024 Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz staff October 25, 2024 Since 2019, Democrat Jennifer Gong-Gershowitz has represented this north suburban district, centered in Glenview and including parts of Wilmette, Evanston, Skokie and Northbrook.
 Gong-Gershowitz, 55, is among the leaders in Springfield on sane gun control legislation, including the state’s ban on assault-style weapons and a 2023 law that allows for lawsuits against gunmakers by victims of gun violence.
-She is a thoughtful Democratic voice
+She is a thoughtful Democratic voice Read More Latest News Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Socials Recent Posts Chicago Tribune Endorses Democrat Jennifer Gong-Gershowitz Contact Info Jen@JenGGforRep.com P.O.
+Box 3042 Glenview, Illinois 60025 Take Action Donate Volunteer Yard Sign 2022 Paid for by Friends for Jennifer All rights reserved.

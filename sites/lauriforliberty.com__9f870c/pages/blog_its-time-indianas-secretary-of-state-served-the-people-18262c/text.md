@@ -1,5 +1,4 @@
-It’s Time Indiana’s Secretary of State Served the People
-I grew up in rural Montgomery County.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate It’s Time Indiana’s Secretary of State Served the People Apr 13 Written By Danny Lundy I grew up in rural Montgomery County.
 I know the Hoosier work ethic.
 When something needs to get done, we don’t hesitate.
 We step up and see it through.
@@ -36,6 +35,7 @@ We have to decide it’s time for a change.
 We have to decide we’ve had enough.
 And then we have to vote differently.
 It is time to get back to basics.
-It is time to restore professionalism, accountability, and service to a government that’s supposed to serve the people and put our government back to work for us.
-Lauri Shillings,
-Libertarian candidate for Indiana Secretary of State.
+It is time to restore professionalism, accountability, and service to a government that’s supposed to serve the people and put our government back to work for us .
+Lauri Shillings, Libertarian candidate for Indiana Secretary of State.
+Danny Lundy Previous Previous Interview with Abdul-Hakim Shabazz Next Next Interview with Liberty Dad Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

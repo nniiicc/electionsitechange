@@ -1,9 +1,12 @@
-Affordability
-Fighting to lower costs for Florida families facing rising housing, insurance, and everyday bills.
-Close Slideover
-Fighting to make Florida affordable for the families of Florida House District 19.
-Suzanna Pavelle is committed to building a government that listens, leads with integrity, and delivers real results for the people of District 19.
-Suzanna Pavelle is a dedicated community leader running for Florida House District 19.
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News Suzanna Pavelle for Florida House 19 Fighting to make Florida affordable for the families of Florida House District 19.
+Support The Campaign Meet Suzanna Suzanna Pavelle is committed to building a government that listens, leads with integrity, and delivers real results for the people of District 19.
+Affordability Fighting to lower costs for Florida families facing rising housing, insurance, and everyday bills.
+Learn More Learn More Reasonable Development Supporting responsible growth that protects neighborhoods, roads, water, and the quality of life in District 19.
+Learn More Learn More Education Supporting public schools, backing and paying teachers well, and making sure every child in District 19 has access to a strong education.
+Learn More Learn More Tuesday, November 3, 2026 We Deserve a Government that Works for Us Meet Suzanna Pavelle Suzanna Pavelle is a dedicated community leader running for Florida House District 19.
 A small business owner and lifelong advocate for working families, Suzanna understands that Florida’s challenges from affordability, to education, to healthcare require bold, yet practical solutions.
 With deep roots in her community and a passion for public service, Suzanna is committed to fighting for every family in District 19.
 She believes that government should work for the people, not special interests.
+Priorities Get Involved Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

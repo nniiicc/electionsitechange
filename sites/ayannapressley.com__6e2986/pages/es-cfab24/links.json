@@ -1,37 +1,158 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayanna-pressley.com/es/ella-es-ayanna",
-"https://ayanna-pressley.com/es/prioridades",
-"https://ayanna-pressley.com/es/voluntarios",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/es/contactanos",
-"https://ayannapressley.com/es/ella-es-ayanna",
-"https://ayannapressley.com/es/informacion-de-votantes",
-"https://ayannapressley.com/es/prioridades",
-"https://ayannapressley.com/es/prioridades/ampliando-la-oportunidad-educativa",
-"https://ayannapressley.com/es/prioridades/de-pie-con-la-comunidad-lgbtq",
-"https://ayannapressley.com/es/prioridades/politica-exterior-centrada-en-la-empatia-y-la-busqueda-de-la-paz",
-"https://ayannapressley.com/es/prioridades/transformando-nuestro-sistema-de-injusticia-criminal",
-"https://ayannapressley.com/es/prioridades/un-sistema-migratorio-justo-y-compasivo",
-"https://ayannapressley.com/es/privacidad",
-"https://ayannapressley.com/es/voluntarios",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/terms-of-services",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://shop.ayannapressley.com/collections/accessories/products/sticker-1",
-"https://shop.ayannapressley.com/collections/apparel/products/campaign-tee",
-"https://shop.ayannapressley.com/collections/apparel/products/pride-tank",
-"https://shop.ayannapressley.com/collections/apparel/products/squad-tee",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Abordar el impacto de la violencia y el trauma",
+"href": "https://ayannapressley.com/es/prioridades/ampliando-la-oportunidad-educativa/"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Contacto",
+"href": "https://ayannapressley.com/es/contactanos/"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Ella es Ayanna",
+"href": "https://ayannapressley.com/es/ella-es-ayanna/"
+},
+{
+"text": "Enfrentando la Crisis Climática",
+"href": "https://ayannapressley.com/es/prioridades/un-sistema-migratorio-justo-y-compasivo/"
+},
+{
+"text": "Eventos",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Información de votantes",
+"href": "https://ayannapressley.com/es/informacion-de-votantes/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "La vivienda como derecho humano",
+"href": "https://ayannapressley.com/es/prioridades/transformando-nuestro-sistema-de-injusticia-criminal/"
+},
+{
+"text": "Lee la historia de Ayanna",
+"href": "https://ayanna-pressley.com/es/ella-es-ayanna/"
+},
+{
+"text": "Luchando por una economía justa",
+"href": "https://ayannapressley.com/es/prioridades/politica-exterior-centrada-en-la-empatia-y-la-busqueda-de-la-paz/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Prioridades",
+"href": "https://ayannapressley.com/es/prioridades/"
+},
+{
+"text": "Privacidad",
+"href": "https://ayannapressley.com/es/privacidad/"
+},
+{
+"text": "Tienda",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Transformando Nuestro Sistema Legal",
+"href": "https://ayannapressley.com/es/prioridades/de-pie-con-la-comunidad-lgbtq/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Ver todas las prioridades",
+"href": "https://ayanna-pressley.com/es/prioridades/"
+},
+{
+"text": "Visita la tienda",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Voluntarios",
+"href": "https://ayanna-pressley.com/es/voluntarios/"
+},
+{
+"text": "Voluntarios",
+"href": "https://ayannapressley.com/es/voluntarios/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[image] Calcomanía de Mi Congresista (Paquete de 5) $12.00",
+"href": "https://shop.ayannapressley.com/collections/accessories/products/sticker-1"
+},
+{
+"text": "[image] Camiseta Pride Ayanna $35.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/pride-tank"
+},
+{
+"text": "[image] Camiseta de La Squad $20.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/squad-tee"
+},
+{
+"text": "[image] Camiseta de la Campaña $30.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/campaign-tee"
+},
+{
+"text": "privacy policy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://ayannapressley.com/terms-of-services/"
+},
+{
+"text": "¡Adelante!",
+"href": "https://ayanna-pressley.com/es/voluntarios/"
+}
 ]

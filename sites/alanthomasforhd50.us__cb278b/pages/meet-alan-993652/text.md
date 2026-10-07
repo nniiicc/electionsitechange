@@ -1,7 +1,9 @@
-Signed in as:
-filler@godaddy.com
+Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Alan Thomas for Alabama House District 50 Home Meet Alan Defending your rights Events Shop More Home Meet Alan Defending your rights Events Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home Meet Alan Defending your rights Events Shop Account Orders My Account Sign out Sign In Orders My Account Alabama Born.
+Alabama Raised.
+Let's make Alabama freer, more prosperous, and more just for every person, every generation.
+Together.
 "I prefer peace.
-But if trouble must come, let it come in my time, so that my children may have peace" -Thomas Paine
+But if trouble must come, let it come in my time, so that my children may have peace" -Thomas Paine Hello, neighbor...
 My name is Alan Thomas, Present, Accounted for, and Running to represent Alabama’s House District 50.
 I was born and raised in Birmingham, in a family that believed in hard work, personal responsibility, and taking care of your neighbors.
 My father worked three jobs, including as a tailor for our first responders, to send me to school.
@@ -11,7 +13,7 @@ I learned early that opportunity doesn’t just happen.
 It’s built.
 It’s protected.
 And sometimes, it has to be fought for.
-At Altamont, I became the youngest Senior Editor of the Acta Diurna, writing about constitutional freedoms and the First Amendment.
+At Altamont, I became the youngest Senior Editor of the Acta Diurna , writing about constitutional freedoms and the First Amendment.
 Later, I studied developmental psychology and constitutional law at Auburn University and continued my graduate work at the University of North Carolina at Chapel Hill.
 But no matter where my education took me, my roots, and my heart, have always been in Alabama.
 Service runs in my family.
@@ -48,5 +50,5 @@ Join me on the road to Montgomery.
 Let's do better, together.
 Let's get loud.
 Let's Go, District 50!
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Instagram Follow me on Instagram Endorsements Backed by Those Who Know the Work Connect With Alan Copyright © # Alan Thomas for Alabama House District 50 - All Rights Reserved.
+Paid for by the Alan Thomas for HD50 Committee Powered by Privacy Policy Terms and Conditions

@@ -1,7 +1,11 @@
 {
  "description": "Melissa Perry Campaign Events",
  "final_url": "https://perryformo.com/Events?range=2026-10",
- "paid_for_by": null,
+ "fingerprint": "759451f43a34c80235b752fb2c9057e7be261d9a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Melissa Perry Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

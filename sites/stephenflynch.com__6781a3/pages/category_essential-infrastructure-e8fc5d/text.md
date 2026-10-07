@@ -1,19 +1,18 @@
-by Jay Cincotti | May 14, 2026 | 8th Congressional District, Essential Infrastructure, News & Updates, Protecting the Post Office
-Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that’s now receiving...
-by Jay Cincotti | Jun 18, 2025 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, National Security, News & Updates
-Rep.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order by Jay Cincotti | May 14, 2026 | 8th Congressional District , Essential Infrastructure , News & Updates , Protecting the Post Office Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that’s now receiving...
+US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work by Jay Cincotti | Jun 18, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , National Security , News & Updates Rep.
 Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
-by Jay Cincotti | Feb 23, 2025 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates
-By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
-by Jay Cincotti | Mar 8, 2023 | 8th Congressional District, Essential Infrastructure, News & Updates
-By Travis Andersen Globe Staff,Updated March 8, 2023, 3:18 p.m.
+Lynch warns as job cuts continue by Jay Cincotti | Feb 23, 2025 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
+US Representative Lynch seeking review of flight operations at Logan Airport after safety incidents by Jay Cincotti | Mar 8, 2023 | 8th Congressional District , Essential Infrastructure , News & Updates By Travis Andersen Globe Staff,Updated March 8, 2023, 3:18 p.m.
 Representative Stephen F.
 Lynch is seeking an “urgent review” of flight operations by the FAA after “troubling” recent safety incidents at Boston Logan International Airport.
 Lynch, a South Boston...
-by Sam Dallaire | Aug 31, 2022 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates
-WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
-Click here to watch interview
-by Sam Dallaire | Aug 19, 2022 | 8th Congressional District, Essential Infrastructure, News & Updates
-WCVB-TV A Massachusetts congressman who serves on the House Committee on Transportation and Infrastructure says he is in favor of federal authorities taking more direct control over the troubled MBTA.
+Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety by Sam Dallaire | Aug 31, 2022 | 8th Congressional District , Essential Infrastructure , Jobs & Economic Opportunity , News & Updates WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
+Click here to watch interview Rep.
+Lynch, transportation commitee member, advocates for receivership of MBTA by Sam Dallaire | Aug 19, 2022 | 8th Congressional District , Essential Infrastructure , News & Updates WCVB-TV A Massachusetts congressman who serves on the House Committee on Transportation and Infrastructure says he is in favor of federal authorities taking more direct control over the troubled MBTA.
 Rep.
-Stephen Lynch, a Democrat whose district includes part...
+Stephen Lynch, a Democrat whose district includes part... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

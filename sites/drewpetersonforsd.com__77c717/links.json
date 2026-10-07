@@ -1,9 +1,26 @@
 [
-"https://app.hubspot.com/pages/21742542/editor/213198705460",
-"https://drewpetersonforsd.com/?hsLang=en",
-"https://drewpetersonforsd.com/privacy-policy?hsLang=en",
-"https://drewpetersonforsd.com/terms-conditions-sms?hsLang=en",
-"https://sdsos.gov/elections-voting/assets/AbsenteeApplication_202012.PDF",
-"https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf",
-"https://vip.sdsos.gov/VIPLogin.aspx"
+{
+"text": "Go to Website",
+"href": "https://sdsos.gov/elections-voting/assets/AbsenteeApplication_202012.PDF"
+},
+{
+"text": "Go to Website",
+"href": "https://sdsos.gov/elections-voting/assets/VoterRegistrationFormFillable.pdf"
+},
+{
+"text": "Go to Website",
+"href": "https://vip.sdsos.gov/VIPLogin.aspx"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.drewpetersonforsd.com/privacy-policy?hsLang=en"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.drewpetersonforsd.com/terms-conditions-sms?hsLang=en"
+},
+{
+"text": "[image: Drew Peterson for District 19 House Logo]",
+"href": "https://www.drewpetersonforsd.com/?hsLang=en"
+}
 ]

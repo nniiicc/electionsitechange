@@ -1,8 +1,5 @@
-October 20, 2017
-Our joint budget priorities illustrate our commitment to making San Diego an equitable city that is growing responsibly and addressing the needs of all neighborhoods and residents.
-The following are our priorities for funding in the Fiscal Year 2018 budget:
-Police Department
-Public safety remains our highest budget priority.
+About Media Press Releases News Articles Memos OPPORTUNITY EDU DREAMING BIG | WORKING HARD Donate Memos Budget Priorities for Fiscal Year 2018 October 20, 2017 Our joint budget priorities illustrate our commitment to making San Diego an equitable city that is growing responsibly and addressing the needs of all neighborhoods and residents.
+The following are our priorities for funding in the Fiscal Year 2018 budget: Public Safety Police Department ‍ Public safety remains our highest budget priority.
 The City must continue to prioritize the recruitment and retention of police officers.
 Although the FY17 adopted budget allocated funding towards recruitment and retention efforts, the increased funding has had little to no effect on attrition rates.
 As such, in FY18, the City should appropriate sufficient funding to conduct an in-depth analysis of attrition to determine how best to modify retention efforts and its recruiting program.
@@ -10,248 +7,154 @@ According to subject matter experts, the City needs a pool of 5,000 applicants t
 Direction for the retention of a third party contractor to anonymously survey sworn and civilian police employees on job satisfaction and organizational commitment and to conduct exit interviews when employees decide to leave was included in the FY17 budget.
 The information gathered through these interviews should provide valuable insight into how best to retain officers into the future.
 As such, using the information the department will gather from this service, an appropriate retention and recruitment strategy and robust marketing effort should be developed and implemented over the course of the next year with a corresponding budgetary allocation in the FY18 budget.
-Funding to Implement AB 953 (Racial and Identity Profiling Act of 2015)
-The regulations are currently out for public comment and expected to be finalized in the next few months.
+Funding to Implement AB 953 (Racial and Identity Profiling Act of 2015) ‍ The regulations are currently out for public comment and expected to be finalized in the next few months.
 The PS&LN Committee requested that San Diego Police Department (SDPD) implement AB 953 once the regulations were completed and bring information about what it would cost to do so.
 The funding needs identified by the department should be included in the FY18 budget.
-Police Performance Measures
-Having adequate performance measures that can be measured from year to year allows the City to be better informed about how to address staffing and operational issues as they arise.
-The FY18 proposed budget should include the following performance measures for the Police Department, including dispatch division:
-- Comparison of actual sworn staffing with the sworn staffing goals remaining in the SDPD five year plan;
-- Budgeted and actual sworn officers per 1,000 population (appeared in FY15, FY14, and FY13 adopted budgets) and how they compare with the average of other large cities;
-- The percentage of 911 calls answered within 10 seconds;
-- The number of 911 calls that were abandoned after waiting longer than 10 seconds;
-- The number of 911 calls with wait times less than 10 seconds, between 10 seconds and 1 minute, between 1 minute and 2 minutes, between 2 minutes and five minutes, between 5 minutes and 10 minutes, and surpassing 10 minutes;
-- Average non-emergency call wait time.
-- The number of non-emergency calls with wait times: 1 minute or less, between 1 minute and 5 minutes, between 5 minutes and 10 minutes, between 10 minutes and 30 minutes, and surpassing 30 minutes;
-- The number of abandoned non-emergency calls, and the number of abandoned non-emergency calls that received a call back;
-- The number of sworn officer hours dedicated to dispatch, and the cost, including overtime pay;
-- Percentage of police dispatcher background checks completed within three months.
-Community Oriented Policing
-We encourage the Mayor and City Council to invest in a community policing philosophy and program that promotes organizational strategies, partnerships, and problem solving techniques between law enforcement, citizens, and neighborhood groups, to proactively address the immediate conditions that may otherwise give rise to public safety issues, such as crime, social disorder and fear of crime.
+Police Performance Measures Having adequate performance measures that can be measured from year to year allows the City to be better informed about how to address staffing and operational issues as they arise.
+The FY18 proposed budget should include the following performance measures for the Police Department, including dispatch division: - Comparison of actual sworn staffing with the sworn staffing goals remaining in the SDPD five year plan; - Budgeted and actual sworn officers per 1,000 population (appeared in FY15, FY14, and FY13 adopted budgets) and how they compare with the average of other large cities; - The percentage of 911 calls answered within 10 seconds; - The number of 911 calls that were abandoned after waiting longer than 10 seconds; - The number of 911 calls with wait times less than 10 seconds, between 10 seconds and 1 minute, between 1 minute and 2 minutes, between 2 minutes and five minutes, between 5 minutes and 10 minutes, and surpassing 10 minutes; - Average non-emergency call wait time. - The number of non-emergency calls with wait times: 1 minute or less, between 1 minute and 5 minutes, between 5 minutes and 10 minutes, between 10 minutes and 30 minutes, and surpassing 30 minutes; - The number of abandoned non-emergency calls, and the number of abandoned non-emergency calls that received a call back; - The number of sworn officer hours dedicated to dispatch, and the cost, including overtime pay; - Percentage of police dispatcher background checks completed within three months.
+Community Oriented Policing We encourage the Mayor and City Council to invest in a community policing philosophy and program that promotes organizational strategies, partnerships, and problem solving techniques between law enforcement, citizens, and neighborhood groups, to proactively address the immediate conditions that may otherwise give rise to public safety issues, such as crime, social disorder and fear of crime.
 It is imperative that the Police Department present a community-policing restoration plan to ensure a robust community policing strategy.
 Specifically, we request that additional Community Relations Officers and multi-lingual Police Officers/Police Service Officers be added as the Police Departments continues to rebuild.
-Filling of Police Civilian Positions
-The restoration of civilian positions to support our sworn officers, particularly dispatchers, has resulted in numerous cost benefits (i.e. reduced staff turnover and overtime costs) and has greatly improved customer service delivery and employee retention and morale.
+Filling of Police Civilian Positions The restoration of civilian positions to support our sworn officers, particularly dispatchers, has resulted in numerous cost benefits (i.e. reduced staff turnover and overtime costs) and has greatly improved customer service delivery and employee retention and morale.
 We request continued effort and resource allocation toward civilian recruitment to allow existing sworn officers to return to patrol duties.
-Nationwide Search for New Police Chief
-Chief Zimmerman is enrolled in the Deferred Retirement Option Plan and is scheduled to retire on or before March, 2018.
+Nationwide Search for New Police Chief Chief Zimmerman is enrolled in the Deferred Retirement Option Plan and is scheduled to retire on or before March, 2018.
 It is important that the search for a new Police Chief commence soon and we must ensure that it is an open and transparent process.
 The public input component should include town halls/workshops in each district to allow the public to weigh in on what qualities are important in our next Chief, as well as have a committee of community members involved in weighing in on the hiring decision.
-Approximate cost: $50,000
-San Diego Fire Stations
-- Fire Station No. 02 (Council District 3)—Bayside/S15042
-The construction of Fire Station No. 02 commenced in Spring 2016 and is expected to open in late 2017, providing much needed public safety services for our growing downtown neighborhoods.
+Approximate cost: $50,000 San Diego Fire Stations - Fire Station No.
+02 (Council District 3)—Bayside/S15042 The construction of Fire Station No.
+02 commenced in Spring 2016 and is expected to open in late 2017, providing much needed public safety services for our growing downtown neighborhoods.
 Annual operating costs for this station should be programmed into the FY18 budget.
-Approximate cost: prorated cost of $1.1 million
-- Home Avenue and College Area Fire Stations (Council District 9)
-The construction of new fire stations on Home Avenue and College Avenue are a high priority.
-San Diego Fire-Rescue Department Paramedic School
-The City Council should be provided an update regarding the plan for a city-operated Paramedic School so that the appropriate staffing levels and financial resources can be identified.
-Lifeguard Division
-In order for our Lifeguard Division to continue to provide exceptional service and safety at our beaches and bays, the following positions should be included in the FY18 budget:
-- Marine Safety Lieutenant: Position would oversee training, hiring, purchasing, facilities, communications, homeland security, special events and beach concessions.
+Approximate cost: prorated cost of $1.1 million - Home Avenue and College Area Fire Stations (Council District 9) The construction of new fire stations on Home Avenue and College Avenue are a high priority.
+San Diego Fire-Rescue Department Paramedic School The City Council should be provided an update regarding the plan for a city-operated Paramedic School so that the appropriate staffing levels and financial resources can be identified.
+Lifeguard Division ‍ In order for our Lifeguard Division to continue to provide exceptional service and safety at our beaches and bays, the following positions should be included in the FY18 budget: - Marine Safety Lieutenant: Position would oversee training, hiring, purchasing, facilities, communications, homeland security, special events and beach concessions.
 The current staffing for these is inadequate and the additional position is required to comply with stated goals and avoid overtime costs.
 The reduction in overtime costs will partially offset the cost of this position.
-Approximate cost: $143,581.
-- Clerical Assistant II: Position will support Lifeguard Division front office operations, such as processing misdemeanor citations, special event billing, invoicing, purchase requisitions, payment transactions, process PRA requests, track division statistics, answer phones.
-Approximate cost: $66,848
-Homeless Services and Outreach Program Expansion
-- In addition to CPPS funds identified for homeless outreach efforts and money raised by community groups, supplementary general funds are needed to ensure that year round outreach services are provided by both outside organizations and the Police Department’s Homeless Outreach Team to help address homelessness in various areas throughout the city, including neighborhood canyons, Business Improvement Districts, park, underpasses and overpasses.
-- In Downtown alone, we have seen a staggering 70% increase over the last three years in unsheltered homeless.
-Specific to the Police Department’s Homeless Outreach Team, we request that an additional HOT Team be added and dedicated to East Village where the need is greatest and allow the other team to focus on neighborhoods throughout the city.
-- We request that funding be identified for substance abuse programs.
+Approximate cost: $143,581. - Clerical Assistant II: Position will support Lifeguard Division front office operations, such as processing misdemeanor citations, special event billing, invoicing, purchase requisitions, payment transactions, process PRA requests, track division statistics, answer phones.
+Approximate cost: $66,848 Homeless Services and Outreach Program Expansion - In addition to CPPS funds identified for homeless outreach efforts and money raised by community groups, supplementary general funds are needed to ensure that year round outreach services are provided by both outside organizations and the Police Department’s Homeless Outreach Team to help address homelessness in various areas throughout the city, including neighborhood canyons, Business Improvement Districts, park, underpasses and overpasses. - In Downtown alone, we have seen a staggering 70% increase over the last three years in unsheltered homeless.
+Specific to the Police Department’s Homeless Outreach Team, we request that an additional HOT Team be added and dedicated to East Village where the need is greatest and allow the other team to focus on neighborhoods throughout the city. - We request that funding be identified for substance abuse programs.
 The current City budget increased the Serial Inebriate Program (SIP) bed capacity from 32 to 56.
 This partnership with law enforcement, emergency medical services, hospitals, and courts provides chronic homeless alcohol abuse treatment in lieu of custody—relieving strain on our hospitals and court system.
 Not only could we continue to increase this program, but we can further expand it to allow those suffering from narcotics abuse similar opportunities.
-Homeless Check-in Center
-In order to ensure that the City is providing a solution to the ever growing homeless population camping on the streets, an 800 bed check-in center/shelter should be funded via a combination of city, county, state, federal funding, as well as soliciting private donations.
-Neighborhood Code Compliance
-The Neighborhood Code Compliance Division of the Development Services Department administers programs designed to protect the public’s health, safety, welfare, and property value through enforcement of the City’s ordinances and State/Federal law relating to land use, zoning, housing, noise, public nuisances, graffiti abatement, and vegetation/fire hazard abatement.
+Homeless Check-in Center In order to ensure that the City is providing a solution to the ever growing homeless population camping on the streets, an 800 bed check-in center/shelter should be funded via a combination of city, county, state, federal funding, as well as soliciting private donations.
+Neighborhood Code Compliance The Neighborhood Code Compliance Division of the Development Services Department administers programs designed to protect the public’s health, safety, welfare, and property value through enforcement of the City’s ordinances and State/Federal law relating to land use, zoning, housing, noise, public nuisances, graffiti abatement, and vegetation/fire hazard abatement.
 We ask that the resource capacity of the division be analyzed, that vacancies be prioritized and filled, and that funding for additional Code Enforcement Officers be considered in FY18, particularly as new city policies and regulations are implemented.
 Any additional expenses may be offset by revenue from increased activity (i.e. issuance of permits for compliance, citations, etc.).
-Expansion of SMART Pilot Program/Office of the City Attorney
-The SMART Program is an innovative program to help address the ongoing challenge of low-level misdemeanor offenders who cycle through the system without access to services, coordination of care, or meaningful incentives to engage with social service providers.
+Expansion of SMART Pilot Program/Office of the City Attorney ‍ The SMART Program is an innovative program to help address the ongoing challenge of low-level misdemeanor offenders who cycle through the system without access to services, coordination of care, or meaningful incentives to engage with social service providers.
 Many are arrested, taken into custody and released, only to be arrested again before the original charge comes to trial.
 Many live on the streets without access to housing.
 SMART provides access to drug treatment services while providing housing, the elements necessary for a successful recovery.
 The program prioritizes the provision of services and works to ensure that the homeless are not criminalized.
 We request expansion of the SMART Program to increase capacity, effectively link misdemeanants to community services and housing, and reduce the rate of recidivism.
-Storm Water Channel and Storm Drain Maintenance
-The City has engaged in an effort to enhance the maintenance of its storm water channels and storm drains to ensure that life and property are protected during the winter storm season.
+Infrastructure and Sustainability Storm Water Channel and Storm Drain Maintenance The City has engaged in an effort to enhance the maintenance of its storm water channels and storm drains to ensure that life and property are protected during the winter storm season.
 Much of the work performed in the last 18 months by the department has been through emergency permitting.
 In order to avoid the need to do last minute emergency permits to prevent flooding, the City should continue funding our storm water channel and storm drain maintenance program at an enhanced level that proactively addresses high flood risk locations in FY18 and beyond.
-Vision Zero
-It is imperative that the City fund improvements at 15 of the deadliest intersections to ensure basic, low-cost pedestrian safety infrastructure improvements such as high visibility crosswalks, audible signals, and countdown signals are present at all intersections.
-- Construct new medians, sidewalk improvements, curb extensions, and safe crossings on El Cajon Boulevard in front of Hoover High School at the intersections of El Cajon Boulevard and Highland Avenue, and El Cajon Boulevard and 45th Street as outlined in the Complete Boulevard Study.
+Vision Zero ‍ It is imperative that the City fund improvements at 15 of the deadliest intersections to ensure basic, low-cost pedestrian safety infrastructure improvements such as high visibility crosswalks, audible signals, and countdown signals are present at all intersections. - Construct new medians, sidewalk improvements, curb extensions, and safe crossings on El Cajon Boulevard in front of Hoover High School at the intersections of El Cajon Boulevard and Highland Avenue, and El Cajon Boulevard and 45th Street as outlined in the Complete Boulevard Study.
 A full cost estimate is not available at this time.
-Funding should be allocated to create the CIP project and begin design and construction drawings.
-- Construct new medians, sidewalk improvements, curb extensions, and safe crossings at the intersections of El Cajon Boulevard and Menlo Avenue, and El Cajon Boulevard and Euclid Avenue as outlined in the Complete Boulevard Study.
+Funding should be allocated to create the CIP project and begin design and construction drawings. - Construct new medians, sidewalk improvements, curb extensions, and safe crossings at the intersections of El Cajon Boulevard and Menlo Avenue, and El Cajon Boulevard and Euclid Avenue as outlined in the Complete Boulevard Study.
 A full cost estimate is not available at this time.
-Funding should be allocated to create the CIP project and begin design and construction drawings.
-- Construct a safe crossing at Kansas Street and El Cajon Boulevard. $50,000 is requested to be allocated for this project.
-- Allocate staff time to continue comprehensive corridor planning with neighborhood stakeholder groups on University Avenue and El Cajon Boulevard, specifically in the neighborhoods of City Heights and North Park.
-- Create and hire one dedicated Vision Zero/multi-modal staff person to oversee Vision Zero activities and complete streets implementation.
+Funding should be allocated to create the CIP project and begin design and construction drawings. - Construct a safe crossing at Kansas Street and El Cajon Boulevard. $50,000 is requested to be allocated for this project. - Allocate staff time to continue comprehensive corridor planning with neighborhood stakeholder groups on University Avenue and El Cajon Boulevard, specifically in the neighborhoods of City Heights and North Park. - Create and hire one dedicated Vision Zero/multi-modal staff person to oversee Vision Zero activities and complete streets implementation.
 This staff person can assist City with coordinating and implementing upcoming education campaigns and engineering safety improvements.
 Funding is requested to be allocated for this staff position.
-Sidewalk Condition Assessment
-With the completion of the citywide Sidewalk Condition Assessment, the Mayor and City Council must take action to develop policy and a plan to address the findings in the condition assessment and mitigate all tripping hazards to effectively reduce the city’s liability and improve the conditions of our sidewalks.
-Maintenance and Repair of Streets Classified as “Unimproved Roads”
-The City must either develop a process to provide for the repair and maintenance of “Unimproved Roads” or develop a plan to upgrade or construct these roads into complete streets.
+Sidewalk Condition Assessment With the completion of the citywide Sidewalk Condition Assessment, the Mayor and City Council must take action to develop policy and a plan to address the findings in the condition assessment and mitigate all tripping hazards to effectively reduce the city’s liability and improve the conditions of our sidewalks.
+Maintenance and Repair of Streets Classified as “Unimproved Roads” The City must either develop a process to provide for the repair and maintenance of “Unimproved Roads” or develop a plan to upgrade or construct these roads into complete streets.
 Residents throughout the City, particularly in parts of Otay Mesa, Logan Heights, Stockton, Mission Hills and University Heights, are unable to request common street improvements due to this technicality.
-Urban Forestry Program
-The City Council will soon discuss the proposed Urban Forestry Program 5-Year Plan.
+Urban Forestry Program The City Council will soon discuss the proposed Urban Forestry Program 5-Year Plan.
 A critical part of the Climate Action Plan is growing the City’s urban forest.
 Trees make vital contributions to livable neighborhoods, resilient and prosperous communities, environmental quality, and public health as they sequester carbon, reduce energy use, and make neighborhoods cooler and more walkable.
 As such it is important that the City increase resources to plant and maintain trees throughout our communities.
-The following FY18 budget allocations are vital to meeting the CAP goals related to growing our urban forest:
-- Fund additional Horticulturalist position for street tree planting, as the lone street tree Horticulturalist position cannot manage both tree care and planting: $100,000;
-- Plant 2,000 additional trees City-wide in FY18.
-This would allocate enough resources for the initial planting and three years of watering, monitoring and pruning:$1,000,000;
-- Increase shade tree pruning: $300,000;
-- Funding to complete an updated tree inventory to obtain a definitive understanding of the urban forest, as indicated in the 5-year plan;
-- For Capital Improvement Projects funded in FY18, incorporate trees as a street element (just as pavement, signage) not an amenity.
-This includes sidewalk replacements, street improvements, and new and upgraded parks.
-- Expedite filling four vacant positions, some of which have been vacant for six months: City Forester, Horticulturalist for code compliance (Development Services), Parks arborist, and Landscape architect (Public Works).
-The code compliance officer would generate offsetting fees and deter tree damage and loss.
-- Transfer the urban forestry program responsibilities to an operational department, consistent with organizational structure in other large cities.
-- Accelerate Enterprise Asset Management for inventory and monitoring of trees.
-Climate Action Plan
-The implementation of the City’s Climate Action Plan is critical to ensuring that the goals outlined in the plan are achieved.
+The following FY18 budget allocations are vital to meeting the CAP goals related to growing our urban forest: - Fund additional Horticulturalist position for street tree planting, as the lone street tree Horticulturalist position cannot manage both tree care and planting: $100,000; - Plant 2,000 additional trees City-wide in FY18.
+This would allocate enough resources for the initial planting and three years of watering, monitoring and pruning:$1,000,000; - Increase shade tree pruning: $300,000; - Funding to complete an updated tree inventory to obtain a definitive understanding of the urban forest, as indicated in the 5-year plan; - For Capital Improvement Projects funded in FY18, incorporate trees as a street element (just as pavement, signage) not an amenity.
+This includes sidewalk replacements, street improvements, and new and upgraded parks. - Expedite filling four vacant positions, some of which have been vacant for six months: City Forester, Horticulturalist for code compliance (Development Services), Parks arborist, and Landscape architect (Public Works).
+The code compliance officer would generate offsetting fees and deter tree damage and loss. - Transfer the urban forestry program responsibilities to an operational department, consistent with organizational structure in other large cities. - Accelerate Enterprise Asset Management for inventory and monitoring of trees.
+Climate Action Plan ‍ The implementation of the City’s Climate Action Plan is critical to ensuring that the goals outlined in the plan are achieved.
 As such it is critical that the FY18 budget fully fund the implementation efforts needed for Phase I and prepare for Phase II goals.
-This includes:
-- Provide funding for the development of the Climate Adaptation Plan.
-- Provide funding to purchase monitors to track commute mode share, especially for people walking and bicycling.
-- Social Equity Compliance: An important part of CAP implementation is ensuring social equity is monitored and protected in each goal.
-Consideration of a new staff position, or enhancement of a current staff position to ensure compliance is critical.
-- Community Choice Aggregation: Sufficient funding to conduct a study that will allow the City to explore and potentially implement a CCA in Phase II of the Climate Action Plan.
-- Increase staffing needed to accelerate the implementation of bicycle projects in the city with the highest priority given to the protected bikeways in the Downtown Mobility Plan.
-Funding sources to consider and prioritize for this purpose should include Parking District funds, Development Impact Fees, General Fund monies, TransNet, and SANDAG and Caltrans grant funding.
-- Urban Forest: See above.
-- Hold a minimum of three CicloSDias events within the city to raise awareness of and support the goals of the Bicycle Program and the Climate Action Plan.
-- It is important to obtain alternate funding sources through local, state and federal grants in order to obtain and leverage funding for CAP implementation.
-Funding is requested to fund one (FTE) position for a CAP implementation grant writer.
-- Allocate transportation capital funding to be consistent with the Climate Action Plan 2020 mode share goals to incrementally increase transit, bicycling and walking mode share.
-This funding should be prioritized for improvements along Vision Zero corridors and in environmental justice communities as listed by the state tool, CalEnviroScreen, in an amount sufficient to achieve the following transportation mode share targets:
-o Bicycle commute share, 6% by 2020; 18% by 2035
-o Walking commute share, 4% by 2020; 7% by 2035
-o Transit commute share, 12% by 2020; 25% by 2035
-Zero Waste Management Implementation
-In order to obtain a 75% diversion rate as cited in the Zero Waste Management Plan, we request that the Environmental Services Department consider increasing blue bin collection service from biweekly to weekly.
+This includes: - Provide funding for the development of the Climate Adaptation Plan. - Provide funding to purchase monitors to track commute mode share, especially for people walking and bicycling. - Social Equity Compliance: An important part of CAP implementation is ensuring social equity is monitored and protected in each goal.
+Consideration of a new staff position, or enhancement of a current staff position to ensure compliance is critical. - Community Choice Aggregation: Sufficient funding to conduct a study that will allow the City to explore and potentially implement a CCA in Phase II of the Climate Action Plan. - Increase staffing needed to accelerate the implementation of bicycle projects in the city with the highest priority given to the protected bikeways in the Downtown Mobility Plan.
+Funding sources to consider and prioritize for this purpose should include Parking District funds, Development Impact Fees, General Fund monies, TransNet, and SANDAG and Caltrans grant funding. - Urban Forest: See above. - Hold a minimum of three CicloSDias events within the city to raise awareness of and support the goals of the Bicycle Program and the Climate Action Plan. - It is important to obtain alternate funding sources through local, state and federal grants in order to obtain and leverage funding for CAP implementation.
+Funding is requested to fund one (FTE) position for a CAP implementation grant writer. - Allocate transportation capital funding to be consistent with the Climate Action Plan 2020 mode share goals to incrementally increase transit, bicycling and walking mode share.
+This funding should be prioritized for improvements along Vision Zero corridors and in environmental justice communities as listed by the state tool, CalEnviroScreen, in an amount sufficient to achieve the following transportation mode share targets: o Bicycle commute share, 6% by 2020; 18% by 2035 o Walking commute share, 4% by 2020; 7% by 2035 o Transit commute share, 12% by 2020; 25% by 2035 Zero Waste Management Implementation In order to obtain a 75% diversion rate as cited in the Zero Waste Management Plan, we request that the Environmental Services Department consider increasing blue bin collection service from biweekly to weekly.
 The additional expense could be offset by the additional revenue generated by increasing the recycling rate.
 We also request green waste collection service, particularly in communities south of Interstate 8.
 Both programs, which we suggest be piloted to determine feasibility and effectiveness, could provide ancillary benefits due to the potential to extend the lifespan of the Miramar Landfill.
-Citywide Parks Master Plan
-The City’s General Plan Recreation Element recommends that a comprehensive Parks Master Plan (PMP) be prepared to inventory and assess all City park lands, recreational uses, facilities and services, set priorities for protection and enhancement of existing park and recreation assets, and develop implementation strategies to meet present and future community needs.
+Citywide Parks Master Plan ‍ The City’s General Plan Recreation Element recommends that a comprehensive Parks Master Plan (PMP) be prepared to inventory and assess all City park lands, recreational uses, facilities and services, set priorities for protection and enhancement of existing park and recreation assets, and develop implementation strategies to meet present and future community needs.
 It is through the proposed development of a citywide PMP that “equivalencies” will be addressed on a community-by-community basis which is important to ensuring that there are sufficient recreation opportunities in the urbanized transit-priority areas.
 According to the City’s Request for Proposals for the PMP, the estimated cost is between $1 and $1.4 Million to complete the PMP, excluding the preparation of the environmental document which is anticipated to total around $350,000.
-Approximate cost: $1.75 million (phased allocation)
-Balboa Park Master Plan Update
-Additional funding and staff resources have accelerated the process of many of our community plans.
+Approximate cost: $1.75 million (phased allocation) Balboa Park Master Plan Update Additional funding and staff resources have accelerated the process of many of our community plans.
 The master plan for Balboa Park is also more than 20 years out of date.
 In order to prioritize park improvements requested by the community and stakeholders, it is critical to have an updated master plan that envisions the future of the entire park.
 We request funding for a Balboa Park Master Plan update.
-Chollas Creek Master Plan Restoration and Active Transportation Improvement Project
-Chollas Creek is a significant asset that traverses the City Heights, Eastern, Encanto, Southeastern San Diego, and Barrio Logan communities.
+Chollas Creek Master Plan Restoration and Active Transportation Improvement Project Chollas Creek is a significant asset that traverses the City Heights, Eastern, Encanto, Southeastern San Diego, and Barrio Logan communities.
 Planning work has been completed as part of the 2015 Southeastern and Encanto Community Plans; Chollas Triangle Plan amendment; Southcrest Trails Park General Development Plan; and improvements from private development projects along the creek that implement the 2002 Chollas Creek Enhancement Plan.
 The total cost of the Master Plan is estimated to be $1.0 million based on the costs of the San Diego River Park Master Plan/CEQA document.
 However, Park Planning staff reports that the Master Plan could be funded in phases over a three year time period.
-Upcoming Infrastructure/Commercial Paper/DC4 Bond
-The projects listed in Addendum A are our high priority community needs for the FY18 budget.
+Upcoming Infrastructure/Commercial Paper/DC4 Bond ‍ The projects listed in Addendum A are our high priority community needs for the FY18 budget.
 Consideration should be provided to those projects eligible for upcoming funding opportunities.
 In addition to the short-term funding strategies being contemplated, the Mayor and City Council must work to identify a comprehensive infrastructure investment plan.
 Without a sustainable new revenue source to address our infrastructure needs, San Diego’s streets, sidewalks, and public buildings will continue to deteriorate.
-Library Budget
-- Youth Services Librarians: Library services are critical to all communities across the City, especially in relation to the programs utilized by children.
+Neighborhood Services and Programs Library Budget - Youth Services Librarians: Library services are critical to all communities across the City, especially in relation to the programs utilized by children.
 As such, we must ensure there is equity in the services provided at each branch library by ensuring that each branch library has a full-time Youth Services Librarian.
-Approximate cost:$950,000
-- Books and Materials Budget: Increasing a stagnant books and materials budget is also urgently needed to make sure each library keeps pace with circulation needs and allows for adequate access to books, electronic resources and databases.
-In order to be on par with the County’s Library services the book budget would need to increase by $2.1 million
-Penny for the Arts
-Currently, the Mayor’s 5-year Outlook shows 6.60% of projected TOT revenue budgeted to support the Penny for the Arts Blueprint, falling short of the Blueprint’s stated 9.5% goal for FY18.
+Approximate cost:$950,000 - Books and Materials Budget: Increasing a stagnant books and materials budget is also urgently needed to make sure each library keeps pace with circulation needs and allows for adequate access to books, electronic resources and databases.
+In order to be on par with the County’s Library services the book budget would need to increase by $2.1 million Penny for the Arts Currently, the Mayor’s 5-year Outlook shows 6.60% of projected TOT revenue budgeted to support the Penny for the Arts Blueprint, falling short of the Blueprint’s stated 9.5% goal for FY18.
 This means that for the next five years, Arts and Culture funding will continue to be millions of dollars short of the Blueprint's commitment.
 Increasing arts funding to 7.25% percent would allow our arts and culture programming, a vital part of our economy, to continue to grow.
-Approximate cost: $1.5 million
-Community Development Block Grant (CDBG) Reinvestment Initiative
-SB 107, approved in 2015, provided substantial reform of the redevelopment wind-down process and ensures that San Diego will properly receive CDBG repayment/recovery of nearly $240 million.
+Approximate cost: $1.5 million Community Development Block Grant (CDBG) Reinvestment Initiative SB 107, approved in 2015, provided substantial reform of the redevelopment wind-down process and ensures that San Diego will properly receive CDBG repayment/recovery of nearly $240 million.
 Beginning in FY18, the City Council must ensure that the CDBG Reinvestment Initiative funds are reinvested in San Diego’s economically disadvantaged communities in the form of infrastructure investment, housing solutions, homeless service, job creation, and economic development.
-Small Business Development and Support
-San Diego small businesses are the backbone of our neighborhoods and economy.
+Small Business Development and Support San Diego small businesses are the backbone of our neighborhoods and economy.
 A projected $4.9 million in CDBG Reinvestment funds have been identified for investment in FY18 for workforce development, support for small business accelerators, and the creation of a loan and investment fund that will also provide consulting services to help small businesses grow and remain competitive.
 We look forward to supporting the development of these assistance programs and the deployment of resources to our neighborhood small businesses.
-Youth Services/Youth Workforce Development/Connect2Careers (C2C) Program Expansion
-C2C/San Diego Workforce Partnership provides work readiness, job matching, and job placement for 16-24 year-olds in San Diego.
+Youth Services/Youth Workforce Development/Connect2Careers (C2C) Program Expansion C2C/San Diego Workforce Partnership provides work readiness, job matching, and job placement for 16-24 year-olds in San Diego.
 The program has grown from placing 202 youth in 2013, 334 in 2014, and 447 in 2015.
 With a strong team, deep community connections, best-in class web-portal and IT solution, C2C/San Diego Workforce Partnership have the foundation needed to dramatically expand the program in FY17 to rival youth employment programs in other large cities.
 It is requested that $750,000 be allocated to the Workforce Partnership to expand the C2C program.
 This costs includes a budget for 7 staff (one manager, 3 job developers, and 3 trainers) and 10 paid C2C interns that provide one-to-one job coaching to youth enrolled in the program, as well as IT system support, communications supplies and costs, and event supplies and costs.
-Temporary Pool Program
-This hugely successful program provides access to pools during hot summer months to communities that do not have the benefit of a pool facility at their local recreation center.
+Temporary Pool Program This hugely successful program provides access to pools during hot summer months to communities that do not have the benefit of a pool facility at their local recreation center.
 The cost of this program is low, while the positive impact on pool users is very high.
 The following locations recreation center locations should be funded for a temporary pool in FY18: Robert Egger, Montgomery Waller, San Ysidro, Southcrest, Adams Avenue, North Park.
 Approximate cost: $7,500 per location.
-Play All Day Initiative
-The Play All Day Parks Program is an initiative put forth by the Mayor and the superintendent of the San Diego Unified School District to break ground on over 30 new joint-use park sites in the next five to 10 years.
+Play All Day Initiative The Play All Day Parks Program is an initiative put forth by the Mayor and the superintendent of the San Diego Unified School District to break ground on over 30 new joint-use park sites in the next five to 10 years.
 Ensure there is adequate staffing and funding is secured to support the planned development of the 30 new City-wide joint-use park sites.
-Independent Rate Consultant
-The Environment Committee is currently considering the possibility of allowing for the IBA to retain the services of an independent rate consultant that can be utilized during Cost of Service Studies and associated reviews.
+Operational Needs Independent Rate Consultant ‍ The Environment Committee is currently considering the possibility of allowing for the IBA to retain the services of an independent rate consultant that can be utilized during Cost of Service Studies and associated reviews.
 If the Committee recommends that the IBA retain an Independent Rate Consultant, the FY18 budget should provide the resources to retain the services.
-Approximate cost: Up to $300,000
-Administration and Enforcement of Earned Sick Leave and Minimum Wage Ordinance
-City administration and enforcement of the application of minimum wage and earned sick leave is critical to the stability of the city’s workforce and overall economy.
+Approximate cost: Up to $300,000 Administration and Enforcement of Earned Sick Leave and Minimum Wage Ordinance City administration and enforcement of the application of minimum wage and earned sick leave is critical to the stability of the city’s workforce and overall economy.
 As such, it is critical that appropriate staffing be filled immediately and additional resources be identified to ensure compliance with the law.
 We urge the Mayor to protect these programs from any budgetary reductions.
-Equal Opportunity Contracting (EOC) Improvements/City of San Diego Disparity Study
-The City’s EOC Program is intended to ensure diversity and to safeguard against discrimination in City contracts.
+Equal Opportunity Contracting (EOC) Improvements/City of San Diego Disparity Study The City’s EOC Program is intended to ensure diversity and to safeguard against discrimination in City contracts.
 Its purpose is to ensure fairness in the expenditure of taxpayer dollars.
 In order for the City to improve its EOC program goals and in order to adopt a race or gender-conscious preference program to remedy any perceived discrimination, the City must first commission a disparity study specific to the San Diego marketplace.
 A cost sharing partnership on a disparity study with SANDAG or any other regional agency should be explored.
-City Employee Childcare Services
-Finding licensed childcare for many families has become increasingly difficult including for many parents who work for the City of San Diego.
+City Employee Childcare Services Finding licensed childcare for many families has become increasingly difficult including for many parents who work for the City of San Diego.
 Childcare is a basic infrastructural element that should be pursued for children of city employees that are 2 months to 5 years of age.
 Staff should explore the costs associated with offering this service, what partnerships could be obtained and prepare to engage the negotiating units during the reopener period in FY19.
-While we acknowledge the difficult budgetary decisions ahead, we are determined to continue progress and not allow for any reductions in neighborhood services.
+Additional Revenue Opportunities While we acknowledge the difficult budgetary decisions ahead, we are determined to continue progress and not allow for any reductions in neighborhood services.
 We are committed to creating opportunities that further expand economic development opportunities and improve public safety and neighborhood quality of life.
-In doing so, we offer the following revenue opportunities:
-City Reserve Policy Changes and Use of Pension Payment Stabilization Reserve
-We recommend the use of the $16 million in Pension Payment Stabilization Reserve funds (General Fund portion) “to mitigate service delivery risk due to the unanticipated increases in the annual pension payment, the Actuarially Determined Contribution (ADC).” Additionally, we look forward to considering City Reserve Policy changes, such as modifying the Worker’s Compensation Reserve target funding level as well as the timeframe to reach our General Fund Reserve level targets.
+In doing so, we offer the following revenue opportunities: City Reserve Policy Changes and Use of Pension Payment Stabilization Reserve We recommend the use of the $16 million in Pension Payment Stabilization Reserve funds (General Fund portion) “to mitigate service delivery risk due to the unanticipated increases in the annual pension payment, the Actuarially Determined Contribution (ADC).” Additionally, we look forward to considering City Reserve Policy changes, such as modifying the Worker’s Compensation Reserve target funding level as well as the timeframe to reach our General Fund Reserve level targets.
 Lastly, we also support the allocation of amounts in excess of target levels in the Public Liability ($2.7 million) and Long-Term Disability Reserves ($2.5 million).
 Revenue opportunities in excess of $21.2 million.
-Use of Redevelopment Property Tax Trust Fund (RPTTF) to Ensure Economic Revitalization and Job Creation
-The Five-Year Outlook noted that the adjusted residual RPTTF revenue over the next five years increases from $18.5 to $26.1 million, for a total of $115 million.
+Use of Redevelopment Property Tax Trust Fund (RPTTF) to Ensure Economic Revitalization and Job Creation The Five-Year Outlook noted that the adjusted residual RPTTF revenue over the next five years increases from $18.5 to $26.1 million, for a total of $115 million.
 Using this revenue going forward to invest in San Diego’s economically disadvantaged communities, as originally intended allows areas in the greatest need of economic investment an opportunity to attract new commercial activity, which in turn creates new jobs and greater tax revenue for the City’s general fund.
 The prioritized investment of these residual RPTTF funds could fund many capital projects across the city that currently do not have identified funding sources.
-Contracts
-The City utilizes outside contractors for a variety of services totaling $240 million.
+Contracts The City utilizes outside contractors for a variety of services totaling $240 million.
 The City should utilize the appropriate termination clause language within each contract to renegotiate the cost of each contract.
 A 10% overall reduction in contracts for outside services would provide the City with $24 million for more immediate General Fund purposes.
-Chargers Termination Fee
-Currently, Qualcomm Stadium does not general enough annual revenue to cover its operating and maintenance costs and receives a transfer of TOT funds each year to fully fund its expenditures.
+Chargers Termination Fee Currently, Qualcomm Stadium does not general enough annual revenue to cover its operating and maintenance costs and receives a transfer of TOT funds each year to fully fund its expenditures.
 In FY17, the TOT transfer was approximately $12.9 million, of that $4.8 million was used to pay for debt service on bonds.
 The San Diego Chargers will pay a termination fee to the City for opting out of their lease to play games at Qualcomm Stadium.
 We acknowledge that the City will pay debt service until FY26 to retire the bond debt, but this payment from the Chargers may offer immediate relief and an ability to protect public safety and neighborhood services in a difficult budget year.
 Revenue opportunities from approximately $12.5-$15.0 million.
-Ongoing CIP Cash Management
-Ongoing review of CIP cash management activities will ensure the appropriate alignment of the timing and use of funding for CIP projects.
-Cannabis Tax Revenue
-On November 8, 2016, the voters of San Diego approved Measure N, which established a Cannabis Business Tax (CBT) on non-medical cannabis (marijuana) businesses in the City of San Diego to raise revenue for general governmental purposes of the City, contingent upon the passage of Proposition 64, the Adult Use of Marijuana Act, which was also approved by voters on the November 2016 ballot.
+Ongoing CIP Cash Management Ongoing review of CIP cash management activities will ensure the appropriate alignment of the timing and use of funding for CIP projects.
+Cannabis Tax Revenue On November 8, 2016, the voters of San Diego approved Measure N, which established a Cannabis Business Tax (CBT) on non-medical cannabis (marijuana) businesses in the City of San Diego to raise revenue for general governmental purposes of the City, contingent upon the passage of Proposition 64, the Adult Use of Marijuana Act, which was also approved by voters on the November 2016 ballot.
 The fiscal impact statement prepared for Measure N estimated potential future CBT revenue of $22 to $35 million annually.
 The City Council must consider land use and business regulations expeditiously so that the industry develops responsibly and potential revenue is captured.
-Potential Revenue from Short-Term Vacation Rentals
-The City Council must take immediate action and adopt sound policy regarding short-term vacation rentals.
+Potential Revenue from Short-Term Vacation Rentals The City Council must take immediate action and adopt sound policy regarding short-term vacation rentals.
 In doing so, the city will be better suited to track business activity and will create opportunities to generate revenue in the form of permit fees and Transient Occupancy Tax that can support enforcement to ensure compliance of applicable laws.
-Proposition H – Infrastructure Fund
-Earlier this year, San Diego voters approved Proposition H, a ballot measure that requires the dedication of General Fund revenue growth to an Infrastructure Fund.
+Proposition H – Infrastructure Fund Earlier this year, San Diego voters approved Proposition H, a ballot measure that requires the dedication of General Fund revenue growth to an Infrastructure Fund.
 The Outlook recognizes these allocations to the Infrastructure Fund as a General Fund expense, but does not include projections for any expenditures paid for by the Infrastructure Fund.
 Allocations to the Infrastructure Fund could be used to support certain strategic expenditures, potentially including the City’s Infrastructure Asset Management Program, street repair, and storm water permit compliance projects, thereby addressing critical needs while mitigating the projected deficit.
 Additionally, Proposition H included a provision that allows a one-year suspension of the requirement to allocate General Fund revenue growth to the Infrastructure Fund upon a two-thirds vote of the City Council.
 If funding for non-infrastructure critical expenditures is needed, Council could consider suspending the measure, which would allow the revenue to flow to the General Fund for other City uses.
 Thank you for your consideration of these priorities.
-This memo reflects our top priorities and
-will serve as the basis for our support of the upcoming budget.
-NEWSLETTER
-Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
-Thank you!
+This memo reflects our top priorities and will serve as the basis for our support of the upcoming budget. ‍ more memos Assemblymember Alvarez Issues Statement on the May Revision of the Budget and Need for Cal Grant Reform May 20, 2024 State Assembly’s Fentanyl Committee to hold hearing on Viejas Reservation to address rising fentanyl deaths in tribal communities August 17, 2023 Assemblymember David Alvarez Congratulates and Welcomes New Assembly Speaker Robert Rivas June 30, 2023 More Memos NEWSLETTER SIGN UP TO STAY UPDATED Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+FIRST NAME LAST NAME ZIP CODE EMAIL ADDRESS PHONE Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
@@ -260,4 +163,4 @@ Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
-Privacy Policy&Terms
+Privacy Policy & Terms For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

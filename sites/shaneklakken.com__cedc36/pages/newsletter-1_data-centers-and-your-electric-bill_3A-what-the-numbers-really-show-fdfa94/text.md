@@ -1,11 +1,5 @@
-Data Centers and Your Electric Bill: What the Numbers Really Show
-By Shane Klakken, Montana House District 37
-June 3, 2026
-June 3rd, 2026
-By Rep.
-Shane Klakken, HD 37
-Data Centers and Your Electric Bill: What the Numbers Really Show
-Out here in central Montana, when the wind whips across the prairie and the ranch lights stay on after dark, folks keep a close eye on the electric meter.
+top of page News Principles Calendar About Menu Close Donate Data Centers and Your Electric Bill: What the Numbers Really Show By Shane Klakken, Montana House District 37 June 3, 2026 June 3rd, 2026 By Rep.
+Shane Klakken, HD 37 Data Centers and Your Electric Bill: What the Numbers Really Show Out here in central Montana, when the wind whips across the prairie and the ranch lights stay on after dark, folks keep a close eye on the electric meter.
 We run pumps for livestock, keep grain dry, heat homes through long winters, and power the equipment that feeds families across the country.
 So when headlines scream that power-hungry data centers are about to send our bills skyrocketing, it gets attention — especially with concerns voiced right here in Fergus County.
 But a recent analysis from the Institute for Energy Research suggests we ought to look past the headlines and at the actual numbers.
@@ -59,3 +53,7 @@ As proposals move forward in Montana, let’s insist on data over narrative.
 Look at the actual state numbers instead of scary headlines.
 Demand growth, handled responsibly, can support affordable, reliable electricity — the kind hardworking Montanans have counted on for generations.
 Our kids’ future, our ranches, and our communities depend on getting this right.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

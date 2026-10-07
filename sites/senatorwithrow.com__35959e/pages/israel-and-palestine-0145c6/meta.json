@@ -1,7 +1,11 @@
 {
  "description": "Why are we paying for this? Who does it benefit?",
  "final_url": "https://www.senatorwithrow.com/israel-and-palestine",
- "paid_for_by": null,
+ "fingerprint": "c831521e626a2bf744e689e5eaaad3b30283e34d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Israel and Palestine | Adam Withrow for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "1967"
+ ]
 }

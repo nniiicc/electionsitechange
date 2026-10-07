@@ -1,4 +1,4 @@
-[March 14, 2021] | This past week was a busy one, and I'll have to tell you very long, because on Monday night we stayed there till 11:30 pm.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ March 14, 2021 ] | This past week was a busy one, and I'll have to tell you very long, because on Monday night we stayed there till 11:30 pm.
 Monday was Crossover Day, where a bill had to pass out of the House to be acted on by the Senate this year.
 The committees have been very busy the last week or so passing legislation they thought was important, bills that we needed to look at to be voted on the House floor.
 Some bills are a lot more important than others, but important if it affected you or something you're interested in.
@@ -25,3 +25,4 @@ I know I didn't talk about all the other bills that were passed on Crossover Day
 I thought House 290 deserved an explanation all its own.
 My Capitol office number is 404-656-7153, my home 770-893-2039, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,5 +1,5 @@
-Trump’s Big Ugly Law has now taken food assistance away from 4 million people across the country, including 1.5 million children, all so the wealthy and well-connected can receive billions in tax handouts.
+Skip to content Meet Deborah Priorities Endorsements Updates Donate Meet Deborah Priorities Endorsements Updates Donate Home » Updates » Trump’s Big Ugly Law Trump’s Big Ugly Law July 23, 2026 News Women & Families Trump’s Big Ugly Law has now taken food assistance away from 4 million people across the country, including 1.5 million children, all so the wealthy and well-connected can receive billions in tax handouts.
 “More than 4 million people nationwide were dropped from the federal food assistance program known as SNAP from July 2025 through March, according to an analysis from the Center on Budget and Policy Priorities (CBPP), a nonpartisan think tank.
 Across 17 states that have publicly available data or shared unpublished data with the CBPP, the number of children who lost their SNAP benefits dropped by about 1 million, according to the study.
-In its report, published earlier this month, the CBPP estimated that nationwide, the number of children who have been dropped from the program probably exceeds 1.5 million.”
-—The Washington Post article, 1.5 million children lost food aid since last July, analysis says
+In its report , published earlier this month, the CBPP estimated that nationwide, the number of children who have been dropped from the program probably exceeds 1.5 million.” —The Washington Post article, 1.5 million children lost food aid since last July, analysis says Prev Older Sgt.
+Michael Emmanuel Swinton Newer Endorsed by GIFFORDS Next

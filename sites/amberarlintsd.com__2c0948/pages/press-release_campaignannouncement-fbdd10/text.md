@@ -1,11 +1,6 @@
-Representative Amber Arlint Announces Re-Election Campaign for District 12 House
-FOR IMMEDIATE RELEASE: January 20, 2026
-MEDIA CONTACT: Representative Arlint | 605-670-0626
-Representative Amber Arlint Announces Re-Election Campaign for District 12 House
-SIOUX FALLS, S.D. – Today, Representative Amber Arlint announced that she is running for reelection to the South Dakota House of Representatives in District 12, reaffirming her commitment to serving her constituents by improving education, keeping neighborhoods safe, and supporting an economy that rewards hard work and creates opportunity here at home.
+0 Skip to Content Home DONATE Open Menu Close Menu Home DONATE Open Menu Close Menu Home DONATE Representative Amber Arlint Announces Re-Election Campaign for District 12 House Jan 20 Written By Benjamin Koisti FOR IMMEDIATE RELEASE: January 20, 2026 MEDIA CONTACT: Representative Arlint | 605-670-0626 Representative Amber Arlint Announces Re-Election Campaign for District 12 House SIOUX FALLS, S.D. – Today, Representative Amber Arlint announced that she is running for reelection to the South Dakota House of Representatives in District 12, reaffirming her commitment to serving her constituents by improving education, keeping neighborhoods safe, and supporting an economy that rewards hard work and creates opportunity here at home.
 “I am running for re-election because I believe in our community and the future of South Dakota,” said Arlint.
-“That means protecting taxpayers, strengthening public safety, improving education, and making sure South Dakota remains a place where you can live, work, and raise a family.”
-First elected in 2022, Arlint has championed legislation to grow South Dakota’s workforce through technical education, modernize community safety zones to include domestic violence shelters, and strengthen the state’s long-term financial stability.
+“That means protecting taxpayers, strengthening public safety, improving education, and making sure South Dakota remains a place where you can live, work, and raise a family.” First elected in 2022, Arlint has championed legislation to grow South Dakota’s workforce through technical education, modernize community safety zones to include domestic violence shelters, and strengthen the state’s long-term financial stability.
 She has also supported public safety measures, including expanding access to forensic medical exam kits, increasing penalties for impaired boating, and strengthening laws to combat human trafficking.
 In the Legislature, Arlint serves on influential committees shaping education and transportation policy, where she has consistently defended local decision-making and pushed back against policies that place new requirements on schools and communities without the resources to meet them.
 She has also led and supported legislation to expand health care training capacity at Southeast Technical College, addressing workforce shortages through targeted, one-time investments.
@@ -13,6 +8,6 @@ Arlint is a wife, mother, and small business owner in the Sioux Falls metro area
 Together, she and her husband are raising their two children in the community she serves, bringing her family and business experience to her service in the Legislature.
 District 12 includes portions of Sioux Falls in Minnehaha and Lincoln counties.
 Absentee voting begins April 17, 2026, and the Republican primary election will be held on June 2, 2026.
-To learn more about Representative Arlint’s reelection campaign, visit AmberArlintSD.com or follow her on Facebook.
-An official photo of Representative Arlint can be found here.
-###
+To learn more about Representative Arlint’s reelection campaign, visit AmberArlintSD.com or follow her on Facebook .
+An official photo of Representative Arlint can be found here .
+### Benjamin Koisti DONATE PAID FOR BY AMBER ARLINT FOR SD HOUSE 4800 S Louise Ave Box 208 Sioux Falls, SD 57106

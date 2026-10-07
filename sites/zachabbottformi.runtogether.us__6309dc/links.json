@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61577916017962",
-"https://secure.actblue.com/donate/zach-abbott-mi79",
-"https://tiktok.com/@zach.abbott.for.mi79",
-"https://zachabbottformi.runtogether.us/",
-"https://zachabbottformi.runtogether.us/about-zach-abbott",
-"https://zachabbottformi.runtogether.us/contact",
-"https://zachabbottformi.runtogether.us/events",
-"https://zachabbottformi.runtogether.us/get-involved",
-"https://zachabbottformi.runtogether.us/policies",
-"https://zachabbottformi.runtogether.us/what-constituents-are-saying"
+{
+"text": "About Zach",
+"href": "https://zachabbottformi.runtogether.us/about-zach-abbott"
+},
+{
+"text": "Contact",
+"href": "https://zachabbottformi.runtogether.us/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zach-abbott-mi79"
+},
+{
+"text": "Events",
+"href": "https://zachabbottformi.runtogether.us/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577916017962"
+},
+{
+"text": "Get Involved",
+"href": "https://zachabbottformi.runtogether.us/get-involved"
+},
+{
+"text": "Homepage",
+"href": "https://zachabbottformi.runtogether.us/"
+},
+{
+"text": "Learn More",
+"href": "https://zachabbottformi.runtogether.us/policies"
+},
+{
+"text": "Policies",
+"href": "https://zachabbottformi.runtogether.us/policies"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@zach.abbott.for.mi79"
+},
+{
+"text": "What Voters Are Saying",
+"href": "https://zachabbottformi.runtogether.us/what-constituents-are-saying"
+},
+{
+"text": "[image: Logo]",
+"href": "https://zachabbottformi.runtogether.us/"
+},
+{
+"text": "[image]",
+"href": "https://zachabbottformi.runtogether.us/"
+}
 ]

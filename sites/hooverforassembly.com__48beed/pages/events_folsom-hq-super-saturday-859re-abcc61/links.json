@@ -1,24 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Orangevale+Walk&dates=20261010T130000Z%2F20261010T160000Z",
-"https://efundraisingconnections.com/c/Hoover2026",
-"https://facebook.com/HooverForAssembly",
-"https://hooverforassembly.com/",
-"https://hooverforassembly.com/about",
-"https://hooverforassembly.com/ad7",
-"https://hooverforassembly.com/cart",
-"https://hooverforassembly.com/contact",
-"https://hooverforassembly.com/endorsements",
-"https://hooverforassembly.com/events",
-"https://hooverforassembly.com/events/folsom-hq-super-saturday",
-"https://hooverforassembly.com/events/folsom-hq-super-saturday-859re-ttkkp",
-"https://hooverforassembly.com/events/folsom-hq-super-saturday-859re?format=ical",
-"https://hooverforassembly.com/issues",
-"https://hooverforassembly.com/media",
-"https://hooverforassembly.com/news",
-"https://hooverforassembly.com/privacy-policy",
-"https://hooverforassembly.com/volunteer",
-"https://hooverforassembly.com/yard-signs",
-"https://instagram.com/joshua_hoover",
-"https://linktr.ee/pointoforderpod",
-"https://x.com/joshua_hoover"
+{
+"text": "0",
+"href": "https://hooverforassembly.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://hooverforassembly.com/about"
+},
+{
+"text": "AD 7",
+"href": "https://hooverforassembly.com/ad7"
+},
+{
+"text": "Back to All Events",
+"href": "https://hooverforassembly.com/events"
+},
+{
+"text": "CONTACT",
+"href": "https://hooverforassembly.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.efundraisingconnections.com/c/Hoover2026"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/Hoover2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://hooverforassembly.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://hooverforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Orangevale+Walk&dates=20261010T130000Z%2F20261010T160000Z"
+},
+{
+"text": "ICS",
+"href": "https://hooverforassembly.com/events/folsom-hq-super-saturday-859re?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://hooverforassembly.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://hooverforassembly.com/media"
+},
+{
+"text": "NEWS",
+"href": "https://hooverforassembly.com/news"
+},
+{
+"text": "Next Next October 17 Citrus Heights Walk",
+"href": "https://hooverforassembly.com/events/folsom-hq-super-saturday-859re-ttkkp"
+},
+{
+"text": "PODCAST",
+"href": "https://linktr.ee/pointoforderpod"
+},
+{
+"text": "Previous Previous October 3 Folsom HQ - Super Saturday",
+"href": "https://hooverforassembly.com/events/folsom-hq-super-saturday"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hooverforassembly.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://hooverforassembly.com/volunteer"
+},
+{
+"text": "YARD SIGN",
+"href": "https://hooverforassembly.com/yard-signs"
+},
+{
+"text": "[image: Josh Hoover for Assembly]",
+"href": "https://hooverforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HooverForAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshua_hoover/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/joshua_hoover"
+}
 ]

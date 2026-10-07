@@ -1,20 +1,130 @@
 [
-"http://duffgraphics.com/",
-"https://drennan4house.com/",
-"https://drennan4house.com/about",
-"https://drennan4house.com/contact",
-"https://drennan4house.com/meet-the-candidate-event-sarah-drennan-for-house",
-"https://drennan4house.com/news",
-"https://drennan4house.com/round-table-on-substance-use-treatment-prevention-and-recovery",
-"https://drennan4house.com/sarah-drennan-attends-healthcare-providers-legislative-reception",
-"https://drennan4house.com/test-post",
-"https://drennan4house.com/the-issues",
-"https://drennan4house.com/wv-deputy-sheriffs-association-endorse-drennan",
-"https://facebook.com/DrennanForHouse",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=100",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=25",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=250",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=50",
-"https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=500"
+{
+"text": "$100",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://drennan4house.com/about/"
+},
+{
+"text": "Candidacy Officially Filed",
+"href": "https://drennan4house.com/test-post/"
+},
+{
+"text": "Contact",
+"href": "https://drennan4house.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DrennanForHouse/"
+},
+{
+"text": "Home",
+"href": "https://drennan4house.com/"
+},
+{
+"text": "Meet the Candidate Event – Sarah Drennan for House",
+"href": "https://drennan4house.com/meet-the-candidate-event-sarah-drennan-for-house/"
+},
+{
+"text": "News & Events",
+"href": "https://drennan4house.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "Read More",
+"href": "https://drennan4house.com/meet-the-candidate-event-sarah-drennan-for-house/"
+},
+{
+"text": "Read More",
+"href": "https://drennan4house.com/round-table-on-substance-use-treatment-prevention-and-recovery/"
+},
+{
+"text": "Read More",
+"href": "https://drennan4house.com/sarah-drennan-attends-healthcare-providers-legislative-reception/"
+},
+{
+"text": "Read More",
+"href": "https://drennan4house.com/test-post/"
+},
+{
+"text": "Read More",
+"href": "https://drennan4house.com/wv-deputy-sheriffs-association-endorse-drennan/"
+},
+{
+"text": "Round Table on Substance Use Treatment, Prevention, and Recovery",
+"href": "https://drennan4house.com/round-table-on-substance-use-treatment-prevention-and-recovery/"
+},
+{
+"text": "Sarah Drennan attends Healthcare Providers Legislative Reception",
+"href": "https://drennan4house.com/sarah-drennan-attends-healthcare-providers-legislative-reception/"
+},
+{
+"text": "The Issues",
+"href": "https://drennan4house.com/the-issues/"
+},
+{
+"text": "WV Deputy Sheriff’s Association endorse Drennan",
+"href": "https://drennan4house.com/wv-deputy-sheriffs-association-endorse-drennan/"
+},
+{
+"text": "Website design by Duff Graphics",
+"href": "http://www.duffgraphics.com"
+},
+{
+"text": "[image: WinRed logo]",
+"href": "https://secure.winred.com/sarah-drennan-for-house/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://drennan4house.com/meet-the-candidate-event-sarah-drennan-for-house/"
+},
+{
+"text": "[image]",
+"href": "https://drennan4house.com/round-table-on-substance-use-treatment-prevention-and-recovery/"
+},
+{
+"text": "[image]",
+"href": "https://drennan4house.com/sarah-drennan-attends-healthcare-providers-legislative-reception/"
+},
+{
+"text": "[image]",
+"href": "https://drennan4house.com/test-post/"
+},
+{
+"text": "[image]",
+"href": "https://drennan4house.com/wv-deputy-sheriffs-association-endorse-drennan/"
+},
+{
+"text": "sarah@drennan4house.com",
+"href": "mailto:sarah@drennan4house.com"
+}
 ]

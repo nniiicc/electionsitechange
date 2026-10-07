@@ -1,16 +1,70 @@
 [
-"https://app.termly.io/dsar/1d6aedf8-7418-4afd-831a-01757e677e7c",
-"https://donorbox.org/privacy",
-"https://paypal.com/us/legalhub/paypal/privacy-full",
-"https://progressforus.org/",
-"https://termly.io/products/privacy-policy-generator",
-"https://terrioforus.com/",
-"https://terrioforus.com/about",
-"https://terrioforus.com/cart",
-"https://terrioforus.com/contact",
-"https://terrioforus.com/new-page",
-"https://terrioforus.com/policy",
-"https://terrioforus.com/privacy-policy",
-"https://terrioforus.com/volunteer",
-"https://terrioforus.com/why-so-serious"
+{
+"text": "0",
+"href": "https://www.terrioforus.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.terrioforus.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.terrioforus.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.terrioforus.com/new-page"
+},
+{
+"text": "Policy",
+"href": "https://www.terrioforus.com/policy"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.terrioforus.com/privacy-policy"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://termly.io/products/privacy-policy-generator/"
+},
+{
+"text": "Steph Terrio for Oregon House - District 26",
+"href": "https://www.terrioforus.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.terrioforus.com/volunteer"
+},
+{
+"text": "Why So Serious",
+"href": "https://www.terrioforus.com/why-so-serious"
+},
+{
+"text": "[no text]",
+"href": "https://app.termly.io/dsar/1d6aedf8-7418-4afd-831a-01757e677e7c"
+},
+{
+"text": "data subject access request",
+"href": "https://app.termly.io/dsar/1d6aedf8-7418-4afd-831a-01757e677e7c"
+},
+{
+"text": "https://donorbox.org/privacy",
+"href": "https://donorbox.org/privacy"
+},
+{
+"text": "https://progressforus.org/",
+"href": "https://progressforus.org/"
+},
+{
+"text": "https://www.paypal.com/us/legalhub/paypal/privacy-full",
+"href": "https://www.paypal.com/us/legalhub/paypal/privacy-full"
+},
+{
+"text": "https://www.terrioforus.com/contact",
+"href": "https://www.terrioforus.com/contact"
+},
+{
+"text": "sterrio4us@aol.com",
+"href": "mailto:sterrio4us@aol.com"
+}
 ]

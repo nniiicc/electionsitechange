@@ -1,15 +1,12 @@
-FOR IMMEDIATE RELEASE
-June 10, 2026
-Contact: press@jjr.vote, 786-683-8781
-Miami, FL - José Javier Rodríguez has officially qualified for the ballot in the race for Florida Attorney General, becoming the first candidate in the race to do so, marking a major milestone one year after launching a campaign that has quickly emerged as one of the most competitive statewide races in Florida.
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE June 10, 2026 Contact: press@jjr.vote , 786-683-8781 EN ES José Javier Rodríguez First to Qualify in Race for Florida Attorney General as Campaign Momentum Continues to Grow Miami, FL - José Javier Rodríguez has officially qualified for the ballot in the race for Florida Attorney General, becoming the first candidate in the race to do so, marking a major milestone one year after launching a campaign that has quickly emerged as one of the most competitive statewide races in Florida.
+The campaign also announced that it has raised more than $# million since launching #ago, demonstrating growing support from Floridians across the state.
 Rodríguez, a workers’ rights attorney, former Florida State Senator, and former U.S.
 Assistant Secretary of Labor, is running to restore the Attorney General’s office as a strong and accountable advocate for Florida families and consumers.
 “One year ago, we launched this campaign with a simple belief: Floridians deserve an Attorney General who works for them, not for special interests or politicians,” said Rodríguez.
 “I am proud to become the first candidate in this race to qualify for the ballot, and we’re doing so with growing support from Floridians across the state.
 The momentum behind this campaign continues to grow because Floridians are ready for an Attorney General who will focus on fighting crime, lowering costs, protecting Floridians from rising costs and scams, and rooting out corruption.
-We’re building the campaign we need to win, and we’re just getting started.”
-Since launching his campaign, Rodríguez has earned the support of elected officials, labor unions, environmental advocates, consumer champions, and community leaders from across Florida.
+We’re building the campaign we need to win, and we’re just getting started.” Since launching his campaign, Rodríguez has earned the support of elected officials, labor unions, environmental advocates, consumer champions, and community leaders from across Florida.
 The campaign has continued to build a broad coalition focused on restoring accountability and independence to the Attorney General's office.
 Rodríguez’s campaign has centered on the issues he calls the “three Cs” facing Floridians: crime, costs, and corruption.
-He has pledged to use the Attorney General’s office to keep communities safe, protect Floridians from rising costs and scams, hold powerful interests accountable, combat fraud, and ensure the law is enforced fairly and independently.
-###
+He has pledged to use the Attorney General’s office to keep communities safe, protect Floridians from rising costs and scams, hold powerful interests accountable, combat fraud, and ensure the law is enforced fairly and independently. ‍ ### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL June 10, 2026

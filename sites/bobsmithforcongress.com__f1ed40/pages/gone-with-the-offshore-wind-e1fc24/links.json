@@ -1,34 +1,174 @@
 [
-"https://bobsmithforcongress.com/",
-"https://bobsmithforcongress.com/Op-Eds",
-"https://bobsmithforcongress.com/bob-talks",
-"https://bobsmithforcongress.com/contact",
-"https://bobsmithforcongress.com/get-involved",
-"https://bobsmithforcongress.com/in-the-news",
-"https://bobsmithforcongress.com/issues",
-"https://bobsmithforcongress.com/latinos-con-bob",
-"https://bobsmithforcongress.com/media",
-"https://bobsmithforcongress.com/op-eds",
-"https://bobsmithforcongress.com/privacy-policy",
-"https://bobsmithforcongress.com/terms",
-"https://bobsmithforcongress.com/the-choice",
-"https://bobsmithforcongress.com/why-bob",
-"https://california.ballottrax.net/voter",
-"https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=1305",
-"https://facebook.com/bobsmith4congress",
-"https://instagram.com/bobsmith4congress",
-"https://linkedin.com/company/bobsmithforcongress",
-"https://nytimes.com/2023/10/24/travel/chumash-marine-sanctuary-morro-bay-california.html",
-"https://oceansciencetrust.org/wp-content/uploads/2024/07/OST-Science-Factsheet-4-Whales-Final.pdf",
-"https://offshorewindca.org/press-releases",
-"https://pure.ed.ac.uk/ws/portalfiles/portal/19730442/Main_Report_Life_Cycle_Costs_and_Carbon_Emissions_of_Offshore_Wind_Power.pdf",
-"https://reactalliance.org/",
-"https://reuters.com/business/energy/trump-suspends-offshore-wind-leasing-pending-review-2025-01-21",
-"https://sbcurrent.com/p/gone-with-the-offshore-wind",
-"https://sciencedirect.com/science/article/pii/S0025326X2500534X",
-"https://secure.anedot.com/bob-smith-for-congress/contributehere",
-"https://secure.anedot.com/bob-smith-for-congress/donate",
-"https://time.com/6254785/whale-deaths-offshore-wind-power",
-"https://x.com/bobsmith4usa",
-"https://youtube.com/@BobSmithforCongress"
+{
+"text": "Bob Talks",
+"href": "https://bobsmithforcongress.com/bob-talks/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "Contact",
+"href": "https://bobsmithforcongress.com/contact/"
+},
+{
+"text": "Contact Bob’s Campaign",
+"href": "mailto:social@bobsmithforcongress.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bob-smith-for-congress/contributehere"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bob-smith-for-congress/donate"
+},
+{
+"text": "ES",
+"href": "https://bobsmithforcongress.com/latinos-con-bob/"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "Follow on Instagram",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "Follow on LinkedIn",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "Follow on YouTube",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "In The News",
+"href": "https://bobsmithforcongress.com/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://bobsmithforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://bobsmithforcongress.com/media/"
+},
+{
+"text": "Offshore wind energy development could affect marine mammals in a variety of ways, including physical interactions with associated vessel traffic, entanglement, displacement from foraging or migratory habitat, and impacts related to port activities, while spinning blades pose lethal risks to birds, especially along migratory routes.",
+"href": "https://www.oceansciencetrust.org/wp-content/uploads/2024/07/OST-Science-Factsheet-4-Whales-Final.pdf"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/Op-Eds"
+},
+{
+"text": "Op-Eds",
+"href": "https://bobsmithforcongress.com/op-eds/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bobsmithforcongress.com/privacy-policy/"
+},
+{
+"text": "Supporters of the Morro Bay offshore wind farm say it’s the future, clean, green, and good for the local economy.",
+"href": "https://www.offshorewindca.org/press-releases"
+},
+{
+"text": "Terms of Use",
+"href": "https://bobsmithforcongress.com/terms/"
+},
+{
+"text": "The Choice",
+"href": "https://bobsmithforcongress.com/the-choice/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://bobsmithforcongress.com/get-involved/"
+},
+{
+"text": "Where's My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Why Bob",
+"href": "https://bobsmithforcongress.com/why-bob/"
+},
+{
+"text": "[image: Bob Smith for Congress Logo]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image: Bob Smith for US Congress]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://bobsmithforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobsmith4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobsmith4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/bobsmithforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BobSmithforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bobsmith4usa"
+},
+{
+"text": "carbon offset",
+"href": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/19730442/Main_Report_Life_Cycle_Costs_and_Carbon_Emissions_of_Offshore_Wind_Power.pdf"
+},
+{
+"text": "executive order",
+"href": "https://www.reuters.com/business/energy/trump-suspends-offshore-wind-leasing-pending-review-2025-01-21/"
+},
+{
+"text": "https://www.reactalliance.org/",
+"href": "https://www.reactalliance.org/"
+},
+{
+"text": "leading the charge",
+"href": "https://carbajal.house.gov/news/documentsingle.aspx?DocumentID=1305"
+},
+{
+"text": "opposed the intrusion into ancestral waters",
+"href": "https://www.nytimes.com/2023/10/24/travel/chumash-marine-sanctuary-morro-bay-california.html"
+},
+{
+"text": "refute wind farms as the cause",
+"href": "https://time.com/6254785/whale-deaths-offshore-wind-power/"
+},
+{
+"text": "sbcurrent.com",
+"href": "https://www.sbcurrent.com/p/gone-with-the-offshore-wind"
+},
+{
+"text": "significant environmental risk",
+"href": "https://www.sciencedirect.com/science/article/pii/S0025326X2500534X"
+},
+{
+"text": "www.bobsmithforcongress.com",
+"href": "https://bobsmithforcongress.com/"
+}
 ]

@@ -1,5 +1,4 @@
-To the residents of House District 59,
-I am pleased to offer my full endorsement of Naomi Riess for Colorado House District 59.
+DONATE MEET NAOMI IN THE NEWS EVENTS ENDORSEMENTS VOLUNTEER CONTACT MEDIA KIT Endorsement Letter from John Ranson John Ranson To the residents of House District 59, I am pleased to offer my full endorsement of Naomi Riess for Colorado House District 59.
 Over the past several months, I’ve had the opportunity to meet Naomi, learn about her priorities, and understand the depth of her commitment to Southwest Colorado.
 It became clear very quickly that Naomi has the integrity, work ethic, and common-sense leadership that our region needs at the State Capitol.
 Naomi has lived in Southwest Colorado for more than 35 years.
@@ -16,6 +15,4 @@ HD59 is too important to lose, and I am committed to doing whatever it takes to 
 Southwest Colorado deserves a Representative who understands us, listens to us, and works tirelessly on our behalf.
 Naomi Riess is that candidate.
 I encourage you to join me in supporting her.
-Sincerely,
-John Ranson
-Archuleta County Commissioner, District 2
+Sincerely, John Ranson Archuleta County Commissioner, District 2 Paid for by Riess for Colorado John Rice, Registered Agent Contact 970.946.3561 info@riessforcolorado.com PO BOX 1045 Durango, CO 81302 Media Kit Follow Riess for Colorado on Facebook Riess for Colorado Follow Naomi On Flickr

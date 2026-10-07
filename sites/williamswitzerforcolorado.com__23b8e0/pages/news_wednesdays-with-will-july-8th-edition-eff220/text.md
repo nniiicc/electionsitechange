@@ -1,5 +1,7 @@
-Ok, Colorado, let's talk about the primary.
-I recently returned from Washington, D.C. 250 years of our great nation is something we should celebrate. 150 years of Colorado history is also a celebration.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (July 8th Edition) 8 Jul Wednesday, 10:00 AM · 2026 Wednesdays With Will (July 8th Edition) Ok, Colorado, let's talk about the primary.
+I recently returned from Washington, D.C.
+250 years of our great nation is something we should celebrate.
+150 years of Colorado history is also a celebration.
 As an American and a fellow Coloradan, I am proud of our nation, our state, and my fellow neighbors here in the communities of HD30.
 Lakewood and Edgewater, what we saw in this primary cycle should raise some concern no matter what side of the political aisle you align with.
 Let me break it down with what I am seeing and how my campaign will respond.
@@ -34,3 +36,4 @@ Let my campaign become a home to all: the disenfranchised, the alternatives, the
 We have to reclaim this spirit as the general election is on the horizon.
 If you are tired of being caught in the crossfire of the two growing extremes, join us.
 Let us bring balance back to Colorado.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

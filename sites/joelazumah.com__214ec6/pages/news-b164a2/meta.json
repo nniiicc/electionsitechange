@@ -1,7 +1,9 @@
 {
  "description": "Joel Anabilah-Azumah in the News",
  "final_url": "https://www.joelazumah.com/news",
- "paid_for_by": null,
+ "fingerprint": "cea3cc78c4a47af2afbee1573089d03c60b22f64",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2022",

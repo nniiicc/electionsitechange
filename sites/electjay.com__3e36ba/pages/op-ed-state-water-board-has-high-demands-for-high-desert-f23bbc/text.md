@@ -1,4 +1,4 @@
-As California enters its fourth year of a historic drought, the governor and Legislature have both called for a sweeping reduction in water use.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Op-Ed: State Water Board has high demands for High Desert experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat As California enters its fourth year of a historic drought, the governor and Legislature have both called for a sweeping reduction in water use.
 Recently, Gov.
 Jerry Brown signed an executive order requiring water districts to reduce their water use in order to reach a statewide savings of 25 percent.
 While conservation is important, this mandate unfortunately does not treat all communities equally.
@@ -23,5 +23,4 @@ In November of 2014, voters passed Proposition 1, a $7.5 billion water bond that
 This funding will be used to build two reservoirs — the first built with state dollars since 1973.
 These projects will add up to three million acre-feet of new storage capacity in the state, yield up to one million acre-feet annually in new water supply, and will greatly increase the reliability of our water system throughout California.
 The SWRCB formula is not realistic for the High Desert and will put an undue burden on the communities in my district that have already made significant and concerted efforts to cut back.
-Although I certainly support conservation efforts and commonsense policies that help alleviate the current water crisis, I will continue to fight to get these statewide mandates altered to ensure more equitable treatment of the High Desert.
-—Jay Obernolte represents the 33rd Assembly District, which includes most of the High Desert, in the state legislature.
+Although I certainly support conservation efforts and commonsense policies that help alleviate the current water crisis, I will continue to fight to get these statewide mandates altered to ensure more equitable treatment of the High Desert. —Jay Obernolte represents the 33rd Assembly District, which includes most of the High Desert, in the state legislature. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

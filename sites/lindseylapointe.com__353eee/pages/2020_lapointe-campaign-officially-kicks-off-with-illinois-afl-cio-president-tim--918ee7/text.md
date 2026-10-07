@@ -1,5 +1,4 @@
-On Thursday, we officially kicked off the LaPointe campaign in a joint virtual event with State Senator Rob Martwick.
+About Lindsey Issues News Events Contact Donate Select Page LaPointe Campaign Officially Kicks Off with Illinois AFL-CIO President Tim Drea Sep 10, 2020 On Thursday, we officially kicked off the LaPointe campaign in a joint virtual event with State Senator Rob Martwick.
 Norwood Park Committeeman Frank Avino and Illinois AFL-CIO President Tim Drea gave glowing remarks about the two candidates and emphasized the need to vote this cycle.
-Drea noted Lindsey’s knowledge and care for both her district and downstate Illinois, making her “a real leader for Illinois working families.” He also emphasized the need to support the Fair Tax and Joe Biden to “advance the causes of working people.”
-You can watch the complete kickoff below, or on our Facebook page here.
-https://www.facebook.com/LaPointefor19/posts/354178719286450
+Drea noted Lindsey’s knowledge and care for both her district and downstate Illinois, making her “a real leader for Illinois working families.” He also emphasized the need to support the Fair Tax and Joe Biden to “advance the causes of working people.” You can watch the complete kickoff below, or on our Facebook page here. https://www.facebook.com/LaPointefor19/posts/354178719286450 Search Search Contact Us Email: lapointefor19@gmail.com Mail: PO Box 30161 Chicago, IL 60630 Phone: (847) 794-8816 Quick Links Home Donate Volunteer Yard Sign Stay Connected Follow Follow Paid for by Friends of LaPointe.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.

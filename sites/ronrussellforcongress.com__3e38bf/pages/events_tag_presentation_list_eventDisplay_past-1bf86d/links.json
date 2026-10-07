@@ -1,20 +1,106 @@
 [
-"https://facebook.com/RonRussellforCongress",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/ronrussellforcongress",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Ron+Russell+presentation+-+Ron+Russell",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Ron+Russell+presentation+-+Ron+Russell",
-"https://ronrussellforcongress.com/",
-"https://ronrussellforcongress.com/about",
-"https://ronrussellforcongress.com/contact",
-"https://ronrussellforcongress.com/event/election-campaign-presentation",
-"https://ronrussellforcongress.com/events",
-"https://ronrussellforcongress.com/events/tag/presentation/list",
-"https://ronrussellforcongress.com/events/tag/presentation/list?eventDisplay=past&ical=1",
-"https://ronrussellforcongress.com/events/tag/presentation/list?eventDisplay=past&outlook-ical=1",
-"https://ronrussellforcongress.com/issues",
-"https://ronrussellforcongress.com/privacy-policy",
-"https://ronrussellforcongress.com/volunteers",
-"https://secure.winred.com/russell-for-congress/donate-today",
-"https://x.com/RussellForHouse"
+{
+"text": "#ago",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "(207) 604-3491",
+"href": "tel://207%20604-3491"
+},
+{
+"text": "About",
+"href": "https://ronrussellforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ronrussellforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/russell-for-congress/donate-today"
+},
+{
+"text": "Election Campaign Presentation",
+"href": "https://ronrussellforcongress.com/event/election-campaign-presentation/"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrussellforcongress.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://ronrussellforcongress.com/volunteers/"
+},
+{
+"text": "List",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "Next Events",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Ron+Russell+presentation+-+Ron+Russell"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fronrussellforcongress.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Ron+Russell+presentation+-+Ron+Russell"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://ronrussellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Ron Russell] [image: Ron Russell]",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RonRussellforCongress/"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/RussellForHouse/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/ronrussellforcongress/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://ronrussellforcongress.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

@@ -1,13 +1,66 @@
 [
-"https://facebook.com/MikeKahoeOhio",
-"https://instagram.com/mikekahoeohio",
-"https://mikekahoe.com/",
-"https://mikekahoe.com/contact",
-"https://mikekahoe.com/meet-mike",
-"https://mikekahoe.com/mikes-blueprint",
-"https://mikekahoe.com/privacy-policy",
-"https://mikekahoe.com/terms-conditions",
-"https://secure.winred.com/kahoe-for-ohio/donate-today",
-"https://x.com/kahoe_mike",
-"https://youtube.com/@KahoeforOhio"
+{
+"text": "CONTACT ME",
+"href": "https://mikekahoe.com/contact/"
+},
+{
+"text": "Contact",
+"href": "https://mikekahoe.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kahoe-for-ohio/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MikeKahoeOhio"
+},
+{
+"text": "Home",
+"href": "https://mikekahoe.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://mikekahoe.com/mikes-blueprint/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mikekahoeohio/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikekahoe.com/meet-mike/"
+},
+{
+"text": "Mike’s Blueprint",
+"href": "https://mikekahoe.com/mikes-blueprint/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikekahoe.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://mikekahoe.com/terms-conditions/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/kahoe_mike"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@KahoeforOhio"
+},
+{
+"text": "[image: Mike Kahoe For Ohio]",
+"href": "https://mikekahoe.com/"
+},
+{
+"text": "[image: Mike Kahoe For Ohio] [image: Mike Kahoe For Ohio] [image: Mike Kahoe For Ohio] [image: Mike Kahoe For Ohio]",
+"href": "https://mikekahoe.com/"
+},
+{
+"text": "info@mikekahoe.com",
+"href": "mailto:info@mikekahoe.com"
+}
 ]

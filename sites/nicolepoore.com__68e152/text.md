@@ -1,14 +1,20 @@
-Getting Things Done for Delaware Families
-From free workforce training and college access to fair pay, paid leave, and stronger protections for children, Nicole Poore has built a record of delivering practical results for working families.
-Democratic Primary: September 15, 2026
-Poll Hours: Open from 7 a.m. until 8 p.m.
-Polling Places: Find My Polling Location
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter Getting Things Done for Delaware Families Nicole Poore, Delaware Senator - 12th District From free workforce training and college access to fair pay, paid leave, and stronger protections for children , Nicole Poore has built a record of delivering practical results for working families.
+Democratic Primary: September 15, 2026 Poll Hours: Open from 7 a.m. until 8 p.m.
+Polling Places: Find My Polling Location Proven Experience.
+Proven Results.
+A Fighter for Delaware Families.
 Nicole Poore is not new to the work.
-She has spent years turning Democratic values into real policy: expanding SEED+ so Delawareans of all ages can access tuition-free education and job training, helping advance Delaware’s $15 minimum wage, supporting paid family and medical leave, fighting to end subminimum wages for workers with disabilities, and sponsoring legislation to help prevent child grooming and adult sexual misconduct in schools.
-(★)
-Nicole sponsored SEED+, expanding Delaware's scholarship program beyond recent high school graduates to adults seeking degrees or workforce training.
-Nicole successfully advanced Delaware’s biosimilar legislation to help lower prescription drug costs for individuals with chronic illnesses, championed PA scope-of-practice reforms, supported the Rural Transformation initiative that secured more than $150 million in healthcare investments for Delaware, and expanded insurance coverage for menopause and perimenopause care.
-Nicole fought to expand Delaware’s minimum wage by 2025 and continues working to ensure every Delawarean earns a fair and livable wage.
-Nicole championed the Healthy Delaware Families Act, creating a statewide paid family and medical leave program that provides eligible workers with up to 12 weeks of paid, job-protected leave for qualifying events.
-As Senate prime sponsor of HB 122, Nicole helped phase out subminimum wages for workers with disabilities.
+She has spent years turning Democratic values into real policy: expanding SEED+ so Delawareans of all ages can access tuition-free education and job training, helping advance Delaware’s $15 minimum wage, supporting paid family and medical leave, fighting to end subminimum wages for workers with disabilities, and sponsoring legislation to help prevent child grooming and adult sexual misconduct in schools. (★) Free Education.
+Real opportunity Nicole sponsored SEED+, expanding Delaware's scholarship program beyond recent high school graduates to adults seeking degrees or workforce training. (★) Expanding access to quality, affordable healthcare for every Delawarean Nicole successfully advanced Delaware’s biosimilar legislation to help lower prescription drug costs for individuals with chronic illnesses, championed PA scope-of-practice reforms, supported the Rural Transformation initiative that secured more than $150 million in healthcare investments for Delaware, and expanded insurance coverage for menopause and perimenopause care. (★) Higher wages for working families Nicole fought to expand Delaware’s minimum wage by 2025 and continues working to ensure every Delawarean earns a fair and livable wage. (★) Paid leave when families need it most.
+Nicole championed the Healthy Delaware Families Act, creating a statewide paid family and medical leave program that provides eligible workers with up to 12 weeks of paid, job-protected leave for qualifying events. (★) Fair pay for workers with disabilities As Senate prime sponsor of HB 122, Nicole helped phase out subminimum wages for workers with disabilities. (★) Protecting children from predators.
 Nicole sponsored legislation expanding Erin's Law to require training on adult sexual misconduct, warning signs of inappropriate conduct by trusted adults, and child abuse prevention in Delaware schools.
+This primary matters.
+Do not lose the experience, results, and trust you’ve come to expect from Senator Nicole Poore.
+Vote for Nicole Poore in the democratic primary on September 15, 2026.
+Nicole Poore has the record.
+Now let’s keep the work moving.
+ENTER MAIN SITE About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

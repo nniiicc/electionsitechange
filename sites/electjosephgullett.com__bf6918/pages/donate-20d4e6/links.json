@@ -1,5 +1,22 @@
 [
-"https://electjosephgullett.com/",
-"https://electjosephgullett.com/donate",
-"https://electjosephgullett.com/pages/cookie-policy"
+{
+"text": "DONATE",
+"href": "https://www.electjosephgullett.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electjosephgullett.com/#get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electjosephgullett.com/"
+},
+{
+"text": "MEET JOSEPH",
+"href": "https://www.electjosephgullett.com/#meet-joseph"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.electjosephgullett.com/#on-the-issues"
+}
 ]

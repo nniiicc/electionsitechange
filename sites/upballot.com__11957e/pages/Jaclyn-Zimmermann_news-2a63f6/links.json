@@ -1,25 +1,118 @@
 [
-"https://facebook.com/profile.php?id=61556121464443",
-"https://instagram.com/jaclynformissouri",
-"https://secure.actblue.com/donate/zimmermann-for-missouri-1",
-"https://t.co/ZErBM1CF4S",
-"https://upballot.com/",
-"https://upballot.com/Jaclyn-Zimmermann",
-"https://upballot.com/Jaclyn-Zimmermann/about",
-"https://upballot.com/Jaclyn-Zimmermann/events",
-"https://upballot.com/Jaclyn-Zimmermann/get-involved",
-"https://upballot.com/Jaclyn-Zimmermann/issues",
-"https://upballot.com/Jaclyn-Zimmermann/news",
-"https://upballot.com/Jaclyn-Zimmermann/news/campaign-kickoff",
-"https://upballot.com/Jaclyn-Zimmermann/news/canvass-kickoff-june-8",
-"https://upballot.com/Jaclyn-Zimmermann/news/deb-lavender-and-trish-gunby-support-jaclyn",
-"https://upballot.com/Jaclyn-Zimmermann/news/jaclyn-has-been-awarded-the-2024-moms-demand-action-gun-sense-candidate-distinction",
-"https://upballot.com/Jaclyn-Zimmermann/news/jaclyn-zimmermann-sits-down-with-politically-speaking",
-"https://upballot.com/Jaclyn-Zimmermann/news/missouri-republicans-are-trying-to-take-away-your-right-to-amend-the-constitution",
-"https://upballot.com/Jaclyn-Zimmermann/news/missouri-supreme-court-holds-state-cannot-deny-medicaid-funds-to-planned-parenthood",
-"https://upballot.com/Jaclyn-Zimmermann/news/national-womens-political-caucus-endorses-jaclyns-campaign",
-"https://upballot.com/Jaclyn-Zimmermann/news/request-a-yard-sign",
-"https://upballot.com/Jaclyn-Zimmermann/news/sign-the-petition-to-protect-reproductive-freedom",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Jaclyn",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/zimmermann-for-missouri-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/"
+},
+{
+"text": "[image: Jaclyn Zimmermann Logo]",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/"
+},
+{
+"text": "[image] August 29 Request a Yard Sign! Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/request-a-yard-sign"
+},
+{
+"text": "[image] February 15 Missouri Supreme Court Holds State Cannot Deny Medicaid Funds to Planned Parenthood Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/missouri-supreme-court-holds-state-cannot-deny-medicaid-funds-to-planned-parenthood"
+},
+{
+"text": "[image] February 15 Sign the Petition to Protect Reproductive Freedom Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/sign-the-petition-to-protect-reproductive-freedom"
+},
+{
+"text": "[image] March 30 Jaclyn has been awarded the 2024 Moms Demand Action Gun Sense Candidate distinction Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/jaclyn-has-been-awarded-the-2024-moms-demand-action-gun-sense-candidate-distinction"
+},
+{
+"text": "[image] March 6 Campaign Kickoff! Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/campaign-kickoff"
+},
+{
+"text": "[image] November 26 Jaclyn sits down with Politically Speaking Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/jaclyn-zimmermann-sits-down-with-politically-speaking"
+},
+{
+"text": "[image] October 7 Canvass Kickoff June 8! Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/canvass-kickoff-june-8"
+},
+{
+"text": "[image] October 7 Deb Lavender and Trish Gunby Support Jaclyn Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/deb-lavender-and-trish-gunby-support-jaclyn"
+},
+{
+"text": "[image] October 7 Missouri Republicans are Trying to Take Away Your Right to Amend the Constitution Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/missouri-republicans-are-trying-to-take-away-your-right-to-amend-the-constitution"
+},
+{
+"text": "[image] October 7 National Women's Political Caucus Endorses Jaclyn's Campaign Read More",
+"href": "https://www.upballot.com/Jaclyn-Zimmermann/news/national-womens-political-caucus-endorses-jaclyns-campaign"
+},
+{
+"text": "[no text]",
+"href": "https://t.co/ZErBM1CF4S"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556121464443"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaclynformissouri/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61556121464443"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/jaclynformissouri/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://t.co/ZErBM1CF4S"
+},
+{
+"text": "jaclyn4missouri@gmail.com",
+"href": "mailto:jaclyn4missouri@gmail.com"
+},
+{
+"text": "tel:314-304-6442",
+"href": "tel:314-304-6442"
+}
 ]

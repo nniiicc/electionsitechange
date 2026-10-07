@@ -1,5 +1,4 @@
-Terms & Conditions
-Alan Blaylock Campaign (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+top of page HOME GET INVOLVED MEET ALAN ISSUES ENDORSEMENTS Donate Terms & Conditions Alan Blaylock Campaign (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program, such as through online enrollment forms.
 Regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -8,7 +7,7 @@ Nevertheless, by participating in the Program, you agree to receive autodialed m
 Program Description: Without limiting the scope of the Program, users that opt into the Program can expect to receive messages concerning Alan Blaylock Campaign.
 Cost and Frequency: Message and data rates may apply.
 The Program involves recurring mobile messages, and additional mobile messages may be sent based on your interaction with Us.
-Contact Information: For support text “HELP” to any of Our mobile messages, or email Alan@alanblaylock.com.
+Contact Information: For support text “HELP” to any of Our mobile messages, or email Alan@alanblaylock.com .
 User Opt Out and Additional Commands: To opt out (discontinue participation in Program), reply “STOP” to any of Our mobile messages from your mobile device.
 This is the easiest and preferred method to opt out of the Program.
 You may receive an additional mobile message confirming your decision to opt out.
@@ -18,7 +17,7 @@ Our Warranty: We will not be liable for any delays or failures in the receipt of
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
 Our mobile carrier is not liable for delayed or undelivered mobile messages.
 Privacy Policy: We respect your right to privacy.
-You can view our privacy policy here https://www.alanblaylock.com/privacy-policy.
+You can view our privacy policy here https://www.alanblaylock.com/privacy-policy .
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY.
 Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
@@ -42,21 +41,8 @@ Each party will advance one-half of the fees and expenses of the arbitrator, the
 In any arbitration arising out of or related to these Terms, the arbitrators will award to the prevailing party, if any, costs and attorneys’ fees reasonably incurred by the prevailing party in connection with that aspect of its claims or defenses on which it prevails, and any opposing awards of costs and attorneys’ fees awards will be offset.
 The parties will maintain the confidential nature of the arbitration proceeding, the hearing and the Award, except as may be necessary to prepare for or conduct the arbitration hearing on the merits, or except as may be necessary in connection with a court application for a preliminary remedy, or confirmation of an Award or its enforcement, or unless otherwise required by any applicable law.
 Any documentary or other evidence produced in any arbitration hereunder will be treated as confidential by the parties, witnesses and arbitrators, and will not be disclosed to any third person (other than witnesses or experts), except as required by any applicable law or except if such evidence was obtained from the public domain or is otherwise obtained independently of the arbitration.
-Mobile Messaging Program Consent
-By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Alan Blaylock Campaign:
-● Polling/Voting Text Messages (e.g., election reminders, opinion polls)
-● Public Service Announcement Text Messages (e.g., legislative updates, member updates, voter education)
-Opt-In Methods
-You may opt in to the Program by:
-● Completing the “Sign Up For Text Messages” form on our website
-● Providing explicit consent in any other manner as indicated by Alan Blaylock Campaign
-Message Terms
-● Messages may be sent using an autodialer or similar technology.
-● Message frequency may vary depending on your interaction with the Program.
-● Standard message and data rates may apply.
-● Wireless carriers are not liable for delayed or undelivered messages.
-STOP Command: Text
-STOP to unsubscribe.
+Mobile Messaging Program Consent By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Alan Blaylock Campaign: ● Polling/Voting Text Messages (e.g., election reminders, opinion polls) ● Public Service Announcement Text Messages (e.g., legislative updates, member updates, voter education) Opt-In Methods You may opt in to the Program by: ● Completing the “Sign Up For Text Messages” form on our website ● Providing explicit consent in any other manner as indicated by Alan Blaylock Campaign ​ Message Terms ● Messages may be sent using an autodialer or similar technology. ● Message frequency may vary depending on your interaction with the Program. ● Standard message and data rates may apply. ● Wireless carriers are not liable for delayed or undelivered messages.
+STOP Command: Text STOP to unsubscribe.
 You’ll receive confirmation and will no longer receive messages unless you opt back in.
 HELP Command: For help, text HELP or contact us at Alan@alanblaylock.com or 469-363-9585 for assistance.
 You will receive instructions on how to use the service.
@@ -68,3 +54,5 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Donate Submit Thanks for submitting!
+Political Ad Paid for by the Alan Blaylock Campaign bottom of page

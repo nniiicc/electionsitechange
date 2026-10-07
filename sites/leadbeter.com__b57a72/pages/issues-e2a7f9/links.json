@@ -1,12 +1,50 @@
 [
-"https://facebook.com/rleadbeter",
-"https://leadbeter.com/",
-"https://leadbeter.com/about",
-"https://leadbeter.com/contact",
-"https://leadbeter.com/issues",
-"https://leadbeter.com/privacy-policy",
-"https://leadbeter.com/volunteer",
-"https://ryvall.com/",
-"https://secure.winred.com/elect-robert-leadbeter/donatetoday",
-"https://twitter.com/RobertLeadbeter"
+{
+"text": "Contact",
+"href": "https://www.leadbeter.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/elect-robert-leadbeter/donatetoday"
+},
+{
+"text": "Endorsements & Legislative Highlights",
+"href": "https://www.leadbeter.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.leadbeter.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.leadbeter.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leadbeter.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.leadbeter.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/rleadbeter"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/elect-robert-leadbeter/donatetoday"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RobertLeadbeter"
+},
+{
+"text": "[no text]",
+"href": "https://www.leadbeter.com/issues"
+}
 ]

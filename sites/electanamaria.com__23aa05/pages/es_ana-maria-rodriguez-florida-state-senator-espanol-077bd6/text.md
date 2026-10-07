@@ -1,13 +1,10 @@
-VOTE #53
-Conozca Ana María Rodríguez
-Ana María Rodríguez ha dedicado su carrera a defender los intereses de los residentes del sur de Florida como funcionaria pública, líder comunitaria y madre trabajadora.
+Página Principal Sobre Ana Maria Done Distrito 40 Condado de Miami-Dade Cayos de la Florida English Orientados a las familias, a la asequibilidad y a los resultados .
+Haga una donación VOTE #53 Conozca Ana María Rodríguez Ana María Rodríguez ha dedicado su carrera a defender los intereses de los residentes del sur de Florida como funcionaria pública, líder comunitaria y madre trabajadora.
 Se centra en los temas que las familias comentan cada día en la mesa de la cocina: hacer que la vida sea más asequible, reducir los impuestos, bajar las primas de los seguros de vivienda, mejorar las escuelas, ampliar el acceso a una atención sanitaria de calidad y proteger las comunidades que hacen que los condados de Miami-Dade y Monroe sean especiales.
 Ana María cree que los mejores días del sur de Florida están por llegar, y se compromete a trabajar en todas las comunidades para mejorar la calidad de vida, fortalecer la economía y devolver más dinero a los bolsillos de los residentes.
-Conozca más
-In the Community
-¡Celebrando el Día del Árbol y contribuyendo al cuidado del medio ambiente, un árbol a la vez!
+Conozca más Loading… Condado de Miami-Dade Conozca más Cayos de la Florida Cayos de la Florida In the Community ¡Celebrando el Día del Árbol y contribuyendo al cuidado del medio ambiente, un árbol a la vez!
 Una excelente mañana apoyando a quienes más lo necesitan en nuestra comunidad durante la distribución de alimentos de Farm Share, junto a familiares, amigos y distinguidos colegas.
 Orgullosa de apoyar activamente iniciativas que promueven un gobierno eficiente, políticas públicas bien fundamentadas y el crecimiento económico a largo plazo para las familias de Florida.
-Conectemos en las redes sociales
-Political Advertisement Paid for and approved by Ana Maria Rodriguez for Florida State Senate District 40.
-Terms of Use • Privacy Policy
+Conectemos en las redes sociales Political Advertisement Paid for and approved by Ana Maria Rodriguez for Florida State Senate District 40.
+Terms of Use • Privacy Policy Envíenos un correo electrónico: amr@electanamaria.com Links Página Principal Sobre Ana Maria Done Distrito 40 Condado de Miami-Dade Cayos de la Florida English Political Advertisement Paid for and approved by Ana Maria Rodriguez for Florida State Senate District 40.
+Terms of Use Privacy Policy

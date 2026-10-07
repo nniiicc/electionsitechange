@@ -1,10 +1,2 @@
-Proud Of Our
-Endorsements
-We're garnering community support for our campaign
-Jeff Merkley
-US Senator
-Oregon League of Conservation Voters
-Ron Frame
-Willamette Week
-Willamette Week
-Follow me on the campaign trail!
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Proud Of Our Endorsements We're garnering community support for our campaign Jeff Merkley US Senator Oregon League of Conservation Voters Ron Frame Willamette Week Willamette Week Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

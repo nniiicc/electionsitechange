@@ -1,7 +1,11 @@
 {
  "description": "Join the Coordinated Campaign to canvass in Chastain Park!",
  "final_url": "https://www.bethfullerforgeorgia.com/events/chastain-park-canvass",
- "paid_for_by": "Paid for by Beth Fuller for Georgia, Inc | P",
- "title": "Chastain Park Canvass \u2014 Beth Fuller for Georgia | District 53 State House",
- "years_mentioned": []
+ "fingerprint": "52326563a83217b9229e3e7126aec89e3f62fe91",
+ "format": 3,
+ "paid_for_by": "Paid for by Beth Fuller for Georgia, Inc",
+ "title": "Chastain Park Canvass — Beth Fuller for Georgia | District 53 State House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

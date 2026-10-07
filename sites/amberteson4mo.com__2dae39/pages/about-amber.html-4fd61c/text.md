@@ -1,8 +1,5 @@
-Amber Teson • District 64
-ABOUT AMBER
-Amber’s story, values, and why she’s running for District 64.
-About Amber
-Hello, I’m Amber Teson, and I’m running for Missouri House District 64 to better our community, strengthen our economy, and bring common sense back to Jefferson City.
+KEEP UP WITH THE CAMPAIGN — SIGN UP FOR UPDATES GET INVOLVED Amber Teson Menu ☰ Amber Teson × Home About About Amber Endorsements Our Team In The News Issues Events NWPC Photo Gallery Join the Team Register to Vote Contact Volunteer Donate Amber Teson • District 64 ABOUT AMBER Amber’s story, values, and why she’s running for District 64.
+About Amber Hello, I’m Amber Teson, and I’m running for Missouri House District 64 to better our community, strengthen our economy, and bring common sense back to Jefferson City.
 As a ten-year 4-H member, granddaughter of a farmer, teacher, carpenter, and union member, I have family and friends on both sides of the political aisle.
 I’ve been listening and learning from others my whole life.
 I attended St.
@@ -14,3 +11,8 @@ I am ready to take their concerns and needs to Jefferson City so that the next g
 District 64 has been a tightly knit community of family, friends, farms, schools and small businesses.
 As it continues to expand, I want to make sure there is representation in Jefferson City of all the people in our district—not just political power swayed by party.
 There are common interests and needs of all my constituents, and I will do my best to represent all of them.
+Amber Teson Amber Teson Fighting for District 64.
+Proudly endorsed by the Tri-County Labor Club, SMART Local 36, and LiUNA Local 660 Members .
+About Issues Contact Privacy Policy Paid for by Friends of Amber Teson © #.
+All rights reserved.
+Donate Today Help power the campaign $5 $20 $50 $100 Donate Now ×

@@ -1,9 +1,2 @@
-Back to All Events
-Meet Mark Cohen, Independent candidate for Nebraska’s third congressional district.
-Previous
-Previous
-September 17
-Morning Coffee with Mark
-Next
-Next
-September 19
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Verdigre-Townhall Thursday, September 17, 2026 6:00 PM 7:30 PM 52339 881 Road Verdigre, Nebraska, 68783 (map) Google Calendar ICS Meet Mark Cohen, Independent candidate for Nebraska’s third congressional district.
+Source: https://www.facebook.com/share/1BuyRGC2pV/ Previous Previous September 17 Morning Coffee with Mark Next Next September 19 Beatrice Tailgate Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

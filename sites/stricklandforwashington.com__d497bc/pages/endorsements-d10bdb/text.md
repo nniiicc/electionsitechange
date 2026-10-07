@@ -1,2 +1,3 @@
-I’m grateful to have the support of local and national organizations, and current and former elected officials from across Washington State and across our country, including local community leaders, mayors, legislators and many of my colleagues in the United States Congress.
-Local and national organizations supporting my campaign for re-election include:
+Strickland for Washington - http://www.stricklandforwashington.com Donate Menu ⋯ Menu ⋯ Home Meet Marilyn Priorities Endorsements Volunteer News Contact Donate Home Meet Marilyn Priorities Endorsements Volunteer News Contact Donate Endorsements I’m grateful to have the support of local and national organizations, and current and former elected officials from across Washington State and across our country, including local community leaders, mayors, legislators and many of my colleagues in the United States Congress.
+Local and national organizations supporting my campaign for re-election include: Paid for by Strickland for Washington 1625 East 72nd St.
+Suite 700-139 Tacoma, WA 98404 Contact the Campaign | Privacy Policy | Terms & Conditions Powered by Mandate Media .

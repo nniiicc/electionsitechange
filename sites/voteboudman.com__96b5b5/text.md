@@ -1,5 +1,7 @@
-I urge you to vote for Bobbi Boudman – who, with her husband raised their son here, have worked, been active in our community are aware of our values
-and concerns.
+top of page Welcome About Events Endorsements Media Contact More Use tab to navigate through the menu items.
+Bobbi Boudman Bobbi Boudman Bobbi Boudman Bobbi Boudman Representation for clean Government Representation for clean Government Representation for clean Government Representation for clean Government NH State Senate District 3 NH State Senate District 3 NH State Senate District 3 NH State Senate District 3 Donate I urge you to vote for Bobbi Boudman – who, with her husband raised their son here, have worked, been active in our community are aware of our values and concerns.
 Bobbi is deeply committed to serving this community she loves!
-It is time to get representation in Concord that truly cares about the impacts on our community, and is confident enough in their voting to let us know what they are doing!
-Vote Bobbi Boudman!
+It is time to get representation in Concord that truly cares about the impacts on our community, and is confident enough in their voting to let us know what they are doing! ​ Vote Bobbi Boudman!
+Honorable Edie DesMarais ​ About Events Media vote NOVEMBER 3, 2026 vote NOVEMBER 3, 2026 vote NOVEMBER 3, 2026 vote NOVEMBER 3, 2026 Bobbi Boudman Candidate for NH Senate, District 3 Carroll County • Coos County Grafton County • Strafford County Albany, Bean's Grant, Lincoln, Bartlett, Bean's Purchase, Livermore, Brookfield, Chandler's Purchase, Waterville Valley, Chatham, Crawford's Purchase, Conway, Cutt's Grant, Eaton, Green's Grant, Effingham, Hadley's Purchase, Middleton, Freedom, Martin's Location, Milton, Hale's Location, Pinkham's Grant, Hart's Location, Sargent's Purchase, Jackson, Thompson & Meserve's Purchase Madison, Moultonborough, Ossipee, Tamworth, Tuftonboro, Wakefield, Wolfeboro Organize for Change - Subscribe for news and events Subscribe Thank you!
+See you at the polls!
+FACEBOOK INSTAGRAM bobbi@voteboudman.com Click to host a sign: © # by Citizens for Bobbi Boudman bottom of page

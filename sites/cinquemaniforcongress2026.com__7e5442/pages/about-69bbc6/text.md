@@ -1,6 +1,4 @@
-About
-Meet Joe Cinquemani
-Attorney, patriot, and candidate for New York's 16th Congressional District.
+Skip to main content Cinquemani for Congress MENU About Issues Get Involved Contact Donate About Issues Get Involved Contact Donate Ideas Not Ideology Direction not Destination About Meet Joe Cinquemani Attorney, patriot, and candidate for New York's 16th Congressional District.
 As a resident of New Rochelle and Pelham Bay for the last 30 years, I want to represent Westchester and the Bronx because I have better ideas to reduce our taxes, cut spending, create high-paying union jobs, tame inflation, and preserve the Great American legacy for the next generation.
 I am the proud father of triplets.
 They attended New Rochelle's public schools, pre-K through 12.
@@ -17,3 +15,7 @@ Good succession planning requires insightful analysis and experienced counsel on
 Again, this is the valuable skill set, the insight, and the uncanny analytic ability to find better solutions to the seemingly insoluble that I will bring to Congress.
 After 32 years I am proud to continue providing good counsel and excellent legal service for my clients.
 Now I want to do the same representing my friends, neighbors, and fellow citizens in Westchester and the Bronx who believe that we need a change of direction and a better way forward.
+Join the campaign Help bring better ideas to NY-16.
+Contribute, volunteer, or share the campaign with neighbors across Westchester and the Bronx.
+Donate Volunteer Cinquemani for Congress Better ideas for New York's 16th Congressional District: tax relief, lower costs, good jobs, and a stronger future for Westchester and the Bronx.
+Navigate About Issues Get Involved Contact Privacy Contact Cinquemani for Congress 40 Memorial Highway, New Rochelle, NY 10801 (917) 582-3700 cinquemaniforcongress@gmail.com Paid for by Cinquemani for Congress.

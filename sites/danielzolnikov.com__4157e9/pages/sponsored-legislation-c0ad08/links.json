@@ -1,13 +1,182 @@
 [
-"https://bills.legmt.gov/",
-"https://danielzolnikov.com/about-daniel",
-"https://danielzolnikov.com/co-sponsored-legislation",
-"https://danielzolnikov.com/contact-daniel",
-"https://danielzolnikov.com/in-the-news",
-"https://danielzolnikov.com/m/account",
-"https://danielzolnikov.com/serving-you",
-"https://danielzolnikov.com/sponsored-legislation",
-"https://facebook.com/352517808109574",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.winred.com/montanans-for-daniel-zolnikov/donate"
+{
+"text": "About Daniel",
+"href": "https://danielzolnikov.com/about-daniel"
+},
+{
+"text": "Co-Sponsored Legislation",
+"href": "https://danielzolnikov.com/co-sponsored-legislation"
+},
+{
+"text": "Contact Daniel",
+"href": "https://danielzolnikov.com/contact-daniel"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/montanans-for-daniel-zolnikov/donate"
+},
+{
+"text": "In The News",
+"href": "https://danielzolnikov.com/in-the-news"
+},
+{
+"text": "My Account",
+"href": "https://danielzolnikov.com/m/account"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20131/LC1905?open_tab=sum"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20151/LC0709?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20151/LC1015?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20171/LC0761?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20171/LC0762?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20171/LC0763?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20171/LC0768?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20171/LC1176?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20191/LC0043?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20191/LC0559?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20191/LC1530?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20191/LC1533?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20191/LC1535?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC0060?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC0624?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1082?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1083?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1085?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1086?open_tab=sum"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1090?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1822?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC1954?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/bill/20231/LC3009?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0004?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0005?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0292?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0305?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0306?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0322?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0324?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0372?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0412?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC0704?open_tab=bill"
+},
+{
+"text": "Read the bill here.",
+"href": "https://bills.legmt.gov/#/laws/bill/2/LC4235?open_tab=bill"
+},
+{
+"text": "Serving You",
+"href": "https://danielzolnikov.com/serving-you"
+},
+{
+"text": "Sign In",
+"href": "https://danielzolnikov.com/m/account"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://danielzolnikov.com/sponsored-legislation"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/352517808109574"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,14 +1,90 @@
 [
-"http://facebook.com/friendsforbatch",
-"https://instagram.com/friendsforbatch",
-"https://secure.actblue.com/donate/sbweb",
-"https://secure.actblue.com/donate/sbweb?amount=10",
-"https://secure.actblue.com/donate/sbweb?amount=100",
-"https://secure.actblue.com/donate/sbweb?amount=47.89",
-"https://sydneybatch.com/",
-"https://sydneybatch.com/about",
-"https://sydneybatch.com/news",
-"https://sydneybatch.com/thejob",
-"https://tiktok.com/@friendsforbatch?is_from_webapp=1&sender_device=pc",
-"https://twitter.com/friendsforbatch"
+{
+"text": "Affordable Health Care",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sbweb"
+},
+{
+"text": "DONATE $10",
+"href": "https://secure.actblue.com/donate/sbweb?amount=10"
+},
+{
+"text": "DONATE $100",
+"href": "https://secure.actblue.com/donate/sbweb?amount=100"
+},
+{
+"text": "DONATE $47.89",
+"href": "https://secure.actblue.com/donate/sbweb?amount=47.89"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/sbweb"
+},
+{
+"text": "Economic Opportunity",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "Home",
+"href": "https://www.sydneybatch.com"
+},
+{
+"text": "Meet Sydney",
+"href": "https://www.sydneybatch.com/about"
+},
+{
+"text": "More Press",
+"href": "https://www.sydneybatch.com/news"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/sbweb"
+},
+{
+"text": "Press",
+"href": "https://www.sydneybatch.com/news"
+},
+{
+"text": "Protecting Constitutional Rights",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "Read Sydney's Story",
+"href": "https://www.sydneybatch.com/about"
+},
+{
+"text": "SYDNEY IS FIGHTNG BACK",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "Safe & Secure neighborhoods",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "The Job",
+"href": "https://www.sydneybatch.com/thejob"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/friendsforbatch"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/friendsforbatch"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/friendsforbatch/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@friendsforbatch?is_from_webapp=1&sender_device=pc"
+}
 ]

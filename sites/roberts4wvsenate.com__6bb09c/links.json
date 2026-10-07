@@ -1,11 +1,54 @@
 [
-"https://facebook.com/roberts4wvsenate",
-"https://instagram.com/roberts4wv",
-"https://roberts4wvsenate.com/",
-"https://roberts4wvsenate.com/about",
-"https://roberts4wvsenate.com/contact",
-"https://roberts4wvsenate.com/endorsements",
-"https://secure.winred.com/roberts4wvsenate/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://wordpress.org/",
-"https://wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Roberts"
+{
+"text": "About",
+"href": "https://www.roberts4wvsenate.com/about/"
+},
+{
+"text": "Bio",
+"href": "https://www.roberts4wvsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.roberts4wvsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/roberts4wvsenate/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://www.roberts4wvsenate.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/roberts4wvsenate"
+},
+{
+"text": "Home",
+"href": "https://www.roberts4wvsenate.com"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/roberts4wv"
+},
+{
+"text": "Read More",
+"href": "https://www.roberts4wvsenate.com/about/"
+},
+{
+"text": "Read More",
+"href": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator+Roberts"
+},
+{
+"text": "Roberts4WVSenate",
+"href": "https://www.roberts4wvsenate.com"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Roberts4WVSenate]",
+"href": "https://www.roberts4wvsenate.com/"
+}
 ]

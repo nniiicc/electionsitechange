@@ -1,3 +1,3 @@
-Rooted in the 66th: Cows Around The Corner in Bethlehem, CT
-Cows Around The Corner in Bethlehem, CT transforms fresh CT cows milk into artisan cheese and yogurt.
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved Rooted in the 66th: Cows Around The Corner in Bethlehem, CT August 23, 2026 Cows Around The Corner in Bethlehem, CT transforms fresh CT cows milk into artisan cheese and yogurt.
 Creating sustainable resources for their community – this is a small farm with a huge impact!
+Filed Under: Uncategorized Donate Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

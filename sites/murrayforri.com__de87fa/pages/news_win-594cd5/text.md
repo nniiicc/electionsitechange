@@ -1,16 +1,16 @@
-Murray wins state Senate seat
-By JOSEPH B.
-NADEAU/jnadeau@woonsocketcall.com - Nov 6, 2018
-It came down to getting out and meeting voters, and in the end, Tuesday, Woonsocket City Councilwoman Melissa A.
+0 Skip to Content Home About 25/26 Term Highlights News Contact Donate Open Menu Close Menu Donate Home About 25/26 Term Highlights News Contact Open Menu Close Menu Home About 25/26 Term Highlights News Contact Donate Murray wins state Senate seat Campaign Community Updates Nov 6 Written By Michael Beauregard By JOSEPH B.
+NADEAU/jnadeau@woonsocketcall.com - Nov 6, 2018 It came down to getting out and meeting voters, and in the end, Tuesday, Woonsocket City Councilwoman Melissa A.
 Murray claimed the prize of state Senator Marc A.
-Cote’s Dist. 24 seat representing Woonsocket and North Smithfield.
+Cote’s Dist.
+24 seat representing Woonsocket and North Smithfield.
 Murray, a Democrat, pulled in 3,239 votes between the two communities to best second-place finisher, Independent candidate Glenn F.
 Dusablon.
 Richard L.
 Garrepy, one of the two other Independents in the contest, collected 1,152 votes and Michael Disney, the fourth candidate, 278 votes.
 Cote did not seek re-election in a move opening the door to a race of Senate newcomers for his longtime legislative post.
 As she celebrated the win with family, friends and campaign workers at Chan’s Fine Oriental Dining Tuesday night, Murray took the microphone with a firm “we did it,” and asked everyone to bear with her as she tried to get through the rest of her remarks without being overcome by emotion.
-“I am so honored and humbled that you have elected me the next state senator for Dist. 24,” Murray said.
+“I am so honored and humbled that you have elected me the next state senator for Dist.
+24,” Murray said.
 To those present at Chan’s, and others listening in, Murray said she would work to fight for working families, veterans and seniors, education equality, and equality for women and all other groups in the state.
 “Every single person deserves to be respected and protected under the law,” Murray said.
 She also took a quote from the late Fred Rogers, a children’s program trailblazer, to commend all who had worked to help her achieve her Statehouse seat.
@@ -19,9 +19,9 @@ She also acknowledged her large “diverse and crazy family that loves and suppo
 “I am humbled to be able to represent you,” she said.
 As he stood in the rain outside the North Smithfield Fire Station on St.
 Paul St.
-Tuesday evening, Dusablon said he ran for the Dist. 24 seat as an Independent because “we need change in government in Rhode Island.
-That’s why I am here.”
-During the day, Dusablon said he had heard good reactions from the voters passing by and, while he couldn’t know their final decision, he remained optimistic about outcome.
+Tuesday evening, Dusablon said he ran for the Dist.
+24 seat as an Independent because “we need change in government in Rhode Island.
+That’s why I am here.” During the day, Dusablon said he had heard good reactions from the voters passing by and, while he couldn’t know their final decision, he remained optimistic about outcome.
 “I feel pretty good and I’m enjoying the fun of being in an election,” Dusablon said.
 Nearby, one of Murray’s campaign supporters, Garrett Mancieri, was also greeting the voters heading into the poll and noted that even with the off-and-on rain during the day, the turnout appeared to be a large one.
 “I’m here supporting my friend and former council colleague Melissa Murray.
@@ -33,7 +33,8 @@ I wish her the best,” he said.
 Dusablon said he ran as an Independent on the belief that the state needs new leadership.
 “My thing was running for a change in politics,” he said.
 In other local General Assembly contests, Woonsocket’s Senator Roger A.
-Picard, a Democrat and member of the General Assembly for 24 years in the House and the Senate, won re-election to his Dist. 20, Woonsocket and Cumberland, Senate seat with a tally of 4,675 votes to Republican Michael A.
+Picard, a Democrat and member of the General Assembly for 24 years in the House and the Senate, won re-election to his Dist.
+20, Woonsocket and Cumberland, Senate seat with a tally of 4,675 votes to Republican Michael A.
 Veri’s tally of 2,914, according to results posted by the Secretary of State’s office Tuesday night.
 Picard, like Murray, took a door-to-door approach to campaigning in his district and seeking to meet as many of his constituents as possible during the campaign season.
 He stood on his record of taking on legislative tasks beneficial to the district’s residents such as increased school aid, a reduction of car taxes and work to keep Landmark Medical Center operational.
@@ -42,8 +43,10 @@ Veri pointed his experience in serving with the military and past residence in c
 He supported a line-item veto for the governor and better budgeting practices than what now exist in the state.
 State Rep.
 Robert D.
-Phillips, a Democrat, also won re-election to his Dist. 51 House of Representatives seat on Tuesday securing 2,334 votes to his Republican challenger, Rufus R.
+Phillips, a Democrat, also won re-election to his Dist.
+51 House of Representatives seat on Tuesday securing 2,334 votes to his Republican challenger, Rufus R.
 Bailey Jr.’s 913 votes.
 Phillips, a resident of Dunlap Street in Woonsocket, also pointed to his legislative work for the district while visiting 1,200 homes in his district to turn back Bailey’s challenge.
 Bailey, a resident of Cass Avenue, had pointed to his experience in the financial industry as an asset he could bring to the General Assembly’s budget work.
-Follow Joseph Nadeau on Twitter @JNad75
+Follow Joseph Nadeau on Twitter @JNad75 Read original story.
+Campaign Community Michael Beauregard Previous Previous This Could Be the Next State to Secure ‘Roe’ Protections Next Next Woonsocket Councilor Murray running for Senate 24 Paid for by Friends of Melissa Murray

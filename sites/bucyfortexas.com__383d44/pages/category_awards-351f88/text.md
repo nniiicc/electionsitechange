@@ -1,12 +1,16 @@
-I’m honored to have been part of two of Progress Texas’ Best Moments of 2019: defeating anti-voter attempts including the attempted voter purge and S.B. 9, a draconian anti-voting measure, as well as forcing a record vote on Medicaid expansion, which would bring our tax dollars back to Texas to get our neighbors the care […]
-Category: Awards
-I’m honored to have received an A+ from Equality Texas on their Legislative Scorecard!
+Skip to content Re-Elect John Bucy III Democrat for Texas House District 136 Primary Menu Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Category: Awards Rep.
+Bucy at center of Progress Texas Best Moments of 2019 Posted on December 20, 2019 April 23, 2020 by John Bucy Campaign I’m honored to have been part of two of Progress Texas’ Best Moments of 2019: defeating anti-voter attempts including the attempted voter purge and S.B.
+9, a draconian anti-voting measure, as well as forcing a record vote on Medicaid expansion, which would bring our tax dollars back to Texas to get our neighbors the care […] Posted in Awards Rep.
+Bucy gets A+ from Equality Texas Posted on October 3, 2019 April 23, 2020 by John Bucy Campaign I’m honored to have received an A+ from Equality Texas on their Legislative Scorecard!
 Earlier this year I was proud to be the first ally member to join the newly-created Texas House LGBTQ Caucus and I remain committed to ensuring that every Texan is treated with the respect and dignity they deserve.
-Every year the Hill Country News has a Best of the Best readers poll.
+Posted in Awards Rep.
+Bucy is Best Local Elected Official Posted on June 9, 2019 April 23, 2020 by John Bucy Campaign Every year the Hill Country News has a Best of the Best readers poll.
 With over 100,000 votes cast in 194 categories, I’m proud to have been chosen as the Hill Country News Best of the Best 2019 for Best (Local) Elected Official.
 I am truly honored by this distinction.
 Since being elected we have been hard at work to fight for the real issues facing families across House District 136.
 As we enter the interim, we won’t be slowing down.
-Today I was honored to be recognized by my peers as the Texas House Democratic Caucus Freshman of the Year.
+Posted in Awards Rep.
+Bucy named Freshman of the Year Posted on May 27, 2019 April 23, 2020 by John Bucy Campaign Today I was honored to be recognized by my peers as the Texas House Democratic Caucus Freshman of the Year.
 I am so grateful for the support and mentorship I’ve received from my colleagues and I am truly humbled by this recognition.From fighting for Medicaid expansion and voting rights to supporting our public schools and economic development in our local community, I’m proud of the work we’ve done this session.I’m thankful to my wife and family, my staff, and the people of HD 136.
-Together we
+Together we Posted in Awards Categories Awards Bucy Bulletin Events Press Releases Priorities Town Hall Uncategorized Voting Information Archives July 2025 June 2025 January 2025 May 2024 September 2023 August 2023 July 2023 June 2023 May 2023 April 2023 November 2022 October 2022 September 2022 August 2022 June 2022 May 2022 January 2022 December 2021 July 2021 June 2021 November 2020 October 2020 September 2020 July 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 Meet John Priorities Education Healthcare Property Taxes Criminal Justice Reform Gun Violence Prevention LGBTQ+ Equality Voting Rights Environmental Protection Local Control Get Involved How to Vote News For Constituents Donate Connect with us X Facebook Instagram Contact us P.O.
+Box 536, Austin, TX 78767 (512) 680-3762 johnbucy@bucyfortexas.com Privacy Policy Paid for by: POLITICAL ADVERTISING PAID FOR BY JOHN BUCY CAMPAIGN, MOLLY BUCY, TREASURER Powered by Tech for Campaigns

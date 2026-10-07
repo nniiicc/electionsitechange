@@ -1,8 +1,5 @@
-We are launching our morning at 8:00 AM sharp from Mellow Mushroom.
+▼ 0 Skip to Content Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon Folder: About Back Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Back to All Events Montavon's Marathon: Day 8 Sunday, October 4, 2026 8:00 AM 6:00 PM Mellow Mushroom 6727 South Tamiami Trail Sarasota, Florida, 34231 United States (map) Google Calendar ICS We are launching our morning at 8:00 AM sharp from Mellow Mushroom.
 Day 8 takes us right through the heart of Sarasota, focusing on supporting our fantastic local culinary staples, neighborhood markets, and coastal business corridors.
 It is the perfect opportunity to discuss the local economy, small business growth, and community infrastructure.
-Day 8 Route & Highlights:
-- 8:00 AM Kickoff: Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231
-- Breakfast Stop: Buddy’s Bagels, 4065 S Tamiami Trail, Sarasota, FL 34231
-- Afternoon Final Stop: Stokes Seafood, 2745 N Osprey Ave, Sarasota, FL 34234
-Swing by to grab a bagel with the team in the morning, join us for fresh local catch conversations at Stokes Seafood in the afternoon, or lace up your sneakers to walk a few blocks through town with Matthew.
+Day 8 Route & Highlights: 8:00 AM Kickoff: Mellow Mushroom, 6727 Tamiami Trail, Sarasota, FL 34231 Breakfast Stop: Buddy’s Bagels, 4065 S Tamiami Trail, Sarasota, FL 34231 Afternoon Final Stop: Stokes Seafood, 2745 N Osprey Ave, Sarasota, FL 34234 Swing by to grab a bagel with the team in the morning, join us for fresh local catch conversations at Stokes Seafood in the afternoon, or lace up your sneakers to walk a few blocks through town with Matthew.
+Previous Previous October 3 Montavon's Marathon: Day 7 Next Next October 5 Montavon's Marathon finish line PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

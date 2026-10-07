@@ -1,6 +1,12 @@
-Help Me Spread Liberty’s Message to Every Voter
-Our campaign is bringing a voice to real, practical, liberty-focused solutions for the most critical issues facing families and communities in our district.
+Skip to content DONATE Email Facebook Home Meet Matt Laszacs Meet Matt Laszacs People. not Politics NC House District 41 Our Priorities Greater Education Opportunities for students and families Better healthcare options for patients and providers Stronger economic potential for businesses and employees Restoring equal justice for all News/Press Campaign News Take Action Donate Volunteer Stay Informed When and Where to Vote Donate to CEML Brad Hessel 2024-07-15T16:07:55-04:00 Help Me Spread Liberty’s Message to Every Voter Our campaign is bringing a voice to real, practical, liberty-focused solutions for the most critical issues facing families and communities in our district.
 But we face many obstacles that keep those ideas from being heard.
 Your generous donation will help to deliver a louder voice for liberty.
 Campaign donations are put to work right here, in our district, providing the support and resources that liberty needs as we work toward a free, peaceful and prosperous North Carolina.
-You Can Make a Difference
+Help us spread liberty!
+You Can Make a Difference Individual rights, personal responsibility Smaller government when it’s possible, more efficient government when it’s necessary.
+Donate Your generous donation will help to deliver a louder voice for liberty.
+Campaign donations are put to work right here, in our district, providing the support and resources that liberty needs as we work toward a free, peaceful and prosperous North Carolina.
+Donate Contact the Campaign Phone: (336) 317-3669 Email: info@matt4nc.us CEML c/o Wake County Libertarian Party Box 28141 Raleigh, NC.
+27611 Follow on Social © Copyright ©#.
+All rights reserved.
+Paid for by the COMMITTEE TO ELECT MATTHEW LASZACS Go to Top

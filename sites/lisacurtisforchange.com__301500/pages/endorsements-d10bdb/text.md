@@ -1,37 +1,10 @@
-Endorsements
-Organizations
-Albuquerque Area International Association of Firefighters (IAFF), Local 244
-Albuquerque Teachers Federation
-American Federation of Teachers NM Retirees
-The Albuquerque Federation of Classified Professionals (AFCP)
-Mental Health Now Candidate Distinction, 2026
-New Mexico Building Construction & Trades Council
-New Mexico Federation of Labor, AFL-CIO
-New Mexico Native Vote
-New Mexico Voices for Children Action Fund
-Planned Parenthood Votes - New Mexico
-Rio Grande Chapter of the Sierra Club
-SMART Transportation Division Local 034
-Teamsters Local 492
-United Academics (UA) - UNM
-Elected and Local Community Leaders
-Ben Ray Lujan, U.S.
-Senator
-Martin Heinrich, U.S.
-Senator
-Teresa Ledger Fernandez, U.S.
-Congresswoman
-Javier Martínez, New Mexico Speaker of the House
-Heather Berghmans, State Senate, District 15
-Pamelya Herndon, State House, District 28
-Liz Thomson, State House District 24
-Abby Foster, Democratic Nominee, State House District 27
-Don Gallegos, District 31 voter
-Gina Bell, District 31 voter
-Nancie Furgang, District 31 voter
-Annette Kalandros, District 31 voter
-Cheryl and Gadi Haase, District 31 voters
-Kooch Jacobus, District 31 voter
-Alex Herring, District 31 voter
-Jerry Ortiz y Pino, Former State Senator District 12
-Kristin Wood-Hegner, Northeast Heights resident
+0 Skip to Content About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu About Lisa District 31 Get Involved Priorities Voting Endorsements Learn More Data Center Nicole Contact CONTRIBUTE Open Menu Close Menu Folder: About Back Lisa District 31 Get Involved Priorities Voting Endorsements Folder: Learn More Back Data Center Nicole Contact CONTRIBUTE Endorsements Organizations Albuquerque Area International Association of Firefighters (IAFF), Local 244 Albuquerque Teachers Federation American Federation of Teachers NM Retirees The Albuquerque Federation of Classified Professionals (AFCP) Mental Health Now Candidate Distinction, 2026 New Mexico Building Construction & Trades Council New Mexico Federation of Labor, AFL-CIO New Mexico Native Vote New Mexico Voices for Children Action Fund Planned Parenthood Votes - New Mexico Rio Grande Chapter of the Sierra Club SMART Transportation Division Local 034 Teamsters Local 492 United Academics (UA) - UNM Elected and Local Community Leaders Ben Ray Lujan, U.S.
+Senator Martin Heinrich, U.S.
+Senator Teresa Ledger Fernandez, U.S.
+Congresswoman Javier Martínez, New Mexico Speaker of the House Heather Berghmans, State Senate, District 15 Pamelya Herndon, State House, District 28 Liz Thomson, State House District 24 Abby Foster, Democratic Nominee, State House District 27 Don Gallegos, District 31 voter Gina Bell, District 31 voter Nancie Furgang, District 31 voter Annette Kalandros, District 31 voter Cheryl and Gadi Haase, District 31 voters Kooch Jacobus, District 31 voter Alex Herring, District 31 voter Jerry Ortiz y Pino, Former State Senator District 12 Kristin Wood-Hegner, Northeast Heights resident CONTRIBUTE Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with Lisa!
+Sign up with your name and email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Website Design | BGC

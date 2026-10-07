@@ -1,7 +1,9 @@
 {
  "description": "Get your tickets today! Let's WIN back the Minnesota State House!",
  "final_url": "https://www.joemcdonaldmn.com/events",
- "paid_for_by": null,
+ "fingerprint": "c1f8df42c0cdd31c3476babac6ef5c552cfd9a5b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Joe McDonald for State Rep | Advancing Conservative Values",
  "years_mentioned": [
   "2026"

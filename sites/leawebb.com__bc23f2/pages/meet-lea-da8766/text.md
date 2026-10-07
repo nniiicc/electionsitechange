@@ -1,6 +1,5 @@
-LEA WEBB
-As your State Senator, I'm a voice for working families in Central New York and the Southern Tier" - Lea Webb
-Lea Webb was born and raised in Binghamton and is a lifelong resident of the Southern Tier.
+top of page MEET LEA ISSUES ENDORSEMENTS NEWS VOLUNTEER EVENTS More Use tab to navigate through the menu items.
+DONATE MEET LEA TOP LEA WEBB As your State Senator, I'm a voice for working families in Central New York and the Southern Tier" - Lea Webb Lea Webb was born and raised in Binghamton and is a lifelong resident of the Southern Tier.
 Webb is a proud graduate of public schools and a first generation graduate of SUNY Broome and Binghamton University.
 Before joining the Senate, she worked as an educator at Binghamton University, where she developed diversity and inclusion training and programs for faculty, staff, and students to advance its goals of fostering diversity and inclusivity.
 In 2007, Lea Webb was elected to Binghamton’s City Council, the first Black person to serve on the council.
@@ -13,8 +12,9 @@ She serves as chair of the Senate Committee on Women’s Issues, where she works
 Senator Webb has secured record funding for the district, including $200,000 for youth education programming across the district, $300,000 to support EMS in Tompkins County, $125,000 for the Ross Park Zoo in Binghamton, $250,000 for the Lime Hollow Nature Center in Cortland County, and more.
 During her first term, Webb voted to advance a Constitutional Amendment to always protect a woman’s right to choose, passed groundbreaking legislation to protect our access to clean water and air, and expanded school lunch in public schools and free universal pre-k.
 She also passed legislation through the budget to increase the TAP award to help more students afford college.
-In addition to all these important pieces of legislation, she tackled many local issues, including passing legislation to ban CO2 fracking and saving Roosevelt Elementary and the Ithaca Carshare.
-As a life-long community organizer, Senator Webb believes deeply in expanding opportunities for civic engagement.
+In addition to all these important pieces of legislation, she tackled many local issues, including passing legislation to ban CO2 fracking and saving Roosevelt Elementary and the Ithaca Carshare. ​ As a life-long community organizer, Senator Webb believes deeply in expanding opportunities for civic engagement.
 She is a national trainer with Vote Run Lead, training thousands of women across the country on how to run for elected office.
 She is a Co-Chair/Co-Founder of the Black Millennial Political Convention and a Founding Board Member of Local Progress.
 Lea was honored with the President’s Award by the Broome-Tioga Branch of the NAACP for her significant contributions to her community.
+DONATE Webb For State Senate PO Box 583 Johnson City, NY 13790 Contact: info@leawebb.com ​ Paid for by Webb For State Senate Copyright © #, Webb for State Senate.
+All rights reserved. bottom of page

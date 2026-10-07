@@ -1,25 +1,9 @@
-Endorsements
-Endorse Carol Pefley for
-California State Assembly District 28
-Carol Pefley is asking for the endorsement of leaders and friends of our local communities, elected and non elected officials, and political and non-political organizations.
+Skip to Content Open Menu Close Menu Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Meet Carol About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Get Involved Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Housing Mandates The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Vote 2026 Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Podcasts California Screamin Carol Pefley for Assembly Patriot Store 0 0 Donate Open Menu Close Menu Folder: Meet Carol Back About Carol Key Priorities Ballot Statement Assembly District 28 Carol's Calendar Pictures Folder: Get Involved Back Volunteer Host an Event Weekly Volunteer Meeting Phone Bank Sign Up News by Carol Events Folder: Housing Mandates Back The Issue Los Gatos-Saratoga-Monte Sereno Willow Glen Morgan Hill Santa Cruz Almaden Valley In The News Folder: Vote 2026 Back Voter Help Santa Cruz County Voter Guide Santa Clara County Voter Guide Statewide Ballot Measures Register to Vote Find Polling Center Find my Representative Track My Ballot Replace My Ballot Endorsements Folder: Podcasts Back California Screamin Carol Pefley for Assembly Patriot Store Donate Endorsements Endorse Carol Pefley for California State Assembly District 28 Carol Pefley is asking for the endorsement of leaders and friends of our local communities, elected and non elected officials, and political and non-political organizations.
 Will you back Carol Pefley for California State Assembly DIstrict 28?
-Proudly Endorsed by
-- Organizations/Groups American Independent Party California Republican Assembly
-Santa Clara Chapter
-California Republican Assembly
-Santa Cruz Chapter
-California Republican Party Howard Jarvis Taxpayers Association Moms For Liberty California Reform California South County Congress of Republicans Vietnamese American Conservative Alliance Bay Area Jewish Coalition California Cities for Local Control United Indian Council Silicon Valley Asian Association
-- Leaders and Elected Officials Carl DeMaio
-Chairman, Reform California
-Liz Lawler
-Former Mayor of Monte Sereno
-Chuck Page
-Mayor of Saratoga
-Gino Borgioli
-Former Morgan Hill city Councilman
-Marie Blankley
-Former Mayor of Gilroy
-Nicole Gribstad
-San Jose Unified School Board Trustee Area 5
-Matt Grocott
-Former Mayor of San Carlos
+Endorse Carol Proudly Endorsed by Organizations/Groups American Independent Party California Republican Assembly Santa Clara Chapter California Republican Assembly Santa Cruz Chapter California Republican Party Howard Jarvis Taxpayers Association Moms For Liberty California Reform California South County Congress of Republicans Vietnamese American Conservative Alliance Bay Area Jewish Coalition California Cities for Local Control United Indian Council Silicon Valley Asian Association Leaders and Elected Officials Carl DeMaio Chairman, Reform California Liz Lawler Former Mayor of Monte Sereno Chuck Page Mayor of Saratoga Gino Borgioli Former Morgan Hill city Councilman Marie Blankley Former Mayor of Gilroy Nicole Gribstad San Jose Unified School Board Trustee Area 5 Matt Grocott Former Mayor of San Carlos Help Carol Pefley Win Donate Today Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Email List Join our email list to stay connected with campaign updates and local news.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+Campaign Headquarters 55 East Hamilton Avenue Campbell, CA 95008 carol@carolpefleyforassembly.com Paid for by Carol Pefley for Assembly 2026 © Carol Pefley for California State Assembly District 28.
+All Rights Reserved. | site design by Conservative Toolbox

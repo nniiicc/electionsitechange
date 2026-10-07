@@ -1,4 +1,3 @@
-California Assembly
-District 12
-The general election will be held tuesday, november 3, 2026.
+0 Skip to Content About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE California Assembly District 12 The general election will be held tuesday, november 3, 2026.
 California’s 12th Assembly District includes the Sonoma County cities of Cotati, Petaluma, Rohnert Park, and Santa Rosa, as well as all of Marin County—including San Rafael, Novato, Mill Valley, Larkspur, San Anselmo, Corte Madera, Tiburon, Fairfax, Sausalito, Ross, and Belvedere.
+My Voter Status Contribute About Endorsements Priorities Newsroom District & Voting Media Resources Contact Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086

@@ -1,5 +1,7 @@
-Overall Logic
-The overall logic of the proposals and draft legislation found below is to change the laws of the United States so that our nation can survive indefinitely, at least from a financial perspective.
+Skip to content Donate Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Allen Buckley for U.S.
+Senate Let's buck the system!
+Donate Donate About Me Ballot Access Home Media Inquires Participate Press Releases Why Vote For Me All Solutions and Positions Environmental Protection Fix the Finances Immigration Reform Proposal Reduce Healthcare Costs Rein in the Executive Branch Why the National Debt is our Nation’s Greatest Problem Overall Logic The overall logic of the proposals and draft legislation found below is to change the laws of the United States so that our nation can survive indefinitely, at least from a financial perspective.
 Now, it cannot do so.
 Using algebra, the tax system proposal is designed to gradually produce balanced budgets for all non-recession (or worse) years, thereby causing the debt to stop growing (at least as a percentage of GDP).
 It is simpler and less evasive than the current system.
@@ -15,8 +17,7 @@ Some younger people will come out ahead; others won’t.
 But the strain on the system should become manageable, as Social Security and Medicare become tax system expenses.
 For day-to-day entitlements such as SNAP (food stamps) and refundable credits, single parenthood is no longer encouraged, and having more kids while remaining single is financially discouraged.
 Disincentive to make more money is largely eliminated.
-The Tax System
-As an attorney/CPA for approximately 40 years, I’ve worked mainly in the areas of tax, employee benefits, estate planning and related corporate and litigation matters.
+The Tax System As an attorney/CPA for approximately 40 years, I’ve worked mainly in the areas of tax, employee benefits, estate planning and related corporate and litigation matters.
 In the process, I’ve prepared many tax returns and dealt with many tax controversies.
 I know the complexities of our tax system, the areas of evasion and abuse, and the areas where the IRS abuses taxpayers and return preparers.
 In 2017, Tax Notes published the below article, summarizing my thoughts on possible alternative systems (our system has changed little since the 1930s), and recommending a replacement system.
@@ -31,21 +32,18 @@ The VAT rate is “X” and the SECA rate is X up to $100,000 of net income and 
 X balances the budget.
 This system (and balanced budgets) would be phased in over 4-6 years.
 All above amounts would be indexed for inflation.
-The below article notes what some large companies recently paid the U.S. under the current corporate income tax system.
+My Tax Proposal in One Paragraph Eliminating the Income Tax While Balancing the Budget The below article notes what some large companies recently paid the U.S. under the current corporate income tax system.
 Eli Lilly’s material is marked.
 It shows roughly twice as much tax paid to Ireland even though 2/3rds of sales are in the U.S.
 Under my proposal, 2/3rds of the net income of Eli Lilly would be taxable by the U.S., with the remaining 1/3rd taxed elsewhere.
-(And under my system, labor costs would not be deductible to the extent the foreign labor percent exceeds the foreign sales percent.)
-Spending
-If the tax system ties rates to spending to produce balanced budgets, the less spending the less taxes.
+(And under my system, labor costs would not be deductible to the extent the foreign labor percent exceeds the foreign sales percent.) WSJ Article on What Big Companies Pay in Taxes Spending If the tax system ties rates to spending to produce balanced budgets, the less spending the less taxes.
 For the federal government, there is mandatory spending and discretionary spending.
 Mandatory spending covers entitlements, and amounts spent are required by law.
 (Laws can be changed.) Currently, 60-70 percent of spending is mandatory in nature.
 Proposals to change them (including Social Security and Medicare) follow.
 Concerning discretionary spending, agency heads should be given 20 percent of whatever savings they produce, to be divided among the agencies’ employees.
 Given it hasn’t been productive, the federal Department of Education should be eliminated.
-Social Security, Medicare and Healthcare
-Social Security generally supplies retirement benefits to seniors.
+Social Security, Medicare and Healthcare Social Security generally supplies retirement benefits to seniors.
 When the system was created in the 1930s, the average life expectancy of a 65 year-old was 6 years.
 It’s now roughly 20 years.
 In 1945, the ratio of workers to retirees was 42 to 1.
@@ -62,18 +60,17 @@ The eligibility age for Medicare is similarly gradually moved to age 70 (from ag
 In this regard, between employer plans, Medicaid, Tricare and Obamacare, sufficient means exist for coverage to retained prior to age 70.
 For both Medicare and employer plan coverage, FSA creates competition and incentive to control costs, by causing reasonable out-of-pocket costs to be paid by patients under Medicare or any plan, while not breaking anyone in the process.
 Below are a summary of the Financial Sanity Act of 2027, the actual bill, and a 2009 article I wrote on Social Security potential fixes at that time.
-Other Entitlements and Refundable Tax Credits
-The current system encourages single parenthood, discourages marriage, encourages single parents to have more children while remaining single, and discourages most lower income persons and households from making more money (lest their entitlements and refundable tax credits will be reduced).
+Summary of my Financial Sanity Act of 2027 My Proposed Financial Sanity Act of 2027 2009 Social Security Article Other Entitlements and Refundable Tax Credits The current system encourages single parenthood, discourages marriage, encourages single parents to have more children while remaining single, and discourages most lower income persons and households from making more money (lest their entitlements and refundable tax credits will be reduced).
 The Child Advancement and Ditch Elimination Act of 2027 is designed to counter these results by encouraging marriage where children are present and causing people to come out financially ahead by making more money.
 A 2023 book by Melissa A.
 Kearney titled “The Two-Parent Privilege” pulls together a lot of analysis done over the years by many different persons.
 In the preface of her book, Ms.
-Kearney states:
-Based on the overwhelming evidence at hand, I can say with the utmost confidence that the decline in marriage and the corresponding rise in the share of children being raised in one-parent homes has contributed to the economic insecurity of American families, has widened the gap in opportunities and outcomes for children from different backgrounds, and today poses economic and social challenges that we cannot afford to ignore—but may not be able to reverse.
+Kearney states: Based on the overwhelming evidence at hand, I can say with the utmost confidence that the decline in marriage and the corresponding rise in the share of children being raised in one-parent homes has contributed to the economic insecurity of American families, has widened the gap in opportunities and outcomes for children from different backgrounds, and today poses economic and social challenges that we cannot afford to ignore—but may not be able to reverse.
 The laws should be changed to, from a financial perspective, encourage reversal and a return of traditional families.
-The Federal Reserve
-For decades, the Fed’s objectives have been 3-fold: maximum employment, stable prices and moderate long-term interest rates.
+Summary of my Child Advancement and Ditch Elimination Act Child Advancement and Ditch Elimination Act of 2027 Tax Credits and Entitlements Gone Awry Excel Spreadsheet of CADE Act Effects The Federal Reserve For decades, the Fed’s objectives have been 3-fold: maximum employment, stable prices and moderate long-term interest rates.
 Most articles discuss the Fed’s “dual mandate,” relating only to maximum employment and stable prices.
 While it’s easier to achieve two goals than it is to achieve three, the Fed has largely failed at its dual mandate.
 Given that, historically, the first move of financially declining empires and countries has been to attempt to inflate away the problem, and the Fed was quantitative easing at the rate the Treasury was borrowing in 2020 (at one point, $75 billion per day), the Fed’s sole objective should be to produce stable prices.
 The Financial Sanity Act of 2027 (subsection (tt) – on the last page) changes 12 U.S.C. §225a to so do.
+My Proposed Financial Sanity Act of 2027 Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Authorized by Buckley 2026 LLC Scroll to Top

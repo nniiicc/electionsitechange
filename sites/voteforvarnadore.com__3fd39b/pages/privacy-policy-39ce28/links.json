@@ -1,5 +1,14 @@
 [
-"https://voteforvarnadore.com/",
-"https://voteforvarnadore.com/privacy-policy",
-"https://voteforvarnadore.com/terms-conditions"
+{
+"text": "Privacy Policy",
+"href": "https://voteforvarnadore.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://voteforvarnadore.com/terms-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://voteforvarnadore.com"
+}
 ]

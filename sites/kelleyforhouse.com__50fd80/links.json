@@ -1,10 +1,46 @@
 [
-"https://facebook.com/kelleyforhouse",
-"https://kelleyforhouse.com/",
-"https://kelleyforhouse.com/about",
-"https://kelleyforhouse.com/contact",
-"https://kelleyforhouse.com/record",
-"https://kelleyforhouse.com/volunteer",
-"https://secure.anedot.com/kelley-for-house/donate",
-"https://twitter.com/reptreykelley?lang=en"
+{
+"text": "About Trey",
+"href": "https://kelleyforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://kelleyforhouse.com/contact"
+},
+{
+"text": "Donate ›",
+"href": "https://secure.anedot.com/kelley-for-house/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kelleyforhouse/"
+},
+{
+"text": "Home",
+"href": "https://kelleyforhouse.com/"
+},
+{
+"text": "Learn More ›",
+"href": "https://kelleyforhouse.com/about"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Trey's Record",
+"href": "https://kelleyforhouse.com/record"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/reptreykelley?lang=en"
+},
+{
+"text": "Volunteer",
+"href": "https://kelleyforhouse.com/volunteer"
+},
+{
+"text": "[image: Trey Kelley for House Logo]",
+"href": "https://kelleyforhouse.com/"
+}
 ]

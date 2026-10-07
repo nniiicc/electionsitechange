@@ -1,12 +1,46 @@
 [
-"https://cvsc.org/",
-"https://facebook.com/profile.php?id=61586775890009",
-"https://google.com/maps/search/1858+S.+Grimball+Road+and++St?entry=gmail",
-"https://google.com/maps/search/3673+Maybank+Highway?entry=gmail",
-"https://instagram.com/nick29412",
-"https://nickforschouse.com/",
-"https://nickforschouse.com/contact",
-"https://secure.actblue.com/donate/nick-uricchio-1",
-"https://thescea.org/",
-"https://x.com/NickUricchio115"
+{
+"text": "1858 S. Grimball Road",
+"href": "https://www.google.com/maps/search/1858+S.+Grimball+Road+and++St?entry=gmail"
+},
+{
+"text": "3673 Maybank Highway",
+"href": "https://www.google.com/maps/search/3673+Maybank+Highway?entry=gmail"
+},
+{
+"text": "Contact",
+"href": "https://nickforschouse.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/nick-uricchio-1"
+},
+{
+"text": "Facebook-square",
+"href": "https://www.facebook.com/profile.php?id=61586775890009"
+},
+{
+"text": "Home",
+"href": "https://nickforschouse.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nick29412/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/NickUricchio115"
+},
+{
+"text": "[image: Conservation Voters of SC]",
+"href": "https://www.cvsc.org/"
+},
+{
+"text": "[image: Nick Uricchio for State House District 115]",
+"href": "https://nickforschouse.com"
+},
+{
+"text": "[image: South Carolina Education Assocation]",
+"href": "https://www.thescea.org/"
+}
 ]

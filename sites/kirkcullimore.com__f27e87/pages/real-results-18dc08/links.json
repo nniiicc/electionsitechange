@@ -1,12 +1,66 @@
 [
-"https://kirkcullimore.com/",
-"https://kirkcullimore.com/donate",
-"https://kirkcullimore.com/real-results",
-"https://kirkcullimore.com/real-results-business",
-"https://kirkcullimore.com/real-results-businesses",
-"https://kirkcullimore.com/real-results-families",
-"https://kirkcullimore.com/real-results-future",
-"https://kirkcullimore.com/real-results-kids",
-"https://kirkcullimore.com/real-results-safe-communities",
-"https://kirkcullimore.com/real-results-taxpayers"
+{
+"text": "Donate",
+"href": "https://kirkcullimore.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://kirkcullimore.com"
+},
+{
+"text": "Real Results",
+"href": "https://kirkcullimore.com/real-results/"
+},
+{
+"text": "Real Results for Safer Communities",
+"href": "https://kirkcullimore.com/real-results-safe-communities/"
+},
+{
+"text": "Real Results for Utah Businesses",
+"href": "https://kirkcullimore.com/real-results-businesses/"
+},
+{
+"text": "Real Results for Utah Families",
+"href": "https://kirkcullimore.com/real-results-families/"
+},
+{
+"text": "Real Results for Utah Kids",
+"href": "https://kirkcullimore.com/real-results-kids/"
+},
+{
+"text": "Real Results for Utah Taxpayers",
+"href": "https://kirkcullimore.com/real-results-taxpayers/"
+},
+{
+"text": "Real Results for Utah’s Future",
+"href": "https://kirkcullimore.com/real-results-future/"
+},
+{
+"text": "[image: Kirk Cullimore and his family] Real Results For Utah Families Keeping Utah affordable, strengthening families, and protecting the quality of life that makes our state such a special place to call home. See Family Results →",
+"href": "https://kirkcullimore.com/real-results-families"
+},
+{
+"text": "[image: Kirk Cullimore supporting Utah businesses] Real Results For Utah Businesses Keeping taxes low, reducing unnecessary barriers, and protecting Utah's pro-business environment so employers can grow and create opportunity. See Business Results →",
+"href": "https://kirkcullimore.com/real-results-business"
+},
+{
+"text": "[image: Kirk Cullimore working for Utah's future] Real Results For Utah's Future Protecting Utah's water, improving air quality, strengthening infrastructure, and planning responsibly for the generations that come next. See Utah's Future Results →",
+"href": "https://kirkcullimore.com/real-results-future"
+},
+{
+"text": "[image: Kirk Cullimore working in the community] Real Results For Safe Communities Supporting law enforcement, strengthening public safety, and giving Utah communities the tools they need to protect families and neighborhoods. See Public Safety Results →",
+"href": "https://kirkcullimore.com/real-results-safe-communities"
+},
+{
+"text": "[image: Kirk Cullimore] Real Results For Taxpayers Cutting taxes, returning money to Utah families, and making sure state government remains fiscally responsible. See Taxpayer Results →",
+"href": "https://kirkcullimore.com/real-results-taxpayers"
+},
+{
+"text": "[image: Senator Kirk Cullimore]",
+"href": "https://kirkcullimore.com"
+},
+{
+"text": "[image: Utah children] Real Results For Utah's Kids Investing in education, supporting teachers, expanding opportunity, and keeping parents at the center of their children's education. See Education Results →",
+"href": "https://kirkcullimore.com/real-results-kids"
+}
 ]

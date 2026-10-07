@@ -1,30 +1,22 @@
-www.LisaforGa.com
-Terms of Use
-Agreement between User and LisaforGA.com
-Welcome to LisaforGA.com.
+0 Skip to Content Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate Open Menu Close Menu Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate Open Menu Close Menu Home Meet Lisa Issues Vote Press Lisa's Record Endorsements Newsletter Contact Us Donate www.LisaforGa.com Terms of Use Agreement between User and LisaforGA.com Welcome to LisaforGA.com.
 The LisaforGA.com website (the "Site") is comprised of various web pages operated by Friends of Lisa Campbell, Inc..
 LisaforGA.com is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms").
 Your use of LisaforGA.com constitutes your agreement to all such Terms.
 Please read these terms carefully, and keep a copy of them for your reference.
 LisaforGA.com is a Politics Site.
 To promote the candidate Lisa Campbell for Georgia House District 35.
-Privacy
-Your use of LisaforGA.com is subject to Friends of Lisa Campbell, Inc.'s Privacy Policy.
+Privacy Your use of LisaforGA.com is subject to Friends of Lisa Campbell, Inc.'s Privacy Policy.
 Please review our Privacy Policy, which also governs the Site and informs users of our data collection practices.
-Electronic Communications
-Visiting LisaforGA.com or sending emails to Friends of Lisa Campbell, Inc. constitutes electronic communications.
+Electronic Communications Visiting LisaforGA.com or sending emails to Friends of Lisa Campbell, Inc. constitutes electronic communications.
 You consent to receive electronic communications and you agree that all agreements, notices, disclosures and other communications that we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communications be in writing.
-Children Under Thirteen
-Friends of Lisa Campbell, Inc. does not knowingly collect, either online or offline, personal information from persons under the age of thirteen.
+Children Under Thirteen Friends of Lisa Campbell, Inc. does not knowingly collect, either online or offline, personal information from persons under the age of thirteen.
 If you are under 18, you may use LisaforGA.com only with permission of a parent or guardian.
-Links to Third Party Sites/Third Party Services
-LisaforGA.com may contain links to other websites ("Linked Sites").
+Links to Third Party Sites/Third Party Services LisaforGA.com may contain links to other websites ("Linked Sites").
 The Linked Sites are not under the control of Friends of Lisa Campbell, Inc. and Friends of Lisa Campbell, Inc. is not responsible for the contents of any Linked Site, including without limitation any link contained in a Linked Site, or any changes or updates to a Linked Site.
 Friends of Lisa Campbell, Inc. is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Friends of Lisa Campbell, Inc. of the site or any association with its operators.
 Certain services made available via LisaforGA.com are delivered by third party sites and organizations.
 By using any product, service or functionality originating from the LisaforGA.com domain, you hereby acknowledge and consent that Friends of Lisa Campbell, Inc. may share such information and data with any third party with whom Friends of Lisa Campbell, Inc. has a contractual relationship to provide the requested product, service or functionality on behalf of LisaforGA.com users and customers.
-No Unlawful or Prohibited Use/Intellectual Property
-You are granted a non-exclusive, non-transferable, revocable license to access and use LisaforGA.com strictly in accordance with these terms of use.
+No Unlawful or Prohibited Use/Intellectual Property You are granted a non-exclusive, non-transferable, revocable license to access and use LisaforGA.com strictly in accordance with these terms of use.
 As a condition of your use of the Site, you warrant to Friends of Lisa Campbell, Inc. that you will not use the Site for any purpose that is unlawful or prohibited by these Terms.
 You may not use the Site in any manner which could damage, disable, overburden, or impair the Site or interfere with any other party's use and enjoyment of the Site.
 You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Site.
@@ -36,16 +28,13 @@ Your use of the Site does not entitle you to make any unauthorized use of any pr
 You will use protected content solely for your personal use, and will make no other use of the content without the express written permission of Friends of Lisa Campbell, Inc. and the copyright owner.
 You agree that you do not acquire any ownership rights in any protected content.
 We do not grant you any licenses, express or implied, to the intellectual property of Friends of Lisa Campbell, Inc. or our licensors except as expressly authorized by these Terms.
-International Users
-The Service is controlled, operated and administered by Friends of Lisa Campbell, Inc. from our offices within the USA.
+International Users The Service is controlled, operated and administered by Friends of Lisa Campbell, Inc. from our offices within the USA.
 If you access the Service from a location outside the USA, you are responsible for compliance with all local laws.
 You agree that you will not use the Friends of Lisa Campbell, Inc.
 Content accessed through LisaforGA.com in any country or in any manner prohibited by any applicable laws, restrictions or regulations.
-Indemnification
-You agree to indemnify, defend and hold harmless Friends of Lisa Campbell, Inc., its officers, directors, employees, agents and third parties, for any losses, costs, liabilities and expenses (including reasonable attorney's fees) relating to or arising out of your use of or inability to use the Site or services, any user postings made by you, your violation of any terms of this Agreement or your violation of any rights of a third party, or your violation of any applicable laws, rules or regulations.
+Indemnification You agree to indemnify, defend and hold harmless Friends of Lisa Campbell, Inc., its officers, directors, employees, agents and third parties, for any losses, costs, liabilities and expenses (including reasonable attorney's fees) relating to or arising out of your use of or inability to use the Site or services, any user postings made by you, your violation of any terms of this Agreement or your violation of any rights of a third party, or your violation of any applicable laws, rules or regulations.
 Friends of Lisa Campbell, Inc. reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with Friends of Lisa Campbell, Inc. in asserting any available defenses.
-Liability Disclaimer
-THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
+Liability Disclaimer THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
 CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN.
 FRIENDS OF LISA CAMPBELL, INC.
 AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE SITE AT ANY TIME.
@@ -59,8 +48,7 @@ AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, S
 OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES.
 BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
 IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE.
-Termination/Access Restriction
-Friends of Lisa Campbell, Inc. reserves the right, in its sole discretion, to terminate your access to the Site and the related services or any portion thereof at any time, without notice.
+Termination/Access Restriction Friends of Lisa Campbell, Inc. reserves the right, in its sole discretion, to terminate your access to the Site and the related services or any portion thereof at any time, without notice.
 To the maximum extent permitted by law, this agreement is governed by the laws of the State of Georgia and you hereby consent to the exclusive jurisdiction and venue of courts in Georgia in all disputes arising out of or relating to the use of the Site.
 Use of the Site is unauthorized in any jurisdiction that does not give effect to all provisions of these Terms, including, without limitation, this section.
 You agree that no joint venture, partnership, employment, or agency relationship exists between you and Friends of Lisa Campbell, Inc. as a result of this agreement or use of the Site.
@@ -69,16 +57,9 @@ If any part of this agreement is determined to be invalid or unenforceable pursu
 Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and Friends of Lisa Campbell, Inc. with respect to the Site and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and Friends of Lisa Campbell, Inc. with respect to the Site.
 A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 It is the express wish to the parties that this agreement and all related documents be written in English.
-Changes to Terms
-Friends of Lisa Campbell, Inc. reserves the right, in its sole discretion, to change the Terms under which LisaforGA.com is offered.
+Changes to Terms Friends of Lisa Campbell, Inc. reserves the right, in its sole discretion, to change the Terms under which LisaforGA.com is offered.
 The most current version of the Terms will supersede all previous versions.
 Friends of Lisa Campbell, Inc. encourages you to periodically review the Terms to stay informed of our updates.
-Contact Us
-Friends of Lisa Campbell, Inc. welcomes your questions or comments regarding the Terms:
-Friends of Lisa Campbell, Inc.
-2001 Duncan Drive, Suite 2281
-Kennesaw, Georgia 30156
-Email Address:
-Telephone number:
-770.299.9973
-Effective as of March 07, 2020
+Contact Us Friends of Lisa Campbell, Inc. welcomes your questions or comments regarding the Terms: Friends of Lisa Campbell, Inc.
+2001 Duncan Drive, Suite 2281 Kennesaw, Georgia 30156 Email Address: info@LisaforGA.com Telephone number: 770.299.9973 Effective as of March 07, 2020 Get Involved Friends of Lisa Campbell, Inc.
+2001 Duncan Drive, Unit 2281 Kennesaw, GA 30156 info@lisaforga.com 770.299.9973 ©# Friends of Lisa Campbell, Inc., All rights reserved | Terms of Use | Privacy Policy

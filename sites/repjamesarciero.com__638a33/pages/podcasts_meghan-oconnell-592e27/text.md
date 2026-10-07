@@ -1,6 +1,3 @@
-Meghan O’Connell
-Great to meet Meghan O'Connell, Westford resident and candidate for Select Board.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Meghan O’Connell Apr 21 Written By James Arciero Great to meet Meghan O'Connell, Westford resident and candidate for Select Board.
 We talked about her family, her life before Westford and her interest in running for the Board!
-Written By James Arciero
-Previous
-Next
+James Arciero Previous Previous Heather Fitzpatrick Next Next Noelle Donovan Paid for by the Committee to Elect Jim Arciero

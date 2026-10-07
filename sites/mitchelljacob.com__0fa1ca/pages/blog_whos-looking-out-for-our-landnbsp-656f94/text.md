@@ -1,5 +1,5 @@
-Who’s Looking Out for Our Land?
-Data centers.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Who’s Looking Out for Our Land?
+Jul 27 Written By Mitch Data centers.
 They are owned by the richest people in the world.
 There are no rules, and Americans are footing the bill.
 This Administration makes promises about the air we breathe, the water we drink, noise, and light pollution.
@@ -29,7 +29,7 @@ In other words, data centers are draining our water and continue to ramp up elec
 Trump even recently stated we are going to need double the electricity that we have right now, maybe even more, to really fulfill what we want to do.
 The question everyone is asking: who will really pay for this AI boom?
 On July 23, Trump had governors and electricity companies join a voluntary pledge to shield U.S. consumers from higher utility bills from data centers.
-He calls this his Ratepayer Protection Pledge.
+He calls this his Ratepayer Protection Pledge .
 Under this plan, America’s largest tech companies have formally committed to investing in generating their own electricity in exchange for the right to do so.
 He promises that the people won’t be the ones to foot this bill, though we know that this Administration has lied in the past.
 There’s no telling when a certain project may require new substations, transmission lines, or additional power generation.
@@ -38,19 +38,7 @@ To be fair, it does say “pretty please.” Is this just another “pinky-promi
 Only time will tell.
 While states were quick to hop on the innovation bandwagon, little did Oklahomans know that Oklahoma would be a primary target for this kind of expansion.
 Below is a running list of data center projects across the state.
-- Claremore
-- Muskogee County
-- Oklahoma City
-- Pawhuska
-- Pittsburg/Atoka County
-- Pryor
-- Sand springs
-- Stillwater
-- Owasso
-- Tulsa
-- Vinita
-- Yukon
-For Oklahoma, these hit close to home because Oklahoma has always been defined by its land.
+Claremore Muskogee County Oklahoma City Pawhuska Pittsburg/Atoka County Pryor Sand springs Stillwater Owasso Tulsa Vinita Yukon For Oklahoma, these hit close to home because Oklahoma has always been defined by its land.
 Our farms, ranches, lakes, rivers, and open spaces are the foundation of our economy.
 Yet, farmers depend on water.
 Ranchers depend on healthy land.
@@ -67,7 +55,7 @@ Oklahoma’s land.
 We must join them in their quest to protect our water and our air.
 Let’s see what Tom Cole has to say on the issue.
 Tom Cole states, “I also care deeply for the well-being of our national parks, national forests, wildlife refuges and other public lands.
-I believe that our natural resources are among our nation's greatest treasures, and Congress should work to ensure that the environment is preserved for future generations.” Yet, Cole stands idly by while this Administration strips protections from two national monuments held sacred by tribes, eliminates major habitat protections from the Endangered Species Act, and promotes the building of data centers all across the nation.
+I believe that our natural resources are among our nation's greatest treasures, and Congress should work to ensure that the environment is preserved for future generations. ” Yet, Cole stands idly by while this Administration strips protections from two national monuments held sacred by tribes, eliminates major habitat protections from the Endangered Species Act, and promotes the building of data centers all across the nation.
 We must demand that politicians create and support legislation that protects this land and holds data centers accountable.
 For example, in March, Democrats introduced the Energy Bills Relief Act to rein in energy costs with clean, affordable energy, cut pollution, and reduce utility bills for millions of Americans.
 EBRA will invest in and deploy clean energy like wind and solar, hold data centers accountable, expand heating assistance for low-income families, and more.
@@ -78,6 +66,17 @@ Will we leave behind a legacy of conservation, innovation, improvement, and expa
 Or will we leave behind polluted waterways, toxic air, and a massive cleanup?
 Innovation is necessary for continued growth, but we must ensure that the price of that growth is not our children’s future.
 We must protect prime farmland from invasive species of data centers and ensure that drinking water is reserved first for Americans, then for our agricultural needs, and then for industrial and technological applications.
-Anything less is selling out the American people for a quick dollar.
-______
-Data Centers – Database, https://www.datacentermap.com/datacenters/.Watch: Trump Expands Pledge Aimed at Shielding Consumers from Energy Cost Hikes Due to Data Centers, PBS News, https://www.pbs.org/newshour/politics/watch-trump-expands-pledge-aimed-at-shielding-consumers-from-energy-cost-hikes-due-to-data-centers\.AI’s Environmental Costs Threaten Water, Land and Climate, UN News, https://news.un.org/en/story/2026/06/1167658.US Consumers Face Rising Electricity Prices Despite Clean Power Savings, Reuters, https://www.reuters.com/business/energy/us-consumers-face-rising-electricity-prices-despite-clean-power-savings--reeii-2026-04-28/.Where Are Data Centers Being Built Across Oklahoma?, News9, https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list.Levi Rickert, Seminole Nation of Oklahoma Passes Moratorium on Data Centers, Native News Online, https://nativenewsonline.net/sovereignty/seminole-nation-of-oklahoma-passes-moratorium-on-data-centers/.Cherokee Nation Establishes Task Force to Study the Impact of Data Centers, Cherokee Phoenix, https://www.cherokeephoenix.org/news/cherokee-nation-establishes-task-force-to-study-the-impact-of-data-centers/article_173a3f43-b44b-43f4-a373-4dfa9293e45e.html.As Data Centers Eye Oklahoma, Tribes Weigh the Costs, KOSU, https://www.kosu.org/show/stateimpact-oklahoma/2026-06-25/as-data-centers-eye-oklahoma-tribes-weigh-the-costs.
+Anything less is selling out the American people for a quick dollar. ______ Data Centers – Database, https://www.datacentermap.com/datacenters/ .
+Watch: Trump Expands Pledge Aimed at Shielding Consumers from Energy Cost Hikes Due to Data Centers, PBS News, https://www.pbs.org/newshour/politics/watch-trump-expands-pledge-aimed-at-shielding-consumers-from-energy-cost-hikes-due-to-data-centers\ .
+AI’s Environmental Costs Threaten Water, Land and Climate, UN News, https://news.un.org/en/story/2026/06/1167658 .
+US Consumers Face Rising Electricity Prices Despite Clean Power Savings, Reuters, https://www.reuters.com/business/energy/us-consumers-face-rising-electricity-prices-despite-clean-power-savings--reeii-2026-04-28/ .
+Where Are Data Centers Being Built Across Oklahoma?, News9, https://www.news9.com/oklahoma-city-news/where-are-data-centers-are-being-built-oklahoma-list .
+Levi Rickert, Seminole Nation of Oklahoma Passes Moratorium on Data Centers, Native News Online, https://nativenewsonline.net/sovereignty/seminole-nation-of-oklahoma-passes-moratorium-on-data-centers/ .
+Cherokee Nation Establishes Task Force to Study the Impact of Data Centers, Cherokee Phoenix, https://www.cherokeephoenix.org/news/cherokee-nation-establishes-task-force-to-study-the-impact-of-data-centers/article_173a3f43-b44b-43f4-a373-4dfa9293e45e.html .
+As Data Centers Eye Oklahoma, Tribes Weigh the Costs, KOSU, https://www.kosu.org/show/stateimpact-oklahoma/2026-06-25/as-data-centers-eye-oklahoma-tribes-weigh-the-costs .
+Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous War Chests vs.
+We the People Next Next What Could We Do With a Billion Dollars a Day?
+Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

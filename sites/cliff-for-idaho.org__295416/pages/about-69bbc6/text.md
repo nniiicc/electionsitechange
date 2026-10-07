@@ -1,4 +1,4 @@
-He's just this guy, you know?
+Skip to content Home Issues About Contact Volunteer Newsletter Signup Donate Home Issues About Contact Volunteer Newsletter Signup Donate Menu About Home About He's just this guy, you know?
 Cliff has worked in the private and public sectors, for small independent businesses and international companies.
 He’s worked for local, state, and federal governments, as well as non-profits.
 He’s seen how all these different entities can work well, and work together.
@@ -12,3 +12,5 @@ It can be difficult though, and he has come to understand how viewing the world 
 But it doesn’t have to be that way.
 Cliff enjoys volunteer work, computer gaming, and a little backpacking in the mountains when he can get time for it.
 He lives with his wife and four cats in a small, 120-year-old home in Nampa and drives a car that’s old enough to buy beer.
+The Footer Message If you’ve made it down here to the bottom, you should consider volunteering or donating !
+Contact Info Address: PO Box 1134, Nampa ID, 83653 Mobile: (208) 350-8041 Email: cliff@cliff-for-idaho.org Copyright © # - WordPress Theme by Creative Themes Privacy Policy Paid for by Cliff Hohman for Idaho, Melissa Quinn Treasurer

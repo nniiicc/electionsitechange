@@ -1,17 +1,86 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/Shawnforprogress",
-"https://instagram.com/Shawnforprogress",
-"https://secure.actblue.com/donate/shawn-olorundami-1",
-"https://shawnforprogress.com/",
-"https://shawnforprogress.com/contact",
-"https://shawnforprogress.com/donate",
-"https://shawnforprogress.com/events",
-"https://shawnforprogress.com/host-a-yard-sign",
-"https://shawnforprogress.com/house-district-1",
-"https://shawnforprogress.com/issues",
-"https://shawnforprogress.com/news",
-"https://shawnforprogress.com/volunteer",
-"https://threads.net/@shawnforprogress",
-"https://tiktok.com/@shawnforprogress"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "Contact",
+"href": "https://www.shawnforprogress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.shawnforprogress.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.shawnforprogress.com/events"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.shawnforprogress.com/host-a-yard-sign"
+},
+{
+"text": "House District 1",
+"href": "https://www.shawnforprogress.com/house-district-1"
+},
+{
+"text": "Issues and Policy",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.shawnforprogress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/shawn-olorundami-1"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shawnforprogress.com/volunteer"
+},
+{
+"text": "[image: Shawn for Progress logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@shawnforprogress"
+}
 ]

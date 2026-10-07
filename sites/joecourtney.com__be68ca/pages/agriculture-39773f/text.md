@@ -1,7 +1,6 @@
-On most weekends, you can find Joe at one of our region’s farmer’s markets, sampling the many products produced by eastern Connecticut’s agricultural industry.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact AGRICULTURE AGRICULTURE On most weekends, you can find Joe at one of our region’s farmer’s markets, sampling the many products produced by eastern Connecticut’s agricultural industry.
 Agriculture is a critical component of our region’s economy, and Joe has made supporting the district’s farmers a top priority.
-Learn more about Joe’s work:
-Helping farmers lower energy costs and conserve their land.
+Learn more about Joe’s work: Helping farmers lower energy costs and conserve their land.
 Joe has long worked with eastern Connecticut’s agriculture community to expand federal support for new conservation and alternative energy tools for our farmers.
 Joe has supported and expanded programs like the Environmental Quality Incentives Program (EQIP) and the Rural Energy for America Program (REAP) programs, which eastern Connecticut farmers use today to conserve their land and lower energy costs – such as the new anaerobic digester at Fort Fills Farm in in Thompson.
 Supporting our dairy farmers.
@@ -16,3 +15,4 @@ Joe wrote a bill to replenish the aging farming workforce and encourage college 
 Supporting the agricultural workforce.
 Joe is fighting for legislation like the Farm Workforce Modernization Act to help farms hire the help they need, while also ensuring those who harvest our food are compensated fairly.
 This bipartisan effort would support year-round farming industries like the dairy industry.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

@@ -1,10 +1,58 @@
 [
-"http://brandonformichigan.com/",
-"https://brandonformichigan.com/",
-"https://brandonformichigan.com/blank-1",
-"https://facebook.com/brandonformichigan",
-"https://instagram.com/brandonformichigan",
-"https://secure.winred.com/brandon-strong-committee-to-elect/donate-today",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "Accessibility",
+"href": "https://www.brandonformichigan.com/blank-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brandon-strong-committee-to-elect/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Events",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Home",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Meet Brandon",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Campaign Logo Main]",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Campaign Logo]",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brandonformichigan"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brandonformichigan/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://www.wix.com"
+},
+{
+"text": "brandon@brandonformichigan.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.brandonformichigan.com",
+"href": "http://www.brandonformichigan.com"
+}
 ]

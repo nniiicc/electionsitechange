@@ -1,4 +1,4 @@
-| As a new public charter school authorized for 8-12th grades opening in August of this year, St.
+UT 74 VOTE ABOUT Posts Experience Contact Charter Schools Impact on District schools 3/5/2017 As a new public charter school authorized for 8-12th grades opening in August of this year, St.
 George Academy will help benefit all of the students in Southern Utah.
 Michael Dee Martineau titled his 2013 Department of Economics PhD dissertation at the University of Utah “The Competitive Effects of Charter Schools in Utah.” In his paper, he concluded “districts that have seen a greater degree of charter competition tend to see increases in traditional public school achievement”.
 St.
@@ -36,4 +36,4 @@ Education is a resourceful teacher inspiring students to learn.
 St.
 George Academy will benefit the students walking through the doors, but it will do more.
 Our students, parents, faculty, and community members desire to be part of the solution in their own lives, and hopefully realize the conclusion asserted in Mr.
-Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 | |
+Martineau’s paper, “a greater degree of school choice in Utah can indeed be a rising tide that lifts all boats.” You can read the full dissertation here: https://collections.lib.utah.edu/details?id=195861 Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

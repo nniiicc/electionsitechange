@@ -1,15 +1,11 @@
-Education
-I have spoken out before on the decline of our small, rural towns.
+0 Skip to Content Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Open Menu Close Menu Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Open Menu Close Menu Education Meet Candidate Issues Events Endorsements and Designations Volunteer DONATE Education I have spoken out before on the decline of our small, rural towns.
 I know and understand the fears and concerns felt by declining population.
 I know this because I have talked to constituents about their desire for generational links to continue.
 I know you want your children returning home to raise their children.
 Let’s start working on change a cracked system so they have more reason to do so.
 Let’s fix education so each community has a strong foundation for youth to return home post university or to stay and run local businesses while they raise our future generations.
 If we fail to invest in our children now rural Texas risks losing them permanently.
-Education Platform
-English and History Curriculum Censorship
-Fellow Texans, friends, parents, educators, and neighbors across Texas House District 88 —
-Tonight, I am not just as a candidate.
+Education Platform English and History Curriculum Censorship Fellow Texans, friends, parents, educators, and neighbors across Texas House District 88 — Tonight, I am not just as a candidate.
 I am reaching out to you this evening as a teacher.
 For years, I have walked into classrooms across our communities carrying lesson plans, stacks of essays, debate cases, history documents and sometimes the emotional weight our students quietly carry through the doors with them every morning.
 As a teacher, I have spent years encouraging students to read boldly, think critically and ask questions about the world around them.
@@ -19,8 +15,7 @@ That is why I am deeply concerned about the direction Texas is moving with state
 I have taught students from farming families in places where drought and aquifer decline threaten livelihoods.
 I have taught students whose parents work long shifts in oil fields, hospitals, classrooms and local businesses just to keep food on the table.
 I have taught students who dream of becoming doctors, welders, historians, engineers, ranchers, teachers and public servants right here in the Texas Panhandle.
-And I can tell you this with absolute certainty:
-Our students are not fragile.
+And I can tell you this with absolute certainty: Our students are not fragile.
 They are capable of truth.
 They are capable of critical thought.
 And they deserve an education built on honesty — not fear.
@@ -57,7 +52,7 @@ Texas students are capable of engaging with difficult history and meaningful lit
 Our educators should be trusted to teach with professionalism, context and academic integrity.
 They should not constrained by politically motivated censorship.
 Imagine being a history teacher trying to explain the Civil Rights Movement while wondering whether discussing systemic discrimination might trigger complaints.
-Imagine teaching the Holocaust while worrying about accusations of making students “uncomfortable.” Imagine teaching literature like To Kill a Mockingbird, The Bluest Eye, or works discussing inequality and identity while districts pull books from shelves out of fear.
+Imagine teaching the Holocaust while worrying about accusations of making students “uncomfortable.” Imagine teaching literature like To Kill a Mockingbird , The Bluest Eye , or works discussing inequality and identity while districts pull books from shelves out of fear.
 That is not educational freedom.
 That is political intimidation.
 As an AP World History teacher and speech and debate coach, I have watched students thrive when they are allowed to ask hard questions, challenge assumptions, evaluate evidence and engage in respectful disagreement.
@@ -67,8 +62,7 @@ History teaches students how civilizations succeed and fail.
 Literature teaches empathy.
 Together, these subjects create informed citizens capable of participating in democracy.
 But when politicians begin deciding which ideas are acceptable and which historical truths are too controversial, we stop educating students how to think and begin teaching them what to avoid thinking about.
-And here’s what concerns me most for rural Texas:
-District 88 already faces serious educational challenges.
+And here’s what concerns me most for rural Texas: District 88 already faces serious educational challenges.
 We struggle with teacher shortages.
 We struggle with retaining qualified educators in rural communities.
 Many schools face budget pressures, staffing shortages and difficulty offering advanced coursework.
@@ -83,8 +77,7 @@ And meanwhile, our children still have to compete with students from across the 
 Students entering universities and modern workplaces must know how to analyze complex information, evaluate multiple viewpoints and understand the realities of both history and modern society.
 Shielding students from complexity does not prepare them for the future.
 It weakens their ability to succeed in it.
-Now let me be clear:
-Parents absolutely deserve involvement in education.
+Now let me be clear: Parents absolutely deserve involvement in education.
 Transparency matters.
 Age-appropriate instruction matters.
 But there is a difference between parental partnership and political censorship.
@@ -101,9 +94,7 @@ That is the future I am fighting for.
 Our Voice.
 Our Liberty.
 Our Texas.
-Advanced Education -
-Advanced Placement, Dual Credit & Gifted Services
-Across Texas, legislation such as HB 900, the so-called READER Act, alongside new state controlled curriculum initiatives ( such as proposed mandatory reading lists) are creating an environment where politics increasingly dictates what students are allowed to read and what teachers are allowed to teach.
+Advanced Education - Advanced Placement, Dual Credit & Gifted Services Across Texas, legislation such as HB 900, the so-called READER Act, alongside new state controlled curriculum initiatives ( such as proposed mandatory reading lists) are creating an environment where politics increasingly dictates what students are allowed to read and what teachers are allowed to teach.
 While these issues affect all youth in Texas, here in District 88, the negative results run much deeper.
 Rural students deserve the same intellectual opportunities as students anywhere else in Texas - and beyond.
 I wrote last night covering concerns with this issue; however, because education is such a significant issue I want to discuss it further.
@@ -145,15 +136,13 @@ Professional judgement matters.
 I do not support politicians micromanaging classroom libraries from Austin while rural schools struggle.
 As your representative, I will fight for public education that values literacy, critical thinking, local input and intellectual honesty.
 I will stand with teachers, parents and students against censorship driven by fear and political theater.
-I will continue believing what I have always believed as an educator:
-A student who learns to think critically becomes harder to manipulate.
+I will continue believing what I have always believed as an educator: A student who learns to think critically becomes harder to manipulate.
 A student who reads broadly becomes more compassionate.
 And a student trusted with truth becomes stronger not weaker.
 Our students still compete against students from Dallas, Houston, Austin and across the nation for university admissions, scholarships, internships, and careers.
 Some face this same competition internationally.
 So when Texas passes restrictive laws like HB 3979, Senate Bill 3, HB 900 rural students are the ones who fall furthest behind.
-As an AP World History teacher, speech and debate coach, and former Gifted Education Coordinator, I can tell you exactly what gifted and high-achieving students need to succeed at the university level:
-They need analytical thinking.
+As an AP World History teacher, speech and debate coach, and former Gifted Education Coordinator, I can tell you exactly what gifted and high-achieving students need to succeed at the university level: They need analytical thinking.
 They need exposure to diverse perspectives.
 They need rigorous reading.
 They need difficult discussions.
@@ -198,8 +187,7 @@ We should be expanding their horizons not shrinking them.
 Our Voice.
 Our Liberty.
 Our Texas.
-Gifted Students and Services
-Texas has one of the oldest and most developed gifted and talented education frameworks in the country, but recent legislative and policy changes have created growing debate over whether the state is truly supporting advanced learners , especially in rural school districts like those in District 88.
+Gifted Students and Services Texas has one of the oldest and most developed gifted and talented education frameworks in the country, but recent legislative and policy changes have created growing debate over whether the state is truly supporting advanced learners , especially in rural school districts like those in District 88.
 In rural Texas, gifted education is not a luxury - it is a lifeline.
 Under Texas Education Code §29.121–29.123, Texas law requires public school districts to identify and serve gifted and talented (G/T) students.
 Since 1987, districts have been legally required to provide services for gifted students at all grade levels.
@@ -268,11 +256,7 @@ Gifted students thrive in environments where questioning, exploration, creativit
 When classrooms become fearful of difficult conversations or narrowed by political pressure it is our advanced learners who are often the first to feel academically confined.
 Those students exist in every county of District 88.
 In every small town where a student stays up late reading, questioning, dreaming and hoping for a future bigger than their circumstances.
-Improving gifted education tells those students:
-“You belong in the conversation.”
-“You are capable.”
-“Your future matters.”
-To them and their families - I am saying - I hear you.
+Improving gifted education tells those students: “You belong in the conversation.” “You are capable.” “Your future matters.” To them and their families - I am saying - I hear you.
 I see you.
 I will be your voice.
 As your representative, I will always fight for strong rural public schools, advanced academic opportunities, AP and dual-credit expansion, teacher recruitment, and gifted education programs that ensure Panhandle students can compete with anyone in Texas or this nation.
@@ -317,6 +301,4 @@ Supporting education sparks innovation.
 Supporting education boosts economic development.
 Supporting education promotes population growth.
 Supporting education literally changes the world.
-Supporting Texas Teachers
--
-Item description
+Supporting Texas Teachers Voucher Concerns Teacher Pay Teacher Shortage & Burnout School Funding Item description Heather Wallace for Texas House District 88 Contact wallaceforlibertyandvoicetxh88@gmail.com

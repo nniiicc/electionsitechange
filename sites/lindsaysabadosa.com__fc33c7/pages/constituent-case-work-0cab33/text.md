@@ -1,10 +1,9 @@
-LET US HELP!
+HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US Menu HOME GETTING TO KNOW US BIO OUR DISTRICT OUR TEAM COMMITTEES CAUCUSES COMMISSIONS LEGISLATION ACCESSING HEALTH CARE CIVIL RIGHTS & DEMOCRACY CLIMATE CRIMINAL JUSTICE EDUCATION HOUSING LABOR LOCAL BILLS PROTECTING PRIVACY PUBLIC HEALTH REPRODUCTIVE AND MATERNAL HEALTH CARE TRANSPORTATION ADVOCACY & NEWS RESOURCES ASK FOR HELP CITATION REQUEST FOOD INSECURITY FUEL ASSISTANCE GIVING AND RECEIVING AID HOUSING IMMIGRATION INTERN WITH US MEDICINE DISPOSAL TAX ASSISTANCE WORKING WITH STATE AGENCIES EVENTS CONTACT US LET US HELP!
 We absolutely love assisting constituents.
 If you need help, please reach out using the form below or call us at 413-270-1166.
 While we cannot compel a state agency to make a particular decision, we do work to ensure that your inquiry is understood, that you receive a timely and fair response, and that agencies take appropriate actions to address your needs.
-Please complete the form below
-IMPORTANT NOTES:
-If you are writing for help with Unemployment, please include your Claimant ID.
+Please complete the form below IMPORTANT NOTES: If you are writing for help with Unemployment, please include your Claimant ID.
 If you are writing of help with MassHealth or Health Connector, please include your MassHealth or Health Connector ID number.
 If you are writing for help with a licensing issue, please include your license number.
 If you are looking for help with the RMV, please send your license number.
+PAID FOR BY THE COMMITTEE TO ELECT LINDSAY SABADOSA All Rights Reserved 2025

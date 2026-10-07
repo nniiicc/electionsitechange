@@ -1,6 +1,4 @@
-Biografía de Campaña
-Melvin Rivera para el Congreso (NY-7) | Brooklyn y Queens
-Melvin Rivera nació y creció en Bushwick, Brooklyn, durante la turbulenta década de los años 80, cuando las comunidades de la Ciudad de Nueva York enfrentaban la epidemia del SIDA y la crisis del crack.
+Top Home Biography ↓ Biografía de Campaña Issues Events News and Updates Volunteer Contact Donate Biografía de Campaña Melvin Rivera para el Congreso (NY-7) | Brooklyn y Queens Melvin Rivera nació y creció en Bushwick, Brooklyn, durante la turbulenta década de los años 80, cuando las comunidades de la Ciudad de Nueva York enfrentaban la epidemia del SIDA y la crisis del crack.
 Crecer durante uno de los períodos más difíciles en la historia de la ciudad moldeó en Melvin un profundo sentido de responsabilidad hacia sus vecinos y un compromiso de por vida con el servicio comunitario.
 Melvin ha sido activista comunitario durante más de 30 años, comenzando con su primer empleo como estudiante de escuela secundaria en la YMCA.
 Desde joven se dedicó a ayudar a los demás, trabajando con poblaciones vulnerables, incluyendo jóvenes en riesgo, personas mayores y personas con necesidades especiales.
@@ -34,3 +32,6 @@ Guiado por la lógica y el sentido común, la campaña de Melvin Rivera se centr
 Sus años de servicio comunitario, resiliencia personal y dedicación a ayudar a otros le han brindado la empatía y la visión necesarias para liderar.
 Melvin cree que los desafíos que enfrentan Brooklyn y Queens requieren soluciones adaptadas a las necesidades de cada comunidad, no un enfoque único para todos.
 Su experiencia trabajando directamente sobre el terreno con las personas más afectadas por las decisiones políticas es lo que lo hace especialmente capacitado para representar al Séptimo Distrito Congresional de Nueva York en el Congreso.
+On November 3, 2026, vote for Melvin Rivera for Congress.
+COUNTING DOWN TO Election Day Privacy Political advertisement paid for and approved by Melvin Rivera for Congress.
+Campaign websites by Online Candidate

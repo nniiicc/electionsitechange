@@ -1,4 +1,4 @@
-Though mostly raised in the North Suburbs.
+home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate Though mostly raised in the North Suburbs.
 I was born and raised in the Austin Neighborhood for a good third of my early life.
 I have since lived, worked and volunteered in the North Lawndale, Austin and Humboldt Park neighborhoods.
 That would be the "old" Humboldt Park.
@@ -8,7 +8,7 @@ I enjoyed my African American, European American, Latino, and my Latin American 
 I established myself by entrusting myself within those communities simply by enjoying their respective cultures, knowing their issues, and forming life-long friendships.
 It was not always easy as it was impossible to dismiss the immense disparities, endless injustices, and the bottomless pit of human suffering that exists which is in stark contrast to the North suburbs where I was mostly raised.
 These interactions have enriched my understanding of the people who live and work in this vibrant part of the city, shaping my commitment to making a positive impact in the lives of those around me.
-During my time in Lawndale, I experienced some sort of real life participant observation study.
+During my time in Lawndale, I experienced some sort of real life participant observation study .
 Where it really takes someone from a completely different background to live in and become embedded in a community.
 Observing, participating and learning about the everyday life of the community, to have the perspective necessary to bring about substantial change, or at least point out such enormous disparities in nearly every aspect of life.
 It was not always easy or pretty.
@@ -29,8 +29,7 @@ Now living through the circumstances of those I previously tried to help, broken
 To where I am now living through and enduring disability and homelessness (my housing situation even to this day being precarious at best), since I got injured.
 Enduring cruelty to sociopathic degrees.
 Originally, coming from a completely different background, and then living through this, spiraling down the bottomless pit of human suffering, I am not just sympathetic, but fully to my core, empathetic, to what in some cases, entire communities are made to endure.
-Through my struggles, I saw and experience first hand, what these communities are made of, what makes them work despite unending challenges; the many different definitions and meanings of the word, “hustle."
-Always putting it back into my own perspective of the monstrously shocking, yet blatant inequality that I see.
+Through my struggles, I saw and experience first hand, what these communities are made of, what makes them work despite unending challenges; the many different definitions and meanings of the word, “hustle." Always putting it back into my own perspective of the monstrously shocking, yet blatant inequality that I see.
 Every.
 Single.
 Day.
@@ -42,4 +41,4 @@ I, like many others, have unique perspective that will benefit all people.
 I've just been there, even if just for a dabble.
 My conclusion: This is not how it is supposed to be.
 How about we throw in a little character and idealism, or a lot.
-Follow that path again.
+Follow that path again. “ Injustice anywhere is a risk to justice everywhere. ” – MLK

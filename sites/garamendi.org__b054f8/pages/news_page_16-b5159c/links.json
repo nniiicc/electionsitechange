@@ -1,32 +1,178 @@
 [
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=10",
-"https://garamendi.org/news?page=11",
-"https://garamendi.org/news?page=12",
-"https://garamendi.org/news?page=13",
-"https://garamendi.org/news?page=14",
-"https://garamendi.org/news?page=15",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=8",
-"https://garamendi.org/news?page=9",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 17",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi Outlines Major Accomplishments for 116th Congress",
+"href": "https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Page 10",
+"href": "https://www.garamendi.org/news?page=9"
+},
+{
+"text": "Page 11",
+"href": "https://www.garamendi.org/news?page=10"
+},
+{
+"text": "Page 12",
+"href": "https://www.garamendi.org/news?page=11"
+},
+{
+"text": "Page 13",
+"href": "https://www.garamendi.org/news?page=12"
+},
+{
+"text": "Page 14",
+"href": "https://www.garamendi.org/news?page=13"
+},
+{
+"text": "Page 15",
+"href": "https://www.garamendi.org/news?page=14"
+},
+{
+"text": "Page 16",
+"href": "https://www.garamendi.org/news?page=15"
+},
+{
+"text": "Page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=15"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress"
+}
 ]

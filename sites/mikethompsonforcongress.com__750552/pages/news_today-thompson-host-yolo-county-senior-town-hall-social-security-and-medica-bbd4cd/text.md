@@ -1,24 +1,9 @@
-Press Release
-Posted:
-Woodland, CA – On Monday, August 10, 2026, at 10:00am Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources TODAY: Thompson to Host Yolo County Senior Town Hall on Social Security and Medicare Press Release Posted: August 10, 2026 Woodland, CA – On Monday, August 10, 2026, at 10:00am Rep.
 Mike Thompson (CA-04) will host a senior town hall with special guests former Social Security Commissioner Martin O’Malley and Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare (NCPSSM).
 The Town hall will be held at Woodland Community and Senior Center.
 All constituents of California’s Fourth Congressional District and members of the press are invited to attend.
-Details are below:
-WHO:
-Rep.
-Mike Thompson
-Martin O'Malley, Former Social Security Administrator
-Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare
-WHAT:
-Town Hall
-WHEN:
-Monday, August 10th
-10 am
-WHERE:
-Woodland Community and Senior Center
-2001 East St.
-Woodland, CA 95776
-RSVP:
-Attendees should RSVP at the link here.
-Members of the press should RSVP with Lauren Ott (Lauren.Ott@mail.house.gov)
+Details are below: WHO: Rep.
+Mike Thompson Martin O'Malley, Former Social Security Administrator Max Richtman, President and CEO of the National Committee to Preserve Social Security and Medicare WHAT: Town Hall WHEN: Monday, August 10th 10 am WHERE: Woodland Community and Senior Center 2001 East St.
+Woodland, CA 95776 RSVP: Attendees should RSVP at the link here .
+Members of the press should RSVP with Lauren Ott ( Lauren.Ott@mail.house.gov ) Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

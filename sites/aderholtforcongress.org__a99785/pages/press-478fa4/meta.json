@@ -1,11 +1,14 @@
 {
  "description": "Explore Robert Aderholt&#39;s press releases for updates on his campaign, Trump endorsements, and insights into Alabama politics.",
  "final_url": "https://aderholtforcongress.org/press",
- "paid_for_by": "Paid for by Robert Aderholt for Congress Copyright \u00a9 2025 Robert Aderholt for Congress All Rights Reserved",
+ "fingerprint": "f30d22f8f349f6c14398a56f0c8ba9882c644e2e",
+ "format": 3,
+ "paid_for_by": "Paid for by Robert Aderholt for Congress Copyright © # Robert Aderholt for Congress All Rights Reserved",
  "title": "Press",
  "years_mentioned": [
   "2016",
   "2020",
-  "2022"
+  "2022",
+  "2026"
  ]
 }

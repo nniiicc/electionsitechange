@@ -1,12 +1,50 @@
 [
-"https://facebook.com/TanjaGoeringMN",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/tanja-goering-for-minnesota/donate",
-"https://tanjagoeringformn.com/",
-"https://tanjagoeringformn.com/contact",
-"https://tanjagoeringformn.com/donate",
-"https://tanjagoeringformn.com/gallery",
-"https://tanjagoeringformn.com/issues",
-"https://tanjagoeringformn.com/why-im-running"
+{
+"text": "Contact",
+"href": "https://tanjagoeringformn.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/tanja-goering-for-minnesota/donate"
+},
+{
+"text": "Donate",
+"href": "https://tanjagoeringformn.com/donate"
+},
+{
+"text": "Gallery",
+"href": "https://tanjagoeringformn.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://tanjagoeringformn.com/"
+},
+{
+"text": "Issues",
+"href": "https://tanjagoeringformn.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Why I'm Running",
+"href": "https://tanjagoeringformn.com/why-im-running"
+},
+{
+"text": "[image: Tanja for MN]",
+"href": "https://tanjagoeringformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TanjaGoeringMN/"
+},
+{
+"text": "tanjagoeringformn@gmail.com",
+"href": "mailto:tanjagoeringformn@gmail.com"
+}
 ]

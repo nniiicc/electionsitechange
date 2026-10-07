@@ -1,6 +1,7 @@
-Freedom isn't Free: Patriotism Requires Participation
-Like so many South Dakotans, I spent the Fourth of July honoring our country’s history.
+top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Freedom isn't Free: Patriotism Requires Participation nikkigronli Jul 8 3 min read Like so many South Dakotans, I spent the Fourth of July honoring our country’s history.
 My Independence Day, however, wasn’t limited to one community, but four — Dakota Dunes, Kranzburg, Watertown, and the Lake Traverse Reservation.
+Photos from Kranzburg, Watertown, and Agency Village.
 It was wonderful to join friends, old and new, as well as families, lots of children, and veterans across these communities in celebrating our nation’s independence and reflecting on the values that have shaped our country for nearly 250 years.
 From one of South Dakota’s newest communities in Dakota Dunes, to the small town of Kranzburg, to Watertown, and finally the Lake Traverse Reservation, where I was honored to attend the wacipi and witness the celebration of Native culture and tradition, each stop looked a little different.
 Yet every community was celebrating something bigger than itself: the promise of America and the people who have worked to make that promise real.
@@ -12,17 +13,19 @@ It lives in communities across our state, expressed in different ways but united
 Events like these bring out the very best in South Dakota’s communities, both large and small.
 They remind us that, despite our differences, we are united by a shared love of country, a strong sense of community, and a deep appreciation for the freedoms we enjoy.
 Seeing people come together to celebrate our nation’s heritage is a powerful reminder of what makes South Dakota such a special place to call home.
+Photo from Dakota Dunes.
 Amid the whirlwind of the day’s patriotism and pride, I took a moment to reflect on the courage and sacrifice of those who have fought to secure our nation’s continued independence.
 Freedom has never been simple or free.
 It has been earned through hardship, sacrifice, and an unwavering commitment to the principle of liberty and justice for all.
 We must remember that patriotism is not blindly accepting of the status quo.
+Photo from Watertown's Fourth of July Parade.
 Our founders built a system that depends on informed and engaged citizens willing to hold their government accountable.
 As James Madison wrote in Federalist 51, “If men were angels, no government would be necessary.
-If angels were to govern men, neither external nor internal controls on government would be necessary.”
-Being critical of our political leaders is patriotic.
+If angels were to govern men, neither external nor internal controls on government would be necessary.” Being critical of our political leaders is patriotic.
 Let me repeat that: being critical of our political leaders is patriotic.
 It is an exercise of the very freedoms that generations of Americans fought to protect.
 The right to speak freely, petition our government, and demand better from our leaders is not a threat to our democracy; it is one of its greatest strengths.
+Photo from Watertown Fourth of July Parade.
 Many South Dakotans currently feel that our government has drifted away from the people it was created to serve.
 The status quo in Washington has too often been one in which the voices of hardworking people are overshadowed by special interests, political insiders, and the well-connected.
 Many in Washington have forgotten that they work for the American people, not for special interests or the top one percent.
@@ -35,3 +38,7 @@ Different traditions.
 Different histories.
 Yet people gather together because they believe this country is worth celebrating and worth improving.
 That spirit of civic participation, grounded in gratitude for those who secured our freedoms and determination to protect them for future generations, remains one of the highest forms of patriotism there is.
+Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
+Instead, we are Contact Us Nikki G for SD P.O.
+BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

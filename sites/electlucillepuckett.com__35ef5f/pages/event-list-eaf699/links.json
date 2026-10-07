@@ -1,6 +1,26 @@
 [
-"https://electlucillepuckett.com/",
-"https://electlucillepuckett.com/about",
-"https://electlucillepuckett.com/event-list",
-"https://secure.actblue.com/donate/lucille-puckett-1"
+{
+"text": "About",
+"href": "https://www.electlucillepuckett.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electlucillepuckett.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lucille-puckett-1"
+},
+{
+"text": "Events",
+"href": "https://www.electlucillepuckett.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.electlucillepuckett.com"
+},
+{
+"text": "Puckett4NCHouse91@yahoo.com",
+"href": "mailto:Puckett4NCHouse91@yahoo.com"
+}
 ]

@@ -1,4 +1,4 @@
-Our Turnaround PA plan is worthy of the Commonwealth that gave birth to this nation.
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto The Turnaround PA Team Our Turnaround PA plan is worthy of the Commonwealth that gave birth to this nation.
 Together, we will unleash a new era of economic prosperity, make life more affordable for families, renew the American Dream, rebuild trust in our institutions, and put power back where it belongs — the PEOPLE.
 Retired U.S.
 Army Reserve Colonel, businesswoman, and our Commonwealth’s 78th Treasurer, Stacy Garrity has lived a life of service to her nation, her Commonwealth, and her community.
@@ -22,4 +22,8 @@ At K&L Gates, Jason burst onto the legal scene, representing large and small man
 About halfway through his career, Jason began representing companies to uncover government corruption and procurement irregularities at state and local governments throughout the country.
 In 2005, after less than 10 years at K&L, Jason earned the opportunity to become a partner in the firm.
 He and his wife Melissa reside in Sewickley, Allegheny County, they are the proud parents of three sons: Justin, Logan and Marcus.
-For more information, visit richeyforpa.com
+For more information, visit richeyforpa.com Home Join The Team Events Donate Home Join The Team Events Donate Donate With Crypto Privacy Policy Terms and Conditions Garrity for PA.
+All Rights Reserved.
+Garrity for PA 4075 Linglestown Rd.
+#119 Harrisburg, PA 17112 X-twitter Instagram PAID FOR BY GARRITY FOR PA Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+Home Volunteer Events Turnaround PA Team Issues Data Centers Home Volunteer Events Turnaround PA Team Issues Data Centers Make a Donation Donate With Crypto

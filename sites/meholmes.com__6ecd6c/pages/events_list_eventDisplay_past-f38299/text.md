@@ -1,8 +1,12 @@
-Events
-Events
-- Gotv virtual rally and fundraiser Featured
-- The Housing Crisis in Maryland Delegate Marvin E.
-Holmes, Jr ., Chair; Affordable Housing Committee Presented More Details: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:255f3480-e766-4430-9f1c-5a36adddaf3e
-- Presentation on Reserve Studies for CCOC What you need to know about the new Reserve Study RequirementsWhen:Tue Jun 22, 2021 6:30pm – 9:30pm Eastern Time - New YorkWhere:https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItA (map) Who:holmesdelegate23@gmail.com - Organizer Join from a PC, Mac, iPad, iPhone or Android device:Please click this URL to join: https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItAPasscode: 018293Description: Maryland law requires that community associations accumulate funds towards future replacements.
-The idea behind […]
-Calendar powered by The Events Calendar
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved Events Home / Events 4 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month Day #ago 10/20/2020 October 20, 2020 - 10/7/2026 Now Select date.
+October 2020 Tue 20 House Happenings Bi-Weekly Updates October 20, 2020 - November 2, 2020 Tue 20 Gotv virtual rally and fundraiser Featured October 20, 2020 @ 7:00 pm - 9:00 pm Thu 22 The Housing Crisis in Maryland October 22, 2020 Delegate Marvin E.
+Holmes, Jr ., Chair; Affordable Housing Committee Presented More Details: https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:255f3480-e766-4430-9f1c-5a36adddaf3e June 2021 Tue 22 Presentation on Reserve Studies for CCOC June 22, 2021 @ 6:30 pm - 9:30 pm ﻿ What you need to know about the new Reserve Study RequirementsWhen:Tue Jun 22, 2021 6:30pm – 9:30pm Eastern Time - New YorkWhere:https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItA (map) Who:holmesdelegate23@gmail.com - Organizer Join from a PC, Mac, iPad, iPhone or Android device:Please click this URL to join: https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItAPasscode: 018293Description: Maryland law requires that community associations accumulate funds towards future replacements.
+The idea behind […] Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Calendar powered by The Events Calendar Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

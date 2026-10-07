@@ -1,11 +1,38 @@
 [
-"https://bookertnewton.com/",
-"https://bookertnewton.com/contact",
-"https://bookertnewton.com/get-involved",
-"https://bookertnewton.com/meet-booker-t",
-"https://bookertnewton.com/platform",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/bookertwebsite",
-"https://twitter.com/wix"
+{
+"text": "Contact",
+"href": "https://www.bookertnewton.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bookertwebsite"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bookertnewton.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.bookertnewton.com"
+},
+{
+"text": "Meet Booker T",
+"href": "https://www.bookertnewton.com/meet-booker-t"
+},
+{
+"text": "Platform",
+"href": "https://www.bookertnewton.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+}
 ]

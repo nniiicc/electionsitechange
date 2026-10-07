@@ -1,4 +1,7 @@
-About the distinction
-Suzanna Pavelle received the 2026 Moms Demand Action Gun Sense Candidate distinction, recognizing candidates who advocate for gun violence prevention and common-sense gun safety.
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News Recognition Suzanna Pavelle receives 2026 Moms Demand Action Gun Sense Candidate distinction A 2026 campaign recognition for Suzanna Pavelle.
+About the distinction Suzanna Pavelle received the 2026 Moms Demand Action Gun Sense Candidate distinction, recognizing candidates who advocate for gun violence prevention and common-sense gun safety.
 Suzanna believes protecting families, students, and communities includes supporting practical steps that reduce gun violence and keep public safety at the center of public service.
 The Gun Sense Candidate distinction is not an endorsement from Moms Demand Action or Everytown for Gun Safety Action Fund.
+Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

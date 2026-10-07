@@ -1,17 +1,70 @@
 [
-"https://biogeocreations.com/",
-"https://electchriselle.com/",
-"https://electchriselle.com/about",
-"https://electchriselle.com/cart",
-"https://electchriselle.com/chriselle",
-"https://electchriselle.com/chriselle-1",
-"https://electchriselle.com/contact",
-"https://electchriselle.com/endorsers",
-"https://electchriselle.com/priorities",
-"https://electchriselle.com/volunteer",
-"https://electchriselle.com/vote",
-"https://facebook.com/electchriselle",
-"https://instagram.com/electchriselle",
-"https://secure.actblue.com/donate/chriselle-martinez-1",
-"https://secure.numero.ai/contribute/electchriselle"
+{
+"text": "0",
+"href": "https://www.electchriselle.com/cart"
+},
+{
+"text": "BGC",
+"href": "https://www.biogeocreations.com/"
+},
+{
+"text": "Back",
+"href": "https://www.electchriselle.com/"
+},
+{
+"text": "CHRISELLE",
+"href": "https://www.electchriselle.com/chriselle"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electchriselle.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/chriselle-martinez-1"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/electchriselle"
+},
+{
+"text": "DISTRICT 57",
+"href": "https://www.electchriselle.com/chriselle-1"
+},
+{
+"text": "ENDORSERS",
+"href": "https://www.electchriselle.com/endorsers"
+},
+{
+"text": "Folder: ABOUT",
+"href": "https://www.electchriselle.com/about"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electchriselle.com/priorities"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electchriselle.com/volunteer"
+},
+{
+"text": "VOTE",
+"href": "https://www.electchriselle.com/vote"
+},
+{
+"text": "[image: Elect Chriselle]",
+"href": "https://www.electchriselle.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electchriselle"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electchriselle/"
+},
+{
+"text": "julia@electchriselle.com",
+"href": "mailto:julia@electchriselle.com"
+}
 ]

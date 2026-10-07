@@ -1,39 +1,26 @@
-“We’ve earned the right to be selective in supporting the right projects that are mutually beneficial for all.” South Dakotans are right to care deeply about the future of our communities.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG Author Archives: ttordsen Tordsen Op-Ed: South Dakota’s Future Depends on Smart Growth—Not Fear of It “We’ve earned the right to be selective in supporting the right projects that are mutually beneficial for all.” South Dakotans are right to care deeply about the future of our communities.
 We value self-reliance, common sense, and stewardship of our land, tax dollars, and way of life.
-Lately, I’ve grown increasingly concerned by the risingContinue reading “Tordsen Op-Ed: South Dakota’s Future Depends on Smart Growth—Not Fear of It”
-Author Archives: ttordsen
-Tordsen Announces Candidacy for SD District 14 House
-SESSION WEEK EIGHT – Coming to a Close
-We’re down to the final four days (minus Veto Day on March 25) to settle the budget, pass the remaining bills, and pack up our temporary lodging.
+Lately, I’ve grown increasingly concerned by the rising Continue reading “Tordsen Op-Ed: South Dakota’s Future Depends on Smart Growth—Not Fear of It” Posted by ttordsen February 1, 2026 February 1, 2026 Posted in BLOG Leave a comment on Tordsen Op-Ed: South Dakota’s Future Depends on Smart Growth—Not Fear of It Tordsen Announces Candidacy for SD District 14 House Posted by ttordsen December 4, 2025 December 4, 2025 Posted in BLOG Leave a comment on Tordsen Announces Candidacy for SD District 14 House SESSION WEEK EIGHT – Coming to a Close We’re down to the final four days (minus Veto Day on March 25) to settle the budget, pass the remaining bills, and pack up our temporary lodging.
 When given the opportunity, I brag about our legislative process.
-We’re still a part-time citizen legislature where we convene in Pierre for 40 days or less, balance theContinue reading “SESSION WEEK EIGHT – Coming to a Close”
-I Have Some Exciting News to Share!
+We’re still a part-time citizen legislature where we convene in Pierre for 40 days or less, balance the Continue reading “SESSION WEEK EIGHT – Coming to a Close” Posted by ttordsen March 3, 2024 March 3, 2024 Posted in BLOG , Session Weekly Updates Leave a comment on SESSION WEEK EIGHT – Coming to a Close I Have Some Exciting News to Share!
 First, a heartfelt thank you.
 I want to start out by thanking you if you’ve ever lent your support, encouragement, and engagement during these last two years.
-If you’re reading this, odds are you were one of my earliest supporters who believed in me, invested in my first race, or have kept up with meContinue reading “I Have Some Exciting News to Share!”
-SESSION WEEK SIX – Taking Care of our Teachers
-I’ve been wondering since I was in elementary school why South Dakota was always ranked towards the bottom in teacher pay.
+If you’re reading this, odds are you were one of my earliest supporters who believed in me, invested in my first race, or have kept up with me Continue reading “I Have Some Exciting News to Share!” Posted by ttordsen February 19, 2024 March 3, 2024 Posted in BLOG Leave a comment on I Have Some Exciting News to Share!
+SESSION WEEK SIX – Taking Care of our Teachers I’ve been wondering since I was in elementary school why South Dakota was always ranked towards the bottom in teacher pay.
 I’ve always felt that our educators should be some of the highest paid professionals, period.
 They’re tasked with educating our next generation including our future doctors, attorneys, small business owners and more.
-These sentimentsContinue reading “SESSION WEEK SIX – Taking Care of our Teachers”
-SESSION WEEK FIVE – Hitting the Halfway Point
-This session is finally halfway done with, but activity in the capital is at an all-time high for me.
-The chronological recap of the week began with House Education Monday morning where we debated a $109M+ school choice/voucher bill in HB1250, while at the same time down the hall I was pitching my primaries vsContinue reading “SESSION WEEK FIVE – Hitting the Halfway Point”
-SESSION WEEK FOUR – Video Update
-Our only five day legislative week was a busy one!
+These sentiments Continue reading “SESSION WEEK SIX – Taking Care of our Teachers” Posted by ttordsen February 15, 2024 February 15, 2024 Posted in BLOG Leave a comment on SESSION WEEK SIX – Taking Care of our Teachers SESSION WEEK FIVE – Hitting the Halfway Point This session is finally halfway done with, but activity in the capital is at an all-time high for me.
+The chronological recap of the week began with House Education Monday morning where we debated a $109M+ school choice/voucher bill in HB1250, while at the same time down the hall I was pitching my primaries vs Continue reading “SESSION WEEK FIVE – Hitting the Halfway Point” Posted by ttordsen February 11, 2024 February 11, 2024 Posted in BLOG 1 Comment on SESSION WEEK FIVE – Hitting the Halfway Point SESSION WEEK FOUR – Video Update Our only five day legislative week was a busy one!
 We’re almost to the halfway point of the 99th Legislative Session with more bills ahead to pass (and kill).
 Check out my video update recapping this last week, sharing updates on my legislative progress, and what’s coming up in the days ahead!
-SESSION WEEK THREE – What a week
-The increase in bills filed this year is evident by the workload.
+Posted by ttordsen February 4, 2024 Posted in BLOG , Session Weekly Updates Leave a comment on SESSION WEEK FOUR – Video Update SESSION WEEK THREE – What a week The increase in bills filed this year is evident by the workload.
 As of this writing, we’re sitting at 384 bills filed: 192 from each chamber.
 We’ve hit the deadline for unlimited bill introduction and January 31st is the final day each legislator can introduce individual bills (a max of up to three more bills/each).
-LastContinue reading “SESSION WEEK THREE – What a week”
-SESSION WEEK TWO – Some Wins and Some Setbacks
-The whirlwind pace for this session continued into our second week.
+Last Continue reading “SESSION WEEK THREE – What a week” Posted by ttordsen January 28, 2024 January 28, 2024 Posted in BLOG , Session Weekly Updates Leave a comment on SESSION WEEK THREE – What a week SESSION WEEK TWO – Some Wins and Some Setbacks The whirlwind pace for this session continued into our second week.
 Committee meetings were stacked with bill hearings, floor sessions included lots of debates, and every day we had lots of visitors!
 I started the legislative week with a “win” by getting my HB 1041 past the South Dakota House of Representatives.
-After my floorContinue reading “SESSION WEEK TWO – Some Wins and Some Setbacks”
-SESSION WEEK ONE – The Beginning of the 99th Legislative Session
-This week marked the start of the 99th Legislative Session and we’re already off and running!
+After my floor Continue reading “SESSION WEEK TWO – Some Wins and Some Setbacks” Posted by ttordsen January 20, 2024 January 20, 2024 Posted in BLOG Leave a comment on SESSION WEEK TWO – Some Wins and Some Setbacks SESSION WEEK ONE – The Beginning of the 99th Legislative Session This week marked the start of the 99th Legislative Session and we’re already off and running!
 We heard from Governor Noem on the “State of the State” Tuesday, the Chief Justice on the “State of the Judiciary,” and Flandreau Santee Sioux Tribe Vice President Cyndi Allen-Weddel on the “State of the Tribes” Wednesday.
-Prior toContinue reading “SESSION WEEK ONE – The Beginning of the 99th Legislative Session”
+Prior to Continue reading “SESSION WEEK ONE – The Beginning of the 99th Legislative Session” Posted by ttordsen January 13, 2024 January 14, 2024 Posted in Session Weekly Updates Leave a comment on SESSION WEEK ONE – The Beginning of the 99th Legislative Session Posts pagination 1 2 Older posts PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

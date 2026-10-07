@@ -1,18 +1,19 @@
-What’s In It for You?
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER What’s In It for You?
 A fair question.
 I’m asking for your vote, your time, and your trust.
 That’s not a small ask—especially right now.
 So it’s only right to ask what you get in return.
-Here’s the short answer:
-You get someone who will fight corruption, fight for healthcare, fight to keep more of Niagara Falls’ money here, and fight for an economy that works for regular people—not insiders.
+Here’s the short answer: You get someone who will fight corruption, fight for healthcare, fight to keep more of Niagara Falls’ money here, and fight for an economy that works for regular people—not insiders.
 But there’s more to it than that.
 I’m not asking to be your boss.
 I don’t believe in top-down politics.
 I believe the best leadership is a partnership—where people are heard, respected, and treated like adults.
 That’s how real progress happens.
 And that’s how I intend to serve.
-Look at the Record, Not the Rhetoric
-You’ve heard promises before.
+Look at the Record, Not the Rhetoric You’ve heard promises before.
 Everyone says the right things during a campaign—then they get into office and disappear.
 So don’t take my word for it.
 Judge me by my record.
@@ -44,17 +45,10 @@ I know what it’s like to make things work on a tight budget.
 That experience matters—because government should be run by people who understand how the real world actually works.
 As Supervisor of Grand Island, I didn’t do what was safest for reelection.
 I did what was right.
-The results are still here:
-- The West River Trail
-- The Welcome Center
-- Scenic Woods and land preservation
-- Transforming a long-closed industrial site into a successful hotel
-- Passing term limits for local officials
-These weren’t photo ops.
+The results are still here: The West River Trail The Welcome Center Scenic Woods and land preservation Transforming a long-closed industrial site into a successful hotel Passing term limits for local officials These weren’t photo ops.
 They required judgment, persistence, and the willingness to take heat.
-And when I left office—after all that development—Grand Island still held the highest possible municipal credit rating: AAA.
-Why This Seat Matters
-This district is my home.
+And when I left office—after all that development—Grand Island still held the highest possible municipal credit rating: AAA .
+Why This Seat Matters This district is my home.
 I know the struggle people face just to pay rent, get through school, or put food on the table.
 That isn’t right.
 I didn’t grow up with a silver spoon.
@@ -67,22 +61,19 @@ And I believe deeply in its people.
 We can do better here—together.
 We deserve leadership that fights for this place as hard as insiders fight for themselves.
 That’s what I bring to Assembly District 145.
-Healthcare Comes First
-There is no reason insulin or EpiPens should cost hundreds of dollars here while costing a fraction in other countries.
+Healthcare Comes First There is no reason insulin or EpiPens should cost hundreds of dollars here while costing a fraction in other countries.
 That isn’t innovation.
 That isn’t a free market.
 That’s a broken system.
 It’s theft.
 And I’ll fight to fix it.
-Keeping Niagara Falls’ Money Here
-Niagara Falls should be one of the strongest small cities in America.
+Keeping Niagara Falls’ Money Here Niagara Falls should be one of the strongest small cities in America.
 Instead, billions of dollars flow through this region every year—from tourism, hydropower, tolls, and the casino—while too little stays here.
 That isn’t an accident.
 It’s extraction.
 When local wealth is siphoned away, families fall behind, small businesses struggle, and opportunity dries up.
 I’ll fight to keep more of that money local, where it belongs.
-Corruption Should Not Be “Normal”
-This region has seen too many scandals, convictions, and abuses of power.
+Corruption Should Not Be “Normal” This region has seen too many scandals, convictions, and abuses of power.
 Too often, the response is a shrug—and moving on.
 For decades, a small clique of politicians in Niagara County has called the shots.
 They rely on backroom deals, quiet co-option, and party loyalty to avoid accountability.
@@ -96,8 +87,7 @@ When corruption becomes normal, regular people pay the price—families, workers
 I won’t excuse it.
 I won’t ignore it.
 And I won’t normalize it—even when it would be easier or politically convenient.
-An Economy That Works for You
-We have a world-class tourism destination, strong agriculture, and deep economic ties to Canada.
+An Economy That Works for You We have a world-class tourism destination, strong agriculture, and deep economic ties to Canada.
 We should be doing far better than we are.
 This region is blessed—and yet it’s struggling.
 People are leaving.
@@ -129,3 +119,5 @@ If you believe this region can do better—and you’re willing to be part of ma
 Someone who will listen.
 Someone who will work with you.
 A partner—not a boss.
+Let’s get to work—together.
+Volunteer and Sign Up for Updates!

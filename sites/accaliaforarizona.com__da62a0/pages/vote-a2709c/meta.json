@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.accaliaforarizona.com/vote",
- "paid_for_by": null,
+ "fingerprint": "68cde5b727230225c2d02dfcb5fa941f123fb08b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

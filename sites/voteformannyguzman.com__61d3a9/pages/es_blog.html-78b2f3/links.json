@@ -1,14 +1,62 @@
 [
-"https://facebook.com/MannyGuzmanPA",
-"https://instagram.com/mannyguzmanpa",
-"https://twitter.com/MannyGuzmanPA",
-"https://voteformannyguzman.com/blog.html",
-"https://voteformannyguzman.com/cdn-cgi/l/email-protection",
-"https://voteformannyguzman.com/es/about.html",
-"https://voteformannyguzman.com/es/blog.html",
-"https://voteformannyguzman.com/es/contact.html",
-"https://voteformannyguzman.com/es/donate.html",
-"https://voteformannyguzman.com/es/index.html",
-"https://voteformannyguzman.com/es/issues.html",
-"https://voteformannyguzman.com/es/volunteer.html"
+{
+"text": "Blog",
+"href": "https://voteformannyguzman.com/es/blog.html"
+},
+{
+"text": "Contacto",
+"href": "https://voteformannyguzman.com/es/contact.html"
+},
+{
+"text": "Contáctanos",
+"href": "https://voteformannyguzman.com/es/contact.html"
+},
+{
+"text": "Donar",
+"href": "https://voteformannyguzman.com/es/donate.html"
+},
+{
+"text": "EN",
+"href": "https://voteformannyguzman.com/blog.html"
+},
+{
+"text": "ES",
+"href": "https://voteformannyguzman.com/es/blog.html"
+},
+{
+"text": "Inicio",
+"href": "https://voteformannyguzman.com/es/index.html"
+},
+{
+"text": "MANNY GUZMAN",
+"href": "https://voteformannyguzman.com/es/index.html"
+},
+{
+"text": "Sobre Manny",
+"href": "https://voteformannyguzman.com/es/about.html"
+},
+{
+"text": "Temas",
+"href": "https://voteformannyguzman.com/es/issues.html"
+},
+{
+"text": "Voluntariado",
+"href": "https://voteformannyguzman.com/es/volunteer.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@voteformannyguzman.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MannyGuzmanPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MannyGuzmanPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mannyguzmanpa/"
+}
 ]

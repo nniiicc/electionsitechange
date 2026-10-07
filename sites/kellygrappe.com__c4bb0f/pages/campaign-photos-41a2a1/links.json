@@ -1,80 +1,510 @@
 [
-"https://bsky.app/profile/kellygrappe.bsky.social",
-"https://facebook.com/share/1Nor8fqtmT",
-"https://goodchange.app/donate/commi-h8",
-"https://instagram.com/KellyGrappeSOS",
-"https://kellygrappe.com/",
-"https://kellygrappe.com/about",
-"https://kellygrappe.com/about/community",
-"https://kellygrappe.com/about/experience",
-"https://kellygrappe.com/about/initiatives-petitions",
-"https://kellygrappe.com/about/journey",
-"https://kellygrappe.com/about/why-im-running",
-"https://kellygrappe.com/accessibility",
-"https://kellygrappe.com/arkansas-visits",
-"https://kellygrappe.com/campaign-photos",
-"https://kellygrappe.com/campaign-photos/baxter-county",
-"https://kellygrappe.com/campaign-photos/benton-county",
-"https://kellygrappe.com/campaign-photos/carroll-county",
-"https://kellygrappe.com/campaign-photos/clark-county",
-"https://kellygrappe.com/campaign-photos/craighead-county",
-"https://kellygrappe.com/campaign-photos/desha-county",
-"https://kellygrappe.com/campaign-photos/faulkner-county",
-"https://kellygrappe.com/campaign-photos/garland-county",
-"https://kellygrappe.com/campaign-photos/greene-county",
-"https://kellygrappe.com/campaign-photos/hempstead-county",
-"https://kellygrappe.com/campaign-photos/howard-county",
-"https://kellygrappe.com/campaign-photos/independence-county",
-"https://kellygrappe.com/campaign-photos/izard-county",
-"https://kellygrappe.com/campaign-photos/johnson-county",
-"https://kellygrappe.com/campaign-photos/logan-county",
-"https://kellygrappe.com/campaign-photos/lonoke-county",
-"https://kellygrappe.com/campaign-photos/madison-county",
-"https://kellygrappe.com/campaign-photos/mississippi-county",
-"https://kellygrappe.com/campaign-photos/pike-county",
-"https://kellygrappe.com/campaign-photos/polk-county",
-"https://kellygrappe.com/campaign-photos/pope-county",
-"https://kellygrappe.com/campaign-photos/pulaski-county",
-"https://kellygrappe.com/campaign-photos/randolph-county",
-"https://kellygrappe.com/campaign-photos/saline-county",
-"https://kellygrappe.com/campaign-photos/searcy-county",
-"https://kellygrappe.com/campaign-photos/sharp-county",
-"https://kellygrappe.com/campaign-photos/van-buren-county",
-"https://kellygrappe.com/campaign-photos/washington-county",
-"https://kellygrappe.com/campaign-photos/white-county",
-"https://kellygrappe.com/campaign-photos/yell-county",
-"https://kellygrappe.com/contact",
-"https://kellygrappe.com/direct-democracy",
-"https://kellygrappe.com/direct-democracy/ballot-initiative-process",
-"https://kellygrappe.com/disclaimer",
-"https://kellygrappe.com/donate",
-"https://kellygrappe.com/endorsements",
-"https://kellygrappe.com/es",
-"https://kellygrappe.com/events",
-"https://kellygrappe.com/events/request",
-"https://kellygrappe.com/explainers",
-"https://kellygrappe.com/from-the-road",
-"https://kellygrappe.com/get-involved",
-"https://kellygrappe.com/get-involved/bring-5",
-"https://kellygrappe.com/get-involved/event-help",
-"https://kellygrappe.com/host-a-gathering",
-"https://kellygrappe.com/kelly-speaks",
-"https://kellygrappe.com/listening-sessions",
-"https://kellygrappe.com/office/business",
-"https://kellygrappe.com/office/capitol",
-"https://kellygrappe.com/office/elections",
-"https://kellygrappe.com/office/notaries",
-"https://kellygrappe.com/office/records",
-"https://kellygrappe.com/office/why-this-race-matters",
-"https://kellygrappe.com/press-coverage",
-"https://kellygrappe.com/priorities",
-"https://kellygrappe.com/privacy",
-"https://kellygrappe.com/start-a-local-team",
-"https://kellygrappe.com/terms",
-"https://kellygrappe.com/understand",
-"https://kellygrappe.com/voter-registration",
-"https://kellygrappesos.substack.com/",
-"https://tiktok.com/@kellygrappeforarsos",
-"https://x.com/kellygrappesos",
-"https://youtube.com/@KellyGrappe"
+{
+"text": "A More Engaged Arkansas",
+"href": "https://www.kellygrappe.com/priorities#engagement"
+},
+{
+"text": "Accessibility",
+"href": "https://www.kellygrappe.com/accessibility"
+},
+{
+"text": "Across Arkansas",
+"href": "https://www.kellygrappe.com/arkansas-visits"
+},
+{
+"text": "Baxter(9)",
+"href": "https://www.kellygrappe.com/campaign-photos/baxter-county"
+},
+{
+"text": "Benton(37)",
+"href": "https://www.kellygrappe.com/campaign-photos/benton-county"
+},
+{
+"text": "Business & Filings",
+"href": "https://www.kellygrappe.com/office/business"
+},
+{
+"text": "Business Services",
+"href": "https://www.kellygrappe.com/priorities#business"
+},
+{
+"text": "Campaign Photos",
+"href": "https://www.kellygrappe.com/campaign-photos"
+},
+{
+"text": "Campaign Videos",
+"href": "https://www.kellygrappe.com/kelly-speaks"
+},
+{
+"text": "Capitol & Public Safety",
+"href": "https://www.kellygrappe.com/office/capitol"
+},
+{
+"text": "Carroll(7)",
+"href": "https://www.kellygrappe.com/campaign-photos/carroll-county"
+},
+{
+"text": "Clark(16)",
+"href": "https://www.kellygrappe.com/campaign-photos/clark-county"
+},
+{
+"text": "Community & Civic Work",
+"href": "https://www.kellygrappe.com/about/community"
+},
+{
+"text": "Contact",
+"href": "https://www.kellygrappe.com/contact"
+},
+{
+"text": "Contact the campaign",
+"href": "https://www.kellygrappe.com/contact"
+},
+{
+"text": "Craighead(9)",
+"href": "https://www.kellygrappe.com/campaign-photos/craighead-county"
+},
+{
+"text": "Desha(21)",
+"href": "https://www.kellygrappe.com/campaign-photos/desha-county"
+},
+{
+"text": "Disclaimer",
+"href": "https://www.kellygrappe.com/disclaimer"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/commi-h8"
+},
+{
+"text": "Donate",
+"href": "https://www.kellygrappe.com/donate"
+},
+{
+"text": "Election Processes",
+"href": "https://www.kellygrappe.com/priorities#election-processes"
+},
+{
+"text": "Elections",
+"href": "https://www.kellygrappe.com/office/elections"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kellygrappe.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.kellygrappe.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.kellygrappe.com/events"
+},
+{
+"text": "Explainers",
+"href": "https://www.kellygrappe.com/explainers"
+},
+{
+"text": "Faulkner(17)",
+"href": "https://www.kellygrappe.com/campaign-photos/faulkner-county"
+},
+{
+"text": "From the Road",
+"href": "https://www.kellygrappe.com/from-the-road"
+},
+{
+"text": "Garland(8)",
+"href": "https://www.kellygrappe.com/campaign-photos/garland-county"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kellygrappe.com/get-involved"
+},
+{
+"text": "Greene(11)",
+"href": "https://www.kellygrappe.com/campaign-photos/greene-county"
+},
+{
+"text": "Hempstead(10)",
+"href": "https://www.kellygrappe.com/campaign-photos/hempstead-county"
+},
+{
+"text": "Home",
+"href": "https://www.kellygrappe.com/"
+},
+{
+"text": "Host Kelly",
+"href": "https://www.kellygrappe.com/events/request"
+},
+{
+"text": "Host a gathering",
+"href": "https://www.kellygrappe.com/host-a-gathering"
+},
+{
+"text": "Howard(10)",
+"href": "https://www.kellygrappe.com/campaign-photos/howard-county"
+},
+{
+"text": "Independence(4)",
+"href": "https://www.kellygrappe.com/campaign-photos/independence-county"
+},
+{
+"text": "Invite Kelly",
+"href": "https://www.kellygrappe.com/events/request"
+},
+{
+"text": "Izard(6)",
+"href": "https://www.kellygrappe.com/campaign-photos/izard-county"
+},
+{
+"text": "Johnson(19)",
+"href": "https://www.kellygrappe.com/campaign-photos/johnson-county"
+},
+{
+"text": "Kelly Across Arkansas",
+"href": "https://www.kellygrappe.com/about/journey"
+},
+{
+"text": "Kelly Grappefor Arkansas Secretary of StateThe People Rule. · Arkansas",
+"href": "https://www.kellygrappe.com/"
+},
+{
+"text": "Kelly's petition organizing",
+"href": "https://www.kellygrappe.com/about/initiatives-petitions"
+},
+{
+"text": "Kelly’s Substack",
+"href": "https://kellygrappesos.substack.com"
+},
+{
+"text": "Learn How Direct Democracy Works",
+"href": "https://www.kellygrappe.com/direct-democracy/ballot-initiative-process"
+},
+{
+"text": "Listening Sessions",
+"href": "https://www.kellygrappe.com/listening-sessions"
+},
+{
+"text": "Logan(4)",
+"href": "https://www.kellygrappe.com/campaign-photos/logan-county"
+},
+{
+"text": "Lonoke(5)",
+"href": "https://www.kellygrappe.com/campaign-photos/lonoke-county"
+},
+{
+"text": "Madison(4)",
+"href": "https://www.kellygrappe.com/campaign-photos/madison-county"
+},
+{
+"text": "Meet Kelly",
+"href": "https://www.kellygrappe.com/about"
+},
+{
+"text": "Mississippi(9)",
+"href": "https://www.kellygrappe.com/campaign-photos/mississippi-county"
+},
+{
+"text": "My Plan",
+"href": "https://www.kellygrappe.com/priorities"
+},
+{
+"text": "Notaries",
+"href": "https://www.kellygrappe.com/office/notaries"
+},
+{
+"text": "Pike(9)",
+"href": "https://www.kellygrappe.com/campaign-photos/pike-county"
+},
+{
+"text": "Polk(1)",
+"href": "https://www.kellygrappe.com/campaign-photos/polk-county"
+},
+{
+"text": "Pope(6)",
+"href": "https://www.kellygrappe.com/campaign-photos/pope-county"
+},
+{
+"text": "Power of 5",
+"href": "https://www.kellygrappe.com/get-involved/bring-5"
+},
+{
+"text": "Press Coverage",
+"href": "https://www.kellygrappe.com/press-coverage"
+},
+{
+"text": "Privacy",
+"href": "https://www.kellygrappe.com/privacy"
+},
+{
+"text": "Professional experience",
+"href": "https://www.kellygrappe.com/about/experience"
+},
+{
+"text": "Pulaski(146)",
+"href": "https://www.kellygrappe.com/campaign-photos/pulaski-county"
+},
+{
+"text": "Randolph(11)",
+"href": "https://www.kellygrappe.com/campaign-photos/randolph-county"
+},
+{
+"text": "Register / Check Registration",
+"href": "https://www.kellygrappe.com/voter-registration"
+},
+{
+"text": "Represent at local events",
+"href": "https://www.kellygrappe.com/get-involved/event-help"
+},
+{
+"text": "Restore Trust",
+"href": "https://www.kellygrappe.com/priorities#restore-trust"
+},
+{
+"text": "Saline(6)",
+"href": "https://www.kellygrappe.com/campaign-photos/saline-county"
+},
+{
+"text": "Searcy(6)",
+"href": "https://www.kellygrappe.com/campaign-photos/searcy-county"
+},
+{
+"text": "Sharp(8)",
+"href": "https://www.kellygrappe.com/campaign-photos/sharp-county"
+},
+{
+"text": "Start a Local Team",
+"href": "https://www.kellygrappe.com/start-a-local-team#start-team-form"
+},
+{
+"text": "Stay connected",
+"href": "https://www.kellygrappe.com/get-involved#join"
+},
+{
+"text": "Support All 75 Counties",
+"href": "https://www.kellygrappe.com/priorities#counties"
+},
+{
+"text": "Terms of use",
+"href": "https://www.kellygrappe.com/terms"
+},
+{
+"text": "The Office",
+"href": "https://www.kellygrappe.com/understand"
+},
+{
+"text": "The People's Constitutional Voice",
+"href": "https://www.kellygrappe.com/priorities#peoples-voice"
+},
+{
+"text": "The People's Voice",
+"href": "https://www.kellygrappe.com/direct-democracy"
+},
+{
+"text": "The People's Voice hub",
+"href": "https://www.kellygrappe.com/direct-democracy"
+},
+{
+"text": "Transparency",
+"href": "https://www.kellygrappe.com/priorities#transparency"
+},
+{
+"text": "Transparency & Records",
+"href": "https://www.kellygrappe.com/office/records"
+},
+{
+"text": "Van Buren(9)",
+"href": "https://www.kellygrappe.com/campaign-photos/van-buren-county"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kellygrappe.com/get-involved#volunteer"
+},
+{
+"text": "Volunteer with Kelly →",
+"href": "https://www.kellygrappe.com/get-involved#volunteer"
+},
+{
+"text": "Vote / Register",
+"href": "https://www.kellygrappe.com/voter-registration"
+},
+{
+"text": "Washington(13)",
+"href": "https://www.kellygrappe.com/campaign-photos/washington-county"
+},
+{
+"text": "What the Office Does",
+"href": "https://www.kellygrappe.com/understand"
+},
+{
+"text": "White(5)",
+"href": "https://www.kellygrappe.com/campaign-photos/white-county"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.kellygrappe.com/about/why-im-running"
+},
+{
+"text": "Why This Race Matters",
+"href": "https://www.kellygrappe.com/office/why-this-race-matters"
+},
+{
+"text": "Yell(36)",
+"href": "https://www.kellygrappe.com/campaign-photos/yell-county"
+},
+{
+"text": "[image: Kelly Grappe speaks with a voter at a campaign information table during a community meet-and-greet in Mena, Arkansas. Polk, Arkansas.]Polk1 photo",
+"href": "https://www.kellygrappe.com/campaign-photos/polk-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Baxter County, Arkansas]Baxter9 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/baxter-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Benton County, Arkansas]Benton37 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/benton-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Carroll County, Arkansas]Carroll7 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/carroll-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Clark County, Arkansas]Clark16 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/clark-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Craighead County, Arkansas]Craighead9 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/craighead-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Desha County, Arkansas]Desha21 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/desha-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Faulkner County, Arkansas]Faulkner17 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/faulkner-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Garland County, Arkansas]Garland8 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/garland-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Greene County, Arkansas]Greene11 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/greene-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Hempstead County, Arkansas]Hempstead10 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/hempstead-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Howard County, Arkansas]Howard10 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/howard-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Independence County, Arkansas]Independence4 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/independence-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Izard County, Arkansas]Izard6 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/izard-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Johnson County, Arkansas]Johnson19 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/johnson-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Logan County, Arkansas]Logan4 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/logan-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Lonoke County, Arkansas]Lonoke5 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/lonoke-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Madison County, Arkansas]Madison4 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/madison-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Mississippi County, Arkansas]Mississippi9 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/mississippi-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Pike County, Arkansas]Pike9 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/pike-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Pope County, Arkansas]Pope6 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/pope-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Pulaski County, Arkansas]Pulaski146 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/pulaski-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Randolph County, Arkansas]Randolph11 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/randolph-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Saline County, Arkansas]Saline6 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/saline-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Searcy County, Arkansas]Searcy6 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/searcy-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Sharp County, Arkansas]Sharp8 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/sharp-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Van Buren County, Arkansas]Van Buren9 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/van-buren-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Washington County, Arkansas]Washington13 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/washington-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in White County, Arkansas]White5 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/white-county"
+},
+{
+"text": "[image: Kelly Grappe, candidate for Arkansas Secretary of State, campaigning in Yell County, Arkansas]Yell36 photos",
+"href": "https://www.kellygrappe.com/campaign-photos/yell-county"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kellygrappe.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://kellygrappesos.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Nor8fqtmT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/KellyGrappeSOS/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kellygrappeforarsos"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KellyGrappe"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kellygrappesos"
+},
+{
+"text": "[no text]",
+"href": "mailto:grappe4arkansas@gmail.com"
+},
+{
+"text": "kellygrappe.com",
+"href": "https://www.kellygrappe.com"
+}
 ]

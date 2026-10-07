@@ -1,20 +1,106 @@
 [
-"https://craigzucker.com/",
-"https://craigzucker.com/contribute",
-"https://craigzucker.com/endorsements",
-"https://craigzucker.com/scholarship",
-"https://craigzucker.com/voter-faq-2",
-"https://craigzucker.com/wp-content/uploads/2022/10/MoCo-2022-Districts-scaled.jpg",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://elections.maryland.gov/voting/early_voting.html",
-"https://elections.maryland.gov/voting/election_day_questions.html",
-"https://elections.maryland.gov/voting/index.html",
-"https://facebook.com/senatorzucker",
-"https://google.com/url?q=https%3A%2F%2Felections.maryland.gov%2Fvoting%2Fearly_voting.html&sa=D&ust=1778548664657352&usg=AOvVaw1E9NLG_S61R9bDpV1s2HGa",
-"https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=14f27a6cab51422dabdfb168ca603482",
-"https://mcg.montgomerycountymd.gov/elections/EarlyVoting/EarlyVotingCenters.html",
-"https://twitter.com/SenatorZucker",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "Check here",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=14f27a6cab51422dabdfb168ca603482"
+},
+{
+"text": "Check your voter registration",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Contribute",
+"href": "https://craigzucker.com/contribute/"
+},
+{
+"text": "Endorsements",
+"href": "https://craigzucker.com/endorsements/"
+},
+{
+"text": "Find your district",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=14f27a6cab51422dabdfb168ca603482"
+},
+{
+"text": "Find your polling place here.",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Issues",
+"href": "https://craigzucker.com/#issues"
+},
+{
+"text": "Learn About Early Voting",
+"href": "https://www.google.com/url?q=https%3A%2F%2Felections.maryland.gov%2Fvoting%2Fearly_voting.html&sa=D&ust=1778548664657352&usg=AOvVaw1E9NLG_S61R9bDpV1s2HGa"
+},
+{
+"text": "Learn About Voting by Mail",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "Learn About Voting on Election Day",
+"href": "https://elections.maryland.gov/voting/election_day_questions.html"
+},
+{
+"text": "Learn more about Voting by mail here",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "Learn more about early voting, including registering to vote at an early voting center",
+"href": "https://elections.maryland.gov/voting/early_voting.html"
+},
+{
+"text": "Learn more about voting on Election Day here",
+"href": "https://elections.maryland.gov/voting/election_day_questions.html"
+},
+{
+"text": "Meet Craig",
+"href": "https://craigzucker.com/#meet-craig"
+},
+{
+"text": "Register to vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Scholarship",
+"href": "https://craigzucker.com/scholarship/"
+},
+{
+"text": "State Board of Elections FAQ",
+"href": "https://www.elections.maryland.gov/voting/index.html"
+},
+{
+"text": "View the full list of locations, driving directions, and bus routes here",
+"href": "https://mcg.montgomerycountymd.gov/elections/EarlyVoting/EarlyVotingCenters.html"
+},
+{
+"text": "Voter FAQ",
+"href": "https://craigzucker.com/voter-faq-2/"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://craigzucker.com/"
+},
+{
+"text": "[image]",
+"href": "https://craigzucker.com/wp-content/uploads/2022/10/MoCo-2022-Districts-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenatorZucker"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/senatorzucker/"
+},
+{
+"text": "assigned polling location",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "check your registration",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "craig@craigzucker.com",
+"href": "mailto:craig@craigzucker.com"
+}
 ]

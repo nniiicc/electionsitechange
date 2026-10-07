@@ -1,27 +1,106 @@
 [
-"http://afscme1624.org/people.html",
-"http://austinparamedics.org/about",
-"http://blackaustindemocrats.org/endorsements.html",
-"http://capdaustintx.org/home",
-"http://centralaustindems.com/2018-democratic-primary-endorsements",
-"http://cwa6132.org/",
-"http://facebook.com/SherylforTexas",
-"http://iafflocal975.org/index.cfm?Section=1",
-"http://stonewallaustin.org/hot-news/stonewallendorsedcandidatesformarch6primaries",
-"http://texasaflcio.org/new-blog-1/cope2018postendorsements",
-"http://texaseyes.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=27&Itemid=1&year=2018&month=02&day=21&title=toa-endorsements-texas-primary-elections-&uid=250b365ee94f971922b7b4fa40d8b2e4",
-"http://texasrealtorssupport.com/cole",
-"http://westaustindemocrats.org/",
-"https://annieslist.com/2018/02/12/annies-list-endorses-sheryl-cole-hd-46",
-"https://donateway.com/donate/ntpu963w/donate-to-rep-sheryl-cole/payment",
-"https://donateway.com/donate/vF2GPX7r/sheryl-cole-for-house-district-46",
-"https://facebook.com/UniversityDemocrats/photos/a.10150207689310424.438459.117025755423/10159739531925424?type=3",
-"https://facebook.com/permalink.php?story_fbid=1647557075309549&id=734067323325200",
-"https://instagram.com/sherylfortexas?hl=en",
-"https://sherylcole.com/",
-"https://sherylcole.com/about-sheryl",
-"https://sherylcole.com/issues",
-"https://sherylcole.com/supporters",
-"https://twitter.com/PPTXVotes/status/979395626801778688",
-"https://twitter.com/sherylcole1"
+{
+"text": "About Sheryl",
+"href": "https://www.sherylcole.com/about-sheryl"
+},
+{
+"text": "Annie's List",
+"href": "https://annieslist.com/2018/02/12/annies-list-endorses-sheryl-cole-hd-46/"
+},
+{
+"text": "Austin AFSCME Local 1624",
+"href": "http://www.afscme1624.org/people.html"
+},
+{
+"text": "Austin Area AFL-CIO Central Labor Council",
+"href": "https://www.facebook.com/permalink.php?story_fbid=1647557075309549&id=734067323325200"
+},
+{
+"text": "Austin Firefighters Association",
+"href": "http://iafflocal975.org/index.cfm?Section=1"
+},
+{
+"text": "Austin-Travis County EMS Employees Association",
+"href": "http://austinparamedics.org/about/"
+},
+{
+"text": "Black Austin Democrats",
+"href": "http://www.blackaustindemocrats.org/endorsements.html"
+},
+{
+"text": "CWA Local 6132",
+"href": "http://www.cwa6132.org/"
+},
+{
+"text": "Capital Area Progressive Democrats",
+"href": "http://capdaustintx.org/home/"
+},
+{
+"text": "Central Austin Democrats",
+"href": "http://www.centralaustindems.com/2018-democratic-primary-endorsements/"
+},
+{
+"text": "DONATE",
+"href": "https://donateway.com/donate/ntpu963w/donate-to-rep-sheryl-cole/payment"
+},
+{
+"text": "Donate",
+"href": "https://donateway.com/donate/vF2GPX7r/sheryl-cole-for-house-district-46"
+},
+{
+"text": "Issues",
+"href": "https://www.sherylcole.com/issues"
+},
+{
+"text": "Planned Parenthood Texas Votes",
+"href": "https://twitter.com/PPTXVotes/status/979395626801778688"
+},
+{
+"text": "Stonewall Democrats of Austin",
+"href": "http://www.stonewallaustin.org/hot-news/stonewallendorsedcandidatesformarch6primaries"
+},
+{
+"text": "Supporters",
+"href": "https://www.sherylcole.com/supporters"
+},
+{
+"text": "TREPAC",
+"href": "http://texasrealtorssupport.com/cole/"
+},
+{
+"text": "Texas AFL-CIO",
+"href": "http://www.texasaflcio.org/new-blog-1/cope2018postendorsements"
+},
+{
+"text": "Texas Ophthalmological Association EYE PAC",
+"href": "http://www.texaseyes.org/index.php?option=com_jevents&task=icalrepeat.detail&evid=27&Itemid=1&year=2018&month=02&day=21&title=toa-endorsements-texas-primary-elections-&uid=250b365ee94f971922b7b4fa40d8b2e4"
+},
+{
+"text": "University Democrats",
+"href": "https://www.facebook.com/UniversityDemocrats/photos/a.10150207689310424.438459.117025755423/10159739531925424/?type=3&theater="
+},
+{
+"text": "West Austin Democrats",
+"href": "http://www.westaustindemocrats.org/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sherylfortexas/?hl=en"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "http://www.facebook.com/SherylforTexas%20"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/sherylcole1"
+},
+{
+"text": "[image]",
+"href": "https://www.sherylcole.com"
+},
+{
+"text": "district46.cole@house.texas.gov",
+"href": "mailto:district46.cole@house.texas.gov"
+}
 ]

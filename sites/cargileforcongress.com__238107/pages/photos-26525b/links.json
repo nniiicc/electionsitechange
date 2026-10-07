@@ -1,30 +1,126 @@
 [
-"https://cargileforcongress.com/",
-"https://cargileforcongress.com/about-me",
-"https://cargileforcongress.com/contact",
-"https://cargileforcongress.com/home-1",
-"https://cargileforcongress.com/issues",
-"https://cargileforcongress.com/issues-1",
-"https://cargileforcongress.com/join-the-team",
-"https://cargileforcongress.com/media-2",
-"https://cargileforcongress.com/mike-cargile-gas-pump",
-"https://cargileforcongress.com/mike-cargile-green-car",
-"https://cargileforcongress.com/mike-cargile-smiling-green-headshot",
-"https://cargileforcongress.com/mike-cargile-smiling-headshot",
-"https://cargileforcongress.com/mike-cargile-suit-standing",
-"https://cargileforcongress.com/mike-cargile-with-american-flag",
-"https://cargileforcongress.com/mikecargile",
-"https://cargileforcongress.com/nan-and-mike-cargile",
-"https://cargileforcongress.com/nan-and-mike-cargile-sitting",
-"https://cargileforcongress.com/our-district",
-"https://cargileforcongress.com/register-to-vote",
-"https://cargileforcongress.com/search",
-"https://cargileforcongress.com/ways-to-help",
-"https://facebook.com/CargileForCongress",
-"https://instagram.com/cargileforcongress",
-"https://linkedin.com/in/cargileforcongress",
-"https://secure.anedot.com/cargile-for-congress/donate",
-"https://secure.winred.com/mikecargile/storefront",
-"https://x.com/CargileForCA35",
-"https://youtube.com/channel/UCc9J8E_5HJZfUGaoFfLp8aw"
+{
+"text": "About",
+"href": "https://www.cargileforcongress.com/about-me"
+},
+{
+"text": "About",
+"href": "https://www.cargileforcongress.com/mikecargile"
+},
+{
+"text": "Contact",
+"href": "https://www.cargileforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cargile-for-congress/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/cargile-for-congress/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.cargileforcongress.com/home-1"
+},
+{
+"text": "Home",
+"href": "https://www.cargileforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cargileforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://www.cargileforcongress.com/issues-1"
+},
+{
+"text": "Join the Team",
+"href": "https://www.cargileforcongress.com/join-the-team"
+},
+{
+"text": "Media",
+"href": "https://www.cargileforcongress.com/media-2"
+},
+{
+"text": "Mike.Cargile@outlook.com",
+"href": "mailto:Mike.Cargile@outlook.com"
+},
+{
+"text": "Next Steps",
+"href": "https://www.cargileforcongress.com/ways-to-help"
+},
+{
+"text": "Our District",
+"href": "https://www.cargileforcongress.com/our-district"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.cargileforcongress.com/register-to-vote"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/mikecargile/storefront/"
+},
+{
+"text": "[image: Cargile For Congress_Nan.jpg]",
+"href": "https://www.cargileforcongress.com/nan-and-mike-cargile"
+},
+{
+"text": "[image: Cargile For Congress_Smile Desk.jpg]",
+"href": "https://www.cargileforcongress.com/mike-cargile-with-american-flag"
+},
+{
+"text": "[image: Cargile for Congress]",
+"href": "https://www.cargileforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/mike-cargile-gas-pump"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/mike-cargile-green-car"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/mike-cargile-smiling-green-headshot"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/mike-cargile-smiling-headshot"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/mike-cargile-suit-standing"
+},
+{
+"text": "[image]",
+"href": "https://www.cargileforcongress.com/nan-and-mike-cargile-sitting"
+},
+{
+"text": "[no text]",
+"href": "https://www.cargileforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CargileForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cargileforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/cargileforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCc9J8E_5HJZfUGaoFfLp8aw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CargileForCA35"
+}
 ]

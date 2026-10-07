@@ -1,9 +1,34 @@
 [
-"https://bsky.app/profile/dominic4tn.bsky.social",
-"https://dominic4tn.com/",
-"https://dominic4tn.com/about",
-"https://dominic4tn.com/contact",
-"https://dominic4tn.com/priorities",
-"https://facebook.com/dominic4tn",
-"https://instagram.com/dominic4tn"
+{
+"text": "About",
+"href": "https://dominic4tn.com/about"
+},
+{
+"text": "Contact",
+"href": "https://dominic4tn.com/contact"
+},
+{
+"text": "Home",
+"href": "https://dominic4tn.com/"
+},
+{
+"text": "Priorities",
+"href": "https://dominic4tn.com/priorities"
+},
+{
+"text": "[image]",
+"href": "https://dominic4tn.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/dominic4tn.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/dominic4tn"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/dominic4tn/"
+}
 ]

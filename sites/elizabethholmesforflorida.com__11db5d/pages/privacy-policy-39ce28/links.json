@@ -1,7 +1,30 @@
 [
-"https://elizabethholmesforflorida.com/",
-"https://elizabethholmesforflorida.com/privacy-policy",
-"https://elizabethholmesforflorida.com/volunteer",
-"https://facebook.com/profile.php?id=61560331241061",
-"https://instagram.com/elizabethforflorida"
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61560331241061"
+},
+{
+"text": "HOME",
+"href": "https://www.elizabethholmesforflorida.com"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://www.instagram.com/elizabethforflorida/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.elizabethholmesforflorida.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.elizabethholmesforflorida.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.elizabethholmesforflorida.com/privacy-policy"
+},
+{
+"text": "info@elizabethholmesforflorida.com",
+"href": "mailto:info@elizabethholmesforflorida.com"
+}
 ]

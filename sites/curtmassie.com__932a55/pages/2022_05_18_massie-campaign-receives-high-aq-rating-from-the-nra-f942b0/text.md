@@ -1,4 +1,8 @@
-As a candidate for the House in District 33, I am happy to have received the highest rating (AQ) that a candidate can receive without a voting record.
-This rating shows the NRA has confidence in me to support and defend our 2nd amendment rights.
-You can also show your support by casting your vote for Curt Massie in the upcoming Republican Primary on June 7th.
+Help me get my name out to Voters!
+Consider donating today!
+Menu Home Taxpayers Businesses Agriculture News About Curt More About Curt Contact Curt District 33 Map Massie Campaign Receives High ‘AQ’ Rating from the NRA May 18, 2022 | No Comments | News As a candidate for the House in District 33, I am happy to have received the highest rating (AQ) that a candidate can receive without a voting record.
+This rating shows the NRA has confidence in me to support and defend our 2 nd amendment rights.
+You can also show your support by casting your vote for Curt Massie in the upcoming Republican Primary on June 7 th .
 It is so important that you get out and vote in the upcoming primary as most elections in South Dakota are decided at the June primary and not at the general election in November.
+Post navigation ← Curt Massie First on the Ballot Curt Massie at Boots & Suits Event → Search Search Recent Posts Happy 4th of July Honoring my Father and All Who Served This Memorial Day Dusty Johnson’s roundtable discussion on his Safer South Dakota initiative Honoring our Veterans Curt Massie Re-Elected to the SD House in District 33 Recent Comments No comments to show.
+Archives July 2026 May 2026 April 2026 November 2025 January 2025 November 2024 June 2024 December 2023 November 2023 October 2023 February 2023 December 2022 November 2022 September 2022 June 2022 May 2022 Categories News Uncategorized Taxpayers Businesses Agriculture Contact Curt District 33 Map Phone: 605-389-7345 Email: Curt.Massie@sdlegislature.gov Address: 8041 Clarkson Rd, Rapid City, SD 57702 Copyright # by Curt Massie for SD, All Right Reserved - Paid for by Curt Massie for SD

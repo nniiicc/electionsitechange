@@ -1,54 +1,358 @@
 [
-"https://breitbart.com/politics/2025/04/07/republican-rep-john-james-announces-run-for-michigan-governor-michigan-has-suffered-long-enough",
-"https://clickondetroit.com/news/local/2025/04/07/rep-john-james-announces-run-for-michigan-governor",
-"https://dailycaller.com/2025/11/20/john-james-favored-to-win-open-michigan-governors-contest-polling-shows",
-"https://deadlinedetroit.com/articles/33228/poll_for_michigan_governor_benson_and_james_tied_duggan_in_third",
-"https://facebook.com/JohnJamesMI",
-"https://facebook.com/watch?v=1051205896911631",
-"https://foxnews.com/politics/republican-rep-john-james-announces-run-governor-make-michigan-great-again",
-"https://instagram.com/johnjamesmi",
-"https://jjforgovernor.com/2026-team-release",
-"https://jjforgovernor.com/release-1",
-"https://johnjamesmi.com/",
-"https://johnjamesmi.com/ask-me-anything",
-"https://johnjamesmi.com/coalitions",
-"https://johnjamesmi.com/contact",
-"https://johnjamesmi.com/flight-plan",
-"https://johnjamesmi.com/get-the-facts",
-"https://johnjamesmi.com/join",
-"https://johnjamesmi.com/meet-jay",
-"https://johnjamesmi.com/meet-john",
-"https://johnjamesmi.com/michigan-2037",
-"https://johnjamesmi.com/mobile-terms-conditions",
-"https://johnjamesmi.com/news-events",
-"https://johnjamesmi.com/news-events?news_page=1&news_type=all",
-"https://johnjamesmi.com/news-events?news_page=10&news_type=all",
-"https://johnjamesmi.com/news-events?news_page=7&news_type=all",
-"https://johnjamesmi.com/news-events?news_page=8&news_type=all",
-"https://johnjamesmi.com/news-events?news_type=all",
-"https://johnjamesmi.com/news-events?news_type=in-the-news",
-"https://johnjamesmi.com/news-events?news_type=press-releases",
-"https://johnjamesmi.com/privacy-policy",
-"https://johnjamesmi.com/vote",
-"https://johnjamesmi.com/war-room",
-"https://johnjamesmi.com/what-we-are-fighting-for",
-"https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4",
-"https://newsmax.com/john-gizzi/john-james-michigan-governor/2025/11/20/id/1235376",
-"https://punchbowl.news/article/campaigns/james-launches-border-focused-governor-ad",
-"https://secure.winred.com/john-james-for-mi/donate-today",
-"https://secure.winred.com/john-james-for-mi/storefront",
-"https://wsjm.com/2025/12/05/james-leading-race-for-governor-in-michigan",
-"https://x.com/NEWSMAX/status/1909995972056518748",
-"https://x.com/johnjamesmi",
-"https://x.com/johnjamesmi/status/1911199810717176007",
-"https://x.com/johnjamesmi/status/1934005226643558818",
-"https://x.com/johnjamesmi/status/1934352843462570338",
-"https://x.com/johnjamesmi/status/1938665121665913056",
-"https://x.com/johnjamesmi/status/1973562421785579642",
-"https://x.com/johnjamesmi/status/2085719609320022283",
-"https://youtube.com/johnjamesmi",
-"https://youtube.com/watch?v=9uqWY2MdcXk",
-"https://youtube.com/watch?v=BpvJyV0VA7M",
-"https://youtube.com/watch?v=WaEnOp9jQvc",
-"https://youtube.com/watch?v=tXfUFiV8sJo"
+{
+"text": "1",
+"href": "https://johnjamesmi.com/news-events/?news_page=1&news_type=all#headlines"
+},
+{
+"text": "10",
+"href": "https://johnjamesmi.com/news-events/?news_page=10&news_type=all#headlines"
+},
+{
+"text": "2037",
+"href": "https://johnjamesmi.com/michigan-2037/"
+},
+{
+"text": "7",
+"href": "https://johnjamesmi.com/news-events/?news_page=7&news_type=all#headlines"
+},
+{
+"text": "8",
+"href": "https://johnjamesmi.com/news-events/?news_page=8&news_type=all#headlines"
+},
+{
+"text": "About Jay",
+"href": "https://johnjamesmi.com/meet-jay/"
+},
+{
+"text": "About John",
+"href": "https://johnjamesmi.com/meet-john/"
+},
+{
+"text": "All News",
+"href": "https://johnjamesmi.com/news-events/?news_type=all#headlines"
+},
+{
+"text": "Apr 12, 2025",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "Ask John Anything",
+"href": "https://johnjamesmi.com/ask-me-anything/"
+},
+{
+"text": "Aug 7, 2026",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "Coalitions",
+"href": "https://johnjamesmi.com/coalitions/"
+},
+{
+"text": "Congressman John James announces run for Michigan governor",
+"href": "https://www.clickondetroit.com/news/local/2025/04/07/rep-john-james-announces-run-for-michigan-governor/"
+},
+{
+"text": "Contact",
+"href": "https://johnjamesmi.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/john-james-for-mi/donate-today"
+},
+{
+"text": "Follow @johnjamesmi →",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "GOP Rep. James Grabs Lead for Michigan Governor",
+"href": "https://www.newsmax.com/john-gizzi/john-james-michigan-governor/2025/11/20/id/1235376/"
+},
+{
+"text": "Get the Facts",
+"href": "https://johnjamesmi.com/get-the-facts/"
+},
+{
+"text": "In the News",
+"href": "https://johnjamesmi.com/news-events/?news_type=in-the-news#headlines"
+},
+{
+"text": "Issues",
+"href": "https://johnjamesmi.com/what-we-are-fighting-for/"
+},
+{
+"text": "James launches border-focused governor ad",
+"href": "https://punchbowl.news/article/campaigns/james-launches-border-focused-governor-ad/"
+},
+{
+"text": "James leading race for governor in Michigan",
+"href": "https://www.wsjm.com/2025/12/05/james-leading-race-for-governor-in-michigan"
+},
+{
+"text": "John James Assembles Powerhouse Team Poised to Win in 2026",
+"href": "https://www.jjforgovernor.com/2026-team-release"
+},
+{
+"text": "John James Favored To Win Open Michigan Governor’s Contest, Polling Shows",
+"href": "https://dailycaller.com/2025/11/20/john-james-favored-to-win-open-michigan-governors-contest-polling-shows/"
+},
+{
+"text": "John James@johnjamesmi",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "John James’ First Michigan Governor Ad Slams Democrats for Holding Americans Hostage Over Free Healthcare for Illegals",
+"href": "https://www.jjforgovernor.com/release-1/"
+},
+{
+"text": "Join the Team",
+"href": "https://johnjamesmi.com/join/"
+},
+{
+"text": "Jun 14, 2025",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "Jun 15, 2025",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "Jun 27, 2025",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "Meet Jay",
+"href": "https://johnjamesmi.com/meet-jay/"
+},
+{
+"text": "Meet John",
+"href": "https://johnjamesmi.com/meet-john/"
+},
+{
+"text": "News & Events",
+"href": "https://johnjamesmi.com/news-events/"
+},
+{
+"text": "Next →",
+"href": "https://johnjamesmi.com/news-events/?news_page=10&news_type=all#headlines"
+},
+{
+"text": "Oct 1, 2025",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "Poll: Here’s where Michigan voters stand in the 2026 gubernatorial race",
+"href": "https://www.clickondetroit.com/news/local/2026/01/12/poll-heres-where-michigan-voters-stand-in-the-2026-gubernatorial-race/"
+},
+{
+"text": "Press Releases",
+"href": "https://johnjamesmi.com/news-events/?news_type=press-releases#headlines"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnjamesmi.com/privacy-policy/"
+},
+{
+"text": "Read more →",
+"href": "https://dailycaller.com/2025/11/20/john-james-favored-to-win-open-michigan-governors-contest-polling-shows/"
+},
+{
+"text": "Read more →",
+"href": "https://punchbowl.news/article/campaigns/james-launches-border-focused-governor-ad/"
+},
+{
+"text": "Read more →",
+"href": "https://www.breitbart.com/politics/2025/04/07/republican-rep-john-james-announces-run-for-michigan-governor-michigan-has-suffered-long-enough/"
+},
+{
+"text": "Read more →",
+"href": "https://www.clickondetroit.com/news/local/2025/04/07/rep-john-james-announces-run-for-michigan-governor/"
+},
+{
+"text": "Read more →",
+"href": "https://www.clickondetroit.com/news/local/2026/01/12/poll-heres-where-michigan-voters-stand-in-the-2026-gubernatorial-race/"
+},
+{
+"text": "Read more →",
+"href": "https://www.foxnews.com/politics/republican-rep-john-james-announces-run-governor-make-michigan-great-again"
+},
+{
+"text": "Read more →",
+"href": "https://www.jjforgovernor.com/2026-team-release"
+},
+{
+"text": "Read more →",
+"href": "https://www.jjforgovernor.com/release-1/"
+},
+{
+"text": "Read more →",
+"href": "https://www.newsmax.com/john-gizzi/john-james-michigan-governor/2025/11/20/id/1235376/"
+},
+{
+"text": "Read more →",
+"href": "https://www.newsmax.com/newsmax-tv/john-james-don-lemon-church/2026/01/21/id/1242986/"
+},
+{
+"text": "Read more →",
+"href": "https://www.wsjm.com/2025/12/05/james-leading-race-for-governor-in-michigan"
+},
+{
+"text": "Read more →",
+"href": "https://x.com/NEWSMAX/status/1909995972056518748"
+},
+{
+"text": "Rep. John James said he can “Make Michigan Great Again” after Gov. Gretchen Whitmer leaves office",
+"href": "https://x.com/NEWSMAX/status/1909995972056518748"
+},
+{
+"text": "Rep. John James to Newsmax: ‘I’m Going to Pray for Don Lemon’",
+"href": "https://www.newsmax.com/newsmax-tv/john-james-don-lemon-church/2026/01/21/id/1242986/"
+},
+{
+"text": "Republican Rep. John James Announces Run for Michigan Governor: Michigan ‘Has Suffered Long Enough’",
+"href": "https://www.breitbart.com/politics/2025/04/07/republican-rep-john-james-announces-run-for-michigan-governor-michigan-has-suffered-long-enough/"
+},
+{
+"text": "Republican Rep. John James announces run for governor: ‘Make Michigan great again’,",
+"href": "https://www.foxnews.com/politics/republican-rep-john-james-announces-run-governor-make-michigan-great-again"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/john-james-for-mi/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://johnjamesmi.com/mobile-terms-conditions/"
+},
+{
+"text": "The Flight Plan",
+"href": "https://johnjamesmi.com/flight-plan/"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "Volunteer",
+"href": "https://johnjamesmi.com/join/"
+},
+{
+"text": "Vote",
+"href": "https://johnjamesmi.com/vote/"
+},
+{
+"text": "War Room",
+"href": "https://johnjamesmi.com/war-room/"
+},
+{
+"text": "Watch video →",
+"href": "https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=9uqWY2MdcXk"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=BpvJyV0VA7M"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=WaEnOp9jQvc"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=tXfUFiV8sJo"
+},
+{
+"text": "What We’re Fighting For",
+"href": "https://johnjamesmi.com/what-we-are-fighting-for/"
+},
+{
+"text": "[image: John James for Michigan]",
+"href": "https://johnjamesmi.com/"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "[image]",
+"href": "https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=9uqWY2MdcXk"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=BpvJyV0VA7M"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=WaEnOp9jQvc"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=tXfUFiV8sJo"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/johnjamesmi"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnJamesMI/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/johnjamesmi"
+},
+{
+"text": "← Previous",
+"href": "https://johnjamesmi.com/news-events/?news_page=8&news_type=all#headlines"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"https://ajforma.com/donate?locale=en",
-"https://ajforma.com/donate?locale=es",
-"https://ajforma.com/donate?locale=ht",
-"https://ajforma.com/donate?locale=pt",
-"https://ajforma.com/donate?locale=vi",
-"https://ajforma.com/donate?locale=zh",
-"https://solidarity.tech/"
+{
+"text": "English",
+"href": "https://www.ajforma.com/donate?locale=en"
+},
+{
+"text": "Español",
+"href": "https://www.ajforma.com/donate?locale=es"
+},
+{
+"text": "Kreyòl",
+"href": "https://www.ajforma.com/donate?locale=ht"
+},
+{
+"text": "Português",
+"href": "https://www.ajforma.com/donate?locale=pt"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.ajforma.com/donate?locale=vi"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "汉语",
+"href": "https://www.ajforma.com/donate?locale=zh"
+}
 ]

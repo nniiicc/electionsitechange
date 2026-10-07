@@ -1,10 +1,34 @@
 [
-"https://bridgesford11.com/",
-"https://bridgesford11.com/donate",
-"https://bridgesford11.com/events",
-"https://bridgesford11.com/policy",
-"https://bridgesford11.com/the-candidate",
-"https://forms.gle/hFUt8Zj1tEqu4xtG6",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/bridgesford11"
+{
+"text": "Donate",
+"href": "https://bridgesford11.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bridgesford11"
+},
+{
+"text": "Events",
+"href": "https://bridgesford11.com/events"
+},
+{
+"text": "Home",
+"href": "https://bridgesford11.com/"
+},
+{
+"text": "Policy",
+"href": "https://bridgesford11.com/policy"
+},
+{
+"text": "The Candidate",
+"href": "https://bridgesford11.com/the-candidate"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "https://forms.gle/hFUt8Zj1tEqu4xtG6",
+"href": "https://forms.gle/hFUt8Zj1tEqu4xtG6"
+}
 ]

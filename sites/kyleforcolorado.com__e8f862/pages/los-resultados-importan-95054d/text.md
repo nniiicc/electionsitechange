@@ -1,76 +1,62 @@
-Mi experiencia en la elaboración de soluciones a los problemas más difíciles me distingue.
+Skip to content Kyle Brown: State Representative Progressive Values.
+Proven Results.
+Menu Home Inicio My Story Mi Historia Results Matter Los Resultados Importan Newsletters Noticias Our District: HD12 Distrito 12 Support My Campaign Únete a Nuestra Campaña Contact Me Contáctame Los Resultados Importan Mi experiencia en la elaboración de soluciones a los problemas más difíciles me distingue.
 Como representante estatal, he dado prioridad a soluciones políticas progresistas para tomar medidas contra el cambio climático, hacer que la vivienda sea más asequible, que la atención sanitaria sea más accesible, asequible y equitativa, y ayudar a todos los que perdieron su casa en el incendio de Marshall a volver a ella.
 Esto se ha materializado en treinta y cuatro proyectos de ley diferentes a lo largo de los dos últimos años.
 Desde que asumí mis funciones en febrero de 2023, he formado parte de la Comisión de Salud y Servicios Humanos y de las comisiones de Asuntos Estatales, Cívicos, Militares y de Veteranos.
 Como servidor público de toda la vida, he liderado esfuerzos para ampliar el acceso a una atención sanitaria asequible y de calidad en Washington D.C. y para Colorado.
 He sido asesor sanitario de dos gobernadores de Colorado y dos senadores estadounidenses de alto rango; he luchado contra la derogación de la Ley de Asistencia Sanitaria Asequible; he ampliado las pruebas de COVID-19/Coronavirus; y he traído una opción pública a nuestra comunidad.
 Mientras estaba en el Ayuntamiento de Louisville, apoyé varias de las mismas causas por las que ahora lucho en la Cámara de Representantes del Estado, incluyendo la recuperación del incendio de Marshall, la diversidad, la equidad y la inclusión, la seguridad de las armas con sentido común, la protección de los espacios abiertos, los programas de ayuda COVID para las empresas locales, y la mejora de la sostenibilidad de la ciudad y los objetivos climáticos.
-Prevención y recuperación de incendios forestales:
-- HB24-1011: Obliga a las compañías hipotecarias a desembolsar inmediatamente al menos un tercio de los ingresos del seguro a un prestatario que haya visto dañada o destruida su vivienda, y garantiza que el prestatario recibirá los intereses generados por los ingresos del seguro.
-- HB24-1091: garantiza que los propietarios puedan utilizar materiales resistentes al fuego al construir o reconstruir su vivienda cuando vivan en una HOA.
-- HB24-1259: Evita los precios abusivos del alquiler tras una catástrofe natural.
-- HB24-1315: Exige un estudio sobre las normas para la rehabilitación de viviendas después de que hayan sido dañadas en un incendio por humo, hollín, cenizas y otros contaminantes.
+Prevención y recuperación de incendios forestales: HB24-1011 : Obliga a las compañías hipotecarias a desembolsar inmediatamente al menos un tercio de los ingresos del seguro a un prestatario que haya visto dañada o destruida su vivienda, y garantiza que el prestatario recibirá los intereses generados por los ingresos del seguro.
+HB24-1091 : garantiza que los propietarios puedan utilizar materiales resistentes al fuego al construir o reconstruir su vivienda cuando vivan en una HOA.
+HB24-1259 : Evita los precios abusivos del alquiler tras una catástrofe natural.
+HB24-1315 : Exige un estudio sobre las normas para la rehabilitación de viviendas después de que hayan sido dañadas en un incendio por humo, hollín, cenizas y otros contaminantes.
 Todo ello tras haber aprobado previamente cuatro importantes proyectos de ley en 2023 para mejorar directamente la asequibilidad y las normas sanitarias del proceso de vuelta a casa.
-- HB23-1174: aborda las prácticas que condujeron al infraseguro masivo de viviendas, como tras el incendio de Marshall
-- HB23-1240: devolución del impuesto estatal sobre el uso de materiales de construcción de viviendas tras un incendio forestal
-- HB23-1254: nuevas normas sanitarias y de seguridad para los alquileres tras una catástrofe natural
-- HB23-1266: se asegura de que no se ejecuta el préstamo hipotecario inverso de una persona por haber perdido su casa en una catástrofe
-Actuar por el clima y avanzando la sostenibilidad:
-Creo firmemente en la promoción de las energías renovables, en la energización de nuestros sectores del transporte y la construcción y, en general, en la mejora de la sostenibilidad de nuestra sociedad.
+HB23-1174 : aborda las prácticas que condujeron al infraseguro masivo de viviendas, como tras el incendio de Marshall HB23-1240 : devolución del impuesto estatal sobre el uso de materiales de construcción de viviendas tras un incendio forestal HB23-1254 : nuevas normas sanitarias y de seguridad para los alquileres tras una catástrofe natural HB23-1266 : se asegura de que no se ejecuta el préstamo hipotecario inverso de una persona por haber perdido su casa en una catástrofe Actuar por el clima y avanzando la sostenibilidad: Creo firmemente en la promoción de las energías renovables, en la energización de nuestros sectores del transporte y la construcción y, en general, en la mejora de la sostenibilidad de nuestra sociedad.
 Aprecio el firme liderazgo de la Oficina de Energía de Colorado, de organizaciones sin ánimo de lucro como Conservación de Colorado y de mis colegas en nuestro continuo esfuerzo por tomar medidas contra el cambio climático en beneficio de nuestros bolsillos, nuestra salud y nuestra seguridad y bienestar futuros frente al cambio climático.
 He tenido la oportunidad de aprobar cuatro piezas clave de la legislación ambiental hasta el momento, el apoyo a muchos proyectos de ley presentados por mis colegas que trabajan para avanzar en nuestros objetivos de sostenibilidad.
-- SB24-212: Proporciona recursos adicionales y ayuda a los gobiernos locales para facilitar la construcción de proyectos de energías renovables.
-- SB24-218: Requiere la modernización de nuestra red eléctrica para permitir una mayor adopción de aparatos eléctricos y fuentes de energía distribuidas.
-- HB23-1234: subvenciones a las administraciones locales para implantar nuevos programas informáticos que reduzcan el tiempo y el coste de los permisos solares residenciales
-- SB23-266: limita el uso en nuestras comunidades de plaguicidas perjudiciales para los polinizadores
-Mejorar la salud pública y la salud mental:
-Creo firmemente en la adopción de medidas para promover el bienestar de la comunidad.
+SB24-212 : Proporciona recursos adicionales y ayuda a los gobiernos locales para facilitar la construcción de proyectos de energías renovables.
+SB24-218 : Requiere la modernización de nuestra red eléctrica para permitir una mayor adopción de aparatos eléctricos y fuentes de energía distribuidas.
+HB23-1234 : subvenciones a las administraciones locales para implantar nuevos programas informáticos que reduzcan el tiempo y el coste de los permisos solares residenciales SB23-266 : limita el uso en nuestras comunidades de plaguicidas perjudiciales para los polinizadores Mejorar la salud pública y la salud mental: Creo firmemente en la adopción de medidas para promover el bienestar de la comunidad.
 Por ejemplo, colaboré estrechamente con los residentes de Superior y sus alrededores, que pedían a gritos un cambio en relación con los numerosos vuelos del Aeropuerto Metropolitano de las Montañas Rocosas sobre sus hogares.
 Aunque gran parte de este asunto está regulado a nivel federal, incorporé su punto de vista al proceso de elaboración de políticas e intercambié ideas con la industria de la aviación para entender cómo podríamos obtener mejores resultados para mi comunidad.
 También me llevé a Colorado ideas de una conferencia nacional sobre salud para utilizar fondos federales para atender a quienes necesitan viviendas de transición.
 Seguiré trabajando para mejorar la salud pública.
-- HB24-1235: Ayuda a proteger a las comunidades del ruido de la aviación y de la contaminación por plomo, al tiempo que acelera la transición a los combustibles sin plomo.
-- HB24-1322: Proporciona financiación federal de Medicaid para atender a más habitantes de color con bajos ingresos que carecen de vivienda asequible y alimentos nutritivos.
-- HB24-1457: Crea un programa de subvenciones para que los gobiernos locales ayuden a pagar la eliminación de materiales peligrosos en los edificios, en particular el amianto.
-- SB24-001: Continúa el programa de servicios de salud mental para jóvenes “iMatter”, que ofrece hasta seis sesiones gratuitas de terapia a jóvenes de Colorado.
-- SB24-198: Ayuda a aplicar la iniciativa sobre medicina natural aprobada por los votantes definiendo mejor los requisitos de educación y formación.
-Transformar la asistencia sanitaria para que sea más accesible y asequible:
-Al igual que en el ámbito de la sanidad pública, conozco y comprendo el sector sanitario por mi experiencia como asesor de congresistas y gobernadores.
+HB24-1235 : Ayuda a proteger a las comunidades del ruido de la aviación y de la contaminación por plomo, al tiempo que acelera la transición a los combustibles sin plomo.
+HB24-1322 : Proporciona financiación federal de Medicaid para atender a más habitantes de color con bajos ingresos que carecen de vivienda asequible y alimentos nutritivos.
+HB24-1457 : Crea un programa de subvenciones para que los gobiernos locales ayuden a pagar la eliminación de materiales peligrosos en los edificios, en particular el amianto.
+SB24-001 : Continúa el programa de servicios de salud mental para jóvenes “iMatter”, que ofrece hasta seis sesiones gratuitas de terapia a jóvenes de Colorado.
+SB24-198 : Ayuda a aplicar la iniciativa sobre medicina natural aprobada por los votantes definiendo mejor los requisitos de educación y formación.
+Transformar la asistencia sanitaria para que sea más accesible y asequible: Al igual que en el ámbito de la sanidad pública, conozco y comprendo el sector sanitario por mi experiencia como asesor de congresistas y gobernadores.
 Esto significa que tengo una estrecha relación con varias organizaciones sin ánimo de lucro que siguen promoviendo la asequibilidad y la responsabilidad de nuestras compañías de seguros, hospitales y la industria farmacéutica.
 Sigo trabajando con estos grandes socios para promover conceptos importantes que protejan a las familias trabajadoras de los elevados costes de la atención sanitaria.
-- HB24-1258: Garantiza que los consumidores no paguen dos veces sus deducibles o gastos de bolsillo cuando una compañía de seguros de enfermedad quiebra.
-- HB24-1382: Exige cobertura sanitaria para el síndrome neuropsiquiátrico pediátrico de inicio agudo, conocido como PANS/ PANDAS
-- SB24-068: Modifica las actuales leyes de ayuda médica a morir para ampliar el acceso a las opciones de final de vida para las personas con una enfermedad terminal.
-- HB23-1218: la Ley sobre el Derecho de los Pacientes a Saber: aumentará la transparencia de los hospitales si no prestan determinados servicios (como la atención que afirma la identidad de género)
-- HB23-1224: actualizaciones de la Opción Colorado, la versión estatal de una opción pública, que ayudé a crear antes de convertirme en legislador mientras trabajaba para la División de Seguros de Colorado
-- HB23-1303: protección frente a las insolvencias de las compañías de seguros, para garantizar que los pacientes y sus médicos no tengan que pagar cuando una compañía de seguros no pueda hacer frente a sus facturas.
-- SB23-093: establece un límite máximo para los tipos de interés de la deuda médica, lo que significa que los ciudadanos de Colorado pueden buscar la atención que necesitan sin preocuparse por una deuda que se convierta en una bola de nieve
-Prevención de la violencia armada:
-Creo firmemente en la promoción de medidas de sentido común para prevenir la violencia armada.
+HB24-1258 : Garantiza que los consumidores no paguen dos veces sus deducibles o gastos de bolsillo cuando una compañía de seguros de enfermedad quiebra.
+HB24-1382 : Exige cobertura sanitaria para el síndrome neuropsiquiátrico pediátrico de inicio agudo, conocido como PANS/ PANDAS SB24-068 : Modifica las actuales leyes de ayuda médica a morir para ampliar el acceso a las opciones de final de vida para las personas con una enfermedad terminal.
+HB23-1218 : la Ley sobre el Derecho de los Pacientes a Saber: aumentará la transparencia de los hospitales si no prestan determinados servicios (como la atención que afirma la identidad de género) HB23-1224 : actualizaciones de la Opción Colorado, la versión estatal de una opción pública, que ayudé a crear antes de convertirme en legislador mientras trabajaba para la División de Seguros de Colorado HB23-1303 : protección frente a las insolvencias de las compañías de seguros, para garantizar que los pacientes y sus médicos no tengan que pagar cuando una compañía de seguros no pueda hacer frente a sus facturas.
+SB23-093 : establece un límite máximo para los tipos de interés de la deuda médica, lo que significa que los ciudadanos de Colorado pueden buscar la atención que necesitan sin preocuparse por una deuda que se convierta en una bola de nieve Prevención de la violencia armada: Creo firmemente en la promoción de medidas de sentido común para prevenir la violencia armada.
 Las armas de fuego provocan en nuestras comunidades demasiados heridos y muertos cada año como para quedarnos de brazos cruzados y no tomar medidas.
 He apoyado medidas para aumentar la formación para recibir un permiso de portación oculta, exigir un almacenamiento más seguro de las armas de fuego en los vehículos, regular la concesión de licencias a los distribuidores de armas de fuego, exigir un período de espera para adquirir un arma de fuego, aumentar la edad mínima para comprar un arma de fuego y ampliar la lista de personas con derecho a presentar una Orden de Protección de Riesgo Extremo (ERPO).
 También tuve el placer de impulsar una política para seguir cambiando la cultura sobre dónde debemos llevar un arma de fuego.
-- SB24-131: Prohíbe llevar un arma de fuego, abierta u oculta, en determinados espacios sensibles, como centros preescolares, universidades, edificios gubernamentales y colegios electorales.
-Promover la democracia:
-En medio de nuevas amenazas a nivel federal a nuestros principios democráticos, estamos ampliando y asegurando nuestra democracia aquí a nivel estatal.
+SB24-131 : Prohíbe llevar un arma de fuego, abierta u oculta, en determinados espacios sensibles, como centros preescolares, universidades, edificios gubernamentales y colegios electorales.
+Promover la democracia: En medio de nuevas amenazas a nivel federal a nuestros principios democráticos, estamos ampliando y asegurando nuestra democracia aquí a nivel estatal.
 Creo firmemente en el acceso y la integridad del voto, al tiempo que rechazo las medidas que limitarían esta integridad de alguna manera.
 Las normas electorales aquí en Colorado son continuamente calificadas como unas de las mejores del país, y apoyo a la oficina de nuestro Secretario de Estado para que garantice unas elecciones justas.
-- SB24-072: amplía el acceso al voto de los electores elegibles confinados en la cárcel o centro de detención del condado.
-- SCR24-002: modifica los actuales plazos de las elecciones constitucionales para garantizar más tiempo entre la certificación de las papeletas y su transmisión.
-Proteger a los trabajadores y fomentar la educación:
-Estoy al lado de nuestras familias trabajadoras, ya que el avance de nuestra economía significa que a menudo ciertos trabajadores se quedan atrás.
+SB24-072 : amplía el acceso al voto de los electores elegibles confinados en la cárcel o centro de detención del condado.
+SCR24-002 : modifica los actuales plazos de las elecciones constitucionales para garantizar más tiempo entre la certificación de las papeletas y su transmisión.
+Proteger a los trabajadores y fomentar la educación: Estoy al lado de nuestras familias trabajadoras, ya que el avance de nuestra economía significa que a menudo ciertos trabajadores se quedan atrás.
 Trabajaré con los sindicatos, la gente trabajadora y las comunidades marginadas para garantizar salarios justos, oportunidades educativas inteligentes para avanzar y equidad para aquellos que serían explotados con la amenaza de la deportación, la intimidación y el robo de salarios.
-- HB24-1321: Garantiza que las compañías de seguros dispongan de reservas financieras adecuadas para que los consumidores puedan estar seguros de que podrán pagar las reclamaciones.
-- HB24-1472: Aumenta la limitación de los daños no económicos que pueden recuperarse en acciones por negligencia médica, lesiones personales y homicidio culposo.
-- SB24-149: Prohíbe al Estado utilizar la reclamación de indemnización por accidente laboral de un empleado estatal para inhibir su empleo actual o futuro para el Estado, o amenazar con hacerlo.
-- SB24-226: Amplía el acceso al programa College Kickstarter, facilitando que más niños reciban la inversión inicial de 100 dólares que se proporciona a cada niño nacido o adoptado en Colorado.
-Eficiencia y eficacia de la Administración:
-Es importante que la Administración se racionalice para que el dinero de los contribuyentes se utilice de la manera más eficaz.
+HB24-1321 : Garantiza que las compañías de seguros dispongan de reservas financieras adecuadas para que los consumidores puedan estar seguros de que podrán pagar las reclamaciones.
+HB24-1472 : Aumenta la limitación de los daños no económicos que pueden recuperarse en acciones por negligencia médica, lesiones personales y homicidio culposo.
+SB24-149 : Prohíbe al Estado utilizar la reclamación de indemnización por accidente laboral de un empleado estatal para inhibir su empleo actual o futuro para el Estado, o amenazar con hacerlo.
+SB24-226 : Amplía el acceso al programa College Kickstarter, facilitando que más niños reciban la inversión inicial de 100 dólares que se proporciona a cada niño nacido o adoptado en Colorado.
+Eficiencia y eficacia de la Administración: Es importante que la Administración se racionalice para que el dinero de los contribuyentes se utilice de la manera más eficaz.
 Apoyo a nuestros organismos públicos cuando aportan ideas que pueden conectar mejor los departamentos, fomentar mejores relaciones de trabajo y, en general, mejorar la puntualidad de las operaciones gubernamentales.
-- HB24-1326: Mejora la regulación de los juegos benéficos, incluido el bingo, para garantizar la coherencia de importantes organizaciones comunitarias.
-- SB24-135: modifica los requisitos legales de los informes de los departamentos y agencias estatales, incluidos los departamentos de servicios humanos, informática y enseñanza superior.
-- HB23-1278: ampliación de las opciones virtuales para los trámites de licencias matrimoniales
-Es un honor para mí trabajar en nombre de mis electores en cada uno de estos ámbitos.
+HB24-1326 : Mejora la regulación de los juegos benéficos, incluido el bingo, para garantizar la coherencia de importantes organizaciones comunitarias.
+SB24-135 : modifica los requisitos legales de los informes de los departamentos y agencias estatales, incluidos los departamentos de servicios humanos, informática y enseñanza superior.
+HB23-1278 : ampliación de las opciones virtuales para los trámites de licencias matrimoniales Es un honor para mí trabajar en nombre de mis electores en cada uno de estos ámbitos.
 Estoy deseando presentar nuevas leyes para promover nuestros objetivos y valores, y acogeré con agrado cualquier opinión o idea sobre estos proyectos a lo largo del proceso.
 Pagado por Kyle para Colorado.
 Agente registrado Kyle Brown.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading... kyleforcolorado@gmail.com Create a website or blog at WordPress.com Kyle Brown: State Representative Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

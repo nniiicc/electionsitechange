@@ -1,14 +1,58 @@
 [
-"https://facebook.com/reillyformass",
-"https://instagram.com/reillyformass",
-"https://linkedin.com/in/johnreillyjr",
-"https://reillyformass.com/",
-"https://reillyformass.com/district-2",
-"https://reillyformass.com/events",
-"https://reillyformass.com/meet-john",
-"https://reillyformass.com/press%2Fappearance-inquiry",
-"https://reillyformass.com/the-vision",
-"https://reillyformass.com/volunteer",
-"https://secure.anedot.com/reillyformass/donate",
-"https://youtube.com/@reillyformass"
+{
+"text": "DISTRICT 2",
+"href": "https://reillyformass.com/district-2"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/reillyformass/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://reillyformass.com/events"
+},
+{
+"text": "Home",
+"href": "https://reillyformass.com/"
+},
+{
+"text": "MEET JOHN",
+"href": "https://reillyformass.com/meet-john"
+},
+{
+"text": "PRESS/APPEARANCE INQUIRY",
+"href": "https://reillyformass.com/press%2Fappearance-inquiry"
+},
+{
+"text": "THE VISION",
+"href": "https://reillyformass.com/the-vision"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://reillyformass.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://reillyformass.com/"
+},
+{
+"text": "[image]",
+"href": "https://reillyformass.com/district-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reillyformass"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reillyformass"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/johnreillyjr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@reillyformass"
+}
 ]

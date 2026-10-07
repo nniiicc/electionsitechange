@@ -1,4 +1,4 @@
-California Majority Leader Emeritus Eloise Gómez Reyes endorses Etiwanda School Boardmember Robert Garcia for California Assembly AD-50, which she currently represents.
+Skip to content Menu Meet Robert News Endorsements District Map Media Volunteer Donate Quick Links: Facebook Twitter Instagram Open Search Window Home Announcements California Majority Leader Emeritus Eloise Gómez Reyes Endorses Robert Garcia for California State Assembly AD-50 California Majority Leader Emeritus Eloise Gómez Reyes Endorses Robert Garcia for California State Assembly AD-50 July 31, 2023 | Announcements | admin California Majority Leader Emeritus Eloise Gómez Reyes endorses Etiwanda School Boardmember Robert Garcia for California Assembly AD-50, which she currently represents.
 Rancho Cucamonga, CA – In a significant development that promises to shape the race in California’s Assembly District 50, California Majority Leader Emeritus Eloise Gómez Reyes proudly announces her endorsement of Etiwanda School Boardmember Robert Garcia for the California State Assembly.
 Having served the constituents of Assembly District 50 with unwavering dedication and distinction, Majority Leader Emeritus Eloise Gómez Reyes has garnered a deep understanding of the needs and aspirations of the district’s diverse communities.
 Reyes now seeks to serve in the State Senate District 29.
@@ -15,13 +15,13 @@ Together, we will fight for critical resources for important issues such as educ
 Upon receiving the endorsement from Majority Leader Emeritus Eloise Gómez Reyes, Robert Garcia expressed his gratitude and reaffirmed his commitment to positively impacting the lives of the people in AD-50.
 “I am truly honored to receive the endorsement of someone as esteemed and influential as Majority Leader Emeritus Eloise Gómez Reyes.
 Her record of dedicated service inspires me, and I am determined to carry on her legacy of championing the interests of our community.
-Together, we will work tirelessly to address our district’s critical challenges and create a better future for all.”
-The endorsement from Majority Leader Emeritus Eloise Gómez Reyes comes on the heels of reporting $176,000 cash-on-hand.
+Together, we will work tirelessly to address our district’s critical challenges and create a better future for all.” The endorsement from Majority Leader Emeritus Eloise Gómez Reyes comes on the heels of reporting $176,000 cash-on-hand.
 It is expected to significantly boost Robert Garcia’s campaign, uniting supporters from various backgrounds under a shared vision for a stronger, more inclusive AD-50.
 In a three-person race, this announcement and his fundraising numbers has positioned Garcia as the clear frontrunner for AD-50.
-To learn more about Robert’s campaign, visit robertgarcia4ca.com.
-About Robert Garcia
-Robert Garcia has spent the last two decades in public education, as a teacher and administrator at a local elementary school.
+To learn more about Robert’s campaign, visit robertgarcia4ca.com .
+About Robert Garcia Robert Garcia has spent the last two decades in public education, as a teacher and administrator at a local elementary school.
 In 2016, Robert was elected to the Etiwanda School District Board of Education, winning re-election in 2020 with nearly 70% of the vote.
 He earned his Bachelor of Science in Biology from UCLA and master’s in public policy from USC.
 Robert and his wife, Samantha, live in Rancho Cucamonga with their three children.
+Last modified: August 30, 2023 Previous: Etiwanda School Boardmember Robert Garcia Announces 2024 Run for California State Assembly AD-50 Next: Etiwanda School Boardmember Robert Garcia Raises $180K in Campaign for California State Assembly Comments are closed.
+Browse Categories Announcements 14 Search for: Search Recent Posts Speaker Robert Rivas Endorses Robert Garcia for Assembly March 18, 2024 Robert Garcia Advances to General Election in AD-50 Race March 12, 2024 Join us for an evening with Educators for Robert Garcia February 1, 2024 Join us for a fundraiser in support of Robert Garcia January 22, 2024 E-mail: info@robertgarcia4ca.com Social Media Facebook Instagram Twitter Join Team Robert Volunteer Donate Now Important Links Meet Robert Endorsements Our District Issues Facebook Twitter Instagram Open Search Window Copyright © # - PAID FOR BY ROBERT GARCIA FOR ASSEMBLY 2026 - FPPC #1477689 Search for: Search Close Search Window ↑

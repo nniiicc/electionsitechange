@@ -1,8 +1,3 @@
-Updates
-Below you will find periodic legislative updates and other press releases.
+Meet Matt Volunteer Yard Signs Contact Updates News Contribute Updates Below you will find periodic legislative updates and other press releases.
 Thanks for your interest!
-March 31, 2026 - Recap of 101st South Dakota Legislative Session
-March 10, 2026 - You Can't Always Get What You Want
-March 3, 2026 - Crossover Day Drama
-February 24, 2026 - Two Intense Weeks in Pierre
-February 10, 2026 - Getting Busy
+March 31, 2026 - Recap of 101st South Dakota Legislative Session March 10, 2026 - You Can't Always Get What You Want March 3, 2026 - Crossover Day Drama February 24, 2026 - Two Intense Weeks in Pierre February 10, 2026 - Getting Busy February 3, 2026 - Pace Quickens January 20, 2026 - Session Kicks Off Meet Matt Volunteer Yard Signs Contact Updates News Contribute Paid for by Friends of Matt Roby Powered by CampaignPartner.com - Political Websites Meet Matt Volunteer Yard Signs Contact Updates News Contribute Close Menu

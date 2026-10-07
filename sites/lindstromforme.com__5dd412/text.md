@@ -1,9 +1,6 @@
-A Proven Leader for Scarborough
-On November 3, 2026,
-vote Mary Shannon Lindstrom
-to represent District 124 in the Maine State House.
-Prioritizing
-You in Augusta
-- Championing A Livable Scarborough
-- Sharing Growth Responsibly
-- Improving Education in Maine
+Skip to content Mary Shannon Lindstrom Facebook Instagram Community Support On The Issues About Me Home https://www.facebook.com/LindstromForScarborough/ Instagram Home On The Issues Community Support About Me Give A Proven Leader for Scarborough On November 3, 2026, vote Mary Shannon Lindstrom to represent District 124 in the Maine State House.
+Prioritizing You in Augusta Championing A Livable Scarborough Sharing Growth Responsibly Improving Education in Maine Learn More Dear Neighbors LinkedIn Ballotpedia Join the Campaign ← Back Thank you for your response. ✨ First Name (required) Last Name (required) Email (required) How would you like to help? (check all that apply) Yard sign Endorse Shannon (Letter to the Editor) Knock on doors Other/I'm flexible Anything else you would like to add?
+Send Δ Mailing Address 62 Jasper Street Scarborough, ME 04074 Contact maryshannon@lindstromforme.com Paid for and authorized by the candidate.
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

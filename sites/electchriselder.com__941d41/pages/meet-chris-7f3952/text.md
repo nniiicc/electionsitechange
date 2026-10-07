@@ -1,40 +1,7 @@
-MEET CHRIS
-aboutcHRIS
-Chris Elder is a Navy veteran, small business owner, and longtime Snohomish County resident.
+top of page Chris Elder for State Representative LD 44, Pos 1 HOME MEET CHRIS ISSUES ENDORSEMENTS VOLUNTEER CONTACT More Use tab to navigate through the menu items.
+DONATE MEET CHRIS about cHRIS Chris Elder is a Navy veteran, small business owner, and longtime Snohomish County resident.
 He and his wife, who have been married for over 20 years, are raising two children in the Snohomish School District.
 Chris served 20 years in Naval Aviation, rising into senior enlisted leadership roles.
 During his Navy career, Chris organized multicultural committees, led American Red Cross blood drives, and helped establish the inaugural Pacific Northwest Chief Petty Officer Pride Day, a regional leadership and community service event that continues today.
 Since retiring from the Navy in 2023, Chris has worked in real estate, volunteered supporting service members and veterans, and, with his family, runs a small farm and horse boarding facility.
-Chris is also a student at Everett Community College and the creator of the Mil2Vet podcast, which highlights the stories of veterans transitioning to civilian life.
-experience
-United States Navy
-- 20 Years of Service in Naval Aviation
-- Maintenance Management, Quality Assurance, and Operational Readiness
-- Ensured aircraft, equipment, and personnel met strict safety and mission standards
-- Recipient of three Navy and Marine Corps Commendation Medals
-- Recipient of six Navy Achievement Medals
-- Recipient of the Military Outstanding Volunteer Service Medal
-- Organized Multicultural Committees
-- Orchestrated American Red Cross blood drives
-Business Owner
-- Farmer and operator of a family horse boarding facility
-- Real Estate Broker
-- Negotiates high-value transactions
-- Contract navigation and follow-through
-- Rental property management
-- Community engagement
-Community Service
-- Founder of Mil2Vet, a veteran-led podcast focused on military transition stories
-- School volunteer
-- 4-H volunteer
-- Teaches transition classes for service members at Naval Station Everett
-Education
-- Navy’s Senior Enlisted Leadership Academy
-- Naval Aviation Enterprise Green Belt (Process Improvement)
-- Command Financial Specialist Certification
-- Defense Acquisition University — Government Financial Management Training
-- Command Training Team Instructor Certification
-- Advanced Shipboard Firefighting Training
-- Department of Labor Registered Apprenticeships (USMAP)
-- Colibri Real Estate School
-- Everett CC Journalism Major (current)
+Chris is also a student at Everett Community College and the creator of the Mil2Vet podcast, which highlights the stories of veterans transitioning to civilian life. experience United States Navy ​ 20 Years of Service in Naval Aviation Maintenance Management, Quality Assurance, and Operational Readiness ​ Ensured aircraft, equipment, and personnel met strict safety and mission standards ​ ​ Recipient of three Navy and Marine Corps Commendation Medals Recipient of six Navy Achievement Medals Recipient of the Military Outstanding Volunt eer Service Medal​ Organized Multicultural Committees Orchestrated American Red Cross blood drives ​ Business Owner Farmer and operator of a family h orse boarding facility Real Estate Broker Negotiates high-value transactions Contract navigation and follow-through Rental property management Community engagement Community Service Founder of Mil2Vet, a veteran-led podcast focused on military transition stories School volunteer 4-H volunteer Teaches transition classes for service members at Naval Station Everett ​ Education Navy’s Senior Enlisted Leadership Academy Naval Aviation Enterprise Green Belt (Process Improvement) Command Financial Specialist Certification Defense Acquisition University — Government Financial Management Training Command Training Team Instructor Certification Advanced Shipboard Firefighting Training Department of Labor Registered Apprenticeships (USMAP) Colibri Real Estate School Everett CC Journalism Major (current) ​ ​ ​ VOLUNTEER DONATE ENDORSE Elect Chris Elder for State Representative in the 44th LD Paid for by Washingtonians for Chris Elder PO Box 147 Monroe, WA 98272 bottom of page

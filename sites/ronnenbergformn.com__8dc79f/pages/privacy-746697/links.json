@@ -1,7 +1,62 @@
 [
-"https://ronnenbergformn.com/",
-"https://ronnenbergformn.com/about",
-"https://ronnenbergformn.com/privacy",
-"https://ronnenbergformn.com/terms",
-"https://secure.winred.com/ronnenberg-for-mn-house-1ab4bd9a/donate-today"
+{
+"text": "ABOUT",
+"href": "https://www.ronnenbergformn.com/about"
+},
+{
+"text": "Back the Blue",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "CONTACT",
+"href": "mailto:ronnenbergformn@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/ronnenberg-for-mn-house-1ab4bd9a/donate-today"
+},
+{
+"text": "Education That Gets Results",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "Faith, Family, and Life",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "Farmers, Ag, and Rural Minnesota",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "HOME",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.ronnenbergformn.com/privacy"
+},
+{
+"text": "Protecting Kids & Girls Sports",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "Second Amendment",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "Stop the Waste. Stop the Fraud.",
+"href": "https://www.ronnenbergformn.com"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.ronnenbergformn.com/terms"
+},
+{
+"text": "Taxes & Cost of Living",
+"href": "https://www.ronnenbergformn.com"
+}
 ]

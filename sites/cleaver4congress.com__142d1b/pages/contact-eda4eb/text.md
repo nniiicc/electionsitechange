@@ -1,5 +1,4 @@
-Get in Touch
-Whether you have a question about the campaign, want to share your thoughts on the issues, or need help getting involved, our team is here to connect with you.
+0 Skip to Content Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Open Menu Close Menu Home About Vote In the News Issues Volunteer Contact Stay Informed Updates Gallery Donate Now Get in Touch Whether you have a question about the campaign, want to share your thoughts on the issues, or need help getting involved, our team is here to connect with you.
 Your voice matters, and we welcome your input.
-Contact Options
-General Inquiries + Volunteer Opportunities: info@cleaver4congress.com
+Contact Options General Inquiries + Volunteer Opportunities: info@cleaver4congress.com Cleaver for Congress P.O.
+Box 411872 Kansas City, Missouri 64141 816-561-2575 info@cleaver4congress.com Privacy Policy Accessibility #cleaver-countdown-popup.show{ bottom:140px; } × Chip in to Support Cleaver If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount… CONTINUE TO WEBSITE ➜ × GENERAL ELECTION # Days # Hours # Minutes # Seconds Tuesday November 3, 2026 Volunteer Donate

@@ -1,4 +1,4 @@
-Ready to lead.
+0 Skip to Content About Volunteer Endorsements Donate Open Menu Close Menu About Volunteer Endorsements Donate Open Menu Close Menu About Volunteer Endorsements Donate Ready to lead.
 Already proven.
 I didn't come to this from politics.
 I came to this from twenty years of walking into rooms where things weren't working and figuring out how to rebuild them.
@@ -28,10 +28,9 @@ Industries pushed forward.
 I know how to walk into something that isn't working and make it work.
 I've been doing it my whole career.
 And I'm ready to do it for this district.
-What I believe
-I believe in fairness.
+What I believe I believe in fairness .
 Every policy decision has a "who benefits and who pays." I will always ask that question.
-I believe in courage.
+I believe in courage .
 Seeing what's not working and saying so.
 Trying things that haven't been tried.
 I believe in competence.
@@ -44,8 +43,7 @@ I believe in endurance.
 The hard problems don't get solved in one session.
 I stay with it.
 That's what twenty years of this work has taught me.
-How I lead
-Modern Vision.
+How I lead Modern Vision.
 I look at how decisions in one area affect everything else.
 I think in systems.
 I look at how things connect, where they're failing, and who's being left out.
@@ -74,3 +72,5 @@ That's the possibility of us.
 Real possibility starts with showing up.
 Volunteer, donate, or Just spread the word.
 This campaign belongs to all of us.
+Join Us Home About Volunteer Endorsements Donate Paid for by Bassett for Oregon (24816) © # BassettforOregon.
+All rights reserved.

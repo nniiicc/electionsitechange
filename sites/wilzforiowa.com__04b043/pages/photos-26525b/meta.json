@@ -1,7 +1,13 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://wilzforiowa.com/photos",
- "paid_for_by": null,
+ "fingerprint": "884fec70137f156ad3e9674f895f124be4d21655",
+ "format": 3,
+ "paid_for_by": "sponsored by Wilz for Iowa and is for informational purposes only",
  "title": "Photo Gallery",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2024"
+ ]
 }

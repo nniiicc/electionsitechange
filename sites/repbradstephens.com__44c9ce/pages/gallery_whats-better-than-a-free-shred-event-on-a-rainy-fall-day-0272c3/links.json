@@ -1,56 +1,222 @@
 [
-"https://apps.apple.com/us/app/rep-brad-stephens/id1635769013",
-"https://facebook.com/BradStephensForStateRep",
-"https://instagram.com/repbrad20",
-"https://play.google.com/store/apps/details?id=com.planetbomba.repstephens",
-"https://repbradstephens.com/",
-"https://repbradstephens.com/20th-district",
-"https://repbradstephens.com/about-brad",
-"https://repbradstephens.com/calendar",
-"https://repbradstephens.com/gallery",
-"https://repbradstephens.com/get-involved",
-"https://repbradstephens.com/if-i-could-write-a-law",
-"https://repbradstephens.com/rep-brad-stephens-bills",
-"https://repbradstephens.com/share-your-concerns",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3879.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3880.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3883.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3888.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3892.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3893.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3896.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3899.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3908.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3912.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3915.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3919.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3929.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3933.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3935.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3941.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3948.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3958.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3963.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3968.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3970.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3975.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3978.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3982.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3987.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3989.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3995.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3999.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4004.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4007.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4009.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4010.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4012.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4014.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4021.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4026.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4029.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4036.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4038.jpg",
-"https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4051-1.jpg",
-"https://twitter.com/RepBradStephens"
+{
+"text": "20th District",
+"href": "https://repbradstephens.com/20th-district/"
+},
+{
+"text": "About Brad",
+"href": "https://repbradstephens.com/about-brad/"
+},
+{
+"text": "Calendar",
+"href": "https://repbradstephens.com/calendar/"
+},
+{
+"text": "Get Involved",
+"href": "https://repbradstephens.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://repbradstephens.com/"
+},
+{
+"text": "IF YOU COULDWRITE A LAW",
+"href": "https://repbradstephens.com/if-i-could-write-a-law/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://repbradstephens.com/about-brad/"
+},
+{
+"text": "Legislation",
+"href": "https://repbradstephens.com/rep-brad-stephens-bills/"
+},
+{
+"text": "Photo Galleries",
+"href": "https://repbradstephens.com/gallery/"
+},
+{
+"text": "SHARE YOURCONCERNS",
+"href": "https://repbradstephens.com/share-your-concerns/"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3879.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3880.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3883.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3888.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3892.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3893.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3896.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3899.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3908.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3912.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3915.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3919.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3929.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3933.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3935.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3941.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3948.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3958.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3963.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3968.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3970.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3975.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3978.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3982.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3987.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3989.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3995.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF3999.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4004.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4007.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4009.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4010.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4012.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4014.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4021.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4026.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4029.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4036.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4038.jpg"
+},
+{
+"text": "[image: Shred It event Picture]",
+"href": "https://repbradstephens.com/wp-content/uploads/2019/09/DSCF4051-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://apps.apple.com/us/app/rep-brad-stephens/id1635769013"
+},
+{
+"text": "[image]",
+"href": "https://play.google.com/store/apps/details?id=com.planetbomba.repstephens"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RepBradStephens"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BradStephensForStateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repbrad20/"
+}
 ]

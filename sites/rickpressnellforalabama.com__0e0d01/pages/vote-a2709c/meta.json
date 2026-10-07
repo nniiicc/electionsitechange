@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.rickpressnellforalabama.com/vote",
- "paid_for_by": null,
+ "fingerprint": "8b096e42815c2722c62b4d5a3d6ed10b6c427d00",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

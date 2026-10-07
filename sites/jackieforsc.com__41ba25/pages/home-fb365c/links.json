@@ -1,18 +1,82 @@
 [
-"https://api.leadconnectorhq.com/widget/form/WAOu7Sq5hEgSB5UgRdzA",
-"https://facebook.com/jackieterribileforstatehouse66",
-"https://instagram.com/jackieterribileforstatehouse66",
-"https://jackieforsc.com/about",
-"https://jackieforsc.com/about-3",
-"https://jackieforsc.com/cdn-cgi/l/email-protection",
-"https://jackieforsc.com/contact",
-"https://jackieforsc.com/district-66",
-"https://jackieforsc.com/donate",
-"https://jackieforsc.com/get-involved",
-"https://jackieforsc.com/home",
-"https://jackieforsc.com/the-29708-ledger",
-"https://jackieforsc.com/the-issues",
-"https://secure.winred.com/jackie-terribile-for-south-carolina/donate",
-"https://x.com/JackieforSC",
-"https://youtube.com/@JackieTerribile-SCHouse66"
+{
+"text": "About",
+"href": "https://jackieforsc.com/about"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/jackie-terribile-for-south-carolina/donate"
+},
+{
+"text": "District 66",
+"href": "https://jackieforsc.com/district-66"
+},
+{
+"text": "Donate",
+"href": "https://jackieforsc.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://jackieforsc.com/get-involved"
+},
+{
+"text": "Get Updates from Jackie",
+"href": "https://jackieforsc.com/contact"
+},
+{
+"text": "Home",
+"href": "https://jackieforsc.com/home"
+},
+{
+"text": "Join the Newsletter",
+"href": "https://api.leadconnectorhq.com/widget/form/WAOu7Sq5hEgSB5UgRdzA"
+},
+{
+"text": "Learn more about Jackie",
+"href": "https://jackieforsc.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jackieforsc.com/about-3"
+},
+{
+"text": "READ MORE",
+"href": "https://jackieforsc.com/get-involved"
+},
+{
+"text": "Sign Up for Updates",
+"href": "https://api.leadconnectorhq.com/widget/form/WAOu7Sq5hEgSB5UgRdzA"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.jackieforsc.com/about-3"
+},
+{
+"text": "The 29708 Ledger",
+"href": "https://jackieforsc.com/the-29708-ledger"
+},
+{
+"text": "The Issues",
+"href": "https://jackieforsc.com/the-issues"
+},
+{
+"text": "[email protected]",
+"href": "https://jackieforsc.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://facebook.com/jackieterribileforstatehouse66"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://instagram.com/jackieterribileforstatehouse66/"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://x.com/JackieforSC"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://youtube.com/@JackieTerribile-SCHouse66"
+}
 ]

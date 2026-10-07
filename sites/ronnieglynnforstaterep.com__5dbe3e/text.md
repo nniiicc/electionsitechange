@@ -1,12 +1,8 @@
-About Ronnie
-A life-long Tennessean, Rep.
-Ronnie Glynn has dedicated his life to his family, country, and his
-community.
+0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate About Ronnie A life-long Tennessean, Rep.
+Ronnie Glynn has dedicated his life to his family, country, and his community.
 At a very young age, Rep.
-Glynn found himself the father of two children
-before he was 20 years old.
-He realized that, Quote, "In order to do better, I have to be better."
-Growing up in rural Tennessee good paying jobs were scarce, Rep.
+Glynn found himself the father of two children before he was 20 years old.
+He realized that, Quote, "In order to do better, I have to be better." Growing up in rural Tennessee good paying jobs were scarce, Rep.
 Glynn decided the best way to care for his family was to join the United States Army.
 His initial plan was to serve five years and then figure out his next step.
 His 5-year enlistment plan expanded into over 23 years of dedicated service, were he retired as an Army Master Sergeant in 2014.
@@ -31,4 +27,4 @@ Glynn and his wife Sherry, of 35 years, have four adult children and 14 grandchi
 Spending summers with his grandchildren, he realized there was a lack of activities for school-age children in the area.
 Leaning on his understanding of business, he started Jumpmaster Inflatables to meet this need in the community.
 In 2023, he started a second business, Jumpmaster Trucking.
-When his is not serving as a mentor to young folks or discussing business, on a nice sunny day, you might find him out and about playing golf, riding his Spyder (3-wheel motorcycle), or umpiring a high school baseball game.
+When his is not serving as a mentor to young folks or discussing business, on a nice sunny day, you might find him out and about playing golf, riding his Spyder (3-wheel motorcycle), or umpiring a high school baseball game. ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

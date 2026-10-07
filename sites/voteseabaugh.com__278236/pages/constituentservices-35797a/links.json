@@ -1,13 +1,50 @@
 [
-"https://gba.georgia.gov/services/public-tours",
-"https://leesahagan.com/constituent-services",
-"https://legis.ga.gov/house/page-program",
-"https://legis.ga.gov/legislation/about",
-"https://legis.ga.gov/legislation/all",
-"https://mvp.sos.ga.gov/s",
-"https://secure.anedot.com/devan-seabaugh-for-state-house/donate",
-"https://voteseabaugh.com/",
-"https://voteseabaugh.com/constituentservices",
-"https://voteseabaugh.com/latest-news",
-"https://voteseabaugh.com/volunteer"
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.voteseabaugh.com/constituentservices"
+},
+{
+"text": "Call us (404) 651-7737",
+"href": "tel:555-555-5555"
+},
+{
+"text": "Can I watch floor sessions or committee meetings online?",
+"href": "https://leesahagan.com/constituent-services/#video"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/devan-seabaugh-for-state-house/donate"
+},
+{
+"text": "NEWS",
+"href": "https://www.voteseabaugh.com/latest-news"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteseabaugh.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.voteseabaugh.com/"
+},
+{
+"text": "https://gba.georgia.gov/services/public-tours",
+"href": "https://gba.georgia.gov/services/public-tours"
+},
+{
+"text": "https://mvp.sos.ga.gov/s/",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "https://www.legis.ga.gov/house/page-program",
+"href": "https://www.legis.ga.gov/house/page-program"
+},
+{
+"text": "https://www.legis.ga.gov/legislation/about",
+"href": "https://www.legis.ga.gov/legislation/about"
+},
+{
+"text": "https://www.legis.ga.gov/legislation/all",
+"href": "https://www.legis.ga.gov/legislation/all"
+}
 ]

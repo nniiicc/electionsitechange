@@ -1,11 +1,74 @@
 [
-"https://facebook.com/guruleforcolorado",
-"https://guruleforcolorado.com/",
-"https://guruleforcolorado.com/connect",
-"https://guruleforcolorado.com/get-involved",
-"https://guruleforcolorado.com/meet-duane",
-"https://guruleforcolorado.com/priorities",
-"https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1",
-"https://tiktok.com/@duane_gurule",
-"https://x.com/duanegurule"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "$35",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "CONNECT",
+"href": "https://www.guruleforcolorado.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.guruleforcolorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.guruleforcolorado.com"
+},
+{
+"text": "MEET DUANE",
+"href": "https://www.guruleforcolorado.com/meet-duane"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/colorado-democratic-party---federal-account-1"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.guruleforcolorado.com/priorities"
+},
+{
+"text": "Read Duane's Full Story...",
+"href": "https://www.guruleforcolorado.com/meet-duane"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.guruleforcolorado.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/guruleforcolorado"
+},
+{
+"text": "[image: Gurule For Colorado (1).png]",
+"href": "https://www.guruleforcolorado.com"
+},
+{
+"text": "[image: Gurule For Colorado.png]",
+"href": "https://www.guruleforcolorado.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@duane_gurule"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/duanegurule"
+}
 ]

@@ -1,39 +1,170 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/letter-to-the-editor/mainers-have-great-representation-in-sen-susan-collins",
-"https://susancollins.com/letter-to-the-editor/new-bill-would-help-grow-healthcare-workforce-as-maine-ages",
-"https://susancollins.com/letter-to-the-editor/susan-collins-saving-global-aids-relief-program-shows-that-american-compassion-still-matters",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/news/1-6m-for-northern-light-health-advanced-by-collins-in-funding-bill",
-"https://susancollins.com/news/maine-shipyard-earns-contract-to-build-another-destroyer-for-the-navy",
-"https://susancollins.com/news/nearly-11-million-in-federal-funding-advances-for-maine-community-colleges",
-"https://susancollins.com/news/new-400-million-expansion-at-lp-houlton-plant-to-create-100-jobs",
-"https://susancollins.com/news/page/18",
-"https://susancollins.com/news/page/19",
-"https://susancollins.com/news/page/21",
-"https://susancollins.com/news/page/22",
-"https://susancollins.com/news/senator-collins-advances-4-million-for-maine-maritime-academy-in-castine",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "$100",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=100&web_id=susancollins_news_donatebar100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=1000&web_id=susancollins_news_donatebar1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=25&web_id=susancollins_news_donatebar25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=50&web_id=susancollins_news_donatebar50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?amount=500&web_id=susancollins_news_donatebar500"
+},
+{
+"text": "1",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "18",
+"href": "https://susancollins.com/news/page/18/"
+},
+{
+"text": "19",
+"href": "https://susancollins.com/news/page/19/"
+},
+{
+"text": "21",
+"href": "https://susancollins.com/news/page/21/"
+},
+{
+"text": "22",
+"href": "https://susancollins.com/news/page/22/"
+},
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026?web_id=susancollins_news_donatebar"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Read MoreAugust 16, 2025Mainers have great representation in Sen. Susan CollinsLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/mainers-have-great-representation-in-sen-susan-collins/"
+},
+{
+"text": "Read MoreAugust 16, 2025Susan Collins saving global AIDS relief program shows that American compassion still mattersLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/susan-collins-saving-global-aids-relief-program-shows-that-american-compassion-still-matters/"
+},
+{
+"text": "Read MoreAugust 18, 2025New $400 Million Expansion at LP Houlton Plant to Create 100 JobsNews",
+"href": "https://susancollins.com/news/new-400-million-expansion-at-lp-houlton-plant-to-create-100-jobs/"
+},
+{
+"text": "Read MoreAugust 18, 2025Senator Collins advances $4 million for Maine Maritime Academy in CastineNews",
+"href": "https://susancollins.com/news/senator-collins-advances-4-million-for-maine-maritime-academy-in-castine/"
+},
+{
+"text": "Read MoreAugust 2, 2025$1.6M for Northern Light Health advanced by Collins in funding billNews",
+"href": "https://susancollins.com/news/1-6m-for-northern-light-health-advanced-by-collins-in-funding-bill/"
+},
+{
+"text": "Read MoreAugust 5, 2025Nearly $11 million in federal funding advances for Maine community collegesNews",
+"href": "https://susancollins.com/news/nearly-11-million-in-federal-funding-advances-for-maine-community-colleges/"
+},
+{
+"text": "Read MoreSeptember 6, 2025New bill would help grow healthcare workforce as Maine agesLetter to the Editor",
+"href": "https://susancollins.com/letter-to-the-editor/new-bill-would-help-grow-healthcare-workforce-as-maine-ages/"
+},
+{
+"text": "Read MoreSeptember 9, 2025Auburn opens new PAL CenterNews",
+"href": "https://susancollins.com/news/auburn-opens-new-pal-center/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms & conditions / privacy policy apply",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "←",
+"href": "https://susancollins.com/news/page/19/"
+},
+{
+"text": "→",
+"href": "https://susancollins.com/news/page/21/"
+}
 ]

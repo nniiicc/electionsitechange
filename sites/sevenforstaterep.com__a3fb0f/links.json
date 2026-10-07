@@ -1,11 +1,78 @@
 [
-"https://absenteeballotrequest.sos.maine.gov/",
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://maine.gov/portal/government/edemocracy/voter_lookup.php",
-"https://sevenforstaterep.com/",
-"https://sevenforstaterep.com/about",
-"https://sevenforstaterep.com/accessibility",
-"https://sevenforstaterep.com/issues",
-"https://sevenforstaterep.com/privacy",
-"https://sevenforstaterep.com/volunteer"
+{
+"text": "207-200-7341",
+"href": "tel:+12072007341"
+},
+{
+"text": "About",
+"href": "https://www.sevenforstaterep.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sevenforstaterep.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "https://www.sevenforstaterep.com/#contact"
+},
+{
+"text": "Find where to vote →",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Give $5 to Maine →",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Issues",
+"href": "https://www.sevenforstaterep.com/issues"
+},
+{
+"text": "Join the movement →",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Join us",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Privacy",
+"href": "https://www.sevenforstaterep.com/privacy"
+},
+{
+"text": "Request absentee ballot →",
+"href": "https://absenteeballotrequest.sos.maine.gov/"
+},
+{
+"text": "SEVEN siegel for state rep",
+"href": "https://www.sevenforstaterep.com/"
+},
+{
+"text": "See the full platform →",
+"href": "https://www.sevenforstaterep.com/issues"
+},
+{
+"text": "Sign me up →",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Want to get involved? Sign up to volunteer here!",
+"href": "https://www.sevenforstaterep.com/volunteer"
+},
+{
+"text": "Where Seven stands",
+"href": "https://www.sevenforstaterep.com/issues"
+},
+{
+"text": "https://absenteeballotrequest.sos.maine.gov/",
+"href": "https://absenteeballotrequest.sos.maine.gov/"
+},
+{
+"text": "sevenRsiegel@gmail.com",
+"href": "mailto:sevenRsiegel@gmail.com"
+}
 ]

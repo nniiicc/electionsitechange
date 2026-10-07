@@ -1,13 +1,4 @@
-On the Issues
-A local business leader, Shawn brings with him a background in real estate, infrastructural development, and health care.
+Meet Shawn Issues Volunteer Vote Donate On the Issues A local business leader, Shawn brings with him a background in real estate, infrastructural development, and health care.
 He is an active volunteer in his community and has experience working on the biggest issues that our residents face in Allen, Simpson, and Warren counties.
-Bring Back Our Strong Economy & Promote Business Growth
-Explore Better Health Care Options for Our Community
-Help Our Families Recover from the COVID-19 Impact
-Fight for Infrastructural Improvements for Our Communities
-Represent Our Conservative Values, Including Pro-Life Standards
-Protect our American Freedoms, Including the Right to Gun Ownership
-Endorsements
-The Kentucky Chamber
-The Kentucky Right to Life PAC
-Highest Candidate Rating from the NRA
+Bring Back Our Strong Economy & Promote Business Growth Explore Better Health Care Options for Our Community Help Our Families Recover from the COVID-19 Impact Fight for Infrastructural Improvements for Our Communities Represent Our Conservative Values, Including Pro-Life Standards Protect our American Freedoms, Including the Right to Gun Ownership Endorsements The Kentucky Chamber The Kentucky Right to Life PAC Highest Candidate Rating from the NRA Paid for by Shawn McPherson for State Representative Contributions are not tax deductible.
+Privacy • Contact

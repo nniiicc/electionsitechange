@@ -1,4 +1,4 @@
-Mornings are a bit cooler.
+Time to Make the Sausage Sep 19, 2025 — by Seth Miller in Legislative Update Mornings are a bit cooler.
 Sunset comes a bit earlier.
 School is back in session.
 No doubt, summer is over.
@@ -15,12 +15,12 @@ I (thought I) understood the issue.
 I got to looking at legislative options.
 And then I did the other, incredibly important part of this job.
 I spoke with a bunch of subject matter experts.
-- Community buy-in is important, so I spoke with the President of the NH Association of the Deaf.
-- The NH legislature has a Commission for the Deaf and Hard of Hearing.
-I spoke with Representative Pearson, who chairs that group.
-- Implementation would be handled by the Department of Motor Vehicles and the Department of Safety.
+Community buy-in is important, so I spoke with the President of the NH Association of the Deaf .
+The NH legislature has a Commission for the Deaf and Hard of Hearing.
+I spoke with Representative Pearson , who chairs that group.
+Implementation would be handled by the Department of Motor Vehicles and the Department of Safety.
 I spoke with the Director of the DMV and a representative from the Commissioner of the Department of Safety.
-- I spoke with a local police officer to better understand how they interact in these situations, what improvements they’d like to see.
+I spoke with a local police officer to better understand how they interact in these situations, what improvements they’d like to see.
 Needless to say, TV and movies show a very different version of this experience.
 I had a lot to learn, and not a lot of time to do so.
 Ultimately all those conversations led me to an unexpected conclusion.
@@ -45,14 +45,12 @@ And it is a shame that the programs came up short in implementation, to the poin
 Legislation cannot fix that, but being a legislator seems to at least have a chance of helping.
 And much more quickly than any new bill might deliver.
 But we’re making concrete progress in addressing the needs of the community.
-And I’ll take that (partial) win every time.
-*OLS is a non-partisan group that works for all legislators, handling bill drafting, amendments, and such.
+And I’ll take that (partial) win every time. *OLS is a non-partisan group that works for all legislators, handling bill drafting, amendments, and such.
 Because we’re such a large body and don’t have individual staff everything goes through OLS on the way to being debated.
-The team can handle a query as basic as “I want a bill to outlaw boneless chicken wings” to copying bills from other states and more.
-And the text they come up with properly meshes with our existing laws, which is key.
-** I don’t have the bill numbers yet.
+The team can handle a query as basic as “ I want a bill to outlaw boneless chicken wings ” to copying bills from other states and more.
+And the text they come up with properly meshes with our existing laws, which is key. ** I don’t have the bill numbers yet.
 One will create protections for designated EV or motorcycle parking places, co-sponsored by Rep.
-Giasson, another first-term legislator on the Transportation committee.
+Giasson , another first-term legislator on the Transportation committee.
 It is a redo of a bill that got killed in May because he and I didn’t have enough time to sort through the necessary changes before it got to the floor for a vote.
 The other, brought to me by Rep.
-Raymond, recognizes the need for improved digital literacy in our aging population and specifically a group of high school students delivering that today.
+Raymond , recognizes the need for improved digital literacy in our aging population and specifically a group of high school students delivering that today . ← Previous: Pas de Rois Next: Spinning my Wheels in Committee → Representing Dover/Strafford County District 21 Contact the campaign: Email me (you’ll need to assemble the parts): seth millerworks net Social Bluesky Instagram Paid for by Miller for NH, 129 Fourth Street, Dover, NH 03820, Fiscal Agent: Seth Miller

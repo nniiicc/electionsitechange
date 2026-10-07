@@ -1,7 +1,11 @@
 {
- "description": "Read more \u203a",
+ "description": "Read more ›",
  "final_url": "https://claudiaforcongress.com/press-releases/",
+ "fingerprint": "a07432ba5b2cf616a3797226ee5ce5313b5c02d3",
+ "format": 3,
  "paid_for_by": "Paid for by Claudia Tenney for Congress",
  "title": "Press Releases - Claudia for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

@@ -1,1 +1,5 @@
-Back to All Events Mounds View Doorknock - 9/27 Sunday, September 27, 2026 12:00 PM 3:00 PM Hodges Park 5214 Long Lake Rd Mounds View, Minnesota 55112 (map) Google Calendar ICS RSVP here.
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events Mounds View Doorknock - 9/27 Sunday, September 27, 2026 12:00 PM 3:00 PM Hodges Park 5214 Long Lake Rd Mounds View, Minnesota 55112 (map) Google Calendar ICS RSVP here.
+Previous Previous September 20 Shoreview Doorknock - 9/20 Next Next September 29 Mounds View Doorknock - 9/29 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

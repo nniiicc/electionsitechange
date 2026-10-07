@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.joelazumah.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "383e41b40a0c406eb2237e61c8a9863de9ad303d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

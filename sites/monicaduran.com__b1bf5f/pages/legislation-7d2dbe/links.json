@@ -1,93 +1,394 @@
 [
-"http://eepurl.com/gbrLVf",
-"http://leg.colorado.gov/bills/hb19-1038",
-"http://leg.colorado.gov/bills/hb19-1086",
-"http://leg.colorado.gov/bills/hb19-1288",
-"http://leg.colorado.gov/bills/hb20-1051",
-"http://leg.colorado.gov/bills/hb20-1056",
-"http://leg.colorado.gov/bills/hb20-1210",
-"http://leg.colorado.gov/bills/sb19-152",
-"http://leg.colorado.gov/bills/sb19-167",
-"http://leg.colorado.gov/bills/sb19-188",
-"http://leg.colorado.gov/bills/sb19-196",
-"http://leg.colorado.gov/bills/sb19-205",
-"http://leg.colorado.gov/bills/sb19-238",
-"http://leg.colorado.gov/bills/sb20-029",
-"http://leg.colorado.gov/bills/sb20-096",
-"https://facebook.com/Monica.Duran.Colorado.House",
-"https://flickr.com/photos/140354276@N04",
-"https://instagram.com/monicaduranhd23",
-"https://leg.colorado.gov/bills/HB26-1009",
-"https://leg.colorado.gov/bills/HB26-1011",
-"https://leg.colorado.gov/bills/HB26-1033",
-"https://leg.colorado.gov/bills/HB26-1068",
-"https://leg.colorado.gov/bills/HB26-1081",
-"https://leg.colorado.gov/bills/HB26-1133",
-"https://leg.colorado.gov/bills/HB26-1183",
-"https://leg.colorado.gov/bills/HB26-1274",
-"https://leg.colorado.gov/bills/HB26-1290",
-"https://leg.colorado.gov/bills/HB26-1302",
-"https://leg.colorado.gov/bills/HB26-1306",
-"https://leg.colorado.gov/bills/HB26-1311",
-"https://leg.colorado.gov/bills/HB26-1326",
-"https://leg.colorado.gov/bills/HB26-1332",
-"https://leg.colorado.gov/bills/HB26-1333",
-"https://leg.colorado.gov/bills/HB26-1339",
-"https://leg.colorado.gov/bills/SB26-015",
-"https://leg.colorado.gov/bills/SB26-085",
-"https://leg.colorado.gov/bills/SB26-160",
-"https://leg.colorado.gov/bills/hb24-1046",
-"https://leg.colorado.gov/bills/hb24-1122",
-"https://leg.colorado.gov/bills/hb24-1174",
-"https://leg.colorado.gov/bills/hb24-1225",
-"https://leg.colorado.gov/bills/hb24-1256",
-"https://leg.colorado.gov/bills/hb24-1319",
-"https://leg.colorado.gov/bills/hb24-1327",
-"https://leg.colorado.gov/bills/hb24-1349",
-"https://leg.colorado.gov/bills/hb24-1354",
-"https://leg.colorado.gov/bills/hb24-1437",
-"https://leg.colorado.gov/bills/hb24-1458",
-"https://leg.colorado.gov/bills/hb25-1001",
-"https://leg.colorado.gov/bills/hb25-1005",
-"https://leg.colorado.gov/bills/hb25-1057",
-"https://leg.colorado.gov/bills/hb25-1062",
-"https://leg.colorado.gov/bills/hb25-1110",
-"https://leg.colorado.gov/bills/hb25-1130",
-"https://leg.colorado.gov/bills/hb25-1133",
-"https://leg.colorado.gov/bills/hb25-1180",
-"https://leg.colorado.gov/bills/hb25-1204",
-"https://leg.colorado.gov/bills/hb25-1207",
-"https://leg.colorado.gov/bills/hb25-1250",
-"https://leg.colorado.gov/bills/hb25-1283",
-"https://leg.colorado.gov/bills/hb25-1284",
-"https://leg.colorado.gov/bills/hb25-1299",
-"https://leg.colorado.gov/bills/hb25-1319",
-"https://leg.colorado.gov/bills/hb25-1328",
-"https://leg.colorado.gov/bills/hb25-1333",
-"https://leg.colorado.gov/bills/sb20-170",
-"https://leg.colorado.gov/bills/sb20-208",
-"https://leg.colorado.gov/bills/sb24-003",
-"https://leg.colorado.gov/bills/sb24-010",
-"https://leg.colorado.gov/bills/sb24-011",
-"https://leg.colorado.gov/bills/sb24-193",
-"https://leg.colorado.gov/bills/sb24-218",
-"https://leg.colorado.gov/bills/sb25-116",
-"https://leg.colorado.gov/bills/sb25-188",
-"https://leg.colorado.gov/bills/sb25-194",
-"https://leg.colorado.gov/bills/sb25-279",
-"https://leg.colorado.gov/legislators/monica-duran",
-"https://monicaduran.com/",
-"https://monicaduran.com/blog",
-"https://monicaduran.com/contact-me",
-"https://monicaduran.com/copy-of-gallery",
-"https://monicaduran.com/covid-19-resources",
-"https://monicaduran.com/endorsements",
-"https://monicaduran.com/issues",
-"https://monicaduran.com/legislation",
-"https://monicaduran.com/meet-monica",
-"https://monicaduran.com/my-committees",
-"https://monicaduran.com/volunteer",
-"https://secure.actblue.com/donate/monica-duran-1",
-"https://secure.actblue.com/donate/monica-pac-1",
-"https://youtube.com/channel/UCZ-IL-0Nc9ZO1oUdDI6_gnw"
+{
+"text": "About",
+"href": "https://www.monicaduran.com/meet-monica"
+},
+{
+"text": "American Indian Affairs Interim Committee",
+"href": "https://leg.colorado.gov/bills/hb25-1057"
+},
+{
+"text": "Animal Protection Fund Voluntary Contribution",
+"href": "https://leg.colorado.gov/bills/hb25-1299"
+},
+{
+"text": "Change Cesar Chavez Day to Farm Workers Day",
+"href": "https://leg.colorado.gov/bills/HB26-1339"
+},
+{
+"text": "Colorado Bureau of Investigation Firearms InstaCheck Unit Operating Hour",
+"href": "https://leg.colorado.gov/bills/HB26-1302"
+},
+{
+"text": "Colorado Code of Military Justice Updates",
+"href": "https://leg.colorado.gov/bills/sb25-279"
+},
+{
+"text": "Colorado Indian Child Welfare Act",
+"href": "https://leg.colorado.gov/bills/hb25-1204"
+},
+{
+"text": "Colorado Mandatory Lethality Assessment Act",
+"href": "https://leg.colorado.gov/bills/HB26-1009"
+},
+{
+"text": "Colorado Quality Apprenticeship Training Act Of 2019",
+"href": "http://leg.colorado.gov/bills/sb19-196"
+},
+{
+"text": "Commercial Sexual Activity with a Child Offenses",
+"href": "https://leg.colorado.gov/bills/SB26-015"
+},
+{
+"text": "Contact Me",
+"href": "https://www.monicaduran.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/monica-duran-1"
+},
+{
+"text": "Cost Of Living Adjustment For Colorado Works Program",
+"href": "http://leg.colorado.gov/bills/sb20-029"
+},
+{
+"text": "County Commissioner Vacancies",
+"href": "https://leg.colorado.gov/bills/hb25-1319"
+},
+{
+"text": "Criminal Offense of Assault",
+"href": "https://leg.colorado.gov/bills/HB26-1290"
+},
+{
+"text": "Dental Services For Pregnant Women On Children's Basic Health Plan Plus",
+"href": "http://leg.colorado.gov/bills/hb19-1038"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaduran.com/endorsements"
+},
+{
+"text": "Enforcement Wage Hour Laws",
+"href": "https://leg.colorado.gov/bills/hb25-1001"
+},
+{
+"text": "Expanding the Colorado Cottage Foods Act",
+"href": "https://leg.colorado.gov/bills/HB26-1033"
+},
+{
+"text": "Extending Expiring Tax Check-offs",
+"href": "https://leg.colorado.gov/bills/sb20-208"
+},
+{
+"text": "FAMLI Family Medical Leave Insurance Program",
+"href": "http://leg.colorado.gov/bills/sb19-188"
+},
+{
+"text": "Fiscal Year 2025-26 Legislative Appropriation Bill",
+"href": "https://leg.colorado.gov/bills/sb25-188"
+},
+{
+"text": "Fiscal Year 2026-27 Legislative Appropriation Bill",
+"href": "https://leg.colorado.gov/bills/HB26-1333"
+},
+{
+"text": "Foster Youth Sibling Bill Of Rights",
+"href": "http://leg.colorado.gov/bills/hb19-1288"
+},
+{
+"text": "Gallery",
+"href": "https://www.monicaduran.com/copy-of-gallery"
+},
+{
+"text": "Gun Violence Prevention & Parents of Students",
+"href": "https://leg.colorado.gov/bills/hb25-1250"
+},
+{
+"text": "HB24-1046 C",
+"href": "https://leg.colorado.gov/bills/hb24-1046"
+},
+{
+"text": "HB24-1122",
+"href": "https://leg.colorado.gov/bills/hb24-1122"
+},
+{
+"text": "HB24-1174",
+"href": "https://leg.colorado.gov/bills/hb24-1174"
+},
+{
+"text": "HB24-1225",
+"href": "https://leg.colorado.gov/bills/hb24-1225"
+},
+{
+"text": "HB24-1256",
+"href": "https://leg.colorado.gov/bills/hb24-1256"
+},
+{
+"text": "HB24-1319",
+"href": "https://leg.colorado.gov/bills/hb24-1319"
+},
+{
+"text": "HB24-1327",
+"href": "https://leg.colorado.gov/bills/hb24-1327"
+},
+{
+"text": "HB24-1349",
+"href": "https://leg.colorado.gov/bills/hb24-1349"
+},
+{
+"text": "HB24-1354",
+"href": "https://leg.colorado.gov/bills/hb24-1354"
+},
+{
+"text": "HB24-1437",
+"href": "https://leg.colorado.gov/bills/hb24-1437"
+},
+{
+"text": "HB24-1458",
+"href": "https://leg.colorado.gov/bills/hb24-1458"
+},
+{
+"text": "HB25-1204",
+"href": "https://leg.colorado.gov/bills/hb25-1204"
+},
+{
+"text": "Honor Colorado Professional Fire Fighters",
+"href": "http://leg.colorado.gov/bills/sb19-167"
+},
+{
+"text": "Honor Service Of Women Veterans",
+"href": "http://leg.colorado.gov/bills/sb19-205"
+},
+{
+"text": "Identification Of Veteran Remains For Proper Military Burial",
+"href": "http://leg.colorado.gov/bills/hb20-1051"
+},
+{
+"text": "If a peace officer finds that a party involved in domestic violence is a member of the military, they are required to determine if military protection orders have been placed on either party, and notify military law enforcement.",
+"href": "https://leg.colorado.gov/bills/HB26-1009"
+},
+{
+"text": "Implement Recommendations Direct Care Worker Stabilization Board",
+"href": "https://leg.colorado.gov/bills/hb25-1328"
+},
+{
+"text": "Improve Wages And Accountability Home Care Workers",
+"href": "http://leg.colorado.gov/bills/sb19-238"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaduran.com/issues"
+},
+{
+"text": "Labor Requirements for Government Construction Projects",
+"href": "https://leg.colorado.gov/bills/hb25-1130"
+},
+{
+"text": "Leadership and Committees",
+"href": "https://www.monicaduran.com/my-committees"
+},
+{
+"text": "Legislation",
+"href": "https://www.monicaduran.com/legislation"
+},
+{
+"text": "Legislative Department Cash Fund",
+"href": "https://leg.colorado.gov/bills/HB26-1332"
+},
+{
+"text": "Legislative Human Resources Division",
+"href": "https://leg.colorado.gov/bills/hb25-1333"
+},
+{
+"text": "Military Protection Orders",
+"href": "https://leg.colorado.gov/bills/SB26-085"
+},
+{
+"text": "Monica PAC",
+"href": "https://secure.actblue.com/donate/monica-pac-1"
+},
+{
+"text": "Nonsubstantive Reorganization Dental Practice Act",
+"href": "http://leg.colorado.gov/bills/hb20-1056"
+},
+{
+"text": "Official State Page",
+"href": "https://leg.colorado.gov/legislators/monica-duran"
+},
+{
+"text": "Optimize Colorado Electric Transmission System",
+"href": "https://leg.colorado.gov/bills/HB26-1081"
+},
+{
+"text": "Penalty for Theft of Firearms",
+"href": "https://leg.colorado.gov/bills/hb25-1062"
+},
+{
+"text": "Personal Protective Equipment & Meatpackers",
+"href": "https://leg.colorado.gov/bills/SB26-160"
+},
+{
+"text": "Pet Ownership Residential Housing Structures",
+"href": "https://leg.colorado.gov/bills/hb25-1207"
+},
+{
+"text": "Plumbing Inspections Ensure Compliance",
+"href": "http://leg.colorado.gov/bills/hb19-1086"
+},
+{
+"text": "Prohibiting Pet Animal Sales in Public Spaces",
+"href": "https://leg.colorado.gov/bills/hb25-1180"
+},
+{
+"text": "Railroad Crossing Maintenance Costs",
+"href": "https://leg.colorado.gov/bills/hb25-1110"
+},
+{
+"text": "Regulating Apprentices in Licensed Trades",
+"href": "https://leg.colorado.gov/bills/hb25-1284"
+},
+{
+"text": "Remote Notaries Protect Privacy",
+"href": "http://leg.colorado.gov/bills/sb20-096"
+},
+{
+"text": "Remote Participation Policies for Joint Committees",
+"href": "https://leg.colorado.gov/bills/HB26-1068"
+},
+{
+"text": "Requirements for Sale of Firearms Ammunition",
+"href": "https://leg.colorado.gov/bills/hb25-1133"
+},
+{
+"text": "Resources",
+"href": "https://www.monicaduran.com/covid-19-resources"
+},
+{
+"text": "Retainage Surety Bond Construction Contracts",
+"href": "https://leg.colorado.gov/bills/HB26-1311"
+},
+{
+"text": "SB24-003",
+"href": "https://leg.colorado.gov/bills/sb24-003"
+},
+{
+"text": "SB24-010",
+"href": "https://leg.colorado.gov/bills/sb24-010"
+},
+{
+"text": "SB24-011",
+"href": "https://leg.colorado.gov/bills/sb24-011"
+},
+{
+"text": "SB24-193",
+"href": "https://leg.colorado.gov/bills/sb24-193"
+},
+{
+"text": "SB24-218",
+"href": "https://leg.colorado.gov/bills/sb24-218"
+},
+{
+"text": "Spousal Maintenance Guidelines",
+"href": "https://leg.colorado.gov/bills/sb25-116"
+},
+{
+"text": "State Agency Payments to Grant Recipients",
+"href": "https://leg.colorado.gov/bills/HB26-1274"
+},
+{
+"text": "Subscribe",
+"href": "http://eepurl.com/gbrLVf"
+},
+{
+"text": "Sunset Dental Practice Act",
+"href": "https://leg.colorado.gov/bills/sb25-194"
+},
+{
+"text": "Sunset Pet Animal Care & Facilities Act",
+"href": "https://leg.colorado.gov/bills/HB26-1183"
+},
+{
+"text": "Sunset Public Safety Communications Subcommittee",
+"href": "http://leg.colorado.gov/bills/sb19-152"
+},
+{
+"text": "Sunset Public Utilities Commission",
+"href": "https://leg.colorado.gov/bills/HB26-1326"
+},
+{
+"text": "Sunset State Board Of Chiropractic Examiners",
+"href": "http://leg.colorado.gov/bills/hb20-1210"
+},
+{
+"text": "Tax Incentive for Film Festivals",
+"href": "https://leg.colorado.gov/bills/hb25-1005"
+},
+{
+"text": "Transfers of Certain Pet Animals",
+"href": "https://leg.colorado.gov/bills/HB26-1011"
+},
+{
+"text": "Traveling Animal Protection Act Environmental Education Program",
+"href": "https://leg.colorado.gov/bills/HB26-1133"
+},
+{
+"text": "Update Colorado Employment Security Act",
+"href": "https://leg.colorado.gov/bills/sb20-170"
+},
+{
+"text": "Updates",
+"href": "https://www.monicaduran.com/blog"
+},
+{
+"text": "Volunteer",
+"href": "https://www.monicaduran.com/volunteer"
+},
+{
+"text": "Wild Horse License Plate",
+"href": "https://leg.colorado.gov/bills/HB26-1306"
+},
+{
+"text": "Wild Horse Project Management & Immunocontraception",
+"href": "https://leg.colorado.gov/bills/hb25-1283"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/Monica.Duran.Colorado.House/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Monica.Duran.Colorado.House/"
+},
+{
+"text": "[image: IMG_3973.png]",
+"href": "https://www.monicaduran.com"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "https://www.instagram.com/monicaduranhd23/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/monicaduranhd23/"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/channel/UCZ-IL-0Nc9ZO1oUdDI6_gnw"
+},
+{
+"text": "[image]",
+"href": "https://www.flickr.com/photos/140354276@N04/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCZ-IL-0Nc9ZO1oUdDI6_gnw"
+},
+{
+"text": "[no text]",
+"href": "https://leg.colorado.gov/bills/hb24-1174"
+},
+{
+"text": "[no text]",
+"href": "https://leg.colorado.gov/bills/sb24-011"
+}
 ]

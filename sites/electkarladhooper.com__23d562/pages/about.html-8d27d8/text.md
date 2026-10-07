@@ -1,6 +1,4 @@
-Meet the Candidate:
-Karla Daniels Hooper
-Seven years ago, on Martin Luther King Jr.
+Top Home Meet Karla Issues Voting Info Contact Donate Meet the Candidate: Karla Daniels Hooper Seven years ago, on Martin Luther King Jr.
 Day, my father, Carl Ellis Daniels, passed away.
 Many knew him as a neighborhood barber.
 Others knew him as a participant in the Civil Rights Movement.
@@ -29,6 +27,6 @@ Representation does not stop in Atlanta; it begins and ends in the community.
 In the spirit of my father’s legacy, and guided by the values he passed down to me, I am proud to announce my candidacy for the Georgia House of Representatives in District 113.
 I am excited about the potential of Newton County.
 Our district deserves better and we are on our way to have better.
-Thank you for your support,
-Karla Daniels Hooper
-For State Representative District 113
+Thank you for your support, Karla Daniels Hooper For State Representative District 113 On November 3, 2026 vote for Karla Daniels Hooper for Georgia State Representative, District 113 COUNTING DOWN TO Elect Karla!
+Support the Campaign Privacy Terms Political advertisement paid for and approved by Campaign to Elect Karla Daniels Hooper..
+Powered by OnlineCandidate.com

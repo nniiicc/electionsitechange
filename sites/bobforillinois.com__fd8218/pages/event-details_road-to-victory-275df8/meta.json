@@ -1,7 +1,11 @@
 {
  "description": "Join Bob Fioretti and Team Fioretti for the final scheduled campaign event before Election Day. The evening will include food, drinks, conversation, and a live art presentation featuring an Abraham Lincoln portrait created during the event by a local artist to be raffled!",
  "final_url": "https://www.bobforillinois.com/event-details/road-to-victory",
+ "fingerprint": "e98ff14129604f70c811f33732c3858df8ea8e93",
+ "format": 3,
  "paid_for_by": "Paid for by Bob for Illinois",
  "title": "Road to Victory! | Bob For Illinois",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

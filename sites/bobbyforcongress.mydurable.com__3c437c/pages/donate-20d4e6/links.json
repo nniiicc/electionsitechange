@@ -1,6 +1,18 @@
 [
-"https://bobbyforcongress.mydurable.com/",
-"https://bobbyforcongress.mydurable.com/donate",
-"https://buy.stripe.com/4gw00q03bdaR7BufYY",
-"https://buy.stripe.com/8wMeVk17f8UB2ha145"
+{
+"text": "Bobby For Congress",
+"href": "https://bobbyforcongress.mydurable.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://bobbyforcongress.mydurable.com/donate"
+},
+{
+"text": "Donate Now - $100",
+"href": "https://buy.stripe.com/8wMeVk17f8UB2ha145"
+},
+{
+"text": "Donate Now -$2,900 Max Amt",
+"href": "https://buy.stripe.com/4gw00q03bdaR7BufYY"
+}
 ]

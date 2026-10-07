@@ -1,8 +1,12 @@
-In 2007, when the total national debt was just under $9 trillion, the GAO said its long-term simulations continued to show “ever larger deficits resulting in a federal debt burden that ultimately spirals out of control.” In 2010, when total federal debt was approximately $14 trillion, then Joint Chiefs of Staff Chairman Adm.
+Skip to content Donate Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Allen Buckley for U.S.
+Senate Let's buck the system!
+Donate Donate About Me Ballot Access Home Media Inquires Participate Press Releases Why Vote For Me All Solutions and Positions Environmental Protection Fix the Finances Immigration Reform Proposal Reduce Healthcare Costs Rein in the Executive Branch Why the National Debt is Our Nation’s Greatest Problem By Allen Buckley for U.S.
+Senate / February 7, 2026 In 2007, when the total national debt was just under $9 trillion, the GAO said its long-term simulations continued to show “ever larger deficits resulting in a federal debt burden that ultimately spirals out of control.” In 2010, when total federal debt was approximately $14 trillion, then Joint Chiefs of Staff Chairman Adm.
 Michael Mullen said: “the most significant threat to our national security is our debt.” Total debt is $39 trillion in early 2026.
 Interest expense exceeds military spending, and in February 2026 the Congressional Budget Office (CBO) forecast the ratio of interest to military spending will be approximately 2 to 1 in 2036.
 It also projected net interest expense will roughly equal ALL DISCRETIONARY SPENDING COMBINED in 2036.
-Presently, the U.S. brings in roughly $5 trillion in annual revenue and spends approximately $7 trillion, so we add roughly $2 trillion to the debt annually.
+The Budget and Economic Outlook: 2026 to 2036 In Chart Form Presently, the U.S. brings in roughly $5 trillion in annual revenue and spends approximately $7 trillion, so we add roughly $2 trillion to the debt annually.
 The $2 trillion is expected to gradually grow to $3 trillion by 2036.
 Stock and bond markets (and thus 401(k) plans and IRAs that hold stocks and bonds) are completely dependent on a financially stable U.S. government.
 Historically, nations facing such problems have printed money to try to deal with them.
@@ -25,7 +29,7 @@ In 2025, area expert Ray Dalio gave America 3 years, give or take a year, to ave
 A major bad event could be the spark that creates the heart attack.
 In 2020, U.S. pandemic expert Peter Daszak said: “I’m not holding in my bunker right now.
 We’re going to get hit by a much bigger one sometime in the next 10 years.” A major bad event would very likely cause an interest rate spike, triggering a recession and markets downturn, in turn causing expensive federal borrowing and a downward spiral.
-At some point, a January 6th type group will likely arise, refusing to pay taxes when a huge percent is being flushed down the interest rate toilet.
+At some point, a January 6 th type group will likely arise, refusing to pay taxes when a huge percent is being flushed down the interest rate toilet.
 A market-debilitating reorganization of a bankruptcy type can be expected, reducing debt and/or interest rates.
 Unless done drastically (and a drastic reduction would throttle markets), it won’t solve the problems.
 Only very significant changes to the federal government will place the country on solid financial ground.
@@ -39,12 +43,14 @@ No interest.
 I wrote to Roy Barnes regarding the matter twice.
 No response.
 The attached January 22, 2026 article from the Committee for a Responsible Federal Budget (CRFB) explains what a fiscal crisis would look like.
-On page 5, regarding what would spark a fiscal crisis, not noted is the potential second (much worse) pandemic that Peter Daszak, U.S. pandemics expert, predicted in 2020.
+What Would a Fiscal Crisis Look Like CRFB Jan 22 2026 Download On page 5, regarding what would spark a fiscal crisis, not noted is the potential second (much worse) pandemic that Peter Daszak, U.S. pandemics expert, predicted in 2020.
 Think back 100 years, and you’ll note something bad happens roughly once a decade.
 (Think 9/11, the Great Recession of 2008, and COVID in 2020.) Particularly pertinent is the material on pages 8-9 regarding default or a debt spiral situation.
 Imagine markets losing significant value, followed by spending contraction (largely by seniors with 401(k)s and IRAs), followed by a recession with no ability to borrow cheaply (unlike in the past).
 Finally, on page 12, excess borrowing is noted as having caused inflation post-COVID.
 (Inflation hit in 2022.) Not noted is the Fed was quantitative easing (basically, printing money) at the rate the Treasury was borrowing (in huge amounts) in the Summer of 2020.
 The CRFB recently released the below “break the glass” document, in anticipation of the economic heart attack Ray Dalio anticipates in 2027, 2028 or 2029.
-THE MAIN REASON I’M RUNNING FOR U.S.
+Break The Glass Document THE MAIN REASON I’M RUNNING FOR U.S.
 SENATE IS TO PREVENT THE ECONOMIC HEART ATTACK RAY DALIO HAS FORECASTED IN 2028.
+Next Tax Proposal in One Paragraph Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Authorized by Buckley 2026 LLC Scroll to Top

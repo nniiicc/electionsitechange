@@ -1,47 +1,19 @@
-Supporting Farmers Through Partnerships and New Opportunities
-Updated: Aug 18
-South Dakota agriculture has always been the backbone of our economy, but we cannot rely on
-doing things the same way we did in the past and expect different results.
-We need to diversify
-the crops and products we produce while expanding new markets for South Dakota farmers and
-ranchers.
-That means investing in homegrown entrepreneurs who want to create value-added
-opportunities here instead of watching those jobs leave the state.
-A perfect example is the
-Wakonda farmer who wanted to build a hempcrete manufacturing plant in South Dakota, but
-ultimately invested in Iowa because our state offered no meaningful partnership or economic
-support.
-We should be helping innovators turn South Dakota-grown products into South Dakota-
-made products.
-We also have an opportunity to strengthen connections between local farmers,
-ranchers, producers, and local restaurants by helping create partnerships that give producers
-confidence there will be buyers for their products and give restaurant owners confidence they
-will have a reliable local supply.
-As governor, I will work with producers, local communities,
-and Tribal governments to identify new opportunities to expand markets, support value-added
-agriculture, and strengthen our rural economy.
-State government can be a catalyst in building
-these relationships and supporting new markets that benefit producers, consumers, and
-communities across South Dakota.
-These kinds of investments do more than create new businesses, they create new opportunities
-for the next generation of farmers.
-Diversified agriculture and value-added production provide
-additional income streams that make it easier for young people to enter farming and help families
-successfully transition operations from one generation to the next.
-We must also invest in the
-future of agriculture by strengthening and expa
-nding the dairy program at South Dakota State
-University.
-Dairy is a vital and growing part of South Dakota's agricultural economy, and our
-state's land-grant university should have a program that reflects its importance.
-I will also
-support expanding South Dakota State University Extension so producers have greater access to
-research, technical assistance, and educational programs that help them adopt new technologies, improve efficiency, develop value-added products, and remain competitive in a changing agricultural economy.
+top of page Meet Dan Issues Why I'm Running Blog Events Contact Request a Yard Sign More Use tab to navigate through the menu items.
+DONATE VOLUNTEER All Articles Search Supporting Farmers Through Partnerships and New Opportunities Daniel Ahlers Jun 30 2 min read Updated: Aug 18 South Dakota agriculture has always been the backbone of our economy, but we cannot rely on doing things the same way we did in the past and expect different results.
+We need to diversify the crops and products we produce while expanding new markets for South Dakota farmers and ranchers.
+That means investing in homegrown entrepreneurs who want to create value-added opportunities here instead of watching those jobs leave the state.
+A perfect example is the Wakonda farmer who wanted to build a hempcrete manufacturing plant in South Dakota, but ultimately invested in Iowa because our state offered no meaningful partnership or economic support.
+We should be helping innovators turn South Dakota-grown products into South Dakota- made products.
+We also have an opportunity to strengthen connections between local farmers, ranchers, producers, and local restaurants by helping create partnerships that give producers confidence there will be buyers for their products and give restaurant owners confidence they will have a reliable local supply.
+As governor, I will work with producers, local communities, and Tribal governments to identify new opportunities to expand markets, support value-added agriculture, and strengthen our rural economy.
+State government can be a catalyst in building these relationships and supporting new markets that benefit producers, consumers, and communities across South Dakota.
+These kinds of investments do more than create new businesses, they create new opportunities for the next generation of farmers.
+Diversified agriculture and value-added production provide additional income streams that make it easier for young people to enter farming and help families successfully transition operations from one generation to the next.
+We must also invest in the future of agriculture by strengthening and expa nding the dairy program at South Dakota State University.
+Dairy is a vital and growing part of South Dakota's agricultural economy, and our state's land-grant university should have a program that reflects its importance.
+I will also support expanding South Dakota State University Extension so producers have greater access to research, technical assistance, and educational programs that help them adopt new technologies, improve efficiency, develop value-added products, and remain competitive in a changing agricultural economy.
 As governor, I will also be a strong advocate with our federal partners to improve the agricultural worker visa program.
 Many South Dakota producers depend on seasonal and skilled agricultural workers, but the current system is too rigid and often fails to match the realities of our growing seasons.
-We need a visa program that is more flexible, allows
-workers to remain when producers need them most, and provides farmers with the certainty they
-need to plan and grow their operations.
-By embracing innovation, supporting new markets,
-investing in agricultural education and Extension, and advocating for practical workforce
-solutions, we can ensure South Dakota agriculture remains strong for generations to come.
+We need a visa program that is more flexible, allows workers to remain when producers need them most, and provides farmers with the certainty they need to plan and grow their operations.
+By embracing innovation, supporting new markets, investing in agricultural education and Extension, and advocating for practical workforce solutions, we can ensure South Dakota agriculture remains strong for generations to come.
+Recent Posts See All How to Restore Trust in Government South Dakota Deserves Straight Talk About the Budget Big, Beautiful Disaster for South Dakota SUBSCRIBE TO MY NEWSLETTER STAY UP TO DATE ON THE CAMPAIGN First name * Last name * Enter your email here * Yes, subscribe me to your newsletter. * SUBSCRIBE Home About Me News Events Get Involved Contact Terms & Conditions Privacy Policy Paid for by Ahlers for Governor Powered and secured by Wix Donate PO Box 109 Sioux Falls, SD 57101 dan@danahlers.com 605-940-3071 bottom of page

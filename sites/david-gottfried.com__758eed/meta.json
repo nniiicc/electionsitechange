@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.david-gottfried.com/",
- "paid_for_by": "paid for by Neighbors for David Gottfried | 2000 County Rd B2 W #130811, Roseville, MN 55113 | \u202a(612) 314-3484\u202c",
+ "fingerprint": "52ecb349aa310af627966a41c7ae528aa1b07567",
+ "format": 3,
+ "paid_for_by": "paid for by Neighbors for David Gottfried",
  "title": "David Gottfried for MN40B",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000"
+ ]
 }

@@ -1,4 +1,2 @@
-Contact Us
-Feel free to reach out to the campaign with any questions, suggestions, or concerns at either the email address below or you can use the form.
-Thank you.
-campaign@mikefor45.com
+0 Skip to Content Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now Open Menu Close Menu Home Platform Blog Contact Donate Now Contact Us Feel free to reach out to the campaign with any questions, suggestions, or concerns at either the email address below or you can use the form.
+Thank you. campaign@mikefor45.com © Mike For 45 Campaign, 2026 campaign@mikefor45.com

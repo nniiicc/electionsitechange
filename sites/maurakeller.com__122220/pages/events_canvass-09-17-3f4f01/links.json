@@ -1,38 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260917T210000Z%2F20260918T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://maps.google.com/?q=185+Kathi+Avenue+Fayetteville%2C+Georgia%2C+30214+United+States",
-"https://bsky.app/profile/maurakellerforga.bsky.social",
-"https://facebook.com/MauraKellerforGeorgia",
-"https://instagram.com/maurakellerforgeorgia",
-"https://linkedin.com/in/maura-keller-68581424",
-"https://maurakeller.com/",
-"https://maurakeller.com/about",
-"https://maurakeller.com/cart",
-"https://maurakeller.com/contact",
-"https://maurakeller.com/early-voting",
-"https://maurakeller.com/endorsements",
-"https://maurakeller.com/events",
-"https://maurakeller.com/events/canvass-09-16",
-"https://maurakeller.com/events/canvass-09-17?format=ical",
-"https://maurakeller.com/events/canvass-09-18",
-"https://maurakeller.com/events?category=Fayette",
-"https://maurakeller.com/events?category=Political+Action",
-"https://maurakeller.com/events?category=Volunteer",
-"https://maurakeller.com/events?tag=Canvassing",
-"https://maurakeller.com/events?tag=Volunteer",
-"https://maurakeller.com/issues",
-"https://maurakeller.com/join",
-"https://maurakeller.com/meet",
-"https://maurakeller.com/news",
-"https://maurakeller.com/privacy-policy",
-"https://maurakeller.com/take-action",
-"https://maurakeller.com/volunteer",
-"https://maurakeller.com/yardsigns",
-"https://mobilize.us/democraticpartyofgeorgia26/event/1013617",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/r/maurakeller",
-"https://secure.actblue.com/donate/mkellerwebsite",
-"https://tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1",
-"https://x.com/MauraKellerGA",
-"https://youtube.com/@GetMoreWithMaura"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
+},
+{
+"text": "0",
+"href": "https://maurakeller.com/cart"
+},
+{
+"text": "Back",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://maurakeller.com/events"
+},
+{
+"text": "Canvassing",
+"href": "https://maurakeller.com/events?tag=Canvassing"
+},
+{
+"text": "Click here to Sign Up!",
+"href": "https://www.mobilize.us/democraticpartyofgeorgia26/event/1013617/"
+},
+{
+"text": "Contact",
+"href": "https://maurakeller.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mkellerwebsite"
+},
+{
+"text": "Early Voting",
+"href": "https://maurakeller.com/early-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://maurakeller.com/events"
+},
+{
+"text": "Fayette",
+"href": "https://maurakeller.com/events?category=Fayette"
+},
+{
+"text": "Folder: About",
+"href": "https://maurakeller.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://maurakeller.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260917T210000Z%2F20260918T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-17?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://maurakeller.com/issues"
+},
+{
+"text": "Join",
+"href": "https://maurakeller.com/join"
+},
+{
+"text": "Meet Maura",
+"href": "https://maurakeller.com/meet"
+},
+{
+"text": "News",
+"href": "https://maurakeller.com/news"
+},
+{
+"text": "Next Next September 18 Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-18"
+},
+{
+"text": "Political Action",
+"href": "https://maurakeller.com/events?category=Political+Action"
+},
+{
+"text": "Previous Previous September 16 Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-16"
+},
+{
+"text": "Privacy Policy/Terms of Service",
+"href": "https://maurakeller.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://maurakeller.com/yardsigns"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/events?category=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/events?tag=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/volunteer"
+},
+{
+"text": "[image: Maura Keller]",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maurakellerforga.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MauraKellerforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maurakellerforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/maura-keller-68581424/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/r/maurakeller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GetMoreWithMaura"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MauraKellerGA"
+},
+{
+"text": "maura@maurakeller.com",
+"href": "mailto:maura@maurakeller.com"
+}
 ]

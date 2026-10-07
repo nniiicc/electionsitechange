@@ -1,22 +1,90 @@
 [
-"https://beccabalint.com/",
-"https://beccabalint.com/endorsements",
-"https://beccabalint.com/get-involved",
-"https://beccabalint.com/issues",
-"https://beccabalint.com/meet-becca",
-"https://beccabalint.com/privacy-policy",
-"https://beccabalint.com/vote",
-"https://facebook.com/beccabalintvt",
-"https://instagram.com/beccabalintvt",
-"https://mvp.vermont.gov/",
-"https://olvr.vermont.gov/",
-"https://secure.actblue.com/donate/scrappylittlevt",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=10",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=100",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=25",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=250",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=50",
-"https://secure.actblue.com/donate/scrappylittlevt?amount=other",
-"https://sos.vermont.gov/elections/voters/early-absentee-voting",
-"https://twitter.com/beccabalintvt"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=50"
+},
+{
+"text": "Check your registration status here",
+"href": "https://mvp.vermont.gov/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scrappylittlevt"
+},
+{
+"text": "Endorsements",
+"href": "https://beccabalint.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://beccabalint.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://beccabalint.com/issues/"
+},
+{
+"text": "Learn how to absentee vote here",
+"href": "https://sos.vermont.gov/elections/voters/early-absentee-voting/"
+},
+{
+"text": "Meet Becca",
+"href": "https://beccabalint.com/meet-becca/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/scrappylittlevt?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://beccabalint.com/privacy-policy/"
+},
+{
+"text": "Track your ballot here",
+"href": "https://mvp.vermont.gov/"
+},
+{
+"text": "Vote",
+"href": "https://beccabalint.com/vote/"
+},
+{
+"text": "Voter Guide",
+"href": "https://beccabalint.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://beccabalint.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/beccabalintvt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/beccabalintvt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beccabalintvt/"
+},
+{
+"text": "register online here",
+"href": "https://olvr.vermont.gov/"
+}
 ]

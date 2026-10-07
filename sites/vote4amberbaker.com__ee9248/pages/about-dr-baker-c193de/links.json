@@ -1,9 +1,38 @@
 [
-"https://facebook.com/amberm.baker",
-"https://instagram.com/Vote4Amberbaker",
-"https://secure.actblue.com/donate/vote4amberbaker-campaign-1",
-"https://twitter.com/Amber_M_Baker",
-"https://vote4amberbaker.com/",
-"https://vote4amberbaker.com/about-dr-baker",
-"https://vote4amberbaker.com/volunteer"
+{
+"text": "About Dr. Baker",
+"href": "https://vote4amberbaker.com/about-dr-baker/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vote4amberbaker-campaign-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vote4amberbaker-campaign-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/amberm.baker"
+},
+{
+"text": "Home",
+"href": "https://vote4amberbaker.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/Vote4Amberbaker/"
+},
+{
+"text": "Volunteer",
+"href": "https://vote4amberbaker.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Amber_M_Baker"
+},
+{
+"text": "[image: Amber Baker for State Representative - District 72]",
+"href": "https://vote4amberbaker.com/"
+}
 ]

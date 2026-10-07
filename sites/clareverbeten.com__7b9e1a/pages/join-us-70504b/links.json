@@ -1,15 +1,54 @@
 [
-"http://facebook.com/ClareOumou",
-"https://bsky.app/profile/clareoumou.bsky.social",
-"https://clareverbeten.com/",
-"https://clareverbeten.com/about-sd-66",
-"https://clareverbeten.com/cart",
-"https://clareverbeten.com/endorsements",
-"https://clareverbeten.com/join-us",
-"https://clareverbeten.com/victories",
-"https://clareverbeten.com/vision",
-"https://forms.gle/DNATLEn3t7wwTxWc6",
-"https://instagram.com/clareoumou",
-"https://secure.actblue.com/donate/covweb",
-"https://threads.com/@clareoumou"
+{
+"text": "0",
+"href": "https://www.clareverbeten.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clareverbeten.com/about-sd-66"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/covweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clareverbeten.com/endorsements"
+},
+{
+"text": "Join Us",
+"href": "https://www.clareverbeten.com/join-us"
+},
+{
+"text": "Request a lawn sign",
+"href": "https://forms.gle/DNATLEn3t7wwTxWc6"
+},
+{
+"text": "Victories",
+"href": "https://www.clareverbeten.com/victories"
+},
+{
+"text": "Vision",
+"href": "https://www.clareverbeten.com/vision"
+},
+{
+"text": "[image: Clare Oumou Verbeten]",
+"href": "https://www.clareverbeten.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/ClareOumou/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/clareoumou.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/clareoumou"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@clareoumou"
+}
 ]

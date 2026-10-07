@@ -1,4 +1,6 @@
-I farm and ranch so I know agriculture and the agricultural economy, the importance of property tax reform, and reimplementing Mandatory of Country Labeling laws (M-COOL) for beef.
+Help me get my name out to Voters!
+Consider donating today!
+Menu Home Taxpayers Businesses Agriculture News About Curt More About Curt Contact Curt District 33 Map Agriculture I farm and ranch so I know agriculture and the agricultural economy, the importance of property tax reform, and reimplementing Mandatory of Country Labeling laws (M-COOL) for beef.
 We need to ensure that property taxes on Ag land are reasonable and in line with the use of the land to ensure that our South Dakota farms and ranches stay profitable so they can stay in business to continue to produce the food for our tables.
 I am a big believer in the importance of reimplementing Mandatory Country of Origin Labeling (MCOOL) Laws for beef.
 American consumers have the right to know what country the beef they are buying is from.
@@ -10,3 +12,4 @@ There is no one else running for a House of Representatives seat in District 33 
 If you are in agriculture, have friends, or have family in agriculture, I respectfully ask for your support.
 This is why I am asking farmers/ranchers, business owners, friends, and neighbors in District 33 to show their support for my candidacy for the House of Representatives.
 Your financial contributions will allow me to get my name out to those within District 33, but most importantly it is by you casting your vote for me that will allow me to go to Pierre and be that advocate voice for South Dakota farmers and ranchers.
+Contact Curt First Name (required) Last Name (required) Email (required) Subject (required) * Message (required) Taxpayers Businesses Agriculture Contact Curt District 33 Map Phone: 605-389-7345 Email: Curt.Massie@sdlegislature.gov Address: 8041 Clarkson Rd, Rapid City, SD 57702 Copyright # by Curt Massie for SD, All Right Reserved - Paid for by Curt Massie for SD

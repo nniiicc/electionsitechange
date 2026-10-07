@@ -1,5 +1,54 @@
 [
-"https://facebook.com/KrentzforAssembly",
-"https://krentzforassembly.com/",
-"https://secure.winred.com/krentz-for-assembly/donate-today"
+{
+"text": "$100",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "About",
+"href": "https://www.krentzforassembly.com/#About"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.krentzforassembly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.krentzforassembly.com/#Issues"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/krentz-for-assembly/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KrentzforAssembly"
+},
+{
+"text": "krentzforassembly@gmail.com",
+"href": "mailto:krentzforassembly@gmail.com"
+}
 ]

@@ -1,16 +1,78 @@
 [
-"http://facebook.com/ericforiowa",
-"http://instagram.com/ericforiowa",
-"http://twitter.com/ericforiowa",
-"https://ericforiowa.com/about-eric",
-"https://ericforiowa.com/contact-me",
-"https://ericforiowa.com/copy-of-home",
-"https://ericforiowa.com/getinvolved",
-"https://ericforiowa.com/issues",
-"https://ericforiowa.com/news",
-"https://ericforiowa.com/photos",
-"https://facebook.com/EricForIowa",
-"https://legis.iowa.gov/legislators/legislator?ga=89&personID=30659",
-"https://secure.actblue.com/contribute/page/efi",
-"https://twitter.com/EricForIowa"
+{
+"text": "CONTACT ME",
+"href": "https://www.ericforiowa.com/contact-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Eric.Gjerde@legis.iowa.gov",
+"href": "mailto:Eric.Gjerde@legis.iowa.gov"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ericforiowa.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.ericforiowa.com/copy-of-home"
+},
+{
+"text": "MEET ERIC",
+"href": "https://www.ericforiowa.com/about-eric"
+},
+{
+"text": "NEWS",
+"href": "https://www.ericforiowa.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.ericforiowa.com/photos"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.ericforiowa.com/issues"
+},
+{
+"text": "Quick Donate $100",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $25",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "Quick Donate $50",
+"href": "https://secure.actblue.com/contribute/page/efi"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/EricForIowa/"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/ericforiowa"
+},
+{
+"text": "[image: Instagram Social Icon]",
+"href": "http://www.instagram.com/ericforiowa"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/EricForIowa"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/ericforiowa"
+},
+{
+"text": "eric.gjerde@legis.iowa.gov",
+"href": "mailto:eric.gjerde@legis.iowa.gov"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30659"
+}
 ]

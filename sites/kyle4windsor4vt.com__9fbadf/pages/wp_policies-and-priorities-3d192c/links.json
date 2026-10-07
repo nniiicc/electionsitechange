@@ -1,9 +1,38 @@
 [
-"https://kyle4windsor4vt.com/wp",
-"https://kyle4windsor4vt.com/wp/about-me",
-"https://kyle4windsor4vt.com/wp/get-involved",
-"https://kyle4windsor4vt.com/wp/policies-and-priorities",
-"https://kyle4windsor4vt.com/wp/towns-of-windsor-4",
-"https://kyle4windsor4vt.com/wp/why-the-bull-moose",
-"https://wordpress.org/"
+{
+"text": "About Me",
+"href": "https://kyle4windsor4vt.com/wp/about-me/"
+},
+{
+"text": "Get Involved",
+"href": "https://kyle4windsor4vt.com/wp/get-involved/"
+},
+{
+"text": "Kyle Hansen for State Representative – Windsor 4",
+"href": "https://kyle4windsor4vt.com/wp"
+},
+{
+"text": "Policies and Priorities",
+"href": "https://kyle4windsor4vt.com/wp/policies-and-priorities/"
+},
+{
+"text": "Towns of Windsor – 4",
+"href": "https://kyle4windsor4vt.com/wp/towns-of-windsor-4/"
+},
+{
+"text": "Why the Bull Moose?",
+"href": "https://kyle4windsor4vt.com/wp/why-the-bull-moose/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Kyle Hansen for State Representative – Windsor 4]",
+"href": "https://kyle4windsor4vt.com/wp/"
+},
+{
+"text": "[image]",
+"href": "https://kyle4windsor4vt.com/wp"
+}
 ]

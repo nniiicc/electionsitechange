@@ -1,4 +1,3 @@
-Prepared and paid for by the Heaser for House Committee:
-12299 Champlin Dr, Unit 124, Champlin, MN 55316
-Jason Heaser is a retired member of the US Army.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Back to All Events Heaser Door Knock Thursday, September 24, 2026 5:00 PM 8:00 PM Google Calendar ICS Source: https://www.google.com/url?q=https://secure.ngpvan.com/Njcv-SZI90mooxTrotknMA2&sa=D&source=calendar&usd=2&usg=AOvVaw0GHCBGgDM5TdB1MuB3jCul Previous Previous September 23 Dayton Door Knock with Jess Lewis (43B House Candidate) Next Next September 26 34A - Heaser Joint Knock w/Dayton Candidates, Reps Greenman & Sencer-Mura Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
 Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

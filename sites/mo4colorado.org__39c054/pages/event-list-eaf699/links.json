@@ -1,20 +1,98 @@
 [
-"https://facebook.com/profile.php?id=61587889317928",
-"https://instagram.com/mo4colorado",
-"https://mo4colorado.org/",
-"https://mo4colorado.org/accessibility-statement",
-"https://mo4colorado.org/donation",
-"https://mo4colorado.org/endorsements",
-"https://mo4colorado.org/event-details/data-center-town-hall",
-"https://mo4colorado.org/event-details/end-of-berthoud-canvassing-social",
-"https://mo4colorado.org/event-details/greeley-canvass",
-"https://mo4colorado.org/event-details/johnstown-canvass",
-"https://mo4colorado.org/event-details/pre-debate-social",
-"https://mo4colorado.org/event-list",
-"https://mo4colorado.org/get-involved",
-"https://mo4colorado.org/meet-mo-dower",
-"https://mo4colorado.org/platform",
-"https://mo4colorado.org/privacy-policy",
-"https://mo4colorado.org/terms-and-conditions",
-"https://secure.actblue.com/donate/mo4colorado"
+{
+"text": "Accessibility Statement",
+"href": "https://www.mo4colorado.org/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mo4colorado"
+},
+{
+"text": "DONATION",
+"href": "https://www.mo4colorado.org/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mo4colorado.org/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mo4colorado.org/event-list"
+},
+{
+"text": "End of Berthoud Canvassing Social!",
+"href": "https://www.mo4colorado.org/event-details/end-of-berthoud-canvassing-social"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mo4colorado.org/get-involved"
+},
+{
+"text": "Greeley Canvass",
+"href": "https://www.mo4colorado.org/event-details/greeley-canvass"
+},
+{
+"text": "HOME",
+"href": "https://www.mo4colorado.org"
+},
+{
+"text": "Johnstown Canvass",
+"href": "https://www.mo4colorado.org/event-details/johnstown-canvass"
+},
+{
+"text": "MEET MO DOWER",
+"href": "https://www.mo4colorado.org/meet-mo-dower"
+},
+{
+"text": "Mead Canvassing",
+"href": "https://www.mo4colorado.org/event-details/mead-canvassing"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mo4colorado.org/platform"
+},
+{
+"text": "Pre-Debate Social",
+"href": "https://www.mo4colorado.org/event-details/pre-debate-social"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mo4colorado.org/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mo4colorado.org/event-details/end-of-berthoud-canvassing-social"
+},
+{
+"text": "RSVP",
+"href": "https://www.mo4colorado.org/event-details/greeley-canvass"
+},
+{
+"text": "RSVP",
+"href": "https://www.mo4colorado.org/event-details/johnstown-canvass"
+},
+{
+"text": "RSVP",
+"href": "https://www.mo4colorado.org/event-details/mead-canvassing"
+},
+{
+"text": "RSVP",
+"href": "https://www.mo4colorado.org/event-details/pre-debate-social"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mo4colorado.org/terms-and-conditions"
+},
+{
+"text": "[image: Instagram Mo4colorado]",
+"href": "https://www.instagram.com/mo4colorado/"
+},
+{
+"text": "[image: Mo Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587889317928"
+},
+{
+"text": "​ACCESSIBILITY STATEMENT",
+"href": "https://www.mo4colorado.org/accessibility-statement"
+}
 ]

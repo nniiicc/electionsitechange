@@ -1,5 +1,4 @@
-For immediate release: January 14, 2016
-(BOSTON) – Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives to pass substance addiction legislation that creates a new standard to evaluate and treat patients who present in emergency rooms with an apparent overdose.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services House Passes Substance Addiction Legislation to Enhance Continuum of Care and Prevention Efforts For immediate release: January 14, 2016 (BOSTON) – Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives to pass substance addiction legislation that creates a new standard to evaluate and treat patients who present in emergency rooms with an apparent overdose.
 This new best practice, which will be covered by insurance, is designed to ensure the proper assessment and discharge of patients who seek voluntary treatment.
 The bill limits first-time opiate prescriptions to seven days for adults and all opiate prescriptions for minors to seven days, with exceptions for chronic pain management, cancer, and palliative care.
 Additionally, practitioners must check the prescription monitoring program (PMP) each time they prescribe any opiate and correspondingly note that in the patient’s medical records.
@@ -13,13 +12,10 @@ It also requires that patients being discharged from substance addiction program
 Over the past few years, the House’s efforts related to substance addiction have focused on behavioral health and the prevalence of co-occurring disorders.
 This legislation requires the Health Policy Commission to conduct a study on access to dual-diagnosis treatment in the Commonwealth for children, adolescents and adults.
 To help ensure parity between behavioral and physical health care, the legislation also requires insurance companies to report annually on their denied claims.
-This bill also:
-- Requires that contact information for all insurers be posted on the bed-finder tool website and updates the law to ensure the site is available 24 hours a day;
-- Ends the practice of sending women who are civilly committed for alcohol or substance-use disorders to MCI-Framingham;
-- Ensures civil-liability protection for individuals who administer Narcan;
-- Updates the training guidelines for all practitioners who prescribe controlled substances;
-- Establishes the Massachusetts Council on Substance Use Disorder Prevention and Treatment, which will help the Commonwealth understand and confront addiction in a unified way;
-- Notates Narcan use and overdoses in Electronic Medical Records to prevent prescription of opioids to vulnerable patients.
+This bill also: Requires that contact information for all insurers be posted on the bed-finder tool website and updates the law to ensure the site is available 24 hours a day; Ends the practice of sending women who are civilly committed for alcohol or substance-use disorders to MCI-Framingham; Ensures civil-liability protection for individuals who administer Narcan; Updates the training guidelines for all practitioners who prescribe controlled substances; Establishes the Massachusetts Council on Substance Use Disorder Prevention and Treatment, which will help the Commonwealth understand and confront addiction in a unified way; Notates Narcan use and overdoses in Electronic Medical Records to prevent prescription of opioids to vulnerable patients.
 This legislation follows a 65.2% increase in substance addiction funding since FY12 and the landmark substance addiction law passed in 2014 which, for the first time, mandated detox and stabilization coverage.
 The two bills are intended to complement each other and reflect a consensus-driven approach.
-###
+### Newsroom Press Releases Previous Federal Funding in Massachusetts; New report considers ways to bring more money into Massachusetts Next Rep.
+Cusack Secures $150,000 for New Pedestrian Traffic Signal on Rt.
+37 Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

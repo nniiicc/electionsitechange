@@ -1,36 +1,154 @@
 [
-"http://linkedin.com/in/darcy-castro-for-georgia",
-"https://darcycastro.com/",
-"https://darcycastro.com/_files/ugd/3228a9_085fea847c4940cab3feb4a7e56eb0c5.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_179edfca45cb4ec0b0d8581ae883c97d.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_67d6543741c648b3a3b2a676497286df.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_89466309ab2c4e0680a1d3ddf6e92eec.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_9575c474e21948f087abd7317b572524.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_a4ee243bc9404891a4d4fa53272d2ee1.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_ab413f7ad44c441189d85ef64f641d2d.pdf",
-"https://darcycastro.com/_files/ugd/3228a9_b5a5a84c4a344ec5ad723038b594c8f5.pdf",
-"https://darcycastro.com/contact",
-"https://darcycastro.com/downloads",
-"https://darcycastro.com/endorsements",
-"https://darcycastro.com/event-list",
-"https://darcycastro.com/get-involved",
-"https://darcycastro.com/how-to-help",
-"https://darcycastro.com/media",
-"https://darcycastro.com/merch",
-"https://darcycastro.com/priorities",
-"https://darcycastro.com/vote",
-"https://darcycastro.com/voting-info",
-"https://drive.google.com/drive/folders/137EcQ4FyWtJwD7SV7uh8bKScEZL1hfmj?usp=sharing",
-"https://drive.google.com/drive/folders/1BWgynjWMN_Bzls8CxlRBm3EMNjL99n0j?usp=sharing",
-"https://drive.google.com/drive/folders/1LzadogB6KN0tzUVikvTiCUTJhzxWK6w1?usp=sharing",
-"https://drive.google.com/drive/folders/1gWfiT41_BO1U0wUUGp9eCf0vYWqQ4Op5?usp=sharing",
-"https://drive.google.com/drive/folders/1jIyz8fjDVbnkzTQ1NT5t9kWTXudHQVQe?usp=sharing",
-"https://drive.google.com/drive/folders/1mWGpHBLHdHa7OpRP7Q1BBZXh6n3gzm-n?usp=sharing",
-"https://drive.google.com/drive/folders/1mWewDbU4ZaNTtl6_XHOJLBwUnYY_HJKZ?usp=sharing",
-"https://drive.google.com/drive/folders/1qjTKTyhDTAEEDqNM_idqhS8oC8CNm7qo?usp=sharing",
-"https://facebook.com/DarcyCastroInc",
-"https://instagram.com/darcycastroga",
-"https://secure.actblue.com/donate/darcy-castro-for-georgia",
-"https://tiktok.com/@darcy4ga",
-"https://youtube.com/@DarcyCastroforGeorgia"
+{
+"text": "Contact",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Cómo Ayudar",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/darcy-castro-for-georgia"
+},
+{
+"text": "Download JPG",
+"href": "https://drive.google.com/drive/folders/1BWgynjWMN_Bzls8CxlRBm3EMNjL99n0j?usp=sharing"
+},
+{
+"text": "Download JPG",
+"href": "https://drive.google.com/drive/folders/1qjTKTyhDTAEEDqNM_idqhS8oC8CNm7qo?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/137EcQ4FyWtJwD7SV7uh8bKScEZL1hfmj?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/1LzadogB6KN0tzUVikvTiCUTJhzxWK6w1?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/1gWfiT41_BO1U0wUUGp9eCf0vYWqQ4Op5?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/1jIyz8fjDVbnkzTQ1NT5t9kWTXudHQVQe?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/1mWGpHBLHdHa7OpRP7Q1BBZXh6n3gzm-n?usp=sharing"
+},
+{
+"text": "Download JPGs",
+"href": "https://drive.google.com/drive/folders/1mWewDbU4ZaNTtl6_XHOJLBwUnYY_HJKZ?usp=sharing"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_085fea847c4940cab3feb4a7e56eb0c5.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_179edfca45cb4ec0b0d8581ae883c97d.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_67d6543741c648b3a3b2a676497286df.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_89466309ab2c4e0680a1d3ddf6e92eec.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_9575c474e21948f087abd7317b572524.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_a4ee243bc9404891a4d4fa53272d2ee1.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_ab413f7ad44c441189d85ef64f641d2d.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://www.darcycastro.com/_files/ugd/3228a9_b5a5a84c4a344ec5ad723038b594c8f5.pdf"
+},
+{
+"text": "Downloadable Resources",
+"href": "https://www.darcycastro.com/downloads"
+},
+{
+"text": "En Español",
+"href": "https://www.darcycastro.com/get-involved"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darcycastro.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darcycastro.com/event-list"
+},
+{
+"text": "How to Help",
+"href": "https://www.darcycastro.com/how-to-help"
+},
+{
+"text": "Info@DarcyCastro.com",
+"href": "mailto:Info@DarcyCastro.com"
+},
+{
+"text": "Merch",
+"href": "https://www.darcycastro.com/merch"
+},
+{
+"text": "News and Press",
+"href": "https://www.darcycastro.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.darcycastro.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darcycastro.com/contact"
+},
+{
+"text": "Votación",
+"href": "https://www.darcycastro.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://www.darcycastro.com/voting-info"
+},
+{
+"text": "[image: DC_Logo_Multi_1.png]",
+"href": "https://www.darcycastro.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DarcyCastroInc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/darcycastroga/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "http://www.linkedin.com/in/darcy-castro-for-georgia"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@darcy4ga"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@DarcyCastroforGeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.darcycastro.com"
+}
 ]

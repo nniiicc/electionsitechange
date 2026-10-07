@@ -1,27 +1,2 @@
-Skip to content
-Toll-free:
-800-2345-6789
-Login
-|
-Register
-Twitter
-Facebook-f
-Youtube
-Linkedin
-Home
-Meet Michelle
-Priorities
-Safe Neighborhoods
-Cleaner Air and Water
-Healthcare for All
-Jobs and the Economy
-Women’s Equality
-Homelessness
-Schools and Higher Education
-News
-Join Team Michelle!
-Supporters
-Gallery
-DONATE
-Gallery
-To download high-res images from Flickr click here
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Gallery To download high-res images from Flickr click here Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

@@ -1,27 +1,106 @@
 [
-"https://businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
-"https://cbsnews.com/news/rent-cost-us-2024-housing-national",
-"https://chalkbeat.org/detroit/2024/04/12/michigan-board-of-education-calls-for-more-charter-school-oversight",
-"https://cubofmichigan.org/blog/michigan-utility-reliability-performance-worse-than-ever-new-cub-report-finds",
-"https://drive.google.com/file/d/127inYjIsNNh-95jAgxDkL27_mIXlSSvZ/view",
-"https://dylanwegela.com/",
-"https://dylanwegela.com/cart",
-"https://dylanwegela.com/endorsements",
-"https://dylanwegela.com/get-involved",
-"https://dylanwegela.com/priorities",
-"https://dylanwegela.com/privacy-policy",
-"https://forbes.com/advisor/business/software/best-employee-monitoring-software",
-"https://fred.stlouisfed.org/series/MSPUS",
-"https://investinmikids.org/",
-"https://michiganadvance.com/2025/04/25/lawmakers-resurrect-legislation-to-end-political-spending-from-utilities-and-government-contractors",
-"https://michiganadvance.com/2026/06/11/dte-paid-no-federal-income-taxes-for-12th-straight-year-despite-more-than-1-5b-profit?__cf_chl_f_tk=mMJW6oUIvmCA74VX_XQSz2RymCBEKBMiN.CdqZ81wlI-1783381653-1.0.1.1-Mg4cVIqCgbp7tlN00ifxOhYODYLs8b25GESoCIr8mSo",
-"https://michiganpublic.org/politics-government/2026-02-23/democrat-led-bill-looks-to-regulate-ai-workplace-monitoring-in-michigan",
-"https://mopupmichigan.org/",
-"https://multifamilydive.com/news/institutions-to-own-40-of-sfrs-by-2030/629907",
-"https://nar.realtor/press-releases/first-time-home-buyer-share-falls-to-historic-low-of-21-median-age-rises-to-40",
-"https://publicpower.org/public-power-michigan",
-"https://romulusgov.com/587/DHS-Facility-Updates",
-"https://secure.actblue.com/donate/dw-website",
-"https://stateline.org/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents",
-"https://theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs"
+{
+"text": "$173,100 in 2001 to $415,400 in 2025",
+"href": "https://fred.stlouisfed.org/series/MSPUS"
+},
+{
+"text": "0",
+"href": "https://www.dylanwegela.com/cart"
+},
+{
+"text": "5 percent in 2022 to 40 percent by 2030",
+"href": "https://www.multifamilydive.com/news/institutions-to-own-40-of-sfrs-by-2030/629907/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dw-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dylanwegela.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dylanwegela.com/get-involved"
+},
+{
+"text": "Invest in MI Kids",
+"href": "https://investinmikids.org/"
+},
+{
+"text": "MOP Up Michigan ballot initiative",
+"href": "https://mopupmichigan.org/"
+},
+{
+"text": "Priorities",
+"href": "https://www.dylanwegela.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dylanwegela.com/privacy-policy"
+},
+{
+"text": "[image: Dylan Wegela for State Representative]",
+"href": "https://www.dylanwegela.com/"
+},
+{
+"text": "all-time high of 40 years old",
+"href": "https://www.nar.realtor/press-releases/first-time-home-buyer-share-falls-to-historic-low-of-21-median-age-rises-to-40"
+},
+{
+"text": "ban corporations like DTE from pouring money into our elections.",
+"href": "https://michiganadvance.com/2025/04/25/lawmakers-resurrect-legislation-to-end-political-spending-from-utilities-and-government-contractors/"
+},
+{
+"text": "conceded and agreed to sell the facility",
+"href": "https://www.romulusgov.com/587/DHS-Facility-Updates"
+},
+{
+"text": "cosponsor legislation",
+"href": "https://www.michiganpublic.org/politics-government/2026-02-23/democrat-led-bill-looks-to-regulate-ai-workplace-monitoring-in-michigan"
+},
+{
+"text": "don’t have to be transparent",
+"href": "https://www.chalkbeat.org/detroit/2024/04/12/michigan-board-of-education-calls-for-more-charter-school-oversight/"
+},
+{
+"text": "eliminating jobs",
+"href": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1"
+},
+{
+"text": "hasn’t paid federal income taxes for twelve years straight",
+"href": "https://michiganadvance.com/2026/06/11/dte-paid-no-federal-income-taxes-for-12th-straight-year-despite-more-than-1-5b-profit/?__cf_chl_f_tk=mMJW6oUIvmCA74VX_XQSz2RymCBEKBMiN.CdqZ81wlI-1783381653-1.0.1.1-Mg4cVIqCgbp7tlN00ifxOhYODYLs8b25GESoCIr8mSo"
+},
+{
+"text": "highest energy rates in the Midwest",
+"href": "https://cubofmichigan.org/blog/michigan-utility-reliability-performance-worse-than-ever-new-cub-report-finds/"
+},
+{
+"text": "legislation",
+"href": "https://drive.google.com/file/d/127inYjIsNNh-95jAgxDkL27_mIXlSSvZ/view"
+},
+{
+"text": "needed",
+"href": "https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs"
+},
+{
+"text": "offering products",
+"href": "https://www.forbes.com/advisor/business/software/best-employee-monitoring-software/#methodology"
+},
+{
+"text": "one of every four single-family houses sold",
+"href": "https://stateline.org/2022/07/22/investors-bought-a-quarter-of-homes-sold-last-year-driving-up-rents/"
+},
+{
+"text": "proven system",
+"href": "https://www.publicpower.org/public-power-michigan"
+},
+{
+"text": "rent increases are outpacing wage increases",
+"href": "https://www.cbsnews.com/news/rent-cost-us-2024-housing-national/"
+},
+{
+"text": "workers are even more desperate",
+"href": "https://www.theguardian.com/technology/2025/jul/22/openai-sam-altman-congress-ai-jobs"
+}
 ]

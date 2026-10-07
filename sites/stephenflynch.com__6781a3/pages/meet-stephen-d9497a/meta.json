@@ -1,7 +1,15 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/meet-stephen/",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "0348e37862fd44296e971613b5d3d1c234e8bef8",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Meet Stephen | Stephen F Lynch",
- "years_mentioned": []
+ "years_mentioned": [
+  "1991",
+  "1994",
+  "1999",
+  "2000",
+  "2001"
+ ]
 }

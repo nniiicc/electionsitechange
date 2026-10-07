@@ -1,5 +1,5 @@
-By Congressman Mark DeSaulnier
-What’s holding you back from purchasing an electric vehicle (EV)?
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu The Hill Op-Ed: Do you have range anxiety?
+In The News / February 17, 2021 May 3, 2021 By Congressman Mark DeSaulnier What’s holding you back from purchasing an electric vehicle (EV)?
 There are so many obvious benefits to EVs — like reducing greenhouse gas emissions to curb the effects of climate change and saving hundreds or even thousands of dollars in gas money annually — but Americans haven’t embraced them like we’ve seen in other places around the world.
 One simple reason may be range anxiety.
 Range anxiety is the fear that you might end up stranded somewhere that has no charging stations, and some studies show that 58 percent of prospective EV drivers are worried about it.
@@ -19,3 +19,7 @@ The Clean Corridors Act would direct $3 billion over the coming decade to constr
 With this legislation, we can help sustain the growth of the EV market, which means more jobs, a healthier Earth and a strong economy.
 As Congress considers a sustainable infrastructure package and surface transportation reauthorization this year, clean transportation — including EVs and their charging infrastructure — will play a leading role.
 It is time for us to make the investments that end range anxiety and get more EVs on the road.
+View the Opinion Editorial here.
+Post navigation ← Previous Post Next Post → Newsroom: In The News Message from Congressman DeSaulnier: Press Release Recent News: The countdown to my Shadelands fundraiser is on!
+August 15, 2024 Filed my papers to continue representing CA-10 in Congress!
+August 13, 2024 Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

@@ -1,7 +1,4 @@
-Embedded Files
-MEET
-TRACY GANT
-Mayor Gant was appointed to the Edmonston Town Council in 1992.
+Search this site Embedded Files Skip to main content Skip to navigation VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE VOTE TRACY GANT 2026 Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE More Home MEET TRACY DISTRICT 22 VOTE PRIORITIES WHY I'M RUNNING ENDORSEMENTS CONTACT GET INVOLVED DONATE MEET TRACY GANT Mayor Gant was appointed to the Edmonston Town Council in 1992.
 She was elected in 1994 and continues to serve the community today as Mayor, having been elected Mayor in 2014 as the first female African American Mayor of the Town.
 Mayor Gant was re-elected in 2017, 2020 and again in 2023.
 Mayor Gant has a strong record of service to the Maryland Municipal League (MML).
@@ -20,6 +17,5 @@ In her free time, Mayor Gant enjoys spending time with her daughter and 5 grandc
 Courtesy of the Maryland Municipal League.
 Produced by Van Eperen.
 Used with permission.
-Page updated
-Google Sites
-Report abuse
+TRACY GANT FOR MD DELEGATE tracygant4maryland@tracygant4maryland.com Copyright © # By Authority of Friends of Tracy Gant, Bridgette Gant, Treasurer.
+Google Sites Report abuse Page details Page updated Google Sites Report abuse

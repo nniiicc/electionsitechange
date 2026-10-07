@@ -1,7 +1,4 @@
-Media Releases
-After Months of Questions Surrounding the Moss Recording, Troy Mayor and Congressional Candidate Ethan Baker Thoroughly Addresses the Matter, Emphasizing Truth, Respect, and a Voter’s Right to Decide | October 2, 2026
-STATEMENT BY MAYOR ETHAN BAKER
-TROY, Mich. — “People throughout Oakland County, as well as many media outlets, have called upon me to share what I know about this matter and what I believe is the truth.
+0 Skip to Content Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Media Releases After Months of Questions Surrounding the Moss Recording, Troy Mayor and Congressional Candidate Ethan Baker Thoroughly Addresses the Matter, Emphasizing Truth, Respect, and a Voter’s Right to Decide | October 2, 2026 STATEMENT BY MAYOR ETHAN BAKER TROY, Mich. — “People throughout Oakland County, as well as many media outlets, have called upon me to share what I know about this matter and what I believe is the truth.
 I abhor political attacks and bullying, and anything that even resembles it, so this will be said as respectfully, factually, and as thoughtfully as I can.
 I believe the truth is on my side, and when it matters to the people, leaders have a responsibility to clearly address it.
 I say this only after listening, seeking to understand, consulting experts, and joining others in publicly condemning hate and personal attacks against my opponent.
@@ -26,8 +23,8 @@ Division does this.
 Seeking to understand one another, which is what I’ve tried to do, is always better than adding more anger to an already difficult situation.
 “And, there is another side of this that I believe we also have to respect: the people of this district and their concerns about the truth.
 And they are now voting.
-Here is a link to the original 25-second post of the recording: https://www.reddit.com/r/TrackAIPAC/s/KOWrseGsY1.
-“On balance, Jeremy has described the recording as ‘manipulated and unsourced,’ ‘either stitched and edited together or just a complete fabrication,’ and containing ‘things I never did and never would say.’ To give Jeremy credit, one version online does contain a caption attributing words to him that he did not actually say.
+Here is a link to the original 25-second post of the recording: https://www.reddit.com/r/TrackAIPAC/s/KOWrseGsY1 .
+“On balance, Jeremy has described the recording as ‘ manipulated and unsourced ,’ ‘ either stitched and edited together or just a complete fabrication ,’ and containing ‘ things I never did and never would say .’ To give Jeremy credit, one version online does contain a caption attributing words to him that he did not actually say.
 That is a legitimate concern; that caption should not be treated as part of the audio.
 The audio is unsourced because we do not yet know who made the recording, but we have not seen evidence establishing that the audible portions were fabricated or manipulated, nor have those audible portions been clearly refuted.
 “The Washington Post reported that experts who examined the publicly available recording found no evidence of manipulation, including AI alteration, AI generation, or splicing.
@@ -39,10 +36,8 @@ Most have chosen not to make their findings public, citing the highly political 
 One forensic voice expert made an important point: given the political nature of this matter and the limited length of the recording, people should listen to it for themselves.
 Those who know Jeremy’s voice and speech patterns, or have reliable recordings to compare, may be able to form their own judgment.
 That would not amount to forensic authentication, but it may help people evaluate the recording and reach their own conclusions.
-“The recording includes the statements:
-‘And so, honestly, I would say that the entire purpose of my campaign is to make sure America continues to support Israel.’ It also includes: ‘America is not our homeland.’
-“These are among the statements that have prompted questions from people throughout Oakland County.
-“The Washington Post specifically asked whether Jeremy denied making statements in the recording including about the ‘entire purpose’ of his campaign.
+“The recording includes the statements: ‘ And so, honestly, I would say that the entire purpose of my campaign is to make sure America continues to support Israel .’ It also includes: ‘ America is not our homeland .’ “These are among the statements that have prompted questions from people throughout Oakland County.
+“The Washington Post specifically asked whether Jeremy denied making statements in the recording including about the ‘ entire purpose ’ of his campaign.
 He chose not to answer that specific question or respond to The Washington Post.
 “Now, the decision rests with the people of the 11th District.
 In my opinion, voters deserve to hear the recording for themselves, consider the available responses, consider the responses he has given, look at the available forensic evidence, and decide for themselves what kind of representation they would like in Congress.
@@ -50,11 +45,7 @@ In my opinion, voters deserve to hear the recording for themselves, consider the
 I do believe voters deserve transparency and honesty from their public officials.
 I do believe that a congressional candidate shouldn’t make one issue the sole purpose of their campaign, because public service is ultimately about serving the entire community and addressing the challenges that affect people’s everyday lives.
 Ironically, we are unified in our need for multi-faceted representation, especially here in Oakland County, where we are surrounded by diversity—of thought, race, origin, culture, religion, and socioeconomics.
-I look forward to continuing conversations with voters across the district, and continuing to listen so that I can represent all voices in Oakland County.”
-###
-With Primary victory, Mayor Ethan Baker’s unifying message transforms Michigan’s 11th Congressional District into a three-way race to watch closely | August 5, 2026
-STATEMENT BY MAYOR ETHAN BAKER
-TROY, Mich. — Troy Mayor Ethan Baker secured his position on the official General Election ballot for Michigan’s 11th Congressional District seat to replace outgoing Rep.
+I look forward to continuing conversations with voters across the district, and continuing to listen so that I can represent all voices in Oakland County.” ### www.bakerforcongress.com/mediarelease-october-2-2026 With Primary victory, Mayor Ethan Baker’s unifying message transforms Michigan’s 11th Congressional District into a three-way race to watch closely | August 5, 2026 STATEMENT BY MAYOR ETHAN BAKER TROY, Mich. — Troy Mayor Ethan Baker secured his position on the official General Election ballot for Michigan’s 11th Congressional District seat to replace outgoing Rep.
 Haley Stevens with his win on Michigan’s Primary Day.
 Mayor Baker will face Democrat State Senator Jeremy Moss and Independent Democrat Dr.
 Anil Kumar in a three-way race for Oakland County’s largest congressional district.
@@ -62,8 +53,7 @@ Mayor Baker serves as the mayor of Troy, the district’s largest city.
 “I am deeply humbled by the trust voters across the district have placed in me and grateful to everyone who voted in this election,” Baker said.
 “I’ve heard clearly that people value leadership that listens, engages respectfully, and focuses on the challenges facing our communities.
 I also want to congratulate Jeremy Moss on his primary win and welcome Anil Kumar to the race.
-I look forward to the conversations ahead about the future of this unique and thoughtful district.”
-Ethan Baker is Mayor of Troy, Michigan, and a practicing attorney.
+I look forward to the conversations ahead about the future of this unique and thoughtful district.” Ethan Baker is Mayor of Troy, Michigan, and a practicing attorney.
 He has spent his career in public service, law, and community leadership, and serves as Chair and U.S.
 Commissioner of the Great Lakes Fishery Commission, working on binational environmental and economic stewardship of the Great Lakes.
 He holds degrees from the University of Southern California, Whittier College School of Law (magna cum laude), the University of Michigan Gerald R.
@@ -71,4 +61,4 @@ Ford School of Public Policy, and has completed executive leadership training at
 Baker is married to Dr.
 Bethany Baker, a licensed marriage and family therapist, who is Co-Founder and President of the Michigan Community for Emotionally Focused Therapy.
 Baker and his wife have three teenage children: daughter Arden, son Canaan, and daughter Aven, and live happily in Troy.
-###
+### www.bakerforcongress.com/mediarelease-august-5-2026 Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # Privacy Policy ‍ ‍ Terms of Service ‍ ‍ Disclaimer contact@BakerForCongress.com contact@BakerForCongress.com Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # PAID FOR BY BAKER FOR CONGRESS

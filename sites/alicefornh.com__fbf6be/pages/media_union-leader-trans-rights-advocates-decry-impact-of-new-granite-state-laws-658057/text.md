@@ -1,3 +1,3 @@
-Union Leader: Trans rights advocates decry impact of new Granite State laws
-More than 100 transgender residents and allies rallied outside the State House on Sunday night to send a message to Gov.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Union Leader: Trans rights advocates decry impact of new Granite State laws Jul 23 Written By Alice Wade More than 100 transgender residents and allies rallied outside the State House on Sunday night to send a message to Gov.
 Chris Sununu: In New Hampshire, it's "Live free or die" unless you are trans.
+Alice Wade Previous Previous Foster’s: Alice Wade, Lucas Veitch compete for Dover Ward 2 state rep Democratic nomination Next Next Op-Ed: NH Education Under Fire Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

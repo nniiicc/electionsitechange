@@ -1,14 +1,50 @@
 [
-"https://daniforiowahouse.com/",
-"https://daniforiowahouse.com/donate",
-"https://daniforiowahouse.com/editorials",
-"https://daniforiowahouse.com/event-list",
-"https://daniforiowahouse.com/stay-connected",
-"https://facebook.com/profile.php?id=61588630676742",
-"https://globegazette.com/news/local/government-politics/elections/article_23a527b5-bd5f-4ffd-87ac-4945aadbe9f3.html",
-"https://instagram.com/daniollenburgforhouse",
-"https://theosageoracle.com/editorial-dani-ollenburg-stands-firm-property-rights-iowa-house-district-60-primary",
-"https://theosageoracle.com/iowa-families-need-real-property-tax-relief-not-half-measures",
-"https://theosageoracle.com/ollenburg-enters-gop-primary-race-emphasizes-family-values-education-reform-and-tax-relief",
-"https://theriverregister.com/mitchell-ollenburg-outline-agriculture-rural-health-care-priorities-visit-north-iowa-fair-0"
+{
+"text": "Donate",
+"href": "https://www.daniforiowahouse.com/donate"
+},
+{
+"text": "Editorials",
+"href": "https://www.daniforiowahouse.com/editorials"
+},
+{
+"text": "Events",
+"href": "https://www.daniforiowahouse.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.daniforiowahouse.com"
+},
+{
+"text": "Read Full Article →",
+"href": "https://globegazette.com/news/local/government-politics/elections/article_23a527b5-bd5f-4ffd-87ac-4945aadbe9f3.html"
+},
+{
+"text": "Read Full Article →",
+"href": "https://theosageoracle.com/editorial-dani-ollenburg-stands-firm-property-rights-iowa-house-district-60-primary"
+},
+{
+"text": "Read Full Article →",
+"href": "https://theosageoracle.com/iowa-families-need-real-property-tax-relief-not-half-measures"
+},
+{
+"text": "Read Full Article →",
+"href": "https://theosageoracle.com/ollenburg-enters-gop-primary-race-emphasizes-family-values-education-reform-and-tax-relief"
+},
+{
+"text": "Read Full Article →",
+"href": "https://theriverregister.com/mitchell-ollenburg-outline-agriculture-rural-health-care-priorities-visit-north-iowa-fair-0"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.daniforiowahouse.com/stay-connected"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588630676742"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/daniollenburgforhouse/"
+}
 ]

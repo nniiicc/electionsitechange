@@ -1,8 +1,2 @@
-Ridgefield RTC Meeting
-Time
-Thursday, Sep 17, 2026
-7:00 PM – 8:00 PM
-Location
-Ridgefield
-About this event
-Add your event description here
+Meet Melissa Issues Events Volunteer Contribute Events / Ridgefield RTC Meeting Ridgefield RTC Meeting Time Thursday, Sep 17, 2026 7:00 PM – 8:00 PM Location Ridgefield About this event Add your event description here Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,7 +1,11 @@
 {
  "description": "Support Don Tracy for Senate by staying informed. Sign up for crucial campaign updates and help shape Illinois' future.",
  "final_url": "https://dontracyforil.com/",
- "paid_for_by": "Paid for by Don Tracy For Illinois, NFP \u00a9 2026 Don Tracy for Illinois",
+ "fingerprint": "3353a81a2fbbacddbb1371e1d167122530ca1d3e",
+ "format": 3,
+ "paid_for_by": "Paid for by Don Tracy For Illinois, NFP © # Don Tracy for Illinois",
  "title": "Don Tracy for Illinois Senate | Fighting for Illinois Families",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

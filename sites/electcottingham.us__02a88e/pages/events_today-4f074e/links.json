@@ -1,29 +1,130 @@
 [
-"https://electcottingham.us/",
-"https://electcottingham.us/ballot-access",
-"https://electcottingham.us/campaign-material",
-"https://electcottingham.us/contact-us",
-"https://electcottingham.us/donation",
-"https://electcottingham.us/events",
-"https://electcottingham.us/events/2026-10-04",
-"https://electcottingham.us/events/list",
-"https://electcottingham.us/events/month",
-"https://electcottingham.us/events/today",
-"https://electcottingham.us/events/today?ical=1",
-"https://electcottingham.us/events/today?outlook-ical=1",
-"https://electcottingham.us/latest-news",
-"https://electcottingham.us/photos",
-"https://electcottingham.us/platform",
-"https://electcottingham.us/sign-up-today",
-"https://electcottingham.us/support",
-"https://electcottingham.us/videos",
-"https://electcottingham.us/volunteer",
-"https://elections.il.gov/campaigndisclosure/CommitteeDetail.aspx?ID=aq0%2BE%2BdkkulBLRB8wTzehw%3D%3D",
-"https://facebook.com/profile.php?id=100090324275541",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/cottinghamforindependents",
-"https://linkedin.com/in/andrew-cottingham",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Andrew+Cottingham+for+Illinois+State+Representative+Events+Archive+-+Andrew+Cottingham+for+Illinois+State+Representative",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Andrew+Cottingham+for+Illinois+State+Representative+Events+Archive+-+Andrew+Cottingham+for+Illinois+State+Representative",
-"https://x.com/Cottingham4Ind"
+{
+"text": "#ago",
+"href": "https://electcottingham.us/events/today/"
+},
+{
+"text": "Andrew Cottingham for Illinois State Representative",
+"href": "https://electcottingham.us"
+},
+{
+"text": "Ballot Access",
+"href": "https://electcottingham.us/ballot-access/"
+},
+{
+"text": "Board’s official website",
+"href": "https://www.elections.il.gov/campaigndisclosure/CommitteeDetail.aspx?ID=aq0%2BE%2BdkkulBLRB8wTzehw%3D%3D"
+},
+{
+"text": "Campaign Material",
+"href": "https://electcottingham.us/campaign-material/"
+},
+{
+"text": "Contact Us",
+"href": "https://electcottingham.us/contact-us/"
+},
+{
+"text": "Day",
+"href": "https://electcottingham.us/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://electcottingham.us/donation/"
+},
+{
+"text": "Events",
+"href": "https://electcottingham.us/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://electcottingham.us/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://electcottingham.us/events/today/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=100090324275541"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://electcottingham.us/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cottinghamforindependents/"
+},
+{
+"text": "Latest News",
+"href": "https://electcottingham.us/latest-news/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/andrew-cottingham/"
+},
+{
+"text": "List",
+"href": "https://electcottingham.us/events/list/"
+},
+{
+"text": "Month",
+"href": "https://electcottingham.us/events/month/"
+},
+{
+"text": "My Support & Endorsements",
+"href": "https://electcottingham.us/support/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Andrew+Cottingham+for+Illinois+State+Representative+Events+Archive+-+Andrew+Cottingham+for+Illinois+State+Representative"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Felectcottingham.us%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Andrew+Cottingham+for+Illinois+State+Representative+Events+Archive+-+Andrew+Cottingham+for+Illinois+State+Representative"
+},
+{
+"text": "Photos",
+"href": "https://electcottingham.us/photos/"
+},
+{
+"text": "Platform",
+"href": "https://electcottingham.us/platform/"
+},
+{
+"text": "Previous Day",
+"href": "https://electcottingham.us/events/2026-10-06/"
+},
+{
+"text": "Sign-Up!",
+"href": "https://electcottingham.us/sign-up-today/"
+},
+{
+"text": "Videos",
+"href": "https://electcottingham.us/videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://electcottingham.us/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/Cottingham4Ind"
+},
+{
+"text": "[image: Andrew Cottingham for Illinois State Representative]",
+"href": "https://electcottingham.us/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://electcottingham.us/events/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://electcottingham.us/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

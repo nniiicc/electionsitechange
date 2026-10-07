@@ -1,10 +1,6 @@
-The Barnwell County Democratic Party proudly presents its Fashion Show featuring South Carolina Congressional District 2 candidate Zyon Khalifa!
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events Barnwell Fashion Show Saturday, August 22, 2026 4:00 PM 5:00 PM Ned Branch Baptist Church 10620 Dunbarton Boulevard Barnwell, South Carolina, 29812 United States (map) Google Calendar ICS The Barnwell County Democratic Party proudly presents its Fashion Show featuring South Carolina Congressional District 2 candidate Zyon Khalifa !
 Join us on August 22 at 4:00 PM at Ned Branch Missionary Baptist Church for an exciting afternoon celebrating fashion, community, and civic engagement.
 This special event is an opportunity to connect with friends, supporters, and neighbors while enjoying a stylish showcase and learning more about the vision for South Carolina's future.
 Whether you're coming to support the candidate, enjoy the fashion show, or spend time with the community, this event promises an engaging and welcoming atmosphere for all.
-Event Details:
-- Event: BCDP Fashion Show featuring Zyon Khalifa
-- Date: August 22
-- Time: 4:00 PM
-- Location: Ned Branch Missionary Baptist Church
-For tickets and additional show information, please contact the Barnwell County Democratic Party.
+Event Details: Event: BCDP Fashion Show featuring Zyon Khalifa Date: August 22 Time: 4:00 PM Location: Ned Branch Missionary Baptist Church For tickets and additional show information, please contact the Barnwell County Democratic Party .
+Previous Previous June 24 Volunteer to Phone Bank for Zyon Khalifa Meet Zyon Khalifa Platform Volunteer Privacy Policy

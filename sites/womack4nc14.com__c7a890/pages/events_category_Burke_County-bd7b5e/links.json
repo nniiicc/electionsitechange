@@ -1,76 +1,414 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Burke+County+Candidate%27s+Forum&dates=20260919T163000Z%2F20260919T193000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Burke+County+Candidates+Forum&dates=20260924T213000Z%2F20260925T003000Z&location=1001+Burkemont+Avenue%2C+Morganton%2C+North+Carolina%2C+28655%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Burke+County+Democrats&dates=20260321T163000Z%2F20260321T183000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Burke+County+Democrats+Monthly+Meeting&dates=20260203T233000Z%2F20260204T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Democratic+Women+of+Burke+County&dates=20260523T180000Z%2F20260523T200000Z&location=310+South+Sterling+Street%2C+Morganton%2C+NC%2C+28655%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=East+Burke+County+Precinct+Organization+Meeting&dates=20260227T230000Z%2F20260228T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Morganton+Festival&dates=20260911T130000Z%2F20260913T020000Z&location=112+West+Union+Street%2C+Morganton%2C+North+Carolina%2C+28655%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Burke+County+Listening+Tour&dates=20260819T150000Z%2F20260819T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z",
-"http://instagram.com/lakeshawomack",
-"http://maps.google.com/?q=1001+Burkemont+Avenue+Morganton%2C+North+Carolina%2C+28655+United+States",
-"http://maps.google.com/?q=112+West+Union+Street+Morganton%2C+North+Carolina%2C+28655+United+States",
-"http://maps.google.com/?q=310+South+Sterling+Street+Morganton%2C+NC%2C+28655+United+States",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://facebook.com/share/1JiP47BNpF",
-"https://mobilize.us/dwnc/event/955161",
-"https://mobilize.us/s/U2xnEJ",
-"https://ncsbe.gov/news/events/election-day-2026-primary-election",
-"https://ncvoter.org/early-voting",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://vt.ncsbe.gov/RegLkup",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/burke-county-candidates-forum",
-"https://womack4nc14.com/events/burke-county-candidates-forum-1",
-"https://womack4nc14.com/events/burke-county-candidates-forum-1?format=ical",
-"https://womack4nc14.com/events/burke-county-candidates-forum?format=ical",
-"https://womack4nc14.com/events/burke-county-democrats",
-"https://womack4nc14.com/events/burke-county-democrats-monthly-meeting",
-"https://womack4nc14.com/events/burke-county-democrats-monthly-meeting?format=ical",
-"https://womack4nc14.com/events/burke-county-democrats?format=ical",
-"https://womack4nc14.com/events/democratic-women-of-burke-county",
-"https://womack4nc14.com/events/democratic-women-of-burke-county?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz",
-"https://womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical",
-"https://womack4nc14.com/events/early-voting-in-north-carolina?format=ical",
-"https://womack4nc14.com/events/east-burke-county-precinct-organization-meeting",
-"https://womack4nc14.com/events/east-burke-county-precinct-organization-meeting?format=ical",
-"https://womack4nc14.com/events/morganton-festival",
-"https://womack4nc14.com/events/morganton-festival?format=ical",
-"https://womack4nc14.com/events/primary-voting",
-"https://womack4nc14.com/events/primary-voting-jexbb",
-"https://womack4nc14.com/events/primary-voting-jexbb?format=ical",
-"https://womack4nc14.com/events/primary-voting?format=ical",
-"https://womack4nc14.com/events/rooted-in-community-burke-county-listening-tour",
-"https://womack4nc14.com/events/rooted-in-community-burke-county-listening-tour?format=ical",
-"https://womack4nc14.com/events/virtual-campaign-launch",
-"https://womack4nc14.com/events/virtual-campaign-launch?format=ical",
-"https://womack4nc14.com/events?category=Burke+County",
-"https://womack4nc14.com/events?category=Cleveland+County",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/events?category=Mecklenburg+County",
-"https://womack4nc14.com/events?category=NC-14+District",
-"https://womack4nc14.com/events?category=Polk+County",
-"https://womack4nc14.com/events?category=Rutherford+County",
-"https://womack4nc14.com/events?category=Virtual+Event",
-"https://womack4nc14.com/events?category=Voting",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1001+burkemont+avenue+morganton%2C+north+carolina%2C+28655+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=112+west+union+street+morganton%2C+north+carolina%2C+28655+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=310+south+sterling+street+morganton%2C+nc%2C+28655+united+states"
+},
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Burke County",
+"href": "https://www.womack4nc14.com/events?category=Burke+County"
+},
+{
+"text": "Burke County Candidate's Forum",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum"
+},
+{
+"text": "Burke County Candidates Forum",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum-1"
+},
+{
+"text": "Burke County Democrats",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats"
+},
+{
+"text": "Burke County Democrats Monthly Meeting",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats-monthly-meeting"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Cleveland County",
+"href": "https://www.womack4nc14.com/events?category=Cleveland+County"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Democratic Women of Burke County",
+"href": "https://www.womack4nc14.com/events/democratic-women-of-burke-county"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "Early Voting in North Carolina",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "East Burke County Precinct Organization Meeting",
+"href": "https://www.womack4nc14.com/events/east-burke-county-precinct-organization-meeting"
+},
+{
+"text": "Election Day",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "Find Your Early Voting Location in North Carolina",
+"href": "https://www.ncvoter.org/early-voting/"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Burke+County+Candidate%27s+Forum&dates=20260919T163000Z%2F20260919T193000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Burke+County+Candidates+Forum&dates=20260924T213000Z%2F20260925T003000Z&location=1001+Burkemont+Avenue%2C+Morganton%2C+North+Carolina%2C+28655%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Burke+County+Democrats&dates=20260321T163000Z%2F20260321T183000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Burke+County+Democrats+Monthly+Meeting&dates=20260203T233000Z%2F20260204T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Democratic+Women+of+Burke+County&dates=20260523T180000Z%2F20260523T200000Z&location=310+South+Sterling+Street%2C+Morganton%2C+NC%2C+28655%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20260212T130000Z%2F20260301T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Early+Voting+in+North+Carolina&dates=20261015T120000Z%2F20261031T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=East+Burke+County+Precinct+Organization+Meeting&dates=20260227T230000Z%2F20260228T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T113000Z%2F20261103T123000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Morganton+Festival&dates=20260911T130000Z%2F20260913T020000Z&location=112+West+Union+Street%2C+Morganton%2C+North+Carolina%2C+28655%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Voting&dates=20260303T113000Z%2F20260304T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rooted+in+Community%3A+Burke+County+Listening+Tour&dates=20260819T150000Z%2F20260819T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Virtual+Campaign+Launch&dates=20251205T220000Z%2F20251205T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats-monthly-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/democratic-women-of-burke-county?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/east-burke-county-precinct-organization-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/morganton-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/primary-voting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-burke-county-listening-tour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Mecklenburg County",
+"href": "https://www.womack4nc14.com/events?category=Mecklenburg+County"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "Morganton Festival",
+"href": "https://www.womack4nc14.com/events/morganton-festival"
+},
+{
+"text": "NC-14 District",
+"href": "https://www.womack4nc14.com/events?category=NC-14+District"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Polk County",
+"href": "https://www.womack4nc14.com/events?category=Polk+County"
+},
+{
+"text": "Primary Voting",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Register Now",
+"href": "https://www.mobilize.us/dwnc/event/955161/"
+},
+{
+"text": "Rooted in Community: Burke County Listening Tour",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-burke-county-listening-tour"
+},
+{
+"text": "Rutherford County",
+"href": "https://www.womack4nc14.com/events?category=Rutherford+County"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "Sign Up",
+"href": "https://mobilize.us/s/U2xnEJ"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats-monthly-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/democratic-women-of-burke-county"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/east-burke-county-precinct-organization-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/morganton-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-burke-county-listening-tour"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Campaign Launch",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "Virtual Event",
+"href": "https://www.womack4nc14.com/events?category=Virtual+Event"
+},
+{
+"text": "Voter Search",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Voting",
+"href": "https://www.womack4nc14.com/events?category=Voting"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: Burke County Democrats Monthly Meeting]",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats-monthly-meeting"
+},
+{
+"text": "[image: Burke County Democrats]",
+"href": "https://www.womack4nc14.com/events/burke-county-democrats"
+},
+{
+"text": "[image: Democratic Women of Burke County]",
+"href": "https://www.womack4nc14.com/events/democratic-women-of-burke-county"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina"
+},
+{
+"text": "[image: Early Voting in North Carolina]",
+"href": "https://www.womack4nc14.com/events/early-voting-in-north-carolina-yncnz"
+},
+{
+"text": "[image: East Burke County Precinct Organization Meeting]",
+"href": "https://www.womack4nc14.com/events/east-burke-county-precinct-organization-meeting"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://www.womack4nc14.com/events/primary-voting-jexbb"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Morganton Festival]",
+"href": "https://www.womack4nc14.com/events/morganton-festival"
+},
+{
+"text": "[image: Primary Voting]",
+"href": "https://www.womack4nc14.com/events/primary-voting"
+},
+{
+"text": "[image: Rooted in Community: Burke County Listening Tour]",
+"href": "https://www.womack4nc14.com/events/rooted-in-community-burke-county-listening-tour"
+},
+{
+"text": "[image: Virtual Campaign Launch]",
+"href": "https://www.womack4nc14.com/events/virtual-campaign-launch"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum"
+},
+{
+"text": "[no text]",
+"href": "https://www.womack4nc14.com/events/burke-county-candidates-forum-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+},
+{
+"text": "https://www.facebook.com/share/1JiP47BNpF/",
+"href": "https://www.facebook.com/share/1JiP47BNpF/"
+},
+{
+"text": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election",
+"href": "https://www.ncsbe.gov/news/events/election-day-2026-primary-election"
+}
 ]

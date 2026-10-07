@@ -1,3 +1,5 @@
-The end of an Oakland County political dynasty of sorts is fast approaching in the 38th District as Republican Rep.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Flippin' Out The end of an Oakland County political dynasty of sorts is fast approaching in the 38th District as Republican Rep.
 Kathy Crawford (Novi, Northville, Lyon Township, S.
 Lyon, Walled Lake) faces the last 18 months of her third and final term in the Michigan House of Representatives.
+Read More > Kelly Breen June 25, 2019 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous The Election Year Arrives with Narrow Group of House Seats in Play Kelly Breen January 7, 2020 Next Novi council members agree it’s good to be different amid lack of downtown Kelly Breen June 21, 2019 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

@@ -1,47 +1,194 @@
 [
-"https://davidjolly.com/",
-"https://davidjolly.com/a-florida-for-everyone",
-"https://davidjolly.com/about",
-"https://davidjolly.com/about-david",
-"https://davidjolly.com/commentary",
-"https://davidjolly.com/contact",
-"https://davidjolly.com/es/issues",
-"https://davidjolly.com/florida-governor-race-2026",
-"https://davidjolly.com/from-the-trail",
-"https://davidjolly.com/get-involved",
-"https://davidjolly.com/ht/issues",
-"https://davidjolly.com/issues",
-"https://davidjolly.com/issues/affordability",
-"https://davidjolly.com/issues/clean-energy",
-"https://davidjolly.com/issues/criminal-justice",
-"https://davidjolly.com/issues/economy",
-"https://davidjolly.com/issues/environment",
-"https://davidjolly.com/issues/ethics-reform",
-"https://davidjolly.com/issues/gun-safety",
-"https://davidjolly.com/issues/health-care",
-"https://davidjolly.com/issues/higher-education",
-"https://davidjolly.com/issues/home-rule",
-"https://davidjolly.com/issues/public-education",
-"https://davidjolly.com/issues/reproductive-freedom",
-"https://davidjolly.com/issues/republicans-for-jolly",
-"https://davidjolly.com/issues/veterans",
-"https://davidjolly.com/media",
-"https://davidjolly.com/meet-gwen",
-"https://davidjolly.com/video",
-"https://davidjolly.com/where-david-stands",
-"https://facebook.com/davidjollyflorida",
-"https://instagram.com/davidjollyfl",
-"https://secure.actblue.com/donate/david-jolly-web",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true",
-"https://shop.davidjolly.com/",
-"https://thisisavm.com/",
-"https://tiktok.com/@david_jolly",
-"https://x.com/davidjollyfl"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=20"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane=true&amount=500"
+},
+{
+"text": "AVM",
+"href": "https://thisisavm.com"
+},
+{
+"text": "About David Jolly",
+"href": "https://davidjolly.com/about/"
+},
+{
+"text": "Commentary",
+"href": "https://davidjolly.com/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://davidjolly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-jolly-web"
+},
+{
+"text": "ES",
+"href": "https://davidjolly.com/es/issues/"
+},
+{
+"text": "From the Trail",
+"href": "https://davidjolly.com/from-the-trail/"
+},
+{
+"text": "Get Involved",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "HT",
+"href": "https://davidjolly.com/ht/issues/"
+},
+{
+"text": "Issues",
+"href": "https://davidjolly.com/issues/"
+},
+{
+"text": "Join the Movement",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "Join the movement",
+"href": "https://davidjolly.com/get-involved/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/a-florida-for-everyone/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/affordability/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/clean-energy/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/criminal-justice/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/data-centers/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/economy/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/environment/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/ethics-reform/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/gun-safety/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/health-care/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/higher-education/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/home-rule/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/public-education/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/reproductive-freedom/"
+},
+{
+"text": "Learn more",
+"href": "https://davidjolly.com/issues/veterans/"
+},
+{
+"text": "Media",
+"href": "https://davidjolly.com/media/"
+},
+{
+"text": "Meet David",
+"href": "https://davidjolly.com/about-david/"
+},
+{
+"text": "Meet Gwen",
+"href": "https://davidjolly.com/meet-gwen/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/david-jolly-web?express_lane_other=true"
+},
+{
+"text": "Republicans for Jolly",
+"href": "https://davidjolly.com/issues/republicans-for-jolly/"
+},
+{
+"text": "Store",
+"href": "https://shop.davidjolly.com/"
+},
+{
+"text": "The 2026 Race",
+"href": "https://davidjolly.com/florida-governor-race-2026/"
+},
+{
+"text": "Video",
+"href": "https://davidjolly.com/video/"
+},
+{
+"text": "Where David Stands",
+"href": "https://davidjolly.com/where-david-stands/"
+},
+{
+"text": "[image: David Jolly]",
+"href": "https://davidjolly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/davidjollyflorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidjollyfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@david_jolly"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/davidjollyfl"
+}
 ]

@@ -1,4 +1,4 @@
-Robert Dickey is currently serving his seventh term in the Georgia House of Representatives where he serves the people in Bibb, Crawford, Houston, Monroe and Peach Counties.
+Skip to content Search for: Home About Robert Constituent Services Issues Contact Robert Search for: Home About Robert Constituent Services Issues Contact Robert Home About Robert Constituent Services Issues Contact Robert About Robert Home About Robert About Robert Steve Allen 2024-03-22T23:25:22+00:00 Robert Dickey is currently serving his seventh term in the Georgia House of Representatives where he serves the people in Bibb, Crawford, Houston, Monroe and Peach Counties.
 Upon his election, Robert rolled up his sleeves and went to work for the people of Middle Georgia.
 He has been recognized as one of hardest working members of the Legislature and has quickly earned the respect of his colleagues.
 That’s why he was appointed Chairman of the House Agriculture and Consumer Affairs Committee.
@@ -23,3 +23,4 @@ Robert and his wife, Cynde, have been married for 40 years and have two adult ch
 They are active members of Musella Baptist Church, where they both teach Sunday School.
 Mr.
 Dickey is a Deacon and chair of the Finance Committee.
+Copyright © Robert Dickey | Site paid for by Committee to Elect Robert Dickey Page load link Go to Top

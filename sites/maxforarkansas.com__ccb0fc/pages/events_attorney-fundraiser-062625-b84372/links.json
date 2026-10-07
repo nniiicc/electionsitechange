@@ -1,21 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Attorney+Fundraiser+-+06.26.25&dates=20250626T213000Z%2F20250626T233000Z",
-"https://bsky.app/profile/maxforarkansas.bsky.social",
-"https://facebook.com/MaxforArkansas",
-"https://goodchange.app/donate/max-f-2d",
-"https://instagram.com/maxforar",
-"https://iwillvote.com/",
-"https://maxforarkansas.com/",
-"https://maxforarkansas.com/cart",
-"https://maxforarkansas.com/contact",
-"https://maxforarkansas.com/elections",
-"https://maxforarkansas.com/events",
-"https://maxforarkansas.com/events/attorney-fundraiser-062625?format=ical",
-"https://maxforarkansas.com/events/campaign-kickoff-fundraiser",
-"https://maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f",
-"https://maxforarkansas.com/get-involved",
-"https://maxforarkansas.com/map-of-district-20",
-"https://maxforarkansas.com/meet",
-"https://maxforarkansas.com/volunteer",
-"https://tiktok.com/@maxforarkansas"
+{
+"text": "0",
+"href": "https://www.maxforarkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.maxforarkansas.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.maxforarkansas.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.maxforarkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/max-f-2d"
+},
+{
+"text": "Events",
+"href": "https://www.maxforarkansas.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.maxforarkansas.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Attorney+Fundraiser+-+06.26.25&dates=20250626T213000Z%2F20250626T233000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.maxforarkansas.com/events/attorney-fundraiser-062625?format=ical"
+},
+{
+"text": "Map of District 20",
+"href": "https://www.maxforarkansas.com/map-of-district-20"
+},
+{
+"text": "Max's Election Work",
+"href": "https://www.maxforarkansas.com/elections"
+},
+{
+"text": "Next Next July 31 Eureka Springs Fundraiser",
+"href": "https://www.maxforarkansas.com/events/qop3vinq701vdh6tx8w8cvp3lefg3f"
+},
+{
+"text": "Previous Previous May 29 Campaign Kickoff Fundraiser",
+"href": "https://www.maxforarkansas.com/events/campaign-kickoff-fundraiser"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.iwillvote.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.maxforarkansas.com/volunteer"
+},
+{
+"text": "[image: Max for Arkansas]",
+"href": "https://www.maxforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maxforarkansas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaxforArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maxforar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maxforarkansas"
+}
 ]

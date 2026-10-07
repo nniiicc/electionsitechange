@@ -1,14 +1,6 @@
-Home
-About Chris
-Events
-Donate
-Contact Us
-Volunteer
-More
-I need to introduce my message to the voters who are already looking for an alternative.
+top of page Home About Chris Events Donate Contact Us Volunteer More Use tab to navigate through the menu items.
+SUPPORT THE CAMPAIGN I need to introduce my message to the voters who are already looking for an alternative.
 We need as many resources as possible to get our information in the hands of voters.
 Your help expands our reach.
-YARD SIGNS
-DOOR LITERATURE
-MAILERS
-DIGITAL
+Donate Today YARD SIGNS DOOR LITERATURE MAILERS DIGITAL CONTACT US Donate here Prepared and Paid for by WEDUM4MN PO Box 390011 Edina, MN 55439 First Name * Last Name * Email * Message Submit Address PO Box 390011 Edina, MN 55439 Tel 612-670-0087 Email info@wedum4mn.com © # by ITG.
+Powered and secured by Wix Home bottom of page

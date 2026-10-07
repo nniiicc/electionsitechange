@@ -1,6 +1,5 @@
-About Dr.
-Shirley Weber
-Dr.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page About Dr.
+Shirley Weber Dr.
 Weber was born on a farm in rural Hope, Arkansas, where her father, David, was a sharecropper.
 Her California story began at three years old, when she and her family fled the farm and moved west after her father refused to back down in a dispute with a white farmer, and a lynch mob then threatened her father’s life.
 The family relocated to the Pueblo Del Rio housing projects in South Los Angeles, where Dr.
@@ -11,8 +10,7 @@ As one of the few Black women in southern California navigating academia in the 
 Weber became one of the youngest-ever professors at San Diego State University, where she helped found the Africana Studies Department.
 Dr.
 Weber’s unimpeachable integrity and moral clarity have made her one of the most respected public officials in California.
-During her time in the Assembly, the San Diego Union-Tribune called her “an effective legislator and educator…known to take up fights many shy away from.”
-Dr.
+During her time in the Assembly, the San Diego Union-Tribune called her “an effective legislator and educator…known to take up fights many shy away from.” Dr.
 Weber has translated her lifelong commitment to service into an ambitious agenda, including legislation on education, civil rights, public safety, food insecurity, protections for persons with disabilities, and voting rights.
 As Chair of the Elections and Redistricting Committee, Dr.
 Weber helped to oversee California’s elections and campaign finance law before becoming Secretary of State, and authored legislation to extend voting rights to people on parole – more than 50,000 Californians – and to ensure that those on probation and parole are aware of their voting rights and able to cast their ballots.
@@ -24,3 +22,5 @@ Weber to be California’s 30th Secretary of State on December 22, 2020 – and 
 Dr.
 Weber is the mother of two children.
 She has two grandsons and a granddaughter, and is the widow of the late Honorable Daniel Weber, a California state judge.
+Paid for by Shirley Weber for Secretary of State 2026.
+FPPC # 1456658 Facebook X

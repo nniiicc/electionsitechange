@@ -1,5 +1,22 @@
 [
-"https://oag.ca.gov/privacy/ccpa",
-"https://votenathanboyles.com/",
-"https://votenathanboyles.com/privacy-policy"
+{
+"text": "Home",
+"href": "https://www.votenathanboyles.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votenathanboyles.com/privacy-policy/"
+},
+{
+"text": "[image: Nathan Boyles]",
+"href": "https://www.votenathanboyles.com/"
+},
+{
+"text": "https://oag.ca.gov/privacy/ccpa",
+"href": "https://oag.ca.gov/privacy/ccpa"
+},
+{
+"text": "nathan@votenathanboyles.com",
+"href": "mailto:nathan@votenathanboyles.com"
+}
 ]

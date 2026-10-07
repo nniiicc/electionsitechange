@@ -1,26 +1,114 @@
 [
-"http://facebook.com/peace4shore",
-"http://peace4shore.com/",
-"http://youtube.com/@peace4shore",
-"https://instagram.com/peace4shore",
-"https://peace4shore.com/",
-"https://peace4shore.com/about",
-"https://peace4shore.com/cart",
-"https://peace4shore.com/endorsements",
-"https://peace4shore.com/events",
-"https://peace4shore.com/gotv",
-"https://peace4shore.com/lawnsigns",
-"https://peace4shore.com/our-district",
-"https://peace4shore.com/policy",
-"https://peace4shore.com/press",
-"https://peace4shore.com/store",
-"https://peace4shore.com/volunteer",
-"https://peace4shore.com/voter-resources",
-"https://rachel-peace-for-congress.solidarity.tech/e-mail-list",
-"https://secure.actblue.com/donate/peace-4-shore",
-"https://secure.actblue.com/donate/peace-4-shore?amount=250",
-"https://secure.actblue.com/donate/peace-4-shore?amount=5",
-"https://secure.actblue.com/donate/peace-4-shore?amount=50",
-"https://secure.actblue.com/donate/peace-4-shore?amount=500",
-"https://tiktok.com/@.peace4shore"
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/peace-4-shore?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/peace-4-shore?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/peace-4-shore?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/peace-4-shore?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.peace4shore.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.peace4shore.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/peace-4-shore"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peace4shore.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.peace4shore.com/events"
+},
+{
+"text": "Knock Doors or Make Calls",
+"href": "https://www.peace4shore.com/gotv"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.peace4shore.com/lawnsigns"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/peace-4-shore"
+},
+{
+"text": "Open it in a new tab",
+"href": "https://rachel-peace-for-congress.solidarity.tech/e-mail-list"
+},
+{
+"text": "Our District",
+"href": "https://www.peace4shore.com/our-district"
+},
+{
+"text": "Policy",
+"href": "https://www.peace4shore.com/policy"
+},
+{
+"text": "Press",
+"href": "https://www.peace4shore.com/press"
+},
+{
+"text": "Store",
+"href": "https://www.peace4shore.com/store"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.peace4shore.com/voter-resources"
+},
+{
+"text": "We need your help knocking doors! Click here!",
+"href": "https://www.peace4shore.com/gotv"
+},
+{
+"text": "[image: Rachel Peace for Congress]",
+"href": "https://www.peace4shore.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/peace4shore"
+},
+{
+"text": "[no text]",
+"href": "http://peace4shore.com"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@peace4shore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/peace4shore/"
+},
+{
+"text": "[no text]",
+"href": "https://www.peace4shore.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@.peace4shore"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@peace4shore.com"
+},
+{
+"text": "connect@peace4shore.com",
+"href": "mailto:connect@peace4shore.com"
+}
 ]

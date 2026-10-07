@@ -1,27 +1,114 @@
 [
-"http://facebook.com/brianwalkerforward",
-"http://instagram.com/walker.forward",
-"https://walkerforward.com/",
-"https://walkerforward.com/cart",
-"https://walkerforward.com/contact",
-"https://walkerforward.com/donate",
-"https://walkerforward.com/events",
-"https://walkerforward.com/faq",
-"https://walkerforward.com/news",
-"https://walkerforward.com/privacy-policy",
-"https://walkerforward.com/store",
-"https://walkerforward.com/store/p/be-weird",
-"https://walkerforward.com/store/p/ditch-the-party-vote-for-people",
-"https://walkerforward.com/store/p/good-boots-over-cheap-suits",
-"https://walkerforward.com/store/p/honest-beats-polished",
-"https://walkerforward.com/store/p/more-andover-in-st-paul",
-"https://walkerforward.com/store/p/more-ramsey-sign",
-"https://walkerforward.com/store/p/neighbors-over-party",
-"https://walkerforward.com/store/p/plain-spoken-over-fast-talking",
-"https://walkerforward.com/store/p/politics-are-too-political",
-"https://walkerforward.com/store/p/rebellious-alternative",
-"https://walkerforward.com/store/p/standard-yard-sign",
-"https://walkerforward.com/store/signs",
-"https://walkerforward.com/volunteer",
-"https://walkerforward.com/yard-sign"
+{
+"text": "0",
+"href": "https://www.walkerforward.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.walkerforward.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.walkerforward.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.walkerforward.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.walkerforward.com/faq"
+},
+{
+"text": "News",
+"href": "https://www.walkerforward.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.walkerforward.com/privacy-policy"
+},
+{
+"text": "Signs",
+"href": "https://www.walkerforward.com/store/signs"
+},
+{
+"text": "Store",
+"href": "https://www.walkerforward.com/store"
+},
+{
+"text": "Volunteer",
+"href": "https://www.walkerforward.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.walkerforward.com/yard-sign"
+},
+{
+"text": "[image: Be Weird] [image: Walker-Forward-BeWeird.png] Be Weird $30.00",
+"href": "https://www.walkerforward.com/store/p/be-weird"
+},
+{
+"text": "[image: Ditch the Party. Vote for People.] [image: Walker-Forward-Yard-Sign-Ditch.png] Ditch the Party. Vote for People. $30.00",
+"href": "https://www.walkerforward.com/store/p/ditch-the-party-vote-for-people"
+},
+{
+"text": "[image: Good boots over Cheap Suits] [image: Walker-Forward-Yard-Sign-Boots.png] Good boots over Cheap Suits $30.00",
+"href": "https://www.walkerforward.com/store/p/good-boots-over-cheap-suits"
+},
+{
+"text": "[image: Honest beats Polished] [image: Walker-Forward-Yard-Sign-Honest.png] Honest beats Polished $30.00",
+"href": "https://www.walkerforward.com/store/p/honest-beats-polished"
+},
+{
+"text": "[image: More Andover in St. Paul] [image: Walker-Forward-Yard-Sign-Andover.png] More Andover in St. Paul $30.00",
+"href": "https://www.walkerforward.com/store/p/more-andover-in-st-paul"
+},
+{
+"text": "[image: More Ramsey Sign] [image: Walker-Forward-Yard-Sign-Ramsey.png] More Ramsey Sign $30.00",
+"href": "https://www.walkerforward.com/store/p/more-ramsey-sign"
+},
+{
+"text": "[image: Neighbors over Party] [image: Walker-Forward-Yard-Sign-Neighbors.png] Neighbors over Party $30.00",
+"href": "https://www.walkerforward.com/store/p/neighbors-over-party"
+},
+{
+"text": "[image: Plain spoken over Fast talking] [image: Walker-Forward-Yard-Sign-PlainSpoken.png] Plain spoken over Fast talking $30.00",
+"href": "https://www.walkerforward.com/store/p/plain-spoken-over-fast-talking"
+},
+{
+"text": "[image: Politics are too Political] [image: Walker-Forward-Yard-Sign-Political.png] Politics are too Political $30.00",
+"href": "https://www.walkerforward.com/store/p/politics-are-too-political"
+},
+{
+"text": "[image: Rebellious Alternative] [image: Walker Forward — Black Yard Sign 24x18.png] Rebellious Alternative $40.00",
+"href": "https://www.walkerforward.com/store/p/rebellious-alternative"
+},
+{
+"text": "[image: Standard Yard Sign] [image: Walker-Forward-Yard-Sign-Orange_24x48.png] Standard Yard Sign $0.00",
+"href": "https://www.walkerforward.com/store/p/standard-yard-sign"
+},
+{
+"text": "[image: Walker Forward]",
+"href": "https://www.walkerforward.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/brianwalkerforward"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/walker.forward"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "campaign@walkerforward.com",
+"href": "mailto:campaign@walkerforward.com"
+},
+{
+"text": "https://walkerforward.com/donate",
+"href": "https://walkerforward.com/donate"
+}
 ]

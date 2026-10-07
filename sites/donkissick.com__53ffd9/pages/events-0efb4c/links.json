@@ -1,13 +1,50 @@
 [
-"https://donkissick.com/",
-"https://donkissick.com/about-don-%26-james",
-"https://donkissick.com/contact-us",
-"https://donkissick.com/events",
-"https://donkissick.com/gallery",
-"https://donkissick.com/on-the-issues",
-"https://donkissick.com/press-releases",
-"https://donkissick.com/volunteer",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://libertarianswag.my-online.store/product/kissickmills-for-ohio",
-"https://secure.anedot.com/peoplefordonkissick/donate"
+{
+"text": "About Don & James",
+"href": "https://donkissick.com/about-don-%26-james"
+},
+{
+"text": "Contact Us",
+"href": "https://donkissick.com/contact-us"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/peoplefordonkissick/donate"
+},
+{
+"text": "Events",
+"href": "https://donkissick.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://donkissick.com/gallery"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://libertarianswag.my-online.store/product/kissickmills-for-ohio"
+},
+{
+"text": "GoDaddy",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "Home",
+"href": "https://donkissick.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://donkissick.com/on-the-issues"
+},
+{
+"text": "Press Releases",
+"href": "https://donkissick.com/press-releases"
+},
+{
+"text": "Volunteer",
+"href": "https://donkissick.com/volunteer"
+},
+{
+"text": "[image: Kissick/Mills for Ohio]",
+"href": "https://donkissick.com/"
+}
 ]

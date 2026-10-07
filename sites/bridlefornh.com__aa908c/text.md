@@ -1,15 +1,15 @@
-Proven experience for ALL of Hampton.
+0 Skip to Content Home The Issues Yard Sign Endorsements Donate Open Menu Close Menu Home The Issues Yard Sign Endorsements Donate Open Menu Close Menu Home The Issues Yard Sign Endorsements Donate Proven experience for ALL of Hampton.
 As the sole incumbent, Representative Nicholas Bridle has a track record of fighting for fiscal discipline, municipal authority, small business growth, and public safety solutions that put Hampton families first.
-Delivering results for Hampton families and businesses.
-- Fighting to keep state spending in check, oppose new taxes, and ensure Hampton taxpayers get the best value for their hard-earned dollars.
-- Empowering Hampton's local leaders and voters to make decisions about zoning, housing, and development that reflect our community's unique needs and values.
-- Advocating for robust state funding for tourism promotion, infrastructure investments, and business support to keep Hampton's economy thriving.
-- Ensuring our police, firefighters, and EMTs have the resources, training, and support they need to keep our community safe and healthy.
-- Safeguarding Hampton's beautiful coastline, pristine waters, and precious natural areas for generations to come.
-LEGISLATIVE PRIORITIES
-A hometown son, a dedicated public servant.
-ABOUT NICHOLAS
-Born and raised on Hampton Beach, Nicholas Bridle's deep commitment to his community has guided him from his early days balancing sports, school, and scouting in Boy Scouts Troop 177, to his groundbreaking work as Event Director for the Hampton Beach Seafood Festival and Annual Hampton Holiday Parade.
+The Issues Donate “ The work is worth it.
+Whether it’s standing up for local control, supporting our first responders, or driving economic opportunity, I’m not afraid to roll up my sleeves and do the work.
+Then I bring those results back with me to the Seacoast. ” — NH STATE REPRESENTATIVE NICHOLAS D BRIDLE Delivering results for Hampton families and businesses.
+Fiscal Discipline & Taxpayer Protection Fighting to keep state spending in check, oppose new taxes, and ensure Hampton taxpayers get the best value for their hard-earned dollars.
+Local Control & Municipal Flexibility Empowering Hampton's local leaders and voters to make decisions about zoning, housing, and development that reflect our community's unique needs and values.
+Supporting New Hampshire's Tourism Economy Advocating for robust state funding for tourism promotion, infrastructure investments, and business support to keep Hampton's economy thriving.
+Public Safety & First Responder Support Ensuring our police, firefighters, and EMTs have the resources, training, and support they need to keep our community safe and healthy.
+Protecting Our Natural Resources Safeguarding Hampton's beautiful coastline, pristine waters, and precious natural areas for generations to come.
+LEGISLATIVE PRIORITIES A hometown son, a dedicated public servant.
+ABOUT NICHOLAS Born and raised on Hampton Beach, Nicholas Bridle's deep commitment to his community has guided him from his early days balancing sports, school, and scouting in Boy Scouts Troop 177, to his groundbreaking work as Event Director for the Hampton Beach Seafood Festival and Annual Hampton Holiday Parade.
 After graduating from Winnacunnet High in 2002, Nicholas's journey took him from Boston to Raleigh, where he earned a degree in Criminal Justice and Emergency Management and began his career as a Probation/Parole Officer.
 But Hampton always called him home.
 In 2015, Nicholas returned, winning a seat on the Hampton Municipal Budget Committee and becoming an emergency dispatcher with the Derry Fire Department.
@@ -20,3 +20,4 @@ For over 15 years, Nicholas has served his community - as a first responder, pub
 That experience shapes every vote he casts.
 Whether organizing events, answering 9-1-1 calls, or fighting for Hampton's priorities, Nicholas brings the same commitment to putting all Hampton families first.
 His advocacy extends beyond Hampton, working for the entire Seacoast and more.
+New Hampshire State Representative Nicholas Bridle ”…for ALL of Hampton” nicholas.bridle@gc.nh.gov 603.777.7587 NH State Representative Nicholas D Bridle

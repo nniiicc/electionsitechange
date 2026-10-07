@@ -1,3 +1,6 @@
+0 Skip to Content Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
+Open Menu Close Menu Home Meet Amy 2026 Listening Tour Priorities Endorsements Volunteer Media CONTRIBUTE to DO.MORE.GOOD.
 Hi!
 I’m Amy Taylor North.
 So glad you’re here!
@@ -16,3 +19,10 @@ North Carolina is the most beautiful place to live, work, and raise a family.
 And while things are rough right now, folks here understand the importance of looking out for their neighbors.
 Now, I’m doubling down to help build a safer, better West Forsyth County.
 With your help we can DO.MORE.GOOD. locally and throughout North Carolina!
+“VOTE for AMY.
+She'll represent us well.
+Jeff Zenger has damaged our community for years, putting his own land developer interests first.
+He took $1.8M from Lewisville taxpayers!
+Our small town could have used those dollars to Do.MORE.Good.
+Send Zenger packing. ” Martin Slominski, Lewisville resident NORTH for NC 6255 Town Center Drive Suite 650 Clemmons, NC 27012 CONTRIBUTE to Do.More.Good.
+Paid for by North for North Carolina.

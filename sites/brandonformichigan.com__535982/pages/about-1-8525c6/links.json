@@ -1,17 +1,86 @@
 [
-"https://brandonformichigan.com/",
-"https://brandonformichigan.com/blank-1",
-"https://ctvmichigan.org/",
-"https://facebook.com/brandonformichigan",
-"https://instagram.com/brandonformichigan",
-"https://mcrgo.org/mcrgopac",
-"https://michamber.com/about/news",
-"https://michfb.com/endorsements",
-"https://michiganfirearmsassociation.org/elections",
-"https://nrapvf.org/grades/michigan",
-"https://retailers.com/news/mra-names-126-candidates-as-friends-of-retail",
-"https://rtl.org/",
-"https://secure.winred.com/brandon-strong-committee-to-elect/donate-today",
-"https://wix.com/",
-"https://x.com/wix"
+{
+"text": "Accessibility",
+"href": "https://www.brandonformichigan.com/blank-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brandon-strong-committee-to-elect/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Events",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Home",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "Meet Brandon",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Agripac]",
+"href": "https://www.michfb.com/endorsements"
+},
+{
+"text": "[image: CTV Image]",
+"href": "https://www.ctvmichigan.org/"
+},
+{
+"text": "[image: Campaign Logo Main]",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Campaign Logo]",
+"href": "https://www.brandonformichigan.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brandonformichigan"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brandonformichigan/"
+},
+{
+"text": "[image: Mfa.webp]",
+"href": "https://www.michiganfirearmsassociation.org/elections/"
+},
+{
+"text": "[image: NRA PVF.png]",
+"href": "https://www.nrapvf.org/grades/michigan/"
+},
+{
+"text": "[image: RTL Image]",
+"href": "https://rtl.org/"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://mcrgo.org/mcrgopac/"
+},
+{
+"text": "[image]",
+"href": "https://www.michamber.com/about/news/"
+},
+{
+"text": "[image]",
+"href": "https://www.retailers.com/news/mra-names-126-candidates-as-friends-of-retail"
+},
+{
+"text": "[no text]",
+"href": "https://www.wix.com"
+},
+{
+"text": "brandon@brandonformichigan.com",
+"href": "mailto:info@mysite.com"
+}
 ]

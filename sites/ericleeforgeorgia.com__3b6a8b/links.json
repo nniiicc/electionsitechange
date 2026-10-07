@@ -1,16 +1,86 @@
 [
-"https://ericleeforgeorgia.com/",
-"https://ericleeforgeorgia.com/about.html",
-"https://ericleeforgeorgia.com/priorities.html",
-"https://ericleeforgeorgia.com/privacy.html",
-"https://ericleeforgeorgia.com/terms.html",
-"https://ericleeforgeorgia.com/volunteer.html",
-"https://facebook.com/EricLeeForGeorgia",
-"https://instagram.com/EricLeeForGeorgia",
-"https://secure.actblue.com/donate/leefundraiser",
-"https://secure.actblue.com/donate/leefundraiser?amount=10",
-"https://secure.actblue.com/donate/leefundraiser?amount=100",
-"https://secure.actblue.com/donate/leefundraiser?amount=25",
-"https://secure.actblue.com/donate/leefundraiser?amount=250",
-"https://x.com/ericleeforga"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/leefundraiser?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/leefundraiser?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/leefundraiser?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/leefundraiser?amount=250"
+},
+{
+"text": "About",
+"href": "https://ericleeforgeorgia.com/about.html"
+},
+{
+"text": "Affordability",
+"href": "https://ericleeforgeorgia.com/priorities.html"
+},
+{
+"text": "Community",
+"href": "https://ericleeforgeorgia.com/priorities.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leefundraiser"
+},
+{
+"text": "Home",
+"href": "https://ericleeforgeorgia.com/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/leefundraiser"
+},
+{
+"text": "Opportunity",
+"href": "https://ericleeforgeorgia.com/priorities.html"
+},
+{
+"text": "Priorities",
+"href": "https://ericleeforgeorgia.com/priorities.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ericleeforgeorgia.com/privacy.html"
+},
+{
+"text": "Terms of Use",
+"href": "https://ericleeforgeorgia.com/terms.html"
+},
+{
+"text": "Volunteer",
+"href": "https://ericleeforgeorgia.com/volunteer.html"
+},
+{
+"text": "[image: Eric Lee for Georgia State Senate]",
+"href": "https://ericleeforgeorgia.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/EricLeeForGeorgia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/EricLeeForGeorgia"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/ericleeforga"
+},
+{
+"text": "[image] info@ericleeforgeorgia.com",
+"href": "mailto:info@ericleeforsenate.com"
+},
+{
+"text": "info@ericleeforgeorgia.com",
+"href": "mailto:info@ericleeforsenate.com"
+}
 ]

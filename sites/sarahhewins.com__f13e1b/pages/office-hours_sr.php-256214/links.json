@@ -1,8 +1,30 @@
 [
-"https://sarahhewins.com/experience_sr.php",
-"https://sarahhewins.com/get_involved_sr.php",
-"https://sarahhewins.com/i-care-about_sr.php",
-"https://sarahhewins.com/index.php",
-"https://sarahhewins.com/meet_sarah_sr.php",
-"https://sarahhewins.com/platform_sr.php"
+{
+"text": "Experience",
+"href": "https://www.sarahhewins.com/experience_sr.php"
+},
+{
+"text": "Get Involved!",
+"href": "https://www.sarahhewins.com/get_involved_sr.php"
+},
+{
+"text": "I Care About...",
+"href": "https://www.sarahhewins.com/i-care-about_sr.php"
+},
+{
+"text": "Meet Sarah",
+"href": "https://www.sarahhewins.com/meet_sarah_sr.php"
+},
+{
+"text": "Sarah Hewins",
+"href": "https://www.sarahhewins.com/index.php"
+},
+{
+"text": "Sarah's Platform",
+"href": "https://www.sarahhewins.com/platform_sr.php"
+},
+{
+"text": "Send Sarah an email",
+"href": "mailto:sgh@sarahhewins.com?cc=scd%40stevedewhurst.com&subject=Request+for+meeting&body=Please+provide+the+following+information+so+Sarah+can+prepare+for+your+meeting.My+name+is%3ARequested+date%3ARequested+time%3ALocation+%28Zoom+or+a+local+location+in+Carver%2C+Middleborough%2C+or+Wareham%29%3AI+want+to+discuss%3A"
+}
 ]

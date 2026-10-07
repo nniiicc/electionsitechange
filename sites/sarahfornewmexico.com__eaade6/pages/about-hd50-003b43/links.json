@@ -1,17 +1,66 @@
 [
-"https://bsky.app/profile/sarahfornm.bsky.social",
-"https://facebook.com/SarahforNM",
-"https://instagram.com/sarahfornm",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fballotpedia.org%2FNew_Mexico_House_of_Representatives_District_50%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbmZBWWlkUHNGcWVvdUJwNAEenOPn3q0T0ZJEY_9Kvh87xv4nGQEl2T3mcYl-MranZFXKzquHsV3Nt4yqaCg_aem_lJa00Xe_QJzhtcQxActeMA&h=AT2pjcdkZWaSRNnrrLLJ92doa_Fkp8D9XSklCH3IbYLd-go2kLIVfpJMyRgFweXY-UkNBy1VyIgrmLgYwY7g-itRkGU8gk2NThiZdXC782R_FhmQOgiF8NSX6m5uVAR_n08CBQcN3FcIwxM&__tn__=-UK-R&c%5B0%5D=AT2C6tFmeRsjCNQO9qo9ZZXU9bZeFyUaAvtMlqJpgRpVcd6yxdBN97wJoJ3fWMJU_HbDFMZICyrOBAAtVJ1evGGzgIMVxRsPvKtwQN-nx_estkYVcd41pRNVP-Ld7jeOQFQ-GqNMa7p9uM1d0osbl1lHjIRi0e5h53uD7_VCJG8",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sos.nm.gov%2Fvoting-and-elections%2Fdata-and-maps%2Fhouse-district-maps%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbmZBWWlkUHNGcWVvdUJwNAEeLqpOXpIbr404o4NguamOmbvbeE9zwsNjhTGSwahhpI443tiWteHWaf0cXP8_aem_xKiK-c8wUnl8A1NACoy8_A&h=AT2ZR94wDzwti4_gvEKsDSWYPNcQ2nCibcSJJflcKRv0-T1GhL0Ixes8fke9CmgbpABDBXIdNPB7MPOC4Ixzs0P209cUypYMpS7efaMCLPnhwo4xwXWIzb7v9WKHe-z8vFe9d__oBBcxN2g&__tn__=-UK-R&c%5B0%5D=AT2C6tFmeRsjCNQO9qo9ZZXU9bZeFyUaAvtMlqJpgRpVcd6yxdBN97wJoJ3fWMJU_HbDFMZICyrOBAAtVJ1evGGzgIMVxRsPvKtwQN-nx_estkYVcd41pRNVP-Ld7jeOQFQ-GqNMa7p9uM1d0osbl1lHjIRi0e5h53uD7_VCJG8",
-"https://sarahfornewmexico.com/",
-"https://sarahfornewmexico.com/about",
-"https://sarahfornewmexico.com/about-hd50",
-"https://sarahfornewmexico.com/about-sarah",
-"https://sarahfornewmexico.com/contribute",
-"https://sarahfornewmexico.com/endorsements",
-"https://sarahfornewmexico.com/get-in-touch",
-"https://sarahfornewmexico.com/priorities",
-"https://sarahfornewmexico.com/voting-info",
-"https://secure.numero.ai/contribute/sarahfornewmexico"
+{
+"text": "About",
+"href": "https://sarahfornewmexico.com/about"
+},
+{
+"text": "About House District 50",
+"href": "https://sarahfornewmexico.com/about-hd50"
+},
+{
+"text": "About Sarah",
+"href": "https://sarahfornewmexico.com/about-sarah"
+},
+{
+"text": "Contribute",
+"href": "https://sarahfornewmexico.com/contribute"
+},
+{
+"text": "DONATe",
+"href": "https://secure.numero.ai/contribute/sarahfornewmexico"
+},
+{
+"text": "Endorsements",
+"href": "https://sarahfornewmexico.com/endorsements"
+},
+{
+"text": "Get In Touch",
+"href": "https://sarahfornewmexico.com/get-in-touch"
+},
+{
+"text": "Home",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "Link here to view a higher resolution version of this map.",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sos.nm.gov%2Fvoting-and-elections%2Fdata-and-maps%2Fhouse-district-maps%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbmZBWWlkUHNGcWVvdUJwNAEeLqpOXpIbr404o4NguamOmbvbeE9zwsNjhTGSwahhpI443tiWteHWaf0cXP8_aem_xKiK-c8wUnl8A1NACoy8_A&h=AT2ZR94wDzwti4_gvEKsDSWYPNcQ2nCibcSJJflcKRv0-T1GhL0Ixes8fke9CmgbpABDBXIdNPB7MPOC4Ixzs0P209cUypYMpS7efaMCLPnhwo4xwXWIzb7v9WKHe-z8vFe9d__oBBcxN2g&__tn__=-UK-R&c%5B0%5D=AT2C6tFmeRsjCNQO9qo9ZZXU9bZeFyUaAvtMlqJpgRpVcd6yxdBN97wJoJ3fWMJU_HbDFMZICyrOBAAtVJ1evGGzgIMVxRsPvKtwQN-nx_estkYVcd41pRNVP-Ld7jeOQFQ-GqNMa7p9uM1d0osbl1lHjIRi0e5h53uD7_VCJG8"
+},
+{
+"text": "Priorities",
+"href": "https://sarahfornewmexico.com/priorities"
+},
+{
+"text": "This link has information about the changes to House District 50 in the last redistricting.",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fballotpedia.org%2FNew_Mexico_House_of_Representatives_District_50%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExbmZBWWlkUHNGcWVvdUJwNAEenOPn3q0T0ZJEY_9Kvh87xv4nGQEl2T3mcYl-MranZFXKzquHsV3Nt4yqaCg_aem_lJa00Xe_QJzhtcQxActeMA&h=AT2pjcdkZWaSRNnrrLLJ92doa_Fkp8D9XSklCH3IbYLd-go2kLIVfpJMyRgFweXY-UkNBy1VyIgrmLgYwY7g-itRkGU8gk2NThiZdXC782R_FhmQOgiF8NSX6m5uVAR_n08CBQcN3FcIwxM&__tn__=-UK-R&c%5B0%5D=AT2C6tFmeRsjCNQO9qo9ZZXU9bZeFyUaAvtMlqJpgRpVcd6yxdBN97wJoJ3fWMJU_HbDFMZICyrOBAAtVJ1evGGzgIMVxRsPvKtwQN-nx_estkYVcd41pRNVP-Ld7jeOQFQ-GqNMa7p9uM1d0osbl1lHjIRi0e5h53uD7_VCJG8"
+},
+{
+"text": "Voting Info",
+"href": "https://sarahfornewmexico.com/voting-info"
+},
+{
+"text": "[image: Sarah Boses logo]",
+"href": "https://sarahfornewmexico.com/"
+},
+{
+"text": "[tooltip: Go to Bluesky page]",
+"href": "https://bsky.app/profile/sarahfornm.bsky.social"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/SarahforNM"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/sarahfornm/"
+}
 ]

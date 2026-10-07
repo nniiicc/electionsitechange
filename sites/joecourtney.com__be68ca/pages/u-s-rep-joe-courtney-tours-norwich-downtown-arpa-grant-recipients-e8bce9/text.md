@@ -1,6 +1,7 @@
-Rep.
-Joe Courtney recently visited Norwich to see how the city and its small businesses planned to utilize the $1.37 million in federal American Rescue Plan grants to support economic development
-Norwich ― Starting at the former Elks Club at one end of Main Street and ending on Broadway in front of City Hall, U.S.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News August 5, 2022 U.S.
+REP.
+JOE COURTNEY TOURS NORWICH DOWNTOWN ARPA GRANT RECIPIENTS Rep.
+Joe Courtney recently visited Norwich to see how the city and its small businesses planned to utilize the $1.37 million in federal American Rescue Plan grants to support economic development Norwich ― Starting at the former Elks Club at one end of Main Street and ending on Broadway in front of City Hall, U.S.
 Rep.
 Joe Courtney got a closeup look Thursday of how the city has awarded $1.37 million in federal American Rescue Plan Act grants to support economic development.
 Inside the former Elks Club building, the historic Greek Revival home of John F.
@@ -11,8 +12,7 @@ Several rooms and suites, to be priced at $100 to $500 per night, already have k
 Hallways are painted with broad horizontal black stripes.
 Joining Courtney and his Second District Director Ayanti Grant on the tour were Norwich Community Development Corp.
 President Kevin Brown, City Council President Pro Tempore Joseph DeLucia, City Manager John Salomone and Director of Planning and Development Deanna Rhodes.
-Patel told the group he expects the hotel to be successful as a family-run, independent, non-chain operation, especially “once Preston Riverwalk gets going.”
-Mohegan Gaming & Entertainment is scheduled to develop the nearly 400-acre former Norwich Hospital property in Preston once that town completes the environmental cleanup.
+Patel told the group he expects the hotel to be successful as a family-run, independent, non-chain operation, especially “once Preston Riverwalk gets going.” Mohegan Gaming & Entertainment is scheduled to develop the nearly 400-acre former Norwich Hospital property in Preston once that town completes the environmental cleanup.
 The hotel received a $165,283 ARPA grant through NCDC for building code corrections in the former Elks building.
 Patel estimated the hotel development cost at $450,000.
 Standing in one hotel room, Brown asked Courtney to look out the large front window to the former YMCA across the street.
@@ -34,3 +34,4 @@ After the tour, Courtney said Norwich has made “great decisions” on how to u
 He said naming NCDC as the lead agency was “really smart,” because the agency can maintain close contact with developers and building owners in the city.
 Brown said the downtown improvements should become visible very soon.
 “Come see us in eight months, and there will be a business in there, a business in there and a business in there,” Brown said, pointing to now-vacant space on lower Broadway.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

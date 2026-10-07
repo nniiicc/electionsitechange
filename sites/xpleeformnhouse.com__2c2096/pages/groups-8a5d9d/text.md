@@ -1,9 +1,10 @@
-This post is from a suggested group
-25 Views
-top of page
-View groups and posts below.
-Welcome to our group Xp Lee Supporters!
+top of page Xp Lee for MN House Home Groups Notifications Notifications Log In Donate Groups Feed View groups and posts below.
+Search Suggested Groups Xp Lee Supporters 2 Supporters Join This post is from a suggested group Join Xp Lee July 12, 2026 · added a group cover image.
+0 0 Comments 26 Views Write a comment...
+Write a comment...
+This post is from a suggested group Join Xp Lee July 11, 2026 · posted in Xp Lee Supporters Welcome to our group Xp Lee Supporters !
 A space for us to connect and share with each other.
 Start by posting your thoughts, sharing media, or creating a poll.
-15 Views
-bottom of page
+0 0 Comments 16 Views Write a comment...
+Write a comment...
+Donate Contact Xp Lee for MN House PO Box 43758 Brooklyn Park, MN 55443 Email: xpleeformnhouse@gmail.com ​ Phone: 612-405-0510 Facebook Follow Email * Yes, subscribe me to your newsletter. * Subscribe © Prepared and paid for by Xp Lee for MN House Powered and secured by Wix bottom of page

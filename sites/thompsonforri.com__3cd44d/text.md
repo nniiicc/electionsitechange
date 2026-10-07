@@ -1,17 +1,11 @@
-During his first term in the Rhode Island Senate, Brian fought tirelessly for worker’s rights, championed proper funding of public education, advocated for openness and transparency in government, and has been deeply committed to and involved in all facets of the community.
-Brian currently serves as Secretary of the Senate Committee on Labor & Gaming and is a member of the Senate Committee on Health & Human Services as well as a member of the Senate Finance Committee.
+0 Skip to Content Home News About Contact Donate Open Menu Close Menu Home News About Contact Donate Open Menu Close Menu Home News About Contact Donate During his first term in the Rhode Island Senate, Brian fought tirelessly for worker’s rights, championed proper funding of public education, advocated for openness and transparency in government, and has been deeply committed to and involved in all facets of the community.
+Brian currently serves as Secretary of the Senate Committee on Labor​ & Gaming and is a member of the Senate Committee on Health & Human Services as well as a member of the Senate Finance Committee.
 During his first term as State Senator, Brian delivered.
-- Passed a bill in the Senate to increase the number of primary care providers by increasing training programs for primary care, trauma care, maternal health, and substance abuse treatment.
+Passed a bill in the Senate to increase the number of primary care providers by increasing training programs for primary care, trauma care, maternal health, and substance abuse treatment.
 This bill was part of the Senate Leadership Healthcare Package to address health care accessibility.
-- Passed a bill into law to address the vile crime of human trafficking by requiring training for commercial truck drivers to be able to recognize and report human trafficking. y
-- Passed a bill into law to ensure that homeowners are protected from negligent contractors or people passing themselves off as contractors by monitoring who is registering to become a licensed contractor.
-- Passed a bill into law to protect the safety and well-being of construction workers that closed a loophole preventing exit of a closed work site during emergency.
+Passed a bill into law to address the vile crime of human trafficking by requiring training for commercial truck drivers to be able to recognize and report human trafficking. y Passed a bill into law to ensure that homeowners are protected from negligent contractors or people passing themselves off as contractors by monitoring who is registering to become a licensed contractor.
+Passed a bill into law to protect the safety and well-being of construction workers that closed a loophole preventing exit of a closed work site during emergency.
 As your Senator, Brian is committed to fighting for you.
-- Will work to increase state funding for Woonsocket and Cumberland public schools, students and teachers
-- Will put more money in your pocket by supporting increased child tax credits, eliminations of income taxes on social security and pensions, and increased paid family leave, and more accessible, affordable child care
-- Fight for policies that support public safety and keep our community safe
-- Support opportunities for economic growth, including job training programs to connect workers with employers in need of skilled labor
-- Continue to support small businesses by cutting unnecessary red tape
-- Implement stricter laws that protect our most vulnerable from abuse - including seniors, individuals with disabilities, domestic abuse victims, and animals.
+Will work to increase state funding for Woonsocket and Cumberland public schools, students and teachers Will put more money in your pocket by supporting increased child tax credits, eliminations of income taxes on social security and pensions, and increased paid family leave, and more accessible, affordable child care Fight for policies that support public safety and keep our community safe Support opportunities for economic growth, including job training programs to connect workers with employers in need of skilled labor Continue to support small businesses by cutting unnecessary red tape Implement stricter laws that protect our most vulnerable from abuse - including seniors, individuals with disabilities, domestic abuse victims, and animals.
 Who Supports Brian Thompson?
-Brian is proud to have the endorsement of these organizations and many others.
+Brian is proud to have the endorsement of these organizations and many others. contact donate Paid for by Friends of Brian Thompson (401) 601-1888

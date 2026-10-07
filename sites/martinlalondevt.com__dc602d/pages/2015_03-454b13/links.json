@@ -1,154 +1,650 @@
 [
-"http://burlingtonfreepress.com/story/news/politics/2015/03/29/shumlin-budget-cap-struggle/70565596",
-"http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0221/H-0221%20As%20Introduced.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0483/H-0483%20As%20Introduced.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0489/H-0489%20As%20Introduced.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0490/H-0490%20As%20Introduced.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/S-0013/S-0013%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.105/Drafts,%20Summaries%20and%20Amendments/H.105~Michele%20Childs~As%20Passed%20House%20Judiciary-Draft%20No.%205.1%20Strikeall~3-11-2015.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.105/Drafts,%20Summaries%20and%20Amendments/H.105~Rep%20Donahue~Amendment~3-17-2015.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.120/Drafts,%20Summaries%20and%20Amendments/H.120~Luke%20Martland~As%20Passed%20by%20House%20Judiciary~2-27-2015.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.35/Drafts,%20Summaries%20and%20Amendments/H.35~Michael%20O'Grady~Draft%20No.%201.2%20Section%2017-Approved%20by%20Committee~3-18-2015.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.95/Drafts,%20Summaries%20and%20Amendments/H.95~Michele%20Childs~Draft%20No.%206.1%20Strikeall~3-12-2015.pdf",
-"http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Natural%20Resources/Bills/H.40/Draft,%20Summaries%20and%20Amendments/H.40~Aaron%20Adler~Draft%20No.%203.1%20(2-50pm),%202-13-2015~2-17-2015.pdf",
-"http://vtaffordablehousing.org/news/2013/10/emergency-board-allocates-2-1-million-more-for-liheap",
-"https://martinlalonde.wordpress.com/",
-"https://martinlalondevt.com/",
-"https://martinlalondevt.com/2014/06",
-"https://martinlalondevt.com/2014/10",
-"https://martinlalondevt.com/2014/12",
-"https://martinlalondevt.com/2015/01",
-"https://martinlalondevt.com/2015/02",
-"https://martinlalondevt.com/2015/03",
-"https://martinlalondevt.com/2015/03/02/town-meeting-day-2015",
-"https://martinlalondevt.com/2015/03/13/false-claims-and-young-dems",
-"https://martinlalondevt.com/2015/03/13/my-fourth-legislative-update-for-the-other-paper",
-"https://martinlalondevt.com/2015/03/21/judiciary-committee-update",
-"https://martinlalondevt.com/2015/03/30/appropriations-and-revenue-bills",
-"https://martinlalondevt.com/2015/03/egislature.vermont.gov/assets/Documents/2016/Docs/BILLS/S-0009/S-0009%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf",
-"https://martinlalondevt.com/2015/04",
-"https://martinlalondevt.com/2015/05",
-"https://martinlalondevt.com/2015/06",
-"https://martinlalondevt.com/2015/07",
-"https://martinlalondevt.com/2015/08",
-"https://martinlalondevt.com/2015/09",
-"https://martinlalondevt.com/2015/10",
-"https://martinlalondevt.com/2015/11",
-"https://martinlalondevt.com/2015/12",
-"https://martinlalondevt.com/2016/01",
-"https://martinlalondevt.com/2016/02",
-"https://martinlalondevt.com/2016/03",
-"https://martinlalondevt.com/2016/04",
-"https://martinlalondevt.com/2016/05",
-"https://martinlalondevt.com/2016/06",
-"https://martinlalondevt.com/2016/07",
-"https://martinlalondevt.com/2016/08",
-"https://martinlalondevt.com/2016/09",
-"https://martinlalondevt.com/2016/10",
-"https://martinlalondevt.com/2016/11",
-"https://martinlalondevt.com/2016/12",
-"https://martinlalondevt.com/2017/01",
-"https://martinlalondevt.com/2017/02",
-"https://martinlalondevt.com/2017/03",
-"https://martinlalondevt.com/2017/04",
-"https://martinlalondevt.com/2017/05",
-"https://martinlalondevt.com/2017/06",
-"https://martinlalondevt.com/2017/07",
-"https://martinlalondevt.com/2017/08",
-"https://martinlalondevt.com/2017/09",
-"https://martinlalondevt.com/2017/10",
-"https://martinlalondevt.com/2017/11",
-"https://martinlalondevt.com/2017/12",
-"https://martinlalondevt.com/2018/01",
-"https://martinlalondevt.com/2018/02",
-"https://martinlalondevt.com/2018/03",
-"https://martinlalondevt.com/2018/04",
-"https://martinlalondevt.com/2018/05",
-"https://martinlalondevt.com/2018/06",
-"https://martinlalondevt.com/2018/07",
-"https://martinlalondevt.com/2018/08",
-"https://martinlalondevt.com/2018/09",
-"https://martinlalondevt.com/2018/10",
-"https://martinlalondevt.com/2018/11",
-"https://martinlalondevt.com/2018/12",
-"https://martinlalondevt.com/2019/01",
-"https://martinlalondevt.com/2019/02",
-"https://martinlalondevt.com/2019/03",
-"https://martinlalondevt.com/2019/04",
-"https://martinlalondevt.com/2019/05",
-"https://martinlalondevt.com/2019/06",
-"https://martinlalondevt.com/2019/07",
-"https://martinlalondevt.com/2019/08",
-"https://martinlalondevt.com/2019/09",
-"https://martinlalondevt.com/2019/10",
-"https://martinlalondevt.com/2019/11",
-"https://martinlalondevt.com/2019/12",
-"https://martinlalondevt.com/2020/01",
-"https://martinlalondevt.com/2020/02",
-"https://martinlalondevt.com/2020/03",
-"https://martinlalondevt.com/2020/04",
-"https://martinlalondevt.com/2020/05",
-"https://martinlalondevt.com/2020/06",
-"https://martinlalondevt.com/2020/09",
-"https://martinlalondevt.com/2020/10",
-"https://martinlalondevt.com/2021/02",
-"https://martinlalondevt.com/2021/03",
-"https://martinlalondevt.com/2021/04",
-"https://martinlalondevt.com/2021/05",
-"https://martinlalondevt.com/2021/06",
-"https://martinlalondevt.com/2021/07",
-"https://martinlalondevt.com/2021/08",
-"https://martinlalondevt.com/2021/10",
-"https://martinlalondevt.com/2021/12",
-"https://martinlalondevt.com/2022/01",
-"https://martinlalondevt.com/2022/02",
-"https://martinlalondevt.com/2022/03",
-"https://martinlalondevt.com/2022/04",
-"https://martinlalondevt.com/2022/05",
-"https://martinlalondevt.com/2022/06",
-"https://martinlalondevt.com/2023/02",
-"https://martinlalondevt.com/2023/03",
-"https://martinlalondevt.com/2023/04",
-"https://martinlalondevt.com/2023/05",
-"https://martinlalondevt.com/2023/06",
-"https://martinlalondevt.com/2023/07",
-"https://martinlalondevt.com/2023/09",
-"https://martinlalondevt.com/2023/11",
-"https://martinlalondevt.com/2023/12",
-"https://martinlalondevt.com/2024/01",
-"https://martinlalondevt.com/2024/02",
-"https://martinlalondevt.com/2024/03",
-"https://martinlalondevt.com/2024/04",
-"https://martinlalondevt.com/2024/05",
-"https://martinlalondevt.com/2024/10",
-"https://martinlalondevt.com/2024/12",
-"https://martinlalondevt.com/2025/01",
-"https://martinlalondevt.com/2025/02",
-"https://martinlalondevt.com/2025/03",
-"https://martinlalondevt.com/2025/04",
-"https://martinlalondevt.com/2025/05",
-"https://martinlalondevt.com/2025/07",
-"https://martinlalondevt.com/2025/10",
-"https://martinlalondevt.com/2025/12",
-"https://martinlalondevt.com/2026/01",
-"https://martinlalondevt.com/2026/02",
-"https://martinlalondevt.com/2026/03",
-"https://martinlalondevt.com/2026/04",
-"https://martinlalondevt.com/2026/06",
-"https://martinlalondevt.com/about",
-"https://martinlalondevt.com/author/martinlalonde",
-"https://martinlalondevt.com/contact-me",
-"https://martinlalondevt.com/statehouse-photos",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/other-paper-march-12-2015-1.jpg",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/other-paper-march-12-2015-2.jpg",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/page-0.jpg",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/page-1.jpg",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/page-2.jpg",
-"https://martinlalondevt.com/wp-content/uploads/2015/03/page-3.jpg",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fmartinlalondevt.com",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmartinlalondevt.com%252F2015%252F03%252F30%252Fappropriations-and-revenue-bills%252F",
-"https://wordpress.com/reader/feeds/21974427",
-"https://wordpress.com/start"
+{
+"text": "About Martin LaLonde",
+"href": "https://martinlalondevt.com/about/"
+},
+{
+"text": "Appropriations and Revenue Bills",
+"href": "https://martinlalondevt.com/2015/03/30/appropriations-and-revenue-bills/"
+},
+{
+"text": "April 2015",
+"href": "https://martinlalondevt.com/2015/04/"
+},
+{
+"text": "April 2016",
+"href": "https://martinlalondevt.com/2016/04/"
+},
+{
+"text": "April 2017",
+"href": "https://martinlalondevt.com/2017/04/"
+},
+{
+"text": "April 2018",
+"href": "https://martinlalondevt.com/2018/04/"
+},
+{
+"text": "April 2019",
+"href": "https://martinlalondevt.com/2019/04/"
+},
+{
+"text": "April 2020",
+"href": "https://martinlalondevt.com/2020/04/"
+},
+{
+"text": "April 2021",
+"href": "https://martinlalondevt.com/2021/04/"
+},
+{
+"text": "April 2022",
+"href": "https://martinlalondevt.com/2022/04/"
+},
+{
+"text": "April 2023",
+"href": "https://martinlalondevt.com/2023/04/"
+},
+{
+"text": "April 2024",
+"href": "https://martinlalondevt.com/2024/04/"
+},
+{
+"text": "April 2025",
+"href": "https://martinlalondevt.com/2025/04/"
+},
+{
+"text": "April 2026",
+"href": "https://martinlalondevt.com/2026/04/"
+},
+{
+"text": "August 2015",
+"href": "https://martinlalondevt.com/2015/08/"
+},
+{
+"text": "August 2016",
+"href": "https://martinlalondevt.com/2016/08/"
+},
+{
+"text": "August 2017",
+"href": "https://martinlalondevt.com/2017/08/"
+},
+{
+"text": "August 2018",
+"href": "https://martinlalondevt.com/2018/08/"
+},
+{
+"text": "August 2019",
+"href": "https://martinlalondevt.com/2019/08/"
+},
+{
+"text": "August 2021",
+"href": "https://martinlalondevt.com/2021/08/"
+},
+{
+"text": "Blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Cleaning Vermont’s Waters",
+"href": "https://martinlalondevt.com/2015/03/13/my-fourth-legislative-update-for-the-other-paper/"
+},
+{
+"text": "Contact me",
+"href": "https://martinlalondevt.com/contact-me/"
+},
+{
+"text": "December 2014",
+"href": "https://martinlalondevt.com/2014/12/"
+},
+{
+"text": "December 2015",
+"href": "https://martinlalondevt.com/2015/12/"
+},
+{
+"text": "December 2016",
+"href": "https://martinlalondevt.com/2016/12/"
+},
+{
+"text": "December 2017",
+"href": "https://martinlalondevt.com/2017/12/"
+},
+{
+"text": "December 2018",
+"href": "https://martinlalondevt.com/2018/12/"
+},
+{
+"text": "December 2019",
+"href": "https://martinlalondevt.com/2019/12/"
+},
+{
+"text": "December 2021",
+"href": "https://martinlalondevt.com/2021/12/"
+},
+{
+"text": "December 2023",
+"href": "https://martinlalondevt.com/2023/12/"
+},
+{
+"text": "December 2024",
+"href": "https://martinlalondevt.com/2024/12/"
+},
+{
+"text": "December 2025",
+"href": "https://martinlalondevt.com/2025/12/"
+},
+{
+"text": "Emergency Board",
+"href": "http://www.vtaffordablehousing.org/news/2013/10/emergency-board-allocates-2-1-million-more-for-liheap/"
+},
+{
+"text": "False Claims and Young Dems",
+"href": "https://martinlalondevt.com/2015/03/13/false-claims-and-young-dems/"
+},
+{
+"text": "February 2015",
+"href": "https://martinlalondevt.com/2015/02/"
+},
+{
+"text": "February 2016",
+"href": "https://martinlalondevt.com/2016/02/"
+},
+{
+"text": "February 2017",
+"href": "https://martinlalondevt.com/2017/02/"
+},
+{
+"text": "February 2018",
+"href": "https://martinlalondevt.com/2018/02/"
+},
+{
+"text": "February 2019",
+"href": "https://martinlalondevt.com/2019/02/"
+},
+{
+"text": "February 2020",
+"href": "https://martinlalondevt.com/2020/02/"
+},
+{
+"text": "February 2021",
+"href": "https://martinlalondevt.com/2021/02/"
+},
+{
+"text": "February 2022",
+"href": "https://martinlalondevt.com/2022/02/"
+},
+{
+"text": "February 2023",
+"href": "https://martinlalondevt.com/2023/02/"
+},
+{
+"text": "February 2024",
+"href": "https://martinlalondevt.com/2024/02/"
+},
+{
+"text": "February 2025",
+"href": "https://martinlalondevt.com/2025/02/"
+},
+{
+"text": "February 2026",
+"href": "https://martinlalondevt.com/2026/02/"
+},
+{
+"text": "Follow Vermont State House Representative Martin LaLonde on WordPress.com",
+"href": "https://martinlalondevt.com"
+},
+{
+"text": "H.105",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.105/Drafts,%20Summaries%20and%20Amendments/H.105~Michele%20Childs~As%20Passed%20House%20Judiciary-Draft%20No.%205.1%20Strikeall~3-11-2015.pdf"
+},
+{
+"text": "H.120",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.120/Drafts,%20Summaries%20and%20Amendments/H.120~Luke%20Martland~As%20Passed%20by%20House%20Judiciary~2-27-2015.pdf"
+},
+{
+"text": "H.221",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0221/H-0221%20As%20Introduced.pdf"
+},
+{
+"text": "H.35",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.35/Drafts,%20Summaries%20and%20Amendments/H.35~Michael%20O'Grady~Draft%20No.%201.2%20Section%2017-Approved%20by%20Committee~3-18-2015.pdf"
+},
+{
+"text": "H.40",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Natural%20Resources/Bills/H.40/Draft,%20Summaries%20and%20Amendments/H.40~Aaron%20Adler~Draft%20No.%203.1%20(2-50pm),%202-13-2015~2-17-2015.pdf"
+},
+{
+"text": "H.483",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0483/H-0483%20As%20Introduced.pdf"
+},
+{
+"text": "H.489",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0489/H-0489%20As%20Introduced.pdf"
+},
+{
+"text": "H.490",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/H-0490/H-0490%20As%20Introduced.pdf"
+},
+{
+"text": "H.95",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.95/Drafts,%20Summaries%20and%20Amendments/H.95~Michele%20Childs~Draft%20No.%206.1%20Strikeall~3-12-2015.pdf"
+},
+{
+"text": "Home",
+"href": "https://martinlalonde.wordpress.com"
+},
+{
+"text": "January 2015",
+"href": "https://martinlalondevt.com/2015/01/"
+},
+{
+"text": "January 2016",
+"href": "https://martinlalondevt.com/2016/01/"
+},
+{
+"text": "January 2017",
+"href": "https://martinlalondevt.com/2017/01/"
+},
+{
+"text": "January 2018",
+"href": "https://martinlalondevt.com/2018/01/"
+},
+{
+"text": "January 2019",
+"href": "https://martinlalondevt.com/2019/01/"
+},
+{
+"text": "January 2020",
+"href": "https://martinlalondevt.com/2020/01/"
+},
+{
+"text": "January 2022",
+"href": "https://martinlalondevt.com/2022/01/"
+},
+{
+"text": "January 2024",
+"href": "https://martinlalondevt.com/2024/01/"
+},
+{
+"text": "January 2025",
+"href": "https://martinlalondevt.com/2025/01/"
+},
+{
+"text": "January 2026",
+"href": "https://martinlalondevt.com/2026/01/"
+},
+{
+"text": "Judiciary Committee Update",
+"href": "https://martinlalondevt.com/2015/03/21/judiciary-committee-update/"
+},
+{
+"text": "July 2015",
+"href": "https://martinlalondevt.com/2015/07/"
+},
+{
+"text": "July 2016",
+"href": "https://martinlalondevt.com/2016/07/"
+},
+{
+"text": "July 2017",
+"href": "https://martinlalondevt.com/2017/07/"
+},
+{
+"text": "July 2018",
+"href": "https://martinlalondevt.com/2018/07/"
+},
+{
+"text": "July 2019",
+"href": "https://martinlalondevt.com/2019/07/"
+},
+{
+"text": "July 2021",
+"href": "https://martinlalondevt.com/2021/07/"
+},
+{
+"text": "July 2023",
+"href": "https://martinlalondevt.com/2023/07/"
+},
+{
+"text": "July 2025",
+"href": "https://martinlalondevt.com/2025/07/"
+},
+{
+"text": "June 2014",
+"href": "https://martinlalondevt.com/2014/06/"
+},
+{
+"text": "June 2015",
+"href": "https://martinlalondevt.com/2015/06/"
+},
+{
+"text": "June 2016",
+"href": "https://martinlalondevt.com/2016/06/"
+},
+{
+"text": "June 2017",
+"href": "https://martinlalondevt.com/2017/06/"
+},
+{
+"text": "June 2018",
+"href": "https://martinlalondevt.com/2018/06/"
+},
+{
+"text": "June 2019",
+"href": "https://martinlalondevt.com/2019/06/"
+},
+{
+"text": "June 2020",
+"href": "https://martinlalondevt.com/2020/06/"
+},
+{
+"text": "June 2021",
+"href": "https://martinlalondevt.com/2021/06/"
+},
+{
+"text": "June 2022",
+"href": "https://martinlalondevt.com/2022/06/"
+},
+{
+"text": "June 2023",
+"href": "https://martinlalondevt.com/2023/06/"
+},
+{
+"text": "June 2026",
+"href": "https://martinlalondevt.com/2026/06/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmartinlalondevt.com%252F2015%252F03%252F30%252Fappropriations-and-revenue-bills%252F"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmartinlalondevt.com%252F2015%252F03%252F30%252Fappropriations-and-revenue-bills%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "March 13, 2015June 10, 2015",
+"href": "https://martinlalondevt.com/2015/03/13/my-fourth-legislative-update-for-the-other-paper/"
+},
+{
+"text": "March 13, 2015May 8, 2015",
+"href": "https://martinlalondevt.com/2015/03/13/false-claims-and-young-dems/"
+},
+{
+"text": "March 2, 2015May 8, 2015",
+"href": "https://martinlalondevt.com/2015/03/02/town-meeting-day-2015/"
+},
+{
+"text": "March 2015",
+"href": "https://martinlalondevt.com/2015/03/"
+},
+{
+"text": "March 2016",
+"href": "https://martinlalondevt.com/2016/03/"
+},
+{
+"text": "March 2017",
+"href": "https://martinlalondevt.com/2017/03/"
+},
+{
+"text": "March 2018",
+"href": "https://martinlalondevt.com/2018/03/"
+},
+{
+"text": "March 2019",
+"href": "https://martinlalondevt.com/2019/03/"
+},
+{
+"text": "March 2020",
+"href": "https://martinlalondevt.com/2020/03/"
+},
+{
+"text": "March 2021",
+"href": "https://martinlalondevt.com/2021/03/"
+},
+{
+"text": "March 2022",
+"href": "https://martinlalondevt.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://martinlalondevt.com/2023/03/"
+},
+{
+"text": "March 2024",
+"href": "https://martinlalondevt.com/2024/03/"
+},
+{
+"text": "March 2025",
+"href": "https://martinlalondevt.com/2025/03/"
+},
+{
+"text": "March 2026",
+"href": "https://martinlalondevt.com/2026/03/"
+},
+{
+"text": "March 21, 2015May 8, 2015",
+"href": "https://martinlalondevt.com/2015/03/21/judiciary-committee-update/"
+},
+{
+"text": "March 30, 2015May 8, 2015",
+"href": "https://martinlalondevt.com/2015/03/30/appropriations-and-revenue-bills/"
+},
+{
+"text": "May 2015",
+"href": "https://martinlalondevt.com/2015/05/"
+},
+{
+"text": "May 2016",
+"href": "https://martinlalondevt.com/2016/05/"
+},
+{
+"text": "May 2017",
+"href": "https://martinlalondevt.com/2017/05/"
+},
+{
+"text": "May 2018",
+"href": "https://martinlalondevt.com/2018/05/"
+},
+{
+"text": "May 2019",
+"href": "https://martinlalondevt.com/2019/05/"
+},
+{
+"text": "May 2020",
+"href": "https://martinlalondevt.com/2020/05/"
+},
+{
+"text": "May 2021",
+"href": "https://martinlalondevt.com/2021/05/"
+},
+{
+"text": "May 2022",
+"href": "https://martinlalondevt.com/2022/05/"
+},
+{
+"text": "May 2023",
+"href": "https://martinlalondevt.com/2023/05/"
+},
+{
+"text": "May 2024",
+"href": "https://martinlalondevt.com/2024/05/"
+},
+{
+"text": "May 2025",
+"href": "https://martinlalondevt.com/2025/05/"
+},
+{
+"text": "November 2015",
+"href": "https://martinlalondevt.com/2015/11/"
+},
+{
+"text": "November 2016",
+"href": "https://martinlalondevt.com/2016/11/"
+},
+{
+"text": "November 2017",
+"href": "https://martinlalondevt.com/2017/11/"
+},
+{
+"text": "November 2018",
+"href": "https://martinlalondevt.com/2018/11/"
+},
+{
+"text": "November 2019",
+"href": "https://martinlalondevt.com/2019/11/"
+},
+{
+"text": "November 2023",
+"href": "https://martinlalondevt.com/2023/11/"
+},
+{
+"text": "October 2014",
+"href": "https://martinlalondevt.com/2014/10/"
+},
+{
+"text": "October 2015",
+"href": "https://martinlalondevt.com/2015/10/"
+},
+{
+"text": "October 2016",
+"href": "https://martinlalondevt.com/2016/10/"
+},
+{
+"text": "October 2017",
+"href": "https://martinlalondevt.com/2017/10/"
+},
+{
+"text": "October 2018",
+"href": "https://martinlalondevt.com/2018/10/"
+},
+{
+"text": "October 2019",
+"href": "https://martinlalondevt.com/2019/10/"
+},
+{
+"text": "October 2020",
+"href": "https://martinlalondevt.com/2020/10/"
+},
+{
+"text": "October 2021",
+"href": "https://martinlalondevt.com/2021/10/"
+},
+{
+"text": "October 2024",
+"href": "https://martinlalondevt.com/2024/10/"
+},
+{
+"text": "October 2025",
+"href": "https://martinlalondevt.com/2025/10/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fmartinlalondevt.com"
+},
+{
+"text": "S.13",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/Docs/BILLS/S-0013/S-0013%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf"
+},
+{
+"text": "S.9",
+"href": "https://martinlalondevt.com/2015/03/egislature.vermont.gov/assets/Documents/2016/Docs/BILLS/S-0009/S-0009%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf"
+},
+{
+"text": "September 2015",
+"href": "https://martinlalondevt.com/2015/09/"
+},
+{
+"text": "September 2016",
+"href": "https://martinlalondevt.com/2016/09/"
+},
+{
+"text": "September 2017",
+"href": "https://martinlalondevt.com/2017/09/"
+},
+{
+"text": "September 2018",
+"href": "https://martinlalondevt.com/2018/09/"
+},
+{
+"text": "September 2019",
+"href": "https://martinlalondevt.com/2019/09/"
+},
+{
+"text": "September 2020",
+"href": "https://martinlalondevt.com/2020/09/"
+},
+{
+"text": "September 2023",
+"href": "https://martinlalondevt.com/2023/09/"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "State House Photos",
+"href": "https://martinlalondevt.com/statehouse-photos/"
+},
+{
+"text": "Town Meeting Day 2015",
+"href": "https://martinlalondevt.com/2015/03/02/town-meeting-day-2015/"
+},
+{
+"text": "Vermont State House Representative Martin LaLonde",
+"href": "https://martinlalondevt.com/"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/21974427"
+},
+{
+"text": "[image: Other Paper March 12 2015 1]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/other-paper-march-12-2015-1.jpg"
+},
+{
+"text": "[image: Other Paper March 12 2015 2]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/other-paper-march-12-2015-2.jpg"
+},
+{
+"text": "[image: page-0]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/page-0.jpg"
+},
+{
+"text": "[image: page-1]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/page-1.jpg"
+},
+{
+"text": "[image: page-2]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/page-2.jpg"
+},
+{
+"text": "[image: page-3]",
+"href": "https://martinlalondevt.com/wp-content/uploads/2015/03/page-3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://martinlalondevt.com/"
+},
+{
+"text": "[image]Vermont State House Representative Martin LaLonde",
+"href": "https://martinlalondevt.com"
+},
+{
+"text": "[no text]",
+"href": "https://martinlalondevt.com/"
+},
+{
+"text": "amended",
+"href": "http://legislature.vermont.gov/assets/Documents/2016/WorkGroups/House%20Judiciary/Bills/H.105/Drafts,%20Summaries%20and%20Amendments/H.105~Rep%20Donahue~Amendment~3-17-2015.pdf"
+},
+{
+"text": "article",
+"href": "http://www.burlingtonfreepress.com/story/news/politics/2015/03/29/shumlin-budget-cap-struggle/70565596/"
+},
+{
+"text": "lalonde",
+"href": "https://martinlalondevt.com/author/martinlalonde/"
+}
 ]

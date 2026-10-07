@@ -1,4 +1,6 @@
-Julie Palakovich Carr has been a dedicated voice for District 17 (Gaithersburg and Rockville) since January 2019 as a member of the Maryland House of Delegates.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr has been a dedicated voice for District 17 (Gaithersburg and Rockville) since January 2019 as a member of the Maryland House of Delegates.
 With more than a decade of service in local and state elected office, Julie brings a wealth of experience and a commitment to progressive change.
 As a member of the House Ways and Means Committee, Julie chairs the Revenues Subcommittee.
 She is the past Chair of the Early Childhood Subcommittee, where she spearheaded critical initiatives to enhance early education.
@@ -15,3 +17,4 @@ With a master’s degree in biology, Julie is the only biologist with an advance
 Her decade-long career in science policy, including work on Capitol Hill and as a public policy manager for the American Institute of Biological Sciences, underscores her commitment to science-informed decision-making.
 She also a member of the teacher’s union through her work as a substitute teacher for Montgomery County Public Schools.
 Julie is married and her son attends public school.
+Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

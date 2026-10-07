@@ -1,12 +1,42 @@
 [
-"https://designedtorun.com/",
-"https://instagram.com/motaforcongress",
-"https://motaforcongress.com/",
-"https://motaforcongress.com/about",
-"https://motaforcongress.com/issues",
-"https://motaforcongress.com/volunteer",
-"https://motaforcongress/",
-"https://secure.actblue.com/donate/motaforcongress",
-"https://tiktok.com/@motaforcongress",
-"https://x.com/motaforcongress"
+{
+"text": "About",
+"href": "https://www.motaforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/motaforcongress"
+},
+{
+"text": "Issues",
+"href": "https://www.motaforcongress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.motaforcongress.com/volunteer"
+},
+{
+"text": "[image: Samantha Mota for Congress]",
+"href": "https://www.motaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@motaforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/motaforcongress"
+}
 ]

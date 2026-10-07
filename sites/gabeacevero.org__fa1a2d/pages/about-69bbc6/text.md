@@ -1,5 +1,4 @@
-How my journey began
-I was born in San Fernando, Trinidad and Tobago, the youngest of six siblings in a close-knit family.
+0 Skip to Content About Priorities Accomplishments Endorsements English DONATE Open Menu Close Menu About Priorities Accomplishments Endorsements English DONATE Open Menu Close Menu About Priorities Accomplishments Endorsements English Back DONATE How my journey began I was born in San Fernando, Trinidad and Tobago, the youngest of six siblings in a close-knit family.
 Growing up in the town of Couva, I was surrounded by love, laughter, and the values of hard work and community that my parents instilled in me.
 My siblings have always been my greatest inspirations, and their unwavering support continues to fuel my passion for service and justice.
 From an early age, I was drawn to advocacy and the power of education.
@@ -10,13 +9,11 @@ My time in college was transformative—I became a student activist, volunteered
 My journey into public service was deeply personal.
 As an immigrant, a person of color, and a member of the LGBTQ community, I’ve experienced firsthand the challenges of being underrepresented.
 These experiences shaped my commitment to ensuring that every voice is heard and every community is valued.
-Now a voice for the people
-In 2018, I made history as the first openly gay Afro-Latino elected to the Maryland General Assembly and one of its youngest members.
+Now a voice for the people In 2018, I made history as the first openly gay Afro-Latino elected to the Maryland General Assembly and one of its youngest members.
 Representing Maryland’s 39th legislative district has been the honor of my life, and I’ve worked every day to be a voice for justice, equity, and progress.
 Since taking office, I’ve served on the House Appropriations Committee, where I’ve championed economic justice policies like fair taxation and guaranteed basic income.
 As a tireless advocate for social, racial, gender, immigrant, and environmental justice, I’m proud to have been appointed by Speaker Joseline Pena-Melnyk, to Chair the Pubic Safety and Administration Subcommittee of Appropriations.
-From passing
-Anton’s Law” to increase police accountability to fighting for universal basic income, affordable housing, and expanded healthcare access, my work is driven by a vision of a Maryland where everyone has the opportunity to thrive.
+From passing Anton’s Law” to increase police accountability to fighting for universal basic income, affordable housing, and expanded healthcare access, my work is driven by a vision of a Maryland where everyone has the opportunity to thrive.
 Before running for office, I was an organizer and activist, playing a key role in historic campaigns like the passage of marriage equality and the Maryland Dream Act.
 I’ve stood on the front lines of the Fight for $15 campaign, worked on criminal justice reform, and advocated for immigrant rights and LGBTQ equality.
 These experiences taught me that real change happens when we come together to fight for what’s right.
@@ -24,3 +21,4 @@ Looking ahead, I remain committed to building a Maryland that is inclusive, equi
 I believe in the power of government to be a force for good, and I will continue to fight for policies that uplift all Marylanders, especially those who have been historically marginalized.
 As your delegate, I am here to serve you.
 Whether it’s addressing local concerns, advocating for resources, or ensuring your voice is heard in Annapolis, I am dedicated to putting the needs of our community first.
+Read more about my accomplishments Delegate Acevero in the Community PO Box 87731, Montgomery Village, MD 20886 IE Red Box By Authority: Friends of Gabriel Acevero; Candice Brock, Treasurer.

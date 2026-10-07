@@ -1,24 +1,13 @@
-Kenneth I.
-Gordon
-Massachusetts State Representative
-21st Middlesex District
-March 4, 2026
-Representative Ken Gordon is accepting applications for college-level internships in his office during Summer 2026.
+Get Involved/Donate Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes RECENT PRESS Rep.
+Ken Gordon Seeking Interns for Summer 2026 Posted on March 4, 2026 Kenneth I.
+Gordon Massachusetts State Representative 21st Middlesex District March 4, 2026 Representative Ken Gordon is accepting applications for college-level internships in his office during Summer 2026.
 Internships at the State House are unpaid.
 Any college student is welcome to apply.
 Applicants with a connection to Rep.
 Gordon’s district (Bedford, Burlington, or Lexington) will be given preference.
-While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program:
-Summer internships run from mid-June to the first week of August.
+While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program: Summer internships run from mid-June to the first week of August.
 Summer interns have the opportunity to attend daily briefings given by Massachusetts political, non-profit, and business leaders and network with other student interns and staff.
-Responsibilities include, but are not limited to:
-Assisting staff in legislative matters:
-Researching policy issues
-Writing bill summaries
-Drafting letters of support for bills the Rep. has co-sponsored
-Attending legislative briefings and hearings
-Executing a long-term research project:
-Interns will select a policy area of interest to research.
+Responsibilities include, but are not limited to: Assisting staff in legislative matters: Researching policy issues Writing bill summaries Drafting letters of support for bills the Rep. has co-sponsored Attending legislative briefings and hearings Executing a long-term research project: Interns will select a policy area of interest to research.
 The project summarizes a problem, explores possible policy solutions (including other states’ solutions or international solutions) and proposes a solution for Massachusetts.
 Meaningful final projects are between 6-10 written pages or an equivalent presentation.
 Past topics include driverless cars, water permitting, transportation in Rep.
@@ -26,22 +15,17 @@ Gordon’s district, health programs in prisons, and the opioid crisis.
 Interns will meet with Representative Gordon on a weekly basis to discuss their project.
 Internships are expected to run in person.
 Interested applicants should submit the following to Jessica.Foley@mahouse.gov by May 1, 2026.
-A resume
-A cover letter detailing interest in an internship at the State House
-A 2-4 page writing sample
-If you have any questions, please call 617-722-2070 or send an email to Jessica.Foley@mahouse.gov.
-He is an 18-year-old who can change your outlook on humanity, and give you hope.
+A resume A cover letter detailing interest in an internship at the State House A 2-4 page writing sample If you have any questions, please call 617-722-2070 or send an email to Jessica.Foley@mahouse.gov.
+Marcelo Gomes Da Silva and The Burlington ICE Facility Posted on June 6, 2025 He is an 18-year-old who can change your outlook on humanity, and give you hope.
 Yesterday I joined Congressmen Seth Moulton and Jake Auchincloss in meeting now-former 18-year-old detainee Marcelo Gomes da Silva as he was released after six days of custody from the Burlington ICE facility.
-Marcelo committed no crime except for the misdemeanor of overstaying his visa 11 years ago, when he was seven years old.
+Marcelo committed no crime except for the misdemeanor of overstaying his visa #ago, when he was seven years old.
 As he said to an ICE officer, “ma’am, I was seven years old.
-I had no idea about visas.”
-Marcelo was circumspect, grateful for the outpouring of support from his Milford community and the rest of the Commonwealth, and certainly ecstatic to be released.
+I had no idea about visas.” Marcelo was circumspect, grateful for the outpouring of support from his Milford community and the rest of the Commonwealth, and certainly ecstatic to be released.
 He had not had a shower or had access to a proper bathroom facility for almost a week.
 But the focus of his concern was not for himself, but for his fellow inmates, “If all that happens is the focus is on me, I have failed.
 I want to tell my story, of course, … but if I’m the only one who is able to leave that place, I’ve lost.
 I want to do as much as I can to get them as much help as possible.
-If they have to be deported, so be it, but in the right way.”
-To that end, I was able to break through the misunderstanding and outright deception as to the use of the Burlington ICE facility by accompanying Reps Moulton and Auchincloss part-way through the inside of the facility, and hearing from them and ICE officers about the rest.
+If they have to be deported, so be it, but in the right way.” To that end, I was able to break through the misunderstanding and outright deception as to the use of the Burlington ICE facility by accompanying Reps Moulton and Auchincloss part-way through the inside of the facility, and hearing from them and ICE officers about the rest.
 Let’s be clear.
 When the facility received permission from Town Meeting to open its doors, members were assured there would be no more than four holding cells for temporary stays.
 A “Warrant Article Backup” provided on behalf of ICE assured members that detainees, “do not remain overnight at the Burlington facility.
@@ -49,8 +33,7 @@ ICE contracts with county correctional facilities to house the detainees.” Mar
 He spent each night on the cold concrete floor of the basement at the Burlington facility.
 Most Burlington residents feel that a facility in their town should treat people with dignity and respect.
 As Marcelo told us, “If they [fellow detainees] have to be deported, fine.
-But it should be done the right way.”
-Contrary to these representations, there are eight cells where detainees are kept, not one or two.
+But it should be done the right way.” Contrary to these representations, there are eight cells where detainees are kept, not one or two.
 I saw four of them, but was prevented from taking the entire tour.
 As members of Congress with oversight responsibility, Reps Moulton and Auchincloss had a right to tour the whole layout.
 Members of the public, including members of the Massachusetts legislature, do not have that right.
@@ -73,65 +56,34 @@ People accused of the misdemeanor of overstaying a visa, especially as a child, 
 Even if the current White House has no place for the right of due process, we in Massachusetts still do.
 I am grateful that our congressmen included me in the opportunity to learn what is going on behind the closed doors of the Burlington ICE facility.
 I will work with Congress and use this knowledge to stand up for due process, and the right to dignity under the law.
-Kenneth I.
-Gordon
-Massachusetts State Representative
-21st Middlesex District
-February 13, 2025
-Representative Ken Gordon is accepting applications for college level internships in his office during Summer 2025.
+Rep.
+Ken Gordon Seeks Summer 2025 State House Interns Posted on February 13, 2025 Kenneth I.
+Gordon Massachusetts State Representative 21st Middlesex District February 13, 2025 Representative Ken Gordon is accepting applications for college level internships in his office during Summer 2025.
 Internships at the State House are unpaid.
 Any college student is welcome to apply.
 Applicants with a connection to Rep.
 Gordon’s district, (Bedford, Burlington, or Lexington) will be given preference.
-While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program:
-Summer internships run from mid-June to the first week of August
-Summer interns have the opportunity to attend daily briefings given by Massachusetts political, non-profit, and business leaders and network with other student interns and staff
-Responsibilities include but are not limited to:
-Assisting staff in legislative matters:
-Policy research
-Drafting letters of support for bills the Rep. has co-sponsored
-Bill summaries
-Attending legislative briefings and hearings
-Executing a long-term research project:
-Interns will select a policy area of interest to research.
+While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program: Summer internships run from mid-June to the first week of August Summer interns have the opportunity to attend daily briefings given by Massachusetts political, non-profit, and business leaders and network with other student interns and staff Responsibilities include but are not limited to: Assisting staff in legislative matters: Policy research Drafting letters of support for bills the Rep. has co-sponsored Bill summaries Attending legislative briefings and hearings Executing a long-term research project: Interns will select a policy area of interest to research.
 The project summarizes a problem, explores possible policy solutions (including other states’ solutions or international solutions) and proposes a solution for Massachusetts.
 Meaningful final projects are between 6-10 written pages or an equivalent presentation.
 Past examples include work on driverless cars, water permitting, transportation within the Rep’s district, health programs in prisons, and the opioid crisis.
 Interns will meet with Representative Gordon on a weekly basis to discuss their project.
 Internships are expected to run in person.
-Interested applicants should submit the following to Jessica.Foley@mahouse.gov by April 25th, 2025
-A resume
-A cover letter detailing interest in an internship at the State House
-A 2 – 4 page writing sample
-If you have any questions, please call 617-722-2240 or send an email to Jessica.Foley@mahouse.gov.
-State Rep.
+Interested applicants should submit the following to Jessica.Foley@mahouse.gov by April 25th, 2025 A resume A cover letter detailing interest in an internship at the State House A 2 – 4 page writing sample If you have any questions, please call 617-722-2240 or send an email to Jessica.Foley@mahouse.gov.
+Rep.
+Ken Gordon Seeks Summer 2024 State House Interns Posted on February 21, 2024 State Rep.
 Ken Gordon is accepting applications for college level internships in his office during this summer.
 Internships at the State House are unpaid.
 Any college student is welcome to apply.
 Applicants with a connection to the Rep.
 Gordon’s district, (Bedford, Burlington, or Lexington) will be given preference.
-While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program:
-Summer internships run from mid-June to the first week of August
-Summer interns have the opportunity to attend daily briefings given by Massachusetts political, non-profit, and business leaders and network with other student interns and staff
-Responsibilities include but are not limited to:
-Assisting staff in legislative matters:
-Policy research
-Drafting letters of support for bills the Rep. has co-sponsored
-Bill summaries
-Attending legislative briefings and hearings
-Executing a long-term research project:
-Interns will select a policy area of interest to research.
+While each internship is unique and largely reflects the interests of the intern, the following provides a broad outline of the program: Summer internships run from mid-June to the first week of August Summer interns have the opportunity to attend daily briefings given by Massachusetts political, non-profit, and business leaders and network with other student interns and staff Responsibilities include but are not limited to: Assisting staff in legislative matters: Policy research Drafting letters of support for bills the Rep. has co-sponsored Bill summaries Attending legislative briefings and hearings Executing a long-term research project: Interns will select a policy area of interest to research.
 The project summarizes a problem, explores possible policy solutions (including other states’ solutions or international solutions) and proposes a solution for Massachusetts.
 Meaningful final projects are between 6-10 written pages or an equivalent presentation.
 Past examples include work on driverless cars, water permitting, transportation within the Rep’s district, health programs in prisons, and the opioid crisis.
-Interns will meet with Representative Gordon on a weekly basis to discuss their project
-Internships are expected to run in person, however, this is subject to change pending further guidance.
-Interested applicants should submit the following to Jessica.Foley@mahouse.gov by April 26th, 2024
-A resume
-A cover letter detailing interest in an internship at the State House
-A 2 – 4 page writing sample
-If you have any questions, please call 617-722-2240 or send an email to Jessica.Foley@mahouse.gov
-The Massachusetts Legislature enacted a $56.2 billion budget for Fiscal Year 2024 (FY24).
+Interns will meet with Representative Gordon on a weekly basis to discuss their project Internships are expected to run in person, however, this is subject to change pending further guidance.
+Interested applicants should submit the following to Jessica.Foley@mahouse.gov by April 26th, 2024 A resume A cover letter detailing interest in an internship at the State House A 2 – 4 page writing sample If you have any questions, please call 617-722-2240 or send an email to Jessica.Foley@mahouse.gov Massachusetts Legislature’s FY24 Budget includes Rep.
+Ken Gordon’s priority legislation and funding for Bedford and Burlington Posted on August 1, 2023 The Massachusetts Legislature enacted a $56.2 billion budget for Fiscal Year 2024 (FY24).
 The FY24 budget sent to Governor Healey provides for historic levels of investment in education, housing, regional transportation, health care, workforce development, and more, as part of a broad strategy to grow our state’s economy and make Massachusetts more affordable, inclusive, and competitive.
-Click below to read the full press release:
-Representative Gordon – FY 24 Budget Press Release
+Click below to read the full press release: Representative Gordon – FY 24 Budget Press Release 1 2 … 30 Next → Paid for by the Committee to (re) Elect Ken Gordon ©# × × How much would you like to donate?
+Donate Now

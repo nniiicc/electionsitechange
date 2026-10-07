@@ -1,4 +1,4 @@
-Peggy Gossett-Seidman has been a proud resident of Highland Beach, Florida for over 30 years, where she and her husband, Dr.
+Home Meet Peggy Accomplishments Endorsed Privacy Policy Menu Menu Meet Peggy Gossett-Seidman Peggy Gossett-Seidman has been a proud resident of Highland Beach, Florida for over 30 years, where she and her husband, Dr.
 Barry Seidman, have raised their three children, Tyler, Dallas, and Austin.
 They enjoy boating and diving in South Florida’s abundant waterways.
 Upon noticing prevalent issues in her community, Peggy ran for the Highland Beach Town Commission, where she served for five years and was responsible for making Highland Beach the safest municipality in the State, based on state crime data and reported by numerous media outlets.
@@ -15,3 +15,4 @@ At the national and state levels, Peggy worked with Points of Light, Florida’s
 She has published more than 3,000 articles and won 22 national and state awards for her work.
 Through her leadership, District 91 has flourished- but there’s still work to be done.
 Peggy is dedicated to continuing her fight to bring common-sense solutions to District 91 and the State of Florida.
+4400 North Federal Highway, Suite 210-52, Boca Raton FL 33431 Facebook Twitter Instagram Paid by Peggy Gossett-Seidman, Republican, for Florida House Representative, District 91 Scroll to top

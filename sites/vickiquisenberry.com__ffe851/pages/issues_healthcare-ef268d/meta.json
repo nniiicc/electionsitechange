@@ -1,7 +1,9 @@
 {
  "description": "Healthcare",
  "final_url": "https://vickiquisenberry.com/issues/healthcare",
- "paid_for_by": null,
+ "fingerprint": "af173bd9bb2d528b5ef94816603207fb41875842",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare",
  "years_mentioned": []
 }

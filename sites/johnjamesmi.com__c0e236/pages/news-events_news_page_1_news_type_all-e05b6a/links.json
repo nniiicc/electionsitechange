@@ -1,53 +1,350 @@
 [
-"https://facebook.com/JohnJamesMI",
-"https://instagram.com/johnjamesmi",
-"https://johnjamesmi.com/",
-"https://johnjamesmi.com/ask-me-anything",
-"https://johnjamesmi.com/coalitions",
-"https://johnjamesmi.com/contact",
-"https://johnjamesmi.com/flight-plan",
-"https://johnjamesmi.com/get-the-facts",
-"https://johnjamesmi.com/join",
-"https://johnjamesmi.com/meet-jay",
-"https://johnjamesmi.com/meet-john",
-"https://johnjamesmi.com/michigan-2037",
-"https://johnjamesmi.com/mobile-terms-conditions",
-"https://johnjamesmi.com/news-events",
-"https://johnjamesmi.com/news-events?news_page=10&news_type=all",
-"https://johnjamesmi.com/news-events?news_page=2&news_type=all",
-"https://johnjamesmi.com/news-events?news_page=3&news_type=all",
-"https://johnjamesmi.com/news-events?news_type=all",
-"https://johnjamesmi.com/news-events?news_type=in-the-news",
-"https://johnjamesmi.com/news-events?news_type=press-releases",
-"https://johnjamesmi.com/press-release-2026-37",
-"https://johnjamesmi.com/press-release-2026-38",
-"https://johnjamesmi.com/press-release-2026-39",
-"https://johnjamesmi.com/press-release-2026-40",
-"https://johnjamesmi.com/press-release-2026-41",
-"https://johnjamesmi.com/press-release-2026-42",
-"https://johnjamesmi.com/press-release-2026-43",
-"https://johnjamesmi.com/press-release-2026-44",
-"https://johnjamesmi.com/press-release-2026-45",
-"https://johnjamesmi.com/press-release-2026-46",
-"https://johnjamesmi.com/press-release-2026-47",
-"https://johnjamesmi.com/press-release-2026-48",
-"https://johnjamesmi.com/privacy-policy",
-"https://johnjamesmi.com/vote",
-"https://johnjamesmi.com/war-room",
-"https://johnjamesmi.com/what-we-are-fighting-for",
-"https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4",
-"https://secure.winred.com/john-james-for-mi/donate-today",
-"https://secure.winred.com/john-james-for-mi/storefront",
-"https://x.com/johnjamesmi",
-"https://x.com/johnjamesmi/status/1911199810717176007",
-"https://x.com/johnjamesmi/status/1934005226643558818",
-"https://x.com/johnjamesmi/status/1934352843462570338",
-"https://x.com/johnjamesmi/status/1938665121665913056",
-"https://x.com/johnjamesmi/status/1973562421785579642",
-"https://x.com/johnjamesmi/status/2085719609320022283",
-"https://youtube.com/johnjamesmi",
-"https://youtube.com/watch?v=9uqWY2MdcXk",
-"https://youtube.com/watch?v=BpvJyV0VA7M",
-"https://youtube.com/watch?v=WaEnOp9jQvc",
-"https://youtube.com/watch?v=tXfUFiV8sJo"
+{
+"text": "10",
+"href": "https://johnjamesmi.com/news-events/?news_page=10&news_type=all#headlines"
+},
+{
+"text": "2",
+"href": "https://johnjamesmi.com/news-events/?news_page=2&news_type=all#headlines"
+},
+{
+"text": "2037",
+"href": "https://johnjamesmi.com/michigan-2037/"
+},
+{
+"text": "3",
+"href": "https://johnjamesmi.com/news-events/?news_page=3&news_type=all#headlines"
+},
+{
+"text": "About Jay",
+"href": "https://johnjamesmi.com/meet-jay/"
+},
+{
+"text": "About John",
+"href": "https://johnjamesmi.com/meet-john/"
+},
+{
+"text": "All News",
+"href": "https://johnjamesmi.com/news-events/?news_type=all#headlines"
+},
+{
+"text": "Apr 12, 2025",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "Ask John Anything",
+"href": "https://johnjamesmi.com/ask-me-anything/"
+},
+{
+"text": "Aug 7, 2026",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "BREAKING: Ohio & Indiana deliver gas tax relief. What is Michigan waiting for?",
+"href": "https://johnjamesmi.com/press-release-2026-48/"
+},
+{
+"text": "Coalitions",
+"href": "https://johnjamesmi.com/coalitions/"
+},
+{
+"text": "Contact",
+"href": "https://johnjamesmi.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/john-james-for-mi/donate-today"
+},
+{
+"text": "Follow @johnjamesmi →",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "Get the Facts",
+"href": "https://johnjamesmi.com/get-the-facts/"
+},
+{
+"text": "ICYMI: JAMES RALLIES MICHIGAN REPUBLICANS, TAKES MICHIGAN’S COMEBACK MESSAGE NATIONAL",
+"href": "https://johnjamesmi.com/press-release-2026-41/"
+},
+{
+"text": "ICYMI: John James calls on Lansing to suspend the gas tax",
+"href": "https://johnjamesmi.com/press-release-2026-46/"
+},
+{
+"text": "ICYMI: John James takes his message across Michigan",
+"href": "https://johnjamesmi.com/press-release-2026-45/"
+},
+{
+"text": "In the News",
+"href": "https://johnjamesmi.com/news-events/?news_type=in-the-news#headlines"
+},
+{
+"text": "Issues",
+"href": "https://johnjamesmi.com/what-we-are-fighting-for/"
+},
+{
+"text": "JAMES: MICHIGAN CANNOT AFFORD MORE FAILED DEMOCRAT LEADERSHIP",
+"href": "https://johnjamesmi.com/press-release-2026-39/"
+},
+{
+"text": "James to Democrats: Michiganders need relief, not more talk",
+"href": "https://johnjamesmi.com/press-release-2026-47/"
+},
+{
+"text": "John James and Gov. Tate Reeves Outline Plan to Bring the Mississippi Miracle to Michigan’s Failing Schools",
+"href": "https://johnjamesmi.com/john-james-and-gov-tate-reeves-outline-plan-to-bring-the-mississippi-miracle-to-michigans-failing-schools/"
+},
+{
+"text": "John James unveils plan to lower energy costs, hold Big Utilities accountable",
+"href": "https://johnjamesmi.com/press-release-2026-43/"
+},
+{
+"text": "John James warns of extreme Benson-El-Sayed ticket; CBS host: “Let’s put that aside”",
+"href": "https://johnjamesmi.com/press-release-2026-42/"
+},
+{
+"text": "John James: Democrat soft-on-crime policies end when I’m governor",
+"href": "https://johnjamesmi.com/press-release-2026-44/"
+},
+{
+"text": "John James@johnjamesmi",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "Join the Team",
+"href": "https://johnjamesmi.com/join/"
+},
+{
+"text": "Jun 14, 2025",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "Jun 15, 2025",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "Jun 27, 2025",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "Meet Jay",
+"href": "https://johnjamesmi.com/meet-jay/"
+},
+{
+"text": "Meet John",
+"href": "https://johnjamesmi.com/meet-john/"
+},
+{
+"text": "Michigan Democrats solidify their most radical ticket yet",
+"href": "https://johnjamesmi.com/press-release-2026-40/"
+},
+{
+"text": "Michigan Manufacturers Association Endorses John James for Governor",
+"href": "https://johnjamesmi.com/michigan-manufacturers-association-endorses-john-james-for-governor/"
+},
+{
+"text": "News & Events",
+"href": "https://johnjamesmi.com/news-events/"
+},
+{
+"text": "Next →",
+"href": "https://johnjamesmi.com/news-events/?news_page=2&news_type=all#headlines"
+},
+{
+"text": "Oct 1, 2025",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "Press Releases",
+"href": "https://johnjamesmi.com/news-events/?news_type=press-releases#headlines"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnjamesmi.com/privacy-policy/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/john-james-and-gov-tate-reeves-outline-plan-to-bring-the-mississippi-miracle-to-michigans-failing-schools/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/michigan-manufacturers-association-endorses-john-james-for-governor/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-39/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-40/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-41/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-42/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-43/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-44/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-45/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-46/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-47/"
+},
+{
+"text": "Read more →",
+"href": "https://johnjamesmi.com/press-release-2026-48/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/john-james-for-mi/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://johnjamesmi.com/mobile-terms-conditions/"
+},
+{
+"text": "The Flight Plan",
+"href": "https://johnjamesmi.com/flight-plan/"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "View on X →",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "Volunteer",
+"href": "https://johnjamesmi.com/join/"
+},
+{
+"text": "Vote",
+"href": "https://johnjamesmi.com/vote/"
+},
+{
+"text": "War Room",
+"href": "https://johnjamesmi.com/war-room/"
+},
+{
+"text": "Watch video →",
+"href": "https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=9uqWY2MdcXk"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=BpvJyV0VA7M"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=WaEnOp9jQvc"
+},
+{
+"text": "Watch video →",
+"href": "https://www.youtube.com/watch?v=tXfUFiV8sJo"
+},
+{
+"text": "What We’re Fighting For",
+"href": "https://johnjamesmi.com/what-we-are-fighting-for/"
+},
+{
+"text": "[image: John James for Michigan]",
+"href": "https://johnjamesmi.com/"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/1938665121665913056"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/1973562421785579642"
+},
+{
+"text": "[image: Video preview]",
+"href": "https://x.com/johnjamesmi/status/2085719609320022283"
+},
+{
+"text": "[image]",
+"href": "https://johnjamesmi.com/wp-content/uploads/2026/08/James_Hype.mp4"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=9uqWY2MdcXk"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=BpvJyV0VA7M"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=WaEnOp9jQvc"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/watch?v=tXfUFiV8sJo"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1911199810717176007"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1934005226643558818"
+},
+{
+"text": "[image]",
+"href": "https://x.com/johnjamesmi/status/1934352843462570338"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/johnjamesmi"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JohnJamesMI/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/johnjamesmi"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/johnjamesmi"
+}
 ]

@@ -1,5 +1,5 @@
-LOWERING PROPERTY TAXES
-LaVanna believes lowering property taxes starts with a responsible plan, careful implementation, and the right guardrails to protect Missouri families.
+0 Skip to Content MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE Open Menu Close Menu MEET LAVANNA CORE ISSUES CONNECT DISTRICT 24 TESTIMONIALS DONATE LOWERING PROPERTY TAXES LaVanna believes lowering property taxes starts with a responsible plan, careful implementation, and the right guardrails to protect Missouri families.
 She understands that tax relief must be paired with accountable leadership that identifies wasteful spending and ensures government operates within its means.
 She will focus on fair, sustainable solutions for homeowners and families.
 LaVanna will make sure every tax dollar is spent efficiently, that government more accountable, effective, and better aligned with the needs of the people it serves.
+Previous Previous SAFER NEIGHBORHOODS Next Next ADVOCATING FOR PARENTS & CHILDREN Meet LaVanna Core Issues Connect Privacy QUICK LINKS CONNECT LaVanna@WrobleyforMissouri.com Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Service, Leadership and Giving Back. +Vote LaVanna Wrobley+ Paid for by Wrobley for Missouri, Maryann Manion, Treasurer ©# Wrobley For Missouri

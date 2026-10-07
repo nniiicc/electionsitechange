@@ -1,12 +1,46 @@
 [
-"https://buckleyforpa.com/",
-"https://buckleyforpa.com/contact-2",
-"https://buckleyforpa.com/issues",
-"https://buckleyforpa.com/kathy-buckley",
-"https://facebook.com/buckleyforpa",
-"https://facebook.com/profile.php?id=61557995632517",
-"https://instagram.com/buckleyforpa",
-"https://secure.anedot.com/buckley-for-pa/donate",
-"https://twitter.com/buckleyforpa",
-"https://x.com/buckleyforpa"
+{
+"text": "Contact",
+"href": "https://buckleyforpa.com/contact-2/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/buckley-for-pa/donate"
+},
+{
+"text": "Home",
+"href": "https://buckleyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://buckleyforpa.com/issues/"
+},
+{
+"text": "Meet Kathy",
+"href": "https://buckleyforpa.com/kathy-buckley/"
+},
+{
+"text": "[image: Kathryn Buckley]",
+"href": "https://buckleyforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/buckleyforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/buckleyforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557995632517"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/buckleyforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/buckleyforpa"
+}
 ]

@@ -1,11 +1,54 @@
 [
-"https://britmckenzie.com/",
-"https://britmckenzie.com/lead-collection",
-"https://britmckenzie.com/news",
-"https://facebook.com/BritMcKenzieAR",
-"https://instagram.com/britmckenziear",
-"https://mailchi.mp/afdb8bbc1d32/brit-mckenzie-newsletter-page",
-"https://mydistricting.arkansas.gov/legdistricting/comments/plan/33/9",
-"https://politics.raisethemoney.com/en/britmckenzie",
-"https://twitter.com/BritMcKenzieAR"
+{
+"text": "ABOUT",
+"href": "https://www.britmckenzie.com#about"
+},
+{
+"text": "Brit@McKenzieforArkansas.com",
+"href": "mailto:Brit@McKenzieforArkansas.com"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/britmckenzie"
+},
+{
+"text": "District 7 Map",
+"href": "https://mydistricting.arkansas.gov/legdistricting/comments/plan/33/9"
+},
+{
+"text": "EARLY VOTING",
+"href": "https://www.britmckenzie.com"
+},
+{
+"text": "HOME",
+"href": "https://www.britmckenzie.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.britmckenzie.com/news"
+},
+{
+"text": "NEWSLETTER",
+"href": "https://mailchi.mp/afdb8bbc1d32/brit-mckenzie-newsletter-page"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.britmckenzie.com#theissues"
+},
+{
+"text": "View Privacy Policy for more info.",
+"href": "https://www.britmckenzie.com/lead-collection"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BritMcKenzieAR"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/britmckenziear/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/BritMcKenzieAR"
+}
 ]

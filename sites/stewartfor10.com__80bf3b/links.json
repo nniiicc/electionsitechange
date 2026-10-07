@@ -1,8 +1,26 @@
 [
-"https://bsky.app/profile/citizenpalmetto.bsky.social",
-"https://facebook.com/people/Thomas-Stewart/pfbid0pii56EenLeuieQVEQrfXtK4EZLmqz6ckVwTZ48JNyABNn2YvMgzhE6KnMby5xQ4Zl",
-"https://greaternationinstitute.com/",
-"https://greaternationinstitute.substack.com/",
-"https://secure.actblue.com/donate/tomstewart",
-"https://stewartfor10.com/"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/citizenpalmetto.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tomstewart"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Thomas-Stewart/pfbid0pii56EenLeuieQVEQrfXtK4EZLmqz6ckVwTZ48JNyABNn2YvMgzhE6KnMby5xQ4Zl/"
+},
+{
+"text": "GNI",
+"href": "https://greaternationinstitute.com"
+},
+{
+"text": "Stewart for District 10",
+"href": "https://stewartfor10.com/"
+},
+{
+"text": "Substack",
+"href": "https://greaternationinstitute.substack.com"
+}
 ]

@@ -1,33 +1,3 @@
-Events
-Interviews, Forums and Clips 2025-2026
-The Morning Drive – WVMT – 7/23
-Campaign Kickoff – 6/13
-Interview on WDEV’s Vermont Viewpoint – 3/5
-Morning Drive Interview – 2/17
-Democracy Dispatch – 1/26
-There’s No A In Creemee Part 2
-There’s No A In Creemee Part 1
-Interview on Canadian news – TVA Nouvelles – 7/2025
-Town Gathering on Federal Issues – Winooski – 5/19/2025
-Under the Dome – Legislative Updates – 5/19/2025
-Town Hall Meeting on Education – 5/10/2025
-Interviews, Forums and Clips – 2024
-Channel 17 Town Meeting TV General Election Forum – 9/12/2024
-Essex Reporter Candidate Profile – 8/2/2024
-Channel 17 Town Meeting TV Forum – 7/11/2024
-Vermont Conservation Voters Forum – 7/9/2024
-The Morning Drive – WVMT – 7/1/2024
-Vermont Edition – Literacy
-Under the Dome – Education
-Under the Dome – Healthcare
-Interviews, Forums and Clips – 2022
-Short Campaign Video
-Town Meeting TV Candidate Forum
-Town Meeting TV African Variety Show – French Interview w/ Dr.
-Jules Wetchi
-Vermont New American Advisory Council Candidate Forum
-WVMT Morning Drive Interview
-Channel 17 Interview with Doctor Jules Wetchi 6/23/2022
-Launch Party at Simple Roots 6/16/2022
-The Morning Drive interview 6/27/2022
-Ch. 17 Debate 6/29/2022
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE Events Interviews, Forums and Clips 2025-2026 The Morning Drive – WVMT – 7/23 Campaign Kickoff – 6/13 Interview on WDEV’s Vermont Viewpoint – 3/5 Morning Drive Interview – 2/17 Democracy Dispatch – 1/26 There’s No A In Creemee Part 2 There’s No A In Creemee Part 1 Interview on Canadian news – TVA Nouvelles – 7/2025 Town Gathering on Federal Issues – Winooski – 5/19/2025 Under the Dome – Legislative Updates – 5/19/2025 Town Hall Meeting on Education – 5/10/2025 Interviews, Forums and Clips – 2024 Channel 17 Town Meeting TV General Election Forum – 9/12/2024 Essex Reporter Candidate Profile – 8/2/2024 Channel 17 Town Meeting TV Forum – 7/11/2024 Vermont Conservation Voters Forum – 7/9/2024 The Morning Drive – WVMT – 7/1/2024 Vermont Edition – Literacy Under the Dome – Education Under the Dome – Healthcare Interviews, Forums and Clips – 2022 Short Campaign Video Town Meeting TV Candidate Forum Town Meeting TV African Variety Show – French Interview w/ Dr.
+Jules Wetchi Vermont New American Advisory Council Candidate Forum WVMT Morning Drive Interview Channel 17 Interview with Doctor Jules Wetchi 6/23/2022 Launch Party at Simple Roots 6/16/2022 The Morning Drive interview 6/27/2022 Ch.
+17 Debate 6/29/2022 DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

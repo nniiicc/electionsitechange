@@ -1,6 +1,5 @@
-Where I Stand
-Some of the issues that matter in Hillsborough District 37 — and what I believe about them.
-I believe families should have real choices in how their children are educated.
+Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP Daryl D'Angelo for Amherst and Milford Home Meet Daryl Issues Values Join Us Donate Articles NH CLP © # Daryl D’Angelo for Amherst and Milford Issues Where I Stand Some of the issues that matter in Hillsborough District 37 — and what I believe about them.
+Schools and Education Funding I believe families should have real choices in how their children are educated.
 That means traditional public schools, charter schools, private schools, homeschooling — whatever works best for a given child and family.
 Towns that want to maintain strong traditional public schools should absolutely be able to do that.
 Choice and quality public education are not opposites.
@@ -17,7 +16,7 @@ Are we trying to build a richer ecosystem of educational options alongside stron
 Or is this a step toward dismantling the public school system that the majority of New Hampshire families still depend on?
 Those are very different destinations, and the pace of change in Concord suggests someone has a destination in mind.
 I’d like to know what it is.
-Drive around New Hampshire right now and you’ll see construction everywhere.
+Housing Drive around New Hampshire right now and you’ll see construction everywhere.
 Housing is going up.
 And yet the people who most need a place to live — young people starting out, seniors looking to downsize, families who can’t stretch to a $500,000 house — are still shut out.
 What we’re building and what we need are two different things.
@@ -38,7 +37,7 @@ Conservation development — allowing builders more density in exchange for perm
 More homes where we need them.
 More protected land where we want it.
 Those don’t have to be opposites.
-The vitality of a community shows up in whether it can grow — whether young families can afford to put down roots, whether businesses can open and expand, whether the tax base can support the services people depend on.
+Economic Vitality The vitality of a community shows up in whether it can grow — whether young families can afford to put down roots, whether businesses can open and expand, whether the tax base can support the services people depend on.
 Here in HD 37, we have real barriers to all of that.
 Take infrastructure.
 Milford has been managing the legacy of two Superfund sites for forty years, and residents still see brown water coming out of their taps.
@@ -52,7 +51,7 @@ Immigrants who start businesses at very high rates.
 Young families ready to take a hand in their own futures.
 That’s always been the promise New Hampshire offered.
 Towns that clear these barriers and strengthen their economic foundation will be ready to keep it.
-Under New Hampshire’s current tax structure, a town’s financial relationship with a business is almost entirely front-loaded.
+Taxes and Revenue Under New Hampshire’s current tax structure, a town’s financial relationship with a business is almost entirely front-loaded.
 When a business moves in and improves a property, the assessed value goes up and the town captures that in property tax.
 After that, the town has almost no stake in what happens next.
 Whether the business grows, hires local young people, becomes a cornerstone of the community, or quietly struggles — it doesn’t much matter to the town’s bottom line.
@@ -65,8 +64,7 @@ New Hampshire once understood this — and tried to fix it.
 In 1969, the state modernized its business tax structure by creating the Business Profits Tax, which replaced older taxes that had been collected directly by municipalities as part of their local revenue base.
 The state was taking something that had belonged to towns.
 RSA 31-A, enacted in 1970, was the remedy — a commitment to return a portion of state business tax revenue to cities and towns to replace what they’d lost.
-“It seems quite doubtful to me that once this bill is passed that any legislature would go back on its pledge to return revenue to cities and towns that originally belonged to those cities and towns.” — Attorney General Warren Rudman, 1970
-He was wrong.
+“It seems quite doubtful to me that once this bill is passed that any legislature would go back on its pledge to return revenue to cities and towns that originally belonged to those cities and towns.” — Attorney General Warren Rudman, 1970 He was wrong.
 Revenue sharing was cut almost immediately, suspended entirely in 2010, and repealed outright in July 2025.
 Over those fifteen years of suspension alone, municipalities lost $400 million that the state had explicitly promised to return.
 The property tax has been filling that gap ever since — quietly, year after year, on the backs of homeowners.
@@ -77,7 +75,7 @@ They deserve a return on that.
 But that share should be capped, so that remaining revenue is distributed more broadly — including to towns with little commercial base of their own — with the state retaining enough to meet its obligations.
 The goal isn’t just to correct an old injustice.
 It’s to change what towns are incentivized to care about — so that a thriving local business feels like a win for the town, not just for Concord.
-New Hampshire has always prided itself on independent thinking.
+The Capture of State Government — Why this can’t wait New Hampshire has always prided itself on independent thinking.
 Pluralism — the idea that a healthy society depends on a genuine range of voices and perspectives — isn’t a problem to be managed here.
 It’s foundational to who we are.
 New Hampshire is not a state of two rigid camps, and it never was.
@@ -96,3 +94,4 @@ If the legislature won’t do that, the alternative is simple: one ballot, all c
 Same footing for everyone.
 The window for getting citizen voices back into that room is closing.
 Pluralism is the only way Concord actually reflects New Hampshire — all of it, not just the two camps the system is being built to serve.
+Contact Info Email me or follow me on socials daryl4nh@comcast.net Facebook Substack Twitter © # Daryl D’Angelo for Amherst and Milford

@@ -1,10 +1,2 @@
-JESSICA CAIRD
-FOR JUSTICE
-About
-Get Involved
-Contact
-Donations
-More
-Reach Me Anytime
-For press and general inquiries, contact me today:
-Jessica.caird.election@gmail.com
+top of page JESSICA CAIRD FOR JUSTICE About Get Involved Contact Donations More Use tab to navigate through the menu items.
+CONTACT Reach Me Anytime For press and general inquiries, contact me today: Jessica.caird.election@gmail.com SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name * Last name * Email * Submit Home About Me Get Involved Contact Jessica Caird - FOR Justice - Political advertising paid for by Jessica Caird Campaign Because Caird Cares Jessica.caird.election@gmail.com ​ bottom of page

@@ -1,33 +1,154 @@
 [
-"https://andrewtarcon.com/",
-"https://cvlgbt.org/",
-"https://facebook.com/PhelpsCampaign",
-"https://instagram.com/cs_phelps",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Fomny.fm%2Fshows%2F715-news-makers%2F6-30-2024-us-air-force-mid-america-band-american-r%3Ft%3D10m44s%26fbclid%3DIwZXh0bgNhZW0CMTAAAR3Zr5sY0dZ-4xPb2EB7OChtMkG02EMEsc8BcgAQ100xIxW-CwvbYltCDeM_aem_gh7AR1FbJQM2RcNFUzmlzA&h=AT3U2o3_Gk38810i4y1IX94VxYfMU1d9kZ-rjboagKd50UdznMSsnu7SqI04aSYL-l1Kxw8KabWJlUrLf2JrSVDNan7-67Kqsi-Kaii1vkY2zMTpc4CFdBKR9aJndRPzKQ&__tn__=-UK-R&c%5B0%5D=AT2u5jlnO5wQhUveujD-jZB8jI5zp3utmiSpVOj0uR4XwBzG985m9FtlupW2NZB-Naaohw07K5099mehC7_hClj1-RTTIlVEm4ifF1doW9FhoxCkizlTdFHKgibUcMRm8gpLVEoCx9WDkxFWW_ZhR1O-os3IQTvMQI5KmVpiuN66ysK1VFZW1gRvf1RI5ZO-VGSCYugFqdaCVB7N31j04PdTq5zq0P05zl47808V-w",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://phelpscampaign.com/",
-"https://phelpscampaign.com/2024/06/08/pride-in-the-park-eau-claire",
-"https://phelpscampaign.com/2024/06/20/american-federation-of-teachers-aft-wisconsin-endorses-christian-phelps-for-wisconsins-93rd-assembly-district",
-"https://phelpscampaign.com/2024/06/20/former-wisconsin-lieutenant-governor-mandela-barnes-endorses-christian-phelps-for-assembly-district-93",
-"https://phelpscampaign.com/2024/06/20/kick-off-party",
-"https://phelpscampaign.com/2024/06/20/voters-and-supporters-gather-to-kick-off-christian-phelps-for-assembly-district-93-campaign",
-"https://phelpscampaign.com/2024/06/21/a-family-fundraiser-for-public-ed-champions",
-"https://phelpscampaign.com/2024/06/24/citizen-action-of-wisconsin-endorses-christian-phelps-for-wisconsins-93rd-assembly-district",
-"https://phelpscampaign.com/2024/06/30/christian-phelps-on-715-news-makers-podcast",
-"https://phelpscampaign.com/2024/07/07/93rd-assembly-district-democratic-candidate-forum",
-"https://phelpscampaign.com/2024/07/07/get-out-the-vote-party-w-fmr-lt-gov-mandela-barnes",
-"https://phelpscampaign.com/endorsements",
-"https://phelpscampaign.com/issues",
-"https://phelpscampaign.com/meet-christian",
-"https://phelpscampaign.com/news",
-"https://phelpscampaign.com/news/page/3",
-"https://phelpscampaign.com/remex?summer_search_category=5",
-"https://phelpscampaign.com/remex?summer_search_category=6",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=10",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=100",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=1000",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=250",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1?amount=500",
-"https://secure.actblue.com/donate/public-ed-champions"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/?amount=1000"
+},
+{
+"text": "1",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "3",
+"href": "https://phelpscampaign.com/news/page/3/"
+},
+{
+"text": "Andrew Tarcon",
+"href": "https://andrewtarcon.com"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@phelpscampaign.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1"
+},
+{
+"text": "Endorsements",
+"href": "https://phelpscampaign.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://phelpscampaign.com/remex?summer_search_category=6"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://phelpscampaign.com/"
+},
+{
+"text": "Issues",
+"href": "https://phelpscampaign.com/issues/"
+},
+{
+"text": "Meet Christian",
+"href": "https://phelpscampaign.com/meet-christian/"
+},
+{
+"text": "News",
+"href": "https://phelpscampaign.com/remex?summer_search_category=5"
+},
+{
+"text": "News & Events",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "Next",
+"href": "https://phelpscampaign.com/news/page/3/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1/"
+},
+{
+"text": "Previous",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/08/pride-in-the-park-eau-claire/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/20/american-federation-of-teachers-aft-wisconsin-endorses-christian-phelps-for-wisconsins-93rd-assembly-district/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/20/former-wisconsin-lieutenant-governor-mandela-barnes-endorses-christian-phelps-for-assembly-district-93/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/20/kick-off-party/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/20/voters-and-supporters-gather-to-kick-off-christian-phelps-for-assembly-district-93-campaign/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/21/a-family-fundraiser-for-public-ed-champions/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/24/citizen-action-of-wisconsin-endorses-christian-phelps-for-wisconsins-93rd-assembly-district/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/06/30/christian-phelps-on-715-news-makers-podcast/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/07/07/93rd-assembly-district-democratic-candidate-forum/"
+},
+{
+"text": "Read More",
+"href": "https://phelpscampaign.com/2024/07/07/get-out-the-vote-party-w-fmr-lt-gov-mandela-barnes/"
+},
+{
+"text": "[image: Christian Phelps For State Assembly]",
+"href": "https://phelpscampaign.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/PhelpsCampaign"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cs_phelps/"
+},
+{
+"text": "donating to the Chippewa Valley LGBTQ+ Community Center",
+"href": "https://www.cvlgbt.org/"
+},
+{
+"text": "endorsed",
+"href": "https://www.phelpscampaign.com/endorsements"
+},
+{
+"text": "here",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Fomny.fm%2Fshows%2F715-news-makers%2F6-30-2024-us-air-force-mid-america-band-american-r%3Ft%3D10m44s%26fbclid%3DIwZXh0bgNhZW0CMTAAAR3Zr5sY0dZ-4xPb2EB7OChtMkG02EMEsc8BcgAQ100xIxW-CwvbYltCDeM_aem_gh7AR1FbJQM2RcNFUzmlzA&h=AT3U2o3_Gk38810i4y1IX94VxYfMU1d9kZ-rjboagKd50UdznMSsnu7SqI04aSYL-l1Kxw8KabWJlUrLf2JrSVDNan7-67Kqsi-Kaii1vkY2zMTpc4CFdBKR9aJndRPzKQ&__tn__=-UK-R&c%5B0%5D=AT2u5jlnO5wQhUveujD-jZB8jI5zp3utmiSpVOj0uR4XwBzG985m9FtlupW2NZB-Naaohw07K5099mehC7_hClj1-RTTIlVEm4ifF1doW9FhoxCkizlTdFHKgibUcMRm8gpLVEoCx9WDkxFWW_ZhR1O-os3IQTvMQI5KmVpiuN66ysK1VFZW1gRvf1RI5ZO-VGSCYugFqdaCVB7N31j04PdTq5zq0P05zl47808V-w"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/public-ed-champions"
+}
 ]

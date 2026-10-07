@@ -1,5 +1,5 @@
-Primary Victory!
-Thank You, District 122!
+top of page Menu Korey for SC 122 Close Home Meet Korey Issues Blog Feed Blog My Subscriptions Notifications All Posts Search Primary Victory!
+Korey for SC 122 Jun 30 2 min read Thank You, District 122!
 What an incredible milestone for our campaign.
 Because of your support, we have officially won the Democratic primary for South Carolina House District 122.
 I am deeply honored by the trust you've placed in me, and I'm grateful to every volunteer, supporter, donor, and voter who helped make this moment possible.
@@ -13,4 +13,5 @@ This campaign has always been about putting people before politics and finding p
 Together, we can build a brighter future for our community.
 Thank you for believing in this campaign, and thank you for believing in what's possible.
 I'm excited for the journey ahead, and I look forward to earning your vote this November.
-Here are some snapshots of the campaign so far:
+Here are some snapshots of the campaign so far: Recent Posts See All Korey Williams files to run for SC House District 122 803.398.1423 KoreyforSC122@gmail.com South Carolina, USA Privacy Policy Accessibility Statement Terms & Conditions © # by Korey for SC 122.
+Powered and secured by Wix bottom of page

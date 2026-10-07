@@ -1,7 +1,26 @@
 [
-"https://secure.anedot.com/david-rose-for-arizona/donate",
-"https://votedavidowen.com/contact",
-"https://votedavidrose.com/",
-"https://votedavidrose.com/cart",
-"https://votedavidrose.com/privacy-policy"
+{
+"text": "0",
+"href": "https://www.votedavidrose.com/cart"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/david-rose-for-arizona/donate"
+},
+{
+"text": "DAVID ROSE FOR ARIZONA HOUSE",
+"href": "https://www.votedavidrose.com/"
+},
+{
+"text": "Home",
+"href": "https://www.votedavidrose.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedavidrose.com/privacy-policy"
+},
+{
+"text": "contact us",
+"href": "https://votedavidowen.com/contact"
+}
 ]

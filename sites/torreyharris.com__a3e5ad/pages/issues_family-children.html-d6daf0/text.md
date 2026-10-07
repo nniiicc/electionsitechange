@@ -1,8 +1,15 @@
-Across District 91, too many families are forced to make impossible choices between earning a paycheck and caring for the people they love.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate Why I'm Running Photos & Memories About Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← All Issues Where I Stand · 05 Family & Children Across District 91, too many families are forced to make impossible choices between earning a paycheck and caring for the people they love.
 As Ranking Member of the House Children and Families Committee, I’m committed to building a care economy that supports working families and care workers at every stage of life: childcare, an advanced child tax credit, affordable elder care, and paid family leave.
-What I'm Fighting For
-- Fight for affordable childcare and paid family and medical leave.
-- Create a Tennessee child tax credit and expand support for families raising kids.
-- Lower the cost of elder care by expanding home- and community-based services through TennCare so seniors can age with dignity.
-- Fix our child welfare system and DCS so no child in state custody falls through the cracks.
-- Secure living wages and strong benefits for the care workers who hold our families together.
+What I'm Fighting For Fight for affordable childcare and paid family and medical leave.
+Create a Tennessee child tax credit and expand support for families raising kids.
+Lower the cost of elder care by expanding home- and community-based services through TennCare so seniors can age with dignity.
+Fix our child welfare system and DCS so no child in state custody falls through the cracks.
+Secure living wages and strong benefits for the care workers who hold our families together.
+Previous ← Housing Next Worker’s Rights → The Issues Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Technology & Innovation Reproductive Freedom LGBTQ+ Rights Immigration Free & Fair Elections Gun Violence Stand With Torrey Grassroots support keeps this fight going.
+Donate Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

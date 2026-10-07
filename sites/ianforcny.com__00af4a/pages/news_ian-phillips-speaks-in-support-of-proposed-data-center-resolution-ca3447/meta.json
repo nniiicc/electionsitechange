@@ -1,7 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.ianforcny.com/news/ian-phillips-speaks-in-support-of-proposed-data-center-resolution",
- "paid_for_by": "Paid for by Ian for CNY",
+ "fingerprint": "b1b809b30e626630539b99d3e82d28113e79c7fa",
+ "format": 3,
+ "paid_for_by": "Paid for by Ian for CNY You need to enable JavaScript to run this app",
  "title": "Ian Phillips Speaks in Support of Proposed Data Center Resolution",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

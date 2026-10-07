@@ -1,5 +1,4 @@
-Dear Neighbor,
-Thanks for visiting my website!
+DONATe Home Voting Info About About Sarah About House District 50 Priorities Endorsements Contribute Get In Touch Home Voting Info About About Sarah About House District 50 Priorities Endorsements Contribute Get In Touch Dear Neighbor, Thanks for visiting my website!
 I’m running for State House District 50 because I believe our government works best when it focuses on the people it’s supposed to serve.
 My life’s journey, from a small house here in Santa Fe to the front lines of healthcare, has shaped my commitment to fighting for families like yours.
 I spent much of my childhood in the places where my divorced parents worked - from the wood shop where my dad built cabinets to the restaurants where my mom was a baker and waitress and later a manager.
@@ -20,8 +19,9 @@ My patients taught me what "care" really means—it means looking at the root ca
 Whether it’s through nursing or my service on the Santa Fe Public School Board, my philosophy remains the same: focus on the people.
 I hope you will join our efforts to bring this perspective to the State Legislature.
 I want to hear from you!
-You can always reach me via email at sarahfornewmexico@gmail.com.
+You can always reach me via email at sarahfornewmexico@gmail.com .
 I humbly ask for your vote for State House District 50.
-Sincerely,
-Sarah Boses
-Democrat for State House District 50
+Sincerely, Sarah Boses Democrat for State House District 50 Connect SarahforNewMexico@gmail.com Join us!
+Enter your email address Submit your information © #.
+All rights reserved.
+Paid for and Authorized by Supporters of Sarah for HD 50 7 Avenida Vista Grande B7-120 Santa Fe, NM 87508

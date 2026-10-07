@@ -1,16 +1,9 @@
-January 21, 2026
-|
-Endorsement
-Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsement of Texas Governor Greg Abbott in the Republican primary for Texas’s 32nd Congressional District.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate Texas Governor Greg Abbott Endorses Jace Yarbrough for Congress January 21, 2026 | Endorsement Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsement of Texas Governor Greg Abbott in the Republican primary for Texas’s 32nd Congressional District.
 “Jace Yarbrough is the conservative leader Texans need in Congress to fight for secure borders, parental rights, and Texas values,” said Texas Governor Greg Abbott.
-“His record of standing up to radical indoctrination and backing strong border security proves he is ready to deliver results.”
-Governor Abbott’s endorsement marks a major milestone for Yarbrough’s campaign and reflects confidence in his ability to advance Texas-first, America First priorities in Washington.
+“His record of standing up to radical indoctrination and backing strong border security proves he is ready to deliver results.” Governor Abbott’s endorsement marks a major milestone for Yarbrough’s campaign and reflects confidence in his ability to advance Texas-first, America First priorities in Washington.
 Abbott has been at the forefront of the fight for border security, parental rights, and pushing back against federal overreach during the Biden-Harris Administration.
 Those are the same fights Yarbrough has taken on as a constitutional lawyer and Air Force officer.
-Since launching his campaign, Yarbrough has continued to build momentum across the conservative movement, earning endorsements from members of Congress, Texas state representatives, conservative grassroots organizations, Second Amendment and pro-life groups, and children and family advocacy organizations.
-Endorsement Tracker
-About Jace
-A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+Since launching his campaign, Yarbrough has continued to build momentum across the conservative movement, earning endorsements from members of Congress, Texas state representatives, conservative grassroots organizations, Second Amendment and pro-life groups, and children and family advocacy organizations. ‍ Endorsement Tracker Texas State Representative Daniel Alders Endorses Jace Yarbrough for Congress Rockwall Young Republicans Endorse Jace Yarbrough for Congress American Principles Project PAC President Terry Schilling Endorses Jace Yarbrough for Congress Congressman Keith Self Endorses Jace Yarbrough for Congress Bull Moose Project Endorses Jace Yarbrough for Congress Rockwall City Councilwoman Melba Jeffus Endorses Jace Yarbrough for Congress Children and Family Advocacy Groups Endorse Jace Yarbrough for Congress Texas State Representatives Line Up Behind Jace Yarbrough for Congress Second Amendment and Pro-Life Groups Line Up Behind Jace Yarbrough Jace Yarbrough Announces Early Endorsements Following Campaign Launch ‍ About Jace A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
 A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
 Air Force Reserves and has built a legal career taking on progressive overreach in the courts.
 Following his military service, Yarbrough became a constitutional lawyer, where he challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
@@ -19,4 +12,5 @@ Yarbrough earned degrees in Electrical Engineering and Government from the Unive
 With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
 The Yarbrough family is active in their local church and is raising five children.
 Texas’s 32nd Congressional District encompasses parts of Northern and Eastern Texas, including Camp, Collin, Dallas, Hunt, Rains, Rockwall, Upshur, and Wood Counties.
-Learn more at www.JaceForCongress.com.
+Learn more at www.JaceForCongress.com .
+Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

@@ -1,7 +1,6 @@
-Rep.
+Home About Mary Margaret Voting Info Press Newsletters Request a Yard Sign DONATE October 14, 2022 Critics say Children’s Healthcare should do more to fill gaps in mental health system Rep.
 Mary Margaret Oliver, D-Decatur, who co-sponsored the wide-ranging mental health parity legislation that became state law this year, said that for 10 years she has urged Children’s Healthcare of Atlanta do more to fill gaps in mental health system.
-By Carrie Teegardin, The Atlanta Journal-Constitution
-Children’s Healthcare of Atlanta is building a $1.5 billion, “state of the art” hospital that is rising into the city’s skyline, offering a promise to the youngest Georgians.
+By Carrie Teegardin , The Atlanta Journal-Constitution ‍ Children’s Healthcare of Atlanta is building a $1.5 billion, “state of the art” hospital that is rising into the city’s skyline, offering a promise to the youngest Georgians.
 “Our vision for the new campus is nothing short of transformative pediatric care —for every patient we see,” the healthcare system says on its website.
 Yet some children facing life-threatening conditions won’t be able to get their course of treatment at the new hospital: those who need inpatient care due to a serious mental health diagnosis, an Atlanta Journal-Constitution investigation has found.
 Even as its hospitals have seen dramatic increases in the number of children brought to its ERs with mental health crises, Children’s said it determined through careful study that it wasn’t feasible or even wise to try to build an inpatient psychiatric unit.
@@ -19,8 +18,7 @@ Mary Margaret Oliver, D-Decatur, who co-sponsored the wide-ranging mental health
 “They’re going to save the life of your child who may have cancer or a nightmare of a congenital heart defect.
 And there’s no question that people all over Georgia will bring their very sick child to CHOA,” Oliver said.
 “But that does not mean that they’re serving children with intensive psychiatric needs. . . .
-I want them to do more, and there are many other people in Georgia that want them to do more for the children who are in crisis, based on mental illness.”
-After Gov.
+I want them to do more, and there are many other people in Georgia that want them to do more for the children who are in crisis, based on mental illness.” ‍ ‘High utilizers’ a focus ‍ After Gov.
 Brian Kemp signed the mental health parity bill into law in April, a commission of experts and lawmakers quickly got back to work, saying much more needed to be done to fix the state’s broken mental health system.
 In June, Salinas, of Children’s Healthcare, spoke to the commission to share observations Children’s had about dysfunction in the system.
 “Over the last 18 months, the number of kids presenting to Children’s ERs in crisis with a primary mental behavioral health condition has started to really, really go up and those that we have to place under 1013 [involuntary] commitment has gone up dramatically,” he said.
@@ -45,14 +43,12 @@ And she laid part of the problem on Children’s Healthcare.
 If major hospital players like CHOA stepped up, this problem would not be as pronounced,” she said.
 Later in June, Children’s announced it had hired Dr.
 John Constantino as its Chief of Behavioral and Mental Health.
-Children’s has described Constantino’s new leadership as an opportunity to transform mental health services in Georgia, but the system has emphasized that it still does not plan to open inpatient psychiatric beds.
-Across the country, some pediatric hospitals have taken bold steps to serve children with mental health issues.
+Children’s has described Constantino’s new leadership as an opportunity to transform mental health services in Georgia, but the system has emphasized that it still does not plan to open inpatient psychiatric beds. ‍ Children’s counterparts expanding ‍ Across the country, some pediatric hospitals have taken bold steps to serve children with mental health issues.
 In Columbus, Ohio, the board of Nationwide Children’s Hospital decided to offer services for mental health on par with its top-ranked care for physical illnesses.
 The planning started years ago, as doctors and public health experts worried about growing rates of anxiety, depression and suicide.
 “One in five teenagers have had a significant mental health condition that’s caused severe impairment at some point in their lives,” said Dr.
 David Axelson, chief of the department of psychiatry and behavioral health at Nationwide Children’s.
-“Many more have had milder versions, milder conditions.”
-In 2020, Nationwide Children’s opened the doors of the Big Lots Behavioral Health Pavilion, which stood out as the nation’s largest center dedicated to child and adolescent behavioral and mental health on a pediatric medical campus.
+“Many more have had milder versions, milder conditions.” In 2020, Nationwide Children’s opened the doors of the Big Lots Behavioral Health Pavilion, which stood out as the nation’s largest center dedicated to child and adolescent behavioral and mental health on a pediatric medical campus.
 The nine-story tower, with a child-friendly interior filled with colorful graphics and lots of light, was constructed next to the main hospital, sending a message that the system treats the whole child.
 “It’s to say, hey, this is just as important as all the other very important conditions that we treat here,” Axelson said.
 A broad range of inpatient and outpatient services are housed in the building, where researchers also search for the best mental and behavioral health treatments for kids.
@@ -65,8 +61,7 @@ Historically, children came in only occasionally to the ER in a mental health cr
 “All of a sudden, we found ourselves with 10, 15, 17 kids in our emergency room, and they and their families were desperate for help,” he said.
 The common experience for families, he said, had been that a child in crisis would come to the ER, get sent to a psychiatric hospital, and spend three to five days in intensive therapy, usually including drug therapy.
 “At the end of that point in time, the parents get the child back with a 30-day supply of medication and little to nothing in the way of outpatient care or active follow-up; 30 days later they are back in another ER with the same problem,” Dahling said.
-“So what we’re trying to do is break that pattern.”
-To do that, Dahling said the hospital realized it had to act aggressively.
+“So what we’re trying to do is break that pattern.” To do that, Dahling said the hospital realized it had to act aggressively.
 It started in 2014 by building out an outpatient program, saying it was critical to have a full continuum of care.
 But in 2017, it asked its board to establish 24 inpatient psychiatric beds.
 Questioning whether that would be enough, the board eventually approved adding 60, and the hospital constructed a 14-story Children’s Pavilion on its main campus to house the new beds along with some other medical services.
@@ -76,15 +71,13 @@ Finances are often a big consideration, because of the expense of building and s
 But he said the board told him to expand to meet the need, and they would figure out the finances.
 They did not need to be sold on the mission, he said.
 “There is nothing that is more sobering than a young person who ends up at the beginning of their life to decide to end their life,” Dahling said.
-“There’s just a thousand reasons why this is important to do.”
-Children’s Healthcare of Atlanta said it would take years to gain approval, build a mental health facility and find specialists to staff it.
+“There’s just a thousand reasons why this is important to do.” ‍ Whose burden? ‍ Children’s Healthcare of Atlanta said it would take years to gain approval, build a mental health facility and find specialists to staff it.
 “We know families and children are hurting and are in crisis now,” the system said in a statement.
-“We understand parents are scared and need help now.”
-It says a “broader view” of the issue would be more effective, because more treatment space wouldn’t solve the mental health crisis.
+“We understand parents are scared and need help now.” It says a “broader view” of the issue would be more effective, because more treatment space wouldn’t solve the mental health crisis.
 “The issue that we’re in right now is bigger and broader than one that can be solved by beds,” Salinas told the AJC.
 So, what is Children’s Healthcare doing now?
-It says its plan includes a $112.5 million investment over the next five years.
-Children’s said it expects to spend even more and wants to raise $70 million from donors to help.
+It says its plan includes a $# million investment over the next five years.
+Children’s said it expects to spend even more and wants to raise $# million from donors to help.
 To assess children coming into its ERs, Children’s says it has hired more than 130 professionals in the last two years, including psychiatrists, nurses, social workers and techs.
 That team arranges placements at psychiatric hospitals, if needed, or sends them home when appropriate, with a plan for next steps.
 Children’s also opened an internal referral-based outpatient mental health clinic last year where Children’s Healthcare of Atlanta physicians can send their patients who have physical health issues but who may also need mental health services.
@@ -96,14 +89,12 @@ But Constantino told the AJC this month that his plan will focus on creating new
 Some say the burden isn’t on Children’s to fill all the gaps when it comes to mental health services for kids.
 “Ultimately, Children’s mission is not to provide mental health care,” said Kevin Tanner, a former state legislator who is chairman of the state’s Behavioral Health Reform and Innovation Commission.
 “They’re not in that arena.
-They’re in the physical health side.”
-Tanner, now the county manager in Forsyth County, said there are other ways to address the needs.
+They’re in the physical health side.” Tanner, now the county manager in Forsyth County, said there are other ways to address the needs.
 In Forsyth, for example, the county is planning to build a safety-net facility that will house both the health department and a mental health unit with 30 crisis stabilization beds, including 10 for children.
 Once stabilized, the patients could move to outpatient care.
 “It will essentially be a 24-hour mental health emergency room.
 “We’re excited about that,” Tanner said.
-“We have to start filling that need and we have to do it regionally.”
-The Children’s Hospital of Georgia in Augusta doesn’t have inpatient psychiatric beds, either.
+“We have to start filling that need and we have to do it regionally.” The Children’s Hospital of Georgia in Augusta doesn’t have inpatient psychiatric beds, either.
 Only a few general hospitals in the state do.
 Finances may play into the small number of inpatient units.
 Providers say Georgia’s Medicaid payments for mental health care are low and make it difficult to operate a well-staffed psychiatric unit.
@@ -112,9 +103,9 @@ Given Children’s financial means, though, and its nonprofit status, others say
 Because nonprofit hospitals are exempt from paying taxes and receive favorable bond financing for construction projects, they are supposed to serve the needs of their communities.
 “Children’s should put mental health on parity with physical health,” said state Rep.
 Sharon Cooper, R-Marietta, who is chairwoman of the House Health and Human Services Committee.
-“They should take a billion dollars from their ample reserves and open an inpatient unit staffed by the best professionals in the country.”
-Families go to Children’s in a crisis and assume that the system will have comprehensive pediatric services, including care for mental health, said Rep.
+“They should take a billion dollars from their ample reserves and open an inpatient unit staffed by the best professionals in the country.” Families go to Children’s in a crisis and assume that the system will have comprehensive pediatric services, including care for mental health, said Rep.
 Todd Jones, a co-sponsor of the Mental Health Parity Act.
 “And they don’t,” he said.
 If you or someone you know is struggling or in crisis, help is available.
 Call or text 988 or chat 988lifeline.org.
+Back to News Recent posts August 28, 2026 Summer Fun and Summer Work September 9, 2026 Georgia child welfare agency's surveillance tools raise privacy concerns June 28, 2026 Special Session Recap and Happy 4th! mmo@mmolaw.com

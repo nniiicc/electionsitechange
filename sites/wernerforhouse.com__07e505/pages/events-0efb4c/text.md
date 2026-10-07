@@ -1,4 +1,2 @@
-Join Us
-Campaign Events
-If there are any events you would like to see Owen attend please reach out at owen@wernerforhouse.com.
-There are no upcoming events.
+Skip navigation menu About Events Issues Contact Donate About Events Issues Contact Donate Join Us Campaign Events If there are any events you would like to see Owen attend please reach out at owen@wernerforhouse.com .
+There are no upcoming events. sign up to make rural Minnesota HEARD First Name First Name Email Email ZIP Code ZIP Code Submit Privacy Policy owen@wernerforhouse.com Powered by RUN! website builder Prepared and Paid for by Werner for House Committee 358 2nd Ave SE Perham, MN You need to enable JavaScript to run this app.

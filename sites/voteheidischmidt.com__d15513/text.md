@@ -1,6 +1,3 @@
-Let’s Get Schmidt Done
-in District 31
-Sign up for updates
-Support Our Campaign
-I’m building a grassroots campaign in District 31, and I can’t do it without you.
+0 Skip to Content Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE Open Menu Close Menu Home Meet Heidi On the Issues Get Involved DONATE Let’s Get Schmidt Done in District 31 Meet Heidi Sign up for updates Support Our Campaign I’m building a grassroots campaign in District 31, and I can’t do it without you.
 Whether it’s knocking on doors, sharing your story, hosting a meet & greet, or chipping in a few dollars, your support fuels this movement.
+DONATE VOLUNTEER Proudly Endorsed by… By Authority: Friends of Heidi Schmidt Treasurer: Adam Schmidt DONATE TO OUR CAMPAIGN

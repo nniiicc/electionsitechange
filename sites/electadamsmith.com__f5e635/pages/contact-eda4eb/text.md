@@ -1,7 +1,4 @@
-Contact Us
-We want to hear from you!
-Adam Smith for Congress
-PO Box 578
-Renton, WA 98057
-Office: +1 (206) 308-8986
-Email: info@electadamsmith.com
+Skip to main content Skip to main content Donate English Español × Home Meet Adam Priorities Endorsements Volunteer Contact Us Español Follow Adam Donate Menu Contact Us We want to hear from you!
+Adam Smith for Congress PO Box 578 Renton, WA 98057 Office: +1 (206) 308-8986 Email: info@electadamsmith.com Follow Adam Home Meet Adam Priorities Endorsements Volunteer Contact Us Español Adam Smith is a Democrat running for Congress in Washington’s 9th District.
+Adam Smith is a life long Washingtonian and is known for his work on national security, affordable healthcare and housing, and his work to ensure government delivers for working families.
+Support his campaign by donating online or signing up to volunteer. contributions can be mailed to: PO Box 578 Renton, WA 98057 Paid for by Adam Smith for Congress

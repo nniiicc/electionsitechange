@@ -1,32 +1,13 @@
-Greater Stamford Young Democrats Announce Candidate Endorsements for 2024 Election Cycle
-Monday, June 17, 2024
-CONTACT: gsydems@gmail.com
-GREATER STAMFORD YOUNG DEMOCRATS ANNOUNCE CANDIDATE ENDORSEMENTS FOR 2024 ELECTION CYCLE
-Young Civic Leaders in Greater Stamford Area Share Roster of Champions for Young Residents’ Concerns and Priorities
-STAMFORD, CT — On Monday, June 17, 2024, the Greater Stamford Young Democrats (GSYD) released their list of endorsements for the 2024 election cycle.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Greater Stamford Young Democrats Announce Candidate Endorsements for 2024 Election Cycle Jun 17 Written By Miles Halpine Monday, June 17, 2024 CONTACT: gsydems@gmail.com GREATER STAMFORD YOUNG DEMOCRATS ANNOUNCE CANDIDATE ENDORSEMENTS FOR 2024 ELECTION CYCLE Young Civic Leaders in Greater Stamford Area Share Roster of Champions for Young Residents’ Concerns and Priorities STAMFORD, CT — On Monday, June 17, 2024, the Greater Stamford Young Democrats (GSYD) released their list of endorsements for the 2024 election cycle.
 Included are both first-time and incumbent candidates who currently represent or are running to represent at least one of the five Greater Stamford area municipalities of Darien, Greenwich, New Canaan, Norwalk, and Stamford.
-State House District 42 - Savet Constantine
-State House District 137 - Kadeem Roberts*
-State House District 141 - Sheila Quinn
-State House District 145 - Corey Paris**
-State House District 146 - Eilish Collins Main
-State House District 147 - Matt Blumenthal**
-State House District 148 - Jonathan Jacobson*
-State House District 149 - Rachel Khanna
-State House District 151 - Hector Arzeno
-State Senate District 27 - Pat Billie Miller
-State Senate District 36 - Nick Simmons
-*Roberts and Jacobson are young Democratic candidates.
-**Paris is a former Connecticut Young Democrats president and Blumenthal is a former Greater Stamford Young Democrats vice president.
+State House District 42 - Savet Constantine State House District 137 - Kadeem Roberts* State House District 141 - Sheila Quinn State House District 145 - Corey Paris** State House District 146 - Eilish Collins Main State House District 147 - Matt Blumenthal** State House District 148 - Jonathan Jacobson* State House District 149 - Rachel Khanna State House District 151 - Hector Arzeno State Senate District 27 - Pat Billie Miller State Senate District 36 - Nick Simmons *Roberts and Jacobson are young Democratic candidates. **Paris is a former Connecticut Young Democrats president and Blumenthal is a former Greater Stamford Young Democrats vice president.
 Statements from the organization’s president and executive vice president are below.
 “The Greater Stamford Young Democrats are excited to formally endorse nearly a dozen local public servants stepping up to make a difference throughout the region.
 On a wide range of issues — like strengthening reproductive and LGBTQ+ rights, making college and housing more affordable, creating an fairer economy for working families, addressing economic and racial injustice, uplifting historically underrepresented communities, tackling the climate crisis, and prioritizing constituent services — is a testament to how these Democrats are committed to working for the people and communities they serve,” said GSYD President Alisson Meza.
-“We are confident that both young people in our area and all residents will be served well by this group of experienced incumbents and qualified newcomers.”
-“On a regular basis, we hear from young people in our area who express interest in getting civically engaged so we are excited to help make that opportunity a reality,” said GSYD Executive Vice President Geraldine Uribe.
+“We are confident that both young people in our area and all residents will be served well by this group of experienced incumbents and qualified newcomers.” “On a regular basis, we hear from young people in our area who express interest in getting civically engaged so we are excited to help make that opportunity a reality,” said GSYD Executive Vice President Geraldine Uribe.
 “In a few years, Millennials and Gen Z will be the biggest voting bloc.
 However, we aren’t waiting to have an impact.
-We know what’s at stake this election cycle and we aren’t going to sit on the sidelines when so many important issues are on the ballot.”
-About the Greater Stamford Young Democrats
-Established in February 2023, the Greater Stamford Young Democrats aim to engage, empower, and elect young people in the Greater Stamford area, including Darien, Greenwich, New Canaan, Norwalk, and Stamford.
+We know what’s at stake this election cycle and we aren’t going to sit on the sidelines when so many important issues are on the ballot.” About the Greater Stamford Young Democrats Established in February 2023, the Greater Stamford Young Democrats aim to engage, empower, and elect young people in the Greater Stamford area, including Darien, Greenwich, New Canaan, Norwalk, and Stamford.
 To learn more, visit gsydems.com.
-###
+### Miles Halpine Previous Previous Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main Next Next Stamford Patch: Stamford Democrats Endorse Slate Of Candidates For November Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

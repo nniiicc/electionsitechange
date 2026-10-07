@@ -1,4 +1,4 @@
-2026 Endorsements
-I am honored by the endorsements that I have received from constituents, elected officials, and agencies in their support of my re-election.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE 2026 Endorsements I am honored by the endorsements that I have received from constituents, elected officials, and agencies in their support of my re-election.
 I take great pride in serving our community which includes constituent outreach and assistance, researching issues that come before me, and representing the best interests of our district in committees and floor sessions.
 Thank you for the opportunity to serve District 19!
+Add your voice / Submit your endorsement Loading… Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

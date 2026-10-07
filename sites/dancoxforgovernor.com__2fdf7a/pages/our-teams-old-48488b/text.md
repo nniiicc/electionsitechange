@@ -1,8 +1,8 @@
-Lt.
-Governor Candidate
-Rob Krop for Lt.
-Governor
-Rob Krop is a lifelong Maryland resident from Frederick County, a devoted husband to his wife Steph of 18 years, and a proud father of four.
+Skip to main content Dan Cox for Governor Menu Home About Dan Cox Lt.
+Gov.
+Candidate Issues News Events Volunteer Store Get A Sign Contact Donate Donate Lt.
+Governor Candidate Rob Krop for Lt.
+Governor Rob Krop is a lifelong Maryland resident from Frederick County, a devoted husband to his wife Steph of 18 years, and a proud father of four.
 He is a graduate of Liberty University, where he earned a degree in Biblical Studies, and he is an active member of First Baptist Church of Green Valley.
 Faith, family, and personal responsibility are central to how Rob lives and leads.
 With over 20 years in the real estate industry, Rob runs one of the top-performing real estate teams in the DMV, the Krop Team.
@@ -23,3 +23,6 @@ Too many families are being priced out of the communities they helped build.
 Rob has also seen the damage caused by poorly planned government projects, including the Maryland Piedmont Reliability Project running through Frederick and Carroll Counties, as well as the unchecked expansion of data centers that are driving residents out and destroying property values.
 These decisions are made without meaningful local input, and Maryland families pay the price.
 Rob Krop is running to make Maryland more affordable, stop government corruption, protect property rights, and defend individual liberty so government works for the people again, not against them.
+DONATE TO DAN COX FOR GOVERNOR $50 $100 $250 $1000 $1776 $6000 FOLLOW US Manage consent Accept All Close Save and Close Powered by (opens in a new window) Search Home Old About Dan Cox Old Lt.
+Gov.
+Candidate Issues Old News Events Volunteer Old Store Old Get A Sign Old Contact Old

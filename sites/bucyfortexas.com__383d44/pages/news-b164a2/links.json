@@ -1,42 +1,242 @@
 [
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap",
-"https://bucyfortexas.com/category/awards",
-"https://bucyfortexas.com/category/bucy-bulletin",
-"https://bucyfortexas.com/category/events",
-"https://bucyfortexas.com/category/press-releases",
-"https://bucyfortexas.com/category/priorities",
-"https://bucyfortexas.com/category/single-post",
-"https://bucyfortexas.com/category/town-hall",
-"https://bucyfortexas.com/category/voting-information",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/events/john-bucys-40th-birthday-bash",
-"https://bucyfortexas.com/events/john-bucys-birthday-bash-2",
-"https://bucyfortexas.com/events/town-hall-88th-legislative-session-overview",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/press-releases/im-running-for-re-election",
-"https://bucyfortexas.com/press-releases/rep-bucy-statement-on-property-tax-relief-act-vote",
-"https://bucyfortexas.com/press-releases/say-no-to-vouchers",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/single-post/constitutional-amendment-overview",
-"https://bucyfortexas.com/single-post/rep-bucy-discusses-texas-floods-with-msnbc",
-"https://bucyfortexas.com/single-post/winter-weather-preparedness",
-"https://bucyfortexas.com/vote",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://secure.actblue.com/donate/john-bucy",
-"https://techforcampaigns.org/",
-"https://twitter.com/BucyForTexas"
+{
+"text": "Awards",
+"href": "https://bucyfortexas.com/category/awards/"
+},
+{
+"text": "Bucy Bulletin",
+"href": "https://bucyfortexas.com/category/bucy-bulletin/"
+},
+{
+"text": "Bucy Bulletin – Session Recap",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "Constitutional Amendment Overview",
+"href": "https://bucyfortexas.com/single-post/constitutional-amendment-overview/"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Events",
+"href": "https://bucyfortexas.com/category/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "I’m running for re-election",
+"href": "https://bucyfortexas.com/press-releases/im-running-for-re-election/"
+},
+{
+"text": "John Bucy’s 40th Birthday Bash",
+"href": "https://bucyfortexas.com/events/john-bucys-40th-birthday-bash/"
+},
+{
+"text": "John Bucy’s Birthday Bash",
+"href": "https://bucyfortexas.com/events/john-bucys-birthday-bash-2/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "Press Releases",
+"href": "https://bucyfortexas.com/category/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/category/priorities/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/events/john-bucys-40th-birthday-bash/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/events/john-bucys-birthday-bash-2/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/events/town-hall-88th-legislative-session-overview/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/press-releases/im-running-for-re-election/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/press-releases/rep-bucy-statement-on-property-tax-relief-act-vote/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/press-releases/say-no-to-vouchers/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/single-post/constitutional-amendment-overview/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/single-post/rep-bucy-discusses-texas-floods-with-msnbc/"
+},
+{
+"text": "Read more",
+"href": "https://bucyfortexas.com/single-post/winter-weather-preparedness/"
+},
+{
+"text": "Rep. Bucy discusses Texas Floods with MSNBC",
+"href": "https://bucyfortexas.com/single-post/rep-bucy-discusses-texas-floods-with-msnbc/"
+},
+{
+"text": "Rep. Bucy statement on Property Tax Relief Act vote",
+"href": "https://bucyfortexas.com/press-releases/rep-bucy-statement-on-property-tax-relief-act-vote/"
+},
+{
+"text": "Say No to Vouchers",
+"href": "https://bucyfortexas.com/press-releases/say-no-to-vouchers/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Town Hall",
+"href": "https://bucyfortexas.com/category/town-hall/"
+},
+{
+"text": "Town Hall: 88th Legislative Session Overview",
+"href": "https://bucyfortexas.com/events/town-hall-88th-legislative-session-overview/"
+},
+{
+"text": "Uncategorized",
+"href": "https://bucyfortexas.com/category/single-post/"
+},
+{
+"text": "Voting Information",
+"href": "https://bucyfortexas.com/category/voting-information/"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "Winter Weather Preparedness",
+"href": "https://bucyfortexas.com/single-post/winter-weather-preparedness/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/bucy-bulletin/bucy-bulletin-session-recap/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/events/john-bucys-40th-birthday-bash/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/events/john-bucys-birthday-bash-2/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/events/town-hall-88th-legislative-session-overview/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/press-releases/rep-bucy-statement-on-property-tax-relief-act-vote/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/press-releases/say-no-to-vouchers/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/single-post/constitutional-amendment-overview/"
+},
+{
+"text": "[image]",
+"href": "https://bucyfortexas.com/single-post/winter-weather-preparedness/"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+}
 ]

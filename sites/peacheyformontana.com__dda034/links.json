@@ -1,9 +1,38 @@
 [
-"http://instagram.com/votepeachey",
-"http://x.com/peacheymontana",
-"https://facebook.com/profile.php?id=61588402126272",
-"https://peacheyformontana.com/",
-"https://peacheyformontana.com/blank-1",
-"https://peacheyformontana.com/blank-1-1",
-"https://secure.winred.com/peachey-for-montana/donate-today"
+{
+"text": "About",
+"href": "https://www.peacheyformontana.com/blank-1"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/peachey-for-montana/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.peacheyformontana.com"
+},
+{
+"text": "Media",
+"href": "https://www.peacheyformontana.com/blank-1-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.peacheyformontana.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.peacheyformontana.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/votepeachey/"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/peacheymontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588402126272"
+}
 ]

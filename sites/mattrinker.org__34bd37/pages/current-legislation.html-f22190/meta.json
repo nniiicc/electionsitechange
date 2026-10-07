@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://mattrinker.org/current-legislation.html",
- "paid_for_by": null,
+ "fingerprint": "1d459900da5d10b42830ca79b48d9c39918df12a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Current Legislation",
- "years_mentioned": [
-  "2022"
- ]
+ "years_mentioned": []
 }

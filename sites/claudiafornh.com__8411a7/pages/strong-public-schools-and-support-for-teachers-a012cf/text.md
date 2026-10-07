@@ -1,7 +1,3 @@
-Strong Public Schools and Support for Teachers
-The school voucher system is hurting our public schools, and adding to the financial burden on our communities.
-To see the pros and cons, please visit:
-Citizens Count- School Vouchers
-For additional information on the effects of NH school voucher system, please visit:
-NEANH- Public Education Advocates Condemn Gov.
-Ayotte Signing Laws to Expand School Vouchers to Wealthy Families, Pass So-Called “Parental Bill of Rights” Targeting Educators, LGBTQ+ Students
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Strong Public Schools and Support for Teachers The school voucher system is hurting our public schools, and adding to the financial burden on our communities.
+To see the pros and cons, please visit: Citizens Count- School Vouchers For additional information on the effects of NH school voucher system, please visit: NEANH- Public Education Advocates Condemn Gov.
+Ayotte Signing Laws to Expand School Vouchers to Wealthy Families, Pass So-Called “Parental Bill of Rights” Targeting Educators, LGBTQ+ Students PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

@@ -1,9 +1,15 @@
 {
  "description": "Iowa Representative Ray Bubba Sorensen, who also creates Freedom Rocks across Iowa and America is asking for your support and vote!",
  "final_url": "https://sorensenforiowa.com/about-bubba-sorensen",
- "paid_for_by": null,
+ "fingerprint": "d096719745ae0efabe893f8d7b92d399ddcfb535",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About - Bubba Sorensen",
  "years_mentioned": [
+  "1999",
+  "2005",
+  "2007",
+  "2008",
   "2011",
   "2013",
   "2014",
@@ -11,7 +17,6 @@
   "2019",
   "2020",
   "2021",
-  "2024",
-  "2026"
+  "2024"
  ]
 }

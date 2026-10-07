@@ -1,5 +1,4 @@
-About me
-I grew up in Iowa in a small town and then went to college in Minnesota.
+0 Skip to Content Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate About me I grew up in Iowa in a small town and then went to college in Minnesota.
 Thirty years ago, I moved to Vermont with a sense of adventure, thinking it was for a short time.
 But I quickly felt at home.
 I found interesting work, joined a club Ultimate frisbee team, and hiked and cross country skied whenever I could.
@@ -18,3 +17,4 @@ Until recently, I was the Chair of the Burlington Parks Commission and on the Bo
 Over my 30 years in Vermont, I have been fortunate to be helped along by so many people and organizations.
 I truly would not be where I am without that help.
 Now I want to give back by working to shape policy to help us build a thriving and vibrant future.
+Donate Contact aduke@leg.state.vt.us Paid for by Abbey Duke for Vermont 82 Village Green Burlington, VT 05408 Private Policy

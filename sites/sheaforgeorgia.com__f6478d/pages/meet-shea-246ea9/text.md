@@ -1,5 +1,4 @@
-In My House, And In This Community, There Is a Place For Everyone
-I’m a mom, so I know being a parent is both the best and hardest job in the world.
+Cart 0 Meet Shea Platform Vote Contribute Cart 0 Meet Shea Platform Vote Contribute Scroll MEET SHEA ROBERTS In My House, And In This Community, There Is a Place For Everyone I’m a mom, so I know being a parent is both the best and hardest job in the world.
 My children and all of Georgia's children inspire and motivate me every day.
 I was raised to leave this world better than I found it.
 Our current leaders are failing.
@@ -27,3 +26,5 @@ I have been and will continue to fight to change our state’s political climate
 Lastly, I’m incredibly grateful – to all the people who have supported me during my all my campaigns and continue to support me now as the representative for House District 52.
 It is my honor to represent every citizen in our district and in the great State of Georgia.
 I look forward to receiving your input as we work together to create a better Georgia for all.
+Meet-Banner Mee-Bio Get Updates Contact Us Paid for by Shea Roberts for Georgia Campaign Address: P.O Box 28571 Atlanta, GA 30358 Capitol Office Address: 608-B Coverdell Legislative Office Bldg.
+Atlanta, GA 30334 (404) 656-0298 shea@sheaforgeorgia.com | shea.roberts@house.ga.gov

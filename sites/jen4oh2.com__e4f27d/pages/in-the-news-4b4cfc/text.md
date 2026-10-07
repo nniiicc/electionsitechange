@@ -1,4 +1,2 @@
-Come here to find links to various videos and articles to learn more about me.
-This page will continuously be updsated.
-https://www.wvxu.org/politics/2026-04-03/democratic-candidates-ohio-2nd-district-jennifer-mazzuckelli-todd-wilson
-https://www.mariettatimes.com/news/2026/05/mazzuckelli-wilson-seek-democratic-nomination-in-ohios-2nd-house-district/
+Home About In the News Donate Home About In the News Donate In the News Videos and Interviews Come here to find links to various videos and articles to learn more about me.
+This page will continuously be updsated. https://ballotpedia.org/Jen_Mazzuckelli https://www.wvxu.org/politics/2026-04-03/democratic-candidates-ohio-2nd-district-jennifer-mazzuckelli-todd-wilson https://www.mariettatimes.com/news/2026/05/mazzuckelli-wilson-seek-democratic-nomination-in-ohios-2nd-house-district/

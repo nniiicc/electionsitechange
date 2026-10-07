@@ -1,7 +1,11 @@
 {
  "description": "Find your polling place.",
  "final_url": "https://www.voteelmquist.com/events/2026-primary-election-day",
+ "fingerprint": "132791495fa25eec9c121c59233da72808a0a2d2",
+ "format": 3,
  "paid_for_by": "Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top",
- "title": "Primary Election Day \u2014 Elmquist for House",
- "years_mentioned": []
+ "title": "Primary Election Day — Elmquist for House",
+ "years_mentioned": [
+  "2026"
+ ]
 }

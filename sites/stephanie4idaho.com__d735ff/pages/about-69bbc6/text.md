@@ -1,16 +1,6 @@
-Meet Stephanie Mickelsen
-Stephanie Mickelsen has farmed for 34 years with her husband, Mark.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search About Meet Stephanie Mickelsen Stephanie Mickelsen has farmed for 34 years with her husband, Mark.
 Stephanie graduated with an Associates of Arts and Science in Economics from BYU-Idaho.
 Stephanie currently serves as Chair of the Idaho Groundwater Appropriators and Chair of the Bonneville Jefferson Ground Water District.
 Stephanie has had numerous opportunities to communicate about agriculture.
-These include:
-- Panelist/Presenter at the Land O’Lakes “Food Effect” SXSW Conference Austin, Texas in March 2018
-- Panelist at Winfield United Grower Convention in January 2018
-- Panelist/Presenter for BASF in Raleigh NC 2019
-- Panelist/Presenter for Rabo Bank 2019
-- Bonneville Historical Society Presenter on “Agriculture through the Years in Bonneville County”
-- Farm Credit Services Nomination Committee for Board of Directors
-- Testified in front of Idaho House and Senate Ag Committees on various agricultural issues
-- Multiple interviews with local news organizations (tv and newspaper) on agricultural and labor issues
-Stephanie learned early on that being involved in your community was necessary in their farming business.
-Stephanie and her husband Mark have 4 children and 12 grandchildren (all under the age of 5.)
+These include: Panelist/Presenter at the Land O’Lakes “Food Effect” SXSW Conference Austin, Texas in March 2018 Panelist at Winfield United Grower Convention in January 2018 Panelist/Presenter for BASF in Raleigh NC 2019 Panelist/Presenter for Rabo Bank 2019 Bonneville Historical Society Presenter on “Agriculture through the Years in Bonneville County” Farm Credit Services Nomination Committee for Board of Directors Testified in front of Idaho House and Senate Ag Committees on various agricultural issues Multiple interviews with local news organizations (tv and newspaper) on agricultural and labor issues Stephanie learned early on that being involved in your community was necessary in their farming business.
+Stephanie and her husband Mark have 4 children and 12 grandchildren (all under the age of 5.) Home About Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

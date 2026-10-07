@@ -1,5 +1,4 @@
-Meet Kelly
-Kelly Garrett is a community driven leader who has spent more than a decade fighting for the people she serves.
+Meet Kelly Issues News Volunteer Contribute Meet Kelly Kelly Garrett is a community driven leader who has spent more than a decade fighting for the people she serves.
 In Lathrup Village, she created the first infrastructure committee in the city’s history and led the charge to rebuild what residents had gone far too long without.
 Under her leadership, the city replaced several miles of water mains, cleaned and repaired many miles of sewer, removed lead service lines, upgraded fire hydrants, and completed the entire project $1.5 million dollars under budget.
 She also oversaw the reconstruction of 8.3 miles of neighborhood roads.
@@ -17,3 +16,5 @@ She is also a proud member of Alpha Kappa Alpha Sorority Incorporated.
 Kelly’s story is rooted in resilience, service, and results.
 Her vision is focused on stronger neighborhoods, safer communities, and a Michigan where families do not have to struggle just to survive.
 Let’s make life affordable for everyone again.
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

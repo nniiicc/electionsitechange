@@ -1,55 +1,20 @@
-Events
-RSVPs are required for phonebanks, but optional for all other events.
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Events RSVPs are required for phonebanks, but optional for all other events.
 Your RSVP helps us plan accordingly!
-Oct
-4
-Sep
-29
-Sep
-27
-Sep
-20
-Sep
-13
-Doorknock for Rep.
-Rehrauer - 9/13
-Join Team Elmquist for a doorknock with Rep.
+Oct 8 SD 40 Day of Action with Congresswoman Betty McCollum - 10/8 Thursday, October 8, 2026 4:30 PM 7:30 PM New Brighton Community Center (map) Google Calendar ICS RSVP here View Event → Oct 11 Mounds View Doorknock with Aisha Elmquist - 10/11 Sunday, October 11, 2026 10:00 AM 12:00 PM Mounds View, Minnesota (map) Google Calendar ICS RSVP here.
+View Event → Oct 13 Shoreview Doorknock with Attorney General Keith Ellison - 10/13 Tuesday, October 13, 2026 5:30 PM 7:30 PM Shoreview, Minnesota (map) Google Calendar ICS RSVP here.
+View Event → Oct 15 Doorknock for Rep.
+Kari Rehrauer in Coon Rapids with House Candidates Kyrstin Schuette & Aisha Elmquist!
+Thursday, October 15, 2026 5:00 PM 7:00 PM Google Calendar ICS RSVP here.
+View Event → Oct 17 Day of Action for Jim DeMay, House Candidate, District 36A - 10/17 Saturday, October 17, 2026 9:30 AM 11:30 PM DFL Field Office White Bear Lake (map) Google Calendar ICS RSVP here View Event → Nov 3 General Election Tuesday, November 3, 2026 7:00 AM 8:00 PM Your Polling Place! (map) Google Calendar ICS View Event → Oct 4 New Brighton Doorknock with State Auditor Candidate Zack Filipovich - 10/4 Sunday, October 4, 2026 12:00 PM 3:00 PM Sunny Square Park (map) Google Calendar ICS RSVP here.
+View Event → Sep 29 Mounds View Doorknock - 9/29 Tuesday, September 29, 2026 5:30 PM 7:30 PM Colonial Village (map) Google Calendar ICS RSVP here.
+View Event → Sep 27 Mounds View Doorknock - 9/27 Sunday, September 27, 2026 12:00 PM 3:00 PM Hodges Park (map) Google Calendar ICS RSVP here.
+View Event → Sep 20 Shoreview Doorknock - 9/20 Sunday, September 20, 2026 3:00 PM 5:00 PM Shamrock Park (map) Google Calendar ICS RSVP Here.
+View Event → Sep 13 Doorknock for Rep.
+Rehrauer - 9/13 Sunday, September 13, 2026 11:00 AM 1:00 PM Coon Rapids, MN (map) Google Calendar ICS Join Team Elmquist for a doorknock with Rep.
 Kari Rehrauer in Coon Rapids!
-Sep
-10
-Aug
-21
-Aug
-11
-Aug
-11
-Aug
-10
-Aug
-9
-Aug
-8
-Aug
-4
-Aug
-1
-Jul
-26
-Jul
-25
-Jul
-15
-Jul
-12
-Jun
-25
-Jun
-20
-Jun
-6
-Jun
-4
-May
-20
-May
-18
+RSVP at https://secure.ngpvan.com/2rcGGM7MwkCdcnKyTgV9OA2 View Event → Sep 10 SD 40 Day of Action Knock Thursday, September 10, 2026 5:00 PM 7:30 PM New Brighton Community Center (map) Google Calendar ICS RSVP here View Event → Aug 21 Community Event Mounds View Day in the Park Parade Friday, August 21, 2026 5:00 PM 8:30 PM Google Calendar ICS RSVP Here View Event → Aug 11 Primary Day Phonebank Tuesday, August 11, 2026 12:00 PM 5:00 PM Virtual (map) Google Calendar ICS RSVP Here View Event → Aug 11 Primary Election Day Tuesday, August 11, 2026 7:00 AM 8:00 PM Your Polling Place! (map) Google Calendar ICS Find your polling place.
+View Event → Aug 10 Primary GOTV Phonebank Monday, August 10, 2026 6:00 PM 9:00 PM Virtual (map) Google Calendar ICS RSVP Here View Event → Aug 9 Primary GOTV Doorknock Sunday, August 9, 2026 12:00 PM 3:00 PM Greenfield Park (map) Google Calendar ICS RSVP Here View Event → Aug 8 Community Event New Brighton Stockyard Days Parade Saturday, August 8, 2026 9:00 AM 12:00 PM Google Calendar ICS RSVP Here View Event → Aug 4 Community Event National Night to Unite Tuesday, August 4, 2026 5:30 PM 8:30 PM Google Calendar ICS View Event → Aug 1 Talk to Voters August 1 Doorknock Saturday, August 1, 2026 11:00 AM 1:30 PM McCullough Park (map) Google Calendar ICS RSVP Here View Event → Jul 26 Talk to Voters July 26 Doorknock with Rep.
+Esther Agbaje Sunday, July 26, 2026 12:30 PM 3:00 PM Lake Johanna Park (map) Google Calendar ICS RSVP Here View Event → Jul 25 Community Event Slice of Shoreview Parade Saturday, July 25, 2026 9:00 AM 12:00 PM Google Calendar ICS RSVP Here View Event → Jul 15 Talk to Voters July 15 Phonebank Wednesday, July 15, 2026 6:00 PM 8:00 PM Google Calendar ICS RSVP Here View Event → Jul 12 Talk to Voters July 12 Doorknock Sunday, July 12, 2026 2:00 PM 4:30 PM Mounds View, Mn (map) Google Calendar ICS RSVP Here View Event → Jun 25 Talk to Voters June 25 Phonebank Thursday, June 25, 2026 6:00 PM 7:00 PM Google Calendar ICS RSVP Here View Event → Jun 20 Talk to Voters June 20 Doorknock Saturday, June 20, 2026 10:30 AM 1:00 PM Sunny Square Park (map) Google Calendar ICS RSVP Here View Event → Jun 6 Talk to Voters Doorknock Kickoff Saturday, June 6, 2026 3:00 PM 5:30 PM Shoreview Community Center (map) Google Calendar ICS RSVP Here View Event → Jun 4 Talk to Voters June 4 Phonebank Thursday, June 4, 2026 6:00 PM 8:00 PM Google Calendar ICS RSVP Here View Event → May 20 Phonebank Wednesday, May 20, 2026 6:00 PM 8:30 PM Google Calendar ICS RSVP Here View Event → May 18 Volunteer Training Monday, May 18, 2026 6:00 PM 7:30 PM Ramsey County Library - Shoreview (map) Google Calendar ICS RSVP Here View Event → Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

@@ -1,18 +1,2 @@
-Home
-About
-Issues
-News
-Volunteer
-Contact
-Donate
-Home
-About
-Issues
-News
-Volunteer
-Contact
-Donate
-Latest News
-Visitor Information Reporting
-Allow this website to collect visitor and device info for statistical purposes.
+Home About Issues News Volunteer Contact Donate Home About Issues News Volunteer Contact Donate Latest News News Get the latest updates from the campaign RECENT POSTS Paid for by Mottern For Alabama Home Issues Meet Volunteer Privacy Policy Home Issues Meet Volunteer Privacy Policy Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
 Save Changes

@@ -1,5 +1,10 @@
-About Mark
-I’ve lived in the small town of Leipsic nearly my entire life, just like generations of my family before me.
+Chip In Today!
+About Mark Common Sense 302 ★ 11‑Point Plan Why Not Delaware?
+Vote Absentee!
+When To Vote!
+Need A Ride To The Polls?
+Campaign News Delaware News Press Kit Volunteers Needed!
+Contact Mark About Mark Passing The Torch, A Short Film By Friends Of Mark Pugh I’ve lived in the small town of Leipsic nearly my entire life, just like generations of my family before me.
 My roots here go back to my great-grandparents in the early 1900s, and this community has shaped who I am.
 Small towns like Leipsic, and so many others in the 14th Senate District, teach you the kind of life lessons that make Delaware a great place to call home.
 I started working at my family’s business when I was just 12 years old.
@@ -39,18 +44,16 @@ After my time on the CEDS committee, I shifted my focus to helping people with a
 Over the years, I’ve been involved in numerous political campaigns across Delaware, from U.S.
 Congress to city council, and for candidates from both parties.
 For me, the most important thing has always been the willingness to serve others.
-Throughout my career, I’ve stayed active in my community in many different ways, including:
-- Member, Central Chamber of Commerce
-- Member, Kent County Ducks Unlimited
-- Member & Past President, Dover Colonial Rotary
-- Member & Program Chair, Smyrna/Clayton Rotary
-- Member, Duck Creek Regional Library
-- Member, Harmony #13, Smyrna, Delaware
-Public service isn’t just something I talk about—it’s something I’ve lived.
+Throughout my career, I’ve stayed active in my community in many different ways, including: Member, Central Chamber of Commerce Member, Kent County Ducks Unlimited Member & Past President, Dover Colonial Rotary Member & Program Chair, Smyrna/Clayton Rotary Member, Duck Creek Regional Library Member, Harmony #13, Smyrna, Delaware Public service isn’t just something I talk about—it’s something I’ve lived.
 I believe in working hard, doing what’s right, and making sure every Delawarean has the opportunity to succeed.
 That’s why I’m running—to serve you, to listen, and to fight for the values that make our communities strong.
-Thanks for taking the time to check out my website, and please make sure to take a look at my 11-point plan to bring Delaware back to sanity & prosperity.
+Thanks for taking the time to check out my website, and please make sure to take a look at my 11-point plan to bring Delaware back to sanity & prosperity .
 If you’re a hardworking taxpayer or a parent who’s tired of watching things go downhill with no end in sight, I know you agree that it's time to take action and bring Delaware back to where it should be!
-All My Best,
-Mark R.
-Pugh
+All My Best, Mark R.
+Pugh © # Friends of Mark Pugh for Senate All Rights Reserved Paid for by Friends of Mark Pugh for Senate Chip In Today!
+About Mark Common Sense 302 ★ 11‑Point Plan Why Not Delaware?
+Vote Absentee!
+When To Vote!
+Need A Ride To The Polls?
+Campaign News Delaware News Press Kit Volunteers Needed!
+Contact Mark × Close Panel

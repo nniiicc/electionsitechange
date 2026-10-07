@@ -1,14 +1,4 @@
-Senator Lammis J.
-Vargas | District 28 (Cranston & Providence) Introduction: Reflecting on 2025 In…
-Skip to content Skip to footer Senator Lammis J.
-Vargas | District 28 (Cranston & Providence) Introduction: Reflecting on 2025 In…
-document.cookie = 'nitroCachedPage=' + (!window.NITROPACK_STATE ?
-'0' : '1') + '; path=/; SameSite=Lax';
-if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
-var proxyPurgeOnly = 0;
-if (typeof navigator.sendBeacon !== 'undefined') {
-var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjYvMDEv'); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', '316e139266dcdfe1cd56ea9c72b3dfefa3d37c34bdb13d2b6ff1074f8f4ab729e0e2218e31fabe87928618abcc24bfe2a11f6e6e7dd6e354731c7e4977a8552d'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'archive'); navigator.sendBeacon(location.href, nitroData);
-} else {
-var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9sYW1taXN2YXJnYXMuY29tLzIwMjYvMDEv&nitroBeaconCookies=W10=&nitroBeaconHash=316e139266dcdfe1cd56ea9c72b3dfefa3d37c34bdb13d2b6ff1074f8f4ab729e0e2218e31fabe87928618abcc24bfe2a11f6e6e7dd6e354731c7e4977a8552d&proxyPurgeOnly=&layout=archive');
-}
-}
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Monthly Archives: January 2026 Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact 2025 Legislative Recap Posted January 21, 2026 Senator Lammis J.
+Vargas | District 28 (Cranston & Providence) Introduction: Reflecting on 2025 In… Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

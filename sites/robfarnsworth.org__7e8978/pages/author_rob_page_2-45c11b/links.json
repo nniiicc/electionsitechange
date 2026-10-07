@@ -1,12 +1,70 @@
 [
-"http://go.robfarnsworth.org/donate",
-"https://facebook.com/robfarnsworthmn",
-"https://robfarnsworth.org/",
-"https://robfarnsworth.org/author/rob",
-"https://robfarnsworth.org/campaign",
-"https://robfarnsworth.org/education",
-"https://robfarnsworth.org/privacy-policy",
-"https://robfarnsworth.org/transportation",
-"https://twitter.com/@RobFarnsworthMN",
-"https://youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+{
+"text": "1",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "CAMPAIGN",
+"href": "https://robfarnsworth.org/campaign/"
+},
+{
+"text": "DONATE",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "Education",
+"href": "https://robfarnsworth.org/education/"
+},
+{
+"text": "HOME",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "Previous",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robfarnsworth.org/privacy-policy/"
+},
+{
+"text": "Rob Farnsworth",
+"href": "https://robfarnsworth.org/author/rob/"
+},
+{
+"text": "Transportation",
+"href": "https://robfarnsworth.org/transportation/"
+},
+{
+"text": "[image: Rob Farnsworth for MN State Senate]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/education/"
+},
+{
+"text": "[no text]",
+"href": "https://robfarnsworth.org/transportation/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/robfarnsworthmn"
+},
+{
+"text": "[tooltip: PayPal]",
+"href": "http://go.robfarnsworth.org/donate"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/@RobFarnsworthMN"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UC8wIDwx3ZorPAZ4HmNoA5Ig"
+}
 ]

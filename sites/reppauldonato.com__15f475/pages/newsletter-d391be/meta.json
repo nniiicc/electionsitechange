@@ -1,9 +1,9 @@
 {
  "description": "Sign up for Representative Donato&#39;s quarterly newsletter for the latest updates and news.",
  "final_url": "https://reppauldonato.com/newsletter",
- "paid_for_by": null,
+ "fingerprint": "fd3548a86d796816731490bd7bbf728bedb51a1b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletter Subscription | State Rep Donato",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

@@ -1,34 +1,134 @@
 [
-"https://afscmecouncil61.org/",
-"https://bsky.app/profile/@kriswilliams4iowa.bsky.social",
-"https://cfequality.org/members/endorsements/2026",
-"https://designedtorun.com/",
-"https://facebook.com/InsufferableWenches",
-"https://facebook.com/nextcenturyforumcd3",
-"https://facebook.com/profile.php?id=61579789080435",
-"https://facebook.com/profile.php?id=61583412668059",
-"https://instagram.com/boyfriendswedeserve",
-"https://instagram.com/kriswilliamsforiowa",
-"https://instagram.com/progressivevotersnetwork",
-"https://iowaaflcio.org/",
-"https://kriswilliamsforiowa.com/",
-"https://kriswilliamsforiowa.com/about",
-"https://kriswilliamsforiowa.com/about-copy",
-"https://kriswilliamsforiowa.com/contact1",
-"https://kriswilliamsforiowa.com/events",
-"https://kriswilliamsforiowa.com/new-page",
-"https://kriswilliamsforiowa.com/news",
-"https://kriswilliamsforiowa.com/privacy-policy",
-"https://kriswilliamsforiowa.com/take-action",
-"https://kriswilliamsforiowa.com/terms-and-conditions",
-"https://kriswilliamsforiowa.com/volunteer",
-"https://legis.iowa.gov/legislators/legislator?ga=80&personID=273",
-"https://linktree.com/kriswilliamsforiowa",
-"https://pdamerica.org/",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/kris-williams-1",
-"https://sierraclub.org/iowa/2026-candidate-endorsements",
-"https://tiktok.com/@kriswilliamsforiowa",
-"https://webstercountyia.gov/departments/board_of_supervisors/index.php",
-"https://x.com/Kristof92108985"
+{
+"text": "About",
+"href": "https://www.kriswilliamsforiowa.com/about"
+},
+{
+"text": "About",
+"href": "https://www.kriswilliamsforiowa.com/about-copy"
+},
+{
+"text": "Contact",
+"href": "https://www.kriswilliamsforiowa.com/contact1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kris-williams-1"
+},
+{
+"text": "Events",
+"href": "https://www.kriswilliamsforiowa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.kriswilliamsforiowa.com/new-page"
+},
+{
+"text": "News and press",
+"href": "https://www.kriswilliamsforiowa.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kriswilliamsforiowa.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Take Action",
+"href": "https://www.kriswilliamsforiowa.com/take-action"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.kriswilliamsforiowa.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kriswilliamsforiowa.com/volunteer"
+},
+{
+"text": "[image: AFSCME Council 61]AFSCME Council 61public & private sector workers in IA, MO & KSlaw enforcement, corrections, mental health, school staff, care providers etc",
+"href": "https://afscmecouncil61.org/"
+},
+{
+"text": "[image: Boyfriends We Deserve]Boyfriends We Deserve",
+"href": "https://www.instagram.com/boyfriendswedeserve/"
+},
+{
+"text": "[image: Center for Freethought Equality PAC]Center for Freethought Equality PAC",
+"href": "https://www.cfequality.org/members/endorsements/2026#Iowa"
+},
+{
+"text": "[image: Daryl Beall]Daryl BeallFormer Iowa State Senator 2003-2015",
+"href": "https://www.legis.iowa.gov/legislators/legislator?ga=80&personID=273"
+},
+{
+"text": "[image: Insufferable Wenches of Iowa]Insufferable Wenches of Iowa",
+"href": "https://www.facebook.com/InsufferableWenches"
+},
+{
+"text": "[image: Iowa Federation of Labor]Iowa Federation of Laborstate federation of labor representing 50,000+ members",
+"href": "https://iowaaflcio.org/"
+},
+{
+"text": "[image: Kris Williams for Iowa]",
+"href": "https://www.kriswilliamsforiowa.com/"
+},
+{
+"text": "[image: Next Century Forum]Next Century Forum",
+"href": "https://www.facebook.com/nextcenturyforumcd3"
+},
+{
+"text": "[image: Niki Conrad]Niki ConradWebster county, IA superviser, district 4",
+"href": "https://www.webstercountyia.gov/departments/board_of_supervisors/index.php"
+},
+{
+"text": "[image: On Tha Ground]On Tha Ground",
+"href": "https://www.facebook.com/profile.php?id=61583412668059"
+},
+{
+"text": "[image: Progressive Democrats of America]Progressive Democrats of AmericaIowa state chapter",
+"href": "https://pdamerica.org/"
+},
+{
+"text": "[image: Progressive Voter Network]Progressive Voter Network",
+"href": "https://www.instagram.com/progressivevotersnetwork/"
+},
+{
+"text": "[image: Run for Something]Run for Something",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "[image: Sierra Club]Sierra ClubIowa chapter",
+"href": "https://www.sierraclub.org/iowa/2026-candidate-endorsements"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/@kriswilliams4iowa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61579789080435"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://linktree.com/kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kriswilliamsforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Kristof92108985"
+}
 ]

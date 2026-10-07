@@ -1,13 +1,62 @@
 [
-"http://electmichele.com/donate",
-"https://electmichele.com/",
-"https://electmichele.com/issues",
-"https://electmichele.com/join",
-"https://electmichele.com/meet",
-"https://electmichele.com/news",
-"https://electmichele.com/privacy-policy",
-"https://electmichele.com/terms-of-use",
-"https://facebook.com/repmichelereneau",
-"https://instagram.com/repmichelereneau",
-"https://x.com/repreneau"
+{
+"text": "DONATE",
+"href": "http://electmichele.com/donate"
+},
+{
+"text": "EMAIL",
+"href": "mailto:hello@electmichele.com?subject=I+want+to+host+an+event"
+},
+{
+"text": "EMAIL MICHELE",
+"href": "mailto:rep.michele.reneau@capitol.tn.gov?subject=Connect+with+Michele"
+},
+{
+"text": "GIVE ONLINE",
+"href": "http://electmichele.com/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.electmichele.com/issues"
+},
+{
+"text": "Join Team Michele",
+"href": "https://www.electmichele.com/join"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.electmichele.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmichele.com/privacy-policy"
+},
+{
+"text": "SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES",
+"href": "http://www.electmichele.com/donate"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electmichele.com/terms-of-use"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repmichelereneau"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repmichelereneau/"
+},
+{
+"text": "[image: Rep Reneau transparent logo.png]",
+"href": "https://www.electmichele.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/repreneau"
+}
 ]

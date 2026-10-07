@@ -1,7 +1,12 @@
 {
  "description": "Latest News From Brad Finstad",
  "final_url": "https://finstadforcongress.com/news/",
+ "fingerprint": "edc765f499746510272fc5f3b8a90ef5d4123221",
+ "format": 3,
  "paid_for_by": "Paid for by Brad Finstad for U",
  "title": "News - Brad Finstad for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023"
+ ]
 }

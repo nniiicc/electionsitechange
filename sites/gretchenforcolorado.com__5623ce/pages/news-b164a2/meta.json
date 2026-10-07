@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.gretchenforcolorado.com/news",
+ "fingerprint": "8de97400edf8d0ba5088792bfd481b39a49e4a00",
+ "format": 3,
  "paid_for_by": "Paid for by Gretchen for Colorado",
- "title": "News \u2014 Gretchen for Colorado",
- "years_mentioned": []
+ "title": "News — Gretchen for Colorado",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

@@ -1,9 +1,4 @@
-Paid for by Pam Hemann for State Representative.
-Where I stand, and where my opponent stands, on the issues facing our district.
-Pam4PA
-Pam4PA.com
-Pam4PA
-Pam4PA.com
-Pam4PA
-Pam4PA.com
-All Fact Cards
+Skip to content Skip to footer About Pam Facts Donate News About Pam Facts Donate News DONATE Close About Pam Facts Donate News Pam Hemann for Pennsylvania State Representative, 110th Legislative District LATEST NEWS February 18, 2026 Community Meet & Greet — Sunday, March 8 (1–4 PM) at Draught & Barrel July 7, 2025 🏥 Losing Local Healthcare Access — And What’s at Stake Right Now Get To Know Pam READ PAM'S BIO Support Pam Hemann for State Representative!
+Donate Now via ActBlue Paid for by Pam Hemann for State Representative.
+Fact Cards Where I stand, and where my opponent stands, on the issues facing our district.
+Previous fact card Next fact card Pam 4 PA Pam4PA.com We The People Are The Answer Pam 4 PA Pam4PA.com I Will Not Be Bullied Into Silence Pam 4 PA Pam4PA.com Health Insurance Rate Increase All Fact Cards

@@ -1,42 +1,174 @@
 [
-"http://electmikep.com/",
-"http://heatherforjudge.net/",
-"http://stevekirby.org/",
-"https://bethdoglio.com/",
-"https://debralekanoff.com/",
-"https://debralekanoff.com/2020/07/shaping-our-future-on-fantastic-friday",
-"https://debralekanoff.com/2020/08/supporting-our-students",
-"https://debralekanoff.com/about-rep-lekanoff",
-"https://debralekanoff.com/category/news-updates",
-"https://debralekanoff.com/contact",
-"https://debralekanoff.com/donate",
-"https://debralekanoff.com/fantastic-fridays",
-"https://debralekanoff.com/news-updates",
-"https://debralekanoff.com/press-media",
-"https://debralekanoff.com/top-priorities",
-"https://debralekanoff.com/volunteer",
-"https://delbeneforcongress.com/",
-"https://electbobferguson.com/",
-"https://electjamilataylor.com/",
-"https://electtanisha.com/",
-"https://facebook.com/votedebralekanoff",
-"https://frankchopp.com/",
-"https://grant4pud.org/",
-"https://helenpricejohnson.org/",
-"https://hilaryfranz.com/",
-"https://instagram.com/DebraWA40",
-"https://jayinslee.com/",
-"https://justicemontoyalewis.com/",
-"https://marileavitt.com/",
-"https://olvr.votewa.gov/olvr2024/landing.aspx",
-"https://ricklarsen.org/",
-"https://sharon4whatcom.com/",
-"https://sos.wa.gov/elections",
-"https://suzannewoodard.com/",
-"https://twinanobles.com/",
-"https://twitter.com/DebraWA40",
-"https://votealiciarule.com/",
-"https://votedavepaul.com/",
-"https://voteforgael.org/",
-"https://zackhudgins.com/"
+{
+"text": "About",
+"href": "https://debralekanoff.com/about-rep-lekanoff/"
+},
+{
+"text": "Alicia Rule",
+"href": "https://www.votealiciarule.com/"
+},
+{
+"text": "Beth Doglio",
+"href": "https://www.bethdoglio.com/"
+},
+{
+"text": "Bob Ferguson",
+"href": "https://www.electbobferguson.com/"
+},
+{
+"text": "Christine Grant",
+"href": "https://www.grant4pud.org/"
+},
+{
+"text": "Contact",
+"href": "https://debralekanoff.com/contact/"
+},
+{
+"text": "Dave Pau",
+"href": "https://www.votedavepaul.com/"
+},
+{
+"text": "Donate",
+"href": "https://debralekanoff.com/donate/"
+},
+{
+"text": "Fantastic Fridays",
+"href": "https://debralekanoff.com/fantastic-fridays/"
+},
+{
+"text": "Frank Chopp",
+"href": "https://frankchopp.com/"
+},
+{
+"text": "Gael Tarlton",
+"href": "https://www.voteforgael.org/"
+},
+{
+"text": "Get Updates",
+"href": "https://debralekanoff.com/#join"
+},
+{
+"text": "Heather Shand Perkins",
+"href": "http://www.heatherforjudge.net/"
+},
+{
+"text": "Helen Price Johnson",
+"href": "https://helenpricejohnson.org/"
+},
+{
+"text": "Hilary Franz",
+"href": "https://www.hilaryfranz.com/"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com"
+},
+{
+"text": "Home",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "Jamila Taylor",
+"href": "https://www.electjamilataylor.com/"
+},
+{
+"text": "Jay Inslee",
+"href": "https://www.jayinslee.com/"
+},
+{
+"text": "Mari Leavitt",
+"href": "https://marileavitt.com/"
+},
+{
+"text": "Mike Pellicciotti",
+"href": "http://www.electmikep.com/"
+},
+{
+"text": "News Updates",
+"href": "https://debralekanoff.com/category/news-updates/"
+},
+{
+"text": "News Updates",
+"href": "https://debralekanoff.com/news-updates/"
+},
+{
+"text": "Next",
+"href": "https://debralekanoff.com/2020/08/supporting-our-students/"
+},
+{
+"text": "Press & Media",
+"href": "https://debralekanoff.com/press-media/"
+},
+{
+"text": "Previous",
+"href": "https://debralekanoff.com/2020/07/shaping-our-future-on-fantastic-friday/"
+},
+{
+"text": "Raquel Montoya Lewis",
+"href": "https://www.justicemontoyalewis.com/"
+},
+{
+"text": "Register To Vote",
+"href": "https://olvr.votewa.gov/olvr2024/landing.aspx"
+},
+{
+"text": "Rick Larsen",
+"href": "https://www.ricklarsen.org/"
+},
+{
+"text": "Sharon Shewmake",
+"href": "https://www.sharon4whatcom.com/"
+},
+{
+"text": "Steve Kirby",
+"href": "http://stevekirby.org/"
+},
+{
+"text": "Suzan DelBene",
+"href": "https://www.delbeneforcongress.com/"
+},
+{
+"text": "Suzanne Woodard",
+"href": "https://www.suzannewoodard.com/"
+},
+{
+"text": "Tanisha Harris",
+"href": "https://www.electtanisha.com/"
+},
+{
+"text": "Top Priorities",
+"href": "https://debralekanoff.com/top-priorities/"
+},
+{
+"text": "T’wina Nobles",
+"href": "https://twinanobles.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://debralekanoff.com/volunteer/"
+},
+{
+"text": "Zack Hudgins",
+"href": "https://www.zackhudgins.com/"
+},
+{
+"text": "[image: Re-Elect Rep. Debra Lekanoff Logo] [image: Re-Elect Rep. Debra Lekanoff Logo]",
+"href": "https://debralekanoff.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/votedebralekanoff/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/DebraWA40"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/DebraWA40"
+},
+{
+"text": "here",
+"href": "https://www.sos.wa.gov/elections/"
+}
 ]

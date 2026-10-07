@@ -1,5 +1,3 @@
-Sat, May 23
-Colorado Springs Civic Center
-Join Doug Jones for a rally to discuss solutions for divisive politics in Colorado.
-May 23, 2026, 12:52 PM – 2:52 PM
-Colorado Springs Civic Center, Center St, Colorado Springs, CO 80905, USA
+top of page Home Events Blog Notifications Volunteer DONATE Uniting Colorado: A Common Ground Rally Sat, May 23 | Colorado Springs Civic Center Join Doug Jones for a rally to discuss solutions for divisive politics in Colorado.
+Registration is closed See other events Time & Location May 23, 2026, 12:52 PM – 2:52 PM Colorado Springs Civic Center, Center St, Colorado Springs, CO 80905, USA About the event Rally for solutions to divisive politics Show More Share this event Colorado Springs, CO | Doug Jones for Colorado House District 15 © # All Rights Reserved.
+Paid for by Doug Jones for Colorado. bottom of page

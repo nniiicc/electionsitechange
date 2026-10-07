@@ -1,27 +1,134 @@
 [
-"http://single-event/",
-"https://buy.stripe.com/28E4gz8Gm6CqdUvaFd9ws00",
-"https://buy.stripe.com/28EcN51dUe4S17JdRp9ws05",
-"https://buy.stripe.com/4gMbJ17Ci2mag2D00z9ws04",
-"https://buy.stripe.com/aFadR98GmaSGdUvbJh9ws03",
-"https://buy.stripe.com/cNi3cvg8Ogd08AbbJh9ws02",
-"https://buy.stripe.com/eVq00j8Gm1i6eYzdRp9ws01",
-"https://facebook.com/zulmohamedfortexas",
-"https://instagram.com/zulmohamedforsenate",
-"https://tiktok.com/@zulmohamedforsenate",
-"https://x.com/zulmirzamohamed",
-"https://youtube.com/@zulmohamedforsenate",
-"https://zulmohamedfortexas.com/",
-"https://zulmohamedfortexas.com/about-zul-mirza-mohamed",
-"https://zulmohamedfortexas.com/cart",
-"https://zulmohamedfortexas.com/checkout",
-"https://zulmohamedfortexas.com/donate-to-the-new-american-movement/volunteering",
-"https://zulmohamedfortexas.com/news",
-"https://zulmohamedfortexas.com/shop",
-"https://zulmohamedfortexas.com/shop/my-account",
-"https://zulmohamedfortexas.com/vote-new-america",
-"https://zulmohamedfortexas.com/what-is-the-american-millennial-party",
-"https://zulmohamedfortexas.com/what-is-the-american-millennial-party/contact",
-"https://zulmohamedfortexas.com/what-is-the-american-millennial-party/events",
-"https://zulmohamedfortexas.com/what-is-the-american-millennial-party/events/events"
+{
+"text": "$#",
+"href": "https://buy.stripe.com/28E4gz8Gm6CqdUvaFd9ws00"
+},
+{
+"text": "$#",
+"href": "https://buy.stripe.com/28EcN51dUe4S17JdRp9ws05"
+},
+{
+"text": "$#",
+"href": "https://buy.stripe.com/4gMbJ17Ci2mag2D00z9ws04"
+},
+{
+"text": "$#",
+"href": "https://buy.stripe.com/aFadR98GmaSGdUvbJh9ws03"
+},
+{
+"text": "$#",
+"href": "https://buy.stripe.com/cNi3cvg8Ogd08AbbJh9ws02"
+},
+{
+"text": "$#",
+"href": "https://buy.stripe.com/eVq00j8Gm1i6eYzdRp9ws01"
+},
+{
+"text": "10$ Donation",
+"href": "https://buy.stripe.com/cNi3cvg8Ogd08AbbJh9ws02"
+},
+{
+"text": "About Zul",
+"href": "https://zulmohamedfortexas.com/about-zul-mirza-mohamed/"
+},
+{
+"text": "Cart",
+"href": "https://zulmohamedfortexas.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://zulmohamedfortexas.com/checkout/"
+},
+{
+"text": "Contact",
+"href": "https://zulmohamedfortexas.com/what-is-the-american-millennial-party/contact/"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/28E4gz8Gm6CqdUvaFd9ws00"
+},
+{
+"text": "Events",
+"href": "https://zulmohamedfortexas.com/what-is-the-american-millennial-party/events/"
+},
+{
+"text": "GET MORE INFO",
+"href": "https://zulmohamedfortexas.com/what-is-the-american-millennial-party/contact/"
+},
+{
+"text": "Home",
+"href": "https://zulmohamedfortexas.com/"
+},
+{
+"text": "My Account",
+"href": "https://zulmohamedfortexas.com/shop/my-account/"
+},
+{
+"text": "My Vision",
+"href": "https://zulmohamedfortexas.com/vote-new-america/"
+},
+{
+"text": "News",
+"href": "https://zulmohamedfortexas.com/news/"
+},
+{
+"text": "Past Events",
+"href": "https://zulmohamedfortexas.com/what-is-the-american-millennial-party/events/events"
+},
+{
+"text": "Shop",
+"href": "https://zulmohamedfortexas.com/shop/"
+},
+{
+"text": "Volunteering",
+"href": "https://zulmohamedfortexas.com/donate-to-the-new-american-movement/volunteering/"
+},
+{
+"text": "What is AMP?",
+"href": "https://zulmohamedfortexas.com/what-is-the-american-millennial-party/"
+},
+{
+"text": "[image: The Official Website for Zul Mirza Mohamed for Senate]",
+"href": "https://zulmohamedfortexas.com/"
+},
+{
+"text": "[image: https://zulmohamedfortexas.com/wp-content/uploads/2019/02/cards_04.jpg]22 August 2020Press Conference about New Tax Reform",
+"href": "http://single-event"
+},
+{
+"text": "[image: https://zulmohamedfortexas.com/wp-content/uploads/2019/02/cards_05.jpg]22 July 2020New York: Support for Woman's March 2020",
+"href": "http://single-event"
+},
+{
+"text": "[image: https://zulmohamedfortexas.com/wp-content/uploads/2019/02/cards_06.jpg]22 July 2020Meet Your Candidate: John Doe",
+"href": "http://single-event"
+},
+{
+"text": "[image: https://zulmohamedfortexas.com/wp-content/uploads/2019/02/cards_10.jpg]10 June 2020Campaign: Fundraising Dinner on June 10th",
+"href": "http://single-event"
+},
+{
+"text": "[image: https://zulmohamedfortexas.com/wp-content/uploads/2019/02/cards_13.jpg]22 June 2020Volunteer Meeting (Election Day Prep)",
+"href": "http://single-event"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/zulmohamedfortexas/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/zulmohamedforsenate/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.tiktok.com/@zulmohamedforsenate"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/@zulmohamedforsenate"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://x.com/zulmirzamohamed"
+}
 ]

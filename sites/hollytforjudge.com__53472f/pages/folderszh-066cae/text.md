@@ -1,7 +1,3 @@
-我为什么竞选
-我深知刑事司法体系可能会辜负我们。我将为刑事上诉法院带去独立的声音和见解，确保案件得到公正、彻底的审理。我矢志捍卫宪法与法治，并致力于以尊严和人道的对待每一个人。
-我的价值观
-我相信，我们必须捍卫德克萨斯州法院的独立性、公正性和廉正性，确保所有出庭者都受到尊重与人道对待。
-Newsletter Block
-This newsletter signup form needs a storage option.
-Edit the block and enter a storage location via the Storage tab.
+0 Skip to Content Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Open Menu Close Menu Open Menu Close Menu Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours es Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad zh 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE Why I'm Running Values Experience Bio Endorsements Calendar News + Media Tours Folder: es Back Inicio Por qué me postulo Valores Experiencia Biografía Respaldos Calendario Noticias y medios Privacidad Folder: zh Back 首页 我为什么竞选 价值观 经验 个人简介 竞选背书 日程 新闻与媒体 隐私 DONATE 独立 正直 勇气 认识 Holly 竞选德州刑事上诉法院法官（第9席位） 我为什么竞选 我深知刑事司法体系可能会辜负我们。我将为刑事上诉法院带去独立的声音和见解，确保案件得到公正、彻底的审理。我矢志捍卫宪法与法治，并致力于以尊严和人道的对待每一个人。 了解更多 我的价值观 我相信，我们必须捍卫德克萨斯州法院的独立性、公正性和廉正性，确保所有出庭者都受到尊重与人道对待。 了解更多 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab. 请支持Holly的竞选 使用您的电子邮箱注册，以获取有关竞选活动、志愿者机会及更多内容的最新资讯。 First Name Last Name Email Address 登记 我们尊重您的隐私。 谢谢您！ Why I’m Running Values Experience Bio Endorsements Calendar News + Media Political advertisement paid for by the Holly Taylor campaign.
+Privacy Policy ©#-#

@@ -1,5 +1,4 @@
-Meet Gregory Hafen
-Gregory T.
+0 Skip to Content About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate Meet Gregory Hafen Gregory T.
 Hafen II, is from one of the pioneer families of southern Nevada.
 Gregory was born and raised in Nevada.
 He is a fifth generation Nevadan and small business owner.
@@ -13,3 +12,5 @@ He previously chaired the Pahrump Regional Planning Commission, Pahrump Capital 
 Gregory has served Assembly District 36 for three terms.
 During the 80th Session of the Nevada Legislation, Assemblyman Gregory Hafen II served on the Assembly Committees on Government Affairs, Health and Human Services, and Taxation.
 During the 81st Session of the Nevada Legislation, Assemblyman Hafen served on the Assembly Committees on Ways and Means, Health and Human Services, and Revenue.
+Donate Today Paid for by Friends of Gregory T.
+Hafen Contact Gregory@hafen4nevada.com 775-209-3006

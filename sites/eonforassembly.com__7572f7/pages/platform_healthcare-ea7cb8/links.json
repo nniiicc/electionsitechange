@@ -1,10 +1,58 @@
 [
-"https://eonforassembly.com/",
-"https://eonforassembly.com/platform",
-"https://eonforassembly.com/platform/climate-justice",
-"https://eonforassembly.com/platform/immigrant-justice",
-"https://facebook.com/EonForAssembly",
-"https://instagram.com/eonhuntleyforbrooklyn",
-"https://secure.actblue.com/donate/eon-tyrell-huntley-1",
-"https://x.com/EonHuntley4BKN"
+{
+"text": "About",
+"href": "https://eonforassembly.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/"
+},
+{
+"text": "Endorsements",
+"href": "https://eonforassembly.com/#endorsements"
+},
+{
+"text": "News",
+"href": "https://eonforassembly.com/#news"
+},
+{
+"text": "NextClimate Justice",
+"href": "https://eonforassembly.com/platform/climate-justice"
+},
+{
+"text": "Platform",
+"href": "https://eonforassembly.com/platform"
+},
+{
+"text": "PreviousImmigrant Justice",
+"href": "https://eonforassembly.com/platform/immigrant-justice"
+},
+{
+"text": "We won. On to the general election!Donate to the fund→Donate to the general election fund→",
+"href": "https://secure.actblue.com/donate/eon-tyrell-huntley-1/"
+},
+{
+"text": "[image: Eon Huntley for Assembly]",
+"href": "https://eonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EonForAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/eonhuntleyforbrooklyn/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EonHuntley4BKN"
+},
+{
+"text": "info@eonforassembly.com",
+"href": "mailto:info@eonforassembly.com"
+},
+{
+"text": "← All Issues",
+"href": "https://eonforassembly.com/platform"
+}
 ]

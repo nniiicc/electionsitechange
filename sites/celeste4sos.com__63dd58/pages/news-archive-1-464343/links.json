@@ -1,36 +1,142 @@
 [
-"https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections",
-"https://brennancenter.org/our-work/analysis-opinion/hold-cyber-ninjas-accountable",
-"https://bsky.app/profile/celeste4sos.bsky.social",
-"https://celeste4sos.com/",
-"https://celeste4sos.com/blog",
-"https://celeste4sos.com/donate",
-"https://celeste4sos.com/events",
-"https://celeste4sos.com/help",
-"https://celeste4sos.com/lte",
-"https://celeste4sos.com/meet",
-"https://celeste4sos.com/news-archive-1",
-"https://celeste4sos.com/other-news",
-"https://celeste4sos.com/press-releases",
-"https://celeste4sos.com/priorities",
-"https://celeste4sos.com/privacy-policy",
-"https://coloradonewsline.com/2024/12/09/investigation-colorado-election-passwords",
-"https://coloradosun.com/2025/08/14/opinion-colorado-county-clerks-commitment-law",
-"https://content.leg.colorado.gov/sites/default/files/images/lcs/2019-2020_76v4.pdf",
-"https://drive.google.com/file/d/1l__Ryf8npR_MYYSPVAv9ac9N-an3NRI4/view",
-"https://en.wikipedia.org/wiki/Suffrage",
-"https://facebook.com/people/Celeste-Landry/61587657275237",
-"https://instagram.com/celeste4sos",
-"https://koacolorado.iheart.com/featured/mandy-connell/content/2026-05-15-88-the-mandy-connell-podcast-05-15-26-interview-celeste-landry-is-running-f",
-"https://leg.colorado.gov/bills/HB19-1278",
-"https://leg.colorado.gov/bills/HB25-1319",
-"https://leg.colorado.gov/bills/hb25-1315",
-"https://montanaplan.org/",
-"https://nbcnews.com/politics/elections/election-officials-push-back-trump-administration-fulton-county-raid-rcna256538",
-"https://sos.state.co.us/pubs/newsRoom/pressReleases/2025/20251118SOSLetterVoterData.pdf",
-"https://whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections",
-"https://x.com/celeste4sos",
-"https://youtube.com/watch?v=CfbN2yVF7cY",
-"https://youtube.com/watch?v=JrmHwkB3pnE",
-"https://youtube.com/watch?v=uXqkOM5Vbbw"
+{
+"text": "Donate",
+"href": "https://www.celeste4sos.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.celeste4sos.com/events"
+},
+{
+"text": "Expanding the Right to Vote",
+"href": "https://en.wikipedia.org/wiki/Suffrage#History_around_the_world"
+},
+{
+"text": "Find Out More",
+"href": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/"
+},
+{
+"text": "Find Out More",
+"href": "https://coloradonewsline.com/2024/12/09/investigation-colorado-election-passwords/"
+},
+{
+"text": "Find Out More",
+"href": "https://coloradosun.com/2025/08/14/opinion-colorado-county-clerks-commitment-law/"
+},
+{
+"text": "Find Out More",
+"href": "https://montanaplan.org/"
+},
+{
+"text": "Find Out More",
+"href": "https://www.brennancenter.org/our-work/analysis-opinion/hold-cyber-ninjas-accountable"
+},
+{
+"text": "Find Out More",
+"href": "https://www.nbcnews.com/politics/elections/election-officials-push-back-trump-administration-fulton-county-raid-rcna256538"
+},
+{
+"text": "Find Out More",
+"href": "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2025/20251118SOSLetterVoterData.pdf"
+},
+{
+"text": "Find Out More",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/"
+},
+{
+"text": "Help",
+"href": "https://www.celeste4sos.com/help"
+},
+{
+"text": "Home",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "House Bill 19-1278",
+"href": "https://leg.colorado.gov/bills/HB19-1278"
+},
+{
+"text": "Listen",
+"href": "https://koacolorado.iheart.com/featured/mandy-connell/content/2026-05-15-88-the-mandy-connell-podcast-05-15-26-interview-celeste-landry-is-running-f/"
+},
+{
+"text": "Meet",
+"href": "https://www.celeste4sos.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.celeste4sos.com/news-archive-1"
+},
+{
+"text": "Newsletters",
+"href": "https://www.celeste4sos.com/blog"
+},
+{
+"text": "Other Celeste for SoS News",
+"href": "https://www.celeste4sos.com/other-news"
+},
+{
+"text": "Press Releases",
+"href": "https://www.celeste4sos.com/press-releases"
+},
+{
+"text": "Priorities",
+"href": "https://www.celeste4sos.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.celeste4sos.com/privacy-policy"
+},
+{
+"text": "Read",
+"href": "https://www.celeste4sos.com/lte"
+},
+{
+"text": "Video",
+"href": "https://drive.google.com/file/d/1l__Ryf8npR_MYYSPVAv9ac9N-an3NRI4/view"
+},
+{
+"text": "Video",
+"href": "https://www.youtube.com/watch?v=CfbN2yVF7cY"
+},
+{
+"text": "Video",
+"href": "https://www.youtube.com/watch?v=JrmHwkB3pnE"
+},
+{
+"text": "Video",
+"href": "https://www.youtube.com/watch?v=uXqkOM5Vbbw"
+},
+{
+"text": "[image: Bluesky_edited]",
+"href": "https://bsky.app/profile/celeste4sos.bsky.social"
+},
+{
+"text": "[image: Celeste Landry for Secretary of State logo]",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Celeste-Landry/61587657275237/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/celeste4sos/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/celeste4sos"
+},
+{
+"text": "almost-18-year-old voters",
+"href": "https://content.leg.colorado.gov/sites/default/files/images/lcs/2019-2020_76v4.pdf"
+},
+{
+"text": "county commissioner elections",
+"href": "https://leg.colorado.gov/bills/HB25-1319"
+},
+{
+"text": "legislative elections",
+"href": "https://leg.colorado.gov/bills/hb25-1315"
+}
 ]

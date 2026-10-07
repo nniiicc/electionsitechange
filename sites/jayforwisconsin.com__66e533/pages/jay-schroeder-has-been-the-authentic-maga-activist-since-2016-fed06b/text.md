@@ -1,7 +1,4 @@
-February 20, 2026
-By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin.
+Skip to content Home Meet Jay Events Gallery Volunteer Contact Us Home Meet Jay Events Gallery Volunteer Contact Us DONATE NOW info@jayforwisconsin.com search here Jay Schroeder has been the authentic MAGA activist since 2016 endorsed by VFAF.US February 20, 2026 Joy Leave a Comment on Jay Schroeder has been the authentic MAGA activist since 2016 endorsed by VFAF.US Posted in: Uncategorized Leave a comment Cancel reply Submit Comment Latest posts Jay is the MAGA aligned candidate on ele… By Joy Jay Schroeder has been the authentic MAG… By Joy Jay helped elect many MAGA candidates ac… By Joy JAY FOR WISCONSIN 1295 N Lake St Neenah WI 54956 info@jayforwisconsin.com 920-450-7591 DONATE NOW Paid for by Jay for Wisconsin By providing your mobile phone number, you are giving your consent to receive calls and SMS/MMS messages to that number from Jay for Wisconsin .
 Message frequency may vary.
 Msg & Data rates may apply.
-Text HELP for help or email: info@jayforwisconsin.com
-@2026 Jay for Wisconsin | All Rights Reserved
-Privacy Policy & Terms & Conditions
+Text HELP for help or email: info@jayforwisconsin.com @2026 Jay for Wisconsin | All Rights Reserved Privacy Policy & Terms & Conditions

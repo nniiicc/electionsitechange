@@ -1,8 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61584892922228",
-"https://secure.actblue.com/donate/vincent-mendes-1",
-"https://vincentforgeorgia.com/",
-"https://vincentforgeorgia.com/about",
-"https://vincentforgeorgia.com/donate",
-"https://wponetap.com/"
+{
+"text": "About",
+"href": "https://www.vincentforgeorgia.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vincent-mendes-1"
+},
+{
+"text": "Donate",
+"href": "https://www.vincentforgeorgia.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/vincent-mendes-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61584892922228"
+},
+{
+"text": "Home",
+"href": "https://www.vincentforgeorgia.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.vincentforgeorgia.com/about"
+},
+{
+"text": "OneTap",
+"href": "https://wponetap.com/"
+},
+{
+"text": "Vincent Mendes for GAHD13",
+"href": "https://www.vincentforgeorgia.com"
+},
+{
+"text": "[image: Vincent Mendes for GAHD13]",
+"href": "https://www.vincentforgeorgia.com/"
+}
 ]

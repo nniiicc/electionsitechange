@@ -1,4 +1,1 @@
-Address
-New Haven, CT, US
-About us
-Approved by Anthony Acri Paid for Acri 2026 Linda McDonough Treasurer
+AnthonyAcri.com Home Events with Anthony Gallery Location Contact us AnthonyAcri.com Connect Address New Haven, CT, US Pages Home Events with Anthony Gallery Location Contact us AnthonyAcri.com About us Approved by Anthony Acri Paid for Acri 2026 Linda McDonough Treasurer AnthonyAcri.com

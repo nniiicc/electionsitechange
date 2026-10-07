@@ -1,12 +1,46 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jameshayesforpa.com/",
-"https://jameshayesforpa.com/about",
-"https://jameshayesforpa.com/donate",
-"https://jameshayesforpa.com/get-involved",
-"https://jameshayesforpa.com/newsroom",
-"https://jameshayesforpa.com/policy-vision",
-"https://jameshayesforpa.com/video%3A-why-im-running",
-"https://secure.anedot.com/james-hayes-for-congress/donate-now?exitIntent=true",
-"https://secure.winred.com/james-hayes-for-congress/donate?exitintent=true"
+{
+"text": "About",
+"href": "https://jameshayesforpa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://jameshayesforpa.com/donate"
+},
+{
+"text": "Donate Securely Online via Anedot now",
+"href": "https://secure.anedot.com/james-hayes-for-congress/donate-now?exitIntent=true"
+},
+{
+"text": "Donate securely online via WinRed Now",
+"href": "https://secure.winred.com/james-hayes-for-congress/donate?exitintent=true"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://jameshayesforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://jameshayesforpa.com/"
+},
+{
+"text": "NEWSROOM",
+"href": "https://jameshayesforpa.com/newsroom"
+},
+{
+"text": "POLICY VISION",
+"href": "https://jameshayesforpa.com/policy-vision"
+},
+{
+"text": "VIDEO: WHY I'M RUNNING",
+"href": "https://jameshayesforpa.com/video%3A-why-im-running"
+},
+{
+"text": "[image]",
+"href": "https://jameshayesforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,38 +1,166 @@
 [
-"http://event/",
-"https://facebook.com/LPofNC",
-"https://facebook.com/kordon.for.liberty",
-"https://kordonforliberty.org/",
-"https://kordonforliberty.org/cookie-policy",
-"https://kordonforliberty.org/events",
-"https://kordonforliberty.org/meet",
-"https://kordonforliberty.org/meet/district",
-"https://kordonforliberty.org/meet/people-not-politics",
-"https://kordonforliberty.org/news",
-"https://kordonforliberty.org/priorities",
-"https://kordonforliberty.org/priorities/cost-effective-healthcare",
-"https://kordonforliberty.org/priorities/innovative-conservation",
-"https://kordonforliberty.org/priorities/protecting-your-rights",
-"https://kordonforliberty.org/priorities/restorative-justice",
-"https://kordonforliberty.org/priorities/smarter-education",
-"https://kordonforliberty.org/priorities/stronger-economy",
-"https://kordonforliberty.org/privacy-policy",
-"https://kordonforliberty.org/take-action",
-"https://kordonforliberty.org/take-action/donate",
-"https://kordonforliberty.org/take-action/volunteer",
-"https://kordonforliberty.org/take-action/when-where-to-vote",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://matthewkordon.wakeupliberty.com/news",
-"https://matthewkordon.wakeupliberty.com/take-action/donate",
-"https://matthewkordon.wakeupliberty.com/take-action/volunteer",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://twitter.com/Kordon4Liberty",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://youtube.com/@KordonForLiberty"
+{
+"text": "(919) 710-0588",
+"href": "tel:(919)%20710-0588"
+},
+{
+"text": "Contribute",
+"href": "https://matthewkordon.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://kordonforliberty.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "Donate",
+"href": "https://kordonforliberty.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://kordonforliberty.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Envelope",
+"href": "mailto:contact@kordonforliberty.org"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://kordonforliberty.org/events/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/kordon.for.liberty/"
+},
+{
+"text": "House 11",
+"href": "https://kordonforliberty.org/meet/district/"
+},
+{
+"text": "Innovative Conservation",
+"href": "https://kordonforliberty.org/priorities/innovative-conservation/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Meet",
+"href": "https://kordonforliberty.org/meet/"
+},
+{
+"text": "Meet Matthew Kordon",
+"href": "https://kordonforliberty.org/meet/"
+},
+{
+"text": "News",
+"href": "https://kordonforliberty.org/news/"
+},
+{
+"text": "News",
+"href": "https://matthewkordon.wakeupliberty.com/news/"
+},
+{
+"text": "People. not Politics.",
+"href": "https://kordonforliberty.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://kordonforliberty.org/priorities/"
+},
+{
+"text": "Protecting Your Rights",
+"href": "https://kordonforliberty.org/priorities/protecting-your-rights/"
+},
+{
+"text": "Restorative Justice",
+"href": "https://kordonforliberty.org/priorities/restorative-justice/"
+},
+{
+"text": "Smarter Education",
+"href": "https://kordonforliberty.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://kordonforliberty.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://kordonforliberty.org/take-action/"
+},
+{
+"text": "Volunteer",
+"href": "https://kordonforliberty.org/take-action/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://matthewkordon.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://kordonforliberty.org/take-action/when-where-to-vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/Kordon4Liberty"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@KordonForLiberty"
+},
+{
+"text": "[image]",
+"href": "https://kordonforliberty.org"
+},
+{
+"text": "[image]",
+"href": "https://kordonforliberty.org/"
+},
+{
+"text": "[no text]",
+"href": "tel:(919)%20710-0588"
+},
+{
+"text": "contact@kordonforliberty.org",
+"href": "mailto:contact@kordonforliberty.org"
+}
 ]

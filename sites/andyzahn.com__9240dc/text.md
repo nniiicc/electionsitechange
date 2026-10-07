@@ -1,3 +1,17 @@
-Investing in Rural Washington
-It’s no secret that Washington State is locked in a perpetual cycle of economic instability and government budget crisis.
-One side says we are spending too much, another says we need higher taxes, but most people commenting on the situation aren’t looking beyond the next few years; in practically all discussions the fundamental, underlying economic…
+Andy Zahn Platform About Andy Zahn for Washington’s 20th LD Representative I grew up in Toutle, working as a farm hand, public lands steward, writer, and photographer.
+I am running for the legislature not to become a career politician, but to fight for rural SW WA and everything I love about this place.
+As your representative, I will work to to make our beautiful corner of this state the wonderful place to live I know it can be; not just for us and our children, but for many generations to come.
+We need real, tangible, long-term solutions to the chronic problems which have too long gone unaddressed here in the foothills of the South Cascades.
+I will accomplish these goals using the three key pillars of my campaign platform: 1. supporting farmers and creating thousands of good union jobs in processing and manufacturing by ramping up production of industrial hemp.
+2.
+Creating large, accessible parks near rural communities, and 3. bolstering the centers of rural communities while defending our fields and forests from further suburban sprawl.
+My campaign is all about revitalizing rural Washington, while maintaining and enhancing its character and natural splendor.
+Investing in Rural Washington It’s no secret that Washington State is locked in a perpetual cycle of economic instability and government budget crisis.
+One side says we are spending too much, another says we need higher taxes, but most people commenting on the situation aren’t looking beyond the next few years; in practically all discussions the fundamental, underlying economic… by Andy Zahn August 18, 2026 Cutting the cost of your commute The cost of living in Washington State is a constant concern to the millions of people living here, and it is imperative that we work to address this multifaceted crisis.
+Fortunately, there are a few key steps our state government can take to swiftly make this a more affordable place to live. by Andy Zahn June 22, 2026 June 22, 2026 Fighting back against data centers Data centers pose an existential threat to our communities and our environment on many levels.
+It is necessary to take decisive action against data centers to the greatest and widest extent possible. by Andy Zahn June 6, 2026 Hopgood Rock Park Plan Hopgood Rock Park, named after the most prominent and iconic mountain overlooking the town of Morton, would encompass both dramatic peaks and peaceful creeks and rivers. by Andy Zahn May 14, 2026 June 6, 2026 USACE is wrecking the Toutle River The U.S.
+Army Corps of Engineers is currently working to raise the spillway of the Sediment Retention Structure on the North Fork of the Toutle River.
+This will result the vast wetlands which have formed behind the SRS being inundated by mud, and it will significantly delay any future efforts to restore natural fish passage… by Andy Zahn May 11, 2026 May 11, 2026 Clean Energy A blueprint for genuine clean energy and a robust, sustainable grid. by Andy Zahn March 4, 2026 June 3, 2026 Rural Parks Enhancing local and regional economies through expanded outdoor recreation opportunities by Andy Zahn January 18, 2026 Industrial Hemp An Economic and Environmental Solution as an Alternative Source of Revenue for WADNR. by Andy Zahn January 18, 2026 January 18, 2026 Donate to my Campaign Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Box 26 Toutle, WA, 98649 Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

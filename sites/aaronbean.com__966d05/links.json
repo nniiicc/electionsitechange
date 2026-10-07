@@ -1,10 +1,78 @@
 [
-"https://aaronbean.com/",
-"https://aaronbean.com/meet-aaron-bean",
-"https://aaronbean.com/news",
-"https://facebook.com/AaronBeanforCongress",
-"https://facebook.com/profile.php?id=100057940667549",
-"https://secure.winred.com/aaron-bean-for-congress/donate-today",
-"https://twitter.com/AaronPBean",
-"https://youtube.com/channel/UCRUXWEoksCyUZA8Ua7XVjCg"
+{
+"text": "$1,500",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "$3,500",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://aaronbean.com/#donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/AaronBeanforCongress"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=100057940667549"
+},
+{
+"text": "Kelsey Deasy",
+"href": "mailto:kelsey@bascomllc.com"
+},
+{
+"text": "Learn More",
+"href": "https://aaronbean.com/meet-aaron-bean/"
+},
+{
+"text": "Meet Aaron",
+"href": "https://aaronbean.com/#meet-aaron-bean"
+},
+{
+"text": "News & Updates",
+"href": "https://aaronbean.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/aaron-bean-for-congress/donate-today"
+},
+{
+"text": "Sarah Bascom",
+"href": "mailto:sarah@bascomllc.com"
+},
+{
+"text": "The New 4th District",
+"href": "https://aaronbean.com/#new-4th-district"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AaronPBean"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UCRUXWEoksCyUZA8Ua7XVjCg"
+},
+{
+"text": "[image: Aaron Bean for Congress logo]",
+"href": "https://aaronbean.com"
+}
 ]

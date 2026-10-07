@@ -1,8 +1,4 @@
-Press Release: Representative Smith Visits Stanfield Elementary’s 3rd Grade Class
-FOR IMMEDIATE RELEASE:
-November 30, 2023
-Representative Smith Visits Stanfield Elementary’s 3rd Grade Class
-STANFIELD, Ore. – Today, Representative Greg Smith (R-Heppner) visited Stanfield Elementary’s 3rd grade class.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Smith Visits Stanfield Elementary’s 3rd Grade Class November 30, 2023 / in News FOR IMMEDIATE RELEASE : November 30, 2023 Representative Smith Visits Stanfield Elementary’s 3rd Grade Class STANFIELD, Ore. – Today, Representative Greg Smith (R-Heppner) visited Stanfield Elementary’s 3 rd grade class.
 He gave a presentation of “how a bill becomes a law” to both Ms.
 Evans’ and Ms.
 Atkins’ classes (see attached photos).
@@ -12,12 +8,23 @@ Smith “I was honored to give a fun and interactive lesson on the legislative p
 Representative Smith has promised both classes that he will propose legislation establishing an official dessert for the State of Oregon.
 The classes will be deciding on what should be proposed.
 If the legislation is able to get a hearing, a student will be chosen to testify virtually, directly from their classroom.
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon History.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon History.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-11-30 04:11:36 2024-03-12 10:03:21 Press Release: Representative Smith Visits Stanfield Elementary’s 3rd Grade Class KUMA Coffee Hour – November 15, 2023 November 15, 2023 / in News https://repgregsmith.com/wp-content/uploads/2023/11/November-15-Oregon-Rep.-Greg-Smith-R-Heppner.mp3 KUMA Coffee Hour (November 15) Oregon Rep.
+Greg Smith (R-Heppner) begins the conversation taking a look back at what stood out from the last session.
+With the rush at the end of the session when the Republican Senators came back to the table, he answers the question whether anything got neglected that needs to be taken care of in the coming session.
+Smith talks about his priorities for the 2024 session.
+He then talks about the ongoing effort to make fixes surrounding Oregon’s voter-approved drug decriminalization measure.
+Smith also talks about scoring some good funding for projects in his district, then talks about what the measures he’s proposing or sponsoring in the upcoming short session. https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-11-15 09:51:28 2024-03-12 10:03:21 KUMA Coffee Hour – November 15, 2023 Press Release: Representatives Mark Owens and Greg Smith Go Back to School November 9, 2023 / in News FOR IMMEDIATE RELEASE : November 9, 2023 Representatives Mark Owens and Greg Smith Go Back to School GRESHAM, Ore. – Today, Representative Mark Owens (R-Crane) and Representative Greg Smith (R-Heppner) toured Sam Barlow High School with Gresham-Barlow School District Superintendent James Hiu.
+Both Representative Owens and Smith live and represent legislative districts in Eastern Oregon, however, they are graduates of Sam Barlow High School; Representative Smith graduated the Class of 1987 and Representative Owens graduated the Class of 1989.
+Strolling down the corridors of Sam Barlow High School evoked memories of their youth and ties to the community for the representatives.
+Gresham has undergone rapid expansion since Representative Smith and Representative Owens relocated to Eastern Oregon.
+Nevertheless, they were both struck by the realization that, despite numerous changes in the community, the traditions and unity within it remain steadfast.
+“I want to thank Superintendent Hiu for the tour today,” Representative Owens said.
+“Sam Barlow High School has changed a lot since I last walked the halls.
+I was impressed with the remarkable Career and Technical Education programs offered to the students and how well the funds were being used.” “There is often a disconnect between the East and West sides of the state,” said Representative Smith.
+“It was so nice to return to my roots and see that no matter where you are in Oregon, communities come together to support the education of our youth.” Links to Biographical Information: Representative Owens Representative Smith Pictured (left to right): Stacy Michaelson (Government Affairs Administrator at the Multnomah Education Service District), Bruce Schmidt (Director of K-12 Education at the Gresham-Barlow School District), Representative Mark Owens (R-District 60), Representative Greg Smith (R-District 57), and James Hiu (Superintendent of the Gresham-Barlow School District).
+### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2023-11-09 04:25:34 2024-03-12 10:03:21 Press Release: Representatives Mark Owens and Greg Smith Go Back to School July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

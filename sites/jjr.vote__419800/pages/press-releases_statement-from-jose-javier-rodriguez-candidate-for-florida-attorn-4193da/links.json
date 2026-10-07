@@ -1,12 +1,50 @@
 [
-"https://jjr.vote/",
-"https://jjr.vote/about",
-"https://jjr.vote/endorsements",
-"https://jjr.vote/es/press-releases/statement-from-jose-javier-rodriguez-candidate-for-florida-attorney-general-on-alligator-alcatraz",
-"https://jjr.vote/media",
-"https://jjr.vote/press-releases/statement-from-jose-javier-rodriguez-candidate-for-florida-attorney-general-on-alligator-alcatraz",
-"https://jjr.vote/priorities",
-"https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join",
-"https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2",
-"https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+{
+"text": "About",
+"href": "https://www.jjr.vote/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/jbuAD39ackeadGIr9pk63w2"
+},
+{
+"text": "EN",
+"href": "https://www.jjr.vote/press-releases/statement-from-jose-javier-rodriguez-candidate-for-florida-attorney-general-on-alligator-alcatraz"
+},
+{
+"text": "ES",
+"href": "https://www.jjr.vote/es/press-releases/statement-from-jose-javier-rodriguez-candidate-for-florida-attorney-general-on-alligator-alcatraz"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jjr.vote/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://secure.ngpvan.com/_54YXVQ2hki4v1uetgo6DQ2"
+},
+{
+"text": "Get involved",
+"href": "https://jose-javier-rodriguez-for-attorney-general.solidarity.tech/join"
+},
+{
+"text": "Home",
+"href": "https://www.jjr.vote/"
+},
+{
+"text": "Media",
+"href": "https://www.jjr.vote/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.jjr.vote/priorities"
+},
+{
+"text": "[image: Jose Javier Rodriguez for Attorney General Logo]",
+"href": "https://www.jjr.vote/"
+},
+{
+"text": "press@jjr.vote",
+"href": "mailto:press@jjr.vote"
+}
 ]

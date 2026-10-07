@@ -1,11 +1,42 @@
 [
-"http://lpnevada.org/",
-"https://clark.lpnevada.org/volunteer",
-"https://tighefornevada.com/a-real-choice",
-"https://tighefornevada.com/es",
-"https://tighefornevada.com/es/about",
-"https://tighefornevada.com/es/contact",
-"https://tighefornevada.com/es/donate",
-"https://tighefornevada.com/es/on-the-issues",
-"https://wpastra.com/"
+{
+"text": "Acerca de Tighe",
+"href": "https://tighefornevada.com/es/about/"
+},
+{
+"text": "Contacto",
+"href": "https://tighefornevada.com/es/contact/"
+},
+{
+"text": "Donar",
+"href": "https://tighefornevada.com/es/donate/"
+},
+{
+"text": "En los temas",
+"href": "https://tighefornevada.com/es/on-the-issues/"
+},
+{
+"text": "Nuestro Partido",
+"href": "http://lpnevada.org/"
+},
+{
+"text": "Read More on the Issues →",
+"href": "https://tighefornevada.com/es/on-the-issues/"
+},
+{
+"text": "Voluntario",
+"href": "https://clark.lpnevada.org/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://tighefornevada.com/es/"
+},
+{
+"text": "[image]English",
+"href": "https://tighefornevada.com/a-real-choice/"
+},
+{
+"text": "[no text]",
+"href": "https://tighefornevada.com/es/"
+}
 ]

@@ -1,7 +1,5 @@
-Cindy believes in
-Reproductive Rights
-Throughout my career, I have been grounded by my family and the perspectives I have gained as a mother to three children.
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Addressing Affordability Fully Funding Education Housing Supporting Small Businesses Consumer Protection Reproductive Rights Community Safety Green Energy & Environmental Protection Closing Equity Gaps Transportation Maintenance and Expansion Cindy believes in Reproductive Rights Throughout my career, I have been grounded by my family and the perspectives I have gained as a mother to three children.
 I understand the need to protect pregnant folks' ability to make their own medical decisions and prevent the overreach of politicians making those decisions for us.
-In the most recent legislative session, I passed a bill (HB 1215) that protects pregnant people's medical decisions and removes barriers for end-of-life care.
+In the most recent legislative session, I passed a bill ( HB 1215 ) that protects pregnant people's medical decisions and removes barriers for end-of-life care.
 I've also utilized my leadership in the state legislature to encourage support for bills like HB 1333, which preserves the dignity of parents who go through the unimaginable loss of a pregnancy.
-This new law repeals the antiquated “concealing birth” statute and limits coroners’ jurisdiction over infant deaths to cases involving violence or unlawful circumstances.
+This new law repeals the antiquated “concealing birth” statute and limits coroners’ jurisdiction over infant deaths to cases involving violence or unlawful circumstances. cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

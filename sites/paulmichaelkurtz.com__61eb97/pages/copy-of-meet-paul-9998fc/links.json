@@ -1,14 +1,54 @@
 [
-"https://linkedin.com/in/paulmichaelkurtz",
-"https://paulmichaelkurtz.com/",
-"https://paulmichaelkurtz.com/accessibility-statement",
-"https://paulmichaelkurtz.com/copy-of-get-involved",
-"https://paulmichaelkurtz.com/copy-of-issues",
-"https://paulmichaelkurtz.com/copy-of-meet-paul",
-"https://paulmichaelkurtz.com/endorsements",
-"https://paulmichaelkurtz.com/privacy-policy",
-"https://paulmichaelkurtz.com/terms-and-conditions",
-"https://secure.actblue.com/donate/paul-kurtz-1",
-"https://tiktok.com/@paulmichaelkurtz",
-"https://youtube.com/@Pmichaelkurtz"
+{
+"text": "Accessibility Statement",
+"href": "https://www.paulmichaelkurtz.com/accessibility-statement"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/paul-kurtz-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/paul-kurtz-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.paulmichaelkurtz.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.paulmichaelkurtz.com/copy-of-get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.paulmichaelkurtz.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.paulmichaelkurtz.com/copy-of-issues"
+},
+{
+"text": "MEET PAUL",
+"href": "https://www.paulmichaelkurtz.com/copy-of-meet-paul"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.paulmichaelkurtz.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.paulmichaelkurtz.com/terms-and-conditions"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@paulmichaelkurtz"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/paulmichaelkurtz/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@Pmichaelkurtz"
+}
 ]

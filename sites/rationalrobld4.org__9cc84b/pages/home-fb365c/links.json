@@ -1,20 +1,74 @@
 [
-"https://campaignpartner.com/",
-"https://rationalrobld4.org/",
-"https://rationalrobld4.org/contact",
-"https://rationalrobld4.org/contribute",
-"https://rationalrobld4.org/home",
-"https://rationalrobld4.org/issues",
-"https://rationalrobld4.org/make-endorsement",
-"https://rationalrobld4.org/meet_robert",
-"https://rationalrobld4.org/news",
-"https://rationalrobld4.org/privacy-policy",
-"https://rationalrobld4.org/terms",
-"https://rationalrobld4.org/view-endorsements",
-"https://rationalrobld4.org/volunteer",
-"https://rationalrobld4.org/vote",
-"https://rationalrobld4.org/yard-sign",
-"https://secure.actblue.com/donate/rob-tupper-1",
-"https://voter.votewa.gov/portal2023/login.aspx",
-"https://youtube.com/shorts/Hm5Zey8SstM?feature=share"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://rationalrobld4.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://rationalrobld4.org/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://rationalrobld4.org/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://rationalrobld4.org/home"
+},
+{
+"text": "Issues",
+"href": "https://rationalrobld4.org/issues"
+},
+{
+"text": "Make Endorsement",
+"href": "https://rationalrobld4.org/make-endorsement"
+},
+{
+"text": "Make a Contribution to my Campaign",
+"href": "https://secure.actblue.com/donate/rob-tupper-1"
+},
+{
+"text": "Meet Rob",
+"href": "https://rationalrobld4.org/meet_robert"
+},
+{
+"text": "Meet Rob: Video",
+"href": "https://youtube.com/shorts/Hm5Zey8SstM?feature=share"
+},
+{
+"text": "News",
+"href": "https://rationalrobld4.org/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rationalrobld4.org/privacy-policy"
+},
+{
+"text": "Register to vote",
+"href": "https://voter.votewa.gov/portal2023/login.aspx"
+},
+{
+"text": "Terms",
+"href": "https://rationalrobld4.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://rationalrobld4.org/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://rationalrobld4.org/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://rationalrobld4.org/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://rationalrobld4.org/"
+}
 ]

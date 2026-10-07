@@ -1,7 +1,12 @@
 {
  "description": "Congressman Hal Rogers campaign website",
  "final_url": "https://www.congressmanhalrogers.com/news/wins-23rd-nomination",
- "paid_for_by": "Paid for by Hal Rogers for Congress \u00a92026 Hal Rogers for Congress",
+ "fingerprint": "2c8e0f53d24f43ed711be8f9613cd2484a2038ec",
+ "format": 3,
+ "paid_for_by": "Paid for by Hal Rogers for Congress ©# Hal Rogers for Congress",
  "title": "News - Congressman Hal Rogers",
- "years_mentioned": []
+ "years_mentioned": [
+  "1980",
+  "2024"
+ ]
 }

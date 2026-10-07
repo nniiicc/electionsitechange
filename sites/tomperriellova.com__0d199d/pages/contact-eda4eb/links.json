@@ -1,14 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/TomPerriello",
-"https://instagram.com/TomPerrielloForCongress",
-"https://secure.actblue.com/donate/tp4cwebsite",
-"https://tomperriello.com/",
-"https://tomperriello.com/about",
-"https://tomperriello.com/issues",
-"https://tomperriello.com/media-kit",
-"https://tomperriello.com/privacy-policy",
-"https://tomperriello.com/students",
-"https://tomperriello.com/terms-conditions",
-"https://x.com/TomPerriello"
+{
+"text": "About",
+"href": "https://www.tomperriello.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tp4cwebsite"
+},
+{
+"text": "Home",
+"href": "https://www.tomperriello.com/"
+},
+{
+"text": "Issues and Priorities",
+"href": "https://www.tomperriello.com/issues"
+},
+{
+"text": "Media Kit",
+"href": "https://www.tomperriello.com/media-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tomperriello.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Students",
+"href": "https://www.tomperriello.com/students"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.tomperriello.com/terms-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TomPerriello"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/TomPerrielloForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomPerriello"
+},
+{
+"text": "info@tomperriello.com",
+"href": "mailto:info@tomperriello.com"
+},
+{
+"text": "press@tomperriello.com",
+"href": "mailto:press@tomperriello.com"
+}
 ]

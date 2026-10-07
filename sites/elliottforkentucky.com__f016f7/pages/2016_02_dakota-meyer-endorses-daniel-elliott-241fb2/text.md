@@ -1,13 +1,13 @@
-from Dakota Meyer:
-It’s an exciting time of the year with the upcoming March 8th Special Election for State Representative, Kentuckians have the opportunity to flip the House and bring a new majority to Frankfort for the first time in nearly 100 years.
-We have been stuck with the same, ineffective liberal leadership in the State House for as long as anyone can remember, but the Special Election on March 8th marks the first of three elections this year that have everyone working with renewed fervor.
+Toggle navigation About Issues News COVID-19 Vote Donate Dakota Meyer Endorses Daniel Elliott February 3, 2016 by Elliott for State Representative in News from Dakota Meyer: It’s an exciting time of the year with the upcoming March 8 th Special Election for State Representative, Kentuckians have the opportunity to flip the House and bring a new majority to Frankfort for the first time in nearly 100 years.
+We have been stuck with the same, ineffective liberal leadership in the State House for as long as anyone can remember, but the Special Election on March 8 th marks the first of three elections this year that have everyone working with renewed fervor.
 With the right candidates, we have a very real chance to see conservative leadership in the House once more, which I believe many of us can agree is needed.
 Campaigning to serve the residents of Boyle and Casey Counties, Daniel Elliott is one of those candidates hoping to bring our state a new majority in 2016.
-Raised in a Christian home, Daniel Elliott is a strong, conservative Republican with a positive vision for the communities in the 54th District.
+Raised in a Christian home, Daniel Elliott is a strong, conservative Republican with a positive vision for the communities in the 54 th District.
 With an honest desire to bring commonsense reforms to Frankfort, Daniel will provide exactly what the House has been missing: integrity, honesty, and a lifelong commitment to serving others before himself.
 After meeting with Daniel in length, I am confident in his ability to serve the people of Boyle and Casey counties, and to promote policies that will create jobs for local residents, improve our education system, and fight for the transparency and accountability that has been lacking under the current Democratic Leadership.
 As a veteran myself that has served our country, I have been fortunate enough to be surrounded by people that know what it takes to serve and make a difference.
 Even though he’s never served his country in combat, I know that Daniel will serve our commonwealth with the same integrity and purpose that I did on the battlefield.
 Dedicating his career to helping the most vulnerable individuals without a voice, I know that Daniel is the one candidate in this race with the qualifications to be a true statesman for the people of Boyle and Casey counties.
 Having the leadership skills we need in Kentucky, I am proud to endorse Daniel Elliott for State Representative.
-Related
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Latest News Dakota Meyer Endorses Daniel Elliott February 3, 2016 Daniel B.
+Elliott Nominated to run for Vacancy in the Kentucky House of Representatives, 54th District January 10, 2016 First Name Last Name Email * ZIP Code * About News Volunteer Donate Paid for by Daniel Elliott for State Representative

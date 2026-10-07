@@ -1,18 +1,90 @@
 [
-"https://lccountymt.gov/Government/Information-Technology/GIS/Legislative-Districts",
-"https://lccountymt.gov/vote",
-"https://legmt.gov/districts",
-"https://looneyformontana.com/",
-"https://looneyformontana.com/about",
-"https://looneyformontana.com/contact",
-"https://looneyformontana.com/donate",
-"https://looneyformontana.com/endorsements",
-"https://looneyformontana.com/issues",
-"https://looneyformontana.com/privacy-policy",
-"https://looneyformontana.com/text-messaging-terms",
-"https://looneyformontana.com/text-updates",
-"https://looneyformontana.com/volunteer",
-"https://looneyformontana.com/vote",
-"https://prodvoterportal.mt.gov/WhereToVote.aspx",
-"https://votemt.gov/"
+{
+"text": "(406) 431-2542",
+"href": "tel:4064312542"
+},
+{
+"text": "(406) 444-9608",
+"href": "tel:4064449608"
+},
+{
+"text": "406-447-8339",
+"href": "tel:4064478339"
+},
+{
+"text": "About",
+"href": "https://looneyformontana.com/about"
+},
+{
+"text": "Contact",
+"href": "https://looneyformontana.com/contact"
+},
+{
+"text": "County elections website",
+"href": "https://www.lccountymt.gov/vote"
+},
+{
+"text": "Donate",
+"href": "https://looneyformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://looneyformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://looneyformontana.com/"
+},
+{
+"text": "House District 81 maps (Lewis & Clark County)",
+"href": "https://www.lccountymt.gov/Government/Information-Technology/GIS/Legislative-Districts"
+},
+{
+"text": "Issues",
+"href": "https://looneyformontana.com/issues"
+},
+{
+"text": "Legislative district lookup",
+"href": "https://www.legmt.gov/districts/"
+},
+{
+"text": "My Voting Information",
+"href": "https://prodvoterportal.mt.gov/WhereToVote.aspx"
+},
+{
+"text": "Privacy Policy",
+"href": "https://looneyformontana.com/privacy-policy"
+},
+{
+"text": "Text Messaging Terms",
+"href": "https://looneyformontana.com/text-messaging-terms"
+},
+{
+"text": "Text Updates",
+"href": "https://looneyformontana.com/text-updates"
+},
+{
+"text": "Volunteer",
+"href": "https://looneyformontana.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://looneyformontana.com/vote"
+},
+{
+"text": "[image] John Looney",
+"href": "https://looneyformontana.com/"
+},
+{
+"text": "county elections office",
+"href": "https://www.lccountymt.gov/vote"
+},
+{
+"text": "elections@lccountymt.gov",
+"href": "mailto:elections@lccountymt.gov"
+},
+{
+"text": "votemt.gov",
+"href": "https://votemt.gov/"
+}
 ]

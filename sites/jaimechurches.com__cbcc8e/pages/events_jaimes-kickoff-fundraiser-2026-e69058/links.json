@@ -1,23 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=jaime%27s+Kickoff+Fundraiser+2026+&dates=20260421T230000Z%2F20260422T010000Z&location=Wyandotte%2C+MI+",
-"http://maps.google.com/?q=+Wyandotte%2C+MI",
-"https://docs.google.com/forms/d/e/1FAIpQLSfU7gg1ZC8kbgpta7A_SGxtFDfYEvIa3mpI9-xZl23d5gVt_Q/viewform",
-"https://facebook.com/Jaime4StateRep",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fchurches-kickoff-2026&sa=D&usd=2&usg=AOvVaw3dbZNfs5hx7fOS9eQQMv4c",
-"https://instagram.com/jaime_churches",
-"https://jaimechurches.com/",
-"https://jaimechurches.com/about",
-"https://jaimechurches.com/cart",
-"https://jaimechurches.com/endorsements",
-"https://jaimechurches.com/events",
-"https://jaimechurches.com/events/elba-island-event",
-"https://jaimechurches.com/events/jaimes-kickoff-fundraiser-2026?format=ical",
-"https://jaimechurches.com/home",
-"https://jaimechurches.com/house-district-27",
-"https://jaimechurches.com/priorities",
-"https://jaimechurches.com/subscribe",
-"https://mobilize.us/jaimechurches",
-"https://secure.actblue.com/donate/jc-web-2026",
-"https://secure.ngpvan.com/l42iWNh3K0uoH2msGI6ohQ2",
-"https://twitter.com/Jaime_Churches"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+wyandotte%2C+mi++"
+},
+{
+"text": "0",
+"href": "https://www.jaimechurches.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jaimechurches.com/home"
+},
+{
+"text": "About Jaime",
+"href": "https://www.jaimechurches.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jaimechurches.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaimechurches.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:Jaime@jaimechurches.com?subject=Contact+the+campaign"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jc-web-2026"
+},
+{
+"text": "Donate‍",
+"href": "https://secure.actblue.com/donate/jc-web-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaimechurches.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaimechurches.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=jaime%27s+Kickoff+Fundraiser+2026+&dates=20260421T230000Z%2F20260422T010000Z&location=Wyandotte%2C+MI+"
+},
+{
+"text": "House District 27",
+"href": "https://www.jaimechurches.com/house-district-27"
+},
+{
+"text": "ICS",
+"href": "https://www.jaimechurches.com/events/jaimes-kickoff-fundraiser-2026?format=ical"
+},
+{
+"text": "Previous Previous June 26 Elba Island Event",
+"href": "https://www.jaimechurches.com/events/elba-island-event"
+},
+{
+"text": "Priorities",
+"href": "https://www.jaimechurches.com/priorities"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfU7gg1ZC8kbgpta7A_SGxtFDfYEvIa3mpI9-xZl23d5gVt_Q/viewform"
+},
+{
+"text": "Subscribe",
+"href": "https://secure.ngpvan.com/l42iWNh3K0uoH2msGI6ohQ2"
+},
+{
+"text": "Subscribe",
+"href": "https://www.jaimechurches.com/subscribe"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/jaimechurches/"
+},
+{
+"text": "[image: Jaime Churches]",
+"href": "https://www.jaimechurches.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Jaime_Churches"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Jaime4StateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaime_churches/"
+},
+{
+"text": "https://secure.actblue.com/donate/churches-kickoff-2026",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fchurches-kickoff-2026&sa=D&usd=2&usg=AOvVaw3dbZNfs5hx7fOS9eQQMv4c"
+}
 ]

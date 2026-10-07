@@ -1,4 +1,4 @@
-I am running in the 2026 election as the Green Party candidate for Texas Lieutenant Governor.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home About About Details I am running in the 2026 election as the Green Party candidate for Texas Lieutenant Governor.
 My experience is widely varied.
 I received my Juris Doctorate degree from the University of Houston Law Center in 1986.
 Most recently, I was a high school math teacher at Jefferson High School in San Antonio.
@@ -24,14 +24,15 @@ It should not be a surprise that few people accurately understand the monetary s
 The media-controlled information stream leaves this topic completely unmentioned and treats it as an economics matter, when in fact, it is a political choice.
 The choice is whether we live under the Federal Reserve System, serving private profit and a corporate royalty, or a Public Money System, serving the public interest and an enlightened society.
 Suffice to say that we cannot have a genuine democracy unless the monetary system is under democratic public control.
-Acacia farnesiana, better known as the huisache tree, is a small thorny tree that is probably native to the more arid regions of Central America and the Southwest United States.
+Acacia farnesiana , better known as the huisache tree, is a small thorny tree that is probably native to the more arid regions of Central America and the Southwest United States.
 It tends to sprout in multiple spindly trunks that have rather long and sharp thorns.
 It takes more of a tree form as it matures and can be pruned to an attractive shape.
 It has yellow orange flowers in the spring and produces seed pods as is characteristic of the legume family.
-Learn more at the Lady Bird Johnson Wildflower Center where it is known as vachellia farnesiana.
+Learn more at the Lady Bird Johnson Wildflower Center where it is known as vachellia farnesiana .
 I chose this mascot because I feel it is representative of the probable future for a Texan in the 21st century.
-I seriously considered choosing the honey mesquite tree since it is regarded as more attractive and useful, but the scientific name, prosopis glandulosa, just doesn't work as a website title.
-Now that I am living in east Texas, the thought of the shortleaf pine, pinus echinata or the loblolly pine, pinus taeda has become more appealing.
+I seriously considered choosing the honey mesquite tree since it is regarded as more attractive and useful, but the scientific name, prosopis glandulosa , just doesn't work as a website title.
+Now that I am living in east Texas, the thought of the shortleaf pine , pinus echinata or the loblolly pine , pinus taeda has become more appealing.
+This tortoise, with pine needles, may have a lesson for us.
 Texas is becomming more and more a car-park colony of Wall Street.
 I have a morbid fascination with the methods and memes of this progression, and a strong desire to find another way.
 The ruling class proudly points to enormous highway monuments and wide strips of concrete, while hiding the costs and pretending to be mystified by rising taxes.
@@ -40,7 +41,7 @@ The grip of fossil fuels and the banking cartel is strong, but their system is b
 Perhaps there will be an enormously great traffic jam that finally brings the realization that we could do better.
 I am also quite interested in the agriculture practices of Texas.
 The agricultural sector is a major user of chemicals which have found their way into everything we touch or eat or drink.
-As global warming progresses, the agriculture sector in Texas faces increased difficulties.
+As global warming progresses, the agriculture sector in Texas faces increased difficulties .
 I am not sure when the last good harvest occurred.
 It seems it is either too flooded or too dry or too hot for optimal chemical doused genetically modified conditions.
 I truly believe this is a very important topic for our future.
@@ -50,5 +51,12 @@ The 2024 Smokehouse Creek Fire was the largest in Texas recorded history.
 And then there is the still ongoing recovery from hurricane Harvey (15.8MB pdf file).
 Will Houston ever recover, or will there just be unmentioned sacrifice zones?
 If you wish to volunteer to help my campaign, please request business cards to hand out, since that is the best publicity I will get.
-You can send a message with the Contact form.
-Regards
+You can send a message with the Contact form .
+Regards Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

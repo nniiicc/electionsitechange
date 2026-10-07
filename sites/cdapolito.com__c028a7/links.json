@@ -1,9 +1,34 @@
 [
-"https://cdapolito.com/",
-"https://cdapolito.com/about",
-"https://cdapolito.com/cart",
-"https://cdapolito.com/contact",
-"https://cdapolito.com/issues",
-"https://facebook.com/profile.php?id=61587456880121",
-"https://secure.actblue.com/raise/221467"
+{
+"text": "0",
+"href": "https://www.cdapolito.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cdapolito.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.cdapolito.com/contact"
+},
+{
+"text": "Craig D'Apolito - TN64",
+"href": "https://www.cdapolito.com/"
+},
+{
+"text": "Home",
+"href": "https://www.cdapolito.com/"
+},
+{
+"text": "The Issues",
+"href": "https://www.cdapolito.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587456880121"
+},
+{
+"text": "https://secure.actblue.com/raise/221467",
+"href": "https://secure.actblue.com/raise/221467"
+}
 ]

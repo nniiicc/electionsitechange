@@ -1,9 +1,3 @@
-Back to All Events
-Regular meeting of the Wilmington selectboard meeting to discuss ongoing town business
-Previous
-Previous
-December 3
-Halifax Select Board Meeting
-Next
-Next
-March 15
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Back to All Events Wilmington Selectboard Meeting Tuesday, December 17, 2024 6:00 PM 7:00 PM Google Calendar ICS Regular meeting of the Wilmington selectboard meeting to discuss ongoing town business Previous Previous December 3 Halifax Select Board Meeting Next Next March 15 Federal Task Force Update with Mike Pieciak Donate Wilmington.
+Whitingham.
+Halifax

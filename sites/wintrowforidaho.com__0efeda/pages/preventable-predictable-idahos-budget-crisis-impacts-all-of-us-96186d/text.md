@@ -1,4 +1,5 @@
-Transparency and accountability are hallmarks of healthy budgeting.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE Preventable.
+Predictable: Idaho’s budget crisis impacts all of us Nov 23, 2025 Transparency and accountability are hallmarks of healthy budgeting.
 So, let’s be transparent.
 Let’s be accountable.
 Everyone already knows how we got into our current budget crisis: Republican lawmakers adopted unrealistic revenue projections to accommodate tax giveaways and an unpopular school voucher scheme, resulting in $450 million in revenue reductions that overwhelmingly benefited the wealthy.
@@ -32,3 +33,7 @@ Behind every percentage point lies a ripple effect that touches real people: a p
 Real conservative values are about planning, taking responsibility, and investing wisely.
 Idaho can no longer afford to treat its people as a line item to be cut.
 It’s not too late to change course, to put responsibility ahead of ideology and ensure our state’s growth is matched by leadership that protects the foundations of our communities.
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
+Let’s Fight for What’s Right!
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

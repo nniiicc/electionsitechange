@@ -1,7 +1,11 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/progressive-wins/",
+ "fingerprint": "81a928ee1ed86d0f093aca3c2af8a783647b5370",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "Support Ned LamontFacebookXInstagramBlueskyTikTok",
- "years_mentioned": []
+ "title": "Support Ned Lamont",
+ "years_mentioned": [
+  "2040"
+ ]
 }

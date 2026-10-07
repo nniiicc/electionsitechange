@@ -1,42 +1,194 @@
 [
-"http://facebook.com/FriendsOfJenniferClancy",
-"http://instagram.com/friendsofjenniferclancy",
-"http://vote.md.gov/StatusSearch",
-"https://absentee.vote.org/",
-"https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York",
-"https://campaignpartner.com/",
-"https://eepurl.com/jlXiCs",
-"https://elections.maryland.gov/about/county_boards.html",
-"https://elections.maryland.gov/elections/2026/2026%20Election%20Calendar.pdf",
-"https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Amelia%20Avila_.png",
-"https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Catherine%20Ruhlen.png",
-"https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Stephanie%20Zeiler.png",
-"https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%201.png",
-"https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%202.png",
-"https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%203.png",
-"https://elections.maryland.gov/elections/2026/Primary_candidates/index.html",
-"https://elections.maryland.gov/elections/2026/index.html",
-"https://elections.maryland.gov/voter_registration/index.html",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://elections.maryland.gov/voting/accessibility.html",
-"https://forms.gle/PnxwMfdeh5jj5LQ18",
-"https://forms.gle/r2bAcYZ7Z9jcCmbT6",
-"https://friendsofjenniferclancy.com/",
-"https://friendsofjenniferclancy.com/contribute",
-"https://friendsofjenniferclancy.com/home",
-"https://friendsofjenniferclancy.com/images/143350/MDLegislativeDistricts.pdf",
-"https://friendsofjenniferclancy.com/issues",
-"https://friendsofjenniferclancy.com/meet_jennifer",
-"https://friendsofjenniferclancy.com/news",
-"https://friendsofjenniferclancy.com/privacy-policy",
-"https://friendsofjenniferclancy.com/vote",
-"https://register.vote.org/",
-"https://verify.vote.org/",
-"https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://voterservices.elections.maryland.gov/onlinemailinrequest",
-"https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/onlinevoterupdate/InstructionsStep1"
+{
+"text": "2026 Election Calendar (PDF)",
+"href": "https://elections.maryland.gov/elections/2026/2026%20Election%20Calendar.pdf"
+},
+{
+"text": "2026 Primary Election Candidate List",
+"href": "https://elections.maryland.gov/elections/2026/Primary_candidates/index.html"
+},
+{
+"text": "Calendar",
+"href": "https://calendar.google.com/calendar/embed?src=friendsofjenniferclancy%40gmail.com&ctz=America%2FNew_York"
+},
+{
+"text": "Contribute",
+"href": "https://friendsofjenniferclancy.com/contribute"
+},
+{
+"text": "HERE",
+"href": "https://elections.maryland.gov/voter_registration/index.html"
+},
+{
+"text": "Home",
+"href": "https://friendsofjenniferclancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://friendsofjenniferclancy.com/issues"
+},
+{
+"text": "Mail-In Voting information page",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "Maryland’s Online Voter Registration System (OLUP)",
+"href": "https://voterservices.elections.maryland.gov/onlinevoterupdate/InstructionsStep1"
+},
+{
+"text": "Meet Jennifer",
+"href": "https://friendsofjenniferclancy.com/meet_jennifer"
+},
+{
+"text": "News",
+"href": "https://friendsofjenniferclancy.com/news"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://friendsofjenniferclancy.com/privacy-policy"
+},
+{
+"text": "Questions for Clancy?",
+"href": "https://forms.gle/PnxwMfdeh5jj5LQ18"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "To learn more about voting by mail or voting in person, click here",
+"href": "https://elections.maryland.gov/voting/accessibility.html"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer Newsletter",
+"href": "https://eepurl.com/jlXiCs%09"
+},
+{
+"text": "Voter Information",
+"href": "https://friendsofjenniferclancy.com/vote"
+},
+{
+"text": "YARD SIGN REQUEST",
+"href": "https://forms.gle/r2bAcYZ7Z9jcCmbT6"
+},
+{
+"text": "You can find your polling place here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "[image: Jennifer Clancy Maryland State Delegate 29A]",
+"href": "https://friendsofjenniferclancy.com/"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Amelia%20Avila_.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Catherine%20Ruhlen.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/BILINGUAL_Sticker%201_Elementary%20School_Stephanie%20Zeiler.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%201.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%202.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/elections/2026/MD%20I%20Voted%20Sticker%203.png"
+},
+{
+"text": "[image]",
+"href": "https://elections.maryland.gov/voting/accessibility.html"
+},
+{
+"text": "[image]",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "[image]",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "[image]",
+"href": "https://voterservices.elections.maryland.gov/onlinemailinrequest"
+},
+{
+"text": "[image]",
+"href": "https://voterservices.elections.maryland.gov/onlinemailinrequest/InstructionsStep1"
+},
+{
+"text": "[image]MDLegislativeDistricts.pdf",
+"href": "https://friendsofjenniferclancy.com/images/143350/MDLegislativeDistricts.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/FriendsOfJenniferClancy"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/friendsofjenniferclancy"
+},
+{
+"text": "check the status of your application here",
+"href": "http://vote.md.gov/StatusSearch"
+},
+{
+"text": "find your polling place here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "https://voterservices.elections.maryland.gov/VoterSearch",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "local board",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+},
+{
+"text": "local board of elections",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+},
+{
+"text": "request a mail-in ballot",
+"href": "https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1"
+},
+{
+"text": "request for a ballot",
+"href": "https://voterservices.elections.maryland.gov/OnlineMailinRequest/InstructionsStep1"
+},
+{
+"text": "website",
+"href": "https://elections.maryland.gov/elections/2026/index.html"
+},
+{
+"text": "your assigned polling place",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "your assigned polling place.",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "your local board.",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+}
 ]

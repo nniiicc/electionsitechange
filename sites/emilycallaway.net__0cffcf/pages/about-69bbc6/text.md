@@ -1,5 +1,4 @@
-Meet Emily Callaway
-Emily Callaway stands as a rock-solid leader deeply rooted in the hardworking spirit of the 37th District.
+Home About Issues Contact Volunteer DONATE Get in touch Emily Callaway Emily Callaway Home About Issues Contact Volunteer DONATE Meet Emily Callaway Emily Callaway stands as a rock-solid leader deeply rooted in the hardworking spirit of the 37th District.
 Born and raised in the South End, Emily's journey began on the streets we call home.
 From her days at PRP High School to her time sorting packages at UPS and wrenching on diesel engines, she's walked the same paths and felt the same struggles as many of us.
 But Emily's story doesn't end there.
@@ -10,3 +9,8 @@ She's tackled tough issues head-on, like making sure our kids are safe on school
 And when it comes to our wallets, Emily's been a champion for lowering taxes, putting more money back in our pockets where it belongs.
 Emily Callaway is our neighbor and voice in Frankfort.
 She'll always defend our values and make sure we have a seat at the table.
+Follow Emily Callaway Sign Up For Updates newsletter Name: Email: Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Paid For By Emily Callaway for State Representative Privacy Policy Powered by Ryvall Share by:

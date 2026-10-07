@@ -1,17 +1,2 @@
-Skip to content
-Home
-About
-Priorities
-Endorsements
-Get Involved
-DONATE
-DONATE
-Home
-About
-Priorities
-Endorsements
-Get Involved
-DONATE
-DONATE
-Endorsements & Distinctions
-Scroll to Top
+Skip to content Home About Priorities Endorsements Get Involved DONATE DONATE Home About Priorities Endorsements Get Involved DONATE DONATE Endorsements & Distinctions District 37A includes Corcoran, Greenfield, Independence, Loretto, Maple Plain, Medina, and part of Maple Grove (P-01, P-13, P-14, P-15) Home About Priorities Endorsements Press Photos Get Involved Donate [email protected] Prepared and paid for by the Darci Smith for Minnesota House Committee, PO BOX 35 Maple Plain MN 55359.
+Designed by The Geek You Need Scroll to Top

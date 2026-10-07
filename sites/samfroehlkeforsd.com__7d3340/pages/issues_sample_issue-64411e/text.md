@@ -1,5 +1,5 @@
-South Dakota state health care cooperative
-If 100,000 South Dakotans, less than a quarter of all employed, paid $3,000 each into this fund in a year ($250 a month), there would be a fund of three hundred million dollars in one year, enough to build and run a full hospital.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles South Dakota state health care cooperative If 100,000 South Dakotans, less than a quarter of all employed, paid $3,000 each into this fund in a year ($250 a month), there would be a fund of three hundred million dollars in one year, enough to build and run a full hospital.
 For less than half the cost of current health insurance premiums, the citizens of South Dakota could build and run their own hospitals, using them only at the cost of the annual membership.
 While other forms of state run health care try to control or replace traditional hospital systems, this plan would leave all existing hospitals, health service corporations, and insurance companies alone.
 The state would simply provide an affordable fair market alternative.
+Next: Encouraging independent health care » Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

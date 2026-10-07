@@ -1,9 +1,38 @@
 [
-"https://facebook.com/mike.mccaffree",
-"https://mccaffree4mosenate.com/",
-"https://mccaffree4mosenate.com/about-mike",
-"https://mccaffree4mosenate.com/cart",
-"https://mccaffree4mosenate.com/contact-us",
-"https://mccaffree4mosenate.com/home",
-"https://secure.actblue.com/donate/mikemccaffree"
+{
+"text": "0",
+"href": "https://mccaffree4mosenate.com/cart"
+},
+{
+"text": "About Mike",
+"href": "https://mccaffree4mosenate.com/about-mike"
+},
+{
+"text": "Contact",
+"href": "https://mccaffree4mosenate.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mikemccaffree"
+},
+{
+"text": "Home",
+"href": "https://mccaffree4mosenate.com/"
+},
+{
+"text": "Home",
+"href": "https://mccaffree4mosenate.com/home"
+},
+{
+"text": "Learn How to Support Mike!",
+"href": "https://mccaffree4mosenate.com/contact-us"
+},
+{
+"text": "[image: Mike McCaffree]",
+"href": "https://mccaffree4mosenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mike.mccaffree"
+}
 ]

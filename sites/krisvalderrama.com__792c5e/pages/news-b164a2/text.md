@@ -1,23 +1,3 @@
-Home
-Biography
-Issues
-News
-Scholarships
-Get Involved
-Contact
-Home
-Biography
-Issues
-News
-Scholarships
-Get Involved
-Contact
-Contribute
-Latest News
-News
-Advocates Rally Md.
-Lawmakers to Pass Paid Family Medical Leave This Year
-News
-Lawmaker: It’s time Maryland offered a paid family leave program | COMMENTARY
-News
-Time to Care Act of 2022 would provide 12 weeks paid time off for caregivers
+Home Biography Issues News Scholarships Get Involved Contact Home Biography Issues News Scholarships Get Involved Contact Contribute Latest News News Advocates Rally Md.
+Lawmakers to Pass Paid Family Medical Leave This Year News Lawmaker: It’s time Maryland offered a paid family leave program | COMMENTARY News Time to Care Act of 2022 would provide 12 weeks paid time off for caregivers Twitter Facebook Dribbble Youtube Pinterest Medium Twitch Linkedin Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram By authority citizens for Kris Valderrama Treasurer: Abraham Lobo Website Developed by Core Digital Expansion Copyright # Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram BY AUTHORITY: Citizens for Kris Valderrama, Abraham Lobo, Treasurer.
+Website Developed by Core Digital Expansion Copyright #

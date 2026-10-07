@@ -1,43 +1,5 @@
-Skip to main content
-Elected Officials
-- Mike LevinCongressman, CA-49
-- Tom UmbergState Senator 34th District
-- Catherine BlakespearState Senator 38th District
-- John HarabedianAssemblyman, AD-41
-- Robert GarciaAssemblyman, AD-50
-- Corey JacksonAssemblymember, AD-60
-- Sharon Quirk-SilvaAssemblywoman, AD-67
-- Chris WardAssemblyman, AD-78
-- John TaylorSan Juan Capistrano City Councilmember
-- Troy BourneSan Juan Capistrano City Councilmember
-- Andrew LaraPico Rivera City Councilmember
-- Laura FreeseSanta Margarita Water District Board Member
-- Michael VillarDana Point City Councilmember D5
-- Mark EnmeierSan Clemente City Councilmember
-- Esther SanchezMayor of Oceanside
-- Dan O'DonnellVista City Councilmember
-- Rachel WhiteOceanside Housing Commissioner
-- Eric JoyceOceanside Deputy Mayor
-- Martha AlvaradoVista Unified School Board Trustee
-- Teresa AcostaCarlsbad Councilmember
-Community Leaders
-- Kyle FrohlanderSan Diego County Democratic Party Chair Emeritus
-- Chris DuncanSan Clemente City Councilmember (ret.)
-- Fran SdaoDemocratic Party of Orange County Chair Emeritus
-- Josh NewmanCalifornia State Senator (ret.)
-- Ada BricenoDemocratic Party of Orange County Chair Emeritus
-Organizations
-- California Democratic Party
-- California Faculty Association (CFA)
-- California Federation of Teachers (CFT)
-- California Latino Legislative Caucus
-- California School Employees Association (CSEA)
-- California Teachers Association (CTA)
-- Coalition PAC
-- Community Action Fund of Planned Parenthood of Orange and San Bernardino Counties
-- Equality California
-- HONOR PAC
-- International Association of Painters and Allied Trades, District Council 36
-- San Diego Democrats for Equality
-- Service Employees International Union (SEIU) California
-- Triton Democrats
+Skip to main content Open Menu About Sergio Why I'm Running Press Photos Endorsements Contact Donate About Sergio Why I'm Running Press Photos Endorsements Contact Donate Endorsements Elected Officials Mike Levin Congressman, CA-49 Tom Umberg State Senator 34th District Catherine Blakespear State Senator 38th District John Harabedian Assemblyman, AD-41 Robert Garcia Assemblyman, AD-50 Corey Jackson Assemblymember, AD-60 Sharon Quirk-Silva Assemblywoman, AD-67 Chris Ward Assemblyman, AD-78 John Taylor San Juan Capistrano City Councilmember Troy Bourne San Juan Capistrano City Councilmember Andrew Lara Pico Rivera City Councilmember Laura Freese Santa Margarita Water District Board Member Michael Villar Dana Point City Councilmember D5 Mark Enmeier San Clemente City Councilmember Esther Sanchez Mayor of Oceanside Dan O'Donnell Vista City Councilmember Rachel White Oceanside Housing Commissioner Eric Joyce Oceanside Deputy Mayor Martha Alvarado Vista Unified School Board Trustee Teresa Acosta Carlsbad Councilmember Community Leaders Kyle Frohlander San Diego County Democratic Party Chair Emeritus Chris Duncan San Clemente City Councilmember (ret.) Fran Sdao Democratic Party of Orange County Chair Emeritus Josh Newman California State Senator (ret.) Ada Briceno Democratic Party of Orange County Chair Emeritus Organizations California Democratic Party California Faculty Association (CFA) California Federation of Teachers (CFT) California Latino Legislative Caucus California School Employees Association (CSEA) California Teachers Association (CTA) Coalition PAC Community Action Fund of Planned Parenthood of Orange and San Bernardino Counties Equality California HONOR PAC International Association of Painters and Allied Trades, District Council 36 San Diego Democrats for Equality Service Employees International Union (SEIU) California Triton Democrats Donate Stand with Sergio – Take Action Today!
+Sergio Farias has spent his life working for his community, and now he’s ready to fight for you in Sacramento.
+With your support, we can build a stronger, more affordable California for all.
+Join the movement and help make a difference!
+Donate [email protected] Paid for by Sergio Farias for Assembly 2026 ID#: 1477625

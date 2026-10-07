@@ -1,39 +1,21 @@
-"When Birk speaks, you can see the depth of his thinking.
+About Judge Birk Endorsements Values News Get Involved Endorse Donate About Judge Birk Endorsements Values News Get Involved Endorse Donate A Justice For All of Washington.
+“In every case I have taken as a lawyer and every case I have heard as a judge, I have focused on the right of every person to equal access to justice, equal treatment under the law, and fair outcomes.
+I am running for the Washington State Supreme Court to ensure our courts continue to lead by example—independent, fair, and grounded in the real lives of the people we serve.” — Judge Ian Birk A Justice For All of Washington.
+“In every case I have taken as a lawyer and every case I have heard as a judge, I have focused on the right of every person to equal access to justice, equal treatment under the law, and fair outcomes.
+I am running for the Washington State Supreme Court to ensure our courts continue to lead by example—independent, fair, and grounded in the real lives of the people we serve.” — Judge Ian Birk "When Birk speaks, you can see the depth of his thinking.
 Especially around fairness, access to the courts, and the Court’s role in addressing racial inequities and mass incarceration.
 When he picked us and our questions apart, we thought, “this is exactly the person you’d want sitting on our State Supreme Court.” He’s no-nonsense, with zero interest in political games or in flattering the SECB.
 There is only the law, and its fair application for all people.
 He lives for this and treats it as a sacred responsibility.
-It was inspiring."
-"Voters have an easy choice: Judge Birk is a thoughtful, experienced Court of Appeals judge who has written fair, deeply researched opinions on land use, transportation, and other urbanist issues...Vote Judge Birk."
-"I support Judge Birk because he has the appellate experience and the work ethic to do the job on Day 1.
+It was inspiring." The Stranger’s 2026 Primary Election Endorsements "Voters have an easy choice: Judge Birk is a thoughtful, experienced Court of Appeals judge who has written fair, deeply researched opinions on land use, transportation, and other urbanist issues...Vote Judge Birk." "I support Judge Birk because he has the appellate experience and the work ethic to do the job on Day 1.
 He has a keen legal mind, coupled with deep commitment to fairness and due process for all appearing in our courts.
-He truly cares about the people in the State of Washington."
-“Judge Ian Birk has built a career standing up for individual people and ensuring the law works the way it is supposed to—fairly, consistently, and with integrity.
+He truly cares about the people in the State of Washington." WA State Supreme Court Justice Mary Yu (ret.) “Judge Ian Birk has built a career standing up for individual people and ensuring the law works the way it is supposed to—fairly, consistently, and with integrity.
 At a time when courts play a critical role in protecting our rights and upholding our laws, Washington needs justices who are independent, thoughtful, and committed to the people they serve.
-Ian Birk is exactly the kind of judge we need."
-“Throughout his career, Judge Birk has fought for accountability and equality under the law.
+Ian Birk is exactly the kind of judge we need." WA State Attorney General Nick Brown “Throughout his career, Judge Birk has fought for accountability and equality under the law.
 He has taken on tough fights against powerful corporate interests, worked with marginalized communities, and stood up for our laws and constitution.
-We need him on the State Supreme Court.”
-“We need Justices who understand the full spectrum of State law, and the diverse communities east and west of the Cascades.
-Judge Birk knows this job is about securing the rights of all people, and ensuring every voice is heard and respected in our legal system.”
-“Judge Ian Birk has built a career grounded in integrity, respect for the rule of law, and access to justice for all.
+We need him on the State Supreme Court.” WA State Insurance Commissioner and former State Senator Patty Kuderer “We need Justices who understand the full spectrum of State law, and the diverse communities east and west of the Cascades.
+Judge Birk knows this job is about securing the rights of all people, and ensuring every voice is heard and respected in our legal system.” Spokane County Superior Court Judge Breean Beggs “Judge Ian Birk has built a career grounded in integrity, respect for the rule of law, and access to justice for all.
 At a time when people want to trust that our institutions work for everyone, Ian brings the independence, thoughtfulness, and real-world experience we need on the Washington State Supreme Court.
-I’m proud to support him and confident he will serve the people of Washington with distinction.”
-"Judge Birk is superbly well qualified."
-Select Endorsements
-- Congresswoman Pramila Jayapal
-- WA State Governor Jay Inslee (fmr.)
-- WA State Attorney General Nick Brown
-- WA State Insurance Commissioner Patty Kuderer
-- Justice Theo Angelis, WA State Supreme Court
-- Justice Steve González, WA State Supreme Court
-- Justice Colleen Melody, WA State Supreme Court
-- Justice Sheryl Gordon McCloud, WA State Supreme Court
-- Justice Raquel Montoya-Lewis, WA State Supreme Court
-- Justice Sal Mungia, WA State Supreme Court
-- Justice G.
-Helen Whitener, Washington Supreme Court
-- Justice Mary Yu, WA State Supreme Court (ret.)
-- Justice Gerry Alexander, WA State Supreme Court (ret.)
-- Justice Faith Ireland, WA State Supreme Court (ret.)
-See a full list of endorsements
+I’m proud to support him and confident he will serve the people of Washington with distinction.” King Co.
+Executive Girmay Zahilay "Judge Birk is superbly well qualified." Becky Roe Select Endorsements Congresswoman Pramila Jayapal WA State Governor Jay Inslee (fmr.) WA State Attorney General Nick Brown WA State Insurance Commissioner Patty Kuderer Justice Theo Angelis, WA State Supreme Court Justice Steve González, WA State Supreme Court Justice Colleen Melody, WA State Supreme Court Justice Sheryl Gordon McCloud, WA State Supreme Court Justice Raquel Montoya-Lewis, WA State Supreme Court Justice Sal Mungia, WA State Supreme Court Justice G.
+Helen Whitener, Washington Supreme Court Justice Mary Yu, WA State Supreme Court (ret.) Justice Gerry Alexander, WA State Supreme Court (ret.) Justice Faith Ireland, WA State Supreme Court (ret.) See a full list of endorsements About Ian Ian’s Values Paid for by Birk for Justice PO Box 27113, Seattle, WA 98165

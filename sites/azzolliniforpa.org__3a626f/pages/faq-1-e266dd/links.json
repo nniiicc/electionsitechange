@@ -1,31 +1,122 @@
 [
-"http://lehightwpwayneco.org/",
-"http://palmyrawayne.org/",
-"http://paupacktownship.org/",
-"https://azzolliniforpa.org/",
-"https://azzolliniforpa.org/about",
-"https://azzolliniforpa.org/campaign-platform",
-"https://azzolliniforpa.org/cart",
-"https://azzolliniforpa.org/events",
-"https://azzolliniforpa.org/faq-1",
-"https://bloominggrovetownship.com/",
-"https://cherryridgetwp.wordpress.com/",
-"https://dingmantownship.org/",
-"https://drehertownship-pa.org/",
-"https://facebook.com/share/1DgR4Unc8b?mibextid=wwXIfr",
-"https://greenetownship.org/",
-"https://hawley-borough.org/",
-"https://instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D",
-"https://lackawaxentownshippa.gov/",
-"https://laketwpwayne.com/",
-"https://matamorasborough.com/",
-"https://milfordboro.org/",
-"https://milfordtownshippike.com/",
-"https://palmyrapike.org/",
-"https://salemtwpwayne.com/",
-"https://secure.actblue.com/donate/azzolliniforpa",
-"https://shoholatwp.org/",
-"https://southcanaantwp.com/",
-"https://sterlingtwp.org/",
-"https://westfalltownship.org/"
+{
+"text": "0",
+"href": "https://www.azzolliniforpa.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.azzolliniforpa.org/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/azzolliniforpa"
+},
+{
+"text": "Events",
+"href": "https://www.azzolliniforpa.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.azzolliniforpa.org/campaign-platform"
+},
+{
+"text": "PA 139",
+"href": "https://www.azzolliniforpa.org/faq-1"
+},
+{
+"text": "[image: Dominique Azzollini For PA 139]",
+"href": "https://www.azzolliniforpa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1DgR4Unc8b/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dominique_azzollini_for_pa?igsh=MWJtZDJhNHVoemRzNw%3D%3D"
+},
+{
+"text": "http://www.lehightwpwayneco.org/",
+"href": "http://www.lehightwpwayneco.org/"
+},
+{
+"text": "http://www.palmyrawayne.org/",
+"href": "http://www.palmyrawayne.org/"
+},
+{
+"text": "http://www.paupacktownship.org/",
+"href": "http://www.paupacktownship.org/"
+},
+{
+"text": "https://bloominggrovetownship.com/",
+"href": "https://bloominggrovetownship.com/"
+},
+{
+"text": "https://cherryridgetwp.wordpress.com/",
+"href": "https://cherryridgetwp.wordpress.com/"
+},
+{
+"text": "https://greenetownship.org/",
+"href": "https://greenetownship.org/"
+},
+{
+"text": "https://hawley-borough.org/",
+"href": "https://hawley-borough.org/"
+},
+{
+"text": "https://laketwpwayne.com/",
+"href": "https://laketwpwayne.com/"
+},
+{
+"text": "https://matamorasborough.com/",
+"href": "https://matamorasborough.com/"
+},
+{
+"text": "https://milfordtownshippike.com/",
+"href": "https://milfordtownshippike.com/"
+},
+{
+"text": "https://palmyrapike.org/",
+"href": "https://palmyrapike.org/"
+},
+{
+"text": "https://salemtwpwayne.com/",
+"href": "https://salemtwpwayne.com/"
+},
+{
+"text": "https://southcanaantwp.com/",
+"href": "https://southcanaantwp.com/"
+},
+{
+"text": "https://sterlingtwp.org/",
+"href": "https://sterlingtwp.org/"
+},
+{
+"text": "https://westfalltownship.org/",
+"href": "https://westfalltownship.org/"
+},
+{
+"text": "https://www.dingmantownship.org/",
+"href": "https://www.dingmantownship.org/"
+},
+{
+"text": "https://www.drehertownship-pa.org/",
+"href": "https://www.drehertownship-pa.org/"
+},
+{
+"text": "https://www.lackawaxentownshippa.gov/",
+"href": "https://www.lackawaxentownshippa.gov/"
+},
+{
+"text": "https://www.milfordboro.org/",
+"href": "https://www.milfordboro.org/"
+},
+{
+"text": "https://www.shoholatwp.org/",
+"href": "https://www.shoholatwp.org/"
+}
 ]

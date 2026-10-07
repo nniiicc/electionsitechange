@@ -1,54 +1,210 @@
 [
-"https://afscmemn.org/",
-"https://boundarywatersaction.org/",
-"https://carecandidates.org/",
-"https://careproviders.org/",
-"https://cleanwater.org/states/minnesota",
-"https://democraticredistricting.com/democracy-defenders",
-"https://dfl.org/",
-"https://dflec.org/endorsements",
-"https://dflfeminist.org/",
-"https://dflseniors.org/",
-"https://educationminnesota.org/",
-"https://everytown.org/",
-"https://facebook.com/voteamada",
-"https://fairvotemn.org/",
-"https://friendsaction-bwca.org/",
-"https://genderjusticeaction.us/gjapac",
-"https://house.mn.gov/members/profile/15547",
-"https://ilhanomar.com/",
-"https://inseparable.us/",
-"https://instagram.com/amadaformnhouse",
-"https://iupat.org/",
-"https://jamielong.com/",
-"https://latinovictory.org/",
-"https://liuna.org/",
-"https://mape.org/",
-"https://mfu.org/",
-"https://mnnurses.org/",
-"https://movetoamend.org/minnesota",
-"https://nmcarpenters.com/",
-"https://northeastmetroclimateaction.org/",
-"https://peggyflanagan.com/",
-"https://ppncs.org/",
-"https://rehlanderformn.com/",
-"https://sierraclub.org/",
-"https://simonfor51.com/",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/lawn-sign",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://votekarint.com/",
-"https://votemariaisa.org/",
-"https://womenwinning.org/",
-"https://youngdfl.org/"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.voteamada.com/lawn-sign/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "[image: 2026 Endorsed Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund]",
+"href": "https://ppncs.org/"
+},
+{
+"text": "[image: AFSCME Council 5 - We make Minnesota happen]",
+"href": "https://www.afscmemn.org/"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Care Providers of Minnesota]",
+"href": "https://www.careproviders.org/"
+},
+{
+"text": "[image: Care for MN Candidate]",
+"href": "https://carecandidates.org/"
+},
+{
+"text": "[image: Clean Water Action]",
+"href": "https://cleanwater.org/states/minnesota"
+},
+{
+"text": "[image: Congresswoman Ilhan Omar]",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "[image: DFLEC Minnesota DFL Party Environmental Caucus]",
+"href": "https://dflec.org/endorsements/"
+},
+{
+"text": "[image: Education Minnesota]",
+"href": "https://educationminnesota.org/"
+},
+{
+"text": "[image: Fairvote Minnesota Democracy Champion. I Heart Ranked Choice Voting]",
+"href": "https://www.fairvotemn.org"
+},
+{
+"text": "[image: Friends of the Boundary Waters Action Network]",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "[image: Gender Justice Action]",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "[image: IUPAT District Council 82]",
+"href": "https://www.iupat.org/"
+},
+{
+"text": "[image: Jamie Long]",
+"href": "https://www.jamielong.com/"
+},
+{
+"text": "[image: Kari Niedfeldt-Thomas, Mayor of New Brighton]",
+"href": "https://www.votekarint.com/"
+},
+{
+"text": "[image: Latino Victory]",
+"href": "https://latinovictory.org/"
+},
+{
+"text": "[image: LiUNA! Feel the Power]",
+"href": "https://www.liuna.org/"
+},
+{
+"text": "[image: MFU PAC]",
+"href": "https://mfu.org/"
+},
+{
+"text": "[image: MNA Minnesota Nurses Association An Affiliate of National Nurses United]",
+"href": "https://mnnurses.org/"
+},
+{
+"text": "[image: María Isa Pérez-Vega]",
+"href": "https://votemariaisa.org/"
+},
+{
+"text": "[image: Minnesota Association of Professional Employees]",
+"href": "https://mape.org/"
+},
+{
+"text": "[image: Minnesota DFL Feminist Caucus]",
+"href": "https://www.dflfeminist.org/"
+},
+{
+"text": "[image: Minnesota DFL Senior Caucus]",
+"href": "https://www.dflseniors.org/"
+},
+{
+"text": "[image: Minnesota DFL]",
+"href": "https://dfl.org/"
+},
+{
+"text": "[image: Minnesota Young DFL Endorsed 2026]",
+"href": "https://www.youngdfl.org/"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate 2026]",
+"href": "https://www.everytown.org/"
+},
+{
+"text": "[image: Move To Amend]",
+"href": "https://www.movetoamend.org/minnesota"
+},
+{
+"text": "[image: NDRC]",
+"href": "https://democraticredistricting.com/democracy-defenders/#mnstateleg"
+},
+{
+"text": "[image: Northeast Metro Climate Action - Twin Cities, MN]",
+"href": "https://northeastmetroclimateaction.org/"
+},
+{
+"text": "[image: Northern Midwest Regional Council of Carpenters]",
+"href": "https://www.nmcarpenters.com/"
+},
+{
+"text": "[image: Peggy Flanagan]",
+"href": "https://peggyflanagan.com/"
+},
+{
+"text": "[image: Powered by Inseparable Action - Mental Helath Now. Mental Health Candidate 2026]",
+"href": "https://www.inseparable.us/"
+},
+{
+"text": "[image: Sandra Feist]",
+"href": "https://www.house.mn.gov/members/profile/15547"
+},
+{
+"text": "[image: Save the Boundary Waters Action Fund]",
+"href": "https://www.boundarywatersaction.org/"
+},
+{
+"text": "[image: Sierra Club Endorsed]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: Simon Trautmann Cordova]",
+"href": "https://www.simonfor51.com/"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[image: Women Winning]",
+"href": "https://womenwinning.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.rehlanderformn.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+}
 ]

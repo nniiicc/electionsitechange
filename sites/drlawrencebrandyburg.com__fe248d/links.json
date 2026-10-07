@@ -1,15 +1,70 @@
 [
-"https://drlawrencebrandyburg.com/",
-"https://drlawrencebrandyburg.com/about",
-"https://drlawrencebrandyburg.com/contact-us",
-"https://drlawrencebrandyburg.com/join-our-campaign",
-"https://drlawrencebrandyburg.com/volunteer",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdrlawrencebrandyburg.com%2F",
-"https://instagram.com/dr.lawrencedbrandyburg?igsh=Z3lwcDVlbDY0Y2pq",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F&media=https%3A%2F%2Fdrlawrencebrandyburg.com%2Fwp-includes%2Fimages%2Fmedia%2Fdefault.svg&description=Home",
-"https://secure.actblue.com/donate/dr--lawrence-brandyburg-1",
-"https://telegram.me/share/url?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F",
-"https://webdesignvelocity.com/",
-"https://x.com/share?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F"
+{
+"text": "About",
+"href": "https://drlawrencebrandyburg.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://drlawrencebrandyburg.com/join-our-campaign/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/dr--lawrence-brandyburg-1"
+},
+{
+"text": "Dr. Lawrence D. Brandyburg Campaign",
+"href": "https://drlawrencebrandyburg.com/"
+},
+{
+"text": "Home",
+"href": "https://drlawrencebrandyburg.com/"
+},
+{
+"text": "Read More",
+"href": "https://drlawrencebrandyburg.com/about/"
+},
+{
+"text": "Request With Online Form",
+"href": "https://drlawrencebrandyburg.com/contact-us/"
+},
+{
+"text": "Volunteer With Us",
+"href": "https://drlawrencebrandyburg.com/volunteer/"
+},
+{
+"text": "Web Design Velocity",
+"href": "https://webdesignvelocity.com/"
+},
+{
+"text": "[image: Dr. Lawrence D. Brandyburg Campaign]",
+"href": "https://drlawrencebrandyburg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F&media=https%3A%2F%2Fdrlawrencebrandyburg.com%2Fwp-includes%2Fimages%2Fmedia%2Fdefault.svg&description=Home"
+},
+{
+"text": "[no text]",
+"href": "https://telegram.me/share/url?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdrlawrencebrandyburg.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dr.lawrencedbrandyburg?igsh=Z3lwcDVlbDY0Y2pq"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/share?url=https%3A%2F%2Fdrlawrencebrandyburg.com%2F"
+},
+{
+"text": "[tooltip: ]",
+"href": "mailto:info@drlawrencebrandyburg.com"
+}
 ]

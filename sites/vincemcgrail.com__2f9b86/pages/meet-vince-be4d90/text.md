@@ -1,5 +1,4 @@
-Why I'm Running
-My life experiences have taught me perseverance, to have respect for all people, and to be a servant leader.
+Menu Home Meet Vince Issues Volunteer Donate Donate Why I'm Running My life experiences have taught me perseverance, to have respect for all people, and to be a servant leader.
 And I've learned how to bring people together to make positive change happen.
 I'm a lifelong Ohioan, and I've lived in Delaware, Ohio with my wife Mollie and our three children for the past 25 years.
 I never planned to run for office.
@@ -70,3 +69,5 @@ I am running because I feel my life has prepared me for this role and we need le
 We need legislators who listen to people in the district, understand their challenges, and are willing to work with others to find common ground and make life better for ALL Ohioans.
 I need your help and the support from many to help me win this seat – one seat of many to help us move forward in a better way.
 Because we can do better for ALL Ohioans if we get back to working together.
+Support Our Campaign Finding Common Ground on Issues Volunteer Stay Up To Date We'll keep you informed on our campaign work toward the November 3rd election.
+Email * Email Subscribe Donate Home Meet Vince Issues Volunteer Donate Paid for by friends of Vince McGrail Vince McGrail for Ohio House District 61 © # 113 Gibraltar Court Delaware, Ohio 43015 Accessibility Statement Contact

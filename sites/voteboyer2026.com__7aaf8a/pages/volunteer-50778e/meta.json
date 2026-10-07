@@ -1,7 +1,11 @@
 {
  "description": "Volunteer for DR. ARTHUR BOYER&#39;s campaign",
  "final_url": "https://www.voteboyer2026.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "c69aface6882e9c3c4aa93b6a18e3b78b1765b35",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

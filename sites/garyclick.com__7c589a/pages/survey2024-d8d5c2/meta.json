@@ -1,7 +1,9 @@
 {
  "description": "2024 Survey for Ohio State Representative Gary Click",
  "final_url": "https://www.garyclick.com/survey2024",
- "paid_for_by": null,
+ "fingerprint": "25f5d1407d1dcbbaa7a25098b267214eda4c2f61",
+ "format": 3,
+ "paid_for_by": "",
  "title": "survey2024",
  "years_mentioned": []
 }

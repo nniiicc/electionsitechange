@@ -1,6 +1,26 @@
 [
-"https://alanorcutt.com/",
-"https://alanorcutt.com/cart",
-"https://alanorcutt.com/contact",
-"https://maine.gov/cleanelections"
+{
+"text": "0",
+"href": "https://www.alanorcutt.com/cart"
+},
+{
+"text": "About Alan",
+"href": "https://www.alanorcutt.com/#about"
+},
+{
+"text": "Alan Orcutt for State Representative",
+"href": "https://www.alanorcutt.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.alanorcutt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://maine.gov/cleanelections"
+},
+{
+"text": "On the Issues",
+"href": "https://www.alanorcutt.com/#issues"
+}
 ]

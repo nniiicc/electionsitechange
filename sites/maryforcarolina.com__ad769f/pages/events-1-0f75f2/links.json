@@ -1,17 +1,74 @@
 [
-"https://facebook.com/MaryforCarolina",
-"https://instagram.com/maryforcarolina",
-"https://maryforcarolina.com/contact",
-"https://maryforcarolina.com/endorsements",
-"https://maryforcarolina.com/events-1",
-"https://maryforcarolina.com/home",
-"https://maryforcarolina.com/meet-mary",
-"https://maryforcarolina.com/priorities",
-"https://maryforcarolina.com/privacy-policy",
-"https://maryforcarolina.com/volunteer",
-"https://ncleg.gov/BillLookUp/2025/h87",
-"https://secure.anedot.com/mary-insprucker-committee-c562f263-8c5e-40c4-86f4-3cb480959efd/mary-insprucker-committee-donate",
-"https://wral.com/news/local/cary-residents-speak-out-against-proposed-budget-property-tax-increase-may-2026",
-"https://x.com/MaryforCarolina",
-"https://youtu.be/mVHOVrtiX8E?si=OcAP41wa0fCHG_MF"
+{
+"text": "CONTACT",
+"href": "https://maryforcarolina.com/contact"
+},
+{
+"text": "Cary residents speak out against proposed tax increase in town budget :: WRAL.com",
+"href": "https://www.wral.com/news/local/cary-residents-speak-out-against-proposed-budget-property-tax-increase-may-2026/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mary-insprucker-committee-c562f263-8c5e-40c4-86f4-3cb480959efd/mary-insprucker-committee-donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://maryforcarolina.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://maryforcarolina.com/events-1"
+},
+{
+"text": "HOME",
+"href": "https://maryforcarolina.com/home"
+},
+{
+"text": "House Bill 87, the “Educational Choice for Children Act,”",
+"href": "https://www.ncleg.gov/BillLookUp/2025/h87"
+},
+{
+"text": "MEET MARY",
+"href": "https://maryforcarolina.com/meet-mary"
+},
+{
+"text": "My Account",
+"href": "https://maryforcarolina.com/m/account"
+},
+{
+"text": "PRIORITIES",
+"href": "https://maryforcarolina.com/priorities"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://maryforcarolina.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://maryforcarolina.com/m/account"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://maryforcarolina.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://maryforcarolina.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaryforCarolina"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryforcarolina/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/MaryforCarolina"
+},
+{
+"text": "https://youtu.be/mVHOVrtiX8E?si=OcAP41wa0fCHG_MF",
+"href": "https://youtu.be/mVHOVrtiX8E?si=OcAP41wa0fCHG_MF"
+}
 ]

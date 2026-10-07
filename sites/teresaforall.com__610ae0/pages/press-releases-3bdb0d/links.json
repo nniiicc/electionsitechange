@@ -1,15 +1,54 @@
 [
-"https://secure.actblue.com/donate/teresa-for-nm",
-"https://teresaforall.com/",
-"https://teresaforall.com/endorsements",
-"https://teresaforall.com/issues",
-"https://teresaforall.com/media",
-"https://teresaforall.com/meet-teresa",
-"https://teresaforall.com/news",
-"https://teresaforall.com/photos",
-"https://teresaforall.com/press-releases",
-"https://teresaforall.com/videos",
-"https://teresaforall.com/volunteer",
-"https://youtu.be/DDQAcHIjT_M",
-"https://youtube.com/watch?v=NK_2EwYJ4yw"
+{
+"text": "About",
+"href": "https://www.teresaforall.com/meet-teresa"
+},
+{
+"text": "Chile",
+"href": "https://youtu.be/DDQAcHIjT_M"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresa-for-nm"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresaforall.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.teresaforall.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.teresaforall.com/media"
+},
+{
+"text": "News",
+"href": "https://www.teresaforall.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.teresaforall.com/photos"
+},
+{
+"text": "Press Releases",
+"href": "https://www.teresaforall.com/press-releases"
+},
+{
+"text": "Survive",
+"href": "https://www.youtube.com/watch?v=NK_2EwYJ4yw"
+},
+{
+"text": "Videos",
+"href": "https://www.teresaforall.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.teresaforall.com/volunteer"
+},
+{
+"text": "[image: Teresa-Full-Color.png]",
+"href": "https://www.teresaforall.com"
+}
 ]

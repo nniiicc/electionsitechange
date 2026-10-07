@@ -1,7 +1,4 @@
-Skip navigation menu
-State Senator
-Steve Padilla
-Growing up in working-class South County San Diego, Steve’s story is the story of so many — achieving the California Dream with community support, quality public schools and a fair shot to succeed.
+Skip navigation menu About News Endorsements Contact Donate State Senator Steve Padilla About News Endorsements Contact Donate State Senator Steve Padilla Growing up in working-class South County San Diego, Steve’s story is the story of so many — achieving the California Dream with community support, quality public schools and a fair shot to succeed.
 Steve is passionate about ensuring that same opportunity for future generations.
 For Steve, this moment right now isn’t just about recovering from COVID — it’s about rebuilding opportunity for all.
 A longtime leader in California, Steve Padilla’s priorities are delivering for communities like South County and Imperial County that have been hard hit by the pandemic, tackling income inequality and economic recovery, expanding access to healthcare, strengthening public education, leading on climate, and taking action to combat racial injustice.
@@ -17,5 +14,4 @@ In March 2020, Padilla was the first elected official in California to test posi
 Recovering from COVID-19, and now working to help South Bay recover from this pandemic, has made Steve even more determined to make tomorrow better than today.
 Steve graduated from Bonita Vista High, and the Southwestern Police Academy.
 He holds undergraduate degrees in Liberal Arts and Public Administration, and studied law at WSU College of Law.
-He lives in the Otay Ranch neighborhood of Chula Vista just a few miles away from his amazing daughter Ashleigh and son-in-law.
-Steve Padilla
+He lives in the Otay Ranch neighborhood of Chula Vista just a few miles away from his amazing daughter Ashleigh and son-in-law. steve@votestevepadilla.com 5445 Madison Avenue Sacramento, CA 95841 FPPC ID#1457367 Powered by RUN! website builder You need to enable JavaScript to run this app.

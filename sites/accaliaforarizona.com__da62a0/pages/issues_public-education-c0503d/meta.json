@@ -1,7 +1,9 @@
 {
  "description": "Public Education",
  "final_url": "https://www.accaliaforarizona.com/issues/public-education",
- "paid_for_by": null,
+ "fingerprint": "3fdf653557bbcc7a00f58cbf51924cdbff45e3fc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public Education",
  "years_mentioned": []
 }

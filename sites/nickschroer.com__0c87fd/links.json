@@ -1,7 +1,34 @@
 [
-"https://facebook.com/SchroerMO",
-"https://nickschroer.com/",
-"https://nickschroer.com/beliefs",
-"https://secure.anedot.com/friends-of-nick-schroer/donate",
-"https://twitter.com/NickBSchroer"
+{
+"text": "BELIEFS",
+"href": "https://www.nickschroer.com/beliefs"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.anedot.com/friends-of-nick-schroer/donate"
+},
+{
+"text": "FOLLOW ON FACEBOOK",
+"href": "https://www.facebook.com/SchroerMO/"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.nickschroer.com"
+},
+{
+"text": "MEET NICK",
+"href": "https://www.nickschroer.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SchroerMO/"
+},
+{
+"text": "[image: Nick Schroer Logo (State Senate).png]",
+"href": "https://www.nickschroer.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/NickBSchroer"
+}
 ]

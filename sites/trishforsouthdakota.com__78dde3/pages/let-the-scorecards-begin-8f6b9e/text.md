@@ -1,5 +1,5 @@
-Let the Scorecards begin!
-Are we voting for an agenda or for our constitutents?
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Let the Scorecards begin!
+July 7, 2026 Are we voting for an agenda or for our constitutents?
 The legislative session is a small, bracketed, yet intense, 38 days in Pierre.
 After session, legislators return home to their communities, families, and jobs.
 Lobbyists are also in Pierre during session.
@@ -31,4 +31,4 @@ Ask yourself who is the special interest group generating the scorecard.
 What is their cause?
 Who backs them financially?
 Who supports them legislatively?
-It is an honor to be your voice and to represent you in Pierre!
+It is an honor to be your voice and to represent you in Pierre! < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

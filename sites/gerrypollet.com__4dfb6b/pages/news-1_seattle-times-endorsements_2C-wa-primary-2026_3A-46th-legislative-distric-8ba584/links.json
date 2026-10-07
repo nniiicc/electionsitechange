@@ -1,14 +1,62 @@
 [
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://leg.wa.gov/about-the-legislature/legislative-agencies/jlarc",
-"https://secure.actblue.com/donate/gerry-pollet-2",
-"https://voterondavis.com/",
-"https://willdreher.com/"
+{
+"text": "< Back",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Gerry Pollet",
+"href": "https://www.gerrypollet.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Joint Legislative Audit and Review Committee",
+"href": "https://leg.wa.gov/about-the-legislature/legislative-agencies/jlarc/"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "Ron Davis",
+"href": "https://www.voterondavis.com/"
+},
+{
+"text": "Will Dreher",
+"href": "https://willdreher.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+}
 ]

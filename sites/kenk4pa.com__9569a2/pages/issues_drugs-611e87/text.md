@@ -1,8 +1,12 @@
-On The Issues
-Drugs
-In Depth
-[This speech was presented to approximately 250 students at the “Professor Heicklen Marijuana Smokeout” held at the main gates of Penn State University in State College]
-Hi, and thanks for coming out today.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Drugs In Brief 9 Immediately decriminalize marijuana and other drugs, and treat them like we do alcohol.
+9 Immediately pardon all non-violent drug offenders.
+9 Prohibition did not work with alcohol, and it’s not working for drugs.
+9 If it took a constitutional amendment to ban alcohol, shouldn’t it take a constitutional amendment to ban marijuana?
+9 The problem is not so much that they’re drugs, the problem is that they’re illegal drugs.
+9 Treatment, not jail.
+9 Drug laws are nothing but a jobs program for narcotics officers, nothing but price supports for drugs.
+9 We’re releasing murderers and rapists from our overcrowded prisons to make room for pot-smoking Grateful Dead fans!
+In Depth [This speech was presented to approximately 250 students at the “Professor Heicklen Marijuana Smokeout” held at the main gates of Penn State University in State College] Hi, and thanks for coming out today.
 A few years ago, I spoke at another Penn State campus, the Abington campus.
 I was one of the speakers at “Marijuana Appreciation Day”.
 And even though a couple of years have passed, the message about marijuana is still the same today as I presented it that day.
@@ -110,3 +114,4 @@ But don’t just sit there; do something!
 Because if you continue to do what you’ve always done, you’ll continue getting just what you’ve always gotten.
 And I, for one, have had enough.
 Thank you for your attention, and good day.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

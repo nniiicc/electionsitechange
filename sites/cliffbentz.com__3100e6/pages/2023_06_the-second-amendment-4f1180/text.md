@@ -1,4 +1,4 @@
-I have always supported and voted to protect our Second Amendment rights.
+Home Meet Cliff About Endorsements Media Issues Volunteer Contact Menu Home Meet Cliff About Endorsements Media Issues Volunteer Contact Donate The Second Amendment I have always supported and voted to protect our Second Amendment rights.
 It doesn’t matter whether you are working on a ranch or strolling through downtown Portland, you have the right to defend yourself.
 I have my concealed carry permit and I am a member of the NRA.
 I was raised on a ranch where guns were in use almost every day.
@@ -17,3 +17,7 @@ I have been fortunate to have the owner assist me in analyzing some of the more 
 The Second Amendment is essential to American life.
 It is essential to our ability to defend ourselves.
 I will stand up for it always.
+Sign Up For Udpates Name Email Sign Up Donate Today We count on people like you to chip in and make sure we can win. $25 $50 $100 $250 $500 Other CONTACT US P.O.
+Box 1048, Ontario, OR 97914 Thank you for visiting my campaign website.
+If your intention was to visit my official website please click here.
+PAGES Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy Menu Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy FOLLOW US Facebook Paid for by Cliff Bentz for Congress

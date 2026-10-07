@@ -1,21 +1,7 @@
-PRESS RELEASE
-Calder Endorsed by the Utah Veterans Democratic Caucus
-There are 75 Utah House of Representative Districts.
-On Tuesday, the Utah Veterans Democratic Caucus elected to endorse candidates in seven of those races, including Dave Calder, running for House District 11.
+Skip navigation menu Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate PRESS RELEASE Candidate Corner Interview with Dave Calder PRESS RELEASE "The Money Looks Nothing Alike" Corporate PACs make up 90% of Calder Opponent Campaign Funding PRESS RELEASE Dave Calder opposes the draconian reduction of two Utah National Monument.
+PRESS RELEASE Calder Stresses need for Transparency with the Stratos Project Data Center PRESS RELEASE Calder Endorsed by the Utah Veterans Democratic Caucus PRESS RELEASE Utah Democratic Party Convention 24-25 April PRESS RELEASE Calder Speaks at the Davis County Convention PRESS RELEASE Calder Calls on Utah's Congressional Delegation to begin Impeachment and Removal of Donald Trump Utah State Legislature Proposed law: "That is power protecting itself" PRESS RELEASE Calder Files for Utah House District 11 Race PRESS RELEASE Keep Trump Out of Utah Redistricting PRESS RELEASE Dave Calder Announces Run for Utah's House District 11 PRESS RELEASE Calder Points to HB 503 as an Example of a Self-Serving Legislature Apr 24 2026 PRESS RELEASE Calder Endorsed by the Utah Veterans Democratic Caucus There are 75 Utah House of Representative Districts.
+On Tuesday, the Utah Veterans Democratic Caucus elected to endorse candidates in seven of those races , including Dave Calder, running for House District 11.
 The caucus also endorsed candidates for two state senate races and candidates for each congressional district.
-The complete list:
-Federal Races
-CD1: Ben McAdams
-CD2: Peter Crosby
-CD3: Steven Merrill
-CD4: Jonathan Larsen
-State Races
-HD 5: Kendra Penry
-HD 10: Rosemary Lesser
-HD11: Dave Calder
-HD12 Anna Graff
-HD27: Liz Oates
-HD39: Drew Howells
-HD59: Celeste Johnson
-Senate 5: Christina "CJ" Hernandez
-Senate 11: Mackenzie Miller
+The complete list: Federal Races CD1: Ben McAdams CD2: Peter Crosby CD3: Steven Merrill CD4: Jonathan Larsen State Races HD 5: Kendra Penry HD 10: Rosemary Lesser HD11: Dave Calder HD12 Anna Graff HD27: Liz Oates HD39: Drew Howells HD59: Celeste Johnson Senate 5: Christina "CJ" Hernandez Senate 11: Mackenzie Miller VoteCalder@gmail.com Powered by RUN! website builder Paid For By Dave Calder for Utah You need to enable JavaScript to run this app.

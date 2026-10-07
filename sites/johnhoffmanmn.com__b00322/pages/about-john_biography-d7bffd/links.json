@@ -1,24 +1,110 @@
 [
-"https://dfl.org/localunit/sd36",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3",
-"https://johnhoffmanmn.com/about-john/awards",
-"https://johnhoffmanmn.com/about-john/biography",
-"https://johnhoffmanmn.com/about-john/endorsements",
-"https://johnhoffmanmn.com/about-john/gallery",
-"https://johnhoffmanmn.com/about-john/letters",
-"https://johnhoffmanmn.com/about-john/mentions",
-"https://johnhoffmanmn.com/home",
-"https://johnhoffmanmn.com/sign-up-for-senator-hoffman-news-and-update",
-"https://johnhoffmanmn.com/volunteer",
-"https://johnhoffmanmn.com/work-in-legislature/bonding-infrastructure",
-"https://johnhoffmanmn.com/work-in-legislature/creating-jobs-boosting-the-economy",
-"https://johnhoffmanmn.com/work-in-legislature/education",
-"https://johnhoffmanmn.com/work-in-legislature/environment-energy",
-"https://johnhoffmanmn.com/work-in-legislature/health-human-services",
-"https://johnhoffmanmn.com/work-in-legislature/public-safety-veterans-government",
-"https://johnhoffmanmn.com/work-in-legislature/supporting-local-business",
-"https://johnhoffmanmn.com/work-in-legislature/transportation",
-"https://johnhoffmanmn.com/year-end-reports",
-"https://senate.mn/committees/committee_bio.html?cmte_id=3126",
-"https://senate.mn/members/member_bio.html?mem_id=1205"
+{
+"text": "Awards",
+"href": "https://www.johnhoffmanmn.com/about-john/awards"
+},
+{
+"text": "Biography",
+"href": "https://www.johnhoffmanmn.com/about-john/biography"
+},
+{
+"text": "Bonding & Infrastructure",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/bonding-infrastructure"
+},
+{
+"text": "Creating Jobs & Boosting the Economy",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/creating-jobs-boosting-the-economy"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3"
+},
+{
+"text": "Education",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnhoffmanmn.com/about-john/endorsements"
+},
+{
+"text": "Environment & Energy",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/environment-energy"
+},
+{
+"text": "Gallery",
+"href": "https://www.johnhoffmanmn.com/about-john/gallery"
+},
+{
+"text": "Health & Human Services",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/health-human-services"
+},
+{
+"text": "Home",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "John@johnhoffmanmn.com",
+"href": "mailto:John@johnhoffmanmn.com"
+},
+{
+"text": "Letters",
+"href": "https://www.johnhoffmanmn.com/about-john/letters"
+},
+{
+"text": "Mentions",
+"href": "https://www.johnhoffmanmn.com/about-john/mentions"
+},
+{
+"text": "Public Safety, Veterans & Government",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/public-safety-veterans-government"
+},
+{
+"text": "Senator John Hoffman",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "Sign Up for Senator Hoffman News and Update",
+"href": "https://www.johnhoffmanmn.com/sign-up-for-senator-hoffman-news-and-update"
+},
+{
+"text": "State Senator",
+"href": "https://www.dfl.org/localunit/sd36/"
+},
+{
+"text": "Supporting Local Business",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/supporting-local-business"
+},
+{
+"text": "Transportation",
+"href": "https://www.johnhoffmanmn.com/work-in-legislature/transportation"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnhoffmanmn.com/volunteer"
+},
+{
+"text": "Year End Reports",
+"href": "https://www.johnhoffmanmn.com/year-end-reports"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fcommittee-to-elect-john-hoffman-1&sa=D&sntz=1&usg=AOvVaw2nEDgNzumAEDne_cVTO1I3"
+},
+{
+"text": "[image]",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "[image]Senator John Hoffman",
+"href": "https://www.johnhoffmanmn.com/home"
+},
+{
+"text": "https://www.senate.mn/committees/committee_bio.html?cmte_id=3126",
+"href": "https://www.senate.mn/committees/committee_bio.html?cmte_id=3126"
+},
+{
+"text": "https://www.senate.mn/members/member_bio.html?mem_id=1205",
+"href": "https://www.senate.mn/members/member_bio.html?mem_id=1205"
+}
 ]

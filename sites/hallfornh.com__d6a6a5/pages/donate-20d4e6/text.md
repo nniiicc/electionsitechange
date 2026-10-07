@@ -1,7 +1,2 @@
-Donate
-Donations of any amount would be greatly appreciated to help us run a successful campaign.
-You may donate to Muriel's campaign in two ways:
-By check
-Checks can be sent to: 'Hall for State Rep', 4 Cob Road, Bow, NH 03304
-Online
-Donate using ActBlue: www.actblue.com/donate/muriel-hall-1
+Search this site Embedded Files Skip to main content Skip to navigation Muriel Hall for NH Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 Muriel Hall for NH Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 More Home About Muriel Priorities Donate Endorsements/Recommendations Election Results 2026 Election Photos 2024 Election Photos 2022 Election Photos 2021 Special Election Photos-1 2021 Special Election Photos-2 Donate Donations of any amount would be greatly appreciated to help us run a successful campaign.
+You may donate to Muriel's campaign in two ways: By check Checks can be sent to: 'Hall for State Rep', 4 Cob Road, Bow, NH 03304 Online Donate using ActBlue: www.actblue.com/donate/muriel-hall-1 Donate Now Google Sites Report abuse Google Sites Report abuse

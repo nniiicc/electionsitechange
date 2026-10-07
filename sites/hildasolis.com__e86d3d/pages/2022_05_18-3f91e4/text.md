@@ -1,5 +1,6 @@
-El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Day: May 18, 2022 Home | 2022 | May | 18 News Por Hilda Solís como Supervisora del Condado de Los Ángeles admin May 18, 2022 El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
 El Distrito, recientemente rediseñado, perdió parte de sus residentes latinos e incorporó a otros de origen asiático.
 El...
-Hilda Solis virtually remade the Board of Supervisors, along with Sheila Kuehl, when both were elected in 2014.
+Read More News Endorsement: Hilda Solis remains the best choice for the Board of Supervisors admin May 18, 2022 Hilda Solis virtually remade the Board of Supervisors, along with Sheila Kuehl, when both were elected in 2014.
 Twenty years had passed since Los Angeles County’s close brush with bankruptcy, and the previous board kept the prospect of insolvency in the...
+Read More Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

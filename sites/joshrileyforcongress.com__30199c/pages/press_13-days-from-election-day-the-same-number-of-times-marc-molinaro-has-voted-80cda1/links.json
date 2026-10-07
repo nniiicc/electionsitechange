@@ -1,47 +1,202 @@
 [
-"http://molinarofacts.com/",
-"https://clerk.house.gov/Votes/2023300",
-"https://clerk.house.gov/Votes/2023328",
-"https://clerk.house.gov/Votes/2024263?Page=2&RollCallNum=263",
-"https://clerk.house.gov/evs/2023/roll021.xml",
-"https://clerk.house.gov/evs/2023/roll029.xml",
-"https://clerk.house.gov/evs/2023/roll400.xml",
-"https://clerk.house.gov/evs/2023/roll646.xml",
-"https://clerk.house.gov/evs/2023/roll719.xml",
-"https://clerk.house.gov/evs/2024/roll034.xml",
-"https://clerk.house.gov/evs/2024/roll107.xml",
-"https://clerk.house.gov/evs/2024/roll180.xml",
-"https://clerk.house.gov/evs/2024/roll279.xml",
-"https://clerk.house.gov/evs/2024/roll338.xml",
-"https://congress.gov/118/crec/2023/01/09/169/7/CREC-2023-01-09.pdf",
-"https://congress.gov/118/crec/2023/11/14/169/188/CREC-2023-11-14.pdf",
-"https://congress.gov/118/crec/2023/12/13/169/205/CREC-2023-12-13.pdf",
-"https://congress.gov/118/crec/2024/02/06/170/21/CREC-2024-02-06-house.pdf",
-"https://congress.gov/118/crec/2024/04/10/170/61/CREC-2024-04-10.pdf",
-"https://congress.gov/118/crec/2024/05/07/170/79/CREC-2024-05-07-house.pdf",
-"https://cq.com/doc/floorvote-296629000",
-"https://facebook.com/JoshRileyNY",
-"https://instagram.com/joshrileyue",
-"https://iwillvote.com/locate?state=NY",
-"https://joshrileyforcongress.com/",
-"https://joshrileyforcongress.com/endorsements",
-"https://joshrileyforcongress.com/media",
-"https://joshrileyforcongress.com/meet-josh",
-"https://joshrileyforcongress.com/policy-positions",
-"https://joshrileyforcongress.com/press-media",
-"https://joshrileyforcongress.com/privacy",
-"https://joshrileyforcongress.com/volunteer",
-"https://plus.cq.com/doc/floorvote-296670000",
-"https://plus.cq.com/doc/floorvote-301212000",
-"https://plus.cq.com/doc/floorvote-302156000",
-"https://plus.cq.com/doc/floorvote-302778000",
-"https://plus.cq.com/doc/floorvote-303292000",
-"https://plus.cq.com/doc/floorvote-304190",
-"https://plus.cq.com/doc/floorvote-304843",
-"https://plus.cq.com/doc/floorvote-305769?search=D5l5dXXC",
-"https://plus.cq.com/doc/floorvote-305807",
-"https://plus.cq.com/doc/floorvote-306132",
-"https://secure.actblue.com/donate/joshriley_website_2024",
-"https://thedailybeast.com/is-this-gop-rep-marc-molinaro-linked-to-a-mary-poppins-burner-account",
-"https://twitter.com/JoshRileyUE"
+{
+"text": "1/11/23",
+"href": "https://clerk.house.gov/evs/2023/roll029.xml"
+},
+{
+"text": "1/11/23",
+"href": "https://plus.cq.com/doc/floorvote-296670000?0="
+},
+{
+"text": "1/9/23",
+"href": "https://clerk.house.gov/evs/2023/roll021.xml"
+},
+{
+"text": "1/9/23",
+"href": "https://www.congress.gov/118/crec/2023/01/09/169/7/CREC-2023-01-09.pdf"
+},
+{
+"text": "1/9/23",
+"href": "https://www.cq.com/doc/floorvote-296629000?2="
+},
+{
+"text": "11/14/23",
+"href": "https://clerk.house.gov/evs/2023/roll646.xml"
+},
+{
+"text": "11/14/23",
+"href": "https://plus.cq.com/doc/floorvote-302778000?4="
+},
+{
+"text": "11/14/23",
+"href": "https://www.congress.gov/118/crec/2023/11/14/169/188/CREC-2023-11-14.pdf"
+},
+{
+"text": "12/13/23",
+"href": "https://clerk.house.gov/evs/2023/roll719.xml"
+},
+{
+"text": "12/13/23",
+"href": "https://plus.cq.com/doc/floorvote-303292000?3="
+},
+{
+"text": "12/13/23",
+"href": "https://www.congress.gov/118/crec/2023/12/13/169/205/CREC-2023-12-13.pdf"
+},
+{
+"text": "2/6/24",
+"href": "https://clerk.house.gov/evs/2024/roll034.xml"
+},
+{
+"text": "2/6/24",
+"href": "https://plus.cq.com/doc/floorvote-304190?13="
+},
+{
+"text": "2/6/24",
+"href": "https://www.congress.gov/118/crec/2024/02/06/170/21/CREC-2024-02-06-house.pdf"
+},
+{
+"text": "4/10/24",
+"href": "https://clerk.house.gov/evs/2024/roll107.xml"
+},
+{
+"text": "4/10/24",
+"href": "https://plus.cq.com/doc/floorvote-304843?1="
+},
+{
+"text": "4/10/24",
+"href": "https://www.congress.gov/118/crec/2024/04/10/170/61/CREC-2024-04-10.pdf"
+},
+{
+"text": "5/7/24",
+"href": "https://clerk.house.gov/evs/2024/roll180.xml"
+},
+{
+"text": "5/7/24",
+"href": "https://plus.cq.com/doc/floorvote-306132?1="
+},
+{
+"text": "5/7/24",
+"href": "https://www.congress.gov/118/crec/2024/05/07/170/79/CREC-2024-05-07-house.pdf"
+},
+{
+"text": "6/13/24",
+"href": "https://clerk.house.gov/Votes/2024263?Page=2&RollCallNum=263"
+},
+{
+"text": "6/13/24",
+"href": "https://plus.cq.com/doc/floorvote-305769?6=&search=D5l5dXXC"
+},
+{
+"text": "6/14/24",
+"href": "https://clerk.house.gov/evs/2024/roll279.xml"
+},
+{
+"text": "6/14/24",
+"href": "https://plus.cq.com/doc/floorvote-305807?1="
+},
+{
+"text": "7/13/23",
+"href": "https://clerk.house.gov/Votes/2023300"
+},
+{
+"text": "7/13/23",
+"href": "https://plus.cq.com/doc/floorvote-301212000?1="
+},
+{
+"text": "7/14/23",
+"href": "https://clerk.house.gov/Votes/2023328"
+},
+{
+"text": "7/14/23",
+"href": "https://plus.cq.com/doc/floorvote-301212000?1="
+},
+{
+"text": "7/9/24",
+"href": "https://clerk.house.gov/evs/2024/roll338.xml"
+},
+{
+"text": "7/9/24",
+"href": "https://plus.cq.com/doc/floorvote-304843?1="
+},
+{
+"text": "7/9/24",
+"href": "https://www.thedailybeast.com/is-this-gop-rep-marc-molinaro-linked-to-a-mary-poppins-burner-account"
+},
+{
+"text": "9/20/23",
+"href": "https://clerk.house.gov/evs/2023/roll400.xml"
+},
+{
+"text": "9/20/23",
+"href": "https://plus.cq.com/doc/floorvote-302156000?4="
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joshriley_website_2024"
+},
+{
+"text": "Endorsements",
+"href": "https://joshrileyforcongress.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://joshrileyforcongress.com/policy-positions/"
+},
+{
+"text": "Media",
+"href": "https://joshrileyforcongress.com/media/"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshrileyforcongress.com/meet-josh/"
+},
+{
+"text": "News",
+"href": "https://joshrileyforcongress.com/press-media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joshrileyforcongress.com/privacy"
+},
+{
+"text": "VOTE EARLY OCT. 26 - NOV. 3 OR ON ELECTION DAY NOV. 5FIND YOUR POLLING LOCATION >>",
+"href": "https://iwillvote.com/locate/?state=NY"
+},
+{
+"text": "Volunteer",
+"href": "https://joshrileyforcongress.com/volunteer"
+},
+{
+"text": "[image: Josh Riley for Congress Logo]",
+"href": "https://joshrileyforcongress.com/?nosplash="
+},
+{
+"text": "[image: Josh Riley for Congress]",
+"href": "https://joshrileyforcongress.com/?nosplash="
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoshRileyUE"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoshRileyNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joshrileyue"
+},
+{
+"text": "info@joshrileyforcongress.com",
+"href": "mailto:info@joshrileyforcongress.com"
+},
+{
+"text": "molinarofacts.com",
+"href": "http://molinarofacts.com"
+},
+{
+"text": "press@joshrileyforcongress.com",
+"href": "mailto:press@joshrileyforcongress.com"
+}
 ]

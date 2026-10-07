@@ -1,5 +1,4 @@
-Leadership Is Being There When It Matters
-Before Nicholas became my child’s caseworker, I felt completely overwhelmed, unheard, and alone.
+top of page Menu Close Home News & Events Get Involved Donate All Posts Leadership Is Being There When It Matters nicholasdilorenzo8 Aug 17 2 min read Before Nicholas became my child’s caseworker, I felt completely overwhelmed, unheard, and alone.
 I was constantly fighting to make people understand the seriousness of my child’s disabilities and developmental delays.
 Too often, I felt like his needs were being minimized and that I was the only person in the room willing to fight for him.
 Then Nicholas became part of our lives, and everything changed.
@@ -25,5 +24,6 @@ And most importantly, he made sure my child was never treated as though his disa
 There are people who simply do their jobs, and then there are people who make a lasting difference in the lives of the families they serve.
 Nicholas is one of those people.
 Our family is stronger because he was willing to stand beside us, fight with us, and believe in my son.
-I will never forget the difference he made in our lives.
--Samantha L.
+I will never forget the difference he made in our lives. -Samantha L.
+Recent Posts See All Endorsed by Rep.
+Beth Quimby Endorsed By Senator Russ Ingalls Community Leaders Stand with Nicholas DiLorenzo ​ ​ ​ ​ ​ ​ ​ (c) # DiLorenzo for Vermont Home News & Events Get Involved Donate bottom of page

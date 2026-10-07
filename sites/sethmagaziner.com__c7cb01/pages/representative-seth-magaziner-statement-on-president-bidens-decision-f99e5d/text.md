@@ -1,10 +1,8 @@
->>
-July 24, 2024
-I am grateful for the leadership of President Biden, who has delivered for the American people by lowering prescription drug costs, making historic investments in infrastructure and clean energy, reviving American manufacturing, expanding veterans benefits, standing up for democracy at home and abroad, and so much more.
+Seth Magaziner Menu Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Representative Seth Magaziner Statement on President Biden’s Decision >> July 24, 2024 I am grateful for the leadership of President Biden, who has delivered for the American people by lowering prescription drug costs, making historic investments in infrastructure and clean energy, reviving American manufacturing, expanding veterans benefits, standing up for democracy at home and abroad, and so much more.
 With today’s announcement, President Biden is putting the good of our country ahead of his own personal interest – something that Donald Trump would never do.
 As we move forward, Democrats must quickly unite our party and the country behind a new nominee with a vision for the future.
 We have more work to do to lower housing and energy costs, protect and expand Social Security and Medicare, and make Roe the law of the land once again.
 We know who Donald Trump is and what he stands for: even more tax breaks for billionaires and huge corporations, banning abortion and IVF, letting insurance companies kick people off their coverage for a pre-existing condition, and enriching himself and his friends.
 His radical plan to take away Americans’ constitutionally protected rights and freedoms is wrong for America.
 I look forward to supporting our Democratic nominee, doing everything in my power to elect a President who will fight for working people, and ensuring that Donald Trump does not return to the Oval Office.
-###
+### Twitter Facebook Instagram Youtube [email protected] PO Box 40993, Providence, RI 02940 Paid for by MAGAZINER FOR CONGRESS PRIVACY POLICY

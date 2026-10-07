@@ -1,23 +1,94 @@
 [
-"https://buzz360.app/",
-"https://facebook.com/ronformnag",
-"https://instagram.com/ronformnag",
-"https://mnvotes.sos.mn.gov/",
-"https://ronformnag.com/",
-"https://ronformnag.com/accomplishments.html",
-"https://ronformnag.com/contact .html",
-"https://ronformnag.com/contact%20.html",
-"https://ronformnag.com/fact-or-fiction .html",
-"https://ronformnag.com/get-involved.html",
-"https://ronformnag.com/home.html",
-"https://ronformnag.com/meetron.html",
-"https://ronformnag.com/news-and-media.html",
-"https://ronformnag.com/our-app.html",
-"https://ronformnag.com/priorities.html",
-"https://ronformnag.com/privacy-and-mobile.html",
-"https://ronformnag.com/take-action.html",
-"https://secure.anedot.com/ron-for-mn/generalron2025",
-"https://sos.mn.gov/elections-voting/election-day-voting",
-"https://x.com/RonforMNAG",
-"https://youtube.com/@RonSchutzforMNAttorneyGeneral"
+{
+"text": "Accomplishments",
+"href": "https://www.ronformnag.com/accomplishments.html"
+},
+{
+"text": "Contact",
+"href": "https://www.ronformnag.com/contact%20.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.ronformnag.com/contact%20.html"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/ron-for-mn/generalron2025"
+},
+{
+"text": "Fact or Fiction",
+"href": "https://www.ronformnag.com/fact-or-fiction%20.html"
+},
+{
+"text": "Home",
+"href": "https://www.ronformnag.com/home.html"
+},
+{
+"text": "Join Us",
+"href": "https://www.ronformnag.com/get-involved.html"
+},
+{
+"text": "Meet",
+"href": "https://www.ronformnag.com/meetron.html"
+},
+{
+"text": "Meet Ron",
+"href": "https://www.ronformnag.com/meetron.html"
+},
+{
+"text": "News",
+"href": "https://www.ronformnag.com/news-and-media.html"
+},
+{
+"text": "News, Media & Press Kit",
+"href": "https://www.ronformnag.com/news-and-media.html"
+},
+{
+"text": "Our App",
+"href": "https://www.ronformnag.com/our-app.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.ronformnag.com/priorities.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ronformnag.com/privacy-and-mobile.html"
+},
+{
+"text": "Take Action",
+"href": "https://www.ronformnag.com/take-action.html"
+},
+{
+"text": "Voting Are You Registered to Vote?",
+"href": "https://mnvotes.sos.mn.gov/"
+},
+{
+"text": "Voting Where and When Do I Vote?",
+"href": "https://www.sos.mn.gov/elections-voting/election-day-voting/"
+},
+{
+"text": "[image: Ron Schutz for MN AG]",
+"href": "https://www.ronformnag.com/"
+},
+{
+"text": "[image]",
+"href": "https://buzz360.app/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ronformnag"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronformnag"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RonSchutzforMNAttorneyGeneral"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RonforMNAG"
+}
 ]

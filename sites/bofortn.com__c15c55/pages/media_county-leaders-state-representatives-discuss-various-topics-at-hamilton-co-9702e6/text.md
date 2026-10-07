@@ -1,3 +1,4 @@
-County leaders, state representatives discuss various topics at Hamilton County Legislative Breakfast
-Hamilton County leadership had a chance to discuss issues this morning with members of the Tennessee General Assembly.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE County leaders, state representatives discuss various topics at Hamilton County Legislative Breakfast Dec 2 Written By Waterhouse PR Hamilton County leadership had a chance to discuss issues this morning with members of the Tennessee General Assembly.
 Senator Bo Watson says that TDOT is still working through complications related to a rail line in that area as they attempt to expand the interstate through there.
+READ THE FULL ARTICLE Waterhouse PR Previous Previous New Tennessee noncitizen driver’s licenses begin Jan.
+1 Next Next UTC marks a new chapter as Chancellor Lori Mann Bruce is formally invested Bo for Tennessee About Priorities Media Contact

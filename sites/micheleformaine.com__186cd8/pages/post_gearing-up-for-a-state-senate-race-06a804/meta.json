@@ -1,9 +1,12 @@
 {
  "description": "My email newsletter from 10/13/25. Learn about my plans and meet up with me at events!",
  "final_url": "https://www.micheleformaine.com/post/gearing-up-for-a-state-senate-race",
- "paid_for_by": null,
+ "fingerprint": "e627c9546b385de17a1879d9cba8f10ca172ba0e",
+ "format": 3,
+ "paid_for_by": "authorized by Michele for Maine bottom of page",
  "title": "Gearing up for a State Senate race",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

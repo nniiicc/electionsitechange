@@ -1,21 +1,13 @@
-👮Safe Communities
-🚨 The Problem
-Meth and fentanyl are tearing through small towns and families.
-Law enforcement is stretched thin, courts are overburdened, and too many repeat offenders cycle right back through the system.
-🛠️ Fred’s Plan
-- Back law enforcement with training, resources, and tools to fight crime and keep officers safe.
-- Crack down on illegal drugs with tougher penalties for traffickers and greater support for local task forces.
-- Expand access to treatment and rehabilitation so those trapped in addiction have a chance to rebuild their lives.
-- Strengthen community partnerships between sheriffs, counties, and state agencies to coordinate efforts against drugs and repeat crime.
-- Hold repeat offenders accountable with policies that protect victims and stop the revolving door of crime.
-- Support a safe, modern prison with cost caps and oversight to protect taxpayers.
-- Set clear, tight statewide rules for license plate reader (ALPR) technology — data used only for active criminal investigations, a hard deadline to delete footage and real accountability about privacy.
-✅Progress So Far
-- Publicly supported the new prison proposal in Sioux Falls with contract caps and accountability to control costs.
-- Voted to increase state correctional capacity and reduce overcrowding.
-- Backed legislation to impose stronger penalties on repeat violent offenders.
-💡Why This Matters
-Public safety is government's first responsibility.
+Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home ❭ Issues ❭ 👮Safe Communities 👮Safe Communities 🚨 The Problem Meth and fentanyl are tearing through small towns and families.
+Law enforcement is stretched thin, courts are overburdened, and too many repeat offenders cycle right back through the system. 🛠️ Fred’s Plan Back law enforcement with training, resources, and tools to fight crime and keep officers safe.
+Crack down on illegal drugs with tougher penalties for traffickers and greater support for local task forces.
+Expand access to treatment and rehabilitation so those trapped in addiction have a chance to rebuild their lives.
+Strengthen community partnerships between sheriffs, counties, and state agencies to coordinate efforts against drugs and repeat crime.
+Hold repeat offenders accountable with policies that protect victims and stop the revolving door of crime.
+Support a safe, modern prison with cost caps and oversight to protect taxpayers.
+Set clear, tight statewide rules for license plate reader (ALPR) technology — data used only for active criminal investigations, a hard deadline to delete footage and real accountability about privacy. ✅Progress So Far Publicly supported the new prison proposal in Sioux Falls with contract caps and accountability to control costs.
+Voted to increase state correctional capacity and reduce overcrowding.
+Backed legislation to impose stronger penalties on repeat violent offenders . 💡Why This Matters Public safety is government's first responsibility.
 A modern prison protects citizens, ensures staff safety, and saves money long term.
 When law enforcement has the tools to crack down on drugs, when violent criminals are held accountable, and when addicts can access treatment, families are safer and communities stronger.
 This isn't just about new walls, it's about protecting lives and defending South Dakota's future.
@@ -31,13 +23,7 @@ Courts are already weighing in, with a federal judge in a Norfolk, Virginia case
 That's the gap South Dakota law needs to close before it becomes our story too.
 As Attorney General Jackley develops statewide ALPR legislation, I'll work with him to ensure there are real limits, such as legitimate investigations only, a deletion deadline, a warrant requirement for anything beyond a short window, and accountability if the rules are broken.
 Public safety and privacy aren't opposites.
-We can protect both.
-→ See the full record on Promises Made & Kept.
-_____________________________________________________________________________________________________________________________
-📣How You can Help
-Volunteer to Support Safe Communities—knock on doors, make calls, join the team.
-Sign Up
-Contribute—Every dollar helps us fight for District 4.
-Donate Now
-Vote—Register to Vote and get election info about District 4.
-Register to Vote
+We can protect both. → See the full record on Promises Made & Kept . 🌟 Back to Issues _____________________________________________________________________________________________________________________________ 📣 How You can Help Volunteer to Support Safe Communities— knock on doors, make calls, join the team.
+S ign Up Contribute —Every dollar helps us fight for District 4.
+Donate Now Vote —Register to Vote and get election info about District 4.
+Register to Vote « Previous: 💰Lower Taxes Next: 🏛️ Strong Schools » Contribute Home Volunteer Contact Paid for by Fred for House Powered by CampaignPartner.com - Political Websites Meet Fred Promises Kept Issues Photos Volunteer Vote Contribute Home Contact Close Menu

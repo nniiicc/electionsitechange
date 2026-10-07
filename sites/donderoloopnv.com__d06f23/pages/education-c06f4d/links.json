@@ -1,14 +1,62 @@
 [
-"http://donderoloopnv.com/",
-"https://donderoloopnv.com/",
-"https://donderoloopnv.com/about",
-"https://donderoloopnv.com/education",
-"https://donderoloopnv.com/endorsements",
-"https://donderoloopnv.com/healthcare",
-"https://donderoloopnv.com/jobs-economicgrowth",
-"https://donderoloopnv.com/publicsafety",
-"https://donderoloopnv.com/volunteer",
-"https://facebook.com/Marilyn-Dondero-Loop-for-NV-Senate-439125463173059",
-"https://secure.actblue.com/donate/dondero-loop-campaign-1",
-"https://twitter.com/donderoloopnv?lang=en"
+{
+"text": "About",
+"href": "https://www.donderoloopnv.com/about"
+},
+{
+"text": "Contact Marilyn",
+"href": "mailto:donderoloopnv@gmail.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/dondero-loop-campaign-1"
+},
+{
+"text": "Education",
+"href": "https://www.donderoloopnv.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.donderoloopnv.com/endorsements"
+},
+{
+"text": "Healthcare",
+"href": "https://www.donderoloopnv.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.donderoloopnv.com"
+},
+{
+"text": "Issues",
+"href": "https://www.donderoloopnv.com/education"
+},
+{
+"text": "Jobs",
+"href": "https://www.donderoloopnv.com/jobs-economicgrowth"
+},
+{
+"text": "Public Safety",
+"href": "https://www.donderoloopnv.com/publicsafety"
+},
+{
+"text": "Volunteer",
+"href": "https://www.donderoloopnv.com/volunteer"
+},
+{
+"text": "[image: Grey Facebook Icon]",
+"href": "https://www.facebook.com/Marilyn-Dondero-Loop-for-NV-Senate-439125463173059/"
+},
+{
+"text": "[image: Grey Twitter Icon]",
+"href": "https://twitter.com/donderoloopnv?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://www.donderoloopnv.com"
+},
+{
+"text": "www.DonderoLoopNV.com",
+"href": "http://www.donderoloopnv.com"
+}
 ]

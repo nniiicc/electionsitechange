@@ -1,21 +1,3 @@
-Skip to content
-Volunteer
-Donate
-Dave Wood for Colorado Congressional District 8
-HOME PAGE
-Donate to Win this November
-PLEASE MAIL CHECKS TO:
-Dave Wood for Colorado
-4670 W 102nd Place
-Westminster, CO 80031
-Loading Comments...
+Skip to content Volunteer Donate Dave Wood for Colorado Congressional District 8 HOME PAGE Donate to Win this November PLEASE MAIL CHECKS TO: Dave Wood for Colorado 4670 W 102nd Place Westminster, CO 80031 Dave Wood Colorado Congressional District 8 Paid for by: Dave Wood For Congress Committee CO-0950337 QuestionsForDaveCo8@gmail.com Call to chat: 303-464-7264 We’re open for discussion 7 days per week Volunteer Donate Loading Comments...
 Write a Comment...
-Email
-Name
-Website
-Dave Wood for Colorado Congressional District 8
-Copy shortlink
-Manage subscriptions
-Sign up
-Log in
-Report this content
+Email Name Website Dave Wood for Colorado Congressional District 8 Copy shortlink Manage subscriptions Sign up Log in Report this content

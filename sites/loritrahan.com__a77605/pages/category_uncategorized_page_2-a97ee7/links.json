@@ -1,36 +1,178 @@
 [
-"http://twitter.com/loritrahanma",
-"https://emilyslist.org/",
-"https://facebook.com/loriforuscongress",
-"https://instagram.com/loriforuscongress",
-"https://iwillvote.com/register?lang=en&state=MA",
-"https://loritrahan.com/",
-"https://loritrahan.com/author/emily",
-"https://loritrahan.com/category/uncategorized",
-"https://loritrahan.com/category/uncategorized/page/3",
-"https://loritrahan.com/education-2",
-"https://loritrahan.com/election-and-political-reform",
-"https://loritrahan.com/emilys-list-endorsed-lori-trahan-for-massachusetts-3rd-congressional-district",
-"https://loritrahan.com/energy-and-the-environment",
-"https://loritrahan.com/fighting-for-women",
-"https://loritrahan.com/gun-reform",
-"https://loritrahan.com/healthcare",
-"https://loritrahan.com/immigration",
-"https://loritrahan.com/jobs-and-economy",
-"https://loritrahan.com/lori-trahan-gives-her-first-speech-as-the-official-democratic-nominee-for-massachusetts-3rd-congressional-district",
-"https://loritrahan.com/lori-trahans-statement-on-president-trumps-comments-mocking-dr-ford",
-"https://loritrahan.com/media-2",
-"https://loritrahan.com/meet-lori",
-"https://loritrahan.com/opioids-and-substance-abuse",
-"https://loritrahan.com/party-unites-around-lori-trahan-as-the-democratic-nominee-for-congress-in-3rd-congressional-district",
-"https://loritrahan.com/trahan-announces-her-vote-lead-has-more-than-doubled",
-"https://loritrahan.com/trahan-announces-victory-in-3rd-congressional-district-democratic-primary",
-"https://loritrahan.com/trahan-receives-another-endorsement-for-her-strong-stance-on-gun-reform",
-"https://loritrahan.com/trahan-will-tour-the-third-districts-37-communities-in-72-hours",
-"https://loritrahan.com/trahan-wins-democratic-primary-for-ma3-by-122-votes",
-"https://loritrahan.com/trahans-third-tv-ad-showcases-major-newspaper-endorsements",
-"https://loritrahan.com/volunteer-2",
-"https://loritrahan.com/womens-rights",
-"https://secure.actblue.com/donate/loritrahan?amount=5",
-"https://youtu.be/0XaxZxUZ_XA"
+{
+"text": "About EMILY’s List",
+"href": "https://www.emilyslist.org/"
+},
+{
+"text": "Click here for more",
+"href": "https://loritrahan.com/fighting-for-women/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/loritrahan?amount=5"
+},
+{
+"text": "EMILY’S List Endorsed Lori Trahan for Massachusetts 3rd Congressional District",
+"href": "https://loritrahan.com/emilys-list-endorsed-lori-trahan-for-massachusetts-3rd-congressional-district/"
+},
+{
+"text": "Education",
+"href": "https://loritrahan.com/education-2/"
+},
+{
+"text": "Election Reform",
+"href": "https://loritrahan.com/election-and-political-reform/"
+},
+{
+"text": "Emily Byrne",
+"href": "https://loritrahan.com/author/emily/"
+},
+{
+"text": "Energy and the Environment",
+"href": "https://loritrahan.com/energy-and-the-environment/"
+},
+{
+"text": "Gun Reform",
+"href": "https://loritrahan.com/gun-reform/"
+},
+{
+"text": "Healthcare",
+"href": "https://loritrahan.com/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://loritrahan.com/"
+},
+{
+"text": "Immigration Reform",
+"href": "https://loritrahan.com/immigration/"
+},
+{
+"text": "Jobs & The Economy",
+"href": "https://loritrahan.com/jobs-and-economy/"
+},
+{
+"text": "Load More",
+"href": "https://loritrahan.com/category/uncategorized/page/3/"
+},
+{
+"text": "Lori Trahan gives her first speech as the official Democratic nominee for Massachusetts’ 3rd Congressional District",
+"href": "https://loritrahan.com/lori-trahan-gives-her-first-speech-as-the-official-democratic-nominee-for-massachusetts-3rd-congressional-district/"
+},
+{
+"text": "Lori Trahan’s statement on President Trump’s comments mocking Dr. Ford",
+"href": "https://loritrahan.com/lori-trahans-statement-on-president-trumps-comments-mocking-dr-ford/"
+},
+{
+"text": "Media",
+"href": "https://loritrahan.com/media-2/"
+},
+{
+"text": "Meet Lori",
+"href": "https://loritrahan.com/meet-lori/"
+},
+{
+"text": "Opioids & Substance Abuse",
+"href": "https://loritrahan.com/opioids-and-substance-abuse/"
+},
+{
+"text": "Party Unites Around Lori Trahan as the Democratic Nominee for Congress in 3rd Congressional District",
+"href": "https://loritrahan.com/party-unites-around-lori-trahan-as-the-democratic-nominee-for-congress-in-3rd-congressional-district/"
+},
+{
+"text": "Register to Vote",
+"href": "https://iwillvote.com/register/?lang=en&state=MA"
+},
+{
+"text": "Trahan announces her vote lead has more than doubled",
+"href": "https://loritrahan.com/trahan-announces-her-vote-lead-has-more-than-doubled/"
+},
+{
+"text": "Trahan announces victory in 3rd Congressional District Democratic primary",
+"href": "https://loritrahan.com/trahan-announces-victory-in-3rd-congressional-district-democratic-primary/"
+},
+{
+"text": "Trahan receives another endorsement for her strong stance on gun reform",
+"href": "https://loritrahan.com/trahan-receives-another-endorsement-for-her-strong-stance-on-gun-reform/"
+},
+{
+"text": "Trahan will tour the Third District’s 37 communities in 72 hours",
+"href": "https://loritrahan.com/trahan-will-tour-the-third-districts-37-communities-in-72-hours/"
+},
+{
+"text": "Trahan wins Democratic primary for MA3 by 122 votes",
+"href": "https://loritrahan.com/trahan-wins-democratic-primary-for-ma3-by-122-votes/"
+},
+{
+"text": "Trahan’s third TV ad showcases major newspaper endorsements",
+"href": "https://loritrahan.com/trahans-third-tv-ad-showcases-major-newspaper-endorsements/"
+},
+{
+"text": "Uncategorized",
+"href": "https://loritrahan.com/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://loritrahan.com/volunteer-2/"
+},
+{
+"text": "Women’s Rights",
+"href": "https://loritrahan.com/womens-rights/"
+},
+{
+"text": "[image: EMILY][image: EMILY]",
+"href": "https://loritrahan.com/emilys-list-endorsed-lori-trahan-for-massachusetts-3rd-congressional-district/"
+},
+{
+"text": "[image: Lori Trahan logo][image: Lori Trahan logo]",
+"href": "https://loritrahan.com/lori-trahan-gives-her-first-speech-as-the-official-democratic-nominee-for-massachusetts-3rd-congressional-district/"
+},
+{
+"text": "[image: Lori Trahan logo][image: Lori Trahan logo]",
+"href": "https://loritrahan.com/lori-trahans-statement-on-president-trumps-comments-mocking-dr-ford/"
+},
+{
+"text": "[image: Lori Trahan logo][image: Lori Trahan logo]",
+"href": "https://loritrahan.com/party-unites-around-lori-trahan-as-the-democratic-nominee-for-congress-in-3rd-congressional-district/"
+},
+{
+"text": "[image: Lori Trahan logo][image: Lori Trahan logo]",
+"href": "https://loritrahan.com/trahan-announces-victory-in-3rd-congressional-district-democratic-primary/"
+},
+{
+"text": "[image: Lori Trahan logo][image: Lori Trahan logo]",
+"href": "https://loritrahan.com/trahan-wins-democratic-primary-for-ma3-by-122-votes/"
+},
+{
+"text": "[image: Representative Lori Trahan]",
+"href": "https://loritrahan.com"
+},
+{
+"text": "[image: Women for Lori speaking][image: Women for Lori speaking]",
+"href": "https://loritrahan.com/trahan-announces-her-vote-lead-has-more-than-doubled/"
+},
+{
+"text": "[image: lori moms demand]",
+"href": "https://loritrahan.com/trahan-receives-another-endorsement-for-her-strong-stance-on-gun-reform/"
+},
+{
+"text": "[image: lori_logo_1-1-978x651][image: lori_logo_1-1-978x651]",
+"href": "https://loritrahan.com/trahan-will-tour-the-third-districts-37-communities-in-72-hours/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/loritrahanma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/loriforuscongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/loriforuscongress/"
+},
+{
+"text": "https://youtu.be/0XaxZxUZ_XA",
+"href": "https://youtu.be/0XaxZxUZ_XA"
+}
 ]

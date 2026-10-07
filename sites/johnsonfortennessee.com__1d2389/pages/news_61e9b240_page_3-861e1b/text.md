@@ -1,12 +1,1 @@
-December 12, 2024
-Read More
-December 12, 2024
-Read More
-December 12, 2024
-Read More
-December 12, 2024
-Read More
-December 12, 2024
-Read More
-December 12, 2024
-Read More
+Home Meet Jack Issues News Get in touch Contact Take Action Donate News December 12, 2024 WATE Attends Jack Johnson and Colleagues Knoxville Press Conference Regarding Senate Bill 1 Read More December 12, 2024 WRCB Chattanooga Attends Jack Johnson and Colleagues Press Conference Read More December 12, 2024 NBC39 Covers Senator Jack Johnson Jackson Press Conference Read More December 12, 2024 WBBJ On Tennessee Senate Bill 1 SCOTUS Oral Arguments Read More December 12, 2024 Fox17 Nashville Discusses Tennessee Senate Bill 1 SCOTUS Oral Arguments Read More December 12, 2024 News2 Nashville on Tennessee Senate Bill 1 SCOTUS Hearings Read More Paid for by Johnson for State Senate, Tommy Nelms, Treasurer Follow Privacy Policy & Terms & Conditions Press Kit

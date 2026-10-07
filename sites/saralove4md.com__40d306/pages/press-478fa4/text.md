@@ -1,66 +1,9 @@
-2024 Session & My Legislation
-Maryland Online Data Privacy Act of 2024, HB 567
-- o Maryland Passes Two Major Privacy Bills, Despite Tech Pushback (New York Times 4/7/24)
-- o "The Old Line State Does Something New On Privacy" (Future of Privacy Forum 4/23/24)
-- o Md.
-Data Privacy Legislation Provides New Model (Pluribus News 4/11/24)
-- o "The tide has shifted with key support Maryland lawmakers continue push for stricter online data privacy" (The Daily Record 2/13/24)
-- o "Maryland bills challenge Big Tech over data privacy, ticket scalping" (Washington Post 1/24/24)
-- o "Maryland lawmakers seek to bolster consumer protections in 2024" (Baltimore Sun 1/24/24)
-- o "Anti-scalping bill headlines ‘year of the consumer’ package" (Maryland Matters 1/24/24)
-Whole Watershed Act, HB 1165
-- o Baltimore Holds the Key to a Cleaner Bay (Baltimore Banner 3/8/24)
-Clean Water Justice Act, HB 1101
-- o The Clean Water Justice Act Would Allow Marylanders to Enforce Clean Water Laws (Baltimore Sun 2/13/24)
-The Sarah Debbink Langenkamp Memorial Act, HB 337
-- o "Roundup: Which bills sponsored by Montgomery County lawmakers survived Crossover Day?" (MoCo360 3/21/24)
-- o "Lt.
+Home Meet Sara Biography Contact Endorsements Issues Education The Environment Justice and Safety Transportation Reproductive Rights Gun Safety Energy Animal Protection DONATE Voting Information Scholarships News & Views Press Newsletters More Home Meet Sara Biography Contact Endorsements Issues Education The Environment Justice and Safety Transportation Reproductive Rights Gun Safety Energy Animal Protection DONATE Voting Information Scholarships News & Views Press Newsletters Home Meet Sara Biography Contact Endorsements Issues Education The Environment Justice and Safety Transportation Reproductive Rights Gun Safety Energy Animal Protection DONATE Voting Information Scholarships News & Views Press Newsletters Press Coverage 2024 Session & My Legislation Maryland Online Data Privacy Act of 2024, HB 567 o Maryland Passes Two Major Privacy Bills, Despite Tech Pushback (New York Times 4/7/24) o " The Old Line State Does Something New On Privacy " (Future of Privacy Forum 4/23/24) o Md.
+Data Privacy Legislation Provides New Model (Pluribus News 4/11/24) o " The tide has shifted with key support Maryland lawmakers continue push for stricter online data privacy " (The Daily Record 2/13/24) o " Maryland bills challenge Big Tech over data privacy, ticket scalping " (Washington Post 1/24/24) o " Maryland lawmakers seek to bolster consumer protections in 2024 " (Baltimore Sun 1/24/24) o " Anti-scalping bill headlines ‘year of the consumer’ package " (Maryland Matters 1/24/24) Whole Watershed Act, HB 1165 o Baltimore Holds the Key to a Cleaner Bay (Baltimore Banner 3/8/24) Clean Water Justice Act, HB 1101 o The Clean Water Justice Act Would Allow Marylanders to Enforce Clean Water Laws (Baltimore Sun 2/13/24) The Sarah Debbink Langenkamp Memorial Act, HB 337 o "Roundup: Which bills sponsored by Montgomery County lawmakers survived Crossover Day?" (MoCo360 3/21/24) o " Lt.
 Gov.
-Miller, former traffic engineer, champions road safety bills" (Baltimore Banner 2/23/24)
-- o "Widower working to toughen Maryland bike lane laws after River Road tragedy" (News4 2/22/24)
-"Littering in Maryland can land you in jail for 5 years, killing someone in a bike lane considerably less" (Maryland Matters 2/22/24)
-Food Processing Residuals Utilization Permit – Establishment, HB 991
-- o "Commentary: Stop Md. from becoming an even bigger dumping ground for industrial sludge" (Maryland Matters 2/27/24)
-- o "Chicken for Diner?
-The Leftovers are Stinking Up Maryland" (Baltimore Banner 2/20/24)
-2023 Session & My Legislation
-Clean Trucks Act of 2023, HB 230
-- "Legislators Paving the Way for More Clean Trucks in Maryland" (WYPR 4/6/23)
-- "Maryland Poised to institute Clean Trucks Rule, explore closing waste authority" (WasteDive 4/10/23)
-- "Maryland Passes Clean Trucks Act with Key Caveats" (TT News 4/13/23)
-Forest Preservation, HB 723
-- "Historic Forest Preservation Legislation Approved by Maryland General Assembly" (WhatsUpMedia 4/13/23)
-- "Opinion: We can't bulldoze our way out of the climate crisis.
-Maryland's new forest protection propel nature-based solutions." (Maryland Matters 5/5/23)
-2022 Session & My Legislation
-‘A Legacy Year’ for Animal Welfare Laws in Annapolis, Advocates Say (Maryland Matters, 4/21/2022)
-Maryland lawmakers poised to pass environmental bills to increase inspections, ban chemicals, and invest in conservation (Baltimore Sun, 3/28/2022)
-Conservation Finance Act, HB 653
-- Maryland Enacts Conservation Finance Act (National Caucus of Environmental Legislators, 2022)
-- A New Way to Save the Bay: Environmentally conscious investors may get a financial incentive to clean up Maryland’s waterways (Baltimore Business Journal, 1/21/2022)
-Environment – Discharge Permits – Inspections and Administrative Continuations, HB 649
-- Lawmakers Introduce a Bill to Target More Than 200 “Zombie” Water Permits (Maryland Matters, 2/24/2022)
-PFAS, HB 275
-- Maryland must move swiftly to regulate harmful ‘forever chemicals’ (Baltimore Sun, 2/15/2022)
-- Maryland can protect firefighters and other first-responders with a bill that bans some chemicals (Washington Post, 2/15/2022)
-- Inspired by the Death of a Veteran Firefighter, Bill Would Limit Exposure to Toxic Chemical in Fire Foam and Gear (Maryland Matters, 2/10/2022)
-Biometrics, HB 259
-- Maryland must set limits on biometric identifiers (Baltimore Sun, 2/10/2022)
-2021 Session & My Legislation
-Biomatric Privacy, HB 218
-- Maryland Joins NY with BIPA-like Biometric Privacy bill (National Law Review, 6/14/2021)
-PFAS, HB 22
-- Maryland Must Address Emerging PFAS Crisis (Maryland Matters, 6/4/2021)
-Stormwater Management Regulations and Watershed Implementation Plans, HB 295
-- This Bill is Needed to Address Climate Change (Washington Post Letter to the Editor, 4/14/2021)
-Prohibition on the Chemical Conversion of Plastic, HB 21
-- Maryland Bill Would Ban Chemical Conversion of Plastic into Fuel (CBS Baltimore, 2/24/2021)
-2020 Session & My Legislation
-A Candid Conversation with Delegate Sara Love (The Fem Word, 12/3/2020)
-Why Does Environmental Justice Matter?
-(Maryland Matters, 9/24/2020)
-2019 Session & My Legislation
-Use of Antimicrobial Drugs - Limitations and Reporting, HB 652
-- Maryland shows states how to save modern medicine.
-(Washington Post Op Ed, 6/28/19)
-Center Maryland: Front and Center with Delegate Sara Love (2019 Interview with Ryan Miner with A Miner Detail/Center Maryland)
+Miller, former traffic engineer, champions road safety bills " (Baltimore Banner 2/23/24) o " Widower working to toughen Maryland bike lane laws after River Road tragedy " (News4 2/22/24) " Littering in Maryland can land you in jail for 5 years, killing someone in a bike lane considerably less " (Maryland Matters 2/22/24) Food Processing Residuals Utilization Permit – Establishment, HB 991 o " Commentary: Stop Md. from becoming an even bigger dumping ground for industrial sludge " (Maryland Matters 2/27/24) o " Chicken for Diner?
+The Leftovers are Stinking Up Maryland " (Baltimore Banner 2/20/24) 2023 Session & My Legislation Clean Trucks Act of 2023, HB 230 " Legislators Paving the Way for More Clean Trucks in Maryland " (WYPR 4/6/23) " Maryland Poised to institute Clean Trucks Rule, explore closing waste authority " (WasteDive 4/10/23) " Maryland Passes Clean Trucks Act with Key Caveats " (TT News 4/13/23) Forest Preservation, HB 723 " Historic Forest Preservation Legislation Approved by Maryland General Assembly " (WhatsUpMedia 4/13/23) " Opinion: We can't bulldoze our way out of the climate crisis.
+Maryland's new forest protection propel nature-based solutions ." (Maryland Matters 5/5/23) 2022 Session & My Legislation ‘A Legacy Year’ for Animal Welfare Laws in Annapolis, Advocates Say (Maryland Matters, 4/21/2022) Maryland lawmakers poised to pass environmental bills to increase inspections, ban chemicals, and invest in conservation (Baltimore Sun, 3/28/2022) Conservation Finance Act, HB 653 Maryland Enacts Conservation Finance Act (National Caucus of Environmental Legislators, 2022) A New Way to Save the Bay: Environmentally conscious investors may get a financial incentive to clean up Maryland’s waterways (Baltimore Business Journal, 1/21/2022) Environment – Discharge Permits – Inspections and Administrative Continuations, HB 649 Lawmakers Introduce a Bill to Target More Than 200 “Zombie” Water Permits (Maryland Matters, 2/24/2022) PFAS, HB 275 Maryland must move swiftly to regulate harmful ‘forever chemicals’ (Baltimore Sun, 2/15/2022) Maryland can protect firefighters and other first-responders with a bill that bans some chemicals (Washington Post, 2/15/2022) Inspired by the Death of a Veteran Firefighter, Bill Would Limit Exposure to Toxic Chemical in Fire Foam and Gear (Maryland Matters, 2/10/2022) Biometrics, HB 259 Maryland must set limits on biometric identifiers (Baltimore Sun, 2/10/2022) 2021 Session & My Legislation Biomatric Privacy, HB 218 Maryland Joins NY with BIPA-like Biometric Privacy bill (National Law Review, 6/14/2021) PFAS, HB 22 Maryland Must Address Emerging PFAS Crisis (Maryland Matters, 6/4/2021) Stormwater Management Regulations and Watershed Implementation Plans, HB 295 This Bill is Needed to Address Climate Change (Washington Post Letter to the Editor, 4/14/2021) Prohibition on the Chemical Conversion of Plastic, HB 21 Maryland Bill Would Ban Chemical Conversion of Plastic into Fuel (CBS Baltimore, 2/24/2021) 2020 Session & My Legislation A Candid Conversation with Delegate Sara Love (The Fem Word, 12/3/2020) Why Does Environmental Justice Matter?
+(Maryland Matters, 9/24/2020) 2019 Session & My Legislation Use of Antimicrobial Drugs - Limitations and Reporting, HB 652 Maryland shows states how to save modern medicine.
+(Washington Post Op Ed, 6/28/19) Center Maryland: Front and Center with Delegate Sara Love (2019 Interview with Ryan Miner with A Miner Detail/Center Maryland) Authority: Friends of Sara Love, Jeff Mills,, Treasurer, P.O.
+Box 367, Cabin John, MD 20818-0367 Powered by

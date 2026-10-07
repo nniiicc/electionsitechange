@@ -1,20 +1,15 @@
-SMS Terms and Conditions
-Mobile Messaging Program Consent
-By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Kimberly Cole for Senate:
-- Polling/Voting Text Messages: Such as election reminders and opinion polls.
-- Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
-Opt-In Methods
-- Completing a sign-up form on our website and checking the text message consent box.
-- Providing explicit consent in any other manner as indicated by Kimberly Cole for Senate.
-Message Terms
-- Messages may be sent using an autodialer or similar technology.
-- Message frequency may vary depending on your interaction with the Program.
-- Standard message and data rates may apply.
-- Wireless carriers are not liable for delayed or undelivered messages.
-STOP Command
-To stop receiving messages, text STOP at any time.
+Skip to content SMS Terms and Conditions Mobile Messaging Program Consent By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Kimberly Cole for Senate: Polling/Voting Text Messages: Such as election reminders and opinion polls.
+Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
+Opt-In Methods Completing a sign-up form on our website and checking the text message consent box.
+Providing explicit consent in any other manner as indicated by Kimberly Cole for Senate.
+Message Terms Messages may be sent using an autodialer or similar technology.
+Message frequency may vary depending on your interaction with the Program.
+Standard message and data rates may apply.
+Wireless carriers are not liable for delayed or undelivered messages.
+STOP Command To stop receiving messages, text STOP at any time.
 You will receive a confirmation text confirming you have been unsubscribed.
 After this, you will no longer receive messages from the Program unless you opt back in.
-HELP Command
-For help, text HELP or contact us at [email protected] or (231) 852-0433.
+HELP Command For help, text HELP or contact us at [email protected] or (231) 852-0433.
 You will receive instructions on how to use the service.
+DONATE TODAY Copyright © # | Paid for by Kimberly Cole for Senate, 6065 W.
+Trails End Rd., Ludington, MI 49431 Privacy Policy | Terms and Conditions | Press and Media Resources

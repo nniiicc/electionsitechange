@@ -1,8 +1,5 @@
-Make an Impact Today
-Why Give?
-Make a Difference
-Your donation helps create real, measurable change in the lives of those we serve.
-Be Part of the Solution
-Join a community of people working together to address important issues.
-Inspire Others
-Your generosity can motivate friends, family, and colleagues to do the same.
+0 Skip to Content Libby Shelton for Utah House District 8 Home About Volunteer Donate Media Events Forward Party Contact Open Menu Close Menu Libby Shelton for Utah House District 8 Home About Volunteer Donate Media Events Forward Party Contact Open Menu Close Menu Home About Volunteer Donate Media Events Forward Party Contact Make an Impact Today $#.# $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Why Give?
+Make a Difference Your donation helps create real, measurable change in the lives of those we serve.
+Be Part of the Solution Join a community of people working together to address important issues.
+Inspire Others Your generosity can motivate friends, family, and colleagues to do the same.
+Libby Shelton for Utah Donate Volunteer Location Pleasant View, Utah Contact access@libbyforutah.com (385)288-0822 Made with Squarespace

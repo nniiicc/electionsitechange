@@ -1,66 +1,9 @@
-Meet Linda
-Family
-- A third-generation Japanese-American
-- Has lived in Portsmouth since 1993
-- Married to husband Dr.
+top of page Home Meet Linda Priorities Endorsements Contact News DONATE Meet Linda Family A third-generation Japanese-American Has lived in Portsmouth since 1993 Married to husband Dr.
 J.
-Mark Ryan
-- Three adult children — John, Katie, and Jamie Ryan — all graduates of Portsmouth public schools
-Education & Career
-- Graduated magna cum laude from Harvard College
-- Earned her law degree from NYU School of Law, where she served as an editor of the NYU Review of Law & Social Change and was a member of the Moot Court Board
-- Worked at the law firm Mintz Levin
-- Worked in the U.S.
-EPA Region 1 Office of Regional Counsel
-- Taught legal writing at UC Hastings College of Law
-MORE BELOW
-BACKGROUND
-Portsmouth Town Council member 2016 - 2022
-Watch a 2020 video interview.
-Bernie Sanders Delegate to the 2016 National Democratic Convention
-Executive Committee -
-RI Democratic Women's Caucus
-Founder and Former Chair, RI Healthcare Access & Affordability Partnership (defunct), an affiliate of Physicians for a National Health Program
-Member: Naval Station Newport Restoration Advisory Board
-Past Volunteer:
-Portsmouth and Bristol COVID vaccination clinics
-Portsmouth public schools
-Portsmouth Open Space Committee.
-Member: Portsmouth Historical Society
-As a Town Council member, secured:
-- The first professional analysis of all town properties
-- The first rolling 5-year capital improvement plans
-- Comprehensive Annual Financial Reports that have received multiple Government Finance Officers Association awards
-- Zero-based budgeting that requires all departments to start with a zero budget and annually justify all funding requests
-- During COVID-19, had budgets that remained on schedule, were reduced and created an emergency COVID-19 contingency fund.
-- Portsmouth had the 26th lowest tax rate out of 39 Cities and towns (lowest 33%) and compared to 18 other communities with similar services, Portsmouth had the 14th lowest tax rate (lowest 22%)
-- Maintained most tax rate increases below inflation
-- Helped local small businesses by allocating $50,000 of ARPA funds to develop a buy-local campaign
-- Made changes to zoning ordinances during COVID to allow greater use of outdoor facilities in accordance with the state Commerce RI “take it outside” campaign
-- Kept business tax rate equal to the residential tax rate; when most towns tax businesses at a higher rate
-- An Emergency Management Agency Director
-- A Hazard Mitigation Plan that addresses how to prepare for and respond to natural disasters
-- An updated Comprehensive Plan and updated Town Charter
-- The first annual public meetings to determine the Town Administrator’s priorities (see my memo)
-- RI Department of Transportation safety audits of East Main and West Main roads
-- Passed resolution opposing RIDOT taking money and management power away from the RI Turnpike and Bridge Authority (RITBA) because that would threaten continued proper maintenance of Newport County bridges, including the Mr.
+Mark Ryan Three adult children — John, Katie, and Jamie Ryan — all graduates of Portsmouth public schools Education & Career Graduated magna cum laude from Harvard College Earned her law degree from NYU School of Law, where she served as an editor of the NYU Review of Law & Social Change and was a member of the Moot Court Board Worked at the law firm Mintz Levin Worked in the U.S.
+EPA Region 1 Office of Regional Counsel Taught legal writing at UC Hastings College of Law ​ MORE BELOW BACKGROUND Portsmouth Town Council member 2016 - 2022 Watch a 2020 video interview. ​ ​ Bernie Sanders Delegate to the 2016 National Democratic Convention ​ Executive Committee - RI Democratic Women's Caucus ​ ​ ​ Founder and Former Chair, RI Healthcare Access & Affordability Partnership (defunct), an affiliate of Physicians for a National Health Program ​ Member: Naval Station Newport Restoration Advisory Board Past Volunteer: Portsmouth and Bristol COVID vaccination clinics Portsmouth public schools Portsmouth Open Space Committee. ​ Member: Portsmouth Historical Society ​ ​ ​ As a Town Council member , secured: The first professional analysis of all town properties The first rolling 5-year capital improvement plans Comprehensive Annual Financial Reports that have received multiple Government Finance Officers Association awards Zero-based budgeting that requires all departments to start with a zero budget and annually justify all funding requests During COVID-19, had budgets that remained on schedule, were reduced and created an emergency COVID-19 contingency fund.
+Portsmouth had the 26th lowest tax rate out of 39 Cities and towns (lowest 33%) and compared to 18 other communities with similar services, Portsmouth had the 14th lowest tax rate (lowest 22%) Maintained most tax rate increases below inflation ​ Helped local small businesses by allocating $50,000 of ARPA funds to develop a buy-local campaign Made changes to zoning ordinances during COVID to allow greater use of outdoor facilities in accordance with the state Commerce RI “take it outside” campaign Kept business tax rate equal to the residential tax rate; when most towns tax businesses at a higher rate ​ An Emergency Management Agency Director A Hazard Mitigation Plan that addresses how to prepare for and respond to natural disasters An updated Comprehensive Plan and updated Town Charter The first annual public meetings to determine the Town Administrator’s priorities ( see my memo ) ​ RI Department of Transportation safety audits of East Main and West Main roads Passed resolution opposing RIDOT taking money and management power away from the RI Turnpike and Bridge Authority (RITB A) because that would threaten continued proper maintenance of Newport County bridges, including the Mr.
 Hope Bridge.
-- Initiating a "green and complete streets" ordinance to help ensure that pedestrians, bicyclists, motorists, and public transportation users of all ages and abilities can safely move along and across streets.
-- More aggressive speed control measures by Portsmouth police on East Main and West Main roads
-- Partnerships with community and non-profits to build more community-based climate change resiliency plans (see here)
-- A $339,000 grant from the RI Infrastructure Bank for required climate change resiliency work in Common Fence Point and Island Park
-- A town council request to National Grid to discontinue Old Mill Lane LNG facility use, implement a moratorium on new gas pipeline infrastructure on Aquidneck Island, and to be more transparent
-- A full-time Parks & Recreation Director and expanded program offerings
-- Support for local agricultural businesses and a middle school education program
-- Partnerships with community groups that provide essential services to all residents, including the library and senior center
-- Short-term rental regulations
-- A prohibition on solar farms on residentially zoned properties
-- School Committee and staff cooperative efforts on school safety, capital improvements and vacancy appointment procedures
-- Secured a $75,000 grant to develop a Portsmouth open space and recreation master plan
-- A Town Council process to select state legislative priorities.
-- A partnership with Church Community Housing to build a new Senior Center and affordable senior housing units
-- ARPA federal funds for priority public safety needs that provide long-term benefits
-- A $1.35 million Congressional Directed Spending grant for needed improvements to the Prudence Island water system
-- A cooperative effort with Middletown and Newport to fund an island-wide broadband study
-- A Farm-to-Farm Bike Ride on Middle Road
-- A COVID response that included establishing new procedures for operating town properties, organizing and running a food bank, and helping local businesses
+Initiating a "green and complete streets" ordinance to help ensure that pedestrians, bicyclists, motorists, and public transportation users of all ages and abilities can safely move along and across streets.
+More aggressive speed control measures by Portsmouth police on East Main and West Main roads Partnerships with community and non-profits to build more community-based climate change resiliency plans ( see here ) A $339,000 grant from the RI Infrastructure Bank for required climate change resiliency work in Common Fence Point and Island Park ​ A town council request to National Grid to discontinue Old Mill Lane LNG facility use, implement a moratorium on new gas pipeline infrastructure on Aquidneck Island, and to be more transparent A full-time Parks & Recreation Director and expanded program offerings Support for local agricultural businesses and a middle school education program Partnerships with community groups that provide essential services to all residents, including the library and senior center ​ Short-term rental regulations A prohibition on solar farms on residentially zoned properties School Committee and staff cooperative efforts on school safety, capital improvements and vacancy appointment procedures Secured a $75,000 grant to develop a Portsmouth open space and recreation master plan ​ A Town Council process to select state legislative priorities .
+A partnership with Church Community Housing to build a new Senior Center and affordable senior housing units ARPA federal funds for priority public safety needs that provide long-term benefits A $1.35 million Congressional Directed Spending grant for needed improvements to the Prudence Island water system ​ A cooperative effort with Middletown and Newport to fund an island-wide broadband study A Farm-to-Farm Bike Ride on Middle Road A COVID response that included establishing new procedures for operating town properties, organizing and running a food bank, and helping local businesses ​ 1 Town Council Copyright © # Linda Ujifusa Paid for by Campaign for Linda Ujifusa bottom of page

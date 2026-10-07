@@ -1,8 +1,9 @@
+top of page Home Meet Lauren Why I’m Running What I'm Fighting For Contact DONATE Email Join Us!
+I would like to volunteer!
+Thanks for subscribing!
 A Seat At The Table For All Of Us!
-Why I’m Running
-One of my heroes is the late, great Congresswoman Shirley Chisholm.
-She famously said, “If they don’t give you a seat at the table, bring a folding chair.”
-I ran for State Representative in 2024 to reclaim a seat at the table for the residents of District 146 –– and in my first session, I fought hard to deliver real wins for our community.
+Why I’m Running One of my heroes is the late, great Congresswoman Shirley Chisholm.
+She famously said, “If they don’t give you a seat at the table, bring a folding chair.” I ran for State Representative in 2024 to reclaim a seat at the table for the residents of District 146 –– and in my first session, I fought hard to deliver real wins for our community.
 I was thrilled to be named Freshman of the Year by the House Democratic Caucus.
 My first bill, HB 107, passed.
 This bipartisan bill, a Speaker-designated priority, establishes Texas’s first statewide sickle cell disease registry, a major step toward expanding research, improving care, and saving lives.
@@ -17,9 +18,7 @@ Abbott at the direction of President Trump.
 Today, I am running for a second term to continue working for the people of District 146.
 We have an enormous amount of work to do.
 I would be honored by your support!
-Lauren Ashley Simmons
-Meet Lauren
-Lauren Ashley Simmons is a mom, a union organizer, and our State Representative for Texas House District 146.
+Lauren Ashley Simmons Meet Lauren Lauren Ashley Simmons is a mom, a union organizer, and our State Representative for Texas House District 146.
 Lauren has spent her entire adult life fighting for the people who MAGA Republicans are attacking every day.
 Lauren is fighting to keep our public schools strong by supporting teachers, students, and parents.
 She’s fighting to get health care for people who have to choose between paying for medicine or paying the rent.
@@ -42,10 +41,14 @@ She has been an organizer and fierce advocate for Texas state employees and Hous
 She is a proud CWA member and shop steward.
 Lauren grew up in a family of activists, trailblazers, and justice warriors.
 One of her enslaved ancestors escaped a plantation in Mississippi and walked to Texas to find his wife who had been sold.
-They founded Shankleville, Texas as a Freedmen’s town, one of more than 500 freedom colonies in Texas.
-Lauren’s mom and grandmother were both lifetime members of Delta Sigma Theta Sorority, Inc., and active in the Houston Metropolitan Alumnae Chapter.
+They founded Shankleville, Texas as a Freedmen’s town, one of more than 500 freedom colonies in Texas. ​ Lauren’s mom and grandmother were both lifetime members of Delta Sigma Theta Sorority, Inc., and active in the Houston Metropolitan Alumnae Chapter.
 Continuing the Delta legacy, Lauren is currently serving in the Houston Alumnae Chapter.
 Her mom was a dedicated preschool teacher whose passion for early childhood education led her to mentor preschool teachers, and was active in the letter-writing campaign to free Kemba Smith during the Clinton administration.
 Lauren’s dad helped integrate his high school, including participating in protests and walkouts.
 He is a lifetime member of Omega Psi Phi Fraternity, Inc., and a pillar in the community.
 He coached Little League sports at the YMCA and was a neighborhood father figure to those in need.
+(713) 496-2035 Why I'm Running Meet Lauren C ontact Us First Name Last name ZIP Code Email Your Message I would like to volunteer!
+Join Us!
+Thanks for subscribing!
+Pol. adv.
+Lauren Simmons Campaign bottom of page

@@ -1,5 +1,6 @@
-Conoce a Darren Soto
-Darren Soto fue elegido para el Congreso en el 2016 para representar al Noveno Distrito del Congreso de la Florida, que incluye los condados de Osceola, Orange y Polk.
+Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute En Español Democrat for Congress Apoya a Darren.
+Las familias trabajadoras de Florida merecen a un líder que represente sus valores en el congreso.
+Contribuye Conoce a Darren Soto Darren Soto fue elegido para el Congreso en el 2016 para representar al Noveno Distrito del Congreso de la Florida, que incluye los condados de Osceola, Orange y Polk.
 Darren se enorgullece de ser la primera persona de ascendencia puertorriqueña en servir en el Congreso de la Florida.
 Darren Soto es un abogado, legislador, ambientalista y orgulloso progresista que representa a la gente diversa y trabajadora de la Florida Central en el Congreso.
 Después de graduarse de la facultad de derecho, Darren comenzó a trabajar en Orlando para defender a las personas en las cortes (y tocar música).
@@ -12,3 +13,4 @@ También aprobó una legislación importante para aumentar la preparación para 
 En el Comité de Energía y Comercio, Darren trabajó directamente en muchas secciones de la Ley CARES, el Plan de Rescate Estadounidense y la nueva Ley de Infraestructura.
 Estos esfuerzos fueron fundamentales para ayudarnos a recuperarnos de la pandemia y mejorar la infraestructura de Florida Central en rápido crecimiento para arreglar el tráfico, garantizar aire y agua limpios y proteger nuestra calidad de vida.
 Darren se graduó de la Universidad Rutgers y de la facultad de derecho de la Universidad George Washington.
+Mantente Informado VOLUNTEER Media DONATE Soto for Congress, PO Box 421349, Kissimmee, FL 34742 Phone Number: 407-434-1319 | Privacy Policy PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS © # Darren Soto for Congress.

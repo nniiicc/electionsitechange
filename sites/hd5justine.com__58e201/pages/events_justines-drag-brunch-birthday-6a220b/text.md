@@ -1,12 +1,5 @@
-Back to All Events
-Join us for a lively and unforgettable birthday celebration that doubles as a chance to support a campaign making real impact.
+0 Skip to Content Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Donate Open Menu Close Menu Home Donate Events Issues Volunteer Endorsements Contact Media Merch Store English Back Donate Back to All Events Justine's Drag Brunch Birthday Saturday, May 16, 2026 11:00 AM 1:00 PM Colorado Ticks Club (map) Google Calendar ICS Join us for a lively and unforgettable birthday celebration that doubles as a chance to support a campaign making real impact.
 Enjoy a high-energy drag performance, delicious brunch, and great company as we come together for a fun, feel-good afternoon.
 Bring your friends, raise a glass, and celebrate with purpose.
-Your ticket comes with brunch and a show (don't forget your cash to tip the performers!) and bottomless mimosas are available for a $10 add-on donation.
-Previous
-Previous
-May 14
-Thursday Volunteer Nights
-Next
-Next
-May 21
+Your ticket comes with brunch and a show (don't forget your cash to tip the performers!) and bottomless mimosas are available for a $# add-on donation.
+RSVP and get your tickets here Previous Previous May 14 Thursday Volunteer Nights Next Next May 21 Thursday Volunteer Night Paid by Justine Sandoval for House District 5, Registered Agent Emily Mahoney

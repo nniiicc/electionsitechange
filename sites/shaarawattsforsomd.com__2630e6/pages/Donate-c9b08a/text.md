@@ -1,7 +1,4 @@
-District 29C · Southern Maryland
-info@shaarawattsforsomd.com
-or use our contact form
-Prefer to mail a check?
+Shaara Watts for State Delegate 29C  District 29C · Southern Maryland  info@shaarawattsforsomd.com or use our contact form Home About me Issues Donate Contacts Shaara Watts Democrat for State Delegate District 29C Prefer to mail a check?
 Email info@shaarawattsforsomd.com for instructions.
-Scan to Donate
-or click below
+Scan to Donate or click below Donate!
+Paid for by Shaara Watts for Southern Maryland, TK Watts, Treasurer Get in touch Southern Maryland District 29C Maryland, USA Phone: (410) 610-2577 Email: info@shaarawattsforsomd.com Listed on © # shaarawattsforsomd.com

@@ -1,8 +1,10 @@
-Arizona lawmakers are advancing SB1148, legislation sponsored by Senator Mark Finchem to restore attorney licensing authority to the Arizona Supreme Court.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Arizona Legislature Advances Sen.
+Mark Finchem SB1148 Restoring Attorney Licensing Authority April 17, 2026 Arizona lawmakers are advancing SB1148, legislation sponsored by Senator Mark Finchem to restore attorney licensing authority to the Arizona Supreme Court.
 SB1148 shifts responsibility for licensing and oversight of attorneys away from the State Bar and places it directly under the Arizona Supreme Court, reinforcing the constitutional role of the judiciary in regulating the legal profession.
 The bill ensures that attorney licensing is handled within the branch of government responsible for administering justice, helping maintain clear separation of powers and stronger accountability.
 It also aligns oversight of attorneys with the courts that rely on their work, strengthening professional standards across the legal system.
 The legislation reflects a broader effort to modernize how legal professionals are regulated while ensuring that authority remains where the Arizona Constitution intends it to be.
 Senator Finchem introduced SB1148 to defend constitutional structure, improve transparency, and ensure that the legal profession is held to consistent and enforceable standards.
 The bill cleared a House committee on April 9, continuing its progress through the legislative process.
-Bill information: https://legiscan.com/AZ/bill/SB1148/2026
+Strong advancement: My SB1148 restoring attorney licensing authority to the Arizona Supreme Court just cleared the House Committee – ending the radical left's politicized control over who gets to practice law. https://t.co/janwrqm3TU — Senator Mark Finchem (@RealMarkFinchem) April 9, 2026 Bill information: https://legiscan.com/AZ/bill/SB1148/2026 Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

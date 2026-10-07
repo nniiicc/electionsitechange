@@ -1,17 +1,12 @@
-Sierra Club, California League of Conservation Voters, and LCV Action Fund Endorse Jimmy Gomez for California’s 34th Congressional District
-Los Angeles, CA — Today, the Sierra Club, the California League of Conservation Voters and the League of Conversation Voters (LCV) Action Fund announced their joint endorsement of Jimmy Gomez in the special election for California’s 34th congressional district, scheduled for April 4th.
-“The Sierra Club is proud to endorse Jimmy Gomez to represent the […]
-CA ATTORNEY GENERAL XAVIER BECERRA ENDORSES JIMMY GOMEZ FOR CONGRESS
-Today, California Attorney General Xavier Becerra endorsed Jimmy Gomez in the special election for the 34thCongressional District.
+Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Donate Now Meet Jimmy Bio Progressive Record Supporters On The Issues Photos The Latest Campaign Updates In the News Get Updates Press Releases See All Campaign Updates Events Press Releases In the News See All Campaign Updates Events Press Releases In the News Jimmy Gomez | Press Releases | 03/15/17 Sierra Club, California League of Conservation Voters, and LCV Action Fund Endorse Jimmy Gomez for California’s 34th Congressional District Los Angeles, CA — Today, the Sierra Club, the California League of Conservation Voters and the League of Conversation Voters (LCV) Action Fund announced their joint endorsement of Jimmy Gomez in the special election for California’s 34th congressional district, scheduled for April 4th.
+“The Sierra Club is proud to endorse Jimmy Gomez to represent the […] Read More Jimmy Gomez | Press Releases | 03/04/17 CA ATTORNEY GENERAL XAVIER BECERRA ENDORSES JIMMY GOMEZ FOR CONGRESS Today, California Attorney General Xavier Becerra endorsed Jimmy Gomez in the special election for the 34thCongressional District.
 “Jimmy Gomez will be an outstanding representative for the people I served in Congress,” said Xavier Becerra.
 “We have worked closely together since he became our Assemblyman.
-President Obama cited his Paid Family Leave bill as a national […]
-STONEWALL DEMOCRATS ENDORSE JIMMY GOMEZ FOR CONGRESS
-Today, the Stonewall Democratic Club endorsed Jimmy Gomez for the 34th Congressional District.
+President Obama cited his Paid Family Leave bill as a national […] Read More Jimmy Gomez | Press Releases | 03/01/17 STONEWALL DEMOCRATS ENDORSE JIMMY GOMEZ FOR CONGRESS Today, the Stonewall Democratic Club endorsed Jimmy Gomez for the 34th Congressional District.
 “Jimmy Gomez is a standout champion of LGBTQ rights,” said Jane Wishon, Political Vice President of the Stonewall Democratic Club.
 “As a State Legislator he has gone above and beyond to advance the mission of equality.
-His leadership has lead to major advancements for the LGBTQ […]
-LABOR UNITES BEHIND JIMMY GOMEZ FOR CONGRESS
-Today, the Los Angeles County Federation of Labor, AFL-CIO, representing more than 300 unions and 800,000 workers, endorsed Jimmy Gomez in the special election for the 34th Congressional District.
+His leadership has lead to major advancements for the LGBTQ […] Read More Jimmy Gomez | Press Releases | 02/28/17 LABOR UNITES BEHIND JIMMY GOMEZ FOR CONGRESS Today, the Los Angeles County Federation of Labor, AFL-CIO, representing more than 300 unions and 800,000 workers, endorsed Jimmy Gomez in the special election for the 34th Congressional District.
 In making their announcement, Executive Secretary-Treasurer Rusty Hicks released the following statement: “The Los Angeles County Federation of Labor is proud to support Jimmy Gomez for Congress.
-From his […]
+From his […] Read More 02 03 04 05 A Fighter For Working Families!
+Email ZIP code Stay Up-to-Date Contribute Now! $5 $10 $25 $50 Media Privacy Policy Jimmy Gomez for Congress P.O.
+Box 41018, Los Angeles, CA 90041 213-557-1348 info@jimmygomezforcongress.com Paid for by Jimmy Gomez for Congress Get Involved

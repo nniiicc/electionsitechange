@@ -1,33 +1,134 @@
 [
-"https://angeliaorr.com/",
-"https://angeliaorr.com/about",
-"https://angeliaorr.com/endorsements",
-"https://angeliaorr.com/get-involved",
-"https://angeliaorr.com/governor-89th",
-"https://angeliaorr.com/lege",
-"https://angeliaorr.com/media",
-"https://angeliaorr.com/priorities",
-"https://angeliaorr.com/privacy-policy",
-"https://angeliaorr.com/voting",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB120",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB9",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB4",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB7",
-"https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SJR5",
-"https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=89R&CmteCode=C590",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00002I.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00009I.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00120I.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00002F.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00004E.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00007I.pdf",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SJ00005E.pdf",
-"https://facebook.com/AngeliaOrrForTX",
-"https://house.texas.gov/committees/committee/400",
-"https://house.texas.gov/committees/committee/490",
-"https://secure.winred.com/angelia-orr-campaign-fbd43bbb/donate-today",
-"https://senate.texas.gov/cmte.php?c=700",
-"https://twitter.com/AngeliaOrrForTX"
+{
+"text": "89th Legislature",
+"href": "https://www.angeliaorr.com/lege"
+},
+{
+"text": "About Angelia",
+"href": "https://www.angeliaorr.com/about"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00002I.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00009I.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00120I.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00002F.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00004E.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB00007I.pdf#navpanes=0"
+},
+{
+"text": "Bill Text",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SJ00005E.pdf#navpanes=0"
+},
+{
+"text": "Committee Page",
+"href": "https://capitol.texas.gov/Committees/MembershipCmte.aspx?LegSess=89R&CmteCode=C590"
+},
+{
+"text": "Committee Page",
+"href": "https://house.texas.gov/committees/committee/400"
+},
+{
+"text": "Committee Page",
+"href": "https://house.texas.gov/committees/committee/490"
+},
+{
+"text": "Committee Page",
+"href": "https://senate.texas.gov/cmte.php?c=700"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/angelia-orr-campaign-fbd43bbb/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.angeliaorr.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AngeliaOrrForTX"
+},
+{
+"text": "Get Involved",
+"href": "https://www.angeliaorr.com/get-involved"
+},
+{
+"text": "Governor's Priorities",
+"href": "https://www.angeliaorr.com/governor-89th"
+},
+{
+"text": "Home",
+"href": "https://www.angeliaorr.com"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB120"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB9"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB4"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB7"
+},
+{
+"text": "Legislative Page",
+"href": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SJR5"
+},
+{
+"text": "Media",
+"href": "https://www.angeliaorr.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.angeliaorr.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.angeliaorr.com/privacy-policy"
+},
+{
+"text": "Return To Main Page",
+"href": "https://www.angeliaorr.com/lege"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AngeliaOrrForTX"
+},
+{
+"text": "Voting",
+"href": "https://www.angeliaorr.com/voting"
+},
+{
+"text": "[image: Orr Logos-3 (2).png]",
+"href": "https://www.angeliaorr.com"
+}
 ]

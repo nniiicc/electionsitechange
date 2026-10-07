@@ -1,7 +1,10 @@
-Restoring trust in our government
-Signed in as:
-filler@godaddy.com
-Known by friends and family as “Rus,” James Russell is running for Congress in the upcoming 2026 midterm elections.
+Restoring trust in our government Home About James On the Issues Contact Blog & Media Privacy Policy More Home About James On the Issues Contact Blog & Media Privacy Policy Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About James On the Issues Contact Blog & Media Privacy Policy Account My Account Sign out Sign In My Account Donate now to build a better Arkansas!
+Donate now to build a better Arkansas!
+Donate now to build a better Arkansas!
+Donate now to build a better Arkansas!
+Donate now to build a better Arkansas!
+Donate now to build a better Arkansas!
+About the candidate James Richard "Rus" Rusell, III Known by friends and family as “Rus,” James Russell is running for Congress in the upcoming 2026 midterm elections.
 James and his wife, Wendy, have lived in the greater central Arkansas region for over 25 years and have owned and operated their outpatient mental health business in Little Rock since 2014.
 Born in Bossier City, LA, James spent his youth balancing life between urban Louisiana(Shreveport/Bossier City), where his mother’s family lived, and rural Arkansas (Lewisville), where his father’s family has resided since the 1800s.
 He is a former resident of Magnolia, AR who lived and worked throughout the 4th District, interacting with people from all walks of life.
@@ -23,3 +26,10 @@ James has a longstanding commitment to working with individuals and groups that 
 He is a lifetime member of the Arkansas Democratic Black Caucus and supports various organizations including Arkansas Renters United, Arkansas United, The Prism Foundation, Get Loud Arkansas, and Young Democrats of Arkansas.
 He has also donated school supplies to numerous rural Arkansas students, including the Marshallese community.
 Both James and his wife remain dedicated to assisting those in need through their professional and personal efforts.
+Thank you for supporting us!
+Thank you for supporting us!
+Thank you for supporting us!
+Thank you for supporting us!
+Thank you for supporting us!
+Thank you for supporting us!
+Connect With Us Copyright © # James Russell For Arkansas - All Rights Reserved.

@@ -1,11 +1,46 @@
 [
-"https://facebook.com/CanadyForFlorida",
-"https://instagram.com/canadyforflorida",
-"https://jennifercanady.com/",
-"https://jennifercanady.com/about",
-"https://jennifercanady.com/cart",
-"https://jennifercanady.com/join-the-team",
-"https://jennifercanady.com/platform",
-"https://secure.anedot.com/jennifer-canady-campaign/donate",
-"https://twitter.com/jhcanady"
+{
+"text": "0",
+"href": "https://jennifercanady.com/cart"
+},
+{
+"text": "About",
+"href": "https://jennifercanady.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jennifer-canady-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://jennifercanady.com/"
+},
+{
+"text": "Join The Canady Team",
+"href": "https://jennifercanady.com/join-the-team"
+},
+{
+"text": "Join the team",
+"href": "https://jennifercanady.com/join-the-team"
+},
+{
+"text": "Platform",
+"href": "https://jennifercanady.com/platform"
+},
+{
+"text": "[image: Jennifer Canady]",
+"href": "https://jennifercanady.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jhcanady"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CanadyForFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/canadyforflorida/"
+}
 ]

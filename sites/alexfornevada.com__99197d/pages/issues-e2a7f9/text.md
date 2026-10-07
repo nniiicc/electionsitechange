@@ -1,15 +1,4 @@
-Top Campaign Issues
-- A Fair Economy
-- Healthcare
-- Housing
-- Childcare and Family Life
-- Senior Care
-- Immigration
-- Education
-- Women’s Rights
-- LGBTQIA+ Rights
-- Climate Change
-- Public Safety
-- Veterans
-- Entrepreneurship/Small Business
-- Getting Money Out of Politics
+0 Skip to Content Home About Me Issues Volunteer Community Events Donate Open Menu Close Menu Donate Home About Me Issues Volunteer Community Events Open Menu Close Menu Home About Me Issues Volunteer Community Events Donate Top Campaign Issues A Fair Economy View More Healthcare View More Housing View More Childcare and Family Life View More Senior Care View More Immigration View More Education View More Women’s Rights View more LGBTQIA+ Rights View More Climate Change View More Public Safety View More Veterans View More Entrepreneurship/Small Business View More Getting Money Out of Politics View more Questions?
+Concerns?
+Food Recs?
+Hit me up Email: AlexPereszlenyi@alexfornevada.com My Phone: 702-577-6391 213 North Stephanie Street, Ste G #362 Paid For By Alex For Nevada Donate Privacy Policy

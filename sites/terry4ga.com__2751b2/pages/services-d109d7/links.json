@@ -1,52 +1,226 @@
 [
-"http://georgia.gov/",
-"https://agr.georgia.gov/agribusiness-resources",
-"https://agr.georgia.gov/hurricane-response-helene",
-"https://allen.house.gov/constituent-services/casework/ssa.htm",
-"https://congress.gov/members",
-"https://congress.gov/state-legislature-websites",
-"https://consumer.georgia.gov/",
-"https://dca.georgia.gov/affordable-housing",
-"https://dca.georgia.gov/affordable-housing/home-ownership",
-"https://dch.georgia.gov/divisionsoffices/state-office-rural-health",
-"https://dds.drives.ga.gov/_",
-"https://decal.ga.gov/",
-"https://discover.va.gov/external-resources?_resource_type=state-veterans-affairs-office",
-"https://dor.georgia.gov/taxes/check-my-refund-status",
-"https://facebook.com/terry4ga?rdid=Nzy78QyD1QFatH5r&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18vYcqcQa8%2F",
-"https://gba.georgia.gov/services/public-tours",
-"https://georgia.gov/voting",
-"https://georgia.gov/your-government",
-"https://georgiaarchives.org/research/legislative_intent",
-"https://georgiawildlife.com/hunting/hunter-resources",
-"https://instagram.com/terry4ga",
-"https://irs.gov/businesses/small-businesses-self-employed",
-"https://law.uga.edu/researching-legislative-history-enacted-georgia-statute",
-"https://legis.ga.gov/",
-"https://legis.ga.gov/committees/house",
-"https://legis.ga.gov/house",
-"https://legis.ga.gov/house/page-program",
-"https://legis.ga.gov/legislation/about",
-"https://legis.ga.gov/legislation/all",
-"https://legiscan.com/GA",
-"https://medicare.gov/basics/get-started-with-medicare?s_kwcid=AL%2118036%213%21758110103412%21b%21%21g%21%21medicare+costs+in+retirement&gad_source=1&gad_campaignid=22673763791&gbraid=0AAAAAoc7fQqI0NbhJZH1gDyBEy50cAWk8",
-"https://militaryonesource.mil/",
-"https://mvp.sos.ga.gov/",
-"https://mvp.sos.ga.gov/s",
-"https://pathways.georgia.gov/?gad_source=1&gad_campaignid=21461019250&gbraid=0AAAAAquzdDnFShHRdpcmlD-Jarcr48WIl",
-"https://sba.gov/",
-"https://secure.actblue.com/donate/reelectterry4ga",
-"https://senate.ga.gov/senators/Documents/Maps/Map39.pdf",
-"https://sos.ga.gov/how-to-guide/how-guide-voting",
-"https://sos.ga.gov/voter-resources",
-"https://terry4ga.com/",
-"https://terry4ga.com/about",
-"https://terry4ga.com/cart",
-"https://terry4ga.com/get-involved",
-"https://terry4ga.com/home",
-"https://terry4ga.com/mapgh39",
-"https://terry4ga.com/priorities",
-"https://terry4ga.com/services",
-"https://travel.state.gov/content/travel/en/passports.html",
-"https://veteranscrisisline.net/"
+{
+"text": "(202) 224-3521",
+"href": "tel:2022243521"
+},
+{
+"text": "(202) 224-3643",
+"href": "tel:2022243643"
+},
+{
+"text": "(404) 919-9940",
+"href": "sms:4049199940"
+},
+{
+"text": "0",
+"href": "https://www.terry4ga.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.terry4ga.com/about"
+},
+{
+"text": "Affordable Housing",
+"href": "https://dca.georgia.gov/affordable-housing"
+},
+{
+"text": "Agribusiness Resources",
+"href": "https://www.agr.georgia.gov/agribusiness-resources"
+},
+{
+"text": "Check your state tax refund status",
+"href": "https://dor.georgia.gov/taxes/check-my-refund-status"
+},
+{
+"text": "Consumer Protection Division",
+"href": "https://consumer.georgia.gov/"
+},
+{
+"text": "Department of Early Care & Learning",
+"href": "https://www.decal.ga.gov/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/reelectterry4ga"
+},
+{
+"text": "Driver’s License online services",
+"href": "https://dds.drives.ga.gov/_/"
+},
+{
+"text": "Georgia.gov",
+"href": "http://georgia.gov/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.terry4ga.com/get-involved"
+},
+{
+"text": "Home ownership help",
+"href": "https://dca.georgia.gov/affordable-housing/home-ownership"
+},
+{
+"text": "How your state government works",
+"href": "https://georgia.gov/your-government"
+},
+{
+"text": "Hunting & Fishing Regulations",
+"href": "https://georgiawildlife.com/hunting/hunter-resources"
+},
+{
+"text": "Hurricane Helene Resources",
+"href": "https://www.agr.georgia.gov/hurricane-response-helene"
+},
+{
+"text": "Learn More",
+"href": "https://gba.georgia.gov/services/public-tours"
+},
+{
+"text": "Learn More",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Learn More",
+"href": "https://www.legis.ga.gov/house/page-program"
+},
+{
+"text": "Learn More",
+"href": "https://www.legis.ga.gov/legislation/about"
+},
+{
+"text": "Learn More",
+"href": "https://www.legis.ga.gov/legislation/all"
+},
+{
+"text": "Link to District Map",
+"href": "https://www.senate.ga.gov/senators/Documents/Maps/Map39.pdf"
+},
+{
+"text": "Medicaid GA’s Pathways to Healthcare",
+"href": "https://pathways.georgia.gov/?gad_source=1&gad_campaignid=21461019250&gbraid=0AAAAAquzdDnFShHRdpcmlD-Jarcr48WIl"
+},
+{
+"text": "Medicare",
+"href": "https://www.medicare.gov/basics/get-started-with-medicare?s_kwcid=AL%2118036%213%21758110103412%21b%21%21g%21%21medicare+costs+in+retirement&gad_source=1&gad_campaignid=22673763791&gbraid=0AAAAAoc7fQqI0NbhJZH1gDyBEy50cAWk8"
+},
+{
+"text": "Military OneSource",
+"href": "https://www.militaryonesource.mil/"
+},
+{
+"text": "Passports",
+"href": "https://travel.state.gov/content/travel/en/passports.html"
+},
+{
+"text": "Priorities",
+"href": "https://www.terry4ga.com/priorities"
+},
+{
+"text": "Services",
+"href": "https://www.terry4ga.com/services"
+},
+{
+"text": "Sign Up for Mailing List",
+"href": "https://www.terry4ga.com/get-involved"
+},
+{
+"text": "Small Business & Self-Employed Tax Center",
+"href": "https://www.irs.gov/businesses/small-businesses-self-employed"
+},
+{
+"text": "Small Business Administration",
+"href": "https://www.sba.gov/"
+},
+{
+"text": "Social Security",
+"href": "https://allen.house.gov/constituent-services/casework/ssa.htm"
+},
+{
+"text": "State Office of Rural Health",
+"href": "https://dch.georgia.gov/divisionsoffices/state-office-rural-health"
+},
+{
+"text": "Veterans Affairs",
+"href": "https://discover.va.gov/external-resources/?_resource_type=state-veterans-affairs-office"
+},
+{
+"text": "Veterans Crisis Line",
+"href": "https://www.veteranscrisisline.net/"
+},
+{
+"text": "View Georgia House District 39 Map",
+"href": "https://www.terry4ga.com/mapgh39"
+},
+{
+"text": "View Terry's Record",
+"href": "https://www.terry4ga.com/priorities"
+},
+{
+"text": "[image: Terry Alexis Cummings for Georgia]",
+"href": "https://www.terry4ga.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.terry4ga.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/terry4ga?rdid=Nzy78QyD1QFatH5r&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18vYcqcQa8%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/terry4ga/"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/committees/house"
+},
+{
+"text": "here",
+"href": "https://www.legis.ga.gov/house"
+},
+{
+"text": "https://georgia.gov/voting",
+"href": "https://georgia.gov/voting"
+},
+{
+"text": "https://legiscan.com/GA",
+"href": "https://legiscan.com/GA"
+},
+{
+"text": "https://sos.ga.gov/how-to-guide/how-guide-voting",
+"href": "https://sos.ga.gov/how-to-guide/how-guide-voting"
+},
+{
+"text": "https://sos.ga.gov/voter-resources",
+"href": "https://sos.ga.gov/voter-resources"
+},
+{
+"text": "https://www.congress.gov/state-legislature-websites",
+"href": "https://www.congress.gov/state-legislature-websites"
+},
+{
+"text": "https://www.georgiaarchives.org/research/legislative_intent",
+"href": "https://www.georgiaarchives.org/research/legislative_intent"
+},
+{
+"text": "https://www.law.uga.edu/researching-legislative-history-enacted-georgia-statute",
+"href": "https://www.law.uga.edu/researching-legislative-history-enacted-georgia-statute"
+},
+{
+"text": "https://www.legis.ga.gov",
+"href": "https://www.legis.ga.gov/"
+},
+{
+"text": "https://www.mvp.sos.ga.gov",
+"href": "https://www.mvp.sos.ga.gov/"
+},
+{
+"text": "info@terry4ga.com",
+"href": "mailto:info@terry4ga.com"
+},
+{
+"text": "this link",
+"href": "https://www.congress.gov/members"
+}
 ]

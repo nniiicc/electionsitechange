@@ -1,1 +1,5 @@
-Voting Information Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov. 3rd) ★ Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov. 3rd) ★
+0 Skip to Content About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Folder: Get Involved Back Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Voting Information Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov.
+3rd) ★ Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov.
+3rd) ★ Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov.
+3rd) ★ Lopez for Texas House District 33 About ‍ ‍ Donate ‍ ‍ Privacy Policy E-mail: campaign@lopezfortxhd33.com Office Number: (972) 246-8104 Mailing Address: PO Box 700 Rockwall, TX 75087 Copyright © # Lopez for Texas House District 33 - All Rights Reserved Pol.
+Adv. paid for by Lopez for Texas House District 33

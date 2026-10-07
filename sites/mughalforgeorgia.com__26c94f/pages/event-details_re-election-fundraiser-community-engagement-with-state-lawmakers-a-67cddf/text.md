@@ -1,14 +1,3 @@
-Home
-Meet Farooq
-Voting Information
-Priorities
-Legislative Wins
-News
-Get Involved
-Events
-Contact
-More
-Sun, Apr 19
-Premier Event Halls
-Apr 19, 2026, 6:00 PM – 9:00 PM
-Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Sun, Apr 19 | Premier Event Halls Re-election Fundraiser & Community Engagement with State Lawmakers and Governor Candidates Registration is closed See other events Time & Location Apr 19, 2026, 6:00 PM – 9:00 PM Premier Event Halls, 3520 Breckinridge Blvd #106, Duluth, GA 30096, USA Guests + 63 other guests About the event Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

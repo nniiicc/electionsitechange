@@ -1,22 +1,8 @@
-news
-Doug Ricks In the News
-Recent News Articles
-Posts
-D34 Newsletter Week 2
-Dear Friends, Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
-Chris told the Governor about some of his
-D34 Newsletter Week 1
-Dear Friends, I am humbled and honored to serve as your Idaho State Senator for District 34.
-The 2021 Legislative Session has begun and right out of the gate we
-Idaho’s 66th Legislative Session
-Idaho’s 66th Legislative Session convened today.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute news Doug Ricks In the News Recent News Articles Senate to introduce new Wrongful Conviction Act, Little in support Eastern Idaho legislators lose some key spots but gain others at organizational session Former state Rep.
+Luke Malek gains support after announcing his run for lieutenant governor Man sues Idaho Falls, police over wrongful murder conviction Idaho Legislature getting a little more red after Tuesday's election Facebook Feed Facebook.com/RicksForIdaho Posts Recent Posts D34 Newsletter Week 2 January 27, 2021 No Comments Dear Friends, Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
+Chris told the Governor about some of his Read More » D34 Newsletter Week 1 January 27, 2021 No Comments Dear Friends, I am humbled and honored to serve as your Idaho State Senator for District 34.
+The 2021 Legislative Session has begun and right out of the gate we Read More » Idaho’s 66th Legislative Session January 12, 2021 No Comments Idaho’s 66th Legislative Session convened today.
 After a successful 2-yr term in the House, I am looking forward to serving in the Idaho Senate.
-My three committee assignments are (1)
-Doug Ricks Announcement Press Release
-REXBURG, ID ——— Brigham Young University-Idaho employee and Madison County Republican Party Chairman, Doug Ricks announced his candidacy for Representative of District 34, Seat A against the incumbent Ron Nate
-Doug’s Announcement Speech for Representative Seat 34A
-I stand before you today to announce my candidacy for the Idaho House of Representatives, Legislative District 34, seat A, in the Republican Primary, May 15th, against Ron Nate.
-I am
-In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a
-In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a – the Idaho Wrongful Conviction Act.
-This bill passed both the House and the Senate with only one
+My three committee assignments are (1) Read More » Doug Ricks Announcement Press Release December 21, 2020 No Comments REXBURG, ID ——— Brigham Young University-Idaho employee and Madison County Republican Party Chairman, Doug Ricks announced his candidacy for Representative of District 34, Seat A against the incumbent Ron Nate Read More » Doug’s Announcement Speech for Representative Seat 34A December 21, 2020 No Comments I stand before you today to announce my candidacy for the Idaho House of Representatives, Legislative District 34, seat A, in the Republican Primary, May 15th, against Ron Nate.
+I am Read More » In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a December 21, 2020 No Comments In an unanticipated move yesterday, Governor Little vetoed my House Bill 384a – the Idaho Wrongful Conviction Act.
+This bill passed both the House and the Senate with only one Read More » Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

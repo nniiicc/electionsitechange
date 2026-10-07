@@ -1,22 +1,3 @@
-top of page
-Join the movement
-Community Resources
-Human services that connects residents to resources that support a healthy and successful life.
-Feeding the Hungry
-Back to School Bash
-Back to School Bash
-Back to School Bash
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Pointe South Clean Up & BBQ
-Cinco Day
-Municipal meetings
-bottom of page
+top of page Donate Representative Eric Bell GEORGIA HOUSE DISTRICT 75 Donate HOME HELP BLOG MEET ERIC PLATFORM More Use tab to navigate through the menu items.
+Join the movement CLICK HERE TO JOIN THE WINNING TEAM Community Resources Human services that connects residents to resources that support a healthy and successful life.
+CLICK FOR RESOURCES FOR CLAYTON COUNTY Feeding the Hungry press to zoom Back to School Bash press to zoom Back to School Bash press to zoom Back to School Bash press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Pointe South Clean Up & BBQ press to zoom Cinco Day press to zoom Show More Municipal meetings bottom of page

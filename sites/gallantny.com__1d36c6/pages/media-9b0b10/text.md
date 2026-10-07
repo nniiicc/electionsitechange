@@ -1,31 +1,5 @@
-In The News
-Interviews
-9 Videos
-The Lead With Jake Tapper Chris Gallant CNN
-8:02
-News 12 Power in Politics Post Primary Interview
-11:00
-Chris Gallant News 12-- Morning of Primary
-2:18
-Chris Gallant MSNBC - Air Traffic Controller Shortage Government Shutdown
-5:02
-CNN
-1:37
-CNN
-0:45
-CNN
-1:40
-News Nation
-4:13
-Political Playlist
-41:16
-NY-1 ON THE MAP: CHRIS GALLANT ADDED TO DCCC’S HIGHLY COMPETITIVE DISTRICTS IN PLAY PROGRAM
-- August 5, 2026
-Chris Gallant Advances To November After New York Congressional Primary – B Gay Magazine
-- June 27, 2026
-Instinct Magazine – Chris Gallant: The Gay Military Vet Who’s Ready to Serve in Congress
-- August 8, 2025
-Politico- Black Hawk pilot launches challenge to battleground House Republican Nick LaLota
-- August 5, 2025
-National Guard- NY National Guard Soldier beats COVID-19 and joins the fight
-- April 25, 2020
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate In The News Interviews 9 Videos The Lead With Jake Tapper Chris Gallant CNN 8:02 News 12 Power in Politics Post Primary Interview 11:00 Chris Gallant News 12-- Morning of Primary 2:18 Chris Gallant MSNBC - Air Traffic Controller Shortage Government Shutdown 5:02 CNN 1:37 CNN 0:45 CNN 1:40 News Nation 4:13 Political Playlist 41:16 Dems Deem First District ‘in Play,’ Boosting Gallant August 26, 2026 Read More → NY-1 ON THE MAP: CHRIS GALLANT ADDED TO DCCC’S HIGHLY COMPETITIVE DISTRICTS IN PLAY PROGRAM August 5, 2026 Read More → Out Veteran Chris Gallant Wins New York Primaries – Instinct Magazine June 30, 2026 Read More → Gallant Will Face LaLota in November – East Hampton Star June 30, 2026 Read More → Chris Gallant Wins NY-01 Democratic Primary- The East Hampton Press June 30, 2026 Read More → Gallant wins big in NY-01 Democratic primary- Riverhead Local June 28, 2026 Read More → Chris Gallant Advances To November After New York Congressional Primary – B Gay Magazine June 27, 2026 Read More → East End Beacon- Congress 2026: Chris Gallant On Service To This Country May 15, 2026 Read More → The East Hampton Star- Dems Turn to a New Face for CD-1 January 15, 2026 Read More → Instinct Magazine – Chris Gallant: The Gay Military Vet Who’s Ready to Serve in Congress August 8, 2025 Read More → Politico- Black Hawk pilot launches challenge to battleground House Republican Nick LaLota August 5, 2025 Read More → National Guard- NY National Guard Soldier beats COVID-19 and joins the fight April 25, 2020 Read More → This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

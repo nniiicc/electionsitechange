@@ -1,16 +1,5 @@
-Home
-Meet Farooq
-Voting Information
-Priorities
-Legislative Wins
-News
-Get Involved
-Events
-Contact
-More
-Sat, Apr 20
-Collins Hill Library
-Apr 20, 2024, 10:00 AM – 2:00 PM
-Collins Hill Library, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA
-We are launching our first big canvass in Lawrenceville for the May primary.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Sat, Apr 20 | Collins Hill Library Canvass Launch Registration is closed See other events Time & Location Apr 20, 2024, 10:00 AM – 2:00 PM Collins Hill Library, 455 Camp Perrin Rd NE, Lawrenceville, GA 30043, USA About the event We are launching our first big canvass in Lawrenceville for the May primary.
 Come and meet fellow supporters of Represenative Mughal!
+Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

@@ -1,5 +1,4 @@
-Meet Dana | Acerca de Dana
-Dana Levenberg was first elected to represent the 95th Assembly District of New York in 2022.
+Skip to content Meet Dana On the Issues Sobre los temas Volunteer Endorsements Email Sign-Up Donate Menu Meet Dana On the Issues Sobre los temas Volunteer Endorsements Email Sign-Up Donate Meet Dana | Acerca de Dana Dana Levenberg was first elected to represent the 95th Assembly District of New York in 2022.
 The district is composed of communities in northern Westchester and western Putnam counties, encompassing the towns of Ossining, Cortlandt, Philipstown and their villages; the City of Peekskill; and portions of Yorktown.
 In the Assembly, Dana serves on the Environmental Conservation, Housing, Corrections, Libraries and Education Technology, and Local Governments committees.
 Dana’s experience, tireless energy, and strong connections throughout the region are the foundations for her success as a legislator.
@@ -29,3 +28,4 @@ En la Asamblea Estatal, Dana se ha consolidado como una legisladora receptiva, p
 Ha entregado resultados en prioridades locales claves, como la reparación de carreteras estatales y el alivio fiscal para la clase media, además de millones en fondos de subvenciones para nuestros municipios y organizaciones sin fines de lucro.
 El liderazgo de Dana se destaca por un espíritu colaborativo y enfoques innovadores para la resolución de problemas.
 Continuará poniendo a trabajar su actitud positiva y está decidida a hacer que el Distrito 95 de la Asamblea sea más ecológico, más justo y más próspero para todos.
+Join Dana on Social Media Facebook-f Twitter Instagram dana@danaforassembly.com Privacy Policy

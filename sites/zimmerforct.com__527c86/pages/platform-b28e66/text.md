@@ -1,6 +1,5 @@
 Get your lawn sign!
-CLICK HERE
-Stop Trump.
+CLICK HERE Updates Campaign News Videos In the Press Platform Events Contact Updates Campaign News Videos In the Press Platform Events Contact Your Page Header Title Platform Stop Trump.
 Donald Trump is destroying our country and moving us closer and closer towards dictatorship.
 His policies have raised costs for Connecticut families through tariffs, threatened healthcare coverage for over 100,000 residents, cut food and safety net programs, weakened environmental protections, and blocked clean energy jobs that would power hundreds of thousands of homes.
 From the blatant corruption and self-enrichment of himself and his family through the presidency, to ICE disappearing innocent immigrants and murdering U.S. citizens, to a reckless war of vanity and distraction in Iran, Donald Trump poses an existential threat to our way of life.
@@ -34,3 +33,4 @@ Lower costs for CT families.
 Lowering costs for Connecticut families is about more than just taxes and energy bills.
 It's everything - housing, healthcare, childcare, groceries, education, and more.
 If we’re serious about helping working families get ahead, we have to tackle the whole picture, not just two line items on a family budget.
+English Made in Solidarity Tech

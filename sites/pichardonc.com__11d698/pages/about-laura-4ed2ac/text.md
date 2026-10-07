@@ -1,15 +1,12 @@
 Laura Pichardo is the candidate for the NC State Senate District 23, representing Caswell, Person, and Orange Counties.
-Pick Yourself Up and Try, Try Again
-My story is one of perseverance, opportunity, and gratitude for the people who encouraged me along the way.
+Home Issues Donate About Laura More Home Issues Donate About Laura Home Issues Donate About Laura Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 Laura Pichardo: Candidate for NC State Senate District 23 About Me Early In Life Pick Yourself Up and Try, Try Again My story is one of perseverance, opportunity, and gratitude for the people who encouraged me along the way.
 After the 2008 housing crisis, my public-school teachers guided me toward higher education and helped me believe that a better future was possible.
 Their encouragement led me to the University of North Carolina at Greensboro, where I earned my degree.
-After graduation, however, I faced a question familiar to many young adults: “Now, where is the job that will allow me to use my education?”
-I returned to a career counselor at UNCG, who gave me a list of companies that had hired UNCG university graduates.
+After graduation, however, I faced a question familiar to many young adults: “Now, where is the job that will allow me to use my education?” I returned to a career counselor at UNCG, who gave me a list of companies that had hired UNCG university graduates.
 She encouraged me to apply, so I went home and submitted an application to Hanesbrands Inc.
 When I received an interview, I assumed I had applied for a factory position.
 Instead, after following a winding driveway, I arrived at a four-story corporate building.
-I stared at it in amazement and wondered, “Am I at the right place?”
-I introduced myself to the security guard, and soon a woman with blond hair arrived to escort me to my interview.
+I stared at it in amazement and wondered, “Am I at the right place?” I introduced myself to the security guard, and soon a woman with blond hair arrived to escort me to my interview.
 After three rounds of interviews, I was asked why I wanted to work for Hanesbrands.
 My answer came from the heart.
 Generations of my family had worked for Hanesbrands when the company operated factories in North Carolina.
@@ -33,7 +30,7 @@ My journey—from a low-income neighborhood, to UNCG, to a corporate career, and
 It also reminds me that success is rarely a straight path.
 Sometimes, we must pick ourselves up and try, try again.
 With encouragement, determination, and the right opportunities, ordinary people, like Laura Pichardo—your future NC State Senate representative—can accomplish extraordinary things.
-With over nine years of expertise in accounts payable, financial reporting, and tax analysis, I am an accomplished Senior Accounts Payable Analyst, previously with Hanesbrands Inc., a global leader in apparel and consumer goods.
+About Me My background With over nine years of expertise in accounts payable, financial reporting, and tax analysis, I am an accomplished Senior Accounts Payable Analyst, previously with Hanesbrands Inc., a global leader in apparel and consumer goods.
 My role includes delivering critical support to senior management through ad hoc reporting, vendor validation, and maintaining the weekly liability report.
 I also train and mentor team members, ensuring that processes are thoroughly documented and understood.
 As a candidate for office, I understand the importance of effective financial management in promoting transparency and accountability in governance.
@@ -45,7 +42,7 @@ As I prepare to run for the NC State Senate, I am passionate about utilizing tec
 Working in a multinational corporation has taught me that we need to continuously invest back into our own communities.
 We cannot take anything for granted.
 Every day is a gift—an opportunity for us to work together.
-Laura Pichardo, a dedicated Sunday School Catholic teacher, is an active candidate for office, promoting tourism to Caswell and Person Counties.
+My involvement Laura Pichardo, a dedicated Sunday School Catholic teacher, is an active candidate for office, promoting tourism to Caswell and Person Counties.
 As the County Treasurer for the Caswell County Republican Party, she supports local initiatives like the Farmer's Market and town festivals, and she advocates for small businesses to boost economic development in the region while pursuing a seat in the NC State Senate.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Reviews Connect With Us Copyright © # Laura Pichardo for NC State Senate District 23 - All Rights Reserved.
+Powered by Donate

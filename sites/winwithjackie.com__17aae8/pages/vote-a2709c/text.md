@@ -1,46 +1,18 @@
-Make Your Voice Heard
-Your vote is your power.
+Skip to main content Home About Jackie Events Gallery Volunteer Press News Track AIPAT DONATE CONTACT Make Your Voice Heard Your vote is your power.
 Here is everything you need to participate in the 2026 elections in New York's 18th Congressional District.
-Key Election Dates
-Primary Election
-June 23, 2026
-Early Voting
-Oct 24 - Nov 1, 2026
-General Election
-November 3, 2026
-Register to Vote
-Registering to vote in New York is simple.
+Key Election Dates Primary Election June 23, 2026 Early Voting Oct 24 - Nov 1, 2026 General Election November 3, 2026 Register to Vote Registering to vote in New York is simple.
 Choose the option that works best for you.
-Check Your Registration
-Already registered?
+Check Your Registration Already registered?
 Verify your status and confirm your polling place is up to date.
-Voter Lookup
-Register Online
-If you have a NY DMV ID, you can register online through the NY DMV portal in just a few minutes.
-Register Online
-Register by Mail
-Download the voter registration form, complete it, and mail it to your county Board of Elections.
-Must be postmarked 25 days before the election.
-Download Form
-Early Voting
-Early voting is available to all registered voters in New York.
+Voter Lookup Register Online If you have a NY DMV ID, you can register online through the NY DMV portal in just a few minutes.
+Register Online Register by Mail Download the voter registration form, complete it, and mail it to your county Board of Elections.
+Must be postmarked # days before the election.
+Download Form Early Voting Early voting is available to all registered voters in New York.
 Dates and locations vary by county.
 Check your county Board of Elections for specific hours and locations.
-Early Voting Dates
-October 24 through November 1, 2026
-Early Voting Locations by County
-Ulster County
-Locations to be announced
-Dutchess County
-Locations to be announced
-Orange County
-Locations to be announced
-Find Your Polling Place
-Not sure where to vote?
+Early Voting Dates October 24 through November 1, 2026 Early Voting Locations by County Ulster County Locations to be announced Dutchess County Locations to be announced Orange County Locations to be announced Find Your Polling Place Not sure where to vote?
 Use the New York State Board of Elections lookup tool to find your assigned polling location.
-Find Your Polling Place
-Voter FAQ
-How do I check if I am registered to vote in New York?
+Find Your Polling Place Voter FAQ How do I check if I am registered to vote in New York?
 Visit the New York State Board of Elections Voter Lookup tool at voterlookup.elections.ny.gov.
 You will need your name, date of birth, and county of residence to check your registration status.
 Can I vote early in New York?
@@ -60,3 +32,6 @@ What congressional district am I in?
 New York's 18th Congressional District covers portions of the Hudson Valley, including parts of Ulster, Dutchess, and Orange counties.
 If you live in communities like Kingston, Poughkeepsie, Beacon, Newburgh, or Middletown, you are likely in NY-18.
 Use the NY Board of Elections lookup tool to confirm your district.
+Campaign About Jackie Gallery Press News Get Involved Events Volunteer Donate Resources Vote Contact Track AIPAT Privacy Policy Stay Updated Get the latest news from the campaign.
+Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress.
+All rights reserved.

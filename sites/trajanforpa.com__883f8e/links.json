@@ -1,17 +1,102 @@
 [
-"http://facebook.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"https://andymuth.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLScLcJtLtIuYSeHRex3iqv-lrgZJDU3X62HBotzA2w2D5qpyrw/viewform",
-"https://instagram.com/trajanforpahouse",
-"https://secure.actblue.com/donate/trajanforpahouse",
-"https://secure.actblue.com/donate/trajanforpahouse?amount=10",
-"https://secure.actblue.com/donate/trajanforpahouse?amount=100",
-"https://secure.actblue.com/donate/trajanforpahouse?amount=25",
-"https://secure.actblue.com/donate/trajanforpahouse?amount=250",
-"https://secure.actblue.com/donate/trajanforpahouse?amount=50",
-"https://trajanforpa.com/",
-"https://trajanforpa.com/cart",
-"https://vote.pa.gov/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=100"
+},
+{
+"text": "$100Event Host",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=100"
+},
+{
+"text": "$10Yard Sign",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=250"
+},
+{
+"text": "$25Door Hangers",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=50"
+},
+{
+"text": "$50Most Popular",
+"href": "https://secure.actblue.com/donate/trajanforpahouse?amount=50"
+},
+{
+"text": "(717) 787-8724",
+"href": "tel:+17177878724"
+},
+{
+"text": "(724) 717-3899",
+"href": "tel:+17247173899"
+},
+{
+"text": "Call (724) 357-0151",
+"href": "tel:+17243570151"
+},
+{
+"text": "Contact Us",
+"href": "mailto:trajanforpahouse@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/trajanforpahouse"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/trajanforpahouse"
+},
+{
+"text": "OtherCustom",
+"href": "https://secure.actblue.com/donate/trajanforpahouse"
+},
+{
+"text": "Sign Up This Weekend",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScLcJtLtIuYSeHRex3iqv-lrgZJDU3X62HBotzA2w2D5qpyrw/viewform"
+},
+{
+"text": "Site by[image: Andy Muth]",
+"href": "https://andymuth.com"
+},
+{
+"text": "Trajanforpahouse@gmail.com",
+"href": "mailto:Trajanforpahouse@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/trajanforpahouse"
+},
+{
+"text": "trajanforpahouse@gmail.com",
+"href": "mailto:trajanforpahouse@gmail.com"
+},
+{
+"text": "vote.pa.gov",
+"href": "https://www.vote.pa.gov"
+}
 ]

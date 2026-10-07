@@ -1,9 +1,46 @@
 [
-"https://elliscountytx.gov/DocumentCenter/View/22465/EDLocations-2026-Prim",
-"https://google.com/maps/d/u/0/viewer?mid=1S2jQS6b9hVXGs04211ExtHOyxtXUwso&ll=32.379132394261916%2C-96.75004696617418&z=10",
-"https://secure.winred.com/texans-for-brian-harrison/donate-website",
-"https://texansforbrianharrison.com/",
-"https://texansforbrianharrison.com/electionday",
-"https://texansforbrianharrison.com/privacypolicy",
-"https://texansforbrianharrison.com/termsandconditions"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/texans-for-brian-harrison/donate-website"
+},
+{
+"text": "Election Day",
+"href": "https://www.texansforbrianharrison.com/electionday"
+},
+{
+"text": "Endorsements",
+"href": "https://www.texansforbrianharrison.com"
+},
+{
+"text": "Home",
+"href": "https://www.texansforbrianharrison.com"
+},
+{
+"text": "LOCATIONS MAP",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1S2jQS6b9hVXGs04211ExtHOyxtXUwso&ll=32.379132394261916%2C-96.75004696617418&z=10"
+},
+{
+"text": "Meet Brian",
+"href": "https://www.texansforbrianharrison.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.texansforbrianharrison.com/privacypolicy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.texansforbrianharrison.com/termsandconditions"
+},
+{
+"text": "VOTING CENTERS",
+"href": "https://www.elliscountytx.gov/DocumentCenter/View/22465/EDLocations-2026-Prim?bidId="
+},
+{
+"text": "[image: HarrisonLogo-REP_TRUMPWide.png]",
+"href": "https://www.texansforbrianharrison.com"
+},
+{
+"text": "[image: Harrison_Trump_Logo White.png]",
+"href": "https://www.texansforbrianharrison.com"
+}
 ]

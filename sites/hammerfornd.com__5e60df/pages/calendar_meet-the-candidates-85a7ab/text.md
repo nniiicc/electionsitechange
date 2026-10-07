@@ -1,11 +1,5 @@
-Back to All Events
-Concerned Citizens for Responsible Government is sponsoring an evening of discussion and community engagement.
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Back to All Events Meet the Candidates for Governmental Transparency Monday, April 13, 2026 7:00 PM 9:00 PM National Guard Armory Edgeley, ND (map) Google Calendar ICS Concerned Citizens for Responsible Government is sponsoring an evening of discussion and community engagement.
 Topics will include agriculture, energy development, and economic development.
 Both Democratic and Republican statewide candidates have been invited to participate.
-Previous
-Previous
-April 4
-4 Bears Roar Game
-Next
-Next
-April 25
+Previous Previous April 4 4 Bears Roar Game Next Next April 25 Candidate Meet & Greet Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

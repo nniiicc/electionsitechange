@@ -1,12 +1,50 @@
 [
-"http://poliengine.com/",
-"https://brianclose4montana.net/",
-"https://brianclose4montana.net/about",
-"https://brianclose4montana.net/hd-65-district-map",
-"https://brianclose4montana.net/home",
-"https://brianclose4montana.net/issues",
-"https://brianclose4montana.net/volunteer",
-"https://cart/",
-"https://facebook.com/BrianClose4Montana",
-"https://secure.actblue.com/donate/brian-close-for-montana-1"
+{
+"text": "About",
+"href": "https://brianclose4montana.net/about"
+},
+{
+"text": "Contact Us",
+"href": "https://brianclose4montana.net/volunteer"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brian-close-for-montana-1"
+},
+{
+"text": "HD 65 Map",
+"href": "https://brianclose4montana.net/hd-65-district-map"
+},
+{
+"text": "Home",
+"href": "https://brianclose4montana.net/home"
+},
+{
+"text": "Issues",
+"href": "https://brianclose4montana.net/issues"
+},
+{
+"text": "Powered by PoliEngine.com",
+"href": "http://www.poliengine.com"
+},
+{
+"text": "Volunteer",
+"href": "https://brianclose4montana.net/volunteer"
+},
+{
+"text": "[image: Brian Close For Montana]",
+"href": "https://brianclose4montana.net"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrianClose4Montana/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "brianclose4montana@gmail.com",
+"href": "mailto:brianclose4montana@gmail.com"
+}
 ]

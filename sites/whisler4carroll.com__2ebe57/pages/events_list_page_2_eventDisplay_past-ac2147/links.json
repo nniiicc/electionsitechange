@@ -1,32 +1,146 @@
 [
-"https://facebook.com/whisler4carroll",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events+2+-",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events+2+-",
-"https://secure.winred.com/stevewhisler/donate-today",
-"https://technolegs.com/",
-"https://whisler4delegate.com/",
-"https://whisler4delegate.com/about-steve-whisler",
-"https://whisler4delegate.com/endorsements",
-"https://whisler4delegate.com/event/agribreakfast",
-"https://whisler4delegate.com/event/carroll-business-networking-group",
-"https://whisler4delegate.com/event/carroll-republican-victory",
-"https://whisler4delegate.com/event/cleveland-friday-for-boe-fundraiser",
-"https://whisler4delegate.com/event/frederick-county-conservative-club",
-"https://whisler4delegate.com/event/marsha-herbert-for-boe-fundraiser",
-"https://whisler4delegate.com/event/pickle-festival",
-"https://whisler4delegate.com/event/republican-club-of-carroll-county-meeting",
-"https://whisler4delegate.com/event/south-carroll-gop-club-2",
-"https://whisler4delegate.com/event/tri-district-gop-club-meeting",
-"https://whisler4delegate.com/events",
-"https://whisler4delegate.com/events/list",
-"https://whisler4delegate.com/events/list/page/2",
-"https://whisler4delegate.com/events/list/page/2?eventDisplay=past&ical=1",
-"https://whisler4delegate.com/events/list/page/2?eventDisplay=past&outlook-ical=1",
-"https://whisler4delegate.com/events/list/page/3?eventDisplay=past",
-"https://whisler4delegate.com/events/list?eventDisplay=past",
-"https://whisler4delegate.com/events/month",
-"https://whisler4delegate.com/press-and-news",
-"https://whisler4delegate.com/privacy-policy",
-"https://whisler4delegate.com/terms-of-service"
+{
+"text": "#ago",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "410.963.7066",
+"href": "tel:4109637066"
+},
+{
+"text": "AgriBreakfast",
+"href": "https://whisler4delegate.com/event/agribreakfast/"
+},
+{
+"text": "Carroll Business Networking Group",
+"href": "https://whisler4delegate.com/event/carroll-business-networking-group/"
+},
+{
+"text": "Carroll Republican Victory",
+"href": "https://whisler4delegate.com/event/carroll-republican-victory/"
+},
+{
+"text": "Cleveland Friday for BoE Fundraiser",
+"href": "https://whisler4delegate.com/event/cleveland-friday-for-boe-fundraiser/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevewhisler/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://whisler4delegate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://whisler4delegate.com/events/list/page/2/?eventDisplay=past&ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://whisler4delegate.com/events/list/page/2/?eventDisplay=past&outlook-ical=1#038;ical=1"
+},
+{
+"text": "Frederick County Conservative Club",
+"href": "https://whisler4delegate.com/event/frederick-county-conservative-club/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://whisler4delegate.com/"
+},
+{
+"text": "Join Us On Social Media",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "List",
+"href": "https://whisler4delegate.com/events/list/page/2/"
+},
+{
+"text": "Marsha Herbert for BoE Fundraiser",
+"href": "https://whisler4delegate.com/event/marsha-herbert-for-boe-fundraiser/"
+},
+{
+"text": "Month",
+"href": "https://whisler4delegate.com/events/month/"
+},
+{
+"text": "Next Events",
+"href": "https://whisler4delegate.com/events/list/?eventDisplay=past"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events+2+-"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Events+2+-"
+},
+{
+"text": "Pickle Festival",
+"href": "https://whisler4delegate.com/event/pickle-festival/"
+},
+{
+"text": "Press and News",
+"href": "https://whisler4delegate.com/press-and-news/"
+},
+{
+"text": "Previous Events",
+"href": "https://whisler4delegate.com/events/list/page/3/?eventDisplay=past"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whisler4delegate.com/privacy-policy/"
+},
+{
+"text": "Republican Club of Carroll County Meeting",
+"href": "https://whisler4delegate.com/event/republican-club-of-carroll-county-meeting/"
+},
+{
+"text": "South Carroll GOP Club",
+"href": "https://whisler4delegate.com/event/south-carroll-gop-club-2/"
+},
+{
+"text": "Steve",
+"href": "https://whisler4delegate.com/about-steve-whisler/"
+},
+{
+"text": "Terms of Service",
+"href": "https://whisler4delegate.com/terms-of-service/"
+},
+{
+"text": "Tri-District GOP Club Meeting",
+"href": "https://whisler4delegate.com/event/tri-district-gop-club-meeting/"
+},
+{
+"text": "Website Design and Hosting by Technolegs",
+"href": "https://technolegs.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "[tooltip: Next Events]",
+"href": "https://whisler4delegate.com/events/list/?eventDisplay=past"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://whisler4delegate.com/events/list/page/3/?eventDisplay=past"
+},
+{
+"text": "iCalendar",
+"href": "webcal://whisler4delegate.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "steve@Whisler4Carroll.com",
+"href": "mailto:steve@Whisler4Carroll.com"
+}
 ]

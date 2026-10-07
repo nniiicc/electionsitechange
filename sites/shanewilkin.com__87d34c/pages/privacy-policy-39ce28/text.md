@@ -1,8 +1,6 @@
-PRIVACY POLICY
-This Privacy Policy governs the manner in which we, Wilkin for Ohio, collects, uses, maintains and discloses personal information collected from users (each, a “User”) of the websites www.ShaneWilkin.com and all other websites owned and operated by Wilkin for Ohio (collectively, the “Site”).
+0 Skip to Content Home About Contact Us Donate Open Menu Close Menu Home About Contact Us Donate Open Menu Close Menu Home About Contact Us Donate PRIVACY POLICY This Privacy Policy governs the manner in which we, Wilkin for Ohio, collects, uses, maintains and discloses personal information collected from users (each, a “User”) of the websites www.ShaneWilkin.com and all other websites owned and operated by Wilkin for Ohio (collectively, the “Site”).
 This Privacy Policy applies to the Site and all products and services offered by Wilkin for Ohio by or through the Site.
-PERSONAL IDENTIFICATION INFORMATION
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, subscribe to a newsletter or blog, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.
+PERSONAL IDENTIFICATION INFORMATION We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our Site, register on the Site, subscribe to a newsletter or blog, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.
 Users may be asked for, as appropriate, name, email address, mailing address, phone number, mobile number, credit card information, employer, and occupation.
 Users may, however, visit our Site without submitting such personal information.
 We will collect personal identification information from Users only to the extent such information is voluntarily submitted to us.
@@ -10,52 +8,32 @@ Users can always refuse to supply personally identification information, except 
 Email addresses and phone numbers that are shared with the campaign will not be sold or shared with other parties.
 By sharing your phone number and/or email address, you consent to receive emails, calls, and texts from the campaign.
 You may opt-out at any time.
-NON-PERSONAL IDENTIFICATION INFORMATION
-We may collect non-personal identification information about Users whenever they interact with our Site.
+NON-PERSONAL IDENTIFICATION INFORMATION We may collect non-personal identification information about Users whenever they interact with our Site.
 Non-personal identification information may include the browser name, the type of computer and technical information about Users’ means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-WEB BROWSER COOKIES
-Our Site may use “cookies” to enhance User experience.
-A User’s web browser places cookies on the User’s hard drive for record-keeping purposes and sometimes to track information about that User.
-A User may choose to set their web browser to refuse cookies, or to alert the User when cookies are being sent.
-If they do so, note that some parts of the Site may not function properly.
-HOW WE USE COLLECTED INFORMATION
-Wilkin for Ohio collects and uses Users’ personal information for the following purposes:
-To personalize User experience
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-To improve our Site
-We continually strive to improve our Site offerings based on the information and feedback we receive from you.
-To process transactions and provide services
-We may use the information Users provide about themselves when placing an order to respond to or provide services or products that were ordered.
+WEB BROWSER COOKIES HOW WE USE COLLECTED INFORMATION Wilkin for Ohio collects and uses Users’ personal information for the following purposes: To personalize User experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+To improve our Site We continually strive to improve our Site offerings based on the information and feedback we receive from you.
+To process transactions and provide services We may use the information Users provide about themselves when placing an order to respond to or provide services or products that were ordered.
 We do not share this information with outside parties except to the extent necessary to process payments, respond or provide the service or products.
-To send periodic emails or texts
-If User decides to opt-in to, or not opt-out from, our mailing list, they will receive emails or texts that may include news, updates, requests for donations, related product or service information, etc.
+To send periodic emails or texts If User decides to opt-in to, or not opt-out from, our mailing list, they will receive emails or texts that may include news, updates, requests for donations, related product or service information, etc.
 If at any time the User would like to unsubscribe from receiving future emails or texts, we include unsubscribe instructions at the bottom of each email or the User may contact us via our Site.
-Other uses
-We will share Users’ personal information as required by law or in order to support investigations or reports; prevent or take action regarding illegal or disruptive activities; in response to violations of our rules governing the use of the Site; to protect the safety of any person or property; to protect our rights or property; and for other reasons in our reasonable discretion.
+Other uses We will share Users’ personal information as required by law or in order to support investigations or reports; prevent or take action regarding illegal or disruptive activities; in response to violations of our rules governing the use of the Site; to protect the safety of any person or property; to protect our rights or property; and for other reasons in our reasonable discretion.
 We may also share Users’ personal information with third party service providers who are helping us operate the Site or provide our services and products to you.
-HOW WE PROTECT YOUR INFORMATION
-We adopt, and we use service providers who have adopted, appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+HOW WE PROTECT YOUR INFORMATION We adopt, and we use service providers who have adopted, appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 Sensitive and private data exchanged between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
-SHARING YOUR PERSONAL INFORMATION
-Email addresses and phone numbers that are shared with the campaign will not be sold or shared with other parties.
+SHARING YOUR PERSONAL INFORMATION Email addresses and phone numbers that are shared with the campaign will not be sold or shared with other parties.
 By sharing your phone number and/or email address, you consent to receive emails, calls, and texts from the campaign.
 You may opt-out at any time.
-THIRD PARTY WEBSITES
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.
+THIRD PARTY WEBSITES Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.
 We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
 In addition, these sites or services, including their content and links, may be inaccurate and constantly changing.
 These sites and services may have their own privacy policies and customer service policies.
 Browsing and interacting with any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-CHANGES TO THIS PRIVACY POLICY
-Wilkin for Ohio has the discretion to update this privacy policy at any time.
+CHANGES TO THIS PRIVACY POLICY Wilkin for Ohio has the discretion to update this privacy policy at any time.
 When we do, we will post a notification on the main page of our Site and revise the updated date at the bottom of this page.
 We encourage Users to frequently check this page for any changes to stay informed about how we are handling the personal information we collect.
 You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-YOUR ACCEPTANCE OF THESE TERMS
-By using this Site, you signify your acceptance of this privacy policy.
+YOUR ACCEPTANCE OF THESE TERMS By using this Site, you signify your acceptance of this privacy policy.
 If you do not agree to this policy, you are not permitted to use our Site.
 Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-CONTACTING US
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, including a request to opt-out of our use of your personal information, please contact us at:
-Wilkin for Ohio: info@shanewilkin.com
-Effective Date: May 15, 2024
+CONTACTING US If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, including a request to opt-out of our use of your personal information, please contact us at: Wilkin for Ohio: info@shanewilkin.com Effective Date: May 15, 2024 Privacy Policy PAID FOR BY WILKIN FOR OHIO By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Wilkin for Ohio.
+Msg & data rates may apply.

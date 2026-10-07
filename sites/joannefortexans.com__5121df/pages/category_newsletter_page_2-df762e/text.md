@@ -1,19 +1,22 @@
-by joannefortexans24 | May 9, 2025 | Newsletter
-In this edition, Rep.
+Home Priorities Where is District 11?
+Join Joanne Follow Joanne Representative Reports Invest in Integrity Select Page Legislative Update 6-Milestones and Momentum by joannefortexans24 | May 9, 2025 | Newsletter In this edition, Rep.
 Joanne Shofner shares exciting legislative milestones, including laying out her first bill to improve university accreditation options and introducing a bill to expand pediatric subspecialty training in Texas.
 She also celebrates the SFA Sylvans’...
-by joannefortexans24 | Apr 25, 2025 | Newsletter
-In this update, Rep.
+Legislative Update 5: Defending Medical Freedom and Supporting Texas Educators by joannefortexans24 | Apr 25, 2025 | Newsletter In this update, Rep.
 Joanne Shofner highlights key legislative efforts, including support for medical freedom through HB 3219, honoring community service with HB 4429, and advancing education with the passage of HB 6 and HB 2 — two major wins for Texas teachers,...
-by joannefortexans24 | Apr 11, 2025 | Newsletter
-In this update, Representative Joanne Shofner highlights recent milestones and celebrations across House District 11, including Governor Abbott’s recognition of Nacogdoches as a Tourism Friendly Texas Certified Community and a 60-year anniversary for Shady Acres...
-by joannefortexans24 | Mar 31, 2025 | Newsletter
-In this update, Representative Joanne Shofner shares her recent recognition in the news, including coverage by the Austin American-Statesman, Newsweek, and The Daily Sentinel.
+Legislative Update 4-Celebrating Community and Championing Resolutions by joannefortexans24 | Apr 11, 2025 | Newsletter In this update, Representative Joanne Shofner highlights recent milestones and celebrations across House District 11, including Governor Abbott’s recognition of Nacogdoches as a Tourism Friendly Texas Certified Community and a 60-year anniversary for Shady Acres...
+Legislative Update 3-Leading on the House Floor and Honoring President Trump by joannefortexans24 | Mar 31, 2025 | Newsletter In this update, Representative Joanne Shofner shares her recent recognition in the news, including coverage by the Austin American-Statesman, Newsweek, and The Daily Sentinel.
 From presiding over the Texas House floor to filing a bill to rename I-35 in honor of...
-by joannefortexans24 | Mar 14, 2025 | Newsletter
-In this update, Representative Joanne Shofner highlights recent visits from national leaders including U.S.
+Legislative Update 2- Fighting for Texas Values and School Choice by joannefortexans24 | Mar 14, 2025 | Newsletter In this update, Representative Joanne Shofner highlights recent visits from national leaders including U.S.
 Secretary of Agriculture Brooke Rollins and several congressmen, all united in their support for Texas values.
 She also proudly announces her role as co-author...
-by joannefortexans24 | Feb 28, 2025 | Newsletter
-In her first legislative update, Representative Joanne Shofner shares highlights from her work at the Texas Capitol, including a visit to Fort Cavazos, filing HB 2532 to expand rural healthcare access, and participating in Chamber Days with local leaders.
+Legislative Update 1- Standing Strong for East Texas by joannefortexans24 | Feb 28, 2025 | Newsletter In her first legislative update, Representative Joanne Shofner shares highlights from her work at the Texas Capitol, including a visit to Fort Cavazos, filing HB 2532 to expand rural healthcare access, and participating in Chamber Days with local leaders.
 She also...
+Next Entries » 936-556-0670 638A N.
+University Drive #177 Nacogdoches TX, 75961 Pol.
+Ad.
+Paid for by Joanne Shofner for Texans Follow Follow Follow Joanne Shofner For Texans.
+Privacy Policy .
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,14 +1,50 @@
 [
-"https://1brightstar.com/",
-"https://facebook.com/GwenMooreforCongress",
-"https://gwenmooreforcongress.com/",
-"https://gwenmooreforcongress.com/about-gwen",
-"https://gwenmooreforcongress.com/contact",
-"https://gwenmooreforcongress.com/media",
-"https://gwenmooreforcongress.com/privacy-policy",
-"https://gwenmooreforcongress.com/yard-signs",
-"https://secure.actblue.com/donate/forthegwen",
-"https://secure.ngpvan.com/Bliy8V0X10ymBJ_onMMG_g2",
-"https://secure.ngpvan.com/QPczlT7ilEGagKjOwpycCg2",
-"https://twitter.com/Gwen4Congress"
+{
+"text": "About Gwen",
+"href": "https://gwenmooreforcongress.com/about-gwen/"
+},
+{
+"text": "Contact",
+"href": "https://gwenmooreforcongress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/forthegwen"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/GwenMooreforCongress/"
+},
+{
+"text": "Media",
+"href": "https://gwenmooreforcongress.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gwenmooreforcongress.com/privacy-policy/"
+},
+{
+"text": "Stay connected",
+"href": "https://secure.ngpvan.com/QPczlT7ilEGagKjOwpycCg2"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Gwen4Congress"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/Bliy8V0X10ymBJ_onMMG_g2"
+},
+{
+"text": "Yard Signs",
+"href": "https://gwenmooreforcongress.com/yard-signs/"
+},
+{
+"text": "[image]",
+"href": "https://gwenmooreforcongress.com/"
+},
+{
+"text": "a 1BrightStar Media project",
+"href": "https://1brightstar.com"
+}
 ]

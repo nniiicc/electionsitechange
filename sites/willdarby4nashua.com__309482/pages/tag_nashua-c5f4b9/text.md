@@ -1,5 +1,3 @@
-Letter to Nashua Planning Board Regarding Proposed Asphalt Plant
-The following is the letter I recently wrote to the Nashua Planning Board regarding the serious impacts of a proposed asphalt plant on Temple Street in Nashua.
+Skip to content Will Darby for Nashua Ward 8 State Representative Meet Will On the Issues Blog Acknowledgements and Endorsements Get Involved Donate Facebook Nashua Letter to Nashua Planning Board Regarding Proposed Asphalt Plant December 18, 2022 The following is the letter I recently wrote to the Nashua Planning Board regarding the serious impacts of a proposed asphalt plant on Temple Street in Nashua.
 The main points are the proposal is not permitted by the Nashua City Ordinances because it is incompatible with previously approved housing next door.
-It also must address […]
-Letter to Nashua Planning Board Regarding Proposed Asphalt Plant Read More »
+It also must address […] Letter to Nashua Planning Board Regarding Proposed Asphalt Plant Read More » Paid for by Friends of Will Darby, William Darby, Fiscal Agent 13 Jensen St., Nashua, NH Website Credits

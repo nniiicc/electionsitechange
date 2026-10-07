@@ -1,6 +1,7 @@
-Marty Young
-US Congressional Candidate (PA-06)
-Marty is a fourth-generation Pennsylvanian and a proud graduate of West Chester schools.
+HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM DONATE Built by Service.
+Proven by Results.
+Focused on the Job.
+Marty Young US Congressional Candidate (PA-06) Marty is a fourth-generation Pennsylvanian and a proud graduate of West Chester schools.
 His roots run deep — his great-grandfather helped establish Philadelphia’s Chinatown as one of Pennsylvania’s first Chinese immigrant families, and his mother immigrated from Portugal, taught in Philadelphia public schools, and then at West Chester East and Henderson High Schools as a substitute teacher.
 His father, a chemical engineer at DuPont and Westtown graduate, showed Marty that you work hard, give back, and leave things better for those who come next.
 After earning nominations from Senator John Heinz and Congressman Dick Schulze, Marty attended West Point and graduated in 1993.
@@ -16,3 +17,5 @@ Their family is rooted in faith, service, and a deep commitment to their communi
 Marty has spent his life solving tough problems — leading soldiers, helping companies get back on track, and standing by families through hard times.
 He brings the discipline to cut waste, the experience to grow jobs, and the backbone to stand up for veterans, working families, and taxpayers.
 As both a father and a son of this district, Marty is committed to keeping Chester County a place where families can work, live, and build a future for generations to come.
+Get Involved Button Donate Button PAID FOR BY MARTY YOUNG FOR CONGRESS P.O.
+Box 7 Pocopson, PA 19366-9998 info@voteyoung.com HOME DONATE VOLUNTEER PRIVACY & TERMS Share by:

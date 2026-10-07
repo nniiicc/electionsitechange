@@ -1,9 +1,17 @@
 {
  "description": "Jeff Peckman is running for Governor of Colorado, promoting innovative solutions and unity for a better future.",
  "final_url": "https://jeffpeckman.com/for-colorado-governor",
- "paid_for_by": null,
+ "fingerprint": "38fe978079c97b64b3201ffa307d819c66356fe3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "For Colorado Governor",
  "years_mentioned": [
+  "1993",
+  "1997",
+  "1998",
+  "1999",
+  "2001",
+  "2003",
   "2010",
   "2026"
  ]

@@ -1,7 +1,5 @@
-Dr.
-Donna Carrillo Appointed to Position of Treasurer and
-Campaign Administrator for Kip Capley for Tennessee State Representative, District 71
-Dr.
+ABOUT Treasurer BLOG ENDORSEMENTS ELECTION INFO HARDIN COUNTY WAYNE COUNTY LAWRENCE COUNTY MAURY COUNTY VOLUNTEER CONTACT Select Page Dr.
+Donna Carrillo Appointed to Position of Treasurer and Campaign Administrator for Kip Capley for Tennessee State Representative, District 71 Dr.
 Carrillo was born and raised in Lawrence County Tennessee.
 She is married to retired CSM J.
 Carrillo and resides in the Northern end of Lawrence County.
@@ -21,7 +19,7 @@ Carrillo is a member of the Mars Hill Baptist Church and currently attends Unity
 Dr.
 Carrillo has the advantage of being a “small town” girl from Lawrence County, Tennessee but has traveled extensively around the world and worked abroad.
 Her experience and education provide her the foresight to see the local venue as well as preparation necessary for the challenges and demands of working on a state level, political campaign.
-She has recently retired and is able to devote her time to serving the people of the 71st District.
-P.O BOX 461
-SUMMERTOWN, TN 38483
-PHONE: (931) 922-1143
+She has recently retired and is able to devote her time to serving the people of the 71 st District.
+P.O BOX 461 SUMMERTOWN, TN 38483 PHONE: (931) 922-1143 FOR GENERAL INQUIRIES OR TO VOLUNTEER...
+PLEASE FILL OUT THE FORM BELOW Name Email Address City Zip Code County Message SEND Facebook Instagram YT Paid for by Kip Capley for Tennessee State Representative, Dr.
+Donna Carrillo, Treasurer | Guided by Navigation Advertising

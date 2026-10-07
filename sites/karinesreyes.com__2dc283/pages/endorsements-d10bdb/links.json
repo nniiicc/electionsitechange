@@ -1,15 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/KarinesReyesRN",
-"https://instagram.com/KarinesReyesRN",
-"https://karinesreyes.com/",
-"https://karinesreyes.com/Priorities",
-"https://karinesreyes.com/about",
-"https://karinesreyes.com/accomplishments",
-"https://karinesreyes.com/contact",
-"https://karinesreyes.com/privacy-policy",
-"https://karinesreyes.com/terms-and-conditions",
-"https://karinesreyes.com/volunteer",
-"https://secure.actblue.com/donate/karines-reyes-1",
-"https://x.com/KarinesReyesNYC"
+{
+"text": "About",
+"href": "https://www.karinesreyes.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.karinesreyes.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.karinesreyes.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/karines-reyes-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.karinesreyes.com/Priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.karinesreyes.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.karinesreyes.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.karinesreyes.com/volunteer"
+},
+{
+"text": "[image: Karines Reyes for Assembly logo]",
+"href": "https://www.karinesreyes.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.karinesreyes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/KarinesReyesRN"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/KarinesReyesRN"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KarinesReyesNYC"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Volunteer, send a media request, or reach the Peter Crosby for Congress campaign with a general question.",
  "final_url": "https://petercrosbyforcongress.org/contact",
+ "fingerprint": "721bbf081f17d49fca55ff7e7c9a9f94a5ecf046",
+ "format": 3,
  "paid_for_by": "Paid for by Peter Crosby for Congress",
- "title": "Contact Us \u2014 Peter Crosby for Congress",
- "years_mentioned": []
+ "title": "Contact Us — Peter Crosby for Congress",
+ "years_mentioned": [
+  "2026"
+ ]
 }

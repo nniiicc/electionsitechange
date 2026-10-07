@@ -1,4 +1,5 @@
-My name is Andrea Biscardi; I am a wife, a mother, a registered nurse, and a case manager, and I want to be your representative for Oklahoma House District 9.
+Skip navigation menu Home About Issues Get Involved Donate Your candidate for Hd 9 Andrea Biscardi Home About Issues Get Involved Donate Your candidate for Hd 9 Andrea Biscardi I'm ready to advocate for ALL of our neighbors!
+Andrea in an ambulance My name is Andrea Biscardi; I am a wife, a mother, a registered nurse, and a case manager, and I want to be your representative for Oklahoma House District 9.
 I have been serving the residents of Green Country as a Registered Nurse for over 13 years.
 With each new role, I have sought out opportunities to learn and develop my skills to help the community, both through nursing care and advocacy.
 I was born in Tulsa, but my family moved to Manchester, New Hampshire when I was young, there my father was a Radio DJ and my mother an accountant.
@@ -11,4 +12,6 @@ John Medical Center, Tulsa Nursing Center, and currently at Family and Childrenâ
 My husband, Fred, is a brilliant chef and pyrotechnician, and weâ€™ve been married for over 12 years.
 Our daughter, Willow, is 10 years old and starting 6th grade at Owasso Public Schools in the fall.
 I believe my experience working within the community and hands-on experience with government services would make me an excellent advocate for the people of House District 9.
-"Taking care of Oklahoma means taking care of each other."
+"Taking care of Oklahoma means taking care of each other." Andrea Biscardi Ways to Donate Privacy Policy Taking care of Oklahoma means taking care of each other.
+Contact Us: biscardi4ok@gmail.com Powered by RUN! website builder PAID FOR AND AUTHORIZED BY Biscardi for Oklahoma 2026.
+You need to enable JavaScript to run this app.

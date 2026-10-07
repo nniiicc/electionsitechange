@@ -1,10 +1,66 @@
 [
-"https://kerry4iowa.com/",
-"https://kerry4iowa.com/about",
-"https://kerry4iowa.com/contact-1",
-"https://kerry4iowa.com/district-41-map",
-"https://kerry4iowa.com/gallery",
-"https://kerry4iowa.com/issues",
-"https://kerry4iowa.com/privacy-policy",
-"https://secure.winred.com/kerry-gruenhagen-for-iowa-senate/donate"
+{
+"text": "About",
+"href": "https://www.kerry4iowa.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.kerry4iowa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "Contact",
+"href": "https://www.kerry4iowa.com/contact-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/kerry-gruenhagen-for-iowa-senate/donate"
+},
+{
+"text": "District 41 Map",
+"href": "https://www.kerry4iowa.com/district-41-map"
+},
+{
+"text": "Gallery",
+"href": "https://www.kerry4iowa.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kerry4iowa.com/contact-1"
+},
+{
+"text": "Home",
+"href": "https://www.kerry4iowa.com/privacy-policy"
+},
+{
+"text": "IOWA SENATE",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kerry4iowa.com/issues"
+},
+{
+"text": "Kerry Gruenhagen",
+"href": "https://www.kerry4iowa.com"
+},
+{
+"text": "https://www.kerry4iowa.com/privacy-policy",
+"href": "https://www.kerry4iowa.com/privacy-policy"
+},
+{
+"text": "info@kerry4iowa.com",
+"href": "mailto:info@kerry4iowa.com"
+},
+{
+"text": "info@noreply.com",
+"href": "mailto:info@noreply.com"
+},
+{
+"text": "kerry4iowa@gmail.com",
+"href": "mailto:kerry4iowa@gmail.com"
+}
 ]

@@ -1,8 +1,6 @@
-vtdigger.org: Ian Goodnow candidate profile
-During my time on the Brattleboro Selectboard, I saw immense strength and flexibility in the people of Brattleboro.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate vtdigger.org: Ian Goodnow candidate profile Ian Goodnow for State Representative on July 26, 2024 During my time on the Brattleboro Selectboard, I saw immense strength and flexibility in the people of Brattleboro.
 But I also saw the many challenges faced daily by our town and became intimately aware of the limitations of our municipal government to solve them.
 We need to better connect our municipal efforts with the work being done in Montpelier so that the residents of Brattleboro are better served.
 I want to bring that experience to this role as Representative.
 I believe I have the passion, energy, and experience to be a worthy representative of Windham District 9.
-I am grateful to our outgoing Representative, Tristan Toleno, for seeing this in me and for his guidance and endorsement.
-vtdigger.org
+I am grateful to our outgoing Representative, Tristan Toleno, for seeing this in me and for his guidance and endorsement. vtdigger.org Read the full story Category: In the News Post navigation Previous: Previous post: Daniel Quipp: Ian will fight for Brattleboro Next: Next post: Tim Shafer and Deb Luskin: Vote Ian Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

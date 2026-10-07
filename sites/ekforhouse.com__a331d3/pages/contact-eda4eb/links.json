@@ -1,17 +1,70 @@
 [
-"https://ekforhouse.com/about",
-"https://ekforhouse.com/contact",
-"https://ekforhouse.com/donate",
-"https://ekforhouse.com/gallery",
-"https://ekforhouse.com/home",
-"https://ekforhouse.com/issues",
-"https://ekforhouse.com/jobs",
-"https://ekforhouse.com/privacy-policy",
-"https://ekforhouse.com/radio-ads%2Ftranscripts",
-"https://ekforhouse.com/sms-terms-and-conditions",
-"https://facebook.com/profile.php?id=61558472410345",
-"https://instagram.com/ekforhouse",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/ek-for-house/donate-today"
+{
+"text": "About",
+"href": "https://ekforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://ekforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/ek-for-house/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://ekforhouse.com/donate"
+},
+{
+"text": "Gallery",
+"href": "https://ekforhouse.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://ekforhouse.com/home"
+},
+{
+"text": "Issues",
+"href": "https://ekforhouse.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://ekforhouse.com/jobs"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ekforhouse.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Radio Ads/Transcripts",
+"href": "https://ekforhouse.com/radio-ads%2Ftranscripts"
+},
+{
+"text": "SMS Terms and Conditions",
+"href": "https://ekforhouse.com/sms-terms-and-conditions"
+},
+{
+"text": "Sue@EkforHouse.com",
+"href": "mailto:Sue@EkforHouse.com"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://ekforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61558472410345"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ekforhouse/"
+}
 ]

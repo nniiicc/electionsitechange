@@ -1,4 +1,5 @@
-The Washington State Labor Council, AFL-CIO is the largest labor organization in Washington, representing more than 650 local unions and 600,000 working people statewide.
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box Endorsements The Washington State Labor Council, AFL-CIO is the largest labor organization in Washington, representing more than 650 local unions and 600,000 working people statewide.
 The WSLC is the only organization representing all AFL-CIO unions in the state.
 The Washington Education Association is the voice of public educators in Washington — the voice calling for quality public education, reasonable class sizes, and professional pay and respect for those responsible for our children.
 The WEA is the largest representative of public school employees in the state.
@@ -34,3 +35,16 @@ The 25th Legislative District Democrats are the official local party organizatio
 The Pierce County Democrats are comprised of members of the 2nd LD, 25th LD, 25th LD, 27th LD, 28th LD, 29th LD, 31st LD, and the Pierce County Young Democrats.
 If you would like to support David in his run to become our next State Representative, please complete our endorsement form.
 Supporters and their statements will be added here, and additional submissions are always welcome!
+Submit Your Endorsement Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Company/Organization Please only add your Company or Organization if you are authorized to offer an endorsement on their behalf.
+Job Title or Description How would you like to be described?
+For example: Educator, Administrator, Principal, Teacher, Parent, Student, Community Member or Something Else?
+Why do you believe David should be elected to the Washington State Legislature?
+Please share why you are endorsing David Berg for State Representative.
+Entries are limited to 500 words.
+Submissions may be edited for space and formatting purposes before being published.
+May we post your endorsement (or a portion of it) on our website, social media, or elsewhere? * Yes No Submit Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

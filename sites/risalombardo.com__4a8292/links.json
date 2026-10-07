@@ -1,9 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61590422823509",
-"https://risalombardo.com/",
-"https://risalombardo.com/about",
-"https://risalombardo.com/contact",
-"https://risalombardo.com/issues",
-"https://risalombardo.com/privacy-policy-2",
-"https://risalombardo.com/volunteer"
+{
+"text": "About",
+"href": "https://risalombardo.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://risalombardo.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://risalombardo.com/"
+},
+{
+"text": "Issues",
+"href": "https://risalombardo.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://risalombardo.com/privacy-policy-2/"
+},
+{
+"text": "Risa Lombardo For Arizona",
+"href": "https://risalombardo.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://risalombardo.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://risalombardo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590422823509"
+},
+{
+"text": "[no text]",
+"href": "mailto:lombardoforaz@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "tel:520-539-4914"
+}
 ]

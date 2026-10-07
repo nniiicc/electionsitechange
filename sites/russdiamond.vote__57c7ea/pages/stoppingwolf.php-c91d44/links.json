@@ -1,30 +1,122 @@
 [
-"http://russdiamond.vote/ci200429.php",
-"https://abc27.com/news/local/governor-tom-wolf-calls-defiant-politicians-quitters-and-cowards",
-"https://abc27.com/news/local/lebanon/lebanon-countys-legislative-team-responds-to-wolfs-withholding-of-federal-cares-funding",
-"https://apnews.com/article/pennsylvania-health-coronavirus-pandemic-government-and-politics-f5ce447986a26cca310a6639de37b5ce",
-"https://facebook.com/RonaldPrestonHarperJr/videos/242356687075215",
-"https://facebook.com/friendsofrussdiamond",
-"https://facebook.com/friendsofrussdiamond/videos/1356391054756807",
-"https://facebook.com/friendsofrussdiamond/videos/575332410001657",
-"https://facebook.com/repdiamond/reels",
-"https://facebook.com/russdiamond/posts/10222264454456642",
-"https://foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak",
-"https://instagram.com/russdiamond",
-"https://legis.state.pa.us//cfdocs/Legis/CSM/showMemoPublic.cfm?chamber=H&SPick=20190&cosponId=31438",
-"https://legis.state.pa.us/CFDOCS/Legis/HA/Public/HaCheck.cfm?txtType=HTM&sYear=2021&sInd=0&body=H&type=R&bn=0106&pn=1597&aYear=2021&an=01183",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=0836&pn=3910",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=0879&pn=3790",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0106&pn=1753",
-"https://local21news.com/news/local/lebanon-county-officials-tell-gov-wolf-they-will-move-to-yellow-phase-on-may-15",
-"https://pennlive.com/news/2020/05/health-secretary-rachel-levines-removal-of-mom-from-care-home-amid-epidemic-draws-scrutiny.html",
-"https://repdiamond.com/",
-"https://russdiamond.vote/about.php",
-"https://russdiamond.vote/blog.php",
-"https://russdiamond.vote/connect.php",
-"https://russdiamond.vote/contribute.php",
-"https://russdiamond.vote/index.php",
-"https://russdiamond.vote/privacy.php",
-"https://russdiamond.vote/updates.php",
-"https://x.com/russdiamond"
+{
+"text": "About",
+"href": "https://russdiamond.vote/about.php"
+},
+{
+"text": "Blog",
+"href": "https://russdiamond.vote/blog.php"
+},
+{
+"text": "Connect",
+"href": "https://russdiamond.vote/connect.php"
+},
+{
+"text": "Donate",
+"href": "https://russdiamond.vote/contribute.php"
+},
+{
+"text": "Home",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "News",
+"href": "https://russdiamond.vote/updates.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.russdiamond.vote/privacy.php"
+},
+{
+"text": "Wolf's byzantine business waiver program",
+"href": "http://russdiamond.vote/ci200429.php"
+},
+{
+"text": "[image: Click to email my campaign.]",
+"href": "mailto:russdiamond4pa@gmail.com?Subject=Campaign+page+viewer+message"
+},
+{
+"text": "[image: Click to follow Friends of Russ Diamond on Facebook.]",
+"href": "https://www.facebook.com/friendsofrussdiamond"
+},
+{
+"text": "[image: Click to follow me on Instagram.]",
+"href": "https://www.instagram.com/russdiamond"
+},
+{
+"text": "[image: Click to follow me on X (Twitter}.]",
+"href": "https://www.x.com/russdiamond"
+},
+{
+"text": "[image: Click to view videos of Russ.]",
+"href": "https://www.facebook.com/repdiamond/reels/"
+},
+{
+"text": "[image: Click to visit Russ's legislative page.]",
+"href": "https://www.repdiamond.com/"
+},
+{
+"text": "[image: Expreienced, proven leadership. Vote Russ Diamond for State Representative.]",
+"href": "https://russdiamond.vote/index.php"
+},
+{
+"text": "concurrent resolution (HR836)",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=0836&pn=3910"
+},
+{
+"text": "discover and confirm that Secretary of Health Rachel Levine quietly moved her own mother",
+"href": "https://www.facebook.com/RonaldPrestonHarperJr/videos/242356687075215"
+},
+{
+"text": "floor amendment",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/HA/Public/HaCheck.cfm?txtType=HTM&sYear=2021&sInd=0&body=H&type=R&bn=0106&pn=1597&aYear=2021&an=01183"
+},
+{
+"text": "insulting name calling",
+"href": "https://www.abc27.com/news/local/governor-tom-wolf-calls-defiant-politicians-quitters-and-cowards/"
+},
+{
+"text": "local officials in Lebanon County",
+"href": "https://local21news.com/news/local/lebanon-county-officials-tell-gov-wolf-they-will-move-to-yellow-phase-on-may-15"
+},
+{
+"text": "many rallies across the Commonwealth",
+"href": "https://www.facebook.com/friendsofrussdiamond/videos/575332410001657"
+},
+{
+"text": "most often cited legacy",
+"href": "https://www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak"
+},
+{
+"text": "on Day 11 of that disaster emergency",
+"href": "https://www.legis.state.pa.us//cfdocs/Legis/CSM/showMemoPublic.cfm?chamber=H&SPick=20190&cosponId=31438"
+},
+{
+"text": "ordering Pennsylvania's long term care facilities to admit Covid positive patients",
+"href": "https://www.facebook.com/russdiamond/posts/10222264454456642"
+},
+{
+"text": "partial termination resolution (HR106)",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2021&sessInd=0&billBody=H&billTyp=R&billNbr=0106&pn=1753"
+},
+{
+"text": "resolution in the House (HR879) calling for her removal from her post",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=HTM&sessYr=2019&sessInd=0&billBody=H&billTyp=R&billNbr=0879&pn=3790"
+},
+{
+"text": "two constitutional amendments",
+"href": "https://apnews.com/article/pennsylvania-health-coronavirus-pandemic-government-and-politics-f5ce447986a26cca310a6639de37b5ce"
+},
+{
+"text": "videos promoting a 'yes' vote",
+"href": "https://www.facebook.com/friendsofrussdiamond/videos/1356391054756807"
+},
+{
+"text": "which immediately confronted her",
+"href": "https://www.pennlive.com/news/2020/05/health-secretary-rachel-levines-removal-of-mom-from-care-home-amid-epidemic-draws-scrutiny.html"
+},
+{
+"text": "withholding the county's share",
+"href": "https://www.abc27.com/news/local/lebanon/lebanon-countys-legislative-team-responds-to-wolfs-withholding-of-federal-cares-funding/"
+}
 ]

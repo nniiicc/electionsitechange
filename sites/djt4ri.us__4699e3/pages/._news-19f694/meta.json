@@ -1,9 +1,12 @@
 {
  "description": "News items and press releases.",
  "final_url": "https://www.djt4ri.us/news/",
+ "fingerprint": "1eb955c7db0389a3575b6283f5d8121aefcff82d",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Dana James Traversie Built with BoldGrid Powered By DreamHost",
  "title": "News | Dana James Traversie",
  "years_mentioned": [
+  "2022",
   "2026"
  ]
 }

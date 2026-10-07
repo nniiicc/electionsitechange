@@ -1,17 +1,17 @@
-Cumberland County Commissioner Jean Foschi
-Carlisle Mayor Sean Shultz
-Harrisburg City Councilor Lamont Jones
-Harrisburg City Councilor Jocelyn Rawls
-Lower Paxton Township Supervisor Pamela Thompson
-Swatara Township Commissioner Shane Steele
-Swatara Township Commissioner Tom Connolly
-Susquehanna Township Commissioner Fred Faylona
-Former Carlisle Borough Councilor Sean Crampsie
-Millersburg Borough Council President Chris Dietz
-York City School Board President Lisa Kennedy
-Former Mayor of Carlisle Tim Scott
-African American Chamber of Commerce of Central PA President Leland J.
-Nelson
-Democratic Party of York Chair Chad Baker
-Cumberland County Democratic Committee Chair Matt Roan
-Former PA-10 Candidate Mike O’Brien
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Endorsements Leaders & Organizations Supporting Janelle Pennsylvania Leaders Josh Shapiro Governor Austin Davis Lt.
+Governor Patty Kim State Senator Nate Davidson State Representative Justin Fleming State Representative Carol Hill-Evans State Representative Dave Madsen State Representative Cumberland County Commissioner Jean Foschi Carlisle Mayor Sean Shultz Harrisburg City Councilor Lamont Jones Harrisburg City Councilor Jocelyn Rawls Lower Paxton Township Supervisor Pamela Thompson Swatara Township Commissioner Shane Steele Swatara Township Commissioner Tom Connolly Susquehanna Township Commissioner Fred Faylona Former Carlisle Borough Councilor Sean Crampsie Millersburg Borough Council President Chris Dietz York City School Board President Lisa Kennedy Former Mayor of Carlisle Tim Scott African American Chamber of Commerce of Central PA President Leland J.
+Nelson Democratic Party of York Chair Chad Baker Cumberland County Democratic Committee Chair Matt Roan Former PA-10 Candidate Mike O’Brien Republicans for Janelle Former Pennsylvania Attorney General Walter Cohen Central Pennsylvania Business Leader Bob Holmes Retired Firefighter from York County Buck Powden Former Republican Congresswoman Barbara Comstock Former Republican Congressman Denver Riggleman Organizations Supporting Janelle American Federation of Government Employees - Local 2004 United Brotherhood of Carpenters and Joiners of America Pennsylvania Professional Fire Fighters Association United Mine Workers of America International Brotherhood of Electrical Workers - Local 229 Pennsylvania Building & Construction Trades Council Painters and Allied Trades International Union - District Council 21 UFCW Local 1776 Pennsylvania Conference of Teamsters National Education Association United Steelworkers District 10 Pennsylvania Laborers' District Council Central Pennsylvania Trades International Association of Machinists International Union of Operating Engineers Local 542 International Brotherhood of Boilermakers Plumbers and Pipefitters Local 520 TWU Local 234 CWA District 2-13 EMILYs List NewDems Action Fund Elect Democratic Women WELCOME PAC Amalgamated Transit Union Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.
+Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store For more than 30 years Central Pennsylvanians have relied on Janelle to tell the truth, trusted her to shine a light on our problems, and counted on her to get answers and hold the powerful accountable.
+Now, she’s running against Scott Perry to be your champion in Congress.
+Support Janelle’s campaign by making a donation or signing up to volunteer today.
+Volunteer Donate Facebook X-twitter Instagram Contributions can be mailed to: Friends of Janelle Stelson P.O.
+Box 41, Lemoyne, PA 17043 Paid for by Friends of Janelle Stelson Copyright #.
+All Rights Reserved.
+Privacy Policy.
+By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.

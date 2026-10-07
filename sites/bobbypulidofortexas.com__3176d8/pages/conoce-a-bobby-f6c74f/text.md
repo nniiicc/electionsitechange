@@ -1,4 +1,4 @@
-Bobby Pulido nació y creció en Edinburg, Texas, donde todavía vive hoy con su esposa.
+Meet Bobby Issues News Creator Hub Store Donate Meet Bobby Issues News Creator Hub Store Donate Conoce a Bobby View in English Bobby Pulido nació y creció en Edinburg, Texas, donde todavía vive hoy con su esposa.
 Es el orgulloso padre de cuatro hijos, criando a su familia en la misma comunidad que lo vio crecer.
 Como hijo de un trabajador agrícola que se convirtió en músico, Bobby creció rodeado de los valores que definen al sur de Texas: el trabajo honesto, la humildad, la familia y la fe.
 Después de graduarse de la Preparatoria Edinburg (Edinburg High School), Bobby estudió ciencias políticas antes de seguir una carrera musical que lo convertiría en una de las voces más reconocidas del Tex-Mex.
@@ -12,3 +12,4 @@ Bobby es un surtejano que entiende las luchas de nuestras familias porque son la
 La vida de Bobby siempre se ha tratado de conectar — escuchando a la gente, contando sus historias y uniendo a las comunidades.
 Desde sus primeros días creciendo en Edinburg hasta su carrera en el escenario y su trabajo en los negocios, siempre ha mantenido la convicción de que lo más importante es el servicio a los demás.
 Para Bobby, el Valle del Río Grande no es solo de donde viene — es quién es él.
+Donate Meet Bobby Issues News Creator Hub Store Bobby Pulido for Texas PO Box 1604, Edinburg, TX 78540 paid for by Bobby Pulido for Texas Terms & Conditions Privacy Policy © 2026

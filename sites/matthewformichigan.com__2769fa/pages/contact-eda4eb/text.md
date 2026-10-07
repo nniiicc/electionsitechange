@@ -1,8 +1,2 @@
-Contact Us
-Your questions and concerns are important to Matthew.
-Contact Team Bierlein in the following ways:
-4724 Hanes Road
-Vassar, MI 48768
-Phone: (989) 737-9323
-Email: matthew@matthewformichigan.com
-Fill out the form and we will contact you shortly:
+About 26th District Maps Join Our Team Issues Contact Donate About 26th District Maps Join Our Team Issues Contact Republican Candidate for State Representative Donate Contact Us Your questions and concerns are important to Matthew.
+Contact Team Bierlein in the following ways: 4724 Hanes Road Vassar, MI 48768 Phone: (989) 737-9323 Email: matthew@matthewformichigan.com Fill out the form and we will contact you shortly: Donate About Join Our Team Issues Contact Paid for by Matthew Bierlein for State Senate, 4724 Hanes Rd, Vassar, MI 48768

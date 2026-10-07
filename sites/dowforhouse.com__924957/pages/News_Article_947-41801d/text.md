@@ -1,5 +1,5 @@
-Will a new mine ever receive a permit in New Mexico?
-We are fortunate to live in a place as beautiful as New Mexico.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 14 Aug Will a new mine ever receive a permit in New Mexico?
+By housereplogin We are fortunate to live in a place as beautiful as New Mexico.
 The landscape here is unlike any other, and it must be protected.
 However, New Mexico is also a poor state.
 Many of our families are struggling to carve out a decent living, especially in our rural communities.
@@ -28,6 +28,5 @@ New Mexicans ought to have access to meaningful employment opportunities in thei
 I encourage the members of the WQCC to base on their decision on sound science, available facts, and realistic scenarios.
 If NMCC is found to be in compliance, I believe they should be allowed to proceed without further unnecessary bureaucratic delays.
 Rep.
-Rebecca Dow – (R)
-Grant, Hidalgo & Sierra
-District 38
+Rebecca Dow – (R) Grant, Hidalgo & Sierra District 38 Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

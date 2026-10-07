@@ -1,5 +1,4 @@
-Agriculture and Farming
-Supporting our farming community and preserving the rural character of our district.
+Meet Jessica Record Issues Community Connections Volunteer Request a Yard Sign Contribute All Issues Issue Agriculture and Farming Supporting our farming community and preserving the rural character of our district.
 Anne Arundel County is home to nearly 400 farms, many of them right here in District 30, and they are a vital part of our economy, our heritage, and our way of life.
 I've had the honor of representing our farming community on the Anne Arundel County Council, where I worked to preserve the rural character of South County and support policies that help our farmers succeed, not push them out.
 I'm committed to continuing that work in the State Senate.
@@ -15,3 +14,6 @@ At the same time, we need to strengthen the agricultural economy so farms can re
 That means improving access to processing and distribution, supporting the ability for farms to aggregate and sell products locally, and embracing innovation that better connects farmers with consumers.
 Our farms are worth fighting for.
 I'm committed to protecting Maryland agriculture, strengthening our farming economy, and ensuring that future generations have the opportunity, and the desire to carry on this proud tradition.
+Previous Issue Infrastructure Next Issue Public Safety Meet Jessica Record Issues Why I'm Running Get in Touch ElectJessicaHaire@gmail.com Want to share your ideas directly?
+I'd love to talk!
+Schedule a Meeting By authority: Friends of Jessica Haire; Kelly Rosenthal, Treasurer

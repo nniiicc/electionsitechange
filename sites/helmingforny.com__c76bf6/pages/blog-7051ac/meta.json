@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.helmingforny.com/blog",
- "paid_for_by": null,
+ "fingerprint": "7cd3250ef6256b5105c9c1d9f0777e8ddc92e276",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Pam Helming",
  "years_mentioned": [
   "2016",
-  "2017"
+  "2017",
+  "2024"
  ]
 }

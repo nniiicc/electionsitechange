@@ -1,4 +1,5 @@
-| One of my priorities in Hartford is to make our state more affordable, especially by addressing utility rates.
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video State Rep.
+David Rutigliano: ⚡ Connecticut’s high energy rates 8/6/2024 0 Comments One of my priorities in Hartford is to make our state more affordable, especially by addressing utility rates.
 These high rates are due to factors like our location and lack of natural resources, infrastructure upgrades, Connecticut’s high business costs, legislative policies, and decisions by state utility regulators.
 The Public Utilities Regulatory Authority (PURA) and utility companies are in open conflict over rates, programs, infrastructure, and policy proposals.
 Credit rating agency Moody’s has branded our state’s regulatory environment “inconsistent and unpredictable”.
@@ -6,14 +7,14 @@ The Governor has largely stayed out of the fray and hasn’t fully staffed PURA,
 Our system is broken.
 Connecticut needs a comprehensive and bipartisan energy strategy, led by the Governor, now more than ever.
 I joined minority party Republicans in addressing this crisis earlier this year as we offered proposals to deliver short and long-term relief, including redefining Class I renewable energy sources to include all forms of hydropower and all nuclear power, and studying ways to get more natural gas into New England to reduce our reliance on more expensive fuel-mix used to generate electricity.
-Other Republican proposals: Provide autonomy for PURA.
+Other Republican proposals : Provide autonomy for PURA .
 PURA is a division within the Department of Energy and Environmental Protection (DEEP).
 I fear that environmental (and ideological) goals of Governor Lamont’s DEEP, such banning the sales of new gas-powered vehicles, aren’t aligned with the interests of ratepayers.
 PURA should be removed from DEEP to provide it the greatest autonomy possible.
-Unbundling the System Benefits Charge.
+Unbundling the System Benefits Charge .
 Your bill includes charges that pay for hardship protection measures, low-income conservation programs as well as other public policies.
 We should consider funding these programs as part of the state budget appropriations process rather than including them on ratepayer bills.
-Set reasonable caps on future power purchase agreements (PPAs).
+Set reasonable caps on future power purchase agreements (PPAs) .
 To stimulate growth of renewable energy projects, the state has required utility companies to purchase clean electricity (such as wind and solar) at rates that are sometimes substantially higher than others available on the market.
 Republicans proposed to improve this situation by capping future PPAs so that no contract can be for more than significantly over the wholesale electric market price.
 Unfortunately, our ideas have been shot down by our majority party colleagues.
@@ -25,4 +26,7 @@ Both would have added significant load to our grid, require massive infrastructu
 Thankfully, those concepts stalled–for now.
 But if approved, a draft PURA decision could allow utilities companies to recover from ratepayers the costs from another initiative tied to the state’s ambitious climate goals: a rebate program for residential electric vehicle charging stations We can’t continue to lurch from one crisis to the next.
 I want you to know that I’ll continue to push for strategies to stabilize, and ultimately lower, electric rates for homes and businesses.
-For now, if you’re using a third-party supplier for your electricity, you should compare whether your per kilowatt hour rate is more than the current standard offer rate from your utility company. | |
+For now, if you’re using a third-party supplier for your electricity, you should compare whether your per kilowatt hour rate is more than the current standard offer rate from your utility company.
+0 Comments Your comment will be posted after it is approved.
+Leave a Reply.
+Archives October 2026 September 2026 June 2026 May 2026 May 2025 August 2024 September 2020 May 2020 February 2020 June 2018 May 2018 April 2018 Categories All RSS Feed David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

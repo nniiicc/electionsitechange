@@ -1,8 +1,5 @@
-THE BORING STUFF
-Dr.
-Jane Gillette for Montana
-Mobile Messaging Terms & Conditions
-[Dr.
+Home About The Issues Volunteer Contact The Boring Stuff Contribute Home About The Issues Volunteer Contact The Boring Stuff Contribute THE BORING STUFF Dr.
+Jane Gillette for Montana Mobile Messaging Terms & Conditions [Dr.
 Jane Gillette for Montana], (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program.
@@ -53,4 +50,8 @@ Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
 Paid for by Dr.
-Jane Gillette for Montana
+Jane Gillette for Montana Join our Mailing List Stay Informed on Re-Election Campaign Activities Required field!
+Submit Re-Elect Dr.
+Jane Gillette Home About Issues Volunteer Contribute Paid for by: Dr.
+Jane Gillette for Montana - REPUBLICAN 32 Riverview Road, Three Forks MT 59752 Powered by Poli-Site Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes View Details Quantity - + Sold Out

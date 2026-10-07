@@ -1,29 +1,114 @@
 [
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2070.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2118.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2170.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2277.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2279.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2283.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2362.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2363.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2394.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2427.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2443.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2444.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2482.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2513.pdf",
-"http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2569.pdf",
-"https://samzurier.com/",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/donate",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation"
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "2070",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2070.pdf"
+},
+{
+"text": "2118",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2118.pdf"
+},
+{
+"text": "2170",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2170.pdf"
+},
+{
+"text": "2277",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2277.pdf"
+},
+{
+"text": "2279",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2279.pdf"
+},
+{
+"text": "2283",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2283.pdf"
+},
+{
+"text": "2362",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2362.pdf"
+},
+{
+"text": "2363",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2363.pdf"
+},
+{
+"text": "2394",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2394.pdf"
+},
+{
+"text": "2427",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2427.pdf"
+},
+{
+"text": "2443",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2443.pdf"
+},
+{
+"text": "2444",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2444.pdf"
+},
+{
+"text": "2482",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2482.pdf"
+},
+{
+"text": "2513",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2513.pdf"
+},
+{
+"text": "2569",
+"href": "http://webserver.rilegislature.gov/BillText/BillText24/SenateText24/S2569.pdf"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+}
 ]

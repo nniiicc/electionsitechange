@@ -1,30 +1,7 @@
-Kristin has what it takes to find common ground to pass common sense legislation for the common good.
-Meet Kristin
-Kristin is running for re-election to the Minnesota House of Representatives.
+Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Kristin has what it takes to find common ground to pass common sense legislation for the common good .
+Meet Kristin Kristin is running for re-election to the Minnesota House of Representatives.
 Since her election in 2018, she’s been a tenacious advocate for our Maple Grove and Osseo community.
-Kristin balances opposing viewpoints carefully, building common ground to balance the budget while advocating for policies that make our community a better place to live:
-- Targeted tax cuts for Minnesotans (passed)
-- Lower out-of-pocket costs for drugs (passed)
-- Major Investments in Mental Health (passed)
-- Bill of Rights for Seniors (passed)
-- Veterans Restorative Justice Act (passed)
-- Early Childhood Home Visiting Programs (passed)
-- Increase of 2% for the next two years on the school funding formula (passed)
-- Secured Funding Hwy 610 and I-94 Completion (passed)
-- Secured Funding for the Public Safety Training Center, one of only 3 in the state to meet the needs of our law enforcement (passed)
-- Close Gaps in Domestic Violence Statute impacting a local family in our community (Bi-Partisan, Awaiting a final vote in the Public Safety Bill)
-- Property Tax Refunds that will result in the largest reduction in MN history (Bi-Partisan, Awaiting a final vote in the Tax Bill)
-- Small Business Tax Conformity for Shuttered Venues (Bi-Partisan, Awaiting a final vote in the Tax Bill)
-- Reductions in Charitable Gaming Taxes to allow more money on the mission and reinvest in our community (Bi-Partisan, Awaiting a final vote in the Tax Bill)
-- Eliminate Tax on Social Security (Co-Author, Bi-Partisan, Awaiting a final vote in the Tax Bill)
-- Nation Leading Legislation on Cybersecurity (Bi-Partisan, Awaiting a final vote in the State Government Bill)
-Kristin has fought to uplift the voices of women, children and families:
-- Champion for Accessible and Affordable Healthcare the Prescription Drugs
-- Champion for Paid Family Medical Leave
-- Champion for the ERA in the Minnesota State Constitution
-- Champion for Early Childhood Education
-- Champion for Fully Funding Public Education
-Kristin grew up in Richfield, the daughter of a nurse and third generation carmen on the railroad, turned mechanical engineer for Bloomington Schools--real salt of the earth, working people.
+Kristin balances opposing viewpoints carefully, building common ground to balance the budget while advocating for policies that make our community a better place to live: Targeted tax cuts for Minnesotans (passed) Lower out-of-pocket costs for drugs (passed) Major Investments in Mental Health (passed) Bill of Rights for Seniors (passed) Veterans Restorative Justice Act (passed) Early Childhood Home Visiting Programs (passed) Increase of 2% for the next two years on the school funding formula (passed) Secured Funding Hwy 610 and I-94 Completion (passed) Secured Funding for the Public Safety Training Center, one of only 3 in the state to meet the needs of our law enforcement (passed) Close Gaps in Domestic Violence Statute impacting a local family in our community (Bi-Partisan, Awaiting a final vote in the Public Safety Bill) Property Tax Refunds that will result in the largest reduction in MN history (Bi-Partisan, Awaiting a final vote in the Tax Bill) Small Business Tax Conformity for Shuttered Venues (Bi-Partisan, Awaiting a final vote in the Tax Bill) Reductions in Charitable Gaming Taxes to allow more money on the mission and reinvest in our community (Bi-Partisan, Awaiting a final vote in the Tax Bill) Eliminate Tax on Social Security (Co-Author, Bi-Partisan, Awaiting a final vote in the Tax Bill) Nation Leading Legislation on Cybersecurity (Bi-Partisan, Awaiting a final vote in the State Government Bill) Kristin has fought to uplift the voices of women, children and families: Champion for Accessible and Affordable Healthcare the Prescription Drugs Champion for Paid Family Medical Leave Champion for the ERA in the Minnesota State Constitution Champion for Early Childhood Education Champion for Fully Funding Public Education Kristin grew up in Richfield, the daughter of a nurse and third generation carmen on the railroad, turned mechanical engineer for Bloomington Schools--real salt of the earth, working people.
 Her beloved grandmother, the farmers daughter, always dreamed of the opportunity to go to college, instilled in Kristin a great love of learning.
 The first in her family to go to college, Kristin earned her degree from Gustavus Adolphus College, a good Swedish Lutheran college making her grandmother proud.
 Kristin has lived in Maple Grove for over 14 years and is active in the community.
@@ -39,5 +16,5 @@ Paul and advocated for the common good of all Minnesotans.
 This translated into a record 32 bills this past session, with over half making it to the finish line, all with full bi-partisan support in both parties and both chambers, a rare feat derived from deep collaboration and the ability to work across the aisle.
 Kristin continues to be a tenacious advocate for her community, putting people first, fighting for the issues important to her neighbors and her community.
 She is honored to have the opportunity to work in service to you.
-Donations can be made online or if you prefer, checks can be sent to 125 - 1st Ave NW, P.O.
-Box 452 Osseo, MN 55369
+DONATE TODAY Donations can be made online or if you prefer, checks can be sent to 125 - 1st Ave NW, P.O.
+Box 452 Osseo, MN 55369 Subscribe to Receive Campaign Email Updates Back to Top Paid for by Kristin Bahner for State Representative VOTEKRISTIN@GMAIL.COM

@@ -1,9 +1,34 @@
 [
-"https://facebook.com/repjamesroberson",
-"https://robersonforhouse.com/",
-"https://robersonforhouse.com/category/news",
-"https://robersonforhouse.com/district",
-"https://robersonforhouse.com/issues",
-"https://robersonforhouse.com/james-roberson",
-"https://secure.actblue.com/donate/robersonfornc"
+{
+"text": "About James",
+"href": "https://robersonforhouse.com/james-roberson/"
+},
+{
+"text": "Credit: WNCN",
+"href": "credit:%20WNCN"
+},
+{
+"text": "District 39",
+"href": "https://robersonforhouse.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robersonfornc"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/repjamesroberson"
+},
+{
+"text": "Issues",
+"href": "https://robersonforhouse.com/issues/"
+},
+{
+"text": "News",
+"href": "https://robersonforhouse.com/category/news/"
+},
+{
+"text": "[image: logoset-1]",
+"href": "https://robersonforhouse.com/"
+}
 ]

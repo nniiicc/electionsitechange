@@ -1,9 +1,8 @@
-For immediate release: March 29, 2017
-BOSTON — On Wednesday, March 29th State Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Legislature Authorizes Funding for Municipal Roads and Bridges For immediate release: March 29, 2017 BOSTON — On Wednesday, March 29 th State Representative Mark J.
 Cusack joined his colleagues in the Massachusetts House of Representatives to approve legislation that includes a $200 million bond authorization for Chapter 90 funding to help municipalities complete road, bridge and infrastructure improvement projects.
 The House of Representatives acted quickly to approve this funding to ensure that cities and towns across Massachusetts can make the most out of the upcoming construction season.
 “Braintree is a center for transportation on the South Shore and ensuring safe travel for the public is a top priority.
 Like in most cities and towns across Massachusetts, the roadways and bridges in Braintree require improvements,” said Representative Cusack.
-“Today’s vote in the House of Representatives demonstrates the House’s commitment to providing the necessary State funding to ensure the roads and bridges of our state our maintained and safe for transportation.”
-Under this legislation, the town of Braintree is slated to receive $985,977 in Chapter 90 funding.
-###
+“Today’s vote in the House of Representatives demonstrates the House’s commitment to providing the necessary State funding to ensure the roads and bridges of our state our maintained and safe for transportation.” Under this legislation, the town of Braintree is slated to receive $985,977 in Chapter 90 funding.
+### Newsroom Press Releases Previous Legislature Authorizes Funding for Municipal Roads and Bridges Next MSBA Invests in Braintree’s East Middle School Related Posts ...
+House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph Newsroom , Press Releases House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

@@ -1,7 +1,6 @@
-MAXENGLINGFor Indiana
-A new generation of Conservative leadership for the Hoosier State.
+Register by Oct 5 · Early Voting Oct 6 · Election Day Nov 3 · Register to Vote / Check Status MAX ENGLING About Platform Endorse Yard Sign Request Volunteer Contact Donate Republican Nominee for Indiana Secretary of State MAX ENGLING For Indiana A new generation of Conservative leadership for the Hoosier State.
 Secure elections, honest business, and a government that works for you — not against you.
-A Hoosier.
+Join the Campaign See the Platform Meet Max A Hoosier.
 A Father.
 A Fighter.
 Max Engling is a Christian, Conservative, husband to Kelcey, and proud father of four.
@@ -31,17 +30,19 @@ Max believes Indiana's best days are still ahead.
 He is running to keep Indiana moving forward by protecting our elections, supporting our businesses, and delivering the honest, conservative leadership Hoosiers deserve.
 Indiana's future depends on leaders who will stand up, serve with integrity, and fight for Hoosiers.
 Max is running to keep Indiana moving forward with both the vision and support to win.
-Protecting Our Conservative Standards.
+The Platform Protecting Our Conservative Standards.
 Zero Compromise.
-Election Integrity
-ensuring only U.S. citizens vote in Indiana elections - protecting voter confidence and the integrity of the voter rolls.
-Transparency Portal
-a direct channel for citizens to report potential election issues themselves.
-Stop Business-filing Fraud
-Screen business filings to push back on shell companies that register identical LLCs to defraud customers, avoid regulation, and employ dangerous truck drivers on Indiana roads.
-Cut Red Tape
-slash onerous regulations on small businesses and streamline business services.
-Make Your Voice Heard
-Indiana General Election — Tuesday, November 3
-Endorse Max Engling
-Add your name below and join a growing coalition of Hoosiers fighting for secure elections and a stronger Indiana.
+Election Integrity ensuring only U.S. citizens vote in Indiana elections - protecting voter confidence and the integrity of the voter rolls.
+Transparency Portal a direct channel for citizens to report potential election issues themselves.
+Stop Business-filing Fraud Screen business filings to push back on shell companies that register identical LLCs to defraud customers, avoid regulation, and employ dangerous truck drivers on Indiana roads.
+Cut Red Tape slash onerous regulations on small businesses and streamline business services.
+Make Your Voice Heard Indiana General Election — Tuesday, November 3 Register to Vote By October 5 Early Voting Begins October 6 Election Day November 3 Register to Vote / Check Your Status Stand With Max Endorse Max Engling Add your name below and join a growing coalition of Hoosiers fighting for secure elections and a stronger Indiana.
+Full Name * County * Title (optional) Email * Phone * Yes, I want to receive text message updates from Max for Indiana.
+Endorse Max By submitting, you agree to be listed as a public endorser of the campaign.
+By providing your mobile number you consent to receive texts from 360 Touch.
+Message and data rates may apply.
+Message frequency may vary.
+Reply stop to end, help for help.
+You may receive informational messages, reoccurring marketing messages, and on-demand reply messages.
+Please visit our privacy policy and Terms & Conditions for more information.
+About Platform Endorse Volunteer Contact Privacy Terms Paid for by Max for Indiana Website Designed by Argo Strategy

@@ -1,6 +1,26 @@
 [
-"https://coloradosos.gov/pubs/elections/vote/primaryCandidates.html",
-"https://danielleforsd27.com/",
-"https://danielleforsd27.com/events",
-"https://google.com/maps/search?api=1&query=Whispering+Pines+Clubhouse%2C+8030+S+Sampson+Gulch+Way%2C+Aurora%2C+CO+80016"
+{
+"text": "All events",
+"href": "https://danielleforsd27.com/events"
+},
+{
+"text": "Colorado Secretary of State — 2026 candidates",
+"href": "https://www.coloradosos.gov/pubs/elections/vote/primaryCandidates.html"
+},
+{
+"text": "DANIELLE LAMMON for Colorado State Senate · SD-27",
+"href": "https://danielleforsd27.com/"
+},
+{
+"text": "Info@DanielleforSD27.com",
+"href": "mailto:Info@DanielleforSD27.com"
+},
+{
+"text": "Open in Google Maps →",
+"href": "https://www.google.com/maps/search/?api=1&query=Whispering+Pines+Clubhouse%2C+8030+S+Sampson+Gulch+Way%2C+Aurora%2C+CO+80016"
+},
+{
+"text": "See the full events calendar →",
+"href": "https://danielleforsd27.com/events"
+}
 ]

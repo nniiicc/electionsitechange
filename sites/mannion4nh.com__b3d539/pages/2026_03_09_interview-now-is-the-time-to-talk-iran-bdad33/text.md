@@ -1,4 +1,6 @@
-Interview Interview – Now is the Time to Talk (Iran) March 9, 2026 Tom Mannion Leave a comment Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Interview Interview – Now is the Time to Talk (Iran) March 9, 2026 Tom Mannion Leave a comment Jesse Gillis and I had such a great interview about Defend the Guard, and getting into the weeds about general US foreign policy, that he invited me back to talk specifically about the Iran conflict.
 Thank you for having me again so soon!
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
-Related
+Related Defend the Guard Iran Veterans Post navigation Previous Post VISIT – Derryfield School Next Post Interview – Radio Canada Leave a comment Cancel reply Δ State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

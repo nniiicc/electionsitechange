@@ -1,23 +1,11 @@
-FOR IMMEDIATE RELEASE
-Monday, May 4, 2026
-PHOENIX, ARIZONA—After passing the Legislature this afternoon, Arizona Senate Republicans are sending Governor Hobbs a responsible, balanced FY 2027 budget that spends $800 million less than her proposal while delivering one of the largest tax cuts in state history: $1.45 billion in permanent, broad-based relief over four years.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Sen.
+Mark Finchem, Colleagues Pass Historic $1.45 Billion Tax Relief Budget May 4, 2026 FOR IMMEDIATE RELEASE Monday, May 4, 2026 PHOENIX, ARIZONA— After passing the Legislature this afternoon, Arizona Senate Republicans are sending Governor Hobbs a responsible, balanced FY 2027 budget that spends $800 million less than her proposal while delivering one of the largest tax cuts in state history: $1.45 billion in permanent, broad-based relief over four years.
 By fully conforming to President Trump’s federal tax cuts, the plan ensures no Arizona taxpayer will need to refile their 2025 taxes.
-It provides immediate and permanent cost-of-living relief for working families and seniors, including:
-- No state taxes on tips or overtime pay
-- A higher standard deduction
-- Full deduction for child-care expenses
-- A $25 increase in the dependent tax credit
-- A $6,000 deduction for seniors age 60+ with retirement or pension income — covering teachers, police officers, firefighters and fixed-income retirees
-“This is a serious, disciplined budget that puts Arizona families first,” said Senate President Warren Petersen.
+It provides immediate and permanent cost-of-living relief for working families and seniors, including: No state taxes on tips or overtime pay A higher standard deduction Full deduction for child-care expenses A $25 increase in the dependent tax credit A $6,000 deduction for seniors age 60+ with retirement or pension income — covering teachers, police officers, firefighters and fixed-income retirees “This is a serious, disciplined budget that puts Arizona families first,” said Senate President Warren Petersen.
 “We cut taxes, protect essential services, and base every decision on real April revenue projections — not wishful thinking.
-In divided government, we faced the math, eliminated waste through targeted reforms, and delivered real results without raising taxes or growing government.”
-The $17.9 billion budget is built on updated April revenue estimates — which showed a $200 million drop in available resources — and relies on no speculative funding, no new taxes or fees, and no inflated projections.
+In divided government, we faced the math, eliminated waste through targeted reforms, and delivered real results without raising taxes or growing government.” The $17.9 billion budget is built on updated April revenue estimates — which showed a $200 million drop in available resources — and relies on no speculative funding, no new taxes or fees, and no inflated projections.
 It maintains current funding levels for K-12 education and public safety, preserves the voter-protected K-12 State Land Trust for future generations, and limits overall spending growth to 1.9 percent — well below combined population and GDP growth.
-To close the shortfall and redirect dollars to taxpayers, Republicans implemented targeted efficiencies that eliminate waste, not services:
-- Stronger eligibility verification in public assistance programs (AHCCCS and SNAP) to ensure aid reaches only those who truly qualify
-- 5% agency operating reductions (excluding core public safety and child welfare agencies)
-- Repeal of narrow special-interest tax credits and carve-outs, including solar subsidies
-These reforms generate ongoing savings that fund the broad-based tax relief and one-time continuations for priorities such as school facility repairs, child-care subsidies, and foster care support.
+To close the shortfall and redirect dollars to taxpayers, Republicans implemented targeted efficiencies that eliminate waste, not services: Stronger eligibility verification in public assistance programs (AHCCCS and SNAP) to ensure aid reaches only those who truly qualify 5% agency operating reductions (excluding core public safety and child welfare agencies) Repeal of narrow special-interest tax credits and carve-outs, including solar subsidies These reforms generate ongoing savings that fund the broad-based tax relief and one-time continuations for priorities such as school facility repairs, child-care subsidies, and foster care support.
 Fact check on claims to the contrary: The budget does not cut base pay for troopers or firefighters — it addresses the exploding General Fund subsidy to the Health Insurance Trust Fund through modest premium adjustments for solvency.
 It makes no changes to current data-center incentives signed by Governor Hobbs in prior budgets.
 And it redirects every dollar from special-interest provisions into relief for working families and seniors.
@@ -26,5 +14,5 @@ This critical public safety funding is included in the budget — after Governor
 “This budget reflects the reality of divided government,” said President Petersen.
 “While Democrats were on the floor today saying we need to raise taxes, we are instead delivering historic tax relief without burdening taxpayers.
 Your business and your wallet are on the ballot this fall.
-Vote wisely.”
-###
+Vote wisely.” ### Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

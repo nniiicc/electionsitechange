@@ -1,9 +1,12 @@
 {
  "description": "News",
  "final_url": "https://rodneysadler.com/news",
+ "fingerprint": "abb035b26ee21e74c9f282ed885b818195fd8038",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Rev",
  "title": "News | Rev. Dr. Rodney Sadler for NC House District 106",
  "years_mentioned": [
+  "2018",
   "2024",
   "2025",
   "2026"

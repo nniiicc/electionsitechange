@@ -1,16 +1,62 @@
 [
-"http://squarespace.com/",
-"https://langan4tn.com/",
-"https://langan4tn.com/about-me",
-"https://langan4tn.com/accomplish",
-"https://langan4tn.com/cart",
-"https://langan4tn.com/corporate",
-"https://langan4tn.com/environment",
-"https://langan4tn.com/infrastructure",
-"https://langan4tn.com/new-page",
-"https://langan4tn.com/oppression",
-"https://langan4tn.com/themenu",
-"https://langan4tn.com/volunteer",
-"https://langan4tn.com/yard-signs",
-"https://secure.actblue.com/donate/langan4tn"
+{
+"text": "0",
+"href": "https://www.langan4tn.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.langan4tn.com/about-me"
+},
+{
+"text": "Are They Working for You?",
+"href": "https://www.langan4tn.com/themenu"
+},
+{
+"text": "Corporations over Tennesseans",
+"href": "https://www.langan4tn.com/corporate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/langan4tn"
+},
+{
+"text": "Failing Infrastructure",
+"href": "https://www.langan4tn.com/infrastructure"
+},
+{
+"text": "Get Involved",
+"href": "https://www.langan4tn.com/volunteer"
+},
+{
+"text": "Governance by Oppression and Punishment",
+"href": "https://www.langan4tn.com/oppression"
+},
+{
+"text": "Home",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "Inside Tennessee - Round Table with the Candidates",
+"href": "https://www.langan4tn.com/new-page"
+},
+{
+"text": "Langan for Tennessee",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "Polluted Environment",
+"href": "https://www.langan4tn.com/environment"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "What I Hope to Accomplish",
+"href": "https://www.langan4tn.com/accomplish"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.langan4tn.com/yard-signs"
+}
 ]

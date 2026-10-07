@@ -1,8 +1,34 @@
 [
-"https://dawn4texas.org/",
-"https://dawn4texas.org/about-8",
-"https://dawn4texas.org/about-me",
-"https://dawn4texas.org/donate",
-"https://dawn4texas.org/team-3",
-"https://secure.actblue.com/donate/texas-deserves-a-new-dawn"
+{
+"text": "ABOUT ME",
+"href": "https://www.dawn4texas.org/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://www.dawn4texas.org/donate"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/texas-deserves-a-new-dawn"
+},
+{
+"text": "FIND OUT MORE HERE",
+"href": "https://www.dawn4texas.org/about-8"
+},
+{
+"text": "HOME",
+"href": "https://www.dawn4texas.org"
+},
+{
+"text": "JOIN US",
+"href": "https://www.dawn4texas.org/team-3"
+},
+{
+"text": "Read More",
+"href": "https://www.dawn4texas.org/about-me"
+},
+{
+"text": "VOLUNTEER HERE!",
+"href": "https://www.dawn4texas.org/team-3"
+}
 ]

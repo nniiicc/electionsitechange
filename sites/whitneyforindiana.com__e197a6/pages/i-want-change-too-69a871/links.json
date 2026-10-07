@@ -1,12 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61587658648683",
-"https://instagram.com/whitneyforindiana/reels",
-"https://links.impactive.io/t/hmy8anhx",
-"https://tiktok.com/@whitneyforindiana",
-"https://whitneyforindiana.com/",
-"https://whitneyforindiana.com/contact",
-"https://whitneyforindiana.com/donate",
-"https://whitneyforindiana.com/i-want-change-too",
-"https://whitneyforindiana.com/why-me",
-"https://youtube.com/@whitneyforindiana"
+{
+"text": "Check Voter Registration",
+"href": "https://links.impactive.io/t/hmy8anhx"
+},
+{
+"text": "Contact",
+"href": "https://www.whitneyforindiana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.whitneyforindiana.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.whitneyforindiana.com/"
+},
+{
+"text": "I Want Change Too",
+"href": "https://www.whitneyforindiana.com/i-want-change-too"
+},
+{
+"text": "Why Me",
+"href": "https://www.whitneyforindiana.com/why-me"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/whitneyforindiana/reels/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587658648683"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@whitneyforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@whitneyforindiana"
+}
 ]

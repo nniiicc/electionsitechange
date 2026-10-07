@@ -1,17 +1,62 @@
 [
-"https://facebook.com/VanDrewForCongress",
-"https://instagram.com/vandrewforcongress",
-"https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website",
-"https://secure.winred.com/van-drew-for-congress/storefront",
-"https://team-turnout-tracker-frontend.onrender.com/",
-"https://urldefense.com/v3/__https://acrobat.adobe.com/id/urn*3Aaaid*3Asc*3AUS*3A05c4bdfa-d255-482c-8808-25451de7baf9?filetype=application%2A2Fpdf&viewer%2A21megaVerb=group-discover__%3BJSUlJSUl%21%21Fr0YZsIsFWxTZsBm-qTAg68%21jlcNfgohiKMTUoo1XgnB7ORt8X-lAg97FzCusaabBb0wc7pY9Pmi-2K5fI4i_nVNNS8eI7NVux1r0F70NoYdBB4q_TNv3C88U2zLKDQG_6OJvA%24",
-"https://vandrewforcongress.com/",
-"https://vandrewforcongress.com/awards-endorsements",
-"https://vandrewforcongress.com/endorsejvd",
-"https://vandrewforcongress.com/events",
-"https://vandrewforcongress.com/latest",
-"https://vandrewforcongress.com/privacy-policy",
-"https://vandrewforcongress.com/terms-conditions",
-"https://vandrewforcongress.com/wins",
-"https://vimeo.com/456249522"
+{
+"text": "Awards & Endorsements",
+"href": "https://vandrewforcongress.com/awards-endorsements/"
+},
+{
+"text": "Boots on the Ground",
+"href": "https://team-turnout-tracker-frontend.onrender.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-drew-for-congress/reelect-jeff-vandrew-website"
+},
+{
+"text": "Events",
+"href": "https://vandrewforcongress.com/events/"
+},
+{
+"text": "Latest News",
+"href": "https://vandrewforcongress.com/latest/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vandrewforcongress.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/van-drew-for-congress/storefront/"
+},
+{
+"text": "Support Jeff",
+"href": "https://vandrewforcongress.com/endorsejvd/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vandrewforcongress.com/terms-conditions/"
+},
+{
+"text": "Wins for South Jersey",
+"href": "https://vandrewforcongress.com/wins/"
+},
+{
+"text": "[image]",
+"href": "https://vandrewforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/456249522"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VanDrewForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vandrewforcongress/"
+},
+{
+"text": "here",
+"href": "https://urldefense.com/v3/__https://acrobat.adobe.com/id/urn*3Aaaid*3Asc*3AUS*3A05c4bdfa-d255-482c-8808-25451de7baf9/?filetype=application%2A2Fpdf&viewer%2A21megaVerb=group-discover__%3BJSUlJSUl%21%21Fr0YZsIsFWxTZsBm-qTAg68%21jlcNfgohiKMTUoo1XgnB7ORt8X-lAg97FzCusaabBb0wc7pY9Pmi-2K5fI4i_nVNNS8eI7NVux1r0F70NoYdBB4q_TNv3C88U2zLKDQG_6OJvA%24"
+}
 ]

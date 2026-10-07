@@ -1,50 +1,202 @@
 [
-"https://ericgisler.com/",
-"https://ericgisler.com/about",
-"https://ericgisler.com/contact",
-"https://ericgisler.com/endorsements",
-"https://ericgisler.com/get-involved",
-"https://ericgisler.com/issues",
-"https://ericgisler.com/post/hb-1022-vote-explainer-unnecessary-traffic-offenses",
-"https://ericgisler.com/post/hb-1023-vote-explainer-mandated---but-not-funded---weapons-detection-systems-in-schools",
-"https://ericgisler.com/post/hb1020-vote-explainer-da-compensation-reform-act",
-"https://ericgisler.com/sponsored-legislation",
-"https://ericgisler.com/updates",
-"https://ericgisler.com/voting-record",
-"https://ericgisler.com/voting-record?9fdef3a0_page=1",
-"https://ericgisler.com/voting-record?9fdef3a0_page=3",
-"https://facebook.com/gislerforgeorgia",
-"https://instagram.com/emgisler",
-"https://legis.ga.gov/legislation/69869",
-"https://legis.ga.gov/legislation/70021",
-"https://legis.ga.gov/legislation/70134",
-"https://legis.ga.gov/legislation/70185",
-"https://legis.ga.gov/legislation/70255",
-"https://legis.ga.gov/legislation/70261",
-"https://legis.ga.gov/legislation/70578",
-"https://legis.ga.gov/legislation/70947",
-"https://legis.ga.gov/legislation/71558",
-"https://legis.ga.gov/legislation/72129",
-"https://legis.ga.gov/legislation/72141",
-"https://legis.ga.gov/legislation/72146",
-"https://legis.ga.gov/legislation/72181",
-"https://legis.ga.gov/legislation/72213",
-"https://legis.ga.gov/legislation/72219",
-"https://legis.ga.gov/legislation/72220",
-"https://legis.ga.gov/legislation/72243",
-"https://legis.ga.gov/legislation/72277",
-"https://legis.ga.gov/legislation/72350",
-"https://legis.ga.gov/legislation/72352",
-"https://legis.ga.gov/legislation/72353",
-"https://legis.ga.gov/legislation/72357",
-"https://legis.ga.gov/legislation/72512",
-"https://legis.ga.gov/legislation/72514",
-"https://legis.ga.gov/legislation/72592",
-"https://legis.ga.gov/legislation/72612",
-"https://legis.ga.gov/legislation/72675",
-"https://legis.ga.gov/legislation/72823",
-"https://legis.ga.gov/legislation/72824",
-"https://legis.ga.gov/legislation/72878",
-"https://secure.actblue.com/donate/2026-gisler-main",
-"https://tiktok.com/@ericgisler"
+{
+"text": "About",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "About Eric",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ericgisler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2026-gisler-main"
+},
+{
+"text": "Explainer Available On This Bill ->",
+"href": "https://www.ericgisler.com/post/hb-1022-vote-explainer-unnecessary-traffic-offenses"
+},
+{
+"text": "Explainer Available On This Bill ->",
+"href": "https://www.ericgisler.com/post/hb-1023-vote-explainer-mandated---but-not-funded---weapons-detection-systems-in-schools"
+},
+{
+"text": "Explainer Available On This Bill ->",
+"href": "https://www.ericgisler.com/post/hb1020-vote-explainer-da-compensation-reform-act"
+},
+{
+"text": "Load More Bills",
+"href": "https://www.ericgisler.com/voting-record?9fdef3a0_page=3"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/69869"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70021"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70134"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70185"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70255"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70261"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70578"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/70947"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/71558"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72129"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72141"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72146"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72181"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72213"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72219"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72220"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72243"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72277"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72350"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72352"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72353"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72357"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72512"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72514"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72592"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72612"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72675"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72823"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72824"
+},
+{
+"text": "Official Bill Page ->",
+"href": "https://www.legis.ga.gov/legislation/72878"
+},
+{
+"text": "Previous",
+"href": "https://www.ericgisler.com/voting-record?9fdef3a0_page=1"
+},
+{
+"text": "Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://www.ericgisler.com/sponsored-legislation"
+},
+{
+"text": "VOTING Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericgisler.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.ericgisler.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/gislerforgeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/emgisler/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@ericgisler"
+},
+{
+"text": "endorsements",
+"href": "https://www.ericgisler.com/endorsements"
+},
+{
+"text": "issues",
+"href": "https://www.ericgisler.com/issues"
+},
+{
+"text": "updates",
+"href": "https://www.ericgisler.com/updates"
+}
 ]

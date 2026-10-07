@@ -1,14 +1,8 @@
-CAMPAIGN NEWS PRESS RELEASE
-Assemblyman David Tangipa Endorses Robb Tucker for California’s 3rd Congressional District
-May 15, 2026
-SACRAMENTO, CA — David Tangipa, a Sacramento native and rising leader in California politics, has officially endorsed Robb Tucker in the race for California’s newly drawn 3rd Congressional District.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE CAMPAIGN NEWS PRESS RELEASE Assemblyman David Tangipa Endorses Robb Tucker for California’s 3rd Congressional District FOR IMMEDIATE RELEASE May 15, 2026 Contact: Ryan Gardiner ryan@strategyinsightshq.com SACRAMENTO, CA — David Tangipa, a Sacramento native and rising leader in California politics, has officially endorsed Robb Tucker in the race for California’s newly drawn 3rd Congressional District.
 Tangipa praised Tucker’s leadership, values, and commitment to representing the people of Northern California in Washington, D.C.
 “While I am fighting for our values in Sacramento, it will be great to have a partner like Robb Tucker fighting the same fight in Washington, D.C.,” Tangipa said.
-“Robb has my full support and endorsement, and I look forward to working alongside him to make a positive difference for our communities.”
-Tucker expressed gratitude for Tangipa’s endorsement and highlighted the Assemblyman’s leadership in Sacramento.
+“Robb has my full support and endorsement, and I look forward to working alongside him to make a positive difference for our communities.” Tucker expressed gratitude for Tangipa’s endorsement and highlighted the Assemblyman’s leadership in Sacramento.
 “David Tangipa has built a strong reputation for standing up for what is right and remaining loyal to both his constituents and his values,” Tucker said.
-“I am honored to have the endorsement of such a principled and effective fighter for California families.”
-California’s 3rd Congressional District includes portions of Sacramento, Placer, and El Dorado counties, as well as all of Nevada County.
+“I am honored to have the endorsement of such a principled and effective fighter for California families.” California’s 3rd Congressional District includes portions of Sacramento, Placer, and El Dorado counties, as well as all of Nevada County.
 Tucker’s campaign continues to build momentum with increasing support from community leaders, elected officials, and grassroots activists throughout the region.
-For more information about Robb Tucker’s campaign, upcoming events, or volunteer opportunities, please visit Robb Tucker for Congress
-###
+For more information about Robb Tucker’s campaign, upcoming events, or volunteer opportunities, please visit Robb Tucker for Congress ### TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

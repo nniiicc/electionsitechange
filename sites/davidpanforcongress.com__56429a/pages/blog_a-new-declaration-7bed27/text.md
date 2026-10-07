@@ -1,5 +1,4 @@
-A New Declaration
-If the truths of the Declaration of Independence were self-evident, why were they such a big deal?
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A New Declaration Jul 4 Written By David Pan If the truths of the Declaration of Independence were self-evident, why were they such a big deal?
 In fact, they were not self-evident.
 The Declaration “held” them to be self-evident, meaning that it was declaring them to be so.
 But unlike the move to declare independence, the declaration that “all men are created equal” was not a willful decision.
@@ -52,6 +51,12 @@ In addition, rather than continuing a system that only funds consumption, we wou
 Rather than maintaining bureaucratic control over people’s most important life decisions concerning housing, health, food, and retirement, we would be granting people the freedom to make their own choices.
 Rather than raise taxes or increase government spending, we would be reducing government spending to create a massive tax cut.
 If you agree that we need to make a new declaration of independence, please join my campaign and help me to return our nation to the track of freedom and opportunity for everyone without distinction.
-Check my website at DavidPanforCongress.com.
+Check my website at DavidPanforCongress.com .
 Please consider a donation of $5 or $10 to help us move forward to a new era of freedom.
 God bless you and God bless the United States of America.
+David Pan Next Next Your choice between two visions for the future Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

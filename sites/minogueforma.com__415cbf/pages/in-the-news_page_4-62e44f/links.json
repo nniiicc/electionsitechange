@@ -1,35 +1,154 @@
 [
-"https://facebook.com/MikeMinogueforGovernor",
-"https://instagram.com/mikeminoguema",
-"https://linkedin.com/in/michael-minogue-b38052168",
-"https://minogueforma.com/",
-"https://minogueforma.com/blueprint-for-a-better-future",
-"https://minogueforma.com/get-involved",
-"https://minogueforma.com/in-the-news",
-"https://minogueforma.com/in-the-news/page/13",
-"https://minogueforma.com/in-the-news/page/2",
-"https://minogueforma.com/in-the-news/page/3",
-"https://minogueforma.com/in-the-news/page/5",
-"https://minogueforma.com/in-the-news/page/6",
-"https://minogueforma.com/make-your-plan-to-vote",
-"https://minogueforma.com/meet-mike",
-"https://minogueforma.com/meet-renee",
-"https://minogueforma.com/press-release/healthcare-professionals-across-massachusetts-praise-mike-minogues-patients-first-healthcare-plan",
-"https://minogueforma.com/press-release/mike-minogue-accepts-invitation-to-statewide-general-election-debate",
-"https://minogueforma.com/press-release/mike-minogue-calls-for-an-end-to-divisive-politics-says-massachusetts-must-work-for-everyone",
-"https://minogueforma.com/press-release/mike-minogue-calls-for-debate-in-western-massachusetts",
-"https://minogueforma.com/press-release/minogue-campaign-reports-major-cash-on-hand-advantage-over-incumbent-governor-90-days-ahead-of-general-election",
-"https://minogueforma.com/press-release/release-mike-minogue-unveils-patients-first-healthcare-plan-bringing-access-to-affordable-quality-care-to-massachusetts",
-"https://minogueforma.com/privacy-policy",
-"https://minogueforma.com/store",
-"https://minogueforma.com/terms-and-conditions",
-"https://secure.anedot.com/mike-minogue-for-governor/donate",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=100",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=1000",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=25",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=250",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=5",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=50",
-"https://secure.anedot.com/mike-minogue-for-governor/donate?amount=500",
-"https://x.com/mikeminoguema"
+{
+"text": "$1,000",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate?amount=500"
+},
+{
+"text": "1",
+"href": "https://minogueforma.com/in-the-news/"
+},
+{
+"text": "13",
+"href": "https://minogueforma.com/in-the-news/page/13/"
+},
+{
+"text": "2",
+"href": "https://minogueforma.com/in-the-news/page/2/"
+},
+{
+"text": "3",
+"href": "https://minogueforma.com/in-the-news/page/3/"
+},
+{
+"text": "5",
+"href": "https://minogueforma.com/in-the-news/page/5/"
+},
+{
+"text": "6",
+"href": "https://minogueforma.com/in-the-news/page/6/"
+},
+{
+"text": "Blueprint for a Better Future",
+"href": "https://minogueforma.com/blueprint-for-a-better-future/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://minogueforma.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://minogueforma.com/"
+},
+{
+"text": "In The News",
+"href": "https://minogueforma.com/in-the-news/"
+},
+{
+"text": "Make a Plan to Vote",
+"href": "https://minogueforma.com/make-your-plan-to-vote/"
+},
+{
+"text": "Meet Mike",
+"href": "https://minogueforma.com/meet-mike/"
+},
+{
+"text": "Meet Renee",
+"href": "https://minogueforma.com/meet-renee/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/mike-minogue-for-governor/donate"
+},
+{
+"text": "Store",
+"href": "https://minogueforma.com/store/"
+},
+{
+"text": "Terms & conditions",
+"href": "https://minogueforma.com/terms-and-conditions/"
+},
+{
+"text": "[image: Mike Minogue for Governor]",
+"href": "https://minogueforma.com"
+},
+{
+"text": "[image]Press Release|August 10, 2026Healthcare Professionals Across Massachusetts Praise Mike Minogue’s “Patients First” Healthcare Plan",
+"href": "https://minogueforma.com/press-release/healthcare-professionals-across-massachusetts-praise-mike-minogues-patients-first-healthcare-plan/"
+},
+{
+"text": "[image]Press Release|August 10, 2026Mike Minogue Calls for an End to Divisive Politics, Says Massachusetts Must Work for Everyone",
+"href": "https://minogueforma.com/press-release/mike-minogue-calls-for-an-end-to-divisive-politics-says-massachusetts-must-work-for-everyone/"
+},
+{
+"text": "[image]Press Release|August 3, 2026Mike Minogue Accepts Invitation to Statewide General Election Debate",
+"href": "https://minogueforma.com/press-release/mike-minogue-accepts-invitation-to-statewide-general-election-debate/"
+},
+{
+"text": "[image]Press Release|August 5, 2026Mike Minogue calls for debate in Western Massachusetts",
+"href": "https://minogueforma.com/press-release/mike-minogue-calls-for-debate-in-western-massachusetts/"
+},
+{
+"text": "[image]Press Release|August 5, 2026Minogue Campaign Reports Major Cash on Hand Advantage Over Incumbent Governor # Days Ahead of General Election",
+"href": "https://minogueforma.com/press-release/minogue-campaign-reports-major-cash-on-hand-advantage-over-incumbent-governor-90-days-ahead-of-general-election/"
+},
+{
+"text": "[image]Press Release|July 30, 2026Mike Minogue Unveils Patients First Healthcare Plan: Bringing Access to Affordable, Quality Care to Massachusetts",
+"href": "https://minogueforma.com/press-release/release-mike-minogue-unveils-patients-first-healthcare-plan-bringing-access-to-affordable-quality-care-to-massachusetts/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeMinogueforGovernor"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikeminoguema"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/michael-minogue-b38052168"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikeminoguema"
+},
+{
+"text": "privacy policy",
+"href": "https://minogueforma.com/privacy-policy/"
+},
+{
+"text": "←",
+"href": "https://minogueforma.com/in-the-news/page/3/"
+},
+{
+"text": "→",
+"href": "https://minogueforma.com/in-the-news/page/5/"
+}
 ]

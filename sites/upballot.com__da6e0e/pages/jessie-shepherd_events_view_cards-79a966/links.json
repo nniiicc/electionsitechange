@@ -1,16 +1,82 @@
 [
-"https://facebook.com/ShepherdForMO",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/shepherd-for-missouri-1",
-"https://twitter.com/ShepherdForMO",
-"https://upballot.com/",
-"https://upballot.com/jessie-shepherd",
-"https://upballot.com/jessie-shepherd/about",
-"https://upballot.com/jessie-shepherd/events",
-"https://upballot.com/jessie-shepherd/events?view=cards",
-"https://upballot.com/jessie-shepherd/get-involved",
-"https://upballot.com/jessie-shepherd/issues",
-"https://upballot.com/jessie-shepherd/news",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Jessie",
+"href": "https://www.upballot.com/jessie-shepherd/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/shepherd-for-missouri-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/jessie-shepherd/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/jessie-shepherd/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/jessie-shepherd"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/jessie-shepherd/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/jessie-shepherd/news/"
+},
+{
+"text": "[image: Jessie Shepherd Logo]",
+"href": "https://www.upballot.com/jessie-shepherd/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ShepherdForMO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ShepherdForMO"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/ShepherdForMO"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/ShepherdForMO"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/jessie-shepherd/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/jessie-shepherd/events?view=cards"
+},
+{
+"text": "info@ShepherdForMO.com",
+"href": "mailto:info@ShepherdForMO.com"
+},
+{
+"text": "tel:3148083410",
+"href": "tel:3148083410"
+}
 ]

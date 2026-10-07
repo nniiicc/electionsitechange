@@ -1,7 +1,11 @@
 {
  "description": "Rick Jasperse, Georgia House of Representative for District 11 providing helpful links including polling locations and entities serving Murray, Gordon, and Pickens counties.",
  "final_url": "https://www.rickjasperse.org/links.htm",
- "paid_for_by": null,
+ "fingerprint": "c4a13b888f7d76bbde029416bd198930cc25f945",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Helpful Links from Rick Jasperse House of Representatives Georgia District 11",
- "years_mentioned": []
+ "years_mentioned": [
+  "2039"
+ ]
 }

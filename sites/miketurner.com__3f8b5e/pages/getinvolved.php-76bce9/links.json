@@ -1,11 +1,42 @@
 [
-"https://facebook.com/MikeTurnerforCongress",
-"https://instagram.com/citizensforturner",
-"https://miketurner.com/about.php",
-"https://miketurner.com/getinvolved.php",
-"https://miketurner.com/index.php",
-"https://miketurner.com/issues.php",
-"https://miketurner.com/media.php",
-"https://secure.winred.com/turner/oh10",
-"https://x.com/MikeTurnerOH"
+{
+"text": "ABOUT MIKE",
+"href": "https://www.miketurner.com/about.php"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/turner/oh10"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.miketurner.com/getinvolved.php"
+},
+{
+"text": "HOME",
+"href": "https://www.miketurner.com/index.php"
+},
+{
+"text": "ISSUES",
+"href": "https://www.miketurner.com/issues.php"
+},
+{
+"text": "MEDIA",
+"href": "https://www.miketurner.com/media.php"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/MikeTurnerforCongress"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/citizensforturner"
+},
+{
+"text": "[image]",
+"href": "https://x.com/MikeTurnerOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.miketurner.com/index.php"
+}
 ]

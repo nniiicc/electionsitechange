@@ -1,38 +1,10 @@
-ENDORSEMENTS: A Seal of Trust
-Receiving these endorsements is not just an honor but a profound acknowledgment of the trust and confidence placed in my abilities and qualifications.
+↑ 0 Skip to Content District 100 Endorsements Events News Register to Vote Contact DONATE Open Menu Close Menu District 100 Endorsements Events News Register to Vote Contact DONATE Open Menu Close Menu District 100 Endorsements Events News Register to Vote Contact DONATE ENDORSEMENTS: A Seal of Trust Receiving these endorsements is not just an honor but a profound acknowledgment of the trust and confidence placed in my abilities and qualifications.
 Each endorsement serves as a testament to my commitment and capability to represent the interests and needs of New York Assembly District 100 with dedication and effectiveness.
-26 endorsements
-OFFICIALS SUPPORT PAULA
-Congressman Pat Ryan
-Middletown Mayor Joe Destefano
-Middletown Police Chief John Ewanciw
-LAW ENFORCEMENT SUPPORTS PAULA
-New York State Troopers PBA
-New York State Police Investigators Association
-Town of Fallburg PBA
-BUSINESS SUPPORTS PAULA
-NYFIB NY PAC
-CIVIC GROUPS SUPPORT PAULA
-Orange County Democratic Committee
-Sullivan County Democratic Committee
-Eleanor’s Legacy
-Patriot NY PAC
-Planned Parenthood Empire State Votes PAC
-Voters for Animal Rights (VFAC)
-New York League of Conservation Voters
-Humane World Action Fund
-AGRICULTURE SUPPORTS PAULA
-Gerald J.
-Skoda
-LABOR SUPPORTS PAULA
-Communications Workers of America
-Carpenters LU 279
-International Brotherhood of Electrical Workers Union Local 363
-UA Plumbers and Steamfitters LU 373
-LiUNA-NY
-CSEA-NY
-1199 SEIU United Healthcare Workers East
-NYSUT
-NYSNA
-NYS Public Employees Federation
-Local 825 Operating Engineers
+26 endorsements OFFICIALS SUPPORT PAULA Congressman Pat Ryan Middletown Mayor Joe Destefano Middletown Police Chief John Ewanciw LAW ENFORCEMENT SUPPORTS PAULA New York State Troopers PBA New York State Police Investigators Association Town of Fallburg PBA BUSINESS SUPPORTS PAULA NYFIB NY PAC CIVIC GROUPS SUPPORT PAULA Orange County Democratic Committee Sullivan County Democratic Committee Eleanor’s Legacy Patriot NY PAC Planned Parenthood Empire State Votes PAC Voters for Animal Rights (VFAC) New York League of Conservation Voters Humane World Action Fund AGRICULTURE SUPPORTS PAULA Gerald J.
+Skoda LABOR SUPPORTS PAULA Communications Workers of America Carpenters LU 279 International Brotherhood of Electrical Workers Union Local 363 UA Plumbers and Steamfitters LU 373 LiUNA-NY CSEA-NY 1199 SEIU United Healthcare Workers East NYSUT NYSNA NYS Public Employees Federation Local 825 Operating Engineers ⬇︎ReaD The endorsements⬇︎ Contact us Paula for Assembly 100 PO Box 434 Rock Hill, NY 12775 info@paulaforassembly100.com 845-798-5585 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Connected & Informed Join our community of active voices and be the first to know!
+Get updates straight to your inbox and stay involved with the latest news, events, and opportunities to make a difference.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+HOME | DISTRICT 100 | ENDORSEMENTS | EVENTS | NEWS REGISTER TO VOTE | VOLUNTEER | DONATE Donate | Privacy Policy Paid for by Paula for Assembly

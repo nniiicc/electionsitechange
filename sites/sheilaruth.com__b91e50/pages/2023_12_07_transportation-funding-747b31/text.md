@@ -1,5 +1,5 @@
-My statement on the recently announced transportation cuts
-Yesterday, the Maryland Department of Transportation announced drastic cuts to the transportation budget.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Transportation Funding My statement on the recently announced transportation cuts Yesterday, the Maryland Department of Transportation announced drastic cuts to the transportation budget.
 These cuts will hurt Marylanders statewide and set back our economy and environmental health for years, possibly decades.
 Canceling 12 major highway projects, all MTA commuter bus routes, and the MARC Brunswick Line extension, as well as reducing state funds going to local jurisdictions for Locally Operated Transit Systems (LOTS), will impact the ability of Marylanders to get to work and cause job loss (including construction jobs lost due to the canceled construction projects.) Reductions in transit state of good repair funding and canceling the funding increases to local jurisdictions for road maintenance will reduce the quality of life for Maryland commuters and more importantly could cause safety issues at a time when vehicular crashes have increased so dramatically since only last year.
 Delaying the zero emission bus transition will also make it more difficult to meet our climate goals, goals which our state has prided itself on.
@@ -13,4 +13,9 @@ Access to reliable transportation is essential to all Marylanders, and investmen
 Drastic cuts to transportation that will harm working and middle class families are simply unacceptable.
 As a transit advocate, Vice Chair of the Transit Caucus, and a member of the Environment and Transportation committee, I will always do everything I can to protect and expand equitable transit that will provide Marylanders with choices, economic opportunity, and a clean and healthy environment.
 I pledge to do my part to support transit in the upcoming 2024 session.
-Delegate Sheila Ruth
+Delegate Sheila Ruth Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

@@ -1,5 +1,4 @@
-I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities I still support purchasing these two entities and forming a customer owned non-profit. https://ctmirror.org/2023/11/11/maine-public-power-company-referendum-vote/
-For any governor, his or her ability would be very limited when it comes to affecting energy prices.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Energy Home / Issues / Energy I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities I still support purchasing these two entities and forming a customer owned non-profit. https://ctmirror.org/2023/11/11/maine-public-power-company-referendum-vote/ For any governor, his or her ability would be very limited when it comes to affecting energy prices.
 Any candidate who promises to lower prices for electricity if elected is not being truthful.
 In a perfect world, prices would be determined by the laws of supply and demand.
 As demand goes up relative to supply, prices also go up.
@@ -17,12 +16,17 @@ They should not be installed where they destroy or render inaccessible, valuable
 The construction of hydroelectric dams has caused great environmental and economic harm by destroying wildlife habitat and blocking fish passage.
 I support removing the four lower dams on the Kennebec River given their relatively small contribution to the supply of electricity and the potential economic and environmental benefits of a free flowing river.
 I support removing or bypassing other hydroelectric dams as appropriate.
-I support installation of dam free kinetic hydropower facilities where they are suitable and create little or no environmental harm. https://blog.ansi.org/ansi/tidal-power-turbines-in-east-river/
-Giant wind turbines are both an eyesore and a threat to wildlife.
+I support installation of dam free kinetic hydropower facilities where they are suitable and create little or no environmental harm. https://blog.ansi.org/ansi/tidal-power-turbines-in-east-river/ Giant wind turbines are both an eyesore and a threat to wildlife.
 New technologies such as bladeless, are being developed that are far less visually and environmentally intrusive.
 Vertical wind turbines can also be an excellent supplement to solar panels on a small scale.
-I support properly sited, environmentally safe wind power. https://www.theguardian.com/environment/2021/mar/16/good-vibrations-bladeless-turbines-could-bring-wind-power-to-your-home
-I support consideration of new nuclear generating facilities, especially small modular reactors.
+I support properly sited, environmentally safe wind power. https://www.theguardian.com/environment/2021/mar/16/good-vibrations-bladeless-turbines-could-bring-wind-power-to-your-home I support consideration of new nuclear generating facilities, especially small modular reactors.
 Their environmental impact (e.g. less water usage) is much less than traditional nuclear reactors.
-They should not be a preferred means of power generation, but their use should not be ruled out. https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs
-.
+They should not be a preferred means of power generation, but their use should not be ruled out. https://www.iaea.org/newscenter/news/what-are-small-modular-reactors-smrs .
+Issues John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

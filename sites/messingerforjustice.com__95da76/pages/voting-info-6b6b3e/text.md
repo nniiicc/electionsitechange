@@ -1,11 +1,8 @@
-VOTING INFORMATION
-The Court of Criminal Appeals is the highest criminal court in Texas.
+Skip to content Menu Menu HOME ABOUT JOHN ENDORSEMENTS VOTING INFO NEWS VOLUNTEER CONTACT VOTING INFORMATION The Court of Criminal Appeals is the highest criminal court in Texas.
 It has the last word on matters of Texas criminal law.
 Like the Supreme Court of Texas, it is a statewide court with nine members, three of whom are elected every two years.
 The Court of Criminal Appeals has the discretion to review the decisions of the 14 regional courts of appeals.
 It also has original jurisdiction over direct appeals of capital murder convictions in which the death penalty was assessed and post-conviction writs of habeas corpus.
-| Last Day to Register to Vote | |
-| First Day of Early Voting | |
-| Last Day to Apply for Ballot by Mail (Received, not Postmarked) | |
-| Last Day of Early Voting | |
-| Last day to Receive Ballot by Mail | |
+Last Day to Register to Vote First Day of Early Voting Last Day to Apply for Ballot by Mail ( Received , not Postmarked) Last Day of Early Voting Last day to Receive Ballot by Mail DONATE TODAY!
+SHARE EVERYWHERE!
+GET UPDATES AND REMINDERS First Name Email ZIP Code MORE INFO HOME ABOUT JOHN ENDORSEMENTS VOTING INFO NEWS VOLUNTEER CONTACT Political Ad Paid For By Messinger For Justice, Ron Agnew Treasurer © # MessingerForJustice.com • Built By Election Day Strategies

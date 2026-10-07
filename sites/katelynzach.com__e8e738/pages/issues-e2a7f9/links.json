@@ -1,8 +1,34 @@
 [
-"https://flic.kr/s/aHBqjD64AE",
-"https://katelynzach.com/",
-"https://katelynzach.com/about-katelyn",
-"https://katelynzach.com/get-involved",
-"https://katelynzach.com/issues",
-"https://secure.actblue.com/donate/katelyn-zach-1"
+{
+"text": "About Katelyn",
+"href": "https://www.katelynzach.com/about-katelyn"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/katelyn-zach-1"
+},
+{
+"text": "Drive",
+"href": "https://flic.kr/s/aHBqjD64AE"
+},
+{
+"text": "Get Involved",
+"href": "https://www.katelynzach.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.katelynzach.com"
+},
+{
+"text": "Issues",
+"href": "https://www.katelynzach.com/issues"
+},
+{
+"text": "katelynzach4missouri@gmail.com",
+"href": "mailto:katelynzach4missouri@gmail.com"
+},
+{
+"text": "​",
+"href": "https://www.katelynzach.com"
+}
 ]

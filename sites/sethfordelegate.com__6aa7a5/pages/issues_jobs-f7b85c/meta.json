@@ -1,7 +1,9 @@
 {
  "description": "Jobs",
  "final_url": "https://www.sethfordelegate.com/issues/jobs",
- "paid_for_by": null,
+ "fingerprint": "009c0ccb7337de0512f1da9898f9d4dda27799d6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jobs",
  "years_mentioned": []
 }

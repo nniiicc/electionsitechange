@@ -1,23 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Wyandotte+Beer+Co+Fundraiser&dates=20211015T010000Z%2F20211015T030000Z&location=3016+1st+Street%2C+Wyandotte%2C+MI%2C+48192%2C+United+States",
-"http://maps.google.com/?q=3016+1st+Street+Wyandotte%2C+MI%2C+48192+United+States",
-"https://docs.google.com/forms/d/e/1FAIpQLSfU7gg1ZC8kbgpta7A_SGxtFDfYEvIa3mpI9-xZl23d5gVt_Q/viewform",
-"https://facebook.com/Jaime4StateRep",
-"https://instagram.com/jaime_churches",
-"https://jaimechurches.com/",
-"https://jaimechurches.com/about",
-"https://jaimechurches.com/cart",
-"https://jaimechurches.com/endorsements",
-"https://jaimechurches.com/events",
-"https://jaimechurches.com/events/event-two-3s9nj-9ygz3",
-"https://jaimechurches.com/events/event-two-3s9nj?format=ical",
-"https://jaimechurches.com/home",
-"https://jaimechurches.com/house-district-27",
-"https://jaimechurches.com/priorities",
-"https://jaimechurches.com/subscribe",
-"https://mobilize.us/jaimechurches",
-"https://secure.actblue.com/donate/churchesatwyandottebeerco",
-"https://secure.actblue.com/donate/jc-web-2026",
-"https://secure.ngpvan.com/l42iWNh3K0uoH2msGI6ohQ2",
-"https://twitter.com/Jaime_Churches"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3016+1st+street+wyandotte%2C+mi%2C+48192+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jaimechurches.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jaimechurches.com/home"
+},
+{
+"text": "About Jaime",
+"href": "https://www.jaimechurches.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jaimechurches.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jaimechurches.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:Jaime@jaimechurches.com?subject=Contact+the+campaign"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/jc-web-2026"
+},
+{
+"text": "Donate‍",
+"href": "https://secure.actblue.com/donate/jc-web-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaimechurches.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaimechurches.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wyandotte+Beer+Co+Fundraiser&dates=20211015T010000Z%2F20211015T030000Z&location=3016+1st+Street%2C+Wyandotte%2C+MI%2C+48192%2C+United+States"
+},
+{
+"text": "House District 27",
+"href": "https://www.jaimechurches.com/house-district-27"
+},
+{
+"text": "ICS",
+"href": "https://www.jaimechurches.com/events/event-two-3s9nj?format=ical"
+},
+{
+"text": "Next Next December 9 Auburn Cafe Fundraiser",
+"href": "https://www.jaimechurches.com/events/event-two-3s9nj-9ygz3"
+},
+{
+"text": "Priorities",
+"href": "https://www.jaimechurches.com/priorities"
+},
+{
+"text": "Purchase your ticket online today!",
+"href": "https://secure.actblue.com/donate/churchesatwyandottebeerco"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfU7gg1ZC8kbgpta7A_SGxtFDfYEvIa3mpI9-xZl23d5gVt_Q/viewform"
+},
+{
+"text": "Subscribe",
+"href": "https://secure.ngpvan.com/l42iWNh3K0uoH2msGI6ohQ2"
+},
+{
+"text": "Subscribe",
+"href": "https://www.jaimechurches.com/subscribe"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/jaimechurches/"
+},
+{
+"text": "[image: Jaime Churches]",
+"href": "https://www.jaimechurches.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Jaime_Churches"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Jaime4StateRep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaime_churches/"
+},
+{
+"text": "https://secure.actblue.com/donate/churchesatwyandottebeerco?refcode=web",
+"href": "https://secure.actblue.com/donate/churchesatwyandottebeerco"
+}
 ]

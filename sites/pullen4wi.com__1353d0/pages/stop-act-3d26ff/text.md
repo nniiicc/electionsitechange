@@ -1,7 +1,6 @@
-THE STOP ACT
-The STOP Act — Statewide Taskforce on Online Predators
-Child Exploitation Task Force Funding
-Children are being targeted, exploited, and trafficked in Wisconsin every day.
+Home Policy Initiatives Get Involved Contact Voting Media DONATE NOW!
+Home Policy Initiatives Get Involved Contact Voting Media DONATE NOW!
+KEEP Act · NEST Act · HOME Act · PAVE Act · PRICE Act STAY Act · SMALL Act · CHANCE Act · TRIM Act · PRUNE Act SHIELD Act · RISE Act · STOP Act · EQUAL Act · ROOTS Act BARE Act · TRUST Act · DRAW Act THE STOP ACT The STOP Act — Statewide Taskforce on Online Predators Child Exploitation Task Force Funding Children are being targeted, exploited, and trafficked in Wisconsin every day.
 Online predators use social media, gaming platforms, and messaging apps to access minors.
 Trafficking networks target vulnerable young people across our state.
 And the resources dedicated to stopping it have never been sufficient.
@@ -18,16 +17,8 @@ Training for law enforcement, school personnel, healthcare workers, and hospital
 And accountability for the platforms that facilitate predatory access to minors.
 Support Victims: A dedicated advocate assigned to every case, trauma-informed counseling, and long-term follow-up services — because a conviction doesn't undo the harm done to a child.
 Wisconsin's children deserve nothing less.
-Connect
-Join the campaign and make a difference.
-Engage
-REIVE@PULLEN4WI.COM
-(920)221-1191
+Connect Join the campaign and make a difference.
+Engage REIVE@PULLEN4WI.COM (920)221-1191 Subscribe To Our Newsletter Submit Your Information © #.
 All rights reserved.
-Paid for by Pullen for Wisconsin
-📬 Support Pullen for Wisconsin
-The most effective way to donate is by check (no processing fees!)
-Pullen for Wisconsin
-P.O.
-Box 1414 • Appleton, WI 54911
-Or donate securely online — every dollar helps us reach voters and win this race.
+Paid for by Pullen for Wisconsin 📬 Support Pullen for Wisconsin The most effective way to donate is by check (no processing fees!) Pullen for Wisconsin P.O.
+Box 1414 • Appleton, WI 54911 Or donate securely online — every dollar helps us reach voters and win this race.

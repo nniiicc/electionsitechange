@@ -1,20 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=VT+Primary+Election+Day&dates=20260811T090000Z%2F20260811T230000Z",
-"http://secure.actblue.com/entity/fundraisers/155469",
-"https://instagram.com/joemajor4vt_state_senate?igsh=MWlvNGV0NXFsZDZyMA%3D%3D",
-"https://joemajorvt.com/",
-"https://joemajorvt.com/about",
-"https://joemajorvt.com/cart",
-"https://joemajorvt.com/contact",
-"https://joemajorvt.com/events",
-"https://joemajorvt.com/events/royalton-old-home-days",
-"https://joemajorvt.com/events/vt-primary-election-day?format=ical",
-"https://joemajorvt.com/issues-priorities",
-"https://joemajorvt.com/news",
-"https://joemajorvt.com/results",
-"https://outside.vermont.gov/dept/sos/Elections_Division/voters/guide_vermonts_town_clerks_treasurers_county.pdf",
-"https://outside.vermont.gov/dept/sos/Elections_Division/voters/vermont_election_ballot_drop_box_locations.pdf",
-"https://secure.actblue.com/entity/fundraisers/155469",
-"https://sos.vermont.gov/elections/voters/polling-places",
-"https://vote.vermont.gov/public/dashboard"
+{
+"text": "0",
+"href": "https://www.joemajorvt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.joemajorvt.com/about"
+},
+{
+"text": "Actblue.com",
+"href": "http://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.joemajorvt.com/contact"
+},
+{
+"text": "Contact your town clerk",
+"href": "https://outside.vermont.gov/dept/sos/Elections_Division/voters/guide_vermonts_town_clerks_treasurers_county.pdf"
+},
+{
+"text": "Donate Here: Act Blue",
+"href": "https://secure.actblue.com/entity/fundraisers/155469"
+},
+{
+"text": "Download the statewide list of ballot drop boxes",
+"href": "https://outside.vermont.gov/dept/sos/Elections_Division/voters/vermont_election_ballot_drop_box_locations.pdf"
+},
+{
+"text": "Events",
+"href": "https://www.joemajorvt.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=VT+Primary+Election+Day&dates=20260811T090000Z%2F20260811T230000Z"
+},
+{
+"text": "Home",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.joemajorvt.com/events/vt-primary-election-day?format=ical"
+},
+{
+"text": "Legislative Results",
+"href": "https://www.joemajorvt.com/results"
+},
+{
+"text": "News",
+"href": "https://www.joemajorvt.com/news"
+},
+{
+"text": "Previous Previous August 1 Royalton Old Home Days",
+"href": "https://www.joemajorvt.com/events/royalton-old-home-days"
+},
+{
+"text": "Priorities",
+"href": "https://www.joemajorvt.com/issues-priorities"
+},
+{
+"text": "[image: Joe Major for Windsor County Senate 2026]",
+"href": "https://www.joemajorvt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemajor4vt_state_senate/?igsh=MWlvNGV0NXFsZDZyMA%3D%3D"
+},
+{
+"text": "https://sos.vermont.gov/elections/voters/polling-places",
+"href": "https://sos.vermont.gov/elections/voters/polling-places"
+},
+{
+"text": "https://vote.vermont.gov/public/dashboard",
+"href": "https://vote.vermont.gov/public/dashboard"
+}
 ]

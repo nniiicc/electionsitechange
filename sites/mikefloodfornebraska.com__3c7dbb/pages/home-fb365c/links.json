@@ -1,12 +1,46 @@
 [
-"https://facebook.com/FloodforCongress",
-"https://mikefloodfornebraska.com/",
-"https://mikefloodfornebraska.com/about",
-"https://mikefloodfornebraska.com/get-involved",
-"https://mikefloodfornebraska.com/getting-things-done",
-"https://mikefloodfornebraska.com/home",
-"https://mikefloodfornebraska.com/media",
-"https://mikefloodfornebraska.com/privacy-policy-2",
-"https://secure.anedot.com/d5f6f1da-c6e2-448d-bf93-e718311624d7/donate",
-"https://twitter.com/flood4nebraska"
+{
+"text": "About",
+"href": "https://mikefloodfornebraska.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/d5f6f1da-c6e2-448d-bf93-e718311624d7/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://mikefloodfornebraska.com/get-involved/"
+},
+{
+"text": "Getting Things Done",
+"href": "https://mikefloodfornebraska.com/getting-things-done/"
+},
+{
+"text": "Home",
+"href": "https://mikefloodfornebraska.com/"
+},
+{
+"text": "Join Team Flood",
+"href": "https://mikefloodfornebraska.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://mikefloodfornebraska.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikefloodfornebraska.com/privacy-policy-2/"
+},
+{
+"text": "[image: Mike Flood for U.S. Congress]",
+"href": "https://mikefloodfornebraska.com/home/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/flood4nebraska"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FloodforCongress"
+}
 ]

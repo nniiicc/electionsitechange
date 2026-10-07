@@ -1,7 +1,9 @@
-In The News
-Sullivan serves on committees critical to Alaska: Armed Services, Commerce, Veterans Affairs, and Environment and Public Works.
-- Women for Dan Coalition Builds Momentum in Fairbanks and Anchorage ANCHORAGE, AK — The Women for Dan Coalition continued its statewide launch in Fairbanks…
-- Alaska Mom: “Dan is who Alaskans need representing us.” ANCHORAGE, AK — Today, Senator Dan Sullivan (R-Alaska) released a new ad…
-- NEW AD ALERT: Julie Fate Sullivan Responds Directly to Peltola’s Attacks on Her Family ANCHORAGE, AK — After more than a year of attack ads against…
-- Senator Sullivan Calls for Moratorium on U.S.
-Diesel Exports With Alaskans feeling the pain at the pump, Sullivan says “American fuel…
+Skip to content Meet Dan Media News Media Center Endorsements Vote Join the Team Facebook Instagram YouTube X Donate Chip in now to stand with Dan! $25 $50 $100 $250 Other In The News Sullivan serves on committees critical to Alaska: Armed Services, Commerce, Veterans Affairs, and Environment and Public Works.
+Learn More : untitled post 4035 Faith Coalition Learn More : Faith Coalition Women for Dan Coalition Builds Momentum in Fairbanks and Anchorage ANCHORAGE, AK — The Women for Dan Coalition continued its statewide launch in Fairbanks… Learn More : Women for Dan Coalition Builds Momentum in Fairbanks and Anchorage Alaska Mom: “Dan is who Alaskans need representing us.” ANCHORAGE, AK — Today, Senator Dan Sullivan (R-Alaska) released a new ad… Learn More : Alaska Mom: “Dan is who Alaskans need representing us.” NEW AD ALERT: Julie Fate Sullivan Responds Directly to Peltola’s Attacks on Her Family ANCHORAGE, AK — After more than a year of attack ads against… Learn More : NEW AD ALERT: Julie Fate Sullivan Responds Directly to Peltola’s Attacks on Her Family Senator Sullivan Calls for Moratorium on U.S.
+Diesel Exports With Alaskans feeling the pain at the pump, Sullivan says “American fuel… Learn More : Senator Sullivan Calls for Moratorium on U.S.
+Diesel Exports 1 2 3 … 6 Next Page Connect Facebook Instagram YouTube X HQ Address: 3030 Denali St Suite #8, Anchorage, AK 99503 Mailing Address: 3705 Arctic Blvd #447, Anchorage, Alaska 99503 info@danforak.com © Copyright #.
+All Rights Reserved.
+Any use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of War.
+Do Not Sell or Share My Personal Information .
+This site is protected by reCAPTCHA.
+Paid for by Alaskans for Dan Sullivan | Terms & Conditions | Privacy Policy Meet Dan News Media Join the Team

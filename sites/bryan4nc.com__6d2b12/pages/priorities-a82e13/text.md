@@ -1,17 +1,6 @@
-Freedom to choose to start a family
-- I’ll advocate for a state constitutional amendment to be approved by voters that will enshrine a woman’s right to choose into state law
-- I’ll fight for protections for universal access to contraception and IVF treatment
-- I’ll work to expand high-quality and affordable healthcare
-"Our fundamental freedoms are on the line.
+top of page DONATE Home Meet Bryan Priorities News Volunteer More Use tab to navigate through the menu items.
+Freedom to choose to start a family I’ll advocate for a state constitutional amendment to be approved by voters that will enshrine a woman’s right to choose into state law I’ll fight for protections for universal access to contraception and IVF treatment I’ll work to expand high-quality and affordable healthcare "Our fundamental freedoms are on the line.
 The MAGA supermajority in our State House is attacking the freedoms we all cherish.
-Breaking that supermajority runs through Granville and Vance Counties."
-Freedom of our kids to learn and prosper in public schools
-- Public dollars should stay in public schools.
-That’s why I’ll work to repeal the destructive voucher program recently passed by Republicans in our legislature that is taking vital resources away from our public schools
-- We’re losing our best educators and staff.
-That’s why I will fight every day to ensure that those who support our kids have the tools and support they need, including long overdue pay increases for our educators
-- I’ll fight any efforts by MAGA Republicans to ban books or otherwise censor essential educational materials
-Freedom for everyone to prosper
-- I’ll champion a long-overdue increase in the minimum wage in North Carolina to a livable wage
-- I’ll advocate for paid family and sick leave for all workers
-- I’ll work as hard as I can to ensure that every North Carolinian has access to affordable housing
+Breaking that supermajority runs through Granville and Vance Counties." Freedom of our kids to learn and prosper in public schools Public dollars should stay in public schools.
+That’s why I’ll work to repeal the destructive voucher program recently passed by Republicans in our legislature that is taking vital resources away from our public schools We’re losing our best educators and staff.
+That’s why I will fight every day to ensure that those who support our kids have the tools and support they need, including long overdue pay increases for our educators I’ll fight any efforts by MAGA Republicans to ban books or otherwise censor essential educational materials Freedom for everyone to prosper I’ll champion a long-overdue increase in the minimum wage in North Carolina to a livable wage I’ll advocate for paid family and sick leave for all workers I’ll work as hard as I can to ensure that every North Carolinian has access to affordable housing CONTACT THE CAMPAIGN Paid for by Bryan Cohn For NC PO Box 10541 Raleigh, NC 27605 Privacy Statement bottom of page

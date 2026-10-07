@@ -1,9 +1,34 @@
 [
-"https://casscountynd.gov/our-county/finance-office/elections",
-"https://friendsofkessel.org/",
-"https://friendsofkessel.org/get-involved",
-"https://friendsofkessel.org/meet-shawn",
-"https://friendsofkessel.org/news-updates",
-"https://friendsofkessel.org/vote",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://friendsofkessel.org/get-involved/"
+},
+{
+"text": "MEET SHAWN",
+"href": "https://friendsofkessel.org/meet-shawn/"
+},
+{
+"text": "NEWS",
+"href": "https://friendsofkessel.org/news-updates/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://friendsofkessel.org//#priorities"
+},
+{
+"text": "VOTE",
+"href": "https://friendsofkessel.org/vote/"
+},
+{
+"text": "[image]",
+"href": "https://friendsofkessel.org/"
+},
+{
+"text": "clicking here",
+"href": "https://www.casscountynd.gov/our-county/finance-office/elections#docaccess-3d144d27a46fed184785315b0c77ec68d0bf90a30add9704cc5214be4fc53cfc"
+}
 ]

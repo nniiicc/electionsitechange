@@ -1,35 +1,22 @@
-top of page
-All Posts
-Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026)
-Dear Casper, Recently, I read a letter to the editor asking whether it was true that old men are governing Wyoming.
+top of page Erickson for House District 37 Home About Why I am Running Endorsements Blog JOIN THE MOVEMENT More Use tab to navigate through the menu items.
+Donate All Posts All Posts Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026) Dear Casper, Recently, I read a letter to the editor asking whether it was true that old men are governing Wyoming.
 The letter then went on to list the positions women currently hold at the federal, state and local levels.
 I don’t dispute that women serve in these roles; they do.
 But when you look at the numbers, it is clear that Wyoming is still largely governed by men — and older men in particular.
 First, let’s examine the number of women legislators.
-You can browse the Wyo
-ericksonforhd37Jun 82 min read
-Rep.
-Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026)
-Dear Casper, Public lands are deeply valued in Wyoming.
+You can browse the Wyo ericksonforhd37 Jun 8 2 min read Rep.
+Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026) Dear Casper, Public lands are deeply valued in Wyoming.
 We love our wide-open spaces, and we understand there are few places on Earth as beautiful as this state.
 So, imagine my surprise, and that of my neighbors, friends, and colleagues, when we learned that Harriet Hageman, a fourth-generation Wyomingite, introduced a bill to rescind the Roadless Rule.
-Hageman claims the Roadless Rule has been “devastating” to the West, but rescinding it would open some of our most pristine
-ericksonforhd37Jun 82 min read
-Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional
-Dear Casper, I am writing as a concerned citizen of Wyoming and parent of a child in public school.
+Hageman claims the Roadless Rule has been “devastating” to the West, but rescinding it would open some of our most pristine ericksonforhd37 Jun 8 2 min read Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional Dear Casper, I am writing as a concerned citizen of Wyoming and parent of a child in public school.
 In the 2025 legislative session, House Bill 199 passed.
 This bill was sponsored by Ocean Andrew.
 HB199, or the Wyoming Freedom Scholarship Act, gives $7,000 per child to any family that chooses not to have their child or children in public school.
 This money can then be used for homeschooling curriculum or to pay tuition at private schools, even parochial schools.
-While I respe
-ericksonforhd37Feb 115 min read
-Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life
-Dear Casper, I am writing to you today in support of libraries.
+While I respe ericksonforhd37 Feb 11 5 min read Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life Dear Casper, I am writing to you today in support of libraries.
 Specifically, I am writing in support of public libraries.
 As a bibliophile it is easy to look at a library and only see the books.
 The library is a portal into multiple worlds, perspectives, and vast vocabularies and languages.
 When a person enters the Natrona County Public Library they are greeted with books, sure, but there is so much more.
 In the library there are computers with free internet.
-That’s right, r
-ericksonforhd37Feb 113 min read
-bottom of page
+That’s right, r ericksonforhd37 Feb 11 3 min read Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

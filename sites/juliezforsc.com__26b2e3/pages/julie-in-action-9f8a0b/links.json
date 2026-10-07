@@ -1,16 +1,66 @@
 [
-"https://artistic-aspirations.com/greater-irmo-art-guild",
-"https://designedtorun.com/",
-"https://facebook.com/juliezforsc",
-"https://instagram.com/juliezforsc",
-"https://juliezforsc.com/",
-"https://juliezforsc.com/about",
-"https://juliezforsc.com/contact",
-"https://juliezforsc.com/house-district-71-map",
-"https://juliezforsc.com/media",
-"https://juliezforsc.com/news",
-"https://juliezforsc.com/volunteer",
-"https://secure.actblue.com/donate/julie-zimmerman-1",
-"https://tiktok.com/@julie.z.for.sc",
-"https://youtu.be/lguZSub5jBc"
+{
+"text": "About",
+"href": "https://www.juliezforsc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.juliezforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-zimmerman-1"
+},
+{
+"text": "Greater Irmo Art Guild",
+"href": "https://artistic-aspirations.com/greater-irmo-art-guild"
+},
+{
+"text": "House District 71 Map",
+"href": "https://www.juliezforsc.com/house-district-71-map"
+},
+{
+"text": "JulieZforSC@gmail.com",
+"href": "mailto:JulieZforSC@gmail.com"
+},
+{
+"text": "Media",
+"href": "https://www.juliezforsc.com/media"
+},
+{
+"text": "News",
+"href": "https://www.juliezforsc.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.juliezforsc.com/volunteer"
+},
+{
+"text": "[image: Julie Z for SC logo]",
+"href": "https://www.juliezforsc.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.juliezforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/juliezforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/juliezforsc/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@julie.z.for.sc"
+},
+{
+"text": "[no text]",
+"href": "https://youtu.be/lguZSub5jBc"
+}
 ]

@@ -1,19 +1,7 @@
-Image 1 of 9
-Image 2 of 9
-Image 3 of 9
-Image 4 of 9
-Image 5 of 9
-Image 6 of 9
-Image 7 of 9
-Image 8 of 9
-Image 9 of 9
-from $22.77
-| | 16.9oz | 25oz |
-|---|---|---|
-| Height, in | 6.50 | 9.49 |
-| Diameter, in | 2.80 | 2.80 |
-.: Materials: tritan (bottle), polypropylene, acrylonitrile, polyethylene (lid and straw)
-.: Available in two sizes
-.: BPA-free
-.: Grey spill-resistant lid and clear mouthpiece
-.: Personalizable to perfection
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Swag & Merch › Campaign Water Bottle (2 Sizes) Image 1 of 9 Image 2 of 9 Image 3 of 9 Image 4 of 9 Image 5 of 9 Image 6 of 9 Image 7 of 9 Image 8 of 9 Image 9 of 9 Campaign Water Bottle (2 Sizes) from $22.77 16.9oz 25oz Height, in 6.50 9.49 Diameter, in 2.80 2.80 This Tritan water bottle is here to keep you hydrated and minimize waste.
+Thanks to its Tritan construction, this bottle is highly reusable and a great, eco-friendly replacement to disposable plastic bottles.
+Available in two sizes, each bottle comes with a screw-on, spill-resistant lid with straw for a mess-free sipping experience. .: Materials: tritan (bottle), polypropylene, acrylonitrile, polyethylene (lid and straw) .: Available in two sizes .: BPA-free .: Grey spill-resistant lid and clear mouthpiece .: Personalizable to perfection Size: Select Size 16.9oz 25oz Color: Select Color Transparent Add To Cart Added!
+16.9oz 25oz Height, in 6.50 9.49 Diameter, in 2.80 2.80 This Tritan water bottle is here to keep you hydrated and minimize waste.
+Thanks to its Tritan construction, this bottle is highly reusable and a great, eco-friendly replacement to disposable plastic bottles.
+Available in two sizes, each bottle comes with a screw-on, spill-resistant lid with straw for a mess-free sipping experience. .: Materials: tritan (bottle), polypropylene, acrylonitrile, polyethylene (lid and straw) .: Available in two sizes .: BPA-free .: Grey spill-resistant lid and clear mouthpiece .: Personalizable to perfection Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

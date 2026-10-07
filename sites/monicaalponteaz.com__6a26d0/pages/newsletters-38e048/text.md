@@ -1,4 +1,1 @@
-Official Campaign Website of Monica Alponte for Congress
-Copyright © 2026 Libertarian Candidate Monica Alponte - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Official Campaign Website of Monica Alponte for Congress Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS More Home Newsletters SENIORS, DISABLED, VETS MEETUPS Home Newsletters SENIORS, DISABLED, VETS MEETUPS NEWSLETTERS Libertarian Voice Sept-Oct 2026 Vol 1 No 2 (Sonia Acosta, Voter Info, Recent Poll, Disabled TownHall (pdf) Download Libertarian Voice July-Aug 2026 Vol 1 No 1 (Primary Results & Voter Info) (pdf) Download PAID FOR BY MONICA ALPONTE FOR CONGRESS Home Newsletters Powered by

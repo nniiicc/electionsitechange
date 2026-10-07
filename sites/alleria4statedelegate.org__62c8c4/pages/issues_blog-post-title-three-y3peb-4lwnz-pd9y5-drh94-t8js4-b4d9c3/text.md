@@ -1,7 +1,6 @@
-Strict Accountability and Regulation for Data Centers
-Frederick County is ground zero for unprecedented data center expansion.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Strict Accountability and Regulation for Data Centers May 28 Written By Apple User Frederick County is ground zero for unprecedented data center expansion.
 While computing capacity powers our digital society, private technology conglomerates must not exploit our natural resources or offload their operational costs onto Maryland families.
-I approach this challenge with an unyielding community-first standard: if data centers want to be our neighbors, they must be GOOD neighbors.
+I approach this challenge with an unyielding community-first standard: if data centers want to be our neighbors, they must be GOOD neighbors .
 Being a good neighbor means operating sustainably, investing in our local community, funding their own infrastructure, and guaranteeing absolute ratepayer neutrality.
 I advocate for the core principles of the Utility RELIEF Act of 2026 to ensure hyperscale data center operators fund every dollar of their transmission lines, substations, and grid upgrades.
 I demand the completion and comprehensive review of the state data center impact study before supporting further legislative expansion.
@@ -19,3 +18,8 @@ Any developer receiving state enterprise zone tax credits or expedited permittin
 Good corporate neighbors commit to our community by paying prevailing wages, maintaining comprehensive safety standards, and using local union plumbers, pipefitters, and electrical workers to build and service these facilities.
 We cannot allow out-of-state contractors to extract local wealth while leaving environmental degradation behind.
 Frederick County's environment, drinking water, and working families are not for sale to out-of-state tech corporations.
+Apple User Previous Previous Responsible Growth, Rural Conservation, and Agricultural Preservation Next Next Housing Affordability, Rent Stability, and Homeownership Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

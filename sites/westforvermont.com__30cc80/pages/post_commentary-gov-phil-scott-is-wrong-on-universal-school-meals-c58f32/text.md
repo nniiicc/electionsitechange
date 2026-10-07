@@ -1,6 +1,5 @@
-Commentary: Gov.
-Phil Scott is Wrong on Universal School Meals
-At a time when working families are stretched thinner than ever, this program provides stability.
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE All Posts Education Press Release Housing Service Endorsements Search Commentary: Gov.
+Phil Scott is Wrong on Universal School Meals Thomas West Mar 3, 2025 2 min read At a time when working families are stretched thinner than ever, this program provides stability.
 I know the stigma firsthand.
 I remember having to enter a PIN on the days I was hungry enough to ask for food in high school.
 That is one of the few numbers I still have memorized, 050565.
@@ -30,4 +29,8 @@ Vermonters believe in taking care of one another.
 We should not go backward.
 We should not let kids go hungry just to balance a budget.
 Let’s do the right thing and keep universal school meals for every child, every school, every day.
-Published on March 3, 2025 via VT Digger.
+Published on March 3, 2025 via VT Digger .
+Education Recent Posts See All Commentary: Protect school choice in rural Vermont Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

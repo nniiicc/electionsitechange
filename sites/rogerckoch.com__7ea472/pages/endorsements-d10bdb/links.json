@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61585023669554",
-"https://rogerckoch.com/",
-"https://rogerckoch.com/aboutroger",
-"https://rogerckoch.com/cart",
-"https://rogerckoch.com/contact",
-"https://rogerckoch.com/endorsements",
-"https://rogerckoch.com/meet-greet",
-"https://rogerckoch.com/sample-ballot"
+{
+"text": "0",
+"href": "https://www.rogerckoch.com/cart"
+},
+{
+"text": "About Roger",
+"href": "https://www.rogerckoch.com/aboutroger"
+},
+{
+"text": "Contact",
+"href": "https://www.rogerckoch.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rogerckoch.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.rogerckoch.com/"
+},
+{
+"text": "Meet & Greet Speech",
+"href": "https://www.rogerckoch.com/meet-greet"
+},
+{
+"text": "Sample Ballot",
+"href": "https://www.rogerckoch.com/sample-ballot"
+},
+{
+"text": "[image: Roger Koch for Missouri State Representative, District 162]",
+"href": "https://www.rogerckoch.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585023669554"
+},
+{
+"text": "rogerkoch.staterepresentative@gmail.com",
+"href": "mailto:rogerkoch.staterepresentative@gmail.com"
+}
 ]

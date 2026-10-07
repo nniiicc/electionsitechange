@@ -1,12 +1,4 @@
-Donate
-To contribute by mail, please send a personal check
-made payable to “Guy for Congress” to:
-Guy for Congress
-PO Box 23177
-Pittsburgh, PA 15222
-made payable to “Guy for Congress” to:
-Guy for Congress
-PO Box 23177
-Pittsburgh, PA 15222
-+1 724-201-1494
-guy@guyforpa.com
+About Issues News Get Involved Store Donate Donate Get Your Guy For PA Gear Show your support by purchasing Guy Reschenthaler gear.
+Official Logo - Bumper Sticker (Set of 2) $5.00 Official Logo - Yard Signs (Set of 2) $25.00 Guy Reschenthaler for Congress Button (Set of 2) $10.00 Guy Reschenthaler for Congress Tote Bag $25.00 Guy Reschenthaler for Congress White Hat $25.00 Guy Reschenthaler for Congress Camo Hat $25.00 Name * First Last Email * Address * ZIP Code Donate To contribute by mail, please send a personal check made payable to “Guy for Congress” to: Guy for Congress PO Box 23177 Pittsburgh, PA 15222 Contact Us +1 724-201-1494 guy@guyforpa.com Paid for by Guy for Congress, Inc.
+Neither military info nor photographs of Guy in uniform imply endorsement of Guy Reschenthaler for Congress by the Department of War or its particular military departments.
+Privacy Policy

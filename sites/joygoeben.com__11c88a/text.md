@@ -1,4 +1,4 @@
-As a Wisconsin native and a lifelong resident of the greater Green Bay area, I want to give back to my community and support the freedoms and opportunities that we have known in this state for many years.
+GOEBEN FOR ASSEMBLY About Donate Volunteer District Key Issues Contact Gallery As a Wisconsin native and a lifelong resident of the greater Green Bay area, I want to give back to my community and support the freedoms and opportunities that we have known in this state for many years.
 Recently, I realized that the best way to address my concerns about our state government is to step up and work for positive changes that preserve conservative values.
 I am married to Ben and have four wonderful children ages 9 to 23.
 My oldest son has graduated from St Norbert College and is currently serving as a second lieutenant in the United States Army.
@@ -16,3 +16,5 @@ I have served as a youth leader and on the leadership committee at Christ Alone 
 As a political candidate you can look to me to stand up for conservative values.
 With a strong belief in personal and economic freedom, I support free trade and limited government.
 I believe that as Americans, we need to work to preserve the guiding principles that were laid out by our founding fathers to keep our nation free.
+Paid for and Authorized by Friends of Joy Goeben.
+About Donate Volunteer District Key Issues Contact Gallery

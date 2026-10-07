@@ -1,12 +1,3 @@
-Contact
-Friends of Carol Glanville
-P.O.
-Box 140235
-Grand Rapids, MI 49514
-info@voteglanville.com
-Privacy Policy
-Follow us
-Paid for by Friends of Carol Glanville,
-P.O.
-Box 140235, Grand Rapids, MI 49514
-Powered by Tech for Campaigns
+Menu Home About Carol Priorities Endorsements Vote Get Involved Donate Endorsements Elected Officials Senate Majority Leader Winnie Brinks State Representative Stephen Wooden Democratic Floor Leader John Fitzgerald State Representative Kristian Grant State Representative Phil Skaggs Grand Rapids Mayor David LaGrand Former Grand Rapids Mayor George Heartwell State Senator Darren Camilleri Kent County Commissioner Kris Pachla County Comm Melissa LaGrand Grand Rapids City Commissioner Lisa Knight Grand Rapids City Commissioner Aliciamarie Belchak Grand Rapids Public School Board Trustee Sara Melton Grand Rapids Public School Board Trustee Eleanor Moreno Former Grand Rapids City Commissioner Jon O’Connor East Grand Rapids Mayor Katie Favale Organizations Menu Home About Carol Priorities Endorsements Vote Get Involved Contact Friends of Carol Glanville P.O.
+Box 140235 Grand Rapids, MI 49514 info@voteglanville.com Donate Privacy Policy Follow us Facebook X-twitter Instagram Paid for by Friends of Carol Glanville, P.O.
+Box 140235, Grand Rapids, MI 49514 Powered by Tech for Campaigns

@@ -1,27 +1,2 @@
-Endorsements
-Elected Officials
-Congressmember Rick Larsen
-Congressmember Suzan DelBene
-Governor Bob Ferguson
-Attorney General Nick Brown
-Lt.
-Governor Denny Heck
-Secretary of State Steve Hobbs
-Superintendent of Public Instruction Chris Reykdal
-Snohomish County Sheriff Susanna Johnson
-Mukilteo City Councilmember Richard Emery
-Former Mukilteo City Councilmember Mike Dixon (fmr.)
-Edmonds City Councilmember Susan Paine
-Edmonds City Councilmember Chris Eck
-Lynnwood Mayor George Hurst
-Lynnwood City Councilmember Nick Coehlo
-Lynnwood City Councilmember Derica Escamalia
-Lynnwood City Councilmember Robert Leutwyler
-Lynnwood City Councilmember Isabel Mata
-Lynnwood City Councilmember David Parshall
-Mountlake Terrace Mayor Steve Woodard
-Mountlake Terrace City Councilmember Kyoko Matsumoto Wright
-Mountkake Terrace City Councilmember William Paige
-Mountlake Terrace City Councilmember Sam Doyle
-Bothell Mayor Mason Thompson
-Mill Creek Mayor Stephanie Vignal
+Toggle navigation Volunteer Contribute Volunteer Home About Issues Priorities News Endorsements Contact Endorsements Elected Officials Congressmember Rick Larsen Congressmember Suzan DelBene Governor Bob Ferguson Attorney General Nick Brown Lt.
+Governor Denny Heck Secretary of State Steve Hobbs Superintendent of Public Instruction Chris Reykdal Snohomish County Sheriff Susanna Johnson Mukilteo City Councilmember Richard Emery Former Mukilteo City Councilmember Mike Dixon (fmr.) Edmonds City Councilmember Susan Paine Edmonds City Councilmember Chris Eck Lynnwood Mayor George Hurst Lynnwood City Councilmember Nick Coehlo Lynnwood City Councilmember Derica Escamalia Lynnwood City Councilmember Robert Leutwyler Lynnwood City Councilmember Isabel Mata Lynnwood City Councilmember David Parshall Mountlake Terrace Mayor Steve Woodard Mountlake Terrace City Councilmember Kyoko Matsumoto Wright Mountkake Terrace City Councilmember William Paige Mountlake Terrace City Councilmember Sam Doyle Bothell Mayor Mason Thompson Mill Creek Mayor Stephanie Vignal Paid for by Friends of Strom Peterson (D) PO Box 12066, Seattle, WA 98102

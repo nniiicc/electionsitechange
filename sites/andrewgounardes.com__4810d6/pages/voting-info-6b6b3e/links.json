@@ -1,18 +1,66 @@
 [
-"https://andrewgounardes.com/",
-"https://andrewgounardes.com/about",
-"https://andrewgounardes.com/contact",
-"https://andrewgounardes.com/endorsements",
-"https://andrewgounardes.com/issues",
-"https://andrewgounardes.com/news",
-"https://andrewgounardes.com/volunteer",
-"https://designedtorun.com/",
-"https://elections.ny.gov/request-ballot",
-"https://facebook.com/AndrewForNewYork",
-"https://instagram.com/agounardes",
-"https://iwillvote.com/locate?state=NY",
-"https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1",
-"https://voterlookup.elections.ny.gov/",
-"https://voterreg.dmv.ny.gov/MotorVoter",
-"https://x.com/agounardes"
+{
+"text": "About",
+"href": "https://www.andrewgounardes.com/about"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewgounardes.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewgounardes.com/endorsements"
+},
+{
+"text": "Find our where to vote",
+"href": "https://iwillvote.com/locate/?state=NY"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewgounardes.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.andrewgounardes.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://voterreg.dmv.ny.gov/MotorVoter/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewgounardes.com/volunteer"
+},
+{
+"text": "[image: Andrew Gounardes for State Senate ]",
+"href": "https://www.andrewgounardes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AndrewForNewYork"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/agounardes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/agounardes"
+}
 ]

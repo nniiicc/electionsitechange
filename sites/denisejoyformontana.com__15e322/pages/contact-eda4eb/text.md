@@ -1,3 +1,3 @@
-Candidate for House District 46
-Are you interested in protecting economic growth and healthy neighborhoods in Yellowstone County and Montana?
+Skip to content Denise Joy for Montana Candidate for House District 46 Home About Denise Values & Issues Help Get Denise Elected Contact Home About Denise Values & Issues Help Get Denise Elected Contact DONATE Contact US Are you interested in protecting economic growth and healthy neighborhoods in Yellowstone County and Montana?
 Let me know your thoughts, and consider volunteering for my campaign!
+Say Hi! email: denise@denisejoyforbillings.com mailing address: Denise Joy for Billings, PO Box 31192 Billings, MT 59107 phone: 406-647-0337 Endorsements Paid for by Denise Joy for Billings, PO Box 31192 Billings, MT 59107 © All Rights Reserved #

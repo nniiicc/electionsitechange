@@ -1,8 +1,4 @@
-Press Release
-Fighting Your Illness Starts With Restoring Congress
-May 12, 2026
-https://youtu.be/FMX8qqviQW4
-This isn't just a story about cancer; it's a story about a broken system.
+Home | About | Why | Mission Get Involved | News | Donate Donate Press Release Fighting Your Illness Starts With Restoring Congress May 12, 2026 https://youtu.be/FMX8qqviQW4 This isn't just a story about cancer; it's a story about a broken system.
 In this powerful speech, a former oncologist exposes the harsh reality facing millions of Americans: a healthcare system where death comes not from disease, but from unpayable bills.
 From a 30-year-old paralyzed by a $200,000 ER visit to families forced to choose between medicine and food, the human cost of a monopolized industry is undeniable.
 We dive deep into the mechanics of the crisis: The Monopoly: How three financial giants (BlackRock, Vanguard, State Street) control insurance companies, eliminating competition and driving up costs.
@@ -17,4 +13,12 @@ Key Themes: Healthcare Reform, Corporate Monopoly, Political Corruption, Indepen
 Call to Action: If you believe healthcare is a human right and democracy belongs to the people, share this message.
 Let's build an America independent from corporate control.
 Subscribe if you believe: No one should die because they can't afford treatment Congress should work for voters, not donors An independent political voice is the only way forward.
-VOTE INDEPENDENCE, VOTE FOR DR WITTA
+VOTE INDEPENDENCE, VOTE FOR DR WITTA Back to News Together We Fight Join our growing movement of Americans who are ready to speak up.
+Get updates on our campaign, upcoming events, and ways you can make a difference.
+Join the Movement Follow Us: Together we can reform healthcare, restore Congress to the people, and respect the diversity that makes America strong.
+Reform • Restore • Respect Campaign About Dr.
+Witta The Issues News & Updates Events Get Involved Volunteer Donate Request a Yard Sign Share Our Message Contact info@drwitta.com (720) 467-4233 Privacy Policy Terms of Service Contact Us © 2026 Dr.
+Witta for Congress.
+All rights reserved.
+Paid for by Dr.
+Witta for Congress

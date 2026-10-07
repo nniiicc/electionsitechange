@@ -1,21 +1,5 @@
-Recent Updates From Tommy
-Legislative Update: Special Session Week 2
-Legislative Update: Special Session Week 2 Overview This week the House of Representatives worked tirelessly to finish out the second week of special session and
-Legislative Update: Special Session
-Legislative Update: Special Session SCHRC Special Session Weekly Update Overview The General Assembly was back in session this week to pass important absentee voting measures
-Sine Die Legislative Update
-Sine Die Legislative Update This week was a big win for South Carolina taxpayers and businesses as we worked diligently to continue reopening our state.
-Legislative Update: Week 10, 2020
-Legislative Update: Week 10, 2020 Overview The past week we have all had to adapt to the “new normal” of social distancing, working from home, school
-Legislative Update: Week 9, 2020
-Legislative Update: Week 9, 2020 Budget Week After months of working with Gov.
-McMaster, building consensus, and many hours of debate I joined my House colleagues
-Legislative Update: Week 8, 2020
-Legislative Update: Week 8, 2020 Overview The week began with a huge development for the future of our state-owned utility Santee Cooper.
-I encourage you to
-Legislative Update: Week 7, 2020
-Legislative Update: Week 7, 2020 Overview Hearings about the future of our state-owned utility Santee Cooper kicked off this week in the House with a special
-Legislative Update: Week 6, 2020
-Legislative Update: Week 6, 2020 Overview We were busy this week at the State House with a lot of behind the-scenes work as we debated in
-Legislative Update: Week 5, 2020
-Legislative Update: Week 5, 2020 Overview This week brought about one of the biggest decisions the General Assembly will ever face, the fate of our state-owned
+Skip to content Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Tommy Pope Meet Tommy Contact Tommy Join the Pope Team Legislative Updates District Map Donate Legislative Updates from Team Pope Read now Recent Updates From Tommy​ Legislative Update: Special Session Week 2 Legislative Update: Special Session Week 2 Overview This week the House of Representatives worked tirelessly to finish out the second week of special session and Read More » September 28, 2020 Legislative Update: Special Session Legislative Update: Special Session SCHRC Special Session Weekly Update Overview The General Assembly was back in session this week to pass important absentee voting measures Read More » September 21, 2020 Sine Die Legislative Update Sine Die Legislative Update This week was a big win for South Carolina taxpayers and businesses as we worked diligently to continue reopening our state.
+Read More » May 19, 2020 Legislative Update: Week 10, 2020 Legislative Update: Week 10, 2020 Overview The past week we have all had to adapt to the “new normal” of social distancing, working from home, school Read More » March 23, 2020 Legislative Update: Week 9, 2020 Legislative Update: Week 9, 2020 Budget Week After months of working with Gov.
+McMaster, building consensus, and many hours of debate I joined my House colleagues Read More » March 16, 2020 Legislative Update: Week 8, 2020 Legislative Update: Week 8, 2020 Overview The week began with a huge development for the future of our state-owned utility Santee Cooper.
+I encourage you to Read More » March 9, 2020 Legislative Update: Week 7, 2020 Legislative Update: Week 7, 2020 Overview Hearings about the future of our state-owned utility Santee Cooper kicked off this week in the House with a special Read More » March 2, 2020 Legislative Update: Week 6, 2020 Legislative Update: Week 6, 2020 Overview We were busy this week at the State House with a lot of behind the-scenes work as we debated in Read More » February 24, 2020 Legislative Update: Week 5, 2020 Legislative Update: Week 5, 2020 Overview This week brought about one of the biggest decisions the General Assembly will ever face, the fate of our state-owned Read More » February 17, 2020 « Previous Next » Subscribe to Legislative Updates Don't miss new updates on your email Email Subscribe Our Address Pope for House 47 PO Box 471 York, SC 29745 803-734-2701 (Columbia) (803) 324-7574 (Local) quick links Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy Meet Tommy Legislative Updates Join the Pope Team Reach Tommy Support Terms and Conditions Privacy Policy stay connected Twitter Facebook-f Linkedin Youtube © All rights reserved # Tommy Pope : House 47.
+Website Design provided by Josh Ethan

@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.votemaura.com/about-me",
- "paid_for_by": null,
- "title": "Maura's Story \u2014 Maura for 49",
+ "fingerprint": "8b55aadc9ec29089d6a5faed6729f16325036ec9",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Maura's Story — Maura for 49",
  "years_mentioned": [
   "2010",
   "2016",
-  "2018"
+  "2018",
+  "2020"
  ]
 }

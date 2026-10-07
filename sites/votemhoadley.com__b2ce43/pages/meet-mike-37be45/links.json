@@ -1,12 +1,42 @@
 [
-"https://facebook.com/profile.php?id=100071193108540",
-"https://michigan.gov/sos/elections/upcoming-election-information/voters/register/step-by-step-guide",
-"https://secure.winred.com/committee-to-elect-mike-hoadley/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://twitter.com/MikeHoadley1",
-"https://votemhoadley.com/",
-"https://votemhoadley.com/99th-district-map",
-"https://votemhoadley.com/get-involved",
-"https://votemhoadley.com/meet-mike",
-"https://votemhoadley.com/platform",
-"https://votemhoadley.com/privacy-policy"
+{
+"text": "99TH DISTRICT MAP",
+"href": "https://www.votemhoadley.com/99th-district-map"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-mike-hoadley/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votemhoadley.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votemhoadley.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.votemhoadley.com/meet-mike"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votemhoadley.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votemhoadley.com/privacy-policy"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/MikeHoadley1"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100071193108540"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.michigan.gov/sos/elections/upcoming-election-information/voters/register/step-by-step-guide"
+}
 ]

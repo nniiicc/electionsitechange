@@ -1,13 +1,10 @@
-EMELE
-meet henry
-Henry Emele is an entrepreneur, husband, and father of two young boys, raising his family in Manchester's Ward 7.
+0 Skip to Content Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign Open Menu Close Menu Meet Henry Events Issues News Donate Volunteer Get a Yard Sign EMELE meet henry Henry Emele is an entrepreneur, husband, and father of two young boys, raising his family in Manchester's Ward 7.
 He's spent years building businesses, and he's seen firsthand how too many Manchester families are getting stretched thin.
 Henry is running for State Representative in District 26 to focus on what matters to Manchester families: making New Hampshire affordable again, expanding housing for working families, strengthening our schools, and tackling the homelessness and mental health challenges on our streets.
 He believes good ideas come from every side of the aisle, and he'll work with Republicans, Democrats, and Independents alike to solve problems for our community.
 He's not a career politician.
 He's your neighbor, and he's ready to represent you.
-Our Manchester Story
-We moved from Texas to Manchester with our young son Ugo and a conviction: New Hampshire was where we wanted to build the rest of our lives.
+Our Manchester Story We moved from Texas to Manchester with our young son Ugo and a conviction: New Hampshire was where we wanted to build the rest of our lives.
 We believed the move would open doors for our family.
 But what we fell in love with wasn't only the opportunity.
 It was the closeness this community provides.
@@ -29,3 +26,18 @@ The rising cost of living, the housing crunch, the homelessness and mental healt
 These aren't abstract issues.
 They're threats to the very community that welcomed us.
 I'm running to protect what we found here.
+Join us.
+Volunteer.
+Donate.
+Put a sign in your yard.
+Or just say hello.
+Every Manchester neighbor pitching in is what makes this campaign work.
+Get in Touch Donate by Mail Henry Emele for NH State Rep 9 Clarendon Way Manchester, NH 03103 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up to join Henry Emele’s campaign for New Hampshire State Representative.
+Email Address Sign Up We respect your privacy.
+Thanks for signing up!
+We'll be in touch soon to find the best way for you to help.
+Meet Henry Issues Volunteer Contact Us HENRY EMELE Paid for by Henry Emele for NH State Representative ©# Henry Emele for NH State Representative.
+All Rights Reserved.
+Privacy & Terms

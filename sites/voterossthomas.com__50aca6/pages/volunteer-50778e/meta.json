@@ -1,7 +1,9 @@
 {
  "description": "Volunteer for Ross Thomas&#39;s campaign",
  "final_url": "https://www.voterossthomas.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "06dcb9395548f31dd42c05014c9a54310d082018",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
  "years_mentioned": []
 }

@@ -1,5 +1,4 @@
-FOR IMMEDIATE RELEASE
-Democratic Socialist candidate Christine Dargon (aka Christine K Frydenborg) presents no policy agenda specifics.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X DSA Candidate Christine Dargon Resorts to misinformation, misrepresentation, and fabrication August 8, 2026 FOR IMMEDIATE RELEASE Democratic Socialist candidate Christine Dargon (aka Christine K Frydenborg) presents no policy agenda specifics.
 She instead adopts the same tired Democrat Socialist playbook, “Rules for Radicals,” by Saul Alinsky.
 Full of misinformation, misrepresentation, and fabrication aimed at a person (the opposition) instead of speaking to her policy agenda with specifics, but hey, that’s what DSA candidates do.
 While Jack Smith and crew put Sen.
@@ -28,4 +27,5 @@ She’s not exposing anything.
 Then, there is the troubling evidence that Christine Dargon is taking donations through ActBlue…the same platform currently under state, federal, and congressional investigation for allegedly accepting illegal foreign money and straw donations, then watching its entire legal and compliance team resign or get fired while its CEO took the Fifth over and over again.
 Nothing says “clean elections” like fundraising through a site drowning in fraud probes.
 She’s manufacturing smears because she has no policy solutions to offer Yavapai County—only a history of highly inappropriate activity.
-####
+#### Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

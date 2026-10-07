@@ -1,11 +1,42 @@
 [
-"https://facebook.com/lisakellerforalaska",
-"https://instagram.com/lisakellerforalaska",
-"https://lisakellerforalaska.com/",
-"https://lisakellerforalaska.com/about",
-"https://lisakellerforalaska.com/cart",
-"https://lisakellerforalaska.com/endorsements",
-"https://lisakellerforalaska.com/volunteer",
-"https://lisakellerforalaska.com/voter-info",
-"https://secure.anedot.com/lisa-keller-for-alaska/web"
+{
+"text": "0",
+"href": "https://www.lisakellerforalaska.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lisakellerforalaska.com/about"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/lisa-keller-for-alaska/web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisakellerforalaska.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisakellerforalaska.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://www.lisakellerforalaska.com/voter-info"
+},
+{
+"text": "[image: Lisa Keller for State House District 13]",
+"href": "https://www.lisakellerforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lisakellerforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisakellerforalaska/"
+},
+{
+"text": "lisakeller@lisakellerforalaska.com",
+"href": "mailto:lisakeller@lisakellerforalaska.com"
+}
 ]

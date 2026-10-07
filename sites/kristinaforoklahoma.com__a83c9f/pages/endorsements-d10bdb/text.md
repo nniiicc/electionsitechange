@@ -1,3 +1,3 @@
-Endorsements
-Would you like to endorse Kristina Gabriel For Oklahoma House District 77 in Tulsa?
+Home Meet Kristina Priorities Affordability Healthcare Accessibility Tribal-State Partnerships AI Data Centers Endorsements Support Us Volunteer Donate Vote contact Donate Donate Home Meet Kristina Priorities Affordability Healthcare Accessibility Tribal-State Partnerships AI Data Centers Endorsements Support Us Volunteer Donate Vote contact 💖 We need your help to power our campaign, chip in today! $10 $100 $250 Endorsements Would you like to endorse Kristina Gabriel For Oklahoma House District 77 in Tulsa?
 We'd love to hear from you!
+Loading… Authorized and Paid for by Kristina for Oklahoma 2026

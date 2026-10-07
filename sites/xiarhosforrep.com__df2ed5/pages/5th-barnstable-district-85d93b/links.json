@@ -1,22 +1,94 @@
 [
-"http://malegislature.gov/",
-"http://sandwichmass.org/",
-"http://town.barnstable.ma.us/",
-"http://townofbourne.com/",
-"https://facebook.com/xiarhosforrep",
-"https://instagram.com/xiarhosforrep",
-"https://secure.democracyengine.com/StevenXiarhos",
-"https://twitter.com/xiarhosforrep",
-"https://xiarhosforrep.com/",
-"https://xiarhosforrep.com/2025/02/legislative_agenda_2025",
-"https://xiarhosforrep.com/5th-barnstable-district",
-"https://xiarhosforrep.com/about-steve-xiarhos",
-"https://xiarhosforrep.com/author/xiarhosforrep2020",
-"https://xiarhosforrep.com/beacon-hill-brief",
-"https://xiarhosforrep.com/contact-us",
-"https://xiarhosforrep.com/helpful-links",
-"https://xiarhosforrep.com/in_the_news",
-"https://xiarhosforrep.com/issues",
-"https://xiarhosforrep.com/join-our-e-mail-list",
-"https://xiarhosforrep.com/news"
+{
+"text": "About Steve",
+"href": "https://xiarhosforrep.com/about-steve-xiarhos/"
+},
+{
+"text": "Barnstable",
+"href": "http://www.town.barnstable.ma.us/"
+},
+{
+"text": "Bourne",
+"href": "http://www.townofbourne.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://xiarhosforrep.com/contact-us/"
+},
+{
+"text": "DONATE[image: DONATE]",
+"href": "https://secure.democracyengine.com/StevenXiarhos"
+},
+{
+"text": "Donate",
+"href": "https://secure.democracyengine.com/StevenXiarhos"
+},
+{
+"text": "Follow Us On Instagram[image: Follow Us On Instagram]",
+"href": "https://www.instagram.com/xiarhosforrep/"
+},
+{
+"text": "Follow Us On Twitter[image: Follow Us On Twitter]",
+"href": "https://twitter.com/xiarhosforrep"
+},
+{
+"text": "Follow us on Facebook![image: Follow us on Facebook!]",
+"href": "https://www.facebook.com/xiarhosforrep"
+},
+{
+"text": "Get E-mails",
+"href": "https://xiarhosforrep.com/join-our-e-mail-list/"
+},
+{
+"text": "Helpful Links",
+"href": "https://xiarhosforrep.com/helpful-links/"
+},
+{
+"text": "Home",
+"href": "https://xiarhosforrep.com/"
+},
+{
+"text": "Legislative Agenda 2025-2026",
+"href": "https://xiarhosforrep.com/2025/02/legislative_agenda_2025/"
+},
+{
+"text": "Massachusetts General Court",
+"href": "http://www.malegislature.gov/"
+},
+{
+"text": "News Room",
+"href": "https://xiarhosforrep.com/news/"
+},
+{
+"text": "Press Releases and Statements",
+"href": "https://xiarhosforrep.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://xiarhosforrep.com/issues/"
+},
+{
+"text": "Sandwich",
+"href": "http://www.sandwichmass.org/"
+},
+{
+"text": "Steve In the News",
+"href": "https://xiarhosforrep.com/in_the_news/"
+},
+{
+"text": "The Beacon Hill Brief",
+"href": "https://xiarhosforrep.com/beacon-hill-brief/"
+},
+{
+"text": "The District",
+"href": "https://xiarhosforrep.com/5th-barnstable-district/"
+},
+{
+"text": "Xiarhos Committee",
+"href": "https://xiarhosforrep.com/author/xiarhosforrep2020/"
+},
+{
+"text": "[image: Steven Xiarhos for State Representative Logo]",
+"href": "https://xiarhosforrep.com/"
+}
 ]

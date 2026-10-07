@@ -1,8 +1,38 @@
 [
-"https://seanhutson.com/",
-"https://seanhutson.com/cart",
-"https://seanhutson.com/contact",
-"https://seanhutson.com/meet-sean",
-"https://seanhutson.com/the-issues",
-"https://secure.winred.com/hutson-for-ohio/websitelandingpage"
+{
+"text": "0",
+"href": "https://www.seanhutson.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.seanhutson.com/contact"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/hutson-for-ohio/websitelandingpage"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.winred.com/hutson-for-ohio/websitelandingpage"
+},
+{
+"text": "Meet Sean",
+"href": "https://www.seanhutson.com/meet-sean"
+},
+{
+"text": "Meet Sean Hutson",
+"href": "https://www.seanhutson.com/meet-sean"
+},
+{
+"text": "Read More About Sean's Issues",
+"href": "https://www.seanhutson.com/the-issues"
+},
+{
+"text": "The Issues",
+"href": "https://www.seanhutson.com/the-issues"
+},
+{
+"text": "[image: Sean Hutson For State Representative]",
+"href": "https://www.seanhutson.com/"
+}
 ]

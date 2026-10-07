@@ -1,4 +1,2 @@
-The 88th Assembly District
-| The 88th Assembly District is made up of communities in Brown County including the villages of Allouez and Bellevue, and portions of the city of Green Bay and the towns of Ledgeview and Rockland.
-See if your in the 88th Assembly District by clicking here.
-For information on how to register to vote, see what's on your ballot, or request an absentee ballot, please visit: www.myvote.wi.gov | |
+Ben Franklin for Assembly Home About Ben Issues District Donate Contact The 88th Assembly District The 88th Assembly District is made up of communities in Brown County including the villages of Allouez and Bellevue, and portions of the city of Green Bay and the towns of Ledgeview and Rockland. ​ See if your in the 88th Assembly District by clicking here.
+For information on how to register to vote, see what's on your ballot, or request an absentee ballot, please visit: www.myvote.wi.gov Donate Paid for by Franklin for Wisconsin Information does not imply endorsement by the DOD or US Air Force Copyright © # Home About Ben Issues District Donate Contact

@@ -1,5 +1,18 @@
 [
-"https://calebhinkle.com/",
-"https://calebhinkle.com/contact",
-"https://secure.anedot.com/caleb-hinkle-for-montana-house/donate"
+{
+"text": "Contact",
+"href": "https://calebhinkle.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/caleb-hinkle-for-montana-house/donate"
+},
+{
+"text": "Home",
+"href": "https://calebhinkle.com/"
+},
+{
+"text": "[image: Re-elect Caleb Hinkle to Montana House District 68 logo]",
+"href": "https://calebhinkle.com/"
+}
 ]

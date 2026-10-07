@@ -1,5 +1,4 @@
-Meet Guillermo
-Guillermo Gonzalez was born in Bakersfield and raised in Mexico, where he saw two very different worlds.
+Skip to content Meet Guillermo The Valley Promise Endorsements Our District Media News Contact Me Join Team Guillermo Get a yard sign Give Join Give Menu Meet Guillermo Guillermo Gonzalez was born in Bakersfield and raised in Mexico, where he saw two very different worlds.
 As the son of immigrants, he learned early that in Mexico the government served the powerful, not the people.
 In America, he saw that hard work and faith could change everything, and he pursued that same American Dream.
 Those early years shaped his belief that the promise of the Valley and the opportunity to work hard, raise a family, and build a future must be protected for the next generation.
@@ -15,3 +14,6 @@ It is about restoring the promise that brought his parents to California in the 
 He believes the Valley's best days are ahead if leaders put people before politics, hold government accountable, and give every family the freedom to work, worship, and prosper.
 That is the California Dream worth fighting for, and Guillermo is ready to make it real.
 With firsthand experience of the American Dream through his family, Guillermo understands the will of the people he will represent and is committed to fighting to preserve those values in Sacramento and to securing a brighter future for the Central Valley for generations to come.
+Support change now Give Get a yard sign Restore the promise of the Valley Join Team Guillermo Give Follow Guillermo The campaign Meet Guillermo The Valley Promise Endorsements Our District Media In the News Take part Join Team Guillermo Get a yard sign Give Contact Me More See what you'd save Privacy Policy Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026.
+All rights reserved.
+Privacy Policy ← →

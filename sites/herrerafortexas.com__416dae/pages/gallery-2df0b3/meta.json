@@ -1,7 +1,9 @@
 {
  "description": "Explore the photo gallery showcasing Joe P. Herrera campaign images for the Texas Senate. Join us in supporting the campaign!",
  "final_url": "https://herrerafortexas.com/gallery",
- "paid_for_by": null,
+ "fingerprint": "52988facfe80c9dc0836259e68a3d13e0ee6d3c8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Joe P. Herrera Photo Gallery - Texas Senate Campaign",
  "years_mentioned": []
 }

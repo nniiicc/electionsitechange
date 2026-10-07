@@ -1,13 +1,5 @@
-Meet Will
-Will Darby has lived in Nashua since 2003, having originally moved to New Hampshire in 1994.
+Skip to content Will Darby for Nashua Ward 8 State Representative Meet Will On the Issues Blog Acknowledgements and Endorsements Get Involved Donate Facebook Meet Will Will Darby has lived in Nashua since 2003, having originally moved to New Hampshire in 1994.
 After graduating from Clarkson University and receiving a Master’s from Villanova, he worked for Lockheed Sanders, Digital, MITRE and most recently Arista Networks as a software engineer and manager.
 Married to his amazing wife Deb for almost 20 years, they have six daughters, including two public school teachers and a mental health nurse.
 An ardent outdoorsman, Will prefers to spend his free time fishing and exploring New Hampshire’s forests.
-Roles
-Across Nashua and the State
-In the Community
-- Nashua Democrats
-- Secretary
-- Lone Pine Hunters Club
-- Recording Secretary
-- Conservation Committee
+Roles At the State House Resources, Recreation and Development Committee Fish and Game and Marine Resources Committee Committee to Study Fish and Game Department Funding and Partnerships Across Nashua and the State Nashua Energy and Environment Committee Public Water Access Advisory Board In the Community Nashua Democrats Secretary Lone Pine Hunters Club Recording Secretary Conservation Committee Paid for by Friends of Will Darby, William Darby, Fiscal Agent 13 Jensen St., Nashua, NH Website Credits

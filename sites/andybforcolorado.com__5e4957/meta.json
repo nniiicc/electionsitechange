@@ -1,7 +1,9 @@
 {
  "description": "Andy for Colorado is the official website for State Representative Andrew Boesenecker, House District 53. Paid for by Andrew for Colorado. Registered Agent: Andrew Boesenecker",
  "final_url": "https://www.andybforcolorado.com/",
- "paid_for_by": "Paid for by: Andrew for Colorado",
+ "fingerprint": "3d71bec5192ba6b90c7961a471fcb3f8fb442bac",
+ "format": 3,
+ "paid_for_by": "sponsored by Reps",
  "title": "HOME | Andy for Colorado",
  "years_mentioned": [
   "2025",

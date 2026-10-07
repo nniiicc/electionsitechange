@@ -1,7 +1,4 @@
-Skip to content
-Meet Deborah Adeimy
-Mother, Executive, 5th generation Floridian family, patriot
-Born in West Palm Beach to hardworking parents, Deborah attended Saint Juliana and then Cardinal Newman High School, where all students are welcomed.
+Skip to content HOT News Donate Home Photo Gallery Videos Meet Deborah HOT News Issues Events Contact Us Hot News Donate MENU Meet Deborah Adeimy Mother, Executive, 5th generation Floridian family, patriot Born in West Palm Beach to hardworking parents, Deborah attended Saint Juliana and then Cardinal Newman High School, where all students are welcomed.
 While honor and Christianity were the guide, it was simple uniforms that highlighted, we are all equal.
 “It didn’t matter, all races, religions – we were friends and have great memories.” Deborah went on to attend Palm Beach State, FAU as well as Loyola University.
 During a summer job, she found real world experience in finance and economics fascinating.
@@ -15,15 +12,7 @@ She is a mother of twin sons, both obtaining Doctorates in Chemistry and her thi
 Involved in her community Deborah is a Pioneer member of the Historical Society of Palm Beach County, Business Development Board Advisory, Palm Beach Civic Assoc, Urban League PBC, Catholic Charities PB, Republican Jewish Coalition Leadership, GOP Club of Palm Beach and others.
 She supports several organizations including JFPBC, Salvation Army, Cox Science Center and Norton Museum of Art.
 Deborah knows the long history of corruption and dissatisfaction with Lois Frankel.
-FLORIDA BORN, AMERICAN STRONG
-Help us campaign today for a better tomorrow!
-MORE ISSUES DEBORAH CARES ABOUT
-Contributions can be Mailed:
-- STRONG MILITARY
-- RESPECT FOR WOMEN
-- U.S.
-CONSTITUTION
-- PARENTAL RIGHTS
-- HONOR VETERANS
-- LAW ENFORCEMENT
-- SUPPORT FOR ISRAEL
+FLORIDA BORN, AMERICAN STRONG Help us campaign today for a better tomorrow!
+CONTRIBUTE MORE ISSUES DEBORAH CARES ABOUT STRONG MILITARY RESPECT FOR WOMEN U.S.
+CONSTITUTION PARENTAL RIGHTS HONOR VETERANS LAW ENFORCEMENT SUPPORT FOR ISRAEL Contact Us (561) 508-9909 Contributions can be Mailed: Deborah Adeimy for Congress 3200 Summit Blvd #20257 West Palm Beach, FL 33416 © # DEBORAH ADEIMY For U.S.
+Congress | All Rights Reserved | Privacy Policy | Site Map Home Photo Gallery Videos Meet Deborah HOT News Issues Events Contact Us

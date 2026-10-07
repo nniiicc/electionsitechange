@@ -1,12 +1,42 @@
-Pragmatic Leadership that Delivers Real Results
-I’m running to serve the people of Ohio’s 28th District with honesty, transparency, and a focus on commonsense solutions.
+top of page HOME MEET JILL PRIORITIES GET INVOLVED DONATE Pragmatic Leadership that Delivers Real Results I’m running to serve the people of Ohio’s 28th District with honesty, transparency, and a focus on commonsense solutions.
 My goal is to strengthen families, support local leaders, and work together to build a brighter future — because I believe a stronger tomorrow starts with all of us, today.
-PRIORITIES
-A Stronger Economy that Works for Families
-Tax Relief and Waste Reduction: Jill supports cutting personal income taxes and eliminating wasteful spending to make Ohio more affordable and fiscally responsible.
+PRIORITIES Economy Public Safety Education Infrastructure Transparency Families A Stronger Economy that Works for Families Tax Relief and Waste Reduction: Jill supports cutting personal income taxes and eliminating wasteful spending to make Ohio more affordable and fiscally responsible.
 Support for Small Business: Jill believes government should get out of the way and help entrepreneurs succeed by reducing burdensome regulations and paperwork.
 Workforce and Infrastructure Investment: Jill supports workforce development programs, investment in trade and manufacturing, and ensuring Ohio is ready for job growth with infrastructure that meets future demand.
-Jill's Record on the Economy
-Built a Successful Local Business: Jill and her husband founded Cole Realty Associates in 2006 and own and operate the 52,000-square-foot Galbraith Business Center.
-Helped Bring Jobs to Blue Ash: As mayor, Jill supported a performance-based agreement that helped bring a corporate headquarters and more than 100 local jobs to Blue Ash.
-Practiced Fiscal Discipline: As a council member and mayor, Jill has helped continue Blue Ash’s conservative budgeting practices, strong reserves, and responsible approach to debt.
+Jill's Record on the Economy Built a Successful Local Business: Jill and her husband founded Cole Realty Associates in 2006 and own and operate the 52,000-square-foot Galbraith Business Center. ​ Helped Bring Jobs to Blue Ash: As mayor, Jill supported a performance-based agreement that helped bring a corporate headquarters and more than 100 local jobs to Blue Ash. ​ Practiced Fiscal Discipline: As a council member and mayor, Jill has helped continue Blue Ash’s conservative budgeting practices, strong reserves, and responsible approach to debt.
+Safe and Stable Communities Support for Law Enforcement: Jill backs investments in public safety and law enforcement training, believing strong communities start with safe neighborhoods. ​ ​Effective Criminal Justice: Jill supports a justice system that holds offenders accountable while protecting victims and reducing repeat offenses.
+Partnerships Over Politics: Jill believes in working with communities and law enforcement leaders to address rising crime and keep Ohio families safe.
+Jill's Record on Public Safety Invested in First Responders: Jill voted to fund three full-time firefighter positions and new police cruisers, security cameras, protective equipment, and updated public-safety technology. ​ Supported Effective Policing: During Jill’s service on City Council, the Blue Ash Police Department maintained its statewide professional certification and reported a 97% case-clearance rate in 2023. ​ Put Outside Funding to Work: Jill supported grant funding for impaired-driving enforcement, law-enforcement coordination, and a comprehensive plan to make Blue Ash streets safer.
+Excellent Education for Every Child Partnership-Driven Success: Jill believes the best way to help every child reach their highest potential is through a strong, respectful partnership between families and schools.
+Parents should be welcomed as active partners in shaping their child’s educational journey.
+Balanced School Choice: Jill supports expanding educational opportunities for parents through vouchers and charter schools, but believes this must not come at the expense of strong, accountable public schools.
+Return to Core Curriculum: Jill supports a renewed focus on essential academic subjects such as reading, math, and history — along with practical skills like financial literacy and physical education.
+Curriculum Transparency and Parental Involvement: Jill believes parents have a right to know what is being taught in their children’s schools.
+Transparency builds trust, and schools should work collaboratively with families to support student learning.
+School Safety and Engagement: Jill supports improved building security, coordinated safety protocols, and greater collaboration between school leaders and local law enforcement.
+These steps are critical to keeping students safe and creating an environment where they can thrive.
+Jill's Record on Education Led on the School Board: Jill served eight years on the Sycamore Community Schools Board of Education, including as president, vice president, policy liaison, and student achievement liaison. ​ Delivered More for Taxpayers: Jill worked with fellow board members and district leaders to reduce costs for taxpayers while maintaining the excellent, high-quality education Sycamore families expected. ​ Kept Students Safe: Jill voted to maintain a school resource officer partnership between the school district and local law enforcement. ​ Delivered Responsible Stewardship: During Jill’s board tenure, the district opened a new elementary school and earned the Ohio Auditor of State Award with Distinction for a clean financial audit.
+Infrastructure That Supports Growth Strategic Infrastructure Investment: Jill supports prioritizing infrastructure that improves logistics and commerce — especially high-traffic commercial corridors and underserved areas.
+Public-Private Collaboration: Jill favors public-private partnerships that deliver efficient, cost-effective results without growing bureaucracy.
+Responsible Use of State Funds: Jill will push for transparency and fiscal discipline in large-scale state projects to ensure true taxpayer benefit.
+Jill's Record on Infrastructure Improved Streets and Sidewalks: As mayor, Jill voted for a sidewalk program that included replacing approximately 10,000 feet of deteriorated sidewalk and repairing neighborhood curbs and drainage. ​ Planned for Safer Roads: Jill voted to accept a $120,000 federal grant to develop a comprehensive transportation safety plan. ​ Advanced Major Community Projects: Jill helped move forward approximately $35 million in investments involving the city center, parks, and new municipal maintenance facilities.
+Government That Works for the People Home Rule and Local Control: Jill believes local communities know what’s best for their residents and strongly supports preserving local decision-making on schools, development, and municipal priorities.
+Ethical Leadership and Transparency: Jill is committed to honest government, accountability, and a system that puts the public interest ahead of special interests.
+Pragmatic Bipartisanship: Jill believes in building relationships across the aisle to deliver results.
+She will focus on solutions, not slogans, to make Ohio work better for everyone.
+Jill's Record on Transparency A Pragmatic, Bipartisan Problem Solver: Across her service on the Sycamore School Board and on Blue Ash City Council, Jill has built a record of working transparently and across political lines.
+She focuses on delivering results for residents—not wading into divisive political culture wars. ​ Kept Government Open to the Public: As mayor, Jill presides over publicly recorded council meetings, with agendas, minutes, legislation, and financial reports available for residents to review. ​ Protected Taxpayer Dollars: During Jill’s service on council, Blue Ash maintained budgetary compliance and continued its nationally recognized record of excellence in government financial reporting. ​ Encouraged Public Participation: Jill has supported resident engagement through public hearings, citizen surveys, and a resident academy that gives participants a firsthand look at city operations.
+Building Family-Friendly Communities Investment in Parks and Green Spaces: Jill supports expanding and maintaining parks, trails, and outdoor spaces to give families safe, accessible places to gather, play, and connect.
+Programs That Support Youth: Jill believes in strengthening after-school programs, summer activities, and recreational opportunities that give children safe, enriching environments to grow and learn.
+Neighborhood Beautification: Jill will advocate for state-level support to assist communities in revitalization efforts — from restoring aging infrastructure to enhancing public spaces — helping ensure every neighborhood is a place families are proud to call home.
+Jill's Record on Families Invested in Family Recreation: Jill voted to advance major improvements to the city recreation center, including locker-room upgrades and a substantial renovation of the community pool. ​ Improved Parks and Play Spaces: During Jill’s service on council, Blue Ash returfed a major park playground, resurfaced recreation-center tennis courts, and added pickleball lines. ​ Expanded Opportunities to Connect: Jill has helped sustain youth camps, swim lessons, fitness programs, concerts, festivals, and other community events that bring families and neighbors together.
+Contact Us First name * Last name * Email * Phone Long answer * By signing up for texts, you consent to receive campaign update text messages from Jill Cole for Ohio HD 28 at the number provided.
+Donations may be solicited.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms at https://www.jillcoleforohio.com/privacy-policy SUBMIT Stay in Touch Stay in touch with our campaign and help spread the word on social media!
+Follow us for updates, behind-the-scenes moments, and ways to get involved.
+Every share, like, and comment helps us reach more voters.
+Together, we'll build a winning campaign! <<< Like us on Facebook HOME MEET JILL PRIORITIES GET INVOLVED PRIVACY POLICY TERMS OF SERVICE PAID FOR BY JILL COLE FOR OHIO bottom of page

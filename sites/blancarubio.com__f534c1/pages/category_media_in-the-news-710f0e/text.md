@@ -1,17 +1,7 @@
-Category: In The News
-Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California
-01|06
-Once deported, the Rubios are the first sisters to serve in the California Legislature
-01|04
-The New Political Power Brokers in the San Gabriel Valley
-02|08
-“Those are two of the new power brokers in L.A.
-County,” said Alan Clayton, a Democratic redistricting expert who has […]
-We are Trump’s worst nightmare: Two sisters at California’s Capitol
-12|04
-SACRAMENTO — When one went into teaching, the other followed suit.
-When one went to East Los Angeles College, the […]
-Baldwin Park elementary receives $5,000 grant to improve students’ digital skills
-10|17
-By STEPHANIE K.
-BAER Pleasant View Elementary School, 14900 Nubia St. in Baldwin Park, was recently awarded a $5,000 grant to […]
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Category: In The News In The News Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices 01|24 In The News Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California 01|06 In The News Once deported, the Rubios are the first sisters to serve in the California Legislature 01|04 In The News The New Political Power Brokers in the San Gabriel Valley 02|08 “Those are two of the new power brokers in L.A.
+County,” said Alan Clayton, a Democratic redistricting expert who has […] In The News We are Trump’s worst nightmare: Two sisters at California’s Capitol 12|04 SACRAMENTO — When one went into teaching, the other followed suit.
+When one went to East Los Angeles College, the […] In The News Baldwin Park elementary receives $5,000 grant to improve students’ digital skills 10|17 By STEPHANIE K.
+BAER Pleasant View Elementary School, 14900 Nubia St. in Baldwin Park, was recently awarded a $5,000 grant to […] In The News Blanca Rubio Was Deported in Grade School.
+Now She’s a California State Assemblywoman.
+05|31 Search Search Recent Updates Early Child Mental Health Services Deliver Critical Help Assemblywoman Blanca Rubio: Her Drive to Help Children is Fueled by her Family’s Struggles and Sacrifices Solving California’s housing crisis demands action.
+These steps will help Aunque una vez fueron deportadas, las Rubio son las primeras hermanas en servir en la Legislatura de California Once deported, the Rubios are the first sisters to serve in the California Legislature Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

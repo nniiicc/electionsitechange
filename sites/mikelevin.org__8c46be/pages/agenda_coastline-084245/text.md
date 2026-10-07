@@ -1,4 +1,4 @@
-Mike believes the recurrent landslides in our district are a constant reminder that we must continue to take the climate crisis seriously and invest in support systems to ensure residents are safe and our infrastructure is sound.
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Mike's Agenda Securing Our Coastline Mike believes the recurrent landslides in our district are a constant reminder that we must continue to take the climate crisis seriously and invest in support systems to ensure residents are safe and our infrastructure is sound.
 He is fighting to bring federal resources to our district for long-term solutions.
 Mike is specifically focused on federal funding for three types of critical projects to protect our coastal infrastructure: sand, stabilization, and stakeholder engagement.
 These investments provide protection for the Los Angeles – San Diego – San Luis Obispo Rail Corridor (LOSSAN Corridor) tracks that run immediately adjacent to our coast.
@@ -16,3 +16,6 @@ Mike also secured $100 million to improve the reliability of the LOSSAN corridor
 The funding will reduce trip times while also making the tracks more resilient to sea-level rise and beach erosion.
 Finally, Mike has secured federal dollars to assist with stakeholder engagement to help find long-term solutions for the LOSSAN Corridor.
 In 2024, he secured $4 million for the Coastal Rail Corridor Relocation Study, which will help the Orange County Transportation Authority study potential relocation of approximately 11 miles of the LOSSAN Corridor through South Orange County.
+Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

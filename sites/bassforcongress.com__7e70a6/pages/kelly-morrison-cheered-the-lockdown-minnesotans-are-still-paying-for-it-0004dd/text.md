@@ -1,5 +1,10 @@
-Trust the Science, or lose your job
-Kelly Morrison Cheered the Lockdown.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin Kelly Morrison Cheered the Lockdown.
+Minnesotans Are Still Paying For It.
+August 26, 2026 No Comments Trust the Science, or lose your job Kelly Morrison Cheered the Lockdown.
 Minnesotans Are Still Paying For It.
 On March 25, 2020, when Governor Walz signed the order shutting Minnesota down, Kelly Morrison didn’t hesitate.
 She put out a statement praising it, saying she was “grateful to Governor Walz for his steadfast leadership” and that his order would “help save lives.” As a physician, she told Minnesotans this was simply “the right thing” and that we needed to trust the plan.
@@ -72,5 +77,23 @@ I’m a business owner who kept people employed through the worst of it, who wat
 Kelly Morrison is not a Dr. anymore, she’s spent her career in politics telling Minnesotans what was good for them.
 I’ve spent mine building things and living with the consequences of decisions like hers.
 The gig is up.
-It’s time for accountability, not more of the same.
-— Tyler Bass, Candidate for Congress, MN-03
+It’s time for accountability, not more of the same. — Tyler Bass, Candidate for Congress, MN-03 Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous HuttCast Podcast Next Dr.
+Death is a War Profiteer Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

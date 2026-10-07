@@ -1,7 +1,9 @@
 {
  "description": "Official 2026 Democratic primary result for Maryland House District 27A.",
  "final_url": "https://friendsofdarrellcodom.com/primary-results.html",
- "paid_for_by": null,
+ "fingerprint": "e3bd5c55817900f99e77015291d9c3203be4aac2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2026 Primary Results | Darrell C. Odom",
  "years_mentioned": [
   "2026"

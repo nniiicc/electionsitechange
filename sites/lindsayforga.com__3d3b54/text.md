@@ -1,14 +1,11 @@
-lower costs.
-higher standards!
+0 Skip to Content Home About Shop Canvass Vent Donate Open Menu Close Menu Home About Shop Canvass Vent Donate Open Menu Close Menu Home About Shop Canvass Vent Donate Donate lower costs. higher standards!
 I’m Lindsay DeFranco, a mom, advocate, and proud Georgian.
 I’m running for State House District 47 because I believe the system should work for the people who fund it.
 When we invest early in healthcare, safety, and strong communities, we save money and create better outcomes for everyone.
 I’m running to bring practical solutions, transparency, and accountability back to the system.
-Get on the list
-Sign up for campaign updates, exclusive content, and the latest news as we work to flip this seat.
+Learn more Get on the list Sign up for campaign updates, exclusive content, and the latest news as we work to flip this seat.
 Be the first to hear what’s happening and how you can help move Georgia forward.
-The Real Story: One Party Has Run Georgia for Over Twenty Years
-Republicans have controlled Georgia's House, Senate, and Governor’s office for over two decades.
+The Real Story: One Party Has Run Georgia for Over Twenty Years Republicans have controlled Georgia's House, Senate, and Governor’s office for over two decades.
 Every budget in that time is theirs.
 Every choice about your schools, your healthcare, your roads, and your taxes was made by them.
 They chose to sit on your money.
@@ -28,14 +25,13 @@ Your commute gets longer and your permit takes months, while the Republicans han
 Georgia has the money.
 It's a priorities problem, and the priorities have been theirs the whole time.
 A budget is a list of who matters, and you haven't been on it.
-What we’re about
-I’m running on behalf of all the people who are fed up with the dysfunction and corruption in Georgia’s government.
+What we’re about I’m running on behalf of all the people who are fed up with the dysfunction and corruption in Georgia’s government.
 For over two decades, the people writing the budget haven't had to answer to the people footing the bill.
 That changes now.
 Lower costs.
 Higher standards.
 A government that works as hard as you do.
-- Georgia has a $14 billion surplus sitting in the bank.
+Taxes: Stop Raising Costs on Working Families Georgia has a $14 billion surplus sitting in the bank.
 It is such a large surplus that it runs up against the law in terms of how large the surplus can be.
 Your property tax bill went up anyway.
 So now you're paying twice, and here's how that happens.
@@ -46,17 +42,16 @@ The cost didn't disappear.
 It landed on your county, which had one way to cover it: your property taxes.
 The state used to pay a significant majority of funding of school funding (Source: IDRA) .
 Over the last two decades the state has made significant cutbacks and shifted that burden towards local governments.
-Now it's approximately 49% locally-funded, 42% state-funded, and 9% federally-funded.
+Now it's approximately 49% locally-funded, 42% state-funded, and 9% federally-funded .
 You pay the state taxes, then you pay your county more in property taxes each year to cover what the state walked away from.
-Lower Costs
-- Break the cycle at the source: if the state uses the surplus it already has to fund its full share of schools, your county no longer has to raise property taxes to fill the gap.
-- Your bill comes down without touching the income tax that pays for schools, roads, and healthcare in the first place.
+Lower Costs Break the cycle at the source: if the state uses the surplus it already has to fund its full share of schools, your county no longer has to raise property taxes to fill the gap.
+Your bill comes down without touching the income tax that pays for schools, roads, and healthcare in the first place.
 Higher Standards Georgia needs to restore its share of school funding before it asks your county for more. $14 billion collecting dust while your costs climb isn't fiscally conservative, like the Republican Party claims to be.
 It's fiscally negligent.
 The money the state is already taking isn't making it back to your community.
 The answer isn't to pay more.
 It's to make the dollars you already pay actually come home.
-- Six weeks for a doctor's appointment in one of the wealthiest zip codes in Georgia.
+Healthcare: Care Delayed Is Care Denied Six weeks for a doctor's appointment in one of the wealthiest zip codes in Georgia.
 Premiums climbing every year.
 Rural hospitals closing.
 Coverage denied after your own doctor said you needed it.
@@ -68,27 +63,25 @@ They earn too much to qualify for help and not enough to afford a plan on their 
 On reproductive health: What a woman does with her body is between her and her doctor.
 If the people in power want to restrict that decision, then they owe every woman who carries a pregnancy the support necessary to raise that child: affordable healthcare, childcare she can actually qualify for, affordable food, and a public school system that's funded.
 You cannot demand one without providing the other.
-Lower Costs
-- When people can't afford care, they skip it until it's an emergency that they already can’t afford.
+Lower Costs When people can't afford care, they skip it until it's an emergency that they already can’t afford.
 Hospitals raise prices on the insured to cover the unpaid bills.
 Emergency care is also more expensive than preventive care.
-- Close the coverage gap so people see a doctor early, and that cost-shifting stops driving up your premiums.
-- Georgia is leaving federal money on the table: the federal government has offered to cover 90% of the cost to close the gap, essentially handing our own tax dollars back to us.
+Close the coverage gap so people see a doctor early, and that cost-shifting stops driving up your premiums.
+Georgia is leaving federal money on the table: the federal government has offered to cover 90% of the cost to close the gap, essentially handing our own tax dollars back to us.
 Republicans in the legislature keep turning it down.
 Higher Standards We should refuse to accept a system that takes more of your money every year and operates at a worse standard every year.
 A premium that climbs for worse coverage, a claim denied after a doctor's orders, a family one diagnosis from years of debt: that's the standard we're being asked to settle for, and we deserve better.
 Expanding Medicaid will have a positive impact on all Georgians, even residents that don’t use Medicaid.
-- Education here is under real strain.
+Early Investment: Strong Schools and Childcare Make Stronger Communities Education here is under real strain.
 Kids can't read on grade level.
 Teachers are paid below the national average and still buy their own supplies.
 Daycare costs more than in-state college tuition.
 Class sizes continue growing while the state takes a bigger cut of our school funding every year.
 Georgia even cut its childcare assistance limit to the strictest in the country: a family of four earning more than about $37,000 now makes too much to qualify.
 How is a family making $37,000 supposed to put kids in daycare and still afford to put food on the table?
-Lower Costs
-- Childcare runs about $7,000 to $11,000 annually, and for many parents that math doesn't work, so one of them leaves a job to stay home.
+Lower Costs Childcare runs about $7,000 to $11,000 annually , and for many parents that math doesn't work, so one of them leaves a job to stay home.
 Bring that cost down and you keep two paychecks in the house.
-- Every dollar spent before age five saves several down the road in remediation, special ed, and social costs.
+Every dollar spent before age five saves several down the road in remediation, special ed, and social costs.
 Investing early is how we stop costs from piling up later.
 Higher Standards We should demand a state that funds the schools we already pay for instead of pulling more from them every year.
 The answer to struggling public schools was never to walk away from them.
@@ -105,7 +98,7 @@ They move for its public schools.
 That's what we're protecting.
 An educated citizenry is the key to democracy.
 And right now, it's being treated like an expense to cut instead of the foundation it is.
-- The taxes you pay are supposed to come back to your community as services and infrastructure.
+Accountability: Government Should Answer to the People Paying for It The taxes you pay are supposed to come back to your community as services and infrastructure.
 So why are schools still underfunded?
 Why is your insurance still climbing?
 Why do commute times keep growing?
@@ -130,17 +123,13 @@ We should demand a government that can answer those questions, and one that puts
 Because a budget is a list of priorities, and right now, you're not on it.
 You do everything right: pay your taxes, follow the rules.
 In return, the government is supposed to work for you, not renew programs nobody checks while your street waits to be fixed.
-Everything You Need to Vote in District 47
-About the People’s House
-There are 180 members of the Georgia House of Representatives, each representing around 60,000 constituents.
+Everything You Need to Vote in District 47 About the People’s House There are 180 members of the Georgia House of Representatives , each representing around 60,000 constituents.
 They serve two-year terms and vote on matters related to all areas of our state, including school funding, civil rights protections, and taxation policy.
 The House is also the chamber that sets our state budget.
-About our district
-House District 47 contains portions of two counties.
+About our district House District 47 contains portions of two counties.
 It includes almost the entire city of Milton, portions of northern Alpharetta, northwestern Roswell, and the city of Mountain Park.
 It also includes a small portion of Cherokee County centered around Holbrook Campground Road and Freehome Highway.
-Access your Voter Info
-Check your voter registration, sign up for a mail ballot, or see a sample ballot for your district.
+Access your Voter Info Check your voter registration, sign up for a mail ballot, or see a sample ballot for your district.
 You can also see what precinct you are assigned to.
 There is also some information provided by candidates including website links.
 Get Involved!
@@ -148,3 +137,5 @@ There are so many ways to get involved in flipping District 47.
 Whether you live in the district or outside of it, we’d love to have you on the team.
 From making calls and canvassing to helping with design, events, and outreach, there’s a role for everyone.
 You can also sign up to join our group chat to be the first to hear about exclusive volunteer opportunities and ways to jump in with the campaign.
+Follow Lindsay on socialS!
+YouTube Facebook Tik Tok Instagram All inquiries welcome to info@lindsayforga.com Paid for by Lindsay for House District 47

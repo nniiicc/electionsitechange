@@ -1,5 +1,4 @@
-“We all work and live and play on the harbor, and it’s really all of our responsibility to care for it.”
-These words by former Northport Village Trustee Mercy Smith, who initiated the FLUPSY program that debuted yesterday at the Woodbine Marina, remind us why these innovative techniques to benefit our waterways are critical.
+Close Skip to content HOME A STRONGER 12th ABOUT DAVE NEWS & MEDIA CONTACT DONATE July 29, 2021 Community-driven FLUPSY floats debut at Woodbine Marina, filtering harbor water and bringing leaders together for a common cause COURTESY OF: Northport Journal “We all work and live and play on the harbor, and it’s really all of our responsibility to care for it.” These words by former Northport Village Trustee Mercy Smith, who initiated the FLUPSY program that debuted yesterday at the Woodbine Marina, remind us why these innovative techniques to benefit our waterways are critical.
 Oyster FLUPSY (Floating Upweller System) floats are used to grow and protect shellfish in open water until they are large enough to survive, at which time they are released and work to filter our waterways.
 The floats provide a constant heavy flow of water that passes over the shellfish, which are natural filter feeders and help to remove nitrogen from the harbor.
 Pumping the water through the oysters provides a much healthier diet and allows them to grow much faster than they would if they were sitting at the bottom of the bay, according to Barry Udelson, the Marine Resource Specialist and educator at Cornell Cooperative Extension.
@@ -15,4 +14,9 @@ In an effort to give back to the Northport community, Mercy and about thirty oth
 Mercy said the Village Board gave 200 percent to get this done, with countless resolutions, agreements and research needed to finalize the project.
 When she resigned from her trustee position, Trustee Dave Weber stepped up to lead the FLUPSY program.
 “When you move on to a new role and have to give up your baby, it’s tough,” Mercy said at yesterday’s debut.
-“And I can’t think of anyone else who cares more about this harbor and cares more about this project than Dave, and I have the utmost confidence in him and his leadership to carry this forward.”
+“And I can’t think of anyone else who cares more about this harbor and cares more about this project than Dave, and I have the utmost confidence in him and his leadership to carry this forward.” READ FULL ARTICLE Share this post Facebook LinkedIn Telegram WhatsApp Email Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Name Email SUBSCRIBEFOR UPDATES © # Dave Weber.
+All Rights Reserved.
+Paid for by Friends of Dave Weber.
+CONTRIBUTE TO MY CAMPAIGN

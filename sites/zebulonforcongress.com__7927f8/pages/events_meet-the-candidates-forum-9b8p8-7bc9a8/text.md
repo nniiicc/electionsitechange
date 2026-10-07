@@ -1,7 +1,4 @@
-Back to All Events
-Join me for another candidate forum as we continue the conversation about the issues facing Michigan’s 1st Congressional District.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Meet the Candidates Forum (Grayling) Thursday, October 8, 2026 6:00 PM 8:00 PM Kirtland Community College 4800 West 4 Mile Road Grayling, Michigan, 49738 United States (map) Google Calendar ICS Join me for another candidate forum as we continue the conversation about the issues facing Michigan’s 1st Congressional District.
 This forum will be an opportunity to hear directly from the candidates about their priorities, positions, and approach to representing Northern Michigan and the Upper Peninsula.
 I’m looking forward to the discussion and to hearing the questions and concerns from people in the community.
-Previous
-Previous
-September 28
+Previous Previous September 28 Meet the Candidates Forum (Petoskey)

@@ -1,41 +1,170 @@
 [
-"http://instagram.com/hollytforjudge",
-"http://tiktok.com/@hollytforjudge",
-"http://youtube.com/@hollytforjudge",
-"https://bsky.app/profile/hollytforjudge.bsky.social",
-"https://facebook.com/hollytforjudge",
-"https://hollytforjudge.com/",
-"https://hollytforjudge.com/bio",
-"https://hollytforjudge.com/calendar",
-"https://hollytforjudge.com/cart",
-"https://hollytforjudge.com/endorsements-text",
-"https://hollytforjudge.com/es/biografia",
-"https://hollytforjudge.com/es/calendario",
-"https://hollytforjudge.com/es/experiencia",
-"https://hollytforjudge.com/es/inicio",
-"https://hollytforjudge.com/es/noticias",
-"https://hollytforjudge.com/es/por-que-me-postulo",
-"https://hollytforjudge.com/es/privacidad",
-"https://hollytforjudge.com/es/respaldos",
-"https://hollytforjudge.com/es/valores",
-"https://hollytforjudge.com/experience",
-"https://hollytforjudge.com/folderses",
-"https://hollytforjudge.com/folderszh",
-"https://hollytforjudge.com/home",
-"https://hollytforjudge.com/news-media",
-"https://hollytforjudge.com/privacy",
-"https://hollytforjudge.com/tours",
-"https://hollytforjudge.com/values",
-"https://hollytforjudge.com/why-im-running",
-"https://hollytforjudge.com/zh/geren-jianjie",
-"https://hollytforjudge.com/zh/jia-zhi-guan",
-"https://hollytforjudge.com/zh/jing-xuan-bei-shu",
-"https://hollytforjudge.com/zh/jing-yan",
-"https://hollytforjudge.com/zh/ri-cheng",
-"https://hollytforjudge.com/zh/shouye",
-"https://hollytforjudge.com/zh/wo-wei-shen-me-jing-xuan",
-"https://hollytforjudge.com/zh/xin-wen",
-"https://hollytforjudge.com/zh/yin-si",
-"https://secure.actblue.com/donate/hollytforjudge",
-"https://threads.com/@hollytforjudge"
+{
+"text": "0",
+"href": "https://www.hollytforjudge.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.hollytforjudge.com/"
+},
+{
+"text": "Bio",
+"href": "https://www.hollytforjudge.com/bio"
+},
+{
+"text": "Biografía",
+"href": "https://www.hollytforjudge.com/es/biografia"
+},
+{
+"text": "Calendar",
+"href": "https://www.hollytforjudge.com/calendar"
+},
+{
+"text": "Calendario",
+"href": "https://www.hollytforjudge.com/es/calendario"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/hollytforjudge"
+},
+{
+"text": "Endorsements",
+"href": "https://www.hollytforjudge.com/endorsements-text"
+},
+{
+"text": "Experience",
+"href": "https://www.hollytforjudge.com/experience"
+},
+{
+"text": "Experiencia",
+"href": "https://www.hollytforjudge.com/es/experiencia"
+},
+{
+"text": "Folder: es",
+"href": "https://www.hollytforjudge.com/folderses"
+},
+{
+"text": "Folder: zh",
+"href": "https://www.hollytforjudge.com/folderszh"
+},
+{
+"text": "Inicio",
+"href": "https://www.hollytforjudge.com/es/inicio"
+},
+{
+"text": "News + Media",
+"href": "https://www.hollytforjudge.com/news-media"
+},
+{
+"text": "Noticias y medios",
+"href": "https://www.hollytforjudge.com/es/noticias"
+},
+{
+"text": "Por qué me postulo",
+"href": "https://www.hollytforjudge.com/es/por-que-me-postulo"
+},
+{
+"text": "Privacidad",
+"href": "https://www.hollytforjudge.com/es/privacidad"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hollytforjudge.com/privacy"
+},
+{
+"text": "Respaldos",
+"href": "https://www.hollytforjudge.com/es/respaldos"
+},
+{
+"text": "Tours",
+"href": "https://www.hollytforjudge.com/tours"
+},
+{
+"text": "Valores",
+"href": "https://www.hollytforjudge.com/es/valores"
+},
+{
+"text": "Values",
+"href": "https://www.hollytforjudge.com/values"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.hollytforjudge.com/why-im-running"
+},
+{
+"text": "Why I’m Running",
+"href": "https://www.hollytforjudge.com/why-im-running"
+},
+{
+"text": "[image: Holly Taylor for Judge]",
+"href": "https://www.hollytforjudge.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.hollytforjudge.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/hollytforjudge"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@hollytforjudge"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@hollytforjudge"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/hollytforjudge.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hollytforjudge"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@hollytforjudge"
+},
+{
+"text": "[no text]",
+"href": "mailto:hollytforjudge@gmail.com"
+},
+{
+"text": "个人简介",
+"href": "https://www.hollytforjudge.com/zh/geren-jianjie"
+},
+{
+"text": "价值观",
+"href": "https://www.hollytforjudge.com/zh/jia-zhi-guan"
+},
+{
+"text": "我为什么竞选",
+"href": "https://www.hollytforjudge.com/zh/wo-wei-shen-me-jing-xuan"
+},
+{
+"text": "新闻与媒体",
+"href": "https://www.hollytforjudge.com/zh/xin-wen"
+},
+{
+"text": "日程",
+"href": "https://www.hollytforjudge.com/zh/ri-cheng"
+},
+{
+"text": "竞选背书",
+"href": "https://www.hollytforjudge.com/zh/jing-xuan-bei-shu"
+},
+{
+"text": "经验",
+"href": "https://www.hollytforjudge.com/zh/jing-yan"
+},
+{
+"text": "隐私",
+"href": "https://www.hollytforjudge.com/zh/yin-si"
+},
+{
+"text": "首页",
+"href": "https://www.hollytforjudge.com/zh/shouye"
+}
 ]

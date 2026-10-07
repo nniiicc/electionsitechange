@@ -1,13 +1,6 @@
-Skip to content
-Scott's Legislative Accomplishments
-As your State Representative, Scott has focused on legislation that protects families, safeguards taxpayer dollars, and defends constitutional freedoms.
-Protecting Kids Online
-Scott sponsored legislation protecting minors who appear online in our ever expanding world of ‘influencers and content creators’, helping strengthen protections and place guardrails to ensure privacy is protected when requested.
-Preventing Wasteful Spending
-Scott successfully passed legislation aimed at preventing unnecessary taxpayer waste and improving accountability in government processes.
-Supporting Seniors
-Scott worked to help provide additional resources and support protections for seniors through legislation advancing from the House.
-Fighting for Constitutional Rights
-Scott introduced legislation to repeal some of Colorado’s unconstitutional gun laws and has consistently stood against government overreach targeting lawful gun owners.
-Advancing Adoption Education
-Scott introduced legislation supporting adoption education and alternatives for women facing difficult pregnancy decisions, reflecting his belief in protecting life and supporting families.
+Skip to content Home On The Issues Voter Resources Meet Scott About HD64 Get a Yard Sign DONATE DONATE Scott's Legislative Accomplishments As your State Representative, Scott has focused on legislation that protects families, safeguards taxpayer dollars, and defends constitutional freedoms.
+Protecting Kids Online Scott sponsored legislation protecting minors who appear online in our ever expanding world of ‘influencers and content creators’, helping strengthen protections and place guardrails to ensure privacy is protected when requested.
+Preventing Wasteful Spending Scott successfully passed legislation aimed at preventing unnecessary taxpayer waste and improving accountability in government processes.
+Supporting Seniors Scott worked to help provide additional resources and support protections for seniors through legislation advancing from the House.
+Fighting for Constitutional Rights Scott introduced legislation to repeal some of Colorado’s unconstitutional gun laws and has consistently stood against government overreach targeting lawful gun owners.
+Advancing Adoption Education Scott introduced legislation supporting adoption education and alternatives for women facing difficult pregnancy decisions, reflecting his belief in protecting life and supporting families. © # Paid for by Scott for HD64 Registered Agent Amber Cecil Home On the Issues Voter Resources About Scott About HD64 Get A Yard Sign Donate

@@ -1,16 +1,8 @@
-Admiral Nancy Lacore Releases New Wave of Lowcountry Endorsements Ahead of June 9 Democratic Primary Election
-Press Release | May 29, 2026CONTACT:
-Kaylie Haberstroh | kaylie@nancylacore.com
-Mount Pleasant, SC — Rear Admiral Nancy Lacore’s campaign today announced a new wave of endorsements from respected local leaders across South Carolina’s First Congressional District, including key voices from Charleston, Berkeley, and Beaufort counties ahead of the June 9 Democratic Primary.
-The list of endorsements include:
-- Colleen Condon, Former Charleston County Council Member and Former Charleston County Democratic Party Chair
-- Randy Hughes, SC Democratic Party Executive Committeeman for Berkeley County
-- Lloyd “Fig” Newton, General, US Air Force (ret.)
-- Jimmy Story, Former U.S.
-Ambassador to Venezuela
-- Peter Tecklenburg, Charleston County Auditor
-These endorsements follow the Charleston City Paper’s public recommendation of Lacore’s candidacy earlier this week.
-The publication praised Lacore as “the real deal” and “an impassioned leader who knows how Washington works and can use her impressive skills to push progress for the region.”
-Lacore has been actively campaigning since initially announcing her candidacy, participating in forums, county conventions, and hosting events— meeting voters where they are throughout the Lowcountry.
-Additionally, Lacore has earned national endorsements from The Bench, EMILYs List, VoteVets, and New Politics.
-###
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Admiral Nancy Lacore Releases New Wave of Lowcountry Endorsements Ahead of June 9 Democratic Primary Election May 29 Written By Kasey Lacore Press Release | May 29, 2026 CONTACT: Kaylie Haberstroh | kaylie@nancylacore.com ‍ Mount Pleasant, SC — Rear Admiral Nancy Lacore’s campaign today announced a new wave of endorsements from respected local leaders across South Carolina’s First Congressional District, including key voices from Charleston, Berkeley, and Beaufort counties ahead of the June 9 Democratic Primary.
+The list of endorsements include: Colleen Condon, Former Charleston County Council Member and Former Charleston County Democratic Party Chair Randy Hughes, SC Democratic Party Executive Committeeman for Berkeley County Lloyd “Fig” Newton, General, US Air Force (ret.) Jimmy Story, Former U.S.
+Ambassador to Venezuela Peter Tecklenburg, Charleston County Auditor These endorsements follow the Charleston City Paper’s public recommendation of Lacore’s candidacy earlier this week.
+The publication praised Lacore as “the real deal” and “an impassioned leader who knows how Washington works and can use her impressive skills to push progress for the region.” Lacore launched her campaign earlier this year and raised over $1 million within her first ten weeks on the trail.
+Lacore has been actively campaigning since initially announcing her candidacy, participating in forums , county conventions , and hosting events — meeting voters where they are throughout the Lowcountry.
+Additionally, Lacore has earned national endorsements from The Bench , EMILYs List , VoteVets , and New Politics .
+### Kasey Lacore Previous Previous Admiral Nancy Lacore Earns the Most Votes In Democratic Primary for South Carolina’s First Congressional District Next Next Admiral Nancy Lacore Releases “The Lowcountry,” Second Television Ad of SC-01 Democratic Primary Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

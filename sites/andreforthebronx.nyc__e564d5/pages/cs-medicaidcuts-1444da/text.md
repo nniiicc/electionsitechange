@@ -1,8 +1,5 @@
-Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom
-September 30, 2026
-Bronx, NY — The Bronx leads the country in Medicaid enrollees, and will experience the effects of the upcoming austerity cuts especially acutely.
-Andre Easton, Bronx teacher, father, and socialist candidate running for New York's 15th Congressional District, has issued the following statement:
-“New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district in the country.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Campaign Statement Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom September 30, 2026 Bronx, NY — The Bronx leads the country in Medicaid enrollees, and will experience the effects of the upcoming austerity cuts especially acutely.
+Andre Easton, Bronx teacher, father, and socialist candidate running for New York's 15th Congressional District, has issued the following statement: “New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district in the country.
 That's 71% of our district's residents.
 Starting in January, Trump's Medicaid cuts are coming for our neighbors.
 “Starting in January, new Medicaid requirements will kick in as a result of Trump’s so-called Big Beautiful Bill.
@@ -30,4 +27,4 @@ We have more than enough to guarantee free healthcare for all.
 What we lack isn't money.
 It's the political power to direct it towards our needs.
 It's time to take that power for ourselves.
-Join the fight: http://andreforthebronx.nyc/volunteer
+Join the fight: http://andreforthebronx.nyc/volunteer info@andreforthebronx.nyc PAID FOR BY ANDRE EASTON FOR CONGRESS 2026

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/RonnyJacksonTX",
-"https://instagram.com/ronny.jacksontx",
-"https://secure.winred.com/team-ronny/donate",
-"https://teamronny.com/",
-"https://teamronny.com/about",
-"https://teamronny.com/issues",
-"https://teamronny.com/privacy",
-"https://teamronny.com/terms",
-"https://truthsocial.com/@RonnyJacksonTX",
-"https://x.com/RonnyJacksonTX"
+{
+"text": "About",
+"href": "https://www.teamronny.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/team-ronny/donate"
+},
+{
+"text": "Home",
+"href": "https://www.teamronny.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.teamronny.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.teamronny.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.teamronny.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@RonnyJacksonTX"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RonnyJacksonTX"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronny.jacksontx/"
+},
+{
+"text": "[no text]",
+"href": "https://www.teamronny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RonnyJacksonTX"
+}
 ]

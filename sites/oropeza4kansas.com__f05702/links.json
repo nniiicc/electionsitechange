@@ -1,12 +1,54 @@
 [
-"https://facebook.com/MOVFORDOTTE",
-"https://instagram.com/oropeza4kansas",
-"https://kdor.ks.gov/apps/voterreg/home/index",
-"https://myvoteinfo.voteks.org/voterview",
-"https://oropeza4kansas.com/",
-"https://oropeza4kansas.com/about",
-"https://oropeza4kansas.com/event-list",
-"https://oropeza4kansas.com/issues",
-"https://vote411.org/ballot",
-"https://wycovoteskck.gov/2024-primary-election-copy"
+{
+"text": "About",
+"href": "https://www.oropeza4kansas.com/about"
+},
+{
+"text": "Click here to find a close location!",
+"href": "https://wycovoteskck.gov/2024-primary-election-copy"
+},
+{
+"text": "Click here to register! ​",
+"href": "https://www.kdor.ks.gov/apps/voterreg/home/index"
+},
+{
+"text": "Events",
+"href": "https://www.oropeza4kansas.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.oropeza4kansas.com"
+},
+{
+"text": "Issues",
+"href": "https://www.oropeza4kansas.com/issues"
+},
+{
+"text": "Know your Ballot!",
+"href": "https://www.vote411.org/ballot"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MOVFORDOTTE"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/oropeza4kansas"
+},
+{
+"text": "[image: Melissa Oropeza yard sign DIGITAL.jpg]",
+"href": "https://www.oropeza4kansas.com"
+},
+{
+"text": "here",
+"href": "https://myvoteinfo.voteks.org/voterview/"
+},
+{
+"text": "info@new.com",
+"href": "mailto:info@new.com"
+},
+{
+"text": "oropeza4kansas@gmail.com",
+"href": "mailto:oropeza4kansas@gmail.com"
+}
 ]

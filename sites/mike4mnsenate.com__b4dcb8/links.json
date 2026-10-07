@@ -1,13 +1,70 @@
 [
-"https://facebook.com/mike4mnsenate",
-"https://m.facebook.com/mike4mnsenate?wtsid=rdr_0dDElkrAxG2ycCyTf",
-"https://mike4mnsenate.com/",
-"https://mike4mnsenate.com/contact",
-"https://mike4mnsenate.com/donate",
-"https://mike4mnsenate.com/event-list",
-"https://mike4mnsenate.com/meet-mike",
-"https://mike4mnsenate.com/platform",
-"https://mike4mnsenate.com/radio",
-"https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate",
-"https://x.com/MichaelH_MN"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "$75",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mike4mnsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/michael-holmstrom-jr-for-mn-senate/donate"
+},
+{
+"text": "DONATE",
+"href": "https://www.mike4mnsenate.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mike4mnsenate.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.mike4mnsenate.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://www.mike4mnsenate.com/meet-mike"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mike4mnsenate.com/platform"
+},
+{
+"text": "Radio Ads",
+"href": "https://www.mike4mnsenate.com/radio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://m.facebook.com/mike4mnsenate?wtsid=rdr_0dDElkrAxG2ycCyTf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mike4mnsenate"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/MichaelH_MN"
+}
 ]

@@ -1,7 +1,7 @@
-Sixteen years of one-party rule in Sacramento.
+Home About Positions Why I'm Running Endorsements Events Contact Contribute Events Join Our Fight My Blog Blogs Join Our Fight Our Latest Events Join Ted Nordblum for California Dreamin', Events July 31, 2026 • 2 min read Sixteen years of one-party rule in Sacramento.
 Sixteen years of policies that made this state unaffordable, unsafe, and deaf to the people who actually live here.
 District 42 is one of the most targeted seats in California, and flipping it is how the supermajority starts to crack.
-Get your tickets Here.
+Get your tickets Here .
 So let's have some fun while we fight for it.
 On Thursday, September 17, join Ted Nordblum for California Dreamin', a casino night at the Westlake Village Inn.
 Dinner, a live band, a faux casino floor, a silent auction, and prizes.
@@ -13,22 +13,19 @@ Here's why the night matters.
 Ted is running to be a voice for every Californian getting squeezed: the homeowner who can't find insurance because Sacramento's own rules drove the carriers out, the family paying three dollars a gallon more for gas than the next state over, the small business owner buried in red tape, the middle class getting priced out of the state it built.
 None of it changes until the supermajority breaks, and it breaks one seat at a time.
 This is the seat.
-The details
-Thursday, September 17, 2026
-6:00 to 10:00 PM
-The Westlake Village Inn, Provence Room
-31943 Agoura Road, Westlake Village
-Summer casual attire
-MC Frank Visco.
+The details Thursday, September 17, 2026 6:00 to 10:00 PM The Westlake Village Inn, Provence Room 31943 Agoura Road, Westlake Village Summer casual attire MC Frank Visco.
 Live music from The Jukes.
 Dinner, faux casino, silent auction, and prizes.
-Support levels
-VIP table of 10: $5,000
-Table of 10: $2,400
-Attendees: $450 Couple / $250 Per person
-Maximum contribution: $5,900 per person or PAC.
+Support levels VIP table of 10: $5,000 Table of 10: $2,400 Attendees: $450 Couple / $250 Per person Maximum contribution: $5,900 per person or PAC.
+Get your tickets Here .
 Come for the casino floor.
 Stay for the fight.
 Let's take California back together.
 Paid for by Nordblum for Assembly 2026.
 FPPC #1477458.
+Ted Cali Event Ted Nordblum Back to Blog My story isn't one of political ambition.
+It's a story of hard work, family, and a deep love for the community I call home.
+Paid For By Nordblum For State Assembly 2026 FPPC#1477458 Useful Links Home About Positions Why I'm Running Endorsement Contact Us (818) 425-1630 [email protected] PO Box 7746, Thousand Oaks, CA 91362 © .
+#.
+All Rights Reserved.
+Privacy Policy

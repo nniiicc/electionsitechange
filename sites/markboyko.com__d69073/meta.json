@@ -1,7 +1,11 @@
 {
  "description": "Missouri House District 90 candidate running to represent Kirkwood, Glendale, and all Missourians.",
  "final_url": "https://markboyko.com/",
- "paid_for_by": null,
+ "fingerprint": "0fa5b56c047a7ebfd60b3442ca1d48ce6aea5cae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mark Boyko - Missouri House Dist. 90",
- "years_mentioned": []
+ "years_mentioned": [
+  "2007"
+ ]
 }

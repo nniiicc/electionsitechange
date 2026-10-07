@@ -1,16 +1,62 @@
 [
-"https://facebook.com/robertforgeorgia",
-"https://forms.gle/Pe5EgnQTfGoTVBCc7",
-"https://instagram.com/robertforgeorgia",
-"https://legis.ga.gov/legislation/71385",
-"https://legis.ga.gov/legislation/71557",
-"https://legis.ga.gov/legislation/71637",
-"https://robertdawson.journoportfolio.com/",
-"https://robertforgeorgia.com/",
-"https://robertforgeorgia.com/about",
-"https://robertforgeorgia.com/accomplishments",
-"https://robertforgeorgia.com/contact",
-"https://robertforgeorgia.com/events",
-"https://robertforgeorgia.com/privacy",
-"https://secure.actblue.com/donate/robertdawson"
+{
+"text": "About",
+"href": "https://www.robertforgeorgia.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.robertforgeorgia.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://www.robertforgeorgia.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robertdawson"
+},
+{
+"text": "Events",
+"href": "https://www.robertforgeorgia.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/robertforgeorgia/"
+},
+{
+"text": "HB 776",
+"href": "https://www.legis.ga.gov/legislation/71385"
+},
+{
+"text": "HB 777",
+"href": "https://www.legis.ga.gov/legislation/71385"
+},
+{
+"text": "HB 817",
+"href": "https://www.legis.ga.gov/legislation/71557"
+},
+{
+"text": "HB 836",
+"href": "https://www.legis.ga.gov/legislation/71637"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/robertforgeorgia"
+},
+{
+"text": "News",
+"href": "https://robertdawson.journoportfolio.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robertforgeorgia.com/privacy/"
+},
+{
+"text": "Representative Robert Dawson",
+"href": "https://www.robertforgeorgia.com"
+},
+{
+"text": "Sign up for Text Messages",
+"href": "https://forms.gle/Pe5EgnQTfGoTVBCc7"
+}
 ]

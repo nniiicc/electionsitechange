@@ -1,16 +1,4 @@
-WHAT WE BELIEVE
-WHY I’M RUNNING // WHAT WE BELIEVE
-As a member of the Rhode Island Political Coop we have committed to:
-- $15 minimum wage
-- 100% renewable energy by 2030
-- A Green New Deal
-OUR PLATFORM
-- Affordable housing for all
-- Medicare for all, including women’s health
-- Equal rights for all, regardless of race, gender or sexual orientation
-- Corporations & the rich paying their fair share of taxes
-- Quality public education for all children & tuition-free public college
-- Money out of politics & ending political corruption
-- Oppose family separation and provide drivers’ license eligibility to undocumented Rhode Islanders
-- Criminal justice reform, including banning for-profit prisons
-- Common sense gun control
+0 Skip to Content Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Tiara Mack, RI Senate District 6 About Why I'm Running What We Believe Issues Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Cuestiones Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Contact Reach Out Social Media Contribute / Contribuir Open Menu Close Menu Folder: About Back Why I'm Running What We Believe Folder: Issues Back Housing Education Criminal Justice Gun Policy Elections Taxes Wages Healthcare Folder: Cuestiones Back Vivienda Educacion Justicia Criminal Armas De Fuego In the News Noticias Take Action Folder: Contact Back Reach Out Social Media Contribute / Contribuir WHAT WE BELIEVE WHY I’M RUNNING // WHAT WE BELIEVE As a member of the Rhode Island Political Coop we have committed to: $15 minimum wage 100% renewable energy by 2030 A Green New Deal OUR PLATFORM Affordable housing for all Medicare for all, including women’s health Equal rights for all, regardless of race, gender or sexual orientation Corporations & the rich paying their fair share of taxes Quality public education for all children & tuition-free public college Money out of politics & ending political corruption Oppose family separation and provide drivers’ license eligibility to undocumented Rhode Islanders Criminal justice reform, including banning for-profit prisons Common sense gun control Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Our Campaign For info and updates First Name Last Name Email Address JOIN US Thank you!
+CONTACT // TIARAMACKRI@GMAIL.COM // +1 (401) 288-1288 CONTRIBUTE / CONTRIBUIR

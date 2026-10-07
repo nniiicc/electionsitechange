@@ -1,51 +1,19 @@
-Calendar
-Where she will be.
+Skip to main content Serving North Alachua, Baker, Bradford, Columbia & Union Counties # days to Election Day · Nov 3, 2026 (352) 752-8780 campaign@merrillee.com Home Policies Calendar Contact Us Join the Campaign Volunteer Donate Home Policies Calendar Contact Us Join the Campaign Donate Volunteer (352) 752-8780 Calendar Where she will be.
 Every stop is a Facebook event too.
 RSVP there, share it, and bring a neighbor.
-All events on Facebook
-Coming up
-Where Merrillee will be
-Dems and Dogs
-Hosted by the Dems of Santa Fe · Rum 138, Fort White · 11:00 AM – 2:00 PM
-Paddle for Merrillee
-Hosted by the campaign · on the water · date to be announced
-A series across the district
-Café Conversations
-Coffee, a table, and whoever shows up.
+All events on Facebook Coming up Where Merrillee will be 22 Aug Fundraiser Dems and Dogs Hosted by the Dems of Santa Fe · Rum 138, Fort White · 11:00 AM – 2:00 PM Facebook event TBA Sep Fundraiser Paddle for Merrillee Hosted by the campaign · on the water · date to be announced Facebook event A series across the district Café Conversations Coffee, a table, and whoever shows up.
 Four rounds, working across all five counties.
 Dates post to Facebook as each one is set.
-Lake City · Fort White
-Columbia County
-Date TBA
-Starke · Lawtey · Lake Butler · Macclenny
-Bradford, Union and Baker Counties
-Date TBA
-Alachua · High Springs · Gainesville
-North Alachua County
-Date TBA
-Brooker · Waldo · Earleton
-Bradford and Alachua Counties
-Date TBA
-Already on the road
-Where she has been
-She has been out in the district since July, in front of ranchers, Democratic clubs and Republican forums alike.
-Merrillee’s Birthday Party
-Co-hosted with Rum 138 Sunday Funday · Fort White · cake and a live band
-Bradford County Candidate Forum
-Hosted by the Bradford GOP · Johns Conference Center, 1610 N Temple Ave, Starke · seven-minute speech, broadcast live on WEAG-FM
-Democratic Women’s Club of the Lakes Area
-Melrose Center, 307 Hwy 26, Melrose · Merrillee was the guest speaker
-Baker County Livestock Association
-Baker County Extension Office · IFAS livestock workshop
-Never miss one
-Get the events before everyone else
-One short email a week with what is coming up in your county.
+Lake City · Fort White Columbia County Date TBA Starke · Lawtey · Lake Butler · Macclenny Bradford, Union and Baker Counties Date TBA Alachua · High Springs · Gainesville North Alachua County Date TBA Brooker · Waldo · Earleton Bradford and Alachua Counties Date TBA Watch Facebook for dates Already on the road Where she has been She has been out in the district since July, in front of ranchers, Democratic clubs and Republican forums alike.
+26 Jul Merrillee’s Birthday Party Co-hosted with Rum 138 Sunday Funday · Fort White · cake and a live band 25 Jul Bradford County Candidate Forum Hosted by the Bradford GOP · Johns Conference Center, 1610 N Temple Ave, Starke · seven-minute speech, broadcast live on WEAG-FM 23 Jul Democratic Women’s Club of the Lakes Area Melrose Center, 307 Hwy 26, Melrose · Merrillee was the guest speaker 20 Jul Baker County Livestock Association Baker County Extension Office · IFAS livestock workshop Never miss one Get the events before everyone else One short email a week with what is coming up in your county.
 Nothing else.
-Host one yourself
-Have four neighbors and a driveway?
+Send me the calendar Host one yourself Have four neighbors and a driveway?
 That is a campaign event.
 In a district this size, a front porch with six people beats a rented hall with none.
 Tell us where you are and we will bring the rest.
-This site uses a cookie to remember this choice, and nothing else unless you say yes.
-Turning on analytics lets the campaign see which pages people read.
-Privacy and accessibility
+Host an event Other ways to help Twenty years defending North Florida’s springs, rivers and farmland — now asking to serve the Springs Heartland in the state legislature.
+The Campaign Home Policies Calendar Contact Us Join the Campaign Get Involved Volunteer Attend an event Request a yard sign Submit an endorsement Donate Reach Us 2070 SW County Road 138 Fort White, FL 32038 (352) 752-8780 campaign@merrillee.com Donate Political advertisement paid for and approved by Merrillee Malwitz-Jipson, Democrat, for Florida House District 10. © # Merrillee for Florida House District 10.
+All rights reserved.
+Privacy & Accessibility Site handcrafted by Imperium English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) ایران ישראל Македонија ประเทศไทย Việt Nam Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

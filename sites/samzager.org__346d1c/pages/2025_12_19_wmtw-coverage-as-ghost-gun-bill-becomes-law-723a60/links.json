@@ -1,16 +1,78 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://giffords.org/press-release/2026/01/giffords-celebrates-new-maine-law-requiring-all-firearms-to-have-a-serial-number",
-"https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0745&item=7&snum=132",
-"https://mainehousedemocrats.com/volunteer2026",
-"https://samzager.org/",
-"https://samzager.org/ballotpedia-survey",
-"https://samzager.org/endorsers",
-"https://samzager.org/leadership-and-education",
-"https://samzager.org/news",
-"https://samzager.org/priorities",
-"https://samzager.org/show-your-support",
-"https://samzager.org/taking-a-stand",
-"https://samzager.org/what-others-say",
-"https://wmtw.com/article/mills-allow-ghost-gun-bill-become-law/69823314"
+{
+"text": "Back to NEWS page",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Ballotpedia Survey",
+"href": "https://samzager.org/ballotpedia-survey/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Endorsers",
+"href": "https://samzager.org/endorsers/"
+},
+{
+"text": "GIFFORDS",
+"href": "https://giffords.org/press-release/2026/01/giffords-celebrates-new-maine-law-requiring-all-firearms-to-have-a-serial-number/"
+},
+{
+"text": "Home",
+"href": "https://samzager.org/"
+},
+{
+"text": "LD 1126;",
+"href": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0745&item=7&snum=132"
+},
+{
+"text": "Leadership and Education",
+"href": "https://samzager.org/leadership-and-education/"
+},
+{
+"text": "News",
+"href": "https://samzager.org/news/"
+},
+{
+"text": "Please consider contributing $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Priorities",
+"href": "https://samzager.org/priorities/"
+},
+{
+"text": "Show your support",
+"href": "https://samzager.org/show-your-support/"
+},
+{
+"text": "Taking a Stand",
+"href": "https://samzager.org/taking-a-stand/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mainehousedemocrats.com/volunteer2026"
+},
+{
+"text": "Watch video and read article",
+"href": "https://www.wmtw.com/article/mills-allow-ghost-gun-bill-become-law/69823314"
+},
+{
+"text": "What Others Say",
+"href": "https://samzager.org/what-others-say/"
+},
+{
+"text": "[image]",
+"href": "https://samzager.org"
+},
+{
+"text": "[image]",
+"href": "https://www.wmtw.com/article/mills-allow-ghost-gun-bill-become-law/69823314"
+},
+{
+"text": "https://www.wmtw.com/article/mills-allow-ghost-gun-bill-become-law/69823314",
+"href": "https://www.wmtw.com/article/mills-allow-ghost-gun-bill-become-law/69823314"
+}
 ]

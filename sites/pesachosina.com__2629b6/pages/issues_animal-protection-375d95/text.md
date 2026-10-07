@@ -1,19 +1,7 @@
-Animal Protection
-Stronger Laws, Real Consequences
-Animal cruelty should be treated for what it is — a crime against a living being.
-Pesach will:
-- Fight to strengthen penalties for animal cruelty and abuse
-- Support laws that recognize animals as living beings, not just property
-- Close gaps that allow repeat offenders to avoid serious consequences
-If someone abuses an animal, it should be treated as a serious offense — not brushed aside.
-Better Enforcement & Coordination
-Laws only matter if they’re enforced.
-Pesach will:
-- Support stronger coordination between law enforcement and animal protection organizations
-- Ensure cases are properly investigated and prosecuted
-- Push for better reporting and tracking of animal cruelty cases
-Too many cases fall through the cracks — that needs to change.
-Protecting Animals and Communities
-Animal abuse doesn’t happen in isolation.
+Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Meet Pesach Issues Endorsements Volunteer Contact Donate Lowering Costs Improving Public Safety Fixing Transportation Protecting Seniors & Retirees Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Animal Protection Stronger Laws, Real Consequences Animal cruelty should be treated for what it is — a crime against a living being.
+Pesach will: Fight to strengthen penalties for animal cruelty and abuse Support laws that recognize animals as living beings, not just property Close gaps that allow repeat offenders to avoid serious consequences If someone abuses an animal, it should be treated as a serious offense — not brushed aside.
+Better Enforcement & Coordination Laws only matter if they’re enforced.
+Pesach will: Support stronger coordination between law enforcement and animal protection organizations Ensure cases are properly investigated and prosecuted Push for better reporting and tracking of animal cruelty cases Too many cases fall through the cracks — that needs to change.
+Protecting Animals and Communities Animal abuse doesn’t happen in isolation.
 Studies have shown a link between animal cruelty and other forms of violence.
-Taking these crimes seriously helps protect not just animals, but communities as a whole.
+Taking these crimes seriously helps protect not just animals, but communities as a whole. info@pesachosina.com Powered by RUN! website builder Paid for by Osina for NY You need to enable JavaScript to run this app.

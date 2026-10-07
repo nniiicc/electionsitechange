@@ -1,4 +1,14 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe4CA2G72Q5InAA-kjjFt40FJc323EoViP7C-_GN6OwRrPkGg/viewform",
-"https://hersman4house.com/home"
+{
+"text": "Contact Me",
+"href": "mailto:hersman4house@gmail.com"
+},
+{
+"text": "[image]Hersman4House",
+"href": "https://www.hersman4house.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Mason County Resident Feedback (2026) in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe4CA2G72Q5InAA-kjjFt40FJc323EoViP7C-_GN6OwRrPkGg/viewform"
+}
 ]

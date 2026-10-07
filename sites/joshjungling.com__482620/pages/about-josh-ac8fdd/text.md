@@ -1,5 +1,4 @@
-About Josh
-Josh grew up in Anoka and graduated from Anoka high school.
+0 Skip to Content Home About Josh Priorities Join Our Team Contact DONATE Open Menu Close Menu Home About Josh Priorities Join Our Team Contact DONATE Open Menu Close Menu Home About Josh Priorities Join Our Team Contact DONATE About Josh Josh grew up in Anoka and graduated from Anoka high school.
 He chose to stay and raise his family here, and has been a resident for nearly 40 years.
 Josh and his wife Ginger have been married for 27 years and have three children; Caleb who has graduated college, and Rowan and Logan, who are both working on their degrees.
 Josh has an entrepreneurial spirit.
@@ -13,3 +12,5 @@ He currently continues to work as a board member for ARAA.
 Ginger spent her time volunteering at St.
 Stephen’s Catholic Church and School.
 More recently, she was a member of the youth and high school wrestling booster clubs and served as president of the Anoka High School Baseball Boosters.
+Josh Jungling for State Representative Prepared and paid for by Josh Jungling for State Representative · P.O.
+Box 13 · Anoka, MN 55303 Privacy Policy · Text Message Opt-In · Campaign Photos

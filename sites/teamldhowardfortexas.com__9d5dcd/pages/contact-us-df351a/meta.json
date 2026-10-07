@@ -1,7 +1,11 @@
 {
  "description": "Team L. D. Howard for Texas House District 124 is a political candidate in San Antonio, TX. Browse the website to learn more about my 2026 campaign.",
  "final_url": "https://teamldhowardfortexas.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "1465d0ad0252f2c3b6b0bec4c0083d02e2fd2457",
+ "format": 3,
+ "paid_for_by": "",
  "title": "L.D. Howard for Texas - A New Voice for District 124 in 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

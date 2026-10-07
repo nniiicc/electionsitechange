@@ -1,4 +1,4 @@
-Mike Cameron was born in Chattanooga, TN on July 21, 1959.
+Skip to content Home About New Committee Appointment Donate to Re-elect Mike Cameron Contact Re-Elect Mike Cameron Representative Georgia House District 1 Conservative - Principled - Experienced Skip to content Home About New Committee Appointment Donate to Re-elect Mike Cameron Contact Home About About Mike Cameron was born in Chattanooga, TN on July 21, 1959.
 Mike’s family lived in Rossville, GA until Mike entered the first grade.
 At that time, his family moved to Lookout Valley, a community just west of Chattanooga, where Mike lived most of the next 25 years.
 In 1977, Mike graduated from Lookout Valley High School.
@@ -42,3 +42,6 @@ Outside of work and politics, Mike is very involved in his church Rock Creek Fel
 Mike is very involved as an advisor for the citizen group which is working to bring back and redevelop the community of Rossville, GA.
 For fun Mike loves watching old movies and listening to the music he grew up with and hiking the beautiful trails of Georgia.
 And each summer, Mike attends a one-week Bible study conducted by gospel singer Michael Card at the Billy Graham Training Center at the Cove in North Carolina, one of Mike’s favorite places to go.
+Volunteer of the Year at Rossville Elementary Image 3 of 4 Comments are closed.
+Contact Mike Address Cloverdale Legislative Office Building 18 Capitol Square SW Suite 504 Atlanta, GA 30334 404-656-0188 Email mike.cameron@house.ga.gov Cell 423-667-3406 Paid for by the Committee to Re-Elect Mike Cameron GA House District 1.
+Powered by Tempera & WordPress.

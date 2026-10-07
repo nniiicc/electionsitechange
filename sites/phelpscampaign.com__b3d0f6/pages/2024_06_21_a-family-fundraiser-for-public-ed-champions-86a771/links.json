@@ -1,14 +1,58 @@
 [
-"https://andrewtarcon.com/",
-"https://facebook.com/PhelpsCampaign",
-"https://instagram.com/cs_phelps",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://phelpscampaign.com/",
-"https://phelpscampaign.com/endorsements",
-"https://phelpscampaign.com/issues",
-"https://phelpscampaign.com/meet-christian",
-"https://phelpscampaign.com/news",
-"https://phelpscampaign.com/remex?summer_search_category=6",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1",
-"https://secure.actblue.com/donate/public-ed-champions"
+{
+"text": "Andrew Tarcon",
+"href": "https://andrewtarcon.com"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@phelpscampaign.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1"
+},
+{
+"text": "Endorsements",
+"href": "https://phelpscampaign.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://phelpscampaign.com/remex?summer_search_category=6"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://phelpscampaign.com/"
+},
+{
+"text": "Issues",
+"href": "https://phelpscampaign.com/issues/"
+},
+{
+"text": "Meet Christian",
+"href": "https://phelpscampaign.com/meet-christian/"
+},
+{
+"text": "News & Events",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "[image: Christian Phelps For State Assembly]",
+"href": "https://phelpscampaign.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/PhelpsCampaign"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cs_phelps/"
+},
+{
+"text": "here",
+"href": "https://secure.actblue.com/donate/public-ed-champions"
+}
 ]

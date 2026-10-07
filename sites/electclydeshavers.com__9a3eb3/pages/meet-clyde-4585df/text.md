@@ -1,12 +1,12 @@
-Meet Clyde
-Clyde Shavers is a U.S.
+About Meet Clyde As your representative Issues Endorsements Contact About Meet Clyde As your representative Issues Endorsements Contact Donate Donate Meet Clyde Clyde Shavers is a U.S.
 Naval Academy graduate and U.S.
 Navy Veteran, a Yale Law School graduate and practicing attorney, and non-profit leader and volunteer.
 Clyde grew up in Washington dedicated to a life of public service.
 He answered the call of duty to serve and graduated from the U.S.
 Naval Academy.
 He was later stationed in the Middle East at U.S.
-Naval Forces Central Command/U.S. 5th Fleet and Southeast Asia at Destroyer Squadron 7.
+Naval Forces Central Command/U.S.
+5th Fleet and Southeast Asia at Destroyer Squadron 7.
 Clyde never thought during the academy or the military that he would ever consider running for political office.
 A career serving in our navy was as honorable and meaningful as any other job that he could think of.
 But while serving overseas, our country faced bitter polarization fueled by hatred and mistrust driven by rigid dogma, tempting radical theories, and one-sided media.
@@ -20,3 +20,11 @@ He is the lead sponsor of 7 and cosponsor of 32 legislative bills – clean ener
 He brought in millions of dollars to community projects – the Camano Lutheran Childcare Center, bed expansion design at the Oak Harbor Ituha Stabilization Center, affordable housing for the disabled community at Arlington’s Village Community Services, flood mitigation & police station in Stanwood, workforce housing in Coupeville, and much more.
 With over a decade of serving our nation and state, Clyde is the voice for the voiceless, a champion for justice, and a beacon of hope in times of uncertainty.
 He cares deeply for others, embraces the challenges before us with unwavering courage, and inspires others to join towards creating a brighter better tomorrow for all.
+The House honors Japanese Americans who suffered relocation and internment during World War II with HR 4615, Feb.
+16, 2023.
+Paid for by Elect Clyde Shavers P.O.
+Box 24 Oak Harbor, WA 98277.
+Clyde Shavers is a Veteran of the U.S.
+Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Media Gallery

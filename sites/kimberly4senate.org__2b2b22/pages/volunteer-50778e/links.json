@@ -1,9 +1,42 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/kimberly.pomerleau",
-"https://instagram.com/kpomerleau",
-"https://kimberly4senate.org/",
-"https://kimberly4senate.org/contact",
-"https://kimberly4senate.org/issues",
-"https://kimberly4senate.org/volunteer"
+{
+"text": "CONTACT",
+"href": "https://kimberly4senate.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/kimberly.pomerleau"
+},
+{
+"text": "HOME",
+"href": "https://kimberly4senate.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://kimberly4senate.org/issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://kimberly4senate.org/volunteer"
+},
+{
+"text": "[image: Kimberly Pomerleau For Senate District 22 logo]",
+"href": "https://kimberly4senate.org/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/kimberly.pomerleau"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/kpomerleau/"
+},
+{
+"text": "mainely@roadrunner.com",
+"href": "mailto:mainely@roadrunner.com"
+}
 ]

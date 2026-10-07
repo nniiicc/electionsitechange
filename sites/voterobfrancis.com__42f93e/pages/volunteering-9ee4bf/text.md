@@ -1,5 +1,4 @@
-Thank you for your willingness to help Rob flip that seat this November!
+Skip to content Vote Rob Francis Progressive for Pennsylvania General Assembly Menu + × expanded collapsed Meet Rob The Issues DONATE Contact Events Volunteering Thank you for your willingness to help Rob flip that seat this November!
 Please fill out and submit the form below.
-Together is the only way we do this!
-Skip to content
-Progressive for Pennsylvania General Assembly
+Together is the only way we do this! ← Back Thank you for your response. ✨ First name (required) Last name (required) Email (required) Voting Location Select one option Adamsburg Arona Greensburg Hempfield Township New Stanton South Greensburg Southwest Greensburg Youngwood Other (outside of District 57) Phone number ​ ​ How would you like to volunteer? (required) Door knocking/canvassing Phone calls/text messages Social media/emails Assist with events Host a fundraising event Host a meet-and-greet Poll watching Other (please specify below) Message Please list any relevant experience, training, or education Submit Δ Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
+Vote Rob Francis Copy shortlink Manage subscriptions Sign up Log in Report this content

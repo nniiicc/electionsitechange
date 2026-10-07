@@ -1,13 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61573208677340",
-"https://mark4assembly.com/",
-"https://mark4assembly.com/cart",
-"https://mark4assembly.com/getinvolved",
-"https://mark4assembly.com/issues",
-"https://mark4assembly.com/lawnsigns",
-"https://mark4assembly.com/meetmark",
-"https://mark4assembly.com/new-page",
-"https://mark4assembly.com/privacy-policy",
-"https://secure.winred.com/friends-of-mark-benjamin/donate-today",
-"https://secure.winred.com/friends-of-mark-benjamin/trapshoot"
+{
+"text": "0",
+"href": "https://www.mark4assembly.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-mark-benjamin/donate-today"
+},
+{
+"text": "Events",
+"href": "https://www.mark4assembly.com/new-page"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mark4assembly.com/getinvolved"
+},
+{
+"text": "Get Tickets Now",
+"href": "https://secure.winred.com/friends-of-mark-benjamin/trapshoot"
+},
+{
+"text": "Issues",
+"href": "https://www.mark4assembly.com/issues"
+},
+{
+"text": "Lawn Signs",
+"href": "https://www.mark4assembly.com/lawnsigns"
+},
+{
+"text": "Media Contact",
+"href": "mailto:Sam@Mark4Assembly.com?subject=Media+Inquiry+&body="
+},
+{
+"text": "Meet Mark",
+"href": "https://www.mark4assembly.com/meetmark"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mark4assembly.com/privacy-policy"
+},
+{
+"text": "[image: Mark Benjamin For Assembly]",
+"href": "https://www.mark4assembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573208677340"
+}
 ]

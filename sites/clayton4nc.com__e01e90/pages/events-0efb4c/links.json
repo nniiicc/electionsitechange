@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/empathytour.bsky.social",
-"https://clayton4nc.com/",
-"https://clayton4nc.com/about",
-"https://clayton4nc.com/contact",
-"https://clayton4nc.com/issues",
-"https://clayton4nc.com/volunteer",
-"https://designedtorun.com/",
-"https://efundraisingconnections.com/c/DavidClaytonforCongress",
-"https://facebook.com/profile.php?id=61578097997464",
-"https://instagram.com/officialempathytour",
-"https://threads.net/@officialempathytour",
-"https://tiktok.com/@empathytour"
+{
+"text": "About",
+"href": "https://www.clayton4nc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.clayton4nc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/DavidClaytonforCongress"
+},
+{
+"text": "Home",
+"href": "https://www.clayton4nc.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.clayton4nc.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.clayton4nc.com/volunteer"
+},
+{
+"text": "[image: David Clayton For Congress - United States House of Representatives]",
+"href": "https://www.clayton4nc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/empathytour.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61578097997464"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/officialempathytour"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@officialempathytour"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@empathytour"
+}
 ]

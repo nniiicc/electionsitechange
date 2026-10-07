@@ -1,38 +1,9 @@
-Join the Team
-Position: Campaign Manager for Kristin Bahner for State Representative (District 37B)
-Kristin Bahner for State Representative (37B Maple Grove) is seeking a Campaign Manager to join an established but ever-growing team for the 2022 election cycle.
+Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Meet Kristin Priorities Endorsements Get Involved Join the Team Donate Join the Team Position: Campaign Manager for Kristin Bahner for State Representative (District 37B) Kristin Bahner for State Representative (37B Maple Grove) is seeking a Campaign Manager to join an established but ever-growing team for the 2022 election cycle.
 The Campaign Manager would work closely with the candidate and her kitchen cabinet team, field staff and volunteers to lead an organized, enthusiastic campaign.
 The Campaign Manager should be team focused and oversee all aspects of the campaign, including caucus and convention strategy, day-to-day operations, fundraising, communications, finance, field, recruitment and retention of volunteers, and candidate scheduling.
-Responsibilities
-- Develop and execute the campaign strategy in consultation with the candidate & kitchen cabinet
-- Oversee the day-to-day operations of the campaign
-- Manage campaign budget
-- Manage campaign team and volunteers
-- Lead fundraising and communications efforts
-- Serve as primary contact for the DFL House Caucus
-- Serve as primary contact for print and mail vendors
-- Develop relationships with key local stakeholder groups and maintain engagement
-- Devise a campaign timeline and schedule
-- Manage candidate’s schedule and event appearances
-- Manage social media presence and calendar
-- Track and report on campaign goals and metrics
-Qualifications
-- At least one cycle of campaign experience (including working with printing and mail vendors)
-- Detail-oriented, organized, and flexible
-- Strong Team focus and collaborative work style
-- Comfortable working in a fast-paced environment
-- Solution oriented and positive attitude
-- Posses strong written and verbal communication skills
-- Strong experience working with Excel, Word, Google Drive, Sheets
-- Familiarity with or experience with caucus and convention strategy (preferred, not required)
-- NPG VAN and Mail Program Experience (preferred)
-- Canva & SquareSpace (nice to have, not required)
-Salary
-$15 per hour, for 20 hours per month (March to August, and December) and 40 hours per month for three months (September, October & November), with an estimated paid time investment of 270 hours ($4050).
+Responsibilities Develop and execute the campaign strategy in consultation with the candidate & kitchen cabinet Oversee the day-to-day operations of the campaign Manage campaign budget Manage campaign team and volunteers Lead fundraising and communications efforts Serve as primary contact for the DFL House Caucus Serve as primary contact for print and mail vendors Develop relationships with key local stakeholder groups and maintain engagement Devise a campaign timeline and schedule Manage candidate’s schedule and event appearances Manage social media presence and calendar Track and report on campaign goals and metrics Qualifications At least one cycle of campaign experience (including working with printing and mail vendors) Detail-oriented, organized, and flexible Strong Team focus and collaborative work style Comfortable working in a fast-paced environment Solution oriented and positive attitude Posses strong written and verbal communication skills Strong experience working with Excel, Word, Google Drive, Sheets Familiarity with or experience with caucus and convention strategy (preferred, not required) NPG VAN and Mail Program Experience (preferred) Canva & SquareSpace (nice to have, not required) Salary $15 per hour, for # hours per month (March to August, and December) and # hours per month for three months (September, October & November), with an estimated paid time investment of # hours ($4050).
 A win bonus of $2,500.
-To apply, email your resume with subject line “Campaign Manager” to votekristin@gmail.com Questions 612-868-3035
-More Information
-Kristin is running for a 3rd term in the MN House.
+To apply, email your resume with subject line “Campaign Manager” to votekristin@gmail.com Questions 612-868-3035 More Information Kristin is running for a 3rd term in the MN House.
 In 2018 she successfully flipped a district from red to blue after 36 years.
 In 2020 she was re-elected winning all but one precinct in the district.
 While the district is solidly purple and trending bluer over time.
@@ -46,32 +17,18 @@ She has a proven track record as a bridge builder and good reputation with leade
 Her passions lie in access to affordable healthcare, prescription drugs and childcare, strong leadership in elections and democratic process, and a leader on women’s issues and IT issues.
 She currently serves as Vice Chair of Human Services, and on the Health Services, State Government and Elections, as well as the Redistricting Committees.
 She was twice appointed to the Governor’s Blue-Ribbon Commission on IT (now Technical Advisory Council) and newly elected Vice Chair of the Legislative Commission on Cybersecurity.
-Position: Volunteer Social Media Manager
-Roles & Responsibilities
-The Social Media Manager is responsible for planning, creating, and scheduling social media posts (Facebook & Instagram) as well as editing/adding content to the social media calendar.
+For a full list of Chief Authored Bills For a full list of Co-Authored Bills Position: Volunteer Social Media Manager Roles & Responsibilities The Social Media Manager is responsible for planning, creating, and scheduling social media posts (Facebook & Instagram) as well as editing/adding content to the social media calendar.
 Additionally, the social media manager is responsible for monitoring pertinent social media pages to keep a current pulse on the state of the social media landscape in the district.
 The social media manager assists in building the grassroots audience of the campaign's social media presence and reports to the Campaign Manager.
 This position is an unpaid internship or volunteer position and will require 5-10 hours per week.
 Scheduling is flexible and all work can be done from home.
 This position can begin immediately and will be active through November 2020 with the opportunity to extend the internship/volunteer position.
 The team is happy to work with applicants in coordinating with colleges and universities to provide credit in exchange for your contributions to our team.
-The central role and responsibilities of the Social Media Manager:
-- Draft engaging content to be shared on the campaigns social media pages
-- Review and edit or make additions to the campaign social media calendar
-- Schedule posts in accordance with the social media calendar
-- Social media pages should have a minimum of 2 posts per day
-- Monitor pre-identified Facebook groups (neighborhood groups, opponent, etc.) and alert Campaign Manager to the landscape (strife within the groups, an opportunity for Kristin to chime in, opponent campaign events, etc.)
-- Manage social media campaign events
-- Create Event with accurate event information (Work closely with Campaign Manager)
-- Monitor RSVP’s
-- Post event updates that are engaging within the event
-- Recruit people to attend event w/ social media invites
-- Create and execute strategy to increase page likes and followers (In coordination with Campaign Manager)
-The ideal candidate:
-Will have strong verbal and written communication skills, an ability to work independently, belief in the progressive cause and re-electing Rep.
+The central role and responsibilities of the Social Media Manager: Draft engaging content to be shared on the campaigns social media pages Review and edit or make additions to the campaign social media calendar Schedule posts in accordance with the social media calendar Social media pages should have a minimum of 2 posts per day Monitor pre-identified Facebook groups (neighborhood groups, opponent, etc.) and alert Campaign Manager to the landscape (strife within the groups, an opportunity for Kristin to chime in, opponent campaign events, etc.) Manage social media campaign events Create Event with accurate event information (Work closely with Campaign Manager) Monitor RSVP’s Post event updates that are engaging within the event Recruit people to attend event w/ social media invites Create and execute strategy to increase page likes and followers (In coordination with Campaign Manager) The ideal candidate: Will have strong verbal and written communication skills, an ability to work independently, belief in the progressive cause and re-electing Rep.
 Kristin Bahner, will have a positive attitude and superb customer service skills, and will be someone who is focused, results-driven, and able to work efficiently.
-Individuals are encouraged to apply by sending their social media page handles for review, any relevant past projects, and resume to votekristin@gmail.com.
+Individuals are encouraged to apply by sending their social media page handles for review, any relevant past projects, and resume to votekristin@gmail.com .
 All campaign officers, paid staff and volunteers in campaign positions, are representatives of and ambassadors for the campaign and the candidate.
 Every event and party or campaign event is an opportunity to engage others with the Bahner campaign, and to secure votes for her re-election.
 Onboarding: The campaign will provide you with all of the tools necessary during the onboarding process, including access to the candidates social media sites, a list of content generators and pages to monitor, and an orientation session with Campaign Manager.
 The onboarding process is expected to last from 1-3 weeks.
+Subscribe to Receive Campaign Email Updates Back to Top Paid for by Kristin Bahner for State Representative VOTEKRISTIN@GMAIL.COM

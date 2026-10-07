@@ -1,7 +1,11 @@
 {
  "description": "Kerry Tapper in the News",
  "final_url": "https://www.kerrytapper.com/news",
- "paid_for_by": "Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI&nbsp; 49079 Powered by CampaignPartner",
+ "fingerprint": "998329b6cec27fac5ff7e1eedf8179981c3ef75b",
+ "format": 3,
+ "paid_for_by": "Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

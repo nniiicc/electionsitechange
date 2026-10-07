@@ -1,4 +1,4 @@
-The Democratic-controlled Colorado House passed HB26-1322 in response to the Supreme Court Ruling that “Conversion Therapy” aka HB19-1129 violated peoples 1st amendment rights.
+Skip to content SheperekForColorado Main_Menu Why I’m Running The Issues Legislative Philosophy Crazy Bills About Mike Donate Contact blog The Democratic-controlled Colorado House passed HB26-1322 in response to the Supreme Court Ruling that “Conversion Therapy” aka HB19-1129 violated peoples 1st amendment rights.
 HB26-1322 allows people “harmed” by conversion therapy to sue therapists; this bill was passed just days after the Supreme Court blocked enforcement of the state’s ban on the method.
 What the heck is “Conversion Therapy?” It’s something like this: If a therapist tells a biological boy that he is really a boy, or a biological girl she is really a girl that the therapist has harmed the child.
 HB26-1322 – The bill establishes a cause of action for claims of injury caused by sexual orientation or gender identity change efforts (efforts) against a mental health professional and allows the cause of action to be commenced at any time without limitation.
@@ -8,3 +8,7 @@ Thankfully this bill was killed due to public outrage — but they will try agai
 These one party rule clowns are not representing the people of Colorado.
 They pass any bill they want to… disgusting.
 SB26-097 – Concerning decriminalizing commercial sexual activity among consenting adults.
+Michael_Sheperek@icloud.com P.O.
+Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 5, 2026 5:08 pm Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

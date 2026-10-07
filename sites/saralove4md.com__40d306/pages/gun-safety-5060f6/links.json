@@ -1,28 +1,110 @@
 [
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0004?ys=2020RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0425",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0824",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0001",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0334?ys=2026rs",
-"https://saralove4md.com/",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://x.com/@saralove4MD"
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "HB 4/SB 208",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0004?ys=2020RS&search=True"
+},
+{
+"text": "HB 425",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0425"
+},
+{
+"text": "HB 824",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0824"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "SB 1",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0001"
+},
+{
+"text": "SB 334",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0334/?ys=2026rs"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+}
 ]

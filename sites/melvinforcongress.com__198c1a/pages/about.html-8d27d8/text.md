@@ -1,6 +1,4 @@
-Biography
-Melvin Rivera for Congress (NY-7)
-Melvin Rivera was born and raised in Bushwick, Brooklyn during the turbulent 1980s, when New York City communities were grappling with the AIDS epidemic and the crack cocaine crisis.
+Top Home Biography ↓ Biografía de Campaña Issues Events News and Updates Volunteer Contact Donate Biography Melvin Rivera for Congress (NY-7) Melvin Rivera was born and raised in Bushwick, Brooklyn during the turbulent 1980s, when New York City communities were grappling with the AIDS epidemic and the crack cocaine crisis.
 Growing up during one of the most challenging periods in the city’s history shaped Melvin’s deep sense of responsibility to his neighbors and his lifelong commitment to service.
 Melvin has been a community activist for more than 30 years, beginning with his first job as a high school student at the YMCA.
 From a young age he dedicated himself to helping others, working with vulnerable populations including at-risk youth, seniors, and people with special needs.
@@ -34,3 +32,6 @@ Leading with logic and common sense, Melvin Rivera’s campaign centers on accou
 His years of grassroots service, personal resilience, and dedication to helping others have given him the empathy and foresight needed to lead.
 Melvin believes the challenges facing Brooklyn and Queens require tailored solutions—not a one-size-fits-all approach.
 His experience on the ground, working directly with the people most affected by policy decisions, is what makes him uniquely qualified to represent New York’s 7th Congressional District in Congress.
+On November 3, 2026, vote for Melvin Rivera for Congress.
+COUNTING DOWN TO Election Day Privacy Political advertisement paid for and approved by Melvin Rivera for Congress.
+Campaign websites by Online Candidate

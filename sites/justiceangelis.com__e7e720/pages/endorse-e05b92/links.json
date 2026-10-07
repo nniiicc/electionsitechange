@@ -1,8 +1,34 @@
 [
-"https://justiceangelis.com/",
-"https://justiceangelis.com/about",
-"https://justiceangelis.com/endorse",
-"https://justiceangelis.com/endorsements",
-"https://justiceangelis.com/news",
-"https://secure.ngpvan.com/gdJPC8ZA_k-cmX0BMxwdOg2"
+{
+"text": "About",
+"href": "https://justiceangelis.com/about/"
+},
+{
+"text": "All Endorsements",
+"href": "https://justiceangelis.com/endorsements/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/gdJPC8ZA_k-cmX0BMxwdOg2"
+},
+{
+"text": "Endorse Theo",
+"href": "https://justiceangelis.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://justiceangelis.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://justiceangelis.com/"
+},
+{
+"text": "News",
+"href": "https://justiceangelis.com/news/"
+},
+{
+"text": "[image: Theo Angelis]",
+"href": "https://justiceangelis.com/"
+}
 ]

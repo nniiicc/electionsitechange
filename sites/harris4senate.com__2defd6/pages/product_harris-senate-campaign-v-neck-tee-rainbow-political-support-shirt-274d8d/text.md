@@ -1,5 +1,6 @@
-Description
-This lightweight V-neck tee blends casual comfort with bold, campaign-style graphics.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Uncategorized / Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt $ 34.32 – $ 38.07 Price range: $34.32 through $38.07 This lightweight V-neck tee blends casual comfort with bold, campaign-style graphics.
+Soft 100% cotton (with heather blends where applicable) and a retail fit make it wearable from rallies to everyday wear.
+The front features a colorful circular badge with clear candidate messaging; the back repeats the theme with a vibrant, agate-inspired graphic that reads like… Colors Choose an option Black Sizes Choose an option S M L XL 2XL Clear Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt quantity Add to cart Category: Uncategorized Description Additional information Reviews (0) Description This lightweight V-neck tee blends casual comfort with bold, campaign-style graphics.
 Soft 100% cotton (with heather blends where applicable) and a retail fit make it wearable from rallies to everyday wear.
 The front features a colorful circular badge with clear candidate messaging; the back repeats the theme with a vibrant, agate-inspired graphic that reads like a proud badge of affiliation.
 Thoughtful construction — side seams, ribbed collar, and shoulder tape — keeps the shirt looking sharp through repeated wear.
@@ -7,15 +8,9 @@ Ethically manufactured and finished with a tear-away label for comfort, this tee
 Wear it on canvassing days, community events, and casual meetups to show solidarity without shouting.
 The cut sits neatly under jackets or on its own; the light fabric layers well in spring and fall.
 The rainbow-toned artwork gives a friendly, energetic vibe that connects with supporters who value visibility and color in their civic expression.
-Product features
-– Lightweight 4.2 oz cotton fabric for breathable, all-season wear
-– Retail V-neck silhouette with side seams for a flattering, stable fit
-– Ribbed knit collar and shoulder tape to retain shape and prevent stretching
-– Ethically manufactured (Fair Labor Association/WRAP certifications) with tear-away label
-– Heather color blends available (52/48) and Athletic Heather option (90/10)
-Care instructions
-– Do not dryclean
-– Machine wash: warm (max 40C or 105F)
-– Non-chlorine: bleach as needed
-– Tumble dry: low heat
-– Iron, steam or dry: medium heat
+Product features – Lightweight 4.2 oz cotton fabric for breathable, all-season wear – Retail V-neck silhouette with side seams for a flattering, stable fit – Ribbed knit collar and shoulder tape to retain shape and prevent stretching – Ethically manufactured (Fair Labor Association/WRAP certifications) with tear-away label – Heather color blends available (52/48) and Athletic Heather option (90/10) Care instructions – Do not dryclean – Machine wash: warm (max 40C or 105F) – Non-chlorine: bleach as needed – Tumble dry: low heat – Iron, steam or dry: medium heat Additional information Weight N/A Reviews There are no reviews yet.
+Be the first to review “Harris Senate Campaign V-Neck Tee — Rainbow Political Support Shirt” Cancel reply Your email address will not be published.
+Required fields are marked * Your rating * Rate… Perfect Good Average Not that bad Very poor Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
+Related products 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

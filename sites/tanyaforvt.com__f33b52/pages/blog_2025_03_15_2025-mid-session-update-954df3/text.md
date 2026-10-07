@@ -1,3 +1,4 @@
-2025 Mid-Session Update
-As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now 2025 Mid-Session Update Education Housing Taxes Town Meeting Day Report Mar 15 Written By As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
 The report is available as both a PDF and in plain text ODF format.
+2025 Mid Session Report Download 2025 Mid Session Report Plain Text Download Previous Previous 2026 Mid-Session Update Next Next Primary Win!
+Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

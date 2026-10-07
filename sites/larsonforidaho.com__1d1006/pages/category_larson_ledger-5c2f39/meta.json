@@ -1,7 +1,11 @@
 {
  "description": "The Larson Ledger - a weekly analysis of one bill, how it's been influenced by outside interests, and the impact on North Idaho",
  "final_url": "https://larsonforidaho.com/category/larson_ledger/",
- "paid_for_by": null,
- "title": "Larson Ledger \u2013 Larson for Idaho",
- "years_mentioned": []
+ "fingerprint": "74d321ab2fab6b8566a736c8f48f6f860028f558",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Larson Ledger – Larson for Idaho",
+ "years_mentioned": [
+  "2026"
+ ]
 }

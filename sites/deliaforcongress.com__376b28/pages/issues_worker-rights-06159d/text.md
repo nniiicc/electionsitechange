@@ -1,21 +1,9 @@
-Worker Rights
-ROOTED
-Delia grew up in a working-class family where her parents often worked long hours at minimum wage jobs just to make ends meet.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Worker Rights Apr 1 Written By Guest User ROOTED Delia grew up in a working-class family where her parents often worked long hours at minimum wage jobs just to make ends meet.
 She understands that workers are the backbone of a strong economy and that protecting worker rights is critical to ensuring a thriving middle class.
 As corporations report record profits in the wake of the pandemic, prosperity and recovery must be shared with the frontline and low-income workers that make it possible.
 It is not enough to “create more jobs”--those jobs must pay a living wage, provide strong benefits, and protect a worker’s right to organize for fair pay and good working conditions.
 This is why Delia fought for and helped pass a $15/hr minimum wage in Illinois, and in Congress has co-sponsored legislation to raise the federal minimum wage to $17/hour.
-READY
-Delia is the working-class leader we need fighting for working families and the middle class in Congress.
+READY Delia is the working-class leader we need fighting for working families and the middle class in Congress.
 She delivered on major campaign promises by co-sponsoring the Raise the Wage Act to raise the federal minimum wage to $17 an hour, as well as the Protecting the Right to Organize Act (PRO Act) enshrining workers' rights to collectively bargain.
 Delia supports a Federal Jobs Guarantee focused on clean energy while investing in healthcare and infrastructure so that everyone who needs a job is guaranteed work that pays them a living wage.
-RESULTS
-In Congress, Delia:
-- Has stood in solidarity with labor unions at rallies and picket lines in the 3rd Congressional District, and signed onto public letters of support for striking workers nationally
-- Co-sponsored the Protecting the Right to Organize Act to create federal protections that allow for workers to form new unions and organize under existing ones
-- Co-sponsored the Child Labor Exploitation Accountability Act to guarantee that Department of Agriculture contractors adhere to child labor laws
-- Co-sponsored the Good Jobs for Good Airports Act to mandate that all sizes of airports provide airport service workers living wages and benefits
-As IL State Representative:
-- Chief co-sponsored legislation to raise Illinois minimum wage to $15 per hour
-- Co-sponsored HJR11 to enshrine the right to unionize in the IL state constitution and prevent the spread of right-to-work laws
-- Was one of only 17 state legislators with a 100% pro-labor voting record according to the AFL-CIO
+RESULTS In Congress, Delia: Has stood in solidarity with labor unions at rallies and picket lines in the 3rd Congressional District, and signed onto public letters of support for striking workers nationally Co-sponsored the Protecting the Right to Organize Act to create federal protections that allow for workers to form new unions and organize under existing ones Co-sponsored the Child Labor Exploitation Accountability Act to guarantee that Department of Agriculture contractors adhere to child labor laws Co-sponsored the Good Jobs for Good Airports Act to mandate that all sizes of airports provide airport service workers living wages and benefits As IL State Representative: Chief co-sponsored legislation to raise Illinois minimum wage to $15 per hour Co-sponsored HJR11 to enshrine the right to unionize in the IL state constitution and prevent the spread of right-to-work laws Was one of only 17 state legislators with a 100% pro-labor voting record according to the AFL-CIO Guest User Previous Previous COMMUNITY INVESTMENT AND ECONOMIC DEVELOPMENT Next Next Voting Rights MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

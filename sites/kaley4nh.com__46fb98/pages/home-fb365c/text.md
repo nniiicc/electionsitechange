@@ -1,17 +1,6 @@
-Kaley Dvorak
-for NH Rockingham 32
-State Representative
-Representing Brentwood, Danville & Fremont
-Embedded Files
-Focused on bringing an affordable future to the people of New Hampshire to solve big problems as a community!
-Bringing a focus on affordability & community to Concord
-- close the housing gap to allow young people to build their futures here.
-- reform our education funding model to allow for high quality education throughout NH by investing in public education.
-- address rising costs of childcare, healthcare, & energy.
+Search this site Embedded Files Skip to main content Skip to navigation Kaley Dvorak for State Rep Home About Kaley Events Contact Donate Kaley Dvorak for State Rep Home About Kaley Events Contact Donate More Home About Kaley Events Contact Donate Kaley Dvorak for NH Rockingham 32 State Representative Representing Brentwood, Danville & Fremont Focused on bringing an affordable fu ture to the people of New Hampshire to solve big problems as a community!
+Bringing a focus on affordability & community to Concord close the housing gap to allow young people to build their futures here. reform our education funding model to allow for high quality education throughout NH by investing in public education. address rising costs of childcare, healthcare, & energy.
 I have a background in engineering, and a love of New Hampshire that stretches back for generations.
 I believe that problems can be solved, if we work together, and listen to one another.
 I humbly ask for your vote on November 3rd.
-Thank you!
-Page updated
-Google Sites
-Report abuse
+Thank you! [ kaley.dvorak@gmail.com ] [ 603-289-8664 ] [Paid for by Kaley Dvorak for NH : Kaley Dvorak, Treasurer, 16 Block Dr, Brentwood NH ] Google Sites Report abuse Page details Page updated Google Sites Report abuse

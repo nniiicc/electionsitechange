@@ -1,5 +1,4 @@
-May 2024 Letter
-The House met four times, handling three hundred and sixty seven bills in total.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all The Final Stretch The Final Stretch The Final Stretch Jun 1, 2024 Jun 1, 2024 May 2024 Letter The Dome - 23 May 2024 - 09:06 - Concord, NH - Taken by Jonah The Dome - 23 May 2024 - 09:06 - Concord, NH - Taken by Jonah The House met four times, handling three hundred and sixty seven bills in total.
 One hundred and thirty five on the consent calendar, one hundred and thirty four concurrence messages, and ninety eight bills on the regular calendar.
 Concurrence messages are what’s asked of the House when the Senate passes the same bill as the House, with differing text, and vice versa.
 The House has the options to either move concur with the Senate’s changes to a bill, passing the bill onto the Governor’s desk.
@@ -21,7 +20,9 @@ The Criminal Justice committee had a non-germane amendment before it this month.
 Proposed to legislation which I co-sponsored, which originally was a simple bill to require the superintendent of each county department of corrections to require their contracted behavioral health treatment providers to use screening tools for mental health and substance abuse.
 Providing where such services exist, community based treatment providers and certified recovery support workers.
 Coordinating contact with people in custody for the purpose of easing reentry into the community.
-The Chairman of my committee brought forward the non-germane amendment, which added a definition of anti-semitism for the purpose of enforcing anti discrimination laws.
+In the House - 2 May 2024 - 17:32 - Taken by Rep.
+Heath Howard In the House - 2 May 2024 - 17:32 - Taken by Rep.
+Heath Howard The Chairman of my committee brought forward the non-germane amendment, which added a definition of anti-semitism for the purpose of enforcing anti discrimination laws.
 At first glance, a menial addition to our discrimination protection laws.
 At a closer glance, it codified multiple private organizations’ definition of anti semitism into public law - including definitions which would legally enforce that critique of the nation-state of Israel, equated to anti-semitism.
 This is dangerous territory we are broaching.
@@ -50,4 +51,4 @@ When it works this body is the best legislative body in all fifty of our great S
 Bringing together people from all across the State, who come to their seats with a tile, all sitting together in the chamber built in 1819, to create a mosaic of stories which form the grand story of our great State.
 As I mull the final decision as to whether I will seek another term let me first acknowledge my profuse gratitude for the opportunity to serve in the State House.
 There is nothing akin to it.
-Back to all
+My Loves - 16 May 2024 - 11:38 - Peterborough, NH - Taken by Jonah My Loves - 16 May 2024 - 11:38 - Peterborough, NH - Taken by Jonah ‹ Onward ‹ Onward ‹ Onward Black Hole Sun › Black Hole Sun › Black Hole Sun › Back to all

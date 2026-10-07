@@ -1,9 +1,8 @@
-In Support of Ferene Paris Meyer
-I want to thank Councilor Hightower for her recent post to Front Porch Forum that drew our attention to the recent audit of Burlington’s Juneteenth celebration for FY21 and FY22.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / In Support of Ferene Paris Meyer August 17, 2023 I want to thank Councilor Hightower for her recent post to Front Porch Forum that drew our attention to the recent audit of Burlington’s Juneteenth celebration for FY21 and FY22.
 Her motion to evaluate the impact of the audit was unanimously supported by the Council.
 I stand in solidarity with the Black femmes of this city who seek to interrupt the prevailing narrative that inappropriately targets Tyeastia Green, Burlington’s former Director of Racial Equity, Inclusion, and Belonging.
 Former Councilors Colburn and Siegel have also written about the hypocrisy that surrounds this audit when compared to our inaction to hold Directors who identify as white and male to the same standard of accountability.
-Please read that letter.
+Please read that letter .
 Burlington Representative Emma Mulvaney-Stanak has similarly highlighted those hypocrisies in her letter to Mayor Weinberger and the Burlington City Council.
 More specifically, I want to stand in support and to amplify the concerns of Ferene Paris Meyer, the woman who has so bravely risen to challenge our Mayor’s decision to initiate the audit and to remind us how misogyny and racism show up in these moments when we scapegoat and silence Black women.
 I want to speak very clearly on how I have come to trust and rely upon Ferene’s voice.
@@ -29,4 +28,4 @@ Without hesitation, I believe her when she once again takes the brave step, as s
 Those constructs that currently keep me from ever truly knowing what it might be like to navigate this overwhelmingly white community with identities that have been historically marginalized and oppressed.
 Given that truth, my only option is to listen, to truly hear, and then to sincerely believe the stories of brave Black women who are willing to stand, to interrupt, and to speak.
 I urge you to do the same.
-Believe Black women.
+Believe Black women. < General Housing Just Housing Coalition Response to Governor Scott’s Budget Veto > My Statement to the City Council Decision on Extending the Lease for the VTANG Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

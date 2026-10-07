@@ -1,5 +1,4 @@
-About
-I’m Felicia Rabourn, State Representative for Kentucky’s 47th House District, proudly serving the people of Carroll, Henry, Owen, and Trimble Counties.
+Home About Facebook VOLUNTEER CONTRIBUTE Home About Facebook VOLUNTEER CONTRIBUTE Home About Volunteer Contribute Home About Volunteer Contribute About I’m Felicia Rabourn, State Representative for Kentucky’s 47th House District, proudly serving the people of Carroll, Henry, Owen, and Trimble Counties.
 I’m a conservative Republican, a wife, a mother of three, and someone who believes public service should always put hardworking families first.
 Since taking office, I’ve fought to protect conservative values, defend constitutional freedoms, lower taxes, strengthen education, support agriculture, and invest in the infrastructure our communities depend on.
 I believe government works best when it’s accountable, transparent, and focused on the people, not special interests.
@@ -13,3 +12,4 @@ That experience taught me how to navigate challenges, advocate for others, and s
 It continues to shape the way I serve today: approachable, responsive, and focused on getting things done.
 At the end of the day, my mission is simple.
 Fight for the people of this district, protect the values that make Kentucky strong, and leave our communities better for the next generation.
+Follow Follow Privacy Policy Terms & Conditions Paid for by Felicia Rabourn for State Representative.

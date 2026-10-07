@@ -1,15 +1,58 @@
 [
-"https://amazon.com/Farmer-Servant-Mission-Divided-Against/dp/B0FVTX8JXL",
-"https://facebook.com/profile.php?id=61581745371863",
-"https://tiktok.com/@robertebrooksforgovernor",
-"https://votewethepeople.com/",
-"https://votewethepeople.com/about-robert-brooks",
-"https://votewethepeople.com/help-fund-the-movement",
-"https://votewethepeople.com/platform-and-policy-agenda",
-"https://votewethepeople.com/take-the-oath",
-"https://votewethepeople.com/the-farmer-servant-cannabis-holistic-medicine-plan",
-"https://votewethepeople.com/the-farmer-servant-creed",
-"https://votewethepeople.com/the-farmer-servant-movement",
-"https://votewethepeople.com/the-farmer-servants-prayer",
-"https://votewethepeople.com/the-four-promises-to-oklahoma"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php/?id=61581745371863"
+},
+{
+"text": "Help Fund the Movement",
+"href": "https://votewethepeople.com/help-fund-the-movement/"
+},
+{
+"text": "Home",
+"href": "https://votewethepeople.com/"
+},
+{
+"text": "Meet Robert Brooks",
+"href": "https://votewethepeople.com/about-robert-brooks/"
+},
+{
+"text": "Platform and Policy Agenda",
+"href": "https://votewethepeople.com/platform-and-policy-agenda/"
+},
+{
+"text": "Take the Oath",
+"href": "https://votewethepeople.com/take-the-oath/"
+},
+{
+"text": "The Creed",
+"href": "https://votewethepeople.com/the-farmer-servant-creed/"
+},
+{
+"text": "The Farmer Servant Cannabis & Holistic Medicine Plan",
+"href": "https://votewethepeople.com/the-farmer-servant-cannabis-holistic-medicine-plan/"
+},
+{
+"text": "The Movement",
+"href": "https://votewethepeople.com/the-farmer-servant-movement/"
+},
+{
+"text": "The People’s Covenant to Oklahoma",
+"href": "https://votewethepeople.com/the-peoples-promise/"
+},
+{
+"text": "The Prayer",
+"href": "https://votewethepeople.com/the-farmer-servants-prayer/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@robertebrooksforgovernor"
+},
+{
+"text": "Vote - We the People! - The Farmer Servant[image: Vote - We the People! - The Farmer Servant]",
+"href": "https://votewethepeople.com/"
+},
+{
+"text": "[image: Ad]",
+"href": "https://www.amazon.com/Farmer-Servant-Mission-Divided-Against/dp/B0FVTX8JXL"
+}
 ]

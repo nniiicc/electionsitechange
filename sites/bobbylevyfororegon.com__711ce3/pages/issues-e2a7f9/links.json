@@ -1,7 +1,38 @@
 [
-"http://facebook.com/bobbylevyfororegon",
-"https://bobbylevyfororegon.com/",
-"https://bobbylevyfororegon.com/endorsements",
-"https://bobbylevyfororegon.com/issues",
-"https://secure.anedot.com/friends-of-bobby-levy/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-bobby-levy/donate"
+},
+{
+"text": "Endorsement Form",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "Endorsements",
+"href": "https://bobbylevyfororegon.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://bobbylevyfororegon.com"
+},
+{
+"text": "Issues",
+"href": "https://bobbylevyfororegon.com/issues/"
+},
+{
+"text": "Link to Facebook",
+"href": "http://www.facebook.com/bobbylevyfororegon"
+},
+{
+"text": "Meet Bobby",
+"href": "https://bobbylevyfororegon.com/#meetbobby"
+},
+{
+"text": "Volunteer",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "[image: Bobby Levy for Oregon]",
+"href": "https://bobbylevyfororegon.com/"
+}
 ]

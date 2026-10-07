@@ -1,11 +1,2 @@
-Donate
-HELP KARL
-Your financial assistance can help Karl get the message out about how he can make positive change in the 98th District!
-If you would like to contribute to the campaign, please make checks payable to:
-Brabenec for Assembly
-…and send to:
-Brabenec for Assembly,
-c/o Joseph Coleman,
-PO Box 531,
-Florida, NY 10921
-Or contribute online by clicking the button below:
+Skip to content Campaign Hotline: 845-428-9884 Home About Events Issues Taxes and Spending Opioid Epidemic Economic Development Ethics Reform Protecting the Environment Infrastructure Protecting First Responders Agriculture Volunteer Support Absentee Ballot Donate Register to Vote REQUEST LAWN SIGN Contact DONATE Donate HELP KARL Your financial assistance can help Karl get the message out about how he can make positive change in the 98th District!
+If you would like to contribute to the campaign, please make checks payable to: Brabenec for Assembly …and send to: Brabenec for Assembly, c/o Joseph Coleman, PO Box 531, Florida, NY 10921 Or contribute online by clicking the button below: DONATE NOW Home About Events Contribute Volunteer Contact REQUEST LAWN SIGN Absentee Ballot Register to Vote Issues Taxes and Spending Opioid Epidemic Economic Development Ethics Reform Protecting the Environment Infrastructure Protecting First Responders Agriculture PRIVACY STATEMENT Campaign Hotline: 845-428-9884 Email: info@brabenec.org KARL4NY PO Box 531 Florida, NY 10921 Copyright © # Karl Brabenec For Assembly imunify-bot-check

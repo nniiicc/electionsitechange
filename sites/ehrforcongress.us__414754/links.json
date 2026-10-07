@@ -1,14 +1,98 @@
 [
-"https://ehrforcongress.us/",
-"https://ehrforcongress.us/fl-28-debates",
-"https://ehrforcongress.us/meet-phil",
-"https://ehrforcongress.us/press",
-"https://ehrforcongress.us/privacy-policy",
-"https://ehrforcongress.us/volunteer",
-"https://ehrforcongress.us/voter-information",
-"https://facebook.com/PhilEhrFlorida",
-"https://instagram.com/phil.ehr?hl=en",
-"https://secure.actblue.com/donate/phil-ehr",
-"https://twitter.com/PhilEhr",
-"https://youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "$750",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "Custom",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/phil-ehr"
+},
+{
+"text": "FL-28 Debate Request: Two Public Debates in Miami-Dade and Monroe",
+"href": "https://ehrforcongress.us/fl-28-debates/"
+},
+{
+"text": "Home",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "Meet Phil",
+"href": "https://ehrforcongress.us/meet-phil/"
+},
+{
+"text": "Press",
+"href": "https://ehrforcongress.us/press/"
+},
+{
+"text": "Priorities",
+"href": "https://ehrforcongress.us/meet-phil/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ehrforcongress.us/privacy-policy/"
+},
+{
+"text": "Read Phil’s Story ►",
+"href": "https://ehrforcongress.us/meet-phil"
+},
+{
+"text": "Volunteer",
+"href": "https://ehrforcongress.us/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://ehrforcongress.us/voter-information/"
+},
+{
+"text": "[image: Vote Phil Ehr]",
+"href": "https://ehrforcongress.us/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/PhilEhr"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/PhilEhrFlorida"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/phil.ehr/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+}
 ]

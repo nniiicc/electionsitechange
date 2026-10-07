@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.deniseformaryland.com/news-updates/categories/news-article",
- "paid_for_by": null,
+ "fingerprint": "3c6f990ae87682edf8db6922e9fec8770d166486",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News Article",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024"
+ ]
 }

@@ -1,18 +1,78 @@
 [
-"https://agri.idaho.gov/",
-"https://blm.gov/idaho",
-"https://facebook.com/voteclayhandy",
-"https://handy4idaho.com/",
-"https://handy4idaho.com/category/endorsements",
-"https://handy4idaho.com/category/public-lands-public-service",
-"https://handy4idaho.com/clay-handy-2",
-"https://handy4idaho.com/conservative-legislation-2024",
-"https://handy4idaho.com/feed",
-"https://handy4idaho.com/freedom",
-"https://handy4idaho.com/idaho-elections",
-"https://handyoptimal.com/",
-"https://idaho.gov/",
-"https://legislature.idaho.gov/revenue-details",
-"https://nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=IDAHO",
-"https://parksandrecreation.idaho.gov/activities/hiking/hiking-in-idaho-national-forests"
+{
+"text": "Chandy@house.idaho.gov",
+"href": "mailto:Chandy@house.idaho.gov"
+},
+{
+"text": "Clay Handy",
+"href": "https://handy4idaho.com/clay-handy-2/"
+},
+{
+"text": "Contact Us",
+"href": "https://handy4idaho.com/freedom/#Contact"
+},
+{
+"text": "Endorsements",
+"href": "https://handy4idaho.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://handy4idaho.com/freedom/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteclayhandy/"
+},
+{
+"text": "Federal Forest Service",
+"href": "https://www.nass.usda.gov/Quick_Stats/Ag_Overview/stateOverview.php?state=IDAHO"
+},
+{
+"text": "House of Representative",
+"href": "https://handy4idaho.com/"
+},
+{
+"text": "Idaho Elections (Cassia, Minidoka, Oneida)",
+"href": "https://handy4idaho.com/idaho-elections/"
+},
+{
+"text": "Idaho Invasive Species Awareness",
+"href": "https://legislature.idaho.gov/revenue-details/"
+},
+{
+"text": "Idaho Parks and Recreation",
+"href": "https://parksandrecreation.idaho.gov/activities/hiking/hiking-in-idaho-national-forests/"
+},
+{
+"text": "Idaho Political Advertising by Handy Optimal",
+"href": "https://handyoptimal.com/"
+},
+{
+"text": "Legislation Report 2024",
+"href": "https://handy4idaho.com/conservative-legislation-2024/"
+},
+{
+"text": "Public Lands & Public Service",
+"href": "https://handy4idaho.com/category/public-lands-public-service/"
+},
+{
+"text": "RSS",
+"href": "https://handy4idaho.com/feed/"
+},
+{
+"text": "State of Idaho",
+"href": "https://www.idaho.gov/"
+},
+{
+"text": "Website",
+"href": "https://agri.idaho.gov/"
+},
+{
+"text": "[image: handy4idaho.com]",
+"href": "https://handy4idaho.com/"
+},
+{
+"text": "https://www.blm.gov/idaho",
+"href": "https://www.blm.gov/idaho"
+}
 ]

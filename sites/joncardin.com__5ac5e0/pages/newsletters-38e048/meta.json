@@ -1,9 +1,9 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/newsletters",
- "paid_for_by": null,
+ "fingerprint": "f1bbbc792d78ebf5d7c2e1bd6afc6064704760d3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletters",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

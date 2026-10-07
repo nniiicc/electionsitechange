@@ -1,11 +1,46 @@
 [
-"https://censusreporter.org/profiles/62000US50Y-4-windsor-4-state-house-district-vt",
-"https://kyle4windsor4vt.com/wp",
-"https://kyle4windsor4vt.com/wp/about-me",
-"https://kyle4windsor4vt.com/wp/get-involved",
-"https://kyle4windsor4vt.com/wp/policies-and-priorities",
-"https://kyle4windsor4vt.com/wp/towns-of-windsor-4",
-"https://kyle4windsor4vt.com/wp/why-the-bull-moose",
-"https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-4.pdf",
-"https://wordpress.org/"
+{
+"text": "About Me",
+"href": "https://kyle4windsor4vt.com/wp/about-me/"
+},
+{
+"text": "Census Data",
+"href": "https://censusreporter.org/profiles/62000US50Y-4-windsor-4-state-house-district-vt/"
+},
+{
+"text": "Get Involved",
+"href": "https://kyle4windsor4vt.com/wp/get-involved/"
+},
+{
+"text": "Kyle Hansen for State Representative – Windsor 4",
+"href": "https://kyle4windsor4vt.com/wp"
+},
+{
+"text": "Map of the District",
+"href": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windsor-4.pdf"
+},
+{
+"text": "Policies and Priorities",
+"href": "https://kyle4windsor4vt.com/wp/policies-and-priorities/"
+},
+{
+"text": "Towns of Windsor – 4",
+"href": "https://kyle4windsor4vt.com/wp/towns-of-windsor-4/"
+},
+{
+"text": "Why the Bull Moose?",
+"href": "https://kyle4windsor4vt.com/wp/why-the-bull-moose/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Kyle Hansen for State Representative – Windsor 4]",
+"href": "https://kyle4windsor4vt.com/wp/"
+},
+{
+"text": "[image]",
+"href": "https://kyle4windsor4vt.com/wp"
+}
 ]

@@ -1,17 +1,7 @@
-top of page
-All Posts
-Justice Through Aloha — Advancing Native Hawaiian Rights & Cultural Resilience
-Native Hawaiian families face housing barriers, cultural loss, and historic inequities.
+top of page DONATE SUBSCRIBE VOLUNTEER Menu Close GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 GARY CORDERY FOR 2026 HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close All Posts Affordable Housing Cost of Living Education Honoring Native Hawaiian Plan for Transparency Government Transparency Community All Posts Justice Through Aloha — Advancing Native Hawaiian Rights & Cultural Resilience Native Hawaiian families face housing barriers, cultural loss, and historic inequities.
 Learn Gary Cordery’s plan for Homes Act reform, Hawaiian-led policy groups, and cultural education rooted in justice and aloha.
-Na Keiki Deserve More — Education Rooted in Culture, Skills, and Community Control
-Keiki Deserve More — Education Rooted in Culture, Skills, and Community Control
-Keiki, Kupuna, Community — Ending Corruption for Shared Aloha
-Real Stories, Real People: Ending Corruption for Shared Aloha
-Honoring Native Hawaiian Voices
-Gary Cordery is committed to addressing Native Hawaiian issues with respect, cultural understanding, and action that uplifts and empowers our community.
-Building Hope — The 15,000 Homes Plan to Tackle Hawaii’s Housing Crisis
-Real Stories, Real People: Hawaiʻi’s Housing Crisis
-Aloha for All — Tax Relief and the Fight to Lower the Cost of Living
-Real Stories, Real People: Hawaiʻi’s Cost-of-Living Challenge
-ALEN BLANCO HARNANDEZ 2035
-bottom of page
+Honoring Native Hawaiian Na Keiki Deserve More — Education Rooted in Culture, Skills, and Community Control Keiki Deserve More — Education Rooted in Culture, Skills, and Community Control Community Keiki, Kupuna, Community — Ending Corruption for Shared Aloha Real Stories, Real People: Ending Corruption for Shared Aloha Government Transparency Honoring Native Hawaiian Voices Gary Cordery is committed to addressing Native Hawaiian issues with respect, cultural understanding, and action that uplifts and empowers our community.
+Honoring Native Hawaiian Building Hope — The 15,000 Homes Plan to Tackle Hawaii’s Housing Crisis Real Stories, Real People: Hawaiʻi’s Housing Crisis Affordable Housing Aloha for All — Tax Relief and the Fight to Lower the Cost of Living Real Stories, Real People: Hawaiʻi’s Cost-of-Living Challenge Cost of Living HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT Menu Close PRIVACY POLICY SMS TERMS TERMS & CONDITIONS PHOTO CONSENT POLICY ACCESSIBILITY SOCIAL MEDIA EVENT SIGN IN Paid for by Gary Cordery for Governor, 99-1191 Iwaena Street Suite #D, Aiea, HI 96701.
+Our content is protected — but you’re welcome to share our official posts at GaryCorderyForGovernor.com.
+Mahalo!
+HOME KEY ISSUES EVENTS ABOUT LOCAL BUSINESSES VISION ABOUT GARY LISTEN TO GARY BLOG VOTE + LINKS CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

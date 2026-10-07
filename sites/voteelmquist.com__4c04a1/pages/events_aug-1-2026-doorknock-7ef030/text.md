@@ -1,10 +1,6 @@
-Back to All Events
-Join the Elmquist Campaign to door knock ahead of the August 11 Primary.
-Previous
-Previous
-July 26
-July 26 Doorknock with Rep.
-Esther Agbaje
-Next
-Next
-August 4
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events August 1 Doorknock Saturday, August 1, 2026 11:00 AM 1:30 PM McCullough Park 955 County Road I Shoreview, Minnesota, 55126 United States (map) Google Calendar ICS Join the Elmquist Campaign to door knock ahead of the August 11 Primary.
+RSVP Here Posted In: Talk to Voters Previous Previous July 26 July 26 Doorknock with Rep.
+Esther Agbaje Next Next August 4 National Night to Unite Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

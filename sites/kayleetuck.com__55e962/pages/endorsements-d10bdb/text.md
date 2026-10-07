@@ -1,7 +1,5 @@
-top of page
-Endorsements
-Kaylee Tuck enters race for HD 55, already garners strong support
-Sebring land-use attorney Kaylee Tuck filed Tuesday [June 4, 2019] to run for Florida House in District 55.
+top of page Representative Kaylee Tuck, Florida House District 55 Donate Now Home Biography Values Issues Endorsements and Support News Contributions More Use tab to navigate through the menu items. kaylee@kayleetuck.com (863) 835-0130 Endorsements Tom Rooney endorses Kaylee Tuck for state House race I'm blessed to have had the opportunity to work with Congressman Rooney and his campaign from the time I was 12 years old, and I am honored that he has enough faith in me to formally endorse my candidacy.
+Read More Kaylee Tuck enters race for HD 55, already garners strong support Sebring land-use attorney Kaylee Tuck filed Tuesday [June 4, 2019] to run for Florida House in District 55.
 Within 24 hours, Southwest Florida developer Pat Neal was introducing the 25-year-old to some of the region’s biggest political players.
-Endorsements and Support: Press
-bottom of page
+Read More Endorsements and Support: Press Representative Kaylee Tuck, Florida House kaylee@kayleetuck.com (863) 835-0130 ©#.
+Political advertisement paid for and approved by Representative Kaylee Tuck, Florida House District 55. bottom of page

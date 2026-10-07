@@ -1,25 +1,30 @@
-PRESS RELEASE
-Attorney and Ethics Watchdog Claire Reynolds Announces 11th District Run in Texas
-FOR IMMEDIATE RELEASE
-AUSTIN, Texas - Claire Reynolds, an experienced attorney with a career devoted to upholding ethical standards and protecting the public, today announced her candidacy for Congress in Texas’s 11th Congressional District.
-Reynolds is running to challenge entrenched political interests that have repeatedly manipulated district lines to enhance partisan advantage rather than reflect the diverse communities of Central Texas.
+Skip navigation menu Meet Claire News Issues Press Kit Get Involved Español Donate Meet Claire News Issues Press Kit Get Involved Español Donate NEWS ARTICLE Claire Reynolds Searches for Blue Dots in West Texas PODCAST Claire on Wait What?!
+NEWS ARTICLE Democrats Hammer on Data Centers, Local Control PRESS RELEASE Reynolds Demands Pfluger Act After Fatal ICE Shootings YouTube Video Claire Reynolds Addresses Texas Democratic Convention Podcast Claire Reynolds on Progress Texas: Fighting for West Texas, Holding Power Accountable NEWS ARTICLE Republican Congress Extends Shutdown Through April NEWS ARTICLE Claire Reynolds Wins Democratic Nomination for TX-11 NEWS ARTICLE Meet the candidates in Texas’ 11th Congressional District NEWS ARTICLE Travis County Republicans Delay Primary Returns NEWS ARTICLE Stephen Colbert blasts CBS for nixing James Talarico interview NEWS ARTICLE August Pfluger Blames Democrats for Minneapolis Tragedies NEWS ARTICLE After Anti-ICE School Walkout, Midland ISD Police Seek to Identify Organizers PRESS RELEASE Reynolds Vows Legal Defense for Midland Students Following Anti-ICE Walk-Out NEWS ARTICLE Pfluger Won't Speak Truth to Power NEWS ARTICLE Reynolds Wins NorthEast Travis County Democrats Endorsement NEWS ARTICLE Claire Reynolds Wants Congress to do its Job NEWS ARTICLE Reynolds Wins Liberal Austin Democrats Endorsement NEWS ARTICLE Democrat Claire Reynolds Challenges Republican August Pfluger PRESS RELEASE Claire Reynolds Clears Key Early Fundraising Benchmark in First FEC Filing NEWS ARTICLE Texas Tribune's Primary Voter Guide NEWS ARTICLE Which January 6 Traitors Can We Vote Out This Year?
+PRESS RELEASE Attorney and Ethics Watchdog Claire Reynolds Announces 11th District Run in Texas NEWS ARTICLE Democrats Hoping for a Comeback, Again NEWS ARTICLE USPS changes may delay postmark dates, affecting mail-in ballots, tax payments News Texas Democrats fill every state and federal race on 2026 ballot, a first for either party NEWS ARTICLE Claire Reynolds on West Texas Data Center Fight: "You Are the Employers" NEWS ARTICLE A Representative's Loyalty Is to the District, Not the Party NEWS ARTICLE It's Dems vs.
+Goliaths on the Campaign Trail PRESS RELEASE Congressman Pfluger Agrees to Debate Claire Reynolds as Concerns Mount On His Record in Washington NEWS ARTICLE "Uncharted territory": Two months from Election Day, Democrats in Texas are truly competitive NEWS VIDEO Permian Basin Central Labor Union holds 70th annual Labor Day luncheon NEWS ARTICLE "Up Against a 500-Pound Gorilla": Can Dems Make Inroads in Deep-Red West Texas?
+Podcast Pod Save America: Choosin' Texas with Bobby Pulido NEWS ARTICLE Democrat Claire Reynolds says accountability drives bid for Texas District 11 Editorial Endorsement Reynolds offers U.S.
+House 11 a stronger Central Texas voice Youtube / PBS Texas Congressional District 11 Debate Jan 5 2026 PRESS RELEASE Attorney and Ethics Watchdog Claire Reynolds Announces 11th District Run in Texas FOR IMMEDIATE RELEASE AUSTIN, Texas - Claire Reynolds , an experienced attorney with a career devoted to upholding ethical standards and protecting the public, today announced her candidacy for Congress in Texas’s 11th Congressional District .
+Reynolds is running to challenge entrenched political interests that have repeatedly manipulated district lines to enhance partisan advantage rather than reflect the diverse communities of Central Texas .
 Texas’s 11th District now stretches across West Texas from Odessa to San Angelo and into portions of North Austin and Pflugerville, following a controversial redistricting process that was challenged in court over the use of race, with litigation that ultimately reached the U.S.
 Supreme Court.
 “For my entire career, I’ve believed that the rule of law only matters if it’s applied fairly and enforced without fear or favoritism,” Reynolds said.
-“I’ve seen what happens when powerful people think the rules don’t apply to them, and I’ve spent my career holding them accountable.”
-Reynolds served in the Office of the Chief Disciplinary Counsel at the State Bar of Texas for 12 years.
+“I’ve seen what happens when powerful people think the rules don’t apply to them, and I’ve spent my career holding them accountable.” Reynolds served in the Office of the Chief Disciplinary Counsel at the State Bar of Texas for 12 years.
 In that role, she worked in attorney discipline enforcement, supporting investigations and prosecutions of lawyers who violated the law or professional ethics, helping victims recover stolen client funds.
-Her work placed her at the intersection of law, accountability, and real-world harm–experience she says is urgently needed in Congress.
+Her work placed her at the intersection of law, accountability, and real-world harm –experience she says is urgently needed in Congress.
 Now, she is launching her candidacy to call out a broader pattern of executive overreach and the erosion of constitutional checks and balances.
 “Congress is supposed to be a co-equal branch of government, not a spectator,” Reynolds said.
-“When the executive branch interferes with elections, ignores due process, and concentrates power in the White House, it’s Congress’s job to say ‘no.’ Too many members have chosen silence instead.”
-A lifelong progressive Democrat, Reynolds cites deep concerns about civil liberties, immigration enforcement without due process, and the lack of meaningful accountability for abuses of power.
+“When the executive branch interferes with elections, ignores due process, and concentrates power in the White House, it’s Congress’s job to say ‘no.’ Too many members have chosen silence instead.” A lifelong progressive Democrat , Reynolds cites deep concerns about civil liberties, immigration enforcement without due process, and the lack of meaningful accountability for abuses of power.
 She says her campaign is grounded both in anger at the current state of American democracy and optimism that something better can be built.
-“I’m running because I believe we can build a government that actually works for everyday people, not just the wealthy or the well-connected,” Reynolds said.
-“We don’t need to go back to a broken ‘normal.’ We need to create something fairer, more humane, and more just.”
-Reynolds emphasized that her legal background gives her a practical understanding of how laws are written, enforced, and misapplied, and how those decisions affect real working Texans.
+“I’m running because I believe we can build a government that actually works for everyday people , not just the wealthy or the well-connected,” Reynolds said.
+“We don’t need to go back to a broken ‘normal.’ We need to create something fairer, more humane, and more just.” Reynolds emphasized that her legal background gives her a practical understanding of how laws are written, enforced, and misapplied, and how those decisions affect real working Texans .
 “I’ve spent my career standing up for people who were harmed when systems failed them,” she said.
-“Texas deserves a representative who knows the law, respects the Constitution, and has the courage to defend both.”
-CAMPAIGN EVENT
-Reynolds will host an in-person campaign meetup on January 9 from 5:00 p.m. to 7:00 p.m. at Little Woodrow’s Parmer, 6301 W Parmer Ln, Ste. 501, Austin, TX.
+“Texas deserves a representative who knows the law, respects the Constitution , and has the courage to defend both.” CAMPAIGN EVENT Reynolds will host an in-person campaign meetup on January 9 from 5:00 p.m. to 7:00 p.m. at Little Woodrow’s Parmer , 6301 W Parmer Ln, Ste.
+501, Austin, TX.
 Members of the community are encouraged to attend.
+Make checks payable to: Claire Reynolds for Congress P.O.
+Box 200753 Austin, TX 78720 (please include your job title and employer) info@clairereynoldsforcongress.org By submitting your mobile number, you consent to receive voting and donation messages from Claire Reynolds for Congress.
+Msg & data rates may apply.
+Msg frequency varies.
+Text HELP for help, STOP to Opt Out.
+Privacy Policy .
+For Press Inquiries, contact press@clairereynoldsforcongress.org Powered by RUN! website builder Paid for by Claire Reynolds for Congress You need to enable JavaScript to run this app.

@@ -1,43 +1,25 @@
-Rita's Platform
-Jennifer “Rita” Harris is fighting for a Florida where every family can afford healthcare, every worker has the support needed to succeed, and every student receives a strong, inclusive public education.
+top of page RITA FLORIDA Home Platform Take Action Donate Contact Use tab to navigate through the menu items.
+Rita's Platform Jennifer “Rita” Harris is fighting for a Florida where every family can afford healthcare, every worker has the support needed to succeed, and every student receives a strong, inclusive public education.
 Her legislative record reflects a commitment to lowering the cost of insulin and essential medical care, expanding opportunities for people with disabilities, supporting paid parental leave and portable worker benefits, defending civil rights, protecting survivors, expanding affordable housing, safeguarding Florida’s environment, and making government more accountable and responsive.
 Rita believes state government should solve problems, remove barriers, and give every Floridian a fair opportunity to thrive.
-An Economy That Supports Workers and Parents
-Rita supports paid family leave and modern, portable benefits that follow workers from job to job, because no Floridian should have to choose between earning a living, caring for a new child, and planning for the future.
-Rita has sponsored a paid parental-leave proposal that would provide eligible state employees with up to 12 weeks of fully paid leave following the birth or adoption of a child, without requiring them to exhaust sick or vacation time.
-She also sponsored legislation creating portable-benefit accounts for independent contractors and sole proprietors.
+An Economy That Supports Workers and Parents Rita supports paid family leave and modern, portable benefits that follow workers from job to job, because no Floridian should have to choose between earning a living, caring for a new child, and planning for the future. ​ Rita has sponsored a paid parental-leave proposal that would provide eligible state employees with up to 12 weeks of fully paid leave following the birth or adoption of a child, without requiring them to exhaust sick or vacation time. ​ ​ She also sponsored legislation creating portable-benefit accounts for independent contractors and sole proprietors.
 The accounts could help gig workers and self-employed Floridians save for healthcare, retirement, paid leave, and other benefits that traditionally come with full-time employment.
-Affordable Healthcare for Every Family
-Rita is fighting to lower the cost of lifesaving prescriptions, expand access to preventive and dental care, and ensure that Floridians with disabilities can work and build financial independence without losing the healthcare they need.
-- Cap insured patients’ costs at $35 for a 30-day supply of insulin and no more than $100 for diabetes supplies such as test strips, glucometers, and lancets.
-- Establish a Medicaid buy-in program allowing working people with disabilities to earn more without automatically losing essential medical coverage.
-- Create a Medicaid dental pilot program offering adults with disabilities preventive, restorative, emergency, and routine dental services.
-Additionally, Rita has co-sponsored bills addressing mammogram and supplemental breast-screening coverage, Medicaid provider networks, veterans’ dental care, developmental-delay and autism screening, music therapy, organ-donor leave, and expanded medical assistance for working people with disabilities.
-Strong, Inclusive Public Schools
-Rita is working to ensure every student can learn and succeed regardless of the language they speak, their disability, their background, or the community they come from.
-She will defend intellectual freedom, keep students safe, and protect access to diverse books and ideas.
-Rita sponsored legislation allowing English-language learners to take certain statewide assessments in their primary language.
-She argued that a language barrier should not be confused with a student’s intelligence or limit their educational opportunities.
-She also sponsored legislation to repeal provisions permitting objections to instructional materials, describing the proposal as an effort to reverse Florida’s book-ban framework and protect intellectual freedom, diverse perspectives, and critical thinking in schools.
-Her co-sponsored education measures included:
-- Speech and debate education.
-- School and childcare emergency-alert systems.
-- Postsecondary campus-safety procedures.
-- Drowning-prevention education and swimming-lesson vouchers.
-- Protections against hairstyle discrimination.
-- Student-elopement plans for children who may leave supervised settings unexpectedly.
-Equal Rights and Equal Justice
-Rita will stand against discrimination, protect LGBTQ+ Floridians, support survivors of domestic and sexual violence, and ensure that every person is treated with dignity and fairness under the law.
-Harris sponsored legislation prohibiting the use of so-called gay or transgender panic defenses to excuse, justify, or reduce responsibility for violent crimes against LGBTQ+ people.
-She also co-sponsored legislation addressing:
-- Discrimination based on natural hairstyles.
-- Domestic violence and protective injunctions.
-- Lease termination protections for survivors of domestic violence, dating violence, sexual violence, or stalking.
-- Pregnancy-support and wellness services.
-- Relief for the descendants and estates of the Groveland Four.
-- Language access and electoral protections through related election legislation.
-Affordable Housing and Consumer Stability
-Rita supports expanding affordable housing, protecting vulnerable renters, addressing insurance challenges, and making state agencies more responsive to the people they serve.
-Harris co-sponsored affordable-housing legislation and a proposal allowing survivors of domestic violence, dating violence, sexual violence, or stalking to terminate rental agreements under qualifying circumstances.
-She also supported legislation concerning property-insurance coordination and improved customer-service callback systems within the Department of Commerce.
-The callback-queue bill became law in 2026
+Affordable Healthcare for Every Family Rita is fighting to lower the cost of lifesaving prescriptions, expand access to preventive and dental care, and ensure that Floridians with disabilities can work and build financial independence without losing the healthcare they need. ​ Rita has sponsored bills to: Cap insured patients’ costs at $35 for a 30-day supply of insulin and no more than $100 for diabetes supplies such as test strips, glucometers, and lancets.
+Establish a Medicaid buy-in program allowing working people with disabilities to earn more without automatically losing essential medical coverage.
+Create a Medicaid dental pilot program offering adults with disabilities preventive, restorative, emergency, and routine dental services. ​ ​ Additionally, Rita has co-sponsored bills addressing mammogram and supplemental breast-screening coverage, Medicaid provider networks, veterans’ dental care, developmental-delay and autism screening, music therapy, organ-donor leave, and expanded medical assistance for working people with disabilities.
+Strong, Inclusive Public Schools Rita is working to ensure every student can learn and succeed regardless of the language they speak, their disability, their background, or the community they come from.
+She will defend intellectual freedom, keep students safe, and protect access to diverse books and ideas. ​ Rita sponsored legislation allowing English-language learners to take certain statewide assessments in their primary language.
+She argued that a language barrier should not be confused with a student’s intelligence or limit their educational opportunities. ​ She also sponsored legislation to repeal provisions permitting objections to instructional materials, describing the proposal as an effort to reverse Florida’s book-ban framework and protect intellectual freedom, diverse perspectives, and critical thinking in schools. ​ Her co-sponsored education measures included: Speech and debate education.
+School and childcare emergency-alert systems.
+Postsecondary campus-safety procedures.
+Drowning-prevention education and swimming-lesson vouchers.
+Protections against hairstyle discrimination.
+Student-elopement plans for children who may leave supervised settings unexpectedly.
+Equal Rights and Equal Justice Rita will stand against discrimination, protect LGBTQ+ Floridians, support survivors of domestic and sexual violence, and ensure that every person is treated with dignity and fairness under the law. ​ Harris sponsored legislation prohibiting the use of so-called gay or transgender panic defenses to excuse, justify, or reduce responsibility for violent crimes against LGBTQ+ people. ​ She also co-sponsored legislation addressing: Discrimination based on natural hairstyles.
+Domestic violence and protective injunctions.
+Lease termination protections for survivors of domestic violence, dating violence, sexual violence, or stalking.
+Pregnancy-support and wellness services.
+Relief for the descendants and estates of the Groveland Four.
+Language access and electoral protections through related election legislation.
+Affordable Housing and Consumer Stability Rita supports expanding affordable housing, protecting vulnerable renters, addressing insurance challenges, and making state agencies more responsive to the people they serve. ​ ​ Harris co-sponsored affordable-housing legislation and a proposal allowing survivors of domestic violence, dating violence, sexual violence, or stalking to terminate rental agreements under qualifying circumstances. ​ She also supported legislation concerning property-insurance coordination and improved customer-service callback systems within the Department of Commerce.
+The callback-queue bill became law in 2026 Learn More About Rita's Work Political ad paid for and approved by Jennifer 'Rita' Harris, Democrat, for Florida House 44 PO Box 771964 , Orlando, Florida, 32877 bottom of page

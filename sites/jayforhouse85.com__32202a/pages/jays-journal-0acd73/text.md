@@ -1,5 +1,4 @@
-Sign Up for our email list for exclusive editions of Jay's Journal!
-___________________________________________________________________
-Read Jay's Monthly Newsletters!
-___________________________________________________________________
-Watch Jay's Weekly Video Edition of Jay's Journal!
+Meet Jay Jay's Journal On the Issues News Endorsements Make Endorsement Volunteer Contact Donate Sign Up for our email list for exclusive editions of Jay's Journal! ___________________________________________________________________ Read Jay's Monthly Newsletters!
+Jay's Journal April 2024 Jay's Journal May 2024 ___________________________________________________________________ Watch Jay's Weekly Video Edition of Jay's Journal!
+Jay's Journal 0001 Jay Kilmartin Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $1000 Other Home News Contact Donate Privacy Policy Terms & Conditions Jay Kilmartin for State House 803.873.8967 Jay@JayforHouse85.com Powered by CampaignPartner.com - Political Campaign Websites Home Meet Jay News On the Issues Donate Contact Volunteer Events Close Menu

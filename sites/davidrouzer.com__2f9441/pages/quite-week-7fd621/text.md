@@ -1,4 +1,5 @@
-Last week was quite a week.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Quite a Week February 9, 2020 Last week was quite a week.
 Most importantly, the U.S.
 Senate acquitted President Trump of the charges brought against him in the Articles of Impeachment passed by House Democrats late last year.
 It’s the long-overdue end of a partisan, politically-driven process that has debilitated Congress since it was launched months ago.
@@ -27,3 +28,4 @@ I am grateful to have all of Bladen and Johnston counties back in the district a
 Thank you for taking the time to read this update.
 I look forward to keeping in touch with you regularly as we move into the 2020 campaign season.
 And as always, if we can do anything to be helpful please feel free to let me know.
+Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

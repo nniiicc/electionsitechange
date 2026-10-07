@@ -1,7 +1,9 @@
 {
  "description": "Get in touch with Paul Sand using the contact form for email inquiries and feedback.",
  "final_url": "https://paulsand.org/contact-me",
- "paid_for_by": null,
+ "fingerprint": "bec28a20a6eeffc956be66bcf60570f342013ec9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact Me",
  "years_mentioned": []
 }

@@ -1,38 +1,20 @@
-Constitutional Rights
-Safeguarding Freedoms
-Texas has long been a leader in defending constitutional rights, including the right to keep and bear arms and the right to vote in free and fair elections.
+Skip to content Home About House District 83 Issues Latest News Volunteer Home About House District 83 Issues Latest News Volunteer Donate Issues Constitutional Rights UPHOLDING TEXANS’ RIGHTS Safeguarding Freedoms Texas has long been a leader in defending constitutional rights, including the right to keep and bear arms and the right to vote in free and fair elections.
 Under Speaker Burrows’ leadership, that commitment remains stronger than ever.
 During the 89th Legislative Session, the Texas House strengthened Second Amendment protections and reinforced the integrity of Texas elections, helping safeguard these fundamental rights for future generations.
-Second Amendment Protection
-The right to keep and bear arms is a fundamental constitutional freedom that Texans have long valued.
+Second Amendment Protection The right to keep and bear arms is a fundamental constitutional freedom that Texans have long valued.
 During the 89th Legislative Session, Speaker Burrows and the Texas House strengthened Second Amendment protections, reinforced due process and ensured law-abiding Texans can exercise their rights under consistent statewide laws.
-- Prohibited the enforcement of “red flag” laws that allow law-abiding Texans to lose their firearms without due process or being charged with a crime (SB 1362)
-- Gave law-abiding handgun license holders one year to renew an expired license without having to repeat the full application process (HB 668)
-- Prevented local governments from creating their own rules for firearms, air guns, archery equipment and related items, ensuring the same Second Amendment protections across Texas (SB 2284)
-- Recognized valid handgun carry licenses issued by other states, allowing license holders to legally carry in Texas (SB 706)
-- Prohibited local governments from creating gun buyback programs, establishing a consistent statewide policy and preventing taxpayer dollars from being spent on programs that do little to reduce crime (HB 3053)
-- Protected the privacy and constitutional rights of foster families by restricting state agencies from collecting information about lawful firearm ownership (HB 1403)
-- Removed short-barrel firearms from Texas’ list of prohibited weapons (SB 1596)
-- Made the National Rifle Association eligible for the state’s major events reimbursement program, helping attract large events that boost tourism and local economies (SB 1718)
-- Protected due process by requiring the Texas Department of Public Safety to hear from applicants before denying a handgun license based on a medical advisory board’s assessment (HB 1234)
-Strengthening Election Integrity
-Free and fair elections depend on accurate voter rolls, secure election systems and consistent election procedures that Texans can trust.
+Prohibited the enforcement of “red flag” laws that allow law-abiding Texans to lose their firearms without due process or being charged with a crime (SB 1362) Gave law-abiding handgun license holders one year to renew an expired license without having to repeat the full application process (HB 668) Prevented local governments from creating their own rules for firearms, air guns, archery equipment and related items, ensuring the same Second Amendment protections across Texas (SB 2284) Recognized valid handgun carry licenses issued by other states, allowing license holders to legally carry in Texas (SB 706) Prohibited local governments from creating gun buyback programs, establishing a consistent statewide policy and preventing taxpayer dollars from being spent on programs that do little to reduce crime (HB 3053) Protected the privacy and constitutional rights of foster families by restricting state agencies from collecting information about lawful firearm ownership (HB 1403) Removed short-barrel firearms from Texas’ list of prohibited weapons (SB 1596) Made the National Rifle Association eligible for the state’s major events reimbursement program, helping attract large events that boost tourism and local economies (SB 1718) Protected due process by requiring the Texas Department of Public Safety to hear from applicants before denying a handgun license based on a medical advisory board’s assessment (HB 1234) Strengthening Election Integrity Free and fair elections depend on accurate voter rolls, secure election systems and consistent election procedures that Texans can trust.
 During the 89th Legislative Session, the Texas House passed reforms to improve election administration, strengthen voter confidence and help ensure every lawful vote is counted accurately and securely.
-- Secured voter-approved constitutional protections by clarifying that voters must be United States citizens (SJR 37)
-- Made it a second-degree felony to knowingly count invalid votes or reject valid votes (HB 5115)
-- Required courts to notify the Attorney General before making last-minute changes to election procedures, giving the state an opportunity to respond (SB 509)
-- Allowed the Secretary of State to withhold funding from voter registrars who fail to promptly remove ineligible voters from the voter rolls after receiving notice (SB 510)
-- Required the Texas Department of Public Safety to notify the Secretary of State when a Texas driver’s license holder applies for an ID in another state (SB 1470)
-- Protected against bias by prohibiting county elections administrators from holding positions appointed by elected officials (HB 677)
-- Required hand-counted audits at randomly selected polling locations before election results are released, helping verify the accuracy of the results (SB 827)
-- Closed a loophole by preventing candidates from filing for a place on the ballot with more than one political party (SB 901)
-- Strengthened election security by requiring rigorous testing of electronic voting equipment, including accuracy checks and tamper detections (SB 2166)
-- Required Texas to collect voter applicants information if their previous address was out-of-state, helping keep the voter rolls up to date (SB 1862)
-- Barred people convicted of a first- or second-degree felony from serving as poll watchers (HB 493)
-- Increased penalties for intentionally failing to provide enough ballots at polling places, helping protect voters’ access to the ballot (HB 1661)
-- Allowed a county commissioners court to combine small, low-population precincts to help reduce costs (SB 985)
-- Directed the Texas Secretary of State to improve how early voting and Election Day voting work together (SB 2753)
-Keeping the Momentum
-Texas has long been committed to protecting the constitutional rights of its citizens, and the Texas House is continuing that work by strengthening the laws and systems that safeguard those freedoms.
+Secured voter-approved constitutional protections by clarifying that voters must be United States citizens (SJR 37) Made it a second-degree felony to knowingly count invalid votes or reject valid votes (HB 5115) Required courts to notify the Attorney General before making last-minute changes to election procedures, giving the state an opportunity to respond (SB 509) Allowed the Secretary of State to withhold funding from voter registrars who fail to promptly remove ineligible voters from the voter rolls after receiving notice (SB 510) Required the Texas Department of Public Safety to notify the Secretary of State when a Texas driver’s license holder applies for an ID in another state (SB 1470) Protected against bias by prohibiting county elections administrators from holding positions appointed by elected officials (HB 677) Required hand-counted audits at randomly selected polling locations before election results are released, helping verify the accuracy of the results (SB 827) Closed a loophole by preventing candidates from filing for a place on the ballot with more than one political party (SB 901) Strengthened election security by requiring rigorous testing of electronic voting equipment, including accuracy checks and tamper detections (SB 2166) Required Texas to collect voter applicants information if their previous address was out-of-state, helping keep the voter rolls up to date (SB 1862) Barred people convicted of a first- or second-degree felony from serving as poll watchers (HB 493) Increased penalties for intentionally failing to provide enough ballots at polling places, helping protect voters’ access to the ballot (HB 1661) Allowed a county commissioners court to combine small, low-population precincts to help reduce costs (SB 985) Directed the Texas Secretary of State to improve how early voting and Election Day voting work together (SB 2753) Keeping the Momentum Texas has long been committed to protecting the constitutional rights of its citizens, and the Texas House is continuing that work by strengthening the laws and systems that safeguard those freedoms.
 Ahead of the 2027 legislative session, Speaker Burrows directed House committees to examine opportunities to strengthen constitutional protections and election integrity, improve election administration and transparency, streamline voter roll maintenance and ensure technology and staffing remain effective.
 The Texas House continues to look for ways to reinforce constitutional rights under state law, including the right to vote, ballot privacy and the right to keep and bear arms, while ensuring Texas’ elections system remains secure, transparent and accountable.
+JOIN OUR EMAIL LIST First Name Last Name Email Sign Up By providing my mobile number I consent to receive informational text messages from Dustin Burrows Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies.
+POL.
+ADV.
+PAID FOR BY DUSTIN BURROWS CAMPAIGN Mailing Address: Dustin Burrows Campaign P.O.
+Box 2569 | Lubbock, TX 79408 Privacy Policy Terms of Use Contact Donate

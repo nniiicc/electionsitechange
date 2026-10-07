@@ -1,7 +1,11 @@
 {
- "description": "10:30 am \u2013 2:00 pm: Madawaska, starting at the Madawaska Fire Station, 428 Main St, Madawaska, includes the Acadian Festival Parade",
+ "description": "10:30 am – 2:00 pm: Madawaska, starting at the Madawaska Fire Station, 428 Main St, Madawaska, includes the Acadian Festival Parade",
  "final_url": "https://bennettforgovernor.com/events/for-a-better-maine-walking-tour",
- "paid_for_by": null,
- "title": "For a Better Maine Walking Tour \u2014 Rick Bennett for Governor",
- "years_mentioned": []
+ "fingerprint": "2a94c70ae8cef32ad4a7fb0182cca92532dc4a83",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "For a Better Maine Walking Tour — Rick Bennett for Governor",
+ "years_mentioned": [
+  "2026"
+ ]
 }

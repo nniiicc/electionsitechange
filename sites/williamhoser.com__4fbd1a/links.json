@@ -1,6 +1,22 @@
 [
-"https://facebook.com/williamhoserforvermonthouse",
-"https://secure.actblue.com/donate/hoser-for-the-house",
-"https://williamhoser.com/",
-"https://williamhoser.com/cart"
+{
+"text": "0",
+"href": "https://www.williamhoser.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/hoser-for-the-house"
+},
+{
+"text": "Start",
+"href": "https://www.williamhoser.com/"
+},
+{
+"text": "William Hoser",
+"href": "https://www.williamhoser.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/williamhoserforvermonthouse"
+}
 ]

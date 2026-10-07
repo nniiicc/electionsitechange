@@ -1,3 +1,1 @@
-Rogers County | Tulsa County
-Zip Codes:
-74015, 74017, 74019, 74021, 74036, 74053, 74055, 74116, 74361
+Skip navigation menu Home Meet Randy Issues Map Events Get Involved Donate Home Meet Randy Issues Map Events Get Involved Donate Oklahoma Senate District 2 Rogers County | Tulsa County Zip Codes: 74015, 74017, 74019, 74021, 74036, 74053, 74055, 74116, 74361 District Map PDF 1233 Cedar St #81 Owasso, OK 74055 info@CowlingForOK.com PRIVACY POLICY Powered by RUN! website builder Paid for and Authorized by Cowling for SD2 2026 You need to enable JavaScript to run this app.

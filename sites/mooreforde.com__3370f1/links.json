@@ -1,5 +1,14 @@
 [
-"https://ivote.de.gov/VoterView",
-"https://links.impactive.io/t/qamfi2tx",
-"https://secure.actblue.com/donate/nfm2026"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nfm2026"
+},
+{
+"text": "Volunteer",
+"href": "https://links.impactive.io/t/qamfi2tx"
+},
+{
+"text": "here",
+"href": "https://ivote.de.gov/VoterView"
+}
 ]

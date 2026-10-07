@@ -1,7 +1,1 @@
-top of page
-Education & Licenses
-B.E.; Naval Architecture; State University of NY, Maritime College at Fort Schuyler (With Honors)
-M.S.; Naval Architecture and Marine Engineering; Massachusetts Institute of Technology
-O.E.; Ocean Engineer (a professional post-Master’s degree); Massachusetts Institute of Technology
-3rd Assistant Engineer of Steam and Motor Vessels of any horsepower, USCG license (expired)
-bottom of page
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos Education & Licenses B.E.; Naval Architecture; State University of NY, Maritime College at Fort Schuyler (With Honors) ​ M.S.; Naval Architecture and Marine Engineering; Massachusetts Institute of Technology O.E.; Ocean Engineer (a professional post-Master’s degree); Massachusetts Institute of Technology ​ 3rd Assistant Engineer of Steam and Motor Vessels of any horsepower, USCG license (expired) · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

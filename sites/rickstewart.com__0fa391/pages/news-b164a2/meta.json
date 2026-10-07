@@ -1,7 +1,9 @@
 {
  "description": "Stay up to date with Rick's latest thoughts, events and campaign news.",
  "final_url": "https://www.rickstewart.com/news/",
- "paid_for_by": "Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of",
+ "fingerprint": "1070be87f1de8cc669dd13bfd478478d18f3ef52",
+ "format": 3,
+ "paid_for_by": "Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwa",
  "title": "Rick Stewart - News",
  "years_mentioned": [
   "2022"

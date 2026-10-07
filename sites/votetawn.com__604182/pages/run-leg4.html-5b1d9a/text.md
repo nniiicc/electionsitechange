@@ -1,20 +1,7 @@
+Home Running for YOU All Legs Donate Home Running for YOU All Legs Donate Running for YOU!
 Tawn is running across Senate District 14 — listening to voters and fighting for conservative solutions.
-Leg 4: Whitmore Lake Rd → Ann Arbor
-Saturday, June 20th • 10:00 AM
-Starting at 7527 Whitmore Lake Rd
-(Calvary Baptist Church)
-6.8 miles
-Join us and help bring real solutions to Michigan families
-Saturday, June 20th at 10:00 AM
-Starting at 7527 Whitmore Lake Rd (Calvary Baptist Church), Whitmore Lake, MI
-to 1505 Dhu Varren Rd (Olson Park), Ann Arbor, MI
-Watch this page for route updates and exact meeting point.
-🚔
-Democrat-backed policies have weakened law enforcement and led to increased crime in communities across Michigan.
-🏠
-Families in District 14 are concerned about theft, break-ins, and declining neighborhood safety.
-👮
-We must back law enforcement instead of defunding them and restore accountability and order.
+Leg 4: Whitmore Lake Rd → Ann Arbor Saturday, June 20th • 10:00 AM Starting at 7527 Whitmore Lake Rd (Calvary Baptist Church) 6.8 miles Join us and help bring real solutions to Michigan families See the Route Donate to Fuel the Run Leg 4 Route Saturday, June 20th at 10:00 AM Starting at 7527 Whitmore Lake Rd (Calvary Baptist Church), Whitmore Lake, MI to 1505 Dhu Varren Rd (Olson Park), Ann Arbor, MI Watch this page for route updates and exact meeting point.
+Why We're Running This Leg Public Safety & Crime 🚔 Soft-on-Crime Policies Democrat-backed policies have weakened law enforcement and led to increased crime in communities across Michigan. 🏠 Rising Property Crime Families in District 14 are concerned about theft, break-ins, and declining neighborhood safety. 👮 Support Our Police We must back law enforcement instead of defunding them and restore accountability and order.
 Tawn will fight to support our police, strengthen penalties for repeat offenders, and restore law and order so Michigan families can feel safe again.
 Join us for Leg 4 on Saturday, June 20th at 10:00 AM and help shine a light on the real issues affecting Michigan families.
-Join the Discussion
+Join the Discussion Running for YOU • Vote Tawn Tawn Beliger — Republican for Michigan State Senate District 14 PAID FOR BY: TAWN BELIGER CTE, 8365 EARHART RD, SOUTH LYON, MI 48178 © # Vote Tawn ← Previous Leg Next Leg →

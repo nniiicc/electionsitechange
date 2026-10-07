@@ -1,14 +1,66 @@
 [
-"https://linkedin.com/in/danica-boyd-hartenfels",
-"https://votedanica.com/contact",
-"https://votedanica.com/es/contact",
-"https://votedanica.com/he/contact",
-"https://votedanica.com/pl/contact",
-"https://votedanica.com/ru",
-"https://votedanica.com/ru/contact",
-"https://votedanica.com/ru/events",
-"https://votedanica.com/ru/get-involved",
-"https://votedanica.com/ru/meet-danica",
-"https://votedanica.com/ru/news",
-"https://votedanica.com/zh/contact"
+{
+"text": "[image: Danica Hartenfels for State Representative]",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "[image: Danica Hartenfels for State Representative][image]",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "[image: English] English en",
+"href": "https://www.votedanica.com/contact"
+},
+{
+"text": "[image: Español] Español es",
+"href": "https://www.votedanica.com/es/contact"
+},
+{
+"text": "[image: polski] polski pl",
+"href": "https://www.votedanica.com/pl/contact"
+},
+{
+"text": "[image: русский] русский ru",
+"href": "https://www.votedanica.com/ru/contact"
+},
+{
+"text": "[image: עברית] עברית he",
+"href": "https://www.votedanica.com/he/contact"
+},
+{
+"text": "[image: 简体中文] 简体中文 zh",
+"href": "https://www.votedanica.com/zh/contact"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/danica-boyd-hartenfels/"
+},
+{
+"text": "[no text]",
+"href": "mailto:danica@votedanica.com"
+},
+{
+"text": "Дом",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "Знакомьтесь, Даника",
+"href": "https://www.votedanica.com/ru/meet-danica"
+},
+{
+"text": "Контакт",
+"href": "https://www.votedanica.com/ru/contact"
+},
+{
+"text": "Новости",
+"href": "https://www.votedanica.com/ru/news"
+},
+{
+"text": "Примите участие",
+"href": "https://www.votedanica.com/ru/get-involved"
+},
+{
+"text": "События",
+"href": "https://www.votedanica.com/ru/events"
+}
 ]

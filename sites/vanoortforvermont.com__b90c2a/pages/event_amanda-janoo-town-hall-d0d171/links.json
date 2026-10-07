@@ -1,14 +1,62 @@
 [
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261018T143000%2F20261018T160000&text=Amanda+Janoo+town+hall&details=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com",
-"https://janooforvt.solidarity.tech/rutland-county-town-hall",
-"https://maps.google.com/maps?f=q&hl=en&q=35+Marble+St+West+Rutland+VT+05777+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-18T14%3A30%3A00-04%3A00&enddt=2026-10-18T16%3A00%3A00-04%3A00&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&subject=Amanda+Janoo+town+hall&body=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-18T14%3A30%3A00-04%3A00&enddt=2026-10-18T16%3A00%3A00-04%3A00&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&subject=Amanda+Janoo+town+hall&body=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21",
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/event/general-election",
-"https://vanoortforvermont.com/event/postcard-party",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/updates"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=35+Marble+St+West+Rutland+VT+05777+United+States"
+},
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "General election »",
+"href": "https://vanoortforvermont.com/event/general-election/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261018T143000%2F20261018T160000&text=Amanda+Janoo+town+hall&details=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fvanoortforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T14%3A30%3A00-04%3A00&enddt=%23T16%3A00%3A00-04%3A00&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&subject=Amanda+Janoo+town+hall&body=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T14%3A30%3A00-04%3A00&enddt=%23T16%3A00%3A00-04%3A00&location=West+Rutland+Town+Hall%2C+35+Marble+St%2C+West+Rutland%2C+VT%2C+05777%2C+United+States&subject=Amanda+Janoo+town+hall&body=I%27ll+be+attending+Amanda+Janoo%27s+Rutland+County+town+hall+event+with+signs+and+supporters%2C+please+join+me%21"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "https://janooforvt.solidarity.tech/rutland-county-town-hall",
+"href": "https://janooforvt.solidarity.tech/rutland-county-town-hall"
+},
+{
+"text": "iCalendar",
+"href": "webcal://vanoortforvermont.com/event/amanda-janoo-town-hall/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "« Postcard party",
+"href": "https://vanoortforvermont.com/event/postcard-party/"
+}
 ]

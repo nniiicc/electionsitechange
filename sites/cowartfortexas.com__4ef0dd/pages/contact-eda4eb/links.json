@@ -1,12 +1,58 @@
 [
-"https://cowartfortexas.com/",
-"https://cowartfortexas.com/about",
-"https://cowartfortexas.com/contact",
-"https://cowartfortexas.com/donate",
-"https://cowartfortexas.com/events",
-"https://cowartfortexas.com/issues",
-"https://cowartfortexas.com/media",
-"https://facebook.com/CowartforTexas",
-"https://instagram.com/cowartfortexas",
-"https://x.com/JessiCowartTX"
+{
+"text": "About",
+"href": "https://www.cowartfortexas.com/about/"
+},
+{
+"text": "About Us",
+"href": "https://www.cowartfortexas.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.cowartfortexas.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.cowartfortexas.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://www.cowartfortexas.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CowartforTexas/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/CowartforTexas/"
+},
+{
+"text": "Home",
+"href": "https://www.cowartfortexas.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cowartfortexas/"
+},
+{
+"text": "Issues",
+"href": "https://www.cowartfortexas.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.cowartfortexas.com/media/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JessiCowartTX"
+},
+{
+"text": "[image]",
+"href": "https://www.cowartfortexas.com"
+},
+{
+"text": "info@cowartfortexas.com",
+"href": "mailto:info@cowartfortexas.com"
+}
 ]

@@ -1,13 +1,86 @@
 [
-"https://secure.actblue.com/donate/trek-forward",
-"https://trekforward.org/about.html",
-"https://trekforward.org/donate.html",
-"https://trekforward.org/events.html",
-"https://trekforward.org/index.html",
-"https://trekforward.org/issues.html",
-"https://trekforward.org/slater.html",
-"https://trekforward.org/volunteer.html",
-"https://trekforward.org/voting.html",
-"https://trousdalecountytnelections.org/sample-ballots",
-"https://votesumnertn.org/uploads/files/194086cdda918697f0393d978f6e728d031b6d56.pdf"
+{
+"text": "About",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Church & State",
+"href": "https://trekforward.org/issues.html#church-state"
+},
+{
+"text": "Donate",
+"href": "https://trekforward.org/donate.html"
+},
+{
+"text": "Donate to Trek Forward",
+"href": "https://secure.actblue.com/donate/trek-forward"
+},
+{
+"text": "Donate — Trek Forward",
+"href": "https://secure.actblue.com/donate/trek-forward"
+},
+{
+"text": "Events",
+"href": "https://trekforward.org/events.html"
+},
+{
+"text": "Gun Responsibility",
+"href": "https://trekforward.org/issues.html#guns"
+},
+{
+"text": "Home",
+"href": "https://trekforward.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://trekforward.org/issues.html"
+},
+{
+"text": "Learn More",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Meet Phil",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Personal Freedoms",
+"href": "https://trekforward.org/issues.html#freedoms"
+},
+{
+"text": "Read Phil's Full Platform",
+"href": "https://trekforward.org/issues.html"
+},
+{
+"text": "School Vouchers",
+"href": "https://trekforward.org/issues.html#vouchers"
+},
+{
+"text": "Slater's Record",
+"href": "https://trekforward.org/slater.html"
+},
+{
+"text": "Sumner County Sample Ballot",
+"href": "https://www.votesumnertn.org/uploads/files/194086cdda918697f0393d978f6e728d031b6d56.pdf"
+},
+{
+"text": "Trousdale County Sample Ballot",
+"href": "https://trousdalecountytnelections.org/sample-ballots"
+},
+{
+"text": "Volunteer",
+"href": "https://trekforward.org/volunteer.html"
+},
+{
+"text": "Voter ID",
+"href": "https://trekforward.org/issues.html#voter-id"
+},
+{
+"text": "Voting",
+"href": "https://trekforward.org/voting.html"
+},
+{
+"text": "Welfare Reform",
+"href": "https://trekforward.org/issues.html#welfare"
+}
 ]

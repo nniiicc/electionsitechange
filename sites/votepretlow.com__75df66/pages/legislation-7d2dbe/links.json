@@ -1,348 +1,1390 @@
 [
-"http://nyassembly.gov/leg?bn=A00135",
-"http://nyassembly.gov/leg?bn=A00138",
-"http://nyassembly.gov/leg?bn=A00140",
-"http://nyassembly.gov/leg?bn=A00144",
-"http://nyassembly.gov/leg?bn=A00182",
-"http://nyassembly.gov/leg?bn=A00318",
-"http://nyassembly.gov/leg?bn=A00322",
-"http://nyassembly.gov/leg?bn=A00324",
-"http://nyassembly.gov/leg?bn=A00347",
-"http://nyassembly.gov/leg?bn=A00348",
-"http://nyassembly.gov/leg?bn=A00359",
-"http://nyassembly.gov/leg?bn=A00363",
-"http://nyassembly.gov/leg?bn=A00364",
-"http://nyassembly.gov/leg?bn=A00366",
-"http://nyassembly.gov/leg?bn=A00368",
-"http://nyassembly.gov/leg?bn=A00369",
-"http://nyassembly.gov/leg?bn=A00370",
-"http://nyassembly.gov/leg?bn=A00435",
-"http://nyassembly.gov/leg?bn=A00440",
-"http://nyassembly.gov/leg?bn=A00506",
-"http://nyassembly.gov/leg?bn=A00717",
-"http://nyassembly.gov/leg?bn=A00719",
-"http://nyassembly.gov/leg?bn=A00783",
-"http://nyassembly.gov/leg?bn=A00784",
-"http://nyassembly.gov/leg?bn=A00786",
-"http://nyassembly.gov/leg?bn=A00816",
-"http://nyassembly.gov/leg?bn=A00837",
-"http://nyassembly.gov/leg?bn=A00838",
-"http://nyassembly.gov/leg?bn=A00842",
-"http://nyassembly.gov/leg?bn=A00862",
-"http://nyassembly.gov/leg?bn=A00886",
-"http://nyassembly.gov/leg?bn=A00887",
-"http://nyassembly.gov/leg?bn=A00891",
-"http://nyassembly.gov/leg?bn=A00892",
-"http://nyassembly.gov/leg?bn=A00895",
-"http://nyassembly.gov/leg?bn=A00910",
-"http://nyassembly.gov/leg?bn=A00917",
-"http://nyassembly.gov/leg?bn=A00918",
-"http://nyassembly.gov/leg?bn=A00921",
-"http://nyassembly.gov/leg?bn=A00922",
-"http://nyassembly.gov/leg?bn=A00930",
-"http://nyassembly.gov/leg?bn=A00931",
-"http://nyassembly.gov/leg?bn=A00932",
-"http://nyassembly.gov/leg?bn=A00959",
-"http://nyassembly.gov/leg?bn=A00961",
-"http://nyassembly.gov/leg?bn=A01122",
-"http://nyassembly.gov/leg?bn=A01223",
-"http://nyassembly.gov/leg?bn=A01286",
-"http://nyassembly.gov/leg?bn=A01287",
-"http://nyassembly.gov/leg?bn=A01288",
-"http://nyassembly.gov/leg?bn=A01289",
-"http://nyassembly.gov/leg?bn=A01305",
-"http://nyassembly.gov/leg?bn=A01309",
-"http://nyassembly.gov/leg?bn=A01333",
-"http://nyassembly.gov/leg?bn=A01363",
-"http://nyassembly.gov/leg?bn=A01364",
-"http://nyassembly.gov/leg?bn=A01380",
-"http://nyassembly.gov/leg?bn=A01413",
-"http://nyassembly.gov/leg?bn=A01415",
-"http://nyassembly.gov/leg?bn=A01420",
-"http://nyassembly.gov/leg?bn=A01428",
-"http://nyassembly.gov/leg?bn=A01430",
-"http://nyassembly.gov/leg?bn=A01442",
-"http://nyassembly.gov/leg?bn=A01443",
-"http://nyassembly.gov/leg?bn=A01448",
-"http://nyassembly.gov/leg?bn=A01449",
-"http://nyassembly.gov/leg?bn=A01450",
-"http://nyassembly.gov/leg?bn=A01471",
-"http://nyassembly.gov/leg?bn=A01473",
-"http://nyassembly.gov/leg?bn=A01490",
-"http://nyassembly.gov/leg?bn=A01505",
-"http://nyassembly.gov/leg?bn=A01517",
-"http://nyassembly.gov/leg?bn=A01540",
-"http://nyassembly.gov/leg?bn=A01545",
-"http://nyassembly.gov/leg?bn=A01546",
-"http://nyassembly.gov/leg?bn=A01562",
-"http://nyassembly.gov/leg?bn=A01563",
-"http://nyassembly.gov/leg?bn=A01565",
-"http://nyassembly.gov/leg?bn=A01588",
-"http://nyassembly.gov/leg?bn=A01589",
-"http://nyassembly.gov/leg?bn=A01590",
-"http://nyassembly.gov/leg?bn=A01591",
-"http://nyassembly.gov/leg?bn=A01592",
-"http://nyassembly.gov/leg?bn=A01593",
-"http://nyassembly.gov/leg?bn=A01595",
-"http://nyassembly.gov/leg?bn=A01602",
-"http://nyassembly.gov/leg?bn=A01607",
-"http://nyassembly.gov/leg?bn=A01608",
-"http://nyassembly.gov/leg?bn=A01609",
-"http://nyassembly.gov/leg?bn=A01614",
-"http://nyassembly.gov/leg?bn=A01616",
-"http://nyassembly.gov/leg?bn=A01618",
-"http://nyassembly.gov/leg?bn=A01619",
-"http://nyassembly.gov/leg?bn=A01620",
-"http://nyassembly.gov/leg?bn=A01632",
-"http://nyassembly.gov/leg?bn=A01633",
-"http://nyassembly.gov/leg?bn=A01638",
-"http://nyassembly.gov/leg?bn=A01643",
-"http://nyassembly.gov/leg?bn=A01645",
-"http://nyassembly.gov/leg?bn=A01650",
-"http://nyassembly.gov/leg?bn=A01687",
-"http://nyassembly.gov/leg?bn=A01688",
-"http://nyassembly.gov/leg?bn=A01698",
-"http://nyassembly.gov/leg?bn=A01702",
-"http://nyassembly.gov/leg?bn=A01708",
-"http://nyassembly.gov/leg?bn=A01711",
-"http://nyassembly.gov/leg?bn=A01736",
-"http://nyassembly.gov/leg?bn=A01742",
-"http://nyassembly.gov/leg?bn=A01743",
-"http://nyassembly.gov/leg?bn=A01744",
-"http://nyassembly.gov/leg?bn=A01747",
-"http://nyassembly.gov/leg?bn=A01767",
-"http://nyassembly.gov/leg?bn=A01768",
-"http://nyassembly.gov/leg?bn=A01781",
-"http://nyassembly.gov/leg?bn=A01783",
-"http://nyassembly.gov/leg?bn=A01866",
-"http://nyassembly.gov/leg?bn=A01880",
-"http://nyassembly.gov/leg?bn=A01881",
-"http://nyassembly.gov/leg?bn=A01900",
-"http://nyassembly.gov/leg?bn=A01904",
-"http://nyassembly.gov/leg?bn=A01908",
-"http://nyassembly.gov/leg?bn=A01919",
-"http://nyassembly.gov/leg?bn=A01920",
-"http://nyassembly.gov/leg?bn=A01922",
-"http://nyassembly.gov/leg?bn=A01930",
-"http://nyassembly.gov/leg?bn=A01942",
-"http://nyassembly.gov/leg?bn=A01949",
-"http://nyassembly.gov/leg?bn=A01960",
-"http://nyassembly.gov/leg?bn=A01961",
-"http://nyassembly.gov/leg?bn=A01965",
-"http://nyassembly.gov/leg?bn=A01966",
-"http://nyassembly.gov/leg?bn=A01967",
-"http://nyassembly.gov/leg?bn=A01970",
-"http://nyassembly.gov/leg?bn=A01973",
-"http://nyassembly.gov/leg?bn=A01989",
-"http://nyassembly.gov/leg?bn=A01996",
-"http://nyassembly.gov/leg?bn=A01997",
-"http://nyassembly.gov/leg?bn=A02000",
-"http://nyassembly.gov/leg?bn=A02030",
-"http://nyassembly.gov/leg?bn=A02036",
-"http://nyassembly.gov/leg?bn=A02038",
-"http://nyassembly.gov/leg?bn=A02039",
-"http://nyassembly.gov/leg?bn=A02040",
-"http://nyassembly.gov/leg?bn=A02041",
-"http://nyassembly.gov/leg?bn=A02042",
-"http://nyassembly.gov/leg?bn=A02046",
-"http://nyassembly.gov/leg?bn=A02047",
-"http://nyassembly.gov/leg?bn=A02074",
-"http://nyassembly.gov/leg?bn=A02077",
-"http://nyassembly.gov/leg?bn=A02087",
-"http://nyassembly.gov/leg?bn=A02092",
-"http://nyassembly.gov/leg?bn=A02093",
-"http://nyassembly.gov/leg?bn=A02118",
-"http://nyassembly.gov/leg?bn=A02132",
-"http://nyassembly.gov/leg?bn=A02138",
-"http://nyassembly.gov/leg?bn=A02142",
-"http://nyassembly.gov/leg?bn=A02145",
-"http://nyassembly.gov/leg?bn=A02162",
-"http://nyassembly.gov/leg?bn=A02163",
-"http://nyassembly.gov/leg?bn=A02164",
-"http://nyassembly.gov/leg?bn=A02165",
-"http://nyassembly.gov/leg?bn=A02167",
-"http://nyassembly.gov/leg?bn=A02168",
-"http://nyassembly.gov/leg?bn=A02169",
-"http://nyassembly.gov/leg?bn=A02194",
-"http://nyassembly.gov/leg?bn=A02195",
-"http://nyassembly.gov/leg?bn=A02206",
-"http://nyassembly.gov/leg?bn=A02213",
-"http://nyassembly.gov/leg?bn=A02218",
-"http://nyassembly.gov/leg?bn=A02219",
-"http://nyassembly.gov/leg?bn=A02220",
-"http://nyassembly.gov/leg?bn=A02226",
-"http://nyassembly.gov/leg?bn=A02229",
-"http://nyassembly.gov/leg?bn=A02240",
-"http://nyassembly.gov/leg?bn=A02241",
-"http://nyassembly.gov/leg?bn=A02246",
-"http://nyassembly.gov/leg?bn=A02259",
-"http://nyassembly.gov/leg?bn=A02286",
-"http://nyassembly.gov/leg?bn=A02310",
-"http://nyassembly.gov/leg?bn=A02313",
-"http://nyassembly.gov/leg?bn=A02314",
-"http://nyassembly.gov/leg?bn=A02317",
-"http://nyassembly.gov/leg?bn=A02322",
-"http://nyassembly.gov/leg?bn=A02367",
-"http://nyassembly.gov/leg?bn=A02453",
-"http://nyassembly.gov/leg?bn=A02455",
-"http://nyassembly.gov/leg?bn=A02510",
-"http://nyassembly.gov/leg?bn=A02514",
-"http://nyassembly.gov/leg?bn=A02526",
-"http://nyassembly.gov/leg?bn=A02531",
-"http://nyassembly.gov/leg?bn=A02537",
-"http://nyassembly.gov/leg?bn=A02545",
-"http://nyassembly.gov/leg?bn=A02559",
-"http://nyassembly.gov/leg?bn=A02570",
-"http://nyassembly.gov/leg?bn=A02571",
-"http://nyassembly.gov/leg?bn=A02586",
-"http://nyassembly.gov/leg?bn=A02598",
-"http://nyassembly.gov/leg?bn=A02599",
-"http://nyassembly.gov/leg?bn=A02619",
-"http://nyassembly.gov/leg?bn=A02620",
-"http://nyassembly.gov/leg?bn=A02634",
-"http://nyassembly.gov/leg?bn=A02637",
-"http://nyassembly.gov/leg?bn=A02648",
-"http://nyassembly.gov/leg?bn=A02653",
-"http://nyassembly.gov/leg?bn=A02654",
-"http://nyassembly.gov/leg?bn=A02657",
-"http://nyassembly.gov/leg?bn=A02680",
-"http://nyassembly.gov/leg?bn=A02684",
-"http://nyassembly.gov/leg?bn=A02685",
-"http://nyassembly.gov/leg?bn=A02686",
-"http://nyassembly.gov/leg?bn=A02687",
-"http://nyassembly.gov/leg?bn=A02689",
-"http://nyassembly.gov/leg?bn=A02690",
-"http://nyassembly.gov/leg?bn=A02692",
-"http://nyassembly.gov/leg?bn=A02697",
-"http://nyassembly.gov/leg?bn=A02705",
-"http://nyassembly.gov/leg?bn=A02713",
-"http://nyassembly.gov/leg?bn=A02723",
-"http://nyassembly.gov/leg?bn=A02771",
-"http://nyassembly.gov/leg?bn=A02775",
-"http://nyassembly.gov/leg?bn=A02792",
-"http://nyassembly.gov/leg?bn=A02793",
-"http://nyassembly.gov/leg?bn=A02801",
-"http://nyassembly.gov/leg?bn=A02802",
-"http://nyassembly.gov/leg?bn=A02804",
-"http://nyassembly.gov/leg?bn=A02842",
-"http://nyassembly.gov/leg?bn=A02868",
-"http://nyassembly.gov/leg?bn=A02871",
-"http://nyassembly.gov/leg?bn=A02874",
-"http://nyassembly.gov/leg?bn=A02876",
-"http://nyassembly.gov/leg?bn=A02877",
-"http://nyassembly.gov/leg?bn=A02889",
-"http://nyassembly.gov/leg?bn=A02892",
-"http://nyassembly.gov/leg?bn=A02893",
-"http://nyassembly.gov/leg?bn=A02898",
-"http://nyassembly.gov/leg?bn=A02900",
-"http://nyassembly.gov/leg?bn=A02915",
-"http://nyassembly.gov/leg?bn=A02916",
-"http://nyassembly.gov/leg?bn=A02917",
-"http://nyassembly.gov/leg?bn=A02918",
-"http://nyassembly.gov/leg?bn=A02932",
-"http://nyassembly.gov/leg?bn=A02965",
-"http://nyassembly.gov/leg?bn=A02990",
-"http://nyassembly.gov/leg?bn=A03228",
-"http://nyassembly.gov/leg?bn=A03250",
-"http://nyassembly.gov/leg?bn=A03376",
-"http://nyassembly.gov/leg?bn=A03536",
-"http://nyassembly.gov/leg?bn=A03586",
-"http://nyassembly.gov/leg?bn=A03636",
-"http://nyassembly.gov/leg?bn=A03771",
-"http://nyassembly.gov/leg?bn=A03941",
-"http://nyassembly.gov/leg?bn=A04036",
-"http://nyassembly.gov/leg?bn=A04073",
-"http://nyassembly.gov/leg?bn=A04401",
-"http://nyassembly.gov/leg?bn=A04409",
-"http://nyassembly.gov/leg?bn=A04717",
-"http://nyassembly.gov/leg?bn=A04925",
-"http://nyassembly.gov/leg?bn=A04956",
-"http://nyassembly.gov/leg?bn=A05070",
-"http://nyassembly.gov/leg?bn=A05098",
-"http://nyassembly.gov/leg?bn=A05175",
-"http://nyassembly.gov/leg?bn=A05183",
-"http://nyassembly.gov/leg?bn=A05387",
-"http://nyassembly.gov/leg?bn=A05572",
-"http://nyassembly.gov/leg?bn=A05611",
-"http://nyassembly.gov/leg?bn=A05656",
-"http://nyassembly.gov/leg?bn=A05746",
-"http://nyassembly.gov/leg?bn=A05830",
-"http://nyassembly.gov/leg?bn=A05937",
-"http://nyassembly.gov/leg?bn=A06089",
-"http://nyassembly.gov/leg?bn=A06124",
-"http://nyassembly.gov/leg?bn=A06218",
-"http://nyassembly.gov/leg?bn=A06221",
-"http://nyassembly.gov/leg?bn=A06246",
-"http://nyassembly.gov/leg?bn=A06333",
-"http://nyassembly.gov/leg?bn=A06345",
-"http://nyassembly.gov/leg?bn=A06402",
-"http://nyassembly.gov/leg?bn=A06569",
-"http://nyassembly.gov/leg?bn=A06772",
-"http://nyassembly.gov/leg?bn=A06894",
-"http://nyassembly.gov/leg?bn=A06946",
-"http://nyassembly.gov/leg?bn=A06951",
-"http://nyassembly.gov/leg?bn=A07170",
-"http://nyassembly.gov/leg?bn=A07187",
-"http://nyassembly.gov/leg?bn=A07230",
-"http://nyassembly.gov/leg?bn=A07289",
-"http://nyassembly.gov/leg?bn=A07441",
-"http://nyassembly.gov/leg?bn=A07457",
-"http://nyassembly.gov/leg?bn=A07498",
-"http://nyassembly.gov/leg?bn=A07526",
-"http://nyassembly.gov/leg?bn=A07609",
-"http://nyassembly.gov/leg?bn=A07731",
-"http://nyassembly.gov/leg?bn=A07851",
-"http://nyassembly.gov/leg?bn=A07928",
-"http://nyassembly.gov/leg?bn=A07938",
-"http://nyassembly.gov/leg?bn=A07981",
-"http://nyassembly.gov/leg?bn=A08060",
-"http://nyassembly.gov/leg?bn=A08216",
-"http://nyassembly.gov/leg?bn=A08244",
-"http://nyassembly.gov/leg?bn=A08288",
-"http://nyassembly.gov/leg?bn=A08296",
-"http://nyassembly.gov/leg?bn=A08332",
-"http://nyassembly.gov/leg?bn=A08396",
-"http://nyassembly.gov/leg?bn=A08620",
-"http://nyassembly.gov/leg?bn=A08623",
-"http://nyassembly.gov/leg?bn=A08629",
-"http://nyassembly.gov/leg?bn=A08631",
-"http://nyassembly.gov/leg?bn=A08640",
-"http://nyassembly.gov/leg?bn=A08659",
-"http://nyassembly.gov/leg?bn=A09049",
-"http://nyassembly.gov/leg?bn=A09125",
-"http://nyassembly.gov/leg?bn=A09137",
-"http://nyassembly.gov/leg?bn=A09181",
-"http://nyassembly.gov/leg?bn=A09206",
-"http://nyassembly.gov/leg?bn=A09213",
-"http://nyassembly.gov/leg?bn=A09257",
-"http://nyassembly.gov/leg?bn=A09270",
-"http://nyassembly.gov/leg?bn=A09350",
-"http://nyassembly.gov/leg?bn=A09478",
-"http://nyassembly.gov/leg?bn=A09641",
-"http://nyassembly.gov/leg?bn=A09806",
-"http://nyassembly.gov/leg?bn=A09821",
-"http://nyassembly.gov/leg?bn=A09916",
-"http://nyassembly.gov/leg?bn=A09994",
-"http://nyassembly.gov/leg?bn=A10048",
-"http://nyassembly.gov/leg?bn=A10215",
-"http://nyassembly.gov/leg?bn=A10225",
-"http://nyassembly.gov/leg?bn=A10249",
-"http://nyassembly.gov/leg?bn=A10400",
-"http://nyassembly.gov/leg?bn=A10429",
-"http://nyassembly.gov/leg?bn=A10441",
-"http://nyassembly.gov/leg?bn=A10473",
-"http://nyassembly.gov/leg?bn=A10569",
-"http://nyassembly.gov/leg?bn=A10600",
-"http://nyassembly.gov/leg?bn=A10679",
-"http://nyassembly.gov/leg?bn=A10736",
-"https://facebook.com/profile.php?id=1339457353",
-"https://instagram.com/jgarypretlow",
-"https://secure.actblue.com/donate/james-gary-pretlow-1",
-"https://twitter.com/JGPretlow",
-"https://votepretlow.com/",
-"https://votepretlow.com/about",
-"https://votepretlow.com/contact",
-"https://votepretlow.com/contribute",
-"https://votepretlow.com/legislation",
-"https://votepretlow.com/news"
+{
+"text": "A00135",
+"href": "http://nyassembly.gov/leg/?bn=A00135"
+},
+{
+"text": "A00138",
+"href": "http://nyassembly.gov/leg/?bn=A00138"
+},
+{
+"text": "A00140",
+"href": "http://nyassembly.gov/leg/?bn=A00140"
+},
+{
+"text": "A00144",
+"href": "http://nyassembly.gov/leg/?bn=A00144"
+},
+{
+"text": "A00182",
+"href": "http://nyassembly.gov/leg/?bn=A00182"
+},
+{
+"text": "A00318",
+"href": "http://nyassembly.gov/leg/?bn=A00318"
+},
+{
+"text": "A00322",
+"href": "http://nyassembly.gov/leg/?bn=A00322"
+},
+{
+"text": "A00324",
+"href": "http://nyassembly.gov/leg/?bn=A00324"
+},
+{
+"text": "A00347",
+"href": "http://nyassembly.gov/leg/?bn=A00347"
+},
+{
+"text": "A00348",
+"href": "http://nyassembly.gov/leg/?bn=A00348"
+},
+{
+"text": "A00359",
+"href": "http://nyassembly.gov/leg/?bn=A00359"
+},
+{
+"text": "A00363",
+"href": "http://nyassembly.gov/leg/?bn=A00363"
+},
+{
+"text": "A00364",
+"href": "http://nyassembly.gov/leg/?bn=A00364"
+},
+{
+"text": "A00366",
+"href": "http://nyassembly.gov/leg/?bn=A00366"
+},
+{
+"text": "A00368",
+"href": "http://nyassembly.gov/leg/?bn=A00368"
+},
+{
+"text": "A00369",
+"href": "http://nyassembly.gov/leg/?bn=A00369"
+},
+{
+"text": "A00370",
+"href": "http://nyassembly.gov/leg/?bn=A00370"
+},
+{
+"text": "A00435",
+"href": "http://nyassembly.gov/leg/?bn=A00435"
+},
+{
+"text": "A00440",
+"href": "http://nyassembly.gov/leg/?bn=A00440"
+},
+{
+"text": "A00506",
+"href": "http://nyassembly.gov/leg/?bn=A00506"
+},
+{
+"text": "A00717",
+"href": "http://nyassembly.gov/leg/?bn=A00717"
+},
+{
+"text": "A00719",
+"href": "http://nyassembly.gov/leg/?bn=A00719"
+},
+{
+"text": "A00783",
+"href": "http://nyassembly.gov/leg/?bn=A00783"
+},
+{
+"text": "A00784",
+"href": "http://nyassembly.gov/leg/?bn=A00784"
+},
+{
+"text": "A00786",
+"href": "http://nyassembly.gov/leg/?bn=A00786"
+},
+{
+"text": "A00816",
+"href": "http://nyassembly.gov/leg/?bn=A00816"
+},
+{
+"text": "A00837",
+"href": "http://nyassembly.gov/leg/?bn=A00837"
+},
+{
+"text": "A00838",
+"href": "http://nyassembly.gov/leg/?bn=A00838"
+},
+{
+"text": "A00842",
+"href": "http://nyassembly.gov/leg/?bn=A00842"
+},
+{
+"text": "A00862",
+"href": "http://nyassembly.gov/leg/?bn=A00862"
+},
+{
+"text": "A00886",
+"href": "http://nyassembly.gov/leg/?bn=A00886"
+},
+{
+"text": "A00887",
+"href": "http://nyassembly.gov/leg/?bn=A00887"
+},
+{
+"text": "A00891",
+"href": "http://nyassembly.gov/leg/?bn=A00891"
+},
+{
+"text": "A00892",
+"href": "http://nyassembly.gov/leg/?bn=A00892"
+},
+{
+"text": "A00895",
+"href": "http://nyassembly.gov/leg/?bn=A00895"
+},
+{
+"text": "A00910",
+"href": "http://nyassembly.gov/leg/?bn=A00910"
+},
+{
+"text": "A00917",
+"href": "http://nyassembly.gov/leg/?bn=A00917"
+},
+{
+"text": "A00918",
+"href": "http://nyassembly.gov/leg/?bn=A00918"
+},
+{
+"text": "A00921",
+"href": "http://nyassembly.gov/leg/?bn=A00921"
+},
+{
+"text": "A00922",
+"href": "http://nyassembly.gov/leg/?bn=A00922"
+},
+{
+"text": "A00930",
+"href": "http://nyassembly.gov/leg/?bn=A00930"
+},
+{
+"text": "A00931",
+"href": "http://nyassembly.gov/leg/?bn=A00931"
+},
+{
+"text": "A00932",
+"href": "http://nyassembly.gov/leg/?bn=A00932"
+},
+{
+"text": "A00959",
+"href": "http://nyassembly.gov/leg/?bn=A00959"
+},
+{
+"text": "A00961",
+"href": "http://nyassembly.gov/leg/?bn=A00961"
+},
+{
+"text": "A01122",
+"href": "http://nyassembly.gov/leg/?bn=A01122"
+},
+{
+"text": "A01223",
+"href": "http://nyassembly.gov/leg/?bn=A01223"
+},
+{
+"text": "A01286",
+"href": "http://nyassembly.gov/leg/?bn=A01286"
+},
+{
+"text": "A01287",
+"href": "http://nyassembly.gov/leg/?bn=A01287"
+},
+{
+"text": "A01288",
+"href": "http://nyassembly.gov/leg/?bn=A01288"
+},
+{
+"text": "A01289",
+"href": "http://nyassembly.gov/leg/?bn=A01289"
+},
+{
+"text": "A01305",
+"href": "http://nyassembly.gov/leg/?bn=A01305"
+},
+{
+"text": "A01309",
+"href": "http://nyassembly.gov/leg/?bn=A01309"
+},
+{
+"text": "A01333",
+"href": "http://nyassembly.gov/leg/?bn=A01333"
+},
+{
+"text": "A01363",
+"href": "http://nyassembly.gov/leg/?bn=A01363"
+},
+{
+"text": "A01364",
+"href": "http://nyassembly.gov/leg/?bn=A01364"
+},
+{
+"text": "A01380",
+"href": "http://nyassembly.gov/leg/?bn=A01380"
+},
+{
+"text": "A01413",
+"href": "http://nyassembly.gov/leg/?bn=A01413"
+},
+{
+"text": "A01415",
+"href": "http://nyassembly.gov/leg/?bn=A01415"
+},
+{
+"text": "A01420",
+"href": "http://nyassembly.gov/leg/?bn=A01420"
+},
+{
+"text": "A01428",
+"href": "http://nyassembly.gov/leg/?bn=A01428"
+},
+{
+"text": "A01430",
+"href": "http://nyassembly.gov/leg/?bn=A01430"
+},
+{
+"text": "A01442",
+"href": "http://nyassembly.gov/leg/?bn=A01442"
+},
+{
+"text": "A01443",
+"href": "http://nyassembly.gov/leg/?bn=A01443"
+},
+{
+"text": "A01448",
+"href": "http://nyassembly.gov/leg/?bn=A01448"
+},
+{
+"text": "A01449",
+"href": "http://nyassembly.gov/leg/?bn=A01449"
+},
+{
+"text": "A01450",
+"href": "http://nyassembly.gov/leg/?bn=A01450"
+},
+{
+"text": "A01471",
+"href": "http://nyassembly.gov/leg/?bn=A01471"
+},
+{
+"text": "A01473",
+"href": "http://nyassembly.gov/leg/?bn=A01473"
+},
+{
+"text": "A01490",
+"href": "http://nyassembly.gov/leg/?bn=A01490"
+},
+{
+"text": "A01505",
+"href": "http://nyassembly.gov/leg/?bn=A01505"
+},
+{
+"text": "A01517",
+"href": "http://nyassembly.gov/leg/?bn=A01517"
+},
+{
+"text": "A01540",
+"href": "http://nyassembly.gov/leg/?bn=A01540"
+},
+{
+"text": "A01545",
+"href": "http://nyassembly.gov/leg/?bn=A01545"
+},
+{
+"text": "A01546",
+"href": "http://nyassembly.gov/leg/?bn=A01546"
+},
+{
+"text": "A01562",
+"href": "http://nyassembly.gov/leg/?bn=A01562"
+},
+{
+"text": "A01563",
+"href": "http://nyassembly.gov/leg/?bn=A01563"
+},
+{
+"text": "A01565",
+"href": "http://nyassembly.gov/leg/?bn=A01565"
+},
+{
+"text": "A01588",
+"href": "http://nyassembly.gov/leg/?bn=A01588"
+},
+{
+"text": "A01589",
+"href": "http://nyassembly.gov/leg/?bn=A01589"
+},
+{
+"text": "A01590",
+"href": "http://nyassembly.gov/leg/?bn=A01590"
+},
+{
+"text": "A01591",
+"href": "http://nyassembly.gov/leg/?bn=A01591"
+},
+{
+"text": "A01592",
+"href": "http://nyassembly.gov/leg/?bn=A01592"
+},
+{
+"text": "A01593",
+"href": "http://nyassembly.gov/leg/?bn=A01593"
+},
+{
+"text": "A01595",
+"href": "http://nyassembly.gov/leg/?bn=A01595"
+},
+{
+"text": "A01602",
+"href": "http://nyassembly.gov/leg/?bn=A01602"
+},
+{
+"text": "A01607",
+"href": "http://nyassembly.gov/leg/?bn=A01607"
+},
+{
+"text": "A01608",
+"href": "http://nyassembly.gov/leg/?bn=A01608"
+},
+{
+"text": "A01609",
+"href": "http://nyassembly.gov/leg/?bn=A01609"
+},
+{
+"text": "A01614",
+"href": "http://nyassembly.gov/leg/?bn=A01614"
+},
+{
+"text": "A01616",
+"href": "http://nyassembly.gov/leg/?bn=A01616"
+},
+{
+"text": "A01618",
+"href": "http://nyassembly.gov/leg/?bn=A01618"
+},
+{
+"text": "A01619",
+"href": "http://nyassembly.gov/leg/?bn=A01619"
+},
+{
+"text": "A01620",
+"href": "http://nyassembly.gov/leg/?bn=A01620"
+},
+{
+"text": "A01632",
+"href": "http://nyassembly.gov/leg/?bn=A01632"
+},
+{
+"text": "A01633",
+"href": "http://nyassembly.gov/leg/?bn=A01633"
+},
+{
+"text": "A01638",
+"href": "http://nyassembly.gov/leg/?bn=A01638"
+},
+{
+"text": "A01643",
+"href": "http://nyassembly.gov/leg/?bn=A01643"
+},
+{
+"text": "A01645",
+"href": "http://nyassembly.gov/leg/?bn=A01645"
+},
+{
+"text": "A01650",
+"href": "http://nyassembly.gov/leg/?bn=A01650"
+},
+{
+"text": "A01687",
+"href": "http://nyassembly.gov/leg/?bn=A01687"
+},
+{
+"text": "A01688",
+"href": "http://nyassembly.gov/leg/?bn=A01688"
+},
+{
+"text": "A01698",
+"href": "http://nyassembly.gov/leg/?bn=A01698"
+},
+{
+"text": "A01702",
+"href": "http://nyassembly.gov/leg/?bn=A01702"
+},
+{
+"text": "A01708",
+"href": "http://nyassembly.gov/leg/?bn=A01708"
+},
+{
+"text": "A01711",
+"href": "http://nyassembly.gov/leg/?bn=A01711"
+},
+{
+"text": "A01736",
+"href": "http://nyassembly.gov/leg/?bn=A01736"
+},
+{
+"text": "A01742",
+"href": "http://nyassembly.gov/leg/?bn=A01742"
+},
+{
+"text": "A01743",
+"href": "http://nyassembly.gov/leg/?bn=A01743"
+},
+{
+"text": "A01744",
+"href": "http://nyassembly.gov/leg/?bn=A01744"
+},
+{
+"text": "A01747",
+"href": "http://nyassembly.gov/leg/?bn=A01747"
+},
+{
+"text": "A01767",
+"href": "http://nyassembly.gov/leg/?bn=A01767"
+},
+{
+"text": "A01768",
+"href": "http://nyassembly.gov/leg/?bn=A01768"
+},
+{
+"text": "A01781",
+"href": "http://nyassembly.gov/leg/?bn=A01781"
+},
+{
+"text": "A01783",
+"href": "http://nyassembly.gov/leg/?bn=A01783"
+},
+{
+"text": "A01866",
+"href": "http://nyassembly.gov/leg/?bn=A01866"
+},
+{
+"text": "A01880",
+"href": "http://nyassembly.gov/leg/?bn=A01880"
+},
+{
+"text": "A01881",
+"href": "http://nyassembly.gov/leg/?bn=A01881"
+},
+{
+"text": "A01900",
+"href": "http://nyassembly.gov/leg/?bn=A01900"
+},
+{
+"text": "A01904",
+"href": "http://nyassembly.gov/leg/?bn=A01904"
+},
+{
+"text": "A01908",
+"href": "http://nyassembly.gov/leg/?bn=A01908"
+},
+{
+"text": "A01919",
+"href": "http://nyassembly.gov/leg/?bn=A01919"
+},
+{
+"text": "A01920",
+"href": "http://nyassembly.gov/leg/?bn=A01920"
+},
+{
+"text": "A01922",
+"href": "http://nyassembly.gov/leg/?bn=A01922"
+},
+{
+"text": "A01930",
+"href": "http://nyassembly.gov/leg/?bn=A01930"
+},
+{
+"text": "A01942",
+"href": "http://nyassembly.gov/leg/?bn=A01942"
+},
+{
+"text": "A01949",
+"href": "http://nyassembly.gov/leg/?bn=A01949"
+},
+{
+"text": "A01960",
+"href": "http://nyassembly.gov/leg/?bn=A01960"
+},
+{
+"text": "A01961",
+"href": "http://nyassembly.gov/leg/?bn=A01961"
+},
+{
+"text": "A01965",
+"href": "http://nyassembly.gov/leg/?bn=A01965"
+},
+{
+"text": "A01966",
+"href": "http://nyassembly.gov/leg/?bn=A01966"
+},
+{
+"text": "A01967",
+"href": "http://nyassembly.gov/leg/?bn=A01967"
+},
+{
+"text": "A01970",
+"href": "http://nyassembly.gov/leg/?bn=A01970"
+},
+{
+"text": "A01973",
+"href": "http://nyassembly.gov/leg/?bn=A01973"
+},
+{
+"text": "A01989",
+"href": "http://nyassembly.gov/leg/?bn=A01989"
+},
+{
+"text": "A01996",
+"href": "http://nyassembly.gov/leg/?bn=A01996"
+},
+{
+"text": "A01997",
+"href": "http://nyassembly.gov/leg/?bn=A01997"
+},
+{
+"text": "A02000",
+"href": "http://nyassembly.gov/leg/?bn=A02000"
+},
+{
+"text": "A02030",
+"href": "http://nyassembly.gov/leg/?bn=A02030"
+},
+{
+"text": "A02036",
+"href": "http://nyassembly.gov/leg/?bn=A02036"
+},
+{
+"text": "A02038",
+"href": "http://nyassembly.gov/leg/?bn=A02038"
+},
+{
+"text": "A02039",
+"href": "http://nyassembly.gov/leg/?bn=A02039"
+},
+{
+"text": "A02040",
+"href": "http://nyassembly.gov/leg/?bn=A02040"
+},
+{
+"text": "A02041",
+"href": "http://nyassembly.gov/leg/?bn=A02041"
+},
+{
+"text": "A02042",
+"href": "http://nyassembly.gov/leg/?bn=A02042"
+},
+{
+"text": "A02046",
+"href": "http://nyassembly.gov/leg/?bn=A02046"
+},
+{
+"text": "A02047",
+"href": "http://nyassembly.gov/leg/?bn=A02047"
+},
+{
+"text": "A02074",
+"href": "http://nyassembly.gov/leg/?bn=A02074"
+},
+{
+"text": "A02077",
+"href": "http://nyassembly.gov/leg/?bn=A02077"
+},
+{
+"text": "A02087",
+"href": "http://nyassembly.gov/leg/?bn=A02087"
+},
+{
+"text": "A02092",
+"href": "http://nyassembly.gov/leg/?bn=A02092"
+},
+{
+"text": "A02093",
+"href": "http://nyassembly.gov/leg/?bn=A02093"
+},
+{
+"text": "A02118",
+"href": "http://nyassembly.gov/leg/?bn=A02118"
+},
+{
+"text": "A02132",
+"href": "http://nyassembly.gov/leg/?bn=A02132"
+},
+{
+"text": "A02138",
+"href": "http://nyassembly.gov/leg/?bn=A02138"
+},
+{
+"text": "A02142",
+"href": "http://nyassembly.gov/leg/?bn=A02142"
+},
+{
+"text": "A02145",
+"href": "http://nyassembly.gov/leg/?bn=A02145"
+},
+{
+"text": "A02162",
+"href": "http://nyassembly.gov/leg/?bn=A02162"
+},
+{
+"text": "A02163",
+"href": "http://nyassembly.gov/leg/?bn=A02163"
+},
+{
+"text": "A02164",
+"href": "http://nyassembly.gov/leg/?bn=A02164"
+},
+{
+"text": "A02165",
+"href": "http://nyassembly.gov/leg/?bn=A02165"
+},
+{
+"text": "A02167",
+"href": "http://nyassembly.gov/leg/?bn=A02167"
+},
+{
+"text": "A02168",
+"href": "http://nyassembly.gov/leg/?bn=A02168"
+},
+{
+"text": "A02169",
+"href": "http://nyassembly.gov/leg/?bn=A02169"
+},
+{
+"text": "A02194",
+"href": "http://nyassembly.gov/leg/?bn=A02194"
+},
+{
+"text": "A02195",
+"href": "http://nyassembly.gov/leg/?bn=A02195"
+},
+{
+"text": "A02206",
+"href": "http://nyassembly.gov/leg/?bn=A02206"
+},
+{
+"text": "A02213",
+"href": "http://nyassembly.gov/leg/?bn=A02213"
+},
+{
+"text": "A02218",
+"href": "http://nyassembly.gov/leg/?bn=A02218"
+},
+{
+"text": "A02219",
+"href": "http://nyassembly.gov/leg/?bn=A02219"
+},
+{
+"text": "A02220",
+"href": "http://nyassembly.gov/leg/?bn=A02220"
+},
+{
+"text": "A02226",
+"href": "http://nyassembly.gov/leg/?bn=A02226"
+},
+{
+"text": "A02229",
+"href": "http://nyassembly.gov/leg/?bn=A02229"
+},
+{
+"text": "A02240",
+"href": "http://nyassembly.gov/leg/?bn=A02240"
+},
+{
+"text": "A02241",
+"href": "http://nyassembly.gov/leg/?bn=A02241"
+},
+{
+"text": "A02246",
+"href": "http://nyassembly.gov/leg/?bn=A02246"
+},
+{
+"text": "A02259",
+"href": "http://nyassembly.gov/leg/?bn=A02259"
+},
+{
+"text": "A02286",
+"href": "http://nyassembly.gov/leg/?bn=A02286"
+},
+{
+"text": "A02310",
+"href": "http://nyassembly.gov/leg/?bn=A02310"
+},
+{
+"text": "A02313",
+"href": "http://nyassembly.gov/leg/?bn=A02313"
+},
+{
+"text": "A02314",
+"href": "http://nyassembly.gov/leg/?bn=A02314"
+},
+{
+"text": "A02317",
+"href": "http://nyassembly.gov/leg/?bn=A02317"
+},
+{
+"text": "A02322",
+"href": "http://nyassembly.gov/leg/?bn=A02322"
+},
+{
+"text": "A02367",
+"href": "http://nyassembly.gov/leg/?bn=A02367"
+},
+{
+"text": "A02453",
+"href": "http://nyassembly.gov/leg/?bn=A02453"
+},
+{
+"text": "A02455",
+"href": "http://nyassembly.gov/leg/?bn=A02455"
+},
+{
+"text": "A02510",
+"href": "http://nyassembly.gov/leg/?bn=A02510"
+},
+{
+"text": "A02514",
+"href": "http://nyassembly.gov/leg/?bn=A02514"
+},
+{
+"text": "A02526",
+"href": "http://nyassembly.gov/leg/?bn=A02526"
+},
+{
+"text": "A02531",
+"href": "http://nyassembly.gov/leg/?bn=A02531"
+},
+{
+"text": "A02537",
+"href": "http://nyassembly.gov/leg/?bn=A02537"
+},
+{
+"text": "A02545",
+"href": "http://nyassembly.gov/leg/?bn=A02545"
+},
+{
+"text": "A02559",
+"href": "http://nyassembly.gov/leg/?bn=A02559"
+},
+{
+"text": "A02570",
+"href": "http://nyassembly.gov/leg/?bn=A02570"
+},
+{
+"text": "A02571",
+"href": "http://nyassembly.gov/leg/?bn=A02571"
+},
+{
+"text": "A02586",
+"href": "http://nyassembly.gov/leg/?bn=A02586"
+},
+{
+"text": "A02598",
+"href": "http://nyassembly.gov/leg/?bn=A02598"
+},
+{
+"text": "A02599",
+"href": "http://nyassembly.gov/leg/?bn=A02599"
+},
+{
+"text": "A02619",
+"href": "http://nyassembly.gov/leg/?bn=A02619"
+},
+{
+"text": "A02620",
+"href": "http://nyassembly.gov/leg/?bn=A02620"
+},
+{
+"text": "A02634",
+"href": "http://nyassembly.gov/leg/?bn=A02634"
+},
+{
+"text": "A02637",
+"href": "http://nyassembly.gov/leg/?bn=A02637"
+},
+{
+"text": "A02648",
+"href": "http://nyassembly.gov/leg/?bn=A02648"
+},
+{
+"text": "A02653",
+"href": "http://nyassembly.gov/leg/?bn=A02653"
+},
+{
+"text": "A02654",
+"href": "http://nyassembly.gov/leg/?bn=A02654"
+},
+{
+"text": "A02657",
+"href": "http://nyassembly.gov/leg/?bn=A02657"
+},
+{
+"text": "A02680",
+"href": "http://nyassembly.gov/leg/?bn=A02680"
+},
+{
+"text": "A02684",
+"href": "http://nyassembly.gov/leg/?bn=A02684"
+},
+{
+"text": "A02685",
+"href": "http://nyassembly.gov/leg/?bn=A02685"
+},
+{
+"text": "A02686",
+"href": "http://nyassembly.gov/leg/?bn=A02686"
+},
+{
+"text": "A02687",
+"href": "http://nyassembly.gov/leg/?bn=A02687"
+},
+{
+"text": "A02689",
+"href": "http://nyassembly.gov/leg/?bn=A02689"
+},
+{
+"text": "A02690",
+"href": "http://nyassembly.gov/leg/?bn=A02690"
+},
+{
+"text": "A02692",
+"href": "http://nyassembly.gov/leg/?bn=A02692"
+},
+{
+"text": "A02697",
+"href": "http://nyassembly.gov/leg/?bn=A02697"
+},
+{
+"text": "A02705",
+"href": "http://nyassembly.gov/leg/?bn=A02705"
+},
+{
+"text": "A02713",
+"href": "http://nyassembly.gov/leg/?bn=A02713"
+},
+{
+"text": "A02723",
+"href": "http://nyassembly.gov/leg/?bn=A02723"
+},
+{
+"text": "A02771",
+"href": "http://nyassembly.gov/leg/?bn=A02771"
+},
+{
+"text": "A02775",
+"href": "http://nyassembly.gov/leg/?bn=A02775"
+},
+{
+"text": "A02792",
+"href": "http://nyassembly.gov/leg/?bn=A02792"
+},
+{
+"text": "A02793",
+"href": "http://nyassembly.gov/leg/?bn=A02793"
+},
+{
+"text": "A02801",
+"href": "http://nyassembly.gov/leg/?bn=A02801"
+},
+{
+"text": "A02802",
+"href": "http://nyassembly.gov/leg/?bn=A02802"
+},
+{
+"text": "A02804",
+"href": "http://nyassembly.gov/leg/?bn=A02804"
+},
+{
+"text": "A02842",
+"href": "http://nyassembly.gov/leg/?bn=A02842"
+},
+{
+"text": "A02868",
+"href": "http://nyassembly.gov/leg/?bn=A02868"
+},
+{
+"text": "A02871",
+"href": "http://nyassembly.gov/leg/?bn=A02871"
+},
+{
+"text": "A02874",
+"href": "http://nyassembly.gov/leg/?bn=A02874"
+},
+{
+"text": "A02876",
+"href": "http://nyassembly.gov/leg/?bn=A02876"
+},
+{
+"text": "A02877",
+"href": "http://nyassembly.gov/leg/?bn=A02877"
+},
+{
+"text": "A02889",
+"href": "http://nyassembly.gov/leg/?bn=A02889"
+},
+{
+"text": "A02892",
+"href": "http://nyassembly.gov/leg/?bn=A02892"
+},
+{
+"text": "A02893",
+"href": "http://nyassembly.gov/leg/?bn=A02893"
+},
+{
+"text": "A02898",
+"href": "http://nyassembly.gov/leg/?bn=A02898"
+},
+{
+"text": "A02900",
+"href": "http://nyassembly.gov/leg/?bn=A02900"
+},
+{
+"text": "A02915",
+"href": "http://nyassembly.gov/leg/?bn=A02915"
+},
+{
+"text": "A02916",
+"href": "http://nyassembly.gov/leg/?bn=A02916"
+},
+{
+"text": "A02917",
+"href": "http://nyassembly.gov/leg/?bn=A02917"
+},
+{
+"text": "A02918",
+"href": "http://nyassembly.gov/leg/?bn=A02918"
+},
+{
+"text": "A02932",
+"href": "http://nyassembly.gov/leg/?bn=A02932"
+},
+{
+"text": "A02965",
+"href": "http://nyassembly.gov/leg/?bn=A02965"
+},
+{
+"text": "A02990",
+"href": "http://nyassembly.gov/leg/?bn=A02990"
+},
+{
+"text": "A03228",
+"href": "http://nyassembly.gov/leg/?bn=A03228"
+},
+{
+"text": "A03250",
+"href": "http://nyassembly.gov/leg/?bn=A03250"
+},
+{
+"text": "A03376",
+"href": "http://nyassembly.gov/leg/?bn=A03376"
+},
+{
+"text": "A03536",
+"href": "http://nyassembly.gov/leg/?bn=A03536"
+},
+{
+"text": "A03586",
+"href": "http://nyassembly.gov/leg/?bn=A03586"
+},
+{
+"text": "A03636",
+"href": "http://nyassembly.gov/leg/?bn=A03636"
+},
+{
+"text": "A03771",
+"href": "http://nyassembly.gov/leg/?bn=A03771"
+},
+{
+"text": "A03941",
+"href": "http://nyassembly.gov/leg/?bn=A03941"
+},
+{
+"text": "A04036",
+"href": "http://nyassembly.gov/leg/?bn=A04036"
+},
+{
+"text": "A04073",
+"href": "http://nyassembly.gov/leg/?bn=A04073"
+},
+{
+"text": "A04401",
+"href": "http://nyassembly.gov/leg/?bn=A04401"
+},
+{
+"text": "A04409",
+"href": "http://nyassembly.gov/leg/?bn=A04409"
+},
+{
+"text": "A04717",
+"href": "http://nyassembly.gov/leg/?bn=A04717"
+},
+{
+"text": "A04925",
+"href": "http://nyassembly.gov/leg/?bn=A04925"
+},
+{
+"text": "A04956",
+"href": "http://nyassembly.gov/leg/?bn=A04956"
+},
+{
+"text": "A05070",
+"href": "http://nyassembly.gov/leg/?bn=A05070"
+},
+{
+"text": "A05098",
+"href": "http://nyassembly.gov/leg/?bn=A05098"
+},
+{
+"text": "A05175",
+"href": "http://nyassembly.gov/leg/?bn=A05175"
+},
+{
+"text": "A05183",
+"href": "http://nyassembly.gov/leg/?bn=A05183"
+},
+{
+"text": "A05387",
+"href": "http://nyassembly.gov/leg/?bn=A05387"
+},
+{
+"text": "A05572",
+"href": "http://nyassembly.gov/leg/?bn=A05572"
+},
+{
+"text": "A05611",
+"href": "http://nyassembly.gov/leg/?bn=A05611"
+},
+{
+"text": "A05656",
+"href": "http://nyassembly.gov/leg/?bn=A05656"
+},
+{
+"text": "A05746",
+"href": "http://nyassembly.gov/leg/?bn=A05746"
+},
+{
+"text": "A05830",
+"href": "http://nyassembly.gov/leg/?bn=A05830"
+},
+{
+"text": "A05937",
+"href": "http://nyassembly.gov/leg/?bn=A05937"
+},
+{
+"text": "A06089",
+"href": "http://nyassembly.gov/leg/?bn=A06089"
+},
+{
+"text": "A06124",
+"href": "http://nyassembly.gov/leg/?bn=A06124"
+},
+{
+"text": "A06218",
+"href": "http://nyassembly.gov/leg/?bn=A06218"
+},
+{
+"text": "A06221",
+"href": "http://nyassembly.gov/leg/?bn=A06221"
+},
+{
+"text": "A06246",
+"href": "http://nyassembly.gov/leg/?bn=A06246"
+},
+{
+"text": "A06333",
+"href": "http://nyassembly.gov/leg/?bn=A06333"
+},
+{
+"text": "A06345",
+"href": "http://nyassembly.gov/leg/?bn=A06345"
+},
+{
+"text": "A06402",
+"href": "http://nyassembly.gov/leg/?bn=A06402"
+},
+{
+"text": "A06569",
+"href": "http://nyassembly.gov/leg/?bn=A06569"
+},
+{
+"text": "A06772",
+"href": "http://nyassembly.gov/leg/?bn=A06772"
+},
+{
+"text": "A06894",
+"href": "http://nyassembly.gov/leg/?bn=A06894"
+},
+{
+"text": "A06946",
+"href": "http://nyassembly.gov/leg/?bn=A06946"
+},
+{
+"text": "A06951",
+"href": "http://nyassembly.gov/leg/?bn=A06951"
+},
+{
+"text": "A07170",
+"href": "http://nyassembly.gov/leg/?bn=A07170"
+},
+{
+"text": "A07187",
+"href": "http://nyassembly.gov/leg/?bn=A07187"
+},
+{
+"text": "A07230",
+"href": "http://nyassembly.gov/leg/?bn=A07230"
+},
+{
+"text": "A07289",
+"href": "http://nyassembly.gov/leg/?bn=A07289"
+},
+{
+"text": "A07441",
+"href": "http://nyassembly.gov/leg/?bn=A07441"
+},
+{
+"text": "A07457",
+"href": "http://nyassembly.gov/leg/?bn=A07457"
+},
+{
+"text": "A07498",
+"href": "http://nyassembly.gov/leg/?bn=A07498"
+},
+{
+"text": "A07526",
+"href": "http://nyassembly.gov/leg/?bn=A07526"
+},
+{
+"text": "A07609",
+"href": "http://nyassembly.gov/leg/?bn=A07609"
+},
+{
+"text": "A07731",
+"href": "http://nyassembly.gov/leg/?bn=A07731"
+},
+{
+"text": "A07851",
+"href": "http://nyassembly.gov/leg/?bn=A07851"
+},
+{
+"text": "A07928",
+"href": "http://nyassembly.gov/leg/?bn=A07928"
+},
+{
+"text": "A07938",
+"href": "http://nyassembly.gov/leg/?bn=A07938"
+},
+{
+"text": "A07981",
+"href": "http://nyassembly.gov/leg/?bn=A07981"
+},
+{
+"text": "A08060",
+"href": "http://nyassembly.gov/leg/?bn=A08060"
+},
+{
+"text": "A08216",
+"href": "http://nyassembly.gov/leg/?bn=A08216"
+},
+{
+"text": "A08244",
+"href": "http://nyassembly.gov/leg/?bn=A08244"
+},
+{
+"text": "A08288",
+"href": "http://nyassembly.gov/leg/?bn=A08288"
+},
+{
+"text": "A08296",
+"href": "http://nyassembly.gov/leg/?bn=A08296"
+},
+{
+"text": "A08332",
+"href": "http://nyassembly.gov/leg/?bn=A08332"
+},
+{
+"text": "A08396",
+"href": "http://nyassembly.gov/leg/?bn=A08396"
+},
+{
+"text": "A08620",
+"href": "http://nyassembly.gov/leg/?bn=A08620"
+},
+{
+"text": "A08623",
+"href": "http://nyassembly.gov/leg/?bn=A08623"
+},
+{
+"text": "A08629",
+"href": "http://nyassembly.gov/leg/?bn=A08629"
+},
+{
+"text": "A08631",
+"href": "http://nyassembly.gov/leg/?bn=A08631"
+},
+{
+"text": "A08640",
+"href": "http://nyassembly.gov/leg/?bn=A08640"
+},
+{
+"text": "A08659",
+"href": "http://nyassembly.gov/leg/?bn=A08659"
+},
+{
+"text": "A09049",
+"href": "http://nyassembly.gov/leg/?bn=A09049"
+},
+{
+"text": "A09125",
+"href": "http://nyassembly.gov/leg/?bn=A09125"
+},
+{
+"text": "A09137",
+"href": "http://nyassembly.gov/leg/?bn=A09137"
+},
+{
+"text": "A09181",
+"href": "http://nyassembly.gov/leg/?bn=A09181"
+},
+{
+"text": "A09206",
+"href": "http://nyassembly.gov/leg/?bn=A09206"
+},
+{
+"text": "A09213",
+"href": "http://nyassembly.gov/leg/?bn=A09213"
+},
+{
+"text": "A09257",
+"href": "http://nyassembly.gov/leg/?bn=A09257"
+},
+{
+"text": "A09270",
+"href": "http://nyassembly.gov/leg/?bn=A09270"
+},
+{
+"text": "A09350",
+"href": "http://nyassembly.gov/leg/?bn=A09350"
+},
+{
+"text": "A09478",
+"href": "http://nyassembly.gov/leg/?bn=A09478"
+},
+{
+"text": "A09641",
+"href": "http://nyassembly.gov/leg/?bn=A09641"
+},
+{
+"text": "A09806",
+"href": "http://nyassembly.gov/leg/?bn=A09806"
+},
+{
+"text": "A09821",
+"href": "http://nyassembly.gov/leg/?bn=A09821"
+},
+{
+"text": "A09916",
+"href": "http://nyassembly.gov/leg/?bn=A09916"
+},
+{
+"text": "A09994",
+"href": "http://nyassembly.gov/leg/?bn=A09994"
+},
+{
+"text": "A10048",
+"href": "http://nyassembly.gov/leg/?bn=A10048"
+},
+{
+"text": "A10215",
+"href": "http://nyassembly.gov/leg/?bn=A10215"
+},
+{
+"text": "A10225",
+"href": "http://nyassembly.gov/leg/?bn=A10225"
+},
+{
+"text": "A10249",
+"href": "http://nyassembly.gov/leg/?bn=A10249"
+},
+{
+"text": "A10400",
+"href": "http://nyassembly.gov/leg/?bn=A10400"
+},
+{
+"text": "A10429",
+"href": "http://nyassembly.gov/leg/?bn=A10429"
+},
+{
+"text": "A10441",
+"href": "http://nyassembly.gov/leg/?bn=A10441"
+},
+{
+"text": "A10473",
+"href": "http://nyassembly.gov/leg/?bn=A10473"
+},
+{
+"text": "A10569",
+"href": "http://nyassembly.gov/leg/?bn=A10569"
+},
+{
+"text": "A10600",
+"href": "http://nyassembly.gov/leg/?bn=A10600"
+},
+{
+"text": "A10679",
+"href": "http://nyassembly.gov/leg/?bn=A10679"
+},
+{
+"text": "A10736",
+"href": "http://nyassembly.gov/leg/?bn=A10736"
+},
+{
+"text": "CONTACT",
+"href": "https://votepretlow.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://votepretlow.com/contribute"
+},
+{
+"text": "Donate/ Act Blue",
+"href": "https://secure.actblue.com/donate/james-gary-pretlow-1"
+},
+{
+"text": "Home",
+"href": "https://votepretlow.com/"
+},
+{
+"text": "Legislation",
+"href": "https://votepretlow.com/legislation"
+},
+{
+"text": "NEWS",
+"href": "https://votepretlow.com/news"
+},
+{
+"text": "Vote Pretlow",
+"href": "https://votepretlow.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JGPretlow"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=1339457353"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jgarypretlow/"
+},
+{
+"text": "about",
+"href": "https://votepretlow.com/about"
+}
 ]

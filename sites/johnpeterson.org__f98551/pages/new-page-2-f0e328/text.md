@@ -1,6 +1,2 @@
-Standing for Conservative Values
-- Support the Trump agenda and Prevent the Democrats from impeaching President Trump
-- Vote for bills in Congress that are fiscally conservative that cut spending, reduce inflation, and bring down the national debt
-- Champion bills that are tough on crime that protect law abiding citizens and keep violent criminals off the street
-- Fight for Free and Fair Elections that require Voter I.D.
-- Support DOGE and work hard to uncover Fraud Waste and Abuse that has stolen $Billions of tax payer dollars
+0 Skip to Content Home Issues About Contact Donate Open Menu Close Menu Home Issues About Contact Donate Open Menu Close Menu Home Issues About Contact Donate Standing for Conservative Values Support the Trump agenda and Prevent the Democrats from impeaching President Trump Vote for bills in Congress that are fiscally conservative that cut spending, reduce inflation, and bring down the national debt Champion bills that are tough on crime that protect law abiding citizens and keep violent criminals off the street Fight for Free and Fair Elections that require Voter I.D.
+Support DOGE and work hard to uncover Fraud Waste and Abuse that has stolen $Billions of tax payer dollars

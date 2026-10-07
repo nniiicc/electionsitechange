@@ -1,15 +1,82 @@
 [
-"https://americashealthrankings.org/explore/measures/costburden/MT",
-"https://livingwage.mit.edu/counties/30031",
-"https://livingwage.mit.edu/counties/30111",
-"https://livingwage.mit.edu/pages/methodology",
-"https://livingwage.mit.edu/states/30",
-"https://maxwellforhouse.com/",
-"https://maxwellforhouse.com/my-story",
-"https://maxwellforhouse.com/our-fight",
-"https://maxwellforhouse.com/our-fight/affordability",
-"https://maxwellforhouse.com/our-fight/affordability/child-care",
-"https://maxwellforhouse.com/our-fight/affordability/housing",
-"https://news.mt.gov/Governors-Office/Gov-Gianforte-Announces-Montanas-Labor-Force-Reached-Record-High-in-2025",
-"https://secure.anedot.com/maxwell-for-montana/donate"
+{
+"text": "Affordability",
+"href": "https://maxwellforhouse.com/our-fight/affordability/"
+},
+{
+"text": "America’s Health Rankings, using CDC’s 2024 Behavioral Risk Factor Surveillance System",
+"href": "https://www.americashealthrankings.org/explore/measures/costburden/MT"
+},
+{
+"text": "Back to Our Fight →",
+"href": "https://maxwellforhouse.com/our-fight/#topics"
+},
+{
+"text": "Child Care →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/child-care/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/maxwell-for-montana/donate"
+},
+{
+"text": "Explore Child Care →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/child-care/"
+},
+{
+"text": "Explore Housing →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/housing/"
+},
+{
+"text": "Gallatin County",
+"href": "https://livingwage.mit.edu/counties/30031"
+},
+{
+"text": "Home",
+"href": "https://maxwellforhouse.com/"
+},
+{
+"text": "Housing →",
+"href": "https://maxwellforhouse.com/our-fight/affordability/housing/"
+},
+{
+"text": "MIT 2026 Yellowstone County model",
+"href": "https://livingwage.mit.edu/counties/30111"
+},
+{
+"text": "MIT methodology",
+"href": "https://livingwage.mit.edu/pages/methodology"
+},
+{
+"text": "MIT, Yellowstone County, Feb. 15, 2026",
+"href": "https://livingwage.mit.edu/counties/30111"
+},
+{
+"text": "Montana",
+"href": "https://livingwage.mit.edu/states/30"
+},
+{
+"text": "Montana’s Sept. 10, 2026 announcement, summarizing DLI",
+"href": "https://news.mt.gov/Governors-Office/Gov-Gianforte-Announces-Montanas-Labor-Force-Reached-Record-High-in-2025"
+},
+{
+"text": "My Story",
+"href": "https://maxwellforhouse.com/my-story/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/"
+},
+{
+"text": "Our Fight",
+"href": "https://maxwellforhouse.com/our-fight/#topics"
+},
+{
+"text": "Yellowstone County",
+"href": "https://livingwage.mit.edu/counties/30111"
+},
+{
+"text": "[image: Maxwell] House District 47",
+"href": "https://maxwellforhouse.com/"
+}
 ]

@@ -1,6 +1,8 @@
+0 Skip to Content About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu About About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Priorities My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Contact Legislative Contact Campaign Contact DONATE Open Menu Close Menu Folder: About Back About Aaron About D18 Endorsements People I've Met Along the Way Legislation Scholarships Folder: Priorities Back My Priorities Abortion Rights Affordability Childcare Climate Change Disability Rights Education Gun Safety Healthcare Immigration LGBTQ The Arts The Economy Racial Equality Women's Health Folder: Contact Back Legislative Contact Campaign Contact DONATE “You’re not going to find a more passionate, knowledgeable or steadfast champion of the rights of all people than Aaron Kaufman.
+He’s a great citizen and a great Democrat..” CONGRESSMAN JAMIE RASKIN “I have know Aaron Kaufman for 20 years.
 He is a passionate progressive who cares deeply about marriage equality, common sense gun safety measures and disability rights.
 He is well respected by elected officials across the country and state.
-I am pleased to call him my friend.”
-MARYLAND ATTORNEY GENERAL
-BRIAN E.
-FROSCH
+I am pleased to call him my friend.” MARYLAND ATTORNEY GENERAL BRIAN E.
+FROSCH “I have known Aaron for twenty plus years and have watched him become a true leader in our party.
+He has been involved in advocating for progressive causes and making our party more inclusive.
+It is my pleasure to endorse him in his re-election bid.” MONTGOMERY COUNTY EXECUTIVE IKE LEGGETT 2018 2018 Endorsements Stay Connected Legislative Contact Campaign Contact By Authority: Friends of Aaron Kaufman -Joshua Kaufman, Treasurer Elect Aaron Kaufman PO Box 151542 Chevy Chase, MD 20815 e-mail: aaronkaufmand18@gmail.com Phone: 240.600.1812 Privacy Policy

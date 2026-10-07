@@ -1,9 +1,6 @@
-Hello,
-Today marks the 6-year anniversary of Roy Cooper marching in Raleigh alongside some of the biggest supporters of Cooper’s soft-on-crime legacy, the violent BLM rioters who held Raleigh hostage for a week.
+DONATE Endorsed by president Trump Home About Issues News Volunteer Shop Home About Issues News Volunteer Shop Home About Issues News Volunteer Donate Home About Issues News Volunteer Donate DONATE 6-Year Anniversary of Roy Cooper Marching with Violent Protestors/His Top Political Allies June 1, 2026 Hello, Today marks the 6-year anniversary of Roy Cooper marching in Raleigh alongside some of the biggest supporters of Cooper’s soft-on-crime legacy, the violent BLM rioters who held Raleigh hostage for a week.
 Not much could make Roy Cooper violate his draconian, Covid executive orders on masking and social distancing, but getting a chance to show solidarity with some of the biggest Defund the Police rioters had Cooper ripping off his mask and grinning.
-Even if it placed his security team at risk for what one described as just a “photo op.”
-Click HERE to watch
-Roy Cooper’s solidarity march with these protestors came after two nights of violence, looting, arson, and theft in Raleigh.
+Even if it placed his security team at risk for what one described as just a “photo op.” Click HERE to watch Roy Cooper’s solidarity march with these protestors came after two nights of violence, looting, arson, and theft in Raleigh.
 Small, locally-owned shops and businesses were looted.
 As shots were ringing out, the impacted business owners were told to not call the police because it wasn’t the job of the police to handle matters like that.
 And Roy Cooper didn’t say jack-squat to disagree with that assessment nor did Cooper activate the National Guard to help defend downtown Raleigh.
@@ -11,5 +8,4 @@ This came despite Cooper fleeing the area with his family because it was deemed 
 “Six years later and Roy Cooper still only cares about photo ops and not improving the lives of North Carolinians.
 Just like when he bowed down to the BLM rioters that set fire to businesses, Roy Cooper continues to be more concerned about what the woke mob thinks than North Carolina families.
 North Carolina cannot afford more of Cooper’s performative photo ops antics, they deserve a fighter that puts them first, not the woke mob terrorizing our streets,” said Whatley Campaign Spokesman DJ Griffin.
-DJ Griffin
-Communications Director
+DJ Griffin Communications Director Press@whatleyforsenate.com X-twitter Facebook Instagram Privacy Policy Terms of Use Mobile Terms Media Tool Kit Privacy Policy Terms of Use Mobile Terms Media Tool Kit Paid for by Whatley for Senate

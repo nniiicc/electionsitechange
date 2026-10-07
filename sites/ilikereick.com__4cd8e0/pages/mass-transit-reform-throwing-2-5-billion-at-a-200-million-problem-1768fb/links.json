@@ -1,21 +1,82 @@
 [
-"https://ilga.gov/Legislation/BillStatus?DocNum=2111&GAID=18&DocTypeID=SB&LegId=161644&SessionID=114",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/mass-transit-reform-throwing-2-5-billion-at-a-200-million-problem",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/tag/metra-rail",
-"https://ilikereick.com/tag/nita",
-"https://ilikereick.com/tag/pace",
-"https://ilikereick.com/tag/rta",
-"https://ilikereick.com/tag/tax-increase",
-"https://ilikereick.com/tag/taxes",
-"https://ilikereick.com/videos",
-"https://rtachicago.org/uploads/files/general/October-Ad-Hoc-Statement.pdf",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Back to Steve's Blog",
+"href": "https://ilikereick.com/steves-blog"
+},
+{
+"text": "Cancel Reply",
+"href": "https://ilikereick.com/mass-transit-reform-throwing-2-5-billion-at-a-200-million-problem/#respond"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Metra Rail",
+"href": "https://ilikereick.com/tag/metra-rail/"
+},
+{
+"text": "NITA",
+"href": "https://ilikereick.com/tag/nita/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "PACE",
+"href": "https://ilikereick.com/tag/pace/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "RTA",
+"href": "https://ilikereick.com/tag/rta/"
+},
+{
+"text": "SB 2111, HFA #3",
+"href": "https://ilga.gov/Legislation/BillStatus?DocNum=2111&GAID=18&DocTypeID=SB&LegId=161644&SessionID=114"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "Tax Increase",
+"href": "https://ilikereick.com/tag/tax-increase/"
+},
+{
+"text": "Taxes",
+"href": "https://ilikereick.com/tag/taxes/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+},
+{
+"text": "announced",
+"href": "https://www.rtachicago.org/uploads/files/general/October-Ad-Hoc-Statement.pdf"
+}
 ]

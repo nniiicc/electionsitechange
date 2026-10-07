@@ -1,6 +1,4 @@
-Why I'm Running
-Meet Tiffanie Arthur
-Serving Today.
+Donate Menu Home Meet Your Candidate Where I Stand Volunteer Follow us Why I'm Running Meet Tiffanie Arthur Serving Today.
 Building Tomorrow.
 I’m proud to call Daviess County home.
 My story begins as the child of teenage parents.
@@ -24,3 +22,5 @@ My campaign is about strengthening public schools, supporting small businesses a
 Most importantly, I believe leadership should be about people over politics, bringing neighbors together, focusing on real issues, and working toward solutions that move our communities forward.
 Daviess County and the surrounding communities of District 63 are where my story began, where my family is rooted, and where my heart will always be.
 I’m running because I believe in the future of our towns and the people who call them home.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Your Candidate Where I Stand Volunteer Donate Follow us Accessibility Statement Terms of Service Contact Paid for by arthur for Indiana Tiffanie Arthur for State House 63 © #

@@ -1,9 +1,12 @@
 {
  "description": "Krist Wollum Running For House Of Representatives District 21A Minnesota",
  "final_url": "https://wollum4house.com/",
- "paid_for_by": null,
+ "fingerprint": "c9f3c1b8b9165a00b10884509b3768a0745ed715",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Wollum For House",
  "years_mentioned": [
+  "1992",
   "2017",
   "2018",
   "2020"

@@ -1,21 +1,82 @@
 [
-"http://resources.baltimorecountymd.gov/Documents/Elections/2020/approvedvotingcenters201103.pdf",
-"https://baltimorecountymd.gov/Agencies/elections/evanddir.html",
-"https://bit.ly/MDBallotRequest",
-"https://elections.maryland.gov/",
-"https://elections.maryland.gov/voting/accessibility.html",
-"https://elections.maryland.gov/voting/documents/Absentee_Ballot_Application_Spanish.pdf",
-"https://facebook.com/SheilaRuthD44B",
-"https://secure.actblue.com/donate/sheilaruthd44b",
-"https://sheilaruth.com/",
-"https://sheilaruth.com/about-sheila",
-"https://sheilaruth.com/blog",
-"https://sheilaruth.com/contact",
-"https://sheilaruth.com/home",
-"https://sheilaruth.com/social-media-policy",
-"https://sheilaruth.com/subscribe",
-"https://sheilaruth.com/volunteer",
-"https://twitter.com/SheilaRuthD44B",
-"https://us17.campaign-archive.com/home?u=a893cb03214f26c7245ed8164&id=feffd77258",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "About Sheila",
+"href": "https://www.sheilaruth.com/about-sheila/"
+},
+{
+"text": "Accessibility information for voters with disabilities can be found here",
+"href": "https://elections.maryland.gov/voting/accessibility.html"
+},
+{
+"text": "Contact",
+"href": "https://www.sheilaruth.com/contact/"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/sheilaruthd44b"
+},
+{
+"text": "Home",
+"href": "https://www.sheilaruth.com/home/"
+},
+{
+"text": "Información de votación para votantes de Maryland.",
+"href": "https://elections.maryland.gov/voting/documents/Absentee_Ballot_Application_Spanish.pdf"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.sheilaruth.com/social-media-policy/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.sheilaruth.com/subscribe/"
+},
+{
+"text": "Updates",
+"href": "https://www.sheilaruth.com/blog/"
+},
+{
+"text": "View Past Issues",
+"href": "https://us17.campaign-archive.com/home/?u=a893cb03214f26c7245ed8164&id=feffd77258"
+},
+{
+"text": "View all early voting locations here.",
+"href": "https://www.baltimorecountymd.gov/Agencies/elections/evanddir.html"
+},
+{
+"text": "View all election day voting centers here.",
+"href": "http://resources.baltimorecountymd.gov/Documents/Elections/2020/approvedvotingcenters201103.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheilaruth.com/volunteer/"
+},
+{
+"text": "You can check the status of your ballot request here",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "[image: Image]",
+"href": "https://www.sheilaruth.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SheilaRuthD44B"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SheilaRuthD44B"
+},
+{
+"text": "elections.maryland.gov",
+"href": "https://elections.maryland.gov"
+},
+{
+"text": "https://bit.ly/MDBallotRequest",
+"href": "https://bit.ly/MDBallotRequest"
+},
+{
+"text": "▶︎",
+"href": "http://resources.baltimorecountymd.gov/Documents/Elections/2020/approvedvotingcenters201103.pdf"
+}
 ]

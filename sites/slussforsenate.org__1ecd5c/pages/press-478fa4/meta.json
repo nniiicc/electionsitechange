@@ -1,7 +1,9 @@
 {
  "description": "Press resources for the Jared Sluss campaign: headshots, logos, bio, fact sheet, and media inquiries.",
  "final_url": "https://www.slussforsenate.org/press",
- "paid_for_by": null,
+ "fingerprint": "2c1d6d0506b211b9acadf763e43c1fa3efe689ac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press & Media | Jared Sluss for State Senate 7",
  "years_mentioned": [
   "2016"

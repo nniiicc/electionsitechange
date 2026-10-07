@@ -1,7 +1,9 @@
 {
  "description": "Read More",
  "final_url": "https://www.deploymalloy.com/manage-subscription/",
- "paid_for_by": null,
+ "fingerprint": "eb87e5c19514ff4ad0e88b949796c8dbe144e3fe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Subscription | Deploy Malloy",
  "years_mentioned": []
 }

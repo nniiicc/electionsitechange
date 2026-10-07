@@ -1,19 +1,94 @@
 [
-"https://estheragbaje.com/",
-"https://estheragbaje.com/endorsements",
-"https://estheragbaje.com/get-involved",
-"https://estheragbaje.com/meet-esther",
-"https://estheragbaje.com/priorities",
-"https://estheragbaje.com/privacy-policy",
-"https://estheragbaje.com/vote",
-"https://facebook.com/go4esther",
-"https://instagram.com/Go4Esther",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.actblue.com/donate/go4esther",
-"https://secure.actblue.com/donate/go4esther?amount=20",
-"https://secure.actblue.com/donate/go4esther?amount=200",
-"https://secure.actblue.com/donate/go4esther?amount=5",
-"https://secure.actblue.com/donate/go4esther?amount=500",
-"https://secure.actblue.com/donate/go4esther?amount=75",
-"https://techforcampaigns.org/"
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/go4esther?amount=20"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/go4esther?amount=200"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/go4esther?amount=5"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/go4esther?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/go4esther?amount=75"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/go4esther"
+},
+{
+"text": "Endorsements",
+"href": "https://estheragbaje.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/go4esther/"
+},
+{
+"text": "Get Involved",
+"href": "https://estheragbaje.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://estheragbaje.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/Go4Esther"
+},
+{
+"text": "Learn more",
+"href": "https://estheragbaje.com/meet-esther/"
+},
+{
+"text": "Learn more",
+"href": "https://estheragbaje.com/priorities/"
+},
+{
+"text": "Meet Esther",
+"href": "https://estheragbaje.com/meet-esther/"
+},
+{
+"text": "Political Contribution Refund",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Priorities",
+"href": "https://estheragbaje.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://estheragbaje.com/privacy-policy/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "View all priorities →",
+"href": "https://estheragbaje.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://estheragbaje.com/get-involved/"
+},
+{
+"text": "Vote",
+"href": "https://estheragbaje.com/vote/"
+},
+{
+"text": "[image: Logo for Esther Agbaje's campaign. It features three stars and a stylized \"E\" that looks like a flag.]",
+"href": "https://estheragbaje.com/"
+},
+{
+"text": "esther@estheragbaje.com",
+"href": "mailto:esther@estheragbaje.com"
+}
 ]

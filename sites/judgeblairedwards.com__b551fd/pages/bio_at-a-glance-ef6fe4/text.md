@@ -1,81 +1,13 @@
-Judge Blair Downing Edwards
-Legal Background
--
-Current Judge of the Louisiana First Circuit Court of Appeal
--
-First Juvenile Court Judge for the 21st JDC (elected in 2008)
--
-presided over Juvenile drug court and truancy court with national distinction
--
-became 2nd female to serve as chief judge of the 2sat JDC
--
-Previously worked in the 21st JDC Public Defender’s Office
--
-Previously Interned with Families In Need of Services (FINS) Program
--
-Graduate of Loyola University New Orleans College of Law
--
-Graduate of the University of Nevada Judicial College and
--
-Fellow of the Early Childhood Policy Leader Institute
--
-Certified as an Adverse Childhood Experience (ACE) Trainer
--
-Certified as a Trust Based Relations Intervention (TBRI) Practitioner
-Boards and Commissions
--
-Louisiana Sentencing Commission
--
-Louisiana Commission on Law Enforcement
--
-Board of Directors for the Louisiana Institute for Children and Families
--
-Board of Trustees for the Louisiana Mansion Preservation Foundation
--
-Louisiana Supreme Court Technology Commission
--
-Louisiana District Judges Association, National Council for Juvenile and Family Court Judges
--
-American Bar Association
--
-National Association of Women Judges
--
-International Association of Women Judges
-Other Employment
--
-Accountant for Texaco
--
-Accountant for Entergy
--
-Teacher at Northwood Preparatory Charter High School in Amite
-Education
--
-Graduate of Loyola University New Orleans College of Law
--
-Graduation of Nicholls State University, Bachelor’s Degree in Accounting
-Volunteer Efforts and Awards
--
-Ginger Ford Habitat for Humanity
--
-Richard Murphy Hospice
--
-OPTIONS, a non-profit agency providing community-based services for people with disabilities
--
-Southeastern Louisiana University (SLU) FeLions
--
-Tangipahoa United Way
--
-Prescription Medication Task Force
--
-CASA Judge of the year (2016)
--
-Auxiliary Woman of the Year for Hammond, Louisiana (2016)
-Family and Faith
--
-Married to former Tangipahoa Sheriff Daniel Edwards
--
-Mother of five children, seven grandchildren
--
-Member of First United Methodist Church of Amite
--
-Church Youth Counselor and Sunday School Teacher
+Skip to content Home Bio Issues News Volunteer Donate Contact Search for: Search Donate Today Skip to content Home Bio At A Glance Issues News Volunteer Donate Contact At A Glance Judge Blair Downing Edwards Legal Background Current Judge of the Louisiana First Circuit Court of Appeal First Juvenile Court Judge for the 21st JDC (elected in 2008) presided over Juvenile drug court and truancy court with national distinction became 2nd female to serve as chief judge of the 2sat JDC Previously worked in the 21st JDC Public Defender’s Office Previously Interned with Families In Need of Services (FINS) Program Graduate of Loyola University New Orleans College of Law Graduate of the University of Nevada Judicial College and Fellow of the Early Childhood Policy Leader Institute Certified as an Adverse Childhood Experience (ACE) Trainer Certified as a Trust Based Relations Intervention (TBRI) Practitioner Boards and Commissions Louisiana Sentencing Commission Louisiana Commission on Law Enforcement Board of Directors for the Louisiana Institute for Children and Families Board of Trustees for the Louisiana Mansion Preservation Foundation Louisiana Supreme Court Technology Commission Louisiana District Judges Association, National Council for Juvenile and Family Court Judges American Bar Association National Association of Women Judges International Association of Women Judges Other Employment Accountant for Texaco Accountant for Entergy Teacher at Northwood Preparatory Charter High School in Amite Education Graduate of Loyola University New Orleans College of Law Graduation of Nicholls State University, Bachelor’s Degree in Accounting Volunteer Efforts and Awards Ginger Ford Habitat for Humanity Richard Murphy Hospice OPTIONS, a non-profit agency providing community-based services for people with disabilities Southeastern Louisiana University (SLU) FeLions Tangipahoa United Way Prescription Medication Task Force CASA Judge of the year (2016) Auxiliary Woman of the Year for Hammond, Louisiana (2016) Family and Faith Married to former Tangipahoa Sheriff Daniel Edwards Mother of five children, seven grandchildren Member of First United Methodist Church of Amite Church Youth Counselor and Sunday School Teacher Comments are closed.
+Vote for Judge Blair Downing Edwards in the Republican Primary Election on Saturday, May 16, 2026.
+Polls open at 7:00 a.m. and close at 8:00 p.m.
+Early voting is from May 2 through May 9 (excluding Sunday, May 3) from 8:30 a.m. – 6 p.m.
+In this race, only registered Republican voters and voters registered as "non-party" can vote.
+The deadline to register to vote in person, by mail, or at an OMV Office, or to change your party affiliation, is April 15.
+The deadline to do so online through the GeauxVote Online Registration System is April 25.
+This election will determine who is the lone Republican candidate to run for the vacant Louisiana Supreme Court seat this fall in the November 3 General Election.
+Privacy Policy Unsubscribe © Copyright #.
+The Committee to Elect Judge Blair Downing Edwards.
+All Rights Reserved.
+Web design by Stark Imagery Digital Design LLC.
+Powered by Nirvana & WordPress.

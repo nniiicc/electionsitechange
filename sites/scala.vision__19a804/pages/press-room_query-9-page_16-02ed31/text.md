@@ -1,18 +1,2 @@
-Mike Scala in His Own Words
-- 05.14 2026 Op-Ed: The Return of Democracy
-- 04.23 2026 Op-Ed: When Politics Becomes Politricks
-News & Media Coverage
-- February 24, 2016
-- February 19, 2016
-- February 18, 2016
-- September 14, 2015
-- December 12, 2014
-- November 28, 2014
-- October 16, 2014
-- August 28, 2014
-- July 25, 2014
-- July 24, 2014
-- April 24, 2014
-- March 19, 2014
-- January 16, 2014
-- December 21, 2012
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 05.14 2026 Op-Ed: The Return of Democracy 04.23 2026 Op-Ed: When Politics Becomes Politricks 03.26 2026 Close the Loophole That Shortchanges Our Workers Next Page News & Media Coverage February 24, 2016 Letters to the Editor February 19, 2016 Mayor’s Proposed Streetcars Might Hurt Streets and Cars February 18, 2016 Mayor offers some more detail on BQX streetcar project September 14, 2015 Queens Transit Advocates Rally Against Select Bus Service December 12, 2014 Beachcomber November 28, 2014 Stuck Bridge Points To Peninsula Problem October 16, 2014 QueensWay Draws Raves, but Some Still Oppose Park Plan August 28, 2014 Queens Transit Meeting Report, page 26 July 25, 2014 FERRY FERRY DEAD July 24, 2014 Queens Transit Meeting Report, page 6 April 24, 2014 Fight for the Rockaway Beach Branch March 19, 2014 Rally For Reactivation Of Rockaway Beach Line March 13, 2014 ‘Drive-by’ Rallies Urge Support for Reactivating Queens Rail Line January 16, 2014 Composting On The Way December 21, 2012 It’s My Turn Previous Page 1 … 14 15 16 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

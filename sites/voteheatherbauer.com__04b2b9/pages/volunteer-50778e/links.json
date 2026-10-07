@@ -1,11 +1,38 @@
 [
-"https://facebook.com/HeatherBauerforSC",
-"https://instagram.com/Heatherbauerforsc",
-"https://secure.actblue.com/donate/heather4thehouse",
-"https://voteheatherbauer.com/",
-"https://voteheatherbauer.com/about",
-"https://voteheatherbauer.com/accomplishments",
-"https://voteheatherbauer.com/news",
-"https://voteheatherbauer.com/volunteer",
-"https://voteheatherbauer.com/yard-sign"
+{
+"text": "About",
+"href": "https://voteheatherbauer.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://voteheatherbauer.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heather4thehouse"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/HeatherBauerforSC"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/Heatherbauerforsc/"
+},
+{
+"text": "News",
+"href": "https://voteheatherbauer.com/news"
+},
+{
+"text": "Volunteer",
+"href": "https://voteheatherbauer.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://voteheatherbauer.com/yard-sign/"
+},
+{
+"text": "[image: Vote Heather Bauer]",
+"href": "https://voteheatherbauer.com/"
+}
 ]

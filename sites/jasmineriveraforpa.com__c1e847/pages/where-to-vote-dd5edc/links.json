@@ -1,17 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61557782829550",
-"https://jasmineriveraforpa.com/",
-"https://jasmineriveraforpa.com/?lang=sp",
-"https://jasmineriveraforpa.com/contact-us",
-"https://jasmineriveraforpa.com/donate",
-"https://jasmineriveraforpa.com/golf",
-"https://jasmineriveraforpa.com/join-jasmine-rivera-for-pa",
-"https://jasmineriveraforpa.com/meet-the-candidate",
-"https://jasmineriveraforpa.com/on-the-issues",
-"https://jasmineriveraforpa.com/public-events",
-"https://jasmineriveraforpa.com/volunteer",
-"https://jasmineriveraforpa.com/voter-registration",
-"https://jasmineriveraforpa.com/where-to-vote",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx?msclkid=c203092bcf9111ec9605cfb109d03e2a",
-"https://sunkentreasuredesign.com/"
+{
+"text": "CLICK HERE TO FIND YOUR POLLING PLACE",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.jasmineriveraforpa.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://www.jasmineriveraforpa.com/donate"
+},
+{
+"text": "GOLF OUTING",
+"href": "https://www.jasmineriveraforpa.com/golf"
+},
+{
+"text": "HOME",
+"href": "https://www.jasmineriveraforpa.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://www.jasmineriveraforpa.com/join-jasmine-rivera-for-pa"
+},
+{
+"text": "MEET THE CANDIDATE",
+"href": "https://www.jasmineriveraforpa.com/meet-the-candidate"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.jasmineriveraforpa.com/on-the-issues"
+},
+{
+"text": "PUBLIC EVENTS",
+"href": "https://www.jasmineriveraforpa.com/public-events"
+},
+{
+"text": "Sunken Treasure Design",
+"href": "https://www.sunkentreasuredesign.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.jasmineriveraforpa.com/volunteer"
+},
+{
+"text": "VOTER REG",
+"href": "https://www.jasmineriveraforpa.com/voter-registration"
+},
+{
+"text": "Ver en espa�ol",
+"href": "https://www.jasmineriveraforpa.com/?lang=sp"
+},
+{
+"text": "WHERE TO VOTE",
+"href": "https://www.jasmineriveraforpa.com/where-to-vote"
+},
+{
+"text": "[tooltip: Email Us]",
+"href": "mailto:Jasmineriveraforpa@gmail.com"
+},
+{
+"text": "[tooltip: FaceBook]",
+"href": "https://www.facebook.com/profile.php?id=61557782829550"
+}
 ]

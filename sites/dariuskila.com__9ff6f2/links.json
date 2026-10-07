@@ -1,11 +1,62 @@
 [
-"https://dariuskila.com/",
-"https://dariuskila.com/author/aveda_3skt1g",
-"https://dariuskila.com/privacy",
-"https://dariuskila.com/privacy-policy",
-"https://dariuskila.com/terms-and-conditions",
-"https://facebook.com/darius.kila",
-"https://instagram.com/dariuskila44",
-"https://instagram.com/dariuskila44?hl=en",
-"https://secure.actblue.com/donate/dariuskila"
+{
+"text": "About",
+"href": "https://dariuskila.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://dariuskila.com/#contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/dariuskila"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dariuskila"
+},
+{
+"text": "Issues",
+"href": "https://dariuskila.com/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dariuskila.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dariuskila.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://dariuskila.com/#record"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://dariuskila.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://dariuskila.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/darius.kila/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/dariuskila44"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/dariuskila44/?hl=en"
+},
+{
+"text": "aveda_3skt1g",
+"href": "https://dariuskila.com/author/aveda_3skt1g/"
+},
+{
+"text": "darius@dariuskila.com",
+"href": "mailto:darius@dariuskila.com"
+}
 ]

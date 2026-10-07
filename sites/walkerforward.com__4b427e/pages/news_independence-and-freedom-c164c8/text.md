@@ -1,5 +1,4 @@
-Independence and Freedom
-250 years ago members of my family helped found this great Nation.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Independence and Freedom Jul 3 Written By Brian Walker #ago members of my family helped found this great Nation.
 The first Walker in my family to be born in the new world was Thomas Walker born in 1654.
 According to several family tree websites, I am also a descendent of the Lee Family of Virginia, which means I had two members of my family sign the Declaration of Independence.
 Take some time to think about what fighting for freedom looked like back then.
@@ -41,4 +40,8 @@ I can make sure that you have a voice in St.
 Paul from someone that wants to represent the entire community.
 With that, I hope all of you have a great 4th of July, Independence Day.
 Be safe and say hi when you see me out and about.
-Brian Walker
+Brian Walker Brian Walker Previous Previous Showboating vs. the Truth Next Next More Worry Over the Locker Room Than the Game Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

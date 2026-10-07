@@ -1,18 +1,2 @@
-top of page
-ALEXIS HANSEN IS PROUD
-TO BE ENDORSED BY
-a
-SENATOR DON GUSTAVSON
-Demar Dahl
-Elko County Commissioner
-Chair,
-Nevada Land Management Task Force
-RATING
-Washoe county republican assembly
-"The Right side of the Republican party"
-ASSOCIATED GENERAL CONTRACTORS OF AMERICA
-RICK REVIGLIO, CEO
-WESTERN NEVADA SUPPLY
-Nevada republican assembly
-National Federation of Independent Business
-bottom of page
+top of page lexis Hansen for Nevada A Assembly District 32 DONATE HOME ABOUT ALEXIS ISSUES MEET THE FAMILY ENDORSEMENTS More Use tab to navigate through the menu items.
+ALEXIS HANSEN IS PROUD TO BE ENDORSED BY a SENATOR DON GUSTAVSON Demar Dahl Elko County Commissioner Chair, Nevada Land Management Task Force RATING Washoe county republican assembly "The Right side of the Republican party" ASSOCIATED GENERAL CONTRACTORS OF AMERICA RICK REVIGLIO, CEO WESTERN NEVADA SUPPLY Nevada republican assembly National Federation of Independent Business alexishansenNV@gmail.com ASSEMBLY DISTRICT 32 ©# by Committee to Elect Alexis Hansen. bottom of page

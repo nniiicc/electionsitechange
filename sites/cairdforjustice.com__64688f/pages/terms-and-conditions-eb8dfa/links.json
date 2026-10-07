@@ -1,10 +1,50 @@
 [
-"https://cairdforjustice.com/",
-"https://cairdforjustice.com/about",
-"https://cairdforjustice.com/contact",
-"https://cairdforjustice.com/get-involved",
-"https://cairdforjustice.com/terms-and-conditions",
-"https://facebook.com/people/Jessica-Caird-for-Judge/61569103419341",
-"https://linkedin.com/in/jessica-caird-400692b",
-"https://secure.anedot.com/caird-for-justice/donate"
+{
+"text": "About",
+"href": "https://www.cairdforjustice.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.cairdforjustice.com/about"
+},
+{
+"text": "Click here to go to",
+"href": "https://secure.anedot.com/caird-for-justice/donate"
+},
+{
+"text": "Contact",
+"href": "https://www.cairdforjustice.com/contact"
+},
+{
+"text": "Donations",
+"href": "https://www.cairdforjustice.com/terms-and-conditions"
+},
+{
+"text": "FOR JUSTICE",
+"href": "https://www.cairdforjustice.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cairdforjustice.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cairdforjustice.com/terms-and-conditions"
+},
+{
+"text": "JESSICA CAIRD",
+"href": "https://www.cairdforjustice.com"
+},
+{
+"text": "Jessica.caird.election@gmail.com",
+"href": "mailto:Jessica.caird.election@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Jessica-Caird-for-Judge/61569103419341/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/jessica-caird-400692b"
+}
 ]

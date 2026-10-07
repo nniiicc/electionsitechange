@@ -1,10 +1,2 @@
-tamara bavendam believes in
-Supporting Working People
-- Pro Union
-- End tax on necessities (food, hygiene, and school supplies)
-- Promote workforce and vocational development
-- Raise the minimum wage
-- Free childcare
-- Expand family and medical leave
-- Improve public transportation
-- Increase funding for affordable housing
+Skip navigation menu Home About Issues News Endorsements Events Volunteer Contact Vote Donate Home About Issues News Endorsements Events Volunteer Contact Vote Donate Strong Public Education Supporting Family Farms Supporting Working People Supporting our Senior Citizens Supporting our Veterans Affordable Healthcare for ALL tamara bavendam believes in Supporting Working People Pro Union End tax on necessities (food, hygiene, and school supplies) Promote workforce and vocational development Raise the minimum wage Free childcare Expand family and medical leave Improve public transportation Increase funding for affordable housing Have any questions?
+Email us at campaign@bavendam4robco.com Powered by RUN! website builder Paid For By Citizens For Tamara, Donna Lewis Treasurer You need to enable JavaScript to run this app.

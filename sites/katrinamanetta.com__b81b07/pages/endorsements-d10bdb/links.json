@@ -1,106 +1,402 @@
 [
-"http://wcsubchapter38.com/",
-"https://aftmichigan.org/",
-"https://americanpeoplescompact.org/",
-"https://americanpeoplescompact.org/_files/ugd/07ac86_c2844159cfa94fa9936253347658c544.pdf",
-"https://americanpromise.net/",
-"https://americanpromise.net/sign-the-pledge",
-"https://committeetoprotect.org/",
-"https://couragefordemocracy.com/",
-"https://couragefordemocracy.com/take-the-state-candidate-pledge",
-"https://cwad4.org/",
-"https://detroitaction.org/",
-"https://dlcc.org/",
-"https://emgageaction.org/",
-"https://emilyslist.org/",
-"https://endgunviolencemi-action.org/",
-"https://equalitymiaction.org/",
-"https://facebook.com/profile.php?id=61587009242659",
-"https://femsfordems.org/",
-"https://greaterthanpac.org/",
-"https://herboldmove.org/",
-"https://ibew58.org/en",
-"https://instagram.com/katrinamanetta?hl=en",
-"https://ironworkers25.org/",
-"https://janepac.com/",
-"https://katrinamanetta.com/",
-"https://katrinamanetta.com/about",
-"https://katrinamanetta.com/accessibility-statement",
-"https://katrinamanetta.com/am/endorsements",
-"https://katrinamanetta.com/ar/endorsements",
-"https://katrinamanetta.com/bn/endorsements",
-"https://katrinamanetta.com/bs/endorsements",
-"https://katrinamanetta.com/contact",
-"https://katrinamanetta.com/cookie-policy",
-"https://katrinamanetta.com/cs/endorsements",
-"https://katrinamanetta.com/de/endorsements",
-"https://katrinamanetta.com/el/endorsements",
-"https://katrinamanetta.com/endorsements",
-"https://katrinamanetta.com/es/endorsements",
-"https://katrinamanetta.com/fa/endorsements",
-"https://katrinamanetta.com/fr/endorsements",
-"https://katrinamanetta.com/gu-in/endorsements",
-"https://katrinamanetta.com/hi/endorsements",
-"https://katrinamanetta.com/hmn/endorsements",
-"https://katrinamanetta.com/hr/endorsements",
-"https://katrinamanetta.com/issues",
-"https://katrinamanetta.com/it/endorsements",
-"https://katrinamanetta.com/ja/endorsements",
-"https://katrinamanetta.com/kmr/endorsements",
-"https://katrinamanetta.com/ko/endorsements",
-"https://katrinamanetta.com/ku/endorsements",
-"https://katrinamanetta.com/media-coverage",
-"https://katrinamanetta.com/mk/endorsements",
-"https://katrinamanetta.com/mr/endorsements",
-"https://katrinamanetta.com/mt/endorsements",
-"https://katrinamanetta.com/pa/endorsements",
-"https://katrinamanetta.com/pl/endorsements",
-"https://katrinamanetta.com/press-releases",
-"https://katrinamanetta.com/privacy-policy",
-"https://katrinamanetta.com/prs/endorsements",
-"https://katrinamanetta.com/ps/endorsements",
-"https://katrinamanetta.com/pt-br/endorsements",
-"https://katrinamanetta.com/pt-pt/endorsements",
-"https://katrinamanetta.com/ro/endorsements",
-"https://katrinamanetta.com/ru/endorsements",
-"https://katrinamanetta.com/rw/endorsements",
-"https://katrinamanetta.com/sd/endorsements",
-"https://katrinamanetta.com/sk/endorsements",
-"https://katrinamanetta.com/so/endorsements",
-"https://katrinamanetta.com/sq/endorsements",
-"https://katrinamanetta.com/sr/endorsements",
-"https://katrinamanetta.com/subscribe",
-"https://katrinamanetta.com/sw/endorsements",
-"https://katrinamanetta.com/ta/endorsements",
-"https://katrinamanetta.com/te/endorsements",
-"https://katrinamanetta.com/terms-conditions",
-"https://katrinamanetta.com/ti/endorsements",
-"https://katrinamanetta.com/tl/endorsements",
-"https://katrinamanetta.com/tr/endorsements",
-"https://katrinamanetta.com/uk/endorsements",
-"https://katrinamanetta.com/ur/endorsements",
-"https://katrinamanetta.com/vi/endorsements",
-"https://katrinamanetta.com/vote",
-"https://katrinamanetta.com/zh-hans/endorsements",
-"https://katrinamanetta.com/zh-hant/endorsements",
-"https://leaderswedeserve.com/",
-"https://mentalhealthnow.us/",
-"https://mentalhealthnow.us/statement-of-support",
-"https://miafscme.org/",
-"https://michiganlcv.org/",
-"https://michiganlcv.org/actions/tell-your-lawmaker-take-the-no-utility-money-challenge",
-"https://micollegedems.org/eastern-michigan-dems",
-"https://micollegedems.org/ou-dems",
-"https://milist.org/",
-"https://mobilize.us/katrinamanetta",
-"https://mobilize.us/katrinamanetta/event/892052",
-"https://movetoamend.org/",
-"https://movetoamend.org/pledge-amend",
-"https://nofossilfuelmoney.org/",
-"https://nofossilfuelmoney.org/politician-signup",
-"https://secure.numero.ai/contribute/Chip-in-and-help-flip-HD-58-b4f52fd1-7cdd-49a9-bd1c-6b78117c960b",
-"https://shyft.wtf/",
-"https://store.katrinamanetta.com/",
-"https://threads.com/@katrinamanetta",
-"https://youtube.com/@katrinamanetta"
+{
+"text": "About",
+"href": "https://katrinamanetta.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://katrinamanetta.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Chip-in-and-help-flip-HD-58-b4f52fd1-7cdd-49a9-bd1c-6b78117c960b"
+},
+{
+"text": "Endorsements",
+"href": "https://katrinamanetta.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/katrinamanetta/"
+},
+{
+"text": "Home",
+"href": "https://katrinamanetta.com/"
+},
+{
+"text": "Issues",
+"href": "https://katrinamanetta.com/issues/"
+},
+{
+"text": "Media Coverage",
+"href": "https://katrinamanetta.com/media-coverage/"
+},
+{
+"text": "News",
+"href": "https://katrinamanetta.com/press-releases/"
+},
+{
+"text": "Read the Compact",
+"href": "https://www.americanpeoplescompact.org/_files/ugd/07ac86_c2844159cfa94fa9936253347658c544.pdf"
+},
+{
+"text": "Read the Pledge",
+"href": "https://americanpromise.net/sign-the-pledge/"
+},
+{
+"text": "Read the Pledge",
+"href": "https://couragefordemocracy.com/take-the-state-candidate-pledge/"
+},
+{
+"text": "Read the Pledge",
+"href": "https://mentalhealthnow.us/statement-of-support/"
+},
+{
+"text": "Read the Pledge",
+"href": "https://nofossilfuelmoney.org/politician-signup/"
+},
+{
+"text": "Read the Pledge",
+"href": "https://www.michiganlcv.org/actions/tell-your-lawmaker-take-the-no-utility-money-challenge/"
+},
+{
+"text": "Read the Pledge",
+"href": "https://www.movetoamend.org/pledge-amend"
+},
+{
+"text": "Store",
+"href": "https://store.katrinamanetta.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://katrinamanetta.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/katrinamanetta/event/892052/"
+},
+{
+"text": "Vote",
+"href": "https://katrinamanetta.com/vote/"
+},
+{
+"text": "[image: A blue graphic of stacked speech bubbles spelling “I ❤️ love” on a black background.]",
+"href": "https://www.herboldmove.org/"
+},
+{
+"text": "[image: A campaign graphic with bold white text reading 'END GUN VIOLENCE MICHIGAN ACTION' over an orange stripe on a gray background, with a white Michigan silhouette above the text.]",
+"href": "https://www.endgunviolencemi-action.org/"
+},
+{
+"text": "[image: A circular logo featuring a blue silhouette of a bear on a dark blue background. The top text reads \"COLLEGE DEMOCRATS\" in bold, white letters, with three red stars above it. At the bottom, the text \"OF OAKLAND\" is displayed in smaller black letters.]",
+"href": "https://www.micollegedems.org/ou-dems"
+},
+{
+"text": "[image: A graphic logo featuring a red medical cross with three stars inside it, accompanied by the text 'COMMITTEE TO PROTECT HEALTH CARE' in bold blue lettering, emphasizing a focus on healthcare advocacy.]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: A graphic logo featuring the words \"DETROIT ACTION\" in bold orange letters with blue accents. The design includes a shield outline with geometric shapes and an upward arrow, emphasizing action and movement.]",
+"href": "https://detroitaction.org/"
+},
+{
+"text": "[image: A logo for EMGAGE ACTION featuring the name 'EMGAGE' in red and white letters on a blue background, with 'ACTION' in red below it. The letters have varying heights, creating a dynamic visual effect.]",
+"href": "https://emgageaction.org/"
+},
+{
+"text": "[image: EMILYs List logo]",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "[image: Illustrated woman in a hat and sunglasses raises one arm inside a yellow circle, with the partial text “CLIMATE PAC” on a black background.]",
+"href": "https://www.janepac.com/"
+},
+{
+"text": "[image: Iron Workers 25 logo with crossed wrenches, American flags, and a large stylized letter A on a black background.]",
+"href": "https://www.ironworkers25.org/"
+},
+{
+"text": "[image: Purple and orange text reading \"LEADERS WE DESERVE\" on a black background.]",
+"href": "https://leaderswedeserve.com/"
+},
+{
+"text": "[image: Red CWA letters in a bold logo with a red underline on a black background.]",
+"href": "https://cwad4.org/"
+},
+{
+"text": "[image: Text-based graphic featuring the name \"Katrina\" in a bold, blue font at the top, with the word \"candidates\" in a larger, white font below, and the phrase \"for state rep\" in blue below that, all on a transparent background.]",
+"href": "https://katrinamanetta.com"
+},
+{
+"text": "[image: The DLCC Democratic Legislative Campaign Committee logo in dark blue with a red and navy star graphic on a black background.]",
+"href": "https://www.dlcc.org/"
+},
+{
+"text": "[image: The green AFSCME Retirees logo in a circular badge on a white background, with blue dots on either side.]",
+"href": "http://www.wcsubchapter38.com/"
+},
+{
+"text": "[image: Three overlapping blue and teal circles forming a simple abstract icon on a black background.]",
+"href": "https://www.greaterthanpac.org/"
+},
+{
+"text": "[image]",
+"href": "https://aftmichigan.org/"
+},
+{
+"text": "[image]",
+"href": "https://americanpromise.net/"
+},
+{
+"text": "[image]",
+"href": "https://couragefordemocracy.com/"
+},
+{
+"text": "[image]",
+"href": "https://equalitymiaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://ibew58.org/en"
+},
+{
+"text": "[image]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image]",
+"href": "https://miafscme.org/"
+},
+{
+"text": "[image]",
+"href": "https://milist.org/"
+},
+{
+"text": "[image]",
+"href": "https://nofossilfuelmoney.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.americanpeoplescompact.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.femsfordems.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.michiganlcv.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.micollegedems.org/eastern-michigan-dems"
+},
+{
+"text": "[image]",
+"href": "https://www.movetoamend.org/"
+},
+{
+"text": "[image]Bosanski (Bosnian)",
+"href": "https://katrinamanetta.com/bs/endorsements/"
+},
+{
+"text": "[image]Deutsch (German)",
+"href": "https://katrinamanetta.com/de/endorsements/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://katrinamanetta.com/es/endorsements/"
+},
+{
+"text": "[image]Français (French)",
+"href": "https://katrinamanetta.com/fr/endorsements/"
+},
+{
+"text": "[image]Hmoob (Hmong)",
+"href": "https://katrinamanetta.com/hmn/endorsements/"
+},
+{
+"text": "[image]Hrvatski (Croatian)",
+"href": "https://katrinamanetta.com/hr/endorsements/"
+},
+{
+"text": "[image]Ikinyarwanda (Kinyarwanda)",
+"href": "https://katrinamanetta.com/rw/endorsements/"
+},
+{
+"text": "[image]Italiano (Italian)",
+"href": "https://katrinamanetta.com/it/endorsements/"
+},
+{
+"text": "[image]Kiswahili (Swahili)",
+"href": "https://katrinamanetta.com/sw/endorsements/"
+},
+{
+"text": "[image]Kurdî (Kurmancî) (Kurdish (Kurmanji))",
+"href": "https://katrinamanetta.com/kmr/endorsements/"
+},
+{
+"text": "[image]Malti (Maltese)",
+"href": "https://katrinamanetta.com/mt/endorsements/"
+},
+{
+"text": "[image]Polski (Polish)",
+"href": "https://katrinamanetta.com/pl/endorsements/"
+},
+{
+"text": "[image]Português (Brasil) (Portuguese (Brazil))",
+"href": "https://katrinamanetta.com/pt-br/endorsements/"
+},
+{
+"text": "[image]Português (Portugal) (Portuguese (Portugal))",
+"href": "https://katrinamanetta.com/pt-pt/endorsements/"
+},
+{
+"text": "[image]Română (Romanian)",
+"href": "https://katrinamanetta.com/ro/endorsements/"
+},
+{
+"text": "[image]Shqip (Albanian)",
+"href": "https://katrinamanetta.com/sq/endorsements/"
+},
+{
+"text": "[image]Slovenčina (Slovak)",
+"href": "https://katrinamanetta.com/sk/endorsements/"
+},
+{
+"text": "[image]Soomaali (Somali)",
+"href": "https://katrinamanetta.com/so/endorsements/"
+},
+{
+"text": "[image]Tagalog",
+"href": "https://katrinamanetta.com/tl/endorsements/"
+},
+{
+"text": "[image]Tiếng Việt (Vietnamese)",
+"href": "https://katrinamanetta.com/vi/endorsements/"
+},
+{
+"text": "[image]Türkçe (Turkish)",
+"href": "https://katrinamanetta.com/tr/endorsements/"
+},
+{
+"text": "[image]Čeština (Czech)",
+"href": "https://katrinamanetta.com/cs/endorsements/"
+},
+{
+"text": "[image]Ελληνικά (Greek)",
+"href": "https://katrinamanetta.com/el/endorsements/"
+},
+{
+"text": "[image]Македонски (Macedonian)",
+"href": "https://katrinamanetta.com/mk/endorsements/"
+},
+{
+"text": "[image]Русский (Russian)",
+"href": "https://katrinamanetta.com/ru/endorsements/"
+},
+{
+"text": "[image]Српски (Serbian)",
+"href": "https://katrinamanetta.com/sr/endorsements/"
+},
+{
+"text": "[image]Українська (Ukrainian)",
+"href": "https://katrinamanetta.com/uk/endorsements/"
+},
+{
+"text": "[image]اردو (Urdu)",
+"href": "https://katrinamanetta.com/ur/endorsements/"
+},
+{
+"text": "[image]العربية (Arabic)",
+"href": "https://katrinamanetta.com/ar/endorsements/"
+},
+{
+"text": "[image]دری (Dari)",
+"href": "https://katrinamanetta.com/prs/endorsements/"
+},
+{
+"text": "[image]سنڌي (Sindhi)",
+"href": "https://katrinamanetta.com/sd/endorsements/"
+},
+{
+"text": "[image]فارسی (Persian)",
+"href": "https://katrinamanetta.com/fa/endorsements/"
+},
+{
+"text": "[image]پښتو (Pashto)",
+"href": "https://katrinamanetta.com/ps/endorsements/"
+},
+{
+"text": "[image]کوردی (سۆرانی) (Kurdish (Sorani))",
+"href": "https://katrinamanetta.com/ku/endorsements/"
+},
+{
+"text": "[image]मराठी (Marathi)",
+"href": "https://katrinamanetta.com/mr/endorsements/"
+},
+{
+"text": "[image]हिन्दी (Hindi)",
+"href": "https://katrinamanetta.com/hi/endorsements/"
+},
+{
+"text": "[image]বাংলা (Bengali)",
+"href": "https://katrinamanetta.com/bn/endorsements/"
+},
+{
+"text": "[image]ਪੰਜਾਬੀ (Punjabi)",
+"href": "https://katrinamanetta.com/pa/endorsements/"
+},
+{
+"text": "[image]ગુજરાતી (Gujarati)",
+"href": "https://katrinamanetta.com/gu-in/endorsements/"
+},
+{
+"text": "[image]தமிழ் (Tamil)",
+"href": "https://katrinamanetta.com/ta/endorsements/"
+},
+{
+"text": "[image]తెలుగు (Telugu)",
+"href": "https://katrinamanetta.com/te/endorsements/"
+},
+{
+"text": "[image]ትግርኛ (Tigrinya)",
+"href": "https://katrinamanetta.com/ti/endorsements/"
+},
+{
+"text": "[image]አማርኛ (Amharic)",
+"href": "https://katrinamanetta.com/am/endorsements/"
+},
+{
+"text": "[image]日本語 (Japanese)",
+"href": "https://katrinamanetta.com/ja/endorsements/"
+},
+{
+"text": "[image]简体中文 (Chinese (Simplified))",
+"href": "https://katrinamanetta.com/zh-hans/endorsements/"
+},
+{
+"text": "[image]繁體中文 (Chinese (Traditional))",
+"href": "https://katrinamanetta.com/zh-hant/endorsements/"
+},
+{
+"text": "[image]한국어 (Korean)",
+"href": "https://katrinamanetta.com/ko/endorsements/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587009242659"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/katrinamanetta/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@katrinamanetta"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@katrinamanetta"
+}
 ]

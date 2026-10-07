@@ -1,24 +1,14 @@
-Robert Brackett
-State Representative
-WHAT I BELIEVE
-I believe we must plan for our future while maintaining the integrity of all our communities.
+Meet State Representative Robert Brackett GET TO KNOW ROBERT I’m running for State Representative because I want to ensure that children growing up here today have the opportunity to come back to our communities to raise a family and earn a living.
+In order to do that, our local economies must be vibrant.
+My experience as Mayor of Vero Beach and my family roots throughout this region make me uniquely qualified to represent our district in the Florida House of Representatives.
+Robert Brackett State Representative WHAT I BELIEVE I believe we must plan for our future while maintaining the integrity of all our communities.
 I believe Government has a few necessary responsibilities.
 We must keep our residents safe, and support our law enforcement community.
 First responders are the last line of defense between residents and harm’s way, and we must respect that and support them.
 We also have a responsibility to maintain our roads and infrastructure.
 We live in a wonderful part of the state, but there is always room for improvement.
-EXPERIENCE & BACKGROUND
-• Mayor of Vero Beach
-• Lipscomb University Graduate
-• Credit Data Services – Director
-• Edge Information Services – Managing Partner
-• Brackett Family Foundation – Chair
-• Brackett Family Limited Partnership – Partner
-• Indian River Charter High School – Board of Directors
-• Lipscomb University – Board of Trustees
-• Professional Services Advisory Board of Indian River County – Former Member
-• Florida High School Athletic Association (FHSAA) – Official for over 20 years
-• Beach and Shore Preservation Committee – Member
-• IRC Republican Executive Committee – Member
-• Master’s Academy – Assistant Football Coach
-• Married to wife, Samantha, with three daughters
+EXPERIENCE & BACKGROUND • Mayor of Vero Beach • Lipscomb University Graduate • Credit Data Services – Director • Edge Information Services – Managing Partner • Brackett Family Foundation – Chair • Brackett Family Limited Partnership – Partner • Indian River Charter High School – Board of Directors • Lipscomb University – Board of Trustees • Professional Services Advisory Board of Indian River County – Former Member • Florida High School Athletic Association (FHSAA) – Official for over 20 years • Beach and Shore Preservation Committee – Member • IRC Republican Executive Committee – Member • Master’s Academy – Assistant Football Coach • Married to wife, Samantha, with three daughters FOLLOW & CONTACT Previous Next STAND WITH ROBERT Please show your support for Robert Brackett so he may continue to fight the good fight in Tallahassee!
+STAND WITH ROBERT ROBERT BRACKETT IS ENDORSED BY...
+Sheriff Wayne Ivey Brevard County Sheriff Tom Bakkedahl State Attorney 19th Judicial Circuit Jeff Smith Clerk of Court Indian River County Carole Jean Jordan Tax Collector Indian River County Wesley Davis Property Appraiser Indian River County Eric Flowers Sheriff Indian River County Joe Flescher Commissioner Indian River County Peter O'BrYAn Commissioner Indian River County david currey Chief of Police Vero Beach Police Department Diamond Litty Public Defender 19th Judicial Circuit Court Rich Del Toro Assistant Chief Port St.
+Lucie Police Department Candidate for St.
+Lucie County Sheriff Paul Alfrey Mayor City of Melbourne Jim Hill Mayor City of Sebastian Previous Next Jim and Patty Sullivan Sebastian Community Leaders Professional Firefighters and Paramedics Indian River County Senior Airman Stephen Hume Retired US Air Force Veteran Elite Guard Special Security Colonel Carlos Holcomb Retired US Air Force Veteran Jim Romanek Former Executive Director Veterans Council of IRC Gene Waddell Chairman Indian River County Charter High School Jennifer Pippin Community Leader and Advocate of School Choice and Parental Rights Colonel Marty Zickert Former Chairman Veterans Council IRC Retired US Air Force Veteran Harry Howle Former Mayor City of Vero Beach Fred Jones Vice Mayor City of Sebastian Cynthia Aversa Director Indian River County Charter High School Sargeant John Michael Matthews Retired US Marine Corps Veteran SHARE ON SOCIAL MEDIA MEET ROBERT | THE ISSUES | VOLUNTEER | CONTACT © Copyright #-# - All Rights Reserved Paid by Robert Brackett, Republican, for State Representative Powered by The Front Line Agency STAND WITH ROBERT AND SUPPORT THE CAMPAIGN Home Meet Robert The Issues Experience Volunteer CONTRIBUTIONS

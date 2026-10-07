@@ -1,5 +1,14 @@
 [
-"https://alaniformt.com/{{ al.href }}",
-"https://alaniformt.com/{{ card.moreUrl }}",
-"https://alaniformt.com/{{ cc.href }}"
+{
+"text": "{{ al.title }}› in {{ al.homeH }}",
+"href": "https://alaniformt.com/%7B%7B%20al.href%20%7D%7D"
+},
+{
+"text": "{{ card.moreLabel }}",
+"href": "https://alaniformt.com/%7B%7B%20card.moreUrl%20%7D%7D"
+},
+{
+"text": "{{ cc.h }}{{ cc.sub }}{{ cc.count }} topics ›",
+"href": "https://alaniformt.com/%7B%7B%20cc.href%20%7D%7D"
+}
 ]

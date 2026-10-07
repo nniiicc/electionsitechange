@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61589057187148",
-"https://instagram.com/electstacywilloughby",
-"https://secure.anedot.com/elect-stacy-willoughby/stacy-for-12th-ld",
-"https://stacyforhouse.com/",
-"https://stacyforhouse.com/endorsements",
-"https://stacyforhouse.com/home-1",
-"https://stacyforhouse.com/home-2",
-"https://stacyforhouse.com/home-3",
-"https://stacyforhouse.com/home-4",
-"https://stacyforhouse.com/privacy",
-"https://stacyforhouse.com/terms"
+{
+"text": "CONTACT US",
+"href": "mailto:info@stacyforhouse.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/elect-stacy-willoughby/stacy-for-12th-ld"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stacyforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.stacyforhouse.com/home-4"
+},
+{
+"text": "Home",
+"href": "https://www.stacyforhouse.com"
+},
+{
+"text": "Meet Stacy",
+"href": "https://www.stacyforhouse.com/home-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.stacyforhouse.com/home-2"
+},
+{
+"text": "Privacy",
+"href": "https://www.stacyforhouse.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://www.stacyforhouse.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stacyforhouse.com/home-3"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61589057187148"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electstacywilloughby/"
+},
+{
+"text": "electstacywilloughby@gmail.com",
+"href": "mailto:electstacywilloughby@gmail.com"
+}
 ]

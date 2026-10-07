@@ -1,6 +1,5 @@
-↑ For up-to-the-minute news about Marty’s campaign, visit his social media sites.
-About Martin McLaughlin
-Martin McLaughlin announced his candidacy to run for a third term for the 52nd District in the Illinois General Assembly.
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page Follow Follow Follow ↑ For up-to-the-minute news about Marty’s campaign, visit his social media sites.
+About Martin McLaughlin Martin McLaughlin announced his candidacy to run for a third term for the 52nd District in the Illinois General Assembly.
 McLaughlin was the Village President of Barrington Hills, a small business professional, and a financial expert who has brought his direct no nonsense approach and private sector experience to Springfield during his time in office.
 “Someone has to stick up for taxpayers and small businesses whose backs are breaking, carrying the ever-increasing tax burdens placed upon them by Springfield and local taxing bodies.
 We need to move back to a time when our tax dollars were spent wisely, doing more with less.
@@ -20,5 +19,9 @@ Martin was raised in the fox river valley region, worked his way through college
 He holds several securities licenses and is a small business owner.
 He and his wife are blessed with 5 daughters and one grandson.
 For many years Martin volunteered with the Lion’s Club, coached youth sports and still plays competitive Baggo.
-Martin McLaughlin
-For State Representative
+Martin McLaughlin For State Representative I will go to bat to protect our taxpayers.
+We can fix our state; but it will require bold measures.
+I have led by example, and I will continue to hold politicians accountable as your State Representative on behalf of my neighbors in the 52nd District.
+Martin McLaughlin Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

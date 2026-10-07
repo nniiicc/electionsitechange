@@ -1,4 +1,5 @@
-The 2017 session proved to be what I believe is the beginning of real change in the Idaho legislature as debates and conversations are starting to shift in the right direction.
+Skip to content Rep.
+Heather Scott Idaho State Representative for District 2 Menu Home News & Updates Archived Updates Issues Abortion COVID CPS ⇨ Gender / Birth Certificates Silicon Smelter Gov 101 Rules & Regulations Maps Photos Contact BILLS ⇨ Facebook Twitter RSS The End of the 2017 House Session The 2017 session proved to be what I believe is the beginning of real change in the Idaho legislature as debates and conversations are starting to shift in the right direction.
 More legislators are beginning to question the agendas and motives behind bills and policy in an attempt to expose top down centralized planning and crony capitalism at the expense of the citizen.
 We started three years ago with a few liberty legislators willing to speak out and stand up for citizens freedoms on the House floor.
 By the first week of the 2017 session that number had tripled.
@@ -16,19 +17,22 @@ Toward the last day of session, several of our bill ideas were unlocked from com
 While this may have appeased some, it is too little too late, and an unacceptable way to develop legislation.
 The current trend is to have a full committee hearing on nearly every proposed government agency or lobby bill while ignoring numerous bills proposed by individual liberty legislators.
 The Speaker of the House realizes there is a major problem with suppressing the voice of the people.
-So much so, he showed up at our Freedom Caucus meeting and, as quoted in the Post Register saying “…in a conciliatory tone to the Representatives present … ‘I understand your frustrations, and they’re real, and they’re valid, and perhaps it’s time to re-examine the level of control committee chairmen hold…'”
-One of the highlights for me this session was launching our new website called Growing Freedom for Idaho.
+So much so, he showed up at our Freedom Caucus meeting and, as quoted in the Post Register saying “…in a conciliatory tone to the Representatives present … ‘I understand your frustrations, and they’re real, and they’re valid, and perhaps it’s time to re-examine the level of control committee chairmen hold…'” One of the highlights for me this session was launching our new website called Growing Freedom for Idaho.
 This includes our Freedom Agenda bills which we plan to move through the system.
 The website provides an easy way for the average citizen to navigate through all of the House bills to see how they will affect their livelihoods if passed.
 It allows citizens to comment on these bills by directly linking them to the appropriate committee members who control the life or death of that bill.
 Our Website was a great success!
 We had over 17,000 views and over 4,200 users!
 By the end of session, we added two new pages, one to suggest freedom bill ideas and another to report potential government fraud, abuse and waste.
-You can view the website at www.GrowingFreedomforIdaho.com.
+You can view the website at www.GrowingFreedomforIdaho.com .
 Session ended last Wednesday and I attended the Bonneville County Lincoln Day before heading home.
 Their guest speaker was Judge Jeanine, from the Fox News show “Street Justice” She talked about illegal immigration and its impacts on American society.
 Over 800 people attended this event which made it one of the largest Republican Lincoln Day events ever held in Idaho!
 I am honored to represent North Idaho District 1 citizens in Boise and look forward to another successful year!
-In Liberty,
-Rep.
+In Liberty, Rep.
+Heather Scott Author Rep.
+Heather Scott Posted on April 8, 2017 August 28, 2026 Categories Archive Tags Freedom Agenda Post navigation Previous Previous post: Session is almost over Next Next post: A Brief Update on Important Legislative Activities Search for: Search Recent Updates Summer Activities – Idaho Freedom Caucus July 21, 2023 Happy Independence Day!
+July 4, 2023 Merry Christmas!
+Happy New Year!
+December 23, 2022 Home News & Updates Archived Updates Issues Abortion COVID CPS ⇨ Gender / Birth Certificates Silicon Smelter Gov 101 Rules & Regulations Maps Photos Contact BILLS ⇨ Facebook Twitter RSS Copyright © # by Rep.
 Heather Scott

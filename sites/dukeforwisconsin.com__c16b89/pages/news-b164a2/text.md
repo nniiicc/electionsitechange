@@ -1,27 +1,20 @@
-by Admin01 | Nov 13, 2024 | News
-Grantsburg, WI – Duke Tucker extends his heartfelt thanks to the voters of Wisconsin’s 75th Assembly District for their support and trust in this election.
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District by Admin01 | Nov 13, 2024 | News Grantsburg, WI – Duke Tucker extends his heartfelt thanks to the voters of Wisconsin’s 75th Assembly District for their support and trust in this election.
 With your voices, we have succeeded in our mission, and it is with great honor that I step forward as your new...
-by Admin01 | Oct 4, 2024 | News
-I’m pleased to announce that I have been endorsed by the Wisconsin Farm Bureau Federation for my candidacy in the 2024 General Election for State Assembly.
+Wisconsin Farm Bureau Endorses Duke Tucker by Admin01 | Oct 4, 2024 | News I’m pleased to announce that I have been endorsed by the Wisconsin Farm Bureau Federation for my candidacy in the 2024 General Election for State Assembly.
 I’m from rural Wisconsin and I know how important family farms are to Western Wisconsin, which is...
-by Admin01 | Sep 16, 2024 | Events
-Please Join the Host Committee Senator Rob StafsholtJoel & Heidi HazzardPaul & Lisa RindeDoug & Katie RinehartAssociated Builders & Contractors For a fundraiser in support of Duke Tucker • WITH SPECIAL GUESTS • U.S.
+Fundraiser + Meet and Greet for Duke Tucker by Admin01 | Sep 16, 2024 | Events Please Join the Host Committee Senator Rob StafsholtJoel & Heidi HazzardPaul & Lisa RindeDoug & Katie RinehartAssociated Builders & Contractors For a fundraiser in support of Duke Tucker • WITH SPECIAL GUESTS • U.S.
 Senator Ron JohnsonSenator...
-by Admin01 | Aug 14, 2024 | News
-Grantsburg, WI – August 14, 2024 – Duke Tucker has emerged victorious in the Primary Election for Wisconsin’s 75th Assembly District.
+Duke Tucker Wins Primary Election for Wisconsin’s 75th Assembly District by Admin01 | Aug 14, 2024 | News Grantsburg, WI – August 14, 2024 – Duke Tucker has emerged victorious in the Primary Election for Wisconsin’s 75th Assembly District.
 Tucker, a dedicated advocate for conservative values in rural Wisconsin, extends his deepest gratitude to the voters and their...
-by Admin01 | Aug 5, 2024 | News
-Duke Tucker | Press ReleaseMonday, August 5, 2024 | 11:00 AM CDT [Grantsburg, Wis.] – Duke Tucker, a Republican from Grantsburg, WI launched his first campaign commercial for his run for State Assembly in the newly redrawn 75th Assembly District.
+Duke Tucker Launches His First Campaign Commercial by Admin01 | Aug 5, 2024 | News Duke Tucker | Press ReleaseMonday, August 5, 2024 | 11:00 AM CDT [Grantsburg, Wis.] – Duke Tucker, a Republican from Grantsburg, WI launched his first campaign commercial for his run for State Assembly in the newly redrawn 75th Assembly District.
 In it, Duke...
-by Admin01 | Jun 11, 2024 | Events, News
-Fundraiser Event for the 75th District Assembly Candidate, Duke Tucker!
+You’re Invited to a Fundraiser for Duke Tucker, Candidate for the 75th Assembly District by Admin01 | Jun 11, 2024 | Events , News Fundraiser Event for the 75th District Assembly Candidate, Duke Tucker!
 Wednesday, June 26, 2024, from 5-7 PM BIG ROCK CREEK (North of St.
 Croix Falls)1674 State Hwy 87 St.
 Croix Falls, WI Cash bar, sloppy joes, calico beans, and potato salad.Special Music is provided...
-by Admin01 | Apr 20, 2024 | Events, News
-[Grantsburg, Wis.] – April 18, 2024, Duke Tucker, a Republican from Grantsburg, WI held a campaign kick-off rally at Hummer’s Event Center for his run to represent the newly redrawn 75th Assembly District, which includes all of Polk and most of Burnett County....
-by Admin01 | Apr 18, 2024 | Events, News
-75th Assembly Republican CandidateDuke Tucker There is only one team to be on if you support: Strong Family & Community Values Wise Use of Hard-Earned Tax Dollars Limited & Accountable Government Educating to Employ – Trades Support Local Land Use Policy...
-by Admin01 | Mar 18, 2024 | News
-Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District.
+Duke Tucker holds campaign kick-off & rally for Wisconsin’s 75th State Assembly District by Admin01 | Apr 20, 2024 | Events , News [Grantsburg, Wis.] – April 18, 2024, Duke Tucker, a Republican from Grantsburg, WI held a campaign kick-off rally at Hummer’s Event Center for his run to represent the newly redrawn 75th Assembly District, which includes all of Polk and most of Burnett County....
+Campaign Kick-Off Rally by Admin01 | Apr 18, 2024 | Events , News 75th Assembly Republican CandidateDuke Tucker There is only one team to be on if you support: Strong Family & Community Values Wise Use of Hard-Earned Tax Dollars Limited & Accountable Government Educating to Employ – Trades Support Local Land Use Policy...
+Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District by Admin01 | Mar 18, 2024 | News Duke Tucker formally launches campaign for Wisconsin’s 75th State Assembly District.
 Duke Tucker | Press ReleaseMonday, March 18, 2024 | 12:00 PM CDT Grantsburg, Wis. – Today, Duke Tucker, a Republican from Grantsburg, WI formally launched his campaign for State...
+Search Search Recent Posts Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District Wisconsin Farm Bureau Endorses Duke Tucker Fundraiser + Meet and Greet for Duke Tucker Duke Tucker Wins Primary Election for Wisconsin’s 75th Assembly District Duke Tucker Launches His First Campaign Commercial Recent Comments No comments to show.
+Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

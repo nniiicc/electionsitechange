@@ -1,17 +1,82 @@
 [
-"https://facebook.com/whisler4carroll",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260521T173000%2F20260521T190000&text=Drive+for+Victory&details=%3Cimg+class%3D%22aligncenter+size-large+wp-image-524%22+src%3D%22https%3A%2F%2Fwhisler4delegate.com%2Fwp-content%2Fuploads%2F2026%2F04%2FFundraiser_Island_Green-791x1024.png%22+alt%3D%22Drive+for+Victory+Fundraiser%22+width%3D%22791%22+height%3D%221024%22+%2F%3E&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwhisler4delegate.com",
-"https://maps.google.com/maps?f=q&hl=en&q=1199+Pleasant+Valley+Road+South+Westminster+MD+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-21T17%3A30%3A00-04%3A00&enddt=2026-05-21T19%3A00%3A00-04%3A00&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&subject=Drive+for+Victory",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-21T17%3A30%3A00-04%3A00&enddt=2026-05-21T19%3A00%3A00-04%3A00&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&subject=Drive+for+Victory",
-"https://secure.winred.com/stevewhisler/donate-today",
-"https://technolegs.com/",
-"https://whisler4delegate.com/",
-"https://whisler4delegate.com/about-steve-whisler",
-"https://whisler4delegate.com/endorsements",
-"https://whisler4delegate.com/event/dewees-culver-fundraiser",
-"https://whisler4delegate.com/events",
-"https://whisler4delegate.com/press-and-news",
-"https://whisler4delegate.com/privacy-policy",
-"https://whisler4delegate.com/terms-of-service"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1199+Pleasant+Valley+Road+South+Westminster+MD+United+States"
+},
+{
+"text": "410.963.7066",
+"href": "tel:4109637066"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevewhisler/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://whisler4delegate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260521T173000%2F20260521T190000&text=Drive+for+Victory&details=%3Cimg+class%3D%22aligncenter+size-large+wp-image-524%22+src%3D%22https%3A%2F%2Fwhisler4delegate.com%2Fwp-content%2Fuploads%2F2026%2F04%2FFundraiser_Island_Green-791x1024.png%22+alt%3D%22Drive+for+Victory+Fundraiser%22+width%3D%22791%22+height%3D%221024%22+%2F%3E&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwhisler4delegate.com"
+},
+{
+"text": "Home",
+"href": "https://whisler4delegate.com/"
+},
+{
+"text": "Join Us On Social Media",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&subject=Drive+for+Victory&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A00%3A00-04%3A00&location=Island+Green%2C+1199+Pleasant+Valley+Road+South%2C+Westminster%2C+MD%2C+United+States&subject=Drive+for+Victory&body="
+},
+{
+"text": "Press and News",
+"href": "https://whisler4delegate.com/press-and-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whisler4delegate.com/privacy-policy/"
+},
+{
+"text": "Steve",
+"href": "https://whisler4delegate.com/about-steve-whisler/"
+},
+{
+"text": "Terms of Service",
+"href": "https://whisler4delegate.com/terms-of-service/"
+},
+{
+"text": "Website Design and Hosting by Technolegs",
+"href": "https://technolegs.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "iCalendar",
+"href": "webcal://whisler4delegate.com/event/drive-for-victory/?ical=1"
+},
+{
+"text": "steve@Whisler4Carroll.com",
+"href": "mailto:steve@Whisler4Carroll.com"
+},
+{
+"text": "« All Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "« DeWees / Culver Fundraiser",
+"href": "https://whisler4delegate.com/event/dewees-culver-fundraiser/"
+}
 ]

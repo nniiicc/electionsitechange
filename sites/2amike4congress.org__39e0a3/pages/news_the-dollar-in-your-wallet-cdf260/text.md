@@ -1,18 +1,15 @@
-The Dollar in Your Wallet
-Before you read another word, do something for me.
+MICHAEL STODDARD Libertarian · Utah 3rd District Issues Meet Mike Papers Library News Volunteer $ Melting Dollar Chip in → Chip in → Menu MICHAEL STODDARD ✕ 01 Issues 02 Meet Mike 03 Papers 04 Library 05 News 06 Volunteer $ Melting Dollar Chip in → ← Back to all posts From the trail The Dollar in Your Wallet Mike Stoddard Jul 3, 2026 5 min read ↗ Share this post Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options… Before you read another word, do something for me.
 Reach into your wallet and take out a one-dollar bill.
 Hold it.
 We're going to read it together, because that little piece of paper is about to confess something to you.
-But first — you’ve seen Dumb and Dumber.
+But first — you’ve seen Dumb and Dumber .
 Remember this scene.
 Lloyd Christmas hands a briefcase to the villain he’s cheerfully named “Mr.
 Samsonite” (the name on the briefcase).
 The case once held a fortune in large denomination dollar bills.
-Lloyd spent it all and stuffed the briefcase with receipts with handwritten IOUs instead:
-“That’s as good as money, sir.
+Lloyd spent it all and stuffed the briefcase with receipts with handwritten IOUs instead: “That’s as good as money, sir.
 Those are I.O.U.s.
-Go ahead and add it up — every cent’s accounted for.”
-Andre opens it expecting wealth.
+Go ahead and add it up — every cent’s accounted for.” Andre opens it expecting wealth.
 He finds paper receipts.
 Now look down at the bill in your hand.
 Read the top.
@@ -40,8 +37,7 @@ The old notes carried a line: “will pay to the bearer on demand.” You could 
 That line is gone.
 Quietly deleted decades ago.
 Today’s note promises to pay you… nothing.
-It’s an IOU that’s been legally stripped of the “I owe you,” leaving only the implied statement “you must take it.”
-The same instrument as the bill in your wallet — a Federal Reserve Note — Series of 1918 (James Madison).
+It’s an IOU that’s been legally stripped of the “I owe you,” leaving only the implied statement “you must take it.” The same instrument as the bill in your wallet — a Federal Reserve Note — Series of 1918 (James Madison).
 Read the top line: “Will Pay to the Bearer on Demand.” That promise has since been quietly deleted from the note you carry today.
 And here is the promise in its purest form — a 1934 Gold Certificate (Woodrow Wilson): “One Hundred Thousand Dollars in Gold — Payable to Bearer on Demand as Authorized by Law.” A literal receipt for a real thing, sitting in the Treasury.
 Now do the arithmetic.
@@ -87,19 +83,19 @@ It is short but devastating.
 So put the bill back.
 You’ll still need it; the law says so.
 But now you know what it is.
-On the campaign website, in the Restore Sound Money section, I’ve posted a short clip.
+On the campaign website, in the Restore Sound Money section , I’ve posted a short clip.
 Three minutes.
 I’m telling you in dead earnest: watching it is the equivalent of a PhD in monetary economics.
 Everything else is a footnote to Mr.
-Samsonite opening that briefcase.
-▶ Watch it in the Restore Sound Money section →
-Then ask the only question that matters: who’s holding your briefcase — and what’s actually inside it?
+Samsonite opening that briefcase. ▶ Watch it in the Restore Sound Money section → Then ask the only question that matters: who’s holding your briefcase — and what’s actually inside it?
 Do you trust the other candidates to fix this or perpetuate the theft of your purchasing power?
 Restore Sound Money!
-Vote for Mike…
-We’re going to open the books.
+Vote for Mike… We’re going to open the books.
 All of them.
 Michael R.
-Stoddard Libertarian Candidate for Congress, Utah’s 3rd District
-Open the Books, Mr.
+Stoddard Libertarian Candidate for Congress, Utah’s 3rd District Open the Books, Mr.
 President!
+With us so far?
+Chip in $25 and help put sound money on the ballot.
+Chip in → MICHAEL STODDARD FOR CONGRESS '26 A sound-money campaign for Utah's 3rd District — a C.P.A. who has spent his career auditing government and studying how honest money protects working families.
+Campaign Issues Meet Mike Position Papers News Volunteer Get involved Donate Volunteer Press inquiries HQ 515 Commerce Rd Orem, Utah 84058 info@2amike4congress.org 801-899-9569 © # Michael Stoddard for Congress · Paid for by the Committee to Elect Michael Stoddard to Congress f 𝕏 ↗ Share this campaign Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options…

@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/suzforvermont.bsky.social",
-"https://facebook.com/Suzforvermont",
-"https://instagram.com/suzforvermont",
-"https://ruokvt.com/",
-"https://ruokvt.com/about",
-"https://ruokvt.com/contact",
-"https://ruokvt.com/events",
-"https://ruokvt.com/get-involved",
-"https://ruokvt.com/issues",
-"https://secure.anedot.com/suz-for-vermont/suzforvermont",
-"https://tiktok.com/@suzforvermont?lang=en",
-"https://x.com/suzforvermont"
+{
+"text": "802-825-1110",
+"href": "tel:+18028251110"
+},
+{
+"text": "About",
+"href": "https://ruokvt.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ruokvt.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/suz-for-vermont/suzforvermont"
+},
+{
+"text": "Events",
+"href": "https://ruokvt.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://ruokvt.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://ruokvt.com/"
+},
+{
+"text": "Issues",
+"href": "https://ruokvt.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/suzforvermont.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Suzforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/suzforvermont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@suzforvermont?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/suzforvermont"
+}
 ]

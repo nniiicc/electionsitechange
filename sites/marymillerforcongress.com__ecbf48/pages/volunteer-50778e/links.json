@@ -1,12 +1,50 @@
 [
-"https://facebook.com/MaryMillerForCongress",
-"https://instagram.com/MaryMillerForCongress",
-"https://marymillerforcongress.com/",
-"https://marymillerforcongress.com/about",
-"https://marymillerforcongress.com/privacy",
-"https://marymillerforcongress.com/terms",
-"https://marymillerforcongress.com/volunteer",
-"https://secure.winred.com/mary-miller-for-congress/donate",
-"https://secure.winred.com/mary-miller-victory-committee/storefront",
-"https://twitter.com/Miller_Congress"
+{
+"text": "About",
+"href": "https://marymillerforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mary-miller-for-congress/donate#new_tab"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/MaryMillerForCongress"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/MaryMillerForCongress"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/Miller_Congress"
+},
+{
+"text": "Follow",
+"href": "mailto:press@marymiller4congress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marymillerforcongress.com/privacy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/mary-miller-victory-committee/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://marymillerforcongress.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://marymillerforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://marymillerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://marymillerforcongress.com/"
+}
 ]

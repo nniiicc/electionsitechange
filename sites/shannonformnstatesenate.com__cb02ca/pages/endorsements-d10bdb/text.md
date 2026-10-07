@@ -1,16 +1,1 @@
-Home
-Meet Shannon
-Endorsements
-Photos
-Issues
-Join the Team
-Donate
-×
-Home
-Meet Shannon
-Endorsements
-Photos
-Issues
-Join the Team
-Donate
-Endorsements
+Home Meet Shannon Endorsements Photos Issues Join the Team Donate × Home Meet Shannon Endorsements Photos Issues Join the Team Donate Endorsements Donate Prepared & paid for by Committee to Elect Shannon Bruce, PO Box 6, Mound, MN 55364 Privacy Policy

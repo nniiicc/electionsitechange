@@ -1,5 +1,4 @@
-about bill Geibler
-My name is Bill Geibler (pronounced GUY-blur), and I’m excited to announce my candidacy for the Maryland Senate in District 7, representing parts of Harford and Baltimore Counties.
+0 Skip to Content Help Me Win Register to Vote About Contact Open Menu Close Menu Help Me Win Register to Vote About Contact Open Menu Close Menu Help Me Win Register to Vote About Contact about bill Geibler My name is Bill Geibler (pronounced GUY-blur), and I’m excited to announce my candidacy for the Maryland Senate in District 7, representing parts of Harford and Baltimore Counties.
 Although I have never run for public office before, like many of you, I've been frustrated with the current state of politics and the lack of meaningful action to support regular people and address the issues that truly matter to us and our families.
 Prompted by my wife’s suggestion to transform my conversations into action, I decided to step up and make a difference.
 Originally from Delaware, I have called Maryland home since 2000, and I have been a resident of Harford County since 2004.
@@ -11,7 +10,8 @@ I live in Fallston with my wife, a dedicated teacher of 25 years who is also ste
 Together, we are raising our three children, Erik, Anna, and Jack.
 As an avid outdoors enthusiast, I enjoy hiking and kayaking, and I am also passionate about sculpting.
 I am a proud graduate of Tulane University, and I am eager to bring my skills and dedication to serving the people of District 7.
-Contact us
-Interested in voting for a better Maryland?
+Contact us Interested in voting for a better Maryland?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Bill Geibler for state senate Made with Squarespace Location 18 Fallston View Ct.
+Fallston, MD 21047 Contact votegeibler@gmail.com

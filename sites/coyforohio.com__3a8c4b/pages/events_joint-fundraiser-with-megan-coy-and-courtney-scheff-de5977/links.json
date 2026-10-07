@@ -1,12 +1,58 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Fundraiser+with+Megan+Coy+and+Courtney+Scheff&dates=20260913T180000Z%2F20260913T200000Z",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff?format=ical",
-"https://coyforohio.com/events/north-royalton-canvass-with-megan-coy",
-"https://coyforohio.com/events/olmsted-falls-town-hall-with-megan-coy-brian-poindexter-and-courtney-scheff",
-"https://coyforohio.com/support",
-"https://secure.actblue.com/donate/coy_scheff"
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Fundraiser+with+Megan+Coy+and+Courtney+Scheff&dates=20260913T180000Z%2F20260913T200000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next September 19 Olmsted Falls Town Hall with Megan Coy, Brian Poindexter and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/olmsted-falls-town-hall-with-megan-coy-brian-poindexter-and-courtney-scheff"
+},
+{
+"text": "Previous Previous September 12 North Royalton Canvass with Megan Coy",
+"href": "https://www.coyforohio.com/events/north-royalton-canvass-with-megan-coy"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/coy_scheff"
+}
 ]

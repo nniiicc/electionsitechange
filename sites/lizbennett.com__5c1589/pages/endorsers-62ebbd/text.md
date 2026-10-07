@@ -1,19 +1,2 @@
-Home
-Legislative Updates
-Endorsements
-Email Signup
-Video
-More
-Community Volunteer/Activist
-Hiawatha City Councilor
-Local Businessperson
-State Representative
-State Representative
-State Senator
-State Senator
-Community Leader
-Teacher
-Linn County Supervisor
-Polk County Attorney Candidate/Attorney/Activist
-Community Activist
-State Representative
+top of page Donate Home Legislative Updates Endorsements Email Signup Video More Use tab to navigate through the menu items.
+Elected and Community Leaders Endorse Liz Judy Ryan Community Volunteer/Activist Aime Wichtendahl Hiawatha City Councilor Michelle LeCompte Local Businessperson Mary Wolfe State Representative Kirsten Running-Marquardt State Representative Claire Celsi State Senator Rob Hogg State Senator Jennifer Vavra-Borcherding Community Leader Teresa Zalweski-White Teacher Stacey Walker Linn County Supervisor Kimberly Graham Polk County Attorney Candidate/Attorney/Activist Libby Slappey Community Activist Marti Anderson State Representative Paid for by Iowans for Liz Bennett bottom of page

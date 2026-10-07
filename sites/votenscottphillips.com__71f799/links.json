@@ -1,13 +1,54 @@
 [
-"https://district10unityteam.com/about-2",
-"https://docs.google.com/forms/d/e/1FAIpQLSe5u9R2ihZDSfQnl1tNhlja_-zQrSDnKgS_xVIt8NyzMkGXrA/viewform",
-"https://facebook.com/Vote-N-Scott-Phillips-103654175513848",
-"https://instagram.com/votenscottphillips",
-"https://secure.actblue.com/donate/citizens-for-n--scott-phillips-1",
-"https://twitter.com/votensp",
-"https://votenscottphillips.com/",
-"https://votenscottphillips.com/meet-scott",
-"https://votenscottphillips.com/priorities",
-"https://votenscottphillips.com/resources",
-"https://votenscottphillips.com/wp-content/uploads/2026/05/Delegate-N.-Scott-Phillips-Legislative-Recap.pdf"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-n--scott-phillips-1"
+},
+{
+"text": "Home",
+"href": "https://votenscottphillips.com/"
+},
+{
+"text": "Learn More",
+"href": "https://votenscottphillips.com/wp-content/uploads/2026/05/Delegate-N.-Scott-Phillips-Legislative-Recap.pdf"
+},
+{
+"text": "Learn More",
+"href": "https://www.district10unityteam.com/about-2"
+},
+{
+"text": "Meet N. Scott",
+"href": "https://votenscottphillips.com/meet-scott/"
+},
+{
+"text": "Priorities",
+"href": "https://votenscottphillips.com/priorities/"
+},
+{
+"text": "Resources",
+"href": "https://votenscottphillips.com/resources/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe5u9R2ihZDSfQnl1tNhlja_-zQrSDnKgS_xVIt8NyzMkGXrA/viewform"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://votenscottphillips.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votensp"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Vote-N-Scott-Phillips-103654175513848"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votenscottphillips/"
+},
+{
+"text": "candidate@nscottphillips.com",
+"href": "mailto:candidate@nscottphillips.com"
+}
 ]

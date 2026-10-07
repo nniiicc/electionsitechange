@@ -1,7 +1,9 @@
 {
  "description": "Help us contact voters, request a yard sign, or let us know another way you can help with Deb's campaign!",
  "final_url": "https://www.debforwi.com/yardsign",
- "paid_for_by": "Paid for by Friends of Deb Andraca &nbsp;",
+ "fingerprint": "45d0cbf55cc769293ad8a9ee15554cc676d47866",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Deb Andraca",
  "title": "Deb Andraca for Assembly",
  "years_mentioned": []
 }

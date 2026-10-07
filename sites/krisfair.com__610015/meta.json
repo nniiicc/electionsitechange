@@ -1,9 +1,12 @@
 {
  "description": "Learn about Kris Fair, Delegate from District 3 in the Maryland General Assembly",
  "final_url": "https://krisfair.com/",
- "paid_for_by": null,
+ "fingerprint": "cb76d24c831f17a5fd68da89115ed583f2ac6b01",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Delegate Kris Fair - District 3",
  "years_mentioned": [
+  "1991",
   "2023"
  ]
 }

@@ -1,19 +1,2 @@
-Polly
-Denison
-For State House District 84
-Home
-Meet Polly
-Issues
-Events
-Contact
-Donate
-Home
-Meet Polly
-Issues
-Events
-Contact
-Donate
-Events
-Stay up to date with upcoming events.
-Upcoming Events
-View Events on Facebook
+Polly Denison For State House District 84 Home Meet Polly Issues Events Contact Donate Home Meet Polly Issues Events Contact Donate Events Stay up to date with upcoming events.
+Upcoming Events View Events on Facebook Polly Denison For State House District 84 7170 21st Avenue Van Horne, IA 52346 pollydenisonforiowa@gmail.com Quick Links Home Meet Polly Issues Events Contact Connect Donate Now Scan to donate Paid for by Polly Denison for Iowa. © # All rights reserved.

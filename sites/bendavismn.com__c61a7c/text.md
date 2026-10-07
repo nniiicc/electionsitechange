@@ -1,5 +1,4 @@
-Our Plan for Making Minnesota Great
-The last few years we have experienced an all-out attack on our civil and religious liberty.
+Skip to content About Contact Us Donations Home Take Action Take Action Home Donations About Contact Us Our Plan for Making Minnesota Great The last few years we have experienced an all-out attack on our civil and religious liberty.
 The government shut down our churches, our businesses, and our gatherings.
 That was a violation of our liberties.
 Freedom of speech, freedom of protest, freedom to gather with as many people as we choose, freedom to worship God according to the dictates of our own conscience, and the 2nd amendment is something I will always protect and advocate for.
@@ -10,7 +9,8 @@ Every child deserves the opportunity to pursue life, liberty, and the pursuit of
 That begins in the womb.
 An estimated 65 million lives have been terminated before they even had the opportunity to breath air.
 Over 98% of abortions happen out of “convenience” meaning there was nothing medically wrong with the pregnancy.
-We need to stop the normalization of killing the most innocent little baby boys and girls in the womb. 90% of children diagnosed with Down’s Syndrome are terminated in the womb.
+We need to stop the normalization of killing the most innocent little baby boys and girls in the womb.
+90% of children diagnosed with Down’s Syndrome are terminated in the womb.
 We need to change our thinking about these precious lives and be their voice.
 Honor for those who serve in the military and law enforcement has quickly eroded in our nation and our state.
 This is a direct result of our government officials not leading by example.
@@ -26,3 +26,4 @@ Minnesota has them in abundance.
 It’s time for us to tap into the wealth under our feet to help prosper our local communities.
 High paying jobs and careers are waiting to be tapped into but activist organizations and government officials are standing in the way.
 It’s time to mine!
+Donate Ben Davis for MN House Rep / 218.839.2989 / ben@bendavismn.com Prepared and Paid for by Ben Davis for MN House Rep 12855 West Twin Lake Rd Merrifield, MN 56465 Committee Copyright © # Ben Davis for Minnesota

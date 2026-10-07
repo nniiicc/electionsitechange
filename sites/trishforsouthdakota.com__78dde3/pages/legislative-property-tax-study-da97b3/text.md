@@ -1,6 +1,4 @@
-Property Tax
-Legislative Property Tax Summer Study
-Property taxes are the prime concern of South Dakotans, especially in the Black Hills where the large number of people moving here, has resulted in a housing shortage and our property assessments skyrocketing!
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com Property Tax Trish Ladner • May 9, 2022 Legislative Property Tax Summer Study Property taxes are the prime concern of South Dakotans, especially in the Black Hills where the large number of people moving here, has resulted in a housing shortage and our property assessments skyrocketing!
 Last session we passed some great legislation increasing the income and property value requirements for seniors and disabled to qualify for a property tax freeze and a bill correcting the classification of soil types for Ranchers that could have resulted in up to a 300% increase in their taxes without the correction of soil types.
 Between sessions, the legislature conducts interim studies that usually result in some great legislation.
 Last year two of the studies we focused on were workforce housing and marijuana.
@@ -11,4 +9,4 @@ This summer we will begin by looking at the existing South Dakota property tax s
 The committee will be comprised of 15 Representatives and Senators from across the state.
 We will work together to consider means by which the total property tax burden of South Dakotans can be decreased.
 Obviously, this is not going to be a quick or easy fix, but big, important issues never are.
-Our vote does matter and if we believe in the conservative principles of low taxes and limited government, I would like to encourage you to turn out and vote on June 7th.
+Our vote does matter and if we believe in the conservative principles of low taxes and limited government, I would like to encourage you to turn out and vote on June 7 th . < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

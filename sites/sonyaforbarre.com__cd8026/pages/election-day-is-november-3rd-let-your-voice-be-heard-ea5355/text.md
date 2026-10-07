@@ -1,20 +1,5 @@
-The General Election is November 3rd!
-00
-Days
-00
-Hours
-00
-Min
-00
-Sec
-Skip to content
-The General Election is November 3rd!
-00
-Days
-00
-Hours
-00
-Min
-00
-Sec
-The countdown has ended!
+Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS GET INVOLVED VOLUNTEER VOTE EVENTS CONTACT SONYA Facebook Instagram The General Election is November 3rd!
+# Days # Hours # Min # Sec The countdown has ended!
+CHECK YOUR VOTER REGISTRATION STATUS HERE IN VERMONT REGISTER TO VOTE VOTE BY MAIL TRACK YOUR BALLOT DONATE TODAY!
+Paid for by Sonya Spaulding for Barre City, 88 Delmont Ave.
+Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS GET INVOLVED Toggle child menu VOLUNTEER VOTE EVENTS CONTACT SONYA

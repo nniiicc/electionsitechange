@@ -1,10 +1,3 @@
-Back to All Events
-Did you know that John Adams, one of the most important Founding Fathers, believed that a resolution he offered the 2nd Continental Congress in May 1776 was the true Declaration of Independence and that the document famously drafted by Thomas Jefferson was the ceremonial culmination of Adams’ work?
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Back to All Events America’s 250th at Bentonville first friday Friday, July 3, 2026 3:00 PM 9:00 PM 1 E Central Ave Bentonville, AR 72712 United States (map) Google Calendar ICS Did you know that John Adams, one of the most important Founding Fathers, believed that a resolution he offered the 2nd Continental Congress in May 1776 was the true Declaration of Independence and that the document famously drafted by Thomas Jefferson was the ceremonial culmination of Adams’ work?
 Join Mitchell, the Benton County Democratic Party, and all of Bentonville as we celebrate the 250th birthday of this great nation and continue to fight for the ideals promised in America’s initial chartering!
-Previous
-Previous
-June 26
-22nd Annual NWA Pride Weekend
-Next
-Next
-July 9
+Previous Previous June 26 22nd Annual NWA Pride Weekend Next Next July 9 Cleared for Takeoff: Building a Stronger Arkansas Paid for By Mitchell Smith For AR 13

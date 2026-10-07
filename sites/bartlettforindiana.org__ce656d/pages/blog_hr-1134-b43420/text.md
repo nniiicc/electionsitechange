@@ -1,14 +1,8 @@
-2022 - HB 1134
-The incumbent State Representative from District 33, the seat I am challenging, is one of the co-authors of HB 1134.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2022 - HB 1134 Feb 14 Written By John Bartlett for IN State Rep Dist 33 The incumbent State Representative from District 33, the seat I am challenging, is one of the co-authors of HB 1134.
 This is, quite simply, the most destructive bill ever to education in the state of Indiana that the General Assembly has ever considered.
 It will set Hoosier youth back decades in learning and put them at an extreme disadvantage when competing on the global market.
 The provisions in the bill will hamper the development of problem solving and critical thinking skills which are crucial to Hoosier youth growing into the workforce as leaders.
-Some of the “highlights” of this bill:
-· It requires that teachers have detailed lesson plans for the entire next school year submitted in June prior to the start of the next school year.
-· It requires the creation of a tribunal made up of 60% less-educated parents and only 40% professional educators to establish acceptable curriculum and materials to be used in educating our youth.
-· It allows for parents to opt out of any curriculum with which they do not agree keeping their children from being exposed to ideas and concepts they will encounter in the real world.
-· It requires “good citizenship instruction” which teaches certain philosophies are “good” and others “bad” while limiting the judgement of certain inherently bad philosophies.
-· It prevents anyone at the school from talking to a child for psychological reasons without written permission from the parents.
+Some of the “highlights” of this bill: · It requires that teachers have detailed lesson plans for the entire next school year submitted in June prior to the start of the next school year. · It requires the creation of a tribunal made up of 60% less-educated parents and only 40% professional educators to establish acceptable curriculum and materials to be used in educating our youth. · It allows for parents to opt out of any curriculum with which they do not agree keeping their children from being exposed to ideas and concepts they will encounter in the real world. · It requires “good citizenship instruction” which teaches certain philosophies are “good” and others “bad” while limiting the judgement of certain inherently bad philosophies. · It prevents anyone at the school from talking to a child for psychological reasons without written permission from the parents.
 I have many teachers in my family.
 My mother taught early elementary at Albany and Desoto, my sister is librarian at Blackford, and several cousins are teaching locally and in some other states.
 Summers are spent developing, revising, and updating curriculum.
@@ -65,6 +59,5 @@ The bill is now being considered in the Senate.
 Their phone is constantly busy because of people calling to oppose it.
 CONTINUE TO BLOW UP THEIR PHONE LINES!!!!
 Call the Indiana Senate and leave your message!!!
-(800) 382-9467
-And PLEASE consider donating to my campaign to oust Mr.
-Prescott so this is never introduced again!!! https://secure.actblue.com/donate/bartlett-for-indiana-1
+(800) 382-9467 And PLEASE consider donating to my campaign to oust Mr.
+Prescott so this is never introduced again!!! https://secure.actblue.com/donate/bartlett-for-indiana-1 John Bartlett for IN State Rep Dist 33 Previous Previous 2024-Property taxes Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

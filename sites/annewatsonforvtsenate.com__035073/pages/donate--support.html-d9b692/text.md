@@ -1,11 +1,1 @@
-Organizations that have endorsed Anne Watson
-314 Action
-Let's Grow Kids
-Sierra Club
-Vermont AFL-CIO
-Vermont Chapter of the National Association of Social Workers (NASW)
-Vermont Conservation Voters
-Vermont NEA
-Vermont State Employees Association
-VPIRG Votes
-Paid For By Anne Watson For Vermont Senate, PO Box 120, Barre City, VT
+Meet Anne How to Vote Issues In the Press Volunteer Donate & Support Blog Events Donate Here Organizations that have endorsed Anne Watson 314 Action Let's Grow Kids Sierra Club Vermont AFL-CIO Vermont Chapter of the National Association of Social Workers (NASW) Vermont Conservation Voters Vermont NEA Vermont State Employees Association VPIRG Votes ​ Paid For By Anne Watson For Vermont Senate, PO Box 120, Barre City, VT Proudly powered by Weebly Meet Anne How to Vote Issues In the Press Volunteer Donate & Support Blog Events

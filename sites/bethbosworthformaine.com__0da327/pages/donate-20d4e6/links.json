@@ -1,17 +1,70 @@
 [
-"https://bethbosworthformaine.com/",
-"https://bethbosworthformaine.com/about",
-"https://bethbosworthformaine.com/contact",
-"https://bethbosworthformaine.com/endorsements",
-"https://bethbosworthformaine.com/events",
-"https://bethbosworthformaine.com/issues",
-"https://bethbosworthformaine.com/volunteer",
-"https://campaigndeputy.com/",
-"https://designedtorun.com/",
-"https://facebook.com//profile.php?id=61586404321912",
-"https://goodchange.app/",
-"https://instagram.com/bethbosworthmaine",
-"https://ngpvan.com/",
-"https://numero.ai/",
-"https://secure.actblue.com/"
+{
+"text": "About",
+"href": "https://www.bethbosworthformaine.com/about"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/"
+},
+{
+"text": "Campaign Deputy",
+"href": "https://www.campaigndeputy.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.bethbosworthformaine.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethbosworthformaine.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethbosworthformaine.com/events"
+},
+{
+"text": "GoodChange",
+"href": "https://goodchange.app/"
+},
+{
+"text": "Home",
+"href": "https://www.bethbosworthformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bethbosworthformaine.com/issues"
+},
+{
+"text": "NGP VAN",
+"href": "https://www.ngpvan.com/"
+},
+{
+"text": "Numero",
+"href": "https://numero.ai/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bethbosworthformaine.com/volunteer"
+},
+{
+"text": "[image: Beth Bosworth for Maine Senate]",
+"href": "https://www.bethbosworthformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61586404321912"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bethbosworthmaine/"
+},
+{
+"text": "bethbosworthformaine@gmail.com",
+"href": "mailto:bethbosworthformaine@gmail.com"
+}
 ]

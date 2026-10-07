@@ -1,7 +1,6 @@
-We are facing issues that are shaping our everyday lives.
+Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE Issues We are facing issues that are shaping our everyday lives.
 Fern knows them and is fighting for common-sense solutions for us and future generations.
-Stop Skyrocketing Utility Bills
-Working families should not be stuck paying higher utility bills so massive corporations can power energy-hungry data centers.
+Stop Skyrocketing Utility Bills Stop Skyrocketing Utility Bills Working families should not be stuck paying higher utility bills so massive corporations can power energy-hungry data centers.
 But that is exactly the direction we are heading.
 These projects threaten our water, our power grid, and our quality of life while giving back very little.
 I’m committed to making sure our communities come first.
@@ -32,8 +31,7 @@ This is about learning from our past and protecting our future.
 Our communities are not sacrifice zones.
 Our water, our homes, and our way of life are not bargaining chips.
 And I will make sure they never are.
-Let Hard Work Pay Off
-I haven’t waited for a title to start doing this work, because for me, it has never been about a title.
+Let Hard Work Pay Off Let Hard Work Pay Off I haven’t waited for a title to start doing this work, because for me, it has never been about a title.
 It’s about people.
 I’ve shown up at Public Utility Commission meetings because I’ve seen what rising utility bills are doing to families who are already stretched thin.
 I’ve stood alongside the Food Dignity Movement because no one should have to wonder where their next meal is coming from.
@@ -77,8 +75,7 @@ It is about making sure that if you work hard, you can afford to live.
 It is about giving families the ability to plan for the future instead of just surviving week to week.
 Hard work should mean something again.
 And I will make sure it does.
-Real Relief for Homeowners
-I was knocking doors and met a woman who has lived in her home for decades.
+Real Relief for Homeowners Real Relief for Homeowners I was knocking doors and met a woman who has lived in her home for decades.
 She raised her family there.
 Every room held a memory, every corner a piece of her life.
 It wasn’t just a house.
@@ -89,8 +86,7 @@ Do I pay my property taxes, or do I buy groceries?
 Do I keep the heat on, or do I fall behind?
 She keeps her house colder now just to get by.
 And then she looked at me and said something I will never forget.
-“I did everything right.”
-That stayed with me.
+“I did everything right.” That stayed with me.
 Because no one who did everything right should be put in that position.
 No one should have to choose between food, heat, and staying in their home.
 And yet, that is exactly what is happening across Pennsylvania.
@@ -118,8 +114,7 @@ This is about stability.
 It is about making sure people can age in place, raise their families, and hold onto the homes they worked their whole lives to keep.
 Hard work should not cost you your home.
 I will work to make sure it doesn’t.
-End Pay-to-Play Politics
-I’m not wealthy, and I didn’t get here with connections or shortcuts.
+End Pay-to-Play Politics End Pay-to-Play Politics I’m not wealthy, and I didn’t get here with connections or shortcuts.
 Everything I know comes from showing up, doing the work, and gaining real-world experience.
 I come from a blue-collar life where you work with your hands, you solve problems as they come, and you don’t quit just because something gets tough.
 And I’m proud of that.
@@ -183,4 +178,8 @@ We need a system that can’t be bought in the first place.
 Need Help Finding Your Polling Place?
 Unsure of where to vote?
 We have got you covered just in time for Election Day!
-Find your polling place at the link below:
+Find your polling place at the link below: FIND YOUR POLLING PLACE Scratch Meatball's Ear to Donate a Dollar!
+Fern’s campaign relies on small donations from passionate supporters like you.
+Your Donation Can Make a Difference It’s time to stop sending people to Harrisburg to provide solutions to problems they have never experienced.
+Fern Leard has the life experience and determination to get things done.
+Help her help us by donating to her campaign today. $# $# $# $# Custom Contact Us 570-851-3890 info@votefern4pa.com Facebook X-twitter Instagram Tiktok SIGN UP FOR OUR NEWSLETTER

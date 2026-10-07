@@ -1,8 +1,34 @@
 [
-"http://instagram.com/justinforgeorgia",
-"https://facebook.com/justinforgeorgia",
-"https://georgia.gov/register-vote",
-"https://justinforgeorgia.org/",
-"https://secure.actblue.com/donate/justinforgeorgia",
-"https://senate.ga.gov/senators/Documents/Maps/Senate-2023-SD47.pdf"
+{
+"text": "District 47 Map",
+"href": "https://www.senate.ga.gov/senators/Documents/Maps/Senate-2023-SD47.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/justinforgeorgia"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://secure.actblue.com/donate/justinforgeorgia"
+},
+{
+"text": "Register to Vote",
+"href": "https://georgia.gov/register-vote"
+},
+{
+"text": "[image: Justin-for-Georgia-logo]",
+"href": "https://www.justinforgeorgia.org"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.justinforgeorgia.org"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/justinforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/justinforgeorgia"
+}
 ]

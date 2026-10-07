@@ -1,11 +1,15 @@
-Speaker Johnson Sets Record for Republican House Speaker in Third Quarter
-Johnson raises $27.5 million in Q3
-October 14, 2024
-Contact: Greg Steele
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson Sets Record for Republican House Speaker in Third Quarter Oct 14 Written By Guest User Johnson raises $27.5 million in Q3 October 14, 2024 Contact: Greg Steele WASHINGTON, D.C. – Speaker Mike Johnson announced today he raised $27.5 million in the third quarter of 2024, including over $19.4 million for his committees and $8.1 million for individual Members and candidates through events and grassroots efforts across the country.
 This is the highest amount raised by a Republican Speaker of the House in the third quarter of a presidential election year.
 This is the final full quarter before the 2024 election and Johnson’s third full quarter as Speaker.
 “In less than one year as Speaker, I'm thankful that we have been able to build a team and set new fundraising records that will ensure House Republicans can keep and grow our majority," said Speaker Johnson.
-"Now with less than one month until the most important election of our lifetimes, another strong quarter shows voters are motivated down the stretch and ready to elect Republicans up and down the ballot to fix our economy, secure the border, and restore peace through strength."
-Since being unanimously elected by his Republican colleagues last October, Speaker Johnson has now surpassed $70 million in his direct fundraising efforts to grow the majority, and has invested more than $30 million into Republican campaign accounts across the country.
-Speaker Johnson has now transferred more than $26 million to the NRCC this cycle to date since entering office less than one year ago.
+"Now with less than one month until the most important election of our lifetimes, another strong quarter shows voters are motivated down the stretch and ready to elect Republicans up and down the ballot to fix our economy, secure the border, and restore peace through strength." Since being unanimously elected by his Republican colleagues last October, Speaker Johnson has now surpassed $70 million in his direct fundraising efforts to grow the majority, and has invested more than $30 million into Republican campaign accounts across the country.
+Last week, it was reported that the Congressional Leadership Fund, the Speaker's endorsed Super PAC, also raised a record-setting $81 million in the third quarter and $196 million since Johnson became Speaker.
+Speaker Johnson has now transferred more than $26 million to the NRCC this cycle to date since entering office less than #ago.
+In the third quarter, Speaker Johnson set monthly and quarterly online fundraising records, transferred $5 million to incumbents and challengers, and raised an additional $8.1 million directly for candidates.
 As part of his leadership to grow the House Republican majority, Speaker Johnson has traveled to campaign in more than 210 cities across 40 states, and will barnstorm in 24 states just in the month of October.
+Guest User Previous Previous Speaker Johnson Sets Q3 Fundraising Records Next Next Speaker Johnson Marks One Year Anniversary of Israel's October 7 Attack Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

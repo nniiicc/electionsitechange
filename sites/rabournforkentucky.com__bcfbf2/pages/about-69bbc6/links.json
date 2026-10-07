@@ -1,10 +1,42 @@
 [
-"https://facebook.com/feliciarabourn47thdistrict",
-"https://rabournforkentucky.com/volunteer",
-"https://rabournforky.com/",
-"https://rabournforky.com/about",
-"https://rabournforky.com/contribute",
-"https://rabournforky.com/volunteer",
-"https://secure.anedot.com/felicia-rabourn-state-representative-candidate/donate",
-"https://twitter.com/felicia_rabourn"
+{
+"text": "About",
+"href": "https://rabournforky.com/about/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://rabournforky.com/contribute/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/felicia-rabourn-state-representative-candidate/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/feliciarabourn47thdistrict/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/felicia_rabourn"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/feliciarabourn47thdistrict/"
+},
+{
+"text": "Home",
+"href": "https://rabournforky.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.rabournforkentucky.com/volunteer"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.rabournforky.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://rabournforky.com/volunteer/"
+}
 ]

@@ -1,7 +1,7 @@
-top of page
-ELECTED OFFICIAL BENEFITS
-Elected Official Retirement, Benefits, etc.
-- No elected or appointed official may receive retirement funds, regardless of time served
-- Elected and appointed officials, must receive similar benefits as their constituents during their time of service
-- Elected officials and appointed officials shall be expected to work the same amount of days and hours as general citizens, excluding paid federal holidays, but allowing for PTO and sick time
-bottom of page
+top of page Log In ELECTED OFFICIAL BENEFITS Previous Next Elected Official Retirement, Benefits, etc.
+No elected or appointed official may receive retirement funds, regardless of time served Elected and appointed officials, must receive similar benefits as their constituents during their time of service Elected officials and appointed officials shall be expected to work the same amount of days and hours as general citizens, excluding paid federal holidays, but allowing for PTO and sick time STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

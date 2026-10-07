@@ -1,8 +1,26 @@
 [
-"https://secure.actblue.com/donate/zakary-pereira-district-22",
-"https://wavemaker.commerceri.com/information/wavemaker-information",
-"https://zakaryforri.com/",
-"https://zakaryforri.com/about-zak-pereira",
-"https://zakaryforri.com/issues",
-"https://zakaryforri.com/volunteer"
+{
+"text": "About Zak",
+"href": "https://www.zakaryforri.com/about-zak-pereira"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zakary-pereira-district-22"
+},
+{
+"text": "Get Involved",
+"href": "https://www.zakaryforri.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.zakaryforri.com"
+},
+{
+"text": "Issues",
+"href": "https://www.zakaryforri.com/issues"
+},
+{
+"text": "WaveMaker Program",
+"href": "https://wavemaker.commerceri.com/information/wavemaker-information/"
+}
 ]

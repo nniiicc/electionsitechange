@@ -1,18 +1,86 @@
 [
-"https://facebook.com/votekimcoco",
-"https://forms.gle/k9st6ryCCr6bTRb67",
-"https://instagram.com/votekimcoco",
-"https://secure.actblue.com/donate/votekimcoco2026",
-"https://twitter.com/votekimcoco",
-"https://votekimcoco.com/",
-"https://votekimcoco.com/blog",
-"https://votekimcoco.com/contact-me",
-"https://votekimcoco.com/district-resources",
-"https://votekimcoco.com/experience",
-"https://votekimcoco.com/issues",
-"https://votekimcoco.com/letsmeet",
-"https://votekimcoco.com/media",
-"https://votekimcoco.com/meet-kim-coco",
-"https://votekimcoco.com/search",
-"https://votekimcoco.com/whykimcoco"
+{
+"text": "Blog",
+"href": "https://www.votekimcoco.com/blog"
+},
+{
+"text": "Contact Me",
+"href": "https://www.votekimcoco.com/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/votekimcoco2026"
+},
+{
+"text": "District Resources",
+"href": "https://www.votekimcoco.com/district-resources"
+},
+{
+"text": "Events",
+"href": "https://www.votekimcoco.com/letsmeet"
+},
+{
+"text": "Experience",
+"href": "https://www.votekimcoco.com/experience"
+},
+{
+"text": "Home",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votekimcoco.com/issues"
+},
+{
+"text": "KimCoco@KimCoco.com",
+"href": "mailto:kimcoco@kimcoco.com"
+},
+{
+"text": "Media",
+"href": "https://www.votekimcoco.com/media"
+},
+{
+"text": "Meet Kim Coco",
+"href": "https://www.votekimcoco.com/meet-kim-coco"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/k9st6ryCCr6bTRb67"
+},
+{
+"text": "Why Kim Coco",
+"href": "https://www.votekimcoco.com/whykimcoco"
+},
+{
+"text": "[image: Kim Coco Iwamoto]",
+"href": "https://www.votekimcoco.com/"
+},
+{
+"text": "[image: social_icons-facebook-sml.png]",
+"href": "https://www.facebook.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-instagram-sml.png]",
+"href": "https://www.instagram.com/votekimcoco/"
+},
+{
+"text": "[image: social_icons-twitter-sml.png]",
+"href": "https://twitter.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votekimcoco"
+},
+{
+"text": "[no text]",
+"href": "https://www.votekimcoco.com/search"
+},
+{
+"text": "[no text]",
+"href": "mailto:kimcoco@kimcoco.com"
+}
 ]

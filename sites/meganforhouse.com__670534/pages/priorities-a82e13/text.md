@@ -1,9 +1,7 @@
-PRIORITIES
-Your Story Matters.
+Follow Follow Contribute Priorities Meet Megan To Edmond From Megan Volunteer PRIORITIES Your Story Matters.
 The voices I hear in our community are not being heard at the State Capitol.
 That's why I'm running.
-Read more
-I grew up right here — an Edmond Memorial graduate who built her life, her family, and her career in this community.
+Read more I grew up right here — an Edmond Memorial graduate who built her life, her family, and her career in this community.
 I've sat across the table from families navigating impossible decisions.
 I've seen what happens when the people making policy in Oklahoma City have never had to live with the consequences of those decisions.
 This campaign isn't about my agenda.
@@ -17,8 +15,7 @@ I know decisions made at the Capitol don't just shape policy — they shape our 
 I'm running because working families deserve a seat at that table, and I intend to earn it.
 Your Pay Should Go Further.
 Oklahoma families are working harder than ever — and still falling behind.
-Read more
-One in five Oklahomans skip medical care because they can't afford it.
+Read more One in five Oklahomans skip medical care because they can't afford it.
 That's not a statistic.
 That's your neighbor putting off a prescription.
 That's a parent deciding whether a fever is bad enough to justify a co-pay.
@@ -29,8 +26,7 @@ When people can't access preventive care, they end up in emergency rooms — the
 I'll fight to lower out-of-pocket costs for prescription drugs, protect coverage for pre-existing conditions, and push Oklahoma toward a healthcare system that treats working families the same way it treats wealthy ones: like they matter.
 Your Schools Need Support.
 Oklahoma consistently ranks near the bottom nationally in per-pupil education funding.
-Read more
-Our teachers are some of the most dedicated people I know — and they are being asked to do more with less, every single year.
+Read more Our teachers are some of the most dedicated people I know — and they are being asked to do more with less, every single year.
 As a PTO parent and Girl Scout troop leader, I see this up close.
 I see teachers spending their own money on classroom supplies.
 I see school counselors stretched across caseloads that would be unmanageable anywhere else.
@@ -44,8 +40,7 @@ Our kids get one shot at a childhood education.
 Let's make it count.
 Everyone Deserves Dignity.
 People over 65 are the fastest-growing segment of our population — and our systems are not keeping pace.
-Read more
-I see this firsthand every day through LiveBetter at Home, the senior home care agency my husband Jeremy and I built from the ground up.
+Read more I see this firsthand every day through LiveBetter at Home, the senior home care agency my husband Jeremy and I built from the ground up.
 We started LiveBetter at Home because we wanted to help seniors age in place.
 In our line of work we watch families navigate a patchwork of care — home health, home care,long-term care facilities, insurance denials, waitlists — with little guidance and even less support.
 It is exhausting.
@@ -57,3 +52,4 @@ Medicaid reimbursement rates for the limited number of qualified agencies are so
 And the result is that families who want to keep their loved ones home — safe, comfortable, and dignified — often can't.
 I'll advocate for expanded home and community-based care options, fair reimbursement rates that keep quality providers in business, and stronger protections for seniors against predatory billing and care gaps.
 Because how we treat our oldest Oklahomans says everything about our values — and right now, we can do better.
+Authorized and paid for by Friends of Megan Hornbeek Allen 2026 Terms of Service Privacy Policy

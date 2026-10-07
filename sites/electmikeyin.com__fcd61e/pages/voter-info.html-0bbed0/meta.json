@@ -1,7 +1,9 @@
 {
  "description": "Find out information about voting.",
  "final_url": "https://electmikeyin.com/voter-info.html",
- "paid_for_by": null,
+ "fingerprint": "418f53b0085ebc2678e3acf8cf20fef0cc6266f1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Yin for WY HD-16 State Representative",
  "years_mentioned": [
   "2026"

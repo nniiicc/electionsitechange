@@ -1,35 +1,25 @@
-PRIVACY POLICY
-This privacy notice for Case for Congress (“we,” “us,” or “our”), describes how and why we might collect, store, use, and/or share (“process”) your information when you use our services (“Services”), such as when you:
-- Visit our website at https://edcase.com/, or any website of ours that links to this privacy notice
-- Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns?
+(808) 546-9509 edcase@edcase.com Follow Follow Follow Follow ABOUT ED Snapshot Story Experience Images ED’S AGENDA UPDATES CONTACT JOIN US DONATE ABOUT ED Snapshot Story Experience Images ED’S AGENDA UPDATES CONTACT JOIN US DONATE PRIVACY POLICY This privacy notice for Case for Congress (“we,” “us,” or “our”), describes how and why we might collect, store, use, and/or share (“process”) your information when you use our services (“Services”), such as when you: Visit our website at https://edcase.com/ , or any website of ours that links to this privacy notice Engage with us in other related ways, including any sales, marketing, or events Questions or concerns?
 Reading this privacy notice will help you understand your privacy rights and choices.
 If you do not agree with our policies and practices, please do not use our Services.
-If you still have any questions or concerns, please contact us at edcase@edcase.com.
+If you still have any questions or concerns, please contact us at edcase@edcase.com .
 1.
 WHAT INFORMATION DO WE COLLECT?
 In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about or from us or our campaign, when you participate in activities, or otherwise when you contact us.
 Personal Information Provided by You.
 The personal information that we collect depends on the context of your interactions with us.
-The personal information we collect may include the following:
-- phone numbers
-- email addresses
-- names
-2.
-HOW DO WE PROCESS YOUR INFORMATION
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.
+The personal information we collect may include the following: phone numbers email addresses names 2.
+HOW DO WE PROCESS YOUR INFORMATION In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law.
 We may also process your information for other purposes.
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
-- To respond to user inquiries/offer support to users.
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including: To respond to user inquiries/offer support to users.
 We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-- To enable user-to-user communications.
+To enable user-to-user communications.
 We may process your information if you choose to use any of our offerings that allow for communication with another user.
-- To request feedback.
+To request feedback.
 We may process your information when necessary to request feedback.
-- To deliver targeted advertising to you.
+To deliver targeted advertising to you.
 We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
-- To comply with our legal obligations.
+To comply with our legal obligations.
 We may process your information to comply with our legal obligations, respond to legal requests, and exercise, establish, or defend our legal rights.
 3.
 WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
@@ -37,14 +27,7 @@ In Short: We may share information in specific situations described in this sect
 We will not rent or sell your data, however.
 Vendors, Consultants, and Other Third-Party Service Providers.
 We may share your data with third-party vendors, service providers, contractors, or agents (“third parties”) who perform services for us or on our behalf and require access to such information to do that work.
-The categories of third parties we may share personal information with are as follows:
-- Communication & Collaboration Tools
-- Data Analytics Services
-- Data Storage Service Providers
-- Sales & Marketing Tools
-- Social Networks
-- User Account Registration & Authentication Services
-4.
+The categories of third parties we may share personal information with are as follows: Communication & Collaboration Tools Data Analytics Services Data Storage Service Providers Sales & Marketing Tools Social Networks User Account Registration & Authentication Services 4.
 HOW LONG DO WE KEEP YOUR INFORMATION?
 In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
@@ -64,19 +47,24 @@ However, please note that this will not affect the lawfulness of the processing 
 Opting out of marketing and promotional communications: You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, replying “STOP” or “UNSUBSCRIBE” to the SMS messages that we send, or by contacting us using the details provided in the section “HOW CAN YOU CONTACT US ABOUT THIS NOTICE?” below.
 You will then be removed from the marketing lists.
 However, we may still communicate with you – for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
-If you have questions or comments about your privacy rights, you may email us at edcase@edcase.com.
+If you have questions or comments about your privacy rights, you may email us at edcase@edcase.com .
 7.
 DO WE MAKE UPDATES TO THIS NOTICE?
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 8.
 HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at edcase@edcase.com or contact us by post at:
-Case for Congress
-PO Box 2941
-Honolulu, HI 96802
-(808) 546-9509
-9.
+If you have questions or comments about this notice, you may email us at edcase@edcase.com or contact us by post at: Case for Congress PO Box 2941 Honolulu, HI 96802 (808) 546-9509 9.
 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it.
-To request to review, update, or delete your personal information, please visit: edcase@edcase.com.
+To request to review, update, or delete your personal information, please visit: edcase@edcase.com .
+STAY CONNECTED WITH ED.
+Name (Required) First Last Email (Required) Enter Email Confirm Email Phone Number Text Messages Optin I am opting in to receive text messages from Case for Congress.
+By submitting this form and signing up for texts, I consent to receive election information and reminders from Case for Congress at the email or phone number provided, including messages sent by autodialer.
+Msg & data rates may apply.
+Msg frequency varies.
+Donations may be solicited.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe by replying STOP.
+Reply HELP for help.
+Privacy Policy | Terms and Conditions Submit Follow Follow Follow Follow Paid for by Case for Congress PO Box 2941 Honolulu, HI 96802 (808) 546-9509 edcase@edcase.com © # Ed Case | All Rights Reserved | Privacy Policy | Terms & Conditions

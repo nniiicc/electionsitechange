@@ -1,16 +1,66 @@
 [
-"http://instagram.com/lauraforstaterep",
-"https://facebook.com/LauraFaverDiasForStateRep",
-"https://lakecountyil.gov/351/Voter-Power-for-Registered-Voters",
-"https://lakecountyil.gov/4138/November-8-2022-General-Election",
-"https://laurafaverdias.com/",
-"https://laurafaverdias.com/cart",
-"https://laurafaverdias.com/contact",
-"https://laurafaverdias.com/endorsements",
-"https://laurafaverdias.com/team-dias",
-"https://laurafaverdias.com/volunteer",
-"https://laurafaverdias.com/votelaura",
-"https://ova.elections.il.gov/Step0.aspx",
-"https://secure.actblue.com/donate/lfdfor62",
-"https://vote.org/"
+{
+"text": "#VOTELAURA",
+"href": "https://laurafaverdias.com/votelaura"
+},
+{
+"text": "0",
+"href": "https://laurafaverdias.com/cart"
+},
+{
+"text": "About Laura",
+"href": "https://laurafaverdias.com/team-dias"
+},
+{
+"text": "Contact",
+"href": "https://laurafaverdias.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lfdfor62"
+},
+{
+"text": "Endorsements",
+"href": "https://laurafaverdias.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LauraFaverDiasForStateRep/"
+},
+{
+"text": "Find Your Site",
+"href": "https://www.lakecountyil.gov/351/Voter-Power-for-Registered-Voters"
+},
+{
+"text": "Home",
+"href": "https://laurafaverdias.com/"
+},
+{
+"text": "IL Elections Info",
+"href": "https://www.lakecountyil.gov/4138/November-8-2022-General-Election"
+},
+{
+"text": "Register Now",
+"href": "https://ova.elections.il.gov/Step0.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://laurafaverdias.com/volunteer"
+},
+{
+"text": "Vote 11/8!",
+"href": "https://www.vote.org"
+},
+{
+"text": "[image: Vote Laura Faver Dias ]",
+"href": "https://laurafaverdias.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/lauraforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauraFaverDiasForStateRep/"
+}
 ]

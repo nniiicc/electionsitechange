@@ -1,5 +1,18 @@
 [
-"https://nedforcongress.com/",
-"https://nedforcongress.com/media-coverage",
-"https://nedforcongress.com/press-releases"
+{
+"text": "606-791-1141",
+"href": "tel:202-555-0188"
+},
+{
+"text": "MEDIA COVERAGE",
+"href": "https://nedforcongress.com/media-coverage/"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://nedforcongress.com/press-releases/"
+},
+{
+"text": "[image]",
+"href": "https://nedforcongress.com/"
+}
 ]

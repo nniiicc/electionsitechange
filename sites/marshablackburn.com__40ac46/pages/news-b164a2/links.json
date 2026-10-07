@@ -1,32 +1,142 @@
 [
-"http://flickr.com/photos/votemarsha",
-"https://facebook.com/votemarshablackburn",
-"https://instagram.com/votemarsha",
-"https://marshablackburn.com/",
-"https://marshablackburn.com/2026/09/24/in-the-news-senator-johnson-a-look-at-marsha-blackburns-economic-vision-for-tennessee",
-"https://marshablackburn.com/2026/09/28/tennessee-fire-chiefs-association-endorses-marsha-blackburn-for-governor",
-"https://marshablackburn.com/2026/09/30/nfib-tennessee-pac-endorses-marsha-blackburn-for-governor",
-"https://marshablackburn.com/2026/10/01/marsha-blackburn-releases-statement-on-the-failed-execution-of-christa-pike",
-"https://marshablackburn.com/2026/10/05/representative-chris-todd-im-voting-for-marsha-blackburn-because-time-and-again-she-has-had-tennessees-back",
-"https://marshablackburn.com/bell-to-bell-no-cell",
-"https://marshablackburn.com/category/endorsements",
-"https://marshablackburn.com/category/in-the-news",
-"https://marshablackburn.com/category/press-release",
-"https://marshablackburn.com/category/video",
-"https://marshablackburn.com/issues",
-"https://marshablackburn.com/join-us",
-"https://marshablackburn.com/join-us?checkbox=endorse",
-"https://marshablackburn.com/meet-marsha",
-"https://marshablackburn.com/news",
-"https://marshablackburn.com/news/page/2",
-"https://marshablackburn.com/news/page/28",
-"https://marshablackburn.com/news/page/3",
-"https://marshablackburn.com/privacy-policy",
-"https://marshablackburn.com/submissions?checkbox=endorse",
-"https://marshablackburn.com/team-marsha-store",
-"https://secure.winred.com/marsha-for-governor/website",
-"https://truthsocial.com/@VoteMarshaBlackburn",
-"https://vimeo.com/votemarsha",
-"https://x.com/votemarsha",
-"https://youtube.com/@votemarshablackburn"
+{
+"text": "2",
+"href": "https://marshablackburn.com/news/page/2/"
+},
+{
+"text": "28",
+"href": "https://marshablackburn.com/news/page/28/"
+},
+{
+"text": "3",
+"href": "https://marshablackburn.com/news/page/3/"
+},
+{
+"text": "All",
+"href": "https://marshablackburn.com/news/"
+},
+{
+"text": "Bell to Bell: No Cell",
+"href": "https://marshablackburn.com/bell-to-bell-no-cell/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/marsha-for-governor/website"
+},
+{
+"text": "Endorse",
+"href": "https://marshablackburn.com/join-us/?checkbox=endorse"
+},
+{
+"text": "Endorsement Submissions",
+"href": "https://marshablackburn.com/submissions/?checkbox=endorse"
+},
+{
+"text": "Endorsements",
+"href": "https://marshablackburn.com/category/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://marshablackburn.com/"
+},
+{
+"text": "In The News",
+"href": "https://marshablackburn.com/category/in-the-news/"
+},
+{
+"text": "In The News",
+"href": "https://marshablackburn.com/news/"
+},
+{
+"text": "In The News: Senator Johnson: A Look at Marsha Blackburn’s Economic Vision for TennesseeIn The NewsSeptember 24, 2026[image]",
+"href": "https://marshablackburn.com/2026/09/24/in-the-news-senator-johnson-a-look-at-marsha-blackburns-economic-vision-for-tennessee/"
+},
+{
+"text": "Issues",
+"href": "https://marshablackburn.com/issues/"
+},
+{
+"text": "Join The Team",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Join Us",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Marsha Blackburn Releases Statement on the Failed Execution of Christa PikePress ReleaseOctober 1, 2026[image]",
+"href": "https://marshablackburn.com/2026/10/01/marsha-blackburn-releases-statement-on-the-failed-execution-of-christa-pike/"
+},
+{
+"text": "Meet Marsha",
+"href": "https://marshablackburn.com/meet-marsha/"
+},
+{
+"text": "NFIB Tennessee PAC Endorses Marsha Blackburn for Governor EndorsementsSeptember 30, 2026[image]",
+"href": "https://marshablackburn.com/2026/09/30/nfib-tennessee-pac-endorses-marsha-blackburn-for-governor/"
+},
+{
+"text": "Press Releases",
+"href": "https://marshablackburn.com/category/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marshablackburn.com/privacy-policy/"
+},
+{
+"text": "Representative Chris Todd: I’m Voting for Marsha Blackburn Because, Time and Again, She Has Had Tennessee’s Back.In The NewsOctober 5, 2026[image]",
+"href": "https://marshablackburn.com/2026/10/05/representative-chris-todd-im-voting-for-marsha-blackburn-because-time-and-again-she-has-had-tennessees-back/"
+},
+{
+"text": "Team Store",
+"href": "https://marshablackburn.com/team-marsha-store/"
+},
+{
+"text": "Tennessee Fire Chiefs Association Endorses Marsha Blackburn for GovernorEndorsementsSeptember 28, 2026[image]",
+"href": "https://marshablackburn.com/2026/09/28/tennessee-fire-chiefs-association-endorses-marsha-blackburn-for-governor/"
+},
+{
+"text": "Videos",
+"href": "https://marshablackburn.com/category/video/"
+},
+{
+"text": "[image: Marsha Blackburn for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[image: Marsha for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.flickr.com/photos/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@VoteMarshaBlackburn"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/votemarsha"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemarshablackburn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votemarshablackburn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votemarsha"
+},
+{
+"text": "→",
+"href": "https://marshablackburn.com/news/page/2/"
+}
 ]

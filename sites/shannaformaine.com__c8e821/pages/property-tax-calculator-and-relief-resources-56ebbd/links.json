@@ -1,30 +1,118 @@
 [
-"https://calculators.munibase.org/",
-"https://facebook.com/shannaformaine",
-"https://instagram.com/shannaformaine",
-"https://lewistonmaine.gov/107/Assessors-Department",
-"https://lewistonmaine.gov/m/newsflash/Home/Detail/1773",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/blind_application_form.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/homestead_application_form.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/solar_application_form.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/veterans_WPMC.application_form.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/veterans_application_form.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/25_1040me_sch_ptfc_fillable.pdf",
-"https://maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/abatementapp.pdf",
-"https://maine.gov/revenue/tax-return-forms/property-tax",
-"https://maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/property-tax-fairness-credit",
-"https://maine.gov/revenue/taxes/tax-relief-credits-programs/property-tax-relief-programs/deferral-program",
-"https://secure.actblue.com/donate/shannaformaine",
-"https://shannaformaine.com/",
-"https://shannaformaine.com/endorsements",
-"https://shannaformaine.com/endorsements/endorse-shanna",
-"https://shannaformaine.com/get-involved",
-"https://shannaformaine.com/get-involved/contact",
-"https://shannaformaine.com/get-involved/events",
-"https://shannaformaine.com/get-involved/volunteer",
-"https://shannaformaine.com/get-involved/voting-info",
-"https://shannaformaine.com/issues",
-"https://shannaformaine.com/meet-shanna",
-"https://shannaformaine.com/news",
-"https://tidepoolcreative.com/"
+{
+"text": "2025 Schedule PTFC/STFC",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/25_1040me_sch_ptfc_fillable.pdf"
+},
+{
+"text": "Blind Person’s Exemption application",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/blind_application_form.pdf"
+},
+{
+"text": "Contact",
+"href": "https://shannaformaine.com/get-involved/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannaformaine"
+},
+{
+"text": "Endorse Shanna",
+"href": "https://shannaformaine.com/endorsements/endorse-shanna/"
+},
+{
+"text": "Endorsements",
+"href": "https://shannaformaine.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://shannaformaine.com/get-involved/events/"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/shannaformaine"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/shannaformaine"
+},
+{
+"text": "Get Involved",
+"href": "https://shannaformaine.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "Homestead application form",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/homestead_application_form.pdf"
+},
+{
+"text": "Issues",
+"href": "https://shannaformaine.com/issues/"
+},
+{
+"text": "Lewiston Assessor’s Department",
+"href": "https://www.lewistonmaine.gov/107/Assessors-Department"
+},
+{
+"text": "Maine Property Tax Forms page",
+"href": "https://www.maine.gov/revenue/tax-return-forms/property-tax"
+},
+{
+"text": "Meet Shanna",
+"href": "https://shannaformaine.com/meet-shanna/"
+},
+{
+"text": "Municipal property-tax abatement form",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/abatementapp.pdf"
+},
+{
+"text": "News",
+"href": "https://shannaformaine.com/news/"
+},
+{
+"text": "Program and eligibility information",
+"href": "https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/income-tax-credits/property-tax-fairness-credit"
+},
+{
+"text": "Program information and future application",
+"href": "https://www.maine.gov/revenue/taxes/tax-relief-credits-programs/property-tax-relief-programs/deferral-program"
+},
+{
+"text": "Renewable Energy Equipment Exemption application",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/solar_application_form.pdf"
+},
+{
+"text": "Surviving spouse, parent or minor-child application",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/veterans_WPMC.application_form.pdf"
+},
+{
+"text": "This property tax calculator",
+"href": "https://calculators.munibase.org/#reval"
+},
+{
+"text": "Tide Pool Creative",
+"href": "https://tidepoolcreative.com/"
+},
+{
+"text": "Veterans’ application",
+"href": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-10/veterans_application_form.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://shannaformaine.com/get-involved/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://shannaformaine.com/get-involved/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "citywide revaluation",
+"href": "https://www.lewistonmaine.gov/m/newsflash/Home/Detail/1773"
+}
 ]

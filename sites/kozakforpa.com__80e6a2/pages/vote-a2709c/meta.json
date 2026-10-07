@@ -1,7 +1,9 @@
 {
  "description": "Register to vote in Pennsylvania with Kozak for PA. Discover how to vote by mail and stay informed for the upcoming elections.",
  "final_url": "https://kozakforpa.com/vote",
- "paid_for_by": "Paid for by Citizens For Kozak - All Rights Reserved Powered by This website uses cookies",
+ "fingerprint": "f02a1a9248f96f46362ee9f2b76019f4fc7c6df8",
+ "format": 3,
+ "paid_for_by": "Paid for by Citizens For Kozak - All Rights Reserved Powered by",
  "title": "VOTE",
  "years_mentioned": []
 }

@@ -1,18 +1,106 @@
 [
-"http://facebook.com/hathawayforcongress",
-"http://instagram.com/hathawayforcongress",
-"http://x.com/HathawayForNJ11",
-"https://joehathawayforcongress.com/",
-"https://joehathawayforcongress.com/join",
-"https://joehathawayforcongress.com/platform",
-"https://joehathawayforcongress.com/terms-privacy",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=100",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=1000",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=25",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=250",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=3500",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=50",
-"https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=500",
-"https://secure.winred.com/joe-hathaway-for-congress/storefront"
+{
+"text": "$100",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=250"
+},
+{
+"text": "$3500",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today?amount=500"
+},
+{
+"text": "ABOUT",
+"href": "https://www.joehathawayforcongress.com"
+},
+{
+"text": "CHIP IN $25 NOW TO SEND JOE TO CONGRESS",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@joehathawayforcongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/donate-today"
+},
+{
+"text": "HOME",
+"href": "https://www.joehathawayforcongress.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.joehathawayforcongress.com/join"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.joehathawayforcongress.com/platform"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joehathawayforcongress.com/terms-privacy"
+},
+{
+"text": "Privacy Policy and Terms & Conditions.",
+"href": "https://www.joehathawayforcongress.com/terms-privacy"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/joe-hathaway-for-congress/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.joehathawayforcongress.com/terms-privacy"
+},
+{
+"text": "[image: GF-Joe-Hathaway-for-Congress-Logo-FINAL-Blue_edited.jpg]",
+"href": "https://www.joehathawayforcongress.com"
+},
+{
+"text": "[image: GF-Joe-Hathaway-for-Congress-Logo-FINAL.png]",
+"href": "https://www.joehathawayforcongress.com"
+},
+{
+"text": "[image: Hathaway (1)]",
+"href": "http://x.com/HathawayForNJ11"
+},
+{
+"text": "[image: Hathaway (2)]",
+"href": "http://instagram.com/hathawayforcongress"
+},
+{
+"text": "[image: Hathaway (3)]",
+"href": "http://www.facebook.com/hathawayforcongress"
+},
+{
+"text": "[image: Hathaway Facebook]",
+"href": "http://www.facebook.com/hathawayforcongress"
+},
+{
+"text": "[image: Hathaway Insta]",
+"href": "http://instagram.com/hathawayforcongress"
+},
+{
+"text": "[image: Hathaway X]",
+"href": "http://x.com/HathawayForNJ11"
+}
 ]

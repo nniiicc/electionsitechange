@@ -1,32 +1,198 @@
 [
-"https://facebook.com/RhettaForHD113",
-"https://instagram.com/rhettaforhd113",
-"https://rhettabowers.com/",
-"https://rhettabowers.com/2018/04/24/texas-house-district-113-likely-to-flip-in-2018",
-"https://rhettabowers.com/2018/07/01/endorsement-dallas-county-tejano-democrats",
-"https://rhettabowers.com/2018/07/01/endorsement-flippable",
-"https://rhettabowers.com/2018/07/01/endorsement-mexican-american-democrats-of-texas",
-"https://rhettabowers.com/2018/07/01/endorsement-moms-demand-action",
-"https://rhettabowers.com/2018/07/01/endorsement-the-preston-hollow-democrats",
-"https://rhettabowers.com/2018/07/01/endorsement-ufcw-local-1000",
-"https://rhettabowers.com/2018/09/11/rhetta-bowers-in-one-of-texas-hottest-contests-for-the-november-midterms",
-"https://rhettabowers.com/2018/10/01/president-barack-obama-endorses-rhetta",
-"https://rhettabowers.com/2018/10/13/rhetta-is-endorsed-by-dallas-morning-news",
-"https://rhettabowers.com/2020/03/20/hd113-coronavirus-covid-19-update-do-the-2020-census-while-social-distancing",
-"https://rhettabowers.com/2020/06/24/team-bowers-upcoming-events-mark-your-calendars",
-"https://rhettabowers.com/2022/02/14/healthcare-texans-need-affordable-healthcare",
-"https://rhettabowers.com/about",
-"https://rhettabowers.com/contact",
-"https://rhettabowers.com/endorsements",
-"https://rhettabowers.com/issues",
-"https://rhettabowers.com/join-the-campaign",
-"https://rhettabowers.com/news-articles-about-rhetta-bowers",
-"https://rhettabowers.com/news-articles-about-rhetta-bowers/page/2",
-"https://rhettabowers.com/news-articles-about-rhetta-bowers/page/3",
-"https://rhettabowers.com/news-articles-about-rhetta-bowers/page/4",
-"https://rhettabowers.com/texas-house-district-113-information",
-"https://rhettabowers.com/voting-information",
-"https://tinyurl.com/WebDonation",
-"https://twitter.com/BowersForTexas",
-"https://twitter.com/rhettaforhd113"
+{
+"text": "ABOUT",
+"href": "https://rhettabowers.com/about"
+},
+{
+"text": "Contact",
+"href": "https://rhettabowers.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://tinyurl.com/WebDonation"
+},
+{
+"text": "Endorsement: Dallas County Tejano Democrats",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-dallas-county-tejano-democrats/"
+},
+{
+"text": "Endorsement: Flippable",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-flippable/"
+},
+{
+"text": "Endorsement: Mexican American Democrats of Texas",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-mexican-american-democrats-of-texas/"
+},
+{
+"text": "Endorsement: Moms Demand Action",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-moms-demand-action/"
+},
+{
+"text": "Endorsement: The Preston Hollow Democrats",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-the-preston-hollow-democrats/"
+},
+{
+"text": "Endorsement: UFCW Local 1000",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-ufcw-local-1000/"
+},
+{
+"text": "Endorsements",
+"href": "https://rhettabowers.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RhettaForHD113/"
+},
+{
+"text": "Home",
+"href": "https://rhettabowers.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://rhettabowers.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rhettaforhd113/"
+},
+{
+"text": "Issues",
+"href": "https://rhettabowers.com/issues/"
+},
+{
+"text": "Let’s Do This Team Bowers! – Help Us Maximize June Fundraising",
+"href": "https://rhettabowers.com/2020/06/23/lets-do-this-team-bowers-help-us-maximize-june-fundraising/"
+},
+{
+"text": "Media",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/"
+},
+{
+"text": "Meet Rhetta",
+"href": "https://rhettabowers.com/about/"
+},
+{
+"text": "Page1",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/"
+},
+{
+"text": "Page2",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/page/2/"
+},
+{
+"text": "Page3",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/page/3/"
+},
+{
+"text": "Page4",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/page/4/"
+},
+{
+"text": "President Barack Obama Endorses Rhetta",
+"href": "https://rhettabowers.com/2018/10/01/president-barack-obama-endorses-rhetta/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/01/17/rhetta-on-fox-4-dallas/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/04/24/texas-house-district-113-likely-to-flip-in-2018/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-dallas-county-tejano-democrats/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-flippable/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-mexican-american-democrats-of-texas/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-moms-demand-action/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-the-preston-hollow-democrats/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/07/01/endorsement-ufcw-local-1000/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/09/11/rhetta-bowers-in-one-of-texas-hottest-contests-for-the-november-midterms/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/10/01/president-barack-obama-endorses-rhetta/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2018/10/13/rhetta-is-endorsed-by-dallas-morning-news/"
+},
+{
+"text": "Read More »",
+"href": "https://rhettabowers.com/2020/06/23/lets-do-this-team-bowers-help-us-maximize-june-fundraising/"
+},
+{
+"text": "Rhetta Bowers in one of Texas’ hottest contests for the November midterms",
+"href": "https://rhettabowers.com/2018/09/11/rhetta-bowers-in-one-of-texas-hottest-contests-for-the-november-midterms/"
+},
+{
+"text": "Rhetta is Endorsed by Dallas Morning News",
+"href": "https://rhettabowers.com/2018/10/13/rhetta-is-endorsed-by-dallas-morning-news/"
+},
+{
+"text": "Rhetta on FOX 4 Dallas",
+"href": "https://rhettabowers.com/2018/01/17/rhetta-on-fox-4-dallas/"
+},
+{
+"text": "Texas House District 113 likely to flip in 2018",
+"href": "https://rhettabowers.com/2018/04/24/texas-house-district-113-likely-to-flip-in-2018/"
+},
+{
+"text": "The District",
+"href": "https://rhettabowers.com/texas-house-district-113-information/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/BowersForTexas"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/rhettaforhd113"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://rhettabowers.com/join-the-campaign"
+},
+{
+"text": "VOTE",
+"href": "https://rhettabowers.com/voting-information"
+},
+{
+"text": "Volunteer",
+"href": "https://rhettabowers.com/join-the-campaign/"
+},
+{
+"text": "Voting Information",
+"href": "https://rhettabowers.com/voting-information/"
+},
+{
+"text": "[image: Re-Elect Rhetta Bowers State Representative Logo]",
+"href": "https://rhettabowers.com/"
+},
+{
+"text": "[image]",
+"href": "https://rhettabowers.com/2020/06/23/lets-do-this-team-bowers-help-us-maximize-june-fundraising/"
+},
+{
+"text": "« Previous",
+"href": "https://rhettabowers.com/news-articles-about-rhetta-bowers/page/4/"
+}
 ]

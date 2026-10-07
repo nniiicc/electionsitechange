@@ -1,9 +1,34 @@
 [
-"https://jimjordanforcongress.com/",
-"https://jimjordanforcongress.com/invite",
-"https://jimjordanforcongress.com/jim-jordan-biography",
-"https://jimjordanforcongress.com/privacy-policy",
-"https://jimjordanforcongress.com/take-action",
-"https://jimjordanforcongress.com/the-newsroom",
-"https://secure.winred.com/jimjordan/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jimjordan/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.jimjordanforcongress.com/"
+},
+{
+"text": "Invite",
+"href": "https://www.jimjordanforcongress.com/invite"
+},
+{
+"text": "MEET JIM",
+"href": "https://www.jimjordanforcongress.com/jim-jordan-biography"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimjordanforcongress.com/privacy-policy"
+},
+{
+"text": "Take Action",
+"href": "https://www.jimjordanforcongress.com/take-action"
+},
+{
+"text": "The Newsroom",
+"href": "https://www.jimjordanforcongress.com/the-newsroom"
+},
+{
+"text": "[image: Jim Jordan]",
+"href": "https://www.jimjordanforcongress.com/"
+}
 ]

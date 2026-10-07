@@ -1,29 +1,12 @@
-BOBBY WILL
-cut crime
-Maine is being overrun by drug cartels, and radical policy failures from Democratic leadership have enabled this crisis.
+Meet Bobby NEWS Issues ACtion center Get Involved Events STORE X DONATE BOBBY ON THE ISSUES      BOBBY WILL cut crime Maine is being overrun by drug cartels, and radical policy failures from Democratic leadership have enabled this crisis.
 As Governor, Bobby Charles will dismantle cartel networks operating inside and across our borders.
 He will strengthen law enforcement, increase support for addiction recovery and mental health services, and ensure our communities are no longer losing loved ones to violence and overdose.
-- CRACK DOWN ON GOVERNMENT CORRUPTION AND FRAUD
-- REBUILD AND EMPOWER LAW ENFORCEMENT WHILE TARGETING DRUG NETWORKS
-- ENFORCE STRICT PUBLIC SAFETY AND IMMIGRATION POLICIES
-- ROOT OUT BUREAUCRATIC CORRUPTION
-- ENFORCE STRICT CRIMINAL ACCOUNTABILITY
-- PROTECT TAXPAYERS AND FAMILIES
-BOBBY WILL
-cut your taxes
-Bobby Charles will reverse the heavy burden that businesses and working families face under high taxes and excessive regulations.
+BOBBY’S PLAN TO CUT CRIME: POLICY ROLLOUT CRACK DOWN ON GOVERNMENT CORRUPTION AND FRAUD REBUILD AND EMPOWER LAW ENFORCEMENT WHILE TARGETING DRUG NETWORKS ENFORCE STRICT PUBLIC SAFETY AND IMMIGRATION POLICIES DOWNLOAD BOBBY'S 20-POINT ACCOUNTABILITY PLAN ROOT OUT BUREAUCRATIC CORRUPTION ENFORCE STRICT CRIMINAL ACCOUNTABILITY PROTECT TAXPAYERS AND FAMILIES DOWNLOAD BOBBY WILL cut your taxes Bobby Charles will reverse the heavy burden that businesses and working families face under high taxes and excessive regulations.
 He pledges to abolish the state income tax, slash unnecessary regulation, and cut the red tape that stifles economic growth, so Mainers can keep more of what they earn and attract more opportunity to our state.
-- END COSTLY POLITICAL MANDATES
-- REPLACE POLITICAL APPOINTEES WITH EXPERTS
-- RESTORE & PROTECT RELIABLE POWER
-- CUT ENERGY COSTS FOR MAINERS
-- PUT ENERGY EXPERTS IN CHARGE
-- RESTORE RELIABLE, AFFORDABLE POWER
-Bobby believes in
-no nonsense
-Maine's education system should prepare every child for success, not teach liberal ideology.
+BOBBY CHARLES PROPERTY TAX PLAN END COSTLY POLITICAL MANDATES REPLACE POLITICAL APPOINTEES WITH EXPERTS RESTORE & PROTECT RELIABLE POWER DOWNLOAD BOBBY CHARLES ENERGY PLAN CUT ENERGY COSTS FOR MAINERS PUT ENERGY EXPERTS IN CHARGE RESTORE RELIABLE, AFFORDABLE POWER DOWNLOAD Bobby believes in no nonsense Maine's education system should prepare every child for success, not teach liberal ideology.
 Bobby Charles’ plan is to refocus on core subjects: reading, math, and science, and eliminate so-called "woke" indoctrination from classrooms.
 He will support teachers, educational freedom, and curriculum transparency to ensure parents have real say in what is taught.
-- RESTORE COMMON SENSE IN MAINE
-- END POLITICAL GAMES & WASTEFUL SPENDING
-- PROTECT PARENTS, TAXPAYERS & PUBLIC SAFETY
+NO NONSENSE PLAN RESTORE COMMON SENSE IN MAINE END POLITICAL GAMES & WASTEFUL SPENDING PROTECT PARENTS, TAXPAYERS & PUBLIC SAFETY DOWNLOAD MEET BOBBY NEWS ISSUES Action center GET INVOLVED EVENTS STORE DONATE      Bobby Charles is a former U.S.
+Naval Intelligence Officer.
+Use of his military rank, titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for and authorized by Bobby Charles for Maine Governor Campaign Committee

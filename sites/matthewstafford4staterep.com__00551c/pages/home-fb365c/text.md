@@ -1,16 +1,5 @@
-Experience next-generation government solutions built to serve and protect.
-Reimagining Public Service
-Reimagining Public Service
-Pioneering the Future of Civic Innovation
-As a Businessman and non-profit organizer and Marine Vet Matthew and his team has been able to help hundreds of families in our community who have fallen on hard times. his work through the non-profit RumBai Family Services has helped struggling families with food,housing, and job services and given this extraordinary desire to help others he plans to take that same drive to lansing by putting it to work for YOU.
-Endorsements and Support
-Veterans for a Better Mi (VBM) Agri-Pac Farm Bureau Citizens for Traditional Values (CTV) MCRGO- Endorsed NRA AQ rated
-MiGOP Stand For Health(SFH) Detriot News Oakland County Republican Party(OCRP) North Oakland Republican Club (NORC)
-State Government: Candidates
-Shelley wright-State Senate Casey Armitage- State House Genevieve Peters Scott- Congressional Seat
-Ron Robinson- State House Deanna Martin- State House Martell Bivings - Congressional Seat Anthony Forlini - Sec. of state
-Doug Lloyd - Attorney General Joseph Aragon- State House Michelle Nard - State Senate
-Community Leaders
-Rockey Raczkowski Yoav Gilad Kabair Ahmed Todd Douglas Mike Detmer
-Julian Denha Eddie Dickerson Trey Mueller Will Jackson Stanley Grot
-MORE TO COME
+0 Skip to Content Matthew Stafford for State Representative About Home Donate Volunteer Contact Open Menu Close Menu Matthew Stafford for State Representative About Home Donate Volunteer Contact Open Menu Close Menu About Home Donate Volunteer Contact Experience next-generation government solutions built to serve and protect.
+Reimagining Public Service Reimagining Public Service Reimagining Public Service Pioneering the Future of Civic Innovation As a Businessman and non-profit organizer and Marine Vet Matthew and his team has been able to help hundreds of families in our community who have fallen on hard times. his work through the non-profit RumBai Family Services has helped struggling families with food,housing, and job services and given this extraordinary desire to help others he plans to take that same drive to lansing by putting it to work for YOU.
+Endorsements and Support Veterans for a Better Mi (VBM) Agri-Pac Farm Bureau Citizens for Traditional Values (CTV) MCRGO- Endorsed NRA AQ rated MiGOP Stand For Health(SFH) Detriot News Oakland County Republican Party(OCRP) North Oakland Republican Club (NORC) State Government: Candidates Shelley wright-State Senate Casey Armitage- State House Genevieve Peters Scott- Congressional Seat Ron Robinson- State House Deanna Martin- State House Martell Bivings - Congressional Seat Anthony Forlini - Sec. of state Doug Lloyd - Attorney General Joseph Aragon- State House Michelle Nard - State Senate Community Leaders Rockey Raczkowski Yoav Gilad Kabair Ahmed Todd Douglas Mike Detmer Julian Denha Eddie Dickerson Trey Mueller Will Jackson Stanley Grot MORE TO COME Follow Our Journey Into the Future Follow Our Journey Into the Future Follow Our Journey Into the Future Elect Matthew Stafford for your next state representative.
+Location Warren, Michigan paid for by the committee to Elect Matthew Stafford for your next state representative.
+Contact mtstafford2@gmail.com Phone: 248) 796-1946 FB: Facebook.com/ElectMatthewStaffordforstaterep

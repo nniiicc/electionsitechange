@@ -1,6 +1,4 @@
-From the office of Senator Aric Putnam
-Campus will train new doctors and offer residency opportunities in greater Minnesota
-ST.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Senator Aric Putnam, Majority Leader Murphy Tour CentraCare Medical School Campus, Highlight Investment in Minnesota Healthcare Workforce Posted on August 13, 2026 September 23, 2026 by Aric Putnam From the office of Senator Aric Putnam Campus will train new doctors and offer residency opportunities in greater Minnesota ST.
 CLOUD, Minn. – On Wednesday, Senator Aric Putnam (DFL – St.
 Cloud) and Senate Majority Leader Erin Murphy (DFL-St.
 Paul) toured the CentraCare Regional Campus of the University of Minnesota Medical School in St.
@@ -19,4 +17,6 @@ According to the University of Minnesota, the median age of rural Minnesota phys
 “This campus is what it looks like when we make smart investments to expand and strengthen our healthcare workforce in greater Minnesota, and with it we make sure Minnesotans can access quality care closer to home,” said Senate Majority Leader Erin Murphy.
 “This CentraCare campus is a tremendous accomplishment, and shows what we can achieve when legislators, healthcare providers, and our university comes together around a shared goal: ensuring that every Minnesota has access to the care they need no matter where they live.
 “This is a long-term investment in the health and vitality of communities across Minnesota,” Senator Putnam said.
-“The students training here today can become the doctors serving our neighbors, our rural communities and our region tomorrow.”
+“The students training here today can become the doctors serving our neighbors, our rural communities and our region tomorrow.” ← All press releases Posted in Press releases Post navigation St.
+Cloud Live: “Putnam named to commission to identify candidates for Inspector General” On National Senior Citizens Day, Senator Aric Putnam Highlights Legislative Efforts Supporting Minnesota’s Seniors PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

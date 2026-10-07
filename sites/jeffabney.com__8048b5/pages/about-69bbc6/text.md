@@ -1,7 +1,4 @@
-Jeff Abney
-9:51 AM (0 minutes ago)
-to me
-My name is Jeff Abney, and my family has deep roots in Jefferson County.
+0 Skip to Content Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Open Menu Close Menu Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Open Menu Close Menu Home About Policy Questions Contact Us DONATE/VOLUNTEER ACT Blue Jeff Abney 9:51 AM (#ago) to me My name is Jeff Abney, and my family has deep roots in Jefferson County.
 I grew up in Fenton, attended Murphy Elementary, North Jefferson, and both Northwests, and I am proud to call this community my home.
 My family is reflective of the hard-working people of this county.
 From lifelong union workers at the GM plant, tellers at Eagle Bank in Cedar Hill, or the half dozen nurses that have taken care of the people of this county.
@@ -16,3 +13,5 @@ I will focus on public engagement, come to common-sense solutions, and measure e
 This county deserves solution-oriented representation from someone who knows what it is like growing up here and who wants to genuinely improve Jefferson County for everyone.
 This community deserves representation rooted in integrity, service, and results.
 I ask for your support as we work to move Jefferson County forward together.
+Jeff Abney for State Senate P.O.
+Box 333 Barnhart, MO 63012 (636) 987- 3879 Press Contact: Chloe Ray chloe@sapphirestrategies.org 573-276-8149 PAID FOR BY JEFF ABNEY FOR STATE SENATE, JEFF ABNEY TREASURER

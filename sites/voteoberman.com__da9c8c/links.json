@@ -1,10 +1,42 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdTcF2ehMwehjKLvYeufC0oG10BbPAlTDQj_dfbMDh_WFSPRg/viewform",
-"https://facebook.com/anthony4indiana?__tn__=-UC%2AF",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/anthony-oberman-1",
-"https://voteoberman.com/",
-"https://voteoberman.com/my-values"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/anthony-oberman-1"
+},
+{
+"text": "Help me put working families first in District 15. Donate today!",
+"href": "https://secure.actblue.com/donate/anthony-oberman-1"
+},
+{
+"text": "Home",
+"href": "https://voteoberman.com/"
+},
+{
+"text": "My Values",
+"href": "https://voteoberman.com/my-values"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdTcF2ehMwehjKLvYeufC0oG10BbPAlTDQj_dfbMDh_WFSPRg/viewform"
+},
+{
+"text": "[image: voteoberman.com]",
+"href": "https://voteoberman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/anthony4indiana?__tn__=-UC%2AF"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

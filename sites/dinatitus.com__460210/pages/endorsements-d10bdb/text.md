@@ -1,41 +1,5 @@
-top of page
-AFSCME Local 4041
-Southwest Regional Council of Carpenters
-Armenian National Committee of America - Western Region
-Unite Here!
-Moms Demand Action
-UAW - Region 6
-White Coat Waste PAC
-Feminist Majority Foundation
-Nevada Faculty Alliance
-Reproductive Freedom for All
-Clark County Black Caucus
-Alliance for Retired Americans
-National Education Association
-Planned Parenthood Action Fund
-Defend the Vote
-National Women's Political Caucus
-Bricklayers and Allied Craftworkers Local 13
-International Brotherhood of Electrical Workers Local 357
-National Committee to Preserve Social Security and Medicare
-Unite Here!
-Bartenders Local #165
-International Brotherhood of Teamsters Local 631
-International Association of Ironworkers Local 118
-International Union of Operating Engineers Local 12
-International Union of Painters and Allied Trades District 16
-Operative Plasterers' and Cement Masons' International Association Local 797
-International Association of Ironworkers Local 416
-International Union of Elevator Construction Local 18
-International Association of Heat and Frost Insulators Local 315
-International Association of Sheet Metal, Air, Rail and Transportation Workers Local 88
-International Association of Ironworkers Local 433
-United Union of Roofers, Waterproofers & Allied Workers Local 162
-International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers
-UA Plumbers, Pipefitters, Welders & HVAC Local 525
-International Brotherhood of Electrical Workers Local 396
-International Alliance of Theatrical and Stage Employees Local 720
-End Citizens United
-Asian American Group
-National Utility Contractors Association
-bottom of page
+top of page Donate HOME ABOUT EN ESPANOL NEWS ENDORSEMENTS VOLUNTEER Menu Use tab to navigate through the menu items.
+ENDORSEMENTS Emily's List Nevada AFL-CIO Culinary Workers Union Local #226 League of Conservation Voters Action Fund AFSCME Local 4041 Southern Nevada Builder Trades Union Southwest Regional Council of Carpenters Nevada Association of Public Safety Officers National Nurses United National Organization for Women PAC Nevada Federation of Democratic Women Las Vegas Firefighters Local 1285 Service Employees International Union 1107 Association of Flight Attendants-CWA, AFL-CIO Sierra Club Animal Wellness Action The Jewish Democratic Council of America Natural Resources Defense Council Action Fund Democratic Majority for Israel PAC Everytown for Gun Safety Action Fund Giffords PAC Armenian National Committee of America - Western Region Human Rights Campaign Nevada Teamsters Nevada State Education Association Brady Campaign to Prevent Gun Violence Team Blue PAC Unite Here!
+AAPI Forward Moms Demand Action UAW - Region 6 Professional Firefighters of Nevada White Coat Waste PAC Feminist Majority Foundation Nevada Faculty Alliance Reproductive Freedom for All Clark County Black Caucus Alliance for Retired Americans "Dina Titus’s career has been dedicated to education, both as a teacher and in her work in Congress.
+She is a committed ally to the Jewish community and Israel, and we are proud to endorse her reelection." Women's Political Committee National Education Association Planned Parenthood Action Fund Defend the Vote National Women's Political Caucus Bricklayers and Allied Craftworkers Local 13 International Brotherhood of Electrical Workers Local 357 National Committee to Preserve Social Security and Medicare Unite Here!
+Bartenders Local #165 International Brotherhood of Teamsters Local 631 International Association of Ironworkers Local 118 International Union of Operating Engineers Local 12 International Union of Painters and Allied Trades District 16 Operative Plasterers' and Cement Masons' International Association Local 797 International Association of Ironworkers Local 416 International Union of Elevator Construction Local 18 International Association of Heat and Frost Insulators Local 315 International Association of Sheet Metal, Air, Rail and Transportation Workers Local 88 International Association of Ironworkers Local 433 United Union of Roofers, Waterproofers & Allied Workers Local 162 International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers BlueGreen Alliance UA Plumbers, Pipefitters, Welders & HVAC Local 525 International Brotherhood of Electrical Workers Local 396 International Alliance of Theatrical and Stage Employees Local 720 End Citizens United Asian American Group Nevada Impact Pro-Israel America Elect Democratic Women National Utility Contractors Association Moms' Seal of Approval on Child Care Armed Forces Chamber Nevada Veterans United GET INVOLVED ENDORSEMENTS NEWS Donate EN ESPANOL PRIVACY POLICY PO Box 19232 Las Vegas, NV 89132 ​ Paid for by Titus for Congress bottom of page

@@ -1,42 +1,12 @@
-In The News: Articles, Op-Eds, and Interviews
-Manchester Journal: Candidates Pledge Support for School Choice
-GNAT The News Project: In Studio - A Conversation with Mike Rice and Sandy Pinsonault
-Manchester Journal Op Ed: Rep.
-Mike Rice - Confronting a crisis
-GNAT The News Project: JK Adams Celebrates 80 Years in Business with a State Resolution
-GNAT The News Project: In Studio - Legislators Discuss Recent Session
-Manchester Journal: Mike Rice announces re-election campaign
-WDEV: Vermont Viewpoint with Rep.
-Mike Rice
-VT Digger Op Ed: Rep.
-Mike Rice - Vermont must invest to end our housing crisis
-Manchester Journal Op Ed: Meeting the moment
-NBC5: Bill that bans neonicotinoids passes through the house
-GNAT The News Project: In Studio - 2024 Mid-Session Legislative Update
-Vermont Biz: Mike Rice presented with 2024 Environmental Rising Star Award
-Manchester Journal: Dorset advocates push for Outdoor Recreation Bill
-GNAT The News Project: In Studio - Future Caucus Fellowship and Farming’s Future
-Vermont Biz: Three legislators chosen for inaugural class of innovation fellows
-Manchester Journal Op Ed: It’s time to protect and invest in Vermont’s outdoor recreation economy
-Democracy Dispatch Podcast: VCV Rising Star Award Conversation
-GNAT The News Project: In Studio - 2024 Legislative Preview
-Manchester Journal Op Ed: Setting the record straight on independent schools
-Manchester Journal Op Ed: For strongest public policy, public service must be accessible
-News from the States: Legislators in 49 states ask SCOTUS to preserve access to abortion pill
-VT Digger: As Matthew Morgan’s lawsuit continues, lawmakers call for release from prison
-Manchester Journal: Rep.
-Mike Rice attending ‘Future Summit’ of Millennial, Gen Z Lawmakers
-State Innovation Exchange: LGBTQ+ Legislators Leading on Ag Policy
-WAMC: Capital Region native wraps up first session in Vermont House
-GNAT The News Project: In Studio - 2023 Legislative Wrap Up
-Manchester Journal Op Ed: Legislature gave organic farmers some needed help
-VT Digger: Vermont universal school meals bill looks to boost local farm food
-ORCA Media: All Things LGBTQ Interview Show with Rep.
-Mike Rice
-GNAT The News Project: In Studio - 2023 Mid-Session Legislative Update
-Manchester Journal Op Ed: House’s budget proposal reflects Vermont’s values
-Manchester Journal: Mike Rice of Dorset among new House members sworn in
-GNAT The News Project: In Studio - 2023 Legislative Preview
-GNAT: Candidate Statement - Mike Rice, Bennington-Rutland Candidate
-GNAT The News Project: In Studio - State Representative Candidates Discuss Issues
-Manchester Journal: Mike Rice enters race for state House of Representatives seat
+0 Skip to Content Meet Mike Supporters In The News Volunteer DONATE Open Menu Close Menu Open Menu Close Menu Meet Mike Supporters In The News Volunteer DONATE Meet Mike Supporters In The News Volunteer DONATE In The News: Articles, Op-Eds, and Interviews Manchester Journal: Candidates Pledge Support for School Choice GNAT The News Project: In Studio - A Conversation with Mike Rice and Sandy Pinsonault Manchester Journal Op Ed: Rep.
+Mike Rice - Confronting a crisis GNAT The News Project: JK Adams Celebrates 80 Years in Business with a State Resolution Manchester Journal Op Ed: Rep.
+Mike Rice - Rhetoric vs. responsibility: why I voted to fund our schools while we build a more affordable future GNAT The News Project: In Studio - Legislators Discuss Recent Session Manchester Journal: Mike Rice announces re-election campaign WDEV: Vermont Viewpoint with Rep.
+Mike Rice VT Digger Op Ed: Rep.
+Mike Rice - Vermont must invest to end our housing crisis Manchester Journal Op Ed: Meeting the moment NBC5: Bill that bans neonicotinoids passes through the house GNAT The News Project: In Studio - 2024 Mid-Session Legislative Update Vermont Biz: Mike Rice presented with 2024 Environmental Rising Star Award Manchester Journal: Dorset advocates push for Outdoor Recreation Bill GNAT The News Project: In Studio - Future Caucus Fellowship and Farming’s Future Vermont Biz: Three legislators chosen for inaugural class of innovation fellows Manchester Journal Op Ed: It’s time to protect and invest in Vermont’s outdoor recreation economy Democracy Dispatch Podcast: VCV Rising Star Award Conversation GNAT The News Project: In Studio - 2024 Legislative Preview Manchester Journal Op Ed: Setting the record straight on independent schools Manchester Journal Op Ed: For strongest public policy, public service must be accessible News from the States: Legislators in 49 states ask SCOTUS to preserve access to abortion pill VT Digger: As Matthew Morgan’s lawsuit continues, lawmakers call for release from prison Manchester Journal: Rep.
+Mike Rice attending ‘Future Summit’ of Millennial, Gen Z Lawmakers State Innovation Exchange: Notes from a Legislator - universal school meals policy supports students and farmers in Vermont Bennington Banner: Community Discussion on VT Saves retirement program with State Treasurer Mike Pieciak and Rep.
+Mike Rice State Innovation Exchange: LGBTQ+ Legislators Leading on Ag Policy WAMC: Capital Region native wraps up first session in Vermont House GNAT The News Project: In Studio - 2023 Legislative Wrap Up Manchester Journal Op Ed: Legislature gave organic farmers some needed help VT Digger: Vermont universal school meals bill looks to boost local farm food ORCA Media: All Things LGBTQ Interview Show with Rep.
+Mike Rice GNAT The News Project: In Studio - 2023 Mid-Session Legislative Update Manchester Journal Op Ed: House’s budget proposal reflects Vermont’s values Manchester Journal Op Ed: Universal school meals bill a win-win-win for Vermont schoolchildren, farmers Manchester Journal: Mike Rice of Dorset among new House members sworn in GNAT The News Project: In Studio - 2023 Legislative Preview Manchester Journal: Northshire sees impressive turnout in consequential midterm election; Gulley, James, Bongartz, Rice win big GNAT: Candidate Statement - Mike Rice, Bennington-Rutland Candidate GNAT The News Project: In Studio - State Representative Candidates Discuss Issues Manchester Journal: Mike Rice enters race for state House of Representatives seat Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up for news and updates.
+First Name Last Name Email Address Sign Up Thanks for your interest in our campaign!
+Paid for by Mike Rice for Vermont PO Box 702 Dorset, Vermont 05251 mike@mikericevt.com

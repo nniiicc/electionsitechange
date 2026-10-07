@@ -1,117 +1,19 @@
-Organizations endorsing vinnie
-AFT-WI
-2024, 2026
-Brotherhood of Locomotive Engineers and Trainmen Wisconsin State Legislative Board
-2024
-Brotherhood of Maintenance of Way Employes Division
-2024
-Candidates for Common Good
-2024
-Care for WI
-2024
-Citizen Action of Wisconsin
-2024
-Clean Wisconsin Action Fund
-2024, 2026
-Dairy Business Association
-2024
-Fair Wisconsin PAC
-2024
-IAFF Local 484
-2024
-IBEW Local 388
-2024, 2026
-International Union of Operating Engineers Local 139
-2024, 2026
-International Union of Painters and Allied Trades
-2024
-Jane Fonda Climate PAC
-2024, 2026
-National Association of Social Workers-WI
-2024, 2026
-National Democratic Redistricting Committee
-2024
-Open Democracy PAC
-2024
-Planned Parenthood
-2024
-Plumbers & Steamfitters Local 400
-2024
-Plumbers Local 75
-2024
-Progressive Turnout Project
-2024
-SEIU Wisconsin State Council Political PAC
-2024, 2026
-Sierra Club
-2024, 2026
-SMART TD PAC
-2024
-SPARC
-2024
-Teamsters Local 200 Joint Council 39
-2024
-Teamsters Local 344 Joint Council 39
-2024
-United Auto Workers Region 4
-2024
-Win Wisconsin PAC
-2024
-Wisconsin AFL-CIO
-2024, 2026
-Wisconsin Bricklayers and Allied Craftworkers Union
-2024, 2026
-Wisconsin Conservation Voters
-2024, 2026
-Wisconsin Education Association Council
-2024, 2026
-Wisconsin Laborer’s District Council
-2024, 2026
-Wisconsin Muslim Civic Alliance
-2024
-Wisconsin Progress
-2024, 2026
-Young Democrats of Wisconsin
-2024
-Trusted Leaders Endorsing Vinnie
-Dennis Raabe
-Will Scheder
-Gee Pope
-Jeff Ebel
-Meleesa Johnson
-Mykeerah Zarazua
-Stan Potoki
-Tammy Baldwin
-Elected Officials
-Portage County Board Supervisor for District 19
-Town of Hull Supervisor
-Stevens Point Area Public School District Board Vice President *
-Town of Amherst Chairperson
-Stevens Point Area Public School District Board Member *
-Stevens Point City Council Alderperson
-Stevens Point City Council Alderperson
-Town of Hull Supervisor
-Portage County Board Supervisor for District 8
-Portage County Board Supervisor for District 5
-Portage County Board Supervisor for District 15
-Town of Grant Chairperson
-Librarian and Portage County Board Supervisor for District 6
-Stevens Point City Council Alderperson
-Member of the United States Senate
-Stevens Point Area Public School District Board Member *
-Community Members
-Former Portage County Corporation Counsel
-Former Portage County Board Supervisor for District 24
-Former Portage County Board Supervisor for District 20
-UW-Stevens Point Student Health Services (retired)
-Former Portage County Family Court Commissioner
-Treasurer, IAFF Local 484
-Former Portage County Board Supervisor
-Former Stevens Point City Council President, non-profit leader
-Former Village of Amherst President
-Former Portage County Sheriff
-Professor Emeritus, Early Childhood Education at UW-Stevens Point
-Candidate Pledges
-Vinnie is committed to supporting legislation that addresses mental health and fair maps in Wisconsin and defending the core principles of our democracy to defeat authoritarianism.
-This page is being built from the grassroots up
-Sign below to endorse Vinnie for the 71st Assembly District!
+Skip to content Menu Menu Home About Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate Menu Home About Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate Endorsements Organizations endorsing vinnie AFT-WI 2024 , 2026 Brotherhood of Locomotive Engineers and Trainmen Wisconsin State Legislative Board 2024 Brotherhood of Maintenance of Way Employes Division 2024 Candidates for Common Good 2024 Care for WI 2024 Citizen Action of Wisconsin 2024 Clean Wisconsin Action Fund 2024 , 2026 Dairy Business Association 2024 Fair Wisconsin PAC 2024 IAFF Local 484 2024 IBEW Local 388 2024 , 2026 International Union of Operating Engineers Local 139 2024 , 2026 International Union of Painters and Allied Trades 2024 Jane Fonda Climate PAC 2024 , 2026 National Association of Social Workers-WI 2024 , 2026 National Democratic Redistricting Committee 2024 Open Democracy PAC 2024 Planned Parenthood 2024 Plumbers & Steamfitters Local 400 2024 Plumbers Local 75 2024 Progressive Turnout Project 2024 SEIU Wisconsin State Council Political PAC 2024 , 2026 Sierra Club 2024 , 2026 SMART TD PAC 2024 SPARC 2024 Teamsters Local 200 Joint Council 39 2024 Teamsters Local 344 Joint Council 39 2024 United Auto Workers Region 4 2024 Win Wisconsin PAC 2024 Wisconsin AFL-CIO 2024 , 2026 Wisconsin Bricklayers and Allied Craftworkers Union 2024 , 2026 Wisconsin Conservation Voters 2024 , 2026 Wisconsin Education Association Council 2024 , 2026 Wisconsin Laborer’s District Council 2024 , 2026 Wisconsin Muslim Civic Alliance 2024 Wisconsin Progress 2024 , 2026 Young Democrats of Wisconsin 2024 Trusted Leaders Endorsing Vinnie Dennis Raabe Stevens Point Area Public School District Board Vice President * “I support Vinnie Miresse for the Wisconsin State Assembly because I know he’ll support our public schools, Wisconsin workers, and women’s right to make their own medical decisions.
+I have seen Vinnie grow as a public servant and leader as a member of the Portage County Board, and I know he will fight for the best interests of his constituents.” Will Scheder Stevens Point Area Public School District Board Member * “Vinnie is a champion for working people, students, educators, and the people of Portage County.
+I have been consistently impressed with Vinnie’s ability to deliver results for Portage County, and I have no doubt that he will continue to fight for us in Madison.” Gee Pope Stevens Point Area Public School District Board Member * “As a Stevens Point school board member, I am endorsing Vinnie Miresse for the Wisconsin 71st district assembly position.
+He is a progressive candidate and fully supports all aspects of public education.
+While in office, Vinnie will advocate for ecologically sustainable small family farms and stand behind women’s right to choose their own healthcare options.” Jeff Ebel Entrepreneur and Business Coach “Vinnie will help to create and support a bustling Central Wisconsin ecosystem for entrepreneurship and business creativity.
+He is committed to supporting family-owned businesses as well as big ideas.
+Vinnie’s leadership will be an asset to our community and the local economy.” Meleesa Johnson Former Stevens Point City Council President, non-profit leader “I remember first meeting Vinnie when he joined the Portage County Board.
+Right from the start I was struck by his deep desire to listen to understand all perspectives and his honest, fair deliberation of those perspectives.
+I value that in people, but more importantly, find it essential in a leader.
+Vinnie will bring that approach to Madison.
+An approach that is truly needed.
+I was proud to serve with him on the County Board; I am proud to call him a friend; I am proud to endorse his candidacy for the 71st Assembly District.” Mykeerah Zarazua Social Worker and former Stevens Point City Council Alderperson “Vinnie has been an incredible advocate for people in our community.
+He has demonstrated that he cares about people in every decision that he has made.
+As a county board supervisor, Vinnie routinely stood up to his peers to fight injustice at every turn, and has invigorated all of us Progressives in Portage County!” Stan Potoki Former Portage County Sheriff Tammy Baldwin Member of the United States Senate “I am proud to endorse Vinnie Miresse for Wisconsin State Assembly because he is committed to our shared Wisconsin values, finding solutions for the common good of all Wisconsinites, and he is an experienced and proven community leader.
+We also share a love for Wisconsin cheese curds, fresh and deep fried, and that goes a long way.” * These views do not reflect the views of the Stevens Point Area Public School District or of their colleagues on the School Board.
+Elected Officials Amberle Schwartz Portage County Board Supervisor for District 19 Barbara Brilowski Town of Hull Supervisor Dennis Raabe Stevens Point Area Public School District Board Vice President * Donald Spierings Town of Amherst Chairperson Gee Pope Stevens Point Area Public School District Board Member * Ginger Keymer Stevens Point City Council Alderperson Jacqui Guthrie Stevens Point City Council Alderperson Janet Way Town of Hull Supervisor Joan Honl Portage County Board Supervisor for District 8 Julia Morrow Portage County Board Supervisor for District 5 Nancy Eggleston Portage County Board Supervisor for District 15 Sharon Schwab Town of Grant Chairperson Shaun Przybylski Librarian and Portage County Board Supervisor for District 6 Shawn Morrow Stevens Point City Council Alderperson Tammy Baldwin Member of the United States Senate Will Scheder Stevens Point Area Public School District Board Member * Community Members David Ray Former Portage County Corporation Counsel Gerry Zastrow Former Portage County Board Supervisor for District 24 Greg Hakala Former Portage County Board Supervisor for District 20 James Zach, MD UW-Stevens Point Student Health Services (retired) Jan Roberts Former Portage County Family Court Commissioner Jason Pettis Treasurer, IAFF Local 484 Jerry Walters Former Portage County Board Supervisor Mary Maller Meleesa Johnson Former Stevens Point City Council President, non-profit leader Michael Juris Former Village of Amherst President Stan Potoki Former Portage County Sheriff Yomi Ogunnaike Professor Emeritus, Early Childhood Education at UW-Stevens Point Candidate Pledges Vinnie is committed to supporting legislation that addresses mental health and fair maps in Wisconsin and defending the core principles of our democracy to defeat authoritarianism. democracyFIRST Pledge Fair Maps Pledge Mental Health Candidate Principles For Trusted Elections This page is being built from the grassroots up Sign below to endorse Vinnie for the 71st Assembly District!
+Endorsement Form Notify First Name Last Name Email Address Phone How would you describe yourself?
+Representing an Organization Elected Official Community Member Title Organization Submit Form vinnie@vinnieforassembly.com Donations can be sent to Friends of Vincent Miresse P.O.
+Box 458, Stevens Point, WI 54481 Paid for by Friends of Vincent Miresse Close Home Meet Vinnie 71st District Map Issues Endorsements Voting Contact Donate

@@ -1,15 +1,58 @@
 [
-"https://facebook.com/juliefornc",
-"https://instagram.com/juliefornc?hl=en",
-"https://juliefornc.com/",
-"https://juliefornc.com/about",
-"https://juliefornc.com/endorsements",
-"https://juliefornc.com/events",
-"https://juliefornc.com/issues",
-"https://juliefornc.com/leadership-awards",
-"https://juliefornc.com/volunteer",
-"https://ncleg.gov/Members/Biography/H/758",
-"https://secure.ngpvan.com/SpoDJZoyh0W5NWkqTMhDyw2",
-"https://threads.com/@juliefornc",
-"https://tiktok.com/@juliefornc"
+{
+"text": "ABOUT",
+"href": "https://www.juliefornc.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.ngpvan.com/SpoDJZoyh0W5NWkqTMhDyw2"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.juliefornc.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.juliefornc.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.juliefornc.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.juliefornc.com/issues"
+},
+{
+"text": "LEADERSHIP/AWARDS",
+"href": "https://www.juliefornc.com/leadership-awards"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.juliefornc.com/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.juliefornc.com/volunteer"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@juliefornc"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@juliefornc"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/juliefornc/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/juliefornc/?hl=en"
+},
+{
+"text": "here",
+"href": "https://www.ncleg.gov/Members/Biography/H/758"
+}
 ]

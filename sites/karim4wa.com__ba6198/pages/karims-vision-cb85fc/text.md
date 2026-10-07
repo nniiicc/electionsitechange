@@ -1,6 +1,4 @@
-Karim's Vision
-Karim's Vision
-I am running for the Washington Supreme Court because I believe deeply in the promise of our Constitution and the role courts play in preserving the freedoms of the People.
+Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Karim Merchant Home Meet Karim Karim's Vision Learn Washington Law Contact Donate Karim's Vision Karim's Vision I am running for the Washington Supreme Court because I believe deeply in the promise of our Constitution and the role courts play in preserving the freedoms of the People.
 Throughout my career, I have seen firsthand how government decisions affect ordinary Washingtonians.
 I have represented working families, small business owners, veterans, parents, and individuals facing the full weight of government power.
 Those experiences have reinforced a simple truth: constitutional rights matter most when they are tested.
@@ -32,6 +30,8 @@ While the facts may change, the judiciary's responsibility remains the same: fai
 I am running because I believe Washington deserves a justice who understands both the tremendous power of government and the importance of constitutional limits — a justice who appreciates that courts exist not to govern the people, but to ensure that government remains accountable to them.
 The Washington Supreme Court belongs to all Washingtonians.
 If entrusted with the responsibility to serve, I will approach every case with independence, humility, respect for the rule of law, and an unwavering commitment to the constitutional principles that protect the freedoms of the People.
-Join Us
-Stand With Us
-Help keep Washington's courts independent, principled, and faithful to the Constitution.
+Join Us Stand With Us Help keep Washington's courts independent, principled, and faithful to the Constitution.
+Donate Get Involved Karim Merchant Justice rooted in the Constitution, Grounded in the People.
+Campaign Meet Karim Karim's Vision Learn Washington Law Take Action Get Involved Donate Connect Contact Us Paid for by Karim for Supreme Court.
+P.O.
+Box 53184, Bellevue, WA 98015 Paid for by Karim for Supreme Court Privacy Policy Terms & Conditions © 2026

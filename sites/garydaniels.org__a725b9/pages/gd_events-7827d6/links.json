@@ -1,16 +1,70 @@
 [
-"http://garydaniels.org/gd/donate",
-"http://twitter.com/gldanielsnh",
-"https://facebook.com/electdaniels",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fevents%2F&t=EVENTS",
-"https://garydaniels.org/gd",
-"https://garydaniels.org/gd/about-gary",
-"https://garydaniels.org/gd/campaign-2024/endorsements",
-"https://garydaniels.org/gd/events",
-"https://garydaniels.org/gd/events/get-updates",
-"https://garydaniels.org/gd/goals",
-"https://garydaniels.org/gd/videos",
-"https://garydaniels.org/gd/volunteer",
-"https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00",
-"https://x.com/intent/tweet?text=EVENTS&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fevents%2F"
+{
+"text": "ABOUT",
+"href": "https://garydaniels.org/gd/about-gary/"
+},
+{
+"text": "DONATE",
+"href": "http://garydaniels.org/gd/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://garydaniels.org/gd/campaign-2024/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://garydaniels.org/gd/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electdaniels/"
+},
+{
+"text": "GET UPDATES",
+"href": "https://garydaniels.org/gd/events/get-updates/"
+},
+{
+"text": "HOME",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "ISSUES",
+"href": "https://garydaniels.org/gd/goals/"
+},
+{
+"text": "Press Signup",
+"href": "https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00"
+},
+{
+"text": "VIDEOS",
+"href": "https://garydaniels.org/gd/videos/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://garydaniels.org/gd/volunteer/"
+},
+{
+"text": "X",
+"href": "http://www.twitter.com/gldanielsnh"
+},
+{
+"text": "[image: Gary Daniels]",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=EVENTS&body=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fevents%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fevents%2F&t=EVENTS"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=EVENTS&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fevents%2F"
+},
+{
+"text": "gary@garydaniels.org",
+"href": "mailto:gary@garydaniels.org"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Paul Seo is running for State Assembly in District 66 to help working families get ahead. Learn more here!",
  "final_url": "https://www.paulseo.com/about-the-district",
+ "fingerprint": "25caacd71fa90d25401068e8b88af84abd3d2671",
+ "format": 3,
  "paid_for_by": "Paid for by Paul Seo For Assembly 2026 FPPC ID#1477831 12501 Imperial Hwy, Ste",
  "title": "About the District | Paul Seo for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

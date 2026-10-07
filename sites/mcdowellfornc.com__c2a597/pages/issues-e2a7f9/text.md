@@ -1,5 +1,4 @@
-ISSUES
-We must secure the Southern Border and stop the flow of illegal drugs from flooding into our country.
+0 Skip to Content ISSUES NEWS SHOP DONATE Open Menu Close Menu Open Menu Close Menu ISSUES NEWS SHOP DONATE ISSUES NEWS SHOP DONATE ISSUES We must secure the Southern Border and stop the flow of illegal drugs from flooding into our country.
 This isn’t just a talking point for me, it’s personal.
 My younger brother died of a fentanyl overdose, and I am committed to turn that loss into a solution so that no family ever has to experience the pain that my family did.
 North Carolinians have all seen how a community can be decimated by the free-trade agenda pushed by previous Presidents, Democrat and Republican alike.
@@ -22,3 +21,4 @@ We must encourage innovation here in the United States.
 Unfortunately, the lack of regulatory clarity when it comes to digital assets risks forcing this new and promising technology overseas.
 I believe the United States should be a leader in creating a forward-looking, pro-innovation crypto policy.
 This means avoiding burdensome government regulation and opposing efforts to create central bank digital currencies (CBDCs).
+Paid for by McDowell for Congress 4170 Clemmons Rd, #291, Clemmons, NC 27012 Privacy Policy

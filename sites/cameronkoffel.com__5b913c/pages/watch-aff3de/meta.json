@@ -1,7 +1,11 @@
 {
- "description": "Videos from the Koffel for Ohio campaign \u2014 filmed around Upper Arlington, Grandview Heights, and northwest Columbus.",
+ "description": "Videos from the Koffel for Ohio campaign — filmed around Upper Arlington, Grandview Heights, and northwest Columbus.",
  "final_url": "https://cameronkoffel.com/watch/",
+ "fingerprint": "dd9cb6ac17eb078956357ed67ef3c2511c2b3fad",
+ "format": 3,
  "paid_for_by": "Paid for by Koffel for Ohio, Leah Sneed, Treasurer, 1910 Suffolk Road, Columbus, OH 43221",
- "title": "Watch \u2014 Cameron Koffel for Ohio House District 7",
- "years_mentioned": []
+ "title": "Watch — Cameron Koffel for Ohio House District 7",
+ "years_mentioned": [
+  "2026"
+ ]
 }

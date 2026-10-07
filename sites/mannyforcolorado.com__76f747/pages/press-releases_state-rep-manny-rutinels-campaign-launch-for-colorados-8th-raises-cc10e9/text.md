@@ -1,0 +1,14 @@
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate State Rep.
+Manny Rutinel’s Campaign Launch for Colorado’s 8th Raises Over $# From More Than 4,000 Individual Donors in First # Hours Press Release Jan 28 Written By COMMERCE CITY, COLO. — Tues., Jan.
+28, 2025 — State Representative Manny Rutinel (D-Commerce City) made a bold entrance into the race for Colorado’s 8th congressional district, raising an impressive $# within just # hours of his campaign announcement from more than 4,000 individual donors.
+“In just # hours, we raised over $#—proof that people are ready to build an economy that works for everyone,” said Rutinel.
+“This incredible support sends a clear message: we need to lower costs for hardworking families, create more good paying jobs, and defend the rights of all Coloradans.” Colorado's 8th congressional district is one of the most competitive House seats in the country.
+With a razor-thin Republican majority in the U.S.
+House of Representatives, flipping this district could determine whether Donald Trump and his allies maintain unchecked power or face critical oversight in Washington.
+“This appears to be the highest fundraising total in the first 24 hours ever in Colorado for a Congressional seat,” said Campaign Treasurer Adrienne Benavidez.
+"As a long time resident and community leader in Adams County, it is exciting to see this unprecedented level of support for a member of our community." “I’m thrilled that Manny Rutinel is running for Congress in Colorado’s 8th district.
+He’s always been a champion for working families like mine—fighting for affordable housing, better jobs, and quality education.
+Manny listens to the community, understands our struggles, and actually delivers results.
+We need his leadership in Washington now more than ever," said Julia Marvin, CO-08 resident, former Thornton City Council member and former state representative.
+For more information about Manny and his priorities, please visit www.MannyForColorado.com and follow him on Facebook @MannyForColorado, Twitter @MannyRutinel and Instagram @mannyrutinel.
+Previous Previous Colorado Politics: Gabe Evans Challenger Manny Rutinel Rakes in Over $500K After Announcing Run in Colorado’s 8th CD Next Next State Representative Manny Rutinel Announces Candidacy for Colorado’s 8th Congressional District Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

@@ -1,7 +1,11 @@
 {
- "description": "Ratu\u2019s supply invites you to their riverside music series featuring smooth jams, vendors, cocktails by Club Car Mobile Bar!",
+ "description": "Ratu’s supply invites you to their riverside music series featuring smooth jams, vendors, cocktails by Club Car Mobile Bar!",
  "final_url": "https://www.ecarrisduncan.com/events/ratus-riverside-concert-series-e94pt",
- "paid_for_by": null,
- "title": "Ratu's Riverside Concert Series \u2014 Emily Carris Duncan",
- "years_mentioned": []
+ "fingerprint": "6a1a4438a2c24c9623bdbd789d65dbc7a31d6a1c",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Ratu's Riverside Concert Series — Emily Carris Duncan",
+ "years_mentioned": [
+  "2024"
+ ]
 }

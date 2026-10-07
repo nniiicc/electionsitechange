@@ -1,159 +1,938 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Baltimore+City+Green+Party+Happy+Hour&dates=20251111T230000Z%2F20251112T010000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Baltimore+Meet+%26amp%3B+Greet+&dates=20260827T220000Z%2F20260828T000000Z&location=401+East+30th+Street%2C+Baltimore%2C+Maryland%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Baltimore+Racial+Justice+Action+13th+of+the+Month+&dates=20251113T230000Z%2F20251114T003000Z&location=4+Martin+Luther+King+Junior+Boulevard%2C+Baltimore%2C+MD%2C+21201%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Beyond+the+Moratorium&dates=20260927T183000Z%2F20260927T203000Z&location=10375+Little+Patuxent+Parkway%2C+Columbia%2C+Maryland%2C+21044%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Building+The+Green+Party+Community+Meeting%3A+Elkridge&dates=20251023T214500Z%2F20251023T231500Z&location=6540+Washington+Boulevard%2C+Elkridge%2C+MD%2C+21075%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Building+The+Green+Party+Community+Meeting+-+St.+Mary%27s+County&dates=20260221T180000Z%2F20260221T193000Z&location=23250+Hollywood+Road%2C+Leonardtown%2C+MD%2C+20650%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Calvert+County+Meet+%26amp%3B+Greet&dates=20260914T220000Z%2F20260914T234500Z&location=13920+H+G+Trueman+Road%2C+Solomons%2C+Maryland%2C+20688%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Happy+Hour+&dates=20260121T230000Z%2F20260122T000000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Happy+Hour+&dates=20260216T230000Z%2F20260217T013000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Charles+County+Meet+%26amp%3B+Greet&dates=20260723T220000Z%2F20260723T233000Z&location=10405+O%26%2339%3BDonnell+Place%2C+Waldorf%2C+MD+20603%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+See+Us+at+++Democracy+Fest+2.0&dates=20260829T180000Z%2F20260829T210000Z&location=4700+Rhode+Island+Avenue%2C+Hyattsville%2C+Maryland%2C+20781%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Come+see+us+at+Frederick+Pride%21&dates=20260627T150000Z%2F20260627T220000Z&location=424+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cumberland+Pride+Festival&dates=20261025T160000Z%2F20261025T200000Z&location=13+Canal+Street%2C+Cumberland%2C+Maryland%2C+21502%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Forward+Party+%26+Go+Green+2026+Happy+Hour+and+Conversation&dates=20251020T220000Z%2F20251021T003000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Forward+Party+%26amp%3B+Go+Green+2026+Happy+Hour+and+Conversation+&dates=20260218T233000Z%2F20260219T013000Z&location=800+West+Diamond+Avenue%2C+Gaithersburg%2C+MD%2C+20878%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Frederick+County+Meet+%26amp%3B+Greet&dates=20260817T220000Z%2F20260817T233000Z&location=110+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Frederick+County+Meet+%26amp%3B+Greet+&dates=20260921T220000Z%2F20260921T233000Z&location=110+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election+Candidate+Forum&dates=20261008T220000Z%2F20261009T003000Z&location=6601+Sheriff+Road%2C+Hyattsville%2C+Maryland%2C+20785%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=GoGreen+2026+Live+Stream+launch&dates=20251113T000000Z%2F20251113T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Greenbelt+Labor+Day+Festival+-+Information+Day&dates=20260905T140000Z%2F20260905T200000Z&location=101+Centerway%2C+Greenbelt%2C+Maryland%2C+20770%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Greenbelt+Meet+%26amp%3B+Greet&dates=20260901T220000Z%2F20260902T000000Z&location=15+Crescent+Road%2C+Greenbelt%2C+Maryland%2C+20770%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=June+Grassroots+Gathering&dates=20260624T230000Z%2F20260625T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+Rally+-+Baltimore&dates=20260629T210000Z%2F20260629T230000Z&location=Baltimore%2C+MD",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Baltimore+City+Rally&dates=20260823T210000Z%2F20260823T230000Z&location=100n+Holliday+Street%2C+Baltimore%2C+Maryland%2C+21202%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Maryland+Rally&dates=20261003T170000Z%2F20261003T190000Z&location=25+Calvert+Street%2C+Annapolis%2C+Maryland%2C+21401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20250927T160000Z%2F20250927T230000Z&location=Washington+Boulevard%2C+Baltimore%2C+MD%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20260926T160000Z%2F20260926T230000Z&location=700-900+Blocks%2C+Washington+Boulevard%2C+Baltimore%2C+Maryland+21230%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Post-Debate+Town+Hall&dates=20261007T220000Z%2F20261008T003000Z&location=231+Holliday+Street%2C+Baltimore%2C+Maryland%2C+21202%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pride+in+the+Plaza+Festival&dates=20260628T160000Z%2F20260629T000000Z&location=Silver+Spring%2C+MD",
-"http://google.com/calendar/event?action=TEMPLATE&text=Stop+Data+Centers+in+Baltimore+County&dates=20260718T160000Z%2F20260718T173000Z&location=400+Washington+Avenue%2C+Towson%2C+MD",
-"http://google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Folk+Festival&dates=20260927T143000Z%2F20260927T213000Z&location=7611+Piney+Branch+Road%2C+Takoma+Park%2C+Maryland%2C+20912%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival&dates=20251005T140000Z%2F20251005T210000Z&location=7000+Carroll+Avenue%2C+Takoma+Park%2C+MD%2C+20912%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival+&dates=20261004T140000Z%2F20261004T210000Z&location=Takoma+Park%2C+MD%2C+United+States",
-"http://maps.google.com/?q=+Baltimore%2C+MD",
-"http://maps.google.com/?q=+Silver+Spring%2C+MD",
-"http://maps.google.com/?q=+Takoma+Park%2C+MD+United+States",
-"http://maps.google.com/?q=100n+Holliday+Street+Baltimore%2C+Maryland%2C+21202+United+States",
-"http://maps.google.com/?q=101+Centerway+Greenbelt%2C+Maryland%2C+20770+United+States",
-"http://maps.google.com/?q=10375+Little+Patuxent+Parkway+Columbia%2C+Maryland%2C+21044+United+States",
-"http://maps.google.com/?q=10405+O%27Donnell+Place+Waldorf%2C+MD+20603+United+States",
-"http://maps.google.com/?q=110+East+Patrick+Street+Frederick%2C+Maryland%2C+21701+United+States",
-"http://maps.google.com/?q=13+Canal+Street+Cumberland%2C+Maryland%2C+21502+United+States",
-"http://maps.google.com/?q=13920+H+G+Trueman+Road+Solomons%2C+Maryland%2C+20688+United+States",
-"http://maps.google.com/?q=15+Crescent+Road+Greenbelt%2C+Maryland%2C+20770+United+States",
-"http://maps.google.com/?q=231+Holliday+Street+Baltimore%2C+Maryland%2C+21202+United+States",
-"http://maps.google.com/?q=23250+Hollywood+Road+Leonardtown%2C+MD%2C+20650+United+States",
-"http://maps.google.com/?q=25+Calvert+Street+Annapolis%2C+Maryland%2C+21401+United+States",
-"http://maps.google.com/?q=4+Martin+Luther+King+Junior+Boulevard+Baltimore%2C+MD%2C+21201+United+States",
-"http://maps.google.com/?q=400+Washington+Avenue+Towson%2C+MD",
-"http://maps.google.com/?q=401+East+30th+Street+Baltimore%2C+MD%2C+21218+United+States",
-"http://maps.google.com/?q=401+East+30th+Street+Baltimore%2C+Maryland%2C+21218+United+States",
-"http://maps.google.com/?q=424+East+Patrick+Street+Frederick%2C+Maryland%2C+21701+United+States",
-"http://maps.google.com/?q=4700+Rhode+Island+Avenue+Hyattsville%2C+Maryland%2C+20781+United+States",
-"http://maps.google.com/?q=6540+Washington+Boulevard+Elkridge%2C+MD%2C+21075+United+States",
-"http://maps.google.com/?q=6601+Sheriff+Road+Hyattsville%2C+Maryland%2C+20785+United+States",
-"http://maps.google.com/?q=700-900+Blocks%2C+Washington+Boulevard+Baltimore%2C+Maryland+21230+United+States",
-"http://maps.google.com/?q=7000+Carroll+Avenue+Takoma+Park%2C+MD%2C+20912+United+States",
-"http://maps.google.com/?q=7611+Piney+Branch+Road+Takoma+Park%2C+Maryland%2C+20912+United+States",
-"http://maps.google.com/?q=800+West+Diamond+Avenue+Gaithersburg%2C+MD%2C+20878+United+States",
-"http://maps.google.com/?q=GoGreen+2026+YouTube+Page",
-"http://maps.google.com/?q=Online",
-"http://maps.google.com/?q=Washington+Boulevard+Baltimore%2C+MD+United+States",
-"https://bonfire.com/store/andy-ellis-for-governor",
-"https://facebook.com/profile.php?id=100087765158737",
-"https://forms.gle/fQcpjtDTinWrcEWx5",
-"https://forms.gle/reX3fD7vTMC5SkhP8",
-"https://gogreen2026.com/",
-"https://gogreen2026.com/about-1",
-"https://gogreen2026.com/campaign-plan",
-"https://gogreen2026.com/cart",
-"https://gogreen2026.com/contact",
-"https://gogreen2026.com/donate",
-"https://gogreen2026.com/events",
-"https://gogreen2026.com/events/2026-frederick-pride-festival",
-"https://gogreen2026.com/events/2026-frederick-pride-festival?format=ical",
-"https://gogreen2026.com/events/2026beyondthemoratorium",
-"https://gogreen2026.com/events/2026beyondthemoratorium-mykyb",
-"https://gogreen2026.com/events/2026beyondthemoratorium-mykyb?format=ical",
-"https://gogreen2026.com/events/2026beyondthemoratorium?format=ical",
-"https://gogreen2026.com/events/2026cumberlandpride",
-"https://gogreen2026.com/events/2026cumberlandpride?format=ical",
-"https://gogreen2026.com/events/2026democracyfest-4r92y",
-"https://gogreen2026.com/events/2026democracyfest-4r92y?format=ical",
-"https://gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6",
-"https://gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6?format=ical",
-"https://gogreen2026.com/events/2026passporttothevote",
-"https://gogreen2026.com/events/2026passporttothevote?format=ical",
-"https://gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j",
-"https://gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j?format=ical",
-"https://gogreen2026.com/events/2026postdebatetownhall",
-"https://gogreen2026.com/events/2026postdebatetownhall?format=ical",
-"https://gogreen2026.com/events/2026takomaparkfolkfestival",
-"https://gogreen2026.com/events/2026takomaparkfolkfestival?format=ical",
-"https://gogreen2026.com/events/2026takomaparkstreetfestival-9n958",
-"https://gogreen2026.com/events/2026takomaparkstreetfestival-9n958?format=ical",
-"https://gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9",
-"https://gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9?format=ical",
-"https://gogreen2026.com/events/baltimore-city-green-party-happy-hour",
-"https://gogreen2026.com/events/baltimore-city-green-party-happy-hour?format=ical",
-"https://gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025",
-"https://gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025?format=ical",
-"https://gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county",
-"https://gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county?format=ical",
-"https://gogreen2026.com/events/building-the-green-party-elkridge-10-23",
-"https://gogreen2026.com/events/building-the-green-party-elkridge-10-23?format=ical",
-"https://gogreen2026.com/events/campaign-happy-hour-ybms4",
-"https://gogreen2026.com/events/campaign-happy-hour-ybms4-5865y",
-"https://gogreen2026.com/events/campaign-happy-hour-ybms4-5865y?format=ical",
-"https://gogreen2026.com/events/campaign-happy-hour-ybms4?format=ical",
-"https://gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm",
-"https://gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm?format=ical",
-"https://gogreen2026.com/events/forward-happy-hour-feb-2026",
-"https://gogreen2026.com/events/forward-happy-hour-feb-2026?format=ical",
-"https://gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation",
-"https://gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation?format=ical",
-"https://gogreen2026.com/events/gogreen-2026-live-stream-launch",
-"https://gogreen2026.com/events/gogreen-2026-live-stream-launch?format=ical",
-"https://gogreen2026.com/events/june-grassroots-gathering",
-"https://gogreen2026.com/events/june-grassroots-gathering?format=ical",
-"https://gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27",
-"https://gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27?format=ical",
-"https://gogreen2026.com/events/meet-and-greet-frederick-2026-08-17",
-"https://gogreen2026.com/events/meet-and-greet-frederick-2026-08-17?format=ical",
-"https://gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5",
-"https://gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5?format=ical",
-"https://gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01",
-"https://gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01?format=ical",
-"https://gogreen2026.com/events/meet-and-greet-waldorf-7-23-26",
-"https://gogreen2026.com/events/meet-and-greet-waldorf-7-23-26?format=ical",
-"https://gogreen2026.com/events/meet-and-greetcalvert-20260914",
-"https://gogreen2026.com/events/meet-and-greetcalvert-20260914?format=ical",
-"https://gogreen2026.com/events/pigtown-festival",
-"https://gogreen2026.com/events/pigtown-festival?format=ical",
-"https://gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23",
-"https://gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23?format=ical",
-"https://gogreen2026.com/events/stop-data-centers-in-baltimore-county",
-"https://gogreen2026.com/events/stop-data-centers-in-baltimore-county?format=ical",
-"https://gogreen2026.com/events/takoma-park-street-festival",
-"https://gogreen2026.com/events/takoma-park-street-festival?format=ical",
-"https://gogreen2026.com/get-involved",
-"https://gogreen2026.com/issues-2",
-"https://gogreen2026.com/media",
-"https://gogreen2026.com/meet-andy",
-"https://gogreen2026.com/meet-owen",
-"https://gogreen2026.com/news",
-"https://gogreen2026.com/platform",
-"https://gogreen2026.com/press-kit",
-"https://gogreen2026.com/priorities",
-"https://gogreen2026.com/take-action",
-"https://gogreen2026.com/volunteer",
-"https://gogreen2026.com/why-we-are-running",
-"https://instagram.com/gogreenmd",
-"https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W",
-"https://twitter.com/gogreen2026",
-"https://youtube.com/@GoGreen2026",
-"https://youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5",
-"https://youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+baltimore%2C+md+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+silver+spring%2C+md+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+takoma+park%2C+md+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=100n+holliday+street+baltimore%2C+maryland%2C+21202+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=101+centerway+greenbelt%2C+maryland%2C+20770+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10375+little+patuxent+parkway+columbia%2C+maryland%2C+21044+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=10405+o%27donnell+place+waldorf%2C+md+20603+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=110+east+patrick+street+frederick%2C+maryland%2C+21701+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13+canal+street+cumberland%2C+maryland%2C+21502+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=13920+h+g+trueman+road+solomons%2C+maryland%2C+20688+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=15+crescent+road+greenbelt%2C+maryland%2C+20770+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=231+holliday+street+baltimore%2C+maryland%2C+21202+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=23250+hollywood+road+leonardtown%2C+md%2C+20650+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=25+calvert+street+annapolis%2C+maryland%2C+21401+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4+martin+luther+king+junior+boulevard+baltimore%2C+md%2C+21201+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=400+washington+avenue+towson%2C+md+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=401+east+30th+street+baltimore%2C+maryland%2C+21218+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=401+east+30th+street+baltimore%2C+md%2C+21218+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=424+east+patrick+street+frederick%2C+maryland%2C+21701+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4700+rhode+island+avenue+hyattsville%2C+maryland%2C+20781+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6540+washington+boulevard+elkridge%2C+md%2C+21075+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6601+sheriff+road+hyattsville%2C+maryland%2C+20785+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=700-900+blocks%2C+washington+boulevard+baltimore%2C+maryland+21230+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7000+carroll+avenue+takoma+park%2C+md%2C+20912+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7611+piney+branch+road+takoma+park%2C+maryland%2C+20912+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=800+west+diamond+avenue+gaithersburg%2C+md%2C+20878+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=gogreen+2026+youtube+page"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=online"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=washington+boulevard+baltimore%2C+md+united+states"
+},
+{
+"text": "0",
+"href": "https://www.gogreen2026.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "Baltimore City Green Party Happy Hour",
+"href": "https://www.gogreen2026.com/events/baltimore-city-green-party-happy-hour"
+},
+{
+"text": "Baltimore Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27"
+},
+{
+"text": "Baltimore Racial Justice Action 13th of the Month",
+"href": "https://www.gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025"
+},
+{
+"text": "Beyond the Moratorium",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "Building The Green Party Community Meeting - St. Mary's County",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county"
+},
+{
+"text": "Building The Green Party Community Meeting: Elkridge",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-elkridge-10-23"
+},
+{
+"text": "Bumper Stickers",
+"href": "https://forms.gle/fQcpjtDTinWrcEWx5"
+},
+{
+"text": "Calvert County Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greetcalvert-20260914"
+},
+{
+"text": "Campaign Happy Hour",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4"
+},
+{
+"text": "Campaign Happy Hour",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4-5865y"
+},
+{
+"text": "Campaign Plan",
+"href": "https://www.gogreen2026.com/campaign-plan"
+},
+{
+"text": "Charles County Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-waldorf-7-23-26"
+},
+{
+"text": "Come See Us at Democracy Fest 2.0",
+"href": "https://www.gogreen2026.com/events/2026democracyfest-4r92y"
+},
+{
+"text": "Come see us at Frederick Pride!",
+"href": "https://www.gogreen2026.com/events/2026-frederick-pride-festival"
+},
+{
+"text": "Contact",
+"href": "https://www.gogreen2026.com/contact"
+},
+{
+"text": "Cumberland Pride Festival",
+"href": "https://www.gogreen2026.com/events/2026cumberlandpride"
+},
+{
+"text": "Donate",
+"href": "https://www.gogreen2026.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.gogreen2026.com/about-1"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.gogreen2026.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gogreen2026.com/issues-2"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.gogreen2026.com/media"
+},
+{
+"text": "Forward Party & Go Green 2026 Happy Hour and Conversation",
+"href": "https://www.gogreen2026.com/events/forward-happy-hour-feb-2026"
+},
+{
+"text": "Forward Party & Go Green 2026 Happy Hour and Conversation",
+"href": "https://www.gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation"
+},
+{
+"text": "Frederick County Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-2026-08-17"
+},
+{
+"text": "Frederick County Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5"
+},
+{
+"text": "General Election Candidate Forum",
+"href": "https://www.gogreen2026.com/events/2026passporttothevote"
+},
+{
+"text": "GoGreen 2026 Live Stream launch",
+"href": "https://www.gogreen2026.com/events/gogreen-2026-live-stream-launch"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Baltimore+City+Green+Party+Happy+Hour&dates=20251111T230000Z%2F20251112T010000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Baltimore+Meet+%26amp%3B+Greet+&dates=20260827T220000Z%2F20260828T000000Z&location=401+East+30th+Street%2C+Baltimore%2C+Maryland%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Baltimore+Racial+Justice+Action+13th+of+the+Month+&dates=20251113T230000Z%2F20251114T003000Z&location=4+Martin+Luther+King+Junior+Boulevard%2C+Baltimore%2C+MD%2C+21201%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Beyond+the+Moratorium&dates=20260927T183000Z%2F20260927T203000Z&location=10375+Little+Patuxent+Parkway%2C+Columbia%2C+Maryland%2C+21044%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Building+The+Green+Party+Community+Meeting%3A+Elkridge&dates=20251023T214500Z%2F20251023T231500Z&location=6540+Washington+Boulevard%2C+Elkridge%2C+MD%2C+21075%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Building+The+Green+Party+Community+Meeting+-+St.+Mary%27s+County&dates=20260221T180000Z%2F20260221T193000Z&location=23250+Hollywood+Road%2C+Leonardtown%2C+MD%2C+20650%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Calvert+County+Meet+%26amp%3B+Greet&dates=20260914T220000Z%2F20260914T234500Z&location=13920+H+G+Trueman+Road%2C+Solomons%2C+Maryland%2C+20688%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Happy+Hour+&dates=20260121T230000Z%2F20260122T000000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Happy+Hour+&dates=20260216T230000Z%2F20260217T013000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Charles+County+Meet+%26amp%3B+Greet&dates=20260723T220000Z%2F20260723T233000Z&location=10405+O%26%2339%3BDonnell+Place%2C+Waldorf%2C+MD+20603%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+See+Us+at+++Democracy+Fest+2.0&dates=20260829T180000Z%2F20260829T210000Z&location=4700+Rhode+Island+Avenue%2C+Hyattsville%2C+Maryland%2C+20781%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Come+see+us+at+Frederick+Pride%21&dates=20260627T150000Z%2F20260627T220000Z&location=424+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cumberland+Pride+Festival&dates=20261025T160000Z%2F20261025T200000Z&location=13+Canal+Street%2C+Cumberland%2C+Maryland%2C+21502%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Forward+Party+%26+Go+Green+2026+Happy+Hour+and+Conversation&dates=20251020T220000Z%2F20251021T003000Z&location=401+East+30th+Street%2C+Baltimore%2C+MD%2C+21218%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Forward+Party+%26amp%3B+Go+Green+2026+Happy+Hour+and+Conversation+&dates=20260218T233000Z%2F20260219T013000Z&location=800+West+Diamond+Avenue%2C+Gaithersburg%2C+MD%2C+20878%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Frederick+County+Meet+%26amp%3B+Greet&dates=20260817T220000Z%2F20260817T233000Z&location=110+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Frederick+County+Meet+%26amp%3B+Greet+&dates=20260921T220000Z%2F20260921T233000Z&location=110+East+Patrick+Street%2C+Frederick%2C+Maryland%2C+21701%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election+Candidate+Forum&dates=20261008T220000Z%2F20261009T003000Z&location=6601+Sheriff+Road%2C+Hyattsville%2C+Maryland%2C+20785%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=GoGreen+2026+Live+Stream+launch&dates=20251113T000000Z%2F20251113T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Greenbelt+Labor+Day+Festival+-+Information+Day&dates=20260905T140000Z%2F20260905T200000Z&location=101+Centerway%2C+Greenbelt%2C+Maryland%2C+20770%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Greenbelt+Meet+%26amp%3B+Greet&dates=20260901T220000Z%2F20260902T000000Z&location=15+Crescent+Road%2C+Greenbelt%2C+Maryland%2C+20770%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=June+Grassroots+Gathering&dates=20260624T230000Z%2F20260625T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+Rally+-+Baltimore&dates=20260629T210000Z%2F20260629T230000Z&location=Baltimore%2C+MD"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Baltimore+City+Rally&dates=20260823T210000Z%2F20260823T230000Z&location=100n+Holliday+Street%2C+Baltimore%2C+Maryland%2C+21202%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Data+Centers+in+Maryland+Rally&dates=20261003T170000Z%2F20261003T190000Z&location=25+Calvert+Street%2C+Annapolis%2C+Maryland%2C+21401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20250927T160000Z%2F20250927T230000Z&location=Washington+Boulevard%2C+Baltimore%2C+MD%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pigtown+Festival&dates=20260926T160000Z%2F20260926T230000Z&location=700-900+Blocks%2C+Washington+Boulevard%2C+Baltimore%2C+Maryland+21230%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Post-Debate+Town+Hall&dates=20261007T220000Z%2F20261008T003000Z&location=231+Holliday+Street%2C+Baltimore%2C+Maryland%2C+21202%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pride+in+the+Plaza+Festival&dates=20260628T160000Z%2F20260629T000000Z&location=Silver+Spring%2C+MD"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Stop+Data+Centers+in+Baltimore+County&dates=20260718T160000Z%2F20260718T173000Z&location=400+Washington+Avenue%2C+Towson%2C+MD"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Folk+Festival&dates=20260927T143000Z%2F20260927T213000Z&location=7611+Piney+Branch+Road%2C+Takoma+Park%2C+Maryland%2C+20912%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival&dates=20251005T140000Z%2F20251005T210000Z&location=7000+Carroll+Avenue%2C+Takoma+Park%2C+MD%2C+20912%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Takoma+Park+Street+Festival+&dates=20261004T140000Z%2F20261004T210000Z&location=Takoma+Park%2C+MD%2C+United+States"
+},
+{
+"text": "Greenbelt Labor Day Festival - Information Day",
+"href": "https://www.gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6"
+},
+{
+"text": "Greenbelt Meet & Greet",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01"
+},
+{
+"text": "Home",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026-frederick-pride-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026cumberlandpride?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026democracyfest-4r92y?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026passporttothevote?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/baltimore-city-green-party-happy-hour?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-elkridge-10-23?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4-5865y?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/forward-happy-hour-feb-2026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/gogreen-2026-live-stream-launch?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/june-grassroots-gathering?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-2026-08-17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-waldorf-7-23-26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/meet-and-greetcalvert-20260914?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/pigtown-festival?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gogreen2026.com/events/takoma-park-street-festival?format=ical"
+},
+{
+"text": "June Grassroots Gathering",
+"href": "https://www.gogreen2026.com/events/june-grassroots-gathering"
+},
+{
+"text": "Livestream",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.gogreen2026.com/meet-andy"
+},
+{
+"text": "Meet Owen",
+"href": "https://www.gogreen2026.com/meet-owen"
+},
+{
+"text": "Merchandise",
+"href": "https://www.bonfire.com/store/andy-ellis-for-governor/"
+},
+{
+"text": "News",
+"href": "https://www.gogreen2026.com/news"
+},
+{
+"text": "No Data Centers Rally - Baltimore",
+"href": "https://www.gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9"
+},
+{
+"text": "No Data Centers in Baltimore City Rally",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23"
+},
+{
+"text": "No Data Centers in Maryland Rally",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+},
+{
+"text": "Pigtown Festival",
+"href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j"
+},
+{
+"text": "Pigtown Festival",
+"href": "https://www.gogreen2026.com/events/pigtown-festival"
+},
+{
+"text": "Platform",
+"href": "https://www.gogreen2026.com/platform"
+},
+{
+"text": "Podcast",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5"
+},
+{
+"text": "Post-Debate Town Hall",
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
+},
+{
+"text": "Press Kit",
+"href": "https://www.gogreen2026.com/press-kit"
+},
+{
+"text": "Pride in the Plaza Festival",
+"href": "https://www.gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm"
+},
+{
+"text": "Priorities",
+"href": "https://www.gogreen2026.com/priorities"
+},
+{
+"text": "Read more →",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "Read more →",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+},
+{
+"text": "Read more →",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+},
+{
+"text": "Read more →",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "Stop Data Centers in Baltimore County",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county"
+},
+{
+"text": "Take Action",
+"href": "https://www.gogreen2026.com/take-action"
+},
+{
+"text": "Takoma Park Folk Festival",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+},
+{
+"text": "Takoma Park Street Festival",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "Takoma Park Street Festival",
+"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026-frederick-pride-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026cumberlandpride"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026democracyfest-4r92y"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026passporttothevote"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/baltimore-city-green-party-happy-hour"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-elkridge-10-23"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4-5865y"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/forward-happy-hour-feb-2026"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/gogreen-2026-live-stream-launch"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/june-grassroots-gathering"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-2026-08-17"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-waldorf-7-23-26"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/meet-and-greetcalvert-20260914"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/pigtown-festival"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county"
+},
+{
+"text": "View Event →",
+"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gogreen2026.com/volunteer"
+},
+{
+"text": "Why We Are Running",
+"href": "https://www.gogreen2026.com/why-we-are-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://forms.gle/reX3fD7vTMC5SkhP8"
+},
+{
+"text": "[image: Andy Ellis For Governor 2026]",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "[image: Baltimore City Green Party Happy Hour]",
+"href": "https://www.gogreen2026.com/events/baltimore-city-green-party-happy-hour"
+},
+{
+"text": "[image: Baltimore Meet &amp; Greet ]",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-baltimore-2026-08-27"
+},
+{
+"text": "[image: Baltimore Racial Justice Action 13th of the Month ]",
+"href": "https://www.gogreen2026.com/events/baltimore-racial-justice-action-13th-of-the-month-nov-2025"
+},
+{
+"text": "[image: Beyond the Moratorium]",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "[image: Beyond the Moratorium] Sep 27",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium"
+},
+{
+"text": "[image: Building The Green Party Community Meeting - St. Mary's County]",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-community-meeting-st-marys-county"
+},
+{
+"text": "[image: Building The Green Party Community Meeting: Elkridge]",
+"href": "https://www.gogreen2026.com/events/building-the-green-party-elkridge-10-23"
+},
+{
+"text": "[image: Calvert County Meet &amp; Greet]",
+"href": "https://www.gogreen2026.com/events/meet-and-greetcalvert-20260914"
+},
+{
+"text": "[image: Campaign Happy Hour ]",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4"
+},
+{
+"text": "[image: Campaign Happy Hour ]",
+"href": "https://www.gogreen2026.com/events/campaign-happy-hour-ybms4-5865y"
+},
+{
+"text": "[image: Charles County Meet &amp; Greet]",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-waldorf-7-23-26"
+},
+{
+"text": "[image: Come See Us at Democracy Fest 2.0]",
+"href": "https://www.gogreen2026.com/events/2026democracyfest-4r92y"
+},
+{
+"text": "[image: Come see us at Frederick Pride!]",
+"href": "https://www.gogreen2026.com/events/2026-frederick-pride-festival"
+},
+{
+"text": "[image: Cumberland Pride Festival]",
+"href": "https://www.gogreen2026.com/events/2026cumberlandpride"
+},
+{
+"text": "[image: Forward Party & Go Green 2026 Happy Hour and Conversation]",
+"href": "https://www.gogreen2026.com/events/forward-party-go-green-2026-happy-hour-and-conversation"
+},
+{
+"text": "[image: Forward Party &amp; Go Green 2026 Happy Hour and Conversation ]",
+"href": "https://www.gogreen2026.com/events/forward-happy-hour-feb-2026"
+},
+{
+"text": "[image: Frederick County Meet &amp; Greet ]",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-20260921-h8fp5"
+},
+{
+"text": "[image: Frederick County Meet &amp; Greet]",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-frederick-2026-08-17"
+},
+{
+"text": "[image: General Election Candidate Forum]",
+"href": "https://www.gogreen2026.com/events/2026passporttothevote"
+},
+{
+"text": "[image: GoGreen 2026 Live Stream launch]",
+"href": "https://www.gogreen2026.com/events/gogreen-2026-live-stream-launch"
+},
+{
+"text": "[image: Greenbelt Labor Day Festival - Information Day]",
+"href": "https://www.gogreen2026.com/events/2026greenbeltlabordayfestival-hl4m6"
+},
+{
+"text": "[image: Greenbelt Meet &amp; Greet]",
+"href": "https://www.gogreen2026.com/events/meet-and-greet-greenbelt-2026-09-01"
+},
+{
+"text": "[image: June Grassroots Gathering]",
+"href": "https://www.gogreen2026.com/events/june-grassroots-gathering"
+},
+{
+"text": "[image: No Data Centers Rally - Baltimore]",
+"href": "https://www.gogreen2026.com/events/7mxtgb0aa30cgj62ir14hmxnhfvcr9"
+},
+{
+"text": "[image: No Data Centers in Baltimore City Rally]",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-city-2026-08-23"
+},
+{
+"text": "[image: No Data Centers in Maryland Rally]",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+},
+{
+"text": "[image: No Data Centers in Maryland Rally] Oct 3",
+"href": "https://www.gogreen2026.com/events/2026beyondthemoratorium-mykyb"
+},
+{
+"text": "[image: Pigtown Festival]",
+"href": "https://www.gogreen2026.com/events/2026pigtownfest-hl4m6-s7w6j"
+},
+{
+"text": "[image: Pigtown Festival]",
+"href": "https://www.gogreen2026.com/events/pigtown-festival"
+},
+{
+"text": "[image: Post-Debate Town Hall]",
+"href": "https://www.gogreen2026.com/events/2026postdebatetownhall"
+},
+{
+"text": "[image: Pride in the Plaza Festival]",
+"href": "https://www.gogreen2026.com/events/eytqjdqay8bwq0hc9zpbt6h6s6krzm"
+},
+{
+"text": "[image: Stop Data Centers in Baltimore County]",
+"href": "https://www.gogreen2026.com/events/stop-data-centers-in-baltimore-county"
+},
+{
+"text": "[image: Takoma Park Folk Festival]",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+},
+{
+"text": "[image: Takoma Park Folk Festival] Sep 27",
+"href": "https://www.gogreen2026.com/events/2026takomaparkfolkfestival"
+},
+{
+"text": "[image: Takoma Park Street Festival ]",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "[image: Takoma Park Street Festival ] Oct 4",
+"href": "https://www.gogreen2026.com/events/2026takomaparkstreetfestival-9n958"
+},
+{
+"text": "[image: Takoma Park Street Festival]",
+"href": "https://www.gogreen2026.com/events/takoma-park-street-festival"
+},
+{
+"text": "[no text]",
+"href": "https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gogreen2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100087765158737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gogreenmd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GoGreen2026"
+},
+{
+"text": "andy@gogreen2026.com",
+"href": "mailto:andy@gogreen2026.com"
+}
 ]

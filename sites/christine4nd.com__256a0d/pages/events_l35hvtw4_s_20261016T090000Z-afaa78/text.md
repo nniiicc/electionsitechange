@@ -1,8 +1,3 @@
-NDSU Extension Legislative Update
-Time
-Friday, Oct 16, 2026
-9:00 AM – 10:00 AM
-Location
-Fargo
-About this event
-Add your event description here
+Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Events / NDSU Extension Legislative Update NDSU Extension Legislative Update Time Friday, Oct 16, 2026 9:00 AM – 10:00 AM Location Fargo About this event Add your event description here Add to calendar VOLUNTEER DONATE VOTING INFO Get Updates Thank you for signing up!
+News Be an Informed Voter.
+Preview a Sample Ballot Special Election Wards More Campaign News More Campaign News Campaign News Endorsements Yard Signs Events Contact Privacy Policy Paid for by Christine4ND PO Box 9933 Fargo, ND 58106-9933 Powered by CampaignPartner.com - Political Campaign Websites Meet Christine About Christine Endorsements Better Together Meet Rosie Issues News Events Volunteer Contact Contribute Yard Signs Close Menu

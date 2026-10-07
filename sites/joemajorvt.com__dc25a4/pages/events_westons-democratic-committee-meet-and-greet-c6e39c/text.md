@@ -1,9 +1,3 @@
-Back to All Events
-Weston's Democratic Committee will host a meet and greet on Sunday, June 14th at 4:30PM at The Hub.
-Previous
-Previous
-June 13
-Legislative Update
-Next
-Next
-June 20
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Back to All Events Weston's Democratic Committee Meet and Greet Sunday, June 14, 2026 4:30 PM 5:30 PM The Hub at Weston 705 Main St Weston, VT 05161 United States (map) Google Calendar ICS Weston's Democratic Committee will host a meet and greet on Sunday, June 14th at 4:30PM at The Hub.
+Previous Previous June 13 Legislative Update Next Next June 20 Juneteenth Celebration 2026 Joe Major for Windsor County Senate Donate Today!
+Actblue.com

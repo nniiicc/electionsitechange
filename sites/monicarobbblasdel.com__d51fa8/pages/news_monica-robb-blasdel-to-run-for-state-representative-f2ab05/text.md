@@ -1,5 +1,4 @@
-Morning Journal: Monica Robb Blasdel to Run for State Representative
-COLUMBIANA — Monica Robb Blasdel of Columbiana has announced her intention to run for election as state representative in the 79th district.
+0 Skip to Content Open Menu Close Menu Open Menu Close Menu Morning Journal: Monica Robb Blasdel to Run for State Representative Jan 30 Written By Team Monica COLUMBIANA — Monica Robb Blasdel of Columbiana has announced her intention to run for election as state representative in the 79th district.
 She plans to file her petitions with the Board of Election prior to the February deadline.
 The seat is being vacated due to term limits of current State Representative and Speaker Pro Tempore, Tim Ginter.
 The newly established 79th House District encompasses the majority of Columbiana County and all of Carroll County.
@@ -23,3 +22,4 @@ Robb Blasdel is the daughter of Court of Appeals Judge Carol Ann Robb and Kennet
 Robb of New Waterford.
 She is married to Chuck Blasdel, former Speaker Pro Tempore of the Ohio House of Representatives.
 They reside in Columbiana with their daughters, Presley (5) and Raegan (3).
+Team Monica Paid for by Monica Robb Blasdel for State Representative

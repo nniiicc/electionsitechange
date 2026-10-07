@@ -1,13 +1,58 @@
 [
-"http://facebook.com/sneed4house18",
-"http://wix.com/",
-"http://wix.com/templateslp/links",
-"https://sneed4house.com/",
-"https://sneed4house.com/donate",
-"https://sneed4house.com/faq-s",
-"https://sneed4house.com/get-involved",
-"https://sneed4house.com/media",
-"https://sneed4house.com/meet-chris",
-"https://sneed4house.com/privacy-policy",
-"https://sneed4house.com/terms-conditions"
+{
+"text": "CHRIS SNEED",
+"href": "https://www.sneed4house.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.sneed4house.com/donate"
+},
+{
+"text": "FAQ's",
+"href": "https://www.sneed4house.com/faq-s"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sneed4house.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.sneed4house.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.sneed4house.com/media"
+},
+{
+"text": "MEET CHRIS",
+"href": "https://www.sneed4house.com/meet-chris"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sneed4house.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.sneed4house.com/terms-conditions"
+},
+{
+"text": "VOTE",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "http://www.facebook.com/sneed4house18"
+},
+{
+"text": "for House 2026",
+"href": "https://www.sneed4house.com"
+},
+{
+"text": "sneed4house@gmail.com",
+"href": "mailto:sneed4house@gmail.com"
+}
 ]

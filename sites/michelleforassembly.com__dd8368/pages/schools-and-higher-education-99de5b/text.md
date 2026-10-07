@@ -1,12 +1,7 @@
-Schools and Higher Education
-Schools and
-Higher Education
-As a mother of four, grandmother of three, and former security professional for various schools and school districts, Michelle knows what it takes for our youth to be competitive in today’s economy.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Schools and Higher Education Schools and Higher Education As a mother of four, grandmother of three, and former security professional for various schools and school districts, Michelle knows what it takes for our youth to be competitive in today’s economy.
 The answer is a high-quality education and dedicated teachers and administrators who are committed to improving outcomes for our students.
-Michelle will fight to:
-- raise teacher salaries to help current teachers, create an incentive for teachers who have left the profession, and recruit new teachers to the classrooms.
-- Increase spending per pupil throughout the school districts in the 53rd Assembly District.
-- provide funding for after-school programs and mentoring programs that have been proven to help with academic performance and improving social skills.
-- provide alternative career paths, such as vocational programs and apprenticeships.
-- expand youth mentorship and workforce development programs in schools and local businesses, which lead to permanent job placement.
-- Invest in safe campuses and operations – including the classified workers that bring children to school safely, make sure they have nutritious meals, and receive the support they need from classroom aides.
+Michelle will fight to: raise teacher salaries to help current teachers, create an incentive for teachers who have left the profession, and recruit new teachers to the classrooms.
+Increase spending per pupil throughout the school districts in the 53rd Assembly District. provide funding for after-school programs and mentoring programs that have been proven to help with academic performance and improving social skills. provide alternative career paths, such as vocational programs and apprenticeships. expand youth mentorship and workforce development programs in schools and local businesses, which lead to permanent job placement.
+Invest in safe campuses and operations – including the classified workers that bring children to school safely, make sure they have nutritious meals, and receive the support they need from classroom aides.
+Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

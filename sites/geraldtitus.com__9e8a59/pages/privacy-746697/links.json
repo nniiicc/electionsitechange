@@ -1,17 +1,66 @@
 [
-"http://google.com/support/chrome/bin/answer.py?hl=en&answer=95647",
-"http://networkadvertising.org/choices",
-"http://support.mozilla.com/en-us/kb/cookies",
-"https://facebook.com/JusticeTitusWV",
-"https://geraldtitus.com/",
-"https://geraldtitus.com/about",
-"https://geraldtitus.com/endorsements",
-"https://geraldtitus.com/get-involved",
-"https://geraldtitus.com/news",
-"https://geraldtitus.com/privacy",
-"https://instagram.com/justicetituswv",
-"https://secure.anedot.com/titus-for-supreme-court/donate",
-"https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac",
-"https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies",
-"https://x.com/JusticeTitusWV"
+{
+"text": "About",
+"href": "https://geraldtitus.com/about"
+},
+{
+"text": "Apple Safari",
+"href": "https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/titus-for-supreme-court/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://geraldtitus.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://geraldtitus.com/get-involved"
+},
+{
+"text": "Google Chrome",
+"href": "http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647"
+},
+{
+"text": "Microsoft Internet Explorer",
+"href": "https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies"
+},
+{
+"text": "Mozilla Firefox",
+"href": "http://support.mozilla.com/en-us/kb/cookies"
+},
+{
+"text": "NAI Opt-Out Page",
+"href": "http://www.networkadvertising.org/choices/"
+},
+{
+"text": "News",
+"href": "https://geraldtitus.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://geraldtitus.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://geraldtitus.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/justicetituswv"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JusticeTitusWV"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/JusticeTitusWV"
+},
+{
+"text": "info@geraldtitus.com",
+"href": "mailto:info@geraldtitus.com"
+}
 ]

@@ -1,11 +1,7 @@
-Showing up.
+0 Skip to Content Home Media Connect Donate Open Menu Close Menu Home Media Connect Donate Open Menu Close Menu Home Media Connect Donate View fullsize Showing up.
 Listening.
 Ready to do the work.
-CANDACE FOR KANSAS
-***
-CANDACE FOR KANSAS ***
-A Labor Leader, running for the people she loves
-Candace Landers is a former teacher, labor advocate, community leader, wife, mother, and Kansan who believes public service means showing up, doing the work, and leaving your community stronger than you found it.
+DONATE VOLUNTEER CANDACE FOR KANSAS *** CANDACE FOR KANSAS *** CANDACE FOR KANSAS *** A Labor Leader, running for the people she loves Candace Landers is a former teacher, labor advocate, community leader, wife, mother, and Kansan who believes public service means showing up, doing the work, and leaving your community stronger than you found it.
 Candace moved to Kansas in 2000 and has spent more than two decades building a life and raising her family here.
 Her path to public service began in the classroom, where she spent nearly 15 years teaching children from kindergarten through third grade.
 Teaching shaped the way she leads: listen before you act, tell the truth, bring people together, and keep the people you serve at the center of every decision.
@@ -28,10 +24,9 @@ Candace believes Kansas doesn't need leaders who simply manage what we have.
 We need leaders willing to imagine what is possible, bring people together to build it, and do the hard work to make it real.
 Common Ground.
 Common Sense.
-Learn how Candace feels about the most common issues facing her neighbors today:
-PROUDLY ENDORSED
-This campaign is being built from the ground up by supporters just like you.
+Learn how Candace feels about the most common issues facing her neighbors today: PROUDLY ENDORSED This campaign is being built from the ground up by supporters just like you.
 You helped me win the primary.
 Next up, the general election on November 3, 2026.
 Every dollar we raise will go directly toward getting us a seat at the table.
 Are you in?
+Support Candace Donate Volunteer Paid for by Candace for Kansas , Sharon Quigley, Treasurer. candaceforkansas@gmail.com Privacy Policy, Terms of Use

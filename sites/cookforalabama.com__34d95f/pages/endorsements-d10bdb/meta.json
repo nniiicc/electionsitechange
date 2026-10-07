@@ -1,7 +1,12 @@
 {
  "description": "Cook for Alabama's campaign",
  "final_url": "https://www.cookforalabama.com/endorsements",
+ "fingerprint": "c1f1165f3d19e2445f3b8ed6d964d4f85c401274",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Taylor Cook P",
- "title": "Endorsements \u2014 Cook for Alabama",
- "years_mentioned": []
+ "title": "Endorsements — Cook for Alabama",
+ "years_mentioned": [
+  "2018",
+  "2024"
+ ]
 }

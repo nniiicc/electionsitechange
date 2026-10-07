@@ -1,14 +1,11 @@
-The Central Florida Congresswoman Praised Dalton’s Record of Service and Florida-First Campaign to Defeat Congressman Cory Mills
-Sanford, FL – Congresswoman Kathy Castor (FL-14) announced her endorsement of Bale Dalton in Florida’s 7th Congressional District today.
+Skip to content The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs The Latest Priorities Anti-Corruption Plan Endorsements Get Involved Volunteer Upcoming Events Media Yard Signs Facebook X-twitter Instagram Youtube DONATE March 16, 2026 Press Release Rep.
+Kathy Castor Endorses Bale Dalton The Central Florida Congresswoman Praised Dalton’s Record of Service and Florida-First Campaign to Defeat Congressman Cory Mills Sanford, FL – Congresswoman Kathy Castor (FL-14) announced her endorsement of Bale Dalton in Florida’s 7th Congressional District today.
 Rep.
-Castor expressed her support, saying:
-“Bale has demonstrated his valiant commitment to the people of the United States through 23 years of service and leadership in the U.S.
+Castor expressed her support, saying: “Bale has demonstrated his valiant commitment to the people of the United States through 23 years of service and leadership in the U.S.
 Navy and Navy Reserve.
 I know he will put Florida first, and look forward to working with him to lower costs, create safe communities, protect health care, and ensure every Floridian has the freedom to thrive.
-His record of building a grassroots movement and delivering real results shows he is ready to bring that same determination to Washington.”
-Dalton expressed gratitude for Rep.
-Castor’s support:
-“Rep.
+His record of building a grassroots movement and delivering real results shows he is ready to bring that same determination to Washington.” Dalton expressed gratitude for Rep.
+Castor’s support: “Rep.
 Castor and I share a deep commitment to Central Florida, and know that things have to change.
 We need to make life affordable again.
 We need representatives who are focused on their constituents, not their corruption charges.
@@ -18,8 +15,7 @@ Castor’s trust that this is the right campaign to win in November and deliver 
 In addition to this endorsement, Dalton has earned the support of prominent Florida leaders, including U.S.
 Senator Bill Nelson and Orlando Mayor Buddy Dyer.
 In January, the Cook Political Report released new ratings, shifting the race towards Dalton.
-ABOUT BALE DALTON:
-Bale Dalton is a decorated Navy Captain and former NASA Chief of Staff who has always answered the call to serve America.
+ABOUT BALE DALTON: Bale Dalton is a decorated Navy Captain and former NASA Chief of Staff who has always answered the call to serve America.
 One of four raised in a hardworking Central Florida family, Bale graduated from the U.S.
 Naval Academy and has served in the U.S.
 Navy and Navy Reserve for 23 years.
@@ -28,6 +24,11 @@ Following active duty, he worked for Senator Bill Nelson, helping Florida vetera
 After an additional stint on active duty, Bale returned to government service as NASA Chief of Staff.
 At NASA, he managed 16,500 employees and helped run one of the federal government’s most effective agencies.
 After a lifetime of service, Bale is now running against Congressman Cory Mills in Florida’s 7th Congressional District.
-Mills is under investigation by the House Ethics Committee for sexual misconduct, dating violence, and for improperly profiting from arms sales in government contracts.
+Mills is under investigation by the House Ethics Committee for sexual misconduct, dating violence , and for improperly profiting from arms sales in government contracts.
 In October, a Florida judge issued a restraining order against Cory Mills, to protect his ex-girlfriend from blackmail and intimidation.
-###
+### Share: Get INvolved Join The Team First Name Last Name Email Zip Code Cell Phone Get Involved or Chip in $25 Bale Dalton is running for Congress because, after 24 years serving his country, he believes Florida deserves leaders who put people ahead of politics and deliver results for families here at home.
+Support his campaign by making a donation .
+Reach out to his campaign by emailing [email protected] Facebook X-twitter Instagram Youtube Contributions can be mailed to: Dalton for Florida PO Box 1027 Sanford, FL 32772 Media Paid for by Dalton for Florida Bale Dalton is a former member of the United States Navy and current member of the United States Navy Reserve.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or Department of Defense. © Copyright #.
+All Rights Reserved.
+Privacy Policy.

@@ -1,11 +1,7 @@
-Let’s build a simple bridge that improves traffic congestion and doesn’t bankrupt the taxpayers
-Sunday, September 6, 2026, Clark County Today
-By Rep.
-John Ley
-for Clark County Today
-Rep.
-John Ley
-In Sept 2020, the Washington State Department of Transportation (WSDOT) signed a $44 million contract with WSP Global to deliver a federal Record of Decision (ROD) on the Interstate Bridge Replacement Program (IBR) by Dec. 2025.
+Home News Latest News 60 Seconds With John Ley About Me Donate Issues Stop rewarding fiscal mismanagement on the IBR; enough is enough September 12, 2026 by John Ley Let’s build a simple bridge that improves traffic congestion and doesn’t bankrupt the taxpayers Sunday, September 6, 2026, Clark County Today By Rep.
+John Ley for Clark County Today Rep.
+John Ley In Sept 2020, the Washington State Department of Transportation (WSDOT) signed a $44 million contract with WSP Global to deliver a federal Record of Decision (ROD) on the Interstate Bridge Replacement Program (IBR) by Dec.
+2025.
 Three months earlier, WSDOT had hired former WSP Senior Vice President Greg Johnson to act as program administrator for the project.
 The federal Department of Transportation under Secretary Sean Duffy issued a Record of Decision (ROD) on July 1.
 The IBR had spent $321.7 million as of June 30 to achieve that milestone.
@@ -19,12 +15,15 @@ Except Phase 1 is $2.2 billion short of the necessary funding.
 This isn’t merely expensive.
 It is a case study in government project management gone wrong, not unlike Boston’s “Big Dig” or the California High Speed Rail debacle.
 And it is a case study in consultants getting rich.
-The numbers tell the story.
-When WSP signed its contract with the WSDOT, the agreement called for the delivery of the ROD for $44 million.
+The IBR estimate shows 4 funded components of the project and 20 unfunded components.
+Funded components include construction of two new Columbia River bridges, program management, pre-completion tolling, and transit design totaling $# billion.
+Graphic courtesy IBR The numbers tell the story.
+When WSP signed its contract with the WSDOT, the agreement called for the delivery of the ROD for $44 million .
 The two states have spent seven times that amount.
 The contract also provided WSP with a 32% fixed fee — a guaranteed profit on every dollar they billed.
 The most recent finance plan appears to give them a billion dollars over the life of the projected 20-year project.
-Meanwhile, the project itself went from a projected cost of $3.2–$4.8 billion in Nov. 2020 to today’s projected price tag of $15.2 billion.
+Meanwhile, the project itself went from a projected cost of $3.2–$4.8 billion in Nov.
+2020 to today’s projected price tag of $15.2 billion.
 That’s more than triple the original price for a project years behind schedule.
 Portland economist Joe Cortright got a $17.7 billion cost estimate via public records requests.
 Remember when we were told that every day of delay would cost taxpayers another $1 million?
@@ -36,11 +35,9 @@ Only in government can a project be years behind schedule, triple its original c
 The governor of Maryland and DOT’s Duffy fired the general contractor rebuilding the Key Bridge in Baltimore citing “high costs and delays”.
 It’s time to consider removing WSP from the IBR.
 They have not served us well.
-We don’t even have enough money to build Phase 1
-The latest financial plan released in June makes matters worse.
+We don’t even have enough money to build Phase 1 The latest financial plan released in June makes matters worse.
 The IBR doesn’t have enough money to build the entire $15.2 billion project.
-So officials have divided it into two phases, with the full project expected to take at least 20 years, “pending full funding.”
-But there’s a problem with Phase 1: The money isn’t there either.
+So officials have divided it into two phases, with the full project expected to take at least 20 years, “pending full funding.” But there’s a problem with Phase 1: The money isn’t there either.
 According to the IBR, the program is approximately $2.2 billion short of the funding needed for the first phase.
 Think about the absurdity of that.
 We’re preparing to launch construction on a $15 billion project while acknowledging that we’re billions of dollars short of paying for the first part.
@@ -59,8 +56,9 @@ Then there is $160 million for the SR-165 Carbon River Fairfax Bridge; $2 – $3
 Gov.
 Bob Ferguson wants $3 billion to replace and upgrade the Washington State Ferry system as 11 vessels retire by 2040.
 Then there’s an estimated $4 billion for fish barriers.
-A bridge should move traffic — not become a transit monument
-The IBR’s so-called “locally preferred alternative” is preferred by virtually nobody who actually wants a solution to the region’s transportation problems.
+The IBR highlights the fact that their design provides only 46 percent of the bridge surface to cars and freight haulers.
+Pedestrians, bikes and transit are allocated 54 percent of the space.
+Graphic courtesy IBR A bridge should move traffic — not become a transit monument The IBR’s so-called “locally preferred alternative” is preferred by virtually nobody who actually wants a solution to the region’s transportation problems.
 Replacing an over-congested 3-lane bridge with another 3 through lane bridge is beyond ridiculous, especially for a bridge expected to last at least a century.
 The bridge doesn’t adequately solve today’s congestion.
 In fact the IBR reports morning travel times on I-5 will double by 2045 to 60 minutes.
@@ -79,9 +77,8 @@ Those cuts reportedly deliver less than half the savings the agency says it need
 Washington taxpayers should not be financially tied in any way to a nearly bankrupt TriMet.
 Washington residents should not be asked to assume financial responsibility for TriMet’s fiscal mismanagement, whether through direct funding, operating subsidies or an expensive light-rail component attached to the IBR.
 If TriMet cannot afford to operate the system it already has, Washington taxpayers certainly should not be put on the hook for expanding it across the Columbia River.
-Other communities are showing us a better way
-Look at the Hood River–White Salmon bridge project.
-At approximately $1.12 billion, it is reportedly 60 percent designed.
+Other communities are showing us a better way Look at the Hood River–White Salmon bridge project.
+At approximately $1.12 billion, it is reportedly 60 percent designed .
 Why should we pay 15 times that much for a bridge roughly 900 feet shorter from Hayden Island to Vancouver?
 Yes, the Hood River bridge will only have a single vehicle lane plus bike and pedestrian facilities, but it demonstrates a much more realistic cost.
 Then look at Cincinnati’s Brent Spence Bridge Corridor.
@@ -93,38 +90,39 @@ If Ohio and Kentucky can build an eight-lane interstate bridge through a major u
 The answer shouldn’t be more consultants, more public relations campaigns or more years of studies.
 It should be accountability.
 Will Governors Bob Ferguson and Tina Kotek stop the huge waste of the people’s money?
-Let’s build the bridge we actually need
-Washington and Oregon have approximately $4.2 billion committed to the IBR, including $2.1 billion federal dollars.
+Early IBR planning noted significant growth in vehicle traffic over the Columbia River.
+But growth was limited on I-5 due to “capacity constraints” on the I-5 Interstate Bridge.
+Graphic courtesy IBR Let’s build the bridge we actually need Washington and Oregon have approximately $4.2 billion committed to the IBR, including $2.1 billion federal dollars.
 Subtract the $321.7 million already spent, and roughly $3.9 billion remains.
 That’s the cost they said was needed to build the bridge replacement and immediate connections.
 That’s enough money to have a serious conversation about priorities.
 There are roughly 30 components in the current IBR project plan.
 Legislators on both sides of the Columbia should go through them one by one.
 Ask a simple question: Is this necessary to build a safe, functional bridge and connect it to I-5—or is it an expensive extra?
-- Build the bridge.
-- Prioritize automobiles and freight.
-- Remove the $3.5 billion transit component.
-- Eliminate unnecessary freeway caps and expensive extras like the Marine Drive maze.
+Build the bridge.
+Prioritize automobiles and freight.
+Remove the $3.5 billion transit component.
+Eliminate unnecessary freeway caps and expensive extras like the Marine Drive maze.
 Stop spending millions of dollars selling the public on a project that nobody wants.
-Reports indicate approximately $30 million has been spent on public relations and communications promoting the project.
-That $30 million should have gone toward actually building infrastructure.
+Reports indicate approximately $# million has been spent on public relations and communications promoting the project.
+That $# million should have gone toward actually building infrastructure.
 Taxpayers don’t need another sales pitch.
 They need a bridge that is affordable and moves cars and freight.
-It’s time to say no more
-For six and a half years, we’ve watched the IBR grow from a $4.8 billion project into a $15.2 billion one.
+Cars and freight haulers make up the overwhelming majority of the users of the I-5 Interstate Bridge.
+Of the estimated 185,000 daily users, bikes, pedestrians and transit riders make up less than 2 percent.
+Graphic courtesy IBR It’s time to say no more For six and a half years, we’ve watched the IBR grow from a $4.8 billion project into a $15.2 billion one.
 We’ve spent $321.7 million before construction.
 WSP has pocketed millions.
 We’ve endured years of delays, including debating a bridge 62 feet lower than the current structure.
-Projected transit ridership was slashed by 84 percent.
+Projected transit ridership was slashed by 84 percent .
 We’ve watched the project’s design and scope expand to include a light rail station 91 feet above the ground at the Vancouver waterfront, which later became the “end of the line” for phase one.
-And now we’re told the project isn’t fully funded — and is still $2.2 billion short of Phase 1.
-There also remains the huge financial threat of $10 per day bridge tolls which nobody wants.
+And now we’re told the project isn’t fully funded — and is still $# billion short of Phase 1.
+There also remains the huge financial threat of $# per day bridge tolls which nobody wants.
 This isn’t a transportation success story.
 It’s a warning about what happens when the government stops treating taxpayers’ money as scarce and views them more like an ATM.
 We don’t need another 20 years of sales pitches, consultants and excuses.
 The people don’t deserve 20 years of construction, on top of further cost increases they can’t afford to pay.
-We need to build an affordable bridge
-Use the billions already committed.
+We need to build an affordable bridge Use the billions already committed.
 Strip the project down to its essential purpose.
 Give priority to the people and businesses that depend on I-5 every day.
 Put cars and freight first.
@@ -139,3 +137,8 @@ No more blank checks.
 No more excuses.
 Build a bridge we need and can afford.
 But stop the $15 billion boondoggle.
+Anne McEnerny Ogle Bob Ferguson Boston Big Dig Brent Spence Bridge California High Speed Rail Columbia River Crossing DOT Secretary Sean Duffy East County Bridge Federal Record of Decision Figg Engineering Greg Johnson Hood River–White Salmon bridge I-5 Interstate Bridge Replacement Interstate Bridge Replacement Program Joe Cortright Key Bridge mass transit Rose Quarter Project Shelly Boshart Davis Tina Kotek TriMet Washington Department of Transportation Washington State Ferry System WSP WSP Global by John Ley previous Washington state’s rainy day fund won’t help fire victims next Washington lawmaker warns ballooning bridge budget needs reality check Help me fight for the people and common sense solutions.
+I want to serve YOU in Olympia.
+Donate Contact electjohnley@gmail.com P.O.
+Box 822041, Vancouver, WA 98682 Donate © # Paid for by Friends to Elect John Ley • P.O.
+Box 822041, Vancouver, WA 98682

@@ -1,7 +1,15 @@
 {
  "description": "",
  "final_url": "https://erikunderwood.com/events/list/",
- "paid_for_by": "Paid for by Underwood for Colorado \u00a9 2026",
- "title": "Events from Nov 5, 2023 \u2013 Nov 18, 2024 \u2013 Erik Underwood",
- "years_mentioned": []
+ "fingerprint": "782be9edb6beb7c0b245a5be4dfb961471f1f3a6",
+ "format": 3,
+ "paid_for_by": "Paid for by Underwood for Colorado © #",
+ "title": "Events from Nov 5, 2023 – Nov 18, 2024 – Erik Underwood",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2026",
+  "2027",
+  "2028"
+ ]
 }

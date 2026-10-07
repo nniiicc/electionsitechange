@@ -1,26 +1,122 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F",
-"https://facebook.com/electjasonwoolford",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&t=Howell+Opera+House",
-"https://i0.wp.com/jasonwoolford.com/wp-content/uploads/2024/03/Opera-House-Flyer.jpg?fit=612%2C792&ssl=1",
-"https://jasonwoolford.com/",
-"https://jasonwoolford.com/2024-campaign-announcement",
-"https://jasonwoolford.com/agenda",
-"https://jasonwoolford.com/author/jwoolford",
-"https://jasonwoolford.com/category/press-releases",
-"https://jasonwoolford.com/endorsements",
-"https://jasonwoolford.com/join",
-"https://jasonwoolford.com/meet-jason",
-"https://jasonwoolford.com/mirs-press-release",
-"https://jasonwoolford.com/press-releases",
-"https://jasonwoolford.com/test-post",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&media=https%3A%2F%2Fi0.wp.com%2Fjasonwoolford.com%2Fwp-content%2Fuploads%2F2024%2F03%2FOpera-House-Flyer.jpg%3Ffit%3D612%252C792%26ssl%3D1",
-"https://reddit.com/submit?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House",
-"https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0",
-"https://tumblr.com/share/link?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&name=Howell+Opera+House",
-"https://vk.com/share.php?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House",
-"https://x.com/intent/post?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&text=Howell+Opera+House",
-"https://xing.com/social_plugins/share/new?sc_p=xing-share&h=1&url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F",
-"https://youtube.com/@JWMChannel"
+{
+"text": "2024 Campaign Announcement",
+"href": "https://jasonwoolford.com/2024-campaign-announcement/"
+},
+{
+"text": "AGENDA",
+"href": "https://jasonwoolford.com/agenda/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/49ac2066-dfd7-4153-a8da-15a58fe6fcd0/e49e363e-c512-4ab2-a730-6cdfe8afd6b0"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jasonwoolford.com/endorsements/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&subject=Howell+Opera+House"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&t=Howell+Opera+House"
+},
+{
+"text": "HOME",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://jasonwoolford.com/join/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House&summary="
+},
+{
+"text": "MEET JASON",
+"href": "https://jasonwoolford.com/meet-jason/"
+},
+{
+"text": "MIRS Press Release",
+"href": "https://jasonwoolford.com/mirs-press-release/"
+},
+{
+"text": "Next",
+"href": "https://jasonwoolford.com/test-post/"
+},
+{
+"text": "PRESS & EVENTS",
+"href": "https://jasonwoolford.com/press-releases/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&description=&media=https%3A%2F%2Fi0.wp.com%2Fjasonwoolford.com%2Fwp-content%2Fuploads%2F2024%2F03%2FOpera-House-Flyer.jpg%3Ffit%3D612%252C792%26ssl%3D1"
+},
+{
+"text": "Press Releases",
+"href": "https://jasonwoolford.com/category/press-releases/"
+},
+{
+"text": "Previous",
+"href": "https://jasonwoolford.com/mirs-press-release/"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House"
+},
+{
+"text": "Tumblr",
+"href": "https://www.tumblr.com/share/link?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&name=Howell+Opera+House&description="
+},
+{
+"text": "View Larger Image [image]",
+"href": "https://i0.wp.com/jasonwoolford.com/wp-content/uploads/2024/03/Opera-House-Flyer.jpg?fit=612%2C792&ssl=1"
+},
+{
+"text": "Vk",
+"href": "https://vk.com/share.php?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&title=Howell+Opera+House&description="
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F"
+},
+{
+"text": "X",
+"href": "https://www.facebook.com/electjasonwoolford"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F&text=Howell+Opera+House"
+},
+{
+"text": "Xing",
+"href": "https://www.xing.com/social_plugins/share/new?sc_p=xing-share&h=1&url=https%3A%2F%2Fjasonwoolford.com%2Fhowell-opera-house%2F"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@JWMChannel"
+},
+{
+"text": "[image: Jason Woolford Logo]",
+"href": "https://jasonwoolford.com/"
+},
+{
+"text": "[no text]",
+"href": "https://jasonwoolford.com/2024-campaign-announcement/"
+},
+{
+"text": "[no text]",
+"href": "https://jasonwoolford.com/mirs-press-release/"
+},
+{
+"text": "jwoolford",
+"href": "https://jasonwoolford.com/author/jwoolford/"
+}
 ]

@@ -1,6 +1,5 @@
-Congressman
-Delivering for Eastern Kentucky Since 1980
-Serving Kentucky’s 5th Congressional District since 1981, Hal Rogers has been elected to 23 consecutive terms representing the people of southern and eastern Kentucky.
+Congressman Hal Rogers DONATE DONATE Congressman Hal Rogers Congressman Hal Rogers Delivering for Eastern Kentucky Since 1980 "I am proud to have served the people of Eastern Kentucky for over four decades.
+My commitment to this region is unwavering, and I will continue to fight for our communities in Congress." — Congressman Hal Rogers Congressman Hal Rogers Serving Kentucky’s 5th Congressional District since 1981, Hal Rogers has been elected to 23 consecutive terms representing the people of southern and eastern Kentucky.
 On September 2, 2021, he made history as the longest-serving Member of Congress from Kentucky.
 On March 18, 2022, he became Dean of the U.S.
 House of Representatives, as the longest-serving Member in the House.
@@ -15,3 +14,5 @@ With 40 years of experience on the Appropriations Committee, he has served on mo
 Notably, Rogers was tapped in 2003 to lead the first Subcommittee on Homeland Security.
 Through this important role, Rogers fought to ensure our first responders received necessary funds to protect against terrorist threats; demanded tough answers from FEMA in the wake of federal responses to wildfires, hurricanes and flash floods; and insisted on enforcement of our country’s immigration laws and stronger border security.
 Whether Rogers is on Capitol Hill ensuring the appropriate use of taxpayer dollars, fighting to secure the homeland, scrutinizing federal government agencies, or home in southern and eastern Kentucky working to make a difference in the lives of the individuals he represents, Rogers remains committed to being a strong voice in Congress for fiscal responsibility, economic development, a strong national defense, and a prosperous future for America.
+Biography News & Updates Delivering for EKY Privacy Policy Contact Paid for by Hal Rogers for Congress ©# Hal Rogers for Congress.
+All rights reserved.

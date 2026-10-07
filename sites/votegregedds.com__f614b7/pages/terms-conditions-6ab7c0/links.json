@@ -1,10 +1,62 @@
 [
-"https://elegantthemes.com/",
-"https://facebook.com/gregeddsrowancounty",
-"https://instagram.com/gregoryedds",
-"https://votegregedds.com/",
-"https://votegregedds.com/home-updated",
-"https://votegregedds.com/privacy-policy",
-"https://votegregedds.com/terms-conditions",
-"https://wordpress.org/"
+{
+"text": "Click here to return to the home page",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/gregeddsrowancounty/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/gregoryedds/"
+},
+{
+"text": "Home",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "Home Updated",
+"href": "https://votegregedds.com/home-updated/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegregedds.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegregedds.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegregedds.com/terms-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegregedds.com/terms-conditions/"
+},
+{
+"text": "Vote Greg Edds",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "[image: Greg Edds NC House - 76]",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "[image]",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "greg@gregedds.com",
+"href": "mailto:greg@gregedds.com"
+}
 ]

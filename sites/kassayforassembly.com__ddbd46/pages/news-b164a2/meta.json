@@ -1,7 +1,11 @@
 {
  "description": "Read about Rebecca in local news and media outlets.",
  "final_url": "https://www.kassayforassembly.com/news",
+ "fingerprint": "ff3e91534a6704910c814d4161c660f77b6a4bbe",
+ "format": 3,
  "paid_for_by": "PAID FOR BY FRIENDS OF KASSAY FOR ASSEMBLY 2026 EMAIL US AT INFO@KASSAYFORASSEMBLY",
  "title": "In the News | Rebecca For Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

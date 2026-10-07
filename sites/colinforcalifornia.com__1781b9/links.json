@@ -1,18 +1,70 @@
 [
-"https://actionnetwork.org/forms/sign-up-for-the-latest-campaign-updates",
-"https://actionnetwork.org/forms/sign-up-for-the-latest-campaign-updates-2",
-"https://boxd.it/dB5r9",
-"https://colinforcalifornia.com/",
-"https://colinforcalifornia.com/?page_id=174",
-"https://colinforcalifornia.com/cdn-cgi/l/email-protection",
-"https://colinforcalifornia.com/endorsements",
-"https://colinforcalifornia.com/issues",
-"https://colinforcalifornia.com/privacypolicy",
-"https://colinforcalifornia.com/terms-of-service",
-"https://facebook.com/colinforcad51",
-"https://instagram.com/colinforcad51",
-"https://secure.actblue.com/donate/colinforcad51",
-"https://twitch.tv/colinforcad51",
-"https://voterstatus.sos.ca.gov/",
-"https://x.com/colindhernandez"
+{
+"text": "CONTACT",
+"href": "mailto:colin@colinforcalifornia.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colinforcad51"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://colinforcalifornia.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://actionnetwork.org/forms/sign-up-for-the-latest-campaign-updates"
+},
+{
+"text": "ISSUES",
+"href": "https://colinforcalifornia.com/?page_id=174%09"
+},
+{
+"text": "ISSUES",
+"href": "https://colinforcalifornia.com/issues/"
+},
+{
+"text": "JOIN US",
+"href": "https://actionnetwork.org/forms/sign-up-for-the-latest-campaign-updates-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://colinforcalifornia.com/?page_id=174"
+},
+{
+"text": "MAKE A PLAN TO VOTE",
+"href": "https://voterstatus.sos.ca.gov"
+},
+{
+"text": "Privacy Policy",
+"href": "https://colinforcalifornia.com/privacypolicy/"
+},
+{
+"text": "Terms of Service",
+"href": "https://colinforcalifornia.com/terms-of-service/"
+},
+{
+"text": "[image]",
+"href": "https://colinforcalifornia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://boxd.it/dB5r9"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/colinforcad51"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/colinforcad51/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/colinforcad51"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/colindhernandez"
+}
 ]

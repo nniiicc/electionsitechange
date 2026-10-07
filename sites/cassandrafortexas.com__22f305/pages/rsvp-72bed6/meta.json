@@ -1,7 +1,9 @@
 {
  "description": "RSVP for events with Cassandra Hernandez. Join us in supporting Texas elections and donate to the campaign.",
  "final_url": "https://cassandrafortexas.com/rsvp",
- "paid_for_by": null,
+ "fingerprint": "2577626e6dd423e3ab920e3ead1bcc9839ec43de",
+ "format": 3,
+ "paid_for_by": "",
  "title": "RSVP",
  "years_mentioned": []
 }

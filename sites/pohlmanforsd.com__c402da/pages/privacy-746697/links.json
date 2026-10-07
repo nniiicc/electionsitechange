@@ -1,15 +1,46 @@
 [
-"http://aboutads.info/choices",
-"http://networkadvertising.org/",
-"http://optout.networkadvertising.org/",
-"http://youronlinechoices.eu/",
-"https://facebook.com/people/Pohlman-for-District-10-House/61574384070330?mibextid=wwXIfr&rdid=yRpxCrwvOJFbXAi8&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DQruuxs27%2F%3Fmibextid%3DwwXIfr",
-"https://fpf.org/thank-you-for-visiting-allaboutdnt-com",
-"https://globalprivacycontrol.org/",
-"https://optout.aboutads.info/?c=2&lang=EN",
-"https://pohlmanforsd.com/?hsLang=en",
-"https://pohlmanforsd.com/privacy",
-"https://pohlmanforsd.com/terms?hsLang=en",
-"https://support.google.com/analytics/answer/6004245?hl=en",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "(605) 951-0642",
+"href": "tel:16059510642"
+},
+{
+"text": "John@PohlmanForSD.com",
+"href": "mailto:john@pohlmanforsd.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pohlmanforsd.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://pohlmanforsd.com/terms?hsLang=en"
+},
+{
+"text": "[image: John Pohlman for District 10 House]",
+"href": "https://pohlmanforsd.com/?hsLang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Pohlman-for-District-10-House/61574384070330/?mibextid=wwXIfr&rdid=yRpxCrwvOJFbXAi8&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DQruuxs27%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "click here to view the options",
+"href": "https://globalprivacycontrol.org/#download"
+},
+{
+"text": "clicking here",
+"href": "https://fpf.org/thank-you-for-visiting-allaboutdnt-com/"
+},
+{
+"text": "clicking here",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "https://support.google.com/analytics/answer/6004245?hl=en",
+"href": "https://support.google.com/analytics/answer/6004245?hl=en"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+}
 ]

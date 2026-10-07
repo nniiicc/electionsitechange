@@ -1,18 +1,82 @@
 [
-"https://discord.gg/U2rHEV5hRt",
-"https://docs.google.com/forms/d/e/1FAIpQLScsVJorD9h2uPjCYZksVxPRGtC4GqYjNFX5NUz3DYy0iHm5fg/viewform",
-"https://facebook.com/KristaMagawOH",
-"https://instagram.com/kristamagawforohio2026",
-"https://kristamagawforohio.org/",
-"https://kristamagawforohio.org/about",
-"https://kristamagawforohio.org/accessibility-statement",
-"https://kristamagawforohio.org/contact",
-"https://kristamagawforohio.org/events-2",
-"https://kristamagawforohio.org/get-involved",
-"https://kristamagawforohio.org/issues",
-"https://kristamagawforohio.org/news-1",
-"https://kristamagawforohio.org/privacy-policy",
-"https://kristamagawforohio.org/terms-and-conditions",
-"https://secure.actblue.com/donate/krista-magaw-for-ohio-1",
-"https://support.wix.com/en/article/creating-a-privacy-policy"
+{
+"text": "About",
+"href": "https://www.kristamagawforohio.org/about"
+},
+{
+"text": "About Me",
+"href": "https://www.kristamagawforohio.org/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.kristamagawforohio.org/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.kristamagawforohio.org/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/krista-magaw-for-ohio-1"
+},
+{
+"text": "Events",
+"href": "https://www.kristamagawforohio.org/events-2"
+},
+{
+"text": "FOR OHIO HOUSE DISTRICT 71",
+"href": "https://www.kristamagawforohio.org"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScsVJorD9h2uPjCYZksVxPRGtC4GqYjNFX5NUz3DYy0iHm5fg/viewform"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kristamagawforohio.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.kristamagawforohio.org"
+},
+{
+"text": "Issues",
+"href": "https://www.kristamagawforohio.org/issues"
+},
+{
+"text": "Krista Magaw",
+"href": "https://www.kristamagawforohio.org"
+},
+{
+"text": "News",
+"href": "https://www.kristamagawforohio.org/news-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kristamagawforohio.org/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.kristamagawforohio.org/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScsVJorD9h2uPjCYZksVxPRGtC4GqYjNFX5NUz3DYy0iHm5fg/viewform"
+},
+{
+"text": "[image: Discord]",
+"href": "https://discord.gg/U2rHEV5hRt"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/KristaMagawOH/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kristamagawforohio2026/"
+}
 ]

@@ -1,12 +1,62 @@
 [
-"https://facebook.com/votegambill",
-"https://instagram.com/matthewgambill",
-"https://secure.anedot.com/votegambill/donate",
-"https://twitter.com/matthew_gambill",
-"https://votegambill.com/",
-"https://votegambill.com/about",
-"https://votegambill.com/contact",
-"https://votegambill.com/issues",
-"https://votegambill.com/volunteer",
-"https://votegambill.com/waste"
+{
+"text": "ABOUT",
+"href": "https://www.votegambill.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.votegambill.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/votegambill/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/votegambill/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votegambill.com/"
+},
+{
+"text": "MEET MATTHEW",
+"href": "https://www.votegambill.com/about"
+},
+{
+"text": "MY RECORD",
+"href": "https://www.votegambill.com/issues"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votegambill.com/about"
+},
+{
+"text": "READ MORE",
+"href": "https://www.votegambill.com/issues"
+},
+{
+"text": "REPORT WASTEFUL SPENDING",
+"href": "https://www.votegambill.com/waste"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.votegambill.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.votegambill.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/matthew_gambill"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votegambill/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/matthewgambill/"
+}
 ]

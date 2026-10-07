@@ -1,12 +1,5 @@
-A modern, Trendy and Well Designed
-Municipal & City Government WordPress Theme
-The all pages is pre-build and you can use it free without any fee.
-Home Pages
-0
-+
-Inner Pages
-Pre-Made blocks
-Header/Footer Layouts
-When you import demo data, the all pages will import to your site.
-@ 2023 ovatheme.com.
+DEMOS FEATURE DOCUMENTATION A modern, Trendy and Well Designed Municipal & City Government WordPress Theme 13+ Unique Home Pages The all pages is pre-build and you can use it free without any fee.
+Home 1 Home 2 Home 3 Home 4 Home Museum Home Eelection Campaign Home Government 2 Home 5 Home Travel Home Politician Home 6 Home NGO Home Government 1 More Demos Coming Soon...!
+Home Pages 0 + Inner Pages 0 + Pre-Made blocks 0 + Header/Footer Layouts 0 + Some inner Pre-Built Pages When you import demo data, the all pages will import to your site.
+Departments Department Single Documention Document Single Events Event Single Shop About Us Our History Portfolio Portfolio Single Other Ultimate Features One Click Demo Import High Speed & Performance Highly Customizable Free Google Fonts Elementor Page Builder SEO Optimized Contact Form 7 Support Well Documented Fully Responsive Design Browser Compatible Google Maps Integration 6 Month Free Support Intitutive Theme Option Easy to customize Layout Mailchimp Email Newsletter Automatic Updates Get Bundled Plugins for Free Elementor Revolution Slider Woocommerce Contact Form 7 CMB2 Ova Calendar Ova Portfolio Ova Document Ova Department Ova Service Ova Career Ova Team Ova Megamenu Ova Directory Ova Collection Ova Exhibition Give Yoast SEO Build City Government Site with Gimont @ 2023 ovatheme.com.
 All Rights Reserved.

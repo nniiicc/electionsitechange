@@ -1,19 +1,74 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://deatrichforstaterep.com/",
-"https://deatrichforstaterep.com/contact",
-"https://deatrichforstaterep.com/contribute",
-"https://deatrichforstaterep.com/events",
-"https://deatrichforstaterep.com/home",
-"https://deatrichforstaterep.com/issues",
-"https://deatrichforstaterep.com/meet_john",
-"https://deatrichforstaterep.com/news",
-"https://deatrichforstaterep.com/volunteer",
-"https://deatrichforstaterep.com/vote",
-"https://facebook.com/share/1C8Fed2YMc?mibextid=wwXIfr",
-"https://instagram.com/deatrichforstaterep",
-"https://pa.gov/agencies/vote",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Contact",
+"href": "https://www.deatrichforstaterep.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.deatrichforstaterep.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://www.deatrichforstaterep.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.deatrichforstaterep.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.deatrichforstaterep.com/issues"
+},
+{
+"text": "Meet John",
+"href": "https://www.deatrichforstaterep.com/meet_john"
+},
+{
+"text": "News",
+"href": "https://www.deatrichforstaterep.com/news"
+},
+{
+"text": "PA State Voter Information",
+"href": "https://www.pa.gov/agencies/vote"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.deatrichforstaterep.com/vote"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.deatrichforstaterep.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.deatrichforstaterep.com/vote"
+},
+{
+"text": "[image: JOHN DEATRICH State Representative]",
+"href": "https://www.deatrichforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/deatrichforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1C8Fed2YMc/?mibextid=wwXIfr"
+}
 ]

@@ -1,6 +1,4 @@
-Our climate change summer is here: Hamilton laments wildfire-fueled toxic air, calls for ‘proactive and strategic’ climate action
-June 29, 2023
-For the past week, smoke from the Canadian wildfires has encased Indiana in a toxic haze.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Our climate change summer is here: Hamilton laments wildfire-fueled toxic air, calls for ‘proactive and strategic’ climate action Aug 5 Written By Carey Hamilton June 29, 2023 For the past week, smoke from the Canadian wildfires has encased Indiana in a toxic haze.
 The Indiana Department of Environmental Management (IDEM) has issued air quality advisories warning Hoosiers of this significant health hazard.
 This wildfire season is the most severe on record in Canada due to drought and abnormally high temperatures linked to climate change.
 “For years, climate change has been dismissed at the Statehouse as something the Republican supermajority simply won’t acknowledge let alone address,” State Rep.
@@ -14,4 +12,4 @@ We should marry strategic efforts to grow these industries with proactive polici
 Notably, these efforts will also help reduce the increasing stress that climate change places on our critical agriculture sector.
 “The negative impacts of climate change can no longer be ignored.
 In light of this toxic air event – an alarming wake-up call for our state – I’m calling once again for a 2023 climate study committee.
-It’s time to be proactive and strategic to ensure Indiana remains a great place to live, work and play.”
+It’s time to be proactive and strategic to ensure Indiana remains a great place to live, work and play.” Source Our Environment Carey Hamilton Previous Previous Hamilton statement on Indiana Supreme Court decision to uphold near-total abortion ban Next Next Hamilton co-sponsors legislation bringing more money to Marion County Paid for and authorized by the Committee to Elect Carey Hamilton

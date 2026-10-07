@@ -1,11 +1,50 @@
 [
-"http://instagram.com/tennantforwyoming",
-"https://facebook.com/tennantforwyoming",
-"https://iwillvote.com/wyoming",
-"https://secure.actblue.com/donate/britney-tennant",
-"https://tennantforwyoming.com/",
-"https://tennantforwyoming.com/get-involved",
-"https://tennantforwyoming.com/meet-britney",
-"https://tennantforwyoming.com/privacy-policy",
-"https://wyodems.org/"
+{
+"text": "ASK BRITNEY",
+"href": "mailto:campaign@tennantforwyoming.com?subject=I+have+a+question%21"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/britney-tennant"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tennantforwyoming.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.tennantforwyoming.com"
+},
+{
+"text": "I WILL VOTE",
+"href": "https://iwillvote.com/wyoming"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:campaign@tennantforwyoming.com?subject=Media+Request"
+},
+{
+"text": "Meet Britney",
+"href": "https://www.tennantforwyoming.com/meet-britney"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.tennantforwyoming.com/privacy-policy"
+},
+{
+"text": "[image: Tennant for Wyoming campaign logo ]",
+"href": "https://www.tennantforwyoming.com"
+},
+{
+"text": "[image: Tennant for Wyoming]",
+"href": "http://instagram.com/tennantforwyoming"
+},
+{
+"text": "[image: Tennant for Wyoming]",
+"href": "https://www.facebook.com/tennantforwyoming"
+},
+{
+"text": "[image: Wyoming Democratic Party logo]",
+"href": "https://wyodems.org/"
+}
 ]

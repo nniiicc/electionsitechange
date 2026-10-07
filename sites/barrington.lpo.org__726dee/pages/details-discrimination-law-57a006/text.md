@@ -1,13 +1,12 @@
-Defending against an EEOC charge or lawsuit typically costs employers hundreds of thousands; the yearly legal costs of such cases are in the billions.
+My Core Principles About Me Why I Am A Candidate My Public Service Promise My Platform Contribute Details: Discrimination Law Details: Discrimination Law Defending against an EEOC charge or lawsuit typically costs employers hundreds of thousands; the yearly legal costs of such cases are in the billions.
 These often exceed the actual amount of compensation paid or even at issue.
 This is the first core problem with the current process: because the costs of defense are so high, employers have a strong incentive to settle for a fraction of the amount claimed, which encourages using the process as a means of legalized shakedown of businesses.
-The damage awards are also frequently totally disproportionate to the actual harm suffered by the person discriminated against.
+The damage awards are also frequently totally disproportionate to the actual harm suffered by the person discriminated against .
 Many of the linked cases involve judges reducing clearly excessive awards, leading to leftists advocating the elimination of their ability to do that!
 (This problem has been partially addressed by a cap on Title VII damages, but this scales with the number of workers the company has, which is obviously absurd: the actual amount of harm suffered due to discrimination has no relationship to the size of the employer.
-This is illustrative of what is wrong with the entire system.)
-This potential for absurd awards and excessive defense costs has forced the creation of other real and substantial costs as defensive measures: HR bureaucracy proliferation, mandatory “DEI” trainings, selection of less-qualified employees to achieve demographic proportionality 1, prohibition of workplace romance 2, and so on.
+This is illustrative of what is wrong with the entire system.) This potential for absurd awards and excessive defense costs has forced the creation of other real and substantial costs as defensive measures: HR bureaucracy proliferation, mandatory “DEI” trainings, selection of less-qualified employees to achieve demographic proportionality 1 , prohibition of workplace romance 2 , and so on.
 There is also a freedom of expression issue.
-Courts have consistently struck down attempts to prohibit even hateful political extremists from marching in the streets, mailing their propaganda, or endorsing violence against specific ethnic groups.
+Courts have consistently struck down attempts to prohibit even hateful political extremists from marching in the streets , mailing their propaganda , or endorsing violence against specific ethnic groups .
 The standards of free expression in the United States are very broad by international standards, and that is as it should be: unpopular ideas are precisely those in need of protection from censorship, and the power to censor is always used by the powerful to suppress challenges to their power.
 However, case law has found that even ideas expressed entirely outside the workplace or not directed at specific employees may be used as evidence of harassment or discrimination.
 The result is a chilling effect which would be impermissible in other contexts: employers can be found liable if their employees express ideas which can be construed as such evidence, which violates both the rights of the employees to express the ideas and the right of the employer to freely associate.
@@ -29,8 +28,7 @@ However, in this situation, B may realize that he can make further gains by recr
 This works for Mexicans at one level (it becomes easy for them to get jobs) but fails at another, as they are unfairly paid less, relative to both non-Mexican workers and the value of their labor.
 But this is not a stable equilibrium, because C can notice this pool of underpaid Mexicans, start his own restaurant, and offer them $45,000, thus luring them away from B and increasing their wage.
 B (or D, also starting a new business) must respond by increasing the yearly pay to $48,000, and so on, until wages are bid up to parity.
-(Collusion between employers to hold down wages is an issue here, but that is true without any question of bigotry-related discrimination (i.e., A, B, and C could do that with zero Mexicans in the town), and there are other laws against it.)
-Over time, this selects against discrimination on irrelevant traits, while allowing discrimination on traits that actually are relevant to job performance to persist (without the state needing to determine which is which).
+(Collusion between employers to hold down wages is an issue here, but that is true without any question of bigotry-related discrimination (i.e., A, B, and C could do that with zero Mexicans in the town), and there are other laws against it.) Over time, this selects against discrimination on irrelevant traits, while allowing discrimination on traits that actually are relevant to job performance to persist (without the state needing to determine which is which).
 While B and C profit from their Mexican employees, A does not.
 This allows B and C to expand, such as by opening second locations in neighboring towns, while A continues to struggle to provide a competitive product.
 These processes repeat throughout the economy.
@@ -60,6 +58,7 @@ It violates the increasingly trampled upon freedom of association of business ow
 It is unnecessary, as businesses with significant handicapped customers would have incentives to provide for their needs, with no top-down mandates required.
 It is a futile attempt by government to make life “fair”, while life is inherently unfair.
 And, on top of everything else, the ADA actually reduces employment of the people it is meant to help!
-- I should note that this piece substantially overstates the strength of the effects it describes, and I do not fully agree with its conclusions.
-It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎
-- This has real costs to society. ↩︎
+I should note that this piece substantially overstates the strength of the effects it describes , and I do not fully agree with its conclusions.
+It is here because it is known as a rare example of a willingness to discuss what it does. ↩︎ This has real costs to society . ↩︎ Search Search Recent Posts Mike Carey doesn’t care… Debate invitation Electoral reform Caribbean boat strikes Don Leonard’s Socialist Stances Recent Comments Tom Gnau, Dayton Daily News on Hello voters!
+A WordPress Commenter on Hello voters!
+Paid for by Barrington for Congress Contact

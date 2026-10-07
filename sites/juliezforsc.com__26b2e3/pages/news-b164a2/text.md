@@ -1,16 +1,5 @@
-news & press
-Latest Campaign Developments
-So much is happening right now!
+Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate news & press Latest Campaign Developments So much is happening right now!
 Check out the latest below.
-NEWS ARTICLE
-'Irmo and Julie go hand in hand': Zimmerman is the town's first 'Heart of Irmo' recipient
-NEWS ARTICLE
-Skip navigation menu
-news & press
-Latest Campaign Developments
-So much is happening right now!
-Check out the latest below.
-NEWS ARTICLE
-'Irmo and Julie go hand in hand': Zimmerman is the town's first 'Heart of Irmo' recipient
-NEWS ARTICLE
-Wave of Midlands anti-ICE protests spreading to Irmo with demonstration at major intersection
+NEWS ARTICLE Irmo neighbors collect food, care items for families in need at Rawls Creek Park Read more Aug 31 2026 NEWS ARTICLE Irmo community group hosts food drive, connect families with local resources Read more Aug 30 2026 NEWS ARTICLE 'Irmo and Julie go hand in hand': Zimmerman is the town's first 'Heart of Irmo' recipient Read more Jun 18 2026 NEWS ARTICLE Irmo Neighbors Helping Neighbors hosts food and supply drive Read more Apr 19 2026 PRESS RELEASE Irmo Neighbors Helping Neighbors Hosts Community Food & Supply Drive Read more Apr 10 2026 NEWS ARTICLE SC bill would require detention centers to enforce immigration laws Read more Apr 7 2026 NEWS ARTICLE Julie Zimmerman files for state house run Read more Mar 31 2026 NEWS ARTICLE Julie Zimmerman files for state house run Read more Mar 31 2026 NEWS ARTICLE Julie Zimmerman speaks at No Kings in Columbia Read more Mar 28 2026 NEWS ARTICLE Bill wouldn’t invite federal immigration agents to SC.
+Opponents still worry.
+Read more Feb 18 2026 NEWS ARTICLE SC students again walk out to protest ICE after Minnesota shooting Read more Jan 31 2026 NEWS ARTICLE Candidates Organized Irmo Protest Against ICE Policies Read more Jan 30 2026 NEWS ARTICLE Irmo community protest against ICE Read more Jan 29 2026 NEWS ARTICLE Wave of Midlands anti-ICE protests spreading to Irmo with demonstration at major intersection Read more Jan 29 2026 Press Release Community Members Insist that All US Law Enforcement Follow US Laws Read more Jan 27 2026 News Article Upstate lawmakers propose anti-abortion legislation ahead of session Read more Jan 13 2026 News Article ‘The way it should be’: Monks on ‘Walk for Peace’ draw massive crowds in Columbia Read more Jan 10 2026 Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.

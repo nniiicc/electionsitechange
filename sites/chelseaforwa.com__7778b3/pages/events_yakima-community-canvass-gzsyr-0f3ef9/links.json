@@ -1,19 +1,86 @@
 [
-"http://facebook.com/chelseaforwa",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260801T170000Z%2F20260801T200000Z&location=1521+South+1st+Street%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States",
-"http://instagram.com/chelseaforwa",
-"http://maps.google.com/?q=1521+South+1st+Street+Sunnyside%2C+Washington%2C+98944+United+States",
-"http://squarespace.com/",
-"https://chelseaforwa.com/",
-"https://chelseaforwa.com/about",
-"https://chelseaforwa.com/cart",
-"https://chelseaforwa.com/endorsements",
-"https://chelseaforwa.com/events",
-"https://chelseaforwa.com/events/yakima-community-canvass",
-"https://chelseaforwa.com/events/yakima-community-canvass-gzsyr?format=ical",
-"https://chelseaforwa.com/news",
-"https://chelseaforwa.com/volunteer",
-"https://chelseaforwa.com/vote",
-"https://forms.gle/RCX1PxRu31omWvL36",
-"https://secure.actblue.com/donate/chelseaforwa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1521+south+1st+street+sunnyside%2C+washington%2C+98944+united+states"
+},
+{
+"text": "0",
+"href": "https://www.chelseaforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.chelseaforwa.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/chelseaforwa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chelseaforwa.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chelseaforwa.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chelseaforwa.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunnyside+Community+Canvass&dates=20260801T170000Z%2F20260801T200000Z&location=1521+South+1st+Street%2C+Sunnyside%2C+Washington%2C+98944%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass-gzsyr?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.chelseaforwa.com/news"
+},
+{
+"text": "Previous Previous July 25 Yakima Community Canvass",
+"href": "https://www.chelseaforwa.com/events/yakima-community-canvass"
+},
+{
+"text": "Sign-up Now!",
+"href": "https://forms.gle/RCX1PxRu31omWvL36"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.chelseaforwa.com/vote"
+},
+{
+"text": "[image: Chelsea Dimas for State Rep (D)]",
+"href": "https://www.chelseaforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/chelseaforwa"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@chelseaforwa.com"
+},
+{
+"text": "info@chelseaforwa.com",
+"href": "mailto:info@chelseaforwa.com"
+}
 ]

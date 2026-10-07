@@ -1,12 +1,10 @@
-We Are United in Our Support of John Engen for Mayor of Missoula
-I wrote this op-ed in support of John Engen for Mayor on behalf of the following Democratic legislators: Senator Bryce Bennett, Senator Ellie Boldman, Senator Shane Morigeau, Senator Shannon O’Brien, Senator Diane Sands, Rep.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate i support John engen for mayor By Tom France / August 16, 2021 We Are United in Our Support of John Engen for Mayor of Missoula I wrote this op-ed in support of John Engen for Mayor on behalf of the following Democratic legislators: Senator Bryce Bennett, Senator Ellie Boldman, Senator Shane Morigeau, Senator Shannon O’Brien, Senator Diane Sands, Rep.
 Willis Curdy, Rep.
 Tom France, Rep.
 Connie Keogh, Rep Marilyn Marler, Rep.
 Andrea Olson, Rep.
 Katie Sullivan, Rep.
-Mark Thane
-As your Missoula Democratic legislators, we want you to know we are united in our support for the re-election of Mayor John Engen.
+Mark Thane As your Missoula Democratic legislators, we want you to know we are united in our support for the re-election of Mayor John Engen.
 We support John for mayor and we hope you do to.
 John is a tested, effective and progressive leader for Missoula.
 He is a leader we know and trust.
@@ -31,4 +29,4 @@ Unfortunately, and with a total lack of awareness as to one of the real roadbloc
 In many other ways, Mayor Engen has been the right leader for Missoula.
 From turning Missoula’s water supply into a public asset to protecting our environment to honoring the dignity and rights of all of our citizens, John has brought creative energy and great skill to the Mayor’s office.
 As a growing city, Missoula faces many challenges that couldn’t be imagined just a few years ago.
-We are confident that in Mayor Engen we have the right leader to meet these challenges in ways that build and strengthen our wonderful community.
+We are confident that in Mayor Engen we have the right leader to meet these challenges in ways that build and strengthen our wonderful community. ← Previous Post Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

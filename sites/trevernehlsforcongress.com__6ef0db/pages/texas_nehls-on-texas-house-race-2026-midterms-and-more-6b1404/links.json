@@ -1,34 +1,134 @@
 [
-"https://facebook.com/ColTreverNehls",
-"https://instagram.com/trevernehlsforcongress",
-"https://linkedin.com/in/trever-nehls-130480a",
-"https://secure.anedot.com/trever-nehls-for-congress/donate",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=100",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=1000",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=2000",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=25",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=250",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=3500",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=5",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=50",
-"https://secure.anedot.com/trever-nehls-for-congress/donate?amount=500",
-"https://trevernehlsfor.wpenginepowered.com/privacy-policy",
-"https://trevernehlsfor.wpenginepowered.com/terms-and-conditions",
-"https://trevernehlsforcongress.com/",
-"https://trevernehlsforcongress.com/about",
-"https://trevernehlsforcongress.com/contact",
-"https://trevernehlsforcongress.com/early-voting-locations",
-"https://trevernehlsforcongress.com/endorsements",
-"https://trevernehlsforcongress.com/issues",
-"https://trevernehlsforcongress.com/media",
-"https://trevernehlsforcongress.com/texas-district-maps",
-"https://trevernehlsforcongress.com/texas/2026/02/04",
-"https://trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026",
-"https://trevernehlsforcongress.com/texas/category/texas",
-"https://trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election",
-"https://trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat",
-"https://trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition",
-"https://trevernehlsforcongress.com/volunteer",
-"https://truthsocial.com/@TreverNehls",
-"https://x.com/TreverNehls"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=1000"
+},
+{
+"text": "$2000",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=2000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=250"
+},
+{
+"text": "$3500",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=3500"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate?amount=500"
+},
+{
+"text": "A guide to the candidates running for Texas’ 22nd Congressional District in 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/a-guide-to-the-candidates-running-for-texas-22nd-congressional-district-in-2026/"
+},
+{
+"text": "About",
+"href": "https://www.trevernehlsforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.trevernehlsforcongress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/trever-nehls-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.trevernehlsforcongress.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ColTreverNehls"
+},
+{
+"text": "February 4, 2026",
+"href": "https://www.trevernehlsforcongress.com/texas/2026/02/04/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/trevernehlsforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://www.trevernehlsforcongress.com/issues/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/trever-nehls-130480a/"
+},
+{
+"text": "Media",
+"href": "https://www.trevernehlsforcongress.com/media/"
+},
+{
+"text": "NEWSMAX: Trump Endorses Retiring Rep. Nehls’ Twin for His Seat",
+"href": "https://www.trevernehlsforcongress.com/texas/news-max-trump-endorses-retiring-rep-nehls-twin-for-his-seat/"
+},
+{
+"text": "Nehls twins discuss upcoming congressional election",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election/"
+},
+{
+"text": "PrevPreviousNehls twins discuss upcoming congressional election",
+"href": "https://www.trevernehlsforcongress.com/texas/nehls-twins-discuss-upcoming-congressional-election/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://trevernehlsfor.wpenginepowered.com/privacy-policy/"
+},
+{
+"text": "TX CD 22 Map",
+"href": "https://www.trevernehlsforcongress.com/texas-district-maps/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://trevernehlsfor.wpenginepowered.com/terms-and-conditions/"
+},
+{
+"text": "Texas",
+"href": "https://www.trevernehlsforcongress.com/texas/category/texas/"
+},
+{
+"text": "Twins in Congress: Nehls brothers and a potentially history-making transition",
+"href": "https://www.trevernehlsforcongress.com/texas/twins-in-congress-nehls-brothers-and-a-potentially-history-making-transition/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.trevernehlsforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.trevernehlsforcongress.com/early-voting-locations/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/TreverNehls"
+},
+{
+"text": "[image]",
+"href": "https://www.trevernehlsforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@TreverNehls"
+}
 ]

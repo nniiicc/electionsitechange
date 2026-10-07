@@ -1,5 +1,5 @@
-Albany Times Union Commentary: Readers deserve to know when AI generates the news
-Let’s fast-forward two months, and it’s election night 2026.
+top of page Home Meet Pat Record of Results Endorsements Events News Chat With Pat Pat Fahy for State Senate DONATE Request a Lawn Sign!
+All Posts Search Albany Times Union Commentary: Readers deserve to know when AI generates the news Senator Patricia Fahy Sep 29 3 min read Let’s fast-forward two months, and it’s election night 2026.
 Polls have closed in New York, and you join millions of people glued to their phones, eagerly awaiting results.
 Then, a headline appears on your phone: “BREAKING NEWS: CANDIDATE X WINS SEAT IN CONGRESS.” You recognize the candidate and hundreds of people begin commenting and sharing, so you share it as well.
 There’s just one problem: The race hasn’t been officially called yet, and the headline was posted by an AI-generated website — the same kind that now make up a stunning one-third of all new websites created — but not before thousands of people saw it and accepted it as fact.
@@ -11,8 +11,7 @@ My FAIR NEWS Act, with Assemblymember Nily Rozic, would require a disclaimer on 
 The bill awaits Gov.
 Kathy Hochul’s signature.
 I have firsthand experience with generative AI reporting false information.
-When I introduced this legislation, a headline flashed across my phone screen: “New York Passes Law Regulating AI in News and Entertainment — National Today.”
-Anyone with a basic knowledge of the legislative process could tell you that introducing a bill is a long way off from getting it passed through both houses of the Legislature.
+When I introduced this legislation, a headline flashed across my phone screen: “New York Passes Law Regulating AI in News and Entertainment — National Today.” Anyone with a basic knowledge of the legislative process could tell you that introducing a bill is a long way off from getting it passed through both houses of the Legislature.
 This outlet’s generative AI misread the press release or other information it received, generated a false article, then made it available to countless readers almost instantly.
 It’s not the first time it’s happened, either.
 In Wyoming in 2024, a reporter at the Cody Enterprise used AI to generate at least seven articles that fabricated quotes from six different people, including the governor.
@@ -31,3 +30,6 @@ It’s about telling the public whether they’re reading a human-generated piec
 For 250 years, America has been unique among nations of the world because we are a country founded on an idea rather than a shared culture or ethnicity.
 And how our story is told matters.
 We must ensure that story continues to be told accurately, by human beings, and in a way that builds public trust rather than eroding it.
+Read the full article here.
+Recent Posts See All Albany Times Union: More than 80% of NY's home-schooled students are chronically absent Senator Fahy Announces $50,000 Grant for Rotterdam-Carman Little League for Updated Turf and New Batting Cages Fahy, Romero Release Letter Regarding Albany's Proposed City Budget Friends of Patricia Fahy 2026, P.O.
+Box 8282, Albany, NY 12208 pat@patriciafahy.com ​ ​Accessibility Statement © # by Friends of Patricia Fahy 2026. bottom of page

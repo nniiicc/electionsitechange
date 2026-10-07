@@ -1,4 +1,9 @@
+Buscar: Buscar × Registrarse Dirección de correo electrónico Contraseña Recuérdame × Casa Facturas Noticias Conoce a meghan Valores Voluntario Votar Votación anticipada en persona y votación de emergencia Vote por correo Contacto Donar DONAR Día: 27 enero, 2026 Página principal 27 enero 2026 Por Meghan Kallman 27 de enero de 2026 Kallman presenta un proyecto de ley para hacer públicos los datos sobre accidentes de tráfico.
 El Departamento de Transporte se niega a divulgar datos sobre accidentes de tráfico, pero la Coalición Callejera de Providence afirma que otros 42 estados sí publican dicha información.
-Más información aquí:
-Los defensores de Rhode Island respaldan un proyecto de ley independiente para hacer públicos los datos de accidentes.
-The Boston Globe, 27 de enero de 2026
+Más información aquí: Los defensores de Rhode Island respaldan un proyecto de ley independiente para hacer públicos los datos de accidentes.
+The Boston Globe, 27 de enero de 2026 Por Meghan Kallman 27 de enero de 2026 El senador Kallman presenta proyectos de ley en la Agenda #FairShare.
+El senador Kallman ha presentado dos proyectos de ley como parte de la Agenda #FairShare, cuyo objetivo es que los ricos paguen la parte justa de impuestos que les corresponde y apoyar la infraestructura que ayuda a los residentes de Rhode Island a prosperar.
+Más información aquí: Rhode Island debate la imposición de impuestos a los ricos.
+The Boston Globe, 23 de enero de 2026 Los defensores de gravar a los ricos presentan un ambicioso paquete de proyectos de ley. ¿Podría aprobarse?
+The Providence Journal, 22 de enero de 2026 Buscar Buscar: Buscar January 2026 METRO T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Apr Jul " <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Conoce a meghan Meghan está comprometida a llevar las voces de la gente de Pawtucket y Providence a la Cámara de Representantes estatal.
+Aprende más Recursos Noticias Recursos COVID-19 Votar Censo Lectura y recursos Suscripción al boletín informativo © Pagado por Friends of Meghan Kallman 2023 Spanish English Spanish saltar al contenido Barra de herramientas abierta Herramientas de accesibilidad Aumentar texto Disminuir texto Escala de grises Alto contraste Contraste negativo Fondo claro Enlaces subrayados Fuente legible Reiniciar

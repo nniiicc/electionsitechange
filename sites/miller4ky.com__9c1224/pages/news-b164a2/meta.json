@@ -1,7 +1,11 @@
 {
  "description": "Read the latest news and press releases from L. Scott Miller's campaign for Kentucky House District 88.",
  "final_url": "https://miller4ky.com/news",
- "paid_for_by": null,
+ "fingerprint": "bab3d08dc8033305bb9e7ca9832391d1ae0f662f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Press Releases | L. Scott Miller for KY House District 88",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

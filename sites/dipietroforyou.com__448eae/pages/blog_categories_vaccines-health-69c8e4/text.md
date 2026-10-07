@@ -1,39 +1,7 @@
-top of page
-Donations by mail can be sent to:
-DiPietro For You
-PO Box 700, E.
-Aurora, NY 14052
-DONATE
-All donations amounts, whether it's $10 or $100, are greatly appreciated
-HOME
-THE SHOWS
-The David DiPietro Show
-Silent Majority Speaks Podcast
-ABOUT DAVE
-LATEST NEWS
-THE ISSUES
-GET INVOLVED
-OPERATION GIFT CERTIFICATE
-POWERFUL PARTNERSHIP
-More
-Use tab to navigate through the menu items.
-All Posts
-Latest Political News
-Culture and Opinions
-Events
-Your Community
-Vaccines & Health
-Search
-Assemblyman David DiPietro Speaks for Medical Freedom
-On January 14, 2025, Assemblyman David DiPietro spoke at the MAHA Event in Albany, along with Del Bigtree, Bobbie Ann Cox, Tricia...
-David Dipietro
-Jan 16, 2025
-The Big, Bad Bills - Vaccines in the New York State Assembly
-“The more it (vaccination) is supported by public authorities, the more will its dangers and disadvantages be concealed or denied.” ―...
-David Dipietro
-Apr 13, 2023
-Introducing...A Report on Vaccine Bills in New York State
-As more and more citizens become increasingly concerned with the rise of vaccine mandates in the State of New York, it becomes necessary...
-David Dipietro
-Mar 30, 2023
-bottom of page
+top of page Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated HOME THE SHOWS The David DiPietro Show Silent Majority Speaks Podcast ABOUT DAVE LATEST NEWS THE ISSUES GET INVOLVED OPERATION GIFT CERTIFICATE POWERFUL PARTNERSHIP More Use tab to navigate through the menu items.
+All Posts Latest Political News Culture and Opinions Events Your Community Vaccines & Health Search Assemblyman David DiPietro Speaks for Medical Freedom On January 14, 2025, Assemblyman David DiPietro spoke at the MAHA Event in Albany, along with Del Bigtree, Bobbie Ann Cox, Tricia...
+David Dipietro Jan 16, 2025 1 min read The Big, Bad Bills - Vaccines in the New York State Assembly “The more it (vaccination) is supported by public authorities, the more will its dangers and disadvantages be concealed or denied.” ―...
+David Dipietro Apr 13, 2023 4 min read Introducing...A Report on Vaccine Bills in New York State As more and more citizens become increasingly concerned with the rise of vaccine mandates in the State of New York, it becomes necessary...
+David Dipietro Mar 30, 2023 1 min read Donations by mail can be sent to: DiPietro For You PO Box 700, E.
+Aurora, NY 14052 DONATE All donations amounts, whether it's $# or $# are greatly appreciated © # DiPietro For You bottom of page

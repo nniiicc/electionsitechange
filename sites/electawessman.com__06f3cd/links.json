@@ -1,10 +1,50 @@
 [
-"https://electawessman.com/",
-"https://electawessman.com/contribute",
-"https://electawessman.com/principles-and-policy",
-"https://forwardparty.com/pledge",
-"https://generatepress.com/",
-"https://secure.anedot.com/friends-of-alan-wessman/donate",
-"https://utahforwardparty.org/",
-"https://utahforwardparty.org/values"
+{
+"text": "Contribute",
+"href": "https://electawessman.com/contribute/"
+},
+{
+"text": "Donate online",
+"href": "https://secure.anedot.com/friends-of-alan-wessman/donate"
+},
+{
+"text": "Email Alan",
+"href": "mailto:alan@electawessman.com"
+},
+{
+"text": "Forward Party of Utah",
+"href": "https://utahforwardparty.org"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "Meet Alan",
+"href": "https://electawessman.com/"
+},
+{
+"text": "Principles & Policy",
+"href": "https://electawessman.com/principles-and-policy/"
+},
+{
+"text": "Principles and Policy",
+"href": "https://electawessman.com/principles-and-policy/"
+},
+{
+"text": "Vote for Alan",
+"href": "https://electawessman.com/"
+},
+{
+"text": "[image: Alan Wessman – Utah House 64]",
+"href": "https://electawessman.com/"
+},
+{
+"text": "candidate pledge",
+"href": "https://www.forwardparty.com/pledge/"
+},
+{
+"text": "values",
+"href": "https://www.utahforwardparty.org/values"
+}
 ]

@@ -1,15 +1,62 @@
 [
-"http://sheribiggs.com/",
-"https://facebook.com/VoteSheriBiggs",
-"https://instagram.com/votesheribiggs",
-"https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG",
-"https://secure.winred.com/votesheribiggs/donate",
-"https://sheribiggs.com/",
-"https://sheribiggs.com/about",
-"https://sheribiggs.com/get-involved",
-"https://sheribiggs.com/issues",
-"https://sheribiggs.com/news",
-"https://sheribiggs.com/privacy-policy",
-"https://twitter.com/VoteSheriBiggs",
-"https://youtube.com/@votesheribiggs"
+{
+"text": "ABOUT",
+"href": "https://www.sheribiggs.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/votesheribiggs/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sheribiggs.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.sheribiggs.com/"
+},
+{
+"text": "NEWS",
+"href": "https://www.sheribiggs.com/news"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.sheribiggs.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sheribiggs.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.sheribiggs.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteSheriBiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteSheriBiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesheribiggs"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesheribiggs"
+},
+{
+"text": "here",
+"href": "https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG"
+},
+{
+"text": "press@sheribiggs.com",
+"href": "mailto:press@sheribiggs.com"
+},
+{
+"text": "www.SheriBiggs.com",
+"href": "http://www.sheribiggs.com/"
+}
 ]

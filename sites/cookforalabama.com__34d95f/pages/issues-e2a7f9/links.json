@@ -1,21 +1,94 @@
 [
-"https://bonfire.com/store/cook-for-alabama",
-"https://cookforalabama.com/",
-"https://cookforalabama.com/about",
-"https://cookforalabama.com/contact",
-"https://cookforalabama.com/district-43",
-"https://cookforalabama.com/endorsements",
-"https://cookforalabama.com/events",
-"https://cookforalabama.com/issues/democracy-that-works-for-the-people",
-"https://cookforalabama.com/issues/healthcare-freedom-and-family-wellbeing",
-"https://cookforalabama.com/issues/issue-1",
-"https://cookforalabama.com/issues/issue-2",
-"https://cookforalabama.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/cookforalabama",
-"https://instagram.com/cookforalabama",
-"https://secure.actblue.com/donate/cookforalabama",
-"https://substack.com/@cookforalabama",
-"https://threads.net/@cookforalabama",
-"https://tiktok.com/@cookforalabama"
+{
+"text": "About",
+"href": "https://www.cookforalabama.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cookforalabama.com/contact"
+},
+{
+"text": "Democratic Reform",
+"href": "https://www.cookforalabama.com/issues/democracy-that-works-for-the-people"
+},
+{
+"text": "District 43",
+"href": "https://www.cookforalabama.com/district-43"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cookforalabama"
+},
+{
+"text": "Economy and Affordability",
+"href": "https://www.cookforalabama.com/issues/issue-2"
+},
+{
+"text": "Education",
+"href": "https://www.cookforalabama.com/issues/issue-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cookforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cookforalabama.com/events"
+},
+{
+"text": "Healthcare",
+"href": "https://www.cookforalabama.com/issues/healthcare-freedom-and-family-wellbeing"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://bonfire.com/store/cook-for-alabama/"
+},
+{
+"text": "View more",
+"href": "https://www.cookforalabama.com/issues/democracy-that-works-for-the-people"
+},
+{
+"text": "View more",
+"href": "https://www.cookforalabama.com/issues/healthcare-freedom-and-family-wellbeing"
+},
+{
+"text": "View more",
+"href": "https://www.cookforalabama.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.cookforalabama.com/issues/issue-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cookforalabama.com/volunteer"
+},
+{
+"text": "[image: Cook for Alabama]",
+"href": "https://www.cookforalabama.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@cookforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cookforalabama"
+}
 ]

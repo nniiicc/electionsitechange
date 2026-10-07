@@ -1,21 +1,19 @@
-Governor signs new Villa Rica charter
-May 8, 2018
-As published in the Times-Georgian:
-ATLANTA — Gov.
+Home Meet Matt About Committee Service Sponsored Legislation Issues News Press Kit Newsletter Updates Volunteer News Governor signs new Villa Rica charter May 8, 2018 As published in the Times-Georgian: ATLANTA — Gov.
 Nathan Deal on Tuesday signed the bill that grants Villa Rica a revised city charter, bringing the document into the 21st century with new powers for both the mayor and city council.
 The governor signed the legislation in a ceremony at the state capitol with the city’s mayor and council present, as well as members of the west Georgia’s legislative delegation.
 It is the first revision in nearly 40 years for the charter, which outlines the basic functions of the city government, including the powers — and limitations of those powers — given city officials.
 “I think this is important for the city of Villa Rica moving forward,” said Mayor Jeff Reese after the brief signing ceremony.
-“This is our constitution, and it was time to update the constitution quite frankly.”
-Like the constitution, a city charter is the foundational governing document for a city.
+“This is our constitution, and it was time to update the constitution quite frankly.” Like the constitution, a city charter is the foundational governing document for a city.
 But over time, some provisions in an existing charter can be superseded by changes in state law, or become unclear or unworkable given circumstances not foreseen when the charter was first adopted.
-The effort to revise Villa Rica’s charter began in Feb. 2016.
+The effort to revise Villa Rica’s charter began in Feb.
+2016.
 After a series of initial discussions, with citizen input over that summer, a draft of the revised charter was ready by October of that year.
 But the charter did not move forward because the council had other priorities during the whole of 2017, namely hiring a new city manager and working on a budget designed to address long-term financial issues.
 The matter took on new urgency this year, as the 2018 legislative session opened.
 City charters must be approved by the Legislature and signed by the governor.
 After the 2018 session opened in January, the city council met several times during to review virtually every line of the document, following recommendations made by city attorney David Mecklin, who had two years earlier begun the revision process.
-The council approved a final draft of the charter on Feb. 6.
+The council approved a final draft of the charter on Feb.
+6.
 It introduced in the House on March 7, sponsored by state Rep.
 J.
 Collins, R-Villa Rica, and Rep.
@@ -25,13 +23,10 @@ After the brief signing ceremony in the governor’s office at the capitol, Coll
 “We have a good working relationship and the fruit of that could be seen here today with the governor signing this piece of legislation,” Collins said.
 “We take for granted that we have such a good working relationship.
 There are places around the state – and close to us – that couldn’t achieve this type of success for their constituents, or for the people back in their district.
-I’m fortunate to be part of the team.”
-Gravley also praised the cooperation between the city and its legislative delegation.
+I’m fortunate to be part of the team.” Gravley also praised the cooperation between the city and its legislative delegation.
 “We’re very blessed to be able to have the working relationship that we have with Mayor Reese and the council,” Gravley said.
-“I believe this charter ‘clean-up’ will allow them to better serve the citizens of Villa Rica.”
-Reese said that the cooperation between the local and state levels “speaks well” for the community.
-“We all want to accomplish the same goal, and that’s to provide a better service for our citizens.”
-Reese was joined by the entire five-member City Council for the ceremony, as well as by City Manager Tom Barber and police Chief Michael Mansour.
+“I believe this charter ‘clean-up’ will allow them to better serve the citizens of Villa Rica.” Reese said that the cooperation between the local and state levels “speaks well” for the community.
+“We all want to accomplish the same goal, and that’s to provide a better service for our citizens.” Reese was joined by the entire five-member City Council for the ceremony, as well as by City Manager Tom Barber and police Chief Michael Mansour.
 Joining Collins and Gravely around the governor’s desk was District 30 Sen.
 Michael Dugan, R-Carrollton, and District 28 Sen.
 Matt Brass, R-Newnan.
@@ -48,3 +43,4 @@ There is an exception, however, in case of city budgets.
 Budgets are generally adopted unanimously the councils, but the mayor may still veto individual budget items.
 This new balancing of powers briefly caused a snag in the legislative process, as Collins, who had served as the city’s mayor for 13 years, raised questions about it.
 Those questions were resolved, however, following intensive negotiations by Reese and city attorney Mecklin.
+Archives August 2020 June 2020 October 2019 September 2019 July 2019 April 2019 February 2019 January 2019 November 2018 September 2018 August 2018 July 2018 June 2018 May 2018 January 2018 March 2016 Categories Uncategorized Tags candidate District 28 election State Senate Home Meet Matt Issues News Volunteer

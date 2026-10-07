@@ -1,13 +1,6 @@
-top of page
-HOME
-MEET JAY
-VOLUNTEER
-ENDORSEMENT
-More
-Use tab to navigate through the menu items.
-DONATE
-I Endorse Jay Dean!
+top of page HOME MEET JAY VOLUNTEER ENDORSEMENT More Use tab to navigate through the menu items.
+DONATE I Endorse Jay Dean!
 I Would Like A Yard Sign!
-Submit
-Success!
-bottom of page
+Submit Success!
+HOME MEET JAY VOLUNTEER ENDORSEMENT More Use tab to navigate through the menu items.
+DONATE Pol Ad Paid For By Jay Dean For Texas Privacy Policy bottom of page

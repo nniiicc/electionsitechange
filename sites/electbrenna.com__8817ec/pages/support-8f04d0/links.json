@@ -1,13 +1,78 @@
 [
-"http://instagram.com/electbrenna",
-"https://electbrenna.com/",
-"https://electbrenna.com/about",
-"https://electbrenna.com/cart",
-"https://electbrenna.com/district-details",
-"https://electbrenna.com/platform",
-"https://electbrenna.com/support",
-"https://electbrenna.com/volunteer",
-"https://facebook.com/ElectBrenna",
-"https://paypal.com/ncp/payment/W8YY764NEGS9C",
-"https://secure.actblue.com/donate/brenna-geswein-1"
+{
+"text": "0",
+"href": "https://www.electbrenna.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electbrenna.com/about"
+},
+{
+"text": "Contact the Campaign",
+"href": "mailto:electbrenna@gmail.com?subject=I+want+to+volunteer%21"
+},
+{
+"text": "District 13",
+"href": "https://www.electbrenna.com/district-details"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brenna-geswein-1"
+},
+{
+"text": "Donate with ActBlue",
+"href": "https://secure.actblue.com/donate/brenna-geswein-1"
+},
+{
+"text": "Donate with PayPal",
+"href": "https://www.paypal.com/ncp/payment/W8YY764NEGS9C"
+},
+{
+"text": "Explore Volunteer Opportunities",
+"href": "https://www.electbrenna.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.electbrenna.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.electbrenna.com/platform"
+},
+{
+"text": "Support",
+"href": "https://www.electbrenna.com/support"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electbrenna.com/volunteer"
+},
+{
+"text": "[image: Brenna Geswein for Indiana House District 13]",
+"href": "https://www.electbrenna.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/brenna-geswein-1"
+},
+{
+"text": "[image]",
+"href": "https://www.paypal.com/ncp/payment/W8YY764NEGS9C"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/electbrenna"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/brenna-geswein-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectBrenna"
+},
+{
+"text": "[no text]",
+"href": "https://www.paypal.com/ncp/payment/W8YY764NEGS9C"
+}
 ]

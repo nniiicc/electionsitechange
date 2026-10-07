@@ -1,15 +1,62 @@
 [
-"https://axtmanfornd.com/",
-"https://axtmanfornd.com/category/in-the-news",
-"https://axtmanfornd.com/get-involved",
-"https://axtmanfornd.com/home",
-"https://axtmanfornd.com/meet-michelle",
-"https://axtmanfornd.com/news",
-"https://axtmanfornd.com/vote",
-"https://kxnet.com/author/joel-porter",
-"https://kxnet.com/news/district-7-candidates-make-case-to-bismarck-voters",
-"https://kxnet.com/news/local-news/gov-armstrong-signs-bill-banning-cell-phone-use-in-schools",
-"https://kxnet.com/news/republicans-opposing-gov-armstrong-giving-campaign-money-to-candidates",
-"https://kxnet.com/your-local-election-headquarters/district-7-candidates-make-case-to-bismarck-voters",
-"https://secure.winred.com/michelle-axtman-for-nd/donate-today"
+{
+"text": "Contact",
+"href": "https://axtmanfornd.com/home/#contact"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.kxnet.com/your-local-election-headquarters/district-7-candidates-make-case-to-bismarck-voters/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/michelle-axtman-for-nd/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://axtmanfornd.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://axtmanfornd.com/category/in-the-news/"
+},
+{
+"text": "Joel Porter",
+"href": "https://www.kxnet.com/author/joel-porter/"
+},
+{
+"text": "KXNET",
+"href": "https://www.kxnet.com/news/district-7-candidates-make-case-to-bismarck-voters/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://axtmanfornd.com/meet-michelle/"
+},
+{
+"text": "News",
+"href": "https://axtmanfornd.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://axtmanfornd.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://axtmanfornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://axtmanfornd.com/"
+},
+{
+"text": "[image]",
+"href": "https://axtmanfornd.com/home/"
+},
+{
+"text": "criticized the governor",
+"href": "https://www.kxnet.com/news/republicans-opposing-gov-armstrong-giving-campaign-money-to-candidates/"
+},
+{
+"text": "no cell-phones in schools bill",
+"href": "https://www.kxnet.com/news/local-news/gov-armstrong-signs-bill-banning-cell-phone-use-in-schools/"
+}
 ]

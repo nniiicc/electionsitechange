@@ -1,12 +1,4 @@
-HER WORK
-Environmental Justice
-Advocated and continues to fight for improved water quality to address emerging and re-occurring cancer clusters in Missouri City, TX
-Advocates for air quality to address high levels of cancer-causing and health harming air pollution
-Healthcare
-Advocates for high quality and sufficiently funded HIV/AIDS prevention, intervention, and care services
-Advocates for the expansion of affordable healthcare through increased funding to and support for local Federally Qualified Health Care Centers (FQHC’s)
-Mental Health
-Successfully championed the establishment of mental health clinics in Fort Bend ISD
-Advocated for the expansion of behavioral health services through Medicaid Transformation 1115 Waiver
-Advocates for the development of a full spectrum of mental health prevention, intervention, social services, and emergency and vetted long term housing in Fort Bend
-Advocated against abusive use of Emergency Detention Orders (EDO’s) and for alternative interventions by law enforcement and hospitals
+Skip to content Menu Menu HOME HER CAREER Biography Specialty Areas Workforce Training Executive Coaching Financial Literacy Coaching Political Strategy and Consulting Behavioral Health Consulting Program Management Consulting Program Types Advocacy, Activism, & Community Mobilization Employee Assistance Program (EAP) Partial Hospitalization Program Behavioral Health Services Optimum Health & Wellness Counseling Services Case Management Services HER SERVICE Fort Bend County Fort Bend Independent School District Harris County State of Texas City of Houston Affiliations HER WORK Child Welfare Criminal Justice Diversity and Inclusion Environmental Justice Healthcare Juvenile Justice Mental Health Public Education Small Business HER ADVOCACY End Death By Pregnancy Fully Fund Public Education Healthcare for All Justice Involved Mental Health Access Ranked Choice Voting Entrepreneurship and Small Business Property Tax Reform CONTRIBUTION HER WORK Environmental Justice Advocated and continues to fight for improved water quality to address emerging and re-occurring cancer clusters in Missouri City, TX Advocates for air quality to address high levels of cancer-causing and health harming air pollution Healthcare Advocates for high quality and sufficiently funded HIV/AIDS prevention, intervention, and care services Advocates for the expansion of affordable healthcare through increased funding to and support for local Federally Qualified Health Care Centers (FQHC’s) Mental Health Successfully championed the establishment of mental health clinics in Fort Bend ISD Advocated for the expansion of behavioral health services through Medicaid Transformation 1115 Waiver Advocates for the development of a full spectrum of mental health prevention, intervention, social services, and emergency and vetted long term housing in Fort Bend Advocated against abusive use of Emergency Detention Orders (EDO’s) and for alternative interventions by law enforcement and hospitals CONTRIBUTE connect LET’S CONNECT © # VRJ & Associates, LLC.
+All Rights Reserved.
+P.O.
+Box 2234 Sugar Land, TX 77487 vrjassociates@hotmail.com

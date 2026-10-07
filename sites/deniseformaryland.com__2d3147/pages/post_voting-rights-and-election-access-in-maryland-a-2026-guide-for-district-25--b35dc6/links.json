@@ -1,61 +1,282 @@
 [
-"http://aclu-md.org/",
-"http://ballotready.org/",
-"http://commoncause.org/maryland",
-"http://elections.maryland.gov/",
-"http://facebook.com/delegatedenise",
-"http://instagram.com/delegatedenise",
-"http://linkedin.com/in/denisegeneva",
-"http://lwvmd.org/",
-"http://mgaleg.maryland.gov/",
-"http://mgaleg.maryland.gov/mgawebsite/Members/Index/house",
-"http://naacpldf.org/",
-"http://princegeorgescountymd.gov/boards-commissions/board-elections",
-"http://princegeorgescountymd.gov/boards-commissions/board-elections/voter-information/voter-registration",
-"http://twitter.com/delegatedenise",
-"http://vote411.org/maryland",
-"http://voterservices.elections.maryland.gov/",
-"https://claude.ai/chat/882d8518-fd9c-48b0-a9b5-e91d5e9fb721",
-"https://commoncause.org/maryland/press/major-victory-for-maryland-voters-as-language-access-bill-signed-into-law",
-"https://deniseformaryland.com/",
-"https://deniseformaryland.com/contact",
-"https://deniseformaryland.com/copy-of-legislation",
-"https://deniseformaryland.com/donate",
-"https://deniseformaryland.com/end-of-session-letter",
-"https://deniseformaryland.com/endorsements",
-"https://deniseformaryland.com/eventlist",
-"https://deniseformaryland.com/get-involved",
-"https://deniseformaryland.com/home",
-"https://deniseformaryland.com/key-issues",
-"https://deniseformaryland.com/legislation",
-"https://deniseformaryland.com/meet-denise",
-"https://deniseformaryland.com/meet-my-team",
-"https://deniseformaryland.com/mylinks",
-"https://deniseformaryland.com/news-updates",
-"https://deniseformaryland.com/news-updates/categories/blog",
-"https://deniseformaryland.com/news-updates/categories/news-article",
-"https://deniseformaryland.com/news-updates/categories/press-release",
-"https://deniseformaryland.com/our-district",
-"https://deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action",
-"https://deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026",
-"https://deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist",
-"https://deniseformaryland.com/product-page/team-roberts-jersey",
-"https://deniseformaryland.com/profile/marvina67829/profile",
-"https://deniseformaryland.com/scholarships",
-"https://deniseformaryland.com/services",
-"https://deniseformaryland.com/voter-resources",
-"https://friends4nickcharles.com/",
-"https://karentoles.com/",
-"https://kentroberson.org/welcome",
-"https://kevinmharris.org/",
-"https://marylandmatters.org/2023/12/28/denise-roberts-chosen-by-prince-georges-democrats-to-fill-vacant-delegate-seat",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0115",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0241?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/charles02",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/toles01",
-"https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gel&section=15.5-102&enactments=False&archived=False",
-"https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18545.html",
-"https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18563.html",
-"https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html",
-"https://youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+{
+"text": "All Posts",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Blog",
+"href": "https://www.deniseformaryland.com/news-updates/categories/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.deniseformaryland.com/contact"
+},
+{
+"text": "Contact Information",
+"href": "https://www.kevinmharris.org/"
+},
+{
+"text": "DONATE",
+"href": "https://www.deniseformaryland.com/donate"
+},
+{
+"text": "Delegate Denise Roberts",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18563.html"
+},
+{
+"text": "Delegate Karen Toles",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/toles01"
+},
+{
+"text": "Delegate Kent Roberson",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18545.html"
+},
+{
+"text": "Denise Roberts",
+"href": "https://www.deniseformaryland.com/home"
+},
+{
+"text": "END OF SESSION LETTER",
+"href": "https://www.deniseformaryland.com/end-of-session-letter"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.deniseformaryland.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.deniseformaryland.com/eventlist"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.deniseformaryland.com/get-involved"
+},
+{
+"text": "HB 115",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0115"
+},
+{
+"text": "HOME",
+"href": "https://www.deniseformaryland.com"
+},
+{
+"text": "How to Get Involved in Maryland Politics: A Resident’s Guide to Civic Action",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "KEY ISSUES",
+"href": "https://www.deniseformaryland.com/key-issues"
+},
+{
+"text": "Karen Toles,",
+"href": "https://www.karentoles.com/"
+},
+{
+"text": "Kent Roberson",
+"href": "https://kentroberson.org/welcome"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.deniseformaryland.com/legislation"
+},
+{
+"text": "MEET DENISE",
+"href": "https://www.deniseformaryland.com/meet-denise"
+},
+{
+"text": "MEET MY TEAM",
+"href": "https://www.deniseformaryland.com/meet-my-team"
+},
+{
+"text": "MY LINKS",
+"href": "https://www.deniseformaryland.com/mylinks"
+},
+{
+"text": "Marvina Tribbey",
+"href": "https://www.deniseformaryland.com/profile/marvina67829/profile"
+},
+{
+"text": "Maryland Political Campaign Contribution Guide: Supporting Your Community in 2026",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "Maryland Senate Bill 685, signed in 2025, expands language access to include French, Amharic, and Arabic-speaking communities. Under Maryland Code, Election Law Article § 15.5-102(c)-(d), l",
+"href": "https://www.commoncause.org/maryland/press/major-victory-for-maryland-voters-as-language-access-bill-signed-into-law/"
+},
+{
+"text": "Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redistricting",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "Maryland Voting Rights Act of 2026.",
+"href": "https://claude.ai/chat/882d8518-fd9c-48b0-a9b5-e91d5e9fb721"
+},
+{
+"text": "NEWS & UPDATES",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "News Article",
+"href": "https://www.deniseformaryland.com/news-updates/categories/news-article"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.deniseformaryland.com/our-district"
+},
+{
+"text": "Press Release",
+"href": "https://www.deniseformaryland.com/news-updates/categories/press-release"
+},
+{
+"text": "Prince George's County",
+"href": "https://msa.maryland.gov/msa/mdmanual/36loc/pg/html/pg.html"
+},
+{
+"text": "SB 241",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0241?ys=2026RS"
+},
+{
+"text": "SCHOLARSHIPS",
+"href": "https://www.deniseformaryland.com/scholarships"
+},
+{
+"text": "SERVICES",
+"href": "https://www.deniseformaryland.com/services"
+},
+{
+"text": "SINE DIE STATEMENT",
+"href": "https://www.deniseformaryland.com/copy-of-legislation"
+},
+{
+"text": "STORE",
+"href": "https://www.deniseformaryland.com/product-page/team-roberts-jersey"
+},
+{
+"text": "See All",
+"href": "https://www.deniseformaryland.com/news-updates"
+},
+{
+"text": "Senator Nick Charles",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/charles02"
+},
+{
+"text": "Senator Nick Charles",
+"href": "https://www.friends4nickcharles.com/"
+},
+{
+"text": "VOTER RESOURCES",
+"href": "https://www.deniseformaryland.com/voter-resources"
+},
+{
+"text": "[image: Get Involved in Maryland Politics: A Resident's Guide to Civic Action]",
+"href": "https://www.deniseformaryland.com/post/how-to-get-involved-in-maryland-politics-a-resident-s-guide-to-civic-action"
+},
+{
+"text": "[image: Maryland Special Session August 3-5: What District 25 Voters Need to Know About Congressional Redristricting]",
+"href": "https://www.deniseformaryland.com/post/maryland-special-session-august-3-5-what-district-25-voters-need-to-know-about-congressional-redist"
+},
+{
+"text": "[image: Maryland political campaign contribution ]",
+"href": "https://www.deniseformaryland.com/post/maryland-political-campaign-contribution-guide-supporting-your-community-in-2026"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCBmCmiNIhX6XU7hB59aMjAA"
+},
+{
+"text": "[image]",
+"href": "http://facebook.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://twitter.com/delegatedenise"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/denisegeneva"
+},
+{
+"text": "[no text]",
+"href": "https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18545.html"
+},
+{
+"text": "aclu-md.org",
+"href": "http://aclu-md.org"
+},
+{
+"text": "appointed by Governor Wes Moore",
+"href": "https://marylandmatters.org/2023/12/28/denise-roberts-chosen-by-prince-georges-democrats-to-fill-vacant-delegate-seat/"
+},
+{
+"text": "ballotready.org",
+"href": "http://ballotready.org"
+},
+{
+"text": "commoncause.org/maryland",
+"href": "http://commoncause.org/maryland"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denise.roberts@house.maryland.gov"
+},
+{
+"text": "denise.roberts@house.maryland.gov",
+"href": "mailto:denisedenise.roberts@house.state.md.us"
+},
+{
+"text": "election@co.pg.md.us",
+"href": "mailto:election@co.pg.md.us"
+},
+{
+"text": "elections.maryland.gov",
+"href": "http://elections.maryland.gov"
+},
+{
+"text": "hello@deniseformaryland.com",
+"href": "mailto:hello@deniseformaryland.com"
+},
+{
+"text": "lection Law Article § 15.5-102(c)-(d)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/laws/StatuteText?article=gel&section=15.5-102&enactments=False&archived=False"
+},
+{
+"text": "lwvmd.org",
+"href": "http://lwvmd.org"
+},
+{
+"text": "mgaleg.maryland.gov",
+"href": "http://mgaleg.maryland.gov"
+},
+{
+"text": "mgaleg.maryland.gov/mgawebsite/Members/Index/house",
+"href": "http://mgaleg.maryland.gov/mgawebsite/Members/Index/house"
+},
+{
+"text": "naacpldf.org",
+"href": "http://naacpldf.org"
+},
+{
+"text": "princegeorgescountymd.gov/boards-commissions/board-elections",
+"href": "http://princegeorgescountymd.gov/boards-commissions/board-elections"
+},
+{
+"text": "princegeorgescountymd.gov/boards-commissions/board-elections/voter-information/voter-registration",
+"href": "http://princegeorgescountymd.gov/boards-commissions/board-elections/voter-information/voter-registration"
+},
+{
+"text": "vote411.org/maryland",
+"href": "http://vote411.org/maryland"
+},
+{
+"text": "voterservices.elections.maryland.gov",
+"href": "http://voterservices.elections.maryland.gov"
+},
+{
+"text": "your rights are automatically restored",
+"href": "https://www.commoncause.org/maryland/press/major-victory-for-maryland-voters-as-language-access-bill-signed-into-law/"
+}
 ]

@@ -1,25 +1,19 @@
-press release
-Jun 18, 2026
-Governor Lamont Proposes Closing Corporate Healthcare Loophole, Easing Burden on Connecticut Taxpayers
-Large corporations will be required to cover their fair share of employee healthcare costs, raising over $100 million to reduce health insurance premiums for middle-class families
-HARTFORD, CT – Today, Governor Ned Lamont unveiled a major new economic and healthcare policy initiative aimed at reducing healthcare costs for Connecticut’s working families while ending the taxpayer-funded subsidy of large corporate payrolls.
+Skip to main Make A Plan To Vote Click Here about priorities endorsements news get involved events vote Donate Return To All News press release Jun 18, 2026 Governor Lamont Proposes Closing Corporate Healthcare Loophole, Easing Burden on Connecticut Taxpayers Large corporations will be required to cover their fair share of employee healthcare costs, raising over $100 million to reduce health insurance premiums for middle-class families HARTFORD, CT – Today, Governor Ned Lamont unveiled a major new economic and healthcare policy initiative aimed at reducing healthcare costs for Connecticut’s working families while ending the taxpayer-funded subsidy of large corporate payrolls.
 The Fair Share Healthcare initiative aims to ensure that massive, highly profitable corporations–not everyday Connecticut taxpayers–foot the bill for their employees’ healthcare.
 By doing so, the state will generate the revenue to drive down health insurance premiums by thousands of dollars for families across the state.
 “For too long, a handful of massive corporations have padded their profits by paying low wages and offering little to no benefits, forcing their workers onto state public assistance where taxpayers pick up the tab,” said Governor Ned Lamont.
 “That’s not just unfair to Connecticut families; it’s unfair to the thousands of responsible local businesses that do the right thing and invest in their workforces.
-This proposal levels the playing field, protects taxpayer dollars, and directly reinvests over $100 million into lowering healthcare premiums for our middle class.”
-How the Fair Share Healthcare Plan Works
-To protect local small businesses and ensure the policy targets only the largest employers, the plan features a tiered, common-sense structure:
-- Targeting Large Employers: The policy applies strictly to for-profit businesses with 100 or more employees and non-profits with 1,000 or more employees.
+This proposal levels the playing field, protects taxpayer dollars, and directly reinvests over $100 million into lowering healthcare premiums for our middle class.” How the Fair Share Healthcare Plan Works To protect local small businesses and ensure the policy targets only the largest employers, the plan features a tiered, common-sense structure: Targeting Large Employers: The policy applies strictly to for-profit businesses with 100 or more employees and non-profits with 1,000 or more employees.
 It does not apply to social service providers contracted by the state.
-- The Fair Share Cost: Large employers will be assessed an amount of up to $1,000 for each employee enrolled in HUSKY (Medicaid), ensuring large companies take responsibility for their own labor costs.
-- Closing Corporate Loopholes: The plan stops big corporations from dodging accountability through fragmented ownership or gig-economy models:
-- Franchise Aggregation: Franchisees sharing common corporate ownership will have their total employee count aggregated, ensuring large chain operators are held to the same standards.
-- Independent Contractor Accountability: The policy levies a corresponding fee on large corporations that rely heavily on full-time “independent contractors” (such as rideshare and gig-economy giants) without providing healthcare.
+The Fair Share Cost: Large employers will be assessed an amount of up to $1,000 for each employee enrolled in HUSKY (Medicaid), ensuring large companies take responsibility for their own labor costs.
+Closing Corporate Loopholes: The plan stops big corporations from dodging accountability through fragmented ownership or gig-economy models: Franchise Aggregation: Franchisees sharing common corporate ownership will have their total employee count aggregated, ensuring large chain operators are held to the same standards.
+Independent Contractor Accountability: The policy levies a corresponding fee on large corporations that rely heavily on full-time “independent contractors” (such as rideshare and gig-economy giants) without providing healthcare. $# Million+ in Direct Premium Relief: Every dollar raised—estimated at over $# million annually—will be poured directly into the state health insurance exchange and Covered CT.
 This will lower health insurance costs by thousands of dollars for working and middle-class families.
 “This isn’t about growing our government; it’s about basic fairness and market competition,” Lamont added.
 “If a multi-billion-dollar corporation can afford to operate in our state, it can afford to ensure its workers have healthcare.
-By closing this loophole, we are defending Connecticut taxpayers and making our state a more affordable place to live, work, and do business.”
-With this proposal, Connecticut is reducing the cost of health insurance for working families in a fiscally responsible manner by pushing corporate actors that have long relied on offloading costs to the state government to take responsibility for their workers and communities.
+By closing this loophole, we are defending Connecticut taxpayers and making our state a more affordable place to live, work, and do business.” With this proposal, Connecticut is reducing the cost of health insurance for working families in a fiscally responsible manner by pushing corporate actors that have long relied on offloading costs to the state government to take responsibility for their workers and communities.
 The policy is modeled after successful frameworks enacted in neighboring states, such as the Employer Medical Assistance Contribution (EMAC) in Massachusetts, which has successfully withstood legal challenges.
 By shifting the financial burden away from the state budget and back onto the large corporations responsible for it, the plan reinforces Governor Lamont’s commitment to fiscal stability without raising broad-based taxes on Connecticut residents or small businesses.
+### home about priorities accomplishments endorsements news get involved events progressive wins jobs vote Donate PO Box 457 Ridgefield, CT 06877 info@nedlamont.com Donate By Mail: Download this form and mail with check to: PO Box 457 Ridgefield, CT 06877 privacy policy terms Paid for by Ned for CT.
+Gabriela Koc, Treasurer.
+Approved by Ned Lamont.

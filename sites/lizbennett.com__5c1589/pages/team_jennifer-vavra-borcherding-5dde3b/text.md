@@ -1,6 +1,4 @@
-Jennifer Vavra-Borcherding
-Community Leader
-Occasionally an elected official represents Iowa as a true public servant.
+top of page Donate Home Legislative Updates Endorsements Email Signup Video More Use tab to navigate through the menu items. < Back Jennifer Vavra-Borcherding Community Leader Occasionally an elected official represents Iowa as a true public servant.
 Liz Bennet is that elected official.
 Liz pursues work and votes for legislation that elevates Iowa and its citizens.
 She listens to constituents’ concerns with an ear toward deep understanding.
@@ -15,4 +13,4 @@ She knows when to listen to experts and Liz most definitely knows when she is th
 She uses her expertise for the benefit of all.
 Liz Bennett navigates interactions with constituents and interactions with legislators with grace and diplomacy.
 Even when Liz disagrees with a viewpoint she still engages in conversation while maintaining the other person’s dignity.
-Liz leads with the kind of civility we need in politics, now more than ever before.
+Liz leads with the kind of civility we need in politics, now more than ever before. ​ ​ Paid for by Iowans for Liz Bennett bottom of page

@@ -1,3 +1,4 @@
+top of page HOME ISSUES ABOUT DONATE CONTACT More Use tab to navigate through the menu items.
 For Families – My goal is to help you keep more of your own money, by fighting the tax-and-spend mentality in Olympia.
 As a father of three, education and community safety are important to me.
 We need strong local control of schools, without the disruptive state control and progressive curriculum.
@@ -13,3 +14,4 @@ From the Yakima Valley to the Columbia River, our district spans vast agricultur
 I will work tirelessly to protect the values of Central Washington.
 Values like the common-sense conservative principles of upholding the Constitution, supporting lower taxes, and preserving personal accountability.
 Let’s keep Central Washington strong for generations to come.
+BACK TO TOP ©# Friends of Chris Corry ​ bottom of page

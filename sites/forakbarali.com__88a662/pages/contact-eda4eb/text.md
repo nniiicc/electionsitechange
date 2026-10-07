@@ -1,12 +1,5 @@
-Neighbors.
+0 Skip to Content ABOUT PLATFORM ENDORSEMENTS VOTING MEDIA CONTACT DONATE Open Menu Close Menu ABOUT PLATFORM ENDORSEMENTS VOTING MEDIA CONTACT DONATE Open Menu Close Menu ABOUT PLATFORM ENDORSEMENTS VOTING MEDIA CONTACT DONATE Neighbors.
 Needs.
 Notes.
 MY line’s always open.
-Email:
-info@ForAkbarAli.com
-Mailing Address:
-PO BOX 464572
-Lawrenceville, GA 30042
-SUGGEST aN eVENT or
-INVITE ME
-If there’s a specific type of Community Event you’d like the campaign to put together, or to invite Akbar to come to, shoot us an email and we’ll see what we can do!
+Email: info@ForAkbarAli.com Mailing Address: PO BOX 464572 Lawrenceville, GA 30042 SUGGEST aN eVENT or INVITE ME If there’s a specific type of Community Event you’d like the campaign to put together, or to invite Akbar to come to, shoot us an email and we’ll see what we can do! info@ForAkbarAli.com Paid For By Committee To Elect Akbar Ali

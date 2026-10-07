@@ -1,21 +1,82 @@
 [
-"http://fec.gov/",
-"http://marnivonwilpert.com/",
-"https://bsky.app/profile/marnivonwilpert.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/marniforcongress",
-"https://instagram.com/marni_von_wilpert",
-"https://marnivonwilpert.com/",
-"https://marnivonwilpert.com/about",
-"https://marnivonwilpert.com/endorsements",
-"https://marnivonwilpert.com/issues",
-"https://marnivonwilpert.com/media-2",
-"https://marnivonwilpert.com/news",
-"https://marnivonwilpert.com/privacy-policy",
-"https://marnivonwilpert.com/terms-and-conditions",
-"https://marnivonwilpert.com/volunteer",
-"https://secure.actblue.com/donate/marni_vonwilpert",
-"https://store.marnivonwilpert.com/",
-"https://x.com/marnivonwilpert",
-"https://youtube.com/@MarnivonWilpertforCongress"
+{
+"text": "About",
+"href": "https://www.marnivonwilpert.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/marni_vonwilpert"
+},
+{
+"text": "Endorsements",
+"href": "https://www.marnivonwilpert.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.marnivonwilpert.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.marnivonwilpert.com/media-2"
+},
+{
+"text": "News",
+"href": "https://www.marnivonwilpert.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marnivonwilpert.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.marnivonwilpert.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.marnivonwilpert.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.marnivonwilpert.com/volunteer"
+},
+{
+"text": "[image: Marni von Wilpert for Congress]",
+"href": "https://www.marnivonwilpert.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/marnivonwilpert.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/marniforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/marni_von_wilpert/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MarnivonWilpertforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/marnivonwilpert"
+},
+{
+"text": "http://www.fec.gov/",
+"href": "http://www.fec.gov/"
+},
+{
+"text": "info@marnivonwilpert.com",
+"href": "mailto:info@marnivonwilpert.com"
+},
+{
+"text": "marnivonwilpert.com",
+"href": "http://marnivonwilpert.com"
+}
 ]

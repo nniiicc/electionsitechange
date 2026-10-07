@@ -1,21 +1,74 @@
 [
-"https://bsky.app/profile/rasconforsenate.bsky.social",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSdETtVHvX9XkAY2Qp5xpLtR9FrfSCFcfvY71nkvvAxC0xl90w/viewform?pli=1",
-"https://docs.google.com/forms/d/e/1FAIpQLSe3C3wNcSCPrUPQfLVSCxZDJxQoDE1v7ZTTH7WdbFOrdTIjag/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSemgYyjIBGngLK93cMZv3rxbFfBVlQYLFiNylUSrfNbS9oFdA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfT0AfXHrghsl-gIIt1mdHzYaQFqE8P85mzCV96d0DwFh2t2A/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfkIODte9M5ykt8Fv_lJOSV1dOe9305Yvet0tOI7EK-Xvkqfw/viewform",
-"https://efundraisingconnections.com/c/SarahRascon",
-"https://facebook.com/Rasconforsenate",
-"https://forms.gle/QY1AbJpH1QbXjiDS8",
-"https://instagram.com/RasconForSenate",
-"https://rasconforsenate.com/",
-"https://rasconforsenate.com/media",
-"https://rasconforsenate.com/news",
-"https://rasconforsenate.com/priorities",
-"https://rasconforsenate.com/privacy-policy",
-"https://rasconforsenate.com/volunteer",
-"https://rasconforsenate.com/what-voters-need-to-know",
-"https://threads.net/@Rasconforsenate"
+{
+"text": "Canvass",
+"href": "https://forms.gle/QY1AbJpH1QbXjiDS8"
+},
+{
+"text": "Contact",
+"href": "mailto:campaign@rasconforsenate.com"
+},
+{
+"text": "Donate",
+"href": "https://www.efundraisingconnections.com/c/SarahRascon"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rasconforsenate.com/volunteer"
+},
+{
+"text": "Media",
+"href": "https://www.rasconforsenate.com/media"
+},
+{
+"text": "News",
+"href": "https://www.rasconforsenate.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.rasconforsenate.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rasconforsenate.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdETtVHvX9XkAY2Qp5xpLtR9FrfSCFcfvY71nkvvAxC0xl90w/viewform?pli=1"
+},
+{
+"text": "RSVP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSemgYyjIBGngLK93cMZv3rxbFfBVlQYLFiNylUSrfNbS9oFdA/viewform"
+},
+{
+"text": "RSVP",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfT0AfXHrghsl-gIIt1mdHzYaQFqE8P85mzCV96d0DwFh2t2A/viewform"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "What Voters Need To Know",
+"href": "https://www.rasconforsenate.com/what-voters-need-to-know"
+},
+{
+"text": "[image: Sarah Rascón for California State Senate | 2026 Election]",
+"href": "https://www.rasconforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rasconforsenate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Rasconforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/RasconForSenate"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@Rasconforsenate"
+}
 ]

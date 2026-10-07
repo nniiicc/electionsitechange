@@ -1,8 +1,6 @@
-Come back frequently as I update these.
-Representatives
-Hershel Nunez – State Rep (Pelham), former Political Action Director NHLA
-Melissa Blasek – State Rep (Merrimack), executive director of Rebuild NH
-Mark Warden – State Rep (Manchester)
-Denise Smith – State Rep (Pelham)
-Matt Santonastaso – State Rep (Cheshire 14), Political Action Director NHLA
-Bob Greene – State Rep (Hudson)
+Tom Mannion for New Hampshire Search Primary Menu Skip to content Bills Roll Calls Hearing Alert Testimonies Bills Passed On The Issues Lockdowns/Health Mandates Taxation Firearms Crypto Energy Education Marijuana Surveys & Interviews Endorsements About Me Donate Search for: Endorsements Come back frequently as I update these.
+Representatives Hershel Nunez – State Rep (Pelham), former Political Action Director NHLA Melissa Blasek – State Rep (Merrimack), executive director of Rebuild NH Mark Warden – State Rep (Manchester) Denise Smith – State Rep (Pelham) Matt Santonastaso – State Rep (Cheshire 14), Political Action Director NHLA Bob Greene – State Rep (Hudson) Organizations Americans for Prosperity-New Hampshire New Hampshire Liberty Alliance Liberty Ballot Make Liberty Win PAC (Young Americans for Liberty sister organization) NRA Grade AQ (Highest grade for first-time candidate) New Hampshire Firearms Coalition A*S (Highest grade for first-time candidate) Rebuild New Hampshire State Representative – Hillsborough County District 01 (Pelham) Paid for by Tom Mannion for New Hampshire Create a website or blog at WordPress.com Subscribe Subscribed Tom Mannion for New Hampshire Sign me up Have a WordPress.com account?
+Log in now.
+Tom Mannion for New Hampshire Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

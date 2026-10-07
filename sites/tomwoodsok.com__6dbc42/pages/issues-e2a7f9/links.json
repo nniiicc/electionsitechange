@@ -1,8 +1,30 @@
 [
-"http://tomwoodsok.com/",
-"http://tomwoodsok.com/about",
-"http://tomwoodsok.com/contact",
-"http://tomwoodsok.com/get-involved",
-"http://tomwoodsok.com/issues",
-"https://politics.raisethemoney.com/en/twoods"
+{
+"text": "About",
+"href": "http://tomwoodsok.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://tomwoodsok.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/twoods"
+},
+{
+"text": "Get Involved",
+"href": "http://tomwoodsok.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "http://tomwoodsok.com/"
+},
+{
+"text": "Issues",
+"href": "http://tomwoodsok.com/issues/"
+},
+{
+"text": "[image: Tom Woods]",
+"href": "http://tomwoodsok.com/"
+}
 ]

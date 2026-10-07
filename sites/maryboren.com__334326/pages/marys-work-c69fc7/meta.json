@@ -1,14 +1,24 @@
 {
  "description": "Learn more about Senator Mary Boren's advocacies. Visit maryboren.com.",
  "final_url": "https://www.maryboren.com/marys-work",
- "paid_for_by": "Paid for by Friends of Mary 2026&nbsp; All Rights Reserved",
+ "fingerprint": "0db1d3930e5ef3f8edfd71c50dfe802fbb825832",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Mary 2026 All Rights Reserved",
  "title": "Mary's Work | Mary Boren Norman Oklahoma Senator",
  "years_mentioned": [
+  "1992",
+  "1993",
+  "1994",
+  "1998",
+  "2001",
+  "2003",
+  "2008",
   "2013",
   "2016",
   "2018",
   "2019",
   "2021",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

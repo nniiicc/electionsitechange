@@ -1,14 +1,54 @@
 [
-"https://facebook.com/306122936523275",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://herrerafortexas.com/",
-"https://herrerafortexas.com/blog-%2F-newsletter",
-"https://herrerafortexas.com/district-map",
-"https://herrerafortexas.com/gallery",
-"https://herrerafortexas.com/meet-joe",
-"https://instagram.com/herrerafortexas24",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/herrerafortexas24",
-"https://youtube.com/@HerreraforTexas"
+{
+"text": "Blog / Newsletter",
+"href": "https://herrerafortexas.com/blog-%2F-newsletter"
+},
+{
+"text": "District Map",
+"href": "https://herrerafortexas.com/district-map"
+},
+{
+"text": "Donate now!",
+"href": "https://secure.actblue.com/donate/herrerafortexas24"
+},
+{
+"text": "Gallery",
+"href": "https://herrerafortexas.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://herrerafortexas.com/"
+},
+{
+"text": "Meet Joe",
+"href": "https://herrerafortexas.com/meet-joe"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/306122936523275"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/herrerafortexas24/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HerreraforTexas"
+},
+{
+"text": "joefortexassenate@gmail.com",
+"href": "mailto:joefortexassenate@gmail.com"
+}
 ]

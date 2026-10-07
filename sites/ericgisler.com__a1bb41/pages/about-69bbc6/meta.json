@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.ericgisler.com/about",
- "paid_for_by": "Paid For by Committee To Elect Eric Gisler | \u00a9 2026",
+ "fingerprint": "53c937bcf17e2a9bc0b89b6cf1aba15b18ee5473",
+ "format": 3,
+ "paid_for_by": "Paid For by Committee To Elect Eric Gisler",
  "title": "About",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

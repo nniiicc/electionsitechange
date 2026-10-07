@@ -1,8 +1,10 @@
 {
  "description": "Explore upcoming community events and stay connected with Williams for KY. Learn more about our initiatives and how to get involved in Kentucky.",
  "final_url": "https://www.williamsforky.com/calendar",
- "paid_for_by": "Paid for by Williams for Kentucky Campaign",
- "title": "Calendar | Join Our Community Events \u2014 Williams for KY",
+ "fingerprint": "d80a31d80096a83c27b5ea5c91c8bcbd54057263",
+ "format": 3,
+ "paid_for_by": "Sponsored by IBEW Local 369, Teamsters Local 89, and the Democratic Parties of Marion, Nelson, and Washington County",
+ "title": "Calendar | Join Our Community Events — Williams for KY",
  "years_mentioned": [
   "2026"
  ]

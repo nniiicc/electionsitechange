@@ -1,17 +1,78 @@
 [
-"https://bsky.app/profile/electweinberg.bsky.social",
-"https://designedtorun.com/",
-"https://electweinberg.com/",
-"https://electweinberg.com/about",
-"https://electweinberg.com/contact",
-"https://electweinberg.com/endorsements",
-"https://electweinberg.com/events",
-"https://electweinberg.com/issues/creating-a-smart-sustainable-environmentally-friendly-energy-portfolio",
-"https://electweinberg.com/issues/helping-veterans-not-supporting-stolen-valor",
-"https://electweinberg.com/issues/issue-1",
-"https://electweinberg.com/issues/issue-2",
-"https://electweinberg.com/news",
-"https://instagram.com/electweinberg",
-"https://secure.actblue.com/donate/weinberg-for-az",
-"https://x.com/electweinberg"
+{
+"text": "About",
+"href": "https://www.electweinberg.com/about"
+},
+{
+"text": "Building A Stronger Economy",
+"href": "https://www.electweinberg.com/issues/issue-2"
+},
+{
+"text": "Contact",
+"href": "https://www.electweinberg.com/contact"
+},
+{
+"text": "Creating Quality Education for All Arizonans",
+"href": "https://www.electweinberg.com/issues/issue-1"
+},
+{
+"text": "Creating Safe Communities",
+"href": "https://www.electweinberg.com/issues/creating-a-smart-sustainable-environmentally-friendly-energy-portfolio"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/weinberg-for-az"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electweinberg.com/endorsements"
+},
+{
+"text": "Events & Volunteer",
+"href": "https://www.electweinberg.com/events"
+},
+{
+"text": "News",
+"href": "https://www.electweinberg.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Supporting our Veterans",
+"href": "https://www.electweinberg.com/issues/helping-veterans-not-supporting-stolen-valor"
+},
+{
+"text": "View more",
+"href": "https://www.electweinberg.com/issues/creating-a-smart-sustainable-environmentally-friendly-energy-portfolio"
+},
+{
+"text": "View more",
+"href": "https://www.electweinberg.com/issues/helping-veterans-not-supporting-stolen-valor"
+},
+{
+"text": "View more",
+"href": "https://www.electweinberg.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.electweinberg.com/issues/issue-2"
+},
+{
+"text": "[image: Jacob Weinberg for State House]",
+"href": "https://www.electweinberg.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/electweinberg.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electweinberg/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/electweinberg"
+}
 ]

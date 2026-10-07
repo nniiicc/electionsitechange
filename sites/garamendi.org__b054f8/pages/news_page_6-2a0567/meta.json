@@ -1,7 +1,9 @@
 {
  "description": "Look to the future.",
  "final_url": "https://www.garamendi.org/news?page=6",
- "paid_for_by": null,
+ "fingerprint": "ab256f0439302c38129e2694c02c7ddf554848a1",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY GARAMENDI FOR CONGRESS",
  "title": "Latest News | John Garamendi",
  "years_mentioned": [
   "2020",

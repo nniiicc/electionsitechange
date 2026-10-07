@@ -1,8 +1,30 @@
 [
-"https://facebook.com/",
-"https://jen4oh2.com/",
-"https://jen4oh2.com/about",
-"https://jen4oh2.com/in-the-news",
-"https://secure.actblue.com/donate/jen4oh2",
-"https://tiktok.com/@jen4oh2"
+{
+"text": "About",
+"href": "https://jen4oh2.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jen4oh2"
+},
+{
+"text": "Home",
+"href": "https://jen4oh2.com/"
+},
+{
+"text": "In the News",
+"href": "https://jen4oh2.com/in-the-news"
+},
+{
+"text": "[image]",
+"href": "https://jen4oh2.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@jen4oh2"
+}
 ]

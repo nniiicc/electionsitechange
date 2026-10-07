@@ -1,5 +1,4 @@
-United in Grief, Stronger in Purpose
-This past weekend was full of a wide range of emotions.
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact United in Grief, Stronger in Purpose Jun 15 Written By Maren Schroeder This past weekend was full of a wide range of emotions.
 Saturday morning started off filled with excitement to attend Rochester’s No Kings Rally and the local Juneteenth celebration.
 However, the tragic events early Saturday added a somber mood to the rally.
 I am heartbroken and enraged over the loss of Speaker Hortman and her husband, Mark.
@@ -27,3 +26,5 @@ While I have been feeling my emotions fluctuate between grief and anger, one bri
 To see so many people from different backgrounds coming together peacefully to use their voices brought me some hope.
 We will not let them scare us into silence or stop us from fighting for change.
 We must continue to use our voices and stand up for what we believe is right.
+Maren Schroeder Previous Previous The Big Billionaire Bailout Next Next Gratitude, Respect, and the Road Ahead Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

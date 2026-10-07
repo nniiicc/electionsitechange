@@ -1,16 +1,62 @@
 [
-"https://cga.ct.gov/asp/menu/cgafindleg.asp",
-"https://facebook.com/TracyMarraforCT",
-"https://instagram.com/reptracymarra",
-"https://linkedin.com/in/tracymarra",
-"https://portal.ct.gov/dss/common-elements/register-online-to-vote",
-"https://portal.ct.gov/sots/election-services/voter-information/absentee-voting",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://tracymarraforct.com/",
-"https://tracymarraforct.com/accomplishments",
-"https://tracymarraforct.com/contact",
-"https://tracymarraforct.com/on-the-issues",
-"https://tracymarraforct.com/volunteer",
-"https://tracymarraforct.com/vote",
-"https://x.com/TracyMarraforCT"
+{
+"text": "Accomplishments",
+"href": "https://www.tracymarraforct.com/accomplishments"
+},
+{
+"text": "Get In Touch",
+"href": "https://www.tracymarraforct.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.tracymarraforct.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.tracymarraforct.com"
+},
+{
+"text": "On The Issues",
+"href": "https://www.tracymarraforct.com/on-the-issues"
+},
+{
+"text": "Vote",
+"href": "https://www.tracymarraforct.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://cga.ct.gov/asp/menu/cgafindleg.asp"
+},
+{
+"text": "[image]",
+"href": "https://portal.ct.gov/dss/common-elements/register-online-to-vote"
+},
+{
+"text": "[image]",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/absentee-voting"
+},
+{
+"text": "[image]",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.tracymarraforct.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TracyMarraforCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reptracymarra/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/tracymarra/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TracyMarraforCT"
+}
 ]

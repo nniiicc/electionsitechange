@@ -1,7 +1,20 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://scottaburns.wordpress.com/2020/10/21/endorse-by-sea-seiu-local-1984/",
- "paid_for_by": null,
+ "fingerprint": "004ad2d0979bd0365800fa23debeb97b7a6be21c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorse by SEA/SEIU Local 1984 | scottaburns",
- "years_mentioned": []
+ "years_mentioned": [
+  "1984",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2018",
+  "2020",
+  "2022",
+  "2026"
+ ]
 }

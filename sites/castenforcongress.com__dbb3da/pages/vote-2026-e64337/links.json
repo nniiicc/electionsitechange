@@ -1,28 +1,118 @@
 [
-"https://castenforcongress.com/",
-"https://castenforcongress.com/about",
-"https://castenforcongress.com/accomplishments",
-"https://castenforcongress.com/endorsements",
-"https://castenforcongress.com/issues",
-"https://castenforcongress.com/jobs",
-"https://castenforcongress.com/media-center",
-"https://castenforcongress.com/press",
-"https://castenforcongress.com/privacy-policy",
-"https://castenforcongress.com/terms",
-"https://castenforcongress.com/volunteer",
-"https://castenforcongress.com/vote-2026",
-"https://castenforcongress.com/yard-sign",
-"https://chicagoelections.gov/en/early-voting.html",
-"https://chicagoelections.gov/en/vote-by-mail.html",
-"https://chicagoelections.gov/en/your-voter-information.html",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations",
-"https://cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail",
-"https://cookcountyclerkil.gov/elections/your-voter-information",
-"https://dupagecounty.gov/VoterLookup",
-"https://dupagecounty.gov/earlyvoting",
-"https://dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/vote_by_mail.php",
-"https://facebook.com/castenforcongress",
-"https://instagram.com/teamcasten",
-"https://secure.actblue.com/donate/castenwebsite2020",
-"https://twitter.com/votecasten"
+{
+"text": "2026 primary info",
+"href": "https://www.castenforcongress.com/vote-2026"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/castenwebsite2020"
+},
+{
+"text": "Join Our TeamDonate",
+"href": "https://secure.actblue.com/donate/castenwebsite2020"
+},
+{
+"text": "[image: Sean Casten for Congress logo]",
+"href": "https://www.castenforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/votecasten"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/castenforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamcasten/"
+},
+{
+"text": "about",
+"href": "https://www.castenforcongress.com/about"
+},
+{
+"text": "accomplishments",
+"href": "https://www.castenforcongress.com/accomplishments"
+},
+{
+"text": "click here",
+"href": "https://chicagoelections.gov/en/early-voting.html"
+},
+{
+"text": "click here",
+"href": "https://chicagoelections.gov/en/vote-by-mail.html"
+},
+{
+"text": "click here",
+"href": "https://chicagoelections.gov/en/your-voter-information.html"
+},
+{
+"text": "click here",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations"
+},
+{
+"text": "click here",
+"href": "https://www.cookcountyclerkil.gov/elections/ways-to-vote/vote-by-mail"
+},
+{
+"text": "click here",
+"href": "https://www.cookcountyclerkil.gov/elections/your-voter-information"
+},
+{
+"text": "click here",
+"href": "https://www.dupagecounty.gov/VoterLookup/"
+},
+{
+"text": "click here",
+"href": "https://www.dupagecounty.gov/earlyvoting/"
+},
+{
+"text": "click here",
+"href": "https://www.dupagecounty.gov/elected_officials/election_and_voter_information/voting_information/vote_by_mail.php"
+},
+{
+"text": "endorsements",
+"href": "https://www.castenforcongress.com/endorsements"
+},
+{
+"text": "get a yard sign",
+"href": "https://www.castenforcongress.com/yard-sign"
+},
+{
+"text": "home",
+"href": "https://www.castenforcongress.com/"
+},
+{
+"text": "info@castenforcongress.com",
+"href": "mailto:info@castenforcongress.com"
+},
+{
+"text": "issues",
+"href": "https://www.castenforcongress.com/issues"
+},
+{
+"text": "jobs",
+"href": "https://www.castenforcongress.com/jobs"
+},
+{
+"text": "media center",
+"href": "https://www.castenforcongress.com/media-center"
+},
+{
+"text": "press",
+"href": "https://www.castenforcongress.com/press"
+},
+{
+"text": "privacy policy",
+"href": "https://www.castenforcongress.com/privacy-policy"
+},
+{
+"text": "terms",
+"href": "https://www.castenforcongress.com/terms"
+},
+{
+"text": "volunteer",
+"href": "https://www.castenforcongress.com/volunteer"
+}
 ]

@@ -1,17 +1,78 @@
 [
-"http://garnerformissouri.com/es/issues",
-"https://asbkc.com/",
-"https://bsky.app/profile/garnerformo.bsky.social",
-"https://facebook.com/garnerformo",
-"https://garnerformissouri.com/",
-"https://garnerformissouri.com/es",
-"https://garnerformissouri.com/es/about",
-"https://garnerformissouri.com/es/coffee-with-kevin",
-"https://garnerformissouri.com/es/contact",
-"https://garnerformissouri.com/es/issues",
-"https://instagram.com/garnerformo",
-"https://secure.actblue.com/donate/garnerformissouri",
-"https://tiktok.com/@garnerformo",
-"https://x.com/GarnerForMO",
-"https://youtube.com/@garnerformo"
+{
+"text": "APRENDER MÁS",
+"href": "https://garnerformissouri.com/es/about/"
+},
+{
+"text": "ASB",
+"href": "https://asbkc.com/"
+},
+{
+"text": "Acerca de",
+"href": "https://garnerformissouri.com/es/about/"
+},
+{
+"text": "Aprender más",
+"href": "http://garnerformissouri.com/es/issues/"
+},
+{
+"text": "Café con Kevin",
+"href": "https://garnerformissouri.com/es/coffee-with-kevin/"
+},
+{
+"text": "Contacto",
+"href": "https://garnerformissouri.com/es/contact/"
+},
+{
+"text": "DONAR",
+"href": "https://secure.actblue.com/donate/garnerformissouri"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/garnerformo"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/garnerformo/"
+},
+{
+"text": "Logo de Bluesky",
+"href": "https://bsky.app/profile/garnerformo.bsky.social"
+},
+{
+"text": "Patrocinios",
+"href": "https://garnerformissouri.com/es/#endorsements"
+},
+{
+"text": "Problemas",
+"href": "https://garnerformissouri.com/es/issues/"
+},
+{
+"text": "Regístrate",
+"href": "https://garnerformissouri.com/es/coffee-with-kevin/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@garnerformo"
+},
+{
+"text": "VER TODAS LAS PRIORIDADES",
+"href": "https://garnerformissouri.com/es/issues/"
+},
+{
+"text": "X-Twitter",
+"href": "https://x.com/GarnerForMO"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@garnerformo"
+},
+{
+"text": "[image: Kevin Garner, State Representative]",
+"href": "https://garnerformissouri.com/es/"
+},
+{
+"text": "[image]English",
+"href": "https://garnerformissouri.com/"
+}
 ]

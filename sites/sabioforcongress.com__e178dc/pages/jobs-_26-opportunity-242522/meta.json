@@ -1,7 +1,11 @@
 {
  "description": "Explore job opportunities and industry advancements with the American Jobs Act to strengthen the Northern Virginia economy.",
  "final_url": "https://sabioforcongress.com/jobs-%26-opportunity",
- "paid_for_by": null,
+ "fingerprint": "9420ca661d16c502a5800a1a67ae8594a92dba2c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jobs & Opportunity",
- "years_mentioned": []
+ "years_mentioned": [
+  "2011"
+ ]
 }

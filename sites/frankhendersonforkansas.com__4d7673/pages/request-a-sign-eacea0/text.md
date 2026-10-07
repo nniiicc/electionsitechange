@@ -1,13 +1,6 @@
-Request a Sign
-Use the online form or contact us directly and we'll coordinate with you to deliver your sign!
+Home Priorities Voter Resources Endorsements & Testimonials Volunteer Request a Sign Donate Home Priorities Voter Resources Endorsements & Testimonials Volunteer Request a Sign Donate Request a Sign Use the online form or contact us directly and we'll coordinate with you to deliver your sign!
 If you know anybody with a good spot for a big one, let us know!
-Signs@frankhendersonforkansas.com
-Text
-(913) 557-0353
-Contact
-(913) 557-0353
-frankhendersonforkansas@gmail.com
-Stay in touch by signing up Here
+Email Signs@frankhendersonforkansas.com Text (913) 557-0353‬ Contact ‪(913) 557-0353‬ frankhendersonforkansas@gmail.com Stay in touch by signing up Here © # Frank Henderson for Kansas.
 All rights reserved.
 Paid for by Frank Henderson for Kansas, Charlie Brand, Treasurer.
 Frank Henderson is a former member of the United States Army.

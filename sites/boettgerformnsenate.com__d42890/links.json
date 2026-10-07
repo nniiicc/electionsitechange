@@ -1,12 +1,74 @@
 [
-"https://boettgerformnsenate.com/",
-"https://boettgerformnsenate.com/about",
-"https://boettgerformnsenate.com/contact",
-"https://boettgerformnsenate.com/endorsements",
-"https://boettgerformnsenate.com/volunteer",
-"https://designedtorun.com/",
-"https://instagram.com/boettgerformn",
-"https://secure.actblue.com/donate/boettgerwebsite",
-"https://tiktok.com/@andrea.boettgerformn",
-"https://x.com/AndreaBformnsen"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "About",
+"href": "https://www.boettgerformnsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.boettgerformnsenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.boettgerformnsenate.com/endorsements"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/boettgerwebsite"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.boettgerformnsenate.com/volunteer"
+},
+{
+"text": "[image: Andrea Boettger for MN Senate]",
+"href": "https://www.boettgerformnsenate.com/"
+},
+{
+"text": "[image: boettgerformnsenate.com logo]",
+"href": "https://www.boettgerformnsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/boettgerformn"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@andrea.boettgerformn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AndreaBformnsen"
+},
+{
+"text": "boettgerformnsenate@gmail.com",
+"href": "mailto:boettgerformnsenate@gmail.com"
+}
 ]

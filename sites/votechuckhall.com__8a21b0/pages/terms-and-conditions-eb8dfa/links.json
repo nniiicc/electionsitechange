@@ -1,9 +1,54 @@
 [
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://secure.anedot.com/chuck-hall-for-state-senate/donate",
-"https://votechuckhall.com/",
-"https://votechuckhall.com/contact",
-"https://votechuckhall.com/media",
-"https://votechuckhall.com/privacy-policy",
-"https://votechuckhall.com/terms-and-conditions"
+{
+"text": "CONTACT US",
+"href": "https://votechuckhall.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/chuck-hall-for-state-senate/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://votechuckhall.com#take-action"
+},
+{
+"text": "HOME",
+"href": "https://votechuckhall.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://votechuckhall.com/media/"
+},
+{
+"text": "MEET CHUCK",
+"href": "https://votechuckhall.com#meet"
+},
+{
+"text": "PRIORITIES",
+"href": "https://votechuckhall.com#values"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votechuckhall.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votechuckhall.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://votechuckhall.com/terms-and-conditions/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votechuckhall.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://votechuckhall.com"
+}
 ]

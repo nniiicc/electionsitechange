@@ -1,10 +1,16 @@
 {
  "description": "Text of the NEED Act, HR 2990, with a table of contents and the CRS summary",
  "final_url": "https://www.kmm2026.org/monetary/the-need-act-hr-2990",
- "paid_for_by": null,
+ "fingerprint": "f23e84911c99c7eef05b3ca04c959549c906decf",
+ "format": 3,
+ "paid_for_by": "authorized by Congress and to provide means for public investment in capital infrastructure",
  "title": "The NEED Act (HR 2990)",
  "years_mentioned": [
+  "1964",
+  "2008",
   "2010",
-  "2011"
+  "2011",
+  "2016",
+  "2026"
  ]
 }

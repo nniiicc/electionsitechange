@@ -1,9 +1,38 @@
 [
-"https://daveseverin.com/",
-"https://daveseverin.com/donate",
-"https://daveseverin.com/join-state-representative-dave-severin",
-"https://daveseverin.com/news",
-"https://daveseverin.com/on-the-campaign-trail",
-"https://facebook.com/votedaveseverin",
-"https://wordpress.org/"
+{
+"text": "Donate",
+"href": "https://daveseverin.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votedaveseverin/"
+},
+{
+"text": "Meet Dave",
+"href": "https://daveseverin.com/"
+},
+{
+"text": "News",
+"href": "https://daveseverin.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://daveseverin.com/on-the-campaign-trail/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "State Representative Dave Severin",
+"href": "https://daveseverin.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://daveseverin.com/join-state-representative-dave-severin/"
+},
+{
+"text": "[image: State Representative Dave Severin]",
+"href": "https://daveseverin.com/"
+}
 ]

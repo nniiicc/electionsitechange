@@ -1,5 +1,2 @@
-Wed, Sep 30
-Tower 7 Baja Mexican Grill
-Meet and greet your NC State Senate District 2 Candidate, Roy Surrett.
-Sep 30, 2026, 5:00 PM – 9:00 PM
-Tower 7 Baja Mexican Grill, 509 Evans St, Morehead City, NC 28557, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Candidate Meet and Greet Wed, Sep 30 | Tower 7 Baja Mexican Grill Meet and greet your NC State Senate District 2 Candidate, Roy Surrett.
+Registration is closed See other events Time & Location Sep 30, 2026, 5:00 PM – 9:00 PM Tower 7 Baja Mexican Grill, 509 Evans St, Morehead City, NC 28557, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

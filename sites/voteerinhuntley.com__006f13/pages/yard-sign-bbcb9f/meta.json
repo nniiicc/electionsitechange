@@ -1,7 +1,9 @@
 {
  "description": "Request a free Erin Huntley yard sign. Our volunteers will place it in your yard or leave it at your door.",
  "final_url": "https://www.voteerinhuntley.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "cd6f810d739a7497fcc6207d0354f540c430d08e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Get a Free Yard Sign | Erin Huntley for Florida House District 45",
  "years_mentioned": []
 }

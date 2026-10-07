@@ -1,7 +1,9 @@
 {
  "description": "View upcoming Herzig for Congress events, town halls, and community appearances.",
  "final_url": "https://www.herzigforcongress.com/event-list",
- "paid_for_by": null,
+ "fingerprint": "84974ad06960ab4a3c177e0eda870b6cfc6f5bc6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Herzig For Congress",
  "years_mentioned": []
 }

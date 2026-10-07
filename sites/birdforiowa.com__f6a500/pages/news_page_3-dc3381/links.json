@@ -1,25 +1,106 @@
 [
-"https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t",
-"https://birdforiowa.com/",
-"https://birdforiowa.com/information",
-"https://birdforiowa.com/news",
-"https://birdforiowa.com/news/attorney-general-brenna-bird-discusses-recent-lawsuits-2026-reelection-bid",
-"https://birdforiowa.com/news/iowa-ag-bird-meets-with-vp-vance-14-other-attorneys-general-on-fraud-prevention",
-"https://birdforiowa.com/news/iowa-ag-bird-scores-win-against-ad-giants-in-texas-court",
-"https://birdforiowa.com/news/iowa-attorney-general-sues-temu-alleging-deceptive-sales-data-theft",
-"https://birdforiowa.com/news/iowa-cold-case-unit-works-to-solve-homicides-bring-hope-to-families",
-"https://birdforiowa.com/news/page/2",
-"https://birdforiowa.com/news/page/4",
-"https://birdforiowa.com/news/page/7",
-"https://birdforiowa.com/privacy-policy",
-"https://birdforiowa.com/terms-conditions",
-"https://desmoinesregister.com/story/news/crime-and-courts/2026/05/08/iowa-stem-cell-fraud-judgment-brenna-bird-biologics-health/89983696007",
-"https://desmoinesregister.com/story/news/crime-and-courts/2026/06/10/gs-labs-settlement-covid-test-iowa/90491119007?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z114433p117850l003050c117850u002133e113250v114433&gca-ft=218&gca-ds=sophi",
-"https://facebook.com/BirdforIowa",
-"https://secure.winred.com/bird-for-iowa/donate",
-"https://thehill.com/homenews/state-watch/5791320-gop-ags-save-act",
-"https://truthsocial.com/@BrennaBirdIA",
-"https://weareiowa.com/article/news/health/opioid-crisis-grants-iowa-attorney-general-office-crisis-epidemic/524-30534b13-9b8d-4171-b6f1-95804d67f93f",
-"https://x.com/brennabird",
-"https://youtube.com/watch?v=JhNQFvXhRPA"
+{
+"text": "1",
+"href": "https://birdforiowa.com/news/"
+},
+{
+"text": "2",
+"href": "https://birdforiowa.com/news/page/2/"
+},
+{
+"text": "4",
+"href": "https://birdforiowa.com/news/page/4/"
+},
+{
+"text": "7",
+"href": "https://birdforiowa.com/news/page/7/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bird-for-iowa/donate"
+},
+{
+"text": "INFORMATION",
+"href": "https://birdforiowa.com/information"
+},
+{
+"text": "July 5, 2026 Iowa AG Bird scores win against ad giants in Texas court",
+"href": "https://birdforiowa.com/news/iowa-ag-bird-scores-win-against-ad-giants-in-texas-court/"
+},
+{
+"text": "July 6, 2026 Iowa attorney general sues Temu, alleging deceptive sales, data theft",
+"href": "https://birdforiowa.com/news/iowa-attorney-general-sues-temu-alleging-deceptive-sales-data-theft/"
+},
+{
+"text": "June 10, 2026 Iowans gets share of $5 million settlement for overpriced COVID tests",
+"href": "https://www.desmoinesregister.com/story/news/crime-and-courts/2026/06/10/gs-labs-settlement-covid-test-iowa/90491119007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z114433p117850l003050c117850u002133e113250v114433&gca-ft=218&gca-ds=sophi"
+},
+{
+"text": "June 23, 2026 Attorney General Brenna Bird discusses recent lawsuits, 2026 reelection bid",
+"href": "https://birdforiowa.com/news/attorney-general-brenna-bird-discusses-recent-lawsuits-2026-reelection-bid/"
+},
+{
+"text": "March 18, 2026 Iowa AG Brenna Bird on arrest in Ashley Okland case: ‘Today is why we created the Iowa ColdCase Unit’",
+"href": "https://www.youtube.com/watch?v=JhNQFvXhRPA#new_tab"
+},
+{
+"text": "March 19, 2026 Group of GOP state attorneys general backs SAVE America Act",
+"href": "https://thehill.com/homenews/state-watch/5791320-gop-ags-save-act/#new_tab"
+},
+{
+"text": "March 2, 2026 Millions in Opioid Crisis Grants now available through Iowa Attorney General’s Office",
+"href": "https://www.weareiowa.com/article/news/health/opioid-crisis-grants-iowa-attorney-general-office-crisis-epidemic/524-30534b13-9b8d-4171-b6f1-95804d67f93f#new_tab"
+},
+{
+"text": "May 13, 2026 Iowa Cold Case Unit works to solve homicides, bring hope to families",
+"href": "https://birdforiowa.com/news/iowa-cold-case-unit-works-to-solve-homicides-bring-hope-to-families/"
+},
+{
+"text": "May 26, 2026 Iowa AG Bird meets with VP Vance, 14 other attorneys general on fraud prevention",
+"href": "https://birdforiowa.com/news/iowa-ag-bird-meets-with-vp-vance-14-other-attorneys-general-on-fraud-prevention/"
+},
+{
+"text": "May 8, 2026 Iowa AG wins $2.5 million fraud judgment against stem cell company",
+"href": "https://www.desmoinesregister.com/story/news/crime-and-courts/2026/05/08/iowa-stem-cell-fraud-judgment-brenna-bird-biologics-health/89983696007/#new_tab"
+},
+{
+"text": "News",
+"href": "https://birdforiowa.com/news/"
+},
+{
+"text": "Next",
+"href": "https://birdforiowa.com/news/page/4/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://birdforiowa.com/privacy-policy"
+},
+{
+"text": "Prev",
+"href": "https://birdforiowa.com/news/page/2/"
+},
+{
+"text": "RESEARCH",
+"href": "https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://birdforiowa.com/terms-conditions"
+},
+{
+"text": "[image: Brenna Bird Attorney General]",
+"href": "https://birdforiowa.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://truthsocial.com/@BrennaBirdIA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BirdforIowa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brennabird"
+}
 ]

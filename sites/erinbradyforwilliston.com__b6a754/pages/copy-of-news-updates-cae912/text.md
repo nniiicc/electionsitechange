@@ -1,11 +1,23 @@
-top of page
-Why Your Neighbors Support Erin Brady!
+top of page Support Erin - donate now!
+Home About Erin Legislative Updates 2022 Campaign 2020 Campaign Support for Erin Get Involved More Use tab to navigate through the menu items. ​ Why Your Neighbors Support Erin Brady!
 Rep.
 Terry Macaig | Tim Shea | Sascha Mayer | Andrew Conforti | Ted Kenney | Thomas Hark | Jeffrey and Luanne Firlik | Ben Rose | Alex Howe | Brian Meisenzahl | Jennifer Loiseau |Mary Peterson |Laura Pratt | Andy and Amy Beaumier | Angela Aresenault |Danielle Doucette | Carrie Williams Howe | Eldon Carvey | Kelly Bowen | Josilyn Adams | Rep.
-Jim McCullough | Jeff Fehrs
-"She supports voices for working families and students and to make Vermont and Williston a better place for all.
+Jim McCullough | Jeff Fehrs "She supports voices for working families and students and to make Vermont and Williston a better place for all.
 She believes in economic and social equity and opportunity for all as well." - Rep.
-Terry Macaig (Williston Observer, 10/15/20)
-"Erin listens, respects diverse opinions and takes action.
-Her service to our community, balanced approach to issues and record of professional excellence are exactly what we need to guide Vermont safely through a historic pandemic, jump-start an economic recovery and bring social progress." - Ted Kenney (Williston Observer, 9/24/20)
-bottom of page
+Terry Macaig (Williston Observer, 10/15/20) "I am voting for Erin Brady because she has the compassion, judgement and experience we need in the statehouse right now." - Tim Shea (Williston Observer, 10/15/20) "Erin Brady and I share a core value around building a more just and equitable society." - Sascha Mayer, CEO and co-founder of Mamava (Williston Observer, 10/15/20) "I could not be more pleased to know we have someone in Erin Brady with such a great background and dedication to education and service." - Andrew Conforti (Williston Observer, 10/15/20) "She is a good listener, and knows how to balance many interests.
+Erin will champion access to affordable health care, investing in high-quality childcare, and protecting our natural resources." - Ben Rose, former Representative from Williston (Williston Observer, 10/8/20) "Erin will work diligently to represent the people of Williston in a positive and bipartisan manner." - Jeffrey and Luanne Firlik (Williston Observer, 9/24/20) "Erin listens, respects diverse opinions and takes action.
+Her service to our community, balanced approach to issues and record of professional excellence are exactly what we need to guide Vermont safely through a historic pandemic, jump-start an economic recovery and bring social progress." - Ted Kenney (Williston Observer, 9/24/20) ​ "She is a smart, active, thoughtful and caring woman who I would be very proud to have represent us.
+Erin is an incredibly hard worker and would do what is right for Williston and the well-being of Vermont." - Alex Howe (Williston Observer, 9/17/20) "Erin is a strong, confident and compassionate person and an important member of the community" - Brian Meisenzahl (Front Porch Forum, 10/9/20 "Erin is a fresh voice, informed by rich experience and a deep commitment to the community." - Mary Peterson, former Representative to Vermont House from Williston (Front Porch Forum, 8/7/20) "Erin Brady has my vote because she is an individual who is guided by a set of personal values around family and community.
+We are living in an era where these personal qualities seem to be missing in our leaders.
+We need more Erins." - Thomas Hark (Front Porch Forum, 10/3/20) "I have seen first hand how she engages and inspires young people and professionals, and I cannot imagine a better state representative for our town.
+We are lucky she is running!" - Jennifer Loiseau (Front Porch Forum, 10/2/20) "She is passionate about equity and opportunity for all and will work hard as our representative." - Laura Pratt (Front Porch Forum, 9/27/20) "She is a passionate, hard-worker who wants equity & opportunity for all.
+We trust her with our vote to do what is best for Vermont." - Andy and Amy Beaumier (Front Porch Forum, 9/22/20) "Erin's thoughtful and informed contributions to the CVSD School Board inspired me from the beginning of my term.
+She deftly weaves both her knowledge as an educator and her experience as a working mom into the conversation, and always centers students and their needs." -Angela Arsenault (Front Porch Forum, 9/26/20) "She impressed me with her commitment, dedication, and organization.
+Let's help send her to the Vermont State House on Election Day!" - Danielle Doucette (Front Porch Forum, 9/23/20) "As a parent, a working mother, and a Williston Resident, I was thrilled when Erin Brady announced her candidacy for State Representative.
+I need someone in leadership who understands what it is like to balance these identities and fight for the rights and needs of working families in Vermont." - Carrie Williams Howe (Front Porch Forum, 9/21/20) "It is rare indeed for a first-time candidate for our Legislature to come to the race with a significant prior legislative background, but Erin does, which will give her a vital running start beginning in January at the Statehouse." -Eldon Carvey (Front Porch Forum, 9/14/20) "I have every confidence that Erin will be an excellent fit for Williston’s representation in the Legislature.
+I believe she shares Williston’s and my ‘core values’ for protecting people and business.
+I look forward to serving with Erin in Montpelier.” - Rep.
+Jim McCullough (Williston Observer, 6/4/20) Erin is commited to several issues that are important to me and so many families: high qaulity childcare; a livable wage and paid family sick leave for all Vermonters; affordable health care; support for higher education and growing the Vermont economy for all." - Josilyn Adams, Champlain Valley School Board Member (Williston Observer, 10/22/20) "Erin has my vote.
+Her values regarding equality, justice, affordability, community, and education will serve our community well.
+She is incredibly qualified and will be an effective legislator.
+We need a new and strong voice in Montpelier and Erin is the right person to do it." - Jeff Fehrs (Front Porch Forum) Paid for by Erin Brady for Williston ~ 48 Brookside Drive, Williston VT 05495 ~ contact@erinbradyforwilliston.com bottom of page

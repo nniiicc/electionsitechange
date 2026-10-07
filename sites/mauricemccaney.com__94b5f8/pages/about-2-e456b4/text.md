@@ -1,52 +1,6 @@
-Maurice McCaney
-For AL House District One
-Get To Know Maurice
-Maurice McCaney was born and raised in Florence, Alabama and has lived in the community his entire life.
-A District One boy, through and through!
-Before earning his Juris Doctorate at Cumberland School of Law, Maurice graduated with a Bachelor of Arts degree in Political Science & Sociology and a Bachelor of Arts degree with a focus in English from Samford University.
-Continuing forward, Maurice became licensed to practice law in Alabama in 2014 which provided the foundation for his current role as Partner at Woodruff & McCaney, LLC.
-He is currently President of the Lauderdale County Bar Association.
-Maurice continues to give back to his community by participating on a board level in organizations like Shoals Sav A Life, The American Association of Christian Schools, Alabama Christian Education Association, ALCAP, the Shoals Symphony Orchestra at UNA, and the Lauderdale County Republican Executive Committee.
-He is also a member of the Cloverdale Volunteer Fire Department.
-Maurice is a dedicated husband and father, and is rooted in his faith which is shown through his passionate leadership and service at
-Victory Christian Academy, where he serves as Chancellor, and Victory Christian Fellowship Church, where he serves as Sunday School Teacher and Teen Ministry Director alongside his wife of 23 years, Lorraine.
-As a life-long resident of the Cloverdale community of Lauderdale County, Alabama, Maurice is dedicated to District One and is passionate about moving the District forward while focusing on the campaign issues.
-Experience
-2015 - Present
-Woodruff & McCaney, LLC
-Attorney at Law
-2010 - Present
-Victory Christian Academy
-Chancellor
-2010 - 2013
-TVA Bellefonte Nuclear Plant
-Senior Project Manager of Corporate Licensing
-2008 - 2010
-IBEW Local Union 365
-Operations Union Steward
-2004 - 2010
-TVA Browns Ferry Nuclear Plant
-Assistant Unit Operator
-Civic & Professional Involvement
-Executive Board Member
-Executive Board Member
-Southeastern Legislative Director
-Executive Board Member
-Executive Board Member for Lauderdale County
-Education
-2001
-Juris Doctor of Law
-Cumberland School of Law at Samford University
-Birmingham, AL
-1997
-Bachelor of Arts in English
-Samford University
-Birmingham, AL
-1996
-Samford University
-Bachelor of Arts in Political Science & Sociology
-Birmingham, AL
-1991
-Valedictorian - Highschool
-Florence Christian Academy
-Florence, AL
+top of page Maurice McCaney for AL House District One Home About Platform Gallery Contact More Use tab to navigate through the menu items.
+Maurice McCaney For AL House District One Get To Know Maurice Maurice McCaney was born and raised in Florence, Alabama and has lived in the community his entire life.
+A District One boy, through and through! ​ Before earning his Juris Doctorate at Cumberland School of Law, Maurice graduated with a Bachelor of Arts degree in Political Science & Sociology and a Bachelor of Arts degree with a focus in English from Samford University. ​ Continuing forward, Maurice became licensed to practice law in Alabama in 2014 which provided the foundation for his current role as Partner at Woodruff & McCaney, LLC.
+He is currently President of the Lauderdale County Bar Association. ​ Maurice continues to give back to his community by participating on a board level in organizations like Shoals Sav A Life, The American Association of Christian Schools, Alabama Christian Education Association, ALCAP, the Shoals Symphony Orchestra at UNA, and the Lauderdale County Republican Executive Committee.
+He is also a member of the Cloverdale Volunteer Fire Department . ​ Maurice is a dedicated husband and father, and is rooted in his faith which is shown through his passionate leadership and service at Victory Christian Academy, where he serves as Chancellor, and Victory Christian Fellowship Church, where he serves as Sunday School Teacher and Teen Ministry Director alongside his wife of 23 years, Lorraine. ​ As a life-long resident of the Cloverdale community of Lauderdale County, Alabama, Maurice is dedicated to District One and is passionate about moving the District forward while focusing on the campaign issues. ​ Experience 2015 - Present Woodruff & McCaney, LLC Attorney at Law 2010 - Present Victory Christian Academy Chancellor 2010 - 2013 TVA Bellefonte Nuclear Plant Senior Project Manager of Corporate Licensing 2008 - 2010 IBEW Local Union 365 Operations Union Steward 2004 - 2010 TVA Browns Ferry Nuclear Plant Assistant Unit Operator Civic & Professional Involvement Executive Board Member Executive Board Member Southeastern Legislative Director Executive Board Member Executive Board Member for Lauderdale County Education 2001 Juris Doctor of Law Cumberland School of Law at Samford University Birmingham, AL 1997 Bachelor of Arts in English Samford University Birmingham, AL 1996 Samford University Bachelor of Arts in Political Science & Sociology Birmingham, AL 1991 Valedictorian - Highschool Florence Christian Academy Florence, AL CONTACT US HERE Maurice McCaney FOR AL HOUSE DISTRICT ONE © # By The Solo Creative.
+Committee to elect Maurice McCaney PO Box 62, Cloverdale AL 35617 ​ ​ bottom of page

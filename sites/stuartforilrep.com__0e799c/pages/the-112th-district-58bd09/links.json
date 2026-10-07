@@ -1,20 +1,98 @@
 [
-"https://google.com/maps/place/39+Executive+Plaza+Ct,+Maryville,+IL+62062/@38.7364101,-89.9578713,17z/data=!3m1!4b1!4m6!3m5!1s0x8875fed327f5c903:0x77dae7d61ddff8dc!8m2!3d38.7364101!4d-89.9552964!16s%2Fg%2F11h5t2fj0p?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/url?q=https%3A%2F%2Fcahokiamounds.org%2F&sa=D&sntz=1&usg=AOvVaw08yKnd-pTx8G2FtJuv0ASR",
-"https://google.com/url?q=https%3A%2F%2Fdnr.illinois.gov%2Fparks%2Fpark.horseshoelakemadison.html&sa=D&sntz=1&usg=AOvVaw2oybM2xu4o-TwfPrQO2s9M",
-"https://google.com/url?q=https%3A%2F%2Ffairmountpark.com%2F&sa=D&sntz=1&usg=AOvVaw2mhIyZo2zlxequ8IOnf8MH",
-"https://google.com/url?q=https%3A%2F%2Fglencarbonil.gov%2F877%2FParks&sa=D&sntz=1&usg=AOvVaw1J8S2yZ82Z_cfwE74pcsyd",
-"https://google.com/url?q=https%3A%2F%2Fwww.catsupbottle.com%2Findex.html&sa=D&sntz=1&usg=AOvVaw2ApLIq9MMqQ93THp2_WxyH",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FStuartForRep&sa=D&sntz=1&usg=AOvVaw3hnAbL9LJXpjTaHndyFflE",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fstuartforrep%2F&sa=D&sntz=1&usg=AOvVaw1sl-ERYmDGUDyfrca4DBIz",
-"https://google.com/url?q=https%3A%2F%2Fwww.siue.edu%2Fabout%2Fabout-the-university%2Findex.shtml&sa=D&sntz=1&usg=AOvVaw0bCGkx6fBSbuO6bSAYVfOc",
-"https://stuartforilrep.com/about",
-"https://stuartforilrep.com/endorsements",
-"https://stuartforilrep.com/home",
-"https://stuartforilrep.com/issues",
-"https://stuartforilrep.com/privacy-policy",
-"https://stuartforilrep.com/request-a-yard-sign",
-"https://stuartforilrep.com/the-112th-district",
-"https://stuartforilrep.com/volunteer",
-"https://stuartforilrep.com/voting"
+{
+"text": "About",
+"href": "https://www.stuartforilrep.com/about"
+},
+{
+"text": "About Katie",
+"href": "https://www.stuartforilrep.com/about"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stuartforilrep.com/endorsements"
+},
+{
+"text": "Explore Cahokia Mounds →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fcahokiamounds.org%2F&sa=D&sntz=1&usg=AOvVaw08yKnd-pTx8G2FtJuv0ASR"
+},
+{
+"text": "Explore Horshoe Lake Park →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fdnr.illinois.gov%2Fparks%2Fpark.horseshoelakemadison.html&sa=D&sntz=1&usg=AOvVaw2oybM2xu4o-TwfPrQO2s9M"
+},
+{
+"text": "Explore Ray M. Schon Park →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fglencarbonil.gov%2F877%2FParks&sa=D&sntz=1&usg=AOvVaw1J8S2yZ82Z_cfwE74pcsyd"
+},
+{
+"text": "Explore SIUE →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.siue.edu%2Fabout%2Fabout-the-university%2Findex.shtml&sa=D&sntz=1&usg=AOvVaw0bCGkx6fBSbuO6bSAYVfOc"
+},
+{
+"text": "Explore the Catsup Bottle →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.catsupbottle.com%2Findex.html&sa=D&sntz=1&usg=AOvVaw2ApLIq9MMqQ93THp2_WxyH"
+},
+{
+"text": "Explore the Racetrack →",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ffairmountpark.com%2F&sa=D&sntz=1&usg=AOvVaw2mhIyZo2zlxequ8IOnf8MH"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stuartforilrep.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.stuartforilrep.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.stuartforilrep.com/issues"
+},
+{
+"text": "Katie Stuart for IL State Rep",
+"href": "https://www.stuartforilrep.com/home"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stuartforilrep.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.stuartforilrep.com/voting"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.stuartforilrep.com/request-a-yard-sign"
+},
+{
+"text": "The 112th District",
+"href": "https://www.stuartforilrep.com/the-112th-district"
+},
+{
+"text": "Voting",
+"href": "https://www.stuartforilrep.com/voting"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:katie.stuart.district112@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FStuartForRep&sa=D&sntz=1&usg=AOvVaw3hnAbL9LJXpjTaHndyFflE"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fstuartforrep%2F&sa=D&sntz=1&usg=AOvVaw1sl-ERYmDGUDyfrca4DBIz"
+},
+{
+"text": "[image: Link]",
+"href": "https://www.google.com/maps/place/39+Executive+Plaza+Ct,+Maryville,+IL+62062/@38.7364101,-89.9578713,17z/data=!3m1!4b1!4m6!3m5!1s0x8875fed327f5c903:0x77dae7d61ddff8dc!8m2!3d38.7364101!4d-89.9552964!16s%2Fg%2F11h5t2fj0p?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.stuartforilrep.com/home"
+},
+{
+"text": "[image]Katie Stuart for IL State Rep",
+"href": "https://www.stuartforilrep.com/home"
+}
 ]

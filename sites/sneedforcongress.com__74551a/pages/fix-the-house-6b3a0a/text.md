@@ -1,17 +1,3 @@
-top of page
-FIX THE HOUSE
-Restore Balance and Accountability
-OUR PRIORITIES
-CONGRESSIONAL TERM LIMITS
-6, Two-year terms for House of Representatives
-2, Six-year terms for Senate
-OVERTURN CITIZENS UNITED
-Get unlimited corporate money out of politics.
-MORATORIUM ON LOBBYING
-Minimum of 5 years between end of term and employment as lobbyist.
-NO STOCK TRADING
-Prohibit stock trading for members of Congress while in office
-CODE OF JUDICIAL ETHICS FOR US SUPREME COURT
-Holds Supreme Court Accountable
-A nationwide group of OVER 100 like-minded candidates focused on bringing Balance and Accountability back to how our federal government operates.
-bottom of page
+top of page About Andrew Our Way Forward Healthcare Immigration Affordability Labor Education | Opportunity Environment Energy Fix the House Social Security Data Centers Volunteer Press Merch More Use tab to navigate through the menu items.
+DONATE FIX THE HOUSE Restore Balance and Accountability OUR PRIORITIES CONGRESSIONAL TERM LIMITS 6, Two-year terms for House of Representatives 2, Six-year terms for Senate ​ ​ OVERTURN CITIZENS UNITED Get unlimited corporate money out of politics. ​ MORATORIUM ON LOBBYING Minimum of 5 years between end of term and employment as lobbyist. ​ ​ NO STOCK TRADING Prohibit stock trading for members of Congress while in office ​ CODE OF JUDICIAL ETHICS FOR US SUPREME COURT Holds Supreme Court Accountable *Founder of the Take BAC Congress Coalition A nationwide group of OVER 100 like-minded candidates focused on bringing Balance and Accountability back to how our federal government operates.
+THE ISSUES HEALTHCARE IMMIGRATION AFFORDABILITY LABOR EDUCATION | OPPORTUNITY ENVIRONMENT ENERGY FIX THE HOUSE DATA CENTERS SOCIAL SECURITY Paid for by Andrew Sneed for Congress info@sneedforcongress.com Alabama's 5th Congressional District Sneed for Congress ©#​ Privacy Policy Built by Graphite Studio bottom of page

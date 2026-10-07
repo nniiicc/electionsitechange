@@ -1,13 +1,54 @@
 [
-"https://facebook.com/NicCravillionforWI",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://niccravillionforwi.com/",
-"https://niccravillionforwi.com/about",
-"https://niccravillionforwi.com/contact",
-"https://niccravillionforwi.com/district",
-"https://niccravillionforwi.com/endorsements",
-"https://niccravillionforwi.com/get-involved",
-"https://niccravillionforwi.com/news-%26-media",
-"https://secure.winred.com/nic-cravillion-for-wisconsin/donate-today",
-"https://youtube.com/@NicforWI"
+{
+"text": "About",
+"href": "https://niccravillionforwi.com/about"
+},
+{
+"text": "Contact",
+"href": "https://niccravillionforwi.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nic-cravillion-for-wisconsin/donate-today"
+},
+{
+"text": "District",
+"href": "https://niccravillionforwi.com/district"
+},
+{
+"text": "Endorsements",
+"href": "https://niccravillionforwi.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://niccravillionforwi.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://niccravillionforwi.com/"
+},
+{
+"text": "News & Media",
+"href": "https://niccravillionforwi.com/news-%26-media"
+},
+{
+"text": "Priorities",
+"href": "https://niccravillionforwi.com/#1ed1a413-6b97-4760-8fb6-87f1aa729d73"
+},
+{
+"text": "[image: Nic Cravillion for Wisconsin]",
+"href": "https://niccravillionforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NicCravillionforWI"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@NicforWI"
+}
 ]

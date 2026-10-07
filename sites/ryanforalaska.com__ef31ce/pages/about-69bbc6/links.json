@@ -1,7 +1,22 @@
 [
-"https://ryanforalaska.com/",
-"https://ryanforalaska.com/about",
-"https://ryanforalaska.com/experience",
-"https://ryanforalaska.com/get-involved",
-"https://ryanforalaska.com/priorities"
+{
+"text": "About",
+"href": "https://ryanforalaska.com/about"
+},
+{
+"text": "Experience",
+"href": "https://ryanforalaska.com/experience"
+},
+{
+"text": "Get Involved",
+"href": "https://ryanforalaska.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://ryanforalaska.com/"
+},
+{
+"text": "Priorities",
+"href": "https://ryanforalaska.com/priorities"
+}
 ]

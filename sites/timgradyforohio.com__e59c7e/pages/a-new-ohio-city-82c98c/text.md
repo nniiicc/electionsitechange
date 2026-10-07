@@ -1,4 +1,4 @@
-The ethanol industry will not survive the electric vehicle transition.
+Skip to content Tim Grady For Ohio Fight For Our Future Menu + × expanded collapsed Home Policy Policy Ohio Vision About Timothy Grady Andrea Neutzling Donate Sign Up Contact Us Bluesky Facebook instagram threads tiktok youtube Discord X A New Ohio City The ethanol industry will not survive the electric vehicle transition.
 As EVs displace internal combustion engines over the coming decades, liquid fuel demand will collapse and the ethanol market will collapse with it.
 Ohio currently devotes roughly 1.5 million acres of farmland to corn grown exclusively for ethanol: more than 2,000 square miles, four times the size of Franklin County.
 Even with aggressive agricultural diversification and expanded global market access, a substantial portion of that land will go out of productive use.
@@ -21,8 +21,7 @@ The best long-term solution to housing affordability in Columbus, Cleveland, and
 Creating more nodes in the network and preventing bottlenecks.
 A well-designed new city in Northwest Ohio would expand Ohio’s housing supply significantly, reduce long-term cost pressure in existing metros, create a new focal point for industry clusters, and send a clear signal that Ohio is building the future.
 We propose locating this city in the agricultural plain between Toledo, Columbus, and Dayton: a geography that is flat, buildable, well-watered, and positioned at the center of a regional economy of roughly fifteen million people.
-Luring Telosa to Ohio
-Among the various proposals for new cities currently in development, one stands out for its alignment with the Ohio Vision: Telosa, proposed by entrepreneur Marc Lore, planned at full buildout for five million residents by 2050.
+Luring Telosa to Ohio Among the various proposals for new cities currently in development, one stands out for its alignment with the Ohio Vision: Telosa, proposed by entrepreneur Marc Lore, planned at full buildout for five million residents by 2050.
 Telosa is built around a community land trust model, Land is held collectively, land value appreciation accrues to the community rather than to private speculators, and public services are funded by a land value tax on that appreciation.
 It needs a site: flat land, cheap land, land near water and existing infrastructure, land close enough to established population centers to draw residents and businesses without starting from nothing.
 The triangle formed by US-30, I-75, and US-23 in Northwest Ohio is among the strongest candidate sites by every practical criterion.
@@ -30,14 +29,15 @@ It is geologically stable, agriculturally leveled, served by existing highway an
 It will have land available at reduced agricultural prices.
 Crucially, Ohio’s own commitment to replacing property taxes with a land value tax creates a legal and philosophical environment uniquely compatible with Telosa’s Georgist foundation.
 Ohio’s offer to Telosa is straightforward: land assembled at agricultural value and transferred to the community trust, charter city recognition from the moment a founding population threshold is reached, zoning sovereignty within state baseline standards, full integration into Ohio’s broadband and energy grid planning, and a series of state infrastructure investments tied to Telosa’s growth milestones.
-Those milestones, and Ohio’s corresponding commitments:
-At founding: Charter city recognition, land assembly support, highway access, regional bus rapid transit connections from Columbus and Toledo, integration into state broadband and energy infrastructure.
+Those milestones, and Ohio’s corresponding commitments: At founding: Charter city recognition, land assembly support, highway access, regional bus rapid transit connections from Columbus and Toledo, integration into state broadband and energy infrastructure.
 At 50,000 residents: A state-funded community college within the city, integrated into Ohio’s tuition-free two-year post-secondary guarantee, every Telosa resident able to access free higher education without leaving their city.
 At 250,000 residents: Establishment of a new Ohio public university within Telosa, a full institution with its own research mission and degree programs.
 Full high-speed rail service on the Columbus–Toledo corridor running through the city.
-The Columbus–Toledo High-Speed Corridor
-The 3-C+D corridor — Cleveland, Columbus, Dayton, Cincinnati — is the spine of Ohio’s proposed high-speed rail network.
+The Columbus–Toledo High-Speed Corridor The 3-C+D corridor — Cleveland, Columbus, Dayton, Cincinnati — is the spine of Ohio’s proposed high-speed rail network.
 A second major corridor becomes both economically justified with Telosa in the picture: a high-speed line running northwest from Columbus to Toledo, passing through Telosa and connecting Findlay to the network and continuing on to Detroit.
 The Cornpocalypse will displace real communities and real livelihoods.
 We will not pretend otherwise, and we will provide real support: farm diversification assistance, rural economic development, and the same community investment directed at Ohio’s small cities.
 The transition will require effort and foresight.
+Paid for by the Cabal to Elect Timothy Grady Tim Grady For Ohio , Create a website or blog at WordPress.com Subscribe Subscribed Tim Grady For Ohio Sign me up Have a WordPress.com account?
+Log in now.
+Tim Grady For Ohio Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

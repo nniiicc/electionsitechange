@@ -1,7 +1,9 @@
 {
- "description": "Visita la entrada para saber m\u00e1s.",
+ "description": "Visita la entrada para saber más.",
  "final_url": "https://eliotthughesforsenate.com/es/voluntariado/",
- "paid_for_by": null,
+ "fingerprint": "ecca2a58a4e79e28af7f68f4258ff0cd0ac6baa0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voluntariado | Eliott Hughes for Senate",
  "years_mentioned": []
 }

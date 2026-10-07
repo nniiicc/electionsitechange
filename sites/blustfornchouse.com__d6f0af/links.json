@@ -1,8 +1,42 @@
 [
-"https://blustfornchouse.com/",
-"https://blustfornchouse.com/about",
-"https://blustfornchouse.com/privacy",
-"https://blustfornchouse.com/terms",
-"https://facebook.com/BlustForNCHouse",
-"https://secure.anedot.com/blust-for-nc-house/donate"
+{
+"text": "About",
+"href": "https://blustfornchouse.com/about"
+},
+{
+"text": "DONATE >>>",
+"href": "https://secure.anedot.com/blust-for-nc-house/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/blust-for-nc-house/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/blust-for-nc-house/donate"
+},
+{
+"text": "Home",
+"href": "https://blustfornchouse.com/"
+},
+{
+"text": "More About John",
+"href": "https://blustfornchouse.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://blustfornchouse.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://blustfornchouse.com/terms"
+},
+{
+"text": "[image: John Blust for NC House logo]",
+"href": "https://blustfornchouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BlustForNCHouse"
+}
 ]

@@ -1,4 +1,10 @@
 [
-"https://secure.anedot.com/howard-olsen-campaign/donate",
-"https://votetexas.gov/register-to-vote"
+{
+"text": "Contribute Support the Mission",
+"href": "https://secure.anedot.com/howard-olsen-campaign/donate"
+},
+{
+"text": "Register to Vote HD50 Residents",
+"href": "https://www.votetexas.gov/register-to-vote/"
+}
 ]

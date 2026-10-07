@@ -1,39 +1,158 @@
 [
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/good-trouble-lives-on-rally",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/news",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/sweetest-kick-off",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland01.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland02.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland03.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland04.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland05.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland06.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland07.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland08.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland09.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland10.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland11.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland12.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland13.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland14.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland15.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland16.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2025/07/Group-AmyBrooksDelegate.jpg",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F",
-"https://instagram.com/brooksformaryland",
-"https://instagram.com/naomiicaptures",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640",
-"https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Good Trouble Lives On →",
+"href": "https://brooksformaryland.org/good-trouble-lives-on-rally/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "Naomi Osborne",
+"href": "https://www.instagram.com/naomiicaptures"
+},
+{
+"text": "News",
+"href": "https://brooksformaryland.org/news/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "[image: Amy Brooks saying hi to a kid]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland10.jpg"
+},
+{
+"text": "[image: Amy Brooks shaking the hand of a constituent]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland14.jpg"
+},
+{
+"text": "[image: Amy Brooks speaking to a mom and her child]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland15.jpg"
+},
+{
+"text": "[image: Amy Brooks speaking]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland12.jpg"
+},
+{
+"text": "[image: Amy Brooks walking the parade, smiling at people]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland11.jpg"
+},
+{
+"text": "[image: Amy Brooks waving to people while walking the parade]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland09.jpg"
+},
+{
+"text": "[image: Amy fist bumping a constituent]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland08.jpg"
+},
+{
+"text": "[image: Boy in a Brooks for Maryland tshirt hugging a pug]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland16.jpg"
+},
+{
+"text": "[image: Brooks for Maryland sign]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland06.jpg"
+},
+{
+"text": "[image: Brooks for Maryland supporter chanting in a bullhorn in parade]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland05.jpg"
+},
+{
+"text": "[image: Brooks for Maryland supporter]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland07.jpg"
+},
+{
+"text": "[image: Group of Supporters marching in teh parade in Brooks for Maryland shirts]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland13.jpg"
+},
+{
+"text": "[image: Group of supporters carrying a Brooks for Delegate sign]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland04.jpg"
+},
+{
+"text": "[image: Group photo of Brooks for Maryland supporters]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/Group-AmyBrooksDelegate.jpg"
+},
+{
+"text": "[image: Mother and Educator 4 us!!]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland02.jpg"
+},
+{
+"text": "[image: Supporter chanting in the parade]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland03.jpg"
+},
+{
+"text": "[image: Vote for my Mom and Vote for my Teacher signs]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2025/07/BrooksforMaryland01.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2F4th-of-july-parade%2F"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+},
+{
+"text": "← Join us for our Kick Off!",
+"href": "https://brooksformaryland.org/sweetest-kick-off/"
+}
 ]

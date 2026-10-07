@@ -1,3 +1,4 @@
-Volunteer We can’t do it without you!
+0 Skip to Content Home About About Me My Priorities Endorsements Get Involved Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate Open Menu Close Menu Home About About Me My Priorities Endorsements Get Involved Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate Open Menu Close Menu Home Folder: About Back About Me My Priorities Endorsements Folder: Get Involved Back Volunteer Sign Up for Emails Contact Legislative Impact Vote News & Updates Donate Volunteer We can’t do it without you!
 Please fill out the form below if you are interested in volunteering to help re-elect Mary Frances Clardy to the Minnesota State House District 53A in 2024.
 The Clardy for House volunteer team getting ready to knock on doors!
+Prepared and paid for by the Clardy For House Committee 6566 Cahill Ave #2514, Inver Grove Heights, Minnesota, 55076

@@ -1,4 +1,4 @@
-I would like to begin with how humbled I am to have been elected to represent North Carolina Senate District 46, which currently includes Avery, Burke and Caldwell counties.
+Issues Bio Contact Donate Issues Bio Contact Donate Scroll About Warren I would like to begin with how humbled I am to have been elected to represent North Carolina Senate District 46, which currently includes Avery, Burke and Caldwell counties.
 As a result of redistricting, I am seeking re-election to the NC Senate representing the new District 46, which includes Burke, McDowell, and the eastern half of Buncombe.
 I have made many friends while representing Aver and Caldwell counties and I will miss them, but I am thrilled at the opportunity to represent the people of the new 46th District.
 I am a North Carolina native, raised in Burke County—the oldest of four children.
@@ -21,3 +21,5 @@ During my years at West Point, the principles of Duty, Honor, and Country were i
 For those of you who are military veterans, I thank you and your families for your service.
 I look forward to serving the fine people of Burke, McDowell, and Buncombe counties in the North Carolina Senate.
 God bless you and your family, and may God continue to bless America.
+Sincerely, Warren T.
+Daniel BioHeader Bio Content Bio Footer © # Paid for by Warren Daniel for Senate

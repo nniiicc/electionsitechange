@@ -1,12 +1,42 @@
 [
-"https://friendsofjonburns.com/",
-"https://friendsofjonburns.com/cart",
-"https://friendsofjonburns.com/contact",
-"https://friendsofjonburns.com/donate",
-"https://friendsofjonburns.com/home",
-"https://friendsofjonburns.com/meetjon",
-"https://friendsofjonburns.com/news",
-"https://friendsofjonburns.com/privacy-policy",
-"https://friendsofjonburns.com/services-5",
-"https://secure.psqimpact.com/donate/friends-of-jon-burns/donate"
+{
+"text": "0",
+"href": "https://www.friendsofjonburns.com/cart"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.friendsofjonburns.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.psqimpact.com/donate/friends-of-jon-burns/donate"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.friendsofjonburns.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.friendsofjonburns.com/home"
+},
+{
+"text": "MEET JON",
+"href": "https://www.friendsofjonburns.com/meetjon"
+},
+{
+"text": "NEWS",
+"href": "https://www.friendsofjonburns.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.friendsofjonburns.com/privacy-policy"
+},
+{
+"text": "SUPPORTED LEGISLATION",
+"href": "https://www.friendsofjonburns.com/services-5"
+},
+{
+"text": "[image: Jon Burns]",
+"href": "https://www.friendsofjonburns.com/"
+}
 ]

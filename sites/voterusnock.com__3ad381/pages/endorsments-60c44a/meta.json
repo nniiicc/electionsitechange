@@ -1,7 +1,9 @@
 {
  "description": "Explore the 2026 endorsements for Jacklyn Rusnock, candidate for state representative, proudly supported by notable organizations!",
  "final_url": "https://voterusnock.com/endorsments",
- "paid_for_by": null,
+ "fingerprint": "376c042c4d9bb4d89315ecabdb452cd01ae8b599",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsments",
  "years_mentioned": [
   "2024",

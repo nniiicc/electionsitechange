@@ -1,18 +1,16 @@
-Ipswich to Receive $678K for Local Road and Bridge Projects
-IPSWICH, MA — Ipswich is slated to receive $678,789 in state funding for local road and bridge maintenance, Sen.
+0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Ipswich to Receive $678K for Local Road and Bridge Projects News Jun 12 Written By Kristin Kassner IPSWICH, MA — Ipswich is slated to receive $678,789 in state funding for local road and bridge maintenance, Sen.
 Bruce Tarr’s office announced on Thursday.
 Tarr and Rep.
 Kristin Kassner secured the funding through the state’s Chapter 90 program, which was created in 1973 to help offset costs associated with the construction, repair, and maintenance of local roads and bridges.
 The funding, which is provided annually, can also be used for a variety of construction, preservation, and improvement projects, including installing sidewalks, bicycle lanes, and crossing signals.
 “Investing in our roads, bridges, and public transportation through Chapter 90 is one of the most important tools we have to keep our cities and towns moving,” Kassner said.
-“This legislation strengthens the local infrastructure that residents rely on every day, supports local economies, and prepares our cities and towns for the challenges ahead.”
-This year, Governor Maura Healey signed legislation authorizing the distribution of $300 million in Chapter 90 funding, $200 million of which will be allocated using a weighted formula.
+“This legislation strengthens the local infrastructure that residents rely on every day, supports local economies, and prepares our cities and towns for the challenges ahead.” This year, Governor Maura Healey signed legislation authorizing the distribution of $300 million in Chapter 90 funding, $200 million of which will be allocated using a weighted formula.
 The formula considers a community’s local road mileage, population, and employment levels.
 The remaining $100 million will be distributed solely based on local road mileage to ensure that rural communities with smaller populations receive their fair share of funding, Tarr’s office said.
 Under this distribution plan, Ipswich will receive $432,182.57 using the traditional formula, plus an additional $246,606.73 based on road mileage.
-“With the Governor’s signature, Ipswich will be able to capture this year’s construction season with the resources the Town needs to build and maintain safe and efficient transportation infrastructure,” Tarr said.
-$2.16 Million to Other Area Towns
-Ipswich isn’t the only North Shore town to receive state funding for local road and bridge maintenance.
+“With the Governor’s signature, Ipswich will be able to capture this year’s construction season with the resources the Town needs to build and maintain safe and efficient transportation infrastructure,” Tarr said. $2.16 Million to Other Area Towns Ipswich isn’t the only North Shore town to receive state funding for local road and bridge maintenance.
 The state authorized an additional $2.16 million in Chapter 90 funding for five other area towns.
 The funding will be allocated as follows: $376,717 to Rowley; $453,404 to Topsfield; $706,150 to Boxford; $383,207 to Hamilton; and $244,643 to Wenham.
-Healey’s newly authorized legislation will also fund a series of statewide transportation initiatives, including $500 million for the bridge and pavement lifecycle asset management program, $200 million for transportation capital projects, $200 million for the implementation of rail improvements, and $200 million for the Parkway Resilience Improvement and Safety Modernization program.
+Healey’s newly authorized legislation will also fund a series of statewide transportation initiatives, including $500 million for the bridge and pavement lifecycle asset management program, $200 million for transportation capital projects, $200 million for the implementation of rail improvements, and $200 million for the Parkway Resilience Improvement and Safety Modernization program. | READ THIS ARTICLE IN THE LOCAL NEWS HERE Kristin Kassner https://kristinkassner.org Previous Previous Summit Explores Building Pathways to Biotech Careers Next Next ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

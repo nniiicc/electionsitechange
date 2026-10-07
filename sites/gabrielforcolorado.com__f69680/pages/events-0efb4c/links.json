@@ -1,83 +1,470 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Ballot+Access+Party&dates=20260314T230000Z%2F20260315T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20250627T010000Z%2F20250627T040000Z&location=2211+Thornton+Parkway%2C+Thornton%2C+CO%2C+80229%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Town+Hall&dates=20260910T010000Z%2F20260910T030000Z&location=11151+Colorado+Boulevard%2C+Thornton%2C+Colorado%2C+80233%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Escucha+Nuestra+Voces&dates=20251113T020000Z%2F20251113T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fireside+Chats&dates=20251218T010000Z%2F20251219T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gabriel+Cervantes+x+CU+Dems&dates=20260924T000000Z%2F20260924T020000Z&location=1725+Euclid+Avenue%2C+Boulder%2C+Colorado%2C+80309%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election+Kick-Off&dates=20260912T230000Z%2F20260913T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260409T010000Z%2F20260409T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kickoff+Hispanic+Heritage+Month%21&dates=20250918T000000Z%2F20250918T020000Z&location=3202+East+104th+Avenue%2C+Denver%2C+CO%2C+80233%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Las+Palmas&dates=20260122T020000Z%2F20260122T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Legislators%E2%80%99+Fundraiser&dates=20251014T010000Z%2F20251014T030000Z&location=2920+Larimer+Street%2C+Denver%2C+CO%2C+80205%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Let%E2%80%99s+Have+a+Cheesy+Conversation&dates=20251016T010000Z%2F20251016T030000Z&location=3901+East+112th+Avenue%2C+Thornton%2C+CO%2C+80233%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Mariscos+Sinaloa&dates=20250728T000000Z%2F20250728T020000Z&location=8551+Washington+Street%2C+Thornton%2C+CO%2C+80229%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pro-Animal+Social&dates=20260429T013000Z%2F20260429T043000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Raising+Friends+%26amp%3B+Raising+Funds&dates=20251109T200000Z%2F20251109T230000Z&location=834+Santa+Fe+Drive%2C+Denver%2C+CO%2C+80204%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rooted+in+the+People&dates=20260424T010000Z%2F20260424T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Small+Businesses+Town+Hall&dates=20260929T013000Z%2F20260929T023000Z&location=991+Eppinger+Boulevard%2C+Thornton%2C+Colorado%2C+80229%2C+United+States",
-"http://maps.google.com/?q=11151+Colorado+Boulevard+Thornton%2C+Colorado%2C+80233+United+States",
-"http://maps.google.com/?q=1725+Euclid+Avenue+Boulder%2C+Colorado%2C+80309+United+States",
-"http://maps.google.com/?q=2211+Thornton+Parkway+Thornton%2C+CO%2C+80229+United+States",
-"http://maps.google.com/?q=2920+Larimer+Street+Denver%2C+CO%2C+80205+United+States",
-"http://maps.google.com/?q=3202+East+104th+Avenue+Denver%2C+CO%2C+80233+United+States",
-"http://maps.google.com/?q=3901+East+112th+Avenue+Thornton%2C+CO%2C+80233+United+States",
-"http://maps.google.com/?q=834+Santa+Fe+Drive+Denver%2C+CO%2C+80204+United+States",
-"http://maps.google.com/?q=8551+Washington+Street+Thornton%2C+CO%2C+80229+United+States",
-"http://maps.google.com/?q=991+Eppinger+Boulevard+Thornton%2C+Colorado%2C+80229+United+States",
-"http://maps.google.com/?q=Address+provided+upon+RSVP",
-"https://bsky.app/profile/goftcer.bsky.social",
-"https://facebook.com/profile.php?id=61575900556515",
-"https://fb.me/e/3u3n6KoJW",
-"https://gabrielforcolorado.com/",
-"https://gabrielforcolorado.com/cart",
-"https://gabrielforcolorado.com/contact-connect",
-"https://gabrielforcolorado.com/endorsements-leaders",
-"https://gabrielforcolorado.com/event-media",
-"https://gabrielforcolorado.com/events",
-"https://gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d",
-"https://gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d?format=ical",
-"https://gabrielforcolorado.com/events/ballot-access-party",
-"https://gabrielforcolorado.com/events/ballot-access-party?format=ical",
-"https://gabrielforcolorado.com/events/campaign-kickoff",
-"https://gabrielforcolorado.com/events/campaign-kickoff?format=ical",
-"https://gabrielforcolorado.com/events/celebration-of-indigenous-candidates",
-"https://gabrielforcolorado.com/events/celebration-of-indigenous-candidates?format=ical",
-"https://gabrielforcolorado.com/events/chac",
-"https://gabrielforcolorado.com/events/chac?format=ical",
-"https://gabrielforcolorado.com/events/cheesy",
-"https://gabrielforcolorado.com/events/cheesy?format=ical",
-"https://gabrielforcolorado.com/events/community-town-hall",
-"https://gabrielforcolorado.com/events/community-town-hall?format=ical",
-"https://gabrielforcolorado.com/events/escucha-nuestra-voces",
-"https://gabrielforcolorado.com/events/escucha-nuestra-voces?format=ical",
-"https://gabrielforcolorado.com/events/fireside-chats",
-"https://gabrielforcolorado.com/events/fireside-chats?format=ical",
-"https://gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems",
-"https://gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems?format=ical",
-"https://gabrielforcolorado.com/events/genkickoff",
-"https://gabrielforcolorado.com/events/genkickoff?format=ical",
-"https://gabrielforcolorado.com/events/ice-cream-social",
-"https://gabrielforcolorado.com/events/ice-cream-social?format=ical",
-"https://gabrielforcolorado.com/events/jmsept29",
-"https://gabrielforcolorado.com/events/jmsept29?format=ical",
-"https://gabrielforcolorado.com/events/kickoff-hispanic-heritage-month",
-"https://gabrielforcolorado.com/events/kickoff-hispanic-heritage-month?format=ical",
-"https://gabrielforcolorado.com/events/las-palmas",
-"https://gabrielforcolorado.com/events/las-palmas?format=ical",
-"https://gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa",
-"https://gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa?format=ical",
-"https://gabrielforcolorado.com/events/pro-animal-social",
-"https://gabrielforcolorado.com/events/pro-animal-social?format=ical",
-"https://gabrielforcolorado.com/issues",
-"https://gabrielforcolorado.com/media",
-"https://gabrielforcolorado.com/meet-gabriel",
-"https://gabrielforcolorado.com/new-dropdown",
-"https://gabrielforcolorado.com/organizations",
-"https://gabrielforcolorado.com/our-team",
-"https://gabrielforcolorado.com/press-releases",
-"https://instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D",
-"https://secure.actblue.com/donate/gc4co",
-"https://threads.net/@goft_cer",
-"https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=11151+colorado+boulevard+thornton%2C+colorado%2C+80233+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1725+euclid+avenue+boulder%2C+colorado%2C+80309+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2211+thornton+parkway+thornton%2C+co%2C+80229+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2920+larimer+street+denver%2C+co%2C+80205+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3202+east+104th+avenue+denver%2C+co%2C+80233+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3901+east+112th+avenue+thornton%2C+co%2C+80233+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=834+santa+fe+drive+denver%2C+co%2C+80204+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8551+washington+street+thornton%2C+co%2C+80229+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=991+eppinger+boulevard+thornton%2C+colorado%2C+80229+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=address+provided+upon+rsvp"
+},
+{
+"text": "0",
+"href": "https://www.gabrielforcolorado.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "Ballot Access Party",
+"href": "https://www.gabrielforcolorado.com/events/ballot-access-party"
+},
+{
+"text": "Campaign Kickoff",
+"href": "https://www.gabrielforcolorado.com/events/campaign-kickoff"
+},
+{
+"text": "Community Town Hall",
+"href": "https://www.gabrielforcolorado.com/events/community-town-hall"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Donate💵",
+"href": "https://secure.actblue.com/donate/gc4co"
+},
+{
+"text": "Escucha Nuestra Voces",
+"href": "https://www.gabrielforcolorado.com/events/escucha-nuestra-voces"
+},
+{
+"text": "Event Media",
+"href": "https://www.gabrielforcolorado.com/event-media"
+},
+{
+"text": "Events 🗓️",
+"href": "https://www.gabrielforcolorado.com/events"
+},
+{
+"text": "Fireside Chats",
+"href": "https://www.gabrielforcolorado.com/events/fireside-chats"
+},
+{
+"text": "Folder: Endorsements 📣",
+"href": "https://www.gabrielforcolorado.com/new-dropdown"
+},
+{
+"text": "Folder: Media 📷",
+"href": "https://www.gabrielforcolorado.com/media"
+},
+{
+"text": "Gabriel Cervantes x CU Dems",
+"href": "https://www.gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems"
+},
+{
+"text": "General Election Kick-Off",
+"href": "https://www.gabrielforcolorado.com/events/genkickoff"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ballot+Access+Party&dates=20260314T230000Z%2F20260315T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20250627T010000Z%2F20250627T040000Z&location=2211+Thornton+Parkway%2C+Thornton%2C+CO%2C+80229%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Town+Hall&dates=20260910T010000Z%2F20260910T030000Z&location=11151+Colorado+Boulevard%2C+Thornton%2C+Colorado%2C+80233%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Escucha+Nuestra+Voces&dates=20251113T020000Z%2F20251113T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fireside+Chats&dates=20251218T010000Z%2F20251219T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gabriel+Cervantes+x+CU+Dems&dates=20260924T000000Z%2F20260924T020000Z&location=1725+Euclid+Avenue%2C+Boulder%2C+Colorado%2C+80309%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election+Kick-Off&dates=20260912T230000Z%2F20260913T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Ice+Cream+Social&dates=20260409T010000Z%2F20260409T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kickoff+Hispanic+Heritage+Month%21&dates=20250918T000000Z%2F20250918T020000Z&location=3202+East+104th+Avenue%2C+Denver%2C+CO%2C+80233%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Las+Palmas&dates=20260122T020000Z%2F20260122T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legislators%E2%80%99+Fundraiser&dates=20251014T010000Z%2F20251014T030000Z&location=2920+Larimer+Street%2C+Denver%2C+CO%2C+80205%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Let%E2%80%99s+Have+a+Cheesy+Conversation&dates=20251016T010000Z%2F20251016T030000Z&location=3901+East+112th+Avenue%2C+Thornton%2C+CO%2C+80233%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26+Greet+with+Mariscos+Sinaloa&dates=20250728T000000Z%2F20250728T020000Z&location=8551+Washington+Street%2C+Thornton%2C+CO%2C+80229%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pro-Animal+Social&dates=20260429T013000Z%2F20260429T043000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Raising+Friends+%26amp%3B+Raising+Funds&dates=20251109T200000Z%2F20251109T230000Z&location=834+Santa+Fe+Drive%2C+Denver%2C+CO%2C+80204%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rooted+in+the+People&dates=20260424T010000Z%2F20260424T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Small+Businesses+Town+Hall&dates=20260929T013000Z%2F20260929T023000Z&location=991+Eppinger+Boulevard%2C+Thornton%2C+Colorado%2C+80229%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/ballot-access-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/celebration-of-indigenous-candidates?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/chac?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/cheesy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/community-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/escucha-nuestra-voces?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/fireside-chats?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/genkickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/ice-cream-social?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/jmsept29?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/kickoff-hispanic-heritage-month?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/las-palmas?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.gabrielforcolorado.com/events/pro-animal-social?format=ical"
+},
+{
+"text": "Ice Cream Social",
+"href": "https://www.gabrielforcolorado.com/events/ice-cream-social"
+},
+{
+"text": "Issues ✊",
+"href": "https://www.gabrielforcolorado.com/issues"
+},
+{
+"text": "Join us 🫂 | Reach out 📞",
+"href": "https://www.gabrielforcolorado.com/contact-connect"
+},
+{
+"text": "Kickoff Hispanic Heritage Month!",
+"href": "https://www.gabrielforcolorado.com/events/kickoff-hispanic-heritage-month"
+},
+{
+"text": "Las Palmas",
+"href": "https://www.gabrielforcolorado.com/events/las-palmas"
+},
+{
+"text": "Leaders",
+"href": "https://www.gabrielforcolorado.com/endorsements-leaders"
+},
+{
+"text": "Legislators’ Fundraiser",
+"href": "https://www.gabrielforcolorado.com/events/jmsept29"
+},
+{
+"text": "Let’s Have a Cheesy Conversation",
+"href": "https://www.gabrielforcolorado.com/events/cheesy"
+},
+{
+"text": "Meet & Greet with Mariscos Sinaloa",
+"href": "https://www.gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa"
+},
+{
+"text": "Meet Gabriel 🤝",
+"href": "https://www.gabrielforcolorado.com/meet-gabriel"
+},
+{
+"text": "Organizations",
+"href": "https://www.gabrielforcolorado.com/organizations"
+},
+{
+"text": "Our Team",
+"href": "https://www.gabrielforcolorado.com/our-team"
+},
+{
+"text": "Press Releases",
+"href": "https://www.gabrielforcolorado.com/press-releases"
+},
+{
+"text": "Pro-Animal Social",
+"href": "https://www.gabrielforcolorado.com/events/pro-animal-social"
+},
+{
+"text": "Raising Friends & Raising Funds",
+"href": "https://www.gabrielforcolorado.com/events/chac"
+},
+{
+"text": "Rooted in the People",
+"href": "https://www.gabrielforcolorado.com/events/celebration-of-indigenous-candidates"
+},
+{
+"text": "Small Businesses Town Hall",
+"href": "https://www.gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/ballot-access-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/celebration-of-indigenous-candidates"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/chac"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/cheesy"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/community-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/escucha-nuestra-voces"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/fireside-chats"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/genkickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/ice-cream-social"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/jmsept29"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/kickoff-hispanic-heritage-month"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/las-palmas"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa"
+},
+{
+"text": "View Event →",
+"href": "https://www.gabrielforcolorado.com/events/pro-animal-social"
+},
+{
+"text": "[image: Ballot Access Party]",
+"href": "https://www.gabrielforcolorado.com/events/ballot-access-party"
+},
+{
+"text": "[image: Campaign Kickoff]",
+"href": "https://www.gabrielforcolorado.com/events/campaign-kickoff"
+},
+{
+"text": "[image: Community Town Hall]",
+"href": "https://www.gabrielforcolorado.com/events/community-town-hall"
+},
+{
+"text": "[image: Escucha Nuestra Voces]",
+"href": "https://www.gabrielforcolorado.com/events/escucha-nuestra-voces"
+},
+{
+"text": "[image: Fireside Chats]",
+"href": "https://www.gabrielforcolorado.com/events/fireside-chats"
+},
+{
+"text": "[image: Gabriel Cervantes x CU Dems]",
+"href": "https://www.gabrielforcolorado.com/events/gabriel-cervantes-x-cu-dems"
+},
+{
+"text": "[image: General Election Kick-Off]",
+"href": "https://www.gabrielforcolorado.com/events/genkickoff"
+},
+{
+"text": "[image: Ice Cream Social]",
+"href": "https://www.gabrielforcolorado.com/events/ice-cream-social"
+},
+{
+"text": "[image: Kickoff Hispanic Heritage Month!]",
+"href": "https://www.gabrielforcolorado.com/events/kickoff-hispanic-heritage-month"
+},
+{
+"text": "[image: Las Palmas]",
+"href": "https://www.gabrielforcolorado.com/events/las-palmas"
+},
+{
+"text": "[image: Legislators’ Fundraiser]",
+"href": "https://www.gabrielforcolorado.com/events/jmsept29"
+},
+{
+"text": "[image: Let’s Have a Cheesy Conversation]",
+"href": "https://www.gabrielforcolorado.com/events/cheesy"
+},
+{
+"text": "[image: Meet & Greet with Mariscos Sinaloa]",
+"href": "https://www.gabrielforcolorado.com/events/meet-greet-with-mariscos-sinaloa"
+},
+{
+"text": "[image: Pro-Animal Social]",
+"href": "https://www.gabrielforcolorado.com/events/pro-animal-social"
+},
+{
+"text": "[image: Raising Friends &amp; Raising Funds]",
+"href": "https://www.gabrielforcolorado.com/events/chac"
+},
+{
+"text": "[image: Rooted in the People]",
+"href": "https://www.gabrielforcolorado.com/events/celebration-of-indigenous-candidates"
+},
+{
+"text": "[image: Small Businesses Town Hall]",
+"href": "https://www.gabrielforcolorado.com/events/a6er8m80q07237spfyh18jd8z9338d"
+},
+{
+"text": "[image: gabrielforcolorado]",
+"href": "https://www.gabrielforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/goftcer.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575900556515"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/goft_cer?igsh=MWljbzIwNG1mZ2I1NQ%3D%3D"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@goft_cer"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/goft_cer?t=LrR0b0KFxmbo50SOcBXxXA&s=09"
+},
+{
+"text": "https://fb.me/e/3u3n6KoJW",
+"href": "https://fb.me/e/3u3n6KoJW"
+}
 ]

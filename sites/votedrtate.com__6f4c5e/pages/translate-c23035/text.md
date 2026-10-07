@@ -1,11 +1,4 @@
-Embedded Files
-If you would like to translate this website to a different language, please use one of the following methods:
-On Desktop (Google Chrome):
-Right-click anywhere on the page and select “Translate to [your language]” (for example, Spanish).
+Search this site Embedded Files Skip to main content Skip to navigation Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate More Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate Translate If you would like to translate this website to a different language, please use one of the following methods: On Desktop (Google Chrome): Right-click anywhere on the page and select “Translate to [your language]” (for example, Spanish).
 You can also click the translate icon in the address bar.
-Using Google Translate:
-Go to translate.google.com, paste this website’s URL into the box, and click the translated link.
-On Mobile (Chrome Browser):
-Tap the three-dot menu in the top corner, select “Translate” or “Languages,” and choose your preferred language.
-Page updated
-Report abuse
+Using Google Translate: Go to translate.google.com , paste this website’s URL into the box, and click the translated link.
+On Mobile (Chrome Browser): Tap the three-dot menu in the top corner, select “Translate” or “Languages,” and choose your preferred language. © # Dr Tiffanie Tate For State Senate. | Paid For by Tate For Senate 2026 Committee Report abuse Page details Page updated Report abuse

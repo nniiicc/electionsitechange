@@ -1,4 +1,4 @@
-Education is a common topic discussed in every household, workplace, and church congregation in Alabama.
+Skip to content Troy Stubbs State Representative About Troy Issues Contact Donate Education Education is a common topic discussed in every household, workplace, and church congregation in Alabama.
 As the son of parents who are educators, I have seen firsthand the dedication and commitment of teachers.
 Unfortunately, in many instances, educators are not given the necessary tools to be successful, and families are not given a choice in the education of their children.
 I am a true believer that education opportunities can change the trajectory of a person’s life.
@@ -7,3 +7,6 @@ What may work in New York or California will probably not work in Alabama.
 We don’t need the federal government trying to force one-size-fits-all education policies on Alabama.
 I oppose the teaching of Critical Race Theory (CRT) in Alabama’s K-12 classrooms.
 Accordingly, I will fight any attempts to place federal mandates on our schools through the use of federal education grants.
+Share Post navigation Healthcare Economic Vitality Latest News Stay Connected Donate Today $25 $50 $100 $200 OTHER Donate Paid for by Troy Stubbs for State House P.O.
+Box 429 Wetumpka, AL 36092.
+Powered By Push Digital Troy Stubbs © #

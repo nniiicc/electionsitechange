@@ -1,14 +1,14 @@
-Chris was the lead sponsor of the Healthy Workplaces Act to guarantee workers the right to earn sick leave & co-sponsored HB291 to expand tax credits and rebates to provide more support for low-income families.
-Most recently in the 2021 Legislative Session, Chris co-sponsored HB11 which provides $200 million in direct financial support to small and mid-sized New Mexico businesses affected by the COVID pandemic.
+Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop More Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home About About Christine About HD43 Issues Legislative Achievements Legislative Achievements Capital Outlay 2026 Endorsements News Volunteer Donate Contact Us Shop Account Orders My Account Sign out Sign In Orders My Account Issues Fighting For Us Economic Development Economic Development Chris was the lead sponsor of the Healthy Workplaces Act to guarantee workers the right to earn sick leave & co-sponsored HB291 to expand tax credits and rebates to provide more support for low-income families.
+Economic Development Economic Development Economic Development Most recently in the 2021 Legislative Session, Chris co-sponsored HB11 which provides $200 million in direct financial support to small and mid-sized New Mexico businesses affected by the COVID pandemic.
 Chris led economic development efforts to create a funding mechanism for the Local Economic Development Act (LEDA) for larger construction projects.
-Chris has worked extensively on the Connect NM Act to expand broadband access to New Mexicans and ensure there is a cohesive program to expand the access across the state. $100 million was allocated for the program.
-Chris voted to ensure those with preexisting conditions have access to affordable, quality healthcare.
+Broadband Access Economic Development Protecting Preexisting Conditions & Lower Prescription Drug Costs Chris has worked extensively on the Connect NM Act to expand broadband access to New Mexicans and ensure there is a cohesive program to expand the access across the state. $100 million was allocated for the program.
+Protecting Preexisting Conditions & Lower Prescription Drug Costs Protecting Preexisting Conditions & Lower Prescription Drug Costs Protecting Preexisting Conditions & Lower Prescription Drug Costs Chris voted to ensure those with preexisting conditions have access to affordable, quality healthcare.
 And, she fought for lower prescription drug costs.
-In her first session, Chris advocated for reform of the tax code by eliminating tax loopholes as well as tax credits and deductions that provide no public benefit.
+More Fair & Equitable Tax Code Protecting Preexisting Conditions & Lower Prescription Drug Costs More Fair & Equitable Tax Code In her first session, Chris advocated for reform of the tax code by eliminating tax loopholes as well as tax credits and deductions that provide no public benefit.
 The efforts lowered the tax burden on 70% of working New Mexico families to promote a tax code that is more fair and equitable.
-Chris has led efforts to protect workers from wage theft, ensure due process in the leasing of water rights, provide consumer protections for private post-secondary students, and offer retirement security for private sector workers.
+Protecting Workers & Students Protecting Preexisting Conditions & Lower Prescription Drug Costs More Fair & Equitable Tax Code Chris has led efforts to protect workers from wage theft, ensure due process in the leasing of water rights, provide consumer protections for private post-secondary students, and offer retirement security for private sector workers.
 And, Chris worked with her colleagues to pass Roxy’s Law to prohibit trapping on public lands.
-Chris knows that a systemic approach is needed to address healthcare in New Mexico.
+Healthy Communities Chris knows that a systemic approach is needed to address healthcare in New Mexico .
 She believes that state government can and should play a more effective role in improving citizens’ lives.
 One area that she has fought for is improving access to, and availability of, healthcare including behavioral and addictive treatment and prevention services.
 With recent on-going efforts at the federal level to undermine the Affordable Care Act, Chris has advocated for the State to ensure protections for our residents.
@@ -31,7 +31,7 @@ As a first step, she endorses recent New Mexico House and Senate Memorials calli
 Medicaid and Medicare are successful programs that we can build into a single-payer system.
 It is obvious that uniform access to health care and health security across geographic and socio-economic barriers is a complex issue with few easy fixes.
 Crafting successful legislative solutions to this problem will require focused leadership, a broad view, and intense collaboration among the various interests.
-The major environmental issues facing New Mexico in the short term include water supply, wildfire policy, and resource extraction.
+The Environment The major environmental issues facing New Mexico in the short term include water supply, wildfire policy, and resource extraction.
 Because New Mexico’s lands are simultaneously recreational, economic, and cultural resources, we must navigate competing ideas from different political sectors when establishing policies so we can derive economic benefit from natural resources while minimizing damage to the environment.
 Some impacts to the environment have relatively easy legislative fixes.
 For example, most acequias are negatively affected when water rights are transferred to other locations, even for short times.
@@ -53,7 +53,7 @@ Even if the recent changes to global protocols are enforced, it will take decade
 Like most issues, environmental problems do not have black and white solutions.
 In order to craft a path of sustainable development, it is crucial to seek out new information and understand the details of each challenge.
 In the coming years, we must develop policy that allows us to derive the economic benefits of our resources to support the state’s economy while protecting the natural environment and cultural values that make living in New Mexico such a joy.
-There is no simple solution to the problems of crime and criminal justice in New Mexico.
+Criminal Justice & Public Safety There is no simple solution to the problems of crime and criminal justice in New Mexico.
 In spite of decades of “tough-on-crime” legislation and a record prison population, we find ourselves again facing an increasing crime rate.
 New Mexico and the United States still have huge numbers of people in jails and prisons, including a surprising increase in the number of women.
 Nevertheless we can fix it.
@@ -88,7 +88,7 @@ We must encourage law enforcement to raise recruiting standards for police and p
 Diverting low-level offenders from jail and prison saves the system money; helping them become self-sufficient means their families will not be on the welfare rolls and their children will not continue the cycle of crime and poverty.
 We must adequately fund prosecutors, public defenders, police, courts, and corrections to make the criminal justice system speedy and efficient.
 We can do this!
-New Mexico is failing too many of its children.
+Early Childhood Education New Mexico is failing too many of its children.
 There is overwhelming evidence that early childhood education and programs that mentor young parents pay enormous dividends in terms of success in school and keeping at-risk children out of the criminal justice system.
 Yet, despite the proven benefits, funding for these systems is inadequate to serve all those in need.
 Quality pre-kindergarten (PreK) programs have been shown to improve student achievement.
@@ -102,8 +102,4 @@ We can increase funding to these types of programs to allow communities to devel
 As we strive to connect more eligible families with these services, we must also continue to assess and improve program effectiveness through a standards-based accountability system.
 Many are frustrated by the statistics that show New Mexico at the bottom of so many lists.
 Chris will always champion proven and effective initiatives that will turn these unacceptable trends around and improve opportunities for all New Mexico’s children.
-Paid for by Friends for Christine
-PO Box 1565, Los Alamos, NM 87544
-Copyright © 2026 Friends For Christine - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms and Conditions Paid for by Friends for Christine PO Box 1565, Los Alamos, NM 87544 Copyright © # Friends For Christine - All Rights Reserved.

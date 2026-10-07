@@ -1,20 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=East+Village+Canvass&dates=20260602T210000Z%2F20260602T230000Z",
-"https://bsky.app/profile/ryderkessler.bsky.social",
-"https://facebook.com/ryderfornewyork",
-"https://instagram.com/ryderfornewyork",
-"https://mobilize.us/ryderfornewyork2026/event/939170",
-"https://ryderfornewyork.com/",
-"https://ryderfornewyork.com/about-ryder",
-"https://ryderfornewyork.com/cart",
-"https://ryderfornewyork.com/endorsements",
-"https://ryderfornewyork.com/events",
-"https://ryderfornewyork.com/events/east-village-canvass-pc2hg-jegl7-mxs98-ncnn4-zwgw4-7yrj3?format=ical",
-"https://ryderfornewyork.com/events/nywfp-canvassing-for-brad-lander-ryder-kessler-and-wfp-champions-3free-5d335",
-"https://ryderfornewyork.com/events/west-village-canvass-1-fsge8-hth2l-md3dh-n9j5t-dxgj8-9p2kx-8kw6n-b2c8t-8ez3e-hd842-es72p-65p4a-axtd8",
-"https://ryderfornewyork.com/platform",
-"https://secure.actblue.com/donate/r4ny",
-"https://tiktok.com/@ryderkessler",
-"https://x.com/ryderkessler",
-"https://youtube.com/@ryderfornewyork"
+{
+"text": "0",
+"href": "https://www.ryderfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ryderfornewyork.com/about-ryder"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/r4ny/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ryderfornewyork.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ryderfornewyork.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=East+Village+Canvass&dates=20260602T210000Z%2F20260602T230000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ryderfornewyork.com/events/east-village-canvass-pc2hg-jegl7-mxs98-ncnn4-zwgw4-7yrj3?format=ical"
+},
+{
+"text": "Next Next June 3 NY WFP Canvassing for Brad Lander and Ryder Kessler!",
+"href": "https://www.ryderfornewyork.com/events/nywfp-canvassing-for-brad-lander-ryder-kessler-and-wfp-champions-3free-5d335"
+},
+{
+"text": "Platform",
+"href": "https://www.ryderfornewyork.com/platform"
+},
+{
+"text": "Previous Previous June 1 West Village Canvass",
+"href": "https://www.ryderfornewyork.com/events/west-village-canvass-1-fsge8-hth2l-md3dh-n9j5t-dxgj8-9p2kx-8kw6n-b2c8t-8ez3e-hd842-es72p-65p4a-axtd8"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/ryderfornewyork2026/event/939170/"
+},
+{
+"text": "[image: Ryder for New York]",
+"href": "https://www.ryderfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryderkessler.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryderfornewyork/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ryderkessler"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ryderfornewyork"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryderkessler"
+},
+{
+"text": "hello@ryderfornewyork.com",
+"href": "mailto:hello@ryderfornewyork.com"
+}
 ]

@@ -1,5 +1,4 @@
-Why I’m Running
-Hi, I’m Clint.
+0 Skip to Content Home Meet Clint Priorities Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Events Contact Volunteer Donate Open Menu Close Menu Home Meet Clint Priorities Events Contact Volunteer Donate Why I’m Running Hi, I’m Clint.
 Welcome to my campaign website.
 Here you can learn more about me and where I stand on the issues that matter to you.
 I grew up in the clean air of rural Richfield, Utah, before serving a mission, getting married, and raising children.
@@ -14,3 +13,4 @@ Utah is still "The Place" to be.
 We have well-run government, a thriving economy, and an amazing quality of life.
 None of this is by accident; it is the direct result of electing public servants who work together to craft thoughtful policies which prioritize and reflect our compassionate and responsible Utah values.
 If you have any questions or comments, I encourage you to reach out to me directly HERE.
+Stay Connected with Clint Site Navigation Home Meet Clint Priorities Contact Volunteer Site Information Copyright # All Rights Reserved Paid for by Committee to Elect Clint Okerlund Privacy Policy

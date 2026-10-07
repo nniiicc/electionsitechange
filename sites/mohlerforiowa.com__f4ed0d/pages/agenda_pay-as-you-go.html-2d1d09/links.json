@@ -1,40 +1,174 @@
 [
-"https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/3/3-5.24",
-"https://govinfo.gov/content/pkg/FR-2026-01-15/pdf/2026-00755.pdf",
-"https://iowaledger.com/",
-"https://legis.iowa.gov/docs/code/12.pdf",
-"https://legis.iowa.gov/docs/code/12B.10.pdf",
-"https://legis.iowa.gov/docs/code/159A.16.pdf",
-"https://legis.iowa.gov/docs/code/159A.17.pdf",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/2.48.pdf",
-"https://legis.iowa.gov/docs/code/421.7.pdf",
-"https://legis.iowa.gov/docs/code/421.pdf",
-"https://legis.iowa.gov/docs/code/423.2A.pdf",
-"https://legis.iowa.gov/docs/code/423.3.pdf",
-"https://legis.iowa.gov/docs/code/423.37.pdf",
-"https://legis.iowa.gov/docs/code/423.43.pdf",
-"https://legis.iowa.gov/docs/code/423.pdf",
-"https://legis.iowa.gov/docs/code/476.46A.pdf",
-"https://legis.iowa.gov/docs/code/8.22A.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/code/8.57I.pdf",
-"https://legis.iowa.gov/docs/code/8.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1449488.pdf",
-"https://legis.iowa.gov/docs/publications/FR/1611992.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/90/SF557.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2768.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF976.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2484.pdf",
-"https://legis.iowa.gov/docs/publications/icnst/402726.pdf",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://radioiowa.com/2026/08/04/lahn-says-local-oficials-should-retain-permit-power-for-iowa-data-centers",
-"https://revenue.iowa.gov/media/3243/download",
-"https://revenue.iowa.gov/media/4405/download",
-"https://robsand.com/issues/data-centers",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "budget.lis.virginia.gov",
+"href": "https://budget.lis.virginia.gov/item/2026/2/HB30/Chapter/3/3-5.24/"
+},
+{
+"text": "govinfo.gov",
+"href": "https://www.govinfo.gov/content/pkg/FR-2026-01-15/pdf/2026-00755.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/12.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/12B.10.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/159A.16.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/159A.17.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/2.48.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/421.7.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/421.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.2A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.37.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.43.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/423.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/476.46A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.22A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.57I.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1449488.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FR/1611992.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/90/SF557.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2768.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF976.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2484.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/icnst/402726.pdf"
+},
+{
+"text": "radioiowa.com",
+"href": "https://www.radioiowa.com/2026/08/04/lahn-says-local-oficials-should-retain-permit-power-for-iowa-data-centers/"
+},
+{
+"text": "revenue.iowa.gov",
+"href": "https://revenue.iowa.gov/media/3243/download"
+},
+{
+"text": "revenue.iowa.gov",
+"href": "https://revenue.iowa.gov/media/4405/download?inline="
+},
+{
+"text": "robsand.com",
+"href": "https://robsand.com/issues/data-centers"
+}
 ]

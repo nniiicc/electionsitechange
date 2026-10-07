@@ -1,5 +1,4 @@
-WHY RUN
-I was one of the first 18 year olds in Oregon to vote in the general election in 1972.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Why run for District 25 House of Representatives in Oregon WHY RUN I was one of the first 18 year olds in Oregon to vote in the general election in 1972.
 I got to be a Republican representative at the voting precinct in Silverton Oregon at Eugene Field Grade School.
 Governor Tom McCall arranged for a few of the young voters to attend a set of classes on how to write a bill for submission to the Governor for signature into law.
 We covered the process of making law in the House and Senate.
@@ -26,4 +25,4 @@ I would ask the People of Oregon to view what has gone on in Oregon for the last
 “Life”.
 It becomes easy to understand how we got here today and what must be done to get “Life” back into consideration for our futures.
 Oregon’s future is the real reason I am running for District 35 of House of Representatives in Oregon.
-Our Independence, our Future, and the Lives of the People of this State will be my first priority as your Representative.
+Our Independence, our Future, and the Lives of the People of this State will be my first priority as your Representative. © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign

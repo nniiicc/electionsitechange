@@ -1,7 +1,9 @@
 {
  "description": "Sean Flaherty is running for State House, Hagerstown, MD",
  "final_url": "https://flahertyfordelegate.com/news",
- "paid_for_by": null,
+ "fingerprint": "bee0d5b656fac2951714dc6ca92bf1a1a294435d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Flaherty for Delegate - News",
  "years_mentioned": []
 }

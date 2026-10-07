@@ -1,7 +1,3 @@
-PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE
-Kristin Phillips-Hill formally launched her campaign for re-election to the Senate of Pennsylvania aimed at building on the successes in her first term in office.
-Skip to content
-Daily Archives: March 1, 2022
-PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE
-Kristin Phillips-Hill formally launched her campaign for re-election to the Senate of Pennsylvania aimed at building on the successes in her first term in office.
+Skip to content Kristin Phillips-Hill for State Senate Kristin Phillips-Hill for State Senate Home Meet Kristin Issues Join Kristin’s Team Contact Donate Facebook page opens in new window Home Meet Kristin Issues Join Kristin’s Team Contact Donate Daily Archives: March 1, 2022 PHILLIPS-HILL TO SEEK RE-ELECTION FOR SECOND TERM TO STATE SENATE Uncategorized By Kristin Phillips-Hill for State Senate March 1, 2022 Kristin Phillips-Hill formally launched her campaign for re-election to the Senate of Pennsylvania aimed at building on the successes in her first term in office.
+Important Information Find Your Polling Place Register to Vote Apply for an Absentee Ballot Follow Me on Facebook Facebook PAID FOR BY FRIENDS OF KRISTIN PHILLIPS-HILL Site content ©# Friends of Kristin Phillips-Hill.
 Go to Top

@@ -1,17 +1,90 @@
 [
-"http://electmichele.com/donate",
-"https://electmichele.com/",
-"https://electmichele.com/issues",
-"https://electmichele.com/join",
-"https://electmichele.com/meet",
-"https://electmichele.com/news",
-"https://electmichele.com/post/citizen-s-voices-a-digital-collection-of-community-op-eds",
-"https://electmichele.com/post/legislative-recap-investments-in-rural-tennessee-and-hamilton-county",
-"https://electmichele.com/post/legislative-recap-protecting-women-the-riley-gaines-women-s-safety-and-protection-act",
-"https://electmichele.com/post/thank-you-for-your-feedback-on-the-education-freedom-act",
-"https://electmichele.com/privacy-policy",
-"https://electmichele.com/terms-of-use",
-"https://facebook.com/repmichelereneau",
-"https://instagram.com/repmichelereneau",
-"https://x.com/repreneau"
+{
+"text": "All Posts",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Citizen's Voices: A Digital Collection of Community Op-Eds",
+"href": "https://www.electmichele.com/post/citizen-s-voices-a-digital-collection-of-community-op-eds"
+},
+{
+"text": "DONATE",
+"href": "http://electmichele.com/donate"
+},
+{
+"text": "EMAIL MICHELE",
+"href": "mailto:rep.michele.reneau@capitol.tn.gov?subject=Connect+with+Michele"
+},
+{
+"text": "Issues",
+"href": "https://www.electmichele.com/issues"
+},
+{
+"text": "Join Team Michele",
+"href": "https://www.electmichele.com/join"
+},
+{
+"text": "Legislative Recap: Investments in Rural Tennessee and Hamilton County",
+"href": "https://www.electmichele.com/post/legislative-recap-investments-in-rural-tennessee-and-hamilton-county"
+},
+{
+"text": "Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act",
+"href": "https://www.electmichele.com/post/legislative-recap-protecting-women-the-riley-gaines-women-s-safety-and-protection-act"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.electmichele.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmichele.com/privacy-policy"
+},
+{
+"text": "SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES",
+"href": "http://www.electmichele.com/donate"
+},
+{
+"text": "See All",
+"href": "https://www.electmichele.com/news"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.electmichele.com/terms-of-use"
+},
+{
+"text": "[image: Citizen's Voices: A Digital Collection of Community Op-Eds]",
+"href": "https://www.electmichele.com/post/citizen-s-voices-a-digital-collection-of-community-op-eds"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repmichelereneau"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repmichelereneau/"
+},
+{
+"text": "[image: Legislative Recap: Investments in Rural Tennessee and Hamilton County ]",
+"href": "https://www.electmichele.com/post/legislative-recap-investments-in-rural-tennessee-and-hamilton-county"
+},
+{
+"text": "[image: Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act ]",
+"href": "https://www.electmichele.com/post/legislative-recap-protecting-women-the-riley-gaines-women-s-safety-and-protection-act"
+},
+{
+"text": "[image: Rep Reneau transparent logo.png]",
+"href": "https://www.electmichele.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/repreneau"
+},
+{
+"text": "here",
+"href": "https://www.electmichele.com/post/thank-you-for-your-feedback-on-the-education-freedom-act"
+}
 ]

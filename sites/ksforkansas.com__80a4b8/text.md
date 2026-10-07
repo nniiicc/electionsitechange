@@ -1,24 +1,19 @@
-Kevin D Schwertfeger
-Principled Conservative Leadership, as we strive for a Stronger Kansas.
+top of page Kevin D Schwertfeger Republican for Kansas House of Representatives District #114 Home News More Use tab to navigate through the menu items. ksforkansas@gmail.com Kevin D Schwertfeger Principled Conservative Leadership, as we strive for a Stronger Kansas.
 Today is a new day.
 Welcome to the official site of Republican Candidate for Kansas House of Representatives #114, Kevin D Schwertfeger, a source of information on issues, history, background and where I Stand.
 I'm not asking for your money, I ask for your support, to be your voice in our Republic form of Government.
-In the Press
-Latest Campaign Coverage
-You ARE Saved by works.
+Home: Welcome In the Press Latest Campaign Coverage You ARE Saved by works.
 But NOT yours.
 Jesus Christ is my Lord and Savior, I would like for you to know Him as your Savior.
 There is nothing more important in this world than for you to know Him as your only Eternal Salvation.
 Jesus Loves You.
 God is Love and we love because He first Loved us.
-Your Latin lesson for today is : Sola Scriptura, Sola Fide, Sola Gratia, Solus Christus, Soli Deo Gloria :
-Biblical Scripture alone, by Faith alone, by Grace alone, by Christ alone, to the Glory of God alone Hear I stand.
+Your Latin lesson for today is : Sola Scriptura, Sola Fide, Sola Gratia, Solus Christus, Soli Deo Gloria : Biblical Scripture alone, by Faith alone, by Grace alone, by Christ alone, to the Glory of God alone Hear I stand.
 I can do no other.We are Christians, members of St Paul Evangelical Lutheran Church of The Missouri Synod - SW of Preston, at Natrona, KS.
 Three reasons to be Happy : Jesus Loves You!
 Jesus died for You.
 Jesus is always with You.
-Kevin D Schwertfeger Family & Policy notes :
-I am married to Gayla of 33 yrs, we have 3 daughters, 2 son in laws, and 2 fun loving Grandsons.
+Kevin D Schwertfeger Family & Policy notes : I am married to Gayla of 33 yrs, we have 3 daughters, 2 son in laws, and 2 fun loving Grandsons.
 We are from Turon, Kansas.
 I am blessed by God for my wonderful wife, & parents, Ron & Sharon and brother Jeff & sister Brenda .
 They have played a tremendous role in my life.
@@ -44,7 +39,7 @@ Chuck McKinney; with his passing, as the Eric Church song goes, Still got a lot 
 My Grandparents farmed in Reno/Pratt co. & in E.
 Colorado.
 I am a 5th generation Kansan in Kansas Agriculture.
-We live in the farm house where my Grandparents Orval & LaVerne Schwertfeger got started in farming 85 years ago.
+We live in the farm house where my Grandparents Orval & LaVerne Schwertfeger got started in farming #ago.
 Grandparents Carl & Norma Briggeman operated a farm & dairy, West of Iuka in Pratt county.
 My Great Grandfather an International Harvester dealer.
 I am pro education : I attended Turon Grade school, Graduated from Langdon/ Fairfield High School from The Great Class of '87 Met my wife while on HCC track & field team'89 under Coaches Becker & the late great Coach Masterson, Hutchinson Community College Graduate, AA in Agriculture '89, Graduate Kansas State University BS College of Agriculture in Crop Protection/Pest Science & Management '92.
@@ -113,8 +108,7 @@ I am Pro Agriculture, as one who was raised on a farm, who has farming interests
 We need a strong farm economy.
 My wife and I are Farm Bureau members, Kansas Cattlemen's Assoc, Brangus Breeders Assoc, National Wheat Growers , Kansas Assoc of Independent Crop Consultants and former President KAICC.
 The KAICC organization members help farmers manage/overseeing Ag production on one million plus acres in Kansas.
-Volunteer Firefighter Reno Co D#7
-For the Ethics notification : this site is paid for by Kevin Schwertfeger, Gayla Schwertfeger, Treasurer.
+Volunteer Firefighter Reno Co D#7 For the Ethics notification : this site is paid for by Kevin Schwertfeger, Gayla Schwertfeger, Treasurer.
 I have been involved in service to my community.
 I am privileged to serve, helping as a Volunteer Firefighter for 20+ years and serve as a #764 Captain.
 For 24 years I have served as Miami Twp Trustee in SW Reno co. charged with road supervision on 50+ miles of road.
@@ -152,8 +146,8 @@ A cousin a Navy Seal.
 When u see a Veteran, Thank them for their service to our Country.
 Although I didn't serve, Ive been involved in Volunteer Firefighting efforts for 20+ years.
 Freedom isn't Free.
-God Bless our Veterans and First Responders.Good Lord Willing and with my fellow Republican support I will serve you to my best ability in Topeka and work for a Stronger Kansas.
-per Aspera ad Astera , Soli Deo Gloria !
+God Bless our Veterans and First Responders.Good Lord Willing and with my fellow Republican support I will serve you to my best ability in Topeka and work for a Stronger Kansas. per Aspera ad Astera , Soli Deo Gloria !
 Oh that The Lord would guide my ways, to keep his statutes still, OH that The Lord would grant me grace to know and do His will !
 The Lord is my light and my salvation, whom shall I fear, The Lord is the strength of my life of whom shall I be afraid ?
-Psalm 27
+Psalm 27 Home: News Kevin D Schwertfeger ksforkansas@gmail.com ©# by Kevin D Schwertfeger.
+Proudly created with Wix.com bottom of page

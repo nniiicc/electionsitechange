@@ -1,5 +1,5 @@
-Advocating for High-Quality, Sustainable
-Reforms for All Texans!
+top of page HOME ABOUT ME PLATFORM CV DONATE More Use tab to navigate through the menu items.
+Advocating for High-Quality, Sustainable Reforms for All Texans!
 I'm a native Texan and Katy ISD graduate, raised in Fort Bend county by a teacher and an oil worker.
 Over the course of my career, I've seen firsthand how our healthcare and education systems impact individual Texans and the community at large.
 I've fought hard to make both of our healthcare and education systems more efficient and accessible.
@@ -12,3 +12,4 @@ I believe we deserve an education system that fights for and supports its studen
 I believe we deserve representatives that actively work to develop solutions, rather than rejecting evidence-based strategies, both in times of crisis and calm.
 Above all, I believe we deserve a Texas that focuses on improving societal outcomes to ensure that all Texans achieve success in the global society in which we live.
 Texas deserves better!
+JOIN THE CONVERSATION: © # by Eliz Markowitz 24111 Haywards Crossing Ln, Katy, TX 77494 bottom of page

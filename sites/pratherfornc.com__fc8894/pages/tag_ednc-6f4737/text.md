@@ -1,3 +1,2 @@
-Legislators visit public school that sets up newcomer students and families for success
-When Lindsey Prather was a teacher in Buncombe County Schools, she saw dozens of flags hanging around one of the district’s most diverse schools.
-The school housed a Newcomers Center, where students of immigrant and refugee families spent a semester…
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu Tag EdNC News Legislators visit public school that sets up newcomer students and families for success When Lindsey Prather was a teacher in Buncombe County Schools, she saw dozens of flags hanging around one of the district’s most diverse schools.
+The school housed a Newcomers Center, where students of immigrant and refugee families spent a semester… elijah May 24, 2023 PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

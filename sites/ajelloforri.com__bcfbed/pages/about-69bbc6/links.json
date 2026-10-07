@@ -1,9 +1,46 @@
 [
-"https://ajelloforri.com/",
-"https://ajelloforri.com/about",
-"https://ajelloforri.com/issues",
-"https://ajelloforri.com/volunteer",
-"https://facebook.com/repajello",
-"https://instagram.com/repajello",
-"https://secure.actblue.com/donate/edithajello"
+{
+"text": "About",
+"href": "https://www.ajelloforri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ajelloforri.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/edithajello"
+},
+{
+"text": "Donate to the campaign →",
+"href": "https://secure.actblue.com/donate/edithajello"
+},
+{
+"text": "Home",
+"href": "https://www.ajelloforri.com"
+},
+{
+"text": "Issues",
+"href": "https://www.ajelloforri.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ajelloforri.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repajello/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repajello/"
+},
+{
+"text": "[image: Untitled design (2).png]",
+"href": "https://www.ajelloforri.com"
+},
+{
+"text": "edithajello@gmail.com",
+"href": "mailto:edithajello@gmail.com"
+}
 ]

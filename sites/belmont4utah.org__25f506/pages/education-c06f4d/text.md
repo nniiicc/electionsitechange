@@ -1,5 +1,4 @@
-Education
-Education is the greatest investment we can make in our society, providing people with opportunities for stability, higher paying jobs, and self-dependency.
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE Education Education is the greatest investment we can make in our society, providing people with opportunities for stability, higher paying jobs, and self-dependency.
 Beyond providing the technical skills people need to succeed in jobs, a good education system helps people understand the world, helps them develop critical thinking skills and information literacy, helps people gain self-confidence, and enables people to become better, more productive members of society.
 As an educator myself, I understand this issue first-hand and will advocate strongly for our kids.
 We have 30,000+ teachers in Utah, and I have the deepest respect for the contributions our teachers make.
@@ -8,8 +7,8 @@ Utah currently has the lowest per student funding, some of the lowest teacher pa
 This problem was made even worse recently with the Legislature's voucher programs that divert public funding for schools to other entities, without any meaningful accountability.
 Utah also has one of the worst (#48) student:teacher ratios (over 21 students per teacher).
 And extremist legislators have been overreaching into classrooms with their personal agendas in recent years.
-As your representative, I will
-1.
+As your representative, I will 1.
 Advocate for increases in education funding at all levels, pre-K, K-12, community and technical colleges, and all universities throughout the state.
 2.
 Work to ensure that teachers, parents and students, not legislators, decide what gets taught in our classrooms.
+MEDIA CONTACT: belmont4utah@gmail.com Check or update voter registration TWITTER INSTAGRAM FACEBOOK © # Belmont4Utah Paid for by Belmont4Utah Created with Wix.com bottom of page

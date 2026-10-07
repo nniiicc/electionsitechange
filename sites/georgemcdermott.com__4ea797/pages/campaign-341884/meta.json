@@ -1,11 +1,19 @@
 {
  "description": "",
  "final_url": "https://georgemcdermott.com/campaign/",
- "paid_for_by": null,
- "title": "Campaign \u2013 George McDermott",
+ "fingerprint": "c271c7326ab013b5de1bf52699be1e15db7a1529",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Campaign – George McDermott",
  "years_mentioned": [
+  "1959",
+  "1962",
+  "1987",
+  "2000",
+  "2008",
   "2010",
   "2011",
-  "2016"
+  "2016",
+  "2018"
  ]
 }

@@ -1,4 +1,6 @@
-State Representative Edgar Gonzalez is a proven leader delivering for our communities.
-The son of immigrants from Mexico, Gonzalez is a lifelong resident of Little Village, a graduate of Chicago Public Schools and Harvard University, and worked for Congressman Chuy Garcia.
-Sworn in at 23 years old, Edgar is the youngest Democrat and Latino to ever serve in the state legislature.
+0 Skip to Content MEET EDGAR PRIORITIES CONTACT US DONATE Open Menu Close Menu MEET EDGAR PRIORITIES CONTACT US DONATE Open Menu Close Menu MEET EDGAR PRIORITIES CONTACT US DONATE State Representative Edgar Gonzalez is a proven leader delivering for our communities.
+The son of immigrants from Mexico, Gonzalez is a lifelong resident of Little Village, a graduate of Chicago Public Schools and Harvard University, and worked for Congressman Chuy Garcia. ​ Sworn in at 23 years old, Edgar is the youngest Democrat and Latino to ever serve in the state legislature.
 As State Representative, he has championed workers’ rights, protected a woman’s right to choose and access to reproductive healthcare, passed common sense gun safety laws to save lives, and invested in education to give all our kids the chance to succeed.
+MEET EDGAR Edgar is working to deliver real results for our families and help ensure we aren't left behind in Springfield.
+ADDRESS Friends of Edgar Gonzalez Jr 4035 W 26th St, Floor 2 Chicago, IL 60623 EMAIL campaign@edgargonzalezjr.com SOCIAL MEDIA Privacy Policy PAID FOR BY FRIENDS OF EDGAR GONZALEZ, JR.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website ( www . elections .il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,5 +1,4 @@
-A Colorado Love Story
-This fall, my wife, Megan, and I will celebrate 11 years of marriage.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (June 10th edition) 10 Jun Wednesday, 6:02 PM · 2026 Wednesdays With Will (June 10th edition) A Colorado Love Story This fall, my wife, Megan, and I will celebrate 11 years of marriage.
 Like many families in District 30, our story is one built on hard work, sacrifice, and the pursuit of the American Dream.
 We met during our first semester of college in Nashville.
 Megan was a freshman, and I had just transferred in.
@@ -55,3 +54,4 @@ I see it as home.
 I see the families trying to get ahead, the small business owners taking risks, the seniors who built these communities, and the next generation that deserves the same opportunities we were given.
 That's why I'm fighting for District 30.
 Together, we can Move Colorado Forward.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

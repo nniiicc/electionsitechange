@@ -1,4 +1,10 @@
 [
-"https://alangordonri.com/",
-"https://alangordonri.com/donations"
+{
+"text": "Donate",
+"href": "https://alangordonri.com/donations/"
+},
+{
+"text": "Home",
+"href": "https://alangordonri.com/"
+}
 ]

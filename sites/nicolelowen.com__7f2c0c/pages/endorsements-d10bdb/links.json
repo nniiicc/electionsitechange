@@ -1,11 +1,42 @@
 [
-"http://facebook.com/nlowen",
-"http://instagram.com/nicolelowenforhawaii",
-"https://nicolelowen.com/",
-"https://nicolelowen.com/about",
-"https://nicolelowen.com/connect",
-"https://nicolelowen.com/contribute",
-"https://nicolelowen.com/endorsements",
-"https://nicolelowen.com/volunteer",
-"https://twitter.com/NLowen"
+{
+"text": "About",
+"href": "https://www.nicolelowen.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.nicolelowen.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://www.nicolelowen.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicolelowen.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.nicolelowen.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nicolelowen.com/volunteer"
+},
+{
+"text": "[image: Nicole Lowen ]",
+"href": "https://www.nicolelowen.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/nicolelowenforhawaii"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/nlowen"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NLowen"
+}
 ]

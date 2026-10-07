@@ -1,42 +1,242 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&dates=20250726T033000Z%2F20250726T043000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Chula+Vista+Town+Hall&dates=20260926T010000Z%2F20260926T023000Z&location=547+4th+Avenue%2C+Chula+Vista%2C+California%2C+91910%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+The+Candidate&dates=20260501T003000Z%2F20260501T020000Z&location=875+Hotel+Circle+South%2C+San+Diego%2C+CA+92108",
-"http://google.com/calendar/event?action=TEMPLATE&text=National+Apostolic+Christian+Leadership+Conference&dates=20250924T210000Z%2F20250924T223000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=The+Hope+Event&dates=20250816T230000Z%2F20250817T020000Z",
-"http://maps.google.com/?q=547+4th+Avenue+Chula+Vista%2C+California%2C+91910+United+States",
-"http://maps.google.com/?q=875+Hotel+Circle+South+San+Diego%2C+CA+92108",
-"https://arthodgesforsenate.com/",
-"https://arthodgesforsenate.com/250club",
-"https://arthodgesforsenate.com/about-art",
-"https://arthodgesforsenate.com/candidate-comparison",
-"https://arthodgesforsenate.com/cart",
-"https://arthodgesforsenate.com/contact",
-"https://arthodgesforsenate.com/district-map",
-"https://arthodgesforsenate.com/endorsements",
-"https://arthodgesforsenate.com/events",
-"https://arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1",
-"https://arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1?format=ical",
-"https://arthodgesforsenate.com/events/chula-vista-town-hall",
-"https://arthodgesforsenate.com/events/chula-vista-town-hall?format=ical",
-"https://arthodgesforsenate.com/events/event-one-26tme",
-"https://arthodgesforsenate.com/events/event-one-26tme?format=ical",
-"https://arthodgesforsenate.com/events/meet-the-candidate",
-"https://arthodgesforsenate.com/events/meet-the-candidate?format=ical",
-"https://arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference",
-"https://arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference?format=ical",
-"https://arthodgesforsenate.com/gallery",
-"https://arthodgesforsenate.com/media",
-"https://arthodgesforsenate.com/meet-art",
-"https://arthodgesforsenate.com/news",
-"https://arthodgesforsenate.com/priorities",
-"https://arthodgesforsenate.com/privacy-policy",
-"https://facebook.com/ArtHodgesForSenate",
-"https://forms.gle/8esNKzpDsjEuRFDt7",
-"https://instagram.com/arthodgesforsenate",
-"https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2FAHFS-Prayer-Force%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETFLcGE5bDh1R1ZyeWtFRkpyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqwY91zaLG77O69nwsnAUokiUYKaLUjSD9nGw0hGG1tuMY_aQIAHLO5BnT2X_aem_ZFCwiuvrTBv_MIuqwvUGuQ&h=AUCTPwHGXowMPbxiWBopPiMrimxZoTkrNYwWhDP7wajaZR7d93LDL8nQYDRxCNEpBEjKEor5nhTFA7x3nSwARiX9GCHPMRaR89yGpAkVyqSDr6aeCE75-9tgwP9Bfu6OUy5RX50yg5yM8QNV2Q&__tn__=-UK-R&c%5B0%5D=AUCQ19lZXLDzfUhrmhAZtO-A83OGmRgQz1WNNAjlou29mQENBttnl21D7Fjl6RgHzuyYWyBrMnU31YkkmlYi6OccZs68A5u3nFcrvqnW_cDKpjeDhPrZBrfjtWrRA5wkhLA-giMtxVWWD8yBdEqE4f6Wg-8gV3Bc1lALBWwhS9A",
-"https://secure.anedot.com/art-hodges-for-senate-2026/arthodges",
-"https://tiktok.com/@arthodgesforsenate",
-"https://us06web.zoom.us/j/85880178998?pwd=DedXsZxnobT5NpZdHx3eFwBfG8cXaE.1",
-"https://x.com/arthodgesforsenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=547+4th+avenue+chula+vista%2C+california%2C+91910+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=875+hotel+circle+south+san+diego%2C+ca+92108+"
+},
+{
+"text": "0",
+"href": "https://www.arthodgesforsenate.com/cart"
+},
+{
+"text": "250 Club",
+"href": "https://www.arthodgesforsenate.com/250club"
+},
+{
+"text": "About Art",
+"href": "https://www.arthodgesforsenate.com/about-art"
+},
+{
+"text": "Back",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "CALIFORNIA ISSUES",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "CONNECT WITH US",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Candidate Comparison",
+"href": "https://www.arthodgesforsenate.com/candidate-comparison"
+},
+{
+"text": "Chula Vista Town Hall",
+"href": "https://www.arthodgesforsenate.com/events/chula-vista-town-hall"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/art-hodges-for-senate-2026/arthodges"
+},
+{
+"text": "District Map",
+"href": "https://www.arthodgesforsenate.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.arthodgesforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.arthodgesforsenate.com/events"
+},
+{
+"text": "FREE REGISTRATION HERE",
+"href": "https://forms.gle/8esNKzpDsjEuRFDt7"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.arthodgesforsenate.com/media"
+},
+{
+"text": "Folder: Meet Art",
+"href": "https://www.arthodgesforsenate.com/meet-art"
+},
+{
+"text": "Get Involved",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=&dates=20250726T033000Z%2F20250726T043000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Chula+Vista+Town+Hall&dates=20260926T010000Z%2F20260926T023000Z&location=547+4th+Avenue%2C+Chula+Vista%2C+California%2C+91910%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+The+Candidate&dates=20260501T003000Z%2F20260501T020000Z&location=875+Hotel+Circle+South%2C+San+Diego%2C+CA+92108"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=National+Apostolic+Christian+Leadership+Conference&dates=20250924T210000Z%2F20250924T223000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=The+Hope+Event&dates=20250816T230000Z%2F20250817T020000Z"
+},
+{
+"text": "Home",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/chula-vista-town-hall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/event-one-26tme?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/meet-the-candidate?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.arthodgesforsenate.com/priorities"
+},
+{
+"text": "JOIN THE PRAYER ZOOM CALL",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2FAHFS-Prayer-Force%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETFLcGE5bDh1R1ZyeWtFRkpyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqwY91zaLG77O69nwsnAUokiUYKaLUjSD9nGw0hGG1tuMY_aQIAHLO5BnT2X_aem_ZFCwiuvrTBv_MIuqwvUGuQ&h=AUCTPwHGXowMPbxiWBopPiMrimxZoTkrNYwWhDP7wajaZR7d93LDL8nQYDRxCNEpBEjKEor5nhTFA7x3nSwARiX9GCHPMRaR89yGpAkVyqSDr6aeCE75-9tgwP9Bfu6OUy5RX50yg5yM8QNV2Q&__tn__=-UK-R&c%5B0%5D=AUCQ19lZXLDzfUhrmhAZtO-A83OGmRgQz1WNNAjlou29mQENBttnl21D7Fjl6RgHzuyYWyBrMnU31YkkmlYi6OccZs68A5u3nFcrvqnW_cDKpjeDhPrZBrfjtWrRA5wkhLA-giMtxVWWD8yBdEqE4f6Wg-8gV3Bc1lALBWwhS9A"
+},
+{
+"text": "JOIN THE TOWN HALL ZOOM CALL",
+"href": "https://us06web.zoom.us/j/85880178998?pwd=DedXsZxnobT5NpZdHx3eFwBfG8cXaE.1"
+},
+{
+"text": "JOIN US NOW - GO HERE!",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "Meet The Candidate",
+"href": "https://www.arthodgesforsenate.com/events/meet-the-candidate"
+},
+{
+"text": "National Apostolic Christian Leadership Conference",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference"
+},
+{
+"text": "News",
+"href": "https://www.arthodgesforsenate.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.arthodgesforsenate.com/gallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.arthodgesforsenate.com/privacy-policy"
+},
+{
+"text": "The Hope Event",
+"href": "https://www.arthodgesforsenate.com/events/event-one-26tme"
+},
+{
+"text": "Untitled Event",
+"href": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1"
+},
+{
+"text": "View Event →",
+"href": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1"
+},
+{
+"text": "View Event →",
+"href": "https://www.arthodgesforsenate.com/events/chula-vista-town-hall"
+},
+{
+"text": "View Event →",
+"href": "https://www.arthodgesforsenate.com/events/event-one-26tme"
+},
+{
+"text": "View Event →",
+"href": "https://www.arthodgesforsenate.com/events/meet-the-candidate"
+},
+{
+"text": "View Event →",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference"
+},
+{
+"text": "[image: ArtHodgesForSenate]",
+"href": "https://www.arthodgesforsenate.com/"
+},
+{
+"text": "[image: Campaign poster featuring a man in a suit with glasses, promoting a political campaign for AR HODGES for State Senate 2026. The poster includes American flag motifs, a vote badge, and text encouraging to join the team and vote for AR HODGES.]",
+"href": "https://www.arthodgesforsenate.com/contact"
+},
+{
+"text": "[image: Chula Vista Town Hall]",
+"href": "https://www.arthodgesforsenate.com/events/chula-vista-town-hall"
+},
+{
+"text": "[image: Flyer for Art Hodges Volunteer Town Hall, supports and volunteers welcome. Serves Senate District 18, including San Diego, San Bernardino, Riverside, Imperial. Held every Thursday from 5:30 PM to 6:30 PM. Features training, campaign updates, Q&A. Virtual Zoom meeting with a button to join. A background with a city skyline and palm trees, and a laptop showing a video conference with smiling people.]",
+"href": "https://us06web.zoom.us/j/85880178998?pwd=DedXsZxnobT5NpZdHx3eFwBfG8cXaE.1"
+},
+{
+"text": "[image: Flyer for Art Hodges' weekly prayer Zoom meetings for Senate 2026, every Monday from 12:00 to 1:00 PM Pacific Time, with a Bible quote from 2 Chronicles 7:14 and a background of storm clouds, an American flag in the bottom left corner, and decorative gold borders.]",
+"href": "https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2FAHFS-Prayer-Force%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgFicmlkETFLcGE5bDh1R1ZyeWtFRkpyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqwY91zaLG77O69nwsnAUokiUYKaLUjSD9nGw0hGG1tuMY_aQIAHLO5BnT2X_aem_ZFCwiuvrTBv_MIuqwvUGuQ&h=AUCTPwHGXowMPbxiWBopPiMrimxZoTkrNYwWhDP7wajaZR7d93LDL8nQYDRxCNEpBEjKEor5nhTFA7x3nSwARiX9GCHPMRaR89yGpAkVyqSDr6aeCE75-9tgwP9Bfu6OUy5RX50yg5yM8QNV2Q&__tn__=-UK-R&c%5B0%5D=AUCQ19lZXLDzfUhrmhAZtO-A83OGmRgQz1WNNAjlou29mQENBttnl21D7Fjl6RgHzuyYWyBrMnU31YkkmlYi6OccZs68A5u3nFcrvqnW_cDKpjeDhPrZBrfjtWrRA5wkhLA-giMtxVWWD8yBdEqE4f6Wg-8gV3Bc1lALBWwhS9A"
+},
+{
+"text": "[image: Flyer for Israel Experience event featuring images of Jerusalem, a drone with Israeli flag, modern building with fountains, and flags of the United States and Israel. The event is scheduled for Wednesday, October 7, from 6-10 PM at Legacy International Center, San Diego, with free admission.]",
+"href": "https://forms.gle/8esNKzpDsjEuRFDt7"
+},
+{
+"text": "[image: Meet The Candidate]",
+"href": "https://www.arthodgesforsenate.com/events/meet-the-candidate"
+},
+{
+"text": "[image: National Apostolic Christian Leadership Conference]",
+"href": "https://www.arthodgesforsenate.com/events/national-apostolic-christian-leadership-conference"
+},
+{
+"text": "[image: The Hope Event]",
+"href": "https://www.arthodgesforsenate.com/events/event-one-26tme"
+},
+{
+"text": "[no text]",
+"href": "https://www.arthodgesforsenate.com/events/0qc3x2ysfyzbu5j58b5nm4ck75cvt1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ArtHodgesForSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@arthodgesforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/arthodgesforsenate"
+},
+{
+"text": "info@arthodgesforsenate.com",
+"href": "mailto:info@arthodgesforsenate.com"
+}
 ]

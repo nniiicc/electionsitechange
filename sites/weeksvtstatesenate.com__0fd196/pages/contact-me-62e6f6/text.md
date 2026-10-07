@@ -1,10 +1,3 @@
-Contact me
-Get Involved
-There are many ways to join the campaign — and Dave wants to hear from you.
+0 Skip to Content Dave Weeks for Vermont State Senate Meet Dave Senate Record Priorities Endorsements Support Contact Open Menu Close Menu Dave Weeks for Vermont State Senate Meet Dave Senate Record Priorities Endorsements Support Contact Open Menu Close Menu Meet Dave Senate Record Priorities Endorsements Support Contact Contact me Get Involved There are many ways to join the campaign — and Dave wants to hear from you.
 Volunteer your time, share your feedback and ideas, or invite Dave to a community conversation in your town.
-Ways to Get Involved
-- Volunteer — knock doors, make calls, help with events, or place a yard sign
-- Share Your Ideas — tell Dave what matters to you and your family
-- Host a Community Conversation — bring Dave to your workplace, organization, church, or living room to talk directly about the issues facing Rutland County
-Contact the Campaign
-Email: DaveInVT1976@gmail.com Phone: (802) 417-9013 Mail: 35 Warner Avenue, Proctor, VT 05765
+Ways to Get Involved Volunteer — knock doors, make calls, help with events, or place a yard sign Share Your Ideas — tell Dave what matters to you and your family Host a Community Conversation — bring Dave to your workplace, organization, church, or living room to talk directly about the issues facing Rutland County Contact the Campaign Email: DaveInVT1976@gmail.com Phone: (802) 417-9013 Mail: 35 Warner Avenue, Proctor, VT 05765 Dave Weeks for VT State Senate 35 Warner Avenue Proctor, VT 05765 (802) 417-9013 daveinvt1976@gmail.com

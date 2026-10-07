@@ -1,2 +1,2 @@
-District 64 contains the majority of Gibson and Knox Counties, as well as northern Vanderburgh County.
-“It has been an honor to represent District 64 in the General Assembly.” – State Representative Matt Hostettler
+Skip to content Home About Matt Matt’s Record District 64 From the Trail Contribute Contact Indiana House District 64 District 64 contains the majority of Gibson and Knox Counties, as well as northern Vanderburgh County.
+“It has been an honor to represent District 64 in the General Assembly.” – State Representative Matt Hostettler Stay in Touch Facebook Twitter Mail Site Pages: Home About Matt Matt’s Record District 64 From the Trail Contribute Contact March 26, 2024 Attended Event Held for John Hostettler January 22, 2024 Filing for Reelection August 30, 2021 About Free Markets 1 2 Next Page Copyright © # Matt Hostettler for State Representative Powered by integriCORE

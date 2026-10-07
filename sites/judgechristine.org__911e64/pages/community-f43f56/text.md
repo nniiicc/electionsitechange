@@ -1,52 +1,7 @@
-Current:
-National Association of Women Judges, Judicial Independence Committee
-North Carolina Association of Women Attorneys, Judicial Division Chair
-North Carolina Bar Association, Committee on Women in the Legal Profession
-North Carolina Association of District Court Judges
-Custody Mediation Advisory Committee
-Tenth Judicial District Bar
-Wake County Bar Association, Former Board of Directors
-International Focus, International Visitors Leadership Program (IVLP)
-Legal Support Center, Advisory Board
-Wake Women Attorneys
-Raleigh Wake Citizens Association
-People’s Alliance
-Former:
-Chief Justice's Rules Advisory Commission
-North Carolina Advocates for Justice
-Wake County Academy of Criminal Trial Lawyers
-Legal Aid of North Carolina Volunteer Lawyers Program
-Wade Edwards High School Mock Trial Competition
-Awards:
-Wake County Bar Association, Professionalism Spotlight Award 2025
-North Carolina Association of Women Attorneys Gwyneth B.
-Davis Award 2018
-Featured in North Carolina Super Lawyers Magazine, 2006-2007
-Legal Aid of North Carolina, Outstanding Volunteer Attorney, 1997 & 1998
-Presentations and Speeches:
-I am an experienced member of the judiciary with an interest in education.
+top of page Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine Menu Close VOLUNTEER GET UPDATES DONATE DONATE Photo Gallery → Current: National Association of Women Judges, Judicial Independence Committee North Carolina Association of Women Attorneys, Judicial Division Chair North Carolina Bar Association, Committee on Women in the Legal Profession North Carolina Association of District Court Judges Custody Mediation Advisory Committee Tenth Judicial District Bar Wake County Bar Association, Former Board of Directors International Focus, International Visitors Leadership Program (IVLP) Legal Support Center, Advisory Board Wake Women Attorneys Raleigh Wake Citizens Association People’s Alliance Former: Chief Justice's Rules Advisory Commission North Carolina Advocates for Justice Wake County Academy of Criminal Trial Lawyers Legal Aid of North Carolina Volunteer Lawyers Program Wade Edwards High School Mock Trial Competition ​ Awards: Wake County Bar Association, Professionalism Spotlight Award 2025 North Carolina Association of Women Attorneys Gwyneth B.
+Davis Award 2018 Featured in North Carolina Super Lawyers Magazine, 2006-2007 Legal Aid of North Carolina, Outstanding Volunteer Attorney, 1997 & 1998 Presentations and Speeches: I am an experienced member of the judiciary with an interest in education.
 I often speak at local law schools, continuing education programs, and training events for lawyers and judges.
-The following is a list of some of the presentations I have given:
-District Court Judges Conferences/North Carolina Judicial College:
-▪ Practical Aspects of the UCCJEA
-▪ Disability & Language Access Issues
-▪ Management Strategies for Custody Cases, Special Topic Seminar: Child Custody
-▪ Legal Issues in Distribution, Advanced Family Law: Issues in Equitable Distribution
-▪ Family Law Practice: How-Tos, Hot Topics and Handy Techniques
-▪ The Law Relating to Firearms and Domestic Violence, Special Topic Seminar: Domestic Violence
-Wake County Bar Association:
-▪ Remote Justice: The Effective Use of WebEx Hearings
-▪ Common Mistakes in Family Court
-▪ How to be a Better Parent Coordinator: A View from the Bench
-▪ Equitable Distribution Presumptions, Family Law Basics
-▪ Family Law Update
-Legal Aid of North Carolina
-▪ How to Represent a Domestic Violence Victim in a DVPO Hearing
-▪ The Child's Advocate CLE Training for Volunteer Attorneys
-North Carolina Association of Women Attorneys:
-▪ You’re Climbing the Wrong Ladder: Why and How to Start Your Own Law Practice
-▪ Basics of Business Law for Non-Practitioners: What You Should Know About Business Law in North Carolina
-North Carolina Advocates for Justice
-▪ Professionalism for New Attorneys Seminar
-North Carolina Center for Voter Education
-▪ Race and Gender in the Legal Profession: What's Our Current Status?
+The following is a list of some of the presentations I have given: District Court Judges Conferences/North Carolina Judicial College: ▪ Practical Aspects of the UCCJEA ▪ Disability & Language Access Issues ▪ Management Strategies for Custody Cases, Special Topic Seminar: Child Custody ▪ Legal Issues in Distribution, Advanced Family Law: Issues in Equitable Distribution ▪ Family Law Practice: How-Tos, Hot Topics and Handy Techniques ▪ The Law Relating to Firearms and Domestic Violence, Special Topic Seminar: Domestic Violence Wake County Bar Association: ▪ Remote Justice: The Effective Use of WebEx Hearings ▪ Common Mistakes in Family Court ▪ How to be a Better Parent Coordinator: A View from the Bench ▪ Equitable Distribution Presumptions, Family Law Basics ▪ Family Law Update Legal Aid of North Carolina ▪ How to Represent a Domestic Violence Victim in a DVPO Hearing ▪ The Child's Advocate CLE Training for Volunteer Attorneys North Carolina Association of Women Attorneys: ▪ You’re Climbing the Wrong Ladder: Why and How to Start Your Own Law Practice ▪ Basics of Business Law for Non-Practitioners: What You Should Know About Business Law in North Carolina North Carolina Advocates for Justice ▪ Professionalism for New Attorneys Seminar North Carolina Center for Voter Education ▪ Race and Gender in the Legal Profession: What's Our Current Status?
+Community Involvement: Throughout my career, I have been actively involved with community and professional organizations.
+I serve in leadership roles and strongly believe in education, mentorship, and service.
+I have worked with the following organizations: PO Box 10541, Raleigh NC, 27605 Paid for by the Judge Walczyk Committee Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine Menu Close VOLUNTEER GET UPDATES DONATE Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine bottom of page

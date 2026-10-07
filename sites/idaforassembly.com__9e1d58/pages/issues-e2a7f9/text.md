@@ -1,14 +1,8 @@
-Protecting Kids in the Age of AI
-Artificial intelligence is rapidly changing our classrooms and homes, bringing new opportunities but also new risks for our children.
-Good Jobs and Modern Infrastructure
-strong infrastructure means more jobs, more economic opportunity, and a stronger future for our desert .
-Clean Air and Restoring the Salton Sea
-Secure long-term funding to restore the Salton Sea, protect our air quality, and keep our children and families healthy.
-Lowering the Cost of Living
-Crack down on corporate price gouging, expand affordable housing, and bring in high-paying jobs to lower the cost of living for local families.
-Safe Neighborhoods
-Increase neighborhood crime prevention, domestic violence programs, and secure the public safety resources our communities need and deserve
-Strong Public Schools and Career Training
-Strengthen our public schools, support teachers, and expand career training and apprenticeship programs so more students can build good-paying careers right here at home.
-Quality, Affordable Healthcare
-Expand access to affordable healthcare, lower prescription drug costs, and protect the healthcare programs families depend on.
+0 Skip to Content Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate Juan Gil 9/28/26 Juan Gil 9/28/26 Protecting Kids in the Age of AI Artificial intelligence is rapidly changing our classrooms and homes, bringing new opportunities but also new risks for our children.
+Read More Juan Gil 9/28/26 Juan Gil 9/28/26 Good Jobs and Modern Infrastructure strong infrastructure means more jobs, more economic opportunity, and a stronger future for our desert .
+Read More Juan Gil 9/28/26 Juan Gil 9/28/26 Clean Air and Restoring the Salton Sea Secure long-term funding to restore the Salton Sea, protect our air quality, and keep our children and families healthy.
+Read More Juan Gil 5/28/19 Juan Gil 5/28/19 Lowering the Cost of Living Crack down on corporate price gouging, expand affordable housing, and bring in high-paying jobs to lower the cost of living for local families.
+Read More Juan Gil 5/28/19 Juan Gil 5/28/19 Safe Neighborhoods Increase neighborhood crime prevention, domestic violence programs, and secure the public safety resources our communities need and deserve Read More Juan Gil 5/28/19 Juan Gil 5/28/19 Strong Public Schools and Career Training Strengthen our public schools, support teachers, and expand career training and apprenticeship programs so more students can build good-paying careers right here at home.
+Read More Juan Gil 5/28/19 Juan Gil 5/28/19 Quality, Affordable Healthcare Expand access to affordable healthcare, lower prescription drug costs, and protect the healthcare programs families depend on.
+Read More PAID FOR BY IDA OBESO-MARTINEZ FOR ASSEMBLY 2026, FPPC ID#1483893 1700 Tribute Road, Suite 201, Sacramento CA 95815 Copyright © #.
+All Rights Reserved.

@@ -1,4 +1,4 @@
-Missouri Amendment 8: Who Should Hold a Sheriff Accountable?
+0 Skip to Content Vicky Wors for Missouri State Senate District 26 Important Dates On the Issues Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Open Menu Close Menu Vicky Wors for Missouri State Senate District 26 Important Dates On the Issues Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Open Menu Close Menu Important Dates Folder: On the Issues Back Missouri Amendment 6 Missouri Amendment 7 Missouri Amendment 8 About Contact Missouri Amendment 8: Who Should Hold a Sheriff Accountable?
 Amendment 8 is being presented to voters as a measure to “support law enforcement.” But Missouri sheriffs are already elected by the people, generally serve four-year terms, and already perform the duties described in the amendment.
 Placing those provisions in the Missouri Constitution would make them harder to change, but it would not significantly alter how most sheriff’s offices operate today.
 The most consequential part of Amendment 8 concerns how a sheriff could be removed from office.
@@ -16,4 +16,5 @@ No public official—regardless of party or position—should be placed beyond m
 We must ask ourselves whether concentrating this authority in the attorney general’s office truly protects Missouri citizens.
 Have you met our attorney general?
 I believe accountability should remain as close to the people as possible.
-For that reason, I oppose Amendment 8 and encourage Missourians to vote NO.
+For that reason, I oppose Amendment 8 and encourage Missourians to vote NO .
+Paid for by Wors for Missouri, Clare Goldt, Treasurer.

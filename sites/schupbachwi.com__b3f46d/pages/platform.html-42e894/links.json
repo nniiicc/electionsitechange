@@ -1,13 +1,50 @@
 [
-"http://schupbachwi.com/",
-"https://bsky.app/profile/schupbach.bsky.social",
-"https://facebook.com/profile.php?id=61581989283628",
-"https://maps.legis.wisconsin.gov/",
-"https://mastodon.social/@schupbach",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://schupbachwi.com/about.html",
-"https://schupbachwi.com/contact.html",
-"https://schupbachwi.com/platform.html",
-"https://schupbachwi.com/volunteer.html",
-"https://tiktok.com/@david.schupbach"
+{
+"text": "About David",
+"href": "https://www.schupbachwi.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.schupbachwi.com/contact.html"
+},
+{
+"text": "David Schupbach's Platform",
+"href": "https://www.schupbachwi.com/platform.html"
+},
+{
+"text": "Find out what Wisconsin assembly district you are in HERE",
+"href": "https://maps.legis.wisconsin.gov/"
+},
+{
+"text": "Home",
+"href": "http://www.schupbachwi.com"
+},
+{
+"text": "Register to vote HERE",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.schupbachwi.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/schupbach.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://mastodon.social/@schupbach"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61581989283628"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@david.schupbach"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0);"
+}
 ]

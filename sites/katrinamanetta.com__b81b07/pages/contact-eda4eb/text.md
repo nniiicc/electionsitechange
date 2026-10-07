@@ -1,12 +1,10 @@
-Contact Katrina
-Got a question?
+Skip to content English Shqip ( Albanian ) العربية ( Arabic ) বাংলা ( Bengali ) Bosanski ( Bosnian ) 简体中文 ( Chinese (Simplified) ) 繁體中文 ( Chinese (Traditional) ) Hrvatski ( Croatian ) Français ( French ) Deutsch ( German ) Ελληνικά ( Greek ) ગુજરાતી ( Gujarati ) हिन्दी ( Hindi ) Hmoob ( Hmong ) Italiano ( Italian ) 日本語 ( Japanese ) 한국어 ( Korean ) Македонски ( Macedonian ) Polski ( Polish ) Português (Brasil) ( Portuguese (Brazil) ) Português (Portugal) ( Portuguese (Portugal) ) ਪੰਜਾਬੀ ( Punjabi ) Română ( Romanian ) Русский ( Russian ) Српски ( Serbian ) Español ( Spanish ) Tagalog தமிழ் ( Tamil ) Українська ( Ukrainian ) اردو ( Urdu ) Tiếng Việt ( Vietnamese ) کوردی (سۆرانی) ( Kurdish (Sorani) ) Malti ( Maltese ) فارسی ( Persian ) Soomaali ( Somali ) Türkçe ( Turkish ) Čeština ( Czech ) دری ( Dari ) پښتو ( Pashto ) Slovenčina ( Slovak ) Kiswahili ( Swahili ) አማርኛ ( Amharic ) Ikinyarwanda ( Kinyarwanda ) Kurdî (Kurmancî) ( Kurdish (Kurmanji) ) मराठी ( Marathi ) سنڌي ( Sindhi ) తెలుగు ( Telugu ) ትግርኛ ( Tigrinya ) Home About Issues Endorsements Vote Updates News Media Coverage Subscribe Get Involved Events Volunteer Subscribe Contact Store Home About Issues Endorsements Vote Updates News Media Coverage Subscribe Get Involved Events Volunteer Subscribe Contact Store Donate Home About Issues Endorsements Vote Updates News Media Coverage Subscribe Get Involved Events Volunteer Subscribe Contact Store Donate Contact Katrina Got a question?
 Want to share what is happening in your neighborhood?
 Member of the media looking for a comment or interview?
 This campaign is about listening first.
 If you live in the 58th District and want to be heard, this is the place to start.
 Use the form on this page to reach my campaign team.
 We read every message and do our best to respond.
-Use this form for:
-- Sharing a local issue or concern
-- Asking a question about the campaign
-- Media or community event requests
+Use this form for: Sharing a local issue or concern Asking a question about the campaign Media or community event requests First Name Last Name Job Title Organization ZIP Code Cell Phone Number Work Email Message Acceptance Accept Submit Paid for by the Committee to Elect Katrina Manetta, P.O.
+Box 180085, 8785 Hall Road, Utica, MI 48317 Funded by people , not corporate PACs.
+Donate Quick Links Home About Issues News Events Store Volunteer Contact Home About Issues News Events Store Volunteer Contact Home About Issues News Events Store Volunteer Contact Home About Issues News Events Store Volunteer Contact Stay Up-to-Date First Name Last Name ZIP Code Cell Phone Number Email Acceptance Label Accept Subscribe

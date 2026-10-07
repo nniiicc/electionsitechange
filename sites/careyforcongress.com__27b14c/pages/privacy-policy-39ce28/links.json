@@ -1,19 +1,78 @@
 [
-"http://careyforcongress.com/",
-"https://careyforcongress.com/",
-"https://careyforcongress.com/faq",
-"https://careyforcongress.com/meet-mike-carey",
-"https://careyforcongress.com/news",
-"https://careyforcongress.com/priorities",
-"https://careyforcongress.com/privacy-policy",
-"https://careyforcongress.com/values-worth-fighting-for",
-"https://careyforcongress.com/volunteer",
-"https://cdn.prod.website-files.com/626a8a70c7321a52ae2509c9/6ab5a58550fae5bf8090131a_Mike%20Carey%20for%20Congress.zip",
-"https://facebook.com/CareyforCongress",
-"https://google.com/analytics/tos.html",
-"https://google.com/privacypolicy.html",
-"https://secure.winred.com/carey-for-congress/website",
-"https://twitter.com/MikeCareyOH15",
-"https://usa.gov/optout_instructions.shtml",
-"https://youtube.com/channel/UCrLxMnO7lGC66fHNvPphSGw"
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/carey-for-congress/website"
+},
+{
+"text": "FAQ",
+"href": "https://www.careyforcongress.com/faq"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://www.google.com/analytics/tos.html"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://www.google.com/privacypolicy.html"
+},
+{
+"text": "Home",
+"href": "https://www.careyforcongress.com/"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.careyforcongress.com/meet-mike-carey"
+},
+{
+"text": "More Information",
+"href": "https://cdn.prod.website-files.com/626a8a70c7321a52ae2509c9/6ab5a58550fae5bf8090131a_Mike%20Carey%20for%20Congress.zip"
+},
+{
+"text": "News",
+"href": "https://www.careyforcongress.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.careyforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.careyforcongress.com/privacy-policy"
+},
+{
+"text": "Values",
+"href": "https://www.careyforcongress.com/values-worth-fighting-for"
+},
+{
+"text": "Volunteer",
+"href": "https://www.careyforcongress.com/volunteer"
+},
+{
+"text": "Win@CareyForCongress.com",
+"href": "mailto:Win@CareyForCongress.com"
+},
+{
+"text": "[image]",
+"href": "https://www.careyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MikeCareyOH15"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CareyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrLxMnO7lGC66fHNvPphSGw"
+},
+{
+"text": "disabling cookies",
+"href": "https://www.usa.gov/optout_instructions.shtml"
+},
+{
+"text": "www.CareyForCongress.com",
+"href": "http://www.careyforcongress.com/"
+}
 ]

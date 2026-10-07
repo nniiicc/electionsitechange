@@ -1,19 +1,74 @@
 [
-"http://bit.ly/votebymailIL",
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://elections.il.gov/votinginformation/votingbymail.aspx",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/hands-deck-joining-forces-get-vote",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://ellmanforillinois.com/voting-mail-request-ballot",
-"https://facebook.com/EllmanforIL",
-"https://instagram.com/statesenatorlauraellman",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "All Hands On Deck: Joining Forces to Get Out the Vote",
+"href": "https://ellmanforillinois.com/hands-deck-joining-forces-get-vote/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "Sign up here to join us",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "Voting By Mail: Request Your Ballot!",
+"href": "https://ellmanforillinois.com/voting-mail-request-ballot/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "http://bit.ly/votebymailIL"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+},
+{
+"text": "request a ballot in the mail",
+"href": "https://www.elections.il.gov/votinginformation/votingbymail.aspx"
+}
 ]

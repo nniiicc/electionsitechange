@@ -1,13 +1,54 @@
 [
-"http://repguzzardi.com/",
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://repguzzardi.com/wills-bills",
-"https://secure.actblue.com/donate/will-guzzardi-1",
-"https://willguzzardi.com/",
-"https://willguzzardi.com/district-map-1",
-"https://willguzzardi.com/donate",
-"https://willguzzardi.com/issues",
-"https://willguzzardi.com/meet-will-2",
-"https://willguzzardi.com/volunteer",
-"https://willguzzardi.com/wills-story"
+{
+"text": "Home",
+"href": "https://www.willguzzardi.com/"
+},
+{
+"text": "Squarespace",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "The Issues",
+"href": "https://www.willguzzardi.com/issues"
+},
+{
+"text": "Will's Bills",
+"href": "https://www.repguzzardi.com/wills-bills"
+},
+{
+"text": "Will's Story",
+"href": "https://www.willguzzardi.com/wills-story"
+},
+{
+"text": "info@willguzzardi.com",
+"href": "mailto:info@willguzzardi.com"
+},
+{
+"text": "willguzzardi.com",
+"href": "https://www.willguzzardi.com/"
+},
+{
+"text": "www.repguzzardi.com",
+"href": "http://www.repguzzardi.com"
+},
+{
+"text": "👤 Volunteer",
+"href": "https://www.willguzzardi.com/volunteer"
+},
+{
+"text": "💵 Donate",
+"href": "https://secure.actblue.com/donate/will-guzzardi-1"
+},
+{
+"text": "💵 Donate",
+"href": "https://www.willguzzardi.com/donate"
+},
+{
+"text": "📋 Meet Will",
+"href": "https://www.willguzzardi.com/meet-will-2"
+},
+{
+"text": "🗺️ The 39th",
+"href": "https://www.willguzzardi.com/district-map-1"
+}
 ]

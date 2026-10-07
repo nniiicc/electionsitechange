@@ -1,1 +1,3 @@
-Press Resources Campaign B-Roll Download Raw Advertising B-Roll Download Photos Campaign Photos B-Roll Stills
+0 Skip to Content About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Press Resources Campaign B-Roll Download Raw Advertising B-Roll Download Photos Campaign Photos B-Roll Stills About Brinker Vision Endorsements Donate Privacy Press inquiries can be sent to press@brinkerharding.com © # Brinker Harding for Congress.
+All Rights Reserved.
+PAID FOR BY BRINKER HARDING FOR CONGRESS

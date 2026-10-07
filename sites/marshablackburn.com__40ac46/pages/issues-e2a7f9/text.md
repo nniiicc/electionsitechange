@@ -1,54 +1,8 @@
-Skip to main content
-Skip to footer
-Home
-Meet Marsha
-Issues
-Bell to Bell: No Cell
-In The News
-Join Us
-Join The Team
-Team Store
-Donate
-Issues
-Issue
-Fighting for Tennessee’s Continued Economic Growth
-Issue
-Protecting Women’s Sports
-Issue
-Stopping the scourge of Illegal Immigration
-Issue
-Keeping our communities safe
-Issue
-Confronting Communist China
-Issue
-Cutting wasteful government spending
-Issue
-Ensuring Tennessee remains a safe haven for conservatives
-Issue
-Cutting taxes to bolster our economy
-Issue
-Strengthening parental rights
-Issue
-Fighting woke anti-American curriculum
-Issue
-Improving higher education and vocational training
-Issue
-Backing President Trump’s America First Agenda
-Issue
-Stopping out of control liberal spending
-Issue
-Protecting Our Kids
-Issue
-Defending the innocent right to life
-Issue
-Safeguarding our Second Amendment rights
-Issue
-Supporting our military and veterans
-Issue
-Protecting Tennessee Elections And Supporting Party Registration
-Issue
-Championing Crypto and Bitcoin
-Issue
-Building a modern infrastructure
-Issue
-Standing up for Tennessee farmers
+Skip to main content Skip to footer Home Meet Marsha Issues Bell to Bell: No Cell In The News Join Us Join The Team Team Store Donate Issues Issue Fighting for Tennessee’s Continued Economic Growth Issue Protecting Women’s Sports Issue Stopping the scourge of Illegal Immigration Issue Keeping our communities safe Issue Confronting Communist China Issue Cutting wasteful government spending Issue Ensuring Tennessee remains a safe haven for conservatives Issue Cutting taxes to bolster our economy Issue Strengthening parental rights Issue Fighting woke anti-American curriculum Issue Improving higher education and vocational training Issue Backing President Trump’s America First Agenda Issue Stopping out of control liberal spending Issue Protecting Our Kids Issue Defending the innocent right to life Issue Safeguarding our Second Amendment rights Issue Supporting our military and veterans Issue Protecting Tennessee Elections And Supporting Party Registration Issue Championing Crypto and Bitcoin Issue Building a modern infrastructure Issue Standing up for Tennessee farmers Meet Marsha Issues Team Store In the news Join Us Donate Endorse Endorsement Submissions Privacy Policy Marsha Blackburn for Governor PO BOX 336 Brentwood, TN 37024 info@marshablackburn.com Paid for and authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+By law the maximum amount an individual may contribute to Marsha for Governor is $10,600.
+By contributing I confirm that my contribution should first be designated to the 2026 primary election, up to the maximum contribution limit of $5,300; then to the 2026 general election, up to the maximum contribution limit of $5,300.

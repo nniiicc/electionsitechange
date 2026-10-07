@@ -1,8 +1,4 @@
-Volunteer
-Are you ready to help Tina win this campaign?
+Skip to Main Content Re-elect State Representative Tina Davis About Tina Issues Volunteer Stay Connected More Donate Open Navigation Menu Re-elect State Representative Tina Davis About Tina Issues Volunteer Stay Connected Re-elect State Representative Tina Davis Open Search Bar Search this site Submit Search Open Navigation Menu Re-elect State Representative Tina Davis About Tina Issues Volunteer Donate Re-elect State Representative Tina Davis Volunteer Are you ready to help Tina win this campaign?
 Fill out the form below to let us know how you’d like to be involved.
-Skip to Main Content
-Volunteer
-Are you ready to help Tina win this campaign?
-Fill out the form below to let us know how you’d like to be involved.
-Get Involved
+Get Involved Name First Last Mobile Phone Email How can you help?
+Door knocking Phone calling Fundraising Putting up a lawn sign Other (specify below) Comments Friends of Tina Davis • 505 Grant Avenue • Croydon, PA 19021 • (267) 225-2978 Facebook © # Friends of Tina Davis • Paid for and Approved by Friends of Tina Davis • Log in Search Submit Search Menu Close Menu Activate Search Scroll to Top Home Volunteer Search About Tina Issues Volunteer Donate Close Close Modal Window Close

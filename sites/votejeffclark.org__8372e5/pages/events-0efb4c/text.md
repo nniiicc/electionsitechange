@@ -1,7 +1,4 @@
-Get Involved
-Join Jeff Clark on the trail across the 88th District
-1 upcoming event
-NOV 3
-Election Day — Vote Jeff Clark
-General Election · 88th Pennsylvania House District
-Support the Campaign
+JEFF CLARK 88TH DISTRICT ☰ Home About Issues Events Donate Join Contact ★ VOTE NOVEMBER 3 — General Election | Jeff Clark for State Representative · 88th District ★ Get Involved Campaign Events Join Jeff Clark on the trail across the 88th District 1 upcoming event Nov 3 Tue Election Day 7:00 AM – 8:00 PM ET Vote in person at your local precinct!
+Add to Calendar ★ DECORATED VETERAN ★ CAREER LAW ENFORCEMENT ★ DEDICATED TO PUBLIC SERVICE NOV 3 Election Day — Vote Jeff Clark General Election · 88th Pennsylvania House District Support the Campaign JEFF CLARK State Representative — 88th District Home About Issues Events Donate Join Contact Setting the Record Straight (717) 615-0872 votejeffclark@gmail.com Facebook Paid for by Friends for Jeff Clark PAC. © # Friends for Jeff Clark.
+All Rights Reserved.
+Privacy Policy

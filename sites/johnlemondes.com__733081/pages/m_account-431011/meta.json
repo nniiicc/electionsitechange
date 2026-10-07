@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://johnlemondes.com/m/login?r=%2Fm%2Faccount",
- "paid_for_by": null,
+ "fingerprint": "a963ce968635e7d1c614ee25dc7d970895ab2893",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login",
  "years_mentioned": []
 }

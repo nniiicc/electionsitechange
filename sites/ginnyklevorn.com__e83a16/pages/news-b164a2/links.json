@@ -1,22 +1,106 @@
 [
-"http://2020census.gov/jobs",
-"http://facebook.com/ginnyklevorn",
-"http://twitter.com/ginnyklevorn",
-"https://ccxmedia.org/news/lawmakers-visit-plymouth-creek-center-to-hear-bonding-request",
-"https://facebook.com/ginnyklevorn",
-"https://ginnyklevorn.com/",
-"https://ginnyklevorn.com/blog/author/admin",
-"https://ginnyklevorn.com/community",
-"https://ginnyklevorn.com/endorsements",
-"https://ginnyklevorn.com/issues",
-"https://ginnyklevorn.com/meet-ginny",
-"https://ginnyklevorn.com/volunteer",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fccxmedia.org%2Fnews%2Fhouse-approves-renaming-rockford-road-bridge-to-honor-fallen-mndot-worker%2F&ved=2ahUKEwiFwJDluNmGAxWLJdAFHRFkAyg4HhAWegQIBRAB&usg=AOvVaw0a4toQcG6mJAaeqBWyQTnH",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fccxmedia.org%2Fnews%2Fnewsmakers-rep-klevorn-proposes-task-force-on-aging%2F&ved=2ahUKEwi209Kk8NiGAxXTHNAFHf-XD8YQFnoECB8QAQ&usg=AOvVaw2myYwjLV3GfjdJ0-ZC3ngb",
-"https://google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT08yqVqC2tU&ved=2ahUKEwi209Kk8NiGAxXTHNAFHf-XD8YQwqsBegQIChAG&usg=AOvVaw0v69QdMgjPz1htiAoVK2w7",
-"https://hometownsource.com/sun_sailor/free/editorial-the-u-s-census-and-why-it-matters/article_36409446-4780-11ea-ba36-670f331bcf45.html",
-"https://instagram.com/ginnyklevorn",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1605&ssn=0&y=2019",
-"https://secure.actblue.com/contribute/page/ginny-klevorn-for-representative-1?utf8=%E2%9C%93&commit=Contribute",
-"https://twitter.com/GinnyKlevorn?lang=en"
+{
+"text": "2020census.gov/jobs",
+"href": "http://2020census.gov/jobs"
+},
+{
+"text": "Community",
+"href": "https://www.ginnyklevorn.com/community/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/ginny-klevorn-for-representative-1?utf8=%E2%9C%93&amount=&commit=Contribute"
+},
+{
+"text": "Editorial – Sun Sailor",
+"href": "https://www.hometownsource.com/sun_sailor/free/editorial-the-u-s-census-and-why-it-matters/article_36409446-4780-11ea-ba36-670f331bcf45.html"
+},
+{
+"text": "Email",
+"href": "mailto:voteginny@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ginnyklevorn.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ginnyklevorn/"
+},
+{
+"text": "Follow @GinnyKlevorn on Instagram",
+"href": "https://www.instagram.com/ginnyklevorn/"
+},
+{
+"text": "Follow @GinnyKlevorn on Twitter",
+"href": "http://twitter.com/ginnyklevorn"
+},
+{
+"text": "Home",
+"href": "https://www.ginnyklevorn.com/"
+},
+{
+"text": "House Approves Renaming Rockford Road Bridge To Honor Fallen MNDOT Worker",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fccxmedia.org%2Fnews%2Fhouse-approves-renaming-rockford-road-bridge-to-honor-fallen-mndot-worker%2F&ved=2ahUKEwiFwJDluNmGAxWLJdAFHRFkAyg4HhAWegQIBRAB&usg=AOvVaw0a4toQcG6mJAaeqBWyQTnH"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginnyklevorn/"
+},
+{
+"text": "Issues",
+"href": "https://www.ginnyklevorn.com/issues/"
+},
+{
+"text": "Lawmakers Visit Plymouth Creek Center To Hear Bonding Request",
+"href": "https://ccxmedia.org/news/lawmakers-visit-plymouth-creek-center-to-hear-bonding-request/"
+},
+{
+"text": "Meet Ginny",
+"href": "https://www.ginnyklevorn.com/meet-ginny/"
+},
+{
+"text": "Newsmakers: Rep Ginny Klevorn on Redevelopment Projects",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT08yqVqC2tU&ved=2ahUKEwi209Kk8NiGAxXTHNAFHf-XD8YQwqsBegQIChAG&usg=AOvVaw0v69QdMgjPz1htiAoVK2w7"
+},
+{
+"text": "VIDEO – Rep. Klevorn Proposes Task Force on Aging",
+"href": "https://www.google.com/url?sa=t&rct=j&opi=89978449&url=https%3A%2F%2Fccxmedia.org%2Fnews%2Fnewsmakers-rep-klevorn-proposes-task-force-on-aging%2F&ved=2ahUKEwi209Kk8NiGAxXTHNAFHf-XD8YQFnoECB8QAQ&usg=AOvVaw2myYwjLV3GfjdJ0-ZC3ngb"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ginnyklevorn.com/volunteer/"
+},
+{
+"text": "VoteGinnyDirector@gmail.com",
+"href": "mailto:VoteGinnyDirector@gmail.com"
+},
+{
+"text": "X",
+"href": "https://twitter.com/GinnyKlevorn?lang=en"
+},
+{
+"text": "[image: Ginny Klevorn for Minnesota House 42B Logo] [image: Ginny Klevorn for Minnesota House 42B Logo] [image: Ginny Klevorn for Minnesota House 42B Logo]",
+"href": "https://www.ginnyklevorn.com/"
+},
+{
+"text": "admin",
+"href": "https://www.ginnyklevorn.com/blog/author/admin/"
+},
+{
+"text": "here",
+"href": "https://www.ginnyklevorn.com/"
+},
+{
+"text": "legislation",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1605&ssn=0&y=2019"
+},
+{
+"text": "mara@dlcc.org",
+"href": "mailto:mara@dlcc.org"
+},
+{
+"text": "“Like” the Ginny Klevorn Facebook Page",
+"href": "http://www.facebook.com/ginnyklevorn/"
+}
 ]

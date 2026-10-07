@@ -1,10 +1,34 @@
 [
-"https://instagram.com/sierraforpa",
-"https://secure.actblue.com/donate/sierraforpa",
-"https://sierraforpa.com/",
-"https://sierraforpa.com/cart",
-"https://sierraforpa.com/endorsements",
-"https://sierraforpa.com/meet-sierra",
-"https://sierraforpa.com/platform",
-"https://sierraforpa.com/volunteer"
+{
+"text": "0",
+"href": "https://www.sierraforpa.com/cart"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.actblue.com/donate/sierraforpa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sierraforpa.com/endorsements"
+},
+{
+"text": "Meet Sierra",
+"href": "https://www.sierraforpa.com/meet-sierra"
+},
+{
+"text": "Platform",
+"href": "https://www.sierraforpa.com/platform"
+},
+{
+"text": "Volunteer!",
+"href": "https://www.sierraforpa.com/volunteer"
+},
+{
+"text": "[image: Sierra McNeil For PA]",
+"href": "https://www.sierraforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sierraforpa/"
+}
 ]

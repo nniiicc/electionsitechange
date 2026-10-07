@@ -1,17 +1,15 @@
-top of page
-DONATE
-Sandra is not backed by corporate donors — she's backed by people like you.
+top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
+All Posts Events Virtual Town Hall Sundays with Sandra Sandra Van Scotter Rebuttal Meet & Greet First Day of Canvassing in Lemoore 9/11/26 Team Sandra Sep 7 Tehachapi Residents: Rally for Sandra on Tuesday 9-8-26!
+Team Sandra Sep 6 Meet & Greet with Congressional Candidate Sandra Van Scotter Thursday, August 20 at 6PM Team Sandra Aug 12 Join us for "Sundays with Sandra" - A Virtual Town Hall on 8/9/26 at 7PM Team Sandra Aug 3 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
 Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
 No contribution is too small.
 A grassroots candidate can only win with grassroots support.
-SUBSCRIBE TO OUR NEWSLETTER
-Get the latest updates
-from the campaign trail.
-Committee for Sandra Van Scotter for Congress FEC Committee ID C00922666
-Questions or comments?
+DONATE TO THE CAMPAIGN SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail.
+Join our mailing list Email * Subscribe By submitting your email, you give explicit consent to receive emails updates from Sandra Van Scotter for Congress.
+You can unsubscribe at any time via the link at the bottom of our emails. * Phone Sign up for SMS Text campaign updates.
+By providing your phone number, you consent to receive recurring text messages from Sandra Van Scotter for Congress about campaign updates, events, and volunteering.
+Msg & data rates may apply.
+Reply STOP to opt out.
+Submit Home Meet Sandra Issues Volunteer Donate Contact Terms & Conditions Privacy Policy Committee for Sandra Van Scotter for Congress FEC Committee ID C00922666 Questions or comments?
 Let us know!
-Email me directly at sandra@sandra4cd20.com
-Sandra Van Scotter for Congress
-PO Box 1385
-Ridgecrest, CA 93556
-bottom of page
+Email me directly at sandra@sandra 4cd20.com Sandra Van Scotter for Congress PO Box 1385 Ridgecrest, CA 93556 bottom of page

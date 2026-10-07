@@ -1,9 +1,38 @@
 [
-"https://facebook.com/heatherbaldwinforstaterep",
-"https://heatherpbaldwin.com/",
-"https://heatherpbaldwin.com/endorsements",
-"https://heatherpbaldwin.com/get-involved",
-"https://heatherpbaldwin.com/meet-heather",
-"https://heatherpbaldwin.com/platform",
-"https://secure.actblue.com/donate/heather-baldwin-for-state-rep-1"
+{
+"text": "About Me",
+"href": "https://www.heatherpbaldwin.com/meet-heather"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/heather-baldwin-for-state-rep-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.heatherpbaldwin.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.heatherpbaldwin.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.heatherpbaldwin.com"
+},
+{
+"text": "MEET HEATHER",
+"href": "https://www.heatherpbaldwin.com/meet-heather"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.heatherpbaldwin.com/platform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/heatherbaldwinforstaterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.heatherpbaldwin.com/meet-heather"
+}
 ]

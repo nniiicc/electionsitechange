@@ -1,1 +1,1 @@
-Connections: Sarah Clark, candidate for NYS Assembly (WXXI News, October 7, 2024) October 7, 2024 Listen at WXXI News
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate Connections: Sarah Clark, candidate for NYS Assembly (WXXI News, October 7, 2024) October 7, 2024 Listen at WXXI News Post navigation Advocates push Hochul to sign child care bills geared toward modernizing assistance process Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

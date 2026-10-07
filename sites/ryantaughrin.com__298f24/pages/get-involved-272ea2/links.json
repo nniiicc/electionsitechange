@@ -1,12 +1,50 @@
 [
-"https://facebook.com/taughrinforassembly",
-"https://instagram.com/taughrinfor143assembly",
-"https://ryantaughrin.com/",
-"https://ryantaughrin.com/endorsements",
-"https://ryantaughrin.com/get-involved",
-"https://ryantaughrin.com/inthenews",
-"https://ryantaughrin.com/meet-ryan",
-"https://ryantaughrin.com/platform",
-"https://ryantaughrin.com/privacy-policy",
-"https://secure.actblue.com/donate/ryan-taughrin-kickoff"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ryan-taughrin-kickoff"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ryantaughrin.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ryantaughrin.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.ryantaughrin.com"
+},
+{
+"text": "MEET RYAN",
+"href": "https://www.ryantaughrin.com/meet-ryan"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.ryantaughrin.com/platform"
+},
+{
+"text": "Paid for by the Committee to Elect Ryan Taughrin - Privacy Policy",
+"href": "https://www.ryantaughrin.com/privacy-policy"
+},
+{
+"text": "Please click here to read our privacy policy.",
+"href": "https://www.ryantaughrin.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ryantaughrin.com/privacy-policy"
+},
+{
+"text": "RYAN IN THE NEWS",
+"href": "https://www.ryantaughrin.com/inthenews"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/taughrinforassembly"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/taughrinfor143assembly/"
+}
 ]

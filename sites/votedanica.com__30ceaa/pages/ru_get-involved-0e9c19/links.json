@@ -1,14 +1,78 @@
 [
-"https://linkedin.com/in/danica-boyd-hartenfels",
-"https://votedanica.com/es/get-involved",
-"https://votedanica.com/get-involved",
-"https://votedanica.com/he/get-involved",
-"https://votedanica.com/pl/get-involved",
-"https://votedanica.com/ru",
-"https://votedanica.com/ru/contact",
-"https://votedanica.com/ru/events",
-"https://votedanica.com/ru/get-involved",
-"https://votedanica.com/ru/meet-danica",
-"https://votedanica.com/ru/news",
-"https://votedanica.com/zh/get-involved"
+{
+"text": "[image: Danica Hartenfels for State Representative]",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "[image: Danica Hartenfels for State Representative][image]",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "[image: English] English en",
+"href": "https://www.votedanica.com/get-involved"
+},
+{
+"text": "[image: Español] Español es",
+"href": "https://www.votedanica.com/es/get-involved"
+},
+{
+"text": "[image: polski] polski pl",
+"href": "https://www.votedanica.com/pl/get-involved"
+},
+{
+"text": "[image: русский] русский ru",
+"href": "https://www.votedanica.com/ru/get-involved"
+},
+{
+"text": "[image: עברית] עברית he",
+"href": "https://www.votedanica.com/he/get-involved"
+},
+{
+"text": "[image: 简体中文] 简体中文 zh",
+"href": "https://www.votedanica.com/zh/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/danica-boyd-hartenfels/"
+},
+{
+"text": "[no text]",
+"href": "mailto:danica@votedanica.com"
+},
+{
+"text": "Внесите свой вклад сегодня",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "Дом",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "Зарегистрируйтесь в качестве волонтера",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "Знакомьтесь, Даника",
+"href": "https://www.votedanica.com/ru/meet-danica"
+},
+{
+"text": "Контакт",
+"href": "https://www.votedanica.com/ru/contact"
+},
+{
+"text": "Новости",
+"href": "https://www.votedanica.com/ru/news"
+},
+{
+"text": "Примите участие",
+"href": "https://www.votedanica.com/ru/get-involved"
+},
+{
+"text": "Присоединяйтесь к нашей онлайн-команде",
+"href": "https://www.votedanica.com/ru"
+},
+{
+"text": "События",
+"href": "https://www.votedanica.com/ru/events"
+}
 ]

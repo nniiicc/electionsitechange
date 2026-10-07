@@ -1,7 +1,4 @@
-Speaker of the Illinois House and Cook County Democratic Party Vice Chair Calls for Condemnation of Supreme Court Decision Undermining Voting Rights Act Casimir StopaMay 5, 2026
-Join Team Welch and float that keeps the Forest Park St.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House Posts by Casimir Stopa Speaker of the Illinois House and Cook County Democratic Party Vice Chair Calls for Condemnation of Supreme Court Decision Undermining Voting Rights Act Casimir Stopa May 5, 2026 Primary 2026 Voting Guide Casimir Stopa March 3, 2026 Join Team Welch and float that keeps the Forest Park St.
 Patrick’s Day Parade Rockin!
-Casimir StopaJanuary 27, 2026
-Illinois Speaker to Host 4th Annual Blue Christmas Toy Drive and Fundraiser Dec. 10 Casimir StopaNovember 25, 2025
-7th Congressional District Reps and Latino Caucus Step Up with Welch for 7th District State Central Committeeman Casimir StopaSeptember 15, 2025
-7th Congressional District State Reps Deepen the Call for Welch as State Central Committeeman Casimir StopaSeptember 10, 2025
+Casimir Stopa January 27, 2026 Illinois Speaker to Host 4th Annual Blue Christmas Toy Drive and Fundraiser Dec.
+10 Casimir Stopa November 25, 2025 Endorsing La Shawn Ford for Congress Casimir Stopa October 6, 2025 MWRD President Kari Steele with Welch for Central Committeeman Casimir Stopa September 16, 2025 7th Congressional District Reps and Latino Caucus Step Up with Welch for 7th District State Central Committeeman Casimir Stopa September 15, 2025 7th Congressional District State Reps Deepen the Call for Welch as State Central Committeeman Casimir Stopa September 10, 2025 Older Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

@@ -1,11 +1,5 @@
-Signed in as:
-filler@godaddy.com
-• Create a public fraud-and-recovery dashboard across major state programs.
-• Strengthen independent investigation and audit authority, with clear follow-up deadlines for agencies.
-• Improve whistleblower protections and reporting channels for employees, providers and the public.
-• Use cross-agency data matching and analytics to flag suspicious claims before payment.
-• Recover misspent funds aggressively and suspend high-risk providers when the law and evidence support it.
-Consider the impact of just one of the many instances - The Legislative Auditor concluded that inadequate MDE oversight of Feeding Our Future created opportunities for fraud and that warning signs were missed.
+Home About Issues Endorsements Volunteer Events Contact More Home About Issues Endorsements Volunteer Events Contact Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Donate Signed in as: filler@godaddy.com Home About Issues Endorsements Volunteer Events Contact Account My Account Sign out Sign In My Account Donate Fighting Fraud & Restoring Accountability Taxpayers should not learn about weak controls only after millions of dollars are gone.
+Minnesota needs prevention, independent oversight and transparent follow-through — with the public able to see what was identified, what was stopped, what was recovered and what changed. • Create a public fraud-and-recovery dashboard across major state programs. • Strengthen independent investigation and audit authority, with clear follow-up deadlines for agencies. • Improve whistleblower protections and reporting channels for employees, providers and the public. • Use cross-agency data matching and analytics to flag suspicious claims before payment. • Recover misspent funds aggressively and suspend high-risk providers when the law and evidence support it.
+WHY IT MATTERS: Consider the impact of just one of the many instances - The Legislative Auditor concluded that inadequate MDE oversight of Feeding Our Future created opportunities for fraud and that warning signs were missed.
 By July 2026, federal prosecutors reported 68 convictions in the Feeding Our Future case alone.
-Prepared and paid for by
-The Tom McKee for House Committee
+About Issues Endorsements Donate Privacy Policy Prepared and paid for by The Tom McKee for House Committee 6633 Bridle Path, Corcoran, MN 55340 Gallery

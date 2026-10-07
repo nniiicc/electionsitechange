@@ -1,19 +1,7 @@
-Voter Information
-Upcoming Statewide Elections
-August 11, 2026 - AUGUST PRIMARY
-You can find helpful information and register to vote at the Vermont Secretary of State Website Vote.Vermont.Gov
-Voters can vote early in person at their town or city clerk’s office or by mail.
-You can request an absentee ballot online via the Vermont Voter Portal.
-If you prefer paper, please download the early/absentee ballot request form, fill it out, then return it to your town clerk's office.
+Meet Dee Issues News Volunteer Contribute Voter Information Upcoming Statewide Elections August 11, 2026 - AUGUST PRIMARY November 3, 2026 - 2026 GENERAL ELECTION You can find helpful information and register to vote at the Vermont Secretary of State Website Vote.Vermont.Gov Voters can vote early in person at their town or city clerk’s office or by mail.
+You can request an absentee ballot online via the Vermont Voter Portal .
+If you prefer paper, please download the early/absentee ballot request form , fill it out, then return it to your town clerk's office.
 You do not need to request a general election ballot for the November 3 election.
 As required by state law, Vermont automatically mails ballots to all qualified voters by October 1 of each even-numbered year.
-Our Town Clerks:
-Norwich Town Clerk - Lily Trajman - 802-649-1419 x2 - email clerk@norwich.vt.us
-Sharon Town Clerk - Cathy Sartor - 802-763-8268 x1 - email clerk@sharonvt.gov
-Strafford Town Clerk - Lisa Bragg - 802765-4411 - email townclerk@straffordvt.org
-Thetford Town Clerk - Tracy Borst - 802-785-2922 x100 - email townclerk@thetfordvt.gov
-Our Polling Places for the August 11 Primary:
-Norwich: Tracy Hall - 300 Main Street - 7:00 am - 7:00 pm
-Sharon: Sharon Congregational Church 7:00 am - 7:00 pm (not Sharon Elementary School due to school construction)
-Strafford: Town House 10:00 am - 7:00 pm
-Thetford: Town Hall 8:00 am - 7:00 pm
+Our Town Clerks: Norwich Town Clerk - Lily Trajman - 802-649-1419 x2 - email clerk@norwich.vt.us Sharon Town Clerk - Cathy Sartor - 802-763-8268 x1 - email clerk@sharonvt.gov Strafford Town Clerk - Lisa Bragg - 802765-4411 - email townclerk@straffordvt.org Thetford Town Clerk - Tracy Borst - 802-785-2922 x100 - email townclerk@thetfordvt.gov Our Polling Places for the August 11 Primary: Norwich: Tracy Hall - 300 Main Street - 7:00 am - 7:00 pm Sharon: Sharon Congregational Church 7:00 am - 7:00 pm (not Sharon Elementary School due to school construction) Strafford: Town House 10:00 am - 7:00 pm Thetford: Town Hall 8:00 am - 7:00 pm VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Photos Contact Paid for by the Campaign Fund of Dee Gish for Vermont PO Box 265 Sharon, VT 05065 Powered by CampaignPartner.com - Political Websites Home Meet Dee Issues Endorsements Contribute Volunteer News Contact Voter Information Close Menu

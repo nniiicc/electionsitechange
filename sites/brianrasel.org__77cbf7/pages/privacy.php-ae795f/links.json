@@ -1,5 +1,26 @@
 [
-"http://html5up.net/",
-"https://brianrasel.org/index.php",
-"https://brianrasel.org/privacy.php"
+{
+"text": "HTML5 UP",
+"href": "http://html5up.net"
+},
+{
+"text": "Join Team Rasel",
+"href": "https://brianrasel.org/index.php#join"
+},
+{
+"text": "Meet Brian",
+"href": "https://brianrasel.org/index.php#one"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianrasel.org/privacy.php"
+},
+{
+"text": "Support",
+"href": "https://brianrasel.org/index.php#support"
+},
+{
+"text": "friendsofbrianrasel@gmail.com",
+"href": "mailto:friendsofbrianrasel@gmail.com"
+}
 ]

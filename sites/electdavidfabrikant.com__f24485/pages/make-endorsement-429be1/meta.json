@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.electdavidfabrikant.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "5e881cc8b2351a0a7a9755487786ed5b0ce844e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

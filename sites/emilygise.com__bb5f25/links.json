@@ -1,9 +1,50 @@
 [
-"https://emilygise.com/",
-"https://emilygise.com/district-map",
-"https://emilygise.com/meet-emily",
-"https://emilygise.com/offer-support",
-"https://emilygise.com/the-campaign-trail",
-"https://emilygise.com/top-priorities",
-"https://okvoterportal.okelections.gov/"
+{
+"text": "(405) 367-5525",
+"href": "tel:4053675525"
+},
+{
+"text": "About Emily",
+"href": "https://emilygise.com/meet-emily"
+},
+{
+"text": "Click here to find your polling location",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "District Map",
+"href": "https://emilygise.com/district-map"
+},
+{
+"text": "Home",
+"href": "https://emilygise.com/"
+},
+{
+"text": "Learn more",
+"href": "https://emilygise.com/offer-support"
+},
+{
+"text": "Meet Emily",
+"href": "https://emilygise.com/meet-emily"
+},
+{
+"text": "Offer Support",
+"href": "https://emilygise.com/offer-support"
+},
+{
+"text": "The Campaign Trail",
+"href": "https://emilygise.com/the-campaign-trail"
+},
+{
+"text": "Top Priorities",
+"href": "https://emilygise.com/top-priorities"
+},
+{
+"text": "[image: EmilyGise]",
+"href": "https://emilygise.com/"
+},
+{
+"text": "emilygiseforokhouse@gmail.com",
+"href": "mailto:emilygiseforokhouse@gmail.com"
+}
 ]

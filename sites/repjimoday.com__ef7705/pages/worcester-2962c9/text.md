@@ -1,18 +1,6 @@
-Jim O Day
-State Representative for the 14th Worcester district of Massachusetts
-worcester
-biotechnology
-Representative O'Day successfully fought for legislation transferring highly desirable land for the benefit of the Worcester biotechnology and life sciences industry.
-This land plays an important role in the economic development of Worcester as a hub of technology and a driver of innovation.
-worcester public library
-During the FY16 budget process, Representative O'Day succeeded in securing $446,828 for the Worcester Talking Book Library located at the Worcester Public Library.
-This provides free services to Massachusetts residents of any age who are unable to read traditional print materials due to a visual or physical disability
-worcester casa program
-During the FY20 budget process, Representative O'Day advocated to secure $250,000 for Worcester Court-Appointed Special Advocates Program to provide court-based advocacy for children who have experienced abuse and neglect.
-Asian Longhorned Beetle Eradication
-A bill to impose civil penalties of up to $25,000 on anyone who violates the state wood removal quarantine or obstructs those working to eradicate the Asian longhorned beetle in Worcester and surrounding communities, filed by Rep.
-Jim O’Day, was signed by the governor in the midst of the Asian Longhorned Beetle crisis in Worcester.
-tree replanting
-For the 2020 Fiscal Budget, Representative O'Day is committed to keeping Worcester green and beautiful, and successfully secured $150,000 towards the reforestation of areas of Worcester where foliage was damaged by the beetle.
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items. worcester biotechnology Representative O'Day successfully fought for legislation transferring highly desirable land for the benefit of the Worcester biotechnology and life sciences industry.
+This land plays an important role in the economic development of Worcester as a hub of technology and a driver of innovation. ​ worcester public library During the FY16 budget process, Representative O'Day succeeded in securing $446,828 for the Worcester Talking Book Library located at the Worcester Public Library.
+This provides free services to Massachusetts residents of any age who are unable to read traditional print materials due to a visual or physical disability ​ worcester casa program During the FY20 budget process, Representative O'Day advocated to secure $250,000 for Worcester Court-Appointed Special Advocates Program to provide court-based advocacy for children who have experienced abuse and neglect. ​ Asian Longhorned Beetle Eradication A bill to impose civil penalties of up to $25,000 on anyone who violates the state wood removal quarantine or obstructs those working to eradicate the Asian longhorned beetle in Worcester and surrounding communities, filed by Rep.
+Jim O’Day, was signed by the governor in the midst of the Asian Longhorned Beetle crisis in Worcester. ​ tree replanting For the 2020 Fiscal Budget, Representative O'Day is committed to keeping Worcester green and beautiful, and successfully secured $150,000 towards the reforestation of areas of Worcester where foliage was damaged by the beetle.
 Representative O’Day is also an active member of the Worcester Tree Initiative, whose ongoing efforts to restore the urban canopy of the City of Worcester have played a tremendously positive role in reversing the devastating effects of the beetle in the City of Worcester and surround towns.
-For more information on the Worcester Tree Initiative, please visit:
+For more information on the Worcester Tree Initiative, please visit: www.treeworcester.org bottom of page

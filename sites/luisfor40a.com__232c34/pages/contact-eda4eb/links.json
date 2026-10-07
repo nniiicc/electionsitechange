@@ -1,11 +1,50 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fcampaign-fund-of-luis-withrow%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw25DnQR5m5OF5B_wqhw8mYS",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fpeople%2FLuis-Withrow-for-MN-House-40A%2F61566721221065%2F&sa=D&sntz=1&usg=AOvVaw3taNDTjjuE8rS-7G1vFq5G",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fluisforhouse40a&sa=D&sntz=1&usg=AOvVaw3dFwz_DgSiiyus7_tKEYv2",
-"https://luisfor40a.com/about-luis",
-"https://luisfor40a.com/contact",
-"https://luisfor40a.com/events",
-"https://luisfor40a.com/luis-for-40a",
-"https://luisfor40a.com/on-the-issues",
-"https://luisfor40a.com/volunteer"
+{
+"text": "About Luis",
+"href": "https://www.luisfor40a.com/about-luis"
+},
+{
+"text": "Contact",
+"href": "https://www.luisfor40a.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.winred.com%2Fcampaign-fund-of-luis-withrow%2Fdonate-today&sa=D&sntz=1&usg=AOvVaw25DnQR5m5OF5B_wqhw8mYS"
+},
+{
+"text": "Events",
+"href": "https://www.luisfor40a.com/events"
+},
+{
+"text": "Luis for 40A",
+"href": "https://www.luisfor40a.com/luis-for-40a"
+},
+{
+"text": "On the Issues",
+"href": "https://www.luisfor40a.com/on-the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.luisfor40a.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fpeople%2FLuis-Withrow-for-MN-House-40A%2F61566721221065%2F&sa=D&sntz=1&usg=AOvVaw3taNDTjjuE8rS-7G1vFq5G"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fluisforhouse40a&sa=D&sntz=1&usg=AOvVaw3dFwz_DgSiiyus7_tKEYv2"
+},
+{
+"text": "[image]",
+"href": "https://www.luisfor40a.com/luis-for-40a"
+},
+{
+"text": "[image]Luis for 40A",
+"href": "https://www.luisfor40a.com/luis-for-40a"
+},
+{
+"text": "luisfor40a@gmail.com",
+"href": "mailto:luisfor40a@gmail.com"
+}
 ]

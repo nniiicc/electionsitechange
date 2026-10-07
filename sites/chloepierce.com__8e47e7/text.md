@@ -1,7 +1,7 @@
-Chloe Pierce is running for Assembly to build a stronger Capital Region for everyone.
+0 Skip to Content About Issues Endorsements Volunteer Donate Open Menu Close Menu About Issues Endorsements Volunteer Donate Open Menu Close Menu About Issues Endorsements Volunteer Donate Chloe Pierce is running for Assembly to build a stronger Capital Region for everyone.
 Chloe Pierce is a lifelong Capital Region resident and proven advocate already delivering results for our communities.
 With years of experience working alongside legislative offices, coalitions, and policy experts, Chloe knows state government and how to make it work better for everyday New Yorkers.
-Growing up across Rensselaer, Albany, Washington, and Columbia Counties - where her family has called home for generations - shaped Chloe’s understanding of the real challenges families face,from rising costs to access to healthcare and healthy foods.
+Growing up across Rensselaer, Albany, Washington, and Columbia Counties - where her family has called home for generations - shaped Chloe’s understanding of the real challenges families face, from rising costs to access to healthcare and healthy foods.
 Those deep local roots fuel her commitment to showing up, listening, and fighting for every corner of the district.
 Chloe began her advocacy career at AARP, where she worked to protect seniors from scams and expand programs that help older adults age with dignity at home.
 She later became a nonprofit lobbyist partnering with farmers, nurses, healthcare professionals, and clean energy leaders to tackle affordability and challenges across New York State.
@@ -12,44 +12,5 @@ Chloe is running for Assembly to bring proven, effective leadership to Albany an
 Democrat Chloe Pierce will fight for the change we need.
 Chloe Pierce is a lifelong Capital Region resident and proven advocate who knows we deserve more from our state government.
 Chloe knows what it means to live paycheck to paycheck, and she’s tired of do-nothing politicians who live in luxury while regular families struggle.
-She’s running to un-rig state government:
-Stop utilities costs from increasing
-Address the high cost of housing
-Invest in our schools and vocational education
-Expand access to healthcare and childcare
-Support our small businesses and create jobs and economic opportunity
-Strengthen our local infrastructure
-Chloe is endorsed by:
-- Tom DiNapoli NYS Comptroller
-- CWA
-- 1199 SEIU
-- New York State Nurses Association
-- PEF
-- Police Conference of New York
-- Planned Parenthood Empire State Votes
-- Open New York
-- Patriot Fund Police Conference
-of New York
-- Run For Something
-- Rensselaer County Women for Change
-- Working Families Party
-- Albany County Democratic Committee
-- Bethlehem Democratic Committee
-- Columbia County Democratic Committee
-- Capital Women
-- College Democrats of New York
-- NYS Federation of Democratic Women
-- New York State Young Democrats
-- Rensselaer County Democratic Committee
-- Washington County Democratic Committee
-- Paul Tonko Congressmember
-- Josh Riley Congressmember
-- Pat Fahy State Senator
-- Michelle Hinchey State Senator
-- Phil Steck Assembly Member
-- John McDonald Assembly Member
-- Anna Kelles Assembly Member
-- Mary Frances Sabo Rensselaer County Legislator
-- Sam Fein Albany Chief City Auditor
-- Greg Campbell-Cohen Troy City Council Member
-- Devin Lander Candidate for State Senate in the 43rd District
+She’s running to un-rig state government: Stop utilities costs from increasing Address the high cost of housing Invest in our schools and vocational education Expand access to healthcare and childcare Support our small businesses and create jobs and economic opportunity Strengthen our local infrastructure Chloe is endorsed by: Tom DiNapoli NYS Comptroller CWA 1199 SEIU New York State Nurses Association PEF Police Conference ‍of New York Planned Parenthood Empire State Votes Open New York Patriot Fund Police Conference ‍of New York Run For Something Rensselaer County Women for Change Working Families Party Albany County Democratic Committee Bethlehem Democratic Committee Columbia County Democratic Committee Capital Women College Democrats of New York NYS Federation of Democratic Women New York State Young Democrats Rensselaer County Democratic Committee Washington County Democratic Committee Paul Tonko Congressmember Josh Riley Congressmember Pat Fahy State Senator Michelle Hinchey State Senator Phil Steck Assembly Member John McDonald Assembly Member Anna Kelles Assembly Member Mary Frances Sabo Rensselaer County Legislator Sam Fein Albany Chief City Auditor Greg Campbell-Cohen Troy City Council Member Devin Lander Candidate for State Senate in the 43rd District Sign up to volunteer.
+PAID FOR BY CHLOE PIERCE FOR NY phone: 518-606-0523 email: teamchloeforny@gmail.com Address: PO Box 7278, Albany, NY 12224 Make checks out to Chloe Pierce for NY

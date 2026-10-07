@@ -1,16 +1,13 @@
-Oklahoma City, OK – In a major announcement yesterday, the Oil and Gas Workers Association (OGWA) endorsed Jon Echols in his race for Oklahoma Attorney General.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Oil & Gas Workers Association Endorses Echols for Attorney General March 5, 2026 Oklahoma City, OK – In a major announcement yesterday, the Oil and Gas Workers Association (OGWA) endorsed Jon Echols in his race for Oklahoma Attorney General.
 The endorsement comes as Echols continues to build a massive coalition of support.
-The OGWA is a conservative grassroots independent trade organization that works to “secure, grow, and sustain American oil and gas jobs and fighting for American workers.”
-Commenting on the endorsement, Echols said “The oil and gas industry is critical to our amazing state.
+The OGWA is a conservative grassroots independent trade organization that works to “secure, grow, and sustain American oil and gas jobs and fighting for American workers.” Commenting on the endorsement, Echols said “ The oil and gas industry is critical to our amazing state.
 I am thankful for the endorsement of a great conservative grassroots organization like the OGWA.
-I appreciate all the amazing work they do and look forward to standing strong with the amazing men and women who work every day to keep Oklahoma and the nation powered.”
-In announcing their endorsement of Echols, the Association released the following statement:
-“Jon Echols understands the issues that are hurting hardworking Oklahoma families.
+I appreciate all the amazing work they do and look forward to standing strong with the amazing men and women who work every day to keep Oklahoma and the nation powered. ” In announcing their endorsement of Echols, the Association released the following statement: “Jon Echols understands the issues that are hurting hardworking Oklahoma families.
 Jon takes time to talk with us “average Joe” people, hears our concerns, and finds a way to address them.
 Jon has the endorsement of most Oklahoma sheriffs, and we agree with them.
 His experience working with all parties in the House of Representatives and legislation to hold criminals accountable prove Jon Echols will work for all Oklahomans.
-Oil & Gas Workers Association proudly endorses Jon Echols for Attorney General.”
-Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
+Oil & Gas Workers Association proudly endorses Jon Echols for Attorney General.” Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Holding the title for 8 years, he is the longest-serving Floor Leader in Oklahoma history.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer, and stronger.
-###
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Media Advisory: Echols to File for Attorney General Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.

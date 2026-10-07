@@ -1,7 +1,11 @@
 {
  "description": "Key dates, registration deadlines, and links to check your voter registration and find your polling place for the November 3, 2026 Indiana general election.",
  "final_url": "https://www.sarahblessing.com/voting-information/",
- "paid_for_by": null,
- "title": "Voting Information \u00b7 Sarah Blessing for House District 70",
- "years_mentioned": []
+ "fingerprint": "760bd8e38ed0f371ee80460741265cbe9b6cd85e",
+ "format": 3,
+ "paid_for_by": "authorized by Sarah Blessing for State House",
+ "title": "Voting Information · Sarah Blessing for House District 70",
+ "years_mentioned": [
+  "2026"
+ ]
 }

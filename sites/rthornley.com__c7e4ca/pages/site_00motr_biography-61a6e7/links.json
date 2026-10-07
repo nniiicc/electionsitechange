@@ -1,10 +1,34 @@
 [
-"https://sites.google.com/site/00motr/biography",
-"https://sites.google.com/site/00motr/contact-me",
-"https://sites.google.com/site/00motr/home",
-"https://sites.google.com/site/00motr/platform",
-"https://sites.google.com/site/00motr/testimonials",
-"https://tinyurl.com/2p9nj6ht",
-"https://tinyurl.com/36y5jnmm",
-"https://tinyurl.com/yrusuabk"
+{
+"text": "Biography",
+"href": "https://sites.google.com/site/00motr/biography"
+},
+{
+"text": "Contact Me",
+"href": "https://sites.google.com/site/00motr/contact-me"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/site/00motr/home"
+},
+{
+"text": "Platform",
+"href": "https://sites.google.com/site/00motr/platform"
+},
+{
+"text": "Testimonials",
+"href": "https://sites.google.com/site/00motr/testimonials"
+},
+{
+"text": "https://tinyurl.com/2p9nj6ht",
+"href": "https://tinyurl.com/2p9nj6ht"
+},
+{
+"text": "https://tinyurl.com/36y5jnmm",
+"href": "https://tinyurl.com/36y5jnmm"
+},
+{
+"text": "https://tinyurl.com/yrusuabk",
+"href": "https://tinyurl.com/yrusuabk"
+}
 ]

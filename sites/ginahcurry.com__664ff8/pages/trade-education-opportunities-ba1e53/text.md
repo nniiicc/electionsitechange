@@ -1,5 +1,5 @@
-Trade Education Opportunities
-Gina has a supportive relationship with the local unions.
+top of page Home Meet Gina Special Election 2021 State Representative Curry Platform & Legislation Economic Development Trade Education Opportunities Public Education Opportunities Affordable & Secure Housing Resources & Voting Get Involved More Use tab to navigate through the menu items.
+Trade Education Opportunities Gina has a supportive relationship with the local unions.
 As a child, the relationship was home grown because she has lived a life around trade, workforce development and education opportunities.
 Many of the men in her family were trade skilled.
 Her parents were both union employees as a bricklayer and as a teacher in the Baltimore area.
@@ -10,3 +10,5 @@ He believed that becoming a welder, plumber or an electrician would be a path to
 In essence, I see trade education programs as a partner with public schools similar to college.
 Apprenticeship programs, partnerships with schools, corporations and small businesses continue to be Gina’s top priority in the district.
 Trade opportunities should be prioritized as the grassroots partner with public education and provide economic opportunities within our communities.
+Paid for by Friends of Gina H.
+Curry PO BOX 1241 Lansdowne PA 19050 bottom of page

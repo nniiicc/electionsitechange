@@ -1,7 +1,12 @@
 {
  "description": "David Johnson in the News",
  "final_url": "https://davidjohnsonad23.com/news",
- "paid_for_by": null,
+ "fingerprint": "5ccbaa941b518ce1867b84e83621a28dd5992e7a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004",
+  "2026"
+ ]
 }

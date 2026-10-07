@@ -1,16 +1,62 @@
 [
-"https://electmoore.com/",
-"https://electmoore.com/cart",
-"https://electmoore.com/contact",
-"https://electmoore.com/donate",
-"https://electmoore.com/fighting-for-utah-families",
-"https://electmoore.com/meet-blake",
-"https://electmoore.com/privacy-policy",
-"https://electmoore.com/results",
-"https://electmoore.com/support",
-"https://electmoore.com/terms-conditions",
-"https://facebook.com/ElectBlakeMoore",
-"https://instagram.com/electblakemoore?hl=en",
-"https://secure.winred.com/blake-moore-for-congress/donate",
-"https://twitter.com/ElectBlakeMoore"
+{
+"text": "0",
+"href": "https://www.electmoore.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.electmoore.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmoore.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/blake-moore-for-congress/donate"
+},
+{
+"text": "Fighting for Utah Families",
+"href": "https://www.electmoore.com/fighting-for-utah-families"
+},
+{
+"text": "Home",
+"href": "https://www.electmoore.com/"
+},
+{
+"text": "Meet Blake",
+"href": "https://www.electmoore.com/meet-blake"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmoore.com/privacy-policy"
+},
+{
+"text": "Results",
+"href": "https://www.electmoore.com/results"
+},
+{
+"text": "Support",
+"href": "https://www.electmoore.com/support"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.electmoore.com/terms-conditions"
+},
+{
+"text": "[image: Blake Moore for Congress]",
+"href": "https://www.electmoore.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ElectBlakeMoore"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectBlakeMoore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electblakemoore/?hl=en"
+}
 ]

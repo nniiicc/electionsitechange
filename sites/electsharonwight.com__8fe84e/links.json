@@ -1,19 +1,86 @@
 [
-"https://ballotpedia.org/Indiana_House_of_Representatives_District_81",
-"https://electsharonwight.com/",
-"https://electsharonwight.com/about",
-"https://electsharonwight.com/blank",
-"https://electsharonwight.com/blank-1",
-"https://electsharonwight.com/blog",
-"https://electsharonwight.com/event-details/empathy-gala-voices-for-change",
-"https://electsharonwight.com/event-list",
-"https://electsharonwight.com/get-involved",
-"https://electsharonwight.com/platform",
-"https://electsharonwight.com/search",
-"https://electsharonwight.com/yard-sign-request",
-"https://facebook.com/electsharonwight",
-"https://gis.acimap.us/portal/apps/instant/sidebar/index.html?appid=fe72a4b7321643a4a5429bd516a60d67",
-"https://instagram.com/electsharonwight",
-"https://linktr.ee/electsharonwight",
-"https://secure.actblue.com/donate/sharon-wight"
+{
+"text": "About Sharon",
+"href": "https://www.electsharonwight.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.electsharonwight.com/blank-1"
+},
+{
+"text": "Details",
+"href": "https://www.electsharonwight.com/event-details/empathy-gala-voices-for-change"
+},
+{
+"text": "District 81 Map",
+"href": "https://ballotpedia.org/Indiana_House_of_Representatives_District_81"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sharon-wight"
+},
+{
+"text": "Election Day Interactive Map",
+"href": "https://gis.acimap.us/portal/apps/instant/sidebar/index.html?appid=fe72a4b7321643a4a5429bd516a60d67"
+},
+{
+"text": "Events",
+"href": "https://www.electsharonwight.com/event-list"
+},
+{
+"text": "Explore More",
+"href": "https://www.electsharonwight.com/platform"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electsharonwight.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electsharonwight.com"
+},
+{
+"text": "Media",
+"href": "https://www.electsharonwight.com/blog"
+},
+{
+"text": "Platform",
+"href": "https://www.electsharonwight.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electsharonwight.com/blank"
+},
+{
+"text": "Search Results",
+"href": "https://www.electsharonwight.com/search"
+},
+{
+"text": "Socials and More",
+"href": "https://linktr.ee/electsharonwight"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electsharonwight.com/get-involved"
+},
+{
+"text": "Wight for Indiana House",
+"href": "https://www.electsharonwight.com"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.electsharonwight.com/yard-sign-request"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electsharonwight"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electsharonwight"
+},
+{
+"text": "electsharonwight@gmail.com",
+"href": "mailto:electsharonwight@gmail.com"
+}
 ]

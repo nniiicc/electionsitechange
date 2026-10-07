@@ -1,10 +1,42 @@
 [
-"https://facebook.com/petzkeforidaho",
-"https://instagram.com/jamespetzke",
-"https://petzkeforidaho.com/",
-"https://petzkeforidaho.com/about-james",
-"https://petzkeforidaho.com/contact",
-"https://petzkeforidaho.com/donate",
-"https://petzkeforidaho.com/volunteer",
-"https://twitter.com/jamespetzke"
+{
+"text": "About James",
+"href": "https://petzkeforidaho.com/about-james/"
+},
+{
+"text": "Contact",
+"href": "https://petzkeforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://petzkeforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://petzkeforidaho.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://petzkeforidaho.com/volunteer/"
+},
+{
+"text": "[image: Logo] [image: Logo] [image: Logo] [image: Logo] [image: Logo]",
+"href": "https://petzkeforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://petzkeforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/jamespetzke"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/petzkeforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamespetzke"
+}
 ]

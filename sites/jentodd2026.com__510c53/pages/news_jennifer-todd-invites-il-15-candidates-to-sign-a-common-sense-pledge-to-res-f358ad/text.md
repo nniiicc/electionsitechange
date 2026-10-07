@@ -1,46 +1,23 @@
-PRESS RELEASE
-Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation
-FOR IMMEDIATE RELEASE
-December 11, 2025
-Contact:
-Jennifer Todd for Congress
-Email: Jennifer@JenTodd2026.us
-Phone: 618-251-1428
-Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation in IL-15, Vowing to End the “Chaos Tax” and Refocus on Constituent Needs
-Springfield, IL — Jennifer Todd, a mom, nurse, native Illinoisan, and candidate for Illinois’ 15th Congressional District, today released “A Common-Sense Pledge to Restore Real Representation in IL-15” and formally invited her fellow primary and general election candidates to sign it.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate PRESS RELEASE Big Beautiful Bill is Creating An Ambulance Emergency in Illinois 15 PRESS RELEASE Running Out of Time! 🕛 PRESS RELEASE Diesel and This Deadline Matter PRESS RELEASE Imagine PRESS RELEASE Outrage PRESS RELEASE Join Jennifer for an End-of-Quarter Fundraiser PRESS RELEASE WHERE’S THE BEEF?
+Jennifer Todd calls on Miller to Protect Illinois Beef NEWS ARTICLE Madison County Democrats rally at sold-out JFK Dinner in East Alton PRESS RELEASE You could FEEL it in the air the minute we arrived!
+PRESS RELEASE Following medical evidence PRESS RELEASE Illinois AFL-CIO Endorses Jennifer Todd for Congress in IL-15 PRESS RELEASE Mary Miller Needs to Answer for This PRESS RELEASE Congressional Candidate Jennifer Todd Endorsed by Citizen Action in Illinois’ 15th District news article Big Energy, Big Turnout: Madison County Democrats Kick Off 2026 Election Season News No Pride in Mary Miller’s proposal By SHIA KAPOS 06/09/2026 08:00 AM EDT PRESS RELEASE Jennifer Todd to Host Virtual Community Conversation on Data Centers in Illinois' 15th District News Democrat wants to unseat a 3-term Republican in ultra-conservative Illinois district PRESS RELEASE STRONGER TOGETHER: Todd’s Campaign Surges as Former Opponents Stand United PRESS RELEASE Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation PRESS RELEASE Jennifer Todd - Mary Miller Backs Education Changes That Endanger Critical Jobs in IL-15 PRESS RELEASE An Open Letter to Congresswoman Mary Miller news Candidates for 15th Congressional District engage with community at Springfield forum PRESS RELEASE Jennifer Todd Files Petitions PRESS RELEASE Jennifer Todd Files Petitions to Run for Congress in Illinois’ 15th District new article Jennifer Todd aims to challenge Rep.
+Mary Miller for congressional seat in 2026 news article Local Democrat to challenge Mary Miller News article Hundreds protest Trump policies, Miller in Mahomet PRESS RELEASE Jennifer Todd Launches Listening Tour Across Illinois's 15th Congressional District Dec 11 2025 PRESS RELEASE Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation FOR IMMEDIATE RELEASE December 11, 2025 Contact: Jennifer Todd for Congress Email: Jennifer@JenTodd2026.us Phone: 618-251-1428 Jennifer Todd Invites IL-15 Candidates to Sign A Common-Sense Pledge to Restore Real Representation in IL-15, Vowing to End the “Chaos Tax” and Refocus on Constituent Needs Springfield, IL — Jennifer Todd, a mom, nurse, native Illinoisan, and candidate for Illinois’ 15th Congressional District, today released “A Common-Sense Pledge to Restore Real Representation in IL-15” and formally invited her fellow primary and general election candidates to sign it.
 The Pledge (see below) commits candidates to rejecting inflammatory rhetoric and prioritizing the core duties of Congress: legislating, representing, and serving constituents.
 Todd’s campaign stated that the commitment is directly rooted in the thousands of conversations she has had with voters across all 35 counties of IL-15 over the past year.
 “As a nurse, I believe in treating the symptoms but always aiming for a cure.
 Right now, the families of IL-15 are paying a ‘Chaos Tax’—the cost of living is rising, rural healthcare is threatened, and farmers face instability, all while our representatives focus on fueling division,” said Jennifer Todd.
-“This Pledge is a commitment to the voters that I will show up, listen, and lead with professionalism and integrity—just like the working families, veterans, and union members of this district deserve.”
-___________________________
-THE PLEDGE
-- Stop the Chaos Tax on Our Communities
-I, __________________________, pledge to refrain from using rhetoric, social media activity, or public statements that intentionally inflame division or pit neighbors against one another on the basis of faith, background, or political beliefs.
+“This Pledge is a commitment to the voters that I will show up, listen, and lead with professionalism and integrity—just like the working families, veterans, and union members of this district deserve.” ___________________________ THE PLEDGE Stop the Chaos Tax on Our Communities I, __________________________, pledge to refrain from using rhetoric, social media activity, or public statements that intentionally inflame division or pit neighbors against one another on the basis of faith, background, or political beliefs.
 I will use my public voice to promote common ground and focus on solving real economic and community needs.
-- Duty of Service — Resource Delivery
-I pledge to actively and transparently pursue Community Project Funding (CPF) and all eligible federal grants to deliver essential resources to rural hospitals, schools, broadband, water systems, emergency services, and other vital infrastructure that strengthen IL-15.
-- Duty of Legislation — Affordability & Local Needs
-I pledge to introduce, support, and co-sponsor legislation that directly addresses the core needs of IL-15 families, including:
-• Affordability (cost of living, groceries, utilities, housing, childcare)
-• Healthcare access
-• Quality education
-• Long-term support for farmers and rural communities
-I will work to protect and expand access to care across rural communities.
-- Duty to Protect Local Agriculture — Fair Markets & Trade Stability
-I pledge to support policies that ensure stable markets for IL-15 farmers, including predictable trade practices, fair tariffs, strong crop insurance, and federal programs that sustain family farms.
+Duty of Service — Resource Delivery I pledge to actively and transparently pursue Community Project Funding (CPF) and all eligible federal grants to deliver essential resources to rural hospitals, schools, broadband, water systems, emergency services, and other vital infrastructure that strengthen IL-15.
+Duty of Legislation — Affordability & Local Needs I pledge to introduce, support, and co-sponsor legislation that directly addresses the core needs of IL-15 families, including: • Affordability (cost of living, groceries, utilities, housing, childcare) • Healthcare access • Quality education • Long-term support for farmers and rural communities I will work to protect and expand access to care across rural communities.
+Duty to Protect Local Agriculture — Fair Markets & Trade Stability I pledge to support policies that ensure stable markets for IL-15 farmers, including predictable trade practices, fair tariffs, strong crop insurance, and federal programs that sustain family farms.
 I will oppose reckless trade policies that harm commodity prices or destabilize rural economies.
-- Duty of Vote — Accountability
-I pledge not to vote against essential, bipartisan funding that benefits our district, including:
-• Pay raises for U.S. troops
-• Veterans’ benefits
-• Rural infrastructure investment
-• Public school funding
-• Emergency services and disaster relief
-My votes will reflect the needs of the people — not partisan pressure or performative politics.
-- Duty of Ethics — Integrity, Healthcare, and Support for Working Families
-If elected, I pledge to uphold the highest ethical standards and conduct myself with integrity, professionalism, and respect for the office, my colleagues, and every person in the 15th Congressional District.
+Duty of Vote — Accountability I pledge not to vote against essential, bipartisan funding that benefits our district, including: • Pay raises for U.S. troops • Veterans’ benefits • Rural infrastructure investment • Public school funding • Emergency services and disaster relief My votes will reflect the needs of the people — not partisan pressure or performative politics.
+Duty of Ethics — Integrity, Healthcare, and Support for Working Families If elected, I pledge to uphold the highest ethical standards and conduct myself with integrity, professionalism, and respect for the office, my colleagues, and every person in the 15th Congressional District.
 This includes a clear commitment to fair, respectful engagement — never name-calling, personal attacks, or disparaging those with differing views.
 Our constituents deserve a Congress that functions through cooperation and principled debate, not division or hostility, and I am committed to leading in a way that reflects that responsibility.
 I will defend access to affordable healthcare, including Medicare, Medicaid, rural hospitals, and programs essential to seniors, children, and working families.
 I further pledge to support working families by promoting fair wages, safe working conditions, and access to benefits that help communities thrive, strengthen local economies, and ensure every family has the opportunity to succeed.
+Privacy Policy jennifer@jentodd2026.us | 618-251-1428 Friends for Jennifer Todd P.O.
+Box 3 Glen Carbon, IL 62034 Powered by RUN! website builder Paid for by Friends for Jennifer Todd.
+You need to enable JavaScript to run this app.

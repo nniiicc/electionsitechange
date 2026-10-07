@@ -1,21 +1,86 @@
 [
-"http://baltimorecountymd.gov/vaccineregistry",
-"http://covidvax.maryland.gov/",
-"https://baltimorecountymd.gov/Subscribe/index.html",
-"https://coronavirus.maryland.gov/pages/maryland-retail-vaccination-sites",
-"https://covidlink.maryland.gov/content/vaccine",
-"https://facebook.com/BaltCoHHS",
-"https://facebook.com/SheilaRuthD44B",
-"https://marylandvax.org/",
-"https://secure.actblue.com/donate/sheilaruthd44b",
-"https://sheilaruth.com/",
-"https://sheilaruth.com/about-sheila",
-"https://sheilaruth.com/blog",
-"https://sheilaruth.com/contact",
-"https://sheilaruth.com/home",
-"https://sheilaruth.com/social-media-policy",
-"https://sheilaruth.com/subscribe",
-"https://sheilaruth.com/volunteer",
-"https://twitter.com/SheilaRuthD44B",
-"https://us17.campaign-archive.com/home?u=a893cb03214f26c7245ed8164&id=feffd77258"
+{
+"text": "About Sheila",
+"href": "https://www.sheilaruth.com/about-sheila/"
+},
+{
+"text": "Contact",
+"href": "https://www.sheilaruth.com/contact/"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/sheilaruthd44b"
+},
+{
+"text": "Facebook page",
+"href": "https://www.facebook.com/BaltCoHHS"
+},
+{
+"text": "Home",
+"href": "https://www.sheilaruth.com/home/"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.sheilaruth.com/social-media-policy/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.sheilaruth.com/subscribe/"
+},
+{
+"text": "Updates",
+"href": "https://www.sheilaruth.com/blog/"
+},
+{
+"text": "View Past Issues",
+"href": "https://us17.campaign-archive.com/home/?u=a893cb03214f26c7245ed8164&id=feffd77258"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sheilaruth.com/volunteer/"
+},
+{
+"text": "[image: Image]",
+"href": "https://www.sheilaruth.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SheilaRuthD44B"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SheilaRuthD44B"
+},
+{
+"text": "covidvax.maryland.gov",
+"href": "http://covidvax.maryland.gov/"
+},
+{
+"text": "email newsletter",
+"href": "https://www.baltimorecountymd.gov/Subscribe/index.html"
+},
+{
+"text": "here",
+"href": "http://www.baltimorecountymd.gov/vaccineregistry"
+},
+{
+"text": "locations listed",
+"href": "https://coronavirus.maryland.gov/pages/maryland-retail-vaccination-sites"
+},
+{
+"text": "marylandvax.org",
+"href": "https://www.marylandvax.org"
+},
+{
+"text": "sheila.ruth@house.state.md.us",
+"href": "mailto:sheila.ruth@house.state.md.us"
+},
+{
+"text": "this page",
+"href": "https://covidlink.maryland.gov/content/vaccine/"
+},
+{
+"text": "vaccine registration portal",
+"href": "http://www.baltimorecountymd.gov/vaccineregistry"
+}
 ]

@@ -1,4 +1,4 @@
-My journey in advocacy began as PTA President at Lincoln Elementary, where my focus was simple: building community.
+0 Skip to Content Policy Positions Results About Endorsements Contact Map Donate Open Menu Close Menu Donate Policy Positions Results About Endorsements Contact Map Open Menu Close Menu Policy Positions Results About Endorsements Contact Map Donate My journey in advocacy began as PTA President at Lincoln Elementary, where my focus was simple: building community.
 I worked with parents, teachers, and staff to strengthen the school community and support students.
 That experience deepened my understanding of how strong public institutions matter to families.
 That work led me to get involved in the 2019 Denver teacher strike, where I saw educators standing up for fair pay.
@@ -16,5 +16,4 @@ I grew up in Aurora, Colorado, and my wife, Amy Kenreich, and I moved to Denver 
 Amy is a pedestrian and bike safety advocate who ran the Celebrity Crossing Guard program for years.
 We’re raising two kids, one in middle school and one in high school, and being parents has deepened our commitment to giving back to the community.
 I’m using my experience, skills, and passion for public service to help build a future where families can thrive and government delivers real results for the people it serves.
-From advocacy to action
-Scott with his wife Amy, son Dylan, and daughter Hayden
+From advocacy to action Scott with his wife Amy, son Dylan, and daughter Hayden Sign up for the campaign newsletter Paid for by Scott Baldermann for Colorado Registered Agent, Leslie Kaplan Onward!

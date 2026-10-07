@@ -1,57 +1,274 @@
 [
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://instagram.com/votesaira",
-"https://mvp.sos.ga.gov/s",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/",
-"https://sairadraper.com/accessibility",
-"https://sairadraper.com/articles",
-"https://sairadraper.com/canvass",
-"https://sairadraper.com/district",
-"https://sairadraper.com/do-not-contact",
-"https://sairadraper.com/draper-paper",
-"https://sairadraper.com/endorsements",
-"https://sairadraper.com/es/in-the-news",
-"https://sairadraper.com/events",
-"https://sairadraper.com/get-help",
-"https://sairadraper.com/get-involved",
-"https://sairadraper.com/in-the-news",
-"https://sairadraper.com/in-the-news?page=2",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/abortion-ban",
-"https://sairadraper.com/news/atlanta-daily-world-covers-rep-draper-on-georgia-abortion-ban",
-"https://sairadraper.com/news/candidates-can-use-campaign-funds-for-childcare-why-arent-they-georgia-recorder",
-"https://sairadraper.com/news/childcare",
-"https://sairadraper.com/news/decaturish-publishes-sen-elena-parents-endorsement-of-saira-draper",
-"https://sairadraper.com/news/democrats-warn-georgia-redistricting-fight-is-far-from-over",
-"https://sairadraper.com/news/early-voting",
-"https://sairadraper.com/news/fulton-county-raid-jan-2026",
-"https://sairadraper.com/news/georgia-democrats-blast-requirement-to-recount-votes-by-hand-in-bill-that-would-keep-ballot-qr-codes-the-current",
-"https://sairadraper.com/news/healthcare-access",
-"https://sairadraper.com/news/how-trump-could-undermine-the-midterms",
-"https://sairadraper.com/news/last-minute-qr-code-bill-tweak-could-steer-voting-in-a-new-direction-georgia-recorder",
-"https://sairadraper.com/news/lawmakers-episode",
-"https://sairadraper.com/news/maternal-health",
-"https://sairadraper.com/news/new-york-times-covers-georgia-redistricting-pause",
-"https://sairadraper.com/news/redistricting",
-"https://sairadraper.com/news/reproductive-freedom",
-"https://sairadraper.com/news/running-for-sd-44",
-"https://sairadraper.com/news/saira-draper-comments-on-absence-of-solution-to-requirement-to-do-away-with-qr-codes",
-"https://sairadraper.com/news/speaker-burns-promised-transparency-before-redistricting-were-waiting",
-"https://sairadraper.com/news/supreme-court-voting-decision-may-not-alter-georgia-midterms-but-2028",
-"https://sairadraper.com/news/voting-and-elections",
-"https://sairadraper.com/news/women-in-politics",
-"https://sairadraper.com/privacy",
-"https://sairadraper.com/terms",
-"https://sairadraper.com/vi/in-the-news",
-"https://sairadraper.com/vote",
-"https://sairadraper.com/work-with-saira",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://threads.com/@votesaira",
-"https://tiktok.com/@votesaira",
-"https://youtube.com/@votesaira"
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "AJC: Democrats Say Georgia Redistricting Fight Isn’t Over",
+"href": "https://www.sairadraper.com/news/democrats-warn-georgia-redistricting-fight-is-far-from-over"
+},
+{
+"text": "Abortion Ban",
+"href": "https://www.sairadraper.com/news/abortion-ban"
+},
+{
+"text": "Abortion Ban1",
+"href": "https://www.sairadraper.com/news/abortion-ban"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "All",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Articles",
+"href": "https://www.sairadraper.com/articles"
+},
+{
+"text": "Canvass",
+"href": "https://www.sairadraper.com/canvass"
+},
+{
+"text": "Childcare",
+"href": "https://www.sairadraper.com/news/childcare"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Decaturish publishes Sen. Elena Parent’s endorsement of Saira Draper",
+"href": "https://www.sairadraper.com/news/decaturish-publishes-sen-elena-parents-endorsement-of-saira-draper"
+},
+{
+"text": "Democratic Party of Georgia website",
+"href": "https://georgiademocrat.org/"
+},
+{
+"text": "Democrats running for statewide office",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "District 44",
+"href": "https://www.sairadraper.com/district"
+},
+{
+"text": "Do Not Contact",
+"href": "https://www.sairadraper.com/do-not-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Draper Paper",
+"href": "https://www.sairadraper.com/draper-paper"
+},
+{
+"text": "Early Voting",
+"href": "https://www.sairadraper.com/news/early-voting"
+},
+{
+"text": "Early Voting2",
+"href": "https://www.sairadraper.com/news/early-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sairadraper.com/endorsements"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/in-the-news"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/in-the-news"
+},
+{
+"text": "Events",
+"href": "https://www.sairadraper.com/events"
+},
+{
+"text": "Fulton County Raid Jan 2026",
+"href": "https://www.sairadraper.com/news/fulton-county-raid-jan-2026"
+},
+{
+"text": "Fulton County Raid Jan 20262",
+"href": "https://www.sairadraper.com/news/fulton-county-raid-jan-2026"
+},
+{
+"text": "Georgia Democrats blast requirement to recount votes by hand in bill that would keep ballot QR codes - The Current",
+"href": "https://www.sairadraper.com/news/georgia-democrats-blast-requirement-to-recount-votes-by-hand-in-bill-that-would-keep-ballot-qr-codes-the-current"
+},
+{
+"text": "Georgia Recorder: Late Bill Change Reshapes Voting System Debate",
+"href": "https://www.sairadraper.com/news/last-minute-qr-code-bill-tweak-could-steer-voting-in-a-new-direction-georgia-recorder"
+},
+{
+"text": "Get Help",
+"href": "https://www.sairadraper.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Healthcare Access",
+"href": "https://www.sairadraper.com/news/healthcare-access"
+},
+{
+"text": "In The News",
+"href": "https://www.sairadraper.com/in-the-news"
+},
+{
+"text": "Lawmakers February 12, 2026",
+"href": "https://www.sairadraper.com/news/lawmakers-episode"
+},
+{
+"text": "Learn more about voter protection volunteering",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "Maternal Health",
+"href": "https://www.sairadraper.com/news/maternal-health"
+},
+{
+"text": "Meet Saira",
+"href": "https://www.sairadraper.com/#about"
+},
+{
+"text": "New York Times Covers Georgia Redistricting Pause",
+"href": "https://www.sairadraper.com/news/new-york-times-covers-georgia-redistricting-pause"
+},
+{
+"text": "News + Events",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Older →",
+"href": "https://www.sairadraper.com/in-the-news?page=2"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.sairadraper.com/privacy"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Read our full accessibility statement",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Redistricting",
+"href": "https://www.sairadraper.com/news/redistricting"
+},
+{
+"text": "Redistricting2",
+"href": "https://www.sairadraper.com/news/redistricting"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.sairadraper.com/news/reproductive-freedom"
+},
+{
+"text": "Running For Sd 44",
+"href": "https://www.sairadraper.com/news/running-for-sd-44"
+},
+{
+"text": "Saira Draper Discusses Campaign Childcare in Georgia Recorder",
+"href": "https://www.sairadraper.com/news/candidates-can-use-campaign-funds-for-childcare-why-arent-they-georgia-recorder"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/"
+},
+{
+"text": "Saira Draper welcomes Members of Free & Just Roundtable on Impacts of Georgia's Abortion Ban",
+"href": "https://www.sairadraper.com/news/atlanta-daily-world-covers-rep-draper-on-georgia-abortion-ban"
+},
+{
+"text": "Speaker Burns promised transparency before redistricting. We’re waiting.",
+"href": "https://www.sairadraper.com/news/speaker-burns-promised-transparency-before-redistricting-were-waiting"
+},
+{
+"text": "Supreme Court voting decision may not alter Georgia midterms. But 2028?",
+"href": "https://www.sairadraper.com/news/supreme-court-voting-decision-may-not-alter-georgia-midterms-but-2028"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sairadraper.com/terms"
+},
+{
+"text": "The Guardian: How Trump Could Undermine the Midterms",
+"href": "https://www.sairadraper.com/news/how-trump-could-undermine-the-midterms"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/in-the-news"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sairadraper.com/vote"
+},
+{
+"text": "Voting And Elections",
+"href": "https://www.sairadraper.com/news/voting-and-elections"
+},
+{
+"text": "Voting And Elections8",
+"href": "https://www.sairadraper.com/news/voting-and-elections"
+},
+{
+"text": "Washington Post April 3, 2026",
+"href": "https://www.sairadraper.com/news/saira-draper-comments-on-absence-of-solution-to-requirement-to-do-away-with-qr-codes"
+},
+{
+"text": "Women In Politics",
+"href": "https://www.sairadraper.com/news/women-in-politics"
+},
+{
+"text": "Work with Saira",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+}
 ]

@@ -1,4 +1,4 @@
-U.S.
+Donate Connect with Brenna News Donate News New York wants to govern Iowa and Missouri — we’re suing to stop it cold July 28, 2026 Fox News U.S.
 Supreme Court Justice Louis Brandeis famously called the states "laboratories of democracy." In those laboratories, Iowans shape Iowa’s laws, Missourians make Missouri’s laws, and New Yorkers establish New York’s laws.
 That is a core tenet of federalism — a structural part of our nation’s Constitution that allows for great variation and competition between the states.
 What a state can’t do, however, is lay claim to the entire country as its laboratory.
@@ -46,3 +46,4 @@ Biofuels are an important part of America’s energy independence.
 New York can control its own policy, but not that of the rest of the nation.
 This is federalism.
 It’s our American way and it is worth defending.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

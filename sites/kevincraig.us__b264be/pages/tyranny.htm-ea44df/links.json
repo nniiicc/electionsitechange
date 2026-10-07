@@ -1,61 +1,262 @@
 [
-"http://childpredators.com/",
-"http://econlog.econlib.org/archives/2007/07/independence_da.html",
-"http://fff.org/comment/com0307f.asp",
-"http://fff.org/freedom/1001e.asp",
-"http://goodreads.com/quotes/425383-whoever-has-experienced-the-power-and-the-unrestrained-ability-to",
-"http://harrybrowne.org/articles/JulyFourth.htm",
-"http://july4th1776.org/",
-"http://kevincraig.us/",
-"http://kevincraig.us/6th-murder.htm",
-"http://kevincraig.us/EndTheWall/UnderGod.htm",
-"http://kevincraig.us/EndTheWall/war.htm",
-"http://kevincraig.us/abortion.htm",
-"http://kevincraig.us/afghanistan.htm",
-"http://kevincraig.us/burden.htm",
-"http://kevincraig.us/duty.htm",
-"http://kevincraig.us/enemy.htm",
-"http://kevincraig.us/fascism.htm",
-"http://kevincraig.us/idolatry.htm",
-"http://kevincraig.us/iraq.htm",
-"http://kevincraig.us/newdeal.htm",
-"http://kevincraig.us/overthrow.htm",
-"http://kevincraig.us/promises.htm",
-"http://kevincraig.us/socialism.htm",
-"http://kevincraig.us/suspend.htm",
-"http://kevincraig.us/townhall11sep2010.htm",
-"http://kevinforcongress.blogspot.com/2011/07/independence-day-reading-2011.html",
-"http://laurenwinner.net/blog/2005/07/reflections-on-4th-of-july.html",
-"http://lewrockwell.com/attarian/attarian9.html",
-"http://lewrockwell.com/barnwell/barnwell31.html",
-"http://lewrockwell.com/dilorenzo/dilorenzo6.html",
-"http://lewrockwell.com/edmonds/edmonds143.html",
-"http://lewrockwell.com/gregory/gregory82.html",
-"http://lewrockwell.com/north/north1002.html",
-"http://lewrockwell.com/north/north52.html",
-"http://lewrockwell.com/orig/shaffer6.html",
-"http://lewrockwell.com/orig3/conger2.html",
-"http://lewrockwell.com/paul/paul109.html",
-"http://lewrockwell.com/pilger/pilger12.html",
-"http://mises.org/story/2633",
-"http://oldlife.org/2013/08/love-of-country",
-"http://self-gov.org/library/christian-must.html",
-"http://vftonline.org/EndTheWall/thompson.htm",
-"http://vftonline.org/VFTINC/history/lincoln.htm",
-"http://wallbuilders.com/resources/search/detail.php?ResourceID=143",
-"https://kevincraig.us/8th-steal.htm",
-"https://kevincraig.us/KevinCraig.US/repent.htm",
-"https://kevincraig.us/KevinCraig.US/society.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/religion/nature.htm",
-"https://kevincraig.us/risks.htm",
-"https://kevincraig.us/sin.htm",
-"https://kevincraig.us/tempsec.htm",
-"https://latimes.com/opinion/story/2022-08-01/biden-police-expansion-mistake",
-"https://openthebooks.com/assets/1/6/Militarization_Report_v5.pdf",
-"https://politico.com/news/2022/08/16/irs-spending-new-money-00051523",
-"https://rutherford.org/publications_resources/john_whiteheads_commentary/weaponizing_the_bureaucracy_who_will_protect_us_from_the_governments_standing_army",
-"https://web.archive.org/web/20220804060409/https:/www.jobs.irs.gov/resources/job-descriptions/irs-criminal-investigation-special-agent",
-"https://wsj.com/articles/why-does-the-irs-need-guns-1466117176"
+{
+"text": "4 million rounds of ammunition",
+"href": "https://www.openthebooks.com/assets/1/6/Militarization_Report_v5.pdf"
+},
+{
+"text": "620-armed �special agents.�",
+"href": "https://www.openthebooks.com/assets/1/6/Militarization_Report_v5.pdf"
+},
+{
+"text": "87,000 new employees",
+"href": "https://www.politico.com/news/2022/08/16/irs-spending-new-money-00051523"
+},
+{
+"text": "9/11",
+"href": "http://kevincraig.us/townhall11sep2010.htm"
+},
+{
+"text": "Afghanistan",
+"href": "http://kevincraig.us/afghanistan.htm"
+},
+{
+"text": "An Independence Day Reader",
+"href": "http://kevinforcongress.blogspot.com/2011/07/independence-day-reading-2011.html"
+},
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Celebrating America's Birthday",
+"href": "http://wallbuilders.com/resources/search/detail.php?ResourceID=143"
+},
+{
+"text": "Celebrating Independence From the State by Anthony Gregory",
+"href": "http://www.lewrockwell.com/gregory/gregory82.html"
+},
+{
+"text": "Celebrating the Fourth of July",
+"href": "http://www.fff.org/comment/com0307f.asp"
+},
+{
+"text": "Do Anti-War and Anti-State Equal Anti-Americanism? by Bill Barnwell",
+"href": "http://www.lewrockwell.com/barnwell/barnwell31.html"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "FDR",
+"href": "http://kevincraig.us/newdeal.htm"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Fyodor Dostoyevsky: The House of the Dead",
+"href": "http://www.goodreads.com/quotes/425383-whoever-has-experienced-the-power-and-the-unrestrained-ability-to"
+},
+{
+"text": "God",
+"href": "https://kevincraig.us/religion/nature.htm"
+},
+{
+"text": "God was removed from public schools",
+"href": "http://kevincraig.us/EndTheWall/war.htm"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "How To Silence an Awkward Newspaper by John Pilger",
+"href": "http://www.lewrockwell.com/pilger/pilger12.html"
+},
+{
+"text": "Hurrah for King George! by John Attarian",
+"href": "http://www.lewrockwell.com/attarian/attarian9.html"
+},
+{
+"text": "Independence Day Celebration For A New Millennium",
+"href": "http://www.lewrockwell.com/north/north52.html"
+},
+{
+"text": "Independence Day in Perspective",
+"href": "http://www.lewrockwell.com/dilorenzo/dilorenzo6.html"
+},
+{
+"text": "Independence Day: Any Reason to Celebrate?",
+"href": "http://econlog.econlib.org/archives/2007/07/independence_da.html"
+},
+{
+"text": "Independence from England, Dependence on Washington? by Rep. Ron Paul",
+"href": "http://www.lewrockwell.com/paul/paul109.html"
+},
+{
+"text": "Iraq",
+"href": "http://kevincraig.us/iraq.htm"
+},
+{
+"text": "Lauren Winner: reflections on the 4th of July",
+"href": "http://www.laurenwinner.net/blog/2005/07/reflections-on-4th-of-july.html"
+},
+{
+"text": "Lincoln",
+"href": "http://vftonline.org/VFTINC/history/lincoln.htm"
+},
+{
+"text": "Love of Country",
+"href": "http://oldlife.org/2013/08/love-of-country/"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "Must a Christian be a Libertarian?",
+"href": "http://www.self-gov.org/library/christian-must.html"
+},
+{
+"text": "Nothing, really",
+"href": "http://july4th1776.org"
+},
+{
+"text": "Planned Parenthood",
+"href": "http://www.childpredators.com/"
+},
+{
+"text": "The American Revolution Was a Mistake",
+"href": "http://lewrockwell.com/north/north1002.html"
+},
+{
+"text": "The Lost Revolution",
+"href": "http://www.mises.org/story/2633"
+},
+{
+"text": "The Militarization of the U.S. Executive Agencies",
+"href": "https://www.openthebooks.com/assets/1/6/Militarization_Report_v5.pdf"
+},
+{
+"text": "The United States is the enemy of God and humanity",
+"href": "http://kevincraig.us/enemy.htm"
+},
+{
+"text": "This July 4th, Hoist the Flag of Liberty",
+"href": "http://www.lewrockwell.com/orig3/conger2.html"
+},
+{
+"text": "UN-Celebrating the 4th of July",
+"href": "http://www.harrybrowne.org/articles/JulyFourth.htm"
+},
+{
+"text": "Under God",
+"href": "http://kevincraig.us/EndTheWall/UnderGod.htm"
+},
+{
+"text": "Weaponizing the Bureaucracy: Who Will Protect Us from the Government�s Standing Army?",
+"href": "https://www.rutherford.org/publications_resources/john_whiteheads_commentary/weaponizing_the_bureaucracy_who_will_protect_us_from_the_governments_standing_army"
+},
+{
+"text": "Why Are We Afraid To Be Free?",
+"href": "http://www.lewrockwell.com/orig/shaffer6.html"
+},
+{
+"text": "Why the 4th of July Is My Least Favorite Holiday by Brad Edmonds",
+"href": "http://www.lewrockwell.com/edmonds/edmonds143.html"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "abolished",
+"href": "http://kevincraig.us/overthrow.htm"
+},
+{
+"text": "abortions",
+"href": "http://kevincraig.us/abortion.htm"
+},
+{
+"text": "agencies being supplied with night-vision equipment, body armor, hollow-point bullets, shotguns",
+"href": "https://www.wsj.com/articles/why-does-the-irs-need-guns-1466117176"
+},
+{
+"text": "arrest-and-firearm authority",
+"href": "https://web.archive.org/web/20220804060409/https:/www.jobs.irs.gov/resources/job-descriptions/irs-criminal-investigation-special-agent"
+},
+{
+"text": "duty",
+"href": "http://kevincraig.us/duty.htm"
+},
+{
+"text": "fascism",
+"href": "http://kevincraig.us/fascism.htm"
+},
+{
+"text": "grow the nation�s police forces by 100,000 more cops",
+"href": "https://www.latimes.com/opinion/story/2022-08-01/biden-police-expansion-mistake"
+},
+{
+"text": "have been promising to abolish tyrannical bureaucracies for decades",
+"href": "http://kevincraig.us/promises.htm"
+},
+{
+"text": "here",
+"href": "https://kevincraig.us/tempsec.htm"
+},
+{
+"text": "murdering",
+"href": "http://kevincraig.us/6th-murder.htm"
+},
+{
+"text": "offense against God",
+"href": "http://kevincraig.us/idolatry.htm"
+},
+{
+"text": "one-tenth or one-twentieth",
+"href": "http://kevincraig.us/burden.htm"
+},
+{
+"text": "regeneration",
+"href": "https://kevincraig.us/KevinCraig.US/society.htm#regeneration"
+},
+{
+"text": "remove copies of the Ten Commandments",
+"href": "http://vftonline.org/EndTheWall/thompson.htm"
+},
+{
+"text": "repentance",
+"href": "https://kevincraig.us/KevinCraig.US/repent.htm"
+},
+{
+"text": "risk",
+"href": "https://kevincraig.us/risks.htm"
+},
+{
+"text": "sins",
+"href": "https://kevincraig.us/sin.htm"
+},
+{
+"text": "socialism",
+"href": "http://kevincraig.us/socialism.htm"
+},
+{
+"text": "steal the bacon",
+"href": "https://kevincraig.us/8th-steal.htm"
+},
+{
+"text": "suspended",
+"href": "http://kevincraig.us/suspend.htm"
+},
+{
+"text": "theft",
+"href": "https://kevincraig.us/8th-steal.htm"
+},
+{
+"text": "this speech",
+"href": "http://www.fff.org/freedom/1001e.asp"
+}
 ]

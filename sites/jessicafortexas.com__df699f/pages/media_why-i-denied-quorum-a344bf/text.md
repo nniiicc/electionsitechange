@@ -1,5 +1,4 @@
-Why I Denied Quorum
-My Democratic colleagues and I have left Texas to stop Abbott and Trump's plans to bring fascism to Texas.
+0 Skip to Content Home About Issues Endorsements Get Involved In The News CONTRIBUTE Open Menu Close Menu Open Menu Close Menu Home About Issues Endorsements Get Involved In The News CONTRIBUTE Home About Issues Endorsements Get Involved In The News CONTRIBUTE Why I Denied Quorum Aug 7 Written By Birk Wilkison My Democratic colleagues and I have left Texas to stop Abbott and Trump's plans to bring fascism to Texas.
 When Abbott announced the special session last month, he didn't do it in response to the tragic flooding in the Texas Hill Country - in fact he used it as cover to do Trump's bidding of making Congress impeachment-proof.
 Remember, reporters have been covering Trump's plans to rig Congress via redistricting since early June.
 We've had enough.
@@ -19,3 +18,8 @@ I wish this would have been a simple special session focused on disaster relief 
 Instead, it became an agenda that will be reduced to a piece of campaign mail when Abbott runs for president.
 Disgusting, disappointing, and pathetic.
 This is why we left, we are standing up for our nation, and our Constitution, like our nation's founding fathers and mothers expect of us.
+Birk Wilkison Previous Previous Oak Cliff representative protests state redistricting process: Oak Cliff Advocate, 12/30/25 Next Next REPRESENTATIVE JESSICA GONZÁLEZ ANNOUNCES REELECTION CAMPAIGN FOR TEXAS HOUSE DISTRICT 104 Pol.
+Adv.
+Paid by Jessica González Campaign.
+P.O.
+Box 224392 Dallas, TX 75222-4392 View our Terms of Service and Privacy Policy by clicking here.

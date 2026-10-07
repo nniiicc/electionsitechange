@@ -1,28 +1,110 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&t=Voting+in+November%E2%80%99s+Election%3A+What+to+Know",
-"http://linkedin.com/shareArticle?mini=true&title=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&description=Voting+in+November%E2%80%99s+Election%3A+What+to+Know",
-"http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&title=Voting+in+November%E2%80%99s+Election%3A+What+to+Know",
-"http://sec.state.ma.us/",
-"http://tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&name=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&description=We+saw+a+record+turnout+for+September%E2%80%99s+primary+elections+as+a+result+of+the+Legislature%E2%80%99s+action+earlier+this+year+expanding+access+to+voting+and+ensuring+voter+safety+during+the+COVID-19+pandemic.+Secretary+of+the+Commonwealth+William+Galvin+expects+yet+another+record+turnout+for+November%E2%80%99s+general+election%2C+citing+the+increased+accessibility+to+voting+as+a+key+%5B%E2%80%A6%5D",
-"http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F",
-"https://electmikeday.com/",
-"https://electmikeday.com/author/dan",
-"https://electmikeday.com/category/uncategorized",
-"https://electmikeday.com/contact-us",
-"https://electmikeday.com/get-involved",
-"https://electmikeday.com/issues",
-"https://electmikeday.com/legislation",
-"https://electmikeday.com/michael-day",
-"https://electmikeday.com/news",
-"https://electmikeday.com/voting-in-novembers-election-what-to-know",
-"https://electmikeday.com/voting-in-novembers-election-what-to-know?share=facebook",
-"https://electmikeday.com/voting-in-novembers-election-what-to-know?share=twitter",
-"https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested",
-"https://electmikeday.com/winchester-awarded-shared-streets-and-spaces-grant-by-massdot",
-"https://mdwcommunications.com/political-websites-by-mdwcomm",
-"https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F",
-"https://sec.state.ma.us/ele/eleidx.htm",
-"https://secure.anedot.com/repmikeday/general-fund-cc8f069906d",
-"https://twitter.com/share?text=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&url=https%3A%2F%2Fwp.me%2Fp4wmgo-cY"
+{
+"text": "About",
+"href": "https://electmikeday.com/michael-day/"
+},
+{
+"text": "Click to share on Facebook (Opens in new window)",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/?share=facebook"
+},
+{
+"text": "Click to share on Twitter (Opens in new window)",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/?share=twitter"
+},
+{
+"text": "Contact",
+"href": "https://electmikeday.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+},
+{
+"text": "Dan Hudson",
+"href": "https://electmikeday.com/author/dan/"
+},
+{
+"text": "Get Involved",
+"href": "https://electmikeday.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://electmikeday.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://electmikeday.com/legislation/"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/news/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&body=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F"
+},
+{
+"text": "Share on Facebook",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&t=Voting+in+November%E2%80%99s+Election%3A+What+to+Know"
+},
+{
+"text": "Share on Google+",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F"
+},
+{
+"text": "Share on Linkedin",
+"href": "http://linkedin.com/shareArticle?mini=true&title=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F"
+},
+{
+"text": "Share on Pinterest",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&description=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&media="
+},
+{
+"text": "Share on Reddit",
+"href": "http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&title=Voting+in+November%E2%80%99s+Election%3A+What+to+Know"
+},
+{
+"text": "Share on Tumblr",
+"href": "http://www.tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F&name=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&description=We+saw+a+record+turnout+for+September%E2%80%99s+primary+elections+as+a+result+of+the+Legislature%E2%80%99s+action+earlier+this+year+expanding+access+to+voting+and+ensuring+voter+safety+during+the+COVID-19+pandemic.+Secretary+of+the+Commonwealth+William+Galvin+expects+yet+another+record+turnout+for+November%E2%80%99s+general+election%2C+citing+the+increased+accessibility+to+voting+as+a+key+%5B%E2%80%A6%5D"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/share?text=Voting+in+November%E2%80%99s+Election%3A+What+to+Know&url=https%3A%2F%2Fwp.me%2Fp4wmgo-cY"
+},
+{
+"text": "Share on Vk",
+"href": "http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fvoting-in-novembers-election-what-to-know%2F"
+},
+{
+"text": "Uncategorized",
+"href": "https://electmikeday.com/category/uncategorized/"
+},
+{
+"text": "Voting in November’s Election: What to Know",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/"
+},
+{
+"text": "Wear a Mask, and if you feel sick? Get Tested.",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/"
+},
+{
+"text": "Winchester Awarded Shared Streets and Spaces Grant by MassDOT",
+"href": "https://electmikeday.com/winchester-awarded-shared-streets-and-spaces-grant-by-massdot/"
+},
+{
+"text": "[image: State Representative Mike Day]",
+"href": "https://electmikeday.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdwcommunications.com/political-websites-by-mdwcomm/"
+},
+{
+"text": "here.",
+"href": "https://www.sec.state.ma.us/ele/eleidx.htm"
+},
+{
+"text": "www.sec.state.ma.us",
+"href": "http://www.sec.state.ma.us"
+}
 ]

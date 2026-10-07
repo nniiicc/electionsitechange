@@ -1,5 +1,4 @@
-Safe Neighborhoods
-Ida knows that safe neighborhoods are the foundation of a strong community and has seen firsthand the impacts of crime and violence as healthcare provider.
+0 Skip to Content Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate Open Menu Close Menu Meet Ida Issues Endorsements Privacy Policy Donate Safe Neighborhoods May 28 Written By Juan Gil Ida knows that safe neighborhoods are the foundation of a strong community and has seen firsthand the impacts of crime and violence as healthcare provider.
 As Mayor, she has worked with local law enforcement, first responders, and mental health professionals to improve public safety and ensure they have the resources they need.
 She'll bring that same collaborative approach to Sacramento, supporting neighborhood crime prevention, increasing domestic violence programs and public safety resources our communities need and deserve.
 Ida's experience in emergency rooms has shown her how violence affects victims and their families long after the initial injury.
@@ -9,3 +8,5 @@ Ida’s approach to public safety has earned the support of retired Imperial Cou
 Keeping communities safe also means reaching young people before they are in crisis.
 Ida supports expanding counseling and mental health services in schools, along with diversion programs for young people and adults with mental health or substance use needs, so that problems are addressed early.
 She also believes public safety depends on reliable emergency services and well-maintained roads and public spaces, and she will work to make sure local governments have the resources to provide them.
+Juan Gil Previous Previous Lowering the Cost of Living Next Next Strong Public Schools and Career Training PAID FOR BY IDA OBESO-MARTINEZ FOR ASSEMBLY 2026, FPPC ID#1483893 1700 Tribute Road, Suite 201, Sacramento CA 95815 Copyright © #.
+All Rights Reserved.

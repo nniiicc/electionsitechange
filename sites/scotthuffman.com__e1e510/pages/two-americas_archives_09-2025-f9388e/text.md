@@ -1,4 +1,5 @@
-| Imagine opening the Nextdoor app and seeing your photo under the headline: “Meet Your Local Left-Wing Domestic Terrorist.” That’s what a fake troll account did.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+Meet Your Local “Left-Wing Domestic Terrorist” 9/18/2025 Imagine opening the Nextdoor app and seeing your photo under the headline: “Meet Your Local Left-Wing Domestic Terrorist.” That’s what a fake troll account did.
 Not because I incited violence.
 Not because I broke laws.
 But because I dared to speak openly.
@@ -54,7 +55,11 @@ Hopeful that leadership will see the need to tone down the rhetoric and stop lyi
 Not targeting late night shows.
 Hopeful that our nation can remember that strength is found in compassion, not cruelty and fear.
 Until our leaders step up and accept all Americans for who they are, who they love, and how they live their lives, we will remain divided, long after I have left this world.
-Scott Huffman is small business owner in Information Technology. - He can be reached at [email protected] | Posts from before 2025 were written during Scott's campaigns for U.S.
+Scott Huffman is small business owner in Information Technology. - He can be reached at [email protected] Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

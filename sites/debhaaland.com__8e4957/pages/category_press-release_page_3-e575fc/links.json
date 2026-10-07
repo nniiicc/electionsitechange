@@ -1,40 +1,194 @@
 [
-"https://bsky.app/profile/debhaalandnm.bsky.social",
-"https://debhaaland.com/",
-"https://debhaaland.com/2026/06/haaland-to-ban-rent-fixing-address-housing-shortage",
-"https://debhaaland.com/2026/06/haaland-to-expand-workforce-pipeline-starting-in-middle-and-high-school",
-"https://debhaaland.com/2026/06/haaland-to-lower-utility-costs-by-going-all-in-on-new-mexico-renewable-energy",
-"https://debhaaland.com/2026/06/haalands-undeniable-momentum-heading-into-the-primary-election",
-"https://debhaaland.com/2026/06/icymi-the-first-indigenous-women-in-congress-carry-a-legacy-older-than-american-democracy-itself",
-"https://debhaaland.com/2026/06/morning-joe-governors-are-the-first-line-of-defense",
-"https://debhaaland.com/2026/06/senator-martin-heinrich-endorses-deb-haaland-for-governor",
-"https://debhaaland.com/2026/06/vogue-can-deb-haaland-make-history-in-new-mexico",
-"https://debhaaland.com/2026/09/haaland-defines-vision-to-ensure-new-mexicans-can-afford-to-put-food-on-the-table-at-gubernatorial-forum",
-"https://debhaaland.com/2026/09/haalands-story-is-new-mexicans-story-in-first-ad-of-the-general-election",
-"https://debhaaland.com/about",
-"https://debhaaland.com/category/press-release",
-"https://debhaaland.com/category/press-release/page/17",
-"https://debhaaland.com/category/press-release/page/2",
-"https://debhaaland.com/category/press-release/page/4",
-"https://debhaaland.com/category/press-release/page/5",
-"https://debhaaland.com/contact",
-"https://debhaaland.com/debsplans",
-"https://debhaaland.com/endorsements",
-"https://debhaaland.com/es/category/presione-soltar",
-"https://debhaaland.com/news",
-"https://debhaaland.com/privacy-policy",
-"https://facebook.com/DebHaalandNM",
-"https://instagram.com/debhaalandnm",
-"https://middleseat.co/",
-"https://mobilize.us/debfornewmexico/map",
-"https://secure.actblue.com/donate/deb_web",
-"https://secure.actblue.com/donate/deb_web?amount=10",
-"https://secure.actblue.com/donate/deb_web?amount=100",
-"https://secure.actblue.com/donate/deb_web?amount=25",
-"https://secure.actblue.com/donate/deb_web?amount=250",
-"https://secure.actblue.com/donate/deb_web?amount=500",
-"https://shop.debhaaland.com/",
-"https://tiktok.com/@debhaalandnm",
-"https://x.com/DebHaalandNM",
-"https://youtube.com/@DebHaalandNM"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/deb_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/deb_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/deb_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/deb_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/deb_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/deb_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/deb_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/deb_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/deb_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/deb_web?amount=500"
+},
+{
+"text": "1",
+"href": "https://debhaaland.com/category/press-release/"
+},
+{
+"text": "17",
+"href": "https://debhaaland.com/category/press-release/page/17/"
+},
+{
+"text": "2",
+"href": "https://debhaaland.com/category/press-release/page/2/"
+},
+{
+"text": "4",
+"href": "https://debhaaland.com/category/press-release/page/4/"
+},
+{
+"text": "5",
+"href": "https://debhaaland.com/category/press-release/page/5/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/debhaalandnm.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://debhaaland.com/contact/"
+},
+{
+"text": "Deb Haaland for New Mexico [image: Deb Haaland - New Mexico]",
+"href": "https://debhaaland.com"
+},
+{
+"text": "Deb’s Plan",
+"href": "https://debhaaland.com/debsplans/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/deb_web"
+},
+{
+"text": "Endorsements",
+"href": "https://debhaaland.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://debhaaland.com/es/category/presione-soltar/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/debfornewmexico/map/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DebHaalandNM/"
+},
+{
+"text": "Haaland Defines Vision to Ensure New Mexicans Can Afford to Put Food on the Table at Gubernatorial Forum Press Release September 5, 2026 ALBUQUERQUE, NM – On Friday evening, Deb Haaland, candidate for New Mexico governor, participated in Roadrunner Foodbank’s gubernatorial forum geared at addressing food insecurity. According to Roadrunner Foodbank, 1 in 6 New Mexicans face food insecurity, and … [image: DSC08860]",
+"href": "https://debhaaland.com/2026/09/haaland-defines-vision-to-ensure-new-mexicans-can-afford-to-put-food-on-the-table-at-gubernatorial-forum/"
+},
+{
+"text": "Haaland To Expand Workforce Pipeline Starting in Middle and High School Press Release June 22, 2026 Albuquerque, N.M. – Deb Haaland, the democratic nominee for governor in New Mexico, understands that workforce shortages exist across industries in the state. To grow industries and ensure talent stays in New Mexico, young people need to … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/haaland-to-expand-workforce-pipeline-starting-in-middle-and-high-school/"
+},
+{
+"text": "Haaland to Ban Rent Fixing, Address Housing Shortage Press Release June 22, 2026 Albuquerque, N.M. – Deb Haaland, the democratic nominee for governor in New Mexico, understands the struggle to access affordable housing options. To address the housing shortage, renters need protections from corporate landlords and Wall Street shouldn’t own … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/haaland-to-ban-rent-fixing-address-housing-shortage/"
+},
+{
+"text": "Haaland to Lower Utility Costs by Going All in on New Mexico Renewable Energy Press Release June 22, 2026 Albuquerque, N.M. – Deb Haaland, the Democratic nominee for governor in New Mexico, proposed bold solutions to go all in on New Mexico’s renewable energy opportunities. Haaland’s plan leans into New Mexico’s robust renewable energy sources– 300 …",
+"href": "https://debhaaland.com/2026/06/haaland-to-lower-utility-costs-by-going-all-in-on-new-mexico-renewable-energy/"
+},
+{
+"text": "Haaland’s Story Is New Mexicans’ Story in First Ad of the General Election Press Release September 1, 2026 ALBUQUERQUE, N.M. – Today, Democratic nominee for governor Deb Haaland released her first ad of the general election cycle titled “Family.” The ad highlights that New Mexicans are doing everything right, but too many still have to fight every … [image: ad]",
+"href": "https://debhaaland.com/2026/09/haalands-story-is-new-mexicans-story-in-first-ad-of-the-general-election/"
+},
+{
+"text": "Haaland’s Undeniable Momentum Heading into the Primary Election Press Release June 22, 2026 Albuquerque, NM – Deb Haaland, who is running to be the next governor of New Mexico, shows undeniable momentum heading into the primary election tonight. Haaland, who kicked off her campaign over a year ago, has proven … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/haalands-undeniable-momentum-heading-into-the-primary-election/"
+},
+{
+"text": "Home",
+"href": "https://debhaaland.com/"
+},
+{
+"text": "ICYMI: The first Indigenous women in Congress carry a legacy older than American democracy itself Press Release June 22, 2026 Albuquerque, N.M. – In case you missed it, Deb Haaland, who is the democratic nominee for New Mexico governor, was featured in The 19th. The article identifies Haaland as a trailblazer, whose story is deeply American: her ancestors … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/icymi-the-first-indigenous-women-in-congress-carry-a-legacy-older-than-american-democracy-itself/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/debhaalandnm/"
+},
+{
+"text": "Meet Deb",
+"href": "https://debhaaland.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Morning Joe: Governors Are The First Line of Defense Press Release June 22, 2026 Albuquerque, N.M. – On Morning Joe on Tuesday, Deb Haaland, the democratic nominee for governor in New Mexico, talked about her plan to stand up to the Trump administration. New Mexico, which is uniquely vulnerable to federal … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/morning-joe-governors-are-the-first-line-of-defense/"
+},
+{
+"text": "News",
+"href": "https://debhaaland.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://debhaaland.com/category/press-release/page/4/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/deb_web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://debhaaland.com/privacy-policy/"
+},
+{
+"text": "Senator Martin Heinrich Endorses Deb Haaland for Governor Press Release June 22, 2026 Albuquerque, NM – Today, Senator Martin Heinrich announced his endorsement of Deb Haaland to be the next Governor of New Mexico. “I’ve worked with Deb a long time, and I can tell you this: Deb is incredibly … [image: Jemez-30 (1)]",
+"href": "https://debhaaland.com/2026/06/senator-martin-heinrich-endorses-deb-haaland-for-governor/"
+},
+{
+"text": "Store",
+"href": "https://shop.debhaaland.com"
+},
+{
+"text": "The Latest",
+"href": "https://debhaaland.com/news/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@debhaalandnm"
+},
+{
+"text": "Vogue: Can Deb Haaland Make History in New Mexico? Press Release June 22, 2026 Albuquerque, N.M. – In case you missed it, Deb Haaland, the democratic nominee running to be the next governor of New Mexico, was featured in Vogue. The story covered Haaland on the campaign trail as she traveled … [image: primary]",
+"href": "https://debhaaland.com/2026/06/vogue-can-deb-haaland-make-history-in-new-mexico/"
+},
+{
+"text": "X",
+"href": "https://x.com/DebHaalandNM"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@DebHaalandNM"
+},
+{
+"text": "« Previous",
+"href": "https://debhaaland.com/category/press-release/page/2/"
+}
 ]

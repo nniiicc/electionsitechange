@@ -1,10 +1,4 @@
-Contact Us
-Do you have an issue, concern, idea or need to contact me for any other reason?
-Please, do not hesitate to reach out
-MICHELE GUYTON
-304 Lowe House Office Building
-6 Bladen Street
-Annapolis, MD 21401
-Phone: 410-841-3793 / 301-858-3793 /
-Toll free in MD: 1-800-492-7122 ext. 3793
-E-Mail: michele.guyton@house.state.md.us or click here
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Contact Us Do you have an issue, concern, idea or need to contact me for any other reason?
+Please, do not hesitate to reach out MICHELE GUYTON 304 Lowe House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: 410-841-3793 / 301-858-3793 / Toll free in MD: 1-800-492-7122 ext.
+3793 E-Mail: michele.guyton@house.state.md.us or click here Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

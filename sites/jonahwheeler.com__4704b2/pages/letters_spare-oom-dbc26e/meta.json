@@ -1,7 +1,9 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/spare-oom",
- "paid_for_by": null,
+ "fingerprint": "2e3711c6c35cc601fe8ae5604624bcecea791985",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monthly Letter",
  "years_mentioned": [
   "2022",

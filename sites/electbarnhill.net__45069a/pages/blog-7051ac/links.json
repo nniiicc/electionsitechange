@@ -1,40 +1,206 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/announcements/donate-nevada-independent-candidate",
-"https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing",
-"https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster",
-"https://electbarnhill.net/author",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/blog/page/2",
-"https://electbarnhill.net/blog/page/3",
-"https://electbarnhill.net/blog/page/6",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/policy-positions/consistent-county-election-standards-nevada",
-"https://electbarnhill.net/policy-positions/nevada-election-audits",
-"https://electbarnhill.net/policy-positions/nevada-mail-ballot-tracking",
-"https://electbarnhill.net/policy-positions/rural-nevada-voting-access",
-"https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada",
-"https://electbarnhill.net/policy-positions/volunteer-for-nevada-political-campaign",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://instagram.com/electbarnhill",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "2",
+"href": "https://electbarnhill.net/blog/page/2/"
+},
+{
+"text": "3",
+"href": "https://electbarnhill.net/blog/page/3/"
+},
+{
+"text": "6",
+"href": "https://electbarnhill.net/blog/page/6/"
+},
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Election Technology Modernization Voters Can Trust",
+"href": "https://electbarnhill.net/uncategorized/election-technology-modernization-voters-can-trust/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer",
+"href": "https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "Home >>",
+"href": "https://electbarnhill.net"
+},
+{
+"text": "How Nevada Election Audits Build Voter Confidence",
+"href": "https://electbarnhill.net/policy-positions/nevada-election-audits/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "I’ve Asked the Court to Rule on My E-Filing Request",
+"href": "https://electbarnhill.net/announcements/request-for-ruling-electronic-filing-barnhill-v-aguilar/"
+},
+{
+"text": "Next »",
+"href": "https://electbarnhill.net/blog/page/2/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Secure Ballot Counting in Nevada Starts Here",
+"href": "https://electbarnhill.net/policy-positions/secure-ballot-counting-nevada/"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "Volunteer for a Nevada Political Campaign",
+"href": "https://electbarnhill.net/policy-positions/volunteer-for-nevada-political-campaign/"
+},
+{
+"text": "What Nevada Secretary of State Candidates Owe Voters",
+"href": "https://electbarnhill.net/commentary/what-nevada-secretary-of-state-candidates-owe-voters/"
+},
+{
+"text": "Where’s My Ballot? How to Track Your Nevada Mail Ballot",
+"href": "https://electbarnhill.net/policy-positions/nevada-mail-ballot-tracking/"
+},
+{
+"text": "While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster",
+"href": "https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster/"
+},
+{
+"text": "Why Donate to a Nevada Independent Candidate?",
+"href": "https://electbarnhill.net/announcements/donate-nevada-independent-candidate/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://electbarnhill.net/author/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+}
 ]

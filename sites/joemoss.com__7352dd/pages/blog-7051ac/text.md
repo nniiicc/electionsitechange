@@ -1,24 +1,19 @@
-NFIB MI PAC Endorses Joe Moss for State Legislature
-NFIB MI PAC Endorses Joe Moss for Michigan House District 89
-20 08, 2026
-18 08, 2026
-Michigan Chamber Endorses Joe Moss for Michigan House District 89
-29 07, 2026
-West Michigan families are facing a growing crisis in [...]
-26 07, 2026
-Did you receive hit piece mailers this week attacking [...]
-1 07, 2026
-We are installing brand new God Bless America signs [...]
-25 06, 2026
-Education Parents should be central to all education decisions. [...]
-14 06, 2026
-Charlie Kirk reminded us that Christians are called to be an active, transformative force in our culture.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer News 20 08, 2026 NFIB MI PAC Endorses Joe Moss for State Legislature Gallery NFIB MI PAC Endorses Joe Moss for State Legislature Blog NFIB MI PAC Endorses Joe Moss for State Legislature 2026-08-20T15:46:19-04:00 August 20th, 2026 | NFIB MI PAC Endorses Joe Moss for Michigan House District 89 18 08, 2026 Michigan Chamber Endorses Joe Moss for State Legislature Gallery Michigan Chamber Endorses Joe Moss for State Legislature Blog Michigan Chamber Endorses Joe Moss for State Legislature 2026-08-20T16:38:27-04:00 August 18th, 2026 | Michigan Chamber Endorses Joe Moss for Michigan House District 89 29 07, 2026 Caring for Our Most Vulnerable: West Michigan’s Community Mental Health Funding Crisis Gallery Caring for Our Most Vulnerable: West Michigan’s Community Mental Health Funding Crisis Blog Caring for Our Most Vulnerable: West Michigan’s Community Mental Health Funding Crisis 2026-07-29T12:13:47-04:00 July 29th, 2026 | West Michigan families are facing a growing crisis in [...] 26 07, 2026 Consumers Energy Dark Money Attack on Joe Moss Gallery Consumers Energy Dark Money Attack on Joe Moss Blog Consumers Energy Dark Money Attack on Joe Moss 2026-07-26T22:25:47-04:00 July 26th, 2026 | Did you receive hit piece mailers this week attacking [...] 1 07, 2026 We Are Installing God Bless America Signs!
+Gallery We Are Installing God Bless America Signs!
+Blog We Are Installing God Bless America Signs!
+2026-07-01T17:46:53-04:00 July 1st, 2026 | We are installing brand new God Bless America signs [...] 25 06, 2026 What are Joe’s positions on education, the economy, energy, and the First Amendment?
+Gallery What are Joe’s positions on education, the economy, energy, and the First Amendment?
+Blog What are Joe’s positions on education, the economy, energy, and the First Amendment?
+2026-06-25T17:28:02-04:00 June 25th, 2026 | Education Parents should be central to all education decisions. [...] 14 06, 2026 Speech at the Holland Christ is King Festival Gallery Speech at the Holland Christ is King Festival Blog Speech at the Holland Christ is King Festival 2026-06-15T08:56:03-04:00 June 14th, 2026 | Charlie Kirk reminded us that Christians are called to be an active, transformative force in our culture.
 He challenged the idea that faith should stay silent when culture and government drift from biblical truth.
-4 06, 2026
-I am a strong, consistent pro-life Christian.
+4 06, 2026 What are Joe’s positions on life and pro-life policies?
+Gallery What are Joe’s positions on life and pro-life policies?
+Blog What are Joe’s positions on life and pro-life policies?
+2026-06-09T08:37:47-04:00 June 4th, 2026 | I am a strong, consistent pro-life Christian.
 I was raised with a strong Christian worldview.
 Every baby is a gift from God, created in His image.
-3 06, 2026
-Joe Moss received the highest vote of any contested primary election, with 92.45% of the vote.
-30 05, 2026
-I am honored to receive the complete and total endorsement from Allison Miedema, Ottawa County Commissioner for Chester Township, City of Coopersville, Polkton Charter Township, Tallmadge Charter Township, Wright Township.
+3 06, 2026 Ottawa County Republican Party Endorses Joe Moss for State Legislature Gallery Ottawa County Republican Party Endorses Joe Moss for State Legislature Blog Ottawa County Republican Party Endorses Joe Moss for State Legislature 2026-08-20T16:26:15-04:00 June 3rd, 2026 | Joe Moss received the highest vote of any contested primary election, with 92.45% of the vote.
+30 05, 2026 Endorsed by Allison Miedema, Ottawa County Commissioner Gallery Endorsed by Allison Miedema, Ottawa County Commissioner Blog Endorsed by Allison Miedema, Ottawa County Commissioner 2026-05-30T15:33:26-04:00 May 30th, 2026 | I am honored to receive the complete and total endorsement from Allison Miedema, Ottawa County Commissioner for Chester Township, City of Coopersville, Polkton Charter Township, Tallmadge Charter Township, Wright Township.
+1 2 Next Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

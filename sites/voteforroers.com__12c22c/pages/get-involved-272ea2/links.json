@@ -1,13 +1,66 @@
 [
-"https://facebook.com/RoersforND",
-"https://palevioletred-magpie-853243.hostingersite.com/",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=100",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=25",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=250",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=50",
-"https://twitter.com/RaisedRightKris",
-"https://voteforroers.com/",
-"https://voteforroers.com/get-involved",
-"https://voteforroers.com/vote"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=50"
+},
+{
+"text": "701-566-0340",
+"href": "tel:17015660340"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/RaisedRightKris"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RoersforND"
+},
+{
+"text": "Get Involved",
+"href": "https://voteforroers.com/get-involved/"
+},
+{
+"text": "MEET KRISTIN",
+"href": "https://palevioletred-magpie-853243.hostingersite.com/#meetkristin"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate"
+},
+{
+"text": "Send an Email",
+"href": "mailto:voteforroers@gmail.com"
+},
+{
+"text": "Vote",
+"href": "https://voteforroers.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://voteforroers.com/"
+},
+{
+"text": "",
+"href": "mailto:voteforroers@gmail.com"
+},
+{
+"text": "",
+"href": "tel:17015660340"
+}
 ]

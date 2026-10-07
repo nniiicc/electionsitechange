@@ -1,23 +1,178 @@
 [
-"https://johnglowaforgovernor.com/",
-"https://johnglowaforgovernor.com/about",
-"https://johnglowaforgovernor.com/category/events",
-"https://johnglowaforgovernor.com/category/issues",
-"https://johnglowaforgovernor.com/category/news",
-"https://johnglowaforgovernor.com/category/press-releases",
-"https://johnglowaforgovernor.com/continuous-improvement",
-"https://johnglowaforgovernor.com/diversity-equity-and-inclusion",
-"https://johnglowaforgovernor.com/economy",
-"https://johnglowaforgovernor.com/employment",
-"https://johnglowaforgovernor.com/energy",
-"https://johnglowaforgovernor.com/food-insecurity",
-"https://johnglowaforgovernor.com/get-involved",
-"https://johnglowaforgovernor.com/housing-and-the-homeless",
-"https://johnglowaforgovernor.com/ice-and-the-federal-government",
-"https://johnglowaforgovernor.com/maine-morning-star",
-"https://johnglowaforgovernor.com/our-elderly",
-"https://johnglowaforgovernor.com/spectrum-news",
-"https://johnglowaforgovernor.com/tribal-sovereignty",
-"https://johnglowaforgovernor.com/yahoo-news",
-"https://secure.anedot.com/john-glowa-for-governor/contribute"
+{
+"text": "About",
+"href": "https://johnglowaforgovernor.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://johnglowaforgovernor.com/get-involved/"
+},
+{
+"text": "Continuous Improvement",
+"href": "https://johnglowaforgovernor.com/continuous-improvement/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/john-glowa-for-governor/contribute"
+},
+{
+"text": "Diversity, Equity and Inclusion",
+"href": "https://johnglowaforgovernor.com/diversity-equity-and-inclusion/"
+},
+{
+"text": "Economy",
+"href": "https://johnglowaforgovernor.com/economy/"
+},
+{
+"text": "Email: johnglowaforgovernor@gmail.com",
+"href": "mailto:johnglowaforgovernor@gmail.com"
+},
+{
+"text": "Employment",
+"href": "https://johnglowaforgovernor.com/employment/"
+},
+{
+"text": "Energy",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "Events",
+"href": "https://johnglowaforgovernor.com/category/events/"
+},
+{
+"text": "Food Insecurity",
+"href": "https://johnglowaforgovernor.com/food-insecurity/"
+},
+{
+"text": "Home",
+"href": "https://johnglowaforgovernor.com/"
+},
+{
+"text": "Housing and the Homeless",
+"href": "https://johnglowaforgovernor.com/housing-and-the-homeless/"
+},
+{
+"text": "ICE and the Federal Government",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "Issues",
+"href": "https://johnglowaforgovernor.com/category/issues/"
+},
+{
+"text": "Maine Morning Star",
+"href": "https://johnglowaforgovernor.com/maine-morning-star/"
+},
+{
+"text": "News",
+"href": "https://johnglowaforgovernor.com/category/news/"
+},
+{
+"text": "Our Elderly",
+"href": "https://johnglowaforgovernor.com/our-elderly/"
+},
+{
+"text": "Phone: 207-660-3801",
+"href": "tel:2076603801"
+},
+{
+"text": "Press Releases",
+"href": "https://johnglowaforgovernor.com/category/press-releases/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/continuous-improvement/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/diversity-equity-and-inclusion/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/economy/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/employment/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/food-insecurity/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/housing-and-the-homeless/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/our-elderly/"
+},
+{
+"text": "Read More »",
+"href": "https://johnglowaforgovernor.com/tribal-sovereignty/"
+},
+{
+"text": "Spectrum News",
+"href": "https://johnglowaforgovernor.com/spectrum-news/"
+},
+{
+"text": "Tribal Sovereignty",
+"href": "https://johnglowaforgovernor.com/tribal-sovereignty/"
+},
+{
+"text": "Yahoo News",
+"href": "https://johnglowaforgovernor.com/yahoo-news/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/continuous-improvement/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/diversity-equity-and-inclusion/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/economy/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/employment/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/energy/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/food-insecurity/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/housing-and-the-homeless/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/ice-and-the-federal-government/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/our-elderly/"
+},
+{
+"text": "[image]",
+"href": "https://johnglowaforgovernor.com/tribal-sovereignty/"
+}
 ]

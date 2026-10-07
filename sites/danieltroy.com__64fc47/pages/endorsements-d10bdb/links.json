@@ -1,18 +1,66 @@
 [
-"https://danieltroy.com/",
-"https://danieltroy.com/about",
-"https://danieltroy.com/cart",
-"https://danieltroy.com/endorsements",
-"https://danieltroy.com/funding",
-"https://danieltroy.com/getinvolved",
-"https://danieltroy.com/issues",
-"https://danieltroy.com/proven-record",
-"https://facebook.com/Danielptroy",
-"https://secure.actblue.com/donate/troy-for-ohio",
-"https://secure.actblue.com/donate/troy-for-ohio?amount=10",
-"https://secure.actblue.com/donate/troy-for-ohio?amount=100",
-"https://secure.actblue.com/donate/troy-for-ohio?amount=25",
-"https://secure.actblue.com/donate/troy-for-ohio?amount=250",
-"https://secure.actblue.com/donate/troy-for-ohio?amount=50",
-"https://x.com/Rep_Troy"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/troy-for-ohio?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/troy-for-ohio?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/troy-for-ohio?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/troy-for-ohio?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/troy-for-ohio?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.danieltroy.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.danieltroy.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/troy-for-ohio"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danieltroy.com/endorsements"
+},
+{
+"text": "Funding",
+"href": "https://www.danieltroy.com/funding"
+},
+{
+"text": "Get Involved",
+"href": "https://www.danieltroy.com/getinvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.danieltroy.com/issues"
+},
+{
+"text": "Proven Record",
+"href": "https://www.danieltroy.com/proven-record"
+},
+{
+"text": "[image: Dan Troy]",
+"href": "https://www.danieltroy.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Danielptroy"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Rep_Troy"
+}
 ]

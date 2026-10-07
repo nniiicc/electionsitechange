@@ -1,8 +1,30 @@
 [
-"http://asbkc.com/",
-"https://facebook.com/TediRowlandforMO",
-"https://instagram.com/tedirowlandformo",
-"https://secure.actblue.com/donate/tedirowland",
-"https://tedirowland.com/",
-"https://tedirowland.com/privacy-policy"
+{
+"text": "ASB",
+"href": "http://asbkc.com"
+},
+{
+"text": "Click here",
+"href": "https://tedirowland.com/privacy-policy"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tedirowland"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TediRowlandforMO"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tedirowlandformo"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tedirowland.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://tedirowland.com"
+}
 ]

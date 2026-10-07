@@ -1,2 +1,6 @@
-Privacy Policy on Hanna Gallo State Senate.
+Privacy Policy | Hanna Gallo State Senate Privacy Policy on Hanna Gallo State Senate.
+A high-end, editorial-style digital presence for Hanna Gallo's state senate camp.
+Pages Home Privacy Policy — Privacy Policy on Hanna Gallo State Senate.
+A high-end, editorial-style digital presence for Hanna Gallo's state senate camp.
+Terms And Conditions — Terms And Conditions on Hanna Gallo State Senate.
 A high-end, editorial-style digital presence for Hanna Gallo's state senate camp.

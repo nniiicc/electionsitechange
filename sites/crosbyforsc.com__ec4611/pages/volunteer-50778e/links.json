@@ -1,15 +1,70 @@
 [
-"https://bsky.app/profile/crosbyforsc.bsky.social",
-"https://crosbyforsc.com/",
-"https://crosbyforsc.com/about",
-"https://crosbyforsc.com/contact",
-"https://crosbyforsc.com/events",
-"https://crosbyforsc.com/platform",
-"https://crosbyforsc.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com/crosbyforsc",
-"https://instagram.com/crosbyforsc",
-"https://secure.actblue.com/donate/kc44web",
-"https://threads.net/@crosbyforsc",
-"https://x.com/crosbyforsc"
+{
+"text": "Contact",
+"href": "https://www.crosbyforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kc44web"
+},
+{
+"text": "Events",
+"href": "https://www.crosbyforsc.com/events"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.crosbyforsc.com/about"
+},
+{
+"text": "Messaging Terms & Conditions",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "Platform",
+"href": "https://www.crosbyforsc.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Katie Crosby for SC House 44 logo]",
+"href": "https://www.crosbyforsc.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.crosbyforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/crosbyforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/crosbyforsc"
+},
+{
+"text": "info@CrosbyForSC.com",
+"href": "mailto:info@CrosbyForSC.com"
+}
 ]

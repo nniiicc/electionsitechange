@@ -1,17 +1,86 @@
 [
-"https://ksvotes.org/",
-"https://secure.actblue.com/donate/sawyer-for-representative-1",
-"https://tomsawyerforkansas.com/",
-"https://tomsawyerforkansas.com/about-tom-sawyer",
-"https://tomsawyerforkansas.com/contact",
-"https://tomsawyerforkansas.com/district-events",
-"https://tomsawyerforkansas.com/donate",
-"https://tomsawyerforkansas.com/tom-sawyer-fighting-to-cut-our-taxes",
-"https://tomsawyerforkansas.com/tom-sawyer-fighting-to-cut-our-taxes/sb-1-2024-special-session-tax-cuts",
-"https://tomsawyerforkansas.com/tom-sawyer-fights-for-jobs-in-wichita",
-"https://tomsawyerforkansas.com/tom-sawyer-reforming-kansas",
-"https://tomsawyerforkansas.com/tom-sawyer-shares-our-values",
-"https://tomsawyerforkansas.com/videos",
-"https://tomsawyerforkansas.com/vote",
-"https://webador.com/"
+{
+"text": "About Tom Sawyer",
+"href": "https://www.tomsawyerforkansas.com/about-tom-sawyer"
+},
+{
+"text": "Click on this button to Donate to the Campaign",
+"href": "https://secure.actblue.com/donate/sawyer-for-representative-1"
+},
+{
+"text": "Contact",
+"href": "https://www.tomsawyerforkansas.com/contact"
+},
+{
+"text": "District Events",
+"href": "https://www.tomsawyerforkansas.com/district-events"
+},
+{
+"text": "Donate",
+"href": "https://www.tomsawyerforkansas.com/donate"
+},
+{
+"text": "Donate to the campaign",
+"href": "https://secure.actblue.com/donate/sawyer-for-representative-1"
+},
+{
+"text": "FIND YOUR POLLING PLACE -",
+"href": "https://ksvotes.org"
+},
+{
+"text": "Find your polling place",
+"href": "https://ksvotes.org"
+},
+{
+"text": "Home",
+"href": "https://www.tomsawyerforkansas.com/"
+},
+{
+"text": "SB 1 2024 Special Session Tax Cuts",
+"href": "https://www.tomsawyerforkansas.com/tom-sawyer-fighting-to-cut-our-taxes/sb-1-2024-special-session-tax-cuts"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.tomsawyerforkansas.com/donate#main-content"
+},
+{
+"text": "Tom Sawyer Shares Our Values",
+"href": "https://www.tomsawyerforkansas.com/tom-sawyer-shares-our-values"
+},
+{
+"text": "Tom Sawyer fighting to cut our taxes",
+"href": "https://www.tomsawyerforkansas.com/tom-sawyer-fighting-to-cut-our-taxes"
+},
+{
+"text": "Tom Sawyer fights for jobs in Wichita",
+"href": "https://www.tomsawyerforkansas.com/tom-sawyer-fights-for-jobs-in-wichita"
+},
+{
+"text": "Tom Sawyer for Kansas",
+"href": "https://www.tomsawyerforkansas.com/"
+},
+{
+"text": "Tom Sawyer reforming Kansas",
+"href": "https://www.tomsawyerforkansas.com/tom-sawyer-reforming-kansas"
+},
+{
+"text": "VOTE",
+"href": "https://www.tomsawyerforkansas.com/vote"
+},
+{
+"text": "Videos",
+"href": "https://www.tomsawyerforkansas.com/videos"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "[image: Tom Sawyer for Kansas]",
+"href": "https://www.tomsawyerforkansas.com/"
+},
+{
+"text": "[image: Tom Sawyer for Kansas] Tom Sawyer for Kansas",
+"href": "https://www.tomsawyerforkansas.com/"
+}
 ]

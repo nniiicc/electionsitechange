@@ -1,113 +1,462 @@
 [
-"https://corymaloy.com/",
-"https://corymaloy.com/blog",
-"https://corymaloy.com/cdn-cgi/l/email-protection",
-"https://corymaloy.com/contact",
-"https://corymaloy.com/donate",
-"https://corymaloy.com/issues",
-"https://corymaloy.com/meet-cory",
-"https://corymaloy.com/the-record",
-"https://facebook.com/RepCoryMaloy",
-"https://le.utah.gov/~2017/bills/static/HB0124.html",
-"https://le.utah.gov/~2017/bills/static/HB0393.html",
-"https://le.utah.gov/~2017/bills/static/SB0069.html",
-"https://le.utah.gov/~2017/bills/static/SB0090.html",
-"https://le.utah.gov/~2017/bills/static/SB0245.html",
-"https://le.utah.gov/~2017/bills/static/SB0277.html",
-"https://le.utah.gov/~2018/bills/static/HB0056.html",
-"https://le.utah.gov/~2018/bills/static/SB0066.html",
-"https://le.utah.gov/~2018/bills/static/SB0158.html",
-"https://le.utah.gov/~2018/bills/static/SCR016.html",
-"https://le.utah.gov/~2019/bills/static/HB0114.html",
-"https://le.utah.gov/~2019/bills/static/HB0152.html",
-"https://le.utah.gov/~2019/bills/static/HB0228.html",
-"https://le.utah.gov/~2019/bills/static/HB0319.html",
-"https://le.utah.gov/~2019/bills/static/HB0367.html",
-"https://le.utah.gov/~2019/bills/static/SB0151.html",
-"https://le.utah.gov/~2019/bills/static/SB0164.html",
-"https://le.utah.gov/~2019/bills/static/SB0173.html",
-"https://le.utah.gov/~2020/bills/static/HB0057.html",
-"https://le.utah.gov/~2020/bills/static/HB0073.html",
-"https://le.utah.gov/~2020/bills/static/HB0120.html",
-"https://le.utah.gov/~2020/bills/static/HB0180.html",
-"https://le.utah.gov/~2020/bills/static/HB0271.html",
-"https://le.utah.gov/~2020/bills/static/HB0371.html",
-"https://le.utah.gov/~2020/bills/static/HB0412.html",
-"https://le.utah.gov/~2020/bills/static/SB0118.html",
-"https://le.utah.gov/~2020/bills/static/SB0166.html",
-"https://le.utah.gov/~2020/bills/static/SB0178.html",
-"https://le.utah.gov/~2020/bills/static/SB0194.html",
-"https://le.utah.gov/~2021/bills/static/HB0076.html",
-"https://le.utah.gov/~2021/bills/static/HB0143.html",
-"https://le.utah.gov/~2021/bills/static/HB0200.html",
-"https://le.utah.gov/~2021/bills/static/HB0217.html",
-"https://le.utah.gov/~2022/bills/static/HB0243.html",
-"https://le.utah.gov/~2022/bills/static/HB0295.html",
-"https://le.utah.gov/~2022/bills/static/SB0018.html",
-"https://le.utah.gov/~2022/bills/static/SB0019.html",
-"https://le.utah.gov/~2022/bills/static/SB0029.html",
-"https://le.utah.gov/~2022/bills/static/SB0030.html",
-"https://le.utah.gov/~2022/bills/static/SB0059.html",
-"https://le.utah.gov/~2022/bills/static/SB0078.html",
-"https://le.utah.gov/~2022/bills/static/SB0115.html",
-"https://le.utah.gov/~2022/bills/static/SB0152.html",
-"https://le.utah.gov/~2022/bills/static/SB0170.html",
-"https://le.utah.gov/~2023/bills/static/HB0014.html",
-"https://le.utah.gov/~2023/bills/static/HB0015.html",
-"https://le.utah.gov/~2023/bills/static/HB0020.html",
-"https://le.utah.gov/~2023/bills/static/HB0054.html",
-"https://le.utah.gov/~2023/bills/static/HB0146.html",
-"https://le.utah.gov/~2023/bills/static/HB0226.html",
-"https://le.utah.gov/~2023/bills/static/HB0264.html",
-"https://le.utah.gov/~2023/bills/static/HB0448.html",
-"https://le.utah.gov/~2023/bills/static/HB0458.html",
-"https://le.utah.gov/~2023/bills/static/HB0525.html",
-"https://le.utah.gov/~2023/bills/static/SB0012.html",
-"https://le.utah.gov/~2023/bills/static/SB0018.html",
-"https://le.utah.gov/~2023/bills/static/SB0035.html",
-"https://le.utah.gov/~2023/bills/static/SB0036.html",
-"https://le.utah.gov/~2023/bills/static/SB0037.html",
-"https://le.utah.gov/~2023/bills/static/SB0063.html",
-"https://le.utah.gov/~2023/bills/static/SB0216.html",
-"https://le.utah.gov/~2023/bills/static/SCR009.html",
-"https://le.utah.gov/~2024/bills/static/HB0039.html",
-"https://le.utah.gov/~2024/bills/static/HB0040.html",
-"https://le.utah.gov/~2024/bills/static/HB0043.html",
-"https://le.utah.gov/~2024/bills/static/HB0058.html",
-"https://le.utah.gov/~2024/bills/static/HB0063.html",
-"https://le.utah.gov/~2024/bills/static/HB0091.html",
-"https://le.utah.gov/~2024/bills/static/HB0240.html",
-"https://le.utah.gov/~2024/bills/static/HB0282.html",
-"https://le.utah.gov/~2024/bills/static/HB0292.html",
-"https://le.utah.gov/~2024/bills/static/HB0406.html",
-"https://le.utah.gov/~2024/bills/static/SB0014.html",
-"https://le.utah.gov/~2024/bills/static/SB0024.html",
-"https://le.utah.gov/~2024/bills/static/SB0025.html",
-"https://le.utah.gov/~2024/bills/static/SB0026.html",
-"https://le.utah.gov/~2024/bills/static/SB0043.html",
-"https://le.utah.gov/~2024/bills/static/SB0101.html",
-"https://le.utah.gov/~2024/bills/static/SB0272.html",
-"https://le.utah.gov/~2025/bills/static/HB0016.html",
-"https://le.utah.gov/~2025/bills/static/HB0261.html",
-"https://le.utah.gov/~2025/bills/static/HB0279.html",
-"https://le.utah.gov/~2025/bills/static/HB0301.html",
-"https://le.utah.gov/~2025/bills/static/HB0366.html",
-"https://le.utah.gov/~2025/bills/static/HB0489.html",
-"https://le.utah.gov/~2025/bills/static/SB0042.html",
-"https://le.utah.gov/~2025/bills/static/SB0044.html",
-"https://le.utah.gov/~2025/bills/static/SB0201.html",
-"https://le.utah.gov/~2025/bills/static/SB0330.html",
-"https://le.utah.gov/~2026/bills/static/HB0052.html",
-"https://le.utah.gov/~2026/bills/static/HB0076.html",
-"https://le.utah.gov/~2026/bills/static/HB0099.html",
-"https://le.utah.gov/~2026/bills/static/HB0101.html",
-"https://le.utah.gov/~2026/bills/static/HB0209.html",
-"https://le.utah.gov/~2026/bills/static/HB0246.html",
-"https://le.utah.gov/~2026/bills/static/HB0269.html",
-"https://le.utah.gov/~2026/bills/static/HB0284.html",
-"https://le.utah.gov/~2026/bills/static/HB0507.html",
-"https://le.utah.gov/~2026/bills/static/SB0117.html",
-"https://le.utah.gov/~2026/bills/static/SB0122.html",
-"https://le.utah.gov/~2026/bills/static/SB0221.html",
-"https://linkedin.com/in/acorymaloy"
+{
+"text": "801-477-0019",
+"href": "tel:8014770019"
+},
+{
+"text": "Contact",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.corymaloy.com/donate"
+},
+{
+"text": "HB 101",
+"href": "https://le.utah.gov/~2026/bills/static/HB0101.html"
+},
+{
+"text": "HB 114",
+"href": "https://le.utah.gov/~2019/bills/static/HB0114.html"
+},
+{
+"text": "HB 120",
+"href": "https://le.utah.gov/~2020/bills/static/HB0120.html"
+},
+{
+"text": "HB 124",
+"href": "https://le.utah.gov/~2017/bills/static/HB0124.html"
+},
+{
+"text": "HB 14",
+"href": "https://le.utah.gov/~2023/bills/static/HB0014.html"
+},
+{
+"text": "HB 143",
+"href": "https://le.utah.gov/~2021/bills/static/HB0143.html"
+},
+{
+"text": "HB 146",
+"href": "https://le.utah.gov/~2023/bills/static/HB0146.html"
+},
+{
+"text": "HB 15",
+"href": "https://le.utah.gov/~2023/bills/static/HB0015.html"
+},
+{
+"text": "HB 152",
+"href": "https://le.utah.gov/~2019/bills/static/HB0152.html"
+},
+{
+"text": "HB 16",
+"href": "https://le.utah.gov/~2025/bills/static/HB0016.html"
+},
+{
+"text": "HB 180",
+"href": "https://le.utah.gov/~2020/bills/static/HB0180.html"
+},
+{
+"text": "HB 20",
+"href": "https://le.utah.gov/~2023/bills/static/HB0020.html"
+},
+{
+"text": "HB 200",
+"href": "https://le.utah.gov/~2021/bills/static/HB0200.html"
+},
+{
+"text": "HB 209",
+"href": "https://le.utah.gov/~2026/bills/static/HB0209.html"
+},
+{
+"text": "HB 217",
+"href": "https://le.utah.gov/~2021/bills/static/HB0217.html"
+},
+{
+"text": "HB 226",
+"href": "https://le.utah.gov/~2023/bills/static/HB0226.html"
+},
+{
+"text": "HB 228",
+"href": "https://le.utah.gov/~2019/bills/static/HB0228.html"
+},
+{
+"text": "HB 240",
+"href": "https://le.utah.gov/~2024/bills/static/HB0240.html"
+},
+{
+"text": "HB 243",
+"href": "https://le.utah.gov/~2022/bills/static/HB0243.html"
+},
+{
+"text": "HB 246",
+"href": "https://le.utah.gov/~2026/bills/static/HB0246.html"
+},
+{
+"text": "HB 261",
+"href": "https://le.utah.gov/~2025/bills/static/HB0261.html"
+},
+{
+"text": "HB 264",
+"href": "https://le.utah.gov/~2023/bills/static/HB0264.html"
+},
+{
+"text": "HB 269",
+"href": "https://le.utah.gov/~2026/bills/static/HB0269.html"
+},
+{
+"text": "HB 271",
+"href": "https://le.utah.gov/~2020/bills/static/HB0271.html"
+},
+{
+"text": "HB 279",
+"href": "https://le.utah.gov/~2025/bills/static/HB0279.html"
+},
+{
+"text": "HB 282",
+"href": "https://le.utah.gov/~2024/bills/static/HB0282.html"
+},
+{
+"text": "HB 284",
+"href": "https://le.utah.gov/~2026/bills/static/HB0284.html"
+},
+{
+"text": "HB 292",
+"href": "https://le.utah.gov/~2024/bills/static/HB0292.html"
+},
+{
+"text": "HB 295",
+"href": "https://le.utah.gov/~2022/bills/static/HB0295.html"
+},
+{
+"text": "HB 301",
+"href": "https://le.utah.gov/~2025/bills/static/HB0301.html"
+},
+{
+"text": "HB 319",
+"href": "https://le.utah.gov/~2019/bills/static/HB0319.html"
+},
+{
+"text": "HB 366",
+"href": "https://le.utah.gov/~2025/bills/static/HB0366.html"
+},
+{
+"text": "HB 367",
+"href": "https://le.utah.gov/~2019/bills/static/HB0367.html"
+},
+{
+"text": "HB 371",
+"href": "https://le.utah.gov/~2020/bills/static/HB0371.html"
+},
+{
+"text": "HB 39",
+"href": "https://le.utah.gov/~2024/bills/static/HB0039.html"
+},
+{
+"text": "HB 393",
+"href": "https://le.utah.gov/~2017/bills/static/HB0393.html"
+},
+{
+"text": "HB 40",
+"href": "https://le.utah.gov/~2024/bills/static/HB0040.html"
+},
+{
+"text": "HB 406",
+"href": "https://le.utah.gov/~2024/bills/static/HB0406.html"
+},
+{
+"text": "HB 412",
+"href": "https://le.utah.gov/~2020/bills/static/HB0412.html"
+},
+{
+"text": "HB 43",
+"href": "https://le.utah.gov/~2024/bills/static/HB0043.html"
+},
+{
+"text": "HB 448",
+"href": "https://le.utah.gov/~2023/bills/static/HB0448.html"
+},
+{
+"text": "HB 458",
+"href": "https://le.utah.gov/~2023/bills/static/HB0458.html"
+},
+{
+"text": "HB 489",
+"href": "https://le.utah.gov/~2025/bills/static/HB0489.html"
+},
+{
+"text": "HB 507",
+"href": "https://le.utah.gov/~2026/bills/static/HB0507.html"
+},
+{
+"text": "HB 52",
+"href": "https://le.utah.gov/~2026/bills/static/HB0052.html"
+},
+{
+"text": "HB 525",
+"href": "https://le.utah.gov/~2023/bills/static/HB0525.html"
+},
+{
+"text": "HB 54",
+"href": "https://le.utah.gov/~2023/bills/static/HB0054.html"
+},
+{
+"text": "HB 56",
+"href": "https://le.utah.gov/~2018/bills/static/HB0056.html"
+},
+{
+"text": "HB 57",
+"href": "https://le.utah.gov/~2020/bills/static/HB0057.html"
+},
+{
+"text": "HB 58",
+"href": "https://le.utah.gov/~2024/bills/static/HB0058.html"
+},
+{
+"text": "HB 63",
+"href": "https://le.utah.gov/~2024/bills/static/HB0063.html"
+},
+{
+"text": "HB 73",
+"href": "https://le.utah.gov/~2020/bills/static/HB0073.html"
+},
+{
+"text": "HB 76",
+"href": "https://le.utah.gov/~2021/bills/static/HB0076.html"
+},
+{
+"text": "HB 76",
+"href": "https://le.utah.gov/~2026/bills/static/HB0076.html"
+},
+{
+"text": "HB 91",
+"href": "https://le.utah.gov/~2024/bills/static/HB0091.html"
+},
+{
+"text": "HB 99",
+"href": "https://le.utah.gov/~2026/bills/static/HB0099.html"
+},
+{
+"text": "Issues",
+"href": "https://www.corymaloy.com/issues"
+},
+{
+"text": "Meet Cory",
+"href": "https://www.corymaloy.com/meet-cory"
+},
+{
+"text": "SB 101",
+"href": "https://le.utah.gov/~2024/bills/static/SB0101.html"
+},
+{
+"text": "SB 115",
+"href": "https://le.utah.gov/~2022/bills/static/SB0115.html"
+},
+{
+"text": "SB 117",
+"href": "https://le.utah.gov/~2026/bills/static/SB0117.html"
+},
+{
+"text": "SB 118",
+"href": "https://le.utah.gov/~2020/bills/static/SB0118.html"
+},
+{
+"text": "SB 12",
+"href": "https://le.utah.gov/~2023/bills/static/SB0012.html"
+},
+{
+"text": "SB 122",
+"href": "https://le.utah.gov/~2026/bills/static/SB0122.html"
+},
+{
+"text": "SB 14",
+"href": "https://le.utah.gov/~2024/bills/static/SB0014.html"
+},
+{
+"text": "SB 151",
+"href": "https://le.utah.gov/~2019/bills/static/SB0151.html"
+},
+{
+"text": "SB 152",
+"href": "https://le.utah.gov/~2022/bills/static/SB0152.html"
+},
+{
+"text": "SB 158",
+"href": "https://le.utah.gov/~2018/bills/static/SB0158.html"
+},
+{
+"text": "SB 164",
+"href": "https://le.utah.gov/~2019/bills/static/SB0164.html"
+},
+{
+"text": "SB 166",
+"href": "https://le.utah.gov/~2020/bills/static/SB0166.html"
+},
+{
+"text": "SB 170",
+"href": "https://le.utah.gov/~2022/bills/static/SB0170.html"
+},
+{
+"text": "SB 173",
+"href": "https://le.utah.gov/~2019/bills/static/SB0173.html"
+},
+{
+"text": "SB 178",
+"href": "https://le.utah.gov/~2020/bills/static/SB0178.html"
+},
+{
+"text": "SB 18",
+"href": "https://le.utah.gov/~2022/bills/static/SB0018.html"
+},
+{
+"text": "SB 18",
+"href": "https://le.utah.gov/~2023/bills/static/SB0018.html"
+},
+{
+"text": "SB 19",
+"href": "https://le.utah.gov/~2022/bills/static/SB0019.html"
+},
+{
+"text": "SB 194",
+"href": "https://le.utah.gov/~2020/bills/static/SB0194.html"
+},
+{
+"text": "SB 201",
+"href": "https://le.utah.gov/~2025/bills/static/SB0201.html"
+},
+{
+"text": "SB 216",
+"href": "https://le.utah.gov/~2023/bills/static/SB0216.html"
+},
+{
+"text": "SB 221",
+"href": "https://le.utah.gov/~2026/bills/static/SB0221.html"
+},
+{
+"text": "SB 24",
+"href": "https://le.utah.gov/~2024/bills/static/SB0024.html"
+},
+{
+"text": "SB 245",
+"href": "https://le.utah.gov/~2017/bills/static/SB0245.html"
+},
+{
+"text": "SB 25",
+"href": "https://le.utah.gov/~2024/bills/static/SB0025.html"
+},
+{
+"text": "SB 26",
+"href": "https://le.utah.gov/~2024/bills/static/SB0026.html"
+},
+{
+"text": "SB 272",
+"href": "https://le.utah.gov/~2024/bills/static/SB0272.html"
+},
+{
+"text": "SB 277",
+"href": "https://le.utah.gov/~2017/bills/static/SB0277.html"
+},
+{
+"text": "SB 29",
+"href": "https://le.utah.gov/~2022/bills/static/SB0029.html"
+},
+{
+"text": "SB 30",
+"href": "https://le.utah.gov/~2022/bills/static/SB0030.html"
+},
+{
+"text": "SB 330",
+"href": "https://le.utah.gov/~2025/bills/static/SB0330.html"
+},
+{
+"text": "SB 35",
+"href": "https://le.utah.gov/~2023/bills/static/SB0035.html"
+},
+{
+"text": "SB 36",
+"href": "https://le.utah.gov/~2023/bills/static/SB0036.html"
+},
+{
+"text": "SB 37",
+"href": "https://le.utah.gov/~2023/bills/static/SB0037.html"
+},
+{
+"text": "SB 42",
+"href": "https://le.utah.gov/~2025/bills/static/SB0042.html"
+},
+{
+"text": "SB 43",
+"href": "https://le.utah.gov/~2024/bills/static/SB0043.html"
+},
+{
+"text": "SB 44",
+"href": "https://le.utah.gov/~2025/bills/static/SB0044.html"
+},
+{
+"text": "SB 59",
+"href": "https://le.utah.gov/~2022/bills/static/SB0059.html"
+},
+{
+"text": "SB 63",
+"href": "https://le.utah.gov/~2023/bills/static/SB0063.html"
+},
+{
+"text": "SB 66",
+"href": "https://le.utah.gov/~2018/bills/static/SB0066.html"
+},
+{
+"text": "SB 69",
+"href": "https://le.utah.gov/~2017/bills/static/SB0069.html"
+},
+{
+"text": "SB 78",
+"href": "https://le.utah.gov/~2022/bills/static/SB0078.html"
+},
+{
+"text": "SB 90",
+"href": "https://le.utah.gov/~2017/bills/static/SB0090.html"
+},
+{
+"text": "SCR 16",
+"href": "https://le.utah.gov/~2018/bills/static/SCR016.html"
+},
+{
+"text": "SCR 9",
+"href": "https://le.utah.gov/~2023/bills/static/SCR009.html"
+},
+{
+"text": "Stand With Cory in November",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "The 52 Report",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The 52 Report Blog",
+"href": "https://www.corymaloy.com/blog"
+},
+{
+"text": "The Record",
+"href": "https://www.corymaloy.com/the-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.corymaloy.com/contact"
+},
+{
+"text": "[email protected]",
+"href": "mailto:cory@corymaloy.com"
+},
+{
+"text": "[image: Cory Maloy, Utah House District 52]",
+"href": "https://www.corymaloy.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepCoryMaloy"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/acorymaloy/"
+}
 ]

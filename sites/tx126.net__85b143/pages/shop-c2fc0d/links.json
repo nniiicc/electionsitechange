@@ -1,16 +1,110 @@
 [
-"https://mercantile.wordpress.org/product/wordpress-pennant",
-"https://tx126.net/",
-"https://tx126.net/cart",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/product-categories",
-"https://tx126.net/product/706",
-"https://tx126.net/product/business-cards-outreach",
-"https://tx126.net/product/door",
-"https://tx126.net/product/yardsign",
-"https://tx126.net/register",
-"https://tx126.net/shop",
-"https://tx126.net/shop?add-to-cart=311",
-"https://tx126.net/shop?add-to-cart=312",
-"https://tx126.net/shop?add-to-cart=706"
+{
+"text": "Add to cart",
+"href": "https://mercantile.wordpress.org/product/wordpress-pennant/"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/shop/?add-to-cart=311"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/shop/?add-to-cart=312"
+},
+{
+"text": "Add to cart",
+"href": "https://www.tx126.net/shop/?add-to-cart=706"
+},
+{
+"text": "All products",
+"href": "https://www.tx126.net/shop/"
+},
+{
+"text": "Business Cards",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "Campaign Donation",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "Categories",
+"href": "https://www.tx126.net/product-categories/"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Door Hanger",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "View Product",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "View Product",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "View Product",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "View Product",
+"href": "https://www.tx126.net/product/yardsign/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.tx126.net/product/yardsign/"
+},
+{
+"text": "[image: Business Cards] Business Cards",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "[image: Campaign Donation] Campaign Donation",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "[image: Door Hanger] Door Hanger",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[image: Yard Sign] Yard Sign",
+"href": "https://www.tx126.net/product/yardsign/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/product/706/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/product/business-cards-outreach/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/product/yardsign/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+}
 ]

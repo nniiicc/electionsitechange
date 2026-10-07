@@ -1,19 +1,102 @@
 [
-"http://apolloartistry.com/",
-"https://ashbyforsenate.com/",
-"https://ashbyforsenate.com/about",
-"https://ashbyforsenate.com/cdn-cgi/l/email-protection",
-"https://ashbyforsenate.com/donate",
-"https://ashbyforsenate.com/facebook",
-"https://ashbyforsenate.com/get-involved",
-"https://ashbyforsenate.com/instagram",
-"https://ashbyforsenate.com/issues",
-"https://ashbyforsenate.com/news",
-"https://ashbyforsenate.com/privacy-policy",
-"https://ashbyforsenate.com/statement",
-"https://ashbyforsenate.com/twitter",
-"https://ashbyforsenate.com/volunteer",
-"https://secure.anedot.com/angelique-ashby-for-senate-2022/donate?amount=5",
-"https://secure.anedot.com/angelique-ashby-for-senate-2026/donate",
-"https://secure.anedot.com/angelique-ashby-for-senate-2026/donate?amount=5"
+{
+"text": "About",
+"href": "https://ashbyforsenate.com/about"
+},
+{
+"text": "About",
+"href": "https://ashbyforsenate.com/about/"
+},
+{
+"text": "Chip in $5",
+"href": "https://secure.anedot.com/angelique-ashby-for-senate-2026/donate?amount=5"
+},
+{
+"text": "Contact Us",
+"href": "mailto:Contact@AshbyForSenate.com"
+},
+{
+"text": "Donate Donate",
+"href": "https://ashbyforsenate.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.anedot.com/angelique-ashby-for-senate-2026/donate"
+},
+{
+"text": "Donate Now to Stand with Ashby for Senate Donate Now to Stand with Ashby for Senate",
+"href": "https://secure.anedot.com/angelique-ashby-for-senate-2026/donate"
+},
+{
+"text": "Facebook",
+"href": "https://ashbyforsenate.com/facebook"
+},
+{
+"text": "Facebook-f",
+"href": "https://ashbyforsenate.com/facebook"
+},
+{
+"text": "Get Involved",
+"href": "https://ashbyforsenate.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://ashbyforsenate.com"
+},
+{
+"text": "Instagram",
+"href": "https://ashbyforsenate.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://ashbyforsenate.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://ashbyforsenate.com/issues/"
+},
+{
+"text": "News",
+"href": "https://ashbyforsenate.com/news"
+},
+{
+"text": "News",
+"href": "https://ashbyforsenate.com/news/"
+},
+{
+"text": "Powered by Apollo",
+"href": "http://apolloartistry.com"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:Contact@AshbyForSenate.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ashbyforsenate.com/privacy-policy"
+},
+{
+"text": "Statement",
+"href": "https://ashbyforsenate.com/statement"
+},
+{
+"text": "Statement",
+"href": "https://ashbyforsenate.com/statement/"
+},
+{
+"text": "Volunteer",
+"href": "https://ashbyforsenate.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://ashbyforsenate.com/twitter"
+},
+{
+"text": "[image]",
+"href": "https://ashbyforsenate.com"
+},
+{
+"text": "or",
+"href": "https://secure.anedot.com/angelique-ashby-for-senate-2022/donate?amount=5"
+}
 ]

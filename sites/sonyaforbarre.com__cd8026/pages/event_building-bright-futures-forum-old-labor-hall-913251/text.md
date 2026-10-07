@@ -1,6 +1,2 @@
-Building Bright Futures Forum – Old Labor Hall
-October 8 @ 5:00 pm – 7:00 pm
-Skip to content
-Building Bright Futures Forum – Old Labor Hall
-October 8 @ 5:00 pm – 7:00 pm
-Building Bright Futures Forum
+Skip to content DONATE TODAY HOME PRIORITIES ENDORSEMENTS GET INVOLVED VOLUNTEER VOTE EVENTS CONTACT SONYA Facebook Instagram « All Events Building Bright Futures Forum – Old Labor Hall October 8 @ 5:00 pm – 7:00 pm Building Bright Futures Forum View Organizer Website Old Labor Hall 46 Granite St, Barre , VT 05641 United States + Google Map Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Event Navigation Candidate Forum Moderated by The Times Argus – Aldrich Public Library » Paid for by Sonya Spaulding for Barre City, 88 Delmont Ave.
+Barre VT 05641 Facebook Instagram HOME PRIORITIES ENDORSEMENTS GET INVOLVED Toggle child menu VOLUNTEER VOTE EVENTS CONTACT SONYA

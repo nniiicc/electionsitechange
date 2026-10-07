@@ -1,7 +1,11 @@
 {
  "description": "Randy is running for Oklahoma Senate District 2 to represent you! Learn more about Randy and join us to make a huge impact in our community.",
  "final_url": "https://www.cowlingforok.com/map",
- "paid_for_by": null,
- "title": "Map \u2014 Randy Cowling for Senate",
- "years_mentioned": []
+ "fingerprint": "b3a65740eeb82498db731c122ccca99af75d3e4e",
+ "format": 3,
+ "paid_for_by": "Authorized by Cowling for SD2 2026 You need to enable JavaScript to run this app",
+ "title": "Map — Randy Cowling for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

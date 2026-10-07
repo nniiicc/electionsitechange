@@ -1,12 +1,12 @@
-Via Star News Online
-Rouzer said he’s found his time in office enjoyable so far, although it’s also a big responsibility.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute Rep.
+Rouzer settling in at new post on Capitol Hill March 29, 2015 Via Star News Online Rouzer said he’s found his time in office enjoyable so far, although it’s also a big responsibility.
 WASHINGTON | He doesn’t yet know who he’s going to support in the 2016 presidential election, since the list of potential Republican candidates is still shaking itself out.
 But U.S.
 Rep.
 David Rouzer seems to have pretty much everything else in order as he settles into his new job representing Southeastern North Carolina in Congress.
 “Everything is coming along well,” said the Johnston County Republican who took over for the retiring Mike McIntyre in January.
-“It’s been busy, but it’s been good.”
-Not that the nation’s capital is a completely new experience for the rookie congressman.
+“It’s been busy, but it’s been good.” Not that the nation’s capital is a completely new experience for the rookie congressman.
 Rouzer previously worked on Capitol Hill as a legislative aide, so he knows his way around the congressional hallways.
 But this time he’s the top dog, and he’s got staffers in Washington and in several offices in the 7th Congressional District – including New Hanover and Brunswick counties – working for him.
 Rouzer said he’s found his time in office enjoyable so far, although it’s also a big responsibility.
@@ -24,3 +24,4 @@ Rouzer said he’s looking forward to supporting several Republican initiatives 
 Not forgetting his roots in the N.C.
 General Assembly, where he served in the state Senate, Rouzer said he’s also more than willing to work with his former colleagues in “blocking and tackling” any unneeded federal thrust into state affairs.
 “I think we have a real opportunity to do some good things this year and next year,” he said.
+Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

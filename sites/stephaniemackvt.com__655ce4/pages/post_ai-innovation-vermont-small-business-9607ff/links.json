@@ -1,20 +1,102 @@
 [
-"https://blackflannel.com/",
-"https://farmhousechocolates.com/",
-"https://senatorrocket.com/",
-"https://stephaniemackvt.com/",
-"https://stephaniemackvt.com/about",
-"https://stephaniemackvt.com/blog",
-"https://stephaniemackvt.com/blog/categories/campaign-updates",
-"https://stephaniemackvt.com/blog/tags/artificial-intelligence",
-"https://stephaniemackvt.com/blog/tags/essex",
-"https://stephaniemackvt.com/blog/tags/small-business",
-"https://stephaniemackvt.com/blog/tags/technology",
-"https://stephaniemackvt.com/blog/tags/vermont-business",
-"https://stephaniemackvt.com/category/campaign-shop",
-"https://stephaniemackvt.com/event-list",
-"https://stephaniemackvt.com/post/essex-local-option-tax-vote-no",
-"https://stephaniemackvt.com/post/reexamining-vermont-s-unique-education-funding-yield-model-a-call-for-structural-reform",
-"https://stephaniemackvt.com/post/what-can-we-actually-do-to-stop-the-credit-card-spending-nature-of-vt-legislature",
-"https://stephaniemackvt.com/profile/hello79246/profile"
+{
+"text": "About",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://www.stephaniemackvt.com/blog/tags/artificial-intelligence"
+},
+{
+"text": "Black Flannel",
+"href": "https://www.blackflannel.com/"
+},
+{
+"text": "Blog",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.stephaniemackvt.com/blog/categories/campaign-updates"
+},
+{
+"text": "Donate",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Essex",
+"href": "https://www.stephaniemackvt.com/blog/tags/essex"
+},
+{
+"text": "Events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "Farmhouse Chocolates",
+"href": "https://www.farmhousechocolates.com/"
+},
+{
+"text": "Home",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Merch",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "Reexamining Vermont’s Unique Education Funding Yield Model: A Call for Structural Reform",
+"href": "https://www.stephaniemackvt.com/post/reexamining-vermont-s-unique-education-funding-yield-model-a-call-for-structural-reform"
+},
+{
+"text": "Rocket",
+"href": "https://www.senatorrocket.com/"
+},
+{
+"text": "See All",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Small Business",
+"href": "https://www.stephaniemackvt.com/blog/tags/small-business"
+},
+{
+"text": "Stephanie Mack",
+"href": "https://www.stephaniemackvt.com/profile/hello79246/profile"
+},
+{
+"text": "Technology",
+"href": "https://www.stephaniemackvt.com/blog/tags/technology"
+},
+{
+"text": "VT HOUSE • CHITTENDEN 24",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Vermont Business",
+"href": "https://www.stephaniemackvt.com/blog/tags/vermont-business"
+},
+{
+"text": "What Can We Do to Stop the \"Credit Card\" Spending Nature of the Vermont Legislature?",
+"href": "https://www.stephaniemackvt.com/post/what-can-we-actually-do-to-stop-the-credit-card-spending-nature-of-vt-legislature"
+},
+{
+"text": "Why I’m Voting No on the Essex Local Option Tax",
+"href": "https://www.stephaniemackvt.com/post/essex-local-option-tax-vote-no"
+},
+{
+"text": "[image: Graphic reading “Why I’m Voting No on the Essex Local Option Tax” in large white text on a dark purple background, with a gold line and Stephanie Mack campaign identification at the bottom left: “Stephanie Mack, Vermont House, Chittenden-24.”]",
+"href": "https://www.stephaniemackvt.com/post/essex-local-option-tax-vote-no"
+},
+{
+"text": "[image: Hand holding several credit cards, illustrating government spending and fiscal policy in Vermont.]",
+"href": "https://www.stephaniemackvt.com/post/what-can-we-actually-do-to-stop-the-credit-card-spending-nature-of-vt-legislature"
+},
+{
+"text": "[image: Reexamining Vermont’s Unique Education Funding Yield Model: A Call for Structural Reform]",
+"href": "https://www.stephaniemackvt.com/post/reexamining-vermont-s-unique-education-funding-yield-model-a-call-for-structural-reform"
+}
 ]

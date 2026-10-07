@@ -1,4 +1,4 @@
-We all know that the world is imperfect.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Tag: family Things that we Value We all know that the world is imperfect.
 The theological answers leave us thirsty for more.
 I won’t get into that – yet, anyway.
 Maybe someday.
@@ -45,8 +45,7 @@ So easily proven.
 But half the country loves to be lied to.
 But now, the GOP appears to be separating themselves from their Dear Leader.
 Why?
-Not his racism, not his raping children, not his assault of women, not his grifting and theft, not his cruelty, not his lies, not his cursing, or false witness, or ignoring the constitution…
-But because gas is too expensive and groceries are too expensive.
+Not his racism, not his raping children, not his assault of women, not his grifting and theft, not his cruelty, not his lies, not his cursing, or false witness, or ignoring the constitution… But because gas is too expensive and groceries are too expensive.
 “It’s the economy”.
 The problem right now isn’t Trump.
 He’s just the symbol of fat, cancerous pride and greed.
@@ -57,3 +56,6 @@ But it isn’t about turning on Trump.
 It is about re-examining every single value you hold, and examining it deeply.
 Why was it that you were OK with every atrocity possible, until it affected your wallet?
 The answer to that question might be the first step towards wisdom.
+Author Sam Powell Posted on September 25, 2026 Categories Uncategorized Tags books , family , writing Leave a comment on Things that we Value Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

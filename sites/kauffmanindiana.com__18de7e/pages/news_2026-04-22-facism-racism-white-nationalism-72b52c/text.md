@@ -1,5 +1,6 @@
-The Compass My Father Gave Me
-A reflection on inheritance, conviction, and the everyday work of standing up for what is right.
+Skip to content Home About Issues Our District News Get Involved Contact Donate Donate Home About Issues Our District News Get Involved Contact Home News The Compass My Father Gave Me Personal Statement April 22, 2026 · Kelsey Kauffman The Compass My Father Gave Me Almost everything I believe about honor, courage, service, and standing against political extremism, I learned from my father.
+I have spent my life trying to live the values he handed down.
+The Compass My Father Gave Me A reflection on inheritance, conviction, and the everyday work of standing up for what is right.
 The person I have admired most in my life is my father, Draper Kauffman.
 Almost everything I believe about honor, courage, service, and standing against political extremism, I learned from him.
 In 1938, my father went to Germany on business.
@@ -19,8 +20,7 @@ Years later, as Superintendent of the U.S.
 Naval Academy, he worked to broaden the curriculum and to recruit Black and brown midshipmen.
 He believed that leadership required both knowledge and inclusion — and that an institution preparing people to defend a diverse country needed to look like that country.
 My father died in 1979.
-But if he were alive today, I have no doubt he would recognize, in our own country, the warning signs he saw in Germany in the 1930s:
-He would oppose the erosion of democratic norms and institutions.
+But if he were alive today, I have no doubt he would recognize, in our own country, the warning signs he saw in Germany in the 1930s: He would oppose the erosion of democratic norms and institutions.
 He would oppose the use of American soldiers against the civilian population they swore an oath to protect.
 He would oppose white nationalism and the mass deportation of people targeted because of their race, their faith, or their country of origin.
 And so do I.
@@ -36,4 +36,8 @@ Now I am running for the Indiana legislature, because I believe we are all calle
 That is the compass my father gave me.
 I have done my best, every day of my life, to follow it.
 For those interested, more about my father's work can be found in By Water Beneath the Walls and in historical accounts of the Navy's bomb disposal program and the founding of the UDTs (later the Navy SEALs).
-Paid for by Kelsey Kauffman for House District 44
+Paid for by Kelsey Kauffman for House District 44 Share this article Help spread the word across the district.
+Link copied! ← Back to all news Keep reading More from the trail.
+Jun 17 Issues Healthcare Is a Right: Building a Bridge to Better Care Read more → Apr 20 Issues Reproductive Rights: My Personal Story Read more → Feb 9 Press Release Kelsey Kauffman Announces Candidacy for Indiana House District 44 Read more → Donate Now Making Our Voices Heard at the Statehouse .
+Fighting for strong schools, affordable healthcare, and working families in District 44 .
+Navigate Home About Kelsey Issues News Contact Issues Education Healthcare Economy and Jobs Property Taxes Childcare Immigration Connect Greencastle, Indiana Paid for by Kelsey Kauffman for House District 44 Image Credits

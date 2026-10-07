@@ -1,11 +1,5 @@
-Women Making Waves 2016
-2016 Honored Guest:
-Distinguished Woman Making Waves In Our Community: Linda Abernathy
-Panel Members:
-Congresswoman Robin Kelly, Congresswoman Cheri Bustos, State Representative Jehan Gordon-Booth, State Representative Elizabeth Hernandez, State Representative Cynthia Soto, and Comptroller Susana Mendoza.
-Welcome From Carol, 2016
-Dear Friend,
-Thank you for joining me today.
+Carol Ammons Sign In My Account Home Request Forms About Legislation Women Making Waves Volunteer Contribute Back Events & Meetings Back Meet Carol Back Accomplishments Back Purchase Tickets Here Women Making Waves 2019 Women Making Waves 2018 Women Making Waves 2017 Women Making Waves 2016 Women Making Waves 2015 Back The People's Agenda Sign In My Account Home Request Forms Events & Meetings About Meet Carol Legislation Accomplishments Women Making Waves Purchase Tickets Here Women Making Waves 2019 Women Making Waves 2018 Women Making Waves 2017 Women Making Waves 2016 Women Making Waves 2015 Volunteer The People's Agenda Contribute Carol Ammons Women Making Waves 2016 2016 Honored Guest: Distinguished Woman Making Waves In Our Community: Linda Abernathy Panel Members: Congresswoman Robin Kelly, Congresswoman Cheri Bustos, State Representative Jehan Gordon-Booth, State Representative Elizabeth Hernandez, State Representative Cynthia Soto, and Comptroller Susana Mendoza.
+Welcome From Carol, 2016 Dear Friend, Thank you for joining me today.
 I appreciate your continued support of my candidacy.
 I am proud to say that my first legislative session has been a successful one.
 With the help of many local community organizations and activists, I have passed legislation to protect the Mahomet Aquifer (HB1326), expand higher education opportunities to minority students (SB2505), and lower the predatory cost of phone calls from Illinois prisons (HB6200).
@@ -21,11 +15,7 @@ You can find more information on my website, staterepcarolammons.com.
 Thank you again for your support.
 It has been an honor to serve as a state representative, and I am looking forward to being a part of Illinois’ 100th General Assembly this January.
 As for today, please enjoy the dynamic lineup of local, state, and national legislative leaders and activists for a discussion of policy, strategy, and the importance of having a strong representation of women in all levels of government.
-Sincerely,
-Carol
-Guests
-Linda Abernathy
-For over 30 years Linda dedicated her life to serving the Champaign-Urbana communities poor and at-risk families.
+Sincerely, Carol Guests Linda Abernathy For over 30 years Linda dedicated her life to serving the Champaign-Urbana communities poor and at-risk families.
 As a visionary, her life’s mission has been to create solutions for and speaking on behalf of hurting families.
 In 1994, she began a grassroots movement advocating for children alleged to have been abused and/or neglected.
 She eventually founded Best Interest of Children, to promote alternatives through advocacy and education regarding the current foster care system.
@@ -37,8 +27,7 @@ Linda has also served as Vice President of “SISTERS” a national organization
 In 2005 she was elected as the first African-American to serve as the City of Champaign Township Supervisor.
 In 2009 Linda retired from public office and is now serving the community in a volunteer capacity.
 Linda grew up in Decatur, Illinois, married over thirty years, and is the mother of two daughters, grandmother of six, and great-grandmother of one.
-Panel Speakers
-Congresswoman Robin Kelly In a special election on April 9th, 2013, Robin Kelly was elected to represent Illinois’ 2nd District in Congress – receiving 70.7% of the vote after winning the hotly-contested Special Democratic Primary on February 26, 2013, with an overwhelming 53.3% of the vote in a 15-way race.
+Linda Abernathy Panel Speakers Congresswoman Robin Kelly In a special election on April 9th, 2013, Robin Kelly was elected to represent Illinois’ 2nd District in Congress – receiving 70.7% of the vote after winning the hotly-contested Special Democratic Primary on February 26, 2013, with an overwhelming 53.3% of the vote in a 15-way race.
 Congressman Kelly began her career representing Illinois’ 38th District in the Illinois House of Representatives from 2002 to 2007.
 In 2007, Kelly left her position as Representative to take on the challenges of the Illinois State Treasurer’s Office.
 She was the first female African-American to serve as Chief of Staff where she worked for a progressive agenda founded in social and economic justice through an innovative investment strategy, encouraging small and local businesses, eradicating food deserts, and promoting financial literacy.
@@ -55,8 +44,7 @@ Kelly serves on many boards and commissions including the Cook County Human Righ
 Kelly lives with her husband, Dr.
 Nathaniel Horn in Matteson.
 They have two adult children: Kelly and Ryan.
-Congresswoman Tammy Duckworth
-Tammy Duckworth is running to represent Illinois in the United States Senate.
+Robin Kelly Congresswoman Tammy Duckworth Tammy Duckworth is running to represent Illinois in the United States Senate.
 Following her career as a helicopter pilot in the U.S.
 Army, Tammy worked as an advocate for Veterans at both the state and federal level.
 Tammy was elected to the House of Representatives in 2012, where she has been an active voice for Illinois families.
@@ -74,10 +62,10 @@ In Congress, Tammy is focused on growing our economy by advocating for small bus
 Tammy serves on the House Armed Services and House Oversight and Government Reform Committees.
 Tammy, her husband Bryan, a Major in the U.S.
 Army, and their daughter Abigail live in Hoffman Estates, Illinois.
-Susana Mendoza was sworn in for her second term as Chicago City Clerk on May 18, 2015, and was the first woman ever elected to the Office of the City Clerk.
+Senator Tammy Duckworth Susana Mendoza was sworn in for her second term as Chicago City Clerk on May 18, 2015, and was the first woman ever elected to the Office of the City Clerk.
 Before City Clerk, Susana Mendoza proudly served six terms as a Democratic member of the Illinois House of Representatives from 2001 to 2011 for the 1st District.
 Elected in 2000 as the youngest member of the 92nd Illinois General Assembly, she was publicly recognized for her leadership and legislation on social services, education, law enforcement, job creation and animal welfare.
-State Representative Jehan Gordon-Booth is a Democratic member of the Illinois House of Representatives, representing the 92nd district since 2009.
+Susana Mendoza State Representative Jehan Gordon-Booth is a Democratic member of the Illinois House of Representatives, representing the 92nd district since 2009.
 Jehan entered public service by becoming an AmeriCorp VISTA (Volunteer in Service to America) worker at Illinois Central College (ICC).
 During her tenure, she worked with a variety of faith-based and community-based organizations where she developed relationships and identified funding opportunities for programs benefiting local residents.
 As a VISTA worker, Jehan assisted in the development of a career-based curriculum for School District 150 and worked to build a partnership between ICC and the Destination Technology program, which increases technology exposure to enhance learning at ICC.
@@ -87,7 +75,7 @@ With citizens of Illinois and the nation calling for change, Jehan will use her 
 Jehan serves on the House Committees on Access to Federal Funding, Elementary and Secondary Education Appropriations, Human Services Appropriations, Health and Healthcare Disparities, Infrastructure and Veterans’ Affairs.
 Jehan attends New Morning Star Missionary Baptist Church in Peoria.
 She is the youngest of eight children of Cleveland and Annie Gordon, a devoted community leader and activist with the Tri-County Urban League for 43 years.
-State Representative Elizabeth Hernandez is a long-time Cicero community activist, is serving her fourth term as State Representative of the 24th District.
+Jehan Gordon-Booth State Representative Elizabeth Hernandez is a long-time Cicero community activist, is serving her fourth term as State Representative of the 24th District.
 Her top legislative priorities have been to crack down on gang violence and crime, create jobs and stimulate the economy, improve educational funding for Cicero and Berwyn schools, increase government openness and transparency, improve childcare, senior and social services, and expand access to quality, affordable health care.
 Before serving as a state lawmaker, Hernandez worked for former Lt.
 Gov.
@@ -99,8 +87,7 @@ Also, Lisa is a member of the Education Caucus, Diabetes Caucus and board member
 Hernandez was Born in Missouri and raised in Chicago.
 A single mother at twenty-one, Lisa knows firsthand the challenges of raising a family and staying in the workforce.
 She also knows the value of persistence, and in 2001 she capped her efforts for a better future by earning a college degree.
-State Representative Cynthia Soto
-State Rep.
+Elizabeth Hernandez State Representative Cynthia Soto State Rep.
 Cynthia Soto utilizes her professional experience and community involvement to represent the people of the 4th District.
 Throughout her tenure as a state legislator, she has sponsored legislation reflecting her commitment to working families, access to affordable health care, better schools, and safer neighborhoods.
 Soto has sponsored critical measures designed to assist working families in Illinois.
@@ -112,14 +99,5 @@ She also worked to make sure that those who need coverage the most receive it.
 Soto has hosted senior citizen health fairs, such as a Diabetes Awareness workshop, where valuable health and social service information and referrals are provided to residents.
 Cynthia and her husband have lived on Chicago's Near North Side for more than 30 years.
 They have three daughters.
-Thank you to all of the sponsors of WMW 2016:
-• AFL-CIO of Champaign County
-• AT&T Illinois
-• Illinois AFL-CIO
-• SEIU HealthCare II
-• The Kraft Heinz Company
-• Associated Fire Fighters of Illinois
-• Chicago Regional Council of Carpenters,
-• IL Laborer’s Legislative Committee
-• Chicagoland Operators Joint Labor-Management
-• International Union Of Operating Engineers Local 150
+Cynthia Soto Thank you to all of the sponsors of WMW 2016: • AFL-CIO of Champaign County • AT&T Illinois • Illinois AFL-CIO • SEIU HealthCare II • The Kraft Heinz Company • Associated Fire Fighters of Illinois • Chicago Regional Council of Carpenters, • IL Laborer’s Legislative Committee • Chicagoland Operators Joint Labor-Management • International Union Of Operating Engineers Local 150 CONTACT INFO: P.O.
+Box 53 Urbana, IL 61803 About Meet Carol Legislation Accomplishments Women Making Waves Panels Your Voice Matters Contact Us

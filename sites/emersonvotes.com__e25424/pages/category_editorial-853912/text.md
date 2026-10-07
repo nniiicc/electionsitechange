@@ -1,5 +1,1 @@
-Bend Bulletin: Oregon needs solutions for homeowners insurance
-Bend Bulletin: Legislators should make prescription drug policies more reasonable
-Bend Bulletin: Oregon gets more serious about housing affordability and availability
-Bend Bulletin: Bend legislators pick priorities for 2024 session
-Bend Bulletin: A special night out with Bend police
+Bend Bulletin: Oregon needs solutions for homeowners insurance Bend Bulletin: Legislators should make prescription drug policies more reasonable Bend Bulletin: Oregon gets more serious about housing affordability and availability Bend Bulletin: Bend legislators pick priorities for 2024 session Bend Bulletin: A special night out with Bend police

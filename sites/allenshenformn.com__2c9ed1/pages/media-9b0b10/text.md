@@ -1,14 +1,2 @@
-top of page
-Anti-Espionage Investigation
-Allen Shen worked with Alpha News to investigate a possible foreign government spy network here in Minnesota
-Alpha News Interview
-Allen Shen was interviewed by Alpha News on his view on Tim Walz and what Socialism really is.
-How to prevent Socialism
-Allen Shen went on Alpha News to discuss the topic that the DSA (Socialist Party) is taking over the DFL and what can we do about it.
-My Walkaway Story
-I didn't leave the Democrat Party, the party left me.
-Allen Shen's take on Iran
-I want to see an Iran from chanting "death to America" to saying "God Bless America"
-Standing on Truth MN
-Podcast Interview
-bottom of page
+top of page Christian, Veteran, Patriot Donate Freedom Matters Home Meet Allen Allen & Friends Media Vision Your Constitutional Rights Minnesota's Education Minnesota's Economy Healthcare Public Safety Veterans Government Reform Other Issues Current Issues Take Action Join us Internship Anti-Espionage Investigation Allen Shen worked with Alpha News to investigate a possible foreign government spy network here in Minnesota ​ Investigation Part 1 Investigation Part 2 Alpha News Interview Allen Shen was interviewed by Alpha News on his view on Tim Walz and what Socialism really is. ​ Allen Shen's Full Report ​ China Insight Interview How to prevent Socialism Allen Shen went on Alpha News to discuss the topic that the DSA (Socialist Party) is taking over the DFL and what can we do about it. ​ Full Story My Walkaway Story ​ ​ I didn't leave the Democrat Party, the party left me.
+Allen Shen's take on Iran I want to see an Iran from chanting "death to America" to saying "God Bless America" Standing on Truth MN Podcast Interview Ribfest Podcast Allen Shen's Interview at the 2025 Ribfest in Carver County Prepared and paid for by Allen Shen for House Committee. campaign office 7321 Melody Drive NE Fridley, MN 55432 bottom of page

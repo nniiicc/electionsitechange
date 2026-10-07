@@ -1,4 +1,6 @@
-What size shoe does your student wear?
+Elect David Berg State Representative, 25th LD, Pos.
+1 Menu Home About David The Issues Endorsements Make A Donation Find Your Drop Box What Size Shoe Does Your Student Wear?
+Posted on May 14, 2021 by David Berg Leave a Comment What size shoe does your student wear?
 I’m sure it seems like an odd question from someone seeking to be an advocate for you and your child as a member of the Puyallup School Board.
 When your child turned eight years old, they weren’t automatically given a pair of size eight shoes.
 They might not have needed new shoes yet, or they might have been overdue for a new pair.
@@ -16,6 +18,7 @@ Our teachers differentiate instruction to try to ensure that each student gets w
 A student who starts the year needing a little more help in one area might make more than a year’s worth of progress in that area by the end of the year.
 Maybe they’ll match that level of growth across several areas of learning.
 Maybe they won’t.
+I’m an advocate for each child.
 I’m an advocate for each child.
 One size fits all solutions are a compromise.
 I appreciate the plan that the Puyallup School District is making right now to address the issue commonly known as “learning loss” as they prepare for the beginning of the 2021-2022 school year.
@@ -36,3 +39,7 @@ Some of those additional supports will come with a price tag, and we’ll need t
 It will be even more important that we can all work together to find solutions that fit each student.
 I want to hear from you, too, because it will be my role to be your voice on the School Board.
 I’m excited for the opportunity to be a part of that conversation.
+Share this: Share on Facebook (Opens in new window) Facebook Share on Bluesky (Opens in new window) Bluesky Like this: Like Loading… Category: Latest Articles Tags: Cooperation , David Berg , Differentiation , Election , Learning Loss , Puyallup School Board , Puyallup School District ← Teacher Appreciation Week The Job of a School Director → Leave a Reply Cancel reply Translate Countdown to the General Ballots are Due - Use a Drop Box!
+November 3, 2026 # days to go.
+Paid for by Citizens for David Berg 1410 24TH AVE CT SW Puyallup, WA 98373 Archives July 2026 October 2021 June 2021 May 2021 April 2021 Like me on Facebook Like me on Facebook Facebook Twitter Email Discover more from Elect David Berg Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

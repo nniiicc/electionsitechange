@@ -1,15 +1,74 @@
 [
-"https://app.textmagic.com/widget/subscribe/f54cf0faf675fd4",
-"https://davefortn.com/",
-"https://davefortn.com/contact",
-"https://davefortn.com/donate",
-"https://davefortn.com/endorsements",
-"https://davefortn.com/faq",
-"https://davefortn.com/merch",
-"https://davefortn.com/platform",
-"https://davefortn.com/volunteer",
-"https://facebook.com/davefortn",
-"https://instagram.com/davefortennessee",
-"https://linktr.ee/davefortn",
-"https://secure.anedot.com/davefortn/donate"
+{
+"text": "Contact",
+"href": "https://davefortn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://davefortn.com/donate"
+},
+{
+"text": "Donate now",
+"href": "https://secure.anedot.com/davefortn/donate"
+},
+{
+"text": "Endorse Dave for Tennessee",
+"href": "mailto:dave@davefortn.com?subject=Discuss+Endorsement+from+____"
+},
+{
+"text": "Endorsements",
+"href": "https://davefortn.com/endorsements"
+},
+{
+"text": "Events & More",
+"href": "https://linktr.ee/davefortn"
+},
+{
+"text": "FAQ",
+"href": "https://davefortn.com/faq"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/davefortn/"
+},
+{
+"text": "Home",
+"href": "https://davefortn.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/davefortennessee"
+},
+{
+"text": "Platform",
+"href": "https://davefortn.com/platform"
+},
+{
+"text": "Request Appearance",
+"href": "mailto:dave@davefortn.com?subject=Please+join+us+for+____"
+},
+{
+"text": "Share your Advocacy",
+"href": "mailto:dave@davefortn.com?subject=I%27d+like+to+discuss+____"
+},
+{
+"text": "Signs & Shirts",
+"href": "https://davefortn.com/merch"
+},
+{
+"text": "The Volunteer Plan",
+"href": "https://davefortn.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://app.textmagic.com/widget/subscribe/f54cf0faf675fd4"
+},
+{
+"text": "Volunteer",
+"href": "https://davefortn.com/volunteer"
+},
+{
+"text": "[image: Blue image of Dave for Tennessee, Independent Candidate for Governor]",
+"href": "https://davefortn.com/"
+}
 ]

@@ -1,12 +1,70 @@
 [
-"https://facebook.com/janeforflorida",
-"https://instagram.com/janeforflorida",
-"https://janeforflorida.com/",
-"https://janeforflorida.com/about",
-"https://janeforflorida.com/cdn-cgi/l/email-protection",
-"https://janeforflorida.com/issues",
-"https://janeforflorida.com/privacy-policy",
-"https://janeforflorida.com/volunteer",
-"https://secure.actblue.com/donate/ja-website",
-"https://x.com/JaneforFlorida"
+{
+"text": "About",
+"href": "https://janeforflorida.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ja-website"
+},
+{
+"text": "Endorsements",
+"href": "https://janeforflorida.com/#endorsements"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "Home",
+"href": "https://janeforflorida.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "Issues",
+"href": "https://janeforflorida.com/issues/"
+},
+{
+"text": "On Facebook",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "On Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "On X",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "Privacy Policy",
+"href": "https://janeforflorida.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://janeforflorida.com/#voting-info"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@janeforflorida.com"
+},
+{
+"text": "[image]",
+"href": "https://janeforflorida.com"
+}
 ]

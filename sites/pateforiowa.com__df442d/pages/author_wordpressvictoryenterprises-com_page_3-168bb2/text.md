@@ -1,28 +1,25 @@
-Iowa sets new general election voter turnout record
-IOWA, USA — Complete election results are available at this link or by texting VOTE to 515-457-1026.
+Home Meet Paul Get Involved News Contact Donate Author: wordpress@victoryenterprises.com Home wordpress@victoryenterprises.com Page 3 Iowa sets new general election voter turnout record November 3, 2020 by wordpress@victoryenterprises.com in News IOWA, USA — Complete election results are available at this link or by texting VOTE to 515-457-1026.
 Election Day is over, but that results in Iowa and across the country are still being counted.
-DES MOINES – Election Day is Tuesday.
+Read More Iowa is prepared for Election Day, Secretary of State Paul Pate says November 2, 2020 by wordpress@victoryenterprises.com in News DES MOINES – Election Day is Tuesday.
 Iowans who have listened to countless campaign speeches and sat through hours of mind-numbing attack ads finally will get their say – although a record 40 percent or so of eligible voters already have lodged their choices by absentee ballots or early-voting options.
-Iowa Secretary of State Paul Pate says the state, federal and military experts as well as a private contractor have scanned the state’s election systems.
-“Iowans, your vote and your data is protected,” Pate said Thursday.
-“..We’ve added extra layers of protection and we will continue to do so.”
-DES MOINES, Iowa (KCRG) – Iowa Secretary of State Paul Pate has announced new resources to assist individuals with past felony convictions who have had their voting rights restored.
+Read More Secretary of State says extra layers of cyber protection added to Iowa election systems October 3, 2020 by wordpress@victoryenterprises.com in News Iowa Secretary of State Paul Pate says the state, federal and military experts as well as a private contractor have scanned the state’s election systems.
+“Iowans, your vote and your data is protected,” Pate said Thursday. “..We’ve added extra layers of protection and we will continue to do so.” Read More Secretary Pate unveils new resources to help Iowans with felony convictions understand voting process October 2, 2020 by wordpress@victoryenterprises.com in News DES MOINES, Iowa (KCRG) – Iowa Secretary of State Paul Pate has announced new resources to assist individuals with past felony convictions who have had their voting rights restored.
 Pate’s office designed a new voter registration form that was unanimously approved by the state’s bipartisan Voter Registration Commission on Friday.
-The new form clarifies that […]
-Iowa Secretary of State Paul Pate was unanimously elected President of the National Association of Secretaries of State (NASS) during the organization’s summer conference in Santa Fe, New Mexico.
+The new form clarifies that […] Read More Secretary Pate named NASS President, wins national award for election cyber security May 12, 2020 by wordpress@victoryenterprises.com in News Iowa Secretary of State Paul Pate was unanimously elected President of the National Association of Secretaries of State (NASS) during the organization’s summer conference in Santa Fe, New Mexico.
 Additionally, Pate won the prestigious NASS IDEAS Award for his election cyber security initiative, “Partnerships Pay Dividends: A Roadmap to Election Cyber Security”.
-Secretary Pate will […]
-Voters in Iowa have made history, with more than 2 million residents being registered to vote heading into a general election year.
+Secretary Pate will […] Read More Iowa sees highest number of registered voters heading into a general election year December 3, 2019 by wordpress@victoryenterprises.com in News Voters in Iowa have made history, with more than 2 million residents being registered to vote heading into a general election year.
 DES MOINES, Iowa — Voters in Iowa have made history, with more than 2 million residents being registered to vote heading into a general election year.
-By Monday, December 2, there were 2,014,226 […]
-Incumbent Paul Pate defeated Democratic opponent Deidre DeJear for a spot as the chief executive of Iowa elections.
+By Monday, December 2, there were 2,014,226 […] Read More Pate reclaims his position as Iowa’s secretary of state November 6, 2018 by wordpress@victoryenterprises.com in News Incumbent Paul Pate defeated Democratic opponent Deidre DeJear for a spot as the chief executive of Iowa elections.
 Kit Fitzgerald, News Reporter November 6, 2018 On Tuesday, Paul Pate was re-elected to his position as Iowa’s secretary of state.
-Pate beat opponent Democrat Deidre DeJear 52.86 percent to 44.74 percent, with all counties reporting results. […]
-DES MOINES - Iowa Secretary of State Paul Pate launched a new campaign ad on statewide television.
+Pate beat opponent Democrat Deidre DeJear 52.86 percent to 44.74 percent, with all counties reporting results. […] Read More Pate launches new statewide campaign ad “Referee” October 23, 2018 by wordpress@victoryenterprises.com in News DES MOINES - Iowa Secretary of State Paul Pate launched a new campaign ad on statewide television.
 The ad, entitled "Referee" stresses on the importance of conducting elections in a bipartisan manner.
 "My opponent has zero experience overseeing elections or working across the aisle.
 She was a campaign operative for Barack Obama.
-Now, ultra-partisan Democrats [...]
-View full article here.
-ONLY CURRENT SECRETARY OF STATE IN THE NATION TO EARN THIS DESIGNATION DES MOINES – Iowa Secretary of State Paul Pate was designated as a Certified Elections/Registration Administrator (CERA), the highest professional achievement in the nation for an election official.
-The certification ceremonies were conducted by The Election Center and took place in New Orleans […]
+Now, ultra-partisan Democrats [...] Read More Share Their Story Domestic Violence Awareness Month Interview October 10, 2018 by wordpress@victoryenterprises.com in News View full article here.
+Read More Secretary Pate receives top national certification for election officials August 28, 2018 by wordpress@victoryenterprises.com in News ONLY CURRENT SECRETARY OF STATE IN THE NATION TO EARN THIS DESIGNATION DES MOINES – Iowa Secretary of State Paul Pate was designated as a Certified Elections/Registration Administrator (CERA), the highest professional achievement in the nation for an election official.
+The certification ceremonies were conducted by The Election Center and took place in New Orleans […] Read More Search for: Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State MEDIA RELEASE: Paul Pate announces bid for reelection as Iowa Secretary of State Secretary Pate calls for statewide High School Voter Registration Day on Feb.
+22 « 1 2 3 4 5 » Paul Pate, a nationally recognized small business leader, is serving his third term as Iowa's Secretary of State.
+Pate followed through on his 2014 campaign promises by making it easier for overseas military members to vote, instituting online voter registration, implementing a Safe at Home program for survivors of violence, and bringing Voter ID to Iowa.
+Pate has succeeded in making it easy to vote, but hard to cheat.
+Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State Contact Information Address: 300 Walnut St.
+#79 Des Moines, Iowa 50309 Email: Info@PateForIowa.com PAID FOR BY PATE FOR IOWA Copyright # All Rights Reserved

@@ -1,11 +1,12 @@
-The Unapologetic Independent.
+Skip to Content Open Menu Close Menu Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Jade Simmons Meet Jade Simmons Write-in Jade Simmons Our Beliefs Policy Serving All The Way Calendar Donate 0 0 Join Team Future Today Open Menu Close Menu Meet Jade Simmons Write-in Jade Simmons Folder: Our Beliefs Back Policy Serving All The Way Calendar Donate Join Team Future Today The Unapologetic Independent.
 The Servant Leader.
 The Disruptor in Politics.
 The Purpose-Driven Pioneer.
 The Maverick Musician.
 The Voice and Vision for the Future.
 Meet Jade Simmons.
-Jade Simmons is running for the United States Senate because too many Texans believe Washington and the two-party system no longer work for them. 49% of Texas identifies as independent.
+Jade Simmons is running for the United States Senate because too many Texans believe Washington and the two-party system no longer work for them.
+49% of Texas identifies as independent.
 An Independent candidate, Simmons is offering a clear alternative to a political system dominated by party interests, partisan division, and career politicians who too often protect the system instead of the people it is meant to serve.
 She brings a different kind of leadership to this race which is one built outside of politics and independent of it.
 As a business owner, author, educator, nationally sought-after speaker, and acclaimed concert artist, Simmons has spent her career helping people and institutions perform at the highest level.
@@ -31,3 +32,11 @@ Mus).
 No stranger to disrupting the world of politics in the name of providing a purposeful option for those who find themselves politically homeless, Simmons ran as an Independent candidate for President of the United States in 2020.
 Even in the midst of a complete media shutout by mainstream media and the challenge of campaigning during COVID-19, Team Operation Restoration was able to get Jade qualified to be voted on in more than 40+ states.
 She brings the same relentless determination, heart for service, and commitment to purpose-centered leadership to her Senate bid in Texas.
+STAY UPDATED Let’s Build the Future Together.
+Get notified when new ways to get involved are announced — from community events, to volunteering, to statewide initiatives.
+Your privacy matters to us, your information stays private — always.
+SUPPORT Team Future By signing up, you agree to receive updates from Jade Simmons for U.S.
+Senate .
+We respect your privacy — your information will never be sold, shared, or used for any purpose outside of campaign communications.
+You may unsubscribe at any time.
+Terms and Conditions Private Policy FAQs Stay connected

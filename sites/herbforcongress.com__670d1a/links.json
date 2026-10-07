@@ -1,13 +1,54 @@
 [
-"https://facebook.com/DrConaway",
-"https://facebook.com/DrConaway/events",
-"https://herbforcongress.com/",
-"https://herbforcongress.com/about",
-"https://herbforcongress.com/issues",
-"https://herbforcongress.com/media",
-"https://herbforcongress.com/privacy-policy",
-"https://herbforcongress.com/sign-up",
-"https://instagram.com/drherbconawaynj",
-"https://secure.actblue.com/donate/hcwebsite",
-"https://twitter.com/herbconaway"
+{
+"text": "About",
+"href": "https://www.herbforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hcwebsite"
+},
+{
+"text": "Home",
+"href": "https://www.herbforcongress.com"
+},
+{
+"text": "Issues",
+"href": "https://www.herbforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.herbforcongress.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.herbforcongress.com/privacy-policy"
+},
+{
+"text": "Sign up",
+"href": "https://www.herbforcongress.com/sign-up"
+},
+{
+"text": "Volunteer",
+"href": "https://www.facebook.com/DrConaway/events"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DrConaway"
+},
+{
+"text": "[image: HERB23001 Logo-01.png]",
+"href": "https://www.herbforcongress.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/drherbconawaynj/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/herbconaway"
+},
+{
+"text": "info@herbforcongress.com",
+"href": "mailto:info@herbforcongress.com"
+}
 ]

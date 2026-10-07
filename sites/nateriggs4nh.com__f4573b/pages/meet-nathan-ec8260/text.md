@@ -1,5 +1,4 @@
-Meet Nathan
-I’m Nate, owner of Scuttlebutt Barbershop here on the Seacoast, and a First Lieutenant in the New Hampshire Army National Guard with 16 years of service across the Coast Guard, Navy Reserve, and Army National Guard.
+0 Skip to Content Home Meet Nathan Issues Voting Info Contact DONATE Open Menu Close Menu Home Meet Nathan Issues Voting Info Contact DONATE Open Menu Close Menu Home Meet Nathan Issues Voting Info Contact DONATE Meet Nathan I’m Nate, owner of Scuttlebutt Barbershop here on the Seacoast, and a First Lieutenant in the New Hampshire Army National Guard with 16 years of service across the Coast Guard, Navy Reserve, and Army National Guard.
 Running a small business and serving in uniform have taught me the same lesson: you show up, you take care of your people, and you get the job done.
 My wife Chelsea and I are raising our two kids right here in Hampton’s school system, which is exactly why I’m running — I want to make decisions for this community the way I’d want them made for my own family.
 As your State Representative, I’ll fight to bring property taxes down and push the state to take on its fair share of public education funding instead of pushing that cost onto local taxpayers — and I’ll stand firmly against the conservative voucher scheme that drains resources from our public schools.
@@ -7,3 +6,4 @@ I believe healthcare should be accessible and affordable for every family, so wo
 As a veteran, I know firsthand how hard it can be to get timely mental health and substance abuse care through the VA, and I’ll work to make sure every veteran gets the treatment they earned and deserve.
 And I believe New Hampshire should be a state where women and LGBTQ+ Granite Staters are never oppressed, but welcomed, respected, and protected under the law.
 I’m running because Hampton deserves a State Representative who shows up, listens, and fights for working families, veterans, and every person in this community — regardless of who they are or who they love.
+MEET NATHAN ISSUES VOTER INFO CONTACT DONATE Paid for by the Hampton Town Democratic Committee | Scott Blair, Treasurer | PO Box 1107, Hampton, NH 03843.

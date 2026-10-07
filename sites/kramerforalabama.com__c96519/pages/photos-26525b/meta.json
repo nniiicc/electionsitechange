@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://kramerforalabama.com/photos",
- "paid_for_by": null,
+ "fingerprint": "d91719ed20fec8374fbcbab572b0be32da507e24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

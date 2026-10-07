@@ -1,5 +1,4 @@
-Meet Michelle
-I first became active in politics as a volunteer Latinos for Trump, door knocking, phone banking and volunteering at events.
+0 Skip to Content Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Meet Michelle I first became active in politics as a volunteer Latinos for Trump, door knocking, phone banking and volunteering at events.
 I was an adjudicator for the 2020 election and participated in the canvas to help clean up the voter rolls.
 I was involved with the Senate Audit from day one, initially as an observer and then became a table manager.
 I continued to stay involved and actively supported Conservative candidates in 2022 and served as the Marshal for the 2022 Primary and General elections.
@@ -17,3 +16,4 @@ I am married to my husband Frank of 36 years.
 I have been blessed with an amazing son, an awesome daughter-in-law and two beautiful grandsons.
 I raised my son in a time when society was not trying to dictate who he was to become.
 I am now in this fight to protect my grandsons and all children from the snares of what society has become.
+DONATE Contact Us michelle@altherrld23.com Privacy Policy Paid For By ElectMichelleAltherr - Authorized by Michelle Altherr

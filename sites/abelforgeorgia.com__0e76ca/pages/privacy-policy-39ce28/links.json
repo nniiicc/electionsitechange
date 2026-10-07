@@ -1,16 +1,58 @@
 [
-"http://facebook.com/KevinAbelForChange",
-"https://abelforgeorgia.com/",
-"https://abelforgeorgia.com/about",
-"https://abelforgeorgia.com/cart",
-"https://abelforgeorgia.com/endorsements",
-"https://abelforgeorgia.com/get-involved",
-"https://abelforgeorgia.com/home",
-"https://abelforgeorgia.com/platform",
-"https://abelforgeorgia.com/privacy-policy",
-"https://abelforgeorgia.com/terms-of-use",
-"https://duewestdesign.com/",
-"https://instagram.com/Abel4Ga",
-"https://secure.actblue.com/donate/kawebsite",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.abelforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.abelforgeorgia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kawebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.abelforgeorgia.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.abelforgeorgia.com/get-involved"
+},
+{
+"text": "Platform",
+"href": "https://www.abelforgeorgia.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.abelforgeorgia.com/privacy-policy"
+},
+{
+"text": "Site Credit",
+"href": "https://www.duewestdesign.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://www.squarespace.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.abelforgeorgia.com/home#subscribe"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.abelforgeorgia.com/terms-of-use"
+},
+{
+"text": "[image: Kevin Abel for Georgia]",
+"href": "https://www.abelforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/KevinAbelForChange"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Abel4Ga"
+}
 ]

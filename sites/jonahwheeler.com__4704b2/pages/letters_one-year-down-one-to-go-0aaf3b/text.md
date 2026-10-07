@@ -1,6 +1,8 @@
-Misc.
-Letter
-The oath of office was administered December 7th, 2022.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all One year down, one to go.
+One year down, one to go.
+One year down, one to go.
+Dec 7, 2023 Dec 7, 2023 Misc.
+Letter The State Senate - 10 February 2023 - 14:48 - Taken by Jonah The State Senate - 10 February 2023 - 14:48 - Taken by Jonah The oath of office was administered December 7th, 2022.
 There were 201 Republicans, and 197 Democrats that took the oath that day, making this the closest the composition of the legislature has been since 1871.
 People have been debating, and voting on the laws of the State of New Hampshire in this body for over two hundred years.
 Much has changed over the centuries Representatives have debated at the dais.
@@ -28,7 +30,7 @@ The election was cordial.
 Both candidates and the members who nominated them emphasized the unique opportunity the virtual tie in membership gives the body to be bipartisan.
 In one round of voting Representative Packard was elected as the Speaker of the House.
 We finished the rest of our business for the day and went home for the holidays.
-Unlike most States where most bills don’t move past introduction, in New Hampshire, every bill introduced gets assigned to it’s relevant committee for a hearing in which members of the public can come testify, and every citizen has a right to be heard.
+Webster at Night - 2 October 2022 - 0107 - Concord, NH - Taken by Jonah Webster at Night - 2 October 2022 - 0107 - Concord, NH - Taken by Jonah Unlike most States where most bills don’t move past introduction, in New Hampshire, every bill introduced gets assigned to it’s relevant committee for a hearing in which members of the public can come testify, and every citizen has a right to be heard.
 Each one of those bills gets whats called an executive session in the committee which it has been assigned to where the bill gets voted on, and gets a committee recommendation.
 Committees can either vote to recommend an Ought to Pass, or Inexpedient to Legislate motion to the floor.
 More commonly referred to as OTP, and ITL motions respectively.
@@ -46,7 +48,7 @@ The prime sponsor Ellen Read and the Vice Chair of Criminal Justice Representati
 After bouncing back and forth between the House and the Senate the bill was unanimously adopted by both bodies, and signed by Governor Sununu on August 4th.
 None of that would’ve been possible without the work of the advocates who were brave enough to share their stories.
 They proved the power people can have when they organize, taking action on their own, and as a result women in the county jails will be a big step closer to being treated as the human beings that they are.
-I ran for office because our country is fundamentally out of sync.
+Pink Gold - 20 December 2023 - 16:04 - Concord, NH - Taken by Jonah Pink Gold - 20 December 2023 - 16:04 - Concord, NH - Taken by Jonah ​I ran for office because our country is fundamentally out of sync.
 Those glad-handing lobbyists, and the powerful people and organizations they work for, have all of the power.
 While the people, the laborers who are the lifeblood of our society, have none.
 The line between the public and private sector has blurred so much so that it may not even exist anymore.
@@ -60,7 +62,5 @@ I am not a backbencher, or a button pusher.
 I’m not in public service to hangout with the politicians, I’m there to serve.
 To use every minute I have advocating for those who don’t have a voice in the halls of power.
 I am proud to say I’ve done that, and will do that as long as the people want me to serve.
-Regards,
-Representative Jonah Orion Wheeler
-December 7th, 2023.
-Back to all
+Regards, Representative Jonah Orion Wheeler December 7th, 2023.
+Gold - 20 December 2023 - 16:46 - Concord, NH - Taken by Jonah Gold - 20 December 2023 - 16:46 - Concord, NH - Taken by Jonah ‹ Running for the State House ‹ Running for the State House ‹ Running for the State House Governor Ayotte's Valentines gift to the legislature. › Governor Ayotte's Valentines gift to the legislature. › Governor Ayotte's Valentines gift to the legislature. › Back to all

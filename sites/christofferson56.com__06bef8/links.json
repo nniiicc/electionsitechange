@@ -1,11 +1,46 @@
 [
-"https://kaychristofferson.com/",
-"https://kaychristofferson.com/affordability",
-"https://kaychristofferson.com/donate",
-"https://kaychristofferson.com/families",
-"https://kaychristofferson.com/government",
-"https://kaychristofferson.com/issues",
-"https://kaychristofferson.com/meet-Kay",
-"https://kaychristofferson.com/transportation",
-"https://kaychristofferson.com/water"
+{
+"text": "Donate",
+"href": "https://kaychristofferson.com/donate/"
+},
+{
+"text": "Explore Kay's Record",
+"href": "https://kaychristofferson.com/issues"
+},
+{
+"text": "Families",
+"href": "https://kaychristofferson.com/families/"
+},
+{
+"text": "Home",
+"href": "https://kaychristofferson.com"
+},
+{
+"text": "Issues",
+"href": "https://kaychristofferson.com/issues/"
+},
+{
+"text": "Keeping Utah Affordable",
+"href": "https://kaychristofferson.com/affordability/"
+},
+{
+"text": "Limited Government",
+"href": "https://kaychristofferson.com/government/"
+},
+{
+"text": "More About Kay",
+"href": "https://kaychristofferson.com/meet-Kay"
+},
+{
+"text": "Representative Kay Christofferson",
+"href": "https://kaychristofferson.com"
+},
+{
+"text": "Transportation",
+"href": "https://kaychristofferson.com/transportation/"
+},
+{
+"text": "Water",
+"href": "https://kaychristofferson.com/water/"
+}
 ]

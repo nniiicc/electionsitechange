@@ -1,21 +1,13 @@
-Make your voice Heard
-Important
-Dates
-In-Person Absentee Voting: Begins September 18th, 2026 at Scott Co.
-Public Works Building (600 Country Trail East, Jordan MN)
-In-Person Early Voting: Begins October 16, 2026 at Shakopee City Hall (485 Gorman St).
+0 Skip to Content Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Act Donate Volunteer Yard Signs Issues About Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Open Menu Close Menu Vote Folder: Act Back Donate Volunteer Yard Signs Issues Folder: About Back Meet Brad Endorsements Accomplishments In the News Media Room Connect Survey CHIP IN NOW Make your voice Heard Important Dates In-Person Absentee Voting: Begins September 18th, 2026 at Scott Co.
+Public Works Building (600 Country Trail East, Jordan MN) In-Person Early Voting: Begins October 16, 2026 at Shakopee City Hall (485 Gorman St).
 Available between 8am and 4:30pm Monday through Friday.
-Extended In-Person Early Voting Hours:
-Saturday, October 21: 9:00am to 3:00pm
-Tuesday, October 27: 8:00am to 7:00pm
-Saturday, October 31: 9:00am to 3:00pm
-Sunday, November 1: 9:00am to 3:00pm
-Monday, November 2: 8:00am to 5:00pm
-Absentee Ballot Drop off: You can drop off your absentee/mail-in ballot at the Scott County Government Center (200 4th Ave W, Shakopee) or the Scott County Public Works Facility (600 Country Trail E, Jordan)
-Election Day: Your local polling location will open at 7:00am on November 3, 2026 and close at 8:00pm.
+Extended In-Person Early Voting Hours: Saturday, October 21: 9:00am to 3:00pm Tuesday, October 27: 8:00am to 7:00pm Saturday, October 31: 9:00am to 3:00pm Sunday, November 1: 9:00am to 3:00pm Monday, November 2: 8:00am to 5:00pm Absentee Ballot Drop off: You can drop off your absentee/mail-in ballot at the Scott County Government Center (200 4th Ave W, Shakopee) or the Scott County Public Works Facility (600 Country Trail E, Jordan) Election Day: Your local polling location will open at 7:00am on November 3, 2026 and close at 8:00pm.
 Register.
 Plan.
 Vote.
 Every election matters.
 Every vote matters.
 Make sure you’re registered to vote, choose how you’re going to vote, and track the status of your ballot.
+Check Voter REgistration Find Your Polling location Request Absentee Ballot Find Absentee Ballot Dropbox Check Absentee Ballot Status View your Sample ballot Get Voting Support Campaign Office 285 1st Ave.
+E.
+Shakopee, MN 55379 quick links Volunteer Donate Yard Signs Vote About Issues Contact tabkebrad@gmail.com (952) 225-3124 Prepared and paid for by the Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379

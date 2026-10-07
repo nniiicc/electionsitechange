@@ -1,7 +1,11 @@
 {
  "description": "Senator Jaha Howard is a Democrat representing Senate District 35.",
  "final_url": "https://www.jahahoward.com/",
- "paid_for_by": null,
+ "fingerprint": "a2974b048419df005740f922bb3ff311a602c389",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Senator Jaha Howard",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

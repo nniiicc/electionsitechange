@@ -1,7 +1,5 @@
-Majority Dems want to limit public debate
-By Rep.
-Rebecca Dow / Republican, T Or C
-There is a deep divide between rural and urban New Mexico, and changing the rules of debate will only make it worse.
+Home News IN THE NEWS VETERANS RESOURCES PARENTAL NOTIFICATION FORM EXPECTING MOTHERS ABOUT ABOUT REBECCA REBECCA'S VALUES CONTACT REBECCA Contribute News Home In the News Article 18 Jan Majority Dems want to limit public debate By housereplogin By Rep.
+Rebecca Dow / Republican, T Or C There is a deep divide between rural and urban New Mexico, and changing the rules of debate will only make it worse.
 Anyone who watched the last legislative session would be forgiven for believing there were two different New Mexico’s.
 Laws were passed, money was spent and taxes were raised – all approved by those in the majority party and supported by the special interests, often benefiting those who live in the urban areas of the state.
 Meanwhile, many New Mexicans who live outside of Albuquerque, Santa Fe and Las Cruces watched and wondered how their voices could matter so little.
@@ -33,3 +31,5 @@ Our state is crying out for leadership that values differences.
 Debate is not about disagreeing; it is about enriching the legislative process through the expression of diverse perspectives.
 Debate should and does result in better laws that value the liberty, equality, economy and diversity of the New Mexico.
 If the majority truly believes in the diversity of our state, then it should embrace diversity of thought as well.
+Contact Rebecca Address: 1309 N.
+Riverside, Truth or Consequences, NM 87901 Phone: (575) 341-1301 Email: rebecca@dowforhouse.com Links Home News Contact Rebecca Contribute PAID FOR BY COMMITTEE TO ELECT REBECCA DOW

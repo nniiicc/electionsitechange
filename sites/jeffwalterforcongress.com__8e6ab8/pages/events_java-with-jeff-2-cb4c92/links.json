@@ -1,25 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Java+with+Jeff&dates=20260929T113000Z%2F20260930T013000Z&location=2035+South+Washington+Street%2C+Naperville%2C+Illinois%2C+60565%2C+United+States",
-"http://maps.google.com/?q=2035+South+Washington+Street+Naperville%2C+Illinois%2C+60565+United+States",
-"http://truthsocial.com/JeffWalterIL",
-"https://facebook.com/JeffWalterIL",
-"https://instagram.com/jeffwalterforcongress?hl=en",
-"https://jeffwalterforcongress.com/",
-"https://jeffwalterforcongress.com/about",
-"https://jeffwalterforcongress.com/cart",
-"https://jeffwalterforcongress.com/contact",
-"https://jeffwalterforcongress.com/district",
-"https://jeffwalterforcongress.com/endorsements",
-"https://jeffwalterforcongress.com/events",
-"https://jeffwalterforcongress.com/events/java-with-jeff-2?format=ical",
-"https://jeffwalterforcongress.com/events/java-with-jeff-3",
-"https://jeffwalterforcongress.com/events/village-of-elburn-america-250-celebration-open-house",
-"https://jeffwalterforcongress.com/home",
-"https://jeffwalterforcongress.com/in-the-news",
-"https://jeffwalterforcongress.com/issues",
-"https://jeffwalterforcongress.com/privacy",
-"https://jeffwalterforcongress.com/volunteer",
-"https://secure.winred.com/committee-to-elect-jeff-walter/donate-today",
-"https://secure.winred.com/committee-to-elect-jeff-walter/storefront",
-"https://x.com/jeffwalteril"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2035+south+washington+street+naperville%2C+illinois%2C+60565+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jeffwalterforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jeffwalterforcongress.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.jeffwalterforcongress.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.jeffwalterforcongress.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jeffwalterforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Java+with+Jeff&dates=20260929T113000Z%2F20260930T013000Z&location=2035+South+Washington+Street%2C+Naperville%2C+Illinois%2C+60565%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.jeffwalterforcongress.com/events/java-with-jeff-2?format=ical"
+},
+{
+"text": "In The News",
+"href": "https://www.jeffwalterforcongress.com/in-the-news"
+},
+{
+"text": "Next Next September 30 Java with Jeff",
+"href": "https://www.jeffwalterforcongress.com/events/java-with-jeff-3"
+},
+{
+"text": "Positions",
+"href": "https://www.jeffwalterforcongress.com/issues"
+},
+{
+"text": "Previous Previous September 26 Village of Elburn America 250 Celebration & Open House",
+"href": "https://www.jeffwalterforcongress.com/events/village-of-elburn-america-250-celebration-open-house"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeffwalterforcongress.com/privacy"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeffwalterforcongress.com/volunteer"
+},
+{
+"text": "[image: Jeff Walter for Congress Logo]",
+"href": "https://www.jeffwalterforcongress.com/home"
+},
+{
+"text": "[image: Jeff Walter for Congress]",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://truthsocial.com/JeffWalterIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JeffWalterIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffwalterforcongress/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jeffwalteril"
+}
 ]

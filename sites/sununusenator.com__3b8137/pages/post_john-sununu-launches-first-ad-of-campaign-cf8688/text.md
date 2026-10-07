@@ -1,7 +1,4 @@
-John Sununu Launches First Ad of Campaign
-Jul 23
-Pledges to be laser focused on the economy, jobs and making life more affordable
-John Sununu launched his first paid advertisement of the campaign this morning, framing the race as a clear choice between a candidate who will be an independent voice for New Hampshire and a partisan Democrat who epitomizes the Washington way.
+top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE John Sununu Launches First Ad of Campaign Sununu Senator – Press Team Jul 23 1 min read Pledges to be laser focused on the economy, jobs and making life more affordable John Sununu launched his first paid advertisement of the campaign this morning, framing the race as a clear choice between a candidate who will be an independent voice for New Hampshire and a partisan Democrat who epitomizes the Washington way.
 The ad is part of a nearly seven figure streaming and connected-TV buy.
-In the ad, John vows to “laser focus on the economy, jobs, our debt and making our lives more affordable.”
-###
+In the ad, John vows to “laser focus on the economy, jobs, our debt and making our lives more affordable.” ### Recent Posts See All JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S.
+SENATE ICYMI: Pappas and Platner On Graham Platner: Others Lead While Chris Pappas Waits for the Party Bosses MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page

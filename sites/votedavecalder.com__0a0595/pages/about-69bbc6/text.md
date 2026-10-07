@@ -1,8 +1,6 @@
-Skip navigation menu
-Raised in Service
-About Dave
-From a service oriented military family
-Dave learned about duty to country and the value of service to others growing up in a military family.
+Skip navigation menu Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate Raised in Service About Dave Home Meet Dave Events Priorities News Want to Help?
+Privacy Policy Donate Raised in Service About Dave From a service oriented military family Dave learned about duty to country and the value of service to others growing up in a military family .
 A formative experience was during his eighth and ninth grade years – when his dad, an Air Force pilot, helped transport refugees, who supported US forces, from Saigon to Clark Air Base (Philippines) during the final days of the Vietnam war and Dave and his mom helped with the refugee centers at the base.
 Dave saw the value of assistance to people with nothing who were able to relocate to the US and become participating and contributing citizens to America.
 Dave also learned the value of America investing in its own citizens.
@@ -16,8 +14,7 @@ He completed active duty at Hill AFB in Utah, supporting fighter aircraft - incl
 After active duty, he worked as a business developer for two small companies and then joined a not-for-profit research institute that provides engineering services for the Air Force with the goal of extending the life of systems and aircraft.
 A key help for Dave and his family are the medical benefits from the Air Force that continued with them – independent of his post Air Force employers.
 Dave knows first-hand the value of a single payer health system.
-Involved with community
-Wherever he lived, Dave has been involved with the local community.
+Involved with community Wherever he lived, Dave has been involved with the local community.
 He was a Boy Scouts of America trained scoutmaster in Ohio, Texas and Utah.
 He coached youth soccer in Virginia and Utah; he also officiated youth soccer in Utah.
 In the Air Force, he was selected as the Hill AFB voting officer during a time of intense political interest in military absentee ballots.
@@ -31,3 +28,4 @@ At NHMU, he supports their open houses and behind the scenes programs that encou
 He has also participated in two NHMU paleo digs on BLM land in southern Utah.
 Dave and Julie are residents of Washington Terrace and have raised five children.
 Follow Dave's BlueSky and Facebook accounts to learn more about him (see links at the top or bottom of each page.
+VoteCalder@gmail.com Powered by RUN! website builder Paid For By Dave Calder for Utah You need to enable JavaScript to run this app.

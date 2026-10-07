@@ -1,5 +1,4 @@
-Biography
-Born and raised in the Mid-Ohio Valley, I learned early on the value of community—neighbors helping neighbors, workers standing together, and families doing everything they can to build a better future.
+top of page BOTTOM Home Support Background Contact Us Biography Born and raised in the Mid-Ohio Valley, I learned early on the value of community—neighbors helping neighbors, workers standing together, and families doing everything they can to build a better future.
 Now living in my hometown of Vienna, I have proudly called District 11 home for three decades.
 After graduating from the public school system, I earned my undergraduate degree from West Virginia University at Parkersburg while working in the service industry and volunteering throughout the community.
 Public service has always been important to me because I believe giving back is one of the strongest ways we can build a better future for West Virginia.
@@ -14,9 +13,6 @@ That work has given me a deep appreciation for the resilience of West Virginian 
 My family’s roots in the Mid-Ohio Valley go back over 10 generations, and I carry those roots with pride.
 Growing up, I listened to my grandfather speak about the dignity of work and the importance of workers standing together.
 As a union representative for employees at Johns Manville, he taught our family the importance of unions, fairness, and protecting working people.
-His example shaped my values, and it is why I will always support unions and the right of workers to organize.
-Running a table at WVUP, my undergraduate college, on behalf of Parkersburg Pride
-"Pink Out the Night" in support of Planned Parenthood and Title X
-Representing The Parkersburg Area Community Foundation, giving a check to The Parkersburg Art Center (9/27/17)
-Demonstrating in Downtown Parkersburg, bringing awareness to the billions-worth in tax cuts given to the 1%
-Black Lives Matter rally at the Charleston capitol building (8/21/17)
+His example shaped my values, and it is why I will always support unions and the right of workers to organize. ​ Skip Running a table at WVUP, my undergraduate college, on behalf of Parkersburg Pride "Pink Out the Night" in support of Planned Parenthood and Title X Representing The Parkersburg Area Community Foundation, giving a check to The Parkersburg Art Center (9/27/17) Demonstrating in Downtown Parkersburg, bringing awareness to the billions-worth in tax cuts given to the 1% Black Lives Matter rally at the Charleston capitol building (8/21/17) Join The Movement for District 11 DONATE VOLUNTEER TOP Daniel Miller for House of Delegates District 11 ​ Contact: dsmiller4wv@gmail.com © # paid for by Daniel Miller for West Virginia.
+All rights reserved.
+Vote for better future in District 11 bottom of page

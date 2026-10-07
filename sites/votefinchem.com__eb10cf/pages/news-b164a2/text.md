@@ -1,4 +1,4 @@
-News Mark Finchem is campaigning all over the district and will be regularly speaking to the press, influencers, and local bloggers.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X News Mark Finchem is campaigning all over the district and will be regularly speaking to the press, influencers, and local bloggers.
 Bookmark this page to stay up-to-date on the latest news and updates from the campaign trail.
 Sen.
 Mark Finchem Appointed Vice Chair of the Senate Ad Hoc Committee on Adult Oral Health September 15, 2026 Senator raises concerns over freeze of healthcare appeals September 15, 2026 What Do You Need To Cheat?
@@ -15,4 +15,5 @@ Mark Finchem SB1649 Establishing Strategic Digital Assets Reserve April 17, 2026
 Mark Finchem SB1649 to Build Strategic Cryptocurrency Reserve April 8, 2026 Arizona Legislature Advances SB1520 Co-Sponsored by Sen.
 Mark Finchem Requiring Immigration Data Sharing April 8, 2026 Sen.
 Mark Finchem Legislative Update Highlights America First Priorities; Push For Gas Tax Suspension, AI Deepfake Protections, Ballot Initiatives, and Family Budget Relief (4/2/2026) April 6, 2026 Arizona Legislature Advances Sen.
-Mark Finchem SB1148 Restoring Attorney Licensing Authority to the Supreme Court April 2, 2026 1 2 3 4 5 … 7 8 9 10 Next »
+Mark Finchem SB1148 Restoring Attorney Licensing Authority to the Supreme Court April 2, 2026 1 2 3 4 5 … 7 8 9 10 Next » Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

@@ -1,14 +1,98 @@
 [
-"http://simpsonforassembly.com/about",
-"https://facebook.com/SimpsonforNYSAssemblyDistrict114",
-"https://simpsonforassembly.com/",
-"https://simpsonforassembly.com/about",
-"https://simpsonforassembly.com/about-matt",
-"https://simpsonforassembly.com/contact",
-"https://simpsonforassembly.com/essex-county-sheriff-david-reynolds-endorsement",
-"https://simpsonforassembly.com/governor-pataki-endorses-matt-simpson",
-"https://simpsonforassembly.com/new-york-state-federation-of-republican-women-endorsement",
-"https://simpsonforassembly.com/news",
-"https://simpsonforassembly.com/photos",
-"https://simpsonforassembly.com/why-matt"
+{
+"text": "About Matt",
+"href": "https://simpsonforassembly.com/about"
+},
+{
+"text": "About Matt",
+"href": "https://simpsonforassembly.com/about-matt/"
+},
+{
+"text": "Contact",
+"href": "https://simpsonforassembly.com/contact/"
+},
+{
+"text": "Contact Matt",
+"href": "https://simpsonforassembly.com/contact"
+},
+{
+"text": "Essex County Sheriff David Reynolds’ endorsement",
+"href": "https://simpsonforassembly.com/essex-county-sheriff-david-reynolds-endorsement/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SimpsonforNYSAssemblyDistrict114"
+},
+{
+"text": "Governor Pataki endorses Matt Simpson",
+"href": "https://simpsonforassembly.com/governor-pataki-endorses-matt-simpson/"
+},
+{
+"text": "Home",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "Home",
+"href": "https://simpsonforassembly.com/"
+},
+{
+"text": "Learn More",
+"href": "http://simpsonforassembly.com/about/"
+},
+{
+"text": "New York State Federation of Republican Women endorsement",
+"href": "https://simpsonforassembly.com/new-york-state-federation-of-republican-women-endorsement/"
+},
+{
+"text": "News",
+"href": "https://simpsonforassembly.com/news"
+},
+{
+"text": "News",
+"href": "https://simpsonforassembly.com/news/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://simpsonforassembly.com/photos/"
+},
+{
+"text": "Why Matt?",
+"href": "https://simpsonforassembly.com/why-matt"
+},
+{
+"text": "Why Matt?",
+"href": "https://simpsonforassembly.com/why-matt/"
+},
+{
+"text": "[image: Essex County Sheriff David Reynolds' endorsement]",
+"href": "https://simpsonforassembly.com/essex-county-sheriff-david-reynolds-endorsement/"
+},
+{
+"text": "[image: Matt Simpson for Assembly]",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "[image: Matt Simpson for Assembly][image: Matt Simpson for Assembly]",
+"href": "https://simpsonforassembly.com"
+},
+{
+"text": "[image: Pataki Endorsement]",
+"href": "https://simpsonforassembly.com/governor-pataki-endorses-matt-simpson/"
+},
+{
+"text": "[image: nysfrw]",
+"href": "https://simpsonforassembly.com/new-york-state-federation-of-republican-women-endorsement/"
+},
+{
+"text": "[image]",
+"href": "https://simpsonforassembly.com/photos/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/SimpsonforNYSAssemblyDistrict114"
+},
+{
+"text": "matt@simpsonforassembly.com",
+"href": "mailto:matt@simpsonforassembly.com"
+}
 ]

@@ -1,6 +1,34 @@
 [
-"https://facebook.com/wix",
-"https://ksforkansas.com/",
-"https://linkedin.com/company/wix-com",
-"https://twitter.com/Wix"
+{
+"text": "Home",
+"href": "https://www.ksforkansas.com"
+},
+{
+"text": "Kevin D Schwertfeger",
+"href": "https://www.ksforkansas.com"
+},
+{
+"text": "News",
+"href": "https://www.ksforkansas.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Wix"
+},
+{
+"text": "[image: Untitled]",
+"href": "https://www.ksforkansas.com"
+},
+{
+"text": "ksforkansas@gmail.com",
+"href": "mailto:ksforkansas@gmail.com"
+}
 ]

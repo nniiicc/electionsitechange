@@ -1,16 +1,78 @@
 [
-"https://app.termly.io/dsar/f2c6a6e5-ff1e-464f-a2c1-8e740ccb8a6b",
-"https://bsky.app/profile/clairereynoldsforcongress.org",
-"https://clairereynoldsforcongress.org/",
-"https://clairereynoldsforcongress.org/about",
-"https://clairereynoldsforcongress.org/donate",
-"https://clairereynoldsforcongress.org/news",
-"https://clairereynoldsforcongress.org/press-kit",
-"https://clairereynoldsforcongress.org/privacy",
-"https://designedtorun.com/",
-"https://facebook.com/clairereynoldsforcongress",
-"https://instagram.com/clairereynoldsforcongress",
-"https://linkedin.com/in/claireannereynolds",
-"https://mastodon.social/@Claire4Congress",
-"https://tiktok.com/@claireforcongress"
+{
+"text": "Donate",
+"href": "https://www.clairereynoldsforcongress.org/donate"
+},
+{
+"text": "Meet Claire",
+"href": "https://www.clairereynoldsforcongress.org/about"
+},
+{
+"text": "News",
+"href": "https://www.clairereynoldsforcongress.org/news"
+},
+{
+"text": "Press Kit",
+"href": "https://www.clairereynoldsforcongress.org/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.clairereynoldsforcongress.org/privacy#block-26579ee3-322d-4e89-bff7-cc3592d39057"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Claire Reynolds for Congress]",
+"href": "https://www.clairereynoldsforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://app.termly.io/dsar/f2c6a6e5-ff1e-464f-a2c1-8e740ccb8a6b"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/clairereynoldsforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clairereynoldsforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/clairereynoldsforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/claireannereynolds/"
+},
+{
+"text": "[no text]",
+"href": "https://mastodon.social/@Claire4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@claireforcongress"
+},
+{
+"text": "data subject access request",
+"href": "https://app.termly.io/dsar/f2c6a6e5-ff1e-464f-a2c1-8e740ccb8a6b"
+},
+{
+"text": "https://clairereynoldsforcongress.org",
+"href": "https://clairereynoldsforcongress.org"
+},
+{
+"text": "info@clairereynoldsforcongress.org",
+"href": "mailto:info@clairereynoldsforcongress.org"
+},
+{
+"text": "press@clairereynoldsforcongress.org",
+"href": "mailto:press@clairereynoldsforcongress.org"
+},
+{
+"text": "privacy@clairereynoldsforcongress.org",
+"href": "mailto:privacy@clairereynoldsforcongress.org"
+}
 ]

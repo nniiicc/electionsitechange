@@ -1,57 +1,230 @@
 [
-"http://youtube.com/@repstaceyevans",
-"https://facebook.com/StaceyEvansGA",
-"https://instagram.com/evansforgeorgia",
-"https://legis.ga.gov/house/page-program?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/69969?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/70064?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/70265?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/71020?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/71103?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/71922?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72145?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72210?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72293?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72502?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72503?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72527?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72642?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72644?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72672?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72676?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72697?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72709?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72776?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72829?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72891?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72951?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/72955?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73132?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73133?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73141?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73173?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73253?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73287?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73345?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73431?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73444?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73462?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/legislation/73467?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASZFqy0AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASbreQ0AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASbreQ4AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2",
-"https://staceyevans.com/",
-"https://staceyevans.com/cart",
-"https://staceyevans.com/contact",
-"https://staceyevans.com/ga-house-district-57",
-"https://staceyevans.com/get-involved",
-"https://staceyevans.com/issues",
-"https://staceyevans.com/meet-stacey",
-"https://staceyevans.com/news",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj",
-"https://staceyevans.com/news?author=6941670c17540a6865bb3789",
-"https://staceyevans.com/privacy-policy-1",
-"https://x.com/EvansforGeorgia"
+{
+"text": "0",
+"href": "https://www.staceyevans.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.staceyevans.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2"
+},
+{
+"text": "Elijah Johnson",
+"href": "https://www.staceyevans.com/news?author=6941670c17540a6865bb3789"
+},
+{
+"text": "GA House District 57",
+"href": "https://www.staceyevans.com/ga-house-district-57"
+},
+{
+"text": "Georgia General Assembly House Page Program",
+"href": "https://www.legis.ga.gov/house/page-program?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staceyevans.com/get-involved"
+},
+{
+"text": "HB 1000: One-Time Income Tax Refunds",
+"href": "https://www.legis.ga.gov/legislation/72293?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1076: Felony Crime of Obstructing Law Enforcement with a Motor Vehicle",
+"href": "https://www.legis.ga.gov/legislation/72502?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1077: Sales Tax Exemption Extension for Nonprofit Fine Arts",
+"href": "https://www.legis.ga.gov/legislation/72503?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1116: Local Property Tax and School Funding Authority",
+"href": "https://www.legis.ga.gov/legislation/72644?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1118: Maternal Birth Leave for Public Employees",
+"href": "https://www.legis.ga.gov/legislation/72672?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1122: Insurance Coverage for Peripheral Artery Disease Screening",
+"href": "https://www.legis.ga.gov/legislation/72676?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1138: Improving Access to Birth Control",
+"href": "https://www.legis.ga.gov/legislation/72697?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1148: Income Tax Credit for Conservation Property Donation",
+"href": "https://www.legis.ga.gov/legislation/72709?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1166: Zoning Exemptions for Tiny Homes",
+"href": "https://www.legis.ga.gov/legislation/72776?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1187: Prohibiting NDAs in Childhood Sexual Abuse Claims",
+"href": "https://www.legis.ga.gov/legislation/72829?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1230: Restrictions on Drones Near Prisons",
+"href": "https://www.legis.ga.gov/legislation/72951?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1234: Payment of Funeral Costs via Life Insurance Benefits",
+"href": "https://www.legis.ga.gov/legislation/72955?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1283: Establishment of Family Justice Centers",
+"href": "https://www.legis.ga.gov/legislation/73132?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1284: High School Diplomas for Students with Terminal Conditions",
+"href": "https://www.legis.ga.gov/legislation/73133?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1290: Expanding Definitions of Elder Abuse and Sexual Predators",
+"href": "https://www.legis.ga.gov/legislation/73141?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1296: Suicide Prevention Pilot Program for Veterans and First Responders",
+"href": "https://www.legis.ga.gov/legislation/73173?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1324: Repealing the State Ban on Gun Silencer - FAILED!",
+"href": "https://www.legis.ga.gov/legislation/73253?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1345: Expansion of Workforce Pell Grants",
+"href": "https://www.legis.ga.gov/legislation/73287?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1365: Additional Superior Court Judge for Fulton County",
+"href": "https://www.legis.ga.gov/legislation/73345?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1393: More Fair Contracting for Hospitals",
+"href": "https://www.legis.ga.gov/legislation/73431?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1402: Mandatory Pre-K Vision and Hearing Screenings",
+"href": "https://www.legis.ga.gov/legislation/73444?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1409: Mandated Reporters for Child Abuse Expansion",
+"href": "https://www.legis.ga.gov/legislation/73462?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1413: DREAMS and Medical School Scholarship Programs",
+"href": "https://www.legis.ga.gov/legislation/73467?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 1413: Mandatory Financial Literacy Course for Graduation",
+"href": "https://www.legis.ga.gov/legislation/72642?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 295: Inviting Frivolous Lawsuits Against Local Governments and Ignoring the Realities of Homelessness",
+"href": "https://www.legis.ga.gov/legislation/69969?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 334: Sickle Cell Disease Protection Act Medicaid Review",
+"href": "https://www.legis.ga.gov/legislation/70064?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 421: Felony for Interstate Travel to Entice a Child",
+"href": "https://www.legis.ga.gov/legislation/70265?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 717: Regulations for Psychedelic-Assisted Therapy",
+"href": "https://www.legis.ga.gov/legislation/71103?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 892: Restrictions on Massage Therapy Business Hours",
+"href": "https://www.legis.ga.gov/legislation/71922?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 947: SNAP Restrictions and EBT Photo ID Requirements",
+"href": "https://www.legis.ga.gov/legislation/72145?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HB 961: Ending Surprise Ambulance Bills",
+"href": "https://www.legis.ga.gov/legislation/72210?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HR 1114: Constitutional Amendment on Property Tax and Homestead Exemptions",
+"href": "https://www.legis.ga.gov/legislation/72527?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HR 1243: Constitutional Amendment for Georgia Next Generation 9-1-1 Fund",
+"href": "https://www.legis.ga.gov/legislation/72891?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "HR 450: Legalization and Regulation of Sports Betting - Failed",
+"href": "https://www.legis.ga.gov/legislation/71020?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Home",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staceyevans.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://www.staceyevans.com/meet-stacey"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news"
+},
+{
+"text": "Next Next Evans Examiner: Week 6",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n"
+},
+{
+"text": "Previous Previous Evans Examiner: Week 8",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staceyevans.com/privacy-policy-1"
+},
+{
+"text": "Tune in the Appropriations Committee Meeting at 10:15am - Monday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASbreQ0AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Tune into the Rules Committee Meeting at 11am - Monday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASbreQ4AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Watch the House Floor Chamber at 10am - Monday",
+"href": "https://www.legis.ga.gov/schedule/house/AQIARgAAA6nWrITxUepClGGA2bgmimX9GGA2by4HAGeQLC1kSDdIixjC7EHFmfIAAAJaYAAAAJVi9mcGGA2b4qFNnaWZAgEUQssAASZFqy0AAAAuAAADqdashPFR6kKX6CaKZf37LgEAZ5AsLWRIN0iLGMLsQcWZ8gAAAlpgAAAA?emci=5512d9e2-7219-f111-a69a-000d3a1f0a97&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "[image: Rep. Stacey Evans]",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@repstaceyevans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaceyEvansGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evansforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvansforGeorgia"
+},
+{
+"text": "elijah@staceyevans.com",
+"href": "mailto:elijah@staceyevans.com?subject=Legislative+Town+Hall+RSVP+-+March+11"
+}
 ]

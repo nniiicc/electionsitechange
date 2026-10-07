@@ -1,12 +1,12 @@
-top of page
-RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA
-To donate by mail please make checks payable to:
-Petersen for Nebraska
-Mailing Address:
-4121 S 87th Street
-Omaha, NE 68127
-Contact Us:
-team@petersenfornebraska.com
+top of page About Meet Scott Petersen's Plan Elections Bill of Rights Protecting Vulnerable Voters Real Election Integrity Endorsements News Videos Candidate Spotlight Play It Right Are They Truly Secure?
+Where Does Your Election Data Go?
+NBC News Investigation Stealing Military Votes?
+Radio Ads Take Action Volunteer Join $10 Army Request Yard Sign Register to Vote Like on Facebook Follow on X Connect Donate JOIN $10 ARMY VOTERTREE DONATE All Posts Updates Press Releases In The News Videos Endorsements Press Releases Scott Petersen: Nebraska Should Act Now on Citizenship Verification Following the Supreme Court’s 6–3 decision allowing the expanded SAVE citizenship-verification system to proceed while litigation continues, Scott Petersen is calling for Nebraska election officials to promptly resume lawful verification work while protecting due process for eligible voters.
+Press Releases Scott Petersen Sep 25 2 min read Governor Jim Pillen Endorses Scott Petersen for Nebraska Secretary of State Nebraska Governor Jim Pillen has endorsed Scott Petersen for Secretary of State, saying Petersen will be a strong partner in expanding opportunities for Nebraska businesses, producers and communities.
+Press Releases Scott Petersen Sep 16 3 min read Nebraska Farm Bureau PAC Endorses Scott Petersen for Nebraska Secretary of State OMAHA, Neb. — Scott Petersen, Republican nominee for Nebraska Secretary of State, today announced the endorsement of the Nebraska Farm Bureau Political Action Committee.
+The endorsement adds the support of one of Nebraska’s most prominent agricultural organizations to Petersen’s campaign for Secretary of State.
+“Nebraska agriculture is the backbone of our state, and I’m proud to earn the endorsement of the Nebraska Farm Bureau PAC,” Petersen said.
+“I’m grateful for the confid Press Releases Scott Petersen Sep 15 2 min read Nebraska Attorney General Mike Hilgers Endorses Scott Petersen for Secretary of State Nebraska Attorney General Mike Hilgers has endorsed Scott Petersen for Secretary of State, praising Petersen’s commitment to the rule of law, transparent elections, competent administration and public accountability.
+Press Releases Scott Petersen Sep 7 3 min read RESTORE CONFIDENCE ★ SECURE ELECTIONS ★ DEFEND NEBRASKA Privacy Policy VoterTree Terms To donate by mail please make checks payable to: Petersen for Nebraska ​ Mailing Address: 4121 S 87th Street Omaha, NE 68127 Contact Us: team@petersenfornebraska.com © # Petersen for Nebraska.
 All Rights Reserved.
-Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127
-bottom of page
+Paid for by Scott Petersen for Nebraska | 4121 S 87th Street, Omaha, NE 68127 DONATE REQUEST SIGN bottom of page

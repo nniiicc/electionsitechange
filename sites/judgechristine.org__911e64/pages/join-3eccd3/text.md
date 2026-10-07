@@ -1,4 +1,4 @@
-Photo Gallery →
-Get updates from Judge Christine Walczyk and her campaign for North Carolina Court of Appeals.
-After submitting your response, you will be redirected to a contribution page.
+top of page Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine Menu Close VOLUNTEER GET UPDATES DONATE DONATE Photo Gallery → JOIN JUDGE CHRISTINE Get updates from Judge Christine Walczyk and her campaign for North Carolina Court of Appeals.
+First name * Last name * Email * Phone ZIP code * JOIN JUDGE CHRISTINE After submitting your response, you will be redirected to a contribution page.
 Your response is collected whether you contribute or not.
+PO Box 10541, Raleigh NC, 27605 Paid for by the Judge Walczyk Committee Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine Menu Close VOLUNTEER GET UPDATES DONATE Home Meet Christine Judicial Philosophy Community Involvement Endorsements Photo Gallery Contact Christine bottom of page

@@ -1,4 +1,2 @@
-Teacher's MARCH 2026 in Dallas, NC
-North Carolina teachers marching for their students, better wages, more benefits, and smaller classes!
-Committee to Elect Mark Carver
-Powered by CampaignPartner.com - Political Websites
+Meet Mark Issues News Volunteer Contribute Teacher's MARCH 2026 in Dallas, NC North Carolina teachers marching for their students, better wages, more benefits, and smaller classes!
+Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Mark Carver Powered by CampaignPartner.com - Political Websites Home Meet Mark Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,4 +1,4 @@
-I stand before you today to announce my candidacy for the Idaho House of Representatives, Legislative District 34, seat A, in the Republican Primary, May 15th, against Ron Nate.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute Doug’s Announcement Speech for Representative Seat 34A Campaign / By naters I stand before you today to announce my candidacy for the Idaho House of Representatives, Legislative District 34, seat A, in the Republican Primary, May 15 th , against Ron Nate.
 I am a fifth generation, lifelong resident of Madison County and a conservative Republican.
 I love the people of East Idaho and the favorable surroundings we enjoy.
 This is a great place to live and because of that, Melissa and I chose to stay here and raise our five children.
@@ -8,7 +8,7 @@ At the end of this month, we will be celebrating 34 years of marriage.
 Those 34 years have been filled with joy, happiness, love, trials, fun, successes, some sadness and other experiences you have while struggling to raise a family and make a living.
 We are happy together and the people and the experiences we’ve had in East Idaho are interwoven into the fabric of who I am.
 I was raised in a proactive political family and I firmly believe in Idaho Republican principles – such as freedom of speech, religious freedom, limited government, low taxes, free enterprise and local control.
-About six years ago I became a precinct leader with the Madison County Republicans.
+About six years ago I became a precinct leader with the Madison County Republicans .
 I was alarmed when I found out in 2012 that some delegates pledged to Mitt Romney ended up casting their votes for Ron Paul at the Republican National Convention.
 From that time on I have watched the Ron Paul Libertarian movement infiltrate into the Idaho Republican Party and try to take control here.
 My opponent is the face of that far-right movement in the Legislature and he hands much of his vote to a Boise-based special interest group.
@@ -31,9 +31,8 @@ Together we will make Bonneville & Madison Counties better.
 We’ve given my opponent’s “Principles” a try and find them unfavorable.
 So now it’s time for a change.
 It’s time to elect new leadership – someone who will represent our interests and values.
-It’s time to repeal and replace “Ron Nate”, with a
-True Idaho Republican
-It’s time to send me, Doug Ricks to the Idaho House of Representatives, Legislative District 34, seat A.
+It’s time to repeal and replace “Ron Nate”, with a True Idaho Republican It’s time to send me, Doug Ricks to the Idaho House of Representatives, Legislative District 34, seat A.
 I will get our vote back and stay focused on representing the good people of Eastern Idaho.
 Your Vote is needed to make this happen and it will make a difference.
 I need your Vote in the May 15th, Republican Primary.
+Post navigation ← Previous Post Next Post → Search for: Recent Posts D34 Newsletter Week 2 D34 Newsletter Week 1 Idaho’s 66th Legislative Session Doug Ricks Announcement Press Release Doug’s Announcement Speech for Representative Seat 34A Archives January 2021 December 2020 Categories Bills Campaign Legislation Newsletter Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

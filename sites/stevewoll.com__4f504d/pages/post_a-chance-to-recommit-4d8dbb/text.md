@@ -1,5 +1,4 @@
-A Chance to Recommit
-It is in most ways a somber anniversary, remembering one of those days where you felt like you literally couldn't believe your eyes.
+top of page Donate Now ABOUT Issues Press Get Involved Menu Close ABOUT Issues Press Get Involved DONATE ABOUT Issues Press Get Involved Menu Close DONATE All Posts From The Blog Podcasts Press Releases A Chance to Recommit Steve Woll Sep 11 2 min read It is in most ways a somber anniversary, remembering one of those days where you felt like you literally couldn't believe your eyes.
 By September 2001, I had been in the Navy for 15 years.
 During that time, we had had the first Gulf War, and a good number of smaller military actions around the world, but we could be forgiven for thinking that the world was getting more peaceful.
 George Bush had run on Compassionate Conservatism, the Soviet Union was no more, and China was still a rising power.
@@ -15,4 +14,6 @@ It is not hyperbole to say that the 2026 mid-term elections could literally make
 Many traditional political actors want to keep driving us apart, but Americans on every side of the aisle seem to be starting to wake up to the fact that it doesn't have to be that way.
 That we can dial down the rancor and the anger and yes, the hatred, towards our fellow Americans.
 We've seen those shoots of reconciliation start to pop through, if only from exhaustion.
-As we think back to that rare moment of almost universal unity 25 years ago, let us hope that this year's elections will mark another turning point - one where we turn back TOWARDS each other.
+As we think back to that rare moment of almost universal unity #ago, let us hope that this year's elections will mark another turning point - one where we turn back TOWARDS each other.
+From The Blog Recent Posts See All Meeting Hampton Roads Why I'm Stepping Forward...
+Alarming Bookends ABOUT Issues Press Get Involved ABOUT Issues Press Get Involved Menu Close DONATE ABOUT Issues Press Get Involved STAY UPDATED - SIGN UP FOR OUR OFFICIAL CAMPAIGN NEWSLETTER Email * Yes, subscribe me to your newsletter. * SUBMIT Paid for by Steve Woll For Congress USE OF MILITARY RANK UNIT, TITLE, OR PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY Terms & Conditions | Privacy Policy | Accessibility Statement ABOUT Issues Press Get Involved bottom of page

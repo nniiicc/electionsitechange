@@ -1,9 +1,34 @@
 [
-"https://facebook.com/256807627509955",
-"https://gearhartforiowa64.com/",
-"https://gearhartforiowa64.com/about-me",
-"https://gearhartforiowa64.com/from-the-capitol",
-"https://gearhartforiowa64.com/the-issues",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://linkedin.com/in/jason-gearhart-4634381b7"
+{
+"text": "About Me",
+"href": "https://gearhartforiowa64.com/about-me"
+},
+{
+"text": "From the Capitol",
+"href": "https://gearhartforiowa64.com/from-the-capitol"
+},
+{
+"text": "Home",
+"href": "https://gearhartforiowa64.com/"
+},
+{
+"text": "The Issues",
+"href": "https://gearhartforiowa64.com/the-issues"
+},
+{
+"text": "[image]",
+"href": "https://gearhartforiowa64.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/256807627509955"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jason-gearhart-4634381b7/"
+}
 ]

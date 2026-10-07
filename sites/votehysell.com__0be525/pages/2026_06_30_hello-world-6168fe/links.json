@@ -1,17 +1,74 @@
 [
-"https://facebook.com/travis.hysell",
-"https://famethemes.com/themes/onepress",
-"https://instagram.com/travisforutah",
-"https://votehysell.com/",
-"https://votehysell.com/2026/06",
-"https://votehysell.com/2026/06/30/hello-world",
-"https://votehysell.com/about-me",
-"https://votehysell.com/accessible-healthcare",
-"https://votehysell.com/affordable-housing-cost-of-living",
-"https://votehysell.com/author/votehysell_4yfcha",
-"https://votehysell.com/category/uncategorized",
-"https://votehysell.com/common-decency-in-politics",
-"https://votehysell.com/good-jobs-for-working-families",
-"https://votehysell.com/strong-public-schools",
-"https://youtube.com/@travishysell1069"
+{
+"text": "About Me",
+"href": "https://www.votehysell.com/about-me/"
+},
+{
+"text": "Access to Quality Health Care",
+"href": "https://www.votehysell.com/accessible-healthcare/"
+},
+{
+"text": "Affordable Housing & Cost of Living",
+"href": "https://www.votehysell.com/affordable-housing-cost-of-living/"
+},
+{
+"text": "Common Decency in Politics",
+"href": "https://www.votehysell.com/common-decency-in-politics/"
+},
+{
+"text": "Frontpage",
+"href": "https://www.votehysell.com/"
+},
+{
+"text": "Good Jobs for Working Families",
+"href": "https://www.votehysell.com/good-jobs-for-working-families/"
+},
+{
+"text": "Hello world!",
+"href": "https://www.votehysell.com/2026/06/30/hello-world/"
+},
+{
+"text": "June 2026",
+"href": "https://www.votehysell.com/2026/06/"
+},
+{
+"text": "June 30, 2026July 4, 2026",
+"href": "https://www.votehysell.com/2026/06/30/hello-world/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://www.votehysell.com/strong-public-schools/"
+},
+{
+"text": "Travis Hysell",
+"href": "https://www.votehysell.com/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.votehysell.com/category/uncategorized/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/travis.hysell"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/travisforutah/"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.youtube.com/@travishysell1069"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@travishysell1069"
+},
+{
+"text": "votehysell_4yfcha",
+"href": "https://www.votehysell.com/author/votehysell_4yfcha/"
+}
 ]

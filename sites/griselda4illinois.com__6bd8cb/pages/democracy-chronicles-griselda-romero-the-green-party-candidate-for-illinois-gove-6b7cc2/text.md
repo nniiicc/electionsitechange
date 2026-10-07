@@ -1,4 +1,4 @@
-I first started thinking about the possibilities of third party candidates when Ross Perot ran for President in 1992.
+Home Meet Griselda Meet Eyde Campaign News Platform Get Involved Join the Mailing List Contact Donate Select Page Democracy Chronicles: Griselda Romero, the Green Party Candidate for Illinois Governor – 12-15-25 The Green Party’s Candidate for Illinois Governor Griselda Romero I first started thinking about the possibilities of third party candidates when Ross Perot ran for President in 1992.
 My boss at the time viewed Mr.
 Perot with such high esteem and the poor condition that our country was in at that time with such emotive concern, that he felt if Ross Perot wasn’t elected, our country would be in big trouble.
 Since then the Democratic Party has gone further to the right and the Republican Party has begun to embrace fascism.
@@ -7,8 +7,7 @@ The time I’ve spent talking with them and listening to their devotion and plan
 I’ve decided to interview two of their shining lights, Griselda Romero, who is running for Governor in Illinois and Eyde Arndell who is running as Lieutenant Governor.
 I hope you will give them a listen with your minds and contemplate the possibilities of Green Party candidates’ contributions to our country.
 Here is m interview with the Green Party’s Candidate for Illinois Governor Griselda Romero.
-I hope you enjoy:
-What was your upbringing like?
+I hope you enjoy: What was your upbringing like?
 I grew up learning how to survive in two cultures.
 My parents were immigrants who migrated here in their twenties, and both had to learn English as best they could.
 Growing up meant I had to grow up fast and master two languages to support my parents where language barriers existed.
@@ -66,4 +65,4 @@ Illinoisans deserve a leader who holds love deeply, who prioritizes safety, and 
 I urge Illinoisans to unite as a people, to stand up to the lack of integrity and accountability within our government, and to stand up for humanity.
 Illinois has a long history marked by corruption—it is time for that to end.
 Stand with me and support me in ensuring that Illinois is not for the few, the wealthy, or select regions, but for all.
-This article was originally posted at https://democracychronicles.org/griselda-romero/
+This article was originally posted at h ttps://democracychronicles.org/griselda-romero/ PAID FOR BY PEOPLE FOR GRISELDA ROMERO PAID FOR BY PEOPLE FOR GRISELDA ROMERO Customize Reject All Accept All Powered by

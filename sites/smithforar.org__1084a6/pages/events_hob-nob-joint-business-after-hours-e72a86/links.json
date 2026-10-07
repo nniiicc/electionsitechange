@@ -1,17 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Hob+Nob+-+Joint+Business+After+Hours&dates=20261015T220000Z%2F20261016T000000Z&location=1+College+Dr%2C+Bentonville%2C+United+States",
-"http://instagram.com/smith_for_ar_13",
-"http://maps.google.com/?q=1+College+Dr+Bentonville+United+States",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/benton-county-day-of-action",
-"https://smithforar.org/events/hob-nob-joint-business-after-hours?format=ical",
-"https://smithforar.org/events/the-hub-gotv-arkansas",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1+college+dr+bentonville+united+states"
+},
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hob+Nob+-+Joint+Business+After+Hours&dates=20261015T220000Z%2F20261016T000000Z&location=1+College+Dr%2C+Bentonville%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/hob-nob-joint-business-after-hours?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Next Next October 20 The Hub - GOTV, Arkansas!",
+"href": "https://smithforar.org/events/the-hub-gotv-arkansas"
+},
+{
+"text": "Previous Previous October 3 Benton County Day of Action",
+"href": "https://smithforar.org/events/benton-county-day-of-action"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+}
 ]

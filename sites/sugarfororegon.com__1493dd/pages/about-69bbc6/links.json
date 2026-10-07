@@ -1,14 +1,58 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/sugarfororegon",
-"https://instagram.com/sugarfororegon",
-"https://mobilize.us/SugarforOregon",
-"https://secure.actblue.com/donate/michael-sugar-40",
-"https://sugarfororegon.com/",
-"https://sugarfororegon.com/contact",
-"https://sugarfororegon.com/endorsements",
-"https://sugarfororegon.com/events-2",
-"https://sugarfororegon.com/priorities",
-"https://sugarfororegon.com/yard-sign",
-"https://tiktok.com/@sugar.for.oregon"
+{
+"text": "Contact",
+"href": "https://www.sugarfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/michael-sugar-40"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sugarfororegon.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sugarfororegon.com/events-2"
+},
+{
+"text": "Home",
+"href": "https://www.sugarfororegon.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.sugarfororegon.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/SugarforOregon/"
+},
+{
+"text": "Yard Signs!",
+"href": "https://www.sugarfororegon.com/yard-sign"
+},
+{
+"text": "[image: Michael Sugar for Oregon House District 40 logo]",
+"href": "https://www.sugarfororegon.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.sugarfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/sugarfororegon"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/sugarfororegon"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@sugar.for.oregon"
+}
 ]

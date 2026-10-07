@@ -1,4 +1,5 @@
-Mike Thompson was first elected to Congress in 1998.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources Biography Mike Thompson was first elected to Congress in 1998.
 Recognized as a strong representative for his constituents, Thompson has worked on solutions that create jobs, strengthen the middle class, protect our seniors and veterans, increase access to health care, and preserve our environment for future generations.
 Prior to serving in Congress, Thompson represented California's 2nd District in the California State Senate where he chaired the powerful Budget Committee.
 Thompson is a member of the House Committee on Ways and Means where he is the Ranking Member of the Tax Policy Subcommittee as well as sits on the Health Subcommittee.
@@ -17,3 +18,4 @@ Thompson is a small vineyard owner and was the maintenance supervisor for the Be
 He has taught Public Administration and State Government at San Francisco State University and California State University, Chico.
 He is married to Janet Thompson, a family nurse practitioner.
 They have two sons, a firefighter and a deputy sheriff, and three wonderful granddaughters.
+Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

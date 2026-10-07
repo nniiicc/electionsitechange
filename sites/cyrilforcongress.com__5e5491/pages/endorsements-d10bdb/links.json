@@ -1,14 +1,54 @@
 [
-"https://cyrilforcongress.com/",
-"https://cyrilforcongress.com/about",
-"https://cyrilforcongress.com/contact",
-"https://cyrilforcongress.com/get-involved",
-"https://cyrilforcongress.com/issues",
-"https://cyrilforcongress.com/news",
-"https://cyrilforcongress.com/privacy",
-"https://facebook.com/CyrilForCongress",
-"https://instagram.com/cyriljefferson?hl=en",
-"https://linkedin.com/in/cyril-jefferson-74405870",
-"https://secure.actblue.com/donate/cyril-jefferson-1",
-"https://youtube.com/@Cyril.Jefferson"
+{
+"text": "About",
+"href": "https://www.cyrilforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cyrilforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cyril-jefferson-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cyrilforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cyrilforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cyrilforcongress.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.cyrilforcongress.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.cyrilforcongress.com/privacy"
+},
+{
+"text": "[image: Cyril Jefferson for Congress | Proven Leadership for North Carolina’s 6th District]",
+"href": "https://www.cyrilforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CyrilForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cyriljefferson/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/cyril-jefferson-74405870/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Cyril.Jefferson"
+}
 ]

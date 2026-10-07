@@ -1,6 +1,18 @@
 [
-"https://cart/",
-"https://secure.winred.com/unger-for-arkansas-8615d1ec/donate-today",
-"https://steveunger.us/",
-"https://steveunger.us/privacy-policy"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/unger-for-arkansas-8615d1ec/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://steveunger.us/privacy-policy"
+},
+{
+"text": "[image: Steve Unger]",
+"href": "https://steveunger.us"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

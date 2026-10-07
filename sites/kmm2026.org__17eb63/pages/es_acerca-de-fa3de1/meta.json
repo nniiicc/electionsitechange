@@ -1,9 +1,12 @@
 {
- "description": "Sobre m\u00ed y mi sitio web",
+ "description": "Sobre mí y mi sitio web",
  "final_url": "https://www.kmm2026.org/es/acerca-de",
- "paid_for_by": null,
+ "fingerprint": "fcde2d1324027c1a10b74afeae4a08f3f97b4ec4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Acerca de",
  "years_mentioned": [
+  "1986",
   "2016",
   "2024",
   "2026"

@@ -1,15 +1,20 @@
-Honest.
+Skip links Skip to primary navigation Skip to content Issues Endorsements Get Involved Donate Issues Endorsements Get Involved Donate Honest.
 Principled.
 Conservative.
-Texas State Representative Brent Money
-Honest.
+Texas State Representative Brent Money Honest.
 Principled.
 Conservative.
-Brent Money for Texas State Representative
-ENDORSE BRENT!
-CONTRIBUTE
-Meet Brent
-If Texas values are hallmarked by the principles of faith, family and service to others, Brent Money is Texan to the core.
+Brent Money for Texas State Representative ENDORSE BRENT!
+Join our campaign for family values and fiscal responsibility.
+First Name (Required) Last Name (Required) Email (Required) Phone Consent By providing your phone number and checking this box, you are consenting to receive calls and text messages, including autodialed and automated calls and texts, to that number from BRENT MONEY FOR TEXAS.
+Message and data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply "STOP" to opt-out.
+Terms & conditions/privacy policy apply: Privacy Policy & Terms of Use CONTRIBUTE Help support our campaign with a donation.
+Every amount helps, no matter how small.
+Contribute today!
+DONATE TODAY Meet Brent If Texas values are hallmarked by the principles of faith, family and service to others, Brent Money is Texan to the core.
 A sixth-generation resident of Hunt County, husband and father, attorney, and businessman, Brent has many achievements to be proud of.
 Even so, he lives his life to honor service over success.
 The people of northeast Texas are stalwart, principled conservatives.
@@ -43,4 +48,4 @@ It is imperative that we leave our children a Texas that’s better than the one
 This is why I’m doing what I am doing in Austin.
 I ask that you join me.
 I humbly ask for your vote when it is time, and for your help to gain the trust of those around you so that we can continue this fight.
-Together, our work to reclaim and preserve our culture will pay off in freedom for us and for generations to follow.
+Together, our work to reclaim and preserve our culture will pay off in freedom for us and for generations to follow. donate Pol Adv Paid for by Brent Money for Texas Brent Money for Texas 2606 Lee Street Greenville, Texas 75401 Home Account Cart Search Adding {{itemName}} to cart Added {{itemName}} to cart Loading... ×

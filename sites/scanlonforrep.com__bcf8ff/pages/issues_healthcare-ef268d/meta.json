@@ -1,7 +1,9 @@
 {
  "description": "Healthcare",
  "final_url": "https://www.scanlonforrep.com/issues/healthcare",
- "paid_for_by": null,
+ "fingerprint": "14d957de6374fd86393d107ba9dd4fd843af8112",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare",
  "years_mentioned": []
 }

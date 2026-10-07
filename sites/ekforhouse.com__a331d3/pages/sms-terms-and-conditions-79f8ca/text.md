@@ -1,6 +1,5 @@
-Terms and Conditions
-Ek for House (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Ek for House ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
-If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
+Home Issues Donate Contact Jobs More Home Issues Donate Contact Jobs DONATE Home Issues Donate Contact Jobs DONATE Terms and Conditions Terms and Conditions Ek for House (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by Ek for House ), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “ STOP ” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Ek for House: You've subscribed to receive messages from Ek for House.
 Msg & Data Rates May Apply.
 Message frequency varies.
@@ -22,6 +21,6 @@ MMS Disclosure: The Program will send SMS MTs if your mobile device does not sup
 Our Warranty: We will not be liable for any delays or failures in the receipt of any mobile messages connected with this Program.
 Delivery of mobile messages is subject to effective transmission from your wireless service provider/network operator, and is outside of Our control.
 T-Mobile is not liable for delayed or undelivered mobile messages.
-Prepared and paid for by Ek For House, P.O.
+About Gallery Radio Ads/Transcripts SMS Terms and Conditions Privacy Policy Sue@EkforHouse.com Prepared and paid for by Ek For House, P.O.
 Box 2135, St.
 Cloud, MN 56302

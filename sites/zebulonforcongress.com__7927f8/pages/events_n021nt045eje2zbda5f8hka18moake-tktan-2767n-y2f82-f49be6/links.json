@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260415T230000Z%2F20260416T000000Z",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://youtube.com/live/PgxEaVkbWlQ?feature=share",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/5mwyrmzry7fcygt5re3pcy9z9jlggt",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb",
-"https://zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82?format=ical",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Online+Town+Hall%2FQ%26amp%3BA&dates=20260415T230000Z%2F20260416T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next April 29 Online Town Hall/Q&A",
+"href": "https://www.zebulonforcongress.com/events/n021nt045eje2zbda5f8hka18moake-tktan-2767n-y2f82-5y9bk-fjtxb"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous April 7 Candidate Forum",
+"href": "https://www.zebulonforcongress.com/events/5mwyrmzry7fcygt5re3pcy9z9jlggt"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "https://youtube.com/live/PgxEaVkbWlQ?feature=share",
+"href": "https://youtube.com/live/PgxEaVkbWlQ?feature=share"
+}
 ]

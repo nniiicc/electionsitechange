@@ -1,24 +1,102 @@
 [
-"https://facebook.com/p/Ben-McAdams-for-IL-Senate-24-61581546512442",
-"https://instagram.com/mcadamsforil24",
-"https://mcadamsforil.com/",
-"https://mcadamsforil.com/about",
-"https://mcadamsforil.com/about-2",
-"https://mcadamsforil.com/cart",
-"https://mcadamsforil.com/contact",
-"https://mcadamsforil.com/district-24",
-"https://mcadamsforil.com/endorsements",
-"https://mcadamsforil.com/get-a-yard-sign",
-"https://mcadamsforil.com/new-dropdown",
-"https://mcadamsforil.com/platform",
-"https://mcadamsforil.com/privacypolicy",
-"https://mcadamsforil.com/resources",
-"https://mcadamsforil.com/volunteer",
-"https://mcadamsforil.com/voting-guide",
-"https://mobilize.us/mcadamsforil",
-"https://secure.actblue.com/donate/benmcadamsilsenate",
-"https://secure.actblue.com/donate/benmcadamsilsenate?amount=10",
-"https://secure.actblue.com/donate/benmcadamsilsenate?amount=100",
-"https://secure.actblue.com/donate/benmcadamsilsenate?amount=25",
-"https://secure.actblue.com/donate/benmcadamsilsenate?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.mcadamsforil.com/cart"
+},
+{
+"text": "ABOUT BEN",
+"href": "https://www.mcadamsforil.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.mcadamsforil.com/contact"
+},
+{
+"text": "CUSTOM",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate"
+},
+{
+"text": "DISTRICT 24",
+"href": "https://www.mcadamsforil.com/district-24"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/benmcadamsilsenate"
+},
+{
+"text": "ENDORSEMENTS & AWARDS",
+"href": "https://www.mcadamsforil.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mobilize.us/mcadamsforil/"
+},
+{
+"text": "Folder: ABOUT",
+"href": "https://www.mcadamsforil.com/about-2"
+},
+{
+"text": "Folder: GET INVOLVED",
+"href": "https://www.mcadamsforil.com/new-dropdown"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://www.mcadamsforil.com/get-a-yard-sign"
+},
+{
+"text": "HOME",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mcadamsforil.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mcadamsforil.com/privacypolicy"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.mcadamsforil.com/resources"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mcadamsforil.com/volunteer"
+},
+{
+"text": "VOTING GUIDE",
+"href": "https://www.mcadamsforil.com/voting-guide"
+},
+{
+"text": "[image: mcadamsforil]",
+"href": "https://www.mcadamsforil.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Ben-McAdams-for-IL-Senate-24-61581546512442/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcadamsforil24/"
+}
 ]

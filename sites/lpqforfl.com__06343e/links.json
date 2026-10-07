@@ -1,20 +1,94 @@
 [
-"https://facebook.com/lpqforfl",
-"https://instagram.com/lpqforfl",
-"https://lpq-for-florida.solidarity.tech/event-schedule",
-"https://lpq-for-florida.solidarity.tech/volunteer-with-us",
-"https://lpqforfl.com/",
-"https://lpqforfl.com/about",
-"https://lpqforfl.com/cart",
-"https://lpqforfl.com/endorsements",
-"https://lpqforfl.com/get-involved",
-"https://lpqforfl.com/priorities",
-"https://lpqforfl.com/privacy-policy",
-"https://secure.actblue.com/donate/lpqforfl",
-"https://secure.actblue.com/donate/lpqforfl?amount=10",
-"https://secure.actblue.com/donate/lpqforfl?amount=100",
-"https://secure.actblue.com/donate/lpqforfl?amount=1000",
-"https://secure.actblue.com/donate/lpqforfl?amount=250",
-"https://statecraftmedia.com/",
-"https://youtube.com/lpqforfl"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/lpqforfl?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/lpqforfl?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/lpqforfl?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/lpqforfl?amount=250"
+},
+{
+"text": "0",
+"href": "https://www.lpqforfl.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lpqforfl.com/about"
+},
+{
+"text": "CHIP IN ANY AMOUNT →",
+"href": "https://secure.actblue.com/donate/lpqforfl"
+},
+{
+"text": "Connect",
+"href": "mailto:info@lpqforfl.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lpqforfl"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lpqforfl.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://lpq-for-florida.solidarity.tech/event-schedule"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lpqforfl.com/get-involved"
+},
+{
+"text": "Join the team!",
+"href": "https://lpq-for-florida.solidarity.tech/volunteer-with-us%20"
+},
+{
+"text": "Meet Lindsay →",
+"href": "https://www.lpqforfl.com/about"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.lpqforfl.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.lpqforfl.com/priorities"
+},
+{
+"text": "See all priorities →",
+"href": "https://www.lpqforfl.com/priorities"
+},
+{
+"text": "See who's with us →",
+"href": "https://www.lpqforfl.com/endorsements"
+},
+{
+"text": "Site By Statecraft Media",
+"href": "https://statecraftmedia.com"
+},
+{
+"text": "[image: Lindsay Polega-Quigley]",
+"href": "https://www.lpqforfl.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lpqforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lpqforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/lpqforfl"
+}
 ]

@@ -1,51 +1,274 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Autumn+Fundraiser+%E2%80%93+Delegate+Diana+Fennell&dates=20251009T220000Z%2F20251010T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+",
-"http://google.com/calendar/event?action=TEMPLATE&text=Delegate+Diana+Fennell+and+Wanda+Durant+Community+Giveback+&dates=20250802T150000Z%2F20250802T210000Z&location=4601+Annapolis+Rd%2C+Bladensburg%2C+MD+20710",
-"http://google.com/calendar/event?action=TEMPLATE&text=District+47+Annual+Cookout+&dates=20250927T160000Z%2F20250927T170000Z&location=4601+Annapolis+Rd%2C+Bladensburg%2C+MD+20710",
-"http://google.com/calendar/event?action=TEMPLATE&text=District+47+Holiday+Party+&dates=20251217T230000Z%2F20251218T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Pre-Session+Mixer+&dates=20260112T230000Z%2F20260113T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+",
-"http://google.com/calendar/event?action=TEMPLATE&text=Support+Delegate+Diana+Fennell+Fundraiser&dates=20241010T220000Z%2F20241011T000000Z&location=5820+Landover+Road%2C+Hyattsville%2C+MD%2C+20784%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Support+of+Delegate+Diana+Fennell&dates=20250611T220000Z%2F20250612T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+",
-"http://instagram.com/dianamfennell",
-"http://maps.google.com/?q=4601+Annapolis+Rd%2C+Bladensburg%2C+MD+20710",
-"http://maps.google.com/?q=5820+Landover+Road+Hyattsville%2C+MD%2C+20784+United+States",
-"http://maps.google.com/?q=Mexico+Lindo",
-"http://maps.google.com/?q=P.O+BOX+514++Bladensburg%2C+Maryland%2C+20710+USA",
-"https://dianafennell.com/",
-"https://dianafennell.com/about",
-"https://dianafennell.com/campaign-friends-of-diana-fennell",
-"https://dianafennell.com/cart",
-"https://dianafennell.com/contact",
-"https://dianafennell.com/endorsements-supporters",
-"https://dianafennell.com/events",
-"https://dianafennell.com/events/6/11/support-of-delegate-diana-fennell",
-"https://dianafennell.com/events/6/11/support-of-delegate-diana-fennell?format=ical",
-"https://dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be",
-"https://dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be?format=ical",
-"https://dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell",
-"https://dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell?format=ical",
-"https://dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant",
-"https://dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant?format=ical",
-"https://dianafennell.com/events/diana11226",
-"https://dianafennell.com/events/diana11226?format=ical",
-"https://dianafennell.com/events/district-47-annual-cookout",
-"https://dianafennell.com/events/district-47-annual-cookout?format=ical",
-"https://dianafennell.com/events/district-47-holida-party-2025",
-"https://dianafennell.com/events/district-47-holida-party-2025?format=ical",
-"https://dianafennell.com/friends-and-neighbors",
-"https://dianafennell.com/get-involved",
-"https://dianafennell.com/legislative-achievements",
-"https://dianafennell.com/media",
-"https://dianafennell.com/office",
-"https://dianafennell.com/priorities",
-"https://dianafennell.com/scholarship",
-"https://facebook.com/share/17Kr3zDoDv?mibextid=wwXIfr",
-"https://flickr.com/photos/dianafennell",
-"https://link.dianafennell.com/eosletter2026",
-"https://secure.actblue.com/donate/dianafennelljun112025event",
-"https://secure.actblue.com/donate/dianafennelloct102024event",
-"https://secure.actblue.com/donate/dianafennelloct2025",
-"https://secure.actblue.com/donate/dianapresession",
-"https://secure.actblue.com/donate/reelectdianafennell",
-"https://tiktok.com/@dianamfennell?_t=ZP-8zmFscWvT94&_r=1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4601+annapolis+rd%2C+bladensburg%2C+md+20710++"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5820+landover+road+hyattsville%2C+md%2C+20784+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=mexico+lindo+"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=p.o+box+514++bladensburg%2C+maryland%2C+20710+usa+"
+},
+{
+"text": "0",
+"href": "https://www.dianafennell.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.dianafennell.com/about"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/dianapresession"
+},
+{
+"text": "Autumn Fundraiser – Delegate Diana Fennell",
+"href": "https://www.dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell"
+},
+{
+"text": "Back",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.dianafennell.com/contact"
+},
+{
+"text": "Delegate Diana Fennell and Wanda Durant Community Giveback",
+"href": "https://www.dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant"
+},
+{
+"text": "District 47 Annual Cookout",
+"href": "https://www.dianafennell.com/events/district-47-annual-cookout"
+},
+{
+"text": "District 47 Holiday Party",
+"href": "https://www.dianafennell.com/events/district-47-holida-party-2025"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reelectdianafennell"
+},
+{
+"text": "End of Session Letter 2026",
+"href": "https://link.dianafennell.com/eosletter2026"
+},
+{
+"text": "Endorsements & Supporters",
+"href": "https://www.dianafennell.com/endorsements-supporters"
+},
+{
+"text": "Events",
+"href": "https://www.dianafennell.com/events"
+},
+{
+"text": "Folder: Campaign Friends of Diana Fennell",
+"href": "https://www.dianafennell.com/campaign-friends-of-diana-fennell"
+},
+{
+"text": "Folder: Office",
+"href": "https://www.dianafennell.com/office"
+},
+{
+"text": "Friends and Neighbors",
+"href": "https://www.dianafennell.com/friends-and-neighbors"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dianafennell.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Autumn+Fundraiser+%E2%80%93+Delegate+Diana+Fennell&dates=20251009T220000Z%2F20251010T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Delegate+Diana+Fennell+and+Wanda+Durant+Community+Giveback+&dates=20250802T150000Z%2F20250802T210000Z&location=4601+Annapolis+Rd%2C+Bladensburg%2C+MD+20710"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=District+47+Annual+Cookout+&dates=20250927T160000Z%2F20250927T170000Z&location=4601+Annapolis+Rd%2C+Bladensburg%2C+MD+20710"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=District+47+Holiday+Party+&dates=20251217T230000Z%2F20251218T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Pre-Session+Mixer+&dates=20260112T230000Z%2F20260113T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Support+Delegate+Diana+Fennell+Fundraiser&dates=20241010T220000Z%2F20241011T000000Z&location=5820+Landover+Road%2C+Hyattsville%2C+MD%2C+20784%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Support+of+Delegate+Diana+Fennell&dates=20250611T220000Z%2F20250612T000000Z&location=P.O+BOX+514+%2C+Bladensburg%2C+Maryland%2C+20710%2C+USA+"
+},
+{
+"text": "Home",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/6/11/support-of-delegate-diana-fennell?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/diana11226?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/district-47-annual-cookout?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.dianafennell.com/events/district-47-holida-party-2025?format=ical"
+},
+{
+"text": "Legislative Achievements",
+"href": "https://www.dianafennell.com/legislative-achievements"
+},
+{
+"text": "Media",
+"href": "https://www.dianafennell.com/media"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/dianafennell/"
+},
+{
+"text": "Pre-Session Mixer",
+"href": "https://www.dianafennell.com/events/diana11226"
+},
+{
+"text": "Priorities",
+"href": "https://www.dianafennell.com/priorities"
+},
+{
+"text": "RSVP AND SUPPORT",
+"href": "https://secure.actblue.com/donate/dianafennelloct102024event"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/dianafennelljun112025event"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/dianafennelloct2025"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/dianapresession"
+},
+{
+"text": "Scholarship",
+"href": "https://www.dianafennell.com/scholarship"
+},
+{
+"text": "Support Delegate Diana Fennell Fundraiser",
+"href": "https://www.dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be"
+},
+{
+"text": "Support of Delegate Diana Fennell",
+"href": "https://www.dianafennell.com/events/6/11/support-of-delegate-diana-fennell"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/6/11/support-of-delegate-diana-fennell"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/diana11226"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/district-47-annual-cookout"
+},
+{
+"text": "View Event →",
+"href": "https://www.dianafennell.com/events/district-47-holida-party-2025"
+},
+{
+"text": "[image: Delegate Diana Fennell and Wanda Durant Community Giveback ]",
+"href": "https://www.dianafennell.com/events/community-giveback-2025-dianafennell-wandadurant"
+},
+{
+"text": "[image: Friends of Diana Fennell ]",
+"href": "https://www.dianafennell.com/"
+},
+{
+"text": "[image: Support Delegate Diana Fennell Fundraiser]",
+"href": "https://www.dianafennell.com/events/9/30/xew1ovslvi2smdt5cm6q7wrns9a8be"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/dianafennelljun112025event"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/dianamfennell"
+},
+{
+"text": "[no text]",
+"href": "https://www.dianafennell.com/events/6/11/support-of-delegate-diana-fennell"
+},
+{
+"text": "[no text]",
+"href": "https://www.dianafennell.com/events/autumn-fundraiser-delegate-diana-fennell"
+},
+{
+"text": "[no text]",
+"href": "https://www.dianafennell.com/events/diana11226"
+},
+{
+"text": "[no text]",
+"href": "https://www.dianafennell.com/events/district-47-annual-cookout"
+},
+{
+"text": "[no text]",
+"href": "https://www.dianafennell.com/events/district-47-holida-party-2025"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/17Kr3zDoDv/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dianamfennell?_t=ZP-8zmFscWvT94&_r=1"
+},
+{
+"text": "©# MADE WITH CLOUD 9 BRAND, LLC.",
+"href": "mailto:cloud9brand@lovedajanee.com?subject=Inquire+-+Diana+Fennell+Website"
+}
 ]

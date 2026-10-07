@@ -1,9 +1,13 @@
 {
  "description": "Stay up-to-date on all campaign news for the 13th Norfolk District and Josh Tarsky's re-election for State Rep campaign.",
  "final_url": "https://www.joshuatarsky.com/blog",
- "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 \u200b info@joshtarsky",
+ "fingerprint": "76069425468e75619fa998dd13e978b53a0c2d53",
+ "format": 3,
+ "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky",
  "title": "News | Joshua Tarsky",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2025",
+  "2026"
  ]
 }

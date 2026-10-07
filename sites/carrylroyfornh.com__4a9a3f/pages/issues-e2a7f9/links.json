@@ -1,15 +1,70 @@
 [
-"https://carrylroyfornh.com/",
-"https://carrylroyfornh.com/about",
-"https://carrylroyfornh.com/contact",
-"https://carrylroyfornh.com/get-involved",
-"https://carrylroyfornh.com/issues/issue-2",
-"https://carrylroyfornh.com/issues/local-control",
-"https://carrylroyfornh.com/issues/support-public-schools",
-"https://carrylroyfornh.com/issues/your-issue-title-here",
-"https://designedtorun.com/",
-"https://facebook.com/carrylroyfornh",
-"https://instagram.com/carrylroyfornh",
-"https://secure.actblue.com/donate/cr-website",
-"https://x.com/carrylroyfornh"
+{
+"text": "About",
+"href": "https://www.carrylroyfornh.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.carrylroyfornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cr-website"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carrylroyfornh.com/get-involved"
+},
+{
+"text": "Government Transparency",
+"href": "https://www.carrylroyfornh.com/issues/your-issue-title-here"
+},
+{
+"text": "Local Control",
+"href": "https://www.carrylroyfornh.com/issues/local-control"
+},
+{
+"text": "Lower Property Taxes",
+"href": "https://www.carrylroyfornh.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Support Public Schools",
+"href": "https://www.carrylroyfornh.com/issues/support-public-schools"
+},
+{
+"text": "View more",
+"href": "https://www.carrylroyfornh.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.carrylroyfornh.com/issues/local-control"
+},
+{
+"text": "View more",
+"href": "https://www.carrylroyfornh.com/issues/support-public-schools"
+},
+{
+"text": "View more",
+"href": "https://www.carrylroyfornh.com/issues/your-issue-title-here"
+},
+{
+"text": "[image: Carryl Roy for State Senate]",
+"href": "https://www.carrylroyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/carrylroyfornh"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/carrylroyfornh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/carrylroyfornh"
+}
 ]

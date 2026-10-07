@@ -1,7 +1,11 @@
 {
  "description": "Stay updated with the latest news, statements, community updates, and policies directly from Micah King's campaign for Georgia State House District 157.",
  "final_url": "https://micahkingforstatehouse.com/newsroom/",
- "paid_for_by": "Paid for by the Committee to Elect Micah King &copy; 2026 Micah King for GA State House",
+ "fingerprint": "c026059c5c618d83b5bc845c80968ef1ed379d2c",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Micah King © # Micah King for GA State House",
  "title": "Latest News & Events | Micah King for State House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

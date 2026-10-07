@@ -1,5 +1,22 @@
 [
-"https://andersonforne.com/home",
-"https://andersonforne.com/privacy",
-"https://secure.winred.com/anderson-for-nebraska/donate"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/anderson-for-nebraska/donate"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://andersonforne.com/privacy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://andersonforne.com/privacy/#terms"
+},
+{
+"text": "[image]",
+"href": "https://andersonforne.com/home"
+},
+{
+"text": "mckenzie@chasemarketingllc.com",
+"href": "mailto:mckenzie@chasemarketingllc.com"
+}
 ]

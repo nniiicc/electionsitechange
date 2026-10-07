@@ -1,19 +1,78 @@
 [
-"http://wordpress.org/",
-"https://bls.gov/regions/midwest/data/unionmembershiphistorical_indiana_table.htm",
-"https://electallenmiller/",
-"https://facebook.com/profile.php?id=61588133763306",
-"https://fightbacknews.org/articles/scandal-in-shelbyville-in-mayors-office-aids-caesars-tries-to-break-strike",
-"https://indianaruralsummit.org/about",
-"https://instagram.com/electallenmiller",
-"https://millerfor73.com/",
-"https://millerfor73.com/about",
-"https://millerfor73.com/issues",
-"https://millerfor73.com/volunteer",
-"https://millerfor73.com/voter-registration-information",
-"https://nps.gov/articles/the-civilian-conservation-corps.htm",
-"https://pexels.com/photo/a-man-in-black-shirt-12973582",
-"https://secure.actblue.com/donate/allen-miller-in-73",
-"https://tdu.org/batesville_products_teamsters_strike_for_union_recognition",
-"https://twlglawfirm.com/faq/what-significant-us-laws-are-unions-responsible-for"
+{
+"text": "About Me",
+"href": "https://millerfor73.com/about/"
+},
+{
+"text": "Allen Miller for Indiana House District 73",
+"href": "https://millerfor73.com"
+},
+{
+"text": "Allen on the Issues",
+"href": "https://millerfor73.com/issues/"
+},
+{
+"text": "Civilian Conservation Corps",
+"href": "https://www.nps.gov/articles/the-civilian-conservation-corps.htm"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allen-miller-in-73"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588133763306"
+},
+{
+"text": "Indiana Rural Summit",
+"href": "https://indianaruralsummit.org/about"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electallenmiller/"
+},
+{
+"text": "Issues",
+"href": "https://millerfor73.com/issues"
+},
+{
+"text": "Join our movement!",
+"href": "https://millerfor73.com/volunteer/"
+},
+{
+"text": "Pexels.com",
+"href": "https://www.pexels.com/photo/a-man-in-black-shirt-12973582/"
+},
+{
+"text": "Threads",
+"href": "https://electallenmiller"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://millerfor73.com/voter-registration-information/"
+},
+{
+"text": "WordPress",
+"href": "http://wordpress.org"
+},
+{
+"text": "at a foundry in Lawrenceburg",
+"href": "https://www.tdu.org/batesville_products_teamsters_strike_for_union_recognition"
+},
+{
+"text": "electallenmiller@proton.me",
+"href": "mailto:"
+},
+{
+"text": "faced backroom dealings by the city council and mayo",
+"href": "https://fightbacknews.org/articles/scandal-in-shelbyville-in-mayors-office-aids-caesars-tries-to-break-strike"
+},
+{
+"text": "most of the protections we take for granted",
+"href": "https://www.twlglawfirm.com/faq/what-significant-us-laws-are-unions-responsible-for/"
+},
+{
+"text": "than the ’08 financial crisis.",
+"href": "https://www.bls.gov/regions/midwest/data/unionmembershiphistorical_indiana_table.htm#Historical_UnionMembership_IN.xlsx.f.2"
+}
 ]

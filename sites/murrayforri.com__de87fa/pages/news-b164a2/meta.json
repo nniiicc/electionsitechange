@@ -1,8 +1,10 @@
 {
  "description": "Learn about what Sen. Murray is doing to help the people of Woonsocket and North Smithfield.",
  "final_url": "https://www.murrayforri.com/news",
- "paid_for_by": "Paid for by Friends of Melissa Murray",
- "title": "News \u2014 Melissa Murray",
+ "fingerprint": "1688e4a3cabdd75db77d359e66060f1f3a61f1e4",
+ "format": 3,
+ "paid_for_by": "sponsored by Sen",
+ "title": "News — Melissa Murray",
  "years_mentioned": [
   "2023",
   "2024"

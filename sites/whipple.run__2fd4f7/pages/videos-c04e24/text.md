@@ -1,10 +1,7 @@
-The Blue Dot Podcast
-01 December 2025
-Kenton County Democrats have got some really great things going on!
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate The Blue Dot Podcast 01 December 2025 Kenton County Democrats have got some really great things going on!
 One of the things that they do is the “Blue Dot Podcast” .
 They have a variety of interviews that they do, but the one they asked me to be on they call “What’s Happenin’ in your Holler?” They reach out and interview folks who serve on the Executive Committees of county Democratic Parties and give us a chance to promote ourselves and talk about what we do.
 Chancellor Peterson and I got to talk about the great things that have been going on with the Breckinridge County Democratic Party and our upcoming electoral races.
-Forward Kentucky
-18 June, 2025
-Back in June of 25 I got to do an interview on “Forward Kentucky” with Bruce Maples.
+Breckinridge County Forward Kentucky 18 June, 2025 Back in June of 25 I got to do an interview on “Forward Kentucky” with Bruce Maples.
 We talked about building the Democratic Party in Breckinridge County and my upcoming run for the 10th House District Seat in the 2026 election.
+Running in Rural Kentucky This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

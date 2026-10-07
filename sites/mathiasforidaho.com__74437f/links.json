@@ -1,10 +1,38 @@
 [
-"https://donate.fundhero.io/chrismathias",
-"https://facebook.com/mathiasforidaho",
-"https://instagram.com/mathiasforidaho",
-"https://mathiasforidaho.com/",
-"https://mathiasforidaho.com/about",
-"https://mathiasforidaho.com/cart",
-"https://mathiasforidaho.com/contact",
-"https://mathiasforidaho.com/resources"
+{
+"text": "0",
+"href": "https://mathiasforidaho.com/cart"
+},
+{
+"text": "About Chris",
+"href": "https://mathiasforidaho.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://mathiasforidaho.com/contact"
+},
+{
+"text": "Contact Me [image]",
+"href": "https://mathiasforidaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.fundhero.io/chrismathias"
+},
+{
+"text": "Need Help? [image]",
+"href": "https://mathiasforidaho.com/resources"
+},
+{
+"text": "[image: Mathias for Idaho]",
+"href": "https://mathiasforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mathiasforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mathiasforidaho/"
+}
 ]

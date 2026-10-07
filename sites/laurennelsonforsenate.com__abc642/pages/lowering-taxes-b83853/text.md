@@ -1,10 +1,2 @@
-You Need to Know
-- 2026 Yankton GOP Forums April 29, 2026
-- Legislaive Update February 13, 2026
-- November 2025 Legislative Newsletter October 15, 2025
-Skip to content
-Lowering Taxes
-Post navigation
-You Need to Know
-FaceBook
-Top
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Important Issues Videos Lowering Taxes Editor September 26, 2024 https://lnfs.dreamhosters.com/wp-content/uploads/2024/09/Coffee-with-the-Candidates-Lauren-Nelson-1-Sep-13-2024.mp4 Post navigation Previous Previous post: State Senator for ALL of District 18 Next Next post: Supporting Agriculture Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

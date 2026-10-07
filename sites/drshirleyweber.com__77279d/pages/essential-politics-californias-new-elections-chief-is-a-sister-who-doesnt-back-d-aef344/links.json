@@ -1,14 +1,58 @@
 [
-"https://drshirleyweber.com/",
-"https://drshirleyweber.com/about",
-"https://drshirleyweber.com/endorsements",
-"https://drshirleyweber.com/in-the-media",
-"https://drshirleyweber.com/priorities",
-"https://facebook.com/ShirleyWeber4SOS",
-"https://latimes.com/california/story/2020-12-22/assemblywoman-shirley-weber-california-secretary-of-state-padilla-senate-appointment",
-"https://latimes.com/people/john-myers",
-"https://latimes.com/politics/newsletter/2021-02-01/california-secretary-of-state-shirley-weber-takes-office-essential-politics",
-"https://secure.actblue.com/donate/2025-website",
-"https://secure.ngpvan.com/qM2wK_QCY02UBcGV0A7YRw2",
-"https://twitter.com/drweber4ca"
+{
+"text": "About",
+"href": "https://drshirleyweber.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2025-website"
+},
+{
+"text": "Endorsements",
+"href": "https://drshirleyweber.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ShirleyWeber4SOS"
+},
+{
+"text": "Get Involved",
+"href": "https://secure.ngpvan.com/qM2wK_QCY02UBcGV0A7YRw2"
+},
+{
+"text": "Home",
+"href": "https://drshirleyweber.com/"
+},
+{
+"text": "In the Media",
+"href": "https://drshirleyweber.com/in-the-media/"
+},
+{
+"text": "JOHN MYERS",
+"href": "https://www.latimes.com/people/john-myers"
+},
+{
+"text": "Los Angeles Times",
+"href": "https://www.latimes.com/politics/newsletter/2021-02-01/california-secretary-of-state-shirley-weber-takes-office-essential-politics"
+},
+{
+"text": "Priorities",
+"href": "https://drshirleyweber.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://www.latimes.com/politics/newsletter/2021-02-01/california-secretary-of-state-shirley-weber-takes-office-essential-politics"
+},
+{
+"text": "X",
+"href": "https://twitter.com/drweber4ca"
+},
+{
+"text": "[image: Shirley Weber for Secretary of State]",
+"href": "https://drshirleyweber.com/"
+},
+{
+"text": "the first Black Californian to hold the office and only the third woman to do so",
+"href": "https://www.latimes.com/california/story/2020-12-22/assemblywoman-shirley-weber-california-secretary-of-state-padilla-senate-appointment"
+}
 ]

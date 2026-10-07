@@ -1,17 +1,13 @@
-It’s not new to call the government corrupt.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now New Rules for Campaigning It’s not new to call the government corrupt.
 One might argue the roots of the revolution are in just those kinds of accusations.
 But over the last two weeks while campaigning, I had some interesting conversations with people.
-The key takeaways are these:
-- Everyone knows the parties cheat.
-- Everyone is annoyed/disgusted/frustrated by the cheating on both sides.
-- The “play the game” crowd is losing ground to the “it doesn’t have to be this way” crowd.
-The “It Doesn’t Have to be This Way” Crowd
-From left to right: Dr.
-Thaddeus Jones of Fanatik Productions (my film crew), Adina Maynard, founder of DNA Games and inventor of Cattywampus, me (Kasie, SC) and my handsome campaign caddie (and husband) Charlie
-Thanks to Adina and Daniel for hosting a house party last weekend and introducing me to your neighbors and friends.
+The key takeaways are these: Everyone knows the parties cheat.
+Everyone is annoyed/disgusted/frustrated by the cheating on both sides .
+The “play the game” crowd is losing ground to the “it doesn’t have to be this way” crowd.
+The “It Doesn’t Have to be This Way” Crowd From left to right: Dr.
+Thaddeus Jones of Fanatik Productions (my film crew), Adina Maynard, founder of DNA Games and inventor of Cattywampus, me (Kasie, SC) and my handsome campaign caddie (and husband) Charlie Thanks to Adina and Daniel for hosting a house party last weekend and introducing me to your neighbors and friends.
 The System vs.
-Cheating
-Democrats and Republicans have convinced people they are the government.
+Cheating Democrats and Republicans have convinced people they are the government.
 But they’re not.
 They are political parties whose job it is to get people elected.
 And they do.
@@ -19,8 +15,7 @@ And they make a lot of money doing it.
 Then when their people get elected, they change the rules.
 The drama of Texas gerrymandering is exhibit A and it’s not new or even particularly creative.
 What is new is how open and unapologetic they’re being about wanting to fix the 2026 midterm election to get Republicans five more seats and secure a majority.
-I guess if you’re going to have cheating, it’s best that we all call it what it is.
-‘The System’ is a broad term used to describe the rules of the game, like the flimsy double-sided printed page that comes with UNO: No Mercy.
+I guess if you’re going to have cheating, it’s best that we all call it what it is. ‘The System’ is a broad term used to describe the rules of the game, like the flimsy double-sided printed page that comes with UNO: No Mercy.
 What ‘the system’ means here is election laws.
 They’re different in every state and that’s a good thing.
 Election laws should fit the locality inasmuch as they serve the locality.
@@ -73,26 +68,38 @@ It doesn’t have to be this way.
 We need to elect people who plan to do the work of governing.
 At all levels of government from City Council to the White House, we need people who will work the job, not perform the party politics.
 How will we know those people when we see them?
-- They won’t cheat on their spouses, or their taxes; they can be trusted to do the right thing.
-- They will value the checks-and-balances of three branches, not rage against them as obstructionist when they don’t get their way.
-- They will not abandon their principles for the latest political bandwagon.
-- They will not exploit their influence for personal gain or petty grudges.
-- They will not ignore the constituents who didn’t vote for them or gerrymander them out of relevance.
-- They won’t be building a political career for themselves; they will step forward to serve when they’re ready, not when they’re told.
-- They will know they’re in office to serve constituents, not party bosses.
-- They will leave when their time is over.
+They won’t cheat on their spouses, or their taxes; they can be trusted to do the right thing.
+They will value the checks-and-balances of three branches, not rage against them as obstructionist when they don’t get their way.
+They will not abandon their principles for the latest political bandwagon.
+They will not exploit their influence for personal gain or petty grudges.
+They will not ignore the constituents who didn’t vote for them or gerrymander them out of relevance.
+They won’t be building a political career for themselves; they will step forward to serve when they’re ready, not when they’re told.
+They will know they’re in office to serve constituents, not party bosses.
+They will leave when their time is over.
 Maybe they won’t yet be 50 years old, not yet ruined, to my Papa’s estimation.
 Maybe they’ll be outsider enough to know the insiders like the game as is.
 Maybe they’ll be optimistic enough to think we can win it playing it our way.
-I’m proposing some new campaign rules, straight out of the “it doesn’t have to be this way” mindset:
-- Tell the truth.
+I’m proposing some new campaign rules, straight out of the “it doesn’t have to be this way” mindset: Tell the truth.
 Always.
-- Have fun.
-Everything else should be according to election laws which you can find here.
+Have fun.
+Everything else should be according to election laws which you can find here .
 It’s not easy to run for statewide office, but it doesn’t have to be so hard.
 Just smile, listen, and thank the people for caring enough to share their thoughts with you.
 Then go make the right choices – the ones that promote liberty, that represent the will of the people, preserve self-governance, and protect natural rights.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
-Post photo courtesy of Boardgame Barrister’s YouTube
+Post photo courtesy of Boardgame Barrister’s YouTube Tagged corruption , elections , gerrymandering , voting 2 Responses Katrina Shealy says: August 28, 2025 at 7:16 pm You want advice, just tell the truth.
+You might not win but you won’t go to jail with the rest of the.m.
+You will be able to sleep at night.
+No 10 year olds will be forced to give birth so sick men can get their happy going.
+Do what’s right.
+It shouldn’t be a party or politics .
+It should be people.
+Trust me I know.
+Reply kasiesc says: August 28, 2025 at 10:10 pm Thanks, Katrina.
+I agree!
+Truth first, always, even if it’s something people don’t want to hear.
+Reply Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

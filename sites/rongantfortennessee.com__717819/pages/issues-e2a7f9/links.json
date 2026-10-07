@@ -1,9 +1,34 @@
 [
-"https://facebook.com/RepRonGant",
-"https://rongantfortennessee.com/",
-"https://rongantfortennessee.com/about",
-"https://rongantfortennessee.com/issues",
-"https://rongantfortennessee.com/join",
-"https://secure.winred.com/friends-to-elect-ron-gant/donate-today",
-"https://twitter.com/RonGant"
+{
+"text": "About",
+"href": "https://rongantfortennessee.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-to-elect-ron-gant/donate-today"
+},
+{
+"text": "Issues",
+"href": "https://rongantfortennessee.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://rongantfortennessee.com/join"
+},
+{
+"text": "Join",
+"href": "https://rongantfortennessee.com/join/"
+},
+{
+"text": "[image: Ron Gant - State Representative]",
+"href": "https://rongantfortennessee.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RonGant"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRonGant/"
+}
 ]

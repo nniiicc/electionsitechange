@@ -1,2 +1,3 @@
-| About the 68th The 68th Assembly District includes portions of Chippewa and Taylor Counties as well as all of Price and Rusk Counties. 68th Assembly District Address (District) Look Up | |
-| The 68th Assembly District is Home to... | |
+Home Meet Rob Issues Contact About the 68th Donate Rob Summerfield for Assembly ​​​ About the 68th The 68th Assembly District includes portions of Chippewa and Taylor Counties as well as all of Price and Rusk Counties.
+68th Assembly District Address (District) Look Up ​ The 68th Assembly ​District is Home to...
+Paid for by Friends of Rob Summerfield Copyright © # Home Meet Rob Issues Contact About the 68th Donate

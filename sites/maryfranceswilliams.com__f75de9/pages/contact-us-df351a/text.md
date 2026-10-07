@@ -1,16 +1,4 @@
-I serve you and I want to hear what matters most to you.
-Please share your questions, concerns and ideas with me.
-District Address:
-1000 Whitlock Avenue NW
-Suite 320 PMB 249
-Marietta, Ga 30064
-—
-(770) 424-9084
-info@maryfranceswilliams.com
-Capitol Address:
-607-C Coverdell Legislative Office Bldg.
-18 Capitol Square SW
-Atlanta, Ga 30334
-—
-(404) 656-0287
-maryfrances.williams@house.ga.gov
+Meet Mary Frances Serving You Priorities Voting Community Voices Meet Mary Frances Serving You Priorities Voting Georgia House District 37 Community Voices Scroll For more information Contact rep.
+Williams I serve you and I want to hear what matters most to you.
+Please share your questions, concerns and ideas with me. maryfrances.williams@house.ga.gov District Address: 1000 Whitlock Avenue NW Suite 320 PMB 249 Marietta, Ga 30064 — (770) 424-9084 info@maryfranceswilliams.com Capitol Address: 607-C Coverdell Legislative Office Bldg.
+18 Capitol Square SW Atlanta, Ga 30334 — (404) 656-0287 maryfrances.williams@house.ga.gov Contact-Banner Contact-MaryFrances Follow Me on Instagram Sign Up Contact Us Paid for by Friends and Neighbors of Mary Frances Williams 1000 Whitlock Ave NW, Ste 320 PMB 249 Marietta, GA 30064 (770) 424-9084 info@maryfranceswilliams.com

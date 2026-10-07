@@ -1,4 +1,4 @@
-A funded system that forms skilled citizens.
+Meet John Get Involved Press Kit Priorities Education Water, Energy, and Data Centers Donate Skip to content John Winchester for Arizona Primary Menu Meet John Get Involved Press Kit Priorities Education Water, Energy, and Data Centers Donate Donate Education A funded system that forms skilled citizens.
 Arizona does not run one school system from Phoenix.
 Families use district schools, charters, private schools, microschools, and home education.
 That mix is a strength.
@@ -31,3 +31,6 @@ Staff the program so it can be administered effectively.
 Keep the door open for the child who needs a different school.
 A House member does not pick a child’s school.
 A House member’s job is to make sure every child has a path to becoming a skilled citizen, and that parents are trusted to help choose the education that gets them there.
+Connect Contact john@winchesterforaz.com Paid for by Winchester for Arizona.
+Authorized by John Winchester.
+Privacy Policy | Terms and Conditions Press Kit

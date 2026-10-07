@@ -1,15 +1,62 @@
 [
-"https://akenergyauthority.org/CIPLink",
-"https://bsky.app/profile/drpeteforalaska.bsky.social/.",
-"https://designedtorun.com/",
-"https://drpeteforalaska.com/",
-"https://drpeteforalaska.com/about",
-"https://drpeteforalaska.com/contact",
-"https://drpeteforalaska.com/donate",
-"https://drpeteforalaska.com/endorsements",
-"https://drpeteforalaska.com/issues",
-"https://eia.gov/outlooks/aeo/electricity_generation/pdf/AEO2025_LCOE_report.pdf",
-"https://facebook.com/drpeteforalaska",
-"https://instagram.com/drpeteforalaska",
-"https://linkedin.com/in/drpeteforalaska"
+{
+"text": "About",
+"href": "https://www.drpeteforalaska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.drpeteforalaska.com/contact"
+},
+{
+"text": "Cook Inlet PowerLink Project",
+"href": "https://www.akenergyauthority.org/CIPLink"
+},
+{
+"text": "Donate",
+"href": "https://www.drpeteforalaska.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drpeteforalaska.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.drpeteforalaska.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "US Energy Information Administration",
+"href": "https://www.eia.gov/outlooks/aeo/electricity_generation/pdf/AEO2025_LCOE_report.pdf"
+},
+{
+"text": "[image: Dr Pete for Alaska logo]",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/drpeteforalaska.bsky.social/."
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drpeteforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drpeteforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/drpeteforalaska"
+}
 ]

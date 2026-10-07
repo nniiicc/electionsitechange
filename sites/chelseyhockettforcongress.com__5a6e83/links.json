@@ -1,30 +1,134 @@
 [
-"https://chelseyforcongress.com/",
-"https://chelseyhockettforcongress.com/about.html",
-"https://chelseyhockettforcongress.com/blog.html",
-"https://chelseyhockettforcongress.com/index.html",
-"https://chelseyhockettforcongress.com/issues.html",
-"https://chelseyhockettforcongress.com/volunteer.html",
-"https://couragefordemocracy.com/candidates?_state=tx",
-"https://dallascountyeastdemocrats.com/",
-"https://dallasyoungdems.org/",
-"https://dcstatehoodpac.com/endorsements",
-"https://facebook.com/ChelseyHockettforCongress",
-"https://facebook.com/groups/netxnow/posts/1466183951715568",
-"https://genefortexas.com/",
-"https://gunsensevoter.org/candidates/67c1396a60f58b2dcf32dbe10938177019f2ec7bf754ae1a6b81681a5130b4a3",
-"https://instagram.com/chelseyhockettforcongress",
-"https://lp.constantcontactpages.com/sl/wIpSok3",
-"https://lp.constantcontactpages.com/sl/wQyLsHx",
-"https://nwpc.org/endorsed-candidates",
-"https://progressivevictory.win/endorsements",
-"https://secure.actblue.com/donate/chelseyhockettforcongress",
-"https://stonewalldemocratsofdallas.com/endorsements",
-"https://store.chelseyhockettforcongress.com/",
-"https://termsfeed.com/live/2832a7bb-7f05-40c2-a643-cd06ae84b496",
-"https://texasaflcio.org/news/endorsements",
-"https://texasasiandemocrats.org/endorsements",
-"https://tiktok.com/@hockettforcongress",
-"https://voteforpeace.info/texas",
-"https://votetexas.gov/"
+{
+"text": "About",
+"href": "https://chelseyhockettforcongress.com/about.html"
+},
+{
+"text": "Blog",
+"href": "https://chelseyhockettforcongress.com/blog.html"
+},
+{
+"text": "Contact",
+"href": "mailto:campaign@chelseyhockettforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chelseyhockettforcongress"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/chelseyhockettforcongress"
+},
+{
+"text": "Endorsements",
+"href": "https://chelseyhockettforcongress.com/index.html#endorsements"
+},
+{
+"text": "Her Full Story →",
+"href": "https://chelseyhockettforcongress.com/about.html"
+},
+{
+"text": "Home",
+"href": "https://chelseyhockettforcongress.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://chelseyhockettforcongress.com/issues.html"
+},
+{
+"text": "Newsletter Sign-up",
+"href": "https://lp.constantcontactpages.com/sl/wIpSok3"
+},
+{
+"text": "Newsletter Sign-up",
+"href": "https://lp.constantcontactpages.com/sl/wQyLsHx"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.termsfeed.com/live/2832a7bb-7f05-40c2-a643-cd06ae84b496"
+},
+{
+"text": "Register to Vote →",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "Store",
+"href": "https://store.chelseyhockettforcongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://chelseyhockettforcongress.com/volunteer.html"
+},
+{
+"text": "[image: Asian American Democrats of Texas Logo] Asian American Democrats of Texas",
+"href": "https://www.texasasiandemocrats.org/endorsements"
+},
+{
+"text": "[image: Courage For Democracy Logo] Courage For Democracy Candidates",
+"href": "https://couragefordemocracy.com/candidates/?_state=tx"
+},
+{
+"text": "[image: DC Statehood PAC 2026 logo] DC Statehood PAC 2026",
+"href": "https://www.dcstatehoodpac.com/endorsements"
+},
+{
+"text": "[image: Dallas County East Democrats logo] Dallas County East Democrats",
+"href": "https://dallascountyeastdemocrats.com"
+},
+{
+"text": "[image: Dallas County Young Democrats logo] Dallas County Young Democrats",
+"href": "https://dallasyoungdems.org"
+},
+{
+"text": "[image: Dallas Stonewall Democrats logo] Stonewall Democrats of Dallas",
+"href": "https://www.stonewalldemocratsofdallas.com/endorsements"
+},
+{
+"text": "[image: Gene Wu logo] Gene Wu",
+"href": "https://genefortexas.com/"
+},
+{
+"text": "[image: Moms Demand Action logo] Moms Demand Action",
+"href": "https://gunsensevoter.org/candidates/67c1396a60f58b2dcf32dbe10938177019f2ec7bf754ae1a6b81681a5130b4a3/"
+},
+{
+"text": "[image: National Women's Political Caucus logo] National Women's Political Caucus",
+"href": "https://nwpc.org/endorsed-candidates/"
+},
+{
+"text": "[image: NetX Now Logo] Northeast Texas National Organization for Women",
+"href": "https://www.facebook.com/groups/netxnow/posts/1466183951715568/"
+},
+{
+"text": "[image: Progressive Victory Logo] Progressive Victory",
+"href": "https://www.progressivevictory.win/endorsements"
+},
+{
+"text": "[image: Texas AFL-CIO logo] Texas AFL-CIO",
+"href": "https://texasaflcio.org/news/endorsements"
+},
+{
+"text": "[image] Organize For Peace",
+"href": "https://voteforpeace.info/texas"
+},
+{
+"text": "[image] Texans Alliance for Retired Americans AFL-CIO",
+"href": "https://texasaflcio.org/news/endorsements"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChelseyHockettforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chelseyhockettforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hockettforcongress"
+},
+{
+"text": "chelseyforcongress.com",
+"href": "https://www.chelseyforcongress.com/"
+}
 ]

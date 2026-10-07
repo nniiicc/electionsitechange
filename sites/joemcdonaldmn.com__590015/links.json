@@ -1,9 +1,62 @@
 [
-"https://joemcdonaldmn.com/",
-"https://joemcdonaldmn.com/about",
-"https://joemcdonaldmn.com/contact",
-"https://joemcdonaldmn.com/events",
-"https://joemcdonaldmn.com/priorities",
-"https://joemcdonaldmn.com/privacy-policy",
-"https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "$75",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "About Joe",
+"href": "https://www.joemcdonaldmn.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joemcdonaldmn.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joe-mcdonald-for-state-rep-committee/donate"
+},
+{
+"text": "Events",
+"href": "https://www.joemcdonaldmn.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.joemcdonaldmn.com"
+},
+{
+"text": "My Principles",
+"href": "https://www.joemcdonaldmn.com/priorities"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemcdonaldmn.com/privacy-policy"
+},
+{
+"text": "Principles",
+"href": "https://www.joemcdonaldmn.com/priorities"
+},
+{
+"text": "[image]",
+"href": "https://www.joemcdonaldmn.com"
+}
 ]

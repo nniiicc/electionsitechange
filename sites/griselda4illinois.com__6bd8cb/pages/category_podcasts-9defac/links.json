@@ -1,14 +1,54 @@
 [
-"https://cookieadmin.net/",
-"https://griselda4illinois.com/",
-"https://griselda4illinois.com/contact",
-"https://griselda4illinois.com/donate",
-"https://griselda4illinois.com/green-livestream-announcing-green-party-candidate-for-governor-of-illinois-griselda-romero-10-15-25",
-"https://griselda4illinois.com/lets-talk-lake-county-green-party-panel-12-16-25",
-"https://griselda4illinois.com/mailing-list",
-"https://griselda4illinois.com/meet-eyde",
-"https://griselda4illinois.com/meet-griselda",
-"https://griselda4illinois.com/news",
-"https://griselda4illinois.com/platform",
-"https://griselda4illinois.com/volunteer"
+{
+"text": "Campaign News",
+"href": "https://griselda4illinois.com/news/"
+},
+{
+"text": "Contact",
+"href": "https://griselda4illinois.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://griselda4illinois.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://griselda4illinois.com/volunteer/"
+},
+{
+"text": "Green Livestream: Announcing! Green Party Candidate for Governor of Illinois – Griselda Romero! – 10-15-25",
+"href": "https://griselda4illinois.com/green-livestream-announcing-green-party-candidate-for-governor-of-illinois-griselda-romero-10-15-25/"
+},
+{
+"text": "Home",
+"href": "https://griselda4illinois.com/"
+},
+{
+"text": "Join the Mailing List",
+"href": "https://griselda4illinois.com/mailing-list/"
+},
+{
+"text": "Let’s Talk Lake County: Green Party Panel – 12-16-25",
+"href": "https://griselda4illinois.com/lets-talk-lake-county-green-party-panel-12-16-25/"
+},
+{
+"text": "Meet Eyde",
+"href": "https://griselda4illinois.com/meet-eyde/"
+},
+{
+"text": "Meet Griselda",
+"href": "https://griselda4illinois.com/meet-griselda/"
+},
+{
+"text": "Platform",
+"href": "https://griselda4illinois.com/platform/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "[image: Griselda for Illinois]",
+"href": "https://griselda4illinois.com/"
+}
 ]

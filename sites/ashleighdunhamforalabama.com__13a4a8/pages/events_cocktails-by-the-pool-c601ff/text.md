@@ -1,12 +1,4 @@
-Back to All Events
-On Saturday, October 3, 2026, join Valerie Sease and friends in support of AshLeigh Meyer Dunham for the Supreme Court with a "Cocktails by the Pool" event.
-Featuring a bourbon tasting, this event will help support AshLeigh's campaign outreach, voter contact, and 'get out the vote' efforts ahead of the November 3rd Election.
-*$50 campaign donation per person.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events Cocktails by the Pool Saturday, October 3, 2026 4:00 PM 6:00 PM 24 Bannut Court Southwest Huntsville, Alabama, 35824 United States (map) Google Calendar ICS On Saturday, October 3, 2026, join Valerie Sease and friends in support of AshLeigh Meyer Dunham for the Supreme Court with a "Cocktails by the Pool" event.
+Featuring a bourbon tasting, this event will help support AshLeigh's campaign outreach, voter contact, and 'get out the vote' efforts ahead of the November 3rd Election. *$# campaign donation per person.
 Please RSVP via text to Valerie at 256-617-3813.
-Previous
-Previous
-September 24
-Eastern Shore Democrats Meeting
-Next
-Next
-October 5
+Previous Previous September 24 Eastern Shore Democrats Meeting Next Next October 5 IVF is on the Ballot: An Evening of Stories Awareness, and Action AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

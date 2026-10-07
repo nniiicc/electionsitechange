@@ -1,9 +1,6 @@
-NFIB Endorses Kustoff for Congress
-September 13, 2016
-GERMANTOWN, TN – The National Federation of Independent Business, Tennessee’s leading business association, has endorsed David Kustoff, Republican nominee for the 8th Congressional District.
+Toggle navigation Home About Issues News Volunteer Contact Donate NFIB Endorses Kustoff for Congress September 13, 2016 GERMANTOWN, TN – The National Federation of Independent Business, Tennessee’s leading business association, has endorsed David Kustoff, Republican nominee for the 8th Congressional District.
 “David Kustoff understands the challenges facing our state’s independent family businesses and is the clear choice in the 8th Congressional District,” said Jim Brown, state director of NFIB/Tennessee.
 “We believe that Mr.
-Kustoff will take a fiscally responsible approach to managing federal government and support legislation that helps our small businesses, that create jobs to keep Tennessee on the pathway to success.”
-“Creating good jobs has always been a priority for me,” said Kustoff.
-“I know the impact that government red tape can have on small businesses and I will use my experience to ensure that businesses thrive in West Tennessee.”
-A small business owner himself, David Kustoff knows what it takes to grow a business, meet a payroll and create good-paying jobs for families in Tennessee.
+Kustoff will take a fiscally responsible approach to managing federal government and support legislation that helps our small businesses, that create jobs to keep Tennessee on the pathway to success.” “Creating good jobs has always been a priority for me,” said Kustoff.
+“I know the impact that government red tape can have on small businesses and I will use my experience to ensure that businesses thrive in West Tennessee.” A small business owner himself, David Kustoff knows what it takes to grow a business, meet a payroll and create good-paying jobs for families in Tennessee.
+Home About Issues News Volunteer Contact Donate Paid for by Kustoff for Congress Privacy Policy | Terms & Conditions

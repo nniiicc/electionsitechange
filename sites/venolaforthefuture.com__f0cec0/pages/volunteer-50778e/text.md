@@ -1,9 +1,1 @@
-Skip to content
-Menu
-Meet Venola
-Priorities for District 94
-Volunteer
-Donate
-Voting Information
-Volunteer
-Loading…
+Skip to content Menu Meet Venola Priorities for District 94 Volunteer Donate Voting Information Volunteer Loading… Keep Updated Paid for by Friends of Venola Mason || Copyright © # Venola For House District 94

@@ -1,4 +1,5 @@
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for District 18.
-Skip to content
-Unwavering support for K-12 Education.
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for District 18.
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Education Important Issues Videos Unwavering support for K-12 Education.
+Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for District 18.
+Post navigation Previous Previous post: My commitment to the students and teachers will be unwavering.
+Next Next post: I pledge to support K-12 students and teachers Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

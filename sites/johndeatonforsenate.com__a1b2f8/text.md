@@ -1,7 +1,51 @@
-By Vincent Errichetti
-•
-September 30, 2026
-FOR IMMEDIATE RELEASE September 30, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON — Massachusetts U.S.
+Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security DONATE DONATE Meet John Issues Volunteer Contact Vote News Store Events DONATE People Over Politics John Deaton Will Fight for What is Right in Washington DC.
+PEOPLE OVER POLITICS John Deaton Will Fight for What is Right in Washington DC.
+MEET JOHN DEATON FATHER CANCER SURVIVOR U.S.
+MARINE VETERAN TRIAL LAWYER John Deaton is a successful trial attorney, U.S Marine veteran, cancer survivor, father to three young daughters, and someone who overcame impossible odds to build a life for his family and become a champion for other underdogs.
+MEET JOHN STAY CONNECTED FIRST NAME LAST NAME EMAIL ADDRESS CELL PHONE Opt-In By providing your phone number and checking this box, you are consenting to receive text messages to that number from John Deaton for U.S.
+Senate.
+Message frequency varies.
+Message and data rates may apply.
+Donations may be solicited.
+Text HELP for help.
+Text STOP to unsubscribe.
+SMS opt-in data will not be shared or sold with 3rd parties.
+See Privacy Policy / Terms .
+Thank you for signing up to support John Deaton for U.S.
+Senate!
+I wanted to reach out and see if you’d like to get involved with the campaign.
+We have the following volunteer opportunities: ☐ Host Event ☐ Door knocking ☐ Phone banking ☐ Submitting letters to your local paper ☐ Lawn sign distribution Just reply and let me know which opportunities interest you and what town you’re from.
+Thank you!
+Andrew Love John Deaton for U.S.
+Senate Campaign Political Director andrew@johndeatonforsenate.com Oops, there was an error sending your message.
+Please try again later.
+LATEST NEWS Deaton Statement on Ed Markey Vote Against Ratepayer Protection Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Senate candidate John Deaton issued the following statement after U.S.
+Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
+Both are poor excuses.
+Nothing prevents future bills from banning the president and family members from owning stocks, a measure I support too.
+And the voter ID rider is a common-sense requirement implemented by some of the most progressive countries in the world.
+Ed Markey's far-left base would crucify him for voting in favor of something so inside the mainstream of American opinion," said Deaton .
+### Deaton Statement on Ed Markey Vote Against Stop Insider Trading Act By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE August 16, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON, Mass. — U.S.
+Senate candidate John Deaton issued the following statement after U.S.
+Senator Ed Markey (D-MA) voted against passage of the Stop Insider Trading Act: "There are two reasons Ed Markey voted against this bill: It didn't ban President Trump from owning stocks, and it required voter ID.
+Both are poor excuses.
+Nothing prevents future bills from banning the president and family members from owning stocks, a measure I support too.
+And the voter ID rider is a common-sense requirement implemented by some of the most progressive countries in the world.
+Ed Markey's far-left base would crucify him for voting in favor of something so inside the mainstream of American opinion," said Deaton .
+### Deaton: Markey Should Back Common-Sense Nuclear Policy as Healey Hosts New England Summit in Lowell By Vincent Errichetti • October 1, 2026 FOR IMMEDIATE RELEASE September 5, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com U.S.
+Air Force Maj.
+John "Alex" Klinner died in an aircraft crash in Iraq in March, supporting the United States' military operation against Iran.
+BOLTON, MA -- John Deaton, candidate for U.S.
+Senate in Massachusetts, responded to intervention by Vice President J.D.
+Vance after Libby Klinner, the widow of Major John “Alex” Klinner, took to social media to reveal that the military had denied her the benefits of a husband killed in active duty combat, arguing that the current military operation in Iran does not constitute a formal war.
+"I was heartened to hear that Mrs.
+Klinner will hopefully receive the benefits she is entitled to, but my concern remains for the many other spouses whose partners are deployed in a protracted Middle East engagement with no congressional approval or end in sight," said Deaton.
+"The Senate must reestablish itself as an co-equal branch of government.
+That means supporting passage of a War Powers resolution or placing judicial limits on this unconstitutional military action.
+"In 2011, the Senate declined to rebuke the Obama administration for a seven-month engagement in Libya.
+We are on the precipice of establishing another dangerous precedent that pushes the power to declare war away from lawmakers and to the executive branch with no constraints or consequences." BACKGROUND: On Thursday, Vice President Vance said he would seek a briefing on the circumstances of Libby Klinner, who garnered international media attention, and promised the widow of Major John "Alex" Klinner, a Trussville Air Force major killed during Operation Epic Fury will receive the benefits she is entitled to. ( ABC 33/40 , 9/3/26) ### IN CASE YOU MISSED IT!
+Deaton Op-Ed: 'People Over Politics' By Vincent Errichetti • September 30, 2026 FOR IMMEDIATE RELEASE September 30, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com BOSTON — Massachusetts U.S.
 Senate candidate John Deaton has released the first in a series of op-eds for the final month of the campaign.
 Titled "People Over Politics," Deaton -- a Marine, cancer survivor, and lawyer for working Americans -- expands on his argument that Senator Ed Markey has nothing left to add after 53 years in office except status quo Washington politics.
 Deaton highlights his biography as a survivor of childhood poverty and sexual abuse before underscoring his promise to serve just two six-year terms.
@@ -71,3 +115,107 @@ I'm not asking you to like my party.
 I'm asking you to look past the label Ed Markey wants you to see and judge me on what I've done and what I'll do.
 Put people over politics.
 That's the only test that matters.
+PHOTOS: Deaton Sends Ed Markey a Message at his Maryland Home By Vincent Errichetti • September 30, 2026 FOR IMMEDIATE RELEASE September 30, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com CHEVY CHASE, MD — A mobile billboard truck paid for by John Deaton, candidate for U.S.
+Senate in Massachusetts, arrived in front of Senator Ed Markey's (D-MA) year-round residence in Chevy Chase, Maryland this morning, challenging the 80-year-old incumbent to explain why he unexpectedly backed out of a second debate on Monday.
+The truck, which later spent Wednesday circling the Dirksen Office Building where Markey keeps his official Senate office, carried a message from Deaton and called for Markey to "back out of the U.S.
+Senate" if he can't be bothered to sufficiently defend his record in the general election.
+Markey debated his primary opponent, Congressman Seth Moulton, three times on live TV.
+“Senator Markey takes your vote for granted, which is why he lives outside of Massachusetts and refuses to debate John Deaton – because he knows his pull-string talking points on affordability fall flat,” said Deaton campaign manager Mark Steffen.
+“We’ll be sending him a message straight from John as long as it takes to get him to respect the voters and stop acting like a king.” BACKGROUND: Markey has been challenged to explain his residency going back decades.
+In 2020, the Boston Globe detailed Markey's travel records and his refusal to release a utility bill from his childhood home in Malden where he claims to live. ( Boston Globe , 7/27/20) More recently, Markey appeared out of state stumping for Democratic candidates for Senate. ( Off the Press , 9/17/2026) On Monday, Markey backed out of a planned debate with WCVB, leaving just one debate in Boston and no debates in Western Massachusetts despite offers from multiple stations. ( New Boston Post , 9/29/26) Statement by John Deaton in Response to Mike Minogue Calling for Federal Investigation into Governor Healey's Springfield Courthouse Deal By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 17, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com In two new interviews, John Deaton says he would break up insurance and pharmaceutical companies to bring down costs for consumers.
+BOSTON - Republican U.S.
+Senate candidate John Deaton today contrasted his agenda with Sen.
+Ed Markey's half-century in Washington, saying Massachusetts families need results on health care and immigration, not recycled talking points.
+Deaton said he would work to break up vertically integrated insurers and pharmacy benefit managers, increase competition and transparency, and drive down health-care costs.
+On immigration, he said he would pursue real reform with a workable path forward rather than slogans that go nowhere.
+Deaton reiterated these points on On the Record on WCVB TV-5 and @Issue Sitdown with Matt Prichard on NBC 10 Boston.
+Interviews linked below.
+"Unlike Markey's 50-year record, I'm running on solutions, not slogans," Deaton said.
+"People in this state are paying too much for care and getting too little from Washington.
+That doesn't change because you put a slogan on a sign." "I'll take on the middlemen who inflate prices, open the books, and fight for a system that actually works for patients," Deaton said.
+"And I'll treat immigration like a problem to solve, not a line for a rally.
+Massachusetts deserves someone who will do the work, not someone who has spent 50 years practicing the same speech." ### John Deaton Statement on U.S.
+Senates Failure to Advance Clarity Act By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 10, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com West ern Massachusetts deserves a debate in its own backyard, not another cycle of being ignored SPRINGFIELD, Mass. — Republican U.S.
+Senate nominee John Deaton today accepted the debate invitation from 22News in Springfield and announced he has agreed to all four televised general-election debate requests from Massachusetts stations: WWLP-22News (Springfield / Western Massachusetts) Boston 25 WCVB TV-5 October 14th WBZ TV-4 October 13th “Yes.
+All four.
+Immediately,” Deaton said.
+“Every one of these invitations should be honored, especially Western Massachusetts.
+If Senator Markey wants to pick Boston stages and skip Springfield, that is his choice.
+It will not be mine.” Four issues for Western Mass that can’t be ignored The $2 billion Springfield courthouse scandal: a $2 billion state contract awarded amid conflict-of-interest allegations and Boston political connections.
+The cyberattack on Springfield Public Schools: schools shut down, nurses locked out of student medical records, more than 23,000 students sent home.
+The LaMar Cook scandal: Gov.
+Healey’s former Western Mass aide arrested after authorities said 18 pounds of cocaine were headed to the Springfield state office building where he worked.
+Data center proposals in Holyoke and Westfield: power bills, water, land use, and who pays, decided too often after Boston has already moved on.
+Canadian hydropower and the region’s energy future.
+NECEC is sending about a fifth of Massachusetts’s power from Hydro-Québec through Western Mass, with uneven flows and reliability still unresolved.
+Western Mass sits at the center of the energy transition and eats the costs and the risk while Boston takes the credit for “clean energy.” We need all-of-the-above: hydro, solar, wind, nuclear, and real grid investment, and a senator who will fight for the Valley on it, not fly in for the ribbon-cutting.
+Deaton said incumbent politicians treat the Valley as an afterthought every election cycle, campaigning on Beacon Hill and in Boston studios while assuming Pioneer Valley families will catch whatever spills over from eastern media.
+“People in Springfield, Holyoke, Chicopee, Pittsfield, and across the Valley often cannot even tune in to Boston television the way Boston takes for granted,” Deaton said.
+“They don’t get the coverage.
+They don’t get the candidate in their backyard.
+They feel ignored because they are ignored.” “A Senate debate in Western Massachusetts is the minimum,” Deaton said.
+“It is not optional.
+Show up in Springfield and answer for it.” The Deaton campaign is appreciative of the 22News team for also offering a separate press room so any member of the press from across the Commonwealth can watch the debate and interview the candidates immediately following the event.
+### Deaton Accepts 22News Springfield Debate, Agreed to All Four TV Debate Offers By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com ﻿ IF HE COULD DO IT SEVEN TIMES IN A PANDEMIC, HE CAN DO IT NOW!
+BOSTON — John Deaton, the Republican nominee for U.S.
+Senate, today called on Sen.
+Ed Markey to stop hiding from Massachusetts voters and agree to a full slate of general-election debates.
+In 2020, during COVID, Markey debated Joe Kennedy seven times.
+There is no excuse now.
+“If Ed Markey could stand on a debate stage seven times in the middle of a pandemic, he can stand on one now,” Deaton said.
+“Massachusetts families are paying some of the highest electric bills in the country.
+Young people raised here can’t stay here.
+After 53 years, he should have to answer for that record in public; not from Maryland.
+On the night of the Massachusetts Primary, while appearing on NightSide with Dan Rea on WBZ News Radio1030, the host asked, "I assume that if Ed Markey would be willing to engage in a debate here on NightSide you would be more than happy to take up that challenge?" And Deaton replied, "Absolutely!
+I would welcome it!" He continued, "I know that four media outlets, now yours would be the fifth, have inquired about debates, and I have accepted all of them." Deaton, a Marine veteran and small-business owner who raised three daughters paycheck to paycheck, said the contrast is simple: lived experience versus a career in the same seat.
+“I grew up in one of America’s toughest neighborhoods.
+I never quit.
+I built a business and a family the hard way,” Deaton said.
+“Markey has had 53 years.
+Tenure without results is just tenure.
+Let’s debate energy.
+Let’s debate housing.
+Let’s debate the cost of staying in Massachusetts.
+If he’s proud of his record, he should defend it." Deaton has already shown up.
+Markey declined the June WBZ debate that Deaton attended.
+Deaton is prepared to debate Markey anywhere in the Commonwealth, as many times as voters deserve, before November.
+### Deaton Calls Out Markey to Debate By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE September 7, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com IF HE COULD DO IT SEVEN TIMES IN A PANDEMIC, HE CAN DO IT NOW!
+BOSTON — John Deaton, the Republican nominee for U.S.
+Senate, today called on Sen.
+Ed Markey to stop hiding from Massachusetts voters and agree to a full slate of general-election debates.
+In 2020, during COVID, Markey debated Joe Kennedy seven times.
+There is no excuse now.
+“If Ed Markey could stand on a debate stage seven times in the middle of a pandemic, he can stand on one now,” Deaton said.
+“Massachusetts families are paying some of the highest electric bills in the country.
+Young people raised here can’t stay here.
+After 53 years, he should have to answer for that record in public; not from Maryland.
+On the night of the Massachusetts Primary, while appearing on NightSide with Dan Rea on WBZ News Radio1030, the host asked, "I assume that if Ed Markey would be willing to engage in a debate here on NightSide you would be more than happy to take up that challenge?" And Deaton replied, "Absolutely!
+I would welcome it!" He continued, "I know that four media outlets, now yours would be the fifth, have inquired about debates, and I have accepted all of them." Deaton, a Marine veteran and small-business owner who raised three daughters paycheck to paycheck, said the contrast is simple: lived experience versus a career in the same seat.
+“I grew up in one of America’s toughest neighborhoods.
+I never quit.
+I built a business and a family the hard way,” Deaton said.
+“Markey has had 53 years.
+Tenure without results is just tenure.
+Let’s debate energy.
+Let’s debate housing.
+Let’s debate the cost of staying in Massachusetts.
+If he’s proud of his record, he should defend it." Deaton has already shown up.
+Markey declined the June WBZ debate that Deaton attended.
+Deaton is prepared to debate Markey anywhere in the Commonwealth, as many times as voters deserve, before November.
+### Western Mass Deserves Debates Before the Ballots Go Out By Vincent Errichetti • September 24, 2026 FOR IMMEDIATE RELEASE July 10, 2026 Press Contact: Vincent Errichetti (617) 922-1824 Press@johndeatonforsenate.com Deaton on Dems Debate: "It wasn't a debate, there were no solutions to people's problems." Restates his Challange for Five Single Issue Debates Massachusetts - John Deaton, candidate for US Senate. took to social media to respond to the first Democrat Primary debate between Congressman Seth Moulton and Senator Ed Markey.
+"It wasn't a debate, there were no solutions to people's problems.
+There were a lot of slogans, but no solutions," said Deaton, who was amused by their focus on avoiding real answers.
+He continued, “I hope they accept my ‘Five Single-Issue Debates Challenge.’ This format would give voters a full hour on each topic, allowing us to discuss foreign policy, solving the energy crisis, our housing agenda, the best plan for healthcare reform, and more.” John Deaton is a Republican candidate for U.S.
+Senate in Massachusetts, running as a voice for balance, accountability, and practical solutions for working families.
+### 1 (current) 2 3 ...
+5 let's shake up washington ﻿ Chip in Today to Retire Ed Markey $50 $100 $250 $500 $1,000 $2,500 OTHER CRYPTO WE TAKE CRYPTO SUPPORT JOHN'S CAMPAIGN ﻿ John Deaton’s campaign counts on everyday people like you to chip in what you can.
+Every donation counts.
+DONATE TODAY JOHN DEATON FOR SENATE INC.
+General inquiries: info@johndeatonforsenate.com Press inquiries: press@johndeatonforsenate.com Meet John Issues Store News Events Volunteer Contact Vote CLEAN HANDS AI Flock cams social security PAID FOR BY JOHN DEATON FOR SENATE INC.
+PRIVACY POLICY TERMS OF SERVICE By providing your email address you consent to receive periodic campaign updates from John Deaton for Senate Inc.
+By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including artificial, pre-recorded, autodialed and automated calls and texts, to that number from John Deaton for Senate Inc.
+Msg&data rates may apply.
+Reply HELP for help, STOP to end.
+Terms & conditions/privacy policy apply.
+John Deaton was a Captain in the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not constitute or imply endorsement by the Marine Corps or the Department of Defense. ﻿ Share by:

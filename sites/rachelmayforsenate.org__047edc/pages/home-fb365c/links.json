@@ -1,11 +1,46 @@
 [
-"https://forms.gle/CkySzrzD8c4K4K1J8",
-"https://forms.gle/VRVxGn5XwfuoNcPs8",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Frachelmay2026&sa=D&sntz=1&usg=AOvVaw3ZTpgM8Jbj32D1_DS6lQaq",
-"https://rachelmayforsenate.org/about-rachel",
-"https://rachelmayforsenate.org/home",
-"https://rachelmayforsenate.org/news",
-"https://rachelmayforsenate.org/privacy-policy",
-"https://rachelmayforsenate.org/results",
-"https://syracuse.com/opinion/2024/10/editorial-endorsement-rachel-may-in-the-48th-senate-district.html"
+{
+"text": "About Rachel",
+"href": "https://www.rachelmayforsenate.org/about-rachel"
+},
+{
+"text": "DONATE",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Frachelmay2026&sa=D&sntz=1&usg=AOvVaw3ZTpgM8Jbj32D1_DS6lQaq"
+},
+{
+"text": "Home",
+"href": "https://www.rachelmayforsenate.org/home"
+},
+{
+"text": "News",
+"href": "https://www.rachelmayforsenate.org/news"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.rachelmayforsenate.org/privacy-policy"
+},
+{
+"text": "REQUEST LAWN SIGNS HERE",
+"href": "https://forms.gle/CkySzrzD8c4K4K1J8"
+},
+{
+"text": "Results",
+"href": "https://www.rachelmayforsenate.org/results"
+},
+{
+"text": "VOLUNTEER WITH US!",
+"href": "https://forms.gle/VRVxGn5XwfuoNcPs8"
+},
+{
+"text": "consistently delivered",
+"href": "https://www.rachelmayforsenate.org/results"
+},
+{
+"text": "read the syracuse.com endorsement from 2024 here",
+"href": "https://www.syracuse.com/opinion/2024/10/editorial-endorsement-rachel-may-in-the-48th-senate-district.html"
+},
+{
+"text": "www.rachelmayforsenate.org",
+"href": "https://www.rachelmayforsenate.org/home"
+}
 ]

@@ -1,5 +1,4 @@
-My Story
-Hello friends, I’m Zeb!
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate My Story Hello friends, I’m Zeb!
 If you’re here looking for my political or social stances, you’re in the wrong spot!
 But no worries, Just click the “Where I Stand” button at the top of the page.
 I grew up about 12 miles outside of Houghton, Michigan, what some folks might call “the middle of nowhere.” To me, it was home, and it was perfect.

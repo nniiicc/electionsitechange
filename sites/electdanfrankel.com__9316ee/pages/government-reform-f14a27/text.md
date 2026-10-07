@@ -1,6 +1,4 @@
-Issues
-Government Reform
-More than half of Pennsylvanians agree with Rep.
+Skip to content Elect Dan Frankel Menu Close Home About Dan Issues Open menu Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Government Reform ElectFrankel@gmail.com Donate Now Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Issues Government Reform More than half of Pennsylvanians agree with Rep.
 Frankel on the issues that he has spent more than two decades fighting for — LGBTQ+ civil rights, women’s reproductive rights and public protections against gun violence — but each of those issues continue to be an uphill climb in the General Assembly.
 More than anything else, the reason for this incongruence in legislative action comes down to this: Pennsylvania is among the worst states in the nation when it comes to redistricting, campaign finance and ethics laws.
 Rep.
@@ -14,10 +12,7 @@ Frankel supports a variety of bills that would make it easier for voters to make
 You should be able to easily vote, whether you have a disability, an unstable address, an inflexible work schedule or you’re incarcerated.
 Let’s make a difference!
 Donate to our campaign.
-About
-Since 1999, Rep.
+Donate Now About Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
-Explore
-Contact
-© Copyright 2022 – Rep.
-Dan Frankel
+Explore Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com © Copyright # – Rep.
+Dan Frankel Site by Imagebox Search Search Recent Posts Some Useful Links for You to Get Started Recent Comments A WordPress Commenter on Some Useful Links for You to Get Started Archives March 2022 Categories Uncategorized Elect Dan Frankel Proudly powered by WordPress .

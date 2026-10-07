@@ -1,23 +1,17 @@
-“Helene perfected a recipe of heart and soul mixed with joy, laughter, and inspiration to keep a multi-generational audience engaged throughout the speech.” Paula Tallal, Ph.D.
-Board of Governors, Professor of Neuroscience Sulk Institute for Biological Studies
-“Helene presents her story with a hilarious, poignant, and inspirational flair that makes the most miraculous journey feel accessible and possible for all of us.” Joanie Mayer Hope, MD, Let Every Woman Know Conference, Alaska.
-“Truly forever changed by her example, accomplishments, unconditional sharing of heart, purpose, and journey.” Jennifer Romas, Producer, Choreographer, Headliner, Owner JRR Enterprises “
-“Thank you, Helene, so much...you inspired us.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home “Helene perfected a recipe of heart and soul mixed with joy, laughter, and inspiration to keep a multi-generational audience engaged throughout the speech. ” Paula Tallal, Ph.D.
+Board of Governors, Professor of Neuroscience Sulk Institute for Biological Studies “Helene presents her story with a hilarious, poignant, and inspirational flair that makes the most miraculous journey feel accessible and possible for all of us.” Joanie Mayer Hope, MD, Let Every Woman Know Conference, Alaska. “ Truly forever changed by her example, accomplishments, unconditional sharing of heart, purpose, and journey.” Jennifer Romas, Producer, Choreographer, Headliner, Owner JRR Enterprises “ “Thank you, Helene, so much...you inspired us.
 There were many nurses there today who’d had a bout with breast cancer, so they were encouraged!
 Your enthusiasm and smile at life were great.” J.
-Anne Hudgens, Director, Clinical Education Department, Department of Nursing Administration, Mayo Clinic, Florida
-“Helene’s story is an unbelievably fascinating journey into the heart and soul of a champion.
+Anne Hudgens, Director, Clinical Education Department, Department of Nursing Administration, Mayo Clinic, Florida “Helene’s story is an unbelievably fascinating journey into the heart and soul of a champion.
 Her ability to face and scale seemingly insurmountable challenges is a testament to the strength and character of this inspirational human being.
-You will laugh, you will cry.” Rolando Alvarez, M.D., M.S., Medical Director at Pharm XG Health One
-“Helene’s speech at University Hospital was special.
+You will laugh, you will cry.” Rolando Alvarez, M.D., M.S., Medical Director at Pharm XG Health One “Helene’s speech at University Hospital was special.
 Not only did she inspire and encourage us to stay healthy, but she also blessed us with her wonderful enthusiasm!
 Her commitment to good health is contagious.
 THANK YOU, HELENE!
 We LOVE you!” Julie Willey, Director, Public Relations, University Health System, San Antonio, TX.
 "Helene’s speech at High West Energy last Friday in Pine Bluffs, Wyoming, was truly one of the best I’ve heard!
 Her comedic timing is genius.
-Her speech was flawless yet flowed very organically.” Gary Collins Pine Bluffs Post Reporter
-“Why Helene Neville?
+Her speech was flawless yet flowed very organically.” Gary Collins Pine Bluffs Post Reporter “Why Helene Neville?
 Helene’s physical and mental strength…her heart and love for unity and human connection… her resiliency INFUSES into her audience.
 Unparalleled and vivid stories of a brave odyssey into the unknown, where sheer grit, optimism, and passion carried Helene to do what no one has done before.” Nicole Choi, Ph.
-D., CFP® Associate Professor of Finance Department Chair, University of Wyoming College of Business
+D., CFP® Associate Professor of Finance Department Chair, University of Wyoming College of Business First Name Last Name Email Phone Title Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip Endorsement Text: Submit Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

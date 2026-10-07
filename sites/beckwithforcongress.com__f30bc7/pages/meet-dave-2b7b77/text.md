@@ -1,9 +1,7 @@
-About Dave Beckwith
-Dave did not set out to run for Congress.
+0 Skip to Content MEET DAVE KEY ISSUES ENDORSEMENTS VOLUNTEER VOTING INFO DONATE Open Menu Close Menu MEET DAVE KEY ISSUES ENDORSEMENTS VOLUNTEER VOTING INFO DONATE Open Menu Close Menu MEET DAVE KEY ISSUES ENDORSEMENTS VOLUNTEER VOTING INFO DONATE About Dave Beckwith Dave did not set out to run for Congress.
 He set out to serve.
 After serving as Deputy Assistant Secretary of Defense at the Pentagon, thirty years in the Air Force, and seventeen years as your neighbor in Loudoun County, he realized that serving VA10 in Washington was the next right thing to do.
-Dave’s Story
-Dave Beckwith has spent his career doing work that most people never hear about.
+Dave’s Story Dave Beckwith has spent his career doing work that most people never hear about.
 For over three decades, he has served this country in roles that required him to manage some of the most complex and sensitive national security programs in the federal government.
 Most recently, Dave served as the Deputy Assistant Secretary of Defense, where he managed a team of 95 people and oversaw a $500 billion portfolio covering space systems, nuclear defense, missile defense, and national intelligence.
 Before that, he led acquisition oversight for the Intelligence Community's major systems, including programs at the National Reconnaissance Office, the NSA, and the Defense Intelligence Agency.
@@ -34,10 +32,13 @@ Dave has spent his life serving this community as an Airman, a neighbor, and a p
 Now it's time to take that energy for service to Congress.
 But getting there takes resources.
 Your donation, no matter the size, is what makes this campaign possible.
-Please make checks payable and mail to:Dave Beckwith for Congress, P.O.
-Box 650326 Sterling, VA 20165
-Get Involved
-Volunteering for this campaign isn't just about knocking on doors or making phone calls.
+Please make checks payable and mail to: Dave Beckwith for Congress, P.O.
+Box 650326 Sterling, VA 20165 DONATE TO DAVE'S CAMPAIGN Get Involved VOLUNTEER FOR DAVE Volunteering for this campaign isn't just about knocking on doors or making phone calls.
 It's about showing up for your neighbors and your community.
 Dave knows that your time is your most valuable resource, and he doesn't take that lightly.
 Whether you can give an hour or an entire weekend, every bit of support means the world to this campaign.
+Follow Along with the campaign Stay Connected Join the newsletter to stay up-to-date with Dave’s Campaign.
+DONATE Please make checks payable and mail to: Dave Beckwith for Congress P.O.
+Box 650326 Sterling VA 20165 vote@beckwithforcongress.com PRIVACY POLICY TERMS AND CONDITIONS Dave Beckwith is a former member of the Air Force and Department of Defense.
+Use of his military rank, official photographs, and titles does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for and authorized by Dave Beckwith for Congress

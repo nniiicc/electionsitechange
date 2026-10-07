@@ -1,12 +1,50 @@
 [
-"http://instagram.com/gilchristlindsay",
-"https://facebook.com/gilchristforcolorado",
-"https://gilchristforcolorado.com/",
-"https://gilchristforcolorado.com/cart",
-"https://gilchristforcolorado.com/endorsements-1",
-"https://gilchristforcolorado.com/get-involved",
-"https://gilchristforcolorado.com/issues",
-"https://gilchristforcolorado.com/meet-lindsay",
-"https://gilchristforcolorado.com/newsletters",
-"https://secure.actblue.com/donate/gilchrist-for-colorado-1"
+{
+"text": "0",
+"href": "https://www.gilchristforcolorado.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gilchrist-for-colorado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gilchristforcolorado.com/endorsements-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gilchristforcolorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.gilchristforcolorado.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.gilchristforcolorado.com/issues"
+},
+{
+"text": "Meet Lindsay",
+"href": "https://www.gilchristforcolorado.com/meet-lindsay"
+},
+{
+"text": "Newsletters",
+"href": "https://www.gilchristforcolorado.com/newsletters"
+},
+{
+"text": "[image: Gilchrist for Colorado]",
+"href": "https://www.gilchristforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/gilchristlindsay"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/gilchristforcolorado"
+},
+{
+"text": "lindsay@gilchristforcolorado.com",
+"href": "mailto:lindsay@gilchristforcolorado.com"
+}
 ]

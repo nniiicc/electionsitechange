@@ -1,7 +1,22 @@
 [
-"https://mattgress.com/",
-"https://mattgress.com/cart",
-"https://mattgress.com/media-kit",
-"https://mattgress.com/s/MATT-GRESS-MEDIA-KIT-wyxt.zip",
-"https://secure.winred.com/arizonans-for-matt-gress/donate"
+{
+"text": "0",
+"href": "https://www.mattgress.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/arizonans-for-matt-gress/donate"
+},
+{
+"text": "DOWNLOAD MATT'S FULL MEDIA KIT",
+"href": "https://www.mattgress.com/s/MATT-GRESS-MEDIA-KIT-wyxt.zip"
+},
+{
+"text": "Media Kit",
+"href": "https://www.mattgress.com/media-kit"
+},
+{
+"text": "[image: Matt Gress for Arizona House]",
+"href": "https://www.mattgress.com/"
+}
 ]

@@ -1,10 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61587355267447",
-"https://instagram.com/consider.bartie",
-"https://secure.actblue.com/donate/votebartie",
-"https://votebartie.org/home",
-"https://votebartie.org/private-policy",
-"https://votebartie.org/termsandconditions",
-"https://votebartie.org/where",
-"https://votebartie.org/who"
+{
+"text": "Home",
+"href": "https://votebartie.org/home"
+},
+{
+"text": "Power This Campaign Foward!",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votebartie.org/private-policy"
+},
+{
+"text": "Stand With Us Today!",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votebartie.org/termsandconditions"
+},
+{
+"text": "Where I Stand.",
+"href": "https://votebartie.org/where"
+},
+{
+"text": "Where i stand",
+"href": "https://votebartie.org/where"
+},
+{
+"text": "Who Am I?",
+"href": "https://votebartie.org/who"
+},
+{
+"text": "Your Support Matters",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "Your Support Matters!",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/profile.php?id=61587355267447"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.instagram.com/consider.bartie/"
+}
 ]

@@ -1,13 +1,7 @@
-Our priorities
-Fighting for Kandiyohi County
-These are some of the top priorities our campaign is focused on.
-Skip navigation menu
-Our priorities
-Fighting for Kandiyohi County
-These are some of the top priorities our campaign is focused on.
-Healthcare Access
-End Citizens United
-Fiscal Responsibility
-Government Accountability
-sign up to
-Get Involved
+Skip navigation menu About Events Volunteer Contact Endorsements Donate Real People, Real Change.
+An Independent Voice for Kandiyohi County First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit About Events Volunteer Contact Endorsements Donate Real People, Real Change.
+An Independent Voice for Kandiyohi County First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit "Real People, Real Change" Julie focuses on a "real people, real change" platform that reflects a common-sense, "chaos-free" perspective to governance in St.
+Paul.
+Learn more Support Our Campaign We’re grateful for your donations! $ 10 $ 25 $ 75 $ 150 $ 250 Other $ 10 $ 25 $ 75 $ 150 $ 250 Other Read below for some of our top priorities Healthcare Access End Citizens United Fiscal Responsibility Government Accountability sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code You may be required by law to put a legal disclaimer here, if you intend to send text messages to people whose number you collect.
+Guidelines can be found here: https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines Submit henslinforhousemn@gmail.com Powered by RUN! website builder PREPARED AND PAID FOR BY HENSLIN FOR HOUSE, P.O.
+BOX 1373, WILLMAR, MN 56201 You need to enable JavaScript to run this app.

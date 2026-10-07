@@ -1,7 +1,9 @@
 {
  "description": "About Walt Brooks, candidate for State Representative",
  "final_url": "https://www.waltbrooks.com/about_walt",
- "paid_for_by": null,
+ "fingerprint": "0102b59b842fb57f42668030780d4bb651e33a5e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Walt",
  "years_mentioned": []
 }

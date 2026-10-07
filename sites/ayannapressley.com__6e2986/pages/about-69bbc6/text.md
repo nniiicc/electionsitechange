@@ -1,5 +1,4 @@
-Meet Ayanna
-Ayanna Pressley is an advocate, a policy-maker, an activist, and a survivor.
+EN ES HT ZH Facebook Twitter Instagram Meet Ayanna Issues Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Jobs Volunteer Store Donate Meet Ayanna Events Voter Info Volunteer Store Donate Meet Ayanna Ayanna Pressley is an advocate, a policy-maker, an activist, and a survivor.
 On November 6, 2018, Ayanna was elected to represent Massachusetts’ 7th Congressional District in the U.S.
 House of Representatives, making her the first woman of color to be elected to Congress from the Commonwealth of Massachusetts.
 Ayanna believes that the people closest to the pain should be closest to the power, and that a diversity of voices in the political process is essential to crafting more effective public policy.
@@ -19,3 +18,6 @@ She has been honored by the Greater Boston Chamber of Commerce as one of their T
 In 2015, she earned the EMILY’s List Rising Star Award and was named one of Boston Magazine’s 50 Most Powerful People.
 She is also an Aspen-Rodel Fellow in Public Leadership, Class of 2012.
 Ayanna lives in the Hyde Park neighborhood of Boston with her husband Conan Harris and cat Sojourner Truth, and is a proud bonus mom to her stepdaughter Cora.
+Chip In Now Ayanna is a relentless advocate for the people.
+Will you have her back by chipping in today?
+Our average contribution this year $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Meet Ayanna Voter Info Volunteer Jobs Store Donate Follow Us Facebook Twitter Instagram Donate By Mail Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Paid for by the Committee to Elect Ayanna Pressley Contact Privacy Made with Middle Seat

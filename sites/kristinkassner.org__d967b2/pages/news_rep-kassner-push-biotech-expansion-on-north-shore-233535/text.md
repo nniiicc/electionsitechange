@@ -1,18 +1,16 @@
-Rep.
-Kassner Push Biotech Expansion on North Shore
-NORTH SHORE, MA — BioConnects New England (BCNE) is collaborating with State Rep.
+0 Skip to Content Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Open Menu Close Menu Meet Kristin Priorities Get Involved Endorsements News DONATE Rep.
+Kassner Push Biotech Expansion on North Shore News Apr 11 Written By Kristin Kassner NORTH SHORE, MA — BioConnects New England (BCNE) is collaborating with State Rep.
 Kristin Kassner in an effort to encourage increased life sciences development on the North Shore of Massachusetts.
 “Over the course of the next several months, Kassner and members of the BCNE leadership team will meet with local elected officials, business owners, educational institutions, community organizations, and workforce development leaders throughout the North Shore to build understanding among community leaders by clarifying the biotech sector, its many job pathways, and the benefits it brings to local workers and economies,” BCNE said in a press release.
 Tours of Boston area biotech laboratories are planned and a North Shore Community Leadership Summit will convene in late spring to explore strategies for regional sustainable biotech growth.
 “The biotech sector and its affiliated industries have strong roots in the Commonwealth, provides many area jobs, and has helped to stabilize local economies.
 There is tremendous economic opportunity on the North Shore due to the strength of our existing companies, institutions, and talented workforce,” Kassner said.
 “We also know that one size doesn’t fit all and need the communities at the table.
-These conversations, tours, and convening will help ensure that any biotech development on the North Shore is thoughtful, transparent, and aligned with the long-term needs of our towns.”
-New Jobs
-According to MassBioEd, the Massachusetts life sciences sector is projected to add nearly 17,000 new jobs by 2029, signaling strong demand for talent and space beyond the current biotech hub of Boston and Cambridge.
+These conversations, tours, and convening will help ensure that any biotech development on the North Shore is thoughtful, transparent, and aligned with the long-term needs of our towns.” New Jobs According to MassBioEd, the Massachusetts life sciences sector is projected to add nearly 17,000 new jobs by 2029, signaling strong demand for talent and space beyond the current biotech hub of Boston and Cambridge.
 “The North Shore offers more affordable commercial real estate, larger parcels suitable for manufacturing, and less restrictive permitting and development pathways than the Boston/Cambridge core,” BCNE said.
 “Biotech expansion into the North Shore would bring a mix of research and development, manufacturing, quality control, regulatory, and technical operations opportunities, offering higher than average wages and stable long-term career paths.
 “Building the North Shore’s biotech future begins with engaging the communities it will serve,” said Jared Auclair, co-lead of BCNE and Dean of Northeastern University’s College of Professional Studies.
-“True biotech progress depends on trust, transparency, and collaboration with the people who call the North Shore home; only then can we unlock the region’s true economic potential within the burgeoning life sciences industry.”
-Kassner currently sits on several House committees, including the Joint Committees on Environment and Natural Resources, Municipalities and Regional Government, Revenue and Ways and Means.
-She is also a member of the biotechnology caucus.
+“True biotech progress depends on trust, transparency, and collaboration with the people who call the North Shore home; only then can we unlock the region’s true economic potential within the burgeoning life sciences industry.” Kassner currently sits on several House committees, including the Joint Committees on Environment and Natural Resources, Municipalities and Regional Government, Revenue and Ways and Means.
+She is also a member of the biotechnology caucus. | READ THIS ARTICLE IN THE LOCAL NEWS HERE Kristin Kassner https://kristinkassner.org Previous Previous ICYMI: Mass Wins Act Seeks to Accelerate Housing and Development Next Next BioConnects New England, Kassner to Drive Life Sciences Development Donate to Re-elect Kristin Kassner $10 $25 $50 $100 $250 Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate By Mail Follow Us Committee to Elect Kristin Kassner P.O.
+Box 652 Ipswich, MA 01938 committee@kristinkassner.org Newsletter Archive Contact Us Press: communications @kristinkassner.org Paid for by The Committee to Elect Kristin Kassner

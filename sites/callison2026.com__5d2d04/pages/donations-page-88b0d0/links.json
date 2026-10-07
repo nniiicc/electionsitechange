@@ -1,8 +1,34 @@
 [
-"https://callison2026.com/",
-"https://callison2026.com/about",
-"https://callison2026.com/district",
-"https://callison2026.com/sign-me-up",
-"https://callison2026.com/survey",
-"https://secure.anedot.com/callison-for-assembly-2026/donate"
+{
+"text": "About",
+"href": "https://callison2026.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/callison-for-assembly-2026/donate"
+},
+{
+"text": "District",
+"href": "https://callison2026.com/district/"
+},
+{
+"text": "Home",
+"href": "https://callison2026.com/"
+},
+{
+"text": "Sign Me Up",
+"href": "https://callison2026.com/sign-me-up/"
+},
+{
+"text": "Survey",
+"href": "https://callison2026.com/survey/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://callison2026.com/sign-me-up/"
+},
+{
+"text": "[image: Jenny Leilani Callison][image: Jenny Leilani Callison]",
+"href": "https://callison2026.com"
+}
 ]

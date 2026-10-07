@@ -1,5 +1,3 @@
-Town Meeting 2022
-As we return from the town meeting recess take a look at my annual town meeting legislative update.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Town Meeting 2022 Town Meeting Day Report Mar 7 Written By As we return from the town meeting recess take a look at my annual town meeting legislative update.
 There is a lot happening in the world right now and I will be in touch this week with further actions we can take to help.
-Previous
-Next
+2022 Town Meeting Day Report Download townmeetingday Previous Previous Town Meeting and Crossover 2023 Report Next Next 2022 Session Outlook Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

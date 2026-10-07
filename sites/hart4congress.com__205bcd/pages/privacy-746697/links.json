@@ -1,7 +1,22 @@
 [
-"https://hart4congress.com/",
-"https://hart4congress.com/admin",
-"https://hart4congress.com/contact",
-"https://hart4congress.com/privacy",
-"https://hart4congress.com/terms"
+{
+"text": "Admin",
+"href": "https://hart4congress.com/admin"
+},
+{
+"text": "Contact",
+"href": "https://hart4congress.com/contact"
+},
+{
+"text": "Home",
+"href": "https://hart4congress.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hart4congress.com/privacy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://hart4congress.com/terms"
+}
 ]

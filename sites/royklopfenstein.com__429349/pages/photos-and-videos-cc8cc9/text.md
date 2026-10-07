@@ -1,6 +1,2 @@
-Photography and Videos
-Video link to September 2022 interview with Putnam County GOP Chairman:
-Video link to July 2022 interview with Putnam County GOP Chairman:
-Video link to June 2022 interview with Putnam County GOP Chairman:
-Video link to March 2022 Interview with Putnam County GOP Chairman:
-Photo Gallery
+HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Get in touch 419-771-6935 roy@royklopfenstein.com HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Photography and Videos Download Image Download Image Video link to September 2022 interview with Putnam County GOP Chairman: https://fb.watch/fVkLHgZNTN/ Video link to July 2022 interview with Putnam County GOP Chairman: https://fb.watch/fVkBvBvlMt/ Video link to June 2022 interview with Putnam County GOP Chairman: https://fb.watch/fVkEVmkYFa/ Video link to March 2022 Interview with Putnam County GOP Chairman: https://fb.watch/fVC7reCR2F/ Photo Gallery Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon) Paid for by Klopfenstein for Ohio, Stan D.
+Owens, Treasurer Share by:

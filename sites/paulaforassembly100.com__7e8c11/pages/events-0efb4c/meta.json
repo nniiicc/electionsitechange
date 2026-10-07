@@ -1,7 +1,12 @@
 {
- "description": "See our calendar of events. Meet me on a \"Let\u2019s Walk and Talk\" to discuss what\u2019s important to you and your thoughts about the New York State Government.",
+ "description": "See our calendar of events. Meet me on a \"Let’s Walk and Talk\" to discuss what’s important to you and your thoughts about the New York State Government.",
  "final_url": "https://paulaforassembly100.com/events",
- "paid_for_by": "Paid for by Paula for Assembly",
+ "fingerprint": "1c0a84e978ae2d4724079f0eb5e469b261baa050",
+ "format": 3,
+ "paid_for_by": "Sponsored by: Resorts World Catskills If you’d like to suggest additional walks, please contact us",
  "title": "Events | Paula for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026"
+ ]
 }

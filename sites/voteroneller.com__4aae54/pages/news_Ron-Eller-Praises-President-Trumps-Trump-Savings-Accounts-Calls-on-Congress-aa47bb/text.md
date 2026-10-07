@@ -1,18 +1,14 @@
-Ron Eller Praises President Trump's "Trump Savings Accounts," Calls on Congressman Bennie Thompson to Put Mississippi Families First
-MISSISSIPPI — Republican congressional candidate Ron Eller today applauded President Donald Trump's initiative to establish Trump Savings Accounts for America's children, calling the proposal a forward-looking investment in the next generation and expressing disappointment that Congressman Bennie Thompson has not supported the effort.
+Meet Ron Issues News Volunteer Swag Contribute News / Ron Eller Praises President Trump's "Trump Savings Accounts," Calls on Congressman Bennie Thompson to Put Mississippi Families First 21 Jul Tuesday, 11:10 AM · 2026 Ron Eller Praises President Trump's "Trump Savings Accounts," Calls on Congressman Bennie Thompson to Put Mississippi Families First Ron Eller Praises President Trump's "Trump Savings Accounts," Calls on Congressman Bennie Thompson to Put Mississippi Families First MISSISSIPPI — Republican congressional candidate Ron Eller today applauded President Donald Trump's initiative to establish Trump Savings Accounts for America's children, calling the proposal a forward-looking investment in the next generation and expressing disappointment that Congressman Bennie Thompson has not supported the effort.
 "Every child deserves the opportunity to start adulthood with a stronger financial foundation," said Eller.
 "The Trump Savings Accounts recognize that building wealth should not be reserved for the privileged few.
-They encourage saving, investing, and personal responsibility—values that have always made America strong."
-Under the proposal, eligible children would receive a government-funded starter investment account designed to grow over time, giving young Americans a head start as they prepare for higher education, career training, starting a business, or purchasing a home.
+They encourage saving, investing, and personal responsibility—values that have always made America strong." Under the proposal, eligible children would receive a government-funded starter investment account designed to grow over time, giving young Americans a head start as they prepare for higher education, career training, starting a business, or purchasing a home.
 Eller said the proposal is particularly meaningful for working families across Mississippi.
 "For too many families, getting ahead feels harder every year," Eller said.
 "These accounts give parents another tool to help secure their children's future.
-It's an investment not just in individual families, but in the economic future of our nation."
-Eller also expressed disappointment that Congressman Bennie Thompson has not joined in supporting the initiative.
+It's an investment not just in individual families, but in the economic future of our nation." Eller also expressed disappointment that Congressman Bennie Thompson has not joined in supporting the initiative.
 "I am saddened that Congressman Bennie Thompson has chosen not to support a proposal that could benefit thousands of Mississippi children," Eller said.
 "This shouldn't be a partisan issue.
-Helping young people build financial security ought to unite us, not divide us."
-Eller said Congress should be looking for practical ways to expand opportunity instead of allowing political differences to stand in the way of policies that can improve lives.
+Helping young people build financial security ought to unite us, not divide us." Eller said Congress should be looking for practical ways to expand opportunity instead of allowing political differences to stand in the way of policies that can improve lives.
 "If I'm elected to Congress, I'll work with anyone—Republican or Democrat—when it means creating more opportunity for Mississippi families," Eller said.
-"President Trump's savings account proposal is exactly the kind of innovative, pro-family policy that deserves bipartisan support."
-Ron Eller is the Republican nominee for Mississippi's Second Congressional District and is campaigning on a platform of economic growth, lower taxes, secure borders, support for law enforcement, and expanding opportunity for working families throughout the district.
+"President Trump's savings account proposal is exactly the kind of innovative, pro-family policy that deserves bipartisan support." Ron Eller is the Republican nominee for Mississippi's Second Congressional District and is campaigning on a platform of economic growth, lower taxes, secure borders, support for law enforcement, and expanding opportunity for working families throughout the district.
+Voter Information Endorsements Yard Signs Photos Contact Paid for by Ron Eller for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ron Issues Endorsements Contribute Volunteer News Yard Signs Swag Contact Voter Information Close Menu

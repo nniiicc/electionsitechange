@@ -1,14 +1,7 @@
-Request a
-Yard Sign
-Avon: Avon Town Hall, Building 1, 60 West Main Street, Avon
-Barkhamsted: Barkhamsted Town Hall, 67 Ripley Hill Road, Barkhamsted
-Canton: Canton Community Center, 40 Dyer Avenue, Collinsville
-Colebrook: Colebrook Town Hall, 562 Colebrook Road, Colebrook
-Granby: Granby Town Hall, 15 N.
-Granby Road, Granby
-Hartland: Hartland Town Hall, 22 South Road, East Hartland
-Harwinton: Harwinton Town Hall, 100 Bentley Drive, Harwinton
-New Hartford: Harwinton Town Hall, 530 Main Street, New Hartford
-Norfolk: Norfolk Town Hall, 19 Maple Avenue, Norfolk
-Simsbury: Simsbury Public Library, 725 Hopmeadow Street, Simsbury
-Torrington: City Hall, 140 Main Street, Torrington
+Home Legislative Accomplishments Endorsements Volunteer Photo Gallery Voting Information Request a Yard Sign Home Legislative Accomplishments Endorsements Volunteer Photo Gallery Voting Information Request a Yard Sign Early Voting Locations Avon : Avon Town Hall, Building 1, 60 West Main Street, Avon Barkhamsted : Barkhamsted Town Hall, 67 Ripley Hill Road, Barkhamsted Canton : Canton Community Center, 40 Dyer Avenue, Collinsville Colebrook : Colebrook Town Hall, 562 Colebrook Road, Colebrook Granby : Granby Town Hall, 15 N.
+Granby Road, Granby Hartland : Hartland Town Hall, 22 South Road, East Hartland Harwinton : Harwinton Town Hall, 100 Bentley Drive, Harwinton New Hartford : Harwinton Town Hall, 530 Main Street, New Hartford Norfolk : Norfolk Town Hall, 19 Maple Avenue, Norfolk Simsbury : Simsbury Public Library, 725 Hopmeadow Street, Simsbury Torrington : City Hall, 140 Main Street, Torrington Voter Resources Confirm Your Voter Registration Register T o Vote Request a No Excuse Absentee Ballot Voter Information Feel free to contact me: (860) 782-0566 paul@paulhonigforstatesenate .com Paid for by Paul Honig For State Senate 2026.
+Donna Groccia-Lubik, Treasurer.
+Approved by Paul Honig.
+Text messaging originator opt-in data and consent information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Visitor Information Reporting Allow this website to collect visitor and device info for statistical purposes.
+Save Changes

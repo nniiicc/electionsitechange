@@ -1,7 +1,6 @@
-May 27, 2026 NCSL By Elections and Redistricting Staff Kagan, a nearly 20-year veteran of the General Assembly, is NCSL’s appointee to the U.S.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute May 27, 2026 Home 2026 May Day: May 27, 2026 May 27, 2026 In The News Election Conversations: Sen.
+Cheryl Kagan, Maryland May 27, 2026 NCSL By Elections and Redistricting Staff Kagan, a nearly 20-year veteran of the General Assembly, is NCSL’s appointee to the U.S.
 Election Assistance Commission’s Board of Advisors.
-After the 9/11 terrorist attacks, Cheryl Kagan decided that serving …
-Continue Reading
-May 27, 2026 Montgomery Community Media Maryam Shahzad People want to know that when there is an emergency, 911 will be there to answer the call.
-“My passion for 911 began when my friend, Carl Henn, died in a freak thunderstorm and …
-Continue Reading
+After the 9/11 terrorist attacks, Cheryl Kagan decided that serving … Continue Reading May 27, 2026 In The News Interview: First-in-nation 311 statewide plan signed into law to help 911 centers May 27, 2026 Montgomery Community Media Maryam Shahzad People want to know that when there is an emergency, 911 will be there to answer the call.
+“My passion for 911 began when my friend, Carl Henn, died in a freak thunderstorm and … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

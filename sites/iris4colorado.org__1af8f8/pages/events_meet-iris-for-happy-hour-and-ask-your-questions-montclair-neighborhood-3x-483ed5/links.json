@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+Iris+For+House+District+6.+Neighborhood+Event&dates=20260625T233000Z%2F20260626T010000Z&location=1433+N.+Williams+Street%2C+Cheesman+Park%2C+CO+80206",
-"http://maps.google.com/?q=1433+N.+Williams+Street%2C+Cheesman+Park+CO+80206",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55?format=ical",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1433+n.+williams+street%2C+cheesman+park+co+80206+"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.iris4colorado.org/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+Iris+For+House+District+6.+Neighborhood+Event&dates=20260625T233000Z%2F20260626T010000Z&location=1433+N.+Williams+Street%2C+Cheesman+Park%2C+CO+80206"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-mrp55?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Next Next June 26 Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S. Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-bymh9-asnpt"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Previous Previous June 25 Canvass with the Denver Teacher's Association for Iris Halpern for House District - Capitol Hill/Uptown Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-9dbrg-xer46-amp58"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+}
 ]

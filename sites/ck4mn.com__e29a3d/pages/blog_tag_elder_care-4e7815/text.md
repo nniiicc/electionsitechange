@@ -1,9 +1,5 @@
-Childcare, Elder Care, and the Squeeze Nobody Budgeted For
-Daycare that costs like a mortgage, aging parents who need help, and one household paying for both.
+0 Skip to Content Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate Open Menu Close Menu Home Meet Chris The Vision How & Where to Vote in 54B Events FAQ Contact Chris Blog Donate child care , elder care Chris Kartschoke 8/20/26 child care , elder care Chris Kartschoke 8/20/26 Childcare, Elder Care, and the Squeeze Nobody Budgeted For Daycare that costs like a mortgage, aging parents who need help, and one household paying for both.
 The affordability problem in 54B that rarely makes a campaign flyer.
-child care,
-elder care
-Chris Kartschoke
-child care,
-elder care
-Chris Kartschoke
+Read More for MN House Representative - District 54B Christopher Kartschoke Serving People and Communities for Shakopee, Prior Lake, and Jordan Additional Resources Articles and PR Find Chris on Facebook Follow Chris on Instagram Listen to Chris on YouTube Minnesota Voting Information MN District 54B Poll Finder (PDF) Key Links Our Vision Donate Now Contact Chris﻿ Upcoming Events Discovering District 54B Prepared and paid for by CK4MN at P.O.
+Box 152 Prior Lake, MN 55372 #© All Rights Reserved.
+CK4MN, Christopher Kartschoke Proudly Designed and Cared for by Back2Basics, LLC

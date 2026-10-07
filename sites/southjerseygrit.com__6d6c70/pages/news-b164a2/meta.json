@@ -1,7 +1,9 @@
 {
  "description": "Ramon Mora Jr in the News",
  "final_url": "https://www.southjerseygrit.com/news",
- "paid_for_by": null,
+ "fingerprint": "e441455a64718e00e53567be29abf35154223f6a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2026"

@@ -1,4 +1,5 @@
-6/9/26 The Diamondback by Clare Roth Gov.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute June 9, 2026 Home 2026 June Day: June 9, 2026 June 9, 2026 In The News Here’s what Gov.
+Wes Moore signed into law during last bill ceremony of 2026 6/9/26 The Diamondback by Clare Roth Gov.
 Wes Moore signed about 275 state bills leftover from this spring’s legislative session late last month, addressing topics including artificial intelligence, youth civic engagement, housing and healthcare.
-In a public statement earlier this …
-Continue Reading
+In a public statement earlier this … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

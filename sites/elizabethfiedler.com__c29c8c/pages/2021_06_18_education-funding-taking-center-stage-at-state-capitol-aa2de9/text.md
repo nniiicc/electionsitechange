@@ -1,6 +1,6 @@
-June 18, 2021
-As lawmakers prepare to make the final push to pass a state budget, education funding is becoming a focal point on several fronts.
+Skip to content Elizabeth Fiedler Representative, House District 184 Primary Menu Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Education funding taking center stage at state Capitol Posted on June 18, 2021 March 11, 2022 by Anthony Amaker June 18, 2021 As lawmakers prepare to make the final push to pass a state budget, education funding is becoming a focal point on several fronts.
 “We stand in solidarity with the 5- and 6-year-old children whose lungs, hearts and brains are still developing while they sit in toxic buildings.
 We stand here today with principals, teachers and staff who have chosen to devote their lives to education and care work,” said Elizabeth Fiedler, D-Philadelphia.
-Read more here:
-https://www.pahouse.com/Fiedler/InTheNews/NewsRelease/?id=131961
+Read more here: https://www.pahouse.com/Fiedler/InTheNews/NewsRelease/?id=131961 Posted in News , Uncategorized Post navigation Rep.
+Fiedler, colleagues host No More Excuses, End Toxic Schools rally Fiedler partners in food drive for South Philly families Meet Elizabeth Issues Our District News South Philly Voter Project Contact Get Involved Donate Connect with us Facebook Twitter Instagram YouTube Mail Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Paid for by: Friends of Elizabeth Fiedler Powered by Tech for Campaigns

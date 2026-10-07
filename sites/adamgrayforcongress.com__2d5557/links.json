@@ -1,22 +1,98 @@
 [
-"https://adamgrayforcongress.com/",
-"https://adamgrayforcongress.com/about",
-"https://adamgrayforcongress.com/contact",
-"https://adamgrayforcongress.com/issues",
-"https://adamgrayforcongress.com/media",
-"https://adamgrayforcongress.com/news",
-"https://adamgrayforcongress.com/news/adam-gray-secures-endorsement-from-california-fraternal-order-of-police",
-"https://adamgrayforcongress.com/news/icymi-sacramento-bee-adam-gray-discusses-immigration-socialism-and-trump",
-"https://adamgrayforcongress.com/news/modesto-police-officers-association-endorses-adam-gray-for-re-election",
-"https://adamgrayforcongress.com/privacy-policy",
-"https://facebook.com/AdamGrayForCongress",
-"https://instagram.com/adamgrayca",
-"https://sacbee.com/news/politics-government/capitol-alert/article317285381.html",
-"https://secure.actblue.com/donate/graywebsite",
-"https://secure.actblue.com/donate/graywebsite/\"?amount=10%22",
-"https://secure.actblue.com/donate/graywebsite/\"?amount=100%22",
-"https://secure.actblue.com/donate/graywebsite/\"?amount=25%22",
-"https://secure.actblue.com/donate/graywebsite/\"?amount=5%22",
-"https://secure.actblue.com/donate/graywebsite/\"?amount=50%22",
-"https://x.com/adamgrayca"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/graywebsite/%22?amount=10%22"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/graywebsite/%22?amount=100%22"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/graywebsite/%22?amount=25%22"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/graywebsite/%22?amount=5%22"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/graywebsite/%22?amount=50%22"
+},
+{
+"text": "About",
+"href": "https://www.adamgrayforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.adamgrayforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/graywebsite"
+},
+{
+"text": "In an interview with The Sacramento Bee,",
+"href": "https://www.sacbee.com/news/politics-government/capitol-alert/article317285381.html"
+},
+{
+"text": "Issues",
+"href": "https://www.adamgrayforcongress.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.adamgrayforcongress.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.adamgrayforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.adamgrayforcongress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/graywebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.adamgrayforcongress.com/privacy-policy"
+},
+{
+"text": "Read more",
+"href": "https://www.adamgrayforcongress.com/news/adam-gray-secures-endorsement-from-california-fraternal-order-of-police"
+},
+{
+"text": "Read more",
+"href": "https://www.adamgrayforcongress.com/news/icymi-sacramento-bee-adam-gray-discusses-immigration-socialism-and-trump"
+},
+{
+"text": "Read more",
+"href": "https://www.adamgrayforcongress.com/news/modesto-police-officers-association-endorses-adam-gray-for-re-election"
+},
+{
+"text": "[image: Adam Gray for Congress]",
+"href": "https://www.adamgrayforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AdamGrayForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/adamgrayca"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/adamgrayca"
+},
+{
+"text": "info@AdamGrayforCongress.com",
+"href": "mailto:info@AdamGrayforCongress.com"
+},
+{
+"text": "press@adamGrayforCongress.com",
+"href": "mailto:press@adamGrayforCongress.com"
+}
 ]

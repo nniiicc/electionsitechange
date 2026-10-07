@@ -1,13 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MattHaneySF",
-"https://flickr.com/photos/194320321@N04/albums/with/72157720150173925",
-"https://matthaney.com/",
-"https://matthaney.com/Chinese",
-"https://matthaney.com/about",
-"https://matthaney.com/espanol",
-"https://matthaney.com/issues",
-"https://matthaney.com/news",
-"https://secure.actblue.com/donate/matt-haney-1",
-"https://twitter.com/MattHaneySF"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matt-haney-1"
+},
+{
+"text": "Español",
+"href": "https://www.matthaney.com/espanol"
+},
+{
+"text": "Gallery",
+"href": "https://www.flickr.com/photos/194320321@N04/albums/with/72157720150173925"
+},
+{
+"text": "Issues",
+"href": "https://www.matthaney.com/issues"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.matthaney.com/about"
+},
+{
+"text": "News",
+"href": "https://www.matthaney.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Matt Haney for Assembly]",
+"href": "https://www.matthaney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MattHaneySF"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MattHaneySF"
+},
+{
+"text": "info@matthaney.com",
+"href": "mailto:info@matthaney.com"
+},
+{
+"text": "中文",
+"href": "https://www.matthaney.com/Chinese"
+}
 ]

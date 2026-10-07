@@ -1,4 +1,14 @@
 [
-"https://facebook.com/larrypembertonct",
-"https://larrypembertonct.com/"
+{
+"text": "Home",
+"href": "https://www.larrypembertonct.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/larrypembertonct"
+},
+{
+"text": "info@larrypembertonct.com",
+"href": "mailto:info@larrypembertonct.com"
+}
 ]

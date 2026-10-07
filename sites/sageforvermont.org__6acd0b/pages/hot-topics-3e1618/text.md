@@ -1,5 +1,4 @@
-Crime and the Court System in Vermont
-Ask anyone in Vermont who isn't blinded by Liberal agenda about the crime in Vermont, and you'll likely hear comments ranging from disgust to outright anger, and often those comments will come from victims of some sort of crime within the last couple of years.
+Home - Hot Topics Crime and the Court System in Vermont Ask anyone in Vermont who isn't blinded by Liberal agenda about the crime in Vermont, and you'll likely hear comments ranging from disgust to outright anger, and often those comments will come from victims of some sort of crime within the last couple of years.
 Crimes statistics from year to year are available at https://vcic.vermont.gov/calendar-years-2021-2029 and actually show up through 2023.
 I guess the Vermont Department of Public Safety, Vermont Crime Information Center is a little overwhelmed.
 Of their two categories, in 2023, they reported "Group ‘A’ crimes increased by 5.15% when compared to 2022.
@@ -13,8 +12,7 @@ Information shows 6 years later that this is not the case and only releases repe
 Act 125.
 Contributes to the increase in crime by allowing immunity from prosecution if requesting help for someone else.
 Therefore, causing no accountability for their crimes.
-And I would be amiss if I didn't include Act 178 (Safe Injection Sites) which was passed sadly after the Democrat Supermajority overrode
-But what about those who are innocent?
+And I would be amiss if I didn't include Act 178 (Safe Injection Sites) which was passed sadly after the Democrat Supermajority overrode But what about those who are innocent?
 This is a question that hits home with me.
 In January of 2022, I was arrested for Felony Grand Larceny.
 A crime I didn't commit and one I had evidence proving my innocence of.
@@ -37,11 +35,7 @@ My life fell apart because of the system in place.
 And I'm willing to bet I'm not the only person to deal with this.
 So much for the right to a speedy trial.
 Vermont needs an overhaul of the legal system and to eliminate laws that allow repeat offenders to stay on the streets with this catch and release mentality.
-And to truly protect the rights of the innocent.
-*My case was dropped in June of 2025 when they must have finally looked at my file and saw what I had for evidence.
-______________________________________________
-Public Safety Issues
-Vermont is still in the middle of a drug epidemic.
+And to truly protect the rights of the innocent. *My case was dropped in June of 2025 when they must have finally looked at my file and saw what I had for evidence. ______________________________________________ Public Safety Issues Vermont is still in the middle of a drug epidemic.
 It can't be called a "heroin epidemic" as it has expanded to include other forms of synthetic opioids.
 So what has Vermont's Democratic heavy congress done to address this?
 In short, they've basically legalized opioid use.
@@ -57,10 +51,11 @@ In reality someone is likely going to report an overdose anyhow, as they may nee
 Along with this are numbers showing that opioid overdoses have declined somewhat.
 These numbers are skewed as Narcan (Naloxone), a medication used to reverse opioid overdoses, is handed out free on taxpayer money.
 Overdoses that are treated in this manner are not recorded.
-And in truth it's not possible to record these incidents, but not doing so would be no different than your local fire department reversing an overdose but the patient refusing transport to the hospital afterwards, which happens very often.
-_________________________________________
-Act 181
-Act 181 and it's removal of rights from private property owners has been under serious fire by Vermonters opposing the law.
+And in truth it's not possible to record these incidents, but not doing so would be no different than your local fire department reversing an overdose but the patient refusing transport to the hospital afterwards, which happens very often. _________________________________________ Act 181 Act 181 and it's removal of rights from private property owners has been under serious fire by Vermonters opposing the law.
 In 2024 Windham County Senators Harrison and Hasim voted yea on this law, in favor of taking away the rights of private land owners.
 Opposition has been heard and the sitting legislators in favor of Act 181 have realized that their seats are in jeopardy.
-It's time to vote them out so they can't fall back in with 181 after the November elections.
+It's time to vote them out so they can't fall back in with 181 after the November elections. © #.
+All Rights Reserved. © #.
+All Rights Reserved.
+Close modal Home Meet Rusty Hot Topics Get In Touch Your Rep's Votes WCGOP Com.
+Close modal Home Meet Rusty Hot Topics Get In Touch Your Rep's Votes WCGOP Com.

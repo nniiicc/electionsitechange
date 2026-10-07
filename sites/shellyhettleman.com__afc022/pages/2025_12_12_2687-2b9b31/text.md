@@ -1,7 +1,6 @@
-Dear Friends,
-These days are incredibly busy as we head into the holidays and prepare for the legislative session beginning on January 14th.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Changes in Annapolis Dec 12, 2025 Dear Friends, These days are incredibly busy as we head into the holidays and prepare for the legislative session beginning on January 14th.
 We are knee-deep in drafting our bills, attending site visits, meeting with constituents, and engaging with agencies and community leaders.
-We will be gathering in Annapolis next Tuesday, December 16th, for a special session.
+We will be gathering in Annapolis next Tuesday, December 16th, for a special session .
 As you may have heard, Baltimore County’s Speaker Adrienne Jones has stepped down from her position and plans to return as a member of the District 10 delegation.
 Speaker Emerita Jones made history during her six years of service as the first Black and first female Speaker and leaves behind an accomplished legislative record focused on education, equity, and fairness.
 The House caucus is expected to select Delegate Joseline Peña-Melnyk, an excellent legislator from Prince George’s and Anne Arundel Counties, as the next Speaker.
@@ -13,8 +12,7 @@ We’ll likely send a brief update after the special session and next week’s S
 In the meantime, please take a look at the updates below.
 As always, please don’t hesitate to reach out if we can assist you in any way.
 And to those who celebrate—best wishes for a light-filled Hanukkah next week!
-Sincerely,
-Shelly L.
-Hettleman
-Senator, District 11
-Check out the full newsletter here.
+Sincerely, Shelly L.
+Hettleman Senator, District 11 Check out the full newsletter here .
+Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

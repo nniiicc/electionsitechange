@@ -1,26 +1,122 @@
 [
-"http://enews.pahouse.net/q/0xR_ls4BOWvuvFgRjC5erDa9qgyvUqHrcuA2qaDF0JtdfRgQKsQDgMip5",
-"http://enews.pahouse.net/q/MgA9Hcnq1wRgRxDApiN2PY4jaM-3tKsPuskNTXEL6XDU7AMQQSeD2Eoxh",
-"http://enews.pahouse.net/q/dod3-WsCV9kNknYd8DOezMwp3vzXus9ztxiaADZSm52rWdvQfKWWh6hoh",
-"http://enews.pahouse.net/q/kk-TtSjYemLN0XbEUJTE0dSCFIodsX61NJpZcOJbWVyZWRpdGguc2lzcL29uQGdtYWlsLmNvbcOIThNgXrLzeJrr8-dfxIlXp0kQZw",
-"http://enews.pahouse.net/q/rUYsh1aNt-TjTA0YOKMYAGOK3Vv2Uy3Awh_ynRzok-TugYVQTurRUg8Id",
-"http://enews.pahouse.net/q/v1inevRcqCWi0XH9c4Lv0di_IyXRoaLFQSYZcOJbWVyZWRpdGguc2lzc29uQGdtYWlsLLmNvbcOIsDBcTgh5e5J_AEbqWx2-lLczWw",
-"http://facebook.com/lizforpa",
-"https://lizforpa.com/",
-"https://lizforpa.com/cart",
-"https://lizforpa.com/community-survey",
-"https://lizforpa.com/contact",
-"https://lizforpa.com/home",
-"https://lizforpa.com/in-the-61st",
-"https://lizforpa.com/in-the-house",
-"https://lizforpa.com/in-the-news",
-"https://lizforpa.com/priorities",
-"https://lizforpa.com/team-liz",
-"https://lizforpa.com/vote",
-"https://pa.gov/en/agencies/vote/voter-registration/update-my-registration.html",
-"https://pa.gov/en/services/vote/find-your-local-polling-place.html",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://secure.ngpvan.com/4_XaBf0vOEiSjNnd3nrKWg2",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://youtube.com/playlist?list=PLjtqNtfs0bgWHK4t2_JcE0FjGCJskjkgu"
+{
+"text": "0",
+"href": "https://www.lizforpa.com/cart"
+},
+{
+"text": "12 secure ballot drop-off boxes",
+"href": "http://enews.pahouse.net/q/0xR_ls4BOWvuvFgRjC5erDa9qgyvUqHrcuA2qaDF0JtdfRgQKsQDgMip5"
+},
+{
+"text": "Apply for a Mail Ballot",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Check the status of your mail-in ballot.",
+"href": "http://enews.pahouse.net/q/kk-TtSjYemLN0XbEUJTE0dSCFIodsX61NJpZcOJbWVyZWRpdGguc2lzcL29uQGdtYWlsLmNvbcOIThNgXrLzeJrr8-dfxIlXp0kQZw"
+},
+{
+"text": "Confirm Your Polling Place",
+"href": "https://www.pa.gov/en/services/vote/find-your-local-polling-place.html"
+},
+{
+"text": "Contact",
+"href": "https://www.lizforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/4_XaBf0vOEiSjNnd3nrKWg2"
+},
+{
+"text": "Designate an agent to pick up or drop off your ballot.",
+"href": "http://enews.pahouse.net/q/rUYsh1aNt-TjTA0YOKMYAGOK3Vv2Uy3Awh_ynRzok-TugYVQTurRUg8Id"
+},
+{
+"text": "Home",
+"href": "https://www.lizforpa.com/"
+},
+{
+"text": "Home",
+"href": "https://www.lizforpa.com/home"
+},
+{
+"text": "In the 61st",
+"href": "https://www.lizforpa.com/in-the-61st"
+},
+{
+"text": "In the House",
+"href": "https://www.lizforpa.com/in-the-house"
+},
+{
+"text": "In the News",
+"href": "https://www.lizforpa.com/in-the-news"
+},
+{
+"text": "Learn more about mail-in voting.",
+"href": "http://enews.pahouse.net/q/v1inevRcqCWi0XH9c4Lv0di_IyXRoaLFQSYZcOJbWVyZWRpdGguc2lzc29uQGdtYWlsLLmNvbcOIsDBcTgh5e5J_AEbqWx2-lLczWw"
+},
+{
+"text": "On the Issues",
+"href": "https://www.lizforpa.com/priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request a Mail Ballot",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Survey",
+"href": "https://www.lizforpa.com/community-survey"
+},
+{
+"text": "Team Liz",
+"href": "https://www.lizforpa.com/team-liz"
+},
+{
+"text": "Update Registration",
+"href": "https://www.pa.gov/en/agencies/vote/voter-registration/update-my-registration.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lizforpa.com/team-liz"
+},
+{
+"text": "Vote",
+"href": "https://www.lizforpa.com/vote"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.lizforpa.com/vote"
+},
+{
+"text": "[image: RE-ELECT Liz for PA]",
+"href": "https://www.lizforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/lizforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/playlist?list=PLjtqNtfs0bgWHK4t2_JcE0FjGCJskjkgu"
+},
+{
+"text": "[no text]",
+"href": "mailto:lizforpa@gmail.com"
+},
+{
+"text": "designate an agent to pick up or drop off their ballot",
+"href": "http://enews.pahouse.net/q/rUYsh1aNt-TjTA0YOKMYAGOK3Vv2Uy3Awh_ynRzok-TugYVQTurRUg8Id"
+},
+{
+"text": "satellite offices throughout the county",
+"href": "http://enews.pahouse.net/q/dod3-WsCV9kNknYd8DOezMwp3vzXus9ztxiaADZSm52rWdvQfKWWh6hoh"
+},
+{
+"text": "www.montcopa.org/voterservices",
+"href": "http://enews.pahouse.net/q/MgA9Hcnq1wRgRxDApiN2PY4jaM-3tKsPuskNTXEL6XDU7AMQQSeD2Eoxh"
+}
 ]

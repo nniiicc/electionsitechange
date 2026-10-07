@@ -1,13 +1,34 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://cardensummers.com/",
-"https://cardensummers.com/cdn-cgi/l/email-protection",
-"https://cardensummers.com/privacy-policy",
-"https://cardensummers.com/terms-and-conditions",
-"https://facebook.com/CardenHSummers4Senate",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://secure.anedot.com/electcardensummers/donate",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/electcardensummers/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cardensummers.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@cardensummers.com"
+},
+{
+"text": "[image: Senator Carden Summers logo]",
+"href": "https://cardensummers.com"
+},
+{
+"text": "[no text]",
+"href": "https://cardensummers.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CardenHSummers4Senate"
+},
+{
+"text": "cardensummers.com",
+"href": "https://cardensummers.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

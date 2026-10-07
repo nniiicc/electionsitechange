@@ -1,6 +1,4 @@
-Workers' Rights
-A Vision for Indiana’s Working Families
-I've always been a part of a union household.
+Home Meet Julie Issues Volunteer Contribute District 15 Map Voter Information Contact Home ❭ Issues ❭ Workers' Rights Workers' Rights A Vision for Indiana’s Working Families I've always been a part of a union household.
 My dad was a union worker, and so is my husband.
 I've seen what a good union job means for a family.
 Fair wages, quality benefits, and retirement security are more than numbers on a paycheck.
@@ -35,29 +33,29 @@ On a global scale, UPS has built one of the most successful logistics networks i
 These examples demonstrate treating employees as an investment reduces costly turnover, strengthens the business, improves service, and ensures that hard-working families have the financial security to buy homes and support other local businesses.
 Indiana's future depends on attracting and keeping talented workers.
 That starts with creating jobs people actually want to build careers in.
-I am committed to:
-- Protecting workers' freedom to organize.
+I am committed to: Protecting workers' freedom to organize.
 Every worker should have the right to join a union, bargain collectively, and negotiate fair contracts without intimidation or retaliation.
-- Fighting for good-paying jobs.
+Fighting for good-paying jobs.
 State tax dollars should support employers who provide fair wages, safe workplaces, good benefits, and opportunities to advance.
-- Safeguarding taxpayer investments.
+Safeguarding taxpayer investments.
 Businesses that receive state incentives must be accountable for how public dollars are used.
 They should create the quality jobs they promised, respect workers' rights, and keep that work here at home.
 Companies that fail to deliver should repay what they received, because public investment should produce lasting benefits for Hoosiers.
-- Defending the pensions workers earned.
+Defending the pensions workers earned.
 Workers who spend decades earning a pension deserve the retirement they were promised.
 I will oppose efforts to weaken or privatize pension systems that working families depend upon.
-- Supporting work-life balance.
+Supporting work-life balance.
 No one should have to choose between caring for a newborn, recovering from a serious illness, helping an aging parent, and keeping their job.
 I support practical, fiscally responsible approaches to expanding paid family and medical leave.
-- Expanding apprenticeship and skilled trades.
+Expanding apprenticeship and skilled trades.
 By building stronger partnerships between employers, unions, career centers, Ivy Tech, and community colleges we can grow the number of apprenticeships and training programs.
 We should also respect a worker's time and make good use of public resources: when a Hoosier has earned equivalent military training, an apprenticeship, or an industry certification that meets our safety standards, Indiana should recognize it quickly instead of forcing them to repeat what they've already proven.
 That gets skilled people into short-staffed jobs faster so the work Hoosiers need done actually gets completed.
-- Standing with workers.
+Standing with workers.
 When workers are fighting for fair pay, safe working conditions, or a fair contract, they deserve elected officials who will listen, show up, and support their right to negotiate in good faith.
 Indiana's economy is strongest when businesses and workers succeed together.
 When workers earn fair wages, local businesses gain customers, employers see lower turnover, and entire communities benefit.
 Working people helped build Indiana.
 They deserve leaders who will protect their opportunity to succeed.
 Hard work should still provide a path to buying a home, raising a family, and retiring with dignity.
+Privacy Policy Voter Information Contribute Contact Terms & Conditions Paid for by McGill For A Better Indiana Powered by CampaignPartner.com - Political Websites Home Meet Julie Issues Contribute Volunteer District 15 Map Voter Information Contact Terms & Conditions Privacy Policy Close Menu

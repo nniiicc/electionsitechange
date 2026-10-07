@@ -1,13 +1,62 @@
 [
-"http://voteforsythe.com/privacypolicy",
-"https://aldermoss.com/collections/vote-jessica-forsythe",
-"https://facebook.com/voteJessicaForsythe",
-"https://instagram.com/votejessicaforsythe",
-"https://voteforsythe.com/",
-"https://voteforsythe.com/Accountability",
-"https://voteforsythe.com/endorsements",
-"https://voteforsythe.com/media-kit",
-"https://voteforsythe.com/privacypolicy",
-"https://voteforsythe.com/terms-of-service",
-"https://voteforsythe.com/volunteer"
+{
+"text": "Campaign Swag",
+"href": "https://aldermoss.com/collections/vote-jessica-forsythe"
+},
+{
+"text": "Contribute",
+"href": "https://www.voteforsythe.com/#Contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteforsythe.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.voteforsythe.com/#Issues"
+},
+{
+"text": "Media",
+"href": "https://www.voteforsythe.com/media-kit"
+},
+{
+"text": "Meet Jessica",
+"href": "https://www.voteforsythe.com/#MeetJessica"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteforsythe.com/privacypolicy"
+},
+{
+"text": "Successes!",
+"href": "https://www.voteforsythe.com/Accountability"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.voteforsythe.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteforsythe.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.voteforsythe.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votejessicaforsythe/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteJessicaForsythe"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votejessicaforsythe/"
+},
+{
+"text": "voteforsythe.com/privacypolicy",
+"href": "http://voteforsythe.com/privacypolicy"
+}
 ]

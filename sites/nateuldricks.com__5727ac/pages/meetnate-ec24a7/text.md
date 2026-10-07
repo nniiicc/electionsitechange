@@ -1,5 +1,4 @@
-Meet Nate
-Nate Uldricks’ Northwest Indiana roots run strong.
+0 Skip to Content HOME ABOUT MEET NATE PRIORITIES EVENTS GET INVOLVED DONATE Open Menu Close Menu HOME ABOUT MEET NATE PRIORITIES EVENTS GET INVOLVED DONATE Open Menu Close Menu HOME Folder: ABOUT Back MEET NATE PRIORITIES EVENTS GET INVOLVED DONATE Meet Nate Nate Uldricks’ Northwest Indiana roots run strong.
 Nate Uldricks is a 3rd-generation Indiana 4th District citizen who was born and raised in a working class, military family in Portage, IN.
 Nate is a proud father and husband, serves as Pine Township Board Chairman, and is a volunteer firefighter.
 He previously served in management roles at the White House and U.S.
@@ -10,3 +9,6 @@ Under his leadership the township has been very active and productive in moderni
 Nate and his wife met on an airplane and they have one son who was born severely premature, weighing only one and a half pounds.
 Nate is a graduate of Portage High School, and earned a BS in Industrial Engineering from Purdue University, MA in Government from Johns Hopkins University, and MBA from the University of Virginia.
 Learn more and get involved here!
+Mark your calendars: Indiana’s primary date is May 5th, 2026, and the General Election to flip this seat is November 3, 2026.
+Make your plan to vote today .
+DONATE Terms & Conditions | Privacy Policy Paid for by the Committee to Elect Nate Uldricks.

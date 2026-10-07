@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=RoWR+to+The+Door+Canvass+with+Beth+Fuller+for+House+District+53&dates=20261023T000000Z%2F20261023T020000Z",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-sara-fuchs-tony-kozycki-with-inma",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-sara-fuchs-tony-kozycki-with-inma-mwptg",
-"https://bethfullerforgeorgia.com/events/rowr-to-the-door-canvass-with-beth-fuller-for-house-district-53?format=ical",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://mobilize.us/bethfullerforgeorgia/event/1046040?followup_modal_context=organization_newsletter_custom_recommendations",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=RoWR+to+The+Door+Canvass+with+Beth+Fuller+for+House+District+53&dates=20261023T000000Z%2F20261023T020000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/rowr-to-the-door-canvass-with-beth-fuller-for-house-district-53?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next October 25 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-sara-fuchs-tony-kozycki-with-inma"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous October 18 Canvass for Beth Fuller, Adam Cleveland, Sara Fuchs, & Tony Kozycki with INMA",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-sara-fuchs-tony-kozycki-with-inma-mwptg"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://www.mobilize.us/bethfullerforgeorgia/event/1046040/?followup_modal_context=organization_newsletter_custom_recommendations",
+"href": "https://www.mobilize.us/bethfullerforgeorgia/event/1046040/?followup_modal_context=organization_newsletter_custom_recommendations"
+}
 ]

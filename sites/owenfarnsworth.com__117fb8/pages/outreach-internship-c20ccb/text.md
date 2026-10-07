@@ -1,10 +1,4 @@
-top of page
-Internships
-Outreach Internship
-Responsibilities
-Outreach Interns will work with campaign staff and volunteers to raise awareness with both voters and political groups.
+top of page Home My Policies Volunteer Contact Donate Donate Contact Volunteer Yard Sign Request Internships Media Internships Field About Policy Media Finance APPLY ↗ Outreach Internship Responsibilities Outreach Interns will work with campaign staff and volunteers to raise awareness with both voters and political groups.
 This involves organizing volunteering and meetup events, contacting voter groups, keeping track of local community events, and answering phone calls and texts.
 Applicants will demonstrate experience in or knowledge of event management, customer service, and/or community organizing.
-Qualifications
-Email questions to Campaign@OwenFarnsworth.com
-bottom of page
+Qualifications Email questions to Campaign@OwenFarnsworth.com ActBlue Donate Paid for by the Committee to Elect Owen Farnsworth, Jaia Peterson, Treasurer Email: Campaign@OwenFarnsworth.com Phone: (615) 848-4377 bottom of page

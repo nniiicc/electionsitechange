@@ -1,9 +1,12 @@
 {
  "description": "Here's the latest news coming from the Office of Delegate Jeffrie Long Jr!",
  "final_url": "https://www.jeffrielong.com/post/last-week-of-legislative-session-update",
- "paid_for_by": null,
+ "fingerprint": "b4ae4fe9364a697a34d1eb09444d5b187d16b7df",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Last Week of Legislative Session Update",
  "years_mentioned": [
+  "1973",
   "2023",
   "2024"
  ]

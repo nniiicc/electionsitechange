@@ -1,15 +1,70 @@
 [
-"https://facebook.com/PatRyanUC",
-"https://flickr.com/photos/201411996@N02",
-"https://forms.gle/wjDLbvxUpRhRWYm49",
-"https://patryanforcongress.com/",
-"https://patryanforcongress.com/_files/archives/b1cc02_778df0055a9f4e6bb17d85a8f321c00a.zip?dn=PRYA-2022-LOGO_FINAL-20220725T234939Z-001.zip",
-"https://patryanforcongress.com/priorities",
-"https://patryanforcongress.com/privacy-policy",
-"https://patryanforcongress.com/resources",
-"https://patryanforcongress.com/volunteer",
-"https://patryanforcongress.myshopify.com/",
-"https://secure.actblue.com/donate/pr-web",
-"https://twitter.com/patryanuc",
-"https://youtube.com/@patryanforcongress1253/playlists"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pr-web"
+},
+{
+"text": "HOME",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "LOGOS & BRANDING",
+"href": "https://www.patryanforcongress.com/_files/archives/b1cc02_778df0055a9f4e6bb17d85a8f321c00a.zip?dn=PRYA-2022-LOGO_FINAL-20220725T234939Z-001.zip"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/201411996@N02/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.patryanforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.patryanforcongress.com/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://forms.gle/wjDLbvxUpRhRWYm49"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.patryanforcongress.com/resources"
+},
+{
+"text": "STORE",
+"href": "https://patryanforcongress.myshopify.com/"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.youtube.com/@patryanforcongress1253/playlists"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patryanforcongress.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PatRyanUC"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patryanuc"
+},
+{
+"text": "[image]",
+"href": "https://www.flickr.com/photos/201411996@N02/"
+},
+{
+"text": "[image]",
+"href": "https://www.patryanforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://www.patryanforcongress.com/_files/archives/b1cc02_778df0055a9f4e6bb17d85a8f321c00a.zip?dn=PRYA-2022-LOGO_FINAL-20220725T234939Z-001.zip"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@patryanforcongress1253/playlists"
+}
 ]

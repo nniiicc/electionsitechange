@@ -1,5 +1,9 @@
-Everlee Hearing in FDL
-Update on Hortonville family, long time community members, impacted by ICE false arrest on April 10.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Everlee Hearing in FDL May 21 Written By Grace Abitz Update on Hortonville family, long time community members, impacted by ICE false arrest on April 10.
 Everlee Wihongi's historic conviction hearing took place at 1:30 today at the Fond du Lac County courtroom.
 Judge Tricia L.
 Walker oversaw the hearing.
@@ -32,6 +36,10 @@ Of all that I heard today, it was when Betty shared about detainees being transp
 When citizens are transported, they briefly wear their own clothing again.
 Everyday people going to their jobs, nurses in scrubs, construction workers in jeans, children, and pregnant women wrongly occupy this contrived system of Congress backed human trafficking.
 A pregnant woman was shackled next to Everlee for 12 hours during transport.
-Furthermore, when that baby is born it will not stay with its mother. 72 billion dollars is allocated to pay these federal contract facilities, like Geo, $100 per day per person.
+Furthermore, when that baby is born it will not stay with its mother.
+72 billion dollars is allocated to pay these federal contract facilities, like Geo, $100 per day per person.
 Tax dollars fueling an empty cruel performance, what good or service is being rendered?
 I see billionaires exchanging unethical funds and favors back and forth to one another while people’s constitutional rights are no where to be found.
+Grace Abitz https://www.graceabitz.com Previous Previous Memorial Day, Bear Creek Next Next Everlee Wohongi, Hortonville roots.
+Victim of rogue ICE arrest.
+Made with Squarespace

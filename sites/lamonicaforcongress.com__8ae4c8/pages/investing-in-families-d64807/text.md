@@ -1,11 +1,16 @@
-Investing in Families
-We must invest in policies that ensure parents have the resources they need to access well-paying jobs to support their families and secure a brighter future for their children.
-These policies include:
-- Promoting Access to Affordable, High-Quality Childcare & PreK: Access to affordable, high-quality childcare and early childhood education is essential for children's development and parents' ability to work and pursue education.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events Investing in Families We must invest in policies that ensure parents have the resources they need to access well-paying jobs to support their families and secure a brighter future for their children.
+These policies include: Promoting Access to Affordable, High-Quality Childcare & PreK: Access to affordable, high-quality childcare and early childhood education is essential for children's development and parents' ability to work and pursue education.
 We must advance policies that expand access to affordable childcare options, increase funding for early childhood education programs, and support childcare providers with fair wages and professional development opportunities.
-- Supporting Working Parents: No one should have to choose between caring for a loved one and earning a paycheck.
+Supporting Working Parents: No one should have to choose between caring for a loved one and earning a paycheck.
 We need policies that guarantee paid family and medical leave for all workers, allowing individuals to take time off to care for a new child, address their own health needs, or support a family member in times of illness or crisis.
-- Securing Safe, Affordable Housing: Access to safe, stable, and affordable housing is a fundamental need for families.
+Securing Safe, Affordable Housing: Access to safe, stable, and affordable housing is a fundamental need for families.
 We need policies that increase affordable housing options, protect tenants' rights, and address housing discrimination to ensure that all families have access to safe and affordable housing they deserve.
-- Combatting Food Insecurity: Hunger should never be a barrier to a child's success.
+Combatting Food Insecurity : Hunger should never be a barrier to a child's success.
 We must back policies that address food insecurity, increase access to nutritious food options, and strengthen nutrition assistance programs to ensure that families have the resources they need to thrive.
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Advancing Social Justice Promoting Educational Opportunity Safeguarding Our Communities Preserving Reproductive Rights Protecting Our Environment Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

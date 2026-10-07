@@ -1,31 +1,154 @@
 [
-"https://facebook.com/drrogermarshall",
-"https://instagram.com/rogermarshallmd",
-"https://kansansformarshall.com/",
-"https://kansansformarshall.com/about",
-"https://kansansformarshall.com/cdn-cgi/l/email-protection",
-"https://kansansformarshall.com/contact",
-"https://kansansformarshall.com/legal",
-"https://kansansformarshall.com/news",
-"https://kansansformarshall.com/record",
-"https://kansansformarshall.com/record/aerospace-defense",
-"https://kansansformarshall.com/record/agriculture",
-"https://kansansformarshall.com/record/bill",
-"https://kansansformarshall.com/record/border-security",
-"https://kansansformarshall.com/record/cost-of-living",
-"https://kansansformarshall.com/record/energy",
-"https://kansansformarshall.com/record/ogallala-aquifer",
-"https://kansansformarshall.com/record/rural-healthcare",
-"https://kansansformarshall.com/record/veterans",
-"https://kansansformarshall.com/voter-info",
-"https://kansansformarshall.com/yard-sign",
-"https://kdor.ks.gov/apps/voterreg/Default.aspx",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://secure.anedot.com/kansans-for-marshall/donate",
-"https://secure.anedot.com/kansans-for-marshall/donate?amount=105",
-"https://secure.anedot.com/kansans-for-marshall/donate?amount=14",
-"https://secure.anedot.com/kansans-for-marshall/donate?amount=26",
-"https://secure.anedot.com/kansans-for-marshall/donate?amount=260",
-"https://secure.anedot.com/kansans-for-marshall/donate?amount=526",
-"https://sos.ks.gov/elections/county_election_officers.aspx"
+{
+"text": "$105 Helps put a yard sign in every Kansas county",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate?amount=105"
+},
+{
+"text": "$14 Helps put mailers in one Kansas precinct",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate?amount=14"
+},
+{
+"text": "$26 Helps hang door hangers in your zip code",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate?amount=26"
+},
+{
+"text": "$260 Helps feed volunteers at a phone-bank night",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate?amount=260"
+},
+{
+"text": "$526 Helps fund a weekend of door-knocking",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate?amount=526"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://facebook.com/drrogermarshall"
+},
+{
+"text": "(opens in a new tab)",
+"href": "https://www.instagram.com/rogermarshallmd"
+},
+{
+"text": "About Doc",
+"href": "https://kansansformarshall.com/about"
+},
+{
+"text": "Accessibility · WCAG 2.2 AA",
+"href": "https://kansansformarshall.com/legal#accessibility"
+},
+{
+"text": "Bills filed",
+"href": "https://kansansformarshall.com/record/bill"
+},
+{
+"text": "CCPA · CPRA",
+"href": "https://kansansformarshall.com/legal#ccpa"
+},
+{
+"text": "Campaign office",
+"href": "https://kansansformarshall.com/contact"
+},
+{
+"text": "Chip in to the campaign →",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate"
+},
+{
+"text": "County clerks↗ (opens in a new tab)",
+"href": "https://www.sos.ks.gov/elections/county_election_officers.aspx"
+},
+{
+"text": "DOC MARSHALL U.S. SENATE · KANSAS",
+"href": "https://kansansformarshall.com/"
+},
+{
+"text": "Get a yard sign Free · Pickup or delivery →",
+"href": "https://kansansformarshall.com/yard-sign"
+},
+{
+"text": "In the News",
+"href": "https://kansansformarshall.com/news"
+},
+{
+"text": "Open the voter info hub →",
+"href": "https://kansansformarshall.com/voter-info"
+},
+{
+"text": "Other Pick your number",
+"href": "https://secure.anedot.com/kansans-for-marshall/donate"
+},
+{
+"text": "Polling place lookup↗ (opens in a new tab)",
+"href": "https://myvoteinfo.voteks.org/VoterView/"
+},
+{
+"text": "Press inquiries",
+"href": "https://kansansformarshall.com/contact#press"
+},
+{
+"text": "Privacy",
+"href": "https://kansansformarshall.com/legal#privacy"
+},
+{
+"text": "Register to vote↗ (opens in a new tab)",
+"href": "https://www.kdor.ks.gov/apps/voterreg/Default.aspx"
+},
+{
+"text": "Terms",
+"href": "https://kansansformarshall.com/legal#terms"
+},
+{
+"text": "The full record →",
+"href": "https://kansansformarshall.com/record"
+},
+{
+"text": "The record",
+"href": "https://kansansformarshall.com/record"
+},
+{
+"text": "Voter info",
+"href": "https://kansansformarshall.com/voter-info"
+},
+{
+"text": "Yard signs",
+"href": "https://kansansformarshall.com/yard-sign"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@kansansformarshall.com"
+},
+{
+"text": "[image] 01 Agriculture Phosphate fertilizer relief for Kansas growers. $150 /ton Projected fertilizer relief Lowering Input Costs for American Farmers Act (S. 4418, lead, April 2026)Whole Milk for Healthy Kids Act — signed into law Jan 2026DIRECT Act (S. 3099) — state-inspected beef interstate Open record →",
+"href": "https://kansansformarshall.com/record/agriculture"
+},
+{
+"text": "[image] 02 Rural Healthcare 82 of Kansas's 124 hospitals are Critical Access. We protect them. 72 hr cap On Medicare prior-auth denials Improving Seniors' Timely Access to Care Act (S. 1816) — lead sponsorPatients Deserve Price Tags Act (S. 2355) — lead sponsorMedicare Advantage Improvement Act (April 2026) — lead sponsorTelehealth permanence — CONNECT for Health Act (S. 1261) cosponsor Open record →",
+"href": "https://kansansformarshall.com/record/rural-healthcare"
+},
+{
+"text": "[image] 03 Border & Security On the line with Fort Riley's 1st Infantry Division at the southern border. 3+ site visits With Kansas law enforcement Laken Riley Act (S. 5) — cosponsor, signed Jan 2025Build the Wall Act (S. 42) — cosponsorBorder site visit, May 2025 — with 7 Kansas law enforcement officials Open record →",
+"href": "https://kansansformarshall.com/record/border-security"
+},
+{
+"text": "[image] 04 Energy Oil, gas, wind, and Kansas-grown ethanol — no apologies for any of them. #3 in U.S. Wind share of electricity · EIA 2024 Nationwide Consumer & Fuel Retailer Choice Act (S. 593) — cosponsor, year-round E15Natural Gas Tax Repeal Act (S. 143) — cosponsorS.J.Res.12 / H.J.Res.35 CRA — voided EPA methane-fee rule (Marshall cosponsored) Open record →",
+"href": "https://kansansformarshall.com/record/energy"
+},
+{
+"text": "[image] 05 Aerospace & Defense Kansas builds the planes. We make sure Kansas keeps building them. 12,000 jobs Spirit AeroSystems, Wichita NDAA FY2026 (S. 1071) — Fort Riley ATC tower + training courseBoeing $1B Wichita investment — championed May 2026WSU Tech workforce training center — partnership Open record →",
+"href": "https://kansansformarshall.com/record/aerospace-defense"
+},
+{
+"text": "[image] 06 Cost of Living A $4 gallon of milk is a kitchen-table problem, not an abstraction. +4.1% 12-mo CPI Midwest region prices · BLS, April 2026 Working Families Tax Cuts — TCJA permanence, voted yeaMethane-fee CRA cosponsor — H.J.Res.35 signed March 2025Voted no on multiple stopgap continuing resolutions Open record →",
+"href": "https://kansansformarshall.com/record/cost-of-living"
+},
+{
+"text": "[image] 07 Ogallala Aquifer The aquifer under Kansas wheat country is dropping more than a foot a year. 1.2 ft/yr Aquifer decline rate · KGS EQIP Water Conservation Act (S. 2696) — original cosponsorUSDA Groundwater Recharge & Sustainability Project — Wichita + Greeley countiesSenate Western Caucus member Open record →",
+"href": "https://kansansformarshall.com/record/ogallala-aquifer"
+},
+{
+"text": "[image] 08 Veterans Supporting Veterans in STEM Careers Act — signed into law. 155K KS vets Veterans living in Kansas Public Law 116-115 — cosponsor as a Congressman (signed Feb 2020)PACT Act — voted yea (Aug 2022)Major Richard Star Act (S. 1032) — cosponsor Open record →",
+"href": "https://kansansformarshall.com/record/veterans"
+}
 ]

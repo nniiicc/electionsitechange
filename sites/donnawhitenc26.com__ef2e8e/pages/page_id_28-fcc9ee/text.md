@@ -1,13 +1,12 @@
-Meet Rep.
-Donna McDowell White
-Donna McDowell White was elected to her first term in the NC House of Representatives in November 2016 and is currently serving her fourth term representing the citizens of NC House District 26.
+Home Contact About Me Select Page Meet Rep.
+Donna McDowell White Donna McDowell White was elected to her first term in the NC House of Representatives in November 2016 and is currently serving her fourth term representing the citizens of NC House District 26.
 She is the first woman from Johnston County to be elected to this role.
 In her service to the House, Rep.
 White has been very active as Chairman of the Health Committee and Chairman of the Appropriations for Health and Human Services Committee.
 Additionally, Rep.
 White is a Vice-Chair of the Appropriations Committee and a member of six other standing committees including Education-Community Colleges, Environment, House Select Committee on HOAs, House Select Committee on Substance Abuse, Local Government, and Rules, Calendar and Operations of the House.
 She is also a member of two non-standing committees — NC Child Fatality Taskforce and the Joint Legislative Oversight Committee on Health and Human Services.
-There are many other non-legislative committees that Rep.
+Follow Follow Follow There are many other non-legislative committees that Rep.
 White sits on including the Olmstead Plan Stakeholder Advisory Committee (OPSA), NC Serious Illness Coalition, NC Falls Prevention Coalition, and the recently convened NC Council on Health Care Coverage.
 She was appointed by the Speaker as the Representative to the NC Cancer Coordination and Control Committee.
 Her strong commitment to public health, mental health and the overall well-being of NC citizens is demonstrated through her committee work.
@@ -33,7 +32,7 @@ Rep.
 White has also been named Legislator of the Year by the North Carolina Nurses Association.
 Past NC House committee appointments include the House Standing Committees for Aging, Health, Appropriations, Appropriations for Health and Human Services, Education K-12, Ethics and Judiciary III.
 She was also appointed to serve on the House Select Committees for Disaster Relief and Access to Rural Health Advisory Committee, NC Internship Council, and has a gubernatorial appointment to the Safer Schools Task Force.
-For the 2019-2020 biennium she was appointed by the Speaker to the Bi-partisan House Select Committee for Safer Schools and the NC Child Well Being Transformation Council.
+For the 2019-2020 biennium she was appointed by the Speaker to the Bi-partisan House Select Committee for Safer Schools and the NC Child Well Being Transformation Council .
 Rep.
 White has been recognized by multiple advocacy associations for her commitment to many causes.
 She was named Legislator of the Year by Friends of Residents in Long Term Care during 2017 and 2019, and she received the Legislator of Excellence Award from the N.C.
@@ -48,6 +47,7 @@ In 2021 Rep.
 White was named the first recipient of the Champion of Aging Award by the NC Coalition of Aging.
 She also received the Legislator Excellence Award from the Police Benevolent Society in 2021.
 Rep.
-Donna McDowell White
-NC HOUSE DISTRICT 26
-It is my honor to represent House District 26, serving the people of Johnston County.
+Donna McDowell White NC HOUSE DISTRICT 26 It is my honor to represent House District 26, serving the people of Johnston County.
+Contribute Endorsements and Awards – CPAC – Conservative Representative – NC Family Values – State Employees Association – Police Benevolent Association – Job Champion – NC Chamber of Commerce – Legislator for Business – NC Free Enterprise – Legislator of the Year — NC Nurses Association (NCNA) – Legislator of the Year — Southeastern Association of Area Agencies on Aging – Advocacy Award – Intellectual Developmental Disability Caucus (IDD) – Inaugural “Spirit of the Games for Healthy Aging” from NC Senior Games Ready To Support Rep.
+Donna McDowell White ?
+Name Email Address Message Send Message Facebook X Instagram

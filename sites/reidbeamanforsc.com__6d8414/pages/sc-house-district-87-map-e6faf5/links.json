@@ -1,13 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/reidbeamanforsc",
-"https://instagram.com/reidbeamanforsc",
-"https://reidbeamanforsc.com/",
-"https://reidbeamanforsc.com/about",
-"https://reidbeamanforsc.com/contact",
-"https://reidbeamanforsc.com/house-district-87-survey",
-"https://reidbeamanforsc.com/news",
-"https://scstatehouse.gov/maps/house/HD87.pdf",
-"https://secure.actblue.com/donate/votesforbeaman",
-"https://tiktok.com/@reidbeamanforsc"
+{
+"text": "About",
+"href": "https://www.reidbeamanforsc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.reidbeamanforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesforbeaman"
+},
+{
+"text": "News",
+"href": "https://www.reidbeamanforsc.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Take the survey",
+"href": "https://www.reidbeamanforsc.com/house-district-87-survey"
+},
+{
+"text": "[image: Beaman Lgo]",
+"href": "https://www.reidbeamanforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@reidbeamanforsc"
+},
+{
+"text": "https://www.scstatehouse.gov/maps/house/HD87.pdf",
+"href": "https://www.scstatehouse.gov/maps/house/HD87.pdf"
+}
 ]

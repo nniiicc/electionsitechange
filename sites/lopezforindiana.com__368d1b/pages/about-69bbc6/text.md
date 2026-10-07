@@ -1,4 +1,4 @@
-As a leader in the civic, corporate, and public sectors, Danny Lopez has spent his 20-year career championing efforts to strengthen families, build communities, and create sound public policy in education, economic development, and healthcare.
+0 Skip to Content Home About Issues Get Involved DONATE Open Menu Close Menu DONATE Home About Issues Get Involved Open Menu Close Menu Home About Issues Get Involved DONATE Meet Danny Lopez A trusted, proven conservative leader for District 39 lopezforindiana@gmail.com As a leader in the civic, corporate, and public sectors, Danny Lopez has spent his 20-year career championing efforts to strengthen families, build communities, and create sound public policy in education, economic development, and healthcare.
 He and his wife, Sofia, relocated to Indiana from Miami, FL, in 2008 and have chosen Carmel to raise their family.
 Their two children, Daniel and Alexandra, attend Catholic school in Hamilton County and Sofia is a professor of Communication Sciences and Disorders at Butler University.
 As Vice President for External Affairs and Corporate Communications for Pacers Sports & Entertainment, Danny works with partners across central Indiana to leverage the power of sports to make life better for millions of Hoosiers.
@@ -15,20 +15,7 @@ Danny previously served as State Director for Dan Coats, Indiana’s senior Unit
 In that role, he oversaw all state operations, policy, and constituent services for the Senator.
 Prior to joining the Senator’s team in 2013, Lopez served as Special Assistant to Governor Mike Pence and held various agency roles in the administration of Mitch Daniels.
 Danny is a two-time recipient of the prestigious Sagamore of the Wabash Award, the highest honor bestowed by Indiana’s Governor, and was selected to the Indianapolis Business Journal’s 40 Under 40 list for 2015.
-He is a regular contributor to the Indianapolis Business Journal on public policy matters and serves or has served on numerous boards and commissions, including:
-- The Indiana Judicial Nominating Commission for the Supreme Court & Court of Appeals
-- The Indiana Chamber of Commerce
-- The Mitch Daniels Leadership Foundation
-- The Arthur Jordan Foundation
-- The NBA All-Star 2024 Board of Directors
-- The Indianapolis 2012 Super Bowl Host Committee
-- The 2022 Indianapolis College Football Championship Committee
-- The Urban League of Greater Indianapolis
-- The Indiana Latino Institute
-- The YMCA of Greater Indianapolis
-- The State of Indiana Charter School Board
-- The City of Bloomington Economic Development Commission
-- The Boy Scouts of America Crossroads of America Council
-- St.
-Joseph’s College of Marian University Board of Advisors
-Danny’s career began in 2004 as managing partner of Capitol Gains, Corp., a public policy and Spanish-language media relations firm with a client portfolio ranging from national and international candidates to domestic and multi-national corporations.
+He is a regular contributor to the Indianapolis Business Journal on public policy matters and serves or has served on numerous boards and commissions, including: The Indiana Judicial Nominating Commission for the Supreme Court & Court of Appeals The Indiana Chamber of Commerce The Mitch Daniels Leadership Foundation The Arthur Jordan Foundation The NBA All-Star 2024 Board of Directors The Indianapolis 2012 Super Bowl Host Committee The 2022 Indianapolis College Football Championship Committee The Urban League of Greater Indianapolis The Indiana Latino Institute The YMCA of Greater Indianapolis The State of Indiana Charter School Board The City of Bloomington Economic Development Commission The Boy Scouts of America Crossroads of America Council St.
+Joseph’s College of Marian University Board of Advisors Danny’s career began in 2004 as managing partner of Capitol Gains, Corp., a public policy and Spanish-language media relations firm with a client portfolio ranging from national and international candidates to domestic and multi-national corporations.
+Join the Team 484 E.
+Carmel Drive #241, Carmel, IN 46032 Paid for by Lopez for Indiana.

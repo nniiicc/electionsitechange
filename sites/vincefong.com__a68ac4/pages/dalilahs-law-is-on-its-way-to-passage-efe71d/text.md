@@ -1,6 +1,4 @@
-Dalilah’s Law Is On Its Way to Passage
-March 30, 2026
-In 2024, an illegal immigrant driving an 18-wheeler caused a severe collision and multi-car pileup in Fresno by speeding through a construction zone.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Dalilah’s Law Is On Its Way to Passage March 30, 2026 In 2024, an illegal immigrant driving an 18-wheeler caused a severe collision and multi-car pileup in Fresno by speeding through a construction zone.
 Michael Krause and his 5-year-old daughter, Dalilah Coleman, were in their car when the 18-wheeler slammed into them.
 Dalilah suffered extensive injuries that put her in a coma for three weeks and seriously impaired her ability to walk, talk, and eat.
 The driver that caused this tragedy was provided with a Commercial Driver’s License (CDL) by Gavin Newsom’s DMV.
@@ -9,16 +7,10 @@ During his state of the union address, President Trump called on Congress to fix
 That is why I am a proud Co-Sponsor of Dalilah’s Law.
 Our bill is rooted in a simple but urgent principle: public safety must come first.
 Every driver operating a commercial vehicle on our roads carries a significant responsibility—not only for themselves, but for every family sharing the highway.
-Specifically, Dalilah’s Law will:
-- Ensure every Commercial Driver’s License holder can understand English, including road signs and communication with law enforcement—an essential requirement for safe driving and emergency response
-- Remove unsafe drivers who fail to meet established legal and safety standards, protecting the public from preventable risks
-- Require states to verify that CDLs are not issued to individuals who are in the country unlawfully, reinforcing the integrity of our licensing system
-- Hold states accountable by allowing for the withholding of federal funds if compliance standards are not met
-- Crack down on fraudulent foreign dispatch services that contribute to cargo theft and undermine legitimate businesses
-- Shut down so-called “CDL mills” and ensure proper, high-quality training for new drivers entering the workforce
-I have had the privilege of getting to know the Coleman family, whose strength and advocacy have been nothing short of inspiring.
+Specifically, Dalilah’s Law will: Ensure every Commercial Driver’s License holder can understand English, including road signs and communication with law enforcement—an essential requirement for safe driving and emergency response Remove unsafe drivers who fail to meet established legal and safety standards, protecting the public from preventable risks Require states to verify that CDLs are not issued to individuals who are in the country unlawfully, reinforcing the integrity of our licensing system Hold states accountable by allowing for the withholding of federal funds if compliance standards are not met Crack down on fraudulent foreign dispatch services that contribute to cargo theft and undermine legitimate businesses Shut down so-called “CDL mills” and ensure proper, high-quality training for new drivers entering the workforce I have had the privilege of getting to know the Coleman family, whose strength and advocacy have been nothing short of inspiring.
 I want to extend my deepest gratitude to Marcus, Illena, and Dalilah for sharing their story and for traveling with us from Bakersfield to Washington, D.C earlier this month.
 Their courage has helped shine a light on critical gaps in our transportation safety framework, and their determination is helping drive real change.
 This past month, Dalilah’s Law passed out of the House Transportation and Infrastructure Committee and is on its way to passage.
 We owe it to Dalilah and her family, as well as every driver, every family, and every community to ensure that our highways are as safe as they can be.
 I am proud to stand with them as a Co-Sponsor of Dalilah’s Law and will not stop until we get this done.
+Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

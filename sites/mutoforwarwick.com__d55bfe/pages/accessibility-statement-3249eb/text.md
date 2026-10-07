@@ -1,27 +1,12 @@
-Accessibility Statement
-- This statement was last updated on May 23, 2026.
-- Site developers at AuroraIQAdvisory are working to make our site https://mutoforwarwick.com, accessible to people with disabilities.
-What Web Accessibility Is
-- An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors.
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute Accessibility Statement This statement was last updated on May 23, 2026.
+Site developers at AuroraIQAdvisory are working to make our site https://mutoforwarwick.com , accessible to people with disabilities.
+What Web Accessibility Is An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors.
 This can be achieved with the capabilities of the system on which the site is operating, and through assistive technologies.
-Accessibility Adjustments on This Site
-- We have adapted this site in accordance with WCAG 2.2 guidelines, and have made the site accessible to the level of AAA.
+Accessibility Adjustments on This Site We have adapted this site in accordance with WCAG 2.2 guidelines, and have made the site accessible to the level of AAA.
 This site's contents have been adapted to work with assistive technologies, such as screen readers and keyboard use.
-As part of this effort, we have also:
-- Used the Accessibility Wizard to find and fix potential accessibility issues
-- Set the language of the site
-- Set the content order of the site’s pages
-- Defined clear heading structures on all of the site’s pages
-- Added alternative text to images
-- Implemented color combinations that meet the required color contrast
-- Reduced the use of motion on the site
-- Ensured all videos, audio, and files on the site are accessible
-- Declaration of partial compliance with the standard due to third-party content
-- The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to Google.
+As part of this effort, we have also: Used the Accessibility Wizard to find and fix potential accessibility issues Set the language of the site Set the content order of the site’s pages Defined clear heading structures on all of the site’s pages Added alternative text to images Implemented color combinations that meet the required color contrast Reduced the use of motion on the site Ensured all videos, audio, and files on the site are accessible Declaration of partial compliance with the standard due to third-party content ​The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to Google.
 The following pages are affected by this: https://www.mutoforwarwick.com/accessibility-statement.
 We therefore declare partial compliance with the standard for these pages.
-Accessibility Arrangements in the Organization
-- Bill Muto for State Representative does not have a physical location, and maintains an online presence only.
-Requests, Issues, and Suggestions
-- If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator:
-- AuroraIQAdvisory; bjt@bjtcivicsolutions.com
+Accessibility Arrangements in the Organization Bill Muto for State Representative does not have a physical location, and maintains an online presence only.
+Requests, Issues, and Suggestions If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator: AuroraIQAdvisory; bjt@bjtcivicsolutions​.com Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

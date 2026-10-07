@@ -1,9 +1,5 @@
-Currency and Banking Teachings.
-A frame of reference of lasting relevance to
-modern money systems
-By Joseph Huber
-Source: sovereignmoney.eu/currency-and-banking-teachings as of June 2013
-The expression New Currency Theory (NCT) makes reference to the historical British currency school of the first half of the 19th century.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Monetary Currency and Banking Teachings Currency and Banking Teachings Details Currency and Banking Teachings.
+A frame of reference of lasting relevance to modern money systems By Joseph Huber Source: sovereignmoney.eu/currency-and-banking-teachings as of June 2013 The expression New Currency Theory (NCT) makes reference to the historical British currency school of the first half of the 19th century.
 It was opposed by the banking school of the time. [1] The reference to these teachings does not intend to replicate them in the original form of their time, but wants to carve out the structural components which have continued to exist ever since.
 The historical currency school emanated from earlier doctrines of mercantile bullionism, i.e. the idea that a nation's wealth depends on its stocks of gold and silver.
 Now that the metal age of money is over, the involved currency paradigm is supposed to be of no more relevance.
@@ -33,9 +29,8 @@ Both currency and banking scholars also considered prices as a meaningful starti
 But they faced difficulties in documenting inflationary and deflationary tendencies, or depreciation and appreciation of the external value of the currency.
 Later on, from around 1900, with the presumption of an "intrinsic" value of money fading away and statistics largely improved, economists tried to replace gold with the average price of some baskets of commodities — whether raw materials, initially including gold, or the prices of consumer goods and services, as standardised today in statistical consumer price indices.
 Important as these are, however, they are not suited as a master metre of the domestic and foreign value of a currency.
-Money buys commodities, but itself it is neither a commodity nor a basket of commodities. [5]
-The quantum leap for the basket idea was to relate the existing stock of money to the entire national product, as formulated in similar ways by Fisher, Keynes and others (equations of exchange or equations of money circulation, respectively). [6] The value of money equals its purchasing power which is ultimately derived from productivity, i.e. the economic product as indicated today by GDP as a first proxy.
-So the productive potential of an economy at full capacity, i.e. the potential of the overall economic product, became the economic frame of reference for a commensurate money supply, relevant to both quantity policy and interest-rate policy.
+Money buys commodities, but itself it is neither a commodity nor a basket of commodities. [5] The quantum leap for the basket idea was to relate the existing stock of money to the entire national product, as formulated in similar ways by Fisher, Keynes and others (equations of exchange or equations of money circulation, respectively). [6] The value of money equals its purchasing power which is ultimately derived from productivity, i.e. the economic product as indicated today by GDP as a first proxy.
+So the productive potential of an economy at full capacity, i.e. the potential of the overall economic product , became the economic frame of reference for a commensurate money supply, relevant to both quantity policy and interest-rate policy.
 The actual demand for money, it should be noted, includes demand from the informal and submerged economy as well as from the financial economy.
 The question of sound proportions between the real and the financial hemispheres of the economy is still largely ignored by orthodox economics.
 With respect to such questions, the main representatives of the opposite banking school, Tooke and Fullarton, invoked the law of money reflux and what was known then as the 'real-bills doctrine' (real bills = bills of debt from creditworthy originators, i.e. good IOUs). [7] The real-bills doctrine says that as long as bankers write out credit and print banknotes against "real bills" at short notice, the money will surely be put to good use, and upon maturity of credits granted the money (mostly banknotes) will be taken out of circulation (reflux), making sure there is no more money than there is "real" demand for.
@@ -54,8 +49,7 @@ Over time, however, he became disappointed with the realities of 'real' bills an
 According to Thornton, himself a respected banker of the time, it is impossible to reliably know in advance which bills will be 'real' and which ones will turn out to be fictitious.
 Equally, banks discounted long-term bills almost as willingly as short-term bills.
 Unforeseen events can throw over any calculation.
-The banking business itself, he observed – including the Bank of England – had a tendency towards over-issuing credit and banknotes for pure self-interest, eventually triggering banking crises, the more so because banknotes, to be accepted, had to be convertible (redeemable in silver coin or gold bullion). [8]
-The banking school did not maintain a position along the lines of "money doesn't matter", but their attitude was actually one of "money doesn't matter that much".
+The banking business itself, he observed – including the Bank of England – had a tendency towards over-issuing credit and banknotes for pure self-interest, eventually triggering banking crises, the more so because banknotes, to be accepted, had to be convertible (redeemable in silver coin or gold bullion). [8] The banking school did not maintain a position along the lines of "money doesn't matter", but their attitude was actually one of "money doesn't matter that much".
 According to Fullarton's law of reflux, inflation, credit bubbles and crises must have had reasons other than monetary ones, because banknotes were supposed to flow back to the banks on repayment of credit.
 Should there be signs of inflation, people would immediately exchange paper notes for coin, and so any overhang would be choked off.
 Sure enough, such money reflux is not documented ever to have happened — although it has often been attempted in bank runs, when long queues of people wait in vain in front of closed banks to get their money back.
@@ -90,7 +84,7 @@ For banking teachings it has never been important to conclusively determine what
 In banking, this is actually not that important as long as depositors and other creditors of a bank hold still, debtors keep on paying and the value of assets is more or less preserved so that solvency and creditworthiness is maintained.
 Even if the term "real bills" is not used anymore, the real bills doctrine is a mainstay of any banking theory from the 18th century up until today.
 It is a core principle of central banking too (quality assets eligible for monetary policy operations).
-The banking doctrine today is hardly different from what it was 200 years ago: let banks freely create money (then banknotes, today digital money on account).
+The banking doctrine today is hardly different from what it was #ago: let banks freely create money (then banknotes, today digital money on account).
 Money and capital markets continually readjust and thus establish an equilibrium so that under conditions of symmetric endowments, information and competition, banks cannot fail to create the optimum amount of credit (money) and financial markets cannot derail.
 No one ever asked how something like a self-limiting market equilibrium should ensue as long as there are no effective limits to commercial banks' creation of a disproportionately growing supply of money and financial assets, of credit and debt, as if defying the gravity of an economy's productive potential.
 A prominent figure of banking-school teachings of the recent past was Fr. v.
@@ -109,14 +103,10 @@ From a currency point of view, the issue is as much a legal, constitutional conc
 From a banking perspective it is a question of private law and financial profitability, giving lower priority to public finances and real-economic prosperity on the grounds that efficient markets could be expected to do the job automatically.
 So "currency vs banking" conveys a general frame of reference of lasting relevance to modern money systems.
 NCT and contemporary monetary reform initiatives clearly stand in the filiation of currency-school teachings and have a close relationship with 19th and 20th-century chartal theories of money.
-Likewise, they carry the (partially burdensome) legacy of monetary reform movements of the interwar years, such as the stamp scrip movement and the social credit movement, both of which aimed at full nationalisation of money. [12] An ancestry of academic origin can be traced through various approaches to 100% reserve banking of the 1930–40s. [13] NCT takes up the main structural components of previous currency-type teachings, and continues their legacy in up-to-date reformulations applying to today's still further modernised monetary and banking conditions.
-* * *
-New Currency Theory continues currency teachings in keeping with the times.
+Likewise, they carry the (partially burdensome) legacy of monetary reform movements of the interwar years, such as the stamp scrip movement and the social credit movement, both of which aimed at full nationalisation of money. [12] An ancestry of academic origin can be traced through various approaches to 100% reserve banking of the 1930–40s. [13] NCT takes up the main structural components of previous currency-type teachings, and continues their legacy in up-to-date reformulations applying to today's still further modernised monetary and banking conditions. * * * New Currency Theory continues currency teachings in keeping with the times.
 Other teachings with which currency theory may connect include post-Keynesianism, circuitism, certain strands of monetarism, disequilibrism, institutional and historical economics, constitutional and public law, ecological economics, as well as economic and financial sociology.
-Moreover, it is obvious that most monetary reform initiatives today represent new currency teachings. [14]
-Whether Keynesianism in its original form also belongs here remains open to question.
-Keynes' ideas on monetary reform come close to contemporary conditions of fractional reserve banking in combination with the "reserve position doctrine", i.e. the flawed assumption that central banks are capable of controlling banks' credit and deposit creation by setting minimum reserve requirements and base rates thereon. [15]
-Chartalism, i.e. theories of state money, does of course belong here, provided respective approaches are compatible with a currency point of view, as outlined before.
+Moreover, it is obvious that most monetary reform initiatives today represent new currency teachings. [14] Whether Keynesianism in its original form also belongs here remains open to question.
+Keynes' ideas on monetary reform come close to contemporary conditions of fractional reserve banking in combination with the "reserve position doctrine", i.e. the flawed assumption that central banks are capable of controlling banks' credit and deposit creation by setting minimum reserve requirements and base rates thereon. [15] Chartalism, i.e. theories of state money, does of course belong here, provided respective approaches are compatible with a currency point of view, as outlined before.
 Confusingly enough, the original theory of chartalism, the state theory of money by G.
 Fr.
 Knapp 1905, does not really belong here, nor does today's Modern Money Theory.
@@ -135,37 +125,31 @@ They tend to be skeptical towards a complete sovereign-currency system, but no l
 Most economists stick to the status quo, no matter how flawed and failing it proves to be.
 They still have inaccurate ideas on how the money and banking system works (e.g. role of deposits, outdated multiplier model) and self-deceptions about controlling fractional reserve banking through minimum reserve requirements and central-bank interest rates.
 The present system is considered a two-tier sovereign-currency system with an embedded private banking system and bank money, while in practice the system has effectively mutated into a banking system, where the banks pro-actively determine everything, re-actively and residually backed by central bank and government if need be.
-Footnotes
-[1] Cf.
-O'Brien 1994, Viner 1937.
-[2] Ryan-Collins/Greenham/Werner/Jackson 2011 42–45.
-[3] Whale 1944 109.
-[4] As e.g. in Mcleod 1889, Withers 1909, Hawtrey 1919, Hahn 1920; remarkable passages also in Schumpeter 1911 (e.g. 110) and von Mises 1928 (e.g. 81).
-[5] Wray 2012 264.
-[6] Humphrey 1984.
+Footnotes [1] Cf.
+O'Brien 1994, Viner 1937. [2] Ryan-Collins/Greenham/Werner/Jackson 2011 42–45. [3] Whale 1944 109. [4] As e.g. in Mcleod 1889, Withers 1909, Hawtrey 1919, Hahn 1920; remarkable passages also in Schumpeter 1911 (e.g.
+110) and von Mises 1928 (e.g.
+81). [5] Wray 2012 264. [6] Humphrey 1984.
 Fisher 1922 (1911), chap.
 II.
-Keynes 1923 77–83.
-[7] Poitras 1998.
-[8] Poitras 1998 481.
-[9] Huber 2013 195.
-[10] Hayek 1976, White 1989.
-[11] Fama et al. 1969, Fama 1970.
-[12] For stamp scrips cf.
-Gesell 1919, Fisher/Cohrssen 1934; for social credit Douglas 1920, 1924, Mairet 1934, Munson 1945, Hutchinson/Burkitt 1997.
-[13] Soddy 1926, Currie 1934, Hart 1935, Fisher 1935, Simons 1948, Friedman 1948, 1959, 1969, Douglas et al 1939.
-[14] Among these reform initiatives there are the American Monetary Institute (monetary.org), Positive Money in the UK (positivemoney.org) and New Zealand (www.positivemoney.org.nz), Sensible Money in Ireland (sensiblemoney.ie), Monetative in Germany (www.monetative.de) and Switzerland (vollgeld. ch).
-Also cf. positivemoney.org/get-involved international/.
-[15] Cf.
-John Maynard Keynes 1923: A Tract on Monetary Reform, London: Macmillan.
-[16] For a more detailed discussion cf. on this website modern money and sovereign currency.
-[17] For a detailed criticism of Huerta de Soto and the Neo-Austrian School cf. > Notes on the occasion of reading Jesús Huerta de Soto.
-Literature on Currency Theory and related topics
-Galbraith, John Kenneth: Money.
-Whence it Came, Where it Went, New York: Houghton Mifflin, 1995 (1st ed. 1975), 36–44.
-Huerta de Soto, Jesús: Money, Bank Credit, and Economic Cycles, Auburn, Ala.: Ludwig von Mises Institute, 601–605, 622–630, 631ff., 639–49,
-O’Brien, Denis Patrick 1994: Foundations of Monetary Economics, Vol.
+Keynes 1923 77–83. [7] Poitras 1998. [8] Poitras 1998 481. [9] Huber 2013 195. [10] Hayek 1976, White 1989. [11] Fama et al.
+1969, Fama 1970. [12] For stamp scrips cf.
+Gesell 1919, Fisher/Cohrssen 1934; for social credit Douglas 1920, 1924, Mairet 1934, Munson 1945, Hutchinson/Burkitt 1997. [13] Soddy 1926, Currie 1934, Hart 1935, Fisher 1935, Simons 1948, Friedman 1948, 1959, 1969, Douglas et al 1939. [14] Among these reform initiatives there are the American Monetary Institute ( monetary.org ), Positive Money in the UK ( positivemoney.org ) and New Zealand ( www.positivemoney.org.nz ), Sensible Money in Ireland ( sensiblemoney.ie ), Monetative in Germany ( www.monetative.de ) and Switzerland (vollgeld. ch).
+Also cf. positivemoney.org/get-involved international/ . [15] Cf.
+John Maynard Keynes 1923: A Tract on Monetary Reform, London: Macmillan. [16] For a more detailed discussion cf. on this website modern money and sovereign currency . [17] For a detailed criticism of Huerta de Soto and the Neo-Austrian School cf. > Notes on the occasion of reading Jesús Huerta de Soto .
+Literature on Currency Theory and related topics Galbraith, John Kenneth: Money.
+Whence it Came, Where it Went, New York: Houghton Mifflin, 1995 (1st ed.
+1975), 36–44.
+Huerta de Soto, Jesús: Money, Bank Credit, and Economic Cycles, Auburn, Ala.: Ludwig von Mises Institute, 601–605, 622–630, 631ff., 639–49, O’Brien, Denis Patrick 1994: Foundations of Monetary Economics, Vol.
 IV – The Currency School, Vol.
 V – The Banking School, London: William Pickering.
-Humphrey, Thomas M. 1984: Algebraic Quantity Equations before Fisher and Pigou, Economic Review of the Federal Reserve Bank of Richmond, September/October 1984, 13–22.
+Humphrey, Thomas M.
+1984: Algebraic Quantity Equations before Fisher and Pigou, Economic Review of the Federal Reserve Bank of Richmond, September/October 1984, 13–22.
 Poitras, Geoffrey 1998: Robert Torrens and the Evolution of the Real Bills Doctrine, Journal of the History of Economic Thought, Vol.20, No.4, 1998, 479– 498.
+Previous article: A Primer on Money Prev Next article: History of Usury Prohibition Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

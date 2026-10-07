@@ -1,4 +1,4 @@
-I’ve heard a lot of purity testing going on this year.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Hypothetical voting record 2026 (Part 1) 19 Apr Sunday, 11:29 PM · 2026 Hypothetical voting record 2026 (Part 1) I’ve heard a lot of purity testing going on this year.
 Votes on particular bills seem to be used more for a political talking point than a serious attempt to legislate.
 There were some bills brought which were just flat out bad laws.
 Not that I disagree with them from the point of intent, or even policy, but just weren’t handling the problem well.
@@ -67,8 +67,7 @@ Time will tell if this was a good idea.
 HB1013: An Act to clarify the purposes permitted for certain offenders to operate a motor vehicle.
 Yea – Consent.
 This one, I agree with more.
-It makes it easier for people who want to rehabilitate to stay within the law.\
-HB1014: An Act to modify the surcharge for a responding party in a forcible entry and detainer action.
+It makes it easier for people who want to rehabilitate to stay within the law.\ HB1014: An Act to modify the surcharge for a responding party in a forcible entry and detainer action.
 Yea – Consent.
 Removing fees in some cases.
 Not all fees are bad, but committee testimony did a good job of explaining the counterproductive nature of this charge in eviction cases, which is what this bill is covering.
@@ -93,5 +92,4 @@ I hate AI, so no summaries or cheating.
 Just listening to a lot of testimony, reading a lot of code, and trying to put my position in words.
 After all, if I can’t give a good reason why I would vote yea or nay, maybe I shouldn’t be applying for the job.
 In case you’re wondering, after going through the session, I will write up some of my thoughts on the more controversial bills that didn’t make it to the floor.
-As always, feel free to get ahold of me with any questions, and if I’m wrong about something, I really do want to know.
--Sam Froehlke
+As always, feel free to get ahold of me with any questions, and if I’m wrong about something, I really do want to know. -Sam Froehlke Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

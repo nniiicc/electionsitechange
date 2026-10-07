@@ -1,4 +1,4 @@
-Who is William Brown?
+0 Skip to Content William Brown for California's 12th Senate District (SD12) About Values Contact Donations Open Menu Close Menu William Brown for California's 12th Senate District (SD12) About Values Contact Donations Open Menu Close Menu About Values Contact Donations Who is William Brown?
 My name is William Brown.
 I am a social worker, a Marine veteran, a husband, a father, and a resident of Visalia.
 I have had enough of business as usual in Sacramento.
@@ -16,6 +16,4 @@ It's about the bottom versus the top.
 It's about returning power to where it belongs - with you, the people of California.
 If this resonates with you, I would like to invite you on the journey and would appreciate your vote.
 It won’t be easy, but one that is worth the fight!
-Endorsed By
-Accountability, Balance, and Common Sense
-Previous 2025 AD32 Special Election Interviews:
+Endorsed By Accountability, Balance, and Common Sense Previous 2025 AD32 Special Election Interviews: Libertarian Party https://ca.lp.org/

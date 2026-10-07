@@ -1,14 +1,58 @@
 [
-"https://facebook.com/vote.geibler",
-"https://geibler.org/",
-"https://geibler.org/about",
-"https://geibler.org/cart",
-"https://geibler.org/contact",
-"https://givebutter.com/geibler-for-maryland-senate-7-zh7u1w",
-"https://instagram.com/votegeibler",
-"https://squarespace.com/",
-"https://tiktok.com/@votegeibler",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1",
-"https://voterservices.elections.maryland.gov/VoterSearch",
-"https://x.com/VoteGeibler"
+{
+"text": "0",
+"href": "https://www.geibler.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.geibler.org/about"
+},
+{
+"text": "Check Voter Status",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "Contact",
+"href": "https://www.geibler.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://givebutter.com/geibler-for-maryland-senate-7-zh7u1w"
+},
+{
+"text": "Help Me Win",
+"href": "https://givebutter.com/geibler-for-maryland-senate-7-zh7u1w"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: From right to left: State Senate Candidate Bill Geibler (D), a costumed employee at colonial Williamsburg, and Keri Geibler.]",
+"href": "https://x.com/VoteGeibler"
+},
+{
+"text": "[image: State Senate Candidate Bill Geibler (D) overlooking the Baltimore skyline]",
+"href": "https://www.instagram.com/votegeibler/"
+},
+{
+"text": "[image: State Senate Candidate Bill Geibler (D) stands outdoors near a voting location with a sign that says \"Voter Exit.\" He has an \"I Voted\" sticker on his vest.]",
+"href": "https://www.tiktok.com/@votegeibler"
+},
+{
+"text": "[image: Two men in formal attire smiling at a social event, with a Facebook logo overlay in the top left corner.]",
+"href": "https://www.facebook.com/vote.geibler/"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.geibler.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.geibler.org/about"
+}
 ]

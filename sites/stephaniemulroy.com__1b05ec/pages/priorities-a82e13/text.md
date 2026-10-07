@@ -1,7 +1,8 @@
-Stronger Schools
-Fully funding commitments the state has already made so districts are not forced to cut services.
-Stephanie's Plan
-- Fully fund the long-neglected regional transportation agreement for Wachusett and Westminster Schools
-- Ensure enrollment fluctuations don't force districts to cut essential programs
-- Support adequate state funding so communities aren't pushed toward Proposition 2½ overrides
-- Advocate for local control over curriculum and educational decisions
+Open main menu Home About Priorities Get Involved Contact Donate Donate Platform Stephanie's Priorities Schools Accountability Affordability Stronger Schools Fully funding commitments the state has already made so districts are not forced to cut services.
+Stephanie's Plan Fully fund the long-neglected regional transportation agreement for Wachusett and Westminster Schools Ensure enrollment fluctuations don't force districts to cut essential programs Support adequate state funding so communities aren't pushed toward Proposition 2½ overrides Advocate for local control over curriculum and educational decisions Accountability Finally auditing the Legislature so taxpayers know where their money is going.
+Stephanie's Plan Support the independent audit of the State Legislature that voters approved Open the books on legislative spending and hold government accountable End the culture of secrecy and restore public trust in how our money is managed Reclaim taxpayer dollars for local needs through fiscal transparency Affordability Promoting a pro-jobs climate that eases the burden on working families and seniors.
+Stephanie's Plan Attract new business opportunities to the region Ease the tax burden on working families and seniors being pushed out by high costs Give young people a fair shot at owning a home in Massachusetts Support smart growth while letting communities decide where high-density housing fits There are several more important priorities facing our district.
+If you wish to speak with Stephanie about any topic, please email her at Info@StephanieMulroy.com Ready to Make a Difference?
+Join Team Mulroy to help us build a stronger Massachusetts together.
+Donate Now Get Involved Home About Priorities Get Involved Contact Donate Facebook Instagram Email Paid for by the Committee to Elect Stephanie Mulroy Privacy Policy Terms & Conditions © 2026 StephanieMulroy.com.
+All rights reserved.

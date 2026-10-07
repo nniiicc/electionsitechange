@@ -1,3 +1,5 @@
-Nicole Malliotakis, a Republican from Staten Island, is running for Congress in the 11th District, hoping to unseat Democrat Max Rose.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE PIX11 Republican challenges Staten Island’s Max Rose, who now favors impeachment inquiry Oct 07, 2019 Nicole Malliotakis, a Republican from Staten Island, is running for Congress in the 11th District, hoping to unseat Democrat Max Rose.
 Rose, in her opinion, just flip flopped on calling for impeachment proceedings against President Trump.
-STAND WITH NICOLE
+NEXT ARTICLE Malliotakis: Mother Cabrini got the votes — but not the statue.
+Why?
+PREVIOUS ARTICLE Newt Gingrich: Take a Look at the Firebrands Lining Up for 2020 STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

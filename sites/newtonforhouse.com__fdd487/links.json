@@ -1,14 +1,62 @@
 [
-"http://instagram.com/brandonnewtonforstatehouse",
-"https://facebook.com/brandon.newton.90",
-"https://newtonforhouse.com/",
-"https://newtonforhouse.com/about-4",
-"https://newtonforhouse.com/copy-of-issues",
-"https://newtonforhouse.com/district45map",
-"https://newtonforhouse.com/donate",
-"https://newtonforhouse.com/issues",
-"https://newtonforhouse.com/media",
-"https://newtonforhouse.com/privacy-policy",
-"https://secure.winred.com/newton-for-house/donate-today",
-"https://x.com/BrandonNewton7"
+{
+"text": "About",
+"href": "https://www.newtonforhouse.com/copy-of-issues"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/newton-for-house/donate-today"
+},
+{
+"text": "DONATE",
+"href": "https://www.newtonforhouse.com/donate"
+},
+{
+"text": "District 45 Map",
+"href": "https://www.newtonforhouse.com/district45map"
+},
+{
+"text": "Home",
+"href": "https://www.newtonforhouse.com"
+},
+{
+"text": "Issues",
+"href": "https://www.newtonforhouse.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.newtonforhouse.com/media"
+},
+{
+"text": "Privacy policy & terms.",
+"href": "https://www.newtonforhouse.com/privacy-policy"
+},
+{
+"text": "Privacy policy.",
+"href": "https://www.newtonforhouse.com/privacy-policy"
+},
+{
+"text": "Read More >",
+"href": "https://www.newtonforhouse.com/issues"
+},
+{
+"text": "Ways to Help",
+"href": "https://www.newtonforhouse.com/about-4"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brandon.newton.90/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/brandonnewtonforstatehouse"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/BrandonNewton7"
+},
+{
+"text": "brandon@newtonforhouse.com",
+"href": "mailto:brandon@newtonforhouse.com"
+}
 ]

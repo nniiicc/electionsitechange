@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.mendezforsenate.com/home",
- "paid_for_by": null,
+ "fingerprint": "8687ed492263e57b596fa065f524618534d4031c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mendez For Senate",
  "years_mentioned": [
+  "2000",
   "2016"
  ]
 }

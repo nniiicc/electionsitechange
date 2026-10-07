@@ -1,45 +1,222 @@
 [
-"http://kingscountypolitics.com/public-officials-students-request-cuny-tuition-hike-freeze",
-"http://ourtownny.com/home/seawright-to-city-reopen-indoor-pools-BG1282223",
-"http://ourtownny.com/news/seawright-announces-mobile-museum-of-tolerance-LF1986940",
-"http://ourtownny.com/news/we-will-not-be-intimidated-seawright-on-anti-semitic-graffiti-FL1269043",
-"https://abc7ny.com/anti-semitism-rebecca-seawright-new-york-assemblywoman-upper-east-side/6366424",
-"https://abcnews.go.com/US/bill-define-consent-york-support-weinstein-accusers/story?id=76897871",
-"https://amny.com/coronavirus/roosevelt-island-residents-team-up-to-buy-donate-ppe-to-local-hospital",
-"https://cityandstateny.com/articles/policy/technology/new-york-elections-move-into-21st-century.html",
-"https://gothamgazette.com/state/9043-cuomo-legislators-seek-2020-agreement-on-expanded-state-equal-rights-amendment",
-"https://nypost.com/2020/04/17/coler-hospital-on-roosevelt-island-gets-supplies-after-staff-complaints",
-"https://nypost.com/2020/05/17/nurses-give-inside-look-at-nightmare-nyc-run-adult-care-center",
-"https://nypost.com/2020/08/13/cuomo-orders-state-police-to-probe-anti-semitic-graffiti-in-nyc",
-"https://nypost.com/2021/12/08/suny-boss-malatras-must-go-31-assembly-members-say",
-"https://patch.com/new-york/upper-east-side-nyc/roosevelt-island-tram-should-drop-metrocards-local-leaders-say",
-"https://patch.com/new-york/upper-east-side-nyc/roosevelt-islands-leaders-must-live-there-under-new-state-bill",
-"https://patch.com/new-york/upper-east-side-nyc/weed-selling-van-upper-east-side-towed-after-complaints",
-"https://rebeccaseawright.com/",
-"https://rebeccaseawright.com/issues",
-"https://rebeccaseawright.com/issues/animal-rights",
-"https://rebeccaseawright.com/issues/animal-rights-2",
-"https://rebeccaseawright.com/issues/animal-rights-5",
-"https://rebeccaseawright.com/issues/criminal-justice-reform-2",
-"https://rebeccaseawright.com/issues/election-reform",
-"https://rebeccaseawright.com/issues/environmental",
-"https://rebeccaseawright.com/issues/gun-reform",
-"https://rebeccaseawright.com/issues/health-and-safety-during-covid-19",
-"https://rebeccaseawright.com/issues/higher-education",
-"https://rebeccaseawright.com/issues/homelessness",
-"https://rebeccaseawright.com/issues/housing",
-"https://rebeccaseawright.com/issues/k-through-12-education",
-"https://rebeccaseawright.com/issues/lgbtq",
-"https://rebeccaseawright.com/issues/senior-citizen-rights",
-"https://rebeccaseawright.com/issues/small-businesses",
-"https://rebeccaseawright.com/issues/transportation",
-"https://rebeccaseawright.com/meetrebecca",
-"https://rebeccaseawright.com/news",
-"https://rebeccaseawright.com/organization-endorsements",
-"https://rebeccaseawright.com/volunteer",
-"https://secure.actblue.com/donate/rebecca-seawright-1",
-"https://spectrumlocalnews.com/nys/central-ny/ny-state-of-politics/2022/02/25/wfp-endorses-stewart-cousins--dozens-of-democratic-lawmakers",
-"https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2022/02/12/funeral-held-for-attorney-who-argued-roe-v--wade",
-"https://tapinto.net/towns/sutton-place-slash-lenox-hill/sections/government/articles/new-coalition-launches-to-support-ukraine",
-"https://timesunion.com/state/article/State-lawmakers-push-for-equal-rights-amendment-16947153.php"
+{
+"text": "Animal Rights",
+"href": "https://rebeccaseawright.com/issues/animal-rights/"
+},
+{
+"text": "As Cuomo Proposes Expansive Equal Rights Amendment Favored in Senate, Assembly Again Passes Narrow Version",
+"href": "https://www.gothamgazette.com/state/9043-cuomo-legislators-seek-2020-agreement-on-expanded-state-equal-rights-amendment"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://rebeccaseawright.com/issues/criminal-justice-reform-2/"
+},
+{
+"text": "Cuomo orders State Police to investigate anti-Semitic graffiti on UES",
+"href": "https://nypost.com/2020/08/13/cuomo-orders-state-police-to-probe-anti-semitic-graffiti-in-nyc/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rebecca-seawright-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://rebeccaseawright.com/organization-endorsements/"
+},
+{
+"text": "Election Reform",
+"href": "https://rebeccaseawright.com/issues/election-reform/"
+},
+{
+"text": "Environmental",
+"href": "https://rebeccaseawright.com/issues/environmental/"
+},
+{
+"text": "Funeral held for attorney who argued Roe V. Wade- February 12, 2022",
+"href": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2022/02/12/funeral-held-for-attorney-who-argued-roe-v--wade"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://rebeccaseawright.com/volunteer/"
+},
+{
+"text": "Gun Reform",
+"href": "https://rebeccaseawright.com/issues/gun-reform/"
+},
+{
+"text": "Health and Safety During COVID-19",
+"href": "https://rebeccaseawright.com/issues/health-and-safety-during-covid-19/"
+},
+{
+"text": "Higher Education",
+"href": "https://rebeccaseawright.com/issues/higher-education/"
+},
+{
+"text": "Homelessness",
+"href": "https://rebeccaseawright.com/issues/homelessness/"
+},
+{
+"text": "Housing",
+"href": "https://rebeccaseawright.com/issues/housing/"
+},
+{
+"text": "ISSUES",
+"href": "https://rebeccaseawright.com/issues/"
+},
+{
+"text": "K-12 Education",
+"href": "https://rebeccaseawright.com/issues/k-through-12-education/"
+},
+{
+"text": "LGBTQ+",
+"href": "https://rebeccaseawright.com/issues/lgbtq/"
+},
+{
+"text": "MEET REBECCA",
+"href": "https://rebeccaseawright.com/meetrebecca/"
+},
+{
+"text": "NEWS",
+"href": "https://rebeccaseawright.com/news/"
+},
+{
+"text": "New Bill That Would Define Consent In New York Has the Support of 2 Weinstein Accusers- April 7, 2021",
+"href": "https://abcnews.go.com/US/bill-define-consent-york-support-weinstein-accusers/story?id=76897871"
+},
+{
+"text": "New Coalition Launches to Support Ukraine",
+"href": "https://www.tapinto.net/towns/sutton-place-slash-lenox-hill/sections/government/articles/new-coalition-launches-to-support-ukraine"
+},
+{
+"text": "New York Assemblywoman target of anti-Semitic vandalism",
+"href": "https://abc7ny.com/anti-semitism-rebecca-seawright-new-york-assemblywoman-upper-east-side/6366424/"
+},
+{
+"text": "New York elections move into 21st century",
+"href": "https://www.cityandstateny.com/articles/policy/technology/new-york-elections-move-into-21st-century.html"
+},
+{
+"text": "Nurses give inside look at ‘nightmare’ NYC-run adult-care center",
+"href": "https://nypost.com/2020/05/17/nurses-give-inside-look-at-nightmare-nyc-run-adult-care-center/"
+},
+{
+"text": "Organization Endorsements",
+"href": "https://rebeccaseawright.com/organization-endorsements/"
+},
+{
+"text": "Paid for by Friends of Rebecca Seawright",
+"href": "https://secure.actblue.com/donate/rebecca-seawright-1"
+},
+{
+"text": "Protecting and Enhancing Women’s Rights",
+"href": "https://rebeccaseawright.com/issues/animal-rights-5/"
+},
+{
+"text": "Public officials, students request CUNY tuition hike freeze",
+"href": "http://kingscountypolitics.com/public-officials-students-request-cuny-tuition-hike-freeze/"
+},
+{
+"text": "Roosevelt Island Tram Should Drop MetroCards, Local Leaders Say",
+"href": "https://patch.com/new-york/upper-east-side-nyc/roosevelt-island-tram-should-drop-metrocards-local-leaders-say"
+},
+{
+"text": "Roosevelt Island residents team up to buy, donate PPE to local hospital",
+"href": "https://www.amny.com/coronavirus/roosevelt-island-residents-team-up-to-buy-donate-ppe-to-local-hospital/"
+},
+{
+"text": "Roosevelt Island's Leaders Must Live There, Under New State Bill",
+"href": "https://patch.com/new-york/upper-east-side-nyc/roosevelt-islands-leaders-must-live-there-under-new-state-bill"
+},
+{
+"text": "SUNY Boss Malatras Must Go for Smearing Cuomo Sex Accuser, 31 Assembly Pols Say",
+"href": "https://nypost.com/2021/12/08/suny-boss-malatras-must-go-31-assembly-members-say/"
+},
+{
+"text": "Seawright Announces Mobile Museum of Tolerance",
+"href": "http://www.ourtownny.com/news/seawright-announces-mobile-museum-of-tolerance-LF1986940"
+},
+{
+"text": "Seawright to City:Reopen Indoor Pools-",
+"href": "http://www.ourtownny.com/home/seawright-to-city-reopen-indoor-pools-BG1282223"
+},
+{
+"text": "Senior Citizen Rights",
+"href": "https://rebeccaseawright.com/issues/senior-citizen-rights/"
+},
+{
+"text": "Small Businesses",
+"href": "https://rebeccaseawright.com/issues/small-businesses/"
+},
+{
+"text": "State Lawmakers Push for Equal Rights Amendment in New York's Constitution- February 26, 2022",
+"href": "https://www.timesunion.com/state/article/State-lawmakers-push-for-equal-rights-amendment-16947153.php"
+},
+{
+"text": "Supplies sent to Coler Hospital on Roosevelt Island following complaints from staffers",
+"href": "https://nypost.com/2020/04/17/coler-hospital-on-roosevelt-island-gets-supplies-after-staff-complaints/"
+},
+{
+"text": "Taxes",
+"href": "https://rebeccaseawright.com/issues/animal-rights-2/"
+},
+{
+"text": "Transportation",
+"href": "https://rebeccaseawright.com/issues/transportation/"
+},
+{
+"text": "Weed-Selling Van on Upper East Side Goes Up In Smoke, Police Say",
+"href": "https://patch.com/new-york/upper-east-side-nyc/weed-selling-van-upper-east-side-towed-after-complaints"
+},
+{
+"text": "Working Families Party Endorses Stewart-Cousins, Dozens of Democratic Lawmakers- February 25, 2022",
+"href": "https://spectrumlocalnews.com/nys/central-ny/ny-state-of-politics/2022/02/25/wfp-endorses-stewart-cousins--dozens-of-democratic-lawmakers"
+},
+{
+"text": "[image: Rebecca Seawright]",
+"href": "https://rebeccaseawright.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.ourtownny.com/news/seawright-announces-mobile-museum-of-tolerance-LF1986940"
+},
+{
+"text": "[image]",
+"href": "https://abcnews.go.com/US/bill-define-consent-york-support-weinstein-accusers/story?id=76897871"
+},
+{
+"text": "[image]",
+"href": "https://nypost.com/2021/12/08/suny-boss-malatras-must-go-31-assembly-members-say/"
+},
+{
+"text": "[image]",
+"href": "https://patch.com/new-york/upper-east-side-nyc/roosevelt-island-tram-should-drop-metrocards-local-leaders-say"
+},
+{
+"text": "[image]",
+"href": "https://patch.com/new-york/upper-east-side-nyc/roosevelt-islands-leaders-must-live-there-under-new-state-bill"
+},
+{
+"text": "[image]",
+"href": "https://patch.com/new-york/upper-east-side-nyc/weed-selling-van-upper-east-side-towed-after-complaints"
+},
+{
+"text": "[image]",
+"href": "https://spectrumlocalnews.com/nys/central-ny/ny-state-of-politics/2022/02/25/wfp-endorses-stewart-cousins--dozens-of-democratic-lawmakers"
+},
+{
+"text": "[image]",
+"href": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2022/02/12/funeral-held-for-attorney-who-argued-roe-v--wade"
+},
+{
+"text": "[image]",
+"href": "https://www.tapinto.net/towns/sutton-place-slash-lenox-hill/sections/government/articles/new-coalition-launches-to-support-ukraine"
+},
+{
+"text": "[image]",
+"href": "https://www.timesunion.com/state/article/State-lawmakers-push-for-equal-rights-amendment-16947153.php"
+},
+{
+"text": "‘We Will Not be Intimidated’: Seawright on Anti-Semitic Graffiti",
+"href": "http://www.ourtownny.com/news/we-will-not-be-intimidated-seawright-on-anti-semitic-graffiti-FL1269043"
+}
 ]

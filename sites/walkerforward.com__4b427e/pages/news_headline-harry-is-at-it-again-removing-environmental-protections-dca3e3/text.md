@@ -1,5 +1,4 @@
-Headline Harry is at it Again: Removing Environmental Protections
-Governor Walz came out yesterday and announced that he'd signed an executive order banning mining in Minnesota near the Boundary Waters.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Headline Harry is at it Again: Removing Environmental Protections Aug 19 Written By Brian Walker Governor Walz came out yesterday and announced that he'd signed an executive order banning mining in Minnesota near the Boundary Waters.
 It didn't take long for Headline Harry to come out and voice his opposition, saying Governor Walz was acting like a king and that he "doesn't actually care about the people of Northern Minnesota." Ironic coming from a guy who's likely never spent a night out there, but that's another story.
 Let's be real here, copper nickel mining isn't 100% safe.
 There is always a leak at a mine, tailing dam failures and a host of other issues.
@@ -25,25 +24,29 @@ When it's mining near the BWCA, Harry calls the Governor a king for protecting o
 When it's a data center that wants to skip the line on water and environmental review, that's apparently just fine.
 Pick a lane, Harry.
 To truly understand what is at stake with mining near the BWCA, one would actually need to visit this amazing place.
-Every single year without fail I visit the BWCA for at least a week.
+Every single year without fail I visit the BWCA for at least a week .
 To travel to some of the remote less traveled lakes is like going to another world.
 Tripping in the BWCA isn't for the faint of heart though.
 It's work, hard work to get to the remoteness of the wilderness, where if you're lucky you won't see another soul and have some of the best fishing imaginable.
 I'm pretty sure that Headline Harry has never been and wouldn't be able to survive on our trips.
 So I have a suggestion, until these people who want to destroy the BWCA can actually go do a week there, they should just leave it alone because they have zero idea what they want to destroy.
 P.S.
-Before Harry says "but I signed HF16, regulating data centers," we think it's important for everyone to know exactly what that bill does, and more importantly, doesn't actually do:
-- The water language in HF16 doesn't require data centers to report anything new.
+Before Harry says "but I signed HF16, regulating data centers," we think it's important for everyone to know exactly what that bill does, and more importantly, doesn't actually do: The water language in HF16 doesn't require data centers to report anything new.
 The reporting requirement already existed before the bill passed.
-- The one new water review process in the bill is optional.
+The one new water review process in the bill is optional.
 The DNR can ask a data center for information before it applies for a permit, but it doesn't have to.
-- Whatever information does get shared in that review gets classified as nonpublic.
+Whatever information does get shared in that review gets classified as nonpublic.
 So the public can't see it, even by filing a records request.
-- The bill lets utilities offer data centers a "clean energy" tariff, but that term is never actually defined.
+The bill lets utilities offer data centers a "clean energy" tariff, but that term is never actually defined.
 It could mean real renewable power, or it could mean gas with a filter on it.
-- Data centers can get excluded from Minnesota's solar and conservation requirements entirely.
+Data centers can get excluded from Minnesota's solar and conservation requirements entirely.
 In exchange they pay a flat annual fee, capped based on size, that goes to weatherization programs, not to protecting the rest of us from higher bills.
-- The one tax break Harry's caucus made sure got extended, the sales tax exemption on data center equipment, now runs out in the 2070s instead of 2042.
+The one tax break Harry's caucus made sure got extended, the sales tax exemption on data center equipment, now runs out in the 2070s instead of 2042.
 So when Harry tells you he's got a track record of standing up to Big Tech on the environment, ask him why the fine print reads the opposite way.
 That's not a guardrail.
 That's a permission slip with good PR.
+Donate Brian Walker Previous Previous Endorsement Alert: Mike Foley, former GOP Congressional Candidate Next Next A Primary Recovery Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

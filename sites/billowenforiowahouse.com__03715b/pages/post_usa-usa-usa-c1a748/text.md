@@ -1,13 +1,12 @@
+top of page PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close Bill Owen Bill Owen Bill Owen Bill Owen District 11 Map Donate All Posts News USA!
 USA!
 USA!
-USA!
-I’ve never been a “doom and gloom” person.
+May 20 2 min read I’ve never been a “doom and gloom” person.
 I’ve done my best to be positive in my work and home life.
 In return, life has rewarded me with blessings and happiness.
 Until recently.
 Recently there seems to be a dark cloud hanging over the USA and over Iowa, and I fear it could be infectious.
-I feel
-motivated to say and do something, partly due to a conversation with a young mother the other day.
+I feel motivated to say and do something, partly due to a conversation with a young mother the other day.
 She is 35ish, married, and a mother of 3.
 She is civic minded.
 She wants to help make her community better and does so at every opportunity.
@@ -27,3 +26,4 @@ We have four sons who served, one of them interred in the Veterans Cemetery near
 I will, therefore, say what I wish and expect you to defend my right to say it.
 And to the fake king and those who still bow to him and his ilk, I say America, Love it or Leave It!
 Oh, and if the term shit-hole country offends you, it should!
+News Recent Posts See All Bill Owen Talks Education, Skilled Trades, and Wages in Coon Rapids Making Sense of Cancer and Your Water OMG a Democrat PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP Menu Close (712) 571-8544 billowenforiowahouse@gmail.com Design by SPB Website Designs Paid for by Bill Owen for Iowa House Privacy Policy PRIORITIES MEET BILL NEWS GET INVOLVED EVENTS DONATE $ 👕 SHIRTS ENDORSEMENTS DISTRICT 11 MAP ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

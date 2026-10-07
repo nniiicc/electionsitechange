@@ -1,8 +1,6 @@
-ABOUT
-Senator Kandie D.
-Smith
-PUBLIC SERVICE & LEADERSHIP
-Senator Kandie D.
+top of page KANDIE SMITH STATE SENATE Home Priorities About Updates Donation Contact More Use tab to navigate through the menu items.
+SUBSCRIBE TO NEWSLETTER ABOUT Senator Kandie D.
+Smith PUBLIC SERVICE & LEADERSHIP Senator Kandie D.
 Smith proudly represents North Carolina’s 5th Senate District, which includes communities in Edgecombe and Pitt Counties.
 She began her legislative career in the North Carolina House of Representatives in 2018, serving two terms before being elected to the North Carolina Senate in 2022.
 Senator Smith’s commitment to public service began at the local level in Greenville, where she was first elected to the City Council in 2009.
@@ -18,4 +16,4 @@ She currently serves as Social Action Co-Chair for her chapter, leading efforts 
 Born in Spartanburg, South Carolina, Senator Smith was raised in New Prospect AME Zion Church, where she developed many of the values that continue to guide her life and service.
 She is currently a member of York Memorial AME Zion Church in Greenville, North Carolina, where she has served as a Steward, Trustee, and now as a District Trustee.
 Deeply committed to youth development, she draws from her own experiences growing up in the AME Zion Church to encourage and support young people in learning about Christ and becoming engaged citizens.
-Senator Smith is widely recognized for her authenticity, her ability to connect with people, and her tireless advocacy on behalf of the communities she serves
+Senator Smith is widely recognized for her authenticity, her ability to connect with people, and her tireless advocacy on behalf of the communities she serves KANDIE SMITH - STATE SENATE - Terms & Conditions Privacy Policy Accessibility Statement Paid for by Kandie Smith for NC PO Box 1832 Greenville, NC bottom of page

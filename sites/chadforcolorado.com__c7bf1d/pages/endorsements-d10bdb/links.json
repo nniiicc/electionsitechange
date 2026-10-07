@@ -1,75 +1,310 @@
 [
-"http://secure.actblue.com/donate/chadclifford",
-"http://sullivanforcolorado.com/",
-"https://amypadden.com/",
-"https://amytharpforcentennial.com/",
-"https://andybforcolorado.com/",
-"https://barbaramclachlan.com/",
-"https://briannaforco.com/",
-"https://bridgesforcolorado.com/",
-"https://carrie4commissioner.com/",
-"https://cathykipp.com/",
-"https://chadforcolorado.com/about",
-"https://chadforcolorado.com/contact",
-"https://chadforcolorado.com/contribute",
-"https://chadforcolorado.com/creatingleaderspac",
-"https://chadforcolorado.com/endorsements",
-"https://chadforcolorado.com/events-1",
-"https://chadforcolorado.com/get-involved",
-"https://chadforcolorado.com/meet-chad",
-"https://chadforcolorado.com/newsletters",
-"https://chadforcolorado.com/priorities",
-"https://chadforcolorado.com/subscribe",
-"https://chadforcolorado.com/team",
-"https://colemanforcolorado.com/",
-"https://custom-protection.com/",
-"https://dafnaforcolorado.com/",
-"https://daveyoungforcolorado.com/",
-"https://electjenniferbacon.com/",
-"https://elizabethforcolorado.com/",
-"https://elizaforcolorado.com/",
-"https://emilyforcolorado.com/",
-"https://facebook.com/NickForColorado",
-"https://facebook.com/chadforcolorado",
-"https://froelichforcolorado.com/",
-"https://gretchenforcolorado.com/",
-"https://imanforcolorado.com/",
-"https://instagram.com/leslieherod?hl=en",
-"https://janetbuckner.com/",
-"https://jasoncrowforcongress.com/",
-"https://javierforcolorado.com/",
-"https://jennyforcolorado.com/",
-"https://joan4lps.com/about",
-"https://judyforcolorado.com/",
-"https://juliamarvin.com/",
-"https://julieforcolorado.com/",
-"https://karenforco.com/",
-"https://kolkerforcolorado.com/",
-"https://kyleforcolorado.com/",
-"https://liederforcolorado.com/",
-"https://lindseyforcolorado.com/",
-"https://mandyforcolorado.com/",
-"https://mannyforcolorado.com/",
-"https://martinezhd62.com/",
-"https://maryyoungforcolorado.com/",
-"https://mcclellanforcolorado.com/about-rebe",
-"https://mccluskieforco.com/",
-"https://meghanlukens.com/",
-"https://michaelbennet.com/",
-"https://mikeweissman.com/",
-"https://monicaduran.com/",
-"https://philforcolorado.com/",
-"https://rachelforcolorado.com/",
-"https://rhondafields.com/",
-"https://ricks4co.com/",
-"https://sonyaforcolorado.com/",
-"https://stephanievigil.com/",
-"https://story4co.com/",
-"https://sweetlandforcentennial.com/",
-"https://tishamauroforpueblo.com/",
-"https://tonyexum.com/",
-"https://twitter.com/chadclifford",
-"https://tylerbrownforsheriff.com/",
-"https://vote4kaiser.com/wp",
-"https://williamforcolorado.com/"
+{
+"text": "Contact",
+"href": "https://www.chadforcolorado.com/contact"
+},
+{
+"text": "Creating Leaders PAC",
+"href": "https://www.chadforcolorado.com/creatingleaderspac"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/chadclifford"
+},
+{
+"text": "District 37",
+"href": "https://www.chadforcolorado.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.chadforcolorado.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chadforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.chadforcolorado.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chadforcolorado.com/get-involved"
+},
+{
+"text": "Meet Chad",
+"href": "https://www.chadforcolorado.com/meet-chad"
+},
+{
+"text": "Newsletters",
+"href": "https://www.chadforcolorado.com/newsletters"
+},
+{
+"text": "Priorities",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Subscribe",
+"href": "https://www.chadforcolorado.com/subscribe"
+},
+{
+"text": "Team",
+"href": "https://www.chadforcolorado.com/team"
+},
+{
+"text": "[image: 1000053751_edited.jpg]",
+"href": "https://www.liederforcolorado.com/"
+},
+{
+"text": "[image: 2024a_bacon,jennifer.jpg]",
+"href": "https://www.electjenniferbacon.com/"
+},
+{
+"text": "[image: 2024a_boesenecker,andrew.jpg]",
+"href": "https://www.andybforcolorado.com/"
+},
+{
+"text": "[image: 2024a_bridges,jeff.jpg]",
+"href": "https://www.bridgesforcolorado.com/"
+},
+{
+"text": "[image: 2024a_buckner,janet-.jpg]",
+"href": "https://janetbuckner.com/"
+},
+{
+"text": "[image: 2024a_coleman,james.jpg]",
+"href": "https://colemanforcolorado.com/"
+},
+{
+"text": "[image: 2024a_exum,tony sr.jpg]",
+"href": "https://tonyexum.com/"
+},
+{
+"text": "[image: 2024a_fields,rhonda.jpg]",
+"href": "https://www.rhondafields.com/"
+},
+{
+"text": "[image: 2024a_herod,leslie.jpg]",
+"href": "https://www.instagram.com/leslieherod/?hl=en"
+},
+{
+"text": "[image: 2024a_kipp,cathy-.jpg]",
+"href": "https://cathykipp.com/"
+},
+{
+"text": "[image: 2024a_kolker,chris.jpg]",
+"href": "https://www.kolkerforcolorado.com/"
+},
+{
+"text": "[image: 2024a_kyle brown.jpg]",
+"href": "https://kyleforcolorado.com/"
+},
+{
+"text": "[image: 2024a_lukens,meghan.jpg]",
+"href": "https://www.meghanlukens.com/"
+},
+{
+"text": "[image: 2024a_martinez,matthew.jpg]",
+"href": "https://www.martinezhd62.com/"
+},
+{
+"text": "[image: 2024a_marvin_julia-h-.jpg]",
+"href": "https://www.juliamarvin.com/"
+},
+{
+"text": "[image: 2024a_mccluskie, julie - speaker.jpg]",
+"href": "https://mccluskieforco.com/"
+},
+{
+"text": "[image: 2024a_mccormick,karen.jpg]",
+"href": "https://karenforco.com/"
+},
+{
+"text": "[image: 2024a_mclachlan,barbara.jpg]",
+"href": "https://barbaramclachlan.com/"
+},
+{
+"text": "[image: 2024a_ricks,naquetta-.jpg]",
+"href": "https://www.ricks4co.com/"
+},
+{
+"text": "[image: 2024a_titone,brianna.jpg]",
+"href": "https://www.briannaforco.com/"
+},
+{
+"text": "[image: 2024a_vigil,stephanie.jpg]",
+"href": "https://www.stephanievigil.com/"
+},
+{
+"text": "[image: 2024a_weissman,mike.jpg]",
+"href": "https://www.mikeweissman.com/"
+},
+{
+"text": "[image: 2024a_young,mary.jpg]",
+"href": "https://maryyoungforcolorado.com/"
+},
+{
+"text": "[image: 2403.jpg]",
+"href": "https://javierforcolorado.com/"
+},
+{
+"text": "[image: 438239717_982925030505533_156517203830132538_n.jpg]",
+"href": "https://mcclellanforcolorado.com/about-rebe"
+},
+{
+"text": "[image: 9bfb16_e0ebb61af16d42da8676c1a6853f1c4d~mv2.webp]",
+"href": "https://www.joan4lps.com/about"
+},
+{
+"text": "[image: Amy-Tharp-Campaign-Photo-2023-scaled-e1697757470927.jpg]",
+"href": "https://amytharpforcentennial.com/"
+},
+{
+"text": "[image: Bennet.jpg]",
+"href": "https://michaelbennet.com/"
+},
+{
+"text": "[image: C5A08D0B-BA8F-4615-A0DE-C88F6845B17C2014]",
+"href": "https://www.instagram.com/leslieherod/?hl=en"
+},
+{
+"text": "[image: Carrie-headshot2_edited.jpg]",
+"href": "https://www.carrie4commissioner.com/"
+},
+{
+"text": "[image: DCC-Z-Judy-Amabile.webp]",
+"href": "https://www.judyforcolorado.com/"
+},
+{
+"text": "[image: Danielson.jpg]",
+"href": "https://www.gretchenforcolorado.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/chadforcolorado"
+},
+{
+"text": "[image: Front+page+photo_edited.jpg]",
+"href": "https://www.rachelforcolorado.com/"
+},
+{
+"text": "[image: Headshot maroon_edited.jpg]",
+"href": "https://sweetlandforcentennial.com/"
+},
+{
+"text": "[image: IMG_4857_edited.jpg]",
+"href": "https://www.julieforcolorado.com/"
+},
+{
+"text": "[image: IMG_5341.heic]",
+"href": "https://www.elizabethforcolorado.com/"
+},
+{
+"text": "[image: Iman_Jodeh_0.jpg]",
+"href": "https://www.imanforcolorado.com/"
+},
+{
+"text": "[image: Ktbm17PP_400x400.jpg]",
+"href": "https://www.williamforcolorado.com/"
+},
+{
+"text": "[image: L4CAHeadshots-MegFroelich.png]",
+"href": "https://www.froelichforcolorado.com/"
+},
+{
+"text": "[image: Lindsey-Daugherty-News-Canvas-Rebel-Interview.png]",
+"href": "https://www.lindseyforcolorado.com/"
+},
+{
+"text": "[image: MG_0491-scaled-1-e1690845700226.jpg]",
+"href": "https://dafnaforcolorado.com/"
+},
+{
+"text": "[image: Main Photo_edited_edited.jpg]",
+"href": "https://www.monicaduran.com/"
+},
+{
+"text": "[image: MandyLindsay.jpg]",
+"href": "https://mandyforcolorado.com/"
+},
+{
+"text": "[image: Nick+Hinrichsen+(3).jpg]",
+"href": "https://www.facebook.com/NickForColorado/"
+},
+{
+"text": "[image: Screenshot 2024-06-20 at 5.08.52 PM.jpg]",
+"href": "https://www.gretchenforcolorado.com/"
+},
+{
+"text": "[image: Tisha+Mauro+(3).jpg]",
+"href": "https://tishamauroforpueblo.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/chadclifford"
+},
+{
+"text": "[image: amy-headshot.webp]",
+"href": "https://www.amypadden.com/"
+},
+{
+"text": "[image: b750f9_53c77446fe814a54adbbd8ae62b25469~mv2.webp]",
+"href": "https://www.tylerbrownforsheriff.com/"
+},
+{
+"text": "[image: bcba97_d7074c07d23b4e8d9f6f0eda169ad61e~mv2_d_4471_2981_s_4_2.webp]",
+"href": "https://www.emilyforcolorado.com/"
+},
+{
+"text": "[image: cR5h7Brb_400x400.png]",
+"href": "https://jasoncrowforcongress.com/"
+},
+{
+"text": "[image: fullsizeoutput_f.jpeg]",
+"href": "https://www.daveyoungforcolorado.com/"
+},
+{
+"text": "[image: hamrick.jpg]",
+"href": "https://elizaforcolorado.com/"
+},
+{
+"text": "[image: images (3).jpeg]",
+"href": "https://www.story4co.com/"
+},
+{
+"text": "[image: images (5).jpeg]",
+"href": "https://vote4kaiser.com/wp/"
+},
+{
+"text": "[image: images (6)_edited.jpg]",
+"href": "https://www.jennyforcolorado.com/"
+},
+{
+"text": "[image: images.jpeg]",
+"href": "http://sullivanforcolorado.com/"
+},
+{
+"text": "[image: manny_rutinel.jpg]",
+"href": "https://www.mannyforcolorado.com/"
+},
+{
+"text": "[image: marlo-alston-headshot-2024_edited.jpg]",
+"href": "http://sullivanforcolorado.com/"
+},
+{
+"text": "[image: mzyiKfCk_400x400.jpg]",
+"href": "https://sonyaforcolorado.com/"
+},
+{
+"text": "[image: phil-weiser_headshot.jpg]",
+"href": "https://www.philforcolorado.com/"
+},
+{
+"text": "[image: valdan_vandemark_3-1-e1697666280178.webp]",
+"href": "https://www.custom-protection.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.chadforcolorado.com/meet-chad"
+}
 ]

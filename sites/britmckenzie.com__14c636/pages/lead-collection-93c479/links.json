@@ -1,7 +1,26 @@
 [
-"https://facebook.com/BritMcKenzieAR",
-"https://facebook.com/britmckenziear",
-"https://instagram.com/britmckenziear",
-"https://twitter.com/BritMcKenzieAR",
-"https://twitter.com/britmckenziear"
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BritMcKenzieAR"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/britmckenziear"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/britmckenziear"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/britmckenziear/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/britmckenziear"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/BritMcKenzieAR"
+}
 ]

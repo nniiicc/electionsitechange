@@ -1,21 +1,14 @@
-RE-ELECT
-MARK WALCZYK
-The Principled Fighter We Need
-We need a fighter with North Country values and Upstate principles to represent us in Albany.
-As a Senator, Mark has been fighting for families, calling out corruption, promoting the economy, defending the future of our region, and the Constitution.
-A Christian, family man, and soldier, it's:
-1.
+top of page M A R K WALCZYK PRINCIPLED FIGHTER Home About Get Involved Contact Events ​Front Yard Of America Classic DONATE SUBSCRIBE YARD SIGNS DONATE Freedom First, New York Always.
+Mark Walczyk, the principled fighter we need to represent us in the 49th New York State Senate District. ​ ​ ​ Subscribe ENOUGH IS ENOUGH Join The Fight DONATE SUBSCRIBE VOLUNTEER RE-ELECT MARK WALCZYK The Principled Fighter We Need We need a fighter with North Country values and Upstate principles to represent us in Albany.
+As a Senator, Mark has been fighting for families, calling out corruption, promoting the economy, defending the future of our region, and the Constitution. ​ A Christian, family man, and soldier, it's: 1.
 God, 2.
 Family, 3.
-Country
-Senator Walczyk is a high energy representative of the people who has always put principles over politics.
+Country Senator Walczyk is a high energy representative of the people who has always put principles over politics.
 He stood up to Hochul and he'll stand up for us.
 Mark has proven himself to be a force that Albany Democrats are afraid to debate.
 His record as a fighter in the New York State Senate is exactly what NY needs.
 Re-elect Mark Walczyk this November.
-On The Issues
-Energy- Senate Bill S9005A
-“This act shall be known and may be cited as the "New York State grid reliability and energy affordability transition (GREAT) act." Who came up with that name?
+FOLLOW MARK ON SOCIAL MEDIA On The Issues Energy- Senate Bill S9005A “This act shall be known and may be cited as the "New York State grid reliability and energy affordability transition (GREAT) act." Who came up with that name?
 I’d call it: “The we’ll control your thermostat for your own good act” It’s definitely not GREAT.
 They’re creating in New York State something they call a "virtual power plant." What the heck is that?
 A lie.
@@ -32,3 +25,5 @@ No.
 New Yorkers – wake up.
 The Governor, all the NY Senate, and NY Assembly are up for election this year.
 Look at their voting records, set partisan views aside, and make a plan to cast your vote in November.
+FREEDOM FIRST New York Always DONATE VOLUNTEER SUBSCRIBE ​ Get the latest updates from the campaign trail First Name Enter your email address Subscribe Thanks for subscribing!
+Home About Endorsements Get Involved Contact ​ MARK WALCZYK - FOR SENATE - © # paid for by the Friends of Walczyk Friends of Walczyk 1 Public Square, Box 11B Watertown, NY 13601 Email Our Team (315) 608-3023 bottom of page

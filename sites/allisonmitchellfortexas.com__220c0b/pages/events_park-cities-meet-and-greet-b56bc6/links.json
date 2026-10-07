@@ -1,30 +1,130 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Park+Cities+Meet+and+Greet&dates=20250913T200000Z%2F20250913T220000Z",
-"https://allisonmitchellfortexas.com/",
-"https://allisonmitchellfortexas.com/about",
-"https://allisonmitchellfortexas.com/about-allison",
-"https://allisonmitchellfortexas.com/cart",
-"https://allisonmitchellfortexas.com/contact",
-"https://allisonmitchellfortexas.com/donate",
-"https://allisonmitchellfortexas.com/endorsement",
-"https://allisonmitchellfortexas.com/events",
-"https://allisonmitchellfortexas.com/events/park-cities-meet-and-greet?format=ical",
-"https://allisonmitchellfortexas.com/events/public-education-forum",
-"https://allisonmitchellfortexas.com/events/save-the-date-campaign-kickoff",
-"https://allisonmitchellfortexas.com/house-district-108",
-"https://allisonmitchellfortexas.com/in-the-news",
-"https://allisonmitchellfortexas.com/meet-allison",
-"https://allisonmitchellfortexas.com/s/PrivacyPolicy.pdf",
-"https://allisonmitchellfortexas.com/show-your-support",
-"https://allisonmitchellfortexas.com/theissues",
-"https://allisonmitchellfortexas.com/volunteer",
-"https://allisonmitchellfortexas.com/voter-information",
-"https://allisonmitchellfortexas.com/voting",
-"https://allisonmitchellfortexas.com/yard-sign",
-"https://facebook.com/allisonmitchellfortexas",
-"https://instagram.com/allisonmitchellfortexas",
-"https://secure.actblue.com/donate/allison-mitchell-1",
-"https://secure.actblue.com/donate/allisonmitchell",
-"https://tiktok.com/@allisonmitchellfortexas",
-"https://youtube.com/@AllisonMitchellForTexas"
+{
+"text": "0",
+"href": "https://www.allisonmitchellfortexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.allisonmitchellfortexas.com/about"
+},
+{
+"text": "About Allison",
+"href": "https://www.allisonmitchellfortexas.com/about-allison"
+},
+{
+"text": "Back",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.allisonmitchellfortexas.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.allisonmitchellfortexas.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/allisonmitchell"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allison-mitchell-1"
+},
+{
+"text": "Donate",
+"href": "https://www.allisonmitchellfortexas.com/donate"
+},
+{
+"text": "Endorsement",
+"href": "https://www.allisonmitchellfortexas.com/endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.allisonmitchellfortexas.com/events"
+},
+{
+"text": "Folder: Meet Allison",
+"href": "https://www.allisonmitchellfortexas.com/meet-allison"
+},
+{
+"text": "Folder: Show Your Support",
+"href": "https://www.allisonmitchellfortexas.com/show-your-support"
+},
+{
+"text": "Folder: Voter Information",
+"href": "https://www.allisonmitchellfortexas.com/voter-information"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Park+Cities+Meet+and+Greet&dates=20250913T200000Z%2F20250913T220000Z"
+},
+{
+"text": "Home",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "House District 108",
+"href": "https://www.allisonmitchellfortexas.com/house-district-108"
+},
+{
+"text": "ICS",
+"href": "https://www.allisonmitchellfortexas.com/events/park-cities-meet-and-greet?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.allisonmitchellfortexas.com/in-the-news"
+},
+{
+"text": "Next Next September 24 Public Education Forum",
+"href": "https://www.allisonmitchellfortexas.com/events/public-education-forum"
+},
+{
+"text": "Previous Previous June 12 CAMPAIGN KICKOFF",
+"href": "https://www.allisonmitchellfortexas.com/events/save-the-date-campaign-kickoff"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.allisonmitchellfortexas.com/s/PrivacyPolicy.pdf"
+},
+{
+"text": "RSVP HERE",
+"href": "mailto:info@allisonmitchellfortexas.com?bcc=manager%40allisonmitchellfortexas.com&subject=RSVP%3A+Sept.+13+Meet+and+Greet&body=I+am+confirming+my+attendance+for+the+event.+Please+forward+the+address+at+your+earliest+convenience."
+},
+{
+"text": "The Issues",
+"href": "https://www.allisonmitchellfortexas.com/theissues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.allisonmitchellfortexas.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.allisonmitchellfortexas.com/voting"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.allisonmitchellfortexas.com/yard-sign"
+},
+{
+"text": "[image: Allison Mitchell for Texas House]",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AllisonMitchellForTexas"
+}
 ]

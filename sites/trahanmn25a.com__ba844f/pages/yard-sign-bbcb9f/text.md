@@ -1,6 +1,6 @@
-Request a Yard Sign
-Show your support for our campaign by requesting a yard sign today!
+Meet Brad Issues News Volunteer Contribute Request a Yard Sign Show your support for our campaign by requesting a yard sign today!
 Every sign helps spread our message across neighborhoods and lets others know you stand with our vision for a stronger, more affordable, and safer Minnesota.
 It’s a simple but powerful way to support the campaign right from your own front yard.
 If you’d like a yard sign, please reach out and we’ll make sure one gets delivered to you.
 Thank you for standing with the Brad Trahan for MN House District 25A campaign, and being part of the team!
+First Name Last Name Email Phone Address City/Town State Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip Submit Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect Brad Trahan Powered by CampaignPartner.com - Political Campaign Websites Home Meet Brad Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

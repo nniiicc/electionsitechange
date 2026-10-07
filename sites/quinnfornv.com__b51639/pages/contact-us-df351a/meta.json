@@ -1,9 +1,9 @@
 {
  "description": "Contact Kelly Quinn to share your thoughts and questions about the Nevada State Assembly. Use our contact form for quick communication.",
  "final_url": "https://quinnfornv.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "527256f5e07936880004c8d177fe45cdeba6365c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Kelly Quinn Assembly 5",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

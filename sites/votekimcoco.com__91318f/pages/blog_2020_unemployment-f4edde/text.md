@@ -1,5 +1,4 @@
-DISTRICT 26 HIT HARD BY CRISIS
-DISTRICT 26 IS HARDEST HIT BY UNEMPLOYMENT.
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me DISTRICT 26 HIT HARD BY CRISIS DISTRICT 26 IS HARDEST HIT BY UNEMPLOYMENT.
 ISN’T IT TIME FOR CHANGE?
 June 2, 2020 — I hope that you and your loved ones have remained in good health during this pandemic.
 We have been reminded that our welfare and wellbeing are inextricably connected and we can only get through this together.
@@ -19,6 +18,8 @@ Well, its raining hunger right now and the mudslides into homelessness are not f
 This is why we need new leadership today.
 It’s time to tell our current Representative, that after 26 years, it's time that our community is represented by an advocate for the people, who knows that government should help its people - not obstruct, not divert, not delay help from getting to them.
 I ask you to join our campaign to bring proactive leadership to our capitol.
-Kim Coco Iwamoto
-P.S. - Read our June 2 campaign newsletter here and join the movement.
+Kim Coco Iwamoto P.S. - Read our June 2 campaign newsletter here and join the movement.
 Let your voice be heard at the August 8 election for State House Representative of District 26.
+Kim Coco Iwamoto June 2, 2020 Facebook 0 Twitter Tumblr 0 Likes Previous PETITION FOR CHANGE Kim Coco Iwamoto June 10, 2020 Next ALOHA NEIGHBOR Kim Coco Iwamoto February 20, 2020 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

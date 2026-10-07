@@ -1,16 +1,78 @@
 [
-"https://facebook.com/RonRussellforCongress",
-"https://instagram.com/ronrussellforcongress",
-"https://ronrussellforcongress.com/",
-"https://ronrussellforcongress.com/about",
-"https://ronrussellforcongress.com/contact",
-"https://ronrussellforcongress.com/event/election-campaign-presentation",
-"https://ronrussellforcongress.com/events",
-"https://ronrussellforcongress.com/events/tag/presentation/list",
-"https://ronrussellforcongress.com/events/tag/presentation/list?eventDisplay=past",
-"https://ronrussellforcongress.com/issues",
-"https://ronrussellforcongress.com/privacy-policy",
-"https://ronrussellforcongress.com/volunteers",
-"https://secure.winred.com/russell-for-congress/donate-today",
-"https://x.com/RussellForHouse"
+{
+"text": "#ago",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "(207) 604-3491",
+"href": "tel://207%20604-3491"
+},
+{
+"text": "About",
+"href": "https://ronrussellforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ronrussellforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/russell-for-congress/donate-today"
+},
+{
+"text": "Election Campaign Presentation",
+"href": "https://ronrussellforcongress.com/event/election-campaign-presentation/"
+},
+{
+"text": "Events",
+"href": "https://ronrussellforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://ronrussellforcongress.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://ronrussellforcongress.com/volunteers/"
+},
+{
+"text": "List",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://ronrussellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Ron Russell] [image: Ron Russell]",
+"href": "https://ronrussellforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://ronrussellforcongress.com/event/election-campaign-presentation/"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RonRussellforCongress/"
+},
+{
+"text": "[tooltip: Previous Events]",
+"href": "https://ronrussellforcongress.com/events/tag/presentation/list/?eventDisplay=past"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/RussellForHouse/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/ronrussellforcongress/"
+}
 ]

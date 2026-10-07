@@ -1,19 +1,102 @@
 [
-"https://erica4ok.com/",
-"https://erica4ok.com/cart",
-"https://erica4ok.com/erica-story",
-"https://erica4ok.com/issue-category/accountability",
-"https://erica4ok.com/issue-category/affordability",
-"https://erica4ok.com/issue-category/freedom",
-"https://erica4ok.com/issue-category/people",
-"https://erica4ok.com/issues-priorities",
-"https://erica4ok.com/privacy",
-"https://erica4ok.com/take-action",
-"https://facebook.com/erica4ok",
-"https://forms.gle/XNcejmN8y9tZiTMe8",
-"https://instagram.com/erica4ok",
-"https://secure.actblue.com/donate/erica4okcd1",
-"https://tiktok.com/@erica4ok",
-"https://x.com/erica4ok",
-"https://youtube.com/@erica4ok"
+{
+"text": "0",
+"href": "https://erica4ok.com/cart/"
+},
+{
+"text": "Accountability",
+"href": "https://erica4ok.com/issue-category/accountability/"
+},
+{
+"text": "Affordability",
+"href": "https://erica4ok.com/issue-category/affordability/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/erica4okcd1"
+},
+{
+"text": "Erica’s Story",
+"href": "https://erica4ok.com/erica-story/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/erica4ok"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/erica4ok"
+},
+{
+"text": "Freedom",
+"href": "https://erica4ok.com/issue-category/freedom/"
+},
+{
+"text": "Home",
+"href": "https://erica4ok.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erica4ok"
+},
+{
+"text": "Issues",
+"href": "https://erica4ok.com/issues-priorities/"
+},
+{
+"text": "People",
+"href": "https://erica4ok.com/issue-category/people/"
+},
+{
+"text": "Take Action",
+"href": "https://erica4ok.com/take-action/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@erica4ok"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/erica4ok"
+},
+{
+"text": "View Category: Accountability",
+"href": "https://erica4ok.com/issue-category/accountability/"
+},
+{
+"text": "View Category: Affordability",
+"href": "https://erica4ok.com/issue-category/affordability/"
+},
+{
+"text": "View Category: Freedom",
+"href": "https://erica4ok.com/issue-category/freedom/"
+},
+{
+"text": "View Category: People",
+"href": "https://erica4ok.com/issue-category/people/"
+},
+{
+"text": "View Privacy Policy and Terms",
+"href": "https://erica4ok.com/privacy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/erica4ok"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@erica4ok"
+},
+{
+"text": "[image: Erica Watkins for Oklahoma]",
+"href": "https://erica4ok.com"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/XNcejmN8y9tZiTMe8"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@erica4ok"
+}
 ]

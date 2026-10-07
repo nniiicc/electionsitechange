@@ -1,37 +1,170 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=McGovern+Day+Rally&dates=20250503T220000Z%2F20250504T020000Z&location=12151+Avenue+of+the+Chiefs%2C+Custer%2C+SD%2C+57730%2C+United+States",
-"http://maps.google.com/?q=12151+Avenue+of+the+Chiefs+Custer%2C+SD%2C+57730+United+States",
-"https://facebook.com/RepNicoleUhreBalk",
-"https://facebook.com/custercountydemocratsofsouthdakota",
-"https://instagram.com/nicoleforhouse",
-"https://nicoleforhouse.com/",
-"https://nicoleforhouse.com/about",
-"https://nicoleforhouse.com/bulletin",
-"https://nicoleforhouse.com/calendar",
-"https://nicoleforhouse.com/calendar/0im3zndh6m4pb84jiyvrqeo9lphdjv-szk7m",
-"https://nicoleforhouse.com/calendar/join-nicole-uhre-balk-on-facebook-live",
-"https://nicoleforhouse.com/calendar/mcgovern-day-rally?format=ical",
-"https://nicoleforhouse.com/cart",
-"https://nicoleforhouse.com/contact",
-"https://nicoleforhouse.com/donate",
-"https://nicoleforhouse.com/endorsements-2026",
-"https://nicoleforhouse.com/get-involved",
-"https://nicoleforhouse.com/home",
-"https://nicoleforhouse.com/host-a-yard-sign",
-"https://nicoleforhouse.com/legislative-work",
-"https://nicoleforhouse.com/media",
-"https://nicoleforhouse.com/meet-nicole",
-"https://nicoleforhouse.com/scorecards",
-"https://nicoleforhouse.com/take-action",
-"https://nicoleforhouse.com/vision-for-south-dakota",
-"https://sdlegislature.gov/Legislators/Profile/4693/Detail",
-"https://secure.actblue.com/donate/mcgoverncuster",
-"https://secure.actblue.com/donate/nicoleforhouse",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=100",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=25",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=250",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=50",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=500",
-"https://secure.actblue.com/donate/nicoleforhouse?amount=75",
-"https://youtube.com/@nicoleforhouse"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=500"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/nicoleforhouse?amount=75"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=12151+avenue+of+the+chiefs+custer%2C+sd%2C+57730+united+states"
+},
+{
+"text": "0",
+"href": "https://www.nicoleforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.nicoleforhouse.com/calendar"
+},
+{
+"text": "Bulletin",
+"href": "https://www.nicoleforhouse.com/bulletin"
+},
+{
+"text": "Calendar & Events",
+"href": "https://www.nicoleforhouse.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Contact Me",
+"href": "https://www.nicoleforhouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate now. →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donate →",
+"href": "https://secure.actblue.com/donate/nicoleforhouse"
+},
+{
+"text": "Donating by mail? Click here. →",
+"href": "https://www.nicoleforhouse.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicoleforhouse.com/endorsements-2026"
+},
+{
+"text": "Folder: About",
+"href": "https://www.nicoleforhouse.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.nicoleforhouse.com/take-action"
+},
+{
+"text": "Follow us on Facebook",
+"href": "https://facebook.com/custercountydemocratsofsouthdakota"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nicoleforhouse.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=McGovern+Day+Rally&dates=20250503T220000Z%2F20250504T020000Z&location=12151+Avenue+of+the+Chiefs%2C+Custer%2C+SD%2C+57730%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.nicoleforhouse.com/host-a-yard-sign"
+},
+{
+"text": "ICS",
+"href": "https://www.nicoleforhouse.com/calendar/mcgovern-day-rally?format=ical"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.nicoleforhouse.com/legislative-work"
+},
+{
+"text": "Media",
+"href": "https://www.nicoleforhouse.com/media"
+},
+{
+"text": "Meet Nicole",
+"href": "https://www.nicoleforhouse.com/meet-nicole"
+},
+{
+"text": "Next Next May 22 Join Nicole Uhre Balk on Facebook Live!",
+"href": "https://www.nicoleforhouse.com/calendar/join-nicole-uhre-balk-on-facebook-live"
+},
+{
+"text": "Previous Previous April 5 That’s a wrap! End of Legislative Session Wrap Party for Nicole Uhre-Balk",
+"href": "https://www.nicoleforhouse.com/calendar/0im3zndh6m4pb84jiyvrqeo9lphdjv-szk7m"
+},
+{
+"text": "Purchase Tickets →",
+"href": "https://secure.actblue.com/donate/mcgoverncuster"
+},
+{
+"text": "Scorecards",
+"href": "https://www.nicoleforhouse.com/scorecards"
+},
+{
+"text": "Vision For South Dakota",
+"href": "https://www.nicoleforhouse.com/vision-for-south-dakota"
+},
+{
+"text": "[image: nicoleforhouse.com]",
+"href": "https://www.nicoleforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.nicoleforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://sdlegislature.gov/Legislators/Profile/4693/Detail"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepNicoleUhreBalk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nicoleforhouse"
+},
+{
+"text": "[no text]",
+"href": "mailto:nicole.uhre-balk@sdlegislature.gov"
+}
 ]

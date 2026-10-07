@@ -1,15 +1,86 @@
 [
-"https://chipforstaterep.com/",
-"https://chipforstaterep.com/author/eileen_admin",
-"https://chipforstaterep.com/author/vert_admin",
-"https://chipforstaterep.com/category/uncategorized",
-"https://chipforstaterep.com/cdn-cgi/l/email-protection",
-"https://chipforstaterep.com/chips-plan",
-"https://chipforstaterep.com/donate",
-"https://chipforstaterep.com/get-involved",
-"https://chipforstaterep.com/issues-2",
-"https://chipforstaterep.com/meet-chip",
-"https://chipforstaterep.com/newsroom-press",
-"https://chipforstaterep.com/statement-on-water-districts",
-"https://chipforstaterep.com/trivia-night"
+{
+"text": "Chip’s Plan",
+"href": "https://chipforstaterep.com/chips-plan/"
+},
+{
+"text": "Continue reading",
+"href": "https://chipforstaterep.com/statement-on-water-districts/"
+},
+{
+"text": "Continue reading",
+"href": "https://chipforstaterep.com/trivia-night/"
+},
+{
+"text": "Donate",
+"href": "https://chipforstaterep.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://chipforstaterep.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://chipforstaterep.com/"
+},
+{
+"text": "Issues",
+"href": "https://chipforstaterep.com/issues-2/"
+},
+{
+"text": "June 11, 2026",
+"href": "https://chipforstaterep.com/statement-on-water-districts/"
+},
+{
+"text": "May 22, 2026",
+"href": "https://chipforstaterep.com/trivia-night/"
+},
+{
+"text": "Meet Chip",
+"href": "https://chipforstaterep.com/meet-chip/"
+},
+{
+"text": "Newsroom / Press",
+"href": "https://chipforstaterep.com/newsroom-press/"
+},
+{
+"text": "Phone: (123) 456-78-90",
+"href": "tel:1234567890"
+},
+{
+"text": "Statement on Water Districts",
+"href": "https://chipforstaterep.com/statement-on-water-districts/"
+},
+{
+"text": "Trivia Night",
+"href": "https://chipforstaterep.com/trivia-night/"
+},
+{
+"text": "Uncategorized",
+"href": "https://chipforstaterep.com/category/uncategorized/"
+},
+{
+"text": "[email protected]",
+"href": "https://chipforstaterep.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Chip Markel for State Representative ]",
+"href": "https://chipforstaterep.com/"
+},
+{
+"text": "[image] by Eileen Fligor",
+"href": "https://chipforstaterep.com/author/eileen_admin/"
+},
+{
+"text": "[image] by admin",
+"href": "https://chipforstaterep.com/author/vert_admin/"
+},
+{
+"text": "[no text]",
+"href": "https://chipforstaterep.com/statement-on-water-districts/"
+},
+{
+"text": "[no text]",
+"href": "https://chipforstaterep.com/trivia-night/"
+}
 ]

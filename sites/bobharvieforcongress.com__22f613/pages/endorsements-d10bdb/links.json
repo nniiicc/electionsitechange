@@ -1,8 +1,26 @@
 [
-"https://bobharvieforcongress.com/",
-"https://bobharvieforcongress.com/endorsements",
-"https://bobharvieforcongress.com/meet-bob",
-"https://bobharvieforcongress.com/priorities",
-"https://bobharvieforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/pa01website"
+{
+"text": "Bob Harvie for Congress [image: Bob Harvie for Congress]",
+"href": "https://bobharvieforcongress.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/pa01website"
+},
+{
+"text": "Endorsements",
+"href": "https://bobharvieforcongress.com/endorsements/"
+},
+{
+"text": "Meet Bob",
+"href": "https://bobharvieforcongress.com/meet-bob/"
+},
+{
+"text": "Priorities",
+"href": "https://bobharvieforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bobharvieforcongress.com/privacy-policy/"
+}
 ]

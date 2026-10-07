@@ -1,9 +1,13 @@
 {
  "description": "Make room for needed changes in society",
  "final_url": "https://www.kmm2026.org/2016campaign/make-room-for-change",
- "paid_for_by": null,
+ "fingerprint": "fb4cbaa2f965516fd56d23c1b872048b3f1eb3cc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Room for Change",
  "years_mentioned": [
-  "2014"
+  "2014",
+  "2016",
+  "2026"
  ]
 }

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.votejakeyoung.com/",
- "paid_for_by": null,
+ "fingerprint": "b79947c7a574a6a49c25876d2d2cafc89cb5f543",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Vote Jake Young",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989"
+ ]
 }

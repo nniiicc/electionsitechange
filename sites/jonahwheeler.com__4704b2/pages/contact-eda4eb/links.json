@@ -1,13 +1,58 @@
 [
-"https://facebook.com/jonah.wheeler.905449",
-"https://instagram.com/jonahorionwheeler",
-"https://jonahwheeler.com/",
-"https://jonahwheeler.com/biography",
-"https://jonahwheeler.com/contact",
-"https://jonahwheeler.com/donate",
-"https://jonahwheeler.com/letters",
-"https://jonahwheeler.com/news",
-"https://jonahwheeler.com/sponsored-legislation",
-"https://jonahwheeler.com/videos",
-"https://x.com/jonahowheeler"
+{
+"text": "About",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Biography",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://jonahwheeler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jonahwheeler.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/jonah.wheeler.905449"
+},
+{
+"text": "Home",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "In the News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jonahorionwheeler/"
+},
+{
+"text": "Issues",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "Letters",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://jonahwheeler.com/sponsored-legislation"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/jonahowheeler"
+},
+{
+"text": "Videos",
+"href": "https://jonahwheeler.com/videos"
+}
 ]

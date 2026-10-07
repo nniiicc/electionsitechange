@@ -1,7 +1,11 @@
 {
  "description": "Re-elect Jeanine Notter for NH State Representative, Merrimack. Fighting for Granite State values, lower taxes, and parental rights in Concord.",
  "final_url": "https://jeaninenotter.com/",
- "paid_for_by": "Paid for by Jeanine Notter, 19 Whittier Rd, Merrimack, NH 03054, Jeanine Notter chairman \u00a9 2026 Jeanine Notter",
+ "fingerprint": "f5ffd7e15bc7c2b94c9be55847801885c387cfba",
+ "format": 3,
+ "paid_for_by": "Paid for by Jeanine Notter, 19 Whittier Rd, Merrimack, NH 03054, Jeanine Notter chairman © # Jeanine Notter",
  "title": "Jeanine Notter for State Representative | Merrimack",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,32 +1,134 @@
 [
-"https://act.nedlamont.com/a/bs_em_lam_1225",
-"https://bsky.app/profile/nedlamont.com",
-"https://facebook.com/NedLamontCT",
-"https://google.com/maps/search?api=1&query=1050+Brooklawn+Ave%2C+Bridgeport%2C+CT",
-"https://google.com/maps/search?api=1&query=1250+Summer+Street+%23307%2C+Stamford%2C+CT",
-"https://google.com/maps/search?api=1&query=1315+Whalley+Ave%2C+New+Haven%2C+CT",
-"https://google.com/maps/search?api=1&query=161+Main+Street%2C+Danbury%2C+CT+06810",
-"https://google.com/maps/search?api=1&query=161+Water+St%2C+Norwich%2C+CT",
-"https://google.com/maps/search?api=1&query=170+Grand+Street%2C+Waterbury%2C+CT",
-"https://google.com/maps/search?api=1&query=19+Basset+St%2C+New+Britain%2C+CT+06051",
-"https://google.com/maps/search?api=1&query=30+Arbor+Street%2C+Hartford%2C+CT+06106",
-"https://google.com/maps/search?api=1&query=45+Water+Street%2C+Torrington%2C+CT",
-"https://google.com/maps/search?api=1&query=744+Long+Hill+Rd%2C+Groton%2C+CT",
-"https://instagram.com/nedlamont",
-"https://mobilize.us/nedforct",
-"https://nedlamont.com/",
-"https://nedlamont.com/Donate_By_Mail.pdf",
-"https://nedlamont.com/about",
-"https://nedlamont.com/accomplishments",
-"https://nedlamont.com/endorsements",
-"https://nedlamont.com/get-involved",
-"https://nedlamont.com/jobs",
-"https://nedlamont.com/news",
-"https://nedlamont.com/priorities",
-"https://nedlamont.com/privacy",
-"https://nedlamont.com/progressive-wins",
-"https://nedlamont.com/terms",
-"https://nedlamont.com/vote",
-"https://tiktok.com/@nedlamont.ct",
-"https://x.com/NedLamont"
+{
+"text": "Bridgeport 1050 Brooklawn Ave",
+"href": "https://www.google.com/maps/search/?api=1&query=1050+Brooklawn+Ave%2C+Bridgeport%2C+CT"
+},
+{
+"text": "Danbury 161 Main Street, Danbury, CT 06810",
+"href": "https://www.google.com/maps/search/?api=1&query=161+Main+Street%2C+Danbury%2C+CT+06810"
+},
+{
+"text": "Donate",
+"href": "https://act.nedlamont.com/a/bs_em_lam_1225"
+},
+{
+"text": "Download this form",
+"href": "https://www.nedlamont.com/Donate_By_Mail.pdf"
+},
+{
+"text": "Groton 744 Long Hill Rd, Groton",
+"href": "https://www.google.com/maps/search/?api=1&query=744+Long+Hill+Rd%2C+Groton%2C+CT"
+},
+{
+"text": "Hartford 30 Arbor Street, Hartford, CT 06106",
+"href": "https://www.google.com/maps/search/?api=1&query=30+Arbor+Street%2C+Hartford%2C+CT+06106"
+},
+{
+"text": "Make A Plan To VoteClick Here",
+"href": "https://www.nedlamont.com/vote"
+},
+{
+"text": "New Britain 19 Basset St. New Britain CT 06051",
+"href": "https://www.google.com/maps/search/?api=1&query=19+Basset+St%2C+New+Britain%2C+CT+06051"
+},
+{
+"text": "New Haven 1315 Whalley Ave",
+"href": "https://www.google.com/maps/search/?api=1&query=1315+Whalley+Ave%2C+New+Haven%2C+CT"
+},
+{
+"text": "Norwich 161 Water St",
+"href": "https://www.google.com/maps/search/?api=1&query=161+Water+St%2C+Norwich%2C+CT"
+},
+{
+"text": "Stamford 1250 Summer Street # 307",
+"href": "https://www.google.com/maps/search/?api=1&query=1250+Summer+Street+%23307%2C+Stamford%2C+CT"
+},
+{
+"text": "Torrington 45 Water Street",
+"href": "https://www.google.com/maps/search/?api=1&query=45+Water+Street%2C+Torrington%2C+CT"
+},
+{
+"text": "Waterbury 170 Grand Street",
+"href": "https://www.google.com/maps/search/?api=1&query=170+Grand+Street%2C+Waterbury%2C+CT"
+},
+{
+"text": "[image: Ned Lamont for Governor logo]",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nedlamont.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NedLamontCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nedlamont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nedlamont.ct"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NedLamont"
+},
+{
+"text": "about",
+"href": "https://www.nedlamont.com/about"
+},
+{
+"text": "accomplishments",
+"href": "https://www.nedlamont.com/accomplishments"
+},
+{
+"text": "endorsements",
+"href": "https://www.nedlamont.com/endorsements"
+},
+{
+"text": "events",
+"href": "https://www.mobilize.us/nedforct/"
+},
+{
+"text": "get involved",
+"href": "https://www.nedlamont.com/get-involved"
+},
+{
+"text": "home",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "info@nedlamont.com",
+"href": "mailto:info@nedlamont.com"
+},
+{
+"text": "jobs",
+"href": "https://www.nedlamont.com/jobs"
+},
+{
+"text": "news",
+"href": "https://www.nedlamont.com/news"
+},
+{
+"text": "priorities",
+"href": "https://www.nedlamont.com/priorities"
+},
+{
+"text": "privacy policy",
+"href": "https://www.nedlamont.com/privacy"
+},
+{
+"text": "progressive wins",
+"href": "https://www.nedlamont.com/progressive-wins"
+},
+{
+"text": "terms",
+"href": "https://www.nedlamont.com/terms"
+},
+{
+"text": "vote",
+"href": "https://www.nedlamont.com/vote"
+}
 ]

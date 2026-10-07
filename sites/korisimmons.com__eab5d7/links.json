@@ -1,17 +1,102 @@
 [
-"https://facebook.com/profile.php?id=61573661133334",
-"https://instagram.com/kori.for.the.people",
-"https://korisimmons.com/",
-"https://korisimmons.com/about-kori",
-"https://korisimmons.com/broken",
-"https://korisimmons.com/connect",
-"https://korisimmons.com/connections",
-"https://korisimmons.com/events",
-"https://korisimmons.com/legal-notice",
-"https://korisimmons.com/platform",
-"https://korisimmons.com/the-abyss",
-"https://korisimmons.com/your-voice",
-"https://mvp.ga.gov/s",
-"https://tiktok.com/@kori.for.the.people",
-"https://x.com/Kori4thePeople"
+{
+"text": "About Kori",
+"href": "https://www.korisimmons.com/about-kori/"
+},
+{
+"text": "Affordability",
+"href": "https://www.korisimmons.com/platform/#Affordability"
+},
+{
+"text": "Connect",
+"href": "https://www.korisimmons.com/connect/"
+},
+{
+"text": "Connections",
+"href": "https://www.korisimmons.com/connections/"
+},
+{
+"text": "Education",
+"href": "https://www.korisimmons.com/platform/#Education"
+},
+{
+"text": "Events",
+"href": "https://www.korisimmons.com/events/"
+},
+{
+"text": "Georgia's My Voter Page",
+"href": "https://mvp.ga.gov/s/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.korisimmons.com/platform/#Healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.korisimmons.com/"
+},
+{
+"text": "Infrastructure",
+"href": "https://www.korisimmons.com/platform/#Infrastructure"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.korisimmons.com/connect/"
+},
+{
+"text": "Learn More",
+"href": "https://www.korisimmons.com/platform/"
+},
+{
+"text": "Legal notice",
+"href": "https://www.korisimmons.com/legal-notice/"
+},
+{
+"text": "Platform",
+"href": "https://www.korisimmons.com/platform/"
+},
+{
+"text": "Read My Story",
+"href": "https://www.korisimmons.com/about-kori/"
+},
+{
+"text": "The Abyss",
+"href": "https://www.korisimmons.com/the-abyss/"
+},
+{
+"text": "Your Voice",
+"href": "https://www.korisimmons.com/your-voice/"
+},
+{
+"text": "[image]",
+"href": "https://www.korisimmons.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573661133334"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kori.for.the.people"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kori.for.the.people"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Kori4thePeople"
+},
+{
+"text": "[no text]",
+"href": "mailto:kori@korisimmons.com"
+},
+{
+"text": "[no text]",
+"href": "tel:+1%20(678)%20269-7506"
+},
+{
+"text": "broken",
+"href": "https://www.korisimmons.com/broken/"
+}
 ]

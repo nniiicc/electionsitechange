@@ -1,3 +1,2 @@
-friendsofgray@gmail.com
-Scott Gray for Assembly | New York State Assembly, 116th District
-Experienced Businessman and Legislator asks for the North Country Vote
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate Contact The Campaign Notice: JavaScript is required for this content.
+Copyright Friends of Gray · All Rights Reserved

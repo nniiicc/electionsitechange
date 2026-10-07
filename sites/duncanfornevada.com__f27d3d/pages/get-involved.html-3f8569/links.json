@@ -1,12 +1,46 @@
 [
-"https://duncanfornevada.com/about.html",
-"https://duncanfornevada.com/get-involved.html",
-"https://duncanfornevada.com/index.html",
-"https://duncanfornevada.com/issues.html",
-"https://nvsos.gov/sosvoterservices/Registration/Step0.aspx",
-"https://secure.anedot.com/friends-of-katie-duncan/donate",
-"https://secure.anedot.com/friends-of-katie-duncan/donate?amount=100",
-"https://secure.anedot.com/friends-of-katie-duncan/donate?amount=25",
-"https://secure.anedot.com/friends-of-katie-duncan/donate?amount=250",
-"https://secure.anedot.com/friends-of-katie-duncan/donate?amount=50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-of-katie-duncan/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/friends-of-katie-duncan/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/friends-of-katie-duncan/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-of-katie-duncan/donate?amount=50"
+},
+{
+"text": "Get Involved",
+"href": "https://www.duncanfornevada.com/get-involved.html"
+},
+{
+"text": "Give to the campaign",
+"href": "https://secure.anedot.com/friends-of-katie-duncan/donate"
+},
+{
+"text": "Home",
+"href": "https://www.duncanfornevada.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.duncanfornevada.com/issues.html"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.duncanfornevada.com/about.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nvsos.gov/sosvoterservices/Registration/Step0.aspx"
+},
+{
+"text": "[image: Katherine Katie Duncan for Nevada Assembly District 6]",
+"href": "https://www.duncanfornevada.com/index.html"
+}
 ]

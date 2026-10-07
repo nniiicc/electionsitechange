@@ -1,9 +1,8 @@
-Immigration
-Lateefah knows the value immigrants bring to our communities and our economy.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE Priorities Public Safety Affordable Housing Homelessness Affordability and Job Creation Healthcare for All Reproductive Freedom Racial and Social Justice Immigration LGBTQ+ Rights Disability Rights Voting Rights and Democracy Reform Global Security Innovation Transportation and Infrastructure Climate and Environmental Justice Building a Care Economy Immigration Lateefah knows the value immigrants bring to our communities and our economy.
 She will work to create a fair and humane immigration system that would disentangle the criminal system from the immigration system and expand legal pathways to work authorization and citizenship.
 That simply recognizes a few basic principles: America has been the world's envy for decades because people have aspired to pursue the American Dream.
 A fair and humane immigration system only works when there are no backlogs that prolong waiting periods for asylum applicants and employment-based immigration.
 Dreamers are Americans; their home is here.
 We must defend these young people who have so much to offer our country by defending DACA and leading the way in enshrining it in law.
 Every year, Dreamers contribute millions of dollars in taxes to America’s social safety net programs like Medicare and Social Security.
-Lateefah believes Dreamers should have a pathway to citizenship and have access to the social safety net that their tax dollars go to.
+Lateefah believes Dreamers should have a pathway to citizenship and have access to the social safety net that their tax dollars go to. info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

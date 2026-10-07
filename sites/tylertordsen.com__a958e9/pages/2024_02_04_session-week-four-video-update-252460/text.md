@@ -1,3 +1,5 @@
-Our only five day legislative week was a busy one!
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK FOUR – Video Update Posted by ttordsen February 4, 2024 Posted in BLOG , Session Weekly Updates Our only five day legislative week was a busy one!
 We’re almost to the halfway point of the 99th Legislative Session with more bills ahead to pass (and kill).
 Check out my video update recapping this last week, sharing updates on my legislative progress, and what’s coming up in the days ahead!
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 4, 2024 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK THREE – What a week Next Post Next post: SESSION WEEK FIVE – Hitting the Halfway Point Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

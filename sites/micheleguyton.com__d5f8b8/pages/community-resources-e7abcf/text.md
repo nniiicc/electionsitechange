@@ -1,5 +1,7 @@
-There are so many resources available it’s almost impossible to navigate.
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign There are so many resources available it’s almost impossible to navigate.
 I am here to help.
 I have collected many different resources that may help you.
 Please click the categories below to see a collection of resources available.
-If you have any questions or if what you need is not listed please reach out to my office at michele.guyton@house.maryland.gov.
+If you have any questions or if what you need is not listed please reach out to my office at michele.guyton@house.maryland.gov .
+RESOURCES FOR SENIORS RESOURCES FOR VETERANS RESOURCES FOR Workers & Business owners Food Resources HEALTHCARE RESOURCES HOUSING RESOURCES RESOURCES FOR SURVIVORS LGBTQIA+ RESOURCES 24 HOUR EMERGENCY LINES RESOURCES FOR SPECIAL EDUCATION RESOURCES FOR INDIVIDUALS WITH DISABILITIES & CAREGIVERS Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

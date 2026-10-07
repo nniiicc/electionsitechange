@@ -1,2 +1,2 @@
-Endorsements Stewardship Utah LiUNA!
-Local 295 IBEW Local 354 UA Local 140 Operating Engineers 3 AFL-CIO UFCW 99 Donate to Sergio’s Campaign Click here to donate Contact Sergio. sergio@electsergiosotelo.com 801.556.2744
+0 Skip to Content Home Issues Endorsements Contact DONATE Open Menu Close Menu Home Issues Endorsements Contact DONATE Open Menu Close Menu Home Issues Endorsements Contact DONATE Endorsements Stewardship Utah LiUNA!
+Local 295 IBEW Local 354 UA Local 140 Operating Engineers 3 AFL-CIO UFCW 99 Donate to Sergio’s Campaign Click here to donate Contact Sergio. sergio@electsergiosotelo.com 801.556.2744 PAID FOR BY COMMITTEE TO ELECT SERGIO SOTELO | PRIVACY POLICY

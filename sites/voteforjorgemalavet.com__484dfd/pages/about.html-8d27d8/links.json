@@ -1,6 +1,22 @@
 [
-"https://secure.anedot.com/jorge-malavet-campaign/donate",
-"https://voteforjorgemalavet.com/about.html",
-"https://voteforjorgemalavet.com/index.html",
-"https://voteforjorgemalavet.com/policies.html"
+{
+"text": "About",
+"href": "https://voteforjorgemalavet.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jorge-malavet-campaign/donate"
+},
+{
+"text": "Policies",
+"href": "https://voteforjorgemalavet.com/policies.html"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforjorgemalavet.com/index.html#sign-up"
+},
+{
+"text": "[image: Jorge Malavet for State Representative logo]",
+"href": "https://voteforjorgemalavet.com/index.html"
+}
 ]

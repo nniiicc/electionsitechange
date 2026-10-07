@@ -1,22 +1,82 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/149430/1cf773688f364e4090b21e35d08c19c7.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149430/551157343b794cd196ce7531e914477a.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149430/8291a1ac36a1414d8eaf73ab6913b666.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149430/8c682ceccf734ee1ad1de15affcdb35b.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149430/9d77f9d783124c0b87effd359df7b519.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149430/f8cc86c1809e4da59deda0074a8ea189.jpg",
-"https://secure.actblue.com/donate/pamela-delancy-2",
-"https://votepamdelancy.com/",
-"https://votepamdelancy.com/contact",
-"https://votepamdelancy.com/home",
-"https://votepamdelancy.com/home-2",
-"https://votepamdelancy.com/issues",
-"https://votepamdelancy.com/meet_pamela",
-"https://votepamdelancy.com/news",
-"https://votepamdelancy.com/nurse",
-"https://votepamdelancy.com/photos",
-"https://votepamdelancy.com/view-endorsements",
-"https://votepamdelancy.com/volunteer",
-"https://votepamdelancy.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votepamdelancy.com/contact"
+},
+{
+"text": "DONATIONS",
+"href": "https://secure.actblue.com/donate/pamela-delancy-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votepamdelancy.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votepamdelancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.votepamdelancy.com/issues"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.votepamdelancy.com/meet_pamela"
+},
+{
+"text": "News",
+"href": "https://www.votepamdelancy.com/news"
+},
+{
+"text": "Nurse",
+"href": "https://www.votepamdelancy.com/nurse"
+},
+{
+"text": "Photos",
+"href": "https://www.votepamdelancy.com/photos"
+},
+{
+"text": "The Veteran",
+"href": "https://www.votepamdelancy.com/home-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votepamdelancy.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votepamdelancy.com/vote"
+},
+{
+"text": "[image: Pamela DeLancy]",
+"href": "https://www.votepamdelancy.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/1cf773688f364e4090b21e35d08c19c7.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/551157343b794cd196ce7531e914477a.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/8291a1ac36a1414d8eaf73ab6913b666.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/8c682ceccf734ee1ad1de15affcdb35b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/9d77f9d783124c0b87effd359df7b519.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149430/f8cc86c1809e4da59deda0074a8ea189.jpg"
+}
 ]

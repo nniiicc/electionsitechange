@@ -1,4 +1,4 @@
-In Iowa, our differences make us stronger.
+Home About Jack Platform Contact Donate Here Merch Home About Jack Platform Contact Donate Here Merch More Home About Jack Platform Contact Donate Here Merch Home About Jack Platform Contact Donate Here Merch Platform Separation of Church and State Separation of Church and State Separation of Church and State In Iowa, our differences make us stronger.
 This includes the dozens of different religions and denominations people practice within our state.
 Spirituality is a personal path, one that is ever-evolving throughout a person’s life.
 The founding fathers made it clear: there is to be no national religion.
@@ -6,7 +6,7 @@ In Iowa we must protect all walks of life to worship (and the choice to not wors
 Laws are not to be based on a religion, but rather must be based on ethics to benefit society.
 I will protect the separation of church and state.
 In doing so, I protect your freedom to walk the path that is true to your soul.
-The right to property is one of the foundational rights of Americans, and one that should not be trampled upon by large corporations with deep pockets.
+Eminent Domain Separation of Church and State Separation of Church and State The right to property is one of the foundational rights of Americans, and one that should not be trampled upon by large corporations with deep pockets.
 However, the carbon pipeline companies are trying to seize land of people who do not want to sell to them.
 In the spring of 2025 lawmakers successfully passed a bill to stop the use of eminent domain by corporations only to have Governor Reynolds veto it with one stroke of a pen.
 This is wrong.
@@ -18,16 +18,13 @@ If a landowner does not want to sell, that should be their choice.
 End of story.
 Eminent domain should be extremely limited and rarely used, as in the cases, for example, of street or highway expansion where the original street already exists and it is crucial to expand capacity.
 No government or private entity should be able to just take land for pet projects or for-profit endeavors.
-The Declaration of Independence makes it clear:
-“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”
-Yet throughout the history we have seen politicians try to insert a “but…”
-There is no “but.” No matter your sex, race, religion, sexuality, gender identity, or national origin, you MUST be given the rights, privileges, and protections under the law.
+Equality Separation of Church and State Conservation and Water The Declaration of Independence makes it clear: “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” Yet throughout the history we have seen politicians try to insert a “but…” There is no “but.” No matter your sex, race, religion, sexuality, gender identity, or national origin, you MUST be given the rights, privileges, and protections under the law.
 For too long Republican lawmakers have used culture wars to stroke the fears of their Republican constituents, often using half truths and full lies to manipulate the population.
 No more.
 If one group’s rights are in jeopardy, all of ours are.
 We are Iowans.
 Sometimes our lives might look different, but we all call this state home.
-As a hunter, I am astounded of the annual attacks on our public lands.
+Conservation and Water Conservation and Water Conservation and Water As a hunter, I am astounded of the annual attacks on our public lands.
 Every year the GOP tries to pass legislation limiting our Department of Natural Resources’ ability to attain and manage our land and water resources.
 Our Public WMAs are often overcrowded.
 We need DNR to acquire more land by purchasing property already on the market to accommodate the number of hunters in our state.
@@ -36,7 +33,7 @@ We also need to be vigilant about water quality, especially the nitrate problem 
 Water is life.
 Sensible regulation must be made to ensure our drinking water is safe.
 We can look into creating an assistance fund for family farms to help with the cost of upgrades to stop runoff.
-As a hunter and sport shooter, as well as someone who believes in ALL of the Constitution, I strongly support the Second Amendment and the freedom it ensures.
+Second Amendment Conservation and Water Second Amendment As a hunter and sport shooter, as well as someone who believes in ALL of the Constitution, I strongly support the Second Amendment and the freedom it ensures.
 This issue has become a hot ticket item for decades.
 It is unnecessary.
 There is no need to fear a particular weapon.
@@ -52,7 +49,7 @@ It isn’t our guns.
 It’s our hearts.
 As Americans we must reject the antagonistic language of today’s politics and join together to create a unified society built upon respect despite our differences.
 Only when we really value the lives of each other will we see a decline in dreadful events like mass shootings.
-The private school voucher program is a failed experiment with little accountability or oversight.
+Education Conservation and Water Second Amendment The private school voucher program is a failed experiment with little accountability or oversight.
 Public dollars should go to public schools.
 As someone who attended a private high school, I know they have their own scholarship and assistance programs from low income students.
 They receive large donations for their facility from alumni.
@@ -64,7 +61,7 @@ Take the financial burden off families and just let kids have a full belly so th
 This should be provided to every student regardless of income level.
 Our teachers also deserve raises, especially at a time when inflation keeps going up.
 They should be paid well, and in doing so, our state will attract the best educators to teach our next generation.
-Housing costs in Iowa have risen astronomically over recent years.
+Affordable Housing Affordable Housing Affordable Housing Housing costs in Iowa have risen astronomically over recent years.
 Part of this is due to Hedge Funds purchasing single family homes and just letting them sit empty to artificially create more demand to raise the prices so they can sell them down the road for an extravagant profit.
 I would support a bill to forbid Corporations like these from buying single family homes and force them to sell within a year of the bill’s passage unless they are rented or actively being renovated.
 Those houses should be for the families of Iowa.
@@ -72,7 +69,7 @@ In addition, I support a regulation of rent increases.
 People should not be run out of their housing because rent skyrocketed for no reason.
 Without significant property improvement or tax increases, there is no reason for a landlord to raise the rent over the rate of inflation.
 Renters must be protected.
-Have you ever lived off of minimum wage or just barely over it?
+Minimum Wage Affordable Housing Affordable Housing Have you ever lived off of minimum wage or just barely over it?
 I have.
 It is not fun.
 The point of minimum wage is to be the minimum amount an employee needs to earn to afford ALL of life’s essentials: food, housing, utilities, transportation, childcare, and leisure.
@@ -81,7 +78,7 @@ No one working full time should need to be on assistance.
 I support a living minimum wage that increases annually with the rate of inflation.
 We must ensure everyone in our community has the opportunity to thrive.
 Upward mobility is essential to quality of life.
-Marijuana has been illegal in Iowa for almost 100 years.
+Full Legalization Affordable Housing Full Legalization Marijuana has been illegal in Iowa for almost 100 years.
 Prohibition has been an absolute failure, and its purpose has just been to keep the for-profit prisons full with non-violent offenders.
 It has been proven time and again that marijuana is an effective tool battling ailments like depression, anxiety, epilepsy, chemotherapy side effects, chronic pain, and even social anxiety.
 By continuing prohibition, so many people will needlessly suffer from these conditions and forced to take potentially less effective or addictive pharmaceuticals.
@@ -97,10 +94,10 @@ Public intoxication, driving under the influence, and minors in possession laws 
 A person may grow up to three plants at one time for personal use, but they may not sell it without a license to do so.
 It really is not hard, and it is not a moral dilemma.
 We can use the tax collected as a rebate to ease the personal property tax burden on our citizens, as well as let people have a natural substance that eases their medical pains.
-I support term limits on both the state and federal level.
+Term Limits Term Limits Full Legalization I support term limits on both the state and federal level.
 Too long have we seen lifelong politicians get comfortable in their seats and take their voters for granted, working more for the corporate lobbyists instead of what benefits their constituents.
 Chuck Grassley has been a senator longer than I’ve been alive.
 Enough said.
 I support any effort on the state level to create and enforce term limits.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home About Jack Platform Contact Donate Here Merch Paid for by Friends of Jack Goodman Copyright © # Jack Goodman for Iowa State Representative - All Rights Reserved.
+Powered by

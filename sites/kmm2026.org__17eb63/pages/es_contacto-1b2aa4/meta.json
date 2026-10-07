@@ -1,7 +1,11 @@
 {
  "description": "Kevin McCormick for Texas Lieutenant Governor (political advertising)",
  "final_url": "https://www.kmm2026.org/es/contacto",
- "paid_for_by": null,
+ "fingerprint": "04744a29e825c411a5fd5cd96c725dca5d11621c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contacto",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

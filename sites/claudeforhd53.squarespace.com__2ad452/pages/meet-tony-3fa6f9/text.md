@@ -1,6 +1,4 @@
-// Meet Tony
-A neighbor, not a politician
-Tony Claude is running for Florida House, District 53.
+0 Skip to Content Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback // Meet Tony A neighbor, not a politician Tony Claude is running for Florida House, District 53.
 Married thirty-eight years, with two daughters and three grandchildren, Tony and his family have called Spring Hill home for the last six years.
 Tony served four years in the U.S.
 Air Force, with deployments during Desert Storm — stationed in Turkey — and during the Balkans conflict, stationed at San Vito dei Normanni Air Station in Italy.
@@ -13,7 +11,4 @@ That's exactly why he's running — because District 53 deserves a representativ
 Tony is running on four core commitments: affordability for working families, real health care security, protecting the Nature Coast, and government that respects personal freedom and parental rights.
 His campaign runs on neighbors, not big donors — built on doors knocked, conversations had, and trust earned one porch at a time.
 U.S.
-Air Force Veteran
-40 Years in Business
-Community Volunteer
-Lifelong Negotiator
+Air Force Veteran 40 Years in Business Community Volunteer Lifelong Negotiator Share your Voice donate Claude for House District 53 Made with Squarespace Contact tlclaude@claudeforhd53.com (352) 667-3123 Paid for by Tony Claude, Democrat, for Florida House District #53

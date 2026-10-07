@@ -1,16 +1,62 @@
 [
-"https://athemes.com/theme/airi",
-"https://facebook.com/TeamRitaMayfield",
-"https://linkedin.com/in/rita-mayfield-40ab32",
-"https://twitter.com/ritamayfield?lang=en",
-"https://voteritamayfield.com/",
-"https://voteritamayfield.com/about-rita-mayfield",
-"https://voteritamayfield.com/contact",
-"https://voteritamayfield.com/donate",
-"https://voteritamayfield.com/endorsements",
-"https://voteritamayfield.com/issues",
-"https://voteritamayfield.com/news",
-"https://voteritamayfield.com/volunteer",
-"https://voteritamayfield.com/yard-sign",
-"https://wordpress.org/"
+{
+"text": "About Rita",
+"href": "https://www.voteritamayfield.com/about-rita-mayfield/"
+},
+{
+"text": "Airi",
+"href": "https://athemes.com/theme/airi"
+},
+{
+"text": "Contact",
+"href": "https://www.voteritamayfield.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteritamayfield.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteritamayfield.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TeamRitaMayfield"
+},
+{
+"text": "Get Your Rita Mayfield Yard Sign",
+"href": "https://www.voteritamayfield.com/yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://www.voteritamayfield.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteritamayfield.com/issues/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/rita-mayfield-40ab32/"
+},
+{
+"text": "News",
+"href": "https://www.voteritamayfield.com/news/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ritamayfield?lang=en"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteritamayfield.com/volunteer/"
+},
+{
+"text": "[image: Rita Mayfield for State Rep]",
+"href": "https://www.voteritamayfield.com/"
+}
 ]

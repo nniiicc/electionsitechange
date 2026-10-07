@@ -1,10 +1,5 @@
-Updates from the capitol
-press releases, bill updates,Newsletters and more…
-In the news and events
-Find Recent and previous Newsletters here
-- Karen is currently serving her third term in the State House representing the residents of House District 11, which encompasses most of the city of Longmont.
-View the Article Here
-- Libby Earthman used to work in river conservation and views water use differently than most people.
+0 Skip to Content Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Issues Issues Legislation Endorsements Updates Join Us Contact Donate Open Menu Close Menu Home About Folder: Issues Back Issues Legislation Endorsements Updates Join Us Contact Donate Updates from the capitol press releases, bill updates,Newsletters and more… In the news and events Find Recent and previous Newsletters here LONGMONT LEADER: Representative Karen McCormick Launches Her Bid for Re-Election to Colorado’s 11th State House District Karen is currently serving her third term in the State House representing the residents of House District 11, which encompasses most of the city of Longmont.
+View the Article Here LONGMONT LEADER: New turf legislation aims to conserve water Libby Earthman used to work in river conservation and views water use differently than most people.
 When she and her husband decided to landscape their backyard, the couple had one goal in mind, to conserve as much water as possible.
 Earthman’s choice to conserve water aligns with a Colorado law sponsored by Rep.
 Karen McCormick, who represents Longmont.
@@ -36,8 +31,8 @@ Jared Polis’ office.
 “Having land use codes and ordinances that align with these efforts is critical because the last thing we want is for codes to reinforce installing the same types of high-water vegetation that we are paying to remove.” The city of Longmont has three water-smart projects planned for this year.
 Two projects will replace bluegrass with low-water-using turf and the other will replace the existing bluegrass with a mixture of low-water-using turf and water-wise garden, said Hope Bartlett, water conservation specialist at the city of Longmont.
 The city will work with Resource Central, Northern Water and other local groups to apply for additional funding for these projects.
-Read the story in your browser HERE.
-- Being turned away when your pet needs medical care is something no one wants to experience.
+Read the story in your browser HERE .
+COLORADO PUBLIC RADIO: Colorado faces a serious shortage of veterinarians and vet techs; some solutions may be at hand Being turned away when your pet needs medical care is something no one wants to experience.
 But it's increasingly a reality as Colorado faces a critical shortage of veterinarians and vet techs.
 “We absolutely need more in our workforce and we need to hang on to the people that are already in our workforce because that's also a problem,” said state Representative Karen McCormick, a Democratic lawmaker from Longmont, who herself is a veterinarian.
 Those close to the issue say this shortage has reached a point where it's ultimately hurting animals and their owners.
@@ -46,8 +41,8 @@ It's estimated that there are about 3,800 vets able to care for about 2.5 millio
 “And the students that come out of CSU, about 80% of those students go into companion animal medicine.
 And so our shelter animal spaces and our large animal, farm animal populations are really bearing the brunt of this shortage.” Rep.
 McCormick spoke with Colorado Matters host Chandra Thomas Whitfield.
-Listen HERE.
-- DENVER — Legislation addressing the so-called "ambulance gap" in health insurance is scheduled to be heard in the state House of Representatives Health and Human Services Committee next week.
+Listen HERE .
+DENVER 7: Bill addressing 'ambulance gap' in health insurance scheduled for state House committee hearing next week DENVER — Legislation addressing the so-called "ambulance gap" in health insurance is scheduled to be heard in the state House of Representatives Health and Human Services Committee next week.
 HB24-1218 would allow an ambulance service to submit rates to insurance for reimbursement covering out-of-network costs.
 The bill prohibits an ambulance that's out-of-network from billing a patient more than their health insurance covers, which can leave the patient to pay high amounts in medical bills for the difference.
 The exception to that would be the required deductibles or copayments under that person's insurance plan.
@@ -68,12 +63,14 @@ Kyle Mullica, D-District 24 and Sen.
 Mark Baisley, R-District 4, sponsoring the bill.
 The bill is scheduled for a hearing on Tuesday, March 19.
 If it passes through the legislature, it could take effect in August of this year.
-View the story in your browser HERE.
-- Colorado lawmakers are working to clarify when veterinarians can see your pet via telehealth.
-Watch the Video HERE.
-- Rep.
-Marc Catlin, R-Dist. 58, told the House Agriculture, Water, and Natural Resources Committee HB24-1047, Veterinary Scope of Practice, a bill he co-sponsored with Rep.
-Karen McCormick, D-Dist. 11, a veterinarian by trade, will help ease the shortage of veterinary care resources for pets and livestock in the state.
+View the story in your browser HERE .
+9 NEWS: The debate around telehealth for your pets Colorado lawmakers are working to clarify when veterinarians can see your pet via telehealth.
+Watch the Video HERE .
+THE FENCE POST: Two veterinary bills clear Colorado House Ag Committee Rep.
+Marc Catlin, R-Dist.
+58, told the House Agriculture, Water, and Natural Resources Committee HB24-1047, Veterinary Scope of Practice, a bill he co-sponsored with Rep.
+Karen McCormick, D-Dist.
+11, a veterinarian by trade, will help ease the shortage of veterinary care resources for pets and livestock in the state.
 The bill would clarify guidelines for veterinary technicians and allows an expansion of scope for that care under the supervision of licensed veterinarians.
 Catlin said the bill is supported by Colorado Farm Bureau, Rocky Mountain Farmers Union, Colorado Cattlemen’s Association and Colorado Woolgrowers in addition to veterinarians.
 Rep.
@@ -87,10 +84,12 @@ An amendment to the bill clarified the intent of the bill and makes clear that n
 According to the bill, a licensed veterinarian may delegate tasks pursuant to the board’s rules after first establishing a veterinarian-client-patient relationship with an animal or group of animals and the owner of the animal or animals.
 The licensed veterinarian is required to provide an appropriate level of supervision of the veterinary technician or veterinary technician specialist in accordance with applicable rules of the board.
 If there are not applicable rules related to the specific veterinary task that is being delegated, the veterinarian may delegate the task based on the assessment of the veterinary medical care being provided, the experience, education, and training of the person providing the care, and in compliance with all state and federal laws.
-Beginning on Jan. 1, 2026, the bill authorizes a veterinary technician to receive a veterinary technician specialist designation as part of the veterinary technician’s registration, grants title protection for veterinary technician specialists, and prohibits the unauthorized practice as a veterinary technician specialist by a person who does not have a veterinary technician specialist designation.
+Beginning on Jan.
+1, 2026, the bill authorizes a veterinary technician to receive a veterinary technician specialist designation as part of the veterinary technician’s registration, grants title protection for veterinary technician specialists, and prohibits the unauthorized practice as a veterinary technician specialist by a person who does not have a veterinary technician specialist designation.
 The bill passed unanimously and will be sent to the House with a favorable recommendation.
 TELEHEALTH SERVICES The second of McCormick’s bills, this one co-sponsored by Rep.
-Matthew Martinez, D-Dist. 62, is HB24-1048, Providing Veterinary Services Through Telehealth.
+Matthew Martinez, D-Dist.
+62, is HB24-1048, Providing Veterinary Services Through Telehealth.
 In current law, one criterion for the establishment of a veterinarian-client-patient relationship is that the veterinarian has conducted an examination of the animal that is the patient.
 The bill clarifies that the examination must be an in-person, physical examination.
 The bill also extends the veterinarian-client-patient relationship to other licensed veterinarians who share the same physical premises as the veterinarian who established the relationship if the other veterinarians have access to and have reviewed the patient’s medical records.
@@ -107,8 +106,8 @@ It would allow direct to consumer marketing platforms aimed at pushing product w
 This is big money behind these efforts, and it is happening state by state across the country.
 They want to challenge the Food and Drug Administration’s duty to protect our food supply, our duty to protect public health, and our duty to advance animal welfare.
 Their goals are not patient care and mine are.” The bill passed unanimously and will be sent to the House with a favorable recommendation.
-Read the story in your browser HERE.
-- Coloradans venturing into the backcountry in spring and summer might find themselves complaining of tick bites, mosquito swarms, and other creepy crawlers, but some say there’s something more terrifying than a spider in a sleeping bag: a future without enough insects.
+Read the story in your browser HERE .
+ASPEN TIMES: Bug buzz: Colorado lawmakers move to study insects, rare plant populations Coloradans venturing into the backcountry in spring and summer might find themselves complaining of tick bites, mosquito swarms, and other creepy crawlers, but some say there’s something more terrifying than a spider in a sleeping bag: a future without enough insects.
 Studies conducted across the globe and in Colorado show there have been declines in the populations of invertebrates, which play vital roles in the food chain, pollination, and the decomposition cycle.
 That’s why a bipartisan group of Colorado lawmakers are proposing legislation that would allow the state to begin tracking insect populations.
 “These ecosystems that these invertebrates provide for are experiencing pressures and loss of biodiversity driven by climate change and habitat loss and other invasive species,” said Rep.
@@ -127,9 +126,9 @@ While no groups have filed in opposition to the bill and there was limited debat
 Republican minority leader Rep.
 Ty Winter of Trinidad voted against the bill in its earlier committee hearing as well.
 “I haven’t been here very long, but I have seen data come through this building that has been taken by activist groups later on to push an agenda,” he said in the hearing.
-“That is what my biggest fear with this is.” View the story in your browser HERE.
-- Read the story in your browser HERE.
-- Colorado bills to address veterinary care pass Joint Committee Two bills advanced yesterday at the General Assembly aimed to address veterinary workforce issues and access to animal care in Colorado.
+“That is what my biggest fear with this is.” View the story in your browser HERE .
+VIN NEWS: Push for midlevel role in veterinary medicine expands Read the story in your browser HERE .
+Veterinary Access to Care bills advance out of Interim Committee 10/31/23 Colorado bills to address veterinary care pass Joint Committee Two bills advanced yesterday at the General Assembly aimed to address veterinary workforce issues and access to animal care in Colorado.
 Colorado state Rep.
 Karen McCormick DVM (D)Longmont, introduced Bill 1-Veterinary Technician Scope of Practice and Bill 7-Veterinary Telehealth Act.
 Both bills were voted out of the bipartisan joint chamber Water Resources and Agriculture Review committee on October 31.
@@ -154,7 +153,7 @@ Veterinary telehealth has the potential to open up access to care in many ways.
 The ability to create more appointment space in hospitals by doing more follow up cases via telehealth will help to ease the backlog of patients that may be waiting to see their veterinarian.
 Tele-triage and tele-advice tools can be used in urgent situations without a VCPR to make sure clients have timely information in decision making for their animals.
 The two bills will next be introduced when the 2024 Legislative Session opens in January and go through the same process as all other bills.
-- In the wake of such terrible and tragic national events, Uvalde and Buffalo being just two examples, I have had many people reach out to me and say, “We must do more to prevent these tragedies from occurring.” Here in Colorado, we are far too familiar with the pain of mass shootings.
+It’s up to all of to address gun violence 06/21/22 - by Karen McCormick In the wake of such terrible and tragic national events, Uvalde and Buffalo being just two examples, I have had many people reach out to me and say, “We must do more to prevent these tragedies from occurring.” Here in Colorado, we are far too familiar with the pain of mass shootings.
 It is hard not to feel hopeless after such a traumatic event.
 My heart truly aches as I try to process these tragedies.
 How can this be our reality?
@@ -180,7 +179,7 @@ We and our children need to be able to safely go to school, to the grocery store
 My colleagues and I have already started work on additional gun safety legislation ideas for our state.
 The unacceptable trauma of gun violence affects us all.
 And it is up to all of us to continue to speak up and act to make freedom from gun violence a reality.
-- To me, Earth Day should be about more than just words — it should be about action.
+Earth Day should be about action 04/21/21 - by Karen McCormick To me, Earth Day should be about more than just words — it should be about action.
 That’s why this Earth Day I’m so proud to work on protecting our planet by passing legislation to address the climate crisis head-on.
 I’ve lived in Longmont for 26 years, and I know just how much our mountains, rivers, lakes and plains define who we are, which is why I’m dedicated to protecting our environment for my children and for generations to come.
 Last year, we saw record-breaking forest fires that devastated so families, homes, and priceless public lands.
@@ -209,7 +208,7 @@ Perry Will throughout the process, and we hope to see the bill on the governor�
 When we work together, we can accomplish amazing things that can positively impact the lives of future generations.
 Although we have passed and are working to pass progressive, environmental legislation, this is just the start of what we must do to protect our ailing climate.
 This Earth Day I would like to encourage everyone to take a moment to reflect on the natural beauty that surrounds us in Colorado and vow to take action to protect it, ensuring its ability to sustain life on our planet for eras to come.
-- TUESDAY, DECEMBER 19, 2023 DENVER — Today, at CSU-Spur Governor Polis and Colorado Department of Agriculture (CDA) Commissioner Kate Greenberg awarded $500,000 in grants to seven projects that demonstrate the use and benefits of agrivoltaics, the simultaneous use of land for solar energy production and agriculture.
+Governor Polis Announces Funding for Agrivoltaics Grants to Help Colorado’s Agriculture Industry Benefit from Solar Technology TUESDAY, DECEMBER 19, 2023 DENVER — Today, at CSU-Spur Governor Polis and Colorado Department of Agriculture (CDA) Commissioner Kate Greenberg awarded $500,000 in grants to seven projects that demonstrate the use and benefits of agrivoltaics, the simultaneous use of land for solar energy production and agriculture.
 These grants distributed by the Polis administration will provide funding to incorporate innovative technology that supports Colorado’s producers to operate in the face of challenges created by climate change and prepare the next generation.
 “Colorado’s agriculture industry puts food on tables and helps drive our strong state economy.
 Agrivoltaics shows us how science and innovation can help Colorado’s bedrock industries take advantage of solar power and will help our hardworking farmers and ranchers get ahead,” said Governor Polis.
@@ -228,3 +227,4 @@ In December of this year, Governor Polis unveiled a first-of-its-kind Climate Pr
 By growing food, fiber, and fuel and developing energy on the same parcel of land, Colorado can meet renewable energy goals while fostering a resilient agricultural system in Colorado.
 Through a comprehensive approach that includes technical assistance, grant funding, marketing assistance, advocacy, and partnerships, the state can maintain agricultural production while ensuring the sustainable use of water and soil resources.
 For more information, visit ag.colorado.gov/ADCRO.
+Paid for by Karen for CO Paid for by Karen for CO | Registered Agent Karen McCormick PO Box 326, Hygiene, CO 80533 info@karenforco.com — (720) 340-1725

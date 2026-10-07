@@ -1,4 +1,6 @@
-Why did I, a busy wife, grandma, and owner/operator of several family businesses, decide to run for State Senator in District 7?
+Skip to the content Sen.
+Cindy Carlson 4 Idaho ALL IN FOR IDAHO!
+Menu Home About Issues Endorsements News Contact My Substack Donate Close Menu Home About Issues Endorsements News Contact My Substack Donate Facebook About Cindy Carlson Why did I, a busy wife, grandma, and owner/operator of several family businesses, decide to run for State Senator in District 7?
 I ran for Idaho Senate, District 7 because I was concerned that conservative voices were not being represented in the legislature.
 In 2022, with your support, we successfully replaced a Republican incumbent who frequently sided with Democrat ideas.
 He helped kill conservative legislation in committee before they came up for a vote on the Senate Floor.
@@ -29,3 +31,5 @@ I know from this experience firsthand how important it is to empower parents and
 I am involved in the helicopter industry and am active in the Vertical Association International (VAI) Restricted & Experimental Category Aircraft (RECA) and the VAI Utilities, Patrol, and Construction (UPAC) Advisory Groups.
 If you believe, like I do, that we need to stay the course and continue keeping Idaho a conservative state, let me continue to be your advocate to prevent Idaho from tilting LEFT of center.
 I am Cindy Carlson, your District 7 Senator, and I am ALL IN FOR IDAHO!
+Donate Get in Touch Watch Facebook © 2026 Sen.
+Cindy Carlson 4 Idaho Powered by WordPress To the top ↑ Up ↑

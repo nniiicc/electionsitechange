@@ -1,12 +1,42 @@
 [
-"https://facebook.com/ken.reed.7906",
-"https://kenreedforwv.com/",
-"https://kenreedforwv.com/contact-info",
-"https://kenreedforwv.com/endorsements",
-"https://kenreedforwv.com/general-5",
-"https://kenreedforwv.com/get-involved",
-"https://kenreedforwv.com/issues",
-"https://kenreedforwv.com/meet-tally",
-"https://kenreedforwv.com/news",
-"https://ovr.sos.wv.gov/Register/Landing"
+{
+"text": "CONTACT INFO",
+"href": "https://www.kenreedforwv.com/contact-info"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kenreedforwv.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kenreedforwv.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kenreedforwv.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.kenreedforwv.com/issues"
+},
+{
+"text": "MEET KEN",
+"href": "https://www.kenreedforwv.com/meet-tally"
+},
+{
+"text": "NEWS",
+"href": "https://www.kenreedforwv.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kenreedforwv.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ken.reed.7906"
+},
+{
+"text": "[image][image][image]",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+}
 ]

@@ -1,7 +1,12 @@
 {
- "description": "My Story My parents came to America with a belief that hard work could turn opportunity into a better life. [\u2026]",
+ "description": "My Story My parents came to America with a belief that hard work could turn opportunity into a better life. […]",
  "final_url": "https://fionama.com/my-story/",
- "paid_for_by": "Paid for by Fiona Ma for Lieutenant Governor 2026 \u2022 FPPC # 1457360 Contact Us | Privacy Policy Please contact Fiona directly at: Fiona@FionaMa",
+ "fingerprint": "b5c0d1bb088ed6b664b38bf1b9bca695482f5da0",
+ "format": 3,
+ "paid_for_by": "Paid for by Fiona Ma for Lieutenant Governor 2026 • FPPC # 1457360 Contact Us",
  "title": "My Story - Fiona Ma for Lieutenant Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995",
+  "2026"
+ ]
 }

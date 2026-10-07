@@ -1,21 +1,90 @@
 [
-"https://bsky.app/profile/cindewarmington.bsky.social",
-"https://cindewarmington.com/",
-"https://cindewarmington.com/endorsements",
-"https://cindewarmington.com/news",
-"https://cindewarmington.com/priorities",
-"https://cindewarmington.com/privacy-policy",
-"https://facebook.com//CindeWarmingtonNH",
-"https://friends-of-cinde-warmington.solidarity.tech/events",
-"https://instagram.com/cindewarmington",
-"https://secure.actblue.com/donate/cw-fr-2608-ads",
-"https://secure.actblue.com/donate/cw-website26",
-"https://secure.actblue.com/donate/cw-website26?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/cw-website26?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/cw-website26?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/cw-website26?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/cw-website26?amount=50&express_lane=true",
-"https://tiktok.com/@cinde.warmington",
-"https://x.com/CindeWarmington",
-"https://youtube.com/@CindeWarmingtonNH"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cw-website26?amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cw-website26?amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cw-website26?amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cw-website26?amount=250&express_lane=true+"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/cw-website26?amount=50&express_lane=true"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cw-website26"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/cw-fr-2608-ads"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindewarmington.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://friends-of-cinde-warmington.solidarity.tech/events"
+},
+{
+"text": "News",
+"href": "https://www.cindewarmington.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/cw-website26"
+},
+{
+"text": "Priorities",
+"href": "https://www.cindewarmington.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cindewarmington.com/privacy-policy"
+},
+{
+"text": "Vote@CindeWarmington.com",
+"href": "mailto:Vote@CindeWarmington.com"
+},
+{
+"text": "[image: Cinde Warmington for Governor logo]",
+"href": "https://www.cindewarmington.com/"
+},
+{
+"text": "[image: Cinde Warmington for Governor]",
+"href": "https://www.cindewarmington.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/cindewarmington.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//CindeWarmingtonNH"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cindewarmington/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@cinde.warmington"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CindeWarmingtonNH"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CindeWarmington"
+}
 ]

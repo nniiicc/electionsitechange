@@ -1,14 +1,78 @@
 [
-"https://facebook.com/profile.php?id=61591283250296",
-"https://instagram.com/tebrownforflorida",
-"https://secure.winred.com/te-brown-for-congress/donate-today",
-"https://tebrownforflorida.com/",
-"https://tebrownforflorida.com/career-center",
-"https://tebrownforflorida.com/donate",
-"https://tebrownforflorida.com/events",
-"https://tebrownforflorida.com/issues",
-"https://tebrownforflorida.com/meet-te-brown",
-"https://tebrownforflorida.com/the-people-first-agenda",
-"https://tebrownforflorida.com/volunteer",
-"https://x.com/TeBrownForFL"
+{
+"text": "Career Center",
+"href": "https://tebrownforflorida.com/career-center/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/te-brown-for-congress/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://tebrownforflorida.com/donate"
+},
+{
+"text": "Email: info@tmbrownforcongress.com",
+"href": "mailto:info@tmbrownforcongress.com"
+},
+{
+"text": "Events",
+"href": "https://tebrownforflorida.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591283250296"
+},
+{
+"text": "Home",
+"href": "https://tebrownforflorida.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tebrownforflorida/"
+},
+{
+"text": "Issues",
+"href": "https://tebrownforflorida.com/issues/"
+},
+{
+"text": "Meet Te Brown",
+"href": "https://tebrownforflorida.com/meet-te-brown"
+},
+{
+"text": "Meet Te Brown",
+"href": "https://tebrownforflorida.com/meet-te-brown/"
+},
+{
+"text": "Phone: 305-930-4802",
+"href": "tel:+13059304802"
+},
+{
+"text": "Policies",
+"href": "https://tebrownforflorida.com/the-people-first-agenda/"
+},
+{
+"text": "Volunteer",
+"href": "https://tebrownforflorida.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/TeBrownForFL"
+},
+{
+"text": "[no text]",
+"href": "https://tebrownforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591283250296"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tebrownforflorida/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TeBrownForFL"
+}
 ]

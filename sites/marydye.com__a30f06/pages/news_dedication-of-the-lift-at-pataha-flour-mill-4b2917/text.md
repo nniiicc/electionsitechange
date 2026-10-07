@@ -1,17 +1,10 @@
-Dedication of the Lift at Pataha Flour Mill
-News Coverage by East Washingtonian
-The ribbon was cut by Lt.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Dedication of the Lift at Pataha Flour Mill Apr 14 Written By Jim Hedemark Photo Credit: Naomi Scoggin News Coverage by East Washingtonian The ribbon was cut by Lt.
 Governor Heck, State Representative Mary Dye, and Andrew Rowles of U.S.
 Representative Michael Baumgartner's office.
 Gary Houser, great-grandson of John Houser who built the mill in 1878, took the first ride in the lift and Representative Dye took the first walk up the stairs.
-Read All HERE
-Rep.
-Dye’s Greeting Comments …
-April 11, 2026
-by Representative Mary Dye
-Lt.
-Governor Denny Heck, and your lovely wife of a half century, Paula, and distinguished guests …
-We are honored to celebrate together this place and the commitment we share to make our community a place of living history, and a continuity that sustains our sense of identity and belonging, a place that echoes with fond memories and historic struggles as our families, undaunted, broke open the abundance of this beautiful place and created a community bound together in the profound responsibility of stewarding the legacy this land ties us to.
+Read All HERE Rep.
+Dye’s Greeting Comments … April 11, 2026 by Representative Mary Dye Lt.
+Governor Denny Heck, and your lovely wife of a half century, Paula, and distinguished guests … We are honored to celebrate together this place and the commitment we share to make our community a place of living history, and a continuity that sustains our sense of identity and belonging, a place that echoes with fond memories and historic struggles as our families, undaunted, broke open the abundance of this beautiful place and created a community bound together in the profound responsibility of stewarding the legacy this land ties us to.
 Lt.
 Governor, we are so deeply grateful that you would commit your time and resources to come here and honor this occasion.
 We are deeply rooted to this place our families built.
@@ -41,3 +34,5 @@ Governor, thank you for coming today.
 Today, we feel seen.
 Our little community matters.
 Thank you for coming to this wonderful celebration, where we can see that through common care of the life-sustaining foundational institutions that form the context of lives full of meaning and purpose, and by coming together to share the responsibility of stewarding these communities in places of need, we can celebrate our shared history—memories of a time when common bonds were forged—and, through renewed understanding and shared responsibility, bridge our differences with empathy; strengthening our shared purpose, we will sustain these communities—together—for generations to come.
+Jim Hedemark Previous Previous MARY DYE ANNOUNCES 2026 REELECTION CAMPAIGN Next Next What Just Happened: A Report from Rep.
+Mary Dye on the End of the 2025 Legislature Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

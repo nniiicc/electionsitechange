@@ -1,19 +1,86 @@
 [
-"http://facebook.com/pennock4misenate",
-"http://google.com/calendar/event?action=TEMPLATE&text=Kent+County+Democratic+Party+Social+Hour&dates=20260408T220000Z%2F20260408T230000Z&location=301+Fuller+Avenue+Northeast%2C+Grand+Rapids%2C+MI%2C+49503%2C+United+States",
-"http://instagram.com/pennock4misenate",
-"http://maps.google.com/?q=301+Fuller+Avenue+Northeast+Grand+Rapids%2C+MI%2C+49503+United+States",
-"https://pennock4misenate.bsky.social/",
-"https://pennock4misenate.com/",
-"https://pennock4misenate.com/about",
-"https://pennock4misenate.com/cart",
-"https://pennock4misenate.com/contact",
-"https://pennock4misenate.com/issues",
-"https://pennock4misenate.com/privacy-policy",
-"https://pennock4misenate.com/upcoming-events",
-"https://pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek",
-"https://pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour?format=ical",
-"https://pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi",
-"https://pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns",
-"https://secure.actblue.com/donate/pennock4misenate"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=301+fuller+avenue+northeast+grand+rapids%2C+mi%2C+49503+united+states"
+},
+{
+"text": "0",
+"href": "https://www.pennock4misenate.com/cart"
+},
+{
+"text": "About Anthony",
+"href": "https://www.pennock4misenate.com/about"
+},
+{
+"text": "Aligned Priorities",
+"href": "https://www.pennock4misenate.com/wpp-in-action-anthonys-supported-campaigns"
+},
+{
+"text": "Back",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "BlueSky",
+"href": "https://pennock4misenate.bsky.social"
+},
+{
+"text": "Contact Us",
+"href": "https://www.pennock4misenate.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pennock4misenate"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Kent+County+Democratic+Party+Social+Hour&dates=20260408T220000Z%2F20260408T230000Z&location=301+Fuller+Avenue+Northeast%2C+Grand+Rapids%2C+MI%2C+49503%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.pennock4misenate.com/upcoming-events/kent-county-democratic-party-social-hour?format=ical"
+},
+{
+"text": "Next Next April 15 We Care Lowell: Education Solutions in MI",
+"href": "https://www.pennock4misenate.com/upcoming-events/we-care-lowell-education-solutions-in-mi"
+},
+{
+"text": "Previous Previous March 21 Calhoun County Coffee Hour - Battle Creek",
+"href": "https://www.pennock4misenate.com/upcoming-events/calhoun-county-coffee-hour-battle-creek"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pennock4misenate.com/privacy-policy"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.pennock4misenate.com/upcoming-events"
+},
+{
+"text": "Working People's Priorities",
+"href": "https://www.pennock4misenate.com/issues"
+},
+{
+"text": "[image: Dr. Anthony Pennock for MI Senate District 18]",
+"href": "https://www.pennock4misenate.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/pennock4misenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:pennock4misenate@gmail.com"
+},
+{
+"text": "pennock4misenate.com",
+"href": "mailto:info@pennock4misenate.com"
+}
 ]

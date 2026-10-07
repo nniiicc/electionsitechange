@@ -1,7 +1,11 @@
 {
  "description": "Add your name as a supporter endorsing Greg Abdouch for California Assembly District 45.",
  "final_url": "https://www.abdouchforca.com/endorse-greg",
- "paid_for_by": "PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 \u00a9 2026 Greg Abdouch For CA Assembly",
+ "fingerprint": "f36a67e0878f1c267f96ded4b02ace0b7369f23c",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly",
  "title": "Endorse Greg Abdouch for CA Assembly District 45",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

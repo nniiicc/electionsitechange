@@ -1,4 +1,6 @@
-I dedicated nearly a decade to serving the people of Miami-Dade County, first in the House of Representatives and later in the Senate.
+Running for State Representative of District 108 , join me in the fight for better healthcare, education, gun violence prevention and housing!
+Home Initiatives Petition & Yard Sign Support Form Bio Accomplishments Comment Accomplishments Press Releases Blog Contact Stand With Daphne – Give Today 0 Daphne D.
+Campbell, RN, BSN Former Senator I dedicated nearly a decade to serving the people of Miami-Dade County, first in the House of Representatives and later in the Senate.
 My journey into politics began with a simple but powerful belief: that everyone deserves a voice, especially those who have been overlooked and underserved.
 Born in Cap-Haïtien, Haiti, I understand the importance of community, perseverance, and the value of hard work.
 I’ve always strived to bring these values into my work as a public servant.
@@ -10,3 +12,4 @@ I’ve always believed in standing up for what’s right, even when it wasn’t 
 My legacy as a leader is defined by my commitment to the people I served—by listening to their needs, fighting for their rights, and working every day to create a better future for all.
 If you’re interested in learning more about my work or collaborating on future initiatives, I’d love to connect.
 Let’s continue to work together to create a positive impact for our communities.
+Merchant Policies Legal Notice Powered by

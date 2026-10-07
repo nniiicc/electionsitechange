@@ -1,5 +1,4 @@
-Donald Norcross for Congress
-This website is operated by Donald Norcross for Congress (“DNC”, “we” or “us”).
+Press enter to search Home Meet Donald Our District Issues Volunteer News Vote Donate Contact Donate Meet Donald Our District Issues Volunteer News Vote Share Privacy Policy Donald Norcross for Congress This website is operated by Donald Norcross for Congress (“DNC”, “we” or “us”).
 This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by DNC with respect to your use of the donaldnorcross.com Web site and other Donald Norcross for Congress Web and mobile sites and applications which display this Policy (the “Sites”) so you can make an informed decision about using the Sites.
 This Policy also applies to personal information collected on other web sites and mobile sites on our behalf by third party vendors.
 We reserve the right to change the provisions of this Policy at any time.
@@ -16,7 +15,7 @@ Such information may include personal information, such as your name, mailing ad
 Personal and demographic information may also be collected if you provide such information in connection with creating a profile or group, leaving comments, posting videos, stories, comments or other content, sending an email or message to another user, or participating in any interactive forums or features on the Sites.
 In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, games, promotions, and other activities on the Sites.
 In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors.
-For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
+For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $# per calendar year.
 If we add a Voter Registration tool and you use it, you may also provide your driver’s license number, your social security number or the last four digits of your social security number, but that information would be deleted after the form is printed, so we would not retain it.
 Passive Collection: When you use the Sites, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on our Sites.
 We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.
@@ -36,49 +35,24 @@ These third parties may automatically collect information about your visits to t
 They do this by using cookies, clear gifs or other technologies.
 Information collected may be used by DNC and third parties, among other things, to analyze and track data, to solicit donations, to deliver advertising or content on this or other websites based on your prior activities on this or other sites or targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties.
 This Policy does not apply to, and we are not responsible for, cookies or clear gifs used by the third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
-If you would like to opt out of these cookies or obtain more information related to third party advertising networks, click here: http://www.networkadvertising.org.
+If you would like to opt out of these cookies or obtain more information related to third party advertising networks, click here: http://www.networkadvertising.org .
 In some cases, third party vendors may collect personal information from you, such as your name and email address, on other web sites and provide this information to us, or DNC may collect personal information that you enter directly within an advertising unit.
 This Policy does apply to such personal information collected online in this manner, and we will treat such information in the same manner as information collected on our Sites.
 How Do We Use the Personal Information We Collect?
 We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites.
-For example, we may use personal information we collect:
-- to provide the services, products, or information you request, and to process and complete such requests and any related transactions;
-- to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
-- to notify you about important changes to the Sites;
-- to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
-- to help connect you with other supporters, and to solicit volunteers, donations and support for DNC and for candidates, issues and organizations that we support;
-- to remind you to send in your voter registration form and to vote;
-- to assist you in finding your registration information and polling location;
-- to contact you if other information is necessary under federal election laws;
-- to request feedback and to otherwise contact you about your use of the Sites;
-- to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
-- to monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness;
-- to serve ads, on this or other websites or media, based on the information you provide and the actions you take;
-- to notify and contact contest and sweepstakes entrants; and
-- for any other purpose for which the information was collected.
+For example, we may use personal information we collect: to provide the services, products, or information you request, and to process and complete such requests and any related transactions; to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites; to notify you about important changes to the Sites; to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services; to help connect you with other supporters, and to solicit volunteers, donations and support for DNC and for candidates, issues and organizations that we support; to remind you to send in your voter registration form and to vote; to assist you in finding your registration information and polling location; to contact you if other information is necessary under federal election laws; to request feedback and to otherwise contact you about your use of the Sites; to respond to your emails, submissions, questions, comments, and requests and to provide customer service; to monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness; to serve ads, on this or other websites or media, based on the information you provide and the actions you take; to notify and contact contest and sweepstakes entrants; and for any other purpose for which the information was collected.
 What Personal Information Do We Share With Third Parties?
 It is our policy not to share the personal information we collect from you through our Sites with third parties, except as described in this Policy or as otherwise disclosed on the Sites.
-For example, we may share personal information as follows:
-- with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
-- with candidates, organizations, groups or causes that we believe have similar political viewpoints, principles or objectives;
-- to report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov);
-- when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
-- when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
-- when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of DNC, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
-- to enforce or apply this Policy, our Terms of Service, or our other policies or agreements; and
-- in connection with, or during negotiations of, any reorganization, formation of new committee, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of DNC.
+For example, we may share personal information as follows: with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us; with candidates, organizations, groups or causes that we believe have similar political viewpoints, principles or objectives; to report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov ); when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information; when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders; when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of DNC, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site; to enforce or apply this Policy, our Terms of Service, or our other policies or agreements; and in connection with, or during negotiations of, any reorganization, formation of new committee, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of DNC.
 We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.
 Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
-Online Petitions:
-If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.
+Online Petitions: If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.
 In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
-Interactive Features:
-You understand that when you use the Sites, information you post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available.
+Interactive Features: You understand that when you use the Sites, information you post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available.
 In addition, when you sign up and create an account, certain information regarding actions you take through the Sites, such as joining a group or actions tracked under the “Making a Difference” section of your profile, may available to other users and, in some cases, may be publicly available.
 We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
 We are not responsible for the actions of any third parties with whom you share personal information.
-Social Plugins:
-The Sites may use social plugins (“Plugins”), which lets friends share actions they take across web sites (e.g. the Facebook “Like” button).
+Social Plugins: The Sites may use social plugins (“Plugins”), which lets friends share actions they take across web sites (e.g. the Facebook “Like” button).
 Plugins are generally identifiable by the logo for the applicable social network or other notice indicating the use of a Plugin.
 When you visit a page of our website that contains a Plugin, your browser establishes a direct connection to the servers of the social network providing the Plugin, which enables that social network to receive certain information, such as information about your having accessed the respective page of our Site.
 If you are logged into the applicable social network, your visit can be assigned to the account of such social network.
@@ -87,8 +61,7 @@ Even if you are not logged into that social network, there is possibility that t
 For information on the purpose and scope of data collection and processing by such social networks, as well as your rights in this respect and settings options for protecting your privacy please visit the privacy policy page for the social network providing the Plugin.
 If you do not want the social networks providing the Plugins to connect the data concerning your visit to our website with your member data already stored by such social networks, you must log off all such social networks before entering our website.
 Simply closing the social network page does not suffice.
-Links to Other Websites
-Our Sites may contain links to other websites.
+Links to Other Websites Our Sites may contain links to other websites.
 Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy.
 This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Sites.
 We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
@@ -104,4 +77,7 @@ Please note that we may still send you other types of emails, such as emails abo
 You can view or modify information stored with your user account by logging in to your account and accessing the Manage My Account page.
 Changes to information in your account does not affect information provided to others as set forth in this policy, including in connection with petitions or donations or that has been previously shared with like-minded candidates, organizations, groups or causes.
 Questions?
-If you have any questions about this Policy, please contact us at info@norcrossforcongress.com.
+If you have any questions about this Policy, please contact us at info@norcrossforcongress.com .
+Meet Donald Our District Issues Volunteer News Vote Privacy Policy Contact us ©# Donald Norcross for Congress.
+All rights reserved.
+Paid for by Norcross for Congress Donate Join our campaign

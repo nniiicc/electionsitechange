@@ -1,4 +1,4 @@
-| The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
+UT 74 VOTE ABOUT Posts Experience Contact America 250 7/2/2026 The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
 The Declaration and the American Revolution changed the course of history.
 In a first of its kind, the people required the government to serve them instead of the people serving the government.
 It introduced powerful principles that reverberate across our country today.
@@ -29,4 +29,5 @@ The founders gave us more than a Constitutional Republic when the United States 
 They identified three truths that transcend the form of government, and they helped us understand that certain rights come from our creator, regardless of who was in charge of that government.
 The founders also reminded us in the preamble to the Constitution, "in order to...secure the blessings of liberty to ourselves and our posterity" that we would have honor these truths and protect these God given rights through succeeding generations.
 Each generation is responsible to carry the fire of the Declaration and the founding principles of this country as a steward for the next.
-While we may not be required to "pledge to each other our Lives, our Fortunes and our sacred Honor" in the way the founders did, we can make a small but meaningful contribution in our celebrations of the 250th anniversary of the Declaration this July 4th weekend as we help our children remember how blessed they are to live in the United States of America. | |
+While we may not be required to "pledge to each other our Lives, our Fortunes and our sacred Honor" in the way the founders did, we can make a small but meaningful contribution in our celebrations of the 250th anniversary of the Declaration this July 4th weekend as we help our children remember how blessed they are to live in the United States of America.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

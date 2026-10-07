@@ -1,15 +1,62 @@
 [
-"https://facebook.com/WilsonforSC",
-"https://secure.winred.com/wilson-for-sc/donate-gov",
-"https://secure.winred.com/wilson-for-sc/storefront",
-"https://twitter.com/agalanwilson",
-"https://wilsonforsc.com/",
-"https://wilsonforsc.com/about-me",
-"https://wilsonforsc.com/about-mike",
-"https://wilsonforsc.com/cdn-cgi/l/email-protection",
-"https://wilsonforsc.com/contact",
-"https://wilsonforsc.com/join-our-coalitions",
-"https://wilsonforsc.com/priorities",
-"https://wilsonforsc.com/privacy-policy",
-"https://wilsonforsc.com/volunteer"
+{
+"text": "About Alan",
+"href": "https://wilsonforsc.com/about-me/"
+},
+{
+"text": "About Mike",
+"href": "https://wilsonforsc.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://wilsonforsc.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/wilson-for-sc/donate-gov"
+},
+{
+"text": "Get Involved",
+"href": "https://wilsonforsc.com/volunteer/"
+},
+{
+"text": "Join our Coalitions",
+"href": "https://wilsonforsc.com/join-our-coalitions/"
+},
+{
+"text": "Platform",
+"href": "https://wilsonforsc.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wilsonforsc.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/wilson-for-sc/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://wilsonforsc.com/volunteer/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:teamwilson@wilsonforsc.com"
+},
+{
+"text": "[image: wilson-reichenbach-logo-500]",
+"href": "https://wilsonforsc.com"
+},
+{
+"text": "[image]",
+"href": "https://wilsonforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/agalanwilson"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WilsonforSC"
+}
 ]

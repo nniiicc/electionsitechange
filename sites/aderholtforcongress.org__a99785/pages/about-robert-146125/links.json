@@ -1,10 +1,38 @@
 [
-"https://aderholtforcongress.org/",
-"https://aderholtforcongress.org/about-robert",
-"https://aderholtforcongress.org/contact-me",
-"https://aderholtforcongress.org/issues",
-"https://aderholtforcongress.org/press",
-"https://aderholtforcongress.org/registered-to-vote%3F",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt"
+{
+"text": "About Robert",
+"href": "https://aderholtforcongress.org/about-robert"
+},
+{
+"text": "Contact Me",
+"href": "https://aderholtforcongress.org/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt/"
+},
+{
+"text": "Home",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "Issues",
+"href": "https://aderholtforcongress.org/issues"
+},
+{
+"text": "Press",
+"href": "https://aderholtforcongress.org/press"
+},
+{
+"text": "Registered to Vote?",
+"href": "https://aderholtforcongress.org/registered-to-vote%3F"
+},
+{
+"text": "[image]",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

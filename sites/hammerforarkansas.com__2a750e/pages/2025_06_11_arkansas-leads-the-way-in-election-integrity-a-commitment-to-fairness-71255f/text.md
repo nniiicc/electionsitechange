@@ -1,7 +1,4 @@
-Arkansas Leads the Way in Election Integrity: A Commitment to Fairness and Transparency
-June 11, 2025
-By State Senator Kim Hammer, Republican Candidate for Arkansas Secretary of State
-I believe what most every American believes; election integrity is paramount in choosing who governs us.
+Home Meet Kim Election Security News Volunteer Donate Donate Arkansas Leads the Way in Election Integrity: A Commitment to Fairness and Transparency June 11, 2025 By State Senator Kim Hammer, Republican Candidate for Arkansas Secretary of State I believe what most every American believes; election integrity is paramount in choosing who governs us.
 It means nothing to call ourselves a constitutional republic if our people do not truly have the power to dictate who gets to make decisions on our behalf, and in what capacity.
 Every voter should feel assured that his or her vote counts, and every citizen should know that our elections are free from fraud and outside interference.
 We should know without a doubt that the process and mechanisms used – down to the ballot box itself – produce a wholly accurate representation of the people’s will.
@@ -24,7 +21,7 @@ On a national level, this March President Donald Trump signed an Executive Order
 These include mandating proof of U.S. citizenship for voter registration, mail-in ballot deadlines, voter roll maintenance, election equipment standardization, and compliance in order for states to receive federal funding.
 During my time in the Arkansas legislature, I and my legislative colleagues have made election integrity a top priority.
 Our legislation which passed this session made our state #1 in the country for safest elections according to the Heritage Foundation’s election scorecard, crowning Arkansas as the best of the best.
-The acts – 218, 240, 241, 273, and 274 – champion common-sense reforms that strengthen voter ID laws, increase transparency in election procedures, and improve the accuracy of voter rolls.
+The acts – 218 , 240 , 241 , 273 , and 274 – champion common-sense reforms that strengthen voter ID laws, increase transparency in election procedures, and improve the accuracy of voter rolls.
 They also create a clear framework for addressing potential election fraud while safeguarding the rights of lawful voters.
 Resulting from this, in the Heritage Foundation’s analysis, Arkansas scores high on key components such as ID implementation, legitimacy of registration lists, absentee ballot management, restrictions on vote harvesting and trafficking, access of election observers, verification of citizenship, identification for voter assistance, vote counting practices, and more.
 These measures ensure that every legal vote counts and only legal votes are counted.
@@ -35,3 +32,4 @@ Working with the legislature, the Governor, and our partners at the State Board 
 State Senator Kim Hammer has served in the Arkansas Legislature since 2011, as a State Representative until 2019 when he was elected to the Senate.
 He is currently running for Secretary of State.
 Hammer is a pastor, small business owner, and runs a nonprofit organization in Saline County.
+Home Meet Kim Election Security News Volunteer Donate Donate Paid for by Hammer for Secretary of State Privacy Policy | Terms & Conditions

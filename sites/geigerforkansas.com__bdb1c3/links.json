@@ -1,5 +1,14 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfH-cvuwCAiuF-xLEazl-359S9u0Lfxjwz7qITdP3i869muow/viewform?usp=publish-editor",
-"https://donorbox.org/geiger-for-kansas",
-"https://facebook.com/profile.php?id=61588627739062"
+{
+"text": "DONATE",
+"href": "https://donorbox.org/geiger-for-kansas"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfH-cvuwCAiuF-xLEazl-359S9u0Lfxjwz7qITdP3i869muow/viewform?usp=publish-editor"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588627739062"
+}
 ]

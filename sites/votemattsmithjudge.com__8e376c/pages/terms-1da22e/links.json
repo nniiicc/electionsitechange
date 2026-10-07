@@ -1,7 +1,34 @@
 [
-"https://secure.anedot.com/committe-to-elect-matthew-b-smith/donate",
-"https://votemattsmithjudge.com/",
-"https://votemattsmithjudge.com/audio",
-"https://votemattsmithjudge.com/privacypolicy",
-"https://votemattsmithjudge.com/terms"
+{
+"text": "ABOUT",
+"href": "https://www.votemattsmithjudge.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committe-to-elect-matthew-b-smith/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.votemattsmithjudge.com"
+},
+{
+"text": "MEDIA & AUDIO",
+"href": "https://www.votemattsmithjudge.com/audio"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votemattsmithjudge.com/privacypolicy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votemattsmithjudge.com/terms"
+},
+{
+"text": "[image: Matt Smith (White Font)]",
+"href": "https://www.votemattsmithjudge.com"
+},
+{
+"text": "matt@votemattsmith.com",
+"href": "mailto:matt@votemattsmith.com"
+}
 ]

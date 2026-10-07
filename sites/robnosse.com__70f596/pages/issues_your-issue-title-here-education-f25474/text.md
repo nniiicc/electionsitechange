@@ -1,6 +1,4 @@
-Rob Nosse believes in
-CLIMATE CHANGE
-Rob Nosse knows that climate change isn't just a scientific theory—it's a scientific fact.
+Skip navigation menu About Issues Endorsements Contact Donate About Issues Endorsements Contact Donate HEALTH CARE BEHAVIORAL HEALTH HOUSING EDUCATION CLIMATE CHANGE LGBTQ+ RIGHTS REPRODUCTIVE HEALTH WORKER'S RIGHTS OUR DEMOCRACY and Immigration Rob Nosse believes in CLIMATE CHANGE Rob Nosse knows that climate change isn't just a scientific theory— it's a scientific fact .
 That's why, year after year, Rob Nosse has voted to address climate change and protect Oregon's natural beauty.
 Passing legislation to address climate change has not been easy in Oregon.
 Too many times the opposition to policies that get at this challenge are blocked or stalled.
@@ -12,3 +10,5 @@ As climate change has made devastating wildfires more dangerous, Rob stands with
 Rob voted for HB 3490, which raised money for for wildfire victims by taxing oral nicotine pouches.
 Rob also voted for an additional $250 million in relief for victims of wildfires.
 Rob Nosse has a lifetime score of 99% from the Oregon League of Conservation Voters.
+House District 42 includes portions of Southeast & Northeast Portland.
+Friends of Rob Nosse - PO Box 42307 - Portland, Oregon 97242 Powered by RUN! website builder PAID FOR BY FRIENDS OF ROB NOSSE (16459) You need to enable JavaScript to run this app.

@@ -1,9 +1,30 @@
 [
-"https://adambotana.com/",
-"https://adambotana.com/donate",
-"https://adambotana.com/issues",
-"https://adambotana.com/meet-adam",
-"https://adambotana.com/volunteer",
-"https://facebook.com/AdamBotanaFL",
-"https://twitter.com/headboatwasher"
+{
+"text": "Donate",
+"href": "https://adambotana.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://adambotana.com/"
+},
+{
+"text": "Issues",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "Meet Adam",
+"href": "https://adambotana.com/meet-adam/"
+},
+{
+"text": "Volunteer",
+"href": "https://adambotana.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/headboatwasher"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AdamBotanaFL/"
+}
 ]

@@ -1,5 +1,4 @@
-ABOUT JEFF GONZALEZ
-Jeff Gonzalez is a combat veteran, pastor, community leader, and father.
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE ABOUT JEFF GONZALEZ Jeff Gonzalez is a combat veteran, pastor, community leader, and father .
 He serves in the State Assembly to fix California’s growing challenges and ensure every family has the opportunity to succeed, afford to live here, and enjoy a better quality of life.
 A first-generation American, Jeff felt called to serve his country from a young age.
 After graduating high school, he enlisted in the United States Marine Corps, where he served in combat zones in Iraq and Afghanistan.
@@ -15,3 +14,5 @@ He understands the burdens placed on job creators and has seen firsthand how pol
 He knows what California is capable of and has the determination to help fix what’s broken.
 Jeff’s mission in Sacramento is clear: increase access to healthcare, lower the cost of living, support public safety, and restore opportunity across California.
 He is married to his wife, Christine, have four children: RJ, Lexi, Zack and Michael and together they reside in the City of Indio with their fur babies Milo and Izzy.
+MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

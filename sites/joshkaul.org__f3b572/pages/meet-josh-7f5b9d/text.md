@@ -1,5 +1,4 @@
-Meet Josh
-Josh Kaul took office as Attorney General in January 2019.
+0 Skip to Content Meet Josh Get Involved Contact Us DONATE Open Menu Close Menu Meet Josh Get Involved Contact Us DONATE Open Menu Close Menu Meet Josh Get Involved Contact Us DONATE Meet Josh Josh Kaul took office as Attorney General in January 2019.
 His administration has fought crime, protected our natural resources, and defended our rights, taking on tough issues and getting results.
 He has consistently fought for the best interests of Wisconsinites, with a track record that shows that he’ll work with anyone and stand up to anyone.
 Much of Josh’s career before he was elected Attorney General was spent working to keep families safe and to protect the right to vote.
@@ -18,3 +17,4 @@ Josh began his legal career as a law clerk to Judge Michael Boudin, who was then
 Court of Appeals for the First Circuit.
 After his clerkship, Josh worked for Jenner & Block in Washington, D.C.
 Josh and Lindsey are the proud parents of two boys, Simon and Henry.
+PO Box 5522 Madison, WI 53705 PAID FOR BY KAUL FOR ATTORNEY GENERAL

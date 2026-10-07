@@ -1,6 +1,5 @@
-Thank you Principal Lewis and staff for all you do to impact our children !!!!
-Investing in Our Future! 📚🎉
-Today, I had the honor of presenting Pleasant Grove Elementary School with a $5,000 contribution to support their students, teachers, and programs.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook Community Impact Investing in Pleasant Grove Elementary School By PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS September 4, 2025 September 17th, 2025 No Comments Thank you Principal Lewis and staff for all you do to impact our children !!!!
+Investing in Our Future! 📚🎉 Today, I had the honor of presenting Pleasant Grove Elementary School with a $5,000 contribution to support their students, teachers, and programs.
 Our children are the heartbeat of our community, and every investment we make in their education is an investment in a brighter tomorrow.
 I am committed to ensuring that every student in House District 57 has the resources, opportunities, and support they need to succeed.
-Together, we are building stronger schools, stronger families, and a stronger community. 💙💛
+Together, we are building stronger schools, stronger families, and a stronger community. 💙💛 PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS Previous Post Investing in Pleasant Grove High School Next Post Investing in Wenonah High School facebook © # RE-ELECT PATRICK SELLERS ALABAMA HOUSE OF REPRESENTATIVES. | PAID FOR BY COMMITTEE TO ELECT PATRICK SELLERS | 319 11TH PL PLEASANT GROVE, AL 35127 Close Menu HOME ABOUT NEWS MEDIA LOCATING VOTING INFORMATION DONATE facebook

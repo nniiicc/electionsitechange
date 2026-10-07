@@ -1,5 +1,4 @@
-The strength that brought us together
-Twenty-five years later, most of us can remember exactly where we were when the towers fell.
+Skip to content About Jill Voting Info Issues News Events Get Involved Donate Instagram Facebook YouTube LinkedIn Twenty five years later, we remember Newsletter • September 11, 2026 The strength that brought us together Twenty-five years later, most of us can remember exactly where we were when the towers fell.
 One of my strongest memories about the aftermath of September 11 is the smell.
 Smoke and chemicals hung in the air.
 A thick smog haze settled over lower Manhattan and lingered for months.
@@ -26,7 +25,7 @@ Twenty-five years later, Lower Manhattan is thriving.
 There is a beautiful memorial and museum, new transportation infrastructure, homes, businesses, parks, and a vibrant community.
 It can be difficult to remember just how uncertain its future once seemed.
 Today is first and foremost about remembering.
-We remember the nearly 3,000 people whose lives were taken.
+We remember the nearly # people whose lives were taken.
 We honor the first responders who ran toward danger and those who continue to suffer from illnesses caused by their service, loss of friends, or from their memories.
 We remember the families who have carried unimaginable loss for 25 years.
 And we remember something else from that time: people refused to give up on one another.
@@ -35,4 +34,7 @@ People helped their neighbors.
 Business leaders refused to walk away.
 Public servants worked alongside residents to rebuild.
 Twenty-five years later, that spirit of resilience and common purpose is worth remembering, too.
-We will never forget.
+We will never forget. ← Politics needs more pragmatism A common-sense approach is why Jill Oberlander has earned my vote for State Senator → Upcoming Events Sep 28 Featured September 28 @ 9:00 am – November 2 @ 7:00 pm Daily neighborhood door knocking Sep 28 Featured September 28 @ 4:00 pm – November 3 @ 6:00 pm Weekday phone bank: every weekday 4-6 pm View Calendar More posts We need a strong voice for reproductive rights Jill Has A Senior Agenda Grounded in Compassion They have our backs.
+We should have theirs.
+A little more about me A common-sense approach is why Jill Oberlander has earned my vote for State Senator CT State Senate, 36th District Greenwich, North Stamford, New Canaan Instagram Facebook YouTube LinkedIn 19 Bush Avenue Greenwich, CT 06830 jill@jilloberlander.com (475) 303-7303 Paid for by Oberlander2026.
+Approved by Jill Oberlander.

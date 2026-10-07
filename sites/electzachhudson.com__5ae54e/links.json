@@ -1,16 +1,62 @@
 [
-"https://dpo.org/",
-"https://electzachhudson.com/",
-"https://electzachhudson.com/about",
-"https://electzachhudson.com/contact",
-"https://electzachhudson.com/donate-1",
-"https://electzachhudson.com/issues",
-"https://facebook.com/HudsonDist49",
-"https://facebook.com/Zachfor49",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/repzachhudson",
-"https://oregonlive.com/opinion/2026/07/editorial-oregons-broken-promise-to-poor-students-demands-a-courageous-change.html",
-"https://portlandtribune.com/2025/10/14/rep-zach-hudson-decries-federal-layoffs-in-education-department",
-"https://theoutlookonline.com/2025/06/16/thousand-strong-gresham-rally-said-no-kings-in-peaceful-protest",
-"https://workingfamilies.org/state/oregon"
+{
+"text": "About",
+"href": "https://electzachhudson.com/about"
+},
+{
+"text": "Contact",
+"href": "https://electzachhudson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://electzachhudson.com/donate-1"
+},
+{
+"text": "Home",
+"href": "https://electzachhudson.com/"
+},
+{
+"text": "Issues",
+"href": "https://electzachhudson.com/issues"
+},
+{
+"text": "Oregon Democrat",
+"href": "https://dpo.org/"
+},
+{
+"text": "Oregon Working Families Party",
+"href": "https://workingfamilies.org/state/oregon/"
+},
+{
+"text": "Zach Hudson for State RepresentativeZach Hudson for State RepresentativeZach Hudson for State RepresentativeZach Hudson for State Representative",
+"href": "https://electzachhudson.com/"
+},
+{
+"text": "[image: Elect Zach Hudson]",
+"href": "https://www.facebook.com/Zachfor49"
+},
+{
+"text": "[image: HD 49 FB]",
+"href": "https://www.facebook.com/HudsonDist49"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repzachhudson/"
+},
+{
+"text": "[image]",
+"href": "https://portlandtribune.com/2025/10/14/rep-zach-hudson-decries-federal-layoffs-in-education-department/"
+},
+{
+"text": "[image]",
+"href": "https://theoutlookonline.com/2025/06/16/thousand-strong-gresham-rally-said-no-kings-in-peaceful-protest/"
+},
+{
+"text": "[image]",
+"href": "https://www.oregonlive.com/opinion/2026/07/editorial-oregons-broken-promise-to-poor-students-demands-a-courageous-change.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

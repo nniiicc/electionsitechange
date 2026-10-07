@@ -1,17 +1,13 @@
-Nnamdi Chukwuocha for Delaware
-Legislative Service
-Rep.
-Chukwuocha, a proud US Army (Infantry) veteran, was appointed Chair for the Veterans Affairs committee, Vice Chair for Education, Vice Chair for Corrections and membership on the Public Safety and Homeland Security and Health & Human Development committees.
-As State Representative, Nnamdi has tackled the tough issues that confront the 1st district and the state of Delaware.
+top of page Nnamdi Chukwuocha for Delaware HOME ABOUT PRIORITIES ENDORSEMENTS More Use tab to navigate through the menu items.
+Legislative Service Rep.
+Chukwuocha, a proud US Army (Infantry) veteran, was appointed Chair for the Veterans Affairs committee, Vice Chair for Education, Vice Chair for Corrections and membership on the Public Safety and Homeland Security and Health & Human Development committees. ​ As State Representative, Nnamdi has tackled the tough issues that confront the 1st district and the state of Delaware.
 Sponsoring legislation that has advanced education, criminal justice reforms, juvenile justice, professional regulations, seniors, veterans, and created the Division of Civil Rights and Public Trust within the Department of Justice.
 Environmental issues have remained a strong focus area, improving parks and public greenspaces.
-Nnamdi has supported and advanced beautification projects including the historic maker for the Harpers Thiel and is leading efforts to restore the African American Medal of honor Monument in Brandywine Park, and sponsored graffiti removal, drainage, sidewalk/ curb and street work throughout the district.
-Rep.
+Nnamdi has supported and advanced beautification projects including the historic maker for the Harpers Thiel and is leading efforts to restore the African American Medal of honor Monument in Brandywine Park, and sponsored graffiti removal, drainage, sidewalk/ curb and street work throughout the district.​ ​ Rep.
 Chukwuocha was the Chairman of the Safety & Justice Subcommittee of the African American Task Force (AATF) in partnership with Delaware State University that produced and passed legislation and community implementation plans in the areas of: Firearms, Justice, Expungement and Pardons, Mental Health and Community Planning.
-Public Service
-Before his election to the General Assembly, Nnamdi utilized his experience as the past president of the First District Neighborhood Planning Council and Wilmington City Councilman, where he was elected President Pro-tempore and chair of the Education, Youth and Families Committee; and Vice-Chair for the Finance and Economic Development Committee and a standing member for the Planning and Community Development Committee, to guide his progression towards becoming State Representative for the First District.
-Nnamdi is certainly no stranger to citizens of Wilmington and the regional and national arts arena.
+Public Service Before his election to the General Assembly, Nnamdi utilized his experience as the past president of the First District Neighborhood Planning Council and Wilmington City Councilman, where he was elected President Pro-tempore and chair of the Education, Youth and Families Committee; and Vice-Chair for the Finance and Economic Development Committee and a standing member for the Planning and Community Development Committee, to guide his progression towards becoming State Representative for the First District. ​ Nnamdi is certainly no stranger to citizens of Wilmington and the regional and national arts arena.
 He and his twin brother, Al, perform as the Twin Poets (TwinPoets.org).
 Their compassion and commitment to their work and words are deeply rooted in their efforts to utilize art as a tool to empower our children and communities.
-The Twin Poets were appointed as the Delaware State 17th Poets Laureate in December 2015 and awarded the American Poets Laureate Fellowship in 2020.
-As a Licensed Master Social Worker, Public Servant and Artist Nnamdi has continued to give selflessly of himself for the betterment of the First District and our state.
+The Twin Poets were appointed as the Delaware State 17th Poets Laureate in December 2015 and awarded the American Poets Laureate Fellowship in 2020.​ ​ As a Licensed Master Social Worker, Public Servant and Artist Nnamdi has continued to give selflessly of himself for the betterment of the First District and our state.
+Phone (302) 635-9196 Email info@nnamdi-de.com Mail Friends of Nnamdi P.O.
+Box 9350 Wilmington, DE 19809 Terms & Conditions Privacy Policy bottom of page

@@ -1,4 +1,23 @@
-Heather Somers Announces 2020 Re-Election Bid for State Senate
-GROTON — State Sen.
+Home About Heather Issues & Record News Donate SMS Opt-In Keep Up with Heather Somers News and Updates Heather Somers Announces 2020 Re-Election Bid for State Senate Heather Somers March 2, 2020 GROTON — State Sen.
 Heather Somers of Groton announced Monday she will seek re-election to the 18th district, looking to continue her record of leading with an independent voice to deliver results for eastern Connecticut, challenge the status quo in Hartford and fight for policies to improve the lives of hardworking Connecticut families.
-“I look […]
+“I look […] Read More Somers Applauds FBI Following Indictment of CMEEC Executives Heather Somers November 8, 2018 GROTON — State Senator Heather Somers reacted Thursday to reports five executives of the CMEEC utility co-operative were indicted following a two-year FBI probe.
+Somers led the fight to bring greater transparency to the utility co-op and hold its leadership accountable following revelations executives misused over $1 million hidden in a secret fund on lavish […] Read More Somers Reaffirms Commitment to Delivering Results, Challenging the Status Quo After Winning Re-Election for Second Term Heather Somers November 8, 2018 GROTON — State Sen.
+Heather Somers of Groton reacted Tuesday evening to winning a second term representing the 18th district.
+“I am incredibly honored to be given the confidence of 18th district voters to represent them for another two years,” Somers said.
+“I will continue to focus on delivering results for eastern Connecticut, challenging the […] Read More Senator Somers Named “Legislator of the Year” by Emergency Physicians Heather Somers October 25, 2018 GROTON — State Sen.
+Heather Somers of Groton was honored by the Connecticut College of Emergency Physicians Wednesday as the organization’s 2018 Legislator of the Year.
+“As co-chair of the Senate Public Health Committee, I’ve fought to improve the quality, availability and affordability of health care,” Somers said.
+“By supporting common sense policies, working diligently […] Read More Senator Somers Endorsed by Connecticut Charter & Party Boat Association Heather Somers October 11, 2018 GROTON — State Sen.
+Heather Somers of Groton announced Thursday the endorsement of the Connecticut Charter & Party Boat Association.
+“I am incredibly proud to say that after one term in office we have made tremendous progress toward giving our coastal communities, small businesses and independent operators the conditions they need to thrive,” Somers said. […] Read More Senator Somers Endorsed by Connecticut Business & Industry Association (CBIA) Heather Somers October 5, 2018 GROTON — State Sen.
+Heather Somers of Groton announced Friday the endorsement of the Connecticut Business & Industry Association (CBIA) — an active organization in Connecticut promoting pro-business policies that would spur job and wage growth in the state.
+“I am incredibly honored to be the clear choice of Connecticut’s small businesses and job creators […] Read More State’s Leading Voice for Small Business Backs Heather Somers for Second Term Heather Somers October 1, 2018 GROTON — State Sen.
+Heather Somers of Groton announced Monday the endorsement of NFIB Connecticut PAC.
+The organization described itself in the endorsement as “the leading small-business association in the nation with thousands of members in Connecticut representing a cross-section of the state’s economy.” “It is vitally important we continue to elect results-oriented leaders with […] Read More Senator Somers: Opponent Desperate for Debate About Process to Distract from Radical, Malloy-Inspired Agenda Heather Somers September 28, 2018 GROTON — State Sen.
+Heather Somers of Groton slammed her Democratic opponent Thursday for trying to generate a debate about process in order to distract from the issues — and for avoiding opportunities to answer questions of critical importance for Connecticut voters.
+“My opponent is clearly desperate to engage in a debate about process in […] Read More Senator Somers Receives State Medical Society Award for Leadership in “Promoting the Practice of Medicine” Heather Somers September 28, 2018 GROTON — State Sen.
+Heather Somers of Groton accepted the “2018 Legislative Recognition Award” from the Connecticut State Medical Society at an event in North Haven Thursday, it is Somers’ eighth award this year from various health care and advocacy organizations related to her leadership on the issue of health care as Co-Chair of the […] Read More Senator Heather Somers to Participate in Debate Hosted by Connecticut Homebuilders Heather Somers September 19, 2018 GROTON — State Sen.
+Heather Somers of Groton accepted an invitation Wednesday to participate in an upcoming debate hosted by the Home Builders & Remodelers Association of Connecticut and challenged her Democratic opponent, who skipped a recent candidate forum, to swiftly agree to participate in the important discussion on key issues facing the state.
+“Changing course in Connecticut to […] Read More Older Entries Newer Entries Delivering Results.
+Challenging the Status Quo.
+Paid for by Somers for Senate, Constantine Antipas Treasurer, Approved by Heather Somers

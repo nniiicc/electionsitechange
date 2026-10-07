@@ -1,10 +1,38 @@
 [
-"https://secure.anedot.com/tashby57/donate",
-"https://trentashby.com/",
-"https://trentashby.com/blog",
-"https://trentashby.com/donate",
-"https://trentashby.com/endorsements",
-"https://trentashby.com/getinvolved",
-"https://trentashby.com/meet-trent",
-"https://trentashby.com/privacy-policy"
+{
+"text": "@trentashby.com",
+"href": "mailto:trent@trentashby.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.trentashby.com/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/tashby57/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.trentashby.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.trentashby.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.trentashby.com"
+},
+{
+"text": "MEET TRENT",
+"href": "https://www.trentashby.com/meet-trent"
+},
+{
+"text": "PRESS ROOM",
+"href": "https://www.trentashby.com/blog"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trentashby.com/privacy-policy"
+}
 ]

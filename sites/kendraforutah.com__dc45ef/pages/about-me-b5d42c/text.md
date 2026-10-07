@@ -1,4 +1,4 @@
-Hi, I’m Kendra Penry.
+0 Skip to Content Newsletter Signup About Me Events America's Potluck Contact Donate Open Menu Close Menu Newsletter Signup About Me Events America's Potluck Contact Donate Open Menu Close Menu Newsletter Signup About Me Events America's Potluck Contact Donate Hi, I’m Kendra Penry.
 I am the Executive Director of Stokes Nature Center in Logan, UT, a position I have held since 2019.
 I earned a B.A. in International Studies from Hollins University in Roanoke, VA, and an M.A. in International Affairs from George Washington University in Washington, DC.
 I grew up in small towns and rural mountain communities, where I learned the value of hard work, community, and showing up for those in need.
@@ -9,3 +9,4 @@ I am the 2021 recipient of the Nat Frazer Environmental Education Leadership Awa
 I volunteer as the spokesperson for the Cache Valley League of Women Voters, have served as a Court Appointed Special Advocate for many years, coached Girls on the Run at Hillcrest Elementary and coach both girls and boys tennis at Mountain Crest High School in Hyrum.
 I have also been on the board for the Cache Open Space Advisory Committee for three years now.
 In 2022, I was certified as a Utah Master Naturalist and love to explore nature everywhere I go.
+Endorsements Women’s Democratic Club of Utah Utah Veterans Democratic Caucus Operating Engineers Local 3 IBEW Local 354 Donate Email: kendraforutah@gmail.com Paid for by Friends of Kendra Penry.

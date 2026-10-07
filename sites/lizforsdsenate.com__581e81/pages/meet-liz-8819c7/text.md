@@ -1,4 +1,4 @@
-Liz Larson grew up in Sioux Falls and is a working mom running for State Senate in District 10.
+0 Skip to Content MEET SENATOR LARSON SENATOR LARSON'S PRIORITIES GET A YARD SIGN MERCH CONTACT Donate Open Menu Close Menu MEET SENATOR LARSON SENATOR LARSON'S PRIORITIES GET A YARD SIGN MERCH CONTACT Donate Open Menu Close Menu MEET SENATOR LARSON SENATOR LARSON'S PRIORITIES GET A YARD SIGN MERCH CONTACT Donate Liz Larson grew up in Sioux Falls and is a working mom running for State Senate in District 10.
 Liz has a passion for community empowerment and wants to use it to make the world a better place—starting right here in our own backyard.
 With over 20 years of experience in project management and policy advising in the United States and abroad, Liz is experienced with setting goals, building coalitions and getting the job done.
 Her experience is rooted in the values she grew up with – integrity, compassion, and hard work.
@@ -13,3 +13,4 @@ Liz worked on post-tsunami economic recovery in Indonesia, agricultural extensio
 Now, Liz is ready to make a difference in her own community and state— fighting for issues that South Dakotans care about in the state legislature.
 She is running because she wants to use her passions to make the world a better place – Liz is running to build a better South Dakota guided by three values of integrity, compassion, and hard work.
 She will bring smart solutions to issues that matter to South Dakotans advocating for affordable health care, quality education, and an economy that works for everyone.
+SUPPORT LIZ LARSON’S RE-ELECTION $5 $10 $15 $20 HOME CONTACT DONATE Paid for by Liz Larson for SD State Senate

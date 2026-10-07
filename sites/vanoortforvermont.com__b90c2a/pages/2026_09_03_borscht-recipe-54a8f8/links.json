@@ -1,9 +1,34 @@
 [
-"https://vanoortforvermont.com/",
-"https://vanoortforvermont.com/2026/09/03/borscht-recipe",
-"https://vanoortforvermont.com/about",
-"https://vanoortforvermont.com/events",
-"https://vanoortforvermont.com/get-involved",
-"https://vanoortforvermont.com/tag/updates",
-"https://vanoortforvermont.com/updates"
+{
+"text": "About",
+"href": "https://vanoortforvermont.com/about/"
+},
+{
+"text": "Cancel reply",
+"href": "https://vanoortforvermont.com/2026/09/03/borscht-recipe/#respond"
+},
+{
+"text": "Events",
+"href": "https://vanoortforvermont.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vanoortforvermont.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "Updates",
+"href": "https://vanoortforvermont.com/updates/"
+},
+{
+"text": "[image: Dandelion logo]",
+"href": "https://vanoortforvermont.com/"
+},
+{
+"text": "updates",
+"href": "https://vanoortforvermont.com/tag/updates/"
+}
 ]

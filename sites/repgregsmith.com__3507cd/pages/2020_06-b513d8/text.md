@@ -1,8 +1,10 @@
-Rep.
-Smith Votes YES on SB 1606
-SALEM, OR – With the 2020 1st Special Session coming to a close, we’d like to look back on what was accomplished.
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Rep.
+Smith Votes YES on SB 1606 June 15, 2020 / in News SALEM, OR – With the 2020 1st Special Session coming to a close, we’d like to look back on what was accomplished.
 Rep.
 Smith voted yes on HB 1606 which prohibits hospital from conditioning admission or treatment, or suggesting that treatment is conditioned, on patient having POLST or executing advance directive or other instruction regarding administration, withholding or withdrawing of life-sustaining procedures or artificially administered nutrition and hydration.
 Rep.
 Smith said in an interview, “For our loved ones, this is a necessary act of compassion.
-I’m proud to use my voice and my vote to support our families.”
+I’m proud to use my voice and my vote to support our families.” https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2020-06-15 20:25:15 2022-03-30 20:25:31 Rep.
+Smith Votes YES on SB 1606 Special Session Underway June 13, 2020 / in News SALEM , OR – The 2020 1st Special Session has begun and Legislators from across the state are coming together to address issues ranging from police reform to housing policies.
+Representative Smith also hopes to address the unemployment mishaps so many Oregonians can collect the money that they so desperately need. https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 admin https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png admin 2020-06-13 20:25:59 2022-03-30 20:26:15 Special Session Underway July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

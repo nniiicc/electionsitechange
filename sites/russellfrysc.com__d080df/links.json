@@ -1,24 +1,106 @@
 [
-"https://facebook.com/RussellFrySC",
-"https://instagram.com/russellfrysc",
-"https://russellfrysc.com/",
-"https://russellfrysc.com/about",
-"https://russellfrysc.com/contact",
-"https://russellfrysc.com/issues",
-"https://russellfrysc.com/privacy-policy",
-"https://russellfrysc.com/volunteer",
-"https://russellfrysc.com/wp-content/uploads/2024/02/fry-trump-e1707232556238.png",
-"https://russellfrysc.com/wp-content/uploads/2025/09/DSC00749.jpg",
-"https://russellfrysc.com/wp-content/uploads/2025/09/DSC00766.jpg",
-"https://russellfrysc.com/wp-content/uploads/2025/09/DSC00880.jpg",
-"https://russellfrysc.com/wp-content/uploads/2025/09/DSC00928.jpg",
-"https://russellfrysc.com/wp-content/uploads/2025/09/family.jpg",
-"https://secure.winred.com/fry-for-congress/donate",
-"https://secure.winred.com/fry-for-congress/donate?amount=10",
-"https://secure.winred.com/fry-for-congress/donate?amount=100",
-"https://secure.winred.com/fry-for-congress/donate?amount=25",
-"https://secure.winred.com/fry-for-congress/donate?amount=50",
-"https://twitter.com/RussellFrySC",
-"https://youtu.be/rytIjcUtoW0",
-"https://youtube.com/channel/UCrIR-POjflrv-xx0ccRQIBg"
+{
+"text": "$10",
+"href": "https://secure.winred.com/fry-for-congress/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/fry-for-congress/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/fry-for-congress/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/fry-for-congress/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://russellfrysc.com/about/"
+},
+{
+"text": "All Issues",
+"href": "https://russellfrysc.com/issues/"
+},
+{
+"text": "Click Here to Donate!",
+"href": "https://secure.winred.com/fry-for-congress/donate"
+},
+{
+"text": "Contact",
+"href": "https://russellfrysc.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/fry-for-congress/donate"
+},
+{
+"text": "Issues",
+"href": "https://russellfrysc.com/issues/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/fry-for-congress/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://russellfrysc.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://russellfrysc.com/volunteer/"
+},
+{
+"text": "WATCH",
+"href": "https://youtu.be/rytIjcUtoW0"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2024/02/fry-trump-e1707232556238.png"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2025/09/DSC00749.jpg"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2025/09/DSC00766.jpg"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2025/09/DSC00880.jpg"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2025/09/DSC00928.jpg"
+},
+{
+"text": "[image]",
+"href": "https://russellfrysc.com/wp-content/uploads/2025/09/family.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RussellFrySC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RussellFrySC"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/russellfrysc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCrIR-POjflrv-xx0ccRQIBg"
+},
+{
+"text": "privacy policy",
+"href": "https://russellfrysc.com/privacy-policy"
+}
 ]

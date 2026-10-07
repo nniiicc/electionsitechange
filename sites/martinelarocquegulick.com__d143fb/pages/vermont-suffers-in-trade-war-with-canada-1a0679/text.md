@@ -1,4 +1,4 @@
-Over the last few days, I’ve received multiple requests to reach out to Canadians on behalf of Vermonters.
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE Vermont Suffers in Trade War with Canada Posted on September 2, 2026 September 2, 2026 Author Martine Larocque Gulick Over the last few days, I’ve received multiple requests to reach out to Canadians on behalf of Vermonters.
 This is likely due to the fact that my family roots are Canadian, I serve in the Vermont Senate, and I speak French.
 For these reasons, both television and radio news outlets have reached out to interview me.
 They understand that I don’t serve at the federal level, and they know I am not an economist, yet are desperate to understand what is motivating their long-time ally and neighbor to behave with such animosity toward them.
@@ -20,7 +20,7 @@ In it, he wrote: “The border may feel different right now.
 We do not.
 You are our neighbors.
 You are our friends.
-You are part of this place.”
-Please consider doing what Jay Peak’s General Manager did, and post on social media, write to local officials in Vermont and Québec.
+You are part of this place.” Please consider doing what Jay Peak’s General Manager did, and post on social media, write to local officials in Vermont and Québec.
 Write to our federal delegation, and pen an op-ed declaring your solidarity with Québec and Canada.
 Canadians need to see that Vermonters stand by them and support them, in spite of the harm wrought by the federal government.
+Categories Uncategorized Post navigation ← Previous Previous post: Why the August 11 primary is important DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

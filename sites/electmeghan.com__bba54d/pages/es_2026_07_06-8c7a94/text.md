@@ -1,4 +1,5 @@
+Buscar: Buscar × Registrarse Dirección de correo electrónico Contraseña Recuérdame × Casa Facturas Noticias Conoce a meghan Valores Voluntario Votar Votación anticipada en persona y votación de emergencia Vote por correo Contacto Donar DONAR Día: 6 de julio de 2026 Página principal 06 de julio de 2026 Por Meghan Kallman 6 de julio de 2026 El proyecto de ley de la senadora Kallman sobre datos públicos de accidentes de tráfico se convierte en ley.
 El objetivo de la ley propuesta es permitir que el público acceda a los datos, los analice y promueva mejoras en la seguridad.
-Más información aquí:
-En todo Rhode Island, 11 de junio de 2026
-© Pagado por Friends of Meghan Kallman 2023
+Más información aquí: Los legisladores de Rhode Island aprueban un proyecto de ley para hacer públicos los datos sobre accidentes de tráfico.
+En todo Rhode Island, 11 de junio de 2026 Buscar Buscar: Buscar July 2026 METRO T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jan <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Conoce a meghan Meghan está comprometida a llevar las voces de la gente de Pawtucket y Providence a la Cámara de Representantes estatal.
+Aprende más Recursos Noticias Recursos COVID-19 Votar Censo Lectura y recursos Suscripción al boletín informativo © Pagado por Friends of Meghan Kallman 2023 Spanish English Spanish saltar al contenido Barra de herramientas abierta Herramientas de accesibilidad Aumentar texto Disminuir texto Escala de grises Alto contraste Contraste negativo Fondo claro Enlaces subrayados Fuente legible Reiniciar

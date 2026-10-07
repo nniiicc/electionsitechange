@@ -1,15 +1,54 @@
 [
-"https://instagram.com/troyheadrick",
-"https://secure.anedot.com/711fc9d1-dfb2-47e1-b0c3-74d17c1af8e1/donate",
-"https://threads.net/@troyheadrick",
-"https://troyheadrick.com/",
-"https://troyheadrick.com/2024/10/21/the-pitfall-of-the-scarcity-mindset",
-"https://troyheadrick.com/2024/11/06/thank-you-for-the-privilege-of-serving-our-district",
-"https://troyheadrick.com/2024/12/17/our-educational-funding-crisis-watch-for-manufactured-division",
-"https://troyheadrick.com/about-troy",
-"https://troyheadrick.com/author/troy",
-"https://troyheadrick.com/blog-entries",
-"https://troyheadrick.com/category/legislative-updates",
-"https://troyheadrick.com/contact",
-"https://troyheadrick.com/privacy-policy"
+{
+"text": "< The Pitfall of the Scarcity Mindset",
+"href": "https://www.troyheadrick.com/2024/10/21/the-pitfall-of-the-scarcity-mindset/"
+},
+{
+"text": "> Our Educational Funding Crisis: Watch for Manufactured Division",
+"href": "https://www.troyheadrick.com/2024/12/17/our-educational-funding-crisis-watch-for-manufactured-division/"
+},
+{
+"text": "About Troy",
+"href": "https://www.troyheadrick.com/about-troy/"
+},
+{
+"text": "Blog",
+"href": "https://www.troyheadrick.com/blog-entries/"
+},
+{
+"text": "Contact",
+"href": "https://www.troyheadrick.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/711fc9d1-dfb2-47e1-b0c3-74d17c1af8e1/donate"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.troyheadrick.com/category/legislative-updates/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.troyheadrick.com/privacy-policy/"
+},
+{
+"text": "Thank You for the Privilege of Serving Our District",
+"href": "https://www.troyheadrick.com/2024/11/06/thank-you-for-the-privilege-of-serving-our-district/"
+},
+{
+"text": "Troy Headrick",
+"href": "https://www.troyheadrick.com/author/troy/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.threads.net/@troyheadrick"
+},
+{
+"text": "[image: Threads]",
+"href": "https://www.instagram.com/troyheadrick/"
+},
+{
+"text": "[image: Troy Headrick]",
+"href": "https://www.troyheadrick.com"
+}
 ]

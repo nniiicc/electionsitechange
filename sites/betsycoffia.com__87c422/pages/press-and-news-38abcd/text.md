@@ -1,9 +1,6 @@
-Michigan Democratic lawmakers introduce legislation to curb campaign spending power of corporations
-By Katherine Dailey- July 8, 2026 10:00 am
-Read more
-Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says
-INTERLOCHEN, MI - Saying an “all hands on deck” approach is needed, a state representative from Northern Michigan has asked the Grand Traverse County…
-Read more
-Coffia, Byrnes Introduce House Legislation to Subject Governor, Legislature to Freedom of Information Act
-Legislation allows public to request records from Michigan lawmakers and governor’s office, helping restore trust in state government officials
-Read more
+Skip to main content Home About Policy Events Press & News Get Involved Press & News Home Press & News Press & News Categories Legislation Events Elections Special Interest Recent news Michigan Democratic lawmakers introduce legislation to curb campaign spending power of corporations Sep 17, 2026 Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says Sep 10, 2026 Coffia, Byrnes Introduce House Legislation to Subject Governor, Legislature to Freedom of Information Act Sep 10, 2026 Newsletter Stay informed - subscribe to our newsletter.
+Email The subscriber's email address.
+Manage existing Michigan Democratic lawmakers introduce legislation to curb campaign spending power of corporations 2026-09-17 By Katherine Dailey- July 8, 2026 10:00 am Read more Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says 2026-09-10 INTERLOCHEN, MI - Saying an “all hands on deck” approach is needed, a state representative from Northern Michigan has asked the Grand Traverse County… Read more Coffia, Byrnes Introduce House Legislation to Subject Governor, Legislature to Freedom of Information Act 2026-09-10 Legislation allows public to request records from Michigan lawmakers and governor’s office, helping restore trust in state government officials Read more Campaign Updates Subscribe to stay informed about Betsy's work in the community.
+Get Campaign Updates Donate Help Betsy keep up the fight for our communities.
+Donate Socials & Media Inquiries For Media Inquiries Contact: [email protected] ‌ ‌ ‌ PAID FOR BY COMMITTEE TO ELECT BETSY COFFIA P.O.
+BOX 54, ACME, MI 49690 Powered by Galiant Solutions Inc. © Copyright # - CTE Betsy Coffia Privacy Policy

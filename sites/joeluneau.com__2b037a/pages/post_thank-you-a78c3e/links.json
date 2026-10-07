@@ -1,7 +1,26 @@
 [
-"https://joeluneau.com/",
-"https://joeluneau.com/blank-1",
-"https://joeluneau.com/blank-2",
-"https://joeluneau.com/blog",
-"https://joeluneau.com/general-8"
+{
+"text": "All Posts",
+"href": "https://www.joeluneau.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.joeluneau.com/general-8"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joeluneau.com/blank-2"
+},
+{
+"text": "Home",
+"href": "https://www.joeluneau.com"
+},
+{
+"text": "Issues",
+"href": "https://www.joeluneau.com/blank-1"
+},
+{
+"text": "News",
+"href": "https://www.joeluneau.com/blog"
+}
 ]

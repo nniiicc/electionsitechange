@@ -1,12 +1,10 @@
-Privacy Policy & Terms of Service
-Last modified and effective on March 01, 2026
-1.
+0 Skip to Content Home Meet Celeste Issues Supporters Join The Team Contact Donate Open Menu Close Menu Home Meet Celeste Issues Supporters Join The Team Contact Donate Open Menu Close Menu Home Meet Celeste Issues Supporters Join The Team Contact Donate Privacy Policy & Terms of Service Last modified and effective on March 01, 2026 1.
 INTRODUCTION.
-Welcome to CelesteForUtah.com, the official website (the “website” or “site”) of the CELESTE FOR CONGRESS CAMPAIGN.
+Welcome to CelesteForUtah.com , the official website (the “website” or “site”) of the CELESTE FOR CONGRESS CAMPAIGN .
 We hope you enjoy your visit.
 We know your right to privacy online is important and understand that visitors to our website may have questions about how this website collects and uses information.
 We are committed to safeguarding the privacy of your information.
-This Privacy Policy explains our privacy practices, including the information we collect from you when you use our website, apps, and other digital and online services (collectively, the “Services”); how we may use that information; our rights to share and disclose such information to third parties; how you can review and modify information that you provide to us; and how you can communicate your preferences regarding our use and disclosure of such information.
+This Privacy Policy explains our privacy practices, including the information we collect from you when you use our website, apps, and other digital and online services (collectively, the “ Services ”); how we may use that information; our rights to share and disclose such information to third parties; how you can review and modify information that you provide to us; and how you can communicate your preferences regarding our use and disclosure of such information.
 This Privacy Policy only applies to the information collected by CELESTE FOR CONGRESS CAMPAIGN and any third parties acting with our authorization and information otherwise provided to us by third parties about you, in each instance, in connection with your use of the Services.
 This Privacy Policy applies regardless of the computer, mobile phone, tablet, or other electronic devices (“Device”) you use to access the Services and whether you are accessing the Services as a registered user or otherwise.
 By using the Services, you agree that your use of the Services is governed by this Privacy Policy and our Terms of Service.
@@ -23,7 +21,7 @@ B.
 Contributions and Payment Information.
 If you make any contribution (including any purchase) on or through the Services, your payment information (e.g., credit or debit card type, number and expiration date) and related information (e.g., physical address) may be collected by us and/or our third-party payment processors.
 C.
-Information You Choose to Provide to Us.
+Information You Choose to Provide to Us .
 We collect any information you provide to us on or through the Services or in any other way.
 For example, we collect any information you provide when you update your user account and profile (“User Account”); participate in contests, surveys, and other promotions; and/or sign up to receive newsletters and other communications.
 In addition, the Services may include features that rely on the use of information stored on, or made available through, your mobile Device.
@@ -61,25 +59,7 @@ You can learn more about adjusting your settings and preferences with respect to
 3.
 HOW DO WE USE INFORMATION THAT IT COLLECTS?
 A.
-Except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use the information we collect for, among other things, the following purposes:
-- Sending you marketing, promotional, e-mails, messages, and other correspondence and notifications regarding the Services;
-- To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers;
-- Delivery of features, content, services, and products available to you through the Services based on your location;
-- Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services;
-- Contacting you regarding the administration of any features or functions of the Services you have registered to use;
-- Sending you information about your relationship or transactions with us;
-- Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities;
-- For the prevention and detection of fraud or infringement of our or any third party’s rights;
-- Responding to your questions or other requests;
-- Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity;
-- Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services;
-- Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services);
-- Tracking your return visits to and use of the Services;
-- For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested;
-- For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third Party Platforms, etc.;
-- Accumulating and reporting aggregate, statistical information in connection with the Services and user activity;
-- Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and
-- Saving certain information for your ongoing use of the Services.
+Except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use the information we collect for, among other things, the following purposes: Sending you marketing, promotional, e-mails, messages, and other correspondence and notifications regarding the Services; To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers; Delivery of features, content, services, and products available to you through the Services based on your location; Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services; Contacting you regarding the administration of any features or functions of the Services you have registered to use; Sending you information about your relationship or transactions with us; Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities; For the prevention and detection of fraud or infringement of our or any third party’s rights; Responding to your questions or other requests; Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity; Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services; Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services); Tracking your return visits to and use of the Services; For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested; For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third Party Platforms, etc.; Accumulating and reporting aggregate, statistical information in connection with the Services and user activity; Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and Saving certain information for your ongoing use of the Services.
 4.
 OPTING IN & OUT OF CERTAIN USES OF YOUR INFORMATION.
 A.
@@ -90,10 +70,10 @@ B.
 Marketing and Promotional Communications.
 At times, you may be presented with the option of whether to subscribe to receive, or be automatically entered to receive, certain marketing and promotional communications from us and/or affiliated groups that we think will be of interest to you.
 We may send you such communications by text message if we have received your consent to do so or is otherwise able to send you such communications by text message in compliance with all applicable laws.
-Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or by “opting-out” of receiving marketing and promotional e-mails from us at any time by visiting sending an email to us at info@celesteforutah.com with “Unsubscribe” in the subject line; or writing to our organization at, PO Box 2410 CEDAR CITY 84721.
+Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or by “opting-out” of receiving marketing and promotional e-mails from us at any time by visiting sending an email to us at info@celesteforutah.com with “Unsubscribe” in the subject line; or writing to our organization at, PO Box 2410 CEDAR CITY 84721 .
 When writing, please include your full name, address, zip, and phone number.
 Recipients of text messages may “opt-out” of our mobile messaging program by replying “STOP” to (385) 244-0170 or any mobile message you receive from us, or by contacting us via the means provided above and clearly communicating your intent to unsubscribe from our mobile messaging program.
-Other privacy requests can be emailed to info@celesteforutah.com.
+Other privacy requests can be emailed to info@celesteforutah.com .
 Please note that “opt-out” and “unsubscribe” requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the prior privacy settings.
 Additionally, you should be aware that any information provided to third parties prior to your election to opt-out or unsubscribe cannot be retrieved or rescinded by us unless required by applicable law, and you cannot retroactively opt-out or unsubscribe with respect to such third parties.
 Please note that in order to keep you informed about the operation of our Services and related services, we may always send you emails and announcements that are needed for the proper functioning and administration of our Services, including for the purposes described in Section 3 above, in connection with your use of such Services.
@@ -108,9 +88,7 @@ Text INFO to (385) 244-0170 to receive messages, updates, and alerts from CELEST
 Messaging frequency varies.
 Msg & Data rates may apply.
 Text STOP to (385) 244-0170 to stop receiving messages from CELESTE FOR CONGRESS CAMPAIGN (you will receive a confirmation text).
-For additional information, text HELP to (385) 244-0170 or contact info@celesteforutah.com
-Supported carriers are:
-AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S.
+For additional information, text HELP to ( 385) 244-0170 or contact info@celesteforutah.com Supported carriers are: AT&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S.
 Cellular, Virgin Mobile, Google Voice, ACS Wireless, Advantage Cellular (DTC Wireless), Appalachian Wireless, Atlantic Tele-Network International (ATN), Bandwidth, Bluegrass Cellular, Buffalo Wireless, CableVision, Carolina West Wireless, Cellcom, Copper Valley, C-Spire Wireless (formerly Cellsouth), Cellular One of East Central Illinois, Chariton Valley Cellular, Cross (dba Sprocket), Duet IP, Element Mobile, EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri Cellular), i Wireless (IOWA Wireless), Illinois Valley Cellular, Immix (Keystone Wireless / PC Management), Inland Cellular, Mobi PCS (Coral Wireless LLC), Mosaic, MTA Communications, MTPCS / Cellular One (Cellone Nation), Nex-Tech Wireless, Panhandle Telecommunications, Peoples Wireless, Pine Belt Wireless, Pine Cellular, Pioneer, Plateau, Revol Wireless, RINA, SI Wireless/Mobile Nation, SouthernLinc, SRT Wireless, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless, Leaco, Nemont/Sagebrush.
 T-Mobile is not liable for delayed or undelivered messages.
 D.
@@ -120,11 +98,8 @@ If you ask the CELESTE FOR CONGRESS CAMPAIGN to stop using your personal informa
 Consumers may also have the option to modify other privacy preferences for any apps that may become available (e.g., deactivating your User Account, etc.) by modifying your User Account settings.
 E.
 Opting-Out of Use of Certain Information That May be Collected by Tracking Technologies.
-Tracking Technologies: Most browsers are initially set to accept cookies (other than Flash cookies) and allow local storage, but you should be able to change your settings to notify you when a cookie is being set or updated, local storage is being used, and/or to block cookies and/or the use of local storage altogether.
-Please consult the "Help" section of your browser for more information.
-Please note that by blocking any or all cookies you may not have access to certain features, content and/or other personalization available through the Services.
-- Flash Cookies: Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.
-- Do-Not-Track Signals: Certain browsers transmit "do-not-track" signals to the websites with which such browsers communicate; however, this feature, and how it is used and activated, varies from browser to browser.
+Flash Cookies: Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.
+Do-Not-Track Signals: Certain browsers transmit "do-not-track" signals to the websites with which such browsers communicate; however, this feature, and how it is used and activated, varies from browser to browser.
 Therefore, it is not clear whether the signals are intentionally transmitted by a user, or whether a user is even aware of this.
 Despite current efforts, there is still disagreement amongst leading Internet standards organizations, industry groups, technology companies and regulators, concerning what, if anything, websites should do when they receive such signals and no standard has been adopted to date.
 We take privacy and security very seriously.
@@ -147,11 +122,11 @@ Disclosure of Certain Information in User Submissions Intended to Be Disclosed.
 Certain information associated with a Submission may be intended for disclosure, such as your username.
 We will disclose any such information in connection with the display of, and other services relating to, such Submission, and by submitting a Submission on or in connection with the Services you affirmatively consent to the distribution of your information as described herein.
 C.
-Service Providers, Owners and Licensees.
+Service Providers, Owners and Licensees .
 We may provide and disclose your information to affiliates, operators, service providers, and other third parties for the purpose of providing, offering, supporting, administering and maintaining the Services, and providing the full range of content, activities, services, features, and functions offered on or in connection with the Services.
 D.
 Additional Disclosures.
-There may be instances when CELESTE FOR CONGRESS CAMPAIGN may access or disclose information without providing you a choice in the following circumstances: (i) to protect or defend the legal rights or property of CELESTE FOR CONGRESS CAMPAIGN; our employees, agents and contractors; our affiliated committees; or their employees, agents and contractors (including enforcement of our agreements), (ii) to protect the safety and security of our Services and users, (iii) to protect against fraud or for risk management purposes, (iv) if we believe your actions violate this Privacy Policy or Terms of Service, or (v) to comply with law or legal process.
+There may be instances when CELESTE FOR CONGRESS CAMPAIGN may access or disclose information without providing you a choice in the following circumstances: (i) to protect or defend the legal rights or property of CELESTE FOR CONGRESS CAMPAIGN ; our employees, agents and contractors; our affiliated committees; or their employees, agents and contractors (including enforcement of our agreements), (ii) to protect the safety and security of our Services and users, (iii) to protect against fraud or for risk management purposes, (iv) if we believe your actions violate this Privacy Policy or Terms of Service, or (v) to comply with law or legal process.
 CELESTE FOR CONGRESS CAMPAIGN does not share mobile-originated data with third parties.
 6.
 DATA COLLECTION FROM CHILDREN.
@@ -167,7 +142,7 @@ However, it is possible that third parties may unlawfully intercept or access tr
 8.
 YOUR CALIFORNIA PRIVACY RIGHTS.
 Under California Law, California residents have the right to request from businesses with whom they have an established business relationship information that the business has disclosed (if any) with third parties during the immediately preceding calendar year for the third parties’ direct marketing purposes.
-To request the above information, write to us (with a reference to California Disclosure Information) at info@celesteforutah.com.
+To request the above information, write to us (with a reference to California Disclosure Information) at info@celesteforutah.com .
 We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above.
 If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received.
 Please note that we are only required to respond to each customer once per calendar year.
@@ -196,10 +171,13 @@ If you visit, access, interact with, and/or otherwise use the Services from a lo
 By using the Services, you affirmatively consent to the transfer, use, disclosure, provision, and other administration of your information as described herein.
 13.
 CONTACT US.
-If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at:
-Email: info@celesteforutah.com
-OR
-Mail: PO Box 2410 Cedar City 84721
-14.
+If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at: Email: info@celesteforutah.com OR Mail: PO Box 2410 Cedar City 84721 14.
 SOLE STATEMENT.
 This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other versions thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+STAY UPDATED Sign up to stay up to date with Congresswoman Celeste Maloy.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Email Address Sign Up Thank you!
+Celeste for Congress P.O.
+Box 2410 Cedar City UT 84721 Paid For By Celeste For Congress Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Please see our Privacy Policy for more information

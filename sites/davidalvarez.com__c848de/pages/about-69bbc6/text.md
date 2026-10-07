@@ -1,11 +1,10 @@
-DAVID ALVAREZ
-David Alvarez was born, raised, and is still living in Barrio Logan with his family.
+About Media Press Releases News Articles Memos OPPORTUNITY EDU DREAMING BIG | WORKING HARD Donate MEET DAVID ALVAREZ Early Life David Alvarez was born, raised, and is still living in Barrio Logan with his family.
 Assemblymember Alvarez is the current representative of the 80th district that includes the San Diego Communities of Barrio Logan, Logan Heights, Sherman Heights, City Heights, Azalea Park, Otay Mesa, and San Ysidro, as well as the cities of Chula Vista, National City, and Bonita.
 Prior to being elected to the State Assembly, David Alvarez served as a San Diego City Councilmember for eight years for District 8.
 After 15 years of successful government service, David started Causa Consulting.
 He has served as a member of major San Diego public organizations including the San Diego County Regional Airport Authority, San Diego Association of Governments, Metropolitan Transit System.
 He also served on the Board of the League of Cities’ Latino Caucus and the national Board of Local Progress.
-David proudly advocated on behalf of the underserved in San Diego.
+Fighter for the Community David proudly advocated on behalf of the underserved in San Diego.
 He has made economic and environmental justice a priority for all communities.
 David led the efforts to annually increase investment in the city’s arts and culture programming during his time on the City Council.
 Among David’s proudest achievements are the building of major infrastructure projects like Cesar Solis Park, a new library branch in San Ysidro, and updating of community plans in Southeast San Diego, Otay Mesa, and San Ysidro and the revitalization of Barrio Logan.
@@ -17,9 +16,9 @@ David is proud to maintain strong relationships and frequently collaborates with
 In addition to these binational efforts, David has led bi-partisan efforts to eliminate regulations and unnecessary bureaucracies and assisted in settling major disputes such as the De La Fuente lawsuit, the largest and longest running legal case in city history.
 David lives in Barrio Logan with his family.
 He and his wife Xochitl, a successful educator, are raising their daughter and son in the community they grew up in hoping they learn the value of hard work, community and strong moral character.
-David volunteers on the Board of Kim Center for Gender Equity, Center for Gender Equity, Camarada, the San Diego Coffee Training Institute, Circulate San Diego and the PTA and Xochitl volunteers countless hours leading the Logan/Sherman Girl Scouts Troop and with a YMCA soccer team.
-Get the latest updates directly to your inbox!
-Thank you!
+David volunteers on the Board of Kim Center for Gender Equity, Center for Gender Equity, Camarada, the San Diego Coffee Training Institute, Circulate San Diego and the PTA and Xochitl volunteers countless hours leading the Logan/Sherman Girl Scouts Troop and with a YMCA soccer team. subscribe for more updates Get the latest updates directly to your inbox!
+Name Email Address Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
+For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

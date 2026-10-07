@@ -1,21 +1,3 @@
-Proudly Endorsed By
-Lt.
-Governor Sara Rodriquez
-Milwaukee Mayor Cavalier Johnson
-Congresswoman Gwen Moore
-State Senator Chris Larson
-County Supervisor Steve Shea
-County Supervisor Jack Eckblad
-Saint Francis Mayor Ken Tutaj
-South Milwaukee Alderman Joe Bukowski
-South Milwaukee School Board Director Nate Jurowski
-Former South Milwaukee Mayor Erik
-League of Conservation Voters
-International Brotherhood of Electrical Workers, Local 494
-ATU Local 998
-Laborers Local 113
-Wisconsin Progress
-Sierra Club, Wisconsin
-Planned parenthood Advocates of Wisconsin
-UAW Region 4
-Wisconsin Bricklayers and Allied Craftworkers
+Skip to main content Vote on or Before November 8th!
+Home About Chris Issues Reproductive Rights Supporting Wisconsin’s Working Families Endorsements Contact Us Proudly Endorsed By Lt.
+Governor Sara Rodriquez Milwaukee Mayor Cavalier Johnson Congresswoman Gwen Moore State Senator Chris Larson County Supervisor Steve Shea County Supervisor Jack Eckblad Saint Francis Mayor Ken Tutaj South Milwaukee Alderman Joe Bukowski South Milwaukee School Board Director Nate Jurowski Former South Milwaukee Mayor Erik League of Conservation Voters International Brotherhood of Electrical Workers, Local 494 ATU Local 998 Laborers Local 113 Wisconsin Progress Sierra Club, Wisconsin Planned parenthood Advocates of Wisconsin UAW Region 4 Wisconsin Bricklayers and Allied Craftworkers © # - # Re-Elect Chris Sinicki Powered by Webador

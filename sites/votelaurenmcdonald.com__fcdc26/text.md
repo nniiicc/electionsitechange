@@ -1,14 +1,3 @@
-Forsyth County Coroner Lauren McDonald Announces State House Campaign
-District 26 state Rep.
-Marc Morris announced he would not seek re-election in July, and a Forsyth County elected official has announced his intention […]
-Read More
-Skip to content
-DONATE TODAY!
-Lauren Has the RIGHT Priorities
-For Our Future
-Latest News
-Forsyth County Coroner Lauren McDonald Announces State House Campaign
-District 26 state Rep.
-Marc Morris announced he would not seek re-election in July, and a Forsyth County elected official has announced his intention […]
-Read More
-For Our Future
+Skip to content Vote Lauren McDonald ☰ Meet Lauren Issues Get Involved Donate X Meet Lauren Issues Get Involved Donate Lauren McDonald State House District 26 Join Team McDonald!
+Email * Phone Zip Code Δ DONATE TODAY! $10 $25 $50 $100 $250 Lauren Has the RIGHT Priorities For Our Future Fight for Our Conservative Values Protect Our Quality of Life Safeguard Our First-Class Education Champion Public Safety Latest News Forsyth County Coroner Lauren McDonald Announces State House Campaign Forsyth County News - October 18, 2019 District 26 state Rep.
+Marc Morris announced he would not seek re-election in July, and a Forsyth County elected official has announced his intention […] Read More See All News Donate PAID FOR BY MCDONALD FOR GEORGIA

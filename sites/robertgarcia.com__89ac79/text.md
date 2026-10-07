@@ -1,5 +1,7 @@
-Robert Garcia is Fighting for You
-Join Our Campaign
-Meet Robert
-My mother brought me to this country and risked everything so I could succeed.
+Help keep Robert in Congress The success of this people-powered campaign is dependent upon individual donors like you.
+Donate anything you can today to help power this grassroots movement >> $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Close Facebook Instagram X YouTube Robert Garcia for Congress – Democrat for California's 42nd Congressional District Menu About Issues Endorsements Shop Contact Us Media Center Donate Robert Garcia is Fighting for You Join Our Campaign Meet Robert My mother brought me to this country and risked everything so I could succeed.
 I’m running for Congress so that every kid can have the same shot that she—and this country—gave me.
+Read Robert's Story Join Our Campaign Sign-up for updates on our campaign and for ways to get more involved.
+Chip in Today Donate anything you can today to help power this grassroots movement >> $# $# $# $# $# Other amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Robert Garcia for Congress – Democrat for California's 42nd Congressional District About Issues Endorsements Shop Contact Us Media Center Donate Follow Us Facebook Instagram X YouTube Contact us 65 Pine Ave #348 Long Beach, CA 90802 [email protected] Paid for by Robert Garcia for Congress Privacy Policy Made with Middle Seat

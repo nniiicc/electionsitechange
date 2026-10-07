@@ -1,6 +1,6 @@
-Aiken County Democratic Convention
-Zyon Khalifa speaks at the Aiken County Democratic Convention, delivering a message centered on new leadership, community connection, and the future of the Democratic Party.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Conventions , • 3/12/26 Aiken County Democratic Convention Zyon Khalifa speaks at the Aiken County Democratic Convention, delivering a message centered on new leadership, community connection, and the future of the Democratic Party.
 As a candidate for Congress in South Carolina’s 2nd District, he emphasizes the importance of engaging voters, expanding the base, and bringing fresh energy into the political process.
 With a focus on unity and progress, this message highlights the role of a new generation in shaping the future and ensuring that leadership reflects the people it serves.
 This campaign is about showing up, stepping forward, and building momentum, together.
-Next
+Next Lexington County Democratic Convention You Might Also Like Speaking at Mount Anna Baptist Church Speaking at Friendship Baptist Church Lexington County Democratic Convention No Kings Rally, Nick Cannon comments on Democrats, Stephen A Smith on the Iran war | EP.
+113 6th Annual Greek Fest Meet Zyon Khalifa Platform Volunteer Privacy Policy

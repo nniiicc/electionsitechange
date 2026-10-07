@@ -1,7 +1,11 @@
 {
  "description": "Election Headquarters: 2001 S Hanley Rd Ste 180 Saint Louis, MO 63144 Election Email: voteforliberty@andrewbolin.com",
  "final_url": "http://www.andrewbolin.com/contact.html",
- "paid_for_by": null,
+ "fingerprint": "671bbbba1c4a8a0552463d91439bdffe2f7709c2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact - Andrew Bolin for State Rep (District 83)",
- "years_mentioned": []
+ "years_mentioned": [
+  "2001"
+ ]
 }

@@ -1,7 +1,1 @@
-Previous
-Previous
-August 2026 FINANCIAL DISCLOSURE REPORT
-Next
-Next
-Written By Living4yhwh
-You can view the report at https://sunshine.voteidaho.gov
+0 Skip to Content En Español Press Releases Financial Disclosures About Do this together Open Menu Close Menu En Español Press Releases Financial Disclosures About Do this together Open Menu Close Menu En Español Folder: Press Releases Back Financial Disclosures About Do this together July 2026 FINANCIAL DISCLOSURE REPORT Oct 1 Written By Living4yhwh You can view the report at https://sunshine.voteidaho.gov View July’s Report Living4yhwh https://www.curtisporlagente.com/ Previous Previous August 2026 FINANCIAL DISCLOSURE REPORT Next Next June 2026 FINANCIAL DISCLOSURE REPORT Paid for by Curtis James por la gente

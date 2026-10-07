@@ -1,11 +1,50 @@
 [
-"https://andrewandyou.com/",
-"https://andrewandyou.com/about-andrew",
-"https://andrewandyou.com/get-involved",
-"https://andrewandyou.com/in-the-news",
-"https://andrewandyou.com/issues",
-"https://andrewandyou.com/newsletter",
-"https://andrewandyou.com/privacy-policy",
-"https://facebook.com/ANDREWforALABAMA",
-"https://secure.anedot.com/friendsofandrewjones/donate"
+{
+"text": "About Andrew",
+"href": "https://andrewandyou.com/about-andrew"
+},
+{
+"text": "Andrew & YouAndrew & YouAndrew & YouAndrew & You",
+"href": "https://andrewandyou.com/"
+},
+{
+"text": "Donate",
+"href": "https://andrewandyou.com/get-involved"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.anedot.com/friendsofandrewjones/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://andrewandyou.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://andrewandyou.com/"
+},
+{
+"text": "In The News",
+"href": "https://andrewandyou.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://andrewandyou.com/issues"
+},
+{
+"text": "Newsletter",
+"href": "https://andrewandyou.com/newsletter"
+},
+{
+"text": "On the Issues",
+"href": "https://andrewandyou.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://andrewandyou.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ANDREWforALABAMA/"
+}
 ]

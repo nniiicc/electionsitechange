@@ -1,6 +1,34 @@
 [
-"https://chrisformi101.com/",
-"https://chrisformi101.com/about",
-"https://chrisformi101.com/contact",
-"https://chrisformi101.com/policies"
+{
+"text": "About",
+"href": "https://chrisformi101.com/about"
+},
+{
+"text": "Christopher Crain",
+"href": "https://chrisformi101.com"
+},
+{
+"text": "Contact & Donate",
+"href": "https://chrisformi101.com/contact"
+},
+{
+"text": "Home",
+"href": "https://chrisformi101.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrisformi101.com/about"
+},
+{
+"text": "Policies",
+"href": "https://chrisformi101.com/policies"
+},
+{
+"text": "View About Page",
+"href": "https://chrisformi101.com/about"
+},
+{
+"text": "View Policies",
+"href": "https://chrisformi101.com/policies"
+}
 ]

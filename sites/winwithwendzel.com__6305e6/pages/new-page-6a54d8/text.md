@@ -1,5 +1,4 @@
-Meet Pauline
-Pauline is a lifelong Watervliet resident from a proud 4th generation Bainbridge Township farming family.
+Newsroom Home Meet Pauline Issues Endorsements Volunteer Contact Donate Newsroom Home Meet Pauline Issues Endorsements Volunteer Contact Donate Meet Pauline Pauline is a lifelong Watervliet resident from a proud 4th generation Bainbridge Township farming family.
 She is an active alumnus in both Watervliet High School and Michigan State University, where she earned a Bachelor of Arts degree in Anthropology and Food Industry Marketing.
 Pauline learned the value of hard work at a young age working on her family farm and counseling young children at Five Pines, a local Christian day camp.
 Seeing an opportunity to learn more about her community, Pauline became the Programs Director at the North Berrien Historical Museum in 2014, where she educated our youth on the importance of Southwest Michigan heritage.
@@ -11,5 +10,7 @@ She served as the Michigan Apple Queen in 2007, a title given by The Michigan Ap
 She was raised to understand the importance of agriculture in our community by participating in The Berrien County Youth Fair and 4-H.
 She is also a lifelong member of Trinity Lutheran Church in St.
 Joseph and had the opportunity to travel to Mexico and Nicaragua as a part of house building mission trips.
-Additionally, she is an advocate for the Juvenile Diabetes Research Foundation and is committed to helping find a cure for type-1 diabetes
-As your State Representative, Pauline is dedicated to making Southwest Michigan a place future generations can come back to and raise their families.
+Additionally, she is an advocate for the Juvenile Diabetes Research Foundation and is committed to helping find a cure for type-1 diabetes As your State Representative, Pauline is dedicated to making Southwest Michigan a place future generations can come back to and raise their families.
+Find us on FAcebook Paid for by Committee to Elect Pauline Wendzel, P.O.
+Box 811, Coloma, MI 49038 P.O.
+Box 811, Colma, MI, 49038, United States winwithwendzel@gmail.com Hours

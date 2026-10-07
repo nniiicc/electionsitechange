@@ -1,13 +1,70 @@
 [
-"https://clerkshq.com/Colchester-vt?docId=AGENDA",
-"https://facebook.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pezzo4vthouse.com%2Fevents%2Ffy2026-colchester-selectboard-budget-work-session",
-"https://pezzo4vthouse.com/",
-"https://pezzo4vthouse.com/about",
-"https://pezzo4vthouse.com/contact",
-"https://pezzo4vthouse.com/events-1",
-"https://pezzo4vthouse.com/events/fy2026-colchester-selectboard-budget-work-session",
-"https://pezzo4vthouse.com/general-1",
-"https://pezzo4vthouse.com/news",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pezzo4vthouse.com%2Fevents%2Ffy2026-colchester-selectboard-budget-work-session&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.pezzo4vthouse.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.pezzo4vthouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.pezzo4vthouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.pezzo4vthouse.com/general-1"
+},
+{
+"text": "Events",
+"href": "https://www.pezzo4vthouse.com/events-1"
+},
+{
+"text": "Gayle Pezzo",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.pezzo4vthouse.com/events/fy2026-colchester-selectboard-budget-work-session"
+},
+{
+"text": "Newsletter",
+"href": "https://www.pezzo4vthouse.com/news"
+},
+{
+"text": "Representing CHI-20",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "See other events",
+"href": "https://www.pezzo4vthouse.com"
+},
+{
+"text": "TownManager@colchestervt.gov",
+"href": "mailto:TownManager@colchestervt.gov"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.pezzo4vthouse.com%2Fevents%2Ffy2026-colchester-selectboard-budget-work-session&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.pezzo4vthouse.com%2Fevents%2Ffy2026-colchester-selectboard-budget-work-session"
+},
+{
+"text": "gpezzo@leg.state.vt.us",
+"href": "mailto:gpezzo@leg.state.vt.us"
+},
+{
+"text": "https://clerkshq.com/Colchester-vt?docId=AGENDA",
+"href": "https://clerkshq.com/Colchester-vt?docId=AGENDA"
+}
 ]

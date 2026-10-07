@@ -1,7 +1,4 @@
-Rooted in Vermont, Ready to Serve
-nicholasdilorenzo8
-Apr 26
-I’m proud to sign the pledge with U.S.
+top of page Menu Close Home News & Events Get Involved Donate All Posts Rooted in Vermont, Ready to Serve nicholasdilorenzo8 Apr 26 1 min read I ’m proud to sign the pledge with U.S.
 Term Limits because it’s time to bring accountability and fresh leadership back to Congress.
 For too long, Washington has been dominated by career politicians and big money interests.
 That’s not how our system is supposed to work.
@@ -9,3 +6,5 @@ We need new ideas, real energy, and representatives who are focused on serving t
 I’m committed to putting people over politics and ensuring our representation is driven by integrity, not influence.
 If you agree, I ask for your support.
 Together, we can bring real change and accountability back to our government.
+Recent Posts See All Endorsed by Rep.
+Beth Quimby Endorsed By Senator Russ Ingalls Leadership Is Being There When It Matters ​ ​ ​ ​ ​ ​ ​ (c) # DiLorenzo for Vermont Home News & Events Get Involved Donate bottom of page

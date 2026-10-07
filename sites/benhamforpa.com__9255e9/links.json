@@ -1,10 +1,42 @@
 [
-"https://benhamforpa.com/",
-"https://benhamforpa.com/about",
-"https://benhamforpa.com/issues",
-"https://docs.google.com/forms/d/e/1FAIpQLSdN3WOSEgyjtRHd7W8hrXIvrVjKTbrr9f6d3d1EFCzI5-plhw/viewform",
-"https://facebook.com/benhamforpa",
-"https://instagram.com/jessicalbenham",
-"https://secure.actblue.com/donate/benhamforpa?recurring=1",
-"https://twitter.com/jessicalbenham"
+{
+"text": "About",
+"href": "https://www.benhamforpa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/benhamforpa?recurring=1"
+},
+{
+"text": "Home",
+"href": "https://www.benhamforpa.com"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.benhamforpa.com/issues"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdN3WOSEgyjtRHd7W8hrXIvrVjKTbrr9f6d3d1EFCzI5-plhw/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdN3WOSEgyjtRHd7W8hrXIvrVjKTbrr9f6d3d1EFCzI5-plhw/viewform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://facebook.com/benhamforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jessicalbenham/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/jessicalbenham"
+},
+{
+"text": "info@benhamforpa.com",
+"href": "mailto:info@benhamforpa.com"
+}
 ]

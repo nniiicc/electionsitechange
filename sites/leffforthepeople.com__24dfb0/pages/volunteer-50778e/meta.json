@@ -1,7 +1,9 @@
 {
  "description": "Your Campaign Tagline Goes Here",
  "final_url": "https://leffforthepeople.com/volunteer/",
- "paid_for_by": null,
+ "fingerprint": "4f6c8ad4d869688ecb2b253e379ba27a5391de00",
+ "format": 3,
+ "paid_for_by": "Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #",
  "title": "Volunteer | LeffForThePeople",
  "years_mentioned": []
 }

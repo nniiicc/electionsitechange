@@ -1,5 +1,2 @@
-Congressional candidate Trygve Hammer speaks to the primary election, data centers, and more
-June 10, 2026
-Written By Nicole DesRosier
-Previous
-Next
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Congressional candidate Trygve Hammer speaks to the primary election, data centers, and more Jun 27 Written By Nicole DesRosier June 10, 2026 Nicole DesRosier Previous Previous North Dakota Democratic-NPL candidates hold West Fargo town hall Next Next 2026.4.24 Open Range: Patrick Hart and guests talk Democratic politics in North Dakota Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

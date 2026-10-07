@@ -1,13 +1,4 @@
-Dan @ the Depot 2025!
-8
-October
-2025
-5:30pm
-Annual Fundraiser
-The Food Depot
-Grimes IA
-Dan @ the Depot
-I am excited to welcome Adam Steen, candidate for Iowa Governor, Jeff Kaufmann, Iowa GOP Chair, and other special guests to Grimes on Wednesday, October 8th for my 2025 fundraiser – Dan @ the Depot!
-Date: Wednesday, October 8th, 2025 Time: 5:30pm
-Location: The Food Depot, Grimes, IA 50111 (right on Hwy 141)
-Get your tickets by donating HERE or feel free to show up that night with a check (suggested donations and sponsorship levels are listed on the link below):
+Home Donate Yard Sign / Contact Us / Volunteer Events Gallery Dan @ the Depot 2025!
+8 October 2025 5:30pm Annual Fundraiser The Food Depot Grimes IA Dan @ the Depot I am excited to welcome Adam Steen, candidate for Iowa Governor, Jeff Kaufmann, Iowa GOP Chair, and other special guests to Grimes on Wednesday, October 8th for my 2025 fundraiser – Dan @ the Depot!
+Date: Wednesday, October 8th, 2025 Time: 5:30pm Location: The Food Depot, Grimes, IA 50111 (right on Hwy 141) Get your tickets by donating HERE or feel free to show up that night with a check (suggested donations and sponsorship levels are listed on the link below): GET MORE INFO OR PURCHASE TICKETS!
+Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Home Donate Yard Sign / Contact Us / Volunteer Events Gallery Dan Gehlbach for Iowa House Address Urbandale, Dallas Co., IA, 50323, US, About us State Representative Dan Gehlbach Paid for by Gehlbach for Iowa House sitemap Follow us

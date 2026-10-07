@@ -1,7 +1,9 @@
 {
  "description": "Official campaign merch: hoodies, tees, hats, mugs, and more. Every purchase supports the campaign.",
  "final_url": "https://hassannehme.com/store",
- "paid_for_by": null,
+ "fingerprint": "e23d801487645ff571a876221d1c20d965d6dcd7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Store - Hassan Nehme for State Representative",
  "years_mentioned": [
   "2026"

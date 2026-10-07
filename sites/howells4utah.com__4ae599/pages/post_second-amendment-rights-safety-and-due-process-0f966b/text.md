@@ -1,8 +1,16 @@
-Second Amendment rights, safety, and due process
-I am a military veteran and a gun owner, and I support the Second Amendment.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Second Amendment rights, safety, and due process Drew Howells Jun 22 6 min read I am a military veteran and a gun owner, and I support the Second Amendment.
 I also believe firearm safety is a serious responsibility— not a slogan, not a culture-war prop, but something that has to be lived.
 I do not see a contradiction between those positions.
 I see the whole point.
+Camp Williams, 2010.
+On the range with the Utah Army National Guard, where I qualified on the M16 alongside the soldiers I served with.
+This is where my respect for firearms was sharpened— in the discipline of doing it right, every time, with people whose lives depended on the person next to them doing the same.
+I learned gun safety here not as a talking point, but as a duty.
+That is the place I am speaking from when I talk about the Second Amendment, responsibility, and keeping our people safe.
+Disclaimer: The appearance of U.S.
+Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.
+The use of military imagery, rank, or service history in this material does not imply endorsement by the Department of Defense, the Department of the Army, or the Utah National Guard.
 Long before I served in uniform, I learned firearm safety through Scouting.
 Later, the military trained me in responsible handling, discipline, and the weight that comes with carrying or owning a weapon.
 Firearms were never presented to me as toys, political accessories, or symbols of masculinity.
@@ -96,3 +104,7 @@ And I support a constitutional framework in which the government must meet its b
 Freedom without responsibility becomes recklessness.
 Responsibility without freedom becomes control.
 Our job is to protect both.
+Recent Posts See All We Are Building Data Centers Blind Education Is Where the Future Begins Medical cannabis, patient dignity, and regulatory accountability Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

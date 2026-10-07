@@ -1,23 +1,94 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&t=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss",
-"https://facebook.com/steve.carra/videos/2118747639039243",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/ongoing-energy-policy-discussions-are-good",
-"https://joemoss.com/oppose-the-blendon-township-battery-energy-storage-system-bess",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://linkedin.com/in/joe-moss",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&title=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss&summary=Did+you+receive+hit+piece+mailers+this+week+attacking+Joe+Moss%3F%0D%0AConsumers+Energy+and+its+dark-money+groups+known+as+%22Citizens+for+Energizing+Michigan%27s+Economy%22+and+%22Faithful+Conservatives+for+Michigan%22+are+running+a+coordinated+smear+campaign.+They+are+s",
-"https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&title=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss",
-"https://secure.winred.com/joemoss/donate",
-"https://x.com/JoeMoss",
-"https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&text=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Blendon Township",
+"href": "https://joemoss.com/oppose-the-blendon-township-battery-energy-storage-system-bess"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&t=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&title=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss&summary=Did+you+receive+hit+piece+mailers+this+week+attacking+Joe+Moss%3F%0D%0AConsumers+Energy+and+its+dark-money+groups+known+as+%22Citizens+for+Energizing+Michigan%27s+Economy%22+and+%22Faithful+Conservatives+for+Michigan%22+are+running+a+coordinated+smear+campaign.+They+are+s"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&title=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Fconsumers-energy&text=Consumers+Energy+Dark+Money+Attack+on+Joe+Moss"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/steve.carra/videos/2118747639039243"
+},
+{
+"text": "click here",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "https://www.facebook.com/steve.carra/videos/2118747639039243",
+"href": "https://www.facebook.com/steve.carra/videos/2118747639039243"
+},
+{
+"text": "keep the J.H. Campbell Plant",
+"href": "https://joemoss.com/ongoing-energy-policy-discussions-are-good"
+}
 ]

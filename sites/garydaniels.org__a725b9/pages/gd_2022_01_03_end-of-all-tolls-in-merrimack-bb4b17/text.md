@@ -1,5 +1,4 @@
-End of All Tolls in Merrimack: Local Legislators Celebrate
-MERRIMACK – At 9pm on December 31, 2021, a group of local elected legislators assembled at the Exit 10 northbound toll booth in Merrimack.
+(603) 673-3065 gary@garydaniels.org Facebook X Facebook X HOME ABOUT ISSUES EVENTS GET UPDATES Press Signup ENDORSEMENTS VOLUNTEER VIDEOS DONATE Select Page End of All Tolls in Merrimack Jan 3, 2022 End of All Tolls in Merrimack: Local Legislators Celebrate The elimination of the Exit 10 tolls come from the Republican-led budget signed into law by Governor Sununu in 2021 MERRIMACK – At 9pm on December 31, 2021, a group of local elected legislators assembled at the Exit 10 northbound toll booth in Merrimack.
 The reason for the New Year’s Eve gathering at that location was to witness the end of toll collection in Merrimack.
 The event was recorded when former Rep.
 Bob L’Heureux became the last person in history to pay a Merrimack toll, followed by former Rep.
@@ -12,8 +11,7 @@ The physical toll booth collection plazas on Exit 10 should be removed by the en
 This night comes after decades of perseverance from current and previous legislators to end the town’s unfair enclosure by tolls.
 We have so many people to thank, but most recently are those of us who supported HB 2 this year.
 To witness this night is truly historic for Merrimack and a new era for its residents.” – Rep.
-Maureen Mooney (R-Merrimack).
-“To be clear, a toll is a tax to use a road.
+Maureen Mooney (R-Merrimack). “ To be clear, a toll is a tax to use a road.
 For far too long the residents of Merrimack have inequitably been taxed to access the major highway that goes through their town.
 With the elimination of the Exit 10 tolls, this 7-year effort to eliminate the three Merrimack tolls on the F.E.
 Everett Turnpike will finally come to fruition and it’s satisfying to know that I could assist in bringing this tax freedom to Merrimack.” – Senator Gary Daniels (R-Milford).
@@ -43,3 +41,5 @@ The elimination of this tollbooth is the culmination of efforts resulting in the
 Melissa Blasek (R-Merrimack).
 “Merrimack has been saddled long enough with this burden, it’s about time they got rid of them, GOOD RIDDANCE.” – former State Rep.
 Bob L’Heureux (R-Merrimack).
+Search for: Click on the titles to reveal the full article and social media sharing icons.
+Recent Posts New Hampshire’s Unemployment Hits Record Low 2% for June HB 1221 Lowers Business Taxes Congratulations Souhegan High Basketball Concord This Week End of All Tolls in Merrimack Copyright © # • Gary Daniels for NH • 127 Whitten Road • Milford, NH 03055-3228 • (603) 673-3065 • Friends of Gary Daniels • Fiscal Agent Polly Cote

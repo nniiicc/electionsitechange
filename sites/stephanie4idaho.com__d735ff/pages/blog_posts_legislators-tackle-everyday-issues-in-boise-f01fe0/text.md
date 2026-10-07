@@ -1,11 +1,10 @@
-Legislators Tackle Everyday Issues in Boise
-Much of the work we do in Boise during the legislative session doesn’t make the headlines.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Legislators Tackle Everyday Issues in Boise Much of the work we do in Boise during the legislative session doesn’t make the headlines.
 Many legislators propose bills based on conversations with their constituents.
 They often focus on outdated sections of the state code or deal with situations where folks are in limbo because the code isn’t clear.
 I had one of those conversations with Kelby Dayley a few months ago.
 Kelby, the funeral director at Coltrin Mortuary, shared with me that mortuaries don’t have clear guidance about what to do with unclaimed ashes.
 In some cases, these remains go unclaimed for years.
-I worked with Dayley and other funeral directors to draft H502.
+I worked with Dayley and other funeral directors to draft H502 .
 This bill sets a one-year deadline.
 After a year, the funeral home or crematory can respectfully dispose of the remains.
 All records must remain on file for ten years, including the location and date of the final disposition.
@@ -27,11 +26,10 @@ In the future, I may have legislation that fixes a problem in our district.
 Strong working relationships with other legislators make it easier to explain the legislation and secure their support.
 Doing this job well requires bringing others along with me on the issues that matter to my district.
 I’m only one vote of 70.
-Big bills like H521, which provides additional funding for our public school facilities, will always generate big headlines.
+Big bills like H521 , which provides additional funding for our public school facilities, will always generate big headlines.
 But these smaller bills make up the bulk of our work in Boise.
 When I sit in a committee meeting and listen to bill sponsors present their legislation, I often hear from someone who spent months, if not years, working on an issue.
 As a legislator, I have a responsibility to listen carefully, ask questions, and do my best to weigh the benefits and tradeoffs.
 With only a few weeks left in the legislative session, we’ll continue working through the proposed legislation.
 Most of it won’t make headlines, but a lot of it will make a difference to Idahoans.
-It’s an honor to serve, and I appreciate the opportunity to help the people I represent.
-- Representative Stephanie Mickelsen
+It’s an honor to serve, and I appreciate the opportunity to help the people I represent. - Representative Stephanie Mickelsen March 08, 2024 Home Blog Legislators Tackle Everyday Issues in Boise Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

@@ -1,7 +1,14 @@
 {
  "description": "Piwowarczyk for Assembly",
  "final_url": "https://jimforwi.com/category/news/",
+ "fingerprint": "770b03d473978b9787e47f3eb974608b776ac383",
+ "format": 3,
  "paid_for_by": "PAID FOR BY: JIM FOR WISCONSIN",
  "title": "News - Piwowarczyk for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "1988",
+  "2014",
+  "2024",
+  "2031"
+ ]
 }

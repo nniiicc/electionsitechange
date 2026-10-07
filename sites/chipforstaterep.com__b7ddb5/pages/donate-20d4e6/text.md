@@ -1,1 +1,2 @@
-Illinois State Representative for the 118th District Donate to Chip Markel's Campaign Click Here to Donate
+Home Meet Chip Issues Get Involved Chip’s Plan Newsroom / Press Donate Donate Home Donate Home Meet Chip Issues Get Involved Chip’s Plan Newsroom / Press Donate Illinois State Representative for the 118th District Donate to Chip Markel's Campaign Click Here to Donate Campaign HQ Address 856 Cardinal Road Carbondale, IL 62901 Contact Information Phone: (123) 456-78-90 Email: [email protected] > © # Chip Markel for State Rep.
+All Rights Reserved. – Paid for by “Friends for Chip Markel”.

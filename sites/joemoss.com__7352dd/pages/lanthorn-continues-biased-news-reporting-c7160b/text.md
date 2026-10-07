@@ -1,5 +1,4 @@
-Request for Retraction
-On August 24, 2025, I met Lee Marentette, News Editor of the Lanthorn, at Grand Valley State University Campus Life Night.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Lanthorn Continues Biased News Reporting Lanthorn Continues Biased News Reporting 2025-09-03T09:48:29-04:00 September 2nd, 2025 | Request for Retraction On August 24, 2025, I met Lee Marentette, News Editor of the Lanthorn, at Grand Valley State University Campus Life Night.
 The Lanthorn is the student-run newspaper at GVSU.
 During our conversation, Lee asked me if I had seen an article he wrote in March.
 I told him, yes, I had seen it.
@@ -11,10 +10,7 @@ Marentette’s responsibility to uphold journalistic integrity.
 The Lanthorn is known to produce biased, progressive content filled with left-wing narratives, rather than being representative of the wide range of views of GVSU students.
 The Lanthorn should focus on the news, not Democrat talking points—or designate itself as an opinion outlet.
 I’ll include a few examples below.
-Screenshot from the Lanthorn
-Screenshot from the Lanthorn
-Lanthorn Misses the Mark
-The March 2025 article that Mr.
+Universities have a duty to protect students, not capitulate to Trump Cabinet critiques: Trump’s nominations are cause for concern Precarious presidency: Trump’s reelection sparks suspense for young America GV administration should protect students from Trump’s agenda GV community members push back against anti-trans speaker Screenshot from the Lanthorn Screenshot from the Lanthorn Lanthorn Misses the Mark The March 2025 article that Mr.
 Marentette asked me about in the video was itself a disgrace to media coverage.
 Instead of covering the important message delivered by Chloe Cole at the Turning Point USA event, local Democrats and aligned media went on the attack to create a dramatic story for their readers.
 It’s time to set the record straight on that as well.
@@ -29,12 +25,9 @@ Afterwards, I enjoyed speaking with students outside, and spent a considerable a
 I love talking with people of all beliefs, and this was a great opportunity.
 I am very thankful for Chloe’s message of compassion, empathy, and truth.
 “We can have empathy for people, while standing firmly for the truth.
-Everyone, including those who oppose us, deserves a world in which children and people are not being mutilated, lied to, or exploited.”
-—Chloe Cole
-When GVSU’s newspaper continuously attacks conservative leaders—from the President to the local level, it is sending a message to its conservative students that their opinions and beliefs don’t matter.
+Everyone, including those who oppose us, deserves a world in which children and people are not being mutilated, lied to, or exploited.” —Chloe Cole When GVSU’s newspaper continuously attacks conservative leaders—from the President to the local level, it is sending a message to its conservative students that their opinions and beliefs don’t matter.
 I continue to encourage GVSU to create an environment where the voices of all students are expressed and heard, including in the university newspaper.
-Campus Life Night 2025
-Below are photos from Grand Valley State University Campus Life Night on Sunday, Aug 24, 2025!
+Campus Life Night 2025 Below are photos from Grand Valley State University Campus Life Night on Sunday, Aug 24, 2025!
 Students loved that BOLD conservatives showed up on campus, and asked us to keep coming back.
 I love talking with people of all backgrounds and beliefs, and this was a great opportunity.
 There were 400+ tables at this event.
@@ -42,3 +35,6 @@ We were the only Republican group for 5000+ students.
 The conversations we had were great!
 We handed out flags, MAGA hats, stickers, and more.
 We are encouraging students to use their voices and stand up for Truth!
+Share this page Facebook X Reddit LinkedIn WhatsApp Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

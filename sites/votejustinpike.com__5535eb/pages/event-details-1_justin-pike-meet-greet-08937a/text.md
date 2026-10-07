@@ -1,8 +1,4 @@
-top of page
-Justin Pike Meet & Greet
-Mon, Sep 28
-|Sandy Point Marina
-Join Justin Pike for a casual evening of good conversation, community, drinks, and snacks at Sandy Point Marina.
+top of page DONATE TO ELECT JUSTIN PIKE FOR STATE REPRESENTATIVE MEET JUSTIN PRIORITIES ENDORSEMENTS MEDIA EVENTS VOLUNTEER CONTACT Justin Pike Meet & Greet Mon, Sep 28 | Sandy Point Marina Join Justin Pike for a casual evening of good conversation, community, drinks, and snacks at Sandy Point Marina.
 Come meet Justin, ask questions, and connect with neighbors from across the 42nd District—everyone is welcome!
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Sep 28, 2026, 6:00 PM – 8:00 PM Sandy Point Marina, 4323 Saltspring Dr.
+Ferndale, WA 98248 About the event Workshop on enhancing public safety measures Show More Share this event MEET JUSTIN PRIORITIES ENDORSEMENTS MEDIA EVENTS VOLUNTEER CONTACT LET'S KEEP MOVING WHATCOM COUNTY FORWARD People Not Politics DONATE Paid for by Vote Justin Pike (R) PO Box 1406, Bellingham WA 98227 Facebook TicTok Instagram votejustinpike@gmail.com bottom of page

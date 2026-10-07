@@ -1,18 +1,70 @@
 [
-"https://ashleyforalaska.com/",
-"https://ashleyforalaska.com/accomplishments",
-"https://ashleyforalaska.com/cart",
-"https://ashleyforalaska.com/contribute",
-"https://ashleyforalaska.com/endorsements",
-"https://ashleyforalaska.com/home",
-"https://ashleyforalaska.com/meetashley",
-"https://ashleyforalaska.com/values",
-"https://ashleyforalaska.com/voting",
-"https://buy.stripe.com/7sY8wI9Su6l53i58Y3d3i00",
-"https://facebook.com/ashleyforalaska",
-"https://instagram.com/ashleyforalaska",
-"https://newsminer.com/opinion",
-"https://secure.actblue.com/donate/ashleyforalaska",
-"https://twitter.com/AshleyforAlaska",
-"https://youtube.com/@ashleyforalaska"
+{
+"text": "0",
+"href": "https://www.ashleyforalaska.com/cart"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.ashleyforalaska.com/accomplishments"
+},
+{
+"text": "Click Here To Donate Online With ActBlue",
+"href": "https://secure.actblue.com/donate/ashleyforalaska"
+},
+{
+"text": "Click Here To Donate Online With Stripe",
+"href": "https://buy.stripe.com/7sY8wI9Su6l53i58Y3d3i00"
+},
+{
+"text": "Contribute",
+"href": "https://www.ashleyforalaska.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleyforalaska.com/endorsements"
+},
+{
+"text": "Fairbanks Daily News-Miner",
+"href": "https://www.newsminer.com/opinion/"
+},
+{
+"text": "Meet Ashley",
+"href": "https://www.ashleyforalaska.com/meetashley"
+},
+{
+"text": "Platform",
+"href": "https://ashleyforalaska.com/home/#platform"
+},
+{
+"text": "Values",
+"href": "https://www.ashleyforalaska.com/values"
+},
+{
+"text": "Voting Information",
+"href": "https://www.ashleyforalaska.com/voting"
+},
+{
+"text": "[image: Ashley for Alaska]",
+"href": "https://www.ashleyforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AshleyforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ashleyforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ashleyforalaska"
+},
+{
+"text": "ashley@ashleyforalaska.com",
+"href": "mailto:ashley@ashleyforalaska.com"
+}
 ]

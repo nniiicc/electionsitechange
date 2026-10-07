@@ -1,17 +1,16 @@
-Notaries
-Commissions, search, and training
-The office runs the notary application and renewal process, keeps a public search of Arkansas notaries, and publishes the Notary Public and eNotary handbook.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Notaries, overview.
+The Office / Notaries Understanding the Office Notaries Business and Commercial Services records and certifies notaries public for Arkansas.
+A notary verifies the identity of a person who appears before them and acts as an official witness to an oath, testimony, or signature on a legal document.
+Back to The Office Commissions, search, and training The office runs the notary application and renewal process, keeps a public search of Arkansas notaries, and publishes the Notary Public and eNotary handbook.
 Applicants use the online filing portal.
 The office also publishes a user guide, change-of-information forms, affidavit templates, a notario-publico disclaimer, a complaint form, and an online notary exam.
-Non-resident spouses of U.S. military members working or operating a business in Arkansas may apply under Act 215 of 2019 by contacting the office.
-eNotary and remote online notarization
-The Secretary of State commissions notaries who perform electronic notarial acts.
+Non-resident spouses of U.S. military members working or operating a business in Arkansas may apply under Act 215 of 2019 by contacting the office. eNotary and remote online notarization The Secretary of State commissions notaries who perform electronic notarial acts.
 An eNotary uses a digital signature, seal, and certificate on digital documents.
 Arkansas law allows in-person electronic notarization and remote online notarization through approved solution providers.
 A person must hold a traditional notary commission in good standing before applying for an eNotary commission, then complete office-required training and an exam.
-Apostilles and authentications
-The same division issues apostilles and certificates of authentication so notarized public documents can be used in other countries, including Hague Convention countries.
+Apostilles and authentications The same division issues apostilles and certificates of authentication so notarized public documents can be used in other countries, including Hague Convention countries.
 Requests can be prepared through the BCS portal.
 That is a document-authentication duty of this office, not a substitute for a notary’s own act.
-Next step
-Why it matters & what Kelly brings
+Next step Why it matters & what Kelly brings Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

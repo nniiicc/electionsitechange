@@ -1,14 +1,50 @@
 [
-"https://facebook.com/114285610313603",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://vanessa4nh.com/",
-"https://vanessa4nh.com/about-vanessa",
-"https://vanessa4nh.com/achievements-2025-1",
-"https://vanessa4nh.com/achievements-2026",
-"https://vanessa4nh.com/contact",
-"https://vanessa4nh.com/donate",
-"https://vanessa4nh.com/endorsements",
-"https://vanessa4nh.com/introduction",
-"https://vanessa4nh.com/photos",
-"https://vanessa4nh.com/policies"
+{
+"text": "About Vanessa",
+"href": "https://vanessa4nh.com/about-vanessa"
+},
+{
+"text": "Achievements 2025",
+"href": "https://vanessa4nh.com/achievements-2025-1"
+},
+{
+"text": "Achievements 2026",
+"href": "https://vanessa4nh.com/achievements-2026"
+},
+{
+"text": "Contact",
+"href": "https://vanessa4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://vanessa4nh.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://vanessa4nh.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://vanessa4nh.com/"
+},
+{
+"text": "Introduction",
+"href": "https://vanessa4nh.com/introduction"
+},
+{
+"text": "Photos",
+"href": "https://vanessa4nh.com/photos"
+},
+{
+"text": "Policies",
+"href": "https://vanessa4nh.com/policies"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/114285610313603"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

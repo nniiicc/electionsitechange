@@ -1,23 +1,94 @@
 [
-"http://hclibrary.org/brave-voices-brave-choices/racial-equity-alliance",
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://cary-hoco.org/",
-"https://cc.howardcountymd.gov/Zoning-Land-Use/Board-of-Appeals",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://innow.org/",
-"https://instagram.com/brooksformaryland",
-"https://oaklandmills.org/the-board/committees",
-"https://oaklandmillsonline.com/",
-"https://omms.hcpss.org/",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640",
-"https://uucolumbia.net/"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "CARY (Community Allies for Rainbow Youth)",
+"href": "https://www.cary-hoco.org/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Howard County Board of Appeals",
+"href": "https://cc.howardcountymd.gov/Zoning-Land-Use/Board-of-Appeals"
+},
+{
+"text": "Howard County Library System Racial Equity Alliance",
+"href": "http://hclibrary.org/brave-voices-brave-choices/racial-equity-alliance/"
+},
+{
+"text": "Independence Now Writing Facilitator",
+"href": "https://www.innow.org/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "OMCA Education Committee",
+"href": "https://oaklandmills.org/the-board/committees/"
+},
+{
+"text": "OMMS PTSA President",
+"href": "https://omms.hcpss.org/"
+},
+{
+"text": "Oakland Mills Online (OMO)",
+"href": "https://www.oaklandmillsonline.com/"
+},
+{
+"text": "UUCC Board of Trustees",
+"href": "https://uucolumbia.net/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+}
 ]

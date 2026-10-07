@@ -1,9 +1,9 @@
-Congresswoman Lori Trahan was born and raised in a working-class family in Lowell, Massachusetts.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu Lori Trahan with daughters Caroline (left) and Grace (top) Congresswoman Lori Trahan was born and raised in a working-class family in Lowell, Massachusetts.
 Her father was a union ironworker and her mother was a domestic worker who juggled various part-time jobs while raising four girls.
-The first in her family to graduate from college, Lori earned a scholarship to play Division 1 volleyball at Georgetown University.
+Lori Loureiro age 11 Lori Loureiro (top left) as a waitress at the Owl Diner The first in her family to graduate from college, Lori earned a scholarship to play Division 1 volleyball at Georgetown University.
 She joined the staff of former Congressman Marty Meehan as a scheduler, eventually working her way up to Chief of Staff.
 Following her public service, Lori began working in the private sector as the only female executive at a tech company before moving on to co-found a woman-owned and -operated consulting firm, Concire, where she advised various companies on business strategy and how to create the conditions for employees — especially women — to thrive.
-Congresswoman Trahan is one of few freshman who secured two coveted Committee assignments during her freshman term in Congress.
+From left to right: Christian, Lori, Caroline, Gracie, David, Thomas, and Dean Congresswoman Trahan is one of few freshman who secured two coveted Committee assignments during her freshman term in Congress.
 As a member of the House Education and Labor Committee, Rep.
 Trahan has jurisdiction over key areas pertaining to supporting public schools, making college more affordable and accessible, and ensuring fair wages and opportunities for our workforce.
 As a member of the House Armed Services Committee, Rep.
@@ -19,3 +19,6 @@ Rep.
 Trahan is a part of the historic freshman class which has ushered diverse perspectives into the halls of Congress.
 As a first-time office holder with public service and private sector experience, and as a mother two young girls, Rep.
 Trahan is bringing her unique perspective and results-oriented work ethic to the table in order to ensure Massachusetts\’ 3rd Congressional District is well served.
+Join Lori’s Team!
+Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

@@ -1,9 +1,4 @@
-- Capitol Corner: End of Session 2025 13–19 minutes
-- Capitol Corner: April 2025 14–21 minutes
-- Capitol Corner: January 2025 10–15 minutes
-- Capitol Corner: December 2024 3–5 minutes
-- Capitol Corner: November Voter Guide 8–12 minutes
-- Capitol Corner: August 2024 7–11 minutes
-- Capitol Corner: April 2024 4–6 minutes
-- Hon.
-Marty Murray Opens Roy Clay Computer Lab 2–3 minutes
+Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Author: Marty Joe Murray Capitol Corner: End of Session 2025 June 23, 2025 13–19 minutes Capitol Corner: April 2025 April 19, 2025 14–21 minutes HB900: The Revitlizing Downtown and Main Streets Act (Hearing) February 25, 2025 1–2 minutes Capitol Corner: January 2025 February 3, 2025 10–15 minutes Capitol Corner: December 2024 December 30, 2024 3–5 minutes Capitol Corner: November Voter Guide November 4, 2024 8–12 minutes Capitol Corner: August 2024 September 13, 2024 7–11 minutes Capitol Corner: April 2024 September 6, 2024 4–6 minutes Missouri’s Cruel New Homelessness Law Makes the Problem Worse January 30, 2023 3–5 minutes Hon.
+Marty Murray Opens Roy Clay Computer Lab December 21, 2021 2–3 minutes Previous Page 1 2 3 Next Page Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

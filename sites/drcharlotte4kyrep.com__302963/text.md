@@ -1,9 +1,34 @@
 Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
 Charlotte Harris Democratic Candidate for KY State Rep.
-District 70
-Harrison, Mason, Bracken & Robertson Counties
-Your support and contributions will enable us to meet our goals and fund our mission.
-Hello!
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte for Kentucky State Representative Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Dr.
+Charlotte Harris Democratic Candidate for KY State Rep.
+District 70 Harrison, Mason, Bracken & Robertson Counties Join Us Help Our Cause Your support and contributions will enable us to meet our goals and fund our mission.
+Donate Meet Dr.
+Charlotte Committed to Kentucky Hello!
 I am Dr.
 Charlotte Harris, and you may know me as an Orthopedic Surgeon who worked in and around Mason County for over three decades.
 I am deeply grateful for all the years spent caring for my neighbors, friends, and their families.
@@ -27,31 +52,18 @@ Charlotte Harris, want to be your representative to continue my life of service 
 I want to work with you to build a path toward a better and brighter 70th district in the great Commonwealth of Kentucky.
 So, I humbly ask for your support on this journey and for your vote in November.
 Thank you and God bless!
-I will work to:
-- Bring good-paying jobs to our region
-- Invest in infrastructure, including water, electric and broadband
-- Expand housing options for the groups that need it most
-- Raise minimum wage to a living wage
-I will fight to:
-- Make health care accessable to all Kentuckians
-- Protect patient rights
-- Protect families from rising premium costs
-- Support expanded Medicaid services and improve plan availability
-- Ban pre-existing condition exclusions
-- Keep rural hospitals open so families can get care close to home
-- Protect women's health
-We must:
-- End violent and toxic political rhetoric
-- Not allow algorithms and bots to tear apart the fabric of our society
-- Work together for a better and brighter Kentucky
-I am a moderate Democrat committed to reaching across the aisle.
-To avoid service fees, you may make campaign donations by check made payable to:
-Campaign Fund for Dr.
-Charlotte Harris
-PO Box 171
-Maysville, KY 41056
-PO Box 171, Maysville, KY 41056
-Stay connected with Dr.
+Living Wages For All Kentuckians I will work to: Bring good-paying jobs to our region Invest in infrastructure, including water, electric and broadband Expand housing options for the groups that need it most Raise minimum wage to a living wage Health Care Is Personal, Not Political I will fight to: Make health care accessable to all Kentuckians Protect patient rights Protect families from rising premium costs Support expanded Medicaid services and improve plan availability Ban pre-existing condition exclusions Keep rural hospitals open so families can get care close to home Protect women's health United We Stand, Divided We Fall We must: End violent and toxic political rhetoric Not allow algorithms and bots to tear apart the fabric of our society Work together for a better and brighter Kentucky I am a moderate Democrat committed to reaching across the aisle.
+Make A Donation For A Stronger Kentucky Committed to Kentucky To avoid service fees, you may make campaign donations by check made payable to: Campaign Fund for Dr.
+Charlotte Harris PO Box 171 Maysville, KY 41056 Contact Us Dr.
+Charlotte for KY Rep PO Box 171, Maysville, KY 41056 T: (502) 330-7000 E: DrCharlotte4KyRep@gmail.com Connect with Us!
+Connect with Us!
+Dr.
+Charlotte Harris Email* How did you find us?
+Attach Files Attachments (0) This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Send Cancel Connect with Us!
+Join Our Movement Stay connected with Dr.
 Charlotte and learn about her campaign.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Enter your email* Join Now Copyright © # Dr.
+Charlotte for KY Rep - All Rights Reserved.
+Paid for by campaign fund of Dr.
+Charlotte Harris Powered by

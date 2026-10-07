@@ -1,12 +1,3 @@
-Back to All Events
-Join Team Heather for West Concord’s Survival Days Parade!
-📅 Sunday, July 26th
-🕒 Lineup at 12:00 PM
-📍 Main Street
-Previous
-Previous
-July 23
-Kasson Door Knock
-Next
-Next
-July 28
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events West Concord Survival Days Parade Sunday, July 26, 2026 12:00 PM 2:30 PM Google Calendar ICS Join Team Heather for West Concord’s Survival Days Parade! 📅 Sunday, July 26th 🕒 Lineup at 12:00 PM 📍 Main Street RSVP Here .
+Posted In: Community Events Previous Previous July 23 Kasson Door Knock Next Next July 28 Claremont Door Knock Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

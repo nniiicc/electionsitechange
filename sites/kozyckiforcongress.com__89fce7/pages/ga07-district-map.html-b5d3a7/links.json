@@ -1,6 +1,38 @@
 [
-"http://kozyckiforcongress.com/ga07-district-map.html",
-"http://kozyckiforcongress.com/how-to-vote.html",
-"http://kozyckiforcongress.com/index.html",
-"https://secure.actblue.com/donate/kozyckiwebsite"
+{
+"text": "About",
+"href": "http://kozyckiforcongress.com/index.html#about"
+},
+{
+"text": "Am I in the District?",
+"href": "http://kozyckiforcongress.com/ga07-district-map.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kozyckiwebsite"
+},
+{
+"text": "Get Involved",
+"href": "http://kozyckiforcongress.com/index.html#involved"
+},
+{
+"text": "How to Vote",
+"href": "http://kozyckiforcongress.com/how-to-vote.html"
+},
+{
+"text": "Issues",
+"href": "http://kozyckiforcongress.com/index.html#issues"
+},
+{
+"text": "Service",
+"href": "http://kozyckiforcongress.com/index.html#service"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.actblue.com/donate/kozyckiwebsite"
+},
+{
+"text": "[image: Tony Kozycki for Congress — Home]",
+"href": "http://kozyckiforcongress.com/index.html"
+}
 ]

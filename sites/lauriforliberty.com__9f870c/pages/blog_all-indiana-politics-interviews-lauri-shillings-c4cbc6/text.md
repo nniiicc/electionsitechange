@@ -1,3 +1,4 @@
-All Indiana Politics interviews Lauri Shillings
-All INdiana Politics producer Garrett Bergquist sits down with the four candidates for secretary of state for a new, four-part series.
+0 Skip to Content Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate Open Menu Close Menu Home About Issues Voting Events News Contact Donate All Indiana Politics interviews Lauri Shillings Sep 1 Written By Danny Lundy All INdiana Politics producer Garrett Bergquist sits down with the four candidates for secretary of state for a new, four-part series.
 In the fourth and final episode, Libertarian candidate Lauri Shillings describes growing up on one of the oldest homesteads in Indiana and why she believes she can win enough votes to make her party eligible to hold primaries under state law.
+Danny Lundy Previous Previous Hold’em Accountable Podcast interview with Lauri Shillings Next Next Indy Politics: Lauri Shillings pitches transparency, tech upgrades in hotly watched Secretary of State race Media & Press Inquiry Sign up for our newsletter Stay Connected!
+Paid for by Lauri for Liberty.

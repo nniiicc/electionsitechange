@@ -1,2 +1,5 @@
-Stay Informed
-Join our email list to receive updates and news about Samantha Wilcox’s campaign for State Senate District 34.
+Skip to content Samantha Wilcox for State Senate District 34 Home About Issues Events Volunteer HOW TO VOTE DONATE Stay Informed Join our email list to receive updates and news about Samantha Wilcox’s campaign for State Senate District 34. ← Back Thank you for your response. ✨ Thank you for your interest in our campaign!
+First Name (required) Last Name (required) Email (required) Any comments or questions?
+Submit Submitting form Δ Home About Issues Events Volunteer Facebook Instagram Bluesky TikTok Mail Paid for By Friends of Sam Wilcox Designed with WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

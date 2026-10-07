@@ -1,6 +1,4 @@
-Senate Democrats unveil 5-part tax plan to solve WA’s multi-billion-dollar budget probleM
-By Simone Carter for the Olympian • March 20, 2025
-As Washington faces a budget gap somewhere in the multi-billions, state lawmakers have brainstormed ways to close it.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate Senate Democrats unveil 5-part tax plan to solve WA’s multi-billion-dollar budget probleM May 20 Written By Upper Left Strategies By Simone Carter for the Olympian • March 20, 2025 As Washington faces a budget gap somewhere in the multi-billions, state lawmakers have brainstormed ways to close it.
 Two days after receiving a less-than-sunny revenue forecast, Senate Democrats revealed a five-part tax proposal — one that supporters say would ask ultra-wealthy residents to pay their fair share.
 Released Thursday morning, the new revenue plan for the next biennium’s operating budget comes as Democratic lawmakers have warned what it would take to balance the budget through cuts only.
 House Democrats recently launched a website detailing the consequences of a “no-revenue” budget, including major reductions in health care, human services and early-learning programs.
@@ -10,8 +8,7 @@ The Senate Republicans’ budget proposal would skip funding about $4 billion in
 Jay Inslee, opting to give out $5,000 bonuses instead.
 State Sen.
 Noel Frame, a Seattle Democrat and vice chair of the Senate Ways and Means Committee, said in a March 20 news release that lawmakers have worked for months to scour the budget for savings and efficiencies.
-“Rather than balance our budget entirely through devastating cuts or doubling-down on our regressive tax code on the backs of working families,” Frame said, “we’re asking the wealthiest among us to finally do their part and pay what they owe so that we can fund great public schools, health care, public safety, and the services that our most vulnerable residents are counting on.”
-The five-pronged proposal would contain: Financial intangibles tax Also referred to as a wealth tax, this would amount to a $10 tax on every $1,000 of assessed value of some financial assets — including mutual funds, bonds, stocks and exchange-traded funds — held by people with more than $50 million in such assets.
+“Rather than balance our budget entirely through devastating cuts or doubling-down on our regressive tax code on the backs of working families,” Frame said, “we’re asking the wealthiest among us to finally do their part and pay what they owe so that we can fund great public schools, health care, public safety, and the services that our most vulnerable residents are counting on.” The five-pronged proposal would contain: Financial intangibles tax Also referred to as a wealth tax, this would amount to a $10 tax on every $1,000 of assessed value of some financial assets — including mutual funds, bonds, stocks and exchange-traded funds — held by people with more than $50 million in such assets.
 It would apply to approximately 4,300 people.
 This tax would generate about $4 billion annually beginning in fiscal year 2027, benefiting the state’s public schools.
 Nixing the employer-payroll taxes cap The second prong is a tax of 5% on big employers “on the amount of payroll expenses above the Social Security threshold — currently $176,100 per year.” It only applies to companies with at least $7 million in payroll expenses, or nearly 5,300 establishments.
@@ -48,8 +45,7 @@ These things matter,” she said.
 It would be offset, however, by the reduction in sales taxes, bringing the net tax increase to $17 billion over four years.
 The estimated maintenance-level deficit over that time frame is $8.7 billion, the council says.
 State Sen.
-Gildon, the Senate Republican budget leader, said in a statement that “this is a new kind of March madness.” He argued that while his Democratic counterparts say the wealthiest Washingtonians should pay more, the “property-tax increase they want is regressive.”
-“It would fall directly on the backs of families who are far from wealthy and also become a pass-through cost to renters across our state,” the Puyallup Republican said.
+Gildon, the Senate Republican budget leader, said in a statement that “this is a new kind of March madness.” He argued that while his Democratic counterparts say the wealthiest Washingtonians should pay more, the “property-tax increase they want is regressive.” “It would fall directly on the backs of families who are far from wealthy and also become a pass-through cost to renters across our state,” the Puyallup Republican said.
 “To me that’s talking out of both sides of your mouth.” State Sen.
 Nikki Torres, assistant Senate Republican budget leader, seemed incredulous in an emailed statement.
 “How could our Democratic colleagues ‘scrub the budget for savings,’ as they claimed today, and still want $20 billion in new and higher taxes?” the Pasco Republican said.
@@ -57,7 +53,10 @@ Torres said she’s “very troubled” by the proposed property tax-related inc
 The yearly growth rate would likely exceed the 3% proposed by Democrats in the past two years and compound over time, she added.
 She said that Republicans floated the idea of a temporary sales-tax cut of 1% when the state enjoyed a surplus in 2022 — but that Democrats didn’t act.
 “Now they’re proposing to cut the sales tax half a percentage point, but only along with the largest set of tax increases in state history — and the sales-tax cut wouldn’t take effect until 2027 anyway,” Torres said.
-“It’s hard to see that as a serious attempt to help the struggling households across our state.”
-House and Senate Democrats are expected to release their full operating-budget proposals early next week.
+“It’s hard to see that as a serious attempt to help the struggling households across our state.” House and Senate Democrats are expected to release their full operating-budget proposals early next week.
 Before the session ends April 27, both chambers must agree on a budget and revenue plan, to be signed by Gov.
 Bob Ferguson.
+NEWS TAKES Upper Left Strategies https://upperleftstrategies.com Previous Previous Trump and the Catholic Church Fight a Law Requiring Clergy to Report Child Abuse Next Next Abuse survivors defend WA law that feds slam as ‘anti-Catholic’ HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

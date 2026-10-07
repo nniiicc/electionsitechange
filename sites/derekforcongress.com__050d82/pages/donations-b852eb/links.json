@@ -1,13 +1,46 @@
 [
-"http://instagram.com/derekflemingforcongress",
-"http://tiktok.com/@derekforcongress",
-"http://x.com/derekforMA05",
-"https://derekforcongress.com/",
-"https://derekforcongress.com/category/all-products",
-"https://derekforcongress.com/donations",
-"https://derekforcongress.com/learn-about-the-candidate",
-"https://derekforcongress.com/viewsontheissues",
-"https://derekforcongress.com/volunteer-sign-up",
-"https://facebook.com/profile.php?id=61590668464132",
-"https://secure.anedot.com/derek-for-congress/donate"
+{
+"text": "About the Candidate",
+"href": "https://www.derekforcongress.com/learn-about-the-candidate"
+},
+{
+"text": "About the Issues",
+"href": "https://www.derekforcongress.com/viewsontheissues"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/derek-for-congress/donate"
+},
+{
+"text": "Donations",
+"href": "https://www.derekforcongress.com/donations"
+},
+{
+"text": "Get involved",
+"href": "https://www.derekforcongress.com/volunteer-sign-up"
+},
+{
+"text": "Home",
+"href": "https://www.derekforcongress.com"
+},
+{
+"text": "Shop",
+"href": "https://www.derekforcongress.com/category/all-products"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/derekflemingforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com/@derekforcongress"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/derekforMA05"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590668464132"
+}
 ]

@@ -1,4 +1,4 @@
-Rep.
+Penny for NC House Penny for NC House Penny for NC House Penny for NC House Penny for NC House Penny for NC House Penny for NC House Penny for NC House Sign In Create Account Orders My Account Signed in as: filler@godaddy.com Orders My Account Sign out Signed in as: filler@godaddy.com Home Contact Us Shop Account Orders My Account Sign out Sign In Orders My Account Latest News Latest News Serving Our Community Rep.
 Howard Penny has worked much of his life in the Agriculture Industry from farming to sales and manufacturing while also helping businesses grow in a changing economy.
 Retail Management, Wholesale, and Manufacturing Management during his career.
 Currently the fourth generation operating our family farm.
@@ -10,8 +10,8 @@ Rep.
 Penny was also selected to serve on other committees, such as Agriculture, Agriculture Appropriations, Higher Education, and Appropriations.
 Rep.
 Penny will serve as Co-Chair for the Joint Legislative Committee on Local Government through 2025.
-Campaign contributions ensure Howard is able to continue fighting for hard-working North Carolina families like yours!
+We Need Your Support Campaign contributions ensure Howard is able to continue fighting for hard-working North Carolina families like yours!
 Your support means everything, and we cannot do it without YOU!
-Copyright © 2026 Penny for NC House - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Donate Now!
+Featured Products Featured Products Copyright © # Penny for NC House - All Rights Reserved.
+Privacy Policy Terms and Conditions Powered by

@@ -1,8 +1,26 @@
 [
-"https://lauriegill24.com/",
-"https://lauriegill24.com/about",
-"https://lauriegill24.com/cart",
-"https://lauriegill24.com/contact",
-"https://lauriegill24.com/donate",
-"https://lauriegill24.com/priorities"
+{
+"text": "0",
+"href": "https://www.lauriegill24.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriegill24.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriegill24.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.lauriegill24.com/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.lauriegill24.com/priorities"
+},
+{
+"text": "[image: Laurie Gill for District 24 House]",
+"href": "https://www.lauriegill24.com/"
+}
 ]

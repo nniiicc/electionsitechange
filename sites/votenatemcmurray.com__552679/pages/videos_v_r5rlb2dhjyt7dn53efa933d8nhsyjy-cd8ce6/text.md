@@ -1,4 +1,7 @@
-NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Podcast , • 6/12/26 NATECAST: THE $30 MILLION SOLAR QUESTION; THE IRAN MESS3.
 WHO GETS TO DECIDE WHO IS A CHRISTIAN?
 Tomorrow is the Cambria Town Hall, and I have questions.
 The same Niagara County Republican leadership that promised voters they would stop this massive solar project now wants to help fund it with roughly $30 million in public support.
@@ -21,3 +24,7 @@ They read the Bible.
 They consider themselves Christians.
 You don’t have to agree with their theology, but government officials labeling faith groups as acceptable or unacceptable should concern everyone.
 It’s another reminder that freedom of religion means freedom for everyone.
+Previous IS NATE A RADICAL COMMUNIST?
+HARDLY LET’S GO THROUGH THE ISSUES.
+Next I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: You Might Also Like PODCAST CLIP: THEY DIDN’T EVEN SHOW UP North Tonawanda Power, Party Control & Local Accountability (with Will Schulmeister) WE ARE AT A CROSSROADS IN WESTERN NEW YORK I HAVE SEEN THE FUTURE — AND NIAGARA CAN HAVE ONE TOOOn this week’s NateCast: PODCAST CLIP: THE CAMBRIA HYPOCRISY: WHO IS GOVERNMENT REALLY WORKING FOR?
+Volunteer and Sign Up for Updates!

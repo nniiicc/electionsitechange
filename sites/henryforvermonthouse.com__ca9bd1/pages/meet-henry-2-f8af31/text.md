@@ -1,5 +1,4 @@
-Meet Henry
-I’ve called Vermont home for more than 40 years.
+Menu Meet Henry Why I’m Running Policies Other Candidates to Know Where and When to Vote Contact Donate Donate Meet Henry I’ve called Vermont home for more than 40 years.
 I built my life in Milton, and I’m running to help make sure families in Milton and Georgia can afford to build their futures here too.
 I grew up in central Illinois farm country.
 My mother was a nurse and my father was a union carpenter who was also self-employed and primarily built houses.
@@ -22,3 +21,6 @@ Vermont can make decisions that lower costs, strengthen communities, protect our
 Affordable housing, strong public schools, accessible health care, renewable energy, and responsible long-term planning are the issues that shape everyday life in Milton and Georgia.
 They affect whether families can stay here, children can thrive here, and our communities can remain healthy, welcoming, and resilient.
 I am running to be a proud, strong voice for Milton and Georgia in Montpelier.
+Volunteering at the Sugar Shack at the Vermont State Fair Why I’m Running Stay in Touch Sign up for campaign updates First Name * First Name Last Name Last Name Email * Email City City State State By submitting this form, you agree to receive campaign updates from Henry Bonges for Vermont House.
+You can unsubscribe at any time.
+Sign Up Donate Meet Henry Why I’m Running Policies Other Candidates to Know Where and When to Vote Contact Donate Paid for by friends of henry bonges Henry Bonges for Vermont House © # PO Box 268, Milton, VT 05468 henry.campaign.vt@gmail.com Accessibility Statement Contact

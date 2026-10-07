@@ -1,9 +1,3 @@
-Back to All Events
-Canvass with us in Greenfield!
-Previous
-Previous
-August 8
-Canvass with Progressive MA
-Next
-Next
-August 11
+Skip to Content Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Events Endorsements Issues About Get Involved Contact Store ( 0 ) Cart ( 0 ) DONATE Open Menu Close Menu Events Endorsements Issues About Get Involved Contact Store DONATE Back to All Events Greenfield Group Canvass launch Sunday, August 9, 2026 11:00 AM 1:00 PM Catalpa Coffe 1 Bank Row Greenfield, Massachusetts, 01301 United States (map) Google Calendar ICS Canvass with us in Greenfield!
+Previous Previous August 8 Canvass with Progressive MA Next Next August 11 Food and Farm Forum DONATE Contact info@wondoforrep.org P.O.
+Box 19, Greenfield, MA 01302

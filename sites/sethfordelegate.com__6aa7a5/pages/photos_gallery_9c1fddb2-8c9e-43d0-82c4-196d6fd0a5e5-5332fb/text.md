@@ -1,3 +1,3 @@
-Serving as a panelist and giving a legislative update to the Maryland State and local Chambers of Commerce
-I was honored to be asked to serve as a panelist for the Maryland State Chamber of commerce luncheon.
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Serving as a panelist and giving a legislative update to the Maryland State and local Chambers of Commerce I was honored to be asked to serve as a panelist for the Maryland State Chamber of commerce luncheon.
 I was happy to answer many questions and give a legislative update to our local businesses and community members.
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

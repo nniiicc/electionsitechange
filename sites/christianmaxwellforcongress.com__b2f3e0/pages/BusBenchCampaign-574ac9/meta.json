@@ -1,7 +1,9 @@
 {
  "description": "Bus Bench Campaign on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/BusBenchCampaign",
- "paid_for_by": null,
+ "fingerprint": "63341db0d68c110c07b18b9ec68394e3f7135367",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bus Bench Campaign | Maxwell for Congress",
  "years_mentioned": []
 }

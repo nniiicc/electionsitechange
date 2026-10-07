@@ -1,6 +1,9 @@
-Bohnak Hosts the UP200 Fundraiser
-The Karl Bohnak for State Representative campaign's friends and [...]
-The Karl Bohnak for State Representative campaign hosted former [...]
-The Karl Bohnak for State Representative campaign announces it [...]
-MARQUETTE, Mich.
-(WLUC) - A candidate running for the [...]
+Skip to content (906) 273-0183 Team@VoteBohnak.com MENU Home About Karl Issues KARL’S RECORD Join The Team Contact Us DONATE votebohnakadmin Home » Archives for votebohnakadmin About votebohnakadmin This author has not yet filled in any details.
+So far votebohnakadmin has created 4 blog entries.
+Bohnak Hosts the UP200 Fundraiser Gallery Bohnak Hosts the UP200 Fundraiser Uncategorized Bohnak Hosts the UP200 Fundraiser The Karl Bohnak for State Representative campaign's friends and [...] By votebohnakadmin | 2026-02-04T03:50:59+00:00 February 3, 2026 | Uncategorized | Comments Off on Bohnak Hosts the UP200 Fundraiser Read More Karl Bohnak hosts Terri Lynn Land and Pete Hoekstra for Meet and Greet Gallery Karl Bohnak hosts Terri Lynn Land and Pete Hoekstra for Meet and Greet Karl Bohnak hosts Terri Lynn Land and Pete Hoekstra for Meet and Greet The Karl Bohnak for State Representative campaign hosted former [...] By votebohnakadmin | 2024-06-03T03:15:12+00:00 June 3, 2024 | Uncategorized | Comments Off on Karl Bohnak hosts Terri Lynn Land and Pete Hoekstra for Meet and Greet Read More Bohnak Opens Campaign Headquarters in Marquette Gallery Bohnak Opens Campaign Headquarters in Marquette Bohnak Opens Campaign Headquarters in Marquette The Karl Bohnak for State Representative campaign announces it [...] By votebohnakadmin | 2024-06-03T00:26:32+00:00 April 25, 2024 | Uncategorized | Comments Off on Bohnak Opens Campaign Headquarters in Marquette Read More Bohnak Announces Campaign for State Representative Gallery Bohnak Announces Campaign for State Representative Bohnak Announces Campaign for State Representative MARQUETTE, Mich.
+(WLUC) - A candidate running for the [...] By votebohnakadmin | 2024-04-30T19:15:23+00:00 December 3, 2023 | Uncategorized | Comments Off on Bohnak Announces Campaign for State Representative Read More Karl Bohnak for State Representative - 109th District 202 W Washington St, PO Box 153, Marquette, MI.
+49855 Team@VoteBohnak.com newsletter Sign up for the exclusive offers and best deals from us subscribe Thank You!
+The message has been sent. × There was an error trying to send your message.
+Please try again later. × Paid for by KARL BOHNAK 4 STATE REP, 202 W Washington St, PO Box 153, Marquette, MI.
+49855 Page load link about avada tours Lectus arcu bibendum am varius phare ipsum deu nis nunyc miles faucibus quis mauris eroys lorem ipsum dolor sit amet. read more photo gallery get in touch (090) 808 2345 41 Avada Avenue.
+FL 98765 info@avadatours.com Go to Top

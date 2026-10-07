@@ -1,21 +1,6 @@
-Gun Violence
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Gun Violence More Americans have been killed with guns in the United States than have died in all our wars combined.
 For too long, Congress has refused to pass comprehensive gun violence prevention legislation.
 While we have made progress in recent years, there is still a long way to go.
 All the Mass shootings and indiscriminate gun violence have traumatized a generation of Americans.
 We need solutions that keep our kids and our communities safe.
-- Individuals with guns injure more than 117,000 people per year and kill more than 48,000 a year through homicides, suicides, and accidental deaths
-- Gun violence costs our economy at least $557 billion every year, including $2.8 billion in direct expenses such as emergency and medical care
-- The increase of gun sales in America has coincided with a decreasing investment in mental health services
-- 53% of Americans support a ban on the sale of assault weapons
-- Only 40% of guns are sold by federally-licensed dealers
-Vision and policy priorities
-Ensure safe schools and communities
-For too long, Republican politicians, beholden to the powerful gun lobby, have blocked common sense gun reforms that would end the shocking mass shootings and rising rates of violence currently plaguing this country.
-- Build on the success of the 2022 Bipartisan Safer Communities Act by banning the sale of assault weapons
-- Strengthen red flag laws that prevent convicted domestic and animal abusers from accessing guns
-- Support the funding and accessibility of mental health services and substance use treatment so that vulnerable individuals can get the help they need
-- Address the bullying epidemic in our schools and enhance mental health services for our youth
-Require universal background checks for all
-Loopholes in current law allow for too many gun sales to bypass appropriate government oversight and programs such as the National Instant Criminal Background Check System are severely underfunded – resulting in an incomplete database
-- Close the gun show loophole and require background checks for every single firearm sale, no matter the circumstances
-- Fully fund grants to local communities to help improve local record keeping and reporting to the National Instant Criminal Background Check System
+Individuals with guns injure more than 117,000 people per year and kill more than 48,000 a year through homicides, suicides, and accidental deaths Gun violence costs our economy at least $557 billion every year, including $2.8 billion in direct expenses such as emergency and medical care The increase of gun sales in America has coincided with a decreasing investment in mental health services 53% of Americans support a ban on the sale of assault weapons Only 40% of guns are sold by federally-licensed dealers Vision and policy priorities Ensure safe schools and communities For too long, Republican politicians, beholden to the powerful gun lobby, have blocked common sense gun reforms that would end the shocking mass shootings and rising rates of violence currently plaguing this country. ​ Build on the success of the 2022 Bipartisan Safer Communities Act by banning the sale of assault weapons Strengthen red flag laws that prevent convicted domestic and animal abusers from accessing guns Support the funding and accessibility of mental health services and substance use treatment so that vulnerable individuals can get the help they need Address the bullying epidemic in our schools and enhance mental health services for our youth Require universal background checks for all Loopholes in current law allow for too many gun sales to bypass appropriate government oversight and programs such as the National Instant Criminal Background Check System are severely underfunded – resulting in an incomplete database Close the gun show loophole and require background checks for every single firearm sale, no matter the circumstances Fully fund grants to local communities to help improve local record keeping and reporting to the National Instant Criminal Background Check System Back to all Vision's ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

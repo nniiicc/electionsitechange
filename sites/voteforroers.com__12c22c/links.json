@@ -1,17 +1,94 @@
 [
-"https://facebook.com/RoersforND",
-"https://palevioletred-magpie-853243.hostingersite.com/",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=100",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=25",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=250",
-"https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=50",
-"https://twitter.com/RaisedRightKris",
-"https://voteforroers.com/",
-"https://voteforroers.com/category/press-release",
-"https://voteforroers.com/district-27-republicans-sen-kristin-roers-rep-greg-stemen-and-shawn-kessel-announce-2026-campaign-for-north-dakota-legislature",
-"https://voteforroers.com/get-involved",
-"https://voteforroers.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary",
-"https://voteforroers.com/senator-kristin-roers-and-representative-greg-stemen-set-to-seek-re-election-in-2022",
-"https://voteforroers.com/vote"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate?amount=50"
+},
+{
+"text": "701-566-0340",
+"href": "tel:17015660340"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate"
+},
+{
+"text": "District 27 Republicans Sen. Kristin Roers, Rep. Greg Stemen and Shawn Kessel Announce 2026 Campaign for North Dakota Legislature",
+"href": "https://voteforroers.com/district-27-republicans-sen-kristin-roers-rep-greg-stemen-and-shawn-kessel-announce-2026-campaign-for-north-dakota-legislature/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/RaisedRightKris"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RoersforND"
+},
+{
+"text": "Get Involved",
+"href": "https://voteforroers.com/get-involved/"
+},
+{
+"text": "Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary",
+"href": "https://voteforroers.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary/"
+},
+{
+"text": "MEET KRISTIN",
+"href": "https://palevioletred-magpie-853243.hostingersite.com/#meetkristin"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/903313ac-fc50-438a-9679-9daf570c5899/donate"
+},
+{
+"text": "Press Release",
+"href": "https://voteforroers.com/category/press-release/"
+},
+{
+"text": "Read More",
+"href": "https://voteforroers.com/district-27-republicans-sen-kristin-roers-rep-greg-stemen-and-shawn-kessel-announce-2026-campaign-for-north-dakota-legislature/"
+},
+{
+"text": "Read More",
+"href": "https://voteforroers.com/governor-kelly-armstrong-announces-first-round-of-endorsements-ahead-of-june-primary/"
+},
+{
+"text": "Read More",
+"href": "https://voteforroers.com/senator-kristin-roers-and-representative-greg-stemen-set-to-seek-re-election-in-2022/"
+},
+{
+"text": "Senator Kristin Roers and Representative Greg Stemen set to seek re-election in 2022",
+"href": "https://voteforroers.com/senator-kristin-roers-and-representative-greg-stemen-set-to-seek-re-election-in-2022/"
+},
+{
+"text": "Send an Email",
+"href": "mailto:voteforroers@gmail.com"
+},
+{
+"text": "Vote",
+"href": "https://voteforroers.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://voteforroers.com/"
+},
+{
+"text": "",
+"href": "mailto:voteforroers@gmail.com"
+},
+{
+"text": "",
+"href": "tel:17015660340"
+}
 ]

@@ -1,14 +1,1 @@
-Endorsements
-Knoxville/Knox County Fraternal Order of Police (in 2022)
-Knox County Education Association (in 2022)
-Tennessee Education Association (in 2022)
-Tennesseans for Student Success “A” Rating (in 2022)
-National Federation of Independent Businesses NFIB (in 2022 & 2026)
-National Rifle Association “A” Rating (in 2022 & 2026)
-Tennessee Professional Firefighters Association (in 2022 & 2026)
-Tennessee Chapter of the AFL-CIO (in 2022)
-Union of Campus Workers (in 2022)
-Tennessee State Employees Association (in 2022)
-American Conservative Union Award for Conservative Excellence-2015
-American Conservative Union Award for Conservative Achievement 2016-2018
-Tennessee Chamber of Commerce “Champion of Commerce 2026”
+Home About Issues Endorsements News Volunteer Donate Endorsements Knoxville/Knox County Fraternal Order of Police (in 2022) Knox County Education Association (in 2022) Tennessee Education Association (in 2022) Tennesseans for Student Success “A” Rating (in 2022) National Federation of Independent Businesses NFIB (in 2022 & 2026) National Rifle Association “A” Rating (in 2022 & 2026) Tennessee Professional Firefighters Association (in 2022 & 2026) Tennessee Chapter of the AFL-CIO (in 2022) Union of Campus Workers (in 2022) Tennessee State Employees Association (in 2022) American Conservative Union Award for Conservative Excellence-2015 American Conservative Union Award for Conservative Achievement 2016-2018 Tennessee Chamber of Commerce “Champion of Commerce 2026” Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

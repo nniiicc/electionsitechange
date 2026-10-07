@@ -1,5 +1,4 @@
-the save act and voter fraud
-I support the SAVE Act because I believe American elections should be decided only by American citizens.
+DONATE about issues shop news volunteer Request Yard sign the save act and voter fraud issue I support the SAVE Act because I believe American elections should be decided only by American citizens.
 That’s not an extreme position, it’s the basic standard of self-government.
 If we’re going to have a republic, then we have to be serious about who is allowed to participate in choosing its leaders.
 From my perspective, this isn’t about expanding government power, but about clearly defining and protecting the integrity of the vote.
@@ -11,10 +10,10 @@ In something as important as elections, I believe clarity and trust are essentia
 I also don’t see election security and liberty as opposites.
 A free society depends on people believing their vote is legitimate and protected.
 Without that trust, confidence in self-government breaks down.
-At the end of the day, I want a system where every lawful vote counts, every ineligible vote is prevented, and Americans can have full confidence that Americans are the ones deciding America’s future.
-elections free from outside interference
-donate »
-I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
-anti-war,
-anti-spending,
-anti-establishment
+At the end of the day, I want a system where every lawful vote counts, every ineligible vote is prevented, and Americans can have full confidence that Americans are the ones deciding America’s future. elections free from outside interference « back to issues donate » I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
+THE AMERICA FIRST CANDIDATE anti-war, anti-spending, anti-establishment PAID FOR BY JEREMY TODD FOR KENTUCKY follow: By submitting your cell phone number you are agreeing to receive periodic text messages from our campaign.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+PO Box 176037, Lakeside Park, Kentucky 41017 SUBMIT thank you!
+COPYRIGHT ©# JEREMY TODD FOR KENTUCKY PRIVACY POLICY | CONTACT US about issues home donate » shop news volunteer Request Yard Sign about issues Shop news volunteer

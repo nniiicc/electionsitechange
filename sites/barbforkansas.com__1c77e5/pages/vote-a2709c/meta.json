@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://barbforkansas.com/vote",
- "paid_for_by": null,
+ "fingerprint": "5a165c3b9f08e586c7f108b435f18b0c974e1da2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

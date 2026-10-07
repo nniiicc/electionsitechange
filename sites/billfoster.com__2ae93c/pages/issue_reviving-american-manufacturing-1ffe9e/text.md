@@ -1,4 +1,5 @@
-As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill Foster than the health of manufacturing in America.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery On the Issues Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill Foster than the health of manufacturing in America.
 Bill fought the Trump Administration’s tariffs because they were misguided policy – Trump’s tax and tariff policies sent the US into a Manufacturing Recession a full year before COVID.
 As a Democrat, Bill Foster is proud that U.S.
 Manufacturing Jobs have Increased Under Every Democratic Administration since FDR — and angered at the Loss of Manufacturing Jobs that Has Occurred Under Every Single Republican Administration.
@@ -29,8 +30,7 @@ Democrats hold a wider view of corporate responsibility — to their workforce, 
 Republican tax and trade policies have consistently favored transnational companies that offshore jobs.
 It is not an accident that the trade deficit has skyrocketed since the passage of the Trump Administration’s tax cuts for billionaires.
 How Bill Foster believes we should fix U.S.
-Manufacturing
-1) Eliminate tax incentives to move jobs offshore.
+Manufacturing 1) Eliminate tax incentives to move jobs offshore.
 Although overall U.S. income tax rates are the lowest in 60 years, the tax code is still littered with misguided and indefensible incentives that encourage companies to ship American jobs offshore.
 Many of these were enacted due to lobbying by large corporations whose business plans were to move manufacturing operations offshore, and paid high-powered lobbyists to obtain beneficial tax breaks for doing so.
 These tax incentives to move jobs offshore have to be dismantled – carefully and quickly – and Bill has been proud to vote for legislation to begin this process.
@@ -40,7 +40,7 @@ Bill believes that for decades, the United States was ill-served by trade agreem
 Trump’s proposed trade deals to upgrade NAFTA will do little to enforce fair labor standards in Mexico and will actually increase prescription drug prices in the U.S.
 3) Restore the emphasis on manufacturing in American education and culture.
 Educational excellence in Science, Technology, Engineering, and Math (STEM) is crucial to success in a dynamic modern manufacturing economy.
-See Bill Foster’s positions on Education.
+See Bill Foster’s positions on Education .
 The problem is also cultural.
 Henry Ford and Thomas Edison were once heroes to ordinary Americans because of the products they invented and manufactured.
 A large and growing fraction of the students from top universities now head to careers on Wall Street instead of the real economy.
@@ -50,3 +50,27 @@ Manufacturing is to get the next generation of students interested in building t
 One of the things Bill is most proud of in Congress is his sponsorship of Fab Labs.
 These are a set of state-of-the-art rapid prototyping equipment, located in storefronts and schools throughout the country, where kids and adults can drop in, design their own parts on a computer, and then have completed parts built and in their hands within minutes.
 Kids use the computers and equipment to design and make everything imaginable – jewelry, furniture, motors, models, or robots – using this true “workplace of the future”.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Reproductive Freedom Bill fight to defend women’s bodily autonomy and the right for every American to access reproductive health care.
+Economy Bill has been deeply involved in writing laws which will prevent crises like the 2008 financial collapse from hurting working families in the future.
+Reducing Gun Violence It is a moral shame that we have so many ways to prevent gun violence in this country, but we have a Congress who has failed to do anything to protect Americans.
+Healthcare Bill believes that health care is a basic human right and that we should continue moving towards universal coverage.
+Immigration The United States is a proud nation of immigrants and we must adhere to the promise of the American Dream.
+Defending the Constitution President Trump's trampling of the Constitution is a threat to our democracy Reviving American Manufacturing As a businessman who started a manufacturing company that now provides hundreds of good-paying jobs right here in the Midwest, nothing is more important to Bill than the health of manufacturing in America.
+The Financial Crisis The financial crisis of 2008 cost our economy 8 million jobs and cost American families more than $16 trillion dollars of net worth.
+Reforming Wall Street The financial crisis of 2008 destroyed millions of jobs and crushed the retirement savings of American families.
+Combating the Climate Crisis Our dependence on fossil fuels for energy production has been a growing problem for decades.
+Science and Technology Investments in basic scientific research provide some of the highest returns on investment of any that our society can make.
+Education Wise investments in our children’s education are crucial to our long-term economic health.
+Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

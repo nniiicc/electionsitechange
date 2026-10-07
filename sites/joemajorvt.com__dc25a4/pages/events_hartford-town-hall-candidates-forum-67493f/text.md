@@ -1,5 +1,7 @@
-The 2026 election campaigns have begun, and it’s time to meet the candidates!
+0 Skip to Content Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Open Menu Close Menu Home Legislative Results Priorities News Events About Contact Donate Here: Act Blue Back to All Events Hartford Town Hall Candidates Forum Monday, June 29, 2026 6:00 PM 8:00 PM Hartford Town Hall 171 Bridge St White River Junction, VT 05001 United States (map) Google Calendar ICS The 2026 election campaigns have begun, and it’s time to meet the candidates!
 One of the most exciting general assembly races this year will be in Windsor County, with six candidates already filed to run in the Democratic primary.
 Come hear from candidates Benjamin Brickner, Elizabeth Burrows, Heather Chase, Chris Dube, Joe Major, and Becca White on Monday, June 29th from 6:00pm to 8:00pm at the Hartford Town Hall in White River Junction to hear their visions for the Senate role and where they stand on the issues.
 There will be questions from the sponsoring organizations and time for questions from the audience.
 This event is sponsored or organized by Lets Grow Kids Action Network, Planned Parenthood of Vermont Action Fund, Rights and Democracy, ACLU-VT, Vermont Conservation Voters, VPIRG, Vermont Chapter of Sierra Club, and Vermont-NEA.
+Previous Previous June 28 Upper Valley Nighthawks Game Next Next July 4 Hartland Old Home Day Joe Major for Windsor County Senate Donate Today!
+Actblue.com

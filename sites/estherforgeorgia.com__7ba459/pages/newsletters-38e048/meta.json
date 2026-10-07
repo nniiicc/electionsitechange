@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with Esther Panitch&#39;s weekly newsletters for the latest political updates in Georgia.",
  "final_url": "https://estherforgeorgia.com/newsletters",
- "paid_for_by": null,
+ "fingerprint": "d60d4dd9f97ad646b80394f2c596a8424e32a01c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletters",
  "years_mentioned": [
   "2026"

@@ -1,7 +1,5 @@
-Chris Pappas Keeps Catering to the Far Left
-- Pappas Runs for Cover as Maggie Goodlander & Centrist Democrats Reject Socialism -
-On the heels of victories by progressive insurgents in New York and Colorado and a new poll showing Karishma Manzur surging in New Hampshire’s Democratic U.S.
-Senate primary, Chris Pappas is showing new signs that he is more concerned about pandering to the Far Left wing of the Democratic Party than being an independent voice for New Hampshire.
+top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE Chris Pappas Keeps Catering to the Far Left Sununu Senator – Press Team Jul 6 1 min read - Pappas Runs for Cover as Maggie Goodlander & Centrist Democrats Reject Socialism - On the heels of victories by progressive insurgents in New York and Colorado and a new poll showing Karishma Manzur surging in New Hampshire’s Democratic U.S.
+Senate primary , Chris Pappas is showing new signs that he is more concerned about pandering to the Far Left wing of the Democratic Party than being an independent voice for New Hampshire.
 The recent University of New Hampshire Survey Center poll found Pappas’s lead over Manzur cut nearly in half, and Manzur drawing more support from younger voters and voters who identify as progressive or socialist.
 Meanwhile, Pappas’s fellow New Hampshire Democrat, U.S.
 Rep.
@@ -11,6 +9,6 @@ Pappas is not listed among the signers.
 Senate.
 “First, he voted with Nancy Pelosi 222 out of a possible 223 times when she was Speaker.
 Then, Chris Pappas refused to say radical Graham Platner is unfit to serve.
-Now, Chris Pappas refuses to condemn socialism.”
-“New Hampshire voters deserve a Senator they can trust to do what’s right no matter what,” Schrimpf said.
-“While Pappas plays politics and flirts with socialism, John Sununu will be an independent voice for New Hampshire and put Granite Staters first every single day.”
+Now, Chris Pappas refuses to condemn socialism.” “New Hampshire voters deserve a Senator they can trust to do what’s right no matter what,” Schrimpf said.
+“While Pappas plays politics and flirts with socialism, John Sununu will be an independent voice for New Hampshire and put Granite Staters first every single day.” Recent Posts See All JOHN SUNUNU WINS REPUBLICAN PRIMARY FOR U.S.
+SENATE John Sununu Launches First Ad of Campaign ICYMI: Pappas and Platner MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page

@@ -1,7 +1,9 @@
 {
  "description": "John McQueeney is a conservative Republican and businessman from Fort Worth, running for Texas House District 97.",
  "final_url": "https://mcqueeneyfortexas.com/",
- "paid_for_by": null,
+ "fingerprint": "e4f22f9cb1380f4a249f69e9d39ab0f3dca027e8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home - John McQueeney for Texas",
  "years_mentioned": []
 }

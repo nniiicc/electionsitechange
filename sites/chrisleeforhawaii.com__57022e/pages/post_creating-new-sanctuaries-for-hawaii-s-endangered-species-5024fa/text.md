@@ -1,4 +1,5 @@
-We are taking a huge step to guarantee protected spaces for our most endangered species and habitats, and it is now law!
+top of page DONATE COMMUNITY WINS TACKLING OUR ISSUES ABOUT CHRIS More Use tab to navigate through the menu items.
+All Articles Environmental Activism Equality Issues Search Jul 18 1 min read We are taking a huge step to guarantee protected spaces for our most endangered species and habitats, and it is now law!
 I wrote SB3253 to establish a new network of conservation sanctuaries across our islands.
 Hawaii has more endangered species than the rest of the country combined, and we are losing many of them forever, every year.
 Yet, here our environment is our economy, our culture, our way of life, and we must do more to protect it.
@@ -9,3 +10,6 @@ Today native birds that were once functionally extinct and unseen for generation
 We can do the same in Hawaii by adapting proven strategies like these.
 The Hawaii Conservation Sanctuary established by SB3253 will be a community-driven non-profit organization that works together with the state to create safe spaces where endangered species can recover, native ecosystems can be restored, and future generations can experience Hawaii’s native species found nowhere else in the world.
 Mahalo to everyone who worked together to make this possible!
+Recent Posts See All Chris' Bill Cancels Medical Debt For 50,000 Hawaii Residents Our Bill Passes To Help Good Cops End Misconduct By Bad Cops We're Creating a new Hemp Industry in Hawai'i!
+Support Our Cause DONATE Contact Us Thanks for reaching out!
+Submit Join Us And Follow Along Paid for by Friends of Chris Lee 111 Hekili Street, Box 392, Kailua, HI 96734 bottom of page

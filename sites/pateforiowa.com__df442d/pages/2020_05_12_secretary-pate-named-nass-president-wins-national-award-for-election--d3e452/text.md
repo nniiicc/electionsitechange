@@ -1,5 +1,9 @@
-Iowa Secretary of State Paul Pate was unanimously elected President of the National Association of Secretaries of State (NASS) during the organization’s summer conference in Santa Fe, New Mexico.
+Home Meet Paul Get Involved News Contact Donate Home News Secretary Pate named NASS President, wins national award for election cyber security Home News Secretary Pate named NASS President, wins national award for election cyber security Secretary Pate named NASS President, wins national award for election cyber security By wordpress@victoryenterprises.com | May 12, 2020 | News | No Comments Iowa Secretary of State Paul Pate was unanimously elected President of the National Association of Secretaries of State (NASS) during the organization’s summer conference in Santa Fe, New Mexico.
 Additionally, Pate won the prestigious NASS IDEAS Award for his election cyber security initiative, “Partnerships Pay Dividends: A Roadmap to Election Cyber Security”.
 Secretary Pate will serve as the NASS President through July 2020.
-Pate told his bipartisan colleagues that he will make
-Continue reading here: https://www.ogdenreporter.com/content/secretary-pate-named-nass-president-wins-national-award-election-cyber-security
+Pate told his bipartisan colleagues that he will make Continue reading here: https://www.ogdenreporter.com/content/secretary-pate-named-nass-president-wins-national-award-election-cyber-security Leave a comment Cancel reply Save my name, email, and website in this browser for the next time I comment.
+Paul Pate, a nationally recognized small business leader, is serving his third term as Iowa's Secretary of State.
+Pate followed through on his 2014 campaign promises by making it easier for overseas military members to vote, instituting online voter registration, implementing a Safe at Home program for survivors of violence, and bringing Voter ID to Iowa.
+Pate has succeeded in making it easy to vote, but hard to cheat.
+Recent Posts Secretary Pate featured guest on “Iowa Press” Iowa ranked 3rd best in nation for election administration MEDIA RELEASE: Iowa’s top elected officials endorse Paul Pate for Secretary of State Contact Information Address: 300 Walnut St.
+#79 Des Moines, Iowa 50309 Email: Info@PateForIowa.com PAID FOR BY PATE FOR IOWA Copyright # All Rights Reserved

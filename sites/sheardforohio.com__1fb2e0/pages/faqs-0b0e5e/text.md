@@ -1,7 +1,4 @@
-Frequently Asked Questions: Wenda Sheard for Ohio House District 94
-Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (Meigs and Washington counties, plus the outskirts of Athens County) Election: November 3, 2026 Information current as of: October 3, 2026
-Getting to Know Her
-1.
+Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact Frequently Asked Questions: Wenda Sheard for Ohio House District 94 Candidate: Wenda Sheard (Democrat) Office: Ohio House of Representatives, District 94 (Meigs and Washington counties, plus the outskirts of Athens County) Election: November 3, 2026 Information current as of: October 3, 2026 Getting to Know Her 1.
 Who is Wenda Sheard and why is she running?
 Sheard is a Democrat running for the Ohio House in the November 3, 2026 election.
 Sheard believes the real divide in politics isn’t left versus right; it’s billionaires and their large corporations against the rest of us..
@@ -34,8 +31,7 @@ Sheard has been working with both Republican and Democratic officials opposed to
 5.
 Who has endorsed her?
 Sheard’s endorsements include the Ohio Federation of Teachers, the Ohio Education Association’s Fund for Children and Public Education, the Ohio Civil Service Employees Association (AFSCME Local 11), the Ohio Association of Public School Employees (OAPSE/AFSCME Local 4), AFSCME Power in Action, Planned Parenthood Advocates of Ohio, The Matriots, Greater Than PAC, United She Stands, and Save Ohio Parks.
-Water and the Environment
-6.
+Water and the Environment 6.
 I keep hearing about injection wells.
 What does Wenda Sheard want to do?
 Injection wells are deep holes where companies pump in liquid waste.
@@ -67,8 +63,7 @@ Local people should decide what kinds of development come to their area.
 Development should not harm a community in the long run.
 On the proposed plastics plant in Athens County, Sheard knows there are many concerns.
 Sheard is grateful that citizens are expressing their concerns, and public officials are listening to citizen input.
-Prices and Taxes
-10.
+Prices and Taxes 10.
 Prices keep going up.
 What would Wenda Sheard do about it?
 Sheard would reverse recent tax breaks that favor the wealthy, push for stronger oversight of the state agency that oversees utilities (PUCO), make property taxes fairer, and explore ideas for making health care cheaper.
@@ -102,8 +97,7 @@ How would she help small towns pay for broadband, water, sewer, and roads?
 Sheard wants our Ohio House District 94 to get a fair share of state and federal money for roads, bridges, water, sewer, and broadband.
 She will back additional funding ideas local governments and residents suggest.
 She will also fight to keep the Ohio Local Government Fund, which helps pay for local services like police, unless local governments propose a fairer way to share the money.
-Schools
-16.
+Schools 16.
 What would Wenda Sheard do about school funding?
 Sheard wants Ohio’s school funding to be “thorough and efficient,” as the Ohio Constitution requires, so every child gets the same opportunities no matter where they live.
 She supports the bipartisan Cupp-Patterson plan.
@@ -115,14 +109,12 @@ Vouchers are state monies that help pay private school tuition.
 Sheard would end the expanded EdChoice program, which cost $492 million in 2025, and instead put that money into public schools.
 Private schools get public money with little accountability and don’t have to accept every child.
 Because the voucher amounts don’t cover all the tuition in most big city private schools, only families with enough income to cover the difference are able to use the vouchers.
-That’s why Sheard calls the vouchers “coupons for the rich.”
-18.
+That’s why Sheard calls the vouchers “coupons for the rich.” 18.
 What about universities, career centers, and Senate Bill 1?
 Sheard would work to fully fund career centers and universities.
 She wants to repeal Senate Bill 1, the 2025 law that limited academic freedom and union bargaining at universities.
 Universities should make their own curriculum decisions, and teachers and local school boards should decide what is taught in K-12 schools.
-Health Care
-19.
+Health Care 19.
 How would Wenda Sheard make health care more affordable and easier to get here?
 Sheard would work to increase transparency and accountability in health care.
 The cuts to Medicaid and SNAP have gone too far.
@@ -139,8 +131,7 @@ Sheard supports reproductive rights, and, at the same time, wants to make aborti
 Sheard believes it’s possible to greatly reduce the number of abortions in Ohio by reducing the reasons someone might seek an abortion.
 Sheard’s goal is to make sure no one seeks an abortion due to lack of birth control, medical care, childcare, education, or income.
 She worked to collect signatures and lobby for the 2023 Ohio constitutional amendment protecting them, organized a community event after the Dobbs decision, and helped put free Plan B kits near the Ohio University campus.
-Fair and Open Government
-22.
+Fair and Open Government 22.
 What does Wenda Sheard think about data centers and secret deals with local officials?
 Sheard supports House Bill 695, which would ban secrecy agreements (called NDAs) for local officials on data center projects.
 The bill is needed, given how many communities have been blindsided by secret deals.
@@ -176,3 +167,4 @@ How can I reach Wenda Sheard, and will she hold town halls?
 Her cell phone number is 740-818-1845.
 (She doesn’t answer numbers she doesn’t know, so text her first and she’ll call back.) Her campaign email is FriendsofWendaSheard@gmail.com.
 If elected, Sheard will hold town halls and spend most of the legislature’s recess time in the district, listening to voters in all three counties.
+Home About Endorsements Donate Affordability and Rising Costs Safe Drinking Water Public Education Health Care Government Accountability and Fairness FAQs Contact

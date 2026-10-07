@@ -1,5 +1,6 @@
-A message from Alec Lindeman
-It is with a heavy heart that I am announcing an early end to my campaign for HD58.
+Alec Lindeman For State Representative Meet Alec Priorities Events Get Involved Contact Donate Contact Get in Touch Questions, ideas, or an invitation to your community?
+Alec wants to hear from you.
+A message from Alec Lindeman It is with a heavy heart that I am announcing an early end to my campaign for HD58.
 Due to circumstances outside of my control, I am unable to continue my bid for this Colorado House seat.
 I’d like to thank Jim Starr, Marsha Collins, Mike Callihan, and the rest of the amazing Gunnison County Democrats for getting me involved in the race for HD58 and for all of the advice and support.
 The same goes for our wonderful County Commissioners Laura Puckett Daniels, Liz Smith, and Jonathan Houck.
@@ -30,5 +31,4 @@ Suckla yet, although I look forward to it.
 Congratulations on your 2026 campaign for re-election.
 I want to challenge you to be the best representative for HD58 that you can be and then try to be a little better.
 That is what the people of our fair district deserve.
-Thank you,
-Alec Lindeman
+Thank you, Alec Lindeman Send a Message Name Email Message Send Message Reach the Campaign Email info@lindemanforhd58.com Mail 403 2nd Street, Crested Butte, CO 81224 Social Facebook · Instagram Quick Links Volunteer Subscribe Donate Alec Lindeman for HD58 403 2nd Street, Crested Butte, CO 81224 info@lindemanforhd58.com Follow Facebook Instagram More Donate Volunteer Contact Paid for by Lindeman for HD58.

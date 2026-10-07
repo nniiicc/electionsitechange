@@ -1,21 +1,118 @@
 [
-"https://facebook.com/VoteMartinaPA",
-"https://instagram.com/votemartinapa",
-"https://secure.anedot.com/friends-of-martina-white/web",
-"https://secure.anedot.com/friends-of-martina-white/web?amount=10",
-"https://secure.anedot.com/friends-of-martina-white/web?amount=100",
-"https://secure.anedot.com/friends-of-martina-white/web?amount=25",
-"https://secure.anedot.com/friends-of-martina-white/web?amount=50",
-"https://twitter.com/VoteMartinaPA",
-"https://votemartina.com/",
-"https://votemartina.com/about",
-"https://votemartina.com/contact",
-"https://votemartina.com/endorsements",
-"https://votemartina.com/news",
-"https://votemartina.com/pennsylvania-bill-would-expand-use-of-public-private-partnerships-for-truck-projects",
-"https://votemartina.com/priorities",
-"https://votemartina.com/privacy",
-"https://votemartina.com/privacy-policy",
-"https://votemartina.com/southeast-republican-house-members-work-to-secure-10-million-for-covid-19-vaccine-research-and-development",
-"https://votemartina.com/what-pa-lawmakers-are-proposing-in-response-to-the-coronavirus"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/friends-of-martina-white/web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/friends-of-martina-white/web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/friends-of-martina-white/web?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/friends-of-martina-white/web?amount=50"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/friends-of-martina-white/web"
+},
+{
+"text": "Contact",
+"href": "https://votemartina.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-martina-white/web"
+},
+{
+"text": "Endorsements",
+"href": "https://votemartina.com/endorsements/"
+},
+{
+"text": "Learn more about Martina",
+"href": "https://votemartina.com/about/"
+},
+{
+"text": "Martina's Priorities",
+"href": "https://votemartina.com/priorities/"
+},
+{
+"text": "Meet Martina",
+"href": "https://votemartina.com/about/"
+},
+{
+"text": "News",
+"href": "https://votemartina.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/friends-of-martina-white/web"
+},
+{
+"text": "Pennsylvania Bill Would Expand Use of Public-Private Partnerships For Truck Projects",
+"href": "https://votemartina.com/pennsylvania-bill-would-expand-use-of-public-private-partnerships-for-truck-projects/"
+},
+{
+"text": "Priorities",
+"href": "https://votemartina.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemartina.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy | Terms and Conditions.",
+"href": "https://votemartina.com/privacy"
+},
+{
+"text": "Read more",
+"href": "https://votemartina.com/pennsylvania-bill-would-expand-use-of-public-private-partnerships-for-truck-projects/"
+},
+{
+"text": "Read more",
+"href": "https://votemartina.com/southeast-republican-house-members-work-to-secure-10-million-for-covid-19-vaccine-research-and-development/"
+},
+{
+"text": "Read more",
+"href": "https://votemartina.com/what-pa-lawmakers-are-proposing-in-response-to-the-coronavirus/"
+},
+{
+"text": "Southeast Republican House Members Work to Secure $10 Million for COVID-19 Vaccine Research and Development",
+"href": "https://votemartina.com/southeast-republican-house-members-work-to-secure-10-million-for-covid-19-vaccine-research-and-development/"
+},
+{
+"text": "What Pa. Lawmakers Are Proposing in Response to the Coronavirus",
+"href": "https://votemartina.com/what-pa-lawmakers-are-proposing-in-response-to-the-coronavirus/"
+},
+{
+"text": "[image: Pennsylvania Bill Would Expand Use of Public-Private Partnerships For Truck Projects]",
+"href": "https://votemartina.com/pennsylvania-bill-would-expand-use-of-public-private-partnerships-for-truck-projects/"
+},
+{
+"text": "[image: Southeast Republican House Members Work to Secure $10 Million for COVID-19 Vaccine Research and Development]",
+"href": "https://votemartina.com/southeast-republican-house-members-work-to-secure-10-million-for-covid-19-vaccine-research-and-development/"
+},
+{
+"text": "[image: What Pa. Lawmakers Are Proposing in Response to the Coronavirus]",
+"href": "https://votemartina.com/what-pa-lawmakers-are-proposing-in-response-to-the-coronavirus/"
+},
+{
+"text": "[image]",
+"href": "https://votemartina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteMartinaPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMartinaPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemartinapa"
+}
 ]

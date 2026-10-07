@@ -1,7 +1,4 @@
-WAIF 88.3 FM
-Check out my interview with Boiling Point!
+0 Skip to Content Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Home Issues Media Contact Caleb Price for Ohio's 30th Open Menu Close Menu Home Issues Media Contact WAIF 88.3 FM Check out my interview with Boiling Point!
 I sat down with Clayton and Mark in hour two to discuss my priorities, campaign goals, and optimism for making change on the Westside.
-Cincinnati Enquirer
-Read my Op-Ed published on July 12, 2026 about my argument to expand Metro bus service on Cincinnati’s Westside to areas such as Dent, Cleves, and parts of Delhi Township.
-City of Cincinnati
-Here is the City of Cincinnati government recognizing me for my work with Vice Mayor Jan-Michele Kearney and Council Member Wendell Young on passing a resolution to rename portions of Reading Road after former President Barack Obama.
+Cincinnati Enquirer Read my Op-Ed published on July 12, 2026 about my argument to expand Metro bus service on Cincinnati’s Westside to areas such as Dent, Cleves, and parts of Delhi Township.
+City of Cincinnati Here is the City of Cincinnati government recognizing me for my work with Vice Mayor Jan-Michele Kearney and Council Member Wendell Young on passing a resolution to rename portions of Reading Road after former President Barack Obama. https://www.cincinnati.com/story/opinion/contributors/2026/07/12/its-time-to-extend-metro-bus-service-to-cincinnatis-west-side/90845529007/?utm_campaign=trueanthem&utm_medium=social&utm_source=facebook&fbclid=IwY2xjawTF9MpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeL64iDSFQbY3r4OH7-f5frRKjQytdvjdiMXeIxbTM4wJIm7X7mcnlUBgwz3Q_aem_YBF7IlK6HaceuxPWZTRC9w https://www.cincinnati-oh.gov/kearney/news/city-council-approves-renaming-reading-road-to-barack-obama-avenue/

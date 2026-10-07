@@ -1,6 +1,5 @@
-Current Cranston City Council VP seeks to replace outgoing Senator Joshua Miller.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted July 17, 2024 Lammis Vargas Announces Bid for State Senate District 28 Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact Current Cranston City Council VP seeks to replace outgoing Senator Joshua Miller.
 Click here to read the press release.
-You May Also Like
-Posted September 11, 2024
-Press Release: Lammis Vargas Declares Victory in Senate District 28 Primary
-Posted August 27, 2024
+You May Also Like Posted September 11, 2024 Press Release: Lammis Vargas Declares Victory in Senate District 28 Primary Posted August 27, 2024 Press Release: Vargas adds three key labor unions to list of supporters for District 28 bid Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

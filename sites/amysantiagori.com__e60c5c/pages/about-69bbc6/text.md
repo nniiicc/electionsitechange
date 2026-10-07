@@ -1,6 +1,4 @@
-Letter from Amy
-Dear Neighbor,
-Every day I work with Rhode Islanders who never imagined they would end up homeless.
+0 Skip to Content About About Amy Why I am running Get Involved Support Amy Santiago for RI District 7 Donate Open Menu Close Menu About About Amy Why I am running Get Involved Support Amy Santiago for RI District 7 Donate Open Menu Close Menu Folder: About Back About Amy Why I am running Get Involved Support Donate Letter from Amy Dear Neighbor, Every day I work with Rhode Islanders who never imagined they would end up homeless.
 Many worked hard their entire lives, raised families, and did everything they were supposed to do before a medical crisis, a rent increase, or the loss of a job left them with nowhere to turn.
 Too often, the people suffering through a crisis are treated like the problem instead of the victims of a system that has failed them.
 But their stories are not stories of personal failure — they are the predictable consequences of political choices that have left too many working people behind.
@@ -41,13 +39,8 @@ And I will never stop standing up for the people too often ignored by those in p
 Over the coming months, I will be walking our neighborhoods and going door to door to introduce myself and hear directly from you about the challenges facing our community and the future you want for Rhode Island.
 I look forward to meeting many of you and I humbly hope to earn your vote in the Democratic Primary on Wednesday, September 9th.
 Together, I know that we can build a Rhode Island where working people can thrive — and no one is left to lose it all after one crisis, one illness, or one difficult chapter in their lives.
-Sincerely,
-Amy Joseph Santiago
-Want to Get Involved?
+Sincerely, Amy Joseph Santiago Want to Get Involved?
 Are you interested in volunteering with us?
 Fill out the form and a member of our team will reach out to you!
-Opportunities include:
-- Door Knocking
-- Phonebanking
-- Social media support
-- Hosting a house party
+Opportunities include: ﻿﻿Door Knocking ﻿﻿Phonebanking ﻿﻿Social media support ﻿﻿Hosting a house party Amy Santiago for State Representative Paid for by Friends of Amy Santiago Contact us!
+AmySantiagoRI@Gmail.com

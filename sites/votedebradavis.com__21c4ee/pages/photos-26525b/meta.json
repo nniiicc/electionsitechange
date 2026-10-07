@@ -1,10 +1,14 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.votedebradavis.com/photos",
- "paid_for_by": null,
+ "fingerprint": "47284b6eb825983580af73948efaeb651f22110f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2018",
+  "2021",
+  "2022",
   "2025"
  ]
 }

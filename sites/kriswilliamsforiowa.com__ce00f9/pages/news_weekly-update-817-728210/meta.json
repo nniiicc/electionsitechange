@@ -1,7 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-update-817",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "459f93c787030f547bbfb0ce1e243dcfad1717f5",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly Update 8/17",
- "years_mentioned": []
+ "years_mentioned": [
+  "1959",
+  "2026"
+ ]
 }

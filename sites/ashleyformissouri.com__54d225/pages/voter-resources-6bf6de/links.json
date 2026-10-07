@@ -1,18 +1,74 @@
 [
-"https://ashleyformissouri.com/",
-"https://ashleyformissouri.com/about",
-"https://ashleyformissouri.com/contact",
-"https://ashleyformissouri.com/get-involved",
-"https://ashleyformissouri.com/priorities",
-"https://ashleyformissouri.com/voter-resources",
-"https://facebook.com/AshleyForMissouri",
-"https://instagram.com/ashleyformissouri",
-"https://plattecountymovotes.gov/absentee",
-"https://plattemovotes.org/",
-"https://s1.sos.mo.gov/elections/voterlookup",
-"https://secure.actblue.com/donate/ashleyformissouri",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://tiktok.com/@ashley4mo",
-"https://twitter.com/Ashley4MO",
-"https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx"
+{
+"text": "About",
+"href": "https://ashleyformissouri.com/about"
+},
+{
+"text": "Check Your Registration",
+"href": "https://s1.sos.mo.gov/elections/voterlookup/"
+},
+{
+"text": "Click here",
+"href": "https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx"
+},
+{
+"text": "Click here to get registered now.",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Contact",
+"href": "https://ashleyformissouri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleyformissouri"
+},
+{
+"text": "Get Involved",
+"href": "https://ashleyformissouri.com/get-involved"
+},
+{
+"text": "Platte County Board of Elections",
+"href": "https://www.plattemovotes.org/"
+},
+{
+"text": "Priorities",
+"href": "https://ashleyformissouri.com/priorities"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Voter Resources",
+"href": "https://ashleyformissouri.com/voter-resources"
+},
+{
+"text": "[image]",
+"href": "https://ashleyformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ashley4MO"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AshleyForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyformissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ashley4mo"
+},
+{
+"text": "here",
+"href": "https://www.plattecountymovotes.gov/absentee"
+},
+{
+"text": "here.",
+"href": "https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx"
+}
 ]

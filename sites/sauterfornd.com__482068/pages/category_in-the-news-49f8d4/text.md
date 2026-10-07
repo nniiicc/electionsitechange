@@ -1,2 +1,6 @@
-District 7 House Candidate Steve Sauter Joins Running Mates on Dakota Mornings with Michael Bell Mar 11, 2026 | In the News
-Bismarck District 7 candidates bypass endorsement process, use signatures to get on ballot Feb 24, 2026 | In the News
+Meet Steve Priorities News Get Involved Vote Contact DONATE A snapshot look at Tuesday’s election Jun 10, 2026 | In the News District 7 House Candidate Steve Sauter Joins Running Mates on Dakota Mornings with Michael Bell Mar 11, 2026 | In the News Bismarck District 7 candidates bypass endorsement process, use signatures to get on ballot Feb 24, 2026 | In the News ‘I want to be part of taking care of our home’ Feb 20, 2026 | In the News Trio of candidates announces run for ND state legislature Feb 5, 2026 | In the News Steve Sauter Recognized in Prairie Business Magazine’s 40 Under 40 Dec 9, 2023 | In the News Search Search Recent Posts A snapshot look at Tuesday’s election Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary District 7 House Candidate Steve Sauter Joins Running Mates on Dakota Mornings with Michael Bell Bismarck District 7 candidates bypass endorsement process, use signatures to get on ballot District 7 Republican Team: Sen.
+Michelle Axtman, Greg Vetter, and Steve Sauter Submit Over 600 Signatures; Certified for June Primary Ballot Recent Comments No comments to show.
+SUPPORT STEVE'S CAMPAIGN DONATE VOLUNTEER Follow Steve on the Campaign Trail Follow Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY SAUTER FOR ND

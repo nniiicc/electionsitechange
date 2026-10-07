@@ -1,6 +1,26 @@
 [
-"https://forms.gle/YAhsBSMBtYnXpzyv5",
-"https://gallopfranklin.org/",
-"https://gallopfranklin.org/privacy-policy",
-"https://secure.actblue.com/donate/gallop-franklin-for-state-house-1"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gallop-franklin-for-state-house-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gallopfranklin.org/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.gallopfranklin.org"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/YAhsBSMBtYnXpzyv5"
+},
+{
+"text": "https://gallopfranklin.org",
+"href": "https://gallopfranklin.org"
+},
+{
+"text": "info@gallopfranklin.org",
+"href": "mailto:info@gallopfranklin.org"
+}
 ]

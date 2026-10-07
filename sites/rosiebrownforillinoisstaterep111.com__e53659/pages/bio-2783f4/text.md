@@ -1,7 +1,5 @@
-Candidate for Illinois State Representative Rosetta Brown
-“Rooted in Community.
-Ready for Change”
-Rosetta Brown is a lifelong resident of Alton, Illinois, loving mother of 3, proud grandmother, dedicated foster parent to nearly 200 children and devoted wife for 24 years to the late Mr.
+0 Skip to Content Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Rosie Brown for Illinois State Representative #111 Home Rosie's Political Agenda Contact About Bio News Blog Events Donate Donate Now ActBlue Get Involved Schedule with Rosie Open Menu Close Menu Folder: Home Back Rosie's Political Agenda Contact Folder: About Back Bio News Blog Events Folder: Donate Back Donate Now ActBlue Get Involved Schedule with Rosie Candidate for Illinois State Representative Rosetta Brown “Rooted in Community.
+Ready for Change” Rosetta Brown is a lifelong resident of Alton, Illinois, loving mother of 3, proud grandmother, dedicated foster parent to nearly 200 children and devoted wife for 24 years to the late Mr.
 Milton Brown.
 Her life’s work has been rooted in service through family, faith, and public leadership.
 As Alderwoman for Alton’s Fourth Ward, Rosie has championed youth programs, peace initiatives, and transparent governance, always showing up for her community with compassion and accountability.
@@ -14,7 +12,7 @@ Her campaign is built on listening, action, and bold solutions for real challeng
 From mental health and education to economic opportunity and housing security.
 Rosie Brown is not just a candidate—she’s a bridge.
 Let’s turn this around, together.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Rosie Brown for Illinois State Representative District #111 Paid for by Friends of Rosetta Brown Email rosie@rosiebrownforillinoisstaterep111.com

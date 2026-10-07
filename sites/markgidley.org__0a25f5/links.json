@@ -1,5 +1,18 @@
 [
-"https://facebook.com/profile.php?id=100064005788869",
-"https://markgidley.org/",
-"https://markgidley.org/privacy-policy"
+{
+"text": "Home",
+"href": "https://markgidley.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://markgidley.org/privacy-policy"
+},
+{
+"text": "[image: State Representative Mark Gidley, District 29 logo]",
+"href": "https://markgidley.org/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=100064005788869"
+}
 ]

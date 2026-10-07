@@ -1,17 +1,4 @@
-Mike Scala in His Own Words
-- 01.9 2026 Looking Out For Our Best Friends
-- 10.3 2025 Scala’s Rap
-- 07.22 2022 Scala’s Rap
-News & Media Coverage
-- June 19, 2026
-- June 18, 2026
-- June 12, 2026
-- June 12, 2026
-- May 29, 2026
-- May 14, 2026
-- April 30, 2026
-- April 23, 2026
-- April 16, 2026
-- April 16, 2026
-- April 9, 2026
-- March 26, 2026
+Facebook Instagram Twitter Queens, NY Home Meet Mike Issues Press Room Contribute Skip to content Press Room Mike Scala in His Own Words 01.9 2026 Looking Out For Our Best Friends 10.3 2025 Scala’s Rap 07.22 2022 Scala’s Rap Previous Page Next Page News & Media Coverage June 19, 2026 Editorial: May The Best Man Win June 18, 2026 Mike Scala Makes His Case for Assembly Primary Vote June 17, 2026 In AD23 race, all three candidates are seeking their first victory June 12, 2026 Letters 6-12-26 June 12, 2026 Democratic Primary Preview: Who’s On The Ballot?
+May 29, 2026 Mike Scala Endorsed by Abundance New York for State Assembly May 29, 2026 The Party Favorite vs.
+The Political Outsider May 21, 2026 Scala and Osina Participate in BHPOA Primary Candidates Forum May 14, 2026 Op-Ed: The Return of Democracy April 30, 2026 Mike Scala makes his case for AD23 April 23, 2026 Op-Ed: When Politics Becomes Politricks April 16, 2026 Nearly 100 candidates file petitions to run in Queens April 16, 2026 Locals Show Support for Tribute Park’s Mosaic Restoration April 9, 2026 A Case for Scala March 26, 2026 Close the Loophole That Shortchanges Our Workers 1 2 3 … 17 Next Page Search for: New York State Assembly District 23 includes all or parts of Arverne, Bayswater, Belle Harbor, Breezy Point, Broad Channel, Edgemere, Far Rockaway, Hamilton Beach, Howard Beach, Lindenwood, Ozone Park, Neponsit, Rockaway Beach, Rockaway Park and Roxbury in Queens.
+Paid for by Scala for New York

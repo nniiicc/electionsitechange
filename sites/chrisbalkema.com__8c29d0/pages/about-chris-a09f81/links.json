@@ -1,6 +1,22 @@
 [
-"https://chrisbalkema.com/",
-"https://chrisbalkema.com/about-chris",
-"https://facebook.com/profile.php?id=61552233214625",
-"https://secure.psqimpact.com/donate/chris-balkema-for-state-senate/donate-today"
+{
+"text": "About Chris",
+"href": "https://chrisbalkema.com/about-chris/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.psqimpact.com/donate/chris-balkema-for-state-senate/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61552233214625"
+},
+{
+"text": "[image]",
+"href": "https://chrisbalkema.com"
+},
+{
+"text": "chris@chrisbalkema.com",
+"href": "mailto:chris@chrisbalkema.com"
+}
 ]

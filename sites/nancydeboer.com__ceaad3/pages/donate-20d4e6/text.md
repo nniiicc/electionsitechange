@@ -1,6 +1,18 @@
-Donate
-Support Nancy DeBoer for State Representative
-Whether it’s $1.00 or $1,000.00, Nancy values every donation.
-Each donation will be dedicated to targeted campaign efforts.
-*For donations over $100, please comment in the check out form with your Employer’s Name, Occupation, and Employer’s Address.
-*All donations are securely processed and your information will never be sold or shared.
+Meet Nancy Endorsements Get Involved Issues Donate Contact Nancy Select Page Donate Support Nancy DeBoer for State Representative Whether it’s $# or $# Nancy values every donation.
+Each donation will be dedicated to targeted campaign efforts. *For donations over $# please comment in the check out form with your Employer’s Name, Occupation, and Employer’s Address.
+Donate Today *All donations are securely processed and your information will never be sold or shared.
+Have you met Nancy?
+Do you believe she’s got the passion, drive, and sincerity to bring Greater Holland to the next level?
+Leave an endorsement below to show your support!
+Endorse Nancy Name (Required) First Last Email (Required) Would you like to endorse Nancy by us listing your name or with a personal message of endorsement?
+Please list my name.
+I'd love to share a personal message What would you like to say about Nancy?
+We would love to feature a photo of you with your endorsement.
+Can you upload your preferred photo here?
+Max. file size: 10 MB.
+If you don't upload one, we'll assume you'd prefer not to. 🙂 Would you like us to contact you about volunteering? * (Required) Yes please!
+No thank you.
+Captacha Subscribe to our newsletter and stay up to date with all news and events.
+Success!
+First Name Last Name Email Subscribe I would be honored to receive your vote on August 4 and November 3, 2026.
+Follow Follow Follow Menu Meet Nancy Get Involved Donate The Issues Register to Vote Contact Nancy Contact Committee to Elect Nancy DeBoer 157 West 40th Street Holland, Michigan 49423 616-499-4922 nancy@nancydeboer.com ©️ # Paid for by the Committee to Elect Nancy DeBoer – 157 West 40th Street, Holland, Michigan 49423 – All Rights Reserved. | Web Design by Purposed Press Media | Holland, MI

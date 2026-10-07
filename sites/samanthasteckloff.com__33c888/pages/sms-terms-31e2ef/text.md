@@ -1,5 +1,4 @@
-SMS Terms & Conditions
-Welcome to an official website (the “Site”) of The Committee to Elect Sam Steckloff, (“www.samanthasteckloff.com”).
+0 Skip to Content Home About Sam Priorities Join Us VOTE CONTRIBUTE Open Menu Close Menu Home About Sam Priorities Join Us VOTE CONTRIBUTE Open Menu Close Menu Home About Sam Priorities Join Us VOTE CONTRIBUTE SMS Terms & Conditions Welcome to an official website (the “Site”) of The Committee to Elect Sam Steckloff, (“ www.samanthasteckloff.com ”).
 The Committee to Elect Sam Steckloff (“We,” “Us,” “Our”) is offering a mobile messaging program by Advanced Insights (the “Program” by), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: Msg & Data Rates May Apply.
@@ -56,3 +55,4 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+CONTRIBUTE PAID FOR BY THE COMMITTEE TO ELECT SAM STECKLOFF | PO BOX 3296, FARMINGTON HILLS, MI 48333 PRIVACY POLICY | SMS TERMS

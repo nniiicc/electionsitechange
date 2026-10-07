@@ -1,23 +1,98 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F&title=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House",
-"http://twitter.com/intent/tweet?text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F&text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House",
-"https://gettr.com/share?text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F",
-"https://megforflorida.com/",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house",
-"https://megforflorida.com/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://megforflorida.com/did-byron-donalds-just-tip-his-hand-smart-money-reads-maga-meg-for-lg",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/nwra-fl-chapter-honors-2025-legislative-champions",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/terms",
-"https://miamitimesonline.com/news/florida/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house/article_d5daca3e-04c1-4c12-b50a-07ca5e53f7f6.html",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Did Byron Donalds just tip his hand? Smart money reads ‘MAGA Meg’ for LG →",
+"href": "https://megforflorida.com/did-byron-donalds-just-tip-his-hand-smart-money-reads-maga-meg-for-lg/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "The Miami Times",
+"href": "https://www.miamitimesonline.com/news/florida/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house/article_d5daca3e-04c1-4c12-b50a-07ca5e53f7f6.html"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F&text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F&title=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/charlie-kirk-day-of-remembrance-bills-advance-in-senate-house/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=Charlie+Kirk+Day+of+Remembrance+bills+advance+in+Senate%2C+House&url=https%3A%2F%2Fmegforflorida.com%2Fcharlie-kirk-day-of-remembrance-bills-advance-in-senate-house%2F"
+},
+{
+"text": "← NWRA FL Chapter Honors 2025 Legislative Champions",
+"href": "https://megforflorida.com/nwra-fl-chapter-honors-2025-legislative-champions/"
+}
 ]

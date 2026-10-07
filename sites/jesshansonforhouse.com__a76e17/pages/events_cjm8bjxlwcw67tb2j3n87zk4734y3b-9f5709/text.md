@@ -1,11 +1,7 @@
-Back to All Events
-Meet with Jess, Rep.
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Back to All Events Door Knock with Attorney General Keith Ellison Saturday, October 15, 2022 11:00 AM 3:00 PM Arise Nicolette Coffee Company 12501 Nicollet Avenue Burnsville, MN, 55337 United States (map) Google Calendar ICS Meet with Jess, Rep.
 Kaela Berg, Senator Lindsey Port, and Attorney General Keith Ellison as we talk to our neighbors about the importance of re-electing Jess Hanson to the Minnesota House of Representatives.
-Sign up here: https://www.mobilize.us/mobilize/event/528693/
-Previous
-Previous
-October 12
-Door Knock with Team Hanson
-Next
-Next
-October 16
+Sign up here: https://www.mobilize.us/mobilize/event/528693/ Posted In: Volunteer , Event Previous Previous October 12 Door Knock with Team Hanson Next Next October 16 Doorknock with StonewallDFL Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

@@ -1,20 +1,102 @@
 [
-"https://carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department",
-"https://carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department/2024-election-information",
-"https://carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department/absent-ballots",
-"https://juliefornevada.com/",
-"https://juliefornevada.com/about",
-"https://juliefornevada.com/contact",
-"https://juliefornevada.com/electionguide",
-"https://juliefornevada.com/endorsements",
-"https://juliefornevada.com/events",
-"https://juliefornevada.com/issues",
-"https://myballot.nv.gov/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyballot.nv.gov%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anevada%26code_challenge%3DU_EaBN491yai9BotM5-S5uWTQbs2HVsIYRxzvQgRgmQ%26code_challenge_method%3DS256",
-"https://nvsos.gov/sos/elections",
-"https://registertovote.nv.gov/",
-"https://storeycounty.org/174/Clerk",
-"https://storeycounty.org/208/Election-Information",
-"https://washoecounty.gov/voters",
-"https://washoecounty.gov/voters/voting/mail/index.php",
-"https://washoecounty.gov/voters/voting/vote-in-person.php"
+{
+"text": "About",
+"href": "https://www.juliefornevada.com/about"
+},
+{
+"text": "CARSON CITY RECORDER",
+"href": "https://www.carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department"
+},
+{
+"text": "Contact",
+"href": "https://www.juliefornevada.com/contact"
+},
+{
+"text": "Election Guide",
+"href": "https://www.juliefornevada.com/electionguide"
+},
+{
+"text": "ElectionsDepartment@washoecounty.gov",
+"href": "mailto:ElectionsDepartment@washoecounty.gov"
+},
+{
+"text": "Endorsements",
+"href": "https://www.juliefornevada.com/endorsements"
+},
+{
+"text": "Event",
+"href": "https://www.juliefornevada.com/events"
+},
+{
+"text": "FIND ELECTION DAY LOCATION",
+"href": "https://www.carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department/2024-election-information"
+},
+{
+"text": "FIND ELECTION DAY LOCATION",
+"href": "https://www.storeycounty.org/208/Election-Information"
+},
+{
+"text": "FIND ELECTION DAY LOCATION",
+"href": "https://www.washoecounty.gov/voters/voting/vote-in-person.php"
+},
+{
+"text": "Home",
+"href": "https://www.juliefornevada.com"
+},
+{
+"text": "Issues",
+"href": "https://www.juliefornevada.com/issues"
+},
+{
+"text": "JULIE@JULIEFORNEVADA.COM",
+"href": "mailto:JULIE@JULIEFORNEVADA.COM"
+},
+{
+"text": "MAIL BALLOTING INFORMATION",
+"href": "https://www.carsoncity.gov/government/departments-a-f/clerk-recorder/elections-department/absent-ballots"
+},
+{
+"text": "MAIL BALLOTING INFORMATION",
+"href": "https://www.storeycounty.org/208/Election-Information"
+},
+{
+"text": "MAIL BALLOTING INFORMATION",
+"href": "https://www.washoecounty.gov/voters/voting/mail/index.php"
+},
+{
+"text": "NV SECRETARY OF STATE",
+"href": "https://www.nvsos.gov/sos/elections"
+},
+{
+"text": "Storey County Clerk's Office",
+"href": "https://www.storeycounty.org/174/Clerk"
+},
+{
+"text": "TRACK YOUR MAIL IN BALLOT HERE",
+"href": "https://myballot.nv.gov/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fmyballot.nv.gov%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anevada%26code_challenge%3DU_EaBN491yai9BotM5-S5uWTQbs2HVsIYRxzvQgRgmQ%26code_challenge_method%3DS256"
+},
+{
+"text": "VOTER REGISTRATION HERE",
+"href": "https://registertovote.nv.gov/"
+},
+{
+"text": "WASHOE COUNTY REGISTRAR OF VOTERS",
+"href": "https://www.washoecounty.gov/voters/"
+},
+{
+"text": "You can send mail or donations to:",
+"href": "mailto:julie@juliefornevada.com?subject=Hello+Julie"
+},
+{
+"text": "[image: As your Republican voice for Assembly District 40, Julie will bring her passion for service and government efficiency to work]",
+"href": "https://www.juliefornevada.com"
+},
+{
+"text": "clerk@storeycounty.org",
+"href": "mailto:ElectionsDepartment@washoecounty.gov"
+},
+{
+"text": "elections@carsoncity.gov",
+"href": "mailto:elections@carsoncity.gov"
+}
 ]

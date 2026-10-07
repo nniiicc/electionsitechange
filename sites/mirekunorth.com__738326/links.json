@@ -1,20 +1,210 @@
 [
-"http://elections.maryland.gov/",
-"https://docs.google.com/forms/d/e/1FAIpQLScehOxBMQnRclLXzQspI_xIJbH3Ye96yU_EPNEDzf0vlconTA/viewform?usp=dialog",
-"https://facebook.com/mirekunorth",
-"https://instagram.com/mirekunorth",
-"https://linkedin.com/in/bernice-mireku-north-617b695",
-"https://mirekunorth.com/",
-"https://mirekunorth.com/contact",
-"https://mirekunorth.com/events",
-"https://mirekunorth.com/howtovote",
-"https://mirekunorth.com/legislative-session-wrap-up",
-"https://mirekunorth.com/media-gallery",
-"https://mirekunorth.com/meet-bernice",
-"https://mirekunorth.com/news-draft",
-"https://mirekunorth.com/privacypolicy",
-"https://mirekunorth.com/scholarship",
-"https://mirekunorth.com/volunteer",
-"https://secure.actblue.com/donate/bmninannapolis",
-"https://x.com/mirekunorth"
+{
+"text": "About Bernice",
+"href": "https://www.mirekunorth.com/meet-bernice"
+},
+{
+"text": "Apply Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScehOxBMQnRclLXzQspI_xIJbH3Ye96yU_EPNEDzf0vlconTA/viewform?usp=dialog"
+},
+{
+"text": "Build with Bernice",
+"href": "https://www.mirekunorth.com"
+},
+{
+"text": "Contact",
+"href": "https://www.mirekunorth.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/bmninannapolis/"
+},
+{
+"text": "Events",
+"href": "https://www.mirekunorth.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.mirekunorth.com/media-gallery"
+},
+{
+"text": "Get Ready to Vote",
+"href": "https://www.mirekunorth.com/howtovote"
+},
+{
+"text": "Home",
+"href": "https://www.mirekunorth.com"
+},
+{
+"text": "How to Vote",
+"href": "https://www.mirekunorth.com/howtovote"
+},
+{
+"text": "Intern",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScehOxBMQnRclLXzQspI_xIJbH3Ye96yU_EPNEDzf0vlconTA/viewform?usp=dialog"
+},
+{
+"text": "Learn more about me",
+"href": "https://www.mirekunorth.com/meet-bernice"
+},
+{
+"text": "Legislative Wins",
+"href": "https://www.mirekunorth.com/legislative-session-wrap-up"
+},
+{
+"text": "Meet Bernice",
+"href": "https://www.mirekunorth.com/meet-bernice"
+},
+{
+"text": "Meet Delegate Bernice",
+"href": "https://www.mirekunorth.com#about"
+},
+{
+"text": "News",
+"href": "https://www.mirekunorth.com/news-draft"
+},
+{
+"text": "Priorities",
+"href": "https://www.mirekunorth.com"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.mirekunorth.com/privacypolicy"
+},
+{
+"text": "Scholarship",
+"href": "https://www.mirekunorth.com/scholarship"
+},
+{
+"text": "See My Priorities",
+"href": "https://www.mirekunorth.com"
+},
+{
+"text": "View Events",
+"href": "https://www.mirekunorth.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mirekunorth.com/volunteer"
+},
+{
+"text": "[image: BMN25001 Logo FINAL Rev BG.png]",
+"href": "https://www.mirekunorth.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mirekunorth"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mirekunorth/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/bernice-mireku-north-617b695/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/mirekunorth"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mlwpqrv7"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mlwpqrvf"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mm4bsro2"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mm4by4vs"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mm4c2dm3"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mon0gskp"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mon0h5n6"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mon0hge9"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mon0htx3"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-moxgs645"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-moxh0r9q"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-moxh9l1r"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mp62alvp"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpo9j2hb"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpo9qgg5"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpoae3h8"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpvn70kr"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpvnj76u"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mpvnuliu"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mq12e0hb"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mqgudt6q"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mqguh8tw"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mqguk6cy"
+},
+{
+"text": "[no text]",
+"href": "https://www.mirekunorth.com/#comp-mqguouzn"
+},
+{
+"text": "elections.maryland.gov",
+"href": "http://elections.maryland.gov"
+}
 ]

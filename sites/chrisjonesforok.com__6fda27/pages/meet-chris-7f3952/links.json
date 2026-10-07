@@ -1,7 +1,26 @@
 [
-"https://chrisjonesforok.com/",
-"https://chrisjonesforok.com/donate",
-"https://chrisjonesforok.com/issues",
-"https://chrisjonesforok.com/meet-chris",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "DONATE",
+"href": "https://chrisjonesforok.com/donate"
+},
+{
+"text": "Home",
+"href": "https://chrisjonesforok.com/"
+},
+{
+"text": "Issues",
+"href": "https://chrisjonesforok.com/issues"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrisjonesforok.com/meet-chris"
+},
+{
+"text": "[image: Chris Jones for STate Senate District 42]",
+"href": "https://chrisjonesforok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

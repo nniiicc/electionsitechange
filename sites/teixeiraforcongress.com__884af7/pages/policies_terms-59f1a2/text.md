@@ -1,5 +1,7 @@
-Last modified: 9.8.2025
-MARK TEIXEIRA FOR CONGRESS (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by MARK TEIXEIRA FOR CONGRESS), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Menu Meet Mark Endorsements Issues News Volunteer Contact Facebook Twitter Instagram Official Merch Terms and Conditions PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
+IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
+Last modified: 9.8.2025 MARK TEIXEIRA FOR CONGRESS (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program” by MARK TEIXEIRA FOR CONGRESS), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: MARK TEIXEIRA FOR CONGRESS: You’ve subscribed to receive messages from MARK TEIXEIRA FOR CONGRESS.
 Msg & Data Rates May Apply.
@@ -58,3 +60,5 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Contribute Facebook Twitter Instagram To Donate By Mail: Mark Teixeira for Congress PO Box 1073 1450 W.
+Highway 290 Dripping Springs, TX 78620 © Copyright Mark "Tex" Teixeira for Congress - All Rights Reserved - Privacy Policy | Terms and Conditions Paid for by Mark Teixeira for Congress

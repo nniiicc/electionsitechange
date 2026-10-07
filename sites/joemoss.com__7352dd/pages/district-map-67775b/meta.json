@@ -1,7 +1,11 @@
 {
  "description": "View the District Map for Michigan House District 89. Enter your address to check if you are in the district.",
  "final_url": "https://joemoss.com/district-map",
- "paid_for_by": "Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 \u00a9 Copyright 2026 | Terms By providing your email or phone num",
+ "fingerprint": "8ad014bd74fa273f9caaac0cd9b19bcde635cc16",
+ "format": 3,
+ "paid_for_by": "Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright #",
  "title": "Michigan House District 89 Map - Joe Moss for State Representative - Michigan House District 89",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

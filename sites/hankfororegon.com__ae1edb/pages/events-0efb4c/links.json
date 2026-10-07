@@ -1,22 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidates+Forum&dates=20260924T170000Z%2F20260924T190000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet&dates=20260915T143000Z%2F20260915T160000Z",
-"https://facebook.com/profile.php?id=61585720725322",
-"https://hankfororegon.com/",
-"https://hankfororegon.com/about",
-"https://hankfororegon.com/cart",
-"https://hankfororegon.com/endorsements",
-"https://hankfororegon.com/events",
-"https://hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6",
-"https://hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6?format=ical",
-"https://hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr",
-"https://hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr?format=ical",
-"https://hankfororegon.com/issues",
-"https://instagram.com/hankfororegon",
-"https://mobilize.us/hanksandersforstaterepresentativeoregonhd52/event/1043047",
-"https://mobilize.us/hanksandersforstaterepresentativeoregonhd52/event/1043077",
-"https://mobilize.us/s/LgdQa0",
-"https://secure.actblue.com/donate/hank-sanders-3",
-"https://tiktok.com/@hankfororegon",
-"https://twitter.com/hankfororegon"
+{
+"text": "0",
+"href": "https://www.hankfororegon.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.hankfororegon.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.hankfororegon.com/"
+},
+{
+"text": "Candidates Forum",
+"href": "https://www.hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr"
+},
+{
+"text": "Click Here to Join!",
+"href": "https://www.mobilize.us/hanksandersforstaterepresentativeoregonhd52/event/1043047/"
+},
+{
+"text": "Click Here to Join!",
+"href": "https://www.mobilize.us/hanksandersforstaterepresentativeoregonhd52/event/1043077/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hank-sanders-3"
+},
+{
+"text": "Endorsements",
+"href": "https://www.hankfororegon.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.hankfororegon.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidates+Forum&dates=20260924T170000Z%2F20260924T190000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet&dates=20260915T143000Z%2F20260915T160000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.hankfororegon.com/issues"
+},
+{
+"text": "Join Our Mobilize Group Here!",
+"href": "https://mobilize.us/s/LgdQa0"
+},
+{
+"text": "Join Us in Hood River",
+"href": "https://mobilize.us/s/o9ZnP4"
+},
+{
+"text": "Join Us in the Dalles",
+"href": "https://mobilize.us/s/LrUcn7"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6"
+},
+{
+"text": "View Event →",
+"href": "https://www.hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6"
+},
+{
+"text": "View Event →",
+"href": "https://www.hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr"
+},
+{
+"text": "[image: Candidates Forum]",
+"href": "https://www.hankfororegon.com/events/event-two-w7zrh-s4xbg-rct9n-6n67t-8dzsr"
+},
+{
+"text": "[image: Hank Sanders]",
+"href": "https://www.hankfororegon.com/"
+},
+{
+"text": "[image: Meet &amp; Greet]",
+"href": "https://www.hankfororegon.com/events/event-one-rg2bh-mx2wm-7ad28-wgmnp-cszg6"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/hankfororegon"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585720725322"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hankfororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hankfororegon"
+}
 ]

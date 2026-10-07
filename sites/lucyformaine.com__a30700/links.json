@@ -1,5 +1,22 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?trans_type=candidate&submit=Contribute",
-"https://lucyformaine.com/",
-"https://lucyformaine.com/voting-and-caucus-info"
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?trans_type=candidate&submit=Contribute"
+},
+{
+"text": "Find information on District 121 and voting",
+"href": "https://lucyformaine.com/voting-and-caucus-info/"
+},
+{
+"text": "Lucy for Maine",
+"href": "https://lucyformaine.com"
+},
+{
+"text": "Make a clean elections contribution",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?trans_type=candidate&submit=Contribute"
+},
+{
+"text": "Voting Info",
+"href": "https://lucyformaine.com/voting-and-caucus-info/"
+}
 ]

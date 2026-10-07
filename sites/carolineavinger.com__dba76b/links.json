@@ -1,20 +1,94 @@
 [
-"https://carolineavinger.com/",
-"https://carolineavinger.com/about",
-"https://carolineavinger.com/cart",
-"https://carolineavinger.com/contact",
-"https://carolineavinger.com/priorities",
-"https://docs.google.com/forms/d/e/1FAIpQLSdCZvDgL8EBqQ7n2CAHEKFm-zwjonxZ3pSJrVsI5-E8DgXtlw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdGaLgyuKJ7svEYVrR1nQ9-P3IphImnxzLddfgmEd-I6WQr5A/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdWKly81nYTbB3M9MLPC3JUNs3sISRJS3C6pEz7Wt_yixxyOw/viewform",
-"https://facebook.com/share/1JtdCmCPoG?mibextid=wwXIfr",
-"https://instagram.com/carolineavingerforhouse24",
-"https://scstatehouse.gov/legislatorssearch.php",
-"https://scvotes.gov/",
-"https://secure.actblue.com/donate/caroline-avinger-website",
-"https://secure.actblue.com/donate/caroline-avinger-website?amount=10",
-"https://secure.actblue.com/donate/caroline-avinger-website?amount=100",
-"https://secure.actblue.com/donate/caroline-avinger-website?amount=25",
-"https://secure.actblue.com/donate/caroline-avinger-website?amount=250",
-"https://secure.actblue.com/donate/caroline-avinger-website?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website?amount=50"
+},
+{
+"text": "(0)",
+"href": "https://www.carolineavinger.com/cart"
+},
+{
+"text": "ARE YOU READY TO VOTE?",
+"href": "https://scvotes.gov"
+},
+{
+"text": "About",
+"href": "https://www.carolineavinger.com/about"
+},
+{
+"text": "About Caroline",
+"href": "https://www.carolineavinger.com/about"
+},
+{
+"text": "Cart (0)",
+"href": "https://www.carolineavinger.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.carolineavinger.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website"
+},
+{
+"text": "Find Your District",
+"href": "https://www.scstatehouse.gov/legislatorssearch.php"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carolineavinger.com/#getinvolved"
+},
+{
+"text": "Learn more",
+"href": "https://www.carolineavinger.com/priorities"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/caroline-avinger-website"
+},
+{
+"text": "Priorities",
+"href": "https://www.carolineavinger.com/priorities"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdCZvDgL8EBqQ7n2CAHEKFm-zwjonxZ3pSJrVsI5-E8DgXtlw/viewform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdGaLgyuKJ7svEYVrR1nQ9-P3IphImnxzLddfgmEd-I6WQr5A/viewform"
+},
+{
+"text": "[image: Caroline Avinger for SC House 24]",
+"href": "https://www.carolineavinger.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1JtdCmCPoG/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carolineavingerforhouse24/"
+},
+{
+"text": "host an event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdWKly81nYTbB3M9MLPC3JUNs3sISRJS3C6pEz7Wt_yixxyOw/viewform"
+}
 ]

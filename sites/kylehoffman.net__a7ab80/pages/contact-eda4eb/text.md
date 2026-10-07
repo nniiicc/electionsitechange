@@ -1,15 +1,5 @@
-If you have any questions about our offer, please contact us by filling out the form below and we will get in touch with you shortly.
+Home About Kyle Principles Achievements Mailing List Donate Get in touch 555-555-5555 mymail@mailservice.com Donate Home About Kyle Principles Achievements Mailing List Donate If you have any questions about our offer, please contact us by filling out the form below and we will get in touch with you shortly.
 Alternatively, you can give us a call or even drop by and visit us – we hope to see you soon!
-Kyle Hoffman
-State Capital Room 481W
-Topeka KS 66612
-Phone: 785-296-7643
-e-mail: kyle.hoffman@house.ks.gov
-1318 Avenue T
-Coldwater KS 67029
-Phone:620-582-2217
-e-mail: kyle@kylehoffman.net
-Stephen Hokanson, Treasurer
-PO Box 621
-Bucklin, KS 67834
-e-mail: stephen@kylehoffman.net
+Kyle Hoffman State Capital Room 481W Topeka KS 66612 Phone: 785-296-7643 e-mail: kyle.hoffman@house.ks.gov 1318 Avenue T Coldwater KS 67029 Phone:620-582-2217 e-mail: kyle@kylehoffman.net Stephen Hokanson, Treasurer PO Box 621 Bucklin, KS 67834 e-mail: stephen@kylehoffman.net Contact Kyle's Office Send Us a Message Name: Email: Phone: Message: Your message has been sent.
+Your message could not be sent.
+Donate Contact Us Representative Kyle Hoffman Kansas House of Representatives, District 116 Paid for by Hoffman for State Representative — Stephen Hokanson, Treasurer District office: 1318 Avenue T • Coldwater, KS 67029 • 620-582-2217 Topeka office: Kansas Capital Building, Rm 481-W • Topeka, KS 66612 • 785-296-7643 Share by:

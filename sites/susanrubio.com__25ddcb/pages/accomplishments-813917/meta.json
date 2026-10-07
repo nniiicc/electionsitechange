@@ -1,6 +1,8 @@
 {
  "description": "Since joining the California Senate, Sen. Rubio has prioritized addressing the affordable housing shortage and homelessness crisis in Senate District 22.",
  "final_url": "https://www.susanrubio.com/accomplishments/",
+ "fingerprint": "2ecf6dcac6f53225fdf3af3cf0c50c5fe0a6f424",
+ "format": 3,
  "paid_for_by": "Paid for by Susan Rubio for Senate 2026",
  "title": "Accomplishments",
  "years_mentioned": [
@@ -9,6 +11,9 @@
   "2022",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026",
+  "2030",
+  "2045"
  ]
 }

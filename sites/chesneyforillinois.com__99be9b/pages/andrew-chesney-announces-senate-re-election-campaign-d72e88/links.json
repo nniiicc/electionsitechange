@@ -1,87 +1,346 @@
 [
-"https://chesneyforillinois.com/",
-"https://chesneyforillinois.com/2017/10",
-"https://chesneyforillinois.com/2017/11",
-"https://chesneyforillinois.com/2017/12",
-"https://chesneyforillinois.com/2018/01",
-"https://chesneyforillinois.com/2018/02",
-"https://chesneyforillinois.com/2018/03",
-"https://chesneyforillinois.com/2018/04",
-"https://chesneyforillinois.com/2018/05",
-"https://chesneyforillinois.com/2018/08",
-"https://chesneyforillinois.com/2018/09",
-"https://chesneyforillinois.com/2018/10",
-"https://chesneyforillinois.com/2022/01",
-"https://chesneyforillinois.com/2022/02",
-"https://chesneyforillinois.com/2022/03",
-"https://chesneyforillinois.com/2022/06",
-"https://chesneyforillinois.com/2022/07",
-"https://chesneyforillinois.com/2022/11",
-"https://chesneyforillinois.com/2023/03",
-"https://chesneyforillinois.com/2024/11",
-"https://chesneyforillinois.com/2025/07",
-"https://chesneyforillinois.com/2025/08",
-"https://chesneyforillinois.com/about_andrew",
-"https://chesneyforillinois.com/andrew-chesney-announces-senate-re-election-campaign",
-"https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2",
-"https://chesneyforillinois.com/author/chesneyforillinois",
-"https://chesneyforillinois.com/breaking-senator-andrew-chesney-named-most-conservative-state-senator-in-illinois",
-"https://chesneyforillinois.com/category/45th-district",
-"https://chesneyforillinois.com/category/89th-district",
-"https://chesneyforillinois.com/category/abate",
-"https://chesneyforillinois.com/category/andrew-chesney",
-"https://chesneyforillinois.com/category/brain-stewart",
-"https://chesneyforillinois.com/category/brian-stewart",
-"https://chesneyforillinois.com/category/campaign-team",
-"https://chesneyforillinois.com/category/carroll-county",
-"https://chesneyforillinois.com/category/county-board",
-"https://chesneyforillinois.com/category/cpac",
-"https://chesneyforillinois.com/category/don-manzullo",
-"https://chesneyforillinois.com/category/endorsements",
-"https://chesneyforillinois.com/category/endorsments",
-"https://chesneyforillinois.com/category/freeport-mayor",
-"https://chesneyforillinois.com/category/gop",
-"https://chesneyforillinois.com/category/hcc-trustee",
-"https://chesneyforillinois.com/category/highland-community-college",
-"https://chesneyforillinois.com/category/illinois",
-"https://chesneyforillinois.com/category/illinois-89th-district",
-"https://chesneyforillinois.com/category/illinois-state-senate",
-"https://chesneyforillinois.com/category/jazmin-wingert",
-"https://chesneyforillinois.com/category/jim-thompson",
-"https://chesneyforillinois.com/category/jodi-miller",
-"https://chesneyforillinois.com/category/john-cabello",
-"https://chesneyforillinois.com/category/motorcycle-safety",
-"https://chesneyforillinois.com/category/nate-luy",
-"https://chesneyforillinois.com/category/news",
-"https://chesneyforillinois.com/category/number-one-choice",
-"https://chesneyforillinois.com/category/ogle-county",
-"https://chesneyforillinois.com/category/press-releases",
-"https://chesneyforillinois.com/category/representative-brian-stewart",
-"https://chesneyforillinois.com/category/rockford-illinois",
-"https://chesneyforillinois.com/category/scott-helms",
-"https://chesneyforillinois.com/category/smart-politics",
-"https://chesneyforillinois.com/category/state-representative",
-"https://chesneyforillinois.com/category/stephanie-helms",
-"https://chesneyforillinois.com/category/stephenson-county",
-"https://chesneyforillinois.com/category/steve-allendorf",
-"https://chesneyforillinois.com/category/toni-mccombie",
-"https://chesneyforillinois.com/category/uncategorized",
-"https://chesneyforillinois.com/category/whiteside-county",
-"https://chesneyforillinois.com/comments/feed",
-"https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district",
-"https://chesneyforillinois.com/events",
-"https://chesneyforillinois.com/feed",
-"https://chesneyforillinois.com/highland-community-college-deserves-strong-leadership",
-"https://chesneyforillinois.com/issues",
-"https://chesneyforillinois.com/press-releases",
-"https://chesneyforillinois.com/senator-andrew-chesney-joins-illinois-freedom-caucus",
-"https://chesneyforillinois.com/stephenson-county-leaders-support-jazmin-wingert",
-"https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign",
-"https://chesneyforillinois.com/wp-login.php",
-"https://facebook.com/chesneyforillinois",
-"https://instagram.com/aschesney",
-"https://linkedin.com/in/andrew-chesney-785328185",
-"https://twitter.com/AndrewChesneyIL",
-"https://wordpress.org/"
+{
+"text": "45th District",
+"href": "https://chesneyforillinois.com/category/45th-district/"
+},
+{
+"text": "89th district",
+"href": "https://chesneyforillinois.com/category/89th-district/"
+},
+{
+"text": "ABATE",
+"href": "https://chesneyforillinois.com/category/abate/"
+},
+{
+"text": "About Andrew",
+"href": "https://chesneyforillinois.com/about_andrew/"
+},
+{
+"text": "Andrew Chesney",
+"href": "https://chesneyforillinois.com/category/andrew-chesney/"
+},
+{
+"text": "Andrew Chesney Announces Senate Re-Election Campaign",
+"href": "https://chesneyforillinois.com/andrew-chesney-announces-senate-re-election-campaign/"
+},
+{
+"text": "April 2018",
+"href": "https://chesneyforillinois.com/2018/04/"
+},
+{
+"text": "August 2018",
+"href": "https://chesneyforillinois.com/2018/08/"
+},
+{
+"text": "August 2025",
+"href": "https://chesneyforillinois.com/2025/08/"
+},
+{
+"text": "BREAKING: Senator Andrew Chesney Named Most Conservative State Senator in Illinois",
+"href": "https://chesneyforillinois.com/breaking-senator-andrew-chesney-named-most-conservative-state-senator-in-illinois/"
+},
+{
+"text": "Brain Stewart",
+"href": "https://chesneyforillinois.com/category/brain-stewart/"
+},
+{
+"text": "Brian Stewart",
+"href": "https://chesneyforillinois.com/category/brian-stewart/"
+},
+{
+"text": "CPAC",
+"href": "https://chesneyforillinois.com/category/cpac/"
+},
+{
+"text": "Campaign Team",
+"href": "https://chesneyforillinois.com/category/campaign-team/"
+},
+{
+"text": "Carroll County",
+"href": "https://chesneyforillinois.com/category/carroll-county/"
+},
+{
+"text": "Chesney for Illinois",
+"href": "https://chesneyforillinois.com/author/chesneyforillinois/"
+},
+{
+"text": "Comments feed",
+"href": "https://chesneyforillinois.com/comments/feed/"
+},
+{
+"text": "County Board",
+"href": "https://chesneyforillinois.com/category/county-board/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://chesneyforillinois.com/donate-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "December 2017",
+"href": "https://chesneyforillinois.com/2017/12/"
+},
+{
+"text": "District",
+"href": "https://chesneyforillinois.com/andrew-chesney-for-illinois-state-senator-of-the-45th-district-2/"
+},
+{
+"text": "Don Manzullo",
+"href": "https://chesneyforillinois.com/category/don-manzullo/"
+},
+{
+"text": "Endorsements",
+"href": "https://chesneyforillinois.com/category/endorsements/"
+},
+{
+"text": "Endorsements",
+"href": "https://chesneyforillinois.com/category/endorsments/"
+},
+{
+"text": "Endorsements",
+"href": "https://chesneyforillinois.com/endorsements-andrew-chesney-for-illinois-state-senator-of-the-45th-district/"
+},
+{
+"text": "Entries feed",
+"href": "https://chesneyforillinois.com/feed/"
+},
+{
+"text": "Events",
+"href": "https://chesneyforillinois.com/events"
+},
+{
+"text": "February 2018",
+"href": "https://chesneyforillinois.com/2018/02/"
+},
+{
+"text": "February 2022",
+"href": "https://chesneyforillinois.com/2022/02/"
+},
+{
+"text": "Freeport Mayor",
+"href": "https://chesneyforillinois.com/category/freeport-mayor/"
+},
+{
+"text": "GOP",
+"href": "https://chesneyforillinois.com/category/gop/"
+},
+{
+"text": "HCC Trustee",
+"href": "https://chesneyforillinois.com/category/hcc-trustee/"
+},
+{
+"text": "Highland Community College",
+"href": "https://chesneyforillinois.com/category/highland-community-college/"
+},
+{
+"text": "Highland Community College Deserves Strong Leadership",
+"href": "https://chesneyforillinois.com/highland-community-college-deserves-strong-leadership/"
+},
+{
+"text": "Illinois",
+"href": "https://chesneyforillinois.com/category/illinois/"
+},
+{
+"text": "Illinois 89th district",
+"href": "https://chesneyforillinois.com/category/illinois-89th-district/"
+},
+{
+"text": "Illinois State Senate",
+"href": "https://chesneyforillinois.com/category/illinois-state-senate/"
+},
+{
+"text": "Issues",
+"href": "https://chesneyforillinois.com/issues/"
+},
+{
+"text": "January 2018",
+"href": "https://chesneyforillinois.com/2018/01/"
+},
+{
+"text": "January 2022",
+"href": "https://chesneyforillinois.com/2022/01/"
+},
+{
+"text": "Jazmin Wingert",
+"href": "https://chesneyforillinois.com/category/jazmin-wingert/"
+},
+{
+"text": "Jim Thompson",
+"href": "https://chesneyforillinois.com/category/jim-thompson/"
+},
+{
+"text": "Jodi Miller",
+"href": "https://chesneyforillinois.com/category/jodi-miller/"
+},
+{
+"text": "John Cabello",
+"href": "https://chesneyforillinois.com/category/john-cabello/"
+},
+{
+"text": "July 2022",
+"href": "https://chesneyforillinois.com/2022/07/"
+},
+{
+"text": "July 2025",
+"href": "https://chesneyforillinois.com/2025/07/"
+},
+{
+"text": "June 2022",
+"href": "https://chesneyforillinois.com/2022/06/"
+},
+{
+"text": "Log in",
+"href": "https://chesneyforillinois.com/wp-login.php"
+},
+{
+"text": "March 2018",
+"href": "https://chesneyforillinois.com/2018/03/"
+},
+{
+"text": "March 2022",
+"href": "https://chesneyforillinois.com/2022/03/"
+},
+{
+"text": "March 2023",
+"href": "https://chesneyforillinois.com/2023/03/"
+},
+{
+"text": "May 2018",
+"href": "https://chesneyforillinois.com/2018/05/"
+},
+{
+"text": "Motorcycle Safety",
+"href": "https://chesneyforillinois.com/category/motorcycle-safety/"
+},
+{
+"text": "Nate Luy",
+"href": "https://chesneyforillinois.com/category/nate-luy/"
+},
+{
+"text": "News",
+"href": "https://chesneyforillinois.com/category/news/"
+},
+{
+"text": "November 2017",
+"href": "https://chesneyforillinois.com/2017/11/"
+},
+{
+"text": "November 2022",
+"href": "https://chesneyforillinois.com/2022/11/"
+},
+{
+"text": "November 2024",
+"href": "https://chesneyforillinois.com/2024/11/"
+},
+{
+"text": "Number One Choice",
+"href": "https://chesneyforillinois.com/category/number-one-choice/"
+},
+{
+"text": "October 2017",
+"href": "https://chesneyforillinois.com/2017/10/"
+},
+{
+"text": "October 2018",
+"href": "https://chesneyforillinois.com/2018/10/"
+},
+{
+"text": "Ogle County",
+"href": "https://chesneyforillinois.com/category/ogle-county/"
+},
+{
+"text": "Press Releases",
+"href": "https://chesneyforillinois.com/category/press-releases/"
+},
+{
+"text": "Press Releases",
+"href": "https://chesneyforillinois.com/press-releases/"
+},
+{
+"text": "Representative Brian Stewart",
+"href": "https://chesneyforillinois.com/category/representative-brian-stewart/"
+},
+{
+"text": "Rockford Illinois",
+"href": "https://chesneyforillinois.com/category/rockford-illinois/"
+},
+{
+"text": "Scott Helms",
+"href": "https://chesneyforillinois.com/category/scott-helms/"
+},
+{
+"text": "Senator Andrew Chesney Joins Illinois Freedom Caucus",
+"href": "https://chesneyforillinois.com/senator-andrew-chesney-joins-illinois-freedom-caucus/"
+},
+{
+"text": "September 2018",
+"href": "https://chesneyforillinois.com/2018/09/"
+},
+{
+"text": "Smart Politics",
+"href": "https://chesneyforillinois.com/category/smart-politics/"
+},
+{
+"text": "State Representative",
+"href": "https://chesneyforillinois.com/category/state-representative/"
+},
+{
+"text": "Stephanie Helms",
+"href": "https://chesneyforillinois.com/category/stephanie-helms/"
+},
+{
+"text": "Stephenson County",
+"href": "https://chesneyforillinois.com/category/stephenson-county/"
+},
+{
+"text": "Stephenson County Leaders Support Jazmin Wingert",
+"href": "https://chesneyforillinois.com/stephenson-county-leaders-support-jazmin-wingert/"
+},
+{
+"text": "Steve Allendorf",
+"href": "https://chesneyforillinois.com/category/steve-allendorf/"
+},
+{
+"text": "Toni McCombie",
+"href": "https://chesneyforillinois.com/category/toni-mccombie/"
+},
+{
+"text": "Uncategorized",
+"href": "https://chesneyforillinois.com/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://chesneyforillinois.com/volunteer-for-the-chesney-fo-illinois-campaign/"
+},
+{
+"text": "Whiteside County",
+"href": "https://chesneyforillinois.com/category/whiteside-county/"
+},
+{
+"text": "WordPress.org",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com"
+},
+{
+"text": "[image]",
+"href": "https://chesneyforillinois.com/"
+},
+{
+"text": "",
+"href": "https://facebook.com/chesneyforillinois"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/aschesney"
+},
+{
+"text": "",
+"href": "https://www.linkedin.com/in/andrew-chesney-785328185"
+},
+{
+"text": "",
+"href": "https://twitter.com/AndrewChesneyIL"
+}
 ]

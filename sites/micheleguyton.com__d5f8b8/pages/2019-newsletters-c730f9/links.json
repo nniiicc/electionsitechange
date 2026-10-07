@@ -1,35 +1,146 @@
 [
-"https://bcgis.baltimorecountymd.gov/myneighborhood",
-"https://bsky.app/profile/micheleguyton.bsky.social",
-"https://facebook.com/MicheleGuytonforDelegate",
-"https://forms.gle/ab4sen2KB97j49kt7",
-"https://instagram.com/michele.guyton",
-"https://mailchi.mp/073c67e1f7c4/what-we-have-been-working-on-this-summer",
-"https://mailchi.mp/1c70efe7409b/weekly-update-from-annapolis-1",
-"https://mailchi.mp/1d6802c39932/things-are-starting-to-get-super-busy",
-"https://mailchi.mp/4a621647182c/weekly-update-from-annapolis",
-"https://mailchi.mp/4f90c938a03b/update-from-annapolis-week-10",
-"https://mailchi.mp/62fa84f15339/update-from-annapolis-week-9",
-"https://mailchi.mp/6ec6e5d0bbca/weekly-update-from-annapolis-3",
-"https://mailchi.mp/9664c80afc26/update-from-annapolis-week-2",
-"https://mailchi.mp/c34e025006d4/its-unanimous",
-"https://mailchi.mp/e939cb1c766a/we-are-almost-at-the-halfway-mark",
-"https://mailchi.mp/f084e60d9578/all-the-bills-are-in",
-"https://maps.caliper.com/public-plans/planviewer-sb1012-congressional",
-"https://micheleguyton.com/",
-"https://micheleguyton.com/cart",
-"https://micheleguyton.com/community-resources",
-"https://micheleguyton.com/contact",
-"https://micheleguyton.com/get-involved",
-"https://micheleguyton.com/legislation",
-"https://micheleguyton.com/meet-michele",
-"https://micheleguyton.com/newsletters-updates",
-"https://micheleguyton.com/s/2026GuytonScholarshipApplication.pdf",
-"https://mobilize.us/mddems/event/1005603",
-"https://mobilize.us/mddems/event/1005606",
-"https://secure.actblue.com/donate/micheleguyton42b",
-"https://static1.squarespace.com/static/5a85d511d0e6287debf80249/t/5cc0a9566e9a7f4fe48b8dd6/1556130135045/Guyton_DLH+%281%29.pdf",
-"https://threads.com/@michele.guyton",
-"https://x.com/guyton42b",
-"https://youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+{
+"text": "0",
+"href": "https://www.micheleguyton.com/cart"
+},
+{
+"text": "2026 Scholarship",
+"href": "https://www.micheleguyton.com/s/2026GuytonScholarshipApplication.pdf"
+},
+{
+"text": "August 22 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005603/"
+},
+{
+"text": "Back",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Community Resources",
+"href": "https://www.micheleguyton.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.micheleguyton.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/micheleguyton42b"
+},
+{
+"text": "End of Session Letter",
+"href": "https://static1.squarespace.com/static/5a85d511d0e6287debf80249/t/5cc0a9566e9a7f4fe48b8dd6/1556130135045/Guyton_DLH+%281%29.pdf"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.micheleguyton.com/get-involved"
+},
+{
+"text": "Get Your District Info",
+"href": "https://bcgis.baltimorecountymd.gov/myneighborhood/"
+},
+{
+"text": "Home",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "Interim Newsletter",
+"href": "https://mailchi.mp/073c67e1f7c4/what-we-have-been-working-on-this-summer"
+},
+{
+"text": "Legislation",
+"href": "https://www.micheleguyton.com/legislation"
+},
+{
+"text": "Meet Michele",
+"href": "https://www.micheleguyton.com/meet-michele"
+},
+{
+"text": "Newsletters & Updates",
+"href": "https://www.micheleguyton.com/newsletters-updates"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://forms.gle/ab4sen2KB97j49kt7"
+},
+{
+"text": "September 19 - Day of Action (Door Knocking)",
+"href": "https://www.mobilize.us/mddems/event/1005606/"
+},
+{
+"text": "View District Map",
+"href": "https://maps.caliper.com/public-plans/planviewer-sb1012-congressional/#MD+2022+House+Districts"
+},
+{
+"text": "Week Eight",
+"href": "https://mailchi.mp/4a621647182c/weekly-update-from-annapolis"
+},
+{
+"text": "Week Eleven",
+"href": "https://static1.squarespace.com/static/5a85d511d0e6287debf80249/t/5cc0a9566e9a7f4fe48b8dd6/1556130135045/Guyton_DLH+%281%29.pdf"
+},
+{
+"text": "Week Five",
+"href": "https://mailchi.mp/f084e60d9578/all-the-bills-are-in"
+},
+{
+"text": "Week Four",
+"href": "https://mailchi.mp/1d6802c39932/things-are-starting-to-get-super-busy"
+},
+{
+"text": "Week Nine",
+"href": "https://mailchi.mp/62fa84f15339/update-from-annapolis-week-9"
+},
+{
+"text": "Week One",
+"href": "https://mailchi.mp/1c70efe7409b/weekly-update-from-annapolis-1"
+},
+{
+"text": "Week Seven",
+"href": "https://mailchi.mp/c34e025006d4/its-unanimous"
+},
+{
+"text": "Week Six",
+"href": "https://mailchi.mp/e939cb1c766a/we-are-almost-at-the-halfway-mark"
+},
+{
+"text": "Week Ten",
+"href": "https://mailchi.mp/4f90c938a03b/update-from-annapolis-week-10"
+},
+{
+"text": "Week Three",
+"href": "https://mailchi.mp/6ec6e5d0bbca/weekly-update-from-annapolis-3"
+},
+{
+"text": "Week Two",
+"href": "https://mailchi.mp/9664c80afc26/update-from-annapolis-week-2"
+},
+{
+"text": "[image: Michele Guyton, Maryland State Delegate 42B]",
+"href": "https://www.micheleguyton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/micheleguyton.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MicheleGuytonforDelegate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michele.guyton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@michele.guyton"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCNYkYkL68WZcb1Vgagx4vvg/featured"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/guyton42b"
+}
 ]

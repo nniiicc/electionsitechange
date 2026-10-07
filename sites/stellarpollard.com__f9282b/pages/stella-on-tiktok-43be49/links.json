@@ -1,7 +1,22 @@
 [
-"https://stellarpollard.com/",
-"https://stellarpollard.com/stella-on-tiktok?share=facebook",
-"https://stellarpollard.com/stella-on-tiktok?share=twitter",
-"https://tiktok.com/@stella4ky?refer=creator_embed",
-"https://wordpress.com/"
+{
+"text": "@stella4ky",
+"href": "https://www.tiktok.com/@stella4ky?refer=creator_embed"
+},
+{
+"text": "Powered by WordPress.com",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://stellarpollard.com/stella-on-tiktok/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://stellarpollard.com/stella-on-tiktok/?share=twitter"
+},
+{
+"text": "Stella for KY",
+"href": "https://stellarpollard.com/"
+}
 ]

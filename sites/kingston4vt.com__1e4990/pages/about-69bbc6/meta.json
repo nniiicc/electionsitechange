@@ -1,9 +1,9 @@
 {
  "description": "Learn about John Kingston, a dedicated Vermont State Representative committed to community service and improving the lives of Vermonters.",
  "final_url": "https://kingston4vt.com/about",
- "paid_for_by": null,
+ "fingerprint": "e61e713007a2c94174a740d6f597a0a645a0cfac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About John Kingston - Vermont State Representative",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

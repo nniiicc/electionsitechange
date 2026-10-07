@@ -1,5 +1,18 @@
 [
-"http://tiktok.com/@wendymorganforpa",
-"https://facebook.com/share/g/1BKy3EguRg?mibextid=wwXlfr",
-"https://instagram.com/wendymorganforpa"
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/g/1BKy3EguRg/?mibextid=wwXlfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wendymorganforpa"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@wendymorganforpa"
+},
+{
+"text": "mswendymorgan@gmail.com",
+"href": "mailto:mswendymorgan@gmail.com"
+}
 ]

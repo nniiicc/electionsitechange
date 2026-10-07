@@ -1,20 +1,106 @@
 [
-"https://ashleybeanthornton.com/",
-"https://ashleybeanthornton.com/blog",
-"https://ashleybeanthornton.com/build-the-texas",
-"https://ashleybeanthornton.com/disclaimer",
-"https://ashleybeanthornton.com/donate",
-"https://ashleybeanthornton.com/es/politica-de-privacidad",
-"https://ashleybeanthornton.com/privacy-policy",
-"https://ashleybeanthornton.com/public-schools",
-"https://ashleybeanthornton.com/stay-in-the-loop",
-"https://ashleybeanthornton.com/terms-of-service",
-"https://ashleybeanthornton.com/texas-economy",
-"https://ashleybeanthornton.com/volunteer",
-"https://ashleybeanthornton.com/work-together",
-"https://digitalmediabutterfly.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1",
-"https://facebook.com/ThorntonForTexas",
-"https://instagram.com/thorntonfortexas",
-"https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+{
+"text": "Blog",
+"href": "https://ashleybeanthornton.com/blog/"
+},
+{
+"text": "Digital Media Butterfly",
+"href": "https://digitalmediabutterfly.com"
+},
+{
+"text": "Disclaimer",
+"href": "https://ashleybeanthornton.com/disclaimer/"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://ashleybeanthornton.com/donate/"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ThorntonForTexas/"
+},
+{
+"text": "Home",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/thorntonfortexas/"
+},
+{
+"text": "Join the Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Newsletter",
+"href": "https://ashleybeanthornton.com/stay-in-the-loop/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ashleybeanthornton.com/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://store.holeintheroof.com/ashleybeanthornton/shop/products/all?page=1"
+},
+{
+"text": "Strong Public Schools",
+"href": "https://ashleybeanthornton.com/public-schools/"
+},
+{
+"text": "Terms of Service",
+"href": "https://ashleybeanthornton.com/terms-of-service/"
+},
+{
+"text": "The Texas Economy",
+"href": "https://ashleybeanthornton.com/texas-economy/"
+},
+{
+"text": "The Texas We want",
+"href": "https://ashleybeanthornton.com/build-the-texas/"
+},
+{
+"text": "Volunteer",
+"href": "https://ashleybeanthornton.com/volunteer/"
+},
+{
+"text": "Working Together",
+"href": "https://ashleybeanthornton.com/work-together/"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfphAk0jaOzBtCjSFXqzUPm_ktb3To70vRNxnz59sKJDp9peQ/viewform?pli=1"
+},
+{
+"text": "[image]",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "[image] English",
+"href": "https://ashleybeanthornton.com/privacy-policy/"
+},
+{
+"text": "[image] Spanish",
+"href": "https://ashleybeanthornton.com/es/politica-de-privacidad/"
+},
+{
+"text": "https://ashleybeanthornton.com/",
+"href": "https://ashleybeanthornton.com/"
+},
+{
+"text": "info@ashleybeanthornton.com",
+"href": "mailto:info@ashleybeanthornton.com"
+}
 ]

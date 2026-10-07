@@ -1,27 +1,7 @@
-Immigration
-Create a Just Immigration System
-Our immigration system is fundamentally unjust.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Immigration Create a Just Immigration System Our immigration system is fundamentally unjust.
 Instead of treating immigrants as criminals, we must welcome them into our country and provide them with paths to citizenship.
 Instead of extending humanity and compassion to migrants and refugees, we treat them as criminals.
 Instead of reuniting families through a quick and reliable process, we separate them for years – or longer.
 We must welcome immigrants into our country and provide them simple and accessible means to becoming documented.
-- There are over 14 million undocumented immigrants living in the United States, among them as many as 3.8 million that entered before their 18th birthday and who know no home other than America
-- When Trump took office, nearly 1.5 million people had Temporary Protected Status, living with terrifying uncertainty about the future despite their deep connections to this country, after having spent decades living in and contributing to our communities.
-Trump has ended this status for hundreds of thousands of people
-- ICE and CBP are roaming our streets in masks, racially profiling our neighbors, arresting those with legal status, and tearing families apart in violation of their constitutional rights
-- Citizens who want to reunite with their spouses, children, or parents face decades of wait times, forcing many to choose entering the country through alternate means
-- Immigrants coming to the US on work visas wait for decades for green card they are qualified for – solely because of the country they come from
-Vision and policy priorities
-Reform our inhumane immigration system
-- Abolish ICE, and end all inhumane deportation and detention programs
-- Hold DHS officials accountable for their role in carrying out abuses during Operation Metro Surge
-- Prosecute federal officials who have been accused of physical and sexual assault of people in their detention
-- Oppose all efforts to further militarize our border and any attempt to expand the border wall along the southern border
-- Protect Sanctuary Cities and Counties by preventing any presidential administration from withholding federal funding
-- Fight back against the criminalization of immigration and crossing the border
-Establish a just immigration system
-- Create a fair and accessible pathway to legal status and citizenship for DREAMERS, TPS recipients and all undocumented people living in the US
-- Speed up processing times and end arbitrary limits on family-based and employment-based green cards
-- Make sure no future president can weaponize discretionary programs to target people based on their race, religion, or nationality
-- Expand the number of refugees and asylum-seekers admitted to the United States
-- Adopt community-based alternatives to detention
+There are over 14 million undocumented immigrants living in the United States, among them as many as 3.8 million that entered before their 18th birthday and who know no home other than America When Trump took office, nearly 1.5 million people had Temporary Protected Status, living with terrifying uncertainty about the future despite their deep connections to this country, after having spent decades living in and contributing to our communities.
+Trump has ended this status for hundreds of thousands of people ICE and CBP are roaming our streets in masks, racially profiling our neighbors, arresting those with legal status, and tearing families apart in violation of their constitutional rights Citizens who want to reunite with their spouses, children, or parents face decades of wait times, forcing many to choose entering the country through alternate means Immigrants coming to the US on work visas wait for decades for green card they are qualified for – solely because of the country they come from Vision and policy priorities Reform our inhumane immigration system Abolish ICE, and end all inhumane deportation and detention programs Hold DHS officials accountable for their role in carrying out abuses during Operation Metro Surge Prosecute federal officials who have been accused of physical and sexual assault of people in their detention Oppose all efforts to further militarize our border and any attempt to expand the border wall along the southern border Protect Sanctuary Cities and Counties by preventing any presidential administration from withholding federal funding Fight back against the criminalization of immigration and crossing the border Establish a just immigration system Create a fair and accessible pathway to legal status and citizenship for DREAMERS, TPS recipients and all undocumented people living in the US Speed up processing times and end arbitrary limits on family-based and employment-based green cards Make sure no future president can weaponize discretionary programs to target people based on their race, religion, or nationality Expand the number of refugees and asylum-seekers admitted to the United States Adopt community-based alternatives to detention Back to all Vision's ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

@@ -1,28 +1,20 @@
-My Sponsored Legislation
-During the 2024 General Legislative Session, I served on the:
-- House Health and Human Services Committee
-- House Public Utilities, Energy, and Technology Committee
-- Public Education Appropriations Subcommittee
-During the session, I sponsored and passed several pieces of legislation regarding education, health and disability services, water issues, and law enforcement and firearm safety.
-Here is a list of my bills and what they proposed:
-My Sponsored Legislation
-- HB155 - Discharge of Fireworks Amendments [PASSED] - Allows retailers to sell fireworks to licensed operators who are permitted to buy fireworks outside of regular purchase windows, and allows retailers to sell fireworks outside the state online.
-- HB276 - Crime Victims Restitution Amendments [PASSED] - Requires local law enforcement to provide copies of investigative reports to the Utah Office for Victims of Crimes to streamline services for victims and families.
-- HB326 - Firearm Safety Incentives - Would have provided a one-time, $50, nonrefundable tax credit for any household that would purchase a firearm safety device of their choice to prevent gun deaths.
-- HB420 - School Code of Conduct Protections - Would have protected teachers and staff when reporting violations of the code of conduct in schools, with confidentiality and no retaliation.
-- HB584 - Economic Interruption Amendments [PASSED] - Established two new crimes for thefts or damages that result in local business operations being interrupted.
-Floor Sponsored Legislation
-- SB64 - Effective Teachers in High Poverty Schools Incentive Program Amendments [PASSED] - Requires the State Board of Education to notify qualified teachers of their eligibility to participate in the program to teach in high poverty schools.
-- SB100 - Local Referenda Amendments [PASSED] - Extended the amount of time citizens have to collect signatures to place a revenue bond on the ballot.
-Co-Sponsored Legislation
-- HB165 - Federal Law Enforcement Amendments [PASSED] - Opens a line of communication between Immigration and Customs Enforcement and the State of Utah by requiring federal officers to notify the attorney general and the local county sheriffs before the release of an alien from their custody.
-- HB182 - Student Survey Amendments [PASSED] - Requires that all non-academic surveys administered in K-12 schools be opt-in rather than opt-out, and prohibits LEAs from incentivizing or disincentivizing students to take surveys.
-- HB192 - Local Education Agency Employee Paid Leave [PASSED] - Requires a minimum of three weeks parental leave and an additional three weeks postpartum leave for teachers, with no retaliation against them by the school district, and gives schools local control over leave bank sharing.
-- HB251 - Post Retirement Reemployment Restrictions Amendments [PASSED] - Allows retired Utahns to be reemployed as needed in public sectors such as education and public safety.
-- HB324 - Disability Services Amendments - Would have provided leftover Medicaid funds to a pilot program to help disabled children who are under full-time medical care by their families.
-- HB348 - Precious Metals Amendments [PASSED] - Allows the state treasurer to invest up to 10% of certain budget reserve accounts in precious metals, maintaining the value of our reserves.
-- HB405 - Public Health Amendments [PASSED] - Provides the same rights to exemptions for medical students that other medical professionals have, and modifies when a health department may invoke an order of restriction for patients with contagious diseases.
-- HB406 - Firearms Financial Transaction Amendments [PASSED] - Prohibits the use of a firearms merchant code to track purchases related to firearms.
-- HB438 - Higher Education Revisions [PASSED] - Requires universities to follow certain standards when granting tenure to their professors, ensuring that college education remains relevant and affordable for our students.
-- HB453 - Great Salt Lake Revisions [PASSED] - Ensures water conserved by Utah farmers, businesses, governments, and citizens will make it to the Great Salt Lake and remain in the lake.
+0 Skip to Content About Results Issues My Legislation 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Donate Open Menu Close Menu About Results Issues My Legislation 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Donate Open Menu Close Menu About Results Issues Folder: My Legislation Back 2026 General Session 2025 General Session 2024 General Session In the News My Endorsements Contact English Back Donate My Sponsored Legislation My Legislative Website During the 2024 General Legislative Session, I served on the: House Health and Human Services Committee House Public Utilities, Energy, and Technology Committee Public Education Appropriations Subcommittee During the session, I sponsored and passed several pieces of legislation regarding education, health and disability services, water issues, and law enforcement and firearm safety.
+Here is a list of my bills and what they proposed: My Sponsored Legislation HB155 - Discharge of Fireworks Amendments [PASSED] - Allows retailers to sell fireworks to licensed operators who are permitted to buy fireworks outside of regular purchase windows, and allows retailers to sell fireworks outside the state online.
+HB276 - Crime Victims Restitution Amendments [PASSED] - Requires local law enforcement to provide copies of investigative reports to the Utah Office for Victims of Crimes to streamline services for victims and families.
+HB326 - Firearm Safety Incentives - Would have provided a one-time, $50, nonrefundable tax credit for any household that would purchase a firearm safety device of their choice to prevent gun deaths.
+HB420 - School Code of Conduct Protections - Would have protected teachers and staff when reporting violations of the code of conduct in schools, with confidentiality and no retaliation.
+HB584 - Economic Interruption Amendments [PASSED] - Established two new crimes for thefts or damages that result in local business operations being interrupted.
+Floor Sponsored Legislation SB64 - Effective Teachers in High Poverty Schools Incentive Program Amendments [PASSED] - Requires the State Board of Education to notify qualified teachers of their eligibility to participate in the program to teach in high poverty schools.
+SB100 - Local Referenda Amendments [PASSED] - Extended the amount of time citizens have to collect signatures to place a revenue bond on the ballot.
+Co-Sponsored Legislation HB165 - Federal Law Enforcement Amendments [PASSED] - Opens a line of communication between Immigration and Customs Enforcement and the State of Utah by requiring federal officers to notify the attorney general and the local county sheriffs before the release of an alien from their custody.
+HB182 - Student Survey Amendments [PASSED] - Requires that all non-academic surveys administered in K-12 schools be opt-in rather than opt-out, and prohibits LEAs from incentivizing or disincentivizing students to take surveys.
+HB192 - Local Education Agency Employee Paid Leave [PASSED] - Requires a minimum of three weeks parental leave and an additional three weeks postpartum leave for teachers, with no retaliation against them by the school district, and gives schools local control over leave bank sharing.
+HB251 - Post Retirement Reemployment Restrictions Amendments [PASSED] - Allows retired Utahns to be reemployed as needed in public sectors such as education and public safety.
+HB324 - Disability Services Amendments - Would have provided leftover Medicaid funds to a pilot program to help disabled children who are under full-time medical care by their families.
+HB348 - Precious Metals Amendments [PASSED] - Allows the state treasurer to invest up to 10% of certain budget reserve accounts in precious metals, maintaining the value of our reserves.
+HB405 - Public Health Amendments [PASSED] - Provides the same rights to exemptions for medical students that other medical professionals have, and modifies when a health department may invoke an order of restriction for patients with contagious diseases.
+HB406 - Firearms Financial Transaction Amendments [PASSED] - Prohibits the use of a firearms merchant code to track purchases related to firearms.
+HB438 - Higher Education Revisions [PASSED] - Requires universities to follow certain standards when granting tenure to their professors, ensuring that college education remains relevant and affordable for our students.
+HB453 - Great Salt Lake Revisions [PASSED] - Ensures water conserved by Utah farmers, businesses, governments, and citizens will make it to the Great Salt Lake and remain in the lake.
 It also allows mineral companies to continue extracting critical minerals while ensuring Utahns receive fair compensation in the form of conservation and management efforts.
+Sign Up For News And Updates - Paid for by Matt MacPherson Campaign - Privacy Policy

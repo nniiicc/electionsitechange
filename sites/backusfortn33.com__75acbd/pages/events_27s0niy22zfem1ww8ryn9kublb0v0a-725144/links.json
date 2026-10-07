@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=CANVASS+WITH+THE+BACKUSFORTN33+TEAM&dates=20260711T144500Z%2F20260711T170000Z&location=1051+Oak+Ridge+Turnpike%2C+Oak+Ridge%2C+Tennessee%2C+37830%2C+United+States",
-"http://instagram.com/backusfortn33",
-"http://maps.google.com/?q=1051+Oak+Ridge+Turnpike+Oak+Ridge%2C+Tennessee%2C+37830+United+States",
-"https://backusfortn33.com/",
-"https://backusfortn33.com/cart",
-"https://backusfortn33.com/events",
-"https://backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a-pyk7b",
-"https://backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a?format=ical",
-"https://backusfortn33.com/events/canvassing-10-x5hnw-tg95s",
-"https://backusfortn33.com/gallery",
-"https://backusfortn33.com/issues",
-"https://backusfortn33.com/volunteer",
-"https://backusfortn33.com/yardsign",
-"https://facebook.com/profile.php?id=61550950895806",
-"https://mobilize.us/backusfortn33/event/914618",
-"https://secure.actblue.com/donate/backus-for-tn33-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1051+oak+ridge+turnpike+oak+ridge%2C+tennessee%2C+37830+united+states"
+},
+{
+"text": "0",
+"href": "https://www.backusfortn33.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "Contact",
+"href": "mailto:backusfortn33@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/backus-for-tn33-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.backusfortn33.com/events"
+},
+{
+"text": "GALLERY",
+"href": "https://www.backusfortn33.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CANVASS+WITH+THE+BACKUSFORTN33+TEAM&dates=20260711T144500Z%2F20260711T170000Z&location=1051+Oak+Ridge+Turnpike%2C+Oak+Ridge%2C+Tennessee%2C+37830%2C+United+States"
+},
+{
+"text": "HOW TO GET INVOLVED",
+"href": "https://www.backusfortn33.com/volunteer"
+},
+{
+"text": "ICS",
+"href": "https://www.backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a?format=ical"
+},
+{
+"text": "ISSUES",
+"href": "https://www.backusfortn33.com/issues"
+},
+{
+"text": "Next Next July 18 CANVASS WITH THE BACKUSFORTN33 TEAM",
+"href": "https://www.backusfortn33.com/events/27s0niy22zfem1ww8ryn9kublb0v0a-pyk7b"
+},
+{
+"text": "Previous Previous September 19 Canvassing-Every Thursday",
+"href": "https://www.backusfortn33.com/events/canvassing-10-x5hnw-tg95s"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://www.backusfortn33.com/yardsign"
+},
+{
+"text": "[image: Backus for TN 33]",
+"href": "https://www.backusfortn33.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/backusfortn33"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61550950895806"
+},
+{
+"text": "https://www.mobilize.us/backusfortn33/event/914618/",
+"href": "https://www.mobilize.us/backusfortn33/event/914618/"
+}
 ]

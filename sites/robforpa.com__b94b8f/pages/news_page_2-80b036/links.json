@@ -1,36 +1,294 @@
 [
-"https://facebook.com/RobforPA",
-"https://instagram.com/Rob4PA",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://robforpa.com/",
-"https://robforpa.com/about",
-"https://robforpa.com/bresnahan-campaign-announces-nfib-endorsement",
-"https://robforpa.com/bresnahan-campaign-announces-u-s-chamber-of-commerce-endorsement",
-"https://robforpa.com/bresnahan-earns-endorsement-from-pennsylvania-state-troopers-association",
-"https://robforpa.com/bresnahan-earns-endorsement-from-stroud-lodge-75-fraternal-order-of-police",
-"https://robforpa.com/bresnahan-earns-endorsement-of-american-federation-of-government-employees",
-"https://robforpa.com/bresnahan-earns-pennsylvania-conference-of-teamsters-endorsement",
-"https://robforpa.com/bresnahan-earns-unified-endorsement-from-four-maritime-unions",
-"https://robforpa.com/cdn-cgi/l/email-protection",
-"https://robforpa.com/democrat-scranton-city-councilman-sean-mcandrew-calls-out-mayor-paige-cognetti-for-putting-her-congressional-campaign-ahead-of-her-city",
-"https://robforpa.com/democrats-for-rob-coalition-launches-in-support-of-congressman-bresnahans-reelection",
-"https://robforpa.com/get-involved",
-"https://robforpa.com/labor-endorsements",
-"https://robforpa.com/news",
-"https://robforpa.com/news/page/3",
-"https://robforpa.com/news/page/4",
-"https://robforpa.com/privacy-policy",
-"https://robforpa.com/rob-bresnahan-announces-launch-of-women-for-rob-coalition",
-"https://robforpa.com/rob-bresnahan-earns-endorsement-from-boilermakers-local-13",
-"https://robforpa.com/rob-bresnahan-earns-endorsement-from-operating-engineers-local-542",
-"https://robforpa.com/terms-conditions",
-"https://secure.winred.com/rob-for-pa/donate",
-"https://secure.winred.com/rob-for-pa/donate?amount=100",
-"https://secure.winred.com/rob-for-pa/donate?amount=25",
-"https://secure.winred.com/rob-for-pa/donate?amount=50",
-"https://secure.winred.com/rob-for-pa/donate?amount=75",
-"https://secure.winred.com/rob-for-pa/storefront",
-"https://twitter.com/Rob4PA",
-"https://youtube.com/@RobforPA"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=75"
+},
+{
+"text": "1",
+"href": "https://robforpa.com/news/"
+},
+{
+"text": "3",
+"href": "https://robforpa.com/news/page/3/"
+},
+{
+"text": "4",
+"href": "https://robforpa.com/news/page/4/"
+},
+{
+"text": "About",
+"href": "https://robforpa.com/about/"
+},
+{
+"text": "April 14, 2026",
+"href": "https://robforpa.com/democrats-for-rob-coalition-launches-in-support-of-congressman-bresnahans-reelection/"
+},
+{
+"text": "April 17, 2026",
+"href": "https://robforpa.com/democrat-scranton-city-councilman-sean-mcandrew-calls-out-mayor-paige-cognetti-for-putting-her-congressional-campaign-ahead-of-her-city/"
+},
+{
+"text": "April 30, 2026",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-from-boilermakers-local-13/"
+},
+{
+"text": "August 5, 2026",
+"href": "https://robforpa.com/bresnahan-campaign-announces-first-two-ads-of-2026-election-cycle/"
+},
+{
+"text": "Bresnahan Campaign Announces First Two Ads of 2026 Election Cycle",
+"href": "https://robforpa.com/bresnahan-campaign-announces-first-two-ads-of-2026-election-cycle/"
+},
+{
+"text": "Bresnahan Campaign Announces NFIB Endorsement",
+"href": "https://robforpa.com/bresnahan-campaign-announces-nfib-endorsement/"
+},
+{
+"text": "Bresnahan Campaign Announces U.S. Chamber of Commerce Endorsement",
+"href": "https://robforpa.com/bresnahan-campaign-announces-u-s-chamber-of-commerce-endorsement/"
+},
+{
+"text": "Bresnahan Earns Endorsement From Pennsylvania State Troopers Association",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-pennsylvania-state-troopers-association/"
+},
+{
+"text": "Bresnahan Earns Endorsement from Stroud Lodge #75 Fraternal Order of Police",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-stroud-lodge-75-fraternal-order-of-police/"
+},
+{
+"text": "Bresnahan Earns Endorsement of American Federation of Government Employees",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-of-american-federation-of-government-employees/"
+},
+{
+"text": "Bresnahan Earns Pennsylvania Conference of Teamsters Endorsement",
+"href": "https://robforpa.com/bresnahan-earns-pennsylvania-conference-of-teamsters-endorsement/"
+},
+{
+"text": "Bresnahan Earns Unified Endorsement from Four Maritime Unions",
+"href": "https://robforpa.com/bresnahan-earns-unified-endorsement-from-four-maritime-unions/"
+},
+{
+"text": "Democrat City Councilman Calls Out Mayor Cognetti for Prioritizing Campaign Over Scranton",
+"href": "https://robforpa.com/democrat-scranton-city-councilman-sean-mcandrew-calls-out-mayor-paige-cognetti-for-putting-her-congressional-campaign-ahead-of-her-city/"
+},
+{
+"text": "Democrats for Rob Coalition Launches in Support of Congressman Bresnahan’s Reelection",
+"href": "https://robforpa.com/democrats-for-rob-coalition-launches-in-support-of-congressman-bresnahans-reelection/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rob-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobforPA"
+},
+{
+"text": "Get Involved",
+"href": "https://robforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://robforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/Rob4PA"
+},
+{
+"text": "July 1, 2026",
+"href": "https://robforpa.com/bresnahan-campaign-announces-u-s-chamber-of-commerce-endorsement/"
+},
+{
+"text": "July 14, 2026",
+"href": "https://robforpa.com/bresnahan-campaign-announces-nfib-endorsement/"
+},
+{
+"text": "July 31, 2026",
+"href": "https://robforpa.com/bresnahan-earns-unified-endorsement-from-four-maritime-unions/"
+},
+{
+"text": "June 18, 2026",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-pennsylvania-state-troopers-association/"
+},
+{
+"text": "June 18, 2026",
+"href": "https://robforpa.com/bresnahan-earns-pennsylvania-conference-of-teamsters-endorsement/"
+},
+{
+"text": "June 19, 2026",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-of-american-federation-of-government-employees/"
+},
+{
+"text": "June 26, 2026",
+"href": "https://robforpa.com/rob-bresnahan-announces-launch-of-women-for-rob-coalition/"
+},
+{
+"text": "Labor Endorsements",
+"href": "https://robforpa.com/labor-endorsements/"
+},
+{
+"text": "May 1, 2026",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-stroud-lodge-75-fraternal-order-of-police/"
+},
+{
+"text": "News",
+"href": "https://robforpa.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-campaign-announces-first-two-ads-of-2026-election-cycle/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-campaign-announces-nfib-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-campaign-announces-u-s-chamber-of-commerce-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-pennsylvania-state-troopers-association/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-stroud-lodge-75-fraternal-order-of-police/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-of-american-federation-of-government-employees/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-pennsylvania-conference-of-teamsters-endorsement/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/bresnahan-earns-unified-endorsement-from-four-maritime-unions/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/democrat-scranton-city-councilman-sean-mcandrew-calls-out-mayor-paige-cognetti-for-putting-her-congressional-campaign-ahead-of-her-city/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/democrats-for-rob-coalition-launches-in-support-of-congressman-bresnahans-reelection/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/rob-bresnahan-announces-launch-of-women-for-rob-coalition/"
+},
+{
+"text": "Read more",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-from-boilermakers-local-13/"
+},
+{
+"text": "Rob Bresnahan Announces Launch of “Women for Rob” Coalition",
+"href": "https://robforpa.com/rob-bresnahan-announces-launch-of-women-for-rob-coalition/"
+},
+{
+"text": "Rob Bresnahan Earns Endorsement from Boilermakers Local 13",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-from-boilermakers-local-13/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/rob-for-pa/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://robforpa.com/terms-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://robforpa.com/#vote"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Rob4PA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@RobforPA"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robforpa.com"
+},
+{
+"text": "[image: Bresnahan Campaign Announces First Two Ads of 2026 Election Cycle]",
+"href": "https://robforpa.com/bresnahan-campaign-announces-first-two-ads-of-2026-election-cycle/"
+},
+{
+"text": "[image: Bresnahan Campaign Announces NFIB Endorsement]",
+"href": "https://robforpa.com/bresnahan-campaign-announces-nfib-endorsement/"
+},
+{
+"text": "[image: Bresnahan Campaign Announces U.S. Chamber of Commerce Endorsement]",
+"href": "https://robforpa.com/bresnahan-campaign-announces-u-s-chamber-of-commerce-endorsement/"
+},
+{
+"text": "[image: Bresnahan Earns Endorsement From Pennsylvania State Troopers Association]",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-pennsylvania-state-troopers-association/"
+},
+{
+"text": "[image: Bresnahan Earns Endorsement from Stroud Lodge #75 Fraternal Order of Police]",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-from-stroud-lodge-75-fraternal-order-of-police/"
+},
+{
+"text": "[image: Bresnahan Earns Endorsement of American Federation of Government Employees]",
+"href": "https://robforpa.com/bresnahan-earns-endorsement-of-american-federation-of-government-employees/"
+},
+{
+"text": "[image: Bresnahan Earns Pennsylvania Conference of Teamsters Endorsement]",
+"href": "https://robforpa.com/bresnahan-earns-pennsylvania-conference-of-teamsters-endorsement/"
+},
+{
+"text": "[image: Bresnahan Earns Unified Endorsement from Four Maritime Unions]",
+"href": "https://robforpa.com/bresnahan-earns-unified-endorsement-from-four-maritime-unions/"
+},
+{
+"text": "[image: Democrats for Rob Coalition Launches in Support of Congressman Bresnahan’s Reelection]",
+"href": "https://robforpa.com/democrats-for-rob-coalition-launches-in-support-of-congressman-bresnahans-reelection/"
+},
+{
+"text": "[image: Logo - Rob for PA]",
+"href": "https://robforpa.com/"
+},
+{
+"text": "[image: Rob Bresnahan Announces Launch of “Women for Rob” Coalition]",
+"href": "https://robforpa.com/rob-bresnahan-announces-launch-of-women-for-rob-coalition/"
+},
+{
+"text": "[image: Rob Bresnahan Earns Endorsement from Boilermakers Local 13]",
+"href": "https://robforpa.com/rob-bresnahan-earns-endorsement-from-boilermakers-local-13/"
+}
 ]

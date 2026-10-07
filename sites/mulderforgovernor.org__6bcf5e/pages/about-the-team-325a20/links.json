@@ -1,11 +1,50 @@
 [
-"https://bsky.app/profile/mulderforgov.bsky.social",
-"https://facebook.com/mulderforgov",
-"https://instagram.com/mulderforgov",
-"https://mulderforgovernor.org/",
-"https://mulderforgovernor.org/about-the-team",
-"https://mulderforgovernor.org/get-involved",
-"https://mulderforgovernor.org/on-the-issues",
-"https://mulderforgovernor.org/priorities",
-"https://politics.raisethemoney.com/en/emulderKD7PSBwft39y1pzPyuhmQQ"
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/emulderKD7PSBwft39y1pzPyuhmQQ"
+},
+{
+"text": "Donate To Eric",
+"href": "https://politics.raisethemoney.com/en/emulderKD7PSBwft39y1pzPyuhmQQ"
+},
+{
+"text": "Get involved",
+"href": "https://www.mulderforgovernor.org/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.mulderforgovernor.org/on-the-issues"
+},
+{
+"text": "Priorities",
+"href": "https://www.mulderforgovernor.org/priorities"
+},
+{
+"text": "The Candidates",
+"href": "https://www.mulderforgovernor.org/about-the-team"
+},
+{
+"text": "[image: Eric's Facebook]",
+"href": "https://www.facebook.com/mulderforgov"
+},
+{
+"text": "[image: Eric's Instagram]",
+"href": "https://www.instagram.com/mulderforgov"
+},
+{
+"text": "[image: MulderForGovernor_Logo2_WebsiteHeader2.png]",
+"href": "https://www.mulderforgovernor.org"
+},
+{
+"text": "[image: Patty's Blueksy]",
+"href": "https://bsky.app/profile/mulderforgov.bsky.social"
+},
+{
+"text": "[image: Patty's Instagram]",
+"href": "https://www.instagram.com/mulderforgov"
+},
+{
+"text": "contact@mulderforgovernor.org",
+"href": "mailto:contact@mulderforgovernor.org"
+}
 ]

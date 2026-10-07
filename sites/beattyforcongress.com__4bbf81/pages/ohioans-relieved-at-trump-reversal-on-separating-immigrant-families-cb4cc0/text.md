@@ -1,12 +1,9 @@
-Ohioans relieved at Trump reversal on separating immigrant families
-WASHINGTON — President Donald Trump’s reversal of course on a policy that separated undocumented immigrant children from their parents elicited relief from lawmakers Wednesday, even as some wondered whether they should praise Trump for fixing a problem he created in the first place.
+Join Our Campaign Sign Up Home About Joyce News Get Involved Issues Events Gallery Contact Ohioans relieved at Trump reversal on separating immigrant families Ohioans relieved at Trump reversal on separating immigrant families June 26, 2018 1 Comment in News WASHINGTON — President Donald Trump’s reversal of course on a policy that separated undocumented immigrant children from their parents elicited relief from lawmakers Wednesday, even as some wondered whether they should praise Trump for fixing a problem he created in the first place.
 Though Trump had blamed the policy of separating children from their parents on existing law, it was Attorney General Jeff Sessions’ decision in May to invoke a “zero–tolerance” policy that sparked a flurry of images of children being held in detention centers.
 Trump, who initially said the problem could only be fixed by Congress, signed an executive order Wednesday that called for detaining families together, rather than separating them.
 “We’re going to have a lot of happy people,” Trump said, while arguing prior administrations had seen similar scenes of distressed children being taken from their parents.
 But Rep.
-Joyce Beatty, D–Jefferson Township, said Trump “has no one to blame but himself” for the outcry, which she called “one of the lowest points in his already tumultuous presidency.”
-“Trump’s decision to end his policy separating migrant children from their parents is not one based on ‘compassion,’ because if it were, he would have never instituted his immoral policy in the first place,” she said, adding that his “abrupt reversal is out of political necessity.”
-The executive order comes as Congress continues to wrestle over how to solve an immigration system that all sides agree is broken.
+Joyce Beatty, D–Jefferson Township, said Trump “has no one to blame but himself” for the outcry, which she called “one of the lowest points in his already tumultuous presidency.” “Trump’s decision to end his policy separating migrant children from their parents is not one based on ‘compassion,’ because if it were, he would have never instituted his immoral policy in the first place,” she said, adding that his “abrupt reversal is out of political necessity.” The executive order comes as Congress continues to wrestle over how to solve an immigration system that all sides agree is broken.
 Hardline Republicans and Trump have called for a wall on the southern border, while Democrats have largely focused on how to reverse a Trump decision to allow the deportation of people brought to the U.S. illegally as children.
 But the family separation policy — which Trump and his administration spent days defending — pushed the debate to a boiling point, spurring lawmakers to trip over themselves insisting they did not favor separating parents and children.
 For those impacted, the policy can be wrenching.
@@ -20,19 +17,21 @@ The date for her hearing was recently postponed by the court from April 26 to De
 Her niece’s fate is very much on her mind.
 “I don’t know anything and it’s just heartbreaking,” said Eulalia Pedro Gaspar, speaking in Spanish through a translator.
 “I’m worried about her.” Her niece, she said, “cries every time we talk.
-She’s sad and lonely and she wants to go back to her father or me.”
-Sen.
+She’s sad and lonely and she wants to go back to her father or me.” Sen.
 Rob Portman, R–Ohio, late Wednesday announced he and 26 other senators had introduced a bill that requires that children and their parents remain together during their legal proceedings related to immigration violations.
-He said while he was “pleased” the administration had agreed to keep families apprehended at the border together, “the reality, however, is that this executive order may be subject to litigation almost immediately and that’s why Congress needs to enact a legislative solution.”
-Portman’s bill would help expedite the cases of families in detention and increase the number of immigration judges and resources to make it possible to expedite such cases.
+He said while he was “pleased” the administration had agreed to keep families apprehended at the border together, “the reality, however, is that this executive order may be subject to litigation almost immediately and that’s why Congress needs to enact a legislative solution.” Portman’s bill would help expedite the cases of families in detention and increase the number of immigration judges and resources to make it possible to expedite such cases.
 Sen.
 Sherrod Brown, D-Ohio, who has signed onto a Democratic bill preventing families from being separated, wrote to the secretaries of Health and Human Services and Homeland Security on Wednesday asking the departments to outline what they were doing to care for the physical, mental and emotional well-being of children separated from their parents.
 Brown said he was alarmed by reports that in at least one facility housing children, staff felt they were barred from physically comforting children separated from their parents.
 He said Congress needs a “bipartisan solution that recognizes that we’re not going to deport the 13 million people who are here already,” he said.
-“This policy of separating children is immoral and un-American and it’s shameful.”
-In Ohio, meanwhile, Attorney General Mike DeWine said children of undocumented immigrants apprehended along the border should not be separated from their parents, but declined to expand on his position when questioned by reporters at a news conference on Wednesday morning before Trump’s about-face.
+“This policy of separating children is immoral and un-American and it’s shameful.” In Ohio, meanwhile, Attorney General Mike DeWine said children of undocumented immigrants apprehended along the border should not be separated from their parents, but declined to expand on his position when questioned by reporters at a news conference on Wednesday morning before Trump’s about-face.
 “Laws need to be followed.
 However, this great country should not be in a position of separating children from parents,” the Republican gubernatorial candidate said.
-Asked if he was calling on Trump to reverse his administration’s controversial policy, DeWine replied: “I gave you my statement.”
-This article was originally published by the Columbus Dispatch on June 20, 2018
-Dispatch reporter Randy Ludlow contributed to this story.
+Asked if he was calling on Trump to reverse his administration’s controversial policy, DeWine replied: “I gave you my statement.” This article was originally published by the Columbus Dispatch on June 20, 2018 Dispatch reporter Randy Ludlow contributed to this story. jwehrman@dispatch.com @jessicawehrman dking@dispatch.com Share this: Facebook Twitter Google Plus Pinterest Email to a Friend Previous Post Purging our democracy Next Post Rep.
+Joyce Beatty scolds HUD’s Ben Carson for lack of response to her letters Related News Terms and Conditions/Privacy May 28, 2025 by Beatty Admin $26+ million for Central Ohio March 22, 2021 by Kristie Lam Save Voters Act February 19, 2021 by Kristie Lam Comment (1) Russ July 9, 2018 Reply I concur with Rep.
+Joyce Beatty, when she said that Trump “has no one to blame but himself” for the outcry, which she called “one of the lowest points in his already tumultuous presidency.” Thanks for this post Leave a Reply - Cancel reply Your email address will not be published.
+Required fields are marked (required) Name Email Website Comment LATEST NEWS Terms and Conditions/Privacy 28 May, 2025 $26+ million for Central Ohio 22 March, 2021 Save Voters Act 19 February, 2021 Paid for by Joyce Beatty for Congress Copyright © # All Rights Reserved.
+Joyce Beatty for Congress 222 E.
+Town St.
+Suite 2W Columbus, OH 43215 P.O.
+Box 172 Columbus, OH 43216 Phone: (614) 600-4231 E-mail: beattyforcongress@gmail.com

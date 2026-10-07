@@ -1,1 +1,3 @@
-Representative Wikle talks about how out of touch Trump and Kansas Republicans are with Kansans In the News May 4 Written By Suzanne Wikle Suzanne Wikle
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Representative Wikle talks about how out of touch Trump and Kansas Republicans are with Kansans In the News May 4 Written By Suzanne Wikle Suzanne Wikle Previous Previous Kansas signs off on using expired Narcan to reverse overdoses Next Next 'Big Beautiful Bill': Thousands could lose Medicaid Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

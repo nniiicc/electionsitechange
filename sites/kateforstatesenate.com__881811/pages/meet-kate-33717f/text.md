@@ -1,8 +1,7 @@
-Meet Kate
-Kate McGrath is running for State Senate to fight rising costs, protect working families, and bring opportunity back to Illinois.
+Tweets by katyperrone13 top of page Meet Kate Donate Issues Contact Volunteer More Use tab to navigate through the menu items.
+Meet Kate Kate McGrath is running for State Senate to fight rising costs, protect working families, and bring opportunity back to Illinois.
 As a businesswoman, coach, and mom, she believes Illinois is worth saving and will work to make it a place where families and businesses can thrive.
-Kate's Story
-Kate (Perrone) McGrath was born at MacNeal Hospital in Berwyn and adopted through Catholic Charities.
+Kate's Story Kate (Perrone) McGrath was born at MacNeal Hospital in Berwyn and adopted through Catholic Charities.
 She grew up in Evanston and Glencoe, where she attended New Trier High School.
 From an early age, Kate learned the value of hard work, family, and community—principles that have guided her throughout her life.
 After earning a business degree and competing as a volleyball player at John Carroll University, she returned home to Illinois to build her career and raise her family.
@@ -17,3 +16,5 @@ Kate is running for State Senate because she believes Illinois is worth fighting
 She knows too many families feel like their voices don’t matter in Springfield and she’s determined to change that.
 With her experience as a businesswoman, coach, and mom, Kate will be a strong advocate for working families, better schools, and a stronger economy.
 She is committed to restoring fiscal responsibility, protecting taxpayers, and making Illinois a place where families and businesses can not only stay—but thrive.
+Paid for by Citizens for Kate McGrath.
+A copy of our report, filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, IL. bottom of page

@@ -1,6 +1,8 @@
-Proportional Representation of Diverse Populations
-Updated: May 5
-Winner take all voting systems exclude political minorities from representation.
+top of page This website was built on Wix.
+Create yours today.
+Get Started It don't mean a thing, if it ain't got that Swing!
+Home Blog Blank Page More Use tab to navigate through the menu items.
+All Posts Search Proportional Representation of Diverse Populations Gary Swing Apr 8, 2022 2 min read Updated: May 5 Winner take all voting systems exclude political minorities from representation.
 Only two parties hold seats in Congress.
 No third party candidate has been elected to Congress since 1970, None of the 7,383 seats in state legislatures are held by a candidate who was elected as a member of the third or fourth largest national parties.
 In 2021, Congress had more women than ever before.
@@ -34,3 +36,6 @@ They have five parties in parliament.
 Bolivia sets a 3% threshold.
 They have eight parties in parliament.
 Denmark has ten parties in government with a 2% threshold.
+Recent Posts See All Gary Swing for Progress Platform Supporting My Candidacy Post: Blog2_Post Subscribe Form Submit Thanks for submitting!
+Colyleft by Gary Swing.
+Created with Wix.com bottom of page

@@ -1,7 +1,4 @@
-NEWS
-MARCH 24, 2026
-Statement regarding Cesar Chavez
-LANSING, Mich — State Rep.
+top of page Email SUBSCRIBE RE-ELECT VERONICA PAIZ DONATE DEMOCRAT FOR STATE REPRESENTATIVE HOUSE DISTRICT 10 Welcome News MI House District 10 Endorsements Contact Veronica Issues & Answers NEWS MARCH 24, 2026 Statement regarding Cesar Chavez LANSING, Mich — State Rep.
 Veronica Paiz (D-Harper Woods), a member of the Michigan Legislative Latino Caucus and the Midwest Executive Committee of the National Hispanic Caucus of State Legislators, released the following statement in response to recent New York Times reporting on sexual assault allegations against Cesar Chavez: “My heart is with every survivor who has carried the anguish of Chavez’s heinous crimes for decades.
 I hear you, believe you, and support you.
 “For generations, Cesar Chavez has been heralded as a beacon of justice and dignity for laborers, farmworkers, and Latino Americans.
@@ -21,4 +18,4 @@ We are reminded that the movement civil rights activists Dolores Huerta and Larr
 “If you or someone you know has experienced abuse or assault, know that we stand with you.
 We believe you.
 Call, chat or text Michigan’s 855-VOICES4 to speak to trained advocates available to offer confidential support without judgment.
-Services are available in English and Spanish.”
+Services are available in English and Spanish.” Click to visit the VOICES4 site Veronica Paiz - DEMOCRAT FOR STATE REPRESENTATIVE | MICHIGAN HOUSE DISTRICT 10 - DONATE Follow Veronica on (c) # | Paid for by the Committee to Elect Veronica Paiz, 20052 Hunt Club Dr., Harper Woods, MI 48225 bottom of page

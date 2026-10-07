@@ -1,11 +1,9 @@
-"Tennessee has long been a battle ground for basic liberties and rights, and that fight isn't over.
+Home Platform Volunteer Endorsements Contact Donate The Volunteer Plan "Tennessee has long been a battle ground for basic liberties and rights, and that fight isn't over.
 But the days of trusting the two party system alone to resolve those fights could be.
 It's time Tennessee put the partisanship behind us and put diplomacy and smart policy to work for us.
-Because you and me - we're the future of Tennessee."
-Bring Affordable Internet to Every Tennessee County
+Because you and me - we're the future of Tennessee." ‍ Dave Seeman, Green Party Candidate for Governor of TN Bring Affordable Internet to Every Tennessee County Faster, more reliable, more affordable internet in every Tennessee county, by expanding the municipally owned broadband model that already serves Chattanooga.
+Explore → Copied!
 Faster, more reliable, more affordable internet in every Tennessee county, by expanding the municipally owned broadband model that already serves Chattanooga.
-Explore →
-Copied!
 Chattanooga's municipally owned fiber network became the first gigabit service in the country.
 A $280 million investment returned $2.69 billion in economic benefits and created over 9,500 jobs.
 Faster, more reliable, and cheaper than what the big telecoms offer.
@@ -15,18 +13,16 @@ Tennessee has secured over $813 million in federal Broadband Equity, Access, and
 Network revenues become self-sustaining.
 When a publicly owned utility delivers better service at lower cost than a Fortune 500 company, the market isn't working.
 Our goal is reliable affordable high-speed internet in every county within five years.
-Energy & Infrastructure
-Economic Wellbeing
-Bring Down Drug Prices
+Energy & Infrastructure Economic Wellbeing Collapse ↑ Bring Down Drug Prices Lower the price of prescriptions for every Tennessean by buying in bulk for seven million people, starting with insulin and naloxone.
+Explore → Copied!
 Lower the price of prescriptions for every Tennessean by buying in bulk for seven million people, starting with insulin and naloxone.
 Tennesseans pay some of the highest prescription drug prices in the country.
 The pharmacy benefit manager system takes a cut at every step while hiding the real costs.
 Oregon and Washington built a better model: the Northwest Prescription Drug Consortium now covers over a million people, passes 100% of manufacturer rebates through to consumers, and has saved over $130 million for residents.
 Tennessee has 7 million people, more than enough bargaining power to negotiate real prices.
 We'll establish a state purchasing cooperative, starting with insulin and naloxone, that buys in bulk and passes the savings directly to Tennesseans.
-Healthcare
-Economic Wellbeing
-Build Permanently Affordable Housing
+Healthcare Economic Wellbeing Collapse ↑ Build Permanently Affordable Housing Affordable homes that stay affordable — for you and for the family that buys them next.
+Explore → Copied!
 Affordable homes that stay affordable — for you and for the family that buys them next.
 In the Nashville metro area, home prices have increased roughly 137% in the past decade.
 Knoxville and Chattanooga, and even rural towns have followed similar trajectories.
@@ -36,9 +32,8 @@ And we'll invest in community land trusts, where a nonprofit owns the land, sell
 The Lincoln Institute tracked over 4,000 properties across three decades and found 95% remained affordable through boom, crash, and recovery.
 Nashville and Memphis already have trusts on the ground.
 We'll capitalize and expand them statewide.
-Housing
-Economic Wellbeing
-Build Power Tennessee Owns
+Housing Economic Wellbeing Collapse ↑ Build Power Tennessee Owns State-owned solar and battery storage cuts state government's own power bills, guarantees host counties a payment on every megawatt-hour, and gives Tennessee generation assets no federal policy shift can take away.
+Explore → Copied!
 State-owned solar and battery storage cuts state government's own power bills, guarantees host counties a payment on every megawatt-hour, and gives Tennessee generation assets no federal policy shift can take away.
 Tennessee can build its own renewable generation today, inside the rules that already exist.
 Federal law does require TVA to buy power from qualifying state-owned generators, but only at TVA's self-calculated avoided cost of roughly 4 to 5 cents per kilowatt-hour.
@@ -49,9 +44,8 @@ As state facilities are saturated, the Authority will expand through partnership
 For community solar installations, every megawatt-hour will write a check to the county that hosts it.
 The Authority's enabling law guarantees host communities a per-megawatt-hour payment, delivering an estimated $1.5 to $2.5 million a year to rural host counties within four years, growing to $10 to $15 million a year within a decade.
 This revenue can fund education improvements, infrastructure improvements, or other projects that host communities decide to invest in.
-Energy & Infrastructure
-Climate Action
-Build Tennessee with Tennesseans
+Energy & Infrastructure Climate Action Collapse ↑ Build Tennessee with Tennesseans Hire Tennessee workers and contractors first for every state-funded construction and infrastructure project.
+Explore → Copied!
 Hire Tennessee workers and contractors first for every state-funded construction and infrastructure project.
 When Tennessee builds, Tennesseans should build it.
 A 2016 state law blocks cities like Nashville from the local-hire programs their own voters approved and bars the state itself from preferring Tennessee workers on state-funded projects.
@@ -59,9 +53,8 @@ We'll replace it with a local workforce law for state-funded projects over $500,
 Contractors will meet hours-based Tennessee-workforce goals, with a good-faith off-ramp instead of punitive debarment and targeting based on economic disadvantage, not residency mandates.
 Built-in safeguards include published and objective bid scoring, a neutral first-source referral center so no official ever hand-picks a hire, certified-payroll reporting with an annual public compliance report, and an apprenticeship floor that turns projects into careers.
 This way every dollar Tennessee spends building its own infrastructure can come back as a Tennessee paycheck.
-Jobs, Wages & Innovation
-Climate Action
-Bury Power Lines Where Storms Hit Hardest
+Jobs, Wages & Innovation Climate Action Collapse ↑ Bury Power Lines Where Storms Hit Hardest Keep the power on through storms in Tennessee's highest-damage corridors, starting with a 15- to 20-mile underground pilot in the Memphis-to-Jackson I-40 stretch that serves a Level 1 trauma center and several major employers.
+Explore → Copied!
 Keep the power on through storms in Tennessee's highest-damage corridors, starting with a 15- to 20-mile underground pilot in the Memphis-to-Jackson I-40 stretch that serves a Level 1 trauma center and several major employers.
 To make sure Tennessee's power grid holds up to worsening storms, we'll bury power lines starting with a 15 to 20 mile pilot in the Memphis-to-Jackson I-40 corridor in the highest-damage segments.
 Significant-tornado frequency declines from west to east across Tennessee, putting West Tennessee at the highest risk.
@@ -71,7 +64,9 @@ The pilot costs $45 to $60 million, with federal BRIC and DOE grants potentially
 The pilot will track outage data before and after.
 That data unlocks the expansion to roughly 105 miles of the highest-priority corridors statewide.
 Long term, these corridors can carry power, water, broadband, and gas underground, a proven model in Helsinki and Singapore.
-Close Corporate Tax Loopholes
+Energy & Infrastructure Climate Action Collapse ↑ Close Corporate Tax Loopholes Sixty-three percent of profitable Tennessee corporations pay zero in business tax.
+We'll require worldwide income reporting and set a corporate minimum tax to make sure every corporation pays its fair share.
+Explore → Copied!
 Sixty-three percent of profitable Tennessee corporations pay zero in business tax.
 We'll require worldwide income reporting and set a corporate minimum tax to make sure every corporation pays its fair share.
 Between 2019 and 2022, nearly two-thirds of corporations operating in Tennessee paid nothing in excise tax.
@@ -83,9 +78,8 @@ We'll also set a corporate minimum tax ensuring no profitable corporation pays z
 Combined, these reforms generate an estimated $650 to $900 million a year in revenue Tennessee is currently giving up.
 Every dollar will go to backfilling revenue lost by eliminating the state grocery tax.
 The result is that Tennessee families will get a tax cut of $400 per year on average, funded entirely by closing corporate loopholes.
-Jobs, Wages & Innovation
-Economic Wellbeing
-Close the Coverage Gap
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Close the Coverage Gap Cover the ~95,000 Tennesseans stuck earning too much for TennCare and too little for private insurance, using the federal money Tennessee taxpayers already paid in.
+Explore → Copied!
 Cover the ~95,000 Tennesseans stuck earning too much for TennCare and too little for private insurance, using the federal money Tennessee taxpayers already paid in.
 Tennessee is one of ten states that still hasn't closed the Medicaid coverage gap.
 Every year we don't act, federal dollars that Tennessee taxpayers already paid flow to other states instead.
@@ -94,9 +88,8 @@ The federal government covers 90% of the cost.
 For every dollar Tennessee spends, nine federal dollars come home, roughly $420 to $510 million a year flowing to Tennessee hospitals, clinics, and providers.
 The expansion includes dental, vision, mental health, and addiction treatment coverage.
 Because untreated dental disease and vision problems are significant barriers to employment, Tennesseans won't just be more healthy, they'll be more capable of taking care of themselves and each other.
-Healthcare
-Future Families
-Connect Business Owners to More Resources
+Healthcare Future Families Collapse ↑ Connect Business Owners to More Resources Tennessee founders will get single place to find every state startup program and get help applying for federal grants, with priority for businesses in distressed rural counties.
+Explore → Copied!
 Tennessee founders will get single place to find every state startup program and get help applying for federal grants, with priority for businesses in distressed rural counties.
 Tennessee already has LaunchTN, APEX, Fund Tennessee, and Small Business Development Centers across the state.
 The infrastructure works but it's fragmented across half a dozen agencies, weighted toward founders who already know how to navigate it, and nearly invisible to a first-time entrepreneur in a distressed rural county.
@@ -104,7 +97,8 @@ We'll create grant preparation stipends so founders can afford to compete for gr
 Tennessee captures about $49 million a year in federal innovation awards already, but every unfiled application is money left on the table.
 With a 1.5x match weight for firms in distressed counties we'll make sure the program doesn't only serve urban areas.
 A single front door for founders, modeled on Maryland's TEDCO, will triage people to the right program instead of expecting them to map the system themselves.
-Connect Tennessee with Buses and Trains
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Connect Tennessee with Buses and Trains Match city BRT investments with state dollars, set statewide design standards for dedicated lanes and 10-minute service, and fund corridor feasibility studies for connecting Tennessee cities by rail.
+Explore → Copied!
 Match city BRT investments with state dollars, set statewide design standards for dedicated lanes and 10-minute service, and fund corridor feasibility studies for connecting Tennessee cities by rail.
 Nashville, Memphis, Knoxville, and Chattanooga are all building transit independently.
 Nashville voters approved a $3.1 billion plan with 66% support.
@@ -116,9 +110,8 @@ Statewide BRT design standards will require dedicated lanes, 10-minute peak head
 Memphis needs this most: MATA's ridership has collapsed by roughly three-quarters since 2013, and it remains one of only a few major American metros without dedicated transit funding.
 Rail planning will start with $7.5 million for corridor feasibility studies.
 With federal rail funding now uncertain, Tennessee will be ready to lead building rail across the state and the Southeast as a whole.
-Transit & Mobility
-Climate Action
-Cut the Red Tape on Building Homes
+Transit & Mobility Climate Action Collapse ↑ Cut the Red Tape on Building Homes Give builders ready-made home designs and quick permits, so new homes get built faster near the jobs, schools, and bus routes Tennesseans already use.
+Explore → Copied!
 Give builders ready-made home designs and quick permits, so new homes get built faster near the jobs, schools, and bus routes Tennesseans already use.
 Tennessee home prices have risen faster than wages for a decade.
 The state controls two levers that directly affect what gets built and where: permitting speed and investment criteria.
@@ -130,7 +123,8 @@ We'll also change where affordable housing gets built.
 Tennessee invests $60 million a year in housing tax credits, but scoring doesn't reward proximity to transit or jobs.
 Families end up in locations where $10,000 to $14,000 in annual transportation costs erase the affordability.
 We'll fix the scoring to spend the same amount of money in better locations.
-Draw Maps That Represent Us
+Housing Economic Wellbeing Collapse ↑ Draw Maps That Represent Us Hand redistricting by an independent citizen commission that draws legislative maps using mathematical criteria like equal population, geographic compactness, and respect for existing community boundaries.
+Explore → Copied!
 Hand redistricting by an independent citizen commission that draws legislative maps using mathematical criteria like equal population, geographic compactness, and respect for existing community boundaries.
 Tennessee's legislative districts are drawn by the politicians who benefit from them.
 If a judge ruled on their own case, we'd call it corruption.
@@ -139,20 +133,16 @@ We'll establish an independent redistricting commission made up of citizens, not
 California, Michigan, Arizona, and Colorado all use independent commissions, and their elections are more competitive, their representatives more responsive, and their voters are more engaged.
 We ask politicians to be accountable on taxes, schools, healthcare, and prisons throughout this plan.
 None of that accountability works if voters don't get a fair say in who represents them.
-Democracy & Government
-Public Accountability
-End Chronic Homelessness
-Help people off the street and into real apartments where we can provide medical care, addiction treatment, and counseling they need right to their door - saving money in the process
-About 1,500 to 1,900 Tennesseans are chronically homeless, cycling through emergency rooms, jails, and shelters at $20,000 to $40,000 per person per year with zero housing outcome.
+Democracy & Government Public Accountability Collapse ↑ End Chronic Homelessness Help people off the street and into real apartments where we can provide medical care, addiction treatment, and counseling they need right to their door - saving money in the process Explore → Copied!
+Help people off the street and into real apartments where we can provide medical care, addiction treatment, and counseling they need right to their door - saving money in the process About 1,500 to 1,900 Tennesseans are chronically homeless, cycling through emergency rooms, jails, and shelters at $20,000 to $40,000 per person per year with zero housing outcome.
 Through Housing First we'll build permanent supportive housing with scattered-site apartments, standard leases, no sobriety preconditions, and wraparound services for as long as they're needed.
 A multi-site randomized trial with over 2,000 participants found 73% housing stability at 12 months, with 69% of costs offset by reduced emergency spending.
 As participants stabilize, they transition to standard vouchers, cutting per-person cost by more than half.
 Nashville already operates on Housing First principles.
 We'll connect existing programs statewide and redirect federal and Medicaid dollars from less effective interventions into permanent housing.
 No new state appropriation required.
-Housing
-Community Enrichment
-End Imprisonment for Profit
+Housing Community Enrichment Collapse ↑ End Imprisonment for Profit Phase out Tennessee's contracts with private prison companies over 5 to 10 years, reinvest in rehabilitation and job training, and put a constitutional amendment before voters to make the change permanent.
+Explore → Copied!
 Phase out Tennessee's contracts with private prison companies over 5 to 10 years, reinvest in rehabilitation and job training, and put a constitutional amendment before voters to make the change permanent.
 Private prisons create a financial incentive that runs directly against public safety.
 The company does better when recidivism is higher and sentences are longer.
@@ -162,9 +152,8 @@ CoreCivic has paid $29.5 million in fines since 2022 for understaffing alone.
 We'll phase out private prison contracts over 5 to 10 years as they expire and state facilities absorb capacity.
 We'll reinvest in rehabilitation and job training that actually lowers recidivism.
 And we'll pursue a constitutional amendment to make the commitment permanent, because the Thirteenth Amendment abolished slavery but left a loophole for incarceration, and Tennessee has the opportunity to close it.
-Public Safety & Justice
-Community Enrichment
-End the Grocery Tax
+Public Safety & Justice Community Enrichment Collapse ↑ End the Grocery Tax Drop Tennessee's 4% state grocery tax to zero over three years, saving the average family about $400 a year, paid for by closing corporate tax loopholes.
+Explore → Copied!
 Drop Tennessee's 4% state grocery tax to zero over three years, saving the average family about $400 a year, paid for by closing corporate tax loopholes.
 Tennessee is one of eight states that still taxes groceries at a meaningful rate.
 Working families pay 4% on every trip to the store, the same structure that makes Tennessee's tax system the third most regressive in the country.
@@ -174,9 +163,8 @@ We'll drop the state grocery tax from 4% to 2% in Year 1 and to 0% by Year 3, fo
 The $775 million revenue loss is fully offset by closing corporate tax loopholes.
 Schools lose nothing: the $111 million K-12 earmark shifts from the grocery tax to the Future Families Fund, a more stable source.
 This will save the average family about $400 a year.
-Farms & Food
-Economic Wellbeing
-End the Opioid Crisis
+Farms & Food Economic Wellbeing Collapse ↑ End the Opioid Crisis Get addiction treatment into every county and put the overdose-reversal drug naloxone in every pharmacy, fire station, and school.
+Explore → Copied!
 Get addiction treatment into every county and put the overdose-reversal drug naloxone in every pharmacy, fire station, and school.
 Tennessee loses ten people a day to drug overdoses.
 Only 5.6% of the roughly 70,000 Tennesseans with opioid addiction receive medication-assisted treatment.
@@ -185,9 +173,8 @@ We'll expand medication-assisted treatment to every county using Vermont's hub-a
 Naloxone, the overdose reversal drug, will be freely available at every pharmacy, fire station, and school.
 Every dollar spent on naloxone distribution returns $2,742 in cost savings.
 We'll also crack down on pill mills and invest in recovery-to-work programs that give people a real path back to productive life, because every person pulled back from addiction is a parent who comes home, a worker who shows up, or a neighbor who contributes.
-Healthcare
-Community Enrichment
-Ensure Safe and Responsible Gun Ownership
+Healthcare Community Enrichment Collapse ↑ Ensure Safe and Responsible Gun Ownership Require background checks on every firearm sale, require safe storage when kids are in the home, and create a court-ordered process for temporarily removing firearms from someone in crisis.
+Explore → Copied!
 Require background checks on every firearm sale, require safe storage when kids are in the home, and create a court-ordered process for temporarily removing firearms from someone in crisis.
 Tennessee has a proud tradition of gun ownership, and nothing in this plan changes that.
 These proposals keep guns out of dangerous hands.
@@ -199,9 +186,9 @@ Indiana's red flag law reduced gun suicides by 7.5%.
 Connecticut's reduced them by 13.7%.
 Responsible gun owners already practice these measures.
 A judge reviews evidence, the gun owner gets a hearing and legal representation with the same due process we require before any other temporary restraining order.
-Establish Environmental Justice Protections
-We'll create a Division of Environmental Justice inside the state's environmental agency with the power to deny any permit, stop any polluter running without one, and answer to the communities it protects, so no Tennessee neighborhood has to host an industry that poisons it.
-xAI ran 35 gas turbines, more than 400 megawatts, in Memphis for a year without proper permits, calling them temporary.
+Public Safety & Justice Community Enrichment Collapse ↑ Establish Environmental Justice Protections We'll create a Division of Environmental Justice inside the state's environmental agency with the power to deny any permit, stop any polluter running without one, and answer to the communities it protects, so no Tennessee neighborhood has to host an industry that poisons it.
+Explore → Copied!
+We'll create a Division of Environmental Justice inside the state's environmental agency with the power to deny any permit, stop any polluter running without one, and answer to the communities it protects, so no Tennessee neighborhood has to host an industry that poisons it. xAI ran 35 gas turbines, more than 400 megawatts, in Memphis for a year without proper permits, calling them temporary.
 Shelby County's health department then issued the permits after the turbines had been running.
 To prevent this from happening again, and to fight for clean air retroactively, we will build an Environmental Justice Division (EJD) within the Department of Environment and Conservation (TDEC).
 The EJD will create and publish the Tennessee EnviroScreen, a public map tracking cumulative burdens of pollution, disease, food insecurity, water quality, and more.
@@ -210,9 +197,8 @@ Local programs will be allowed to set higher standards, but no program in a name
 Permit fees will pay for community organizations to take part in permit proceedings and for neighborhood air monitors, and frontline groups will hold reserved seats on the board reviewing each local program.
 The EJD will also be tasked with reviewing and screening all computing facilities by size from one megawatt up and be empowered to order any source running in or beside a named community without a required permit to stop operating, regardless of the temporary or permanent status of their equipment.
 Furthermore, we will make sure that Tennesseans are able to enforce our environmental laws in state court themselves, with attorney's fees when they win, to help ensure that a livable world remains available to us all.
-Civil Rights & Freedoms
-Climate Action
-Establish Paid Family Leave
+Civil Rights & Freedoms Climate Action Collapse ↑ Establish Paid Family Leave Get up to 12 weeks of partial pay to care for a new baby, a sick family member, or your own serious illness, paid for by a small shared payroll premium.
+Explore → Copied!
 Get up to 12 weeks of partial pay to care for a new baby, a sick family member, or your own serious illness, paid for by a small shared payroll premium.
 When a new parent, a cancer patient, or someone caring for a dying parent needs time off, they shouldn't have to choose between their family and their paycheck.
 Tennessee is one of the only states in the Southeast without any form of paid family leave.
@@ -222,9 +208,8 @@ Over 175,000 claims have been filed since benefits started flowing.
 We'll build on Colorado's model.
 At 0.9% of Tennessee's wage base, the program generates roughly $2 billion a year in insurance premium revenue, fully self-funding paid parental leave.
 Tennessee's Department of Labor already runs a modern claims platform that can be adapted to serve this purpose.
-Childcare & Families
-Economic Wellbeing
-Feed Tennessee First
+Childcare & Families Economic Wellbeing Collapse ↑ Feed Tennessee First Build the food hubs, cold storage, and procurement preferences that keep Tennessee-grown food in Tennessee, and expand Pick Tennessee branding so shoppers see Tennessee first at the store.
+Explore → Copied!
 Build the food hubs, cold storage, and procurement preferences that keep Tennessee-grown food in Tennessee, and expand Pick Tennessee branding so shoppers see Tennessee first at the store.
 Chapter 12 farm bankruptcies rose 46% nationally in 2025, with the Southeast seeing a 69% increase.
 Tennessee has rich agricultural land, but we've become too dependent on supply chains that stretch thousands of miles and when those chains break, our communities suffer.
@@ -234,9 +219,8 @@ Pick Tennessee Products already has nearly 3,200 members and growing.
 We'll scale it into a statewide brand with dedicated marketing and retail partnerships, the way Kentucky Proud achieved 70% to 80% recognition statewide.
 We'll also issue tariff buffer grants to help farmers with cover crop diversification and specialty crops that federal aid misses.
 A state that can feed itself is a state that can survive anything.
-Farms & Food
-Climate Action
-Feed Tennessee's Kids
+Farms & Food Climate Action Collapse ↑ Feed Tennessee's Kids Free breakfast and lunch for every kid in Tennessee's highest-need districts, sourced from Tennessee farmers and cooked in upgraded school kitchens.
+Explore → Copied!
 Free breakfast and lunch for every kid in Tennessee's highest-need districts, sourced from Tennessee farmers and cooked in upgraded school kitchens.
 In March 2025, the federal government cancelled programs that put roughly $20 million into Tennessee schools and Tennessee farms.
 Meanwhile, nearly one in five Tennessee children live in a food-insecure household.
@@ -244,9 +228,8 @@ We'll replace the cancelled federal local food purchasing with a state reimburse
 In addition we'll create kitchen capital grants for schools to give those rural districts the refrigeration and prep equipment to cook from fresh ingredients instead of reheating processed food.
 And we'll scale this architecture over time.
 In year 3 to 4 we'll expand to medium-need districts with the goal of reaching universal statewide breakfast and lunch.
-Childcare & Families
-Future Families
-Finance Clean Energy for Every Tennessee Home
+Childcare & Families Future Families Collapse ↑ Finance Clean Energy for Every Tennessee Home Lend Tennessee households and small businesses the upfront capital for rooftop solar, batteries, heat pumps, and weatherization, with repayment built into their utility bills or scaled to their income.
+Explore → Copied!
 Lend Tennessee households and small businesses the upfront capital for rooftop solar, batteries, heat pumps, and weatherization, with repayment built into their utility bills or scaled to their income.
 A $20,000 rooftop solar system or a $3,000 to $5,000 whole-home weatherization is out of reach for most Tennessee families without accessible capital.
 Heat pump water heaters alone save up to $550 per year for a family of four.
@@ -255,7 +238,8 @@ We'll create the Tennessee Green Bank, a state-chartered financing institution c
 Modeled on the Connecticut Green Bank, which has drawn nearly seven dollars of private investment for every public dollar, the Tennessee version will finance residential solar, batteries, heat pumps, and weatherization.
 On-bill or income-based repayment ensures monthly loan payments stay below the energy savings each project delivers so households save money from day one.
 Manufactured housing will be prioritized since Tennessee has one of the highest manufactured housing shares in the country, the population with the highest energy burden and the highest return on weatherization investment.
-Fix Tennessee's Roads and Bridges Before They Fail
+Energy & Infrastructure Climate Action Collapse ↑ Fix Tennessee's Roads and Bridges Before They Fail Tennessee's backlog for roads and bridges is massive, but federal bridge money is sitting unclaimed and shifting to prevention can save money over reconstruction.
+Explore → Copied!
 Tennessee's backlog for roads and bridges is massive, but federal bridge money is sitting unclaimed and shifting to prevention can save money over reconstruction.
 Tennessee is one of a few states that funds roads with no debt, on a 26-cent gas tax set by the 2017 IMPROVE Act.
 That fiscal discipline is worth protecting.
@@ -265,10 +249,9 @@ At least 15% must go to locally owned bridges at up to 100% federal share, no co
 Nationally, states had committed only 57% of these funds by December 2025.
 Small rural counties can't navigate the federal paperwork alone, so we'll pair the drawdown with engineering assistance so every eligible county can access it.
 We'll also shift maintenance spending toward prevention, sealing and treating roads while they're still in fair condition.
-Preventive maintenance cuts lifecycle costs by roughly 25% compared to waiting for reconstruction.
-Energy & Infrastructure
-Community Enrichment
-Get Mental Health Care to Every County
+Preventive maintenance cuts lifecycle costs by roughly #% compared to waiting for reconstruction.
+Energy & Infrastructure Community Enrichment Collapse ↑ Get Mental Health Care to Every County Hire mental health clinicians for understaffed community centers, expand 24/7 mobile crisis response to every county, and open three crisis stabilization centers in Nashville, Memphis, and Knoxville.
+Explore → Copied!
 Hire mental health clinicians for understaffed community centers, expand 24/7 mobile crisis response to every county, and open three crisis stabilization centers in Nashville, Memphis, and Knoxville.
 Tennessee ranks 44th nationally for mental health, with only 52 mental health workers per 10,000 residents.
 Nearly two-thirds of youth with major depression receive no treatment.
@@ -277,7 +260,8 @@ We'll add approximately 160 clinical positions to the state's community mental h
 Three new crisis stabilization units in Nashville, Memphis, and Knoxville will give people in psychiatric crisis a step-down alternative to the emergency room.
 Mobile crisis teams will expand to full 24/7 statewide coverage, including rural satellite teams where response times lag most.
 And we'll fund a loan-repayment pipeline for clinicians who commit to crisis roles makes sure we can staff what we build.
-Give Officers the Trauma-Informed Support They Deserve
+Healthcare Economic Wellbeing Collapse ↑ Give Officers the Trauma-Informed Support They Deserve Put trauma-informed training, peer support, and wellness services in every Tennessee police department, so officers don't break under the weight of the worst calls.
+Explore → Copied!
 Put trauma-informed training, peer support, and wellness services in every Tennessee police department, so officers don't break under the weight of the worst calls.
 Officers experience PTSD and depression at roughly five times the rate of the general population.
 In recent years, more officers have died by suicide than in the line of duty.
@@ -285,7 +269,8 @@ Nearly a quarter report suicidal ideation over their careers, yet fewer than one
 Trauma-informed training equips officers to manage their own occupational trauma and respond thoughtfully to trauma in the communities they serve.
 Nashville's Behavioral Health Services division is already doing this work.
 We'll put it in every department, at every rank, with peer support programs and confidential wellness services that officers can access without stigma.
-Give Tennesseans a Voice in State Priorities
+Public Safety & Justice Community Enrichment Collapse ↑ Give Tennesseans a Voice in State Priorities Survey thousands of Tennesseans every year on what the state should work on, convene panels of randomly selected citizens to deliberate solutions, and require the legislature to hold a hearing and respond in writing within 90 days.
+Explore → Copied!
 Survey thousands of Tennesseans every year on what the state should work on, convene panels of randomly selected citizens to deliberate solutions, and require the legislature to hold a hearing and respond in writing within 90 days.
 Tennessee government has no structured way to find out what Tennesseans actually want it to work on.
 Elections happen every few years, public comment periods draw the usual suspects like lobbyists, while 72% of Tennesseans say the state lacks transparency on spending.
@@ -294,23 +279,27 @@ Each year, a representative sample of 2,000 to 3,000 Tennesseans across the stat
 Two to three times a year, 75 to 100 randomly selected citizens will convene for deliberation, with lost-wage replacement so participation isn't limited to people who can afford to volunteer.
 The relevant legislative committee will be required to hold a hearing within 90 days, and the chair must respond in writing to accept, modify, or decline with reasoning.
 The legislature can say no, but it can't make the recommendation disappear.
-Guarantee Livable Paychecks
+Democracy & Government Public Accountability Collapse ↑ Guarantee Livable Paychecks Raise Tennessee's minimum wage to $19 an hour over four years, starting at $12 the first year, and let cities set their own wage floors above the state level.
+Explore → Copied!
 Raise Tennessee's minimum wage to $19 an hour over four years, starting at $12 the first year, and let cities set their own wage floors above the state level.
 Tennessee has no state minimum wage.
 The state defaults to the federal floor of $7.25 an hour, unchanged since 2009.
 The MIT Living Wage Calculator puts basic expenses for a family of four at nearly $19.
 We'll phase the minimum wage up over four years: $12, $15, $17, $19, pegged to the cost of living and adjusted annually after that.
+California raised fast-food wages to $20 and saw no reduction in employment.
 Arkansas phased from $6.25 to $11 without documented job losses.
 We'll pair the increase with tax credits and technical assistance for small businesses during the transition.
 We'll also repeal the preemption law that blocks cities from setting their own wages.
 Even if the legislature won't move on $19 immediately, bigger cities like Nashville, Memphis, Knoxville, and Chattanooga should have the authority to set wages that reflect their own cost of living.
-Harden Our Water Systems
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Harden Our Water Systems Strengthen Tennessee's drinking water plants and pipelines against extreme weather, and bundle the work with underground power-line corridors where the routes line up.
+Explore → Copied!
 Strengthen Tennessee's drinking water plants and pipelines against extreme weather, and bundle the work with underground power-line corridors where the routes line up.
 Hurricane Helene damaged 24 drinking water facilities and forced advisories to boil water across East Tennessee.
 Systems that were aging before climate change are now facing extreme weather they were never designed to withstand.
 We'll invest in hardening critical water treatment and distribution systems and building redundancy so that when one system goes down, others can pick up the load.
 Where routes align, we'll bundle water hardening with the underground power corridor program to save on construction costs and minimize disruption.
-Help Every Veteran Claim What They've Earned
+Energy & Infrastructure Climate Action Collapse ↑ Help Every Veteran Claim What They've Earned Help forty thousand more Tennessee veterans claim the federal benefits they've earned, through better claim filing in every county, veteran-to-veteran peer support, rural digital screening, and on-site employment help at Tennessee's VA medical centers.
+Explore → Copied!
 Help forty thousand more Tennessee veterans claim the federal benefits they've earned, through better claim filing in every county, veteran-to-veteran peer support, rural digital screening, and on-site employment help at Tennessee's VA medical centers.
 Tennessee has roughly 397,600 veterans.
 The state doesn't track whether its 95 county veteran service officers are filing claims, whether those claims get approved, or how much federal money they're securing.
@@ -320,9 +309,8 @@ A veteran-to-veteran peer support network, modeled on New York's Joseph P.
 Dwyer Project, will start in 30 high-need rural counties.
 Employment specialists embedded in Tennessee's VA medical centers will use Individual Placement and Support, where a randomized trial found 68.6% of veterans with PTSD obtained competitive employment.
 Our target to reach 40,000 new veterans receiving VA benefits within four years.
-Veterans, Seniors & Aging
-Community Enrichment
-Help New Farmers Get Onto Tennessee Land
+Veterans, Seniors & Aging Community Enrichment Collapse ↑ Help New Farmers Get Onto Tennessee Land Make land access easier for new Tennessee farmers, with state cost-share for land leases, property-tax relief for small operations, and beginning-farmer lease provisions in conservation easements.
+Explore → Copied!
 Make land access easier for new Tennessee farmers, with state cost-share for land leases, property-tax relief for small operations, and beginning-farmer lease provisions in conservation easements.
 Tennessee loses beginning farmers at high rates.
 More than half exit agriculture within their first decade.
@@ -331,7 +319,8 @@ We already have the Tennessee Agricultural Enhancement Program's Beginning Farme
 What we need next is a mechanism that directly incentivizes landowners to lease to beginning farmers.
 We'll expand TAEP to include land lease cost-share, lower the Greenbelt Law's acreage minimum from 15 to 5 acres so small operations qualify for property tax relief, and direct Farmland Preservation funds toward easements with beginning farmer lease provisions.
 We can create more farmland in Tennessee using tools that already work in Tennessee without new taxes or new bureaucracy, simply by expanding and improving programs we already run.
-Help Tennessee Towns Build Walkable Streets
+Farms & Food Climate Action Collapse ↑ Help Tennessee Towns Build Walkable Streets Match local investments and provide technical assistance for traffic calming, bike lanes, and pedestrian-priority zones in Tennessee towns that want them.
+Explore → Copied!
 Match local investments and provide technical assistance for traffic calming, bike lanes, and pedestrian-priority zones in Tennessee towns that want them.
 Small towns across Tennessee, from Jonesborough to Collierville to Cookeville, already have walkable downtown cores residents love.
 What they don't have is funding at scale: TDOT's Multimodal Access Grants help, but at roughly $4 million a cycle capped at $1.25 million per project and limited to state routes, they're nowhere near what 300-plus towns need.
@@ -341,7 +330,8 @@ The Tennessee Department of Transportation will run pilot programs for traffic c
 The state provides matching grants and technical assistance.
 This way each community decides what fits, because a town square in Pikeville has different needs than a corridor in Murfreesboro.
 When communities design their own streets, they build places people actually want to live.
-Hold Data Centers to Tennessee's Standards
+Transit & Mobility Climate Action Collapse ↑ Hold Data Centers to Tennessee's Standards We'll hold every data center in Tennessee to one state standard it cannot split, rename, or bargain its way around, where outages run on batteries and fossil engines may run only to keep people safe.
+Explore → Copied!
 We'll hold every data center in Tennessee to one state standard it cannot split, rename, or bargain its way around, where outages run on batteries and fossil engines may run only to keep people safe.
 Nashville wrote Tennessee's first local data center rules in 2026, and a developer sued within weeks.
 Counties on their own could lose fights against billion-dollar operators, which is why we need statewide legislation.
@@ -356,7 +346,8 @@ We'll ban nondisclosure agreements between an operator and any unit of governmen
 Every facility will register with the state each year, pay the fee that funds its own oversight, and post a bond that pays to clear the site if it's abandoned.
 The state will refuse registration when a facility would push a community's pollution and health burdens above the lower of the state or county median.
 Tennessee has the land and power these companies want so we get to set the terms and make sure no county has to win their fight on their own.
-Hold State Government Accountable
+Energy & Infrastructure Community Enrichment Collapse ↑ Hold State Government Accountable Audit every state program over $25 million each year, stand up an office to claim the federal grants Tennessee is leaving on the table, and put every dataset the state collects online in a searchable form.
+Explore → Copied!
 Audit every state program over $25 million each year, stand up an office to claim the federal grants Tennessee is leaving on the table, and put every dataset the state collects online in a searchable form.
 In 2010, Tennessee gave Hemlock Semiconductor a $95 million FastTrack grant to build a plant in Clarksville.
 The plant closed in 2014.
@@ -366,7 +357,8 @@ We'll require annual evaluation of every state program above $25 million, with e
 A Tennessee Federal Opportunity Office will identify federal grants we qualify for and provide grant-writing support to rural counties that lack staff to compete.
 We'll require every state agency to publish its datasets in machine-readable form on a single portal within 24 months.
 Colorado's comparable audit office identified $346.8 million in benefits in one fiscal year.
-Honor First Nations
+Democracy & Government Public Accountability Collapse ↑ Honor First Nations Protect Indigenous sacred sites, teach Tennessee students about indigenous history of the state, build government-to-government partnerships with tribal nations, and return remains and sacred objects from state museums.
+Explore → Copied!
 Protect Indigenous sacred sites, teach Tennessee students about indigenous history of the state, build government-to-government partnerships with tribal nations, and return remains and sacred objects from state museums.
 The word "Tennessee" comes from Tanasi, a Cherokee town on the Little Tennessee River.
 Before this was Tennessee, it was already home.
@@ -379,9 +371,8 @@ We'll build government-to-government partnerships with the Cherokee Nation, Chic
 And we'll accelerate the return of remains and sacred objects held by state museums.
 Tennessee's story didn't begin in 1796.
 Honoring the people who came before us makes our state more complete, not less.
-Civil Rights & Freedoms
-Community Enrichment
-Keep the Government Out of Medical Decisions
+Civil Rights & Freedoms Community Enrichment Collapse ↑ Keep the Government Out of Medical Decisions Protect Tennesseans' right to make their own medical decisions, with expanded access to contraception, comprehensive sex education, and real support for pregnant women and families.
+Explore → Copied!
 Protect Tennesseans' right to make their own medical decisions, with expanded access to contraception, comprehensive sex education, and real support for pregnant women and families.
 The states with the lowest abortion rates aren't the ones with the strictest bans.
 They're the ones with the best sex education, the most accessible birth control, and the strongest support for mothers and families.
@@ -394,7 +385,8 @@ They're women raising children and making some of the hardest medical decisions 
 In July 2025, Tennessee became the first Southern state to protect access to IVF and birth control under state law.
 We'll enforce and expand that protection.
 Every Tennessean has the right to make their own medical decisions without the government standing in the exam room.
-Legalize Cannabis
+Civil Rights & Freedoms Community Enrichment Collapse ↑ Legalize Cannabis Create a regulated adult-use cannabis market, automatically clear records for every Tennessean with a cannabis-only offense, and direct equity grants to entrepreneurs from the communities most affected by cannabis enforcement.
+Explore → Copied!
 Create a regulated adult-use cannabis market, automatically clear records for every Tennessean with a cannabis-only offense, and direct equity grants to entrepreneurs from the communities most affected by cannabis enforcement.
 Eighty-one percent of Tennesseans support legalization, including 53% of Republicans.
 Legal cannabis generated $30 billion in national sales in 2024.
@@ -406,7 +398,8 @@ Every Tennessean with a cannabis-only offense gets their record cleared automati
 California is the only state that's done truly automatic record clearing.
 Tennessee will be the first in the South.
 A Cannabis Equity Fund capitalized from licensing fees provides direct capital grants to entrepreneurs in communities disproportionately affected by enforcement so social equity applicants pay zero in license fees.
-Let Farmers Fix Their Own Equipment
+Public Safety & Justice Community Enrichment Collapse ↑ Let Farmers Fix Their Own Equipment Tennessee farmers can fix their own tractors and combines or hire a local mechanic, with manufacturers required to provide diagnostic tools, parts, and software on fair terms.
+Explore → Copied!
 Tennessee farmers can fix their own tractors and combines or hire a local mechanic, with manufacturers required to provide diagnostic tools, parts, and software on fair terms.
 When a combine breaks down during harvest, a Tennessee farmer should be able to fix it.
 Instead, major equipment manufacturers lock diagnostic software, restrict parts access, and void warranties unless repairs go through their authorized dealer network.
@@ -415,7 +408,8 @@ The wait can cost a crop.
 Colorado became the first state to pass an agricultural right-to-repair law in 2023 with bipartisan support.
 The equipment market didn't collapse and instead manufacturers adapted, consumers benefited, and independent repair shops stayed in business.
 We'll pass a right-to-repair statute requiring manufacturers to provide diagnostic tools, parts, and software on fair and reasonable terms.
-Let New Hospitals and Clinics Open
+Farms & Food Economic Wellbeing Collapse ↑ Let New Hospitals and Clinics Open Open new clinics and hospitals in the 93 of 95 counties without enough care, by repealing the rule that requires state permission to build them.
+Explore → Copied!
 Open new clinics and hospitals in the 93 of 95 counties without enough care, by repealing the rule that requires state permission to build them.
 Ninety-three of Tennessee's 95 counties are federally designated healthcare shortage areas.
 A quarter of rural counties have no hospital at all.
@@ -424,7 +418,8 @@ Tennessee currently blocks new hospitals and clinics from opening unless the sta
 In practice, the rule protects existing hospital monopolies and keeps new providers out of the counties that need them most.
 We'll repeal Certificate of Need just like South Carolina did in 2023.
 Healthcare access in every county starts with letting providers open.
-Let Tennesseans Earn More Without Losing Benefits
+Healthcare Economic Wellbeing Collapse ↑ Let Tennesseans Earn More Without Losing Benefits Help working Tennesseans keep more of every raise by gradually phasing out Medicaid, SNAP, and childcare subsidies instead of cutting off all at once.
+Explore → Copied!
 Help working Tennesseans keep more of every raise by gradually phasing out Medicaid, SNAP, and childcare subsidies instead of cutting off all at once.
 Tennessee has a hidden tax on work.
 When a family's income rises even slightly, government benefits don't phase out gradually.
@@ -434,7 +429,8 @@ The Future Families Fund will pay for childcare and healthcare up to 300% of the
 But those investments are wasted if a modest raise costs families everything the Fund just provided.
 We'll replace cliffs with gradual phase-outs, sliding-scale copayments, and transition periods where benefits taper as income rises.
 Modern eligibility systems will calculate sliding-scale benefits in real time instead of applying binary cutoffs.
-Let Tennessee Seniors Age at Home
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Let Tennessee Seniors Age at Home Tennessee seniors age in their own homes, with better-paid home health aides, Meals on Wheels, senior transportation, and elder abuse prevention.
+Explore → Copied!
 Tennessee seniors age in their own homes, with better-paid home health aides, Meals on Wheels, senior transportation, and elder abuse prevention.
 Tennessee has rebalanced its long-term care spending to roughly the national average.
 But 15,000 Tennesseans still live in nursing facilities, and by 2040 the oldest cohort will grow 72%.
@@ -445,7 +441,8 @@ We'll also raise home health aide wages from Tennessee's $14.65 average and buil
 Lastly, we'll increase funding for Meals on Wheels, senior transportation, and elder abuse prevention.
 The upfront investment is $75 million in Year 1.
 By Year 5, shifting 400 people a year from facilities to home care generates $181 million in gross Medicaid savings.
-Make Childcare Affordable for Working Families
+Veterans, Seniors & Aging Community Enrichment Collapse ↑ Make Childcare Affordable for Working Families Cover childcare costs for working Tennessee families earning up to $99,000, with parents free to choose center-based, home-based, or faith-based providers.
+Explore → Copied!
 Cover childcare costs for working Tennessee families earning up to $99,000, with parents free to choose center-based, home-based, or faith-based providers.
 Tennessee already subsidizes childcare for families up to roughly $87,000 through Smart Steps.
 But families earning more get nothing despite being unable to afford quality care on their own.
@@ -455,7 +452,8 @@ Reimbursement rates tied to actual cost-of-care data ensure providers are paid f
 If federal childcare funding is cut, the Fund backstops the full population so no Tennessee family loses coverage because of decisions made in Washington.
 Together with CoverKids, this creates one threshold: if your family earns under $99,000, your kids are covered.
 Healthcare and childcare, no gaps.
-Make Data Centers Pay to Strengthen the Grid with Renewables
+Childcare & Families Future Families Collapse ↑ Make Data Centers Pay to Strengthen the Grid with Renewables We'll make data centers strengthen our grid, match demand with renewables, and pay for their infrastructure and stranded assets so that their buildout never lands on your power bill.
+Explore → Copied!
 We'll make data centers strengthen our grid, match demand with renewables, and pay for their infrastructure and stranded assets so that their buildout never lands on your power bill.
 In Tennessee communities with data centers, residential bills rose 3.2 percent from 2023 to 2024 while commercial bills fell.
 It could get worse: the Tennessee Valley Authority has fielded roughly 11,000 megawatts of data center requests, five times the data center load it serves today.
@@ -470,7 +468,9 @@ In grid emergencies where a utility orders a load cut the facility may draw no g
 The security is held by the Tennessee Renewable Power Authority, and the grants run through the Tennessee Green Bank.
 Neither exists yet, so until they do the State Treasurer will hold the security and the state's Office of Energy Programs will run the grants.
 This way a company building here covers its own costs and depends on the same grid we do, so the houses next door keep their money safe and their lights on.
-Make PFAS Polluters Pay for Tennessee's Cleanup
+Energy & Infrastructure Climate Action Collapse ↑ Make PFAS Polluters Pay for Tennessee's Cleanup Billions in settlement money is sitting on the table.
+Tennessee collects only if every water system files.
+Explore → Copied!
 Billions in settlement money is sitting on the table.
 Tennessee collects only if every water system files.
 Two national PFAS settlements are already paying out to public water systems: 3M's package worth $10.3 billion and a combined Chemours, DuPont, and Corteva settlement adds $1.185 billion.
@@ -483,7 +483,8 @@ Roughly one in five Tennesseans rely on private wells with no federal monitoring
 These families have no way to know what's in their water.
 So our fund will pay for two things: getting PFAS firefighting foam out of Tennessee fire stations and testing and treating private wells.
 All of this without new taxes or existing revenue - the companies that made the chemicals pay to clean them up.
-Open Tennessee's Primary Elections
+Democracy & Government Public Accountability Collapse ↑ Open Tennessee's Primary Elections Every registered Tennessee voter can vote in the primary, so the people paying for the election decide who appears on the November ballot.
+Explore → Copied!
 Every registered Tennessee voter can vote in the primary, so the people paying for the election decide who appears on the November ballot.
 Tennessee taxpayers fund every primary election.
 In August 2024, just 13.9% of registered voters showed up, compared to 63.4% in November.
@@ -492,7 +493,8 @@ In a state where many general elections are effectively decided in the primary, 
 Tennessee's primary rules are so vague that the League of Women Voters has filed a federal lawsuit challenging them as unconstitutionally unclear.
 States that opened their primaries, including Alaska, California, and Washington, see significantly higher turnout and broader participation.
 We'll open Tennessee's primaries to every registered voter so the people paying for the election decide who appears on the November ballot.
-Pause New Data Centers Until Communities Get a Say
+Democracy & Government Public Accountability Collapse ↑ Pause New Data Centers Until Communities Get a Say No new data center will break ground in Tennessee until the state has the office and the standards to weigh its harm and the community it lands in has a say, and we'll build that capacity first.
+Explore → Copied!
 No new data center will break ground in Tennessee until the state has the office and the standards to weigh its harm and the community it lands in has a say, and we'll build that capacity first.
 Data centers have already requested roughly 11,000 megawatts of power; that's five times the data center load served today.
 Right now, the facilities in that queue cannot be properly evaluated because Tennessee has no office to enforce environmental justice or to comprehensively evaluate and track how new and existing operations affect communities.
@@ -507,9 +509,8 @@ Projects filed during the pause will pay their fees up front, so the queue can f
 Projects in a community the EnviroScreen map flags for pollution and health burden will have to leave that burden lower than they found it and sign a binding agreement the EJ Division enforces.
 Data centers can wait.
 The air, the water, and the quiet the rest of us enjoy cannot.
-Energy & Infrastructure
-Public Accountability
-Pay Farmers and Foresters to Restore Land and Waterways
+Energy & Infrastructure Public Accountability Collapse ↑ Pay Farmers and Foresters to Restore Land and Waterways Tennessee farmers and forest landowners get paid for practices that build soil carbon, maintain tree cover, and keep nitrogen and phosphorus out of rivers and streams.
+Explore → Copied!
 Tennessee farmers and forest landowners get paid for practices that build soil carbon, maintain tree cover, and keep nitrogen and phosphorus out of rivers and streams.
 Tennessee has about 14 million acres of forestland and almost 11 million acres of farmland.
 Both are carbon sinks.
@@ -522,7 +523,8 @@ The Tennessee Agricultural Enhancement Program has invested more than $309 milli
 We'll add nutrient-reduction practices as eligible cost-share categories, including cover crops, saturated buffers, and riparian plantings.
 Tennessee's own data attributes 85% of nitrogen and 89% of phosphorus loads to nonpoint, precipitation-driven sources.
 This uses an existing program farmers already trust to cut the pollution flowing into Tennessee's rivers.
-Protect Every Tennessean Equally
+Farms & Food Climate Action Collapse ↑ Protect Every Tennessean Equally Restore Tennessee's civil rights enforcement office, let cities pass their own nondiscrimination ordinances, and enact statewide protections in employment, housing, and public accommodations covering sexual orientation and gender identity.
+Explore → Copied!
 Restore Tennessee's civil rights enforcement office, let cities pass their own nondiscrimination ordinances, and enact statewide protections in employment, housing, and public accommodations covering sexual orientation and gender identity.
 In 2025, Tennessee dissolved its own Human Rights Commission.
 Federal enforcement is fracturing at the same time.
@@ -533,7 +535,8 @@ Virginia enacted comprehensive protections in 2020 and the law remained in effec
 We'll repeal the preemption so cities can act now.
 We'll enact statewide protections consistent with the Virginia model.
 And we'll restore an enforcement mechanism so these protections mean something beyond paper.
-Protect Our Right to Vote
+Civil Rights & Freedoms Community Enrichment Collapse ↑ Protect Our Right to Vote Register voters automatically at the DMV, let anyone vote absentee without an excuse, give every employee a paid day off to vote during early voting, and keep federal agents away from Tennessee polling places.
+Explore → Copied!
 Register voters automatically at the DMV, let anyone vote absentee without an excuse, give every employee a paid day off to vote during early voting, and keep federal agents away from Tennessee polling places.
 Almost 70% of Tennessee's 2024 votes were cast during early voting.
 Tennesseans vote when voting is accessible.
@@ -545,7 +548,8 @@ We'll allow no-excuse absentee voting so shift workers and farmers don't have to
 A flexible voting holiday gives every worker one paid day off during early voting, with the employer choosing which day so businesses aren't all shut down at once.
 Tennessee elections are run by Tennesseans.
 No federal agency may station personnel at a Tennessee polling place without a county invitation.
-Protect TVA and Hold Nuclear Accountable
+Democracy & Government Public Accountability Collapse ↑ Protect TVA and Hold Nuclear Accountable Keep TVA public, and demand rigorous cost oversight on the small modular reactor Tennessee taxpayers are helping fund at Clinch River.
+Explore → Copied!
 Keep TVA public, and demand rigorous cost oversight on the small modular reactor Tennessee taxpayers are helping fund at Clinch River.
 In Tennessee, TVA operates four nuclear reactors across two plants, generating enough clean baseload power to serve more than 4.5 million homes.
 TVA is also now developing a small modular reactor (SMR) at Clinch River, backed by $400 million from the Department of Energy and up to $50 million in state funds committed in the state budget.
@@ -557,7 +561,8 @@ SMR technology carries real cost pressures, timeline risks, and ongoing risk fro
 We'll make sure no corners are cut because Tennessee ratepayers deserve rigorous accountability for every dollar spent.
 Lastly, Tennessee Valley Authority is a public utility and must stay that way.
 No privatization or sell-off, unless we can transfer ownership of our grid to Tennessee itself, which could further unlock renewable energy generation at all levels in our state.
-Put a Community Health Center in Every County
+Energy & Infrastructure Climate Action Collapse ↑ Put a Community Health Center in Every County Healthcare you can afford regardless of insurance, brought to every Tennessee county through new satellite clinics, mobile health units, and trained community health workers.
+Explore → Copied!
 Healthcare you can afford regardless of insurance, brought to every Tennessee county through new satellite clinics, mobile health units, and trained community health workers.
 Tennessee has 30 Federally Qualified Health Centers and about 200 delivery sites, but entire counties have no community health presence.
 We'll invest in satellite campuses and mobile health units to expand that model statewide, with state matching funds for every new site in an underserved area.
@@ -568,7 +573,8 @@ Lastly, we'll get community health workers reimbursed through TennCare.
 These are trusted members of their own communities who reduce ER visits and connect people to services they didn't know existed.
 Michigan got federal approval for this.
 Tennessee should be next.
-Reach Every Tennessean When Disaster Hits
+Healthcare Economic Wellbeing Collapse ↑ Reach Every Tennessean When Disaster Hits Every Tennessean gets a warning in time and finds an accessible shelter when disaster strikes, through a 95-county emergency management assessment, last-mile alert pilots in high-risk areas, and a statewide shelter accessibility inventory.
+Explore → Copied!
 Every Tennessean gets a warning in time and finds an accessible shelter when disaster strikes, through a 95-county emergency management assessment, last-mile alert pilots in high-risk areas, and a statewide shelter accessibility inventory.
 The 2020 Cookeville tornado killed 19 people at 1:50 in the morning and the 2021 Waverly flood killed 20 people because warnings couldn't reach them.
 Nighttime tornadoes kill at 2.5 times the rate of daytime events, a disparity directly tied to warning reach.
@@ -577,7 +583,8 @@ What hasn't been built is the local capacity to use it.
 The gap between detecting a storm and getting a warning to a house at 2 a.m. remains critical.
 And Tennessee has no published shelter list with accessibility information, despite over 1.7 million adults with disabilities.
 We'll close those gaps with a 95-county emergency management assessment, last-mile warning pilots in the highest-risk areas, and a statewide shelter inventory with accessibility details and live status reporting so families can find a confirmed-open shelter when a storm hits.
-Regulate AI and Datacenters on Tennessee's Terms
+Energy & Infrastructure Climate Action Collapse ↑ Regulate AI and Datacenters on Tennessee's Terms Extend the ELVIS Act's voice protections to every form of synthetic media, ban AI-driven social scoring and mass surveillance, and hold AI companies to standards when their decisions affect Tennesseans' jobs, housing, healthcare, or freedom.
+Explore → Copied!
 Extend the ELVIS Act's voice protections to every form of synthetic media, ban AI-driven social scoring and mass surveillance, and hold AI companies to standards when their decisions affect Tennesseans' jobs, housing, healthcare, or freedom.
 Tennessee started this fight.
 The Ensuring Likeness, Voice, and Image Security Act was the first law protecting against AI voice cloning.
@@ -589,9 +596,8 @@ AI-generated media will carry provenance markings, extending the ELVIS Act's pro
 Companies following the National Institute of Standards and Technology AI standards earn a rebuttable presumption of compliance.
 Cut corners and you're exposed.
 And a Tennessee AI Commission will classify systems and recommend enforcement.
-Civil Rights & Freedoms
-Public Accountability
-Regulate AI to Enforce Safety, Freedom, and Fairness
+Civil Rights & Freedoms Public Accountability Collapse ↑ Regulate AI to Enforce Safety, Freedom, and Fairness We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
+Explore → Copied!
 We'll require companies to mark synthetic images, videos, and sounds as machine-made, regulate the use of companions, ban biometric mass-surveillance without a judge's order, protect prices on essential goods and services, and create a permanent state commission to enforce the rules alongside the Attorney General.
 While Tennessee's voice-cloning ban was the country's first, it stops at voice and likeness and could go much further to regulate AI.
 Right now hiring algorithms can screen out Tennessee applicants without any information or appeal to a person's judgment and chatbots can impersonate personal relationships to keep your attention without disclosure.
@@ -603,7 +609,8 @@ When a machine makes or shapes a decision about your job, home, or medical care,
 Lastly, we'll make it illegal for a business to price essential goods and services like groceries, rents, or emergency services based on your data.
 A permanent Tennessee AI Commission will write the rules, register every system that's affected, and demand records necessary for enforcement.
 We'll also make sure the Attorney General enforces every duty, and that persons harmed can sue.
-Repeal the Voucher Program and Invest in Schools and Teachers
+Civil Rights & Freedoms Public Accountability Collapse ↑ Repeal the Voucher Program and Invest in Schools and Teachers Smaller class sizes, more counselors and special education aides, and retention bonuses for teachers at the schools that need them most.
+Explore → Copied!
 Smaller class sizes, more counselors and special education aides, and retention bonuses for teachers at the schools that need them most.
 In 2025, Tennessee surveyed 42,000 educators about their needs.
 The top answer wasn't pay.
@@ -611,9 +618,8 @@ It was working conditions: planning time, discipline support, and class sizes.
 We'll repeal the Education Freedom Scholarship program and redirect $144 million a year into public schools.
 Combined with $200 million from the Future Families Fund, we'll pay for behavioral health specialists to bring counselor ratios to national standards, enforce class size caps by hiring more teachers, paraprofessionals for every self-contained special education classroom, and pay retention stipends at the schools that need them most.
 The package starts at the 108 lowest-performing schools and expands only after independent evaluation proves it works.
-Schools & Teachers
-Future Families
-Restore Historically Harmed Neighborhoods
+Schools & Teachers Future Families Collapse ↑ Restore Historically Harmed Neighborhoods Fund homeownership assistance, small business grants, and anti-displacement protections in neighborhoods harmed by federal redlining and state highway routing, so longtime residents share in the recovery they're owed.
+Explore → Copied!
 Fund homeownership assistance, small business grants, and anti-displacement protections in neighborhoods harmed by federal redlining and state highway routing, so longtime residents share in the recovery they're owed.
 Federal redlining maps graded Black neighborhoods across Nashville, Memphis, Chattanooga, and Knoxville as "hazardous" because of the color of the people living in them.
 When Interstate 40 needed a route through Nashville, the state moved it through Jefferson Street, demolishing 626 homes and 128 businesses in the city's largest Black commercial district.
@@ -621,7 +627,8 @@ The Federal Reserve has documented that the effects persist today, in the same n
 We'll create a Community Restoration Fund targeting communities with documented histories of government-caused disinvestment statewide: down payment assistance and community land trusts so longtime residents build equity, startup grants for entrepreneurs, and anti-displacement protections so that when investment raises property values, the people who stayed through decades of neglect aren't priced out by the recovery.
 This is not handout, favoritism, or discrimination.
 It's recompense, and the receipts are in the public record.
-Restore Tennessee's Rivers and Wildlife
+Civil Rights & Freedoms Community Enrichment Collapse ↑ Restore Tennessee's Rivers and Wildlife Tennessee sits in the most aquatically biodiverse river system on the continent, and the federal government will pay most of the cost to protect it.
+Explore → Copied!
 Tennessee sits in the most aquatically biodiverse river system on the continent, and the federal government will pay most of the cost to protect it.
 Tennessee's rivers are home to more freshwater species than almost anywhere on Earth.
 The Cumberland River Aquatic Center has already produced 170,990 juvenile mussels across 17 species, 11 of which are federally endangered.
@@ -630,7 +637,8 @@ We'll draw down every available dollar from the federal State Wildlife Grants pr
 Tennessee's 2025 State Wildlife Action Plan was approved by the U.S.
 Fish and Wildlife Service in May 2026, unlocking that match.
 We'll also scale the propagation center and expand recovery across the Tennessee and Cumberland river systems.
-Run Scheduled Buses Between Rural Counties
+Energy & Infrastructure Climate Action Collapse ↑ Run Scheduled Buses Between Rural Counties Run scheduled bus service between the 75 Tennessee counties without it and their regional hubs, with at least one round-trip per weekday, $5 round-trip fares, and free service for seniors and veterans.
+Explore → Copied!
 Run scheduled bus service between the 75 Tennessee counties without it and their regional hubs, with at least one round-trip per weekday, $5 round-trip fares, and free service for seniors and veterans.
 Tennessee has 95 counties and in roughly three-quarters of them, there is no fixed-route bus service.
 Today's demand-response system only works for the trip you plan a week ahead, not for the job you have to be at every Tuesday at 6 a.m.
@@ -638,7 +646,8 @@ We'll establish opt-in Regional Transit Authorities through Tennessee's nine Dev
 At least one fixed-route round-trip per weekday between each participating county seat and the nearest regional hub, with fees capped at $5 round trip and free rides for seniors and veterans.
 We'll make sure schedules are published in standard transit data format so routes appear in map applications.
 We'll also layer new state operating dollars on top of the existing IMPROVE Act transit investment grants of roughly $21 million per year and federal Section 5311 funds, with no unfunded mandate on any county.
-Run Tennessee's Own Healthcare Marketplace
+Transit & Mobility Climate Action Collapse ↑ Run Tennessee's Own Healthcare Marketplace Lower healthcare premiums for Tennessee families by taking over Tennessee's marketplace from the federal government and keeping the fees Tennessee already pays.
+Explore → Copied!
 Lower healthcare premiums for Tennessee families by taking over Tennessee's marketplace from the federal government and keeping the fees Tennessee already pays.
 About 643,000 Tennesseans buy health insurance through the federal healthcare.gov platform.
 Tennessee has no say in how that market operates, and the fees those Tennesseans pay on their premiums, roughly $120 million a year, leave the state entirely.
@@ -648,7 +657,8 @@ A state reinsurance program targets a 10 to 15% premium reduction for every mark
 For Tennesseans earning $30,000 to $45,000, we'll also cap premiums at 5% of household income through a state subsidy.
 The marketplace and reinsurance pay for themselves.
 The premium subsidy is the only new cost: $50 to $75 million a year from the General Fund.
-Save Farms and Farmers
+Healthcare Economic Wellbeing Collapse ↑ Save Farms and Farmers Fund crisis services, rural mental health telehealth, and peer support networks for Tennessee farmers, who, according to the National Rural Health Association, die by suicide at up to 3.5 times the rate of the general population.
+Explore → Copied!
 Fund crisis services, rural mental health telehealth, and peer support networks for Tennessee farmers, who, according to the National Rural Health Association, die by suicide at up to 3.5 times the rate of the general population.
 Tennessee farms are dwindling, down to just over 60,000 farms, and we're projected to lose over a million acres of farmland by 2040.
 If we want to save these farms, we need to save the farmers first.
@@ -657,7 +667,8 @@ With farm debt approaching record levels, crop prices down roughly a third since
 The Tennessee Suicide Prevention Network established a Farmers Task Force in 2018, but we still need real infrastructure: agriculture-specific crisis services, expanded rural mental health through telehealth and targeted recruitment, and peer support networks modeled on programs working in Wisconsin and North Carolina.
 Reaching out for help isn't weakness, it's a strength.
 Tennessee needs to make sure that help is actually there when farmers need it.
-Save Tennessee Mothers
+Farms & Food Climate Action Collapse ↑ Save Tennessee Mothers Make sure every Tennessee mother survives childbirth, with doulas, group prenatal care, addiction treatment, and telehealth in rural counties.
+Explore → Copied!
 Make sure every Tennessee mother survives childbirth, with doulas, group prenatal care, addiction treatment, and telehealth in rural counties.
 Pregnancy-related deaths in Tennessee more than doubled between 2019 and 2021.
 The state's own Maternal Mortality Review Committee says 76% were preventable, and the system is even harsher for Black women who die at roughly 2.5 times the rate of white women.
@@ -665,7 +676,8 @@ Roughly a third of deaths happen weeks to months after delivery, when the health
 We need to solve this end-to-end.
 We'll cover doulas through Medicaid, where a systematic review of 27 trials found continuous support reduces cesarean deliveries by roughly 25%.
 We'll expand group prenatal care, and co-locate addiction treatment with prenatal care so no mother has to choose between getting help and keeping her child.
-Send the Right Responder to Every Crisis
+Healthcare Future Families Collapse ↑ Send the Right Responder to Every Crisis Send a behavioral health professional to every mental health crisis call, by funding city co-responder and alternative-response teams and stationing clinicians in 911 dispatch.
+Explore → Copied!
 Send a behavioral health professional to every mental health crisis call, by funding city co-responder and alternative-response teams and stationing clinicians in 911 dispatch.
 Memphis invented Crisis Intervention Team training in 1988.
 Nashville runs co-responder and fire-based behavioral health programs through Partners in Care.
@@ -675,7 +687,10 @@ We'll expand crisis response through competitive matching grants.
 Cities choose their model: co-responder, alternative response, or hybrid.
 Behavioral health clinicians stationed in metro 911 dispatch centers will screen incoming calls and divert behavioral health crises to crisis teams instead of patrol officers.
 Far from defunding police, this frees officers to focus on real crime instead of spending half their shift on calls they aren't equipped for.
-Stop Burying What Tennessee Can Recycle
+Public Safety & Justice Community Enrichment Collapse ↑ Stop Burying What Tennessee Can Recycle Tennessee recycles less than almost every other state.
+The fund that's supposed to fix that is sitting on $24 million.
+Spend it.
+Explore → Copied!
 Tennessee recycles less than almost every other state.
 The fund that's supposed to fix that is sitting on $24 million.
 Spend it.
@@ -688,7 +703,8 @@ We'll direct that money to convenience centers, recycling equipment, and organic
 We'll also defend the Jackson Law, which givescounties and cities the right to reject new landfill proposals.
 A 2026 state task force is actively trying to weaken it at the waste industry's urging.
 We'll protect that authority and publish model host-community-agreement standards so counties consenting to host landfills stop getting shortchanged.
-Support Local Police to Focus on Local Communities
+Energy & Infrastructure Community Enrichment Collapse ↑ Support Local Police to Focus on Local Communities End 287(g) agreements that turn Tennessee sheriffs and police into federal immigration agents, so officers can focus on the cases their communities actually need them on.
+Explore → Copied!
 End 287(g) agreements that turn Tennessee sheriffs and police into federal immigration agents, so officers can focus on the cases their communities actually need them on.
 Local law enforcement answers to Tennessee voters, not Washington.
 When sheriffs and police chiefs act as federal immigration agents through 287(g) agreements, they compromise their ability to do the job their communities need: preventing crime, solving cases, and maintaining the trust that makes policing work.
@@ -697,7 +713,8 @@ A county where people are afraid to call 911 is not a safer county.
 Meanwhile, Tennessee's immigrant-led households paid $2.68 billion in taxes and hold $8.2 billion in spending power.
 Local police should focus on local public safety.
 Federal immigration enforcement belongs to federal authorities trained and funded for that mission.
-The Future Families Fund
+Public Safety & Justice Community Enrichment Collapse ↑ The Future Families Fund A sovereign wealth fund for Tennessee that invests in our future by funding childhood development, forever.
+Explore → Copied!
 A sovereign wealth fund for Tennessee that invests in our future by funding childhood development, forever.
 Every child in Tennessee deserves the best possible chance to learn, grow, and develop into a caring and capable Tennessean.
 Many challenges stand in the way, like our lack of school funding for which we now rank last in the nation.
@@ -709,7 +726,8 @@ Every year, the Fund pays for current programs and invests surplus in a long-ter
 Once returns cover costs, the Fund sustains itself.
 Programs will only launch when funding is confirmed.
 And for Tennesseans who want to do more, the Tennessee Volunteer Roll lets individuals and families contribute tax-free before or after paying any obligation.
-Track Tennessee Living Standards in the Open
+Healthcare Future Families Collapse ↑ Track Tennessee Living Standards in the Open Publish an annual Wellbeing Report and Environmental Quality Report in plain English, showing whether Tennesseans are measurably better off than last year and at what cost to the land and water we pass on.
+Explore → Copied!
 Publish an annual Wellbeing Report and Environmental Quality Report in plain English, showing whether Tennesseans are measurably better off than last year and at what cost to the land and water we pass on.
 Tennessee's agencies produce good data, but nobody puts the whole picture together to answer the question taxpayers deserve: are Tennesseans measurably better off this year than last, and what cost to the land and water did we pass on?
 We'll create a Tennessee Outcomes Commissioner under the Comptroller, with a six-year term that spans governors.
@@ -718,7 +736,8 @@ Both reports will be published in machine-readable format and made available to 
 A statutory cap of 30 indicators keeps the reports focused and readable.
 The Governor will be expected to address the findings in the annual budget message.
 Transparency, not compulsion.
-Train Doctors Who Stay in Rural Tennessee
+Democracy & Government Public Accountability Collapse ↑ Train Doctors Who Stay in Rural Tennessee Get more doctors into rural Tennessee by paying for medical school for kids who promise to come back, and by claiming the federal physician slots Tennessee currently leaves unused.
+Explore → Copied!
 Get more doctors into rural Tennessee by paying for medical school for kids who promise to come back, and by claiming the federal physician slots Tennessee currently leaves unused.
 In 38 of Tennessee's 95 counties, there is not a single psychiatrist.
 Rural emergency departments close or cut hours because they can't staff them.
@@ -729,7 +748,8 @@ Roughly 90% of graduates who completed their commitment are still practicing in 
 We'll build a grow-your-own program starting with 25 to 50 rural-origin students and one anchor training institution.
 We'll also claim every federal physician visa waiver slot and loan repayment match Tennessee currently leaves unused.
 Roughly $5 to $8 million in state spending draws down $15 to $25 million in federal flow.
-Train Workers and Strengthen Main Street
+Healthcare Economic Wellbeing Collapse ↑ Train Workers and Strengthen Main Street Tennessee workers get trained for jobs that pay, through partnerships between employers and community colleges, alongside expanded Main Street and small business development support in rural counties.
+Explore → Copied!
 Tennessee workers get trained for jobs that pay, through partnerships between employers and community colleges, alongside expanded Main Street and small business development support in rural counties.
 Most jobs are created by the businesses already here, so we'll invest in both the workers and the communities where they operate.
 Sector partnerships will put employers and community colleges together to co-design training, with employers committing to hire graduates at specified wages.
@@ -737,7 +757,8 @@ We'll launch eight to ten partnerships focused on healthcare, advanced manufactu
 Project QUEST's randomized trial showed participants earning $5,080 more per year by year six, with gains holding through eleven years of follow-up.
 We'll also expand Tennessee's existing Main Street program.
 We'll add 15 new communities, prioritizing rural counties, and expand Small Business Development Center coverage statewide.
-Turn Tennessee Research Into Tennessee Companies
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Turn Tennessee Research Into Tennessee Companies Build Tennessee companies from Tennessee research by co-funding shared lab equipment at our research universities and matching researchers' first dollars when they're ready to commercialize.
+Explore → Copied!
 Build Tennessee companies from Tennessee research by co-funding shared lab equipment at our research universities and matching researchers' first dollars when they're ready to commercialize.
 Tennessee has world-class research universities, Oak Ridge National Laboratory, and one of the densest healthcare corridors in the world.
 What we don't have is the connective tissue that turns a breakthrough in a lab into a Tennessee-based company.
@@ -745,7 +766,8 @@ Georgia's Research Alliance generated over $16 billion in economic impact on $12
 The Tennessee Accelerated Research and Commercialization Fund will start with $7 million a year to co-funds shared lab equipment at research universities and provides matching grants on investment dollars when researchers are ready to commercialize.
 The state owns the equipment, the university and/or company owns the IP.
 Grants are repayable only when a company reaches a liquidity event, so startups aren't burdened during the years they need capital most.
-Universal Kids Healthcare
+Jobs, Wages & Innovation Economic Wellbeing Collapse ↑ Universal Kids Healthcare Every Tennessee kid deserves full medical, dental, vision, and mental health coverage, no matter what their family earns.
+Explore → Copied!
 Every Tennessee kid deserves full medical, dental, vision, and mental health coverage, no matter what their family earns.
 CoverKids already insures Tennessee children up to 250% of the federal poverty level.
 We'll expand it to 300%, the threshold where the federal Children's Health Insurance Program match covers roughly 90% of the cost.
@@ -754,7 +776,8 @@ Children's healthcare costs a fraction of adult coverage.
 For businesses currently covering dependents, this takes a real expense off their books.
 For families earning just above today's eligibility cutoff, it means their kids see a doctor, a dentist, and a counselor without anyone choosing between care and rent.
 The cost to the Future Families Fund is roughly $3 million a year after the federal match.
-Unlock Renewable Energy in Tennessee
+Healthcare Future Families Collapse ↑ Unlock Renewable Energy in Tennessee Cut rooftop solar payback roughly in half for Tennessee homeowners, require new data centers to generate their own clean power, and create competitive Renewable Energy Zones open to every Tennessee community.
+Explore → Copied!
 Cut rooftop solar payback roughly in half for Tennessee homeowners, require new data centers to generate their own clean power, and create competitive Renewable Energy Zones open to every Tennessee community.
 Tennessee's renewable energy economy is partially constrained by federal statute, but customer-side generation can grow right now.
 We'll require any new industrial site receiving state tax incentives to generate at least 10% of its power on-site from renewables in year one, growing to 50% by year five, capturing the fastest-growing electricity load before it becomes TVA gas demand.
@@ -763,7 +786,8 @@ We'll top that up to a fair 11-cent rate through a state-funded production adder
 For renters who can't put panels on their roof, we'll also expand community solar.
 Lastly, we'll designate 3 to 5 competitive Renewable Energy Zones, open to every Tennessee local power company (LPC), with state matching grants for solar-plus-storage.
 And we'll press TVA for a fair buyback rate, and the day TVA adopts one, the state adder will sunset automatically.
-Update Health Class and Add Financial Literacy
+Energy & Infrastructure Climate Action Collapse ↑ Update Health Class and Add Financial Literacy Refresh Tennessee's 10-year-old wellness curriculum and require a half-credit of financial literacy to graduate, so students learn how to budget and read a lease before they sign one.
+Explore → Copied!
 Refresh Tennessee's 10-year-old wellness curriculum and require a half-credit of financial literacy to graduate, so students learn how to budget and read a lease before they sign one.
 Tennessee's Lifetime Wellness standards haven't been updated since 2016.
 Meanwhile, the state has no financial literacy graduation requirement.
@@ -771,13 +795,12 @@ Students can graduate without ever learning how a credit score works, how to rea
 We'll refresh the K-12 wellness curriculum with updated nutrition science, mental health literacy, and digital wellness content.
 We'll add a half-credit financial literacy requirement modeled on Utah, Indiana, and Iowa, all red-state precedents with durable bipartisan support.
 This investment will pay dividends as kids who knows how to handle stress, feed themselves well, and manage money grow up to be better prepared for real life.
-Wipe Out Medical Debt
+Schools & Teachers Future Families Collapse ↑ Wipe Out Medical Debt Spend $10 million to buy and forgive over $1 billion in medical debt and lift bankruptcy off the families carrying it.
+Explore → Copied!
 Spend $10 million to buy and forgive over $1 billion in medical debt and lift bankruptcy off the families carrying it.
 Medical debt is the leading cause of personal bankruptcy in Tennessee.
 Undue Medical Debt already operates here and has abolished $142 million in debt for roughly 73,000 Tennesseans in prior rounds.
 The organization purchases debt portfolios at pennies on the dollar and forgives them entirely, with no tax consequence to the recipient.
 Medical debt acquisition costs range from 21:1 to 110:1, and Tennessee's prior rounds have landed near the high end.
 We'll scale this statewide with $10 million state investment to purchase over $1 billion in medical debt relief.
-Handmade in Tennessee
-Paid for by David Seeman for Governor.
-Paid for by David Seeman for Governor.
+Healthcare Economic Wellbeing Collapse ↑ Donate now Support Donate Volunteer Signs & Shirts Connect Facebook Instagram Events & More Inquire FAQ Share your Advocacy Endorse Dave for Tennessee Request Appearance Handmade in Tennessee Paid for by David Seeman for Governor.

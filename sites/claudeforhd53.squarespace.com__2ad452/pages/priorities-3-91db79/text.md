@@ -1,20 +1,10 @@
-Priorities, built around your life
-Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
-04 🏛️Freedom, and Home Rule
-District 53 families deserve a government that stays in its lane.
-The problem
-- Tallahassee keeps stripping power from local governments, telling cities and counties what they can and can't decide for themselves
-- Nearly two thousand bills filed every session, reaching further into your city hall and your family's personal decisions
-- Government overriding teachers, doctors, and parents on decisions that belong at home
-- Families across District 53 are telling us Florida’s universal voucher expansion is pulling money away from the public schools most of our kids attend
-- Flock creates a network capable of recording vehicle movements throughout the community.
+0 Skip to Content Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Priorities, built around your life Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
+04 🏛️Freedom, and Home Rule District 53 families deserve a government that stays in its lane.
+The problem Tallahassee keeps stripping power from local governments, telling cities and counties what they can and can't decide for themselves Nearly two thousand bills filed every session, reaching further into your city hall and your family's personal decisions Government overriding teachers, doctors, and parents on decisions that belong at home Families across District 53 are telling us Florida’s universal voucher expansion is pulling money away from the public schools most of our kids attend Flock creates a network capable of recording vehicle movements throughout the community.
 Even when intended to help solve crimes, that creates a legitimate concern about the government accumulating information about ordinary people who haven't done anything wrong.
-Tony's solution
-- Restore home rule so cities and counties can govern themselves without waiting on Tallahassee's permission
-- Roll back government overreach into personal and family decisions
-- Oppose expanding vouchers at the expense of public school funding — protect the schools most of our kids depend on
-- I support law enforcement.
+Tony's solution Restore home rule so cities and counties can govern themselves without waiting on Tallahassee's permission Roll back government overreach into personal and family decisions Oppose expanding vouchers at the expense of public school funding — protect the schools most of our kids depend on I support law enforcement.
 I don't support turning every road in Hernando County into a government surveillance network.
 End Flock in Hernando County and pursue less intrusive ways to support law enforcement.
 Sound like your priorities too?
 Tell Tony what matters most to you, or chip in to help carry the message across District 53.
+Share your Voice donate Claude for House District 53 Made with Squarespace Contact tlclaude@claudeforhd53.com (352) 667-3123 Paid for by Tony Claude, Democrat, for Florida House District #53

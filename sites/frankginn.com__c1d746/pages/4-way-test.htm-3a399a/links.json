@@ -1,13 +1,58 @@
 [
-"http://adobe.com/go/getflashplayer",
-"http://facebook.com/people/Frank-Ginn/100001077048660",
-"http://frankginn.com/4-way-test.htm",
-"http://frankginn.com/about-frank.htm",
-"http://frankginn.com/committee-assignments.htm",
-"http://frankginn.com/contact.php",
-"http://frankginn.com/district-map.htm",
-"http://frankginn.com/endorsements.htm",
-"http://frankginn.com/index.htm",
-"http://frankginn.com/priorities.htm",
-"http://rotary.org/en/mediaandnews/news/pages/070917_news_four-waytest.aspx"
+{
+"text": "4 Way Test",
+"href": "http://www.frankginn.com/4-way-test.htm"
+},
+{
+"text": "About Frank",
+"href": "http://www.frankginn.com/about-frank.htm"
+},
+{
+"text": "Committee Assignments",
+"href": "http://www.frankginn.com/committee-assignments.htm"
+},
+{
+"text": "Contact",
+"href": "http://www.frankginn.com/contact.php"
+},
+{
+"text": "District Map",
+"href": "http://www.frankginn.com/district-map.htm"
+},
+{
+"text": "Endorsements",
+"href": "http://www.frankginn.com/endorsements.htm"
+},
+{
+"text": "Home",
+"href": "http://www.frankginn.com/index.htm"
+},
+{
+"text": "Meet Frank",
+"href": "http://www.frankginn.com/about-frank.htm"
+},
+{
+"text": "Priorities",
+"href": "http://www.frankginn.com/priorities.htm"
+},
+{
+"text": "ROTARY International",
+"href": "http://www.rotary.org/en/mediaandnews/news/pages/070917_news_four-waytest.aspx"
+},
+{
+"text": "[image: Get Adobe Flash player]",
+"href": "http://www.adobe.com/go/getflashplayer"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/people/Frank-Ginn/100001077048660"
+},
+{
+"text": "[image]",
+"href": "http://www.frankginn.com/contact.php"
+},
+{
+"text": "[image]",
+"href": "http://www.frankginn.com/index.htm"
+}
 ]

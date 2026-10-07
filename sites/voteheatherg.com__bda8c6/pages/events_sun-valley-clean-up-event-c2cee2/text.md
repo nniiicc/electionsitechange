@@ -1,4 +1,4 @@
-Join me and Assemblywoman Angie Taylor, Commissioner Mariluz Garcia, Assemblywoman Natha Anderson, Sun Valley GID Chair Susan Severt, and Congressional candidate Greg Kidd as we show Sun Valley some love by picking up trash along Sun Valley Blvd and O’Brien Pass.
-Sun Valley Clean Up Event
-August 22, 2024 9:00 am – 11:00 am
-Sun Valley General Improvement District Office, 5000 Sun Valley Blvd., Sun Valley, NV
+Toggle navigation Home About Endorsements Issues Contact Get Involved Events Voter Information Media Donate Sun Valley Clean Up Event August 22, 2024 9:00 am – 11:00 am Sun Valley General Improvement District Office, 5000 Sun Valley Blvd., Sun Valley, NV Join me and Assemblywoman Angie Taylor , Commissioner Mariluz Garcia , Assemblywoman Natha Anderson , Sun Valley GID Chair Susan Severt , and Congressional candidate Greg Kidd as we show Sun Valley some love by picking up trash along Sun Valley Blvd and O’Brien Pass.
+This event has ended Photo Gallery Leave a Reply Cancel Reply Your email address will not be published.
+Required fields are marked * You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Contact Heather Terms & Conditions / Privacy Policy Donate Paid for by Friends of Heather Goulding, Reno, NV 89503 | heather@voteheatherg.com

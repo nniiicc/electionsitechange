@@ -1,12 +1,58 @@
 [
-"http://morganforsc.com/donate",
-"http://morganforsc.com/endorsements",
-"https://facebook.com/morganforsc",
-"https://morganforsc.com/",
-"https://morganforsc.com/about",
-"https://morganforsc.com/contact-me",
-"https://morganforsc.com/donate",
-"https://morganforsc.com/legislative-update",
-"https://morganforsc.com/positions",
-"https://morganforsc.com/sign-request"
+{
+"text": "About",
+"href": "https://morganforsc.com/about/"
+},
+{
+"text": "Alan Morgan",
+"href": "https://morganforsc.com/"
+},
+{
+"text": "Click HERE to learn more about Alan (Highlights below):",
+"href": "https://morganforsc.com/about/"
+},
+{
+"text": "Click HERE to see the issues Alan is fighting for (Highlights below):",
+"href": "https://morganforsc.com/positions/"
+},
+{
+"text": "Contact Me",
+"href": "https://morganforsc.com/contact-me/"
+},
+{
+"text": "DONATE TO SUPPORT THE CAUSE!",
+"href": "https://morganforsc.com/donate/"
+},
+{
+"text": "Donate",
+"href": "https://morganforsc.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "http://morganforsc.com/donate"
+},
+{
+"text": "ENDORSED BY:",
+"href": "http://morganforsc.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/morganforsc"
+},
+{
+"text": "Home",
+"href": "https://morganforsc.com/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://morganforsc.com/legislative-update/"
+},
+{
+"text": "Positions",
+"href": "https://morganforsc.com/positions/"
+},
+{
+"text": "Request a Sign",
+"href": "https://morganforsc.com/sign-request/"
+}
 ]

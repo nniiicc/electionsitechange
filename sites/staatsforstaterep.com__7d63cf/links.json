@@ -1,10 +1,58 @@
 [
-"https://facebook.com/StaatsForStateRep",
-"https://secure.winred.com/staats-for-state-rep/donate-today",
-"https://secure.winred.com/staats-for-state-rep/donate-today?amount=100",
-"https://secure.winred.com/staats-for-state-rep/donate-today?amount=1000",
-"https://secure.winred.com/staats-for-state-rep/donate-today?amount=250",
-"https://secure.winred.com/staats-for-state-rep/donate-today?amount=50",
-"https://secure.winred.com/staats-for-state-rep/donate-today?amount=500",
-"https://staatsforstaterep.com/"
+{
+"text": "$100",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.staatsforstaterep.com/#About"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today"
+},
+{
+"text": "Donate →",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today"
+},
+{
+"text": "Get Involved! →",
+"href": "https://www.staatsforstaterep.com/#Volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.staatsforstaterep.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staatsforstaterep.com/#Issues"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/staats-for-state-rep/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://www.staatsforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaatsForStateRep"
+}
 ]

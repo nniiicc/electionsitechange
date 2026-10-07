@@ -1,26 +1,28 @@
-Voting in the June 7, 2022 Democratic Primary Election
-Voter Registration
-The deadline to register to vote by mail or online is May 10.
+0 Skip to Content ABOUT ABOUT KRISTINA DISTRICT 42 PRIORITIES ENDORSEMENTS GET INVOLVED VOTING CONTACT CONTRIBUTE Open Menu Close Menu ABOUT ABOUT KRISTINA DISTRICT 42 PRIORITIES ENDORSEMENTS GET INVOLVED VOTING CONTACT CONTRIBUTE Open Menu Close Menu Folder: ABOUT Back ABOUT KRISTINA DISTRICT 42 PRIORITIES ENDORSEMENTS GET INVOLVED VOTING CONTACT CONTRIBUTE Voting in the June 7, 2022 Democratic Primary Election Voter Registration The deadline to register to vote by mail or online is May 10.
 You can also register to vote in person through “Same Day Registration” during Early Voting and Election Day at Voting Convenience Centers.
-Absentee Voting by Mail
-You can request an absentee ballot now!
-The easiest way is to request your absentee ballot online.
+Absentee Voting by Mail You can request an absentee ballot now!
+The easiest way is to request your absentee ballot online .
 Ballots will be mailed out beginning on May 11.
-You can track the status of your absentee ballot here.
+You can track the status of your absentee ballot here .
 Returning your absentee ballot is easy.
-You can:
-- Return your ballot by mail, using the pre-paid return envelope.
-- Hand deliver your absentee ballot to any Voting Convenience Center beginning May 21 through election day on June 7.
+You can: Return your ballot by mail, using the pre-paid return envelope.
+Hand deliver your absentee ballot to any Voting Convenience Center beginning May 21 through election day on June 7.
 The last day to request an absentee ballot is June 2.
 All absentee ballots must be received by 7pm on election day, June 7.
 If you still have your absentee ballot on June 2, we strongly encourage you to hand deliver your ballot to a Voting Convenience Center.
-Early Voting In-Person
-Early voting begins on May 10 at County Clerk offices.
+Early Voting In-Person Early voting begins on May 10 at County Clerk offices.
 Expanded early voting at Voting Convenience Centers begins on May 21 through June 4.
-- You can vote at any Voting Convenience Center in your county.
-You can find the most convenient Voting Convenience Center here.
-- Voting Convenience Centers are open from Monday through Saturday, 10am to 7pm.
+You can vote at any Voting Convenience Center in your county.
+You can find the most convenient Voting Convenience Center here .
+Voting Convenience Centers are open from Monday through Saturday, 10am to 7pm.
 In observance of Memorial Day early voting locations will be closed on May 30, 2022.
-Election Day In-Person
-Election Day is Tuesday, June 7, 2022.
-You can find voting locations here: http://www.taoscounty.org/174/Precinct-Sites
+Election Day In-Person Election Day is Tuesday, June 7, 2022.
+You can find voting locations here: http://www.taoscounty.org/174/Precinct-Sites CONTRIBUTE Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay In Touch!
+Sign up with your name and email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+We will be sending you important updates for the campaign!
+Paid for and authorized by Kristina Ortez for HD42.
+Amanda Dean, Treasurer Website Design | BGC

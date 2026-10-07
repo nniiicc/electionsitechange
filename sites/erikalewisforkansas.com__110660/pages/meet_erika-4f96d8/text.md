@@ -1,6 +1,4 @@
-Meet Erika
-About Erika Lewis
-I am a wife, a mother of six, a bonus mom to three more, a military family both veteran and active duty, a mental health professional, and a lifelong advocate for children, families, and stronger communities.
+Home Meet Erika Photos Issues Contribute Volunteer Yard Signs Contact Meet Erika About Erika Lewis I am a wife, a mother of six, a bonus mom to three more, a military family both veteran and active duty, a mental health professional, and a lifelong advocate for children, families, and stronger communities.
 This year, I hope to add one more title: public servant.
 I am not running for the Kansas House of Representatives because it's glamorous.
 Quite the opposite.
@@ -29,3 +27,5 @@ That leadership should be measured by service, not headlines.
 And that when we choose compassion, accountability, and common sense over division, there is no challenge we cannot overcome together.
 I am ready to get to work.
 I hope you'll join me.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Meet Erika Issues Photos Volunteer Yard Signs Contact Contribute Privacy (316) 247-2255 PO Box 28, Haysville, KS 67060 Paid for by Erika Lewis for Kansas Treasurer: Christine Pruitt Powered by CampaignPartner.com - Political Campaign Websites Home Meet Erika Issues Volunteer Yard Signs Contact Contribute Close Menu

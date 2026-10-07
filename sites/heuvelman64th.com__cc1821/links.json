@@ -1,8 +1,42 @@
 [
-"https://facebook.com/heuvelman64thdistrict",
-"https://heuvelman64th.com/",
-"https://heuvelman64th.com/about",
-"https://heuvelman64th.com/issues",
-"https://secure.actblue.com/donate/heuvelman-district64",
-"https://secure.actblue.com/donate/ken-heuvelman-1"
+{
+"text": "About",
+"href": "https://heuvelman64th.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "mailto:heuvelman64thdistrict@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/heuvelman-district64"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ken-heuvelman-1"
+},
+{
+"text": "EMAIL",
+"href": "mailto:HEUVELMAN64THDISTRICT@GMAIL.COM"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/heuvelman64thdistrict/"
+},
+{
+"text": "Home",
+"href": "https://heuvelman64th.com/"
+},
+{
+"text": "Issues",
+"href": "https://heuvelman64th.com/issues/"
+},
+{
+"text": "UPDATES",
+"href": "https://www.facebook.com/heuvelman64thdistrict/"
+},
+{
+"text": "[image: Heuvelman for State Representative]",
+"href": "https://heuvelman64th.com/"
+}
 ]

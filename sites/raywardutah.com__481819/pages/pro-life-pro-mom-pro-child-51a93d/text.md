@@ -1,8 +1,8 @@
-Pro-Life Pro-Mom Pro-Child
-I support Utah’s abortion law.
+0 Skip to Content Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Folder: Updates/ Events Back Upcoming Events March 2, 2024 Newsletter Folder: Issues Back Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Pro-Life Pro-Mom Pro-Child I support Utah’s abortion law.
 This law outlaws elective abortion but has important exceptions when the mother’s life or health is at risk and when she has been raped.
 Key bills I have supported include House Bill 467 (2023) which clarified how we balance the prohibition of elective abortion while making sure that the exception will be available to the pregnant mother when her health is in danger or when she has been raped.
 House Bill 560 (2024) will help resolve the ongoing lawsuit.
 Support for services when women are pregnant is also vital.
 I have advocated for women to have basic health care coverage during pregnancy.
 I have successfully supported pregnancy help for high-risk women, especially those struggling with addiction during their pregnacies.
+RAY WARD HAS A PROVEN TRACK RECORD OF: Pro-life Pro-mom Pro-Child Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Cutting Taxes Supporting the Disabled Conserving Water for Great Salt Lake Community Service Let’s Stay Connected

@@ -1,5 +1,4 @@
-CRADLE-TO-CAREER EDUCATION
-I’m a mom of four and I’ve homeschooled my kids, worked in education under two Governors, and I’ve advocated for our public schools as a grassroots organizer.
+0 Skip to Content Home Issues Overview Stronger Safer Smarter Share Your Thoughts Map Marvelous Midtown Anchorage Open Menu Close Menu Home Issues Overview Stronger Safer Smarter Share Your Thoughts Map Marvelous Midtown Anchorage Open Menu Close Menu Home Folder: Issues Back Overview Stronger Safer Smarter Share Your Thoughts Map Marvelous Midtown Anchorage CRADLE-TO-CAREER EDUCATION I’m a mom of four and I’ve homeschooled my kids, worked in education under two Governors, and I’ve advocated for our public schools as a grassroots organizer.
 I know the issues in our state, and I know we can do better.
 As I serve representing Midtown Anchorage, I hear that families care more about schools than most other topics, and this is an priority that will keep families here - if we get it right.
 Only one-third of our kids are prepared for Kindergarten — the national average is twice that.
@@ -13,19 +12,8 @@ Apprenticeships and vocational opportunities will enable those two-thirds of Ala
 I’ve met with leaders in Alaska’s construction and building trades who worry there won’t be enough qualified new workers to replace those who are retiring.
 We need career pathways for every Alaskan.
 As your representative, I am working to pass policies that strengthen our education system and allow our economy to thrive into the future.
-EARLY LEARNING
-* Improve access to state funds for pre-K education in Alaska, including Head Start and Early Head Start
-* Fight for legislation to improve our state’s family leave, sick leave, child care assistance, nutritional support and programs that help parents support their child’s healthy development
-K-12
-* Create incentives to educate highly-qualified teachers in Alaska and to keep them in our schools
-* Reduce governmental requirements on quality teachers’ time so they can focus on providing the best education for our kids
-* Pressure the federal government to pay its promised 40% share of funding for education of students with disabilities instead of the 14-15% it’s paying today, allowing smaller class sizes and more opportunity for individualized education
-VOCATIONAL AND TECHNICAL OPPORTUNITIES
-* Expand state funding for vocational and technical education programs so the two-thirds of Alaskan young people who enter the workforce after high school are ready to start their careers
-* Promote and expand apprenticeship programs that provide intensive on-the-job training for jobs in construction and building trades.
+EARLY LEARNING * Improve access to state funds for pre-K education in Alaska, including Head Start and Early Head Start * Fight for legislation to improve our state’s family leave, sick leave, child care assistance, nutritional support and programs that help parents support their child’s healthy development K-12 * Create incentives to educate highly-qualified teachers in Alaska and to keep them in our schools * Reduce governmental requirements on quality teachers’ time so they can focus on providing the best education for our kids * Pressure the federal government to pay its promised 40% share of funding for education of students with disabilities instead of the 14-15% it’s paying today, allowing smaller class sizes and more opportunity for individualized education VOCATIONAL AND TECHNICAL OPPORTUNITIES * Expand state funding for vocational and technical education programs so the two-thirds of Alaskan young people who enter the workforce after high school are ready to start their careers * Promote and expand apprenticeship programs that provide intensive on-the-job training for jobs in construction and building trades.
 Apprenticeships expand work opportunities for veterans, Alaska Natives, and people transitioning back to the workforce from treatment or incarceration.
-HIGHER EDUCATION
-* Reduce the burden of student loan debt, which is crippling a generation of young people and keeping students from pursuing higher education
-* Fund our state’s university system as a global center for Arctic research studies and renewable energy
-* Reduce tuition costs and expand opportunities for low-income and underrepresented students to go to college
-* Recruit and retain Alaska’s best and brightest in careers like teaching and healthcare by expanding tuition-free and loan forgiveness opportunities
+HIGHER EDUCATION * Reduce the burden of student loan debt, which is crippling a generation of young people and keeping students from pursuing higher education * Fund our state’s university system as a global center for Arctic research studies and renewable energy * Reduce tuition costs and expand opportunities for low-income and underrepresented students to go to college * Recruit and retain Alaska’s best and brightest in careers like teaching and healthcare by expanding tuition-free and loan forgiveness opportunities What Do You Think?
+Paid for by: Alaskans For Alyse, P.O.
+Box 212613, Anchorage, AK 99521 alyse@alaskans4alyse.com

@@ -1,12 +1,10 @@
-One Country Project Debunks Rural Health Fund Myths
-I wanted to share an important update regarding the Rural Health Transformation Program recently unveiled by the Centers for Medicare and Medicaid Services (CMS).
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search One Country Project Debunks Rural Health Fund Myths Karen Burnett-Kurie Sep 12 1 min read I wanted to share an important update regarding the Rural Health Transformation Program recently unveiled by the Centers for Medicare and Medicaid Services (CMS).
 The One Country Project has released an analysis debunking the claims surrounding the newly established Rural Health Fund.
-While the fund promises to strengthen rural healthcare infrastructure with $50 billion over five years ($10 billion annually beginning in FY 2026), research shows it will not offset the broader impacts of the One Big Beautiful Bill Act (OBBBA)
-Key findings from the analysis include:
-- Severe Funding Reductions: The trillion dollars in total health provider savings under the OBBBA is estimated to result in a $155 billion reduction in Medicaid funds specifically impacting rural areas.
-- Inadequate Mitigation: The $50 billion fund is temporary, whereas the Medicaid cuts to rural communities will continue indefinitely.
-Furthermore, the law does not guarantee that these funds will be exclusively directed to rural hospitals.
-- Access Uncertainty: Major medical groups warn the funding is insufficient to cover the cuts, rising uninsured rates, and new payment limits.
+While the fund promises to strengthen rural healthcare infrastructure with $50 billion over five years ($10 billion annually beginning in FY 2026), research shows it will not offset the broader impacts of the One Big Beautiful Bill Act (OBBBA) Key findings from the analysis include: - Severe Funding Reductions: The trillion dollars in total health provider savings under the OBBBA is estimated to result in a $155 billion reduction in Medicaid funds specifically impacting rural areas. - Inadequate Mitigation: The $50 billion fund is temporary, whereas the Medicaid cuts to rural communities will continue indefinitely.
+Furthermore, the law does not guarantee that these funds will be exclusively directed to rural hospitals. - Access Uncertainty: Major medical groups warn the funding is insufficient to cover the cuts, rising uninsured rates, and new payment limits.
 It also remains unclear how providers will access these funds, as distribution authority largely rests with the states and the HHS Secretary.
 Consequently, rural providers face difficult operational decisions, states are adjusting budgets to absorb massive funding losses, and patients risk losing vital access to care.
-You can read the full report on the One Country Project website: https://www.onecountryproject.com/2025/09/16/one-country-project-debunks-rural-health-fund-myth/
+You can read the full report on the One Country Project website: https://www.onecountryproject.com/2025/09/16/one-country-project-debunks-rural-health-fund-myth/ Health Care Affordability Recent Posts See All Is Local Spending Really Out of Control?
+AARP’s Top 100 Places to Live in the U.S. for Older Adults Affordable Housing Charrette Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

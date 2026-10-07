@@ -1,6 +1,3 @@
-Voter Information
-July 17- Start of 18-day voting period.
+Contribute Meet Rob Issues Endorsements News Voter Information July 17 - Start of 18-day voting period.
 Ballots are mailed out.
-Accessible Voting Units are available at voting centers
-August 4 - Deadline for Washington State voter registration or updates (in person only)
-August 4 - Primary - Deposit your ballot in an official drop box by 8 PM on Election Day
+Accessible Voting Units are available at voting centers August 4 - Deadline for Washington State voter registration or updates (in person only) August 4 - Primary - Deposit your ballot in an official drop box by 8 PM on Election Day Verify your Voter Registration Status Register to Vote Contribute Make Endorsement Volunteer Contact Voter Information Yard Signs Terms Privacy Policy Paid for by Committee to ElectRob Tupper PO Box 14228, Spokane Valley, WA 99214 Powered by CampaignPartner.com - Political Campaign Websites Home Voter Information Contribute Meet Rob Issues Endorsements News Volunteer Contact Yard Signs Close Menu

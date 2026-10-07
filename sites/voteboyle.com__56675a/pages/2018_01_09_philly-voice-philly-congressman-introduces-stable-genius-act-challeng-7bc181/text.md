@@ -1,14 +1,14 @@
-A Philadelphia congressman is pushing a piece of legislation with a painstakingly crafted title that challenges President Donald Trump’s mental fitness for office.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Philly Voice: Philly Congressman Introduces ‘Stable Genius’ act challenging Trump’s mental fitness January 9, 2018 February 1, 2018 A Philadelphia congressman is pushing a piece of legislation with a painstakingly crafted title that challenges President Donald Trump’s mental fitness for office.
 U.S.
 Rep.
-Brendan Boyle, a Democrat who represents parts of Northeast Philadelphia and Montgomery County, announced Tuesday the introduction of the “Standardizing Testing and Accountability Before Large Elections Giving Electors Necessary Information for Unobstructed Selection Act,” otherwise known as the “STABLE GENIUS Act.”
-Under the legislation, presidential candidates would have to undergo a medical examination that would be publicly disclosed before the election.
+Brendan Boyle, a Democrat who represents parts of Northeast Philadelphia and Montgomery County, announced Tuesday the introduction of the “Standardizing Testing and Accountability Before Large Elections Giving Electors Necessary Information for Unobstructed Selection Act,” otherwise known as the “STABLE GENIUS Act.” Under the legislation, presidential candidates would have to undergo a medical examination that would be publicly disclosed before the election.
 Nominees with political parties would have to undergo the examination by the Secretary of the Navy and file the results with the Federal Election Commission.
 The bill, a direct shot at President Donald Trump, is aimed at his recent Twitter outburst after some questioned his mental stability, particularly after the release of “Fire and Fury,” a scathing book that chronicles author Michael Wolff’s year in the White House but has faced scrutiny for allegedly fabricated parts and lapses in journalistic ethics.
-Trump and his aides have publicly denied accusations that he is mentally unstable, with the president calling himself a “stable genius.”
-“The President believes he is a ‘stable genius.’ I do not,” Boyle said in a statement.
+Trump and his aides have publicly denied accusations that he is mentally unstable, with the president calling himself a “stable genius.” “The President believes he is a ‘stable genius.’ I do not,” Boyle said in a statement.
 The congressman said he believes the president’s “reckless, erratic behavior” has exposed a problem with the election process.
 “Before voting for the highest office in the land, Americans have a right to know whether an individual has the physical and mental fitness to serve as President of the United States,” Boyle said.
 Such a gaudily named bill specifically targeting a GOP president has basically zero chance of passing in a Republican Congress, something Boyle likely knows, suggesting this is as much a political statement as it is a true legislative effort.
 But Boyle insists that it would be a “proactive” step and a “safeguard” to ensure future presidential candidates “meet the standards of a proper, standardized medical examination” before voters take to the polls.
-Read the original article here
+Read the original article here Huffington Post: During Domestic Violence Awareness Month, A Commitment To Supporting Victims Every Day Of The Year City and State PA: Boyle Poised To Impact Midterms – On His Own Terms Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

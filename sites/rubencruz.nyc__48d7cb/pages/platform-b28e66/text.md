@@ -1,13 +1,3 @@
-Transportation
-Keep New York Moving
-My Take It Back Plan
-Increase bus service and routes throughout New York City
-Allow permitting of house frontage parking spaces to free up parking congestion
-Investigation of MTA owned insurance carrier First Mutual Transportation Assurance Company that boasts $1.3 Billion in profits while our transit system suffers from under-funding
-Animal Rights
-GIVING VOICE TO THE VOICELESS
-Limit the domestic animal trade to shelters for cats, dogs and rabbits
-The horse carriage industry is antiquated, cruel and needs to go
-Allocate funding to maintain non-profit animal rescue organizations
-Support legislation preserving the right of individuals over the age of 62 not to be denied housing on the basis of having a companion animal.
-Support the continuation and expansion of New York City’s WildlifeNYC program
+top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
+CruzNYC Education Make New York a Beacon of Education ​ My 3K2PHD plan ​ Free education for all New Yorkers ​ Universal 3K to University PHD ​ ​ Learn More Housing Make New York Home My 10/10 plan Affordable housing and affordable commercial space for all old and new development Make it illegal to place liens on property owners without notice Learn More Healthcare Make New York Safe ​ My Total Healthcare Plan Make it illegal for insurance companies to assign COVID-19 as a pre-existing condition Protect New Yorkers by ensuring health and wellness for all including mental wellness Regulate excessive pharmaceutical costs at the city level Learn More Transportation Keep New York Moving ​ My Take It Back Plan ​ Increase bus service and routes throughout New York City Allow permitting of house frontage parking spaces to free up parking congestion Investigation of MTA owned insurance carrier First Mutual Transportation Assurance Company that boasts $1.3 Billion in profits while our transit system suffers from under-funding Learn More Animal Rights GIVING VOICE TO THE VOICELESS ​ ​ Limit the domestic animal trade to shelters for cats, dogs and rabbits ​​ The horse carriage industry is antiquated, cruel and needs to go Allocate funding to maintain non-profit animal rescue organizations ​ Support legislation preserving the right of individuals over the age of 62 not to be denied housing on the basis of having a companion animal. ​ Support the continuation and expansion of New York City’s WildlifeNYC program ​ Learn More The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+The Foundation BBQ The Blueprint Events Get Involved Contact Paid for by Friends of Ruben Cruz ESSENTIAL LINKS - Click Below Unemployment Insurance Free Meals Domestic Violence Assistance Elder Abuse Office of Victiim Services NYC Well Apply for SNAP CITYMEALS for Seniors Food Bank Check Your DEED MTA Maps Home Energy Assistance Program Property Tax Benefits A S P C A Services Hotline Community Board 5 Community Board 8 Community Board 9 Community Board 10 bottom of page

@@ -1,3 +1,3 @@
-Press & Media Coverage
-Paid for by Jacob Anders for Congress 2026
-Connect: Facebook | Anders4USA@gmail.com | Regional Roots
+Jacob Anders Press & Media Coverage Meet Jacob (About) Donate Facebook X (Twitter) Ballotpedia YouTube Supporters & Endorsements Press Want A Free Yard Sign?
+Email Me Campaign News & Interviews Independent Political Report IPR Interview: Jacob Anders Discusses Ballot Disqualification Lawsuit and Independent Campaign in Tennessee's 4th District U.S.
+Term Limits Jacob Anders Pledges to Support Term Limits on Congress Unity Party of America Unity Party Endorses Jacob Anders Thunder Radio 1320 Jacob Anders Announces Candidacy for US Congress Murfreesboro Post / Main Street Media TN Candidate Announcement: Jacob Anders for Congress Nashville Banner 2026 Election Coverage & Candidate Updates WSMV Channel 4 Who's Running Where: Tennessee Posts Candidate List for Redrawn Congressional Districts WGNS Radio Jacob Kristopher Anders Campaign Coverage LocalCandidates.org Jacob Anders: 2026 Congressional Profile Support the Campaign - Donate Today Paid for by Jacob Anders for Congress 2026 Connect: Facebook | Anders4USA@gmail.com | Regional Roots

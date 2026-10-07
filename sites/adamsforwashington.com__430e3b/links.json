@@ -1,8 +1,30 @@
 [
-"https://adamsforwashington.com/",
-"https://adamsforwashington.com/code-of-conduct",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/maggie-adams-1"
+{
+"text": "Code of Conduct",
+"href": "https://adamsforwashington.com/code-of-conduct"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/maggie-adams-1"
+},
+{
+"text": "Home",
+"href": "https://adamsforwashington.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "mailto:crosbyo@adamsforwashington.com?subject=Volunteer+for+Maggie+Adams"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

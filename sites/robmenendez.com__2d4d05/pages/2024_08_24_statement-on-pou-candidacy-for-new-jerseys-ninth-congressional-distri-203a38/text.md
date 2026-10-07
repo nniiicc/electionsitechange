@@ -1,7 +1,6 @@
-Latest News
-Statement on Pou Candidacy for New Jersey’s Ninth Congressional District from Rep.
-Rob Menendez
-NEW JERSEY – Bill Pascrell’s passing has left an immense void in the New Jersey delegation and, as we mourn his loss, we must also ensure that the work and commitment to the district continues on.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Latest News Statement on Pou Candidacy for New Jersey’s Ninth Congressional District from Rep.
+Rob Menendez August 24, 2024 NEW JERSEY – Bill Pascrell’s passing has left an immense void in the New Jersey delegation and, as we mourn his loss, we must also ensure that the work and commitment to the district continues on.
 I am heartened to see so many accomplished individuals raise their hand to serve – individuals who I deeply admire and respect.
 I believe Nellie Pou – who also succeeded Bill Pascrell in the New Jersey Assembly in 1997 – is the right person for the job and she has my full support.
 She has the experience to get to work on Day One and it’s about damn time New Jersey sends a Latina to Congress.
+Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

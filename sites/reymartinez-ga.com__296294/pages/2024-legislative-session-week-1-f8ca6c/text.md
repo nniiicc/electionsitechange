@@ -1,24 +1,11 @@
-The first week of each legislation session is mostly devoted to discussing the most pressing issues and the legislation that will potentially address them.
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate 2024 Legislative Session- Week 1 January 20, 2024 Rey Martinez At the Capitol , The Latest 0 The first week of each legislation session is mostly devoted to discussing the most pressing issues and the legislation that will potentially address them.
 Like most of my conservative colleagues, I’m focused on what we can do to provide relief for Georgians still reeling from the pressures of 40-year high inflation, public safety concerns, and rising healthcare costs worsened by out-of-touch, leftist policies.
 As I did last session, I’m focused on legislation that will make the lives of everyday Georgians easier and more enjoyable.
 I’ll be working to pass sound, common-sense policies that uplift, empower, and support the people, families and businesses of our state.
-Below are some legislative priorities that we’ll be discussing:
-Healthcare
-- Cutting red tape to increase access and lower costs for patients
-- Holding providers accountable to ensure highest quality care
-- Giving thoughtful consideration to updating Medicaid waiver
-Public Safety
-- Increasing state law enforcement officer numbers
-- Prioritizing recruitment and retention
-- Cracking down on corruption and making improvements within Georgia’s prison system
-Education
-- Investing in Pre-K education
-- Funding additional school security measures to keep students safe
-Elections
-- Increasing transparency and accountability in the process of addressing election complaints
-- Protecting elections from AI interference
-- Replacing QR codes with visible watermarks
-Economy
-- Accelerating the reduction rate of state income tax and returning another $1 billion to taxpayers
-- Increasing child and homestead tax credits
-As always, I welcome your thoughts and questions.
+Below are some legislative priorities that we’ll be discussing: Healthcare Cutting red tape to increase access and lower costs for patients Holding providers accountable to ensure highest quality care Giving thoughtful consideration to updating Medicaid waiver Public Safety Increasing state law enforcement officer numbers Prioritizing recruitment and retention Cracking down on corruption and making improvements within Georgia’s prison system Education Investing in Pre-K education Funding additional school security measures to keep students safe Elections Increasing transparency and accountability in the process of addressing election complaints Protecting elections from AI interference Replacing QR codes with visible watermarks Economy Accelerating the reduction rate of state income tax and returning another $1 billion to taxpayers Increasing child and homestead tax credits As always, I welcome your thoughts and questions.
+Previous The 2024 Legislative Session Next Democrats Again Turn their Backs on the Jewish People Be the first to comment Leave a Reply Cancel reply Your email address will not be published.
+Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

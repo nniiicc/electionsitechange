@@ -1,28 +1,162 @@
 [
-"https://bsky.app/profile/timgradyforohio.com",
-"https://discord.gg/QdJCQ9QXWN",
-"https://docs.google.com/forms/d/e/1FAIpQLScaxqJoFbC3zVZ0zRFDWYCpb3b8LIuZ_wvJLqjN89bDKYGg-A/viewform?usp=sharing",
-"https://donorbox.org/tim-grady-for-ohio",
-"https://facebook.com/gradyforgovernor",
-"https://instagram.com/gradyforgovernor",
-"https://subscribe.wordpress.com/",
-"https://threads.net/@gradyforgovernor",
-"https://tiktok.com/@gradyforgovernor",
-"https://timgradyforohio.com/",
-"https://timgradyforohio.com/about",
-"https://timgradyforohio.com/about/lieutenant-governor",
-"https://timgradyforohio.com/contact-us",
-"https://timgradyforohio.com/cornpocalypse",
-"https://timgradyforohio.com/ohio-tax-plan",
-"https://timgradyforohio.com/ohio-vision",
-"https://timgradyforohio.com/policy",
-"https://timgradyforohio.com/reforming-ohios-legislature-for-better-representation",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Ftimgradyforohio.com%2Fpolicy%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ftimgradyforohio.com%252Fpolicy%252F",
-"https://wordpress.com/reader/blogs/142553125/posts/3361",
-"https://wordpress.com/start",
-"https://wp.me/P9E8zX-Sd",
-"https://x.com/IsTimGrady",
-"https://youtube.com/@darkhorseforohio"
+{
+"text": "About",
+"href": "https://timgradyforohio.com/about/"
+},
+{
+"text": "Agriculture",
+"href": "https://timgradyforohio.com/policy/#agriculture"
+},
+{
+"text": "Andrea Neutzling",
+"href": "https://timgradyforohio.com/about/lieutenant-governor/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/timgradyforohio.com"
+},
+{
+"text": "Contact Us",
+"href": "https://timgradyforohio.com/contact-us/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/P9E8zX-Sd"
+},
+{
+"text": "Criminal Justice, Safety, and Legal",
+"href": "https://timgradyforohio.com/policy/#criminal-justice-safety-and-legal"
+},
+{
+"text": "Democracy and Institutional Reform",
+"href": "https://timgradyforohio.com/policy/#democracy-and-institutional-reform"
+},
+{
+"text": "Discord",
+"href": "https://discord.gg/QdJCQ9QXWN"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/tim-grady-for-ohio"
+},
+{
+"text": "Education",
+"href": "https://timgradyforohio.com/policy/#education"
+},
+{
+"text": "Energy Abundance",
+"href": "https://timgradyforohio.com/policy/#energy-abundance"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/gradyforgovernor/"
+},
+{
+"text": "Healthcare",
+"href": "https://timgradyforohio.com/policy/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://timgradyforohio.com/"
+},
+{
+"text": "Industrial Policy and Innovation",
+"href": "https://timgradyforohio.com/policy/#industrial-policy-and-innovation"
+},
+{
+"text": "Infrastructure, Transport, and the Physical Economy",
+"href": "https://timgradyforohio.com/policy/#infrastructure-transport-and-the-physical-economy"
+},
+{
+"text": "Learn More…",
+"href": "https://timgradyforohio.com/reforming-ohios-legislature-for-better-representation/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ftimgradyforohio.com%252Fpolicy%252F"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ftimgradyforohio.com%252Fpolicy%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Ohio Tax Plan here",
+"href": "https://timgradyforohio.com/ohio-tax-plan/"
+},
+{
+"text": "Ohio Vision",
+"href": "https://timgradyforohio.com/ohio-vision/"
+},
+{
+"text": "PREPARE OHIO FOR A POST PEAK CORN WORLD",
+"href": "https://timgradyforohio.com/cornpocalypse/"
+},
+{
+"text": "Policy",
+"href": "https://timgradyforohio.com/policy/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Ftimgradyforohio.com%2Fpolicy%2F"
+},
+{
+"text": "Rust Belt Renaissance",
+"href": "https://timgradyforohio.com/policy/#rust-belt-renaissance"
+},
+{
+"text": "Sign Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScaxqJoFbC3zVZ0zRFDWYCpb3b8LIuZ_wvJLqjN89bDKYGg-A/viewform?usp=sharing"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Taxation and Government Reforms",
+"href": "https://timgradyforohio.com/policy/#taxation-and-government-reforms"
+},
+{
+"text": "Tim Grady For Ohio",
+"href": "https://timgradyforohio.com/"
+},
+{
+"text": "Timothy Grady",
+"href": "https://timgradyforohio.com/about/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/142553125/posts/3361"
+},
+{
+"text": "X",
+"href": "https://x.com/IsTimGrady"
+},
+{
+"text": "[image]Tim Grady For Ohio",
+"href": "https://timgradyforohio.com"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/gradyforgovernor/"
+},
+{
+"text": "threads",
+"href": "https://www.threads.net/@gradyforgovernor"
+},
+{
+"text": "tiktok",
+"href": "https://www.tiktok.com/@gradyforgovernor"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@darkhorseforohio/"
+}
 ]

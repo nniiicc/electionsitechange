@@ -1,55 +1,7 @@
-Elected Officials
-- Bernie Sanders United States Senator
-- Joe Salazar Former HD-31 Representative
-- Roberta Ayala Thornton Mayor Pro-Tem
-- Justin Martinez Thornton City Council Ward 1
-- John Alge Thornton City Council Ward 2
-- Eva Henry Former Adams County Commissioner & Thornton City Councilor Ward 2
-- Julie Gonzales Candidate for U.S.
-Senate & Colorado State Senate District 34
-- Julia Marvin Former HD-31 Representative & Former Thornton Ward 2 City Councilor
-- Ike Anyanwu-Ebo Adams 12 School Board District 3
-- Polly Baca Former SD-25 Senator & Former HD-35 State Representative
-- Lorena Garcia Colorado State House District 35
-- Javier Mabrey Colorado State House District 1
-- Lucy Molina Adams 14 School Board of Education
-- Renee Chacon Former Commerce City Ward 3 City Councilor
-- Elizabeth Velasco Colorado State House District 57
-- Michelle Paulene Abeyta New Mexico State House District 69
-- Steven Woodrow Colorado State House District 2
-- Yara Zokaie Colorado State House District 52
-- JD Mangat Former Mayor of Lafayette
-- Amber Hott Westminster City Council
-- Tammy Story Colorado State House District 25
-- Bonnie Sellers Federal Heights City Council
-- Meg Froelich Colorado State House District 3
-- Adrienne Benavidez Colorado State Senate District 21
-- Kenny Nguyen Colorado State House District 33
-- Paloma Delgadillo Broomfield City Council Ward 2
-- Saul Tapia Vega Mayor of Lafayette
-- Gianina Horton Aurora City Council Ward 1
-- Ashish Vaidya Centennial City Council District 2
-- Chad Clifford Colorado State House District 37
-- Alison Coombs Aurora Mayor Pro-Tem
-- Alli Jackson Aurora City Council At-Large
-- Megan Burns Northglenn City Council Ward 1
-- Obi Ezeadi Westminster City Council
-- Serena Gonzales-Gutierrez Denver City Council At-Large
-- Nick Hinrichsen Colorado State Senate District 3
-- Lisa Cutter Colorado State Senate District 20
-Community Leaders
-- Tyler Quick Candidate for Adams County Commissioner
-- David Seligman Executive Director of Towards Justice
-- Guadalupe Villalobos Community Leader
-- Steven Cervantes Former Thornton City Council & Mayoral Candidate | Former Thornton Assistance Fund Board Member
-- Aliyah Acevedo Former Commerce City Youth Commissioner
-- Dani Dawes-Cox Former Adams County Young Democrats Chair
-- Amanda Pedrianes Former Thornton City Council Candidate
-- Michael Farrington Candidate for RTD Board of Directors District K
-- Coleman Erickson Candidate for RTD Board of Directors District J
-- Jack Rosenthal Candidate for RTD Board of Directors District O
-- Joe Meyer Candidate for RTD Board of Directors District C
-- Pati Walsh Thornton High School Most Involved Parent (2017)
-- Howard Chou DNC Member; CDP AAPI Chair
-- Raven Payment Former Co-Chair Denver American Indian Commission
-- Jeremiah Medina Former HD-31 Chief of Staff
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Elected Officials Bernie Sanders United States Senator Joe Salazar Former HD-31 Representative Roberta Ayala Thornton Mayor Pro-Tem Justin Martinez Thornton City Council Ward 1 John Alge Thornton City Council Ward 2 Eva Henry Former Adams County Commissioner & Thornton City Councilor Ward 2 Julie Gonzales Candidate for U.S.
+Senate & Colorado State Senate District 34 Julia Marvin Former HD-31 Representative & Former Thornton Ward 2 City Councilor Ike Anyanwu-Ebo Adams 12 School Board District 3 Polly Baca Former SD-25 Senator & Former HD-35 State Representative Lorena Garcia Colorado State House District 35 Javier Mabrey Colorado State House District 1 Lucy Molina Adams 14 School Board of Education Renee Chacon Former Commerce City Ward 3 City Councilor Elizabeth Velasco Colorado State House District 57 Michelle Paulene Abeyta New Mexico State House District 69 Steven Woodrow Colorado State House District 2 Yara Zokaie Colorado State House District 52 JD Mangat Former Mayor of Lafayette Amber Hott Westminster City Council Tammy Story Colorado State House District 25 Bonnie Sellers Federal Heights City Council Meg Froelich Colorado State House District 3 Adrienne Benavidez Colorado State Senate District 21 Kenny Nguyen Colorado State House District 33 Paloma Delgadillo Broomfield City Council Ward 2 Saul Tapia Vega Mayor of Lafayette Gianina Horton Aurora City Council Ward 1 Ashish Vaidya Centennial City Council District 2 Chad Clifford Colorado State House District 37 Alison Coombs Aurora Mayor Pro-Tem Alli Jackson Aurora City Council At-Large Megan Burns Northglenn City Council Ward 1 Obi Ezeadi Westminster City Council Serena Gonzales-Gutierrez Denver City Council At-Large Nick Hinrichsen Colorado State Senate District 3 Lisa Cutter Colorado State Senate District 20 Community Leaders Tyler Quick Candidate for Adams County Commissioner David Seligman Executive Director of Towards Justice Guadalupe Villalobos Community Leader Steven Cervantes Former Thornton City Council & Mayoral Candidate | Former Thornton Assistance Fund Board Member Aliyah Acevedo Former Commerce City Youth Commissioner Dani Dawes-Cox Former Adams County Young Democrats Chair Amanda Pedrianes Former Thornton City Council Candidate Michael Farrington Candidate for RTD Board of Directors District K Coleman Erickson Candidate for RTD Board of Directors District J Jack Rosenthal Candidate for RTD Board of Directors District O Joe Meyer Candidate for RTD Board of Directors District C Pati Walsh Thornton High School Most Involved Parent (2017) Howard Chou DNC Member; CDP AAPI Chair Raven Payment Former Co-Chair Denver American Indian Commission Jeremiah Medina Former HD-31 Chief of Staff Where to find us Come to an Event Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

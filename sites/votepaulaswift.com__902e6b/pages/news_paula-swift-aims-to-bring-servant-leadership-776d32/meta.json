@@ -1,7 +1,12 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.votepaulaswift.com/news/paula-swift-aims-to-bring-servant-leadership",
+ "fingerprint": "b8fb7cf89109b1292e4294c02eaadd4f5223eaff",
+ "format": 3,
  "paid_for_by": "Paid for by Swift for Assembly 2026 FPPC #1485309 1 W",
- "title": "Paula Swift Aims to Bring \u2018Servant Leadership\u2019 to Congress",
- "years_mentioned": []
+ "title": "Paula Swift Aims to Bring ‘Servant Leadership’ to Congress",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

@@ -1,14 +1,58 @@
 [
-"https://facebook.com/kirt4ok",
-"https://juliakirt.com/",
-"https://juliakirt.com/contact",
-"https://juliakirt.com/issues",
-"https://juliakirt.com/media",
-"https://juliakirt.com/meet-julia",
-"https://juliakirt.com/priorities",
-"https://juliakirt.com/volunteer",
-"https://juliakirt.com/yard-signs",
-"https://secure.actblue.com/donate/juliakirt",
-"https://secure.actblue.com/donate/kirtshirts",
-"https://twitter.com/juliakirt"
+{
+"text": "Contact",
+"href": "https://www.juliakirt.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/juliakirt"
+},
+{
+"text": "Home",
+"href": "https://www.juliakirt.com"
+},
+{
+"text": "Issues",
+"href": "https://www.juliakirt.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.juliakirt.com/media"
+},
+{
+"text": "Meet Julia",
+"href": "https://www.juliakirt.com/meet-julia"
+},
+{
+"text": "Priorities",
+"href": "https://www.juliakirt.com/priorities"
+},
+{
+"text": "T-Shirts",
+"href": "https://secure.actblue.com/donate/kirtshirts"
+},
+{
+"text": "Volunteer",
+"href": "https://www.juliakirt.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.juliakirt.com/yard-signs"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/kirt4ok/"
+},
+{
+"text": "[image: Kirt-Logo-Dark.png]",
+"href": "https://www.juliakirt.com"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/juliakirt"
+},
+{
+"text": "info@juliakirt.com",
+"href": "mailto:info@juliakirt.com"
+}
 ]

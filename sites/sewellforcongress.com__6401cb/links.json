@@ -1,14 +1,78 @@
 [
-"https://facebook.com/sewell4congress",
-"https://instagram.com/sewell4congress",
-"https://secure.actblue.com/donate/ts-web",
-"https://secure.actblue.com/donate/website-23",
-"https://sewellforcongress.com/",
-"https://sewellforcongress.com/about-terri",
-"https://sewellforcongress.com/issues",
-"https://sewellforcongress.com/news-listing",
-"https://sewellforcongress.com/photos",
-"https://sewellforcongress.com/privacy-policy",
-"https://sewellforcongress.com/wp-content/uploads/2020/06/Terri-Sewell-for-Congress-2019-1-1.mp4",
-"https://twitter.com/sewell4congress"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ts-web"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ts-web"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/ts-web"
+},
+{
+"text": "About Terri",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "About Terri Sewell",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/website-23"
+},
+{
+"text": "Issues",
+"href": "https://sewellforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://sewellforcongress.com/news-listing/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ts-web"
+},
+{
+"text": "Photos",
+"href": "https://sewellforcongress.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sewellforcongress.com/privacy-policy/"
+},
+{
+"text": "Terri Sewell",
+"href": "https://www.instagram.com/sewell4congress/"
+},
+{
+"text": "[image: logo-header]",
+"href": "https://sewellforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://sewellforcongress.com/wp-content/uploads/2020/06/Terri-Sewell-for-Congress-2019-1-1.mp4"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sewell4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sewell4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sewell4congress/"
+},
+{
+"text": "learn more",
+"href": "https://sewellforcongress.com/issues/"
+},
+{
+"text": "sewell4congress",
+"href": "https://www.instagram.com/sewell4congress/"
+}
 ]

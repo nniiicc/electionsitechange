@@ -1,6 +1,5 @@
-Priorities in Action
-Dr.
-Darlene Breaux wants to earn your vote to represent Alief and Katy (District 149) as your state representative this November.
+Follow Follow Follow Follow Home About Priorities Endorsements Media Press Releases In the News Media Contact Donation Contact Volunteer Donate Donate Home About Priorities Endorsements Media Press Releases In the News Media Contact Donation Contact Volunteer Priorities in Action Dr.
+Darlene Breaux wants to earn your vote to represent Alief and Katy ( District 149 ) as your state representative this November.
 She sees policy as a tool for change and intends to listen to every community member and represent their ideas on the House Floor.
 Dr.
 Breaux doesn’t just talk about what’s broken; she’s spent 25 years fixing it from the inside, and she’s ready to bring that same hands-on leadership to Austin.
@@ -8,66 +7,17 @@ Here are some of her priorities, informed by what she’s heard on the campaign 
 Have a policy suggestion?
 Dr.
 Breaux wants to hear from you.
-Fill out the form at tinyurl.com/149-policy.
-Education
+Fill out the form at tinyurl.com/149-policy .
+Education Last session, the Legislature passed an $8.5 billion school funding package that barely raised the per-student allotment, leaving schools an additional $1,300 per student short of keeping pace with inflation.
 That funding gap matters in the classroom, and as a longtime educator and Alief ISD board president, Dr.
 Breaux has seen firsthand what it takes for students and teachers to succeed.
 Education is the great equalizer, and kids in every corner of this district deserve the same shot at a strong education, no matter their zip code or income.
-Fully Funding Our Schools
-- Fully fund mandates issued by the state and shift from attendance-based to enrollment-based funding
-- Stronger support for bilingual, dual-language, and technical education programs
-- Against the voucher bill, which funds families already in private school and puts no accountability rules on those schools
-Advocating for Our Teachers
-- Raise base salaries for teachers
-- Secure no-question-asked mental health days
-- Establish state-supported residency programs pairing new teachers with mentors
-Champion Learning Support
-- Expand access to grant programs
-- Advocate for evidence-based literacy interventions
-- Increase reimbursements for special education evaluations
-Holistic Public Safety
-We must protect the public from dangerous offenders while also ensuring due process protections and the presumption of innocence that shape our justice system.
+Fully Funding Our Schools Fully fund mandates issued by the state and shift from attendance-based to enrollment-based funding Stronger support for bilingual, dual-language, and technical education programs Against the voucher bill, which funds families already in private school and puts no accountability rules on those schools Advocating for Our Teachers Raise base salaries for teachers Secure no-question-asked mental health days Establish state-supported residency programs pairing new teachers with mentors Champion Learning Support Expand access to grant programs Advocate for evidence-based literacy interventions Increase reimbursements for special education evaluations Holistic Public Safety We must protect the public from dangerous offenders while also ensuring due process protections and the presumption of innocence that shape our justice system.
 The Legislature should invest in long-term prevention solutions such as youth jobs and workforce development for those who need them most.
 As immigration becomes increasingly important, we support a comprehensive legal pathway to citizenship while protecting our communities through due process.
-Community-Focused & Smart Policy
-- Expand funding for trained professionals to respond to non-violent calls
-- Support credible messengers in street outreach to interrupt violence before it happens
-- Invest in crime prevention through increased lighting and safer pedestrian infrastructure
-Focus on Long-Term Solutions
-- Mandate standardized use-of-force reporting to improve crime clearance rates
-- Expand localized grants for dedicated beat patrols through relationship-based policing
-- Establish localized advisory boards in Katy and Alief for transparent, accountable policing
-Targeted Enforcement & Community Protection
-- Legalize fentanyl test strips statewide and regulate straw firearms sales
-- Require public facing documents in multiple languages for state resources
-- Increase funding for human trafficking prevention and anti-gang programs through the Governor’s Public Safety Office
-Affordability and Economic Opportunity
-We hear it everywhere we go: gas prices are too high, groceries at Fiesta, local Walmarts, and H-E-B cost more than they did a decade ago, and property taxes are increasing each year, unbelievably.
+Community-Focused & Smart Policy Expand funding for trained professionals to respond to non-violent calls Support credible messengers in street outreach to interrupt violence before it happens Invest in crime prevention through increased lighting and safer pedestrian infrastructure Focus on Long-Term Solutions Mandate standardized use-of-force reporting to improve crime clearance rates Expand localized grants for dedicated beat patrols through relationship-based policing Establish localized advisory boards in Katy and Alief for transparent, accountable policing Targeted Enforcement & Community Protection Legalize fentanyl test strips statewide and regulate straw firearms sales Require public facing documents in multiple languages for state resources Increase funding for human trafficking prevention and anti-gang programs through the Governor’s Public Safety Office Affordability and Economic Opportunity We hear it everywhere we go: gas prices are too high , groceries at Fiesta, local Walmarts, and H-E-B cost more than they did a decade ago, and property taxes are increasing each year, unbelievably.
 Affordability is at the forefront of our legislative priorities, especially for low-income and working-class neighbors, and the state’s tax system should benefit you.
-Expansion and Reforms to Medicaid
-- Push for Medicaid expansion and reforms
-- Get working families the healthcare they’ve earned and deserve
-- Close the coverage gap for residents who earn too much for traditional Medicaid
-Expanding Affordable Housing
-- Increase the supply of quality, affordable housing across the district
-- Expand the homestead exemption for seniors, people with disabilities, and fixed-income households
-- Advocate for a property tax circuit breaker targeting relief to households with high tax bills relative to income
-Invest in Workforce Training
-- Ensure training programs lead to real careers, not just certificates
-- Expand Career and Technical Education pathways into skilled, well-paying jobs
-- Build stronger partnerships between schools, local employers, and community colleges
-Infrastructure
-We hear it too often: bumpy roads, poorly maintained medians, and families still rebuilding after Hurricane Harvey.
+Expansion and Reforms to Medicaid Push for Medicaid expansion and reforms Get working families the healthcare they’ve earned and deserve Close the coverage gap for residents who earn too much for traditional Medicaid Expanding Affordable Housing Increase the supply of quality, affordable housing across the district Expand the homestead exemption for seniors, people with disabilities, and fixed-income households Advocate for a property tax circuit breaker targeting relief to households with high tax bills relative to income Invest in Workforce Training Ensure training programs lead to real careers, not just certificates Expand Career and Technical Education pathways into skilled, well-paying jobs Build stronger partnerships between schools, local employers, and community colleges Infrastructure We hear it too often: bumpy roads, poorly maintained medians, and families still rebuilding after Hurricane Harvey.
 As your state representative, we will invest in improving our power grid and strengthen collaboration with local government agencies to keep District 149 thriving.
-Reliable Power & Stable Grid
-- Support emergency-resilient natural gas infrastructure
-- Require cold-weather preparation and accountable on-site inspections
-- Advocate for enforceable weatherization standards with the Public Utility Commission and Railroad Commission
-Flood Prevention & Drainage
-- Work with city and county entities to support detention drainage
-- Streamline evacuation processes and strengthen post-disaster recovery
-- Protect wetlands and fields by allowing county governments to regulate floodplain development
-Safer Streets
-- Support responsible regulation of autonomous vehicles
-- Increase public transportation funding to build and revamp streets in the district
-- Expand METRO lines and trails through long-range funding plans and real communication with constituents
+Reliable Power & Stable Grid Support emergency-resilient natural gas infrastructure Require cold-weather preparation and accountable on-site inspections Advocate for enforceable weatherization standards with the Public Utility Commission and Railroad Commission Flood Prevention & Drainage Work with city and county entities to support detention drainage Streamline evacuation processes and strengthen post-disaster recovery Protect wetlands and fields by allowing county governments to regulate floodplain development Safer Streets Support responsible regulation of autonomous vehicles Increase public transportation funding to build and revamp streets in the district Expand METRO lines and trails through long-range funding plans and real communication with constituents Endorsements Contact Us  346-733-3228  P.O.
+Box 956 Alief Texas 77411  campaign@darlenebreaux.com Social Account Follow Follow Follow Follow © Copyright # | All Rights Reserved

@@ -1,5 +1,6 @@
-Skip navigation menu
-My name is Dave Min, and it is my honor to serve Orange County in Congress.
+Skip navigation menu Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate About Dave Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate About Dave My name is Dave Min, and it is my honor to serve Orange County in Congress.
 Since January 2025, I have proudly represented California’s 47th Congressional District and I am now running for my second term.
 With the passage of Prop 50, California’s 47th Congressional District includes the cities of Irvine, Dana Point, Laguna Beach, Aliso Viejo, Laguna Hills, Laguna Niguel, Laguna Woods, Lake Forest, and Tustin as well as parts of Newport Beach and Mission Viejo.
 Prior to coming to Congress, I served as a State Senator and worked tirelessly to advance our communities’ priorities in Sacramento.
@@ -46,3 +47,4 @@ Our concern for the world we want for our children is what propelled Dave to run
 Growing up in Kansas City, I saw how my parents advocated for what was right, not necessarily what was popular or easy.
 Dave and I are teaching our kids to stand up for what they believe in and to be positive forces for change.
 Teddy, Emmy, Paxton, and I are so proud of Dave for his work to represent our district and better the world, and we hope you join us.
+Privacy Policy Contact Terms & Conditions © Copyright # Dave Min for Congress PO Box 5959, Irvine, CA 92616 Powered by RUN! website builder Paid for by Dave Min for Congress You need to enable JavaScript to run this app.

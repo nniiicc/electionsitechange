@@ -1,8 +1,4 @@
-Reproductive rights should be matter of choice
-Palm Beach Post (Florida)
-October 24, 2024 Thursday
-1 Edition
-As both a husband and father, my greatest responsibility is to protect and support my family.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Reproductive rights should be matter of choice October 24, 2024 / in News / by David Silvers Palm Beach Post (Florida) October 24, 2024 Thursday 1 Edition As both a husband and father, my greatest responsibility is to protect and support my family.
 As a member of the Florida House of Representatives, that responsibility extends to fighting for policies that ensure the safety, prosperity and freedom of all Floridians.
 I want my wife and daughter to have access to the highest quality health care, but with Florida’s growing restrictions on abortion, I’m deeply concerned – not only for their future but for the millions of women, girls and survivors of sexual assault whose health care options are being stripped away.
 For the past eight years, I have seen the Republican majority chip away at women’s reproductive health care year after year.
@@ -21,6 +17,5 @@ The overwhelming majority of Floridians believe we should have the freedom to ma
 I’m proud to support Amendment 4, and I hope you’ll join me in voting to restore reproductive freedom in Florida.
 Please vote YES on Amendment 4.
 David Silvers is a state representative for District 89, which includes parts of West Palm Beach, Lake Worth Beach, Greenacres, Cloud Lake, Glen Ridge, Lake Clarke Shores and Palm Springs.
-Your Turn
-David Silvers
-Guest columnist
+Your Turn David Silvers Guest columnist https://www.votedavidsilvers.com/wp-content/uploads/2025/06/photo-2_slide-a7928f303b00cca54cd587e186165eb2d22ed409.jpg 732 1100 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2024-10-24 20:25:33 2025-06-17 17:44:15 Reproductive rights should be matter of choice Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: Florida is achieving strides in mental health care, but major gaps need work Florida is achieving strides in mental health care, but major gaps need wor...
+Link to: David Silvers: Proud Ambassador for Project Lifesaver International David Silvers: Proud Ambassador for Project Lifesaver International Scroll to top Scroll to top

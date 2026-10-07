@@ -1,9 +1,13 @@
 {
  "description": "Follow Bruce Roy on Facebook , LinkedIn, Youtube",
  "final_url": "https://www.roy4vt.org/about-bruce",
- "paid_for_by": null,
+ "fingerprint": "5a11f304f029536f7634a66666fd1a8f55dd9fc4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bruce Roy for VT Senate - About Bruce",
  "years_mentioned": [
+  "2001",
+  "2008",
   "2013",
   "2024",
   "2026"

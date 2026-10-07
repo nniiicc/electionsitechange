@@ -1,7 +1,5 @@
-Meet Kerry
-Hi everyone!
-I have a really exciting announcement I’d like to share,
-I am running for State Representative in Michigan’s 39th House District!
+Home Meet Kerry Endorsements Contribute News Volunteer Meet Kerry Hi everyone!
+I have a really exciting announcement I’d like to share, I am running for State Representative in Michigan’s 39th House District!
 For those of you who don’t know my background, let me share a little bit about myself.
 I am a proud mother, a small business owner with my amazing husband, John, for 30 years, the daughter of two teachers, and the oldest of four siblings.
 I grew up in Boyne City, where I enjoyed many trips to the beaches of Lake Michigan.
@@ -33,3 +31,4 @@ I feel we can Do Better, Be Better and Find the Balance.
 I would love the opportunity to earn your Vote.
 I’m so excited!
 As the kids say, LET’S GOOO!!
+Endorsements Yard Signs Events Photos Contact Paid for by Committee to Elect Kerry Tapper 44363 Carla Dr, Paw Paw, MI 49079 Powered by CampaignPartner.com - Political Websites Home Meet Kerry Endorsements Contribute News Volunteer Close Menu

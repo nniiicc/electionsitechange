@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.votebrucestabenow.com/vote",
+ "fingerprint": "fb781683d0c73e26ecdc4f65d1eeb0bc7c6ad423",
+ "format": 3,
  "paid_for_by": "Paid for by Bruce Stabenow for Assembly District 91 Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []

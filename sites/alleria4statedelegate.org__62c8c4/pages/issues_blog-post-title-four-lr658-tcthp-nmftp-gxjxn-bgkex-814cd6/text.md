@@ -1,5 +1,4 @@
-Housing Affordability, Rent Stability, and Homeownership
-Housing stability forms the bedrock of strong families, successful students, and resilient communities.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Housing Affordability, Rent Stability, and Homeownership May 28 Written By Apple User Housing stability forms the bedrock of strong families, successful students, and resilient communities.
 Across District 4, skyrocketing home prices and escalating rents price out teachers, firefighters, nurses, and service workers from the very neighborhoods they serve.
 This crisis is personal for me.
 As a private landlord myself with several properties in different states that I acquired over my twenty-year career in the Army, I know firsthand the operational challenges that small, individual housing providers face.
@@ -20,3 +19,8 @@ At the same time, we must reform restrictive zoning to allow missing-middle hous
 I advocate for state infrastructure grants to help municipalities modernize water and road capacity to accommodate smart infill development.
 We must also explore social housing models that use public land to build mixed-income residential communities, removing the speculative profit motive from basic shelter.
 Safe, stable, and attainable housing is a fundamental human right, and I will champion these balanced, practical solutions in the General Assembly.
+Apple User Previous Previous Strict Accountability and Regulation for Data Centers Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

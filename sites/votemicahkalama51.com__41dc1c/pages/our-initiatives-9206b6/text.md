@@ -1,5 +1,4 @@
-Housing Shouldn't Be Unattainable!
-Affordable housing is one of the most important issues facing our community today.
+top of page Campaign Hub About - Profile Page Our Initiatives Register to Vote Housing Shouldn't Be Unattainable! ​ Affordable housing is one of the most important issues facing our community today.
 Right now, in Hawaiʻi, the median price for a home on Oʻahu is over a million dollars.
 Statewide, we’re still seeing prices well above what our working families can afford.
 And the reality is — our wages are not keeping up.
@@ -21,25 +20,17 @@ Because the truth is — we didn’t just move here and start calling this place
 Our families built these communities.
 And it’s time our housing policies reflect that.
 I’m committed to fighting for solutions that keep our people here, strengthen our communities, and make Hawaiʻi a place where local families can continue to live, work, and thrive.
-Public Safety
-Public safety at the state level should feel safe, consistent, and respected in every community.
+Public Safety Public safety at the state level should feel safe, consistent, and respected in every community.
 Our families deserve to feel comfortable in their neighborhoods, parks, and public spaces.
 We must take a balanced approach—one that addresses homelessness with compassion, while also protecting our communities.
-- Address homelessness by expanding transitional housing, mental health care, and treatment programs—while requiring accountability and participation in services
-- Restore safety in public spaces by improving enforcement, maintenance, and coordination with counties
-- Support law enforcement and first responders with better resources, training, and retention incentives
-- Invest in prevention through youth programs, education, and workforce opportunities
-- Set clear statewide standards so efforts are coordinated, effective, and accountable
-Public safety is about more than enforcement—it’s about taking care of our people while keeping our communities safe and strong.
-Our Keiki Need the Support
-At the state level, investing in our youth must be a top priority.
+Address homelessness by expanding transitional housing, mental health care, and treatment programs—while requiring accountability and participation in services Restore safety in public spaces by improving enforcement, maintenance, and coordination with counties Support law enforcement and first responders with better resources, training, and retention incentives Invest in prevention through youth programs, education, and workforce opportunities Set clear statewide standards so efforts are coordinated, effective, and accountable Public safety is about more than enforcement—it’s about taking care of our people while keeping our communities safe and strong.
+Our Keiki Need the Support At the state level, investing in our youth must be a top priority.
 Our keiki are the future of Hawaiʻi, and we have a responsibility to ensure they are supported, guided, and given every opportunity to succeed.
 This means strengthening our public education system, increasing resources for teachers, and expanding access to after-school programs, mentorship, athletics, cultural education, and the arts.
 We must also create clear pathways for career and technical training so our youth can build a future here at home.
 By investing in our young people early, we not only uplift individuals, but we also strengthen families, reduce crime, and build safer, more resilient communities.
 When we take care of our keiki, we are investing in the long-term success of our entire state.
-Protect our Culture and Preservation
-At the state level, protecting our culture and preserving our heritage must be a core responsibility of government.
+Protect our Culture and Preservation At the state level, protecting our culture and preserving our heritage must be a core responsibility of government.
 Hawaiʻi is not just a place—it is a people, a history, and a living culture that must be actively supported, not just acknowledged.
 We must ensure that Native Hawaiian culture, local traditions, and community values are protected and passed on to future generations.
 This starts with education.
@@ -65,3 +56,5 @@ This means integrating cultural impact considerations into state policies, suppo
 Protecting our culture is not just about honoring the past—it is about securing the future of Hawaiʻi.
 When we invest in our culture, we strengthen identity, community, and pride.
 And when we do that, we build a stronger, more grounded, and more united state.
+Kailua & Waimānalo Campaign Office Honolulu House District 51 O'ahu, Hawaiʻi Paid for by Friends of Micah Kalama PO Box 34, Waimanalo, Hi 96795 micahkalamaforhousedistrict51@gmail.com © # Friends of Micah Kalama.
+All rights reserved. bottom of page

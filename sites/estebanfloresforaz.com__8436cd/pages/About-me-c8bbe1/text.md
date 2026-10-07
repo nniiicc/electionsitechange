@@ -1,6 +1,4 @@
-Arizona State Senate
-estebanfloresforaz@protonmail.com
-Greetings.
+ESTEBAN FLORES Arizona State Senate estebanfloresforaz@protonmail.com Home About me Issues Public Forums & Media Donate Contacts Endorsements Vote Esteban Flores For Arizona State Senate Legislative District 21 July 21st, 2026 Early life Greetings.
 I'm Esteban Flores, and I'm excited to be running for the State Senate.
 As a servant of the Most High, blessed husband, to my beautiful, precious wife.
 Proud and joyful Father of my beloved seven-year-old daughter.
@@ -16,5 +14,12 @@ Soon realizing nursing wasn’t my calling, I went on to pursue my purpose, serv
 I sought this by graduating from Pima Community College with an Associate of Liberal Arts and General Studies, which I will use to help get my degree in Biblical Studies for full-time ministry.
 I am grateful to be seeking out the other aspect of my calling: to serve my country, my community of Legislative District 21, through public service.
 I love Tucson, my country, and my state, and I want to represent the families of Legislative District 21 with conviction, strong representation, and love.
-"I believe, that all people are created in the image of God "All Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed,"
-Everyone has a purpose and a calling.
+Education I've been a Student at Pima Community College and the University of Arizona.
+I graduated with an Associate in Liberal Arts from Pima Community College.
+Career I have served in our community in multiple capacities.
+I have been a volunteer at the Gospel Rescue Mission.
+I have served as a Youth Pastor.
+I have helped many people in my city avoid things like colon cancer and many other gastrointestinal tract issues by serving as their technician during their endoscopic procedures in multiple medical facilities around town.
+I have served my community in the medical field in several different capacities as a techician, including Anesthesia, Radiology, MRI, CAT scan, Medical Transport, and currently Endoscopy.
+Presently, I am seeking to continue serving my community by pursuing the role of public servant through the elected office of Governing Board Member of the Arizona State Legislature for Legislative District 21 Values "I believe, that all people are created in the image of God "All Men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed," Everyone has a purpose and a calling.
+Esteban Flores For State Senate Donate to the Esteban Flores For Arizona Campaign One time donation via Stripe How to Contact Me Phone 5205000411 Website estebanfloresforaz.com Email: estebanfloresforaz@protonmail.com © # Paid for by Esteban Flores For Arizona

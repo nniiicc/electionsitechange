@@ -1,3 +1,4 @@
-I am honored to be the guest speaker at the Whittier Republican Women’s meeting this Thursday.
+Skip to content Facebook Mail Instagram X News About Contact Me Gallery Give Speaking at WRW June 4th I am honored to be the guest speaker at the Whittier Republican Women’s meeting this Thursday.
 It will be an opportunity for me to discuss the issues facing California and what needs to be done to fix those issues.
-To make a reservation…………warwreservations@gmail.com
+Meeting To make a reservation…………warwreservations@gmail.com June 2, 2026 Glenn Shepherd Uncategorized WHAT’S GOING ON?
+Ballot Statement – English Do NOT vote for me if you want: High taxesHigh… Read more : Ballot Statement – English Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de… Read more : Ballot Statement – Spanish SOCIAL MEDIA Facebook Mail Instagram X Email: martinezforassembly@gmail.com Phone: (562) 347-7202 Home About News Paid for by: Jessica Martinez for 56th Assembly 2026 FPPC #: 1479619

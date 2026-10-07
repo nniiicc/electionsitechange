@@ -1,22 +1,16 @@
-Blog
-What I'm Voting for - November 4th
-October 20, 2025
-October 20, 2025
-October 19, 2025
-October 18, 2025
-October 17, 2025
-October 16, 2025
-October 16, 2025
-Public School
-April 27, 2026
-Managing Our Freedoms Wisely
-April 30, 2025
-April 6, 2025
-November 11, 2023
-Investing in the Common Good - Especially Public School
-People Before Party
-August 24, 2024
-November 20, 2023
-Pulling Together Instead of Pushing Apart
-January 14, 2024
-August 19, 2023
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 Blog Constitution Day Speech Read More » September 21, 2026 Want to get Paid More?
+Elect Pro-Union Candidates.
+Happy Labor Day!
+Read More » September 7, 2026 We know what it takes Read More » August 23, 2026 What I'm Voting for - November 4th No thanks to dumb political games – Props 15 & 16 Read More » October 20, 2025 Who judges the judges? – Prop 12 Read More » October 20, 2025 Bail Reform – Prop 3 Read More » October 19, 2025 Yes…I guess – Props 5, 11 & 13 Read More » October 18, 2025 Who Deserves a break – Props 7-9-10-17 Read More » October 17, 2025 Never will we ever – Props 2,6, & 8 Read More » October 16, 2025 Investing in Texas: Props 1,4, & 14 Read More » October 16, 2025 Public School Strong Public Schools Make us all Stronger Read More » April 27, 2026 5 Things to know about our (ugh!) new voucher bill Read More » June 4, 2025 What is Pat Curry saying about the education bills?
+Part 1: Vouchers Read More » April 20, 2025 School vouchers in Texas — a wasted opportunity to do some real good Read More » March 14, 2025 Pat Curry says Private School Vouchers Support Workforce Education.
+I don’t think that’s how it works.
+(2024) Read More » October 15, 2024 Four Big Differences that make the House Version of “Vouchers” more tolerable than the Senate Version (2023) Read More » October 20, 2023 « Previous Next » Managing Our Freedoms Wisely A response to a Dear Friend’s comment about the Texas 10 Commandments in the Classroom Law Read More » August 25, 2025 What’s my “Why?” Part 2: What’s my problem with the 10 Commandments?
+Read More » July 20, 2025 Signs of the times… Read More » April 30, 2025 A tale of two posters… Read More » April 6, 2025 Fear of the One True Way… (2023) Read More » November 11, 2023 Investing in the Common Good - Especially Public School What’s my “Why?” Part 1: I’m the luckiest girl in the world… Read More » June 22, 2025 The Utility of the American Dream: Oh, to be a Granddad at Whataburger on a Saturday morning!
+(2024) Read More » February 3, 2024 We need to get a better Villain (2023) Read More » September 2, 2023 People Before Party A girl can dream…how do we wake up from this redistricting nightmare?
+Read More » August 11, 2025 Would School Vouchers work for Waco?(2024) Read More » August 24, 2024 Texas House to Greg Abbott: You’re not the boss of me!
+(2023) Read More » November 20, 2023 Pulling Together Instead of Pushing Apart Thoughts on Charlie Kirk’s Murder?
+It’s bad.
+I’m against people killing each other.
+Read More » September 13, 2025 “Peace” and “Quiet” are not the same.
+For true peace we need to start talking!
+Read More » January 9, 2025 Wandering the Neighborhood… (2024) Read More » January 14, 2024 The Texas Scorecard – My Enemy (2023) Read More » August 19, 2023 Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

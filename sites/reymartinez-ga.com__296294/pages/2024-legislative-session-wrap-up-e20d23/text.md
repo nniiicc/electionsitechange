@@ -1,4 +1,4 @@
-This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
+Rey Martinez- GA State Rep - District 111 Home The Latest Issues & Priorities At the Capitol District 111 Map District News, Notes & Photos Donate 2024 Legislative Session Wrap-Up April 5, 2024 Rey Martinez At the Capitol , The Latest 0 This year’s legislative session was very productive as we passed a number of bills that were high on my priority list.
 Many of these bills will have a direct, positive financial impact on all Georgians as they lowered state income tax, increased the child tax exemption, doubled the homestead exemption and put a statewide cap on property tax.
 You can see the list of my priorities in the image at the bottom of this post.
 At the end of the session I was photographed shaking hands with House Speaker Jon Burns.
@@ -7,5 +7,10 @@ The article below the photo noted that during this session we prioritized bills 
 While the AJC reporters noted that the Republican majority pushed practical spending bills, they also pointed out that Democrats were outnumbered and outvoted and unable to pass their longtime top goal of Medicaid expansion.
 That issue will surely come up again next session and it’s unfortunate that it has become so divisive.
 Like most of my Republican colleagues, I’d like to explore our options for helping low income Georgians people secure medical treatment.
-But I can’t support a financially irresponsible program that hits taxpayers where it hurts.
-.
+But I can’t support a financially irresponsible program that hits taxpayers where it hurts. .
+2024 Legislative Session tax cuts Previous Illegal Immigrant Crime- A National Crisis Next We Must Always Stand with Israel Be the first to comment Leave a Reply Cancel reply Your email address will not be published.
+Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Subscribe Name: Email: Making Life More Affordable -- You can support my work to reduce taxes by clicking the link below to donate to my campaign.
+Donate Latest Posts 2026 Legislative Wrap-UP Congratulations are in Order Memorial Day- Looking Back & Ahead We Must Always Stand with Israel 2024 Legislative Session Wrap-Up Always great to see students from District 111 at the Capitol Copyright © # | WordPress Theme by MH Themes

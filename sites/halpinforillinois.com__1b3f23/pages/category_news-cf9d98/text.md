@@ -1,15 +1,10 @@
-Vote Halpin
-Join Sandra Tooley in voting for Mike Halpin.
-I want to make sure everyone has the opportunity to vote and have their voice heard.
-The 36th Senate District has seven election authorities, so make sure you get information[…]
-Jennifer Jacobs’, story: MOLINE – After 21 years as a school nurse, you think you’ve seen it all until a diabetic student suffers from a severe hypoglycemic episode and you[…]
-GALESBURG – The following statement on the city of Galesburg’s approved agreement to expand the Lane A.
-Evans VA Community Based Outpatient Clinic in Galesburg can be attributed to Rep.[…]
-SPRINGFIELD – The growing number of Illinoisans needing mental and behavioral health help will now have more options, after the support of State Rep.
-Mike Halpin for a new state[…]
-The COVID-19 pandemic proved especially difficult for small businesses along Illinois’ borders, as shutdowns led customers to go elsewhere.
+Toggle navigation Skip to content Take Our Survey News Get Involved Voting Resources About Mike Issues Donate Events Contact News Vote Halpin Posted on October 13, 2022 October 13, 2022 by Mike Halpin Join Sandra Tooley in voting for Mike Halpin.
+Early Voting Posted on September 14, 2022 September 22, 2022 by admin I want to make sure everyone has the opportunity to vote and have their voice heard.
+The 36th Senate District has seven election authorities, so make sure you get information […] Vote Halpin Posted on September 9, 2022 by Mike Halpin Jennifer Jacobs’, story: MOLINE – After 21 years as a school nurse, you think you’ve seen it all until a diabetic student suffers from a severe hypoglycemic episode and you […] Halpin applauds Lane Evans VA expansion in Galesburg Posted on June 27, 2022 June 27, 2022 by Mike Halpin GALESBURG – The following statement on the city of Galesburg’s approved agreement to expand the Lane A.
+Evans VA Community Based Outpatient Clinic in Galesburg can be attributed to Rep. […] Tagged Lane Evans , Mike Halpin SENATOR HALPIN: EXPANDING MENTAL, BEHAVIORAL HEALTH WORKFORCE TO MEET ILLINOIS’ NEEDS Posted on June 11, 2022 April 27, 2026 by Mike Halpin SPRINGFIELD – The growing number of Illinoisans needing mental and behavioral health help will now have more options, after the support of State Rep.
+Mike Halpin for a new state […] SENATOR HALPIN BRINGS ECONOMIC PROGRESS TO AREA THROUGH HOME GROWN BUSINESS OPPORTUNITY ACT Posted on May 28, 2022 April 27, 2026 by Mike Halpin The COVID-19 pandemic proved especially difficult for small businesses along Illinois’ borders, as shutdowns led customers to go elsewhere.
 State Rep.
-Mike Halpin is leading the effort to help them[…]
-SPRINGFIELD – More Illinois families will benefit from a scholarship program to help children of fallen veterans get a college education, under the leadership of State Rep.
+Mike Halpin is leading the effort to help them […] Halpin Leads Passage Of New Scholarship For Kids Of Fallen Veterans Posted on May 26, 2022 by Mike Halpin Senator Halpin: More veteran families benefit from scholarship aid Posted on May 24, 2022 April 27, 2026 by admin SPRINGFIELD – More Illinois families will benefit from a scholarship program to help children of fallen veterans get a college education, under the leadership of State Rep.
 Mike Halpin.
-Halpin,[…]
+Halpin, […] Early Voting in Rock Island County Posted on May 24, 2022 May 24, 2022 by admin Early Voting in Warren County Posted on May 24, 2022 by admin Posts navigation ← Older posts Recent Posts Vote Halpin Early Voting Vote Halpin Halpin applauds Lane Evans VA expansion in Galesburg SENATOR HALPIN: EXPANDING MENTAL, BEHAVIORAL HEALTH WORKFORCE TO MEET ILLINOIS’ NEEDS Pages Get Involved About Mike Issues Donate State Senator Halpin Wants To Hear From You!
+Privacy Policy Visit the ILGA.Gov website to view Legislative and Contact information. [email protected] facebook.com/halpinforillinois 309.553.1429 © # Mike Halpin Privacy Policy

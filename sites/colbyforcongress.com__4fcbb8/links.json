@@ -1,26 +1,118 @@
 [
-"http://iwillvote.com/",
-"https://colbyforcongress.com/",
-"https://colbyforcongress.com/about",
-"https://colbyforcongress.com/contact",
-"https://colbyforcongress.com/data-centers-ai",
-"https://colbyforcongress.com/energy-enviroment",
-"https://colbyforcongress.com/events",
-"https://colbyforcongress.com/healthcare",
-"https://colbyforcongress.com/issues",
-"https://colbyforcongress.com/issues/civil-rights-and-democracy",
-"https://colbyforcongress.com/issues/corruption",
-"https://colbyforcongress.com/issues/crime",
-"https://colbyforcongress.com/issues/education-and-healthcare",
-"https://colbyforcongress.com/issues/environment-and-infrastructure",
-"https://colbyforcongress.com/issues/foreign-policy-and-immigration",
-"https://colbyforcongress.com/issues/housing-and-economy",
-"https://colbyforcongress.com/issues/labor-and-farming",
-"https://colbyforcongress.com/news",
-"https://colbyforcongress.com/privacy-policy",
-"https://colbyforcongress.com/rights-liberty-freedoms",
-"https://facebook.com/colbyforcongress",
-"https://instagram.com/colbyforcongress?igsh=M2pwdGRlbDg0YmMw",
-"https://secure.actblue.com/donate/colbyforcongress",
-"https://tiktok.com/@colbyforcongress"
+{
+"text": "About",
+"href": "https://www.colbyforcongress.com/about"
+},
+{
+"text": "Border & Immigration",
+"href": "https://www.colbyforcongress.com/issues/civil-rights-and-democracy"
+},
+{
+"text": "Colby Watson for Congress 2026",
+"href": "https://www.colbyforcongress.com"
+},
+{
+"text": "Contact",
+"href": "https://www.colbyforcongress.com/contact"
+},
+{
+"text": "Contact: info@colbyforcongress.com",
+"href": "mailto:info@colbyforcongress.com?subject=I%27d+like+to+volunteer%21"
+},
+{
+"text": "Corruption",
+"href": "https://www.colbyforcongress.com/issues/education-and-healthcare"
+},
+{
+"text": "Corruption, Integrity, Accountability",
+"href": "https://www.colbyforcongress.com/issues/corruption"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colbyforcongress"
+},
+{
+"text": "Data Centers & AI",
+"href": "https://www.colbyforcongress.com/data-centers-ai"
+},
+{
+"text": "Economy",
+"href": "https://www.colbyforcongress.com/issues/labor-and-farming"
+},
+{
+"text": "Education and Strong Schools",
+"href": "https://www.colbyforcongress.com/issues/education-and-healthcare"
+},
+{
+"text": "Energy & Enviroment",
+"href": "https://www.colbyforcongress.com/energy-enviroment"
+},
+{
+"text": "Events",
+"href": "https://www.colbyforcongress.com/events"
+},
+{
+"text": "Foreign Policy",
+"href": "https://www.colbyforcongress.com/issues/foreign-policy-and-immigration"
+},
+{
+"text": "Healthcare",
+"href": "https://www.colbyforcongress.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.colbyforcongress.com"
+},
+{
+"text": "Housing",
+"href": "https://www.colbyforcongress.com/issues/housing-and-economy"
+},
+{
+"text": "Issues",
+"href": "https://www.colbyforcongress.com/issues"
+},
+{
+"text": "Meet Colby",
+"href": "https://www.colbyforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.colbyforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.colbyforcongress.com/privacy-policy"
+},
+{
+"text": "Rights, Liberty, Freedoms",
+"href": "https://www.colbyforcongress.com/rights-liberty-freedoms"
+},
+{
+"text": "Safe Communities",
+"href": "https://www.colbyforcongress.com/issues/crime"
+},
+{
+"text": "Shop",
+"href": "https://www.colbyforcongress.com"
+},
+{
+"text": "VOTER INFO",
+"href": "http://iwillvote.com"
+},
+{
+"text": "Veterans",
+"href": "https://www.colbyforcongress.com/issues/environment-and-infrastructure"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/colbyforcongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/colbyforcongress/?igsh=M2pwdGRlbDg0YmMw"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@colbyforcongress"
+}
 ]

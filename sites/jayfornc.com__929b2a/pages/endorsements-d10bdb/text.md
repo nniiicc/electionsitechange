@@ -1,16 +1,2 @@
-Skip to content
-DONATE TO SUPPORT JAY→
-About Jay
-Break the Supermajority
-Endorsements
-About Jay
-Break the Supermajority
-Endorsements
-Donate
-Endorsements
-Proudly Endorsed by proven leaders
-About Jay
-Break the Supermajority
-Endorsements
-Donate
-Facebook
+Skip to content DONATE TO SUPPORT JAY→ About Jay Break the Supermajority Endorsements About Jay Break the Supermajority Endorsements Donate Endorsements Proudly Endorsed by proven leaders Help Jay Break the Supermajority $# $# $# $1000 $3400 donate If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Home About Jay Break the Supermajority Endorsements Home About Jay Break the Supermajority Endorsements Facebook Jay Chaudhuri for Senate PO Box 1007 Raleigh, North Carolina 27602 Built by BCom About Jay Break the Supermajority Endorsements Donate Facebook

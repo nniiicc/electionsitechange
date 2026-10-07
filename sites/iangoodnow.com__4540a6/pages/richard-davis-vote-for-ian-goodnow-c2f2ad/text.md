@@ -1,6 +1,5 @@
-Richard Davis: Vote for Ian Goodnow
-Ian represents a generation that does not have enough presence in the statehouse.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Richard Davis: Vote for Ian Goodnow Ian Goodnow for State Representative on July 16, 2024 Ian represents a generation that does not have enough presence in the statehouse.
 If we are to remain a vibrant state that is responsive to the needs of the long future ahead for this state then we must elect people who are part of the emerging social and economic fabric of communities.
 Ian is smart and he has an abundance of energy that he has been able to focus to meet the needs of those who have bestowed upon him the honor of public trust.
 Youthful energy and integrity are among the most important qualities that make me want to have Ian represent me in Montpelier.
-Richard Davis (Brattleboro Reformer)
+Richard Davis (Brattleboro Reformer) Read the full story Category: In the News Post navigation Previous: Previous post: The Commons: In Brattleboro House race, it’s youth versus experience Next: Next post: Julie Cunningham: Ian Goodnow for State Rep Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

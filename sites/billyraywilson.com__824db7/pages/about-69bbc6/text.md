@@ -1,6 +1,5 @@
-About Billy Ray Wilson
-The Story of Billy Ray Wilson
-I was born in Laurel County, Kentucky, on September 21, 1943, the son of Abbie Brown and Raleigh Lee Wilson.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact About Billy Ray Wilson Billy Ray Wilson is a Former Candidate for United States Senate, American Patriot, Veteran, Author, Founder of the United States Nationalist Worker’s Party, and Proud Defender of the Constitution.
+The Story of Billy Ray Wilson I was born in Laurel County, Kentucky, on September 21, 1943, the son of Abbie Brown and Raleigh Lee Wilson.
 The four ancestry trees are: Wilson – Caste lie and Brown -Chandler.
 I was married twice and the father of a daughter.
 A second daughter and son were born from affairs while stationed in Thailand and Laos.
@@ -10,27 +9,22 @@ My son is married with a son and daughter.
 I enlisted into the U.S.
 Air Force, with my mother’s signature, on 30 September 1960 and honorably retired on 01 October 1980.
 My air force career was educational from learning assimilation, with the different backgrounds of U.S. citizens, and the pockets of racism in our country ended when you entered the gates of a Strategic Air Command Base.
-I was fortunate to have been assigned to Special Joint Military Organizations where one worked together with members of the Department of Defense to resolve situations of interest to not only the military but the people of the United States:
-Don Muang Royal Thai Air Base
-Special assignment at Don Muang Royal Thai Air Base, located at the Bangkok International Airport, Kingdom of Thailand.
+I was fortunate to have been assigned to Special Joint Military Organizations where one worked together with members of the Department of Defense to resolve situations of interest to not only the military but the people of the United States: Don Muang Royal Thai Air Base Special assignment at Don Muang Royal Thai Air Base, located at the Bangkok International Airport, Kingdom of Thailand.
 Our mission was to provide air traffic control support for U.S. operations in South Vietnam; the movement of personnel and construction resources for the manning & construction of U.S. military installations throughout Thailand, air refueling sorties that supported U.S. strikes against Laos and North Vietnam; provided Thailand Air Defense protection from North Vietnamese and Laotian air resources.
 Also, President and Mrs.
 Lady Bird Johnson visited the King and Queen of Thailand.
-Project 404
-A Top Secret covert assignment (Project 404), now declassified, attached to the Air Attache, U.S.
+Project 404 A Top Secret covert assignment (Project 404), now declassified, attached to the Air Attache, U.S.
 Embassy, Vientiane, Laos.
 Our mission was to deny the North Vietnamese the ability to move military equipment and personnel down the Ho Chi Minh Trail and Laotian Waterways into South Vietnam; provide Search and Rescue to downed U.S. airmen and special forces units operating in Laos and North Vietnam, support the release of U.S.
 Prisoners of War from Hanoi, North Vietnam by enhancing their debriefs and contact with their families.
 I fathered a son out of wedlock, gained custody through the Royal Laotian Court and returned to the United States with my son.
-JCRC at Nakhon Phanom Royal Thai Air Base
-The Joint Casualty Resolution Center (JCRC), located at Nakhon Phanom Royal Thai Air Base, Nakhon Phanom, Kingdom of Thailand.
+JCRC at Nakhon Phanom Royal Thai Air Base The Joint Casualty Resolution Center (JCRC), located at Nakhon Phanom Royal Thai Air Base, Nakhon Phanom, Kingdom of Thailand.
 Our mission was to go into Cambodia, Laos and Vietnam to recover the remains of U.S.
 Missing in Action and/ or resolve their status through the review of highly classified documents and other information received from all branches of the U.S. government, foreign allies, and informers.
 From our recovery of classified documents from the U.S.
 Embassy and other sources, we were able to change the status of multiple, military and civilian missing, to deceased, either body not recovered or body not recoverable.
 I requested reassignment early to the United States due to unethical practices by the Command.
-Homestead Air Force Base
-The first assignment at Homestead Air Force Base, FL was atypical of all regular assignments but the most enlightening; whereas, said experiences and information learned remains with me to-date.
+Homestead Air Force Base The first assignment at Homestead Air Force Base, FL was atypical of all regular assignments but the most enlightening; whereas, said experiences and information learned remains with me to-date.
 The negative part of the assignment was for the first time in my life, I witnessed, in the City of Homestead, the separation of races at water fountains and bathrooms and learned of the racism by Dade County Policemen through my work position.
 The assignment was the first in which I was part of military operations against an opposing force- the Soviet Union and Cuba.
 And, on a personal duty basis, I witnessed part of history in the making where the individual I saw and encountered on an infrequent basis; his activities at Homestead, Cuba, and later East Germany became a movie.
@@ -56,3 +50,6 @@ Other than the air force and Department of Defense contractor employers, I held 
 There were four non-government employment periods: Storm Security Consultant, with duty in the Bahamas; Pony Express KY Supervisor; Grand Teton Lodge, WY Housekeeping Supervisor; and Canteen Service Clerk, VA Medical Center, Allen Park, ML.
 From the thirty five years of employment and life experiences of the past 76 years, I know what it means to be a loyal citizen of the United States and from this knowledge; it is imperative we replace the members of the three branches of the Federal Government and make amendments to the U.S.
 Constitution.
+Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

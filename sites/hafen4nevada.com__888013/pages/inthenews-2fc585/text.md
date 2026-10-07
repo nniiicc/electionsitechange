@@ -1,25 +1,3 @@
-Gregory Hafen - In The News
-- GREG HAFEN II: Reconciliation bill needs reconsideration, before it hurts Nevada
-- Meet The Candidates: Greg Hafen, Candidate for Nevada Assembly District 36
-- Freshman Orientation: Assemblyman Gregory Hafen —The Nevada Independent
-- GOP assemblyman files lawsuit challenging Democrats’ redistricting plan
-- GOP redistricting lawsuit makes little headway in court two months after filing
-- Judge blocks GOP-backed redistricting lawsuit for 2022 election
-- Nevada assemblyman sues over Democratic redistricting plan
-- Here We Go Again: No, Steve Sisolak Did NOT Appoint Greg Hafen
-- A Note from Assemblyman Gregory Hafen
-- Nevada assemblyman sues over Democratic redistricting plan
-- Assemblyman Hafen kicks off re-election campaign in Pahrump
-- Assemblyman Hafen decries state redistricting, files lawsuit
-- Rural Nevadans file lawsuit against new political maps
-- 20th Anniversary of Sept. 11 attacks marked in Pahrump
-- In Nevada, gerrymandering claims come from all sides
-- Lawmaker sets stage for discussion on ‘modernizing’ tax revenue structure
-- Updates From Nevada’s Special Legislative Session: Here’s What You Need To Know
-- Nye County Right to Life fundraiser sees huge turnout
-- Assemblyman Hafen providing legislative updates
-- Nevada Recovers Listening Tour makes stop in Pahrump
-- Purple Heart Day marked with solemn ceremony in Pahrump
-- Nevadans spar over bill to update “antiquated” abortion laws
-- Hafen Focused On Serving Rural Nevada
-- Assemblyman Hafen Speaks To Local Voters
+0 Skip to Content About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate Open Menu Close Menu About Issues Endorsements Delivering for NV In The News Donate Gregory Hafen - In The News GREG HAFEN II: Reconciliation bill needs reconsideration, before it hurts Nevada Pahrump Valley Times Meet The Candidates: Greg Hafen, Candidate for Nevada Assembly District 36 KPVM-TV Freshman Orientation: Assemblyman Gregory Hafen —The Nevada Independent GOP assemblyman files lawsuit challenging Democrats’ redistricting plan The Nevada Independent GOP redistricting lawsuit makes little headway in court two months after filing The Nevada Independent Judge blocks GOP-backed redistricting lawsuit for 2022 election The Nevada Independent Nevada assemblyman sues over Democratic redistricting plan Keystone Korner Here We Go Again: No, Steve Sisolak Did NOT Appoint Greg Hafen Muth’s Truths A Note from Assemblyman Gregory Hafen Nevada Republican Party Nevada assemblyman sues over Democratic redistricting plan Las Vegas Review-Journal Assemblyman Hafen kicks off re-election campaign in Pahrump Pahrump Valley Times Assemblyman Hafen decries state redistricting, files lawsuit Pahrump Valley Times Rural Nevadans file lawsuit against new political maps News 4 20th Anniversary of Sept.
+11 attacks marked in Pahrump Pahrump Valley Times In Nevada, gerrymandering claims come from all sides Courthouse News Service Lawmaker sets stage for discussion on ‘modernizing’ tax revenue structure Nevada Current Updates From Nevada’s Special Legislative Session: Here’s What You Need To Know Capradio Nye County Right to Life fundraiser sees huge turnout Pahrump Valley Times Assemblyman Hafen providing legislative updates Pahrump Valley Times Nevada Recovers Listening Tour makes stop in Pahrump Pahrump Valley Times Purple Heart Day marked with solemn ceremony in Pahrump Pahrump Valley Times Nevadans spar over bill to update “antiquated” abortion laws Nevada Current Hafen Focused On Serving Rural Nevada The Progress Assemblyman Hafen Speaks To Local Voters The Progress Donate Today Paid for by Friends of Gregory T.
+Hafen Contact Gregory@hafen4nevada.com 775-209-3006

@@ -1,7 +1,11 @@
 {
  "description": "Chip in to support Jim Creighton's campaign for New Hampshire State Senate.",
  "final_url": "https://creighton4nh.com/donate",
+ "fingerprint": "7b32510802c2a53ad9da693a8c44b6e6921f04ca",
+ "format": 3,
  "paid_for_by": "Paid for by Creighton for State Senate",
- "title": "Donate \u2014 Creighton for NH State Senate",
- "years_mentioned": []
+ "title": "Donate — Creighton for NH State Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

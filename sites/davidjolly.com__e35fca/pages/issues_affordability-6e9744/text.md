@@ -1,41 +1,33 @@
-Florida Should Be a Place You Can Afford to Call Home
-From the rent check to the insurance bill, the cost of living here has outrun the paychecks of the people who make Florida run.
-Our plan takes on Florida's affordability crisis in several ways.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT AFFORDABILITY Florida Should Be a Place You Can Afford to Call Home From the rent check to the insurance bill, the cost of living here has outrun the paychecks of the people who make Florida run.
+In short Our plan takes on Florida's affordability crisis in several ways.
 Let's start with housing and insurance.It dramatically lowers insurance premiums by creating a statewide catastrophic fund.
 It reduces monthly electric bills by capping utility company profits.
 It scales up workforce and affordable housing construction with down-payment assistance for first-time buyers.
 Our plan protects renters through expanded affordable housing programs and, to help condo owners cover special assessments, it offers no-interest state-backed loans.
 It's an actual plan, not an empty promise, to leave Florida families with more money at the end of each month.
-The Dream Is Slipping Out of Reach
-For generations, Florida meant a fresh start, a house with a yard, and the room to build a life.
+WHAT'S AT STAKE The Dream Is Slipping Out of Reach For generations, Florida meant a fresh start, a house with a yard, and the room to build a life.
 Now young families are watching that promise fade as the typical first-time buyer waits until age 40, and even lifelong Floridians open their insurance bills with dread.
 This is not just an economic problem.
 It is about whether working people can still put down roots in the state they love.
-Take on the Insurance Crisis
-No family should have to choose between insuring their home and keeping the lights on.
+Take on the Insurance Crisis No family should have to choose between insuring their home and keeping the lights on.
 Florida pays the highest homeowners' premiums in the country, and too many carriers have walked away, leaving people stranded.
 We will fight for a system that treats hurricane risk as the shared statewide challenge it is, so a single storm season doesn't decide whether you keep your house.
-Stop the Runaway Utility Bills
-Electricity is not a luxury, and over-the-top profits for the biggest utilities should not come out of your monthly budget.
+Read the full plan: how a state-backed catastrophe fund cuts Florida homeowners insurance by 60 to 70 percent.
+Stop the Runaway Utility Bills Electricity is not a luxury, and over-the-top profits for the biggest utilities should not come out of your monthly budget.
 Florida regulators have let investor-owned power companies earn some of the fattest returns in the nation while families ration the air conditioning in the summer heat.
 We will push to cap utility profits in line with the national average and put that money back where it belongs, in your pocket.
-Build Homes People Can Actually Afford
-You cannot fix a shortage by wishing it away, and Florida is short the homes its growing families need.
+Build Homes People Can Actually Afford You cannot fix a shortage by wishing it away, and Florida is short the homes its growing families need.
 We will invest in the tools that work, from workforce housing to real down-payment help for first-time buyers, so a nurse, a teacher, or a young couple can find a place they can afford.
 Building more is how we bring prices back within reach.
-Protect Renters and Condo Owners Left Behind
-Half of Florida renters now hand over more than a third of their income just to keep a roof overhead, and older condo owners are being hit with special assessments that can wipe out a lifetime of savings.
+Protect Renters and Condo Owners Left Behind Half of Florida renters now hand over more than a third of their income just to keep a roof overhead, and older condo owners are being hit with special assessments that can wipe out a lifetime of savings.
 Safety matters, and no one should live in an unsafe building, but families cannot be left to shoulder impossible bills alone.
 We will stand with renters and long-time owners so the fine print doesn't force them out of their own homes.
-Give Families Room to Breathe
-When most people can't cover a surprise bill without going into debt, the whole economy is one storm away from crisis.
+Give Families Room to Breathe When most people can't cover a surprise bill without going into debt, the whole economy is one storm away from crisis.
 Real affordability means an honest shot at saving, not just surviving the next deductible or rate hike.
 Every fight on this page comes back to one goal: leaving Florida families with more at the end of the month.
-Affordable Once More
-Florida can be a place where hard work still buys a home, a full fridge, and a night's sleep without worry.
+THE ROAD AHEAD Affordable Once More Florida can be a place where hard work still buys a home, a full fridge, and a night's sleep without worry.
 Let's build that Florida together.
-Frequently asked questions
-Q.
+Back to the campaign Frequently asked questions Q.
 Why can't I afford to buy a home in Florida anymore?
 Florida's median home price reached $420,000, mortgage rates sit around 6.36 percent, and insurance premiums are among the nation's highest.
 Long-term owners pay far less property tax than new buyers for the same house thanks to Save Our Homes caps, and the structural result is that the median first-time buyer age has risen sharply.
@@ -67,3 +59,6 @@ Q.
 What about retirees on fixed income in Florida?
 Retirees face acute pressures from condo special assessments and rising property insurance.
 The no-interest state-backed condo loan is targeted directly at fixed-income condo owners who can't absorb a six-figure special assessment, and the catastrophic fund insurance savings would also hit hardest for retirees who often pay insurance directly.
+Explore this issue In depth The Florida I Remember (And What We're Losing) In depth Affordability in Jacksonville In depth Affordability in Orlando In depth As Governor - Affordability Housing About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

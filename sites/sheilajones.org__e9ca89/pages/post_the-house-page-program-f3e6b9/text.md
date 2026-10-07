@@ -1,6 +1,3 @@
-The House Page Program
-Updated: Apr 14, 2024
-For more than 50 years, the Page Program has provided an exclusive opportunity for Georgia’s students between 12 and 18 years old to visit our Capitol and serve in the House Chamber.
-I encourage students from House District 60 who may be interested to
-apply as soon as possible.
-Parents and students can learn more about the application process here: https://www.legis.ga.gov/house/page-program
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation Search The House Page Program Sheila Jones Jan 1, 2023 1 min read Updated: Apr 14, 2024 For more than 50 years, the Page Program has provided an exclusive opportunity for Georgia’s students between 12 and 18 years old to visit our Capitol and serve in the House Chamber.
+I encourage students from House District 60 who may be interested to apply as soon as possible.
+Parents and students can learn more about the application process here: https://www.legis.ga.gov/house/page-program Tags: State Capitol Youth Community Event Recent Posts See All 2024 Sponsored/Co-sponsored Legislation Special Session | 2023 News from the State Capitol | October 2023 Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

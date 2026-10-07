@@ -1,7 +1,9 @@
 {
- "description": "See Nick\u2019s upcoming campaign events happening near you.",
+ "description": "See Nick’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/nick-kimble/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "4413befe33a36fd75db5dc42603b43e35f609570",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Nick Kimble Events",
  "years_mentioned": []
 }

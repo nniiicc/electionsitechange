@@ -1,13 +1,50 @@
 [
-"https://bellfornewhampshire.com/",
-"https://bellfornewhampshire.com/about",
-"https://bellfornewhampshire.com/contact",
-"https://bellfornewhampshire.com/endorsements",
-"https://bellfornewhampshire.com/privacy-policy",
-"https://bellfornewhampshire.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61591589579590",
-"https://instagram.com/leonardbellnh",
-"https://secure.actblue.com/donate/leonard-bell-1",
-"https://x.com/LeonardBellNH"
+{
+"text": "About",
+"href": "https://www.bellfornewhampshire.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bellfornewhampshire.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/leonard-bell-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bellfornewhampshire.com/endorsements"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bellfornewhampshire.com/volunteer"
+},
+{
+"text": "[image: Leonard Bell for New Hampshire State Senate]",
+"href": "https://www.bellfornewhampshire.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61591589579590"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/leonardbellnh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LeonardBellNH"
+},
+{
+"text": "info@bellfornewhampshire.com",
+"href": "mailto:info@bellfornewhampshire.com"
+},
+{
+"text": "privacy policy",
+"href": "https://www.bellfornewhampshire.com/privacy-policy"
+}
 ]

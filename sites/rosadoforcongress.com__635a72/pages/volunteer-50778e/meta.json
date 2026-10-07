@@ -1,9 +1,9 @@
 {
  "description": "Join our campaign by submitting your campaign volunteer application today. Apply to volunteer and help build a brighter future with us!",
  "final_url": "https://rosadoforcongress.com/volunteer",
- "paid_for_by": null,
+ "fingerprint": "52b7fad7ca7a131e677db5b3fd64bdd76a632a10",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Volunteer",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

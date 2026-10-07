@@ -1,5 +1,4 @@
-Meet Griselda
-Griselda Romero is a Chicago native, born and raised, and currently lives in the township of Lisle, Illinois.
+Home Meet Griselda Meet Eyde Campaign News Platform Get Involved Join the Mailing List Contact Donate Select Page Meet Griselda Griselda Romero is a Chicago native, born and raised, and currently lives in the township of Lisle, Illinois.
 Griselda is the first daughter and second of four to immigrant parents and first-generation college graduate.
 Griselda obtained her bachelor’s degree from Roosevelt University in Counseling and master’s degree from the Chicago School of Professional Psychology.
 As a bicultural licensed professional counselor (LPC), she has dedicated over a decade to serving her community with a particular focus on crisis mental health.
@@ -10,20 +9,4 @@ Through this work, she has recognized that many of the challenges confronting th
 These struggles have intensified over time, and she is committed to driving meaningful change from the top down.
 She believes that for society to truly thrive, we must first face the issues at hand—acknowledging and addressing the systemic inequities that persist within our communities and within the very structures meant to serve them.
 Click here to read about why I am running for Governor of Illinois!
-I am committed to:
-Political Freedom & Democracy
-- Equal access to the ballot for all voices and in support of rank choice voting
-- Breaking down gatekeeping systems that protect the two-party duopoly and silence third-party candidates
-- Fighting for transparent, accountable government that serves people, not special interests
-Economic Justice
-- Dismantling systems that concentrate wealth and power in corporate hands
-- Supporting worker ownership, cooperative economics, and community-based solutions
-- Ensuring economic decisions are made democratically by those affected, not by distant corporations or political elites
-Individual Liberty Within Community
-- Protecting civil liberties and personal freedoms from government overreach
-- Recognizing that true freedom requires both individual rights and collective responsibility to our communities
-- Affirming that people have the right to make decisions about their own lives, work, and communities
-Environmental & Social Justice
-- Recognizing that environmental destruction and social inequality are linked to systems of concentrated power
-- Supporting solutions rooted in community needs, not corporate profit
-- Believing a just society protects both people and the planet
+I am committed to: Political Freedom & Democracy Equal access to the ballot for all voices and in support of rank choice voting Breaking down gatekeeping systems that protect the two-party duopoly and silence third-party candidates Fighting for transparent, accountable government that serves people, not special interests Economic Justice Dismantling systems that concentrate wealth and power in corporate hands Supporting worker ownership, cooperative economics, and community-based solutions Ensuring economic decisions are made democratically by those affected, not by distant corporations or political elites Individual Liberty Within Community Protecting civil liberties and personal freedoms from government overreach Recognizing that true freedom requires both individual rights and collective responsibility to our communities Affirming that people have the right to make decisions about their own lives, work, and communities Environmental & Social Justice Recognizing that environmental destruction and social inequality are linked to systems of concentrated power Supporting solutions rooted in community needs, not corporate profit Believing a just society protects both people and the planet PAID FOR BY PEOPLE FOR GRISELDA ROMERO PAID FOR BY PEOPLE FOR GRISELDA ROMERO Customize Reject All Accept All Powered by

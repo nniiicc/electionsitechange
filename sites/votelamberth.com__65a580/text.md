@@ -1,8 +1,9 @@
-WILLIAM LAMBERTH
-The conservative voice of thE 44th District
-JOIN OUR TEAM
-Meet William
-My name is William Lamberth and I am honored to serve as your State Representative for the 44th District.
+DONATE WILLIAM LAMBERTH The conservative voice of thE 44th District JOIN OUR TEAM By providing your mobile phone number, you are consenting to receive text messages, including automated texts, to that number with campaign notifications from the Committee to Elect William Lamberth.
+Donations may be solicited.
+Reply HELP for help, Reply STOP to opt out.
+Message frequency will vary and data rates may apply.
+Privacy Policy & Terms and Conditions apply.
+First Name (Required) Last Name (Required) Email (Required) Phone Consent I agree to the Mobile Opt-in JOIN Meet William My name is William Lamberth and I am honored to serve as your State Representative for the 44th District.
 To understand who I am and what I believe in, you have to know what it's like to grow up on a farm.
 Each day when the sun rises, you know it's a blessing from God.
 You get up, get dressed, grab a bite to eat, and go to work.
@@ -30,7 +31,8 @@ Working as a team, we can ensure the success of District 44 and the prosperity o
 I humbly ask for your continued support as we learn and grow together.
 Join me in this effort, and I know we can all accomplish amazing things.
 Thank you for allowing me the extraordinary privilege to serve you.
-Issues
-“I humbly ask for your continued support as we work together to keep Tennessee great.
+Issues Cutting Taxes And Eliminating Regulations Preserving The 2nd Amendment Growing Our Economy Protecting The Right To Life Educating Tennessee's Future Supporting Law Enforcement “I humbly ask for your continued support as we work together to keep Tennessee great.
 Join me in this effort, and I know we can implement real solutions.
-Thank you for allowing me the extraordinary privilege to serve you.”
+Thank you for allowing me the extraordinary privilege to serve you.” William Lamberth Paid for by Committee to Elect William Lamberth, Lance Wray, Treasurer.
+Please make contributions out to: Committee to Elect William Lamberth P.O.
+Box 812 Portland, TN 37148 Privacy Policy & Terms and Conditions

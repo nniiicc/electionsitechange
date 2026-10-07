@@ -1,8 +1,3 @@
-News
-NEWS
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS ARTICLE
-NEWS
-https://www.instagram.com/p/DW_u2ZxkSj3/?hl=af
+Skip navigation menu About Issues News Volunteer Contact Donate About Issues News Volunteer Contact Donate News Who is running to represent Lexington County SC House seats?
+NEWS Jeremy talks with Carey Shofner about the campaign!
+NEWS ARTICLE Jeremy is featured on Lexington Dems Website NEWS ARTICLE Jeremy is featured Young Democrats of the Central Midlands Social Media NEWS ARTICLE Jeremy was interviewed on the All About Nothing Podcast NEWS ARTICLE Jeremy officially becomes a Moms Demand Action Gun Sense Candidate Apr 11 2026 NEWS Jeremy talks with Carey Shofner about the campaign! https://www.instagram.com/p/DW_u2ZxkSj3/?hl=af jeremyjonesforsc@gmail.com Powered by RUN! website builder Paid for by Jeremy Jones for SC You need to enable JavaScript to run this app.

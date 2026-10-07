@@ -1,14 +1,66 @@
 [
-"http://instagram.com/",
-"https://facebook.com/",
-"https://facebook.com/chris.stigall",
-"https://flic.kr/ps/47UpRj",
-"https://stigallforcongress.com/",
-"https://stigallforcongress.com/endorsements",
-"https://stigallforcongress.com/issues",
-"https://stigallforcongress.com/media",
-"https://twitter.com/",
-"https://twitter.com/ChrisStigall",
-"https://youtube.com/",
-"https://youtube.com/@thechrisstigallshow"
+{
+"text": "Contact us",
+"href": "https://www.stigallforcongress.com/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stigallforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stigallforcongress.com/#GetInvolved"
+},
+{
+"text": "Home",
+"href": "https://www.stigallforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stigallforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.stigallforcongress.com/media"
+},
+{
+"text": "VIEW FULL GALLERY →",
+"href": "https://flic.kr/ps/47UpRj"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/chris.stigall"
+},
+{
+"text": "[no text]",
+"href": "https://flic.kr/ps/47UpRj"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ChrisStigall"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@thechrisstigallshow"
+},
+{
+"text": "chris@stigallforcongress.com",
+"href": "mailto:chris@stigallforcongress.com"
+}
 ]

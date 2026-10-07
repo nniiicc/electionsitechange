@@ -1,14 +1,74 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/profile.php?id=61579342770173",
-"https://instagram.com/tregtaylorak",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://secure.winred.com/treg-for-governor/website",
-"https://tiktok.com/@tregtaylor?lang=en",
-"https://tregforak.com/",
-"https://tregforak.com/privacy-policy",
-"https://x.com/tregtaylorak",
-"https://youtube.com/@TregTaylor-ak"
+{
+"text": "About CAndi",
+"href": "https://tregforak.com/#About-Candi"
+},
+{
+"text": "About Treg",
+"href": "https://tregforak.com/#About-Treg"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/treg-for-governor/website"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61579342770173"
+},
+{
+"text": "Home",
+"href": "https://tregforak.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tregtaylorak/"
+},
+{
+"text": "Issues",
+"href": "https://tregforak.com/#Wins"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tregforak.com/privacy-policy"
+},
+{
+"text": "Results",
+"href": "https://tregforak.com/#treg-wins"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@tregtaylor?lang=en"
+},
+{
+"text": "Volunteer",
+"href": "https://tregforak.com/#Volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/tregtaylorak"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@TregTaylor-ak"
+},
+{
+"text": "[image: Treg Taylor for Alaska Governor]",
+"href": "https://tregforak.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "info@tregforak.com",
+"href": "mailto:info@tregforak.com"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

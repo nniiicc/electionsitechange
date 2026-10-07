@@ -1,15 +1,11 @@
-Press Release
-ICYMI: Cotton on What Defunding ICE Would Mean for Arkansas After Shoffner Admits She Would Defund the Agency
-“When you defund ICE, that’s not just federal law enforcement.
-We have over 100 police departments and sheriff’s departments here in Arkansas that work with ICE to protect our state from dangerous illegal criminal aliens.” – Senator Cotton
-ICYMI – Senator Tom Cotton (R) joined America’s Newsroom on Fox News to discuss the midterms and his opponent’s support for defunding ICE.
+Skip to content ★ Endorsed by Gov.
+Sarah Sanders and every Arkansas statewide official → Menu Home About Tom Issues News Volunteer Contact Donate Press Release ICYMI: Cotton on What Defunding ICE Would Mean for Arkansas After Shoffner Admits She Would Defund the Agency September 4, 2026 Contact: James@TomCotton.com “When you defund ICE, that’s not just federal law enforcement.
+We have over 100 police departments and sheriff’s departments here in Arkansas that work with ICE to protect our state from dangerous illegal criminal aliens.” – Senator Cotton Interview Link ICYMI – Senator Tom Cotton (R) joined America’s Newsroom on Fox News to discuss the midterms and his opponent’s support for defunding ICE.
 He noted in particular that defunding ICE would hurt Arkansas law enforcement officers, not just the federal agency.
 In June, Democrat Hallie Shoffner admitted on tape that she would vote to defund ICE.
 In July, she stood by her comments, as reported by KATV.
 But in September, Hallie Shoffner claimed in a Facebook post that now, she does not support defunding ICE.
-Key excerpts from the interview are below.
-***
-Senator Cotton: Yeah, Dana, I mean, you look around the country and the Democrats are nominating radicals, that they want to defund our military.
+Key excerpts from the interview are below. *** Senator Cotton: Yeah, Dana, I mean, you look around the country and the Democrats are nominating radicals, that they want to defund our military.
 They want to take away your health insurance on the job.
 They want to defund Immigration and Customs Enforcement.
 It’s not just in more Democratic states, like Maine or in Michigan.
@@ -28,3 +24,15 @@ I want to reform it.” That’s a hard position to change in two months.
 Senator Cotton: Yeah, Dana, it goes to show that even in Arkansas, the radical Democrats’ instinct is to defund ICE because they want open borders.
 Now, again, I think she recognizes in Arkansas, that’s unpopular, but she’s no different from Abdul El-Sayed in Michigan, or the Democratic candidates in places like Maine and Florida and Texas as well.
 They all want to defund ICE, which, again, means defunding the police right here in Arkansas, because our police and our sheriffs work cooperatively with ICE to protect our state from dangerous criminal aliens.
+### ← All News Share ← Newer National Rifle Association Endorses Senator Tom Cotton, Hallie Shoffner Receives “F” Rating Older → ICYMI: Hallie Shoffner is Running as an Arkansas Farmer.
+Before that, She Was an AOC Donor and Dem Insider.
+We depend on you Stand with Tom.
+Stand with Arkansas.
+Your support helps Tom share our message and grow the team supporting it.
+Chip in any amount today. $4.49 $15 $50 Other Home About Tom Issues News Volunteer Contact Privacy Thank you for visiting Tom's campaign website.
+If you need help from his official Senate office, please click here .
+Paid for by Cotton for Senate.
+Senator Cotton was honorably discharged from the U.S.
+Army.
+Images do not imply endorsement by the Department of Defense or any Service Branch. © Copyright # Cotton for Senate.
+All Rights Reserved.

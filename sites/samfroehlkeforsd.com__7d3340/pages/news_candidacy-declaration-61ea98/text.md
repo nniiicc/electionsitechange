@@ -1,4 +1,4 @@
-My name is Sam Froehlke, and I am declaring my candidacy for District 4 in South Dakota’s House of Representatives.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Candidacy declaration 10 Oct Friday, 10:16 PM · 2025 Candidacy declaration My name is Sam Froehlke, and I am declaring my candidacy for District 4 in South Dakota’s House of Representatives.
 I live in southern Deuel county, and have for most of my life.
 I support life, property rights, and responsible local government.
 I am running as an independent candidate because I don’t see that the two main parties are offering the true solutions that we need today.
@@ -13,3 +13,4 @@ But any tax cut has to mean cutting spending, even where it hurts.
 Our needs must come before our wants, and we need to maintain local fire and ambulance services.
 We need to support our townships, and their upkeep.
 The taxes must be cut, and these needs take precedence over infinitely expanding school budgets.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

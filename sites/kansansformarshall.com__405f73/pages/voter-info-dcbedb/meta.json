@@ -1,9 +1,12 @@
 {
  "description": "Kansas voter info, 2026. Registration deadline, advance voting, polling place lookup, voter ID, county clerks. Sourced from the Kansas Secretary of State.",
  "final_url": "https://kansansformarshall.com/voter-info/",
- "paid_for_by": "Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email&#160;protected] Not authorized by any candidate or candidate\u2019s committ",
- "title": "Voter info \u00b7 Doc Marshall",
+ "fingerprint": "18ff7387781b6435269586ec509161eea2e29a26",
+ "format": 3,
+ "paid_for_by": "Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email protected] Not authorized by any candidate or candidate’s committee other than Kansans for",
+ "title": "Voter info · Doc Marshall",
  "years_mentioned": [
+  "2015",
   "2026"
  ]
 }

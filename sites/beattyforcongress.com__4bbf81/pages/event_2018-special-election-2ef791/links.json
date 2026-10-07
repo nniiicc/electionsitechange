@@ -1,23 +1,98 @@
 [
-"http://facebook.com/sharer.php?s=100&p%5Burl%5D=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F&p%5Bimages%5D%5B0%5D=https%3A%2F%2Fbeattyforcongress.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fgo_vote.jpg&p%5Btitle%5D=2018+SPECIAL+ELECTION",
-"https://beattyforcongress.com/",
-"https://beattyforcongress.com/about",
-"https://beattyforcongress.com/contact",
-"https://beattyforcongress.com/event/2018-general-election",
-"https://beattyforcongress.com/event/2018-special-election?ical=1",
-"https://beattyforcongress.com/event/annual-golf-outing",
-"https://beattyforcongress.com/events",
-"https://beattyforcongress.com/events/category/election",
-"https://beattyforcongress.com/events/list",
-"https://beattyforcongress.com/get-involved",
-"https://beattyforcongress.com/grid-gallery",
-"https://beattyforcongress.com/issues-page",
-"https://beattyforcongress.com/news",
-"https://facebook.com/JoyceBeattyforCongress",
-"https://google.com/calendar/event?action=TEMPLATE&text=2018+SPECIAL+ELECTION&dates=20180807T063000%2F20180807T193000&details=Military+%26amp%3B+Overseas+Absentee+Voting%3A+Begins+June+23+%2845+Days+Before+Election+Day%29+%0AEarly+In-Person+Voting%3A+Begins+July+10+and+includes+the+Saturday%2C+Sunday+and+Monday+Before+Election+Day+%0AAbsentee+Voting+By+Mail%3A+Begins+July+10+%0AElection+Day%3A+August+7+%28Polls+Open+6%3A30+a.m.+%26%238211%3B+7%3A30+p.m.%29+%0AIMPORTANT+DATES%3A%0AJUNE%0AJune+23%3A+Military+and+Overseas+Absentee+Voting+begins+%28ends+August+6%29+%0AJULY%0AJuly+9%3A+Deadline+to+Register+to+Vote+%0AJuly+10%3A+Absentee+Voting+by+Mail+begins+%28ends+August+6%29+%0AJuly+10%3A+Early+In-Person+Voting+begins+%0AEARLY+IN-PERSON+VOTING+HOURS+FOR+JULY%0AJuly+10-13%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+16-20%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+23-27%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+30-31%3A+8%3A00+a.m.+%26%238211%3B+7%3A00+p.m.+%0AAUGUST%0AAugust+4%3A+Deadline+to+Request+an+Absentee+Ballot+%28Noon%29+%0AAugust+6%3A+Mailed+absentee+ballots+must+be+postmarked+by+this+date+%0AAugust+7%3A+Special+Election%3A+Polls+are+open+from+6%3A30+a.m.+%26%238211%3B+7%3A30+p.m.+%0AAugust+7%3A+Voters+are+able+to+drop+off+absentee+ballot+a+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F%29&trp=false&sprop=website%3Ahttps%3A%2F%2Fbeattyforcongress.com&ctz=America%2FNew_York",
-"https://instagram.com/beattyforcongress",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F&media=https%3A%2F%2Fbeattyforcongress.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fgo_vote.jpg",
-"https://plus.google.com/share?url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F",
-"https://twitter.com/JoyceBeatty",
-"https://twitter.com/intent/tweet?text=2018+SPECIAL+ELECTION&url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F"
+{
+"text": "2018 GENERAL ELECTION",
+"href": "https://beattyforcongress.com/event/2018-general-election/"
+},
+{
+"text": "About Joyce",
+"href": "https://beattyforcongress.com/about/"
+},
+{
+"text": "All Events",
+"href": "https://beattyforcongress.com/events/"
+},
+{
+"text": "Annual Golf Outing",
+"href": "https://beattyforcongress.com/event/annual-golf-outing/"
+},
+{
+"text": "Contact",
+"href": "https://beattyforcongress.com/contact/"
+},
+{
+"text": "Election",
+"href": "https://beattyforcongress.com/events/category/election/"
+},
+{
+"text": "Email to a Friend",
+"href": "mailto:?subject=2018+SPECIAL+ELECTION&body=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F"
+},
+{
+"text": "Events",
+"href": "https://beattyforcongress.com/events/list/"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/sharer.php?m2w=&s=100&p%5Burl%5D=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F&p%5Bimages%5D%5B0%5D=https%3A%2F%2Fbeattyforcongress.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fgo_vote.jpg&p%5Btitle%5D=2018+SPECIAL+ELECTION"
+},
+{
+"text": "Gallery",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&text=2018+SPECIAL+ELECTION&dates=20180807T063000%2F20180807T193000&details=Military+%26amp%3B+Overseas+Absentee+Voting%3A+Begins+June+23+%2845+Days+Before+Election+Day%29+%0AEarly+In-Person+Voting%3A+Begins+July+10+and+includes+the+Saturday%2C+Sunday+and+Monday+Before+Election+Day+%0AAbsentee+Voting+By+Mail%3A+Begins+July+10+%0AElection+Day%3A+August+7+%28Polls+Open+6%3A30+a.m.+%26%238211%3B+7%3A30+p.m.%29+%0AIMPORTANT+DATES%3A%0AJUNE%0AJune+23%3A+Military+and+Overseas+Absentee+Voting+begins+%28ends+August+6%29+%0AJULY%0AJuly+9%3A+Deadline+to+Register+to+Vote+%0AJuly+10%3A+Absentee+Voting+by+Mail+begins+%28ends+August+6%29+%0AJuly+10%3A+Early+In-Person+Voting+begins+%0AEARLY+IN-PERSON+VOTING+HOURS+FOR+JULY%0AJuly+10-13%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+16-20%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+23-27%3A+8%3A00+a.m.+%26%238211%3B+5%3A00+p.m.+%0AJuly+30-31%3A+8%3A00+a.m.+%26%238211%3B+7%3A00+p.m.+%0AAUGUST%0AAugust+4%3A+Deadline+to+Request+an+Absentee+Ballot+%28Noon%29+%0AAugust+6%3A+Mailed+absentee+ballots+must+be+postmarked+by+this+date+%0AAugust+7%3A+Special+Election%3A+Polls+are+open+from+6%3A30+a.m.+%26%238211%3B+7%3A30+p.m.+%0AAugust+7%3A+Voters+are+able+to+drop+off+absentee+ballot+a+%28View+Full+Event+Description+Here%3A+https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F%29&location=&trp=false&sprop=website%3Ahttps%3A%2F%2Fbeattyforcongress.com&ctz=America%2FNew_York"
+},
+{
+"text": "Google Plus",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F"
+},
+{
+"text": "Home",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://beattyforcongress.com/issues-page/"
+},
+{
+"text": "News",
+"href": "https://beattyforcongress.com/news/"
+},
+{
+"text": "Pinterest",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F&media=https%3A%2F%2Fbeattyforcongress.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fgo_vote.jpg"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?text=2018+SPECIAL+ELECTION&url=https%3A%2F%2Fbeattyforcongress.com%2Fevent%2F2018-special-election%2F"
+},
+{
+"text": "[image: Joyce Beatty for Congress]",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoyceBeatty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoyceBeattyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beattyforcongress/"
+},
+{
+"text": "beattyforcongress@gmail.com",
+"href": "mailto:beattyforcongress@gmail.com"
+},
+{
+"text": "iCal Export",
+"href": "https://beattyforcongress.com/event/2018-special-election/?ical=1"
+}
 ]

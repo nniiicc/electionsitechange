@@ -1,19 +1,82 @@
 [
-"https://bsky.app/profile/katy4congress.bsky.social",
-"https://facebook.com/katy4congress",
-"https://heyvictor.com/",
-"https://instagram.com/katy4congress",
-"https://katyforcongress.com/",
-"https://katyforcongress.com/accessibility-statement",
-"https://katyforcongress.com/endorsements",
-"https://katyforcongress.com/issues",
-"https://katyforcongress.com/meet-candidate",
-"https://katyforcongress.com/news",
-"https://katyforcongress.com/privacy-policy",
-"https://katyforcongress.com/request-yard-sign",
-"https://katyforcongress.com/terms-of-service",
-"https://katyforcongress.com/volunteer",
-"https://katyforcongress.com/voting-info",
-"https://secure.actblue.com/donate/katy-stout-1",
-"https://tiktok.com/@katy4congress"
+{
+"text": "Accessibility Statement",
+"href": "https://www.katyforcongress.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@katyforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/katy-stout-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://www.katyforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.katyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.katyforcongress.com/issues/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://www.katyforcongress.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://www.katyforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.katyforcongress.com/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.katyforcongress.com/request-yard-sign/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.katyforcongress.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.katyforcongress.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.katyforcongress.com/voting-info/"
+},
+{
+"text": "[image: Katy Padilla Stout for Congress] [image]",
+"href": "https://www.katyforcongress.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/katy4congress.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/katy4congress"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/katy4congress"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@katy4congress"
+},
+{
+"text": "https://www.katyforcongress.com",
+"href": "https://www.katyforcongress.com"
+}
 ]

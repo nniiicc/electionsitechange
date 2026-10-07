@@ -1,11 +1,46 @@
 [
-"https://facebook.com/jessicaforalaska",
-"https://instagram.com/jessicaforalaska",
-"https://jessica4alaska.com/",
-"https://jessica4alaska.com/cart",
-"https://jessica4alaska.com/contact",
-"https://jessica4alaska.com/endorsements",
-"https://jessica4alaska.com/meet-jessica",
-"https://jessica4alaska.com/priorities",
-"https://secure.anedot.com/jessica-for-alaska/donate"
+{
+"text": "0",
+"href": "https://www.jessica4alaska.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.jessica4alaska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jessica-for-alaska/donate"
+},
+{
+"text": "Donate!",
+"href": "https://secure.anedot.com/jessica-for-alaska/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jessica4alaska.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.jessica4alaska.com/"
+},
+{
+"text": "Meet Jessica",
+"href": "https://www.jessica4alaska.com/meet-jessica"
+},
+{
+"text": "Priorities",
+"href": "https://www.jessica4alaska.com/priorities"
+},
+{
+"text": "[image: Jessica for Alaska]",
+"href": "https://www.jessica4alaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jessicaforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jessicaforalaska"
+}
 ]

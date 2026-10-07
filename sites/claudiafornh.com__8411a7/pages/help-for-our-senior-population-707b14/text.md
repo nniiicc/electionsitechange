@@ -1,5 +1,4 @@
-Help for our Senior Population
-Our elderly are the fastest-growing population facing homelessness.
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Help for our Senior Population Our elderly are the fastest-growing population facing homelessness.
 Seniors are facing challenges at an alarming rate, yet they are one of our most vulnerable populations, with the fewest avenues for protection.
 Gaslighting our homeless population isn’t a solution.
 It’s a refusal to acknowledge how broken our systems have become.
@@ -28,3 +27,5 @@ People are not profits.
 Seniors are not numbers.
 Caregivers are not disposable.
 We can choose a different path—one where dignity matters, where compassion isn’t weakness, and where government works for people instead of leaving them behind.
+That is the fight I’m ready to take to Concord.
+PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

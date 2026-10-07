@@ -1,4 +1,4 @@
-ICE stands for Immigration and Customs Enforcement.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute ICE and the Federal Government Home / Issues / ICE and the Federal Government ICE stands for Immigration and Customs Enforcement.
 Unfortunately, it has become Donald Trump’s personal gestapo.
 No governor of a state should ever be put in the position of having to defend his/her/their state from the federal government.
 Unbelievably, that is the situation we are in.
@@ -11,3 +11,11 @@ Also in my opinion, anyone else who encouraged or supported such actions should 
 It is sad to think that some Mainers support these illegal acts of the Trump administration including the killing of innocent people.
 After I am elected governor, I will hold weekly town hall meetings across Maine.
 I very much look forward to engaging some of these folks in conversation.
+Issues John M.
+Glowa, Sr.
+An experienced public servant and lifelong advocate for government reform, environmental protection, and putting people before politics.
+Recent Post ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News John Glowa, Sr.
+Announces Gubernatorial Candidacy Why Should You Vote For Me?
+See All Posts John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

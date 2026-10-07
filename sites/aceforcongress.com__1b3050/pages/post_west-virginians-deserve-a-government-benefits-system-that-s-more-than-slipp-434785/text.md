@@ -1,5 +1,4 @@
-West Virginians deserve a government benefits system that’s more than slippery chutes and broken ladders
-Have you played the game Chutes and Ladders recently?
+top of page Home Platform Meet Ace Endorsements Voices of WV Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Events Volunteer Join Our Mailing List Donate Menu Close Ace’s Blog West Virginians deserve a government benefits system that’s more than slippery chutes and broken ladders Ace Parsi Mar 14 3 min read Have you played the game Chutes and Ladders recently?
 It’s fun, and it was one of my favorites when my daughter was younger.
 Players roll dice and move spaces, trying to reach the finish line.
 Landing on a ladder catapults you ahead, giving you extra spaces.
@@ -9,18 +8,17 @@ But that’s what our modern social service system is: slippery chutes and, at b
 In my church, people accompany community members to their DHHR appointments.
 If you’re one of the tens of thousands of West Virginians whose life depends on services provided by the West Virginia Department of Health and Human Resources, what follows will sound familiar.
 If you’re not, keep reading: Chances are you have a neighbor, friend, or family member who has experienced this; they may just not want to talk about it.
-Here’s what I saw when I accompanied a neighbor to a DHHR office:
-- An understaffed system.
+Here’s what I saw when I accompanied a neighbor to a DHHR office: An understaffed system.
 People who work at DHHR mean well.
 They’re just understaffed, underpaid, and overworked, so they make mistakes.
 When they make mistakes, people lose healthcare and food.
-- Inconvenient, impossible timing.
+Inconvenient, impossible timing .
 The person I was helping worked at Kroger.
 DHHR hours are between 9 a.m. and 5 p.m., when he would’ve been working, so he was forced to take time off.
 We had to stay there for 3.5 hours.
 Luckily, we had all his paperwork in order.
 If we hadn’t, we’d have needed to come back another time.
-- Make more, lose everything.
+Make more, lose everything.
 Our social service system has drastic funding cliffs, meaning that when you make a dime more than a certain threshold, you lose all your benefits.
 Under that reality, what are the working poor’s incentives to get promotions, more skills, or better jobs?
 Let’s talk about what a DHHR Chutes and Ladders should look like: It would help people who are down on their luck, whether that’s trying to recover from addiction or a major accident.
@@ -44,3 +42,15 @@ But we’re not designing a game.
 We’re designing a way to get people the help and support they need to learn skills and achieve financial stability.
 There is a much fairer, better, more humane way to run a social service system, and it starts with recognizing that the working poor aren’t trying to have fun or game the system.
 They’re just desperately trying to make ends meet.
+Recent Posts See All How We’re Using AI to Connect With Voters What I Heard about Disabilities in Harrison County Sending Haitians Home to Die Isn't Justice.
+It's a Moral Failure.
+Sign Up for our Newsletter By providing your phone number, you are consenting to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from WV- Ace for Congress.
+Donations may be solicited.
+Messaging & data rates may apply.
+Reply HELP for help.
+Reply STOP to cancel.
+Message Frequency Not To Exceed 3 Messages / Month.
+By signing up for our newsletter, you agree to our Terms and Privacy Policy .
+Text messaging opt-in data and consent will not be sold or shared with third parties or affiliates for their marketing or promotional purposes.
+For press inquiries, please contact aceforcongress@gmail.com P AID FOR BY ACE PARSI FOR CONGRESS P.O.
+Box 4064, Morgantown, WV 26505 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate Home Platform Meet Ace Endorsements Voices of WV In the News Ace’s Blog Get Involved Events Volunteer Join Our Mailing List Donate bottom of page

@@ -1,8 +1,34 @@
 [
-"https://ben-gruber.com/",
-"https://ben-gruber.com/about",
-"https://ben-gruber.com/connect",
-"https://ben-gruber.com/issues",
-"https://ben-gruber.com/privacy-policy",
-"https://secure.actblue.com/donate/bg-website"
+{
+"text": "ABOUT",
+"href": "https://www.ben-gruber.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.ben-gruber.com/privacy-policy"
+},
+{
+"text": "CONNECT",
+"href": "https://www.ben-gruber.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bg-website"
+},
+{
+"text": "HOME",
+"href": "https://www.ben-gruber.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ben-gruber.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ben-gruber.com/privacy-policy"
+},
+{
+"text": "[image: BGruber_Logo_FINAL_OL_RGB.png]",
+"href": "https://www.ben-gruber.com"
+}
 ]

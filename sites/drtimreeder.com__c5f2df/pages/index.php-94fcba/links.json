@@ -1,15 +1,62 @@
 [
-"http://constantcontact.com/index.jsp?cc=forms_inline",
-"https://constantcontact.com/legal/service-provider",
-"https://drtimreeder.com/",
-"https://drtimreeder.com/about-me",
-"https://drtimreeder.com/accomplishments",
-"https://drtimreeder.com/contact",
-"https://drtimreeder.com/index.php",
-"https://drtimreeder.com/news",
-"https://drtimreeder.com/zudesa.com",
-"https://facebook.com/RepTimReeder",
-"https://instagram.com/drtimreeder",
-"https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate",
-"https://x.com/timreedernc"
+{
+"text": "About Me",
+"href": "https://drtimreeder.com/about-me"
+},
+{
+"text": "Accomplishments",
+"href": "https://drtimreeder.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://drtimreeder.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/c0d2f87f-a599-44e0-861a-eab3102f8e98/donate"
+},
+{
+"text": "Emails are serviced by Constant Contact.",
+"href": "https://www.constantcontact.com/legal/service-provider"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com"
+},
+{
+"text": "Home",
+"href": "https://drtimreeder.com/index.php"
+},
+{
+"text": "News",
+"href": "https://drtimreeder.com/news"
+},
+{
+"text": "Zudesa Corporation",
+"href": "https://drtimreeder.com/zudesa.com"
+},
+{
+"text": "[image: Elect Dr. Tim Reeder]",
+"href": "https://drtimreeder.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.constantcontact.com/index.jsp?cc=forms_inline"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drtimreeder"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepTimReeder"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/timreedernc"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(null)"
+}
 ]

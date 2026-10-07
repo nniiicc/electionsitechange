@@ -1,10 +1,13 @@
 {
  "description": "News coverage from Michael Baumgartner's successful 2024 campaign for Washington's 5th Congressional District",
  "final_url": "https://www.votebaumgartner.com/news/categories/on-the-campaign-trail",
- "paid_for_by": "PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508,&nbsp; Spokane, WA 99203&nbsp; SUBSCRIBE Thanks for submitting! bottom of page",
+ "fingerprint": "bfc2a4cb06391742ae426e6ced2b1102219da547",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page",
  "title": "On the Campaign Trail",
  "years_mentioned": [
   "2024",
+  "2025",
   "2026"
  ]
 }

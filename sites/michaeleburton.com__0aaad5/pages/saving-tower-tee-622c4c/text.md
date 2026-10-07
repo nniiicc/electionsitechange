@@ -1,4 +1,5 @@
-Saving Tower Tee
-When Michael Burton, an Affton native, heard that a housing development was announced to replace the South County landmark, Tower Tee.
+0 Skip to Content Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Folder: Legislation Back Seniors Helping Veterans Ethics Reform Conservation Folder: Issues Back Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Saving Tower Tee When Michael Burton, an Affton native, heard that a housing development was announced to replace the South County landmark, Tower Tee.
 Michael spearheaded a grassroots effort to Save Tower Tee.
 He attended dozens of county council meetings, organized residents and ultimately saved the shared greenspace and recreational area in our community.
+Michael Burton for State Representative 10258 Squire Meadows Dr., Unit #8 St.
+Louis MO, 63123 (314) 753-1165 Paid for by Friends of Michael Burton, Theresa Pelech, Treasurer

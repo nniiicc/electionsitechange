@@ -1,5 +1,5 @@
-ENDORSEMENT
-The most intriguing thing about the race to fill retiring Speaker Emerita Nancy Pelosi’s House seat is that it has become a race at all.
+Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE Download PDF View Article ENDORSEMENT Endorsement: Who should replace Nancy Pelosi in Congress?
+It’s not even a choice The most intriguing thing about the race to fill retiring Speaker Emerita Nancy Pelosi’s House seat is that it has become a race at all.
 On paper, the choice between state Sen.
 Scott Wiener and Supervisor Connie Chan should be one of the easiest decisions San Franciscans have to make in the November general election.
 Wiener is arguably the nation’s most accomplished state legislator.
@@ -33,4 +33,16 @@ Katie Porter and Barbara Lee — in the race to replace the late Sen.
 Dianne Feinstein.Political insiders whisper that Pelosi is not-so-secretly trying to keep the seat warm for an eventual run by her daughter Christine.
 We won’t speculate.
 All we’ll say is that at a time when President Trump is threatening to demolish American democracy, it’s nothing short of embarrassing that Pelosi would go all out for a candidate who so clearly has neither the experience nor the ideas to meet the gravity of the moment.
-Labor icon Dolores Huerta put it best in her endorsement of Wiener: “I know the difference between a politician who talks about justice and one who fights for it.
+Labor icon Dolores Huerta put it best in her endorsement of Wiener: “I know the difference between a politician who talks about justice and one who fights for it. ‍ STAY UPDATED Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Scott Wiener for Congress at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy . info@scottwiener.com 415-690-7280 Paid for by Scott Wiener for Congress.
+More Information Privacy Policy

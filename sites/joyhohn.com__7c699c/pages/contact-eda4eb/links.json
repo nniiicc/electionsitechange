@@ -1,13 +1,50 @@
 [
-"https://facebook.com/profile.php?id=61558341330546",
-"https://joyhohn.com/",
-"https://joyhohn.com/about",
-"https://joyhohn.com/cdn-cgi/l/email-protection",
-"https://joyhohn.com/contact",
-"https://joyhohn.com/contribute",
-"https://joyhohn.com/media",
-"https://joyhohn.com/platform",
-"https://joyhohn.com/posts",
-"https://joyhohn.com/volunteer",
-"https://joyhohn.com/yardsign"
+{
+"text": "About",
+"href": "https://www.joyhohn.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.joyhohn.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.joyhohn.com/contribute/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61558341330546"
+},
+{
+"text": "Home",
+"href": "https://www.joyhohn.com/"
+},
+{
+"text": "News",
+"href": "https://www.joyhohn.com/media/"
+},
+{
+"text": "Platform",
+"href": "https://www.joyhohn.com/platform/"
+},
+{
+"text": "Posts",
+"href": "https://www.joyhohn.com/posts/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joyhohn.com/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.joyhohn.com/yardsign/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.joyhohn.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.joyhohn.com/"
+}
 ]

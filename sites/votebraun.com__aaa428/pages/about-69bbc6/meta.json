@@ -1,9 +1,17 @@
 {
  "description": "",
  "final_url": "https://www.votebraun.com/about",
+ "fingerprint": "30ebbba44f31e3c48a28864eb508eae6d55cf7c5",
+ "format": 3,
  "paid_for_by": "Paid for by John Braun for Congress PO Box 123, Chehalis, WA 98532 John Braun is a retired member of the United States Navy",
  "title": "About",
  "years_mentioned": [
+  "1967",
+  "1972",
+  "1986",
+  "1989",
+  "1999",
+  "2006",
   "2012",
   "2014",
   "2015",
@@ -11,6 +19,7 @@
   "2020",
   "2021",
   "2024",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

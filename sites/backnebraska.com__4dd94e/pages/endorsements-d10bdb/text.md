@@ -1,19 +1,8 @@
-NEBFARMPAC
-Retired Elementary School Principal
-Lincoln City Councilmember
-State Senator
-Lincoln Public Schools Board of Education Member
-Lincoln Airport Authority Board Member
-Lancaster County Treasurer
-Immigration Advocate & Attorney
-U.S.
-Senator
-American Federation of Government Employees
-AFGE Union
-Experience to lead.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE Our Supporters Endorsements New Democrat Action Fund Brotherhood of Locomotive Engineers and Trainmen Nebraska Farmers Union NEBFARMPAC Sierra Club Nebraska State Education Association: NSEA Michelle Suarez Retired Elementary School Principal Must Win.
+Can Win.
+Nebraska State Council Communications Workers of America Sändra Washington Lincoln City Councilmember Justin Carlson Lincoln City Councilmember Victor Rountree State Senator New Politics Nebraska AFL-CIO Foreign Policy For America Annie Mumgaard Lincoln Public Schools Board of Education Member Vanessa Emlich Lincoln Airport Authority Board Member Rachel Garver Lancaster County Treasurer Brodey Weber Lincoln City Councilmember S.A.
+Mora James Immigration Advocate & Attorney Andy Kim U.S.
+Senator AFGE American Federation of Government Employees AFGE Union Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
 The courage to stand up to Trump.
-Lower costs
-★
-Stop the chaos
-★
-End corruption
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

@@ -1,24 +1,110 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.cardinaleforassembly.com",
-"https://cardinaleforassembly.com/",
-"https://cardinaleforassembly.com/about",
-"https://cardinaleforassembly.com/about-3",
-"https://cardinaleforassembly.com/contact",
-"https://cardinaleforassembly.com/events-1",
-"https://cardinaleforassembly.com/general-9",
-"https://cardinaleforassembly.com/get-involved",
-"https://cardinaleforassembly.com/news",
-"https://cardinaleforassembly.com/post/breaking-the-supermajority-restoring-balance-and-giving-our-district-a-voice",
-"https://cardinaleforassembly.com/post/why-i-m-asking-for-your-vote",
-"https://cardinaleforassembly.com/post/women-s-small-business-month",
-"https://facebook.com/JoeCardinaleforassembly",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cardinaleforassembly.com",
-"https://instagram.com/JOECARDINALEFORASSEMBLY",
-"https://instagram.com/joecardinaleforassembly",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cardinaleforassembly.com",
-"https://podbean.com/eas/pb-3wnpi-1727e8c",
-"https://secure.winred.com/joe-cardinale-for-assembly/donate-today",
-"https://twitter.com/CardinaleAD11",
-"https://twitter.com/JOEFORAD11",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cardinaleforassembly.com"
+{
+"text": "About",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "Breaking the Supermajority: Restoring Balance and Giving Our District a Voice",
+"href": "https://www.cardinaleforassembly.com/post/breaking-the-supermajority-restoring-balance-and-giving-our-district-a-voice"
+},
+{
+"text": "Contact",
+"href": "https://www.cardinaleforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/joe-cardinale-for-assembly/donate-today"
+},
+{
+"text": "Election Information",
+"href": "https://www.cardinaleforassembly.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.cardinaleforassembly.com/events-1"
+},
+{
+"text": "FOR NYS ASSEMBLY DISTRICT 11",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cardinaleforassembly.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "JOE CARDINALE",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "LISTEN TO THE ENDORSEMENT HERE",
+"href": "https://www.podbean.com/eas/pb-3wnpi-1727e8c"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cardinaleforassembly.com"
+},
+{
+"text": "News",
+"href": "https://www.cardinaleforassembly.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.cardinaleforassembly.com/general-9"
+},
+{
+"text": "SUBSCRIBE",
+"href": "mailto:joecardinaleforassembly@gmail.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.cardinaleforassembly.com"
+},
+{
+"text": "Why I'm Asking for Your Vote",
+"href": "https://www.cardinaleforassembly.com/post/why-i-m-asking-for-your-vote"
+},
+{
+"text": "Women's Small Business Month",
+"href": "https://www.cardinaleforassembly.com/post/women-s-small-business-month"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cardinaleforassembly.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoeCardinaleforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/JOECARDINALEFORASSEMBLY"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joecardinaleforassembly/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/CardinaleAD11"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/JOEFORAD11"
+}
 ]

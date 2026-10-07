@@ -1,35 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260924T230000Z%2F20260925T000000Z",
-"http://maps.google.com/?q=Virtual",
-"https://act.vikkigoodwin.com/hemp",
-"https://bsky.app/profile/vikkigoodwintx.bsky.social",
-"https://facebook.com/VikkiGoodwinTX",
-"https://instagram.com/Goodwin4Texas",
-"https://mobilize.us/texasdemocrats/event/996884",
-"https://secure.actblue.com/donate/vg4lgad",
-"https://store.goodwin4texas.com/",
-"https://threads.com/@Goodwin4Texas",
-"https://tiktok.com/@vikkigoodwintx",
-"https://vikkigoodwin.com/",
-"https://vikkigoodwin.com/cart",
-"https://vikkigoodwin.com/datacenters",
-"https://vikkigoodwin.com/education",
-"https://vikkigoodwin.com/endorsements-1",
-"https://vikkigoodwin.com/endorsements-organizations",
-"https://vikkigoodwin.com/endorsements-public-officials",
-"https://vikkigoodwin.com/endorsements-texas-voters",
-"https://vikkigoodwin.com/events",
-"https://vikkigoodwin.com/events/0922phonebank",
-"https://vikkigoodwin.com/events/0924phonebank-jkhe3?format=ical",
-"https://vikkigoodwin.com/events/0929phonebank",
-"https://vikkigoodwin.com/healthcare",
-"https://vikkigoodwin.com/housing",
-"https://vikkigoodwin.com/issues",
-"https://vikkigoodwin.com/meet-vikki",
-"https://vikkigoodwin.com/news",
-"https://vikkigoodwin.com/priorities-overview",
-"https://vikkigoodwin.com/privacy",
-"https://vikkigoodwin.com/volunteer",
-"https://vikkigoodwin.com/water",
-"https://x.com/VikkiGoodwinTX"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=virtual"
+},
+{
+"text": "0",
+"href": "https://www.vikkigoodwin.com/cart"
+},
+{
+"text": "About Vikki",
+"href": "https://www.vikkigoodwin.com/meet-vikki"
+},
+{
+"text": "AskMe@VikkiGoodwin.com",
+"href": "mailto:candidate@vikkigoodwin.com"
+},
+{
+"text": "Back",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Cannabis & THC",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "Clean Water",
+"href": "https://www.vikkigoodwin.com/water"
+},
+{
+"text": "Data Centers",
+"href": "https://www.vikkigoodwin.com/datacenters"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vg4lgad"
+},
+{
+"text": "Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Folder: Endorsements",
+"href": "https://www.vikkigoodwin.com/endorsements-1"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://www.vikkigoodwin.com/priorities-overview"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Legalize+it%21+Phone+Bank+With+Team+Vikki+&dates=20260924T230000Z%2F20260925T000000Z"
+},
+{
+"text": "Healthcare",
+"href": "https://www.vikkigoodwin.com/healthcare"
+},
+{
+"text": "Help Vikki Legalize it!",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "Home",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Housing Affordability",
+"href": "https://www.vikkigoodwin.com/housing"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0924phonebank-jkhe3?format=ical"
+},
+{
+"text": "Join Team Vikki",
+"href": "https://www.mobilize.us/texasdemocrats/event/996884/"
+},
+{
+"text": "More Issues",
+"href": "https://www.vikkigoodwin.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.vikkigoodwin.com/news"
+},
+{
+"text": "Next Next September 29 Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0929phonebank"
+},
+{
+"text": "Online Store",
+"href": "https://store.goodwin4texas.com/"
+},
+{
+"text": "Organizations",
+"href": "https://www.vikkigoodwin.com/endorsements-organizations"
+},
+{
+"text": "Previous Previous September 22 Legalize it! Phone Bank With Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0922phonebank"
+},
+{
+"text": "Public Education",
+"href": "https://www.vikkigoodwin.com/education"
+},
+{
+"text": "Public Officials",
+"href": "https://www.vikkigoodwin.com/endorsements-public-officials"
+},
+{
+"text": "Read our privacy policy here.",
+"href": "https://www.vikkigoodwin.com/privacy"
+},
+{
+"text": "Texas Voters",
+"href": "https://www.vikkigoodwin.com/endorsements-texas-voters"
+},
+{
+"text": "Vikki.Goodwin@house.texas.gov",
+"href": "mailto:Vikki.Goodwin@house.texas.gov"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vikkigoodwin.com/volunteer"
+},
+{
+"text": "[image: Rep. Vikki Goodwin]",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/vikkigoodwintx.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VikkiGoodwinTX/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@vikkigoodwintx"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VikkiGoodwinTX"
+},
+{
+"text": "plan",
+"href": "https://act.vikkigoodwin.com/hemp/"
+}
 ]

@@ -1,14 +1,78 @@
 [
-"http://wapp.capitol.tn.gov/apps/schedule/default.aspx?type=house",
-"https://cameronsexton.com/",
-"https://cameronsexton.com/about",
-"https://cameronsexton.com/contact",
-"https://cameronsexton.com/issues",
-"https://cameronsexton.com/news",
-"https://cameronsexton.com/places",
-"https://cameronsexton.com/privacy",
-"https://cameronsexton.com/volunteer",
-"https://facebook.com/cameronsextontn",
-"https://secure.anedot.com/cameron-sexton-for-state-representative/donate",
-"https://twitter.com/CSexton25"
+{
+"text": "About",
+"href": "https://www.cameronsexton.com/about/"
+},
+{
+"text": "Click Here",
+"href": "http://wapp.capitol.tn.gov/apps/schedule/default.aspx?type=house"
+},
+{
+"text": "Contact",
+"href": "https://www.cameronsexton.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cameron-sexton-for-state-representative/donate"
+},
+{
+"text": "Home",
+"href": "https://www.cameronsexton.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.cameronsexton.com/news/"
+},
+{
+"text": "On the Road",
+"href": "https://www.cameronsexton.com/places/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.cameronsexton.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cameronsexton.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/CSexton25"
+},
+{
+"text": "[image]",
+"href": "https://www.cameronsexton.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/cameronsextontn"
+},
+{
+"text": "[image]Education",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "[image]Healthcare",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "[image]Jobs",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "[image]Law & Order",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "[image]Tax Cuts",
+"href": "https://www.cameronsexton.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cameronsextontn/"
+}
 ]

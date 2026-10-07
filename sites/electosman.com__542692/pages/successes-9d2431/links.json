@@ -1,22 +1,82 @@
 [
-"https://app.leg.wa.gov/BillSummary?BillNumber=1486&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=1811&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=1875&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=5106&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=5682&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=1484&Year=2025&Initiative=false",
-"https://electosman.com/",
-"https://electosman.com/about",
-"https://electosman.com/cart",
-"https://electosman.com/endorsements",
-"https://electosman.com/home",
-"https://electosman.com/priorities",
-"https://electosman.com/successes",
-"https://electosman.com/terms-and-privacy",
-"https://electosman.com/updates",
-"https://facebook.com/electosman",
-"https://instagram.com/electosman",
-"https://linkedin.com/in/osmansalahuddin",
-"https://secure.actblue.com/donate/osman-salahuddin-1",
-"https://youtube.com/watch?v=nfq9GHTci4g"
+{
+"text": "0",
+"href": "https://www.electosman.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electosman.com/about"
+},
+{
+"text": "Adding a Student Member to SBCTC",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1486&Year=2025&Initiative=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/osman-salahuddin-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electosman.com/endorsements"
+},
+{
+"text": "Enhancing Crisis Co-Response Services",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1811&Year=2025&Initiative=false"
+},
+{
+"text": "Establishing Eid as a State Holiday",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=5106&Year=2025&Initiative=false"
+},
+{
+"text": "Home",
+"href": "https://www.electosman.com/home"
+},
+{
+"text": "Paid Sick Leave for Immigration Proceedings",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1875&Year=2025&Initiative=false"
+},
+{
+"text": "Priorities",
+"href": "https://www.electosman.com/priorities"
+},
+{
+"text": "Successes",
+"href": "https://www.electosman.com/successes"
+},
+{
+"text": "Supporting Victims of Rape",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=1484&Year=2025&Initiative=false"
+},
+{
+"text": "Terms & Privacy",
+"href": "https://www.electosman.com/terms-and-privacy"
+},
+{
+"text": "Updates",
+"href": "https://www.electosman.com/updates"
+},
+{
+"text": "Workforce Training Program Support",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=5682&Year=2025&Initiative=false"
+},
+{
+"text": "[image: Elect Osman Salahuddin for State Rep]",
+"href": "https://www.electosman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electosman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electosman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/osmansalahuddin/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=nfq9GHTci4g"
+}
 ]

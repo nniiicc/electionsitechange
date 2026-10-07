@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://www.southjerseygrit.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "56bbe39967f074e32a310d55b4080ca07f89e4e3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Reduce Electric Bills",
  "years_mentioned": []
 }

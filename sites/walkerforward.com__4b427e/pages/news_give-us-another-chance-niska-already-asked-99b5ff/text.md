@@ -1,9 +1,8 @@
-Give Us Another Chance?
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Give Us Another Chance?
 Niska Already Asked.
-JD Vance said it out loud this week, on a podcast, to the whole country.
+Sep 17 Written By Brian Walker JD Vance said it out loud this week, on a podcast, to the whole country.
 "Don't give power to the people who cause the problems that we're fixing.
-Give us another chance, or give us another couple of years, to continue to work on the amazing things that we've been doing."
-Those words should tell you everything you need to know.
+Give us another chance, or give us another couple of years, to continue to work on the amazing things that we've been doing." Those words should tell you everything you need to know.
 They're the same words Minnesota Republicans use when they talk about the fraud that happened here under a DFL trifecta.
 Give us another chance.
 Trust us this time.
@@ -13,8 +12,7 @@ Republicans controlled both chambers of the Legislature that year.
 While they were writing the rules for how Minnesota's Medicaid programs would run, a DFL lawmaker named Tina Liebling offered an amendment requiring real documentation and billing records for a Medicaid waiver program.
 The exact kind of paperwork that makes fraud harder to pull off.
 Republicans voted it down.
-They called it "an additional burden on care providers."
-That same year, the same Republican majority wrote and passed a bill repealing a rule that had stood in Minnesota for forty years, that Medicaid HMOs had to be nonprofit.
+They called it "an additional burden on care providers." That same year, the same Republican majority wrote and passed a bill repealing a rule that had stood in Minnesota for forty years, that Medicaid HMOs had to be nonprofit.
 It opened the door to for-profit insurance companies running our Medicaid managed care for the first time ever.
 Once that money leaves the state's hands and goes to a private insurer, the state loses its view of it.
 Nobody at DHS can see the claims anymore.
@@ -49,5 +47,8 @@ The rhetoric is tiring.
 It's built to divide us.
 It has to stop.
 I've given you the facts.
-Facts are how we fix Minnesota.
--Brian Walker
+Facts are how we fix Minnesota. -Brian Walker Brian Walker Next Next Endorsement Alert: Mike Foley, former GOP Congressional Candidate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

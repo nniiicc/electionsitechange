@@ -1,9 +1,38 @@
 [
-"https://katarinaforvermont.com/",
-"https://katarinaforvermont.com/about",
-"https://katarinaforvermont.com/about-3",
-"https://katarinaforvermont.com/contact",
-"https://katarinaforvermont.com/donate",
-"https://katarinaforvermont.com/events-1",
-"https://katarinaforvermont.com/get-involved"
+{
+"text": "About",
+"href": "https://www.katarinaforvermont.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.katarinaforvermont.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.katarinaforvermont.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.katarinaforvermont.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.katarinaforvermont.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.katarinaforvermont.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.katarinaforvermont.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.katarinaforvermont.com"
+},
+{
+"text": "Home",
+"href": "https://www.katarinaforvermont.com/events-1"
+}
 ]

@@ -1,4 +1,4 @@
-Texas didn’t become the powerhouse it is today by dawdling about; real, commonsense solutions that prioritize Texans’ quality of life have given the Lone Star State its competitive edge.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page Governor Abbott Deepens His Commitment to a More Affordable Texas With New Proposals Jul 24, 2026 Texas didn’t become the powerhouse it is today by dawdling about; real, commonsense solutions that prioritize Texans’ quality of life have given the Lone Star State its competitive edge.
 Governor Greg Abbott’s work never stops to ensure that Texas remains the greatest state for people to find their place and prosper.
 He understands that an even brighter Texas of tomorrow begins with a more affordable Texas today.
 On July 15, Governor Abbott announced the next phase of his plan to Keep Texas Affordable: cut the cost of home and car insurance.
@@ -19,3 +19,5 @@ It is undeniable: in Texas, families come first.
 Governor Abbott’s plan to Keep Texas Affordable proves it.
 In the coming days, Governor Abbott will release the next steps in his Texas affordability agenda; further action that will altogether save Texans thousands of dollars annually.
 Thanks to Governor Abbott’s commonsense leadership, Texas remains on top — the greatest state in the entire nation to live, work, and raise a family.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

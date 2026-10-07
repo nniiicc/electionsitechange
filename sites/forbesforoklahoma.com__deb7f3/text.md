@@ -1,3 +1,7 @@
+Meet Kelly Priorities Get Involved CONTACT MEDIA MERCH DONATE DONATE Meet Kelly Priorities Get involved Media MERCH contact Ver este sitio web en español Take Action: GET INVOLVED!
+Meet Dr.
+Kelly Forbes Dr.
+Kelly Forbes is a lifelong Oklahoman, raised in Skiatook and Broken Arrow.
 Dr.
 Kelly Forbes is a lifelong Oklahoman, raised in Skiatook and Broken Arrow.
 He now lives in Oklahoma City with his partner, Dr.
@@ -23,32 +27,40 @@ His background in education, public service, and community engagement has shaped
 By focusing on collaboration and collective impact, he will create lasting change, ensuring every voice is heard and represented with every decision made in the best interests of Oklahomans.
 As Lieutenant Governor, Dr.
 Kelly Forbes will restore trust in state government by leading with integrity, transparency, and accountability.
-A strong economy is the backbone of thriving communities.
+Priorities: BUILD A STRONGER ECONOMY A strong economy is the backbone of thriving communities.
 Oklahomans deserve good jobs, fair wages, and the opportunity to build a secure future.
 As Lieutenant Governor, Dr.
 Forbes will invest in small businesses, strengthen Career-Tech, work with Oklahoma’s Native Nations, and expand workforce training.
 He will also address the need for affordable housing and food insecurity to ensure prosperity reaches every corner of our state.
-Public education is the heartbeat of our communities.
+INVEST IN OUR PUBLIC EDUCATION Public education is the heartbeat of our communities.
 Currently ranked 50th in the nation for education, Oklahoma continues to lose opportunities because leaders ignore our underfunded schools.
 Dr.
 Kelly Forbes will act to build a strong, well-funded public education system that respects our teachers and staff, supports our students, and keeps public dollars in public schools - ensuring every child has the opportunity to thrive.
-Oklahomans face barriers getting the healthcare they need.
+EXPAND ACCESS & AFFORDABILITY OF HEALTHCARE Oklahomans face barriers getting the healthcare they need.
 Rural and smaller clinics often struggle to hire and retain qualified staff.
 As Lieutenant Governor, Dr.
 Forbes will build strong partnerships to expand access, incentivize healthcare professionals working in underserved areas, and ensure culturally responsive care.
 By using technology and working with local providers we can close gaps, lower costs, and ensure every Oklahoman can access quality care.
-Tourism, Oklahoma's 3rd largest Industry is a vital driver of our economy.
+PROMOTE TOURISM TO OUR GREAT STATE Tourism, Oklahoma's 3rd largest Industry is a vital driver of our economy.
 With the 100th anniversary of Route 66 and the upcoming 2028 Olympic events, the world will turn its attention to Oklahoma as we celebrate the state’s natural beauty, historical significance, and diverse cultures.
 Dr.
 Forbes is ready to promote Oklahoma, inviting people from all over the world to experience all that our great state has to offer.
-The government should work for the people, not behind closed doors.
+FIGHT CORRUPTION & HOLD OKLAHOMA’S GOVERNMENT ACCOUNTABLE The government should work for the people, not behind closed doors.
 Oklahomans deserve leaders who are transparent, accountable, and dedicated to building a government that works for everyone.
 Dr.
 Forbes is not a career politician, he is committed to leading with integrity and restoring trust in our state government.
+DONATE GET INVOLVED Ready to help Dr.
+Kelly Forbes win?
+Tell us how you’d like to get involved, and we will be in touch!
 I'd like to...
+Volunteer Host an Event Host a Fundraiser Sign up for Updates Yes!
+Text me updates from the campaign!
 I would like to sign up for text updates and consent to receive text messages from Forbes for Oklahoma 2026 at the number provided.
 Message & data rates may apply.
 Message frequency varies.
 Text HELP for more information.
 Unsubscribe at any time by replying STOP.
 Privacy Policy & Terms.
+Submit contact [email protected] 405-252-0346 P.O.
+Box 33, Bethany, OK 73008 [email protected] 405-252-0346 P.O.
+Box 33, Bethany, OK 73008 Authorized and paid for by Forbes for Oklahoma 2026

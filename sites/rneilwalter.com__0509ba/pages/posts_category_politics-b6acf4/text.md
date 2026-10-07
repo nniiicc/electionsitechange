@@ -1,4 +1,4 @@
-| The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
+UT 74 VOTE ABOUT Posts Experience Contact America 250 7/2/2026 The 250th anniversary of the Declaration of Independence is an extraordinary event and worth celebrating.
 The Declaration and the American Revolution changed the course of history.
 In a first of its kind, the people required the government to serve them instead of the people serving the government.
 It introduced powerful principles that reverberate across our country today.
@@ -30,11 +30,15 @@ They identified three truths that transcend the form of government, and they hel
 The founders also reminded us in the preamble to the Constitution, "in order to...secure the blessings of liberty to ourselves and our posterity" that we would have honor these truths and protect these God given rights through succeeding generations.
 Each generation is responsible to carry the fire of the Declaration and the founding principles of this country as a steward for the next.
 While we may not be required to "pledge to each other our Lives, our Fortunes and our sacred Honor" in the way the founders did, we can make a small but meaningful contribution in our celebrations of the 250th anniversary of the Declaration this July 4th weekend as we help our children remember how blessed they are to live in the United States of America.
-Ballot Initiatives and Constitutional Amendment D On August 21, 2024, the Utah House and Senate voted to place Constitutional Amendment D on the November ballot.
+I Support Constitutional Amendment D 8/30/2024 Ballot Initiatives and Constitutional Amendment D On August 21, 2024, the Utah House and Senate voted to place Constitutional Amendment D on the November ballot.
 Some mistakenly believe that the actions of the Legislature would take away the right of the people to change government through ballot initiatives.
 This is not true.
 This constitutional amendment will preserve the initiative format as it has existed for 130 years in Utah.
-Failure to pass this constitutional amendment may result in the following: Alaska is good example of what can go wrong.
+Failure to pass this constitutional amendment may result in the following: Enabling of foreign governments or outside interests running ballot initiatives in Utah.
+Utah governance trending toward California where there are 11 initiatives on the ballot this November.
+Past initiatives in California have legalized recreational marijuana, busted state budgets, and reduced looting from a felony to a misdemeanor hurting public safety.
+The creation of "superlaws" that may have unintended consequences.
+Alaska is good example of what can go wrong.
 A 25-page ballot initiative was passed in 2020 that promised "better elections".
 According to the Wall Street Journal in an article published on August 29, 2024, the initiative was funded by left-leaning groups and out of state wealthy liberals calling themselves "Alaskans for Better Elections".
 Real Alaskans are fighting back to take control of their elections after 48 candidates qualified for a recent primary creating confusion for voters.
@@ -44,11 +48,7 @@ Opposing Constitutional Amendment D may result in attracting out of state money 
 Ultimately, the decision is up to you.
 The Utah Legislature can't make this decision.
 It will be up to the voters in the State of Utah.
-Enabling of foreign governments or outside interests running ballot initiatives in Utah.
-Utah governance trending toward California where there are 11 initiatives on the ballot this November.
-Past initiatives in California have legalized recreational marijuana, busted state budgets, and reduced looting from a felony to a misdemeanor hurting public safety.
-The creation of "superlaws" that may have unintended consequences.
-Restraining the size of state government requires restricting its access to revenue.
+Tax Policy and Restraining the Size of State Government 2/22/2023 Restraining the size of state government requires restricting its access to revenue.
 Governments tend to consume whatever revenue is in front of them.
 The best way to keep state government from growing faster than a state economy is to constrain access to revenue.
 Many states are effectively controlling the cost of government operations.
@@ -80,7 +80,7 @@ Summary It is very difficult to constrain spending in government.
 The most effective constraints on spending are those that limit resources.
 The constitutional earmark limited the growth of the largest, fastest growing portion of government.
 If the citizens vote to approve the constitutional amendment, it will be up to the legislature and the citizens to do the hard work the earmark has done for us over many decades contributing to Utah's status as the best managed state.
-The Utah House of Representatives passed a critical bill that supports youth and families.
+Social Media and Our Youth 2/11/2023 The Utah House of Representatives passed a critical bill that supports youth and families.
 HB 311, "Social Media Usage Amendments" empowers parents to safeguard children, fight back against addictive algorithms, and hold social media companies responsible.
 In 2021, the Wall Street Journal published an article "How TikTok Serves Up Sex and Drug Videos".
 The Journal highlighted how the social media platform sent to accounts for minors dozens and in some cases hundreds of videos promoting drugs, sex, and pornography.
@@ -89,14 +89,14 @@ It contributes to the mental health struggles of our youth.
 We are concerned about mental health in our communities.
 Intermountain Health created a video to feature the importance of this issue and share their perspective about the connection between mental health and physical health for our youth.
 This bill specifically addresses the kind of content that undermines both physical and emotional health.
-Something can be done about this.
+Intermountain Health Youth Mental Health Video Something can be done about this.
 For streaming services such as Netflix, Disney+, or Amazon Prime there are rating systems and content restrictions for minors.
 For online video games and consoles, there are rating systems and content restrictions for minors.
 For decades, movies have had rating systems and content restrictions.
 We restrict content downloaded in schools and other public settings because it is not appropriate for minors.
 It is reasonable and appropriate for the State of Utah to restrict the kind of content that is distributed to minors on social media.
 Further, social media companies have a responsibility to stop sending harmful pornographic, drug related, and self harm content to youth.
-In the United States, we believe individuals have a right to pursue happiness.
+Children and Consent in Utah 1/27/2023 In the United States, we believe individuals have a right to pursue happiness.
 It is called out in our founding documents as a god given inalienable right.
 Government intervenes when the exercise of these rights come into conflict with another's constitutional rights.
 A simple example of this conflict is when one person, in an effort to pursue happiness, takes something from another person.
@@ -113,13 +113,17 @@ Last, minors have rights, but their rights are also restricted.
 Minors are subject to the appropriate exercise of parental rights.
 We restrict driving, enlisting in the military, marriage, entertainment and media content, consuming products or substances, and entering into binding contractual agreements.
 While each of these examples may have undesired consequences, they are not permanent.
-One can leave military service, divorce, stop consuming certain media or products, and a minor who enters into a contract with an adult is voidable. 2023 Utah Senate Bill 16 address a sensitive issue.
+One can leave military service, divorce, stop consuming certain media or products, and a minor who enters into a contract with an adult is voidable.
+2023 Utah Senate Bill 16 address a sensitive issue.
 The bill is titled "Transgender Medical Treatments and Procedures Amendments".
 It was sponsored in the Senate by a practicing physician and in the House by a practicing nurse.
 This bill does specific things: 1.
-It requires the Department of Health and Human Services to conduct a systematic review of the medical evidence regarding hormonal transgender treatments and provide recommendations to the Legislature. 2.
-It prohibits a health care provider from providing a hormonal transgender treatment to new patients. 3.
-It prohibits performing sex characteristic surgical procedures on a minor for the purpose of effectuating a sex change. 4.
+It requires the Department of Health and Human Services to conduct a systematic review of the medical evidence regarding hormonal transgender treatments and provide recommendations to the Legislature.
+2.
+It prohibits a health care provider from providing a hormonal transgender treatment to new patients.
+3.
+It prohibits performing sex characteristic surgical procedures on a minor for the purpose of effectuating a sex change.
+4.
 It addresses certain legal remedies.
 Before voting on this bill, I spoke to people who felt strongly from both sides.
 I recognize that there are individuals who believe the Utah Legislature made the wrong decision on this issue.
@@ -133,12 +137,12 @@ Some would argue that this is a life saving procedure and that there are other m
 I respect that perspective.
 As I weighed the issue, I felt voting for the bill was the right thing to do.
 Below is a link to the full text of the bill.
-On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
+Link to View SB 16 Utah Fits All 1/21/2023 On Friday January 20, 2023, the Utah State House of Representatives voted to pass HB215, also know as Utah Fits All.
 I was one of 54 House members who voted in favor of the bill.
 The Senate is expected to take up the bill this week and the Governor is expected to sign it.
 This bill has broad positive impacts for students, families, and teachers in the State of Utah.
 A few highlights: 1. $200 million for teacher raises.
-Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. 2.
+Utah's teachers will receive a $4,200 raise plus an additional $1,800 increase in paid benefits, totaling $6,000 for Utah's district and charter school teachers. ​ 2.
 A new scholarship will be available to approximately 5,000 of Utah's 675,000 students (about 4 students in each school).
 The scholarship prioritizes low income students, and provides funds for those students and their parents to pursue alternative education options directed by the family.
 This student scholarship, also referred to an education savings account, is not unique to Utah.
@@ -151,15 +155,13 @@ I am for education.
 I am for schools.
 I am for teachers, I am for students, and I am for families.
 If you would like to learn more about the bill, below are two helpful summaries.
-Download File Download File I'm looking forward to the 2023 legislative session.
+HB215 Overview File Size: 78 kb File Type: pdf Download File HB215 Legislative Summary File Size: 46 kb File Type: pdf Download File View House Bill 215 2023 Legislative Priorities 1/11/2023 I'm looking forward to the 2023 legislative session.
 I am assigned to the Education and Political Subdivisions standing committees and the Social Services appropriations committee for this session.
 The 2023 Utah House of Representatives Majority Caucus has set priorities for the upcoming session.
 They align in three categories, stewardship, affordability, and investment.
 These categories align with many issues in Utah that are important to the people I have heard from.
 Housing, taxes, water, energy, development and public lands, education, and roads are all impactful issues in our communities.
-While there will be nearly 1,000 bills considered in this session, I'm hopeful that on a few key issues I can help make a positive difference.
-To learn more about these policy priorities, download the PDF document below.
-Download File As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
+While there will be nearly 1,000 bills considered in this session, I'm hopeful that on a few key issues I can help make a positive difference. ​To learn more about these policy priorities, download the PDF document below.​ 2023 Utah House Majority Policy Priorities File Size: 14443 kb File Type: pdf Download File Ring in our Better Selves 1/1/2023 As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
 The poem was written after the passing of a dear friend, Arthur Henry Hallam in 1833 at age 22.
 Tennyson's poem stretches 2,916 lines organized into 133 sections.
 It took him 17 years to compose.
@@ -168,7 +170,7 @@ Tennyson then in the subsequent stanzas invites us to ring out and let go of the
 "Ring out the grief that saps the mind," "Ring out the feud of rich and poor," "Ring out a slowly dying cause, And ancient forms of party strife;" "Ring out the want, the care, the sin, The faithless coldness of the times;" "Ring out false pride in place and blood, The civic slander and the spite; "Ring out old shapes of foul disease;" "Ring out the narrowing lust of gold;" "Ring out the thousand wars of old," Tennyson, simultaneously invites us to ring in our better natures and hope for a redeemed future and the prophesied Millennium: "Ring in the true." "Ring in redress to all mankind." "Ring in the nobler modes of life, With sweeter manners, purer laws." "Ring in the common love of good." "Ring in the thousand years of peace." "Ring in the Christ that is to be." Tennyson understood that the teachings of Jesus Christ were the solution to the challenges of their day.
 As we face grief, feuds, political strife, indifference, pride, pandemic, and war in our day, Tennyson's assertion still rings true.
 We too can look forward to peace and remember that there is much good in the year ahead.
-Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled “And the Fair Land”.
+Bright Future 12/20/2022 Every year, the day before Thanksgiving, the Wall Street Journal publishes an article titled “And the Fair Land”.
 Following is an excerpt from the article: “at home they see young arrayed against old, black against white, neighbor against neighbor…they see that the cities and countryside are in need of repair, yet find themselves threatened by scarcities of the resources that sustain their way of life.” It is easy to find challenges in our country today.
 There is much to be concerned about in politics, economics, education, and civics.
 But what is right in our country exceeds what is wrong with it.
@@ -178,7 +180,7 @@ We can remind ourselves that for all our social discord we yet remain the longes
 Being so, we are the marvel and the mystery of the world, for that enduring liberty is no less a blessing than the abundance of the earth.” The resilience of a people that value liberty combined with the natural resources and financial capital of the people and institutions of this great country are reason for hope to exceed despair.
 For optimism to surpass discouragement.
 For the future to be even brighter than our past.
-Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
+Political Semantics 9/7/2022 Semantics: "the meaning of a word, phrase, sentence, or text" (Oxford Languages, 2022 09 07).
 Over long periods of time, the meaning of words change.
 The context for their use may change, the way they are used may change, and their frequency may change.
 "Square" in the 1950s was used differently and more frequently that it is today.
@@ -215,7 +217,7 @@ If we choose to change their meaning, what words do we use to say what we used t
 The solution to economic prosperity is straightforward.
 Fiscal responsibility, sound money, and stable regulatory policy.
 The solution to our identity is not to rewrite history, whitewash it, or redefine it, it is to learn from it and be better today because of it.
-United States of America is still the most powerful economic influence in the world.
+Inflation and Geopolitics 3/5/2022 United States of America is still the most powerful economic influence in the world.
 If we choose to "drill baby drill", over the long run we will simultaneously erode Russia's financial ability to wage war on Ukraine and others by driving global energy prices down and slow inflation.
 This would begin the liberation of Eastern Europe from Russian influence through economic policy.
 As natural gas supplies increase, we can re-route liquefied natural gas exports from China to Europe.
@@ -237,7 +239,7 @@ A United States Government that is not dependent on its allies or aggressors for
 On defense, we should be the most respected nation in the world both because of our capability and our restraint.
 If we can’t lead from the White House, we should lead from the respective states.
 Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people.
-One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -313,15 +315,21 @@ Homeowners, suburban and rural communities, and essential services are winners t
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
 Asset prices are rising and will do so until the policy induced stimulus runs out.
-The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
-It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry). 1) The bill that is being considered is enormous and highly inefficient.
-It will get passed anyway. 2) We should not subsidize state and local governments.
+United states Recovery Bill, Try this...
+3/24/2020 The United States government struggled with the COVID-19 recovery bill to address the recession the government created.
+It will not be implemented but here is my proposal (skip to #5 below if you are in a hurry).
+1) The bill that is being considered is enormous and highly inefficient.
+It will get passed anyway.
+2) We should not subsidize state and local governments.
 They made the decision to go into recession, their revenues are protected (utilities, property taxes, income taxes).
-Sales tax has exposure, but it has always been more volatile than income and property taxes. 3) We should not subsidize businesses or industries.
+Sales tax has exposure, but it has always been more volatile than income and property taxes.
+3) We should not subsidize businesses or industries.
 Their assets will be bought and the human capital will not be destroyed.
-Let the situation play out with investors and creditors. 4) We should not try and solve the situation through unemployment insurance.
+Let the situation play out with investors and creditors.
+4) We should not try and solve the situation through unemployment insurance.
 It is too bureaucratic.
-The money will not get distributed when it is needed, and then too much will get distributed when it is not needed. 5) There are approximately 130 million households in the United States.
+The money will not get distributed when it is needed, and then too much will get distributed when it is not needed.
+5) There are approximately 130 million households in the United States.
 Congress will approve an astounding $2 trillion dollar package.
 That is $15,000 per household.
 Why not send every household $15,000?
@@ -333,7 +341,7 @@ The payments will allow everyone to either get through the next couple of months
 Those who don’t end up needing it can return it on the next tax return.
 The rest of the country will be set to deal with the recession the government created.
 This solution can be executed fast, it is easy to implement, and easy to administer.
-We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
+Not like the last recession 3/19/2020 Graphics published by the Wall Street Journal Daily Shot 2019 03 18 We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
 It hasn't been confirmed by official statistics, that will take time.
 A recession is defined as two consecutive quarters of falling Gross Domestic Product (GDP).
 The first quarter of 2020 will show a small drop in GDP because of COVID-19 personal distancing measures and impacts to nonessential business implemented by governments in March.
@@ -384,7 +392,7 @@ Third, change is inevitable.
 We can't always predict the source of change, but we can adapt and be responsive to change.
 Our world changed in the matter of a few months.
 The more quickly we make adjustments, the quicker we will begin the process of recovering.
-Many have proclaimed their disapproval over elections outcomes.
+Path to Less Contentious Politics 1/13/2019 Many have proclaimed their disapproval over elections outcomes.
 Some have suggested foul play because their candidate isn't automatically declared the winner.
 Some have labeled elections processes undemocratic.
 In a few instances, unsatisfied individuals propose a referendum or ballot initiative to change election rules.
@@ -424,13 +432,13 @@ By definition it is slow, you don't get everything you want, and there are oppos
 Understanding the process is an important part of participation.
 Citizens understand what it means to vote, but frequently misunderstand the process and misinterpret the outcomes.
 We must do a better job educating voters and their children about our elections and legislative processes if we want better voter participation with less contention in the future.
-The State of Utah has tens of billions of dollars (yes, more than $10,000,000,000) in cash and short-term investments for liquidity, float, reserves, and savings.
+Improve Utah's Cash Management Strategy 5/15/2016 The State of Utah has tens of billions of dollars (yes, more than $10,000,000,000) in cash and short-term investments for liquidity, float, reserves, and savings.
 The strategy for managing this money is very important.
 Even a 0.1% increase in investment returns generates $10 million (yes, $10,000,000) in additional dividends to be distributed to entities of the State.
 This analysis proposes increasing dividends for entities like municipalities, school districts, charter schools, water conservancy districts, and universities by altering the available investment options.
 Without increasing credit risk or raising taxes, we can distribute additional funds to government entities.
 While as an economist, I have to acknowledge there is no such thing as a free lunch, this is just about the closest thing to it.
-The State of Utah and more particularly the Republican Party have been in the throws of a knock-down, drag-out fight over the nomination process for candidates.
+Download the whitepaper by clicking here Why we need Party Conventions 4/24/2016 The State of Utah and more particularly the Republican Party have been in the throws of a knock-down, drag-out fight over the nomination process for candidates.
 Count My Vote initiated a movement to replace party conventions with primaries.
 The movement spawned Senate Bill 54 which allowed candidates to choose between collecting signatures with the option to bypass the party convention and still appear on the primary ballot or securing enough votes at the party convention as a requirement to appear on the primary ballot.
 Count My Vote proponents want to increase voter participation, represent the voice of the people, and eliminate party control of the ballot.
@@ -464,16 +472,4 @@ Without the convention, we have a plurality with no way to get to a majority.
 For the same reasons, state and county conventions are also relevant and necessary.
 If there are problems with the process used in the conventions, we should change those processes, not circumvent the convention.
 The reason the Utah Republican Party has fought so aggressively against SB54 is to preserve the convention and its ability to break plurality stalemates and come to a majority behind a nominee.
-I am confident that as a party and as Utahans, we will work through the disagreement over the elections process and come to a positive solution because we share the same desire to increase voter participation, have a representative process, and let voters decide who is on the ballot. | |
-| HB215 Overview | |
-| File Size: | 78 kb |
-| File Type: | |
-Download File
-| HB215 Legislative Summary | |
-| File Size: | 46 kb |
-| File Type: | |
-Download File
-| 2023 Utah House Majority Policy Priorities | |
-| File Size: | 14443 kb |
-| File Type: | |
-Download File
+I am confident that as a party and as Utahans, we will work through the disagreement over the elections process and come to a positive solution because we share the same desire to increase voter participation, have a representative process, and let voters decide who is on the ballot. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

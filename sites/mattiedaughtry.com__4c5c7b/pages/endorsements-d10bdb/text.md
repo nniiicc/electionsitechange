@@ -1,37 +1,37 @@
-Endorsements
-Organizational Endorsements:
-MAINE CONSERVATION VOTERS
-During the 129th legislative session (2019-2020) which adjourned early due to the pandemic, Rep.
+0 Skip to Content Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Mattie Daughtry Donate Home Announcement Endorsements Volunteer Contact DONATE Open Menu Close Menu Donate Home Announcement Endorsements Volunteer Contact DONATE Endorsements Organizational Endorsements: MAINE CONSERVATION VOTERS During the 129th legislative session (2019-2020) which adjourned early due to the pandemic, Rep.
 Daughtry voted to promote clean energy, voted for the Land for Maine’s Future Bond, and to ban single use plastic bags and polystyrene foam containers.
 She was the lead sponsor of a successful bill to ban toxic coal tar sealants (LD 906), an effort she began in 2014, a testament to her tenacity.
 “Mattie Daughtry has consistently voted to protect Maine’s land, water, and health, and promote clean energy,” said MCV Action Fund Director of Government Affairs Beth Ahearn.
-“MCV Action Fund is proud to support her campaign for the Maine State Senate because we know she’ll be a leader for the communities of Brunswick, Freeport, Harpswell, North Yarmouth, and Pownal in Augusta.”
-Learn more about Maine Conservation Voters by clicking here.
-MAINE EDUCATION ASSOCIATION
-“Our endorsement is based on your voting record during the 129th Legislative Session.
+“MCV Action Fund is proud to support her campaign for the Maine State Senate because we know she’ll be a leader for the communities of Brunswick, Freeport, Harpswell, North Yarmouth, and Pownal in Augusta.” Learn more about Maine Conservation Voters by clicking here.
+MAINE EDUCATION ASSOCIATION “Our endorsement is based on your voting record during the 129th Legislative Session.
 We appreciate your continued support of our students and the professionals who work in our public schools.
 The Legislature plays a key role in shaping what happens in our schools.
-Your voting record shows you consistently vote to support students and educators, and we thank you for your efforts.”
-To learn more about the Maine Education Association please click here.
-NASW Endorsed Candidate
-“On behalf of the over 950 members of the Maine Chapter of the National Association of Social Workers (NASW), the Political Action for Candidate Election (PACE) Committee is pleased to endorse your candidacy for the 2022 general election.
+Your voting record shows you consistently vote to support students and educators, and we thank you for your efforts.” To learn more about the Maine Education Association please click here.
+Sierra Club of Maine NASW Endorsed Candidate “On behalf of the over 950 members of the Maine Chapter of the National Association of Social Workers (NASW), the Political Action for Candidate Election (PACE) Committee is pleased to endorse your candidacy for the 2022 general election.
 The Committee was impressed by your commitment to the well-being of individuals, families, and communities.
-To advance our legislative priorities on behalf of social workers and the communities we serve, we are eager to work with you to address critical issues and inequities, including access to affordable behavioral health and health care, the availability of social services and family supports including Paid Family Medical Leave, and protecting civil rights for women, persons of color and LGBTQIA+ communities.”
-EMILY’S LIST
-“Mattie is a tireless advocate who is passionate about expanding opportunities for students and young professionals.
+To advance our legislative priorities on behalf of social workers and the communities we serve, we are eager to work with you to address critical issues and inequities, including access to affordable behavioral health and health care, the availability of social services and family supports including Paid Family Medical Leave, and protecting civil rights for women, persons of color and LGBTQIA+ communities.” EMILY’S LIST “Mattie is a tireless advocate who is passionate about expanding opportunities for students and young professionals.
 As a member of the Maine House, she has fought to reduce student debt and keep young Mainers in the state, helping to reduce “brain drain.” EMILY's List is excited to support her campaign for Senate District 24," said Geri Prado, vice president of state and local campaigns at EMILY's List.
 About Emily’s List: “Our vision is a government that reflects the people it serves, and decision makers who genuinely and enthusiastically fight for greater opportunity and better lives for the Americans they represent.
-We will work for larger leadership roles for pro-choice Democratic women in our legislative bodies and executive seats so that our families can benefit from the open-minded, productive contributions that women have consistently made in office.”
-MSEA-SEIU Endorsed
-Planned Parenthood Maine Action Fund PAC Endorsed Candidate
-I am particularly honored to be the only candidate in this race endorsed by PPMEAF PAC—especially in the aftermath of the Dobbs decision.
+We will work for larger leadership roles for pro-choice Democratic women in our legislative bodies and executive seats so that our families can benefit from the open-minded, productive contributions that women have consistently made in office.” Learn more about Emily’s List here.
+MSEA-SEIU Endorsed MFV Endorsed Candidate ”We are pleased to inform you that your campaign has been awarded an endorsement for your 2022 campaign from Maine Families for Vaccines.
+Thank you again for advocating for safe schools, workplaces, and communities, and for committing to govern with public health as a priority.” Planned Parenthood Maine Action Fund PAC Endorsed Candidate I am particularly honored to be the only candidate in this race endorsed by PPMEAF PAC—especially in the aftermath of the Dobbs decision.
 Keeping access to abortion—and all reproductive health—legal, safe, and accessible is one of my top priorities.
 “You have earned Planned Parenthood Maine Action Fund’s endorsement this election cycle.
-We are very excited to support candidates like you who are committed to a woman’s right to make her own personal, private decisions about her health care and pregnancy.”
-EQUALITY MAINE
-“EqualityMaine is proud to endorse Mattie Daughtry for State Senate.
+We are very excited to support candidates like you who are committed to a woman’s right to make her own personal, private decisions about her health care and pregnancy.” EQUALITY MAINE “EqualityMaine is proud to endorse Mattie Daughtry for State Senate.
 This year, Mattie was the sponsor of EqualityMaine's bill to create a working group to review and develop recommendations to ensure safe and inclusive learning environments for LGBTQ+ students and educators in Maine schools through inclusive hiring and recruiting practices and the creation of a curriculum audit document to recommend where LGBTQ+ voices, stories and histories are included in the curriculum, among others.
-Mattie represents the very best of a new generation of leaders for our state, and will be exactly the kind of champion our community needs in the State Senate.”
-Individuals Endorsements
-“I’ve seen Mattie in action here in Brunswick as a small business owner, and I’m really excited for the energy she is going to bring back to Augusta.”
-Nate Wildes, Founder of Flight Deck Brewing
+Mattie represents the very best of a new generation of leaders for our state, and will be exactly the kind of champion our community needs in the State Senate.” To learn more about Equality Maine click here.
+Maine AFL-CIO Endorsed Moms Demand Action Gun Sense Candidate Individuals Endorsements “I’ve seen Mattie in action here in Brunswick as a small business owner, and I’m really excited for the energy she is going to bring back to Augusta.” Nate Wildes, Founder of Flight Deck Brewing Click Here to Watch Nate’s Endorsement Senator Brownie Carson “Today, as I reflect on the challenges we face in the midst of this COVID-19 pandemic, I feel compelled to think about the next legislative session and who might be best equipped to serve as my successor representing the people of our communities.
+That’s why I’m enthusiastically endorsing Mattie Daughtry in the Democratic primary to serve in the Maine Senate.
+Mattie works hard, and she listens well.
+She grew up here; she cares deeply about her neighbors.
+She brings a thoughtful approach and positive energy to every task.
+Mattie has solid experience and a demonstrated record of success in two areas that are crucial for Maine’s recovery from the impacts of the pandemic: education policy and small business.” Dan Kleban, Co-Owner of Maine Beer Company “Mattie is just what we need in Augusta.
+She is experienced, bright and energetic.
+As a state representative, Mattie showed that she knows how to work with others in order get things done that benefit not only her constituents, but all Mainers,” said Dan Kleban, owner of Maine Beer Company in Freeport.
+“On top of all this, Mattie started and currently operates a brewery so she understands the needs and challenges of Maine’s small businesses.
+I enthusiastically endorse Mattie and ask others to do the same.” Former Representative Annie Graham “Mattie Daughtry is the right person to represent Maine Senate District 24 (North Yarmouth, Freeport, Brunswick and Harpswell).
+As a small business owner, she understands how to survive and make it in this economy.
+She has served the people of Brunswick for the past eight years in the Maine House with strength and wisdom.
+Her first two years, I served with her.
+I immediately knew that she is a leader for her community and the state of Maine.
+We need smart, honest individuals who will listen to their whole senate district as we move out of this current health and economic crisis.” Mattie Daughtry For Maine District 23 State Senate (207) 370-9871 mattieforsenate@gmail.com Home Announcements Endorsements Volunteer Contact Paid for and authorized by the Candidate.

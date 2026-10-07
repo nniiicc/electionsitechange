@@ -1,7 +1,11 @@
 {
  "description": "Campaign and Election Information.",
  "final_url": "https://www.laurieparman.info/blog/categories/campaign",
+ "fingerprint": "3905fbfbc765be9b860449004aa82ced671448c8",
+ "format": 3,
  "paid_for_by": "Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail",
  "title": "Campaign",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

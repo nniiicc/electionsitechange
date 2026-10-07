@@ -1,4 +1,7 @@
-If your property-tax bill feels like it keeps going up, you’re not imagining it—and Newtown can’t solve all of it alone.
+Skip to content MICHELLE EMBREE KU FOR NEWTOWN Search About About Michelle Photos Accomplishments A Clear Choice for Newtown Common Sense.
+Real Backbone.
+Get Involved Volunteer!
+Subscribe Contact News Latest Posts Facebook Feed Instagram Feed Newtown Bee: Letters to the Editor Issues Affordable Housing Action Not Talk Strong Schools Healthcare Traffic Regarding Property Taxes Home (No account necessary to view!) michelleku4newtown Sep 21 If your property-tax bill feels like it keeps going up, you’re not imagining it—and Newtown can’t solve all of it alone.
 Here’s what’s happening: state education aid to Newtown has barely moved in years, while the cost of running our schools has gone up.
 At the same time, higher healthcare and energy costs hit families twice: once in your own bills, and again in the town budget through the mill rate.
 We need our representative in Hartford to step up—by updating school funding, fully supporting special education, and tackling the costs that local taxpayers keep getting stuck with—and that’s exactly what I’ll do.
@@ -7,7 +10,7 @@ Need to know more?
 I put the facts, the numbers, and the solutions in a new white paper.
 Read it at [@kuisforyou.com https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/].
 Let’s fight for real property-tax relief.
-If your property-tax bill feels like it keeps going up, you’re not imagining it—and Newtown can’t solve all of it alone.
+#taxrelief #propertytaxes #healthcare #education #energy #costs 12 1 Open post by michelleku4newtown with ID 18114984845064085 If your property-tax bill feels like it keeps going up, you’re not imagining it—and Newtown can’t solve all of it alone.
 Here’s what’s happening: state education aid to Newtown has barely moved in years, while the cost of running our schools has gone up.
 At the same time, higher healthcare and energy costs hit families twice: once in your own bills, and again in the town budget through the mill rate.
 We need our representative in Hartford to step up—by updating school funding, fully supporting special education, and tackling the costs that local taxpayers keep getting stuck with—and that’s exactly what I’ll do.
@@ -16,101 +19,93 @@ Need to know more?
 I put the facts, the numbers, and the solutions in a new white paper.
 Read it at [@kuisforyou.com https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/].
 Let’s fight for real property-tax relief.
-Your property-tax bill deserves more than vague promises.
+#taxrelief #propertytaxes #healthcare #education #energy #costs … 12 1 michelleku4newtown Sep 21 Your property-tax bill deserves more than vague promises.
 Michelle wrote a new white paper that explains the real forces pushing costs onto Newtown taxpayers—and the state-level changes that can provide meaningful relief.
 It’s short, fact-based, and worth a few minutes of your time.
-Read the full white paper at kuisforyou.com or click this link [https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/]
-Your property-tax bill deserves more than vague promises.
+Read the full white paper at kuisforyou.com or click this link [https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/] #NewtownCT #PropertyTaxes #TaxRelief #Connecticut #Hartford #LocalTaxes #NewtownPolitics 7 1 Open post by michelleku4newtown with ID 18166999501479263 Your property-tax bill deserves more than vague promises.
 Michelle wrote a new white paper that explains the real forces pushing costs onto Newtown taxpayers—and the state-level changes that can provide meaningful relief.
 It’s short, fact-based, and worth a few minutes of your time.
-Read the full white paper at kuisforyou.com or click this link [https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/]
+Read the full white paper at kuisforyou.com or click this link [https://kuisforyou.com/why-your-property-tax-bill-goes-up-and-what-can-be-done-about-it/] #NewtownCT #PropertyTaxes #TaxRelief #Connecticut #Hartford #LocalTaxes #NewtownPolitics … 7 1 michelleku4newtown Sep 20 Coffee.
+The Arts.
+Rain.
 Michelle shows up for Newtown every single day.
 Because she believes the best way to represent Newtown is to actually know Newtown.
 Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door 8 1 Open post by michelleku4newtown with ID 17917074921245406 Coffee.
+The Arts.
+Rain.
 Michelle shows up for Newtown every single day.
 Because she believes the best way to represent Newtown is to actually know Newtown.
 Your kid`s team.
 Your street`s pothole.
 Your worry about the grocery bill.
 She wants to hear it straight from you.
-Say hi when you spot her out there 🧡 kuisforyou.com
-Who’s ready to bring the energy to every block?
+Say hi when you spot her out there 🧡 kuisforyou.com #weekend #photodump #community ##Newtown #newtownct #door … 8 1 michelleku4newtown Sep 20 From property taxes and housing costs to energy bills and health care, voters are clear: the cost of living is pushing too many people to the edge.
+Michelle is listening—and fighting for practical solutions that help families stay in their homes and communities.
+#Affordability #CostOfLiving #PropertyTaxes #Housing #HealthCare #Connecticut 16 0 Open post by michelleku4newtown with ID 17973974846935949 From property taxes and housing costs to energy bills and health care, voters are clear: the cost of living is pushing too many people to the edge.
+Michelle is listening—and fighting for practical solutions that help families stay in their homes and communities.
+#Affordability #CostOfLiving #PropertyTaxes #Housing #HealthCare #Connecticut … 16 0 michelleku4newtown Sep 20 Who’s ready to bring the energy to every block?
 A lawn sign is more than a sign—it’s a little burst of hometown spirit, a conversation starter, and a reminder that we’re building something together.
 Be the one.
 Bring the spirit.
 Get your sign.
-Comment SIGN or send us a DM and we’ll help you claim yours! https://forms.gle/RaSXW4VXrAPE7Ack9
-Who’s ready to bring the energy to every block?
+Comment SIGN or send us a DM and we’ll help you claim yours! https://forms.gle/RaSXW4VXrAPE7Ack9 #signs #cheerleader #Cheerleading #hometown #energy 4 1 Open post by michelleku4newtown with ID 17993604246044730 Who’s ready to bring the energy to every block?
 A lawn sign is more than a sign—it’s a little burst of hometown spirit, a conversation starter, and a reminder that we’re building something together.
 Be the one.
 Bring the spirit.
 Get your sign.
-Comment SIGN or send us a DM and we’ll help you claim yours! https://forms.gle/RaSXW4VXrAPE7Ack9
-One door.
+Comment SIGN or send us a DM and we’ll help you claim yours! https://forms.gle/RaSXW4VXrAPE7Ack9 #signs #cheerleader #Cheerleading #hometown #energy … 4 1 michelleku4newtown Sep 18 One door.
 One reminder to vote.
 One more voter ready to show up.
 Join the Ku Crew!
 No experience needed—we’ll train you, pair you with a team, and make it fun.
 Michelle is ready to lead.
 Now let’s build the people-powered movement that gets her there.
-Sign up today: [https://forms.gle/oBDGtW6jRa4d5oR36]
-Tag a friend.
+Sign up today: [https://forms.gle/oBDGtW6jRa4d5oR36] Tag a friend.
 Bring a friend.
 Knock some doors.
 Say hello.
-One door.
+#canvassing #neighborhood #GOTV #teamwork #joinus #friends 4 1 Open post by michelleku4newtown with ID 18109352414153894 One door.
 One reminder to vote.
 One more voter ready to show up.
 Join the Ku Crew!
 No experience needed—we’ll train you, pair you with a team, and make it fun.
 Michelle is ready to lead.
 Now let’s build the people-powered movement that gets her there.
-Sign up today: [https://forms.gle/oBDGtW6jRa4d5oR36]
-Tag a friend.
+Sign up today: [https://forms.gle/oBDGtW6jRa4d5oR36] Tag a friend.
 Bring a friend.
 Knock some doors.
 Say hello.
-It`s our favorite season… voting season.
+#canvassing #neighborhood #GOTV #teamwork #joinus #friends … 4 1 michelleku4newtown Sep 18 It`s our favorite season… voting season.
 Are you ready to vote?
-#VoteBlueToSaveAmerica #VoteBlue #vote #elections
-4
-1
-michelleku4newtownSep 14
-From September 15 to October 15, we celebrate National Hispanic Heritage Month . . . the rich cultures, histories, traditions, and contributions of Hispanic and Latino communities.
+#VoteBlueToSaveAmerica #VoteBlue #vote #elections 4 1 Open post by michelleku4newtown with ID 18086522192276711 It`s our favorite season… voting season.
+Are you ready to vote?
+#VoteBlueToSaveAmerica #VoteBlue #vote #elections … 4 1 michelleku4newtown Sep 14 From September 15 to October 15, we celebrate National Hispanic Heritage Month . . . the rich cultures, histories, traditions, and contributions of Hispanic and Latino communities.
 From local leaders and small-business owners to educators, artists, veterans, and neighbors, Hispanic voices and stories strengthen our communities every day.
 That celebration is happening all while families nearby — in Danbury, Stamford, Bridgeport — watch ICE activity show up at their school drop-offs, courthouses, and parking lots.
 Neighbors are making just in case plans for their kids.
-This month, let’s celebrate Hispanic heritage by standing with our neighbors and taking action: 🧡 Learn your rights (and your neighbors) — portal.ct.gov�🧡 Support local immigrant-serving organizations�🧡 Show up for community events�🧡 Talk to your kids about Hispanic heritage Let’s honor the past, support our neighbors in the present, and continue building a future rooted in opportunity, inclusion, and respect. #LatinoPride #CommunityStrong #HispanicHeritageMonth #Connecticut #LatinoPride #CommunityStrong
-From September 15 to October 15, we celebrate National Hispanic Heritage Month . . . the rich cultures, histories, traditions, and contributions of Hispanic and Latino communities.
+This month, let’s celebrate Hispanic heritage by standing with our neighbors and taking action: 🧡 Learn your rights (and your neighbors) — portal.ct.gov�🧡 Support local immigrant-serving organizations�🧡 Show up for community events�🧡 Talk to your kids about Hispanic heritage Let’s honor the past, support our neighbors in the present, and continue building a future rooted in opportunity, inclusion, and respect.
+#LatinoPride #CommunityStrong #HispanicHeritageMonth #Connecticut #LatinoPride #CommunityStrong 5 0 Open post by michelleku4newtown with ID 17958205368237285 From September 15 to October 15, we celebrate National Hispanic Heritage Month . . . the rich cultures, histories, traditions, and contributions of Hispanic and Latino communities.
 From local leaders and small-business owners to educators, artists, veterans, and neighbors, Hispanic voices and stories strengthen our communities every day.
 That celebration is happening all while families nearby — in Danbury, Stamford, Bridgeport — watch ICE activity show up at their school drop-offs, courthouses, and parking lots.
 Neighbors are making just in case plans for their kids.
-This month, let’s celebrate Hispanic heritage by standing with our neighbors and taking action: 🧡 Learn your rights (and your neighbors) — portal.ct.gov�🧡 Support local immigrant-serving organizations�🧡 Show up for community events�🧡 Talk to your kids about Hispanic heritage Let’s honor the past, support our neighbors in the present, and continue building a future rooted in opportunity, inclusion, and respect. #LatinoPride #CommunityStrong #HispanicHeritageMonth #Connecticut #LatinoPride #CommunityStrong
-5
-0
-michelleku4newtownSep 11
-Today, we pause to remember September 11, 2001—the lives lost, the families forever changed, and the courage shown by first responders, service members, and ordinary people who came together in the face of unimaginable tragedy.
+This month, let’s celebrate Hispanic heritage by standing with our neighbors and taking action: 🧡 Learn your rights (and your neighbors) — portal.ct.gov�🧡 Support local immigrant-serving organizations�🧡 Show up for community events�🧡 Talk to your kids about Hispanic heritage Let’s honor the past, support our neighbors in the present, and continue building a future rooted in opportunity, inclusion, and respect.
+#LatinoPride #CommunityStrong #HispanicHeritageMonth #Connecticut #LatinoPride #CommunityStrong … 5 0 michelleku4newtown Sep 11 Today, we pause to remember September 11, 2001—the lives lost, the families forever changed, and the courage shown by first responders, service members, and ordinary people who came together in the face of unimaginable tragedy.
 Remembering September 11 is about more than looking back.
 It is a reminder to cherish our loved ones, support our neighbors, honor those who served, and carry forward the compassion and unity that emerged in its aftermath.
 May we never forget the nearly 3,000 people whose lives were taken, and may we continue to honor their memory through kindness, service, and a commitment to stand together.
-Today, we pause to remember September 11, 2001—the lives lost, the families forever changed, and the courage shown by first responders, service members, and ordinary people who came together in the face of unimaginable tragedy.
+#neighbors #communityfirst #community #CommunityStrong #compassion #unity #911 15 1 Open post by michelleku4newtown with ID 18133330324637597 Today, we pause to remember September 11, 2001—the lives lost, the families forever changed, and the courage shown by first responders, service members, and ordinary people who came together in the face of unimaginable tragedy.
 Remembering September 11 is about more than looking back.
 It is a reminder to cherish our loved ones, support our neighbors, honor those who served, and carry forward the compassion and unity that emerged in its aftermath.
 May we never forget the nearly 3,000 people whose lives were taken, and may we continue to honor their memory through kindness, service, and a commitment to stand together.
-Thank you, Newtown—my heart is full after an unforgettable Labor Day with all of you.
+#neighbors #communityfirst #community #CommunityStrong #compassion #unity #911 … 15 1 michelleku4newtown Sep 7 Thank you, Newtown—my heart is full after an unforgettable Labor Day with all of you.
 Grateful for the warm smiles, high fives, and the shared commitment to keep Newtown thriving.
-#newtownct #Connecticut #laborday #labordayparade Newtown Labor Day Parade #neighbors
-Thank you, Newtown—my heart is full after an unforgettable Labor Day with all of you.
+#newtownct #Connecticut #laborday #labordayparade Newtown Labor Day Parade #neighbors 9 1 Open post by michelleku4newtown with ID 18455391466186159 Thank you, Newtown—my heart is full after an unforgettable Labor Day with all of you.
 Grateful for the warm smiles, high fives, and the shared commitment to keep Newtown thriving.
-#newtownct #Connecticut #laborday #labordayparade Newtown Labor Day Parade #neighbors
-9
-1
-michelleku4newtownSep 7
-As I prepare to walk in the Newtown Labor Day Parade today, I can`t help but think about the growing inequities in this country and how much harder it`s become for young people to land their first job, let alone buy their first home.
+#newtownct #Connecticut #laborday #labordayparade Newtown Labor Day Parade #neighbors … 9 1 michelleku4newtown Sep 7 As I prepare to walk in the Newtown Labor Day Parade today, I can`t help but think about the growing inequities in this country and how much harder it`s become for young people to land their first job, let alone buy their first home.
 My father was a community college professor in Chicago.
 This photo is of him on strike with his fellow faculty members, fighting for better working conditions.
 My family struggled to get by, but my parents worked hard, and my brother and I were given opportunities they never had.
@@ -120,7 +115,7 @@ Happy Labor Day.
 I am grateful for everyone who`s ever stood up, walked out, or spoken up for a fairer deal.
 We need it now more than ever.
 We need it now more than ever, because the gap between those who work and those who profit from that work keeps widening, and unions remain one of the few tools working people have to close it.
-As I prepare to walk in the Newtown Labor Day Parade today, I can`t help but think about the growing inequities in this country and how much harder it`s become for young people to land their first job, let alone buy their first home.
+13 1 Open post by michelleku4newtown with ID 18103414366965340 As I prepare to walk in the Newtown Labor Day Parade today, I can`t help but think about the growing inequities in this country and how much harder it`s become for young people to land their first job, let alone buy their first home.
 My father was a community college professor in Chicago.
 This photo is of him on strike with his fellow faculty members, fighting for better working conditions.
 My family struggled to get by, but my parents worked hard, and my brother and I were given opportunities they never had.
@@ -129,21 +124,16 @@ It`s the reason working families like mine had a shot at something better.
 Happy Labor Day.
 I am grateful for everyone who`s ever stood up, walked out, or spoken up for a fairer deal.
 We need it now more than ever.
-We need it now more than ever, because the gap between those who work and those who profit from that work keeps widening, and unions remain one of the few tools working people have to close it.
-13
-1
-michelleku4newtownSep 4
-One sign can start a conversation.
+We need it now more than ever, because the gap between those who work and those who profit from that work keeps widening, and unions remain one of the few tools working people have to close it. … 13 1 michelleku4newtown Sep 4 One sign can start a conversation.
 One conversation can inspire a supporter.
 One supporter can help change the outcome.
 Let’s make our momentum visible—and make it impossible to ignore!
 But don’t stop there!
-This is the perfect time to jump into the action: 🚪 Visit a few doors 📞 Make a few calls 🤝 Bring a friend 📲 Share our message 🏡 Add your lawn to the movement
-👉 Claim your sign [https://forms.gle/KzVr19XXACfeYfyJA] Join the Ku Crew [https://forms.gle/bDyBcCPXqPziDXoo8]
-One sign can start a conversation.
+This is the perfect time to jump into the action: 🚪 Visit a few doors 📞 Make a few calls 🤝 Bring a friend 📲 Share our message 🏡 Add your lawn to the movement 👉 Claim your sign [https://forms.gle/KzVr19XXACfeYfyJA] Join the Ku Crew [https://forms.gle/bDyBcCPXqPziDXoo8] #SignsOfSupport #GetInvolved #CommunityPower #LetsGo 11 1 Open post by michelleku4newtown with ID 17969756118133008 One sign can start a conversation.
 One conversation can inspire a supporter.
 One supporter can help change the outcome.
 Let’s make our momentum visible—and make it impossible to ignore!
 But don’t stop there!
-This is the perfect time to jump into the action: 🚪 Visit a few doors 📞 Make a few calls 🤝 Bring a friend 📲 Share our message 🏡 Add your lawn to the movement
-👉 Claim your sign [https://forms.gle/KzVr19XXACfeYfyJA] Join the Ku Crew [https://forms.gle/bDyBcCPXqPziDXoo8]
+This is the perfect time to jump into the action: 🚪 Visit a few doors 📞 Make a few calls 🤝 Bring a friend 📲 Share our message 🏡 Add your lawn to the movement 👉 Claim your sign [https://forms.gle/KzVr19XXACfeYfyJA] Join the Ku Crew [https://forms.gle/bDyBcCPXqPziDXoo8] #SignsOfSupport #GetInvolved #CommunityPower #LetsGo … 11 1 Load More Follow on Instagram Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Brian Hartgraves Treasurer.
+Approved by Michelle Embree Ku.

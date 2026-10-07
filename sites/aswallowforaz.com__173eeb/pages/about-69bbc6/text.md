@@ -1,18 +1,20 @@
-Frequently Asked
-Questions
-- Often times, it’s during the hardest times when we must show the largest amount of courage—unequivocally and unapologetically.
+0 Skip to Content Aiden Swallow for Arizona About Platform Endorsements Volunteer Open Menu Close Menu Aiden Swallow for Arizona About Platform Endorsements Volunteer Open Menu Close Menu About Platform Endorsements Volunteer Frequently Asked Questions Why did you choose to be out as a trans woman in this current environment?
+Often times, it’s during the hardest times when we must show the largest amount of courage—unequivocally and unapologetically.
 How could I, in good faith, ask others to show courage, face the odds, to fight literal fascism, when I couldn’t show the same courage?
 We must stand together in order to succeed.
-- Honestly, while it does hurt, it also gives me strength.
+How do you handle all the hate people throw at you?
+Honestly, while it does hurt, it also gives me strength.
 I love living rent free in the minds of bigoted people.
 I’ve almost died a number of times in combat.
 I have bigger things I’m living for and fighting for.
 I won’t stop because of threats.
-- Because I had to.
+Why did you get into politics?
+Because I had to.
 I never wanted to be a politician.
 The current state of our politics forced me to run.
-This is the start of a movement, and we all have our part to play.
-- The word “Socialist” is one of the most overused and misunderstood words in the political sphere.
+This is the start of a movement , and we all have our part to play.
+Are you a Democratic Socialist?
+The word “Socialist” is one of the most overused and misunderstood words in the political sphere.
 Do I think the vast majority of Democratic Socialist policies fit me?
 Absolutely—without a doubt.
 However, instead of focusing on labels, I’d rather focus on my policies.
@@ -25,7 +27,7 @@ I saw the best and the worst of the U.S. government.
 Towards the end of my career I realized I was transgender, and had to make the scariest decision of my life yet: whether to come out, and be my authentic self, unapologetically and unequivocally, or...
 I could continue to live a lie.
 I chose to be my true self.
-That choice would cause me to be unjustly removed from the military with no retirement, due to hate, misinformation, and misunderstanding spurred on by the Trump administration.
+That choice would cause me to be unjustly removed from the military with no retirement , due to hate, misinformation, and misunderstanding spurred on by the Trump administration.
 I am running for Arizona State Legislature because I refuse to cower against MAGA.
 I am running to give a voice to those that are underserved and underrepresented.
 Early in life, my hero, my mother, taught me to listen and to be accepting of others.
@@ -36,3 +38,6 @@ Someone who is willing to challenge the status quo and take on both the Republic
 I will fight for everyone, regardless of race, ethnicity, gender, political party, or economic status.
 I am not backed by corporations or special interests and will stay true to the community that I hold dear.
 With your help, we can bring the fight straight to our capital and give rural Arizona the representation it finally deserves.
+Questions?
+Contact Me: Reach me at aidenswallowforarizona@gmail.com Paid for by Aiden Swallow for Arizona.
+Approved by Aiden Swallow.

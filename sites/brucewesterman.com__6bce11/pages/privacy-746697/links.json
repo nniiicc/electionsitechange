@@ -1,15 +1,66 @@
 [
-"http://docs.info.apple.com/article.html?path=safari%2F3.0%2Fen%2F9277.html",
-"http://google.com/support/chrome/bin/answer.py?hl=en&answer=95647",
-"http://networkadvertising.org/",
-"http://networkadvertising.org/choices",
-"http://support.microsoft.com/kb/283185",
-"http://support.mozilla.com/en-us/kb/cookies",
-"https://brucewesterman.com/",
-"https://brucewesterman.com/get-involved",
-"https://brucewesterman.com/issues",
-"https://facebook.com/WestermanAR",
-"https://secure.winred.com/westerman-for-congress/donate",
-"https://twitter.com/westermanAR",
-"https://youtube.com/user/WestermanAR"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/westerman-for-congress/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brucewesterman.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.brucewesterman.com/issues"
+},
+{
+"text": "Meet Bruce",
+"href": "https://www.brucewesterman.com/#meet-bruce"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/WestermanAR"
+},
+{
+"text": "[image]",
+"href": "https://www.brucewesterman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/westermanAR"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WestermanAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/user/WestermanAR"
+},
+{
+"text": "http://docs.info.apple.com/article.html?path=safari/3.0/en/9277.html",
+"href": "http://docs.info.apple.com/article.html?path=safari%2F3.0%2Fen%2F9277.html"
+},
+{
+"text": "http://support.microsoft.com/kb/283185",
+"href": "http://support.microsoft.com/kb/283185"
+},
+{
+"text": "http://support.mozilla.com/en-us/kb/cookies",
+"href": "http://support.mozilla.com/en-us/kb/cookies"
+},
+{
+"text": "http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647",
+"href": "http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647"
+}
 ]

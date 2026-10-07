@@ -1,13 +1,9 @@
-Principles for Responsible Leadership
-My decisions as a legislator will be guided by integrity, civility, transparency, collaboration, and a commitment to practical problem-solving.
-I believe government should be limited, accountable, and effective.
-It should not try to solve every problem, but it has an essential role in protecting people, maintaining public trust, investing in shared foundations like education and infrastructure, and helping communities address problems that individuals cannot solve alone.
-Utah also needs more balance and accountability in state government.
+top of page Meet Patrick Principles & Priorities Water Clean air Clean energy for a healthy climate Housing affordability Government accountability Open space conservation Education Library Volunteer Contact DONATE VOLUNTEER ENDORSE Principles for Responsible Leadership My decisions as a legislator will be guided by integrity, civility, transparency, collaboration, and a commitment to practical problem-solving. ​ I believe government should be limited, accountable, and effective.
+It should not try to solve every problem, but it has an essential role in protecting people, maintaining public trust, investing in shared foundations like education and infrastructure, and helping communities address problems that individuals cannot solve alone. ​ Utah also needs more balance and accountability in state government.
 When one party has too much control, too many decisions are made without enough scrutiny.
-I will bring an independent voice to the Legislature: asking hard questions, respecting different points of view, and making sure tax dollars are spent wisely and transparently.
-Cache Valley is growing and changing quickly.
+I will bring an independent voice to the Legislature: asking hard questions, respecting different points of view, and making sure tax dollars are spent wisely and transparently. ​ Cache Valley is growing and changing quickly.
 A strong economy matters, but a truly strong economy must be resilient, broadly shared, and rooted in the health of our people, communities, land, air, and water.
-I will work to support individuals and businesses in creating opportunity while maintaining basic protections for people when they need help.
-The challenges we face are connected.
+I will work to support individuals and businesses in creating opportunity while maintaining basic protections for people when they need help. ​ The challenges we face are connected.
 Housing affordability, water, air quality, energy, education, public health, open space, and economic opportunity cannot be solved in isolation.
 We need leaders willing to listen carefully, think long-term, engage hard conversations respectfully, and work across differences to build a future Utah families can trust.
+WATER CLEAN AIR ENERGY HOUSING GOVERNMENT PUBLIC LANDS EDUCATION MEDIA CONTACT: belmont4utah@gmail.com Check or update voter registration TWITTER INSTAGRAM FACEBOOK © # Belmont4Utah Paid for by Belmont4Utah Created with Wix.com bottom of page

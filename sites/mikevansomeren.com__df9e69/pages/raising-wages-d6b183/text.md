@@ -1,13 +1,11 @@
-Raising Wages: Rewarding Work and strengthening local economies
-Hard work should pay off.
+0 Skip to Content Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Open Menu Close Menu Open Menu Close Menu Home About Mike Meet Mike Why I'm Running Contact Me Issues Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Get Involved Volunteer Events District Map Donate Home Folder: About Mike Back Meet Mike Why I'm Running Contact Me Folder: Issues Back Frequently Asked Questions Raising Wages Improving Public Education Reducing the Cost of Living Transparency and Accountability Folder: Get Involved Back Volunteer Events District Map Donate Raising Wages: Rewarding Work and strengthening local economies Hard work should pay off.
 But too many Wisconsin families are doing everything right and still falling behind — and that’s not a law of nature.
 Wages are shaped by rules: who gets to negotiate, who’s free to leave for a better offer, and what our tax dollars reward.
 Those rules get written in Madison.
 Right now, too many of them are written so working families and local businesses absorb the risk while the well-connected collect the reward.
 This is not about punishing success.
 It is about stopping government from rewarding failure, favoritism, and gamesmanship.
-In the State Senate, I’ll work to:
-Make sure full-time work supports a family.
+In the State Senate, I’ll work to: Make sure full-time work supports a family.
 Anyone putting in a full week should be able to afford a home, raise kids, and retire here.
 That’s the deal, and the deal should hold.
 Rein in non-compete agreements that trap Wisconsin workers.
@@ -25,3 +23,4 @@ Workers and employers both do better when agreements are made in the open, on eq
 The rules shouldn’t be written to silence one side before the conversation even starts.
 We don’t need handouts.
 We need a fair shot, a level playing field, and a referee who makes sure everyone plays by the same rules.
+Volunteer Donate info@MikeVanSomeren.com (262) 264-8640 PO Box 366 Pewaukee, WI 53072 Donate

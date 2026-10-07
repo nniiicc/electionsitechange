@@ -1,5 +1,4 @@
-US National Debt
-- The United States is now carrying roughly $38.9 trillion in national debt.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate US National Debt May 7 Written By Zebulon Featherly Fix the System The United States is now carrying roughly $38.9 trillion in national debt.
 That does not happen by accident.
 It happens when a system rewards bad decisions, protects waste, and makes it easier to pass costs on to the public than to budget honestly.
 It is clear to me that we have a serious problem with how we handle money in this country.
@@ -13,7 +12,7 @@ That is why new laws should be held to a simple standard: no new tax cuts and no
 And if we are going to borrow, we should be honest about what that borrowing is for.
 There is a real difference between debt used to build infrastructure, strengthen domestic energy, or invest in long-term economic strength and debt used to fund waste, giveaways, or short-term politics.
 If we want to lower the debt responsibly, the first step is fixing the system itself: reduce the influence of money in politics, make responsible choices sooner rather than later, and stop borrowing to avoid hard choices.
-- Lowering the debt does not mean slashing everything in sight.
+Spend Smarter Lowering the debt does not mean slashing everything in sight.
 It means being honest about where the money is going, which costs are growing fastest, and where the public is not getting enough value in return.
 If we are serious about this, then we need to stop treating every part of the budget like it is either sacred or untouchable.
 We should protect what works, reform what is wasteful, and focus first on the areas that put the most pressure on the country over time.
@@ -41,7 +40,7 @@ Government should not cost more simply because it is outdated, inefficient, or b
 A serious debt plan is not about blind cuts.
 It is about discipline, efficiency, and value.
 We should spend where it helps the country, reform where the system is bloated, and stop pretending that waste becomes acceptable just because it has been around for a long time.
-- Lowering the debt is not only about what we cut or what we save.
+Build a Stronger Economy Lowering the debt is not only about what we cut or what we save.
 It is also about what kind of economy we build.
 A stronger, more productive country is better able to manage debt, support families, and create long-term stability.
 That means focusing on the real foundations of economic strength: housing, energy, domestic production, infrastructure, education, and the ability of ordinary people to fully participate in the economy.
@@ -67,3 +66,4 @@ Stronger competition means a healthier economy, lower costs, and more opportunit
 A serious debt plan is not just about restraint.
 It is also about strength.
 If we want to lower the debt over time, then we need to build an economy that is more productive, more resilient, less dependent, and better able to create real long-term prosperity.
+Zebulon Featherly Previous Previous Copperwood Mine Next Next May 1 General Strike

@@ -1,10 +1,3 @@
-Back to All Events
-I’ll be in Gaylord MI on February 13th for a Candidate Forum, it will be a great way to meet us candidates and ask us questions.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Friday, February 13, 2026 6:30 PM 8:00 PM Otsego County Library 700 South Otsego Avenue Gaylord, MI, 49735 United States (map) Google Calendar ICS I’ll be in Gaylord MI on February 13th for a Candidate Forum , it will be a great way to meet us candidates and ask us questions.
 I look forward to meeting some new faces as well as the other candidates.
-Previous
-Previous
-February 4
-Online Town Hall/Q&A
-Next
-Next
-February 18
+Previous Previous February 4 Online Town Hall/Q&A Next Next February 18 Online Town Hall/Q&A

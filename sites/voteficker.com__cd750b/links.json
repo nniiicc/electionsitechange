@@ -1,16 +1,74 @@
 [
-"https://facebook.com/people/Robin-for-Senate/61550672608320",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=10",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=100",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=1000",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=25",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=50",
-"https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=500",
-"https://voteficker.com/",
-"https://voteficker.com/issues",
-"https://voteficker.com/news",
-"https://voteficker.com/privacy-policy",
-"https://voteficker.com/robin",
-"https://voteficker.com/terms-and-conditions"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=1000"
+},
+{
+"text": "$10",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today?amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/robin-ficker-for-congress/donate-today"
+},
+{
+"text": "Home",
+"href": "https://voteficker.com/"
+},
+{
+"text": "Issues",
+"href": "https://voteficker.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteficker.com/robin"
+},
+{
+"text": "Meet Robin",
+"href": "https://voteficker.com/robin/"
+},
+{
+"text": "News",
+"href": "https://voteficker.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteficker.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://voteficker.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://voteficker.com/terms-and-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://voteficker.com/terms-and-conditions/"
+},
+{
+"text": "[image: Robin Ficker for Congress]",
+"href": "https://voteficker.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Robin-for-Senate/61550672608320/"
+}
 ]

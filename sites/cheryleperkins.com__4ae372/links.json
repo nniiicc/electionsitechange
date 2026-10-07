@@ -1,10 +1,46 @@
 [
-"http://cheryleperkins.com/",
-"https://cheryleperkins.com/",
-"https://cheryleperkins.com/about",
-"https://cheryleperkins.com/cart",
-"https://cheryleperkins.com/contact",
-"https://cheryleperkins.com/new-page",
-"https://facebook.com/groups/781029661403414",
-"https://secure.anedot.com/cheryle-perkins-for-160th-district/donate"
+{
+"text": "0",
+"href": "https://www.cheryleperkins.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cheryleperkins.com/about"
+},
+{
+"text": "Cheryle in the News",
+"href": "https://www.cheryleperkins.com/new-page"
+},
+{
+"text": "Contact",
+"href": "https://www.cheryleperkins.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.cheryleperkins.com/"
+},
+{
+"text": "Learn more about Cheryle's family!",
+"href": "https://www.cheryleperkins.com/about"
+},
+{
+"text": "[image: Cheryle Perkins for Missouri State Representative]",
+"href": "https://www.cheryleperkins.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/cheryle-perkins-for-160th-district/donate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/groups/781029661403414"
+},
+{
+"text": "cheryleperkins.com",
+"href": "http://cheryleperkins.com"
+},
+{
+"text": "perkinsc11@outlook.com",
+"href": "mailto:perkinsc11@outlook.com"
+}
 ]

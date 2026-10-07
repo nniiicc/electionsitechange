@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.katycornell.com/energy",
- "paid_for_by": "Paid for by Friends of Katy Cornell (R) | P",
- "title": "Energy \u2014 Friends of Katy Cornell",
- "years_mentioned": []
+ "fingerprint": "f52346bd412010721b8b5906a9eadb9a6f2f35c3",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Katy Cornell (R)",
+ "title": "Energy — Friends of Katy Cornell",
+ "years_mentioned": [
+  "2030",
+  "2040"
+ ]
 }

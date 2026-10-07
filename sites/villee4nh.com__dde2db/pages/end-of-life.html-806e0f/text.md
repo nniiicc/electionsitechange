@@ -1,6 +1,5 @@
-End of Life
-One of my short-term priorities is legalizing medical assistance in dying for those who have a terminal illness.
-But in the long term, I'd like suicide to be legal even without a terminal illness, as it is in Switzerland.
+Home Issues Issues 20,000 Activists Article 83 Drugs End of Life Grandfathering LPNH Tweets Pandemic Response Secession Veto List Libertarianism Lose the Hate Lose the Fear Contact Donate End of Life One of my short-term priorities is legalizing medical assistance in dying for those who have a terminal illness.
+But in the long term, I'd like suicide to be legal even without a terminal illness, as it is in Switzerland .
 As a practical matter, if I kill myself, it's obviously too late for the police to arrest me and charge me with a crime.
 Of course, I'd rather my final act not make me an outlaw.
 But more importantly, other people should be allowed to assist me if they're willing.

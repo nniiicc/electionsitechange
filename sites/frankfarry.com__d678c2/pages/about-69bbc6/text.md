@@ -1,4 +1,4 @@
-Sen.
+Home Meet Frank Issues Volunteer Sign Petition Donate Meet Frank Sen.
 Frank Farry has spent his life in public service.
 As a firefighter for 35 years and a chief for the last 26 years, Frank has been in service to his community from an early age.
 Frank was elected to the House in 2008 and served there until he was elected to the Pennsylvania Senate in 2022 to represent the 6th District in Bucks County.
@@ -13,3 +13,4 @@ A graduate of Neshaminy High School, Farry went on to earn a bachelor’s degree
 Farry has also served on various local and county boards and commissions, including American Red Cross Lower Bucks County Chapter and Bucks County Community College.
 Sen.
 Farry lives in Langhorne with his wife Kristen, their two children Jacob and Charlotte, their dog Harper Barkley and their cat Muffy.
+Paid for by Friends of Frank Farry Privacy Policy | Terms & Conditions

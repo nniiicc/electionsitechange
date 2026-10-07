@@ -1,10 +1,9 @@
-A hallmark of our personal reputation should, in my mind, be how we treat other humans.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Serving with Civility A hallmark of our personal reputation should, in my mind, be how we treat other humans.
 Are we kind?
 Are we gracious?
 Do we defer to others?
 Do we help when we can?
-In the absence of these attributes, at a minimum the question could be, “Are we civil with others, even those with whom we disagree?”
-I am personally disappointed that treating one another with civility is the bar to which we now aspire.
+In the absence of these attributes, at a minimum the question could be, “Are we civil with others, even those with whom we disagree?” I am personally disappointed that treating one another with civility is the bar to which we now aspire.
 I can be civil without caring for someone’s well-being, or even truly caring about their views, thoughts, or opinions.
 I can be civil and avoid irrational discourse or violence, but if I don’t care whether you are hungry, unfed, or unhoused, then that’s a bar too low.
 If you think this is an entirely new problem, then read up on Jefferson and Adams and some of the horrible things they said about each other.
@@ -26,26 +25,31 @@ I doubt it.
 I participate in, and help lead, a regional expression of the Council of State Governments (CSG).
 This is a nonpartisan group of government leaders from all three branches of state government and several Canadian provinces.
 We meet to share ideas, learn leadership and cooperative skills, and talk about how to make our states better places to live, work, and play.
-Last year, the national leader of CSG challenged members to “Serve with Civility,” committing to the following:
-- To lead by example, holding myself accountable to a higher standard of public discourse.
-- To act with integrity, compassion, and honesty.
-- To treat everyone with respect and dignity.
-- To listen and learn from those with whom I disagree.
-- To reject political violence in all its forms.
-- To work together with others to strengthen our democracy and uphold the ideals upon which our nation was founded.
+Last year, the national leader of CSG challenged members to “Serve with Civility,” committing to the following: To lead by example, holding myself accountable to a higher standard of public discourse.
+To act with integrity, compassion, and honesty.
+To treat everyone with respect and dignity.
+To listen and learn from those with whom I disagree.
+To reject political violence in all its forms.
+To work together with others to strengthen our democracy and uphold the ideals upon which our nation was founded.
 As I said earlier, this is a low bar, but at a time when political violence is at an all-time high, assassinations have occurred, other attempts have been made, and threats to lawmakers, judges, law enforcement officers, and other public officials are not unusual, it is an intermediate bar or milestone that we must strive toward on the way to better behavior.
 My hope, my dream, is that we embrace this goal with the full understanding that there can and should be higher aspirations.
 We shouldn’t simply tolerate one another when we can instead advocate for one another.
 I don’t have to embrace your idea to advocate for you as a person.
 I know that I’ve failed at this many times, but that is the goal for my personal behavior.
-I have thousands of you to help keep me on track and remind me if I fall off the “civility wagon.”
-Share your thoughts with me on this topic if you like.
-You can reach me by email at brad.vongillern@leg.ne.gov.
-—
-R.
-Brad von Gillern
-vGA von Gillern Associates
-18370 Honeysuckle Dr.
-Elkhorn, NE 68022
-PH: 402-290-1048
-Email: rbvongillern@gmail.com
+I have thousands of you to help keep me on track and remind me if I fall off the “civility wagon.” Share your thoughts with me on this topic if you like.
+You can reach me by email at brad.vongillern@leg.ne.gov . — R.
+Brad von Gillern vGA von Gillern Associates 18370 Honeysuckle Dr.
+Elkhorn, NE 68022 PH: 402-290-1048 Email: rbvongillern@gmail.com VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

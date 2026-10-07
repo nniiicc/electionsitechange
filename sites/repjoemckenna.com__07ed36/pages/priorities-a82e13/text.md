@@ -1,9 +1,20 @@
-Affordability - Taxes
-MA has lost its competitive edge through its approach to taxes.
+Open main menu Home About Priorities Constituent Services Get Involved Contact Donate Donate Now The Issues Joe's Priorities Taxes Cost of Living Energy Local Aid Education 2nd Amendment Affordability - Taxes MA has lost its competitive edge through its approach to taxes.
 We face among the country's worst tax burdens.
 That's why MA is the state with the 3rd highest OUT-migration!
-Joe's Position
-- Joe opposes new taxes and supports efforts to roll back our existing tax burden
-- The state must pursue policies that House Republicans have pushed so MA will once again be competitive with states like New Hampshire, Florida, and North Carolina
-- Yes, MA is a great place to live, but people can't afford it anymore
-- Joe believes we need to lead even stronger on making Massachusetts affordable again
+Joe's Position Joe opposes new taxes and supports efforts to roll back our existing tax burden The state must pursue policies that House Republicans have pushed so MA will once again be competitive with states like New Hampshire, Florida, and North Carolina Yes, MA is a great place to live, but people can't afford it anymore Joe believes we need to lead even stronger on making Massachusetts affordable again Affordability - Cost of Living Along with our tax burden, MA has among the nation's highest costs of living.
+This includes utility rates, daycare costs, housing costs (to rent and buy), and groceries.
+Joe's Position Support policies to assist first-time home buyers Work to lower utility rates for consumers Make quality child care affordable for working families Address the rising costs of everyday essentials that burden Massachusetts families Affordability - Utility Rates The MA Climate mandates, seeking to reach zero carbon emissions by 2050, are misguided and are driving energy costs to astronomical levels.
+Joe's Position Consumer electric bills have increased dramatically with mandated fees for renewables and climate initiatives that consumers don't utilize Windmills are failing and the energy generated is inadequate and more expensive Massive swaths of forest have been clear cut for inefficient solar fields, most without local approval or support Joe believes climate goals can be pursued responsibly with incentives, not with state mandates and penalties Local Aid Rep.
+McKenna believes that our cities and towns are most effective at spending our tax dollars.
+Local government knows what is most important to them and their citizens.
+Joe's Position While the state budget has egregiously doubled to over $60B in the last ten years, local aid (known as UGGA) has not kept pace The result is 25% less local aid than #ago Joe supports more of our state dollars going into these local accounts Especially in central and western MA communities that need increased state support Education Rep.
+McKenna is a product of Mass. public schools and is a strong believer that our teachers are the true unsung heroes of our communities.
+Joe's Position Our legislature must continue to support our schools, from preschools through our state colleges and universities Support reviewing the CH 70 Funding formula to ensure fair distribution Support lifting the cap on charter schools to provide more educational options Oppose the Common Core Curriculum and PARCC testing that burden our educators The Second Amendment Rep.
+McKenna is a proud supporter of the second amendment and is a gun owner himself.
+Before even getting elected he testified against the gun control measures in 2014.
+Joe's Position While gun-control measures are framed from a place of reducing violence, the results are onerous laws and regulations on the constitutional rights of law-abiding citizens Criminals continue to be criminals and break the laws regardless of new restrictions Joe supports measures to prevent crime, curb violence, and provide real services to those with mental health needs Not take guns away from responsible, law-abiding citizens exercising their constitutional rights There are several more important priorities facing our district.
+If you wish to speak with Rep.
+McKenna about any topic, please email him at McKennaforrep@gmail.com Ready to Make a Difference?
+Join Team McKenna to help us build a stronger Massachusetts together.
+Donate Now Get Involved Home About Priorities Constituent Services Get Involved Contact Donate Facebook Instagram Email Paid for by the Committee to Elect Joe McKenna Privacy Policy Terms & Conditions © 2026 Joe McKenna for State Rep.
+All rights reserved.

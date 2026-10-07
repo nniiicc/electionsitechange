@@ -1,21 +1,90 @@
 [
-"https://facebook.com/LongDavidLiu",
-"https://instagram.com/longdavidliu_ca49ad",
-"https://liuforassembly.com/",
-"https://liuforassembly.com/blank",
-"https://liuforassembly.com/blank-1",
-"https://liuforassembly.com/blog",
-"https://liuforassembly.com/blog/categories/issue-comparison",
-"https://liuforassembly.com/contact-us",
-"https://liuforassembly.com/contact-us-1",
-"https://liuforassembly.com/endorsements",
-"https://liuforassembly.com/endorsements-1",
-"https://liuforassembly.com/home-1",
-"https://liuforassembly.com/home-2",
-"https://liuforassembly.com/media",
-"https://liuforassembly.com/media-1",
-"https://liuforassembly.com/media-press",
-"https://liuforassembly.com/page",
-"https://x.com/DavidLiu4CA49",
-"https://youtube.com/@liulaw"
+{
+"text": "Blog Post",
+"href": "https://www.liuforassembly.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://www.liuforassembly.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://www.liuforassembly.com#donate%20now"
+},
+{
+"text": "Endorsements",
+"href": "https://www.liuforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.liuforassembly.com"
+},
+{
+"text": "Issue Comparison",
+"href": "https://www.liuforassembly.com/blog/categories/issue-comparison"
+},
+{
+"text": "Issues",
+"href": "https://www.liuforassembly.com/blank"
+},
+{
+"text": "Media",
+"href": "https://www.liuforassembly.com/media"
+},
+{
+"text": "Media Press",
+"href": "https://www.liuforassembly.com/media-press"
+},
+{
+"text": "[image: davidliucampaign.com-logo]",
+"href": "https://www.liuforassembly.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LongDavidLiu/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/longdavidliu_ca49ad/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@liulaw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DavidLiu4CA49"
+},
+{
+"text": "english",
+"href": "https://www.liuforassembly.com"
+},
+{
+"text": "español",
+"href": "https://www.liuforassembly.com/home-2"
+},
+{
+"text": "主页",
+"href": "https://www.liuforassembly.com/home-1"
+},
+{
+"text": "媒体",
+"href": "https://www.liuforassembly.com/media-1"
+},
+{
+"text": "文章",
+"href": "https://www.liuforassembly.com/page"
+},
+{
+"text": "联系方式",
+"href": "https://www.liuforassembly.com/contact-us-1"
+},
+{
+"text": "背书",
+"href": "https://www.liuforassembly.com/endorsements-1"
+},
+{
+"text": "议题",
+"href": "https://www.liuforassembly.com/blank-1"
+}
 ]

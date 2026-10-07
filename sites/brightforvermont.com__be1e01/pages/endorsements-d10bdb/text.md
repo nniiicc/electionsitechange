@@ -1,13 +1,2 @@
-Endorsements
-Proud to be endorsed by:
-- Let’s Grow Kids Action Network
-- Vermont State Employees Association
-- Vermont AFL-CIO
-- Vermont National Education Association
-- Planned Parenthood Vermont Action Fund
-- Vermont Conservation Voters
-- National Association of Social Workers- Vermont Chapter
-- Run For Something
-- Her Bold Move
-- Vermont Public Interest Research Group
-- Sierra Club Vermont Political Committee
+Skip to Content Open Menu Close Menu Caroline Bright for Vermont State House About Caroline The Issues Endorsements Support Store Contact ( 0 ) Cart ( 0 ) Caroline Bright for Vermont State House About Caroline The Issues Endorsements Support Store Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu About Caroline The Issues Endorsements Support Store Contact Endorsements Proud to be endorsed by: Let’s Grow Kids Action Network Vermont State Employees Association Vermont AFL-CIO Vermont National Education Association Planned Parenthood Vermont Action Fund Vermont Conservation Voters National Association of Social Workers- Vermont Chapter Run For Something Her Bold Move Vermont Public Interest Research Group Sierra Club Vermont Political Committee Caroline Bright for Georgia & Fairfax Paid for by Elect Caroline Bright, PO Box 862 St.
+Albans VT 05478

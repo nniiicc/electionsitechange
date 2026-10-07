@@ -1,5 +1,5 @@
-Wells for Missouri
-Hi, I'm John Wells, lifelong Missourian.
+top of page MoCommonSense Home About Me Blog More Use tab to navigate through the menu items.
+All Posts Search Wells for Missouri mocommonsense Apr 1 1 min read Hi, I'm John Wells, lifelong Missourian.
 I love this state.
 Missouri is home to the best sports teams, great universities and beautiful landscapes.
 We have the benefit of being centrally located, on the Missouri and Mississippi Rivers, with seven distinct geographical regions in our state.
@@ -18,3 +18,16 @@ Do you want a voice in government?
 Do you want someone who will actually listen to you and work for changes that you want and need?
 That's what I'm running for.
 Vote Wells for Missouri.
+Recent Posts See All Why Missouri Common Sense?
+It started when I was reading a book about the famous pamphlet Common Sense which aided in the formation of our country.
+The logic seemed to mesh well with the attitude of Missourians.
+You see, those Fall Season Fall has arrived, pumpkins are out and voting season is just around the corner!
+There is a lot going on in October, so here is a quick rundown of all the events you might want to visit.
+Oct.
+3 - Payne Vote 'em out The GOP leadership in Missouri is out of control.
+Denny Hoskins has disgraced himself.
+We should not reward bad leadership with a renewed position.
+I believe he should resign.
+But at the very least, w Wells for Missouri - MoCommonSense.com Donate to Wells for Missouri Senate Campaign through Act Blue.
+Contact Phone: 573-356-5926 Email: mocommonsense@gmail.com Holts Summit, MO Find me on Social Media: Privacy Policy Accessibility Statement ©# mocommonsense.com.
+Powered and secured by Wix. bottom of page

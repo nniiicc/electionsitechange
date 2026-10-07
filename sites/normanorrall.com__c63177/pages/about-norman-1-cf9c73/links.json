@@ -1,8 +1,34 @@
 [
-"https://normanorrall.com/",
-"https://normanorrall.com/about-norman-1",
-"https://normanorrall.com/donate",
-"https://normanorrall.com/experience",
-"https://normanorrall.com/issues",
-"https://normanorrall.com/media"
+{
+"text": "ABOUT NORMAN",
+"href": "https://www.normanorrall.com/about-norman-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.normanorrall.com/donate"
+},
+{
+"text": "EXPERIENCE",
+"href": "https://www.normanorrall.com/experience"
+},
+{
+"text": "HOME",
+"href": "https://www.normanorrall.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.normanorrall.com/issues"
+},
+{
+"text": "MEDIA",
+"href": "https://www.normanorrall.com/media"
+},
+{
+"text": "On the Issues",
+"href": "https://www.normanorrall.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.normanorrall.com"
+}
 ]

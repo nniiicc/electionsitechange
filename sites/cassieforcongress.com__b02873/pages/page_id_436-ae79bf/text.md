@@ -1,9 +1,3 @@
-Upcoming Events:
-Fairs
-- Carbon County Fair: June 5th & 6th 10:00 AM – 9:00 PM
-contact@cassieforcongress.com
-435.704.0972
-yes
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Skip Link Text contact@cassieforcongress.com 435.704.0972 DONATE CassieforCongress.com Menu Constitution Party Candidate About Cassie Merchandise Cart Checkout Contact Us Get Involved Offline Payment Events Constitutional Candidates Constitution Party Candidate About Cassie Merchandise Cart Checkout Contact Us Get Involved Offline Payment Events Constitutional Candidates yes CassieforCongress.com Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-Design & Developed by Buy WordPress Templates
+435-704-0972 Events Upcoming Events: Fairs Carbon County Fair: June 5th & 6th 10:00 AM – 9:00 PM br> Contact Info Phone (435) 704-0972 eMail contact@cassieforcongress.com © # Cassie for Congress Design & Developed by Buy WordPress Templates About Cassie Cart Constitution Party Candidate Constitutional Candidates Contact Us Donations Events Get Involved Merchandise Offline Payment Form Privacy Policy Return To Top

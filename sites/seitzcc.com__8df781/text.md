@@ -1,6 +1,6 @@
-BRIAN'S MESSAGE
-THE TRUE CONSERVATIVE CANDIDATE
-My name is Brian Seitz and I'm campaigning to be YOUR 156th District State Representative.
+top of page BRIAN SEITZ FOR STATE REP.
+156TH DISTRICT Home Meet Brian Get Involved Platform More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE BRIAN'S MESSAGE THE TRUE CONSERVATIVE CANDIDATE My name is Brian Seitz and I'm campaigning to be YOUR 156th District State Representative.
 I'm a Christian, Conservative, Veteran, ready to FIGHT for you in Jefferson City.
 I am 100% Pro-Life and a strong supporter of the 1st and 2nd Amendments.
 As a former Branson business owner, family man, and pastor of a small church, I know the hard work and dedication that it takes to succeed.
@@ -9,11 +9,7 @@ If my 35 years living in the Missouri Ozarks has taught me anything, it's that t
 Economic development, diverse educational opportunities for students and retaining our God given liberties, can keep us a shining beacon to those who both live here and visit our area.
 It is for these reasons that I want to serve YOU, as the 156th District State Representative, and am asking for your vote in the August Primary, and God willing in the November General Election.
 BRIAN H.
-SEITZ
-Republican Candidate
-156th District State Representative
-ABOUT ME
-Visiting Branson when 'The Strip' was a two lane road, 35 years ago I knew that this would be home, the perfect place to raise a family and help build the community.
+SEITZ Republican Candidate 156th District State Representative GET INVOLVED ABOUT ME Visiting Branson when 'The Strip' was a two lane road, #ago I knew that this would be home, the perfect place to raise a family and help build the community.
 An Army Veteran, I served as a soldier of the distinguished 82nd Airborne Division, located at Fort Bragg N.C.
 My time as a paratrooper, having achieved the rank of Sergeant, culminated in being chosen Trooper of the Quarter, representing the elite divison at the annual AUSA dinner in Washington D.C.
 My time in the Adjutant General Company instilled in me the attitudes of dogged-perseverance, how to put Country before self, and the discipline that it takes to be 'Above the Best'.
@@ -29,51 +25,40 @@ Wearing virtually ALL of the hats, I helped promote the areas Music and Live Ent
 Most importantly, after almost 30 years of Bible teaching at various area churches, most notably First Baptist Church of Branson, I was called to pastor Sovereign Grace Baptist Church, a small gathering of believers who put God's Word as the central facet of their lives.
 Currently I manage Branson's multi-million dollar carwash, Splash Carwash.
 I know how to work hard and am ready to serve as your State Representative for the 156th District.
-GET INVOLVED
-JOIN THE SEITZ CONSERVATIVE COALITION!
+Meet Brian Get Involved GET INVOLVED JOIN THE SEITZ CONSERVATIVE COALITION!
 The Seitz Conservative Coalition is a candidate committee that has been formed with the purpose of supporting and electing Brian H.
-Seitz, as the 156th District State Representative.
-God, family and Country have long been values that we here in the Ozarks hold dear, but those values are coming under attack by liberal ideals and those who seek fame over service.
-Brian's desire is to represent the 156th, putting God first and holding firmly to Conservative values.
-Here is an opportunity to do something that will impact The Community!
+Seitz, as the 156th District State Representative. ​ God, family and Country have long been values that we here in the Ozarks hold dear, but those values are coming under attack by liberal ideals and those who seek fame over service.
+Brian's desire is to represent the 156th, putting God first and holding firmly to Conservative values. ​ Here is an opportunity to do something that will impact The Community!
 HELP BRIAN MAKE A DIFFERENCE!
-WAYS TO HELP
-1.
-Pray daily for strength for Brian and those who work diligently behind the scenes, that they might be empowered by God to represent the people they serve.
-2.
+SUBMIT Thanks for submitting!
+WAYS TO HELP 1.
+Pray daily for strength for Brian and those who work diligently behind the scenes, that they might be empowered by God to represent the people they serve. ​ 2.
 Volunteer.
 Yard signs, informational pieces, T-shirts and other campaign items are being created to help spread the word.
-For more information, follow us on Facebook, or by joining our email list.
-3.
+For more information, follow us on Facebook , or by joining our email list. ​ 3.
 VOTE.
 Your vote counts and will make the difference at the local, state and federal level.
 We must vote for Conservative candidates if we want to secure the future of our country!
-MAKE A DIFFERENCE
-SUPPORT OUR CAUSE
-One huge way you can help is to give.
+MAKE A DIFFERENCE SUPPORT OUR CAUSE One huge way you can help is to give.
 Asking for money is never easy, but without funding our campaign could be lost in a sea of promotional materials from those with deep pockets whose true goal may be to be seen or make a name for themselves.
 With YOUR support, we can spread the word and make Brian Seitz the 156th District State Representative.
 To donate to the campaign click on our easy to use donate button below.
-SUBSCRIBE
-GET THE LATEST UPDATES
-FROM THE CAMPAIGN!
-PLATFORM
-LIST OF ISSUES
-"As a Veteran and former Correctional Officer, I stand by the Military and Law Enforcement as necessary to provide safety and security for all law abiding citizens.
-There is no justification for crime, and I will seek to promote swift and unencumbered justice to those who would harm others."
-BRIAN H.
-SEITZ
-Republican Candidate
-156th District Representative
-PRO-LIFE
-I am 100% Pro-Life.
+DONATE SUBSCRIBE GET THE LATEST UPDATES FROM THE CAMPAIGN!
+Subscribe Now Thanks for submitting!
+Subscribe Platform PLATFORM LIST OF ISSUES "As a Veteran and former Correctional Officer, I stand by the Military and Law Enforcement as necessary to provide safety and security for all law abiding citizens.
+There is no justification for crime, and I will seek to promote swift and unencumbered justice to those who would harm others." ​ BRIAN H.
+SEITZ Republican Candidate 156th District Representative PRO-LIFE ​ I am 100% Pro-Life.
 All human beings are created in the image of God, deserving of life, liberty and the pursuit of happiness.
 The protections of the Constitution should apply to the weakest and most needy among us.
 I pledge to support and promote all legislation that provides protections for both the unborn infant and the elderly.
-FIRST AMENDMENT
-I believe that the freedoms detailed in the First Amendment are under attack and we must vigorously fight to preserve those freedoms for future generations.
+FIRST AMENDMENT ​ I believe that the freedoms detailed in the First Amendment are under attack and we must vigorously fight to preserve those freedoms for future generations.
 As a pastor, I understand just how sacred the freedoms of religion and speech are, and I will be a staunch defender of both as your State Representative.
-SECOND AMENDMENT
-The Second Amendment is the pillar upon which all the other amendments rely.
+SECOND AMENDMENT ​ The Second Amendment is the pillar upon which all the other amendments rely.
 We must uphold the Second to secure the rest of the rights given to us in the Constitution.
 As a veteran and former correctional officer, I will advocate for your right to bear arms during my time in Jefferson City.
+WORKFORCE & ECONOMIC DEVELOPMENT I want to bring more jobs and new economic opportunities to the 156th District while also nurturing and growing our rich history as a tourist destination.
+Branson has much to offer the state and the country, and I want to show off our talent.
+EDUCATION In our ever-changing world, new technology and new professions require new skills and training.
+I would like to see students have more opportunities for STEM education, and more partnerships between schools and industry to provide career paths for students starting in grade school.
+FOLLOW BRIAN SEITZ ON SOCIAL MEDIA BRIAN SEITZ - FOR STATE REPRESENTATIVE - Paid for by the Seitz Conservative Coalition, LaDonna Sinclair Treasurer ​ © # by Zoek Marketing.
+Proudly created with Wix.com bottom of page

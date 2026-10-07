@@ -1,4 +1,5 @@
-Landmark Reform for Victims of Child Sex Abuse
+Meet Kristine Endorsements News & Events Get Involved Select Page Landmark Reform for Victims of Child Sex Abuse by Kristine Howard | Dec 5, 2019 | News | 0 comments Just prior to Thanksgiving, the Pennsylvania House of Representatives finally passed HB 962 providing for changing the statute of limitations for victims of sexual abuse in both civil and criminal matters, which I was pleased to vote for and support.
+My colleague, Mark Rozzi, has been working on this for years, through many political ups and downs and I admire his fortitude and thank him for his work.
 In summary, HB 962 eliminates the criminal statute of limitations for child sexual abuse crimes.
 Under its provisions, victims of abuse will have until age 55 to file civil lawsuits.
 The bill also removes sovereign immunity in civil claims, meaning that if an institution, secular or religious, has known about child sex crimes, it may be held responsible, even in decades-old child sex abuse cases.
@@ -23,3 +24,9 @@ The bill we passed will allow victims more time to make their allegations so tha
 By no means does this law eliminate the horrors of child abuse.
 However, in this instance, it is an important step in the right direction.
 In the case of child abuse, and like so many other issues before our legislature, it is important when sweeping changes are outside of our reach, we take action to make the incremental changes that keep us on a path to a more just, safer and healthier Pennsylvania.
+Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

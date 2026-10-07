@@ -1,2 +1,4 @@
-Watch Video Ken Block Interview: Independent Candidate for Rhode Island Governor - The Rhode Island Wave
-Watch Video A perfect example of why neither Democratic gubernatorial candidate is the person to steer RI out of the mess we are in.
+★ November 3, 2026 Countdown to Election Day # Days # Hours # Minutes # Seconds Home About Issues Appearances Media & Press Ken I Be Honest Polls Donate Donate Straight talk about Rhode Island Ken I Be Honest Watch Ken share direct answers and practical ideas about the issues facing Rhode Island.
+Watch Video Ken Block Interview: Independent Candidate for Rhode Island Governor - The Rhode Island Wave Watch Video Ken Block on Education Watch Video A perfect example of why neither Democratic gubernatorial candidate is the person to steer RI out of the mess we are in.
+Watch Video Why is your RI Energy Bill so High Watch Video Educated Young People are our Biggest Export Watch Video Washington Bridge Campaign video × Your browser does not support HTML5 video.
+Privacy Policy Terms of Use Copyright ©# blockforgovernor All Rights Reserved.

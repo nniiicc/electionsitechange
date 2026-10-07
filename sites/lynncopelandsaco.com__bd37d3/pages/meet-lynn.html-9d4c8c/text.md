@@ -1,5 +1,5 @@
-| Civic & Leadership roles: Represent Saco (part) in the Maine House of Representatives, District 130 (formerly District 14), in the Joint Standing State and Local Government Committee Saco City Councilor, Ward 4 Chair, Saco Conservation Commission Member, Board of Directors of Adoptive and Foster Families of Maine (affm.net) Licensed Therapeutic Foster Parent Vice President, Maine Outdoor Adventure Club (www.moac.org) Customer Service Representative (top performer), Eservices, (year-round, part-time for 8 years), Job Coach, Quality Coach, and Problem Resolution Rep. at L.L.
-Bean Member, Maine Democratic Party Platform Committee Delegate, Maine Democratic State Convention Recording Secretary for the Fort Salonga Civic Association Cub Scout Committee Chair Girl Scout Leader for nine years Editor, Elementary School Parent Teacher Association Newsletter | Rep.
+REP LYNN HOLLAND COPELAND Home Meet Lynn Accomplishments Issues Endorsements Contact Meet Lynn Holland Copeland Civic & Leadership roles: Represent Saco (part) in the Maine House of Representatives, District 130 (formerly District 14), in the Joint Standing State and Local Government Committee Saco City Councilor, Ward 4 Chair, Saco Conservation Commission Member, Board of Directors of Adoptive and Foster Families of Maine (affm.net) Licensed Therapeutic Foster Parent Vice President, Maine Outdoor Adventure Club (www.moac.org) Customer Service Representative (top performer), Eservices, (year-round, part-time for 8 years), Job Coach, Quality Coach, and Problem Resolution Rep. at L.L.
+Bean Member, Maine Democratic Party Platform Committee Delegate, Maine Democratic State Convention Recording Secretary for the Fort Salonga Civic Association Cub Scout Committee Chair Girl Scout Leader for nine years Editor, Elementary School Parent Teacher Association Newsletter Rep.
 Lynn Holland Copeland is serving her third term and looking forward to her fourth term representing Saco in the Maine House of Representatives.
 Copeland was working by day in a law firm and as a Representative in the Maine House simultaneously but has now retired which allows her full-time focus to be in the State House.
 Rep.
@@ -15,4 +15,8 @@ She has a grown son and daughter, and two granddaughters, who bring her immeasur
 She would like to remind residents of House District 130 in Saco that constituent services provided by her office include congratulatory letters, Legislative Sentiments, flags flown over the Capitol, and would be proud to have our youth come to the state house to be pages of the day in the Maine House of Representatives.
 Rep.
 Copeland offers assistance navigating state departments and welcomes general comments and questions about legislative matters.
-Feel free to reach out to her by emailing [email protected]. |
+Feel free to reach out to her by emailing [email protected] .
+Reach out anytime!
+I'm here to help.
+EMAIL: [email protected] ​ PHONE: 207-712-6776 (cell) Paid for & Authorized by Lynn Copeland for State House P.O.
+Box 287, Saco ME 04072 Home Meet Lynn Accomplishments Issues Endorsements Contact

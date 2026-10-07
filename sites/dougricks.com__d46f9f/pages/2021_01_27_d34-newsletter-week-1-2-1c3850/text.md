@@ -1,13 +1,12 @@
-Dear Friends,
-Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute D34 Newsletter Week 2 Newsletter / By Doug Dear Friends, Governor Brad Little met with Chris Tapp and Senator Ricks to discuss the upcoming Wrongful Conviction Act bill last Friday.
 Chris told the Governor about some of his experiences in prison and the Governor signaled he is supportive of the bill.
 It was a good meeting and we appreciate Governor Little taking time to meet Chris; it meant a lot to him.
 In the Senate Judiciary Rules Committee we have been reviewing the IDAPA Rules, aka Administrative Rules, and as Vice Chairman of this committee I conduct the process.
 Our committee also approved a few Gubernatorial appointments to various commissions and boards.
 The Idaho Senate must approve the executive appointments just like the U.S.
 Senate does with Presidential appointees.
-I reintroduced my Wrongful Conviction bill, Senate Bill S1027.
-As you recall, the Governor vetoed the prior bill last year (H384), because he saw the added college tuition waiver and limited medical insurance as an unfunded mandate.
+I reintroduced my Wrongful Conviction bill, Senate Bill S1027 .
+As you recall, the Governor vetoed the prior bill last year ( H384 ), because he saw the added college tuition waiver and limited medical insurance as an unfunded mandate.
 I was upset with the veto, but during the summer I contacted the Governor’s office and we worked out the differences to make it an even better bill this year.
 We removed the tuition and insurance add-ons and then offset it by increasing the amount of compensation for each year a person is wrongfully imprisoned from $60,000 to $62,000.
 I do appreciate that the Governor did call me at the time he vetoed the bill and said he agreed with the bill’s intent and pledged to support it this year after it was adjusted.
@@ -44,5 +43,4 @@ Below are some recent activities and highlights taking place in the Idaho Capito
 I hope you enjoy the information.
 For more details, you can log onto legislature.idaho.gov where you will find bills, committee recordings, and live stream videos of our House and Senate floor sessions.
 I look forward to your involvement.
-Sincerely,
-Doug Ricks
+Sincerely, Doug Ricks Post navigation ← Previous Post Search for: Recent Posts D34 Newsletter Week 2 D34 Newsletter Week 1 Idaho’s 66th Legislative Session Doug Ricks Announcement Press Release Doug’s Announcement Speech for Representative Seat 34A Archives January 2021 December 2020 Categories Bills Campaign Legislation Newsletter Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

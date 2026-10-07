@@ -1,7 +1,9 @@
 {
  "description": "The campaign website of Thomas Moakley, candidate for Massachusetts State Senate in the Plymouth and Barnstable District.",
  "final_url": "https://www.thomasmoakley.com/",
- "paid_for_by": "Paid for by The Moakley Committee | P",
+ "fingerprint": "ebd66e4479c29f18ab4e192f925e58f0e4679347",
+ "format": 3,
+ "paid_for_by": "Paid for by The Moakley Committee",
  "title": "Thomas Moakley for State Representative",
  "years_mentioned": []
 }

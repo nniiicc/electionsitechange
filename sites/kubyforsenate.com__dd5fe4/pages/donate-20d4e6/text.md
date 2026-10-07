@@ -1,2 +1,4 @@
-Prefer to send a check?
+0 Skip to Content About Meet Lauren Media In the News Newsletter Issues Priorities Record Endorsements & Awards Get Involved FAQs Español Donate Open Menu Close Menu About Meet Lauren Media In the News Newsletter Issues Priorities Record Endorsements & Awards Get Involved FAQs Español Donate Open Menu Close Menu Folder: About Back Meet Lauren Media In the News Newsletter Folder: Issues Back Priorities Record Endorsements & Awards Get Involved FAQs Español Donate Prefer to send a check?
 Lauren Kuby for State Senator 109 E Loma Vista Dr Tempe AZ 85282 DONATE NOW ON ACTBLUE Max Contribution: $5500 (pp) I take no contributions from corporate PACs, utilities, or lobbyists.
+Lauren is the ONLY candidate in this race who rejects contributions from registered lobbyists, utilities, developers, and corporate PACs.
+Contact Lauren@KubyForSenate.com 602-790-2156 Follow me on Social Media Paid for by Lauren Kuby for State Senate Authorized by Lauren Kuby

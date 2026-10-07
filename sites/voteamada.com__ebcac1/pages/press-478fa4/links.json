@@ -1,18 +1,70 @@
 [
-"http://nealreiter.com/",
-"https://facebook.com/voteamada",
-"https://instagram.com/amadaformnhouse",
-"https://twitter.com/AmadaMarquezS",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/press",
-"https://voteamada.com/press/january-23-2020",
-"https://voteamada.com/press/november-25-2025",
-"https://voteamada.com/privacy-policy-2",
-"https://voteamada.com/wp-content/uploads/2024/09/mayor_amada_marquez_simula_2024.jpg"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "January 23, 2020",
+"href": "https://www.voteamada.com/press/january-23-2020/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Neal Reiter Photography",
+"href": "http://nealreiter.com/"
+},
+{
+"text": "November 25, 2025",
+"href": "https://www.voteamada.com/press/november-25-2025/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "[image: Portrait of Mayor Amáda Márquez Simula wearing a royal blue suit, with beaded jewelry and a butterfly brooch.]",
+"href": "https://www.voteamada.com/wp-content/uploads/2024/09/mayor_amada_marquez_simula_2024.jpg"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "mayor_amada_marquez_simula_2024.jpg",
+"href": "https://www.voteamada.com/wp-content/uploads/2024/09/mayor_amada_marquez_simula_2024.jpg"
+}
 ]

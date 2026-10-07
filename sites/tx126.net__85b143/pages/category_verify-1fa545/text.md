@@ -1,5 +1,14 @@
-Independent Candidates
-Thank you to the Office of the Secretary of State of Texas for the prompt and professional service.
+Main Menu Home About Lisa Blog FAQs Sign Up for Emails Donate Login Register Category: Verify Home Blog Verify January 30, 2026 Independent Candidates Thank you to the Office of the Secretary of State of Texas for the prompt and professional service.
 I have the...
-Yes, because we are connecting, we are successful.
+Continue reading...
+January 29, 2026 Success: Tier 1 Yes, because we are connecting, we are successful.
 We are on the path of change, and every day we get stronger...
+Continue reading...
+December 8, 2025 SocialProof Best stop on the way to Hill Country!
+Continue reading...
+Recent Posts Gathering Signatures for Ballot Access: # Days Left The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins Join Us for the Petition Party on May 30 How To Get Petition Signatures Chaplain In School?
+Recent Comments The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins - Lisa for TX 126 on Join Us for the Petition Party on May 30 Grandma Kathy on Texas Ethics Commission Lisa Practice on What is a Precinct?
+Thank you for signing up for the Email List! - Lisa for TX 126 on Geography of Impact Precinct 874 – Home - Lisa for TX 126 on Dear Melany Archives May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 November 2025 Categories Fun Outreach Ideas Parks Petition Platform Precinct Traveling Uncategorized Verify Volunteer Path Meta Register Log in Entries feed Comments feed WordPress.org Search Search Recent Posts Gathering Signatures for Ballot Access: # Days Left The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins Join Us for the Petition Party on May 30 How To Get Petition Signatures Chaplain In School?
+Recent Comments The Race is On: The Runoffs Are Over and the Fight to get on the Ballot Begins - Lisa for TX 126 on Join Us for the Petition Party on May 30 Grandma Kathy on Texas Ethics Commission Lisa Practice on What is a Precinct?
+Thank you for signing up for the Email List! - Lisa for TX 126 on Geography of Impact Precinct 874 – Home - Lisa for TX 126 on Dear Melany Community Home About Me FAQs Blog Join the Email List Useful links Activity Groups Forums Register Log In Copyright # Lisa Emerson Log into your account Email/username Password Remember Me Lost Password?
+Log Into Your Account Create an account

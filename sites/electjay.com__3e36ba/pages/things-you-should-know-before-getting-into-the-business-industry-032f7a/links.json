@@ -1,12 +1,54 @@
 [
-"https://electjay.com/",
-"https://electjay.com/about",
-"https://electjay.com/wp-content/uploads/2022/09/content-planning-1.jpg",
-"https://electjay.com/wp-content/uploads/2022/09/marketing-strategy-1.jpg",
-"https://facebook.com/ElectJay",
-"https://flickr.com/photos/185135131@N02",
-"https://instagram.com/teamobernolte",
-"https://secure.winred.com/JayObernolte/donate",
-"https://x.com/TeamObernolte",
-"https://youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+{
+"text": "Aenean lectus elit fermentum",
+"href": "https://electjay.com/about/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/JayObernolte/donate"
+},
+{
+"text": "Home",
+"href": "https://electjay.com/"
+},
+{
+"text": "Media",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[image: Jay Obernolte for Congress Logo] [image: Jay Obernolte for Congress Logo]",
+"href": "https://electjay.com/"
+},
+{
+"text": "[image]Content Planning",
+"href": "https://electjay.com/wp-content/uploads/2022/09/content-planning-1.jpg"
+},
+{
+"text": "[image]Marketing Strategy",
+"href": "https://electjay.com/wp-content/uploads/2022/09/marketing-strategy-1.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/ElectJay/"
+},
+{
+"text": "[tooltip: Flickr]",
+"href": "https://www.flickr.com/photos/185135131@N02/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/teamobernolte/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/TeamObernolte"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@jayobernolte-b2j?si=ixzZxDadFf3AkoJV"
+},
+{
+"text": "read more",
+"href": "https://electjay.com/about/"
+}
 ]

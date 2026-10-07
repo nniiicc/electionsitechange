@@ -1,9 +1,5 @@
-Date: Monday, October 19th, 2026
-Time: 11:00 AM - 12:00 PM CST
-Type: Town Hall
-Address: 8000 Fair Oaks Pkwy, Fair Oaks Ranch, TX
-Open in Google Maps
-•
-Open in Apple Maps
-Join Brandon Herrera for a town hall at Parker’s Ice Cream in Fair Oaks Ranch.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Bexar County Town Hall – Parker’s Ice Cream October 19th, 2026, 11:00 AM - 12:00 PM CST Date: Monday, October 19th, 2026 Time: 11:00 AM - 12:00 PM CST Type: Town Hall Address: 8000 Fair Oaks Pkwy, Fair Oaks Ranch, TX Open in Google Maps • Open in Apple Maps Join Brandon Herrera for a town hall at Parker’s Ice Cream in Fair Oaks Ranch.
 Hear Brandon’s message and bring your questions!
+Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

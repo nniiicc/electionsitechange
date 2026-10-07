@@ -1,5 +1,2 @@
-Sat, Oct 10
-Arapahoe Community Center
-Meet your NC State Senate District 2 Candidate, Roy Surrett.
-Oct 10, 2026, 12:00 PM – 2:00 PM
-Arapahoe Community Center, 2712 Don Lee Rd, Arapahoe, NC 28510, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Community Social-Arapahoe Precinct Sat, Oct 10 | Arapahoe Community Center Meet your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Oct 10, 2026, 12:00 PM – 2:00 PM Arapahoe Community Center, 2712 Don Lee Rd, Arapahoe, NC 28510, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

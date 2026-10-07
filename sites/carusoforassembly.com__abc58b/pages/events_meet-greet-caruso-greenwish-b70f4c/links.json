@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+Caruso+Greenwich&dates=20261006T223000Z%2F20261007T000000Z&location=63+Abeel+Avenue%2C+Greenwich%2C+New+York%2C+12834%2C+United+States",
-"http://instagram.com/carusofornyassembly",
-"http://maps.google.com/?q=63+Abeel+Avenue+Greenwich%2C+New+York%2C+12834+United+States",
-"https://carusoforassembly.com/",
-"https://carusoforassembly.com/about",
-"https://carusoforassembly.com/cart",
-"https://carusoforassembly.com/events",
-"https://carusoforassembly.com/events/fish-fry-friday-at-gavin-park",
-"https://carusoforassembly.com/events/mama-celestes-pasta-meatball-dinner",
-"https://carusoforassembly.com/events/meet-greet-caruso-greenwish?format=ical",
-"https://carusoforassembly.com/issues",
-"https://carusoforassembly.com/news",
-"https://carusoforassembly.com/privacy",
-"https://carusoforassembly.com/text-messaging",
-"https://carusoforassembly.com/volunteer",
-"https://facebook.com/CarusoforNYAssembly",
-"https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=63+abeel+avenue+greenwich%2C+new+york%2C+12834+united+states"
+},
+{
+"text": "0",
+"href": "https://carusoforassembly.com/cart"
+},
+{
+"text": "AFFORDABILITY AGENDA",
+"href": "https://carusoforassembly.com/issues"
+},
+{
+"text": "ALLEN CARUSO",
+"href": "https://carusoforassembly.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://carusoforassembly.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+Caruso+Greenwich&dates=20261006T223000Z%2F20261007T000000Z&location=63+Abeel+Avenue%2C+Greenwich%2C+New+York%2C+12834%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://carusoforassembly.com/events/meet-greet-caruso-greenwish?format=ical"
+},
+{
+"text": "MEET ALLEN",
+"href": "https://carusoforassembly.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://carusoforassembly.com/news"
+},
+{
+"text": "Next Next October 16 Fish Fry Friday at Gavin Park",
+"href": "https://carusoforassembly.com/events/fish-fry-friday-at-gavin-park"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://carusoforassembly.com/privacy"
+},
+{
+"text": "Previous Previous September 24 Mama Celeste’s Pasta & Meatball Dinner",
+"href": "https://carusoforassembly.com/events/mama-celestes-pasta-meatball-dinner"
+},
+{
+"text": "TEXT TERMS & CONDITIONS",
+"href": "https://carusoforassembly.com/text-messaging"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carusofornyassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarusoforNYAssembly/"
+}
 ]

@@ -1,18 +1,3 @@
-Dane Watro fought for our freedoms in the United States Army and is using his proven experience to fight for us in Harrisburg.
-Our State Representative since 2023
-Serves on the House Children and Youth, Education, Local Government, and Veterans Affairs and Emergency Preparedness committees
-Lifelong Republican and community resident
-Hazleton Area High School graduate
-United States Army Veteran who was stationed at the Korean Demilitarized Zone and Fort Hood, Texas.
-Re-enlisted for Operation Iraqi Freedom and was selected by the FBI to guard Saddam Hussein
-Awarded commendations from the FBI for combatting international terrorism
-Member of the VFW, Lions Club and AMVETS
-Former Drill Sergeant and Case Manager at a juvenile placement facility
-Former Mayor of McAdoo Borough
-Former Attendance-Truancy Officer for the Hazleton Area School District
-Former member of the Hazleton Area Education Association
-Former President of Schuylkill County Concerned Citizens
-Former Vice Chairman of the Kline Township Municipal Authority
-Served on the Uniform Construction Code Appeals Board for McAdoo Borough
-Former Board Member of the United Charities Inc. of Hazleton United Children’s Home
-Resides in McAdoo with his wife, Angela, and is the proud father of two daughters
+Meet Dane Priorities Endorsements Volunteer Connect Meet Dane Priorities Endorsements Volunteer Connect Donate TODAY MEET Dane Watro Dane Watro fought for our freedoms in the United States Army and is using his proven experience to fight for us in Harrisburg.
+Our State Representative since 2023 Serves on the House Children and Youth, Education, Local Government, and Veterans Affairs and Emergency Preparedness committees Lifelong Republican and community resident Hazleton Area High School graduate United States Army Veteran who was stationed at the Korean Demilitarized Zone and Fort Hood, Texas.
+Re-enlisted for Operation Iraqi Freedom and was selected by the FBI to guard Saddam Hussein Awarded commendations from the FBI for combatting international terrorism Member of the VFW, Lions Club and AMVETS Former Drill Sergeant and Case Manager at a juvenile placement facility Former Mayor of McAdoo Borough Former Attendance-Truancy Officer for the Hazleton Area School District Former member of the Hazleton Area Education Association Former President of Schuylkill County Concerned Citizens Former Vice Chairman of the Kline Township Municipal Authority Served on the Uniform Construction Code Appeals Board for McAdoo Borough Former Board Member of the United Charities Inc. of Hazleton United Children’s Home Resides in McAdoo with his wife, Angela, and is the proud father of two daughters Facebook Paid for by I’m For Watro

@@ -1,19 +1,2 @@
-Welcome
-Meet Tina
-On the Issues
-Endorsements
-Email Signup
-Request Lawn Sign
-Volunteer
-Donate
-Welcome
-Meet Tina
-On the Issues
-Endorsements
-Email Signup
-Request Lawn Sign
-Volunteer
-Donate
-Re-Elect Tina Liebling, Your State Representative
-Request a lawn sign
-Fill out the form below to request a Tina Liebling lawn sign.
+Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Welcome Meet Tina On the Issues Endorsements Email Signup Request Lawn Sign Volunteer Donate Re-Elect Tina Liebling, Your State Representative Request a lawn sign Fill out the form below to request a Tina Liebling lawn sign.
+Rochester, Minnesota 507-289-4664 info@tinaliebling.com Hours tina@tinaliebling.com 507-289-4664 Prepared and Paid for by the Liebling (Tina) for State House committee, PO Box 6332 Rochester, MN 55903

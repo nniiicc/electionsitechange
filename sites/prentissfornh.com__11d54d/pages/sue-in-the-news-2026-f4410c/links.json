@@ -1,29 +1,110 @@
 [
-"http://vnews.com/2026/03/16/new-hampshire-education-accountability",
-"https://facebook.com/SuePrentissforNH",
-"https://instagram.com/sueprentissfornh",
-"https://keenesentinel.com/news/local/nh-legislative-panel-approves-bill-for-public-schools-to-have-a-tourniquet/article_e4b44da9-db17-406e-abfa-6f586d65216b.html",
-"https://newhampshirebulletin.com/2026/09/03/sens-rochefort-and-prentiss-named-to-new-disability-services-oversight-commission",
-"https://nhpr.org/nh-news/2026-08-27/dolly-parton-imagination-library-proposal-nh-available-statewide",
-"https://prentissfornh.com/",
-"https://prentissfornh.com/2022-priorities",
-"https://prentissfornh.com/about-sue",
-"https://prentissfornh.com/about-sue/video-meet-sue",
-"https://prentissfornh.com/contact",
-"https://prentissfornh.com/district-5",
-"https://prentissfornh.com/endorsements-2024",
-"https://prentissfornh.com/groups",
-"https://prentissfornh.com/members",
-"https://prentissfornh.com/news",
-"https://prentissfornh.com/news/letters-editor",
-"https://prentissfornh.com/news/newsletters",
-"https://prentissfornh.com/sue-in-the-news-2025",
-"https://prentissfornh.com/sue-in-the-news-2026",
-"https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1",
-"https://thedartmouth.com/article/2026/07/rayban-new-tax-credit-aims-to-alleviate-new-hampshire-childcare-access-crisis",
-"https://unionleader.com/opinion/op-eds/sen-suzanne-prentiss-nhva-helps-our-families-and-economy/article_af50186c-fdbe-11ef-9d38-23a09853bd82.html",
-"https://unionleader.com/opinion/op-eds/sens-david-rochefort-sue-prentiss-what-we-can-do-about-our-states-looming-eye-care/article_a4282834-0a7a-448e-a92e-99ac4d549d1c.html",
-"https://vnews.com/2026/03/20/upper-valley-legislative-session",
-"https://vnews.com/2026/08/28/nh-expands-dolly-parton-library",
-"https://x.com/PrentissSuzanne"
+{
+"text": "1",
+"href": "https://www.prentissfornh.com/sue-in-the-news-2025"
+},
+{
+"text": "ABOUT",
+"href": "https://www.prentissfornh.com/about-sue"
+},
+{
+"text": "Bill Would Require Trauma Kits in Public Schools",
+"href": "https://www.keenesentinel.com/news/local/nh-legislative-panel-approves-bill-for-public-schools-to-have-a-tourniquet/article_e4b44da9-db17-406e-abfa-6f586d65216b.html"
+},
+{
+"text": "CONTACT",
+"href": "https://www.prentissfornh.com/contact"
+},
+{
+"text": "Column: Accountability for EFAs is Not an Attack",
+"href": "http://vnews.com/2026/03/16/new-hampshire-education-accountability/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sue-prentiss-for-nh-senate-1"
+},
+{
+"text": "District 5",
+"href": "https://www.prentissfornh.com/district-5"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.prentissfornh.com/endorsements-2024"
+},
+{
+"text": "Groups",
+"href": "https://www.prentissfornh.com/groups"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.prentissfornh.com/news/letters-editor"
+},
+{
+"text": "Members",
+"href": "https://www.prentissfornh.com/members"
+},
+{
+"text": "NEWS",
+"href": "https://www.prentissfornh.com/news"
+},
+{
+"text": "NH Lawmakers Eye Plan to Make Dolly Parton’s Imagination Library Available Statewide",
+"href": "https://vnews.com/2026/08/28/nh-expands-dolly-parton-library/"
+},
+{
+"text": "NH Lawmakers Eye Plan to Make Dolly Parton’s Imagination Library Available Statewide",
+"href": "https://www.nhpr.org/nh-news/2026-08-27/dolly-parton-imagination-library-proposal-nh-available-statewide"
+},
+{
+"text": "New Tax Credit Aims to Alleviate New Hampshire Childcare Access Crisis",
+"href": "https://www.thedartmouth.com/article/2026/07/rayban-new-tax-credit-aims-to-alleviate-new-hampshire-childcare-access-crisis"
+},
+{
+"text": "Newsletters",
+"href": "https://www.prentissfornh.com/news/newsletters"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.prentissfornh.com/2022-priorities"
+},
+{
+"text": "Sen. Suzanne Prentiss: NHVA Helps Our Families and Economy",
+"href": "https://www.unionleader.com/opinion/op-eds/sen-suzanne-prentiss-nhva-helps-our-families-and-economy/article_af50186c-fdbe-11ef-9d38-23a09853bd82.html"
+},
+{
+"text": "Sens. David Rochefort & Sue Prentiss: What We Can Do About Our State's Looming Eye Care Crisis",
+"href": "https://www.unionleader.com/opinion/op-eds/sens-david-rochefort-sue-prentiss-what-we-can-do-about-our-states-looming-eye-care/article_a4282834-0a7a-448e-a92e-99ac4d549d1c.html"
+},
+{
+"text": "Sens. Rochefort and Prentiss Named to New Developmental Services Oversight Commission",
+"href": "https://newhampshirebulletin.com/2026/09/03/sens-rochefort-and-prentiss-named-to-new-disability-services-oversight-commission/"
+},
+{
+"text": "Sue in the News",
+"href": "https://www.prentissfornh.com/sue-in-the-news-2026"
+},
+{
+"text": "Upper Valley Legislators Work to Advance Their Priorities on Health Care, Education, and Environment",
+"href": "https://vnews.com/2026/03/20/upper-valley-legislative-session/"
+},
+{
+"text": "Video: Meet Sue",
+"href": "https://www.prentissfornh.com/about-sue/video-meet-sue"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SuePrentissforNH"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sueprentissfornh/"
+},
+{
+"text": "[image: Sue Prentiss for State Senate logo]",
+"href": "https://www.prentissfornh.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PrentissSuzanne"
+}
 ]

@@ -1,5 +1,4 @@
-1380kcim.com
-Carroll County Republican Party Chairman, Craig Williams, made a formal announcement at the regular meeting Monday morning at the Family Table in Carroll.
+HOME CONTACT Menu HOME CONTACT Absentee Ballot Request Facebook ABOUT PRIORITIES NEWS GET INVOLVED Menu ABOUT PRIORITIES NEWS GET INVOLVED CONTRIBUTE NEWS Carroll County Republican Party Chair Brings Fiscally Conservative Approach To 6th District Senate Campaign 1380kcim.com Carroll County Republican Party Chairman, Craig Williams, made a formal announcement at the regular meeting Monday morning at the Family Table in Carroll.
 Williams will be facing Audubon Pastor, Heath Hansen, in the June 2020 Primary for Iowa’s 6th District Senate seat.
 He says he is not going into this campaign with a complete agenda, but rather an ideology.
 He calls himself a fiscal conservative.
@@ -13,5 +12,4 @@ Williams adds he thinks he will be a good representative for this district.
 Williams served on the State Central Committee from 2010 to 2012 and again in 2014 to present day.
 He will continue to serve on that committee and as chair of the county party.
 The 56-year-old Williams and his wife, Cindy, have been married 34 years and have two grown children and three grandchildren all under 18 months old.
-PAID FOR BY WILLIAMS FOR IOWA
-Treasurer: John Van Horn
+READ AND LISTEN TO FULL ARTICLE PAID FOR BY WILLIAMS FOR IOWA Treasurer: John Van Horn Copyright # – Williams for Iowa GET INVOLVED CONTRIBUTE

@@ -1,6 +1,4 @@
-Back to All Events
-Join Congresswoman Diana Harshbarger and Congressman Jim Jordan for the 4th Annual Harshbarger Hoedown.
+0 Skip to Content Issues Get Involved Coalitions News Events Donate Open Menu Close Menu Issues Get Involved Coalitions News Events Donate Open Menu Close Menu Issues Get Involved Coalitions News Events Donate Back to All Events 4th Annual Harshbarger Hoedown with Special Guest Congressman Jim Jordan Saturday, September 28, 2024 6:00 PM 9:00 PM Kingsport Farmers Market 308 Clinchfield Street Kingsport, TN, 37660 United States (map) Google Calendar ICS Join Congresswoman Diana Harshbarger and Congressman Jim Jordan for the 4th Annual Harshbarger Hoedown.
 This is a political event for families across East Tennessee and features live music from Billy Droze and BBQ.
-Previous
-Previous
-October 10
+RSVP today and get your tickets here!
+Previous Previous October 10 Harshbarger Ho-Down Paid for by Diana for Congress Privacy Policy

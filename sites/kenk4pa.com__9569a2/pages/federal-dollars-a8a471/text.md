@@ -1,13 +1,10 @@
-On The Issues
-Separating Society and State
-Pennsylvania shound not accept federal dollars!
-Accepting federal dollars is like accepting free drugs from a pusher.
-Soon you’re addicted — and the pusher threatens to cut you off if you don’t dance to the pusher’s tune.
-Accepting federal dollars is bad economic deal!
-Most of any dollar sent to the federal government is eaten up in the bureaucracy.
-You’re lucky if you get a dime back on every dollar sent to Washington.
-In Depth
-Should Pennsylvania accept federal funds?
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Separating Society and State In Brief 9 Pennsylvania shound not accept federal dollars!
+9 Accepting federal dollars is like accepting free drugs from a pusher.
+9 Soon you’re addicted — and the pusher threatens to cut you off if you don’t dance to the pusher’s tune.
+9 Accepting federal dollars is bad economic deal!
+9 Most of any dollar sent to the federal government is eaten up in the bureaucracy.
+9 You’re lucky if you get a dime back on every dollar sent to Washington.
+In Depth Should Pennsylvania accept federal funds?
 Why not?
 Isn’t it “free money” for the state?
 Well, the answer is yes and no, depending on what problem you’re solving.
@@ -33,3 +30,4 @@ And even then, should that remnant dime somehow find its way to its intended des
 On the other hand, if you kept that dollar local and not cut in the bureaucrats, you could educate ten times as many kids, shelter ten times as many homeless, pave ten times as many streets, and innumerable other tenfold savings.
 Bottom line: No matter the reason for accepting federal dollars, it’s a bad move.
 And the best way to break free of the mooching bureaucratic pusher—and apparently the ONLY way—is to vote Libertarian.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

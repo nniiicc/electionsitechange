@@ -1,4 +1,4 @@
-Out here, the work ethic is simple: you produce, you build, and you provide.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Hard Work × Out here, the work ethic is simple: you produce, you build, and you provide.
 But lately, Helena seems determined to make the tax code as complicated as possible.
 We see it with the endless shifting of brackets and convoluted property tax overhauls that require piles of paperwork just to prove you live in your own home.
 Instead of actually cutting the overall cost of government, the state keeps inventing new ways to shuffle the deck.
@@ -14,4 +14,6 @@ We need a representative who understands that a thriving Montana is built by wor
 Rewarding an honest day's labor and letting you keep what you earn is the only way to keep our state strong.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

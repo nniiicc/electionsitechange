@@ -1,3 +1,4 @@
-April 17, 2026 The Politics Hour with Kojo Nnamdi LISTEN The Maryland General Assembly wrapped its session this week, but not before a rowdy last few minutes.
-Lawmakers are touting major accomplishments such as a balanced budget, a slew of anti-ICE bills, …
-Continue Reading
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute April 17, 2026 Home 2026 April Day: April 17, 2026 April 17, 2026 In The News The Politics Hour: The D.C.
+Council weighs in on the budget and the Maryland General Assembly wraps up April 17, 2026 The Politics Hour with Kojo Nnamdi LISTEN The Maryland General Assembly wrapped its session this week, but not before a rowdy last few minutes.
+Lawmakers are touting major accomplishments such as a balanced budget, a slew of anti-ICE bills, … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

@@ -1,6 +1,2 @@
-NY22 ADVISORY for 11/3: Claudia Tenney Voting & Watch Party
-At Rally, Claudia Tenney Stands with Remington Workers
-TWEET ALERT: POTUS Gives Tenney “Full & Complete” Endorsement
-NY22 Debate Recap: Tenney Triumphs, Brindisi Scrambles
-Claudia Tenney Working To Aid Laid-Off Remington Workers at Ilion Plant
-NY22 Debate: Claudia Tenney Trounces Brindisi in 2nd Debate
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Press Releases Press Releases Opinion Editorials Press Releases Opinion Editorials Press Releases NY22 ADVISORY for 11/3: Claudia Tenney Voting & Watch Party October 29 2020 Learn More Share At Rally, Claudia Tenney Stands with Remington Workers October 28 2020 Learn More Share TWEET ALERT: POTUS Gives Tenney “Full & Complete” Endorsement October 27 2020 Learn More Share NY22 Debate Recap: Tenney Triumphs, Brindisi Scrambles October 26 2020 Learn More Share Claudia Tenney Working To Aid Laid-Off Remington Workers at Ilion Plant October 25 2020 Learn More Share NY22 Debate: Claudia Tenney Trounces Brindisi in 2nd Debate October 19 2020 Learn More Share « 1 2 3 4 5 » Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

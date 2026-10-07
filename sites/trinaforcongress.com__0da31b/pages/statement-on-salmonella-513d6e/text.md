@@ -1,4 +1,9 @@
-Across the United States, foodborne illness outbreaks have become increasingly common, and Minnesota and our farms and producers are not immune.
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Statement on Salmonella Across the United States, foodborne illness outbreaks have become increasingly common, and Minnesota and our farms and producers are not immune.
 Agriculture is a backbone of Minnesota’s economy, and it must be protected as such.
 Our farmers work hard every day to deliver safe, reliable products, and they deserve to be treated as partners in food safety, not as scapegoats when an outbreak occurs.
 This underscores why strong, well-funded and staffed federal agencies are essential to protect public health, preserve consumer confidence, and support the long-term stability of our agricultural economy.
+Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

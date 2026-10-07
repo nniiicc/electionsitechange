@@ -1,15 +1,82 @@
 [
-"https://ben-gruber.com/",
-"https://ben-gruber.com/_files/ugd/bb9d6e_722cca5571ed4011b0965d381c89d41d.pdf",
-"https://ben-gruber.com/about",
-"https://ben-gruber.com/connect",
-"https://ben-gruber.com/issues",
-"https://ben-gruber.com/privacy-policy",
-"https://facebook.com/BenGruberforAssembly",
-"https://instagram.com/bengruberforassembly",
-"https://myvote.wi.gov/en-us",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail",
-"https://secure.actblue.com/donate/bg-website"
+{
+"text": "ABOUT",
+"href": "https://www.ben-gruber.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.ben-gruber.com"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "CONNECT",
+"href": "https://www.ben-gruber.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bg-website"
+},
+{
+"text": "DOWNLOAD MAP",
+"href": "https://www.ben-gruber.com/_files/ugd/bb9d6e_722cca5571ed4011b0965d381c89d41d.pdf"
+},
+{
+"text": "Follow Ben on Social Media",
+"href": "https://www.facebook.com/BenGruberforAssembly"
+},
+{
+"text": "HOME",
+"href": "https://www.ben-gruber.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ben-gruber.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.ben-gruber.com/issues"
+},
+{
+"text": "MEET BEN",
+"href": "https://www.ben-gruber.com/about"
+},
+{
+"text": "MORE INFO",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ben-gruber.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.ben-gruber.com/about"
+},
+{
+"text": "[image: BGruber_Logo_FINAL_OL_RGB.png]",
+"href": "https://www.ben-gruber.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BenGruberforAssembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bengruberforassembly/"
+}
 ]

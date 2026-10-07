@@ -1,33 +1,138 @@
 [
-"https://absenteeballotapplication.alaska.gov/",
-"https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1",
-"https://ashleyforalaska.com/",
-"https://ashleyforalaska.com/accomplishments",
-"https://ashleyforalaska.com/cart",
-"https://ashleyforalaska.com/contribute",
-"https://ashleyforalaska.com/endorsements",
-"https://ashleyforalaska.com/home",
-"https://ashleyforalaska.com/meetashley",
-"https://ashleyforalaska.com/values",
-"https://ashleyforalaska.com/voting",
-"https://elections.alaska.gov/",
-"https://elections.alaska.gov/election-information",
-"https://facebook.com/ashleyforalaska",
-"https://fnsb.gov/269/Election-Information",
-"https://fnsb.gov/DocumentCenter/View/15424/2024-Absentee-Ballot-Application-PDF",
-"https://google.com/maps/place/2922+Parks+Hwy,+Fairbanks,+AK+99709/@64.8493245,-147.9429284,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325c90f12573a1:0xceee4d3673a09c85!8m2!3d64.8493245!4d-147.9412948!16s%2Fg%2F11bw4n0h_f?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3400+S+Cushman+St,+Fairbanks,+AK+99701/@64.8139133,-147.715804,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513250082dca5573:0x58747af0d396100d!8m2!3d64.8139133!4d-147.7132291!16s%2Fg%2F11c5jvghl_?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/3480+College+Rd,+Fairbanks,+AK+99709/@64.8568064,-147.8095425,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513244cdac775031:0xc686b93f28dec21!8m2!3d64.8568064!4d-147.8069676!16s%2Fg%2F11bw3w_7tf?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/4782+Dale+Rd,+Fairbanks,+AK+99709/@64.8243406,-147.8658705,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b0e4444f257:0xbcef0a334b2a233c!8m2!3d64.8243406!4d-147.8632956!16s%2Fg%2F11b8z7lyx1?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/5000+Palo+Verde+Ave,+Fairbanks,+AK+99709/@64.8395241,-147.8735355,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b6a38904d6b:0xfb67faa227fab06f!8m2!3d64.8395241!4d-147.8709606!16s%2Fg%2F11b8zg5n19?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/601+Loftus+Rd,+Fairbanks,+AK+99709/@64.8477868,-147.8427222,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b37881514f5:0x444745d5d0857f48!8m2!3d64.8477868!4d-147.8401473!16s%2Fg%2F11bw49k4l6?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/910+Chena+Pump+Rd,+Fairbanks,+AK+99709/@64.8268475,-147.8957352,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b738bae08d3:0xd20eb197cc1bdc0f!8m2!3d64.8268476!4d-147.8908643!16s%2Fg%2F11bw3y3vzf?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://google.com/maps/place/Noel+Wien+Public+Library/data=!4m2!3m1!1s0x0:0xcc84bfbd3ba41715?sa=X&ved=1t%3A2428&ictx=111",
-"https://google.com/maps/place/State+Of+Alaska+Fairbanks+Regional+Office+Building,+675+7th+Ave,+Fairbanks,+AK+99701/@64.8404089,-147.7265725,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513245497a9942df:0xf744dcc4d3efb594!8m2!3d64.8404089!4d-147.7239976!16s%2Fg%2F11bw3y8ln5?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D",
-"https://instagram.com/ashleyforalaska",
-"https://maps.app.goo.gl/brWonmN5zwngjPa48",
-"https://myvoterportal.alaska.gov/",
-"https://twitter.com/AshleyforAlaska",
-"https://voterregistration.alaska.gov/",
-"https://youtube.com/@ashleyforalaska"
+{
+"text": "0",
+"href": "https://www.ashleyforalaska.com/cart"
+},
+{
+"text": "2922 Parks Highway.",
+"href": "https://www.google.com/maps/place/2922+Parks+Hwy,+Fairbanks,+AK+99709/@64.8493245,-147.9429284,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325c90f12573a1:0xceee4d3673a09c85!8m2!3d64.8493245!4d-147.9412948!16s%2Fg%2F11bw4n0h_f?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "3400 S Cushman Street.",
+"href": "https://www.google.com/maps/place/3400+S+Cushman+St,+Fairbanks,+AK+99701/@64.8139133,-147.715804,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513250082dca5573:0x58747af0d396100d!8m2!3d64.8139133!4d-147.7132291!16s%2Fg%2F11c5jvghl_?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "3480 College Road",
+"href": "https://www.google.com/maps/place/3480+College+Rd,+Fairbanks,+AK+99709/@64.8568064,-147.8095425,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513244cdac775031:0xc686b93f28dec21!8m2!3d64.8568064!4d-147.8069676!16s%2Fg%2F11bw3w_7tf?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "3510 College Road",
+"href": "https://maps.app.goo.gl/brWonmN5zwngjPa48"
+},
+{
+"text": "4782 Dale Road.",
+"href": "https://www.google.com/maps/place/4782+Dale+Rd,+Fairbanks,+AK+99709/@64.8243406,-147.8658705,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b0e4444f257:0xbcef0a334b2a233c!8m2!3d64.8243406!4d-147.8632956!16s%2Fg%2F11b8z7lyx1?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "5000 Palo Verde Avenue.",
+"href": "https://www.google.com/maps/place/5000+Palo+Verde+Ave,+Fairbanks,+AK+99709/@64.8395241,-147.8735355,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b6a38904d6b:0xfb67faa227fab06f!8m2!3d64.8395241!4d-147.8709606!16s%2Fg%2F11b8zg5n19?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "601 Loftus Road.",
+"href": "https://www.google.com/maps/place/601+Loftus+Rd,+Fairbanks,+AK+99709/@64.8477868,-147.8427222,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b37881514f5:0x444745d5d0857f48!8m2!3d64.8477868!4d-147.8401473!16s%2Fg%2F11bw49k4l6?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "910 Chena Pump Road.",
+"href": "https://www.google.com/maps/place/910+Chena+Pump+Rd,+Fairbanks,+AK+99709/@64.8268475,-147.8957352,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x51325b738bae08d3:0xd20eb197cc1bdc0f!8m2!3d64.8268476!4d-147.8908643!16s%2Fg%2F11bw3y3vzf?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.ashleyforalaska.com/accomplishments"
+},
+{
+"text": "Check your Voter Status",
+"href": "https://myvoterportal.alaska.gov/"
+},
+{
+"text": "Contribute",
+"href": "https://www.ashleyforalaska.com/contribute"
+},
+{
+"text": "Early Vote at the Fairbanks Division of Elections Office",
+"href": "https://www.google.com/maps/place/State+Of+Alaska+Fairbanks+Regional+Office+Building,+675+7th+Ave,+Fairbanks,+AK+99701/@64.8404089,-147.7265725,346m/data=!3m2!1e3!4b1!4m6!3m5!1s0x513245497a9942df:0xf744dcc4d3efb594!8m2!3d64.8404089!4d-147.7239976!16s%2Fg%2F11bw3y8ln5?entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Early Vote at the Noel Wein Library",
+"href": "https://www.google.com/maps/place/Noel+Wien+Public+Library/data=!4m2!3m1!1s0x0:0xcc84bfbd3ba41715?sa=X&ved=1t%3A2428&ictx=111"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleyforalaska.com/endorsements"
+},
+{
+"text": "Find your Polling Place",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "Meet Ashley",
+"href": "https://www.ashleyforalaska.com/meetashley"
+},
+{
+"text": "Platform",
+"href": "https://ashleyforalaska.com/home/#platform"
+},
+{
+"text": "Precinct Map and Polling Place Locator",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Register to Vote/Update Registration",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absenteeballotapplication.alaska.gov/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://www.fnsb.gov/DocumentCenter/View/15424/2024-Absentee-Ballot-Application-PDF?bidId="
+},
+{
+"text": "Values",
+"href": "https://www.ashleyforalaska.com/values"
+},
+{
+"text": "Voting Information",
+"href": "https://www.ashleyforalaska.com/voting"
+},
+{
+"text": "[image: Ashley for Alaska]",
+"href": "https://www.ashleyforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AshleyforAlaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ashleyforalaska"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ashleyforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ashleyforalaska"
+},
+{
+"text": "ashley@ashleyforalaska.com",
+"href": "mailto:ashley@ashleyforalaska.com"
+},
+{
+"text": "elections.alaska.gov",
+"href": "https://www.elections.alaska.gov/"
+},
+{
+"text": "website",
+"href": "https://www.elections.alaska.gov/election-information/#RankedChoice"
+},
+{
+"text": "website",
+"href": "https://www.fnsb.gov/269/Election-Information"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Becca Burnfin Campaign Events",
  "final_url": "https://burnfinforkansas.com/Events?range=2026-12",
+ "fingerprint": "a83df8206c144e1a9910f1133f78c0228a09e68a",
+ "format": 3,
  "paid_for_by": "Paid for by Burnfin for Kansas, Treasurer Hillary Watson Powered by CampaignPartner",
  "title": "Becca Burnfin Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,17 +1,11 @@
-Community First
-Proven Leadership
-Real Results
-Vote Early or on Nov 3rd!
-Early Voting
-Sat, Oct 24 - Sun, Nov 1
-Election Day
-Tue, Nov 3
-Visit vote.nyc
-Check your registration, Find your poll location & View your sample ballot…
-Join our people-powered campaign.
+0 Skip to Content Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now Open Menu Close Menu Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now Open Menu Close Menu Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now Community First Proven Leadership Real Results Get Involved Vote Early or on Nov 3rd!
+Early Voting Sat, Oct 24 - Sun, Nov 1 Election Day Tue, Nov 3 Visit vote.nyc Check your registration, Find your poll location & View your sample ballot… VOTE.NYC VOTE.NYC Join our people-powered campaign.
 I’ll always fight for our community and show up when it’s hardest, but I’ll need your support.
 For me, Community First has never been a campaign phrase.
 It’s how I lead.
 Leadership means showing up—standing with tenants, visiting our schools, answering constituent calls, and turning the concerns of everyday people into real policy and real progress.
 Together, we’ve delivered meaningful investments, stronger protections, and tangible results for District 31.
 And in 2026, I’m ready to continue building on that work with you.
+Fighting For: » Taxing the Rich » Funding Education » Tenants’ Rights » Protecting Immigrants from I.C.E.
+Thank you for standing with us.
+Your contribution helps power a community-first campaign built on organizing, accountability, and real results. $10 $25 $50 $100 $250 $500 Other Robert Jackson for NY State Senate District 31 If donating by mail, make checks payable to: Jackson for Senate 2026 | PO Box 765 New York, NY 10033 Meet Action Jackson ‍ ‍ Priorities ‍ ‍ Volunteer‍ ‍ Donate‍ ‍ Contact Endorsements: Robert Jackson is proudly endorsed by: Mayor Zohran Mamdani, City Council Member Althea Stevens, State Assemblyperson Landon Dais, The New York Working Families Party, Citizen Action of NY, 32BJ SEIU Local 32 Service Employees International Union, Communication Workers of America, District of Carpenters, Public Employees Federation, New York League of Conservative Voters, The Jewish Vote from Jews for Racial and Economic Justice, American Federation of State, County & Municipal Employees, Tenants PAC, The Campaign for New York Health, Uptown Community Democrats, Transportation Wokers Union, PSC-CUNY Professional Staff Congress City University of New York, Inwood Indivisible, UFDA Uniformed Fire Officers Association FDNY IAFF Local 854 #UFOA, WE ACT For Environmantal Justice, and more… Paid for by Jackson for Senate 2026

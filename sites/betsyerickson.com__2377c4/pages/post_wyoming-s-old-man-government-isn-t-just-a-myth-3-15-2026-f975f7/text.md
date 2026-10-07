@@ -1,6 +1,5 @@
-Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026)
-Dear Casper,
-Recently, I read a letter to the editor asking whether it was true that old men are governing Wyoming.
+top of page Erickson for House District 37 Home About Why I am Running Endorsements Blog JOIN THE MOVEMENT More Use tab to navigate through the menu items.
+Donate All Posts Search Wyoming’s ‘old man’ government isn’t just a myth (3/15/2026) ericksonforhd37 Jun 8 2 min read Dear Casper, Recently, I read a letter to the editor asking whether it was true that old men are governing Wyoming .
 The letter then went on to list the positions women currently hold at the federal, state and local levels.
 I don’t dispute that women serve in these roles; they do.
 But when you look at the numbers, it is clear that Wyoming is still largely governed by men — and older men in particular.
@@ -24,6 +23,5 @@ The numbers show otherwise.
 Representation matters — not just for fairness, but because the people making decisions should reflect the communities they serve.
 Wyoming has always prided itself on being the Equality State.
 If we truly want to honor that legacy, we should make room for more women and younger voices at the table.
-Writing in solidarity for a better Wyoming future,
-Betsy Erickson
-Casper
+Writing in solidarity for a better Wyoming future, Betsy Erickson Casper Recent Posts See All Rep.
+Harriet Hageman Bill Targets Wyoming Public Lands (5/31/2026) Letter to the Editor 6/29/2025: Wyoming’s school voucher law is unconstitutional Letter to the Editor 7/13/25: More than books: Public library plays vital role in community life Erickson for House District 37 ericksonforhd37@yahoo.com PO Box 452 Casper Wy 82602 Wyoming, USA Paid for by Erickson for HD 37 bottom of page

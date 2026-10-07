@@ -1,7 +1,11 @@
-top of page
-Preserving Our Environment
-Environmental injustices disproportionately impact low-income communities and communities of color.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events Preserving Our Environment Environmental injustices disproportionately impact low-income communities and communities of color.
 We need policies that address environmental racism, promote clean air and water, invest in renewable energy, and ensure that frontline communities in our district have a seat at the table in the decision-making process.
 We must invest in building resilient communities that are prepared for the impacts of climate change and environmental hazards.
 Through disaster preparedness, green infrastructure, and equitable access to resources, we can ensure that our communities can withstand and recover from environmental challenges.
-bottom of page
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Advancing Social Justice Promoting Educational Opportunity Safeguarding Our Communities Investing in Families Preserving Reproductive Rights Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

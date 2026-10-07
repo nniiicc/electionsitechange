@@ -1,6 +1,5 @@
-Rep.
-Omar Secures Fifth Straight DFL Endorsement with Unanimous Support
-MINNEAPOLIS – Congresswoman Ilhan Omar released the following statement after securing the DFL endorsement at the Fifth District convention today.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share News Rep.
+Omar Secures Fifth Straight DFL Endorsement with Unanimous Support May 9, 2026 MINNEAPOLIS – Congresswoman Ilhan Omar released the following statement after securing the DFL endorsement at the Fifth District convention today.
 The strength of her support forced her opponent to withdraw from the contest before ballots were distributed.
 She proceeded to win with unanimous support from delegates across the district.
 “I am incredibly honored to earn the DFL endorsement.
@@ -21,4 +20,4 @@ It is an honor to be in this movement with you all.
 This district needs a fighter who won’t back down.
 I am that fighter.
 And I won’t back down—because our community, our values, and our future are worth fighting for.
-Thank you to the people of Minnesota’s Fifth District, to the delegates at today’s convention, to my family, and to my staff for having my back.”
+Thank you to the people of Minnesota’s Fifth District, to the delegates at today’s convention, to my family, and to my staff for having my back.” Back to all news Join Our Campaign ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

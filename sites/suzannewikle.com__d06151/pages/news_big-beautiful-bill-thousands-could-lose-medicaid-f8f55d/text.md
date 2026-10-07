@@ -1,5 +1,3 @@
-Previous
-Previous
-Representative Wikle talks about how out of touch Trump and Kansas Republicans are with Kansans
-Next
-Next
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE 'Big Beautiful Bill': Thousands could lose Medicaid In the News Jun 13 Written By Suzanne Wikle Suzanne Wikle Previous Previous Representative Wikle talks about how out of touch Trump and Kansas Republicans are with Kansans Next Next ‘This isn’t our first rodeo’: Kansas, Lawrence Democrats rally, prep for vote against amendment in August 2026 Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

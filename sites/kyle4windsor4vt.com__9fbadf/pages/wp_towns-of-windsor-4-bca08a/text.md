@@ -1,21 +1,6 @@
-Barnard:
-Population – 992 (2020 Census)
-Village of Barnard;
-Village of East Barnard;
-Bridgewater:
-Population – 903 (2020 Census)
-Village of Bridgewater;
-Village of Bridgewater Corners;
-Village of West Bridgewater;
-Village of Bridgewater Center;
-Pomfret:
-Population – 916 (2020 Census)
-Village of North Pomfret;
-Village of South Pomfret;
-Hartford (West Hartford and Quechee):
-Population – approximately 1714 (ACS 2024 5 year survey)
-Village of West Hartford;
-Village of Quechee;
-Set in a highland region between the Ottauquechee and White River valleys, our towns are united by a shared agrarian history, and working class identity; from historic mill villages, to hilltop farms.
+Skip to content Policies and Priorities About Me Towns of Windsor – 4 Get Involved Why the Bull Moose?
+Our communities; The towns and Villages which comprise the Windsor – 4 District Barnard : Population – 992 (2020 Census) Village of Barnard; Village of East Barnard; Bridgewater : Population – 903 (2020 Census) Village of Bridgewater; Village of Bridgewater Corners; Village of West Bridgewater; Village of Bridgewater Center; Pomfret : Population – 916 (2020 Census) Village of North Pomfret; Village of South Pomfret; Hartford (West Hartford and Quechee) : Population – approximately 1714 (ACS 2024 5 year survey) Village of West Hartford; Village of Quechee; Census Data Map of the District Set in a highland region between the Ottauquechee and White River valleys, our towns are united by a shared agrarian history, and working class identity; from historic mill villages, to hilltop farms.
 Our towns must form the grass roots of our democratic system, and our towns deserve a voice which will put them first in Montpelier.
-Together, we are Windsor 4!
+Together, we are Windsor 4 !
+Kyle Hansen for State Representative – Windsor 4 About Policies and Priorities About Me Towns of Windsor – 4 Get Involved Why the Bull Moose?
+Paid for by Kyle4Windsor4VT / 7309 Pomfret Road, North Pomfret, VT 05053 Designed with WordPress

@@ -1,6 +1,7 @@
-What an "A" Means, and What It Doesn't
-Published on: 31/08/2026
-The NRA Political Victory Fund gave Rep.
+Home About Key Issues Events Endorsements Get Involved Voter Info Register to Vote Polling Information Contact Blog Sign Up for Newsletter What an "A" Means, and What It Doesn't Dale Helwig Published on: 31/08/2026 The NRA Political Victory Fund gave Rep.
 Dale Helwig an "A" rating for 2026.
 He explains what that grade actually measures, why a rating isn't an endorsement, and how he votes on the Second Amendment.
-District 1Dale HelwigNRA ratingNRANRA Political Victory FundSecond Amendment KansasKansas House District 1Cherokee CountyKansas Gun RightsOver the Cattle Guard
+District 1 Dale Helwig NRA rating NRA NRA Political Victory Fund Second Amendment Kansas Kansas House District 1 Cherokee County Kansas Gun Rights Over the Cattle Guard Read more Week 11 Update: Key Conversations, Important Overrides, and Progress on Kansas Bills Dale Helwig Published on: 29/03/2026 Week 11 legislative update from Kansas State Representative Dale Helwig, covering key veto overrides, election integrity, beekeeper legislation, and important conversations impacting Kansas communities.
+Dale Helwig Kansas legislative update Kansas House District 1 Kansas politics 2026 Kansas tax deduction health sharing Kansas pregnancy center law Kansas agriculture policy Kansas small business legislation Kansas Beekeeping law Kansas government update Read more Week 10 Legislative Update: Key Bills, Property Tax Reform & Final Steps Dale Helwig Published on: 22/03/2026 Week 10 Kansas legislative update covering SB 254, HB 2468, property tax reform (SCR 1603), and SB 408.
+Key insights from Representative Dale Helwig on major policy decisions impacting Southeast Kansas.
+Kansas legislature week 10 Dale Helwig Kansas House District 1 SB 254 Kansas HB 2468 Kansas SCR 1603 property tax Kansas SB 408 Kansas Kansas Property Tax reform Kansas education tax credits Kansas Scholarship program Kansas Legislation 2026 Kansas politics update Kansas public benefits law military family support Kansas Kansas tax policy Kansas Government update Read more Previous 1 Next Terms & Conditions/Privacy Policy Email: [email protected] Paid for by Dale Helwig for Kansas, Treasurer Clark Hall

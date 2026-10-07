@@ -1,4 +1,4 @@
-| ANNAPOLIS — Maryland's Department of Transportation will study expanding MARC train service into Western Maryland under a new law the General Assembly passed last month.
+Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact 2026 Legislative Agenda 2025 End of Session Letter State will study expanding MARC service to Western Maryland 5/3/2021 0 Comments ANNAPOLIS — Maryland's Department of Transportation will study expanding MARC train service into Western Maryland under a new law the General Assembly passed last month.
 The study is the result of a years-long effort by transit advocates in the state's western region, including Sen.
 Paul Corderman, R-Washington, who sponsored a bill requiring the evaluation and ultimately got it passed as part of another piece of legislation.
 The legislation requires MDOT to explore three potential routes for expanding commuter rail access through Western Maryland.
@@ -18,6 +18,8 @@ His bill passed in the House, but did not make it out of the Senate during the p
 A legislative analysis suggested that the study could cost about $2 million over the next two years, but Corderman said the department previously advised that it would cost significantly less.
 A message left with MDOT was not returned Monday.
 Madeleine O'Neill covers the Maryland State House and state issues for the USA Today Network.
-She can be reached at [email protected] or on Twitter at @maddioneill | Archives Paid for by Friends of Paul Corderman, treasurer Michael Weiss |
-| Mailing Address P.O.
-Box 3716 Hagerstown, MD 21742 | Telephone District Office Phone 240-313-3929 | |
+She can be reached at [email protected] or on Twitter at @maddioneill 0 Comments Leave a Reply.
+A rchives February 2026 September 2025 May 2025 April 2025 February 2025 December 2024 April 2024 March 2024 April 2023 May 2021 April 2021 February 2021 September 2020 August 2020 December 2017 March 2016 February 2016 RSS Feed Paid for by Friends of Paul Corderman, treasurer Michael Weiss Contact the Office of Senator Paul D.
+Corderman!
+Mailing Address P.O.
+Box 3716 ​Hagerstown, MD 21742 Telephone District Office Phone 240-313-3929 Email [email protected]

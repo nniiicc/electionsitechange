@@ -1,20 +1,23 @@
-Early Voting Locations
-Beat the lines.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← Vote 2026 Shelby County · August 6, 2026 Early Voting Locations Beat the lines.
 Vote early at any early voting site in Shelby County — you don't have to vote at your Election Day precinct.
 Below is the official list of locations and hours.
-Early Voting Hours
-Every early voting site keeps the same hours — so pick whichever location is most convenient for you.
-One exception: the Shelby County Election Commission office (157 Poplar) is open 9am – 5pm on weekdays.
+Early Voting Jul 17 – Aug 1 Friday, July 17 through Saturday, August 1, 2026 Election Day Aug 6, 2026 Polls open across Shelby County When to Go Early Voting Hours Every early voting site keeps the same hours — so pick whichever location is most convenient for you.
+Mon – Fri 11am – 7pm July 17, 20–24, 27–31 Saturdays 10am – 4pm July 18 & July 25 Last Day · Sat 8am – 4pm Saturday, August 1 Sundays Closed July 19 & July 26 One exception: the Shelby County Election Commission office (157 Poplar) is open 9am – 5pm on weekdays.
 Its Saturday hours are the same as everywhere else.
-Where to Vote Early
-During early voting you may cast your ballot at any of these Shelby County locations — you are not limited to your Election Day precinct.
-Shelby County Election Commission
-157 Poplar Ave, Memphis, TN
-The Official Document
-Early Voting Locations & Times — August 6, 2026 Election
-The complete list of Shelby County early voting sites with addresses and daily hours, for the TN State & Federal Primary and the Shelby County & Municipal General Elections.
-Trouble viewing it here?
-Open the PDF in a new tab →
-Questions about where to vote?
+26 Sites Countywide Where to Vote Early During early voting you may cast your ballot at any of these Shelby County locations — you are not limited to your Election Day precinct.
+Showing all 26 locations Abundant Grace Fellowship Church 1574 E Shelby Dr Memphis, TN 38116 Get directions → Anointed Temple of Praise 3939 Riverdale Rd Memphis, TN 38115 Get directions → Arlington Safe Room 11842 Otto Ln Arlington, TN 38002 Get directions → Baker Community Center 7942 Church St Millington, TN 38053 Get directions → Briarwood Church 1900 N Germantown Pkwy Memphis, TN 38016 Get directions → Christian Life Church 9375 Davies Plantation Rd Bartlett, TN 38133 Get directions → Collierville Church of Christ 575 Shelton Rd Collierville, TN 38017 Get directions → Compassion Church 3505 S Houston Levee Rd Germantown, TN 38139 Get directions → Dave Wells Community Center 915 Chelsea Ave Memphis, TN 38107 Get directions → Ed Rice Community Center 2907 N Watkins St Memphis, TN 38127 Get directions → Gaisman Community Center 4221 Macon Rd Memphis, TN 38122 Get directions → Glenview Community Center 1141 S Barksdale St Memphis, TN 38114 Get directions → Greater Lewis Street Baptist Church 152 E Parkway N Memphis, TN 38104 Get directions → Greater Middle Baptist Church 4982 Knight Arnold Rd Memphis, TN 38118 Get directions → Harmony Church 6740 St Elmo Rd Bartlett, TN 38135 Get directions → Mississippi Blvd.
+Church — Family Life Center 70 N Bellevue Blvd Memphis, TN 38104 Get directions → Mt.
+Pisgah Missionary Baptist Church 1234 Pisgah Rd Cordova, TN 38016 Get directions → Mt.
+Zion Baptist Church 60 S Parkway E Memphis, TN 38106 Get directions → New Bethel Missionary Baptist Church 7786 Poplar Pike Germantown, TN 38138 Get directions → Raleigh United Methodist Church 3295 Powers Rd Memphis, TN 38128 Get directions → Riverside Missionary Baptist Church 3560 S Third St Memphis, TN 38109 Get directions → Second Baptist Church 4680 Walnut Grove Rd Memphis, TN 38117 Get directions → Shelby County Election Commission James Meredith Bldg 157 Poplar Ave, Memphis, TN Weekdays 9am – 5pm Get directions → Solomon Temple MB Church 1460 Winchester Rd Memphis, TN 38116 Get directions → TN Shakespeare Company 7950 Trinity Rd Cordova, TN 38018 Get directions → White Station Church of Christ 1106 Colonial Rd Memphis, TN 38117 Get directions → No locations match that search.
+Show all 26 → Official List The Official Document Early Voting Locations & Times — August 6, 2026 Election The complete list of Shelby County early voting sites with addresses and daily hours, for the TN State & Federal Primary and the Shelby County & Municipal General Elections.
+PDF · Shelby County Election Commission Open the PDF → Download PDF Trouble viewing it here?
+Open the PDF in a new tab → Questions about where to vote?
 Locations and hours are set by the Shelby County Election Commission.
-For the latest updates, sample ballots, and your precinct, visit ShelbyVote.com — or call our Memphis office at 901-232-9498.
+For the latest updates, sample ballots, and your precinct, visit ShelbyVote.com — or call our Memphis office at 901-232-9498 .
+ShelbyVote.com → All Voting Info Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Early Voting Locations Sample Ballot Volunteer Community Resources Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

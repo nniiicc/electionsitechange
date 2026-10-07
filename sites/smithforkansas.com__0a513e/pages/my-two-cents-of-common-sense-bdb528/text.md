@@ -1,8 +1,4 @@
-| |
-| My Two Cents of Common Sense |
-| Representative Adam Smith 300 SW 10th St, Office 185N Topeka, KS 66612 785-296-0715 (Office) 785-821-2568 (Cell) |
-| “Northwest Kansas holds some truly inspiring scenery, contains a wealth of Old West history, possesses some of the finest educational institutions, promotes an entrepreneurial spirit, and is home to some of the most hard-working, genuine people I’ve ever met!” ~ Adam Smith |
-| Property tax relief plan up for vote The property tax relief plan is scheduled to have a vote in the House this week.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now My Two Cents of Common Sense February 20, 2026 Newsletter Property tax relief plan details and vote, and the ban on cell phones in schools ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ View this email in your browser My Two Cents of Common Sense Representative Adam Smith 300 SW 10th St, Office 185N Topeka, KS 66612 785-296-0715 (Office) 785-821-2568 (Cell) Adam.Smith@House.KS.Gov “Northwest Kansas holds some truly inspiring scenery, contains a wealth of Old West history, possesses some of the finest educational institutions, promotes an entrepreneurial spirit, and is home to some of the most hard-working, genuine people I’ve ever met!” ~ Adam Smith Property tax relief plan up for vote The property tax relief plan is scheduled to have a vote in the House this week.
 It passed out of committee last week and has been sent to the floor for consideration.
 The bill aims to curb property tax hikes at the local level by putting the power in the voters’ hands to stop excessive tax increases.
 Similar to last year’s bill, local governments are allowed a small percentage increase in property tax revenue each year, and if they go over that the voters can put a stop to it.
@@ -12,7 +8,7 @@ Its focus is on calculating a mill levy that is adjusted to provide the exact sa
 This was called the revenue neutral rate, and local governing boards were required to hold a hearing and vote to exceed this rate.
 If the board voted to exceed the revenue neutral rate, there was no further recourse available to the taxpayers – they were stuck with whatever budget the board adopted.
 It has been about as effective as a speed limit sign with no cops on duty, with some local governments being very mindful of it and others ignoring it completely.
-With this new House bill, as assessed valuations go up and the property tax base increases, governing boards will be forced to lower the mill levy, something many of them do not like as was apparent in the opposition during the hearing.
+With this new House bill, as assessed valuations go up and the property tax base increases, governing boards will be forced to lower the mill levy , something many of them do not like as was apparent in the opposition during the hearing.
 Many local government officials that testified against the measure talked about how they have lowered their mill levy.
 I was not impressed.
 That’s like bragging on your resume you can tie your own shoes.
@@ -25,8 +21,8 @@ Many governing boards are very attentive to their year over year budget increase
 I’ve compiled the 5 year data for the counties in my legislative district, showing the average annual increase over the past 5 years and how they rank in the state compared to all counties.
 Decatur 4.51% #36 Thomas 3.85% #44 Wallace 3.77% #45 Rawlins 2.62% #60 Sherman 1.79% #72 Cheyenne -0.93% #102 This is an analysis of ONLY the county portion of the property taxes, and does not include the cities, schools, or other taxing jurisdictions.
 The county level data is readily available statewide but compiling this data for every single taxing jurisdiction is an ongoing project that will take time.
-I think it’s important, however, to see how your local government ranks in comparison to others across the state. |
-| Property Tax Relief: The Details The new bill is HB2745 and aims to accomplish three main things.
+I think it’s important, however, to see how your local government ranks in comparison to others across the state.
+Property Tax Relief: The Details The new bill is HB2745 and aims to accomplish three main things.
 First, all property tax jurisdictions (county, city, township, fire districts, libraries, etc.) will have a target of 3% year over year increase in the amount of property tax they can levy.
 School districts are not a part of the limit because they already have other local budgetary limits in law.
 Sales tax and other sources of revenue are not subject to the limit, the focus is on keeping property tax as low as possible.
@@ -35,7 +31,7 @@ The bar for a successful petition is 10% of the voters that cast a ballot in the
 Third, as an incentive to help keep budgets no more than 3%, the state will create a Property Tax Relief Fund that will be distributed each year to every taxing jurisdiction that did not attempt to exceed the limit.
 The state recognizes the need for property tax relief and the legislature wants to be a partner, but only with those that are not trying to raise taxes excessively.
 Every dollar a local government gets from the state is a dollar that is not billed to the property tax payers.
-Last year, a similar bill (HB2396) passed the House of Representatives 115-6.
+Last year, a similar bill ( HB2396 ) passed the House of Representatives 115-6.
 It contained similar provisions to this year’s bill and provides a simple and practical way to provide long-term property tax relief for homeowners, business owners, and ag producers across the entire state.
 It will even result in helping keep your vehicle property taxes lower!
 Key Point: HB2745 aims to restrict spending.
@@ -58,8 +54,8 @@ But so are household costs for every taxpayer.
 A wise elected official will keep that in mind when determining what is a mandatory expense verses a discretionary expense when it comes to building the budget.
 As a former county commissioner, I want to respect local control because I believe the elected officials closest to the people have the best resources to be the most responsive to their constituents.
 However, I have also watched some of those budget hearings where citizens are adamantly protesting the budget increases, yet the governing board adopts the budget anyway.
-In these situations, HB2745 will put local control into the hands of the voters. |
-| School cell phone ban moving forward The Senate bill to ban cell phones for students in schools has passed both the Senate and the House.
+In these situations, HB2745 will put local control into the hands of the voters.
+School cell phone ban moving forward The Senate bill to ban cell phones for students in schools has passed both the Senate and the House.
 It isn’t headed to the governor’s desk just yet, however.
 The House made several changes through amendments that will need final Senate approval before moving on to the Governor.
 It appears those changes may be only a formality, as the momentum behind this bill continues full-speed ahead.
@@ -71,8 +67,8 @@ Many of the superintendents and board members and parents and students I visited
 And any policy, even if it is a state law, is only as good as the enforcement, which is totally up to the school districts.
 Law enforcement officers are not going to be patrolling the halls and classrooms looking for violators.
 I’m certainly not advocating for free-reign access to cellphones – the potential for abuse and the negative impact it has on our children these days is serious.
-As I said, I merely felt this did not need to be a one-size-fits-all state mandate. |
-| House of Representatives Paging Do you know any students who may be interested in being a Legislative Page for a day?
+As I said, I merely felt this did not need to be a one-size-fits-all state mandate.
+House of Representatives Paging Do you know any students who may be interested in being a Legislative Page for a day?
 I am taking requests for the new session and would love to sponsor anyone with an interest in experiencing a day in the House of Representatives!
 You are not required to by a resident of my district for me to sponsor you – although I certainly give priority to the northwest Kansas folks!
 The Legislative Page Program offers a memorable experience in the Kansas Capitol.
@@ -85,7 +81,12 @@ Tour the Capitol, including the inspiring “Dome Tour”, as your free time all
 Upon completion, you will receiver a formal certificate recognizing your service to the state!
 Each legislator is allowed a limited number of Page sponsorships per month on a first-come, first-serve basis.
 Be sure to get your requests in as soon as possible.
-If you have further questions, please contact me at 785-296-0715 or Adam.Smith@House.KS.Gov. |
-| I strive to create and maintain constituent relationships through good communication.
+If you have further questions, please contact me at 785-296-0715 or Adam.Smith@House.KS.Gov .
+I strive to create and maintain constituent relationships through good communication.
 Two-way discussion is essential to my effectiveness as a legislator in promoting successful solutions for Northwest Kansas!
-Please consider subscribing to my contact list or send me an email and I would be happy to add you! |
+Please consider subscribing to my contact list or send me an email and I would be happy to add you!
+Copyright (C) # Smith For Kansas.
+All rights reserved.
+You are receiving this email because you requested to receive newsletters and other legislative and campaign updates from SmithForKansas.com Our mailing address is: Smith For Kansas 1970 Road 3 Weskan, KS 67762 USA Want to change how you receive these emails?
+You can update your preferences or unsubscribe Related Posts My Two Cents of Common Cents My Two Cents of Common Cents January 29, 2026 January 29, 2026 9:00 PM Legislative Update from Adam Smith Happy Kansas Day, Details on passage of Article V resolution ͏ ‌ ͏[...] Read More Read More Search Search Latest Posts Proposed Transmission Line Public Meeting September 29, 2026 Smith Releases Property Tax Relief Plan July 20, 2026 June Water Task Force Meeting June 18, 2026 Challenge for the 120th District Seat June 1, 2026 Smith Responds to Masterson on Property Taxes April 13, 2026 Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

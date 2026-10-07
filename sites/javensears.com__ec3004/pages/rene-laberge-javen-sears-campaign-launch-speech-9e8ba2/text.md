@@ -1,11 +1,8 @@
-rene laBerge
-Former Tech Entrepreneur & Grandfather of Vermont Youth Football
-“Coach” Rene LaBerge, a native of Bridport, Vermont, is a longtime entrepreneur and community leader known for founding the South Burlington Dolphins Youth Football Program in South Burlington in his mid 20s of 1967, Vermont's first ever youth football team.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate rene laBerge Former Tech Entrepreneur & Grandfather of Vermont Youth Football “Coach” Rene LaBerge, a native of Bridport, Vermont, is a longtime entrepreneur and community leader known for founding the South Burlington Dolphins Youth Football Program in South Burlington in his mid 20s of 1967, Vermont's first ever youth football team.
 The program is a long lasting nonprofit foundation with over 3,000 alumni, and it continues to serve families today.
 Rene also owned a successful technical manufacturing company that worked with major corporations including IBM he later sold.
 He later coached Javen Sears during his seventh and eighth grade years in the Dolphins program.
-TRANSCRIPT
-I spent 60 years coaching youth football, but my profession was hiring and doing projects for Fortune 500 companies, and over time you learn how to recognize talent, discipline, and character.
+TRANSCRIPT I spent 60 years coaching youth football, but my profession was hiring and doing projects for Fortune 500 companies, and over time you learn how to recognize talent, discipline, and character.
 I can tell you honestly, it's very, very rare to meet someone as young as Javen with the maturity, the intellect, and the determination that he has.
 I saw it years ago when he was very young; he was breaking down film and studying things at a level most adults can't do—I don't think we've got a high school coach that can do some of the things he can do, period.
 Since then, he's never stopped growing.
@@ -33,5 +30,7 @@ I've been in Vermont most of my life, and it breaks my heart to see what's happe
 I've traveled to a lot of states with my business professionally, and Vermont is still one of the best places, but if we don't start guarding it, it's going to get away from us.
 And I'm going to step down now, because Governor Jim Douglas is here to speak!
 Thank you.
-Rene LaBerge
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Rene LaBerge Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

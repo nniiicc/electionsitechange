@@ -1,22 +1,86 @@
 [
-"http://adobe.com/products/flashplayer/security",
-"https://facebook.com/nicole4nevada",
-"https://flickr.com/photos/204529233@N07",
-"https://instagram.com/cannizzaro4nv",
-"https://nicolecannizzaro.com/",
-"https://nicolecannizzaro.com/about-nicole",
-"https://nicolecannizzaro.com/civil-voting-rights",
-"https://nicolecannizzaro.com/data-centers",
-"https://nicolecannizzaro.com/endorsements",
-"https://nicolecannizzaro.com/energy-environment",
-"https://nicolecannizzaro.com/federal-overreach",
-"https://nicolecannizzaro.com/issues",
-"https://nicolecannizzaro.com/protecting-consumers",
-"https://nicolecannizzaro.com/public-safety",
-"https://nicolecannizzaro.com/reproductive-rights",
-"https://nicolecannizzaro.com/volunteer",
-"https://optout.aboutads.info/?c=2&lang=EN",
-"https://secure.actblue.com/donate/nicole-cannizzaro-website",
-"https://twitter.com/nicole4nevada",
-"https://youtube.com/@NicoleCannizzaro4NV"
+{
+"text": "About Nicole",
+"href": "https://www.nicolecannizzaro.com/about-nicole"
+},
+{
+"text": "Civil and Voting Rights",
+"href": "https://www.nicolecannizzaro.com/civil-voting-rights"
+},
+{
+"text": "Clean Energy and Environment",
+"href": "https://www.nicolecannizzaro.com/energy-environment"
+},
+{
+"text": "Contact Nicole",
+"href": "mailto:info@nicolecannizzaro.com"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/nicole-cannizzaro-website"
+},
+{
+"text": "Data Centers",
+"href": "https://www.nicolecannizzaro.com/data-centers"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nicolecannizzaro.com/endorsements"
+},
+{
+"text": "Fighting Federal Overreach",
+"href": "https://www.nicolecannizzaro.com/federal-overreach"
+},
+{
+"text": "Issues",
+"href": "https://www.nicolecannizzaro.com/issues"
+},
+{
+"text": "Protecting Consumers",
+"href": "https://www.nicolecannizzaro.com/protecting-consumers"
+},
+{
+"text": "Protecting Reproductive Rights",
+"href": "https://www.nicolecannizzaro.com/reproductive-rights"
+},
+{
+"text": "Public Safety",
+"href": "https://www.nicolecannizzaro.com/public-safety"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nicolecannizzaro.com/volunteer"
+},
+{
+"text": "[image: Cannizzaro-Logo-Final.png]",
+"href": "https://www.nicolecannizzaro.com"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/204529233@N07/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/cannizzaro4nv/"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/nicole4nevada/"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/nicole4nevada"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@NicoleCannizzaro4NV"
+},
+{
+"text": "info@nicolecannizzaro.com",
+"href": "mailto:info@nicolecannizzaro.com"
+},
+{
+"text": "www.aboutads.info/choices",
+"href": "https://optout.aboutads.info/?c=2&lang=EN"
+}
 ]

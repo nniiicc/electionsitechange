@@ -1,74 +1,418 @@
 [
-"http://squarespace.com/",
-"https://airc.nist.gov/airmf-resources/airmf/5-sec-core",
-"https://anthropic.com/news/anthropic-is-endorsing-sb-53",
-"https://anthropic.com/news/the-case-for-targeted-regulation",
-"https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai",
-"https://blogs.microsoft.com/on-the-issues/2023/09/12/developing-and-deploying-ai-responsibly-elements-of-an-effective-legislative-framework-to-regulate-ai",
-"https://capitol.texas.gov/tlodocs/89R/analysis/html/HB00149S.htm",
-"https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00149F.pdf",
-"https://doi.org/10.6028/NIST.AI.100-1",
-"https://facebook.com/WillCampbellForTexas",
-"https://gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023",
-"https://judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence",
-"https://judiciary.senate.gov/download/2023-05-16-qfr-responses-altman",
-"https://openai.com/index/frontier-ai-regulation",
-"https://openai.com/index/public-policy-agenda",
-"https://safe.ai/work/statement-on-ai-extinction-risk",
-"https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas",
-"https://willcampbellfortexas.com/",
-"https://willcampbellfortexas.com/about-will-campbell",
-"https://willcampbellfortexas.com/ai-accountability-act",
-"https://willcampbellfortexas.com/birth-tourism-criminalization-act",
-"https://willcampbellfortexas.com/bond-management-act",
-"https://willcampbellfortexas.com/cart",
-"https://willcampbellfortexas.com/data",
-"https://willcampbellfortexas.com/enforcing-parental-rights-and-child-protections",
-"https://willcampbellfortexas.com/family-first-guardianship-accountability",
-"https://willcampbellfortexas.com/female-first-responder-cancer-coverage",
-"https://willcampbellfortexas.com/hjr-for-electing-sos",
-"https://willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas",
-"https://willcampbellfortexas.com/proposed-laws",
-"https://willcampbellfortexas.com/protecting-first-responders",
-"https://willcampbellfortexas.com/protecting-heirs-rights",
-"https://willcampbellfortexas.com/protecting-texans-from-surveillance",
-"https://willcampbellfortexas.com/ptia",
-"https://willcampbellfortexas.com/releases",
-"https://willcampbellfortexas.com/releases/category/Artificial+Intelligence",
-"https://willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters",
-"https://willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act",
-"https://willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research",
-"https://willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans",
-"https://willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it",
-"https://willcampbellfortexas.com/releases/protecting-truth-and-identity",
-"https://willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas",
-"https://willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs",
-"https://willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance",
-"https://willcampbellfortexas.com/releases/tag/Accountability",
-"https://willcampbellfortexas.com/releases/tag/Artificial+Intelligence",
-"https://willcampbellfortexas.com/releases/tag/Texas+Rights",
-"https://willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan",
-"https://willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses",
-"https://willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment",
-"https://willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act",
-"https://willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders",
-"https://willcampbellfortexas.com/releases/we-can-end-property-taxes",
-"https://willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act",
-"https://willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232",
-"https://willcampbellfortexas.com/remote-seller-and-foreign-entity-act",
-"https://willcampbellfortexas.com/solutions",
-"https://willcampbellfortexas.com/texas-data-center-transparency-and-standards-act",
-"https://willcampbellfortexas.com/texas-distributed-power-generation-act",
-"https://willcampbellfortexas.com/texas-election-integrity-and-party-association-act",
-"https://willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act",
-"https://willcampbellfortexas.com/the-fund-system-act",
-"https://willcampbellfortexas.com/the-tles-act",
-"https://willcampbellfortexas.com/tptrp-amendment",
-"https://willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act",
-"https://willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act",
-"https://willcampbellfortexas.com/tptrp-transition-board-act",
-"https://willcampbellfortexas.com/volunteer",
-"https://willcampbellfortexas.com/water-for-sand-branch-act",
-"https://x.com/WillForTexas",
-"https://youtube.com/@WillCampbellforTexas"
+{
+"text": "(Campbell, 2026a)",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "(Campbell, 2026c)",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "(Center for AI Safety, 2023)",
+"href": "https://safe.ai/work/statement-on-ai-extinction-risk"
+},
+{
+"text": "(OpenAI, 2023)",
+"href": "https://openai.com/index/frontier-ai-regulation/"
+},
+{
+"text": "(U.K. Department for Science, Innovation and Technology, 2023)",
+"href": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023"
+},
+{
+"text": "0",
+"href": "https://www.willcampbellfortexas.com/cart"
+},
+{
+"text": "AI Accountability Act",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "About Will",
+"href": "https://www.willcampbellfortexas.com/about-will-campbell"
+},
+{
+"text": "Accountability",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Accountability"
+},
+{
+"text": "Altman, 2023",
+"href": "https://www.judiciary.senate.gov/download/2023-05-16-qfr-responses-altman"
+},
+{
+"text": "Altman, S. (2023, June 22). Questions for the record. U.S. Senate Committee on the Judiciary. https://www.judiciary.senate.gov/download/2023-05-16-qfr-responses-altman",
+"href": "https://www.judiciary.senate.gov/download/2023-05-16-qfr-responses-altman"
+},
+{
+"text": "Anthropic, 2024",
+"href": "https://www.anthropic.com/news/the-case-for-targeted-regulation"
+},
+{
+"text": "Anthropic, 2025",
+"href": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+},
+{
+"text": "Anthropic. (2024, October 31). The case for targeted regulation. https://www.anthropic.com/news/the-case-for-targeted-regulation",
+"href": "https://www.anthropic.com/news/the-case-for-targeted-regulation"
+},
+{
+"text": "Anthropic. (2025, September 8). Anthropic is endorsing SB 53. https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
+"href": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://www.willcampbellfortexas.com/releases/category/Artificial+Intelligence"
+},
+{
+"text": "Artificial Intelligence",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Artificial+Intelligence"
+},
+{
+"text": "Back",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "Birth Tourism Criminalization Act",
+"href": "https://www.willcampbellfortexas.com/birth-tourism-criminalization-act"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas"
+},
+{
+"text": "Campbell, 2026a",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Campbell, 2026b",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Campbell, 2026c",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "Campbell, W. (2026a). The Protecting Truth and Identity Act. Will Campbell for Texas. https://www.willcampbellfortexas.com/ptia",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Campbell, W. (2026b). Safeguarding truth and identity in the digital age: The Protecting Truth and Identity Act. Will Campbell for Texas. https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Campbell, W. (2026c). Texas Artificial Intelligence Accountability Act. Will Campbell for Texas. https://www.willcampbellfortexas.com/ai-accountability-act",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "Center for AI Safety. (2023, May 30). Statement on AI extinction risk. https://safe.ai/work/statement-on-ai-extinction-risk",
+"href": "https://safe.ai/work/statement-on-ai-extinction-risk"
+},
+{
+"text": "Data",
+"href": "https://www.willcampbellfortexas.com/data"
+},
+{
+"text": "End Property Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/we-can-end-property-taxes"
+},
+{
+"text": "Ending Birth Tourism",
+"href": "https://www.willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters"
+},
+{
+"text": "Ending Corruption in Guardianship Cases",
+"href": "https://www.willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act"
+},
+{
+"text": "Enforcing Parental Rights and Child Protections",
+"href": "https://www.willcampbellfortexas.com/enforcing-parental-rights-and-child-protections"
+},
+{
+"text": "Enforcing Parental Rights and Local Accountability",
+"href": "https://www.willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act"
+},
+{
+"text": "Family First Guardianship Accountability",
+"href": "https://www.willcampbellfortexas.com/family-first-guardianship-accountability"
+},
+{
+"text": "Female First Responder Cancer Coverage",
+"href": "https://www.willcampbellfortexas.com/female-first-responder-cancer-coverage"
+},
+{
+"text": "Female First Responder Cancer Protections",
+"href": "https://www.willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research"
+},
+{
+"text": "Folder: Proposed Laws",
+"href": "https://www.willcampbellfortexas.com/proposed-laws"
+},
+{
+"text": "Folder: Solutions",
+"href": "https://www.willcampbellfortexas.com/solutions"
+},
+{
+"text": "HJR For Electing SOS",
+"href": "https://www.willcampbellfortexas.com/hjr-for-electing-sos"
+},
+{
+"text": "Holding AI Companies Accountable",
+"href": "https://www.willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans"
+},
+{
+"text": "Microsoft, 2023",
+"href": "https://blogs.microsoft.com/on-the-issues/2023/09/12/developing-and-deploying-ai-responsibly-elements-of-an-effective-legislative-framework-to-regulate-ai/"
+},
+{
+"text": "Microsoft. (2023, September 12). Developing and deploying AI responsibly: Elements of an effective legislative framework to regulate AI. https://blogs.microsoft.com/on-the-issues/2023/09/12/developing-and-deploying-ai-responsibly-elements-of-an-effective-legislative-framework-to-regulate-ai/",
+"href": "https://blogs.microsoft.com/on-the-issues/2023/09/12/developing-and-deploying-ai-responsibly-elements-of-an-effective-legislative-framework-to-regulate-ai/"
+},
+{
+"text": "National Institute of Standards and Technology, 2023a",
+"href": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
+},
+{
+"text": "National Institute of Standards and Technology, 2023b",
+"href": "https://doi.org/10.6028/NIST.AI.100-1"
+},
+{
+"text": "National Institute of Standards and Technology. (2023a). AI RMF Core. U.S. Department of Commerce. https://airc.nist.gov/airmf-resources/airmf/5-sec-core/",
+"href": "https://airc.nist.gov/airmf-resources/airmf/5-sec-core/"
+},
+{
+"text": "National Institute of Standards and Technology. (2023b). Artificial Intelligence Risk Management Framework (AI RMF 1.0) (NIST AI 100-1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.AI.100-1",
+"href": "https://doi.org/10.6028/NIST.AI.100-1"
+},
+{
+"text": "Next Next Equal Cancer Protections for Female First Responders and Long Term Research",
+"href": "https://www.willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research"
+},
+{
+"text": "OpenAI, 2026",
+"href": "https://openai.com/index/public-policy-agenda/"
+},
+{
+"text": "OpenAI. (2023, July 5). Frontier AI regulation: Managing emerging risks to public safety. https://openai.com/index/frontier-ai-regulation/",
+"href": "https://openai.com/index/frontier-ai-regulation/"
+},
+{
+"text": "OpenAI. (2026, June 3). OpenAI public policy agenda. https://openai.com/index/public-policy-agenda/",
+"href": "https://openai.com/index/public-policy-agenda/"
+},
+{
+"text": "Previous Previous Misleading Posts - Did Governor Abbott Raise Your Property Taxes?",
+"href": "https://www.willcampbellfortexas.com/releases/misleading-posts-did-governor-abbott-raise-your-property-taxes"
+},
+{
+"text": "Prohibiting The Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas"
+},
+{
+"text": "Prohibiting the Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/protecting-first-responders"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders"
+},
+{
+"text": "Protecting Heirs Rights",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas"
+},
+{
+"text": "Protecting Heirs' Rights",
+"href": "https://www.willcampbellfortexas.com/protecting-heirs-rights"
+},
+{
+"text": "Protecting Texans From Surveillance",
+"href": "https://www.willcampbellfortexas.com/protecting-texans-from-surveillance"
+},
+{
+"text": "Protecting Truth and Identity",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Protecting Truth and Identity Act",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Read the PTIA explainer",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Read the Protecting Truth and Identity Act",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Read the Texas Artificial Intelligence Accountability Act",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "Releases",
+"href": "https://www.willcampbellfortexas.com/releases"
+},
+{
+"text": "Relief for Sand Branch and Seagoville",
+"href": "https://www.willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs"
+},
+{
+"text": "Restricting ALPR Cameras",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act"
+},
+{
+"text": "Securing Texas Elections and Closed Primaries",
+"href": "https://www.willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance"
+},
+{
+"text": "Smith, 2023",
+"href": "https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai/"
+},
+{
+"text": "Smith, B. (2023, May 25). How do we best govern AI? Microsoft. https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai/",
+"href": "https://blogs.microsoft.com/on-the-issues/2023/05/25/how-do-we-best-govern-ai/"
+},
+{
+"text": "Solving For Energy, Water, and Data Centers.",
+"href": "https://www.willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "TPTRP Bond Management Act",
+"href": "https://www.willcampbellfortexas.com/bond-management-act"
+},
+{
+"text": "TPTRP Constitutional Amendment",
+"href": "https://www.willcampbellfortexas.com/tptrp-amendment"
+},
+{
+"text": "TPTRP Constitutional Amendment Breakdown",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment"
+},
+{
+"text": "TPTRP Freeing Business - Reducing Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses"
+},
+{
+"text": "TPTRP Remote Seller and Foreign Entity Act",
+"href": "https://www.willcampbellfortexas.com/remote-seller-and-foreign-entity-act"
+},
+{
+"text": "TPTRP Tax Abolition and Conformity Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act"
+},
+{
+"text": "TPTRP The Fund System Act",
+"href": "https://www.willcampbellfortexas.com/the-fund-system-act"
+},
+{
+"text": "TPTRP The Sales and Use Tax Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act"
+},
+{
+"text": "TPTRP The TLES Act",
+"href": "https://www.willcampbellfortexas.com/the-tles-act"
+},
+{
+"text": "TPTRP Transition Board Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-transition-board-act"
+},
+{
+"text": "Texas Data Center Transparency and Standards Act",
+"href": "https://www.willcampbellfortexas.com/texas-data-center-transparency-and-standards-act"
+},
+{
+"text": "Texas Distributed Power Generation Act",
+"href": "https://www.willcampbellfortexas.com/texas-distributed-power-generation-act"
+},
+{
+"text": "Texas Election Integrity and Party Association Act",
+"href": "https://www.willcampbellfortexas.com/texas-election-integrity-and-party-association-act"
+},
+{
+"text": "Texas Energy and Intelligence Infrastructure Security Board Act",
+"href": "https://www.willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act"
+},
+{
+"text": "Texas House Research Organization, 2025",
+"href": "https://capitol.texas.gov/tlodocs/89R/analysis/html/HB00149S.htm"
+},
+{
+"text": "Texas House Research Organization. (2025). Bill analysis for C.S.H.B. 149, 89th Legislature, Regular Session. https://capitol.texas.gov/tlodocs/89R/analysis/html/HB00149S.htm",
+"href": "https://capitol.texas.gov/tlodocs/89R/analysis/html/HB00149S.htm"
+},
+{
+"text": "Texas Legislature, 2025",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00149F.pdf"
+},
+{
+"text": "Texas Legislature. (2025). H.B. 149, 89th Legislature, Regular Session: Texas Responsible Artificial Intelligence Governance Act (enrolled version). https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00149F.pdf",
+"href": "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/HB00149F.pdf"
+},
+{
+"text": "Texas Rights",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Texas+Rights"
+},
+{
+"text": "The Protecting Truth and Identity Act",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "U.K. Department for Science, Innovation and Technology. (2023, November 1). The Bletchley Declaration by countries attending the AI Safety Summit. GOV.UK. https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023",
+"href": "https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023"
+},
+{
+"text": "U.S. Senate Committee on the Judiciary, 2023",
+"href": "https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence"
+},
+{
+"text": "U.S. Senate Committee on the Judiciary. (2023, May 16). Oversight of A.I.: Rules for artificial intelligence. https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence",
+"href": "https://www.judiciary.senate.gov/committee-activity/hearings/oversight-of-ai-rules-for-artificial-intelligence"
+},
+{
+"text": "View the AI Accountability Act bill page",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "View the legislation",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "Volunteer",
+"href": "https://www.willcampbellfortexas.com/volunteer"
+},
+{
+"text": "Water for Sand Branch Act",
+"href": "https://www.willcampbellfortexas.com/water-for-sand-branch-act"
+},
+{
+"text": "Wilson Campbell",
+"href": "https://www.willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232"
+},
+{
+"text": "[image: Will Campbell For Texas]",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WillCampbellForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@WillCampbellforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WillForTexas"
+},
+{
+"text": "full explainer",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+}
 ]

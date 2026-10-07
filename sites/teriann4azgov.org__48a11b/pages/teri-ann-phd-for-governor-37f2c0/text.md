@@ -1,12 +1,9 @@
-Meet Teri
-Teri Ann Hourihan is a proud Arizona native, devoted mother, small business owner of an integrated health care company, and Licensed Professional Counselor (LPC).
+0 Skip to Content Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Open Menu Close Menu Open Menu Close Menu DONATE HERE Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Teri's Plans & Policies Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Community Connection Advocacy Community Engagements Shop Products Other Topics Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact About Teri Ann About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today Exposed: Biggs/Hobbs/Risa Videos of Teri Ann - General Race Media Attention Folder: Teri's Plans & Policies Back Debates & Rising Up Teri's Debate 06/18/2026 Save Water in AZ Plan Afford to Live in AZ AZ Education System Reform Agency Corruption & Reform Data Centers, AI, Flock Animal Rights Military & First Responders Rural Arizona Military & VA Immigration & Border Security AZ Businesses Healthcare System Candidate Over Party Equality for All Homelessness & Safety Family Court System Manage Utility Companies AZ Abortion Policies AZ Taxes Disability Rights Families are Important Courts, Crime, Prisons Random Important Topics Campaign Hustle Teri's Plans & Policies Folder: Community Connection Back Advocacy Community Engagements Shop Products Folder: Other Topics Back Voting Locations VOTE411 privacy policy Register to Vote Endorsements Contact Folder: About Teri Ann Back About Teri Ann Teri Ann's Lieutenant Governor How to Vote 4 Teri Teri's Blog Q&A For Teri Donate Today DONATE HERE Meet Teri Teri Ann Hourihan is a proud Arizona native, devoted mother, small business owner of an integrated health care company, and Licensed Professional Counselor (LPC).
 Since becoming licensed in 2017 and earning her Ph.D. in 2018, she has dedicated her career to helping individuals, families, and communities navigate challenges and build stronger futures.
 Teri entered the race for Governor with one mission: to serve the people of Arizona.
 Driven by her love for the state and concern for its future, she is committed to protecting families, restoring trust in government, and addressing the corruption and systemic failures that continue to harm everyday Arizonans.
 “I am tired of watching the people of the state I love—including myself—be harmed by the very individuals and systems that were put in place to help us.
-Arizona deserves better.” — Teri
-Statement
-Teri chose to run as an Independent/No Labels because she believes the growing political division in our state and nation is preventing meaningful solutions and leaving too many people behind.
+Arizona deserves better.” — Teri Statement Teri chose to run as an Independent/No Labels because she believes the growing political division in our state and nation is preventing meaningful solutions and leaving too many people behind.
 She believes Arizona needs leadership that brings people together, not further apart, and that the needs of citizens must always come before political agendas.
 Guided by honesty, integrity, accountability, and common sense, Teri is committed to making decisions based on what is best for Arizona—not what is best for political parties, special interests, or wealthy donors.
 While she respects differing political viewpoints, her focus remains on serving all Arizonans regardless of party affiliation.
@@ -20,9 +17,7 @@ She is committed to being accessible, approachable, and accountable to the peopl
 Teri understands that problems cannot be solved by ignoring the voices of those most affected by them—Arizonans.
 Teri believes government works best when it works alongside the people.
 Her administration will prioritize openness, accountability, and public engagement to ensure every Arizonan has a voice in the future of their state.
-Personal Bio
-My Story
-I am an Arizona native, and my journey has been shaped by hardship, recovery, faith, education, entrepreneurship, motherhood, and an unwavering commitment to helping others.
+Personal Bio My Story I am an Arizona native, and my journey has been shaped by hardship, recovery, faith, education, entrepreneurship, motherhood, and an unwavering commitment to helping others.
 Alcoholism affected my family growing up, and by the age of 10, I was already heading down a difficult path that eventually led to addiction.
 I dropped out of high school at 16, earned my GED, and began college, but addiction continued to follow me.
 By age 23, I was exhausted by the direction of my life and knew I needed a profound change.
@@ -52,7 +47,7 @@ That experience changed me.
 I learned firsthand what it feels like for a business owner, healthcare provider, employees, patients, and families to become caught in a government process that can have life-changing consequences.
 I also came to understand that many other Arizona providers and businesses have faced or continue to face their own battles with state systems.
 My experience is one reason I am committed to fighting for meaningful reform, stronger due-process protections, greater accountability, and state agencies that protect taxpayers from fraud while also treating legitimate providers and businesses fairly.
-I am not against government.
+I am not against government .
 I believe deeply in what government is supposed to be: public servants working for the people.
 I am against government systems that lose sight of that responsibility.
 Government must protect communities, safeguard taxpayer dollars, enforce the law fairly, provide due process, and remember that every decision it makes can affect real people, families, employees, businesses, and communities.
@@ -65,12 +60,12 @@ I love people.
 I approach problems rationally and fairly, and I believe people with very different beliefs can still unite around the issues that matter most.
 Good leadership requires listening, negotiation, compromise, and the willingness to bring people together.
 Sometimes successful compromise means neither side receives everything it wants, but Arizona moves forward because both sides were willing to find common ground.
-At heart, I am a healer and a teacher.
+At heart, I am a healer and a teacher .
 I am also a Christian.
 I attend Christ’s Church of the Valley (CCV), read my Bible, and pray daily.
 My faith guides my personal life and my commitment to service, and I believe God has called me to this place and this moment—to run for Governor of Arizona in 2026 and to use everything I have experienced, learned, lost, rebuilt, and overcome in service to others.
 Psalm 23 is the chapter of my life, and 1 Corinthians 2:9 is my life verse.
-Through the battle of the past several years to save my company, continue serving patients, and fight for those affected by broken systems, Isaiah 43 has become my mission chapter and Romans 8:31 my mission verse: “If God is for us, who can be against us?”
-My story is not one of having an easy path.
+Through the battle of the past several years to save my company, continue serving patients, and fight for those affected by broken systems, Isaiah 43 has become my mission chapter and Romans 8:31 my mission verse: “If God is for us, who can be against us?” My story is not one of having an easy path.
 It is a story of falling, getting back up, choosing life, rebuilding, serving others, and refusing to quit.
 Those experiences are part of why I am running for Governor—and why I will never forget who government is supposed to serve: the people of Arizona.
+Teri Ann Hourihan for Arizona Governor Email Teri@teriann4azgov.org Phone/Text 520-633-1234

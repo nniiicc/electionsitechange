@@ -1,8 +1,30 @@
 [
-"https://facebook.com/WILiberty1776",
-"https://votesortwell.com/",
-"https://votesortwell.com/about-1",
-"https://votesortwell.com/donate",
-"https://votesortwell.com/get-involved",
-"https://votesortwell.com/issues"
+{
+"text": "DONATE",
+"href": "https://www.votesortwell.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votesortwell.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votesortwell.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votesortwell.com/about-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.votesortwell.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WILiberty1776"
+},
+{
+"text": "votesortwell@gmail.com",
+"href": "mailto:votesortwell@gmail.com"
+}
 ]

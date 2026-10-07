@@ -1,6 +1,4 @@
-Previous
-Previous
-Leveraging Distributed Power Plants To Lower Costs — Local Energy Rules Podcast (12/25)
-Next
-Next
-Written By Larry Kraft
+0 Skip to Content Vote Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Open Menu Close Menu Vote Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Open Menu Close Menu Folder: Vote Back Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Reps.
+Kraft and Youakim bring constituents to STEP van after call for donations (11/25) Nov 29 Written By Larry Kraft Link to article Larry Kraft Previous Previous Leveraging Distributed Power Plants To Lower Costs — Local Energy Rules Podcast (12/25) Next Next My MinnPost Op-ed: Big Oil should pay for making life more expensive in Minnesota (10/25) I'd love to connect and hear your ideas about our community! email: larrykraftslp@gmail.com phone/text: 952-715-7535 DONATE Prepared and paid for by the Committee to Elect Larry Kraft, P.O.
+Box 16522, St.
+Louis Park, MN 55416.

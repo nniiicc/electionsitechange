@@ -1,21 +1,6 @@
-Priorities
-Affordability
-Helping families do more with what they earn
-- Affordable housing and first-time home buyer incentives
-- Lower healthcare costs and expansion of Medicaid
-- Education funding that prepares every child without drowning families in debt
-- Real solutions to the rising costs of gas and groceries
-Opportunity
-Building an Economy That Works for You
-- A meaningful increase to Georgia’s minimum wage
-- Investment in Georgia’s infrastructure, proud farming heritage, and rural communities
-- Green jobs and clean energy industries that build our future economy
-- Workforce development and pathways to careers that pay
-- Local hiring pipelines tied to new industry and technical education
-Community
-Protecting and Strengthening Where We Live
-- Public health infrastructure that keeps our families well
-- Public safety built on trust, training, and community partnership
-- Mental health services because the mind matters as much as the body
-- Libraries, parks, recreation centers, and green trails for all ages
-- Transparency in zoning and development decisions
+Friends to Elect Eric Lee PO Box 26, Oxford, GA 30054 info@ericleeforsenate.com Home About Priorities Volunteer Donate ☰ Donate Priorities Affordability Helping families do more with what they earn Affordable housing and first-time home buyer incentives Lower healthcare costs and expansion of Medicaid Education funding that prepares every child without drowning families in debt Real solutions to the rising costs of gas and groceries Opportunity Building an Economy That Works for You A meaningful increase to Georgia’s minimum wage Investment in Georgia’s infrastructure, proud farming heritage, and rural communities Green jobs and clean energy industries that build our future economy Workforce development and pathways to careers that pay Local hiring pipelines tied to new industry and technical education Community Protecting and Strengthening Where We Live Public health infrastructure that keeps our families well Public safety built on trust, training, and community partnership Mental health services because the mind matters as much as the body Libraries, parks, recreation centers, and green trails for all ages Transparency in zoning and development decisions Donate Contact info@ericleeforgeorgia.com Mail Paid for by Friends to Elect Eric Lee PO Box 26, Oxford, GA 30054 Connect By providing your phone number and/or email address, you consent to receive campaign updates, donation requests, volunteer opportunities, and informational communications from Friends to Elect Eric Lee via email, phone call, and text message.
+Message and data rates may apply.
+Message frequency may vary.
+Reply STOP to opt out of text messages at any time. © # Friends to Elect Eric Lee.
+All rights reserved.
+Privacy Policy | Terms of Use

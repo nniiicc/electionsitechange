@@ -1,36 +1,30 @@
-News Articles on the U.S.
-Congressional Race AR District 1
-Recent Interviews and Articles:
-Incumbent, two challengers vie to represent Arkansas’ 1st District in U.S.
+0 Skip to Content About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Inflation Regulation Tariffs Fed Reform USMCA More Topics Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate Open Menu Close Menu About Platform Folder: Inflation Back Regulation Tariffs Fed Reform USMCA Folder: More Topics Back Immigration Social Security World Police Prison Reform Gym Training for Libertarians News Articles Cut Federal Agencies Debate News Articles on the U.S.
+Congressional Race AR District 1 Recent Interviews and Articles: Incumbent, two challengers vie to represent Arkansas’ 1st District in U.S.
 House | The Arkansas Democrat-Gazette - Arkansas' Best News Source This Sept 2026 article considers the positions of the 3 candidates.
 Parsons: “I want voters to have an option besides the hyperpartisan two-party choices that have a stranglehold on American politics." The United States has been "a puppet of Israel" "Everybody has the right to defend their borders.
-This is beyond defense,"
-OPINION | STEVE G.
-PARSONS: Hit or myth? | The Arkansas Democrat-Gazette - Arkansas' Best News Source.
+This is beyond defense," OPINION | STEVE G.
+PARSONS: Hit or myth? | The Arkansas Democrat-Gazette - Arkansas' Best News Source .
 This 2025 article tackles misrepresentation in the original April 2025 “Liberation Day” international tariffs.
 Those tariffs are not designed to counter “cheating” or account for other countries tariffs - regardless of the misleading rhetoric by Trump.
-2024 Articles:
-Political Interview with Dr.
+2024 Articles: ‍ ‍ Political Interview with Dr.
 Steve Parsons 10292024.mp4 KLEK interview October 29, 2024.
 This 20-minute interview covered: my background, Inflation (regulation and the 1920 Jones Act), World Police, Immigration, Health and Abortion (including a recap of calling Congressman Crawford a hypocrite), Social Security Fixes, and why people should vote for me.
-Yahoo news Arkansas congressional challengers compete with incumbents’ millions through direct voter contact (yahoo.com) “… big government, hyperpartisan, march in lockstep with party leadership and regurgitating the party line — people are tired of that — you can send a signal by saying let me vote libertarian and business as usual is no longer acceptable,” Parsons said.
+Yahoo news Arkansas congressional challengers compete with incumbents’ millions through direct voter contact (yahoo.com) “… big government, hyperpartisan, march in lockstep with party leadership and regurgitating the party line — people are tired of that — you can send a signal by saying let me vote libertarian and business as usual is no longer acceptable ,” Parsons said.
 Congressional candidates challenge Crawford over leadership, record during debate | The Arkansas Democrat-Gazette - Arkansas' Best News Source (arkansasonline.com) Getting 4% of total votes in next month's election, should "send a message that business as usual, big government as usual is no longer acceptable." "You can't do that by voting for Mr.
-Govens because it's going to be lost in the 22 to 25% of the vote that he is going to get," Parsons said. [Regarding the Crawford Pay raise lawsuit] “Parsons said he would not have signed onto the lawsuit, promising to donate his salary to philanthropic causes in the district if elected to Congress.” Parsons contended the United States does not have a constitutional authority to serve as the "world's charity" and "world's police." He further proposed eliminating FEMA, arguing the agency subsidizes people for living in areas susceptible to natural disasters.
+Govens because it's going to be lost in the 22 to 25% of the vote that he is going to get," Parsons said. [Regarding the Crawford Pay raise lawsuit] “Parsons said he would not have signed onto the lawsuit, promising to donate his salary to philanthropic causes in the district if elected to Congress.” Parsons contended the United States does not have a constitutional authority to serve as the "world's charity" and "world's police ." He further proposed eliminating FEMA, arguing the agency subsidizes people for living in areas susceptible to natural disasters.
 CD1: Candidates spar over abortion, farm bill, Israel and immigration - Talk Business & Politics Parsons challenged Crawford telling the seven-term congressman that he co-sponsored anti-abortion bills even if they were never voted upon.
-To Crawford “I’m calling you a hypocrite,” Parsons said.
+To Crawford “I’m calling you a hypocrite, ” Parsons said.
 Streamlining the immigration process is one step that could be taken and another would be to sign a deal with Mexico to take back those criminally convicted, Parsons said.
 Ending tariff wars with other countries would make their economies stronger and people would be less likely to want to move, he added.
 Crawford faces 2 challengers in 1st District U.S.
 House election | The Arkansas Democrat-Gazette - Arkansas' Best News Source (arkansasonline.com) "If there's a problem, it's far more likely the federal government's part of the problem and not part of the solution," he said.
 “The U.S.
-Constitution demands, in essence, the federal government is narrow in its scope and it is small."
-Parsons referenced one area that needs Crawford's leadership: the repeal the Jones Act, a 1920 law limiting shipping between U.S. ports to vessels owned and managed by Americans.
-"This should be one that's right in his wheelhouse," Parsons said. … it's a really big one and it has a meaningful cost on the United States, …”
-Arkansas Online “If you think you can run your life better than the federal government, we can send a message” he said.
+Constitution demands, in essence, the federal government is narrow in its scope and it is small." Parsons referenced one area that needs Crawford's leadership: the repeal the Jones Act, a 1920 law limiting shipping between U.S. ports to vessels owned and managed by Americans.
+"This should be one that's right in his wheelhouse," Parsons said. … i t's a really big one and it has a meaningful cost on the United States , …” Arkansas Online “If you think you can run your life better than the federal government, we can send a message” he said.
 “If you’re tired of hyper partisan bickering, tired of pro-wrestling style political theatre, we can send a message.” he added.
 Parsons promised to donate his salary to philanthropic causes in the district if elected.
-District 1 candidates face off in ASU-TV’s 2024 election debate – THE HERALD (astatetheherald.com) Parsons’ platform focuses on reducing inflation by eliminating trade tariffs, cutting federal regulations and lowering federal spending.
+District 1 candidates face off in ASU-TV’s 2024 election debate – THE HERALD (astatetheherald.com) Parsons’ platform focuses on reducing inflation by eliminating trade tariffs, cutting federal regulations and lowering federal spending .
 He advocates for immigration reform to reduce bureaucracy and eliminate tariffs on Latin American goods and services.
-Parsons supports prison reform, particularly for nonviolent offenses “Parsons said it’s important to create a pathway for legal permanent residency and work permits for undocumented workers in his discussion on immigration.” The Herald Oct. 9 Edition – THE HERALD (astatetheherald.com)
-Arkansas District 1 & 3 congressional candidates square off in debate, salary, FEMA, health care discussed (msn.com) “FEMA is highly political, so where the dollars go is political, … More importantly, it distorts decisions about where people live and what they do.
-FEMA money disproportionately goes to areas that have high wealth areas.”
+Parsons supports prison reform, particularly for nonviolent offenses “Parsons said it’s important to create a pathway for legal permanent residency and work permits for undocumented workers in his discussion on immigration.” The Herald Oct.
+9 Edition – THE HERALD (astatetheherald.com) Arkansas District 1 & 3 congressional candidates square off in debate, salary, FEMA, health care discussed (msn.com) “FEMA is highly political, so where the dollars go is political, … More importantly, it distorts decisions about where people live and what they do.
+FEMA money disproportionately goes to areas that have high wealth areas.” Information Home About Platform Get in Touch Cut Inflation Cut Regulation s The Power of Trade: Tariffs and Trade Restrictions Federal Reserve Reform US-Mexico-Canada-A greement More Topics Immigration Reform Social Security Stop Being the World Charity and the World Police Incarceration, Substance Abuse and Mental Health Reform Gym Training for Libertarians 2024 Debate s

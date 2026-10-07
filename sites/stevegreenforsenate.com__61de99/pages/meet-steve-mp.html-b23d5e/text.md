@@ -1,4 +1,4 @@
-I was born and raised in Fosston, on a farm in the northwest corner of Minnesota.
+Home Issues Meet Steve Gallery Contact Donate Donate MEET STEVE I was born and raised in Fosston, on a farm in the northwest corner of Minnesota.
 I graduated from Fosston High School in 1978 and went on to the Detroit Lakes Area Vocational Technical Institute, where I trained in auto body work.
 That mix of farm background and hands-on trade shaped how I've thought about work, and about government, ever since.
 In 1981, I took over Lakeland Greenhouse, the family business my parents had started in 1973.
@@ -16,7 +16,7 @@ The work in St.
 Paul is the same as the work of running a farm, a greenhouse, or a small business.
 You keep your books straight, you don't spend money you don't have, and you answer to the people who trusted you with it.
 That's the standard I've held state government to since the day I was sworn in, and it's the standard I'll keep holding it to.
-LEADERSHIP THAT WORKS FOR GREATER MINNESOTA
-We can hold state government accountable for how it spends every dollar.
+LEADERSHIP THAT WORKS FOR GREATER MINNESOTA W﻿e can hold state government accountable for how it spends every dollar.
 We can stop the mandates and regulations crush families and businesses up north.
 We can build a Minnesota our kids and grandkids can build a future in.
+DONATE GET INVOLVED Prepared and paid for by the Committee to Elect Steve Green Scripts - Get Informed - Contact - Donate ﻿

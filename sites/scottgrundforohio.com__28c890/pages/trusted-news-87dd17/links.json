@@ -1,20 +1,74 @@
 [
-"https://blueamp.substack.com/",
-"https://campaignpartner.com/",
-"https://honestyforohioeducation.org/",
-"https://muellershewrote.com/",
-"https://ohiocapitaljournal.com/",
-"https://scottgrundforohio.com/",
-"https://scottgrundforohio.com/contact",
-"https://scottgrundforohio.com/events",
-"https://scottgrundforohio.com/home",
-"https://scottgrundforohio.com/issues",
-"https://scottgrundforohio.com/meet_scott",
-"https://scottgrundforohio.com/news",
-"https://scottgrundforohio.com/photos",
-"https://scottgrundforohio.com/volunteer",
-"https://scottgrundforohio.com/vote",
-"https://scottgrundforohio.com/yard-sign",
-"https://scottgrundforohio.substack.com/",
-"https://signalohio.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://scottgrundforohio.com/contact"
+},
+{
+"text": "Events",
+"href": "https://scottgrundforohio.com/events"
+},
+{
+"text": "Home",
+"href": "https://scottgrundforohio.com/home"
+},
+{
+"text": "Issues",
+"href": "https://scottgrundforohio.com/issues"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottgrundforohio.com/meet_scott"
+},
+{
+"text": "NEWS!!",
+"href": "https://scottgrundforohio.com/news"
+},
+{
+"text": "Photos",
+"href": "https://scottgrundforohio.com/photos"
+},
+{
+"text": "SignalOhio.org",
+"href": "https://signalohio.org"
+},
+{
+"text": "THE BREAKDOWN",
+"href": "https://muellershewrote.com"
+},
+{
+"text": "Visit my Substack publication",
+"href": "https://scottgrundforohio.substack.com"
+},
+{
+"text": "Volunteer",
+"href": "https://scottgrundforohio.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://scottgrundforohio.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://scottgrundforohio.com/yard-sign"
+},
+{
+"text": "[image: Scott Grund For Ohio House Dist. 98]",
+"href": "https://scottgrundforohio.com/"
+},
+{
+"text": "https://Ohiocapitaljournal.com",
+"href": "https://ohiocapitaljournal.com"
+},
+{
+"text": "https://blueamp.substack.com",
+"href": "https://blueamp.substack.com"
+},
+{
+"text": "https://honestyforohioeducation.org",
+"href": "https://honestyforohioeducation.org"
+}
 ]

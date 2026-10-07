@@ -1,18 +1,5 @@
-Endorsements
-These are the organizations that have endorsed us.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Endorsements These are the organizations that have endorsed us.
 Most of them are people who show up and do work our community depends on—in the trades, in classrooms, in hospitals, and in fire halls.
 I’m grateful for their trust.
-Skip to content
-Endorsements
-These are the organizations that have endorsed us.
-Most of them are people who show up and do work our community depends on—in the trades, in classrooms, in hospitals, and in fire halls.
-I’m grateful for their trust.
-Building Trades
-Public Service and First Responders
-Agriculture
-Educators
-Health Care and Social Work
-Working Minnesotans
-Conservation and the Outdoors
-Community Caucuses
-Advocacy
+Building Trades IUOE Local 49 Minnesota Pipe Trades Association IBEW Minnesota State Council IBEW Local 292 SMART Local 10 LiUNA Public Service and First Responders Minnesota Professional Fire Fighters AFSCME Council 5 MAPE AFSCME Council 65 Agriculture Minnesota Farmers Union Minnesota Farm Bureau Educators Education Minnesota Inter Faculty Organization Health Care and Social Work Minnesota Nurses Association SEIU Minnesota State Council National Association of Social Workers, Minnesota Chapter Working Minnesotans Minnesota AFL-CIO UFCW Teamsters Joint Council 32 Conservation and the Outdoors Conservation Minnesota Voter Center Save the Boundary Waters Action Fund Clean Water Action Community Caucuses Veterans and Military Families Caucus Minnesota Young DFL DFL Rural Caucus DFL Senior Caucus Advocacy Moms Demand Action Progressive Turnout Project Greater Than PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

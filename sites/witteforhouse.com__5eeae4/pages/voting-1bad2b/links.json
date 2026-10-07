@@ -1,21 +1,82 @@
 [
-"https://facebook.com/witteforhouse",
-"https://gis.lcc.mn.gov/pdf/leg2022/house/57B.pdf",
-"https://gis.lcc.mn.gov/redist2020/Legislative/L2022/house/interactive/map.html",
-"https://witteforhouse.com/",
-"https://witteforhouse.com/about",
-"https://witteforhouse.com/articles",
-"https://witteforhouse.com/bills",
-"https://witteforhouse.com/contact",
-"https://witteforhouse.com/donate",
-"https://witteforhouse.com/endorsements",
-"https://witteforhouse.com/events",
-"https://witteforhouse.com/issues",
-"https://witteforhouse.com/photos",
-"https://witteforhouse.com/priorities-survey",
-"https://witteforhouse.com/testimonials",
-"https://witteforhouse.com/videos",
-"https://witteforhouse.com/voting",
-"https://youtube.com/@JeffWitte57B",
-"https://youtube.com/@jeffwitteforminnesotahouse5157"
+{
+"text": "About",
+"href": "https://witteforhouse.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://witteforhouse.com/articles/"
+},
+{
+"text": "Bills",
+"href": "https://witteforhouse.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://witteforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://witteforhouse.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://witteforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://witteforhouse.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/witteforhouse/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@JeffWitte57B"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@jeffwitteforminnesotahouse5157"
+},
+{
+"text": "Home",
+"href": "https://witteforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://witteforhouse.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://witteforhouse.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://witteforhouse.com/priorities-survey/"
+},
+{
+"text": "Testimonials",
+"href": "https://witteforhouse.com/testimonials/"
+},
+{
+"text": "Videos",
+"href": "https://witteforhouse.com/videos/"
+},
+{
+"text": "Voting",
+"href": "https://witteforhouse.com/voting/"
+},
+{
+"text": "[image: House District 57B]",
+"href": "https://www.gis.lcc.mn.gov/pdf/leg2022/house/57B.pdf"
+},
+{
+"text": "[image: Re-Elect Jeff Witte 57B]",
+"href": "https://witteforhouse.com/"
+},
+{
+"text": "here",
+"href": "https://www.gis.lcc.mn.gov/redist2020/Legislative/L2022/house/interactive/map.html"
+}
 ]

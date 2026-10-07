@@ -1,4 +1,4 @@
-MOLINE – After 21 years as a school nurse, you think you’ve seen it all until a diabetic student suffers from a severe hypoglycemic episode and you have to choose between what is morally right and what is legally right.
+Toggle navigation Skip to content Take Our Survey News Get Involved Voting Resources About Mike Issues Donate Events Contact Vote Halpin Posted on September 9, 2022 by Mike Halpin Jennifer Jacobs’, story: MOLINE – After 21 years as a school nurse, you think you’ve seen it all until a diabetic student suffers from a severe hypoglycemic episode and you have to choose between what is morally right and what is legally right.
 That was my reality in 2018.
 The treatment was within reach, but medication — glucagon — belonged to a different student.
 Despite it not being legal to administer another student’s medication, I did what I knew I had to: save this student’s life.
@@ -11,5 +11,9 @@ He proved he doesn’t just represent our community, he listens to our community
 He isn’t just another politician who makes claims and doesn’t follow through.
 He does the right thing and leads by example.
 Through his unwavering support of helping and prioritizing our students, he gained my full support to be our next state senator.
-The Nov. 8 election is coming up!
+The Nov.
+8 election is coming up!
 We need Mike Halpin to represent us in Springfield — because Mike Halpin cares.
+Bookmark the permalink .
+Post navigation ← Halpin applauds Lane Evans VA expansion in Galesburg Early Voting → Recent Posts Vote Halpin Early Voting Vote Halpin Halpin applauds Lane Evans VA expansion in Galesburg SENATOR HALPIN: EXPANDING MENTAL, BEHAVIORAL HEALTH WORKFORCE TO MEET ILLINOIS’ NEEDS Pages Get Involved About Mike Issues Donate State Senator Halpin Wants To Hear From You!
+Privacy Policy Visit the ILGA.Gov website to view Legislative and Contact information. [email protected] facebook.com/halpinforillinois 309.553.1429 © # Mike Halpin Privacy Policy

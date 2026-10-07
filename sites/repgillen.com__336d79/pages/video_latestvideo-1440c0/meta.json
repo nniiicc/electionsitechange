@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.repgillen.com/video/latestvideo",
- "paid_for_by": null,
+ "fingerprint": "326542f3a0c85033fb11ea7a21d5235b2172f211",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Latest Videos | PA State Rep. Mark Gillen",
  "years_mentioned": [
+  "2004",
+  "2020",
   "2021"
  ]
 }

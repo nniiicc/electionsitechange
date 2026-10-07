@@ -1,4 +1,4 @@
-Alec was born in Moscow to a shoemaker and a bookkeeper who worked at a beauty salon before emigrating to Brooklyn.
+Home About Issues Contact Us Donate More Home About Issues Contact Us Donate Home About Issues Contact Us Donate About ALEC: About Alec Brook-Krasny: Alec was born in Moscow to a shoemaker and a bookkeeper who worked at a beauty salon before emigrating to Brooklyn.
 Speaking only a handful of English words, he became a stock person at an East Village shoe store in Manhattan before being promoted to manager.
 He enjoyed much success in the private sector, including being named “Entrepreneur of the Year” by Leisure and Entertainment magazine for his work building the Fun-O-Rama community, entertainment, and educational center.
 After first running for state Assembly in 2000, and setting a record for write-in votes in the City of New York with 1,800 votes, Alec was first elected to the state Assembly in 2006, and represented Coney Island, Bay Ridge, and Dyker Heights.
@@ -10,5 +10,4 @@ Prior to his time in office, Alec attended the Moscow Technological Institute an
 Alec was also appointed to Community Board 13 and became active in local politics.
 As such, he founded the Council of Jewish Émigré Community Organizations to bridge the gap between the Jewish-American and the Russian-Jewish communities.
 Now in his second stint as an Assemblymember, Alec Brook-Krasny has fought to restore funding to the New York City Police Department, rebuild our criminal justice system, reverse bail reform, lift struggling schools, support small businesses, and help the middle class recover from the economic downturn.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Connect With Us Paid for by ABK FOR ASSEMBLY Home About Issues Contact Us Donate Powered by

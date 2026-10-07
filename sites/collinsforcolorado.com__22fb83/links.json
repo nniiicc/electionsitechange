@@ -1,19 +1,138 @@
 [
-"https://collinsforcolorado.com/",
-"https://collinsforcolorado.com/about",
-"https://collinsforcolorado.com/cart",
-"https://collinsforcolorado.com/contact",
-"https://collinsforcolorado.com/endorsements",
-"https://collinsforcolorado.com/gallery",
-"https://collinsforcolorado.com/get-involved",
-"https://collinsforcolorado.com/issues",
-"https://collinsforcolorado.com/privacy",
-"https://collinsforcolorado.com/volunteer",
-"https://facebook.com/Teddy.Collins.III",
-"https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today",
-"https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=100",
-"https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=250",
-"https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=450",
-"https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=50",
-"https://x.com/collinsforco"
+{
+"text": "$100",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=250"
+},
+{
+"text": "$450",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=450"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.collinsforcolorado.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.collinsforcolorado.com/about"
+},
+{
+"text": "About Teddy",
+"href": "https://www.collinsforcolorado.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.collinsforcolorado.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.collinsforcolorado.com/contact"
+},
+{
+"text": "CollinsForColorado.com/Privacy",
+"href": "https://www.collinsforcolorado.com/privacy"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.collinsforcolorado.com/endorsements"
+},
+{
+"text": "Folder: GET INVOLVED",
+"href": "https://www.collinsforcolorado.com/get-involved"
+},
+{
+"text": "GALLERY",
+"href": "https://www.collinsforcolorado.com/gallery"
+},
+{
+"text": "ISSUES",
+"href": "https://www.collinsforcolorado.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues#local-control"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues#public-safety"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues#small-business"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#2-a"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#affordability"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#crime"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#energy"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#taxes"
+},
+{
+"text": "Learn More",
+"href": "https://www.collinsforcolorado.com/issues/#water-rights"
+},
+{
+"text": "Learn more",
+"href": "https://www.collinsforcolorado.com/issues#education"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/collins-for-colorado-4b35b0c0/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.collinsforcolorado.com/privacy"
+},
+{
+"text": "Teddy@CollinsforColorado.com",
+"href": "mailto:Teddy@CollinsforColorado.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.collinsforcolorado.com/volunteer"
+},
+{
+"text": "View All Issues",
+"href": "https://www.collinsforcolorado.com/issues"
+},
+{
+"text": "[image: Teddy Collins for SD4]",
+"href": "https://www.collinsforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Teddy.Collins.III"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/collinsforco"
+},
+{
+"text": "teddy@collinsforcolorado.com",
+"href": "mailto:teddy@collinsforcolorado.com"
+}
 ]

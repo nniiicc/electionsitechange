@@ -1,11 +1,1 @@
-Restoring trust in our government
-Signed in as:
-filler@godaddy.com
-Sign out
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Full speech from the event.
-Blog Series from both our Lead Content Manager, Jessica Avant Grey and James "Rus" Russell himself (author indicated per title).
-Copyright © 2026 James Russell For Arkansas - All Rights Reserved.
+Restoring trust in our government Home About James On the Issues Contact Blog & Media Privacy Policy More Home About James On the Issues Contact Blog & Media Privacy Policy Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About James On the Issues Contact Blog & Media Privacy Policy Account My Account Sign out Sign In My Account *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** Videos 50 Days of Shame event, July 12, 2025 Full speech from the event. *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** Campaign Commmentaries Blog Series from both our Lead Content Manager, Jessica Avant Grey and James "Rus" Russell himself (author indicated per title). *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** *** DONATE NOW FOR A BETTER ARKANSAS *** Copyright © # James Russell For Arkansas - All Rights Reserved.

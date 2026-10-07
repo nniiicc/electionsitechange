@@ -1,42 +1,290 @@
 [
-"https://facebook.com/JaredDuvalVT",
-"https://instagram.com/jaredduvalvt",
-"https://instagram.com/p/DY0nYvClEYl",
-"https://jaredduvalvt.com/",
-"https://jaredduvalvt.com/about",
-"https://jaredduvalvt.com/cart",
-"https://jaredduvalvt.com/contact",
-"https://jaredduvalvt.com/endorsements",
-"https://jaredduvalvt.com/events",
-"https://jaredduvalvt.com/get-involved",
-"https://jaredduvalvt.com/home",
-"https://jaredduvalvt.com/news",
-"https://jaredduvalvt.com/news/0yke08fxj3zzaxnmi88wpnvs58ftr8",
-"https://jaredduvalvt.com/news/2nd-state-senate-candidate-forum-hosted-by-vt-interfaith-action-via-rstsx",
-"https://jaredduvalvt.com/news/6fnk2lsgf6ofi0q7tzr3gxqyjmp0mt",
-"https://jaredduvalvt.com/news/9exziy7w39bsliw0uqqy86lf3tnvqx",
-"https://jaredduvalvt.com/news/campaign-announcement-coverage-in-the-bridge",
-"https://jaredduvalvt.com/news/campaign-announcement-full-remarks",
-"https://jaredduvalvt.com/news/commentary-by-jared-a-fairer-tax-system-can-make-vermont-more-affordable-for-all",
-"https://jaredduvalvt.com/news/commentary-by-jared-the-federal-government-is-slashing-funding-vermont-relies-on-while-giving-57000-tax-cuts-to-the-top-1nbsp",
-"https://jaredduvalvt.com/news/commentary-by-jared-vermont-can-have-tax-relief-without-sacrificing-public-education",
-"https://jaredduvalvt.com/news/commentary-by-jared-why-fossil-fuels-are-not-the-answer-on-affordability",
-"https://jaredduvalvt.com/news/commentary-natural-disaster-try-fossil-fueled-disaster",
-"https://jaredduvalvt.com/news/first-state-senate-candidate-forum-video-amp-results-f2n69",
-"https://jaredduvalvt.com/news/g142y3xbjbm7ny1s81b3ov8m7ou79d",
-"https://jaredduvalvt.com/news/gt6p7uywwlzps75f892d0j1k5txseo",
-"https://jaredduvalvt.com/news/ifd9fo252ab2f47u7zsur9uk3y0jr3",
-"https://jaredduvalvt.com/news/press-release-duval-for-state-senate-campaign-announces-more-than-50-endorsements-most-small-donors-8mf49",
-"https://jaredduvalvt.com/news/press-release-jared-duval-to-hold-listening-tour-in-all-23-towns-amp-cities-in-washington-senate-district-nxktl",
-"https://jaredduvalvt.com/news/thank-you-a-post-primary-letter-zte3g",
-"https://jaredduvalvt.com/news/vtdigger-launches-election-guide-2022-sdmag",
-"https://jaredduvalvt.com/news?offset=1656598500077",
-"https://jaredduvalvt.com/on-the-issues",
-"https://secure.actblue.com/donate/jared-duval-1",
-"https://timesargus.com/opinion/commentary/duval-fossil-fuels-not-affordability-answer/article_54eeaca0-d8eb-11ef-aa06-b7bb8071e377.html",
-"https://vermontbiz.com/news/2023/may/02/duval-we-need-both-expanded-childcare-and-child-tax-credit-not-one-or-other",
-"https://vermontbiz.com/news/2024/november/18/con-hogan-awardee-jared-duval-good-data-should-inform-public-policy",
-"https://vtdigger.org/2023/07/28/jared-duval-natural-disaster-try-fossil-fueled-disaster",
-"https://waterburyroundabout.org/opinion-archive/op-ed-vermont-can-have-tax-relief-without-sacrificing-public-education",
-"https://youtube.com/@jaredduvalvt5365"
+{
+"text": "0",
+"href": "https://www.jaredduvalvt.com/cart"
+},
+{
+"text": "2nd State Senate Candidate Forum Hosted by VT Interfaith Action (VIA)",
+"href": "https://www.jaredduvalvt.com/news/2nd-state-senate-candidate-forum-hosted-by-vt-interfaith-action-via-rstsx"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "BACK TO TOP",
+"href": "https://www.jaredduvalvt.com/home"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jaredduvalvt.com/contact"
+},
+{
+"text": "Campaign Announcement Coverage in The Bridge",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-coverage-in-the-bridge"
+},
+{
+"text": "Campaign Announcement: Full Remarks",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-full-remarks"
+},
+{
+"text": "Commentary by Jared on Childcare and the Child Tax Credit",
+"href": "https://vermontbiz.com/news/2023/may/02/duval-we-need-both-expanded-childcare-and-child-tax-credit-not-one-or-other"
+},
+{
+"text": "Commentary by Jared: A Fairer Tax System Can Make Vermont More Affordable For All",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-a-fairer-tax-system-can-make-vermont-more-affordable-for-all"
+},
+{
+"text": "Commentary by Jared: Natural Disaster? Try Fossil Fueled Disaster",
+"href": "https://vtdigger.org/2023/07/28/jared-duval-natural-disaster-try-fossil-fueled-disaster/"
+},
+{
+"text": "Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1%",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-the-federal-government-is-slashing-funding-vermont-relies-on-while-giving-57000-tax-cuts-to-the-top-1nbsp"
+},
+{
+"text": "Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education",
+"href": "https://www.waterburyroundabout.org/opinion-archive/op-ed-vermont-can-have-tax-relief-without-sacrificing-public-education"
+},
+{
+"text": "Commentary by Jared: Why Fossil Fuels Are Not The Answer on Affordability",
+"href": "https://www.timesargus.com/opinion/commentary/duval-fossil-fuels-not-affordability-answer/article_54eeaca0-d8eb-11ef-aa06-b7bb8071e377.html"
+},
+{
+"text": "Con Hogan Awardee Jared Duval: Good Data Should Inform Public Policy",
+"href": "https://vermontbiz.com/news/2024/november/18/con-hogan-awardee-jared-duval-good-data-should-inform-public-policy"
+},
+{
+"text": "Democrats set to narrow field in Montpelier legislative race (Article in Times Argus)",
+"href": "https://www.jaredduvalvt.com/news/6fnk2lsgf6ofi0q7tzr3gxqyjmp0mt"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jared-duval-1"
+},
+{
+"text": "Duval, McCann finish 1-2 punch in Montpelier House race (Article in Times Argus)",
+"href": "https://www.jaredduvalvt.com/news/ifd9fo252ab2f47u7zsur9uk3y0jr3"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredduvalvt.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jaredduvalvt.com/events"
+},
+{
+"text": "First State Senate Candidate Forum (Video & Results)",
+"href": "https://www.jaredduvalvt.com/news/first-state-senate-candidate-forum-video-amp-results-f2n69"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredduvalvt.com/get-involved"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredduvalvt.com/about"
+},
+{
+"text": "News",
+"href": "https://www.jaredduvalvt.com/news"
+},
+{
+"text": "Older Posts",
+"href": "https://www.jaredduvalvt.com/news?offset=1656598500077"
+},
+{
+"text": "On the Issues",
+"href": "https://www.jaredduvalvt.com/on-the-issues"
+},
+{
+"text": "Press Release: Duval for State Senate campaign announces more than 50 endorsements; most small donors",
+"href": "https://www.jaredduvalvt.com/news/press-release-duval-for-state-senate-campaign-announces-more-than-50-endorsements-most-small-donors-8mf49"
+},
+{
+"text": "Press Release: Jared Duval to Hold Listening Tour in all 23 Towns & Cities in Washington Senate District",
+"href": "https://www.jaredduvalvt.com/news/press-release-jared-duval-to-hold-listening-tour-in-all-23-towns-amp-cities-in-washington-senate-district-nxktl"
+},
+{
+"text": "Q&A: Candidates on Affordability and Homelessness (Article in the Bridge)",
+"href": "https://www.jaredduvalvt.com/news/gt6p7uywwlzps75f892d0j1k5txseo"
+},
+{
+"text": "Read More",
+"href": "https://vermontbiz.com/news/2023/may/02/duval-we-need-both-expanded-childcare-and-child-tax-credit-not-one-or-other"
+},
+{
+"text": "Read More",
+"href": "https://vermontbiz.com/news/2024/november/18/con-hogan-awardee-jared-duval-good-data-should-inform-public-policy"
+},
+{
+"text": "Read More",
+"href": "https://vtdigger.org/2023/07/28/jared-duval-natural-disaster-try-fossil-fueled-disaster/"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/0yke08fxj3zzaxnmi88wpnvs58ftr8"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/2nd-state-senate-candidate-forum-hosted-by-vt-interfaith-action-via-rstsx"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/6fnk2lsgf6ofi0q7tzr3gxqyjmp0mt"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-coverage-in-the-bridge"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-full-remarks"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-a-fairer-tax-system-can-make-vermont-more-affordable-for-all"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-the-federal-government-is-slashing-funding-vermont-relies-on-while-giving-57000-tax-cuts-to-the-top-1nbsp"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/first-state-senate-candidate-forum-video-amp-results-f2n69"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/g142y3xbjbm7ny1s81b3ov8m7ou79d"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/gt6p7uywwlzps75f892d0j1k5txseo"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/ifd9fo252ab2f47u7zsur9uk3y0jr3"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/press-release-duval-for-state-senate-campaign-announces-more-than-50-endorsements-most-small-donors-8mf49"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/press-release-jared-duval-to-hold-listening-tour-in-all-23-towns-amp-cities-in-washington-senate-district-nxktl"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/thank-you-a-post-primary-letter-zte3g"
+},
+{
+"text": "Read More",
+"href": "https://www.jaredduvalvt.com/news/vtdigger-launches-election-guide-2022-sdmag"
+},
+{
+"text": "Read More",
+"href": "https://www.timesargus.com/opinion/commentary/duval-fossil-fuels-not-affordability-answer/article_54eeaca0-d8eb-11ef-aa06-b7bb8071e377.html"
+},
+{
+"text": "Read More",
+"href": "https://www.waterburyroundabout.org/opinion-archive/op-ed-vermont-can-have-tax-relief-without-sacrificing-public-education"
+},
+{
+"text": "Thank You - A Post-Primary Letter",
+"href": "https://www.jaredduvalvt.com/news/thank-you-a-post-primary-letter-zte3g"
+},
+{
+"text": "The Race for Montpelier: Meet the House Candidates (Article in The Bridge)",
+"href": "https://www.jaredduvalvt.com/news/0yke08fxj3zzaxnmi88wpnvs58ftr8"
+},
+{
+"text": "VTDigger Launches Election Guide 2022",
+"href": "https://www.jaredduvalvt.com/news/vtdigger-launches-election-guide-2022-sdmag"
+},
+{
+"text": "Washington County Incumbents Win Senate Primary; Duval, McCann Advance in House Race (Article in The Bridge)",
+"href": "https://www.jaredduvalvt.com/news/g142y3xbjbm7ny1s81b3ov8m7ou79d"
+},
+{
+"text": "[image: Campaign Announcement Coverage in The Bridge]",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-coverage-in-the-bridge"
+},
+{
+"text": "[image: Campaign Announcement: Full Remarks]",
+"href": "https://www.jaredduvalvt.com/news/campaign-announcement-full-remarks"
+},
+{
+"text": "[image: Commentary by Jared on Childcare and the Child Tax Credit]",
+"href": "https://www.jaredduvalvt.com/news/9exziy7w39bsliw0uqqy86lf3tnvqx"
+},
+{
+"text": "[image: Commentary by Jared: A Fairer Tax System Can Make Vermont More Affordable For All]",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-a-fairer-tax-system-can-make-vermont-more-affordable-for-all"
+},
+{
+"text": "[image: Commentary by Jared: Natural Disaster? Try Fossil Fueled Disaster]",
+"href": "https://www.jaredduvalvt.com/news/commentary-natural-disaster-try-fossil-fueled-disaster"
+},
+{
+"text": "[image: Commentary by Jared: The federal government is slashing funding Vermont relies on, while giving $57,000 tax cuts to the top 1%&nbsp;]",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-the-federal-government-is-slashing-funding-vermont-relies-on-while-giving-57000-tax-cuts-to-the-top-1nbsp"
+},
+{
+"text": "[image: Commentary by Jared: Vermont Can Have Tax Relief Without Sacrificing Public Education]",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-vermont-can-have-tax-relief-without-sacrificing-public-education"
+},
+{
+"text": "[image: Commentary by Jared: Why Fossil Fuels Are Not The Answer on Affordability]",
+"href": "https://www.jaredduvalvt.com/news/commentary-by-jared-why-fossil-fuels-are-not-the-answer-on-affordability"
+},
+{
+"text": "[image: Democrats set to narrow field in Montpelier legislative race (Article in Times Argus)]",
+"href": "https://www.jaredduvalvt.com/news/6fnk2lsgf6ofi0q7tzr3gxqyjmp0mt"
+},
+{
+"text": "[image: Duval, McCann finish 1-2 punch in Montpelier House race (Article in Times Argus)]",
+"href": "https://www.jaredduvalvt.com/news/ifd9fo252ab2f47u7zsur9uk3y0jr3"
+},
+{
+"text": "[image: First State Senate Candidate Forum (Video &amp; Results)]",
+"href": "https://www.jaredduvalvt.com/news/first-state-senate-candidate-forum-video-amp-results-f2n69"
+},
+{
+"text": "[image: Jared for House 2026]",
+"href": "https://www.jaredduvalvt.com/"
+},
+{
+"text": "[image: Press Release: Duval for State Senate campaign announces more than 50 endorsements; most small donors]",
+"href": "https://www.jaredduvalvt.com/news/press-release-duval-for-state-senate-campaign-announces-more-than-50-endorsements-most-small-donors-8mf49"
+},
+{
+"text": "[image: Q&amp;A: Candidates on Affordability and Homelessness (Article in the Bridge) ]",
+"href": "https://www.jaredduvalvt.com/news/gt6p7uywwlzps75f892d0j1k5txseo"
+},
+{
+"text": "[image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km][image: Thank you to all the Montpelier residents who provided your names and signatures to help me qualify for the August 11th primary ballot. Today I submitted your signatures (along with my consent of candidate and financial disclosure form) alongside @km]",
+"href": "https://www.instagram.com/p/DY0nYvClEYl/"
+},
+{
+"text": "[image: The Race for Montpelier: Meet the House Candidates (Article in The Bridge)]",
+"href": "https://www.jaredduvalvt.com/news/0yke08fxj3zzaxnmi88wpnvs58ftr8"
+},
+{
+"text": "[image: Washington County Incumbents Win Senate Primary; Duval, McCann Advance in House Race (Article in The Bridge)]",
+"href": "https://www.jaredduvalvt.com/news/g142y3xbjbm7ny1s81b3ov8m7ou79d"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JaredDuvalVT/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredduvalvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jaredduvalvt5365"
+}
 ]

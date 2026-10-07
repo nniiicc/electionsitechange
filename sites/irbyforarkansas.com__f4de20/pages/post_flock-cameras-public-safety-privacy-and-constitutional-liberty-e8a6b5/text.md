@@ -1,5 +1,4 @@
-Flock Cameras: Public Safety, Privacy, and Constitutional Liberty
-I do not support the use of Flock cameras to create a widespread government surveillance network capable of tracking the movements of law-abiding citizens.
+top of page Contact Donate NEWS & INSIGHTS PRESS RELEASE ANNOUNCEMENTS PERSONAL REFLECTIONS BEHIND THE PLATFORM EVENTS UPCOMING EVENTS INVITE JOSHUA TO YOUR EVENT ABOUT ME MY VALUES MY CIVIC BELIEF MY PLEDGE WHERE I STAND PRO-LOCAL CONTROL PRO-FREEDOM & RESPONSIBILITY PRO-INFRASTRUCTURE GROWTH PRO-2ND AMENDMENT PRO-QUALITY EDUCATION PRO-FAIR ELECTIONS AFP-AR CANDIDATE SURVEY REAL SOLUTIONS Civic Education Act Ballot Measure Rights Amendment Fair & Open Primaries Act Infrastructure Investment & Renewal Act Job Creation & Retention Tax Credit Act Parental Responsibility Act Criminal Firearm Law Enforcement Act Arkansas Firearm Safety Funding Act Health Transparency & Choice Act VOTE VOTER REGISTRATION EARLY VOTING ELECTION DAY All News & Updates Press Release Announcements Personal Reflections Behind the Platform Search Flock Cameras: Public Safety, Privacy, and Constitutional Liberty Sep 4 4 min read I do not support the use of Flock cameras to create a widespread government surveillance network capable of tracking the movements of law-abiding citizens.
 I recognize an important legal reality: when we drive on a public road, we do not have the same expectation of privacy that we have inside our homes.
 A police officer can see your vehicle.
 A security camera may capture it.
@@ -24,8 +23,7 @@ Recent investigations have resulted in law-enforcement personnel being arrested 
 In Georgia alone, multiple officers and other law-enforcement personnel have been charged in separate investigations involving alleged misuse of Flock license-plate-reader data.
 In one case, investigators alleged that a former investigator accessed the system more than 60 times for non-law-enforcement purposes.
 Those cases do not mean that every officer will misuse this technology, nor do they diminish the important work law enforcement performs every day.
-They demonstrate something more fundamental:
-When government possesses a powerful surveillance tool, good intentions are not an adequate safeguard against abuse.
+They demonstrate something more fundamental: When government possesses a powerful surveillance tool, good intentions are not an adequate safeguard against abuse.
 We are also seeing these questions confronted here in Arkansas.
 A growing number of Arkansas communities have ended, suspended, or declined to renew their use of Flock cameras.
 Centerton, Greers Ferry, Searcy, Mayflower, Farmington, and Pea Ridge have all moved away from their programs, while Cabot suspended its system for review.
@@ -44,14 +42,24 @@ There should also be transparency about who can access the information, what oth
 When surveillance becomes sufficiently prolonged or targeted to reconstruct a person's movements, constitutional safeguards and appropriate judicial oversight should not be treated as obstacles to public safety.
 Safeguards should be built into the system before abuse occurs—not added only after someone's privacy has already been violated.
 Until those safeguards and clear legal restrictions are in place, I do not support the use of Flock camera systems by government or law-enforcement agencies.
-My standard is simple:
-Government should not collect information merely because technology makes it possible.
+My standard is simple: Government should not collect information merely because technology makes it possible.
 Public safety matters.
 So does constitutional liberty.
 We should be capable of protecting both.
 A person does not surrender constitutional liberty simply because they leave their driveway.
 Being seen on a public road is one thing.
 Allowing the government to systematically track and reconstruct where you travel is another.
-With respect for all Arkansans,
-Joshua Irby
-Paid for by Joshua Irby
+With respect for all Arkansans, Joshua Irby Paid for by Joshua Irby Behind the Platform “I don’t see sides—I see people.
+Neighbors.
+Fellow citizens.” Joshua Irby has taken the Principles of Service Pledge —committing to lead with integrity, unity, and a deep duty to the people, not politics.
+Contact Joshua First name * Last name * Organization (if applicable) Email * Phone (Optional) Your Message * I’m Interested In: Volunteering Hosting an Event Donating Yes, subscribe me for updates I agree to be contacted by phone, text, or email regarding campaign updates.
+Submit 501-943-5804 irbyforarkansas@gmail.com P.O.
+Box 490 Bryant, AR 72089 A Promise for Arkansas JOSHUA IRBY for Donate News & Insights Events About Me Where I Stand Vote AN INDIVIDUAL OR PAC MAY CONTRIBUTE UP TO $3,500 PER ELECTION.
+BUSINESS AND CORPORATE CONTRIBUTIONS ARE PROHIBITED.
+PLEASE MAKE CHECKS PAYABLE TO CITIZENS FOR JOSHUA IRBY Paid for by Joshua Irby "I’m not running for office to recite slogans — I’m running because I believe Arkansas deserves leadership rooted in respect, driven by resolve, and committed to renewal.
+Respect means every Arkansan, no matter where they live or who they are, is treated with dignity and heard with intention.
+Resolve means we don’t shy away from hard truths — we face them with courage and clarity.
+Renewal means we rebuild trust in our institutions and restore hope in our communities. ​ I believe in Common Ground because we’re stronger when we listen before we argue.
+I believe in Common Sense because good policy should be practical, not partisan.
+And I believe in the Common Good because public service should serve all, not just a few. ​ This isn’t just a campaign — it’s a call to come together.
+This is our moment." ​ - Joshua Irby bottom of page

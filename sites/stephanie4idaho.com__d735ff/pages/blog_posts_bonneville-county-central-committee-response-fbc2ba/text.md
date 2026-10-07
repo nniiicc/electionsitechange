@@ -1,5 +1,4 @@
-Bonneville County Central Committee Response
-My moral compass has been guided by a mission to prioritize the collective good of our community.
+Skip to main content Stephanie Mickelsen Menu Home About Endorsements Volunteer Blog Contact Donate Search the site Expand Search Bonneville County Central Committee Response My moral compass has been guided by a mission to prioritize the collective good of our community.
 I hold to the belief that proper representation of my district is more important than political divides, and after hearing from thousands of constituents in Bonneville county, they agree.
 This week’s second censure hearing is an orchestrated effort by the Bonneville County Republican Central Committee that represents a stark departure from the values and priorities of our community.
 This was demonstrated during the town hall meeting in December where over 130 were in attendance.
@@ -13,5 +12,4 @@ Their actions are driven by a narrow agenda rather than the will of local consti
 As an elected official, I am accountable to voters, not central committees.
 The attempt to censure me for a second time is a misguided effort to undermine my service.
 Such tactics will not deter me from advocating for the priorities of my constituents and improving the well-being of Bonneville County.
-District 32, I hear you -- thank you for your support.
-- Representative Stephanie Mickelsen
+District 32, I hear you -- thank you for your support. - Representative Stephanie Mickelsen March 08, 2024 Home Blog Bonneville County Central Committee Response Paid for by Stephanie Mickelsen For Idaho © # Copyright Stephanie Mickelsen for Idaho | Mario Hernandez - Treasurer Back to top

@@ -1,6 +1,4 @@
-Thank You for the Privilege of Serving Our District
-Friends and Neighbors,
-As we continue to process the results of the 2024 election, I want to pause and express my gratitude for the continued opportunity to serve this district.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Thank You for the Privilege of Serving Our District November 6, 2024 Friends and Neighbors, As we continue to process the results of the 2024 election, I want to pause and express my gratitude for the continued opportunity to serve this district.
 I am nothing but humbled by the continued opportunity to represent you in Montpelier.
 Although I ran unopposed (and I want to acknowledge that you may have mixed feelings about simply checking that box), I want to assure you that I take this responsibility to heart.
 I truly understand that representing our community is a privilege that I do not take for granted.
@@ -31,4 +29,4 @@ These measures not only support fair treatment but also serve the larger goal of
 I will continue to advocate for these and other priorities that support our community’s values in service to a more sustainable future for our district.
 As always, please do not hesitate to reach out with your thoughts, concerns, or ideas – I’m here to represent you.
 Thank you for your trust and for, once again, giving me this opportunity to serve.
-Troy
+Troy < The Pitfall of the Scarcity Mindset > Our Educational Funding Crisis: Watch for Manufactured Division Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

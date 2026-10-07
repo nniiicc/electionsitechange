@@ -1,13 +1,6 @@
-top of page
-IN THE COMMUNITY
-2025 Aurora City School District
-State of the Schools
-Minority Mental Health Community Conversation at Skeels Community Center in Ravenna
-Casey Weinstein, Mike & Emilia Sykes at a Summit County Campaign Event
-Cuyahoga Falls Democratic Club Meeting
-Portage County Community Health Assessment Work Group
-Branden Burns, Mike & Janet Carson at a Geauga County Campaign Event
-"Rucking" Portage Parks
-Portage County Democrats Central Committee with 2 Ravenna legends - Frank Hairston & Bruce Rieblin
-Randolph Fair 2025 with John Avouris for Kent School Board & Jenny Adams for Portage County Commissioner
-bottom of page
+top of page Home Home Home Community Meet Mike Issues Events Endorsements DONATE VOLUNTEER IN THE COMMUNITY 2025 Aurora City School District State of the Schools The Portager Expanded voucher program threatens public schools, Aurora's superintendent says during State of Schools The Record Courier 'Hands Off' rallies in Portage County draw hundreds in Ravenna, Kent The Portager Struggling Portage County schools plan for the worst in the face of proposed budget bill Minority Mental Health Community Conversation at Skeels Community Center in Ravenna Casey Weinstein, Mike & Emilia Sykes at a Summit County Campaign Event ​ Cuyahoga Falls Democratic Club Meeting ​ ​ Portage County Community Health Assessment Work Group ​ Branden Burns, Mike & Janet Carson at a Geauga County Campaign Event "Rucking" Portage Parks Portage County Democrats Central Committee with 2 Ravenna legends - Frank Hairston & Bruce Rieblin Randolph Fair 2025 with John Avouris for Kent School Board & Jenny Adams for Portage County Commissioner CLICK THIS BUTTON for...
+Mike's latest ROOTED IN OHIO updates.
+These short clips feature the good things taking place across Senate District 27 and demonstrate why Mike has set down roots here in NE Ohio.
+JOIN OUR TEAM DONATE Follow us on social media!
+DONATE CONTACT US PAID FOR BY ROBERTO4OHIO COMMITTEE © # by Campaign Roberto4Ohio.
+Powered and secured by Wix. bottom of page

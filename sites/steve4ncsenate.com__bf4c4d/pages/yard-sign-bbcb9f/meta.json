@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.steve4ncsenate.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "14983a48f6829bd773dbf1f642e7559d8ce5f6a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -1,4 +1,4 @@
-Attorney General Tong knows families are getting slammed right now by unaffordable, skyrocketing utility bills, and he’s using every legal tool available to drive down these costs.
+About Accomplishments TongTV Accomplishments Utilities/Energy Attorney General Tong knows families are getting slammed right now by unaffordable, skyrocketing utility bills, and he’s using every legal tool available to drive down these costs.
 During his first two terms, this work saved ratepayers upwards of $700 million dollars.
 But that’s not nearly enough.
 Connecticut needs a skilled fighter like Attorney General Tong who isn’t afraid to fight back against utility executives who don’t like hearing no.
@@ -7,7 +7,7 @@ That fight continues.
 When Eversource sought a $193 million rate hike for Yankee Gas in 2024, Attorney General Tong pushed back and cut their demand by more than half.
 When United Illuminating sought a $105 million rate hike back in 2024, Attorney General Tong fought back and cut their demand by $39 million.
 In 2023, Attorney General Tong exposed Connecticut Natural Gas (CNG) for over-collecting $8 million from Connecticut families and businesses.
-When the UI-owned company came back in 2024 to ask for even more in profits for CNG and its other subsidiary, Southern Connecticut Gas, Attorney General Tong fought back and gas rates were decreased.
+When the UI-owned company came back in 2024 to ask for even more in profits for CNG and its other subsidiary, Southern Connecticut Gas , Attorney General Tong fought back and gas rates were decreased.
 He’s sued United Illuminating to force United Illuminating to fulfil its legal obligations to clean up the defunct contaminated English Station power plant in New Haven.
 During his first term, Attorney General Tong brokered agreements with United Illuminating and Eversource to stabilize rates and provide relief to Connecticut families.
 In March 2021, he led an agreement with United Illuminating to send $46.5 million in credits back to ratepayers.
@@ -18,3 +18,8 @@ He’s sued Altice Optimum following hundreds of consumer complaints regarding h
 When Comcast announced plans to implement an ill-timed data cap and surcharge during the height of the pandemic, Attorney General Tong pushed back and Comcast indefinitely postponed implementation of the cap in Connecticut, protecting families from unfair fees in place elsewhere in the country.
 During his first term, Attorney General Tong negotiated a settlement with Frontier Communications worth over $60 million to dramatically expand access to high-speed internet for Frontier customers in economically distressed communities, end a hidden monthly surcharge, and force significant improvements in Frontier’s marketing and customer service.
 These settlements provide important relief, but Connecticut families need better – more reliable service and relief from skyrocketing supply rates.
+Back to All Accomplishments… Would you like to join Team Tong?
+Sign Up Would you like to join Team Tong?
+Sign Up Paid for by Team Tong.
+Amber Page Gehr, Treasurer.
+Approved by William Tong.

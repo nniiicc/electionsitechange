@@ -1,11 +1,11 @@
-Hoosiers in District 90 deserve safe roads to get from one point to another, additional roundabouts that encourage traffic flow, and well-planned parks for recreational activities.
+Home Meet David Priorities Volunteer YARD SIGN Donate More Home Meet David Priorities Volunteer YARD SIGN Donate Home Meet David Priorities Volunteer YARD SIGN Donate priorities IMPROVE ROADS AND INFRASTRUCTURE Hoosiers in District 90 deserve safe roads to get from one point to another, additional roundabouts that encourage traffic flow, and well-planned parks for recreational activities.
 Damaged roads and potholes continue to affect Hoosiers across our state in negative ways, costing residents additional money in the way of tire replacements, wheel repairs, and suspension adjustments.
 Historically, road funding in Indiana has been unequally distributed and inadequate for many communities.
 It is time to identify and prioritize fiscally responsible long-term funding solutions to improve our roads and infrastructure in District 90 and throughout the State of Indiana.
-Hoosier children are the future of Indiana, and the education our children receive in Franklin and Perry Townships plays an important role in shaping their view of the world; determining how they contribute to their local communities, state, country, and the world.
+STRONG PUBLIC SCHOOLS Hoosier children are the future of Indiana, and the education our children receive in Franklin and Perry Townships plays an important role in shaping their view of the world; determining how they contribute to their local communities, state, country, and the world.
 The overwhelming majority of children in Franklin and Perry Townships attend public schools — which is why we must ensure public schools are adequately funded and equipped with the necessary tools to educate, support, and prepare the next generation of Hoosiers.
 That means attracting and retaining quality teachers by increasing salaries to meet the realities of inflation, increasing state funding for our public schools so they can thrive, and mandating student-teacher ratios in order to achieve manageable classroom sizes.
-Affordability is top of mind for Hoosier families experiencing financial pain due to the result of tariffs, long-term inflation, and the ongoing war with Iran.
+SUPPORT HOOSIER FAMILIES Affordability is top of mind for Hoosier families experiencing financial pain due to the result of tariffs, long-term inflation, and the ongoing war with Iran.
 Whether its cuts to healthcare, skyrocketing utility rates, or wages that fail to keep pace with the rising cost of living — Hoosiers in District 90 are having a hard time keeping up and relief is needed to ensure no Hoosier is left behind.
 It is time to bolster support from the state government by increasing access to medicaid, regulating utility rates and increases, and subsidizing housing assistance programs so that renters can avoid eviction and homeowners can afford to keep their homes.
-Copyright © 2026 BOYDFORINDIANA ALL RIGHTS RESERVED
+Copyright © # BOYDFORINDIANA ALL RIGHTS RESERVED

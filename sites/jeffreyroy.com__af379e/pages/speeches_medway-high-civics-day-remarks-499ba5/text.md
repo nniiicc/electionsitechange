@@ -1,4 +1,5 @@
-Thank you Judge Eustis for the kind introduction and opportunity to be here with you this evening.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Medway High Civics Day Remarks Thank you Judge Eustis for the kind introduction and opportunity to be here with you this evening.
 And thank you to Mrs.
 Rojee for bringing such a robust civics education program to Medway High.
 I am happy to be here to talk a bit about what’s happening on Beacon Hill, what your State Government is doing, and how what you are doing is an integral part.
@@ -10,8 +11,7 @@ Our public safety systems – police, fire, military, and homeland security – 
 The clean air and safe drinking water you consume and rely upon is the result of government action at work.
 Our prisons and courts administer justice as part of the third branch of government on a daily basis.
 And health care, public health, and human services are some of the social safety nets provided by your government.
-To borrow a line attributed to former United States Representative Barney Frank, “Government is simply the name we give to the things we choose to do together.”
-And former Vice President Hubert Humphrey reminded us that the moral test of a society is how we look out for those in the dawn in life, the children; and those in the twilight of life, the elderly; and those in the shadows of life: the sick, the needy, and those with differing abilities.
+To borrow a line attributed to former United States Representative Barney Frank, “Government is simply the name we give to the things we choose to do together.” And former Vice President Hubert Humphrey reminded us that the moral test of a society is how we look out for those in the dawn in life, the children; and those in the twilight of life, the elderly; and those in the shadows of life: the sick, the needy, and those with differing abilities.
 I like to think about government as taming rivers.
 How many of you have heard of or been out to in the Black Canyon of the Colorado River, on the border between Arizona and Nevada?
 How many of you have heard of or been to Las Vegas?
@@ -51,8 +51,7 @@ We had not begun to explore the West.
 Below the pyramid we see, “Novus Ordo Seclorum” “New Order of the Ages”.
 America was a new idea, a new world order.
 And note that the first step of the pyramid – its foundation bears the date 1776, the year we declared independence.
-Above the eye you see the words Anuit coeptis – which translated means: “Providence Has Favored Our Undertakings.”
-The front of the seal on the right features a bald eagle, the national bird and symbol of the United States.
+Above the eye you see the words Anuit coeptis – which translated means: “Providence Has Favored Our Undertakings.” The front of the seal on the right features a bald eagle, the national bird and symbol of the United States.
 Above the eagle is a radiant cluster of 13 stars arranged in a six-pointed star.
 The eagle’s breast is covered by a shield with 13 stripes that resemble those on the American flag.
 As on the first US flag, the stars and stripes stand for the 13 original states of the union.
@@ -61,3 +60,11 @@ In its left talons the eagle holds 13 arrows, and in its right talons it holds a
 This is a bit of history on the back of a dollar bill.
 It’s an education that you carry around in your pocket every day.
 Ad it’s an education you can pass along to others.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

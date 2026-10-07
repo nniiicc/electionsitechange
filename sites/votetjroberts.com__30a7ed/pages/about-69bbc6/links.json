@@ -1,23 +1,90 @@
 [
-"https://apps.legislature.ky.gov/record/25rs/hb141.html",
-"https://apps.legislature.ky.gov/record/25rs/hb176.html",
-"https://apps.legislature.ky.gov/record/25rs/hb2.html",
-"https://apps.legislature.ky.gov/record/25rs/hb213.html",
-"https://apps.legislature.ky.gov/record/25rs/hb254.html",
-"https://apps.legislature.ky.gov/record/25rs/hb281.html",
-"https://apps.legislature.ky.gov/record/25rs/hb316.html",
-"https://apps.legislature.ky.gov/record/25rs/hb353.html",
-"https://apps.legislature.ky.gov/record/25rs/hb376.html",
-"https://apps.legislature.ky.gov/record/25rs/hb6.html",
-"https://apps.legislature.ky.gov/record/25rs/hb756.html",
-"https://apps.legislature.ky.gov/record/25rs/hb83.html",
-"https://facebook.com/VoteTJR",
-"https://secure.anedot.com/votetjr/donate",
-"https://twitter.com/realTJRoberts",
-"https://votetjr.com/privacy-policy",
-"https://votetjroberts.com/",
-"https://votetjroberts.com/about",
-"https://votetjroberts.com/contact",
-"https://votetjroberts.com/endorsements",
-"https://votetjroberts.com/media"
+{
+"text": "About",
+"href": "https://www.votetjroberts.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.votetjroberts.com/contact/"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/votetjr/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/votetjr/donate#new_tab"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votetjroberts.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/VoteTJR"
+},
+{
+"text": "Follow",
+"href": "https://www.twitter.com/realTJRoberts"
+},
+{
+"text": "HB 141",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb141.html"
+},
+{
+"text": "HB 176",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb176.html"
+},
+{
+"text": "HB 2",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb2.html"
+},
+{
+"text": "HB 213",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb213.html"
+},
+{
+"text": "HB 254",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb254.html"
+},
+{
+"text": "HB 281",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb281.html"
+},
+{
+"text": "HB 316",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb316.html"
+},
+{
+"text": "HB 353",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb353.html"
+},
+{
+"text": "HB 376",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb376.html"
+},
+{
+"text": "HB 6",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb6.html"
+},
+{
+"text": "HB 756",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb756.html"
+},
+{
+"text": "HB 83",
+"href": "https://apps.legislature.ky.gov/record/25rs/hb83.html"
+},
+{
+"text": "Media",
+"href": "https://www.votetjroberts.com/media/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votetjr.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://www.votetjroberts.com/"
+}
 ]

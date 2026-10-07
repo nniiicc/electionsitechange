@@ -1,4 +1,7 @@
-This website is operated by Walton for Iowa ("we" or "us").
+Home Tom on the Issues Get the Facts Bio Volunteer!
+Make your Plan to Vote Events About Iowa HD 28 Contact Privacy Policy More Home Tom on the Issues Get the Facts Bio Volunteer!
+Make your Plan to Vote Events About Iowa HD 28 Contact Privacy Policy DONATE Home Tom on the Issues Get the Facts Bio Volunteer!
+Make your Plan to Vote Events About Iowa HD 28 Contact Privacy Policy DONATE Privacy Policy This website is operated by Walton for Iowa ("we" or "us").
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by the us with respect to your use of the Website, which is operated by us and which display this Policy (the "Site") so you can make an informed decision about using the Site.
 We reserve the right to change the provisions of this Policy at any time.
 We will alert you that changes have been made by indicating on the Policy the date it was last updated.
@@ -29,42 +32,19 @@ These entities may use cookies, web beacons and other technologies to collect in
 This information may be used by us to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity.
 How Do We Use Your Information?
 We use personal information collected through our Site for the purposes described in this Policy or elsewhere on the Site.
-For example, we may use the personal information we collect:
-- to provide the services, products, or information you request, and to process and complete such requests and any related transactions;
-- to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Site;
-- to notify you about important changes to the Site;
-- to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
-- to help connect you with other supporters, and to solicit volunteers, donations and support for us and for candidates, issues, and organizations that we support;
-- to remind you to send in your voter registration form and to vote;
-- to assist you in finding your registration information and polling location;
-- to contact you if other information is necessary under Federal election laws;
-- to request feedback and to otherwise contact you about your use of the Site;
-- to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
-- to monitor and analyze site usage and trends, and to personalize and improve the Site and our users' experiences on the Site, such as providing ads, content, or features that match your profiles or interests, and to increase the Site's functionality and user-friendliness;
-- to serve ads, on this or other websites or media, based on the information you provide and the actions you take;
-- to notify and contact contest and sweepstakes entrants; and
-- for any other purpose for which the information was collected.
+For example, we may use the personal information we collect: to provide the services, products, or information you request, and to process and complete such requests and any related transactions; to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Site; to notify you about important changes to the Site; to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services; to help connect you with other supporters, and to solicit volunteers, donations and support for us and for candidates, issues, and organizations that we support; to remind you to send in your voter registration form and to vote; to assist you in finding your registration information and polling location; to contact you if other information is necessary under Federal election laws; to request feedback and to otherwise contact you about your use of the Site; to respond to your emails, submissions, questions, comments, and requests and to provide customer service; to monitor and analyze site usage and trends, and to personalize and improve the Site and our users' experiences on the Site, such as providing ads, content, or features that match your profiles or interests, and to increase the Site's functionality and user-friendliness; to serve ads, on this or other websites or media, based on the information you provide and the actions you take; to notify and contact contest and sweepstakes entrants; and for any other purpose for which the information was collected.
 We may store and process personal information in the United States and other countries.
 What Information Do We Share with Third-Parties?
 It is our policy not to share the personal information we collect from you through our Site with third-parties, except as described in this Policy or as otherwise disclosed on the Site.
-For example, we may share personal information as follows:
-- with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
-- with candidates, organizations, groups or causes that we believe have similar political viewpoints, principles or objectives;
-- when you give us your consent to do so, including if we notify you on the Site, that the information you provide will be shared in a particular manner and you provide such information;
-- when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
-- when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the DALLASCODEMS, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
-- to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and
-- in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of us.
-- As required by the Iowa Ethics and Campaign Disclosure Board.
+For example, we may share personal information as follows: with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us; with candidates, organizations, groups or causes that we believe have similar political viewpoints, principles or objectives; when you give us your consent to do so, including if we notify you on the Site, that the information you provide will be shared in a particular manner and you provide such information; when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders; when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the DALLASCODEMS, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site; to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of us.
+As required by the Iowa Ethics and Campaign Disclosure Board.
 We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties.
 Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
-Interactive Features:
-You understand that when you use the Site, information you: post in blogs, comments, forums and other interactive areas of the Site, as well as any information you share with individuals through the Site or share through social network sites, will be available to other users and, in some cases, maybe publicly available.
+Interactive Features: You understand that when you use the Site, information you: post in blogs, comments, forums and other interactive areas of the Site, as well as any information you share with individuals through the Site or share through social network sites, will be available to other users and, in some cases, maybe publicly available.
 We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
 We are not responsible for the actions of any third parties with whom you share personal information.
 In some cases, there may be a privacy setting available regarding the information available to others, and we suggest you take time to familiarize yourself with these options and utilize these settings.
-Links to Other Websites
-Our Site may contain links to other websites.
+Links to Other Websites Our Site may contain links to other websites.
 Any personal information you provide on the linked pages is provided directly to that third-party and is subject to that third-party's privacy policy.
 This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Site.
 We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
@@ -77,6 +57,5 @@ Please note that we may still send you other types of emails, such as emails abo
 Changes to information in your account does not affect information provided to others as set forth in this policy, including in connection with petitions or donations or that has been previously shared with like-minded candidates, organizations, groups or causes.
 SMS/text messaging: By providing your mobile number and checking the outlined boxes in each form, We will be allowed to send you SMS (text) messages relating to their volunteer activities.
 To opt-out, reply STOP to any SMS message OR return to this form and uncheck the box.
-No mobile information will be sold or shared with third parties for promotional or market
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+No mobile information will be sold or shared with third parties for promotional or market Home Paid for by Walton for Iowa Copyright © # Walton for Iowa - All Rights Reserved.
+Powered by

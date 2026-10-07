@@ -1,15 +1,7 @@
-“I did not seek office for a title and to keep things the way they are.
+☰ HOME | ABOUT | ON THE ISSUES | GET INVOLVED ▾ VOLUNTEER CONTACT | DONATE About Jonathan “I did not seek office for a title and to keep things the way they are.
 There are major issues that need to be addressed, and I have successfully passed new laws from Day One.
 I have been legislating for reform, because the status quo is not good enough.
-This is why I am so grateful for the opportunity to be your Assemblymember and to create meaningful change”
-Assemblymember Jonathan Jacobson
-- Current New York State Assemblymember
-- Former Newburgh City Council Member
-- Former Assistant New York State Attorney General
-- Former Assistant Counsel to the Speaker of the New York State Assembly
-- Former New York State Workers’ Compensation Judge
-- Former Orange County Democratic Committee Chair — 22 years
-Since being elected to the Assembly, Jonathan has had a record of reform.
+This is why I am so grateful for the opportunity to be your Assemblymember and to create meaningful change” Assemblymember Jonathan Jacobson Current New York State Assemblymember Former Newburgh City Council Member Former Assistant New York State Attorney General Former Assistant Counsel to the Speaker of the New York State Assembly Former New York State Workers’ Compensation Judge Former Orange County Democratic Committee Chair — 22 years Since being elected to the Assembly, Jonathan has had a record of reform.
 Jonathan has proposed and supported changes to the areas which needed to be addressed.
 Because of his experience and tenacity, he has been successful from the beginning passing new laws to address the needs of his constituents as well as state-wide challenges.
 Jonathan has become one of the most effective members of the Assembly.
@@ -40,3 +32,4 @@ Jonathan has been a strong protector of reproductive health rights including the
 Wade through the Reproductive Health Act which he was a sponsor as a many other laws including shield laws protecting medical providers who perform legal reproductive health services including out-of-state residents.
 In addition to being a successful legislator in Albany, Jonathan has also brought back millions of extra dollars from Albany to help our municipalities and not-for-profits.
 And Jonathan is proud of his office’s work on constituent problems ranging from Central Hudson complaints to problems with getting unemployment benefits and dealing with other unresponsive state agencies.
+Jonathan Jacobson Getting the Job Done! f X Paid for by Jonathan Jacobson for Assembly

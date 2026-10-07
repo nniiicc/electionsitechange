@@ -1,43 +1,27 @@
-PUBLIC HEALTH
-•
-COLLABORATIVE GOVERNANCE
-•
-PROGRESSIVE REVENUE
-•
-WORKER'S RIGHTS
-•
-AFFORDABILITY
-•
-ENVIRONMENTAL JUSTICE
-•
-FUNDING FOR K-12 & HIGHER ED
-•
-PEOPLES' ASSEMBLIES
-•
-SOLIDARITY ECONOMY
-•
-PUBLIC HEALTH • COLLABORATIVE GOVERNANCE • PROGRESSIVE REVENUE • WORKER'S RIGHTS • AFFORDABILITY • ENVIRONMENTAL JUSTICE • FUNDING FOR K-12 & HIGHER ED • PEOPLES' ASSEMBLIES • SOLIDARITY ECONOMY •
-Build Different
-OUR CAMPAIGN IS FUELED BY WORKING PEOPLE LIKE YOU
-We reject donations from corporate CEOs/PACs, climate polluters, fossil fuel companies, and war profiteers.
-Team Tatiana is powered by small donors, because we’re fighting to shift power to everyday people—not the wealthiest few.
-!!
-Help us reach 3,000 recurring donations of $7 !!
-Talk to Tati
-Effective representation starts with active listening.
-Whether you have an idea for our community or a frustration you need to get off your chest, Tatiana wants to hear directly from you.
-Share your experiences below so we can ensure the real issues of the 37th are heard and addressed.
-HELLO, MY NAME IS TATIANA BROWN
-I'm an organizer and collaborative governance leader, driven by the question of how we shift power back to communities long excluded from decision-making spaces.
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved PUBLIC HEALTH • COLLABORATIVE GOVERNANCE • PROGRESSIVE REVENUE • WORKER'S RIGHTS • AFFORDABILITY • ENVIRONMENTAL JUSTICE • FUNDING FOR K-12 & HIGHER ED • PEOPLES' ASSEMBLIES • SOLIDARITY ECONOMY • PUBLIC HEALTH • COLLABORATIVE GOVERNANCE • PROGRESSIVE REVENUE • WORKER'S RIGHTS • AFFORDABILITY • ENVIRONMENTAL JUSTICE • FUNDING FOR K-12 & HIGHER ED • PEOPLES' ASSEMBLIES • SOLIDARITY ECONOMY • PUBLIC HEALTH • COLLABORATIVE GOVERNANCE • PROGRESSIVE REVENUE • WORKER'S RIGHTS • AFFORDABILITY • ENVIRONMENTAL JUSTICE • FUNDING FOR K-12 & HIGHER ED • PEOPLES' ASSEMBLIES • SOLIDARITY ECONOMY • Build Different OUR CAMPAIGN IS FUELED BY WORKING PEOPLE LIKE YOU We reject donations from corporate CEOs/PACs, climate polluters, fossil fuel companies, and war profiteers.
+Team Tatiana is powered by small donors, because we’re fighting to shift power to everyday people—not the wealthiest few. !!
+Help us reach 3,000 recurring donations of $# !! $7 $200 $37 $500 $100 OTHER HELLO, MY NAME IS TATIANA BROWN I'm an organizer and collaborative governance leader, driven by the question of how we shift power back to communities long excluded from decision-making spaces.
 I came to Seattle to build a better toolkit for systems change, and I landed at the University of Washington where I gained Masters degrees in Public Health and Public Administration.
-At UW, I led the Campus Sustainability Fund, a student-run grant making organization committed to Climate Justice and dove into issues affecting Washingtonians like wealth inequality, a regressive tax structure, worker protections, housing, and protecting communities on the front line of the climate crisis.
+At UW, I led the Campus Sustainability Fund , a student-run grant making organization committed to Climate Justice and dove into issues affecting Washingtonians like wealth inequality, a regressive tax structure, worker protections, housing, and protecting communities on the front line of the climate crisis.
 Throughout my life in Seattle, the 37th became my political and cultural home—a center of gravity for my organizing.
 Now, I’m running to shift power back to my neighbors in the beautiful 37th, the cultural heart and soul of Washington State.
+Learn more about me and why I’m running.
 NOT SURE IF YOU LIVE IN THE 37TH LD?
-VISIT OUR DISTRICT LOCATOR! 📌
-I AM FIGHTING FOR A STATE THAT WORKING FAMILIES CAN AFFORD AND THRIVE IN
-I know a better future is possible, because I've helped build it.
+VISIT OUR DISTRICT LOCATOR! 📌 I AM FIGHTING FOR A STATE THAT WORKING FAMILIES CAN AFFORD AND THRIVE IN I know a better future is possible, because I've helped build it.
 I've been part of pivotal wins like the Virginia Medicaid Expansion Campaign in 2019.
 I helped implement landmark policy like Washington’s HEAL Act as a co-chair for the Washington State Environmental Justice Council.
 I've tested out ways to challenge the status quo of what genuine democracy looks like through building out tools like Community Assemblies at the People's Economy Lab.
 Now I’m bringing what I’ve learned and what I’ve worked on to the State Legislature to build a government that works for the people—not those with the most wealth, time, or political influence.
+Environment Economy Well-being Education @tatianaforwa View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Talk to Tati Effective representation starts with active listening.
+Whether you have an idea for our community or a frustration you need to get off your chest, Tatiana wants to hear directly from you.
+Share your experiences below so we can ensure the real issues of the 37th are heard and addressed.
+"She’s running to bring the power of the seat down to the district and be accessible and engaged year-round, not just during the legislative session." — Converge Media "Tatiana Brown is building her campaign around a platform of well-being, education, environment, and economy, drawing on her background in economic policy research and environmental justice work, including her current role as co-chair of the state's Environmental Justice Council." - Hacks and Wonks "Brown ultimately earned our endorsement because of her depth of policy expertise.
+What stood out was her belief that policy should be created with and by the people most affected by it." — Through the Static (endorsement) "This is Tatiana Brown’s first campaign election, but her background is impressive.
+She graduated with a dual Masters in Public Health and Public Administration, and she served as the youngest representative of Governor Inslee’s Environmental Justice Council." - The Urbanist "Young and bright, Brown offers representation for the 37th District that we believe would not be influenced by the demands of tech companies and corporations but rather everyday people’s needs. " - Seattle Gay News (endorsement) "Let’s not settle for what is familiar—let’s dare to choose better.
+Vote Brown." -The Washington Bus (endorsement) "We have nothing to lose and everything to gain from electing Tatiana." -Bailey Medilo, Community Leader (endorsed) "She is a true servant leader who leads with integrity, compassion, and a deep commitment to her community." -Mohamed Abdi, Community Leader (endorsed) "I really believe in the leadership of this young woman.
+Her proposals to our main problems are base on progressive politics, innovation and collaboration." -Ricardo Ortega, Community Leader (endorsed) "Tatiana Brown is a champion for youth voice, educational justice, and community-centered leadership." -Asuka Conyer, Community Leader (endorsed) "Tatiana stands out because she listens first, builds relationships, and brings people together to solve problems." -Denis Maronga, Community Leader (endorsed) "Beyond her accomplishments, Tatiana leads with character, uplifts others, works hard & inspires through her actions.
+I have no doubt that she will thrive in Olympia and make meaningful contributions that will have a lasting impact on the 37th." -Sibongile Chadyiwa, Community Leader (endorsed) "Washington’s 37th Legislative District deserves a leader with vision and integrity.
+That’s why I support Tatiana Brown and her longstanding commitment to environmental justice.
+For communities with community!" -Paulina Lopez, Community Leader (endorsed) "Tatiana embodies the kind of leadership our communities deserve: bold, compassionate, and people-centered!
+As a young leader, she brings a clear vision, strong conviction and the courage to pursue transformative and meaningful changes." -Sili Savusa, Community Leader (endorsed) "Her passion and commitment to our community shows me that she is ready for the role." -Emma Catague, Community Leader (endorsed) "Her background and vision align perfectly to make her a public servant who can champion local issues and complement statewide change." -Mayor Steve Woodard, Mountlake Terrace (endorsed) "Tatiana is running to build a government that works for people, not corporations.
+Her campaign is rooted in the belief that communities should have real power in the decisions that shape their lives." -Sage Leaders (endorsement) Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

@@ -1,11 +1,9 @@
-Michigan Professional Fire Fighters Union endorses Lisa McIntyre for State Representative
-FOR IMMEDIATE RELEASE: Monday, July 20, 2026
-Contact: Sofia Camacho, sofia@mcintyreformichigan.com, (248) 702-4426
-NORTHVILLE, MI — Lisa McIntyre today issued the following statement after receiving the endorsement of the Michigan Professional Fire Fighters Union (MPFFU) in the race for Michigan House District 22.
+0 Skip to Content Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Michigan Professional Fire Fighters Union endorses Lisa McIntyre for State Representative Jul 20 Written By Kari Paine FOR IMMEDIATE RELEASE: Monday, July 20, 2026 Contact: Sofia Camacho, sofia@mcintyreformichigan.com , (248) 702-4426 NORTHVILLE, MI — Lisa McIntyre today issued the following statement after receiving the endorsement of the Michigan Professional Fire Fighters Union (MPFFU) in the race for Michigan House District 22.
 “I am deeply honored to receive the endorsement of MPFFU and grateful for their trust in this campaign,” said Lisa McIntyre.
 “Their members put their lives on the line every day to protect the safety of our communities, and I am proud to stand with them and fight for the public servants who keep Michigan families safe.
-###
-About Lisa McIntyre:
-Lisa McIntyre is the former President of the Northville Board of Education and a licensed mental health counselor.
+### About Lisa McIntyre: Lisa McIntyre is the former President of the Northville Board of Education and a licensed mental health counselor.
 She’s running for State Representative to bring compassionate leadership focused on strong schools and support for families.
 As a mother and community advocate, Lisa is dedicated to achieving real results for kids in Michigan.
+Kari Paine Previous Previous Small Biz PAC Endorses Lisa McIntyre for Michigan HD-22 Next Next Planned Parenthood of Michigan endorses Lisa McIntyre for State Representative Meet Lisa Priorities Endorsements Get Involved News Donate Privacy Donate Now Lisa McIntyre is a candidate running for State Representative for Michigan House District 22 Copyright © #.
+All Rights Reserved.
+Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167

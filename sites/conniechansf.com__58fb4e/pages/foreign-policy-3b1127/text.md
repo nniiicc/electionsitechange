@@ -1,9 +1,9 @@
-a plan for foreign policy
-The Trump Administration has been a disaster on foreign policy (as well as domestic).
+Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate a plan for foreign policy The Trump Administration has been a disaster on foreign policy (as well as domestic).
 Connie Chan firmly opposes Trump’s destruction of programs that supported vulnerable children and families overseas and their foolish trade war that has hurt our relationships and raised prices for consumers.
 Connie is firmly committed to a foreign policy that prioritizes peaceful solutions and supports democratic ideals and human rights.
 She will push to de-prioritize the use of military force and work for fair trade that uplifts workers and protects the global environment.
 And she will work to restore critical and life-saving foreign aid programs.
 Connie will also work to restore the relationship with allies that the Trump administration has destroyed.
 Trump’s threats to invade the territories of key allies such as Canada and Denmark have pushed away partners and made the US less safe.
-Connie will work towards a national security strategy that is based on strength being based not in bluster and bombs but in alliances and cooperation.
+Connie will work towards a national security strategy that is based on strength being based not in bluster and bombs but in alliances and cooperation. on palestine and israel on the iran war On the war in Ukraine on american priorities in asia on the crisis in sudan on the crisis in the congo on restoring usaid on american policy in central america on cuba and venezuela on ireland and the status of the north on europe and our e.u. partners Privacy Policy campaign@conniechansf.com Connie Chan for Congress Office: 3043 24th St, San Francisco, CA 94110 Mailing: 912 Cole St #368, San Francisco, CA 94117 Privacy Policy & Terms of Service Connie Chan for Congress will not take money from corporate PACs, AIPAC or its lobbyists and representatives, the NRA or lobbyists and executives from pharma, PG&E, fossil fuel or tobacco companies.
+Paid for by Connie Chan for Congress You need to enable JavaScript to run this app.

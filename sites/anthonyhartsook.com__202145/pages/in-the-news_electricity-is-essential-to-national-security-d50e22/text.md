@@ -1,5 +1,4 @@
-Electricity is Essential to National Security
-President Trump has inherited a world with extensive threats and conflicts concerning energy, global navigation, and shifting populations just to name a few.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Electricity is Essential to National Security Feb 20 Written By Jack Cutter By Anthony Hartsook President Trump has inherited a world with extensive threats and conflicts concerning energy, global navigation, and shifting populations just to name a few.
 While a ceasefire agreement has been tentatively reached in Gaza, the Middle East continues to be a hotbed of violence and instability.
 Iran.
 For example, persists with its goal of developing a nuclear weapon, a scenario that is unacceptable to both Israel and the West.
@@ -10,7 +9,7 @@ Global security and stability require a strong military, economic strength, and 
 It is essential to recognize that while rebuilding our military capabilities, a reliable and resilient electrical grid is of critical importance.
 Reversing the myopic energy policies of the previous administration and strengthening our nation’s electrical supply should be one of the top priorities for President Trump and his administration.
 Energy and electricity drive everything.
-The demand for electricity is growing at an unprecedented rate.
+The demand for electricity is growing at an unprecedented rate .
 Data centers, for instance, have become significant facilities for banking, healthcare, defense, and a host of other economic generators, but face a serious risk from electricity shortages in many parts of the country.
 Meeting the escalating demand for electricity holds strategic importance because much of this growth is being fueled by geopolitically and nationally strategic industries such as semiconductor chip manufacturing, quantum computing, and artificial intelligence, along with research and development at our national laboratories.
 We risk falling behind our adversaries and undermining our national security if we cannot provide the electricity these industries need.
@@ -21,7 +20,7 @@ In sharp contrast, China is moving in the opposite direction.
 China has the world’s largest fleet of coal-fired power plants, more than six times the size of the U.S. coal fleet.
 In 2023, China was responsible for 95% of new coal power construction globally.
 This investment will help guarantee that the Chinese military-industrial complex has access to cheap and dependable energy for decades to come.
-It is also part of the reason why China’s economic growth has continued to outpace the United States.
+It is also part of the reason why China’s economic growth has continued to outpace the United States .
 If we fail to adopt sound energy policies to effectively counter this capability, we will struggle to build out our own strategically important industries and be put in the unenviable position of either accepting a major Chinese strategic advantage or, even worse, be forced into foreign dependencies for critical and strategic commodities.
 This dependency would give leverage to our competitors and adversaries.
 America suffered immense strategic and domestic humiliation during the mid to late 1970’s energy crisis when weak American foreign and domestic policies allowed the cartelization of the world’s oil supply by OPEC.
@@ -42,4 +41,6 @@ Anthony Hartsook is a Colorado State Representative and the Minority Caucus Chai
 He served with honor and distinction during a highly successful 26-year career in the U.S.
 Army.
 He is a decorated combat veteran with deployments to Iraq, Afghanistan, and the first Gulf War, along with tours in Italy, Korea, and the Pentagon Joint Staff.
-He was an intelligence officer and retired with the rank of Lieutenant Colonel.
+He was an intelligence officer and retired with the rank of Lieutenant Colonel. anthony hartsook Jack Cutter Previous Previous State Rep.
+Junie Joseph faces backlash for attending U.S.Rep Ilhan Omar fundraiser on day of Boulder attackRep.
+Junie Joseph says attendance was based on being a 'goodwill ambassador Next Next Colorado Option is a costly failed experiment | OPINION Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

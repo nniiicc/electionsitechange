@@ -1,306 +1,45 @@
-Endorsements
-Endorsed by over 100 current and retired judges from across Washington - and by over 50 labor, women’s rights, senior advocacy, and local & county Democratic organizations!
-Congresswoman Pramila Jayapal
-U.S.
-Representative · WA
-"Judge Hawk spent her career standing up to the powerful.
-She is the only candidate I trust to protect our rights."
-Justice Mary Yu (ret.)
-Washington State Supreme Court
-"Judge Hawk is a proven champion for diverse and marginalized communities in our state.
-At a time when immigrants, women, and communities throughout our state are under pressure from federal threats, Jaime Hawk will ensure that our state laws are upheld and that all people will be treated fairly in our justice system."
-Justice Helen Whitener
-Washington State Supreme Court
-"In a year when we are losing diverse women’s voices on our highest Court, Jaime Hawk will bring important experience as a respected judge, longtime civil rights attorney, and champion for the rights of all people to the Supreme Court.
-She deserves our vote."
-Governor Bob Ferguson
-Governor of Washington State
-"Judge Hawk is a tenacious and principled fighter for justice and the rights of all people.
+Campaign news (08/20/2026): Judge Hawk advances in primary election to November!
+Judge Hawk’s Experience Endorsements Media Get Involved Donate Endorsements Endorsed by over 100 current and retired judges from across Washington - and by over 50 labor, women’s rights, senior advocacy, and local & county Democratic organizations!
+Congresswoman Pramila Jayapal U.S.
+Representative · WA "Judge Hawk spent her career standing up to the powerful.
+She is the only candidate I trust to protect our rights." Justice Mary Yu (ret.) Washington State Supreme Court "Judge Hawk is a proven champion for diverse and marginalized communities in our state.
+At a time when immigrants, women, and communities throughout our state are under pressure from federal threats, Jaime Hawk will ensure that our state laws are upheld and that all people will be treated fairly in our justice system." Justice Helen Whitener Washington State Supreme Court "In a year when we are losing diverse women’s voices on our highest Court, Jaime Hawk will bring important experience as a respected judge, longtime civil rights attorney, and champion for the rights of all people to the Supreme Court.
+She deserves our vote." Governor Bob Ferguson Governor of Washington State "Judge Hawk is a tenacious and principled fighter for justice and the rights of all people.
 She will bring a needed voice to our Court at a time that requires champions for the freedoms and protections guaranteed in our state Constitution.
-She will be an excellent State Supreme Court Justice."
-50+
-Labor and Democratic Organizations
-100+
-Current and Retired Judges and Justices
-30+
-State Executive and Legislative Elected Leaders
-Organizations
-Washington State Labor Council, AFL-CIO
-National Women’s Political Caucus of Washington
-Seattle Indivisible
-Indivisible Tacoma
-Indivisible Whidbey
-Indivisible South Kitsap
-WA Stonewall Dems
-American Federation of Teachers of Washington
-UFCW 3000
-Spokane Regional Labor Council, AFL-CIO
-Thurston-Lewis-Mason Central Labor Council, AFL-CIO
-Pierce County Central Labor Council, AFL-CIO
-Snohomish and Island County Labor Council, AFL-CIO
-SEIU Healthcare 775 NW
-Joint Council of Teamsters 28
-Ironworkers Local 86
-Amalgamated Transit Union Local 587
-UAW Region 6
-SEIU Healthcare 1199 NW
-FairVote Washington
-SEIU 925
-Snohomish County Democratic Central Committee
-The First District Democratic Party
-30th District Democrats
-36th District Democrats
-33rd District Democrats
-Spokane County Democrats
-48th District Democrats
-11th Legislative District Democrats
-21st District Democrats
-46th District Democrats
-47th District Democrats
-Mason County Democrats
-32nd District Democrats
-43rd District Democrats
-Kitsap County Democrats Approved
-Clark County Democrats
-Franklin County Democrats
-Thurston County Democrats
-8th District Democrats
-31st District Democrats
-Benton County Democrats
-38th District Democrats
-18th District Democrats
-39th District Democrats
-17th District Democrats
-49th District Democrats
-Okanogan County Democrats
-10th District Democrats
-44th District Democrats
-Third Act Washington
-Clallam County Democrats
-Young Democrats of Washington
-Young Democrats of Clark County
-Island County Democrats
-Walla Walla County Democrats
-Children's Campaign Fund
-Statewide Officials
-- Governor Bob Ferguson
-- Lt.
-Governor Denny Heck
-- Insurance Commissioner Patty Kuderer
-- State Auditor Pat McCarthy
-- Attorney General Nick Brown
-State Senators
-- Sen.
-Mike Chapman — Clallam, Jefferson & Grays Harbor Counties
-- Sen.
-Adrian Cortes — Clark County
-- Sen.
-Noel Frame — King County
-- Sen.
-Victoria Hunt — King County
-- Sen.
-Marko Liias — Snohomish County
-- Sen.
-Tina Orwall — King County
-- Sen.
-Marcus Riccelli — Spokane County
-- Sen.
-June Robinson — Snohomish County
-- Sen.
-Vandana Slatter — King County
-- Sen.
-Lisa Wellman — King County
-- Sen.
-Claire Wilson — King County
-State Representatives
-- Rep.
-April Berg — Snohomish County
-- Rep.
-Julio Cortes — Snohomish County
-- Rep.
-Beth Doglio — Thurston County
-- Rep.
-Brandy Donaghy — Snohomish County
-- Rep.
-Darya Farivar — King County
-- Rep.
-Zach Hall — King County
-- Rep.
-Deb Lekanoff — San Juan, Whatcom & Skagit Counties
-- Rep.
-Nicole Macri — King County
-- Rep.
-Timm Ormsby — Spokane County
-- Rep.
-Lisa Parshley — Thurston County
-- Rep.
-Strom Peterson — Snohomish County
-- Rep.
-Gerry Pollet — King County
-- Rep.
-Osman Salahuddin — King County
-- Rep.
-Tarra Simmons — Kitsap County
-- Rep.
-Monica Stonier — Clark County
-- Rep.
-My-Linh Thai — King County
-- Rep.
-Joe Timmons — Whatcom County
-- Rep.
-Janice Zahn — King County
-County Council Members
-- Council Member Teresa Mosqueda — King County
-- Council Member Strom Peterson — Snohomish County
-- Council Member Bryan Yambe — Pierce County
-Washington Supreme Court Justices
-- Chief Justice Debra Stephens
-- Justice Mary Yu (ret.)
-- Justice Helen Whitener
-- Justice Faith Ireland (ret.)
-- Justice Sal Mungia
-- Justice Theo Angelis
-- Justice Charles Johnson
-- Justice Bobbe Bridge (ret.)
-- Justice Phil Talmadge (ret.)
-Trial and Appellate Judges
-Washington State
-- ✓Judge Ian Birk — Court of Appeals
-- ✓Judge J.
-Robin Hunt (ret.) — Court of Appeals
-- ✓Judge Linda Coburn — Court of Appeals
-- ✓Judge Tam Bui — Court of Appeals
-- ✓Judge Cecily Hazelrigg — Court of Appeals
-Asotin, Columbia & Garfield Counties
-- ✓Judge Brooke Burns
-Benton & Franklin Counties
-- ✓Judge Carrie Runge (ret.)
-- ✓Judge Diana Ruff (ret.)
-- ✓Judge Jacqueline Shea-Brown
-Chelan County
-- ✓Judge Alicia Nakata (ret.)
-Clallam County
-- ✓Judge Elizabeth Stanley
-Clark County
-- ✓Judge Diane Woolard (ret.)
-Cowlitz County
-- ✓Judge Jill Karmy
-- ✓Judge Marilyn Haan (ret.)
-- ✓Judge Steve Warning (ret.)
-Ferry, Stevens & Pend Oreille Counties
-- ✓Judge Lisa Malpass
-Grays Harbor County
-- ✓Judge Katie Svoboda
-- ✓Judge Mark McCauley (ret.)
-- ✓Judge Vini Samuel
-Island County
-- ✓Judge Christon Skinner
-- ✓Judge Vickie Churchill (ret.)
-Jefferson County
-- ✓Judge Brandon Mack
-- ✓Judge Mindy Walker
-King County
-- ✓Judge Andrea Robertson — Superior Court
-- ✓Judge Anita Crawford Willis — Seattle Municipal Court
-- ✓Judge Annette Messitt (ret.) — Superior Court
-- ✓Judge Anthony Gipe — Kent Municipal Court
-- ✓Judge Averil Rothrock — Superior Court
-- ✓Judge Ben Santos — Superior Court
-- ✓Judge Carol Schapira (ret.) — Superior Court
-- ✓Judge Catherine Schaffer (ret.) — Superior Court
-- ✓Judge Charles Burdell (ret.) — Superior Court
-- ✓Judge Dan York — Superior Court
-- ✓Judge Deborah Fleck (ret.) — Superior Court
-- ✓Judge Elizabeth Berns — Superior Court
-- ✓Judge Faye Chess — Seattle Municipal Court
-- ✓Judge Jason Holloway — Superior Court
-- ✓Judge Jeff Ramsdell (ret.) — Superior Court
-- ✓Judge Joe Campagna — Superior Court
-- ✓Judge Judith H.
-Ramseyer (ret.) — Superior Court
-- ✓Judge Kathleen Learned (ret.) — Superior Court
-- ✓Judge Kent Liu — Superior Court
-- ✓Judge Kevin Peck — District Court
-- ✓Judge Kim Walden — Tukwila Municipal Court
-- ✓Judge Kristin Shotwell — District Court
-- ✓Judge Kuljinder Dhillon — District Court
-- ✓Judge Lisa Paglisotti (ret.) — District Court
-- ✓Judge Marcine Anderson (ret.) — District Court
-- ✓Judge Marshall Ferguson — Superior Court
-- ✓Judge Maureen McKee — Superior Court
-- ✓Judge Monica Cary — Superior Court
-- ✓Judge Nick Straley — Superior Court
-- ✓Judge Nicole Hecklinger — Superior Court
-- ✓Judge Paul Crisalli — Superior Court
-- ✓Judge Steve Scott (ret.) — Superior Court
-- ✓Judge Susan Amini (ret.) — Superior Court
-- ✓Judge Susan Llorens — Superior Court
-- ✓Judge Tenaya Scheinman — Superior Court
-- ✓Judge Theresa Doyle (ret.) — Superior Court
-- ✓Judge Todd Tinker — Superior Court
-Kitsap County
-- ✓Judge Cadine Ferguson-Brown — Superior Court
-- ✓Judge Kevin Hull — Superior Court
-Kittitas County
-- ✓Judge James Kirkham — Superior Court
-Pierce County
-- ✓Judge Angelica Williams — Superior Court
-- ✓Judge Clarence Henderson — Superior Court
-- ✓Judge Dee Sonntag — Tacoma Municipal Court
-- ✓Judge Doris Watkins — Superior Court
-- ✓Judge Ingrid McLeod — Superior Court
-- ✓Judge Jennifer Andrews — Superior Court
-- ✓Judge Joe Evans — Superior Court
-- ✓Judge Scott Peters — Superior Court
-- ✓Judge Susan Serko (ret.) — Superior Court
-- ✓Judge TaTeasha Davis — Superior Court
-- ✓Judge Vicki L.
-Hogan (ret.) — Superior Court
-San Juan County
-- ✓Judge Katie Loring — Superior Court
-Skagit County
-- ✓Judge Elizabeth Neidzwski — Superior Court
-- ✓Judge John M.
-Meyer (ret.) — Superior Court
-- ✓Judge Laura Riquelme — Superior Court
-- ✓Judge Susan Cook (ret.) — Superior Court
-Snohomish County
-- ✓Judge Jennifer Rancourt — District Court
-- ✓Judge Jon Scott — Superior Court
-- ✓Judge Marybeth Dingledy — Superior Court
-- ✓Judge Paul Thompson — Superior Court
-- ✓Judge Rachelle Francis — District Court
-- ✓Judge Whitney Rivera — Superior Court
-- ✓Judge William Steffener — Superior Court
-Spokane County
-- ✓Judge Andrew Biviano — District Court
-- ✓Judge Breean Beggs — Superior Court
-- ✓Judge Charnelle Bjelkengren — Superior Court
-- ✓Judge Dean Chuang — Superior Court
-- ✓Judge Ellen Clark (ret.) — Superior Court
-- ✓Judge Gloria Ochoa-Bruck — Spokane Municipal Court
-- ✓Judge Greg Sypolt (ret.) — Superior Court
-- ✓Judge Jackie High-Edward — Superior Court
-- ✓Judge James Murphy (ret.) — Superior Court
-- ✓Judge Kristin O’Sullivan — Spokane Municipal Court
-- ✓Judge Mary Logan — Spokane Municipal Court
-- ✓Judge Maryann Moreno (ret.) — Superior Court
-- ✓Judge Paul Bastine (ret.) — Superior Court
-- ✓Judge Shelley Szambelan — Superior Court
-- ✓Judge Teri Eitzen (ret.) — Superior Court
-Thurston County
-- ✓Judge Indu Thomas — Superior Court
-- ✓Judge Paula Casey (ret.) — Superior Court
-Walla Walla County
-- ✓Judge John Lohrmann (ret.) — Superior Court
-- ✓Judge Patricia Fulton — Superior Court
-Whatcom County
-- ✓Judge Jennifer Slattery — Superior Court
-- ✓Judge Jonathan Rands — District Court
-- ✓Judge Nicholas I.
-Henery — Bellingham Municipal Court
-Whitman County
-- ✓Judge Roger Sandberg — Superior Court
-Yakima County
-- ✓Judge Elizabeth Tutsch — Superior Court
-- ✓Judge Shane Silverthorn — Superior Court
+She will be an excellent State Supreme Court Justice." 50+ Labor and Democratic Organizations 100+ Current and Retired Judges and Justices 30+ State Executive and Legislative Elected Leaders Organizations Washington State Labor Council, AFL-CIO National Women’s Political Caucus of Washington Seattle Indivisible Indivisible Tacoma Indivisible Whidbey Indivisible South Kitsap WA Stonewall Dems American Federation of Teachers of Washington UFCW 3000 Spokane Regional Labor Council, AFL-CIO Thurston-Lewis-Mason Central Labor Council, AFL-CIO Pierce County Central Labor Council, AFL-CIO Snohomish and Island County Labor Council, AFL-CIO SEIU Healthcare 775 NW Joint Council of Teamsters 28 Ironworkers Local 86 Amalgamated Transit Union Local 587 UAW Region 6 SEIU Healthcare 1199 NW FairVote Washington SEIU 925 Snohomish County Democratic Central Committee The First District Democratic Party 30th District Democrats 36th District Democrats 33rd District Democrats Spokane County Democrats 48th District Democrats 11th Legislative District Democrats 21st District Democrats 46th District Democrats 47th District Democrats Mason County Democrats 32nd District Democrats 43rd District Democrats Kitsap County Democrats Approved Clark County Democrats Franklin County Democrats Thurston County Democrats 8th District Democrats 31st District Democrats Benton County Democrats 38th District Democrats 18th District Democrats 39th District Democrats 17th District Democrats 49th District Democrats Okanogan County Democrats 10th District Democrats 44th District Democrats Third Act Washington Clallam County Democrats Young Democrats of Washington Young Democrats of Clark County Island County Democrats Walla Walla County Democrats Children's Campaign Fund Statewide Officials Governor Bob Ferguson Lt.
+Governor Denny Heck Insurance Commissioner Patty Kuderer State Auditor Pat McCarthy Attorney General Nick Brown State Senators Sen.
+Mike Chapman — Clallam, Jefferson & Grays Harbor Counties Sen.
+Adrian Cortes — Clark County Sen.
+Noel Frame — King County Sen.
+Victoria Hunt — King County Sen.
+Marko Liias — Snohomish County Sen.
+Tina Orwall — King County Sen.
+Marcus Riccelli — Spokane County Sen.
+June Robinson — Snohomish County Sen.
+Vandana Slatter — King County Sen.
+Lisa Wellman — King County Sen.
+Claire Wilson — King County State Representatives Rep.
+April Berg — Snohomish County Rep.
+Julio Cortes — Snohomish County Rep.
+Beth Doglio — Thurston County Rep.
+Brandy Donaghy — Snohomish County Rep.
+Darya Farivar — King County Rep.
+Zach Hall — King County Rep.
+Deb Lekanoff — San Juan, Whatcom & Skagit Counties Rep.
+Nicole Macri — King County Rep.
+Timm Ormsby — Spokane County Rep.
+Lisa Parshley — Thurston County Rep.
+Strom Peterson — Snohomish County Rep.
+Gerry Pollet — King County Rep.
+Osman Salahuddin — King County Rep.
+Tarra Simmons — Kitsap County Rep.
+Monica Stonier — Clark County Rep.
+My-Linh Thai — King County Rep.
+Joe Timmons — Whatcom County Rep.
+Janice Zahn — King County County Council Members Council Member Teresa Mosqueda — King County Council Member Strom Peterson — Snohomish County Council Member Bryan Yambe — Pierce County Washington Supreme Court Justices Chief Justice Debra Stephens Justice Mary Yu (ret.) Justice Helen Whitener Justice Faith Ireland (ret.) Justice Sal Mungia Justice Theo Angelis Justice Charles Johnson Justice Bobbe Bridge (ret.) Justice Phil Talmadge (ret.) Trial and Appellate Judges Washington State ✓ Judge Ian Birk — Court of Appeals ✓ Judge J.
+Robin Hunt (ret.) — Court of Appeals ✓ Judge Linda Coburn — Court of Appeals ✓ Judge Tam Bui — Court of Appeals ✓ Judge Cecily Hazelrigg — Court of Appeals Asotin, Columbia & Garfield Counties ✓ Judge Brooke Burns Benton & Franklin Counties ✓ Judge Carrie Runge (ret.) ✓ Judge Diana Ruff (ret.) ✓ Judge Jacqueline Shea-Brown Chelan County ✓ Judge Alicia Nakata (ret.) Clallam County ✓ Judge Elizabeth Stanley Clark County ✓ Judge Diane Woolard (ret.) Cowlitz County ✓ Judge Jill Karmy ✓ Judge Marilyn Haan (ret.) ✓ Judge Steve Warning (ret.) Ferry, Stevens & Pend Oreille Counties ✓ Judge Lisa Malpass Grays Harbor County ✓ Judge Katie Svoboda ✓ Judge Mark McCauley (ret.) ✓ Judge Vini Samuel Island County ✓ Judge Christon Skinner ✓ Judge Vickie Churchill (ret.) Jefferson County ✓ Judge Brandon Mack ✓ Judge Mindy Walker King County ✓ Judge Andrea Robertson — Superior Court ✓ Judge Anita Crawford Willis — Seattle Municipal Court ✓ Judge Annette Messitt (ret.) — Superior Court ✓ Judge Anthony Gipe — Kent Municipal Court ✓ Judge Averil Rothrock — Superior Court ✓ Judge Ben Santos — Superior Court ✓ Judge Carol Schapira (ret.) — Superior Court ✓ Judge Catherine Schaffer (ret.) — Superior Court ✓ Judge Charles Burdell (ret.) — Superior Court ✓ Judge Dan York — Superior Court ✓ Judge Deborah Fleck (ret.) — Superior Court ✓ Judge Elizabeth Berns — Superior Court ✓ Judge Faye Chess — Seattle Municipal Court ✓ Judge Jason Holloway — Superior Court ✓ Judge Jeff Ramsdell (ret.) — Superior Court ✓ Judge Joe Campagna — Superior Court ✓ Judge Judith H.
+Ramseyer (ret.) — Superior Court ✓ Judge Kathleen Learned (ret.) — Superior Court ✓ Judge Kent Liu — Superior Court ✓ Judge Kevin Peck — District Court ✓ Judge Kim Walden — Tukwila Municipal Court ✓ Judge Kristin Shotwell — District Court ✓ Judge Kuljinder Dhillon — District Court ✓ Judge Lisa Paglisotti (ret.) — District Court ✓ Judge Marcine Anderson (ret.) — District Court ✓ Judge Marshall Ferguson — Superior Court ✓ Judge Maureen McKee — Superior Court ✓ Judge Monica Cary — Superior Court ✓ Judge Nick Straley — Superior Court ✓ Judge Nicole Hecklinger — Superior Court ✓ Judge Paul Crisalli — Superior Court ✓ Judge Steve Scott (ret.) — Superior Court ✓ Judge Susan Amini (ret.) — Superior Court ✓ Judge Susan Llorens — Superior Court ✓ Judge Tenaya Scheinman — Superior Court ✓ Judge Theresa Doyle (ret.) — Superior Court ✓ Judge Todd Tinker — Superior Court Kitsap County ✓ Judge Cadine Ferguson-Brown — Superior Court ✓ Judge Kevin Hull — Superior Court Kittitas County ✓ Judge James Kirkham — Superior Court Pierce County ✓ Judge Angelica Williams — Superior Court ✓ Judge Clarence Henderson — Superior Court ✓ Judge Dee Sonntag — Tacoma Municipal Court ✓ Judge Doris Watkins — Superior Court ✓ Judge Ingrid McLeod — Superior Court ✓ Judge Jennifer Andrews — Superior Court ✓ Judge Joe Evans — Superior Court ✓ Judge Scott Peters — Superior Court ✓ Judge Susan Serko (ret.) — Superior Court ✓ Judge TaTeasha Davis — Superior Court ✓ Judge Vicki L.
+Hogan (ret.) — Superior Court San Juan County ✓ Judge Katie Loring — Superior Court Skagit County ✓ Judge Elizabeth Neidzwski — Superior Court ✓ Judge John M.
+Meyer (ret.) — Superior Court ✓ Judge Laura Riquelme — Superior Court ✓ Judge Susan Cook (ret.) — Superior Court Snohomish County ✓ Judge Jennifer Rancourt — District Court ✓ Judge Jon Scott — Superior Court ✓ Judge Marybeth Dingledy — Superior Court ✓ Judge Paul Thompson — Superior Court ✓ Judge Rachelle Francis — District Court ✓ Judge Whitney Rivera — Superior Court ✓ Judge William Steffener — Superior Court Spokane County ✓ Judge Andrew Biviano — District Court ✓ Judge Breean Beggs — Superior Court ✓ Judge Charnelle Bjelkengren — Superior Court ✓ Judge Dean Chuang — Superior Court ✓ Judge Ellen Clark (ret.) — Superior Court ✓ Judge Gloria Ochoa-Bruck — Spokane Municipal Court ✓ Judge Greg Sypolt (ret.) — Superior Court ✓ Judge Jackie High-Edward — Superior Court ✓ Judge James Murphy (ret.) — Superior Court ✓ Judge Kristin O’Sullivan — Spokane Municipal Court ✓ Judge Mary Logan — Spokane Municipal Court ✓ Judge Maryann Moreno (ret.) — Superior Court ✓ Judge Paul Bastine (ret.) — Superior Court ✓ Judge Shelley Szambelan — Superior Court ✓ Judge Teri Eitzen (ret.) — Superior Court Thurston County ✓ Judge Indu Thomas — Superior Court ✓ Judge Paula Casey (ret.) — Superior Court Walla Walla County ✓ Judge John Lohrmann (ret.) — Superior Court ✓ Judge Patricia Fulton — Superior Court Whatcom County ✓ Judge Jennifer Slattery — Superior Court ✓ Judge Jonathan Rands — District Court ✓ Judge Nicholas I.
+Henery — Bellingham Municipal Court Whitman County ✓ Judge Roger Sandberg — Superior Court Yakima County ✓ Judge Elizabeth Tutsch — Superior Court ✓ Judge Shane Silverthorn — Superior Court Join the Team Cast your ballot for Judge Hawk — Primary Election, August 4, 2026 Donate Get Involved Hawk for Justice Judge Jaime Hawk for Washington State Supreme Court, Position 3 Quick Links Meet Judge Hawk Endorsements Media Get Involved Get Involved Donate Info@judgehawk.com Paid for by Hawk for Justice Campaign Committee P.O.
+Box 27113, Seattle, WA 98165

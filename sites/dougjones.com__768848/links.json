@@ -1,19 +1,70 @@
 [
-"https://dougjones.com/",
-"https://dougjones.com/contact",
-"https://dougjones.com/priorities",
-"https://dougjones.com/volunteer",
-"https://dougjones.com/vote",
-"https://facebook.com/dougforalabama",
-"https://instagram.com/dougforalabama",
-"https://secure.actblue.com/donate/dfaweb",
-"https://secure.actblue.com/donate/dfaweb?amount=100",
-"https://secure.actblue.com/donate/dfaweb?amount=15",
-"https://secure.actblue.com/donate/dfaweb?amount=250",
-"https://secure.actblue.com/donate/dfaweb?amount=35",
-"https://secure.actblue.com/donate/dfaweb?amount=7",
-"https://secure.actblue.com/donate/djfounder",
-"https://tiktok.com/@dougforalabama",
-"https://x.com/DougJones",
-"https://youtube.com/watch?v=AbUIX3vyqOs"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/dfaweb?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/dfaweb?amount=15"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/dfaweb?amount=250"
+},
+{
+"text": "$35",
+"href": "https://secure.actblue.com/donate/dfaweb?amount=35"
+},
+{
+"text": "$7",
+"href": "https://secure.actblue.com/donate/dfaweb?amount=7"
+},
+{
+"text": "COMMIT TO VOTE",
+"href": "https://www.dougjones.com/vote"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.dougjones.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/djfounder"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/dfaweb"
+},
+{
+"text": "Priorities",
+"href": "https://www.dougjones.com/priorities"
+},
+{
+"text": "Volunteer Today",
+"href": "https://www.dougjones.com/volunteer"
+},
+{
+"text": "Watch and share",
+"href": "https://www.youtube.com/watch?v=AbUIX3vyqOs"
+},
+{
+"text": "[image: Doug for Alabama]",
+"href": "https://www.dougjones.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@dougforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DougJones"
+}
 ]

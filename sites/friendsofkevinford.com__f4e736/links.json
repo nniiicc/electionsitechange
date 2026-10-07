@@ -1,13 +1,106 @@
 [
-"https://facebook.com/FriendsofKevinFord",
-"https://friendsofkevinford.com/",
-"https://friendsofkevinford.com/about",
-"https://friendsofkevinford.com/contact",
-"https://friendsofkevinford.com/issues",
-"https://friendsofkevinford.com/privacy",
-"https://friendsofkevinford.com/volunteer",
-"https://instagram.com/FriendsofKevinford",
-"https://secure.anedot.com/friends-of-kevin-ford/donatenow",
-"https://truthsocial.com/@FriendsofKevinFord",
-"https://x.com/FriendsofFord"
+{
+"text": "About",
+"href": "https://friendsofkevinford.com/about/"
+},
+{
+"text": "Agriculture",
+"href": "https://friendsofkevinford.com/issues/#agriculture"
+},
+{
+"text": "Contact",
+"href": "https://friendsofkevinford.com/contact/"
+},
+{
+"text": "Contact Kevin",
+"href": "https://friendsofkevinford.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-kevin-ford/donatenow"
+},
+{
+"text": "Education",
+"href": "https://friendsofkevinford.com/issues/#education"
+},
+{
+"text": "Get involved",
+"href": "https://friendsofkevinford.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://friendsofkevinford.com/"
+},
+{
+"text": "Issues",
+"href": "https://friendsofkevinford.com/issues/"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://friendsofkevinford.com/privacy"
+},
+{
+"text": "Public Safety",
+"href": "https://friendsofkevinford.com/issues/#publicsafety"
+},
+{
+"text": "Read Kevin's Story",
+"href": "https://friendsofkevinford.com/about"
+},
+{
+"text": "See more issues",
+"href": "https://friendsofkevinford.com/issues/#education"
+},
+{
+"text": "Taxes",
+"href": "https://friendsofkevinford.com/issues/#taxes"
+},
+{
+"text": "Volunteer",
+"href": "https://friendsofkevinford.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/contact/"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/issues/#agriculture"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/issues/#education"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/issues/#publicsafety"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/issues/#taxes"
+},
+{
+"text": "[no text]",
+"href": "https://friendsofkevinford.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/friends-of-kevin-ford/donatenow"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@FriendsofKevinFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FriendsofKevinFord"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/FriendsofKevinford"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/FriendsofFord"
+}
 ]

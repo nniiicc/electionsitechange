@@ -1,7 +1,38 @@
 [
-"http://wix.com/",
-"https://facebook.com/mahacekformissouri",
-"https://mahacekformissouri.com/",
-"https://mahacekformissouri.com/terms",
-"https://secure.anedot.com/mahacek-for-missouri/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mahacek-for-missouri/donate"
+},
+{
+"text": "EMAIL",
+"href": "mailto:MahacekForMissouri@gmail.com?subject=I+saw+your+website..."
+},
+{
+"text": "FOLLOW ON FACEBOOK",
+"href": "https://www.facebook.com/mahacekformissouri"
+},
+{
+"text": "Home",
+"href": "https://www.mahacekformissouri.com"
+},
+{
+"text": "Norah Horowitz, Ph.D.",
+"href": "https://www.mahacekformissouri.com"
+},
+{
+"text": "Terms",
+"href": "https://www.mahacekformissouri.com/terms"
+},
+{
+"text": "View terms of use",
+"href": "https://www.mahacekformissouri.com/terms"
+},
+{
+"text": "Wix",
+"href": "http://wix.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/mahacek-for-missouri/donate"
+}
 ]

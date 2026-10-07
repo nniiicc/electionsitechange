@@ -1,9 +1,7 @@
-Accomplishments
-Reduced Taxes: cut the personal and corporate income tax rates, eliminated North Carolina’s death tax.
-Enacted Voter ID: voted to protect our elections by making Voter ID a requirement in North Carolina.
-Stopped Boys in Girls' Sports: over-rode Governor Cooper’s veto to pass House Bill 574, which bans biological males from joining girls’ sports teams in our schools.
-Passed the Parents' Bill of Rights: voted to override Governor Cooper’s veto of Senate Bill 49, which gives parents control over their kids' education, health care, and upbringing and requires schools to notify parents about requested name/pronoun changes.
-Passed the Illegal Alien Enforcement Act: voted to pass House Bill 318, which requires jails and courts to check immigration status for those accused of serious crimes
-Holding Polluters Accountable: championed the PFAS Pollution and Polluter Liability Act in 2025 to ensure that the burden of clean water falls on those who pollute, not on your family's budget
-Investing in Clean Water: advocated for and secured significant state and federal resources for local water infrastructure upgrades, guaranteeing access to clean, safe drinking water for generations to come.
-Coastal Protection: worked to secure funding for critical flood mitigation projects, protecting our homes and businesses from coastal challenges.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Accomplishments Reduced Taxes : cut the personal and corporate income tax rates, eliminated North Carolina’s death tax.
+Enacted Voter ID : voted to protect our elections by making Voter ID a requirement in North Carolina.
+Stopped Boys in Girls' Sports : over-rode Governor Cooper’s veto to pass House Bill 574, which bans biological males from joining girls’ sports teams in our schools.
+Passed the Parents' Bill of Rights : voted to override Governor Cooper’s veto of Senate Bill 49, which gives parents control over their kids' education, health care, and upbringing and requires schools to notify parents about requested name/pronoun changes.
+Passed the Illegal Alien Enforcement Act : voted to pass House Bill 318, which requires jails and courts to check immigration status for those accused of serious crimes Holding Polluters Accountable : championed the PFAS Pollution and Polluter Liability Act in 2025 to ensure that the burden of clean water falls on those who pollute, not on your family's budget Investing in Clean Water : advocated for and secured significant state and federal resources for local water infrastructure upgrades, guaranteeing access to clean, safe drinking water for generations to come.
+Coastal Protection : worked to secure funding for critical flood mitigation projects, protecting our homes and businesses from coastal challenges. © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

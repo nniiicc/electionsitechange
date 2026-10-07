@@ -1,7 +1,11 @@
 {
  "description": "Explore Cara Pavalock&#39;s Connecticut electoral platform focusing on 2nd Amendment rights, government spending control, and reducing electricity costs.",
  "final_url": "https://reelectcara.com/platform",
- "paid_for_by": null,
+ "fingerprint": "e656287ac113fe265cd11aea36324391f2535934",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Platform",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

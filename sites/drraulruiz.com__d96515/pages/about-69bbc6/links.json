@@ -1,18 +1,86 @@
 [
-"https://actionnetwork.org/forms/contact-us-ruiz",
-"https://apolloartistry.com/",
-"https://drraulruiz.com/",
-"https://drraulruiz.com/about",
-"https://drraulruiz.com/facebook",
-"https://drraulruiz.com/instagram",
-"https://drraulruiz.com/issues",
-"https://drraulruiz.com/news",
-"https://drraulruiz.com/privacy-policy",
-"https://drraulruiz.com/twitter",
-"https://drraulruiz.com/volunteer",
-"https://drraulruiz.com/youtube",
-"https://facebook.com/drraulruiz",
-"https://secure.actblue.com/contribute/page/contributeonline?amount=25",
-"https://secure.actblue.com/contribute/page/contributeonline?amount=5",
-"https://twitter.com/Dr_RaulRuiz"
+{
+"text": "Contact Us",
+"href": "https://actionnetwork.org/forms/contact-us-ruiz/"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://secure.actblue.com/contribute/page/contributeonline?amount=5"
+},
+{
+"text": "DONATE DONATE",
+"href": "https://secure.actblue.com/contribute/page/contributeonline?amount=5"
+},
+{
+"text": "DONATE TODAY DONATE TODAY",
+"href": "https://secure.actblue.com/contribute/page/contributeonline?amount=25"
+},
+{
+"text": "Facebook",
+"href": "https://drraulruiz.com/facebook"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/drraulruiz"
+},
+{
+"text": "Get Involved",
+"href": "https://drraulruiz.com/volunteer"
+},
+{
+"text": "Get Involved",
+"href": "https://drraulruiz.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://drraulruiz.com"
+},
+{
+"text": "Home",
+"href": "https://drraulruiz.com/"
+},
+{
+"text": "In the News",
+"href": "https://drraulruiz.com/news/"
+},
+{
+"text": "Instagram",
+"href": "https://drraulruiz.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://drraulruiz.com/issues/"
+},
+{
+"text": "Meet Dr. Ruiz",
+"href": "https://drraulruiz.com/about/"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drraulruiz.com/privacy-policy/"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://drraulruiz.com/volunteer"
+},
+{
+"text": "X-twitter",
+"href": "https://drraulruiz.com/twitter"
+},
+{
+"text": "X-twitter",
+"href": "https://www.twitter.com/Dr_RaulRuiz"
+},
+{
+"text": "Youtube",
+"href": "https://drraulruiz.com/youtube"
+},
+{
+"text": "[image]",
+"href": "https://drraulruiz.com"
+}
 ]

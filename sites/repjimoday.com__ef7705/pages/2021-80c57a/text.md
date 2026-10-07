@@ -1,7 +1,2 @@
-State Representative for the 14th Worcester district of Massachusetts
-HOME
-ISSUES & POLICIES
-GALLERY
-NEWSROOM
-CONTACT
-More
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+Reach Out and Read event at the State House Taiwan Chamber of Commerce donates 10,000 face masks to the Worcester Senior Center I humbly accepted a "Trailblazer" award from the Association for Behavioral Healthcare bottom of page

@@ -1,3 +1,6 @@
+Skip navigation menu About Endorsements State Democratic Executive Committee Events Nice to meet you.
+About Endorsements State Democratic Executive Committee Events Nice to meet you.
+I'm Tabitha Isner (pronounced Eyes-ner).
 I'm a dog lover, a mom, a pastor's wife, a dedicated Christian, a gym fanatic, and a little bit obsessed with democracy.
 I think this American form of government is magical.
 It's a leap of faith to trust our neighbors to be co-creators of a society that works for everyone - Black and white, Native and immigrant, professional and blue collar, infant to elderly.
@@ -14,13 +17,15 @@ In 2017, we adopted an 8 year old boy after fostering him for 2 years.
 I deeply value his privacy, so you won't hear a lot about him.
 Trust me when I tell you he's a cool kid, and I can't wait to see what's ahead for him.
 I'm deeply passionate about foster care and adoption, and I continue to volunteer as a CASA (Court Appointed Special Advocate), serving families involved in the Child Welfare system in the River Region.
-"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." – Lao Tzu
-I might as well tell you
-Some people want to know
-Educational Credentials
-Bachelor in Psychology, Washington University in St Louis
-Master of Public Policy, University of Chicago
-Master of Divinity, University of Chicago
-Certificate in Change Management, Cornell University
-Professional Experiences
-Research Analyst, Early Childhood Care & Education
+Things I believe Everyday we choose how to interact with the world.
+Here are a few things I say to myself often.
+Everyone you meet is fighting a battle you know nothing about.
+Be kind.
+Never doubt that a small group of thoughtful, committed citizens can change the world.
+Indeed, it's the only thing that ever has.
+An ounce of prevention is worth a pound of cure.
+Stress lives in the body.
+Sweat it out.
+Love your enemies.
+"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage." – Lao Tzu I might as well tell you Some people want to know Educational Credentials Bachelor in Psychology, Washington University in St Louis Master of Public Policy, University of Chicago Master of Divinity, University of Chicago Certificate in Change Management, Cornell University Professional Experiences Research Analyst, Early Childhood Care & Education Strategic Planning , Department of Human Services Client Success Manager, Software Company Interim Executive Director, Foster Care Agency Founder & Executive Director, Atlas for Democracy More is possible.
+Powered by RUN! website builder Paid for by Tabitha Isner You need to enable JavaScript to run this app.

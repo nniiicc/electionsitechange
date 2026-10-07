@@ -1,6 +1,4 @@
-ACERCA DE MI
-Embedded Files
-He residido en Westchester durante 60 años.
+Search this site Embedded Files Skip to main content Skip to navigation laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE laurieryan.com Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE More Home ABOUT LAURIE ISSUES MY RESPONSES SURVEYS VOTE DONATE ACERCA DE MI He residido en Westchester durante 60 años.
 Mi familia y yo vivimos actualmente en Cortlandt Manor.
 Soy profesor de matemáticas jubilado de una escuela secundaria pública y he sido miembro electo de la junta directiva de HenHud, además de ofrecer mi tiempo como entrenador deportivo y tutor de matemáticas en todo el condado.
 Obtuve mi Certificación de Liderazgo Escolar del College of New Rochelle, mi Maestría en Educación y Matemáticas del Manhattanville College y mi Licenciatura en Bellas Artes y Diseño Gráfico de la Universidad Pace.
@@ -20,6 +18,4 @@ Trabajé con la Junta y el Superintendente en estrategias para el cierre de Indi
 También di a conocer el Presupuesto Municipal de Cortlandt para 2020, que muestra aumentos salariales exorbitantes durante la COVID-19, la realidad de Indian Point y las zonas tóxicas en todo Cortlandt.
 Presenté ideas sobre energía, embellecimiento, aplicación de la ley, eventos comunitarios, mayor acceso al voto, poda de árboles, gestión de la pavimentación de carreteras y cumplimiento del código, además de participar en los foros costeros de Verplanck.
 Todos estos puestos me han proporcionado años de experiencia en liderazgo, gestión y paciencia.
-Page updated
-Google Sites
-Report abuse
+LAURIE RYAN for NEW YORK STATE ASSEMBLY DISTRICT 95 VOTE TUESDAY NOVEMBER 3, 2026 Fecha de la Elección: Martes 3 de Noviembre 2026 EARLY VOTING SATURDAY OCTOBER 24 - SUNDAY NOVEMBER 1 Votación anticipada: sábado 24 de Octubre - Domingo 1 de Noviembre ALL LITERATURE, YARDSIGNS, MERCHANDISE, ADS, WEBSITE PAID FOR BY LAURIERYAN4NY PRIVACY POLICY EMAIL FACEBOOK INSTAGRAM Google Sites Report abuse Page details Page updated Google Sites Report abuse

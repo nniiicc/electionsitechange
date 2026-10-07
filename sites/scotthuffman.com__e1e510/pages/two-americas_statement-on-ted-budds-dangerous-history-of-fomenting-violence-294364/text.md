@@ -1,4 +1,5 @@
-| Congressman Ted Budd spent the months following the election spreading lies and misinformation about alleged election fraud.
+Home Why I'm Running Issues Two Americas Contact Donate Volunteer #TwoAmericas We live in #TwoAmericas the Extreme Rich and Everybody else who is the #workingclass.
+STATEMENT ON TED BUDD’S DANGEROUS HISTORY OF FOMENTING VIOLENCE 1/9/2021 Congressman Ted Budd spent the months following the election spreading lies and misinformation about alleged election fraud.
 He ginned up this propaganda and never once acknowledged any of the 60 plus court cases where absolutely no fraud was even alleged, much less shown, by the Trump legal team.
 Zero.
 Yet, on and on Ted Budd went, even going so far as to encourage Republicans to change their voting address to Georgia for the special election to “level the playing field.” Budd was one of the first in a group of the President’s cadre of elected officials who amplified and promoted unproven allegations of election fraud.
@@ -31,7 +32,13 @@ I would understand if a violent uprising was the only recourse imaginable in the
 But that’s not what happened here.
 Intelligent men like Ted Budd knew the outcome and saw an opportunity for their political future so they refused to properly inform Americans of what happened.
 They chose themselves instead (just like Budd chose his family Business to receive $10 million in covid relief funds while voting against additional aid for Americans).
-This craven and dangerous failure to spread truth instead of misinformation has resulted in a violation of our most sacred governmental institutions and the first domestic terror attack in centuries. | Posts from before 2025 were written during Scott's campaigns for U.S.
+This craven and dangerous failure to spread truth instead of misinformation has resulted in a violation of our most sacred governmental institutions and the first domestic terror attack in centuries.
+Comments are closed.
+Posts from before 2025 were written during Scott's campaigns for U.S.
 Congress and are kept here as part of his public record.
 Author Scott Huffman Concerned Citizen, Small Business Entrepreneur, Veteran, turned Activist who ran for U.S.
-Congress Archives Categories |
+Congress Archives October 2026 September 2026 July 2026 May 2026 April 2026 October 2025 September 2025 June 2025 November 2021 September 2021 August 2021 February 2021 January 2021 November 2020 November 2019 September 2019 August 2019 July 2019 April 2019 March 2019 February 2019 May 2018 April 2016 Categories All RSS Feed × Before you go, can you donate $10?
+Donate $10 Not Now Paid for by Scott Huffman for NC House 76 Follow Scott on @TikTok at HuffmanForNC Use of Scott's military rank, titles, or photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+For inquiries, please contact [email protected] © COPYRIGHT #.
+Scott Huffman.
+ALL RIGHTS RESERVED Home Why I'm Running Issues Two Americas Contact Donate Volunteer Scott Huffman for NC

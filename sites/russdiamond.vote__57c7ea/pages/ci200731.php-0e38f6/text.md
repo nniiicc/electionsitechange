@@ -1,4 +1,4 @@
-You may have heard that Tom Wolf and his sidekick Rachel Levine have launched a full frontal attack against me.
+Home Donate Blog News About Connect Tom Wolf's Worst Nightmare You may have heard that Tom Wolf and his sidekick Rachel Levine have launched a full frontal attack against me .
 Their ludicrous claim that my statement pointing out the intolerance and hatred caused across Pennsylvania by their silly and unenforceable mask mandate was a "thinly veiled" attack against the LGBTQ community is an utter lie.
 Read it for yourself here.
 There's not a single mention of LGBTQ issues.
@@ -10,11 +10,11 @@ All along, it was about me.
 I'm glad he's finally admitted it.
 But just like every other villain, he's squirming around like a snake and lying about it.
 The truth is, I've been Tom Wolf's worst nightmare throughout his COVID-19 fiasco.
-I was the author of HR836, to terminate his disaster emergency and strip away his dictatorial powers.
+I was the author of HR836, to terminate his disaster emergency and strip away his dictatorial powers .
 I was the loudest voice in Harrisburg against his lockdown edicts and orders.
 It was my legislative efforts which set up constitutional amendments on the ballot next year to allow YOU to finally end a governor's ability to rule like a king.
 I am the author of HR879, calling for the a removal or resignation of his sidekick Rachel Levine as well.
-And my HB196, another constitutional amendment to change the way we elect appellate court judges in Pennsylvania, is a threat to activist judges who like to legislate from the bench.
+And my HB196, another constitutional amendment to change the way we elect appellate court judges in Pennsylvania , is a threat to activist judges who like to legislate from the bench.
 Wolf is also VERY afraid of what will be learned about his failures regarding the inequitable and potentially corrupt business waiver system and his delivery of COVID positive patients back into nursing homes, which contributed to the deaths of over 4800 members of Pennsylvania's Greatest Generation, nearly 70 percent of all COVID deaths in the state.
 Desperate people do desperate things.
 And that's why Tom Wolf is lying about me.
@@ -30,4 +30,5 @@ I'm proud of my record fighting for your rights and will continue to take on Tom
 But I cannot do it without your help.
 I am grateful for your continued support.
 May God bless you, your family, and the Commonwealth of Pennsylvania.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

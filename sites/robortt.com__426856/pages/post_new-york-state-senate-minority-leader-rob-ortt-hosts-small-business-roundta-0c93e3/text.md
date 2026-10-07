@@ -1,19 +1,18 @@
-New York State Senate Minority Leader Rob Ortt Hosts Small Business Roundtable
-Discussion with local small business owners to improve Western New York’s Business Climate
-Kendall, NY – Today, New York State Senator Rob Ortt hosted a small business roundtable in partnership with SUNY Brockport Small Business Development Center Regional Director Lindsay Ward at The Grove 1848 in Kendall.
+top of page HOME ABOUT NEWS ISSUES CONTACT More Use tab to navigate through the menu items.
+DONATE All Posts Search New York State Senate Minority Leader Rob Ortt Hosts Small Business Roundtable Apr 29, 2024 2 min read Discussion with local small business owners to improve Western New York’s Business Climate Kendall, NY – Today, New York State Senator Rob Ortt hosted a small business roundtable in partnership with SUNY Brockport Small Business Development Center Regional Director Lindsay Ward at The Grove 1848 in Kendall.
 A variety of businesses and entrepreneurs were represented with backgrounds and interests including, realty, agriculture, retail, food service, healthcare, banking, among others attending the meeting to learn more about the successes and struggles of businesses around Orleans and Monroe County.
 “There is no better way to learn what business owners are dealing with, both good and bad, than hearing directly from them – I’d like to thank everyone who took time out of their busy schedules to join us this morning for a lively discussion on what is and what is not working for Western New York’s Business Climate,” said Senator Ortt.
-“I’m always thankful to be able to gather with and hear from local businesses and deliver the latest news out of Albany and how legislative changes could or will directly affect their livelihood and bottom line.”
-Participants talked about many concerns over running a business that include increased taxes, failure to address issues with unemployment insurance, staffing shortages and utility costs.
+“I’m always thankful to be able to gather with and hear from local businesses and deliver the latest news out of Albany and how legislative changes could or will directly affect their livelihood and bottom line.” Participants talked about many concerns over running a business that include increased taxes, failure to address issues with unemployment insurance, staffing shortages and utility costs.
 Strict rules and regulations governing many businesses from the local level up to the state level remain chief among the top concerns of small business owners and entrepreneurs.
-Senator Ortt introduced and continues to champion the Red Tape Reduction Act (S869).
+Senator Ortt introduced and continues to champion the Red Tape Reduction Act ( S869 ).
 This legislation would require that when a rule is adopted that imposes a new administrative burden on a business, one or more existing rules must be amended or repealed to offset the cost of the new administrative burden.
 This would also require the identification of the rule to be repealed whenever a new rule is proposed.
 There are many avenues business owners and entrepreneurs must navigate including the laws and regulations of their respective industry, securing loans to fund their business, in addition to hiring qualified and reliable people to help out.
 It can be an overwhelming task for any person to deal with, especially if this is their first time.
 Thankfully, there are well qualified experts to help and offer guidance through many of the processes.
-The SUNY Brockport Small Business Development Center is one such place and Regional Director Lindsay Ward oversees and assists a large portion of Western New York businesses in an area serving Genesee, Monroe, Ontario, Orleans, and Wayne Counties with confidential business advisement at no charge.
+The SUNY Brockport Small Business Development Center is one such place and Regional Director Lindsay Ward oversees and assists a large portion of Western New York businesses in an area serving Genesee, Monroe, Ontario, Orleans, and Wayne ​Counties with confidential business advisement at no charge.
 “I would like to thank Senator Ortt for hosting the small business roundtable discussion with small businesses and entrepreneurs within Orleans and Monroe Counties, and in partnership with the SUNY Brockport Small Business Development Center,” said Lindsay Ward, Regional Director of the SUNY Brockport Small Business Development Center.
 “We are proud to share all the resources that our center offers to support entrepreneurs and small businesses across Western New York.
-I encourage anyone to feel free to reach out to our center anytime for assistance with their small business.”
-###
+I encourage anyone to feel free to reach out to our center anytime for assistance with their small business.” ### Recent Posts See All New York State Senator Rob Ortt, Assembly Members Mike Norris, and Angelo Morinello Advocate for Lockport Cave Legislation Statement From Senate Republican Leader Rob Ortt On End Of 2024 Legislative Session Statement From Senate Republican Leader Rob Ortt and Assembly Republican Leader Will Barclay Endorsing Donald J.
+Trump For President PO Box 1279 North Tonawanda, NY 14120 Paid for by Rob Ortt for New York HOME ABOUT NEWS ISSUES CONTACT Subscribe to Our Newsletter I accept terms & conditions Sign me up!
+Submit Thanks for submitting! bottom of page

@@ -1,26 +1,17 @@
-Take Action
-How to Write a Letter to the Editor
-Learn how to write and submit a compelling letter to the editor about the issues that matter most to you.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Take Action How to Write a Letter to the Editor Learn how to write and submit a compelling letter to the editor about the issues that matter most to you.
 Use your voice to shape the conversation and help reach more voters across NY-01.
-Write a Postcard
-Write postcards to connect directly with voters across NY-01 and share why you support Chris Gallant.
+How To Write a Letter to the Editor Write a Postcard Write postcards to connect directly with voters across NY-01 and share why you support Chris Gallant.
 Every handwritten message helps build momentum and bring our campaign to more communities.
-Canvass Sign Up
-Join Team Gallant to knock on doors and speak directly with voters across NY-01.
+Write a Postcard Canvass Sign Up Join Team Gallant to knock on doors and speak directly with voters across NY-01.
 Every conversation helps us build support and bring our message to every community.
-Phone Bank Sign Up
-Join Team Gallant to call voters across NY-01 and discuss the issues that matter most.
+Canvass Sign Up Phone Bank Sign Up Join Team Gallant to call voters across NY-01 and discuss the issues that matter most.
 Every conversation helps us build support and reach more communities.
-Check Voter Registration Status
-Check your voter registration status or your friend or family’s and make sure the information is accurate and up to date.
+Phone Bank Sign Up Check Voter Registration Status Check your voter registration status or your friend or family’s and make sure the information is accurate and up to date.
 Taking a moment to verify now will help ensure you are ready to vote.
-Shop
-Shop official Team Gallant merchandise and show your support wherever you go.
+Check Voter Registration Status Shop Shop official Team Gallant merchandise and show your support wherever you go.
 Every purchase helps spread the word and build momentum across NY-01.
-Display a Lawn Sign
-Display a lawn sign to show your support and help spread the word in your neighborhood!
-Long Island Deserves Better —Chris Gallant is Ready to Serve
-Long Island deserves a representative who shows up, tells the truth, and puts our communities ahead of partisan politics.
+Shop Display a Lawn Sign Display a lawn sign to show your support and help spread the word in your neighborhood!
+Display a Lawn Sign Long Island Deserves Better —Chris Gallant is Ready to Serve Long Island deserves a representative who shows up, tells the truth, and puts our communities ahead of partisan politics.
 Chris Gallant has spent his life serving others, first in uniform as an Army Black Hawk pilot, then as an air traffic controller, volunteer firefighter, and union leader.
 He knows what it means to answer the call, work with people from every background, and put mission before politics.
 In Congress, Chris will fight to lower the cost of living, protect healthcare, bring our federal tax dollars back to Long Island, strengthen our infrastructure, support veterans and first responders, and always put the people of NY-01 first.
@@ -28,3 +19,8 @@ Service.
 Solutions.
 Long Island.
 That’s the difference.
+Join the Fight Early Voting Begins October 24th, 2026 Days Hours Minutes Seconds Election Day November 3rd, 2026 Days Hours Minutes Seconds This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

@@ -1,4 +1,4 @@
-top of page
-Join THOMAS ON THE TRAIL
-- Mon, Oct 05Oct 05, 2026, 5:30 PM – Oct 06, 2026, 7:00 PMManchester Community Library, 138 Cemetery Ave, Manchester Center, VT 05255, USAHear from Thomas West and Rob Hunter as they join the other candidates for Bennington-4 to discuss their priorities and answer questions about the issues facing our communities.
-bottom of page
+top of page Meet Thomas Get Involved Events Supporters News Issues Housing Education Cost of Living Healthy Communities Rural Vermont Good Government & Democracy Environment & Climate Public Safety DONATE Join THOMAS ON THE TRAIL No events at the moment Home Meet Thomas Issues Get Involved News Contact PAID FOR BY WEST FOR VERMONT PO BOX 1861 Manchester Center, VT 05255​ (802) 768-7801​​ thomas@ westforvermont.com Thomas West is a former member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Army, the Department of Defense, or any branch of the U.S. government. bottom of page

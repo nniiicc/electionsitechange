@@ -1,4 +1,4 @@
-Gary Weart is a retired North Carolina public school teacher, coach, administrator, and lifelong advocate for safe, thriving schools.
+Skip to content Gary Weart for NC Senate district 33 HOME The Home page MEET GARY Gary’s Bio ISSUES GET INVOLVED EVENTS Events DONATE MEET GARY Gary Weart is a retired North Carolina public school teacher, coach, administrator, and lifelong advocate for safe, thriving schools.
 He has dedicated over 50 years to education, serving as a teacher, coach of seven sports, administrator, violence-prevention specialist, teacher-support specialist, and adjunct professor at UNC Charlotte.
 After witnessing too many young people affected by violence, Gary co-founded Students Against Violence Everywhere (S.A.V.E.) in 1989.
 Today, the S.A.V.E. program has over 5,000 clubs in 49 states and several international chapters, and is recognized as Point of Light #875 by President George H.W.
@@ -11,4 +11,7 @@ In 1972, he received the American Spirit Honor Medal at Fort Jackson, South Caro
 Beyond education and public service, Gary has lived a remarkable life: he carried the Olympic Torch twice (Atlanta 1996, Salt Lake City 2002), introduced Governor Jim Hunt to the National SAVE Summit, and was recently awarded the Order of the Long Leaf Pine by Governor Roy Cooper, North Carolina’s highest civilian honor.
 When he isn’t advocating for schools and communities, Gary enjoys early morning walks to capture sunrises and sunsets, and watching a good ballgame.
 Now, he is ready for a new challenge: running for North Carolina Senate District 33, which includes Rowan and Stanly Counties, to put his lifelong experience in education and public service to work for the people of North Carolina.
-“Gary Weart will work for North Carolina—our students, our families, and our communities.”
+“Gary Weart will work for North Carolina—our students, our families, and our communities.” Share this: Share Email a link to a friend (Opens in new window) Email Share on Facebook (Opens in new window) Facebook Like Loading… Facebook Twitter Instagram TikTok YouTube HOME The Home page MEET GARY Gary’s Bio ISSUES GET INVOLVED EVENTS Events DONATE Paid for by the Committee to Elect Gary Weart.
+Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Gary Weart for NC Senate district 33 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

@@ -1,10 +1,6 @@
-For Immediate Release
-March 5, 2026
-EMILYs List Endorses Allison Russo for Ohio Secretary of State
-COLUMBUS – Allison Russo, candidate for Ohio Secretary of State, has been endorsed by EMILYs List, the nationally-recognized organization that works to elect pro-choice Democratic women up and down the ballot and across the country.
+Skip to content Donate TO ELECT Allison Russo for Secretary of State Chip in to elect Allison Russo If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount Home Meet Allison Endorsements News How to Vote Home Meet Allison Endorsements News How to Vote Get Involved Donate Russo for Ohio News For Immediate Release March 5, 2026 EMILYs List Endorses Allison Russo for Ohio Secretary of State COLUMBUS – Allison Russo, candidate for Ohio Secretary of State, has been endorsed by EMILYs List, the nationally-recognized organization that works to elect pro-choice Democratic women up and down the ballot and across the country.
 “As we enter Women’s History Month, I am thrilled to have the endorsement and support of EMILYs List in this race,” said Allison Russo, candidate for Ohio Secretary of State.
-“I’m grateful that EMILYs List recognizes the importance of electing women like me to higher office who have the experience, tenacity, and tireless dedication to protecting our democracy, empowering voters, and moving Ohio towards a stronger future.”
-“As a state lawmaker and Ohio House minority leader, Allison Russo has been a persistent, powerful voice for Ohioans.
+“I’m grateful that EMILYs List recognizes the importance of electing women like me to higher office who have the experience, tenacity, and tireless dedication to protecting our democracy, empowering voters, and moving Ohio towards a stronger future.” “As a state lawmaker and Ohio House minority leader, Allison Russo has been a persistent, powerful voice for Ohioans.
 In the state legislature, Russo fought for reproductive rights, workers’ rights, and fair elections.
 EMILYs List is proud to be supporting Allison.
 We know she can win this race, and when she does, she’ll be a fair and impartial Ohio Secretary of State, ” said EMILYs List President Jessica Mackler.
@@ -13,6 +9,6 @@ State Rep.
 Russo has served four terms in the Ohio House of Representatives protecting one person one vote, advocating for reproductive rights, and fighting for labor protections.
 During her time in the House of Representatives, Russo served as House Minority Leader for the Ohio House Democratic Caucus–a position she stepped down from earlier this year–and before that served as Ranking Member on the House Health Committee.
 Russo lives in Upper Arlington with her husband, their three children and their dog.
-To arrange an interview with Allison Russo or for more information, contact:
-Dennis Willard
-614.209.8945
+To arrange an interview with Allison Russo or for more information, contact: Dennis Willard 614.209.8945 [email protected] Stand with Allison Russo for Ohio $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Stand with team Allison Email Address Zip Phone Number Get updates Home Meet Allison Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

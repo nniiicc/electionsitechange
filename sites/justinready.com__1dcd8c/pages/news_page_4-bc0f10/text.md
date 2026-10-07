@@ -1,43 +1,14 @@
-Stay Up To Date
-The Ready Report
-November 5, 2025
-Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 19th
-Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 19th Focus on Local Legislative Requests & Community Input The Carroll County Delegation will hold their annual public hearing on proposed…
-November 4, 2025
-Ready Report: Carroll Delegation Hearing/Town Hall & Gov.
-Moore Pushes to Gerrymander Maryland
-There are two main items I wanted to be sure you saw today, the first is on our Carroll County Delegation local bill hearing and Town Hall in just over two weeks and second is…
-October 23, 2025
-Ready Report: Letter to President on MPRP, Concerns on EV School Bus Costs & More…
-Thank you to everyone who attended my 2026 Campaign Kickoff and our Annual Fall Family fundraiser at Island Green in Westminster.
+Skip to content Meet Justin News Priorities Ready Fall Festival Donate Meet Justin News Priorities Ready Fall Festival Donate Stay Up To Date The Ready Report November 5, 2025 Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 19th Carroll County Legislative Delegation to Hold Public Hearing & Town Hall Meeting on November 19th Focus on Local Legislative Requests & Community Input The Carroll County Delegation will hold their annual public hearing on proposed… Read More > November 4, 2025 Ready Report: Carroll Delegation Hearing/Town Hall & Gov.
+Moore Pushes to Gerrymander Maryland There are two main items I wanted to be sure you saw today, the first is on our Carroll County Delegation local bill hearing and Town Hall in just over two weeks and second is… Read More > October 23, 2025 Ready Report: Letter to President on MPRP, Concerns on EV School Bus Costs & More… Thank you to everyone who attended my 2026 Campaign Kickoff and our Annual Fall Family fundraiser at Island Green in Westminster.
 What an amazing turnout and great support from so many people in our community….
-October 9, 2025
-Ready Report: Government Shutdown Reaction, Historic Vehicle Tags Change & More…
-Good afternoon – I hope you and your family are enjoying these early weeks of fall.
-We are less than a week out from my 2026 Campaign Kickoff – our Annual Fall Family fundraiser at Island Green in…
-September 29, 2025
-Ready Report: 2.5 Weeks Out, Ready in the Community & Democrats Claim Budget… “Surplus”??
+Read More > October 9, 2025 Ready Report: Government Shutdown Reaction, Historic Vehicle Tags Change & More… Good afternoon – I hope you and your family are enjoying these early weeks of fall.
+We are less than a week out from my 2026 Campaign Kickoff – our Annual Fall Family fundraiser at Island Green in… Read More > September 29, 2025 Ready Report: 2.5 Weeks Out, Ready in the Community & Democrats Claim Budget… “Surplus”??
 I hope you had a good weekend and are looking ahead into the Fall season.
-Things have certainly been busy for my family and me, and I’ve also been traveling throughout the district and Maryland,…
-September 19, 2025
-Ready Report: Calling for Accountability, Suicide Prevention, Suppoting Local Control in Education & More
-I hope you and your family are doing well and enjoying the start of fall.
+Things have certainly been busy for my family and me, and I’ve also been traveling throughout the district and Maryland,… Read More > September 19, 2025 Ready Report: Calling for Accountability, Suicide Prevention, Suppoting Local Control in Education & More I hope you and your family are doing well and enjoying the start of fall.
 This has been an incredibly difficult time for our country and locally as well on a number of levels.
-Just…
-September 11, 2025
-Ready Report: Remembering 9/11, MPRP Update, Upcoming Event & More…
-It was 24 years ago today that many of our lives were forever changed.
-The evil attack on America meant that 2,977 people didn’t come home on that crisp and sunny early Fall day –…
-August 29, 2025
-Ready Report: Crime & Governor Moore Response, Park Funding Secured for Carroll & Local News
-I hope you and your family have a great Labor Day weekend ahead.
-For the hard working men and women who built and are still building this country, this is a great weekend to be…
-August 21, 2025
-Ready Report: County Commissioner Appointment, Carroll Dept of Public Safety “Ready Carroll” Registration Open & More…
-I hope you and your family are well.
+Just… Read More > September 11, 2025 Ready Report: Remembering 9/11, MPRP Update, Upcoming Event & More… It was #ago today that many of our lives were forever changed.
+The evil attack on America meant that 2,977 people didn’t come home on that crisp and sunny early Fall day –… Read More > August 29, 2025 Ready Report: Crime & Governor Moore Response, Park Funding Secured for Carroll & Local News I hope you and your family have a great Labor Day weekend ahead.
+For the hard working men and women who built and are still building this country, this is a great weekend to be… Read More > August 21, 2025 Ready Report: County Commissioner Appointment, Carroll Dept of Public Safety “Ready Carroll” Registration Open & More… I hope you and your family are well.
 Thank you as always for your support and sharing your concerns, thoughts and ideas.
-I’ve got news below on both local and statewide issues: Former Delegate Susan…
-August 8, 2025
-Ready Report: MPRP Public Feedback, Tax Free Week, & Local Update
-I hope you and your family are staying cool during this hot period and having a great summer season.
-A lot to update you with below: Public Service Commission Now Accepting Public Feedback on MPRP…
+I’ve got news below on both local and statewide issues: Former Delegate Susan… Read More > August 8, 2025 Ready Report: MPRP Public Feedback, Tax Free Week, & Local Update I hope you and your family are staying cool during this hot period and having a great summer season.
+A lot to update you with below: Public Service Commission Now Accepting Public Feedback on MPRP… Read More > Previous 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Next Privacy Policy Authority: Friends of Justin Ready, Rebecca Alford Ready, Treasurer

@@ -1,23 +1,94 @@
 [
-"https://baileyforillinois.com/",
-"https://baileyforillinois.com/aaron",
-"https://baileyforillinois.com/contact-us",
-"https://baileyforillinois.com/darren",
-"https://baileyforillinois.com/endorse",
-"https://baileyforillinois.com/events",
-"https://baileyforillinois.com/intern",
-"https://baileyforillinois.com/issues",
-"https://baileyforillinois.com/news",
-"https://baileyforillinois.com/petition",
-"https://baileyforillinois.com/privacy",
-"https://baileyforillinois.com/text-policy",
-"https://baileyforillinois.com/volunteer",
-"https://baileyforillinois.com/yard-sign-request",
-"https://docs.google.com/forms/d/e/1FAIpQLScz9iWUq5bA2yncco-JH_KKSErrFg1n8oZhnYOU90Axq9ZeWQ/viewform?usp=publish-editor",
-"https://facebook.com/BaileyforIllinois",
-"https://instagram.com/baileyforillinois",
-"https://secure.winred.com/bailey-for-illinois/donate",
-"https://secure.winred.com/bailey-for-illinois/storefront",
-"https://twitter.com/DarrenBaileyIL",
-"https://youtube.com/channel/UCJbna2cyfWOBmcZN8Dh_A0g"
+{
+"text": "Bailey for Illinois",
+"href": "https://baileyforillinois.com/"
+},
+{
+"text": "Calendar",
+"href": "https://baileyforillinois.com/events/"
+},
+{
+"text": "Contact Us",
+"href": "https://baileyforillinois.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bailey-for-illinois/donate"
+},
+{
+"text": "Endorse",
+"href": "https://baileyforillinois.com/endorse/"
+},
+{
+"text": "Event Request Form",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScz9iWUq5bA2yncco-JH_KKSErrFg1n8oZhnYOU90Axq9ZeWQ/viewform?usp=publish-editor"
+},
+{
+"text": "Home",
+"href": "https://baileyforillinois.com/"
+},
+{
+"text": "Internship Application",
+"href": "https://baileyforillinois.com/intern/"
+},
+{
+"text": "Issues",
+"href": "https://baileyforillinois.com/issues/"
+},
+{
+"text": "Meet Aaron",
+"href": "https://baileyforillinois.com/aaron/"
+},
+{
+"text": "Meet Darren",
+"href": "https://baileyforillinois.com/darren/"
+},
+{
+"text": "Merch",
+"href": "https://secure.winred.com/bailey-for-illinois/storefront/"
+},
+{
+"text": "News",
+"href": "https://baileyforillinois.com/news/"
+},
+{
+"text": "Petition",
+"href": "https://baileyforillinois.com/petition/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://baileyforillinois.com/privacy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://baileyforillinois.com/text-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://baileyforillinois.com/volunteer/"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://baileyforillinois.com/yard-sign-request/"
+},
+{
+"text": "[image: Bailey for Illinois]",
+"href": "https://baileyforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/DarrenBaileyIL"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BaileyforIllinois"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/baileyforillinois/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCJbna2cyfWOBmcZN8Dh_A0g"
+}
 ]

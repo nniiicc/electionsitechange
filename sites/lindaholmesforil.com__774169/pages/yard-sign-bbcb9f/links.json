@@ -1,12 +1,46 @@
 [
-"https://facebook.com/HolmesforSenate",
-"https://lindaholmesforil.com/",
-"https://lindaholmesforil.com/about",
-"https://lindaholmesforil.com/accomplishments",
-"https://lindaholmesforil.com/contact",
-"https://lindaholmesforil.com/issues",
-"https://lindaholmesforil.com/news",
-"https://lindaholmesforil.com/privacy-policy",
-"https://linkedin.com/in/linda-holmes-60b3b22a",
-"https://secure.actblue.com/donate/linda-holmes-2"
+{
+"text": "About",
+"href": "https://lindaholmesforil.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://lindaholmesforil.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://lindaholmesforil.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/HolmesforSenate"
+},
+{
+"text": "Home",
+"href": "https://lindaholmesforil.com/"
+},
+{
+"text": "Issues",
+"href": "https://lindaholmesforil.com/issues/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/linda-holmes-60b3b22a/"
+},
+{
+"text": "News",
+"href": "https://lindaholmesforil.com/news/"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://lindaholmesforil.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://lindaholmesforil.com"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/donate/linda-holmes-2"
+}
 ]

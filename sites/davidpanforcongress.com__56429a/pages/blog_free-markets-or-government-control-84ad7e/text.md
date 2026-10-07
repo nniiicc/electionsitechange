@@ -1,6 +1,5 @@
-Free Markets or Government Control?
-Creating an economy for the good of everyone and not just a few
-By now, the value of free markets has been demonstrated worldwide.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Free Markets or Government Control?
+Jul 30 Written By Guest User Creating an economy for the good of everyone and not just a few By now, the value of free markets has been demonstrated worldwide.
 Even the Chinese Communist Party uses them.
 Rather than having government officials set prices, a free market allows individuals to set prices based on their own judgments.
 This allows freedom and leads to better decisions.
@@ -10,7 +9,7 @@ Free markets in South Korea have created a thriving economy, wealth, and happine
 Government control in North Korea has led to misery and prison-like conditions.
 We need to support free markets.
 Laws that keep prices down usually have unintended consequences.
-As the Wall Street Journal (https://www.wsj.com/articles/fast-food-economics-in-la-la-land-f54cf3e2?page=1) has pointed out, increasing the minimum wage for fast-food restaurants in California has decreased the number of jobs available while increasing inflation.
+As the Wall Street Journal ( https://www.wsj.com/articles/fast-food-economics-in-la-la-land-f54cf3e2?page=1 ) has pointed out, increasing the minimum wage for fast-food restaurants in California has decreased the number of jobs available while increasing inflation.
 At the same time, we can also recognize that markets are not perfect.
 They can be unfair when they are manipulated to create an unfair advantage.
 This can happen with monopolies or in international trade.
@@ -37,3 +36,9 @@ But markets also need a stable environment to function, which only a strong and 
 Governments set the rules to allow markets to work properly and to make sure that markets help everyone rather than just a few.
 Help keep prices down and create more opportunities.
 Support my congressional campaign by volunteering or donating at DavidPanforCongress.com.
+Guest User Previous Previous How to receive $16,000 per year for life Next Next David Pan Has a Plan Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

@@ -1,11 +1,50 @@
 [
-"https://brianseaworth.org/",
-"https://brianseaworth.org/2020/10/04/hello-world",
-"https://brianseaworth.org/about",
-"https://brianseaworth.org/blog",
-"https://brianseaworth.org/category/uncategorized",
-"https://brianseaworth.org/contact",
-"https://brianseaworth.org/volunteer",
-"https://facebook.com/RepBrianSeaworth",
-"https://famethemes.com/themes/onepress"
+{
+"text": "About",
+"href": "https://brianseaworth.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://brianseaworth.org/blog/"
+},
+{
+"text": "Brian Seaworth",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "Grades",
+"href": "https://brianseaworth.org/contact/"
+},
+{
+"text": "Hello world!",
+"href": "https://brianseaworth.org/2020/10/04/hello-world/"
+},
+{
+"text": "Home",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Uncategorized",
+"href": "https://brianseaworth.org/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://brianseaworth.org/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://brianseaworth.org/2020/10/04/hello-world/"
+},
+{
+"text": "[tooltip: email]",
+"href": "mailto:brian@brianseaworth.org"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/RepBrianSeaworth"
+}
 ]

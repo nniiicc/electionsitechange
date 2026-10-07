@@ -1,22 +1,18 @@
-I hope you all are doing well.
+    Home About Events News Donate       Constituent Resources April 20 COVID-19 Update February 25, 2026 I hope you all are doing well.
 I continue to get lots of people asking about the State re-opening our closed businesses and letting people get back to work, so I will address that below.
 Last week, I had a lot of questions concerning the PPP money that was given out by banks.
 I understand all the money appropriated by the federal govt pursuant to the PPA has been given out, and Congress is working on a 2nd package, which is also expected to go quickly.
 Best course of action and advice on that continues to be to speak with your banker.
 I will include information on PPP below as well.
-WEEKLY CONF CALL WITH GOVERNOR AND OTHER TOP OFFICIALS:
-The Governor and Alabama State Health Officer, Dr.
+WEEKLY CONF CALL WITH GOVERNOR AND OTHER TOP OFFICIALS : The Governor and Alabama State Health Officer, Dr.
 Scott Harris, shared Alabama’s most recent numbers and updates...
 Approximately 4,946 COVID-19 positive tests in AL, and approx 1,000 of these are healthcare workers;45,712 Alabamians have been tested; Approx 35% of AL’s population is considered high risk;641 people have been hospitalized since inception in AL reportedly related to COVID-19113 confirmed COVID-19 deaths in AL as of today, of the 165 reported COVID-19 deaths to date.Hospital capacity is positive, and thankfully it seems that NO alternative care sites will be needed or projected to be neededAll 67 counties across the state are testing; no shortage of ventilators and everyone who has needed one, has been provided one.
-Director of Finance, Kelly Butler, shared updates…
-A 7 person “Executive Committee" has been formed to review recommended suggestions from the President, the Small Business Commission Task Force and other entities in the state about reopening the economy.
+Director of Finance, Kelly Butler, shared updates… A 7 person “Executive Committee" has been formed to review recommended suggestions from the President, the Small Business Commission Task Force and other entities in the state about reopening the economy.
 AL’s Commerce Secretary; the Speaker of the AL House of Representatives; the Speaker Pro-Tem of the AL Senate; Tim Vines (CEO of BCBS); Nancy Johns (Retired Dean of the Virginia School of Medicine); The current Dean of the UAB School Of Medicine, Dr Vickers; and the State's Health Officer.
 Alabama Commissioner of Agriculture and Industries, Rick Pate, shared updates…Despite the obvious challenges, Alabama Ag and Industries are open and working hard to keep the supply chains moving Alabama inventory is SAFE, safer than it has ever been ADOL Secretary, Fitzgerald Washington, shared Alabama’s most recent numbers and updates…316,000 unemployment claims have been received in the past five weeks!Compared to ONLY 130,000 unemployment claims TOTAL in 2019 aloneAlabama is one of FEW states that have started issuing the $600 stimulus paymentA new ‘Claims Tracker’ system has been put in place on the ADOL websiteIf you are calling the AL Dpt of Labor and can not get through, please keep tryingAlabama Commissioner of Department of Corrections, Jeff Dunn, shared updates…As of this morning, 3 inmates total have tested positive for the Coronavirus.One was an inmate who was in the hospital for a previously diagnosed terminal illness (liver cancer), having already been in the hospital for 24 days at the time of his death, and not confirmed if death related to COVID-19The second inmate has been hospitalized to receive treatment and is progressing well.
 The area that housed the inmate is under a two-week quarantine.The third inmate is being treated in a quarantined section of that facility and is progressing well.
 The area that housed the inmate is under a two-week quarantine.In order to keep any potential spreading from occurring, the new inmates will spend 14 days quarantined prior to entering the usual intake processDOC has set up their textile manufacturing facilities to make masks for the inmates and protective gowns.
-All inmates will have 2 masks this week and over the next 2 weeks, each inmate should have 4 masksThose who have preexisting health conditions and staff have already been provided with masksDOC has PPE to meet current requirements for the foreseeable future with multiple shipments due in the next 2 weeks to the departmentDOC has established Rapid Response Teams in every facility to help implement these safety procedures.Alabama Commissioner of Department of Veterans Affairs, Admiral Kent Davis, shared updates regarding our veterans…Service office are closed to the public Counseling services are still available to veterans via phone Veteran burials are still taking place, but casket burials onlyThey will allow an appropriate memorial service to take place at a later dateOf the 4 Veterans homes around the state, only 1 has had positive test1 employee and 1 veteran tested positive 100% testing of all residents in that specific home has now been administered as a safety precautionIn the coming weeks Federal VA will arrive to ensure that all proper precautions are being taken to protect our veterans during this outbreak
-The Re-opening of our Economy:
-I have heard from many of you that it is time to re-open our economy and businesses, and get back to work.
+All inmates will have 2 masks this week and over the next 2 weeks, each inmate should have 4 masksThose who have preexisting health conditions and staff have already been provided with masksDOC has PPE to meet current requirements for the foreseeable future with multiple shipments due in the next 2 weeks to the departmentDOC has established Rapid Response Teams in every facility to help implement these safety procedures.Alabama Commissioner of Department of Veterans Affairs, Admiral Kent Davis, shared updates regarding our veterans…Service office are closed to the public Counseling services are still available to veterans via phone Veteran burials are still taking place, but casket burials onlyThey will allow an appropriate memorial service to take place at a later dateOf the 4 Veterans homes around the state, only 1 has had positive test1 employee and 1 veteran tested positive 100% testing of all residents in that specific home has now been administered as a safety precautionIn the coming weeks Federal VA will arrive to ensure that all proper precautions are being taken to protect our veterans during this outbreak The Re-opening of our Economy : I have heard from many of you that it is time to re-open our economy and businesses, and get back to work.
 As stated above, the Governor has a 7 person Executive Committee listed above, and along with the State’s 7 Regional COVID-19 Commissions (chaired by each of AL’s 7 members of Congress), they will be advising the Governor on HOW and WHEN to open the State’s economy and businesses back up.
 This Committee is supposed to provide the Governor with a report by April 27th (one week from today) in advance of the current State Health Order expiring on April 30th.
 As the Gov previously stated, this re-opening could be done differently across different regions and areas of the State, and will likely involve a step by step process of lessening restrictions to get back to normal.
@@ -34,4 +30,31 @@ I believe this can be done safely and responsibly, and feel strongly that most b
 It is not right that "big box” stores continue to be able to be open and sell the exact same items that these small businesses sell, simply because they sell other essential items as well.
 And the simple fact remains that regardless whether these businesses and recreational areas are open, we as a people still need to try and do our part to try and make sure we don’t spread the virus, by continuing to take the simple and easy precautions we have been through social distancing and the like, and especially so with regards to anyone that may be considered in the "vulnerable population” as relates to this virus.
 It is an honor to serve you in the Alabama Legislature, and please don’t hesitate to contact me if I can be of service.
-Peace, David
+Peace, David ‍ More news See what Representative Faulkner is doing to represent District 46 values Sep 17, 2026 | 400,000 Alabama Kids.
+60,000 Volunteer Coaches.
+Nobody Minding the Whole Thing.
+400,000 Alabama kids play organized sports.
+Their families spend $600 million a year.
+About 60,000 volunteer coaches run it, and no one in state government is responsible for the whole thing.
+May 21, 2026 | Legislative Updates Two Wins in Washington Two major wins: the U.S.
+Senate unanimously passed Trey's Law, and the U.S.
+House sent Lulu's Law to President Trump's desk for his signature.
+Apr 20, 2026 | Constituent Resources More Than a Building: What the New Alabama State House Means for the People We Serve After 41 years in a building the legislature was never meant to stay in, Rep.
+David Faulkner explains why Alabama's new $400 million State House is about more than a nicer office - it's about giving citizens a seat at the table.
+Apr 17, 2026 | Legislative Updates A Good Year for Alabama: Recapping the 2026 Regular Session The 2026 Regular Session is in the books.
+Rep.
+David Faulkner recaps eight bills passed, a record education budget, and real tax relief for Alabama families.
+Apr 7, 2026 | Finishing Strong: Final Week of the 2026 Session Alabama Rep.
+David Faulkner previews the final week of the 2026 legislative session, including computer science graduation requirements, teacher pay raises, and tributes to retiring Representatives Jim Hill and Terri Collins.
+Mar 23, 2026 | Legislative Updates Legislative Update: Week 10 in Montgomery From a third-grader advocating for her teachers with a PowerPoint to three high school students landing $250,000 to bring debate to schools across Alabama, Week 10 was a reminder of why this work matters.
+The Camp Safety Act cleared another unanimous vote, the Education Trust Fund budget headed to the Senate with a teacher pay raise included, and the Mountain Brook Fire Department received a grant for state-of-the-art paramedic training equipment.
+Mar 16, 2026 | Legislative Updates Week 9: Camp Safety Act on the Senate Floor, a Bill Reaches the Governor, and the Homestretch Begins The Camp Safety Act is headed for its Senate vote this week.
+One of David's bills clears the full legislature and reaches the Governor's desk.
+And with three weeks left in the session, the homestretch is officially underway.
+Mar 8, 2026 | Legislative Updates Alabama Led the Way - Now Congress Is Following Alabama passed Trey's Law.
+Now Congress is following our lead.
+I was on Capitol Hill this week as Senators Ted Cruz and Katie Britt filed the federal version of the bill - here's what that moment meant. upcoming campaign 25 Sunday, September 25, 2022 Sep Conference on Small Business Organizing for Action: We’re the people who don’t just support 25 Sunday, September 25, 2022 Sep 65-th Annual International Conference Organizing for Action: We’re the people who don’t just support 24 Saturday, September 24, 2022 Sep 25-th Annual Democracy Forum Organizing for Action: We’re the people who don’t just support View All Events Information 505 North 20th Street Birmingham, AL 35203 David@DavidFaulknerAL46.com (334) 261-0442  Navigate Home About Events News Donate NEWSLETTER SIGN UP Thank you for subscribing!
+Oops!
+Something went wrong while submitting the form. © David Faulkner.
+All Rights Reserved.
+Powered by Matchstrike Creative

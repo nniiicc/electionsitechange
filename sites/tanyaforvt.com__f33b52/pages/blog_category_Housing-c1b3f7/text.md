@@ -1,10 +1,6 @@
-News and Updates
-Categories
-2025 Mid-Session Update
-As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now News and Updates Categories Democracy Education Housing Lawsuit Safety Session Preview Taxes Town Meeting Day Report Uncategorized Education , Housing , Taxes , Town Meeting Day Report 3/15/25 Education , Housing , Taxes , Town Meeting Day Report 3/15/25 2025 Mid-Session Update As we pass "crossover", the mid-point of the session, I wanted to share an update on the Senate's work, the bills discussed in the two committees I sit on, an upcoming event, my legislative priorities, and a list of bills that I have I sponsored so far.
 The report is available as both a PDF and in plain text ODF format.
-Let's Talk Housing
-One of the issues that I hear about the most is housing, and understandably so.
+2025 Mid Session Report Download 2025 Mid Session Report Plain Text Download Read More Housing 8/3/24 Housing 8/3/24 Let's Talk Housing https://youtu.be/ligxIwtVqaE?si=MFLYZzfQi87x-Fec One of the issues that I hear about the most is housing, and understandably so.
 As a working-class, self-employed person and one of only two renters in the Senate, I experience the lack of affordable housing myself every day and it’s frustrating to often find myself the only person like me in committee rooms and on the Senate floor.
 This housing crisis started decades ago and it can’t be undone in a session.
 No one person can fix this, despite campaign rhetoric we all hear.
@@ -24,3 +20,4 @@ We have to reduce the administrative burden it takes to implement these programs
 No one should have to stay on the phone on hold for hours trying to get into housing for the night.
 What we offer for funding and support is so rigid that it’s almost impossible for unhoused people to determine what they need and get those needs met with dignity.
 We’re doing a lot of the right things, but we need to do them better.
+Read More Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

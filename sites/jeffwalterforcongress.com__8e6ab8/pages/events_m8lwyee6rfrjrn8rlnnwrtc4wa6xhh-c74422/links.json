@@ -1,25 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Java+with+Jeff&dates=20261014T113000Z%2F20261014T133000Z&location=475+West+Virginia+Street%2C+Crystal+Lake%2C+Illinois%2C+60014%2C+United+States",
-"http://maps.google.com/?q=475+West+Virginia+Street+Crystal+Lake%2C+Illinois%2C+60014+United+States",
-"http://truthsocial.com/JeffWalterIL",
-"https://facebook.com/JeffWalterIL",
-"https://instagram.com/jeffwalterforcongress?hl=en",
-"https://jeffwalterforcongress.com/",
-"https://jeffwalterforcongress.com/about",
-"https://jeffwalterforcongress.com/cart",
-"https://jeffwalterforcongress.com/contact",
-"https://jeffwalterforcongress.com/district",
-"https://jeffwalterforcongress.com/endorsements",
-"https://jeffwalterforcongress.com/events",
-"https://jeffwalterforcongress.com/events/5697lgw6sx754ajcxdwksaplsgh46s",
-"https://jeffwalterforcongress.com/events/dukane-abate-annual-toy-run",
-"https://jeffwalterforcongress.com/events/m8lwyee6rfrjrn8rlnnwrtc4wa6xhh?format=ical",
-"https://jeffwalterforcongress.com/home",
-"https://jeffwalterforcongress.com/in-the-news",
-"https://jeffwalterforcongress.com/issues",
-"https://jeffwalterforcongress.com/privacy",
-"https://jeffwalterforcongress.com/volunteer",
-"https://secure.winred.com/committee-to-elect-jeff-walter/donate-today",
-"https://secure.winred.com/committee-to-elect-jeff-walter/storefront",
-"https://x.com/jeffwalteril"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=475+west+virginia+street+crystal+lake%2C+illinois%2C+60014+united+states"
+},
+{
+"text": "0",
+"href": "https://www.jeffwalterforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.jeffwalterforcongress.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.jeffwalterforcongress.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.jeffwalterforcongress.com/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jeffwalterforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jeffwalterforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Java+with+Jeff&dates=20261014T113000Z%2F20261014T133000Z&location=475+West+Virginia+Street%2C+Crystal+Lake%2C+Illinois%2C+60014%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.jeffwalterforcongress.com/events/m8lwyee6rfrjrn8rlnnwrtc4wa6xhh?format=ical"
+},
+{
+"text": "In The News",
+"href": "https://www.jeffwalterforcongress.com/in-the-news"
+},
+{
+"text": "Next Next October 16 Java with Jeff",
+"href": "https://www.jeffwalterforcongress.com/events/5697lgw6sx754ajcxdwksaplsgh46s"
+},
+{
+"text": "Positions",
+"href": "https://www.jeffwalterforcongress.com/issues"
+},
+{
+"text": "Previous Previous October 11 DuKane A.B.A.T.E. Annual Toy Run",
+"href": "https://www.jeffwalterforcongress.com/events/dukane-abate-annual-toy-run"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jeffwalterforcongress.com/privacy"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/committee-to-elect-jeff-walter/storefront/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jeffwalterforcongress.com/volunteer"
+},
+{
+"text": "[image: Jeff Walter for Congress Logo]",
+"href": "https://www.jeffwalterforcongress.com/home"
+},
+{
+"text": "[image: Jeff Walter for Congress]",
+"href": "https://www.jeffwalterforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://truthsocial.com/JeffWalterIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JeffWalterIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jeffwalterforcongress/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jeffwalteril"
+}
 ]

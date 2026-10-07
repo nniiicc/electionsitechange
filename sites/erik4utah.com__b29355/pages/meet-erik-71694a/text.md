@@ -1,5 +1,4 @@
-Meet Erik Crawthorne
-Born and raised in West Point, Erik Craythorne’s story is deeply rooted in the community he has always called home.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu Vote Erik Meet Erik Issues Contact Meet Erik Crawthorne Born and raised in West Point, Erik Craythorne’s story is deeply rooted in the community he has always called home.
 He is a proud graduate of Clearfield High School and the University of Utah, where he earned a degree in Business Management.
 Not long after high school, Erik chose to serve a two-year mission in South Korea.
 That experience broadened his perspective, strengthened his faith, and helped shape a lifelong commitment to service and community.
@@ -27,4 +26,5 @@ Outside of work and public service, Erik feels most at home outdoors.
 He loves hunting and fishing with his family and has been fortunate to experience those adventures across North America and Africa.
 Still, his favorite moments are much closer to home.
 Ice fishing with his kids and grandkids, or sitting quietly in a ground blind beside his oldest grandchild as he harvested his first turkey in Kansas at just six years old, are memories he treasures most.
-For Erik, those moments reflect what matters most: family, tradition, and passing values from one generation to the next.
+For Erik, those moments reflect what matters most: family, tradition, and passing values from one generation to the next. © # Erik Craythorne.
+Close Menu Vote Erik Meet Erik Issues Contact Customize Reject All Accept All Powered by

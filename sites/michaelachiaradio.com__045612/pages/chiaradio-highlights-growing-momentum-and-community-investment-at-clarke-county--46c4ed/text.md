@@ -1,16 +1,10 @@
-- November 20, 2025
-QUITMAN, Mississippi — Democratic congressional candidate Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate November 20, 2025 Chiaradio Highlights Growing Momentum and Community Investment at Clarke County Democratic Party Meeting QUITMAN, Mississippi — Democratic congressional candidate Michael A.
 Chiaradio attended the monthly Clarke County Democratic Party meeting in Quitman, where an enthusiastic turnout underscored the growing excitement surrounding the campaign and the future of the Democratic Party in Mississippi’s Third Congressional District.
 Local leaders and residents expressed strong confidence in Chiaradio’s candidacy, praising both the steady progress of the campaign and his commitment to running a mutual aid focused operation that directly invests in the community.
 “Now that we broke the Republican supermajority, there is real hope again across our community,” Chiaradio said.
 “I am honored to represent the Democratic Party at this pivotal moment for our state and for our country.
-I take this responsibility seriously, and I’m going to work every day to deliver results.”
-Chiaradio reaffirmed his belief that the district deserves a representative who will show up, put people first, and fight for a stronger, more engaged, and more responsive democracy in the United States.
-To help build this momentum and expand our organizing efforts across the district, please consider donating to Chiaradio’s campaign today: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+I take this responsibility seriously, and I’m going to work every day to deliver results.” Chiaradio reaffirmed his belief that the district deserves a representative who will show up, put people first, and fight for a stronger, more engaged, and more responsive democracy in the United States.
+To help build this momentum and expand our organizing efforts across the district, please consider donating to Chiaradio’s campaign today: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

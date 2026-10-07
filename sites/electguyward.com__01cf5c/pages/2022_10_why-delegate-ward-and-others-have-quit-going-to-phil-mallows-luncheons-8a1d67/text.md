@@ -1,4 +1,4 @@
-Why did Delegate Guy Ward quit going to Phil Mallow’s luncheons?
+Navigation Meet Guy Issues Updates Endorsements Volunteer Donate Contact Meet Guy Issues Updates Endorsements Volunteer Donate Contact News Why Delegate Ward and others have quit going to Phil Mallow’s Luncheons Guy Ward October 7, 2022 Media Mentions , News Why did Delegate Guy Ward quit going to Phil Mallow’s luncheons?
 Simply put, he didn’t like being treated like a second-class citizen and being lied to.
 Prior to the Pandemic, he would occasionally attend one of Phil’s luncheons.
 When Phil had a speaker, they were often informative.
@@ -19,14 +19,12 @@ Just prior to the primary, Phil had candidate Mike DeVault come speak at this lu
 Following are FALSE STATEMENTS that were made there.
 DeVault said and Mallow agreed, “Right now, if you want to open, let’s say we want to take this restaurant out, and put a nursing home in, we have to get a certificate of need.
 Now who do you think gets to vote on your certificate of need?
-The other hospitals and nursing homes and operators, so sounds like a little protectionism to me from the old days of West Virginia.”
-To Fact-checkers this would be a PANTS ON FIRE FALSE STATEMENT.
+The other hospitals and nursing homes and operators, so sounds like a little protectionism to me from the old days of West Virginia.” To Fact-checkers this would be a PANTS ON FIRE FALSE STATEMENT.
 THE TRUTH: Other hospitals don’t get to vote on a new hospital application.
 They don’t have a voice in who gets approved or denied.
-According to the WV Health Care Authority, this is how it’s determined: “Need is determined using CON Standards, which generally include population-based quantifiable need methodologies.
+According to the WV Health Care Authority , this is how it’s determined: “Need is determined using CON Standards, which generally include population-based quantifiable need methodologies.
 Financial feasibility includes the evaluation of the reasonableness of proposed charges to patients and the determination as to whether the expense and revenue projections demonstrate fiscal viability for the proposed project.
-Other review criteria include quality, accessibility, and continuum of care.”
-Both DeVault and Mallow showed in their conversation that neither one of them either didn’t understand what a Certificate of Need does or does not do or they lied about the whole process.
+Other review criteria include quality, accessibility, and continuum of care.” Both DeVault and Mallow showed in their conversation that neither one of them either didn’t understand what a Certificate of Need does or does not do or they lied about the whole process.
 Mallow should know better because he attended a Health Committee meeting where Barbara Skeen, Interim Director of the WV Health Care Authority, came and explained the process.
 Either he wasn’t listening, or he doesn’t care.
 Another thing they made FALSE STATEMENTS about was concerning a Political Action Committee called Mountain State Values (DeVault called it West Virginia Values) saying that they want to get rid of Republicans.
@@ -39,13 +37,10 @@ All of these candidates are Pro-life, believe in the Second Amendment, are fisca
 So, why did Mountain State Values support them?
 Because unlike a lot of Republicans who cater to just the rich, these candidates support the working class too.
 And if eliminating Certificate of Needs was so great, why are Republican legislators in states like Indiana wanting to bring it back after it was eliminated years ago?
-Here is a partial segment of a recording that was done of this luncheon:
-Another example of FALSE STATEMENTS is Phil speaking at one of his luncheons on April 27th.
+Here is a partial segment of a recording that was done of this luncheon: LUNCHEON AUDIO Another example of FALSE STATEMENTS is Phil speaking at one of his luncheons on April 27th.
 There were about 30 individuals in the room, and it was open to the public.
-Two COMPLETELY FALSE STATEMENTS he said at this luncheon:
-• He accused the Hospital Association and Mon Health of offering him $1,000 toward his campaign if he supported a bill.
-Complete slander against these two institutions and if he was offered a bribe, why didn’t he report it to the WV Ethics Commission?
-• He also accused a Delegate of taking a $5,000 bribe.
+Two COMPLETELY FALSE STATEMENTS he said at this luncheon: • He accused the Hospital Association and Mon Health of offering him $1,000 toward his campaign if he supported a bill.
+Complete slander against these two institutions and if he was offered a bribe, why didn’t he report it to the WV Ethics Commission ? • He also accused a Delegate of taking a $5,000 bribe.
 He didn’t mention this person by name.
 So, who was he referring to.
 It wasn’t Delegate Ward, and he can prove it.
@@ -69,24 +64,20 @@ Many of these statements are not just FALSE STATEMENTS but they can be construed
 Here is a recording from that luncheon and below is a partial transcript of his talk on April 27th.
 At the end of the transcript, please be sure to check out the footnotes.
 The footnotes help explain some of what and who he’s talking about.
-PARTIAL TRANSCRIPT OF PHIL MALLOW SPEAKING AT ONE OF HIS LUNCHEONS (See Footnotes below that correspond to numbers in parentheses)
-April 27, 2022
-“They’re going to bring 950 jobs; they’re going to make approximately $96,000 per person, and I’m against that.
+LUNCHEON AUDIO PARTIAL TRANSCRIPT OF PHIL MALLOW SPEAKING AT ONE OF HIS LUNCHEONS (See Footnotes below that correspond to numbers in parentheses) April 27, 2022 “They’re going to bring 950 jobs; they’re going to make approximately $96,000 per person, and I’m against that.
 That vote took place and there were two people that voted against it.
 (1) Do you think they’re being primaried back in their county?
 Rest assured they are.
 Rest assured they are.
 “Somebody else voted for a bill that says, other hospitals want to come, other healthcare facilities, nursing homes, hospice, they want to come into our county, or into our state and we have to get the approval of the current hospitals in order for the new hospitals to come in.
-(2)
-“We had a person that voted for that.
+(2) “We had a person that voted for that.
 He wants to maintain what’s called the certificate of need, okay.
 Well, actually, several people.
 And we have another one that says that currently, (waiter interrupts) currently if you have a loved one … what is it Gary … currently if you have a loved one that dies or falls and from that injury dies in a healthcare facility.
 You have two years to challenge that with an attorney.
 They tried to bring that back to a year.
 Now if you not doing anything wrong and you’re not hiding anything, why would you try to drop back your reaction time from two years to one year?
-(3)
-“We had an individual that voted, said, ah let’s drop it back to a year.
+(3) “We had an individual that voted, said, ah let’s drop it back to a year.
 You know why, because the Hospital Association, nursing home group, said to this individual, I’ll give you a thousand dollars for your campaign.
 (4) You think that didn’t happen?
 They called me in my room at 9:41 the night before from Mon General (5) and said, we can help you out, but we really need a yes vote on this.
@@ -101,8 +92,7 @@ But now they’re being alienated by the leadership, and the Republican National
 “Now the other thing is, if a vote goes down, sometimes there’s hundreds of us. ….
 (Talks about 100% voting.) ….
 One hundred percent voting is out the window. …..
-(7)
-“And the bottom line is, you miss a vote.
+(7) “And the bottom line is, you miss a vote.
 But if there’s a hundred of us and ninety-six people are voting and two vote against it.
 Are you arrogant enough to think the other 94 are stupid?
 (Talks about the procedure on how a bill goes through the House voting process, which he got wrong on several points).
@@ -112,9 +102,7 @@ Kind of makes you wonder.
 Kind of makes you wonder, who are you representing?
 Is someone out there giving you five thousand dollars to go down and give a no vote.
 There’s something wrong with that picture.
-But those two people, or those four people, or those six people, will say, “I’m being primaried back in my county.” It’s not the way it works.”
-FOOTNOTES:
-(1) He’s talking about Laura Kimble and Chris Pritt who voted against SB1001 during 1st special session 2022.
+But those two people, or those four people, or those six people, will say, “I’m being primaried back in my county.” It’s not the way it works.” FOOTNOTES: (1) He’s talking about Laura Kimble and Chris Pritt who voted against SB1001 during 1st special session 2022.
 (2) Ultimately, when HB4643 was amended on the floor to eliminate CON, the vote was about 60% against with the majority of the Republicans voting against it.
 (3) SB25 – He talked like it didn’t become law, but it did.
 Delegate Ward voted against it too.
@@ -122,7 +110,8 @@ But the leadership supported it.
 (4) He’s making this up.
 This doesn’t happen.
 (5) He meant Mon Health.
-The old name was Mon General, which a lot of people still refer to it that way.
+The old name was Mon General , which a lot of people still refer to it that way.
 (6) This statement seems to show that he knows more of what is going on behind the scenes.
 Who was the mastermind behind recruiting candidates to target certain Republicans in the Primary?
 (7) Several Delegates still have 100% ratings including Delegate Guy Ward.
+Facebook RSS Meet Guy Issues Updates Endorsements Volunteer Donate Contact Paid for by the Committee to Elect Guy Ward 45 Timrod Dr.| Whitehall, WV 26554

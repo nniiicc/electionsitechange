@@ -1,7 +1,9 @@
 {
  "description": "Candidate for state senate",
  "final_url": "https://www.shaun-for-state-senate.com/bio",
- "paid_for_by": null,
+ "fingerprint": "09055c31363e1bfff3089837d8e0cf2261ce0688",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My bio",
  "years_mentioned": []
 }

@@ -1,5 +1,4 @@
-Meet Stephanie White
-I was born and raised in New York, but life took me to several parts of the country before settling in Kentucky.
+0 Skip to Content Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Open Menu Close Menu Home Support Events Stories Priorities About DONATE Meet Stephanie White I was born and raised in New York, but life took me to several parts of the country before settling in Kentucky.
 After graduating from Wake Forest University in North Carolina, I moved to Texas where I started my career as a high school math teacher.
 After three years of teaching, I realized I wanted to do work outside of the classroom to be a positive force to support public education.
 I earned a Master’s Degree in Public Affairs and Policy Analysis from the University of Texas at Dallas while working on education policy and research.
@@ -24,8 +23,9 @@ I did not intend to go back to the high school classroom - I was not sure exactl
 Life threw me a curve ball in 2022 when I was diagnosed with breast cancer.
 Through all of the chemotherapy and surgeries, I had quite a bit of time to reflect on what was important to me.
 I decided that being with students everyday would be the best way to utilized everything I know and love about teaching and learning.
-Once cancer free and armed with my PhD, I began teaching in again after a 17-year hiatus.
+Once cancer free and armed with my PhD, I began teaching in again after a 17-year hiatus .
 I knew that my children’s own school was struggling to find math teachers and I could be part of the solution.
 From Goshen Elementary, to North Oldham Middle, and through North Oldham High School, my children have had a fantastic education.
 It was my honor to join the staff at North Oldham High School this school year and what fun it has been to teach in my own community.
 I am also a proud union member.
+Stephanie's CV

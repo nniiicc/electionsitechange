@@ -1,10 +1,11 @@
 {
  "description": "Stay updated with the latest news on Rick Bennett, Maine politics, policies, and community initiatives. Get informed and take action in your state.",
  "final_url": "https://bennettforgovernor.com/news",
- "paid_for_by": null,
- "title": "News | Stay Informed \u2013 Act Now \u2014 Rick Bennett for Governor",
+ "fingerprint": "5a6e5be49362d0085281dcafca8530b726dd3de3",
+ "format": 3,
+ "paid_for_by": "authorized by Bennett for Governor",
+ "title": "News | Stay Informed – Act Now — Rick Bennett for Governor",
  "years_mentioned": [
-  "2025",
   "2026"
  ]
 }

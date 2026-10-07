@@ -1,4 +1,4 @@
-Carey Coleman is a longtime Northeast Ohio radio host, community leader, and conservative voice who believes America works best when hardworking families, not political insiders, set the direction of our country.
+Skip to content About Issues Education Events Get Involved About Issues Education Events Get Involved Volunteer Donate Meet Carey Carey Coleman is a longtime Northeast Ohio radio host, community leader, and conservative voice who believes America works best when hardworking families, not political insiders, set the direction of our country.
 For decades, Carey also served as a TV meteorologist on national, statewide, and local Northeast Ohio outlets, delivering critical weather coverage and public safety information to millions of viewers and listeners.
 For years, Carey has used his platform to give everyday citizens a voice, ask the tough questions politicians avoid, and stand up for common-sense values rooted in faith, freedom, and personal responsibility.
 As a trusted broadcaster on WNIR, Carey became known for his honest commentary, thoughtful conversations, and willingness to challenge the status quo.
@@ -14,3 +14,7 @@ Carey is committed to restoring accountability in government, protecting taxpaye
 Carey lives in Northeast Ohio and remains deeply involved in local civic life, charitable causes, and community organizations.
 He and his family are proud to call this region home and are committed to preserving the values that make it a great place to live, work, and raise a family.
 Carey Coleman is running for Congress to put Ohio first, bring common sense back to Washington, and ensure the next generation inherits a stronger, freer, and more prosperous America.
+Paid for by Carey Coleman for Congress P.O.
+Box 560222 Macedonia, OH 44056 Facebook-f X-twitter Instagram Tiktok Learn More About Issues Education Events Get Involved About Issues Education Events Get Involved © # Carey Coleman for Congress.
+All rights reserved.
+Terms of Service Privacy Policy Terms of Service Privacy Policy

@@ -1,5 +1,4 @@
-About
-Brent Taylor is a successful small business owner, outspoken conservative leader, and West Tennessee State Senator who has spent his career fighting for Tennesseans.
+Skip to main content Skip to footer Opens in a new tab Home About Issues Endorsements Donate About Brent Taylor is a successful small business owner, outspoken conservative leader, and West Tennessee State Senator who has spent his career fighting for Tennesseans.
 He was born and raised in a rural community before moving to Tennessee after school.
 In 1995, he became the youngest person ever elected to the Memphis City Council at age 27.
 Taylor, who never voted for a tax increase, was viewed as the leading conservative voice on the Council.
@@ -12,20 +11,17 @@ Throughout his career in the funeral business and as a public official, Taylor h
 Taylor was elected to the State Senate with over 66% of the vote.
 In the Senate, he serves as Vice Chairman of the Commerce Committee and sits on both the Judiciary and Transportation committees.
 Taylor is recognized as the community’s leading voice in the battle against crime.
-In the Tennessee State Senate, Brent Taylor:
-Led the fight against Tennessee’s only Soros-backed District Attorney
-Passed new laws to improve public safety and put dangerous criminals behind bars
-Stood up to the woke Memphis City Council so police officers could do their job
-Partnered with President Trump to launch the Memphis Safe Task Force
-Supported the MAGA agenda
-Backed laws that support small businesses and promote economic growth
-Fought for better schools and supported new funding for high-achieving school districts
-Demanded accountability for our tax dollars
-Repeatedly defended our constitutional right to keep and bear firearms
-Brent is ready to take that fighting spirit to Congress and join President Trump in leading America into her Golden Age.
+In the Tennessee State Senate, Brent Taylor: Led the fight against Tennessee’s only Soros-backed District Attorney Passed new laws to improve public safety and put dangerous criminals behind bars Stood up to the woke Memphis City Council so police officers could do their job Partnered with President Trump to launch the Memphis Safe Task Force Supported the MAGA agenda Backed laws that support small businesses and promote economic growth Fought for better schools and supported new funding for high-achieving school districts Demanded accountability for our tax dollars Repeatedly defended our constitutional right to keep and bear firearms Brent is ready to take that fighting spirit to Congress and join President Trump in leading America into her Golden Age.
 We can count on Brent to Take Tennessee to the Top!
 Brent and Kimberly have been married over 30 years.
 They are parents of two adult children.
 Gage is an attorney in Dallas.
 Molly and her husband, Mic, live in Montana where she is an interior architect.
 The Taylors reside in the Eads community and are active members of Trinity Baptist Church near their home.
+Paid for by Brent Taylor for Tennessee To contribute by check, please make payable to: Brent Taylor for Tennessee 95 White Bridge Rd Ste 207 Nashville TN 37205 Please provide your mobile phone to opt-in to Brent Taylor for Tennessee campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy Terms & Conditions

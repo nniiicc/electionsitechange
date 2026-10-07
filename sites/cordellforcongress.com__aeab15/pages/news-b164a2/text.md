@@ -1,23 +1,16 @@
-News
-Misti Cordell Signs U.S.
-Term Limits Pledge
-WEST MONROE, LA - Misti Cordell, the Republican Party of Louisiana's endorsed candidate for Louisiana’s 5th Congressional District, announced today that she has signed the U.S.
+Home About Platform News Support DONATE News News Misti Cordell Signs U.S.
+Term Limits Pledge WEST MONROE, LA - Misti Cordell, the Republican Party of Louisiana's endorsed candidate for Louisiana’s 5th Congressional District, announced today that she has signed the U.S.
 Term Limits Congressional Pledge - committing to support a constitutional amendment establishing term limits for members of Congress.
 Cordell, a conservative businesswoman and community leader from rural Louisiana, said the pledge reflects a core difference in the race: she is running to serve the district, not to build a political career in Washington.
 “I signed the U.S.
 Term Limits pledge because Congress has enough career politicians,” Cordell said.
-“Our district doesn’t need a ladder climber looking for the next title.”
-VIEW PAC Backs Louisiana Outsider Misti Cordell: "This District Doesn't Need Another Career Politician"
-WEST MONROE, LA - Value In Electing Women PAC (VIEW PAC) is endorsing Misti Cordell for Louisiana’s 5th Congressional District, backing a conservative outsider against a field packed with career politicians.e Committee, which voted last night to formally endorse Cordell for Congress.
-Misti Cordell Signs Taxpayer Protection Pledge
-MONROE, LA - Misti Cordell, the Republican Party of Louisiana’s endorsed candidate for Louisiana’s 5th Congressional District, announced today that she has signed Americans for Tax Reform’s Taxpayer Protection Pledge.
+“Our district doesn’t need a ladder climber looking for the next title.” READ MORE VIEW PAC Backs Louisiana Outsider Misti Cordell: "This District Doesn't Need Another Career Politician" WEST MONROE, LA - Value In Electing Women PAC (VIEW PAC) is endorsing Misti Cordell for Louisiana’s 5th Congressional District, backing a conservative outsider against a field packed with career politicians.e Committee, which voted last night to formally endorse Cordell for Congress.
+READ MORE Misti Cordell Signs Taxpayer Protection Pledge MONROE, LA - Misti Cordell, the Republican Party of Louisiana’s endorsed candidate for Louisiana’s 5th Congressional District, announced today that she has signed Americans for Tax Reform’s Taxpayer Protection Pledge.
 Cordell said the decision is about kitchen-table costs, not another Washington statement.
 Families across the 5th District are already paying more for groceries, gas, insurance, and healthcare, she said, and Congress should not make that squeeze worse.
-Louisiana Republican Party Formally Endorses Misti Cordell for Congress
-MONROE, LA - The Republican Party of Louisiana has formally endorsed Misti Cordell for Congress in Louisiana's 5th Congressional District, giving the conservative businesswoman and community leader the state party's backing in the race.
+READ MORE Louisiana Republican Party Formally Endorses Misti Cordell for Congress MONROE, LA - The Republican Party of Louisiana has formally endorsed Misti Cordell for Congress in Louisiana's 5th Congressional District, giving the conservative businesswoman and community leader the state party's backing in the race.
 Cordell secured the support of a majority of Republican State Central Committee members representing the 5th Congressional District - advancing her endorsement to the state party's Executive Committee, which voted last night to formally endorse Cordell for Congress.
-Misti Cordell Debuts “Bless Their Hearts” Ad Taking Aim at Career Politicians
-MONROE, LA - Conservative congressional candidate Misti Cordell today launched her first television advertisement, “Bless Their Hearts,” which takes direct aim at career politicians while laying out her platform as a no-nonsense conservative outsider focused on lowering the cost of living for Louisiana families.
+READ MORE Misti Cordell Debuts “Bless Their Hearts” Ad Taking Aim at Career Politicians MONROE, LA - Conservative congressional candidate Misti Cordell today launched her first television advertisement, “Bless Their Hearts,” which takes direct aim at career politicians while laying out her platform as a no-nonsense conservative outsider focused on lowering the cost of living for Louisiana families.
 The 30-second spot contrasts the “same old good-old-boy politics” with Cordell’s priorities: protecting Louisiana jobs, supporting law enforcement, securing the border, improving healthcare, empowering parents, and defending faith, families, and freedom.
-Republican Leader, Trump Delegate, and Governor Landry-Appointed Board of Regents Chair Misti Cordell is Running for Congress
-MONROE, LA - Following Congresswoman Julia Letlow’s announcement of her candidacy for the United States Senate, longtime Republican leader and Governor Jeff Landry appointed Louisiana Board of Regents Chair Misti Cordell announced today she is running for Congress to represent Louisiana’s 5th district - from the neighborhoods of Baton Rouge to the farms and small towns of Northeast Louisiana.
+READ MORE Republican Leader, Trump Delegate, and Governor Landry-Appointed Board of Regents Chair Misti Cordell is Running for Congress MONROE, LA - Following Congresswoman Julia Letlow’s announcement of her candidacy for the United States Senate, longtime Republican leader and Governor Jeff Landry appointed Louisiana Board of Regents Chair Misti Cordell announced today she is running for Congress to represent Louisiana’s 5th district - from the neighborhoods of Baton Rouge to the farms and small towns of Northeast Louisiana.
+READ MORE PAID FOR BY CORDELL FOR CONGRESS 3103 Cypress Street, Suite 3, Box 126, West Monroe, LA 71291 (318) 930-2238 PRIVACY POLICY Share by:

@@ -1,27 +1,12 @@
-Make a donation
-Support Elect James Bush III, Democrat for Florida State Representative District 109, by donating to a campaign focused on experienced leadership, community service, voter engagement, education, working families, seniors, small businesses, and stronger neighborhoods.
-Your contribution helps James Bush III reach more voters, share his vision for responsible representation, and build momentum for a people-centered campaign committed to progress, accountability, and real results for Florida House District 109.
-Make Checks Payable to:
-James Bush III Campaign
-P.O.
-Box 470605, Miami, Florida 33247
-Frequency
-One time
-Monthly
-Yearly
-Amount
-Helps place voter information in the hands of District 109 neighbors.
-$10
-Helps support phone calls, texts, and reminders that move voters to action.
-$50
-Helps fuel neighborhood outreach across Miami Gardens, Opa-locka, North Miami, and District 109.
-$100
-Helps equip volunteers with campaign materials for canvassing, events, and voter education.
-$200
-Helps expand Get-Out-The-Vote efforts so more voters can make a plan and show up.
-$500
-Helps power district-wide outreach for proven leadership, stronger turnout, and real results.
-$1,000
-Other
-0/100
-Comment (optional)
+top of page HOME ABOUT JAMES BUSH III VISION GET INVOLVED DONATE NEWS ON THE MOVE PRESS & MEDIA CONTACT JAMES BUSH III Menu Close James Bush III 2026 James Bush III 2026 James Bush III 2026 James Bush III 2026 Make a donation Support Elect James Bush III, Democrat for Florida State Representative District 109, by donating to a campaign focused on experienced leadership, community service, voter engagement, education, working families, seniors, small businesses, and stronger neighborhoods.
+Your contribution helps James Bush III reach more voters, share his vision for responsible representation, and build momentum for a people-centered campaign committed to progress, accountability, and real results for Florida House District 109. ​ Make Checks Payable to: James Bush III Campaign P.O.
+Box 470605, Miami, Florida 33247 Frequency One time One time Monthly Monthly Yearly Yearly Amount $10 Helps place voter information in the hands of District 109 neighbors.
+Helps place voter information in the hands of District 109 neighbors. $10 $50 Helps support phone calls, texts, and reminders that move voters to action.
+Helps support phone calls, texts, and reminders that move voters to action. $50 $100 Helps fuel neighborhood outreach across Miami Gardens, Opa-locka, North Miami, and District 109.
+Helps fuel neighborhood outreach across Miami Gardens, Opa-locka, North Miami, and District 109. $100 $200 Helps equip volunteers with campaign materials for canvassing, events, and voter education.
+Helps equip volunteers with campaign materials for canvassing, events, and voter education. $200 $500 Helps expand Get-Out-The-Vote efforts so more voters can make a plan and show up.
+Helps expand Get-Out-The-Vote efforts so more voters can make a plan and show up. $500 $1,000 Helps power district-wide outreach for proven leadership, stronger turnout, and real results.
+Helps power district-wide outreach for proven leadership, stronger turnout, and real results. $1,000 Other Other 0/100 Comment (optional) Donate $50 Call: 786-499-9493 Mail: P.O.
+Box 470605 Miami, Florida 33247 Contact@JamesBushIII.com ​ Florida State Representative District 109 Miami, Florida HOME ABOUT JAMES BUSH III VISION GET INVOLVED DONATE NEWS ON THE MOVE PRESS & MEDIA CONTACT JAMES BUSH III Menu Close James Bush III, Democrat, Florida State Representative, District 109. © # by Elect James Bush III Democrat for Florida State Senate District 109.
+HQ James Bush III Campaign P.O.
+Box 470605, Miami, Florida 33247 HOME ABOUT JAMES BUSH III VISION GET INVOLVED DONATE NEWS ON THE MOVE PRESS & MEDIA CONTACT JAMES BUSH III ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

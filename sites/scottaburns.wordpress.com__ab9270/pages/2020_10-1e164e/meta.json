@@ -1,9 +1,20 @@
 {
  "description": "9 posts published by Scott Burns for State Representative during October 2020",
  "final_url": "https://scottaburns.wordpress.com/2020/10/",
- "paid_for_by": null,
+ "fingerprint": "850deca8f5ae6a54015da7dc54ac95559e3b5fb6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "October | 2020 | scottaburns",
  "years_mentioned": [
-  "2020"
+  "1984",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2018",
+  "2020",
+  "2022",
+  "2026"
  ]
 }

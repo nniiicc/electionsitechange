@@ -1,4 +1,4 @@
-Dave has made a life out of fighting for working people in our community.
+Representative Dave Madsen Working for you in HD-104 Meet Dave Dave’s Platform Volunteer Donate Meet Dave Dave has made a life out of fighting for working people in our community.
 Born and raised here by unionized teachers, Dave graduated from Middletown High School.
 After completing graduate school, he quickly got to work organizing our neighbors to demand better from our local government.
 He served as a founding member and organizer for the Dauphin County Young Democrats before working on Governor Wolf’s first campaign in 2014.
@@ -9,3 +9,6 @@ There, Dave served as Chair of the Community and Economic Development and Public
 Dave ran for State Representative in 2022 to elevate the issues faced by our community to state government.
 Since then, he has represented us in the State House by working to lower the cost of living, fully fund our public schools, and make healthcare affordable.
 He’s led the way in the battles that matter to our community – from sponsoring common sense gun reform and supporting our law enforcement and first responders, to protecting good-paying union jobs in the district.
+It felt great celebrating two events in South Harr Rep.
+Fleming and I toured the apprenticeship progr We all deserve to show up as ourselves.
+The PA CRO The past few weeks have been busy — celebrating Di Load More Follow Dave on Instagram paid for by Friends of Dave Madsen Copyright © # | WordPress Theme by MH Themes

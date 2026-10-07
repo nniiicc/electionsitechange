@@ -1,13 +1,50 @@
 [
-"https://bsky.app/profile/dr-rreal.bsky.social",
-"https://facebook.com/bexargreens",
-"https://instagram.com/bexargreens",
-"https://julianfortxsenate.org/donate",
-"https://julianfortxsenate.org/es",
-"https://julianfortxsenate.org/es/about",
-"https://julianfortxsenate.org/es/campaign-issues",
-"https://julianfortxsenate.org/es/contact",
-"https://julianfortxsenate.org/es/donate",
-"https://julianfortxsenate.org/es/events",
-"https://x.com/bexargreenstx"
+{
+"text": "Acerca de",
+"href": "https://www.julianfortxsenate.org/es/about/"
+},
+{
+"text": "Cielo azul",
+"href": "https://bsky.app/profile/dr-rreal.bsky.social"
+},
+{
+"text": "Contactar",
+"href": "https://www.julianfortxsenate.org/es/contact/"
+},
+{
+"text": "Donar",
+"href": "https://www.julianfortxsenate.org/es/donate/"
+},
+{
+"text": "Eventos",
+"href": "https://www.julianfortxsenate.org/es/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bexargreens"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bexargreens/"
+},
+{
+"text": "Julián Villarreal, PhD para el Senado de Texas",
+"href": "https://www.julianfortxsenate.org/es"
+},
+{
+"text": "Temas de campaña",
+"href": "https://www.julianfortxsenate.org/es/campaign-issues/"
+},
+{
+"text": "X",
+"href": "https://x.com/bexargreenstx"
+},
+{
+"text": "[image: Julián Villarreal, PhD for Texas Senate]",
+"href": "https://www.julianfortxsenate.org/es/"
+},
+{
+"text": "[image]English",
+"href": "https://www.julianfortxsenate.org/donate/"
+}
 ]

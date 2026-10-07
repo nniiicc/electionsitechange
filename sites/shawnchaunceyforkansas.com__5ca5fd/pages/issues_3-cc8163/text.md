@@ -1,7 +1,4 @@
-Relationships
-Working on uniting Junction City and Geary County while maintaining a strong relationship with Fort Riley to ensure the welfare of our troops during and after their service. also developing relationships with state and federal delegations to gain support for projects in our community
-Bringing Our Community Together and Building a Stronger Future
-One of my most important goals is helping unite Junction City and Geary County around a shared vision for growth, prosperity, and opportunity.
+Home Newsletter Get Involved Donate Join Donate Platform Issue Policy brief Relationships Working on uniting Junction City and Geary County while maintaining a strong relationship with Fort Riley to ensure the welfare of our troops during and after their service. also developing relationships with state and federal delegations to gain support for projects in our community Back to home Bringing Our Community Together and Building a Stronger Future One of my most important goals is helping unite Junction City and Geary County around a shared vision for growth, prosperity, and opportunity.
 While we may not always agree on every issue, we all want safe neighborhoods, strong schools, quality jobs, reliable infrastructure, and a thriving community for future generations.
 By working together and focusing on common goals, we can accomplish far more than we can individually.
 Throughout my time in public service, I have worked to build relationships across local governments, community organizations, businesses, educational institutions, and civic leaders.
@@ -25,3 +22,7 @@ We can continue to attract new businesses and investment, support existing emplo
 Achieving these goals requires leadership that brings people together and focuses on results rather than division.
 By building strong partnerships locally, statewide, and in Washington, we can bring people together, strengthen our military-community connection, and deliver results that move Geary County forward.
 Working together, we can create new opportunities, support those who serve our nation, and build a stronger future for Junction City, Geary County, and all the communities we proudly call home.
+Paid for by Shawn Chauncey for Kansas.
+Shawn Chauncey treasurer. © 2026 Shawn Chauncey .
+All rights reserved.
+Privacy policy

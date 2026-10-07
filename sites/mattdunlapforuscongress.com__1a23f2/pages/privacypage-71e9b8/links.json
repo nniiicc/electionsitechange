@@ -1,13 +1,74 @@
 [
-"https://bsky.app/profile/dunlap4congress.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSeKikROe-H6zMc4oUzQvsKb8W0lQatIBb9_KSMnfHI0PRUeyQ/viewform",
-"https://facebook.com/people/Matt-Dunlap-For-Congress/61581329537939",
-"https://instagram.com/mattforcongress",
-"https://mattdunlapforuscongress.com/",
-"https://mattdunlapforuscongress.com/events",
-"https://mattdunlapforuscongress.com/issues",
-"https://mattdunlapforuscongress.com/privacypage",
-"https://tiktok.com/@mattforcongress",
-"https://x.com/dunlap4congress",
-"https://youtube.com/@dunlapforcongress"
+{
+"text": "CONTACT",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "DONATE",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mattdunlapforuscongress.com/events"
+},
+{
+"text": "MEET MATT",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mattdunlapforuscongress.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.mattdunlapforuscongress.com/privacypage"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeKikROe-H6zMc4oUzQvsKb8W0lQatIBb9_KSMnfHI0PRUeyQ/viewform"
+},
+{
+"text": "[image: Dunlap campaign logo ]",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "[image: Dunlap campaign logo]",
+"href": "https://www.mattdunlapforuscongress.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattforcongress"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/dunlap4congress.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/people/Matt-Dunlap-For-Congress/61581329537939/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/mattforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@dunlapforcongress"
+},
+{
+"text": "[image]",
+"href": "https://x.com/dunlap4congress"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@mattdunlapforuscongress.com"
+},
+{
+"text": "info@mattdunlapforuscongress.com",
+"href": "mailto:info@mattdunlapforuscongress.com"
+}
 ]

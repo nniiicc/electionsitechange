@@ -1,20 +1,3 @@
-- Chairman of HD 22 - Laurel Ann Flahive
-- Vice Chairman of HD 22 - Dwight Johnson
-- Secretary of HD 22 - Ann Easton
-- Division A - Dominic Neidzielski
-- Division B - Michael Lavrenz
-- Division C - Larry Langston
-- Division D - Amy Birch
-- Division E - Lori Triplett
-- Division F - Pam Morely
-- Division G - Matt Kortrey
-This Map was updated in 2026
-Do to Changes Reqiested by
-the El Paso GOP
-- Lynette Crow-Iverson - Council President
-- Brian Risley Council President Pro Team
-- David Leinweber
-- District 1 - Dave Donelson
-- District 2 - Ken Casey - Appointed
-- District 5 - Nancy Henjum
-- District 6 - Roland Rainey Jr
+Maps that Encompass Colorado House District 22 Home Ken DeGraaf Maps Liberty Scorecard Documents Map for House District 22 House District Officers Structure District 22 House Representative Ken DeGraaf Party House Officers Chairman of HD 22 - Laurel Ann Flahive Vice Chairman of HD 22 - Dwight Johnson Secretary of HD 22 - Ann Easton Division Leaders for HD 22 Division A - Dominic Neidzielski Division B - Michael Lavrenz Division C - Larry Langston Division D - Amy Birch Division E - Lori Triplett Division F - Pam Morely Division G - Matt Kortrey This Map was updated in 2026 Do to Changes Reqiested by the El Paso GOP Colorado State Senate Districts that Encompass House District 22 HD 22 as Part of Senate District 10 Linda Zamora Wilson is our Senator Redish area on the Map HD 22 as Part of Senate District 9 Larry Liston is our Senator Blue-ish area on the Map United States Colorado Congressional District 5 This map applies to both the for Congressional 5, Jeff Crank and the Universtiy of Colorado State Regent in District 5 Ken Montera Blue area represents Congressional District 5 Yellow is House District 22 House District 22 County Commissioners Districts Break Down of the County Commissioners Districts County Commisioner District 1 County Commissioner District 2 Current County Commisioner - Holly Williams Candidates - Lindsay Moore, Ryan Graham County Commissioner Carrie Geitner County Comissioner 4 County Commissioner District 5 County Commisssioner Corey Applegate County Comissioner - Lauren Nelson Candidates - Vickie Tonkin, Lauren Nelson There is only one Precinct in House District 22 that is in County Commissioner District 4 this is Precinct 161 City Council Members in House District 22 There are 7 City Council Members Associated with HD22 There are Three Members at large Lynette Crow-Iverson - Council President Brian Risley Council President Pro Team David Leinweber Four City Council Districts in HD 22 District 1 - Dave Donelson District 2 - Ken Casey - Appointed District 5 - Nancy Henjum District 6 - Roland Rainey Jr University of Colorado Board of Regent at large Member Eric Rinard at large member for the State of Colorado Paid for by Ann E.
+Easton.
+Not Authorized by any Candidate or Candidate's Committee

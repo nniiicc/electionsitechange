@@ -1,5 +1,2 @@
-Thu, Jul 30
-Peanut & Zelb's Produce Market
-Meet and Greet NC State Senate District 2 Candidate, Roy Surrett
-Jul 30, 2026, 12:00 PM – 3:00 PM
-Peanut & Zelb's Produce Market, 137 Hyco St, Norlina, NC 27563, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Campaign Kickoff: What's The Scoop?
+Thu, Jul 30 | Peanut & Zelb's Produce Market Meet and Greet NC State Senate District 2 Candidate, Roy Surrett Time & Location Jul 30, 2026, 12:00 PM – 3:00 PM Peanut & Zelb's Produce Market, 137 Hyco St, Norlina, NC 27563, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

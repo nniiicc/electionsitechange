@@ -1,161 +1,29 @@
-An Update from the Alabama State House for the Week of January 26, 2026 - January 30, 2026
-CHILD PREDATOR DEATH PENALTY ACT
-• House Republicans voted to pass the Child Predator Death Penalty Act, which is
-sponsored by State Rep.
-Matt Simpson (R - Daphne), while 23 Democrats either vote
-against the measure or abstained.
-• “This crime is the worst-of-the-worst offenses,” Simpson said on the House floor.
-“When you take the innocence of the children, I believe in my heart that that is
-the worst-of-the-worst offenses and as it being one of the worst-of-the-worst of-
-fenses, it deserves the worst-of-the-worst punishments.”
-• Originally sponsored in the Alabama House during the 2025 regular session, House Bill
-41 allows prosecutors to request the death penalty for those convicted of raping,
-sodomizing, or committing sexual torture on children younger than 12-years-old.
-• Under a U.S.
-Supreme Court ruling, the death penalty is currently applicable only in
-cases involving the loss of life — such as murder, robbery in which an individual is
-killed, and others — but Simpson remains confident that passing the law in Alabama
-will help force the court to reconsider its precedent.
-• Florida, Tennessee, Idaho, Oklahoma, and Mississippi are among the states that
-have enacted similar laws in a direct challenge to the narrow 5 - 4 decision by the
-U.S.
+0 Skip to Content About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate An Update from the Alabama State House for the Week of January 26, 2026 - January 30, 2026 Jan 26 Written By Sutton Richardson CHILD PREDATOR DEATH PENALTY ACT • House Republicans voted to pass the Child Predator Death Penalty Act, which is sponsored by State Rep.
+Matt Simpson (R - Daphne), while 23 Democrats either vote against the measure or abstained. • “This crime is the worst-of-the-worst offenses,” Simpson said on the House floor.
+“When you take the innocence of the children, I believe in my heart that that is the worst-of-the-worst offenses and as it being one of the worst-of-the-worst of- fenses, it deserves the worst-of-the-worst punishments.” • Originally sponsored in the Alabama House during the 2025 regular session, House Bill 41 allows prosecutors to request the death penalty for those convicted of raping, sodomizing, or committing sexual torture on children younger than 12-years-old. • Under a U.S.
+Supreme Court ruling, the death penalty is currently applicable only in cases involving the loss of life — such as murder, robbery in which an individual is killed, and others — but Simpson remains confident that passing the law in Alabama will help force the court to reconsider its precedent. • Florida, Tennessee, Idaho, Oklahoma, and Mississippi are among the states that have enacted similar laws in a direct challenge to the narrow 5 - 4 decision by the U.S.
 Supreme Court in Kennedy v.
-Louisiana, which found that executing child
-predators was “unusual punishment” because so few states imposed the death
-penalty for such offenses.
-• The filing of the most recent version of the Child Predator Death Penalty Act follows on
-the heels of a horrific child sex trafficking ring revelation in Bibb County that involved
-abuse of children as young as three-years-old.
-• The bill now goes to the Senate for consideration.LIMITING SCREEN TIME FOR CHILDREN
-• The House awarded approval on Tuesday to legislation by State Rep.
-Jeanna Ross (R -
-Guntersville) that would limit the electronic screen time of children under the care of
-publicly-funded early learning centers.
-• Ross is the former director of the Department of Early Childhood Education in
-Alabama and has noted that studies show prolonged screen time with electronic
-devices can slow both learning and social progress in young children.
-• The measure requires the Department of Early Childhood Education to create
-guidelines and training on appropriate screen-time use and to set age-based limits on
-electronic screen time.
-• Children under 2 would be barred from screen time altogether, and specific limits
-would be set for children aged 2 to 5 with the state departments of Human
-Resources and Education each having a role in promulgating the guidelines.
-• The bill, which has the early and vocal support of Gov.
-Kay Ivey, now goes to the
-Senate for consideration.
-ARRESTING INDIVIDUALS WITH OUT-OF-STATE FELONY CHARGES
-• State Rep.
-Paul Lee (R - Dothan) secured final passage of legislation on Tuesday that
-allows law enforcement officers to arrest individuals without a warrant if they are
-wanted out-of-state.
-• Under current Alabama law, officers may conduct a warrantless arrest on an
-individual who is wanted in another state only if the crime with which they have
-been charged carries a sentence of life imprisonment or the death penalty.
-• Lee’s measure would expand the warrantless arrest statute to include those who are
-charged with a felony in another state.
-• During floor debate, Lee noted that his legislative district abuts the borders of
-Georgia and Florida, and his local law enforcement agencies are unable to arrest
-individuals they encounter who are wanted on felony charges in those two states.
-• Substituting a previously passed Senate version with the House version, Lee won final
-passage by a 101 - 0 margin.
-• The bill now goes to Gov.
-Kay Ivey for her consideration and signature.TRYING TEENS AS ADULTS IN CAPITAL MURDER CASES
-• The Alabama House approved legislation by State.
+Louisiana , which found that executing child predators was “unusual punishment” because so few states imposed the death penalty for such offenses. • The filing of the most recent version of the Child Predator Death Penalty Act follows on the heels of a horrific child sex trafficking ring revelation in Bibb County that involved abuse of children as young as three-years-old. • The bill now goes to the Senate for consideration.
+LIMITING SCREEN TIME FOR CHILDREN • The House awarded approval on Tuesday to legislation by State Rep.
+Jeanna Ross (R - Guntersville) that would limit the electronic screen time of children under the care of publicly-funded early learning centers. • Ross is the former director of the Department of Early Childhood Education in Alabama and has noted that studies show prolonged screen time with electronic devices can slow both learning and social progress in young children. • The measure requires the Department of Early Childhood Education to create guidelines and training on appropriate screen-time use and to set age-based limits on electronic screen time. • Children under 2 would be barred from screen time altogether, and specific limits would be set for children aged 2 to 5 with the state departments of Human Resources and Education each having a role in promulgating the guidelines. • The bill, which has the early and vocal support of Gov.
+Kay Ivey, now goes to the Senate for consideration.
+ARRESTING INDIVIDUALS WITH OUT-OF-STATE FELONY CHARGES • State Rep.
+Paul Lee (R - Dothan) secured final passage of legislation on Tuesday that allows law enforcement officers to arrest individuals without a warrant if they are wanted out-of-state. • Under current Alabama law, officers may conduct a warrantless arrest on an individual who is wanted in another state only if the crime with which they have been charged carries a sentence of life imprisonment or the death penalty. • Lee’s measure would expand the warrantless arrest statute to include those who are charged with a felony in another state. • During floor debate, Lee noted that his legislative district abuts the borders of Georgia and Florida, and his local law enforcement agencies are unable to arrest individuals they encounter who are wanted on felony charges in those two states. • Substituting a previously passed Senate version with the House version, Lee won final passage by a 101 - 0 margin. • The bill now goes to Gov.
+Kay Ivey for her consideration and signature.
+TRYING TEENS AS ADULTS IN CAPITAL MURDER CASES • The Alabama House approved legislation by State.
 Rep.
-Phillip Pettus (R - Killen) on
-Tuesday that prohibits judges from granting youthful offender status to anyone 16 years
-old or older who is charged with capital murder or murder, mandating they be charged,
-arrested, and tried as adults.
-• Under current Alabama law, judges have the discretion to grant youthful offender
-status to defendants charged with crimes committed before age 19, which can re-
-sult in lighter sentencing and sealed records.
-• A provision in the legislation allows the defendant to be reconsidered for youthful of-
-fender status if the original murder charge is reduced to a lesser offense.
-• The bill is named Jolee’s Law after Jolee Callan, who was killed at age 18 by her ex-
-boyfriend, who was initially granted youthful offender status.
-• The bill, which was passed with a 94 - 0 margin, now goes to the Senate for considera-
-tion.
-PROTECTING CHILDREN FROM “GROOMING” BY CHILD PREDATORS
-• Children across Alabama are one step closer to additional protections from being
-“groomed” by child predators after House passage by a 101 - 0 margin of legislation
-being sponsored by State Rep.
-Mark Gidley (R - Hokes Bluff)
-• Gidley’s legislation, HB105, expands the definition of enticing a child to include
-"grooming," which is defined as a pattern of behavior to prepare, induce, or persuade a
-child through manipulation, trust-building, influence, gift-giving, or physical touching,
-and can occur through electronic, online, in-person, or indirect methods.
-• The bill also broadens the types of prohibited acts that a child can be enticed or
-solicited into, now encompassing sex offenses, sexual conduct, sexual
-performances, and genital mutilation, and clarifies that the crime of electronic
-solicitation can occur through various electronic or digital means.
-• The bill now goes to the Senate for consideration.
-PROHIBITING MUD DUMPING IN MOBILE BAY
-• With a unanimous 97 - 0 vote, the Alabama House approved the “Save Our Bay” bill by
-State Rep.
+Phillip Pettus (R - Killen) on Tuesday that prohibits judges from granting youthful offender status to anyone 16 years old or older who is charged with capital murder or murder, mandating they be charged, arrested, and tried as adults. • Under current Alabama law, judges have the discretion to grant youthful offender status to defendants charged with crimes committed before age 19, which can re- sult in lighter sentencing and sealed records. • A provision in the legislation allows the defendant to be reconsidered for youthful of- fender status if the original murder charge is reduced to a lesser offense. • The bill is named Jolee’s Law after Jolee Callan, who was killed at age 18 by her ex- boyfriend, who was initially granted youthful offender status. • The bill, which was passed with a 94 - 0 margin, now goes to the Senate for considera- tion.
+PROTECTING CHILDREN FROM “GROOMING” BY CHILD PREDATORS • Children across Alabama are one step closer to additional protections from being “groomed” by child predators after House passage by a 101 - 0 margin of legislation being sponsored by State Rep.
+Mark Gidley (R - Hokes Bluff) • Gidley’s legislation, HB105, expands the definition of enticing a child to include "grooming," which is defined as a pattern of behavior to prepare, induce, or persuade a child through manipulation, trust-building, influence, gift-giving, or physical touching, and can occur through electronic, online, in-person, or indirect methods. • The bill also broadens the types of prohibited acts that a child can be enticed or solicited into, now encompassing sex offenses, sexual conduct, sexual performances, and genital mutilation, and clarifies that the crime of electronic solicitation can occur through various electronic or digital means. • The bill now goes to the Senate for consideration.
+PROHIBITING MUD DUMPING IN MOBILE BAY • With a unanimous 97 - 0 vote, the Alabama House approved the “Save Our Bay” bill by State Rep.
 Rhett Marques (R - Enterprise) on Tuesday that bans the U.S.
-Army Corps
-of Engineers or any other entity or individual from engaging in the practice of “mud
-dumping” in Mobile Bay.• ”Mud dumping” occurs when sediment and spoil from the dredging of shipping
-channels is jettisoned by barges back onto the floor of the bay, where it turns the
-water cloudy, and marine habitats like oyster beds, seagrasses, and other saltwater
-wildlife are smothered beneath it, according to environmentalists.
-• The U.S.
-Army Corps of Engineers fervently and ardently claims that its dredging prac-
-tices, which is called “thin-layer placement,” replicates the natural spreading of silt
-upon the floor of the bay.
-• Roughly 90 million cubic yards of sediment could be dumped back into Mobile
-Bay by the Corps in coming years as they maintain shipping channels.
-• U.S.
+Army Corps of Engineers or any other entity or individual from engaging in the practice of “mud dumping” in Mobile Bay.• ”Mud dumping” occurs when sediment and spoil from the dredging of shipping channels is jettisoned by barges back onto the floor of the bay, where it turns the water cloudy, and marine habitats like oyster beds, seagrasses, and other saltwater wildlife are smothered beneath it, according to environmentalists. • The U.S.
+Army Corps of Engineers fervently and ardently claims that its dredging prac- tices, which is called “thin-layer placement,” replicates the natural spreading of silt upon the floor of the bay. • Roughly 90 million cubic yards of sediment could be dumped back into Mobile Bay by the Corps in coming years as they maintain shipping channels. • U.S.
 Sen.
-Katie Britt has already taken solid steps to protect Mobile Bay by passing a
-federal provision that requires the Corps to dedicate 70% of all dredged sediment to
-“beneficial uses,” and Marques’ state legislation explicitly bans mud dumping from be-
-ing considered a “beneficial use” in Alabama.
-• The bill closely mirrors laws that have already passed in Florida, Georgia, Louisiana,
-and other states, and it is supported by the Gulf Coast Convention and Visitors Bureau,
-the Seafood Association of Alabama, charter fishing operations, professional fishermen,
-shrimpers, and oystermen, saltwater sports enthusiasts, and others.
-• The bill now goes to the Senate for consideration.
-PARTNERING WITH FEDERAL IMMIGRATION EFFORTS
-• State Rep.
-Ernie Yarbrough (R - Trinity) won a favorable report from the House
-Judiciary Committee on Wednesday for his legislation that will allow law enforcement
-agencies across the state to enter into agreements with federal authorities and assist
-with the enforcement of U.S. immigration laws.
-• The legislation passed the same committee in 2025.
-• Specifically, the bill allows state and local law enforcement agencies to sign
-agreements with the U.S.
-Department of Justice, the Department of Homeland Security,
-and any other federal agency “for the purpose of enforcing federal immigration and
-customs laws and the detention, removal, and investigation of illegal aliens and the
-immigration status of any individual in this state.”
-• Language within the bill states that “A law enforcement officer acting within the
-scope of his or her authority under any memorandum of understanding,
-agreement, or other authorization from the federal government may arrest, with
-probable cause, any individual suspected of being an illegal alien.”• When Democrats questioned if the legislation would open the door to racial profiling,
-State Rep.
-Matt Simpson (R - Daphne) noted that probable cause requirements would
-still apply even after a memorandum of understanding was adopted.
-• Yarbrough named his measure the “Laken Riley” in honor of a University of Georgia
-nursing student who was murdered by an illegal alien that had been previously detained
-but was freed before taking her life.
-• The bill now goes to the full House for consideration.
-UNIVERSITY OF ALABAMA SCHOOL OF SOCIAL WORK
-• The Alabama House approved legislation by House Ways and Means Education
-Committee Chairman Danny Garrett (R - Trussville) on Thursday that repeals the
-requirement for the University of Alabama School of Social Work to exist as a
-standalone college.
-• Garrett noted that his bill was not meant to be “anti-social work” but simply
-provides the university with more flexibility and the opportunity to either
-continue the program as it exists or to make changes if it desires.
-• Though wholly unrelated to Garrett’s bill, the UA School of Social Work has come
-under fire recently for refusing to comply with the state law banning diversity, equity,
-and inclusion programs, commonly known as DEI, in publicly funded schools, colleges,
-and universities.
-• Recent presentations hosted and promoted by the school were titled, “Bridging
-the Gap: Advancing Diversity, Equity, and Inclusion for BIPOC Men in Social
-Work” and “Transforming Competencies in Anti-Racism, Equity, Diversity, and
-Inclusion.”
-• Similarly provocative presentations that seem to violate Alabama’s anti- DEI
-statute were held and hosted by the school, as well.
-• Garrett’s bill now goes to the Senate for consideration.
+Katie Britt has already taken solid steps to protect Mobile Bay by passing a federal provision that requires the Corps to dedicate 70% of all dredged sediment to “beneficial uses,” and Marques’ state legislation explicitly bans mud dumping from be- ing considered a “beneficial use” in Alabama. • The bill closely mirrors laws that have already passed in Florida, Georgia, Louisiana, and other states, and it is supported by the Gulf Coast Convention and Visitors Bureau, the Seafood Association of Alabama, charter fishing operations, professional fishermen, shrimpers, and oystermen, saltwater sports enthusiasts, and others. • The bill now goes to the Senate for consideration.
+PARTNERING WITH FEDERAL IMMIGRATION EFFORTS • State Rep.
+Ernie Yarbrough (R - Trinity) won a favorable report from the House Judiciary Committee on Wednesday for his legislation that will allow law enforcement agencies across the state to enter into agreements with federal authorities and assist with the enforcement of U.S. immigration laws. • The legislation passed the same committee in 2025. • Specifically, the bill allows state and local law enforcement agencies to sign agreements with the U.S.
+Department of Justice, the Department of Homeland Security, and any other federal agency “for the purpose of enforcing federal immigration and customs laws and the detention, removal, and investigation of illegal aliens and the immigration status of any individual in this state.” • Language within the bill states that “A law enforcement officer acting within the scope of his or her authority under any memorandum of understanding, agreement, or other authorization from the federal government may arrest, with probable cause, any individual suspected of being an illegal alien.”• When Democrats questioned if the legislation would open the door to racial profiling, State Rep.
+Matt Simpson (R - Daphne) noted that probable cause requirements would still apply even after a memorandum of understanding was adopted. • Yarbrough named his measure the “Laken Riley” in honor of a University of Georgia nursing student who was murdered by an illegal alien that had been previously detained but was freed before taking her life. • The bill now goes to the full House for consideration.
+UNIVERSITY OF ALABAMA SCHOOL OF SOCIAL WORK • The Alabama House approved legislation by House Ways and Means Education Committee Chairman Danny Garrett (R - Trussville) on Thursday that repeals the requirement for the University of Alabama School of Social Work to exist as a standalone college. • Garrett noted that his bill was not meant to be “anti-social work” but simply provides the university with more flexibility and the opportunity to either continue the program as it exists or to make changes if it desires. • Though wholly unrelated to Garrett’s bill, the UA School of Social Work has come under fire recently for refusing to comply with the state law banning diversity, equity, and inclusion programs, commonly known as DEI, in publicly funded schools, colleges, and universities. • Recent presentations hosted and promoted by the school were titled, “Bridging the Gap: Advancing Diversity, Equity, and Inclusion for BIPOC Men in Social Work” and “Transforming Competencies in Anti-Racism, Equity, Diversity, and Inclusion.” • Similarly provocative presentations that seem to violate Alabama’s anti- DEI statute were held and hosted by the school, as well. • Garrett’s bill now goes to the Senate for consideration.
+Sutton Richardson Previous Previous An Update from the Alabama State House for the Week of February 2, 2026 - February 6, 2026 Next Next An Update from the Alabama State House for the Week of January 19, 2026 - January 23, 2026 205-612-2433 susandubose2@gmail.com Privacy Policy Terms & Conditions Paid for by the Committee to Elect Susan DuBose 5378 Greystone Way Hoover, AL 35242

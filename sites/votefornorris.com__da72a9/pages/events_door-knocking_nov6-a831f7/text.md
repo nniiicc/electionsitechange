@@ -1,14 +1,9 @@
-Back to All Events
-Connect with Your Blaine and Lexington Community!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events 11/06/2022 GOTV Phone Bank for Team Norris Sunday, November 6, 2022 6:00 PM 8:00 PM Online! (map) Google Calendar ICS Connect with Your Blaine and Lexington Community!
 Volunteers will meet online for a brief training before jumping on the phones.
 You must have your own computer and phone to complete this volunteer opportunity!
 This opportunity is 100% virtual.
 Further instruction to be provided via email roughly 24 hours in advance, so watch your email for more info.
 Sign up below to join us!
-Previous
-Previous
-November 5
-11/05/2022 Door Knock & Lunch at Invictus Brewing
-Next
-Next
-June 24
+Previous Previous November 5 11/05/2022 Door Knock & Lunch at Invictus Brewing Next Next June 24 Blaine Festival Parade 2023 Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

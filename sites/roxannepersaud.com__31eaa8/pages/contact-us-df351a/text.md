@@ -1,44 +1,4 @@
-Home
-About
-Voter Information
-Find Your Pollsite
-NYC Absentee Ballot Request
-Register to Vote
-Our Issues
-Senate District 19
-Contact Us
-Home
-About
-Voter Information
-Find Your Pollsite
-NYC Absentee Ballot Request
-Register to Vote
-Our Issues
-Senate District 19
-Contact Us
-Donate
-contact us
-Full Name
-Phone
-Email
-Subject
-Message
-Send
-Ask Us Anything
-contact us for more details.
-Address
-info@roxannepersaud.com
-Email
-Thomas Jefferson Democratic Club 77 Conklin Avenue Brooklyn, NY 11236
-visit our district office
-find us at
-Thomas Jefferson Democratic Club
-77 Conklin Avenue
-Brooklyn, NY 11236
-Paid for by Persaud for Senate
-Days
-Hours
-Minutes
-Seconds
-register to vote
-get registered
+Home About Voter Information Find Your Pollsite NYC Absentee Ballot Request Register to Vote Our Issues Senate District 19 Contact Us Home About Voter Information Find Your Pollsite NYC Absentee Ballot Request Register to Vote Our Issues Senate District 19 Contact Us Donate contact us Full Name Phone Email Subject Message Send Ask Us Anything contact us for more details.
+Address info@roxannepersaud.com Email Thomas Jefferson Democratic Club 77 Conklin Avenue Brooklyn, NY 11236 visit our district office find us at Thomas Jefferson Democratic Club 77 Conklin Avenue Brooklyn, NY 11236 Paid for by Persaud for Senate Get Involved sign up to our newsletter Your Email Send EMAIL info@roxannepersaud.com Paid for by Persaud for Senate © # Persaud for Senate.
+All rights reserved.
+Days Hours Minutes Seconds register to vote get registered

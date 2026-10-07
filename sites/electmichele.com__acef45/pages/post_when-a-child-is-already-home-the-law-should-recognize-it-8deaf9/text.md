@@ -1,5 +1,6 @@
-When a Child Is Already Home, the Law Should Recognize It
-In Tennessee, we all agree that children deserve safe, stable, and loving homes.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search When a Child Is Already Home, the Law Should Recognize It electmichele Apr 11 3 min read In Tennessee, we all agree that children deserve safe, stable, and loving homes.
 But sometimes, our laws—designed with good intentions—create unnecessary barriers for the very families stepping up to provide that stability.
 House Bill 1692 is about fixing one of those barriers.
 This legislation was brought to me by an attorney who handles adoptions in rural communities.
@@ -25,12 +26,7 @@ That’s the problem this bill addresses.
 Today, Tennessee law allows judges to waive many of these requirements when the adoptive parents are “related” to the child—even in very distant ways.
 But when a caregiver is not related, even after months or years of court-approved placement, those same efficiencies are not available.
 House Bill 1692 creates a narrow, responsible pathway to fix that.
-It allows a judge to waive the home study requirement only when strict conditions are met:
-- The child has lived in the home for at least 12 consecutive months
-- Custody was granted through a final court order after full adjudication
-- Background checks are completed, including criminal history and registry checks
-- And the judge must issue written findings that the waiver is in the child’s best interest
-And importantly, nothing is automatic.
+It allows a judge to waive the home study requirement only when strict conditions are met: The child has lived in the home for at least 12 consecutive months Custody was granted through a final court order after full adjudication Background checks are completed, including criminal history and registry checks And the judge must issue written findings that the waiver is in the child’s best interest And importantly, nothing is automatic.
 Judges are not required to waive anything.
 They retain full discretion to require additional review or deny the adoption if there are concerns.
 This bill does not lower standards—it recognizes reality.
@@ -43,5 +39,5 @@ At its core, this bill is about common sense and compassion.
 It’s about recognizing that what makes a family is not paperwork or bloodlines—but love, responsibility, and a willingness to give a child a permanent home.
 When a child is already home, the law should recognize it.
 Rep.
-Michele Reneau
-TN House District 27
+Michele Reneau TN House District 27 Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

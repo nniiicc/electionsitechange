@@ -1,5 +1,4 @@
-About Ky Holland
-I grew up in this district.
+0 Skip to Content About Get Involved Our District Priorities Support the campaign Open Menu Close Menu About Get Involved Our District Priorities Support the campaign Open Menu Close Menu About Get Involved Our District Priorities Support the campaign About Ky Holland I grew up in this district.
 I know every corner - the local schools where my wife, children, and I all attended, the homes of friends across the hillside, the trails spanning from Glen Alps all the way to Indian, the slopes of Alyeska, campgrounds in Portage Valley, the long tunnel to Whittier.
 It’s been the honor of my lifetime to represent the communities of House District 9.
 I graduated from Service High and attended Oregon State University, earning a degree in Mechanical Engineering.
@@ -13,3 +12,4 @@ In the last decade, my focus has turned to the future of Alaskans and Alaskan bu
 I’ve worked to build a local ecosystem of innovation and entrepreneurship, organizing events, mentoring start-ups, launching venture funds, and angel investing in new ventures.
 As a business and community leader, I know how to manage complex systems, work with different people, and find creative solutions to the toughest problems.
 I’ve leveraged these skills as your representative in Juneau - to fight for education, economic opportunity, and a prosperous and sustainable future for Alaska.
+Media Paid for by Alaskans for Ky Holland, PO Box 220314 Anchorage, AK 99522 ky@alaskansforkyholland.com 907-727-2735

@@ -1,3 +1,4 @@
-Once again, Illinois stands at the forefront of a national crisis manufactured not by a shortage of medical need but by politics.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate Daily Archives: October 9, 2025 Home 2025 October 9 Sara Feigenholtz: Why Illinois will remain a safe haven for abortion care Team Sara October 9, 2025 Once again, Illinois stands at the forefront of a national crisis manufactured not by a shortage of medical need but by politics.
 As federal defunding efforts force Planned Parenthood of Wisconsin to pause abortion services, patients are left scrambling for basic and essential care.
-Illinois providers are preparing, yet again, to absorb the impact and are stepping up to serve a growing number of
+Illinois providers are preparing, yet again, to absorb the impact and are stepping up to serve a growing number of Read More Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

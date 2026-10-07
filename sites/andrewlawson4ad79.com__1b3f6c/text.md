@@ -1,17 +1,12 @@
-2026 California Election
-Fighting for transparency, fiscal responsibility, and the families of San Diego County in the California State Assembly.
-Clear positions on housing, public safety, fiscal policy, and the issues that matter to California families.
-View issues
-Full FPPC filings, campaign statements, and financial disclosures — available for public review.
-View filings
-Registration deadlines, polling locations, mail-in ballot info, and your complete voting guide for District 79.
-Voting guide
-Platform
-A common-sense agenda focused on the priorities of District 79 families and communities.
-Cutting red tape to build more homes, reining in costs, and ensuring working families can afford to stay in San Diego County.
-Supporting law enforcement, holding violent offenders accountable, and restoring safe neighborhoods across the district.
-Reducing the regulatory burden on small businesses, protecting taxpayers, and creating an environment where California businesses can thrive.
-Empowering parents with school choice, improving academic standards, and ensuring every child has access to quality education.
-Investing in water security, modernizing infrastructure, and preparing for California's future with smart, sustainable solutions.
-Full transparency in spending, campaign finance disclosure, and fighting Sacramento's culture of waste and special interests.
-Your support — whether a donation, a yard sign, or an hour of your time — makes the difference.
+Official Campaign Website — California Assembly District 79 Campaign Finance CA FPPC Secretary of State Andrew Lawson For State Assembly Home Issues Endorsements Filings Voting Social Media Speeches Donate 2026 California Election A Stronger Voice for District 79 Fighting for transparency, fiscal responsibility, and the families of San Diego County in the California State Assembly.
+Donate Now Volunteer Where I Stand Clear positions on housing, public safety, fiscal policy, and the issues that matter to California families.
+View issues Campaign Transparency Full FPPC filings, campaign statements, and financial disclosures — available for public review.
+View filings How to Vote Registration deadlines, polling locations, mail-in ballot info, and your complete voting guide for District 79.
+Voting guide Platform The Issues That Matter A common-sense agenda focused on the priorities of District 79 families and communities. 🏠 Housing & Affordability Cutting red tape to build more homes, reining in costs, and ensuring working families can afford to stay in San Diego County. 🛡️ Public Safety Supporting law enforcement, holding violent offenders accountable, and restoring safe neighborhoods across the district. 💼 Jobs & Economy Reducing the regulatory burden on small businesses, protecting taxpayers, and creating an environment where California businesses can thrive. 🎓 Education Empowering parents with school choice, improving academic standards, and ensuring every child has access to quality education. 💧 Water & Infrastructure Investing in water security, modernizing infrastructure, and preparing for California's future with smart, sustainable solutions. 📋 Government Accountability Full transparency in spending, campaign finance disclosure, and fighting Sacramento's culture of waste and special interests.
+See Full Platform → Join the Fight for District 79 Your support — whether a donation, a yard sign, or an hour of your time — makes the difference.
+Contribute Today Sign Up to Volunteer Paid for by Andrew Lawson for State Assembly District 79 2026 • FPPC ID #1480952 Filed with the California Fair Political Practices Commission • Not authorized by any other candidate or committee.
+Campaign finance reports available at cal-access.sos.ca.gov Andrew Lawson for State Assembly Fighting for District 79 families with transparency, accountability, and conservative values in Sacramento.
+Campaign Issues Endorsements News & Updates Contact Resources Campaign Filings Voting Guide CA FPPC CA Secretary of State Privacy Policy Stay Updated Get campaign news and voting information delivered to your inbox.
+Subscribe © # Andrew Lawson for State Assembly District 79.
+All rights reserved.
+Privacy Policy · Contact

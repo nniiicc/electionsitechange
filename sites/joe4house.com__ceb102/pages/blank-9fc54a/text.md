@@ -1,6 +1,5 @@
-Terms and Conditions
-Joe Bustos for State House | Last Updated: June 2, 2026
-By providing your phone number and opting in to receive text messages from Joe Bustos for State House, you agree to the following Terms and Conditions.
+top of page Click here to support Joe!
+About Joe Issues Donate Contribute Contribute Terms and Conditions Joe Bustos for State House | Last Updated: June 2, 2026 By providing your phone number and opting in to receive text messages from Joe Bustos for State House, you agree to the following Terms and Conditions.
 SMS Messaging Program Joe Bustos for State House operates an SMS messaging program to share campaign updates, event information, volunteer opportunities, and donation requests with supporters.
 Message frequency may vary.
 Opt-In By texting a keyword to our shortcode or submitting your phone number via our website at www.joe4house.com, you expressly consent to receive recurring automated text messages from Joe Bustos for State House at the phone number provided.
@@ -15,4 +14,6 @@ Cellular, MetroPCS, and other major U.S. carriers.
 Carrier support may vary.
 Disclaimer Joe Bustos for State House reserves the right to modify or discontinue this messaging program at any time.
 We are not liable for any delays or failures in the receipt of messages due to carrier or network conditions.
-Paid for by Joe Bustos for State House. 649 King Street, Mount Pleasant, SC 29464
+Paid for by Joe Bustos for State House.
+649 King Street, Mount Pleasant, SC 29464 Paid for by Joe Bustos for State House.
+649 King Street, Mount Pleasant, SC 29464 Terms & Conditions Privacy Policy bottom of page

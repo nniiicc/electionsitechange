@@ -1,11 +1,8 @@
-🏦 Fight Political Corruption
-Ban Congressmembers from trading stocks & becoming lobbyists
-Members of Congress within both political parties are trading stocks that "beat the market," making millions, while working class families are a missed paycheck away from homelessness.
+Skip navigation menu About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate About Conoce a Randy Issues News Endorsements Yard Signs Volunteer Media Donate 🪙 Cost of living 🏥 Healthcare 💼 Jobs & The Economy 👥 Immigration 🏠 Housing 🏦 Fight Political Corruption 🎓 Education & Training 🏞️ Environment 🌎 Foreign Policy 🧠 Artificial Intelligence 🏦 Fight Political Corruption Ban Congressmembers from trading stocks & becoming lobbyists Members of Congress within both political parties are trading stocks that "beat the market," making millions, while working class families are a missed paycheck away from homelessness.
 When they leave office, they become lobbyists and enrich themselves and the next Congressmember all over again.
 It doesn’t take a political science professor to understand that this enormous conflict of interest must end.
-Stop corporations and billionaires from buying elections
-The disastrous Citizens United Supreme Court decision has created a political environment where elections are bought and paid for by the corporations ripping working families off every day.
+Stop corporations and billionaires from buying elections The disastrous Citizens United Supreme Court decision has created a political environment where elections are bought and paid for by the corporations ripping working families off every day.
 We must seek every legal avenue available to end Citizens United, and ban corporate PACs from buying influence from politicians and candidates.
-Congressional Term Limits
-Representing your community is a privilege, not a lifetime appointment.
+Congressional Term Limits Representing your community is a privilege, not a lifetime appointment.
 We need fresh ideas and leadership to move our country forward, and that means we need a limit on how long members can serve in Congress - just like the presidency.
+Contact us at info@villegasforcongress.com Villegas for Congress PO Box 1346 Visalia, CA 93279 United States Privacy Policy Powered by RUN! website builder Paid for by Villegas for Congress You need to enable JavaScript to run this app.

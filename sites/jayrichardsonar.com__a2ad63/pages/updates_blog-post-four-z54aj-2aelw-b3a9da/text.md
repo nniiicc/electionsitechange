@@ -1,7 +1,6 @@
-Week 2: New Bills
-The second week of the legislative session included hearing the first round of bills and debates on key agenda items.
+0 Skip to Content Updates Donate Now Open Menu Close Menu Donate Now Updates Open Menu Close Menu Updates Donate Now Week 2: New Bills Jan 28 Written By Jay Richardson The second week of the legislative session included hearing the first round of bills and debates on key agenda items.
 One bill I would like to highlight is HB 1071, a bill that expands the Frank Broyles Publicity Rights Protection Act to safeguard individuals whose image, voice, or likeness is used commercially through artificial intelligence.
 As AI grows and becomes more integrated into our lives, protecting our rights as citizens, including our image, voice, and likeness is critical.
 This bill ensures that you will be notified and consent is given, for AI generated likeness is used.
-Read the summary of week two here: https://arkansashouse.org/news/post/23976/week-2-of-the-2025-regular-session
-For daily updates on what’s going on in the capitol, be sure to read the summaries posted on the Arkansas House, District 49 page.
+Read the summary of week two here: https://arkansashouse.org/news/post/23976/week-2-of-the-2025-regular-session For daily updates on what’s going on in the capitol, be sure to read the summaries posted on the Arkansas House, District 49 page.
+Jay Richardson https://jayrichardsonar.com Next Next Week 1: 95th AR Legislative Session Paid for by the Jay Richardson Campaign Fund © # All Rights Reserved AR House of Representatives Official Site Page Site Designed by Christina Williams Consulting, LLC

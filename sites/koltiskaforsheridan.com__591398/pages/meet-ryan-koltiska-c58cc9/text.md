@@ -1,4 +1,4 @@
-I was born and raised in Sheridan on a ranch that was homesteaded by my great-grandfather.
+Skip to content Toggle Navigation Meet Ryan My Values Priorities Volunteer Donate Meet Ryan Meet Ryan melissabee 2026-06-08T23:19:08+00:00 I was born and raised in Sheridan on a ranch that was homesteaded by my great-grandfather.
 My parents still run the ranch with my sister’s family.
 While I grew up doing all the ranch-life things, I tend to lean towards farm equipment and helping to maintain the property.
 Driving a swather is one of my favorite things.
@@ -15,4 +15,4 @@ In all of my experiences, I believe I have a well-rounded understanding of how c
 Ashley and I snowshoeing in the Big Horn Mountains.
 My family exploring Wyoming’s great outdoors.
 The drywall dust isn’t my favorite, but fixing things is!
-My dad and I on a Father’s Day drive towards Clearmont.
+My dad and I on a Father’s Day drive towards Clearmont. ryan@koltiskaforsheridan.com 307-461-4230 PO Box 66 | Sheridan, WY DONATE Page load link Go to Top

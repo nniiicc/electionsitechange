@@ -1,9 +1,50 @@
 [
-"https://adambotana.com/",
-"https://adambotana.com/donate",
-"https://adambotana.com/issues",
-"https://adambotana.com/meet-adam",
-"https://adambotana.com/volunteer",
-"https://facebook.com/AdamBotanaFL",
-"https://twitter.com/headboatwasher"
+{
+"text": "Donate",
+"href": "https://adambotana.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://adambotana.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://adambotana.com/"
+},
+{
+"text": "Issues",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "Meet Adam",
+"href": "https://adambotana.com/meet-adam/"
+},
+{
+"text": "Volunteer",
+"href": "https://adambotana.com/volunteer/"
+},
+{
+"text": "[image: Balanced Budgets] Balanced Budgets",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "[image: Preserving Natural Beauty] Preserving Natural Beauty",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "[image: Protecting Local Businesses] Protecting Local Businesses",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "[image: Supporting President Trump] Supporting President Trump",
+"href": "https://adambotana.com/issues/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/headboatwasher"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AdamBotanaFL/"
+}
 ]

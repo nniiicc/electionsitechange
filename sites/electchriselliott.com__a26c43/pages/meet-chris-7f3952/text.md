@@ -1,5 +1,4 @@
-Meet Chris
-Chris Elliott was elected to the Alabama Senate in 2018.
+Skip to content 251-990-4615 Home Meet Chris Working for You Get Our Share Contact Home Meet Chris Working for You Get Our Share Contact DONATE DONATE Home Meet Chris Working for You Get Our Share Contact Home Meet Chris Working for You Get Our Share Contact Meet Chris Chris Elliott was elected to the Alabama Senate in 2018.
 He was born and raised in Mobile and Baldwin counties where he is a small business owner who has started several successful small businesses.
 After graduating from St.
 Paul’s Episcopal School in Mobile, Chris received his bachelor’s degree from the University of Richmond in Virginia and his master’s degree from Wake Forest University.
@@ -16,14 +15,10 @@ He is a graduate of the Alabama Leadership Initiative and a member of the 30th C
 In 2020 Senator Elliott was recognized as an Emerging Legislative Leader by the State Legislative Leaders Foundation and the University of Virginia’s Darden School of Business and has been recognized as legislator of the year for numerous statewide associations.
 Active in Republican politics for over two and a half decades, Senator Elliott has worked with numerous statewide and local political campaigns in both Virginia and Alabama.
 Senator Elliott is an avid upland bird hunter and blue water sailor who holds a 25 Ton Coast Guard Master’s License.
-Quick Facts
-- Married for over 20 years to Alainna Elliott
-- 2 children, Haley Dae and Brooks
-- Member of St.
-Peters Episcopal Church of Bon Secour
-- Graduate of the University of Richmond with a B.A. in Political Science and Urban Policy
-- Holds a Master’s Degree in Project Management from Wake Forest University
-- Successful Small Business Owner
-- Served on the Executive Committee of the Baldwin County Republican Party as Vice Chairman for Commission District 2
-- Served on the Steering Committee of the Baldwin County Republican Party
-- Serves on the Executive Committee of the Alabama Republican Party
+Quick Facts Married for over 20 years to Alainna Elliott 2 children, Haley Dae and Brooks Member of St.
+Peters Episcopal Church of Bon Secour Graduate of the University of Richmond with a B.A. in Political Science and Urban Policy Holds a Master’s Degree in Project Management from Wake Forest University Successful Small Business Owner Served on the Executive Committee of the Baldwin County Republican Party as Vice Chairman for Commission District 2 Served on the Steering Committee of the Baldwin County Republican Party Serves on the Executive Committee of the Alabama Republican Party Paid for by Friends of Chris Elliott, P.O.
+Box 1026, Fairhope, AL 36533 By providing your phone number and/or email, you are consenting to receive emails, calls, and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Friends of Chris Elliott.
+Message and data rates may apply.
+Message frequency may vary.
+Text STOP to opt out or HELP for help.
+You can view our Privacy Policy and Mobile Terms of Service here: https://electchriselliott.com/privacypolicy Privacy Policy | Terms & Conditions | Accessibility | © Copyright # – All rights reserved

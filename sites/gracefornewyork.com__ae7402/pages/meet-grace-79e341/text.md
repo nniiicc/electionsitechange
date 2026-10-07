@@ -1,5 +1,4 @@
-Meet Grace
-Grace Meng represents New York’s 6th Congressional District located in Queens, New York.
+0 Skip to Content Meet Grace Issues Get Involved Donate Open Menu Close Menu Meet Grace Issues Get Involved Donate Open Menu Close Menu Meet Grace Issues Get Involved Donate Meet Grace Grace Meng represents New York’s 6th Congressional District located in Queens, New York.
 She was born and raised in Queens as the daughter of immigrants and has never forgotten where she came from or who she fights for.
 As a child growing up in the most diverse county in America, Grace believes that every person deserves a seat at the table.
 Whether young or old, rich or poor, she believes every voice deserves to be heard.
@@ -15,3 +14,5 @@ From 2017 to 2020, Grace proudly served as a Vice Chair of the Democratic Nation
 Grace’s congressional district is located entirely in Queens, New York, where she continues to live with her husband, Wayne, and their two sons.
 She attended New York City public schools, including Stuyvesant High School, received her undergraduate degree from the University of Michigan, and earned her law degree from Yeshiva University’s Benjamin N.
 Cardozo School of Law.
+Join Our Team Volunteer Support Grace!
+If you've saved your information with ActBlue Express, your donation will go through immediately $25 $50 $100 Other info@gracefornewyork.com • Privacy Policy Paid for by Grace for New York

@@ -1,27 +1,106 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&t=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.",
-"http://linkedin.com/shareArticle?mini=true&title=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F",
-"http://mass.gov/covid-19-testing",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&description=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.",
-"http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&title=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.",
-"http://tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&name=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&description=As+someone+who+has+been+dealing+with+the+effects+of+COVID-19+personally%2C+I+implore+you+all+to+WEAR+A+MASK.%C2%A0+This+is+not+a+political+issue%2C+or+a+deprivation+of+constitutional+rights.%C2%A0+This+is+a+matter+of+common+sense%2C+common+decency+and+scientific+truth.%C2%A0+MASKS+WORK+TO+PREVENT+THE+SPREAD+OF+COVID-19.+Feel+sick%3F+Get+%5B%E2%80%A6%5D",
-"http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F",
-"https://electmikeday.com/",
-"https://electmikeday.com/author/dan",
-"https://electmikeday.com/category/uncategorized",
-"https://electmikeday.com/contact-us",
-"https://electmikeday.com/fy2021-budget-updates",
-"https://electmikeday.com/get-involved",
-"https://electmikeday.com/issues",
-"https://electmikeday.com/legislation",
-"https://electmikeday.com/michael-day",
-"https://electmikeday.com/news",
-"https://electmikeday.com/voting-in-novembers-election-what-to-know",
-"https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested",
-"https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested?share=facebook",
-"https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested?share=twitter",
-"https://mdwcommunications.com/political-websites-by-mdwcomm",
-"https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F",
-"https://secure.anedot.com/repmikeday/general-fund-cc8f069906d",
-"https://twitter.com/share?text=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&url=https%3A%2F%2Fwp.me%2Fp4wmgo-d0"
+{
+"text": "About",
+"href": "https://electmikeday.com/michael-day/"
+},
+{
+"text": "Click to share on Facebook (Opens in new window)",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/?share=facebook"
+},
+{
+"text": "Click to share on Twitter (Opens in new window)",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/?share=twitter"
+},
+{
+"text": "Contact",
+"href": "https://electmikeday.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/repmikeday/general-fund-cc8f069906d"
+},
+{
+"text": "Dan Hudson",
+"href": "https://electmikeday.com/author/dan/"
+},
+{
+"text": "FY2021 Budget Updates",
+"href": "https://electmikeday.com/fy2021-budget-updates/"
+},
+{
+"text": "Get Involved",
+"href": "https://electmikeday.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://electmikeday.com/issues/"
+},
+{
+"text": "Legislation",
+"href": "https://electmikeday.com/legislation/"
+},
+{
+"text": "News",
+"href": "https://electmikeday.com/news/"
+},
+{
+"text": "Share by Mail",
+"href": "mailto:?subject=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&body=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F"
+},
+{
+"text": "Share on Facebook",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&t=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested."
+},
+{
+"text": "Share on Google+",
+"href": "https://plus.google.com/share?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F"
+},
+{
+"text": "Share on Linkedin",
+"href": "http://linkedin.com/shareArticle?mini=true&title=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F"
+},
+{
+"text": "Share on Pinterest",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&description=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&media="
+},
+{
+"text": "Share on Reddit",
+"href": "http://reddit.com/submit?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&title=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested."
+},
+{
+"text": "Share on Tumblr",
+"href": "http://www.tumblr.com/share/link?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F&name=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&description=As+someone+who+has+been+dealing+with+the+effects+of+COVID-19+personally%2C+I+implore+you+all+to+WEAR+A+MASK.%C2%A0+This+is+not+a+political+issue%2C+or+a+deprivation+of+constitutional+rights.%C2%A0+This+is+a+matter+of+common+sense%2C+common+decency+and+scientific+truth.%C2%A0+MASKS+WORK+TO+PREVENT+THE+SPREAD+OF+COVID-19.+Feel+sick%3F+Get+%5B%E2%80%A6%5D"
+},
+{
+"text": "Share on Twitter",
+"href": "https://twitter.com/share?text=Wear+a+Mask%2C+and+if+you+feel+sick%3F+Get+Tested.&url=https%3A%2F%2Fwp.me%2Fp4wmgo-d0"
+},
+{
+"text": "Share on Vk",
+"href": "http://vk.com/share.php?url=https%3A%2F%2Felectmikeday.com%2Fwear-a-mask-and-if-you-feel-sick-get-tested%2F"
+},
+{
+"text": "Uncategorized",
+"href": "https://electmikeday.com/category/uncategorized/"
+},
+{
+"text": "Voting in November’s Election: What to Know",
+"href": "https://electmikeday.com/voting-in-novembers-election-what-to-know/"
+},
+{
+"text": "Wear a Mask, and if you feel sick? Get Tested.",
+"href": "https://electmikeday.com/wear-a-mask-and-if-you-feel-sick-get-tested/"
+},
+{
+"text": "[image: State Representative Mike Day]",
+"href": "https://electmikeday.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdwcommunications.com/political-websites-by-mdwcomm/"
+},
+{
+"text": "www.mass.gov/covid-19-testing",
+"href": "http://www.mass.gov/covid-19-testing"
+}
 ]

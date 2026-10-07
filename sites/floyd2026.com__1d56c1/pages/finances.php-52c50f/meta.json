@@ -1,8 +1,10 @@
 {
- "description": "Every dollar raised and spent is published in real time. Floyd Taylor\u2019s campaign sets a new standard for transparency.",
+ "description": "Every dollar raised and spent is published in real time. Floyd Taylor’s campaign sets a new standard for transparency.",
  "final_url": "https://floyd2026.com/finances.php",
+ "fingerprint": "cbdc486f62d744ffe8f1e2c4665dc4334e2af0d4",
+ "format": 3,
  "paid_for_by": "Paid for by Floyd Taylor for Congress",
- "title": "Campaign Finances | Floyd Taylor\u2019s Open Books",
+ "title": "Campaign Finances | Floyd Taylor’s Open Books",
  "years_mentioned": [
   "2025",
   "2026"

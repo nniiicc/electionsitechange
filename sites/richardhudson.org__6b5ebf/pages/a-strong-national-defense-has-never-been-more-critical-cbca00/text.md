@@ -1,9 +1,6 @@
-A strong national defense has never been more critical
-Ronald Reagan once said, “Freedom is never more than one generation away from extinction.
+Richard Hudson for Congress facebook instagram twitter Donate Meet Richard News Issues Get Involved Store Navigation Meet Richard News Issues Get Involved Store By Richard Hudson for Congress On 20 February 2015 In News share tweet +1 Comments Off on A strong national defense has never been more critical A strong national defense has never been more critical Ronald Reagan once said, “Freedom is never more than one generation away from extinction.
 We didn’t pass it to our children in the bloodstream.
-It must be fought for, protected and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children’s children what it was once like in the United States where men were free.”
-This week I voted with 339 of my colleagues in the House to pass the Department of Defense funding bill, an important piece of legislation that pays our men and women in uniform, provides them with the best equipment available and ensures our nation is prepared should we be required to fight future conflicts around the world
-At $598.8 billion this bill represents a vast amount of money.
+It must be fought for, protected and handed on for them to do the same, or one day we will spend our sunset years telling our children and our children’s children what it was once like in the United States where men were free.” This week I voted with 339 of my colleagues in the House to pass the Department of Defense funding bill, an important piece of legislation that pays our men and women in uniform, provides them with the best equipment available and ensures our nation is prepared should we be required to fight future conflicts around the world At $598.8 billion this bill represents a vast amount of money.
 In tough economic times it is even more important that we hold every federal agency accountable for taxpayer dollars.
 That is why I have publicly called for a full-scale audit of the Department of Defense in order to ensure the American people’s hard-earned tax dollars are being spent responsibly.
 It is no secret that there is plenty of waste, fraud and abuse throughout the federal government.
@@ -21,3 +18,12 @@ With estimates of more 3,000 westerners engaged in the conflicts in Syria and Ir
 The potential return of battle-trained and hardened terrorists is a threat that is difficult to detect, track and prevent should we fail to stop them overseas.
 Engaging with our allies in the region and around the world now to prevent the creation of a new safe haven and stem the growth of terrorism must be a top priority for American leadership in the coming days.
 This week’s vote provides our nation with the tools that we need, and I was proud to support it.
+View article as it originally appeared here.
+Previous: Creating Jobs Next: Bureaucracy holding business back Comments are closed.
+Join Team Hudson Email * Zip Code Phone Mobile Opt-In I agree By checking this box and submitting this form, you consent to receive recurring text messages (event reminders, issue updates, volunteer opportunities & donation requests) from Richard Hudson for Congress at the number provided.
+Message frequency varies.
+Msg & data rates may apply.
+Reply HELP for assistance.
+Reply STOP to opt out at any time.
+Terms & Conditions + Privacy Policy apply.
+Privacy Policy Contact Us PO Box 1875 Southern Pines, NC 28388 Paid for by Hudson for Congress

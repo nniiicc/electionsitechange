@@ -1,3 +1,5 @@
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (July 15th Edition).
+15 Jul Wednesday, 6:00 PM · 2026 Wednesdays With Will (July 15th Edition).
 True creativity is an act of human struggle, discipline, and meaning.
 It is not a prompt fed into an algorithm.
 When we prioritize making art over merely modifying it, we honor the hard work, the mistakes, and the unique lived experiences.
@@ -37,3 +39,4 @@ This event on Lamar Street between 13th and 14th Ave. is a great way to connect 
 I will be there, so please come up and say hello.
 Come celebrate and have a great time.
 Because ultimately, even if we don’t all agree on the selected process, I do believe, as fellow neighbors, we all want what is best for the communities of Lakewood, Edgewater and the surrounding areas in our great state of Colorado.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

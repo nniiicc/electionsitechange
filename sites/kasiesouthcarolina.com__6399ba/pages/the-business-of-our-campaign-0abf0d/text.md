@@ -1,10 +1,11 @@
-When I first decided to start my own business back in 2012, I sat down with a coach from the Small Business Development Center.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now The Business of Our Campaign When I first decided to start my own business back in 2012, I sat down with a coach from the Small Business Development Center.
 His name is Earl Gregorich and to this day he’s one of the most genuine people I know.
 Just a good dude.
 It was Earl’s job to explain to me that no one was going to fund me.
 No one was going to put their money into my salary.
 No one was going to give me cash to buy materials, to pay my rent, to buy business cards or pay for internet service.
 There aren’t people sitting around trying to gift other people the means to start their own business.
+Entrepreneur life is full of motivational quotes.
 What about angel investors?
 I wanted to know.
 Introduce me to some, dude.
@@ -12,8 +13,7 @@ Yeah, no, even angel investors expect to get their money back eventually.
 I could pay it back, I told him, once I started earning revenue.
 Earl shared a very complicated excel spreadsheet that included costs of labor and goods, streams of revenue and quarterly tax estimates.
 He explained how pricing works and how business owners usually get paid last, after all other expenses are met.
-“Sell something,” he said, “Then you’ll know you have a business.”
-Businesses need capital to get started.
+“Sell something,” he said, “Then you’ll know you have a business.” Businesses need capital to get started.
 They need to sign a lease for space which requires a deposit, they need to pay for materials to make goods, they need branding like logos and business cards, and they need marketing like a website and social media.
 None of that is free.
 It’s a miracle any business ever gets off the ground.
@@ -29,8 +29,7 @@ You can see where we bought signs and t-shirts, website and graphic design servi
 You can see where we paid entry fees to the Watermelon Festival parade, the Striped Bass Festival, the Pride Festival, and so many other community events.
 You can see where we patronized local stores and restaurants in Conway, Lancaster, and Barnwell.
 You can see travel expenses to Myrtle Beach for the gun show and Grand Rapids, Michigan for the Libertarian National Convention.
-Business owners often build their businesses on three streams of revenue:
-1) Personal investment – savings, or payroll contributions.
+Business owners often build their businesses on three streams of revenue: 1) Personal investment – savings, or payroll contributions.
 My friend Roshanda Pratt likes to say her television job was her first investor by funding her consulting business when it was just a side hustle.
 2) Investors – this starts with the “friends, family, and fools” round of fundraising as my friend Tom Ledbetter calls it.
 He suggests you prepare these folks that they most likely won’t get their money back.
@@ -75,8 +74,7 @@ We need all of those to win, and we need all of YOU to win.
 Your time can be spent sharing our digital assets – re-post, re-tweet, share, like, comment, and follow all of our digital content.
 Whenever you see the race for US Senate mentioned, comment Kasie, South Carolina has your vote.
 If the news outlet fails to mention me, comment or email or call them and say, “Hey!
-Kasie Whitener is our choice!”
-Your time can also be spent walking beside me in parades, attending community events with your Kasie, South Carolina t-shirt on and handing out postcards.
+Kasie Whitener is our choice!” Your time can also be spent walking beside me in parades, attending community events with your Kasie, South Carolina t-shirt on and handing out postcards.
 You can volunteer for the campaign to go door knocking, to host parties, or to organize community events.
 Invite me to your town, I will come.
 Your talent can be useful, too.
@@ -112,3 +110,6 @@ Thank you for your support.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

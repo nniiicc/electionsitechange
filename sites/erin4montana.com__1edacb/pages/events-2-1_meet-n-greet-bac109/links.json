@@ -1,22 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+n+Greet&dates=20250714T230000Z%2F20250715T010000Z&location=2125+Last+Chance%2C+Helena%2C+Montana",
-"http://maps.google.com/?q=2125+Last+Chance+Helena%2C+Montana",
-"https://erin4montana.com/",
-"https://erin4montana.com/about-erin-farris-olsen",
-"https://erin4montana.com/blog",
-"https://erin4montana.com/cart",
-"https://erin4montana.com/contact-erin-farris-olsen",
-"https://erin4montana.com/donate-to-erin-farris-olsen",
-"https://erin4montana.com/events-2-1",
-"https://erin4montana.com/events-2-1/block-party-campaign-launch",
-"https://erin4montana.com/events-2-1/meet-n-greet?format=ical",
-"https://erin4montana.com/issues",
-"https://erin4montana.com/services-1",
-"https://erin4montana.com/terms-of-service-1",
-"https://erin4montana.com/whats-cookin",
-"https://facebook.com/profile.php?id=61576145584064",
-"https://facebook.com/share/1Gg2RA9ydS",
-"https://instagram.com/erinformontana",
-"https://instagram.com/p/DLIJSEWs_Xk?igsh=MTh0aDBndml2OWMzcw%3D%3D",
-"https://x.com/erinformontana"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2125+last+chance+helena%2C+montana+"
+},
+{
+"text": "0",
+"href": "https://www.erin4montana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.erin4montana.com/about-erin-farris-olsen"
+},
+{
+"text": "Additional Terms and Conditions",
+"href": "https://www.erin4montana.com/terms-of-service-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.erin4montana.com/events-2-1"
+},
+{
+"text": "Contact",
+"href": "https://www.erin4montana.com/contact-erin-farris-olsen"
+},
+{
+"text": "Donate Here",
+"href": "https://www.erin4montana.com/donate-to-erin-farris-olsen"
+},
+{
+"text": "Endorsements",
+"href": "https://www.erin4montana.com/blog"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1Gg2RA9ydS/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+n+Greet&dates=20250714T230000Z%2F20250715T010000Z&location=2125+Last+Chance%2C+Helena%2C+Montana"
+},
+{
+"text": "Home",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.erin4montana.com/events-2-1/meet-n-greet?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/p/DLIJSEWs_Xk/?igsh=MTh0aDBndml2OWMzcw%3D%3D"
+},
+{
+"text": "Neighborhood Notes",
+"href": "https://www.erin4montana.com/services-1"
+},
+{
+"text": "Next Next September 12 Block Party & Campaign Launch",
+"href": "https://www.erin4montana.com/events-2-1/block-party-campaign-launch"
+},
+{
+"text": "Priorities",
+"href": "https://www.erin4montana.com/issues"
+},
+{
+"text": "What's Cookin'",
+"href": "https://www.erin4montana.com/whats-cookin"
+},
+{
+"text": "[image: Erin Farris-Olsen for Senate District 41]",
+"href": "https://www.erin4montana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/erinformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576145584064"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/erinformontana"
+}
 ]

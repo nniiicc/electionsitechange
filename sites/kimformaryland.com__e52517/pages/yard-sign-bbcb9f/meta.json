@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://kimformaryland.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "3c15115349d610457a239f47b216306d13ce476f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -1,14 +1,50 @@
 [
-"http://instagram.com/hilltothehhouse",
-"https://facebook.com/hilltothehouse",
-"https://facebook.com/profile.php?id=100091917820679&mibextid=JRoKGi",
-"https://hilltothehouse.org/",
-"https://hilltothehouse.org/about",
-"https://hilltothehouse.org/contact",
-"https://hilltothehouse.org/endorsements",
-"https://hilltothehouse.org/prioriites",
-"https://hilltothehouse.org/privacy",
-"https://hilltothehouse.org/terms",
-"https://secure.actblue.com/donate/hilltothehouse2026",
-"https://wix.com/studio"
+{
+"text": "About",
+"href": "https://www.hilltothehouse.org/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/hilltothehouse2026"
+},
+{
+"text": "Contact",
+"href": "https://www.hilltothehouse.org/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.hilltothehouse.org/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.hilltothehouse.org"
+},
+{
+"text": "Paid for by Natasha for House Representative (D)",
+"href": "https://www.wix.com/studio"
+},
+{
+"text": "Priorities",
+"href": "https://www.hilltothehouse.org/prioriites"
+},
+{
+"text": "Privacy",
+"href": "https://www.hilltothehouse.org/privacy"
+},
+{
+"text": "Terms",
+"href": "https://www.hilltothehouse.org/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hilltothehouse/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100091917820679&mibextid=JRoKGi"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.instagram.com/hilltothehhouse"
+}
 ]

@@ -1,12 +1,54 @@
 [
-"https://facebook.com/VentonJonesTX?mibextid=LQQJ4d",
-"https://instagram.com/ventonjonestx?igshid=MzRlODBiNWFlZA%3D%3D",
-"https://secure.actblue.com/donate/repjones26",
-"https://ventonfor100.com/",
-"https://ventonfor100.com/endorsements",
-"https://ventonfor100.com/get-involved",
-"https://ventonfor100.com/meet-venton",
-"https://ventonfor100.com/platform",
-"https://ventonfor100.com/s-projects-side-by-side",
-"https://x.com/ventonjones?s=21"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/repjones26"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ventonfor100.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ventonfor100.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.ventonfor100.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.ventonfor100.com/platform"
+},
+{
+"text": "Learn More",
+"href": "https://www.ventonfor100.com/s-projects-side-by-side"
+},
+{
+"text": "MEET VENTON",
+"href": "https://www.ventonfor100.com/meet-venton"
+},
+{
+"text": "OUR SUCCESS",
+"href": "https://www.ventonfor100.com/s-projects-side-by-side"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.ventonfor100.com/platform"
+},
+{
+"text": "[image: 1.png]",
+"href": "https://www.ventonfor100.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VentonJonesTX?mibextid=LQQJ4d"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/ventonjonestx?igshid=MzRlODBiNWFlZA%3D%3D"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/ventonjones?s=21"
+}
 ]

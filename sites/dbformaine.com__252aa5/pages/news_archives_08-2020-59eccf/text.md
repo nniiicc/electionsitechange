@@ -1,10 +1,10 @@
-| Representative Donna Bailey helped me file legislation to make state Veterans benefits consistent throughout Maine law.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Letter to the Editor: Saco representative a friend to Veterans 8/29/2020 0 Comments Representative Donna Bailey helped me file legislation to make state Veterans benefits consistent throughout Maine law.
 Clearing this up, will ensure Veterans get the full range of benefits they are owed without worrying that state law doesn’t align with Federal law.
 As someone who served two tours of duty in Iraq, this effort means a lot to me and Veterans in our community.
 In addition, Donna voted for successful legislation that allocated funding for transitional housing to homeless Veterans.
 She also supported efforts to ensure Veterans can access VA medical care by mandating leave for employees for doctor’s appointments.
 Donna Bailey has my full support in her bid for State Senate and I know she will continue to champion our Vets.
-Marshall Archer BUXTON (WGME) -- A pastor is pushing for change after a methamphetamine lab was discovered inside a Methodist church.
+Marshall Archer 0 Comments I-Team: Pastor pushing for clean-up law after meth lab found in Methodist church 8/17/2020 0 Comments BUXTON (WGME) -- A pastor is pushing for change after a methamphetamine lab was discovered inside a Methodist church.
 The I-Team got an exclusive look inside at the damage.
 The Buxton United Methodist Church is unusually quiet these days because its congregation is displaced by a disturbing discovery.
 "Very shocking," Pastor Lynn Briggs said.
@@ -49,7 +49,7 @@ In the meantime, the congregation continues to worship somewhere else.
 "Folks are missing their home," Briggs said.
 "There's no place like home." Bailey said her committee has asked the Maine Department of Environmental Protection to look into establishing clean up standards.
 Bailey said they expect to hear back soon, but will then have to grapple with some of the policy decisions, like who would be required to foot the bill for, what can be, a very expensive process.
-AUGUSTA, Maine — Maine’s Native American tribes say they lost control over their own lands 40 years ago, and are hoping the Legislature will return at least some of the control they once had.
+0 Comments Maine tribes hope for state to restore sovereignty 8/17/2020 0 Comments https://www.newscentermaine.com/article/life/maine-tribes-hope-for-state-to-restore-sovereignty/97-823a6ce4-6b81-4164-83a3-8c18451943c9 AUGUSTA, Maine — Maine’s Native American tribes say they lost control over their own lands #ago, and are hoping the Legislature will return at least some of the control they once had.
 The tribes and the Legislature’s Judiciary Committee have been talking for more than a year about changes to the 40-year-old Maine Indian Land Claims Act.
 That law, passed by Congress and signed by President Jimmy Carter, ended the legal claim by the tribes to two-thirds of the land in Maine.
 The tribes were given money and allowed to buy hundreds of thousands of acres of land.
@@ -70,7 +70,7 @@ Donna Bailey (D-Saco) said Maine should be able to make them.
 It does require more consultation and cooperation between the states and the tribes, but they all make it work and we can make it work in Maine as well.” Tribal leaders say the issue is immensely important and gets to the foundation of who they are, and the ability to control their own destiny.
 “As resources have grown the needs of the tribe have grown,” said Chief Kirk Francis of the Penobscot Nation, “and yet we’ve been handcuffed by this document four decades old and (we are) nowhere near the place we were then.” Chief Francis said everything from expanding tribal land to economic development is held back by lack of sovereignty.
 Darrell Newell, Vice-Chief of the Passamaqoddies at Indian Township, said he and many others feel it personally.
-“We’re just striving to restore our sacred, inherent sovereign rights to make decisions for ourselves, to better our people for future generations.” AUGUSTA (WGME) -- A bill that gives victims of animal abuse a voice had a public hearing Wednesday morning at the State House in Augusta.
+“We’re just striving to restore our sacred, inherent sovereign rights to make decisions for ourselves, to better our people for future generations.” 0 Comments Maine bill would give neglected and abused animals a voice in court 8/17/2020 0 Comments AUGUSTA (WGME) -- A bill that gives victims of animal abuse a voice had a public hearing Wednesday morning at the State House in Augusta.
 LD 1442 is called "An Act to Provide for Court Appointed Advocates for Justice in Animal Cruelty Cases." The bill is also known as "Franky's Law." It was named after a pug mix from Winter Harbor who was kidnapped from his home last year.
 He was tortured, killed, wrapped in garbage bags and dumped into the bay.
 The dog’s body later washed up on a beach in front of the Hancock County District Attorney's home.
@@ -82,4 +82,5 @@ Those against it say the wording of the bill is too vague.
 “There are already things that are in process that we don't feel like this is going to be a benefit to animal cruelty cases.
 We understand the good intentions behind it, but we just don't feel the language is appropriate,” Director of Animal Welfare for the Department of Agriculture Conservation of Forestry Liam Hughes said.
 Franky's Law is modeled after Desmond's Law, a similar bill that passed in Connecticut in 2016.
-A work session followed Wednesday’s public hearing. | Blog Latest News Archives Categories |
+A work session followed Wednesday’s public hearing.
+0 Comments Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

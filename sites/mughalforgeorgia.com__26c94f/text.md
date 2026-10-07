@@ -1,37 +1,11 @@
-REBUILD DEMOCRACY &
-RESTORE TRUST
-Farooq Mughal, a former Georgia State Representative, proudly served the 105th District, which includes Buford, Dacula, and Lawrenceville.
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE EARLY VOTING INFORMATION - GEORGIA HOUSE DISTRICT 105 REBUILD DEMOCRACY & RESTORE TRUST Farooq Mughal, a former Georgia State Representative, proudly served the 105th District, which includes Buford, Dacula, and Lawrenceville.
 He was an active member of the House Special Rules Committee, Judiciary (Non-Civil) Committee, and State Planning & Community Affairs Committee.
 With a wealth experience as a business leader, public policy expert, and mediator, Farooq has dedicated his career to public service, previously holding roles such as Vice Chairman of the Georgia AAPI Legislative Caucus and Sub- Chair on Public Safety for the Gwinnett Legislative Delegation.
 His commitment to the community is evident through his leadership in various organizations, including his role as former chairman of the Gwinnett County Community Outreach Board.
-TRUSTED
-LEADERSHIP
-BUSINESS LEADER
-PUBLIC POLICY EXPERT
-MEDIATOR & NEGOTIATOR
-DEDICATED
-HUSBAND & FATHER
-Farooq Mughal
-fmr.
-Georgia State Representative
-State House District 105
-Buford, Dacula & Lawrenceville
-Stronger Together
-We must bring people together to get things done!!!
+TRUSTED LEADERSHIP BUSINESS LEADER PUBLIC POLICY EXPERT MEDIATOR & NEGOTIATOR DEDICATED HUSBAND & FATHER Farooq Mughal fmr.
+Georgia State Representative State House District 105 Buford, Dacula & Lawrenceville Stronger Together We must bring people together to get things done!!!
 I will continue to be a strong leader and public servant while I advocate for the people of our communities.
-We must:
-Support our local schools, teachers, and young leaders
-Invest in economic development and small businesses
-Protect reproductive choice
-Provide tax relief, and lower property and income taxes for families and businesses
-Support minority businesses esp. people of color,
-women, and, veterans
-Protecting our civil and voting rights
-public safety and keeping our communities safe from crime
-Improving our infrastructure: roads & bridges, water & sewer, transit & rail, clean energy production
-Investing in ourselves and each other: affordable housing, early
-education, lower out-of-pocket costs for healthcare"
-21 years resident of House District 105 (Buford, Dacula, and Lawrenceville), I believe the future of our great state of Georgia and our community is limitless.
-Farooq Mughal
-GA House of Representative
-District 105 (Buford - Dacula - Lawrenceville)
+We must: Support our local schools, teachers, and young leaders Invest in economic development and small businesses Protect reproductive choice Provide tax relief, and lower property and income taxes for families and businesses Support minority businesses esp. people of color, women, and, veterans Protecting our civil and voting rights public safety and keeping our communities safe from crime Improving our infrastructure: roads & bridges, water & sewer, transit & rail, clean energy production Investing in ourselves and each other: affordable housing, early education, lower out-of-pocket costs for hea lthcare" ​ 21 years resident of House District 105 (Buford, Dacula, and Lawrenceville), I believe the future of our great state of Georgia and our community is limitless. ​ Farooq Mughal GA House of Representative District 105 (Buford - Dacula - Lawrenceville) ​ TRUSTED LEADERSHIP Former Chairman of the Gwinnett County Community Outreach Board Board of Director (2022) Georgia Chamber of Commerce Atlanta 500 Most Influential Business Leaders by Atlanta Magazine (2021-2022) Former President of the Atlanta FBI Citizens' Academy Alumni Association Chairman's Club Member of the Gwinnett Chamber of Commerce DEMOCRATIC PARTY LEADERSHIP Former State Committee Member of the Democratic Party of Georgia Former Co-Chair of the White House AAPI Atlanta Regional Summit 2012 Former Committee member of the Gwinnett Democratic Party 1st and Former Chair of the AAPI Caucus of the Democratic Party of Georgia Served as an Advisor for several Democratic Candidates for Office GET ON BOARD Take Part in Something Great DONATE SUBSCRIBE VOLUNTEER Farooq believes that no matter where you start in life, you deserve an equal opportunity to succeed – quality education, good school, access to healthcare, fairness in employment, business opportunities, and a chance to create a quality of life for you and your family.
+Subscribe START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

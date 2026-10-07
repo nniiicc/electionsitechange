@@ -1,13 +1,5 @@
-Back to All Events
-Join Anne Ward in Nashville, TN for a happy hour in support of Dr.
+0 Skip to Content Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Learn More Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Open Menu Close Menu Folder: Learn More Back Meet Laura On The Issues Upcoming Events Volunteer With Laura Read Laura's Substack Williamson Election Commission Donate Back to All Events Happy Hour Fundraiser in Nashville Wednesday, September 30, 2026 5:30 PM 7:30 PM Google Calendar ICS Join Anne Ward in Nashville, TN for a happy hour in support of Dr.
 Laura Andreson.
 Light appetizers and drinks provided.
 Plus, meet Laura and hear her vision for a better Tennessee.
-RSVP to attend here
-Previous
-Previous
-September 30
-Community Canvass in Brentwood
-Next
-Next
-October 1
+RSVP to attend here Previous Previous September 30 Community Canvass in Brentwood Next Next October 1 Community Canvass in Franklin Donate Paid for by Laura Andreson for TN63 - Treasurer: Bob Britton Find our Privacy Policy here.

@@ -1,7 +1,6 @@
-Your name believes in
-Keep More of Oregon's Wealth in Oregon!
-(With a state bank!)
-Too much of Oregon’s wealth is lining other people’s pockets.
+Skip navigation menu Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Home About Roy Priorities News Endorsements Events Volunteer Contact Donate Fix Our Healthcare System Fulfill the Promise of Public Education Defend Our Immigrant Neighbors Fight for family farms Keep More of Oregon's Wealth in Oregon!
+(With a state bank!) Your name believes in Keep More of Oregon's Wealth in Oregon!
+(With a state bank!) Too much of Oregon’s wealth is lining other people’s pockets.
 The big multinational banks that hold our taxpayer dollars are the ones making money off our money!
 Oregon needs to borrow a play from North Dakota’s playbook.
 Oregon needs a state bank.
@@ -15,3 +14,4 @@ Imagine what Oregon, with 5 times the population, could do.
 Oregon deserves a state bank.
 With our state money backing our local banks, we can help first time buyers realize the dream of home ownership, give businesses and farms the funds they need to modernize and survive market shocks, and protect our public funds from the next national bank closure.
 Our interest payments should be paying for our schools and roads, not some CEO’s vacation home.
+Powered by RUN! website builder You need to enable JavaScript to run this app.

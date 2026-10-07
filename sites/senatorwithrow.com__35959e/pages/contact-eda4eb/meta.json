@@ -1,7 +1,9 @@
 {
  "description": "Adam Withrow is a candidate for the United States Senate for Colorado. You can contact him directly here. You won't get an auto mail begging for money, you'll get direct answers from Adam himself to your questions.",
  "final_url": "https://www.senatorwithrow.com/contact",
- "paid_for_by": null,
+ "fingerprint": "f51b9c3b91e6af6977efef14f71e1c06e66ba186",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Adam Withrow for Senate",
  "years_mentioned": []
 }

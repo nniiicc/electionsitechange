@@ -1,19 +1,78 @@
 [
-"https://bytes.co/",
-"https://facebook.com/PhilScottforVermont",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20181024T190000%2F20181024T200000&text=VPR+General+Election+Debate&details=Live+on+VPR&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org",
-"https://instagram.com/philscottvt",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2018-10-24T19%3A00%3A00-04%3A00&enddt=2018-10-24T20%3A00%3A00-04%3A00&subject=VPR+General+Election+Debate&body=Live+on+VPR",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2018-10-24T19%3A00%3A00-04%3A00&enddt=2018-10-24T20%3A00%3A00-04%3A00&subject=VPR+General+Election+Debate&body=Live+on+VPR",
-"https://philscott.org/",
-"https://philscott.org/event/channel-17-general-election-candidate-forum",
-"https://philscott.org/event/nbc-channel-5-debate",
-"https://philscott.org/events",
-"https://philscott.org/meet-phil",
-"https://philscott.org/privacy-policy",
-"https://philscott.org/terms-and-conditions",
-"https://philscott.org/volunteer",
-"https://secure.anedot.com/phil-scott/donate",
-"https://twitter.com/philscott4vt",
-"https://youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/phil-scott/donate"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20181024T190000%2F20181024T200000&text=VPR+General+Election+Debate&details=Live+on+VPR&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwww.philscott.org"
+},
+{
+"text": "Join the Team",
+"href": "https://www.philscott.org/volunteer/"
+},
+{
+"text": "Meet Phil",
+"href": "https://www.philscott.org/meet-phil/"
+},
+{
+"text": "NBC Channel 5 Debate »",
+"href": "https://www.philscott.org/event/nbc-channel-5-debate/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=&subject=VPR+General+Election+Debate&body=Live+on+VPR"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T20%3A00%3A00-04%3A00&location=&subject=VPR+General+Election+Debate&body=Live+on+VPR"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.philscott.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.philscott.org/terms-and-conditions/"
+},
+{
+"text": "Website Designed by Bytes.co",
+"href": "https://bytes.co"
+},
+{
+"text": "[image: Phil Scott for Governor]",
+"href": "https://www.philscott.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/philscott4vt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilScottforVermont"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philscottvt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCOkgjHw4Pguv-Q2ScZ0KSxg"
+},
+{
+"text": "[no text]",
+"href": "mailto:phil@philscott.org"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.philscott.org/event/vpr-general-election-debate/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.philscott.org/events/"
+},
+{
+"text": "« Channel 17 General Election Candidate Forum",
+"href": "https://www.philscott.org/event/channel-17-general-election-candidate-forum/"
+}
 ]

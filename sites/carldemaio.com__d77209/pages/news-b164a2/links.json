@@ -1,57 +1,266 @@
 [
-"https://carldemaio.com/",
-"https://carldemaio.com/about",
-"https://carldemaio.com/contact",
-"https://carldemaio.com/district",
-"https://carldemaio.com/follow",
-"https://carldemaio.com/news/after-big-win-in-2024-carl-demaio-outlines-reform-california-agenda",
-"https://carldemaio.com/news/ca-media-censorship-top-5-stories-this-week-that-ca-liberal-media-refuses-to-cover-11-17",
-"https://carldemaio.com/news/carl-demaio-raises-over-1-million-in-q2",
-"https://carldemaio.com/news/carl-demaio-raises-over-500k-in-august",
-"https://carldemaio.com/news/carl-demaio-unveils-10-point-contract-to-reform-california",
-"https://carldemaio.com/news/carl-demaio-wins-endorsement-of-california-college-republicans",
-"https://carldemaio.com/news/carl-demaio-wins-endorsement-of-howard-jarvis-taxpayers-association-pac",
-"https://carldemaio.com/news/carl-demaio-wins-endorsement-of-latino-american-political-association-lapa",
-"https://carldemaio.com/news/demaio-authors-ca-voter-id-initiative---leads-campaign-for-passage",
-"https://carldemaio.com/news/demaio-exposes-fiscal-crisis-in-medi-cal-from-illegal-immigrants",
-"https://carldemaio.com/news/demaio-leads-border-security-and-voter-id-initiative-campaign",
-"https://carldemaio.com/news/demaio-responds-to-newsoms-dishonest-state-of-state-address",
-"https://carldemaio.com/news/demaio-supports-police-to-combat-crime-wave---urges-yes-on-36",
-"https://carldemaio.com/news/demaio-to-secure-the-border-vote-trump-2024",
-"https://carldemaio.com/news/fox-demaio-slams-biden-border-failures-as-migrants-flood-california",
-"https://carldemaio.com/news/kusi-demaio-statement-on-primary-election-win",
-"https://carldemaio.com/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family",
-"https://carldemaio.com/news/poll-shows-carl-demaio-tops-all-republicans-including-donald-trump-as-most-favorable-political-leader-in-assembly-district-75",
-"https://carldemaio.com/news/reform-california-leader-carl-demaio-files-to-run-for-the-state-assembly",
-"https://carldemaio.com/news/to-fight-inflation-demaio-opposes-unfair-tax-and-rate-hikes",
-"https://carldemaio.com/news?7d7c9d59_page=2",
-"https://carldemaio.com/privacy-policy",
-"https://facebook.com/carldemaio",
-"https://instagram.com/carldemaioca",
-"https://rcahelp.org/",
-"https://reformcalifornia.org/",
-"https://reformcalifornia.org/campaigns",
-"https://reformcalifornia.org/campaigns/election-integrity-initiative",
-"https://reformcalifornia.org/campaigns/end-homelessness",
-"https://reformcalifornia.org/campaigns/restore-public-safety",
-"https://reformcalifornia.org/campaigns/school-board-reform",
-"https://reformcalifornia.org/campaigns/stop-the-tax-hikes",
-"https://reformcalifornia.org/events",
-"https://reformcalifornia.org/news",
-"https://reformcalifornia.org/podcast",
-"https://reformcalifornia.org/volunteer",
-"https://reformcalifornia.org/voter-guides",
-"https://reformcalifornia.org/voter-guides-list",
-"https://secure.carldemaio.com/contribute",
-"https://secure.carldemaio.com/contribute?amount=100",
-"https://secure.carldemaio.com/contribute?amount=1000",
-"https://secure.carldemaio.com/contribute?amount=25",
-"https://secure.carldemaio.com/contribute?amount=250",
-"https://secure.carldemaio.com/contribute?amount=50",
-"https://secure.carldemaio.com/contribute?amount=500",
-"https://secure.carldemaio.com/contribute?amount=5000",
-"https://secure.reformcalifornia.org/storefront",
-"https://twitter.com/carldemaio",
-"https://twitter.com/carldemaio?ref_src=twsrc%5Etfw",
-"https://youtube.com/@carldemaioCA"
+{
+"text": "$1,000",
+"href": "https://secure.carldemaio.com/contribute?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.carldemaio.com/contribute?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.carldemaio.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.carldemaio.com/contribute?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.carldemaio.com/contribute?amount=5000"
+},
+{
+"text": "$50",
+"href": "https://secure.carldemaio.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.carldemaio.com/contribute?amount=500"
+},
+{
+"text": ">> Carl's Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": ">> Carl’s Social Media",
+"href": "https://carldemaio.com/follow"
+},
+{
+"text": ">> Carl’s Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "About",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "About Carl DeMaio",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "Contact",
+"href": "https://carldemaio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "District",
+"href": "https://carldemaio.com/district"
+},
+{
+"text": "End Homelessness",
+"href": "https://reformcalifornia.org/campaigns/end-homelessness"
+},
+{
+"text": "Events",
+"href": "https://reformcalifornia.org/events"
+},
+{
+"text": "FAQs",
+"href": "https://rcahelp.org/"
+},
+{
+"text": "Get Reform California's Voter Guide Here >> |",
+"href": "https://www.reformcalifornia.org/voter-guides-list"
+},
+{
+"text": "More Campaigns",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Next",
+"href": "https://carldemaio.com/news?7d7c9d59_page=2"
+},
+{
+"text": "Other",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carldemaio.com/privacy-policy"
+},
+{
+"text": "Protect Public Safety",
+"href": "https://reformcalifornia.org/campaigns/restore-public-safety"
+},
+{
+"text": "Reform CA",
+"href": "https://reformcalifornia.org/"
+},
+{
+"text": "Reform California",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "Reform Our Schools",
+"href": "https://reformcalifornia.org/campaigns/school-board-reform"
+},
+{
+"text": "Restore Election Integrity",
+"href": "https://reformcalifornia.org/campaigns/election-integrity-initiative"
+},
+{
+"text": "Stop the Tax Hikes",
+"href": "https://reformcalifornia.org/campaigns/stop-the-tax-hikes"
+},
+{
+"text": "Store",
+"href": "https://secure.reformcalifornia.org/storefront/"
+},
+{
+"text": "Tweets by carldemaio",
+"href": "https://twitter.com/carldemaio?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://reformcalifornia.org/volunteer"
+},
+{
+"text": "Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "[image: After Big Win in 2024, Carl DeMaio Outlines Reform California Agenda][image: After Big Win in 2024, Carl DeMaio Outlines Reform California Agenda]Nov 17, 2024After Big Win in 2024, Carl DeMaio Outlines Reform California AgendaDeMaio joined KUSI to discuss his win in the 75th Assembly District race and the next steps in the movement to Reform CA",
+"href": "https://carldemaio.com/news/after-big-win-in-2024-carl-demaio-outlines-reform-california-agenda"
+},
+{
+"text": "[image: CA MEDIA CENSORSHIP: Top 5 Stories This Week That CA Liberal Media Refuses to Cover (11/17)][image: CA MEDIA CENSORSHIP: Top 5 Stories This Week That CA Liberal Media Refuses to Cover (11/17)]Nov 17, 2023CA MEDIA CENSORSHIP: Top 5 Stories This Week That CA Liberal Media Refuses to Cover (11/17)This is our list of the top 5 stories this week that California’s liberal media REFUSES to cover",
+"href": "https://carldemaio.com/news/ca-media-censorship-top-5-stories-this-week-that-ca-liberal-media-refuses-to-cover-11-17"
+},
+{
+"text": "[image: Carl DeMaio Raises Over $1 Million in Q2][image: Carl DeMaio Raises Over $1 Million in Q2]Jul 29, 2024Carl DeMaio Raises Over $1 Million in Q2",
+"href": "https://carldemaio.com/news/carl-demaio-raises-over-1-million-in-q2"
+},
+{
+"text": "[image: Carl DeMaio Raises Over $500k in August][image: Carl DeMaio Raises Over $500k in August]Sep 3, 2024Carl DeMaio Raises Over $500k in August",
+"href": "https://carldemaio.com/news/carl-demaio-raises-over-500k-in-august"
+},
+{
+"text": "[image: Carl DeMaio Unveils 10-Point “Contract to Reform California”][image: Carl DeMaio Unveils 10-Point “Contract to Reform California”]Nov 25, 2024Carl DeMaio Unveils 10-Point “Contract to Reform California”The Contract to Reform California is a 10-point agenda that offers bold proposals to fix the state's problems",
+"href": "https://carldemaio.com/news/carl-demaio-unveils-10-point-contract-to-reform-california"
+},
+{
+"text": "[image: Carl DeMaio Wins Endorsement of California College Republicans][image: Carl DeMaio Wins Endorsement of California College Republicans]Dec 20, 2023Carl DeMaio Wins Endorsement of California College Republicans“The youth and the next generation are behind Carl DeMaio!”",
+"href": "https://carldemaio.com/news/carl-demaio-wins-endorsement-of-california-college-republicans"
+},
+{
+"text": "[image: Carl DeMaio Wins Endorsement of Howard Jarvis Taxpayers Association PAC][image: Carl DeMaio Wins Endorsement of Howard Jarvis Taxpayers Association PAC]Jan 24, 2024Carl DeMaio Wins Endorsement of Howard Jarvis Taxpayers Association PACHoward Jarvis Taxpayers Association (HJTA) PAC has officially endorsed Carl DeMaio for State Assembly.",
+"href": "https://carldemaio.com/news/carl-demaio-wins-endorsement-of-howard-jarvis-taxpayers-association-pac"
+},
+{
+"text": "[image: Carl DeMaio Wins Endorsement of Latino American Political Association (LAPA)][image: Carl DeMaio Wins Endorsement of Latino American Political Association (LAPA)]Jan 30, 2024Carl DeMaio Wins Endorsement of Latino American Political Association (LAPA)LAPA’s endorsement proves Latinos stand with DeMaio on the issues",
+"href": "https://carldemaio.com/news/carl-demaio-wins-endorsement-of-latino-american-political-association-lapa"
+},
+{
+"text": "[image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage][image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage]Jul 17, 2025DeMaio Authors CA Voter ID Initiative - Leads Campaign for PassageThe California Voter ID Initiative has been formally filed with the Secretary of State",
+"href": "https://carldemaio.com/news/demaio-authors-ca-voter-id-initiative---leads-campaign-for-passage"
+},
+{
+"text": "[image: DeMaio Exposes Fiscal Crisis in Medi-Cal from Illegal Immigrants][image: DeMaio Exposes Fiscal Crisis in Medi-Cal from Illegal Immigrants]Mar 22, 2025DeMaio Exposes Fiscal Crisis in Medi-Cal from Illegal ImmigrantsDeMaio’s DOGE California Continues to Uncover Wasteful Spending and Corruption",
+"href": "https://carldemaio.com/news/demaio-exposes-fiscal-crisis-in-medi-cal-from-illegal-immigrants"
+},
+{
+"text": "[image: DeMaio Leads Border Security and Voter ID Initiative Campaign][image: DeMaio Leads Border Security and Voter ID Initiative Campaign]Jan 29, 2024DeMaio Leads Border Security and Voter ID Initiative Campaign",
+"href": "https://carldemaio.com/news/demaio-leads-border-security-and-voter-id-initiative-campaign"
+},
+{
+"text": "[image: DeMaio Responds to Newsom’s Dishonest State-of-State Address][image: DeMaio Responds to Newsom’s Dishonest State-of-State Address]Sep 11, 2025DeMaio Responds to Newsom’s Dishonest State-of-State AddressCalifornia Governor Gavin Newsom finally delivered his long-delayed State-of-the State address",
+"href": "https://carldemaio.com/news/demaio-responds-to-newsoms-dishonest-state-of-state-address"
+},
+{
+"text": "[image: DeMaio Supports Police to Combat Crime Wave – Urges Yes on 36][image: DeMaio Supports Police to Combat Crime Wave – Urges Yes on 36]Sep 24, 2024DeMaio Supports Police to Combat Crime Wave – Urges Yes on 36Prop 47 tied hands of police & prevents punishing criminals. Prop 36 would repeal it!",
+"href": "https://carldemaio.com/news/demaio-supports-police-to-combat-crime-wave---urges-yes-on-36"
+},
+{
+"text": "[image: DeMaio: To Secure the Border, Vote Trump 2024!][image: DeMaio: To Secure the Border, Vote Trump 2024!]Feb 9, 2024DeMaio: To Secure the Border, Vote Trump 2024!DeMaio joined Fox News to blast the Senate \"Border Bill\" and Stand with President Trump on Securing the Border",
+"href": "https://carldemaio.com/news/demaio-to-secure-the-border-vote-trump-2024"
+},
+{
+"text": "[image: Election Integrity Initiative]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: End Homelessness]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Fox: DeMaio Slams Biden Border Failures as Migrants Flood California][image: Fox: DeMaio Slams Biden Border Failures as Migrants Flood California]Dec 5, 2023Fox: DeMaio Slams Biden Border Failures as Migrants Flood California60,000 migrants have flooded San Diego since September",
+"href": "https://carldemaio.com/news/fox-demaio-slams-biden-border-failures-as-migrants-flood-california"
+},
+{
+"text": "[image: KUSI: DeMaio Statement on Primary Election Win][image: KUSI: DeMaio Statement on Primary Election Win]Mar 6, 2024KUSI: DeMaio Statement on Primary Election Win",
+"href": "https://carldemaio.com/news/kusi-demaio-statement-on-primary-election-win"
+},
+{
+"text": "[image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family][image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family]Nov 13, 2025Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class FamilyNew report lays the blame for higher costs on California politicians for costly mandates and negligent policies.",
+"href": "https://carldemaio.com/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family"
+},
+{
+"text": "[image: Poll Shows Carl DeMaio Tops All Republicans, Including Donald Trump, As Most Favorable Political Leader in Assembly District 75][image: Poll Shows Carl DeMaio Tops All Republicans, Including Donald Trump, As Most Favorable Political Leader in Assembly District 75]Dec 11, 2023Poll Shows Carl DeMaio Tops All Republicans, Including Donald Trump, As Most Favorable Political Leader in Assembly District 75DeMaio dominates all candidates in race for 75th Assembly District – with almost no movement for opponent on ballot test",
+"href": "https://carldemaio.com/news/poll-shows-carl-demaio-tops-all-republicans-including-donald-trump-as-most-favorable-political-leader-in-assembly-district-75"
+},
+{
+"text": "[image: Reform California Leader Carl DeMaio Files to Run for the State Assembly][image: Reform California Leader Carl DeMaio Files to Run for the State Assembly]Dec 7, 2023Reform California Leader Carl DeMaio Files to Run for the State AssemblyDeMaio has pulled papers to run for the California State Assembly in the 75th District",
+"href": "https://carldemaio.com/news/reform-california-leader-carl-demaio-files-to-run-for-the-state-assembly"
+},
+{
+"text": "[image: Restore Public Safety]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: School Board Reform]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Stop the Tax Hikes]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: To Fight Inflation, DeMaio Opposes Unfair Tax and Rate Hikes][image: To Fight Inflation, DeMaio Opposes Unfair Tax and Rate Hikes]Aug 25, 2024To Fight Inflation, DeMaio Opposes Unfair Tax and Rate HikesDeMaio Warns Voters on 35 Hidden Tax Hikes on ’24 Ballot",
+"href": "https://carldemaio.com/news/to-fight-inflation-demaio-opposes-unfair-tax-and-rate-hikes"
+},
+{
+"text": "[image]",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "…More Campaigns!",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@carldemaioCA"
+}
 ]

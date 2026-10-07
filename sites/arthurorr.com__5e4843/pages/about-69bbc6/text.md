@@ -1,5 +1,4 @@
-About Arthur Orr
-“I’m proud to be from Alabama,” says Arthur Orr, a sixth generation Alabamian who grew up next to the Alabama Sheriff’s Boys Ranch in Danville.
+Skip to main content Home About Am I in District 3 Constituent Services News Contact Home About Am I in District 3 Constituent Services News Contact About Arthur Orr “I’m proud to be from Alabama,” says Arthur Orr, a sixth generation Alabamian who grew up next to the Alabama Sheriff’s Boys Ranch in Danville.
 “One thing I learned growing up was the value of hard work… though I may not have appreciated it much at the time, I certainly do now.” Whether working on the Boys Ranch, hauling 55-gallon barrels for his family’s business or loading sand at the Norfolk-Southern Railroad yard in the early morning before high school, hard work was an important part of his early years.
 “I’ve always been a ‘doer’… even early in life.” While attending college at Wake Forest University, Arthur served as chairman of the Honor Council, received several academic honors and held numerous leadership posts.
 He attended law school at the University of Alabama in Tuscaloosa.
@@ -34,13 +33,9 @@ He enjoys reading, jogging and travel – having visited or lived in over 70 cou
 In 2023, Arthur recently received a Master’s Degree with honors in Military History from Austin Peay University after years of taking classes.
 Arthur and his wife of over twenty years, the former Amy Bethshares of Decatur, have one son named Jack and a daughter, Anna.
 He and his family are members of Redeemer Presbyterian Church where he serves as an Elder and adult Sunday school class teacher.
-Comittees
-- Finance and Taxation Education (Chairperson)
-- Finance and Taxation General Fund
-- Rules
-- Judiciary
-- Governmental Affairs
-- Fiscal Responsibility and Economic Development
-- Madison County Legislation
-Get Email Updates from Senator Orr
-Complete the form below to subscribe to our e-mail newsletter.
+Comittees Finance and Taxation Education (Chairperson) Finance and Taxation General Fund Rules Judiciary Governmental Affairs Fiscal Responsibility and Economic Development Madison County Legislation Get Email Updates from Senator Orr Complete the form below to subscribe to our e-mail newsletter.
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+County Address of Name * First Last Email * Phone County of Residence * Address Address Line 1 City --- Select state --- Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming State Zip Code Submit Mailing Address P.O.
+Box 305 Decatur, AL 35602 Montgomery Office Suite 730 | Alabama State House 11 South Union Street Montgomery, AL 36130-4600 Phone: (334) 261-0758 E-newsletter signup Field Offices Decatur 2124 6th Avenue SE, Suite 400 Decatur, AL 35601 Phone: (256) 260-2147 Huntsville Madison County Legislative Delegation 726 Madison Street | Huntsville, AL 35801 (256) 539-5441 Athens Limestone County Legislative Delegation 110 College Street, Suite E4 | Athens, AL 35611 (256) 262-9038 Copyright © Arthur Orr, Alabama State Senator Website Development by Red Sage Communications, Inc.
+Share This https://www.facebook.com/ArthurOrr/ https://twitter.com/SenatorAOrr

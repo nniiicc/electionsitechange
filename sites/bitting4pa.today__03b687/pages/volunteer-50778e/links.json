@@ -1,15 +1,58 @@
 [
-"https://bitting4pa.today/contact-us",
-"https://bitting4pa.today/donate",
-"https://bitting4pa.today/endorsements",
-"https://bitting4pa.today/find-an-event",
-"https://bitting4pa.today/jared-bitting",
-"https://bitting4pa.today/meet-jared",
-"https://bitting4pa.today/on-the-issues",
-"https://bitting4pa.today/volunteer",
-"https://facebook.com/Bitting4PA",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/bitting-4-pa-1"
+{
+"text": "Contact Us",
+"href": "https://bitting4pa.today/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://bitting4pa.today/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bitting-4-pa-1"
+},
+{
+"text": "Endorsements",
+"href": "https://bitting4pa.today/endorsements"
+},
+{
+"text": "Find an Event",
+"href": "https://bitting4pa.today/find-an-event"
+},
+{
+"text": "Jared Bitting",
+"href": "https://bitting4pa.today/jared-bitting"
+},
+{
+"text": "Meet Jared",
+"href": "https://bitting4pa.today/meet-jared"
+},
+{
+"text": "On the Issues",
+"href": "https://bitting4pa.today/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://bitting4pa.today/volunteer"
+},
+{
+"text": "[image: Vote Bitting for PA today, for a better tomorrow!]",
+"href": "https://bitting4pa.today/jared-bitting"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Bitting4PA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

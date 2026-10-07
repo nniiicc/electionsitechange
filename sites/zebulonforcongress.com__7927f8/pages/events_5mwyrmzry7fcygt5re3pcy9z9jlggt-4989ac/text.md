@@ -1,11 +1,3 @@
-Back to All Events
-Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Tuesday, April 7, 2026 6:00 PM 7:30 PM Carnegie Building 451 East Mitchell Street Petoskey, MI, 49770 United States (map) Google Calendar ICS Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
 This is an opportunity to learn more about Zebulon Featherly’s positions on the issues affecting Northern Michigan, ask questions, and participate in an open discussion about the future of our region.
-Sponsored by NoMi Indivisible
-Previous
-Previous
-April 6
-Candidate Forum
-Next
-Next
-April 15
+Sponsored by NoMi Indivisible Previous Previous April 6 Candidate Forum Next Next April 15 Online Town Hall/Q&A

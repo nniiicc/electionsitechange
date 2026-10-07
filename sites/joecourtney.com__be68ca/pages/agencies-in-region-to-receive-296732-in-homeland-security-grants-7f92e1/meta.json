@@ -1,7 +1,11 @@
 {
  "description": "Nearly $300,000 in federal grants has been awarded to Southeastern Connecticut entities, Rep. Joe Courtney announced. The Mystic Fire Department, the New London Fire Department...",
  "final_url": "https://joecourtney.com/agencies-in-region-to-receive-296732-in-homeland-security-grants/",
- "paid_for_by": null,
+ "fingerprint": "717e66b7c03d3d9152059724a9a56433a5cffe95",
+ "format": 3,
+ "paid_for_by": "Authorized by Joe Courtney for Congress",
  "title": "AGENCIES IN REGION TO RECEIVE $296,732 IN HOMELAND SECURITY GRANTS - Joe Courtney",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

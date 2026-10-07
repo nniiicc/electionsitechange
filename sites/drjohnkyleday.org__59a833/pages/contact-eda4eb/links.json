@@ -1,18 +1,90 @@
 [
-"https://drjohnkyleday.org/",
-"https://drjohnkyleday.org/?page_id=360",
-"https://drjohnkyleday.org/?page_id=361",
-"https://drjohnkyleday.org/about",
-"https://drjohnkyleday.org/contact",
-"https://drjohnkyleday.org/photo-gallery",
-"https://drjohnkyleday.org/services",
-"https://drjohnkyleday.org/sign-up",
-"https://facebook.com/",
-"https://instagram.com/",
-"https://linkedin.com/",
-"https://subscribe.wordpress.com/memberships?blog=244488276&plan=130&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact",
-"https://subscribe.wordpress.com/memberships?blog=244488276&plan=131&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact",
-"https://subscribe.wordpress.com/memberships?blog=244488276&plan=132&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact",
-"https://wordpress.com/website-design-service",
-"https://x.com/"
+{
+"text": "(870) 723-4657",
+"href": "tel:8707234657"
+},
+{
+"text": "About",
+"href": "https://drjohnkyleday.org/about/"
+},
+{
+"text": "Built By WordPress.com",
+"href": "https://wordpress.com/website-design-service/"
+},
+{
+"text": "Contact",
+"href": "https://drjohnkyleday.org/contact/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://drjohnkyleday.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://subscribe.wordpress.com/memberships/?blog=244488276&plan=130&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact"
+},
+{
+"text": "Donate monthly",
+"href": "https://subscribe.wordpress.com/memberships/?blog=244488276&plan=131&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact"
+},
+{
+"text": "Donate yearly",
+"href": "https://subscribe.wordpress.com/memberships/?blog=244488276&plan=132&lang=en_US&pid=48&redirect=https%3A%2F%2Fdrjohnkyleday.org%2Fcontact"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/"
+},
+{
+"text": "Gallery",
+"href": "https://drjohnkyleday.org/photo-gallery/"
+},
+{
+"text": "Home",
+"href": "https://drjohnkyleday.org"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/"
+},
+{
+"text": "LinkedIn",
+"href": "https://linkedin.com/"
+},
+{
+"text": "Republican Primary March 3",
+"href": "https://drjohnkyleday.org"
+},
+{
+"text": "Send a Message",
+"href": "https://drjohnkyleday.org/contact/"
+},
+{
+"text": "Services",
+"href": "https://drjohnkyleday.org/services/"
+},
+{
+"text": "Sign up",
+"href": "https://drjohnkyleday.org/sign-up/"
+},
+{
+"text": "Terms of Use",
+"href": "https://drjohnkyleday.org/?page_id=361"
+},
+{
+"text": "X",
+"href": "https://x.com/"
+},
+{
+"text": "johnkyleday@gmail.com",
+"href": "mailto:johnkyleday@gmail.com"
+},
+{
+"text": "privacy policy",
+"href": "https://drjohnkyleday.org/?page_id=360"
+},
+{
+"text": "← Back",
+"href": "https://drjohnkyleday.org/contact/"
+}
 ]

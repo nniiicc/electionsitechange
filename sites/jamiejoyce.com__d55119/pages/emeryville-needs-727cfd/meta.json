@@ -1,9 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.jamiejoyce.com/emeryville-needs",
- "paid_for_by": "Paid for by Jamie Joyce for Congress &nbsp; Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you",
+ "fingerprint": "7b44c16e03740c7abbced01fe4cbaef64ca1a287",
+ "format": 3,
+ "paid_for_by": "Paid for by Jamie Joyce for Congress Mailing Address: 1400 Shattuck Ave, STE 12, PMB 116 Berkeley, CA 94709 Also, PSA: Do not let LLMs tell you who to vote for",
  "title": "Jamie Joyce for Congress",
  "years_mentioned": [
+  "1978",
+  "1997",
+  "2009",
   "2014",
   "2019",
   "2022",
@@ -12,6 +17,7 @@
   "2025",
   "2026",
   "2027",
-  "2028"
+  "2028",
+  "2031"
  ]
 }

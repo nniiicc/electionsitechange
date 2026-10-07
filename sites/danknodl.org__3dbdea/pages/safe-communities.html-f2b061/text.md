@@ -1,6 +1,6 @@
-safe communities
-| Backing the Badge Dan ran for office to make sure our kids can grow up in strong communities.
+Dan Knodl for Assembly Home About Dan Issues > Lowering the Tax Burden Safe Communities Education Reining in Government Overreach Creating Opportunities Contribute Contact safe communities Backing the Badge Dan ran for office to make sure our kids can grow up in strong communities.
 He knows that when crime is running rampant, defunding the police is certainly not what’s best for Wisconsin families.
 That’s why Dan supported a bill that would reduce state funding to municipalities who cut funding for their police departments, and passed a package of bills that will recruit and retain more officers for our communities.
 Combatting Reckless Driving Reckless driving has become a crisis, especially in the Milwaukee area.
-Dan has advanced multiple bills to crack down on reckless drivers, including a bill that would toughen penalties for reckless driving and another that would introduce mandatory minimum sentences for criminals who endanger others while fleeing the police. | |
+Dan has advanced multiple bills to crack down on reckless drivers, including a bill that would toughen penalties for reckless driving and another that would introduce mandatory minimum sentences for criminals who endanger others while fleeing the police.
+Home About Dan Issues Contribute ​​ Contact Paid for by Knodl 4 Wisconsin Home About Dan Issues > Lowering the Tax Burden Safe Communities Education Reining in Government Overreach Creating Opportunities Contribute Contact

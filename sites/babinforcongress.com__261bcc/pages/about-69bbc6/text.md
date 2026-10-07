@@ -1,5 +1,4 @@
-About Brian
-Brian Babin is a life-long resident of East Texas.
+TAKE ACTION AbouT Brian Priorities Endorsements JOIN TEAM BABIN NEWS DONATE MENU About Brian Brian Babin is a life-long resident of East Texas.
 He was born in Port Arthur, Texas and grew up in Beaumont.
 He graduated with a Bachelor of Science from Lamar University and completed dental school at the University of Texas Dental Branch in Houston, Texas.
 Dr.
@@ -34,3 +33,6 @@ Babin are members of the First Baptist Church of Woodville, where he has served 
 He and his wife, Roxanne, also from Beaumont, have been married since 1972; have 5 children and 16 grandchildren.
 The couple still resides in Woodville.
 Making America safe, strong, and economically secure for the future of his children and grandchildren remains his reason for running to maintain his seat in Congress and proudly serve the people of TX-36.
+P.
+O.
+BOX 159 WOODVILLE, TX 75979 409-377-2495

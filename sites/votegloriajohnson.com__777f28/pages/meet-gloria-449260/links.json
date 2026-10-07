@@ -1,11 +1,38 @@
 [
-"https://facebook.com/VoteGloriaJohnson",
-"https://instagram.com/votegloriaj",
-"https://secure.actblue.com/donate/voteglojo",
-"https://threads.net/@votegloriaj",
-"https://tiktok.com/@votegloriaj",
-"https://twitter.com/VoteGloriaJ",
-"https://votegloriajohnson.com/",
-"https://votegloriajohnson.com/contact",
-"https://votegloriajohnson.com/meet-gloria"
+{
+"text": "Contact",
+"href": "https://www.votegloriajohnson.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/voteglojo"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/VoteGloriaJohnson"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votegloriaj/"
+},
+{
+"text": "Meet Gloria",
+"href": "https://www.votegloriajohnson.com/meet-gloria/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@votegloriaj"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/VoteGloriaJ"
+},
+{
+"text": "[image]",
+"href": "https://www.votegloriajohnson.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@votegloriaj"
+}
 ]

@@ -1,10 +1,13 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.kaufmannfororegon.com/news/news-2",
- "paid_for_by": null,
+ "fingerprint": "aec72053cadfe86783d12903923b4e5d2cbd3ca0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Economics 101: Tariffs are a tax on everything we buy for our families and businesses.",
  "years_mentioned": [
   "2020",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

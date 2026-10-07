@@ -1,12 +1,46 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/tracey.schroeder.ca",
-"https://secure.winred.com/tracey-schroeder-for-assembly-2026/donate",
-"https://traceyschroeder.com/",
-"https://traceyschroeder.com/about",
-"https://traceyschroeder.com/contact",
-"https://traceyschroeder.com/espanol-1",
-"https://traceyschroeder.com/gallery",
-"https://traceyschroeder.com/issues",
-"https://traceyschroeder.com/meet-%26-greet"
+{
+"text": "About",
+"href": "https://traceyschroeder.com/about"
+},
+{
+"text": "Contact",
+"href": "https://traceyschroeder.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tracey-schroeder-for-assembly-2026/donate"
+},
+{
+"text": "Espanol",
+"href": "https://traceyschroeder.com/espanol-1"
+},
+{
+"text": "Gallery",
+"href": "https://traceyschroeder.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://traceyschroeder.com/"
+},
+{
+"text": "Issues",
+"href": "https://traceyschroeder.com/issues"
+},
+{
+"text": "Meet & Greet",
+"href": "https://traceyschroeder.com/meet-%26-greet"
+},
+{
+"text": "VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46VOTE TRACEY SCHROEDER FOR ASSEMBLY District 46",
+"href": "https://traceyschroeder.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tracey.schroeder.ca/"
+}
 ]

@@ -1,28 +1,106 @@
 [
-"https://elizabethmoro.com/",
-"https://elizabethmoro.com/endorsements",
-"https://elizabethmoro.com/issues",
-"https://elizabethmoro.com/join",
-"https://elizabethmoro.com/lend-a-hand",
-"https://elizabethmoro.com/meet-elizabeth",
-"https://elizabethmoro.com/mobile-terms-and-conditions",
-"https://elizabethmoro.com/press",
-"https://elizabethmoro.com/privacy-policy",
-"https://elizabethmoro.com/vote",
-"https://elizabethmoro.com/wp-content/uploads/vol1.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol10.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol2.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol3.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol4.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol5.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol6.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol7.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol8.webp",
-"https://elizabethmoro.com/wp-content/uploads/vol9.webp",
-"https://facebook.com/ElizabethMoroForPA160",
-"https://instagram.com/ElizabethMoroForPA160",
-"https://mobilize.us/moroforstatehouse",
-"https://secure.actblue.com/donate/elizabethmoroforpa160",
-"https://secure.ngpvan.com/6ihpPtosf02uIdndYmi56A2",
-"https://tiktok.com/@elizabethmoroforpa160"
+{
+"text": "Be Active",
+"href": "https://elizabethmoro.com/join/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elizabethmoroforpa160"
+},
+{
+"text": "Endorsements",
+"href": "https://elizabethmoro.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElizabethMoroForPA160/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/ElizabethMoroForPA160"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@elizabethmoroforpa160"
+},
+{
+"text": "Issues",
+"href": "https://elizabethmoro.com/issues/"
+},
+{
+"text": "Lend a Hand",
+"href": "https://elizabethmoro.com/lend-a-hand/"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://elizabethmoro.com/meet-elizabeth/"
+},
+{
+"text": "Mobile Terms",
+"href": "https://elizabethmoro.com/mobile-terms-and-conditions/"
+},
+{
+"text": "Press",
+"href": "https://elizabethmoro.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elizabethmoro.com/privacy-policy"
+},
+{
+"text": "Stay In Touch",
+"href": "https://secure.ngpvan.com/6ihpPtosf02uIdndYmi56A2"
+},
+{
+"text": "Volunteer Events",
+"href": "https://www.mobilize.us/moroforstatehouse/"
+},
+{
+"text": "Vote",
+"href": "https://elizabethmoro.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol1.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol10.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol2.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol3.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol4.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol5.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol6.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol7.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol8.webp"
+},
+{
+"text": "[image]",
+"href": "https://elizabethmoro.com/wp-content/uploads/vol9.webp"
+}
 ]

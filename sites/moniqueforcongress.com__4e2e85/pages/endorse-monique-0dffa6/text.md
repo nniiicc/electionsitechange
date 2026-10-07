@@ -1,1 +1,4 @@
-If any of the below options apply to you and you'd like to endorse Monique please check the boxes below.
+About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop Endorse Monique If you'd like to endorse Monique for Congress, fill out the form below.
+First Name Last Name Email Zip Code Phone Number Endorsement Message If any of the below options apply to you and you'd like to endorse Monique please check the boxes below.
+I'm a small business owner I'm a member or former membor of Law Enforcement I'm a Veteran Submit Paid For By Monique For Congress PO Box 51034 Eugene, OR 97405 info@moniqueforcongress.com 541-321-6016 Privacy Policy The use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense.
+Watch our latest ad!

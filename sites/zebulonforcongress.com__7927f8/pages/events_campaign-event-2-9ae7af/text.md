@@ -1,13 +1,3 @@
-Back to All Events
-This Forum will be hosted by Northern Indivisible.
-”The purpose of the non-partisan Candidate Forum is to give CD-1 voters an opportunity to hear our declared candidates discuss the issues of importance to them in this election.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Tuesday, March 10, 2026 5:30 PM 7:00 PM Gogebic Community College e4946 Jackson Road Ironwood, MI, 49938 United States (map) Google Calendar ICS This Forum will be hosted by Northern Indivisible. ”The purpose of the non-partisan Candidate Forum is to give CD-1 voters an opportunity to hear our declared candidates discuss the issues of importance to them in this election.
 The event is free and open to the public.
-Candidates will answer written questions from the public during this moderated event.
-“
-Previous
-Previous
-March 9
-Candidate Forum
-Next
-Next
-March 11
+Candidates will answer written questions from the public during this moderated event. “ Previous Previous March 9 Candidate Forum Next Next March 11 Candidate Forum

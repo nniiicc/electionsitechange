@@ -1,7 +1,9 @@
 {
  "description": "State Representative Susan Lynn",
  "final_url": "https://www.susanlynn.us/bluebook.html",
- "paid_for_by": null,
+ "fingerprint": "cf3ec717aec800f4a74e63f4dc35ad52c6a2ef1a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Susan Lynn State Representative",
  "years_mentioned": []
 }

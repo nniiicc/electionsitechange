@@ -1,19 +1,70 @@
 [
-"http://facebook.com/stephenforslc",
-"http://instagram.com/stephenforslc",
-"https://secure.actblue.com/donate/stephenforslc",
-"https://stephenforslc.com/",
-"https://stephenforslc.com/contact",
-"https://stephenforslc.com/contacto1",
-"https://stephenforslc.com/endorse-stephen",
-"https://stephenforslc.com/endorsements",
-"https://stephenforslc.com/endosos",
-"https://stephenforslc.com/espaol",
-"https://stephenforslc.com/legislacion-propuesta",
-"https://stephenforslc.com/legislation",
-"https://stephenforslc.com/pagina-principal",
-"https://stephenforslc.com/plataforma",
-"https://stephenforslc.com/platform",
-"https://stephenforslc.com/platform-1",
-"https://stephenforslc.com/search"
+{
+"text": "Contact",
+"href": "https://www.stephenforslc.com/contact"
+},
+{
+"text": "Contacto",
+"href": "https://www.stephenforslc.com/contacto1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/stephenforslc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.stephenforslc.com/endorsements"
+},
+{
+"text": "Endosos",
+"href": "https://www.stephenforslc.com/endosos"
+},
+{
+"text": "Español",
+"href": "https://www.stephenforslc.com/espaol"
+},
+{
+"text": "Legislación propuesta",
+"href": "https://www.stephenforslc.com/legislacion-propuesta"
+},
+{
+"text": "Legislation",
+"href": "https://www.stephenforslc.com/legislation"
+},
+{
+"text": "My Platform",
+"href": "https://www.stephenforslc.com/platform"
+},
+{
+"text": "Plataforma",
+"href": "https://www.stephenforslc.com/plataforma"
+},
+{
+"text": "Platform",
+"href": "https://www.stephenforslc.com/platform-1"
+},
+{
+"text": "Página Principal",
+"href": "https://www.stephenforslc.com/pagina-principal"
+},
+{
+"text": "[image: Stephen Otterstrom for SLC]",
+"href": "https://www.stephenforslc.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/stephenforslc"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stephenforslc"
+},
+{
+"text": "[no text]",
+"href": "https://www.stephenforslc.com/endorse-stephen"
+},
+{
+"text": "[no text]",
+"href": "https://www.stephenforslc.com/search"
+}
 ]

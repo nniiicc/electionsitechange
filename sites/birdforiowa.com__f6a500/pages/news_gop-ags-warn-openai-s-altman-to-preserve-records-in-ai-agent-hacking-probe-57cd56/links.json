@@ -1,14 +1,54 @@
 [
-"https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t",
-"https://birdforiowa.com/",
-"https://birdforiowa.com/cdn-cgi/l/email-protection",
-"https://birdforiowa.com/information",
-"https://birdforiowa.com/news",
-"https://birdforiowa.com/privacy-policy",
-"https://birdforiowa.com/terms-conditions",
-"https://facebook.com/BirdforIowa",
-"https://foxbusiness.com/technology/gop-ags-warn-openai-altman-preserve-records-ai-agent-hacking-probe",
-"https://secure.winred.com/bird-for-iowa/donate",
-"https://truthsocial.com/@BrennaBirdIA",
-"https://x.com/brennabird"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bird-for-iowa/donate"
+},
+{
+"text": "Fox Business",
+"href": "https://www.foxbusiness.com/technology/gop-ags-warn-openai-altman-preserve-records-ai-agent-hacking-probe"
+},
+{
+"text": "INFORMATION",
+"href": "https://birdforiowa.com/information"
+},
+{
+"text": "News",
+"href": "https://birdforiowa.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://birdforiowa.com/privacy-policy"
+},
+{
+"text": "RESEARCH",
+"href": "https://app.box.com/s/sb6uhen66c42xtdnjw53hogtlt8jj37t"
+},
+{
+"text": "Read More Here",
+"href": "https://www.foxbusiness.com/technology/gop-ags-warn-openai-altman-preserve-records-ai-agent-hacking-probe"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://birdforiowa.com/terms-conditions"
+},
+{
+"text": "[image: Brenna Bird Attorney General]",
+"href": "https://birdforiowa.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://truthsocial.com/@BrennaBirdIA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BirdforIowa/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brennabird"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=GOP+AGs+warn+OpenAI%27s+Altman+to+preserve+records+in+AI+agent+hacking+probe&amp%3Bbody=https%3A%2F%2Fbirdforiowa.com%2Fnews%2Fgop-ags-warn-openai-s-altman-to-preserve-records-in-ai-agent-hacking-probe%2F"
+}
 ]

@@ -1,7 +1,22 @@
 [
-"https://facebook.com/p/Mitra-Subedi-61556215592834",
-"https://secure.actblue.com/donate/elect-mitra-subedi-as-state-representative-1?amount=25",
-"https://subedihouse30.com/about.php",
-"https://subedihouse30.com/district30.php",
-"https://subedihouse30.com/index.php"
+{
+"text": "About Mitra",
+"href": "https://subedihouse30.com/about.php"
+},
+{
+"text": "District 30",
+"href": "https://subedihouse30.com/district30.php"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elect-mitra-subedi-as-state-representative-1?amount=25"
+},
+{
+"text": "[image: Mitra for House District 30]",
+"href": "https://subedihouse30.com/index.php"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/p/Mitra-Subedi-61556215592834/"
+}
 ]

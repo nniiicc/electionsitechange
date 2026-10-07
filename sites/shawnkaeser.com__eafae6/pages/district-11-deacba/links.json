@@ -1,12 +1,50 @@
 [
-"https://facebook.com/kaeserforohio",
-"https://findmydistrict.ohiosos.gov/",
-"https://instagram.com/kaesercares",
-"https://secure.winred.com/kaeser-for-ohio/donate-today",
-"https://shawnkaeser.com/",
-"https://shawnkaeser.com/district-11",
-"https://shawnkaeser.com/meet-shawn-kaeser",
-"https://shawnkaeser.com/privacy-policy",
-"https://shawnkaeser.com/shawn-kaeser-in-the-news",
-"https://tiktok.com/@kaesercares"
+{
+"text": "District 11",
+"href": "https://www.shawnkaeser.com/district-11"
+},
+{
+"text": "Donate!",
+"href": "https://secure.winred.com/kaeser-for-ohio/donate-today"
+},
+{
+"text": "In the News",
+"href": "https://www.shawnkaeser.com/shawn-kaeser-in-the-news"
+},
+{
+"text": "Kaeser For Ohio",
+"href": "https://www.shawnkaeser.com/"
+},
+{
+"text": "Meet Shawn",
+"href": "https://www.shawnkaeser.com/meet-shawn-kaeser"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shawnkaeser.com/privacy-policy"
+},
+{
+"text": "[image: Kaeser for Ohio logo]",
+"href": "https://www.shawnkaeser.com/"
+},
+{
+"text": "[image]",
+"href": "https://findmydistrict.ohiosos.gov/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/kaeserforohio"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/kaesercares"
+},
+{
+"text": "[tooltip: Go to Mail page]",
+"href": "mailto:info@shawnkaeser.com"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@kaesercares"
+}
 ]

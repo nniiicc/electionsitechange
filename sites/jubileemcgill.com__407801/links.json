@@ -1,13 +1,66 @@
 [
-"https://google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2Fbill%2Fstatus%2F2026%2FPR.3&sa=D&sntz=1&usg=AOvVaw1aAd5RnpN9APKPx9ovBReL",
-"https://google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2Fbill%2Fstatus%2F2026%2FPR.4&sa=D&sntz=1&usg=AOvVaw0o8u4FDbffA17Qwe3VQLYT",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fjubilee4vt&sa=D&sntz=1&usg=AOvVaw3tPpZskRLx0FgKmZRj4Awj",
-"https://jubileemcgill.com/contact",
-"https://jubileemcgill.com/endorsements",
-"https://jubileemcgill.com/get-involved",
-"https://jubileemcgill.com/home",
-"https://jubileemcgill.com/legislative-work",
-"https://jubileemcgill.com/meet-jubilee",
-"https://jubileemcgill.com/news-updates",
-"https://jubileemcgill.com/priorities"
+{
+"text": "Contact",
+"href": "https://www.jubileemcgill.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fjubilee4vt&sa=D&sntz=1&usg=AOvVaw3tPpZskRLx0FgKmZRj4Awj"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jubileemcgill.com/endorsements"
+},
+{
+"text": "Explore the Issues →",
+"href": "https://www.jubileemcgill.com/priorities"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jubileemcgill.com/get-involved"
+},
+{
+"text": "Get Involved →",
+"href": "https://www.jubileemcgill.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jubileemcgill.com/home"
+},
+{
+"text": "Learn More →",
+"href": "https://www.jubileemcgill.com/legislative-work"
+},
+{
+"text": "Legislative Work",
+"href": "https://www.jubileemcgill.com/legislative-work"
+},
+{
+"text": "Meet Jubilee",
+"href": "https://www.jubileemcgill.com/meet-jubilee"
+},
+{
+"text": "Meet Jubilee →",
+"href": "https://www.jubileemcgill.com/meet-jubilee"
+},
+{
+"text": "News & Updates",
+"href": "https://www.jubileemcgill.com/news-updates"
+},
+{
+"text": "Priorities",
+"href": "https://www.jubileemcgill.com/priorities"
+},
+{
+"text": "Read Proposal 3",
+"href": "https://www.google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2Fbill%2Fstatus%2F2026%2FPR.3&sa=D&sntz=1&usg=AOvVaw1aAd5RnpN9APKPx9ovBReL"
+},
+{
+"text": "Read Proposal 4",
+"href": "https://www.google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2Fbill%2Fstatus%2F2026%2FPR.4&sa=D&sntz=1&usg=AOvVaw0o8u4FDbffA17Qwe3VQLYT"
+},
+{
+"text": "[image]",
+"href": "https://www.jubileemcgill.com/home"
+}
 ]

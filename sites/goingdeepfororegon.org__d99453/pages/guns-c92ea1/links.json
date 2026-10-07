@@ -1,18 +1,74 @@
 [
-"https://goingdeepfororegon.org/",
-"https://goingdeepfororegon.org/accessibility-statement",
-"https://goingdeepfororegon.org/darcey-edwards",
-"https://goingdeepfororegon.org/events",
-"https://goingdeepfororegon.org/fun",
-"https://goingdeepfororegon.org/going-deep",
-"https://goingdeepfororegon.org/issue-list",
-"https://goingdeepfororegon.org/legislating",
-"https://goingdeepfororegon.org/meet-candidate",
-"https://goingdeepfororegon.org/site-map",
-"https://goingdeepfororegon.org/volunteer",
-"https://goingdeepfororegon.org/voting-info",
-"https://goingdeepfororegon.org/why-im-running",
-"https://heyvictor.com/",
-"https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/oregon",
-"https://secure.actblue.com/donate/tom-lum-forest"
+{
+"text": "Accessibility Statement",
+"href": "https://goingdeepfororegon.org/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:TLForestForOregon@gmail.com"
+},
+{
+"text": "Darcey Edwards",
+"href": "https://goingdeepfororegon.org/darcey-edwards/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom-lum-forest?amount="
+},
+{
+"text": "Events",
+"href": "https://goingdeepfororegon.org/events/"
+},
+{
+"text": "Fun",
+"href": "https://goingdeepfororegon.org/fun/"
+},
+{
+"text": "Going Deep",
+"href": "https://goingdeepfororegon.org/going-deep/"
+},
+{
+"text": "Home",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "Issue List",
+"href": "https://goingdeepfororegon.org/issue-list/"
+},
+{
+"text": "Legislating",
+"href": "https://goingdeepfororegon.org/legislating/"
+},
+{
+"text": "Meet Candidate",
+"href": "https://goingdeepfororegon.org/meet-candidate/"
+},
+{
+"text": "Site Map",
+"href": "https://goingdeepfororegon.org/site-map/"
+},
+{
+"text": "Volunteer",
+"href": "https://goingdeepfororegon.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://goingdeepfororegon.org/voting-info/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://goingdeepfororegon.org/why-im-running/"
+},
+{
+"text": "[image: Me at Lan Su Portland Chinese Garden] [image]",
+"href": "https://goingdeepfororegon.org/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "number of gun deaths in Oregon",
+"href": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/state-gun-violence-data/oregon"
+}
 ]

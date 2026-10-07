@@ -1,27 +1,126 @@
 [
-"https://andrewlawson4ad79.com/contact.html",
-"https://andrewlawson4ad79.com/donations.html",
-"https://andrewlawson4ad79.com/endorsements.html",
-"https://andrewlawson4ad79.com/filings.html",
-"https://andrewlawson4ad79.com/index.html",
-"https://andrewlawson4ad79.com/issues.html",
-"https://andrewlawson4ad79.com/media.html",
-"https://andrewlawson4ad79.com/privacy.html",
-"https://andrewlawson4ad79.com/social.html",
-"https://andrewlawson4ad79.com/speeches.html",
-"https://andrewlawson4ad79.com/voting.html",
-"https://ca4la.net/",
-"https://cal-access.sos.ca.gov/",
-"https://cityoflamesa.us/247/City-Council",
-"https://facebook.com/ALawson4AD79",
-"https://fppc.ca.gov/",
-"https://gis-portal.sandiegocounty.gov/arcgis/apps/webappviewer/index.html?id=60e8e02221104a1b99d08a5a4959b443",
-"https://instagram.com/andrew_for_california",
-"https://lemongrove.ca.gov/our-government/the-mayor-and-city-council",
-"https://sandiego.gov/citycouncil/cd9/communities/cityheights",
-"https://sandiegocounty.gov/content/sdc/pds/gpupdate/comm/springvly.html",
-"https://secure.anedot.com/andrewlawson/donate",
-"https://secure.anedot.com/andrewlawson/volunteer",
-"https://sos.ca.gov/elections",
-"https://x.com/AndrewLawson619"
+{
+"text": "CA FPPC",
+"href": "https://www.fppc.ca.gov"
+},
+{
+"text": "CA Secretary of State",
+"href": "https://www.sos.ca.gov/elections"
+},
+{
+"text": "Campaign Filings",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "Campaign Finance",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "City Heights →",
+"href": "https://www.sandiego.gov/citycouncil/cd9/communities/cityheights"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewlawson4ad79.com/contact.html"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/andrewlawson/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.andrewlawson4ad79.com/donations.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewlawson4ad79.com/endorsements.html"
+},
+{
+"text": "Filings",
+"href": "https://www.andrewlawson4ad79.com/filings.html"
+},
+{
+"text": "Home",
+"href": "https://www.andrewlawson4ad79.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewlawson4ad79.com/issues.html"
+},
+{
+"text": "La Mesa City Council →",
+"href": "https://www.cityoflamesa.us/247/City-Council"
+},
+{
+"text": "Lemon Grove City Council →",
+"href": "https://www.lemongrove.ca.gov/our-government/the-mayor-and-city-council/"
+},
+{
+"text": "Media",
+"href": "https://www.andrewlawson4ad79.com/media.html"
+},
+{
+"text": "News & Updates",
+"href": "https://www.andrewlawson4ad79.com/social.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.andrewlawson4ad79.com/privacy.html"
+},
+{
+"text": "Secretary of State",
+"href": "https://www.sos.ca.gov/elections"
+},
+{
+"text": "Social",
+"href": "https://www.andrewlawson4ad79.com/social.html"
+},
+{
+"text": "Speeches",
+"href": "https://www.andrewlawson4ad79.com/speeches.html"
+},
+{
+"text": "Spring Valley CPG →",
+"href": "https://www.sandiegocounty.gov/content/sdc/pds/gpupdate/comm/springvly.html"
+},
+{
+"text": "Track CA Assembly Bills →",
+"href": "https://ca4la.net/"
+},
+{
+"text": "View District 79 Map →",
+"href": "https://gis-portal.sandiegocounty.gov/arcgis/apps/webappviewer/index.html?id=60e8e02221104a1b99d08a5a4959b443"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.anedot.com/andrewlawson/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.andrewlawson4ad79.com/voting.html"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.andrewlawson4ad79.com/voting.html"
+},
+{
+"text": "[image: Lawson Campaign] Andrew LawsonFor State Assembly",
+"href": "https://www.andrewlawson4ad79.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ALawson4AD79"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andrew_for_california/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AndrewLawson619"
+},
+{
+"text": "cal-access.sos.ca.gov",
+"href": "https://cal-access.sos.ca.gov/"
+}
 ]

@@ -1,15 +1,90 @@
 [
-"https://derektranforcongress.com/",
-"https://derektranforcongress.com/privacy-policy",
-"https://facebook.com/DerekTranForCongress",
-"https://flickr.com/photos/199233905@N05",
-"https://instagram.com/DerekTranCA",
-"https://mobilize.us/derektranforcongress?end_date=2026-11-04T07%3A59%3A59.999Z&org_ids=38709&start_date=2026-09-14T07%3A00%3A00.000Z",
-"https://registertovote.ca.gov/",
-"https://registertovote.ca.gov/es-mx",
-"https://secure.actblue.com/donate/derektran-website",
-"https://shop.derektranforcongress.com/",
-"https://tiktok.com/@DerekTranCA",
-"https://twitter.com/DerekTranCA45",
-"https://youtube.com/@DerekTranCA"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/derektranforcongress/?end_date=%23T07%3A59%3A59.999Z&org_ids=38709&start_date=%23T07%3A00%3A00.000Z"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/derektran-website"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.derektranforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms of Service",
+"href": "https://www.derektranforcongress.com/privacy-policy"
+},
+{
+"text": "Register Here",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "Regístrese aquí",
+"href": "https://registertovote.ca.gov/es-mx"
+},
+{
+"text": "Shop",
+"href": "https://shop.derektranforcongress.com/"
+},
+{
+"text": "[image: Derek Tran for Congress]",
+"href": "https://www.derektranforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/DerekTranForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/199233905@N05/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/DerekTranCA"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@DerekTranCA"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DerekTranCA45"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@DerekTranCA"
+},
+{
+"text": "info@derektranforcongress.com",
+"href": "mailto:info@derektranforcongress.com"
+},
+{
+"text": "merch store",
+"href": "https://shop.derektranforcongress.com/"
+}
 ]

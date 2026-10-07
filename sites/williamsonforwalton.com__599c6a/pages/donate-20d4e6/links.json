@@ -1,19 +1,86 @@
 [
-"https://facebook.com/williamsonforwalton",
-"https://secure.anedot.com/committee-to-elect-bruce-williamson-inc/donate",
-"https://subscribe.wordpress.com/",
-"https://twitter.com/williamson115",
-"https://williamsonforwalton.com/",
-"https://williamsonforwalton.com/at-the-capitol",
-"https://williamsonforwalton.com/contact",
-"https://williamsonforwalton.com/donate",
-"https://williamsonforwalton.com/donate?share=facebook",
-"https://williamsonforwalton.com/donate?share=twitter",
-"https://williamsonforwalton.com/in-the-community",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fwilliamsonforwalton.com%2Fdonate%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fdonate%252F",
-"https://wordpress.com/reader/blogs/137045343/posts/23",
-"https://wordpress.com/start",
-"https://wp.me/P9h1KL-n"
+{
+"text": "At the Capitol",
+"href": "https://williamsonforwalton.com/at-the-capitol/"
+},
+{
+"text": "Contact",
+"href": "https://williamsonforwalton.com/contact/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/P9h1KL-n"
+},
+{
+"text": "Donate",
+"href": "https://williamsonforwalton.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/williamsonforwalton"
+},
+{
+"text": "In the Community",
+"href": "https://williamsonforwalton.com/in-the-community/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fdonate%252F"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwilliamsonforwalton.com%252Fdonate%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Meet Bruce",
+"href": "https://williamsonforwalton.com/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fwilliamsonforwalton.com%2Fdonate%2F"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://williamsonforwalton.com/donate/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://williamsonforwalton.com/donate/?share=twitter"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/williamson115"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/137045343/posts/23"
+},
+{
+"text": "Website Built with WordPress.com",
+"href": "https://wordpress.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/committee-to-elect-bruce-williamson-inc/donate"
+},
+{
+"text": "[image]williamsonforwalton.com",
+"href": "https://williamsonforwalton.com"
+},
+{
+"text": "[no text]",
+"href": "https://williamsonforwalton.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://williamsonforwalton.com/"
+}
 ]

@@ -1,4 +1,5 @@
-Idaho Senate overrides the governor and delivers property tax relief.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Idaho Senate Delivers Property Tax Relief Apr 3, 2023 | Legislative News , Policy Analysis Idaho Senate overrides the governor and delivers property tax relief.
 The Idaho Senate last week had a tremendous opportunity and seized the day.
 This year it was the Republicans in the Legislature that drove an effort to ease the burden of property tax for all Idahoans.
 I sponsored two bills at the start of the session related to property tax.
@@ -23,3 +24,5 @@ That relief will go up to $170 million in 2024 and $216 million in 2025.
 Theoretically, H292 will reduce the amount of money that public schools need to ask from voters in the form of local property taxes.
 Currently, schools receive $600 million of their funding from these taxes.
 H292 will provide over a third of that funding relief by 2025.
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

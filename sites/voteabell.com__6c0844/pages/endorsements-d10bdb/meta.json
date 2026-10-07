@@ -1,7 +1,11 @@
 {
  "description": "Explore Hunter Abell's 2026 political endorsements and support for the 7th District elections. Join our newsletter for updates!",
  "final_url": "https://voteabell.com/endorsements",
- "paid_for_by": "Paid for by Abell For Washington, 127 N Wynne St, Colville WA 99114 Powered by Home About Hunter Accomplishments Endorsements Donate Privacy Policy Thi",
+ "fingerprint": "8232d16a80fa324d03f338ad0961795f33f40b53",
+ "format": 3,
+ "paid_for_by": "Paid for by Abell For Washington, 127 N Wynne St, Colville WA 99114 Powered by Home About Hunter Accomplishments Endorsements Donate Privacy Policy",
  "title": "2026 Political Endorsements | Voteabell",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

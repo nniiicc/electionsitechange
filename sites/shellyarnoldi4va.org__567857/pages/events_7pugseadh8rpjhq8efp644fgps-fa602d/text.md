@@ -1,10 +1,5 @@
-← All EventsCommunity
-Televised Candidate Forum - League of Women Voters
-Time & Location
-📅 Monday, September 28, 2026, 7:45 PM – 9:00 PM
-📍 Fairfax Public Access Television Channel 10 Station
-About the Event
-- Date: Monday, September 28, 2026
-- Time: 8:00 p.m. – 9:00 p.m.
-(Candidates must arrive by 7:15 p.m. for audio and video equipment testing)
-- Location: Fairfax Public Access Television Channel 10 Station, 2929-S Eskridge Road, Fairfax, VA 22031 (live-streaming on YouTube)
+SA Shelly Arnoldi for Virginia's 8th Home About Priorities Events Endorsements Get Involved Donate ← All Events Community Televised Candidate Forum - League of Women Voters Time & Location 📅 Monday, September 28, 2026, 7:45 PM – 9:00 PM 📍 Fairfax Public Access Television Channel 10 Station About the Event \- Date: Monday, September 28, 2026 \- Time: 8:00 p.m. – 9:00 p.m.
+(Candidates must arrive by 7:15 p.m. for audio and video equipment testing) \- Location: Fairfax Public Access Television Channel 10 Station, 2929-S Eskridge Road, Fairfax, VA 22031 (live-streaming on YouTube) RSVP for This Event Email * Name * Phone ZIP Code Number of Guests Just me 2 guests 3 guests 4 guests 5+ guests Notes (optional) RSVP Now Shelly Arnoldi Candidate for Virginia's 8th Congressional District.
+Integrity.
+Courage.
+Commitment. 📞 (202) 285-7474 ✉ [email protected] X / Twitter Facebook Campaign About Shelly Priorities Get Involved Events Donate Stay Informed Join the Campaign Endorsed by the Libertarian Party of Northern Virginia Paid for by Shelly Arnoldi for Virginia.

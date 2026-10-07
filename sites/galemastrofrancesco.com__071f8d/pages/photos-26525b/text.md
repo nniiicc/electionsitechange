@@ -1,11 +1,1 @@
-Home
-About
-Issues
-Legislation
-NEWS
-Press
-Volunteer
-Photos
-Contact
-ENDORSEMENTS
-Photos
+Home About Issues Legislation NEWS Press Volunteer Photos Contact ENDORSEMENTS Photos Recent News & Events Recent News Feb 4, 2020 0 Useful Links Volunteer Contact Me Blog Official Facebook Page District Map Recent Photos Paid for by Mastrofrancesco for CT, Zachary Foti Treasurer, Approved by Gale Mastrofrancesco Site Design by Marvelous Media

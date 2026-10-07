@@ -1,7 +1,6 @@
-top of page
-NEWS/Public Statements
-Updates from the Campaign Trail
-ABOUT ARI >
-Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
-CONTACT >
-bottom of page
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In NEWS/Public Statements Updates from the Campaign Trail All Posts Search Arienne Childrey Statement on International Transgender Day of Visibility March 31, 2026 Today, on International Transgender Day of Visibility (TDOV), we celebrate the lives, contributions, and resilience of transgender people everywhere—a day that, in its 17th year, is more essential than ever.
+Founded in 2009 by Rachel Crandall-Crocker as a joyful counterpoint to the somber Transgender Day of Remembrance (TDoR), TDOV honors our living community.
+Several weeks ago, I had the profound honor of speaking with Rachel about the day's origins.
+Paraphras ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

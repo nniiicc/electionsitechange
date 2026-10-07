@@ -1,16 +1,70 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/SjaardaforSD",
-"https://johnsjaarda.net/",
-"https://johnsjaarda.net/contact",
-"https://johnsjaarda.net/contribute",
-"https://johnsjaarda.net/home",
-"https://johnsjaarda.net/issues",
-"https://johnsjaarda.net/make-endorsement",
-"https://johnsjaarda.net/meet_john",
-"https://johnsjaarda.net/photos",
-"https://johnsjaarda.net/privacy-policy",
-"https://johnsjaarda.net/terms-and-conditions",
-"https://johnsjaarda.net/view-endorsements",
-"https://johnsjaarda.net/volunteer"
+{
+"text": "About",
+"href": "https://johnsjaarda.net/meet_john"
+},
+{
+"text": "Contact",
+"href": "https://johnsjaarda.net/contact"
+},
+{
+"text": "Contribute",
+"href": "https://johnsjaarda.net/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://johnsjaarda.net/view-endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SjaardaforSD"
+},
+{
+"text": "Home",
+"href": "https://johnsjaarda.net/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://johnsjaarda.net/make-endorsement"
+},
+{
+"text": "Meet John",
+"href": "https://johnsjaarda.net/meet_john"
+},
+{
+"text": "Photos",
+"href": "https://johnsjaarda.net/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Priorities",
+"href": "https://johnsjaarda.net/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnsjaarda.net/privacy-policy"
+},
+{
+"text": "Terms And Conditions",
+"href": "https://johnsjaarda.net/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://johnsjaarda.net/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://johnsjaarda.net/"
+},
+{
+"text": "[image]",
+"href": "https://johnsjaarda.net/photos"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SjaardaforSD"
+}
 ]

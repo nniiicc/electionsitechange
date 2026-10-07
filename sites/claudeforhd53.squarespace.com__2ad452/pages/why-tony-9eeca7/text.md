@@ -1,27 +1,4 @@
-// WHY IT MATTERS HERE
-The pressure on Hernando County is real
-The Nature Coast needs a representative who sees what families are actually facing — and has the experience to do something about it.
-$1.1B
-Florida home insurance increases hitting families
-1 in 6
-Florida children facing food insecurity
-// THE CASE FOR TONY
-Experience that translates
-#1
-Springs region worth protecting from pollution
-40 yrs
-Tony's experience negotiating for results
-★
-A proven negotiator
-Decades closing deals as a division manager and national account manager — skills that translate directly to legislative work.
-★
-Rooted locally
-Hands-on work on food insecurity and charity efforts in Spring Hill.
-★
-A veteran’s commitment
-Four years in the U.S.
-Air Force instilled a duty to serve the community ahead of any party line
-★
-District 53 first
-A representative who answers to neighbors, not talking points.
+0 Skip to Content Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback // WHY IT MATTERS HERE The pressure on Hernando County is real The Nature Coast needs a representative who sees what families are actually facing — and has the experience to do something about it. $1.1B Florida home insurance increases hitting families 1 in 6 Florida children facing food insecurity // THE CASE FOR TONY Experience that translates #1 Springs region worth protecting from pollution 40 yrs Tony's experience negotiating for results ★ A proven negotiator Decades closing deals as a division manager and national account manager — skills that translate directly to legislative work. ★ Rooted locally Hands-on work on food insecurity and charity efforts in Spring Hill. ★ A veteran’s commitment Four years in the U.S.
+Air Force instilled a duty to serve the community ahead of any party line ★ District 53 first A representative who answers to neighbors, not talking points.
 Always!
+Share your Voice donate Claude for House District 53 Made with Squarespace Contact tlclaude@claudeforhd53.com (352) 667-3123 Paid for by Tony Claude, Democrat, for Florida House District #53

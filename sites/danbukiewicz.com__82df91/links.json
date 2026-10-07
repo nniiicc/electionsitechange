@@ -1,8 +1,34 @@
 [
-"https://danbukiewicz.com/",
-"https://facebook.com/BukiewiczForAssembly",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/My-Voter-Info",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://secure.actblue.com/donate/djb-website"
+{
+"text": "CLICK HERE",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "CLICK HERE",
+"href": "https://myvote.wi.gov/en-us/My-Voter-Info"
+},
+{
+"text": "CLICK HERE",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/djb-website"
+},
+{
+"text": "Give Today",
+"href": "https://secure.actblue.com/donate/djb-website"
+},
+{
+"text": "Home",
+"href": "https://www.danbukiewicz.com"
+},
+{
+"text": "Write to Dan",
+"href": "mailto:danbforassembly@gmail.com?subject=Question+about+your+campaign+for+AD-21"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BukiewiczForAssembly"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61586029288332",
-"https://horoshak2026.com/",
-"https://horoshak2026.com/accessibility-statement",
-"https://horoshak2026.com/contact",
-"https://horoshak2026.com/get-involved",
-"https://horoshak2026.com/privacy-policy",
-"https://horoshak2026.com/terms-and-conditions",
-"https://instagram.com/danhoroshak",
-"https://instagram.com/wixstudio",
-"https://secure.actblue.com/donate/daniel-horoshak-1",
-"https://wix.com/"
+{
+"text": "@wix",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "About",
+"href": "https://www.horoshak2026.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.horoshak2026.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.horoshak2026.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/daniel-horoshak-1"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.horoshak2026.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.horoshak2026.com"
+},
+{
+"text": "Horoshak2026@gmail.com",
+"href": "mailto:Horoshak2026@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.horoshak2026.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.horoshak2026.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586029288332"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/danhoroshak/"
+}
 ]

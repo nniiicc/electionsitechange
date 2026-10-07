@@ -1,4 +1,5 @@
-My name is Bruce Westerman, and it is an honor to be serving as your Member of Congress from the Fourth District of Arkansas.
+Meet Bruce Get Involved Issues Contribute I'm In!
+Why I'm Running My name is Bruce Westerman, and it is an honor to be serving as your Member of Congress from the Fourth District of Arkansas.
 It is a privilege to fight to make government more fair to you, the hardworking Arkansas taxpayer, and create an environment where we can grow good-paying jobs for Arkansas workers.
 I am asking for your continued support as I fight to move Arkansas forward by pushing for lower taxes, reforming our healthcare system and advocating for conservative values.
 I hope you'll join our campaign by liking our page and signing up to volunteer.
@@ -6,7 +7,8 @@ As a lifelong resident of Garland County, it is a privilege to be raising my fam
 I ran for Congress to ensure that my children and your children have a brighter future as well as a federal government that treats them fairly.
 It is why I ran and why I serve in Congress today.
 By continuing to work together, we will make a difference for Arkansas.
-Deep-rooted in Arkansas, Bruce Westerman was born and raised in Garland County.
+Contribute!
+If you'd like to join us in the fight for lower taxes and good paying jobs for Arkansas taxpayers, please consider making a donation to support the campaign. $# $# $# $# $# Other Meet Bruce Deep-rooted in Arkansas, Bruce Westerman was born and raised in Garland County.
 He graduated from Fountain Lake High School in Hot Springs before attending the University of Arkansas where he played football for the Razorbacks.
 After graduating with a Bachelor of Science degree in Biological and Agricultural Engineering, he received his Master's degree in forestry from Yale University.
 For more than 22 years, Bruce worked in engineering and forestry at Mid-South Engineering in Hot Springs.
@@ -17,3 +19,7 @@ In the Arkansas legislature, Bruce championed conservative principles: lower tax
 When the 4th Congressional District seat opened up in late 2013, Bruce was encouraged to take his conservative leadership to Congress.
 He won single-handedly, defeating both primary and general election opponents.
 In Washington, Congressman Westerman currently serves as Chairman of the House Natural Resources Committee, and is on the House Transportation Committee.
+What's Happening Now Powered by Curator.io Facebook Twitter Youtube Join the Team!
+First Name * Last Name * Email * Zip Code * I'd like to volunteer!
+I'm In!
+Paid For By Westerman For Congress PO Box 21097 | Hot Springs, AR 71903 Privacy Policy

@@ -1,4 +1,10 @@
 [
-"https://secure.actblue.com/donate/strand2026",
-"https://strandformontana.com/privacy-policy"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/strand2026"
+},
+{
+"text": "Privacy Policy",
+"href": "https://strandformontana.com/privacy-policy"
+}
 ]

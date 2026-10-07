@@ -1,9 +1,34 @@
 [
-"https://facebook.com/ExpectMoreAlaska",
-"https://secure.anedot.com/e849839a-8d91-4951-9cb7-7456925bef52/donate?exitIntent=true",
-"https://smithaksenate.com/",
-"https://smithaksenate.com/contact",
-"https://smithaksenate.com/get-involved",
-"https://smithaksenate.com/meet-smith",
-"https://smithaksenate.com/priorities"
+{
+"text": "Contact",
+"href": "https://smithaksenate.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/e849839a-8d91-4951-9cb7-7456925bef52/donate?exitIntent=true"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/ExpectMoreAlaska"
+},
+{
+"text": "Get Involved",
+"href": "https://smithaksenate.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://smithaksenate.com/"
+},
+{
+"text": "Meet Smith",
+"href": "https://smithaksenate.com/meet-smith/"
+},
+{
+"text": "Priorities",
+"href": "https://smithaksenate.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://smithaksenate.com"
+}
 ]

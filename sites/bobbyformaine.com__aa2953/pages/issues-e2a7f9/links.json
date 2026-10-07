@@ -1,19 +1,86 @@
 [
-"https://bobbyformaine.com/",
-"https://bobbyformaine.com/action-center",
-"https://bobbyformaine.com/events",
-"https://bobbyformaine.com/issues",
-"https://bobbyformaine.com/news",
-"https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591565080842d06629d712_Cut%20Crime%20-%20Bobby%20Charles%27s%20Plan.pdf",
-"https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a59156643f14dfca429cbcb_Sweeping%2020-Point%20-%20Bobby%20Charles%27s%20Plan.pdf",
-"https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a5915672cfc8f9a900e6852_Property%20Tax%20Relief%20-%20Bobby%20Charles%27s%20Plan.pdf",
-"https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591568e9cbd68fb6970a9a_No%20Nonsense%20-%20Bobby%20Charles%27s%20Plan.pdf",
-"https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591569781665f2324c3852_Energy%20Crisis%20-%20Bobby%20Charles%27s%20Plan.pdf",
-"https://facebook.com/BobbyCharlesMaine",
-"https://instagram.com/bobbyformaine",
-"https://secure.winred.com/bobby-charles-for-maine/storefront",
-"https://secure.winred.com/bobby-charles-for-maine/take-an-axe",
-"https://tiktok.com/@bobbyformaine?lang=en",
-"https://x.com/Bobby4Maine",
-"https://youtube.com/@BobbyRCharles"
+{
+"text": "ACtion center",
+"href": "https://www.bobbyformaine.com/action-center"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/bobby-charles-for-maine/take-an-axe"
+},
+{
+"text": "DOWNLOAD",
+"href": "https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591565080842d06629d712_Cut%20Crime%20-%20Bobby%20Charles%27s%20Plan.pdf"
+},
+{
+"text": "DOWNLOAD",
+"href": "https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a59156643f14dfca429cbcb_Sweeping%2020-Point%20-%20Bobby%20Charles%27s%20Plan.pdf"
+},
+{
+"text": "DOWNLOAD",
+"href": "https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a5915672cfc8f9a900e6852_Property%20Tax%20Relief%20-%20Bobby%20Charles%27s%20Plan.pdf"
+},
+{
+"text": "DOWNLOAD",
+"href": "https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591568e9cbd68fb6970a9a_No%20Nonsense%20-%20Bobby%20Charles%27s%20Plan.pdf"
+},
+{
+"text": "DOWNLOAD",
+"href": "https://cdn.prod.website-files.com/6a46a96f348f83177b6224ea/6a591569781665f2324c3852_Energy%20Crisis%20-%20Bobby%20Charles%27s%20Plan.pdf"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyformaine.com/events"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.bobbyformaine.com/action-center#get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bobbyformaine.com/action-center#get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.bobbyformaine.com/issues"
+},
+{
+"text": "MEET BOBBY",
+"href": "https://www.bobbyformaine.com/#meet-bobby"
+},
+{
+"text": "Meet Bobby",
+"href": "https://www.bobbyformaine.com/#meet-bobby"
+},
+{
+"text": "NEWS",
+"href": "https://www.bobbyformaine.com/news"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/bobby-charles-for-maine/storefront/"
+},
+{
+"text": "[image]",
+"href": "https://www.bobbyformaine.com/"
+},
+{
+"text": "",
+"href": "https://www.tiktok.com/@bobbyformaine?lang=en"
+},
+{
+"text": "",
+"href": "https://x.com/Bobby4Maine"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@BobbyRCharles"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/bobbyformaine/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/BobbyCharlesMaine/"
+}
 ]

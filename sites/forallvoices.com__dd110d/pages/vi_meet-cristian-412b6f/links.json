@@ -1,33 +1,150 @@
 [
-"https://facebook.com/CMoralesCAGov?view_public_for=103680042208119",
-"https://forallvoices.com/es/meet-cristian",
-"https://forallvoices.com/ja/meet-cristian",
-"https://forallvoices.com/ko/meet-cristian",
-"https://forallvoices.com/meet-cristian",
-"https://forallvoices.com/vi",
-"https://forallvoices.com/vi/accessibility",
-"https://forallvoices.com/vi/contact-us",
-"https://forallvoices.com/vi/district-map",
-"https://forallvoices.com/vi/meet-cristian",
-"https://forallvoices.com/vi/platform",
-"https://forallvoices.com/vi/privacy-policy",
-"https://forallvoices.com/vi/volunteer",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf",
-"https://forallvoices.com/zh/meet-cristian",
-"https://gab.com/CMoralesCAGov",
-"https://gettr.com/user/cmoralescagov",
-"https://instagram.com/cmoralescagov",
-"https://linkedin.com/in/cmoralescagov",
-"https://parler.com/user/CMoralesCAGov",
-"https://rumble.com/c/c-1317224",
-"https://secure.winred.com/cristian-morales-for-congress/donate-today",
-"https://tiktok.com/@cmoralescagov?lang=en",
-"https://twitter.com/CMoralesCaGov",
-"https://userway.org/",
-"https://youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+{
+"text": "Bản đồ quận",
+"href": "https://forallvoices.com/vi/district-map/"
+},
+{
+"text": "Chính sách bảo mật",
+"href": "https://forallvoices.com/vi/privacy-policy/"
+},
+{
+"text": "English",
+"href": "https://forallvoices.com/meet-cristian/"
+},
+{
+"text": "Español",
+"href": "https://forallvoices.com/es/meet-cristian/"
+},
+{
+"text": "GÓP",
+"href": "https://secure.winred.com/cristian-morales-for-congress/donate-today"
+},
+{
+"text": "Gặp Cristian",
+"href": "https://forallvoices.com/vi/meet-cristian/"
+},
+{
+"text": "Nhà",
+"href": "https://forallvoices.com/vi/"
+},
+{
+"text": "Nền tảng",
+"href": "https://forallvoices.com/vi/platform/"
+},
+{
+"text": "Sự tiếp xúc",
+"href": "https://forallvoices.com/vi/contact-us/"
+},
+{
+"text": "Thực đơn",
+"href": "javascript:void(0)"
+},
+{
+"text": "Tiếng Anh",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf"
+},
+{
+"text": "Tiếng Nhật",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf"
+},
+{
+"text": "Tiếng Triều Tiên",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf"
+},
+{
+"text": "Tiếng Tây Ban Nha",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf"
+},
+{
+"text": "Tiếp cận",
+"href": "https://forallvoices.com/vi/accessibility/"
+},
+{
+"text": "Trung quốc",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf"
+},
+{
+"text": "Tìm kiếm",
+"href": "javascript:void(0)"
+},
+{
+"text": "Tình nguyện viên",
+"href": "https://forallvoices.com/vi/volunteer/"
+},
+{
+"text": "[image: Cristian Morales ứng cử vào Hạ viện]",
+"href": "https://forallvoices.com/vi/"
+},
+{
+"text": "[image]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/CMoralesCAGov/?view_public_for=103680042208119"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/CMoralesCAGov"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://www.gettr.com/user/cmoralescagov"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cmoralescagov/"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "https://www.linkedin.com/in/cmoralescagov/"
+},
+{
+"text": "[tooltip: Parler]",
+"href": "https://parler.com/user/CMoralesCAGov"
+},
+{
+"text": "[tooltip: Rumble]",
+"href": "https://rumble.com/c/c-1317224"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@cmoralescagov?lang=en"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/CMoralesCaGov"
+},
+{
+"text": "[tooltip: Youtube]",
+"href": "https://www.youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+},
+{
+"text": "info@forallvoices.com",
+"href": "mailto:info@forallvoices.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+},
+{
+"text": "中文 (简体)",
+"href": "https://forallvoices.com/zh/meet-cristian/"
+},
+{
+"text": "日本語",
+"href": "https://forallvoices.com/ja/meet-cristian/"
+},
+{
+"text": "한국어",
+"href": "https://forallvoices.com/ko/meet-cristian/"
+}
 ]

@@ -1,5 +1,4 @@
-Hey Everybody, I'm Steve
-Steve Rutherford is a son of Gaston County, shaped by work, service, and story.
+Home Meet Steve The Focus OUR Community Community 1 Community 2 Community 3 Community 4 Yard Signs Make Endorsement News Hey Everybody, I'm Steve Steve Rutherford is a son of Gaston County, shaped by work, service, and story.
 A South Point High School graduate, he went on to earn his bachelor’s degree from Southern Illinois University, studied executive leadership at the Tuck School of Business at Dartmouth, and pursued graduate work at HEC Paris.
 His education didn’t just happen in classrooms—it happened in lived experience, across borders, cultures, and communities.
 Steve is a 20-year U.S.
@@ -25,3 +24,4 @@ For Steve Rutherford, progress is not abstract.
 It is personal.
 It is local.
 And it is long overdue.
+DONATE VOLUNTEER Endorsements Yard Signs Contact Privacy Policy Committee to Elect Steve Rutherford for NC Senate District 43 Powered by CampaignPartner.com - Political Websites Home Meet Steve The Focus Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

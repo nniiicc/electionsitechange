@@ -1,8 +1,34 @@
 [
-"https://karin4yarmouth.com/home",
-"https://karin4yarmouth.com/home/community-involvement",
-"https://karin4yarmouth.com/home/endorsements",
-"https://karin4yarmouth.com/home/experience",
-"https://karin4yarmouth.com/home/share-your-concerns",
-"https://karin4yarmouth.com/home/support-karin"
+{
+"text": "Community Involvement",
+"href": "https://www.karin4yarmouth.com/home/community-involvement"
+},
+{
+"text": "Endorsements",
+"href": "https://www.karin4yarmouth.com/home/endorsements"
+},
+{
+"text": "Experience",
+"href": "https://www.karin4yarmouth.com/home/experience"
+},
+{
+"text": "Home",
+"href": "https://www.karin4yarmouth.com/home"
+},
+{
+"text": "Karin Orenstein for Yarmouth State Representative",
+"href": "https://www.karin4yarmouth.com/home"
+},
+{
+"text": "Karin@Karin4Yarmouth.com",
+"href": "mailto:Karin@Karin4Yarmouth.com"
+},
+{
+"text": "Share your Concerns",
+"href": "https://www.karin4yarmouth.com/home/share-your-concerns"
+},
+{
+"text": "Support Karin",
+"href": "https://www.karin4yarmouth.com/home/support-karin"
+}
 ]

@@ -1,77 +1,40 @@
-Arizona’s future depends on whether today’s students can step into opportunity tomorrow as workers, entrepreneurs, community leaders, and citizens.
-When people tell me young adults can’t get started, this is one of the root issues: too many students are leaving K‑12 without strong fundamentals, and the system isn’t consistently aligned to the skills employers are hiring for now.
+Email Us Volunteer Donate Experience Leadership Issues & Approach Why David is Running How to Vote News Experience & Qualifications Leadership & Service Issues & Approach Why David is Running How to Vote News and Press Volunteer Donate Email Us Education and the Future of Opportunity in Arizona Arizona’s future depends on whether today’s students can step into opportunity tomorrow as workers, entrepreneurs, community leaders, and citizens.
+When people tell me young adults can’t get started, this is one of the root issues: too many students are leaving K ‑ 12 without strong fundamentals, and the system isn’t consistently aligned to the skills employers are hiring for now.
 This is not a partisan point.
 It’s a performance problem, and Arizona’s own data tools make that clear.
-1) Where Arizona stands today
-Arizona has made progress in expanding school choice and access, but student outcomes continue to lag in key areas when measured against long-term readiness for college, career, and life.
-According to Education Forward Arizona’s statewide Progress Meter, fewer than half of Arizona adults currently hold a postsecondary degree, certificate, or credential despite the fact that a strong majority of jobs now require education beyond high school. [2][3]
-At the K–12 level, Arizona’s own assessments show that a significant share of students are not meeting grade-level expectations in core subjects like reading and math. [2] These gaps appear early and tend to persist, making it harder for students to access advanced coursework and career pathways later on.
-High school outcomes reinforce the same pattern:
-- Not all students graduate prepared for postsecondary success
-- College enrollment rates have declined in recent years
-- Many students who do enroll require remediation or do not complete a credential [2]
-- Taken together, these indicators point to a system that is producing opportunity for some students, but not consistently enough across the state.
+1) Where Arizona stands today Arizona has made progress in expanding school choice and access, but student outcomes continue to lag in key areas when measured against long-term readiness for college, career, and life.
+According to Education Forward Arizona’s statewide Progress Meter, fewer than half of Arizona adults currently hold a postsecondary degree, certificate, or credential despite the fact that a strong majority of jobs now require education beyond high school. [2][3] At the K–12 level, Arizona’s own assessments show that a significant share of students are not meeting grade-level expectations in core subjects like reading and math. [2] These gaps appear early and tend to persist, making it harder for students to access advanced coursework and career pathways later on.
+High school outcomes reinforce the same pattern: Not all students graduate prepared for postsecondary success College enrollment rates have declined in recent years Many students who do enroll require remediation or do not complete a credential [2] Taken together, these indicators point to a system that is producing opportunity for some students, but not consistently enough across the state.
 This is not a reflection of effort from students, parents, or educators.
 It’s a signal that the system itself needs better alignment with the outcomes we expect.
-2) Recovery since the pandemic hasn’t been strong enough
-Arizona also has work to do on academic recovery.
-The Education Recovery Scorecard (Harvard/Stanford collaboration) ranked Arizona 41st in the country for change in math achievement and 35th for change in reading achievement between 2019 and 2024. [1]
-That doesn’t mean every district is struggling — the same report shows some districts have recovered — but as a state, the overall pace of recovery has been too slow.
-3) Why this matters: the economy is moving fast
-Education isn’t just a school issue.
+2) Recovery since the pandemic hasn’t been strong enough Arizona also has work to do on academic recovery.
+The Education Recovery Scorecard (Harvard/Stanford collaboration) ranked Arizona 41st in the country for change in math achievement and 35th for change in reading achievement between 2019 and 2024. [1] That doesn’t mean every district is struggling — the same report shows some districts have recovered — but as a state, the overall pace of recovery has been too slow.
+3) Why this matters: the economy is moving fast Education isn’t just a school issue.
 It’s the pipeline for the workforce and for mobility.
-Education Forward Arizona’s attainment work notes that nearly 7 in 10 jobs in Arizona will soon require some form of education beyond high school. [2]
-That’s why Arizona set the Achieve60AZ goal: 60% of adults ages 25–64 with a degree, license, certificate, or credential by 2030. [3]
-Education Forward Arizona reports progress, but also makes the urgency clear: statewide attainment increased from 42% to 49%, and reaching 60% by 2030 will require faster improvement. [2]
-4) What ‘future‑ready’ should mean in Arizona
-One of the most practical ideas I’ve seen is the State 48 Graduate Profile developed by Northern Arizona University’s Arizona Institute for Education and the Economy.
-It lays out four equally rigorous paths after high school — Enrollment, Employment, Enlistment & Service, and Entrepreneurship — and a set of essential capabilities students need to succeed. [4]
-It’s a useful frame because it moves the conversation from slogans to outcomes: what should a graduate be able to do, and what should they be ready for?
+Education Forward Arizona’s attainment work notes that nearly 7 in 10 jobs in Arizona will soon require some form of education beyond high school. [2] That’s why Arizona set the Achieve60AZ goal: #% of adults ages 25–64 with a degree, license, certificate, or credential by 2030. [3] Education Forward Arizona reports progress, but also makes the urgency clear: statewide attainment increased from 42% to 49%, and reaching 60% by 2030 will require faster improvement. [2] 4) What ‘future ‑ ready’ should mean in Arizona One of the most practical ideas I’ve seen is the State 48 Graduate Profile developed by Northern Arizona University’s Arizona Institute for Education and the Economy.
+It lays out four equally rigorous paths after high school — Enrollment, Employment, Enlistment & Service, and Entrepreneurship — and a set of essential capabilities students need to succeed. [4] It’s a useful frame because it moves the conversation from slogans to outcomes: what should a graduate be able to do, and what should they be ready for?
 Figure 1.
-State 48 Graduate Profile summary (4 Futures + 8 Essentials). [4]
-5) Parent Engagement and Transparency
-Strong education systems don’t operate in isolation, they are built on active, informed partnerships between schools and families.
+State 48 Graduate Profile summary (4 Futures + 8 Essentials). [4] 5) Parent Engagement and Transparency Strong education systems don’t operate in isolation, they are built on active, informed partnerships between schools and families.
 Parents want to be involved.
 They want to understand what their children are learning, how they are progressing, and what options are available to them.
 When that visibility is limited, trust breaks down.
-In Arizona, this conversation often centers on two things:
-- Access to information — clear, timely insight into curriculum, performance, and school decisions
-- Ability to choose — ensuring families have meaningful options that align with their child’s needs
-When families are engaged:
-- Student outcomes improve
-- Attendance and behavior improve
-- Schools are more responsive and accountable
-Arizona has taken steps in this direction, but there is more to do to ensure that:
-- Parents have clear, usable information about student progress and what is being taught
-- Communication between schools and families is consistent and transparent
-- Policies support involvement without creating unnecessary barriers, particularly important for our working families that need flexible options to stay engaged with their schools
-The goal is simple:
-Parents should feel like partners in their child’s education — not observers.
-6) Financial Literacy and Real-World Readiness
-One of the most consistent gaps in education is also one of the most practical: financial literacy.
+In Arizona, this conversation often centers on two things: Access to information — clear, timely insight into curriculum, performance, and school decisions Ability to choose — ensuring families have meaningful options that align with their child’s needs When families are engaged: Student outcomes improve Attendance and behavior improve Schools are more responsive and accountable Arizona has taken steps in this direction, but there is more to do to ensure that: Parents have clear, usable information about student progress and what is being taught Communication between schools and families is consistent and transparent Policies support involvement without creating unnecessary barriers, particularly important for our working families that need flexible options to stay engaged with their schools The goal is simple: Parents should feel like partners in their child’s education — not observers.
+6) Financial Literacy and Real-World Readiness One of the most consistent gaps in education is also one of the most practical: financial literacy.
 Many young adults leave high school without a clear understanding of how to manage money, build credit, evaluate debt, or plan for long-term financial stability.
 These skills directly affect decisions about housing, education, and career paths.
 Organizations like Junior Achievement USA have demonstrated what effective financial education can look like when it is practical, experiential, and connected to real-world decision-making.
-Programs that simulate budgeting, entrepreneurship, and career planning give students a clearer understanding of how the economy actually works. [5]
-Financial literacy is often treated as optional or secondary, rather than as a core component of preparing students for independence.
+Programs that simulate budgeting, entrepreneurship, and career planning give students a clearer understanding of how the economy actually works. [5] Financial literacy is often treated as optional or secondary, rather than as a core component of preparing students for independence.
 As a result, many young people enter adulthood learning these lessons through trial and error — often with long-term consequences.
-Strengthening financial literacy in Arizona means:
-- Integrating personal finance into core curriculum, not just electives
-- Connecting financial concepts to real-life decisions students will face immediately after graduation
-- Expanding partnerships with organizations that provide hands-on learning experiences
-- Ensuring students understand both opportunity and risk in areas like borrowing, investing, and entrepreneurship
-This is one of the most direct ways to improve long-term outcomes.
+Strengthening financial literacy in Arizona means: Integrating personal finance into core curriculum, not just electives Connecting financial concepts to real-life decisions students will face immediately after graduation Expanding partnerships with organizations that provide hands-on learning experiences Ensuring students understand both opportunity and risk in areas like borrowing, investing, and entrepreneurship This is one of the most direct ways to improve long-term outcomes.
 When young people understand how to manage money, evaluate decisions, and plan ahead, they are better positioned to navigate the same economic challenges discussed throughout this article.
-7) What to do next: practical moves Arizona can make
-Education Forward Arizona’s Achieve60AZ Action Plan highlights a set of nonpartisan priorities that are straightforward and measurable, including educator pay and retention, full‑day kindergarten and inclusive pre‑K, and sustained professional development in reading and math. [3]
-Arizona doesn’t need to invent everything from scratch.
-We need to scale what works, focus on early literacy and early childhood programming, build a “math equivalent” to the reading movement, and create stronger bridges from high school into credentials, apprenticeships, and college pathways. [3]
-Above all, we need to target outcomes that lead the nation as the standard, and no longer remain complacent with underperformance.
+7) What to do next: practical moves Arizona can make Education Forward Arizona’s Achieve60AZ Action Plan highlights a set of nonpartisan priorities that are straightforward and measurable, including educator pay and retention, full ‑ day kindergarten and inclusive pre ‑ K, and sustained professional development in reading and math. [3] Arizona doesn’t need to invent everything from scratch.
+We need to scale what works, focus on early literacy and early childhood programming, build a “math equivalent” to the reading movement, and create stronger bridges from high school into credentials, apprenticeships, and college pathways. [3] Above all, we need to target outcomes that lead the nation as the standard, and no longer remain complacent with underperformance.
 Families deserve clarity: are students learning to read, write, and do math at grade level?
 Are they graduating ready for the next step?
-Sources
-[1] Education Recovery Scorecard – Arizona state page (Harvard/Stanford collaboration), Feb 11, 2025.
-[2] Education Forward Arizona, The Future of Attainment in Arizona (Fall 2025) – attainment and workforce context.
-[3] Education Forward Arizona, Achieve60AZ Action Plan (Progress Meter).
-[4] Northern Arizona University (Arizona Institute for Education & the Economy), State 48 Graduate Profile (Dec 2025).
-[5] Junior Achievement USA, “JA Programs Overview” and financial literacy impact resources.
+Sources [1] Education Recovery Scorecard – Arizona state page (Harvard/Stanford collaboration), Feb 11, 2025. [2] Education Forward Arizona, The Future of Attainment in Arizona (Fall 2025) – attainment and workforce context. [3] Education Forward Arizona, Achieve60AZ Action Plan (Progress Meter). [4] Northern Arizona University (Arizona Institute for Education & the Economy), State 48 Graduate Profile (Dec 2025). [5] Junior Achievement USA, “JA Programs Overview” and financial literacy impact resources.
+LinkedIn Facebook Instagram TikTok X Email Us © David Scott for LD10 Thank you for Putting David Scott on the Ballot David has submitted his petition signatures.
+Thank you so much for providing your support.
+Get Involved This campaign is built by people who believe District 10 deserves thoughtful, responsible representation.
+Volunteers help in many ways, including: Canvassing and voter outreach Phone and text support Hosting small community gatherings Helping at events Supporting behind-the-scenes campaign work Volunteer Support an Independent Campaign in District 10 David Scott is not backed by a party machine.
+Contributions help fund ballot access, voter outreach, and community engagement across District 10.
+Donate Menu

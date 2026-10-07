@@ -1,6 +1,4 @@
-(678) 478-6534
-kimatlas@aol.com
-I want to join Team Karen and get involved.
-I want to receive Karen's Newsletter
-678-478-6534
-kimatlas@aol.com
+Home About Issues Georgia Healthcare The 2nd Amendment Conservative Values Public Safety Election Integrity Karen's Blog Contact Contribute Now Annual Sporting Clays Tournament Join the Team Where is the 82nd District Contribute Now 678-478-6534 Contribute Now Home About Issues Georgia Healthcare The 2nd Amendment Conservative Values Public Safety Election Integrity Karen's Blog Contact Contribute Now Annual Sporting Clays Tournament MORE Join the Team Where is the 82nd District Contact the Karen Mathiak Campaign CALL NOW New Title ﻿ Contact PHONE (678) 478-6534 EMAIL kimatlas@aol.com Opt-In I want to join Team Karen and get involved.
+Opt-In I want to receive Karen's Newsletter Thank you for contacting us.
+We will get back to you as soon as possible Oops, there was an error sending your message.
+Please try again later PHONE 678-478-6534 EMAIL kimatlas@aol.com Share by:

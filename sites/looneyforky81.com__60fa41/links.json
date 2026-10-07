@@ -1,14 +1,54 @@
 [
-"https://bsky.app/profile/looney4ky81.bsky.social",
-"https://facebook.com/profile.php?id=61571174104577",
-"https://instagram.com/looney4ky81",
-"https://looneyforky81.com/",
-"https://looneyforky81.com/about",
-"https://looneyforky81.com/cart",
-"https://looneyforky81.com/contact",
-"https://looneyforky81.com/first-responders",
-"https://looneyforky81.com/services",
-"https://looneyforky81.com/support",
-"https://secure.actblue.com/donate/looneyforkentucky",
-"https://tiktok.com/@looney.for.kentucky"
+{
+"text": "0",
+"href": "https://www.looneyforky81.com/cart"
+},
+{
+"text": "About us",
+"href": "https://www.looneyforky81.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/looney4ky81.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://www.looneyforky81.com/contact"
+},
+{
+"text": "Donate now!",
+"href": "https://secure.actblue.com/donate/looneyforkentucky%20"
+},
+{
+"text": "Email",
+"href": "mailto:looney4KY81@outlook.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61571174104577"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/looney4ky81/"
+},
+{
+"text": "Looney for Kentucky",
+"href": "https://www.looneyforky81.com/"
+},
+{
+"text": "Policy Points",
+"href": "https://www.looneyforky81.com/services"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@looney.for.kentucky"
+},
+{
+"text": "Values & Stances I",
+"href": "https://www.looneyforky81.com/support"
+},
+{
+"text": "Values & Stances II",
+"href": "https://www.looneyforky81.com/first-responders"
+}
 ]

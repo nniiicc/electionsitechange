@@ -1,5 +1,4 @@
-"It’s very important to be able to work across the aisle and to be able to reach compromise on legislation, on ideas, because we are all there for one purpose, and that is to make our community better."
-Matthew Mobilia, seasoned trial lawyer and local business owner, with a deep-rooted commitment to Staten Island, is running for public office to bring common-sense leadership to his community.
+0 Skip to Content Home Issues About CONTRIBUTE Open Menu Close Menu Home Issues About CONTRIBUTE Open Menu Close Menu Home Issues About CONTRIBUTE "It’s very important to be able to work across the aisle and to be able to reach compromise on legislation, on ideas, because we are all there for one purpose, and that is to make our community better." Matthew Mobilia, seasoned trial lawyer and local business owner, with a deep-rooted commitment to Staten Island, is running for public office to bring common-sense leadership to his community.
 His campaign focuses on four core issues that reflect the needs and values of the residents.
 First, Mobilia is dedicated to ensuring safe communities through stronger community policing, better training for law enforcement, and collaborative initiatives with community leaders.
 His comprehensive approach aims to create neighborhoods where everyone feels secure.
@@ -12,3 +11,4 @@ He promotes equality, ensures fair treatment, and defends the rights of all indi
 His campaign slogan, "Common Sense Leadership," embodies his practical and transparent approach to governance, always prioritizing the community's best interests.
 Mobilia believes in the importance of working across the aisle and reaching compromises on legislation and ideas to make the community better.
 Join Matthew Mobilia in his journey to make Staten Island a safer, more prosperous, and more equitable place for all.
+CONTACT US Address to send contribution checks or other communication by mail to Mobilia for New York: 646 Forest Ave, Fl 2, Staten Island, NY 10310 Email: mobiliafornewyork@gmail.com PAID FOR BY MOBILIA 2026 Paid for by Mobilia for New York

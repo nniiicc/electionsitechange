@@ -1,14 +1,50 @@
 [
-"https://dropbox.com/s/idh81531g96v8lz/TERESA%20LEGER%20FERNANDEZ%20BROLL%20v04.mp4",
-"https://secure.actblue.com/donate/teresa-for-nm",
-"https://teresaforall.com/",
-"https://teresaforall.com/endorsements",
-"https://teresaforall.com/issues",
-"https://teresaforall.com/media",
-"https://teresaforall.com/meet-teresa",
-"https://teresaforall.com/news",
-"https://teresaforall.com/photos",
-"https://teresaforall.com/press-releases",
-"https://teresaforall.com/videos",
-"https://teresaforall.com/volunteer"
+{
+"text": "About",
+"href": "https://www.teresaforall.com/meet-teresa"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresa-for-nm"
+},
+{
+"text": "Download",
+"href": "https://www.dropbox.com/s/idh81531g96v8lz/TERESA%20LEGER%20FERNANDEZ%20BROLL%20v04.mp4"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresaforall.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.teresaforall.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.teresaforall.com/media"
+},
+{
+"text": "News",
+"href": "https://www.teresaforall.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.teresaforall.com/photos"
+},
+{
+"text": "Press Releases",
+"href": "https://www.teresaforall.com/press-releases"
+},
+{
+"text": "Videos",
+"href": "https://www.teresaforall.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.teresaforall.com/volunteer"
+},
+{
+"text": "[image: Teresa-Full-Color.png]",
+"href": "https://www.teresaforall.com"
+}
 ]

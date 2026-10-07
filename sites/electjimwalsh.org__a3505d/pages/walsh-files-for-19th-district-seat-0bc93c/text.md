@@ -1,4 +1,4 @@
-On Monday night, Aberdeen businessman Jim Walsh made his candidacy for state representative in the 19th Legislative District official.
+Skip to content Home About News Contact Subscribe Campaign Videos Donate To Jim’s Campaign Walsh files for 19th District seat Posted on May 17, 2016 September 25, 2017 by abhays By Jake Schild The Daily World On Monday night, Aberdeen businessman Jim Walsh made his candidacy for state representative in the 19th Legislative District official.
 Walsh, a Republican who is vice chairman of the state party, filed for the district’s position 1 just after 6 p.m., according to the Grays Harbor Auditor’s Office website.
 The post is currently held by J.D.
 Rossetti, D-Longview.
@@ -14,7 +14,7 @@ Ross states no party preference, according to the Auditor’s Office website.
 Incumbent County Commissioner and Republican Wes Cormier, representing the eastern part of Grays Harbor, has also filed for re-election.
 In the 19th Legislative District Jimi O’Hagan, a Grayland cranberry farmer, filed as a Republican to run for the Position 2 House seat held by Rep.
 Brian Blake, D-Aberdeen.
-According to an article in Vanity Fair, O’Hagan is a cranberry farmer who was at the Malheur National Wildlife Refuge outside Burns, Ore. during the standoff between armed activists and police.
+According to an article in Vanity Fair , O’Hagan is a cranberry farmer who was at the Malheur National Wildlife Refuge outside Burns, Ore. during the standoff between armed activists and police.
 O’Hagan has been critical of the state’s judicial system and ran against Blake in 2014.
 Incumbent Sen.
 Dean Takko, D-Longview, has filed for his seat in the 19th District.
@@ -34,3 +34,5 @@ The seat is currently held by Ron Hatfield.
 No one has yet to file for Mike Sullivan’s Pacific and Wahkiakum Superior Court Judge Seat.
 Candidates will be able to file through Friday.
 Positions that draw more than two candidates will be subject to a primary election in August.
+Posted in Uncategorized .
+Post navigation ← OPINION: Fix homelessness by spending… Jim Walsh Endorsed by ‘Human… → Sign up to receive campaign news and updates Name * First Last Email * Paid for by Friends of Jim Walsh (R) · PO Box 2259 · Aberdeen, WA 98520 A SiteOrigin Theme

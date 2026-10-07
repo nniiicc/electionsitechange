@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with the Jackie Auringer for Congress campaign. General inquiries, press, volunteer opportunities, and endorsements.",
  "final_url": "https://winwithjackie.com/contact",
- "paid_for_by": "Paid for by Jackie Auringer for Congress \u00a9 2026 Jackie Auringer for Congress",
+ "fingerprint": "f06e37ac1367c1445e3e9612151f41f42588d7cf",
+ "format": 3,
+ "paid_for_by": "Paid for by Jackie Auringer for Congress © 2026 Jackie Auringer for Congress",
  "title": "Contact | Jackie Auringer for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

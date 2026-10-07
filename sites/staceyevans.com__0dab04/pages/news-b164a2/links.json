@@ -1,41 +1,322 @@
 [
-"http://youtube.com/@repstaceyevans",
-"https://facebook.com/StaceyEvansGA",
-"https://instagram.com/evansforgeorgia",
-"https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2",
-"https://staceyevans.com/",
-"https://staceyevans.com/cart",
-"https://staceyevans.com/contact",
-"https://staceyevans.com/ga-house-district-57",
-"https://staceyevans.com/get-involved",
-"https://staceyevans.com/issues",
-"https://staceyevans.com/meet-stacey",
-"https://staceyevans.com/news",
-"https://staceyevans.com/news/2025/03/25/evans-e-bulletin-week-10-2",
-"https://staceyevans.com/news/2025/03/25/evans-e-bulletin-week-9-2",
-"https://staceyevans.com/news/2025/03/30/evans-e-bulletin-week-11",
-"https://staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12",
-"https://staceyevans.com/news/category/2025+Legislative+Session",
-"https://staceyevans.com/news/category/News",
-"https://staceyevans.com/news/category/Uncategorized",
-"https://staceyevans.com/news/category/Update",
-"https://staceyevans.com/news/evans-examiner-week-1",
-"https://staceyevans.com/news/evans-examiner-week-1-6dep3",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg",
-"https://staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg-9g29p",
-"https://staceyevans.com/news/evans-examiner-week-1-p8w55",
-"https://staceyevans.com/news?offset=1742912524054",
-"https://staceyevans.com/privacy-policy-1",
-"https://x.com/EvansforGeorgia"
+{
+"text": "0",
+"href": "https://www.staceyevans.com/cart"
+},
+{
+"text": "2025 Legislative Session",
+"href": "https://www.staceyevans.com/news/category/2025+Legislative+Session"
+},
+{
+"text": "Contact Us",
+"href": "https://www.staceyevans.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/hELLwaBNAEaMr-t0U1Albg2"
+},
+{
+"text": "Evans E-Bulletin: Week 10",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-10-2"
+},
+{
+"text": "Evans E-Bulletin: Week 11",
+"href": "https://www.staceyevans.com/news/2025/03/30/evans-e-bulletin-week-11"
+},
+{
+"text": "Evans E-Bulletin: Week 12",
+"href": "https://www.staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12"
+},
+{
+"text": "Evans E-Bulletin: Week 9",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-9-2"
+},
+{
+"text": "Evans Examiner: Budget Week",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-6dep3"
+},
+{
+"text": "Evans Examiner: Crossover Week",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5"
+},
+{
+"text": "Evans Examiner: Sine Die Follow Up",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt"
+},
+{
+"text": "Evans Examiner: The Special Session & Governor’s Vetoes",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem"
+},
+{
+"text": "Evans Examiner: The Special Session Days 1-3",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg"
+},
+{
+"text": "Evans Examiner: The Special Session Recap",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg-9g29p"
+},
+{
+"text": "Evans Examiner: Week 1",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1"
+},
+{
+"text": "Evans Examiner: Week 10",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p"
+},
+{
+"text": "Evans Examiner: Week 11 (Sine Die!)",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm"
+},
+{
+"text": "Evans Examiner: Week 2",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-p8w55"
+},
+{
+"text": "Evans Examiner: Week 3",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr"
+},
+{
+"text": "Evans Examiner: Week 4",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek"
+},
+{
+"text": "Evans Examiner: Week 5",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6"
+},
+{
+"text": "Evans Examiner: Week 6",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n"
+},
+{
+"text": "Evans Examiner: Week 8",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj"
+},
+{
+"text": "Evans Examiner: Week 9",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b"
+},
+{
+"text": "GA House District 57",
+"href": "https://www.staceyevans.com/ga-house-district-57"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staceyevans.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.staceyevans.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://www.staceyevans.com/meet-stacey"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news"
+},
+{
+"text": "News",
+"href": "https://www.staceyevans.com/news/category/News"
+},
+{
+"text": "Older Posts",
+"href": "https://www.staceyevans.com/news?offset=1742912524054"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staceyevans.com/privacy-policy-1"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-10-2"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-9-2"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/2025/03/30/evans-e-bulletin-week-11"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-6dep3"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg-9g29p"
+},
+{
+"text": "Read More",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-p8w55"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.staceyevans.com/news/category/Uncategorized"
+},
+{
+"text": "Update",
+"href": "https://www.staceyevans.com/news/category/Update"
+},
+{
+"text": "[image: Evans E-Bulletin: Week 10]",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-10-2"
+},
+{
+"text": "[image: Evans E-Bulletin: Week 11]",
+"href": "https://www.staceyevans.com/news/2025/03/30/evans-e-bulletin-week-11"
+},
+{
+"text": "[image: Evans E-Bulletin: Week 12]",
+"href": "https://www.staceyevans.com/news/2025/04/09/evans-e-bulletin-week-12"
+},
+{
+"text": "[image: Evans E-Bulletin: Week 9]",
+"href": "https://www.staceyevans.com/news/2025/03/25/evans-e-bulletin-week-9-2"
+},
+{
+"text": "[image: Evans Examiner: Budget Week]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-6dep3"
+},
+{
+"text": "[image: Evans Examiner: Crossover Week]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5"
+},
+{
+"text": "[image: Evans Examiner: Sine Die Follow Up]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt"
+},
+{
+"text": "[image: Evans Examiner: The Special Session &amp; Governor’s Vetoes]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem"
+},
+{
+"text": "[image: Evans Examiner: The Special Session Days 1-3]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg"
+},
+{
+"text": "[image: Evans Examiner: The Special Session Recap]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm-z6sjt-rtzem-zddyg-9g29p"
+},
+{
+"text": "[image: Evans Examiner: Week 10]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p"
+},
+{
+"text": "[image: Evans Examiner: Week 11 (Sine Die!)]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b-hlw3p-h4fgm"
+},
+{
+"text": "[image: Evans Examiner: Week 1]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1"
+},
+{
+"text": "[image: Evans Examiner: Week 2]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-p8w55"
+},
+{
+"text": "[image: Evans Examiner: Week 3]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr"
+},
+{
+"text": "[image: Evans Examiner: Week 4]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek"
+},
+{
+"text": "[image: Evans Examiner: Week 5]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6"
+},
+{
+"text": "[image: Evans Examiner: Week 6]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n"
+},
+{
+"text": "[image: Evans Examiner: Week 8]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj"
+},
+{
+"text": "[image: Evans Examiner: Week 9]",
+"href": "https://www.staceyevans.com/news/evans-examiner-week-1-l7edr-jp5ek-sjfp6-p2g6n-8kwy5-naznj-6fm2b"
+},
+{
+"text": "[image: Rep. Stacey Evans]",
+"href": "https://www.staceyevans.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@repstaceyevans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StaceyEvansGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/evansforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EvansforGeorgia"
+}
 ]

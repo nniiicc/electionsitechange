@@ -1,10 +1,58 @@
 [
-"https://facebook.com/SessionsforHouse",
-"https://heathsessions.com/",
-"https://heathsessions.com/gallery",
-"https://heathsessions.com/issues",
-"https://heathsessions.com/legislation",
-"https://heathsessions.com/subscribe-follow",
-"https://heathsessions.com/ways-to-help",
-"https://secure.anedot.com/1490742b-5193-4354-adf9-808ede5ff531/donate"
+{
+"text": "$",
+"href": "https://www.heathsessions.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/1490742b-5193-4354-adf9-808ede5ff531/donate"
+},
+{
+"text": "GALLERY",
+"href": "https://www.heathsessions.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.heathsessions.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.heathsessions.com/issues"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.heathsessions.com/legislation"
+},
+{
+"text": "SUBSCRIBE & FOLLOW",
+"href": "https://www.heathsessions.com/subscribe-follow"
+},
+{
+"text": "WAYS TO HELP",
+"href": "https://www.heathsessions.com/ways-to-help"
+},
+{
+"text": "[image: Doc Icon]",
+"href": "https://www.heathsessions.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SessionsforHouse"
+},
+{
+"text": "[image: Light Bulb Icon]",
+"href": "https://www.heathsessions.com/issues"
+},
+{
+"text": "[image: Pencil Icon]",
+"href": "https://www.heathsessions.com/ways-to-help"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/1490742b-5193-4354-adf9-808ede5ff531/donate"
+},
+{
+"text": "heathsessions@schouse.gov",
+"href": "mailto:heathsessions@gmail.com"
+}
 ]

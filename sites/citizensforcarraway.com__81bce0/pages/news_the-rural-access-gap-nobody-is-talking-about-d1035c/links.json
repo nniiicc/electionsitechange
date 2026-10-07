@@ -1,33 +1,150 @@
 [
-"https://bsky.app/profile/carrawayhq.bsky.social",
-"https://citizensforcarraway.bbimerch.com/",
-"https://citizensforcarraway.com/",
-"https://citizensforcarraway.com/bio",
-"https://citizensforcarraway.com/cart",
-"https://citizensforcarraway.com/contact",
-"https://citizensforcarraway.com/endorsements",
-"https://citizensforcarraway.com/events",
-"https://citizensforcarraway.com/news",
-"https://citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought",
-"https://citizensforcarraway.com/news/tag/Public+Education",
-"https://citizensforcarraway.com/news/tag/TEFA",
-"https://citizensforcarraway.com/news/tag/Texas+Education+Freedom+Accounts",
-"https://citizensforcarraway.com/news/tag/Texas+school+vouchers",
-"https://citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers",
-"https://citizensforcarraway.com/news?author=69362c6742d9e6100b5ff59f",
-"https://citizensforcarraway.com/priorities",
-"https://citizensforcarraway.com/privacy-policy",
-"https://citizensforcarraway.com/volunteer",
-"https://facebook.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway",
-"https://instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy",
-"https://secure.actblue.com/donate/angiefor89",
-"https://threads.com/@citizensforcarraway",
-"https://tiktok.com/@carrawayhq",
-"https://tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF",
-"https://unsplash.com/@raychelsnr",
-"https://unsplash.com/photos/gray-concrete-road-under-gray-clouds-2KZGvrlnHNw",
-"https://votetexas.gov/register-to-vote",
-"https://x.com/CarrawayHQ",
-"https://youtube.com/@CarrawayHQ"
+{
+"text": "0",
+"href": "https://www.citizensforcarraway.com/cart"
+},
+{
+"text": "Angie",
+"href": "https://www.citizensforcarraway.com/news?author=69362c6742d9e6100b5ff59f"
+},
+{
+"text": "Citizens for Carraway",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.citizensforcarraway.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/angiefor89"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforcarraway.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforcarraway.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "Meet Angie",
+"href": "https://www.citizensforcarraway.com/bio"
+},
+{
+"text": "News",
+"href": "https://www.citizensforcarraway.com/news"
+},
+{
+"text": "Next Next BONUS: Who Is Getting Paid to Run Texas School Vouchers?",
+"href": "https://www.citizensforcarraway.com/news/who-is-getting-paid-to-run-texas-school-vouchers"
+},
+{
+"text": "Previous Previous BONUS: The Texas Two-Step: What $8.5 Billion Bought",
+"href": "https://www.citizensforcarraway.com/news/bonus-the-texas-two-step-what-85-billion-bought"
+},
+{
+"text": "Priorities",
+"href": "https://www.citizensforcarraway.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.citizensforcarraway.com/privacy-policy"
+},
+{
+"text": "Public Education",
+"href": "https://www.citizensforcarraway.com/news/tag/Public+Education"
+},
+{
+"text": "Raychel Sanner",
+"href": "https://unsplash.com/@raychelsnr"
+},
+{
+"text": "Register to vote",
+"href": "https://www.votetexas.gov/register-to-vote/"
+},
+{
+"text": "Shop",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "Shop Campaign Gear",
+"href": "https://citizensforcarraway.bbimerch.com/"
+},
+{
+"text": "TEFA",
+"href": "https://www.citizensforcarraway.com/news/tag/TEFA"
+},
+{
+"text": "Texas Education Freedom Accounts",
+"href": "https://www.citizensforcarraway.com/news/tag/Texas+Education+Freedom+Accounts"
+},
+{
+"text": "Texas school vouchers",
+"href": "https://www.citizensforcarraway.com/news/tag/Texas+school+vouchers"
+},
+{
+"text": "Unsplash",
+"href": "https://unsplash.com/photos/gray-concrete-road-under-gray-clouds-2KZGvrlnHNw"
+},
+{
+"text": "Volunteer",
+"href": "https://www.citizensforcarraway.com/volunteer"
+},
+{
+"text": "Voting information",
+"href": "https://www.citizensforcarraway.com/#vote"
+},
+{
+"text": "[image: Angie Carraway for Texas House District 89 seal]",
+"href": "https://www.citizensforcarraway.com/"
+},
+{
+"text": "[image] Angie",
+"href": "https://www.citizensforcarraway.com/news?author=69362c6742d9e6100b5ff59f"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/carrawayhq.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/citizensforcarraway?igsh=cjJrZDBvdGQ1aXZy"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@citizensforcarraway"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carrawayhq?_r=1&_t=ZT-9359QKKbQXF"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarrawayHQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CarrawayHQ"
+},
+{
+"text": "contact@citizensforcarraway.com",
+"href": "mailto:contact@citizensforcarraway.com"
+}
 ]

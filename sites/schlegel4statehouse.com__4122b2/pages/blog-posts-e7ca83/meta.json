@@ -1,9 +1,13 @@
 {
  "description": "Blog Posts/Recent Activity in Lebanon County 101st District.",
  "final_url": "https://www.schlegel4statehouse.com/blog-posts",
- "paid_for_by": null,
+ "fingerprint": "91ced8d27bab79c5ce7dba182d33e393fd9bc0e9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog | John Schlegel for 101st State House of Representatives",
  "years_mentioned": [
+  "2022",
+  "2024",
   "2026"
  ]
 }

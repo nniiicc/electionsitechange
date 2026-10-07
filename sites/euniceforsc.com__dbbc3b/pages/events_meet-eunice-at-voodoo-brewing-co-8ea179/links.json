@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Eunice+at+Voodoo+Brewing+Co.&dates=20260612T163000Z%2F20260612T183000Z&location=105+Jones+Street%2C+Fountain+Inn%2C+South+Carolina%2C+29644%2C+United+States",
-"http://maps.google.com/?q=105+Jones+Street+Fountain+Inn%2C+South+Carolina%2C+29644+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/meet-eunice-at-voodoo-brewing-co?format=ical",
-"https://euniceforsc.com/events/meet-eunice-in-anderson",
-"https://euniceforsc.com/events/pickens-county-democratic-party-meeting",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://fountaininn.voodoobrewery.com/",
-"https://instagram.com/euniceforsc",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=105+jones+street+fountain+inn%2C+south+carolina%2C+29644+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Eunice+at+Voodoo+Brewing+Co.&dates=20260612T163000Z%2F20260612T183000Z&location=105+Jones+Street%2C+Fountain+Inn%2C+South+Carolina%2C+29644%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/meet-eunice-at-voodoo-brewing-co?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next June 13 Pickens County Democratic Party Meeting",
+"href": "https://www.euniceforsc.com/events/pickens-county-democratic-party-meeting"
+},
+{
+"text": "Previous Previous June 3 Meet Eunice at the Carolina Bauernhaus in Anderson",
+"href": "https://www.euniceforsc.com/events/meet-eunice-in-anderson"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Voodoo Brewing Co.",
+"href": "https://fountaininn.voodoobrewery.com/"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+}
 ]

@@ -1,28 +1,13 @@
-Public Safety & Health
-Public health and public safety are fiercely intertwined.
+top of page Home Meet Tiffany Issues Affordability Public Safety & Health Economic Development Neighborhood Investment Youth Opportunity Press Volunteer More Use tab to navigate through the menu items.
+DONATE Public Safety & Health Public health and public safety are fiercely intertwined.
 Communities without safe streets and access to care fall into cycles of violence, disinvestment, and decline.
 By leveraging Maryland’s existing funds and legislation, while pushing for stronger accountability and expansion, Tiffany will fight to deliver real safety, real health, and real opportunity for the 40th District.
-The Cause
-Underinvested neighborhoods create conditions where bad decisions, harmful habits, and predatory intent take root.
+The Cause Underinvested neighborhoods create conditions where bad decisions, harmful habits, and predatory intent take root.
 Dark, unsafe streets, vacant properties, and an understaffed police force send the message that communities are abandoned.
 Without investment in prevention and opportunity, these environments become breeding grounds for crime and despair instead of places where families can thrive.
-The Effect
-- Drug activity turns blocks near schools and homes into “hot spots.”
-- Residents avoid public spaces, weakening community connections.
-- Families face cycles of addiction and untreated trauma across generations.
-- Businesses close, pharmacies and markets leave, and vacant properties multiply.
-- Emergency responses cost millions, while prevention and community healing remain underfunded.
-- Overall neighborhood health and life expectancy decline.
-Tiff's Solution
-Harm Reduction & Recovery Access
-- Expand harm reduction and treatment services within walking distance so care is accessible without stigma.
-- Ensure Maryland’s Opioid Restitution Fund (from 2025 legislation) directs resources into prevention and recovery services that partner with communities and end predatory recovery practices
-Wellness Hubs & Trauma-Informed Care
-- Strengthen partnerships with the Center for Harm Reduction Services (CHRS) and scale the Community Health Worker program (HB 871) to ensure accessible, community-based care across every neighborhood
-- Prioritize budget allocations for community wellness hubs that deliver integrated, trauma-informed, and culturally competent health and mental health services.”
-Community-Based Violence Intervention
-- Scale up violence interrupter and hospital-based intervention, with targeted funding to expand training and operations.
-- Utilize the Maryland Violence Intervention and Prevention Program (VIPP) fund to sustain resident-led violence prevention.
-Food & Health Access
-- Advance legislation to expand urban agriculture, family nutrition programs, and senior food security programs.
-- Create legislation that Incentivize grocery markets and fresh food vendors to return to underserved corridors.
+The Effect Drug activity turns blocks near schools and homes into “hot spots.” ​ Residents avoid public spaces, weakening community connections. ​ Families face cycles of addiction and untreated trauma across generations. ​ Businesses close , pharmacies and markets leave, and vacant properties multiply. ​ Emergency responses cost millions , while prevention and community healing remain underfunded. ​ Overall neighborhood health and life expectancy decline.
+Tiff's Solution ​​​ Harm Reduction & Recovery Access ​ Expand harm reduction and treatment services within walking distance so care is accessible without stigma. ​ Ensure Maryland’s Opioid Restitution Fund (from 2025 legislation) directs resources into prevention and recovery services that partner with communities and end predatory recovery practices Wellness Hubs & Trauma-Informed Care ​ Strengthen partnerships with the Center for Harm Reduction Services (CHRS) and scale the Community Health Worker program (HB 871) to ensure accessible, community-based care across every neighborhood ​ Prioritize budget allocations for community wellness hubs that deliver integrated, trauma-informed, and culturally competent health and mental health services.” ​​ Community-Based Violence Intervention ​ Scale up violence interrupter and hospital-based intervention, with targeted funding to expand training and operations. ​ Utilize the Maryland Violence Intervention and Prevention Program (VIPP) fund to sustain resident-led violence prevention.
+Food & Health Access ​ Advance legislation to expand urban agriculture, family nutrition programs, and senior food security programs. ​ Create legislation that Incentivize grocery markets and fresh food vendors to return to underserved corridors.
+Stand with Tiffany!
+JOIN THE TEAM AND GET IN THE FIGHT!
+MAKE A CONTRIBUTION VOLUNTEER TO HELP By Authority: Friends of Tiffany Welch Brittany Warren, Treasurer bottom of page

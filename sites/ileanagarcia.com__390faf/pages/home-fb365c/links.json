@@ -1,11 +1,46 @@
 [
-"https://ileanagarcia.com/",
-"https://ileanagarcia.com/about",
-"https://ileanagarcia.com/accomplishments",
-"https://ileanagarcia.com/home",
-"https://ileanagarcia.com/legislation",
-"https://secure.anedot.com/ileana-garcia-campaign/donate",
-"https://secure.anedot.com/ileana-garcia-campaign/donate?amount=100",
-"https://secure.anedot.com/ileana-garcia-campaign/donate?amount=25",
-"https://secure.anedot.com/ileana-garcia-campaign/donate?amount=50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://ileanagarcia.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://ileanagarcia.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://ileanagarcia.com/home/"
+},
+{
+"text": "Learn More",
+"href": "https://ileanagarcia.com/accomplishments"
+},
+{
+"text": "Legislative Record",
+"href": "https://ileanagarcia.com/legislation/"
+},
+{
+"text": "More",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+},
+{
+"text": "[image]",
+"href": "https://secure.anedot.com/ileana-garcia-campaign/donate"
+}
 ]

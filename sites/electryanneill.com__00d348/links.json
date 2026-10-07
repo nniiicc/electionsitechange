@@ -1,8 +1,34 @@
 [
-"https://electryanneill.com/",
-"https://electryanneill.com/about-ryan",
-"https://electryanneill.com/issues",
-"https://secure.actblue.com/donate/ryan-neill-74",
-"https://tiktok.com/@florida_ryan?_r=1&_t=ZT-95TzfPiI1La",
-"https://webador.com/"
+{
+"text": "About Ryan",
+"href": "https://www.electryanneill.com/about-ryan"
+},
+{
+"text": "Home",
+"href": "https://www.electryanneill.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electryanneill.com/issues"
+},
+{
+"text": "Skip to main content",
+"href": "https://www.electryanneill.com/#main-content"
+},
+{
+"text": "TikTok",
+"href": "https://tiktok.com/@florida_ryan?_r=1&_t=ZT-95TzfPiI1La"
+},
+{
+"text": "Webador",
+"href": "https://www.webador.com"
+},
+{
+"text": "https://secure.actblue.com/donate/ryan-neill-74",
+"href": "https://secure.actblue.com/donate/ryan-neill-74"
+},
+{
+"text": "info@electryanneill.com",
+"href": "mailto:info@electryanneill.com"
+}
 ]

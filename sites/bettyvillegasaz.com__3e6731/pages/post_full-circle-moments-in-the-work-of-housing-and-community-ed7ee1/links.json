@@ -1,12 +1,46 @@
 [
-"https://bettyvillegasaz.com/",
-"https://bettyvillegasaz.com/about-betty",
-"https://bettyvillegasaz.com/about-ld-20",
-"https://bettyvillegasaz.com/blog",
-"https://bettyvillegasaz.com/contact",
-"https://bettyvillegasaz.com/important-issues",
-"https://bettyvillegasaz.com/privacy-policy",
-"https://bettyvillegasaz.com/re-elect-villegas",
-"https://bettyvillegasaz.com/team-4",
-"https://bettyvillegasaz.com/terms-and-conditions"
+{
+"text": "ABOUT BETTY",
+"href": "https://www.bettyvillegasaz.com/about-betty"
+},
+{
+"text": "ABOUT LD 20",
+"href": "https://www.bettyvillegasaz.com/about-ld-20"
+},
+{
+"text": "All Posts",
+"href": "https://www.bettyvillegasaz.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.bettyvillegasaz.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.bettyvillegasaz.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.bettyvillegasaz.com/team-4"
+},
+{
+"text": "OUR ISSUES",
+"href": "https://www.bettyvillegasaz.com/important-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bettyvillegasaz.com/privacy-policy"
+},
+{
+"text": "RE-ELECT BETTY",
+"href": "https://www.bettyvillegasaz.com/re-elect-villegas"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.bettyvillegasaz.com/terms-and-conditions"
+},
+{
+"text": "Villegas for AZ",
+"href": "https://www.bettyvillegasaz.com"
+}
 ]

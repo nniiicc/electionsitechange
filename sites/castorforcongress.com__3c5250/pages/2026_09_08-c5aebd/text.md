@@ -1,2 +1,3 @@
-(Florida Politics) Union leaders rally around Kathy Castor after she helps save 700 jobs at Tampa International Airport
-‘Ensuring the safety and security of the flying public is too important to contract out to the lowest bidder.’ Read More
+Click here to re-request your vote by mail ballot. × Skip to content Home About Kathy Delivering for Florida News Volunteer Home About Kathy Delivering for Florida News Volunteer Join Us Donate Now Day: September 8, 2026 (Florida Politics) Union leaders rally around Kathy Castor after she helps save 700 jobs at Tampa International Airport ‘Ensuring the safety and security of the flying public is too important to contract out to the lowest bidder.’ Read More Home About Kathy Delivering for Florida News Volunteer Home About Kathy Delivering for Florida News Volunteer Facebook X-twitter Youtube Instagram 301 W Platt Street, #385 Tampa, FL 33606 © # Castor for Congress.
+All rights reserved.
+PAID FOR BY CASTOR FOR CONGRESS Privacy Policy and Terms of Service

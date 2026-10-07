@@ -1,5 +1,5 @@
-Meet Jason
-Jason Guidone’s life has always been rooted in family, faith, and community.
+top of page HOMEPAGE MY PLAN MEET JASON OUT & ABOUT NEWS GET INVOLVED CONTACT More Use tab to navigate through the menu items.
+Meet Jason Jason Guidone’s life has always been rooted in family, faith, and community.
 Born in Wallingford, Connecticut, Jason comes from a long line of local history — a descendant of John Ives, one of Wallingford’s early founding families who served in the Revolutionary War as part of General George Washington’s personal guard.
 That legacy of service has shaped Jason’s belief that leadership is about responsibility, integrity, and putting others first.
 Today, Jason proudly calls Hebron home.
@@ -15,3 +15,7 @@ He’s running to serve the towns of the 19th District with common sense, honest
 To Jason, leadership isn’t about titles.
 It’s about showing up, listening, and standing up for your neighbors.
 And that’s exactly what he intends to do.
+Contact: info@guidoneforsenate.com © # by Jason Guidone for Senate.
+Privacy Policy Paid for by Jason Guidone for Senate.
+Patricia George, Treasurer.
+Approved by Jason Guidone. bottom of page

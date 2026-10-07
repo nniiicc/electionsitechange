@@ -1,15 +1,12 @@
-Why I am Voting for Aly Richards (and I think you should too)
-Voting in the primary has started, and I am here to explain why I support Aly Richards for Governor, and why I think you should too.
+0 Skip to Content Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Why I am Voting for Aly Richards (and I think you should too) Jul 2 Written By Abbey Duke Voting in the primary has started, and I am here to explain why I support Aly Richards for Governor, and why I think you should too.
 I spent 21 years growing a small business in Burlington.
 And for the past two years I have been a state legislator.
-Those are wildly different roles — and these same two lessons apply:
-Number one: Sometimes, the least helpful sentences can start with "I have an idea…" Ideas are easy; implementation is much, much harder.
+Those are wildly different roles — and these same two lessons apply: Number one: Sometimes, the least helpful sentences can start with "I have an idea…" Ideas are easy; implementation is much, much harder.
 We need a Governor — like Aly — who has shown that she can be effective in the tedious, difficult, painstaking work of implementation, not just focus on broad ideas.
 In Vermont, we have broad consensus about what our problems are.
 You all know (and feel) what they are.
 We don't have enough housing; we are being crushed by health care costs; we face a demographic crisis.
-And the list continues…
-Aly spent 10 years leading the successful movement to reform the child care system in Vermont.
+And the list continues… Aly spent 10 years leading the successful movement to reform the child care system in Vermont.
 This was not one simple idea.
 This was concerted, unrelenting work to build and implement reforms at every level of the system.
 To get there, she talked to, listened to, and built collaborations with everyone — and I mean everyone: business leaders, parents, taxpayers, elected officials from all parties.
@@ -35,3 +32,4 @@ She is the leader we need.
 If you haven't voted yet, please do.
 Primaries have low turnout, and every vote matters.
 You can request a ballot from the Secretary of State, vote in person at your town or city clerk's office, or go to your polling location on August 11.
+Abbey Duke Next Next It’s the Economy… Donate Contact aduke@leg.state.vt.us Paid for by Abbey Duke for Vermont 82 Village Green Burlington, VT 05408 Private Policy

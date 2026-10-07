@@ -1,4 +1,5 @@
-| The Center Square covered a proposal in the Maine Legislature to establish a fund helping lawmakers secure their homes following a rise in threats against elected officials.
-The article referenced LD 650, a bill sponsored by Sen.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Maine Considers Fund for Lawmakers' Security Systems 6/13/2026 0 Comments The Center Square covered a proposal in the Maine Legislature to establish a fund helping lawmakers secure their homes following a rise in threats against elected officials.
+The article referenced LD 650 , a bill sponsored by Sen.
 Pierce, and noted Senator Bailey among the legislators who support measures to address the personal safety concerns facing Maine lawmakers.
-The piece highlighted growing national concerns about the safety of public servants and the need for practical security support. | Blog Latest News Archives Categories |
+The piece highlighted growing national concerns about the safety of public servants and the need for practical security support. read more 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

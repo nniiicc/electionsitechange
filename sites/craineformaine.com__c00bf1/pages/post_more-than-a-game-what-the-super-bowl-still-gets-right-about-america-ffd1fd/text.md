@@ -1,5 +1,5 @@
-More Than a Game: What the Super Bowl Still Gets Right About America
-I’ll admit it right up front: I love football.
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search More Than a Game: What the Super Bowl Still Gets Right About America Jantzen Craine Feb 6 3 min read I’ll admit it right up front: I love football.
 I look forward to the Super Bowl every year — not just for the game itself, but for what it brings with it.
 After church on Sunday, my family and I will gather with friends from church, share some food, laugh a lot, and enjoy a few hours of friendly rivalry and good company.
 Church comes first, always.
@@ -73,3 +73,9 @@ No lectures.
 No mandates.
 Just a game — and the quiet reminder that shared experiences still have the power to bring us together.
 And honestly, for a country that could use a little more of that, it’s more than just a game.
+Recent Posts See All When Energy Policy Costs Maine Jobs Trust in Government Starts with Transparency Why the Middle East Will Never Truly Be at Peace HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

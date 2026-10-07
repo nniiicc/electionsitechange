@@ -1,5 +1,5 @@
-By Scott DesJarlais, | Fox News
-Do any of these lines sound familiar?
+Skip to content Home About Dr.
+Scott Issues Endorsements Donate news > ObamaCare boosters are wrong about the American Health Care Act – just like they were about ObamaCare ObamaCare boosters are wrong about the American Health Care Act – just like they were about ObamaCare Posted by admin on June 1, 2017 By Scott DesJarlais, | Fox News Do any of these lines sound familiar?
 If you like your doctor, you can keep your doctor.
 If you like your insurance plan, you can keep it.
 The Affordable Care Act will cut your yearly premiums by $2,500.
@@ -41,3 +41,7 @@ The object is to bring transparency to a process that’s become too convoluted 
 The price of an office visit or medical procedure shouldn’t be such a mystery.
 The truth is that Republicans are working hard to undo the damage ObamaCare has done and improve health care in America for all of us.
 We’re putting patients first.
+Republican Scott DesJarlais represents Tennessee’s 4th congressional district. https://www.foxnews.com/opinion/obamacare-boosters-are-wrong-about-the-american-health-care-act-just-like-they-were-about-obamacare news Written by admin Follow Scott: Home About Dr.
+Scott Issues Endorsements Donate Dr.
+Scott DesJarlais PO Box 90133 Nashville, TN 37209 Paid for by Friends of Scott DesJarlais Pol.
+Adv. paid for by Dustin Burrows Campaign.

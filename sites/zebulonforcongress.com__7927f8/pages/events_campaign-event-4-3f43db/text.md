@@ -1,11 +1,3 @@
-Back to All Events
-Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Thursday, March 19, 2026 7:00 PM 8:30 PM Bay Community College heirman Center, Room 952 2001 N Lincoln Escanaba MI (map) Google Calendar ICS Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
 This is an opportunity to learn more about Zebulon Featherly’s positions on the issues affecting Northern Michigan, ask questions, and participate in an open discussion about the future of our region.
-Hosted by Delta County Unified
-Previous
-Previous
-March 18
-Online Town Hall/Q&A
-Next
-Next
-March 21
+Hosted by Delta County Unified Previous Previous March 18 Online Town Hall/Q&A Next Next March 21 Candidate Forum

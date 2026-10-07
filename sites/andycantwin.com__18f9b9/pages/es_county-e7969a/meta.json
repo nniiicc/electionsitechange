@@ -1,12 +1,25 @@
 {
- "description": "Sigue una cuenta de impuesto predial de $1,000 por el condado de Forsyth o Stokes y mira c\u00f3mo la pol\u00edtica estatal hace que la cuenta siga subiendo, y qu\u00e9 hay en tu boleta de noviembre.",
+ "description": "Sigue una cuenta de impuesto predial de $1,000 por el condado de Forsyth o Stokes y mira cómo la política estatal hace que la cuenta siga subiendo, y qué hay en tu boleta de noviembre.",
  "final_url": "https://andycantwin.com/es/county/",
- "paid_for_by": null,
- "title": "\u00bfPor qu\u00e9 tu impuesto predial sigue subiendo? | Andy Bowline",
+ "fingerprint": "9667eacf4d8193db524e4479dc40fac54e26d293",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "¿Por qué tu impuesto predial sigue subiendo? | Andy Bowline",
  "years_mentioned": [
+  "1953",
+  "1963",
+  "1973",
+  "1986",
+  "1987",
+  "1996",
+  "2001",
   "2013",
+  "2018",
   "2023",
   "2024",
-  "2026"
+  "2025",
+  "2026",
+  "2030",
+  "2033"
  ]
 }

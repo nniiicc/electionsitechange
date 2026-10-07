@@ -1,9 +1,9 @@
 {
  "description": "Explore Shaktoolik and support Neal Foster&#39;s campaign for District 39. Join the conversation today!",
  "final_url": "https://fosterforhouse.com/shaktoolik",
- "paid_for_by": null,
+ "fingerprint": "c7cfa21b7bd547b54c2e07531df07afdb044fafd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Shaktoolik",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

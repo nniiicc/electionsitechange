@@ -1,5 +1,4 @@
-By Congressman Mark Desaulnier
-Although policymakers have been attempting to shift the economy from fossil fuels to renewable sources of energy for years now, the coronavirus pandemic jump-started that process.
+Skip to content Home Meet Mark Endorsements Issues Get Involved Civic Engagement Facebook Twitter Instagram Phone Email Main Menu East Bay Times Op-Ed: Bay Area, nation must prepare for clean-energy transition In The News / April 9, 2021 April 29, 2021 By Congressman Mark Desaulnier Although policymakers have been attempting to shift the economy from fossil fuels to renewable sources of energy for years now, the coronavirus pandemic jump-started that process.
 COVID-19 travel restrictions and far fewer commuters during the pandemic have caused a major decrease in fossil fuel consumption.
 But the pandemic is not a blip on the radar.
 The energy transition is upon us, whether we’re ready or not.
@@ -26,3 +25,7 @@ With this legislation, we can help sustain the growth of the EV market, which me
 This initiative is the result of dozens of meetings with Contra Costa stakeholders over the past several years, including fellow Rep.
 Mike Thompson, whose district includes refineries, local mayors, county officials, environmental activists, labor leaders, industry and university researchers.
 With a calculated, thoughtful and proactive approach to the energy transition, we can ensure that no worker is left behind, our environment is protected, and our economy grows.
+View the opinion editorial.
+Post navigation ← Previous Post Next Post → Newsroom: In The News Message from Congressman DeSaulnier: Press Release Recent News: The countdown to my Shadelands fundraiser is on!
+August 15, 2024 Filed my papers to continue representing CA-10 in Congress!
+August 13, 2024 Copyright © # Mark DeSaulnier For Congress Home Meet Mark Endorsements Issues Get Involved Civic Engagement

@@ -1,4 +1,4 @@
-Senator Lisa Krasner learned her work ethic from her father who immigrated to the United States and became a citizen.
+Home Donate Meet Lisa Issues Contact Lisa BLOG Lisa Krasner for Nevada NV State Senator Lisa Krasner Home Donate Meet Lisa Issues Contact Lisa BLOG Meet Lisa Lisa Krasner Senator Lisa Krasner learned her work ethic from her father who immigrated to the United States and became a citizen.
 He stood in line, filled out the forms, and taught himself how to read, write and speak English, and he worked hard to provide for his family.
 From her father Lisa learned that she could accomplish anything if she worked hard.
 Education is important to Lisa.
@@ -28,8 +28,7 @@ Lisa also serves on the National Board of Directors of Women In Government, an o
 Additionally, she serves on the Board of Directors of The National Foundation for Women Legislators.
 Lisa has received numerous honors and awards as a Legislator, including the National Woman of Achievement and Distinction Award.
 She also received the National Rising Star Award from Governing, Inc.
-Lisa has been called “A Rising Star and One to Watch”
-Lisa was elected by the people as the NV State Assemblywoman for District 26 on November 8, 2016.
+Lisa has been called “A Rising Star and One to Watch” Lisa was elected by the people as the NV State Assemblywoman for District 26 on November 8, 2016 .
 She served for three Regular Sessions and three Special Sessions in the Nevada State Assembly.
 During the 2017 Nevada Legislative Session, Lisa served on four Legislative Committees: Judiciary, Corrections, Parole & Probation, Education, and Natural Resources & Mining.
 She served as the Minority Chair for Corrections, Parole and Probation.
@@ -56,8 +55,7 @@ Lisa went on to win the November General Election on November 8, 2022.
 Lisa was elected by the people as the State Senator for Nevada Senate District 16 on November 8, 2022.
 Lisa first served in her capacity as a Nevada State Senator during the 2023 NV Legislative Session.
 During the 2023 NV legislative Session, she served on The Senate Judiciary Committee, Senate Government Affairs Committee, and Senate Legislative Operations and Elections Committee.
-In 2023, Lisa sponsored various Legislation such as:
-1.
+In 2023, Lisa sponsored various Legislation such as: 1.
 Public Safety- Abolish the Statute of Limitations for sexual assault of adults in civil actions.
 Previously the Statute of Limitations was only two years.
 This will keep the court room doors open for survivors of sexual assault. – This bill passed unanimously in both houses of the Legislature and was signed into law.
@@ -81,62 +79,48 @@ If they cannot afford on, one will be provided to them free of charge.
 This bill did not pass.
 During the 2025 Nevada Legislative Session Lisa again successfully passed bi-partisan legislation: She sponsored a Bill that created International Holocaust Remembrance Day in the State of Nevada.
 And she sponsored and passed into law a Senate Joint Resolution for our US Veterans, urging Congress to allow the surviving spouse of a deceased US Veteran to receive an amount equal to the Veteran’s military retirement pay after the veteran’s death.
-Lisa served as the Senator for District 16 in the 2023 NV Legislative Session, and 2025 NV Legislative Session as well as in the 34th Special Session of the NV Legislature, 35th Special Session of the NV Legislature, and 36th Special Session of the NV Legislature.
-………………………………………………………………………………………………….
-2017 Nevada Legislative Session– My proudest moment of the 2017 Nevada Legislative session was working side by side with civil rights attorney Gloria Allred on AB145, and changing the law for Child Victims of Sexual Abuse- I invited every member of the Legislature to sign on to my Bill.
+Lisa served as the Senator for District 16 in the 2023 NV Legislative Session, and 2025 NV Legislative Session as well as in the 34th Special Session of the NV Legislature, 35th Special Session of the NV Legislature, and 36th Special Session of the NV Legislature. ………………………………………………………………………………………………….
+Gloria Allred, Governor Sandoval, Lisa Krasner at Bill signing for AB145-Child victims of sexual abuse 2017.
+2017 Nevada Legislative Session – My proudest moment of the 2017 Nevada Legislative session was working side by side with civil rights attorney Gloria Allred on AB145, and changing the law for Child Victims of Sexual Abuse- I invited every member of the Legislature to sign on to my Bill.
 AB145 passed unanimously in the Assembly & Senate with every Republican & Democrat voting YES, and Governor Sandoval signed it into law.
-AB145-(2017) Assemblywoman Lisa Krasner- Child Victims of Sexual Abuse -February 13, 2017
-Extends the statute of limitations for certain civil actions for damages for injuries incurred as a child as a result of sexual abuse or pornography.
-(BDR 2-584)
-Summary: Extends the statute of limitations for certain civil actions for damages for injuries incurred as a child as a result of sexual abuse or pornography.
-(BDR 2-584) Introduction Date: Monday, February 13, 2017
-Digest: This bill extends the time by which a civil action to recover damages arising from the sexual abuse of a person who is less than 18 years of age must be commenced from 10 years to 20 years after the person reaches 18 years of age or discovers or should have discovered that an injury was caused by the sexual abuse, whichever is later.
+AB145-(2017) Assemblywoman Lisa Krasner- Child Victims of Sexual Abuse -February 13, 2017 Extends the statute of limitations fo r certain civil actions for damages for injuries incurred as a child as a result of sexual abuse or pornography.
+(BDR 2-584) Summary: Extends the statute of limitations for certain civil actions for damages for injuries incurred as a child as a result of sexual abuse or pornography.
+(BDR 2-584) Introduction Date: Monday, February 13, 2017 Digest: This bill extends the time by which a civil action to recover damages arising from the sexual abuse of a person who is less than 18 years of age must be commenced from 10 years to 20 years after the person reaches 18 years of age or discovers or should have discovered that an injury was caused by the sexual abuse, whichever is later.
 This bill also extends the time by which a civil action to recover damages arising from the appearance of a person who is less than 16 years of age in pornographic material must be commenced from 3 years to 20 years after the person reaches 18 years of age or after a court enters a verdict in a related criminal case, whichever is later.
-Primary Sponsor-Assemblywoman Lisa Krasner
-AB164-(2017) Assemblywoman Lisa Krasner- VOTER ID- February 13, 2017
-Reno Gazette Journal- Seth Richardson- “Amid national concerns that voter fraud is rampant, Reno Assemblywoman Lisa Krasner introduced a Bill requiring Voter Identification at the polls.” Assemblywoman Lisa Krasner (R) introduced Assembly Bill 164 on Monday, that would mandate voters show identification when voting.
-The bill also requires the Department of Motor Vehicles to provide voter identification at no cost if a person cannot afford it.
-……………………………………………………………………………………………………………..
-2019 Nevada Legislative Session- Lisa’s Bills-
-Lisa Krasner is an advocate for victim’s rights-–
-During the 2019 NV Legislature, Lisa served as the Whip for the Assembly Republican Caucus.
+Primary Sponsor-Assemblywoman Lisa Krasner AB164-(2017) Assemblywoman Lisa Krasner- VOTER ID- February 13, 2017 Reno Gazette Journal- Seth Richardson- “Amid national concerns that voter fraud is rampant, Reno Assemblywoman Lisa Krasner introduced a Bill requiring Voter Identification at the polls.” Assemblywoman Lisa Krasner (R) introduced Assembly Bill 164 on Monday, that would mandate voters show identification when voting.
+The bill also requires the Department of Motor Vehicles to provide voter identification at no cost if a person cannot afford it. ……………………………………………………………………………………………………………..
+Lisa Krasner with Governor Sisolak at Bill Signing 2019 2019 Nevada Legislative Session- Lisa’s Bills- Lisa Krasner is an advocate for victim’s rights- – During the 2019 NV Legislature, Lisa served as the Whip for the Assembly Republican Caucus.
 Despite today’s hyper-partisan political environment, I was able to reach across the aisle and work in a bipartisan manner with Democrats to address issues important to all Nevadans.
 Six of my bills passed this session, all unanimously.
-These bills dealt with:
-AB 142 -Sexual assault- removes the time limitation for prosecution of sexual assault if there is DNA evidence.
+These bills dealt with: AB 142 -Sexual assault- removes the time limitation for prosecution of sexual assault if there is DNA evidence.
 Addresses the rape-kit backlog.
-AB 410 -Public Safety/ Domestic violence- extends the time a temporary order for protection remains in effect from 30 days to 45 days.
-AB 120 -Sex trafficking- expands the definition of sex trafficking to include exchanges of non-monetary items such as drugs, phones and other items of value
-AB 261- Education/Children/Child sexual abuse- requires schools to report on training for teachers/administrators regarding personal safety of children and reporting child sexual abuse cases to law enforcement
-SB 368- Sex trafficking victims, addresses the rape-kit backlog in Nevada.
+AB 410 -Public Safety/ Domestic violence- extends the time a temporary order for protection remains in effect from # days to # days.
+AB 120 -Sex trafficking- expands the definition of sex trafficking to include exchanges of non-monetary items such as drugs, phones and other items of value AB 261- Education/Children/Child sexual abuse- requires schools to report on training for teachers/administrators regarding personal safety of children and reporting child sexual abuse cases to law enforcement SB 368- Sex trafficking victims, addresses the rape-kit backlog in Nevada.
 Creates a survivor’s bill of rights.
-Co-sponsored with Senator Spearman
-SB 279- Government Accountability- requiring the board of trustees of a General Improvement District to follow certain procedures before selling real property .
+Co-sponsored with Senator Spearman SB 279- Government Accountability- requiring the board of trustees of a General Improvement District to follow certain procedures before selling real property .
 Co-sponsored with Senator Kieckhefer.
-2021 Nevada Legislative Session –
-During the 2021 NV legislative Session Lisa served as the Whip for the Assembly Republican Caucus.
-RENO GAZETTE JOURNAL NEWSPAPER- by Lisa Krasner-July 2021
-We have a new Administration in Washington, D.C. yet federal politics remain as divisive as ever.
+Lisa Krasner wins November 2020 Nevada General Election Lisa Krasner passes new law helping disabled veterans 2021 Nevada Legislative Session – During the 2021 NV legislative Session Lisa served as the Whip for the Assembly Republican Caucus.
+RENO GAZETTE JOURNAL NEWSPAPER- by Lisa Krasner-July 2021 We have a new Administration in Washington, D.C. yet federal politics remain as divisive as ever.
 Most Americans are sick of partisan politics; elected representatives who refuse to co-operate with people of other political parties, regardless of the issue.
 While I do not compromise on principles, I believe that working together on non- partisan issues that are important to everyone, regardless of their political party affiliation, is in the best interest of the people.
 The 81st Nevada Legislative Session ended “Sine Die” on May 31, 2021.
 I write today to inform you of the hard work that I did on your behalf during the 120 day Legislative Session.
 I am proud to announce that six of the Bills that I sponsored were signed into law.
 I worked together with Republicans and Democrats, to create bi-partisan legislation to benefit all Nevadans.
-2021 Legislative Session– Lisa’s Bills –
-1.
+2021 Legislative Session – Lisa’s Bills – 1.
 AB 102 -For Disabled Veterans-(With Asm Flores)- This Bill allows honorably discharged United States Veteran’s to enter Nevada State Parks for free.
 This was one of the top priorities for the Nevada State Veterans Association.
 2.
 AB 143- For victims of Human Trafficking- (With Asm.
 Bilbray-Axelrod)-This Bill creates the State of Nevada Human Trafficking Coalition, and a statewide Resources Web page for victims of human trafficking.
 This Bill will help local human trafficking task forces in Nevada to cooperate, communicate, and coordinate on a statewide level and allow Nevada to receive increased federal funding.
-3.AB 251– Children/Juvenile Justice-(With Asm.
+3.
+AB 251 – Children/Juvenile Justice-(With Asm.
 Nguyen)- This Bill allows children to have their juvenile court record automatically sealed at age eighteen years old and allows them to petition the court to have their juvenile record expunged if the crime was a Misdemeanor or less.
 (Did you know a minor can be arrested for a Misdemeanor for drinking a beer in public?) This previously created a permanent criminal record for a child age seventeen or younger, hindering their acceptance into college and their chances of getting a job.
 This will give our kids a fresh start and a second chance.
 4.
-AB 333– Land Use Planning/Affordable Housing- (With Asm.
+AB 333 – Land Use Planning/Affordable Housing- (With Asm.
 Roberts)- This Bill addressed a loophole in the law to help persons working in the building & construction industry to create jobs and build the affordable Housing that we need in Nevada.
 5.
 AB 231 – Holocaust and other Genocide Education in our schools-(With Asm.
@@ -147,51 +131,42 @@ Discrimination in any form is wrong.
 AB 344 -Senior Citizens and Disabled Persons-(With Asm.
 Thomas)- This Bill will help with the transition of older persons and persons with disabilities when discharged from a hospital to their places of residence.
 Staff will review with the patient what medications they need to order, and who to contact for their next appointment.
-………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………….
-2023 NV Legislative Session-
-During the 2023 NV Legislative Session , Lisa served as Whip for the Senate Republican Caucus.
-2023 NV Legislative Session- Lisa’s Bills:
-1.
-Senate Bill 129– Public Safety– Abolish the Statute of Limitations for Sexual Assault of adults in civil actions.
+Assemblywoman Lisa Krasner at Bill signing for Disabled Veterans with Governor Sisolak – 2021 ………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………….
+Senator Lisa Krasner with Governor Joseph Lombardo at Bill signing -2023 2023 NV Legislative Session- During the 2023 NV Legislative Session , Lisa served as Whip for the Senate Republican Caucus.
+2023 NV Legislative Session- Lisa’s Bills : 1.
+Senate Bill 129 – Public Safety – Abolish the Statute of Limitations for Sexual Assault of adults in civil actions.
 Previously the Statute of Limitations was only two years.
 This will keep the court room doors open for survivors of sexual assault. – This bill passed unanimously in both houses of the Legislature and was signed into law.
 2.
-Senate Bill 321– Public Safety– Mandate that the DNA from a victim/survivors rape kit or sexual assault investigation can only be used to solve the crime or apprehend the perpetrator.
+Senate Bill 321 – Public Safety – Mandate that the DNA from a victim/survivors rape kit or sexual assault investigation can only be used to solve the crime or apprehend the perpetrator.
 Strengthens the Sexual Assault Survivors Bill of Rights.
 This was a Fourth Amendment privacy concern.
 This bill passed unanimously in both houses of the Legislature and was signed into law.
 3.
-Senate Bill 219– NV Special Olympics– Request for funding to open a Charter for Special Olympics in the State of Nevada and expand opportunities for persons with intellectual disabilities.
+Senate Bill 219 – NV Special Olympics – Request for funding to open a Charter for Special Olympics in the State of Nevada and expand opportunities for persons with intellectual disabilities.
 This passed in a separate bill.
 4.
-Senate Bill 130– Limited Government/Checks & Balances– Limit the Governor’s Emergency powers to 30 Days.
+Senate Bill 130 – Limited Government/Checks & Balances – Limit the Governor’s Emergency powers to 30 Days.
 This Bill would limit any Nevada Governor’s Emergency powers to thirty days, and allow the Legislature to be called into a Special Session, and encourage input from the citizens and experts.
 This did not pass.
 5.
-Senate Bill 285; 236- Civics Education– Lisa co-sponsored a Bill for the “We The People” high school Civics Competition in Nevada.
+Senate Bill 285; 236- Civics Education – Lisa co-sponsored a Bill for the “We The People” high school Civics Competition in Nevada.
 This bill passed.
-Lisa also co-sponsored a bill on Voter ID– All citizens must show a valid photo Identification to vote.
+Lisa also co-sponsored a bill on Voter ID – All citizens must show a valid photo Identification to vote.
 If they cannot afford on, one will be provided to them free of charge.
 This bill did not pass.
 Lisa served as the Senator for NV Senate District 16 in the 2023 NV Legislative Session, as well as in the 34th Special Session and 35th Special Session of the NV Legislature.
 Lisa also served as the Senator for NV Senate District 16 in the 2025 NV Legislative Session and the 36th NV Special Session.
-Senator Lisa Krasner is the Incumbent in State Senate District 16.
-……………………………………………………………………………………………………………………………………………………………………….
-……………………………………………………………………………………………………………………………………………………..
-2024 NV Legislature Interim Committees– During the 2024 Interim, Lisa served on four Interim Committees.
-1.The Legislative Commission
-2.The Judiciary Committee
-3.Senior Citizens, Veterans and Persons with Disabilities Committee.
-4.The NV Sentencing Commission
-“ I want to thank you for your input during the Nevada Legislative session.
+Senator Lisa Krasner is the Incumbent in State Senate District 16. ……………………………………………………………………………………………………………………………………………………………………….
+Senate Republican Caucus – Nevada Legislature 2023 ……………………………………………………………………………………………………………………………………………………..
+2024 NV Legislature Interim Committees – During the 2024 Interim, Lisa served on four Interim Committees.
+1.The Legislative Commission 2.The Judiciary Committee 3.Senior Citizens, Veterans and Persons with Disabilities Committee.
+4.The NV Sentencing Commission “ I want to thank you for your input during the Nevada Legislative session.
 The concerns of my constituents are very important to me in deciding how to vote on a particular issue.
 Serving as your State Senator is a responsibility that I take very seriously.
 I am dedicated to making Nevada an even better place to live, work and raise a family.
-It is an honor to represent you in your government.”
-–
-Remembrance Day in Nevada- 2025.
-–
-by Governor Lombardo. 2026
-to State Senate District 16.
-………………..
-Lisa Krasner Endorsed by NRA- National Rifle Association: “A” Rated Pro-2nd Amendment
+It is an honor to represent you in your government.” Senator Lisa Krasner volunteers with the Salvation Army December 2024 – Senator Lisa Krasner with Governor Lombardo at Bill signing for International Holocaust Remembrance Day in Nevada- 2025.
+Senator Krasner with Governor Lombardo for Bill Signing 2025.
+Lisa Krasner files candidacy for Re-Election for Senate District 16 with NV Secretary of State -2026 – Senator Lisa Krasner Endorsed for Re-Election to State Senate District 16 seat by Governor Lombardo.
+2026 Senator Lisa Krasner Endorsed by Nevada Law Enforcement for Re-Election to State Senate District 16. ………………..
+Lisa Krasner Endorsed by NRA- National Rifle Association: “A” Rated Pro-2nd Amendment PAID FOR BY LISA KRASNER FOR NEVADA

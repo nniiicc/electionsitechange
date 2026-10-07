@@ -1,6 +1,4 @@
-Sign Up For Updates
-About Doug
-As a multi-generation Idaho rancher, Doug Pickett knows the value of preserving our Idaho values for future generations.
+Skip to content About Doug Issues Volunteer Donate “As your State Representative, I will defend your conservative principles in Boise and ensure rural Idaho remains a great place to live, work and raise a family.” - Republican Doug Pickett Sign Up For Updates Email Address * Submit Contribute $25 $50 $100 Other About Doug As a multi-generation Idaho rancher, Doug Pickett knows the value of preserving our Idaho values for future generations.
 For over 140 years his family has worked the land his great-grandfather, Moroni Pickett, settled back in 1882.
 Pickett was born in Twin Falls and graduated from Oakley High School.
 He served a church mission in Germany shortly after the fall of the Berlin wall, witnessing first hand the plight of those trapped under repressive government regimes.
@@ -18,18 +16,13 @@ He also served nearly 20 years as a member of the Republican state central commi
 Pickett and his brothers own and operate Pickett Ranch, producing wheat, potatoes, natural beef, and grass fed lamb.
 The highlight of his life has been being able to work with his sons, the fifth generation of Pickett’s, on the land that they love.
 They are an important part of the reason why he is running to preserve and protect the Idaho way of life.
-Doug Pickett on the Issues
-Promoting our Natural Resources
-Doug knows that water is critical to our Ag-based economy.
+Doug Pickett on the Issues Promoting our Natural Resources Doug knows that water is critical to our Ag-based economy.
 As a farmer and rancher, he understands the complexities of water issues and he will work with legislators across the state to protect our farmer’s access to water for their crops.
-Limiting our Government
-Doug believes that a limited government is the cornerstone of personal freedom.
+Limiting our Government Doug believes that a limited government is the cornerstone of personal freedom.
 He is committed to reducing government intrusion in our daily lives, cutting unnecessary programs, and streamlining services to serve citizens more efficiently.
-Protecting Traditional Family Values
-Doug understands that the family is the foundation of society.
+Protecting Traditional Family Values Doug understands that the family is the foundation of society.
 He will support policies that encourage and strengthen parent/child relationships and ensure that government does not unnecessarily interfere with a parent’s right to raise their children.
-Our District
-The new 27th Legislative district includes Oneida, Minidoka and Cassia counties.
+Our District The new 27th Legislative district includes Oneida, Minidoka and Cassia counties.
 It is also home to great Idahoans in the towns of Malad, Holbrook, Malta, Albion, Almo, Oakley, Declo, Burley, Heyburn, Paul, Rupert, Acequia, Minidoka and their surrounding areas.
-Join the Team
-Complete the form below to help send Doug Pickett to the State House of Representatives.
+Contribute $25 $50 $100 Other Join the Team Complete the form below to help send Doug Pickett to the State House of Representatives.
+Full Name * Email * Mobile Phone * Zip Code * Sign Up for Volunteer Updates Sign Up for Volunteer Updates Submit Privacy Policy Paid for by Pickett for Idaho, Ben Gibby Treasurer About Doug Issues Volunteer Donate

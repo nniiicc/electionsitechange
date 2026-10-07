@@ -1,15 +1,14 @@
-Issues
-Climate Justice
-Nevada must take a stand in combating climate change by investing in ethical alternatives to fossil fuels and protecting communities from the impact of rising temperatures and pollution.
+Skip to content Chip in $5 to elect Erica Roth Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Issues Climate Justice Nevada must take a stand in combating climate change by investing in ethical alternatives to fossil fuels and protecting communities from the impact of rising temperatures and pollution.
 Across the State of Nevada, low-income communities, people of color, and indigenous populations have disproportionately borne the burden of climate change and fossil fuel extraction.
-Reno was named the fastest warming U.S. city in 2022, with an increased average temperature of 7.8 degrees Fahrenheit since 1978
-Erica is dedicated to protecting our public lands, expanding the urban canopy, and standing up to industry that preys on vulnerable communities.
-When elected, Erica will:
-- Work to increase Reno’s urban canopy to reduce the impact of rising temperatures.
-- Center impacted voices while working to divest from fossil fuels.
-- Support infrastructure for low-income communities to protect from the health consequences of climate change.
-Endorsed by:
-What can you do?
-- Vote for candidates up and down the ballot who will fight for our future over corporate profits!
-- Make sure that your friends and family show up on Election Day, vote by mail, or vote early!
-- Volunteer with candidates you support to help them reach as many voters as possible.
+Reno was named the fastest warming U.S. city in 2022 , with an increased average temperature of 7.8 degrees Fahrenheit since 1978 Erica is dedicated to protecting our public lands, expanding the urban canopy, and standing up to industry that preys on vulnerable communities.
+Will you join me?
+It’s time we put our future over shortsighted corporate greed.
+I will fight to make sure we have a safe and sustainable environment for future generations! $25 $50 $100 $250 $500 Other When elected, Erica will: Work to increase Reno’s urban canopy to reduce the impact of rising temperatures.
+Center impacted voices while working to divest from fossil fuels.
+Support infrastructure for low-income communities to protect from the health consequences of climate change.
+Endorsed by: What can you do?
+Vote for candidates up and down the ballot who will fight for our future over corporate profits!
+Make sure that your friends and family show up on Election Day, vote by mail, or vote early!
+Volunteer with candidates you support to help them reach as many voters as possible.
+Learn more about other important issues Reproductive Freedom Learn More Education Learn More Housing is a Human Right Learn More Climate Justice Learn More Join Us Email Phone Zip Send Facebook Twitter Instagram Linkedin Send Checks to 550 W Plumb Lane Ste B, #214 Reno, NV 89509 Get Started Meet Erica Issues Media Contact Email Zip Stay In Touch!
+Paid for By The Committee to Elect Erica for Nevada Contact Us Name Phone Email Zip Reason for Contact Voter Questions Press Inquiry Volunteer Interest Other Message Submit Join My Mailing List We’ll send you updates on the 2025 legislative session, and exciting campaign announcements. * indicates required Email Address * First Name Last Name Phone Number /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

@@ -1,22 +1,7 @@
-[ctct form=”5809″ show_title=”false”]
-410-841-3378
-Lowe House Office Building, Room 404, 6 Bladen St., Annapolis, MD 21401
-By Authority of Friends of Terri Hill
-Arlene L.
-Harrison, Treasurer
-4523 Mustering Drum
-Ellicott City, MD 21042
-Arlene L.
-Harrison, Treasurer
-4523 Mustering Drum
-Ellicott City, MD 21042
-Page is by the Authority of Friends of Terri Hill, 4523 Mustering Drum, Ellicott City, MD.
-Terri Hill3 weeks ago
-As we remember the victims, heroes, and perpetrators of 9/11 and of the wars and violent atrocities before and to this day, may God’s grace and mercy towards humanity rain on us all. #weremember
-Photo credit: Bruce Williams
-Photo credit: Bruce Williams
-Terri Hill3 months ago
-Two hundred and fifty years old?
+Home About Legislative Highlights Scholarship Program News Contact Us Contact [ctct form=”5809″ show_title=”false”] Contact 410-841-3378 Lowe House Office Building, Room 404, 6 Bladen St., Annapolis, MD 21401 By Authority of Friends of Terri Hill Arlene L.
+Harrison, Treasurer 4523 Mustering Drum Ellicott City, MD 21042 Follow Terri on Facebook Terri Hill Page is by the Authority of Friends of Terri Hill, 4523 Mustering Drum, Ellicott City, MD.
+Terri Hill #ago As we remember the victims, heroes, and perpetrators of 9/11 and of the wars and violent atrocities before and to this day, may God’s grace and mercy towards humanity rain on us all.
+#weremember Photo credit: Bruce Williams 4 3 2 View on Facebook Terri Hill #ago Wishing you a safe, joyful and well-deserved Labor Day! ❤️💙 6 View on Facebook Terri Hill #ago Two hundred and fifty years old?
 America, you barely look twenty-one.
 Let’s not celebrate as if we never fought a Civil War or marched a century later for civil rights.
 Let’s not act as if we never wrangled over the Constitution’s original Commerce and Apportionment Clauses, the 14th Amendment, or the Indian Citizenship Act of 1924—failing repeatedly to respect treaties signed and promises made, unable to explain how anyone can be ‘illegal’ on stolen land.
@@ -40,3 +25,4 @@ Happy 4th.
 Happy 250th.
 NO KINGS!
 I’ll be our and about today – hope to see you.
+17 4 View on Facebook Copyright # |Terri Hill | All Rights Reserved

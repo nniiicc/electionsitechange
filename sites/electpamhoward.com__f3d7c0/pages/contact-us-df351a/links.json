@@ -1,15 +1,58 @@
 [
-"https://electpamhoward.com/",
-"https://electpamhoward.com/blog",
-"https://electpamhoward.com/contact-us",
-"https://electpamhoward.com/events",
-"https://electpamhoward.com/issues",
-"https://electpamhoward.com/videos",
-"https://facebook.com/profile.php?id=100066843107974",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/elect_pamhoward",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://x.com/ElectPam_Howard",
-"https://youtube.com/channel/UC94cXyug_VtFVMYYkKvTGzg"
+{
+"text": "Blog",
+"href": "https://electpamhoward.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://electpamhoward.com/contact-us"
+},
+{
+"text": "Elect Pam HowardElect Pam HowardElect Pam HowardElect Pam Howard",
+"href": "https://electpamhoward.com/"
+},
+{
+"text": "Events",
+"href": "https://electpamhoward.com/events"
+},
+{
+"text": "Home",
+"href": "https://electpamhoward.com/"
+},
+{
+"text": "Issues",
+"href": "https://electpamhoward.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Videos",
+"href": "https://electpamhoward.com/videos"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066843107974"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect_pamhoward"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/ElectPam_Howard"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC94cXyug_VtFVMYYkKvTGzg/"
+}
 ]

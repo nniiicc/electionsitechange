@@ -1,16 +1,58 @@
 [
-"https://campaignpartner.com/",
-"https://elaineforgeorgia.com/",
-"https://elaineforgeorgia.com/contact",
-"https://elaineforgeorgia.com/district-map",
-"https://elaineforgeorgia.com/home",
-"https://elaineforgeorgia.com/meet_elaine",
-"https://elaineforgeorgia.com/priorities",
-"https://elaineforgeorgia.com/privacy-policy",
-"https://elaineforgeorgia.com/view-endorsements",
-"https://elaineforgeorgia.com/vote",
-"https://facebook.com/ElaineForGeorgia",
-"https://instagram.com/elaineforgeorgia",
-"https://secure.actblue.com/donate/elaineforgeorgia",
-"https://youtube.com/@ElaineForGeorgia"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://elaineforgeorgia.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://elaineforgeorgia.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elaineforgeorgia"
+},
+{
+"text": "Endorsements",
+"href": "https://elaineforgeorgia.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://elaineforgeorgia.com/home"
+},
+{
+"text": "Meet Elaine",
+"href": "https://elaineforgeorgia.com/meet_elaine"
+},
+{
+"text": "Priorities",
+"href": "https://elaineforgeorgia.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elaineforgeorgia.com/privacy-policy"
+},
+{
+"text": "Voter Information",
+"href": "https://elaineforgeorgia.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://elaineforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElaineForGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elaineforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElaineForGeorgia"
+}
 ]

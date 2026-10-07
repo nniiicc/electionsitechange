@@ -1,13 +1,20 @@
 {
  "description": "This provides an update to legislation being considered in the Vermont Legislature",
  "final_url": "https://www.charlieforvermont.com/2021townmeetingupdate",
- "paid_for_by": null,
- "title": "New Page \u2014 Charlie Kimbell - Vermont Rep",
+ "fingerprint": "976051e0a22e561e06463f2c38e5cff411d430d2",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "New Page — Charlie Kimbell - Vermont Rep",
  "years_mentioned": [
+  "1973",
+  "2007",
+  "2017",
   "2018",
   "2019",
   "2020",
   "2021",
-  "2022"
+  "2022",
+  "2025",
+  "2026"
  ]
 }

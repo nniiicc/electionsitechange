@@ -1,24 +1,126 @@
 [
-"http://kozyckiforcongress.com/admin",
-"http://kozyckiforcongress.com/es/index.html",
-"http://kozyckiforcongress.com/ga07-district-map.html",
-"http://kozyckiforcongress.com/hi/index.html",
-"http://kozyckiforcongress.com/how-to-vote.html",
-"http://kozyckiforcongress.com/index.html",
-"http://kozyckiforcongress.com/issues.html",
-"http://kozyckiforcongress.com/ko/index.html",
-"http://kozyckiforcongress.com/news-press.php",
-"http://kozyckiforcongress.com/privacy-policy.html",
-"http://kozyckiforcongress.com/te/index.html",
-"http://kozyckiforcongress.com/vi/index.html",
-"http://kozyckiforcongress.com/zh/index.html",
-"https://bsky.app/profile/tonykozycki.bsky.social",
-"https://facebook.com/KozyckiforCongress",
-"https://instagram.com/kozycki_for_congress",
-"https://kozyckiforcongress.com/",
-"https://secure.actblue.com/donate/kozyckiwebsite",
-"https://substack.com/@tonykozycki",
-"https://tiktok.com/@kozyckiforcongress",
-"https://x.com/TonyKozycki",
-"https://youtube.com/channel/UCdhKm4oZHrianurvjgFU5yA"
+{
+"text": "About",
+"href": "http://kozyckiforcongress.com/index.html#about"
+},
+{
+"text": "About Tony",
+"href": "http://kozyckiforcongress.com/index.html#about"
+},
+{
+"text": "Admin",
+"href": "http://kozyckiforcongress.com/admin/"
+},
+{
+"text": "Am I in the District?",
+"href": "http://kozyckiforcongress.com/ga07-district-map.html"
+},
+{
+"text": "Contact",
+"href": "mailto:team@kozyckiforcongress.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kozyckiwebsite"
+},
+{
+"text": "English",
+"href": "http://kozyckiforcongress.com/index.html"
+},
+{
+"text": "Español Spanish",
+"href": "http://kozyckiforcongress.com/es/index.html"
+},
+{
+"text": "Get Involved",
+"href": "http://kozyckiforcongress.com/index.html#involved"
+},
+{
+"text": "How to Vote",
+"href": "http://kozyckiforcongress.com/how-to-vote.html"
+},
+{
+"text": "Issues",
+"href": "http://kozyckiforcongress.com/issues.html"
+},
+{
+"text": "Military Service",
+"href": "http://kozyckiforcongress.com/index.html#service"
+},
+{
+"text": "News & Press",
+"href": "http://kozyckiforcongress.com/news-press.php"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "http://kozyckiforcongress.com/privacy-policy.html"
+},
+{
+"text": "Service",
+"href": "http://kozyckiforcongress.com/index.html#service"
+},
+{
+"text": "Tiếng Việt Vietnamese",
+"href": "http://kozyckiforcongress.com/vi/index.html"
+},
+{
+"text": "Volunteer",
+"href": "http://kozyckiforcongress.com/index.html#involved"
+},
+{
+"text": "[image: Tony Kozycki for Congress — Home]",
+"href": "http://kozyckiforcongress.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/tonykozycki.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@tonykozycki"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KozyckiforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kozycki_for_congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@kozyckiforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCdhKm4oZHrianurvjgFU5yA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TonyKozycki"
+},
+{
+"text": "kozyckiforcongress.com",
+"href": "https://kozyckiforcongress.com"
+},
+{
+"text": "team@kozyckiforcongress.com",
+"href": "mailto:team@kozyckiforcongress.com"
+},
+{
+"text": "हिन्दी Hindi",
+"href": "http://kozyckiforcongress.com/hi/index.html"
+},
+{
+"text": "తెలుగు Telugu",
+"href": "http://kozyckiforcongress.com/te/index.html"
+},
+{
+"text": "中文 Chinese",
+"href": "http://kozyckiforcongress.com/zh/index.html"
+},
+{
+"text": "한국어 Korean",
+"href": "http://kozyckiforcongress.com/ko/index.html"
+}
 ]

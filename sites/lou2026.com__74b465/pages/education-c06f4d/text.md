@@ -1,5 +1,4 @@
-Education
-New York's public education system needs a renewed focus on preparing students for success in school, work, and life.
+0 Skip to Content Agenda Events Tell Lou Press Release Contribute Open Menu Close Menu Agenda Events Tell Lou Press Release Contribute Open Menu Close Menu Agenda Events Tell Lou Press Release Contribute Education ‍ New York's public education system needs a renewed focus on preparing students for success in school, work, and life.
 We should return to the proven fundamentals of learning.
 Greater use of paper, pencil, and cursive writing helps develop memory, concentration, critical thinking, and fine motor skills.
 Screens should be used purposefully—not as a replacement for teaching.
@@ -19,3 +18,4 @@ Students should graduate with marketable skills and multiple pathways to success
 At the university level, administrative growth should be reduced so that more resources can be invested in full-time faculty, research, and student instruction.
 Colleges should rely less on adjunct labor and provide professors with the respect, academic freedom, and support necessary to deliver a world-class education.
 Education should equip every student—not just for the next test, but for a lifetime of learning, productive work, and engaged citizenship.
+Back to Agenda Contribute Call/Text: (347) 618-9425 Lou@Lou2026.com PAID FOR BY LOU 2026

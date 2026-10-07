@@ -1,10 +1,46 @@
 [
-"https://beerfornh.com/",
-"https://beerfornh.com/about",
-"https://beerfornh.com/cart",
-"https://beerfornh.com/get-involved",
-"https://beerfornh.com/home",
-"https://instagram.com/beer4nh",
-"https://linkedin.com/in/marianabeer",
-"https://secure.actblue.com/donate/mariana-beer-1"
+{
+"text": "0",
+"href": "https://beerfornh.com/cart"
+},
+{
+"text": "About Mariana",
+"href": "https://beerfornh.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mariana-beer-1"
+},
+{
+"text": "Get Involved",
+"href": "https://beerfornh.com/get-involved"
+},
+{
+"text": "Get to know Mariana",
+"href": "https://beerfornh.com/about"
+},
+{
+"text": "Home",
+"href": "https://beerfornh.com/home"
+},
+{
+"text": "Mariana Beer // State Rep // Pembroke",
+"href": "https://beerfornh.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://beerfornh.com/get-involved"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beer4nh"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/marianabeer"
+},
+{
+"text": "beerfornh@gmail.com",
+"href": "mailto:beerfornh@gmail.com"
+}
 ]

@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Market+Street+Grill+Fundraising+Dinner&dates=20260820T000000Z%2F20260820T013000Z",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e",
-"https://electivawilliams.com/calendar/market-street-grill-fundraising-dinner?format=ical",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://secure.actblue.com/donate/electivawilliams",
-"https://secure.actblue.com/donate/market-street"
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Market+Street+Grill+Fundraising+Dinner&dates=20260820T000000Z%2F20260820T013000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/market-street-grill-fundraising-dinner?format=ical"
+},
+{
+"text": "Next Next August 22 Canvass with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e"
+},
+{
+"text": "Previous Previous August 18 Phonebank with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/market-street"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

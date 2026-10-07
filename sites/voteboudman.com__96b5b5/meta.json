@@ -1,7 +1,11 @@
 {
  "description": "Voteboudman.com Bobbi Boudman, Candidate for NH State Senate District 3",
  "final_url": "https://www.voteboudman.com/",
- "paid_for_by": null,
+ "fingerprint": "17ac51394ad120b12bc035dd5fe3cce3a5f61a20",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Official website for Bobbi Boudman",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

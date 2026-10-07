@@ -1,9 +1,5 @@
-Date: Saturday, October 31st, 2026
-Time: 12:00 PM - 1:00 PM CST
-Type: Town Hall
-Address: 20644 Frontage Rd., San Antonio, TX
-Open in Google Maps
-•
-Open in Apple Maps
-Join Brandon Herrera for a town hall at Raymond Russell Park, Pavilion #3, in San Antonio.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Bexar County Town Hall – Raymond Russell Park October 31st, 2026, 12:00 PM - 1:00 PM CST Date: Saturday, October 31st, 2026 Time: 12:00 PM - 1:00 PM CST Type: Town Hall Address: 20644 Frontage Rd., San Antonio, TX Open in Google Maps • Open in Apple Maps Join Brandon Herrera for a town hall at Raymond Russell Park, Pavilion #3, in San Antonio.
 Hear Brandon’s message and bring your questions!
+Save to Calendar Add to Google Calendar Share This event Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

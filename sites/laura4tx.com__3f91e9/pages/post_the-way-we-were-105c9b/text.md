@@ -1,5 +1,5 @@
-The Way We Were
-I’m an old guy.
+top of page Texas District 8 Candidate for U.S.
+House info@laura4tx.com About Donate Media Endorsements Laura Listens Blog Contact All Articles Search The Way We Were sk9001 Sep 26 2 min read I’m an old guy.
 Born in the summer of 1948, I went through my childhood years during the Eisenhower administration.
 Even though my parents voted for Adlai Stevenson in both the 1952 AND 1956 elections, they liked Ike.
 His integrity and wisdom earned the respect of just about everyone.
@@ -21,6 +21,5 @@ Stay home and don’t even think about mailing in your ballot.
 That is the only way to discipline your formerly great Republican Party.
 If you want to rescue TRUE conservatism, you must do your part to reform that party.
 It has been highjacked by a New York con artist, and you must be brave enough to walk away.
-Steve Kobb
-Concerned Citizen
-More posts are available for your reading pleasure at https://www.laura4tx.com/blog
+Steve Kobb Concerned Citizen More posts are available for your reading pleasure at https://www.laura4tx.com/blog Recent Posts See All Similarities and Differences Hawks, Hawkeyes, and the defense of Donald Trump Community First info@laura4tx.com laurajonesforcongress@gmail.com Laura Jones - FOR CONGRESS - © Paid for by Laura Jones for Congress P.O.
+Box 742, Coldspring, Texas 77331 R bottom of page

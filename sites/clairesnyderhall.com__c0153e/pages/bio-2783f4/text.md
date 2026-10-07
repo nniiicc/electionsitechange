@@ -1,4 +1,6 @@
-REP.
+Skip to content Claire For Delaware I'm Listening!
+Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Claire For Delaware I'm Listening!
+Navigation Menu Navigation Menu Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Bio REP.
 CLAIRE SNYDER-HALL is proud to be the FIRST WOMAN elected to represent the people of RD 14 — Rehoboth Beach, Dewey, and the southern part of Lewes — in the Delaware House of Representatives.
 She was elected in 2024, after defeating two opponents in the Democratic primary and winning the General Election by ten points.
 With the support of dozens of volunteers, Claire knocked on over 6000 doors during the campaign, and she views those grassroots efforts as the key to success.
@@ -14,3 +16,6 @@ DeSantis destroyed it).
 In addition, her professional background includes 10 years as a self-employed contractor and 2 years working with troubled adolescents as a BA-level social worker.
 Claire holds a PhD in political science from Rutgers University, with a major in political philosophy and minors in political economy and women & politics, and a BA cum laude in psychology from Smith College.
 She resides in the Villages of Old Landing in Rehoboth with her wife Mikki Snyder-Hall and their adorable cats.
+Home Bio Issues and Platform Op/Ed Donate Volunteer Campaign Shots Follow Us!
+Contact Us!
+Email: clairefordelaware@gmail.com Phone: 302-569-9205 Sign Up for Campaign Updates First Name Last Name Email * Zip Code *

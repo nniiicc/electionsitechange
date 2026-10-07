@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Tim Mathern, candidate for North Dakota Senate District 11. Learn about Tim, campaign priorities, news, events, and ways to get involved.",
  "final_url": "https://www.mathernforsenate.com/",
- "paid_for_by": null,
+ "fingerprint": "b7fab9f0dc8bbbd495d006ddecda460a91b9d465",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mathern for Senate",
  "years_mentioned": []
 }

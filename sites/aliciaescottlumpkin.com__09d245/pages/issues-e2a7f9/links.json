@@ -1,19 +1,90 @@
 [
-"https://aliciaescottlumpkin.com/",
-"https://aliciaescottlumpkin.com/about",
-"https://aliciaescottlumpkin.com/contact",
-"https://aliciaescottlumpkin.com/donate",
-"https://aliciaescottlumpkin.com/events",
-"https://aliciaescottlumpkin.com/issues/build-safe-strong-communities",
-"https://aliciaescottlumpkin.com/issues/issue-1",
-"https://aliciaescottlumpkin.com/issues/issue-2",
-"https://aliciaescottlumpkin.com/issues/supporting-veterans-affairs",
-"https://aliciaescottlumpkin.com/privacy-policy",
-"https://aliciaescottlumpkin.com/volunteer",
-"https://aliciaescottlumpkin.com/yard-sign",
-"https://bsky.app/profile/aliciaforalabama.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/Aliciaforalabama",
-"https://instagram.com/aliciaforalabama",
-"https://x.com/aliciaforal"
+{
+"text": "About",
+"href": "https://www.aliciaescottlumpkin.com/about"
+},
+{
+"text": "Building Safe, Strong Communities",
+"href": "https://www.aliciaescottlumpkin.com/issues/build-safe-strong-communities"
+},
+{
+"text": "Contact",
+"href": "https://www.aliciaescottlumpkin.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.aliciaescottlumpkin.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.aliciaescottlumpkin.com/events"
+},
+{
+"text": "Expanding Economic Opportunities",
+"href": "https://www.aliciaescottlumpkin.com/issues/issue-1"
+},
+{
+"text": "Home",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.aliciaescottlumpkin.com/privacy-policy"
+},
+{
+"text": "Protecting Access to Healthcare",
+"href": "https://www.aliciaescottlumpkin.com/issues/issue-2"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Supporting Veterans Affairs",
+"href": "https://www.aliciaescottlumpkin.com/issues/supporting-veterans-affairs"
+},
+{
+"text": "View more",
+"href": "https://www.aliciaescottlumpkin.com/issues/build-safe-strong-communities"
+},
+{
+"text": "View more",
+"href": "https://www.aliciaescottlumpkin.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.aliciaescottlumpkin.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.aliciaescottlumpkin.com/issues/supporting-veterans-affairs"
+},
+{
+"text": "Volunteer",
+"href": "https://www.aliciaescottlumpkin.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.aliciaescottlumpkin.com/yard-sign"
+},
+{
+"text": "[image: Alicia Escott Lumpkin for Alabama House District 60]",
+"href": "https://www.aliciaescottlumpkin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/aliciaforalabama.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Aliciaforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/aliciaforalabama"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/aliciaforal"
+}
 ]

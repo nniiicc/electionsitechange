@@ -1,7 +1,11 @@
 {
  "description": "Contact information for the campaign.",
  "final_url": "https://boudreau4nh.com/contact/",
- "paid_for_by": null,
+ "fingerprint": "28997930bfd3eaad23f964dd3bd4466c6e61bc21",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Pete Boudreau For New Hampshire State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,14 +1,50 @@
 [
-"https://arkleg.state.ar.us/Committees/Detail?code=510&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=560&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=820&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=822&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=870&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=905&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=906&ddBienniumSession=2025%2F2025R",
-"https://arkleg.state.ar.us/Committees/Detail?code=920&ddBienniumSession=2025%2F2025R",
-"https://cart/",
-"https://secure.winred.com/unger-for-arkansas-8615d1ec/donate-today",
-"https://steveunger.us/",
-"https://steveunger.us/privacy-policy"
+{
+"text": "AGRICULTURE, FORESTRY & ECONOMIC DEVELOPMENT & NATURAL RESOURCES",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=870&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/unger-for-arkansas-8615d1ec/donate-today"
+},
+{
+"text": "JOINT COMMITTEE ON MILITARY AND VETERANS AFFAIRS",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=560&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "JOINT ENERGY",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=510&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "JUDICIARY COMMITTEE- HOUSE",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=820&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "JUDICIARY- HOUSE CORRECTIONS & CRIMINAL LAW SUBCOMMITTEE",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=822&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "LEGISLATIVE JOINT AUDITING",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=905&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "LEGISLATIVE JOINT AUDITING - EXECUTIVE COMMITTEE",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=906&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "LEGISLATIVE JOINT AUDITING-STATE AGENCIES",
+"href": "https://arkleg.state.ar.us/Committees/Detail?code=920&ddBienniumSession=2025%2F2025R"
+},
+{
+"text": "Privacy Policy",
+"href": "https://steveunger.us/privacy-policy"
+},
+{
+"text": "[image: Steve Unger]",
+"href": "https://steveunger.us"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

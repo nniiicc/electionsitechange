@@ -1,5 +1,4 @@
-Janelle believes in
-TAKING CLIMATE ACTION
-The effects of climate change are felt close to home with brutal summers and the threat of wildfires year-round.
+Skip navigation menu Meet Janelle Issues Press Media Center Donate Issues Meet Janelle Issues Press Media Center Donate Issues LOWERING THE COST OF HOUSING STRENGTHENING THE ECONOMY AND CREATING JOBS IMPROVING ACCESS TO EDUCATION FIGHTING BACK AGAINST CRUELTY AND CHAOS FROM THE WHITE HOUSE TAKING CLIMATE ACTION LOWERING THE COST OF HEALTH CARE PROTECTING REPRODUCTIVE RIGHTS ENDING HOMELESSNESS Janelle believes in TAKING CLIMATE ACTION The effects of climate change are felt close to home with brutal summers and the threat of wildfires year-round.
 Janelle knows it’s critical to tackle the climate crisis right away – for our environment, for our health, and for our economy.
 She is supporting efforts to generate more clean energy – which creates good jobs – transition away from fossil fuels, and protect our communities, property, and land from wildfires.
+Privacy Policy Contact: info@janellebynum.com Press Inquiries: press@janellebynum.com Make Checks Out to Janelle Bynum for Congress 10121 SE Sunnyside Road, #300 Clackamas, OR 97015 Powered by RUN! website builder Paid for by Janelle Bynum for Congress You need to enable JavaScript to run this app.

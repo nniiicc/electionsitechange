@@ -1,16 +1,62 @@
 [
-"http://facebook.com/perkins4mo",
-"http://instagram.com/perkins4mo",
-"https://drive.google.com/drive/folders/1Cq14JFOkL-oLvzQ_0QlpiLH2vcpT4awm?usp=sharing",
-"https://perkinsformissouri.com/",
-"https://perkinsformissouri.com/cart",
-"https://perkinsformissouri.com/contact",
-"https://perkinsformissouri.com/endorsements",
-"https://perkinsformissouri.com/events",
-"https://perkinsformissouri.com/issues",
-"https://perkinsformissouri.com/join-us",
-"https://perkinsformissouri.com/media",
-"https://perkinsformissouri.com/meet-mary-ann",
-"https://perkinsformissouri.com/newsletter-archive",
-"https://secure.actblue.com/donate/mary-ann-perkins-1"
+{
+"text": "0",
+"href": "https://www.perkinsformissouri.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.perkinsformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-ann-perkins-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.perkinsformissouri.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.perkinsformissouri.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.perkinsformissouri.com/join-us"
+},
+{
+"text": "Media",
+"href": "https://www.perkinsformissouri.com/media"
+},
+{
+"text": "Meet Mary Ann",
+"href": "https://www.perkinsformissouri.com/meet-mary-ann"
+},
+{
+"text": "Newsletter Archive",
+"href": "https://www.perkinsformissouri.com/newsletter-archive"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.perkinsformissouri.com/events"
+},
+{
+"text": "[image: Mary Ann Perkins for Missouri House District 100]",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/perkins4mo"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/perkins4mo"
+},
+{
+"text": "here",
+"href": "https://drive.google.com/drive/folders/1Cq14JFOkL-oLvzQ_0QlpiLH2vcpT4awm?usp=sharing"
+}
 ]

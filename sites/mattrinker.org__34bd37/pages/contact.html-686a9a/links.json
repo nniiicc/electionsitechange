@@ -1,13 +1,66 @@
 [
-"http://eepurl.com/iTGAcw",
-"https://mattrinker.org/",
-"https://mattrinker.org/.html",
-"https://mattrinker.org/about.html",
-"https://mattrinker.org/campaign-resources.html",
-"https://mattrinker.org/constituent-services.html",
-"https://mattrinker.org/contact.html",
-"https://mattrinker.org/current-legislation.html",
-"https://mattrinker.org/index.html",
-"https://mattrinker.org/priorities.html",
-"https://secure.winred.com/rinker-for-iowa-house/donate-today"
+{
+"text": "About",
+"href": "https://mattrinker.org/.html"
+},
+{
+"text": "About",
+"href": "https://mattrinker.org/about.html"
+},
+{
+"text": "CONTACT ME",
+"href": "https://mattrinker.org/contact.html"
+},
+{
+"text": "Campaign Resources",
+"href": "https://mattrinker.org/.html"
+},
+{
+"text": "Campaign Resources",
+"href": "https://mattrinker.org/campaign-resources.html"
+},
+{
+"text": "Constituent Services",
+"href": "https://mattrinker.org/constituent-services.html"
+},
+{
+"text": "Contact",
+"href": "https://mattrinker.org/.html"
+},
+{
+"text": "Current Legislation",
+"href": "https://mattrinker.org/.html"
+},
+{
+"text": "Current Legislation",
+"href": "https://mattrinker.org/current-legislation.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rinker-for-iowa-house/donate-today"
+},
+{
+"text": "Email: matthew.rinker@legis.iowa.gov",
+"href": "mailto: matthew.rinker@legis.iowa.gov"
+},
+{
+"text": "Home",
+"href": "https://mattrinker.org/index.html"
+},
+{
+"text": "Priorities",
+"href": "https://mattrinker.org/.html"
+},
+{
+"text": "Priorities",
+"href": "https://mattrinker.org/priorities.html"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/iTGAcw"
+},
+{
+"text": "[image]",
+"href": "https://mattrinker.org/"
+}
 ]

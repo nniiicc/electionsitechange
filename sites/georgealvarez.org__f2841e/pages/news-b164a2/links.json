@@ -1,16 +1,58 @@
 [
-"https://bxtimes.com/bronx-lawmaker-introduces-bodega-act-to-boost-safety-in-nyc-stores",
-"https://bxtimes.com/lower-metro-north-lirr-fares-nyc-residents",
-"https://designedtorun.com/",
-"https://facebook.com/galvarezny",
-"https://georgealvarez.org/",
-"https://georgealvarez.org/about",
-"https://georgealvarez.org/contact",
-"https://georgealvarez.org/endorsements",
-"https://georgealvarez.org/events",
-"https://georgealvarez.org/issues",
-"https://georgealvarez.org/volunteer",
-"https://instagram.com/galvareznyc",
-"https://secure.actblue.com/donate/galvareznyc",
-"https://x.com/galvareznyc"
+{
+"text": "About",
+"href": "https://www.georgealvarez.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.georgealvarez.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/galvareznyc"
+},
+{
+"text": "Endorsements",
+"href": "https://www.georgealvarez.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.georgealvarez.org/events"
+},
+{
+"text": "Issues",
+"href": "https://www.georgealvarez.org/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.bxtimes.com/bronx-lawmaker-introduces-bodega-act-to-boost-safety-in-nyc-stores/"
+},
+{
+"text": "Read more",
+"href": "https://www.bxtimes.com/lower-metro-north-lirr-fares-nyc-residents/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.georgealvarez.org/volunteer"
+},
+{
+"text": "[image: George Alvarez | New York State Assemblymember | District 78]",
+"href": "https://www.georgealvarez.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/galvarezny"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/galvareznyc/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/galvareznyc"
+}
 ]

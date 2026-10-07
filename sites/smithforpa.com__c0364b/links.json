@@ -1,7 +1,26 @@
 [
-"http://facebook.com/RiveraForLehigh",
-"http://facebook.com/SmithforPa",
-"http://secure.winred.com/committee-to-elect-robert-e-smith-jr-49290384",
-"https://smithforpa.com/about-me",
-"https://smithforpa.com/join-the-team"
+{
+"text": "About Me",
+"href": "https://www.smithforpa.com/about-me"
+},
+{
+"text": "Contribute",
+"href": "http://secure.winred.com/committee-to-elect-robert-e-smith-jr-49290384"
+},
+{
+"text": "Join the Team",
+"href": "https://www.smithforpa.com/join-the-team"
+},
+{
+"text": "Smithforpa22@gmail.com",
+"href": "mailto:Smithforpa22@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/RiveraForLehigh"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/SmithforPa"
+}
 ]

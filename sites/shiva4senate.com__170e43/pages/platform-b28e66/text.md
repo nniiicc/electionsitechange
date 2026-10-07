@@ -1,4 +1,4 @@
-1.
+Toggle navigation Vote Independent Home I’ll Vote For Dr.SHIVA Take Action Volunteer Free Downloads Shop Forgot About Dr.SHIVA About Issues Contact Campaign Interview SHIVA 0 items in cart Donate Platform s4s-ma-state-house Read Dr.SHIVA'S Manifesto 1.
 Truth, Freedom, Health® for All – End censorship, protect medical freedom, and return science to the people so you can make real health decisions and extend your life.
 2.
 End the Swarm of Corruption – Rip lobbyists and billionaires out of government so resources go to working people’s health and vitality, not to corporate cronies.
@@ -30,3 +30,4 @@ Foreign policy must serve the health and longevity of Americans first.
 Education for Truth & Skills – Teach real science, math, history, trades, and systems thinking so every child can build a life of strength and self-reliance.
 11.
 Power to the People, Not Politicians – Term limits, ban insider trading, make every representative legally accountable to the people — so laws strengthen your biology, not corporate profits.
+PAID FOR BY SHIVA 4 SENATE © #, SHIVA 4 SENATE | All Rights Reserved | Privacy Policy | Terms & Conditions | Feedback

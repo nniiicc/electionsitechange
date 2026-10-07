@@ -1,8 +1,34 @@
 [
-"https://miketupperforiowahouse.com/",
-"https://miketupperforiowahouse.com/about",
-"https://miketupperforiowahouse.com/connect",
-"https://miketupperforiowahouse.com/issues",
-"https://miketupperforiowahouse.com/privacy-policy",
-"https://secure.actblue.com/donate/mike-tupper-1"
+{
+"text": "ABOUT",
+"href": "https://www.miketupperforiowahouse.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.miketupperforiowahouse.com/issues"
+},
+{
+"text": "CONNECT",
+"href": "https://www.miketupperforiowahouse.com/connect"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mike-tupper-1"
+},
+{
+"text": "HOME",
+"href": "https://www.miketupperforiowahouse.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.miketupperforiowahouse.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.miketupperforiowahouse.com/privacy-policy"
+},
+{
+"text": "[image: Campaign logo for Mike Tupper]",
+"href": "https://www.miketupperforiowahouse.com"
+}
 ]

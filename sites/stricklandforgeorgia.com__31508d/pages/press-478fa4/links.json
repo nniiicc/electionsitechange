@@ -1,24 +1,118 @@
 [
-"https://facebook.com/StricklandForGA",
-"https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FB-Roll.mp4?alt=media",
-"https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FBio.pdf?alt=media",
-"https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FCampaign-Photos.zip?alt=media",
-"https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FHeadshots.zip?alt=media",
-"https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FPress-Kit.zip?alt=media",
-"https://instagram.com/stricklandforgeorgia",
-"https://stricklandforgeorgia.com/",
-"https://stricklandforgeorgia.com/accomplishments",
-"https://stricklandforgeorgia.com/donate",
-"https://stricklandforgeorgia.com/issues",
-"https://stricklandforgeorgia.com/meet-brian",
-"https://stricklandforgeorgia.com/news",
-"https://stricklandforgeorgia.com/press",
-"https://stricklandforgeorgia.com/privacy",
-"https://stricklandforgeorgia.com/sitemap.xml",
-"https://stricklandforgeorgia.com/sms-terms",
-"https://stricklandforgeorgia.com/terms",
-"https://stricklandforgeorgia.com/volunteer",
-"https://stricklandforgeorgia.com/vote",
-"https://stricklandforgeorgia.com/women-for-strickland",
-"https://x.com/StricklandForGA"
+{
+"text": "Brian's Record",
+"href": "https://stricklandforgeorgia.com/accomplishments"
+},
+{
+"text": "Campaign Photos",
+"href": "https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FCampaign-Photos.zip?alt=media"
+},
+{
+"text": "Donate",
+"href": "https://stricklandforgeorgia.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://stricklandforgeorgia.com/donate"
+},
+{
+"text": "Full Press Kit",
+"href": "https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FPress-Kit.zip?alt=media"
+},
+{
+"text": "Get Involved",
+"href": "https://stricklandforgeorgia.com/volunteer"
+},
+{
+"text": "Headshots",
+"href": "https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FHeadshots.zip?alt=media"
+},
+{
+"text": "Join Women for Strickland",
+"href": "https://stricklandforgeorgia.com/women-for-strickland"
+},
+{
+"text": "Latest News",
+"href": "https://stricklandforgeorgia.com/news"
+},
+{
+"text": "Meet Brian",
+"href": "https://stricklandforgeorgia.com/meet-brian"
+},
+{
+"text": "Mobile Terms & Conditions",
+"href": "https://stricklandforgeorgia.com/sms-terms"
+},
+{
+"text": "Mobile Terms and Conditions",
+"href": "https://stricklandforgeorgia.com/sms-terms"
+},
+{
+"text": "News",
+"href": "https://stricklandforgeorgia.com/news"
+},
+{
+"text": "Official Bio (PDF)",
+"href": "https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FBio.pdf?alt=media"
+},
+{
+"text": "Press Kit",
+"href": "https://stricklandforgeorgia.com/press"
+},
+{
+"text": "Priorities",
+"href": "https://stricklandforgeorgia.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stricklandforgeorgia.com/privacy"
+},
+{
+"text": "Sitemap",
+"href": "https://stricklandforgeorgia.com/sitemap.xml"
+},
+{
+"text": "Terms of Service",
+"href": "https://stricklandforgeorgia.com/terms"
+},
+{
+"text": "Terms of Use",
+"href": "https://stricklandforgeorgia.com/terms"
+},
+{
+"text": "Video (Download)",
+"href": "https://firebasestorage.googleapis.com/v0/b/studio-8397922806-40457.firebasestorage.app/o/press%2FB-Roll.mp4?alt=media"
+},
+{
+"text": "Volunteer",
+"href": "https://stricklandforgeorgia.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://stricklandforgeorgia.com/vote"
+},
+{
+"text": "Women for Strickland",
+"href": "https://stricklandforgeorgia.com/women-for-strickland"
+},
+{
+"text": "[image: Strickland for Attorney General]",
+"href": "https://stricklandforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StricklandForGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stricklandforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/StricklandForGA"
+},
+{
+"text": "press@stricklandforgeorgia.com",
+"href": "mailto:press@stricklandforgeorgia.com"
+}
 ]

@@ -1,4 +1,5 @@
-September 2025
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all A Brave New World A Brave New World A Brave New World Oct 1, 2025 Oct 1, 2025 September 2025 Michaelmas Sunset - Captured 29 September at 18:45 - Taken by Jonah W.
+Michaelmas Sunset - Captured 29 September at 18:45 - Taken by Jonah W.
 There are decades where nothing happens; and there are weeks where decades happen.
 This saying was attributed to Vladimir Lenin in a 2001 article by former member of the British Parliament, George Galloway.
 People have since commonly attributed this quote to Lenin, however there is no evidence to suggest that he is the one who said it.
@@ -26,6 +27,8 @@ That experiment ends with the observer being unable to see the train at all.
 The psychology of ‘nothing ever happens’, is as a result of the train which is our world accelerating at such a rapid pace that the eyes of some can no longer see.
 My opinion is that everyone is capable of seeing the train, they simply choose not to.
 Whether consciously or unconsciously, some choose not to look at the accelerating shifts in the world because to do so is to admit that the silos we have all found comfort in have left us absolutely unprepared for the speed of this train.
+Corner of Union and Overseers - 12 September at 17:08 - Taken by Jonah W.
+Corner of Union and Overseers - 12 September at 17:08 - Taken by Jonah W.
 Two hundred and forty nine years ago the aristocrats of the thirteen British American colonies staged a revolution from the Crown.
 Using their extensive knowledge of the Republics of old, they constructed a Republic which didn’t simply break the chains of the divine right of Kings; but began an era of the human race where our natural rights were enshrined into principles and laws protected by the government.
 In a world where people viewed themselves as subjects, these men constructed a nation of citizens.
@@ -82,11 +85,10 @@ Reaching beyond the barriers we put up between each other which keep us from see
 We cannot ignore the fact that this chaos keeping us tense, these divisions keeping us from speaking beyond the social bounds we’ve kept ourselves in; are no accident.
 Unimaginable amounts of power is gained during times such as these.
 You don’t have to look too closely to see the consolidation of power happening globally amongst the few as the never ending drum beat of terror washes over the minds of the many.
-The example which I see as best illustrating the bizarro world we are in comes from Albania.
+Speaking at the environmental rally in Pboro - 26 September at 16:34 - Taken by Michael Lambert Speaking at the environmental rally in Pboro - 26 September at 16:34 - Taken by Michael Lambert The example which I see as best illustrating the bizarro world we are in comes from Albania.
 Where on September eleventh, the Prime Minister of Albania Edi Rama appointed the world’s first government minister that would be an A.I. program as apart of the effort to digitalize their government.
 The name of this new ‘minister’ as translated in English, is Diella Sun.
-While speaking in the Albanian Parliament of his new appointment, Prime Minister Rama said “Diella is the first member who is not physically present, but virtually created by artificial intelligence.” He went on to add, “Diella will be entrusted with all decisions on public tenders, making them 100 percent corruption free and every public fund submitted to the tender procedure will be perfectly transparent.”
-A week after the appointment of this machine to the responsibility of issuing the public tender, the program was allowed to speak on the floor of the Parliament to address the opposition from human beings against her appointment.
+While speaking in the Albanian Parliament of his new appointment, Prime Minister Rama said “Diella is the first member who is not physically present, but virtually created by artificial intelligence.” He went on to add, “Diella will be entrusted with all decisions on public tenders, making them 100 percent corruption free and every public fund submitted to the tender procedure will be perfectly transparent.” A week after the appointment of this machine to the responsibility of issuing the public tender, the program was allowed to speak on the floor of the Parliament to address the opposition from human beings against her appointment.
 Diella spoke about how ‘it’ had over nine hundred and seventy-two thousand interactions with the citizens of Albania without issue.
 Saying, “Some have labelled me as unconstitutional because I am not a human being.
 That hurt me.
@@ -94,8 +96,7 @@ Not for myself, but for the nine hundred and seventy-two thousand interactions I
 Let me remind you, the real danger to constitutions has never been machines but human decisions made by those in power.
 I am not here to replace human beings, but to help them.
 Indeed, I have no citizenship, but I have no ambitions or personal interests either.
-I only have data at my disposal, I am eager to learn new information and I have algorithms at my disposal, so that I can put all of this at the service of citizens, with impartiality, transparency, and without ever tiring.”
-This move sparked backlash from the membership of the Albanian Parliament, with members opposing the new ‘minister’ on constitutional grounds.
+I only have data at my disposal, I am eager to learn new information and I have algorithms at my disposal, so that I can put all of this at the service of citizens, with impartiality, transparency, and without ever tiring.” This move sparked backlash from the membership of the Albanian Parliament, with members opposing the new ‘minister’ on constitutional grounds.
 Members of the opposition party stormed the parliamentary lectern, throwing paperwork and trash towards the Prime Minister in an effort to stop the artificial intelligence program from speaking.
 In February of two-thousand and twenty four, during the World Government Summit in Dubai, Prime Minister Edi Rama sat with one of the butchers of Iraq, former Prime Minister of the United Kingdom Tony Blair on a panel entitled ‘Transforming Nations: Is Tech Our Solution?’ The two discussed the digitalization of the Albanian government, and how integration of a digital infrastructure through digital identities and other cloud based systems will assist in the ability for government to carry out it’s responsibilities.
 Prime Minister Blair said “This technology revolution gives us the opportunity to… reimagine the state itself.” Highlighting how digitalization can transform public services across healthcare, education, and social payments.
@@ -110,8 +111,7 @@ Omnia Strategy LLP has also won contracts from the Albanian government while the
 Again, this is no accident.
 The effort to digitalize the world is one championed by the powerful.
 Who wish to no longer allow for the risk factors that come with a free and open society.
-Larry Ellison, CEO of the Oracle Corporation, and publicly, the wealthiest man in the world, said at a panel in Austin, Texas on 12 September 2024:
-“The police will be on their best behavior because we are constantly recording, watching and recording everything that is going on.
+Larry Ellison, CEO of the Oracle Corporation, and publicly, the wealthiest man in the world, said at a panel in Austin, Texas on 12 September 2024: “The police will be on their best behavior because we are constantly recording, watching and recording everything that is going on.
 Citizens will be on their best behavior because we're constantly recording and reporting everything that's going on.
 Uh, and it’s unimpeachable.
 The cars, you know, the cars have cameras on them, I think we have a squad car here someplace.
@@ -120,8 +120,7 @@ And if there is a problem, AI will report the problem and report it to the appro
 We have drones, if there is something going on in a shopping center a drone goes out there and gets there way faster than a police car.
 There’s no reason for, by the way, high speed chases between cars.
 You just have a drone follow the car, I mean it’s very, very, simple.
-A new generation of autonomous drones.”
-Ellison is working in tandem with his close friend, former Prime Minister Blair, and a host of other high profile individuals who hold constitutional responsibilities to the public trust.
+A new generation of autonomous drones.” Ellison is working in tandem with his close friend, former Prime Minister Blair, and a host of other high profile individuals who hold constitutional responsibilities to the public trust.
 Aiding those individuals in the creation of a digital world using this artificial intelligence infrastructure that he has been instrumental in creating.
 The example I relayed with Albania, and Edi Rama’s effort to digitalize their government is but one manifestation of this larger effort to digitalize the world in one central database.
 As Ellison spoke about on his 2025 World Government Summit panel with Prime Minister Blair; there needs to be one database for all “your (a government's) healthcare data, your electronic health records, your genomic data” to be unified on a data platform for the central A.I. model to pull from.
@@ -149,7 +148,8 @@ Sadly, my resolution won’t get a hearing in the House.
 However, the 1,234 words I wrote still ring true.
 You can read them on my website.
 Some of the bills I cosponsored include a ban on digital identification filed by Representative Tom Mannion of Pelham, a bill to prohibit landlords from charging more than one application fee per tenant every twelve months, expanding the information provided to survivors of sexual assault regarding their existing rights, both of which were filed by Representative Ellen Read of Newmarket.
-These are but some of the highlights of the work being done by Representatives who truly care about serving the constituents that elected them to serve. 2026 will be a trying year for us all, and will be an especially trying year for the legislature.
+These are but some of the highlights of the work being done by Representatives who truly care about serving the constituents that elected them to serve.
+2026 will be a trying year for us all, and will be an especially trying year for the legislature.
 Instead of cowering and crying about how bad it will be, I have decided to approach this year with optimism.
 What is the point of serving in the legislature if you are there simply to propose legislation which will never pass?
 I would never claim that all the bills I have proposed or co-sponsored will pass, but I am here to ensure that they do, even if in the end they do not.
@@ -170,4 +170,5 @@ The intrigue of life continues on.
 We will find ourselves out of this hole one way or the other.
 Either by burying ourselves to death, or climbing out.
 I can’t speak for you, but I’m climbing.
-Back to all
+Broken down - 15 September at 09:39 - Taken by Jonah W.
+Broken down - 15 September at 09:39 - Taken by Jonah W. ‹ The Party of Lepers ‹ The Party of Lepers ‹ The Party of Lepers Resolution for Peace in Gaza › Resolution for Peace in Gaza › Resolution for Peace in Gaza › Back to all

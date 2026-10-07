@@ -1,22 +1,82 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://clerk.kanecountyil.gov/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202026.pdf",
-"https://facebook.com/profile.php?id=61586887680834",
-"https://jesserodriguez4il83.com/",
-"https://jesserodriguez4il83.com/contact",
-"https://jesserodriguez4il83.com/contribute",
-"https://jesserodriguez4il83.com/events",
-"https://jesserodriguez4il83.com/home",
-"https://jesserodriguez4il83.com/issues",
-"https://jesserodriguez4il83.com/meet_jesse",
-"https://jesserodriguez4il83.com/news",
-"https://jesserodriguez4il83.com/photos",
-"https://jesserodriguez4il83.com/privacy-policy",
-"https://jesserodriguez4il83.com/volunteer",
-"https://jesserodriguez4il83.com/vote",
-"https://jesserodriguez4il83.com/yard-sign",
-"https://kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information/voting",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Click here for Early Voting times and locations",
+"href": "https://clerk.kanecountyil.gov/Elections/Documents/EARLY%20VOTING%20POSTER%20-%20NOVEMBER%202026.pdf"
+},
+{
+"text": "Contact",
+"href": "https://jesserodriguez4il83.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://jesserodriguez4il83.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://jesserodriguez4il83.com/events"
+},
+{
+"text": "Home",
+"href": "https://jesserodriguez4il83.com/home"
+},
+{
+"text": "Issues",
+"href": "https://jesserodriguez4il83.com/issues"
+},
+{
+"text": "Meet Jesse",
+"href": "https://jesserodriguez4il83.com/meet_jesse"
+},
+{
+"text": "News",
+"href": "https://jesserodriguez4il83.com/news"
+},
+{
+"text": "Photos",
+"href": "https://jesserodriguez4il83.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jesserodriguez4il83.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://jesserodriguez4il83.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://jesserodriguez4il83.com/vote"
+},
+{
+"text": "Voting | Kendall County, IL",
+"href": "https://www.kendallcountyil.gov/offices/county-clerk-recorder/election-voter-information/voting"
+},
+{
+"text": "Yard Signs",
+"href": "https://jesserodriguez4il83.com/yard-sign"
+},
+{
+"text": "[image: Jesse Rodriguez]",
+"href": "https://jesserodriguez4il83.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586887680834"
+}
 ]

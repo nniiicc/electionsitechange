@@ -1,19 +1,98 @@
 [
-"https://dos.myflorida.com/elections",
-"https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvotetracyrobinson.com%2Fissues-polls%2F",
-"https://focusedprayer.com/",
-"https://instagram.com/",
-"https://registertovoteflorida.gov/",
-"https://registration.dos.fl.gov/",
-"https://registration.elections.myflorida.com/Voter/Search",
-"https://tiktok.com/",
-"https://truthsocial.com/",
-"https://twitter.com/",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fvotetracyrobinson.com%2Fissues-polls%2F&text=Take+the+REVIVE+District+9+poll+and+tell+Tracy+Robinson+what+matters+to+you%3A",
-"https://votetracyrobinson.com/",
-"https://x.com/",
-"https://youtube.com/@TracyRobinson-REVIVE",
-"https://youtube.com/@TracyRobinson-REVIVE/live",
-"https://youtube.com/@TracyRobinson-REVIVE?sub_confirmation=1"
+{
+"text": "Check Voter Status",
+"href": "https://registration.dos.fl.gov/"
+},
+{
+"text": "Check Voter Status",
+"href": "https://registration.elections.myflorida.com/Voter/Search"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvotetracyrobinson.com%2Fissues-polls%2F"
+},
+{
+"text": "FocusedPrayer.com",
+"href": "https://focusedprayer.com"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com"
+},
+{
+"text": "Live Videos",
+"href": "https://www.youtube.com/@TracyRobinson-REVIVE/live"
+},
+{
+"text": "Official Website",
+"href": "https://votetracyrobinson.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov"
+},
+{
+"text": "See All Videos",
+"href": "https://www.youtube.com/@TracyRobinson-REVIVE"
+},
+{
+"text": "Subscribe on YouTube",
+"href": "https://www.youtube.com/@TracyRobinson-REVIVE?sub_confirmation=1"
+},
+{
+"text": "Truth Social",
+"href": "https://truthsocial.com"
+},
+{
+"text": "Vote by Mail",
+"href": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "X",
+"href": "https://x.com"
+},
+{
+"text": "X / Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fvotetracyrobinson.com%2Fissues-polls%2F&text=Take+the+REVIVE+District+9+poll+and+tell+Tracy+Robinson+what+matters+to+you%3A"
+},
+{
+"text": "[image: QR Code — VoteTracyRobinson.com] Scan to Visit VoteTracyRobinson.com",
+"href": "https://votetracyrobinson.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com"
+},
+{
+"text": "🐦 Twitter",
+"href": "https://twitter.com"
+},
+{
+"text": "📝Register to VoteRegister online. Deadline: # days before Election Day.Register Now →",
+"href": "https://registertovoteflorida.gov"
+},
+{
+"text": "📬Vote by MailRequest a mail ballot early to ensure it arrives in time.Vote by Mail →",
+"href": "https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/"
+},
+{
+"text": "🔍Check Voter StatusConfirm your registration is active and information is current.Check Status →",
+"href": "https://registration.dos.fl.gov/"
+},
+{
+"text": "🗓️Election Dates & PollingKnow your polling place, early voting sites, and 2026 election dates.View Dates →",
+"href": "https://dos.myflorida.com/elections/"
+}
 ]

@@ -1,10 +1,66 @@
 [
-"https://altermanprojects.com/about-mikhail",
-"https://altermanprojects.com/contact",
-"https://altermanprojects.com/home",
-"https://altermanprojects.com/issues",
-"https://boe.cuyahogacounty.gov/voters/Request-a-Vote-by-Mail-Application",
-"https://fvap.gov/ohio",
-"https://google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DZWS3WG5RTE9VU&sa=D&sntz=1&usg=AOvVaw1s9_Rz3tElLAlARKeoIrdz",
-"https://ohiosos.gov/elections/register-to-vote"
+{
+"text": "About Mikhail",
+"href": "https://www.altermanprojects.com/about-mikhail"
+},
+{
+"text": "Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.altermanprojects.com/contact"
+},
+{
+"text": "Cut Waste",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "Donate, PayPal or Credit Card",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DZWS3WG5RTE9VU&sa=D&sntz=1&usg=AOvVaw1s9_Rz3tElLAlARKeoIrdz"
+},
+{
+"text": "Home",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "Lower Cost Of Living",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "Lower Cost of Living and School Choice",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "Mikhail Alterman",
+"href": "https://www.altermanprojects.com/about-mikhail"
+},
+{
+"text": "School Choice",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "[image]Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "https://boe.cuyahogacounty.gov/voters/Request-a-Vote-by-Mail-Application",
+"href": "https://boe.cuyahogacounty.gov/voters/Request-a-Vote-by-Mail-Application"
+},
+{
+"text": "https://www.fvap.gov/ohio",
+"href": "https://www.fvap.gov/ohio"
+},
+{
+"text": "https://www.ohiosos.gov/elections/register-to-vote",
+"href": "https://www.ohiosos.gov/elections/register-to-vote"
+}
 ]

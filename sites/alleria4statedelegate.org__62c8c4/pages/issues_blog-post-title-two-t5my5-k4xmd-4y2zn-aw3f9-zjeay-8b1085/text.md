@@ -1,5 +1,4 @@
-Responsible Growth, Rural Conservation, and Agricultural Preservation
-District 4 encompasses some of the most productive agricultural soils and breathtaking open spaces in Maryland.
+0 Skip to Content Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Alleria 4 House Delegate Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Open Menu Close Menu Home Meet Alleria Stanley Endorsements Beyond the Ballot Issues Get Involved News and Updates FAQ Support the Campaign Responsible Growth, Rural Conservation, and Agricultural Preservation May 28 Written By Apple User District 4 encompasses some of the most productive agricultural soils and breathtaking open spaces in Maryland.
 Our agricultural heritage defines our community character, sustains local commerce, and protects our regional food security.
 Rapid, unchecked suburban sprawl threatens this landscape, overburdens our roadway networks, and strains public water, wastewater, and emergency response services.
 We cannot permit unrestrained development to erase the farms and open spaces that make Frederick County extraordinary.
@@ -17,3 +16,8 @@ Additionally, we must support local farmers by cutting bureaucratic red tape aro
 By connecting local producers directly to institutional buyers like schools and hospitals, we keep local food dollars in our county.
 We must also invest in expanding the MARC train Brunswick Line to ease commuter congestion on our regional highways.
 Responsible growth respects our heritage, protects working families from escalating infrastructure burdens, and preserves our natural environment for future generations.
+Apple User Previous Previous Fully Funding Public Education and Modernizing Schools Next Next Strict Accountability and Regulation for Data Centers Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in the loop Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+Contact General Inquiries: inquiries@alleria4statedelegate.org Press : press@alleria4statedelegate.org Phone: (202) 838-7503 Authorized by Citizens for Alleria Stanley, Elizabeth Meier, Treasurer.

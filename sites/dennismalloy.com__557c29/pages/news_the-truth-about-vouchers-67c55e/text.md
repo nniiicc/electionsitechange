@@ -1,4 +1,4 @@
-RECENTLY, New Hampshire’s Supreme Court delivered a landmark win for students and property taxpayers alike.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy July 25, 2025 The Truth About Vouchers Dennis Malloy July 25, 2025 RECENTLY, New Hampshire’s Supreme Court delivered a landmark win for students and property taxpayers alike.
 The court’s ruling confirmed what Democrats, educators, and community leaders have been saying for years: our state has been shortchanging our kids and unconstitutionally shifting the burden of public education onto already overburdened local property taxpayers.
 Yet on the very same day this decision came down, Governor Kelly Ayotte’s budget kicked in, which siphons millions of public education dollars to expand an unaccountable private school voucher scheme to wealthy households.
 One week into the budget cycle and the so-called “Education Freedom Accounts” program has already blown through its $39 million allocation, with new applicants likely to drive the cost of vouchers above $50 million just this year.
@@ -19,3 +19,6 @@ There is legislation already in committee, HB 651 and HB 772, ready to raise sta
 There should be no excuses, no partisan games, and no more hiding behind slogans about “school choice” while our property taxpayers and kids from property poor communities suffer.
 New Hampshire families deserve strong public schools in every community, not a two-tier system that favors the wealthy and well-connected.
 They deserve property tax relief that comes from the state stepping up, not stepping back, and they deserve leaders who will put kids before ideology.
+Newer Post Voucher Families Doubled Since July Older Post Game-Changing Win for Public Education Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

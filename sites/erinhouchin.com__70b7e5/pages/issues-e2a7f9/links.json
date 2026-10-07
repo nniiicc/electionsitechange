@@ -1,12 +1,46 @@
 [
-"https://erinhouchin.com/",
-"https://erinhouchin.com/about",
-"https://erinhouchin.com/cart",
-"https://erinhouchin.com/contact",
-"https://erinhouchin.com/issues",
-"https://erinhouchin.com/privacy-policy",
-"https://erinhouchin.com/volunteer",
-"https://facebook.com/erinhouchinindiana",
-"https://secure.winred.com/houchinforcongress/donate-today",
-"https://x.com/erin_houchin"
+{
+"text": "0",
+"href": "https://www.erinhouchin.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.erinhouchin.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.erinhouchin.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/houchinforcongress/donate-today"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/houchinforcongress/donate-today"
+},
+{
+"text": "ISSUES",
+"href": "https://www.erinhouchin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.erinhouchin.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.erinhouchin.com/volunteer"
+},
+{
+"text": "[image: Erin Houchin for Congress]",
+"href": "https://www.erinhouchin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/erinhouchinindiana/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/erin_houchin"
+}
 ]

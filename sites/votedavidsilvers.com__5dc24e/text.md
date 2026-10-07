@@ -1,26 +1,15 @@
-FIGHTING
-FOR YOU
-Join The Team
-Meet David
-Widely recognized as one of Florida’s most effective Democratic legislators,
-David has written, lead, and passed legislation that improves the lives of Florida residents.
-Priorities
-Fighting for you
-David Silvers has a track record of getting things done for Florida’s families, seniors, and children.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu FIGHTING FOR YOU Join The Team Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Number Last Phone First Name * Last Name * Email Address * Phone Number * Join Team Meet David Widely recognized as one of Florida’s most effective Democratic legislators, David has written, lead, and passed legislation that improves the lives of Florida residents.
+Meet David PBC Voting Information Learn More Priorities Fighting for you David Silvers has a track record of getting things done for Florida’s families, seniors, and children.
 From creating housing that’s affordable to mental health reforms that protect our kids, David is making sure Florida’s residents come first.
-Endorse David
-Join the team
-Add your name to be one of our first supporters and endorse David Silvers for State Senate
-Proud Ambassador for Project Lifesaver International
-David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization that works with first responders to help quickly locate individuals with cognitive conditions who may wander.
+Learn More Endorse David Join the team Add your name to be one of our first supporters and endorse David Silvers for State Senate Endorse Proud Ambassador for Project Lifesaver International David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization that works with first responders to help quickly locate individuals with cognitive conditions who may wander.
 Through specialized training and proven technology, Project Lifesaver helps protect vulnerable children, seniors, and adults while giving families and caregivers peace of mind.
 As an Ambassador, David is committed to raising awareness and supporting this lifesaving mission to help bring loved ones home safely.
-From The Campaign
-Contrary to popular belief, Lorem Ipsum is not simply random text.
+Read More From The Campaign Facebook Contrary to popular belief, Lorem Ipsum is not simply random text.
 It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur,
-Contrary to popular belief, Lorem Ipsum is not simply random text.
+Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, #ago Twitter Contrary to popular belief, Lorem Ipsum is not simply random text.
 It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur,
-Latest News
-Awards & Recognition
+Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, #ago Latest News David Silvers: Proud Ambassador for Project Lifesaver International September 8, 2026 David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization dedicated to protecting individuals with cognitive conditions who are at risk of wandering and helping bring them safely home. https://www.votedavidsilvers.com/wp-content/uploads/2026/08/lifesaver-img-1.jpg 1200 1600 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2026-09-08 16:59:11 2026-09-08 17:18:29 David Silvers: Proud Ambassador for Project Lifesaver International Reproductive rights should be matter of choice October 24, 2024 As both a husband and father, my greatest responsibility is to protect and support my family.
+As a member of the Florida House of Representatives, that responsibility extends to fighting for policies that ensure the safety, prosperity and freedom of all Floridians. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/photo-2_slide-a7928f303b00cca54cd587e186165eb2d22ed409.jpg 732 1100 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2024-10-24 20:25:33 2025-06-17 17:44:15 Reproductive rights should be matter of choice Florida is achieving strides in mental health care, but major gaps need work May 29, 2024 As we come to the end of Mental Health Awareness Month, it is imperative that we focus on mental health advocacy.
+For far too long, there has been a stigma associated with seeking treatment for mental health disorders whether it be cerebral issues, such as depression, or physical issues, such as anorexia, cutting and bulimia. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/Hospital.png 1152 1536 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2024-05-29 20:22:48 2025-06-17 17:44:35 Florida is achieving strides in mental health care, but major gaps need work Awards & Recognition Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Scroll to top Scroll to top

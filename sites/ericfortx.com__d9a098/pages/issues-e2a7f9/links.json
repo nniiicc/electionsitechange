@@ -1,11 +1,38 @@
 [
-"http://facebook.com/ericfortx",
-"http://instagram.com/ericfortx",
-"http://tiktok.com/@ericfortx",
-"https://ericfortx.com/",
-"https://ericfortx.com/cart",
-"https://ericfortx.com/issues",
-"https://ericfortx.com/volunteer",
-"https://secure.actblue.com/donate/eric-for-texas-44-1",
-"https://youtube.com/@EricforTX"
+{
+"text": "0",
+"href": "https://www.ericfortx.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eric-for-texas-44-1"
+},
+{
+"text": "Issues",
+"href": "https://www.ericfortx.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericfortx.com/volunteer"
+},
+{
+"text": "[image: Eric for Texas 44]",
+"href": "https://www.ericfortx.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ericfortx"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/ericfortx"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@ericfortx"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@EricforTX"
+}
 ]

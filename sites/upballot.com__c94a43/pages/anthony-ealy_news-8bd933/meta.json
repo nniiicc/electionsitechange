@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Anthony\u2019s campaign.",
+ "description": "Get the latest news and updates from Anthony’s campaign.",
  "final_url": "https://www.upballot.com/anthony-ealy/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Anthony EalyNews & Updates from Anthony Ealy",
+ "fingerprint": "8abe2ee2d5ad92b37e2eaf6a435d4a8c6cf99527",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Anthony Ealy",
  "years_mentioned": []
 }

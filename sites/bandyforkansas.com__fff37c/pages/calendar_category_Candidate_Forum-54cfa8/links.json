@@ -1,19 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum&dates=20261003T150000Z%2F20261003T170000Z",
-"https://bandyforkansas.com/",
-"https://bandyforkansas.com/about-1",
-"https://bandyforkansas.com/calendar",
-"https://bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl",
-"https://bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl?format=ical",
-"https://bandyforkansas.com/calendar?category=Candidate+Forum",
-"https://bandyforkansas.com/cart",
-"https://bandyforkansas.com/donate",
-"https://bandyforkansas.com/endorsements",
-"https://bandyforkansas.com/platform",
-"https://bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf",
-"https://bandyforkansas.com/support",
-"https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link",
-"https://facebook.com/profile.php?id=61588817447942",
-"https://instagram.com/bandy4kansas",
-"https://youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+{
+"text": "0",
+"href": "https://www.bandyforkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bandyforkansas.com/about-1"
+},
+{
+"text": "Candidate Forum",
+"href": "https://www.bandyforkansas.com/calendar?category=Candidate+Forum"
+},
+{
+"text": "Donate",
+"href": "https://www.bandyforkansas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bandyforkansas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bandyforkansas.com/calendar"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum&dates=20261003T150000Z%2F20261003T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl?format=ical"
+},
+{
+"text": "League of Women Voters Forum",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "Media",
+"href": "https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link"
+},
+{
+"text": "Platform",
+"href": "https://www.bandyforkansas.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf"
+},
+{
+"text": "Support",
+"href": "https://www.bandyforkansas.com/support"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "[image: Bandy for Kansas]",
+"href": "https://www.bandyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588817447942"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bandy4kansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+},
+{
+"text": "brenda@bandyforkansas.com",
+"href": "mailto:brenda@bandyforkansas.com"
+}
 ]

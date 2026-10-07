@@ -1,9 +1,12 @@
 {
  "description": "Stay up to date on the latest Podcasts from Eli Crane and his campaign for Congress in Arizona.",
  "final_url": "https://eliforarizona.com/podcasts/",
- "paid_for_by": "Paid for by Crane for Congress Copyright \u00a92026 Crane for Congress All rights reserved",
+ "fingerprint": "5afd58db1fe8312eed04378350645e3769e11680",
+ "format": 3,
+ "paid_for_by": "Paid for by Crane for Congress Copyright ©# Crane for Congress All rights reserved",
  "title": "Podcasts - Eli Crane for Congress",
  "years_mentioned": [
+  "1950",
   "2022"
  ]
 }

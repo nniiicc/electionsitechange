@@ -1,12 +1,42 @@
 [
-"http://weiland4wv.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeknutguiOTIrWB1mK8ENwn-rJsu1sG4xqyMpvkCtCUI8irJg/viewform?usp=header",
-"https://facebook.com/WVFDW",
-"https://facebook.com/profile.php?id=100064834475574",
-"https://facebook.com/profile.php?id=100089539565621",
-"https://weiland4wv.com/",
-"https://weiland4wv.com/about-2",
-"https://weiland4wv.com/contact",
-"https://weiland4wv.com/donate",
-"https://weiland4wv.com/get-involved-2"
+{
+"text": "About",
+"href": "https://weiland4wv.com/about-2/"
+},
+{
+"text": "Contact",
+"href": "https://weiland4wv.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://weiland4wv.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://weiland4wv.com/get-involved-2/"
+},
+{
+"text": "HOME",
+"href": "http://www.weiland4wv.com"
+},
+{
+"text": "Home",
+"href": "https://weiland4wv.com/"
+},
+{
+"text": "[image]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeknutguiOTIrWB1mK8ENwn-rJsu1sG4xqyMpvkCtCUI8irJg/viewform?usp=header"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/WVFDW"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100064834475574"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=100089539565621"
+}
 ]

@@ -1,6 +1,22 @@
 [
-"https://willisformontana.com/",
-"https://willisformontana.com/?page_id=11",
-"https://willisformontana.com/?page_id=13",
-"https://willisformontana.com/?page_id=15"
+{
+"text": "About",
+"href": "https://willisformontana.com/?page_id=11"
+},
+{
+"text": "Donate",
+"href": "https://willisformontana.com/?page_id=13"
+},
+{
+"text": "Home",
+"href": "https://willisformontana.com/"
+},
+{
+"text": "Press",
+"href": "https://willisformontana.com/?page_id=15"
+},
+{
+"text": "Willis Curdy for Montana SD49",
+"href": "https://willisformontana.com/"
+}
 ]

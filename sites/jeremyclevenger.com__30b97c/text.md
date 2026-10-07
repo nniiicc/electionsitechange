@@ -1,5 +1,4 @@
-A rock-ribbed conservative fighting for Northern Missouri
-Jeremy Clevenger is a Certified Public Accountant (CPA) with a master's degree in business administration (MBA).
+top of page HOME TERMS A rock-ribbed conservative fighting for Northern Missouri JOIN JEREMY Jeremy Clevenger is a Certified Public Accountant (CPA) with a master's degree in business administration (MBA).
 A loving husband to Heather, they are happy to raise their two children in Chillicothe, MO.
 As an Eagle Scout, Boy Scouts council board member, and local Rotary chapter president, Clevenger is invested in keeping northern Missouri on the path of prosperity.
 A lifelong grassroots Missourian, he understands the struggles our rural communities are facing, and he looks forward to being part of the solution—a rarity in the political scene.
@@ -8,5 +7,9 @@ With his professional background in business, he is focused on reducing wasteful
 Clevenger will never waver in his support for our law enforcement and will work to expand trade schools and increase educational opportunities for Missouri students.
 The rights enshrined in the Constitution are non-negotiable.
 Vote August 2026!
-CONTACT
-PAID FOR BY COMMITTEE TO ELECT JEREMY CLEVENGER, SHELLY MILFORD, TREASURER
+JOIN JEREMY SUPPORT JEREMY!
+JClevenger4MO@gmail.com Follow on Facebook Photos CONTACT First name * Last name * Email * Phone Long answer * By submitting this form, you consent to receive texts from Committee to Elect Jeremy Clevenger.
+Message/data rates may apply.
+Text STOP to optout.
+View Terms of Use. * Submit PAID FOR BY COMMITTEE TO ELECT JEREMY CLEVENGER, SHELLY MILFORD, TREASURER DOWNLOAD MY FULL RESUME © # by John Roberts.
+Powered and secured by Wix Follow me on social netwroks bottom of page

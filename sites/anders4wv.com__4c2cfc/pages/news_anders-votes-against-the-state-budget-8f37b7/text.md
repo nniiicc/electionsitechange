@@ -1,5 +1,4 @@
-Anders Votes Against the State Budget
-I wanted to give you a quick update on why I voted against the state budget—and why I will likely continue to vote no unless there are real changes that reduce the size and scope of government.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Anders Votes Against the State Budget Apr 5 Written By ₿ I wanted to give you a quick update on why I voted against the state budget—and why I will likely continue to vote no unless there are real changes that reduce the size and scope of government.
 This year's budget is $252 million more than last year's.
 That’s not just a number—it’s an expansion of government at your expense.
 Let me be clear: government spending is a tax.
@@ -17,4 +16,4 @@ I voted against the budget and most spending bills unless the funds are going to
 Every dollar spent beyond those duties only grows the bureaucracy, adds inefficiency, and takes more of your property—your paycheck.
 Just because I don’t believe the government should do something doesn’t mean I don’t believe it should be done.
 But government is always the least efficient, least effective, and most costly way to do anything.
-I’ll keep fighting for a leaner, constitutional government that respects your liberty and your wallet.
+I’ll keep fighting for a leaner, constitutional government that respects your liberty and your wallet. ₿ Previous Previous Anders' Committee Statement on Ending Puberty Blockers for Minors Next Next The Constitution anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

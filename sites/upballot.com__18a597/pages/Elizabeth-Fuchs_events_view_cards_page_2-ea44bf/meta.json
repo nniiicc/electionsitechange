@@ -1,7 +1,9 @@
 {
- "description": "See Elizabeth 'Lilly'\u2019s upcoming campaign events happening near you.",
+ "description": "See Elizabeth 'Lilly'’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/Elizabeth-Fuchs/events?view=cards&page=2",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "8e0673472c47bb9b76063c490c1cb77ee19aba71",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Elizabeth 'Lilly' Fuchs Events",
  "years_mentioned": []
 }

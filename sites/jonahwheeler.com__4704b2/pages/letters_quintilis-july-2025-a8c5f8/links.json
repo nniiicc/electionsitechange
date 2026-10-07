@@ -1,12 +1,46 @@
 [
-"https://jonahwheeler.com/",
-"https://jonahwheeler.com/biography",
-"https://jonahwheeler.com/contact",
-"https://jonahwheeler.com/donate",
-"https://jonahwheeler.com/letters",
-"https://jonahwheeler.com/letters/spare-oom",
-"https://jonahwheeler.com/letters/they-don-t-really-care-about-us-june-2025",
-"https://jonahwheeler.com/news",
-"https://jonahwheeler.com/sponsored-legislation",
-"https://jonahwheeler.com/videos"
+{
+"text": "Back to all",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "Biography",
+"href": "https://jonahwheeler.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://jonahwheeler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jonahwheeler.com/donate"
+},
+{
+"text": "Home",
+"href": "https://jonahwheeler.com/"
+},
+{
+"text": "In the News",
+"href": "https://jonahwheeler.com/news"
+},
+{
+"text": "Letters",
+"href": "https://jonahwheeler.com/letters"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://jonahwheeler.com/sponsored-legislation"
+},
+{
+"text": "They Don’t Really Care About Us ›",
+"href": "https://jonahwheeler.com/letters/they-don-t-really-care-about-us-june-2025"
+},
+{
+"text": "Videos",
+"href": "https://jonahwheeler.com/videos"
+},
+{
+"text": "‹ Spare ‘oom",
+"href": "https://jonahwheeler.com/letters/spare-oom"
+}
 ]

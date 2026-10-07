@@ -1,4 +1,5 @@
+0 Skip to Content Lynnette For Kansas About Priorities Get Involved Donate Open Menu Close Menu Lynnette For Kansas About Priorities Get Involved Donate Open Menu Close Menu About Priorities Get Involved Donate I am running for House District 104 authentically represent and fight for the voters, families, and businesses in Hutchinson, Buhler, Inman and surrounding rural areas.
 “Communities across our state are facing real economic pressure, and people are looking for leaders who understand their struggles.
 Kansans deserve practical solutions, honest communication, and leadership focused on helping families, small businesses, farmers, working people and local communities thrive.
 I’m running to make life more affordable, protect taxpayer dollars, and ensure government answers to the people — not special interests.
-I’m committed to leading, and bringing the voices of our community to Topeka.”
+I’m committed to leading, and bringing the voices of our community to Topeka.” Follow me on socials @lynnetteforkansas Paid for by Lynnette for Kansas, Donna Davis, Treasurer About Get Involved Priorities Register to Vote Donate

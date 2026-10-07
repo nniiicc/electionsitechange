@@ -1,7 +1,5 @@
-top of page
-PRIORITIES
-MY COMMITMENT
-Arizona's future depends on thoughtful leadership, responsible economic growth, and putting people before politics.
+top of page HOME MEET JUNELLE PRIORITIES 2025 SESSION 2026 SESSION OUR DISTRICT VOTING CENTERS FOOD BANKS DISTRICT DEMOGRAPHICS ENDORSEMENTS MEDIA NEWS PHOTO GALLERY GET INVOLVED VOLUNTEER ENDORSE JOB OPENING: INTERNSHIP More Use tab to navigate through the menu items.
+DONATE PRIORITIES MY COMMITMENT Arizona's future depends on thoughtful leadership, responsible economic growth, and putting people before politics.
 As your State Representative, I've worked every day to protect our freedoms, strengthen our economy, invest in our schools, support working families, and prepare Arizona for the challenges and opportunities ahead.
 Together, we can continue building an Arizona that is more affordable, more innovative, more sustainable, and full of opportunity for every family.
 A GOOD LIFE YOU CAN AFFORD.
@@ -95,13 +93,12 @@ Childcare costs should never be the reason a parent is forced to leave the workf
 During my time in the Legislature, I have supported investments that expanded childcare assistance, increased funding for after-school and summer programs, and helped more working families access quality care.
 While these investments are important, they are only the beginning.
 Arizona must move beyond temporary solutions and build a comprehensive, universal childcare system that supports children from birth through school age.
-As your State Representative, I will continue fighting to:
-- Establish a pathway toward universal childcare so every Arizona family can access affordable, high-quality care.
-- Establish a pathway toward universal childcare so every Arizona family can access affordable, high-quality care.
-- Increase wages, benefits, professional training, and career pathways for childcare professionals to strengthen and grow the workforce.
-- Expand early childhood education, after-school, and summer learning opportunities that help children thrive.
-- Support culturally responsive, inclusive, and high-quality childcare options that meet the needs of Arizona's diverse communities.
-- Partner with parents, childcare providers, educators, businesses, labor organizations, and community leaders to develop sustainable, long-term childcare solutions.
+As your State Representative, I will continue fighting to: Establish a pathway toward universal childcare so every Arizona family can access affordable, high-quality care.
+Establish a pathway toward universal childcare so every Arizona family can access affordable, high-quality care.
+Increase wages, benefits, professional training, and career pathways for childcare professionals to strengthen and grow the workforce.
+Expand early childhood education, after-school, and summer learning opportunities that help children thrive.
+Support culturally responsive, inclusive, and high-quality childcare options that meet the needs of Arizona's diverse communities.
+Partner with parents, childcare providers, educators, businesses, labor organizations, and community leaders to develop sustainable, long-term childcare solutions.
 Universal childcare is an investment in Arizona's future.
 It helps children succeed, allows parents to pursue careers, strengthens our economy, and creates healthier, more resilient communities.
 I will continue working to make Arizona a state where every child has the opportunity to thrive and every family has the support they deserve.
@@ -114,17 +111,14 @@ That includes expanding diversion programs, mental health and addiction treatmen
 Our schools should be places where students feel safe, supported, and ready to learn.
 School Resource Officers play an important role in protecting students during emergencies, but they should not replace counselors, social workers, or mental health professionals, nor should routine school discipline unnecessarily funnel students into the criminal justice system.
 Every child deserves access to supportive learning environments that help them succeed.
-As your State Representative, I will continue advocating for smart, data-driven reforms that strengthen public safety while promoting fairness and accountability, including:
-- Expanding diversion, behavioral health, and treatment programs for nonviolent offenses.
-- Supporting rehabilitation, education, workforce training, and reentry programs that reduce recidivism.
-- Ensuring School Resource Officers are focused on campus safety while increasing investments in counselors, social workers, and student mental health services.
-- Reviewing mandatory sentencing policies to ensure they are fair, effective, and proportionate.
-- Expanding earned-release opportunities for individuals who demonstrate rehabilitation and pose no threat to public safety.
-- Protecting youth by promoting age-appropriate services and rehabilitation rather than unnecessarily exposing them to the adult criminal justice system.
-- Supporting evidence-based policies for substance use disorders and continuing to evaluate criminal penalties to ensure they reflect current science and public safety priorities.
-- Improving oversight, transparency, and accountability throughout Arizona's criminal justice system.
+As your State Representative, I will continue advocating for smart, data-driven reforms that strengthen public safety while promoting fairness and accountability, including: Expanding diversion, behavioral health, and treatment programs for nonviolent offenses.
+Supporting rehabilitation, education, workforce training, and reentry programs that reduce recidivism.
+Ensuring School Resource Officers are focused on campus safety while increasing investments in counselors, social workers, and student mental health services.
+Reviewing mandatory sentencing policies to ensure they are fair, effective, and proportionate.
+Expanding earned-release opportunities for individuals who demonstrate rehabilitation and pose no threat to public safety.
+Protecting youth by promoting age-appropriate services and rehabilitation rather than unnecessarily exposing them to the adult criminal justice system. ​ Supporting evidence-based policies for substance use disorders and continuing to evaluate criminal penalties to ensure they reflect current science and public safety priorities. ​Improving oversight, transparency, and accountability throughout Arizona's criminal justice system.
 A safer Arizona is built not only through effective law enforcement, but also through prevention, rehabilitation, opportunity, and accountability.
 By investing in people, supporting victims, and using evidence-based policies, we can create stronger communities, reduce crime, and build a justice system that works for everyone.
-PAID FOR BY JUNELLE CAVERO FOR ARIZONA.
+DONATE INFO@CAVEROFORAZ.COM PAID FOR BY JUNELLE CAVERO FOR ARIZONA.
 AUTHORIZED BY JUNELLE CAVERO.
-bottom of page
+Privacy Policy PO BOX 72141, PHOENIX, AZ 85050 Terms and Conditions bottom of page

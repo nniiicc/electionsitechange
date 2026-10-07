@@ -1,28 +1,3 @@
-Results You Can See
-- $25M to build 170 senior housing units near South DeKalb Senior Center
-- $8M Intergenerational Center at Exchange Park
-- Voted to increase hiring salaries for certified police officers, saving county funds and placing experienced officers in the field quickly
-- Voted to allow the police department to fill a total of 100 police officer positions above current staffing levels ($4.1M)
-- Appropriated $1.4M in CARES funding to community-based organizations to assist those impacted by COVID-19
-- Partnered with Truist Bank to assist small and diverse businesses
-- Intergenerational Center at Exchange Park
-- Grady Health Clinic at Kirkwood
-- Supporting the $165 million Grady Hospital expansion
-- $100,000,000 investment in infrastructure improvements in District 3, including the pavement of all roads, sidewalks and park improvements
-- $7.2 million contracted to clean the buildup of grease, this includes the removal of oil along the more than 5,000 miles of water and wastewater pipes
-- $4+ million for Candler Road Senior Center
-- $4 million for Ellenwood Library
-- Glenwood Sidewalks:
-- Phase I ($2 million) from I-20 to Candler Road
-- Phase 2 ($5 million) from Candler Road to Columbia Drive
-- Voted to implement tuition reimbursement for sworn police and fire employees up to a maximum of $5,000/year
-- Initiated the First Source Jobs Ordinance
-- The Atlanta Gas Light Regional Headquarters is located in District 3
-- Partnered with Oakhurst Medical Center to bring COVID-19 testing to South DeKalb
-- Collected over 500 tons of trash during clean ups
-- Resolution Urging ARC to Accept an Amendment to add $297M to fully fund construction of the I-20 East Rail Project (TSPLOST)
-Key Accomplishments as National Association of Counties (NACo) President:
-- Helped to secure the American Rescue Plan Act, which includes $65.1 billion in direct, flexible aid to every county in America, as well as other crucial investments, such as $1.5 billion over two years for federal public lands counties
-- Following the passage of ARPA, worked with the U.S.
-Treasury Department to shape the implementation of the Coronavirus State and Local Fiscal Recovery Fund and to create an office dedicated to implementing COVID-19 relief
-- Assisted in the passage of a permanent increase to federal nutrition benefits and the expansion of the Child Tax Credit, which cut child poverty in half
+top of page Home Endorsements About GAInsuranceBillOfRights Results You Can See Photo Gallery Events News More Use tab to navigate through the menu items.
+DONATE Results You Can See $25M to build 170 senior housing units near South DeKalb Senior Center $8M Intergenerational Center at Exchange Park Voted to increase hiring salaries for certified police officers, saving county funds and placing experienced officers in the field quickly Voted to allow the police department to fill a total of 100 police officer positions above current staffing levels ($4.1M) Appropriated $1.4M in CARES funding to community-based organizations to assist those impacted by COVID-19 Partnered with Truist Bank to assist small and diverse businesses Intergenerational Center at Exchange Park Grady Health Clinic at Kirkwood Supporting the $165 million Grady Hospital expansion $100,000,000 investment in infrastructure improvements in District 3, including the pavement of all roads, sidewalks and park improvements $7.2 million contracted to clean the buildup of grease, this includes the removal of oil along the more than 5,000 miles of water and wastewater pipes $4+ million for Candler Road Senior Center $4 million for Ellenwood Library Glenwood Sidewalks: Phase I ($2 million) from I-20 to Candler Road Phase 2 ($5 million) from Candler Road to Columbia Drive Voted to implement tuition reimbursement for sworn police and fire employees up to a maximum of $5,000/year Initiated the First Source Jobs Ordinance The Atlanta Gas Light Regional Headquarters is located in District 3 Partnered with Oakhurst Medical Center to bring COVID-19 testing to South DeKalb Collected over 500 tons of trash during clean ups Resolution Urging ARC to Accept an Amendment to add $297M to fully fund construction of the I-20 East Rail Project (TSPLOST) Key Accomplishments as National Association of Counties (NACo) President: ​ Helped to secure the American Rescue Plan Act , which includes $65.1 billion in direct, flexible aid to every county in America, as well as other crucial investments, such as $1.5 billion over two years for federal public lands counties Following the passage of ARPA, worked with the U.S.
+Treasury Department to shape the implementation of the Coronavirus State and Local Fiscal Recovery Fund and to create an office dedicated to implementing COVID-19 relief Assisted in the passage of a permanent increase to federal nutrition benefits and the expansion of the Child Tax Credit, which cut child poverty in half LARRY JOHNSON FOR SENATE PO Box 362054 Decatur, GA 30036 ​ bottom of page

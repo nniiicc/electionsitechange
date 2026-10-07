@@ -1,9 +1,30 @@
 [
-"https://byrondonalds.com/businesswomen-for-byron",
-"https://byrondonalds.com/latinos-for-byron",
-"https://byrondonalds.com/privacy-policy",
-"https://byrondonalds.com/terms-and-conditions",
-"https://byrondonalds.com/vets",
-"https://floridapolitics.com/archives/750444-christian-family-coalition-florida-to-celebrate-2025-session-victories-with-gop-lawmakers-at-trump-doral",
-"https://sheleadsflorida.com/"
+{
+"text": "Christian Family Coalition Florida",
+"href": "https://floridapolitics.com/archives/750444-christian-family-coalition-florida-to-celebrate-2025-session-victories-with-gop-lawmakers-at-trump-doral/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://byrondonalds.com/privacy-policy/"
+},
+{
+"text": "She Leads Florida",
+"href": "https://sheleadsflorida.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://byrondonalds.com/terms-and-conditions/"
+},
+{
+"text": "[image: Byron Donalds with Businesswomen for Byron supporters at a coalition event] Businesswomen for Byron →",
+"href": "https://byrondonalds.com/businesswomen-for-byron/"
+},
+{
+"text": "[image: Byron Donalds with veterans at Veterans United Craft Brewery] Veterans for Byron →",
+"href": "https://byrondonalds.com/vets/"
+},
+{
+"text": "[image: Latinos for Byron rally with speaker at the podium] Latinos for Byron →",
+"href": "https://byrondonalds.com/latinos-for-byron/"
+}
 ]

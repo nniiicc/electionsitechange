@@ -1,7 +1,11 @@
-The Edgewood Highland School community proudly announces the grand reopening of the Edgewood Highland Playground, marking a significant milestone in local efforts to enhance public spaces and support student well-being, according to a press release.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted October 3, 2024 Vargas and team reopen Edgewood Highland Playground Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact The Edgewood Highland School community proudly announces the grand reopening of the Edgewood Highland Playground, marking a significant milestone in local efforts to enhance public spaces and support student well-being, according to a press release.
 After being shut down just two days before the 2023 school year, this beloved playground is now fully renovated and ready to welcome students and families once again.
 The reopening is the result of a remarkable community initiative spearheaded by Bridget Graziano PTO Co-President, and now candidate for Ward 1 City Council, PTO Member Aubrey Collins, and Lammis J.
 Vargas current City Council Vice President (Ward 1) and now State Senator-elect of District 28.
 These individuals, along with five dedicated parents, worked tirelessly to secure support from the Council, funding beyond dwindling American Rescue Plan Act (ARPA) monies, ensuring the playground was replaced with a high-quality, safe facility.
 Vargas had been voicing for a number of months to the administration that there were much needed improvements to many recreational spaces, such as the Smith Street, DuTemple School Park, Commercial Street, and Edgewood Highland Playground, then Edgewood was abruptly shut down.
 Click here to read the full article in the Warwick Beacon.
+You May Also Like Posted July 17, 2024 Secretary Gorbea Hires Lammis J.
+Vargas as Deputy Secretary of State/Director of Administration Posted August 29, 2024 Press Release: Lammis Vargas Secures Endorsement of Two Additional Labor Groups Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

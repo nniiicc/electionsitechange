@@ -1,5 +1,4 @@
-Meet Bryan
-Bryan King was born in Springdale, Arkansas and is a graduate of Green Forest High School in Carroll County.
+0 Skip to Content Meet Bryan Donate Open Menu Close Menu Meet Bryan Donate Open Menu Close Menu Meet Bryan Donate Meet Bryan Bryan King was born in Springdale, Arkansas and is a graduate of Green Forest High School in Carroll County.
 He was accepted to The University of Arkansas at Fayetteville where he earned a Bachelor of Science degree in Animal Science.
 Bryan took what he learned in school and applied it to his daily life on the farm; he now owns and operates Triple K Farms in Green Forest, AR.
 Besides his love for farming, Bryan also loves his local community and felt a calling to serve publicly.
@@ -10,3 +9,4 @@ Bryan was re-elected to the Arkansas State Senate- District 28 in 2022 after def
 Bryan still feels that calling to serve and is again running for the State Senate.
 He humbly asks for your support and vote on March 3, 2026.
 Bryan and his wife, Shana, live in Farewell with Elvis and Petey their beloved rescue pets.
+PRIVACY POLICY Paid for by Bryan King For Senate

@@ -1,11 +1,8 @@
-Please Allow Me to Introduce Myself...
-Video Links [TikTok] [YouTube]
-As Texas gears up for the November election, voters in House District 57 will be presented with a unique opportunity to bring fresh, principled leadership to the state legislature.
+☰ MENU Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Please Allow Me to Introduce Myself...
+Video Links [ TikTok ] [ YouTube ] As Texas gears up for the November election, voters in House District 57 will be presented with a unique opportunity to bring fresh, principled leadership to the state legislature.
 My name is Darren Hamilton, and I am the Libertarian candidate running to represent District 57 in the Texas House of Representatives serving most of central Denton County, and I am committed to offering a bold vision for a more individual-centered, freedom-focused future for Denton County and Texas.
-About My Candidacy
-[For those of you who are unfamiliar with candidate introductions, a good part of the rest of this section is where I try to blow sunshine up your ass with campaign promises that I will only be able to keep if I am elected which is, quite frankly, highly unlikely.
-All of this is absolutely true, and even though I don't really want to do this, I am told it's obligatory, so here it is.]
-My candidacy stands as a beacon for those who believe in the core principles of Libertarianism: personal freedom, limited government intervention, and free markets.
+About My Candidacy [For those of you who are unfamiliar with candidate introductions, a good part of the rest of this section is where I try to blow sunshine up your ass with campaign promises that I will only be able to keep if I am elected which is, quite frankly, highly unlikely.
+All of this is absolutely true, and even though I don't really want to do this, I am told it's obligatory, so here it is.] My candidacy stands as a beacon for those who believe in the core principles of Libertarianism: personal freedom, limited government intervention, and free markets.
 My campaign is driven by a commitment to reduce government interference in your lives, lower taxes as much as possible, and empower each Texan to make their own choices without unnecessary bureaucratic hurdles.
 I envision a Texas where every individual can thrive without the heavy hand of government dictating your choices.
 I advocate policies that promote economic growth by fostering a competitive, innovative business environment.
@@ -28,16 +25,14 @@ My candidacy represents a shift toward a more principled approach to governance 
 As Election Day approaches, consider what kind of leadership will best serve the values and interests of District 57.
 My Libertarian platform promises to return to foundational principles that prioritize freedom, economic prosperity, and individual rights.
 In a time when many feel disillusioned by conventional politics, I stand ready to offer a refreshing alternative grounded in true Libertarian ideals.
-About Myself
-First, let me be very clear about this: I am many things, but one thing I am NOT is a politician.
+About Myself First, let me be very clear about this: I am many things, but one thing I am NOT is a politician.
 By profession, I am a data analyst, statistician, and database engineer.
 I am a Marine, a husband, father, and grandfather.
 I am an autistic and a video gamer.
 I am a polymath and an autodidact.
 Of the many things I've done, though, meeting and talking to new people is my Kryptonite.
 I have a form of high-functioning autism formerly known as Asperger's Syndrome.
-As a consequence of this condition, I'm not really comfortable in new or different (at least for me) situations
-Let me assure you that I am not blinded by naivete, or by wearing rose-colored lenses.
+As a consequence of this condition, I'm not really comfortable in new or different (at least for me) situations Let me assure you that I am not blinded by naivete, or by wearing rose-colored lenses.
 As a candidate from an alternative political party, I already know going into this contest that the possibilities of actually winning this seat are about as likely as the mullet returning to fashion.
 It is my belief that there are more than two types of Texans, and ALL of them deserve to be represented in Austin.
 As a Marine, we don't fight the battles that we know we can win; we fight the battles that need fighting, win or lose, regardless of the circumstances.
@@ -49,5 +44,5 @@ I believe that if people are not harming others, they should be free to live the
 I look forward to discussing more of the REAL issues that concern all of us here in north Texas between now and November, and I hope that something I say might have you look at the issues that matter most to you and the ones that you love.
 I believe that it is long past time for there to be a consistent voice for liberty and accountability in Austin.
 Let me be that voice for you.
-- What I Mean by "NOT Politics as Usual" [Article Link]
-- Why My Candidacy is Different [Article link]
+What I Mean by "NOT Politics as Usual" [Article Link] Why My Candidacy is Different [Article link] VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Endorsements Events Contact Privacy Policy Committee to Elect Darren Hamilton Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darren Not Politics as Usual Candidacy Is Different District 57 Map Defining Libertarians FAQ Endorsements Platform Self-Ownership Second Amendment and Gun Control Public Education K-12 Healthcare vs Health Care Abortion Immigration LGBTQ Issues The Unsheltered Vice and Morality Laws Veterans Issues Autism Advocacy Opinions Quadrennial Circus Modern Medieval Mayhem Describing the Autistic Experience Authoritarianism Crime Spree Police State Government Control Not TV Reruns questionnaires Alliance Defending Freedom Andres Masters Research Association of Texas Professional Educators Denton Record-Chronicle HOA Reform Coalition iVoter Guide National Alliance on Mental Illness (NAMI) VoteSmart Political Courage Test GenZ for Change News The Porcupine's Quill - 06-Sep The Porcupine's Quill - 13-Sep The Porcupine's Quill - 30-Aug Video Links Contact Libertarian Party Close Menu

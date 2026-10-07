@@ -1,6 +1,4 @@
-Skip to content
-Lois Frankel is panicked, two videos secret PAC “Elect Every Democrat”
-Angry Lois Frankel is panicked, shown by these two videos and Frankel’s unprecedented secret PAC “Elect Every Democrat”
-Rage caught on camera, Democrat Congresswoman Lois Frankel threatens businessman for supporting Republican Deborah Adeimy in Palm Beach Florida.
+Skip to content HOT News Donate Home Photo Gallery Videos Meet Deborah HOT News Issues Events Contact Us Hot News Donate MENU Lois Frankel is panicked, two videos secret PAC “Elect Every Democrat” By Deborah Adeimy March 18, 2026 April 21, 2026 Angry Lois Frankel is panicked, shown by these two videos and Frankel’s unprecedented secret PAC “Elect Every Democrat” Rage caught on camera, Democrat Congresswoman Lois Frankel threatens businessman for supporting Republican Deborah Adeimy in Palm Beach Florida.
 Lois Frankel's Revenge; fired veteran Police Chief in W.
-Palm Beach FL, for a Facebook picture with Republican Deborah Adeimy
+Palm Beach FL, for a Facebook picture with Republican Deborah Adeimy Post navigation Next Justice Department Sues Large Landlords for Algorithmic Pricing Scheme that Harms Millions of American Renters © # DEBORAH ADEIMY For U.S.
+Congress | All Rights Reserved | Privacy Policy | Site Map Home Photo Gallery Videos Meet Deborah HOT News Issues Events Contact Us

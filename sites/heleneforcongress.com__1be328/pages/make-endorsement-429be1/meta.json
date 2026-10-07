@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.heleneforcongress.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "3a93e3bd44808098895f8ae45c68ec638123f741",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

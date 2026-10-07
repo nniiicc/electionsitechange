@@ -1,7 +1,9 @@
 {
  "description": "Contact the Steve Johnson Campaign",
  "final_url": "https://www.friendsofstevejohnson.com/contact",
- "paid_for_by": null,
+ "fingerprint": "9769890fae5e664a15609a67e5ca42f2df2f8611",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the Steve Johnson Campaign",
  "years_mentioned": []
 }

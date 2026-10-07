@@ -1,4 +1,10 @@
 [
-"https://chriswaddellky.com/",
-"https://chriswaddellky.com/groups"
+{
+"text": "Groups",
+"href": "https://www.chriswaddellky.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.chriswaddellky.com/"
+}
 ]

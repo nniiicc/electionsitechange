@@ -1,7 +1,11 @@
 {
  "description": "Events and fundraisers for the campaign.",
  "final_url": "https://melvinforcongress.com/events.html",
- "paid_for_by": null,
+ "fingerprint": "cd1850d8b158b15a350978bf89e936ce6458c3df",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Melvin for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

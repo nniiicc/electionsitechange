@@ -1,36 +1,142 @@
 [
-"https://facebook.com/LisaMairForMA",
-"https://instagram.com/lisamairforma",
-"https://legiscan.com/MA/rollcall/H4600/id/1435476",
-"https://lisamairforma.com/",
-"https://lisamairforma.com/about",
-"https://lisamairforma.com/contact",
-"https://lisamairforma.com/donate",
-"https://lisamairforma.com/endorsements",
-"https://lisamairforma.com/events",
-"https://lisamairforma.com/priorities",
-"https://lisamairforma.com/voting-record",
-"https://lp.constantcontactpages.com/sv/1qbUowD/LisaMairLawnSignVolunteer",
-"https://malegislature.gov/Bills/193/H5105",
-"https://malegislature.gov/Bills/194/H2024",
-"https://malegislature.gov/Bills/194/H5469",
-"https://malegislature.gov/Bills/GetAmendmentContent/193/H4600/698/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1231/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1232/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1236/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1237/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1308/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1582/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1588/House/Content",
-"https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1593/House/Content",
-"https://malegislature.gov/RollCall/193/HouseRollCall200.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall158.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall160.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall163.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall164.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall178.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall185.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall201.pdf",
-"https://malegislature.gov/RollCall/194/HouseRollCall21.pdf",
-"https://x.com/LisaMairForMA"
+{
+"text": "About",
+"href": "https://lisamairforma.com/about"
+},
+{
+"text": "Contact",
+"href": "https://lisamairforma.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://lisamairforma.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lisamairforma.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://lisamairforma.com/events"
+},
+{
+"text": "H.2024 — Amendment #17",
+"href": "https://malegislature.gov/Bills/194/H2024"
+},
+{
+"text": "H.4600 - Amendment #698",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/193/H4600/698/House/Content"
+},
+{
+"text": "H.5105",
+"href": "https://malegislature.gov/Bills/193/H5105"
+},
+{
+"text": "H.5469",
+"href": "https://malegislature.gov/Bills/194/H5469"
+},
+{
+"text": "H.5500 Amendment #1588",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1588/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1231",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1231/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1232",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1232/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1236",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1236/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1237",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1237/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1308",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1308/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1582",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1582/House/Content"
+},
+{
+"text": "H.5500 · Amendment #1593",
+"href": "https://malegislature.gov/Bills/GetAmendmentContent/194/H5500/1593/House/Content"
+},
+{
+"text": "Home",
+"href": "https://lisamairforma.com/"
+},
+{
+"text": "Priorities",
+"href": "https://lisamairforma.com/priorities"
+},
+{
+"text": "View Roll Call",
+"href": "https://legiscan.com/MA/rollcall/H4600/id/1435476"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/193/HouseRollCall200.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall158.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall160.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall163.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall164.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall178.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall185.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall201.pdf"
+},
+{
+"text": "View Roll Call",
+"href": "https://malegislature.gov/RollCall/194/HouseRollCall21.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://lp.constantcontactpages.com/sv/1qbUowD/LisaMairLawnSignVolunteer"
+},
+{
+"text": "Voting Record",
+"href": "https://lisamairforma.com/voting-record"
+},
+{
+"text": "[no text]",
+"href": "https://lisamairforma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaMairForMA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisamairforma"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LisaMairForMA"
+}
 ]

@@ -1,5 +1,4 @@
-Learn More About Democratic Party Candidate, Ken Jamison
-What makes District 15 such a strong family community to me is being able to spend a warm summer’s day with the family at Gladstone’s outside municipal pool, trying fresh lemonade while watching my stepson play at Happy Rock Park, or spending a beautiful Fall evening with the family at Gladfest.
+Skip to main content Hit enter to search or ESC to close Search Close Search Menu About Ken Priorities Endorsements Volunteer Contact Donate Learn More About Democratic Party Candidate, Ken Jamison What makes District 15 such a strong family community to me is being able to spend a warm summer’s day with the family at Gladstone’s outside municipal pool, trying fresh lemonade while watching my stepson play at Happy Rock Park, or spending a beautiful Fall evening with the family at Gladfest.
 I was raised in Gladstone and call it my home along with my wife Sierra, four-year-old stepson, and our dog, Buddy, a rescue from the KC Pet Project.
 You will often find us spending time in the community enjoying one of the many family-friendly activities District 15 has to offer.
 I am also involved in the community by being a member of the Veterans of Foreign Wars Post 10906, American Legion Post 626, Gladstone Chamber of Commerce, and Kansas City Northland Elks Lodge #2376.
@@ -14,4 +13,9 @@ During my time between college and law school, I served four years on active dut
 I attained the rank of Captain, was Honorably Discharged, and served one tour in Afghanistan.
 While in Afghanistan, I was awarded the Navy and Marine Corps Achievement Medal for serving with distinction.
 As you can see, our family has a deep love for District 15 and I want to have the opportunity to serve my community in return.
-Please vote for Ken Jamison on August 6, 2024, so we can make District 15 a warm and enriching environment for families everywhere.
+Please vote for Ken Jamison on August 6, 2024, so we can make District 15 a warm and enriching environment for families everywhere. family-photo-2 Kenneth_Jamison_284998198_5344712805586711_908899815195563412_n Kenneth_Jamison_Marine Photo 2 Ken _Jamison_IMG_0164 Photographs in uniform do not imply endorsement by the U.S.
+Marine Corps or the Department of Defense.
+Paid for by Jamison for Missouri, Kevin Jamison, Treasurer.
+P.O.
+Box 10783, Gladstone, Missouri 64188 © # Jamison For Missouri.
+Close Menu About Ken Priorities Endorsements Volunteer Contact Donate

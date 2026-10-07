@@ -1,14 +1,3 @@
-The Reliable, Conservative Voice Representing Indiana House District 64 is Matt Hostettler.
-State Representative Hostettler understands the values of the people in Gibson, Knox, and Vanderburgh Counties.
-✓ 100% Pro-Life
-Matt is a committed pro-life voice for residents of District 64 and proudly authored HJR 1 during the 2022 Special Session in an attempt to give all preborn Hoosiers Constitutional protection.
-✓ Staunchly Pro-Gun
-Matt is a strong supporter of the 2nd Amendment, voted yes to the lawful (Constitutional) carry bill, and has been endorsed by gun organizations.
-✓ Constitution-focused
-Matt has been a consistent voice of our state Constitution and government operating within its bounds including such provisions as Indiana’s Equal Privileges and Immunities Clause.
-✓ Pro-Freedom
-Matt is a firm believer in our right to life, liberty, and the pursuit of happiness and right to make a living without unconstitutional government intervention.
-✓ Pro-Free Markets
-Matt believes all legitimate, life-supporting businesses are essential to those who own and are employed by them and that they should not be shut down at a whim by edicts out of Indianapolis.
-✓ A Responsibility Advocate
-Matt will continue to fight for policies that support personal and fiscal responsibility in Indianapolis.
+Skip to content Home About Matt Matt’s Record District 64 From the Trail Contribute Contact Matt’s Record The Reliable, Conservative Voice Representing Indiana House District 64 is Matt Hostettler .
+State Representative Hostettler understands the values of the people in Gibson, Knox, and Vanderburgh Counties. ✓ 100% Pro-Life Matt is a committed pro-life voice for residents of District 64 and proudly authored HJR 1 during the 2022 Special Session in an attempt to give all preborn Hoosiers Constitutional protection. ✓ Staunchly Pro-Gun Matt is a strong supporter of the 2nd Amendment, voted yes to the lawful (Constitutional) carry bill, and has been endorsed by gun organizations. ✓ Constitution-focused Matt has been a consistent voice of our state Constitution and government operating within its bounds including such provisions as Indiana’s Equal Privileges and Immunities Clause. ✓ Pro-Freedom Matt is a firm believer in our right to life, liberty, and the pursuit of happiness and right to make a living without unconstitutional government intervention. ✓ Pro-Free Markets Matt believes all legitimate, life-supporting businesses are essential to those who own and are employed by them and that they should not be shut down at a whim by edicts out of Indianapolis. ✓ A Responsibility Advocate Matt will continue to fight for policies that support personal and fiscal responsibility in Indianapolis.
+Stay in Touch Facebook Twitter Mail Site Pages: Home About Matt Matt’s Record District 64 From the Trail Contribute Contact January 22, 2020 Marching for Life October 15, 2017 Back where it all started Previous Page 1 2 Copyright © # Matt Hostettler for State Representative Powered by integriCORE

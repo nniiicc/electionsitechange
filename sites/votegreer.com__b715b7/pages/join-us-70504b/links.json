@@ -1,11 +1,42 @@
 [
-"http://facebook.com/electgreer",
-"http://instagram.com/votegreer",
-"https://secure.actblue.com/donate/votegreer",
-"https://votegreer.com/",
-"https://votegreer.com/cart",
-"https://votegreer.com/community-support",
-"https://votegreer.com/contact",
-"https://votegreer.com/join-us",
-"https://votegreer.com/meet-nicole"
+{
+"text": "0",
+"href": "https://votegreer.com/cart"
+},
+{
+"text": "Community Support",
+"href": "https://votegreer.com/community-support"
+},
+{
+"text": "Contact",
+"href": "https://votegreer.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votegreer"
+},
+{
+"text": "Home",
+"href": "https://votegreer.com/"
+},
+{
+"text": "Join Us",
+"href": "https://votegreer.com/join-us"
+},
+{
+"text": "Meet Nicole",
+"href": "https://votegreer.com/meet-nicole"
+},
+{
+"text": "[image: Nicole Greer for Missouri House District 71]",
+"href": "https://votegreer.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/electgreer"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votegreer"
+}
 ]

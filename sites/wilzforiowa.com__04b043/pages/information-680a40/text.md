@@ -1,11 +1,7 @@
-Check Out the Latest News, Weather, and Events In District 25:
-Weather: https://ottumwaradio.com/ottumwa-weather/
-Local Events Page: https://ottumwaradio.com/events/
-Local News: https://ottumwaradio.com/category/news/local-news/
-Main Page to access everything: https://ottumwaradio.com/
-Disaster Assistance
-The Department of Homeland Security & Emergency Management Services has updated their list of the federal disaster assistance programs available to Iowans who are in federally-declared disaster areas.
-Click the link(s) below to find out more:
-Federal Assistance Program Details
-Iowa Disaster Recovery Farm Interest Program
-or visit: State of Iowa Disaster Recovery
+Meet Hans News Photos Contribute Information Social Media Check Out the Latest News, Weather, and Events In District 25: Weather: https://ottumwaradio.com/ottumwa-weather/ Local Events Page: https: //ottumwaradio.com/events/ Local News: https://ottumwaradio.com/category/news/local-news/ Main Page to access everything: https://ottumwaradio.com/ Disaster Assistance The Department of Homeland Security & Emergency Management Services has updated their list of the federal disaster assistance programs available to Iowans who are in federally-declared disaster areas.
+Click the link(s) below to find out more: Federal Assistance Program Details Disaster Housing Flowchart Iowa Disaster Recovery Farm Interest Program or visit: State of Iowa Disaster Recovery Events Photos Contact This website is sponsored by Wilz for Iowa and is for informational purposes only.
+The content does not provide legal, financial, or professional advice.
+While we strive to provide accurate information, we make no representations or warranties of any kind, and any reliance on the information is at your own risk.
+We are not liable for any loss or damage arising from the use of this website.
+Thank you for visiting our site.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Hans Contribute Photos Events Issues News Contact Close Menu

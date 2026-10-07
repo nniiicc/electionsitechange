@@ -1,13 +1,4 @@
-Back to All Events
-Join Tracy Swartz and friends for a fun-filled pool party and fundraising event for AshLeigh Meyer Dunham!
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events "Splash for Ash" Friday, August 28, 2026 6:00 PM 8:00 PM 188 Roy Drive Madison United States (map) Google Calendar ICS Join Tracy Swartz and friends for a fun-filled pool party and fundraising event for AshLeigh Meyer Dunham!
 Friends, family, and children are welcome.
-RSVP: tracysswartz@gmail.com or 256-468-8679
-Can’t make it?
-Make a contribution here: https://donate.campaigndeputy.com/donate/splashforash
-Previous
-Previous
-August 23
-Meet-and-Greet
-Next
-Next
-September 21
+RSVP: tracysswartz@gmail.com or 256-468-8679 Can’t make it?
+Make a contribution here: https://donate.campaigndeputy.com/donate/splashforash Previous Previous August 23 Meet-and-Greet Next Next September 21 IVF is on the Ballot: An Evening of Stories Awareness, and Action AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

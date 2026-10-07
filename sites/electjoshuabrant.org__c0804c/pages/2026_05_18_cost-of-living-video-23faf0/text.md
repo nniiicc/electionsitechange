@@ -1,2 +1,7 @@
-Joshua Brant, candidate for Indiana State Senate District 23, talks about his plan to restructure taxes in Indiana to incentivize companies to invest back into the state, help close extreme wage gaps without punishing success, and reduce the cost of living and doing business in Indiana.
-For the full plan, click HERE.
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Blog , The Issues Cost of Living Video Published by J.R.
+Brant on May 18, 2026 Joshua Brant, candidate for Indiana State Senate District 23, talks about his plan to restructure taxes in Indiana to incentivize companies to invest back into the state, help close extreme wage gaps without punishing success, and reduce the cost of living and doing business in Indiana.
+For the full plan, click HERE .
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Post-Hotel Update Next: Updated Education Plan → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

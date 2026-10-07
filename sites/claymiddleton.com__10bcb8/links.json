@@ -1,16 +1,74 @@
 [
-"http://instagram.com/claynmiddleton",
-"http://twitter.com/claynmiddleton",
-"https://bsky.app/profile/claynmiddleton.bsky.social",
-"https://claymiddleton.com/",
-"https://claymiddleton.com/cart",
-"https://claymiddleton.com/endorsements",
-"https://claymiddleton.com/events",
-"https://claymiddleton.com/news",
-"https://claymiddleton.com/privacy-policy",
-"https://claymiddleton.com/volunteer",
-"https://facebook.com/ClayMiddletonSC",
-"https://linkedin.com/in/claymiddleton",
-"https://secure.actblue.com/donate/house116",
-"https://threads.com/@claynmiddleton"
+{
+"text": "0",
+"href": "https://www.claymiddleton.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://claymiddleton.com/#contact"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/house116"
+},
+{
+"text": "Endorsements",
+"href": "https://www.claymiddleton.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.claymiddleton.com/events"
+},
+{
+"text": "News",
+"href": "https://www.claymiddleton.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.claymiddleton.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.claymiddleton.com/privacy-policy"
+},
+{
+"text": "READ NOW",
+"href": "https://www.claymiddleton.com/news"
+},
+{
+"text": "The Issues",
+"href": "https://claymiddleton.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.claymiddleton.com/volunteer"
+},
+{
+"text": "[image: Clay Middleton]",
+"href": "https://www.claymiddleton.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/claynmiddleton/"
+},
+{
+"text": "[no text]",
+"href": "http://www.twitter.com/claynmiddleton"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claynmiddleton.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ClayMiddletonSC"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/claymiddleton/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claynmiddleton"
+}
 ]

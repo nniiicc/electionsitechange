@@ -1,32 +1,16 @@
-“Proposals aimed at farmers, rural businesses and families across Greater Minnesota.”
-July 1, 2026
-Valley News Live
-Rural economy
-Grand Forks Herald
-Agriculture
-“From the sugar beet fields to the sunflower fields — what I see is great potential here, especially in a new agriculture economy.”
-June 27, 2026
-Post Bulletin
-Workforce & education
-“We can do that and more in Minnesota because we’re competitive.”
-KTTC
-“If given the opportunity to serve as your governor, I will be laser-focused on Minnesotans getting the skills they need to succeed.”
-June 15, 2026
-The Minnesota Star Tribune
-Opinion
-“Her commitment to bipartisan leadership is rare in our increasingly divided politics.”
-June 11, 2026
-Governing
-“A desire to get legislative buy-in for her ideas from the outset, including from Republicans.”
-June 9, 2026
-Twin Cities Pioneer Press
-Housing
-“I think we should look at this as one of our win-wins, and something we can accomplish without busting the budget in Minnesota.”
-June 8, 2026
-KARE 11
-“The only way you do it is by working with legislators on both sides of the aisle.”
-WDIO
-“As governor, I will support rural communities that want to build more homes.”
-June 1, 2026
-Running mate
-“A former mayor from deep-red western Minnesota who has sought to bridge political divides.”
+Meet Amy Meet Ben Priorities Lower Costs for Minnesotans Make Government Accountable and Root out Fraud Prepare Minnesota’s Workforce for the Future Expand Minnesota’s Rural and Agricultural Economy Support Conservation and Outdoor Recreation Newsroom Lawn Signs Store Get Involved Donate Meet Amy Meet Ben Priorities Newsroom Lawn Signs Store Get Involved Donate Newsroom Follow the latest plans, endorsements, and moments from Amy and Ben’s campaign across Minnesota.
+Klobuchar unveils rural economy plan in Moorhead as part of governor’s race July 1, 2026 Valley News Live Rural economy “Proposals aimed at farmers, rural businesses and families across Greater Minnesota.” Klobuchar unveils rural economy plan in Moorhead as part of governor’s race Klobuchar stops in East Grand Forks to tout rural agriculture and economy plan July 1, 2026 Grand Forks Herald Agriculture “From the sugar beet fields to the sunflower fields — what I see is great potential here, especially in a new agriculture economy.” Klobuchar stops in East Grand Forks to tout rural agriculture and economy plan Klobuchar lays out plans for workforce development, K-12 achievement June 27, 2026 Post Bulletin Workforce & education “We can do that and more in Minnesota because we’re competitive.” Klobuchar lays out plans for workforce development, K-12 achievement Sen.
+Klobuchar visits Rochester, announces workforce readiness plans June 27, 2026 KTTC Workforce & education “If given the opportunity to serve as your governor, I will be laser-focused on Minnesotans getting the skills they need to succeed.” Sen.
+Klobuchar visits Rochester, announces workforce readiness plans Klobuchar is a moderate who would serve Minnesota well as governor June 15, 2026 The Minnesota Star Tribune Opinion “Her commitment to bipartisan leadership is rare in our increasingly divided politics.” Klobuchar is a moderate who would serve Minnesota well as governor In the fine print, a hint at Klobuchar’s governing style June 11, 2026 The Minnesota Star Tribune Governing “A desire to get legislative buy-in for her ideas from the outset, including from Republicans.” In the fine print, a hint at Klobuchar’s governing style U.S.
+Sen.
+Amy Klobuchar rolls out housing plans in campaign for governor June 9, 2026 Twin Cities Pioneer Press Housing “I think we should look at this as one of our win-wins, and something we can accomplish without busting the budget in Minnesota.” U.S.
+Sen.
+Amy Klobuchar rolls out housing plans in campaign for governor After earning DFL endorsement for governor, Sen.
+Amy Klobuchar unveils housing plan June 8, 2026 KARE 11 Housing “The only way you do it is by working with legislators on both sides of the aisle.” After earning DFL endorsement for governor, Sen.
+Amy Klobuchar unveils housing plan Sen.
+Klobuchar will prioritize housing in her campaign for Governor June 8, 2026 WDIO Housing “As governor, I will support rural communities that want to build more homes.” Sen.
+Klobuchar will prioritize housing in her campaign for Governor Who is Ben Schierer, Amy Klobuchar’s running mate?
+June 1, 2026 The Minnesota Star Tribune Running mate “A former mayor from deep-red western Minnesota who has sought to bridge political divides.” Who is Ben Schierer, Amy Klobuchar’s running mate? ← 1 2 3 → New stories are added as the campaign continues across Minnesota.
+Media Inquiries Meet Amy Meet Ben Priorities Newsroom Yard Signs Store Get Involved Minnesotans for Klobuchar PO Box 4009 St.
+Paul, MN 55104 [email protected] X (Twitter) YouTube Facebook Instagram Donate Now Get the Facts Careers Privacy Policy Prepared and paid for by Minnesotans for Klobuchar committee, PO Box 4009 St.
+Paul, MN 55104.

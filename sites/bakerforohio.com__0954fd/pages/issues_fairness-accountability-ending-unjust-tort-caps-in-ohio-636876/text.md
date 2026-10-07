@@ -1,32 +1,12 @@
-Fairness & Accountability: Ending Unjust Tort Caps in Ohio
-Ohio’s civil justice system should work for people, not powerful interests.
+Meet Mike Issues News Volunteer Yard Signs Contribute Home ❭ Issues ❭ Fairness & Accountability: Ending Unjust Tort Caps in Ohio Fairness & Accountability: Ending Unjust Tort Caps in Ohio Ohio’s civil justice system should work for people, not powerful interests.
 Right now, Ohio law places strict limits called tort caps on how much an injured person can recover for pain, suffering, and loss of quality of life, even when a jury finds serious harm.
 These caps were written by politicians under pressure from insurance companies and corporate lobbyists, not by the people who suffer the consequences.
 That’s not justice.
-What’s Wrong with Tort Caps
-Tort caps don’t affect wealthy corporations they protect them.
-They hurt:
-- Seniors, children, and stay-at-home parents
-- Workers with modest incomes
-- Families dealing with permanent injury, trauma, or loss
-Because caps limit non-economic damages, they reduce compensation most for people whose suffering can’t be measured by a paycheck even when the harm is life-altering.
+What’s Wrong with Tort Caps Tort caps don’t affect wealthy corporations they protect them.
+They hurt: Seniors, children, and stay-at-home parents Workers with modest incomes Families dealing with permanent injury, trauma, or loss Because caps limit non-economic damages , they reduce compensation most for people whose suffering can’t be measured by a paycheck even when the harm is life-altering.
 A jury may hear the facts, see the evidence, and decide what is fair only to have that decision overridden by a political formula written decades ago.
-My Position
-I believe:
-- Justice should be decided in a courtroom, not a boardroom
-- Juries not politicians should determine the value of harm
-- Corporations and insurance companies should be held accountable when they cause real damage
-- Ohio’s laws should protect everyday people, not special interests
-Tort caps shift power away from injured Ohioans and toward those who can afford the best lawyers and lobbyists.
+My Position I believe: Justice should be decided in a courtroom, not a boardroom Juries not politicians should determine the value of harm Corporations and insurance companies should be held accountable when they cause real damage Ohio’s laws should protect everyday people, not special interests Tort caps shift power away from injured Ohioans and toward those who can afford the best lawyers and lobbyists.
 That’s the opposite of fairness.
-What I Will Fight For
-As your representative, I will work to:
-- Increase or eliminate unfair caps on non-economic damages
-- Ensure compensation laws reflect today’s real costs of living and healthcare
-- Restore balance to Ohio’s civil justice system
-- Protect access to the courts for working families
-- Stand up to insurance and corporate interests that put profits over people
-Why This Matters
-When accountability disappears, unsafe behavior increases.
+What I Will Fight For As your representative, I will work to: Increase or eliminate unfair caps on non-economic damages Ensure compensation laws reflect today’s real costs of living and healthcare Restore balance to Ohio’s civil justice system Protect access to the courts for working families Stand up to insurance and corporate interests that put profits over people Why This Matters When accountability disappears, unsafe behavior increases.
 Fair civil laws don’t just compensate victims they prevent harm, encourage responsibility, and make communities safer.
-Ohioans deserve a system that values people over profits and justice over political favors.
+Ohioans deserve a system that values people over profits and justice over political favors. « Previous: LGBTQ+ Rights & Individual Freedoms Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

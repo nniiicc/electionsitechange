@@ -1,4 +1,5 @@
-MONMOUTH AND OCEAN COUNTIES, NJ — In the aftermath of last week’s powerful Nor’easter, U.S.
+Skip to content About Endorsements Election Information News Volunteer Contact Donate Rep.
+Smith Leads Survey of Nor’easter Damage Along Monmouth and Ocean County Shore By Jeanne Wall Published October 3, 2026 MONMOUTH AND OCEAN COUNTIES, NJ — In the aftermath of last week’s powerful Nor’easter, U.S.
 Rep.
 Chris Smith led a group of federal, state and local officials on a tour of several shore communities to assess damage caused by flooding, erosion and severe weather.
 The tour included stops in Manasquan, Point Pleasant Beach, Bay Head and Ocean Gate, where officials examined the condition of beaches and coastal infrastructure and discussed both immediate needs and longer-term strategies to better protect the communities from future storms.
@@ -16,7 +17,9 @@ Officials noted that although the Nor’easter caused damage in the communities 
 That experience is providing another opportunity for officials to evaluate what has worked, where additional improvements may be needed and how communities can prepare for increasingly severe coastal weather.
 Smith said the participation of federal, state and local representatives demonstrated the importance of cooperation when addressing storm damage and coastal resilience.
 “I am truly encouraged by the intergovernmental partnership and determination demonstrated today,” Smith said.
-“Building upon what we’ve learned from previous storms and tapping into the continued knowledge and expertise shared today, I look forward to working alongside our great state and local officials to strengthen our shore communities’ resilience and preparation for future severe weather events.”
-The survey comes as shore communities continue to assess the effects of the Nor’easter and consider both short-term recovery needs and future projects aimed at protecting homes, businesses, beaches and critical infrastructure.
+“Building upon what we’ve learned from previous storms and tapping into the continued knowledge and expertise shared today, I look forward to working alongside our great state and local officials to strengthen our shore communities’ resilience and preparation for future severe weather events.” The survey comes as shore communities continue to assess the effects of the Nor’easter and consider both short-term recovery needs and future projects aimed at protecting homes, businesses, beaches and critical infrastructure.
 Rep.
-Smith Leads Survey of Nor’easter Damage Along Monmouth and Ocean County Shore | Middletown, NJ News TAPinto | TAPinto
+Smith Leads Survey of Nor’easter Damage Along Monmouth and Ocean County Shore | Middletown, NJ News TAPinto | TAPinto Post navigation Rep.
+Smith: On the 50th anniversary of the Hyde Amendment, we renew our commitment to end taxpayer-funded abortion Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

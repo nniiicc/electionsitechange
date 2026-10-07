@@ -1,5 +1,4 @@
-MEET ALEXANDRA MACEDO
-Alexandra Macedo was born and raised in Tulare, California to a family deeply rooted in Agriculture.
+0 Skip to Content ABOUT ISSUES CONTACT PHOTOS English DONATE Open Menu Close Menu ABOUT ISSUES CONTACT PHOTOS English DONATE Open Menu Close Menu ABOUT ISSUES CONTACT PHOTOS English Back DONATE MEET ALEXANDRA MACEDO Alexandra Macedo was born and raised in Tulare, California to a family deeply rooted in Agriculture.
 From a young age, Alexandra has had a passion for the agriculture industry.
 Following graduation from Tulare Union High School, Alexandra attended California State University, Northridge where she obtained her B.S. in Business Law.
 Following the completion of her undergraduate degree, Alexandra returned to the Central Valley.
@@ -15,3 +14,4 @@ Alexandra’s family is also carrying on the family tradition of farming almonds
 In addition to the many hats she wears, Alexandra has served on multiple advisory boards and committees for regulation facing the agriculturists on California and regularly visits classrooms and youth groups to educate them on where their food comes from.
 Alexandra’s love and passion for the agriculture industry is present in all that she does, and she takes the responsibility of carrying on this tradition for generations to come very seriously.
 Alexandra plans to run for office so she can continue to serve the men and women of the agricultural community and to effect change on a much larger scale.
+CONTRIBUTE Paid for by Alexandra Macedo for Assembly 2026 Privacy Policy & Terms and Conditions

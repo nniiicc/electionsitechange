@@ -1,12 +1,58 @@
 [
-"https://secure.winred.com/wayne-long-for-state-representative/donate25",
-"https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=100&sc=website-support",
-"https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=25&sc=website-support",
-"https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=250&sc=website-support",
-"https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=50&sc=website-support",
-"https://waynelongforarkansas.com/",
-"https://waynelongforarkansas.com/legislative-record",
-"https://waynelongforarkansas.com/news",
-"https://waynelongforarkansas.com/news/categories/the-unborn",
-"https://waynelongforarkansas.com/privacy-policy"
+{
+"text": "$100",
+"href": "https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=100&sc=website-support"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=25&sc=website-support"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=250&sc=website-support"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/wayne-long-for-state-representative/donate25?amount=50&sc=website-support"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.waynelongforarkansas.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/wayne-long-for-state-representative/donate25"
+},
+{
+"text": "HOME",
+"href": "https://www.waynelongforarkansas.com"
+},
+{
+"text": "LEGISLATIVE RECORD",
+"href": "https://www.waynelongforarkansas.com/legislative-record"
+},
+{
+"text": "MEET WAYNE",
+"href": "https://www.waynelongforarkansas.com"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.waynelongforarkansas.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.waynelongforarkansas.com/privacy-policy"
+},
+{
+"text": "The Unborn",
+"href": "https://www.waynelongforarkansas.com/news/categories/the-unborn"
+},
+{
+"text": "WAYNELONGFORSTATEREP@GMAIL.COM",
+"href": "mailto:WAYNELONGFORSTATEREP@GMAIL.COM"
+},
+{
+"text": "[image]",
+"href": "https://www.waynelongforarkansas.com"
+}
 ]

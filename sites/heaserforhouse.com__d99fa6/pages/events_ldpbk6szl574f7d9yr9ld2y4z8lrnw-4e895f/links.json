@@ -1,21 +1,86 @@
 [
-"http://bsky.app/profile/heaserforhouse.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rogers+Door+Knock&dates=20260917T220000Z%2F20260918T010000Z",
-"https://facebook.com/profile.php?id=61587965761007",
-"https://heaserforhouse.com/",
-"https://heaserforhouse.com/about",
-"https://heaserforhouse.com/cart",
-"https://heaserforhouse.com/connect",
-"https://heaserforhouse.com/donate-1",
-"https://heaserforhouse.com/endorsements",
-"https://heaserforhouse.com/events",
-"https://heaserforhouse.com/events/ldpbk6szl574f7d9yr9ld2y4z8lrnw?format=ical",
-"https://heaserforhouse.com/events/senate-district-34-mn-house-fundraiser",
-"https://heaserforhouse.com/events/xeta2ssytkllhfnntherlmhwmgsjxk",
-"https://heaserforhouse.com/home",
-"https://heaserforhouse.com/platform",
-"https://instagram.com/heaserforhouse",
-"https://secure.actblue.com/donate/heaserforhouse",
-"https://secure.ngpvan.com/VNV_tqUvtkSLH4MIthGkpw2",
-"https://tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+{
+"text": "0",
+"href": "https://www.heaserforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.heaserforhouse.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Connect",
+"href": "https://www.heaserforhouse.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.heaserforhouse.com/donate-1"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/heaserforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heaserforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rogers+Door+Knock&dates=20260917T220000Z%2F20260918T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.heaserforhouse.com/events/ldpbk6szl574f7d9yr9ld2y4z8lrnw?format=ical"
+},
+{
+"text": "Next Next September 19 Rogers Door Knock",
+"href": "https://www.heaserforhouse.com/events/xeta2ssytkllhfnntherlmhwmgsjxk"
+},
+{
+"text": "Platform",
+"href": "https://www.heaserforhouse.com/platform"
+},
+{
+"text": "Previous Previous September 16 Senate District 34 MN House Fundraiser!",
+"href": "https://www.heaserforhouse.com/events/senate-district-34-mn-house-fundraiser"
+},
+{
+"text": "[image: Jason Heaser for MN House of Representatives District 34A]",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.heaserforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/heaserforhouse.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587965761007"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heaserforhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "https://secure.ngpvan.com/VNV_tqUvtkSLH4MIthGkpw2",
+"href": "https://secure.ngpvan.com/VNV_tqUvtkSLH4MIthGkpw2"
+}
 ]

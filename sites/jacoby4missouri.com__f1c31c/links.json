@@ -1,6 +1,18 @@
 [
-"https://cash.app/$Jacoby4Missouri",
-"https://facebook.com/people/Jacoby-Wynkoop-Missouri-House-District-13/61577532284392",
-"https://paypal.me/Jacoby4Missouri",
-"https://secure.actblue.com/donate/jacoby-wynkoop-13"
+{
+"text": "@Jacoby4Missouri",
+"href": "https://www.cash.app/%24Jacoby4Missouri"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/jacoby-wynkoop-13"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Jacoby-Wynkoop-Missouri-House-District-13/61577532284392/"
+},
+{
+"text": "PayPal",
+"href": "https://www.paypal.me/Jacoby4Missouri"
+}
 ]

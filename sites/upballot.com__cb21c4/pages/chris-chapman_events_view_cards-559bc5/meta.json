@@ -1,7 +1,9 @@
 {
- "description": "See Chris\u2019s upcoming campaign events happening near you.",
+ "description": "See Chris’s upcoming campaign events happening near you.",
  "final_url": "https://www.upballot.com/chris-chapman/events?view=cards",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
+ "fingerprint": "641288159112c26ceb2c1df3bfdd3edbfec34a6d",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
  "title": "Upcoming Chris Chapman Events",
  "years_mentioned": []
 }

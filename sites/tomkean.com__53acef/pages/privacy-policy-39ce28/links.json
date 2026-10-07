@@ -1,18 +1,78 @@
 [
-"https://facebook.com/KeanForCongress",
-"https://instagram.com/tomkean",
-"https://secure.winred.com/tomkean/donate",
-"https://secure.winred.com/tomkean/donate?amount=10",
-"https://secure.winred.com/tomkean/donate?amount=100",
-"https://secure.winred.com/tomkean/donate?amount=25",
-"https://secure.winred.com/tomkean/donate?amount=50",
-"https://tomkean.com/",
-"https://tomkean.com/cdn-cgi/l/email-protection",
-"https://tomkean.com/contact",
-"https://tomkean.com/media-center",
-"https://tomkean.com/meet-tom",
-"https://tomkean.com/privacy-policy",
-"https://tomkean.com/wp-content/uploads/2025/09/2026-KFC-Primary.pdf",
-"https://twitter.com/keanforcongress",
-"https://youtube.com/TomKean"
+{
+"text": "$10",
+"href": "https://secure.winred.com/tomkean/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/tomkean/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/tomkean/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/tomkean/donate?amount=50"
+},
+{
+"text": "Contact Us",
+"href": "https://tomkean.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/tomkean/donate"
+},
+{
+"text": "Donate online here",
+"href": "https://secure.winred.com/tomkean/donate"
+},
+{
+"text": "Media",
+"href": "https://tomkean.com/media-center/"
+},
+{
+"text": "Meet Tom",
+"href": "https://tomkean.com/meet-tom/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tomkean.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "https://tomkean.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@TomKean.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@tomkean.com"
+},
+{
+"text": "[image: Tom Kean for Congress Logo]",
+"href": "https://tomkean.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/keanforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KeanForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tomkean/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/TomKean"
+},
+{
+"text": "this form",
+"href": "https://tomkean.com/wp-content/uploads/2025/09/2026-KFC-Primary.pdf"
+}
 ]

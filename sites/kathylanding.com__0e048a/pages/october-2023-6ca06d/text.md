@@ -1,13 +1,11 @@
-October 2023 Update
-Tuesday, October 31, 2023
-Overview:Happy Halloween!
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate October 2023 Update Tuesday, October 31, 2023 Overview: Happy Halloween!
 This month has been filled with a lot of local happenings, but the State House activities are about to pick up as we approach the second year of Session 125.
 Regarding local matters, the most important issue currently are the impending municipal elections on Tuesday, November 7th, just over one week away.
 If you do not always vote in municipal elections, please do so this year.
 Even if you vote every time, please speak with your neighbors and friends, and on Monday before the election, please consider texting at least 5 people you know to remind them to go out and vote.
 I will share my personal thoughts on a few candidates later in this newsletter.
 Everyone has their own opinions, and we all have to respect that, but many people just don't have the time to find out enough to feel comfortable supporting a candidate, which is probably the biggest reason for the notoriously low voter turnout.
-Judicial Election Reform:Last week, our Solicitor for Charleston and Berkeley Counties, Scarlett Wilson spoke at the East Cooper Republican Women's monthly luncheon meeting.
+Judicial Election Reform: Last week, our Solicitor for Charleston and Berkeley Counties, Scarlett Wilson spoke at the East Cooper Republican Women's monthly luncheon meeting.
 She highlighted a number of critical topics, and especially emphasized why the General Assembly needs to act in this next session year to pass judicial election reform.
 I agree 100%.
 The process by which we elect judges throughout the State of South Carolina in the General Assembly is rife with problems.
@@ -21,8 +19,7 @@ I hope you can see how rife with conflict of interest this is, and this is just 
 S.178, S.248, S.130, S.444, S.450, H.3022, H.3447, H.4179 and H.4183 are all bills currently in committee for this Session that deal with reforming our election of judges, many by starting with the JMSC.
 We must accomplish this task in this upcoming Session year.
 When our justice system is corrupted by politicians who benefit their own businesses, everyone else loses.
-Upcoming Deadline for Early Filing of Bills for Session in January:
-The deadline for early filing is November 16th.
+Upcoming Deadline for Early Filing of Bills for Session in January: The deadline for early filing is November 16th.
 I will be filing one bill now, and one likely in January.
 The first one regards requiring all critical infrastructure in the State of South Carolina to be protected from Electromagnetic Pulse (EMP), and that utility companies will offer a payment plan for installment of EMP hardware protection on homeowner’s houses and vehicles.
 A lightning strike that might cause a power surge and damage your house or electrical system is measured in picoseconds, where an EMP is measured in nanoseconds, 1000X faster than a lightning strike.
@@ -45,8 +42,7 @@ Sound too good to be true?
 Well, there is a long-term working model for this, and Mark and I will be drafting a bill to consider this for our state.
 If every teacher and every other state employee across South Carolina could benefit from this, the impact would be huge, and very positive.
 More later on that.
-Charleston Delegation Purpose and Jurisdiction:
-There is a specific body for the General Assembly legislators who represent Charleston County.
+Charleston Delegation Purpose and Jurisdiction: There is a specific body for the General Assembly legislators who represent Charleston County.
 We meet periodically to handle local issues that may or may not need to be passed by the General Assembly in Columbia.
 Many decisions can be made, such as local requests for funding of smaller projects, because the delegation receives funding annually from the GA to handle these needs as appropriate.
 Recently, the Charleston Delegation made headlines because the Chairman of the House Delegation, Representative Leon Stavrinakis (D), District 119 called a meeting of all House Delegation members to hear concerns from the public about the Charleston County School District Board of Trustees.
@@ -58,8 +54,7 @@ I believe that everyone’s time, and especially the time and effort of all of t
 The only good part for taxpayers is that we are not paid for this time.
 We as legislators, including the Chairs of various committees and delegations, should always put forth a good-faith effort to solve problems, not stir up controversy.
 There is enough controversy about the Board of Trustees without us adding to it.
-Charleston County Schools Board of Trustees:
-In August, several of our neighbors in the District who are also teachers asked me to write to the CCSD Board to request that they reopen their search for a new superintendent because they were about to consider offering a contract to "the last man standing" after someone had leaked the names of the 3 candidates online.
+Charleston County Schools Board of Trustees: In August, several of our neighbors in the District who are also teachers asked me to write to the CCSD Board to request that they reopen their search for a new superintendent because they were about to consider offering a contract to "the last man standing" after someone had leaked the names of the 3 candidates online.
 Two of them had dropped out.
 As the only Charleston Delegation member who is both Republican and serves on the Education & Public Works Committee as well as the K-12 Subcommittee, I believed it made sense to look into it.
 A little research online revealed that Dr.
@@ -78,8 +73,7 @@ Gallien resigning rather than fighting this further.
 Unfortunately, we as taxpayers will be paying for this costly mistake.
 I participated in a press conference the other day to set the record straight about the circumstances of how the CCSD Board came to be single-member districts, why this Board is not acting on the wishes of any particular group but rather representing their own districts who voted them into office, and why everyone including elected officials needed to just wait until the investigation results were in.
 For more information, you can listen to Kelly Golden’s podcast interview of me on this subject here.
-Around the District and Mount Pleasant:
-Tuesday, November 7th is our municipal election, and the turnout is normally notoriously low.
+Around the District and Mount Pleasant: Tuesday, November 7th is our municipal election, and the turnout is normally notoriously low.
 I would love for us to set a new record this year.
 If you think it’s not that important, you are definitely mistaken.
 The decisions made locally often impact our lives more than the ones out of Washington!
@@ -104,8 +98,9 @@ Remember to vote on Tuesday, November 7th.
 And if possible, please text 5 of your friends.
 We want to demonstrate that the north end of town, especially the residents of District 80 really understand why it’s so important for our voices to be heard!
 Have a wonderful November!
-Warmest Regards,
-Kathy
---
-Representative Kathy Landing
-South Carolina State House District 80
+Warmest Regards, Kathy -- Representative Kathy Landing South Carolina State House District 80 Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

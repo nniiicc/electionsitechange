@@ -1,9 +1,8 @@
-U.S.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute U.S.
 Rep.
 Subramanyam Launches Reelection Campaign, Endorsed by Former Rep.
 Wexton and U.S.
-Senators Warner and Kaine
-Ashburn, VA – Today, January 12, former VA-10 Representative Jennifer Wexton, U.S.
+Senators Warner and Kaine Jan 14 Written By Suhas for Virginia Ashburn, VA – Today, January 12, former VA-10 Representative Jennifer Wexton, U.S.
 Senator Mark Warner, and U.S.
 Senator Tim Kaine endorsed U.S.
 Representative Suhas Subramanyam for reelection in Virginia’s 10th Congressional District.
@@ -14,16 +13,14 @@ He has done an exceptional job assisting constituents in times of need and uplif
 I know he will continue to do a great job when Democrats win a majority in the next Congress.” Wexton flipped the 10th Congressional District from red to blue in 2018 and served in Congress until 2025.
 U.S.
 Sen.
-Mark Warner, the top of the ticket for Democrats in Virginia this year, said, “Suhas has effectively pushed back on the corruption of the Trump administration as a member of the Oversight Committee.
-His commitment to standing up for Virginians and holding this administration accountable is why I am proud to endorse his campaign for reelection–I look forward to campaigning together.”
-“Suhas Subramanyam is laser-focused on lowering costs and standing up to the Trump Administration’s efforts to drive our economy into the ground, kick federal workers around, and rip health care away from millions of families.
+Mark Warner, the top of the ticket for Democrats in Virginia this year, said, “ Suhas has effectively pushed back on the corruption of the Trump administration as a member of the Oversight Committee.
+His commitment to standing up for Virginians and holding this administration accountable is why I am proud to endorse his campaign for reelection–I look forward to campaigning together.” “Suhas Subramanyam is laser-focused on lowering costs and standing up to the Trump Administration’s efforts to drive our economy into the ground, kick federal workers around, and rip health care away from millions of families.
 I’m proud to endorse Suhas in his race to continue putting Virginians first and getting things done for his constituents,” U.S.
 Sen.
 Tim Kaine said.
 Rep.
 Subramanyam said, “Over the past year, I have fought back against the Trump Administration’s attacks on our community when he took away healthcare, food, and jobs from Virginians.
-I am excited to continue serving in Congress and pave the way for a Democratic majority that will protect our democracy, end the rampant corruption, and lower costs for Virginians.”
-Rep.
+I am excited to continue serving in Congress and pave the way for a Democratic majority that will protect our democracy, end the rampant corruption, and lower costs for Virginians.” Rep.
 Subramanyam has earned a reputation of being one of the most responsive members of Congress.
 In his first 100 days in office, he held a town hall in every county of Virginia’s 10th district.
 To date, his office has sent over 48,000 letter and email responses, successfully resolved over 2,000 constituent cases, and returned over $3 million to constituents.
@@ -31,11 +28,12 @@ Rep.
 Subramanyam has introduced 19 bills, many of which are bipartisan, signed onto over 500 bills and letters, and has secured over $15 million in funding for local projects.
 Rep.
 Subramanyam’s election was one of the most competitive races in 2024, and holding this seat is crucial to Democrats' effort to take back the House in 2026.
-###
-Congressman Rep.
+### Congressman Rep.
 Suhas Subramanyam represents Virginia’s 10th Congressional District in Congress.
 He was the first Indian-American elected to represent the East Coast in Congress.
 Suhas is dedicated to serving Virginians, supporting working families, and protecting federal workers.
 He has worked tirelessly to do so since being sworn into Congress in January 2025.
 Suhas served as a member of the House of Delegates and State Senate prior to his election to Congress in 2024.
 Suhas resides in Ashburn, Virginia (in VA-10) with his wife Miranda and their two daughters.
+Suhas for Virginia Previous Previous Governor Spanberger endorses Rep.
+Subramanyam for reelection in VA-10 Next Next Virginia sends a message to country; Democrats flip Executive Branch, expand Democratic majority in the House of Delegates DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

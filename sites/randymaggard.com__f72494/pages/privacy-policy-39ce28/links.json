@@ -1,4 +1,14 @@
 [
-"https://randymaggard.com/privacy-policy",
-"https://randymaggard.com/terms-conditions"
+{
+"text": "Privacy Policy",
+"href": "https://randymaggard.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://randymaggard.com/terms-conditions/"
+},
+{
+"text": "voterandymaggard@gmail.com",
+"href": "mailto:voterandymaggard@gmail.com"
+}
 ]

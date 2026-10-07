@@ -1,24 +1,134 @@
 [
-"https://bsky.app/profile/ryu4senate.bsky.social",
-"https://cindyryu.com/",
-"https://cindyryu.com/about",
-"https://cindyryu.com/contact",
-"https://cindyryu.com/donate",
-"https://cindyryu.com/endorsements",
-"https://cindyryu.com/events",
-"https://cindyryu.com/issues/addressing-affordability",
-"https://cindyryu.com/issues/closing-equity-gaps-and-expanding-opportunities",
-"https://cindyryu.com/issues/consumer-protection",
-"https://cindyryu.com/issues/fully-funding-education",
-"https://cindyryu.com/issues/housing",
-"https://cindyryu.com/issues/issue-1",
-"https://cindyryu.com/issues/safer-communities",
-"https://cindyryu.com/issues/supporting-small-businesses",
-"https://cindyryu.com/issues/transportation-maintenance-and-expansion",
-"https://cindyryu.com/issues/your-issue-title-here",
-"https://cindyryu.com/volunteer",
-"https://designedtorun.com/",
-"https://instagram.com/ryu4senate",
-"https://threads.net/@ryu4senate",
-"https://x.com/ryu4senate"
+{
+"text": "About",
+"href": "https://www.cindyryu.com/about"
+},
+{
+"text": "Addressing Affordability",
+"href": "https://www.cindyryu.com/issues/addressing-affordability"
+},
+{
+"text": "Closing Equity Gaps",
+"href": "https://www.cindyryu.com/issues/closing-equity-gaps-and-expanding-opportunities"
+},
+{
+"text": "Community Safety",
+"href": "https://www.cindyryu.com/issues/issue-1"
+},
+{
+"text": "Consumer Protection",
+"href": "https://www.cindyryu.com/issues/consumer-protection"
+},
+{
+"text": "Contact",
+"href": "https://www.cindyryu.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.cindyryu.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cindyryu.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.cindyryu.com/events"
+},
+{
+"text": "Fully Funding Education",
+"href": "https://www.cindyryu.com/issues/fully-funding-education"
+},
+{
+"text": "Green Energy & Environmental Protection",
+"href": "https://www.cindyryu.com/issues/your-issue-title-here"
+},
+{
+"text": "Housing",
+"href": "https://www.cindyryu.com/issues/housing"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.cindyryu.com/issues/safer-communities"
+},
+{
+"text": "Supporting Small Businesses",
+"href": "https://www.cindyryu.com/issues/supporting-small-businesses"
+},
+{
+"text": "Transportation Maintenance and Expansion",
+"href": "https://www.cindyryu.com/issues/transportation-maintenance-and-expansion"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/addressing-affordability"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/closing-equity-gaps-and-expanding-opportunities"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/consumer-protection"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/fully-funding-education"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/housing"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/safer-communities"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/supporting-small-businesses"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/transportation-maintenance-and-expansion"
+},
+{
+"text": "View more",
+"href": "https://www.cindyryu.com/issues/your-issue-title-here"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindyryu.com/volunteer"
+},
+{
+"text": "[image: Cindy Ryu]",
+"href": "https://www.cindyryu.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ryu4senate.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@ryu4senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ryu4senate"
+},
+{
+"text": "cindy@cindyryu.com",
+"href": "mailto:cindy@cindyryu.com"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Cliff
-My name is Cliff Groh, and I’m a lifelong Alaskan, dad, former prosecutor, and co-creator of the Permanent Fund Dividend.
+0 Skip to Content About Issues Press Get Involved Donate Today Open Menu Close Menu About Issues Press Get Involved Donate Today Open Menu Close Menu About Issues Press Get Involved Donate Today Meet Cliff My name is Cliff Groh, and I’m a lifelong Alaskan, dad, former prosecutor, and co-creator of the Permanent Fund Dividend.
 I’m running for State House because I care deeply about Alaska’s future.
 I was born and raised in Anchorage, and I now live in Government Hill with my wife Theresa..
 For decades, I’ve worked tirelessly to protect Alaska’s fiscal future.
@@ -21,3 +20,5 @@ Working families are tired of the chaos caused by politicians mismanaging Alaska
 I have the policy experience it takes to address these issues, and I know what it takes to bring Alaskans from different political backgrounds together.
 I will fight for families who are struggling with inflation, the high cost of housing, and uncertainty over the future of the Dividend.
 I will work tirelessly with politicians from all parties and walks of life to find solutions for Alaskans.
+Proven leadership for North Anchorage Donate Today Paid for by Cliff Groh for Alaska, 220 W.
+Manor Ave, Anchorage AK, 99501

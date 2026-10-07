@@ -1,14 +1,54 @@
 [
-"http://eepurl.com/iB63Us",
-"http://squarespace.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeKr028j6rlJJc-NfvOB32i4Cao6vbNLMCyCNhokqo7ENIFTw/viewform",
-"https://gretchenforcolorado.com/",
-"https://gretchenforcolorado.com/cart",
-"https://gretchenforcolorado.com/endorsements",
-"https://gretchenforcolorado.com/events",
-"https://gretchenforcolorado.com/legislation",
-"https://gretchenforcolorado.com/meet-gretchen",
-"https://gretchenforcolorado.com/news",
-"https://gretchenforcolorado.com/take-action",
-"https://secure.actblue.com/donate/gretchen-for-colorado-1"
+{
+"text": "0",
+"href": "https://www.gretchenforcolorado.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gretchen-for-colorado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gretchenforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.gretchenforcolorado.com/events"
+},
+{
+"text": "Legislation",
+"href": "https://www.gretchenforcolorado.com/legislation"
+},
+{
+"text": "Meet Gretchen",
+"href": "https://www.gretchenforcolorado.com/meet-gretchen"
+},
+{
+"text": "News",
+"href": "https://www.gretchenforcolorado.com/news"
+},
+{
+"text": "Online",
+"href": "https://secure.actblue.com/donate/gretchen-for-colorado-1"
+},
+{
+"text": "Sign Up Here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeKr028j6rlJJc-NfvOB32i4Cao6vbNLMCyCNhokqo7ENIFTw/viewform"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Subscribe",
+"href": "http://eepurl.com/iB63Us"
+},
+{
+"text": "Take Action",
+"href": "https://www.gretchenforcolorado.com/take-action"
+},
+{
+"text": "[image: Gretchen for Colorado]",
+"href": "https://www.gretchenforcolorado.com/"
+}
 ]

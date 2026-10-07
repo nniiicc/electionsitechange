@@ -1,4 +1,4 @@
-May 15, 2026 WYPR By Sarah Petrowich The Maryland General Assembly passed an array of election reforms this year to try and curb election interference and increase voter access ahead of the General Election this November.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute May 15, 2026 Home 2026 May Day: May 15, 2026 May 15, 2026 In The News Slate of Maryland election reform bills set to go into law before November midterms May 15, 2026 WYPR By Sarah Petrowich The Maryland General Assembly passed an array of election reforms this year to try and curb election interference and increase voter access ahead of the General Election this November.
 State Sen.
-Cheryl Kagan …
-Continue Reading
+Cheryl Kagan … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

@@ -1,14 +1,66 @@
 [
-"https://facebook.com/NapoleonFor154",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/napoleonfor154",
-"https://napoleonfor154.com/",
-"https://napoleonfor154.com/about",
-"https://napoleonfor154.com/platform",
-"https://napoleonfor154.com/voter-info",
-"https://secure.actblue.com/donate/friendsofnapoleonnelson",
-"https://secure.ngpvan.com/FMSKIFwWPUK3zTic3WsBsw2",
-"https://secure.ngpvan.com/oxS3fGCghkuyo3olVKMEYQ2",
-"https://x.com/NapoleonFor154",
-"https://youtube.com/channel/UCExF2r90ID8oFkvU1r39XtA"
+{
+"text": "About",
+"href": "https://napoleonfor154.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://secure.ngpvan.com/oxS3fGCghkuyo3olVKMEYQ2"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/friendsofnapoleonnelson"
+},
+{
+"text": "HELP WITH PETITIONS",
+"href": "mailto:info@napoleonfor154.com?subject=Petition+helper&body=I+would+like+to+help+get+Napoleon+on+the+ballot.+Please+put+me+to+work%21"
+},
+{
+"text": "Home",
+"href": "https://napoleonfor154.com/"
+},
+{
+"text": "Platform",
+"href": "https://napoleonfor154.com/platform"
+},
+{
+"text": "Secure Donation Site",
+"href": "https://secure.actblue.com/donate/friendsofnapoleonnelson"
+},
+{
+"text": "Voter Info",
+"href": "https://napoleonfor154.com/voter-info"
+},
+{
+"text": "We need you",
+"href": "https://secure.ngpvan.com/FMSKIFwWPUK3zTic3WsBsw2"
+},
+{
+"text": "We'd love to hear from you",
+"href": "https://secure.ngpvan.com/oxS3fGCghkuyo3olVKMEYQ2"
+},
+{
+"text": "[image: Napoleon Nelson for State Rep]",
+"href": "https://napoleonfor154.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NapoleonFor154"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/napoleonfor154/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/NapoleonFor154"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCExF2r90ID8oFkvU1r39XtA%20"
+}
 ]

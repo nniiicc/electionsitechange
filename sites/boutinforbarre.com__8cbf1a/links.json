@@ -1,14 +1,70 @@
 [
-"https://barrecity.org/election-information",
-"https://boutinforbarre.com/",
-"https://boutinforbarre.com/about",
-"https://boutinforbarre.com/boutin-beat",
-"https://boutinforbarre.com/contact-me",
-"https://boutinforbarre.com/donate",
-"https://boutinforbarre.com/issues",
-"https://boutinforbarre.com/voting-record",
-"https://facebook.com/boutinforbarre",
-"https://sevendaysvt.com/news/two-rookie-reps-headed-to-the-house-heres-what-they-learned-43841793",
-"https://sos.vermont.gov/elections/voters/voter-guide",
-"https://vote.vermont.gov/"
+{
+"text": "About",
+"href": "https://boutinforbarre.com/about"
+},
+{
+"text": "Boutin Beat",
+"href": "https://boutinforbarre.com/boutin-beat"
+},
+{
+"text": "CHECK MY REGISTRATION",
+"href": "https://vote.vermont.gov/"
+},
+{
+"text": "Contact",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Contact Me",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://boutinforbarre.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Home",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "Issues",
+"href": "https://boutinforbarre.com/issues"
+},
+{
+"text": "Read the Article",
+"href": "https://www.sevendaysvt.com/news/two-rookie-reps-headed-to-the-house-heres-what-they-learned-43841793"
+},
+{
+"text": "See My Record",
+"href": "https://boutinforbarre.com/voting-record"
+},
+{
+"text": "VOTE EARLY",
+"href": "https://www.barrecity.org/election-information"
+},
+{
+"text": "VOTING INFORMATION",
+"href": "https://sos.vermont.gov/elections/voters/voter-guide"
+},
+{
+"text": "Voting Record",
+"href": "https://boutinforbarre.com/voting-record"
+},
+{
+"text": "[image]",
+"href": "https://www.sevendaysvt.com/news/two-rookie-reps-headed-to-the-house-heres-what-they-learned-43841793"
+},
+{
+"text": "[no text]",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/boutinforbarre"
+}
 ]

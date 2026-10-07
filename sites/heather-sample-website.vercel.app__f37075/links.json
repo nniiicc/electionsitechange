@@ -1,5 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61570996515662",
-"https://heather-sample-website.vercel.app/privacy.html",
-"https://secure.actblue.com/donate/heatherlsampleforohio67"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heatherlsampleforohio67"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/heatherlsampleforohio67"
+},
+{
+"text": "Email Heather",
+"href": "mailto:connor@heatherlsample.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61570996515662"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:connor@heatherlsample.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heather-sample-website.vercel.app/privacy.html"
+}
 ]

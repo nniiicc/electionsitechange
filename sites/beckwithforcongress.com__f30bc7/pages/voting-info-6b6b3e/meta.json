@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.beckwithforcongress.com/voting-info",
- "paid_for_by": null,
- "title": "VOTING INFO \u2014 Beckwith for Congress",
+ "fingerprint": "676564c18a2e09a46a31110de1b2d7c603ba0a12",
+ "format": 3,
+ "paid_for_by": "authorized by Dave Beckwith for Congress",
+ "title": "VOTING INFO — Beckwith for Congress",
  "years_mentioned": [
+  "1981",
   "2026"
  ]
 }

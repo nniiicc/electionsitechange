@@ -1,14 +1,50 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/83950/22d76a76510c47f4ba88967a4cc81928.jpg",
-"https://tysonfornchouse.com/",
-"https://tysonfornchouse.com/about_steve",
-"https://tysonfornchouse.com/contact",
-"https://tysonfornchouse.com/events",
-"https://tysonfornchouse.com/home",
-"https://tysonfornchouse.com/issues",
-"https://tysonfornchouse.com/make-endorsement",
-"https://tysonfornchouse.com/news",
-"https://tysonfornchouse.com/photos",
-"https://tysonfornchouse.com/view-endorsements"
+{
+"text": "About Steve",
+"href": "https://www.tysonfornchouse.com/about_steve"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.tysonfornchouse.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.tysonfornchouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.tysonfornchouse.com/home"
+},
+{
+"text": "Make Endorsement",
+"href": "https://www.tysonfornchouse.com/make-endorsement"
+},
+{
+"text": "News",
+"href": "https://www.tysonfornchouse.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.tysonfornchouse.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.tysonfornchouse.com/photos"
+},
+{
+"text": "Send us a Message",
+"href": "https://www.tysonfornchouse.com/contact"
+},
+{
+"text": "[image: Elect Steve Tyson for NC House, District 3 in 2022]",
+"href": "https://www.tysonfornchouse.com/"
+},
+{
+"text": "[image: Steve Tyson was named Builder of the Year for 2019 by the Home Builders Associate of Craven and Pamlico Counties at their Annual Awards Banquet.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/83950/22d76a76510c47f4ba88967a4cc81928.jpg"
+}
 ]

@@ -1,3 +1,5 @@
+top of page MEET JESSICA RECORD ON THE ISSUES EVENTS NEWS DONATE All Posts All Posts MAHA Institute endorsed Jessica Means for Tennessee House District 1.
 A farmer, local business owner, and Chairman of the Sullivan County Health Council, Jessica Means entered this legislative race with a clear purpose: to advance the MAHA mission and secure medical sovereignty for the families of Tennessee.
 Jessica views medical freedom as the frontline of modern liberty, recognizing that the right to bodily autonomy is a natural right that must be shielded from state-sponsored coercion.
-Means is an energetic advocate for lifestyle-focused wel
+Means is an energetic advocate for lifestyle-focused wel mandjmeans Jun 12 1 min read Jessica Means Announces Campaign for Tennessee State Representative in District 1 “I’m running because I believe leadership is about responsibility; listening to families, doing the work, and following through.” Team Jessica Feb 17 2 min read Email * Yes, subscribe me to your newsletter. * Submit PO Box 114 Blountville, TN 37617 423-384-5813 votejessicameans@gmail.com Privacy Policy © # by Jessica Means for House. ​ Paid for by Jessica Means for House.
+Treasurer Tim Crowder. bottom of page

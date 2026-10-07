@@ -1,7 +1,6 @@
-Former Air Force Attorney Considering Independent Run Against Nebraska U.S.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Former Air Force Attorney Considering Independent Run Against Nebraska U.S.
 Rep.
-Adrian Smith
-LINCOLN, NE — Mark Cohen, a resident of Lemoyne, has initiated an exploratory committee to assess the feasibility of an independent candidacy for the U.S.
+Adrian Smith Aug 26 Written By Mark Cohen AUTHOR: Admin August 26, 2025 Mark Cohen Forms Exploratory Committee for Independent House Bid in Nebraska’s 3rd District LINCOLN, NE — Mark Cohen, a resident of Lemoyne, has initiated an exploratory committee to assess the feasibility of an independent candidacy for the U.S.
 House of Representatives, targeting Nebraska’s 3rd Congressional District in the upcoming 2026 midterms.
 This district, known for its conservative leaning, encompasses central and western Nebraska and parts of the northeastern and southeastern regions.
 Currently represented by U.S.
@@ -18,3 +17,8 @@ As populism gains traction in U.S. politics, Cohen asserts that constituents of 
 Note: The image is for illustrative purposes only and is not the original image associated with the presented article.
 Due to copyright reasons, we are unable to use the original images.
 However, you can still enjoy the accurate and up-to-date content and information provided.
+Mark Cohen Previous Previous Former Air Force Judge Advocate Forms Exploratory Committee for Independent Challenge to U.S.
+Rep.
+Adrian Smith Next Next Former Air Force attorney mulling indy bid against Nebraska U.S.
+Rep.
+Adrian Smith Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

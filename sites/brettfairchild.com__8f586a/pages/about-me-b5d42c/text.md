@@ -1,5 +1,5 @@
-About Me
-My name is Brett Fairchild, and I’m running for State Representative in Kansas in the 133rd district.
+Skip to content Fairchild for Freedom Pro Life | Pro Liberty Menu Home About Me Issue Positions Abortion Agriculture Budgetary Issues Civil Liberties Education Gun Rights Health Care Immigration Licensing Reform Religious Liberty Spending Taxes KS State Rep., Dist.
+113 Donate Get Involved Newsletter About Me My name is Brett Fairchild , and I’m running for State Representative in Kansas in the 133rd district.
 I’m a farmer from St.
 John, Kansas.
 I was born in Stafford, KS, and I grew up on a farm in St.
@@ -14,4 +14,4 @@ I currently attend Calvary Baptist Church in Stafford, KS.
 I’ve served as an usher and on the finance committee at Calvary Baptist.
 I’ve also helped out with the AWANA program for several years.
 I'm a strong, pro life Christian who will fight for those values in the state legislature.
-My political experience includes running for state representative in the 113th district in 2018 and working as an office assistant during the 2019 legislative session for Representative David French and Representative Ken Collins.
+My political experience includes running for state representative in the 113th district in 2018 and working as an office assistant during the 2019 legislative session for Representative David French and Representative Ken Collins. © # Fairchild For Freedom Website Design by Atlas Marketing Solutions

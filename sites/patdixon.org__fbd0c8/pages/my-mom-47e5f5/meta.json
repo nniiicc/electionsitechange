@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/my-mom/",
- "paid_for_by": null,
+ "fingerprint": "364f1fffdfd7cd999c6add2b59d19b32f98d56ad",
+ "format": 3,
+ "paid_for_by": "",
  "title": "My Mom",
- "years_mentioned": []
+ "years_mentioned": [
+  "2008",
+  "2015",
+  "2026"
+ ]
 }

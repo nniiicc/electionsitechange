@@ -1,25 +1,4 @@
-- Minnesota Democratic-Farmer-Labor Party
-- Minnesota Association of Professional Employees (MAPE)
-- Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund
-- LGBTQ+ Victory Fund
-- Minnesota DFL Senior Caucus
-- Sierra Club (North Star Chapter)
-- Stonewall DFL
-- International Association of Sheet Metal, Air, Rail and Transportation Workers (Transportation Division)
-- Brotherhood of Locomotive Engineers and Trainmen
-- Conservation Minnesota Voter Center
-- OutFront Minnesota Action
-- Minnesota National Organization for Women (NOW) Political Action Committee
-- Save the Boundary Waters Action Fund
-- SEIU MN State Council
-- Teamsters Joint Council 32
-- Education Minnesota
-- International Union of Operating Engineers Local 49
-- Minnesota AFL-CIO
-- Minnesota Nurses Association
-- Pro-Choice Minnesota
-- LiUNA (Laborers' International Union of North America)
-- Gender Justice Action PAC
-- The Committee to Protect Health Care
-- Friends of the Boundary Waters Action Network
-- Humane World Action Fund
+Vision Meet Scott Record Endorsements Facebook Donate Vision Meet Scott Record Endorsements Facebook Donate 2026 Endorsements Minnesota Democratic-Farmer-Labor Party Minnesota Association of Professional Employees (MAPE) Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund LGBTQ+ Victory Fund Minnesota DFL Senior Caucus Sierra Club (North Star Chapter) Stonewall DFL International Association of Sheet Metal, Air, Rail and Transportation Workers (Transportation Division) Brotherhood of Locomotive Engineers and Trainmen Conservation Minnesota Voter Center OutFront Minnesota Action Minnesota National Organization for Women (NOW) Political Action Committee Save the Boundary Waters Action Fund SEIU MN State Council Teamsters Joint Council 32 Education Minnesota International Union of Operating Engineers Local 49 Minnesota AFL-CIO Minnesota Nurses Association Pro-Choice Minnesota LiUNA (Laborers' International Union of North America) Gender Justice Action PAC The Committee to Protect Health Care Friends of the Boundary Waters Action Network Humane World Action Fund View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize SCOTT IS RUNNING... because Minnesota can—and must—become a state where everyone has a fair shot and a stable foundation to build their dreams.
+He has delivered before.
+And he’s ready to lead Minnesota into its next era of shared prosperity.
+Scott's Vision Donate Scott on Facebook Prepared and paid for by Volunteers for Dibble 2801 Hennepin Ave, Unit 26 Minneapolis, MN 55408-1907 Contact | Donate at ActBlue

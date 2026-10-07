@@ -1,4 +1,4 @@
-I am a lifelong resident of Minnesota.
+0 Skip to Content Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Open Menu Close Menu Open Menu Close Menu Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses Meet Me Monday Weekly Observations About the Candidate Political Philosophy About the Campaign Constituent Responses I am a lifelong resident of Minnesota.
 I was born and raised in the cities and townships of Stillwater and Grant.
 I was the eldest of five children in a family that gradually grew to nine when my cousins were fostered by my parents.
 I attended the Stillwater area public school system and graduated from Stillwater Senior High School.
@@ -41,3 +41,17 @@ There are so many people that their faces fade into the past.
 They don’t do it for fame or fortune.
 They do it because it’s the right thing to do.
 These are the people I dedicate my campaign to.
+Your Common Sense Conservative, Independent Republican choice for Minnesota Senate District 56.
+It’s simple, are you better off now than you were eight years ago?
+Raymond Petersen is an honorably discharged veteran of the United States Navy.
+Use of Mr.
+Petersen’s military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+The appearance or likeness of anyone (living or past), locations, logos, trademarks or other identifying characteristics of people, places or things does not constitute an endorsement of or by Mr.
+Petersen.
+This is a self-funded campaign by Mr.
+Petersen and does not and cannot accept contributions, donations or public subsidies.
+If you would like to assist, please let your family, friends and neighbors know about the campaign.
+I have a limited supply of yard signs available.
+If you would like to host one at no cost, please email me.
+Prepared and Paid for by raymond petersen P.O.
+Box 240262 Apple Valley, MN 55124

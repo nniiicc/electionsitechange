@@ -1,4 +1,4 @@
-Amanda is a graduate of Colby College and has an MBA from Brandeis University's Heller School for Social Policy and Management.
+top of page DONATE Home Meet Amanda Issues Get Involved Endorsements Events Q & A Values Contact Amanda is a graduate of Colby College and has an MBA from Brandeis University's Heller School for Social Policy and Management.
 She has spent her career working for nonprofits, beginning at WISE in the Upper Valley where she provided domestic and sexual violence crisis and prevention services.
 Knowing the importance of finances to nonprofits, to gain development experience she took a position with a large nonprofit in Boston as Associate Director of Foundation Relations and Capital Campaign Manager.
 She then led fundraising and development at Groundwork Lawrence, a community development corporation focused on environmental justice, overseeing annual private fundraising of $1.2 million.
@@ -11,4 +11,6 @@ Johnsbury.
 Amanda lives in St.
 Johnsbury, with her husband, Dr.
 John Raser, three children, and her mother, Meryle.
-She loves spending time outdoors with her family and coaching and playing basketball.
+She loves spending time outdoors with her family and coaching and playing basketball. © # Paid for by Cochrane for Vermont P.O.
+Box 271 St.
+Johnsbury, VT 05819 bottom of page

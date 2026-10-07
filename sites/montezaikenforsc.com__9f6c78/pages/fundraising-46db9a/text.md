@@ -1,2 +1,3 @@
-Fish Fry Pre-sale Each plate will include whiting, mac and cheese or rice, and green beans. * To purchase more than one plate, the total in the “custom amount” tab.
-Each plate is $20.00. $20.00 In Spirit Ticket $20.00 Pre-sale ticket Custom Amount Please enter an amount $ Support us by covering the fees we have to pay 3% Cover the Fee Purchase Purchase
+Skip to Content Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers Fish Fry Pre-sale Each plate will include whiting, mac and cheese or rice, and green beans. * To purchase more than one plate, the total in the “custom amount” tab.
+Each plate is $20.00. $20.00 In Spirit Ticket $20.00 Pre-sale ticket Custom Amount Please enter an amount $ Support us by covering the fees we have to pay 3% Cover the Fee Purchase Purchase Paid for by Montez Aiken for South Carolina.
+Privacy, Terms, and Conditions: https://www.montezaikenforsc.com/privacy

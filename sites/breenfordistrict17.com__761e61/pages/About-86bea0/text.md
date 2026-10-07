@@ -1,4 +1,4 @@
-I was born and raised in Brooklyn, New York, the middle child of two Navy officers.
+top of page Home About Issues Get Involved DONATE I was born and raised in Brooklyn, New York, the middle child of two Navy officers.
 From an early age, I was taught the values of service, discipline, and responsibility.
 Those principles have guided my life and career, and they are what inspire me to seek public office today.
 I earned my Bachelor’s degree from SUNY Brockport and later completed my Master’s in Teaching at SUNY Binghamton.
@@ -17,3 +17,8 @@ After many years of the same voices and the same approaches, our district deserv
 After a career dedicated to advocating for others and navigating complex legal systems, I am prepared to bring steady leadership, careful judgment, and practical problem-solving to Raleigh.
 I understand how laws affect real people from families, workers, small business owners, and retirees, and I believe government should work with clarity, fairness, accountability, and a willingness to adapt when change is needed.
 It would be my honor to represent the people of North Carolina’s 17th District and to serve with the same commitment to integrity, service, and forward-thinking leadership that has defined my life.
+About: Why Dennis A.
+Breen for NC District 17? email: dabreenfornc17@gmail.com Stay up to date Email address * Yes, I agree to receive campaign emails. * SUBSCRIBE 9869 Ocean Highway West Suite 3 PO Box 202 Carolina Shores, NC 28467 © # by Dennis Breen.
+Paid for By Dennis A.
+Breen for NC 17.
+Powered and secured by Wix Privacy Policy Accessibility Statement Terms & Conditions bottom of page

@@ -1,13 +1,58 @@
 [
-"https://facebook.com/thomaschittenden",
-"https://feedly.com/i/subscription/feed/https://www.thomaschittenden.com/rss",
-"https://secure.actblue.com/donate/chittendenforsenate",
-"https://thomaschittenden.com/",
-"https://thomaschittenden.com/about",
-"https://thomaschittenden.com/contact_old",
-"https://thomaschittenden.com/donate",
-"https://thomaschittenden.com/issues",
-"https://thomaschittenden.com/privacy",
-"https://thomaschittenden.com/updates/growth",
-"https://twitter.com/tchittenden"
+{
+"text": "About",
+"href": "https://www.thomaschittenden.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.thomaschittenden.com/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/chittendenforsenate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/thomaschittenden/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.thomaschittenden.com/contact_old/"
+},
+{
+"text": "Issues",
+"href": "https://www.thomaschittenden.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.thomaschittenden.com/privacy"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/tchittenden"
+},
+{
+"text": "[image: Thomas Chittenden]",
+"href": "https://www.thomaschittenden.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/thomaschittenden/"
+},
+{
+"text": "[tooltip: RSS]",
+"href": "https://feedly.com/i/subscription/feed/https://www.thomaschittenden.com/rss/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/tchittenden"
+},
+{
+"text": "grow our economy",
+"href": "https://www.thomaschittenden.com/updates/growth/"
+},
+{
+"text": "running for re-election to the State Senate",
+"href": "https://www.thomaschittenden.com/"
+}
 ]

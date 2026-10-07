@@ -1,9 +1,13 @@
 {
  "description": "My name is Gonzalo Duran and this is my autobiography. I was born and raised in the Belmont section of the Bronx, the son of a single mother",
  "final_url": "https://www.gonzaloduran.nyc/gonzalo-duran-autobiography/",
- "paid_for_by": null,
+ "fingerprint": "00a63d736f370206101e1f98dcebdd5798e8ba21",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Autobiography - Gonzalo Duran",
  "years_mentioned": [
+  "2003",
+  "2008",
   "2011",
   "2013",
   "2014",

@@ -1,15 +1,58 @@
 [
-"https://facebook.com/BillHuizenga",
-"https://huizengaformichigan.com/",
-"https://huizengaformichigan.com/about",
-"https://huizengaformichigan.com/issues",
-"https://huizengaformichigan.com/join",
-"https://huizengaformichigan.com/news",
-"https://huizengaformichigan.com/privacy-policy",
-"https://huizengaformichigan.com/terms-and-conditions",
-"https://instagram.com/billhuizenga",
-"https://mlive.com/crime/2026/08/saginaw-ranks-no-2-in-us-for-violent-crime-six-michigan-cities-crack-fbis-top-50.html",
-"https://secure.winred.com/huizenga-for-congress/contribute",
-"https://twitter.com/billhuizenga",
-"https://youtube.com/@HuizengaForCongress"
+{
+"text": "About",
+"href": "https://huizengaformichigan.com/about/"
+},
+{
+"text": "Back to News",
+"href": "https://huizengaformichigan.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/huizenga-for-congress/contribute"
+},
+{
+"text": "Issues",
+"href": "https://huizengaformichigan.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://huizengaformichigan.com/join/"
+},
+{
+"text": "News",
+"href": "https://huizengaformichigan.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://huizengaformichigan.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://huizengaformichigan.com/terms-and-conditions"
+},
+{
+"text": "[image: Huizenga for Congress]",
+"href": "https://huizengaformichigan.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/billhuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillHuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billhuizenga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HuizengaForCongress"
+},
+{
+"text": "released new data",
+"href": "https://www.mlive.com/crime/2026/08/saginaw-ranks-no-2-in-us-for-violent-crime-six-michigan-cities-crack-fbis-top-50.html"
+}
 ]

@@ -1,42 +1,166 @@
 [
-"https://abledems.org/",
-"https://aflcio.org/",
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://cfequality.org/",
-"https://couragefordemocracy.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeaQMXjJZqdzsyD_Ro3RdVOe7REwcETtaMGGuTFKnxCvveHPg/viewform",
-"https://dsaneworleans.org/",
-"https://everytown.org/",
-"https://everytown.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-volunteer-endorsements-backing-44-candidates-across-20-states",
-"https://facebook.com/electlaurenjewett",
-"https://forumforequalitypac.com/",
-"https://ideaofneworleans.org/",
-"https://indivisiblenola.org/",
-"https://instagram.com/electlaurenjewett",
-"https://iwoneworleans.org/",
-"https://laaflcio.org/",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://louisianadems.org/",
-"https://nowpac.org/",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://teachersunify.org/",
-"https://tiktok.com/@electlaurenjewett",
-"https://utno.la.aft.org/",
-"https://x.com/ElectLJewett",
-"https://ydlouisiana.org/",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "ENDORSE LAUREN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeaQMXjJZqdzsyD_Ro3RdVOe7REwcETtaMGGuTFKnxCvveHPg/viewform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "Read the press release",
+"href": "https://www.everytown.org/press/everytown-for-gun-safety-action-fund-announces-new-round-of-volunteer-endorsements-backing-44-candidates-across-20-states/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[image: AFL-CIO logo]",
+"href": "https://aflcio.org/"
+},
+{
+"text": "[image: Able Dems logo]",
+"href": "https://www.abledems.org/"
+},
+{
+"text": "[image: Center for Freethought Equality logo]",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[image: Courage for Democracy logo]",
+"href": "https://couragefordemocracy.com/"
+},
+{
+"text": "[image: Everytown for Gun Safety Action Fund logo]",
+"href": "https://www.everytown.org/"
+},
+{
+"text": "[image: Forum for Equality PAC logo]",
+"href": "https://www.forumforequalitypac.com/"
+},
+{
+"text": "[image: Independent Democratic Electors Association logo]",
+"href": "https://www.ideaofneworleans.org/"
+},
+{
+"text": "[image: Independent Women's Organization (IWO) logo]",
+"href": "https://www.iwoneworleans.org/"
+},
+{
+"text": "[image: Indivisible NOLA logo]",
+"href": "https://www.indivisiblenola.org/"
+},
+{
+"text": "[image: Louisiana AFL-CIO logo]",
+"href": "https://laaflcio.org/"
+},
+{
+"text": "[image: Louisiana Democrats logo]",
+"href": "https://louisianadems.org/"
+},
+{
+"text": "[image: National Organization for Women Political Action Committee logo]",
+"href": "https://nowpac.org/"
+},
+{
+"text": "[image: New Orleans Democratic Socialists of America logo]",
+"href": "https://www.dsaneworleans.org/"
+},
+{
+"text": "[image: Teachers Unify to End Gun Violence Action logo]",
+"href": "https://www.teachersunify.org/"
+},
+{
+"text": "[image: United Teachers of New Orleans logo]",
+"href": "https://utno.la.aft.org/"
+},
+{
+"text": "[image: Young Democrats of Louisiana logo]",
+"href": "https://www.ydlouisiana.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+}
 ]

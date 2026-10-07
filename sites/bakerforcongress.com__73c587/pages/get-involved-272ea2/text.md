@@ -1,4 +1,4 @@
-Get Involved
-We are truly grateful for your help!
+0 Skip to Content Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Open Menu Close Menu Why I'm Running Announcement Video About Ethan Issues Media Releases Get Involved Donate Get Involved We are truly grateful for your help!
 By getting involved in any way, you are helping model the kind of community we all want to live in.
 A community built on connection, generosity and people helping people.
+Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # Privacy Policy ‍ ‍ Terms of Service ‍ ‍ Disclaimer contact@BakerForCongress.com contact@BakerForCongress.com Donations by check can be sent to: Baker For Congress 801 West Big Beaver Road #300, Troy, MI 48084 © # PAID FOR BY BAKER FOR CONGRESS

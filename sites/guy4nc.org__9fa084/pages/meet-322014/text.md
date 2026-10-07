@@ -1,4 +1,4 @@
-Long experience to help people get along and get good things done.
+Skip to content 919-213-9099 Facebook-f Twitter Envelope Meet Meet the Candidate US House District 4 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Expanded Housing Market Restorative Justice Electoral Reform — Independent Voters Electoral Reform — Instant Runoff Voting Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Long experience to help people get along and get good things done.
 I moved to North Carolina in 1985 to learn about trees from Dr.
 JC Raulston at North Carolina State University.
 I was a Lecturer and Curator there, an Instructor at Duke University, and an Arborist at the University of North Carolina.
@@ -6,7 +6,7 @@ I have taught, lived, and learned in 29 countries.
 Running a marathon in 48 states developed stamina, and appreciation for every corner of this great land.
 I’ve lived in Durham with my partner Karen since 2015.
 As a working arborist, I delivered tree health care, support systems, and pruning to improve tree health, stability, and longevity.
-I developed a series called Detective Dendro, and wrote 34 episodes.
+I developed a series called Detective Dendro , and wrote 34 episodes.
 I review and edit publications, and participate in committees that develop tree care standards.
 Committee work taught me to listen, stand firm when I am right, and concede when I need to learn.
 That experience qualifies me to review, amend, and help write laws.

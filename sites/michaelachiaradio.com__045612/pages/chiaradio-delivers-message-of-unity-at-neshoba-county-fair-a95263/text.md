@@ -1,5 +1,4 @@
-- June 26, 2026
-PHILADELPHIA, MS — Democratic nominee for Congress Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate June 26, 2026 Chiaradio Delivers Message of Unity at Neshoba County Fair PHILADELPHIA, MS — Democratic nominee for Congress Michael A.
 Chiaradio spoke at the Neshoba County Fair this week, delivering a message centered on unity, community, and a shared vision for Mississippi’s future.
 Addressing fairgoers during one of Mississippi’s most well-known political traditions, Chiaradio focused his remarks on the importance of bringing people together rather than emphasizing political divisions.
 Drawing from his own experience after moving to Shubuta, he shared the story of how his neighbors welcomed him into the community and taught him that one of life’s greatest assets is having neighbors who care for and support one another.
@@ -10,13 +9,8 @@ He described these goals as practical investments that can strengthen communitie
 The speech concluded with a commitment to represent all constituents, regardless of political affiliation or whether they supported his campaign.
 Chiaradio pledged to work to make Mississippi stronger by focusing on solutions, cooperation, and public service.
 As the campaign continues building momentum across Mississippi’s Third Congressional District, Chiaradio remains committed to bringing people together around a hopeful vision focused on service, opportunity, and strengthening local communities.
-Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio
-And special thanks to the Clarion Ledger for allowing us to share their photos from the Neshoba County Fair.
-You can see more photos from the day here: https://www.clarionledger.com/picture-gallery/news/politics/2026/06/24/politicians-take-the-stage-for-the-first-day-of-speaking-at-the-2026-neshoba-county-fair/90663008007/
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Supporters interested in helping the campaign continue its outreach efforts across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio And special thanks to the Clarion Ledger for allowing us to share their photos from the Neshoba County Fair.
+You can see more photos from the day here: https://www.clarionledger.com/picture-gallery/news/politics/2026/06/24/politicians-take-the-stage-for-the-first-day-of-speaking-at-the-2026-neshoba-county-fair/90663008007/ Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

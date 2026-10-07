@@ -1,3 +1,4 @@
+Skip to main content Meet Richard Priorities Endorsements District 57 News Get Involved Voter Info Facebook Donate Meet Richard Priorities Endorsements District 57 News Get Involved Voter Info Facebook Donate Texas House District 57 Texas House ★ District 57 Denton County 57 ← Back to News Campaign Updates September 24, 2026 We must keep Texas strong and safe.
 Our turbulent times demand bold, effective solutions to complex challenges.
 Therefore, my priorities as the Texas House Representative for District 57 during the 90th Legislative Session include, first and foremost, working hand in hand with my constituents to champion bills of benefit to the District.
 These include continuing active support of property tax relief for property owners and firmly addressing out-of-control insurance rates and healthcare costs.
@@ -9,4 +10,13 @@ Quietly overarching all is maintenance of election integrity, because healthy, v
 Effective legislation is crucial, but sometimes good laws don’t get passed because the process often is slow and overly political.
 I also look forward to continuing to champion the breaking of logjams that hinder passage of laws of benefit to my constituents in District 57 and Texas.
 Please reach out to me using the form here on the website; all messages are read daily, and response is prompt.
-My door remains always open, both here at home and in Austin, as I continue to advocate fiercely for all people in District 57.
+My door remains always open, both here at home and in Austin, as I continue to advocate fiercely for all people in District 57.​ Richard Hayes Working for District 57.
+Richard Hayes is working to protect taxpayers, strengthen our communities and keep Texas strong.
+Meet Richard Get Involved Join The Campaign.
+Help us keep strong conservative leadership working for Denton County.
+Join the campaign More from the Campaign Stay up to date with Richard Hayes.
+View All News ★ Join The Campaign Help Richard keep working for Denton County.
+Get Involved Donate Strong, common sense leadership for Denton County and Texas House District 57. ★ Texas House District 57 Explore Meet Richard Priorities Endorsements District 57 News & Updates Get Involved Join The Campaign Voter Information Facebook Donate Stand With Richard Help keep strong leadership in District 57.
+Donate Paid for by Richard Hayes for State Representative.
+Tracy Murphree, Treasurer.
+Privacy Policy Terms & Conditions Designed by Will Busby

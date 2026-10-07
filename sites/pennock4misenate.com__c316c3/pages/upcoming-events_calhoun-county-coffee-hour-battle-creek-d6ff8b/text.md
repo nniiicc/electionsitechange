@@ -1,10 +1,5 @@
-Back to All Events
-Join Anthony at the Calhoun County Coffee Hour at the Columbia Avenue Biggby in Battle Creek!
+0 Skip to Content About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Donate Open Menu Close Menu About Anthony Upcoming Events Working People's Priorities Aligned Priorities Contact Us Privacy Policy English Back Donate Back to All Events Calhoun County Coffee Hour - Battle Creek Saturday, March 21, 2026 1:30 PM 3:00 PM Biggby Coffee - Columbia Avenue 1101 West Columbia Avenue Battle Creek, MI, 49015 United States (map) Google Calendar ICS Join Anthony at the Calhoun County Coffee Hour at the Columbia Avenue Biggby in Battle Creek!
 Share your concerns, learn about the campaign, and join our movement for all working people!
-Previous
-Previous
-March 21
-Barry County Coffee Hour - Delton
-Next
-Next
-April 8
+Previous Previous March 21 Barry County Coffee Hour - Delton Next Next April 8 Kent County Democratic Party Social Hour Follow the Campaign BlueSky Donate by Mail P.O.
+Box 61 Battle Creek, MI 49016 info@ pennock4misenate.com This website is created. paid for, and managed by the Committee to Elect Anthony Pennock State Senator, P.O.
+Box 61, Battle Creek, MI 49016

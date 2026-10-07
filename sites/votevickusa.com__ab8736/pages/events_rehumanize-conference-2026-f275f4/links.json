@@ -1,32 +1,130 @@
 [
-"http://discordapp.com/users/740421692853190677",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rehumanize+Conference+2026&dates=20261016T130000Z%2F20261019T033000Z&location=9430+West+Golf+Road%2C+Des+Plaines%2C+Illinois%2C+60016%2C+United+States",
-"http://inscapewebdesign.com/",
-"http://maps.google.com/?q=9430+West+Golf+Road+Des+Plaines%2C+Illinois%2C+60016+United+States",
-"https://bsky.app/profile/votevickusa.bsky.social",
-"https://elections.il.gov/",
-"https://facebook.com/VoteVickUSA",
-"https://ilsolidarity.com/",
-"https://instagram.com/votevick",
-"https://linkedin.com/in/votevickusa",
-"https://reddit.com/user/VoteVick",
-"https://rehumanizeintl.org/conference",
-"https://secure.anedot.com/friends-of-mike-vick/votevickusa",
-"https://twitter.com/VoteVickUSA",
-"https://unorthodoxing.com/",
-"https://votevickusa.com/",
-"https://votevickusa.com/cart",
-"https://votevickusa.com/contact",
-"https://votevickusa.com/events",
-"https://votevickusa.com/events/independent-national-convention",
-"https://votevickusa.com/events/rehumanize-conference-2026?format=ical",
-"https://votevickusa.com/home",
-"https://votevickusa.com/meet-gary",
-"https://votevickusa.com/meet-mike",
-"https://votevickusa.com/news",
-"https://votevickusa.com/priorities",
-"https://votevickusa.com/values",
-"https://votevickusa.com/volunteer",
-"https://votevickusa.store/",
-"https://youtube.com/@votevickusa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9430+west+golf+road+des+plaines%2C+illinois%2C+60016+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votevickusa.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "CONTRIBUTE!",
+"href": "https://secure.anedot.com/friends-of-mike-vick/votevickusa"
+},
+{
+"text": "Contact",
+"href": "https://www.votevickusa.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "Follow Us",
+"href": "https://votevickusa.store"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rehumanize+Conference+2026&dates=20261016T130000Z%2F20261019T033000Z&location=9430+West+Golf+Road%2C+Des+Plaines%2C+Illinois%2C+60016%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votevickusa.com/events/rehumanize-conference-2026?format=ical"
+},
+{
+"text": "Inscape",
+"href": "http://inscapewebdesign.com"
+},
+{
+"text": "Meet Gary",
+"href": "https://www.votevickusa.com/meet-gary"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.votevickusa.com/meet-mike"
+},
+{
+"text": "News",
+"href": "https://www.votevickusa.com/news"
+},
+{
+"text": "Our Party",
+"href": "https://www.ilsolidarity.com/"
+},
+{
+"text": "PODCAST",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "Previous Previous September 23 Independent National Convention",
+"href": "https://www.votevickusa.com/events/independent-national-convention"
+},
+{
+"text": "Priorities",
+"href": "https://www.votevickusa.com/priorities"
+},
+{
+"text": "Values",
+"href": "https://www.votevickusa.com/values"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votevickusa.com/volunteer"
+},
+{
+"text": "VoteVickUSA.com",
+"href": "https://www.votevickusa.com/home"
+},
+{
+"text": "[image: VoteVickUSA]",
+"href": "https://www.votevickusa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.discordapp.com/users/740421692853190677"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votevickusa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/votevickusa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/VoteVick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votevickusa"
+},
+{
+"text": "https://www.rehumanizeintl.org/conference",
+"href": "https://www.rehumanizeintl.org/conference"
+},
+{
+"text": "website",
+"href": "https://www.elections.il.gov"
+}
 ]

@@ -1,11 +1,42 @@
 [
-"https://andersonforpahouse.com/",
-"https://andersonforpahouse.com/contact",
-"https://andersonforpahouse.com/endors",
-"https://andersonforpahouse.com/meet-marc",
-"https://andersonforpahouse.com/platform",
-"https://andersonforpahouse.com/record",
-"https://facebook.com/andersonforpahouse",
-"https://instagram.com/andersonforpahouse",
-"https://secure.winred.com/anderson-for-pa-house/donate"
+{
+"text": "Contact",
+"href": "https://www.andersonforpahouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/anderson-for-pa-house/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andersonforpahouse.com/endors"
+},
+{
+"text": "Home",
+"href": "https://www.andersonforpahouse.com"
+},
+{
+"text": "Meet Marc",
+"href": "https://www.andersonforpahouse.com/meet-marc"
+},
+{
+"text": "Platform",
+"href": "https://www.andersonforpahouse.com/platform"
+},
+{
+"text": "Record",
+"href": "https://www.andersonforpahouse.com/record"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/andersonforpahouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/andersonforpahouse"
+},
+{
+"text": "andersonforpahouse@gmail.com",
+"href": "mailto:andersonforpahouse@gmail.com"
+}
 ]

@@ -1,25 +1,130 @@
 [
-"https://drmikekatz.com/",
-"https://drmikekatz.com/contact",
-"https://drmikekatz.com/donate",
-"https://drmikekatz.com/endorsements",
-"https://drmikekatz.com/factcheck",
-"https://drmikekatz.com/join",
-"https://drmikekatz.com/lit",
-"https://drmikekatz.com/meet-mike",
-"https://drmikekatz.com/news",
-"https://drmikekatz.com/news/coons-rejects-wdel-debate",
-"https://drmikekatz.com/platform",
-"https://drmikekatz.com/privacy",
-"https://drmikekatz.com/record",
-"https://drmikekatz.com/retire",
-"https://drmikekatz.com/signs",
-"https://drmikekatz.com/videos",
-"https://drmikekatz.com/volunteer",
-"https://drmikekatz.com/vote",
-"https://elections.delaware.gov/",
-"https://facebook.com/profile.php?id=100092662750874",
-"https://instagram.com/drmikekatz",
-"https://ivote.de.gov/VoterView",
-"https://x.com/drmikekatz"
+{
+"text": "Check Your Absentee Ballot Status Track your absentee ballot from mailing through receipt and processing. General election ballot dates will be published closer to Nov 3. iVote.de.gov &nearr;",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Check Your Registration Confirm you’re registered at your current address, or update your record before Nov 3. iVote.de.gov &nearr;",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Contact",
+"href": "https://drmikekatz.com/contact"
+},
+{
+"text": "Delaware Department of Elections",
+"href": "https://elections.delaware.gov"
+},
+{
+"text": "Donate",
+"href": "https://drmikekatz.com/donate"
+},
+{
+"text": "Donate →",
+"href": "https://drmikekatz.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://drmikekatz.com/endorsements"
+},
+{
+"text": "Fact Check",
+"href": "https://drmikekatz.com/factcheck"
+},
+{
+"text": "Find Your Polling Location Look up your Election Day polling place for Nov 3. Early Voting sites for the general open in October — check back closer to the date. iVote.de.gov &nearr;",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Home",
+"href": "https://drmikekatz.com/"
+},
+{
+"text": "Join",
+"href": "https://drmikekatz.com/join"
+},
+{
+"text": "Join the Campaign",
+"href": "https://drmikekatz.com/join"
+},
+{
+"text": "Literature",
+"href": "https://drmikekatz.com/lit"
+},
+{
+"text": "Meet Dr. Katz",
+"href": "https://drmikekatz.com/meet-mike"
+},
+{
+"text": "Meet Mike",
+"href": "https://drmikekatz.com/meet-mike"
+},
+{
+"text": "News",
+"href": "https://drmikekatz.com/news"
+},
+{
+"text": "Platform",
+"href": "https://drmikekatz.com/platform"
+},
+{
+"text": "Press Release Coons Rejects WDEL Debate Offer — Katz Calls for Accountability →",
+"href": "https://drmikekatz.com/news/coons-rejects-wdel-debate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drmikekatz.com/privacy"
+},
+{
+"text": "Record",
+"href": "https://drmikekatz.com/record"
+},
+{
+"text": "Register or Update at iVote.de.gov &nearr;",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Retire Coons",
+"href": "https://drmikekatz.com/retire"
+},
+{
+"text": "Videos",
+"href": "https://drmikekatz.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://drmikekatz.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://drmikekatz.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://drmikekatz.com/signs"
+},
+{
+"text": "[image: Katz '26 — Dr. Mike Katz for U.S. Senate]",
+"href": "https://drmikekatz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100092662750874"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drmikekatz/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/drmikekatz"
+},
+{
+"text": "elections.delaware.gov",
+"href": "https://elections.delaware.gov"
+},
+{
+"text": "iVote.de.gov",
+"href": "https://ivote.de.gov/VoterView"
+}
 ]

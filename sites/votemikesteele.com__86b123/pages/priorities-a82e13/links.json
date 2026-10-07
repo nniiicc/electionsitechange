@@ -1,12 +1,46 @@
 [
-"http://votemikesteele.com/connect",
-"https://facebook.com/votemikesteele",
-"https://secure.anedot.com/citizens-to-elect-mike-steele/general-fund-c3f1ec88e9eb3d9fba18a",
-"https://votemikesteele.com/",
-"https://votemikesteele.com/about",
-"https://votemikesteele.com/connect",
-"https://votemikesteele.com/endorsements",
-"https://votemikesteele.com/news-updates",
-"https://votemikesteele.com/priorities",
-"https://votemikesteele.com/volunteer"
+{
+"text": "About Mike",
+"href": "https://www.votemikesteele.com/about/"
+},
+{
+"text": "Connect",
+"href": "https://www.votemikesteele.com/connect/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/citizens-to-elect-mike-steele/general-fund-c3f1ec88e9eb3d9fba18a"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikesteele.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikesteele/"
+},
+{
+"text": "Home",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "Mail",
+"href": "http://www.votemikesteele.com/connect/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.votemikesteele.com/news-updates/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemikesteele.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikesteele.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Mike Steele]",
+"href": "https://www.votemikesteele.com/"
+}
 ]

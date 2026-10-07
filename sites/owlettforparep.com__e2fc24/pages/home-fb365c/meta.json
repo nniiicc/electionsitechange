@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.owlettforparep.com/home",
- "paid_for_by": "Paid for by: Friends of Clint Owlett &nbsp;",
+ "fingerprint": "c8a4b0e42548e167ea1fcd0aee569276c11e4980",
+ "format": 3,
+ "paid_for_by": "Paid for by: Friends of Clint Owlett",
  "title": "Clint Owlett",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020"
+ ]
 }

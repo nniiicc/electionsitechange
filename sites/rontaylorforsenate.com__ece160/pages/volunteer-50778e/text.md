@@ -1,3 +1,2 @@
-Volunteer—Let’s work together for Idaho
-Be part of the movement!
-Volunteer today to help Ron Taylor fight for a stronger, brighter Idaho.
+0 Skip to Content About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Volunteer—Let’s work together for Idaho Be part of the movement!
+Volunteer today to help Ron Taylor fight for a stronger, brighter Idaho. rontaylorforsenate@gmail.com (208) 720-8912 Paid for by Ron Taylor for Senate Michelle Stennett, Treasurer

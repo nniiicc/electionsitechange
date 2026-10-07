@@ -1,7 +1,30 @@
 [
-"https://abeytafornm.com/",
-"https://facebook.com/Abeyta4nm",
-"https://forms.gle/LtG5grjE6a9mmsCaA",
-"https://instagram.com/abeyta4nm",
-"https://secure.actblue.com/donate/michelle-paulene-abeyta-for-new-mexico-1"
+{
+"text": "Contact Paulene",
+"href": "https://abeytafornm.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/michelle-paulene-abeyta-for-new-mexico-1"
+},
+{
+"text": "Get Involved!",
+"href": "https://forms.gle/LtG5grjE6a9mmsCaA"
+},
+{
+"text": "Volunteer",
+"href": "https://abeytafornm.com/#volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/LtG5grjE6a9mmsCaA"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/Abeyta4nm/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/abeyta4nm/"
+}
 ]

@@ -1,31 +1,12 @@
-Responsible Housing
-Housing in our district isn’t one-size-fits-all — and it shouldn’t be treated that way.
+Skip navigation menu Meet Pesach Issues Endorsements Volunteer Contact Donate Meet Pesach Issues Endorsements Volunteer Contact Donate Lowering Costs Improving Public Safety Fixing Transportation Protecting Seniors & Retirees Supporting Veterans Resiliency & Emergency Preparedness Responsible Housing Fighting Hate Animal Protection Responsible Housing Housing in our district isn’t one-size-fits-all — and it shouldn’t be treated that way.
 From single-family homes in Howard Beach and Ozone Park, to co-ops in Lindenwood, to buildings along Shore Front Parkway, every community is different.
 And the people who live here want a real say in what happens in their neighborhoods.
 Pesach Osina believes that voice should come first.
-Protecting Community Input
-Too many decisions about development are made without fully listening to the people who live here.
-Pesach will:
-- Stand with residents who want a real say in local development decisions
-- Oppose one-size-fits-all policies that override community input
-- Support efforts to protect neighborhood character and prevent overdevelopment
-Development should work for communities — not be forced on them.
-Standing Up to Overdevelopment
-Our neighborhoods should not be reshaped without consideration for infrastructure, traffic, and quality of life.
-Pesach will:
-- Push back against policies that encourage overdevelopment without local support
-- Ensure that any new development is responsible, balanced, and community-driven
-- Fight to make sure state resources are not used to support projects that ignore local concerns
-Growth should be thoughtful — not rushed.
-Protecting Homeowners
-For many families, their home is their biggest investment.
-Pesach will:
-- Strengthen protections against deed theft and title fraud
-- Support programs that help homeowners navigate complex systems like co-ops and Mitchell-Lama housing
-- Advocate for policies that protect long-term residents from being pushed out
-Homeownership should come with security — not uncertainty.
-Lowering the Cost of Staying Here
-Keeping people in their homes is just as important as building new ones.
-Pesach will:
-- Fight for property tax relief, especially for middle-class families and seniors
-- Support policies that make it more affordable to stay in the communities people have built their lives in
+Protecting Community Input Too many decisions about development are made without fully listening to the people who live here.
+Pesach will: Stand with residents who want a real say in local development decisions Oppose one-size-fits-all policies that override community input Support efforts to protect neighborhood character and prevent overdevelopment Development should work for communities — not be forced on them.
+Standing Up to Overdevelopment Our neighborhoods should not be reshaped without consideration for infrastructure, traffic, and quality of life.
+Pesach will: Push back against policies that encourage overdevelopment without local support Ensure that any new development is responsible, balanced, and community-driven Fight to make sure state resources are not used to support projects that ignore local concerns Growth should be thoughtful — not rushed.
+Protecting Homeowners For many families, their home is their biggest investment.
+Pesach will: Strengthen protections against deed theft and title fraud Support programs that help homeowners navigate complex systems like co-ops and Mitchell-Lama housing Advocate for policies that protect long-term residents from being pushed out Homeownership should come with security — not uncertainty.
+Lowering the Cost of Staying Here Keeping people in their homes is just as important as building new ones.
+Pesach will: Fight for property tax relief , especially for middle-class families and seniors Support policies that make it more affordable to stay in the communities people have built their lives in info@pesachosina.com Powered by RUN! website builder Paid for by Osina for NY You need to enable JavaScript to run this app.

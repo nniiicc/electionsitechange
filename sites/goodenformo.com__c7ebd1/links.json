@@ -1,4 +1,14 @@
 [
-"https://goodenformo.com/",
-"https://secure.anedot.com/stephanie-gooden/donate"
+{
+"text": "$ Contribute to Campaign $",
+"href": "https://secure.anedot.com/stephanie-gooden/donate"
+},
+{
+"text": "Stephanie Gooden",
+"href": "https://www.goodenformo.com"
+},
+{
+"text": "goodenformo@gmail.com",
+"href": "mailto:goodenformo@gmail.com"
+}
 ]

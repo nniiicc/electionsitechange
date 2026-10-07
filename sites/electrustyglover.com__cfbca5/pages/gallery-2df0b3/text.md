@@ -1,27 +1,3 @@
-Skip to content
-About Rusty
-Vision
-Register to vote
-Volunteer
-Gallery
-Contact
-About Rusty
-Vision
-Register to vote
-Volunteer
-Gallery
-Contact
-About Rusty
-Vision
-Register to vote
-Volunteer
-Gallery
-Contact
-About Rusty
-Vision
-Register to vote
-Volunteer
-Gallery
-Contact
-Donate Now
-Gallery
+Skip to content About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Donate Now Gallery newsletter STAY CONNECTED WITH RUSTY Get the latest updates from the campaign trail, community events, and election news.
+Be the first to know how you can get involved and help make a difference in District 34.
+Email Subscribe Now Trusted Leadership for Alabama’s Future. about About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Contact Us Alabama District 34 rustyglover34@gmail.com Facebook-f PAID FOR BY COMMITTEE TO ELECT RUSTY GLOVER, PO BOX 2175, SEMMES, AL 36575 Web Development by Websites Inc.

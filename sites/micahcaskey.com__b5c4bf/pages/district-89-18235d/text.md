@@ -1,6 +1,8 @@
-District 89
-South Carolina House District 89 is located in Lexington County and includes the City of West Columbia, the Town of Cayce, and the Town of Springdale.
+0 Skip to Content Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home About Meet Micah Committees District 89 Issues News and Media News Social Media Resources Volunteer DONATE Open Menu Close Menu Home Folder: About Back Meet Micah Committees District 89 Issues Folder: News and Media Back News Social Media Resources Volunteer DONATE View fullsize (click image to expand) (click image to expand) District 89 South Carolina House District 89 is located in Lexington County and includes the City of West Columbia, the Town of Cayce, and the Town of Springdale.
 Located right across the Congaree River from the capital city of Columbia, District 89 is a vibrant community that is home to about 40,000 South Carolinians and is continuing to grow.
 This area provides both residents and visitors with access to its rich history, beautiful public parks, and countless delicious, locally-owned restaurants.
 District 89 boasts excellent public schools, hundreds of small businesses, and close proximity to Columbia that have made it a beacon of economic opportunity and heartbeat of the midland’s region.
 The links below provide more information about District 89 and what it has to offer.
+District 89 Municipal Government Links City of West Columbia Town of Cayce Town of Springdale County of Lexington Stay in Touch!
+If you live in Cayce, West Columbia, or Springdale, I want to hear from you.
+Please do not hesitate to share your ideas, thoughts, concerns, comments, gripes, or complaints. micah@micahcaskey.com (803)-250-5834 PO Box #5875, West Columbia, SC 29171 Contact PAID FOR BY CASKEY FOR HOUSE

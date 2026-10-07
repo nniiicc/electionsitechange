@@ -1,19 +1,90 @@
 [
-"https://donhouse.info/",
-"https://donhouse.info/about",
-"https://donhouse.info/contact",
-"https://donhouse.info/election-issues",
-"https://donhouse.info/events-1",
-"https://donhouse.info/get-involved",
-"https://donhouse.info/news",
-"https://donhouse.info/news/categories/letters-to-the-editor",
-"https://donhouse.info/post/don-house-participates-in-sept-2-candidate-forum",
-"https://donhouse.info/post/sept-15-letter-endorsing-don-house",
-"https://donhouse.info/post/vote-for-bill-and-the-two-dons",
-"https://donhouse.info/why-me",
-"https://facebook.com/Vote4House",
-"https://instagram.com/wix",
-"https://secure.actblue.com/donate/vote4dhouse",
-"https://twitter.com/House4Belmont",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.donhouse.info/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.donhouse.info/news"
+},
+{
+"text": "Contact",
+"href": "https://www.donhouse.info/contact"
+},
+{
+"text": "Don House",
+"href": "https://www.donhouse.info"
+},
+{
+"text": "Don House participates in Sept 2 Candidate Forum",
+"href": "https://www.donhouse.info/post/don-house-participates-in-sept-2-candidate-forum"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vote4dhouse"
+},
+{
+"text": "Election issues",
+"href": "https://www.donhouse.info/election-issues"
+},
+{
+"text": "Events",
+"href": "https://www.donhouse.info/events-1"
+},
+{
+"text": "For Belmont, Sanbornton, Tilton NH State Rep",
+"href": "https://www.donhouse.info"
+},
+{
+"text": "Get Involved",
+"href": "https://www.donhouse.info/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.donhouse.info"
+},
+{
+"text": "House4BST@gmail.com",
+"href": "mailto:House4BST@gmail.com"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.donhouse.info/news/categories/letters-to-the-editor"
+},
+{
+"text": "News",
+"href": "https://www.donhouse.info/news"
+},
+{
+"text": "Sept 15 Letter endorsing Don House",
+"href": "https://www.donhouse.info/post/sept-15-letter-endorsing-don-house"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.donhouse.info/get-involved"
+},
+{
+"text": "Vote for Bill and the two Dons",
+"href": "https://www.donhouse.info/post/vote-for-bill-and-the-two-dons"
+},
+{
+"text": "Why Me?",
+"href": "https://www.donhouse.info/why-me"
+},
+{
+"text": "Wix.com",
+"href": "https://wix.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/Vote4House/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/House4Belmont"
+}
 ]

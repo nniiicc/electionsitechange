@@ -1,12 +1,54 @@
 [
-"https://facebook.com/NortonforNY",
-"https://forms.gle/XWitq3L5oNwxcYfN8",
-"https://instagram.com/nortonforny",
-"https://nortonforny.com/",
-"https://nortonforny.com/cdn-cgi/l/email-protection",
-"https://nortonforny.com/privacy-policy.html",
-"https://secure.actblue.com/donate/nortonforny",
-"https://tiktok.com/@nortonforny",
-"https://x.com/nortonforny",
-"https://youtube.com/@nortonforny"
+{
+"text": "Back to Home",
+"href": "https://nortonforny.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/nortonforny"
+},
+{
+"text": "Email Dan",
+"href": "mailto:dan@nortonforny.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nortonforny.com/privacy-policy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/XWitq3L5oNwxcYfN8"
+},
+{
+"text": "[email protected]",
+"href": "mailto:dan@nortonforny.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@nortonforny.com"
+},
+{
+"text": "[image: Dan Norton for NY State Assembly]",
+"href": "https://nortonforny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NortonforNY"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/nortonforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nortonforny"
+}
 ]

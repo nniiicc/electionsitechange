@@ -1,16 +1,58 @@
 [
-"http://your url/",
-"https://cart/",
-"https://facebook.com/RaderforOhio",
-"https://instagram.com/twrader",
-"https://linkedin.com/in/twrader",
-"https://ohiosos.gov/elections/voters",
-"https://secure.actblue.com/donate/friends-of-tristan-rader-1",
-"https://tristanrader.com/",
-"https://tristanrader.com/about",
-"https://tristanrader.com/endorse",
-"https://tristanrader.com/issues",
-"https://tristanrader.com/privacy-policy",
-"https://tristanrader.com/volunteer",
-"https://tristanrader.substack.com/"
+{
+"text": "About",
+"href": "https://tristanrader.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-tristan-rader-1"
+},
+{
+"text": "Endorsements",
+"href": "https://tristanrader.com/endorse"
+},
+{
+"text": "Issues",
+"href": "https://tristanrader.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tristanrader.com/privacy-policy"
+},
+{
+"text": "SubStack",
+"href": "https://tristanrader.substack.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://tristanrader.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.ohiosos.gov/elections/voters/"
+},
+{
+"text": "[image: Tristan Rader for Ohio]",
+"href": "https://tristanrader.com"
+},
+{
+"text": "[no text]",
+"href": "http://your%20url"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RaderforOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/twrader/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/twrader/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

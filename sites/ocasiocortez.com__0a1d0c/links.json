@@ -1,13 +1,50 @@
 [
-"http://instagram.com/teamaoc",
-"http://twitter.com/teamaoc",
-"http://youtube.com/aoc",
-"https://facebook.com/OcasioCortez",
-"https://ocasio-cortez.house.gov/",
-"https://ocasiocortez.com/",
-"https://ocasiocortez.com/accessibility",
-"https://ocasiocortez.com/cdn-cgi/l/email-protection",
-"https://ocasiocortez.com/positions",
-"https://ocasiocortez.com/privacy",
-"https://twitter.com/AOC"
+{
+"text": "Accessibility",
+"href": "https://www.ocasiocortez.com/accessibility"
+},
+{
+"text": "Continue to Site [image: Right arrow icon]",
+"href": "https://www.ocasiocortez.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/teamaoc"
+},
+{
+"text": "Join our team",
+"href": "https://www.ocasiocortez.com/positions"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ocasiocortez.com/privacy"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/teamaoc"
+},
+{
+"text": "Youtube",
+"href": "http://youtube.com/aoc"
+},
+{
+"text": "[image]",
+"href": "https://www.ocasiocortez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/AOC"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/OcasioCortez/"
+},
+{
+"text": "click here",
+"href": "https://ocasio-cortez.house.gov/"
+},
+{
+"text": "press@ocasiocortez.com",
+"href": "mailto:press@ocasiocortez.com"
+}
 ]

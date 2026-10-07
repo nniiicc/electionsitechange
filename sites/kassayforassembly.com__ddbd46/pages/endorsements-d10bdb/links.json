@@ -1,13 +1,54 @@
 [
-"https://facebook.com/kassayforassembly",
-"https://instagram.com/kassayforassembly",
-"https://kassayforassembly.com/",
-"https://kassayforassembly.com/endorsements",
-"https://kassayforassembly.com/events",
-"https://kassayforassembly.com/issues",
-"https://kassayforassembly.com/news",
-"https://kassayforassembly.com/volunteer",
-"https://kassayforassembly.com/voter-resources",
-"https://nysaflcio.org/",
-"https://youtube.com/@kassayforassembly"
+{
+"text": "Endorsements",
+"href": "https://www.kassayforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "INFO@KASSAYFORASSEMBLY.COM",
+"href": "mailto:INFO@KASSAYFORASSEMBLY.COM"
+},
+{
+"text": "In the News",
+"href": "https://www.kassayforassembly.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.kassayforassembly.com/issues"
+},
+{
+"text": "Michael O'Meara, President",
+"href": "https://nysaflcio.org"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.kassayforassembly.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kassayforassembly.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kassayforassembly.com/voter-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kassayforassembly"
+},
+{
+"text": "[image: IMG_1734.png]",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kassayforassembly/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@kassayforassembly"
+}
 ]

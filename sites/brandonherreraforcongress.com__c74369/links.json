@@ -1,62 +1,406 @@
 [
-"https://brandonherreraforcongress.com/",
-"https://brandonherreraforcongress.com/donate",
-"https://brandonherreraforcongress.com/donate?amount=100",
-"https://brandonherreraforcongress.com/donate?amount=1000",
-"https://brandonherreraforcongress.com/donate?amount=12000",
-"https://brandonherreraforcongress.com/donate?amount=250",
-"https://brandonherreraforcongress.com/donate?amount=35",
-"https://brandonherreraforcongress.com/donate?amount=500",
-"https://brandonherreraforcongress.com/donate?amount=5000",
-"https://brandonherreraforcongress.com/endorsements",
-"https://brandonherreraforcongress.com/events",
-"https://brandonherreraforcongress.com/events/bexar-county-town-hall-parkers-ice-cream",
-"https://brandonherreraforcongress.com/events/maverick-county-town-hall-maverick-county-lake-pavilion",
-"https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-7",
-"https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-8",
-"https://brandonherreraforcongress.com/issues",
-"https://brandonherreraforcongress.com/joint-fundraising-notice",
-"https://brandonherreraforcongress.com/meet-brandon",
-"https://brandonherreraforcongress.com/news",
-"https://brandonherreraforcongress.com/news/general-updates",
-"https://brandonherreraforcongress.com/news/press-releases",
-"https://brandonherreraforcongress.com/news/press-releases/herrera-applauds-pause-on-big-bend-border-construction",
-"https://brandonherreraforcongress.com/news/press-releases/herrera-breaks-600k-in-first-half-of-q3-reserves-1-7-million-ad-buy",
-"https://brandonherreraforcongress.com/news/press-releases/herrera-response-to-big-bend-construction",
-"https://brandonherreraforcongress.com/veterans-for-brandon-herrera",
-"https://brandonherreraforcongress.com/volunteer",
-"https://brandonherreraforcongress.com/vote",
-"https://brandonherreraforcongress.com/voter-feedback",
-"https://brandonherreraforcongress.com/wp-content/uploads/604006519_17859416064565418_7009823018356004874_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/604060876_17859416172565418_9173453015236001952_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/604064231_17859415986565418_8862746776293410559_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/604649682_17859416004565418_3948881962684926257_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/605241546_17859416214565418_2510359400956228299_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/618369492_122149812968975498_5461484125087296954_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/624738061_122153065094975498_4790970029197188623_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/625501264_122152658852975498_6722579531518636871_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/626022197_122153471210975498_3140768236031833108_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/626356922_122153063420975498_7960590967304645253_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/631867168_122154529040975498_5036182218126761336_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/632221558_122154528866975498_4916125568861456776_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/632460201_122155203116975498_1905244359248714456_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/633668820_122155017884975498_7277672417183909453_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/636905303_122156018828975498_299389550070215270_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/636916060_122156017364975498_6269215044022074870_n.jpg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G-V3VZEX0AABNJX.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G-V3VZpW0AAvHPp.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G-VyocuXYAAzAXl.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G-VyocvWoAAs_6m.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G-VyocwWAAA0nx7.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/G42tCJUWEAA0Py4.jpeg",
-"https://brandonherreraforcongress.com/wp-content/uploads/SCR-20251112-eyjk.png",
-"https://firearmspolicy.org/",
-"https://gunowners.org/",
-"https://gunrights.org/",
-"https://herrera.cmpgn.to/donate",
-"https://herrera.cmpgn.to/fb",
-"https://herrera.cmpgn.to/ig",
-"https://herrera.cmpgn.to/launch",
-"https://herrera.cmpgn.to/volunteer",
-"https://yaliberty.org/"
+{
+"text": "$#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=100"
+},
+{
+"text": "$#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=250"
+},
+{
+"text": "$#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=35"
+},
+{
+"text": "$#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=1000"
+},
+{
+"text": "$#,#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=12000"
+},
+{
+"text": "$#,#",
+"href": "https://brandonherreraforcongress.com/donate/?amount=5000"
+},
+{
+"text": "10 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST • Volunteer Event",
+"href": "https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-7/"
+},
+{
+"text": "17 Oct Sign Wave + Sign Pickup Hosted by Brandon Herrera 10:00 AM - 11:00 AM CST • Volunteer Event",
+"href": "https://brandonherreraforcongress.com/events/sign-wave-sign-pickup-hosted-by-brandon-herrera-8/"
+},
+{
+"text": "19 Oct Bexar County Town Hall – Parker’s Ice Cream 11:00 AM - 12:00 PM CST • Town Hall",
+"href": "https://brandonherreraforcongress.com/events/bexar-county-town-hall-parkers-ice-cream/"
+},
+{
+"text": "21 Oct Maverick County Town Hall – Maverick County Lake Pavilion 6:30 PM - 7:30 PM CST • Town Hall",
+"href": "https://brandonherreraforcongress.com/events/maverick-county-town-hall-maverick-county-lake-pavilion/"
+},
+{
+"text": "Border Security",
+"href": "https://brandonherreraforcongress.com/issues/#border-security"
+},
+{
+"text": "Campaign News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Click here to read our joint fundraising notice.",
+"href": "https://brandonherreraforcongress.com/joint-fundraising-notice/"
+},
+{
+"text": "Cutting Taxes, Spending, and Regulation",
+"href": "https://brandonherreraforcongress.com/issues/#economy"
+},
+{
+"text": "Donate",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Donate to help the campaign",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Economy",
+"href": "https://brandonherreraforcongress.com/issues/#economy"
+},
+{
+"text": "Education",
+"href": "https://brandonherreraforcongress.com/issues/#education"
+},
+{
+"text": "Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Firearm Policy Coalition",
+"href": "https://www.firearmspolicy.org/"
+},
+{
+"text": "Follow the campaign on Facebook",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "Follow the campaign on Instagram",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "Foreign Policy",
+"href": "https://brandonherreraforcongress.com/issues/#foreign-policy"
+},
+{
+"text": "General Updates",
+"href": "https://brandonherreraforcongress.com/news/general-updates"
+},
+{
+"text": "Get Involved Join the team—knock doors, deliver signs, and help spread the word in TX‑23.",
+"href": "https://brandonherreraforcongress.com/volunteer/"
+},
+{
+"text": "Gun Owners of America",
+"href": "https://www.gunowners.org/"
+},
+{
+"text": "Healthcare",
+"href": "https://brandonherreraforcongress.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Join Our Grassroots Volunteer Team",
+"href": "https://brandonherreraforcongress.com/volunteer/"
+},
+{
+"text": "Latest News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Learn More About Brandon",
+"href": "https://brandonherreraforcongress.com/meet-brandon/"
+},
+{
+"text": "Make America Healthy Again",
+"href": "https://brandonherreraforcongress.com/issues/#maha"
+},
+{
+"text": "Meet Brandon",
+"href": "https://brandonherreraforcongress.com/meet-brandon/"
+},
+{
+"text": "National Association for Gun Rights",
+"href": "https://gunrights.org/"
+},
+{
+"text": "News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "On The Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "On The Issues Explore Brandon’s priorities on the border, gun rights, veterans, and more.",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Other",
+"href": "https://brandonherreraforcongress.com/donate/"
+},
+{
+"text": "Phone: (210) 940-9274",
+"href": "tel:+12109409274"
+},
+{
+"text": "Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/"
+},
+{
+"text": "Pro-Life",
+"href": "https://brandonherreraforcongress.com/issues/#pro-life"
+},
+{
+"text": "Protect the Second Amendment",
+"href": "https://brandonherreraforcongress.com/issues/#second-amendment"
+},
+{
+"text": "Protecting Women’s Sports",
+"href": "https://brandonherreraforcongress.com/issues/#womens-sports"
+},
+{
+"text": "Read Brandon's Border Priorities",
+"href": "https://brandonherreraforcongress.com/issues/#border-security"
+},
+{
+"text": "Read Brandon's Economic Policies",
+"href": "https://brandonherreraforcongress.com/issues/#economy"
+},
+{
+"text": "Read Brandon’s Gun Rights Plan",
+"href": "https://brandonherreraforcongress.com/issues/#second-amendment"
+},
+{
+"text": "Read Brandon’s Plan For Veterans",
+"href": "https://brandonherreraforcongress.com/issues/#serving-veterans"
+},
+{
+"text": "Second Amendment",
+"href": "https://brandonherreraforcongress.com/issues/#second-amendment"
+},
+{
+"text": "Secure the Southern Border",
+"href": "https://brandonherreraforcongress.com/issues/#border-security"
+},
+{
+"text": "See Our Event Schedule",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Serve Those Who Served",
+"href": "https://brandonherreraforcongress.com/issues/#serving-veterans"
+},
+{
+"text": "Serving Veterans",
+"href": "https://brandonherreraforcongress.com/issues/#serving-veterans"
+},
+{
+"text": "Supporting Trump",
+"href": "https://brandonherreraforcongress.com/issues/#supporting-trump"
+},
+{
+"text": "Take the Voter Survey",
+"href": "https://brandonherreraforcongress.com/voter-feedback/"
+},
+{
+"text": "Term Limits",
+"href": "https://brandonherreraforcongress.com/issues/#term-limits"
+},
+{
+"text": "Upcoming Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Veteran Endorsement",
+"href": "https://brandonherreraforcongress.com/veterans-for-brandon-herrera/"
+},
+{
+"text": "View All Campaign Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "View All Campaign News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "View Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "View Full Endorsement",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Volunteer for the campaign",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "Vote Locate your polling place and stay informed of important voting dates.",
+"href": "https://brandonherreraforcongress.com/vote"
+},
+{
+"text": "Voting Information",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "Watch Brandon's Announcement Video",
+"href": "https://herrera.cmpgn.to/launch"
+},
+{
+"text": "Young Americans for Liberty",
+"href": "https://yaliberty.org/"
+},
+{
+"text": "[image: Brandon HerreraNews] Herrera Applauds Pause on Big Bend Border Construction August 18, 2026 • Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/herrera-applauds-pause-on-big-bend-border-construction/"
+},
+{
+"text": "[image: Brandon HerreraNews] Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy August 17, 2026 • Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/herrera-breaks-600k-in-first-half-of-q3-reserves-1-7-million-ad-buy/"
+},
+{
+"text": "[image: Brandon HerreraNews] Herrera Campaign Announces $# Raised in Q3 October 6, 2026 • Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/herrera-campaign-announces-1261794-raised-in-q3/"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/604006519_17859416064565418_7009823018356004874_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/604060876_17859416172565418_9173453015236001952_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/604064231_17859415986565418_8862746776293410559_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/604649682_17859416004565418_3948881962684926257_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/605241546_17859416214565418_2510359400956228299_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/618369492_122149812968975498_5461484125087296954_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/624738061_122153065094975498_4790970029197188623_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/625501264_122152658852975498_6722579531518636871_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/626022197_122153471210975498_3140768236031833108_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/626356922_122153063420975498_7960590967304645253_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/631867168_122154529040975498_5036182218126761336_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/632221558_122154528866975498_4916125568861456776_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/632460201_122155203116975498_1905244359248714456_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/633668820_122155017884975498_7277672417183909453_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/636905303_122156018828975498_299389550070215270_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/636916060_122156017364975498_6269215044022074870_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G-V3VZEX0AABNJX.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G-V3VZpW0AAvHPp.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G-VyocuXYAAzAXl.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G-VyocvWoAAs_6m.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G-VyocwWAAA0nx7.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/G42tCJUWEAA0Py4.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://brandonherreraforcongress.com/wp-content/uploads/SCR-20251112-eyjk.png"
+},
+{
+"text": "[no text]",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "info@brandonherreraforcongress.com",
+"href": "mailto:info@brandonherreraforcongress.com"
+}
 ]

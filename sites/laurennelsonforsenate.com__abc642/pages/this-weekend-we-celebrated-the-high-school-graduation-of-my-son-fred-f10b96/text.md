@@ -1,5 +1,6 @@
-This weekend we celebrated the high school graduation of my son Fred.
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … News This weekend we celebrated the high school graduation of my son Fred Editor May 21, 2024 This weekend we celebrated the high school graduation of my son Fred.
 Despite his young age, his fearlessness never ceases to amaze me.
 I am so proud of him and so grateful to have the support of my incredible family throughout this journey.
 Strong families are truly the foundation to a healthy and prosperous society.
-As Ronald Reagan once said, “All great change in America begins at the dinner table.”
+As Ronald Reagan once said, “All great change in America begins at the dinner table.” Post navigation Previous Previous post: 2024 District 18 State Senate and House Republican Primary Candidate Forum Next Next post: Yankton County GOP District 18 Legislative Republican Primary Forum – May 13, 2024 Utica, SD Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

@@ -1,7 +1,2 @@
-What I believe
-Events
-Get Involved
-Contact
-More
-Be a part of the change
-Tell us how you’d like to get involved, a member of our team will get in touch soon
+top of page DONATE What I believe Events Get Involved Contact More Use tab to navigate through the menu items.
+JOIN THE MOVEMENT Be a part of the change WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Social Media Blitz Host Fundraiser First name * Last name * Email * Phone Zip code Message Submit bottom of page

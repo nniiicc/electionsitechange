@@ -1,7 +1,7 @@
-Skip navigation menu
-About Sean Carlson
-Sean Carlson is running for State Senate District 13 in Oakland County.
-The newly drawn district includes West Bloomfield Township, Commerce Township, Lyon Township, Milford Township, South Lyon, Wixom, and portions of Waterford Township and Novi.
+Skip navigation menu Home Meet Sean Priorities Endorsements Get Involved News Donate Meet Sean!
+Home Meet Sean Priorities Endorsements Get Involved News Donate Meet Sean!
+About Sean Carlson Sean Carlson is running for State Senate District 13 in Oakland County.
+The newly drawn district includes West Bloomfield Township, Commerce Township, Milford Township, South Lyon, Lyon Township, Walled Lake, Wixom, Orchard Lake Village, Keego Harbor, Sylvan Lake, and portions of Waterford Township and Novi.
 Sean is a proven public servant, military veteran, and lifelong Michigander.
 At age 17, Sean enlisted in the U.S.
 Army.
@@ -16,3 +16,4 @@ Sean also served as Vice President of International Trade at the Michigan Econom
 There, he led reforms that saved taxpayers over $250 million in government contracts.
 For 14 years, Sean served on the Huron Valley School Board, where he fought for quality education and responsible budgeting.
 With nearly 40 years in public service, Sean is ready to bring his commitment to Lansing and fight for you on day one.
+Powered by RUN! website builder Paid for by Sean Carlson for State Senate PO Box 217, 1150 Atlantic Street Milford, MI 48381 You need to enable JavaScript to run this app.

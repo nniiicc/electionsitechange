@@ -1,31 +1,134 @@
 [
-"https://bsky.app/profile/ericsorensen.bsky.social",
-"https://designedtorun.com/",
-"https://elections.il.gov/Default.aspx",
-"https://elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx",
-"https://elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx",
-"https://ericforillinois.com/",
-"https://ericforillinois.com/about",
-"https://ericforillinois.com/achievements",
-"https://ericforillinois.com/contact",
-"https://ericforillinois.com/issues",
-"https://ericforillinois.com/media",
-"https://ericforillinois.com/news",
-"https://ericforillinois.com/privacy-policy",
-"https://ericforillinois.com/volunteer",
-"https://facebook.com/EricForIllinois",
-"https://instagram.com/ericforillinois",
-"https://ova.elections.il.gov/",
-"https://ova.elections.il.gov/pollingplacelookup.aspx",
-"https://ova.elections.il.gov/registrationlookup.aspx",
-"https://qctimes.com/news/local/education/article_a0f5a70c-6304-43cd-a9a7-8ea15a5bc948.html",
-"https://secure.actblue.com/donate/es-homepage",
-"https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=50",
-"https://wcbu.org/local-news/2026-09-21/south-pekin-may-get-8m-for-water-system-infrastructure-improvements",
-"https://wvik.org/wvik-top-stories/2026-09-23/u-s-rep-sorenson-and-others-encourage-illinois-residents-to-vote-early",
-"https://x.com/ERICSORENSEN"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/es-homepage?express_lane=true&amount=50"
+},
+{
+"text": "Achievements",
+"href": "https://www.ericforillinois.com/achievements"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://ova.elections.il.gov/registrationlookup.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.ericforillinois.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/es-homepage"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.elections.il.gov/VotingAndRegistrationSystems/EarlyVotingLocationsSearch.aspx"
+},
+{
+"text": "Find your polling location",
+"href": "https://ova.elections.il.gov/pollingplacelookup.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericforillinois.com/volunteer"
+},
+{
+"text": "Learn More",
+"href": "https://www.ericforillinois.com/about"
+},
+{
+"text": "Media",
+"href": "https://www.ericforillinois.com/media"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericforillinois.com/about"
+},
+{
+"text": "News",
+"href": "https://www.ericforillinois.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/es-homepage"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericforillinois.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://qctimes.com/news/local/education/article_a0f5a70c-6304-43cd-a9a7-8ea15a5bc948.html"
+},
+{
+"text": "Read more",
+"href": "https://www.wcbu.org/local-news/2026-09-21/south-pekin-may-get-8m-for-water-system-infrastructure-improvements"
+},
+{
+"text": "Read more",
+"href": "https://www.wvik.org/wvik-top-stories/2026-09-23/u-s-rep-sorenson-and-others-encourage-illinois-residents-to-vote-early"
+},
+{
+"text": "Register to vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.elections.il.gov/ElectionOperations/VotingByMailAgreement.aspx"
+},
+{
+"text": "View More",
+"href": "https://elections.il.gov/Default.aspx"
+},
+{
+"text": "[image: Eric for Illinois logo]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[image: Eric for Illinois]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ericsorensen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/EricForIllinois/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ericforillinois/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ERICSORENSEN"
+},
+{
+"text": "info@ericforillinois.com",
+"href": "mailto:info@ericforillinois.com"
+},
+{
+"text": "where I stand",
+"href": "https://www.ericforillinois.com/issues"
+}
 ]

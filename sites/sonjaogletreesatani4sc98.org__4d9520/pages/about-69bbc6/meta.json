@@ -1,7 +1,9 @@
 {
  "description": "Discover Dr. Sonja Ogletree Satani, a leader advocating for community empowerment and women&#39;s entrepreneurship in South Carolina&#39;s State House.",
  "final_url": "https://sonjaogletreesatani4sc98.org/about",
- "paid_for_by": null,
+ "fingerprint": "aca427e6c470a6b1b8316dd2ffad83c4ab38eaac",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
  "years_mentioned": [
   "2013",
@@ -11,7 +13,6 @@
   "2019",
   "2021",
   "2022",
-  "2023",
-  "2025"
+  "2023"
  ]
 }

@@ -1,10 +1,46 @@
 [
-"http://scottdesjarlais.com/volunteer",
-"https://facebook.com/drscottdesjarlais",
-"https://scottdesjarlais.com/",
-"https://scottdesjarlais.com/about_scott",
-"https://scottdesjarlais.com/endorsements-2",
-"https://scottdesjarlais.com/issues",
-"https://secure.winred.com/friends-of-scott-desjarlais/website-donate",
-"https://twitter.com/tndesjarlais"
+{
+"text": "About Dr. Scott",
+"href": "https://scottdesjarlais.com/about_scott/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-scott-desjarlais/website-donate"
+},
+{
+"text": "Endorsements",
+"href": "https://scottdesjarlais.com/endorsements-2/"
+},
+{
+"text": "Get Involved!",
+"href": "http://scottdesjarlais.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://scottdesjarlais.com/"
+},
+{
+"text": "Issues",
+"href": "https://scottdesjarlais.com/issues/"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:info@scottdesjarlais.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/drscottdesjarlais/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/tndesjarlais"
+},
+{
+"text": "volunteer",
+"href": "http://scottdesjarlais.com/volunteer/"
+}
 ]

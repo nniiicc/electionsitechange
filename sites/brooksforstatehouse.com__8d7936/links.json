@@ -1,18 +1,98 @@
 [
-"http://ericjackson.design/",
-"https://brooksforstatehouse.com/",
-"https://brooksforstatehouse.com/about",
-"https://brooksforstatehouse.com/akilahs-law",
-"https://brooksforstatehouse.com/contact",
-"https://brooksforstatehouse.com/continuing-work",
-"https://brooksforstatehouse.com/results",
-"https://bsky.app/profile/natrixdreammom.bsky.social",
-"https://facebook.com/WixStudio",
-"https://facebook.com/brooksforstatehouse",
-"https://instagram.com/brooksforstatehouse",
-"https://linkedin.com/company/wix-com",
-"https://secure.actblue.com/donate/brookscct",
-"https://tiktok.com/@shaundellebrooks4",
-"https://twitter.com/WixStudio",
-"https://x.com/Natrixdreammom"
+{
+"text": "About Shaundelle",
+"href": "https://www.brooksforstatehouse.com/about"
+},
+{
+"text": "Akilah's Law",
+"href": "https://www.brooksforstatehouse.com/akilahs-law"
+},
+{
+"text": "BROOKS FOR STATE HOUSE",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/natrixdreammom.bsky.social"
+},
+{
+"text": "Capital Hedge Fund",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "Continuing the Work",
+"href": "https://www.brooksforstatehouse.com/continuing-work"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brookscct"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/brooksforstatehouse"
+},
+{
+"text": "GET RESULTS",
+"href": "https://www.brooksforstatehouse.com/results"
+},
+{
+"text": "Gallery",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/brooksforstatehouse"
+},
+{
+"text": "Jackson Designz",
+"href": "http://www.ericjackson.design"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.brooksforstatehouse.com/akilahs-law"
+},
+{
+"text": "LEARN WHY",
+"href": "https://www.brooksforstatehouse.com/about"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "Results That Matter",
+"href": "https://www.brooksforstatehouse.com/results"
+},
+{
+"text": "SCIENTIA",
+"href": "https://www.brooksforstatehouse.com"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@shaundellebrooks4"
+},
+{
+"text": "Volunteer",
+"href": "https://www.brooksforstatehouse.com/contact"
+},
+{
+"text": "X",
+"href": "https://www.twitter.com/WixStudio"
+},
+{
+"text": "X",
+"href": "https://x.com/Natrixdreammom"
+}
 ]

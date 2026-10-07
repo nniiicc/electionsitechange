@@ -1,12 +1,42 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://greggoode.org/",
-"https://greggoode.org/cdn-cgi/l/email-protection",
-"https://greggoode.org/privacy-policy",
-"https://indianavoters.com/",
-"https://secure.winred.com/committee-to-elect-greg-goode-add0c098/donate-today",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://www.greggoode.org"
+},
+{
+"text": "About",
+"href": "https://www.greggoode.org/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-greg-goode-add0c098/donate-today"
+},
+{
+"text": "GregGoode.org",
+"href": "https://greggoode.org"
+},
+{
+"text": "Home",
+"href": "https://www.greggoode.org/"
+},
+{
+"text": "IndianaVoters.com",
+"href": "https://indianavoters.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.greggoode.org/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.greggoode.org/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:Info@greggoode.org"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

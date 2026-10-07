@@ -1,4 +1,4 @@
-All eyes have been on Iran the past several weeks — and rightly so.
+Skip to main content Skip to footer Opens in a new tab Donate Home Issues Endorsements Updates Media Donate Blog: America Cannot Take Its Eyes Off China June 17, 2026 | Blog All eyes have been on Iran the past several weeks — and rightly so.
 President Trump has taken bold and decisive action to end Ayatollah Khamenei’s brutal rule and dismantle the number one state sponsor of terrorism.
 But there is another enemy lurking in the background that has not received enough attention and cannot be overlooked: the Chinese Communist Party.
 Even after the completion of President Trump’s successful bilateral summit with President Xi Jinping, China poses a growing and long-term threat at home and abroad.
@@ -25,7 +25,7 @@ I am running for Congress to tackle these issues head-on and deliver solutions t
 I have already been instrumental in shedding light on these issues and developing legislation to fight back against China, including through the first ever surrogacy bill in the United States, the SAFE KIDS Act.
 President Trump’s leadership, and his peace-through-strength approach, is exactly what this moment demands.
 His track record in dealing with global conflicts shows he understands how to navigate high-stakes situations and deliver results.
-When elected, I will partner with President Trump and use my experience as a conservative attorney and chief legislative advisor to advance policies in Congress that address these challenges specific to China at their core, starting with legislation to protect American farmland, safeguarding our children, and defending the interests of the American people.
-–Austin Rogers is a lifelong Panama City native, conservative attorney, and former General Counsel to U.S.
+When elected, I will partner with President Trump and use my experience as a conservative attorney and chief legislative advisor to advance policies in Congress that address these challenges specific to China at their core, starting with legislation to protect American farmland, safeguarding our children, and defending the interests of the American people. – Austin Rogers is a lifelong Panama City native, conservative attorney, and former General Counsel to U.S.
 Senator Rick Scott.
 He is a candidate for Congress in Florida’s 2nd congressional district.
+Paid for by Rogers for Florida Privacy Policy Contact: info@rogersforflorida.com Connect

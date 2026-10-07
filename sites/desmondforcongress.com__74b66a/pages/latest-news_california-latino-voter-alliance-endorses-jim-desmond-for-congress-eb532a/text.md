@@ -1,14 +1,14 @@
-California Latino Voter Alliance Endorses Jim Desmond for Congress
-San Diego, CA – The California Latino Voter Alliance, a leading organization dedicated to ensuring Latino families have a strong and united voice on the issues that matter most, has officially endorsed Jim Desmond for Congress.
+0 Skip to Content Home Meet Jim Priorities Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now Open Menu Close Menu Home Meet Jim Priorities Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now Open Menu Close Menu Home Meet Jim Folder: Priorities Back Cost Of Living Homelessness Secure Border Energy Vocational Military Education Endorsements Media Latest News Donate Now California Latino Voter Alliance Endorses Jim Desmond for Congress Jan 29 Written By Miles Himmel San Diego, CA – The California Latino Voter Alliance, a leading organization dedicated to ensuring Latino families have a strong and united voice on the issues that matter most, has officially endorsed Jim Desmond for Congress.
 The endorsement highlights Desmond’s commitment to lowering costs, strengthening public safety, and making California more affordable for working families.
 “Jim Desmond is a proven leader who understands the challenges facing California families,” said Steven Esparza, Chairman of the California Latino Voter Alliance.
 “From skyrocketing living costs to the lack of economic opportunities, Jim knows that hardworking families need relief, not more burdens.
 His track record of cutting through government red tape and fighting against wasteful spending makes him the right person to represent us in Congress.
-We are proud to stand with Jim Desmond.”
-Jim Desmond expressed his gratitude for the endorsement, vowing to fight for policies that uplift all families and ensure a better future for the next generation.
+We are proud to stand with Jim Desmond.” Jim Desmond expressed his gratitude for the endorsement, vowing to fight for policies that uplift all families and ensure a better future for the next generation.
 “I am honored to have the support of the California Latino Voter Alliance,” said Jim Desmond.
 “California families are struggling under the weight of high taxes, unaffordable housing, and rising costs of everyday necessities.
 In Congress, I will fight to lower costs, reduce wasteful government spending, and make sure every family has the opportunity to thrive.
-We need real solutions, not empty promises, and I am ready to get to work.”
-Jim Desmond has been a champion for Southern California, leading efforts to improve public safety, reduce overregulation, and fight against new taxes that hurt working families.
+We need real solutions, not empty promises, and I am ready to get to work.” Jim Desmond has been a champion for Southern California, leading efforts to improve public safety, reduce overregulation, and fight against new taxes that hurt working families.
 His campaign continues to build momentum as he prioritizes real solutions to California’s affordability crisis.
+Miles Himmel Previous Previous Coalition for Fair Employment in Construction Endorses Jim Desmond for Congress Next Next Abdur-Rahim Hameed, President of National Black Contractors Endorse Jim Desmond for Congress Meet Jim Jim Desmond is a U.S.
+Navy Veteran, retired Delta Airline Pilot, former business owner, and current San Diego County Supervisor dedicated to serving his community.
+Quick Links Home Meet Jim Priorities Latest News Privacy Policy Contact Info Email: info@DesmondForCongress.com Address: 930 Boardwalk Suite G, San Marcos, CA 92078 Phone: 858-215-2437 @2026 Desmond for Congress Paid for By Desmond for Congress

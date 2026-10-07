@@ -1,11 +1,4 @@
-Ashley Bartley on Affordable Housing
-Ashley Bartley, candidate for the Vermont House of Representatives, shares her thoughts on the
-Affordable Housing Crisis.
-top of page
-Paid for by Ashley Bartley for State Senate
-Jeff Bartley, Treasurer
-CONTACT:
-802-310-0400
-PO Box 432
-Fairfax, VT 05454
-bottom of page
+top of page HOME ABOUT ASHLEY WHY I RAN CONTACT SIGN-UP FOR UPDATES CAMPAIGN UPDATES DONATE More Use tab to navigate through the menu items.
+All Posts Campaign Affordability Crisis Childcare Crisis Working Families Affordable Housing Legislative Updates Education Search Ashley Bartley on Affordable Housing info4075055 Nov 6, 2022 1 min read Ashley Bartley, candidate for the Vermont House of Representatives, shares her thoughts on the Affordable Housing Crisis.
+Campaign Affordable Housing Recent Posts See All As your Senator, I’ll continue to leave it on the field THANK YOU!
+Weekly Legislative Update: January 12, 2024 Paid for by Ashley Bartley for State Senate Jeff Bartley, Treasurer ​ CONTACT: ashley@ashleybartley.org 802-310-0400 ​ PO Box 432 Fairfax, VT 05454 ​ ​ DONATE TO ASHLEY! bottom of page

@@ -1,6 +1,4 @@
-Our Educational Funding Crisis: Watch for Manufactured Division
-Friends and neighbors,
-I will have a more detailed discussion on my policy priorities soon.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Our Educational Funding Crisis: Watch for Manufactured Division December 17, 2024 Friends and neighbors, I will have a more detailed discussion on my policy priorities soon.
 Ahead of that, I want to apply some very specific focus to the education funding crisis we will most certainly be asked to consider soon into the new session.
 Our education funding process needs correction.
 As we move into this process, we must remain mindful and deliberate to avoid over-correcting — something that often happens when we collectively realize a system isn’t as functional as it should be.
@@ -43,4 +41,4 @@ Our values demand it.
 Our kids deserve it.
 As this conversation develops, let’s not lose sight of what’s at stake.
 Equity isn’t optional.
-It’s essential.
+It’s essential. < Thank You for the Privilege of Serving Our District > Setting the Record Straight on Burlington’s Public Safety Debate Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

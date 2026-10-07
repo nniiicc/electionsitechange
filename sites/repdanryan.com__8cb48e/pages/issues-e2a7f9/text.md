@@ -1,18 +1,15 @@
-Issues & Accomplishments
-Labor/Workers Rights
-Dan Ryan has walked the picket line with the men and women of labor in numerous strikes and actions.
-- Airport Workers’ fight for $15, many of these workers live in the district.
-- Took the legislative lead to help end the National Grid lockout.
-- Worked with Chairwoman Denise Garlick, a former union president, to help bring the Tufts’ nurses lockout to an end.
+Home Issues News Volunteer Donate Select Page Issues & Accomplishments Labor/Workers Rights Education Veterans and Federal Affairs Criminal Justice, Civil Rights and Equal Protections Mental Health, Substance Abuse and Recovery Environment Labor/Workers Rights Dan Ryan has walked the picket line with the men and women of labor in numerous strikes and actions.
+Airport Workers’ fight for $15, many of these workers live in the district.
+Took the legislative lead to help end the National Grid lockout.
+Worked with Chairwoman Denise Garlick, a former union president, to help bring the Tufts’ nurses lockout to an end.
 Dan’s experience as a Legislative Aide is Washington, DC has helped him some labor policy here in Boston.
-- Authored historic ‘Post-JANUS’ legislation to protect public sector employees’ collective bargaining rights.
-- Served as House Chair of the Special ‘Hot Works’ Commission to codify welding safety regulations at construction sites.
-- Worked with other colleagues on budget amendment to increase the Attorney’s General’s staff allocation to hire more wage theft investigators.
+Authored historic ‘Post-JANUS’ legislation to protect public sector employees’ collective bargaining rights.
+Served as House Chair of the Special ‘Hot Works’ Commission to codify welding safety regulations at construction sites.
+Worked with other colleagues on budget amendment to increase the Attorney’s General’s staff allocation to hire more wage theft investigators.
 Dan’s father and three uncles were members of Boston Firefighters, Local 718.
 Out of high school, Ryan himself was a member of Teamsters, Local 122 before getting laid off in the recession of the early 1990’s.
 At that point, he took a job as Teen Center Director with the Charlestown Boys and Girls Club, helping to steer young men and women on positive career paths through the Broader Horizons College and Career readiness program.
-Education
-Dan and his wife Kara are active Boston Public School parents.
+Back to Top Education Dan and his wife Kara are active Boston Public School parents.
 Their daughters Ella and Audrey are heading into 7th and 5th grade.
 Like other families, they are currently homeschooling due to COVID-19.
 Their son Myer, a public school graduate, is home from graduate school.
@@ -27,11 +24,11 @@ Ryan received Triangle’s 2018 Recognition Award.
 Ryan’s imprint is on the landmark Student Opportunity Act, passed into law overwhelmingly last year.
 Some of the issues he championed in previous sessions, while the bill was at an impasse, were included.
 For example, Ryan has asked for and received increases in charter school reimbursements back to cities and towns for their school districts in past budgets.
-He continued to advocate for full charter reimbursement as an item that all sides of the Charter divide could agree upon. 100% reimbursement, phased in, was included in the final bill.
+He continued to advocate for full charter reimbursement as an item that all sides of the Charter divide could agree upon.
+100% reimbursement, phased in, was included in the final bill.
 Ryan was also successful in adding money into what became known as the ‘pothole’, a line item in previous budgets that would reimburse Gateway Communities, such as Chelsea, for money lost to changes to the federal school lunch program under the old formula.
 Many of the provisions in the new bill addressed the inadequate funding for Gateway Communities.
-Veterans and Federal Affairs
-Ryan has been working on Veterans issues and casework at the federal and state level for over twenty years.
+Back to Top Veterans and Federal Affairs Ryan has been working on Veterans issues and casework at the federal and state level for over twenty years.
 His dad, four uncles and maternal grandfather were World War II veterans.
 His grandmother, Melinda, was a Gold Star Mother and an active member of their organization.
 Daniel Joseph Ryan is named after his uncles Daniel and Joe, the former a resident of the Chelsea Soldier’s Home when he passed two months before Ryan was born, having never fully recovered from injuries sustained in the Pacific Theater in WWII.
@@ -45,8 +42,7 @@ For his efforts, the Massachusetts Chapter of the American Legion named Ryan ‘
 He also received The Massachusetts Veteran Services Officers ‘Legislator of the Year’ in 2018.
 Although not a veteran himself, Ryan is a guest member of the Sons of the American Legion, through his activities in the Jim Conway, Bunker Hill Post 26 in Charlestown.
 He is also a member of the Abraham Lincoln Post, GAR no.12.
-Criminal Justice, Civil Rights and Equal Protections
-In 2020, as a member of the Transportation Committee, Ryan voted in favor of moving The Family Mobility Act out of committee.
+Back to Top Criminal Justice, Civil Rights and Equal Protections In 2020, as a member of the Transportation Committee, Ryan voted in favor of moving The Family Mobility Act out of committee.
 This is the first time in the bill’s fifteen-year history that the legislation has been released from committee.
 Voted for and supported The Transgender Public Accommodations Act.
 In the comprehensive 2018 Opioid Prevention Bill, Ryan was one of the lead legislators in dialogue with colleagues, police chiefs and advocacy groups to expand Crisis Intervention Response training.
@@ -56,10 +52,8 @@ He is an original co-sponsor of the Chelsea Pride Flag Raising event at City Hal
 He also co-sponsored a similar event in Charlestown last year, initiated by City Councilor Lydia Edwards and Attorney General Maura Healey.
 Ryan served as Vice-Chair of the Mental Health, Substance Abuse and Recovery when the Criminal Justice Reform Bill of 2018 was past.
 Eliminating mandatory minimums, expanding drug courts and introducing substance abuse recovery programs in our county jails has led to some of the lowest incarcerations rates in state history.
-Mental Health, Substance Abuse and Recovery
-As Vice Chair of the Mental Health, Substance Abuse Committee, Dan played an important role in the passage of legislation to help address the Opioid Epidemic in our Commonwealth.
-Environment
-Ryan has a strong environmental record.
+Back to Top Mental Health, Substance Abuse and Recovery As Vice Chair of the Mental Health, Substance Abuse Committee, Dan played an important role in the passage of legislation to help address the Opioid Epidemic in our Commonwealth.
+Back to Top Environment Ryan has a strong environmental record.
 He has co-sponsored most, if not all of the legislative priorities posed by environmental groups each legislative session.
 He has ranked at, or near the top, in the Environmental League of Massachusetts (ELM) Legislative Scorecards in all three sessions ’s been in office.
 As an Urban Representative, Ryan is no stranger to social justice issues.
@@ -77,9 +71,6 @@ He has also become an avid amateur naturalist admiring the recent re-habitation 
 On one walk, he called the DCR Government Relations team to have a harbor seal freed from the locks it got trapped in chasing herring up the Charles.
 He captured this environmental victory on Twitter.
 Dan, his wife Kara, and three children hike regularly on the trails Greater Boston has to offer.
-Dan also has a family membership to the Audubon Society
-STAY CONNECTED
-SUPPORT OUR CAMPAIGN
-Click on the button below to make an online donation.
-Personal checks made payable to the Committee to Elect Dan Ryan can be mailed to 19 Essex St, Charlestown, MA 02129
-State Law prohibits all corporate, LLC and LLP contributions.
+Dan also has a family membership to the Audubon Society Back to Top STAY CONNECTED Follow Follow Follow SUPPORT OUR CAMPAIGN Click on the button below to make an online donation.
+DONATE Personal checks made payable to the Committee to Elect Dan Ryan can be mailed to 19 Essex St, Charlestown, MA 02129 State Law prohibits all corporate, LLC and LLP contributions.
+PAID FOR BY THE COMMITTEE TO ELECT DAN RYAN

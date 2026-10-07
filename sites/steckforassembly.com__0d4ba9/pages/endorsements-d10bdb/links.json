@@ -1,14 +1,86 @@
 [
-"https://bsky.app/profile/philsteckny.bsky.social",
-"https://facebook.com/SteckforNYSA",
-"https://instagram.com/phil_steck_110",
-"https://secure.actblue.com/donate/secure.actblue.com_donate_philsteck",
-"https://steckforassembly.com/",
-"https://steckforassembly.com/about",
-"https://steckforassembly.com/contact-phil",
-"https://steckforassembly.com/endorsements",
-"https://steckforassembly.com/get-involved",
-"https://steckforassembly.com/press-news",
-"https://steckforassembly.com/privacy-policy",
-"https://steckforassembly.com/the-issues"
+{
+"text": "About",
+"href": "https://steckforassembly.com/about"
+},
+{
+"text": "Contact Phil",
+"href": "https://steckforassembly.com/contact-phil"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/secure.actblue.com_donate_philsteck"
+},
+{
+"text": "Endorsements",
+"href": "https://steckforassembly.com/endorsements"
+},
+{
+"text": "Freedom from Addiction",
+"href": "https://steckforassembly.com/the-issues/#addiction"
+},
+{
+"text": "Freedom from Corruption and Waste",
+"href": "https://steckforassembly.com/the-issues/#corruption"
+},
+{
+"text": "Freedom from Criminal Violence",
+"href": "https://steckforassembly.com/the-issues/#violence"
+},
+{
+"text": "Freedom from Economic Injustice",
+"href": "https://steckforassembly.com/the-issues/#economic"
+},
+{
+"text": "Freedom from Global Warming",
+"href": "https://steckforassembly.com/the-issues/#warming"
+},
+{
+"text": "Freedom of a Woman’s Right to Choose",
+"href": "https://steckforassembly.com/the-issues/#choose"
+},
+{
+"text": "Get Involved",
+"href": "https://steckforassembly.com/get-involved"
+},
+{
+"text": "In the News",
+"href": "https://steckforassembly.com/press-news"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/secure.actblue.com_donate_philsteck"
+},
+{
+"text": "Privacy Policy",
+"href": "https://steckforassembly.com/privacy-policy"
+},
+{
+"text": "Send a Message to Phil",
+"href": "https://steckforassembly.com/contact-phil"
+},
+{
+"text": "Take Action & Volunteer",
+"href": "https://steckforassembly.com/get-involved"
+},
+{
+"text": "The Issues",
+"href": "https://steckforassembly.com/the-issues"
+},
+{
+"text": "[image: Phil Steck for Assembly]",
+"href": "https://steckforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/philsteckny.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SteckforNYSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/phil_steck_110/"
+}
 ]

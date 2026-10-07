@@ -1,273 +1,1198 @@
 [
-"http://mychesco.com/",
-"http://pahouse.com/Shusterman",
-"https://988lifeline.org/",
-"https://abc27.com/news/advocates-highlight-youth-homelessness-in-pennsylvania",
-"https://abc27.com/news/bill-preventing-domestic-abusers-from-taking-office-gains-traction",
-"https://abc27.com/news/top-stories/animal-protection-caucus-announces-new-goals-to-increase-animal-welfare-legislation",
-"https://abc27.com/news/top-stories/gop-furor-over-trumps-anti-weaponization-fund-sinks-senate-budget-reconciliation-bill",
-"https://abc27.com/pennsylvania-politics",
-"https://abc27.com/pennsylvania-politics/new-laws-bring-changes-to-pennsylvania-lottery-specialized-courts",
-"https://abc27.com/pennsylvania-politics/pennsylvania-lawmaker-in-a-war-with-my-daughter-over-ingredients-wants-to-ban-color-food-dyes",
-"https://abc27.com/pennsylvania-politics/pennsylvania-lawmaker-proposes-100-tax-on-anti-weaponization-fund-payments",
-"https://abc27.com/pennsylvania/bipartisan-bill-seeks-to-create-pennsylvania-animal-abuser-registry",
-"https://aclu.org/files/assets/TRAP_FAQ_FactSheet.pdf?_hsenc=p2ANqtz-8EifTF5BfDYXmrjFf_S6kod85L4uxOJKmLx3zzfs4ThYauQ5cHSas1ERMBOgGNZA8e29CKud5-zdnU46VYYa",
-"https://acog.org/womens-health/experts-and-stories/the-latest/utis-after-menopause-why-theyre-common-and-what-to-do-about-them",
-"https://altoonamirror.com/news/local-news/2025/10/pa-house-judiciary-oks-animal-protection-bills",
-"https://altoonamirror.com/news/local-news/2026/03/ai-bills-in-pennsylvania-legislature-seek-to-protect-children-consumers",
-"https://apnews.com/article/abortion-2022-midterm-elections-health-government-and-politics-legislature-b20ac96ff7e6f46065c84d8ff7466a17",
-"https://apnews.com/article/trump-lawsuit-irs-leak-3729de38770b558be01712a143437bf8",
-"https://apnews.com/article/trump-treasury-irs-tax-records-e3a79e1bfdc94a663504754af80ce183",
-"https://attorneygeneral.gov/taking-action/ag-sunday-reacts-to-pa-house-passage-of-bills-to-raise-awareness-of-human-trafficking-regulate-vape-devices-fix-sentencing-for-repeat-dui-offenders",
-"https://buckscountybeacon.com/2024/03/same-job-same-pay-its-that-simple",
-"https://buckscountybeacon.com/2025/09/the-big-picture-recognizing-the-economic-forces-in-pennsylvania-that-should-frame-the-septa-funding-debate",
-"https://cbsnews.com/pittsburgh/news/investigation-illicit-ivory-sales-pennsylvania",
-"https://cepr.org/voxeu/columns/dangers-unregulated-artificial-intelligence",
-"https://chescotimes.com/?p=37522",
-"https://chestercounty.com/2024/04/24/488874/equal-pay-law-approved-by-pa-house-labor-industry-committee",
-"https://chestercounty.com/2025/03/05/525023/pa-animal-protection-caucus-announces-leadership-team-legislative-priorities",
-"https://chestercounty.com/2025/04/23/529875/members-of-pa-house-respond-to-septa-s-proposed-service-cuts-and-rate-hikes",
-"https://cityandstatepa.com/policy/2025/12/proposed-reproductive-rights-legislation-would-tackle-decades-old-state-mandates/410399",
-"https://cnhinews.com/cnhi/article_04d1484a-b583-11ee-8a00-7b59102a2b2b.html",
-"https://cpbj.com/pa-house-passes-equal-pay-law-to-curb-wage-discrimination",
-"https://dailylocal.com/2022/04/25/berwyn-fire-co-gets-1-5-million-to-hellp-fund-new-station",
-"https://dailylocal.com/2022/08/11/phoenixville-area-senior-center-secures-125000-in-state-funding",
-"https://dailylocal.com/2022/10/13/air-tag-leads-to-dumpster-filled-with-stolen-political-signs-in-chester-county",
-"https://dailylocal.com/2022/11/12/chester-county-democrats-await-strong-voice-in-harrisburg",
-"https://dailylocal.com/2022/11/16/more-than-100-political-signs-stolen-from-wayne-area-homes-no-suspects-named",
-"https://dailylocal.com/2022/11/29/judge-should-dismiss-recount-petitions-chester-county-officials-claim",
-"https://dailylocal.com/2022/12/10/sommer-to-election-critics-this-fishing-expedition-must-end",
-"https://dailylocal.com/2023/01/07/mccarthy-elected-house-speaker-local-lawmakers-say-we-continue-on-like-this",
-"https://dailylocal.com/2023/01/19/new-funding-will-improve-local-watersheds-in-west-chester-area",
-"https://dailylocal.com/2023/02/18/recount-battle-continues-in-chester-county",
-"https://dailylocal.com/2023/03/11/shusterman-introduces-bill-for-tax-credits-for-childcare-costs",
-"https://dailylocal.com/2023/05/05/most-chester-county-representatives-support-lgbtq-bill",
-"https://dailylocal.com/2023/06/23/comitta-shusterman-introduce-legislation-to-empower-student-journalists",
-"https://dailylocal.com/2023/08/15/state-rep-shusterman-touts-elmwood-park-zoo-animal-rescue-efforts",
-"https://dailylocal.com/2024/06/21/pa-ag-secretary-promotes-legislation-that-would-protect-plants-and-pollinators-during-stop-in-chester-county",
-"https://dailylocal.com/2024/12/19/shusterman-eyes-3d-printed-gun-regulations",
-"https://dailylocal.com/2025/11/13/chester-county-elected-officials-react-to-50-billion-compromise-in-harrisburg",
-"https://dailylocal.com/2026/01/09/chester-county-state-reps-and-senators-take-a-look-back-and-ahead",
-"https://dailyvoice.com/pa/harrisburg/protect-pa-seniors-and-the-lottery-by-supporting-gov-shapiros-budget-proposal",
-"https://darik.news/pennsylvania/child-care-tax-credit-proposed-news-sports-jobs/662029.html",
-"https://delawarevalleyjournal.com/tag/rep-melissa-shusterman",
-"https://delco.today/2024/11/kestrel-hill-preserve-grant",
-"https://delco.today/tag/Kestrel-Hill-Preserve",
-"https://delco.today/tag/Melissa-Shusterman",
-"https://dvfriends.org/",
-"https://ebsco.com/research-starters/military-history-and-science/stoneman-douglas-high-school-shooting",
-"https://ewg.org/news-insights/news-release/2026/02/pennsylvania-lawmakers-health-advocates-rally-capitol-ban-toxic",
-"https://ewg.org/news-insights/news/2024/02/its-time-ban-paraquat",
-"https://ewg.org/news-insights/news/2025/07/ewg-frequent-violations-paraquat-use-pennsylvania-point-health-risks",
-"https://facebook.com/MelissaShustermanforStateRep",
-"https://forbes.com/sites/thomasbrewster/2022/10/13/apple-airtag-stolen-democratic-signs-pennsylvania?sh=48e4b8d93342",
-"https://governor.pa.gov/newsroom/governor-shapiro-kicks-off-gsd-tour-in-chester-county-highlighting-bipartisan-efforts-to-cut-costs-by-dramatically-expanding-pennsylvanias-child-and-dependent-care-tax-cred",
-"https://healthline.com/health-news/on-51st-anniversary-of-roe-v-wade-where-abortion-rights-stand-in-the-u-s",
-"https://ibm.com/think/topics/ai-guardrails",
-"https://inquirer.com/news/pennsylvania/red-dye-no-3-easter-ban-peeps-explained-pennsylvania-california-20240331.html",
-"https://inquirer.com/opinion/commentary/ai-chatbots-pennsylvania-legislative-guardrails-20260115.html",
-"https://inquirer.com/transportation/septa-service-cuts-august-24-deadline-state-funding-20250804.html",
-"https://instagram.com/melissashusterman?hl=en",
-"https://iso.org/artificial-intelligence/what-is-ai",
-"https://keystonenewsroom.com/story/pa-house-passes-child-sex-abuse-bills-that-the-gop-controlled-senate-may-not-even-consider",
-"https://legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=PDF&sessYr=2023&sessInd=0&billBody=H&billTyp=B&billNbr=1786&pn=2196",
-"https://legis.state.pa.us/CFDOCS/Legis/RC/Public/rc_view_action2.cfm?sess_yr=2023&sess_ind=0&rc_body=H&rc_nbr=652",
-"https://legis.state.pa.us/CFDOCS/Legis/RC/Public/rc_view_action2.cfm?sess_yr=2023&sess_ind=0&rc_body=H&rc_nbr=753",
-"https://legis.state.pa.us/cfdocs/Legis/CSM/showMemoPublic.cfm?chamber=H&SPick=20230&cosponId=38496",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2021&sInd=0&body=S&type=B&bn=0106",
-"https://legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=0&body=H&type=B&bn=2117",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&body=H&type=B&bn=917",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=H&type=B&bn=1190",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sind=0&body=H&type=B&bn=2116",
-"https://legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sind=0&body=S&type=B&bn=746",
-"https://legis.state.pa.us/cfdocs/legis/li/uconsCheck.cfm?yr=2011&sessInd=0&act=122",
-"https://legiscan.com/PA/bill/HB2006/2025",
-"https://levittownnow.com/2022/09/07/democratic-lawmakers-discuss-pa-crisis-pregnancy-centers-at-hearing",
-"https://local21news.com/news/local/violence-in-district-courts-and-the-changes-made-to-keep-the-public-safe",
-"https://loopnet.com/Listing/1000-Westlakes-Dr-Berwyn-PA/29277156",
-"https://melissashusterman.com/",
-"https://melissashusterman.com/about",
-"https://melissashusterman.com/cart",
-"https://melissashusterman.com/contact",
-"https://melissashusterman.com/endorsements",
-"https://melissashusterman.com/news",
-"https://melissashusterman.com/session-notes",
-"https://melissashusterman.com/volunteer",
-"https://military.com/pennsylvania-enacts-trauma-training-law-for-veterans-care",
-"https://msn.com/en-us/news/politics/the-septa-funding-debate-digs-up-pennsylvania-s-perennial-rural-vs-urban-divide/ar-AA1KIJqD",
-"https://mychesco.com/a/author/maryannpugh",
-"https://mychesco.com/a/category/news/government",
-"https://mychesco.com/a/education/independent-schools/delaware-valley-friends-school-awarded-2-5-mmillion",
-"https://mychesco.com/a/education/introducing-young-women-to-the-electrical-trade-394383-awarded-to-rosies-girls-program",
-"https://mychesco.com/a/education/shusterman-launches-it-should-be-a-law-essay-contest-for-fourth-graders",
-"https://mychesco.com/a/news/chester-county-celebrates-4m-windfall-state-grants-bolster-local-projects",
-"https://mychesco.com/a/news/chester-county-lawmakers-urge-senate-action-as-septa-cuts-loom",
-"https://mychesco.com/a/news/chester-county-receives-843000-boost-for-transportation-and-safety-enhancements",
-"https://mychesco.com/a/news/government/house-advances-shusterman-child-care-study-amid-cost-pressures",
-"https://mychesco.com/a/news/government/house-panel-advances-bills-on-reproductive-health-access",
-"https://mychesco.com/a/news/government/legislators-push-for-pay-equity-in-pennsylvania-sparking-a-statewide-debate",
-"https://mychesco.com/a/news/government/pa-equal-pay-bill-stalls-in-senate-amid-renewed-push",
-"https://mychesco.com/a/news/government/pa-legislators-introduce-dog-and-cat-protection-act-to-safeguard-animals-against-abuse",
-"https://mychesco.com/a/news/government/paoli-hospital-schuylkill-township-win-1-65m",
-"https://mychesco.com/a/news/government/pennsylvania-house-approves-tax-reduction-bill-includes-davis-shusterman-provision-for-childcare-relief",
-"https://mychesco.com/a/news/government/pennsylvania-house-passes-bill-to-enhance-nursing-home-care-through-increased-collaboration",
-"https://mychesco.com/a/news/government/pennsylvania-house-passes-bill-to-introduce-family-law-arbitration-aiming-for-quicker-less-contentious-resolutions",
-"https://mychesco.com/a/news/government/pennsylvania-legislature-passes-bill-to-triple-child-and-dependent-care-tax-credit",
-"https://mychesco.com/a/news/government/reforming-divorce-pennsylvania-lawmakers-push-for-modernized-legislation",
-"https://mychesco.com/a/news/government/shusterman-announces-grant-for-local-development-projects",
-"https://mychesco.com/a/news/government/shusterman-bill-expanding-veteran-trauma-training-clears-senate",
-"https://mychesco.com/a/news/government/shusterman-leads-charge-for-job-creation-with-modernized-second-stage-loan-program",
-"https://mychesco.com/a/news/government/shustermans-juvenile-justice-reform-bills-advance-in-pennsylvania-house",
-"https://mychesco.com/a/news/government/streamlining-justice-new-arbitration-law-transforms-family-dispute-resolution-in-pennsylvania",
-"https://mychesco.com/a/news/government/tredyffrin-township-secures-2-2-million-in-state-funding-for-key-stormwater-projects",
-"https://mychesco.com/a/news/pennsylvania/how-melissa-shustermans-support-for-shapiros-bold-budget-could-transform-your-communitys-future",
-"https://mychesco.com/a/news/pennsylvania/lawmakers-honor-mae-krier-mark-rosie-the-riveter-day",
-"https://mychesco.com/a/news/pennsylvania/pennsylvania-state-rep-melissa-shusterman-honored-as-humane-legislator-of-the-year",
-"https://mychesco.com/a/news/pennsylvania/pennsylvania-takes-charge-shustermans-bold-roundtable-advances-reproductive-rights-agenda",
-"https://mychesco.com/a/news/pennsylvania/pennsylvanias-juvenile-justice-reform-bill-advances-in-legislative-process",
-"https://mychesco.com/a/news/revolutionizing-child-care-rep-melissa-shustermans-push-for-affordable-solutions-at-national-forum",
-"https://mychesco.com/a/news/shusterman-visits-diamond-rock-wildlife-rehab-supporting-pa-wildlife-care",
-"https://mychesco.com/a/news/social-issues/womens-issues/shusterman-applauds-termination-of-real-alternatives-contract-opens-doors-for-womens-health-care-providers-statewide",
-"https://mychesco.com/a/news/state-rep-shusterman-announces-2-3-million-in-grants-boosting-local-projects",
-"https://mychesco.com/a/tag/josh-shapiro",
-"https://mychesco.com/a/tag/kristine-howard",
-"https://mychesco.com/a/tag/melissa-shusterman",
-"https://mychesco.com/a/tag/united-states-department-of-health-and-human-services",
-"https://newsfromthestates.com/article/ban-shooting-live-pigeons-targets-advances-pa-house-first-time-2011",
-"https://pahouse.com/InTheNews/NewsRelease?id=133455",
-"https://pahouse.com/InTheNews/NewsRelease?id=134922",
-"https://pahouse.com/InTheNews/NewsRelease?id=138455",
-"https://pahouse.com/InTheNews/NewsRelease?id=139403",
-"https://pahouse.com/InTheNews/NewsRelease?id=144704",
-"https://pahouse.com/InTheNews/NewsRelease?id=145406",
-"https://pahouse.com/Shusterman",
-"https://pahouse.com/Shusterman/InTheNews/NewsRelease?id=134647",
-"https://pahouse.com/Shusterman/InTheNews/NewsRelease?id=139734",
-"https://pahouse.com/Shusterman/InTheNews/NewsRelease?id=139739",
-"https://pahouse.com/Shusterman/InTheNews/NewsRelease?id=141495",
-"https://pahouse.com/SouthEastDelegation/InTheNews/NewsRelease?id=139388",
-"https://pahouse.com/Tarik/InTheNews/NewsRelease?id=132441",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46081",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46781",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46784",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46798&document=HB1577",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46871",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46894",
-"https://palegis.us/house/co-sponsorship/memo?memoID=46902",
-"https://palegis.us/house/co-sponsorship/memo?memoID=47121",
-"https://palegis.us/house/co-sponsorship/memo?memoID=47226",
-"https://palegis.us/house/co-sponsorship/memo?memoID=48512",
-"https://palegis.us/house/co-sponsorship/memo?memoID=48593",
-"https://palegis.us/house/co-sponsorship/memo?memoID=48790",
-"https://palegis.us/house/co-sponsorship/memo?memoID=49104",
-"https://palegis.us/house/co-sponsorship/memo?memoID=49182",
-"https://palegis.us/house/committees/34/professional-licensure",
-"https://palegis.us/house/members/bio/1851/representative-melissa-shusterman",
-"https://palegis.us/legislation/bills/2025/hb1827",
-"https://palegis.us/legislation/bills/2025/hb1930",
-"https://palegis.us/legislation/bills/2025/hb1993",
-"https://palegis.us/legislation/bills/2025/hb2006",
-"https://palegis.us/legislation/bills/2025/hb2545",
-"https://palegis.us/legislation/bills/text/PDF/2025/0/HB0994/PN1078",
-"https://palegis.us/legislation/bills/text/PDF/2025/0/HB1135/PN1420",
-"https://papost.org/2019/09/17/as-lawmakers-return-to-harrisburg-activists-focus-on-red-flag-gun-bill",
-"https://patch.com/pennsylvania/across-pa/5-major-new-law-proposals-pa-social-media-abortions-solar-power",
-"https://patch.com/pennsylvania/across-pa/ice-buys-87m-warehouse-eastern-pa",
-"https://patch.com/pennsylvania/ardmore/ice-detains-2-lower-merion-authorities-confirm",
-"https://patch.com/pennsylvania/limerick/s/il91c/scam-prevention-town-hall-state-rep-shusterman-chesco-democrat?user_email=b695ec74ebcad73ef3869bbceeb7fcc0ccdf953fe3fe6adcb94dae16726bff21",
-"https://patch.com/pennsylvania/lowerprovidence/federal-agents-spotted-trooper-monday-reports",
-"https://patch.com/pennsylvania/malvern/chesco-chamber-hails-childcare-tax-credit-law",
-"https://patch.com/pennsylvania/phoenixville/chesco-lawmaker-shustermans-bill-help-families-moves-ahead",
-"https://patch.com/pennsylvania/phoenixville/chester-lawmaker-applauds-passage-45b-pa-budget",
-"https://patch.com/pennsylvania/phoenixville/ice-arrests-phoenixville-prompt-police-chief-mayor-responses",
-"https://patch.com/pennsylvania/phoenixville/pa-jewish-legislative-caucus-stands-israel-statement",
-"https://patch.com/pennsylvania/phoenixville/phoenixville-gets-495k-grants-school-safety",
-"https://patch.com/pennsylvania/phoenixville/phoenixville-lawmaker-stop-funding-crisis-centers-denying-abortion",
-"https://patch.com/pennsylvania/te/antisemitic-signs-waved-valley-forge-road-tredyffrin-officials",
-"https://patch.com/pennsylvania/te/chesco-lawmaker-shusterman-s-bill-help-families-moves-ahead?user_email=0e990514dfc946c2996a6c610a8f76cc68fd23969479a67baad1a210fcbe09d0",
-"https://patch.com/pennsylvania/te/gov-shapiro-hails-childcare-tax-credit-law-ymca-berwyn",
-"https://patch.com/pennsylvania/te/help-childcare-bill-backed-chesco-lawmaker",
-"https://patch.com/pennsylvania/te/ice-reportedly-moving-berwyn-offices",
-"https://patch.com/pennsylvania/te/pa-lawmaker-thanks-gov-shapiro-supporting-abortion-resources",
-"https://patch.com/pennsylvania/te/s/iee15/melissa-shusterman-runs-for-state-house-term-in-d-157",
-"https://patch.com/pennsylvania/te/shusterman-hoping-increase-pas-early-childhood-teacher-numbers",
-"https://patch.com/pennsylvania/te/tredyffrin-area-state-rep-candidate-end-gerrymandering-now",
-"https://patch.com/pennsylvania/westchester/how-easy-it-buy-gun-pennsylvania",
-"https://penncapital-star.com/blog/pa-house-passes-bill-to-protect-people-seeking-abortions-in-pennsylvania-from-prosecution-by-other-states",
-"https://penncapital-star.com/children-families/pa-house-committee-splits-along-party-lines-over-regulation-proposal-for-ai-chatbots",
-"https://penncapital-star.com/criminal-justice/from-declawing-to-bestiality-pennsylvania-lawmakers-target-animal-cruelty",
-"https://penncapital-star.com/criminal-justice/lawmakers-advance-measures-to-improve-youth-detention-oversight-protections",
-"https://penncapital-star.com/criminal-justice/protections-for-pets-in-domestic-violence-divorce-cases-pass-pa-house-panel",
-"https://penncapital-star.com/government-politics/overburdened-and-underfunded-shapiro-signs-bill-to-save-bureau-of-dog-law-enforcement",
-"https://penncapital-star.com/health/done-being-silent-pa-legislators-push-package-to-close-gaps-in-menopause-treatments",
-"https://pennlive.com/news/2021/06/raising-dog-license-fee-to-10-an-easy-fix-to-a-big-problem-of-keeping-canines-communities-safe.html",
-"https://pennlive.com/news/2023/06/pa-house-committee-passes-bill-striking-court-gun-locker-law.html",
-"https://pennlive.com/opinion/2025/09/one-gun-a-month-a-reasonable-commonsense-plan-to-curtail-illegal-weapons-in-our-communities-opinion.html",
-"https://pennlive.com/opinion/2026/05/pennsylvania-must-step-up-where-th-federal-government-fails-on-womens-health-opinion.html",
-"https://pennlive.com/politics/2023/10/pa-bill-to-hike-dog-license-fee-after-27-years-heads-to-governors-desk.html",
-"https://phillyburbs.com/story/news/politics/state/2025/10/14/pa-privacy-protections-ai-chatbot-users-memo/86674715007",
-"https://phillytrib.com/commentary/pennsylvania-needs-to-do-more-to-deliver-justice-for-children/article_63d02372-56d3-4980-9e34-cd76754153e6.html",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC11790305",
-"https://politicspa.com/house-passes-bill-easing-childcare-burdens/122330",
-"https://politicspa.com/shusterman-proposes-amending-pennsylvania-constitution-over-state-budget-deadline/146096",
-"https://post-gazette.com/news/politics-state/2024/06/24/pennsylvania-legislature-house-artificial-intelligence-dark-money/stories/202406240057",
-"https://post-gazette.com/news/politics-state/2024/12/20/ghost-gun-regulation-pa-hb-777/stories/202412200097",
-"https://post-gazette.com/news/politics-state/2025/03/22/pennsylvania-food-dye-ban/stories/202503210075",
-"https://post-gazette.com/news/politics-state/2025/08/30/pennsylvania-budget-state-house-senate/stories/202508290056",
-"https://post-gazette.com/opinion/editorials/2023/04/25/youth-service-corps/stories/202304280003",
-"https://pubmed.ncbi.nlm.nih.gov/37230869",
-"https://pubmed.ncbi.nlm.nih.gov/38154005",
-"https://repmihalek.com/",
-"https://secure.actblue.com/donate/melissasforstaterep",
-"https://senatoreldervogel.com/2023/06/20/vogels-dog-law-modernization-bill-advances-from-pa-senate-chamber",
-"https://shorenewsnetwork.com/pennsylvania-seeks-to-regulate-ai-companion-relationship-apps",
-"https://southphillyreview.com/2025/05/31/around-town-7",
-"https://spotlightpa.org/news/2022/11/pa-governor-election-2022-results-house-democrats-flip-republican-control",
-"https://spotlightpa.org/news/2025/07/pennsylvania-lottery-prizes",
-"https://spotlightpa.org/news/2025/08/pennsylvania-budget-impasse-septa-transit-funding-joe-pittman-state-senate-capitol",
-"https://thecentersquare.com/pennsylvania/article_06e62005-cce0-4d92-ac06-02c223da2b4c.html",
-"https://thedp.com/article/2024/02/penn-pennsylvania-house-abortion-bill-tarik-khan-trap-laws",
-"https://thehill.com/homenews/state-watch/5899606-california-newsom-trump-fund-tax",
-"https://thelawmakers.org/state-legislative-effectiveness-scores/announcing-the-release-of-the-207th-pennsylvania-general-assembly-state-legislative-effectiveness-scores-sles",
-"https://thelawmakers.org/wp-content/uploads/2025/10/2023-2024-Highlights-from-the-207th-Pennsylvania-General-Assembly.pdf",
-"https://thetruthaboutguns.com/fl-and-pa-democrats-continue-to-legislate-in-contempt",
-"https://thomsonreuters.com/en/insights/articles/benefits-of-artificial-intelligence-ai",
-"https://tiktok.com/@repshusterman",
-"https://timesobserver.com/news/local-news/2025/04/package-of-food-safety-bills-introduced",
-"https://timesobserver.com/opinion/our-opinion/2026/07/our-opinion-let-competition-set-gas-prices",
-"https://transparencycoalition.ai/news/pennsylvania-ai-bills-advancing-prior-to-summer-recess",
-"https://tribdem.com/news/shapiro-signs-six-bills-into-law-bolstering-megans-law-protecting-bald-eagles-among-other-initiatives/article_1aa462f6-04ab-5c80-9321-61b2b77d0192.html",
-"https://twitter.com/MelissaForPA/status/1580216538421899264?s=20&t=gBmG0HhE4uufaBpN21ZU6w",
-"https://twitter.com/MelissaForPA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-"https://unionvilletimes.com/?p=45870",
-"https://usatoday.com/story/life/health-wellness/2026/09/22/menopause-uti-vaginal-estrogen-sepsis/91680008007",
-"https://usatoday.com/story/news/2020/07/14/pennsylvania-original-rosie-riveter-makes-masks-to-honor-wwii-work/112093374",
-"https://vista.today/2022/11/paoli-hospital-funding",
-"https://wdac.com/health-department-approval-for-hospital-purchases",
-"https://weny.com/story/52938860/bill-break-food-donor-lawsuit-liability",
-"https://westlakescampus.com/",
-"https://westlakescampus.com/about-westlakes.html",
-"https://wfmz.com/news/state/ai-in-mental-health-care-where-to-draw-the-line/article_df0f4abe-ca89-5038-bd9c-02faa2b3b517.html",
-"https://whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021",
-"https://whyy.org/articles/dhs-berwyn-ice-main-line-office-space",
-"https://whyy.org/articles/septa-chester-county-rep-shusterman-tax-revenue",
-"https://whyy.org/articles/septa-cuts-paoli-thorndale-chester-county",
-"https://witf.org/2019/09/17/as-lawmakers-return-to-harrisburg-activists-focus-on-red-flag-gun-bill",
-"https://witf.org/2025/08/21/pa-budget-stalls-again-what-will-it-take-to-break-the-cycle-of-delays",
-"https://wpxi.com/news/investigates/11-investigates-crossing-guards-hurt-job-incidents-not-tracked-locally-nationally/XNDXOP7LXRGEHAL2GQRDBH4UMI",
-"https://wpxi.com/news/local/11-investigates-gets-action-new-legislation-aimed-protecting-school-crossing-guards-students/PI2KPU44DRFCVNSKPOGH4D3KNU",
-"https://wtaj.com/news/regional-news",
-"https://wtaj.com/news/regional-news/disturbingly-realistic-pa-rep-aims-to-criminalize-use-of-child-sex-dolls",
-"https://wtaj.com/news/regional-news/following-recent-attacks-pa-lawmaker-to-propose-bill-strengthening-ai-protections",
-"https://wtaj.com/news/regional-news/pa-bill-would-prohibit-ai-from-replacing-school-counselors-psychologists",
-"https://wtaj.com/news/regional-news/pennsylvania-lawmakers-introduce-death-with-dignity-law-for-terminal-patients",
-"https://wtaj.com/news/regional-news/proposed-bill-would-ban-anyone-under-21-from-buying-semi-automatic-assault-rifles",
-"https://wtaj.com/news/regional-news/representatives-look-to-honor-women-through-rosie-the-riveter-day-in-pa",
-"https://wwww.septa.org/fundingcrisis",
-"https://youtube.com/hashtag/pahouse",
-"https://youtube.com/hashtag/pasenate",
-"https://youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1dTOVU3bVJZWEpVWW5zT3d6NkVhNVRKdXVYd3xBQ3Jtc0tuNEpyZ0xMWGxHa2s0NndYZjZzaU9PaWE3cUJLRDRSU0kxd0ZUQV8xTzMtN3lveEVxaHVGZFJxZ0xqXzlfcXJtZFpwTWV0SEtTSHFrQTgxLXhXRkhjVnNIUk5vMWlJeDA0RXdrMERoYURqMXExQW1Oaw&q=http%3A%2F%2Fwww.pahouse.com%2FShusterman&v=wcIYkmZJE_U",
-"https://youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVYWnh6WEJybElmUzBOQjFjWVMwTk5jU2RWd3xBQ3Jtc0trMXdEREk3RGFmVFlPYVhIVG9xaUJwY1c2UmNMS0RmeUYzRXRMU3h1TTU3N2pMVEhYMTNoRzlRQURmSWFZTnA4V0c2X2xqdTV2Y3VkMnphc01PRjBXRDNyM1huVDNyaV9KV1pESXdYZ1ZqMlV0QndZOA&q=http%3A%2F%2Fwww.pahouse.com%2F&v=GfyKWumvEcI",
-"https://youtube.com/watch?v=BYZxpUfTU_w",
-"https://youtube.com/watch?v=usZLLbuyntw"
+{
+"text": "#PAHouse",
+"href": "https://www.youtube.com/hashtag/pahouse"
+},
+{
+"text": "#PASenate",
+"href": "https://www.youtube.com/hashtag/pasenate"
+},
+{
+"text": "0",
+"href": "https://www.melissashusterman.com/cart"
+},
+{
+"text": "143-60",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/RC/Public/rc_view_action2.cfm?sess_yr=2023&sess_ind=0&rc_body=H&rc_nbr=652"
+},
+{
+"text": "19-year-old Nikolas Cruz entered the high school and opened fire",
+"href": "https://www.ebsco.com/research-starters/military-history-and-science/stoneman-douglas-high-school-shooting"
+},
+{
+"text": "51st anniversary",
+"href": "https://www.healthline.com/health-news/on-51st-anniversary-of-roe-v-wade-where-abortion-rights-stand-in-the-u-s"
+},
+{
+"text": "527,000-square-foot warehouse in Berks County",
+"href": "https://patch.com/pennsylvania/across-pa/ice-buys-87m-warehouse-eastern-pa"
+},
+{
+"text": ": The AI",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "AI offers clear benefits",
+"href": "https://www.thomsonreuters.com/en/insights/articles/benefits-of-artificial-intelligence-ai"
+},
+{
+"text": "AS LAWMAKERS RETURN TO HARRISBURG, ACTIVISTS FOCUS ON ‘RED FLAG’ GUN BILL",
+"href": "https://papost.org/2019/09/17/as-lawmakers-return-to-harrisburg-activists-focus-on-red-flag-gun-bill/"
+},
+{
+"text": "About",
+"href": "https://www.melissashusterman.com/about"
+},
+{
+"text": "Act 122",
+"href": "https://www.legis.state.pa.us/cfdocs/legis/li/uconsCheck.cfm?yr=2011&sessInd=0&act=122"
+},
+{
+"text": "Amenities",
+"href": "https://www.westlakescampus.com/about-westlakes.html"
+},
+{
+"text": "Artificial intelligence",
+"href": "https://www.iso.org/artificial-intelligence/what-is-ai"
+},
+{
+"text": "Contact",
+"href": "https://www.melissashusterman.com/contact"
+},
+{
+"text": "Continue Reading",
+"href": "https://apnews.com/article/abortion-2022-midterm-elections-health-government-and-politics-legislature-b20ac96ff7e6f46065c84d8ff7466a17"
+},
+{
+"text": "Continue Reading",
+"href": "https://darik.news/pennsylvania/child-care-tax-credit-proposed-news-sports-jobs/662029.html"
+},
+{
+"text": "Continue Reading",
+"href": "https://delawarevalleyjournal.com/tag/rep-melissa-shusterman/"
+},
+{
+"text": "Continue Reading",
+"href": "https://levittownnow.com/2022/09/07/democratic-lawmakers-discuss-pa-crisis-pregnancy-centers-at-hearing/"
+},
+{
+"text": "Continue Reading",
+"href": "https://local21news.com/news/local/violence-in-district-courts-and-the-changes-made-to-keep-the-public-safe"
+},
+{
+"text": "Continue Reading",
+"href": "https://patch.com/pennsylvania/phoenixville/phoenixville-gets-495k-grants-school-safety"
+},
+{
+"text": "Continue Reading",
+"href": "https://patch.com/pennsylvania/te/s/iee15/melissa-shusterman-runs-for-state-house-term-in-d-157"
+},
+{
+"text": "Continue Reading",
+"href": "https://patch.com/pennsylvania/te/tredyffrin-area-state-rep-candidate-end-gerrymandering-now"
+},
+{
+"text": "Continue Reading",
+"href": "https://patch.com/pennsylvania/westchester/how-easy-it-buy-gun-pennsylvania"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.abc27.com/news/bill-preventing-domestic-abusers-from-taking-office-gains-traction/"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.dailylocal.com/2022/04/25/berwyn-fire-co-gets-1-5-million-to-hellp-fund-new-station/"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.dailylocal.com/2022/08/11/phoenixville-area-senior-center-secures-125000-in-state-funding/"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.mychesco.com/a/education/introducing-young-women-to-the-electrical-trade-394383-awarded-to-rosies-girls-program/"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.unionvilletimes.com/?p=45870"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.usatoday.com/story/news/2020/07/14/pennsylvania-original-rosie-riveter-makes-masks-to-honor-wwii-work/112093374/"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.witf.org/2019/09/17/as-lawmakers-return-to-harrisburg-activists-focus-on-red-flag-gun-bill/"
+},
+{
+"text": "Delaware Valley Friends School",
+"href": "https://www.dvfriends.org/"
+},
+{
+"text": "Details here",
+"href": "https://www.governor.pa.gov/newsroom/governor-shapiro-kicks-off-gsd-tour-in-chester-county-highlighting-bipartisan-efforts-to-cut-costs-by-dramatically-expanding-pennsylvanias-child-and-dependent-care-tax-cred/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melissasforstaterep"
+},
+{
+"text": "Endorsements",
+"href": "https://www.melissashusterman.com/endorsements"
+},
+{
+"text": "Governor Josh Shapiro",
+"href": "https://www.mychesco.com/a/tag/josh-shapiro/"
+},
+{
+"text": "H.B. 98",
+"href": "https://www.legis.state.pa.us/cfdocs/Legis/CSM/showMemoPublic.cfm?chamber=H&SPick=20230&cosponId=38496"
+},
+{
+"text": "HB 2006",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "HB1827",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46781"
+},
+{
+"text": "HERE",
+"href": "https://patch.com/pennsylvania/te/ice-reportedly-moving-berwyn-offices"
+},
+{
+"text": "HERE",
+"href": "https://whyy.org/articles/dhs-berwyn-ice-main-line-office-space/"
+},
+{
+"text": "HERE",
+"href": "https://www.ewg.org/news-insights/news-release/2026/02/pennsylvania-lawmakers-health-advocates-rally-capitol-ban-toxic"
+},
+{
+"text": "HERE",
+"href": "https://www.wpxi.com/news/local/11-investigates-gets-action-new-legislation-aimed-protecting-school-crossing-guards-students/PI2KPU44DRFCVNSKPOGH4D3KNU/"
+},
+{
+"text": "HR287",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46902"
+},
+{
+"text": "HR292",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=47121"
+},
+{
+"text": "House Bill 1135",
+"href": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1135/PN1420"
+},
+{
+"text": "House Bill 1786",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=PDF&sessYr=2023&sessInd=0&billBody=H&billTyp=B&billNbr=1786&pn=2196"
+},
+{
+"text": "House Bill 1930",
+"href": "https://www.palegis.us/legislation/bills/2025/hb1930"
+},
+{
+"text": "House Bill 1993",
+"href": "https://www.palegis.us/legislation/bills/2025/hb1993"
+},
+{
+"text": "House Bill 2006",
+"href": "https://www.palegis.us/legislation/bills/2025/hb2006"
+},
+{
+"text": "House Bill 917",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&body=H&type=B&bn=917"
+},
+{
+"text": "House Bill 917",
+"href": "https://www.mychesco.com/a/news/government/pennsylvania-house-passes-bill-to-introduce-family-law-arbitration-aiming-for-quicker-less-contentious-resolutions/"
+},
+{
+"text": "House Bill 994",
+"href": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0994/PN1078"
+},
+{
+"text": "House Professional Licensure Committee",
+"href": "https://www.palegis.us/house/committees/34/professional-licensure"
+},
+{
+"text": "I spoke in opposition of the bill",
+"href": "https://www.youtube.com/watch?v=BYZxpUfTU_w"
+},
+{
+"text": "In a memo circulated to House members,",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=49104"
+},
+{
+"text": "In addition to increasing the numbers of illegal guns in Pennsylvania, these guns are then taken t",
+"href": "https://www.pennlive.com/opinion/2025/09/one-gun-a-month-a-reasonable-commonsense-plan-to-curtail-illegal-weapons-in-our-communities-opinion.html"
+},
+{
+"text": "Kestrel Hill Preserve",
+"href": "https://delco.today/tag/Kestrel-Hill-Preserve/"
+},
+{
+"text": "Kristine Howard",
+"href": "https://www.mychesco.com/a/tag/kristine-howard/"
+},
+{
+"text": "Learn more",
+"href": "https://penncapital-star.com/children-families/pa-house-committee-splits-along-party-lines-over-regulation-proposal-for-ai-chatbots/"
+},
+{
+"text": "Learn more",
+"href": "https://penncapital-star.com/health/done-being-silent-pa-legislators-push-package-to-close-gaps-in-menopause-treatments/"
+},
+{
+"text": "Learn more",
+"href": "https://www.altoonamirror.com/news/local-news/2026/03/ai-bills-in-pennsylvania-legislature-seek-to-protect-children-consumers/"
+},
+{
+"text": "Learn more",
+"href": "https://www.military.com/pennsylvania-enacts-trauma-training-law-for-veterans-care"
+},
+{
+"text": "Learn more",
+"href": "https://www.mychesco.com/a/news/government/house-advances-shusterman-child-care-study-amid-cost-pressures/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mychesco.com/a/news/government/paoli-hospital-schuylkill-township-win-1-65m/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mychesco.com/a/news/government/shusterman-bill-expanding-veteran-trauma-training-clears-senate/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mychesco.com/a/news/pennsylvania/lawmakers-honor-mae-krier-mark-rosie-the-riveter-day/"
+},
+{
+"text": "Learn more",
+"href": "https://www.pennlive.com/opinion/2026/05/pennsylvania-must-step-up-where-th-federal-government-fails-on-womens-health-opinion.html"
+},
+{
+"text": "Learn more",
+"href": "https://www.phillytrib.com/commentary/pennsylvania-needs-to-do-more-to-deliver-justice-for-children/article_63d02372-56d3-4980-9e34-cd76754153e6.html"
+},
+{
+"text": "Learn more",
+"href": "https://www.politicspa.com/shusterman-proposes-amending-pennsylvania-constitution-over-state-budget-deadline/146096/"
+},
+{
+"text": "Learn more",
+"href": "https://www.transparencycoalition.ai/news/pennsylvania-ai-bills-advancing-prior-to-summer-recess"
+},
+{
+"text": "Lower Merion",
+"href": "https://patch.com/pennsylvania/ardmore/ice-detains-2-lower-merion-authorities-confirm"
+},
+{
+"text": "Lower Providence",
+"href": "https://patch.com/pennsylvania/lowerprovidence/federal-agents-spotted-trooper-monday-reports"
+},
+{
+"text": "Melissa Shusterman",
+"href": "https://delco.today/tag/Melissa-Shusterman"
+},
+{
+"text": "Melissa Shusterman",
+"href": "https://www.mychesco.com/a/tag/melissa-shusterman/"
+},
+{
+"text": "Melissa Shusterman",
+"href": "https://www.pahouse.com/Shusterman/"
+},
+{
+"text": "Memo",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=48593"
+},
+{
+"text": "MyChesco.com",
+"href": "http://mychesco.com"
+},
+{
+"text": "Natalie Mihalek",
+"href": "https://repmihalek.com/"
+},
+{
+"text": "News",
+"href": "https://www.melissashusterman.com/news"
+},
+{
+"text": "OP/ED: SUPPORTING THOSE WHO CARE FOR OUR LOVED ONES: COVID-19 AND THE DSP CRISIS",
+"href": "https://www.unionvilletimes.com/?p=45870"
+},
+{
+"text": "PENNSYLVANIA’S ORIGINAL 'ROSIE THE RIVETER' MAKES MASKS TO PROMOTE, HONOR WWII WORK",
+"href": "https://www.usatoday.com/story/news/2020/07/14/pennsylvania-original-rosie-riveter-makes-masks-to-honor-wwii-work/112093374/"
+},
+{
+"text": "PHOENIXVILLE GETS $495K IN GRANTS FOR SCHOOL SAFETY",
+"href": "https://patch.com/pennsylvania/phoenixville/phoenixville-gets-495k-grants-school-safety"
+},
+{
+"text": "Paoli Hos",
+"href": "https://www.mychesco.com/a/category/news/government/"
+},
+{
+"text": "Pennsylvania Politics",
+"href": "https://www.abc27.com/pennsylvania-politics/"
+},
+{
+"text": "Pennsylvania lawmake",
+"href": "https://www.abc27.com/pennsylvania-politics/"
+},
+{
+"text": "Phoenixville",
+"href": "https://patch.com/pennsylvania/phoenixville/ice-arrests-phoenixville-prompt-police-chief-mayor-responses"
+},
+{
+"text": "Read more",
+"href": "https://buckscountybeacon.com/2024/03/same-job-same-pay-its-that-simple/"
+},
+{
+"text": "Read more",
+"href": "https://buckscountybeacon.com/2025/09/the-big-picture-recognizing-the-economic-forces-in-pennsylvania-that-should-frame-the-septa-funding-debate/"
+},
+{
+"text": "Read more",
+"href": "https://chescotimes.com?p=37522"
+},
+{
+"text": "Read more",
+"href": "https://delco.today/2024/11/kestrel-hill-preserve-grant/"
+},
+{
+"text": "Read more",
+"href": "https://keystonenewsroom.com/story/pa-house-passes-child-sex-abuse-bills-that-the-gop-controlled-senate-may-not-even-consider/"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/across-pa/5-major-new-law-proposals-pa-social-media-abortions-solar-power"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/limerick/s/il91c/scam-prevention-town-hall-state-rep-shusterman-chesco-democrat?user_email=b695ec74ebcad73ef3869bbceeb7fcc0ccdf953fe3fe6adcb94dae16726bff21"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/malvern/chesco-chamber-hails-childcare-tax-credit-law"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/phoenixville/chesco-lawmaker-shustermans-bill-help-families-moves-ahead"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/phoenixville/chester-lawmaker-applauds-passage-45b-pa-budget"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/phoenixville/pa-jewish-legislative-caucus-stands-israel-statement"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/antisemitic-signs-waved-valley-forge-road-tredyffrin-officials"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/chesco-lawmaker-shusterman-s-bill-help-families-moves-ahead?user_email=0e990514dfc946c2996a6c610a8f76cc68fd23969479a67baad1a210fcbe09d0"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/gov-shapiro-hails-childcare-tax-credit-law-ymca-berwyn"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/help-childcare-bill-backed-chesco-lawmaker"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/pa-lawmaker-thanks-gov-shapiro-supporting-abortion-resources"
+},
+{
+"text": "Read more",
+"href": "https://patch.com/pennsylvania/te/shusterman-hoping-increase-pas-early-childhood-teacher-numbers"
+},
+{
+"text": "Read more",
+"href": "https://penncapital-star.com/criminal-justice/from-declawing-to-bestiality-pennsylvania-lawmakers-target-animal-cruelty/"
+},
+{
+"text": "Read more",
+"href": "https://penncapital-star.com/criminal-justice/lawmakers-advance-measures-to-improve-youth-detention-oversight-protections/"
+},
+{
+"text": "Read more",
+"href": "https://thelawmakers.org/state-legislative-effectiveness-scores/announcing-the-release-of-the-207th-pennsylvania-general-assembly-state-legislative-effectiveness-scores-sles"
+},
+{
+"text": "Read more",
+"href": "https://vista.today/2022/11/paoli-hospital-funding/"
+},
+{
+"text": "Read more",
+"href": "https://wdac.com/health-department-approval-for-hospital-purchases/"
+},
+{
+"text": "Read more",
+"href": "https://whyy.org/articles/septa-chester-county-rep-shusterman-tax-revenue/"
+},
+{
+"text": "Read more",
+"href": "https://whyy.org/articles/septa-cuts-paoli-thorndale-chester-county/"
+},
+{
+"text": "Read more",
+"href": "https://www.abc27.com/news/advocates-highlight-youth-homelessness-in-pennsylvania/"
+},
+{
+"text": "Read more",
+"href": "https://www.abc27.com/news/top-stories/animal-protection-caucus-announces-new-goals-to-increase-animal-welfare-legislation/"
+},
+{
+"text": "Read more",
+"href": "https://www.abc27.com/pennsylvania-politics/pennsylvania-lawmaker-in-a-war-with-my-daughter-over-ingredients-wants-to-ban-color-food-dyes/"
+},
+{
+"text": "Read more",
+"href": "https://www.altoonamirror.com/news/local-news/2025/10/pa-house-judiciary-oks-animal-protection-bills/"
+},
+{
+"text": "Read more",
+"href": "https://www.chestercounty.com/2024/04/24/488874/equal-pay-law-approved-by-pa-house-labor-industry-committee"
+},
+{
+"text": "Read more",
+"href": "https://www.chestercounty.com/2025/03/05/525023/pa-animal-protection-caucus-announces-leadership-team-legislative-priorities"
+},
+{
+"text": "Read more",
+"href": "https://www.chestercounty.com/2025/04/23/529875/members-of-pa-house-respond-to-septa-s-proposed-service-cuts-and-rate-hikes"
+},
+{
+"text": "Read more",
+"href": "https://www.cityandstatepa.com/policy/2025/12/proposed-reproductive-rights-legislation-would-tackle-decades-old-state-mandates/410399/"
+},
+{
+"text": "Read more",
+"href": "https://www.cnhinews.com/cnhi/article_04d1484a-b583-11ee-8a00-7b59102a2b2b.html"
+},
+{
+"text": "Read more",
+"href": "https://www.cpbj.com/pa-house-passes-equal-pay-law-to-curb-wage-discrimination/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2022/10/13/air-tag-leads-to-dumpster-filled-with-stolen-political-signs-in-chester-county/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2022/11/12/chester-county-democrats-await-strong-voice-in-harrisburg/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2022/11/16/more-than-100-political-signs-stolen-from-wayne-area-homes-no-suspects-named/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2022/11/29/judge-should-dismiss-recount-petitions-chester-county-officials-claim/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2022/12/10/sommer-to-election-critics-this-fishing-expedition-must-end/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/01/07/mccarthy-elected-house-speaker-local-lawmakers-say-we-continue-on-like-this/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/01/19/new-funding-will-improve-local-watersheds-in-west-chester-area/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/02/18/recount-battle-continues-in-chester-county/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/03/11/shusterman-introduces-bill-for-tax-credits-for-childcare-costs/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/05/05/most-chester-county-representatives-support-lgbtq-bill/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/06/23/comitta-shusterman-introduce-legislation-to-empower-student-journalists/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2023/08/15/state-rep-shusterman-touts-elmwood-park-zoo-animal-rescue-efforts/%20"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2024/06/21/pa-ag-secretary-promotes-legislation-that-would-protect-plants-and-pollinators-during-stop-in-chester-county/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2024/12/19/shusterman-eyes-3d-printed-gun-regulations/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2025/11/13/chester-county-elected-officials-react-to-50-billion-compromise-in-harrisburg/"
+},
+{
+"text": "Read more",
+"href": "https://www.dailylocal.com/2026/01/09/chester-county-state-reps-and-senators-take-a-look-back-and-ahead/"
+},
+{
+"text": "Read more",
+"href": "https://www.ewg.org/news-insights/news/2025/07/ewg-frequent-violations-paraquat-use-pennsylvania-point-health-risks"
+},
+{
+"text": "Read more",
+"href": "https://www.forbes.com/sites/thomasbrewster/2022/10/13/apple-airtag-stolen-democratic-signs-pennsylvania/?sh=48e4b8d93342"
+},
+{
+"text": "Read more",
+"href": "https://www.inquirer.com/news/pennsylvania/red-dye-no-3-easter-ban-peeps-explained-pennsylvania-california-20240331.html"
+},
+{
+"text": "Read more",
+"href": "https://www.inquirer.com/opinion/commentary/ai-chatbots-pennsylvania-legislative-guardrails-20260115.html"
+},
+{
+"text": "Read more",
+"href": "https://www.msn.com/en-us/news/politics/the-septa-funding-debate-digs-up-pennsylvania-s-perennial-rural-vs-urban-divide/ar-AA1KIJqD"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/education/independent-schools/delaware-valley-friends-school-awarded-2-5-mmillion/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/education/shusterman-launches-it-should-be-a-law-essay-contest-for-fourth-graders/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/chester-county-celebrates-4m-windfall-state-grants-bolster-local-projects/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/chester-county-lawmakers-urge-senate-action-as-septa-cuts-loom/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/chester-county-receives-843000-boost-for-transportation-and-safety-enhancements/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/house-panel-advances-bills-on-reproductive-health-access/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/legislators-push-for-pay-equity-in-pennsylvania-sparking-a-statewide-debate/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/pa-legislators-introduce-dog-and-cat-protection-act-to-safeguard-animals-against-abuse/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/pennsylvania-house-approves-tax-reduction-bill-includes-davis-shusterman-provision-for-childcare-relief/%20"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/pennsylvania-house-passes-bill-to-enhance-nursing-home-care-through-increased-collaboration/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/pennsylvania-house-passes-bill-to-introduce-family-law-arbitration-aiming-for-quicker-less-contentious-resolutions/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/pennsylvania-legislature-passes-bill-to-triple-child-and-dependent-care-tax-credit/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/reforming-divorce-pennsylvania-lawmakers-push-for-modernized-legislation/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/shusterman-announces-grant-for-local-development-projects/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/shusterman-leads-charge-for-job-creation-with-modernized-second-stage-loan-program/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/shustermans-juvenile-justice-reform-bills-advance-in-pennsylvania-house/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/streamlining-justice-new-arbitration-law-transforms-family-dispute-resolution-in-pennsylvania/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/government/tredyffrin-township-secures-2-2-million-in-state-funding-for-key-stormwater-projects/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/pennsylvania/how-melissa-shustermans-support-for-shapiros-bold-budget-could-transform-your-communitys-future/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/pennsylvania/pennsylvania-state-rep-melissa-shusterman-honored-as-humane-legislator-of-the-year/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/pennsylvania/pennsylvania-takes-charge-shustermans-bold-roundtable-advances-reproductive-rights-agenda/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/pennsylvania/pennsylvanias-juvenile-justice-reform-bill-advances-in-legislative-process/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/revolutionizing-child-care-rep-melissa-shustermans-push-for-affordable-solutions-at-national-forum/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/shusterman-visits-diamond-rock-wildlife-rehab-supporting-pa-wildlife-care/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/social-issues/womens-issues/shusterman-applauds-termination-of-real-alternatives-contract-opens-doors-for-womens-health-care-providers-statewide/"
+},
+{
+"text": "Read more",
+"href": "https://www.mychesco.com/a/news/state-rep-shusterman-announces-2-3-million-in-grants-boosting-local-projects/"
+},
+{
+"text": "Read more",
+"href": "https://www.newsfromthestates.com/article/ban-shooting-live-pigeons-targets-advances-pa-house-first-time-2011"
+},
+{
+"text": "Read more",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=133455#:~:text=%22We%20could%20add%20a%20staggering,said%20Shusterman%2C%20D%2DChester."
+},
+{
+"text": "Read more",
+"href": "https://www.penncapital-star.com/blog/pa-house-passes-bill-to-protect-people-seeking-abortions-in-pennsylvania-from-prosecution-by-other-states/"
+},
+{
+"text": "Read more",
+"href": "https://www.penncapital-star.com/criminal-justice/protections-for-pets-in-domestic-violence-divorce-cases-pass-pa-house-panel/"
+},
+{
+"text": "Read more",
+"href": "https://www.penncapital-star.com/government-politics/overburdened-and-underfunded-shapiro-signs-bill-to-save-bureau-of-dog-law-enforcement/"
+},
+{
+"text": "Read more",
+"href": "https://www.pennlive.com/news/2023/06/pa-house-committee-passes-bill-striking-court-gun-locker-law.html"
+},
+{
+"text": "Read more",
+"href": "https://www.pennlive.com/opinion/2025/09/one-gun-a-month-a-reasonable-commonsense-plan-to-curtail-illegal-weapons-in-our-communities-opinion.html"
+},
+{
+"text": "Read more",
+"href": "https://www.pennlive.com/politics/2023/10/pa-bill-to-hike-dog-license-fee-after-27-years-heads-to-governors-desk.html"
+},
+{
+"text": "Read more",
+"href": "https://www.phillyburbs.com/story/news/politics/state/2025/10/14/pa-privacy-protections-ai-chatbot-users-memo/86674715007/"
+},
+{
+"text": "Read more",
+"href": "https://www.politicspa.com/house-passes-bill-easing-childcare-burdens/122330/"
+},
+{
+"text": "Read more",
+"href": "https://www.post-gazette.com/news/politics-state/2024/06/24/pennsylvania-legislature-house-artificial-intelligence-dark-money/stories/202406240057"
+},
+{
+"text": "Read more",
+"href": "https://www.post-gazette.com/news/politics-state/2025/03/22/pennsylvania-food-dye-ban/stories/202503210075"
+},
+{
+"text": "Read more",
+"href": "https://www.post-gazette.com/news/politics-state/2025/08/30/pennsylvania-budget-state-house-senate/stories/202508290056"
+},
+{
+"text": "Read more",
+"href": "https://www.post-gazette.com/opinion/editorials/2023/04/25/youth-service-corps/stories/202304280003"
+},
+{
+"text": "Read more",
+"href": "https://www.shorenewsnetwork.com/pennsylvania-seeks-to-regulate-ai-companion-relationship-apps/"
+},
+{
+"text": "Read more",
+"href": "https://www.spotlightpa.org/news/2022/11/pa-governor-election-2022-results-house-democrats-flip-republican-control/"
+},
+{
+"text": "Read more",
+"href": "https://www.spotlightpa.org/news/2025/07/pennsylvania-lottery-prizes/"
+},
+{
+"text": "Read more",
+"href": "https://www.thecentersquare.com/pennsylvania/article_06e62005-cce0-4d92-ac06-02c223da2b4c.html"
+},
+{
+"text": "Read more",
+"href": "https://www.thedp.com/article/2024/02/penn-pennsylvania-house-abortion-bill-tarik-khan-trap-laws"
+},
+{
+"text": "Read more",
+"href": "https://www.thetruthaboutguns.com/fl-and-pa-democrats-continue-to-legislate-in-contempt/"
+},
+{
+"text": "Read more",
+"href": "https://www.timesobserver.com/news/local-news/2025/04/package-of-food-safety-bills-introduced/"
+},
+{
+"text": "Read more",
+"href": "https://www.tribdem.com/news/shapiro-signs-six-bills-into-law-bolstering-megans-law-protecting-bald-eagles-among-other-initiatives/article_1aa462f6-04ab-5c80-9321-61b2b77d0192.html"
+},
+{
+"text": "Read more",
+"href": "https://www.weny.com/story/52938860/bill-break-food-donor-lawsuit-liability"
+},
+{
+"text": "Read more",
+"href": "https://www.wfmz.com/news/state/ai-in-mental-health-care-where-to-draw-the-line/article_df0f4abe-ca89-5038-bd9c-02faa2b3b517.html"
+},
+{
+"text": "Read more",
+"href": "https://www.witf.org/2025/08/21/pa-budget-stalls-again-what-will-it-take-to-break-the-cycle-of-delays/"
+},
+{
+"text": "Read more",
+"href": "https://www.wtaj.com/news/regional-news/pennsylvania-lawmakers-introduce-death-with-dignity-law-for-terminal-patients/"
+},
+{
+"text": "Regional News",
+"href": "https://www.wtaj.com/news/regional-news/"
+},
+{
+"text": "Rep. Melissa Shusterman",
+"href": "https://www.mychesco.com/a/tag/melissa-shusterman/"
+},
+{
+"text": "Representative Melissa Shusterman",
+"href": "https://www.mychesco.com/a/tag/melissa-shusterman/"
+},
+{
+"text": "Representative Melissa Shusterman",
+"href": "https://www.palegis.us/house/members/bio/1851/representative-melissa-shusterman"
+},
+{
+"text": "SB 106",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2021&sInd=0&body=S&type=B&bn=0106"
+},
+{
+"text": "Session Notes",
+"href": "https://www.melissashusterman.com/session-notes"
+},
+{
+"text": "Shusterman Proposes Amending Pennsylvania Constitution Over State Budget Deadline",
+"href": "https://www.politicspa.com/shusterman-proposes-amending-pennsylvania-constitution-over-state-budget-deadline/146096/"
+},
+{
+"text": "Source",
+"href": "https://southphillyreview.com/2025/05/31/around-town-7/"
+},
+{
+"text": "Source",
+"href": "https://www.attorneygeneral.gov/taking-action/ag-sunday-reacts-to-pa-house-passage-of-bills-to-raise-awareness-of-human-trafficking-regulate-vape-devices-fix-sentencing-for-repeat-dui-offenders/"
+},
+{
+"text": "Source",
+"href": "https://www.cbsnews.com/pittsburgh/news/investigation-illicit-ivory-sales-pennsylvania/"
+},
+{
+"text": "Source",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=138455"
+},
+{
+"text": "Source",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=144704"
+},
+{
+"text": "Source",
+"href": "https://www.pahouse.com/Shusterman/InTheNews/NewsRelease/?id=139734"
+},
+{
+"text": "Source",
+"href": "https://www.pahouse.com/Shusterman/InTheNews/NewsRelease/?id=139739"
+},
+{
+"text": "Source",
+"href": "https://www.pahouse.com/Shusterman/InTheNews/NewsRelease/?id=141495"
+},
+{
+"text": "Source",
+"href": "https://www.wtaj.com/news/regional-news/proposed-bill-would-ban-anyone-under-21-from-buying-semi-automatic-assault-rifles/"
+},
+{
+"text": "Source",
+"href": "https://www.wtaj.com/news/regional-news/representatives-look-to-honor-women-through-rosie-the-riveter-day-in-pa/"
+},
+{
+"text": "State Rep. Melissa Shusterman",
+"href": "https://www.mychesco.com/a/tag/melissa-shusterman/"
+},
+{
+"text": "State Rep. Melissa Shusterman",
+"href": "https://www.pahouse.com/Shusterman/"
+},
+{
+"text": "State Representative Melissa Shusterman",
+"href": "https://www.mychesco.com/a/tag/melissa-shusterman/"
+},
+{
+"text": "Suicide and Crisis Lifeline",
+"href": "https://988lifeline.org/"
+},
+{
+"text": "TRAP laws",
+"href": "https://www.aclu.org/files/assets/TRAP_FAQ_FactSheet.pdf?_hsenc=p2ANqtz-8EifTF5BfDYXmrjFf_S6kod85L4uxOJKmLx3zzfs4ThYauQ5cHSas1ERMBOgGNZA8e29CKud5-zdnU46VYYa"
+},
+{
+"text": "TREDYFFRIN-AREA STATE REP. CANDIDATE: END GERRYMANDERING NOW",
+"href": "https://patch.com/pennsylvania/te/tredyffrin-area-state-rep-candidate-end-gerrymandering-now"
+},
+{
+"text": "Times Observer",
+"href": "https://www.timesobserver.com/opinion/our-opinion/2026/07/our-opinion-let-competition-set-gas-prices/"
+},
+{
+"text": "U.S. Department of Health and Human Services",
+"href": "https://www.mychesco.com/a/tag/united-states-department-of-health-and-human-services/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.melissashusterman.com/volunteer"
+},
+{
+"text": "Westlakes Office Park",
+"href": "https://www.westlakescampus.com/"
+},
+{
+"text": "[image: Melissa Shusterman ]",
+"href": "https://www.melissashusterman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://patch.com/pennsylvania/phoenixville/phoenixville-lawmaker-stop-funding-crisis-centers-denying-abortion"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MelissaForPA?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MelissaShustermanforStateRep/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/melissashusterman/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.mychesco.com/a/author/maryannpugh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mychesco.com/a/category/news/government/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mychesco.com/a/news/government/paoli-hospital-schuylkill-township-win-1-65m/"
+},
+{
+"text": "[no text]",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=139403"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@repshusterman"
+},
+{
+"text": "a bill Mihalek is sponsoring",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sind=0&body=H&type=B&bn=2116"
+},
+{
+"text": "a forthcoming package of eight bills",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46081"
+},
+{
+"text": "a memo to other lawmakers",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46784"
+},
+{
+"text": "abc27 News",
+"href": "https://www.abc27.com/pennsylvania-politics/pennsylvania-lawmaker-proposes-100-tax-on-anti-weaponization-fund-payments/"
+},
+{
+"text": "advanced five measures",
+"href": "https://www.youtube.com/watch?v=usZLLbuyntw"
+},
+{
+"text": "aid in May of 2022",
+"href": "https://patch.com/pennsylvania/phoenixville/phoenixville-lawmaker-stop-funding-crisis-centers-denying-abortion"
+},
+{
+"text": "also p",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "amid stalled negotiations",
+"href": "https://www.spotlightpa.org/news/2025/08/pennsylvania-budget-impasse-septa-transit-funding-joe-pittman-state-senate-capitol/"
+},
+{
+"text": "announced",
+"href": "https://www.pahouse.com/Tarik/InTheNews/NewsRelease/?id=132441"
+},
+{
+"text": "as 11 Investigates has reported, crossing guards are being hurt at alarming rates.",
+"href": "https://www.wpxi.com/news/investigates/11-investigates-crossing-guards-hurt-job-incidents-not-tracked-locally-nationally/XNDXOP7LXRGEHAL2GQRDBH4UMI/"
+},
+{
+"text": "bill’s memo",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46894"
+},
+{
+"text": "bot ope",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "change as women age",
+"href": "https://www.acog.org/womens-health/experts-and-stories/the-latest/utis-after-menopause-why-theyre-common-and-what-to-do-about-them"
+},
+{
+"text": "circulating a co-sponsorship memo",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=48512"
+},
+{
+"text": "classify 3D-printed guns",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sInd=0&body=H&type=B&bn=1190"
+},
+{
+"text": "companion bill",
+"href": "https://www.legis.state.pa.us/cfdocs/billInfo/billInfo.cfm?sYear=2023&sInd=0&body=H&type=B&bn=2117"
+},
+{
+"text": "decreased estrogen production",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11790305/"
+},
+{
+"text": "delayed treatments can lead to sepsis and death",
+"href": "https://www.usatoday.com/story/life/health-wellness/2026/09/22/menopause-uti-vaginal-estrogen-sepsis/91680008007/"
+},
+{
+"text": "ep. Mel",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "g on th",
+"href": "https://legiscan.com/PA/bill/HB2006/2025"
+},
+{
+"text": "gr",
+"href": "https://www.mychesco.com/a/author/maryannpugh/"
+},
+{
+"text": "gradually increasing",
+"href": "https://www.senatoreldervogel.com/2023/06/20/vogels-dog-law-modernization-bill-advances-from-pa-senate-chamber/"
+},
+{
+"text": "guardrails for AI technology",
+"href": "https://www.ibm.com/think/topics/ai-guardrails"
+},
+{
+"text": "here",
+"href": "https://dailyvoice.com/pa/harrisburg/protect-pa-seniors-and-the-lottery-by-supporting-gov-shapiros-budget-proposal/"
+},
+{
+"text": "here",
+"href": "https://pahouse.com/Shusterman/InTheNews/NewsRelease/?id=134647"
+},
+{
+"text": "here",
+"href": "https://thelawmakers.org/wp-content/uploads/2025/10/2023-2024-Highlights-from-the-207th-Pennsylvania-General-Assembly.pdf"
+},
+{
+"text": "here",
+"href": "https://www.abc27.com/pennsylvania-politics/new-laws-bring-changes-to-pennsylvania-lottery-specialized-courts/"
+},
+{
+"text": "here",
+"href": "https://www.abc27.com/pennsylvania/bipartisan-bill-seeks-to-create-pennsylvania-animal-abuser-registry/"
+},
+{
+"text": "here",
+"href": "https://www.mychesco.com/a/news/government/pa-equal-pay-bill-stalls-in-senate-amid-renewed-push/"
+},
+{
+"text": "here",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=139403"
+},
+{
+"text": "here",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=145406"
+},
+{
+"text": "here",
+"href": "https://www.pahouse.com/SouthEastDelegation/InTheNews/NewsRelease/?id=139388"
+},
+{
+"text": "here",
+"href": "https://www.wtaj.com/news/regional-news/disturbingly-realistic-pa-rep-aims-to-criminalize-use-of-child-sex-dolls/"
+},
+{
+"text": "here",
+"href": "https://www.wtaj.com/news/regional-news/following-recent-attacks-pa-lawmaker-to-propose-bill-strengthening-ai-protections/"
+},
+{
+"text": "here",
+"href": "https://www.wtaj.com/news/regional-news/pa-bill-would-prohibit-ai-from-replacing-school-counselors-psychologists/"
+},
+{
+"text": "here.",
+"href": "https://www.pahouse.com/InTheNews/NewsRelease/?id=134922"
+},
+{
+"text": "http://www.pahouse.com",
+"href": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVYWnh6WEJybElmUzBOQjFjWVMwTk5jU2RWd3xBQ3Jtc0trMXdEREk3RGFmVFlPYVhIVG9xaUJwY1c2UmNMS0RmeUYzRXRMU3h1TTU3N2pMVEhYMTNoRzlRQURmSWFZTnA4V0c2X2xqdTV2Y3VkMnphc01PRjBXRDNyM1huVDNyaV9KV1pESXdYZ1ZqMlV0QndZOA&q=http%3A%2F%2Fwww.pahouse.com%2F&v=GfyKWumvEcI"
+},
+{
+"text": "http://www.pahouse.com/Shusterman",
+"href": "http://www.pahouse.com/Shusterman"
+},
+{
+"text": "http://www.pahouse.com/Shusterman",
+"href": "https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1dTOVU3bVJZWEpVWW5zT3d6NkVhNVRKdXVYd3xBQ3Jtc0tuNEpyZ0xMWGxHa2s0NndYZjZzaU9PaWE3cUJLRDRSU0kxd0ZUQV8xTzMtN3lveEVxaHVGZFJxZ0xqXzlfcXJtZFpwTWV0SEtTSHFrQTgxLXhXRkhjVnNIUk5vMWlJeDA0RXdrMERoYURqMXExQW1Oaw&q=http%3A%2F%2Fwww.pahouse.com%2FShusterman&v=wcIYkmZJE_U"
+},
+{
+"text": "is mulling an unprecedented idea",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=47226"
+},
+{
+"text": "is part of a settlement",
+"href": "https://apnews.com/article/trump-lawsuit-irs-leak-3729de38770b558be01712a143437bf8"
+},
+{
+"text": "lawmakers on both sides of the aisle have vowed the same.",
+"href": "https://www.abc27.com/news/top-stories/gop-furor-over-trumps-anti-weaponization-fund-sinks-senate-budget-reconciliation-bill/"
+},
+{
+"text": "lawsuit against the Internal Revenue Service",
+"href": "https://apnews.com/article/trump-treasury-irs-tax-records-e3a79e1bfdc94a663504754af80ce183"
+},
+{
+"text": "major service cuts to SEPTA draw nearer",
+"href": "https://www.inquirer.com/transportation/septa-service-cuts-august-24-deadline-state-funding-20250804.html"
+},
+{
+"text": "memo",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=49182"
+},
+{
+"text": "more than 70 countries",
+"href": "https://www.ewg.org/news-insights/news/2024/02/its-time-ban-paraquat"
+},
+{
+"text": "newest legislation",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46871"
+},
+{
+"text": "osteoporosis",
+"href": "https://www.palegis.us/legislation/bills/2025/hb1827"
+},
+{
+"text": "p",
+"href": "https://www.mychesco.com/a/category/news/government/"
+},
+{
+"text": "passed",
+"href": "https://www.legis.state.pa.us/CFDOCS/Legis/RC/Public/rc_view_action2.cfm?sess_yr=2023&sess_ind=0&rc_body=H&rc_nbr=753"
+},
+{
+"text": "passed the Senate",
+"href": "https://www.pennlive.com/news/2021/06/raising-dog-license-fee-to-10-an-easy-fix-to-a-big-problem-of-keeping-canines-communities-safe.html"
+},
+{
+"text": "president granted",
+"href": "https://www.whitehouse.gov/presidential-actions/2025/01/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near-the-united-states-capitol-on-january-6-2021/"
+},
+{
+"text": "proposed the tax",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=48790"
+},
+{
+"text": "proposes 100% tax on",
+"href": "https://www.abc27.com/pennsylvania-politics/"
+},
+{
+"text": "r",
+"href": "https://www.mychesco.com/a/category/news/government/"
+},
+{
+"text": "requirements that 3D-printed firearms be restricted",
+"href": "https://www.post-gazette.com/news/politics-state/2024/12/20/ghost-gun-regulation-pa-hb-777/stories/202412200097"
+},
+{
+"text": "she was preparing legislation",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=47226"
+},
+{
+"text": "similar plans",
+"href": "https://thehill.com/homenews/state-watch/5899606-california-newsom-trump-fund-tax/"
+},
+{
+"text": "sits on prime real estate",
+"href": "https://www.loopnet.com/Listing/1000-Westlakes-Dr-Berwyn-PA/29277156/"
+},
+{
+"text": "staring down the barrel of a $213 million budget deficit",
+"href": "https://wwww.septa.org/fundingcrisis/"
+},
+{
+"text": "tal, Schuy",
+"href": "https://www.mychesco.com/a/category/news/government/"
+},
+{
+"text": "the bill",
+"href": "https://www.legis.state.pa.us/cfdocs/billinfo/billinfo.cfm?syear=2023&sind=0&body=S&type=B&bn=746"
+},
+{
+"text": "the severity of both",
+"href": "https://pubmed.ncbi.nlm.nih.gov/37230869/"
+},
+{
+"text": "three-part package",
+"href": "https://www.palegis.us/house/co-sponsorship/memo?memoID=46798&document=HB1577"
+},
+{
+"text": "troubling lack of safety protocols and consumer protections",
+"href": "https://cepr.org/voxeu/columns/dangers-unregulated-artificial-intelligence"
+},
+{
+"text": "tweet",
+"href": "https://twitter.com/MelissaForPA/status/1580216538421899264?s=20&t=gBmG0HhE4uufaBpN21ZU6w"
+},
+{
+"text": "urinary tract infections",
+"href": "https://www.palegis.us/legislation/bills/2025/hb2545"
+},
+{
+"text": "vaginal estrogen can help",
+"href": "https://pubmed.ncbi.nlm.nih.gov/38154005/"
+}
 ]

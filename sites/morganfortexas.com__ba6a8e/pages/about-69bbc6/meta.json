@@ -1,9 +1,12 @@
 {
  "description": "Learn more about Matt Morgan, conservative Republican running for State Representative in District 26.",
  "final_url": "https://www.morganfortexas.com/about",
- "paid_for_by": null,
+ "fingerprint": "825329ab3860cc9cbc9a64243446423e21c315af",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Morgan for Texas",
  "years_mentioned": [
+  "1993",
   "2015"
  ]
 }

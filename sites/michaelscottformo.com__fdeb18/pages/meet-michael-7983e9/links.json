@@ -1,11 +1,42 @@
 [
-"https://facebook.com/MichaelScottForMissouri",
-"https://instagram.com/michaelscottformo",
-"https://michaelscottformo.com/",
-"https://michaelscottformo.com/cart",
-"https://michaelscottformo.com/contact",
-"https://michaelscottformo.com/get-involved",
-"https://michaelscottformo.com/meet-michael",
-"https://michaelscottformo.com/priorities",
-"https://secure.actblue.com/donate/michael-scott-for-missouri"
+{
+"text": "0",
+"href": "https://www.michaelscottformo.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.michaelscottformo.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/michael-scott-for-missouri"
+},
+{
+"text": "Get Involved",
+"href": "https://www.michaelscottformo.com/get-involved"
+},
+{
+"text": "Info@MichaelScottForMO.com",
+"href": "mailto:Info@MichaelScottForMO.com"
+},
+{
+"text": "Meet Michael",
+"href": "https://www.michaelscottformo.com/meet-michael"
+},
+{
+"text": "Priorities",
+"href": "https://www.michaelscottformo.com/priorities"
+},
+{
+"text": "[image: Vote for Michael Scott]",
+"href": "https://www.michaelscottformo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MichaelScottForMissouri/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michaelscottformo/"
+}
 ]

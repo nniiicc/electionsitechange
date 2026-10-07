@@ -1,21 +1,82 @@
 [
-"https://cdn.prod.website-files.com/62f5185297aad1899d823567/6aa08b0b8ac6687faba97a2d_archive-1.zip",
-"https://facebook.com/MaxMillerforOhio",
-"https://instagram.com/MaxMillerOhio",
-"https://secure.winred.com/max-miller-for-congress/webdonate",
-"https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=100",
-"https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=25",
-"https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=250",
-"https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=50",
-"https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=500",
-"https://twitter.com/MaxMillerOH",
-"https://votemaxmiller.com/",
-"https://votemaxmiller.com/about",
-"https://votemaxmiller.com/endorsements",
-"https://votemaxmiller.com/join",
-"https://votemaxmiller.com/news",
-"https://votemaxmiller.com/priorities",
-"https://votemaxmiller.com/privacy-policy",
-"https://votemaxmiller.com/privacy-policy-and-terms-and-conditions",
-"https://votemaxmiller.com/terms-and-conditions"
+{
+"text": "$100",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate/donate?amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/max-miller-for-congress/webdonate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemaxmiller.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votemaxmiller.com/"
+},
+{
+"text": "Join",
+"href": "https://www.votemaxmiller.com/join"
+},
+{
+"text": "Meet",
+"href": "https://www.votemaxmiller.com/about"
+},
+{
+"text": "More Information",
+"href": "https://cdn.prod.website-files.com/62f5185297aad1899d823567/6aa08b0b8ac6687faba97a2d_archive-1.zip"
+},
+{
+"text": "News",
+"href": "https://www.votemaxmiller.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemaxmiller.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votemaxmiller.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.votemaxmiller.com/privacy-policy-and-terms-and-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votemaxmiller.com/terms-and-conditions"
+},
+{
+"text": "[image]",
+"href": "https://www.votemaxmiller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MaxMillerOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MaxMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MaxMillerOhio/"
+}
 ]

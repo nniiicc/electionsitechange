@@ -1,4 +1,4 @@
-This week marked the start of the 99th Legislative Session and we’re already off and running!
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK ONE – The Beginning of the 99th Legislative Session Posted by ttordsen January 13, 2024 January 14, 2024 Posted in Session Weekly Updates This week marked the start of the 99th Legislative Session and we’re already off and running!
 We heard from Governor Noem on the “State of the State” Tuesday, the Chief Justice on the “State of the Judiciary,” and Flandreau Santee Sioux Tribe Vice President Cyndi Allen-Weddel on the “State of the Tribes” Wednesday.
 Prior to the “State of the Tribes” address, the annual State-Tribal Relations Day was held in the Capitol Rotunda where the Standing Rock Sioux Tribe and Rosebud Sioux Tribe presented their flags to Governor Noem for permanent display there.
 I hope we’ll see all nine tribal nations’ flags flying in the South Dakota State Capitol by the end of this session.
@@ -6,7 +6,7 @@ I’m proud of the trajectory we’re on as it relates to State-Tribal Relations
 Along those same lines, my first bill this session is HB1041, which grants tribal eligibility to participate in the $200M Housing Infrastructure Finance Program through SD Housing.
 It passed out of House State Affairs on Friday and will go before the full House this coming Tuesday.
 I’m proud of the support this legislation has and it’s a testament to our progress of working together.
-Read more on HB1041 HERE and HERE.
+Read more on HB1041 HERE and HERE .
 On Friday, I introduced House Joint Resolution 5001 (HJR 5001), which would let the voters decide if some more partisan nominations should be made in the June primary election or if it should be left to a few hundred folks to decide for us at a partisan state convention.
 The resolution, if adopted, by the people of South Dakota, would require that anyone elected on a statewide general election ballot is nominated on a statewide primary election ballot (other than Supreme Court Justices).
 Currently, registered voters get to vote in the June primary for the offices of Governor, U.S.
@@ -22,7 +22,7 @@ I hope you’ll keep in contact with me throughout this session should you have 
 My contact information is below.
 Let me know what’s important to you and what you’re hoping to see this session.
 I’m so thankful for the opportunity to serve District 14 and our state.
-Stay warm, stay safe, and keep in touch!
--Tyler
-Text or Call: 605-610-8884
-Email: Tyler.Tordsen@sdlegislature.gov
+Stay warm, stay safe, and keep in touch! -Tyler Text or Call: 605-610-8884 Email: Tyler.Tordsen@sdlegislature.gov Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen January 13, 2024 January 14, 2024 Posted in Session Weekly Updates Post navigation Previous Post Previous post: Giving Power Back to the People: All Party Voters Should Have a Say in Their Party’s Nominee Next Post Next post: SESSION WEEK TWO – Some Wins and Some Setbacks Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

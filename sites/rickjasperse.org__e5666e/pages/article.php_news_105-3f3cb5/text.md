@@ -1,4 +1,4 @@
-[March 29, 2021] | As you can imagine, it's busy at the General Assembly with just a few days left in the 2021 session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK REPORT FROM THE CAPITOL [ March 29, 2021 ] | As you can imagine, it's busy at the General Assembly with just a few days left in the 2021 session.
 House members are presenting their bills in Senate committees and Senators to our House committees.
 Voting on bills that will change how Georgians are educated, get healthcare, and vote were on tap to name a few.
 I have talked a lot this session about how quiet the building has been with so many fewer people visiting us and letting us know how they feel about bills, due to Covid.
@@ -20,3 +20,4 @@ If you would like a summary of the bill and what it does, please contact me and 
 I greatly appreciate any feedback I receive from my constituents, and I welcome you to contact my office for questions or concerns about the legislative session.
 My Capitol office number is 404-656-7153, my home 770-893-2039, and my email address is rick.jasperse@house.ga.gov.
 Please contact me anytime.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

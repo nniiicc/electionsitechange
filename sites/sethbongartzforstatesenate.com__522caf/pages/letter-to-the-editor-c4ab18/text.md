@@ -1,6 +1,5 @@
-On Charity Clark:
-To the Editor:
-Vermont Attorney General Charity Clark has been criticized for her decision to prosecute the individuals who disrupted operations at the Williston business park that houses Vermont’s ICE operations and other non-related offices.
+Facebook Campaign 2026 Join In!
+Community Testimonials Endorsing Organizations Letters to the Editor News Issues Seth’s Bio Rob’s Bio Archives End of Session 2022 Donate Select Page Letters to the Editor On Charity Clark: To the Editor: Vermont Attorney General Charity Clark has been criticized for her decision to prosecute the individuals who disrupted operations at the Williston business park that houses Vermont’s ICE operations and other non-related offices.
 She is right.
 The critics are wrong.
 We believe in what Henry David Thoreau called the duty to engage in civil disobedience.
@@ -22,3 +21,4 @@ This demonstrates to us that Charity Clark is a leader in whom Vermonters can pl
 Senators Rob Plunkett and Seth Bongartz represent the Bennington Senate District in the Vermont State Senate.
 Rob Plunkett is a career prosecutor with the Bennington County State’s Attorney’s office.
 Seth Bongartz is a retired attorney with experience in criminal defense.
+Search for: Campaign 2026 News Issues Seth’s Bio Rob’s Bio Archives Donate Facebook Designed by Elegant Themes | Powered by WordPress

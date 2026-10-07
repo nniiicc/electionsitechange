@@ -1,16 +1,10 @@
-RESOURCES
-Representative Austin collaborates with several local community groups, fostering a strong connection to address community needs.
+top of page DONATE Home Meet Lorena Accomplishments Endorsements Issues Events Contact Resources Sign the Petition Use tab to navigate through the menu items.
+RESOURCES Representative Austin collaborates with several local community groups, fostering a strong connection to address community needs.
 For detailed information about the programs and resources available, please explore the provided links.
-The Azura Veterans Coalition (formerly “Mesa Veterans Resource Center”) provides a centralized location offering comprehensive resources to access services and personal assistance including: employment, soft skills training, resume building, health care, in house mental health and benefits counseling, navigation for housing and rental assistance, addiction counseling, transportation assistance, veteran focused support groups, and interactive classes.
-2-1-1 Arizona operators will help individuals and families 24 hours per day, seven days per week and every day of the year in both English, Spanish, and other languages, find resources that are available to them locally, throughout the state, and provide connections to critical services that can improve – and save – lives, including:
-- Supplemental Food and Nutrition Programs
-- Shelter and Housing Options
-- Utilities Assistance
-- Emergency Information and Disaster Relief
-- Employment and Education Opportunities
-- Services for Veterans
-- Healthcare, vaccination and health epidemic information
-- Addiction Prevention and Rehabilitation Programs
-- Re-entry help for ex-offenders
-- Support groups for individuals with mental illnesses or special needs
-- A safe, confidential path out of physical and/or emotional domestic violence
+Food Assistance Supplemental Nutrition Assistance Program (SNAP) Elderly Simplified Application Project (ESAP) The Emergency Food Assistance Program (TEFAP) Housing Assistance Emergency Rental Assistance Program Homeless Services Domestic Violence Support Division of Developmental Disabilities Family Assistance Child care Assistance Child Care Grants and Scholarships Adult Protective Services (APS) Arizona Health Care Cost Containment System (AHCCCS) The Azura Veterans Coalition (formerly “Mesa Veterans Resource Center”) provides a centralized location offering comprehensive resources to access services and personal assistance including: employment, soft skills training, resume building, health care, in house mental health and benefits counseling, navigation for housing and rental assistance, addiction counseling, transportation assistance, veteran focused support groups, and interactive classes.
+Read More > United Food Bank provides access to nutritious food through community partnerships, food distribution and education in the East Valley and in Eastern Arizona.
+Read More > Mesa Community Action Network (MesaCAN) helps low-income households across the City of Mesa with a host of services that include: financial assistance, educational assistance, employment assistance, health assistance, and other resources.
+Read More > 2-1-1 Arizona operators will help individuals and families 24 hours per day, seven days per week and every day of the year in both English, Spanish, and other languages, find resources that are available to them locally, throughout the state, and provide connections to critical services that can improve – and save – lives, including: Supplemental Food and Nutrition Programs Shelter and Housing Options Utilities Assistance Emergency Information and Disaster Relief Employment and Education Opportunities Services for Veterans Healthcare, vaccination and health epidemic information Addiction Prevention and Rehabilitation Programs Re-entry help for ex-offenders Support groups for individuals with mental illnesses or special needs A safe, confidential path out of physical and/or emotional domestic violence Read More > Contact Us 761 E.
+University Dr., Suite 105 Mesa, AZ 85203 lorena@lorenaaustin.com Connect with us Facebook Instagram SUBSCRIBE Join Thanks for submitting!
+Paid for by Lorena for Arizona.
+Authorized by Lorena Austin. bottom of page

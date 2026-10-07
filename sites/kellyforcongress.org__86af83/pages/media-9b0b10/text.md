@@ -1,18 +1,1 @@
-0
-Skip to Content
-Home
-Meet Kelly
-Get Involved
-Donate
-Open Menu
-Close Menu
-Home
-Meet Kelly
-Get Involved
-Donate
-Open Menu
-Close Menu
-Home
-Meet Kelly
-Get Involved
-Donate
+0 Skip to Content Home Meet Kelly Get Involved Donate Open Menu Close Menu Home Meet Kelly Get Involved Donate Open Menu Close Menu Home Meet Kelly Get Involved Donate Follow Kelly’s campaign: PRIVACY POLICY Media / Press Photos Paid for by Morrison for Congress PO Box 684 Wayzata, MN 55391

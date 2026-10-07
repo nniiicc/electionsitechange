@@ -1,7 +1,12 @@
 {
  "description": "Kevin McCormick for Texas Lieutenant Governor (political advertising)",
  "final_url": "https://www.kmm2026.org/2016campaign/quality-of-life-and-social-justice",
- "paid_for_by": null,
+ "fingerprint": "52d5a8b2fdff41664dd3d2275b8d3d861ede4c99",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Quality of Life and Social Justice",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

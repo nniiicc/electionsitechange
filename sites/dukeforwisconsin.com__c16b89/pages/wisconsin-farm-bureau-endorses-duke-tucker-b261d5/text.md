@@ -1,3 +1,5 @@
-I’m pleased to announce that I have been endorsed by the Wisconsin Farm Bureau Federation for my candidacy in the 2024 General Election for State Assembly.
+campaign@DukeforWisconsin.com Facebook Facebook Home Biography District 75 Endorsements News The Issues Donate Contact Select Page Wisconsin Farm Bureau Endorses Duke Tucker by Admin01 | Oct 4, 2024 | News I’m pleased to announce that I have been endorsed by the Wisconsin Farm Bureau Federation for my candidacy in the 2024 General Election for State Assembly.
 I’m from rural Wisconsin and I know how important family farms are to Western Wisconsin, which is why I am proud to support them.
 To have an organization like the Wisconsin Farm Bureau Federation state, “This endorsement is a testament to our confidence in your commitment to agriculture, rural issues, and Wisconsin Farm Bureau.” reminds me of one of the important reasons I’m running to represent the 75th District of Wisconsin in Madison.
+Search Search Recent Posts Duke Tucker Elected to Represent Wisconsin’s 75th Assembly District Wisconsin Farm Bureau Endorses Duke Tucker Fundraiser + Meet and Greet for Duke Tucker Duke Tucker Wins Primary Election for Wisconsin’s 75th Assembly District Duke Tucker Launches His First Campaign Commercial Recent Comments No comments to show.
+Facebook Copyright © #-# KAM Paid for by Duke for Wisconsin

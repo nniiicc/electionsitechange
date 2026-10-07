@@ -1,6 +1,30 @@
 [
-"https://facebook.com/voteteddyreese",
-"https://instagram.com/teddyreese06",
-"https://teddyreese.com/",
-"https://teddyreese.com/about"
+{
+"text": "ABOUT",
+"href": "https://www.teddyreese.com/about"
+},
+{
+"text": "Georgia is Ready for Teddy!",
+"href": "https://www.teddyreese.com"
+},
+{
+"text": "HOME",
+"href": "https://www.teddyreese.com"
+},
+{
+"text": "Teddy Reese",
+"href": "https://www.teddyreese.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/voteteddyreese/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/teddyreese06/"
+},
+{
+"text": "voteteddyreese@gmail.com",
+"href": "mailto:voteteddyreese@gmail.com"
+}
 ]

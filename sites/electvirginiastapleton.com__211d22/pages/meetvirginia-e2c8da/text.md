@@ -1,12 +1,11 @@
-Meet Virginia Stapleton
-Growing up on her family’s farm, in Salem, Virginia Stapleton and her 11 siblings learned how to stretch resources, often living without heat or running water.
+0 Skip to Content 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Donate Open Menu Close Menu English Donate 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved Open Menu Close Menu 11 Ideas Priorities Meet Virginia Endorsements Press Get Involved English Back Donate Meet Virginia Stapleton Growing up on her family’s farm, in Salem, Virginia Stapleton and her 11 siblings learned how to stretch resources, often living without heat or running water.
 She was kept home from school to help support her family experiencing firsthand what it’s like to slip through the cracks.
 Today, as a working mother of two teenagers in public schools, Virginia faces similar struggles, paying thousands in out-of-pocket costs for healthcare and stretching her savings to cover groceries.
 On the Salem City Council, Virginia took on the status quo and fought to make government work for families like ours.
 Now she’s running for State Senate to fix Oregon’s failed systems, get costs under control, make quality healthcare affordable, build affordable housing, lower utility costs, and provide our kids with the education they deserve.
-Learn more details about Virginia’s journey below…
-Growing Up
-- I grew up in a very large family with eleven siblings.
+Learn more details about Virginia’s journey below… Growing Up The Salem area has been my home for over 40 years.
+I was born right here in Salem and lived my first 5 years in Keizer before our family moved to West Salem, where I was raised, attended school and worked.
+I grew up in a very large family with eleven siblings.
 My parents met as children when my mother was living with her family in southern California.
 Circumstances changed for her family and she moved back to her home state of Texas.
 My dad continued to write to her nearly everyday and when she moved back to California they began dating and were soon married and started their family.
@@ -36,11 +35,10 @@ I often say that when you are poor you idolize work and that’s what I did.
 I went out and got a few different service jobs and worked hard.
 Those years taught me many things but I never lost my love of learning.
 I taught myself to read, completing my first chapter book at the age of 18.
-I always knew I’d go back to school but knew I’d never do it the traditional way.
-↑
-click to expand text
-Young Married Life and Kids
-- The early years of our marriage were spent trying to make ends meet.
+I always knew I’d go back to school but knew I’d never do it the traditional way. ↑ click to expand text Virginia's mom (1959) Virginia's Dad (1960) Virginia's parents (1970) Virginia's family (1978) Virginia's family (1982) Young Virginia Young Virginia Virginia's family (1992) Virginia's family (2002) Young Married Life and Kids Isaak and I dated through our teenage years and went on to marry at age 21.
+We had already been through so much together but life would continue to throw us challenges to overcome.
+Our friendship and partnership has seen us through.
+The early years of our marriage were spent trying to make ends meet.
 Isaak was a student at Chemeketa and then OSU and I worked at Valley Recycling Inc to pay the bills.
 We moved from our duplex in South Central Salem to the farm in Perrydale, living in a shop apartment to save money.
 We celebrated Isaak’s graduation by quitting our jobs and selling everything we owned so we could take the trip of a lifetime, a 3 month trip backpacking and couch surfing around Europe.
@@ -56,11 +54,10 @@ I served on the Salem-Keizer School Boards Budget Committee and worked with city
 I started to see and understand things that had been unclear before, a way for me to make a difference in the lives of young people all around me.
 When our kids were 7 and 9 we moved to be closer to our middle and high school, being able to walk to school and work was a driving force behind the move.
 Now our kids could walk to school without having to cross a major street.
-That didn’t stop me from trying to improve transportation options for all.
-↑
-click to expand text
-Time on Council
-- I decided to run for Salem City Council in the fall of 2019 with a team of volunteers and a shoestring budget.
+That didn’t stop me from trying to improve transportation options for all. ↑ click to expand text Virginia and Isaak's wedding day Virginia and Isaak wedding day Virginia and Isaak's first rental in South Central Salem Virginia and Isaak on his graduation day Isaak and Virginia in Paris Isaak and Virginia signing for their first home Virginia, Isaak, and Aliza on a camping trip Time on Council When other local leaders saw my advocacy in the community they asked me to step up and run for office.
+Serving on the Salem City Council was a way to impact change on a city-wide scale that would improve the lives of many for generations to come.
+It didn’t disappoint.
+I decided to run for Salem City Council in the fall of 2019 with a team of volunteers and a shoestring budget.
 It was a time of firsts, first debate, first time canvassing, first time doing house parties to raise money.
 But through all those firsts was an excitement about the possibilities, I had little understanding (yet) of the heartache and challenges of governing.
 My campaign finished after COVID had hit so my time late in the campaign was spent on the phones talking with neighbors and voters.
@@ -81,7 +78,7 @@ I worked hard to pass Vision Zero and Twenty Is Plenty, I made a motion to imple
 All of these programs work together to create a safer experience for anyone on our roads and although we have a lot of work to do to continue this work, I know we’re on the right path to get it done.
 It was during this same time that I started to collaborate with Ian Davidson and Dylan McDowell to create Salem Bike Vision.
 Through our efforts there we’ve secured millions of investment to protect vulnerable road users and open up transportation options for many.
-You can see more about my work at www.salembikevision.org.
+You can see more about my work at www.salembikevision.org .
 Ever since I started to run for City Council I started getting questions about the city’s budget.
 I quickly learned more than I’d ever known about measures 5 and 50, state-wide measures passed in the 90’s that changed how Oregonians paid for public services.
 It resulted in cuts at the local level across the entire state.
@@ -91,14 +88,13 @@ We had to do everything we could to protect existing services like police, Fire 
 A city committee made up of community members put forward several ideas and we got consensus around the payroll tax.
 This immediately got pushback from the Chamber of Commerce and some community members.
 We worked hard to try and communicate the need to the community, but the idea ultimately failed.
-You can hear more about this topic on my podcast, Demobrats.
+You can hear more about this topic on my podcast, Demobrats .
 With the failure of the proposal we were back to square one and set to make $16 million in cuts.
 Through this whole process I learned how fundamentally broken our tax structure is and that you can only do so much at the city level.
-If I wanted to create lasting change, I’d need to run for State office.
-↑
-click to expand text
-Running for State House District 21
-- You couldn’t find any two people more different than Kevin and I, he’s been in politics since the time I was born, I was fairly new to the role.
+If I wanted to create lasting change, I’d need to run for State office. ↑ click to expand text Canvassing with Aliza for Ward 1 on City Council Election night Virginia's first time in chamber Virginia and Mayor Chris Hoy bike canvassing to pass the 300M infrastructure bond Bike bus for safe routes to school Virginia and her family at her desk at City Council Last night of City Council representing Ward 1 Running for State House District 21 In the spring of 2024 I decided to take everything I’d learned on the Salem City Council and run for House District 21.
+I’d be up against Kevin Mannix, a political giant in Oregon politics.
+It wouldn’t be easy but we’d have fun trying and boy did we give him a run for his money, over a million dollars in fact.
+You couldn’t find any two people more different than Kevin and I, he’s been in politics since the time I was born, I was fairly new to the role.
 Kevin’s claim to fame are things like Measure’s 5 and 50 and the notorious mandatory sentencing law, Measure 11, all of which passed in the 90’s.
 He used to be a democrat and was now a republican - serving as the chair of the Republican Party of Oregon for a time.
 I grew up a republican and became a democrat.
@@ -108,11 +104,12 @@ We knocked more doors than I thought humanly possible and I talked to voters eve
 We did it the old fashioned way, but with so much joy.
 Kevin spent over a million dollars to beat me and he did so by only 1,100 votes.
 It was heartbreaking to lose, but we gave it our all and our team did an amazing job.
-Our work was not a complete loss, because the Democrats won a supermajority in the legislature, and Oregonians would be represented, even in Donald Trump’s America.
-↑
-click to expand text
-Looking Ahead
-- Turns out, I really care about my community and fighting for those who are considered to be the under-dogs.
-I finally stopped asking “why do I care so much?” and decided that I love that I care this much, and I think you should care this much too!
-↑
-click to expand text
+Our work was not a complete loss, because the Democrats won a supermajority in the legislature, and Oregonians would be represented, even in Donald Trump’s America. ↑ click to expand text Speaking at a canvass kick off while running for HD 21 Looking Ahead Deciding to run is a mental exercise that is really unlike anything else I’ve ever done.
+You have to understand your why, and the deeper layers behind that why.
+You have to be willing to give it your all, and every time you run you have more knowledge about what it’s going to take, you know the challenges, hard work, and public scrutiny that you’re in for.
+But in the end, your why is stronger and more powerful than your doubts or fears or hesitation.
+It’s stronger than your exhaustion or your disappointments.
+Turns out, I really care about my community and fighting for those who are considered to be the under-dogs.
+I finally stopped asking “why do I care so much?” and decided that I love that I care this much, and I think you should care this much too! ↑ click to expand text Civic Resources Community Resources Shop the Store Donate ©# Virginia Stapleton.
+Paid for by Elect Virginia Stapleton PAC #20287.
+Privacy Policy .

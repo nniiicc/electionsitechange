@@ -1,7 +1,2 @@
-Additional Hi-Res videos of Nanette: https://vimeo.com/184895737
-Additional Hi-Res photos of Nanette: https://drive.google.com/drive/folders/0B_91RBPDAOPaNjRPUnZzZTFZcGM?usp=sharing
-Media
-BarraganForCongress
-2018-05-03T10:36:08-07:00
-Additional Hi-Res videos of Nanette: https://vimeo.com/184895737
-Additional Hi-Res photos of Nanette: https://drive.google.com/drive/folders/0B_91RBPDAOPaNjRPUnZzZTFZcGM?usp=sharing
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Media BarraganForCongress 2018-05-03T10:36:08-07:00 Additional Hi-Res videos of Nanette: https://vimeo.com/184895737 Additional Hi-Res photos of Nanette: https://drive.google.com/drive/folders/0B_91RBPDAOPaNjRPUnZzZTFZcGM?usp=sharing Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

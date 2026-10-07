@@ -1,22 +1,98 @@
 [
-"http://electoralmedia.com/",
-"https://facebook.com/MichaelReillyforAssembly",
-"https://mikewreilly.com/",
-"https://mikewreilly.com/author/reillyforassembly",
-"https://mikewreilly.com/category/news",
-"https://mikewreilly.com/contact-us",
-"https://mikewreilly.com/get-involved",
-"https://mikewreilly.com/meet-mike",
-"https://mikewreilly.com/newsroom",
-"https://mikewreilly.com/no-homeless-shelter",
-"https://mikewreilly.com/port-authority-acts-on-reilly-lanza-legislation-to-study-alignment-of-aging-outerbridge-crossing-with-8-3-million-commitment",
-"https://mikewreilly.com/privacy-policy",
-"https://mikewreilly.com/reilly-introduces-bill-to-cap-e-zpass-penalties-and-strengthen-toll-payer-rights",
-"https://mikewreilly.com/reillys-public-safety-proposals-sidelined-by-assembly-democrats-in-committee",
-"https://mikewreilly.com/sign-request",
-"https://mikewreilly.com/statement-from-assemblymember-reilly-on-new-york-citys-response-to-the-migrant-crisis",
-"https://mikewreilly.com/statement-from-assemblymember-reilly-regarding-plan-to-house-illegal-migrants-in-houses-of-worship-throughout-nyc",
-"https://mikewreilly.com/the-issues",
-"https://secure.anedot.com/reilly-for-new-york/donate",
-"https://twitter.com/teamreillyny"
+{
+"text": "Contact Us",
+"href": "https://mikewreilly.com/contact-us/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/reilly-for-new-york/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://mikewreilly.com/the-issues/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikewreilly.com/meet-mike/"
+},
+{
+"text": "NEWS",
+"href": "https://mikewreilly.com/category/news/"
+},
+{
+"text": "Newsroom",
+"href": "https://mikewreilly.com/newsroom/"
+},
+{
+"text": "Paid for by Reilly for New York",
+"href": "https://mikewreilly.com/"
+},
+{
+"text": "Political Website Design",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikewreilly.com/privacy-policy/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/no-homeless-shelter/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/port-authority-acts-on-reilly-lanza-legislation-to-study-alignment-of-aging-outerbridge-crossing-with-8-3-million-commitment/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/reilly-introduces-bill-to-cap-e-zpass-penalties-and-strengthen-toll-payer-rights/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/reillys-public-safety-proposals-sidelined-by-assembly-democrats-in-committee/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/statement-from-assemblymember-reilly-on-new-york-citys-response-to-the-migrant-crisis/"
+},
+{
+"text": "Read More >",
+"href": "https://mikewreilly.com/statement-from-assemblymember-reilly-regarding-plan-to-house-illegal-migrants-in-houses-of-worship-throughout-nyc/"
+},
+{
+"text": "Request a Sign",
+"href": "https://mikewreilly.com/sign-request/"
+},
+{
+"text": "Take Action",
+"href": "https://mikewreilly.com/get-involved/"
+},
+{
+"text": "Team Reilly",
+"href": "https://mikewreilly.com/author/reillyforassembly/"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.] [image: The official website of Michael Reilly for NY State Assembly. Community Advocate, Retired NYPD Lieutenant and US Army Veteran. Learn more.]",
+"href": "https://mikewreilly.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/MichaelReillyforAssembly/"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/teamreillyny"
+}
 ]

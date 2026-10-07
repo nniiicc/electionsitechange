@@ -1,10 +1,38 @@
 [
-"https://facebook.com/HaroldsonforHouse",
-"https://haroldsonforhouse.com/",
-"https://haroldsonforhouse.com/about",
-"https://haroldsonforhouse.com/about-1",
-"https://haroldsonforhouse.com/cart",
-"https://haroldsonforhouse.com/contact-me",
-"https://haroldsonforhouse.com/donations",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://haroldsonforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://haroldsonforhouse.com/about"
+},
+{
+"text": "Contact Me",
+"href": "https://haroldsonforhouse.com/contact-me"
+},
+{
+"text": "Donations",
+"href": "https://haroldsonforhouse.com/donations"
+},
+{
+"text": "Gallery",
+"href": "https://haroldsonforhouse.com/about-1"
+},
+{
+"text": "Jeremy Haroldson for Wyoming House District #4",
+"href": "https://haroldsonforhouse.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://www.squarespace.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HaroldsonforHouse/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jharoldson.impact@hotmail.com"
+}
 ]

@@ -1,11 +1,10 @@
-For fifty years this country had a legal decision that gave control over their bodies to women.
+Skip to content Time For A Change Home June 28, 2024 politics , Uncategorized Without a Heart For fifty years this country had a legal decision that gave control over their bodies to women.
 Abortion was legal up to fetal viability.
 Later than that, only in medical emergencies.
 There are a large number of possible such emergencies, far too many to specify each one in a law; that is why the decisions are best left to doctors and the affected family.
 But then the Supreme Court threw out its own precedent, and immediately Idaho’s trigger ban on all abortions went into effect.
 The consequences have been predictable but devastating.
-Almost half the OB-GYNs in Idaho have left practice or left the state.
-(and some other doctors moved with them.
+Almost half the OB-GYNs in Idaho have left practice or left the state. (and some other doctors moved with them.
 Doctors do tend to marry doctors.) Labor and delivery departments are closing, especially in rural areas.
 Women may have to travel more than an hour just to get prenatal care, and are in serious danger if a complication arises.
 So we the citizens of Idaho are trying to return to the Roe v Wade standard via initiative.
@@ -34,3 +33,7 @@ No one can carry a corpse “to term”.
 THERE IS NO “TERM” FOR CORPSES.
 It needs to be expelled or evacuated for the same reason a gangrenous toe has to be amputated.
 Rational lawmakers would let doctors practice medicine, not try to do it themselves.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… ← Home, Not So Sweet → Public Lands For the Public Leave a comment Cancel reply Δ Create a free website or blog at WordPress.com.
+Comment Reblog Subscribe Subscribed Time For A Change Sign me up Have a WordPress.com account?
+Log in now.
+Time For A Change Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d Design a site like this with WordPress.com Get started

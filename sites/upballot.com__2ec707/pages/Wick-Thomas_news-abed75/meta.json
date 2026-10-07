@@ -1,7 +1,9 @@
 {
- "description": "Get the latest news and updates from Wick\u2019s campaign.",
+ "description": "Get the latest news and updates from Wick’s campaign.",
  "final_url": "https://www.upballot.com/Wick-Thomas/news/",
- "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy&nbsp;Policy | Terms&nbsp;&&nbsp;Conditions Built on",
- "title": "News & Updates from Wick ThomasNews & Updates from Wick Thomas",
+ "fingerprint": "089e5bb2deaf1ccf54a8bb1f73d82d0be3de3cda",
+ "format": 3,
+ "paid_for_by": "Paid for by Missouri House Democratic Campaign Committee",
+ "title": "News & Updates from Wick Thomas",
  "years_mentioned": []
 }

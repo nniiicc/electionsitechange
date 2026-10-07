@@ -1,22 +1,10 @@
-No One Is Free Until We Are All Free
-Quite a lot has happened in the world and in our community since we won the primary on March 3 – a global pandemic, civil unrest over yet another murder…
-Early Voting Information
-If you’re interested in voting early, you can find all the information you need here.
+Skip to content About BECOME A MAYFIELD MAJORITY MAKER!
+Donate Endorsements Home Issues News Privacy Policy Thank You Become a Mayfield Majority Maker!
+About NEWS ISSUES ENDORSEMENTS VOLUNTEER DONATE Become a Mayfield Majority Maker!
+Menu News No One Is Free Until We Are All Free July 19, 2020 Quite a lot has happened in the world and in our community since we won the primary on March 3 – a global pandemic, civil unrest over yet another murder… Read More No One Is Free Until We Are All Free Early Voting Information February 4, 2020 If you’re interested in voting early, you can find all the information you need here.
 Early voting begins February 13th and runs until the March 3rd primary.
-You can download…
-Together We Can Tackle Our Affordability Crisis
-Today, I’ve posted a new video called “The Cost of Getting By” in which I discuss my plans for tackling our affordability crisis.
-Housing prices and rents have outpaced paychecks,…
-Julie Outlines Climate Agenda & NC Green New Deal
-Julie Mayfield, candidate for North Carolina Senate District 49, outlines a Green New Deal for North Carolina — her bold agenda to meet the challenge of climate change — in…
-Terry Van Duyn Endorses Julie Mayfield
-North Carolina State Senator Terry Van Duyn has endorsed Julie Mayfield for the 49th Senate District in a new video released by the Mayfield campaign.
-In a release to the…
-The 49th Senate district has been redrawn
-This past summer, a court identified Senate Districts 48 and 49 as having been unconstitutionally gerrymandered to benefit Republicans.
-The court ordered our local State Senate Districts be redrawn, along…
-I’ll Stand Up to Protect Our Elections From Raleigh’s Meddling
-This week City Council will take an important vote on an issue that embodies one of my Senate campaign priorities — putting a stop to Raleigh’s overreach into the working…
-Julie Mayfield Endorsed by Lillian’s List
-This week, I was endorsed by Lillian’s List — an organization that works to elect women who will champion reproductive freedom and equity for women.
-I am humbled and honored…
+You can download… Read More Early Voting Information Together We Can Tackle Our Affordability Crisis December 14, 2019 Today, I’ve posted a new video called “The Cost of Getting By” in which I discuss my plans for tackling our affordability crisis.
+Housing prices and rents have outpaced paychecks,… Read More Together We Can Tackle Our Affordability Crisis Julie Outlines Climate Agenda & NC Green New Deal December 2, 2019 Julie Mayfield, candidate for North Carolina Senate District 49, outlines a Green New Deal for North Carolina — her bold agenda to meet the challenge of climate change — in… Read More Julie Outlines Climate Agenda & NC Green New Deal Terry Van Duyn Endorses Julie Mayfield November 25, 2019 North Carolina State Senator Terry Van Duyn has endorsed Julie Mayfield for the 49th Senate District in a new video released by the Mayfield campaign.
+In a release to the… Read More Terry Van Duyn Endorses Julie Mayfield The 49th Senate district has been redrawn October 5, 2019 This past summer, a court identified Senate Districts 48 and 49 as having been unconstitutionally gerrymandered to benefit Republicans.
+The court ordered our local State Senate Districts be redrawn, along… Read More The 49th Senate district has been redrawn I’ll Stand Up to Protect Our Elections From Raleigh’s Meddling September 10, 2019 This week City Council will take an important vote on an issue that embodies one of my Senate campaign priorities — putting a stop to Raleigh’s overreach into the working… Read More I’ll Stand Up to Protect Our Elections From Raleigh’s Meddling Julie Mayfield Endorsed by Lillian’s List August 28, 2019 This week, I was endorsed by Lillian’s List — an organization that works to elect women who will champion reproductive freedom and equity for women.
+I am humbled and honored… Read More Julie Mayfield Endorsed by Lillian’s List Prev 1 2 3 4 ABOUT | ISSUES | PRIVACY POLICY | VOLUNTEER | DONATE Paid for by Julie Mayfield for NC Senate

@@ -1,5 +1,4 @@
-Meet Maurice West
-Maurice A.
+0 Skip to Content Home Meet Maurice Platform Donate Contact Open Menu Close Menu Home Meet Maurice Platform Donate Contact Open Menu Close Menu Home Meet Maurice Platform Donate Contact Meet Maurice West Maurice A.
 West II is a proud graduate of Jefferson High School, class of 2003.
 After high school he went on to receive his Bachelor's degree in Psychology and Sociology from Illinois College in Jacksonville, IL, and Master's degree in Industrial and Organizational Psychology from The Chicago School of Professional Psychology.
 After completing his education, he came back to Rockford and began working at Rock Valley College (RVC) as a Career Counselor for the Dislocated Workers Program.
@@ -28,19 +27,19 @@ This manifesto is my personal political values.
 These values are built by my life experiences and beliefs - especially my call to preach the Gospel.
 This manifesto serves as my playbook to abide by, thus, every move I make, every vote I take, is not for the party.
 I make the move or take the vote because it aligns with these 12-points.
-The WEST Political Manifesto of Today
-- Reduce the gap between rich people and poor people.
-- Help everyone to have a job.
-- Help the poorest, including introducing a living wage.
-- Offer the best possible education.
-- Help everyone to feel they can make a difference.
-- Promote tolerance.
-- Promote equal treatment for Women.
-- Create a society based on values and not profits and consumerism.
-- End all forms of slavery.
-- Avoid getting into wars.
-- Avoid narrow self-interest and promote a world view.
-- Care for the environment.
-Let’s move Rockford forward together
-We would love to have you join us.
-If you’re interested in volunteering, please fill out this form —>
+The WEST Political Manifesto of Today Reduce the gap between rich people and poor people.
+Help everyone to have a job.
+Help the poorest, including introducing a living wage.
+Offer the best possible education.
+Help everyone to feel they can make a difference.
+Promote tolerance.
+Promote equal treatment for Women.
+Create a society based on values and not profits and consumerism.
+End all forms of slavery.
+Avoid getting into wars.
+Avoid narrow self-interest and promote a world view.
+Care for the environment.
+Let’s move Rockford forward together We would love to have you join us.
+If you’re interested in volunteering, please fill out this form —> © # by Maurice West for Rockford .
+A copy of our report is filed (or will be) with the State Board of Elections as required.
+Info@mauricewest.com

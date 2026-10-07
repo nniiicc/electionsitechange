@@ -1,9 +1,34 @@
 [
-"https://facebook.com/SteveMeskers4Greenwich",
-"https://instagram.com/stevemeskers4greenwich",
-"https://jacket-industries.com/",
-"https://stevemeskers.com/",
-"https://stevemeskers.com/es/campaign/volunteer",
-"https://twitter.com/meskers4gwich",
-"https://youtube.com/channel/UCZVc3ohk8ClzcXu7dYQtP7A"
+{
+"text": "@meskers4gwich",
+"href": "https://twitter.com/meskers4gwich"
+},
+{
+"text": "@stevemeskers4greenwich",
+"href": "https://instagram.com/stevemeskers4greenwich"
+},
+{
+"text": "@stevemeskers4greenwich",
+"href": "mailto:meskers4greenwich@gmail.com"
+},
+{
+"text": "Jacket Industries, LLC",
+"href": "https://jacket-industries.com/"
+},
+{
+"text": "SteveMeskers4Greenwich",
+"href": "https://www.facebook.com/SteveMeskers4Greenwich/"
+},
+{
+"text": "Voluntario",
+"href": "https://stevemeskers.com/es/campaign/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCZVc3ohk8ClzcXu7dYQtP7A"
+},
+{
+"text": "en inglés",
+"href": "https://stevemeskers.com/"
+}
 ]

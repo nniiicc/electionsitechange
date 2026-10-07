@@ -1,7 +1,9 @@
 {
  "description": "Explore Jackson County Reports for insights into local politics, legislation by Representative Tim Truett, and critical analyses of county media coverage.",
  "final_url": "https://serranoforamerica.com/jackson-county-reports",
- "paid_for_by": null,
+ "fingerprint": "a1128319da3e8922207e6f445aa0fe18d89bced3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jackson County Reports",
  "years_mentioned": [
   "2017",

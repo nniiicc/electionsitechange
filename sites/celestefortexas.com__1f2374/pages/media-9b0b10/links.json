@@ -1,15 +1,58 @@
 [
-"https://celestefortexas.com/",
-"https://celestefortexas.com/become-a-election-worker",
-"https://celestefortexas.com/cart",
-"https://celestefortexas.com/donate",
-"https://celestefortexas.com/events",
-"https://celestefortexas.com/issues",
-"https://celestefortexas.com/media",
-"https://celestefortexas.com/media/09102925pr",
-"https://celestefortexas.com/media/11122025pressrelease",
-"https://celestefortexas.com/media/project-four-l3zw3-nfnmx",
-"https://celestefortexas.com/podcast",
-"https://celestefortexas.com/volunteer",
-"https://secure.anedot.com/celeste-for-texas/donate"
+{
+"text": "0",
+"href": "https://celestefortexas.com/cart"
+},
+{
+"text": "Become a Election Worker",
+"href": "https://celestefortexas.com/become-a-election-worker"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/celeste-for-texas/donate"
+},
+{
+"text": "Donate",
+"href": "https://celestefortexas.com/donate"
+},
+{
+"text": "Events",
+"href": "https://celestefortexas.com/events"
+},
+{
+"text": "Home",
+"href": "https://celestefortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://celestefortexas.com/issues"
+},
+{
+"text": "Media",
+"href": "https://celestefortexas.com/media"
+},
+{
+"text": "Podcast",
+"href": "https://celestefortexas.com/podcast"
+},
+{
+"text": "Volunteer",
+"href": "https://celestefortexas.com/volunteer"
+},
+{
+"text": "[image: 09/10/2025-PRESS RELEASE-Click Image to download files] 09/10/2025-PRESS RELEASE-Click Image to download files",
+"href": "https://celestefortexas.com/media/09102925pr"
+},
+{
+"text": "[image: 11/12/25-PRESS RELEASE-Republican Candidate Announces Filing in Austin Click Image to download files] 11/12/25-PRESS RELEASE-Republican Candidate Announces Filing in Austin Click Image to download files",
+"href": "https://celestefortexas.com/media/11122025pressrelease"
+},
+{
+"text": "[image: Celeste For Texas]",
+"href": "https://celestefortexas.com/"
+},
+{
+"text": "[image: Project Four] Project Four",
+"href": "https://celestefortexas.com/media/project-four-l3zw3-nfnmx"
+}
 ]

@@ -1,29 +1,12 @@
-- Recent Tweets Tweets by sbpres
-- Events
-- Recent Posts
-- Archives
-- Categories
-- Meta
-Monthly Archives: September 2012
-Mailers
-Mailers are important to getting message out.
-You can contribute to the campaign by going to Act Blue and do a secure online donation. https://secure.actblue.com/entity/fundraiser/29894
-Posted in Uncategorized
-Leave a comment
-Signs
-Signs have been ordered.
+scottaburns Running for State Representataive Skip to content Home About Contact Donate Endorsements Events Moving Forward Organizations Monthly Archives: September 2012 Mailers Posted on September 24, 2012 by Scott Burns for State Representative Mailers are important to getting message out.
+You can contribute to the campaign by going to Act Blue and do a secure online donation. https://secure.actblue.com/entity/fundraiser/29894 Posted in Uncategorized | Leave a comment Signs Posted on September 24, 2012 by Scott Burns for State Representative Signs have been ordered.
 Email scottburnsstaterepresentative@gmail.com or call 603-892-0470 if you want a sign on your lawn!!
-Posted in Uncategorized
-Leave a comment
-Door Knocking
-Once again it was great door knocking in Hill and got some information on farming, what resources have been cut to the district and of course education.
+Posted in Uncategorized | Leave a comment Door Knocking Posted on September 16, 2012 by Scott Burns for State Representative Once again it was great door knocking in Hill and got some information on farming, what resources have been cut to the district and of course education.
 More door knocking in Franklin tomorrow.
-Posted in Uncategorized
-Leave a comment
-Door Knocking in Hill
-Beautiful day in Hill door knocking.
+Posted in Uncategorized | Leave a comment Door Knocking in Hill Posted on September 3, 2012 by Scott Burns for State Representative Beautiful day in Hill door knocking.
 Education is still an issue but how to spend the money.
 One woman wanted recycling.
 I am all for that!!
-Posted in Uncategorized
-Leave a comment
+Posted in Uncategorized | Leave a comment Recent Tweets Tweets by sbpres Events September 2012 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 « Jun Oct » Search for: Recent Posts (no title) I am Running Moving Forward In new lawsuit, 3 taxpayers argue N.H. school funding remains unfair Council approves provider contract for paid leave program amid some skepticism from Republicans Archives October 2026 June 2026 May 2026 June 2022 November 2020 October 2020 September 2020 August 2020 February 2020 November 2018 October 2018 September 2018 August 2018 March 2018 June 2016 April 2016 December 2015 November 2015 August 2015 July 2015 June 2015 April 2015 March 2015 January 2015 December 2014 November 2014 October 2014 September 2014 April 2014 March 2014 December 2013 November 2013 August 2013 July 2013 January 2013 December 2012 November 2012 October 2012 September 2012 June 2012 May 2012 Categories Uncategorized Meta Create account Log in Entries feed Comments feed WordPress.com scottaburns Blog at WordPress.com.
+Subscribe Subscribed scottaburns Sign me up Have a WordPress.com account?
+Log in now. scottaburns View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Design a site like this with WordPress.com Get started

@@ -1,9 +1,13 @@
 {
  "description": "Official campaign website for HANS WILZ for IOWA HOUSE DISTRICT 25",
  "final_url": "https://wilzforiowa.com/",
- "paid_for_by": null,
+ "fingerprint": "45828e02bebd9993f468dbf5b838809a6a11a84c",
+ "format": 3,
+ "paid_for_by": "sponsored by Wilz for Iowa and is for informational purposes only",
  "title": "HANS WILZ for IOWA HOUSE DISTRICT 25",
  "years_mentioned": [
-  "2015"
+  "1956",
+  "2015",
+  "2024"
  ]
 }

@@ -1,6 +1,22 @@
 [
-"https://facebook.com/VoteKellyBreen",
-"https://instagram.com/kellybreenmi",
-"https://kellybreen.com/volunteer2",
-"https://secure.actblue.com/donate/kellybreenwebsite"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kellybreenwebsite"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://kellybreen.com/volunteer2"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteKellyBreen"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kellybreenmi/"
+},
+{
+"text": "[no text]",
+"href": "mailto:hello@kellybreen.com"
+}
 ]

@@ -1,11 +1,6 @@
-Jobs and the Economy
-Michelle knows that we need good-paying jobs to offset the increased living costs from inflation and the recent COVID pandemic.
+Skip to content Toll-free: 800-2345-6789 Login | Register Twitter Facebook-f Youtube Linkedin Home Meet Michelle Priorities Safe Neighborhoods Cleaner Air and Water Healthcare for All Jobs and the Economy Women’s Equality Homelessness Schools and Higher Education News Join Team Michelle!
+Supporters Gallery DONATE Jobs and the Economy Michelle knows that we need good-paying jobs to offset the increased living costs from inflation and the recent COVID pandemic.
 She understands that good-paying jobs are a result of a business-friendly economy that works with its local and state government.
 Working families and small businesses need the support of the state government to help fulfill the promise of the American dream, which includes home ownership, health benefits, and financial freedom.
-Once elected, Michelle will:
-- work with local school districts and small businesses to expand mentorship and workforce development for our youth that lead to permanent job placements.
-- fight to bring resources to the 53rd Assembly District to assist small businesses with obtaining low-interest loans.
-- support the rights of all employees to organize without fear of intimidation and retaliation.
-- work to provide incentives for companies that want to stay in California.
-- oppose tax breaks for companies that move jobs to other states.
-- provide more funding for job training, apprenticeships, and vocational rehabilitation programs to further assist the workforce.
+Once elected, Michelle will: work with local school districts and small businesses to expand mentorship and workforce development for our youth that lead to permanent job placements. fight to bring resources to the 53rd Assembly District to assist small businesses with obtaining low-interest loans. support the rights of all employees to organize without fear of intimidation and retaliation. work to provide incentives for companies that want to stay in California. oppose tax breaks for companies that move jobs to other states. provide more funding for job training, apprenticeships, and vocational rehabilitation programs to further assist the workforce.
+Contact Michelle info@michelleforassembly.com 2063 Rancho Valley Dr., Ste 320, #154, Pomona, CA, 91766 Join the Movement Join Team Michelle Endorse Michelle Donate • Paid for by Michelle Rodriguez for Assembly 2026 • FPPC ID 1477034 • 2063 Rancho Valley Dr., Ste 320, #154, Pomona, California, 91766 Twitter Facebook-f

@@ -1,1 +1,3 @@
-Whether you're volunteering your time, requesting a yard sign, or helping spread our message, every action brings us closer to a government that works for everyone.
+top of page Donate Get Involved Issues Contact Events Take action in your neighborhood Whether you're volunteering your time, requesting a yard sign, or helping spread our message, every action brings us closer to a government that works for everyone.
+Get Involved First Name * Last Name * Email Address * Phone Number * Multi-line address Country/Region * Address * City * Zip / Postal code * Preferred Ways to Help * Door knocking Phone banking Event support Write a letter to the Editor Request a yard sign Other Availability Submit © # Brian Shaver for Congress.
+Paid for by Brian Shaver for Congress Committee. bottom of page

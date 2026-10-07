@@ -1,5 +1,5 @@
-WHY I'M RUNNING
-America and Michigan are at a crossroads with political parties and the promises they make to the people they represent.
+Skip to content (906) 361-7272 electsaracambensy@gmail.com 306 N.
+6th Street, Marquette, MI 49855 Search Biography Biography Donate WHY I'M RUNNING America and Michigan are at a crossroads with political parties and the promises they make to the people they represent.
 Hard-working U.P.
 Families that believe in accountability, discipline, integrity, and doing right by others can’t get ahead.
 Groceries, housing, electric bills, healthcare, education, car insurance, property taxes, and saving money for retirement have become impossible tasks.
@@ -20,5 +20,11 @@ My success in passing 9 public acts while serving in the minority proves I can w
 Having served over 10 years in local office, I have a solid foundation and understand the challenges our communities face in the U.P.
 Whether it’s our public schools, local government, or protecting our quality of life, my commitment has been and will continue to be to keep control local.
 The U.P. needs an independent voice in Lansing that can’t be bought and can’t be told by downstate interests on what’s best for the people that live, work, and raise a family here.
-I’m ready to do the work, and I hope you’ll join me on my campaign to bring civility, common sense, and unity back to state politics.
-—
+I’m ready to do the work, and I hope you’ll join me on my campaign to bring civility, common sense, and unity back to state politics. — Sara Cambensy 906-361-7272 Bob Cambensy, Treasurer, 306 North Sixth Street, Marquette, MI 49855 Stay Connected Mobile Messaging Name * First Last * Last Email * Phone ZIP Code * By checking this box, I agree to receive SMS text messages from Sara Cambensy including: Event invitations and reminders, Fundraising appeals and donation requests, Endorsement announcements, Voter registration reminders and voting information, Volunteer opportunities and recruitment Message and data rates may apply.
+Message frequency varies.
+Text STOP to cancel.
+Text HELP for help.
+View our Privacy Policy Submit If you are human, leave this field blank.
+Sara Cambensy Working For the People DONATE Copyright Sara Cambensy #.
+(906) 361-7272 electsaracambensy@gmail.com 306 N.
+6th Street, Marquette, MI 49855 Instagram Facebook-f Youtube Twitter Privacy Policy

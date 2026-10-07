@@ -1,5 +1,8 @@
-So How Did I Get Started?
-I supposed I’ve always been a helper, an advocate, a voice that disrupts injustices.
+0 Skip to Content Home Meet April On the Issues Blog Donate Today!
+Sign Up Open Menu Close Menu Home Meet April On the Issues Blog Donate Today!
+Sign Up Open Menu Close Menu Home Meet April On the Issues Blog Donate Today!
+Sign Up So How Did I Get Started?
+Aug 7 Written By April Fournier I supposed I’ve always been a helper, an advocate, a voice that disrupts injustices.
 I remember very clearly my second grade year, when we moved to Scarborough and I started a new school-Eight Corners Elementary.
 I don’t remember a lot of the details, that was many many moons ago, but I remember the overall vibe that I felt, one of being an outsider.
 If you have never experienced it, I can’t even begin to explain how consuming it becomes when it feels like every action, every move and every word is watched and judged.
@@ -13,3 +16,4 @@ I did however develop a loathing for math, but that’s not necessarily all the 
 I share this because it was one of the most impactful early experiences that showed me not every room is going to welcome me, but I have just as much of a right to that room as everyone else.
 And though the path might be harder, I get to choose how to walk it.
 I think second grade me would be so proud of how far we have come, that our light continues to shine and that we will never let the bullies get the best of us.
+April Fournier Previous Previous Temps Are Dropping, But Heating Fuel and Energy Prices Are Not… Made with Squarespace Paid for and authorized by April for Portland

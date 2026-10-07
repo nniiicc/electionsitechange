@@ -1,17 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61587889317928",
-"https://instagram.com/mo4colorado",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mo4colorado.org%2Fevent-details%2Fpre-debate-social",
-"https://mo4colorado.org/",
-"https://mo4colorado.org/accessibility-statement",
-"https://mo4colorado.org/donation",
-"https://mo4colorado.org/endorsements",
-"https://mo4colorado.org/event-list",
-"https://mo4colorado.org/get-involved",
-"https://mo4colorado.org/meet-mo-dower",
-"https://mo4colorado.org/platform",
-"https://mo4colorado.org/privacy-policy",
-"https://mo4colorado.org/terms-and-conditions",
-"https://secure.actblue.com/donate/mo4colorado",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.mo4colorado.org%2Fevent-details%2Fpre-debate-social&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Accessibility Statement",
+"href": "https://www.mo4colorado.org/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mo4colorado"
+},
+{
+"text": "DONATION",
+"href": "https://www.mo4colorado.org/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mo4colorado.org/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mo4colorado.org/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mo4colorado.org/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.mo4colorado.org"
+},
+{
+"text": "MEET MO DOWER",
+"href": "https://www.mo4colorado.org/meet-mo-dower"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.mo4colorado.org/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mo4colorado.org/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.mo4colorado.org/terms-and-conditions"
+},
+{
+"text": "[image: Instagram Mo4colorado]",
+"href": "https://www.instagram.com/mo4colorado/"
+},
+{
+"text": "[image: Mo Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587889317928"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.mo4colorado.org%2Fevent-details%2Fpre-debate-social&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.mo4colorado.org%2Fevent-details%2Fpre-debate-social"
+},
+{
+"text": "​ACCESSIBILITY STATEMENT",
+"href": "https://www.mo4colorado.org/accessibility-statement"
+}
 ]

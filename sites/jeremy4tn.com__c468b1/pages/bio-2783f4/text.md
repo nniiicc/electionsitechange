@@ -1,3 +1,4 @@
+Jeremy 4 TN About Platform Events Voting Info Count Me In Subscribe Donate About Jeremy The story behind the campaign - how I ended up here, and why I decided to run.
 I didn't end up in Tellico Plains by accident.
 I grew up mostly in north Georgia, just a few hours south of here.
 Over the years, I worked hard, picked up a range of skills, and created opportunities for myself in places like Atlanta, New York City, and San Francisco.
@@ -23,3 +24,4 @@ I'm gay, and while that's not the focus of my campaign, I'm not going to hide it
 I believe in this community, and I hope you'll let me represent it.
 I'm running for District 23 State Representative because I believe people here deserve someone who focuses on what affects daily life, not someone in Nashville focused on appeasing folks in DC or chasing PAC money at your expense.
 Want to know where I stand on the issues, or how to get involved?
+View the Platform Get Involved Jeremy 4 TN Unite for Progress Donate Privacy Policy Terms of Service Update Communication Preferences [email protected] Paid for by Jeremy 4 TN, authorized by Jeremy Bromwell. · Tellico Plains, TN

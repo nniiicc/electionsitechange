@@ -1,7 +1,12 @@
 {
  "description": "Read the Week 13 legislative update from Kansas State Representative Dale Helwig, highlighting final session actions, veto overrides, and key legislation impacting Kansas.",
  "final_url": "https://www.dalehelwigforkansas.com/post/2026-week-13",
- "paid_for_by": null,
+ "fingerprint": "cbaa0b60fc06bfdfa61909839df1c2f11422af10",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Week 13 Legislative Update: Final Week of Session",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004",
+  "2026"
+ ]
 }

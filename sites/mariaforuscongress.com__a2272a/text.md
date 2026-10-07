@@ -1,5 +1,8 @@
-Putting Kentucky Families First
-2026
-María is running for Congress to defend the freedoms she once lived without.
+Skip to content Toggle Navigation HOME MEET MARIA DONATE NOW Home 949759pwpadmin 2026-09-03T12:55:17+00:00 Maria Rodriguez For Congress learn more About Maria Putting Kentucky Families First 2026 María is running for Congress to defend the freedoms she once lived without.
 She believes strongly in free enterprise, safe communities, legal immigration, and protecting the constitutional rights of all Americans.
 Her journey, from political persecution to public service, has instilled in her a deep respect for the American Dream and a determination to preserve it for future generations.
+Donate to the Campaign DONATE NOW help us deliver : take action CORE PROMISE Conservative.
+Proven.
+Unapologetic. more about campaign more about campaign I’m running for Congress to defend our values, protect our communities, and keep the American Dream alive for the next generation.
+SAFE STREETS STRONG ECONOMY LOWER TAXES FREEDOM & FAIRNESS Stand with a candidate that won’t back down Defending Capitalism Safer Louisville Lower Taxes Legal Immigration Protecting The Unborn Protecting Women’s Sports Learn More About Maria’s Top Priorities PAID FOR BY MARIA RODRIGUEZ FOR U.S.
+CONGRESS Page load link prosperity, freedom, equality! latest news Latest News Take Action About The Campaign Events Leadership that helps you revolutionize the future Election , Leadership ▪ Streamline the process of voting & campaign Election , Voting ▪ Our policies are designed to uplift all communities Campaign , Politics ▪ campaign office 123 Main Street, Queens, NY 11435 Phone: (800) 555 5555 info@avada-company.com Go to Top

@@ -1,6 +1,4 @@
-Chaplain Steven St John
-What I Learned as a Hospital Chaplain
-People often ask me what I have learned.
+Chaplain Steven St John For Congress What I Learned as a Hospital Chaplain People often ask me what I have learned.
 The answer is simple: In the face of profound adversity, the boundaries of politics dissolve, revealing the empathy and understanding that binds all of us together.
 I have sat beside families receiving devastating diagnoses.
 I have listened to spouses worried about losing a loved one.
@@ -29,6 +27,4 @@ The voices I have heard over the last decade should not remain inside hospital w
 They deserve to be heard in Washington.
 Every day, I stand with families when it matters most.
 Now I am asking for the opportunity to stand for them in Congress.
-Hospital Chaplain
-Nonpartisan Candidate for Congress
-Nevada's 1st Congressional District
+Steven St John Hospital Chaplain Nonpartisan Candidate for Congress Nevada's 1st Congressional District Support the Campaign Return to Homepage

@@ -1,5 +1,4 @@
-Oppose tax increases, defend TABOR, and require state government to balance its budget and live within its means.Read More
-Eliminate unnecessary regulations that burden Colorado workers, families, and small businesses.
-Read More
-Protect the rights of law-abiding Coloradans and oppose ineffective restrictions on responsible firearm ownership.
-Read More
+Home Meet Andrew Do Less Issues Volunteer Events Privacy Policy Yard Signs Voter Information Protect Taxpayers and Defend TABOR Oppose tax increases, defend TABOR, and require state government to balance its budget and live within its means.
+Read More Cut Red Tape Eliminate unnecessary regulations that burden Colorado workers, families, and small businesses.
+Read More Defend the Second Amendment Protect the rights of law-abiding Coloradans and oppose ineffective restrictions on responsible firearm ownership.
+Read More Home Meet Andrew Do Less Issues Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Andrew Gibson Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Do Less Endorsements Events Privacy Policy Volunteer Yard Signs Contact Voter Information Close Menu

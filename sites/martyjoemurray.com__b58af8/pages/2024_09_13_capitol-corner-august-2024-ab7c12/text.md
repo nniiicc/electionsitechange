@@ -1,11 +1,9 @@
-Marty Joe Murray Elected as 78th District State Rep Democratic Nominee
-It is my absolute honor to be elected as the Democratic nominee.
-On August 6th I was elected with 58% of the vote in the three way primary.
+Skip to content Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Capitol Corner Capitol Corner: August 2024 September 13, 2024 7–11 minutes Marty Joe Murray Elected as 78 th District State Rep Democratic Nominee It is my absolute honor to be elected as the Democratic nominee.
+On August 6 th I was elected with 58% of the vote in the three way primary.
 I will work hard to gain the support and votes of the remaining 42% that didn’t cast a ballot for me.
 Over the next couple months I will be hosting a listening tour at neighborhood meetings and townhalls.
-The next election is November 5th, 2024 and the last day to register to vote in that election is October 9th, 2024.
-Missouri House Record Setting Session
-This past session was interesting and record setting.
+The next election is November 5 th , 2024 and the last day to register to vote in that election is October 9 th , 2024.
+Missouri House Record Setting Session This past session was interesting and record setting.
 It was record setting for dysfunction, time wasted, and the fewest number of total policy Bills ever passed in a regular session in Missouri’s history.
 This session was less productive than the previous record of 31 non-budget bills passed during the pandemic.
 This is deeply disappointing given the needs of our district and city.
@@ -29,6 +27,7 @@ Increases the funding limit and expands access for Missouri’s Empowerment Scho
 The bill also expands where charter schools may operate and subsections determine how DESE calculates the financial amount to provide to each charter school based on state and local aid.
 The statutory provisions confirm that the obligation to create equitable funding lies with the State.
 When it comes to the MO Scholars program eligibility is expanded.
+The low-income restriction line has been raised from 200% of the free or reduced-price lunch boundary to 300% (a yearly income of roughly $166,000 for a family of four).
 Missouri still would not provide any public funding for the scholarships under SB 727.
 Funds still must be raised from scholarships through donations by individuals or corporations.
 SB 727 changes how students are counted for the state aid formula, from all attendance to half attendance and half enrollment.
@@ -36,59 +35,55 @@ The bill acknowledges the chronic absenteeism crisis, but waters down the incent
 Other provisions in the bill would drive additional monies to public schools, but there are no new funding sources in the bill to pay for the increased costs.
 This is especially concerning as the legislature continues to limit the ability of districts to raise local funds.
 Meanwhile, tax cuts that could decrease state revenue are either already in law.
-Missouri House Passes HB 2267, Protecting Access to Clinician-Administered Drugs
-In an effort to ensure quality affordable healthcare across the Show-Me State, the Missouri House of Representatives has approved HB 2267, which looks to safeguard access to vital clinician-administered drugs.
-The bill, sponsored by Representative Tara Peters, passed with
-bipartisan support, marking a significant step forward in healthcare policy for the state.
+Missouri House Passes HB 2267, Protecting Access to Clinician-Administered Drugs In an effort to ensure quality affordable healthcare across the Show-Me State, the Missouri House of Representatives has approved HB 2267, which looks to safeguard access to vital clinician-administered drugs.
+The bill, sponsored by Representative Tara Peters, passed with bipartisan support, marking a significant step forward in healthcare policy for the state.
 HB 2267 prohibits health carriers and pharmacy benefits managers from imposing penalties or limitations on providers, patients, or pharmacies for providing or receiving clinician-administered drugs, regardless of their source.
 Furthermore, the bill bars discrimination against covered entities or pharmacies participating in the 340B drug pricing program, ensuring equitable access to affordable medications.
 The legislation also mandates coverage for both reference and biosimilar products, expanding treatment options for Missourians.
 HB 2267 focuses on safeguarding several crucial aspects: ensuring access to healthcare for patients, preserving the viability of rural hospitals and federally qualified health centers, and safeguarding Missouri’s financial resources, Peters, R-Rolla, said.
 “The 340B program facilitates access to discounted pharmaceutical prices for eligible hospitals and qualified health centers serving a significant number of low-income patients, including those in rural areas.
 This bill aims to retain resources within local communities rather than channeling funds out of state to benefit large health insurance companies and pharmaceutical corporations.
-In essence, HB 2267 prioritizes the well-being
-of Missouri residents by ensuring access to affordable healthcare.”
-Blair’s Law Criminalizing ‘Celebratory’ Gunfire, is Signed
-July 4 was the 13 year anniversary of the death of 11 year-old Blair Shanahan Lane.
+In essence, HB 2267 prioritizes the well-being of Missouri residents by ensuring access to affordable healthcare.” Blair’s Law Criminalizing ‘Celebratory’ Gunfire, is Signed July 4 was the 13 year anniversary of the death of 11 year-old Blair Shanahan Lane.
 Five days later legislation criminalizing “celebratory gunfire,” such as what ended Blair Lane’s life, was signed into law.
 Blair had been struck by one of many bullets fired carelessly into the air by a person at a party more than half a mile away.
 She died the next day.
 The man who fired that gun served 18 months in prison for involuntary manslaughter.
-There was no state law that addresses what is often called “celebratory gunfire,” until Tuesday when Governor Mike Parson (R) signed Senate Bill 754, which includes “Blair’s Law.”
-Blair’s Law makes the unlawful discharge of a firearm within or into the city limits of a community a class A misdemeanor for a first offense, a class E felony for a second offense, and a class D felony for subsequent instances.
-Bills Signed Into Law
-- HB 2634 – while public funds are already prohibited from funding abortions in Missouri, HB 2634 will now prevent any taxpayer money from going to any abortion providers or their affiliates in the state.
+There was no state law that addresses what is often called “celebratory gunfire,” until Tuesday when Governor Mike Parson (R) signed Senate Bill 754, which includes “Blair’s Law.” Blair’s Law makes the unlawful discharge of a firearm within or into the city limits of a community a class A misdemeanor for a first offense, a class E felony for a second offense, and a class D felony for subsequent instances.
+Bills Signed Into Law HB 2634 – while public funds are already prohibited from funding abortions in Missouri, HB 2634 will now prevent any taxpayer money from going to any abortion providers or their affiliates in the state.
 The bill ensures that no abortion providers or their affiliates receive reimbursements through the MO HealthNet program.
 The bill requires the Department of Social Services to suspend, revoke, or cancel any contract or provider agreement or refuse to enter into a new contract or provider agreement with any provider when it has been determined that the provider is not qualified to perform the required services because the provider has committed certain offenses specified in the bill, has been found guilty of a pattern of intentional discrimination in the delivery or nondelivery of health care services, or if the provider is an abortion facility or affiliate thereof.
-- HB 2057 – municipal franchise fees for video service providers.
+HB 2057 – municipal franchise fees for video service providers.
 Exempts streaming providers (e.g.
 Netflix) from paying separate local use fees in addition to those already levied on video service providers.
-- SB 894 – promotion of business development.
+SB 894 – promotion of business development.
 Establishes the Right to Start Act, Small Business Regulatory Fairness Act, Office of Entrepreneurship, and Regulatory Sandbox Act.
-- SB 756 – clarifies the language of SB 190 (passed last year) for political subdivisions when providing property tax relief to seniors.
-- SB 754 – relating to public safety.
+SB 756 – clarifies the language of SB 190 (passed last year) for political subdivisions when providing property tax relief to seniors.
+SB 754 – relating to public safety.
 Establishes Blair’s Law, Max’s Law, and Valentine’s Law.
 Ensures matching punishment under the law for drug trafficking of crack cocaine and powder cocaine.
 Creates stricter punishments for armed criminal action, repeat offenders, endangering the welfare of a child, and unlawful firearm possession.
-- HB 1912 – taxation of past-through entities.
+HB 1912 – taxation of past-through entities.
 Clarifies how s-corporation resident income tax credits are determined and applied.
 Clarifies processes and provides definition changes for the SALT Parity Act.
-- SB 872 – taxation of utility infrastructure.
+SB 872 – taxation of utility infrastructure.
 Extends the Small Wireless Facility Development Act.
 Provides an income tax deduction for federal broadband grants.
 Provides a sales tax exemption for electricity production, extending current exemptions to cooperatives and smaller companies.
-- HB 2134/1956 – relating to water pollution.
+HB 2134/1956 – relating to water pollution.
 Corrects existing loopholes in state law regarding application of certain industrial waste byproducts on agricultural land by changing facility definitions, expanding regulations on industrial waste storage, establishing a Nutrient Management Technical Standard, and requiring annual sampling.
-- HB 2062 – relating to the use of real property.
+HB 2062 – relating to the use of real property.
 Establishes the Protecting Missouri’s Small Businesses Act.
 Strengthens the rights of personal property owners against squatters.
 Restricts Home Owner’s Associations from prohibiting backyard chicken flocks.
 Prohibits local government from requiring churches and nonprofits to install electric vehicle charging stations.
-- SB 895 – relating to landlord-tenant actions.
+SB 895 – relating to landlord-tenant actions.
 Provides that no county, municipality, or political subdivision shall impose or enforce a moratorium on eviction proceedings unless specifically authorized by federal or state law.
-House Dems Look To The Future
-House Democrats will take meaningful action to protect and improve public education instead of just offering empty and unfunded promise.
+House Dems Look To The Future House Democrats will take meaningful action to protect and improve public education instead of just offering empty and unfunded promise.
 Democrats will continue the fight to end child marriage and allowing pregnant women to have the ability to divorce.
 Democrats will protect Missourians right to vote, and have access to reproductive health care.
 Legislation that didn’t pass but may come back in 2025 is the Missing and Murdered African American Task Force, modifying the tax on groceries and early childcare assistance.
-More information can be found at MartyJoeMurray.com, you can contact me at MJM@MartyJoeMurray.com, 314.329.1868
+Neighborhood Clean Up Sign Up More information can be found at MartyJoeMurray.com , you can contact me at MJM@MartyJoeMurray.com , 314.329.1868 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading… Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Reblog Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

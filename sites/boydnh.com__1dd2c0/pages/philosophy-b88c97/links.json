@@ -1,5 +1,22 @@
 [
-"https://boydnh.com/",
-"https://boydnh.com/philosophy",
-"https://secure.anedot.com/friends-of-bill-boyd/donate"
+{
+"text": "CONTACT",
+"href": "https://www.boydnh.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-bill-boyd/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.boydnh.com"
+},
+{
+"text": "PHILOSOPHY",
+"href": "https://www.boydnh.com/philosophy"
+},
+{
+"text": "[image: Logo Reverse.png]",
+"href": "https://www.boydnh.com"
+}
 ]

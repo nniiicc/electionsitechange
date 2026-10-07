@@ -1,9 +1,12 @@
 {
  "description": "Get the latest campaign news, announcements, and more!",
  "final_url": "https://electwaynecockrell.org/news/",
- "paid_for_by": null,
+ "fingerprint": "e34b6f9890c8385fcb2180792add8347d1fc63e5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Elect Wayne Cockrell",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2024"
  ]
 }

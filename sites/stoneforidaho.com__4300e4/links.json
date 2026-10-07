@@ -1,7 +1,26 @@
 [
-"https://facebook.com/stoneforidaho",
-"https://instagram.com/stoneforidaho",
-"https://secure.anedot.com/stone-for-idaho/donate",
-"https://stoneforidaho.com/",
-"https://stoneforidaho.com/priorities"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stone-for-idaho/donate"
+},
+{
+"text": "GRAYSON STONE",
+"href": "https://stoneforidaho.com/"
+},
+{
+"text": "Home",
+"href": "https://stoneforidaho.com/"
+},
+{
+"text": "Priorities",
+"href": "https://stoneforidaho.com/priorities"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/stoneforidaho/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/stoneforidaho/"
+}
 ]

@@ -1,10 +1,10 @@
-Healthcare is a human right
-And our healthcare system is in crisis
-- Advance MiCare, a single-payer, publicly funded plan that covers every Michigander with no deductibles, co-pays, co-insurance, or coverage caps — because no one should skip a doctor's visit because they can't afford the bill.
-- Defend the telemedicine law I authored in 2024, which requires insurers to cover telehealth visits at the same rate as in-person care.
+0 Skip to Content Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Meet Natalie About Natalie Natalie's Record Endorsements Priorities Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Open Menu Close Menu Home Folder: Meet Natalie Back About Natalie Natalie's Record Endorsements Folder: Priorities Back Healthcare Education Environment Workers & Wages Cost of Living Safe Communities Democracy & Accountability Media Events Volunteer Contact Donate Healthcare is a human right And our healthcare system is in crisis Advance MiCare, a single-payer, publicly funded plan that covers every Michigander with no deductibles, co-pays, co-insurance, or coverage caps — because no one should skip a doctor's visit because they can't afford the bill.
+Defend the telemedicine law I authored in 2024 , which requires insurers to cover telehealth visits at the same rate as in-person care.
 Patients and their doctors should decide how care is delivered, not an insurance algorithm.
-- Stop insurers from forcing patients to consult a bot or a telehealth provider just to get a referral for in-person care.
-- Ban AI from making decisions about who gets covered and who doesn't.
-- Close Michigan's Black maternal and infant mortality gap through full funding of the Momnibus package and sustained investment in community-based maternal care.
-- Fix the healthcare workforce shortage through fair wages, training support, student loan forgiveness, and stronger protections against workplace violence.
-- Expand access to mental health and substance use treatment through increased state funding for community-based providers.
+Stop insurers from forcing patients to consult a bot or a telehealth provider just to get a referral for in-person care.
+Ban AI from making decisions about who gets covered and who doesn't.
+Close Michigan's Black maternal and infant mortality gap through full funding of the Momnibus package and sustained investment in community-based maternal care.
+Fix the healthcare workforce shortage through fair wages, training support, student loan forgiveness, and stronger protections against workplace violence.
+Expand access to mental health and substance use treatment through increased state funding for community-based providers.
+"Healthcare is a right, not a luxury.
+I’m not just talking about access—I’m passing laws to make access real and healthcare affordable so that people can get the care they need without going bankrupt." — Natalie Price Paid for by the Committee to Elect Natalie Price for State Senate | 2428 Phillips Ave, Berkley, MI 48072 Privacy Policy

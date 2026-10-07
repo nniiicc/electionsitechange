@@ -1,9 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61578271930122",
-"https://instagram.com/tylerfortexas",
-"https://secure.actblue.com/donate/tyler-smith-2",
-"https://tylerfortx.com/",
-"https://tylerfortx.com/endorsements",
-"https://tylerfortx.com/what-im-fighting-for",
-"https://x.com/tylerfortexas"
+{
+"text": "Endorsements",
+"href": "https://tylerfortx.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61578271930122"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tylerfortexas"
+},
+{
+"text": "Tyler Smith Campaign",
+"href": "https://tylerfortx.com"
+},
+{
+"text": "What I’m Fighting For",
+"href": "https://tylerfortx.com/what-im-fighting-for/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/tylerfortexas"
+},
+{
+"text": "[image]",
+"href": "https://tylerfortx.com"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/tyler-smith-2"
+}
 ]

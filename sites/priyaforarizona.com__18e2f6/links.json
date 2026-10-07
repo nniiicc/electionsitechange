@@ -1,8 +1,30 @@
 [
-"https://facebook.com/priya4az",
-"https://go.azsos.gov/wywd",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://priyaforarizona.com/",
-"https://secure.actblue.com/donate/priya-for-arizona-1",
-"https://x.com/priya4az"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/priya-for-arizona-1"
+},
+{
+"text": "Sign Nomination Petition",
+"href": "https://go.azsos.gov/wywd"
+},
+{
+"text": "Sign Priya's nomination petition to get her on the ballot",
+"href": "https://go.azsos.gov/wywd"
+},
+{
+"text": "[image: Priya for Arizona]",
+"href": "https://priyaforarizona.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/priya4az"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/priya4az"
+}
 ]

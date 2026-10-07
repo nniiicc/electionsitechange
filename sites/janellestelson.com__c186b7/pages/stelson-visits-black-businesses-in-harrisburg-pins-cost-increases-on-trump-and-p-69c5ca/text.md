@@ -1,4 +1,4 @@
-Janelle Stelson made an early campaign stop in Harrisburg on Wednesday, pointing to one of the Democrats’ likely focus points for 2026 — that a Trump-induced economic slowdown could help motivate Black voters that the party has historically struggled to reach, at least in central Pennsylvania.
+Skip to content Meet Janelle Endorsements Priorities News Store Volunteer Meet Janelle Endorsements Priorities News Store Volunteer Volunteer Donate Stelson visits Black businesses in Harrisburg, pins cost increases on Trump and Perry Janelle Stelson made an early campaign stop in Harrisburg on Wednesday, pointing to one of the Democrats’ likely focus points for 2026 — that a Trump-induced economic slowdown could help motivate Black voters that the party has historically struggled to reach, at least in central Pennsylvania.
 Stelson — who has already been endorsed by Democratic leadership in her bid to mount a second challenge against Republican Congressman Scott Perry — invited the media to a series of visits with Black businesses on Wednesday afternoon.
 She was accompanied by Lt.
 Gov.
@@ -18,15 +18,14 @@ While tariffs can help shield certain industries from foreign competition, they 
 Even Perry — a staunch Trump supporter and member of the hardline-conservative Freedom Caucus — acknowledged that Trump’s blanket country-by-country tariff increases have some problems.
 Perry told PennLive at an event in Hershey earlier this year that he was working to lift the President’s tariffs on cocoa beans, which can’t be grown in the U.S., and stand to raise the price of chocolate considerably.
 To Fox’s point, one of the most noticeable effects from the tariffs Trump enacted during his first term was on washing machines, where prices increased even more than the value of the tariffs as the import duties choked supply.
-A handful of jobs were created by the tariffs, a Federal Reserve-University of Chicago study found, but manufacturing pay overall failed to keep up with inflation during Trump’s first stint in office.
+A handful of jobs were created by the tariffs, a Federal Reserve-University of Chicago study found , but manufacturing pay overall failed to keep up with inflation during Trump’s first stint in office.
 There are already indications of this happening a second time around, given that domestic equipment-makers rely on imported parts that are now widely subject to new tariffs.
 Manufacturers’ price indexes for machinery have accelerated since Trump took office, according to federal commerce data.
 Consumer inflation for durable goods like appliances has also begun to tick back up after leveling off post-pandemic.
 The message continued at Stelson and Davis’ next stop, a visit with moving company owner Marc Domingos as he checked out a warehouse space on Cameron Street he’s considering leasing.
 “Everything’s more expensive.
 It’s increasingly hard.
-The cost of labor has been high, but also tape, cardboard, repair costs, everything.”
-Domingos voiced concerns that could be described as what economists refer to as “stagflation,” in which prices continue to rise even though economic demand is stagnating.
+The cost of labor has been high, but also tape, cardboard, repair costs, everything.” Domingos voiced concerns that could be described as what economists refer to as “stagflation,” in which prices continue to rise even though economic demand is stagnating.
 Even though his costs are increasing, Domingos said, families are still saying they’re strapped for cash and aren’t willing to pay for anything superfluous when moving.
 “You can’t pass all this stuff onto the customers because you’ll price yourself out,” Domingos said.
 “Some of the costs I have to eat.
@@ -35,18 +34,33 @@ Davis also made the point several times that Trump’s war on Diversity, Equity,
 Efforts to make sure Black businesses get a fair shot at contracts that are jointly state- and federal-funded, mainly through PennDOT, are now subject to added red tape from Trump’s anti-DEI orders.
 “Congressman Perry and President Trump are making it extremely hard for us to do diverse contracting,” Davis said.
 Asked why she campaigned where she did on Wednesday, Stelson said, “I think it’s a very important constituency, as is the entire city.
-But this is a group that might not always feel like it’s being treated equally and fairly.”
-The city of Harrisburg is overwhelmingly Democratic and provides a crucial mass of votes for the party’s repeated attempts to unseat Perry, whose district also includes parts of Cumberland and York counties.
+But this is a group that might not always feel like it’s being treated equally and fairly.” The city of Harrisburg is overwhelmingly Democratic and provides a crucial mass of votes for the party’s repeated attempts to unseat Perry, whose district also includes parts of Cumberland and York counties.
 Stelson came close in 2024, losing to Perry by a spread of just over one percentage point, or about 5,000 votes.
 The Congressional district overall has been getting more friendly to Democrats.
 But the bulk of this movement has been the result of increasingly liberal political tendencies in white, upper-middle-class areas of the West Shore suburbs.
 While still heavily Democratic, Harrisburg’s precincts with the largest concentrations of non-white voters have seen consistently lower turnout, particularly in mid-term elections.
-In 2024, those precincts also shifted toward Trump, even as the suburban parts of Perry’s district continued to move leftward.
+In 2024, those precincts also shifted toward Trump , even as the suburban parts of Perry’s district continued to move leftward.
 Fox says she’s seen political disillusionment in her community and that it will be a real challenge to motivate those voters.
 “The ones that already don’t vote are more discouraged, because they think things are getting worse,” Fox said, and that neither party has the answer.
 Davis, when asked how Democrats could increase enthusiasm among working-class Black voters, pointed to his and Gov.
 Josh Shapiro’s intensive schedule of public events across a diverse swath of the state.
 “We need a member of Congress who’s going to do that,” Davis said.
-“And I think if folks in our party listen a little bit more than we talk, we’ll be in a much better place.”
-Pennsylvania’s mid-term primary election is May 19, 2026.
-Stelson will face at least one opponent who is also seeking the Democratic nomination to run against Perry, with Dauphin County Commissioner Justin Douglas having recently announced his candidacy.
+“And I think if folks in our party listen a little bit more than we talk, we’ll be in a much better place.” Pennsylvania’s mid-term primary election is May 19, 2026.
+Stelson will face at least one opponent who is also seeking the Democratic nomination to run against Perry, with Dauphin County Commissioner Justin Douglas having recently announced his candidacy .
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Join The Campaign First Name Last Name Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.
+Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store Home Endorsements Priorities Press Inquiries Media Kit Store For more than 30 years Central Pennsylvanians have relied on Janelle to tell the truth, trusted her to shine a light on our problems, and counted on her to get answers and hold the powerful accountable.
+Now, she’s running against Scott Perry to be your champion in Congress.
+Support Janelle’s campaign by making a donation or signing up to volunteer today.
+Volunteer Donate Facebook X-twitter Instagram Contributions can be mailed to: Friends of Janelle Stelson P.O.
+Box 41, Lemoyne, PA 17043 Paid for by Friends of Janelle Stelson Copyright #.
+All Rights Reserved.
+Privacy Policy.
+By providing your cell phone number you consent to receive recurring updates from Friends of Janelle Stelson, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy Policy.

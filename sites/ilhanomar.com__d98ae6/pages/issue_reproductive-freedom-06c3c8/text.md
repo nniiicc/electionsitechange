@@ -1,14 +1,6 @@
-Restore bodily autonomy and reproductive freedom
-Protect Reproductive Freedom
-The government has no place controlling our bodies or bedrooms
-Restore bodily autonomy and reproductive freedom
-All women – no matter where they live or what their economic status – have a right to affordable, quality reproductive healthcare, which includes access to pregnancy-related care, contraceptive medication and abortion services.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Restore bodily autonomy and reproductive freedom Protect Reproductive Freedom The government has no place controlling our bodies or bedrooms Restore bodily autonomy and reproductive freedom All women – no matter where they live or what their economic status – have a right to affordable, quality reproductive healthcare, which includes access to pregnancy-related care, contraceptive medication and abortion services.
 And every woman has the right to make their own decisions about their health.
 In the aftermath of the Supreme Court overturning Roe v.
 Wade, Congress must step up and protect reproductive rights.
-- Codify Roe v.
-Wade into federal law
-- Repeal the Hyde Amendment, which limits access to abortion services for the millions of women enrolled in Medicaid and other federal programs
-- Fight against reinstatement of the Global Gag Rule
-- Protect access to contraception and IVF
-- Expand access to reproductive healthcare
+Codify Roe v.
+Wade into federal law Repeal the Hyde Amendment, which limits access to abortion services for the millions of women enrolled in Medicaid and other federal programs Fight against reinstatement of the Global Gag Rule Protect access to contraception and IVF Expand access to reproductive healthcare Back to all Vision's ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

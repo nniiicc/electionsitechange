@@ -1,17 +1,15 @@
-2025 Legislative Session Highlights
-- 🏡Housing and Affordability HB25-1168 Housing Protections for Victim-Survivors: This bill strengthens housing protections for survivors of gender-based violence by allowing victims to terminate a lease without being held liable for property damage caused by the abuser, prohibiting landlords from assigning debt owed by tenant who is a victim-survivor, and requiring landlords to offer a repayment plan to victim-survivors with late/unpaid rent.
+0 Skip to Content Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Legislation 2026 2025 Newsroom Newsletters 2026 Session 2025 Session English DONATE Open Menu Close Menu Home Folder: Legislation Back 2026 2025 Newsroom Folder: Newsletters Back 2026 Session 2025 Session English Back DONATE 2025 Legislative Session Highlights 🏡Housing and Affordability HB25-1168 Housing Protections for Victim-Survivors: This bill strengthens housing protections for survivors of gender-based violence by allowing victims to terminate a lease without being held liable for property damage caused by the abuser, prohibiting landlords from assigning debt owed by tenant who is a victim-survivor, and requiring landlords to offer a repayment plan to victim-survivors with late/unpaid rent.
 It also expands existing victim protections to include unlawful sexual behavior and stalking.
 HB25-1199 Property Tax Payment Schedule:(A loss turns into a WIN!) I attempted to create a 4-installment-payment option for payers who do not have taxes in escrow.
 Although it was Postponed Indefinitely, County Treasurers came together to create access to private escrow accounts which allow for monthly payments.
-Check it out at: https://www.escrowtaxes.com/
-- 🔒 Gun Safety HB25-1128 Firearm Safe Tax Credit: This bill would have created a tax credit for eligible taxpayers who purchased a gun safe from a federally licensed dealer.
+Check it out at: https://www.escrowtaxes.com/ ‍ ‍ 🔒 Gun Safety HB25-1128 Firearm Safe Tax Credit: This bill would have created a tax credit for eligible taxpayers who purchased a gun safe from a federally licensed dealer.
 It was Postponed Indefinitely due to budget constraints this year.
-SB25-205 Firearm Serial Number Check: This bill creates a process for federally licensed firearms dealers to run a serial number check for a firearm and report to authorities if they find a firearm that has been lost or stolen.
-- ⚖️ Judicial Reform and Criminal Justice HB25-1301 Voice Court Reporter Authority: This bill authorizes voice court reporters to administer oaths and affirmations.
+SB25-205 Firearm Serial Number Check: This bill creates a process for federally licensed firearms dealers to run a serial number check for a firearm and report to authorities if they find a firearm that has been lost or stolen. ⚖️ Judicial Reform and Criminal Justice HB25-1301 Voice Court Reporter Authority: This bill authorizes voice court reporters to administer oaths and affirmations.
 HB25-1114 Defense Review of Tangible Object for Criminal Trial: This bill allows a defense counsel to review tangible objects related to a criminal case.
 SB25-189 Require Jury to Determine Prior Convictions: Under existing law, a person convicted of certain prior offenses may be adjudged a habitual criminal and subject to enhanced sentencing.
 The bill requires a jury to determine whether the defendant is a habitual criminal.
 SB25-075 License to Sell Vehicles Criminal Offense: Current law requires the Motor Vehicle Dealer Board to revoke or deny a license to an applicant convicted of or pleaded no contest to specific crimes during the previous 10 years.
-The bill changes the 10 year period to 3 years to align this with licenses regulated by other State Agencies,
-- 🐾 Wildlife Protections SB25-168 Prevention of Wildlife Trafficking: The bill adds species to the wildlife covered under Colorado's wildlife trafficking laws.
+The bill changes the 10 year period to 3 years to align this with licenses regulated by other State Agencies, 🐾 Wildlife Protections SB25-168 Prevention of Wildlife Trafficking: The bill adds species to the wildlife covered under Colorado's wildlife trafficking laws.
 It establishes penalties for violating wildlife trafficking laws and grants the parks and wildlife commission in the department of natural resources authority to suspend wildlife licenses held by someone convicted of a violation of these laws.
+Read about my 2025 bills here: 2025 Bill Guide Paid for by Cecelia4Colorado Registered Agent: Cecelia Espenoza Contact me!
+Email: Cecelia.Espenoza.house@coleg.gov Office Phone: 303-866-2954 Photographs and Video Links YouTube Video - Meet Cecelia

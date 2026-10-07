@@ -1,22 +1,3 @@
-Information For Voters
-Last day to register to vote in the primary elections:
-4/20/2026
-Last day to register for the general election:
-10/5/2026
-Full election calendar:
-https://elect.ky.gov/Resources/Documents/2026%20Election%20Calendar.pdf
-Register to vote:
-https://vrsws.sos.ky.gov/ovrweb/
-Find your congressional district:
-https://www.census.gov/mycd/
-Learn about the candidates for KY-6:
-https://ballotpedia.org/Kentucky%27s_6th_Congressional_District_election,_2026
-Voter ID requirements in Kentucky:
-https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx
-Information for college students:
-https://elect.ky.gov/Voters/Pages/College-Students.aspx
-Information for voters with disabilities:
-https://elect.ky.gov/Voters/Pages/Voters-with-Disabilities.aspx
-Information for military or overseas voters:
-https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx
-Paid for by Pete Lynch For Kentucky.
+Dr.
+Pete Lynch for Kentucky Paid for by Pete Lynch For Kentucky.
+Home Policies Get Involved About Pete Information for Voters Donate      Information For Voters Last day to register to vote in the primary elections: 4/20/2026 L ast day to register for the general election: 10/5/2026 Full election calendar: https://elect.ky.gov/Resources/Documents/2026%20Election%20Calendar.pdf Register to vote: https://vrsws.sos.ky.gov/ovrweb/ Find your congressional district: https://www.census.gov/mycd/ Learn about the candidates for KY-6: https://ballotpedia.org/Kentucky%27s_6th_Congressional_District_election,_2026 Voter ID requirements in Kentucky: https://elect.ky.gov/Voters/Pages/Absentee-Excused-In-Person.aspx Information for college students: https://elect.ky.gov/Voters/Pages/College-Students.aspx Information for voters with disabilities: https://elect.ky.gov/Voters/Pages/Voters-with-Disabilities.aspx Information for military or overseas voters: https://elect.ky.gov/Voters/Pages/Military-or-Overseas-Voters.aspx Paid for by Pete Lynch For Kentucky.

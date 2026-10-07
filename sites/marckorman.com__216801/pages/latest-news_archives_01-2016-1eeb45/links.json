@@ -1,191 +1,782 @@
 [
-"http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fan-annapolis-agenda-for-2016.html",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fgovernors-budget.html",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fmetro-and-vetoes.html",
-"http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fwmata-metro-work-group-2016-meeting-schedule.html",
-"https://facebook.com/Marc.Korman.Campaign",
-"https://marckorman.com/",
-"https://marckorman.com/1/feed",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/latest-news/an-annapolis-agenda-for-2016",
-"https://marckorman.com/latest-news/archives/01-2014",
-"https://marckorman.com/latest-news/archives/01-2015",
-"https://marckorman.com/latest-news/archives/01-2016",
-"https://marckorman.com/latest-news/archives/01-2017",
-"https://marckorman.com/latest-news/archives/01-2018",
-"https://marckorman.com/latest-news/archives/01-2019",
-"https://marckorman.com/latest-news/archives/01-2020",
-"https://marckorman.com/latest-news/archives/01-2021",
-"https://marckorman.com/latest-news/archives/01-2022",
-"https://marckorman.com/latest-news/archives/01-2023",
-"https://marckorman.com/latest-news/archives/01-2024",
-"https://marckorman.com/latest-news/archives/01-2025",
-"https://marckorman.com/latest-news/archives/01-2026",
-"https://marckorman.com/latest-news/archives/02-2014",
-"https://marckorman.com/latest-news/archives/02-2015",
-"https://marckorman.com/latest-news/archives/02-2016",
-"https://marckorman.com/latest-news/archives/02-2017",
-"https://marckorman.com/latest-news/archives/02-2018",
-"https://marckorman.com/latest-news/archives/02-2019",
-"https://marckorman.com/latest-news/archives/02-2020",
-"https://marckorman.com/latest-news/archives/02-2021",
-"https://marckorman.com/latest-news/archives/02-2022",
-"https://marckorman.com/latest-news/archives/02-2023",
-"https://marckorman.com/latest-news/archives/02-2024",
-"https://marckorman.com/latest-news/archives/02-2025",
-"https://marckorman.com/latest-news/archives/02-2026",
-"https://marckorman.com/latest-news/archives/03-2014",
-"https://marckorman.com/latest-news/archives/03-2015",
-"https://marckorman.com/latest-news/archives/03-2016",
-"https://marckorman.com/latest-news/archives/03-2017",
-"https://marckorman.com/latest-news/archives/03-2018",
-"https://marckorman.com/latest-news/archives/03-2019",
-"https://marckorman.com/latest-news/archives/03-2020",
-"https://marckorman.com/latest-news/archives/03-2021",
-"https://marckorman.com/latest-news/archives/03-2022",
-"https://marckorman.com/latest-news/archives/03-2023",
-"https://marckorman.com/latest-news/archives/03-2024",
-"https://marckorman.com/latest-news/archives/03-2025",
-"https://marckorman.com/latest-news/archives/03-2026",
-"https://marckorman.com/latest-news/archives/04-2015",
-"https://marckorman.com/latest-news/archives/04-2016",
-"https://marckorman.com/latest-news/archives/04-2017",
-"https://marckorman.com/latest-news/archives/04-2018",
-"https://marckorman.com/latest-news/archives/04-2019",
-"https://marckorman.com/latest-news/archives/04-2020",
-"https://marckorman.com/latest-news/archives/04-2021",
-"https://marckorman.com/latest-news/archives/04-2022",
-"https://marckorman.com/latest-news/archives/04-2023",
-"https://marckorman.com/latest-news/archives/04-2024",
-"https://marckorman.com/latest-news/archives/04-2025",
-"https://marckorman.com/latest-news/archives/04-2026",
-"https://marckorman.com/latest-news/archives/05-2013",
-"https://marckorman.com/latest-news/archives/05-2014",
-"https://marckorman.com/latest-news/archives/05-2015",
-"https://marckorman.com/latest-news/archives/05-2016",
-"https://marckorman.com/latest-news/archives/05-2017",
-"https://marckorman.com/latest-news/archives/05-2018",
-"https://marckorman.com/latest-news/archives/05-2019",
-"https://marckorman.com/latest-news/archives/05-2020",
-"https://marckorman.com/latest-news/archives/05-2021",
-"https://marckorman.com/latest-news/archives/05-2022",
-"https://marckorman.com/latest-news/archives/05-2023",
-"https://marckorman.com/latest-news/archives/05-2024",
-"https://marckorman.com/latest-news/archives/05-2025",
-"https://marckorman.com/latest-news/archives/05-2026",
-"https://marckorman.com/latest-news/archives/06-2013",
-"https://marckorman.com/latest-news/archives/06-2014",
-"https://marckorman.com/latest-news/archives/06-2015",
-"https://marckorman.com/latest-news/archives/06-2016",
-"https://marckorman.com/latest-news/archives/06-2017",
-"https://marckorman.com/latest-news/archives/06-2019",
-"https://marckorman.com/latest-news/archives/06-2020",
-"https://marckorman.com/latest-news/archives/06-2021",
-"https://marckorman.com/latest-news/archives/06-2022",
-"https://marckorman.com/latest-news/archives/06-2023",
-"https://marckorman.com/latest-news/archives/06-2024",
-"https://marckorman.com/latest-news/archives/06-2025",
-"https://marckorman.com/latest-news/archives/06-2026",
-"https://marckorman.com/latest-news/archives/07-2013",
-"https://marckorman.com/latest-news/archives/07-2015",
-"https://marckorman.com/latest-news/archives/07-2016",
-"https://marckorman.com/latest-news/archives/07-2017",
-"https://marckorman.com/latest-news/archives/07-2018",
-"https://marckorman.com/latest-news/archives/07-2019",
-"https://marckorman.com/latest-news/archives/07-2020",
-"https://marckorman.com/latest-news/archives/07-2021",
-"https://marckorman.com/latest-news/archives/07-2023",
-"https://marckorman.com/latest-news/archives/07-2024",
-"https://marckorman.com/latest-news/archives/07-2025",
-"https://marckorman.com/latest-news/archives/07-2026",
-"https://marckorman.com/latest-news/archives/08-2013",
-"https://marckorman.com/latest-news/archives/08-2015",
-"https://marckorman.com/latest-news/archives/08-2016",
-"https://marckorman.com/latest-news/archives/08-2017",
-"https://marckorman.com/latest-news/archives/08-2018",
-"https://marckorman.com/latest-news/archives/08-2019",
-"https://marckorman.com/latest-news/archives/08-2020",
-"https://marckorman.com/latest-news/archives/08-2021",
-"https://marckorman.com/latest-news/archives/08-2022",
-"https://marckorman.com/latest-news/archives/08-2023",
-"https://marckorman.com/latest-news/archives/08-2024",
-"https://marckorman.com/latest-news/archives/08-2025",
-"https://marckorman.com/latest-news/archives/09-2013",
-"https://marckorman.com/latest-news/archives/09-2015",
-"https://marckorman.com/latest-news/archives/09-2016",
-"https://marckorman.com/latest-news/archives/09-2017",
-"https://marckorman.com/latest-news/archives/09-2018",
-"https://marckorman.com/latest-news/archives/09-2019",
-"https://marckorman.com/latest-news/archives/09-2020",
-"https://marckorman.com/latest-news/archives/09-2021",
-"https://marckorman.com/latest-news/archives/09-2022",
-"https://marckorman.com/latest-news/archives/09-2023",
-"https://marckorman.com/latest-news/archives/09-2024",
-"https://marckorman.com/latest-news/archives/09-2025",
-"https://marckorman.com/latest-news/archives/10-2014",
-"https://marckorman.com/latest-news/archives/10-2015",
-"https://marckorman.com/latest-news/archives/10-2016",
-"https://marckorman.com/latest-news/archives/10-2017",
-"https://marckorman.com/latest-news/archives/10-2018",
-"https://marckorman.com/latest-news/archives/10-2019",
-"https://marckorman.com/latest-news/archives/10-2020",
-"https://marckorman.com/latest-news/archives/10-2021",
-"https://marckorman.com/latest-news/archives/10-2022",
-"https://marckorman.com/latest-news/archives/10-2023",
-"https://marckorman.com/latest-news/archives/10-2024",
-"https://marckorman.com/latest-news/archives/10-2025",
-"https://marckorman.com/latest-news/archives/11-2014",
-"https://marckorman.com/latest-news/archives/11-2015",
-"https://marckorman.com/latest-news/archives/11-2016",
-"https://marckorman.com/latest-news/archives/11-2017",
-"https://marckorman.com/latest-news/archives/11-2018",
-"https://marckorman.com/latest-news/archives/11-2019",
-"https://marckorman.com/latest-news/archives/11-2020",
-"https://marckorman.com/latest-news/archives/11-2021",
-"https://marckorman.com/latest-news/archives/11-2022",
-"https://marckorman.com/latest-news/archives/11-2023",
-"https://marckorman.com/latest-news/archives/11-2024",
-"https://marckorman.com/latest-news/archives/11-2025",
-"https://marckorman.com/latest-news/archives/12-2014",
-"https://marckorman.com/latest-news/archives/12-2015",
-"https://marckorman.com/latest-news/archives/12-2016",
-"https://marckorman.com/latest-news/archives/12-2017",
-"https://marckorman.com/latest-news/archives/12-2018",
-"https://marckorman.com/latest-news/archives/12-2020",
-"https://marckorman.com/latest-news/archives/12-2021",
-"https://marckorman.com/latest-news/archives/12-2022",
-"https://marckorman.com/latest-news/archives/12-2023",
-"https://marckorman.com/latest-news/archives/12-2024",
-"https://marckorman.com/latest-news/archives/12-2025",
-"https://marckorman.com/latest-news/category/all",
-"https://marckorman.com/latest-news/category/legislative-session-update",
-"https://marckorman.com/latest-news/category/monthly-update",
-"https://marckorman.com/latest-news/category/news-clip",
-"https://marckorman.com/latest-news/governors-budget",
-"https://marckorman.com/latest-news/metro-and-vetoes",
-"https://marckorman.com/latest-news/wmata-metro-work-group-2016-meeting-schedule",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://scribd.com/doc/296168844/SHA-Letter-Re-Storm",
-"https://twitter.com/mkorman",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "All",
+"href": "https://www.marckorman.com/latest-news/category/all"
+},
+{
+"text": "An Annapolis Agenda for 2016",
+"href": "https://www.marckorman.com/latest-news/an-annapolis-agenda-for-2016"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "April 2015",
+"href": "https://www.marckorman.com/latest-news/archives/04-2015"
+},
+{
+"text": "April 2016",
+"href": "https://www.marckorman.com/latest-news/archives/04-2016"
+},
+{
+"text": "April 2017",
+"href": "https://www.marckorman.com/latest-news/archives/04-2017"
+},
+{
+"text": "April 2018",
+"href": "https://www.marckorman.com/latest-news/archives/04-2018"
+},
+{
+"text": "April 2019",
+"href": "https://www.marckorman.com/latest-news/archives/04-2019"
+},
+{
+"text": "April 2020",
+"href": "https://www.marckorman.com/latest-news/archives/04-2020"
+},
+{
+"text": "April 2021",
+"href": "https://www.marckorman.com/latest-news/archives/04-2021"
+},
+{
+"text": "April 2022",
+"href": "https://www.marckorman.com/latest-news/archives/04-2022"
+},
+{
+"text": "April 2023",
+"href": "https://www.marckorman.com/latest-news/archives/04-2023"
+},
+{
+"text": "April 2024",
+"href": "https://www.marckorman.com/latest-news/archives/04-2024"
+},
+{
+"text": "April 2025",
+"href": "https://www.marckorman.com/latest-news/archives/04-2025"
+},
+{
+"text": "April 2026",
+"href": "https://www.marckorman.com/latest-news/archives/04-2026"
+},
+{
+"text": "August 2013",
+"href": "https://www.marckorman.com/latest-news/archives/08-2013"
+},
+{
+"text": "August 2015",
+"href": "https://www.marckorman.com/latest-news/archives/08-2015"
+},
+{
+"text": "August 2016",
+"href": "https://www.marckorman.com/latest-news/archives/08-2016"
+},
+{
+"text": "August 2017",
+"href": "https://www.marckorman.com/latest-news/archives/08-2017"
+},
+{
+"text": "August 2018",
+"href": "https://www.marckorman.com/latest-news/archives/08-2018"
+},
+{
+"text": "August 2019",
+"href": "https://www.marckorman.com/latest-news/archives/08-2019"
+},
+{
+"text": "August 2020",
+"href": "https://www.marckorman.com/latest-news/archives/08-2020"
+},
+{
+"text": "August 2021",
+"href": "https://www.marckorman.com/latest-news/archives/08-2021"
+},
+{
+"text": "August 2022",
+"href": "https://www.marckorman.com/latest-news/archives/08-2022"
+},
+{
+"text": "August 2023",
+"href": "https://www.marckorman.com/latest-news/archives/08-2023"
+},
+{
+"text": "August 2024",
+"href": "https://www.marckorman.com/latest-news/archives/08-2024"
+},
+{
+"text": "August 2025",
+"href": "https://www.marckorman.com/latest-news/archives/08-2025"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "December 2014",
+"href": "https://www.marckorman.com/latest-news/archives/12-2014"
+},
+{
+"text": "December 2015",
+"href": "https://www.marckorman.com/latest-news/archives/12-2015"
+},
+{
+"text": "December 2016",
+"href": "https://www.marckorman.com/latest-news/archives/12-2016"
+},
+{
+"text": "December 2017",
+"href": "https://www.marckorman.com/latest-news/archives/12-2017"
+},
+{
+"text": "December 2018",
+"href": "https://www.marckorman.com/latest-news/archives/12-2018"
+},
+{
+"text": "December 2020",
+"href": "https://www.marckorman.com/latest-news/archives/12-2020"
+},
+{
+"text": "December 2021",
+"href": "https://www.marckorman.com/latest-news/archives/12-2021"
+},
+{
+"text": "December 2022",
+"href": "https://www.marckorman.com/latest-news/archives/12-2022"
+},
+{
+"text": "December 2023",
+"href": "https://www.marckorman.com/latest-news/archives/12-2023"
+},
+{
+"text": "December 2024",
+"href": "https://www.marckorman.com/latest-news/archives/12-2024"
+},
+{
+"text": "December 2025",
+"href": "https://www.marckorman.com/latest-news/archives/12-2025"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "February 2014",
+"href": "https://www.marckorman.com/latest-news/archives/02-2014"
+},
+{
+"text": "February 2015",
+"href": "https://www.marckorman.com/latest-news/archives/02-2015"
+},
+{
+"text": "February 2016",
+"href": "https://www.marckorman.com/latest-news/archives/02-2016"
+},
+{
+"text": "February 2017",
+"href": "https://www.marckorman.com/latest-news/archives/02-2017"
+},
+{
+"text": "February 2018",
+"href": "https://www.marckorman.com/latest-news/archives/02-2018"
+},
+{
+"text": "February 2019",
+"href": "https://www.marckorman.com/latest-news/archives/02-2019"
+},
+{
+"text": "February 2020",
+"href": "https://www.marckorman.com/latest-news/archives/02-2020"
+},
+{
+"text": "February 2021",
+"href": "https://www.marckorman.com/latest-news/archives/02-2021"
+},
+{
+"text": "February 2022",
+"href": "https://www.marckorman.com/latest-news/archives/02-2022"
+},
+{
+"text": "February 2023",
+"href": "https://www.marckorman.com/latest-news/archives/02-2023"
+},
+{
+"text": "February 2024",
+"href": "https://www.marckorman.com/latest-news/archives/02-2024"
+},
+{
+"text": "February 2025",
+"href": "https://www.marckorman.com/latest-news/archives/02-2025"
+},
+{
+"text": "February 2026",
+"href": "https://www.marckorman.com/latest-news/archives/02-2026"
+},
+{
+"text": "Governor's Budget",
+"href": "https://www.marckorman.com/latest-news/governors-budget"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "January 2014",
+"href": "https://www.marckorman.com/latest-news/archives/01-2014"
+},
+{
+"text": "January 2015",
+"href": "https://www.marckorman.com/latest-news/archives/01-2015"
+},
+{
+"text": "January 2016",
+"href": "https://www.marckorman.com/latest-news/archives/01-2016"
+},
+{
+"text": "January 2017",
+"href": "https://www.marckorman.com/latest-news/archives/01-2017"
+},
+{
+"text": "January 2018",
+"href": "https://www.marckorman.com/latest-news/archives/01-2018"
+},
+{
+"text": "January 2019",
+"href": "https://www.marckorman.com/latest-news/archives/01-2019"
+},
+{
+"text": "January 2020",
+"href": "https://www.marckorman.com/latest-news/archives/01-2020"
+},
+{
+"text": "January 2021",
+"href": "https://www.marckorman.com/latest-news/archives/01-2021"
+},
+{
+"text": "January 2022",
+"href": "https://www.marckorman.com/latest-news/archives/01-2022"
+},
+{
+"text": "January 2023",
+"href": "https://www.marckorman.com/latest-news/archives/01-2023"
+},
+{
+"text": "January 2024",
+"href": "https://www.marckorman.com/latest-news/archives/01-2024"
+},
+{
+"text": "January 2025",
+"href": "https://www.marckorman.com/latest-news/archives/01-2025"
+},
+{
+"text": "January 2026",
+"href": "https://www.marckorman.com/latest-news/archives/01-2026"
+},
+{
+"text": "July 2013",
+"href": "https://www.marckorman.com/latest-news/archives/07-2013"
+},
+{
+"text": "July 2015",
+"href": "https://www.marckorman.com/latest-news/archives/07-2015"
+},
+{
+"text": "July 2016",
+"href": "https://www.marckorman.com/latest-news/archives/07-2016"
+},
+{
+"text": "July 2017",
+"href": "https://www.marckorman.com/latest-news/archives/07-2017"
+},
+{
+"text": "July 2018",
+"href": "https://www.marckorman.com/latest-news/archives/07-2018"
+},
+{
+"text": "July 2019",
+"href": "https://www.marckorman.com/latest-news/archives/07-2019"
+},
+{
+"text": "July 2020",
+"href": "https://www.marckorman.com/latest-news/archives/07-2020"
+},
+{
+"text": "July 2021",
+"href": "https://www.marckorman.com/latest-news/archives/07-2021"
+},
+{
+"text": "July 2023",
+"href": "https://www.marckorman.com/latest-news/archives/07-2023"
+},
+{
+"text": "July 2024",
+"href": "https://www.marckorman.com/latest-news/archives/07-2024"
+},
+{
+"text": "July 2025",
+"href": "https://www.marckorman.com/latest-news/archives/07-2025"
+},
+{
+"text": "July 2026",
+"href": "https://www.marckorman.com/latest-news/archives/07-2026"
+},
+{
+"text": "June 2013",
+"href": "https://www.marckorman.com/latest-news/archives/06-2013"
+},
+{
+"text": "June 2014",
+"href": "https://www.marckorman.com/latest-news/archives/06-2014"
+},
+{
+"text": "June 2015",
+"href": "https://www.marckorman.com/latest-news/archives/06-2015"
+},
+{
+"text": "June 2016",
+"href": "https://www.marckorman.com/latest-news/archives/06-2016"
+},
+{
+"text": "June 2017",
+"href": "https://www.marckorman.com/latest-news/archives/06-2017"
+},
+{
+"text": "June 2019",
+"href": "https://www.marckorman.com/latest-news/archives/06-2019"
+},
+{
+"text": "June 2020",
+"href": "https://www.marckorman.com/latest-news/archives/06-2020"
+},
+{
+"text": "June 2021",
+"href": "https://www.marckorman.com/latest-news/archives/06-2021"
+},
+{
+"text": "June 2022",
+"href": "https://www.marckorman.com/latest-news/archives/06-2022"
+},
+{
+"text": "June 2023",
+"href": "https://www.marckorman.com/latest-news/archives/06-2023"
+},
+{
+"text": "June 2024",
+"href": "https://www.marckorman.com/latest-news/archives/06-2024"
+},
+{
+"text": "June 2025",
+"href": "https://www.marckorman.com/latest-news/archives/06-2025"
+},
+{
+"text": "June 2026",
+"href": "https://www.marckorman.com/latest-news/archives/06-2026"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "Legislative Session Update",
+"href": "https://www.marckorman.com/latest-news/category/legislative-session-update"
+},
+{
+"text": "March 2014",
+"href": "https://www.marckorman.com/latest-news/archives/03-2014"
+},
+{
+"text": "March 2015",
+"href": "https://www.marckorman.com/latest-news/archives/03-2015"
+},
+{
+"text": "March 2016",
+"href": "https://www.marckorman.com/latest-news/archives/03-2016"
+},
+{
+"text": "March 2017",
+"href": "https://www.marckorman.com/latest-news/archives/03-2017"
+},
+{
+"text": "March 2018",
+"href": "https://www.marckorman.com/latest-news/archives/03-2018"
+},
+{
+"text": "March 2019",
+"href": "https://www.marckorman.com/latest-news/archives/03-2019"
+},
+{
+"text": "March 2020",
+"href": "https://www.marckorman.com/latest-news/archives/03-2020"
+},
+{
+"text": "March 2021",
+"href": "https://www.marckorman.com/latest-news/archives/03-2021"
+},
+{
+"text": "March 2022",
+"href": "https://www.marckorman.com/latest-news/archives/03-2022"
+},
+{
+"text": "March 2023",
+"href": "https://www.marckorman.com/latest-news/archives/03-2023"
+},
+{
+"text": "March 2024",
+"href": "https://www.marckorman.com/latest-news/archives/03-2024"
+},
+{
+"text": "March 2025",
+"href": "https://www.marckorman.com/latest-news/archives/03-2025"
+},
+{
+"text": "March 2026",
+"href": "https://www.marckorman.com/latest-news/archives/03-2026"
+},
+{
+"text": "May 2013",
+"href": "https://www.marckorman.com/latest-news/archives/05-2013"
+},
+{
+"text": "May 2014",
+"href": "https://www.marckorman.com/latest-news/archives/05-2014"
+},
+{
+"text": "May 2015",
+"href": "https://www.marckorman.com/latest-news/archives/05-2015"
+},
+{
+"text": "May 2016",
+"href": "https://www.marckorman.com/latest-news/archives/05-2016"
+},
+{
+"text": "May 2017",
+"href": "https://www.marckorman.com/latest-news/archives/05-2017"
+},
+{
+"text": "May 2018",
+"href": "https://www.marckorman.com/latest-news/archives/05-2018"
+},
+{
+"text": "May 2019",
+"href": "https://www.marckorman.com/latest-news/archives/05-2019"
+},
+{
+"text": "May 2020",
+"href": "https://www.marckorman.com/latest-news/archives/05-2020"
+},
+{
+"text": "May 2021",
+"href": "https://www.marckorman.com/latest-news/archives/05-2021"
+},
+{
+"text": "May 2022",
+"href": "https://www.marckorman.com/latest-news/archives/05-2022"
+},
+{
+"text": "May 2023",
+"href": "https://www.marckorman.com/latest-news/archives/05-2023"
+},
+{
+"text": "May 2024",
+"href": "https://www.marckorman.com/latest-news/archives/05-2024"
+},
+{
+"text": "May 2025",
+"href": "https://www.marckorman.com/latest-news/archives/05-2025"
+},
+{
+"text": "May 2026",
+"href": "https://www.marckorman.com/latest-news/archives/05-2026"
+},
+{
+"text": "Metro and Vetoes",
+"href": "https://www.marckorman.com/latest-news/metro-and-vetoes"
+},
+{
+"text": "Monthly Update",
+"href": "https://www.marckorman.com/latest-news/category/monthly-update"
+},
+{
+"text": "News Clip",
+"href": "https://www.marckorman.com/latest-news/category/news-clip"
+},
+{
+"text": "November 2014",
+"href": "https://www.marckorman.com/latest-news/archives/11-2014"
+},
+{
+"text": "November 2015",
+"href": "https://www.marckorman.com/latest-news/archives/11-2015"
+},
+{
+"text": "November 2016",
+"href": "https://www.marckorman.com/latest-news/archives/11-2016"
+},
+{
+"text": "November 2017",
+"href": "https://www.marckorman.com/latest-news/archives/11-2017"
+},
+{
+"text": "November 2018",
+"href": "https://www.marckorman.com/latest-news/archives/11-2018"
+},
+{
+"text": "November 2019",
+"href": "https://www.marckorman.com/latest-news/archives/11-2019"
+},
+{
+"text": "November 2020",
+"href": "https://www.marckorman.com/latest-news/archives/11-2020"
+},
+{
+"text": "November 2021",
+"href": "https://www.marckorman.com/latest-news/archives/11-2021"
+},
+{
+"text": "November 2022",
+"href": "https://www.marckorman.com/latest-news/archives/11-2022"
+},
+{
+"text": "November 2023",
+"href": "https://www.marckorman.com/latest-news/archives/11-2023"
+},
+{
+"text": "November 2024",
+"href": "https://www.marckorman.com/latest-news/archives/11-2024"
+},
+{
+"text": "November 2025",
+"href": "https://www.marckorman.com/latest-news/archives/11-2025"
+},
+{
+"text": "October 2014",
+"href": "https://www.marckorman.com/latest-news/archives/10-2014"
+},
+{
+"text": "October 2015",
+"href": "https://www.marckorman.com/latest-news/archives/10-2015"
+},
+{
+"text": "October 2016",
+"href": "https://www.marckorman.com/latest-news/archives/10-2016"
+},
+{
+"text": "October 2017",
+"href": "https://www.marckorman.com/latest-news/archives/10-2017"
+},
+{
+"text": "October 2018",
+"href": "https://www.marckorman.com/latest-news/archives/10-2018"
+},
+{
+"text": "October 2019",
+"href": "https://www.marckorman.com/latest-news/archives/10-2019"
+},
+{
+"text": "October 2020",
+"href": "https://www.marckorman.com/latest-news/archives/10-2020"
+},
+{
+"text": "October 2021",
+"href": "https://www.marckorman.com/latest-news/archives/10-2021"
+},
+{
+"text": "October 2022",
+"href": "https://www.marckorman.com/latest-news/archives/10-2022"
+},
+{
+"text": "October 2023",
+"href": "https://www.marckorman.com/latest-news/archives/10-2023"
+},
+{
+"text": "October 2024",
+"href": "https://www.marckorman.com/latest-news/archives/10-2024"
+},
+{
+"text": "October 2025",
+"href": "https://www.marckorman.com/latest-news/archives/10-2025"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "Read More",
+"href": "https://www.marckorman.com/latest-news/an-annapolis-agenda-for-2016"
+},
+{
+"text": "Read More",
+"href": "https://www.marckorman.com/latest-news/governors-budget"
+},
+{
+"text": "Read More",
+"href": "https://www.marckorman.com/latest-news/metro-and-vetoes"
+},
+{
+"text": "Read More",
+"href": "https://www.marckorman.com/latest-news/wmata-metro-work-group-2016-meeting-schedule"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "September 2013",
+"href": "https://www.marckorman.com/latest-news/archives/09-2013"
+},
+{
+"text": "September 2015",
+"href": "https://www.marckorman.com/latest-news/archives/09-2015"
+},
+{
+"text": "September 2016",
+"href": "https://www.marckorman.com/latest-news/archives/09-2016"
+},
+{
+"text": "September 2017",
+"href": "https://www.marckorman.com/latest-news/archives/09-2017"
+},
+{
+"text": "September 2018",
+"href": "https://www.marckorman.com/latest-news/archives/09-2018"
+},
+{
+"text": "September 2019",
+"href": "https://www.marckorman.com/latest-news/archives/09-2019"
+},
+{
+"text": "September 2020",
+"href": "https://www.marckorman.com/latest-news/archives/09-2020"
+},
+{
+"text": "September 2021",
+"href": "https://www.marckorman.com/latest-news/archives/09-2021"
+},
+{
+"text": "September 2022",
+"href": "https://www.marckorman.com/latest-news/archives/09-2022"
+},
+{
+"text": "September 2023",
+"href": "https://www.marckorman.com/latest-news/archives/09-2023"
+},
+{
+"text": "September 2024",
+"href": "https://www.marckorman.com/latest-news/archives/09-2024"
+},
+{
+"text": "September 2025",
+"href": "https://www.marckorman.com/latest-news/archives/09-2025"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "WMATA-Metro Work Group 2016 Meeting Schedule",
+"href": "https://www.marckorman.com/latest-news/wmata-metro-work-group-2016-meeting-schedule"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[image] RSS Feed",
+"href": "https://www.marckorman.com/1/feed"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fan-annapolis-agenda-for-2016.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fgovernors-budget.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fmetro-and-vetoes.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=http%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2016%2F01%2Fwmata-metro-work-group-2016-meeting-schedule.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "here",
+"href": "https://www.scribd.com/doc/296168844/SHA-Letter-Re-Storm"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+}
 ]

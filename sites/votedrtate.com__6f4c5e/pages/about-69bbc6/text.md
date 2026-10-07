@@ -1,7 +1,5 @@
-Embedded Files
-ABOUT DR.
-TATE
-Dr.
+Search this site Embedded Files Skip to main content Skip to navigation Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate Home Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate More Home About Issues Events Publications Endorsements Media Media Stock The Politicians Creed Contact Donate Translate DONATE ABOUT DR.
+TATE Dr.
 Tiffanie Tate is a veteran officer of the US Navy, retired OBGYN, author, ordained minister of Universal Life Church, radio show co-host, and proud mom.
 Originally from Compton, CA, Dr.
 Tate became familiar with struggle and resilience.
@@ -25,6 +23,4 @@ That did not stop her, she just pivoted and began to write.
 She is now the author of four published books and has been changing the world one book at a time.
 She is currently a co-host on the once weekly NBC morning show “Doctors In The House” every Wednesday from 9am to 10am on AM 1050 / FM 106.5.
 Tiffanie is the proud mom of two spectacular children in college—Nathaniel and Mia.
-She lives in the Inland Empire.
-Page updated
-Report abuse
+She lives in the Inland Empire. © # Dr Tiffanie Tate For State Senate. | Paid For by Tate For Senate 2026 Committee Report abuse Page details Page updated Report abuse

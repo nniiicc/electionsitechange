@@ -1,5 +1,4 @@
-About Vanessa
-I’m running for the Minnesota House of Representatives in District 27A because I believe in hard work, accountability, and making sure working families aren’t left behind.
+0 Skip to Content Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Davenport for Minnesota House 27A Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About Open Menu Close Menu Home Endorsements Campaign Priorities Our District Calendar The Patriot Newspaper About About Vanessa I’m running for the Minnesota House of Representatives in District 27A because I believe in hard work, accountability, and making sure working families aren’t left behind.
 After years of serving in different roles, I want to continue serving my community in a more meaningful and impactful way.
 I was raised by a single mother in Tennessee, and from an early age, I learned the value of responsibility and resilience.
 I worked three jobs while in high school, which shaped my work ethic and my understanding of what it takes to get ahead.
@@ -10,3 +9,4 @@ I also served on active duty in the United States Navy as a Logistics Specialist
 Today, I work as an analyst at a Minnesota electric company while completing my Master’s degree in Engineering, focused on supply chain transportation and logistics.
 Having lived in nine states and visited more than 30 countries, I bring a broad perspective and a deep commitment to community.
 I’m running to protect our communities from unchecked expansion of AI data centers, safeguard and strengthen our electric grid, strengthen accountability in government, and ensure that our economy works for everyone, not just the few.
+Paid for by Davenport for Minnesota House 27A

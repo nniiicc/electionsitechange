@@ -1,15 +1,62 @@
 [
-"https://facebook.com/WixStudio",
-"https://facebook.com/schmidtforiowahouse",
-"https://schmidtforiahouse.com/",
-"https://schmidtforiahouse.com/agriculture",
-"https://schmidtforiahouse.com/contact",
-"https://schmidtforiahouse.com/economy",
-"https://schmidtforiahouse.com/education",
-"https://schmidtforiahouse.com/health",
-"https://schmidtforiahouse.com/privacy-policy",
-"https://schmidtforiahouse.com/religion",
-"https://schmidtforiahouse.com/state-politics",
-"https://secure.actblue.com/donate/schmidtforiowa",
-"https://youtube.com/@WixStudio"
+{
+"text": "Accessibility Statement",
+"href": "https://www.schmidtforiahouse.com"
+},
+{
+"text": "Agriculture",
+"href": "https://www.schmidtforiahouse.com/agriculture"
+},
+{
+"text": "Contact Us",
+"href": "https://www.schmidtforiahouse.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/schmidtforiowa"
+},
+{
+"text": "Economy",
+"href": "https://www.schmidtforiahouse.com/economy"
+},
+{
+"text": "Education",
+"href": "https://www.schmidtforiahouse.com/education"
+},
+{
+"text": "Health",
+"href": "https://www.schmidtforiahouse.com/health"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.schmidtforiahouse.com/privacy-policy"
+},
+{
+"text": "Religion",
+"href": "https://www.schmidtforiahouse.com/religion"
+},
+{
+"text": "State Politics",
+"href": "https://www.schmidtforiahouse.com/state-politics"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.schmidtforiahouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/schmidtforiowahouse"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@WixStudio"
+},
+{
+"text": "[image: eagle_png.png]",
+"href": "https://www.schmidtforiahouse.com"
+}
 ]

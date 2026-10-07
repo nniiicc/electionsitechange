@@ -1,14 +1,54 @@
 [
-"https://ameliaforaz.com/",
-"https://ameliaforaz.com/about-amelia",
-"https://ameliaforaz.com/amelias-priorities",
-"https://ameliaforaz.com/cart",
-"https://ameliaforaz.com/contact",
-"https://ameliaforaz.com/endorsements",
-"https://ameliaforaz.com/privacy-policy-3-1",
-"https://ameliaforaz.com/volunteer-1",
-"https://elections.maricopa.gov/voter-registration/register-to-vote.html",
-"https://facebook.com/AmeliaForAZ",
-"https://instagram.com/drameliaforaz",
-"https://secure.actblue.com/donate/amelia-gallitano-1"
+{
+"text": "0",
+"href": "https://www.ameliaforaz.com/cart"
+},
+{
+"text": "About Amelia",
+"href": "https://www.ameliaforaz.com/about-amelia"
+},
+{
+"text": "Contact",
+"href": "https://www.ameliaforaz.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/amelia-gallitano-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amelia-gallitano-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ameliaforaz.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.ameliaforaz.com/amelias-priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.ameliaforaz.com/privacy-policy-3-1"
+},
+{
+"text": "Register to Vote",
+"href": "https://elections.maricopa.gov/voter-registration/register-to-vote.html#RegisterToVote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ameliaforaz.com/volunteer-1"
+},
+{
+"text": "[image: Amelia For AZ]",
+"href": "https://www.ameliaforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AmeliaForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/drameliaforaz/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Send us a message and please include your name and contact information.",
  "final_url": "https://votejoeemrick.com/connect/",
- "paid_for_by": "Paid for by the Committee to Elect Joe Emrick \u00a9 2026 All Rights Reserved",
+ "fingerprint": "5c195d7f64c359222b5e90c4ae42b334442c595f",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Joe Emrick © # All Rights Reserved",
  "title": "Connect - Joe Emrick for Pennsylvania State Representative",
  "years_mentioned": []
 }

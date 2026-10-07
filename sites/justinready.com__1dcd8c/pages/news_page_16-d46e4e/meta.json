@@ -1,7 +1,9 @@
 {
  "description": "Stay up to date on The Ready Report and see what Senator Justin Ready is doing for Maryland. - Page 16",
  "final_url": "https://www.justinready.com/news/page/16/",
- "paid_for_by": null,
+ "fingerprint": "eeeb0d4880511377e1dbea65923d942eb22f82b7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
  "years_mentioned": [
   "2023"

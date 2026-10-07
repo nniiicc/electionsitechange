@@ -1,33 +1,16 @@
-Homes for All
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Housing Homes for All Housing is a human right.
+Stable housing is essential to a healthy and secure life.
+Whether we rent or own our homes, everyone deserves access to a safe and stable place to live.
 However, the free-market does not meet the needs of working families, while big banks and for-profit developers continue to profit off of working communities.
 From a history of redlining communities to modern gentrification and displacement, residential segregation patterns exist today with communities of color more likely to live in places with higher poverty rates and lower home values.
-- Republicans have threatened to cut billions from the Department of Housing and Urban Development’s public housing and affordable housing programs.
-- The Minneapolis Public Housing Authority (MPHA) has $229 million in deferred maintenance and building costs, yet only receives $10 million a year from the federal government.
-- The U.S. has a nationwide shortage of more than 7.2 million affordable housing units
-- In North Minneapolis, almost half of all renters have experienced an eviction filing in the past three years
-- There are more than 650,000 Americans who are homeless on any given night
-- Mobile homeowners are facing a crisis as their parks are continuously sold to developers, forcing them to fund the expensive move of their home or to abandon their property with nowhere to go
-Vision and policy priorities
-Fully fund quality, affordable housing
-Across the country, communities are experiencing low vacancy rates and a shortage of affordable housing.
+Republicans have threatened to cut billions from the Department of Housing and Urban Development’s public housing and affordable housing programs.
+The Minneapolis Public Housing Authority (MPHA) has $229 million in deferred maintenance and building costs, yet only receives $10 million a year from the federal government.
+The U.S. has a nationwide shortage of more than 7.2 million affordable housing units In North Minneapolis, almost half of all renters have experienced an eviction filing in the past three years There are more than 650,000 Americans who are homeless on any given night Mobile homeowners are facing a crisis as their parks are continuously sold to developers, forcing them to fund the expensive move of their home or to abandon their property with nowhere to go Vision and policy priorities Fully fund quality, affordable housing Across the country, communities are experiencing low vacancy rates and a shortage of affordable housing.
 We cannot simply trust that for-profit developers will invest in housing that is affordable to working people.
 We need to move towards publicly- and cooperatively-owned models of housing for all income-levels.
-- Pass my Homes for All Act to provide an influx of federal housing funding with the goal of jumpstarting the market and produce 8.5 million new units of public housing over the course of 10 years to ensure that no one is denied a healthy home in a livable community
-- Invest $200 billion more in the National Affordable Housing Trust Fund, and expand the Low-Income Housing Tax Credit to ensure a steady and timely addition of affordable rental units
-- Fully fund Section 8 vouchers to help the millions of families languishing on the waitlist of assistance and invest in public housing infrastructure in order to address the outrageous backlog of repair needs
-Establish a national renters’ bill of rights
-We must do more than simply providing more affordable housing.
+Pass my Homes for All Act to provide an influx of federal housing funding with the goal of jumpstarting the market and produce 8.5 million new units of public housing over the course of 10 years to ensure that no one is denied a healthy home in a livable community Invest $200 billion more in the National Affordable Housing Trust Fund, and expand the Low-Income Housing Tax Credit to ensure a steady and timely addition of affordable rental units Fully fund Section 8 vouchers to help the millions of families languishing on the waitlist of assistance and invest in public housing infrastructure in order to address the outrageous backlog of repair needs​ Establish a national renters’ bill of rights We must do more than simply providing more affordable housing.
 We must address the power imbalance between renters and landlords.
 We must empower renters to advocate for their own interests, and protect them against unjust actions by their landlord.
-- I will work to pass a national renters’ bill of rights, including:
-- Just-cause eviction protection
-- Right of tenants to organize into a union
-- Right to live in safe and healthy conditions
-- Relocation assistance for those displaced
-- Non-discrimination protections for LGBTQIA+, undocumented and formerly incarcerated people to access housing
-Support homeownership in working class communities
-Millions have still not recovered from the foreclosure and eviction crisis created by the Great Recession.
+I will work to pass a national renters’ bill of rights, including: Just-cause eviction protection Right of tenants to organize into a union Right to live in safe and healthy conditions Relocation assistance for those displaced Non-discrimination protections for LGBTQIA+, undocumented and formerly incarcerated people to access housing Support homeownership in working class communities Millions have still not recovered from the foreclosure and eviction crisis created by the Great Recession.
 We must provide support to working-class homeowners, and help them stay in their homes.
-- Fully fund the Low Income Heating Assistance Program (LIHEAP) to ensure families can safely stay in their homes during Winter
-- Convert the mortgage interest deduction to a flat fifteen percent tax credit, extending a tax cut to an additional 15 million working and middle-class homeowners
-- Establish policies, including a federal tax credit that incentivizes mobile home park owners to sell their land to the homeowners as a resident-owned co-op or to non-profits so that the land can be maintained as an important source of affordable housing stock
+Fully fund the Low Income Heating Assistance Program (LIHEAP) to ensure families can safely stay in their homes during Winter Convert the mortgage interest deduction to a flat fifteen percent tax credit, extending a tax cut to an additional 15 million working and middle-class homeowners Establish policies, including a federal tax credit that incentivizes mobile home park owners to sell their land to the homeowners as a resident-owned co-op or to non-profits so that the land can be maintained as an important source of affordable housing stock Back to all Vision's ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

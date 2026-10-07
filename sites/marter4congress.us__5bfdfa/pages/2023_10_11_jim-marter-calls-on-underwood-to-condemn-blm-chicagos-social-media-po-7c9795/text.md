@@ -1,4 +1,4 @@
-Jim Marter, Republican for Congress in Illinois’ 14th District has called on his opponent, Democrat Lauren Underwood to join him in condemning a social media post depicting a Hamas parachutist and a Palastinian Flag.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 11 Oct Jim Marter, Republican for Congress in Illinois’ 14th District has called on his opponent, Democrat Lauren Underwood to join him in condemning a social media post depicting a Hamas parachutist and a Palastinian Flag.
 “The civilized world is outraged at what we’re seeing in Israel at the hands of Hamas.
 Terror, kidnapping, murder and war crimes.
 Hamas is an officially designated terrorist group according to the U.S.
@@ -15,4 +15,5 @@ They have since fired thousands of rockets into Israel, killing hundreds.
 Iran, the largest state sponsor of terror is a major source of funding for Hamas and recently received billions in freed up funds from the Biden Administration.
 Jim Marter has long been an outspoken supporter of Israel and their right to defend themselves.
 He will continue to support that right and to call on Lauren Underwood and others to take a strong stand against celebrating violence and anti-Semitism.
-To learn more about Marter’s run for Congress, visit www.Marter4Congress.us.
+To learn more about Marter’s run for Congress, visit www.Marter4Congress.us .
+Share:

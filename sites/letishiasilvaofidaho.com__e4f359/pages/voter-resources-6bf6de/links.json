@@ -1,19 +1,82 @@
 [
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx",
-"https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx",
-"https://facebook.com/profile.php?id=61557453941737",
-"https://instagram.com/letishiasilva",
-"https://letishiasilvaofidaho.com/",
-"https://letishiasilvaofidaho.com/about-us",
-"https://letishiasilvaofidaho.com/cdn-cgi/l/email-protection",
-"https://letishiasilvaofidaho.com/contact-us",
-"https://letishiasilvaofidaho.com/issues",
-"https://letishiasilvaofidaho.com/voter-resources",
-"https://secure.actblue.com/donate/letishia-silva-1",
-"https://secure.actblue.com/donate/letishiasilvaofidaho",
-"https://sos.idaho.gov/elections/forms/absentee_ballot_request.pdf",
-"https://sos.idaho.gov/elections/forms/party_affiliation.pdf",
-"https://twitter.com/SilvaLetishia"
+{
+"text": "About",
+"href": "https://letishiasilvaofidaho.com/about-us"
+},
+{
+"text": "Absentee_ballot_request.pdf (idaho.gov)",
+"href": "https://sos.idaho.gov/elections/forms/absentee_ballot_request.pdf"
+},
+{
+"text": "Consider Donating",
+"href": "https://secure.actblue.com/donate/letishiasilvaofidaho"
+},
+{
+"text": "Contact",
+"href": "https://letishiasilvaofidaho.com/contact-us"
+},
+{
+"text": "Get Involved",
+"href": "https://letishiasilvaofidaho.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://letishiasilvaofidaho.com/"
+},
+{
+"text": "Idaho Political Party Affiliation Form",
+"href": "https://sos.idaho.gov/elections/forms/party_affiliation.pdf"
+},
+{
+"text": "Issues",
+"href": "https://letishiasilvaofidaho.com/issues"
+},
+{
+"text": "Online Voter Registration (idaho.gov)",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ApplicationInstructions.aspx"
+},
+{
+"text": "Request My Absentee Ballot (idaho.gov)",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx"
+},
+{
+"text": "Search for My Voter Record (idaho.gov)",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/VoterSearch.aspx"
+},
+{
+"text": "View My Voting Location (idaho.gov)",
+"href": "https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx"
+},
+{
+"text": "Voter Resources",
+"href": "https://letishiasilvaofidaho.com/voter-resources"
+},
+{
+"text": "[email protected]",
+"href": "mail:letishiaforidaho@gmail.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:letishiaforidaho@gmail.com"
+},
+{
+"text": "[image: Letishia Silva of Idaho]",
+"href": "https://letishiasilvaofidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/letishia-silva-1"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SilvaLetishia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557453941737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/letishiasilva"
+}
 ]

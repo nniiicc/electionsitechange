@@ -1,4 +1,4 @@
-Leticia Gutierrez has spent her life in service to her family, her faith, and her community.
+Skip navigation menu About Priorities News Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez About Priorities News Endorsements Events Volunteer Donate running for Congress - district 9 Leticia Gutierrez Leticia's Story Leticia Gutierrez has spent her life in service to her family, her faith, and her community.
 For 45 years, she has called this district home.
 It's where she went to school, raised her children, and built a career connecting working families with the leaders who make decisions about their lives.
 Her values were forged early.
@@ -24,3 +24,6 @@ Paychecks shrink at the checkout line, bills keep climbing, and the ladder of su
 That isn't a failure of effort.
 It's a rigged system, and Leticia is running to fix it.
 In her Texas, if you put in the work, you get ahead.
+Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder Political Adv.
+Paid for by the Leticia Gutierrez for Congress.
+You need to enable JavaScript to run this app.

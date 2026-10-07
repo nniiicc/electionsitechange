@@ -1,8 +1,46 @@
 [
-"https://nataliefleming.info/",
-"https://nataliefleming.info/about-natalie-m-fleming",
-"https://nataliefleming.info/donate",
-"https://nataliefleming.info/join-the-team",
-"https://nataliefleming.info/just-a-few-issues",
-"https://nataliefleming.info/policy"
+{
+"text": "About Natalie M Fleming",
+"href": "https://nataliefleming.info/about-natalie-m-fleming/"
+},
+{
+"text": "Contribute →",
+"href": "https://nataliefleming.info/donate"
+},
+{
+"text": "Donate",
+"href": "https://nataliefleming.info/donate/"
+},
+{
+"text": "Issues",
+"href": "https://nataliefleming.info/just-a-few-issues/"
+},
+{
+"text": "Join the Team",
+"href": "https://nataliefleming.info/join-the-team/"
+},
+{
+"text": "Natalie Fleming for US Senate",
+"href": "https://nataliefleming.info/"
+},
+{
+"text": "Policy",
+"href": "https://nataliefleming.info/policy/"
+},
+{
+"text": "See the Issues",
+"href": "https://nataliefleming.info/just-a-few-issues"
+},
+{
+"text": "💛 Contribute Every contribution helps us reach more Idahoans and build a campaign that answers to the people, not the parties. Donate Now →",
+"href": "https://nataliefleming.info/donate"
+},
+{
+"text": "📋 The Issues From housing and immigration to economic fairness — read where Natalie stands and why it matters for Idaho’s future. Read the Issues →",
+"href": "https://nataliefleming.info/just-a-few-issues"
+},
+{
+"text": "🤝 Volunteer Join a growing team of Idahoans who believe in common-sense leadership. Every hour makes a difference. Join the Team →",
+"href": "https://nataliefleming.info/join-the-team"
+}
 ]

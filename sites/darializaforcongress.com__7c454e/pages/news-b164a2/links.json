@@ -1,34 +1,138 @@
 [
-"https://act.darializaforcongress.com/events",
-"https://axios.com/2025/11/20/adriano-espaillat-primary-challenge-darializa",
-"https://brooklyn.news12.com/2026/06/05/community-organizer-launches-primary-challenge-in-ny-13-race/6xmVJRGMyrTVg5t8zEf8bc",
-"https://bsky.app/profile/darializaforny.bsky.social",
-"https://cityandstateny.com/politics/2026/04/dsa-targeting-rep-adriano-espaillat-ny-13/413110",
-"https://columbiaspectator.com/city-news/2026/04/26/race-for-rep-adriano-espaillats-congressional-seat-draws-legal-objections-from-multiple-campaigns",
-"https://columbiaspectator.com/news/2026/03/09/mahmoud-khalil-sipa-24-addresses-dozens-at-rally-marking-one-year-since-ice-arrest",
-"https://commondreams.org/opinion/may-day-run-for-congress",
-"https://crainsnewyork.com/politics-policy/on-politics/cny-barkan-adriano-espaillat-primary-race-20260406",
-"https://darializaforcongress.com/",
-"https://darializaforcongress.com/about",
-"https://darializaforcongress.com/contact",
-"https://darializaforcongress.com/endorsements",
-"https://darializaforcongress.com/issues",
-"https://designedtorun.com/",
-"https://eldiariony.com/2026/05/29/mamdani-anuncia-respaldo-a-darializa-avila-para-llegar-al-congreso-hay-que-abolir-a-ice",
-"https://facebook.com/profile.php?id=61583351025252",
-"https://hellgatenyc.com/darializa-avila-chevalier-congress-espaillat-mamdani-endorsement",
-"https://huffpost.com/entry/mamdanis-win-is-inspiring-a-wave-of-left-wing-challengers-in-nyc_n_691e7ba1e4b0d33fcd986732?ncid=NEWSSTAND0001",
-"https://instagram.com/darializaforny",
-"https://michaellange.nyc/p/the-next-commie-corridor",
-"https://ms.now/news/mamdani-endorses-democratic-socialist-challenging-rep-adriano-espaillat",
-"https://ny1.com/nyc/all-boroughs/inside-city-hall/2026/05/29/why-darializa-avila-chevalier-wants-to-challenge-rep--espaillat",
-"https://nytimes.com/2025/11/20/nyregion/justice-democrats-espaillat-avila-chevalier.html?unlocked_article_code=1.2k8.3gt_.Cr7ftGqKibUu&smid=nytcore-ios-share",
-"https://pix11.com/news/advocates-rally-for-the-release-of-a-woman-held-by-ice-for-nearly-a-year",
-"https://prospect.org/2025/11/20/darializa-avila-chevalier-harlem-new-york-city-congress-justice-dems",
-"https://secure.actblue.com/donate/chevalier-web",
-"https://thecity.nyc/2026/01/27/dsas-endorsement-of-darializa-avila-chevalier-poses-test-of-its-clout",
-"https://thecity.nyc/2026/04/20/espaillat-poll-darializa-avila-chevalier-ny13",
-"https://theguardian.com/us-news/2026/apr/15/anti-war-protest-iran",
-"https://x.com/darializaforny",
-"https://youtube.com/watch?v=4nderXD1wMo"
+{
+"text": "About",
+"href": "https://www.darializaforcongress.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.darializaforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chevalier-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darializaforcongress.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://www.darializaforcongress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View More",
+"href": "https://brooklyn.news12.com/2026/06/05/community-organizer-launches-primary-challenge-in-ny-13-race/6xmVJRGMyrTVg5t8zEf8bc"
+},
+{
+"text": "View More",
+"href": "https://eldiariony.com/2026/05/29/mamdani-anuncia-respaldo-a-darializa-avila-para-llegar-al-congreso-hay-que-abolir-a-ice/"
+},
+{
+"text": "View More",
+"href": "https://hellgatenyc.com/darializa-avila-chevalier-congress-espaillat-mamdani-endorsement/"
+},
+{
+"text": "View More",
+"href": "https://ny1.com/nyc/all-boroughs/inside-city-hall/2026/05/29/why-darializa-avila-chevalier-wants-to-challenge-rep--espaillat"
+},
+{
+"text": "View More",
+"href": "https://pix11.com/news/advocates-rally-for-the-release-of-a-woman-held-by-ice-for-nearly-a-year/"
+},
+{
+"text": "View More",
+"href": "https://prospect.org/2025/11/20/darializa-avila-chevalier-harlem-new-york-city-congress-justice-dems/"
+},
+{
+"text": "View More",
+"href": "https://www.axios.com/2025/11/20/adriano-espaillat-primary-challenge-darializa"
+},
+{
+"text": "View More",
+"href": "https://www.cityandstateny.com/politics/2026/04/dsa-targeting-rep-adriano-espaillat-ny-13/413110/"
+},
+{
+"text": "View More",
+"href": "https://www.columbiaspectator.com/city-news/2026/04/26/race-for-rep-adriano-espaillats-congressional-seat-draws-legal-objections-from-multiple-campaigns/"
+},
+{
+"text": "View More",
+"href": "https://www.columbiaspectator.com/news/2026/03/09/mahmoud-khalil-sipa-24-addresses-dozens-at-rally-marking-one-year-since-ice-arrest/"
+},
+{
+"text": "View More",
+"href": "https://www.commondreams.org/opinion/may-day-run-for-congress"
+},
+{
+"text": "View More",
+"href": "https://www.crainsnewyork.com/politics-policy/on-politics/cny-barkan-adriano-espaillat-primary-race-20260406/"
+},
+{
+"text": "View More",
+"href": "https://www.huffpost.com/entry/mamdanis-win-is-inspiring-a-wave-of-left-wing-challengers-in-nyc_n_691e7ba1e4b0d33fcd986732?ncid=NEWSSTAND0001"
+},
+{
+"text": "View More",
+"href": "https://www.michaellange.nyc/p/the-next-commie-corridor"
+},
+{
+"text": "View More",
+"href": "https://www.ms.now/news/mamdani-endorses-democratic-socialist-challenging-rep-adriano-espaillat"
+},
+{
+"text": "View More",
+"href": "https://www.nytimes.com/2025/11/20/nyregion/justice-democrats-espaillat-avila-chevalier.html?unlocked_article_code=1.2k8.3gt_.Cr7ftGqKibUu&smid=nytcore-ios-share"
+},
+{
+"text": "View More",
+"href": "https://www.thecity.nyc/2026/01/27/dsas-endorsement-of-darializa-avila-chevalier-poses-test-of-its-clout/"
+},
+{
+"text": "View More",
+"href": "https://www.thecity.nyc/2026/04/20/espaillat-poll-darializa-avila-chevalier-ny13/"
+},
+{
+"text": "View More",
+"href": "https://www.theguardian.com/us-news/2026/apr/15/anti-war-protest-iran"
+},
+{
+"text": "View More",
+"href": "https://www.youtube.com/watch?v=4nderXD1wMo"
+},
+{
+"text": "Volunteer",
+"href": "https://act.darializaforcongress.com/events"
+},
+{
+"text": "[image: Darializa For Congress logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/darializaforny.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61583351025252"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/darializaforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/darializaforny"
+},
+{
+"text": "info@darializaforcongress.com",
+"href": "mailto:info@darializaforcongress.com"
+}
 ]

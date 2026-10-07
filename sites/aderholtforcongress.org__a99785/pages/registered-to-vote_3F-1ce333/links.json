@@ -1,14 +1,54 @@
 [
-"https://aderholtforcongress.org/",
-"https://aderholtforcongress.org/about-robert",
-"https://aderholtforcongress.org/contact-me",
-"https://aderholtforcongress.org/issues",
-"https://aderholtforcongress.org/press",
-"https://aderholtforcongress.org/registered-to-vote%3F",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://myinfo.alabamavotes.gov/VoterView/PollingPlaceSearch.do",
-"https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do",
-"https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt",
-"https://sos.alabama.gov/alabama-votes",
-"https://sos.alabama.gov/alabama-votes/voter/upcoming-elections"
+{
+"text": "About Robert",
+"href": "https://aderholtforcongress.org/about-robert"
+},
+{
+"text": "Alabama Votes",
+"href": "https://www.sos.alabama.gov/alabama-votes"
+},
+{
+"text": "Check Voter Registration",
+"href": "https://myinfo.alabamavotes.gov/VoterView/RegistrantSearch.do"
+},
+{
+"text": "Contact Me",
+"href": "https://aderholtforcongress.org/contact-me"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/robert-aderholt-for-congress/reelect-robert-aderholt/"
+},
+{
+"text": "Election Calendar",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/upcoming-elections"
+},
+{
+"text": "Home",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "Issues",
+"href": "https://aderholtforcongress.org/issues"
+},
+{
+"text": "Polling Place Information",
+"href": "https://myinfo.alabamavotes.gov/VoterView/PollingPlaceSearch.do"
+},
+{
+"text": "Press",
+"href": "https://aderholtforcongress.org/press"
+},
+{
+"text": "Registered to Vote?",
+"href": "https://aderholtforcongress.org/registered-to-vote%3F"
+},
+{
+"text": "[image]",
+"href": "https://aderholtforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

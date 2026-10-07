@@ -1,7 +1,9 @@
 {
- "description": "Sign up to volunteer for Pete Karas\u2019 campaign for Wisconsin Secretary of State. Join the movement to break the two-party system and help bring more voices and choices to Wisconsin voters.",
+ "description": "Sign up to volunteer for Pete Karas’ campaign for Wisconsin Secretary of State. Join the movement to break the two-party system and help bring more voices and choices to Wisconsin voters.",
  "final_url": "https://petekaras.com/volunteer",
- "paid_for_by": "Paid for by Pete for Wisconsin | vote@petekaras",
+ "fingerprint": "f7ac5a287d347b84c9f583d65f2012d556542db0",
+ "format": 3,
+ "paid_for_by": "Paid for by Pete for Wisconsin",
  "title": "Volunteer",
  "years_mentioned": []
 }

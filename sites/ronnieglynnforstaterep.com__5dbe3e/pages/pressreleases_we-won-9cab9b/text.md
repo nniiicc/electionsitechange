@@ -1,6 +1,6 @@
-We won!
+0 Skip to Content Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate Open Menu Close Menu Open Menu Close Menu Donate Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Home Issues Yard Sign Request Events Press Releases Volunteer 2026 Legislative Priorities Donate We won!
 Thank you for all your support.
-Here is an adaption of my speech from Election Night.
+Nov 9 Written By Ronnie Glynn Here is an adaption of my speech from Election Night.
 By now, you are probably tired of seeing me on your tv, on your phone, in your mailbox, knocking on your door, asking for your money, bugging on the streets.
 So I'm especially appreciative that you stuck with me until the end.
 Let me take a few minutes to thank a few folks that made this possible.
@@ -49,7 +49,7 @@ Experiences like that make you really appreciate a comfortable bed.
 I want to highlight those who walked the path before me and honor their work and sacrifice.
 My candidacy as a black man may make history, but it’s not unprecedented.
 Just 26 years after the abolishment of slavery, Clarksville elected Jesse M Graham, a black teacher as their state representative.
-At a time when the scars of the civil war were still fresh and violence against black folks was on the rise, one man dared to make history 126 years ago.
+At a time when the scars of the civil war were still fresh and violence against black folks was on the rise, one man dared to make history #ago.
 The radical racism of the time did not take that sitting down.
 They removed him from office two weeks after he was seated and held a sham election to replace him with a white man, then very quickly passed a bill to ban black candidates from serving in our legislature.
 What followed, we all know very well, was the hatred and violence of Jim Crow for nearly a century.
@@ -68,5 +68,5 @@ I’m under no illusion that this will be easy, but it’s a task that I’m uni
 Now is not the time for more partisan gridlock, demonizing teachers, or withholding Medicaid expansion because of petty disagreements.
 It’s time to do right by the people, who elected us to do so.
 Thank you so much for the opportunity to represent you, and thank you for the countless hours you’ve spent making our campaign a successful one.
-May God bless you, this great city, and may God bless America. *pause*
-Now, let’s get to work.
+May God bless you, this great city, and may God bless America. *pause* Now, let’s get to work.
+Ronnie Glynn Next Next Trigger Ban ‪ (931) 551-2397 ‬ | info@ronnieglynnforstaterep.com What Voters Need to Know

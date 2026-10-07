@@ -1,9 +1,6 @@
-top of page
-Jim O Day
-State Representative for the 14th Worcester district of Massachusetts
-About
-It has been the honor of my life to serve the people of Worcester & West Boylston as State Representative of the 14th Worcester District for nearly 20 years.
-My work is guided by a simple principle: I believe that government should work for the people — especially families, seniors, and persons with disabilities.
-Throughout my years in the legislature, I have sponsored and supported legislation to expand access to affordable health care, protect workers, and improve public education.
-I remain committed to pragmatic, community-centered governance that delivers results for residents of Worcester County and the Commonwealth at large.
-bottom of page
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+About It has been the honor of my life to serve the people of Worcester & West Boylston as State Representative of the 14th Worcester District for nearly 20 years. ​ My work is guided by a simple principle: I believe that government should work for the people — especially families, seniors, and persons with disabilities. ​​​ Throughout my years in the legislature, I have sponsored and supported legislation to expand access to affordable health care, protect workers, and improve public education. ​ I remain committed to pragmatic, community-centered governance that delivers results for residents of Worcester County and the Commonwealth at large.
+Learn more about Jim, here!
+About Me SERVING YOU BILLS & HEARINGS JIM'S LEGISLATION THE LEGISLATIVE PROCESS CONSTITUENT SERVICES INVITE JIM TO YOUR EVENT stay connected Subscribe to our newsletter for updates from Jim Subscribe Thanks!
+Message sent.
+CONTACT US State House, Room 540 Boston, MA 617-722-2090 Follow JIM bottom of page

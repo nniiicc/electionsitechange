@@ -1,7 +1,9 @@
 {
  "description": "Gala on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/Gala",
- "paid_for_by": null,
+ "fingerprint": "c63a3dda0c09e14b51007622214283d2a28019e1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Gala | Maxwell for Congress",
  "years_mentioned": []
 }

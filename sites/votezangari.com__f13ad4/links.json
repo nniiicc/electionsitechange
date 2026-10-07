@@ -1,18 +1,74 @@
 [
-"http://pahousegop.com/Display/SiteFiles/109/CurrentMunicipalities/District%20171_2022.pdf",
-"https://facebook.com/votezangari",
-"https://instagram.com/votezangari",
-"https://secure.actblue.com/donate/john-zangari-1",
-"https://spotlightpa.org/news/2025/09/goose-day-lewistown-michaelmas-groundhog-day-pennsylvania-local",
-"https://statecollege.com/articles/politics/benninghoff-reelected-in-171st-state-house-district",
-"https://tiktok.com/@votezangari",
-"https://votezangari.com/",
-"https://votezangari.com/cdn-cgi/l/email-protection",
-"https://votezangari.com/contact-us",
-"https://votezangari.com/fundraiser",
-"https://votezangari.com/news",
-"https://votezangari.com/policy",
-"https://votezangari.com/volunteer-signup",
-"https://votezangari.eo.page/",
-"https://youtube.com/@votezangari"
+{
+"text": "CLICK HERE TO DONATE",
+"href": "https://secure.actblue.com/donate/john-zangari-1"
+},
+{
+"text": "Contact Us",
+"href": "https://votezangari.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-zangari-1"
+},
+{
+"text": "Fundraiser",
+"href": "https://votezangari.com/fundraiser/"
+},
+{
+"text": "Home",
+"href": "https://votezangari.com/"
+},
+{
+"text": "John in the News",
+"href": "https://votezangari.com/news/"
+},
+{
+"text": "John on Policy",
+"href": "https://votezangari.com/policy/"
+},
+{
+"text": "Newsletter Signup",
+"href": "https://votezangari.eo.page/"
+},
+{
+"text": "Volunteer Signup",
+"href": "https://votezangari.com/volunteer-signup/"
+},
+{
+"text": "[email protected]",
+"href": "https://votezangari.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://votezangari.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.pahousegop.com/Display/SiteFiles/109/CurrentMunicipalities/District%20171_2022.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votezangari"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votezangari/"
+},
+{
+"text": "[no text]",
+"href": "https://www.spotlightpa.org/news/2025/09/goose-day-lewistown-michaelmas-groundhog-day-pennsylvania-local/"
+},
+{
+"text": "[no text]",
+"href": "https://www.statecollege.com/articles/politics/benninghoff-reelected-in-171st-state-house-district/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votezangari"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votezangari"
+}
 ]

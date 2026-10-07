@@ -1,13 +1,66 @@
 [
-"https://electlizbishop.com/2024/04/17/press-release",
-"https://electlizbishop.com/2024/05/01/newsletter-april-30-2024",
-"https://electlizbishop.com/2026/04/19/newsletter-april-18-2026",
-"https://electlizbishop.com/2026/04/19/tax-day-release",
-"https://electlizbishop.com/about",
-"https://electlizbishop.com/donate",
-"https://electlizbishop.com/home",
-"https://electlizbishop.com/internship-program",
-"https://electlizbishop.com/news",
-"https://electlizbishop.com/privacy-policy",
-"https://electlizbishop.com/volunteer"
+{
+"text": "About",
+"href": "https://electlizbishop.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://electlizbishop.com/donate/"
+},
+{
+"text": "Internship Program",
+"href": "https://electlizbishop.com/internship-program/"
+},
+{
+"text": "News",
+"href": "https://electlizbishop.com/news/"
+},
+{
+"text": "Newsletter April 18, 2026",
+"href": "https://electlizbishop.com/2026/04/19/newsletter-april-18-2026/"
+},
+{
+"text": "Newsletter April 30, 2024",
+"href": "https://electlizbishop.com/2024/05/01/newsletter-april-30-2024/"
+},
+{
+"text": "Press Release: Starved Rock",
+"href": "https://electlizbishop.com/2024/04/17/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electlizbishop.com/privacy-policy/"
+},
+{
+"text": "Read More",
+"href": "https://electlizbishop.com/2024/04/17/press-release/"
+},
+{
+"text": "Read More",
+"href": "https://electlizbishop.com/2024/05/01/newsletter-april-30-2024/"
+},
+{
+"text": "Read More",
+"href": "https://electlizbishop.com/2026/04/19/newsletter-april-18-2026/"
+},
+{
+"text": "Read More",
+"href": "https://electlizbishop.com/2026/04/19/tax-day-release/"
+},
+{
+"text": "Tax Day Release",
+"href": "https://electlizbishop.com/2026/04/19/tax-day-release/"
+},
+{
+"text": "Volunteer",
+"href": "https://electlizbishop.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://electlizbishop.com/home/"
+},
+{
+"text": "liz@electlizbishop.com",
+"href": "mailto:liz@electlizbishop.com"
+}
 ]

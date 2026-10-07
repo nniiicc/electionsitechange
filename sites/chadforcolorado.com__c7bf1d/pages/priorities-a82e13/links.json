@@ -1,17 +1,102 @@
 [
-"http://secure.actblue.com/donate/chadclifford",
-"https://chadforcolorado.com/about",
-"https://chadforcolorado.com/contact",
-"https://chadforcolorado.com/contribute",
-"https://chadforcolorado.com/creatingleaderspac",
-"https://chadforcolorado.com/endorsements",
-"https://chadforcolorado.com/events-1",
-"https://chadforcolorado.com/get-involved",
-"https://chadforcolorado.com/meet-chad",
-"https://chadforcolorado.com/newsletters",
-"https://chadforcolorado.com/priorities",
-"https://chadforcolorado.com/subscribe",
-"https://chadforcolorado.com/team",
-"https://facebook.com/chadforcolorado",
-"https://twitter.com/chadclifford"
+{
+"text": "Contact",
+"href": "https://www.chadforcolorado.com/contact"
+},
+{
+"text": "Creating Leaders PAC",
+"href": "https://www.chadforcolorado.com/creatingleaderspac"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/chadclifford"
+},
+{
+"text": "District 37",
+"href": "https://www.chadforcolorado.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.chadforcolorado.com/contribute"
+},
+{
+"text": "Education",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Endorsements",
+"href": "https://www.chadforcolorado.com/endorsements"
+},
+{
+"text": "Enviroment",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Events",
+"href": "https://www.chadforcolorado.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.chadforcolorado.com/get-involved"
+},
+{
+"text": "Good Government",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Healthcare",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Housing",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Human Rights & Social Justice",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "LEARN MORE ABOUT CHAD",
+"href": "https://www.chadforcolorado.com/endorsements"
+},
+{
+"text": "Meet Chad",
+"href": "https://www.chadforcolorado.com/meet-chad"
+},
+{
+"text": "Newsletters",
+"href": "https://www.chadforcolorado.com/newsletters"
+},
+{
+"text": "Priorities",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "Public Safety",
+"href": "https://www.chadforcolorado.com/priorities"
+},
+{
+"text": "SEE ENDORSEMENTS",
+"href": "https://www.chadforcolorado.com/endorsements"
+},
+{
+"text": "Subscribe",
+"href": "https://www.chadforcolorado.com/subscribe"
+},
+{
+"text": "Team",
+"href": "https://www.chadforcolorado.com/team"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/chadforcolorado"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/chadclifford"
+},
+{
+"text": "[image]",
+"href": "https://www.chadforcolorado.com/meet-chad"
+}
 ]

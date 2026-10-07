@@ -1,4 +1,5 @@
-The MVP of the 2023 legislative session is Senator Scott Herndon (R-Sagle).
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page 2023 Legislative Session MVP Apr 1, 2023 | Breaking News , Legislative News The MVP of the 2023 legislative session is Senator Scott Herndon (R-Sagle) .
 I first met Sen.
 Herndon at the 2022 Idaho Republican Convention in Twin Falls.
 He was seriously impressive is his floor debates regarding the sanctity of life in the state party platform.
@@ -14,6 +15,6 @@ Tanner) with regards to cutting budgets and using the power of the purse to stop
 His floor debates were always fantastic as he calmly and logically explained the reasonableness of his position and the absurdity of opposing it.
 Unlike many political figures who simply repeat conservative talking points, Scott has a deep understanding of conservative principles.
 I believe Scott will be a force in Idaho politics for as long as he wants to be.
-We can only hope that he spends a few more years doing this great work before, like Cincinattus and George Washington before him, the call of the quiet life back home becomes too irresistible.
-************
-Read more from Brian Almon at his Substack.
+We can only hope that he spends a few more years doing this great work before, like Cincinattus and George Washington before him, the call of the quiet life back home becomes too irresistible. ************ Read more from Brian Almon at his Substack .
+Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

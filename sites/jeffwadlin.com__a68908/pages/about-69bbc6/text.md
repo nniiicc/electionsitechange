@@ -1,5 +1,4 @@
-About Jeff Wadlin
-Christian.
+0 Skip to Content About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE Open Menu Close Menu About Issues In the News Volunteer Events Shop Merch Contact DONATE About Jeff Wadlin Christian.
 Husband.
 Father.
 Engineer.
@@ -52,3 +51,4 @@ I chose Arkansas.
 Now I’m asking Arkansas to choose me.
 Let’s get to work.
 United we stand.
+Jeff Wadlin for Arkansas ALL RIGHTS RESERVED PAID FOR AND AUTHORIZED BY WADLIN FOR SENATE 2026 Privacy Policy Terms of Service Wadlin for US Senate Bentonville, AR 72712 479.370.5710 info@jeffwadlin.com

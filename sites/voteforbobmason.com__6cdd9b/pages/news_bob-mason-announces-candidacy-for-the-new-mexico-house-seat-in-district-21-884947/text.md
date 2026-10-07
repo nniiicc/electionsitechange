@@ -1,5 +1,1 @@
-15
-Dec
-Monday, 8:00 AM · 2025
-Paid for by the Committee to Elect Bob Mason
-Powered by CampaignPartner.com - Political Websites
+Home Meet Bob Issues News Volunteer Contribute Contact Yard Signs News / Bob Mason Announces Candidacy for the New Mexico House Seat in District 21 15 Dec Monday, 8:00 AM · 2025 Bob Mason Announces Candidacy for the New Mexico House Seat in District 21 Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

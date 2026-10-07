@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website and digital hub for Jim Duffie's U.S. House of Representatives campaign in Georgia's 4th District.",
  "final_url": "https://jimduffie.com/",
- "paid_for_by": null,
+ "fingerprint": "e1a13f3eb01b29d17b3dd9fcad02f3cb7d974e35",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jim Duffie for Congress",
  "years_mentioned": []
 }

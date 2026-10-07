@@ -1,13 +1,78 @@
 [
-"http://eepurl.com/hQUvLr",
-"http://facebook.com/peopleforpam",
-"http://instagram.com/peopleforpam",
-"http://twitter.com/peopleforpam",
-"https://forms.gle/Dw9ofM3YwwC8uzJP6",
-"https://peopleforpam.com/",
-"https://peopleforpam.com/meet-pam",
-"https://peopleforpam.com/priorities",
-"https://peopleforpam.com/updates/categories/events",
-"https://peopleforpam.com/voter-information",
-"https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+{
+"text": "Contact",
+"href": "mailto:pam@peopleforpam.com?subject=Hi+Pam%21+I%27m+contacting+you+from+your+website."
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+},
+{
+"text": "Email Updates from Pam",
+"href": "http://eepurl.com/hQUvLr"
+},
+{
+"text": "Events",
+"href": "https://www.peopleforpam.com/updates/categories/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Home",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Read More",
+"href": "https://www.peopleforpam.com/meet-pam"
+},
+{
+"text": "Read More",
+"href": "https://www.peopleforpam.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/Dw9ofM3YwwC8uzJP6"
+},
+{
+"text": "Voter Information",
+"href": "https://www.peopleforpam.com/voter-information"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/peopleforpam"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/peopleforpam"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/peopleforpam"
+},
+{
+"text": "[no text]",
+"href": "http://eepurl.com/hQUvLr"
+},
+{
+"text": "[no text]",
+"href": "https://forms.gle/Dw9ofM3YwwC8uzJP6"
+},
+{
+"text": "[no text]",
+"href": "https://www.peopleforpam.com/updates/categories/events"
+},
+{
+"text": "[no text]",
+"href": "https://www.peopleforpam.com/voter-information"
+}
 ]

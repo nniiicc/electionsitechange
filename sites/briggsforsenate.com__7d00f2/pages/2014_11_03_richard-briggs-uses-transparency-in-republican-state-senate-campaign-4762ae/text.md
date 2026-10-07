@@ -1,6 +1,4 @@
-Richard Briggs uses transparency in republican state Senate campaign
-November 3, 2014
-Briggs never planned on getting involved in politics.
+Home About Issues Endorsements News Volunteer Donate Richard Briggs uses transparency in republican state Senate campaign November 3, 2014 Briggs never planned on getting involved in politics.
 It was as a practicing heart surgeon in Knoxville in 2007, frustrated by what he described as dishonest and corrupt government, that he first decided to step up.
 He was encouraged by fellow members of Leadership Knoxville, a servant-leadership program, who believed it was time for community members with no political ambitions to take a stand.
 That spirit of reluctant but principled service is precisely what makes Dr.
@@ -17,4 +15,4 @@ He brought all of that real-world experience to his vision for Tennessee, center
 Perhaps most telling of all is how Dr.
 Briggs campaigned: he personally knocked on the doors of 50,000 Knoxville residents to get to know the people he would represent and understand their individual concerns.
 That kind of shoe-leather dedication speaks to a man who doesn’t just talk about serving his community, but he shows up for it, one door at a time.
-Credit: The Daily Beacon
+Credit: The Daily Beacon Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

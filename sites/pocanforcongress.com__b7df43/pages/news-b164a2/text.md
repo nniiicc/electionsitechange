@@ -1,24 +1,15 @@
-Latest News
-Pocan to Reject Corporate PAC Dollars
-WASHINGTON, DC – U.S.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Latest News Pocan to Reject Corporate PAC Dollars November 29, 2018 WASHINGTON, DC – U.S.
 Representative Mark Pocan (WI-02) today announced that he is no longer accepting donations from corporate political action committees to fund his re-election campaign.
 Pocan joins 36 newly elected House Democrats and 5 returning House Democrats in rejecting corporate PAC funding.
-Nearly ten percent of the House of Representatives now no longer […]
-Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad
-MADISON, WI – U.S.
+Nearly ten percent of the House of Representatives now no longer […] https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png 0 0 Craig Trost https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png Craig Trost 2018-11-29 13:10:34 2018-11-29 13:11:48 Pocan to Reject Corporate PAC Dollars Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad September 24, 2018 MADISON, WI – U.S.
 Representative Mark Pocan (WI-02) today called on Bryan Steil to demand Paul Ryan’s Super PAC take down its latest ad.
 The ad features Randy Bryce’s brother and has opened a family feud on the matter, with Bryce’s mother calling for Ryan’s super PAC to take the ad off the air.
-“Wisconsinites deserve leaders who […]
-Rep.
-Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other
-Over the next month, Democratic candidates for governor will make their closing arguments to Wisconsin voters, working to set themselves apart from the rest of the field and earn a spot on the general election ballot.
+“Wisconsinites deserve leaders who […] https://pocanforcongress.com/wp-content/uploads/2018/10/Palermo-strike-1.jpg 640 960 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-09-24 18:17:41 2018-10-07 18:20:08 Pocan Calls on Steil to Demand Ryan Super PAC Take Down Divisive Ad Rep.
+Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other July 17, 2018 Over the next month, Democratic candidates for governor will make their closing arguments to Wisconsin voters, working to set themselves apart from the rest of the field and earn a spot on the general election ballot.
 With eight candidates still vying for the nomination, voters have strong choices to defeat Gov.
-Scott Walker in November. […]
-Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday
-MADISON – Congressman Mark Pocan & candidate Randy Bryce will hold a public town hall forum Saturday, April 7th at 1pm at the UAW Building.
+Scott Walker in November. […] https://pocanforcongress.com/wp-content/uploads/2018/07/5b47f618bfe8d.image_.jpg 900 1200 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-07-17 18:08:33 2018-10-07 18:10:26 Rep.
+Mark Pocan: Dem gubernatorial candidates must focus on Walker, not each other Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday April 5, 2018 MADISON – Congressman Mark Pocan & candidate Randy Bryce will hold a public town hall forum Saturday, April 7th at 1pm at the UAW Building.
 The event is being held in conjunction with students with March For Our Lives.
 The event is listed on www.TownHallProject.com and is open to the media and the public.
-While […]
-Congressman Mark Pocan to hold Town Hall Thursday
-MADISON – Congressman Mark Pocan will hold a town hall forum this week to discuss the hot topics of the day and preview the upcoming 2018 elections.
-This is an opportunity for people to discuss both public policy and campaign strategy with their Congressman, as we get ready for next year’s state and federal elections. […]
+While […] https://pocanforcongress.com/wp-content/uploads/2018/10/Sauk-Dems-brunch-1.jpg 3456 4608 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-04-05 18:16:06 2018-10-07 18:23:06 Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday Congressman Mark Pocan to hold Town Hall Thursday August 22, 2017 MADISON – Congressman Mark Pocan will hold a town hall forum this week to discuss the hot topics of the day and preview the upcoming 2018 elections.
+This is an opportunity for people to discuss both public policy and campaign strategy with their Congressman, as we get ready for next year’s state and federal elections. […] https://pocanforcongress.com/wp-content/uploads/2018/10/Mark-and-Phil-on-Election-Night.jpg 386 515 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2017-08-22 18:19:21 2018-10-07 18:23:09 Congressman Mark Pocan to hold Town Hall Thursday Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

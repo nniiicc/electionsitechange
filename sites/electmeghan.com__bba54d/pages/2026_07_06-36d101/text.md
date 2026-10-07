@@ -1,5 +1,3 @@
-The intent of the proposed law is to enable the public to access and analyze data and advocate for safety improvements.
-See more here:
-Rhode Island Legislators Pass Bill To Make Crash Data Public
-Across Rhode Island, June 11, 2026
-© Paid for by Friends of Meghan Kallman 2023
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Day: July 6, 2026 Homepage 06 July 2026 By Meghan Kallman July 6, 2026 Senator Kallman’s Public Crash Data Bill Becomes Law The intent of the proposed law is to enable the public to access and analyze data and advocate for safety improvements.
+See more here: Rhode Island Legislators Pass Bill To Make Crash Data Public Across Rhode Island, June 11, 2026 Search Search for: Search July 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jan <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

@@ -1,7 +1,9 @@
-NFIB, the state’s leading small business association, announced that its Michigan PAC endorsed Joe Moss for Michigan House District 89.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer NFIB MI PAC Endorses Joe Moss for State Legislature NFIB MI PAC Endorses Joe Moss for State Legislature 2026-08-20T15:46:19-04:00 August 20th, 2026 | NFIB , the state’s leading small business association, announced that its Michigan PAC endorsed Joe Moss for Michigan House District 89.
 “The onslaught of anti-small business policies proposed in the legislature over the past several years has made electing pro-small business candidates crucial each and every election, and this year is no different,” said Amanda Fisher, NFIB Michigan State Director.
 “Small businesses employ half of all employees in Michigan and are integral to the state’s economic health.
 It is imperative that we have lawmakers who are laser focused on rolling back harmful regulations and mandates on small businesses and reigning in out-of-control government expansion and spending to ensure Main Street survives,” continued Fisher.
-“The NFIB Michigan PAC is proud to endorse these candidates who will fight for Michigan small business owners in the legislature and ensure their right to own, operate, and grow their businesses.”
-As a small business owner, Joe Moss understands the impact small business owners have on our state and country.
+“The NFIB Michigan PAC is proud to endorse these candidates who will fight for Michigan small business owners in the legislature and ensure their right to own, operate, and grow their businesses.” As a small business owner, Joe Moss understands the impact small business owners have on our state and country.
 It is important to elect proven leaders who will fight to reduce regulation, reduce taxes, eliminate mandates, and prioritize free market principles.
+Share this page Facebook X Reddit LinkedIn WhatsApp Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

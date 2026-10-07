@@ -1,7 +1,9 @@
 {
  "description": "Explore the 43rd Assembly District in Wisconsin with Brienne Brown, featuring maps, towns, and community insights.",
  "final_url": "https://brienneforwisconsin.com/our-district",
- "paid_for_by": null,
+ "fingerprint": "c0085246b9374f17b77515b67b49f6f4d64b7cb7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Our District",
  "years_mentioned": []
 }

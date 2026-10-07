@@ -1,12 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Strongsville+Canvass+Launch+with+Megan+Coy+and+Courtney+Scheff&dates=20261031T140000Z%2F20261031T150000Z&location=18700+Westwood+Drive%2C+Strongsville%2C+Ohio%2C+44136%2C+United+States",
-"http://maps.google.com/?q=18700+Westwood+Drive+Strongsville%2C+Ohio%2C+44136+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/olmsted-falls-canvass-launch-2",
-"https://coyforohio.com/events/strongsville-canvass-launch?format=ical",
-"https://coyforohio.com/support",
-"https://docs.google.com/forms/d/e/1FAIpQLSf6kYIYa6G-UpYVtLlY9Ui2DarpKfXSLl9rjsqBm5KQeHq91Q/viewform?usp=dialog"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=18700+westwood+drive+strongsville%2C+ohio%2C+44136+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Strongsville+Canvass+Launch+with+Megan+Coy+and+Courtney+Scheff&dates=20261031T140000Z%2F20261031T150000Z&location=18700+Westwood+Drive%2C+Strongsville%2C+Ohio%2C+44136%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/strongsville-canvass-launch?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next November 3 Support Megan Coy on Election Day!",
+"href": "https://www.coyforohio.com/events/support-megan-coy-on-election-day"
+},
+{
+"text": "Previous Previous October 24 Olmsted Falls Canvass Launch",
+"href": "https://www.coyforohio.com/events/olmsted-falls-canvass-launch-2"
+},
+{
+"text": "Sign up here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf6kYIYa6G-UpYVtLlY9Ui2DarpKfXSLl9rjsqBm5KQeHq91Q/viewform?usp=dialog"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+}
 ]

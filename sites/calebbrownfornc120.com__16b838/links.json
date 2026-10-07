@@ -1,12 +1,70 @@
 [
-"https://calebbrownfornc120.com/",
-"https://calebbrownfornc120.com/issues",
-"https://calebbrownfornc120.com/meet-caleb",
-"https://calebbrownfornc120.com/volunteer",
-"https://secure.actblue.com/donate/caleb-brown-1",
-"https://secure.actblue.com/donate/caleb-brown-1?amount=10",
-"https://secure.actblue.com/donate/caleb-brown-1?amount=100",
-"https://secure.actblue.com/donate/caleb-brown-1?amount=25",
-"https://secure.actblue.com/donate/caleb-brown-1?amount=250",
-"https://secure.actblue.com/donate/caleb-brown-1?amount=5"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/?amount=5"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/"
+},
+{
+"text": "Issues",
+"href": "https://calebbrownfornc120.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://calebbrownfornc120.com/issues#healthcare"
+},
+{
+"text": "Learn More",
+"href": "https://calebbrownfornc120.com/issues#household-finances"
+},
+{
+"text": "Learn More",
+"href": "https://calebbrownfornc120.com/issues#public-education"
+},
+{
+"text": "Meet Caleb",
+"href": "https://calebbrownfornc120.com/meet-caleb"
+},
+{
+"text": "Meet Caleb",
+"href": "https://calebbrownfornc120.com/meet-caleb/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/caleb-brown-1/"
+},
+{
+"text": "Sign Up",
+"href": "https://calebbrownfornc120.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://calebbrownfornc120.com/volunteer/"
+},
+{
+"text": "Why I'm Running",
+"href": "https://calebbrownfornc120.com/issues"
+},
+{
+"text": "[image: Caleb “Coach” Brown for NC 120 logo.]",
+"href": "https://calebbrownfornc120.com/"
+}
 ]

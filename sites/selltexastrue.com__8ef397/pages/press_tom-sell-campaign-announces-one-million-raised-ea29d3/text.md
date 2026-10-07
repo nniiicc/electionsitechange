@@ -1,7 +1,8 @@
-Tom Sell Campaign Announces $1 Million Raised, Demonstrating Strong Support Across Texas’ 19th District
-Lubbock, TX — Congressional candidate Tom Sell today announced that his campaign has officially surpassed $1 million raised, marking a major milestone fueled by strong grassroots enthusiasm and support from across Texas’ 19th Congressional District.
+Home About Press Issues Endorsements Volunteer Donate Early Voting: October 19-30 Election Day: November 3 ↵ Back to Press February 4, 2026 Press Release Tom Sell Campaign Announces $# Million Raised, Demonstrating Strong Support Across Texas’ 19th District Congressional candidate Tom Sell today announced that his campaign has officially surpassed $# million raised, marking a major milestone fueled by strong grassroots enthusiasm and support from across Texas’ 19th Congressional District.
+Lubbock, TX — Congressional candidate Tom Sell today announced that his campaign has officially surpassed $# million raised, marking a major milestone fueled by strong grassroots enthusiasm and support from across Texas’ 19th Congressional District.
 The fundraising milestone reflects growing momentum behind Sell’s conservative message centered on agriculture, energy, border security, and protecting West Texas values in Washington.
 “Reaching this milestone shows just how energized voters are about the future of our district and our country,” said Sell.
-“This campaign is powered by hardworking Texans who are ready for strong, conservative leadership that will fight for our farmers, ranchers, energy producers, and small businesses.”
-Sell, a 5th generation West Texan, rancher, and businessman, has built his campaign around restoring conservative leadership in Congress and ensuring rural Texas has a strong voice in Washington.
+“This campaign is powered by hardworking Texans who are ready for strong, conservative leadership that will fight for our farmers, ranchers, energy producers, and small businesses.” Sell, a 5th generation West Texan, rancher, and businessman, has built his campaign around restoring conservative leadership in Congress and ensuring rural Texas has a strong voice in Washington.
 Campaign finance reports were due at the end of January and show Tom Sell has a commanding financial advantage over his opponents.
+The reports from October 1 to December 31, 2025 show the campaign raised $# and entered the year with $# in the bank, triple of any opponent.
+Paid for by Conservative Tom Sell for Congress

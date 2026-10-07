@@ -1,42 +1,186 @@
 [
-"http://facebook.com/scottpeterssandiego",
-"http://instagram.com/scottpetersca50",
-"http://networkadvertising.org/",
-"http://scottpeters.com/",
-"http://twitter.com/ScottPetersSD",
-"http://youtube.com/channel/UCsUeWfm1cBZVMkuslQaBLZQ",
-"https://cadem.org/",
-"https://cadem.org/our-candidates",
-"https://scottpeters.com/",
-"https://scottpeters.com/about",
-"https://scottpeters.com/about/awards",
-"https://scottpeters.com/accomplishments",
-"https://scottpeters.com/cdn-cgi/l/email-protection",
-"https://scottpeters.com/contact",
-"https://scottpeters.com/donate",
-"https://scottpeters.com/endorsements",
-"https://scottpeters.com/endorsements/api",
-"https://scottpeters.com/endorsements/elected-officials",
-"https://scottpeters.com/endorsements/organizations",
-"https://scottpeters.com/endorsements/supporters",
-"https://scottpeters.com/fix-congress",
-"https://scottpeters.com/get-involved",
-"https://scottpeters.com/get-involved/sign-up",
-"https://scottpeters.com/in-the-news",
-"https://scottpeters.com/issues",
-"https://scottpeters.com/issues/biden-administration",
-"https://scottpeters.com/issues/education",
-"https://scottpeters.com/issues/energy-the-environment",
-"https://scottpeters.com/issues/equal-rights",
-"https://scottpeters.com/issues/health-care",
-"https://scottpeters.com/issues/immigration",
-"https://scottpeters.com/issues/jobs-and-the-economy",
-"https://scottpeters.com/issues/keeping-americans-safe",
-"https://scottpeters.com/issues/medicare-social-security",
-"https://scottpeters.com/issues/veterans",
-"https://scottpeters.com/media/hi-resolution-photos",
-"https://scottpeters.com/media/photo-gallery",
-"https://scottpeters.com/media/press-inquiries",
-"https://scottpeters.com/media/tv-ads",
-"https://scottpeters.com/privacy-policy"
+{
+"text": "(858) 848-7515",
+"href": "tel:858-848-7515"
+},
+{
+"text": "AAPI Community",
+"href": "https://scottpeters.com/endorsements/api/"
+},
+{
+"text": "About Scott",
+"href": "https://scottpeters.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://scottpeters.com/accomplishments/"
+},
+{
+"text": "Awards",
+"href": "https://scottpeters.com/about/awards/"
+},
+{
+"text": "Biden Administration",
+"href": "https://scottpeters.com/issues/biden-administration/"
+},
+{
+"text": "CA Dems",
+"href": "https://www.cadem.org/"
+},
+{
+"text": "CA Dems",
+"href": "https://www.cadem.org/our-candidates"
+},
+{
+"text": "Contact",
+"href": "https://scottpeters.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://scottpeters.com/donate"
+},
+{
+"text": "Donate Now Donate Now",
+"href": "https://scottpeters.com/donate"
+},
+{
+"text": "Education",
+"href": "https://scottpeters.com/issues/education/"
+},
+{
+"text": "Elected Officials",
+"href": "https://scottpeters.com/endorsements/elected-officials/"
+},
+{
+"text": "Email",
+"href": "mailto:?subject=Privacy+Policy+-+Scott+Peters+for+Congress&body=https%3A%2F%2Fscottpeters.com%2Fprivacy-policy%2F"
+},
+{
+"text": "Endorsements",
+"href": "https://scottpeters.com/endorsements/"
+},
+{
+"text": "Energy & the Environment",
+"href": "https://scottpeters.com/issues/energy-the-environment/"
+},
+{
+"text": "Equal Rights",
+"href": "https://scottpeters.com/issues/equal-rights/"
+},
+{
+"text": "Fix Congress",
+"href": "https://scottpeters.com/fix-congress/"
+},
+{
+"text": "Get Involved",
+"href": "https://scottpeters.com/get-involved"
+},
+{
+"text": "Get Involved Get Involved",
+"href": "https://scottpeters.com/get-involved"
+},
+{
+"text": "Get Updates Get Updates",
+"href": "https://scottpeters.com/get-involved/sign-up/"
+},
+{
+"text": "Health Care",
+"href": "https://scottpeters.com/issues/health-care/"
+},
+{
+"text": "Hi-Resolution Photos",
+"href": "https://scottpeters.com/media/hi-resolution-photos/"
+},
+{
+"text": "Immigration",
+"href": "https://scottpeters.com/issues/immigration/"
+},
+{
+"text": "Issues",
+"href": "https://scottpeters.com/issues/"
+},
+{
+"text": "Jobs & the Economy",
+"href": "https://scottpeters.com/issues/jobs-and-the-economy/"
+},
+{
+"text": "Keeping Americans Safe",
+"href": "https://scottpeters.com/issues/keeping-americans-safe/"
+},
+{
+"text": "Medicare & Social Security",
+"href": "https://scottpeters.com/issues/medicare-social-security/"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottpeters.com/about/"
+},
+{
+"text": "News",
+"href": "https://scottpeters.com/in-the-news/"
+},
+{
+"text": "Organizations",
+"href": "https://scottpeters.com/endorsements/organizations/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://scottpeters.com/media/photo-gallery/"
+},
+{
+"text": "Press Inquiries",
+"href": "https://scottpeters.com/media/press-inquiries/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://scottpeters.com/privacy-policy"
+},
+{
+"text": "Supporters",
+"href": "https://scottpeters.com/endorsements/supporters/"
+},
+{
+"text": "TV Ads",
+"href": "https://scottpeters.com/media/tv-ads/"
+},
+{
+"text": "Veterans",
+"href": "https://scottpeters.com/issues/veterans/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@scottpeters.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@scottpeters.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/scottpeterssandiego"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/scottpetersca50"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/ScottPetersSD"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UCsUeWfm1cBZVMkuslQaBLZQ"
+},
+{
+"text": "[no text]",
+"href": "https://scottpeters.com"
+},
+{
+"text": "click here.",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "http://www.scottpeters.com",
+"href": "http://www.scottpeters.com/"
+}
 ]

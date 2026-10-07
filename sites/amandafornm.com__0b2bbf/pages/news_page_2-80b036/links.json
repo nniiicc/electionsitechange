@@ -1,28 +1,114 @@
 [
-"https://amandafornm.com/",
-"https://amandafornm.com/./news",
-"https://amandafornm.com/./press",
-"https://amandafornm.com/./videos",
-"https://amandafornm.com/about",
-"https://amandafornm.com/contact",
-"https://amandafornm.com/media",
-"https://amandafornm.com/news/page/1",
-"https://amandafornm.com/news/page/3",
-"https://amandafornm.com/take-action",
-"https://bsky.app/profile/letstalkamanda.bsky.social",
-"https://facebook.com/alafornm",
-"https://instagram.com/amandafornm",
-"https://ktsm.com/news/state-regional/new-mexico/dona-ana-county-clerk-to-run-for-nm-secretary-of-state",
-"https://lcsun-news.com/story/news/politics/elections/2025/04/17/doa-ana-county-clerk-new-mexico-secretary-of-state-2026/83119395007",
-"https://nmpoliticalreport.com/2025/04/16/dona-ana-county-clerk-jumps-in-secretary-of-state-race",
-"https://organmountainnews.com/amanda-lopez-askin-launches-campaign-for-new-mexico-secretary-of-state",
-"https://rdrnews.com/news/local/l-pez-askin-launches-campaign-for-new-mexico-secretary-of-state/article_67582fd1-8f33-4e6d-98a2-5d310f066480.html",
-"https://secure.actblue.com/donate/ala-web",
-"https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=5",
-"https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false",
-"https://secure.actblue.com/donate/ala-web?recurring=false"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=100&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=12&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=50&express_lane=true&recurring=false"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=500&express_lane=true&recurring=false"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/ala-web?amount=1000&express_lane=true&recurring=false"
+},
+{
+"text": "1",
+"href": "https://amandafornm.com/news/page/1/"
+},
+{
+"text": "3",
+"href": "https://amandafornm.com/news/page/3/"
+},
+{
+"text": "About",
+"href": "https://amandafornm.com/about/"
+},
+{
+"text": "Chip in $5 right now to join the fight for our future ",
+"href": "https://secure.actblue.com/donate/ala-web?amount=5"
+},
+{
+"text": "Click to read Amanda López Askin announces bid for open New Mexico Secretary of State in 2026 election",
+"href": "https://www.lcsun-news.com/story/news/politics/elections/2025/04/17/doa-ana-county-clerk-new-mexico-secretary-of-state-2026/83119395007/"
+},
+{
+"text": "Click to read Amanda López Askin launches campaign for New Mexico Secretary of State",
+"href": "https://www.organmountainnews.com/amanda-lopez-askin-launches-campaign-for-new-mexico-secretary-of-state/"
+},
+{
+"text": "Click to read Doña Ana County Clerk jumps in Secretary of State race",
+"href": "https://nmpoliticalreport.com/2025/04/16/dona-ana-county-clerk-jumps-in-secretary-of-state-race/"
+},
+{
+"text": "Click to read Doña Ana County clerk to run for NM secretary of state",
+"href": "https://www.ktsm.com/news/state-regional/new-mexico/dona-ana-county-clerk-to-run-for-nm-secretary-of-state/"
+},
+{
+"text": "Click to read López Askin launches campaign for New Mexico Secretary of State",
+"href": "https://www.rdrnews.com/news/local/l-pez-askin-launches-campaign-for-new-mexico-secretary-of-state/article_67582fd1-8f33-4e6d-98a2-5d310f066480.html"
+},
+{
+"text": "Connect on Bluesky",
+"href": "https://bsky.app/profile/letstalkamanda.bsky.social"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://facebook.com/alafornm/"
+},
+{
+"text": "Connect on Instagram",
+"href": "https://instagram.com/amandafornm/"
+},
+{
+"text": "Contact",
+"href": "https://amandafornm.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/ala-web"
+},
+{
+"text": "Media",
+"href": "https://amandafornm.com/media/"
+},
+{
+"text": "News",
+"href": "https://amandafornm.com/./news/"
+},
+{
+"text": "Next Page",
+"href": "https://amandafornm.com/news/page/3/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ala-web?recurring=false"
+},
+{
+"text": "Press Releases",
+"href": "https://amandafornm.com/./press/"
+},
+{
+"text": "Previous Page",
+"href": "https://amandafornm.com/news/page/1/"
+},
+{
+"text": "Take Action",
+"href": "https://amandafornm.com/take-action/"
+},
+{
+"text": "Videos",
+"href": "https://amandafornm.com/./videos/"
+},
+{
+"text": "[image: Amanda for New Mexico]Amanda for New Mexico",
+"href": "https://amandafornm.com"
+}
 ]

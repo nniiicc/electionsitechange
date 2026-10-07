@@ -1,3 +1,3 @@
-Intelligent Heroes vs Loony Lefties, Deep Space Politics, Theological, Science Musings - Gene Douglass for Congress, Republican, North Carolina District #2 2026
-“Because it educates the public of the final battle between Satan and God and validates the prophecy laid out in revelations chapter of the Bible ”...”
-John Seaman, The Rule of Law - Corruption - National Security
+The Contemporary Battle of Good v Evil in Politics Intelligent Heroes vs Loony Lefties, Deep Space Politics, Theological, Science Musings - Gene Douglass for Congress, Republican, North Carolina District #2 2026 By Gene Douglass Subscribe By subscribing, you agree Substack's Terms of Use , and acknowledge its Information Collection Notice and Privacy Policy .
+No thanks “Because it educates the public of the final battle between Satan and God and validates the prophecy laid out in revelations chapter of the Bible ”...” John Seaman , The Rule of Law - Corruption - National Security This site requires JavaScript to run correctly.
+Please turn on JavaScript or unblock scripts

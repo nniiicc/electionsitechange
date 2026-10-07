@@ -1,4 +1,5 @@
-About J.M.
+J.M.
+Lozano State Representative Toggle navigation Home About Issues That Matter Take Action Contribute About J.M.
 From the streets of our towns to the quiet corners of our rural communities, I’ve always believed in the spirit and resilience of District 43.
 As a dedicated family man and small business owner, I’ve experienced the challenges and rewards of hard work firsthand.
 In the Texas House, I’ve seen how overreaching government regulations can stifle our businesses and dampen our entrepreneurial spirit.
@@ -16,3 +17,6 @@ With passion, determination, and your unwavering support, we’ll continue to sh
 Together, we’re not just making history; we’re building a legacy.
 I’m here to listen, act, and make a difference for the future of this community.
 I hope you’ll join me.
+Pd Pol Ad by J.M.
+Lozano for State Rep.
+Campaign 4904 Duval St #A | Austin Tx 78751 Privacy Policy | Contact Us

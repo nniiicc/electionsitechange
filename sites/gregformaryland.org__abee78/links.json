@@ -1,12 +1,74 @@
 [
-"http://gregformaryland.org/",
-"http://gregformaryland.org/district.html",
-"http://gregformaryland.org/issues.html",
-"http://gregformaryland.org/meet-greg.html",
-"https://secure.actblue.com/donate/gregformaryland",
-"https://secure.actblue.com/donate/gregformaryland?amount=100",
-"https://secure.actblue.com/donate/gregformaryland?amount=200",
-"https://secure.actblue.com/donate/gregformaryland?amount=25",
-"https://secure.actblue.com/donate/gregformaryland?amount=5",
-"https://secure.actblue.com/donate/gregformaryland?amount=50"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=50"
+},
+{
+"text": "District 35A",
+"href": "http://gregformaryland.org/district.html"
+},
+{
+"text": "District 35A?",
+"href": "http://gregformaryland.org/district.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount=100"
+},
+{
+"text": "Find out here →",
+"href": "http://gregformaryland.org/district.html"
+},
+{
+"text": "Issues",
+"href": "http://gregformaryland.org/issues.html"
+},
+{
+"text": "Learn More →",
+"href": "http://gregformaryland.org/meet-greg.html"
+},
+{
+"text": "Meet Greg",
+"href": "http://gregformaryland.org/meet-greg.html"
+},
+{
+"text": "OtherAmount",
+"href": "https://secure.actblue.com/donate/gregformaryland?amount="
+},
+{
+"text": "Read more →",
+"href": "http://gregformaryland.org/issues.html"
+},
+{
+"text": "[image: Greg Anderson for Delegate, District 35A]",
+"href": "http://gregformaryland.org/"
+},
+{
+"text": "[image: Greg Anderson]",
+"href": "http://gregformaryland.org/"
+},
+{
+"text": "[image: Greg Anderson]",
+"href": "http://gregformaryland.org/meet-greg.html"
+},
+{
+"text": "inquiry@GregForMaryland.org",
+"href": "mailto:inquiry@GregForMaryland.org"
+}
 ]

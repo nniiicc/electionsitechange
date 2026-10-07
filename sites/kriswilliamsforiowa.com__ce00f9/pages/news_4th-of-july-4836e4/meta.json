@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/4th-of-july",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "2dcc91c1dd8662d7d987972948b109a3e3812c37",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "4th of July!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

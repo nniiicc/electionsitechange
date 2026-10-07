@@ -1,28 +1,106 @@
 [
-"https://arttochangetheworld.org/mission",
-"https://besmartforkids.org/",
-"https://columbiaheightsmn.gov/alerts",
-"https://columbiaheightsmn.gov/community/residential_resources/tenants_and_landlords.php",
-"https://columbiaheightsmn.gov/departments/utilitybilling/index.php",
-"https://facebook.com/voteamada",
-"https://heightsnext.org/events/columbia-heights-monarch-festival",
-"https://instagram.com/amadaformnhouse",
-"https://justdeeds.org/",
-"https://mn.adopt-a-drain.org/",
-"https://nwf.org/MayorsMonarchPledge",
-"https://transportation.gov/grants/SS4A",
-"https://twitter.com/AmadaMarquezS",
-"https://us4.campaign-archive.com/home?u=bc0995686deebd4e3158fca93&id=fb0729816c",
-"https://voteamada.com/",
-"https://voteamada.com/about",
-"https://voteamada.com/contact",
-"https://voteamada.com/donate",
-"https://voteamada.com/faq",
-"https://voteamada.com/headlines",
-"https://voteamada.com/issues",
-"https://voteamada.com/join",
-"https://voteamada.com/lawn-sign",
-"https://voteamada.com/press",
-"https://voteamada.com/privacy-policy-2",
-"https://voteamada.com/wp-content/uploads/2024/09/columbia_heights_grants.png"
+{
+"text": "About",
+"href": "https://www.voteamada.com/about/"
+},
+{
+"text": "Adopt-A-Drain",
+"href": "https://mn.adopt-a-drain.org/"
+},
+{
+"text": "Art to Change the World",
+"href": "https://www.arttochangetheworld.org/mission/"
+},
+{
+"text": "Be Smart",
+"href": "https://besmartforkids.org/"
+},
+{
+"text": "CodeRED",
+"href": "https://www.columbiaheightsmn.gov/alerts/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteamada.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.voteamada.com/donate/"
+},
+{
+"text": "FAQ",
+"href": "https://www.voteamada.com/faq/"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.voteamada.com/lawn-sign/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteamada.com/issues/"
+},
+{
+"text": "Join the Campaign Team",
+"href": "https://www.voteamada.com/join/"
+},
+{
+"text": "Just Deeds Project",
+"href": "https://justdeeds.org/"
+},
+{
+"text": "Mayor’s Monarch Pledge",
+"href": "https://www.nwf.org/MayorsMonarchPledge"
+},
+{
+"text": "Monarch Festival",
+"href": "https://heightsnext.org/events/columbia-heights-monarch-festival/"
+},
+{
+"text": "Press Kit",
+"href": "https://www.voteamada.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteamada.com/privacy-policy-2/"
+},
+{
+"text": "Read past newsletters",
+"href": "https://us4.campaign-archive.com/home/?u=bc0995686deebd4e3158fca93&id=fb0729816c"
+},
+{
+"text": "Safe Streets for All",
+"href": "https://www.transportation.gov/grants/SS4A"
+},
+{
+"text": "[image: Amáda in the News]",
+"href": "https://www.voteamada.com/headlines"
+},
+{
+"text": "[image: Vote Amáda]",
+"href": "https://www.voteamada.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.voteamada.com/wp-content/uploads/2024/09/columbia_heights_grants.png"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/voteamada/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/amadaformnhouse/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/AmadaMarquezS"
+},
+{
+"text": "automatic online payments",
+"href": "https://www.columbiaheightsmn.gov/departments/utilitybilling/index.php"
+},
+{
+"text": "renters rights and landlord rights",
+"href": "https://www.columbiaheightsmn.gov/community/residential_resources/tenants_and_landlords.php"
+}
 ]

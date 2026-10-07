@@ -1,11 +1,54 @@
 [
-"https://anthonycristo.com/additional",
-"https://anthonycristo.com/donate",
-"https://anthonycristo.com/get-involved",
-"https://anthonycristo.com/home",
-"https://docs.google.com/forms/d/e/1FAIpQLSdpDjxNpI-aGgoOV7v9AyvidHdjAW5QeENjtMhkTJ5aYCCg8A/viewform",
-"https://google.com/url?q=https%3A%2F%2Ftwitter.com%2Flpnational&sa=D&sntz=1&usg=AOvVaw0X2RwH_qEaUD-dZCBzin7Z",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FLPTexas&sa=D&sntz=1&usg=AOvVaw1Px0wXB-kRnXmcru5EmY96",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flibertarianparty&sa=D&sntz=1&usg=AOvVaw2O9hJmGJkwzRuSOmAmpSIA",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flibertarianparty%2F&sa=D&sntz=1&usg=AOvVaw1plQCVjqs3TD_ZgeFUX6em"
+{
+"text": "Additional",
+"href": "https://www.anthonycristo.com/additional"
+},
+{
+"text": "Anthony Cristo for Lt. Governor - TX",
+"href": "https://www.anthonycristo.com/home"
+},
+{
+"text": "Donate",
+"href": "https://www.anthonycristo.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.anthonycristo.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.anthonycristo.com/home"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FLPTexas&sa=D&sntz=1&usg=AOvVaw1Px0wXB-kRnXmcru5EmY96"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Flibertarianparty&sa=D&sntz=1&usg=AOvVaw2O9hJmGJkwzRuSOmAmpSIA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Flibertarianparty%2F&sa=D&sntz=1&usg=AOvVaw1plQCVjqs3TD_ZgeFUX6em"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Flpnational&sa=D&sntz=1&usg=AOvVaw0X2RwH_qEaUD-dZCBzin7Z"
+},
+{
+"text": "[image]",
+"href": "https://www.anthonycristo.com/donate"
+},
+{
+"text": "[image]",
+"href": "https://www.anthonycristo.com/home"
+},
+{
+"text": "[image]Anthony Cristo for Lt. Governor - TX",
+"href": "https://www.anthonycristo.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Get Involved form Anthony Cristo in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdpDjxNpI-aGgoOV7v9AyvidHdjAW5QeENjtMhkTJ5aYCCg8A/viewform"
+}
 ]

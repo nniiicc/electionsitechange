@@ -1,10 +1,46 @@
 [
-"https://facebook.com/Gustoff4Iowa",
-"https://gustoff4iowa.com/",
-"https://gustoff4iowa.com/about",
-"https://gustoff4iowa.com/events",
-"https://gustoff4iowa.com/issues",
-"https://gustoff4iowa.com/volunteer",
-"https://gustoff4iowa.com/yard-signs",
-"https://secure.winred.com/gustoff-for-iowa/donate-today"
+{
+"text": "About",
+"href": "https://www.gustoff4iowa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gustoff-for-iowa/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/gustoff-for-iowa/donate-today"
+},
+{
+"text": "Event",
+"href": "https://www.gustoff4iowa.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.gustoff4iowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.gustoff4iowa.com/issues"
+},
+{
+"text": "Updates",
+"href": "https://www.facebook.com/Gustoff4Iowa"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gustoff4iowa.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.gustoff4iowa.com/yard-signs"
+},
+{
+"text": "[image: Gustoff_LogoDesign_Final-edit.png]",
+"href": "https://www.gustoff4iowa.com"
+},
+{
+"text": "bill@gustoff4iowa.com",
+"href": "mailto:bill@gustoff4iowa.com"
+}
 ]

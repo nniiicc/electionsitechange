@@ -1,14 +1,90 @@
 [
-"https://facebook.com/JesseBattlesAL",
-"https://forms.gle/KvNotiBGCcYxgmYV8",
-"https://jessebattles.com/",
-"https://jessebattles.com/privacy",
-"https://jessebattles.com/terms",
-"https://jessebattles.com/vote",
-"https://myinfo.alabamavotes.gov/voterview",
-"https://onyxstudios.co/",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles",
-"https://sos.alabama.gov/alabama-votes/voter/absentee-voting",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-"https://sos.alabama.gov/stop-voter-fraud-now/election-complaint-form"
+{
+"text": "1-800-274-VOTE (8683)",
+"href": "tel:18002748683"
+},
+{
+"text": "About",
+"href": "https://www.jessebattles.com/#about"
+},
+{
+"text": "Absentee voting details",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JesseBattlesAL/"
+},
+{
+"text": "File a report online",
+"href": "https://www.sos.alabama.gov/stop-voter-fraud-now/election-complaint-form"
+},
+{
+"text": "Find my polling place",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "Get Updates",
+"href": "https://www.jessebattles.com/#updates"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://forms.gle/KvNotiBGCcYxgmYV8"
+},
+{
+"text": "Home",
+"href": "https://www.jessebattles.com/"
+},
+{
+"text": "Home",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "How to Vote",
+"href": "https://www.jessebattles.com/vote"
+},
+{
+"text": "Jesse’s Values",
+"href": "https://www.jessebattles.com/#values"
+},
+{
+"text": "Look up my registration",
+"href": "https://myinfo.alabamavotes.gov/voterview"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jessebattles.com/privacy"
+},
+{
+"text": "Register online",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jessebattles.com/terms"
+},
+{
+"text": "The Plan",
+"href": "https://www.jessebattles.com/#issues"
+},
+{
+"text": "Videos",
+"href": "https://www.jessebattles.com/#videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jessebattles.com/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "[image]Built by Onyx Studio",
+"href": "https://onyxstudios.co"
+}
 ]

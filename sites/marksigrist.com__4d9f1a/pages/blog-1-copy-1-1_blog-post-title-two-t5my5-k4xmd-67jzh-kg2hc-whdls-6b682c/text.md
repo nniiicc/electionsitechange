@@ -1,8 +1,5 @@
-The Gemba
-During my 33 years at Honda, I learned a Japanese word that still shapes how I approach problems today:
-Gemba.
-It means "the actual place."
-At Honda, we were taught that if you really want to understand a problem, you go to the spot where it's happening.
+0 Skip to Content Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate Open Menu Close Menu Home Meet Mark Issues Community Service Blog Join Us Donate The Gemba Sep 8 Written By Leslie Anderson During my 33 years at Honda, I learned a Japanese word that still shapes how I approach problems today: Gemba.
+It means "the actual place." At Honda, we were taught that if you really want to understand a problem, you go to the spot where it's happening.
 You listen to the people experiencing it.
 They are the experts.
 You see the situation for yourself.
@@ -12,8 +9,7 @@ Also testifying that day was Stephanie Erdman, a young woman who had been seriou
 Something designed to save her life had instead seriously injured her.
 That morning, before their testimony, Rick and Stephanie met privately.
 They sat face-to-face across a small conference table.
-Rick was there to do two things:
-Apologize.
+Rick was there to do two things: Apologize.
 And ask for her help.
 They could easily have viewed each other as being on opposite sides.
 Instead, they listened.
@@ -36,7 +32,4 @@ Understand the actual situation.
 Then work together on the solution.
 It's another lesson from Honda that continues to shape how I serve.
 Thank you for letting me share a little more of my journey with you.
-Mark Sigrist
-State Representative
-Ohio House District 10
-MarkSigrist.com
+Mark Sigrist State Representative Ohio House District 10 MarkSigrist.com Leslie Anderson Next Next ONE DOLPHIN IS TOO MANY Mark Sigrist for State House Representative | District 10 | Paid for by Friends of Mark Sigrist

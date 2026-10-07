@@ -1,12 +1,9 @@
-Job Sharing
-Bill Name
-Maryland Workforce Retention, Recruitment, and Reentry Act
-Bill Number
-HB 520
-Year
-2025
-Priority Areas: Economic Development
-HB 520: The Maryland Workforce Retention, Recruitment and Reentry Act, has started a serious conversation around job-sharing.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Job Sharing Bill Name Maryland Workforce Retention, Recruitment, and Reentry Act Bill Number HB 520 Year 2025 Priority Areas : Economic Development Read the Report HB 520: The Maryland Workforce Retention, Recruitment and Reentry Act, has started a serious conversation around job-sharing.
 This bill was folded into the Joint Chairmen's Report of the Budget Bill and requires the Department of Budget and Management to conduct an in-depth feasibility study on how job-sharing can be implemented within the State’s Executive Branch to fill critical vacancies in a way that meets employer needs while making the workforce more inclusive (offering part-time work opportunities to caregivers, seniors, individuals with health concerns, etc).
 Job-sharing is also a great tool to employ people during times of mass unemployment.
 The report is due back to the General Assembly by December 1st and I will review that in advance of the 2026 Legislative Session to inform my next steps on this issue.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

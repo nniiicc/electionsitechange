@@ -1,18 +1,9 @@
-Gillen Tests Positive for COVID-19
-November 29, 2021
-FLYING HILLS – After recently testing positive for COVID-19, state Rep.
-Mark Gillen (R-Berks/Lancaster) today issued the following statement:
-“I recently was exposed to, tested for and learned I have contracted the COVID-19 virus.
+PA State Rep.
+Mark Gillen Serving PA's 128th Legislative District Subscribe Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact Gillen Tests Positive for COVID-19 November 29, 2021 FLYING HILLS – After recently testing positive for COVID-19, state Rep.
+Mark Gillen (R-Berks/Lancaster) today issued the following statement: “I recently was exposed to, tested for and learned I have contracted the COVID-19 virus.
 “I currently am experiencing mild symptoms and plan to work from home while I remain in quarantine.
 “My exposure and positive test occurred while I traveled outside of Pennsylvania and should have no effect on my colleagues in the General Assembly, workers in the state Capitol or my district office staff.
-“My offices in Harrisburg and in our district will remain open as I remain in quarantine.”
-Representative Mark Gillen
-128th District
-Pennsylvania House of Representatives
-Media Contact: Dan Massing
-717.772.9845
-dmassing@pahousegop.com
-RepGillen.com / Facebook.com/RepGillen
-Sign Up to Receive Legislative Email Updates
-Keep up-to-date on the latest legislative and community news.
+“My offices in Harrisburg and in our district will remain open as I remain in quarantine.” Representative Mark Gillen 128th District Pennsylvania House of Representatives Media Contact: Dan Massing 717.772.9845 dmassing@pahousegop.com RepGillen.com / Facebook.com/RepGillen Share Sign Up to Receive Legislative Email Updates Keep up-to-date on the latest legislative and community news.
 Your email address will be used strictly for legislative purposes.
+Email* ZIP Code Subscribe Office Locations FLYING HILLS (CUMRU TWP.) 29 Village Center Drive Suite A-7 Reading, PA 19607 610-775-5130 AMITY TOWNSHIP Amity Township Building 2004 Weavertown Road Douglassville, PA 19518 610-385-0704 CAPITOL 18 East Wing PO Box 202128 Harrisburg, PA 17120-2128 717-787-8550 TTY: 855-282-0614 © # PA House Republican Caucus.
+Terms of use Home About Bio Newsroom Latest News Video Livestreams Events 128th District District Map Resources Citizens Access Portal State Government Links Property Tax/Rent Rebate PennDOT Forms Contact

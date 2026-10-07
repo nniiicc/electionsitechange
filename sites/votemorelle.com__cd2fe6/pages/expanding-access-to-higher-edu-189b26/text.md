@@ -1,15 +1,10 @@
-EXPANDING ACCESS TO
-HIGHER EDUCATION
-Joe believes the American dream has always been rooted in the promise of educational opportunity for everyone.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE EXPANDING ACCESS TO HIGHER EDUCATION Joe believes the American dream has always been rooted in the promise of educational opportunity for everyone.
 But for too many students and families, that dream feels out of reach because of rising tuition costs, overwhelming student debt, and unequal access to resources and support.
 Joe is committed to making quality, affordable education accessible to everyone.
 In Congress, he has fought to expand access to higher education, lower the cost of college, and ensure colleges and universities put students first.
-In Congress, Joe has co-sponsored legislation including:
-The Student Loan Interest Elimination Act
-Would eliminate interest on existing federal student loans and cap interest rates for future borrowers to help make higher education more affordable.
-The Emergency Grant Aid for College Students Act
-Would help low-income students stay enrolled and complete their education when facing unexpected financial emergencies.
-The College Transparency Act
-Would modernize the college reporting system by improving data on enrollment, graduation rates, and post-college outcomes while protecting student privacy.
-The Pell Grant Flexibility Act
-Would expand access to Pell Grants for students with disabilities and help ensure students can complete their degree at a pace that works for them.
+In Congress, Joe has co-sponsored legislation including: The Student Loan Interest Elimination Act Would eliminate interest on existing federal student loans and cap interest rates for future borrowers to help make higher education more affordable.
+The Emergency Grant Aid for College Students Act Would help low-income students stay enrolled and complete their education when facing unexpected financial emergencies.
+The College Transparency Act Would modernize the college reporting system by improving data on enrollment, graduation rates, and post-college outcomes while protecting student privacy.
+The Pell Grant Flexibility Act Would expand access to Pell Grants for students with disabilities and help ensure students can complete their degree at a pace that works for them.
+Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

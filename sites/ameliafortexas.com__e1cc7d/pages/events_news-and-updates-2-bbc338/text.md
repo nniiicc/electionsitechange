@@ -1,10 +1,4 @@
-Back to All Events
-Join us for an evening of connection, community, and candidate conversations as we celebrate Earth Day together!
+0 Skip to Content FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Back to All Events Rooted In Community - Earth Day Meet and Greet with Local Candidates Wednesday, April 22, 2026 6:00 PM 7:30 PM The Art Space of Central Texas 103 Mountain Lion Road Harker Heights, TX, 76548 United States (map) Google Calendar ICS Join us for an evening of connection, community, and candidate conversations as we celebrate Earth Day together!
 Kid activities, community information, voter registration, a silent auction, and complimentary snacks and drinks will be available.
-Previous
-Previous
-April 12
-Amelia for Texas - Volunteer Training
-Next
-Next
-May 9
+Previous Previous April 12 Amelia for Texas - Volunteer Training Next Next May 9 Conversations That Count - Candidate Meet and Greet Amelia for Texas Pol.
+Ad paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas.com

@@ -1,17 +1,70 @@
 [
-"https://facebook.com/georgpickupforiowa",
-"https://instagram.com/pickupiowahouse70",
-"https://pickupforiowa.com/",
-"https://pickupforiowa.com/about",
-"https://pickupforiowa.com/endorsements",
-"https://pickupforiowa.com/farmers",
-"https://pickupforiowa.com/join-us",
-"https://pickupforiowa.com/property-taxes",
-"https://pickupforiowa.com/public-education",
-"https://pickupforiowa.com/public-health",
-"https://pickupforiowa.com/vote",
-"https://pickupforiowa.com/workers",
-"https://pickupforiowa.com/working-families",
-"https://secure.actblue.com/donate/george-pickup-1",
-"https://tiktok.com/@pickupforiowa70"
+{
+"text": "About",
+"href": "https://www.pickupforiowa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/george-pickup-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pickupforiowa.com/endorsements"
+},
+{
+"text": "Join Us",
+"href": "https://www.pickupforiowa.com/join-us"
+},
+{
+"text": "Learn more.",
+"href": "https://www.pickupforiowa.com/property-taxes"
+},
+{
+"text": "Learn more.",
+"href": "https://www.pickupforiowa.com/public-education"
+},
+{
+"text": "Learn more.",
+"href": "https://www.pickupforiowa.com/working-families"
+},
+{
+"text": "Make A Contribution",
+"href": "https://secure.actblue.com/donate/george-pickup-1"
+},
+{
+"text": "Meet George Pickup",
+"href": "https://www.pickupforiowa.com/about"
+},
+{
+"text": "Read more.",
+"href": "https://www.pickupforiowa.com/farmers"
+},
+{
+"text": "Read more.",
+"href": "https://www.pickupforiowa.com/public-health"
+},
+{
+"text": "Read more.",
+"href": "https://www.pickupforiowa.com/workers"
+},
+{
+"text": "Start Here",
+"href": "https://www.pickupforiowa.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/georgpickupforiowa"
+},
+{
+"text": "[image: George Pickup for Iowa campaign logo]",
+"href": "https://www.pickupforiowa.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pickupiowahouse70/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@pickupforiowa70"
+}
 ]

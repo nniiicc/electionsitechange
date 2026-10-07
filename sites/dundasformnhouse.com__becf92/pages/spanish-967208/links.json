@@ -1,17 +1,78 @@
 [
-"http://facebook.com/dundasformnhouse",
-"http://instagram.com/dundas_for_mn_house",
-"https://dundasformnhouse.com/",
-"https://dundasformnhouse.com/challenge",
-"https://dundasformnhouse.com/conectar",
-"https://dundasformnhouse.com/connect",
-"https://dundasformnhouse.com/prioridades",
-"https://dundasformnhouse.com/priorities",
-"https://dundasformnhouse.com/spanish",
-"https://dundasformnhouse.com/votar",
-"https://dundasformnhouse.com/vote",
-"https://forms.gle/5bjQUFGfXxd4Zp168",
-"https://forms.gle/R6YfsAdKhnm215CU7",
-"https://secure.actblue.com/donate/dundasformnhouse",
-"https://secure.countonme.org/dundas-for-mn-house-committee/website-email"
+{
+"text": "Conectar",
+"href": "https://www.dundasformnhouse.com/conectar"
+},
+{
+"text": "Connect",
+"href": "https://www.dundasformnhouse.com/connect"
+},
+{
+"text": "Conozca más sobre nuestra visión",
+"href": "https://www.dundasformnhouse.com/priorities"
+},
+{
+"text": "DONAR",
+"href": "https://secure.actblue.com/donate/dundasformnhouse"
+},
+{
+"text": "English",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Home",
+"href": "https://www.dundasformnhouse.com"
+},
+{
+"text": "Inicio",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "Inscribirse",
+"href": "https://forms.gle/5bjQUFGfXxd4Zp168"
+},
+{
+"text": "Prioridades",
+"href": "https://www.dundasformnhouse.com/prioridades"
+},
+{
+"text": "Priorities",
+"href": "https://www.dundasformnhouse.com/priorities"
+},
+{
+"text": "Spanish",
+"href": "https://www.dundasformnhouse.com/spanish"
+},
+{
+"text": "Subscribe",
+"href": "https://secure.countonme.org/dundas-for-mn-house-committee/website-email"
+},
+{
+"text": "Volunteer Challenge",
+"href": "https://www.dundasformnhouse.com/challenge"
+},
+{
+"text": "Votar",
+"href": "https://www.dundasformnhouse.com/votar"
+},
+{
+"text": "Vote",
+"href": "https://www.dundasformnhouse.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/dundasformnhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/dundas_for_mn_house"
+},
+{
+"text": "voluntario",
+"href": "https://forms.gle/R6YfsAdKhnm215CU7"
+},
+{
+"text": "¡Dona ahora!",
+"href": "https://secure.actblue.com/donate/dundasformnhouse"
+}
 ]

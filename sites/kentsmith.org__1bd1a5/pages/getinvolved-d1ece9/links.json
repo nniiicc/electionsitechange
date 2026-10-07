@@ -1,9 +1,34 @@
 [
-"https://kentsmith.org/",
-"https://kentsmith.org/about",
-"https://kentsmith.org/endorsements",
-"https://kentsmith.org/getinvolved",
-"https://kentsmith.org/priorities",
-"https://kentsmith.org/youtubelink",
-"https://secure.actblue.com/donate/kentsmith"
+{
+"text": "About",
+"href": "https://www.kentsmith.org/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kentsmith"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kentsmith.org/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kentsmith.org/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.kentsmith.org"
+},
+{
+"text": "Priorities",
+"href": "https://www.kentsmith.org/priorities"
+},
+{
+"text": "SendKentBackToColumbus@gmail.com",
+"href": "mailto:SendKentBackToColumbus@gmail.com"
+},
+{
+"text": "Videos",
+"href": "https://www.kentsmith.org/youtubelink"
+}
 ]

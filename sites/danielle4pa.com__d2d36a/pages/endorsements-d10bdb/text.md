@@ -1,17 +1,2 @@
-Endorsements
-Join these organizations in supporting Danielle for PA 155
-Chester County Democratic Committee
-Clean Water Action
-Represent PA
-Change PA
-Conservation Voters
-Del-Chesco United for Pipeline Safety
-Food & Water Watch
-SEIU
-Working Families Party
-Warren Democrats by Senator Warren
-PSEA
-EMILY’s List
-Planned Parenthood
-Pennsylvania Stands Up
-Chester County Stands Up
+Skip to content Danielle Friel Otten Chester County in PA Legislative District 155 Primary Menu About Vision Issues Accomplishments Endorsements Get Involved Donate Endorsements Join these organizations in supporting Danielle for PA 155 Chester County Democratic Committee Clean Water Action Represent PA Change PA Conservation Voters Del-Chesco United for Pipeline Safety Food & Water Watch SEIU Working Families Party Warren Democrats by Senator Warren PSEA EMILY’s List Planned Parenthood Pennsylvania Stands Up Chester County Stands Up Join the newsletter Leave this field empty if you're human: Home About Vision Issues Accomplishments Endorsements Get Involved Donate Paid for by Danielle for PA Committee Powered by Tech for Campaigns Loading Comments...
+You must be logged in to post a comment.

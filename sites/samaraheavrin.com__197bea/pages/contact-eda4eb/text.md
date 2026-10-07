@@ -1,18 +1,1 @@
-Skip to content
-Meet Samara
-Issues
-News
-Donate
-Meet Samara
-Issues
-News
-Donate
-Contact
-Home
->
-Contact
-Contact
-Your name
-Your email
-Subject
-Your message (optional)
+Skip to content Meet Samara Issues News Donate Meet Samara Issues News Donate Contact Home > Contact Contact Your name Your email Subject Your message (optional) Meet Samara Issues News Contact Privacy Policy Volunteer Donate Facebook LinkedIn YouTube Paid for by Samara Heavrin for State Representative

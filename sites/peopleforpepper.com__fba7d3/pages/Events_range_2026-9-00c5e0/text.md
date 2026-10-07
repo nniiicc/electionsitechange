@@ -1,31 +1,7 @@
-Events
-19
-Sep
-Saturday, 2:00 PM – 4:00 PM
-Join Senator Evan Bayh in Support of Pepper Snyder for State Representative
-Wabash, IN
-Please join us for a reception and fundraiser in support of Pepper Snyder, candidate for State Representative, District 50.
+Meet Pepper Issues Volunteer Make Endorsement Yard Signs Contribute Events Contact Events #ago This Week This Month ‹ Previous Tue Sep 1 2026 - Wed Sep 30 2026 Next › 19 Sep Saturday, 2:00 PM – 4:00 PM Join Senator Evan Bayh in Support of Pepper Snyder for State Representative Wabash, IN Please join us for a reception and fundraiser in support of Pepper Snyder, candidate for State Representative, District 50.
 We are honored to welcome special guest Senator Evan Bayh, with Robin Winston serving as our host for the afternoon.
 Free will donations will be accepted.
-Address Provided Upon RSVP
-We hope to see you there!
-Also scheduled to be in attendance:
-Coumbe Kebe, Democratic Candidate for Indiana Treasurer
-Jessica Bailey, Democratic Candidate for Indiana Comptroller
-Kelly Thompson, Democratic Candidate for Indiana's Third Congressional District
-Cynthia Wehr, Democratic Candidate for Indiana Senate District 17
-A special thank you to our sponsors:
-Mike Barnett
-Robin Winston
-Thomas & Christine Bohm
-Mike Gouloff
-Greg Hahn
-Alice Schloss
-Congresswoman Jill Long Thompson
-State Representative Cherrish Pryor
-Ft.
-Wayne City Councilman Geoff Paddock
-Jeff Smulyan
-Bill Sears & Jeanine Gordon
-Terry Goodin
-Wabash County Democratic Party
+Address Provided Upon RSVP We hope to see you there!
+Also scheduled to be in attendance: Coumbe Kebe, Democratic Candidate for Indiana Treasurer Jessica Bailey, Democratic Candidate for Indiana Comptroller Kelly Thompson, Democratic Candidate for Indiana's Third Congressional District Cynthia Wehr, Democratic Candidate for Indiana Senate District 17 A special thank you to our sponsors: Mike Barnett Robin Winston Thomas & Christine Bohm Mike Gouloff Greg Hahn Alice Schloss Congresswoman Jill Long Thompson State Representative Cherrish Pryor Ft.
+Wayne City Councilman Geoff Paddock Jeff Smulyan Bill Sears & Jeanine Gordon Terry Goodin Wabash County Democratic Party More info › Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Endorsements Yard Signs Events Photos Contact Paid for by The People for Pepper Powered by CampaignPartner.com - Political Websites Home Meet Pepper Issues Endorsements Contribute Volunteer Yard Signs Events Contact Close Menu

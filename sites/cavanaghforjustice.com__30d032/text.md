@@ -1,7 +1,11 @@
-about
-Early Life and Background
-Born in Lansing and raised in East Lansing, Megan Cavanagh grew up immersed in public service.
+Skip to content Home About Contact Volunteer Home About Contact Volunteer Donate Re-Elect Megan Kathleen Cavanagh for Michigan Supreme Court Chief Justice Megan Kathleen Cavanagh for Michigan Supreme Court Name Email Zipcode Message submit Support the campaign $10 $100 $250 $1000 other about Early Life and Background Born in Lansing and raised in East Lansing, Megan Cavanagh grew up immersed in public service.
 The daughter of a longtime Michigan Supreme Court Justice, she learned early that the law is not just a profession—it’s a responsibility to the community.
 Yet her path to the bench was distinctly her own.
 After graduating from the University of Michigan with a degree in environmental engineering, Megan worked as a consultant evaluating environmental risk and property development before discovering her true calling in the law.
 She earned her J.D. from Wayne State University Law School while working full-time, building a career grounded in discipline, independence, and perseverance.
+From Appellate Law to the Supreme Court For more than 15 years, Megan practiced appellate law in Detroit, earning respect across the legal community for her sharp analysis and commitment to fairness.
+Her work extended beyond individual cases to strengthening Michigan’s judicial system—serving in leadership roles within the State Bar of Michigan and focusing on improving access to courts and the administration of justice statewide.
+Elected to the Michigan Supreme Court in 2018, Megan has championed a justice system that is accessible, transparent, and centered on people.
+She has led efforts to improve child welfare outcomes, strengthen legal representation for families, collaborate with tribal courts, and ensure that courts serve every community with fairness and dignity.
+A devoted mother and stepmother of four, Megan balances her public service with family life, serving as a primary caregiver to her mother while remaining deeply connected to her Lansing roots.
+Her career reflects a simple but powerful belief: justice should not be an abstract ideal—it should actively improve people’s lives. info@cavanaghforjustice.com Facebook-f Instagram Paid for by Re-elect Chief Justice Megan Kathleen Cavanagh, PO Box 250971, West Bloomfield, MI 48325 All Rights Reserved © # Privacy policy Terms & Condition Home About Contact Volunteer Home About Contact Volunteer Donate

@@ -1,12 +1,6 @@
-Back to All Events
-Come join like-minded Democrats and Independants to here about the Beck for Congress campaign.
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Beck for Congress Fundraiser Thursday, August 6, 2026 7:00 PM 9:00 PM Muskego, WI (map) Google Calendar ICS Come join like-minded Democrats and Independants to here about the Beck for Congress campaign.
 This is a Green Bay Packer themed event after Scott Fitzgerald attacked our state team.
 Shameful!.
 More details to follow.
-Previous
-Previous
-August 1
-Coffee Talk Sussex
-Next
-Next
-August 12
+Previous Previous August 1 Coffee Talk Sussex Next Next August 12 Forward for Wisconsin Rally: Milwaukee!
+DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

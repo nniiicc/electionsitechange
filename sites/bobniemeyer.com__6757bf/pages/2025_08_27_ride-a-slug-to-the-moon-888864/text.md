@@ -1,4 +1,4 @@
-YMCA summer camp was something that I looked forward to each summer when I was between the ages of eight and sixteen.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Ride a Slug to the Moon YMCA summer camp was something that I looked forward to each summer when I was between the ages of eight and sixteen.
 I got to spend one week a summer at one of the four camps called Trickle Falls.
 There were six cabins there, one of which, my favorite, was closest to the creek.
 Trickle Falls was my favorite camp of the four, clearly named for the small creek that ran between the cabins and onto the lake in the center of the YMCA facility.
@@ -38,5 +38,5 @@ Making that calculation is what sparked my interest in mathematics and ultimatel
 It was also that calculation at the age of eight that triggered interest in many other aspects of the world around us.
 It is also that calculation that has caused me to question many of the claims about natural resources, the sun, the earth’s orbit, the earth’s oceans, and many other aspects of our environment that seem to have endless experts with opinions on the truth about this planet.
 By the way, it would take 2130 years for my racing slug to get the moon.
-Bob Niemeyer
-October 10, 2015
+Bob Niemeyer October 10, 2015 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

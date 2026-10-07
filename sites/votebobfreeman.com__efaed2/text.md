@@ -1,13 +1,11 @@
-I’m Bob Freeman, and since I first ran in 2018, I have had the great honor of serving as District 56’s State Representative.
+Volunteer Find District 56 Get In Touch Newsletter Sign Up Meet Bob Issues Contribute Follow Follow Meet Bob Issues Contribute Support Bob Register to Vote Volunteer Find District 56 Get In Touch I’m Bob Freeman, and since I first ran in 2018, I have had the great honor of serving as District 56’s State Representative.
 I’ve worked tirelessly to address the needs and concerns of our community.
 During my time in office, I have sponsored and co-sponsored over 100 successful pieces of legislation, each one aimed at improving the lives of Tennessee residents and fostering a thriving District 56.
 Together, we have set a standard for what the 56th District can be.
 From protecting public education, and supporting local businesses, to advocating for healthcare improvements and responsible gun safety reform, my work reflects our community’s shared vision.
 I look forward to the opportunity to continue representing you, fighting for our district, and making a positive impact on our community.
 Let’s keep building a brighter future for Tennessee.
-The Proven Leadership Our State Needs Right Now
-Meet Bob
-Bob Freeman is proud to serve as the State Representative for House District 56.
+Contribute Follow Follow The Proven Leadership Our State Needs Right Now Meet Bob Bob Freeman is proud to serve as the State Representative for House District 56.
 Over his three terms in office, he has successfully sponsored and co-sponsored over 100 important pieces of legislation, navigating a super-majority-controlled legislature to bring meaningful change to our community.
 As a lifelong resident of the 56th House District, Bob and his wife Rachel are dedicated to raising their family here as well.
 Bob currently serves as President at Freeman Webb.
@@ -17,6 +15,8 @@ Rachel serves as President of the Sexual Assault Center, which provides healing 
 An active member of the community, Bob has served on the boards of the Tennessee Environmental Council, Tennessee Wildlife Federation, Southern Alliance for Clean Energy, Metro Sustainability Advisory Council and the U.S.
 Green Building Council’s Tennessee Market Leadership Advisory Board.
 In 2017, he was appointed to the Nashville Homelessness Commission, which brings together advocates, business leaders, government agencies and the public to collaborate on solutions for homelessness in Nashville.
-Help Bob Win!
+Learn More Help Bob Win!
 Bob has done an amazing job in his two terms.
 Donating today to his campaign will insure that he can continue to bring common sense leadership back to District 56.
+Make A Donation To The Campaign Donate Today!
+Get In Touch Name Email Address Message 1 + 14 = Send Message Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Meet Bob Issues Contribute Paid for by Friends of Bob Freeman / Stephen Zralek Treasurer ©# Friends of Bob Freeman Site By ManOverMachine | Privacy Policy

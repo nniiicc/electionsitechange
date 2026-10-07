@@ -1,4 +1,4 @@
-U.S.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Campaign News September 1, 2022 FIVE EASTERN CONNECTICUT FIRE DEPARTMENTS AWARDED FEDERAL GRANTS U.S.
 Rep.
 Joe Courtney announced a new round of federal grants for five Eastern Connecticut fire departments; Chester, Preston, New London, Norwich and Stafford.
 Federal grants will total more than $887,000.
@@ -11,3 +11,4 @@ The New London Fire Department was awarded $95,545 to pay for fire instructor cl
 In Preston, the Poquetanuck Volunteer Fire Department will receive $45,714 to purchase CPR compression devices.
 The Chester Hose Company will receive $127,428 to support the purchase of new firefighter breathing apparatuses.The West Stafford Fire Department is receiving $18,571 to purchase a new washer and dryer for the department’s firefighting gear.
 “On the heels of newly enhanced benefits for firefighters and police officers through the bipartisan Protecting Our First Responders Act, this new round of federal AFG grants represents another important source of support for our firefighters and fire stations,” Courtney said in a statement.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

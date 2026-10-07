@@ -1,5 +1,4 @@
-Dear Friend,
-There are many different approaches to the economy.
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact News Statement Robust Economy, Less Regulation and Low corporate tax is my goal January 12, 2018 Dear Friend, There are many different approaches to the economy.
 I believe that the key to a robust economy is less regulation and lower corporate tax rates that will ultimately mean more jobs and a better standard of living for Americans and their families.
 Vice President Joe Biden was once seen as a voice of moderation but this is not the same Democratic party.
 Everywhere I go, people tell me that they have voted Democratic for years, but now don’t even recognize the party anymore and are starting to change their ways.
@@ -18,9 +17,6 @@ A systematic dismantling of these tax cuts by any Democratic administration and 
 With a Democratic caucus in Congress all too willing to pass these cuts, we cannot let this happen.
 I will fight burdensome taxes and regulations on Silicon Valley companies!
 There are several ways you can help my campaign today!
-Fund my campaign – https://www.tandonforcongress.com/
-Like me on Facebook – https://www.facebook.com/TandonforCongress/
-Follow my twitter feed – https://twitter.com/tandon4congress
-Thank you for your continued support of my campaign, we are working hard to raise enough money to take our message to all people in CA-17 and need to show an impressive end of the year fundraising number.
-Please consider a donation of $10, $25 or even $100 today!
-I’d be honored by your support
+Fund my campaign – https://www.tandonforcongress.com/ Like me on Facebook – https://www.facebook.com/TandonforCongress/ Follow my twitter feed – https://twitter.com/tandon4congress Thank you for your continued support of my campaign, we are working hard to raise enough money to take our message to all people in CA-17 and need to show an impressive end of the year fundraising number.
+Please consider a donation of $# $# or even $# today!
+I’d be honored by your support admin previous No Affirmative Education in our School System! next Campaign Announcement: Ritesh Tandon, CA-17 PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

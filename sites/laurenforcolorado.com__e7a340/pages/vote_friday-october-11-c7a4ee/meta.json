@@ -1,7 +1,11 @@
 {
- "description": "Your ballot has been mailed and should be in your mailbox in the coming days. Vote for Congresswoman Lauren Boebert, Republicans up and down the ballot, \u2026",
+ "description": "Your ballot has been mailed and should be in your mailbox in the coming days. Vote for Congresswoman Lauren Boebert, Republicans up and down the ballot, …",
  "final_url": "https://laurenforcolorado.com/vote/friday-october-11/",
+ "fingerprint": "2ff36ba0399315dffc34e76e8fa7162ef469da7c",
+ "format": 3,
  "paid_for_by": "Paid for By Lauren Boebert for Congress",
  "title": "Friday, October 11th | Lauren Boebert",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

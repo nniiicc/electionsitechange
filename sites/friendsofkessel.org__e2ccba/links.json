@@ -1,12 +1,58 @@
 [
-"https://friendsofkessel.org/",
-"https://friendsofkessel.org/get-involved",
-"https://friendsofkessel.org/meet-shawn",
-"https://friendsofkessel.org/news-updates",
-"https://friendsofkessel.org/vote",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=100",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=250",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=50",
-"https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=500"
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate?amount=500"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://friendsofkessel.org/get-involved/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://friendsofkessel.org/meet-shawn/"
+},
+{
+"text": "MEET SHAWN",
+"href": "https://friendsofkessel.org/meet-shawn/"
+},
+{
+"text": "NEWS",
+"href": "https://friendsofkessel.org/news-updates/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/friends-of-kessel-0ecee0c9/donate"
+},
+{
+"text": "PRIORITIES",
+"href": "https://friendsofkessel.org//#priorities"
+},
+{
+"text": "VOTE",
+"href": "https://friendsofkessel.org/vote/"
+},
+{
+"text": "[image]",
+"href": "https://friendsofkessel.org/"
+}
 ]

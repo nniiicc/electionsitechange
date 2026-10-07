@@ -1,6 +1,5 @@
-Donna Miller Files Petitions for 2nd Congressional District Seat
-"It feels great!" That is the response Donna Miller expressed after filing petitions for her congressional bid in Springfield.
+0 Skip to Content Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Open Menu Close Menu Meet Donna Priorities Endorsements In the News Vote Volunteer Contact District Map Donate Donna Miller Files Petitions for 2nd Congressional District Seat Oct 28 Written By Guest User "It feels great!" That is the response Donna Miller expressed after filing petitions for her congressional bid in Springfield.
 The Cook County Commissioner is running for the 2nd Congressional District seat being vacated by U.S.
 Rep.
 Robin Kelly, who is seeking to represent Illinois in the U.S.
-Senate…
+Senate… Guest User Previous Previous Cook County and Chicago launch new violence against women task force Next Next County resolution would establish task force to recommend policies addressing violence against women Media Center Please make checks payable to: Donna Miller for Congress PO Box 52 Glenwood, IL 60425 Paid for by Donna Miller for Congress

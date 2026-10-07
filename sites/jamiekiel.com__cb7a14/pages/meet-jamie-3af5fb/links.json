@@ -1,12 +1,54 @@
 [
-"https://facebook.com/Kiel.Jamie",
-"https://instagram.com/jamiekiel",
-"https://jamiekiel.com/",
-"https://jamiekiel.com/donate",
-"https://jamiekiel.com/get-involved",
-"https://jamiekiel.com/issues",
-"https://jamiekiel.com/meet-jamie",
-"https://jamiekiel.com/news",
-"https://jamiekiel.com/wp-login.php?action=lostpassword",
-"https://twitter.com/jamiekiel"
+{
+"text": "Donate",
+"href": "https://jamiekiel.com/donate/"
+},
+{
+"text": "Forgot password?",
+"href": "https://jamiekiel.com/wp-login.php?action=lostpassword"
+},
+{
+"text": "Get Involved",
+"href": "https://jamiekiel.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://jamiekiel.com/"
+},
+{
+"text": "Issues",
+"href": "https://jamiekiel.com/issues/"
+},
+{
+"text": "Meet Jamie",
+"href": "https://jamiekiel.com/meet-jamie/"
+},
+{
+"text": "News",
+"href": "https://jamiekiel.com/news/"
+},
+{
+"text": "Sign up to Volunteer",
+"href": "https://jamiekiel.com/get-involved/"
+},
+{
+"text": "[image: Jamie Kiel for State Representative]",
+"href": "https://jamiekiel.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Kiel.Jamie"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamiekiel"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/jamiekiel"
+},
+{
+"text": "info@jamiekiel.com",
+"href": "mailto:info@jamiekiel.com"
+}
 ]

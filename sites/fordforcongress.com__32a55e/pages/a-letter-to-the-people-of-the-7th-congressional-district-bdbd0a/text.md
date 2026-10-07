@@ -1,5 +1,4 @@
-To the people of the 7th Congressional District,
-I want to begin with gratitude.
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE A Letter to the People of the 7th Congressional District By Ford for Congress Campaign Team / March 18, 2026 To the people of the 7th Congressional District, I want to begin with gratitude.
 I am deeply thankful for the trust you have placed in me, for the support you showed throughout this campaign, and for the belief that carried us forward together.
 This victory belongs to the people of this district.
 It belongs to the families, the workers, the seniors, the young people, and the volunteers who gave their time, their energy, and their voice to something bigger than any one campaign.
@@ -33,6 +32,10 @@ It includes working families and small business owners who are navigating real e
 I am ready to serve, and I am ready to do the work.
 Thank you for your trust.
 Thank you for your voice.
-And thank you for the opportunity to represent all of you.
-— La Shawn K.
-Ford
+And thank you for the opportunity to represent all of you. — La Shawn K.
+Ford MAKE A CONTRIBUTION Previous IN MEMORY OF REV.
+JESSE JACKSON Next NOVEMBER 3 IS ELECTION DAY Leave a Comment Cancel Reply Your email address will not be published.
+Required fields are marked * Type here..
+Name* Email* Website Save my name, email, and website in this browser for the next time I comment.
+A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

@@ -1,6 +1,4 @@
-08/31/2020
-Aloha Puna,
-I support funding a quality education for Hawaii’s children.
+Skip to content Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Home Meet Greggor Priorities Support Donate Education Updates Education Updates 08/31/2020 Aloha Puna, I support funding a quality education for Hawaii’s children.
 They are our future, and the path to a better tomorrow begins with a strong foundation that begins with supportive families, infrastructure needs, and distance learning.
 I have a vision that the Department of Education should provide the same access to a quality education for all of its students across the state.
 While this will take time to implement, our district cannot settle for accepting second-class status.
@@ -21,5 +19,4 @@ Administrators, educators, parents and lawmakers will need to come together to c
 Let us leave politics at the door, and come together for all children’s education to be successful during these tough times.
 Please join our working group to explore these opportunities.
 We will have zoom meetings every week.
-Your candidate for Puna Rep,
-– G 🤙🏽🤙🏽
+Your candidate for Puna Rep, – G 🤙🏽🤙🏽 Greggor Ilagan 2020-08-31T19:22:01-10:00 Greggor Ilagan State House, District 4 (808) 557-5819 aloha@voteilagan.com Vote for Ilagan HC3 Box 14048 Keaau, HI 96749 Primary: Saturday, August 8, 2026 © Copyright | Vote for Ilagan, HC3 Box 14048, Keaau, HI 96749 Facebook Instagram Page load link Go to Top

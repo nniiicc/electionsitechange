@@ -1,7 +1,4 @@
-Signed in as:
-filler@godaddy.com
-American Jobs for American Families
-In Massachusetts Congressional District 8, true end-to-end manufacturing has nearly disappeared — only three companies remain, employing just three hundred people total.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE More Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE Signed in as: filler@godaddy.com Home Meet Rob Priorities BOSTON FORGE/BOXER WORKS Contact DONATE Account My Account Sign out Sign In My Account About Us BOSTON FORGE & BOXER WORKS American Jobs for American Families In Massachusetts Congressional District 8, true end-to-end manufacturing has nearly disappeared — only three companies remain, employing just three hundred people total.
 Many healthcare and life science jobs are threatened by AI.
 Boxer Works and Boston Forge put American citizens first.
 This strictly private-sector initiative will create between 21,000 and 41,000 new manufacturing jobs, along with private-sector childcare and housing for working families.
@@ -11,22 +8,13 @@ Boston Forge will support roughly 3,000 innovators and entrepreneurs.
 It runs an intensive three-year program for young Americans ages 23 to 35, with three overlapping cycles running simultaneously — one group innovating, one handling marketing and operations, and one spinning out to launch their own businesses.
 Like the Pilgrims in 1620 who realized they had to rely on themselves to survive and flourish, this is about bringing real capitalism back to a capitalist country through private enterprise.
 This is about good jobs, strong supply chains, and rebuilding American families — so our children and grandchildren can marry, buy homes, raise families, and live the American Dream.
-Dedham Resident Rob Burke Launches “Boxer Works”
-Revitalizing Brockton as the Manufacturing Hub of MA-08
-Plan to Create 21,000 Manufacturing Jobs
-and Train 3,600–10,000 Youth Through Junior ROTC Partnerships
-Dedham, MA – Dedham resident and “American Citizens First” advocate Rob Burke today unveiled “Boxer Works,” a bold economic vision to bring manufacturing, opportunity, and pride back to Massachusetts’ 8th Congressional District, with Brockton positioned as the central manufacturing hub.
+Revive MA-8: Boxer Plan Dedham Resident Rob Burke Launches “Boxer Works” Revitalizing Brockton as the Manufacturing Hub of MA-08 Plan to Create 21,000 Manufacturing Jobs and Train 3,600–10,000 Youth Through Junior ROTC Partnerships Dedham, MA – Dedham resident and “American Citizens First” advocate Rob Burke today unveiled “Boxer Works,” a bold economic vision to bring manufacturing, opportunity, and pride back to Massachusetts’ 8th Congressional District, with Brockton positioned as the central manufacturing hub.
 Inspired by Brockton’s unbreakable champions—Rocky Marciano, Tom Brady, and Coach Armond Colombo, Burke is delivering a ready-to-go plan to turn empty factories into engines of prosperity.
 “These legends never quit, and neither will we,” Burke said.
-“Boxer Works will make Brockton the manufacturing hub of the 8th District, utilizing fusion energy producing aerospace and defense parts, robotics, automotive components, medical devices, pharmaceuticals, and precision metals—all made in America by proud American citizens.”
-Key elements of Boxer Works include:
-• State-of-the-art, turnkey facilities centered in Brockton to build a resilient domestic supply chain.
-• Strong partnerships with Junior ROTC programs to provide hands-on training for 3,600–10,000 local high school students and young adults.
-• Projected creation of 21,000 family-sustaining jobs, generating revenue for tax cuts across the district.
+“Boxer Works will make Brockton the manufacturing hub of the 8th District, utilizing fusion energy producing aerospace and defense parts, robotics, automotive components, medical devices, pharmaceuticals, and precision metals—all made in America by proud American citizens.” Key elements of Boxer Works include: • State-of-the-art, turnkey facilities centered in Brockton to build a resilient domestic supply chain. • Strong partnerships with Junior ROTC programs to provide hands-on training for 3,600–10,000 local high school students and young adults. • Projected creation of 21,000 family-sustaining jobs, generating revenue for tax cuts across the district.
 Burke is reaching out directly to the 25–35 generation who have been left behind by lost jobs, lockdowns, mandates, and wasteful spending: "You haven’t been forgotten.
 Your real-world experience and drive are exactly what Boxer Works needs.
 This is your opportunity—get involved, train up, lead the next wave, and secure the high-paying careers you deserve.
-There’s a home for you here."
-Funding will prioritize American citizens first by redirecting wasted federal dollars from misplaced priorities for Illegal Aliens into jobs, housing, healthcare, education and public safety for our communities.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+There’s a home for you here." Funding will prioritize American citizens first by redirecting wasted federal dollars from misplaced priorities for Illegal Aliens into jobs, housing, healthcare, education and public safety for our communities.
+Leading Change in MA-8 DONATE BURKE4CONGRESS Copyright © # BURKE4CONGRESS - All Rights Reserved.
+Powered by

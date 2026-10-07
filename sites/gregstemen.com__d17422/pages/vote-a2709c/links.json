@@ -1,11 +1,38 @@
 [
-"https://casscountynd.gov/our-county/finance-office/elections",
-"https://facebook.com/stemennd27",
-"https://gregstemen.com/",
-"https://gregstemen.com/about",
-"https://gregstemen.com/get-involved",
-"https://gregstemen.com/news-updates",
-"https://gregstemen.com/vote",
-"https://secure.winred.com/greg-stemen-for-north-dakota/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://x.com/GregStemen"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/greg-stemen-for-north-dakota/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/stemennd27/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/GregStemen"
+},
+{
+"text": "Get Involved",
+"href": "https://gregstemen.com/get-involved/"
+},
+{
+"text": "Meet Greg",
+"href": "https://gregstemen.com/about/"
+},
+{
+"text": "News",
+"href": "https://gregstemen.com/news-updates/"
+},
+{
+"text": "Vote",
+"href": "https://gregstemen.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://gregstemen.com/"
+},
+{
+"text": "clicking here",
+"href": "https://www.casscountynd.gov/our-county/finance-office/elections#docaccess-3d144d27a46fed184785315b0c77ec68d0bf90a30add9704cc5214be4fc53cfc"
+}
 ]

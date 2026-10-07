@@ -1,4 +1,4 @@
-I believe ordinary people deserve more than the opportunity to choose who governs them.
+Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect More Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect Home Meet Cubby Why I'm Running Build What Comes Next US District 10 Green Party of MI Connect Why I'm Running I am running for Congress to give Power to the People I believe ordinary people deserve more than the opportunity to choose who governs them.
 We deserve accountable, durable, and meaningful power to shape the institutions, economies, neighborhoods, and public policies that govern our lives.
 My convictions did not begin with this campaign.
 I learned politics first in my home neighborhood of Roxbury in Boston Massachusetts, where like Flint we were abandoned by those in power and left for dead as a community.
@@ -35,5 +35,6 @@ And I will demonstrate another kind of political leadership: one that builds ins
 At the end of the day, my campaign asks a simple question: How do we give regular people more power to build the communities and world they want to enjoy and leave to the generations coming after them?
 That is the work I have been doing for decades.
 If I'm elected your Congressman, it's the work I will do for you.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+What are we planning to build next?
+Find out more Connect With Us Paid for by the Committee to Elect Kwabena "Cubby" Nkromo 615 S.
+Saginaw St Suite 1005 Flint, Mi 48502 Powered by

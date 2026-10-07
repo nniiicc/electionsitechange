@@ -1,10 +1,34 @@
 [
-"https://jimmylappe.com/",
-"https://jimmylappe.com/cart",
-"https://jimmylappe.com/issues",
-"https://secure.actblue.com/donate/jimmy-lappe-1",
-"https://secure.actblue.com/donate/jimmy-lappe-1?amount=100",
-"https://secure.actblue.com/donate/jimmy-lappe-1?amount=25",
-"https://secure.actblue.com/donate/jimmy-lappe-1?amount=250",
-"https://secure.actblue.com/donate/jimmy-lappe-1?amount=50"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jimmy-lappe-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jimmy-lappe-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jimmy-lappe-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jimmy-lappe-1?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.jimmylappe.com/cart"
+},
+{
+"text": "CUSTOM",
+"href": "https://secure.actblue.com/donate/jimmy-lappe-1"
+},
+{
+"text": "Issues",
+"href": "https://www.jimmylappe.com/issues"
+},
+{
+"text": "[image: Jimmy Lappe]",
+"href": "https://www.jimmylappe.com/"
+}
 ]

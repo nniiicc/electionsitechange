@@ -1,5 +1,5 @@
-Protecting Our Environment
-As your State Representative, Michael sits on the Conservation Committee.
+0 Skip to Content Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Legislation Seniors Helping Veterans Ethics Reform Conservation Issues Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Open Menu Close Menu Home Folder: Legislation Back Seniors Helping Veterans Ethics Reform Conservation Folder: Issues Back Small Businesses Healthcare Saving Tower Tee About District Map Photo Gallery Volunteer Donate Protecting Our Environment As your State Representative, Michael sits on the Conservation Committee.
 Michael is committed to protecting Missouri’s wildlife and green spaces throughout the state.
 Michael is working to keep dangerous chemicals out of our waters and food by filing HB2893 which prohibits the use of any glyphosate or any insecticide belonging to the neonicotinoid class of pesticides.
-Michael has also filed legislation, HB 2889 & HB 2890 respectively, to promote awareness for two species endangered in Missouri, the Black Bear and the Hellbender Salamander
+Michael has also filed legislation, HB 2889 & HB 2890 respectively, to promote awareness for two species endangered in Missouri, the Black Bear and the Hellbender Salamander Michael Burton for State Representative 10258 Squire Meadows Dr., Unit #8 St.
+Louis MO, 63123 (314) 753-1165 Paid for by Friends of Michael Burton, Theresa Pelech, Treasurer

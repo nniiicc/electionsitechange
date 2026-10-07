@@ -1,15 +1,62 @@
 [
-"https://donforohio.com/",
-"https://donforohio.com/bio",
-"https://donforohio.com/cart",
-"https://donforohio.com/home",
-"https://donforohio.com/map",
-"https://donforohio.com/media",
-"https://donforohio.com/values",
-"https://donforohio.myshopify.com/",
-"https://drive.google.com/file/d/1KzKC5PWUKjtk3-oeGidGFcuNl5_qnoZ2/view?usp=sharing",
-"https://facebook.com/profile.php?id=61581963835424",
-"https://instagram.com/donforohio",
-"https://secure.actblue.com/donate/donforohio",
-"https://tiktok.com/@donforohio"
+{
+"text": "0",
+"href": "https://donforohio.com/cart"
+},
+{
+"text": "Click to download the PDF version!",
+"href": "https://drive.google.com/file/d/1KzKC5PWUKjtk3-oeGidGFcuNl5_qnoZ2/view?usp=sharing"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/donforohio"
+},
+{
+"text": "Home //",
+"href": "https://donforohio.com/"
+},
+{
+"text": "Media //",
+"href": "https://donforohio.com/media"
+},
+{
+"text": "Meet Don //",
+"href": "https://donforohio.com/bio"
+},
+{
+"text": "Meet the District //",
+"href": "https://donforohio.com/map"
+},
+{
+"text": "Our Values //",
+"href": "https://donforohio.com/values"
+},
+{
+"text": "Store //",
+"href": "https://donforohio.myshopify.com/"
+},
+{
+"text": "[image: Don Leonard for US Congress]",
+"href": "https://donforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://donforohio.com/home"
+},
+{
+"text": "[image]",
+"href": "https://drive.google.com/file/d/1KzKC5PWUKjtk3-oeGidGFcuNl5_qnoZ2/view?usp=sharing"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581963835424"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@donforohio"
+}
 ]

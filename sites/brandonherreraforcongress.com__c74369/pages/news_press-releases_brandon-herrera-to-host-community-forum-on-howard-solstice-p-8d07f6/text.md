@@ -1,28 +1,15 @@
-BRANDON HERRERA TO HOST COMMUNITY FORUM ON HOWARD – SOLSTICE POWER LINE PROJECT
-FOR IMMEDIATE RELEASE
-San Antonio, TX – Brandon Herrera, the Republican nominee for Texas’s 23rd Congressional District, will host a community forum on May 13 in Medina County to discuss the impacts of the Howard – Solstice Power Line Project.
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram Skip to content BRANDON HERRERA TO HOST COMMUNITY FORUM ON HOWARD – SOLSTICE POWER LINE PROJECT Press Releases • May 11, 2026 FOR IMMEDIATE RELEASE Monday, May 11, 2026 San Antonio, TX – Brandon Herrera, the Republican nominee for Texas’s 23rd Congressional District, will host a community forum on May 13 in Medina County to discuss the impacts of the Howard – Solstice Power Line Project.
 The forum will include advocates and community leaders who will address questions and concerns.
-Herrera made the following statement about the upcoming forum:
-The Howard – Solstice Power Line Project is a major issue impacting West Texas.
+Herrera made the following statement about the upcoming forum: The Howard – Solstice Power Line Project is a major issue impacting West Texas.
 Over 300 miles of transmission lines running from San Antonio to Fort Stockton are a threat for landowners, property values, wildlife, and tourism.
 A lack of transparency, limited information, and a rush to complete this project have created an unnecessary burden on my constituents.
 The goal of this event is to give people the opportunity to speak up and have their voices heard.
-Forum Details:
-Wednesday, May 13
-6:30 PM – 7:30 PM
-Devine VFW Post 3966
-211 W College Ave
-Devine, TX
-Brandon is available for local media interviews.
+Forum Details: Wednesday, May 13 6:30 PM – 7:30 PM Devine VFW Post 3966 211 W College Ave Devine, TX Brandon is available for local media interviews.
 Please contact Kimmie Gonzalez at Kimmie@BrandonHerreraforCongress.com or 904.814.5015.
-More News
-View all
-Herrera Applauds Pause on Big Bend Border Construction
-San Antonio, TX — Following Customs and Border Protection Commissioner Rodney Scott’s pause on construction activity in Big Bend National Park, Brandon Herrera made the following statement: This is 100% the right move.
-I have been a vocal proponent of preserving both Big Bend National Park and Big Bend Ranch State Park, and I’m glad […]
-Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy
-In the first forty-five days of the third quarter, Herrera has raised more money than Katy Stout has during her entire campaign.
-This includes $544,459.60 raised by the Brandon Herrera Victory Fund, […]
-Herrera Response to Big Bend Construction
-San Antonio, TX — Brandon Herrera made the following statement in response to construction in the Big Bend region: I have made it very clear that I oppose any construction in the Big Bend area that disturbs the natural landscape and threatens the jobs that tourism brings when non-intrusive technology would do the job.
-The […]
+Share This news Share this with those who live in Texas District 23!
+Help elect Brandon Herrera to Congress More News View all Press Releases Herrera Campaign Announces $# Raised in Q3 San Antonio, TX – The Herrera campaign today announced that it raised a total of $1,261,794.21 in the critical third quarter just ahead of the final sprint to Election Day.
+This includes S1,072,152.27 raised by the Brandon Herrera Victory Committee, $176,141.94 raised by Brandon Herrera for Congress, and $13,500 raised by the campaign’s affiliated hybrid […] Read More Posted October 6, 2026 Press Releases Herrera Applauds Pause on Big Bend Border Construction San Antonio, TX — Following Customs and Border Protection Commissioner Rodney Scott’s pause on construction activity in Big Bend National Park, Brandon Herrera made the following statement: This is 100% the right move.
+I have been a vocal proponent of preserving both Big Bend National Park and Big Bend Ranch State Park, and I’m glad […] Read More Posted August 18, 2026 Press Releases Herrera Breaks $600K in First Half of Q3, Reserves $1.7 Million Ad Buy In the first forty-five days of the third quarter, Herrera has raised more money than Katy Stout has during her entire campaign.
+San Antonio, TX — Since the July 1st start of the third quarter, Brandon Herrera has raised over $600,000 for his campaign committees.
+This includes $544,459.60 raised by the Brandon Herrera Victory Fund, […] Read More Posted August 17, 2026 Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

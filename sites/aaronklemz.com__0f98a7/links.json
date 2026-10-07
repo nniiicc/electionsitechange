@@ -1,8 +1,30 @@
 [
-"http://tiktok.com/klemzforhouse",
-"http://x.com/klemzforhouse",
-"https://facebook.com/klemzforhouse",
-"https://instagram.com/klemzforhouse",
-"https://secure.actblue.com/donate/klemzforhouse",
-"https://youtube.com/@KlemzforHouse"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/klemzforhouse"
+},
+{
+"text": "Email Us",
+"href": "mailto:klemzforhouse@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/klemzforhouse"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/klemzforhouse/"
+},
+{
+"text": "TikTok",
+"href": "http://www.tiktok.com/klemzforhouse"
+},
+{
+"text": "X",
+"href": "http://www.x.com/klemzforhouse"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@KlemzforHouse"
+}
 ]

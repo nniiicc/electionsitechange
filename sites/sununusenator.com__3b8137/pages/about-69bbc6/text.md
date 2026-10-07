@@ -1,5 +1,4 @@
-ABOUT JOHN SUNUNU
-John Sununu knows the Granite State.
+top of page DONATE NOW TO SEND JOHN SUNUNU TO THE SENATE HOME ABOUT JOIN NEWS ENDORSEMENTS DONATE ABOUT JOHN SUNUNU John Sununu knows the Granite State.
 John grew up in Salem, graduated from Salem High, and lives in Rye.
 He always strives to reflect the character of New Hampshire: independent, practical, and results-oriented.
 His earliest political memories are of his mother, Nancy, who served as chair of the Salem School Board and was a catalyst for the family’s long commitment to public service.
@@ -18,3 +17,4 @@ Most recently, he has taught at St.
 Anselm College in Manchester, served as chairman of the board for the Waterville Valley Ski Resort, and as a Director at Boston Scientific—a leading manufacturer of breakthrough medical devices.
 John has also served as a board member for several charitable, educational, and nonprofit organizations across the country.
 John and his wife, Kitty, have been married for more than thirty years and are the proud parents of three children.
+MEDIA DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE PAID FOR BY SUNUNU SENATOR bottom of page

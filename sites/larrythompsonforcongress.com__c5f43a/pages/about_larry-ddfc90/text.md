@@ -1,17 +1,8 @@
-About Larry
-Who Am I?
-Catholic
-Centrist Republican
-Energetic
-Entertainment Lawyer
-Talent Manager
-Film Producer
-Author/Motivational Speaker
-Father
-Larry Thompson, acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, is founder and President of the Larry A.
-Thompson Organization, a next-generation, Los Angeles based Talent Management, Motion Picture, Television, and New Media Production Studio.
+Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos About Larry Who Am I?
+Catholic Centrist Republican Energetic Entertainment Lawyer Talent Manager Film Producer Author/Motivational Speaker Father Larry Thompson, acclaimed Hollywood talent manager and veteran film producer, lawyer, book packager, author, Broadway Producer, and motivational speaker, is founder and President of the Larry A.
+Thompson Organization , a next-generation, Los Angeles based Talent Management, Motion Picture, Television, and New Media Production Studio.
 Thompson has managed the careers of over 250 Stars and produced 21 Movies for Television, 5 Motion Pictures, 2 Television Series, 12 Television Specials, and various Series Pilots.
-He is also the author of the Best-Selling self help book Shine: A Powerful 4-Step Plan For Becoming A Star In Anything You Do.
+He is also the author of the Best-Selling self help book Shine: A Powerful 4-Step Plan For Becoming A Star In Anything You Do .
 Thompson has received the Industry’s prestigious Vision Award and his productions have won 2 Accolade Awards, 2 Imagen Awards, The Epiphany Prize, The Wilbur Award, The Christopher Award, and have received Nominations for 10 Emmys, 6 Imagen Awards, 2 Prism Awards, the Humanitas Prize, and a Golden Globe.
 He serves on the Advisory Boards of The Delta Blues Museum, Paulist Productions, and Good News Communications.
 He is a Founding Member Enthusiast of the Museum of The Bible in Washington, D.C. and a Charter Member of the United States Capitol Historical Society.
@@ -25,8 +16,13 @@ See the Investiture Video.
 Thompson was born, raised, and educated in Mississippi.
 After finishing law school at the University of Mississippi in 1968, he drove three days to the corner of Hollywood and Vine to start his dream career in show business.
 Also from 1968 to 1974, Thompson served in the United States Army Reserve's Judge Advocate General's Corps mostly in Torrance, California.
-As a long time active Republican, Thompson was a Republican Eagle 1981, '82, '83 (Donated to RNC a minimum of $10,000 per Year).
-He was a RNC Member '81,'82, '83, '84
+As a long time active Republican, Thompson w as a Republican Eagle 1981, '82, '83 (Donated to RNC a minimum of $10,000 per Year).
+He w as a RNC Member '81,'82, '83, '84 He was the recipient of the Republican Presidential Taskforce's Medal of Merit Presented to him by President Ronald Reagan 1981.
+Personal Talent Manager for President Ronald Reagan's daughter, Patti Davis, 1982-1986 He co-wrote speeches and prepared President Gerald Ford personally for his Republican National Convention address in 1976 Employed President Gerald Ford's Daughter, Susan Ford, to costar on the Jim Nabor's Show, which Thompson produced all 75 episodes .
+1978 Thompson was the California Campaign Co-Chairman for Senator Bob Dole's Presidential Campaign.
+1996 He Ran for US Congress CA37 as an Independent in 2020.
+Karen Bass won.
+See the 2020 Campaign Video Here .
 In 2024, he ran for US Congress CA32 as the unanimously endorsed Republican Party candidate.
 His opponent Rep.
 Brad Sherman (D) won.
@@ -41,3 +37,5 @@ I want to help YOU.
 I always vote the issues and the person not the political party.
 I encourage you to do the same.
 I ask you for your vote.
+VOTE NOW - VOTING ENDS IN November 3, 2026 at 8:00 PM CONTRIBUTE VOLUNTEER GIVE ENDORSEMENT REQUEST YARD SIGN VOTER INFO VOTING IN THE AGE OF CHAOS AI BILL OF RIGHTS WIKIPEDIA Get Updates Thank you for signing up!
+News Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots New York Times - Representative Brad Sherman to Face Larry Thompson in November Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

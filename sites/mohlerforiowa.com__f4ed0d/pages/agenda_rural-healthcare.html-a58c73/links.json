@@ -1,60 +1,262 @@
 [
-"https://aamc.org/data-reports/students-residents/data/report-residents/2025/table-c6-physician-retention-state-residency-training-state",
-"https://auditor.iowa.gov/reports/file/66425.pdf",
-"https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf",
-"https://cms.gov/data-research/statistics-trends-and-reports/cost-reports",
-"https://data.hrsa.gov/DataDownload/AHRF/AHRF_2024-2025_CSV.zip",
-"https://downloads.cms.gov/FILES/HCRIS/HOSP10FY2022.ZIP",
-"https://downloads.cms.gov/FILES/HCRIS/HOSP10FY2024.ZIP",
-"https://ecfr.gov/current/title-42/part-438/section-438.6",
-"https://govinfo.gov/content/pkg/FR-2025-11-28/pdf/2025-21332.pdf",
-"https://hhs.iowa.gov/media/16564/download",
-"https://iowaledger.com/",
-"https://kff.org/affordable-care-act/state-indicator/marketplace-average-benchmark-premiums",
-"https://kffhealthnews.org/health-industry/medicaid-insurer-contracts-iowa-governor-race",
-"https://le.utah.gov/Session/2025/bills/enrolled/SB0209.pdf",
-"https://legis.iowa.gov/docs/code/135.pdf",
-"https://legis.iowa.gov/docs/code/135B.1.pdf",
-"https://legis.iowa.gov/docs/code/135B.pdf",
-"https://legis.iowa.gov/docs/code/147A.1.pdf",
-"https://legis.iowa.gov/docs/code/147A.pdf",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/249A.18.pdf",
-"https://legis.iowa.gov/docs/code/249A.pdf",
-"https://legis.iowa.gov/docs/code/249O.pdf",
-"https://legis.iowa.gov/docs/code/256.222.pdf",
-"https://legis.iowa.gov/docs/code/256.pdf",
-"https://legis.iowa.gov/docs/code/25B.2.pdf",
-"https://legis.iowa.gov/docs/code/25B.3.pdf",
-"https://legis.iowa.gov/docs/code/25B.pdf",
-"https://legis.iowa.gov/docs/code/28E.pdf",
-"https://legis.iowa.gov/docs/code/357F.pdf",
-"https://legis.iowa.gov/docs/code/422D.1.pdf",
-"https://legis.iowa.gov/docs/code/422D.6.pdf",
-"https://legis.iowa.gov/docs/code/422D.pdf",
-"https://legis.iowa.gov/docs/code/507B.4A.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1602281.pdf",
-"https://legis.iowa.gov/docs/publications/HJNL/20260303_HJNL.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/86/HF2460.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2635.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2783.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF972.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2422.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2472.pdf",
-"https://legis.iowa.gov/docs/publications/LGI/91/HF2007.pdf",
-"https://legis.iowa.gov/docs/publications/SJNL/20260304_SJNL.pdf",
-"https://macpac.gov/wp-content/uploads/2026/02/MACSTATS_Feb2026_WEB_508.pdf",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nlrb.gov/case/18-CA-387667",
-"https://rhrc.umn.edu/wp-content/uploads/2026/05/county_OBstat_2010_2024.xlsx",
-"https://robsand.com/priorities",
-"https://secure.actblue.com/donate/mohlerforiowa",
-"https://thegazette.com/news/elections/state/how-iowa-s-candidates-for-governor-see-the-future-of-medicaid/article_299694f0-ce3e-4cde-9b00-fee1fbefa9c5.html",
-"https://thegazette.com/news/elections/state/sand-says-he-d-undo-private-medicaid-management-on-day-1/article_32950a9a-c9da-4a79-9647-f572c9360973.html"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "CMS hospital cost reports",
+"href": "https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports"
+},
+{
+"text": "Center for Healthcare Quality and Payment Reform",
+"href": "https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Iowa HHS",
+"href": "https://hhs.iowa.gov/media/16564/download?inline="
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "KFF Health News",
+"href": "https://kffhealthnews.org/health-industry/medicaid-insurer-contracts-iowa-governor-race/"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "State Auditor's report",
+"href": "https://www.auditor.iowa.gov/reports/file/66425.pdf"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Gazette",
+"href": "https://www.thegazette.com/news/elections/state/how-iowa-s-candidates-for-governor-see-the-future-of-medicaid/article_299694f0-ce3e-4cde-9b00-fee1fbefa9c5.html"
+},
+{
+"text": "The Gazette",
+"href": "https://www.thegazette.com/news/elections/state/sand-says-he-d-undo-private-medicaid-management-on-day-1/article_32950a9a-c9da-4a79-9647-f572c9360973.html"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "aamc.org",
+"href": "https://www.aamc.org/data-reports/students-residents/data/report-residents/2025/table-c6-physician-retention-state-residency-training-state"
+},
+{
+"text": "case page",
+"href": "https://www.nlrb.gov/case/18-CA-387667"
+},
+{
+"text": "chqpr.org",
+"href": "https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf"
+},
+{
+"text": "data.hrsa.gov",
+"href": "https://data.hrsa.gov/DataDownload/AHRF/AHRF_2024-2025_CSV.zip"
+},
+{
+"text": "downloads.cms.gov",
+"href": "https://downloads.cms.gov/FILES/HCRIS/HOSP10FY2022.ZIP"
+},
+{
+"text": "downloads.cms.gov",
+"href": "https://downloads.cms.gov/FILES/HCRIS/HOSP10FY2024.ZIP"
+},
+{
+"text": "enrolled bill",
+"href": "https://le.utah.gov/Session/2025/bills/enrolled/SB0209.pdf"
+},
+{
+"text": "federal rules",
+"href": "https://www.ecfr.gov/current/title-42/part-438/section-438.6"
+},
+{
+"text": "govinfo.gov",
+"href": "https://www.govinfo.gov/content/pkg/FR-2025-11-28/pdf/2025-21332.pdf"
+},
+{
+"text": "hhs.iowa.gov",
+"href": "https://hhs.iowa.gov/media/16564/download?inline="
+},
+{
+"text": "kff.org",
+"href": "https://www.kff.org/affordable-care-act/state-indicator/marketplace-average-benchmark-premiums/"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/135.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/135B.1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/135B.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/147A.1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/147A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/249A.18.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/249A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/249O.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.222.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.2.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.3.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/25B.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/28E.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/357F.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422D.1.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422D.6.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/422D.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/507B.4A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1602281.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/HJNL/20260303_HJNL.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/86/HF2460.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2635.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2783.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF972.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2422.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2472.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGI/91/HF2007.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/SJNL/20260304_SJNL.pdf"
+},
+{
+"text": "macpac.gov",
+"href": "https://www.macpac.gov/wp-content/uploads/2026/02/MACSTATS_Feb2026_WEB_508.pdf"
+},
+{
+"text": "rhrc.umn.edu",
+"href": "https://rhrc.umn.edu/wp-content/uploads/2026/05/county_OBstat_2010_2024.xlsx"
+},
+{
+"text": "robsand.com",
+"href": "https://robsand.com/priorities/"
+}
 ]

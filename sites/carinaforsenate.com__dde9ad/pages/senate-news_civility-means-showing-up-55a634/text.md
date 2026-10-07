@@ -1,8 +1,7 @@
-Civility Isn’t About Being Nice.
+0 Skip to Content Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Open Menu Close Menu Home About Carina Issues Yard Signs Volunteer News + Events Resources Contact donate Civility Isn’t About Being Nice.
 It’s About Staying.
-Every August, we’re reminded that it’s National Civility Month.
-And every year, I find myself thinking the same thing:
-I don’t think we’ve gotten civility quite right.
+Get to Know Carina Aug 2 Written By Carina Santa Maria Every August, we’re reminded that it’s National Civility Month.
+And every year, I find myself thinking the same thing: I don’t think we’ve gotten civility quite right.
 Somewhere along the way, we started treating civility like it’s about being polite.
 Don’t raise your voice.
 Don’t make anyone uncomfortable.
@@ -47,9 +46,9 @@ Whether anyone in government is actually listening.
 I’ve talked with Democrats, Republicans, independents, and people who are completely fed up with politics altogether.
 We don’t always agree on every solution.
 But we almost always agree on one thing: people want to feel heard.
-- That starts by showing up.
-- It continues by telling the truth - even when the answer isn’t easy.
-- And it means coming back.
+That starts by showing up.
+It continues by telling the truth - even when the answer isn’t easy.
+And it means coming back.
 That’s the kind of leadership I believe in, and it’s the kind of State Senator I want to be.
 Not someone who only shows up when there’s a ribbon to cut or a camera in the room, but someone who’s willing to have the difficult conversations, to listen before speaking, and to keep showing up long after the headlines have moved on.
 The mother at that kitchen table taught me something I’ll never forget.
@@ -61,6 +60,13 @@ If that's the representation you want for District 27, I'd be honored to have yo
 Thank you to everyone who continues to show up, speak up, and invest in the work of shaping our shared future.
 I’m deeply grateful to be on this journey with you.
 Let’s keep going—because together, we’re stronger.
-With gratitude,
-Carina Santa Maria
-Candidate for Illinois State Senate, District 27
+With gratitude, Carina Santa Maria Candidate for Illinois State Senate, District 27 Get to Know Carina Carina Santa Maria Previous Previous The Work Isn't Finished Next Next Compassion Isn't Soft — It's Policy HOME | ABOUT CARINA | ISSUES | VOLUNTEER | NEWS + EVENTS | RESOURCES | DISTRICT MAP | CONTACT (630) 788-1985 info@citizensforcarina.com PRIVACY POLICY Website paid for by Citizens for Carina Custom designed website by This Way to Fabulous Inc.
+DONATE NOW Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Updated Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up We respect your privacy.
+By providing your email, you are opting into receiving emails from Citizens for Carina.
+You may opt out at anytime.
+If you have any questions, contact info@citizensforcarina.com.
+Thank you!
+FOLLOW ALONG @CSMFORILLINOIS

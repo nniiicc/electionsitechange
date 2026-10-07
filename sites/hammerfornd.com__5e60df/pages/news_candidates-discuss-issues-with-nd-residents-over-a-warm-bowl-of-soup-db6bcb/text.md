@@ -1,5 +1,6 @@
-Candidates discuss issues with ND residents over a warm bowl of soup
-March 24, 2026
-PEKIN, N.D.
+0 Skip to Content Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Open Menu Close Menu Home Meet Trygve Priorities News Videos Calendar Request a Yard Sign Invite Trygve Contact Us Donate Candidates discuss issues with ND residents over a warm bowl of soup Mar 29 Written By Nicole DesRosier March 24, 2026 Democratic candidates John Kelly, Trygve Hammer, and Diane Norris outside the Pekin Community Center to meet with residents to discuss their political goals on Thursday, March 19.
+Photo by Mark C.
+Robinson PEKIN, N.D.
 (March 19, 2026) – As the winter season drew to a close on a warm, sunny afternoon at the Pekin Community Center, residents gathered for a get-together, partaking of hot soup and tasty snacks while engaging in civil discussion with three Democratic candidates, one of whom is making a bid for a seat in the U.S.
-House of Representatives, while the others are running for office in…
+House of Representatives, while the others are running for office in… Read more Nicole DesRosier Previous Previous Tyler Axness is joined by candidate, Trygve hammer, to speak to Iran, president trump, and more Next Next DIFFERENT VOICE IN NORTH DAKOTA: TRYGVE HAMMER’S RUN FOR CONGRESS Mailing Address: Hammer for ND PO Box 58 Minot, ND 58702 General Inquiries: info@hammerfornd.com Use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Hammer for ND Follow Trygve on Social Media

@@ -1,4 +1,4 @@
-REXBURG, ID ——— Brigham Young University-Idaho employee and Madison County Republican Party Chairman, Doug Ricks announced his candidacy for Representative of District 34, Seat A against the incumbent Ron Nate in the Republican Primary.
+Skip to content 818-758-4076 office@legit.com 3146 Koontz Lane, California Search Close Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Contribute Doug Ricks Announcement Press Release Campaign / By naters REXBURG, ID ——— Brigham Young University-Idaho employee and Madison County Republican Party Chairman, Doug Ricks announced his candidacy for Representative of District 34, Seat A against the incumbent Ron Nate in the Republican Primary.
 From the Madison County Courthouse Commissioner’s room, Doug Ricks announced his candidacy.
 “I love the people of East Idaho and the surroundings we enjoy.
 This is a great place to live and raise a family,” said Ricks during his announcement speech.
@@ -6,14 +6,12 @@ This is a great place to live and raise a family,” said Ricks during his annou
 The first area of focus is the Economy.
 Afterwards, Ricks told supporters, “Currently the economy is good and everyone is feeling optimistic about things, but we can do better.
 It is time to focus on ways for Government and Private Business to work together in new and innovative ways.
-We need to find ways to create a business-friendly environment that is inviting to new businesses.”
-The second focus area is Education.
+We need to find ways to create a business-friendly environment that is inviting to new businesses.” The second focus area is Education.
 Ricks’ stance on education has been consistent throughout the years.
 “As an educator, I understand the difficulties today’s teachers face.
-If elected, I will work to support our teachers and improve the quality of education our students receive.”
-The final focus point of the campaign will be accurately representing the needs of our community.
+If elected, I will work to support our teachers and improve the quality of education our students receive.” The final focus point of the campaign will be accurately representing the needs of our community.
 “The main responsibility of any elected official is to put the needs of their constituents first,” said Ricks as he left the courthouse.
-“As a local party leader, I understand the needs of our region and the relationships necessary to get things done.”
-Find out more about Doug at the official campaign website – dougricks.com and the official Facebook page.
+“As a local party leader, I understand the needs of our region and the relationships necessary to get things done.” Find out more about Doug at the official campaign website – dougricks.com and the official Facebook page.
 As a lifelong East Idaho resident, I look forward to representing the needs of our communities at the State level.
 I believe my leadership experience and commitment to collaborating with fellow Legislators make me an ideal choice to represent Bonneville and Madison counties.
+Post navigation ← Previous Post Next Post → Search for: Recent Posts D34 Newsletter Week 2 D34 Newsletter Week 1 Idaho’s 66th Legislative Session Doug Ricks Announcement Press Release Doug’s Announcement Speech for Representative Seat 34A Archives January 2021 December 2020 Categories Bills Campaign Legislation Newsletter Contact Info Rexburg, Idaho 83440 ricksford34@gmail.com (208) 557-9665 Home About Issues News Legislation Contact Menu Home About Issues News Legislation Contact Copyright © # Doug Ricks | All rights reserved | Website created by Nathan Ricks

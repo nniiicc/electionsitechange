@@ -1,8 +1,6 @@
-Skip navigation menu
-Learn more about Courtney McClain
-Why Courtney is Running
-"Congressional District 4 is ready for change, and I'm here to deliver it."
-Courtney McClain is running for South Carolina's Fourth Congressional District for the U.S.
+Skip navigation menu About Issues Campaign Merch Contact Volunteer Here!
+Events Donate Learn more about Courtney McClain About Issues Campaign Merch Contact Volunteer Here!
+Events Donate Learn more about Courtney McClain Why Courtney is Running "Congressional District 4 is ready for change, and I'm here to deliver it." Courtney McClain is running for South Carolina's Fourth Congressional District for the U.S.
 House of Representatives.
 Courtney is a proud Daughter of the South, born and raised in Spartanburg, South Carolina, a city that shaped her deep-rooted passion for civic leadership.
 Her family has lived in Spartanburg for over two centuries.
@@ -25,3 +23,5 @@ Courtney has actively lobbied in both chambers of the South Carolina Legislature
 Her grassroots organizing has mobilized tens of thousands across the U.S. for a range of movements that center on the betterment of the community.
 Courtney McClain is not just a rising leader; she is a catalyst for change, committed to building a more affordable, inclusive, and empowered future for Greenville - Spartanburg and beyond.
 She hopes to continue her legacy of igniting fires of change wherever she steps, by continuing her fight for the people of South Carolina in the United States House of Representatives.
+Contact us at info@mcclainforsc.com For mailing: P.O.
+Box 61, Spartanburg, South Carolina, 29304 Terms of Service Privacy and Policy Powered by RUN! website builder Paid for by McClainForCongressSC You need to enable JavaScript to run this app.

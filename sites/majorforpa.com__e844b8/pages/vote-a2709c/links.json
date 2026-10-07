@@ -1,12 +1,50 @@
 [
-"https://facebook.com/MajorForPA",
-"https://majorforpa.com/",
-"https://majorforpa.com/about",
-"https://majorforpa.com/contact",
-"https://majorforpa.com/donate",
-"https://majorforpa.com/get-involved",
-"https://majorforpa.com/vote",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+{
+"text": "ABSENTEE BALLOT INFORMATION",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "About",
+"href": "https://www.majorforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.majorforpa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.majorforpa.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.majorforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.majorforpa.com"
+},
+{
+"text": "Info@MajorForPA.com",
+"href": "mailto:Info@MajorForPA.com"
+},
+{
+"text": "MAIL IN BALLOT APPLICATION",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "PA ONLINE VOTER REGISTRATION",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.majorforpa.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://www.majorforpa.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MajorForPA"
+}
 ]

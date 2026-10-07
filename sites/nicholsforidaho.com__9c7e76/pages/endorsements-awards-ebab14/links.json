@@ -1,40 +1,158 @@
 [
-"https://facebook.com/nicholsforidaho",
-"https://instagram.com/nicholsforidaho",
-"https://nicholsforidaho.com/",
-"https://nicholsforidaho.com/about",
-"https://nicholsforidaho.com/contact",
-"https://nicholsforidaho.com/donate",
-"https://nicholsforidaho.com/endorsements-awards",
-"https://nicholsforidaho.com/for-the-record",
-"https://nicholsforidaho.com/issues",
-"https://nicholsforidaho.com/media",
-"https://nicholsforidaho.com/photos",
-"https://nicholsforidaho.com/social-media-policy",
-"https://nicholsforidaho.com/voter-guide",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/CAI.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712714996364.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715006781.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715029730.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715035694.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715044818.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715054809.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715059878.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715069238.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715095063.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715105122.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715119828.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715135888.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715142495.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715162387.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/GOA-300x300.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/ICL.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/Nichols_Tammy-Award.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/Screenshot_20240409_201357_Facebook.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/Tammy-Nichols.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/04/TammyNichols_Endorsement-2.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/05/441402224_845707284045905_5351214838468841715_n.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/05/441911031_846666653949968_4857958589274029074_n.jpg",
-"https://nicholsforidaho.com/wp-content/uploads/2024/05/GMial5wW8AAGfpf.jpg",
-"https://twitter.com/nicholsforidaho"
+{
+"text": "About",
+"href": "https://nicholsforidaho.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://nicholsforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://nicholsforidaho.com/donate/"
+},
+{
+"text": "Endorsements & Awards",
+"href": "https://nicholsforidaho.com/endorsements-awards/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/nicholsforidaho/"
+},
+{
+"text": "Home",
+"href": "https://nicholsforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://nicholsforidaho.com/issues/"
+},
+{
+"text": "My Record",
+"href": "https://nicholsforidaho.com/for-the-record/"
+},
+{
+"text": "Newsletters",
+"href": "https://nicholsforidaho.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://nicholsforidaho.com/photos/"
+},
+{
+"text": "Social Media Comment Policy",
+"href": "https://nicholsforidaho.com/social-media-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://nicholsforidaho.com/voter-guide/"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/CAI.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712714996364.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715006781.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715029730.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715035694.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715044818.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715054809.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715059878.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715069238.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715095063.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715105122.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715119828.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715135888.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715142495.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/FB_IMG_1712715162387.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/GOA-300x300.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/ICL.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/Nichols_Tammy-Award.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/Screenshot_20240409_201357_Facebook.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/Tammy-Nichols.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/04/TammyNichols_Endorsement-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/05/441402224_845707284045905_5351214838468841715_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/05/441911031_846666653949968_4857958589274029074_n.jpg"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2024/05/GMial5wW8AAGfpf.jpg"
+}
 ]

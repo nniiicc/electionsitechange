@@ -1,3 +1,4 @@
-WA Asian Culture Club & Lunar New Year Event
-Great to have Westford Academy (WA) Asian Culture Club (ACC) and leaders of the annual WA Lunar New Year event on the show!
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate WA Asian Culture Club & Lunar New Year Event Feb 3 Written By James Arciero Great to have Westford Academy (WA) Asian Culture Club (ACC) and leaders of the annual WA Lunar New Year event on the show!
 Ying Ma, the WA Mandarin teacher, Jada Gil Promlee, the ACC President, and Harsheta Krishnakunar the WA ACC Vice President, came to talk about the club and their major annual event, the Lunar New Year celebration, scheduled for February 8, 2025!
+James Arciero Previous Previous Sean Kelly Next Next Dr.
+Ann Westerheim Paid for by the Committee to Elect Jim Arciero

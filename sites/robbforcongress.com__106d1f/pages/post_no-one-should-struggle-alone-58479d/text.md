@@ -1,13 +1,10 @@
-No One Should Struggle Alone
-Strengthening Mental Health
-I’ve sat with people on some of the hardest days of their lives.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE No One Should Struggle Alone Mar 22 2 min read Strengthening Mental Health I’ve sat with people on some of the hardest days of their lives.
 Not on stages.
 Not in meetings.
 In living rooms.
 In hospital rooms.
 In quiet moments when everything feels like it’s falling apart.
-And one thing shows up again and again:
-People are carrying more than they can carry on their own.
+And one thing shows up again and again: People are carrying more than they can carry on their own.
 Sometimes it’s anxiety that won’t let up.
 Sometimes it’s depression that drains the energy out of everything.
 Sometimes it’s grief, stress, or burnout that just keeps building.
@@ -31,11 +28,7 @@ How they parent.
 How they show up in relationships.
 How they get through the day.
 And when people don’t have support, that pressure builds.
-Here’s what needs to change:
-- Mental health care needs to be easier to access, especially in rural communities
-- It needs to be affordable, so people don’t have to choose between care and their bills
-- And it needs to be part of how we think about health, not an afterthought
-Because no one should have to wait until things fall apart to get help.
+Here’s what needs to change: Mental health care needs to be easier to access, especially in rural communities It needs to be affordable, so people don’t have to choose between care and their bills And it needs to be part of how we think about health, not an afterthought Because no one should have to wait until things fall apart to get help.
 As a pastor, I’ve seen what happens when people finally get the support they need.
 The weight starts to lift.
 Clarity returns.
@@ -54,4 +47,4 @@ Where people don’t have to navigate it alone.
 Where getting support is normal, not complicated.
 Because at the end of the day, this isn’t just about policy.
 It’s about people.
-And no one should have to struggle alone.
+And no one should have to struggle alone. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

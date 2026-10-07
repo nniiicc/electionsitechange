@@ -1,13 +1,46 @@
 [
-"https://kevinhardee.com/about-kevin.html",
-"https://kevinhardee.com/assets/dill-endorsment-post.png",
-"https://kevinhardee.com/assets/garrell-endorsment-post.png",
-"https://kevinhardee.com/assets/hatley-endorsment-post.png",
-"https://kevinhardee.com/assets/jay-lucas-endorsment-letter-lg.jpg",
-"https://kevinhardee.com/assets/lifepac_endorsement-letter-lg.jpg",
-"https://kevinhardee.com/assets/sc-primary-endorsement-letter-lg.jpg",
-"https://kevinhardee.com/contact-kevin.html",
-"https://kevinhardee.com/endorsements.html",
-"https://kevinhardee.com/index.html",
-"https://kevinhardee.com/volunteer.html"
+{
+"text": "About Kevin",
+"href": "https://kevinhardee.com/about-kevin.html"
+},
+{
+"text": "Contact Kevin",
+"href": "https://kevinhardee.com/contact-kevin.html"
+},
+{
+"text": "Endorsements",
+"href": "https://kevinhardee.com/endorsements.html"
+},
+{
+"text": "Home",
+"href": "https://kevinhardee.com/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://kevinhardee.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/dill-endorsment-post.png"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/garrell-endorsment-post.png"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/hatley-endorsment-post.png"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/jay-lucas-endorsment-letter-lg.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/lifepac_endorsement-letter-lg.jpg"
+},
+{
+"text": "[image]",
+"href": "https://kevinhardee.com/assets/sc-primary-endorsement-letter-lg.jpg"
+}
 ]

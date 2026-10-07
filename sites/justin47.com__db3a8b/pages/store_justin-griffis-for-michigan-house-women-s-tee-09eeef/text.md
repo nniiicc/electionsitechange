@@ -1,29 +1,7 @@
-$34.88–$65.38
-Light, airy, and quietly confident — this racer V-neck brings breathable performance to everyday wear.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis for Michigan House Women's Tee $34.88–$65.38 Light, airy, and quietly confident — this racer V-neck brings breathable performance to everyday wear.
 The ultra-fine RacerMesh fabric has a subtle textured look that reads sporty without shouting.
 Moisture-wicking PosiCharge polyester pulls sweat away and keeps printed colors vivid wash after wash, while the tag-free label and set-in sleeves keep movement smooth and irritation-free.
 Slip it on for long summer days outside, community events, or grassroots campaign shifts — it layers easily and looks polished with minimal effort.
 Consult your decorator for sublimation heat settings if you’re customizing the design.
-Product features
-- Subtle mesh texture for enhanced breathability
-- Moisture-wicking polyester keeps skin dry
-- PosiCharge technology preserves vibrant colors
-- Lightweight 3.8-oz 100% polyester construction
-- Tag-free label and set-in sleeves for comfortable fit
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
-Product features
-- Subtle mesh texture for enhanced breathability
-- Moisture-wicking polyester keeps skin dry
-- PosiCharge technology preserves vibrant colors
-- Lightweight 3.8-oz 100% polyester construction
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
+Product features - Subtle mesh texture for enhanced breathability - Moisture-wicking polyester keeps skin dry - PosiCharge technology preserves vibrant colors - Lightweight 3.8-oz 100% polyester construction - Tag-free label and set-in sleeves for comfortable fit Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Tumble dry: low heat - Iron, steam or dry: low heat - Do not dryclean Option * L / Grey Heather — $45.45 L / Bright Pink — $34.88 M / Bright Pink — $34.88 S / Bright Pink — $34.88 XL / Bright Pink — $34.88 XS / Bright Pink — $34.88 XXL / Bright Pink — $38.88 L / Silver — $40.33 L / White — $40.33 M / Silver — $40.33 M / White — $40.33 S / Silver — $40.33 S / White — $40.33 XL / Silver — $40.33 XL / White — $40.33 XS / Silver — $40.33 XS / White — $40.33 XXL / Silver — $45.28 XXL / White — $45.28 M / Grey Heather — $45.45 S / Grey Heather — $45.45 XL / Grey Heather — $45.45 XS / Grey Heather — $45.45 3XL / Bright Pink — $46.85 XXL / Grey Heather — $50.45 4XL / Bright Pink — $50.85 3XL / Silver — $55.28 3XL / White — $55.28 4XL / Silver — $60.25 4XL / White — $60.25 3XL / Grey Heather — $60.40 4XL / Grey Heather — $65.38 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

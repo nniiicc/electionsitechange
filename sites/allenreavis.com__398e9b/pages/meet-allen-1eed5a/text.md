@@ -1,4 +1,4 @@
-A desire to help others improve their health and serve his community led Dr.
+0 Skip to Content Home Meet Allen Volunteer Donate Open Menu Close Menu Open Menu Close Menu Home Meet Allen Volunteer Donate Home Meet Allen Volunteer Donate View fullsize A desire to help others improve their health and serve his community led Dr.
 Allen Reavis to dentistry.
 He has been enjoying that mission for 39 years in Atchison, Kansas.
 A graduate of UMKC School of Dentistry (1984), Dr.
@@ -16,3 +16,4 @@ Reavis has had the pleasure of sitting on a number of local committees and board
 Benedict's Catholic Church Parish Council, Boy Scouts, and the Community Foundation.
 He and his wife, Sara, have two children Ben and Jenny.
 Ben is in the Air Force and Jenny is a nurse.
+Paid for by Reavis for State Rep., Patsy Porter, Treasurer

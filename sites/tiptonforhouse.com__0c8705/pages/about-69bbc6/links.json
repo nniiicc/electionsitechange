@@ -1,6 +1,30 @@
 [
-"https://tiptonforhouse.com/",
-"https://tiptonforhouse.com/about",
-"https://tiptonforhouse.com/contact",
-"https://tiptonforhouse.com/donate"
+{
+"text": "About",
+"href": "https://tiptonforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://tiptonforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://tiptonforhouse.com/donate/"
+},
+{
+"text": "Donate!",
+"href": "https://tiptonforhouse.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://tiptonforhouse.com/donate"
+},
+{
+"text": "Home",
+"href": "https://tiptonforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://tiptonforhouse.com"
+}
 ]

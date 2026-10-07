@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with the Vote Ryan Weldon campaign to learn more about why Ryan Weldon is the best candidate or how you can get involved to help get him elected.",
  "final_url": "https://www.voteryanweldon.com/contact",
+ "fingerprint": "f5479882363ccdf23b4430f312a282cc2c60dad8",
+ "format": 3,
  "paid_for_by": "Paid for by Vote Ryan Weldon bottom of page",
  "title": "Contact | Vote Ryan Weldon",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

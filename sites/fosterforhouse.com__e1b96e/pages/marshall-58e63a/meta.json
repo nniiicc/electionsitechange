@@ -1,9 +1,9 @@
 {
  "description": "Support Neal Foster for House and explore the photo gallery of his campaign.",
  "final_url": "https://fosterforhouse.com/marshall",
- "paid_for_by": null,
+ "fingerprint": "be00abf8c646be64fd982806753caa1f1ba6fedf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Neal Foster For House - Marshall Photo Gallery",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

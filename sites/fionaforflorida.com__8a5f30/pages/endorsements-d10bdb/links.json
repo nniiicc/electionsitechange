@@ -1,11 +1,50 @@
 [
-"https://facebook.com/FionaMcF",
-"https://fionaforflorida.com/",
-"https://fionaforflorida.com/McFarlandDonationForm.pdf",
-"https://fionaforflorida.com/about",
-"https://fionaforflorida.com/endorsements",
-"https://fionaforflorida.com/issues",
-"https://fionaforflorida.com/volunteer",
-"https://secure.anedot.com/fionaforflorida/donate",
-"https://twitter.com/FionaForFlorida"
+{
+"text": "About",
+"href": "https://fionaforflorida.com/about"
+},
+{
+"text": "Click here for printable support form",
+"href": "https://fionaforflorida.com/McFarlandDonationForm.pdf"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/fionaforflorida/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/fionaforflorida/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://fionaforflorida.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://fionaforflorida.com/"
+},
+{
+"text": "Issues",
+"href": "https://fionaforflorida.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://fionaforflorida.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FionaForFlorida"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FionaMcF/"
+},
+{
+"text": "fiona@fionaforflorida.com",
+"href": "mailto:fiona@fionaforflorida.com"
+},
+{
+"text": "media@fionaforflorida.com",
+"href": "mailto:media@fionaforflorida.com"
+}
 ]

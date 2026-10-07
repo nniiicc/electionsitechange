@@ -1,50 +1,19 @@
-As Nevada’s chief elections officer and official record-keeper, the Secretary of State safeguards our democracy, supports our businesses, and upholds the rule of law.
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Fair and Transparent Leadership electbarnhill Jun 13, 2024 0 Comments As Nevada’s chief elections officer and official record-keeper, the Secretary of State safeguards our democracy, supports our businesses, and upholds the rule of law.
 That responsibility reaches into nearly every corner of public life—from how we vote, to how businesses are formed, to how trust is maintained in state government.
-Protecting Election Integrity and Public Confidence
-The Secretary of State oversees Nevada’s election system to ensure it is fair, accurate, and transparent.
-That means:
-- Maintaining accurate and secure voter registration rolls
-- Overseeing county election administration and voting procedures
-- Enforcing campaign finance reporting and transparency laws
-- Ensuring election results are reported accurately and efficiently
-- Supporting reforms that strengthen voter confidence, including modern verification standards when approved by the Legislature and voters
-Free and fair elections depend not just on access—but on trust.
+Protecting Election Integrity and Public Confidence The Secretary of State oversees Nevada’s election system to ensure it is fair, accurate, and transparent.
+That means: Maintaining accurate and secure voter registration rolls Overseeing county election administration and voting procedures Enforcing campaign finance reporting and transparency laws Ensuring election results are reported accurately and efficiently Supporting reforms that strengthen voter confidence, including modern verification standards when approved by the Legislature and voters Free and fair elections depend not just on access—but on trust.
 Restoring and maintaining that trust is a core duty of the office.
-Serving as Nevada’s Official Record-Keeper
-The Secretary of State is also the state’s central authority for official business and public records.
-This includes:
-- Registering and regulating corporations, LLCs, and partnerships
-- Maintaining business filings so entrepreneurs can operate with clarity and confidence
-- Managing Uniform Commercial Code (UCC) filings for lenders and businesses
-- Preserving public records that ensure accountability and transparency in government and commerce
-When businesses trust the system, they invest, grow, and create jobs for Nevadans.
-Supporting Nevada’s Economic Foundation
-A strong Secretary of State office helps build a stronger Nevada economy.
-That means:
-- Making it faster and easier to start and maintain a business
-- Reducing unnecessary bureaucratic delays and confusion
-- Modernizing systems so filings and records are accessible and efficient
-- Supporting economic diversification beyond gaming and tourism by enabling small business growth statewide
-Nevada’s future depends on an environment where innovation and entrepreneurship can thrive.
-Ensuring Accountability Across State Functions
-The Secretary of State also plays a key oversight role in key regulatory areas that affect everyday Nevadans.
-This includes responsibilities connected to:
-- Election administration and integrity systems
-- Business compliance and financial disclosure enforcement
-- Coordination with state agencies that rely on accurate filings and records
-Strong oversight ensures government operates transparently, consistently, and within the law.
-A Commitment to Fairness, Transparency, and Service
-This office is not about partisan advantage—it is about service to the public.
-A strong Secretary of State must:
-- Treat every voter and business fairly, regardless of party or background
-- Apply the law consistently and without favoritism
-- Ensure public systems are transparent, accessible, and trustworthy
-- Strengthen confidence in Nevada’s institutions through accountability and competence
-Your Independent Voice for Nevada
-Nevada needs leadership that is focused on solutions, not politics.
-This campaign stands for:
-- Election integrity you can verify
-- Government you can trust
-- A business environment that works for everyone
-- A system that puts citizens first
-Because when Nevada’s records are accurate, its elections are trusted, and its businesses can thrive—every Nevadan benefits.
+Serving as Nevada’s Official Record-Keeper The Secretary of State is also the state’s central authority for official business and public records.
+This includes: Registering and regulating corporations, LLCs, and partnerships Maintaining business filings so entrepreneurs can operate with clarity and confidence Managing Uniform Commercial Code (UCC) filings for lenders and businesses Preserving public records that ensure accountability and transparency in government and commerce When businesses trust the system, they invest, grow, and create jobs for Nevadans.
+Supporting Nevada’s Economic Foundation A strong Secretary of State office helps build a stronger Nevada economy.
+That means: Making it faster and easier to start and maintain a business Reducing unnecessary bureaucratic delays and confusion Modernizing systems so filings and records are accessible and efficient Supporting economic diversification beyond gaming and tourism by enabling small business growth statewide Nevada’s future depends on an environment where innovation and entrepreneurship can thrive.
+Ensuring Accountability Across State Functions The Secretary of State also plays a key oversight role in key regulatory areas that affect everyday Nevadans.
+This includes responsibilities connected to: Election administration and integrity systems Business compliance and financial disclosure enforcement Coordination with state agencies that rely on accurate filings and records Strong oversight ensures government operates transparently, consistently, and within the law.
+A Commitment to Fairness, Transparency, and Service This office is not about partisan advantage—it is about service to the public.
+A strong Secretary of State must: Treat every voter and business fairly, regardless of party or background Apply the law consistently and without favoritism Ensure public systems are transparent, accessible, and trustworthy Strengthen confidence in Nevada’s institutions through accountability and competence Your Independent Voice for Nevada Nevada needs leadership that is focused on solutions, not politics.
+This campaign stands for: Election integrity you can verify Government you can trust A business environment that works for everyone A system that puts citizens first Because when Nevada’s records are accurate, its elections are trusted, and its businesses can thrive—every Nevadan benefits.
+Share: Categories: Post navigation Next Next post: Who I Am footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Results, Not Noise.
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
+Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

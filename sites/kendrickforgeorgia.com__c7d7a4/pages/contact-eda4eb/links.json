@@ -1,14 +1,98 @@
 [
-"http://bsky.app/profile/darshunkendrick.bsky.social",
-"https://facebook.com/StateRepDarshunKendrick",
-"https://instagram.com/darshunkendrick",
-"https://kendrickforgeorgia.com/",
-"https://kendrickforgeorgia.com/about",
-"https://kendrickforgeorgia.com/contact",
-"https://kendrickforgeorgia.com/privacy-policy",
-"https://kendrickforgeorgia.com/volunteer",
-"https://secure.actblue.com/donate/general2026",
-"https://secure.actblue.com/donate/post2026fr",
-"https://tiktok.com/@darshunkendrick",
-"https://youtube.com/@KendrickForGeorgia"
+{
+"text": "ABOUT",
+"href": "https://www.kendrickforgeorgia.com/about"
+},
+{
+"text": "CALENDAR",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.kendrickforgeorgia.com/contact"
+},
+{
+"text": "DKForGeorgia@Gmail.com",
+"href": "mailto:DKForGeorgia@Gmail.com"
+},
+{
+"text": "DKendrick@KendrickForGeorgia.com",
+"href": "mailto:DKendrick@KendrickForGeorgia.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/general2026"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/post2026fr"
+},
+{
+"text": "DONATE",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "MEET THE TEAM",
+"href": "https://www.kendrickforgeorgia.com/contact"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kendrickforgeorgia.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.kendrickforgeorgia.com/volunteer"
+},
+{
+"text": "[image: Bluesky]",
+"href": "http://bsky.app/profile/darshunkendrick.bsky.social"
+},
+{
+"text": "[image: Darshun-social-blusky]",
+"href": "http://bsky.app/profile/darshunkendrick.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/StateRepDarshunKendrick"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/darshunkendrick/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@darshunkendrick"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@KendrickForGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.kendrickforgeorgia.com"
+},
+{
+"text": "chief@kendrickforgeorgia.com",
+"href": "mailto:chief@kendrickforgeorgia.com"
+},
+{
+"text": "commsdirector@kendrickforgeorgia.com",
+"href": "mailto:commsdirector@kendrickforgeorgia.com"
+},
+{
+"text": "constituentrep@kendrickforgeorgia.com",
+"href": "mailto:constituentrep@kendrickforgeorgia.com"
+},
+{
+"text": "legaide@kendrickforgeorgia.com",
+"href": "mailto:legaide@kendrickforgeorgia.com"
+}
 ]

@@ -1,17 +1,78 @@
 [
-"https://bsky.app/profile/melatkirosco.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/people/Melat-Kiros-for-Congress/61577934173856",
-"https://instagram.com/MelatKirosCO",
-"https://kiros-for-congress.solidarity.tech/general-info-form",
-"https://kirosforco.com/",
-"https://kirosforco.com/contact",
-"https://kirosforco.com/priorities-2",
-"https://kirosforco.com/privacy-policy",
-"https://secure.actblue.com/donate/melat-kiros-1",
-"https://store.kirosforco.com/",
-"https://tiktok.com/@MelatKirosCO",
-"https://win.kirosforco.com/",
-"https://x.com/MelatKirosCO",
-"https://youtube.com/@MelatKirosCO"
+{
+"text": "Contact Us!",
+"href": "https://www.kirosforco.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melat-kiros-1"
+},
+{
+"text": "Email Us",
+"href": "mailto:info@kirosforco.com"
+},
+{
+"text": "Merch",
+"href": "https://store.kirosforco.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.kirosforco.com/priorities-2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.kirosforco.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Sign Up",
+"href": "https://kiros-for-congress.solidarity.tech/general-info-form"
+},
+{
+"text": "Volunteer",
+"href": "https://win.kirosforco.com/"
+},
+{
+"text": "[image: Kiros for Congress | Melat Kiros for Colorado's First District]",
+"href": "https://www.kirosforco.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/melatkirosco.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Melat-Kiros-for-Congress/61577934173856/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/MelatKirosCO"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@MelatKirosCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MelatKirosCO"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MelatKirosCO"
+},
+{
+"text": "email us",
+"href": "mailto:media@kirosforco.com"
+},
+{
+"text": "info@kirosforco.com",
+"href": "mailto:info@kirosforco.com"
+},
+{
+"text": "media@kirosforco.com",
+"href": "mailto:media@kirosforco.com"
+}
 ]

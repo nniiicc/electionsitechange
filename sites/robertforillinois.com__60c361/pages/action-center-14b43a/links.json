@@ -1,11 +1,42 @@
 [
-"https://facebook.com/RobertForIllinois",
-"https://robertforillinois.com/",
-"https://robertforillinois.com/about",
-"https://robertforillinois.com/action-center",
-"https://robertforillinois.com/cart",
-"https://robertforillinois.com/district-map",
-"https://robertforillinois.com/privacy-policy",
-"https://robertforillinois.com/promise-to-deliver",
-"https://secure.winred.com/robert-for-illinois/donate-today"
+{
+"text": "0",
+"href": "https://www.robertforillinois.com/cart"
+},
+{
+"text": "47th District",
+"href": "https://www.robertforillinois.com/district-map"
+},
+{
+"text": "About Robert",
+"href": "https://www.robertforillinois.com/about"
+},
+{
+"text": "Action Center",
+"href": "https://www.robertforillinois.com/action-center"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/robert-for-illinois/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.robertforillinois.com/"
+},
+{
+"text": "Privacy Policy and Terms of Use",
+"href": "https://www.robertforillinois.com/privacy-policy"
+},
+{
+"text": "Promise to Deliver",
+"href": "https://www.robertforillinois.com/promise-to-deliver"
+},
+{
+"text": "[image: Robert Vrankovich for State Representative]",
+"href": "https://www.robertforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RobertForIllinois"
+}
 ]

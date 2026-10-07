@@ -1,16 +1,66 @@
 [
-"https://facebook.com/VoteAndrewMyers",
-"https://instagram.com/myersforhouse",
-"https://tiktok.com/@voteandrewmyers",
-"https://twitter.com/MyersVote",
-"https://voteandrewmyers.com/",
-"https://voteandrewmyers.com/bills",
-"https://voteandrewmyers.com/contact",
-"https://voteandrewmyers.com/donate",
-"https://voteandrewmyers.com/endorsements",
-"https://voteandrewmyers.com/events",
-"https://voteandrewmyers.com/photos",
-"https://voteandrewmyers.com/priorities",
-"https://voteandrewmyers.com/priorities-survey",
-"https://youtube.com/@andrewmyersforminnesotahou3906"
+{
+"text": "Bills",
+"href": "https://voteandrewmyers.com/bills/"
+},
+{
+"text": "Community Priorities",
+"href": "https://voteandrewmyers.com/priorities/"
+},
+{
+"text": "Contact",
+"href": "https://voteandrewmyers.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://voteandrewmyers.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://voteandrewmyers.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://voteandrewmyers.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/MyersVote"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/VoteAndrewMyers"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/myersforhouse/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@voteandrewmyers"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@andrewmyersforminnesotahou3906"
+},
+{
+"text": "Home",
+"href": "https://voteandrewmyers.com/"
+},
+{
+"text": "Photos",
+"href": "https://voteandrewmyers.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://voteandrewmyers.com/priorities-survey/"
+},
+{
+"text": "[image: Logo | Vote Andrew Myers]",
+"href": "https://voteandrewmyers.com/"
+},
+{
+"text": "leah.courtney@nfib.org",
+"href": "mailto:leah.courtney@nfib.org"
+}
 ]

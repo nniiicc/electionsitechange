@@ -1,9 +1,5 @@
-Thank you for allowing me to serve you in Montgomery!
-News
-31
-Jul
-Chambliss Makes Decision Regarding Second Congressional District
-As has been reported, I have spent the last several days carefully considering a run for the Second Congressional District of Alabama.
+Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Thank you for allowing me to serve you in Montgomery!
+News 31 Jul Wednesday, 12:00 AM · 2019 Chambliss Makes Decision Regarding Second Congressional District As has been reported, I have spent the last several days carefully considering a run for the Second Congressional District of Alabama.
 I am blessed with a supportive family that understands both the privilege and the cost of public service and they pledged all of their efforts to the task.
 Supporters, colleagues, and other stakeholders were equally encouraging.
 I am grateful to those who took my calls and made time for me during the weekend and evenings.
@@ -16,20 +12,11 @@ I very much appreciate the encouragement, prayer and support as we have consider
 It is an honor and privilege to serve you in the Alabama Senate.
 My focus will remain in Alabama and working hard to make this great state all that she can be!
 Thank you for allowing me to represent you in Montgomery!
-18
-Jul
-Governor Ivey Establishes Study Group on Criminal Justice Policy
-Governor Kay Ivey on Thursday announced that by executive order, she has established the Governor’s Study Group on Criminal Justice Policy.
+26 Jul Friday, 1:04 PM · 2019 County approves $1 million in gas tax proceeds for projects Read more 18 Jul Thursday, 12:00 AM · 2019 Governor Ivey Establishes Study Group on Criminal Justice Policy Governor Kay Ivey on Thursday announced that by executive order, she has established the Governor’s Study Group on Criminal Justice Policy.
 The primary purpose of this group is to receive and analyze accurate data, as well as evidence of best practices, ultimately helping to further address the challenges facing Alabama’s prison system.
-Read more
-25
-Jun
-New Alabama law bans parental rights for those convicted of rape, incest
-A newly signed law bans parental rights of convicted rapists and incest abusers.
-Read more
-11
-Jun
-Governor signs anti-voyeurism bill
-Gov.
+Read more 25 Jun Tuesday, 12:00 AM · 2019 New Alabama law bans parental rights for those convicted of rape, incest A newly signed law bans parental rights of convicted rapists and incest abusers.
+Read more 11 Jun Tuesday, 12:00 AM · 2019 Governor signs anti-voyeurism bill Gov.
 Kay Ivey has signed an anti-voyeurism bill.
-Read more
+Read more Get Updates Thank you for signing up!
+Paid for By Clyde Chambliss Jr.
+PO Box 680782 Prattville, AL 36068 Powered by CampaignPartner.com - Political Campaign Websites Home News About Clyde In Clyde's Own Words On the Issues Legislation Contact Close Menu

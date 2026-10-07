@@ -1,10 +1,46 @@
 [
-"https://facebook.com/MelanieStinnettSWMO",
-"https://melaniestinnett.com/",
-"https://melaniestinnett.com/gallery",
-"https://melaniestinnett.com/knocking",
-"https://melaniestinnett.com/privacy-policy",
-"https://melaniestinnett.com/survey",
-"https://secure.winred.com/friends-of-melanie-stinnett/donate",
-"https://youtube.com/@melaniestinnett"
+{
+"text": "About",
+"href": "https://melaniestinnett.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-melanie-stinnett/donate"
+},
+{
+"text": "Envelope",
+"href": "mailto:melanie@melaniestinnett.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/MelanieStinnettSWMO"
+},
+{
+"text": "Gallery",
+"href": "https://melaniestinnett.com/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://melaniestinnett.com/#issues"
+},
+{
+"text": "One Minute Survey",
+"href": "https://melaniestinnett.com/survey/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://melaniestinnett.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://melaniestinnett.com/knocking/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@melaniestinnett"
+},
+{
+"text": "[image]",
+"href": "https://melaniestinnett.com"
+}
 ]

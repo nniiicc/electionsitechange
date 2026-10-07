@@ -1,21 +1,98 @@
 [
-"http://instagram.com/nickmillerforpa",
-"https://facebook.com/nickmiller4pa",
-"https://linkedin.com/in/nicholas-miller23",
-"https://nickmillerforpa.com/",
-"https://nickmillerforpa.com/endorsements",
-"https://nickmillerforpa.com/get-involved",
-"https://nickmillerforpa.com/meet-nick",
-"https://nickmillerforpa.com/priorities",
-"https://nickmillerforpa.com/privacy-policy",
-"https://nickmillerforpa.com/vote",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=1000",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=150",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=25",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=250",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=50",
-"https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=500",
-"https://techforcampaigns.org/",
-"https://twitter.com/nickmillerforpa"
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=1000"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://nickmillerforpa.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/nickmiller4pa"
+},
+{
+"text": "Get Involved",
+"href": "https://nickmillerforpa.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://nickmillerforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/nickmillerforpa"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/nicholas-miller23/"
+},
+{
+"text": "Meet Nick",
+"href": "https://nickmillerforpa.com/meet-nick/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/friends-of-nick-miller-1"
+},
+{
+"text": "Priorities",
+"href": "https://nickmillerforpa.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://nickmillerforpa.com/privacy-policy/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "View all endorsements",
+"href": "https://nickmillerforpa.com/endorsements/"
+},
+{
+"text": "Volunteer Today",
+"href": "https://nickmillerforpa.com/get-involved/"
+},
+{
+"text": "Vote",
+"href": "https://nickmillerforpa.com/vote/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/nickmillerforpa"
+},
+{
+"text": "[image: Nick Miller for PA Senate]",
+"href": "https://nickmillerforpa.com/"
+},
+{
+"text": "info@NickMillerforPA.com",
+"href": "mailto:nickmillerforpa@gmail.com"
+}
 ]

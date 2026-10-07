@@ -1,15 +1,62 @@
 [
-"http://eepurl.com/c0xj29",
-"http://kristinforsenate.com/kph/donate",
-"http://kristinforsenate.com/kph/join-kristins-team",
-"http://votespa.com/en-us/Documents/Absentee_Ballot_Application.pdf",
-"https://facebook.com/KPH4senate",
-"https://kristinforsenate.com/",
-"https://kristinforsenate.com/contact",
-"https://kristinforsenate.com/donate",
-"https://kristinforsenate.com/issues",
-"https://kristinforsenate.com/join-kristins-team",
-"https://kristinforsenate.com/meet-kristin",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+{
+"text": "Apply for an Absentee Ballot",
+"href": "http://www.votespa.com/en-us/Documents/Absentee_Ballot_Application.pdf"
+},
+{
+"text": "Contact",
+"href": "https://kristinforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "http://kristinforsenate.com/kph/donate/"
+},
+{
+"text": "Donate",
+"href": "https://kristinforsenate.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KPH4senate/"
+},
+{
+"text": "Facebook page opens in new window",
+"href": "https://www.facebook.com/KPH4senate/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://kristinforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://kristinforsenate.com/issues/"
+},
+{
+"text": "Join Kristin’s Team",
+"href": "https://kristinforsenate.com/join-kristins-team/"
+},
+{
+"text": "Join the Team",
+"href": "http://kristinforsenate.com/kph/join-kristins-team/"
+},
+{
+"text": "Meet Kristin",
+"href": "https://kristinforsenate.com/meet-kristin/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Stay Informed",
+"href": "http://eepurl.com/c0xj29"
+},
+{
+"text": "[image: Kristin Phillips-Hill for State Senate]",
+"href": "https://kristinforsenate.com/"
+}
 ]

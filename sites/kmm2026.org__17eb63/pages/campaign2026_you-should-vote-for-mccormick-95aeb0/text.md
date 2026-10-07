@@ -1,11 +1,10 @@
-(updated 8/4/26) It is risky for a candidate to express opinions on the issues.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Campaign-2026 You Should Vote For McCormick Details ( updated 8/4/26 ) It is risky for a candidate to express opinions on the issues.
 People have their own opinions and the Lieutenant Governor is not a dictator who issues decrees.
 My commitment is to serve the public interest and you should know my thinking on issues.
 Even if you disagree with positions I have expressed, you should still vote for me, Kevin McCormick for Lieutenant Governor.
 Our state government has been given over to special interests by the establishment parties and I want to restore the public interest as the priority.
 Understand that electoral politics is a gradual process and do not allow your vote to be taken for granted.
-Have a strategy
-Think of voting as a strategic choice.
+Have a strategy Think of voting as a strategic choice.
 We are told in the media to "vote your concience" or vote for one party to prevent the other party from being elected, that a vote for third-party candidates is a "wasted" vote.
 The first past the post electoral system favors establishment parties — whoever gets the most votes wins the election.
 Since wealthy donors control both establishment parties, the policies will remain the same regardless of changing the establishment politicians.
@@ -21,12 +20,11 @@ My campaign is centered on the principal of serving the public interest using th
 I have not forgotten about the economy because I believe that making Texas a desirable place to live is the best way to maintain a strong economy.
 Voting for Kevin McCormick for Lieutenant Governor is a step outside the electoral corral and a statement that health matters and the voters have a measure to apply to government policies.
 There is also the idea of "winning" the election.
-The voters never win with the establishment parties.
+The voters never win with the establishment parties .
 Voting for an establishment party means that you will not win.
 Voting for an establishment party is simply choosing which flavor of ruling class policies is the least bad; a negative vote.
 Voting for third party candidates is the way to say you are in favor of change in policies; a positive vote.
-The real issues are not on TV
-The most important political issues are about resources and money; not about identities or partisan rivalries.
+The real issues are not on TV The most important political issues are about resources and money; not about identities or partisan rivalries.
 The media constantly reports on establishment party candidates while ignoring other voices.
 The media emphasizes identities and partisan rivalry, while neglecting or mis-reporting issues of resources and money.
 Today a financial elite and their corporations and bureaucracies control both resources and money, while the public is expected to work harder, pay more, and receive less.
@@ -35,14 +33,19 @@ The establishment parties, Republican or Democratic, will continue to serve spec
 The establishment parties calculate how to win elections.
 If talk, identity politics, and token gestures are enough to win the vote, then talk, identity politics, and token gestures are what the voters will get.
 The voters must prove they want better public service by casting their votes for third-party candidates.
-Change is possible
-I believe that we can overcome special-interest control and restore serving the public interest as the purpose of state government.
+Change is possible I believe that we can overcome special-interest control and restore serving the public interest as the purpose of state government.
 We must design the incentives in our system so that public service is rewarded and special interest manipulation is discouraged.
 It is a process that begins with a few crucial reforms — reform the election process to reward public service rather than partisan division, reform transportation system policy to serve the entire public by allowing alternative modes and align infrastructure with public needs.
 Our approach to agriculture should be to revitalize the rural economy and promote environmental stewardship.
 We should also reform the property tax system to achieve fairness, affordable tax rates, and provide valuable public services.
-Use your vote to make a difference
-I have designed my campaign around a few important issues and the idea that government should serve the public interest over special interests.
+Use your vote to make a difference I have designed my campaign around a few important issues and the idea that government should serve the public interest over special interests.
 Voting for me says you want improvements on these issues and a change in government philosophy.
 Whatever your opinion may be, the more votes for Kevin McCormick for Lieutenant Governor the more likely it becomes that the Texas state government will increase the priority of serving the public.
-Regards
+Regards Next article: Help the Campaign Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

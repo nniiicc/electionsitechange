@@ -1,4 +1,4 @@
-Unofficial election results are providing a glimpse into which Republicans could run in November to fill the seats left open by Victoria Spartz — who claimed victory in the 5th Congressional District primary — and by the retirement of former House Speaker Brian Bosma.
+Home Bio Updates Connect Donate Select Page AP: Baldwin, Jeter win contested GOP primaries for Indiana General Assembly by chrisjeter | Jul 7, 2020 | Uncategorized https://www.indystar.com/story/news/politics/elections/2020/06/02/indiana-primary-2020-general-assembly-election-results/5307744002/ Unofficial election results are providing a glimpse into which Republicans could run in November to fill the seats left open by Victoria Spartz — who claimed victory in the 5th Congressional District primary — and by the retirement of former House Speaker Brian Bosma.
 In the Republican primary for state Senate District 20, Scott Baldwin led with 66.7% of the votes and JR Gaylor had 33.3% of votes with 64% of precincts reporting, per the Associated Press.
 Before 10 p.m.
 Tuesday, the AP called the race for Baldwin.
@@ -29,3 +29,8 @@ There is no Republican candidate on the primary ballot, but party officials coul
 Full election results could be delayed after voters were urged to opt for mail-in for Tuesday’s primary election, which was delayed from its original May 5 date due to the coronavirus pandemic.
 More than half a million Hoosiers requested mail-in ballots and across the state and many counties chose to have fewer polling locations.
 In the Indiana General Assembly, all 100 Indiana House of Representative seats and half of the 50 seats in the Indiana Senate are up for election in November.
+Recent Posts Endorsed by NFIB, Indiana’s Small Business Association Bringing Down the Cost of Living in Indiana Endorsed by the Indiana Professional Fire Fighters PAC Endorsed by the Indiana State Police Alliance Women’s Sports Should Not Be Controversial Join Team Jeter Get campaign updates from Chris by email and text.
+It takes 30 seconds to add your name to the team.
+Count Me In Maybe later Open House with Chris Jeter on Tuesday, September 29th.
+RSVP and learn more Dismiss Home Bio Updates Connect Donate Privacy Policy Terms and Conditions Jeter for Indiana | 27 South Main Street, Fortville, IN 46040 Paid for and authorized by Jeter for Indiana. © # Jeter for Indiana.
+All rights reserved.

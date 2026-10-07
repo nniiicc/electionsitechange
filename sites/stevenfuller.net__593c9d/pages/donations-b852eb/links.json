@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61582911920204",
-"https://instagram.com/stevenfullerforcongress",
-"https://stevenfuller.net/",
-"https://stevenfuller.net/about",
-"https://stevenfuller.net/cart",
-"https://stevenfuller.net/donations",
-"https://x.com/FullerCongress",
-"https://youtube.com/@StevenFullerforCongress"
+{
+"text": "0",
+"href": "https://www.stevenfuller.net/cart"
+},
+{
+"text": "About",
+"href": "https://www.stevenfuller.net/about"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.stevenfuller.net/donations"
+},
+{
+"text": "Donations",
+"href": "https://www.stevenfuller.net/donations"
+},
+{
+"text": "Home",
+"href": "https://www.stevenfuller.net/"
+},
+{
+"text": "Steven Fuller for Congress",
+"href": "https://www.stevenfuller.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582911920204"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stevenfullerforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@StevenFullerforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/FullerCongress"
+}
 ]

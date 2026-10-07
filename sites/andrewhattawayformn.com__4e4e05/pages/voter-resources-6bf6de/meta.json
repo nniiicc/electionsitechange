@@ -1,7 +1,9 @@
 {
  "description": "Explore essential voter resources for Minnesota, including polling locations, sample ballots, and information on elected officials.",
  "final_url": "https://andrewhattawayformn.com/voter-resources",
- "paid_for_by": "paid for by Andrew Hattaway for MN | P",
+ "fingerprint": "728afacceddf15038611a13cd7addf33be860948",
+ "format": 3,
+ "paid_for_by": "paid for by Andrew Hattaway for MN",
  "title": "VOTER RESOURCES",
  "years_mentioned": []
 }

@@ -1,13 +1,54 @@
 [
-"https://conroy4nh.com/",
-"https://conroy4nh.com/about",
-"https://conroy4nh.com/events",
-"https://conroy4nh.com/priorities",
-"https://conroy4nh.com/testimonials2",
-"https://conroy4nh.com/videos",
-"https://conroy4nh.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/conroy4nh",
-"https://instagram.com/conroy4nh",
-"https://secure.actblue.com/donate/conroy4nh"
+{
+"text": "About",
+"href": "https://www.conroy4nh.com/about"
+},
+{
+"text": "Conroy4NH@gmail.com",
+"href": "mailto:Conroy4NH@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/conroy4nh"
+},
+{
+"text": "Events",
+"href": "https://www.conroy4nh.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.conroy4nh.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.conroy4nh.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.conroy4nh.com/priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Testimonials",
+"href": "https://www.conroy4nh.com/testimonials2"
+},
+{
+"text": "Videos",
+"href": "https://www.conroy4nh.com/videos"
+},
+{
+"text": "[image: Conroy4NH]",
+"href": "https://www.conroy4nh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/conroy4nh"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/conroy4nh"
+}
 ]

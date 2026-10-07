@@ -1,9 +1,3 @@
-BLOG
-In Voting to Defund Israel, John Mannion Put Politics Ahead of Principle
-Central New York's community has every right to be angry.
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate BLOG In Voting to Defund Israel, John Mannion Put Politics Ahead of Principle Jul 24, 2026 Central New York's community has every right to be angry.
 So am I.
-Congressman John Mannion voted...
-Mannion’s Anti-Energy Affordability Agenda Make Him Vulnerable As Energy & Costs Become Top Issue in Race
-TO: Interested PartiesFROM: Robert Moreno, Campaign ManagerRE: Mannion’s Anti-Energy Affordability...
-CENTRAL NEW YORK DESERVES BETTER AND I’M FIGHTING TO DELIVER IT
-By Kailee Buller, Candidate for Congress (NY-22) I grew up in Auburn, New York, the daughter of a...
+Congressman John Mannion voted... read more Mannion’s Anti-Energy Affordability Agenda Make Him Vulnerable As Energy & Costs Become Top Issue in Race Jul 21, 2026 TO: Interested PartiesFROM: Robert Moreno, Campaign ManagerRE: Mannion’s Anti-Energy Affordability... read more CENTRAL NEW YORK DESERVES BETTER AND I’M FIGHTING TO DELIVER IT Jun 17, 2026 By Kailee Buller, Candidate for Congress (NY-22) I grew up in Auburn, New York, the daughter of a... read more Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

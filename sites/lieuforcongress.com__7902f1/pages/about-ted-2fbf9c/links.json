@@ -1,7 +1,22 @@
 [
-"https://lieuforcongress.com/",
-"https://lieuforcongress.com/about-ted",
-"https://lieuforcongress.com/cart",
-"https://lieuforcongress.com/volunteer",
-"https://secure.actblue.com/donate/ted-lieu-5"
+{
+"text": "0",
+"href": "https://www.lieuforcongress.com/cart"
+},
+{
+"text": "About Ted",
+"href": "https://www.lieuforcongress.com/about-ted"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ted-lieu-5"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lieuforcongress.com/volunteer"
+},
+{
+"text": "[image: Ted Lieu for Congress]",
+"href": "https://www.lieuforcongress.com/"
+}
 ]

@@ -1,4 +1,4 @@
-HOW DID IT GET THIS WAY?
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me HOW DID IT GET THIS WAY?
 I was ten years old when I found an unused sewing machine tucked away in the back of the linen closet.
 I taught myself how to sew — lots of bedsheets went missing in the process.
 By the time I reached high school, I was learning how to make patterns from Mrs.
@@ -20,3 +20,6 @@ I lived it, and it changed me.
 This is why I stand with labor.
 Please join our campaign to bring proactive leadership to our State Capitol.
 Together, we CAN!
+Kim Coco Iwamoto March 28, 2022 Facebook 0 Twitter Tumblr 0 Likes Previous Letter: No tax cuts for rich if education suffers Kim Coco Iwamoto April 11, 2024 Next TOO CLOSE TO JUST GIVE UP Kim Coco Iwamoto March 16, 2022 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

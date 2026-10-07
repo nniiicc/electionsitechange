@@ -1,17 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61588326052667",
-"https://instagram.com/voteanneberbert",
-"https://linkedin.com/in/anne-berbert",
-"https://threads.com/@voteanneberbert?hl=en",
-"https://voteanneberbert.com/",
-"https://voteanneberbert.com/about",
-"https://voteanneberbert.com/accessibility-statement",
-"https://voteanneberbert.com/blog",
-"https://voteanneberbert.com/donate",
-"https://voteanneberbert.com/event-list",
-"https://voteanneberbert.com/post/abortion",
-"https://voteanneberbert.com/post/cost-of-living",
-"https://voteanneberbert.com/post/immigration",
-"https://voteanneberbert.com/post/your-voice-matters-join-our-political-movement-today",
-"https://voteanneberbert.com/privacy-policy"
+{
+"text": "ABOUT",
+"href": "https://www.voteanneberbert.com/about"
+},
+{
+"text": "ANNE BERBERT YOU",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "Accessibility statement",
+"href": "https://www.voteanneberbert.com/accessibility-statement"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteanneberbert.com/post/abortion"
+},
+{
+"text": "Cost of living",
+"href": "https://www.voteanneberbert.com/post/cost-of-living"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteanneberbert.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.voteanneberbert.com/event-list"
+},
+{
+"text": "Employment",
+"href": "https://www.voteanneberbert.com/post/your-voice-matters-join-our-political-movement-today"
+},
+{
+"text": "HOME",
+"href": "https://www.voteanneberbert.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.voteanneberbert.com/blog"
+},
+{
+"text": "Immigration",
+"href": "https://www.voteanneberbert.com/post/immigration"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.voteanneberbert.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.voteanneberbert.com/blog"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteanneberbert.com/post/abortion"
+},
+{
+"text": "[image: Cost of living]",
+"href": "https://www.voteanneberbert.com/post/cost-of-living"
+},
+{
+"text": "[image: Employment]",
+"href": "https://www.voteanneberbert.com/post/your-voice-matters-join-our-political-movement-today"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588326052667"
+},
+{
+"text": "[image: Immigration]",
+"href": "https://www.voteanneberbert.com/post/immigration"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteanneberbert"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/anne-berbert/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@voteanneberbert?hl=en"
+}
 ]

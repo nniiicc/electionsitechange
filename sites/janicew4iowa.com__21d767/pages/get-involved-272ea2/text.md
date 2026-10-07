@@ -1,6 +1,4 @@
-top of page
-It's Time to Get Involved
-HELP JANICE WEINER WIN THIS IMPORTANT ELECTION AND BRING THE CHANGES WE NEED TO IOWA
-When Iowans stand up and work together, there's nothing we cannot accomplish.
+top of page HOME ABOUT ISSUES GET INVOLVED Menu Close DONATE It's Time to Get Involved HELP JANICE WEINER WIN THIS IMPORTANT ELECTION AND BRING THE CHANGES WE NEED TO IOWA When Iowans stand up and work together, there's nothing we cannot accomplish.
 Our state and nation is at a crossroad and the direction we choose in November will determine the fate of generations to come.
-bottom of page
+First name Last name Email * Phone Let us know how you can help out Yard sign Host an event Volunteer on the campaign Other SEND A DONATION OF ANY SIZE IS DEEPLY APPRECIATED.
+DONATE ONLINE Donate by Mail: Please send your check to Janice Weiner for State Senate, 2525 Mayfield Rd., Iowa City, Iowa 52245 Privacy Policy Back to Top © # - Paid for by Janice Weiner for State Senate HOME ABOUT ISSUES GET INVOLVED bottom of page

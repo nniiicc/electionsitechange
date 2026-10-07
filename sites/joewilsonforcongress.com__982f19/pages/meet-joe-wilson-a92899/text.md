@@ -1,4 +1,4 @@
-Joe Wilson has dedicated his life to public service—serving his family, his community and his country.
+Skip to content Home Issues Meet Joe Get Involved Store Home Issues Meet Joe Get Involved Store Facebook-f Twitter Donate Meet Joe Wilson Meet Joe Wilson Joe Wilson has dedicated his life to public service—serving his family, his community and his country.
 Born in Charleston, South Carolina, Joe attended the High School of Charleston before receiving his undergraduate degree from Washington & Lee University in Lexington, Virginia.
 After graduation, Joe earned a law degree from the University of South Carolina.
 He joined a small law firm and worked as a real estate attorney in West Columbia.
@@ -16,3 +16,10 @@ He is a also member of the Americans Abroad Caucus, amongst many others.
 Joe is committed to the fight for conservative values in Congress.
 He works closely with fellow members of Congress to promote a strong national defense promoting peace through strength, creating jobs, and limiting the size and scope of the federal government.
 With his wife Roxanne, Joe is the proud parent of four Eagle Scout sons and grandparent to eight grandchildren.
+Sign Up to Join The Team Email Zip Phone I acknowledge that by providing my phone number, I agree to receive campaign & donation messages from Joe Wilson for Congress to the phone number I provide.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy & Terms here.
+MAILING ADDRESS: PO BOX 2145 West Columbia, 29171 HEADQUARTER ADDRESS: 1300 Leaphart St West Columbia, 29169 info@joewilsonforcongress.com Facebook-f Twitter Paid for Joe Wilson for Congress Privacy Policy & Terms

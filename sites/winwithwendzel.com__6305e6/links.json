@@ -1,12 +1,58 @@
 [
-"https://facebook.com/WendzelWill",
-"https://winwithwendzel.com/",
-"https://winwithwendzel.com/contact",
-"https://winwithwendzel.com/donate",
-"https://winwithwendzel.com/endorsements",
-"https://winwithwendzel.com/issues",
-"https://winwithwendzel.com/new-page",
-"https://winwithwendzel.com/new-page-1",
-"https://winwithwendzel.com/new-page-2",
-"https://winwithwendzel.com/search"
+{
+"text": "Contact",
+"href": "https://www.winwithwendzel.com/contact"
+},
+{
+"text": "DONATE NOW→",
+"href": "https://www.winwithwendzel.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.winwithwendzel.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.winwithwendzel.com/endorsements"
+},
+{
+"text": "Find us on FAcebook",
+"href": "https://www.facebook.com/WendzelWill"
+},
+{
+"text": "Home",
+"href": "https://www.winwithwendzel.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.winwithwendzel.com/issues"
+},
+{
+"text": "Meet Pauline",
+"href": "https://www.winwithwendzel.com/new-page"
+},
+{
+"text": "Newsroom",
+"href": "https://www.winwithwendzel.com/new-page-2"
+},
+{
+"text": "Pauline's Plan",
+"href": "https://www.winwithwendzel.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.winwithwendzel.com/new-page-1"
+},
+{
+"text": "[image: Win with Wendzel]",
+"href": "https://www.winwithwendzel.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.winwithwendzel.com/search"
+},
+{
+"text": "winwithwendzel@gmail.com",
+"href": "mailto:winwithwendzel@gmail.com"
+}
 ]

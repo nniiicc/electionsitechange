@@ -1,10 +1,11 @@
-James Leahy
-Former Employee
-The purpose of this letter is to offer my endorsement of Ed Pacheco for State Representative.
-Frederick L.
-(Rick) Kidder
-Endorsement of Ed Pacheco for the 9th Bristol District
-I am pleased to offer my unqualified endorsement of Ed Pacheco to represent the 9th Bristol District in the Massachusetts House of Representatives.
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements James Leahy Former Employee The purpose of this letter is to offer my endorsement of Ed Pacheco for State Representative.
+I worked for Ed for over thirteen years.
+Ed was an extremely fair and compassionate boss towards all of his employees.
+Not only that but he was also greatly concerned for all of our clients as well.
+Part of our training was to treat all clients with respect and dignity Ed has always been very committed to the community.
+Just to mention a few examples every year he would ring the Salvation Army bell at Christmas time and gather food donations for those in need around Thanksgiving.
+I know thru my long association with Ed that he will be a State Representative who will be committed to providing the best possible representation to his constituents every day throughout his term I wholeheartedly endorse Ed Pacheco for State Representative for the 9th Bristol District Sincerely, James Leahy Frederick L.
+(Rick) Kidder Endorsement of Ed Pacheco for the 9th Bristol District I am pleased to offer my unqualified endorsement of Ed Pacheco to represent the 9th Bristol District in the Massachusetts House of Representatives.
 I have known Ed for more than 10 years and am well-acqainted with his dedication, talents and caring nature, all of which make him a strong advocate for the people of the 9th District.
 As a former CEO of the SouthCoast Chamber and Co-CEO of One SouthCoast Chamber, I had the privilege and pleasure of working with Ed in a variety of contexts.
 His experience as a small business owner, devoted volunteer and tireless advocate for lifting up the region earned him the coveted Ambassador of the Year award and the undying respect of his peers.
@@ -20,3 +21,4 @@ Ed believes that his constituents must be listened to and that it is for them th
 His energies and focus will always center on fairness and the voice of the people of the district.
 The 9th Bristol District will be proud of their new state representative.
 It is an honor to endorse his candidacy.
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

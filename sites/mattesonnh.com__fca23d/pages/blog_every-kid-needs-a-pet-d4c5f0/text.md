@@ -1,5 +1,4 @@
-Every Kid Needs a Pet
-Every kid needs a pet.
+Gary Matteson About Gary Priorities Community Contact Donate ← Back to all posts August 03, 2026 Every Kid Needs a Pet Every kid needs a pet.
 On our farm, pets came in pairs and ended up weighing more than a ton.
 I'm talking about teams of oxen.
 My three sons belonged to the Merrimack County Oxbows 4-H club, competing in oxen and beef cattle shows in NH and Maine.
@@ -19,4 +18,5 @@ I believe the starting point for serving as a state representative is recognizin
 Civil society functions at a very high level in New Hampshire, a consequence of our political structure that infuses towns with the obligation of self-governance.
 Many of us are required to make town government work, and by electing or appointing so many people to local public office, we assure a deep bench of experience that has been tempered by disagreement and leavened by caring cooperation.
 How valuable to learn that freedom and responsibility are inseparable.
-Family photo from about 1994
+Family photo from about 1994 ← Back to all posts Gary Matteson Republican for State Representative Epsom Quick Links About Gary Priorities Community Get in Touch mattesonnh@gmail.com Contact Form Campaign Info 540 Old Mountain Road Epsom, NH 03234 Paid for by GaryMattesonForNH, 540 Old Mountain Road, Epsom, NH, 03234, Michele Clark, Treasurer © # Gary Matteson.
+All rights reserved.

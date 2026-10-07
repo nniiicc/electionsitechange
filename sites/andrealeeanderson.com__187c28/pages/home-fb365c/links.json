@@ -1,23 +1,102 @@
 [
-"https://andrealeeanderson.com/",
-"https://andrealeeanderson.com/contact",
-"https://andrealeeanderson.com/contribute",
-"https://andrealeeanderson.com/contribute?amount=10",
-"https://andrealeeanderson.com/contribute?amount=100",
-"https://andrealeeanderson.com/contribute?amount=1000",
-"https://andrealeeanderson.com/contribute?amount=25",
-"https://andrealeeanderson.com/contribute?amount=250",
-"https://andrealeeanderson.com/contribute?amount=50",
-"https://andrealeeanderson.com/contribute?amount=500",
-"https://andrealeeanderson.com/events",
-"https://andrealeeanderson.com/home",
-"https://andrealeeanderson.com/issues",
-"https://andrealeeanderson.com/meet_andrea",
-"https://andrealeeanderson.com/news",
-"https://andrealeeanderson.com/photos",
-"https://andrealeeanderson.com/view-endorsements",
-"https://andrealeeanderson.com/volunteer",
-"https://andrealeeanderson.com/vote",
-"https://andrealeeanderson.com/yard-sign",
-"https://campaignpartner.com/"
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=250"
+},
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://andrealeeanderson.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://andrealeeanderson.com/contribute?amount=1000"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://andrealeeanderson.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://andrealeeanderson.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://andrealeeanderson.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://andrealeeanderson.com/events"
+},
+{
+"text": "Home",
+"href": "https://andrealeeanderson.com/home"
+},
+{
+"text": "Issues",
+"href": "https://andrealeeanderson.com/issues"
+},
+{
+"text": "Join the Campaign Become a Volunteer Click Here to Sign Up",
+"href": "https://andrealeeanderson.com/volunteer"
+},
+{
+"text": "Meet Andrea",
+"href": "https://andrealeeanderson.com/meet_andrea"
+},
+{
+"text": "Need Voting Information? Register & Find Your Polling Location Click Here for Information",
+"href": "https://andrealeeanderson.com/vote"
+},
+{
+"text": "News",
+"href": "https://andrealeeanderson.com/news"
+},
+{
+"text": "Other",
+"href": "https://andrealeeanderson.com/contribute"
+},
+{
+"text": "Photos",
+"href": "https://andrealeeanderson.com/photos"
+},
+{
+"text": "Show Your Support! Request a Yard Sign Click Here to Request a Sign",
+"href": "https://andrealeeanderson.com/yard-sign"
+},
+{
+"text": "Support Our Campaign Make a Contribution Today Click Here to Contribute",
+"href": "https://andrealeeanderson.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://andrealeeanderson.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://andrealeeanderson.com/yard-sign"
+},
+{
+"text": "[image: Andrea Anderson California Assembly District 52]",
+"href": "https://andrealeeanderson.com/"
+}
 ]

@@ -1,6 +1,3 @@
->>
-June 25, 2024
-WARWICK, RI – Today, Representative Seth Magaziner’s campaign issued the following statement in response to a poll by Salve Regina University’s Pell Center that showed strong approval for Seth’s performance from voters in Rhode Island’s 2nd Congressional district.
+Seth Magaziner Menu Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Meet Seth Take Action Volunteer News Twitter Facebook Instagram Youtube Donate Seth Magaziner Campaign Statement on Poll Showing Strong Approval from Rhode Islanders >> June 25, 2024 WARWICK, RI – Today, Representative Seth Magaziner’s campaign issued the following statement in response to a poll by Salve Regina University’s Pell Center that showed strong approval for Seth’s performance from voters in Rhode Island’s 2nd Congressional district.
 “This poll demonstrates that Rhode Island voters approve of Seth’s work in Congress and are ready to reelect him to a second term,” said spokesperson Katherine Riordan, “We are pleased that a majority of voters polled approve of his job performance, by a strong twenty point margin, and that he starts this campaign with a double digit lead.
-The stakes in this election are high, and Seth will continue working to lower costs, protect Social Security and Medicare, and defend the rights of women to make their own healthcare decisions.”
-###
+The stakes in this election are high, and Seth will continue working to lower costs, protect Social Security and Medicare, and defend the rights of women to make their own healthcare decisions.” ### Twitter Facebook Instagram Youtube [email protected] PO Box 40993, Providence, RI 02940 Paid for by MAGAZINER FOR CONGRESS PRIVACY POLICY

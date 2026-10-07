@@ -1,47 +1,190 @@
 [
-"http://teamstersjointcouncil43.com/",
-"https://314action.org/",
-"https://aftmichigan.org/",
-"https://buildmifuture.com/",
-"https://collectivepac.org/",
-"https://committeetoprotect.org/",
-"https://constructionlaborers1076.org/",
-"https://designedtorun.com/",
-"https://detroitnews.com/",
-"https://drbrooksforsenate.com/",
-"https://drbrooksforsenate.com/about",
-"https://drbrooksforsenate.com/issues",
-"https://drbrooksforsenate.com/volunteer",
-"https://electblackwomenpac.com/",
-"https://emgageaction.org/",
-"https://emilyslist.org/",
-"https://equalitymiaction.org/",
-"https://facebook.com/Teamsterslocal299",
-"https://facebook.com/people/Dr-Theresa-Brooks-For-State-Senate/61588617410419",
-"https://femsfordems.org/",
-"https://freep.com/",
-"https://giffords.org/",
-"https://herboldmove.org/",
-"https://instagram.com/drbrooksforsenate",
-"https://laborerslocal1191.org/",
-"https://mdpblackcaucus.com/",
-"https://mea.org/",
-"https://mentalhealthnow.us/",
-"https://mi11cddems.org/",
-"https://miaflcio.org/",
-"https://michiganlcv.org/",
-"https://milist.org/",
-"https://miplannedparenthood.org/",
-"https://momsdemandaction.org/",
-"https://mpffu.org/",
-"https://oaklandcountydemocrats.org/",
-"https://ourpeoplescoalition.com/",
-"https://region1.uaw.org/",
-"https://rochesterareadems.org/",
-"https://secure.actblue.com/donate/theresa-brooks-1",
-"https://sierraclub.org/",
-"https://statesproject.org/",
-"https://ufcw876.org/",
-"https://ufcw951.org/",
-"https://votemamapac.org/"
+{
+"text": "About",
+"href": "https://www.drbrooksforsenate.com/about"
+},
+{
+"text": "Contact | Volunteer",
+"href": "https://www.drbrooksforsenate.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/theresa-brooks-1"
+},
+{
+"text": "Home",
+"href": "https://www.drbrooksforsenate.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.drbrooksforsenate.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Dr. Brooks for State Senate]",
+"href": "https://www.drbrooksforsenate.com/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://314action.org/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://mdpblackcaucus.com/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://miaflcio.org/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://www.herboldmove.org/"
+},
+{
+"text": "[image: Logo of endorser]",
+"href": "https://www.michiganlcv.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "http://www.teamstersjointcouncil43.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://aftmichigan.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://collectivepac.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://committeetoprotect.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://emgageaction.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://emilyslist.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://equalitymiaction.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://giffords.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://laborerslocal1191.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://mea.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://milist.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://region1.uaw.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://statesproject.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://ufcw951.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://votemamapac.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.buildmifuture.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.constructionlaborers1076.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.detroitnews.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.electblackwomenpac.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.facebook.com/Teamsterslocal299/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.femsfordems.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.freep.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.mi11cddems.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.michiganjustice.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.miplannedparenthood.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.mpffu.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.oaklandcountydemocrats.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.ourpeoplescoalition.com/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.rochesterareadems.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://www.ufcw876.org/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Dr-Theresa-Brooks-For-State-Senate/61588617410419/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drbrooksforsenate"
+}
 ]

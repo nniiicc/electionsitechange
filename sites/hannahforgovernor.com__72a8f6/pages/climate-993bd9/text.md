@@ -1,69 +1,66 @@
-A Climate and Energy Plan
-That Protects Maine
-and Lowers Costs
-As energy costs rise and climate impacts intensify across Maine, families and communities are feeling the strain on their budgets, their livelihoods, and the places they love.
+Skip to content Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Facebook X-twitter Instagram Youtube Tiktok Donate A Climate and Energy Plan That Protects Maine and Lowers Costs A Climate and Energy Plan That Protects Maine and Lowers Costs As energy costs rise and climate impacts intensify across Maine, families and communities are feeling the strain on their budgets, their livelihoods, and the places they love.
 From farms and forests to working waterfronts and small towns, Mainers understand that clean air and water, affordable energy, and a strong economy are inseparable.
 Hannah Pingree is a proven and experienced leader with a demonstrated ability to take bold action to meet this moment.
 Whether as Speaker of the Maine House winning tough fights against the chemical and fossil fuel industries or as the Director of the Office of the Future, she’s led with vision and gotten things done.
 As co-chair of the Maine Climate Council, she led Maine Won’t Wait, the state’s climate action plan, and helped deliver results by making historic investments in resilience and recovery, strengthening infrastructure against extreme storms and flooding, expanding efficiency and clean energy opportunities, lowering costs for families through the installation of more than 100,000 heat pumps ahead of schedule, and creating thousands of good paying jobs.
 This record has earned Hannah the early endorsement of the Maine Conservation Voters Action Fund — the first time in their history that they have endorsed a candidate in a primary.
 Building on her proven leadership, Hannah will protect Maine’s natural resources and the communities who depend on them, hold utilities and polluters accountable, and deliver a resilient and affordable energy future that benefits Maine people.
-As governor, Hannah will ensure Maine:
-- Delivers clean energy solutions that lower costs for families
-- Leads the nation on climate action and resilience
-- Protects our natural resources to enable a strong, sustainable economy
-Deliver Clean Energy Solutions that Lower Costs for Maine Families
-Deliver clean energy solutions that lower costs for Maine families
-Mainers deserve clean, reliable, and affordable power, not endless rate hikes and excuses.
+As governor, Hannah will ensure Maine: Delivers clean energy solutions that lower costs for families Leads the nation on climate action and resilience Protects our natural resources to enable a strong, sustainable economy Deliver Clean Energy Solutions that Lower Costs for Maine Families Deliver clean energy solutions that lower costs for Maine families Mainers deserve clean, reliable, and affordable power, not endless rate hikes and excuses.
 Hannah will hold utilities accountable and put Maine people — not corporate profits — first.
 She will expand homegrown clean energy, and make sure the transition to a clean economy lowers costs for families and businesses while creating good-paying jobs for Maine workers.
 She’ll protect Maine ratepayers from reckless AI data centers that threaten to drive up costs for our communities.
 Electricity is a basic necessity, not a luxury — and Hannah will make sure Mainers can count on reliable, affordable and increasingly cleaner power for their homes and businesses.
-Policy Priorities:
-- Hold Utilities Accountable: Tie utility profits to lower bills, better performance, reliability, and customer satisfaction — and require the Public Utilities Commission (PUC) to penalize poor service and reject unjustified rate hikes.
+Policy Priorities: Hold Utilities Accountable: Tie utility profits to lower bills, better performance, reliability, and customer satisfaction — and require the Public Utilities Commission (PUC) to penalize poor service and reject unjustified rate hikes.
 Oppose excessive rate hikes from CMP and Versant Power, hold corporate parents like Avangrid accountable for service failures, profiteering, and demand fair, transparent utility budgets that prioritize Maine people over profits.
-- Lower Electricity Costs: Require the PUC to use every tool available to drive down electricity bills, including by ensuring electric utilities are incentivized when customer bills go down, not up; facilitate electrification and efficiency that brings down rates; maximize grid utilization to get the most out of the infrastructure we’ve already paid for; and ensure that needed investments to modernize the grid and make it more resilient are made with the lowest-cost financing available.
-- Deliver 100% Clean Energy: Deliver 100% clean energy by 2040, reducing reliance on costly imported fossil fuels, investing in responsibly sited clean energy that benefits communities, and using regular competitive auctions to rapidly deploy local solar, wind, and energy storage that lowers costs for Maine people and businesses.
+Lower Electricity Costs: Require the PUC to use every tool available to drive down electricity bills, including by ensuring electric utilities are incentivized when customer bills go down, not up; facilitate electrification and efficiency that brings down rates; maximize grid utilization to get the most out of the infrastructure we’ve already paid for; and ensure that needed investments to modernize the grid and make it more resilient are made with the lowest-cost financing available.
+Deliver 100% Clean Energy: Deliver 100% clean energy by 2040, reducing reliance on costly imported fossil fuels, investing in responsibly sited clean energy that benefits communities, and using regular competitive auctions to rapidly deploy local solar, wind, and energy storage that lowers costs for Maine people and businesses.
 Maine must pursue a “least cost” electricity supply through reform and modernization of the standard offer and other procurement processes.
-- Enforce Guardrails Against AI Data Center Impacts & Costs: Speculative, power-hungry data center projects are looming across the country, and too often households are left paying the price – through higher electricity bills.
+Enforce Guardrails Against AI Data Center Impacts & Costs: Speculative, power-hungry data center projects are looming across the country, and too often households are left paying the price – through higher electricity bills.
 Maine must enact a moratorium until we can ensure any new data centers pay their own way up front, offer benefits to host communities, and do not jeopardize the environment, health and wellbeing of their neighbors.
-- Modernize Clean Energy Permitting: Remove unnecessary red tape and reform outdated processes to get more clean energy built and connected faster to lower electricity costs, while ensuring community benefits.
-- Invest in the Clean Energy Workforce: Grow programs that create pathways to good-paying green jobs, expand apprenticeships and training opportunities, and open up clean energy careers to more Mainers.
-- Target support to Moderate and Low-Income Households: Expand heat pump, energy efficiency, and local solar programs that reduce costs and ensure the benefits of clean energy reach every Mainer.
-Lead the Nation on Climate Action and Resilience
-Lead the Nation on Climate Action and Resilience
-Maine can’t wait for Washington to act — and under Hannah Pingree’s leadership, we won’t.
+Modernize Clean Energy Permitting: Remove unnecessary red tape and reform outdated processes to get more clean energy built and connected faster to lower electricity costs, while ensuring community benefits.
+Invest in the Clean Energy Workforce: Grow programs that create pathways to good-paying green jobs, expand apprenticeships and training opportunities, and open up clean energy careers to more Mainers.
+Target support to Moderate and Low-Income Households: Expand heat pump, energy efficiency, and local solar programs that reduce costs and ensure the benefits of clean energy reach every Mainer.
+Lead the Nation on Climate Action and Resilience Lead the Nation on Climate Action and Resilience Maine can’t wait for Washington to act — and under Hannah Pingree’s leadership, we won’t.
 Hannah believes the fight against climate change starts in our communities.
 As governor, she will invest in local climate solutions and ensure Maine remains a national model for climate action, storm preparedness and recovery, and community resilience.
 Her leadership means action on the ground and Mainers can count on stronger infrastructure, lower costs, healthier communities, and a future built to withstand the storms ahead.
-Policy Priorities:
-- Create a State Resilience Bank and Invest in Community Infrastructure: Establish financing tools to fund urgently needed infrastructure and prioritize projects for rural, working, and low-income communities.
+Policy Priorities: Create a State Resilience Bank and Invest in Community Infrastructure: Establish financing tools to fund urgently needed infrastructure and prioritize projects for rural, working, and low-income communities.
 Continue to invest in successful programs like the Community Resilience Partnership to help towns prepare for flooding, storms, and rising seas with locally-driven solutions.
-- Partner with Communities and Tribal Nations: Further collaboration with municipalities, schools, sovereign Tribal governments, community organizations, and local businesses to make climate solutions community-led and accessible to all.
-- Grow the Office of Community Affairs: Expand the one-stop planning resource Hannah helped launch, ensuring cities, towns, and tribal governments have direct access to state support for housing, infrastructure needs, resilience, and emergency planning.
-- Invest in Emergency Management & Public Health: Strengthen state and local capacity to protect vulnerable populations during acute crises like heatwaves, storms, and public health emergencies and chronic health challenges like asthma and tick-borne illnesses – especially for our seniors and people with disabilities.
-Protect Maine’s Natural Resources while Growing a Strong, Sustainable Economy
-Hannah knows that Maine’s natural lands, waters, and natural resource economies are the foundation of who we are — and our greatest strength for the future.
+Partner with Communities and Tribal Nations: Further collaboration with municipalities, schools, sovereign Tribal governments, community organizations, and local businesses to make climate solutions community-led and accessible to all.
+Grow the Office of Community Affairs: Expand the one-stop planning resource Hannah helped launch, ensuring cities, towns, and tribal governments have direct access to state support for housing, infrastructure needs, resilience, and emergency planning.
+Invest in Emergency Management & Public Health: Strengthen state and local capacity to protect vulnerable populations during acute crises like heatwaves, storms, and public health emergencies and chronic health challenges like asthma and tick-borne illnesses – especially for our seniors and people with disabilities.
+Protect Maine’s Natural Resources while Growing a Strong, Sustainable Economy Protect Maine’s Natural Resources while Growing a Strong, Sustainable Economy Hannah knows that Maine’s natural lands, waters, and natural resource economies are the foundation of who we are — and our greatest strength for the future.
 As governor, she’ll protect these resources, strengthen rural communities, and ensure conservation, housing, and economic growth go hand in hand.
 As a lifelong champion of Land for Maine’s Future, Hannah will expand investments in working lands, waterfronts, and farms to strengthen local economies and protect these natural lands for future generations.
-Policy Priorities:
-- Expand Land Conservation: Strengthen the Land for Maine’s Future program and establish a permanent funding source to protect working and recreational lands, farms, and waterfronts while supporting housing and sustainable economic opportunities.
-- Invest in Clean Water Infrastructure and Safeguard Water Quality: Upgrade aging wastewater, stormwater, and drinking water systems — prioritizing rural, low-income and other under-resourced communities.
+Policy Priorities: Expand Land Conservation: Strengthen the Land for Maine’s Future program and establish a permanent funding source to protect working and recreational lands, farms, and waterfronts while supporting housing and sustainable economic opportunities.
+Invest in Clean Water Infrastructure and Safeguard Water Quality: Upgrade aging wastewater, stormwater, and drinking water systems — prioritizing rural, low-income and other under-resourced communities.
 Expand monitoring of wells, lakes, and rivers for contamination and support aquifer protection and lead pipe replacement projects statewide.
-- Hold Polluters Accountable: Champion a Maine Climate Superfund Act so fossil fuel companies pay for the damages they caused, not Maine taxpayers.
+Hold Polluters Accountable: Champion a Maine Climate Superfund Act so fossil fuel companies pay for the damages they caused, not Maine taxpayers.
 Require full manufacturer disclosure and responsibility for cleanup of toxic PFAS, continuing Hannah’s long record of protecting public health and holding chemical companies accountable.
-- Partner with Tribal Nations: Respect and advance Tribal sovereignty and deepen collaboration on conservation, resource management, and climate adaptation.
-- Support Rural and Coastal Economies: Grow rural and coastal economies, especially in our heritage forestry, farming and fishing industries, by pairing climate and conservation investments with housing, job training, and local business support so communities can succeed now and in the future.
-Hannah's Record on Climate Work
-Hannah has spent her career fighting for Maine’s people and the natural resources that define our state.
+Partner with Tribal Nations: Respect and advance Tribal sovereignty and deepen collaboration on conservation, resource management, and climate adaptation.
+Support Rural and Coastal Economies: Grow rural and coastal economies, especially in our heritage forestry, farming and fishing industries, by pairing climate and conservation investments with housing, job training, and local business support so communities can succeed now and in the future.
+Hannah's Record on Climate Work Hannah has spent her career fighting for Maine’s people and the natural resources that define our state.
 She has taken on big oil companies, the chemical industry, and other powerful interests—and won—because protecting our air, our water, our health, and our communities has always been central to her work.
-It’s why Maine Conservation Voters Action Fund endorsed her in the Democratic primary, the first time in their history they have endorsed in a governor’s race at this stage.
+It’s why Maine Conservation Voters Action Fund endorsed her in the Democratic primary , the first time in their history they have endorsed in a governor’s race at this stage.
 They cited her unmatched record, her courage, and her steady leadership.
-As a legislator and Speaker of the House, Hannah passed major environmental health laws like the Kid-Safe Products Act, advanced Maine’s first meaningful greenhouse gas reduction targets, invested in clean water, and sponsored a Land for Maine’s Future bond that protected working waterfronts, family farms, forestland, and the open spaces that are essential to Maine’s heritage economy and recreational opportunities.
+As a legislator and Speaker of the House, Hannah passed major environmental health laws like the Kid-Safe Products Act , advanced Maine’s first meaningful greenhouse gas reduction targets , invested in clean water, and sponsored a Land for Maine’s Future bond that protected working waterfronts, family farms, forestland, and the open spaces that are essential to Maine’s heritage economy and recreational opportunities.
 As co-chair of the Maine Climate Council, she helped shape Maine Won’t Wait into a national model.
-Her leadership earned Maine national recognition, when energy experts rated the state “Most Improved” on energy efficiency.
+Her leadership earned Maine national recognition , when energy experts rated the state “Most Improved” on energy efficiency.
 She championed the effort to install more than 100,000 heat pumps – two years ahead of state goals, invest in weatherization and energy efficiency, expand affordable clean energy projects in towns and schools, support active and public transportation opportunities – all to reduce emissions, increase Maine’s energy independence, and lower costs for families and businesses.
 Hannah also launched the Community Resilience Partnership, which has now helped more than 250 towns prepare for storms, strengthen local infrastructure, and plan for a changing climate.
 She pushed for stronger storm preparedness and coastal resilience long before the devastating storms of 2023 and 2024, and she has continued standing with communities as they rebuild stronger.
 For Hannah, this work comes down to core Maine values: responsibility, fairness, and protecting people and places for the next generation.
 As governor, she will carry those values forward by holding corporate polluters accountable, lowering energy costs, encouraging local clean energy jobs and industries, and safeguarding Maine’s environment and democracy in the face of growing threats.
+Spread The Word Let's Go!
+Sign Up For Updates First Name Last Name Cell Phone Zipcode Email Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
+Message & data rates may apply.
+Message frequency varies.
+Text HELP for help, Text STOP to Opt Out.
+Will you make a donation today?
+If you have saved your information with ActBlue Express, your donation will go through immediately. $ # $ # $ # $ # $ # Other Facebook X-twitter Instagram Youtube Tiktok Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Hannah Pingree is a lifelong Mainer, leader, and mom who knows how to get things done.
+Raised on the island of North Haven, she’s led at every level—serving as Maine’s Speaker of the House, running a small business, chairing her local school board, and directing the Governor’s Office of Policy Innovation and the Future.
+Support Hannah by making a donation online or signing up to volunteer today.
+Hannah Pingree for Governor P.O.
+Box 4821 Portland ME, 04112 Paid for and authorized by Hannah Pingree for Governor All Rights Reserved.
+Copyright #.
+Privacy Policy.

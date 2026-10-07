@@ -1,33 +1,8 @@
-For a Better Texas
-Home
-About Leilani
--
--
--
--
--
-Join Us in Making Texas a Better Place to Live for All!
+For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
 Enjoy Our Upcoming Events!
-Priority Issues for District 69
-Thank You for Your Endorsements!
-Contact
-For a Better Texas
-Home
-About Leilani
--
--
--
--
--
-Join Us in Making Texas a Better Place to Live for All!
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact For a Better Texas Home About Leilani - - - - - Join Us in Making Texas a Better Place to Live for All!
 Enjoy Our Upcoming Events!
-Priority Issues for District 69
-Thank You for Your Endorsements!
-Contact
-Contact
-Barnett for Texas HD69
-P.O.
-Box 4194, Wichita Falls, TX 76308
-+1-(940) 217-5965
-Leilani@BarnettforTexas.org
-Contact Us
+Priority Issues for District 69 Thank You for Your Endorsements!
+Contact Contact Barnett for Texas HD69 P.O.
+Box 4194, Wichita Falls, TX 76308 +1-(940) 217-5965 Leilani@BarnettforTexas.org Contact Us

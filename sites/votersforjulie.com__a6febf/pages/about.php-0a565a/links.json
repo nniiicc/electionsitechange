@@ -1,7 +1,38 @@
 [
-"https://facebook.com/statereprjulieolthoff",
-"https://votersforjulie.com/about.php",
-"https://votersforjulie.com/index.php",
-"https://votersforjulie.com/legislation.php",
-"https://votersforjulie.com/news.php"
+{
+"text": "219-730-8356",
+"href": "tel:219-730-8356"
+},
+{
+"text": "About",
+"href": "https://votersforjulie.com/about.php"
+},
+{
+"text": "Home",
+"href": "https://votersforjulie.com/index.php"
+},
+{
+"text": "Legislation",
+"href": "https://votersforjulie.com/legislation.php"
+},
+{
+"text": "News",
+"href": "https://votersforjulie.com/news.php"
+},
+{
+"text": "News & Events",
+"href": "https://votersforjulie.com/news.php"
+},
+{
+"text": "[image]",
+"href": "https://votersforjulie.com/index.php"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/statereprjulieolthoff/"
+},
+{
+"text": "votersforjulie@gmail.com",
+"href": "mailto:votersforjulie@gmail.com"
+}
 ]

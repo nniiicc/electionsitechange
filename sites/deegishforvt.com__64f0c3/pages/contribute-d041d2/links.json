@@ -1,15 +1,54 @@
 [
-"https://campaignpartner.com/",
-"https://deegishforvt.com/",
-"https://deegishforvt.com/contact",
-"https://deegishforvt.com/contribute",
-"https://deegishforvt.com/home",
-"https://deegishforvt.com/issues",
-"https://deegishforvt.com/meet_dee",
-"https://deegishforvt.com/news",
-"https://deegishforvt.com/photos",
-"https://deegishforvt.com/view-endorsements",
-"https://deegishforvt.com/volunteer",
-"https://deegishforvt.com/vote",
-"https://secure.actblue.com/donate/wo2"
+{
+"text": "Click to donate online through Actblue",
+"href": "https://secure.actblue.com/donate/wo2"
+},
+{
+"text": "Contact",
+"href": "https://www.deegishforvt.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.deegishforvt.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.deegishforvt.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.deegishforvt.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.deegishforvt.com/issues"
+},
+{
+"text": "Meet Dee",
+"href": "https://www.deegishforvt.com/meet_dee"
+},
+{
+"text": "News",
+"href": "https://www.deegishforvt.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.deegishforvt.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.deegishforvt.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.deegishforvt.com/vote"
+},
+{
+"text": "[image: Dee Gish for Vermont House]",
+"href": "https://www.deegishforvt.com/"
+}
 ]

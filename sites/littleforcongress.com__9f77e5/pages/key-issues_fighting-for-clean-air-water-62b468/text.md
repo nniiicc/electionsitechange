@@ -1,5 +1,5 @@
-Protecting Our Environment
-Minnesota’s Second Congressional District (MN-02) is full of beautiful parks, trails, lakes, and rivers that provide a high quality of life and contribute to our economic vitality.
+Skip to main content Skip to header right navigation Skip to site footer The ONLY CD2 candidate endorsed by the Minnesota DFL – Democratic Party Matt Little for Congress District 2 Minnesota Search...
+Search site Submit search Menu Meet Matt Endorsements Key Issues About District 2 Get Involved For Media Yard Sign Donate Fighting for Clean Air & Water Protecting Our Environment Minnesota’s Second Congressional District (MN-02) is full of beautiful parks, trails, lakes, and rivers that provide a high quality of life and contribute to our economic vitality.
 Beyond these resources, a healthy environment with clean air and drinking water is essential for families, especially children, not to mention enormous impacts on businesses and property values.
 Climate change not only impacts our seasons, it has already damaged huge industries; from snowmobiles to ski resorts, and drought plagued farms to suffering caused by lyme disease.
 Climate change is already here, and it’s becoming an economic and environmental threat to our way of life.
@@ -7,3 +7,5 @@ Similarly, whether it’s toxic waste dumped in our rivers, a local water qualit
 Those who seek to take advantage of the health and vitality of our community will face no stronger opponent.
 Both my political and legal experiences, from securing bonding money for sewer systems in Dakota County to advocating for environmental protection across the State, have helped me understand that the health of our environment and the success of the economy go hand in hand.
 Whether that’s hunting, fishing, hiking, skiing, snowboarding, or just taking a walk around Crystal Lake, our beautiful outdoor spaces are crucial for property values, businesses and tourism.
+More Key Issues Fighting for Fair Student Loans I’m running to fix our broken student loan system, fighting for fairness, accountability, and real … Fighting for Safe Neighborhoods I’m supporting the brave individuals who keep our neighborhoods safe while ensuring they have the … Fighting for Rural America I’m standing up for family farmers who feed our nation but are too often undercut by policies that … Join Matt’s campaign today.
+Donate Facebook Instagram X TikTok Bluesky Paid for by Matt Little for Congress Copyright © # | Privacy Policy | Contact Us Matt Little for Congress – PO Box 397 – Lakeville, MN 55044

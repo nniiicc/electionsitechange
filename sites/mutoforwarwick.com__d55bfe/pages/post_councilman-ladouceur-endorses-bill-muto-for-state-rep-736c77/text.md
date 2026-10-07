@@ -1,6 +1,6 @@
-Councilman Ladouceur Endorses Bill Muto for State Rep.
-Dear Neighbor,
-I chair the Warwick City Council Finance Committee, and I have served alongside Bill Muto on that committee.
+top of page for State Representative Fighting for District 23 — Every Day, For Every Family Vote in the Primary on September 9, 2026 Home About Meet the Candidate Legislative Homepage Accessibility Statement Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Volunteer Form Contact Us Voter Information Menu Close Contribute All Posts Endorsements Councilman Ladouceur Endorses Bill Muto for State Rep.
+Staff at Bill Muto for State Rep.
+Sep 2 1 min read Dear Neighbor, I chair the Warwick City Council Finance Committee, and I have served alongside Bill Muto on that committee.
 Having sat through more budget hearings and finance meetings than I care to count, I can tell you one clear truth: almost all of the real work happens long before anyone steps up to a microphone.
 Bill does that work.
 He walks into every hearing having already scrutinized the line items, stress-tested the purchase requests, and run the numbers himself.
@@ -14,6 +14,6 @@ What we desperately lack are leaders who will dig into a fiscal note, cut throug
 That is the exact standard of representation District 23 needs.
 That is why I endorse Bill Muto for State Representative in District 23.
 The Democratic primary is Wednesday, September 9, and I strongly urge you to give him your vote.
-Sincerely,
-Ed Ladouceur
-Councilman, Ward 5Chairman, Warwick City Council Finance Committee
+Sincerely, Ed Ladouceur Councilman, Ward 5Chairman, Warwick City Council Finance Committee Endorsements Recent Posts See All Why I know Bill Muto belongs in in the State House Senator McKenney Endorses Bill Muto for State Rep.
+Contribute Report a Website Issue: Click Here © # Bill Muto for State Representative .
+All Rights Reserved Paid for by Friends of William Muto Privacy Policy Approved by Cooper Do Not Sell My Personal Information Home About Meet the Candidate Legislative Homepage Accessibility Statement Events Community Calendar Campaign Photo Gallery News & Press In the News Press Releases Endorsements Social Media Get Involved Volunteer Form Contact Us Voter Information bottom of page

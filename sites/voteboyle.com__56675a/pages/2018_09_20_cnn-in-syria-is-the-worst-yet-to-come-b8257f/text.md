@@ -1,31 +1,32 @@
-By U.S.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate CNN: In Syria, is the Worst Yet to Come?
+September 20, 2018 September 20, 2018 By U.S.
 Rep.
 Brendan F.
 Boyle, U.S.
 Rep.
-Adam Kinzinger, SE Cupp, and Suzanne Meriden
-Bashar al-Assad thinks he is winning.
+Adam Kinzinger, SE Cupp, and Suzanne Meriden Bashar al-Assad thinks he is winning.
 The Syrian dictator, according to the Syrian Observatory for Human Rights, is responsible for the deaths of more than 500,000 people.
 UNICEF believes that a full quarter of civilian deaths have been children and minors.
 Many Americans probably think that the war in Syria is over.
 That is, if they think about the war in Syria at all.
 But that is far from the case.
-Over the past few months, the Syrian government has been rapidly issuing death notices for political detainees, which confirm that many of the war’s earliest detainees have been dead for years.
+Over the past few months, the Syrian government has been rapidly issuing death notices for political detainees, which confirm that many of the war’s earliest detainees have been dead for years .
 Imagine the agony of families who have lived (if they have survived at all) for years believing their brothers, husbands, fathers or daughters might still be coming home, only to learn they’ve been long dead.
 The flurry of death notices from a usually tight-lipped government also sends an implied message to two audiences.
 Internally, it indicates to Assad’s own people that resistance is futile.
-As the Washington Post noted, it signals “that it is time to move on while underscoring in grim fashion that he is firmly in control.”
-But externally, this is a show of Assad’s confidence that releasing previously undisclosed death tolls — possibly tens of thousands of people — will provoke little reaction from the rest of the world.
+As the Washington Post noted , it signals “that it is time to move on while underscoring in grim fashion that he is firmly in control.” But externally, this is a show of Assad’s confidence that releasing previously undisclosed death tolls — possibly tens of thousands of people — will provoke little reaction from the rest of the world.
 As devastating a humanitarian crisis as the Syrian war has been, resulting in not only a genocide of half a million people but also in the displacement of millions more, it seems the Assad regime isn’t quite done.
 The worst might be yet to come.
 Last month, Assad told Russian media of a new offensive to conquer the crucial northwestern Idlib province, the Syrian opposition’s last stronghold in the country.
-The province is currently home to nearly three million people, many of whom have escaped other besieged territories.
-The coming campaign in Idlib could be among the worst yet, prompting the United Nations to warn this month of a potential “civilian bloodbath” that could send 700,000 Syrians across dangerous borders or into the unforgiving grip of the Assad regime.
+The province is currently home to nearly three million people , many of whom have escaped other besieged territories.
+The coming campaign in Idlib could be among the worst yet, prompting the United Nations to warn this month of a potential “ civilian bloodbath ” that could send 700,000 Syrians across dangerous borders or into the unforgiving grip of the Assad regime.
 If the 2016 Aleppo massacre — in which the Assad regime’s assault claimed hundreds of civilian lives — was bad, this could be significantly worse.
 It’s not just because it will likely lead to untold numbers of casualties of innocent civilians, including children, though that’s awful enough.
 It’s because it will also result in a new refugee crisis in Europe and bordering states, already over-extended as a result of nearly eight years of Syrian diaspora.
 There is also precedent for Assad’s head fake.
-He trumpeted a “turning point” in the war back in April of 2014, praising his army’s achievements.
+He trumpeted a “ turning point ” in the war back in April of 2014, praising his army’s achievements.
 The following year, a refugee boy named Aylan Kurdi washed up on a beach in Turkey, symbolizing what authorities called the worst European refugee crisis since World War II.
 And one year after that, the months-long slaughter in Aleppo.
 Now Assad seems to be sending the message that he’s won the war again.
@@ -54,5 +55,6 @@ Assad is hoping we don’t care.
 We must prove him wrong.
 Brendan F.
 Boyle is a Democratic member of the U.S.
-House of Representatives, representing Pennsylvania’s 13th Congressional District since Jan. 3, 2015.
-Read the original article here
+House of Representatives, representing Pennsylvania’s 13th Congressional District since Jan.
+3, 2015.
+Read the original article here Philadelphia Inquirer: Trump Weakens America by Overlooking North Korean Human Rights Issues The Intelligencer: Boyle Introduces Bill to compensate Veterans Exposed to PFAS Chemicals Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

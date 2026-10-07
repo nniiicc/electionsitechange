@@ -1,12 +1,42 @@
 [
-"https://campaignpartner.com/",
-"https://fredprice4pg47.com/",
-"https://fredprice4pg47.com/contact",
-"https://fredprice4pg47.com/contribute",
-"https://fredprice4pg47.com/home",
-"https://fredprice4pg47.com/issues",
-"https://fredprice4pg47.com/make-endorsement",
-"https://fredprice4pg47.com/meet_fred",
-"https://fredprice4pg47.com/view-endorsements",
-"https://fredprice4pg47.com/volunteer"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Click here to add your endorsement",
+"href": "https://fredprice4pg47.com/make-endorsement"
+},
+{
+"text": "Contact",
+"href": "https://fredprice4pg47.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://fredprice4pg47.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://fredprice4pg47.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://fredprice4pg47.com/home"
+},
+{
+"text": "Issues",
+"href": "https://fredprice4pg47.com/issues"
+},
+{
+"text": "Meet FRED",
+"href": "https://fredprice4pg47.com/meet_fred"
+},
+{
+"text": "Volunteer",
+"href": "https://fredprice4pg47.com/volunteer"
+},
+{
+"text": "[image: FRED PRICE DELEGATE 47A]",
+"href": "https://fredprice4pg47.com/"
+}
 ]

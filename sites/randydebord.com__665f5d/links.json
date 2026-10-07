@@ -1,10 +1,46 @@
 [
-"https://facebook.com/483540311732308",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://kgis.org/kgismaps",
-"https://knoxcounty.org/election/nav_voter.php",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://randydebord.com/",
-"https://secure.actblue.com/donate/william--randy--debord-1"
+{
+"text": "Donate by clicking here",
+"href": "https://secure.actblue.com/donate/william--randy--debord-1"
+},
+{
+"text": "Home",
+"href": "https://randydebord.com/"
+},
+{
+"text": "Learn more",
+"href": "mailto:Randy@randydebord.com?subject=Under+30+Advisory+Council&body=Send+us+a+resume+of+your+involvement+and+goals.+What+your+vision+of+the+future.+Our+team+will+go+through+these+and+setup+interviews+to+select+the+most+diverse+team+possible"
+},
+{
+"text": "Notify Me, Straight to my desk",
+"href": "mailto:Randy@randydebord.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Randy DeBord Tennessee House district 89Randy DeBord Tennessee House district 89Randy DeBord Tennessee House district 89Randy DeBord Tennessee House district 89",
+"href": "https://randydebord.com/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Voter registration check",
+"href": "https://www.knoxcounty.org/election/nav_voter.php"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/483540311732308"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "home address information",
+"href": "https://www.kgis.org/kgismaps/"
+}
 ]

@@ -1,5 +1,4 @@
-Meet Carlos
-Born in Cuba in 1954, Gimenez immigrated to the United States with his family following the Cuban Revolution in 1960.
+Meet Carlos Take Action Vote Donate Issues Contact Meet Carlos Born in Cuba in 1954, Gimenez immigrated to the United States with his family following the Cuban Revolution in 1960.
 His family settled in Miami’s Little Havana neighborhood and Gimenez has been a Miami-Dade resident ever since.
 Mayor Gimenez has dedicated his life to his community and the people of Miami-Dade County as a firefighter, an administrator and as an elected public servant.
 As Miami-Dade Mayor, Gimenez is the highest-ranking elected official and chief administrator of Florida’s largest county.
@@ -15,3 +14,4 @@ Having been recognized for his management of the Miami Fire-Rescue Department, G
 Due to sound fiscal practices, Gimenez reduced the tax rate to its lowest level in 50 years while creating a $140 million reserve and elevating the City’s bond rating from “junk” status to investment grade.
 Before his election as Mayor, Gimenez was an elected member of the Board of County Commissioners from 2004 to 2011.
 Mayor Gimenez and his wife, the former Lourdes Portela, have three adult children and six grandchildren.
+Paid For By Carlos Gimenez for Congress Privacy Policy

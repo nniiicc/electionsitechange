@@ -1,6 +1,4 @@
-Meet Matt
-Johnston
-Hi.
+top of page Home Meet Matt Priorities Donate Meet Matt Johnston Hi.
 I’m Matt.
 I’m Caitlin’s husband and Luke’s dad.
 I’m a soccer coach, avid hiker, community volunteer, environmental advocate, and a bit of a policy wonk.
@@ -37,3 +35,6 @@ I’m running to give our communities an accessible leader who shows up and a po
 Together, we can do the work that’s required to pass along a better South County to the next generation.
 I’m ready for that hard, honest work.
 I hope you’ll join me.
+Vote Matt Johnston for District 30B Delegate on November 3rd, 2026.
+Speak Up Get Involved Vote matt@mattjohnstonfordelegate.com Checks can be mailed to: Friends of Matt Johnston PO Box 143 Edgewater, MD 21037 Online donations can be made here.
+By Authority: Friends of Matt Johnston, Marie Del Bianco, Treasurer bottom of page

@@ -1,5 +1,6 @@
-Is Social Media Addictive — or Are We?
-There is a high-profile legal battle unfolding right now over a question most of us have quietly asked at some point while scrolling late at night: Is social media addictive?
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search Is Social Media Addictive — or Are We?
+Jantzen Craine Feb 20 4 min read There is a high-profile legal battle unfolding right now over a question most of us have quietly asked at some point while scrolling late at night: Is social media addictive?
 Several states and families have brought lawsuits against major platforms, arguing that companies knowingly designed their apps to be addictive — particularly for teenagers — and that the consequences include anxiety, depression, and measurable mental health decline.
 Internal documents have surfaced in recent years showing that some companies were aware of harmful effects among younger users.
 It’s a serious accusation.
@@ -53,8 +54,7 @@ Social media accounts open before character is formed.
 Screens are handed out to occupy boredom rather than build resilience.
 Then when consequences surface, we ask courts to fix what culture has normalized.
 The question “Is social media addictive?” might be the wrong headline.
-A better one might be: “Are we teaching discipline?”
-The Christian tradition has long emphasized self-control as a virtue — not because desire is evil, but because ungoverned desire leads to disorder.
+A better one might be: “Are we teaching discipline?” The Christian tradition has long emphasized self-control as a virtue — not because desire is evil, but because ungoverned desire leads to disorder.
 Discipline is not oppression.
 It is freedom.
 The ability to say no is what makes yes meaningful.
@@ -78,3 +78,9 @@ It’s that we forget we are supposed to be the masters of it.
 If we want healthier minds and stronger families, the solution will require more than lawsuits.
 It will require honesty, discipline, and the courage to look at our own habits before we indict someone else’s algorithm.
 Because at some point, the question stops being whether social media is addictive — and starts being whether we are willing to govern ourselves.
+Recent Posts See All When Energy Policy Costs Maine Jobs Trust in Government Starts with Transparency Why the Middle East Will Never Truly Be at Peace HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

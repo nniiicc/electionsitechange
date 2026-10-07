@@ -1,19 +1,9 @@
-Back to All Events
-Legislative Crackerbarrel
-Date: Saturday, January 31, 2026
-Time: 9:00 AM – 11:00 AM
-Location:
-Western Dakota Technical College, Event Center
-800 Mickelson Drive, Rapid City, SD 57703
-Details:
-Legislative Crackerbarrels are free, public forums that give community members the chance to hear directly from their state legislators.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events First Legislative Crackerbarrel Saturday, January 31, 2026 9:00 AM 11:00 AM Western Dakota Technical College Event Center 800 Mickelson Drive Rapid City, SD, 57703 United States (map) Google Calendar ICS Legislative Crackerbarrel Date: Saturday, January 31, 2026 Time: 9:00 AM – 11:00 AM Location: Western Dakota Technical College, Event Center 800 Mickelson Drive, Rapid City, SD 57703 Details: Legislative Crackerbarrels are free, public forums that give community members the chance to hear directly from their state legislators.
 These open conversations provide updates on current bills and key issues, while offering space for the public to ask questions and share feedback.
 No registration is required.
 Simply attend and join the dialogue.
-Previous
-Previous
-January 10
-Beers Before Pierre
-Next
-Next
-February 28
+Previous Previous January 10 Beers Before Pierre Next Next February 28 Second Legislative Crackerbarrel Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

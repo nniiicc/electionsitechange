@@ -1,6 +1,3 @@
-Christopher Dean is a true leader.
-Example Endorsement
-Christopher Dean Pledges to Support Congressional Term Limits
-State Senate candidate hospitalized after finding envelope with 'white substance' on property
-Candidates across the political spectrum hit the fair to engage with voters before the primaries
-Christopher Dean announces run for State Senate District 15
+Meet Christopher Issues News Volunteer Home Contribute Events Yard Signs Endorsements Christopher Dean is a true leader.
+Example Endorsement Click here to add your endorsement VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Christopher Dean Pledges to Support Congressional Term Limits State Senate candidate hospitalized after finding envelope with 'white substance' on property Candidates across the political spectrum hit the fair to engage with voters before the primaries Christopher Dean announces run for State Senate District 15 Endorsements Yard Signs Events Photos Contact Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner.com - Political Campaign Websites Home Meet Christopher Issues Endorsements Contribute Volunteer News Yard Signs Contact Close Menu

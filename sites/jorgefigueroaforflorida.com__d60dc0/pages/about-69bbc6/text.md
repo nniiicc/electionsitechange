@@ -1,4 +1,4 @@
-Jorge H.
+Skip to content Donate Facebook-f Twitter Instagram Home About Priorities Sign Up Home About Priorities Sign Up Donate Jorge H.
 Figueroa is a respected business and community leader, entrepreneur, and advocate for economic opportunity across Central Florida.
 Born in San Juan, Puerto Rico, and raised in the Villa Esperanza public housing community of Río Piedras, Jorge learned early the value of hard work and perseverance.
 At sixteen, he moved to Wisconsin to learn English and later earned a Bachelor’s degree in Finance and Spanish from the University of Wisconsin–Parkside, followed by an MBA in Global Management from the University of Phoenix.
@@ -15,3 +15,5 @@ That commitment has shaped his approach to leadership – uniting people, solvin
 Jorge also served on the Osceola County Housing Finance Authority, and serves the American Business Immigration Coalition’s Business Advisory Board, where he advocates for common-sense sense bipartisan immigration and workforce policies.
 Grounded in faith and family, Jorge lives in Kissimmee with his wife, Bilda Acevedo, and their daughters, Lemishka Rodríguez and Aneishka González.
 He is running for the Florida House to address the affordability crisis, reform Florida’s broken property insurance system, and expand pathways to economic mobility for families across Central Florida.
+"As President of the Puerto Rican Chamber of Commerce, I’ve helped small businesses grow and families get ahead.
+In Tallahassee, I’ll fight to make Florida a place where everyone can thrive." Jorge Figueroa Paid for and approved by Jorge Figueroa, Democrat, for Florida House District 47

@@ -1,10 +1,38 @@
 [
-"https://bernyforflorida.com/",
-"https://bernyforflorida.com/meet-berny",
-"https://bernyforflorida.com/news",
-"https://facebook.com/BernyForFlorida",
-"https://instagram.com/bernyjacques",
-"https://local10.com/this-week-in-south-florida/2026/03/22/this-week-in-south-florida-full-episode-march-22-2026",
-"https://secure.anedot.com/berny-jacques-election-campaign/donate",
-"https://twitter.com/BernyJacques"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/berny-jacques-election-campaign/donate"
+},
+{
+"text": "Home",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "In the News",
+"href": "https://bernyforflorida.com/news/"
+},
+{
+"text": "Local 10",
+"href": "https://www.local10.com/this-week-in-south-florida/2026/03/22/this-week-in-south-florida-full-episode-march-22-2026/"
+},
+{
+"text": "Meet Berny",
+"href": "https://bernyforflorida.com/meet-berny/"
+},
+{
+"text": "[image: Berny Jacques for State Representative]",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BernyForFlorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bernyjacques"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BernyJacques"
+}
 ]

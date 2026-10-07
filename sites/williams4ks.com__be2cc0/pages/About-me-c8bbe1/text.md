@@ -1,4 +1,4 @@
-A life-long Kansan, Mary Williams was raised on the fourth-generation Schneider/Noll farm in the Mooney Creek area of Jefferson County.
+Donate-ActBlue Home About me Issues Contact/Donate for a Better Kansas Endorsements 2026 your voice, your vote Who Is Mary Williams A life-long Kansan, Mary Williams was raised on the fourth-generation Schneider/Noll farm in the Mooney Creek area of Jefferson County.
 She attended Kansas public schools from kindergarten through graduate school.
 She and her husband, Clint, reside in rural Meriden.
 Between the two of them, her blended family includes two children, two step-children, and six grandchildren.
@@ -20,3 +20,5 @@ We need to provide quality childcare support as well as early childhood educatio
 We also need to make sure we have quality health care for our elderly, veterans and society in general.
 We need to fully fund Public Education and specificially Special Education.
 And we need to protect our rural hospitals as federal funding has negatively affected the ability for these facilities to maintain services.
+MARY T.
+WILLIAMS PAID FOR BY WILLIAMS FOR KANSAS, PAULA HIGLEY, TREASURER How to find us Address: P O Box 359 Meriden, KS USA Contact me at williams4ks@gmail.com © # williams4ks.com

@@ -1,3 +1,3 @@
-Contact About You Your Name(Required) First Last Your Address Street Address Address Line 2 City ZIP Code How Can We Reach You?
-Preferred Method of Contact EmailPhone Your Email Address(Required) Email Address Confirm Email Address Your Phone(Required) Notes\ Comments\ Questions Show Your Support Please select if you would like you like one or more of the following?
-Yard Sign Big Sign to Volunteer Select All
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Contact About You Your Name (Required) First Last Your Address Street Address Address Line 2 City ZIP Code How Can We Reach You?
+Preferred Method of Contact Email Phone Your Email Address (Required) Email Address Confirm Email Address Your Phone (Required) Notes\ Comments\ Questions Show Your Support Please select if you would like you like one or more of the following?
+Yard Sign Big Sign to Volunteer Select All Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

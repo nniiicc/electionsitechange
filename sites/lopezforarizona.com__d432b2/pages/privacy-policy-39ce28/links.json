@@ -1,14 +1,62 @@
 [
-"http://lopezforarizona.com/",
-"https://facebook.com/mirandalopezforarizona",
-"https://instagram.com/lopezforarizona",
-"https://linkedin.com/in/miranda-lopez23",
-"https://lopezforarizona.com/",
-"https://lopezforarizona.com/about",
-"https://lopezforarizona.com/contact-us",
-"https://lopezforarizona.com/endorsements",
-"https://lopezforarizona.com/priorities",
-"https://secure.actblue.com/donate/lopezforarizona",
-"https://tiktok.com/@lopezforarizona",
-"https://tiktok.com/lopezforarizona"
+{
+"text": "ABOUT MIRANDA",
+"href": "https://lopezforarizona.com/about"
+},
+{
+"text": "CONTACT US",
+"href": "https://lopezforarizona.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lopezforarizona"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/lopezforarizona"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://lopezforarizona.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://lopezforarizona.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://lopezforarizona.com/priorities"
+},
+{
+"text": "[image: Miranda Lopez for Arizona State House logo]",
+"href": "https://lopezforarizona.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/mirandalopezforarizona"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/lopezforarizona"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/in/miranda-lopez23/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@lopezforarizona"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/lopezforarizona"
+},
+{
+"text": "info@lopezforarizona.com",
+"href": "mailto:info@lopezforarizona.com"
+},
+{
+"text": "www.lopezforarizona.com",
+"href": "http://www.lopezforarizona.com"
+}
 ]

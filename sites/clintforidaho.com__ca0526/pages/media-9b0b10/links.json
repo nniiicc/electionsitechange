@@ -1,16 +1,70 @@
 [
-"https://clintforidaho.com/",
-"https://clintforidaho.com/about",
-"https://clintforidaho.com/author/clint",
-"https://clintforidaho.com/contact",
-"https://clintforidaho.com/donate",
-"https://clintforidaho.com/issues",
-"https://clintforidaho.com/media",
-"https://clintforidaho.com/wp-content/uploads/CH-crop.jpg",
-"https://clintforidaho.com/wp-content/uploads/CH_logo-04.png",
-"https://clintforidaho.com/wp-content/uploads/District_24-A_Hostetler_Clint_4x5_300dpi.jpg",
-"https://clintforidaho.com/wp-content/uploads/Hostrtler-Family-39-scaled.jpg",
-"https://clintforidaho.com/wp-content/uploads/TalkingatBB-scaled.jpg",
-"https://facebook.com/clintforidaho",
-"https://twitter.com/clintforidaho"
+{
+"text": "About",
+"href": "https://clintforidaho.com/about/"
+},
+{
+"text": "Clint Hostetler",
+"href": "https://clintforidaho.com/author/clint/"
+},
+{
+"text": "Contact",
+"href": "https://clintforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://clintforidaho.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://clintforidaho.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://clintforidaho.com/media/"
+},
+{
+"text": "[image: Clint Hostetler for Idaho Logo]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/wp-content/uploads/CH-crop.jpg"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/wp-content/uploads/CH_logo-04.png"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/wp-content/uploads/District_24-A_Hostetler_Clint_4x5_300dpi.jpg"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/wp-content/uploads/Hostrtler-Family-39-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://clintforidaho.com/wp-content/uploads/TalkingatBB-scaled.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/clintforidaho"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://twitter.com/clintforidaho"
+}
 ]

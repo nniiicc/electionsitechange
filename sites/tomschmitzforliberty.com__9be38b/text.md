@@ -1,12 +1,10 @@
+top of page TomSchmitzForLiberty.com Home Issues Donate Blog About More Use tab to navigate through the menu items.
 The Republican/Democrat uniparty has grown our government into an out of control, oppressive system, destroyed our currency, wrecked our healthcare industry, and executed a foreign policy of endless wars, bombings, death, and destruction.
 The Libertarian Party is the true opposition to the uniparty war machine, the only bulwark against the uniparty's spiral ever further into forced collectivism.
 The real debate in America is not left vs. right, but liberty vs. tyranny.
 Libertarians are fighting for a free society, where individuals are allowed to pursue their goals and dreams without interference from government, where the power is taken out of the hands of the monolithic state and returned to individual choice, and where values of self-ownership and freedom of conscience triumph over coercion and tyranny.
 I will never stop fighting for individualism and peace, and against the darkness of forced collectivism and endless war.
-Thank you for visiting my website and for having an open mind, I hope to earn your vote this November.
--Tom Schmitz, Libertarian Party Candidate for Congress
-in Missouri's 1st Congressional District
-Republicans and Democrats are two factions the same political party which has a political philosophy of statism, forced collectivism, increasing authoritarianism, expanding government power and control over American's lives, and engaging in endless wars, bombings, killings, and interference in other nations' affairs.
+Thank you for visiting my website and for having an open mind, I hope to earn your vote this November. -Tom Schmitz, Libertarian Party Candidate for Congress in Missouri's 1st Congressional District Republicans and Democrats are two factions the same political party which has a political philosophy of statism, forced collectivism, increasing authoritarianism, expanding government power and control over American's lives, and engaging in endless wars, bombings, killings, and interference in other nations' affairs.
 The Libertarian Party is the true opposition to the statist Republican/Democrat uniparty.
 Libertarians stand for maximizing individual liberty and freedom, removing government control from Americans' lives, free markets, and implementing a foreign policy of non-interventionism, peace with all nations, entangling alliances with none.
 Democrats and Republicans agree that we should have a massive federal government ($7.4 trillion budget estimated in 2026) that increasingly controls Americans’ lives.
@@ -27,12 +25,9 @@ Republicans and Democrats in Washington both support the Social Security status 
 Libertarians want individuals to have the choice to opt out of Social Security, and to move towards full privatization of retirement.
 Democrats and Republicans in Washington both support the status quo, failed welfare state.
 Libertarians want to replace the harmful welfare state with voluntary, sustainable charity.
-Democrats and Republicans in Washington both support the drug war.
-Libertarians want to end the drug war.
+Democrats and Republicans in Washington both support the drug war. ​ Libertarians want to end the drug war.
 Individuals own their bodies and should be free to ingest whatever they want to ingest, for whatever reason they see fit.
-Democrats and Republicans in Washington both support massive bailouts and subsidies for failing corporations and mega banks.
-Libertarians believe in a free market economy, and that no company or individual should ever be subsidized or bailed out by taxpayers for any reason.
-On the environment, Democrats and Republicans have unfairly and unjustly stifled and suffocated the free market's attempts to build nuclear power plants in the United States, instead forcing the market to sources of energy high in carbon emissions or to new technologies that are not ready to power America.
+Democrats and Republicans in Washington both support massive bailouts and subsidies for failing corporations and mega banks. ​ Libertarians believe in a free market economy, and that no company or individual should ever be subsidized or bailed out by taxpayers for any reason. ​ On the environment, Democrats and Republicans have unfairly and unjustly stifled and suffocated the free market's attempts to build nuclear power plants in the United States, instead forcing the market to sources of energy high in carbon emissions or to new technologies that are not ready to power America.
 Libertarians want the market to have the freedom to build nuclear power plants, which are the one and only technology we have now—and have had for decades—that can both power America and which produce virtually zero carbon emissions.
 Even on controversial "hot button" issues such as immigration, abortion, and transgender rights, the separation between Democrats and Republicans in Washington is mostly rhetorical and almost never reflected in fundamental policy change.
 In any event, with each of these hot button issues both Democrats and Republicans in Washington want to use the power of the state to force their views on everyone else.
@@ -41,4 +36,5 @@ When zooming out, the divide between Democrats and Republicans in Washington is 
 This theater of opposition always ramps up as we get closer to election time.
 Democrats and Republicans in Washington are two sides of the same coin, and their opposition is an illusion.
 Democrats and Republicans are two factions of the Statist uniparty.
-Their true political opposition is the Libertarian Party which advocates for freedom from the government coercion and control uniparty politicians consistently and increasingly impose upon the American people.
+Their true political opposition is the Libertarian Party which advocates for freedom from the government coercion and control uniparty politicians consistently and increasingly impose upon the American people. tomschmitzforliberty@gmail.com ©# by tomschmitzforliberty.com.
+Proudly created with Wix.com bottom of page

@@ -1,80 +1,15 @@
-“Nuestra comunidad abraza valores progresistas arraigados en el cuidado de nuestros residentes más desatendidos.
-Como representante estatal, defenderé a Kansas City mientras trabajo con cualquiera que hable en serio sobre la entrega de resultados para nuestros vecindarios y que se oponga a la agenda MAGA extrema en Jefferson City.”
-Kevin está corriendo para defender a los misurianos que a menudo son ignorados: las familias trabajadoras y las comunidades desatendidas. Él está luchando contra la agenda extrema MAGA y peleando por la oportunidad, la justicia y la igualdad para todos, no solo para unos pocos poderosos.
-RESPETE LA VOLUNTAD DE LOS VOTANTES
-UNA ECONOMÍA PARA TODOS
-DERECHOS DE LAS MUJERES Y LGBTQ+
-VIVIENDA ASEQUIBLE Y ATENCIÓN MÉDICA
-LEYES DE ARMAS DE SENTIDO COMÚN
-PROTEGE LA EDUCACIÓN PÚBLICA
-Estamos orgullosos de contar con el apoyo de líderes comunitarios, organizaciones y vecinos, pero el aval que más importa es el suyo.
+Saltar al contenido Acerca de Problemas Patrocinios Café con Kevin Contacto Acerca de Problemas Patrocinios Café con Kevin Contacto Facebook Instagram X-Twitter Logo de Bluesky Youtube TikTok DONAR Kevin Garner - Demócrata Una Visión Progresista y Firmeza para Jefferson City Distrito 24 de la Cámara de Representantes de Missouri Aprender más Conoce a Kevin “Nuestra comunidad abraza valores progresistas arraigados en el cuidado de nuestros residentes más desatendidos.
+Como representante estatal, defenderé a Kansas City mientras trabajo con cualquiera que hable en serio sobre la entrega de resultados para nuestros vecindarios y que se oponga a la agenda MAGA extrema en Jefferson City.” APRENDER MÁS En los temas Kevin está corriendo para defender a los misurianos que a menudo son ignorados: las familias trabajadoras y las comunidades desatendidas. Él está luchando contra la agenda extrema MAGA y peleando por la oportunidad, la justicia y la igualdad para todos, no solo para unos pocos poderosos.
+VER TODAS LAS PRIORIDADES RESPETE LA VOLUNTAD DE LOS VOTANTES UNA ECONOMÍA PARA TODOS DERECHOS DE LAS MUJERES Y LGBTQ+ VIVIENDA ASEQUIBLE Y ATENCIÓN MÉDICA LEYES DE ARMAS DE SENTIDO COMÚN PROTEGE LA EDUCACIÓN PÚBLICA Patrocinios Estamos orgullosos de contar con el apoyo de líderes comunitarios, organizaciones y vecinos, pero el aval que más importa es el suyo.
 Esta campaña está impulsada por gente común y, juntos, estamos construyendo un futuro mejor para Missouri.
-Funcionarios electos actuales y anteriores
-- Representante Pattie Mansur – Distrito 25 de la Cámara de Representantes
-- Representante Melissa Douglas Distrito 27 de la Cámara de Representantes
-- Representante Aaron Crossley Distrito 29 de la Cámara de Representantes
-- Representante Ian Mackey – Distrito 99 de la Cámara de Representantes
-- Hon.
-Mike Talboy – Ex líder de la minoría demócrata de Misuri
-- Honorable Crystal Williams – Exlegislador del condado de Jackson
-- Honorable Scott Burnett – Exlegislador del condado de Jackson
-- Comisionado Scott Wagner – Ex Vicepresidente Pro Tem y Director Ejecutivo de Kansas City, Bridging the Gap
-- Concejal Wes Rogers – Concejal de Kansas City y ex representante estatal de Missouri
-- Hon.
-Randy Dunn – Exrepresentante estatal de Missouri y Director Ejecutivo del Partido Demócrata de Missouri
-- Hon.
-Scott Sifton – Ex Senador Estatal de Missouri
-- Honorable Matthew Oates Ex miembro de la Junta Escolar de KCPS y defensor de la comunidad
-- John “Coach” Comstock Comité Demócrata del Condado de Jackson, miembro del comité del Distrito 5
-- Randy Hite Comité Central Demócrata del Condado de Jackson, miembro del Comité del Distrito 4
-- Ryan Meyer – Comisionado del Distrito 11 del Comité Central Demócrata del Condado de Jackson
-- Hon.
-Henry Beck – Ex-Tesorero del Estado de Maine
-Organizaciones laborales
-- Missouri AFL-CIO
-- AFL-CIO del Gran Kansas City
-- Consejo de Oficios de Construcción y Edificación del Gran Kansas City
-- Federación Estadounidense de Maestros Local 691
-- Hermandad Internacional de Trabajadores Eléctricos Local 124
-- Sindicato United Auto Workers Local 249
-- Unión Internacional de Operadores de Maquinaria Local 101
-- Plomeros Locales 533
-- Consejo Regional de Carpinteros de Mid-America
-- Hermandad Internacional de Trabajadores Eléctricos Local 53
-- Sindicato Local 518 de yeseros y oficiales del cemento
-- Albañiles y Artesanos Afines Local 15
-- Alianza Internacional de Empleados Teatrales de Escenario Local 31
-- Fontaneros e instaladores de gas, Local 8
-- Sindicato Local 10 de Trabajadores del Hierro
-- Trabajadores de las Comunicaciones de América Local 6360
-- Asociación Internacional de Bomberos Local 42
-- Asociación Internacional de Bomberos Local 3808
-- Sección Local 955 del sindicato Teamsters
-- Consejo Estatal de Bomberos de Misuri
-- Hermandad de Maquinistas de Locomotoras y Trenes
-- Trabajadores de la Plancha de Metal, Aire, Riel y Transporte – División de Transporte
-Organizaciones Progresistas
-- Candidato de Moms Demand Action Gun Sense
-- Fondo de Victoria LGBTQ+
-- PROMO PAC
-- Acceso al Aborto en Missouri
-- Mejores escuelas para Misuri (Administradores escolares de Misuri)
-- Jóvenes Demócratas de Misuri
-- Club Político La Raza
-líderes comunitarios
-- Rachel Sweet – Gerente de campaña del “Sí a la Proposición 3” y defensor de los derechos del aborto reconocido a nivel nacional
-- Bryan Meyer – Co-fundador y CEO, Veterans Community Project
-- Joel Barrett – Líder y autor LGBTQ+ de Kansas City
-- Andrew Hartzler – Presidente de los Jóvenes Demócratas de Missouri
-- Ben & Shelli Carman-Brown – Co-fundadores, Midtown Democratic Club de Kansas City
-- Jared Campbell – Líder del barrio del centro
-- Josh Boehm – Líder vecinal del centro y secretario, Alianza Regional de Tránsito de KC
-- Tristin Amezcua-Hogan – Líder Laboral y de Transporte de Kansas City
-- John Coler – Líder del barrio del centro
-- David Johnson – Ex miembro de la Junta Directiva, Asociación Comunitaria Crossroads y Presidenta Saliente, Alianza Regional de Tránsito de KC.
-- Robb Traylor – Presidente, Asociación Comunitaria Longfellow
-- Grant Mayfield Líder Vecinal de Midtown
+Funcionarios electos actuales y anteriores Representante Pattie Mansur – Distrito 25 de la Cámara de Representantes Representante Melissa Douglas Distrito 27 de la Cámara de Representantes Representante Aaron Crossley Distrito 29 de la Cámara de Representantes Representante Ian Mackey – Distrito 99 de la Cámara de Representantes Hon.
+Mike Talboy – Ex líder de la minoría demócrata de Misuri Honorable Crystal Williams – Exlegislador del condado de Jackson Honorable Scott Burnett – Exlegislador del condado de Jackson Comisionado Scott Wagner – Ex Vicepresidente Pro Tem y Director Ejecutivo de Kansas City, Bridging the Gap Concejal Wes Rogers – Concejal de Kansas City y ex representante estatal de Missouri Hon.
+Randy Dunn – Exrepresentante estatal de Missouri y Director Ejecutivo del Partido Demócrata de Missouri Hon.
+Scott Sifton – Ex Senador Estatal de Missouri Honorable Matthew Oates Ex miembro de la Junta Escolar de KCPS y defensor de la comunidad John “Coach” Comstock Comité Demócrata del Condado de Jackson, miembro del comité del Distrito 5 Randy Hite Comité Central Demócrata del Condado de Jackson, miembro del Comité del Distrito 4 Ryan Meyer – Comisionado del Distrito 11 del Comité Central Demócrata del Condado de Jackson Hon.
+Henry Beck – Ex-Tesorero del Estado de Maine Organizaciones laborales Missouri AFL-CIO AFL-CIO del Gran Kansas City Consejo de Oficios de Construcción y Edificación del Gran Kansas City Federación Estadounidense de Maestros Local 691 Hermandad Internacional de Trabajadores Eléctricos Local 124 Sindicato United Auto Workers Local 249 Unión Internacional de Operadores de Maquinaria Local 101 Plomeros Locales 533 Consejo Regional de Carpinteros de Mid-America Hermandad Internacional de Trabajadores Eléctricos Local 53 Sindicato Local 518 de yeseros y oficiales del cemento Albañiles y Artesanos Afines Local 15 Alianza Internacional de Empleados Teatrales de Escenario Local 31 Fontaneros e instaladores de gas, Local 8 Sindicato Local 10 de Trabajadores del Hierro Trabajadores de las Comunicaciones de América Local 6360 Asociación Internacional de Bomberos Local 42 Asociación Internacional de Bomberos Local 3808 Sección Local 955 del sindicato Teamsters Consejo Estatal de Bomberos de Misuri Hermandad de Maquinistas de Locomotoras y Trenes Trabajadores de la Plancha de Metal, Aire, Riel y Transporte – División de Transporte Organizaciones Progresistas Candidato de Moms Demand Action Gun Sense Fondo de Victoria LGBTQ+ PROMO PAC Acceso al Aborto en Missouri Mejores escuelas para Misuri (Administradores escolares de Misuri) Jóvenes Demócratas de Misuri Club Político La Raza líderes comunitarios Rachel Sweet – Gerente de campaña del “Sí a la Proposición 3” y defensor de los derechos del aborto reconocido a nivel nacional Bryan Meyer – Co-fundador y CEO, Veterans Community Project Joel Barrett – Líder y autor LGBTQ+ de Kansas City Andrew Hartzler – Presidente de los Jóvenes Demócratas de Missouri Ben & Shelli Carman-Brown – Co-fundadores, Midtown Democratic Club de Kansas City Jared Campbell – Líder del barrio del centro Josh Boehm – Líder vecinal del centro y secretario, Alianza Regional de Tránsito de KC Tristin Amezcua-Hogan – Líder Laboral y de Transporte de Kansas City John Coler – Líder del barrio del centro David Johnson – Ex miembro de la Junta Directiva, Asociación Comunitaria Crossroads y Presidenta Saliente, Alianza Regional de Tránsito de KC.
+Robb Traylor – Presidente, Asociación Comunitaria Longfellow Grant Mayfield Líder Vecinal de Midtown ¿Quieres tomar un café?
 Rara vez verás a Kevin sin una taza de café en la mano.
 Entonces, ¿por qué no te tomas una taza con él?
 Ya seas residente o propietario de una pequeña empresa en el Distrito 24, esta es una oportunidad para tener una conversación real sobre los temas que más te importan.
-Vota el martes 3 de noviembre de 2026
+Regístrate Acerca de Problemas Patrocinios Café con Kevin Contacto Acerca de Problemas Patrocinios Café con Kevin Contacto DONAR Pagado por Garner para Missouri, Lisa Honn, Tesorera Facebook Instagram X-Twitter Logo de Bluesky Youtube TikTok Orgullosamente construido por ASB .
+Vota el martes 3 de noviembre de 2026 Spanish English

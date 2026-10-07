@@ -1,22 +1,110 @@
 [
-"https://acvote.alamedacountyca.gov/",
-"https://caearlyvoting.sos.ca.gov/",
-"https://facebook.com/MelissaHernandezForCongress",
-"https://heyvictor.com/",
-"https://instagram.com/melissahernandezforcongress",
-"https://melissaheranandez2026.com/get-involved",
-"https://melissahernandez2026.com/",
-"https://melissahernandez2026.com/accessibility-statement",
-"https://melissahernandez2026.com/endorsements",
-"https://melissahernandez2026.com/get-involved",
-"https://melissahernandez2026.com/issues",
-"https://melissahernandez2026.com/media",
-"https://melissahernandez2026.com/meet-candidate",
-"https://melissahernandez2026.com/news",
-"https://melissahernandez2026.com/privacy-policy",
-"https://melissahernandez2026.com/voting-info",
-"https://registertovote.ca.gov/",
-"https://secure.actblue.com/donate/melissa-hernandez-1",
-"https://sos.ca.gov/elections/ballot-status/wheres-my-ballot",
-"https://youtube.com/@MelissaHernandez4Congress2026"
+{
+"text": "Accessibility Statement",
+"href": "https://melissahernandez2026.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@melissahernandez2026.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melissa-hernandez-1?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://melissahernandez2026.com/endorsements/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://caearlyvoting.sos.ca.gov"
+},
+{
+"text": "Find a Vote Center",
+"href": "https://acvote.alamedacountyca.gov"
+},
+{
+"text": "Get Involved",
+"href": "https://melissahernandez2026.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://melissahernandez2026.com/"
+},
+{
+"text": "Issues",
+"href": "https://melissahernandez2026.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://melissahernandez2026.com/media/"
+},
+{
+"text": "Meet Melissa",
+"href": "https://melissahernandez2026.com/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://melissahernandez2026.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://melissahernandez2026.com/privacy-policy/"
+},
+{
+"text": "Register Now",
+"href": "https://registertovote.ca.gov"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov"
+},
+{
+"text": "Tell a Friend to Vote",
+"href": "https://melissaheranandez2026.com/get-involved/"
+},
+{
+"text": "Track Your Ballot",
+"href": "https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot"
+},
+{
+"text": "Vote Early",
+"href": "https://acvote.alamedacountyca.gov"
+},
+{
+"text": "Voting Info",
+"href": "https://melissahernandez2026.com/voting-info/"
+},
+{
+"text": "Where’s My Ballot?",
+"href": "https://www.sos.ca.gov/elections/ballot-status/wheres-my-ballot"
+},
+{
+"text": "[image] [image]",
+"href": "https://melissahernandez2026.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/MelissaHernandezForCongress/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/melissahernandezforcongress"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@MelissaHernandez4Congress2026"
+},
+{
+"text": "acvote.alamedacountyca.gov",
+"href": "https://acvote.alamedacountyca.gov"
+},
+{
+"text": "registertovote.ca.gov",
+"href": "https://registertovote.ca.gov"
+}
 ]

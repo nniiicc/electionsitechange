@@ -1,4 +1,4 @@
-I am unaware of any country in the history of the world that has taxed its way to prosperity.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page On Taxation Oct 16, 2024 I am unaware of any country in the history of the world that has taxed its way to prosperity.
 In the event you find one, please email me.
 Many examples, however, can be put forth to support the notion that higher taxes stifle economic growth.
 Lower taxation stimulates economic growth by increasing disposable income for individuals and businesses.
@@ -16,3 +16,6 @@ With reduced financial burdens, individuals are also more likely to start new bu
 A thriving entrepreneurial ecosystem can significantly contribute to economic dynamism that will provide jobs and careers to many recent high school and college graduates so that they have an economic reason to remain in the state.
 Overall, lower taxation encourages spending, investment, and entrepreneurship, all of which are crucial drivers of economic growth.
 While the balance of taxation is important for funding public goods, lower tax rates can create a more favorable economic environment that supports sustained growth and prosperity.
+SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

@@ -1,7 +1,26 @@
 [
-"https://arshiafortexas.org/",
-"https://arshiafortexas.org/donate",
-"https://arshiafortexas.org/platform",
-"https://instagram.com/arshiafortexas",
-"https://solidarity.tech/"
+{
+"text": "Donate",
+"href": "https://www.arshiafortexas.org/donate"
+},
+{
+"text": "Platform",
+"href": "https://www.arshiafortexas.org/platform"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech/"
+},
+{
+"text": "[image: Arshia for Texas]",
+"href": "https://www.arshiafortexas.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/arshiafortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech/"
+}
 ]

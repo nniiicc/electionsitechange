@@ -1,18 +1,94 @@
 [
-"https://brandonwipf.com/",
-"https://brandonwipf.com/about",
-"https://brandonwipf.com/cart",
-"https://brandonwipf.com/issues",
-"https://brandonwipf.com/new-page",
-"https://brandonwipf.com/press-release/campaignannouncement",
-"https://brandonwipf.com/press-release/committeeassignments",
-"https://brandonwipf.com/privacy-policy",
-"https://brandonwipf.com/takeaction",
-"https://facebook.com/BrandonWipf22",
-"https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://secure.winred.com/wipf-for-the-senate/donate",
-"https://secure.winred.com/wipf-for-the-senate/volunteer",
-"https://secure.winred.com/wipf-for-the-senate/vote",
-"https://secure.winred.com/wipf-for-the-senate/yardsign"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "0",
+"href": "https://www.brandonwipf.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.brandonwipf.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/wipf-for-the-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.brandonwipf.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.brandonwipf.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.brandonwipf.com/privacy-policy"
+},
+{
+"text": "Press",
+"href": "https://www.brandonwipf.com/new-page"
+},
+{
+"text": "READ RELEASE",
+"href": "https://www.brandonwipf.com/"
+},
+{
+"text": "Read Release",
+"href": "https://www.brandonwipf.com/press-release/campaignannouncement"
+},
+{
+"text": "Read Release",
+"href": "https://www.brandonwipf.com/press-release/committeeassignments"
+},
+{
+"text": "Register to vote",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Take Action",
+"href": "https://www.brandonwipf.com/takeaction"
+},
+{
+"text": "VOLUNTEER for brandon",
+"href": "https://secure.winred.com/wipf-for-the-senate/volunteer"
+},
+{
+"text": "VOTE FOR BRANDON",
+"href": "https://secure.winred.com/wipf-for-the-senate/vote"
+},
+{
+"text": "[image: Brandon Wipf for District 22 Senate]",
+"href": "https://www.brandonwipf.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrandonWipf22"
+},
+{
+"text": "get your yard sign",
+"href": "https://secure.winred.com/wipf-for-the-senate/yardsign"
+},
+{
+"text": "request absentee ballot",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+}
 ]

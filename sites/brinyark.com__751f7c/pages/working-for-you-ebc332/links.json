@@ -1,9 +1,38 @@
 [
-"https://brinyark.com/",
-"https://brinyark.com/about",
-"https://brinyark.com/district-map",
-"https://brinyark.com/get-involved",
-"https://brinyark.com/working-for-you",
-"https://facebook.com/BryanBrinyark",
-"https://google.com/maps/search/517+Energy+Center+Blvd.+%0D%0A+Unit+1302+%0D%0A+Northport,+AL+35473?entry=gmail"
+{
+"text": "About",
+"href": "https://brinyark.com/about/"
+},
+{
+"text": "District Map",
+"href": "https://brinyark.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://brinyark.com/get-involved#donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BryanBrinyark/"
+},
+{
+"text": "Get Involved",
+"href": "https://brinyark.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://brinyark.com/"
+},
+{
+"text": "Working For You",
+"href": "https://brinyark.com/working-for-you/"
+},
+{
+"text": "[image: Bryan Brinyark]",
+"href": "https://brinyark.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.google.com/maps/search/517+Energy+Center+Blvd.+%0D%0A+Unit+1302+%0D%0A+Northport,+AL+35473?entry=gmail"
+}
 ]

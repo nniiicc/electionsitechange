@@ -1,5 +1,4 @@
-Privacy Policy
-This Privacy Policy explains how Lopez for Texas House District 33 (“we,” “our,” or “us”) collects, uses, and protects your personal information when you interact with our website (the “Site”) or any other related online platforms, tools, forms, or services (collectively, the “Services”).
+0 Skip to Content About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Get Involved Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Open Menu Close Menu About Issues Folder: Get Involved Back Volunteer Voting Info Upcoming Events Request a Yard Sign Endorsements Media DONATE Privacy Policy This Privacy Policy explains how Lopez for Texas House District 33 (“we,” “our,” or “us”) collects, uses, and protects your personal information when you interact with our website (the “Site”) or any other related online platforms, tools, forms, or services (collectively, the “Services”).
 This Site is maintained by Lopez for Texas House District 33.
 We may update this Privacy Policy from time to time.
 When changes are made, we will post the revised version on this page and update the effective date above.
@@ -21,12 +20,14 @@ Your contact information will not be shared or sold for third-party marketing.
 Our Site and Services are intended for individuals age 18 and older.
 We do not knowingly collect information from children under 18.
 If we learn that a minor has provided personal information, we will promptly delete it.
-If you have found this to be the case, please alert us at campaign@lopezfortxhd33.com.
+If you have found this to be the case, please alert us at campaign@lopezfortxhd33.com .
 Our Site may include links to other websites or services that are not operated by Lopez for Texas House District 33.
 This Privacy Policy applies only to our Site and Services.
 We encourage you to review the privacy policies of any third-party websites you visit, as we are not responsible for their content or practices.
 We use reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
 However, no data transmission or storage system can be guaranteed to be completely secure.
 Depending on applicable laws, you may have the right to request access to or correction of your personal information, opt out of communications, or request deletion of certain data.
-To exercise these rights, please contact us by emailing campaign@lopezfortxhd33.com.
-For questions or concerns regarding the Privacy Policy, you may contact us at campaign@lopezfortxhd33.com.
+To exercise these rights, please contact us by emailing campaign@lopezfortxhd33.com .
+For questions or concerns regarding the Privacy Policy, you may contact us at campaign@lopezfortxhd33.com .
+Lopez for Texas House District 33 About ‍ ‍ Donate ‍ ‍ Privacy Policy E-mail: campaign@lopezfortxhd33.com Office Number: (972) 246-8104 Mailing Address: PO Box 700 Rockwall, TX 75087 Copyright © # Lopez for Texas House District 33 - All Rights Reserved Pol.
+Adv. paid for by Lopez for Texas House District 33

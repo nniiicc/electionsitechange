@@ -1,4 +1,4 @@
-Dan Green spent five combat tours learning the value of reinforcements.
+Home Meet Dan Endorsements News Volunteer Donate Skip to content Air support: Jim Jordan, Mike Haridopolos back Dan Green in CD 9 August 5, 2026 | by Peter Schorsch on Florida Politics Dan Green spent five combat tours learning the value of reinforcements.
 Two just arrived from Capitol Hill.
 U.S.
 Rep.
@@ -8,17 +8,17 @@ Mike Haridopolos, the Space Coast Republican and former Florida Senate President
 “Dan Green honorably served America both here and around the world, and his dedication to our nation is without question,” Jordan said.
 “As a Trump appointee, Dan was a steady hand and trusted voice on some of our nation’s most pressing issues.
 Dan Green is the conservative leader we can count on to stand up to the radicals in Washington.
-Now, more than ever, our country needs leaders like Dan Green in Congress.”
-Haridopolos put it in terms of the President’s agenda.
+Now, more than ever, our country needs leaders like Dan Green in Congress.” Haridopolos put it in terms of the President’s agenda.
 “President Trump and I need proven conservatives willing to fight with us for the American people,” he said.
 “Dan Green has defended our nation, lives our values and has proven he can defeat radicals.
-I am honored to endorse Dan Green for Congress because I know he will put America first and continue his fight to defend the freedoms our fellow Floridians hold dear.”
-Green was working at the Pentagon as a civilian on Sept. 11, 2001.
+I am honored to endorse Dan Green for Congress because I know he will put America first and continue his fight to defend the freedoms our fellow Floridians hold dear.” Green was working at the Pentagon as a civilian on Sept.
+11, 2001.
 He joined the Navy after the attacks and went on to serve five combat tours in Iraq and Afghanistan.
 He still drills as a reserve officer, 23 years in.
 Trump appointed him Deputy Assistant Defense Secretary for Strategy and Force Development in 2019.
 Green graduated from Vero Beach High School, where his mother taught for 25 years.
 In 2018, he co-founded the War Veterans Fund, which works to elect war veterans to Congress.
+He launched his campaign in June and raised $1.14 million in his first two weeks.
 The endorsement list was already long before Wednesday.
 Brevard Sheriff Wayne Ivey and Osceola Sheriff Chris Blackmon anchor a law-and-order coalition that includes Sen.
 Danny Burgess and Reps.
@@ -40,9 +40,14 @@ The new one was drawn to elect a Republican.
 Soto is running again anyway.
 First, though, Republicans have a seven-man nomination fight to settle.
 Green shares the ballot with Ben Butler, Marcus Carter, Thomas Chalifoux, Jorge Martinez, Steve Rance and Justin Story.
-The Primary is Aug. 18.
-The General Election is Nov. 3.
+The Primary is Aug.
+18.
+The General Election is Nov.
+3.
 Green is not Jordan’s only Florida project this cycle.
 The Judiciary Chair endorsed Joe Strada in CD 11 last month.
 As for Haridopolos, he represents Indian River County today; the new map hands it to CD 9’s next Congressman in January.
 Consider Wednesday’s endorsement a change of command ceremony, with Green receiving the colors.
+Home Meet Dan Endorsements News Volunteer Donate Media Paid for by Dan Green for Congress Dan Green is a member of the U.S.
+Navy Reserves.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of War.

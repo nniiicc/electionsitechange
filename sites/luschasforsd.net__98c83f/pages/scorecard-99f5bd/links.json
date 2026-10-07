@@ -1,49 +1,190 @@
 [
-"https://campaignpartner.com/",
-"https://luschasforsd.net/",
-"https://luschasforsd.net/contact",
-"https://luschasforsd.net/home",
-"https://luschasforsd.net/issues",
-"https://luschasforsd.net/meet_manuel",
-"https://luschasforsd.net/news",
-"https://luschasforsd.net/photos",
-"https://luschasforsd.net/scorecard",
-"https://luschasforsd.net/view-endorsements",
-"https://sdlegislature.gov/Session/Bill/25438",
-"https://sdlegislature.gov/Session/Bill/25581",
-"https://sdlegislature.gov/Session/Bill/25596",
-"https://sdlegislature.gov/Session/Bill/25783",
-"https://sdlegislature.gov/Session/Bill/25806",
-"https://sdlegislature.gov/Session/Bill/25816",
-"https://sdlegislature.gov/Session/Bill/25894",
-"https://sdlegislature.gov/Session/Bill/25901",
-"https://sdlegislature.gov/Session/Bill/25984",
-"https://sdlegislature.gov/Session/Bill/26116",
-"https://sdlegislature.gov/Session/Bill/26133",
-"https://sdlegislature.gov/Session/Bill/26225",
-"https://sdlegislature.gov/Session/Bill/26409",
-"https://sdlegislature.gov/Session/Bill/26439",
-"https://sdlegislature.gov/Session/Bill/26500",
-"https://sdlegislature.gov/Session/Bill/26509",
-"https://sdlegislature.gov/Session/Bill/26534",
-"https://sdlegislature.gov/Session/Bill/26538",
-"https://sdlegislature.gov/Session/Bill/26722",
-"https://sdlegislature.gov/Session/Bill/26727",
-"https://sdlegislature.gov/Session/Bill/26807",
-"https://sdlegislature.gov/Session/Bill/26817",
-"https://sdlegislature.gov/Session/Bill/26880",
-"https://sdlegislature.gov/Session/Bill/26923",
-"https://sdlegislature.gov/Session/Bill/26930",
-"https://sdlegislature.gov/Session/Bill/26941",
-"https://sdlegislature.gov/Session/Bill/27003",
-"https://sdlegislature.gov/Session/Bill/27010",
-"https://sdlegislature.gov/Session/Bill/27024",
-"https://sdlegislature.gov/Session/Bill/27027",
-"https://sdlegislature.gov/Session/Bill/27061",
-"https://sdlegislature.gov/Session/Bill/27075",
-"https://sdlegislature.gov/Session/Bill/27099",
-"https://sdlegislature.gov/Session/Bill/27106",
-"https://sdlegislature.gov/Session/Bill/27243",
-"https://sdlegislature.gov/Session/Bill/27269",
-"https://sdlegislature.gov/Session/Bill/27299"
+{
+"text": "Contact",
+"href": "https://luschasforsd.net/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://luschasforsd.net/view-endorsements"
+},
+{
+"text": "HB 1208",
+"href": "https://sdlegislature.gov/Session/Bill/25806"
+},
+{
+"text": "HB1004",
+"href": "https://sdlegislature.gov/Session/Bill/26722"
+},
+{
+"text": "HB1025",
+"href": "https://sdlegislature.gov/Session/Bill/25816"
+},
+{
+"text": "HB1034",
+"href": "https://sdlegislature.gov/Session/Bill/26509"
+},
+{
+"text": "HB1038",
+"href": "https://sdlegislature.gov/Session/Bill/26923"
+},
+{
+"text": "HB1052",
+"href": "https://sdlegislature.gov/Session/Bill/25581"
+},
+{
+"text": "HB1068",
+"href": "https://sdlegislature.gov/Session/Bill/26409"
+},
+{
+"text": "HB1087",
+"href": "https://sdlegislature.gov/Session/Bill/26930"
+},
+{
+"text": "HB1093",
+"href": "https://sdlegislature.gov/Session/Bill/25783"
+},
+{
+"text": "HB1109",
+"href": "https://sdlegislature.gov/Session/Bill/25438"
+},
+{
+"text": "HB1163",
+"href": "https://sdlegislature.gov/Session/Bill/27003"
+},
+{
+"text": "HB1173",
+"href": "https://sdlegislature.gov/Session/Bill/27024"
+},
+{
+"text": "HB1184",
+"href": "https://sdlegislature.gov/Session/Bill/27106"
+},
+{
+"text": "HB1222",
+"href": "https://sdlegislature.gov/Session/Bill/26941"
+},
+{
+"text": "HB1230",
+"href": "https://sdlegislature.gov/Session/Bill/26807"
+},
+{
+"text": "HB1245",
+"href": "https://sdlegislature.gov/Session/Bill/27099"
+},
+{
+"text": "HB1246",
+"href": "https://sdlegislature.gov/Session/Bill/27243"
+},
+{
+"text": "HB1249",
+"href": "https://sdlegislature.gov/Session/Bill/26133"
+},
+{
+"text": "HB1253",
+"href": "https://sdlegislature.gov/Session/Bill/26727"
+},
+{
+"text": "HB1259",
+"href": "https://sdlegislature.gov/Session/Bill/25894"
+},
+{
+"text": "HB1323",
+"href": "https://sdlegislature.gov/Session/Bill/26534"
+},
+{
+"text": "HCR6007",
+"href": "https://sdlegislature.gov/Session/Bill/27061"
+},
+{
+"text": "Home",
+"href": "https://luschasforsd.net/home"
+},
+{
+"text": "Meet Manuel",
+"href": "https://luschasforsd.net/meet_manuel"
+},
+{
+"text": "News",
+"href": "https://luschasforsd.net/news"
+},
+{
+"text": "Photos",
+"href": "https://luschasforsd.net/photos"
+},
+{
+"text": "Platform",
+"href": "https://luschasforsd.net/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "SB1",
+"href": "https://sdlegislature.gov/Session/Bill/26538"
+},
+{
+"text": "SB161",
+"href": "https://sdlegislature.gov/Session/Bill/26116"
+},
+{
+"text": "SB175",
+"href": "https://sdlegislature.gov/Session/Bill/27075"
+},
+{
+"text": "SB177",
+"href": "https://sdlegislature.gov/Session/Bill/25901"
+},
+{
+"text": "SB195",
+"href": "https://sdlegislature.gov/Session/Bill/27010"
+},
+{
+"text": "SB219",
+"href": "https://sdlegislature.gov/Session/Bill/26225"
+},
+{
+"text": "SB223",
+"href": "https://sdlegislature.gov/Session/Bill/26500"
+},
+{
+"text": "SB232",
+"href": "https://sdlegislature.gov/Session/Bill/27269"
+},
+{
+"text": "SB239",
+"href": "https://sdlegislature.gov/Session/Bill/27299"
+},
+{
+"text": "SB3",
+"href": "https://sdlegislature.gov/Session/Bill/25596"
+},
+{
+"text": "SB85",
+"href": "https://sdlegislature.gov/Session/Bill/26439"
+},
+{
+"text": "SB93",
+"href": "https://sdlegislature.gov/Session/Bill/26880"
+},
+{
+"text": "SCR601",
+"href": "https://sdlegislature.gov/Session/Bill/26817"
+},
+{
+"text": "SJR505",
+"href": "https://sdlegislature.gov/Session/Bill/27027"
+},
+{
+"text": "SJR506",
+"href": "https://sdlegislature.gov/Session/Bill/25984"
+},
+{
+"text": "Scorecard",
+"href": "https://luschasforsd.net/scorecard"
+},
+{
+"text": "[image: Manuel Luschas for House District 2]",
+"href": "https://luschasforsd.net/"
+}
 ]

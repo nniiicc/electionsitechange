@@ -1,15 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/SlatteryforNE",
-"https://instagram.com/slatteryfornebraska",
-"https://secure.actblue.com/donate/slatteryfornebraska",
-"https://secure.actblue.com/donate/slatteryfornebraskav",
-"https://slatteryfornebraska.com/",
-"https://slatteryfornebraska.com/about",
-"https://slatteryfornebraska.com/contact",
-"https://slatteryfornebraska.com/endorsements",
-"https://slatteryfornebraska.com/issues",
-"https://slatteryfornebraska.com/news",
-"https://slatteryfornebraska.com/request-a-sign",
-"https://slatteryfornebraska.com/volunteer"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "About",
+"href": "https://www.slatteryfornebraska.com/about"
+},
+{
+"text": "About me",
+"href": "https://www.slatteryfornebraska.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.slatteryfornebraska.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/slatteryfornebraska"
+},
+{
+"text": "Endorsements",
+"href": "https://www.slatteryfornebraska.com/endorsements"
+},
+{
+"text": "Join Us",
+"href": "https://www.slatteryfornebraska.com/volunteer"
+},
+{
+"text": "News",
+"href": "https://www.slatteryfornebraska.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/slatteryfornebraskav"
+},
+{
+"text": "Priorities",
+"href": "https://www.slatteryfornebraska.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request a Sign",
+"href": "https://www.slatteryfornebraska.com/request-a-sign"
+},
+{
+"text": "Volunteers & Team",
+"href": "https://www.slatteryfornebraska.com/volunteer"
+},
+{
+"text": "[image: Sarah Slattery for Nebraska logo]",
+"href": "https://www.slatteryfornebraska.com/"
+},
+{
+"text": "[image: Sarah Slattery for Secretary of State]",
+"href": "https://www.slatteryfornebraska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SlatteryforNE"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/slatteryfornebraska"
+},
+{
+"text": "slatteryforne@gmail.com",
+"href": "mailto:slatteryforne@gmail.com"
+}
 ]

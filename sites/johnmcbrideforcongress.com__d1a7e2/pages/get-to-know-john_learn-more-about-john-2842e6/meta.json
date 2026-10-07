@@ -1,7 +1,13 @@
 {
- "description": "My name is John McBride and I am running for Congress in California\u2019s 9th Congressional District. I will Stand Strong \u2013 for California, for...",
+ "description": "My name is John McBride and I am running for Congress in California’s 9th Congressional District. I will Stand Strong – for California, for...",
  "final_url": "https://www.johnmcbrideforcongress.com/get-to-know-john/learn-more-about-john",
- "paid_for_by": "PAID FOR BY JOHN MCBRIDE FOR CONGRESS FEC#C00846873 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+ "fingerprint": "716dccdc805f52486db3e17a1b925cbb99010b8e",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY JOHN MCBRIDE FOR CONGRESS FEC#C00846873",
  "title": "Learn More about John - John Mcbride",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "1990",
+  "1994"
+ ]
 }

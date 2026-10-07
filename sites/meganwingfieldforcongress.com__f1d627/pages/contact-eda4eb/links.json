@@ -1,19 +1,82 @@
 [
-"http://sisumarketing.com/",
-"https://bsky.app/profile/justwingit1.bsky.social",
-"https://facebook.com/megan.wingfield.for.congress",
-"https://instagram.com/wingfieldforcongress",
-"https://secure.actblue.com/donate/megan-wingfield-1",
-"https://tiktok.com/@wingfieldforcongress",
-"https://wingfieldforcongress.com/",
-"https://wingfieldforcongress.com/about-megan",
-"https://wingfieldforcongress.com/about-megan-wingfield",
-"https://wingfieldforcongress.com/calendar",
-"https://wingfieldforcongress.com/cart",
-"https://wingfieldforcongress.com/contact",
-"https://wingfieldforcongress.com/donate",
-"https://wingfieldforcongress.com/get-involved-1",
-"https://wingfieldforcongress.com/on-the-trail",
-"https://wingfieldforcongress.com/platform-values",
-"https://wingfieldforcongress.com/volunteer"
+{
+"text": "0",
+"href": "https://www.wingfieldforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.wingfieldforcongress.com/"
+},
+{
+"text": "Calendar",
+"href": "https://www.wingfieldforcongress.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.wingfieldforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/megan-wingfield-1"
+},
+{
+"text": "Donate",
+"href": "https://www.wingfieldforcongress.com/donate"
+},
+{
+"text": "Folder: About Megan",
+"href": "https://www.wingfieldforcongress.com/about-megan-wingfield"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.wingfieldforcongress.com/get-involved-1"
+},
+{
+"text": "Megan's Story",
+"href": "https://www.wingfieldforcongress.com/about-megan"
+},
+{
+"text": "Megan@WingfieldforCongress.com",
+"href": "mailto:megan@wingfieldforcongress.com?subject=General+Inquiry"
+},
+{
+"text": "On the Trail",
+"href": "https://www.wingfieldforcongress.com/on-the-trail"
+},
+{
+"text": "Platform Values",
+"href": "https://www.wingfieldforcongress.com/platform-values"
+},
+{
+"text": "Press@WingfieldforCongress.com",
+"href": "mailto:press@wingfieldforcongress.com?subject=Press+Inquiry"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wingfieldforcongress.com/volunteer"
+},
+{
+"text": "[image: Wingfield for Congress]",
+"href": "https://www.wingfieldforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/justwingit1.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/megan.wingfield.for.congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/wingfieldforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@wingfieldforcongress"
+},
+{
+"text": "sisumarketing.com",
+"href": "http://sisumarketing.com"
+}
 ]

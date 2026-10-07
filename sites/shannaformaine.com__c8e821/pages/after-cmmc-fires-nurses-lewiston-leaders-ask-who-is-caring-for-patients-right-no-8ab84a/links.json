@@ -1,20 +1,82 @@
 [
-"https://facebook.com/shannaformaine",
-"https://instagram.com/shannaformaine",
-"https://secure.actblue.com/donate/shannaformaine",
-"https://shannaformaine.com/",
-"https://shannaformaine.com/endorsements",
-"https://shannaformaine.com/endorsements/endorse-shanna",
-"https://shannaformaine.com/get-involved",
-"https://shannaformaine.com/get-involved/contact",
-"https://shannaformaine.com/get-involved/events",
-"https://shannaformaine.com/get-involved/volunteer",
-"https://shannaformaine.com/get-involved/voting-info",
-"https://shannaformaine.com/issues",
-"https://shannaformaine.com/meet-shanna",
-"https://shannaformaine.com/news",
-"https://sunjournal.com/2026/08/28/nurses-at-central-maine-medical-center-in-lewiston-move-to-unionize",
-"https://sunjournal.com/2026/09/15/cmmc-nurses-supporters-picket-in-lewiston-amid-unionizing-effort",
-"https://sunjournal.com/2026/09/16/prime-healthcare-says-its-saving-a-maine-health-system-many-question-its-tactics",
-"https://tidepoolcreative.com/"
+{
+"text": "Contact",
+"href": "https://shannaformaine.com/get-involved/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/shannaformaine"
+},
+{
+"text": "Endorse Shanna",
+"href": "https://shannaformaine.com/endorsements/endorse-shanna/"
+},
+{
+"text": "Endorsements",
+"href": "https://shannaformaine.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://shannaformaine.com/get-involved/events/"
+},
+{
+"text": "Follow",
+"href": "https://facebook.com/shannaformaine"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/shannaformaine"
+},
+{
+"text": "Get Involved",
+"href": "https://shannaformaine.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "Issues",
+"href": "https://shannaformaine.com/issues/"
+},
+{
+"text": "Meet Shanna",
+"href": "https://shannaformaine.com/meet-shanna/"
+},
+{
+"text": "News",
+"href": "https://shannaformaine.com/news/"
+},
+{
+"text": "Prime Healthcare",
+"href": "https://www.sunjournal.com/2026/09/16/prime-healthcare-says-its-saving-a-maine-health-system-many-question-its-tactics/"
+},
+{
+"text": "Prime Healthcare says it’s saving a Maine health system. Many question its tactics.",
+"href": "https://www.sunjournal.com/2026/09/16/prime-healthcare-says-its-saving-a-maine-health-system-many-question-its-tactics/"
+},
+{
+"text": "Tide Pool Creative",
+"href": "https://tidepoolcreative.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://shannaformaine.com/get-involved/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://shannaformaine.com/get-involved/voting-info/"
+},
+{
+"text": "[image]",
+"href": "https://shannaformaine.com/"
+},
+{
+"text": "held a demonstration outside the hospital.",
+"href": "https://www.sunjournal.com/2026/09/15/cmmc-nurses-supporters-picket-in-lewiston-amid-unionizing-effort/"
+},
+{
+"text": "late last month",
+"href": "https://www.sunjournal.com/2026/08/28/nurses-at-central-maine-medical-center-in-lewiston-move-to-unionize/"
+}
 ]

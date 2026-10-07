@@ -1,7 +1,4 @@
-CHLUDZINSKI ASSAILS WALLACE’S HYPOCRISY ON CRIME & PUBLIC SAFETY
-Assembly challenger says incumbents legislative record, policy support,
-inconsistent with the needs and concerns of 143rd Assembly District residents
-(Cheektowaga, NY) – In response to Assemblymember Monica Wallace’s recent press announcement seeking changes to laws governing parolees who violate the terms of their release, Assembly candidate Patrick Chludzinski said the incumbents record on crime and public safety is “out of touch” with the district she represents.
+top of page HOME MEET PAT ENDORSEMENTS VOLUNTEER PAT IN THE NEWS MARYVALE UPDATE DONATE CHLUDZINSKI ASSAILS WALLACE’S HYPOCRISY ON CRIME & PUBLIC SAFETY Assembly challenger says incumbents legislative record, policy support, inconsistent with the needs and concerns of 143rd Assembly District residents (Cheektowaga, NY) – In response to Assemblymember Monica Wallace’s recent press announcement seeking changes to laws governing parolees who violate the terms of their release, Assembly candidate Patrick Chludzinski said the incumbents record on crime and public safety is “out of touch” with the district she represents.
 “Throughout her 8 years in office, Monica Wallace has staunchly advocated for and voted in favor of policies like bail reform, closing prisons, and the forced busing of unvetted migrants upstate that have made our communities less safe while harming our quality of life,” said Chludzinski, a 25-year veteran of the Cheektowaga Police Department.
 “Her election year calls to now reform elements of the parole process can’t hide her dangerous voting record or her support of reckless policies, all to the detriment of our district,” Chludzinski stated.
 Wallace’s public comments were in response to paroled murderer William Kindt who violated the terms of his release by leaving Dutchess County and returning to his hometown in Chautauqua County where he had committed a brutal rape and murder years earlier.
@@ -12,11 +9,7 @@ Chludzinski says he and many of his police colleagues, along with residents of t
 “A violent felon who killed a police officer in her Assembly District was paroled and Monica Wallace was nowhere to be found, but now she wants us to believe that her concerns over events in Dutchess and Chautauqua Counties mean she is tough on crime,” said Chludzinski.
 “Where was she when David Tolsma’s killer was paroled in 2020, where was she in June when I was joining with regional law enforcement officials pledging to reform the parole board, and where was she when the unvetted migrants whose busing to our community she championed were engaging in a violent crime spree?
 The fact that our Assemblymember is criticizing the parolee’s refusal to obey the law instead of the travesty of him being released to begin with further proves how out of touch she is with the people whose interests she promised to represent,” Chludzinski concluded.
-CHLUDZINSKI CALLS FOR DEFEAT
-OF PROPOSITION MAKING IT EASIER TO RAISE TAXES
-Assembly candidate says existing two-thirds vote requirement protects taxpayers,
-pledges to introduce similar requirements for raising state taxes
-(Cheektowaga, NY) – As part of his campaign to restore fiscal responsibility and a bi-partisan approach to governing, New York State Assembly candidate Patrick Chludzinski (R,C) is raising awareness of a ballot proposition this November that will make it easier for Erie County government to raise taxes, and calling for its defeat.
+CHLUDZINSKI CALLS FOR DEFEAT OF PROPOSITION MAKING IT EASIER TO RAISE TAXES Assembly candidate says existing two-thirds vote requirement protects taxpayers, pledges to introduce similar requirements for raising state taxes (Cheektowaga, NY) – As part of his campaign to restore fiscal responsibility and a bi-partisan approach to governing, New York State Assembly candidate Patrick Chludzinski (R,C) is raising awareness of a ballot proposition this November that will make it easier for Erie County government to raise taxes, and calling for its defeat.
 At the same time, the Assembly candidate said he intends to introduce legislation in Albany that would require a two-thirds vote of the state legislature to raise state taxes.
 “Taxes at all levels, inflation, and undisciplined spending continue to make it more difficult for hard working western New Yorkers to make ends meet and enjoy any quality of life,” Chludzinski stated.
 “Instead of working to attack the root causes of our fiscal problems, Erie County Democrats want to railroad through a measure that will allow them to run roughshod over taxpayers with less transparency and accountability than ever before.
@@ -31,12 +24,9 @@ This is the type of debate and compromise that Chludzinski says makes government
 Referring to super majorities in the State Assembly and State Senate, Chludzinski says he believes residents not just in western and upstate New York, but across the state are not currently being well served by one-party rule.
 “It’s not too much to expect that our state lawmakers responsibly debate issues, propose solutions and work to create compromises that serve the greater good,” said Chludzinski.
 “Unfortunately, this approach to governing has been non-existent in Albany for many years now.
-As a candidate for office that is committed to restoring fiscal sanity in this state, I think the cooperation and compromise that results from the two-thirds vote requirement is healthy for taxpayers and I look forward to championing this initiative if elected,” he concluded.
-By Bee Group Newspapers on June 20, 2024
-Patrick Chludzinski, a candidate for the New York State Assembly in the 143rd district, says New York City's partial offer is disingenuous and the lack of support from state lawmakers is unacceptable.
+As a candidate for office that is committed to restoring fiscal sanity in this state, I think the cooperation and compromise that results from the two-thirds vote requirement is healthy for taxpayers and I look forward to championing this initiative if elected,” he concluded. ​ ​ By Bee Group Newspapers on June 20, 2024 ​ Patrick Chludzinski, a candidate for the New York State Assembly in the 143rd district, says New York City's partial offer is disingenuous and the lack of support from state lawmakers is unacceptable.
 As a follow up to a petition drive he launched to gather community support, he has written letters to New York City Mayor Eric Adams, Governor Kathy Hochul and state legislative leaders calling for a full reimbursement of the costs associated with educating the children of asylum seekers that were bused to the district from the city last year.
-In his letters to the elected leaders in city and state government, Chludzinski called New York City's offer to pay only 50% of the first year’s costs “disingenuous”, and “well short of the reasonable expectations of the Maryvale School District and the residents it serves."
-“The Maryvale School District and its taxpayers did not volunteer to take on this significant burden or the costs associated with it,” said Chludzinski.
+In his letters to the elected leaders in city and state government, Chludzinski called New York City's offer to pay only 50% of the first year’s costs “disingenuous”, and “well short of the reasonable expectations of the Maryvale School District and the residents it serves." “The Maryvale School District and its taxpayers did not volunteer to take on this significant burden or the costs associated with it,” said Chludzinski.
 “It was forced upon them by state officials who assured them New York City would provide full reimbursement.
 “Now, after they performed remarkably in difficult circumstances, the financial rug is being pulled out from underneath them and that is wrong,” Chludzinski added.
 Chludzinski launched a petition drive a few weeks ago after Assemblymember Monica Wallace and Erie County Executive Mark Poloncarz responded to the school district's request for assistance in seeking the full reimbursement with false accusations and derogatory statements directed at school district officials.
@@ -44,48 +34,29 @@ The drive attracted positive support from hundreds of households across the scho
 The outreach announced today on behalf of the school district's more than 12,000 residents comes on the heels of Maryvale School District officials announcing that New York City made a proposal to reimburse the district only 50% of the first year's costs, or approximately $230,000 of the nearly $800,000 that will be owed to them.
 Given that New York City received its own special allocation of $2.4 billion in the new state budget to address the migrant crisis, on top of the roughly $1 billion dollars in assistance from last year's budget, Chiudzinski says the offer to meet only one quarter of the city’s financial obligation is patently unfair.
 He believes the state and city leaders responsible for the crisis should now be held accountable.
-Patrick Chludzinski calls on state leaders to fully reimburse
-Maryvale schools
-by CAITLYN STAIR Editor
-A candidate for the New York State Assembly has launched a petition drive to collect signatures from Maryvale School District taxpayers asking New York City leaders to fully reimburse the district for all costs incurred for educating 76 asylum-seeking students who were bused to the district from the city in August 2023.
+Patrick Chludzinski calls on state leaders to fully reimburse Maryvale schools ​ ​ by CAITLYN STAIR Editor A candidate for the New York State Assembly has launched a petition drive to collect signatures from Maryvale School District taxpayers asking New York City leaders to fully reimburse the district for all costs incurred for educating 76 asylum-seeking students who were bused to the district from the city in August 2023.
 That influx of new students caused the school district to spend $800,000 in addition to expenditures in the already planned budget.
 New York City has yet to reimburse the district with any of the promised funds.
 Assemblywoman Monica Wallace announced an 8.9% increase ($1.7 million) in New York State foundation aid for the Maryvale School District in April; however, that aid was met with frustration from the district.
 School Superintendent Joseph D'Angelo told the Bee that any increase in funds that the school district receives from foundation aid should be separate from the funds that New York City promised to reimburse.
 D'Angelo said that foundation aid is needed to help cover the basic operating costs incurred by the school district.
-D 'Angelo claimed that Maryvale "Has not yet seen any of the funds that New York City promised as reimbursement, although it is still fighting to be made whole."
-Assembly candidate Patrick Chludzinski created a petition in early May in order to "fight to get the money the taxpayers are owed."
-Assembly candidate pushes Maryvale reimbursement
-"In good faith, the Maryvale School District ramped up services on short notice and incurred $800,000 in costs to educate the children of undocumented immigrants that were brought here from New York City," Chludzinski said.
+D 'Angelo claimed that Maryvale "Has not yet seen any of the funds that New York City promised as reimbursement, although it is still fighting to be made whole." Assembly candidate Patrick Chludzinski created a petition in early May in order to "fight to get the money the taxpayers are owed." ​ Assembly candidate pushes Maryvale reimbursement "In good faith, the Maryvale School District ramped up services on short notice and incurred $800,000 in costs to educate the children of undocumented immigrants that were brought here from New York City," Chludzinski said.
 "They were promised that New York City would reimburse them for their costs.
-The fact that they are rightfully asking for the money owed to them and are being criticized by their State Assemblymember is reprehensible… I am asking those taxpayers to join me in fighting to get the money they are owed."
-Wallace told the Bee that Chludzinski's petition is simply a "partisan ploy by my opponent to score political gain."
-"As I've previously stated, this current budget allocates $1.7 million in additional foundation aid to the Maryvale School District, which far exceeds any costs borne by the school district as a result of the unforeseen arrival of the asylee students," Wallace said.
+The fact that they are rightfully asking for the money owed to them and are being criticized by their State Assemblymember is reprehensible… I am asking those taxpayers to join me in fighting to get the money they are owed." Wallace told the Bee that Chludzinski's petition is simply a "partisan ploy by my opponent to score political gain." "As I've previously stated, this current budget allocates $1.7 million in additional foundation aid to the Maryvale School District, which far exceeds any costs borne by the school district as a result of the unforeseen arrival of the asylee students," Wallace said.
 "Since I've taken office, state aid to Maryvale has increased by nearly 70% due to my fierce advocacy on behalf of public schools.
-To suggest that I am not fighting for funds for the school district is absolutely preposterous and contradicted by objectively verifiable facts.”
-Wallace also said she has been happy to help make state funding available to the Maryvale
-School District that is related to the cost of educating migrant students, but she believes larger action needs to take place for lasting change to occur, saying that she “would like to see New York City give $800,000."
-Some resident comments as cited on the petition include:
-“It's ridiculous that some of our taxes exceed our mortgage, and we don't need any more tax increases in order to pay for something we didn't ask for, nor agree with.”
-“I teach my children to take responsibility for their actions.
-Officials in New York City need to do the same.”
-“This is literally ridiculous.
+To suggest that I am not fighting for funds for the school district is absolutely preposterous and contradicted by objectively verifiable facts.” Wallace also said she has been happy to help make state funding available to the Maryvale School District that is related to the cost of educating migrant students, but she believes larger action needs to take place for lasting change to occur, saying that she “would like to see New York City give $800,000." Some resident comments as cited on the petition include: “It's ridiculous that some of our taxes exceed our mortgage, and we don't need any more tax increases in order to pay for something we didn't ask for, nor agree with.” “I teach my children to take responsibility for their actions.
+Officials in New York City need to do the same.” “This is literally ridiculous.
 If the district has been promised money, Albany should pay up.
 We shouldn't take that on as taxpayers; no one asked for them to come to our district.
 This district does not have the funds for this.
 The times are tough enough and now to help support this is ridiculous.
-New York City needs to pay up.”
-Chludzinski said that in the first week of the petition's launch, more than 300 signatures were received from area taxpayers.
-To view the petition, visit https//www.chludzinskiforassembly.com.
-PATRICK CHLUDZINSKI ANNOUNCES RUN FOR 143rd STATE ASSEMBLY SEAT
-Candidate Says New Leadership is Needed to Ensure Safety and Affordability in NYS
-(Cheektowaga, NY) – Patrick Chludzinski, a decorated military veteran and law enforcement official in the Town of Cheektowaga, has announced that he is running for the New York State Assembly in the 143rd District.
-The seat, currently held by long-term incumbent Monica Wallace, includes the Towns of Cheektowaga and Lancaster, and the Villages of Depew, Lancaster, and Sloan.
-“I am terribly concerned about the direction our state is heading, saddened by the failures of our elected officials, and frustrated that no one is representing the values and concerns of Western New York residents in Albany,” said Chludzinski.
+New York City needs to pay up.” Chludzinski said that in the first week of the petition's launch, more than 300 signatures were received from area taxpayers.
+To view the petition, visit https// www.chludzinskiforassembly.com .
+PATRICK CHLUDZINSKI ANNOUNCES RUN FOR 143rd STATE ASSEMBLY SEAT Candidate Says New Leadership is Needed to Ensure Safety and Affordability in NYS ​ (Cheektowaga, NY) – Patrick Chludzinski, a decorated military veteran and law enforcement official in the Town of Cheektowaga, has announced that he is running for the New York State Assembly in the 143rd District.
+The seat, currently held by long-term incumbent Monica Wallace, includes the Towns of Cheektowaga and Lancaster, and the Villages of Depew, Lancaster, and Sloan. ​ “I am terribly concerned about the direction our state is heading, saddened by the failures of our elected officials, and frustrated that no one is representing the values and concerns of Western New York residents in Albany,” said Chludzinski.
 “Poor policy decisions like bail reform and the migrant crisis were supported by my opponent, making our community less safe.
 At the same time, she has supported misguided tax and spend policies that have made New York State unaffordable.
-It is time for new leadership,” he added.
-Born and raised in the Village of Sloan, Chludzinski is a life-long resident of the 143RD Assembly District.
+It is time for new leadership,” he added. ​ Born and raised in the Village of Sloan, Chludzinski is a life-long resident of the 143RD Assembly District.
 He attended Erie Community College and Buffalo State College before joining the Cheektowaga Police Department.
 His career there advanced to his current position of Detective Lieutenant of the Youth and Family Offense Unit.
 His exceptional service has been recognized with numerous Letters of Commendation, and six Distinguished Conduct Awards, two of which were presented for his apprehension of armed robbers.
@@ -94,13 +65,8 @@ After the devastating attacks of 9/11, Chludzinski was activated and assisted in
 During Operation Iraqi Freedom, he served as a machine gunner in Baghdad conducting counter insurgency and high value target search missions, as well as serving with a quick response force to suppress enemy activity.
 He is the recipient of two Army Commendation Medals with Combat Valor Device, a National Defense Service Medal, a Global War on Terrorism Expeditionary Medal, and Armed Forces Reserve Medal and a Combat Service Badge.
 “I have spent my entire career immersed in the neighborhoods of the 143rd Assembly District, and whether it’s young families, senior citizens, or at-risk youth, I know the challenges and concerns of these residents,” said Chludzinski.
-“I firmly believe that my opponent has lost touch, and I am ready to be the strong voice they need,” he added.
-Chludzinski has been endorsed by both the Erie County Republican and Conservative Committees, and GOP Chair Michael Kracker is very enthusiastic about his candidacy.
-“For quite some time now, Monica Wallace has been more concerned with appeasing the Assembly’s downstate leadership than representing the best interests of her constituents,” said Kracker.
-“Contrast her with Pat Chludzinski who has been serving his country and his community with great distinction, and who will stand up for them at every turn, and I think it’s a very clear choice for the voters.”
-Chludzinski and his wife Tanya reside in the Town of Cheektowaga, and they are the proud parents of three daughters, Ava (16), Kendra (14), and Reyha (8).
-The candidate said he hopes to take his knowledge of the district, and his commonsense approach to public service to the State Assembly with the idea that changing the direction the state is moving in will ensure more opportunities for families like his to stay in Western New York.
-“People are leaving our state and our community in large numbers because they don’t feel safe, they can’t afford to live here, and the so-called recovery our elected officials are trying to convince them of is not impacting or helping them,” said Chludzinzki.
+“I firmly believe that my opponent has lost touch, and I am ready to be the strong voice they need,” he added. ​ Chludzinski has been endorsed by both the Erie County Republican and Conservative Committees, and GOP Chair Michael Kracker is very enthusiastic about his candidacy. ​ “For quite some time now, Monica Wallace has been more concerned with appeasing the Assembly’s downstate leadership than representing the best interests of her constituents,” said Kracker.
+“Contrast her with Pat Chludzinski who has been serving his country and his community with great distinction, and who will stand up for them at every turn, and I think it’s a very clear choice for the voters.” ​ Chludzinski and his wife Tanya reside in the Town of Cheektowaga, and they are the proud parents of three daughters, Ava (16), Kendra (14), and Reyha (8).
+The candidate said he hopes to take his knowledge of the district, and his commonsense approach to public service to the State Assembly with the idea that changing the direction the state is moving in will ensure more opportunities for families like his to stay in Western New York. ​ “People are leaving our state and our community in large numbers because they don’t feel safe, they can’t afford to live here, and the so-called recovery our elected officials are trying to convince them of is not impacting or helping them,” said Chludzinzki.
 “I want state government to be more responsive to the needs of Western New York and its residents.
-We need to move our state in a different direction so our children can be afforded better opportunities,” he concluded.
-More information on Pat Chludzinski and his campaign can be found at ChludzinskiForAssembly.com.
+We need to move our state in a different direction so our children can be afforded better opportunities,” he concluded. ​ More information on Pat Chludzinski and his campaign can be found at ChludzinskiForAssembly.com. ​ Straight From Pat Paid for by Chludzinski for Assembly Pat Chludzinski | NYS Assembly District 143 Cheektowaga | Lancaster | Buffalo bottom of page

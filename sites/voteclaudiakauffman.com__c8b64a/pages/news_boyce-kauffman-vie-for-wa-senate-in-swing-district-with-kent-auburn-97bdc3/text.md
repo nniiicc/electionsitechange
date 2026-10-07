@@ -1,7 +1,3 @@
-Previous
-Previous
-State Sen.
-Kauffman shares legislative highlights for Auburn, Kent, Covington
-Next
-Next
-Written By Upper Left Strategies
+0 Skip to Content About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Folder: Get Involved Back Volunteer Contact Us Donate Boyce, Kauffman vie for WA senate in swing district with Kent, Auburn Oct 31 Written By Upper Left Strategies Daniel Beekman Seattle Times Upper Left Strategies https://upperleftstrategies.com Previous Previous State Sen.
+Kauffman shares legislative highlights for Auburn, Kent, Covington Next Next Kent’s Kauffman certified to advance in state Senate race Paid for by People for Claudia Kauffman (D) P.O.
+Box 22169 Seattle, WA 98122

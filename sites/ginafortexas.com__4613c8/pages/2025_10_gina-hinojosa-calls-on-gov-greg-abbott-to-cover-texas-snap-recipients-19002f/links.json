@@ -1,31 +1,134 @@
 [
-"http://ginafortexas.com/",
-"https://bsky.app/profile/ginafortexas.bsky.social",
-"https://facebook.com/ginafortexas",
-"https://ginafortexas.com/",
-"https://ginafortexas.com/about",
-"https://ginafortexas.com/category/press-release",
-"https://ginafortexas.com/contact",
-"https://ginafortexas.com/endorsements",
-"https://ginafortexas.com/jobs",
-"https://ginafortexas.com/news",
-"https://ginafortexas.com/priorities",
-"https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone",
-"https://ginafortexas.com/priority/save-texas-public-schools",
-"https://ginafortexas.com/privacy-policy",
-"https://ginafortexas.com/volunteer",
-"https://instagram.com/ginafortexas",
-"https://middleseat.co/",
-"https://mobilize.us/ginahinojosafortexasgovernor",
-"https://secure.actblue.com/donate/web_ms_gh",
-"https://secure.actblue.com/donate/web_ms_gh?amount=10",
-"https://secure.actblue.com/donate/web_ms_gh?amount=100",
-"https://secure.actblue.com/donate/web_ms_gh?amount=25",
-"https://secure.actblue.com/donate/web_ms_gh?amount=250",
-"https://secure.actblue.com/donate/web_ms_gh?amount=500",
-"https://store.ginafortexas.com/",
-"https://texastribune.org/2025/06/23/texas-summer-lunch-ebt-greg-abbott-veto",
-"https://tiktok.com/@ginafortexas",
-"https://x.com/GinaHinojosaTX",
-"https://youtube.com/@GinaHinojosaTX"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=500"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/ginafortexas.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://ginafortexas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Endorsements",
+"href": "https://ginafortexas.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://ginafortexas.com/es/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ginahinojosafortexasgovernor/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ginafortexas/"
+},
+{
+"text": "Gina Hinojosa for Texas Governor [image: Gina Hinojosa for Texas Governor]",
+"href": "https://ginafortexas.com"
+},
+{
+"text": "Home",
+"href": "https://ginafortexas.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginafortexas"
+},
+{
+"text": "Jobs",
+"href": "https://ginafortexas.com/jobs/"
+},
+{
+"text": "Meet Gina",
+"href": "https://ginafortexas.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Money in Your Pocket",
+"href": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"
+},
+{
+"text": "News",
+"href": "https://ginafortexas.com/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Press Release",
+"href": "https://ginafortexas.com/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://ginafortexas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy and Terms",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "Save Texas Public Schools",
+"href": "https://ginafortexas.com/priority/save-texas-public-schools/"
+},
+{
+"text": "Store",
+"href": "https://store.ginafortexas.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ginafortexas"
+},
+{
+"text": "Volunteer",
+"href": "https://ginafortexas.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/GinaHinojosaTX"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@GinaHinojosaTX"
+},
+{
+"text": "vetoed",
+"href": "https://www.texastribune.org/2025/06/23/texas-summer-lunch-ebt-greg-abbott-veto/"
+},
+{
+"text": "www.ginafortexas.com",
+"href": "http://www.ginafortexas.com"
+}
 ]

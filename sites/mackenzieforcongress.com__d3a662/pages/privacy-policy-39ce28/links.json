@@ -1,18 +1,74 @@
 [
-"http://docs.info.apple.com/article.html?path=safari%2F3.0%2Fen%2F9277.html",
-"http://networkadvertising.org/",
-"http://networkadvertising.org/choices",
-"http://support.microsoft.com/kb/283185",
-"http://support.mozilla.com/en-us/kb/cookies",
-"https://facebook.com/MackenzieForCongress",
-"https://google.com/support/chrome/bin/answer.py?hl=en&answer=95647",
-"https://mackenzieforcongress.com/",
-"https://mackenzieforcongress.com/about",
-"https://mackenzieforcongress.com/copy-of-record",
-"https://mackenzieforcongress.com/issues",
-"https://mackenzieforcongress.com/media",
-"https://mackenzieforcongress.com/privacy-policy",
-"https://secure.winred.com/mackenzie-for-congress/give-today",
-"https://twitter.com/Ryan_Mackenzie",
-"https://youtube.com/@MackenzieForCongress"
+{
+"text": "About",
+"href": "https://www.mackenzieforcongress.com/about"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/mackenzie-for-congress/give-today"
+},
+{
+"text": "Media",
+"href": "https://www.mackenzieforcongress.com/media"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "http://www.networkadvertising.org/"
+},
+{
+"text": "Priorities",
+"href": "https://www.mackenzieforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mackenzieforcongress.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://www.mackenzieforcongress.com/copy-of-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mackenzieforcongress.com/#Volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.mackenzieforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MackenzieForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Ryan_Mackenzie"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@MackenzieForCongress"
+},
+{
+"text": "http://docs.info.apple.com/article.html?path=safari/3.0/en/9277.html",
+"href": "http://docs.info.apple.com/article.html?path=safari%2F3.0%2Fen%2F9277.html"
+},
+{
+"text": "http://support.microsoft.com/kb/283185",
+"href": "http://support.microsoft.com/kb/283185"
+},
+{
+"text": "http://support.mozilla.com/en-us/kb/cookies",
+"href": "http://support.mozilla.com/en-us/kb/cookies"
+},
+{
+"text": "http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647",
+"href": "https://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647"
+},
+{
+"text": "info@mackenzieforcongress.com",
+"href": "mailto:info@mackenzieforcongress.com"
+},
+{
+"text": "info@mackenzieforcongress.com",
+"href": "mailto:info@mackenzieforpa.com"
+}
 ]

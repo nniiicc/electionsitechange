@@ -1,9 +1,30 @@
 [
-"https://robswearingen.com/",
-"https://robswearingen.com/about-rob.html",
-"https://robswearingen.com/contact.html",
-"https://robswearingen.com/district.html",
-"https://robswearingen.com/home/welcome",
-"https://robswearingen.com/issues.html",
-"https://secure.anedot.com/rob-swearingen-for-assembly/swearingen_for_assembly"
+{
+"text": "About Rob",
+"href": "https://www.robswearingen.com/about-rob.html"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/rob-swearingen-for-assembly/swearingen_for_assembly"
+},
+{
+"text": "Contact",
+"href": "https://www.robswearingen.com/contact.html"
+},
+{
+"text": "District",
+"href": "https://www.robswearingen.com/district.html"
+},
+{
+"text": "Home",
+"href": "https://www.robswearingen.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.robswearingen.com/issues.html"
+},
+{
+"text": "Welcome",
+"href": "https://www.robswearingen.com/home/welcome"
+}
 ]

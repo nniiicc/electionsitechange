@@ -1,10 +1,34 @@
 [
-"https://ashokbaddi.com/",
-"https://ashokbaddi.com/cart",
-"https://ashokbaddi.com/communityfeedback",
-"https://ashokbaddi.com/events",
-"https://ashokbaddi.com/get-involved",
-"https://ashokbaddi.com/issues",
-"https://ashokbaddi.com/meet-ashok",
-"https://secure.anedot.com/friends-of-ashok-baddi/donate"
+{
+"text": "0",
+"href": "https://www.ashokbaddi.com/cart"
+},
+{
+"text": "Community Feedback",
+"href": "https://www.ashokbaddi.com/communityfeedback"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-ashok-baddi/donate"
+},
+{
+"text": "Events",
+"href": "https://www.ashokbaddi.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ashokbaddi.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.ashokbaddi.com/issues"
+},
+{
+"text": "Meet Ashok",
+"href": "https://www.ashokbaddi.com/meet-ashok"
+},
+{
+"text": "[image: Ashok Baddi for State Representative]",
+"href": "https://www.ashokbaddi.com/"
+}
 ]

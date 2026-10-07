@@ -1,9 +1,50 @@
 [
-"http://instagram.com/SenatorMDRahman",
-"https://facebook.com/MDRahmanforSenate",
-"https://mdforsenate.com/",
-"https://mdforsenate.com/platform",
-"https://mdforsenate.com/privacy-policy",
-"https://mdforsenate.com/volunteer",
-"https://twitter.com/MDRahmanCT"
+{
+"text": "Contact",
+"href": "https://www.mdforsenate.com/volunteer"
+},
+{
+"text": "HOME",
+"href": "https://www.mdforsenate.com"
+},
+{
+"text": "MD@MDforSenate.com",
+"href": "mailto:MD@MDforSenate.com"
+},
+{
+"text": "Meet MD",
+"href": "https://www.mdforsenate.com"
+},
+{
+"text": "Platform",
+"href": "https://www.mdforsenate.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mdforsenate.com/privacy-policy"
+},
+{
+"text": "View our privacy policy here.",
+"href": "https://www.mdforsenate.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mdforsenate.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MDRahmanforSenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/SenatorMDRahman"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/MDRahmanCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.mdforsenate.com"
+}
 ]

@@ -1,8 +1,38 @@
 [
-"https://facebook.com/kycomerforcongress",
-"https://jamescomer.com/",
-"https://jamescomer.com/about",
-"https://jamescomer.com/privacy-policy",
-"https://jamescomer.com/volunteer",
-"https://secure.anedot.com/comer-for-congress/re-elect-james-comer"
+{
+"text": "About",
+"href": "https://jamescomer.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/comer-for-congress/re-elect-james-comer"
+},
+{
+"text": "Home",
+"href": "https://jamescomer.com/"
+},
+{
+"text": "Learn More",
+"href": "https://jamescomer.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jamescomer.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://jamescomer.com/volunteer/"
+},
+{
+"text": "[image: James Comer for Congress]",
+"href": "https://jamescomer.com/"
+},
+{
+"text": "[image]",
+"href": "https://jamescomer.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kycomerforcongress/"
+}
 ]

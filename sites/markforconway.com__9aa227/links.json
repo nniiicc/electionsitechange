@@ -1,5 +1,22 @@
 [
-"https://markforconway.com/",
-"https://markforconway.com/news",
-"https://secure.winred.com/mark-for-conway/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mark-for-conway/donate"
+},
+{
+"text": "Meet Mark",
+"href": "https://markforconway.com/#meet-mark"
+},
+{
+"text": "News",
+"href": "https://markforconway.com/news/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://markforconway.com/"
+},
+{
+"text": "[no text]",
+"href": "https://markforconway.com"
+}
 ]

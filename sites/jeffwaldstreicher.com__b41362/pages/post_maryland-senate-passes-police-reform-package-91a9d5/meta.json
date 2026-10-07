@@ -1,7 +1,9 @@
 {
  "description": "WYPR, a public radio affiliate, covered the Senate's passage of Maryland's historic poliece reform package, and included remarks from Senator Waldstreicher, vice-chair of the Judicial Proceedings Committee. Read the full story here.",
  "final_url": "https://www.jeffwaldstreicher.com/post/maryland-senate-passes-police-reform-package",
- "paid_for_by": null,
+ "fingerprint": "7b5565ef0c9f013820be5e960a75832c9f60abba",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Maryland Senate Passes Police Reform Package",
  "years_mentioned": [
   "2021"

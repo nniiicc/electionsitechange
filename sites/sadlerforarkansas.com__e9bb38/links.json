@@ -1,10 +1,78 @@
 [
-"http://instagram.com/",
-"https://facebook.com/",
-"https://facebook.com/people/Hunter-Sadler-for-Arkansas/61579715031017",
-"https://linkedin.com/in/hunter-sadler-93953b123",
-"https://sadlerforarkansas.com/",
-"https://secure.winred.com/sadler-for-arkansas/donate-today",
-"https://twitter.com/",
-"https://youtube.com/"
+{
+"text": "$100",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "About",
+"href": "https://www.sadlerforarkansas.com/#About"
+},
+{
+"text": "DONATE TODAY! →",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.sadlerforarkansas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.sadlerforarkansas.com/#Issues"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/sadler-for-arkansas/donate-today"
+},
+{
+"text": "Policy",
+"href": "https://www.sadlerforarkansas.com/#Policy"
+},
+{
+"text": "[image]",
+"href": "https://www.sadlerforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Hunter-Sadler-for-Arkansas/61579715031017/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/hunter-sadler-93953b123/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+}
 ]

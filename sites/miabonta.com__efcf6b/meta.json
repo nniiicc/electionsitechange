@@ -1,7 +1,11 @@
 {
  "description": "Join Mia's campaign to build a better East Bay!",
  "final_url": "https://www.miabonta.com/",
- "paid_for_by": "Paid for by Mia Bonta for Assembly 2026, FPPC #1477774 c/o Deane &amp; Co",
+ "fingerprint": "88862f6340e4b4289114e25c88016afc8448fb72",
+ "format": 3,
+ "paid_for_by": "Paid for by Mia Bonta for Assembly 2026, FPPC #1477774 c/o Deane & Co",
  "title": "Mia Bonta for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

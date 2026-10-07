@@ -1,7 +1,19 @@
 {
  "description": "Full texts including the Declaration of Independence, the Constitution of the Unied States, Bill of Right",
  "final_url": "https://hd22info.com/important-documents",
- "paid_for_by": "Paid for by Ann E",
+ "fingerprint": "29bb7a808fcd51caac2af9c544ee8e7b31f2a2f9",
+ "format": 3,
+ "paid_for_by": "authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned",
  "title": "Important United States Documents",
- "years_mentioned": []
+ "years_mentioned": [
+  "1951",
+  "1960",
+  "1961",
+  "1962",
+  "1964",
+  "1965",
+  "1967",
+  "1971",
+  "1992"
+ ]
 }

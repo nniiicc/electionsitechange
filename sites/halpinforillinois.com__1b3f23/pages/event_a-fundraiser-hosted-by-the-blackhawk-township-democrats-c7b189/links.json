@@ -1,21 +1,90 @@
 [
-"http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490",
-"https://facebook.com/halpinforillinois?pnref=story",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20160121T163000%2F20160121T183000&text=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&details=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com",
-"https://halpinforillinois.com/",
-"https://halpinforillinois.com/about-mike",
-"https://halpinforillinois.com/category/news",
-"https://halpinforillinois.com/cdn-cgi/l/email-protection",
-"https://halpinforillinois.com/donate",
-"https://halpinforillinois.com/early-voting",
-"https://halpinforillinois.com/event/door-to-door-petition-circulation-5",
-"https://halpinforillinois.com/event/walk-for-halpin",
-"https://halpinforillinois.com/events",
-"https://halpinforillinois.com/get-involved",
-"https://halpinforillinois.com/issues",
-"https://halpinforillinois.com/privacy-policy",
-"https://halpinforillinois.com/survey-focus-form",
-"https://maps.google.com/maps?f=q&hl=en&q=515+1st+Ave+W+Milan+61264+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2016-01-21T16%3A30%3A00%2B00%3A00&enddt=2016-01-21T18%3A30%3A00%2B00%3A00&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&subject=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&body=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2016-01-21T16%3A30%3A00%2B00%3A00&enddt=2016-01-21T18%3A30%3A00%2B00%3A00&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&subject=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&body=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=515+1st+Ave+W+Milan+61264+United+States"
+},
+{
+"text": "About Mike",
+"href": "https://www.halpinforillinois.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://halpinforillinois.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.halpinforillinois.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://halpinforillinois.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.halpinforillinois.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20160121T163000%2F20160121T183000&text=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&details=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&trp=false&ctz=UTC+0&sprop=website%3Ahttps%3A%2F%2Fwww.halpinforillinois.com"
+},
+{
+"text": "ILGA.Gov",
+"href": "http://ilga.gov/house/Rep.asp?GA=100&MemberID=2490"
+},
+{
+"text": "Issues",
+"href": "https://www.halpinforillinois.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.halpinforillinois.com/category/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A30%3A00%2B00%3A00&enddt=%23T18%3A30%3A00%2B00%3A00&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&subject=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&body=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T16%3A30%3A00%2B00%3A00&enddt=%23T18%3A30%3A00%2B00%3A00&location=Milan+American+Legion%2C+515+1st+Ave+W%2C+Milan%2C+61264%2C+United+States&subject=A+fundraiser+hosted+by+the+Blackhawk+Township+Democrats&body=sloppy+joes%2C+pasta+salad%2C+chips%2C+dessert%2C+cash+bar%2C+raffle+baskets%2C+50%2F50+drawing%21"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.halpinforillinois.com/privacy-policy/"
+},
+{
+"text": "Take Our Survey",
+"href": "https://www.halpinforillinois.com/survey-focus-form/"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.halpinforillinois.com/early-voting/"
+},
+{
+"text": "Walk for Halpin »",
+"href": "https://www.halpinforillinois.com/event/walk-for-halpin/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:FriendsofMikeHalpin@gmail.com"
+},
+{
+"text": "[image]309.553.1429",
+"href": "tel:3095531429"
+},
+{
+"text": "facebook.com/halpinforillinois",
+"href": "https://www.facebook.com/halpinforillinois?pnref=story"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.halpinforillinois.com/event/a-fundraiser-hosted-by-the-blackhawk-township-democrats/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://www.halpinforillinois.com/events/"
+},
+{
+"text": "« Door-to-door Petition Circulation",
+"href": "https://www.halpinforillinois.com/event/door-to-door-petition-circulation-5/"
+}
 ]

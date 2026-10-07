@@ -1,6 +1,8 @@
-top of page
-MEET LEON
-Leon was born in Charleston, attended Orange Grove Elementary School and graduated from Middleton High School.
+top of page Home Meet Leon Issues News Action Survey More Use tab to navigate through the menu items.
+CONTRIBUTE Husband.
+Dad.
+Public Servant.
+MEET LEON Leon was born in Charleston, attended Orange Grove Elementary School and graduated from Middleton High School.
 He earned his bachelor’s degree from the College of Charleston and graduated from the University of South Carolina School of Law.
 He has served in the General Assembly since 2007.
 Prior to that, he served as Chairman of Charleston County Council and as a local prosecutor.
@@ -13,4 +15,4 @@ He has been voted Legislator of the Year by the Charleston Metro Chamber of Comm
 Elected Chairman of the Charleston County Council by a bi-partisan group of his colleagues, Leon oversaw the budget that elevated Charleston County’s credit rating to AAA.
 He helped pass the state's first county-wide smart growth management plan, the urban growth boundary, and the state's first county green space preservation plan.
 Leon’s experience includes helping to secure the funding for I-526 and the Ravenel Bridge.
-bottom of page
+Paid for by Leon for House One Cool Blow Street, Suite 201, Charleston, SC 29403 Site by bottom of page

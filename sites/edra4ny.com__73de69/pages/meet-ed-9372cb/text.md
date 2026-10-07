@@ -1,5 +1,5 @@
-MEET ED RA
-Ed Ra was elected to the New York State Assembly on November 2, 2010.
+top of page DONATE SUBSCRIBE MEET ED ON THE ISSUES LATEST UPDATES GET INVOLVED VOLUNTEER LAWN SIGN REQUEST GET IN TOUCH EVENTS Use tab to navigate through the menu items.
+MEET ED RA Ed Ra was elected to the New York State Assembly on November 2, 2010.
 He represents parts of the towns of Hempstead and North Hempstead in Nassau County.
 In February of 2026, he was elected unanimously by his colleagues as the Leader of the Assembly Republican Conference – the first Long Island representative to hold the position in more than 50 years.
 As the Republican Leader, he is committed to reducing the cost of living for New Yorkers.
@@ -12,3 +12,5 @@ Leader Ra graduated from Loyola College in Maryland, received his J.D. from St.
 John's University School of Law, and his LL.M. in Intellectual Property Law from Benjamin N.
 Cardozo School of Law.
 He resides in Garden City South, where he lives with his wife, Laura, and their shelter dog, Carter.
+ENDORSEMENTS GET THE LATEST UPDATES Home Meet Ed Latest Updates Events Get Involved Get In Touch © # by Ed Ra.
+Powered and secured by Wix Friends of Ed Ra ​ PO Box 8088 Garden City, NY 11530 ​ ​ ​ ​ ​ voteedra@gmail.com bottom of page

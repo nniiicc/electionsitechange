@@ -1,29 +1,134 @@
 [
-"https://cotton.senate.gov/",
-"https://facebook.com/TomCottonAR",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftomcotton.com%2Fnews%2Fstatement-on-independent-poll-showing-cottons-16-point-lead%2F",
-"https://freebeacon.com/democrats/arkansas-senate-candidate-slams-tom-cotton-for-high-gas-prices-but-supported-carbon-tax-that-would-drive-energy-prices-higher",
-"https://freebeacon.com/democrats/shes-running-for-senate-in-arkansas-as-a-lifelong-farmer-after-hiring-a-marketing-firm-to-build-a-new-brand-as-farmherhallie",
-"https://instagram.com/tomcottonar",
-"https://jlpartners.com/",
-"https://jlpartners.com/arkansas-senate-likely-voter-polling",
-"https://katv.com/news/local/defund-ice-as-it-is-now-hallie-shoffner-says-yes-tom-cotton-says-no",
-"https://tomcotton.com/",
-"https://tomcotton.com/about-tom",
-"https://tomcotton.com/contact",
-"https://tomcotton.com/issues",
-"https://tomcotton.com/news",
-"https://tomcotton.com/news/cotton-campaign-announces-827000-raised-more-than-10-million-cash-on-hand",
-"https://tomcotton.com/news/tom-cotton-backs-citizens-only-voting-amendment",
-"https://tomcotton.com/privacy-policy",
-"https://tomcotton.com/volunteer",
-"https://twitter.com/intent/tweet?text=Statement+on+Independent+Poll+Showing+Cotton%E2%80%99s+16%25+Lead+and+Democrats%E2%80%99+Continued+Unpopularity+in+Arkansas&url=https%3A%2F%2Ftomcotton.com%2Fnews%2Fstatement-on-independent-poll-showing-cottons-16-point-lead%2F",
-"https://washingtonexaminer.com/news/washington-secrets/4691684/tom-cotton-16-point-lead-polls-arkansas-senate-race",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50",
-"https://x.com/TomCottonAR",
-"https://x.com/j_l_partners/status/2089837116956041476?s=46",
-"https://youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+{
+"text": "$15",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15"
+},
+{
+"text": "$4.49",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49"
+},
+{
+"text": "$50",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50"
+},
+{
+"text": "About Tom",
+"href": "https://tomcotton.com/about-tom/"
+},
+{
+"text": "Contact",
+"href": "https://tomcotton.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Home",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "Issues",
+"href": "https://tomcotton.com/issues/"
+},
+{
+"text": "J.L. Partners",
+"href": "https://jlpartners.com/"
+},
+{
+"text": "News",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "Older → Cotton Campaign Announces $# Raised and More Than $# Million Cash on Hand — a Record for Arkansas",
+"href": "https://tomcotton.com/news/cotton-campaign-announces-827000-raised-more-than-10-million-cash-on-hand/"
+},
+{
+"text": "Other",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Privacy",
+"href": "https://tomcotton.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://tomcotton.com/volunteer/"
+},
+{
+"text": "[image: J.L. Partners poll, August 14–18, 2026: “In the November Senate election, how will you vote?” Tom Cotton 51%, Hallie Shoffner 35%, Not sure 11%, Jeff Wadlin 4%.]",
+"href": "https://www.washingtonexaminer.com/news/washington-secrets/4691684/tom-cotton-16-point-lead-polls-arkansas-senate-race/"
+},
+{
+"text": "[image: Tom Cotton]",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Statement+on+Independent+Poll+Showing+Cotton%E2%80%99s+16%25+Lead+and+Democrats%E2%80%99+Continued+Unpopularity+in+Arkansas&url=https%3A%2F%2Ftomcotton.com%2Fnews%2Fstatement-on-independent-poll-showing-cottons-16-point-lead%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomCottonAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftomcotton.com%2Fnews%2Fstatement-on-independent-poll-showing-cottons-16-point-lead%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tomcottonar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomCottonAR"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Statement+on+Independent+Poll+Showing+Cotton%E2%80%99s+16%25+Lead+and+Democrats%E2%80%99+Continued+Unpopularity+in+Arkansas&body=https%3A%2F%2Ftomcotton.com%2Fnews%2Fstatement-on-independent-poll-showing-cottons-16-point-lead%2F"
+},
+{
+"text": "cited",
+"href": "https://jlpartners.com/arkansas-senate-likely-voter-polling"
+},
+{
+"text": "click here",
+"href": "https://www.cotton.senate.gov/"
+},
+{
+"text": "defund",
+"href": "https://katv.com/news/local/defund-ice-as-it-is-now-hallie-shoffner-says-yes-tom-cotton-says-no"
+},
+{
+"text": "give",
+"href": "https://freebeacon.com/democrats/shes-running-for-senate-in-arkansas-as-a-lifelong-farmer-after-hiring-a-marketing-firm-to-build-a-new-brand-as-farmherhallie/"
+},
+{
+"text": "here",
+"href": "https://www.washingtonexaminer.com/news/washington-secrets/4691684/tom-cotton-16-point-lead-polls-arkansas-senate-race/"
+},
+{
+"text": "here",
+"href": "https://x.com/j_l_partners/status/2089837116956041476?s=46"
+},
+{
+"text": "raise",
+"href": "https://freebeacon.com/democrats/arkansas-senate-candidate-slams-tom-cotton-for-high-gas-prices-but-supported-carbon-tax-that-would-drive-energy-prices-higher/"
+},
+{
+"text": "← All News",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "← Newer Tom Cotton Backs Citizens Only Voting Amendment; Draws Sharp Contrast With Democrat Hallie Shoffner On Illegal Immigration",
+"href": "https://tomcotton.com/news/tom-cotton-backs-citizens-only-voting-amendment/"
+},
+{
+"text": "★Endorsed by Gov. Sarah Sanders and every Arkansas statewide official→",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+}
 ]

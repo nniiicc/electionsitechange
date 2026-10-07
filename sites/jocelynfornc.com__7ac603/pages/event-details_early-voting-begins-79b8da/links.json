@@ -1,18 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61588130812049",
-"https://instagram.com/jocelynfornchouse",
-"https://jocelynfornc.com/",
-"https://jocelynfornc.com/about",
-"https://jocelynfornc.com/accessibility-statement",
-"https://jocelynfornc.com/contact",
-"https://jocelynfornc.com/event-details/early-voting-begins",
-"https://jocelynfornc.com/event-list",
-"https://jocelynfornc.com/get-involved",
-"https://jocelynfornc.com/nc-67-map",
-"https://jocelynfornc.com/privacy-policy",
-"https://jocelynfornc.com/terms-and-conditions",
-"https://jocelynfornc.com/why-voting-matters",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jocelynfornc.com%2Fevent-details%2Fearly-voting-begins%3Flang%3Den",
-"https://secure.actblue.com/donate/jocelyn-torres-1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jocelynfornc.com%2Fevent-details%2Fearly-voting-begins%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.jocelynfornc.com/about"
+},
+{
+"text": "About Jocelyn",
+"href": "https://www.jocelynfornc.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jocelynfornc.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.jocelynfornc.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jocelyn-torres-1"
+},
+{
+"text": "Events",
+"href": "https://www.jocelynfornc.com/event-list"
+},
+{
+"text": "FOR NC House District 67",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jocelynfornc.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jocelynfornc.com/event-details/early-voting-begins"
+},
+{
+"text": "Jocelyn Torres",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "NC-67 Map",
+"href": "https://www.jocelynfornc.com/nc-67-map"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jocelynfornc.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.jocelynfornc.com"
+},
+{
+"text": "See other events",
+"href": "https://www.jocelynfornc.com/event-list"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jocelynfornc.com/terms-and-conditions"
+},
+{
+"text": "Why Voting Matters",
+"href": "https://www.jocelynfornc.com/why-voting-matters"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588130812049"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jocelynfornchouse/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.jocelynfornc.com%2Fevent-details%2Fearly-voting-begins%3Flang%3Den&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.jocelynfornc.com%2Fevent-details%2Fearly-voting-begins%3Flang%3Den"
+},
+{
+"text": "jocelynfornc@gmail.com",
+"href": "mailto:jocelynfornc@gmail.com"
+}
 ]

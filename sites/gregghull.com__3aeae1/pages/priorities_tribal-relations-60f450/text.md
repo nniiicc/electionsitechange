@@ -1,6 +1,8 @@
-A VISION FOR A BETTER NEW MEXICO
-Tribal Relations
-New Mexico’s relationship with Tribal nations is central to effective governance.
+Skip to main content Election Day is November 3, 2026 — early voting begins October 6th.
+Find your polling place Register to vote Close Meet the Team Governor Gregg Hull Lt.
+Governor David Gallegos Priorities News Endorsements Shop Volunteer Request Sign Donate Want a Hull / Gallegos yard sign?
+Click here to request your a free sign delivered right to your door.
+A VISION FOR A BETTER NEW MEXICO Tribal Relations New Mexico’s relationship with Tribal nations is central to effective governance.
 Tribes are sovereign governments, and that status must be respected in practice, not just in words.
 I believe strong government-to-government relationships lead to better outcomes for everyone, especially when it comes to shared resources, public safety, and economic opportunity.
 Too often, consultation happens late in the process or only after problems arise.
@@ -23,3 +25,17 @@ I support stronger coordination on emergency planning, response, and recovery, a
 Building strong Tribal relations is not a side issue.
 It is a core responsibility of state leadership.
 By honoring sovereignty, strengthening consultation, and working in true partnership, New Mexico can make better decisions, manage shared resources wisely, and build a more stable future for all communities across the state.
+Let's get to work.
+Join thousands of New Mexicans getting campaign updates by email and text.
+First Name (Required) Last Name (Required) Email (Required) Phone Country Phone Number Yes, please text me updates from the campaign By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donation.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.
+Link to Privacy Policy Join The Team Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Paid for By Hull For New Mexico Meet Gregg Priorities News Volunteer Endorsements Shop Follow Us Contact Privacy Policy Meet Gregg Issues News Volunteer Endorsements Shop Follow Us Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Privacy Policy Contact Paid for By Hull For New Mexico Let's win this together.
+Your support puts signs in yards, ads on air, and organizers in communities across New Mexico. $10 or $500, every contribution moves us closer to victory. $25 $50 $100 $250 $500 OTHER Follow Us Campaign Office: 2201 San Pedro NE Bldg 1 Albuquerque, NM 87110 Mail Contributions to: 2003 Southern Blvd.
+SE Box 102-59 Rio Rancho, NM 87124 Privacy Policy Contact Paid for By Hull For New Mexico

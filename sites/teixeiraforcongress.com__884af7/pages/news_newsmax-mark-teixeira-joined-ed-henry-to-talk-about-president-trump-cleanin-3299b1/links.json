@@ -1,15 +1,62 @@
 [
-"https://facebook.com/votetexforcongress",
-"https://instagram.com/texforcongress",
-"https://secure.winred.com/mark-teixeira-for-congress/donate",
-"https://secure.winred.com/mark-teixeira-for-congress/storefront",
-"https://teixeiraforcongress.com/",
-"https://teixeiraforcongress.com/contact",
-"https://teixeiraforcongress.com/endorsements",
-"https://teixeiraforcongress.com/issues",
-"https://teixeiraforcongress.com/news",
-"https://teixeiraforcongress.com/policies/privacy",
-"https://teixeiraforcongress.com/policies/terms",
-"https://teixeiraforcongress.com/volunteer",
-"https://x.com/teixeiramark25"
+{
+"text": "Contact",
+"href": "https://teixeiraforcongress.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/mark-teixeira-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://teixeiraforcongress.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votetexforcongress"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/texforcongress/"
+},
+{
+"text": "Issues",
+"href": "https://teixeiraforcongress.com/issues"
+},
+{
+"text": "Meet Mark",
+"href": "https://teixeiraforcongress.com/#section-2"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://teixeiraforcongress.com/news"
+},
+{
+"text": "Official Merch",
+"href": "https://secure.winred.com/mark-teixeira-for-congress/storefront/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://teixeiraforcongress.com/policies/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://teixeiraforcongress.com/policies/terms"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/teixeiramark25"
+},
+{
+"text": "Volunteer",
+"href": "https://teixeiraforcongress.com/volunteer"
+},
+{
+"text": "[image: Mark \"Tex\" Teixeira for Congress Logo]",
+"href": "https://teixeiraforcongress.com/"
+}
 ]

@@ -1,12 +1,50 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/profile.php?id=61585502116974",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/trish-for-montana/donate-today",
-"https://trishformontana.com/",
-"https://trishformontana.com/privacy-policy"
+{
+"text": "About Trish",
+"href": "https://trishformontana.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://trishformontana.com/#contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/trish-for-montana/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61585502116974"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://trishformontana.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Trish on the Issues",
+"href": "https://trishformontana.com/#issues"
+},
+{
+"text": "Vote Trish Schreiber",
+"href": "https://trishformontana.com/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

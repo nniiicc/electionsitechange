@@ -1,13 +1,54 @@
 [
-"https://andrewpruski.com/",
-"https://andrewpruski.com/about",
-"https://andrewpruski.com/info-and-scholarships",
-"https://andrewpruski.com/issues",
-"https://andrewpruski.com/newsletter",
-"https://andrewpruski.com/scholarships",
-"https://andrewpruski.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com//Votepruski",
-"https://instagram.com/votepruski",
-"https://x.com/Andrew_Pruski"
+{
+"text": "Issues",
+"href": "https://www.andrewpruski.com/issues"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.andrewpruski.com/about"
+},
+{
+"text": "Newsletter",
+"href": "https://www.andrewpruski.com/newsletter"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Scholarships",
+"href": "https://www.andrewpruski.com/scholarships"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewpruski.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.andrewpruski.com/info-and-scholarships"
+},
+{
+"text": "[image: Andrew Pruski logo]",
+"href": "https://www.andrewpruski.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.andrewpruski.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//Votepruski"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votepruski"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Andrew_Pruski"
+},
+{
+"text": "andrew@andrewpruski.com",
+"href": "mailto:andrew@andrewpruski.com"
+}
 ]

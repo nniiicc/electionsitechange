@@ -1,23 +1,7 @@
-Keeping Kids Safe Online
-As the father of three young kids, Andrew’s top priority is keeping our children safe.
+Skip navigation menu Voting Info About Issues News Endorsements Volunteer Contact On the Issues Voting Info About Issues News Endorsements Volunteer Contact On the Issues learn more about the Issues Andrew is fighting for Keeping Kids Safe Online Supporting Working Families Making Streets Safer and Transit Faster Protecting Immigrant New Yorkers Creating Affordable Housing Lowering Utility Costs Fighting for Economic Justice Expanding College Access Protecting Our Climate Protecting Reproductive Rights Ending the Gun Violence Epidemic Keeping Kids Safe Online As the father of three young kids, Andrew’s top priority is keeping our children safe.
 He's stood up to Big Tech, and passed landmark laws to protect kids from addictive social media algorithms and dangerous, unregulated AI.
-Skip navigation menu
-learn more about the
-Issues Andrew is fighting for
-Keeping Kids Safe Online
-As the father of three young kids, Andrew’s top priority is keeping our children safe.
-He's stood up to Big Tech, and passed landmark laws to protect kids from addictive social media algorithms and dangerous, unregulated AI.
-Supporting Working Families
-Andrew knows too many New York families are struggling to make ends meet.
+View more Supporting Working Families Andrew knows too many New York families are struggling to make ends meet.
 He’s a champion for universal childcare, affordable housing, lower utility costs, and the Working Families Tax Credit.
-Making Streets Safer and Transit Faster
-Andrew believes smart regulations, well-designed streets and investments in transit can make it safer and easier for New Yorkers to get to school, work, and all the places they need to go.
-Protecting Immigrant New Yorkers
-Andrew believes New York has been a beacon of opportunity for generations, and knows protecting immigrant families helps ensure a safer, better future for all.
-Creating Affordable Housing
-Lowering Utility Costs
-Fighting for Economic Justice
-Expanding College Access
-Protecting Our Climate
-Protecting Reproductive Rights
-Ending the Gun Violence Epidemic
+View more Making Streets Safer and Transit Faster Andrew believes smart regulations , well-designed streets and investments in transit can make it safer and easier for New Yorkers to get to school, work, and all the places they need to go.
+View more Protecting Immigrant New Yorkers Andrew believes New York has been a beacon of opportunity for generations, and knows protecting immigrant families helps ensure a safer, better future for all.
+View more Creating Affordable Housing View more Lowering Utility Costs View more Fighting for Economic Justice View more Expanding College Access View more Protecting Our Climate View more Protecting Reproductive Rights View more Ending the Gun Violence Epidemic View more Donate Powered by RUN! website builder Paid for by Andrew Gounardes for State Senate You need to enable JavaScript to run this app.

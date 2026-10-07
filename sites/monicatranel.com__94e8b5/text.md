@@ -1,9 +1,15 @@
+Skip to content Home Donate News GOOD GOVERNMENT STARTS WITH US I am running for the Montana House of Representatives in District 92.
+The foundation for good government starts with us, focusing on our neighbors, our infrastructure, and our public lands.
+I’m asking for your support again.
+This time, not to send me away to Washington, but to keep me here, fighting for you.
+Fixing the bridges in our communities.
+Monica DONATE VIA ACTBLUE At a rough patch on my life’s journey, Maret Hutchinson, my neighbor and friend, told me: “Clean up your front yard.
+You’ll feel better.” I did, and she was right.
 Today we, as a country, are at a rough patch.
 I don’t agree with those who dismiss violence and chaos as “just politics.” Politics set the rules we live by.
 Over the last two election cycles, you walked with me on the campaign to take Montana’s voice to Washington.
 We knocked on thousands of doors, debated the future of our democracy, and built a movement based on the idea that government should actually work for the people.
-Map of Montana HD 92
-I learned a lot from you.
+Map of Montana HD 92 I learned a lot from you.
 I learned the needs of our home, here in Montana.
 We need housing that works for us all, jobs that sustain us, childcare for the benefit of us all, hospitals in rural communities, and healthcare we can afford.
 Over the last year, I have seen your incredible commitment to pitch in and do the work needed to clean up our front yard – wherever that may be for you.
@@ -20,5 +26,7 @@ I’m asking for your support again.
 This time, not to send me away to Washington, but to keep me here, fighting for you.
 Let’s get to work fixing our front yard.
 All together.
-Monica Tranel
-Keep up to date with Monica’s Substack, Montana Connections
+Monica Tranel Keep up to date with Monica’s Substack, Montana Connections Paid for by Monica Tranel for HD 92, Democrat P.O.
+Box 9384, Missoula, MT 59807.
+Treasurer, Greg Lind.
+Monica Tranel for HD 92 PO Box 9384 Missoula, MT 59807 monica@monicatranel.com Facebook Bluesky Instagram

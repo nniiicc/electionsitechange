@@ -1,7 +1,11 @@
-HAYNES believes in
-Conclusion: Bringing the People’s Voices, Values, and Vision into the People’s House
-An outside vision does not mean inexperience--it means independence.
+Skip navigation menu Home Who I Am Why I'm Running Issues Join the Movement Contact Voter Information Donate Home Who I Am Why I'm Running Issues Join the Movement Contact Voter Information Donate ECONOMIC SECURITY An Outside Record, An Inside Fight Congressional Priorities for Economic Security Development Without Displacement: Rebuilding What Gerrymandering Stripped Away A New Vision for Equitable Development Environmental Justice: Confronting Racism in Policy and Practice From the Outside to the Inside Educational Justice: Funding Potential, Not Just Systems Policies for Educational Justice Faith, Freedom, and Justice: Values Without Imposition Faith as a Moral Lens, not a Political Tool Justice-Oriented Governance Faith-Grounded Accountability: Ethical Governance That Delivers Justice Accountability as a Moral Obligation Ethics over Ethnic Division Legislative Agenda for Ethical Accountability and Public Trust An Outside Vision for Inside Reform A Shared Moral Ground Conclusion: Bringing the People’s Voices, Values, and Vision into the People’s House HAYNES believes in Conclusion: Bringing the People’s Voices, Values, and Vision into the People’s House An outside vision does not mean inexperience--it means independence.
 It means refusing to accept a system that works as designed when that's designed leaves too many behind.
 It means legislating with moral clarity, community accountability, and the courage to challenge powerful interests.
 District 30 deserves a representative who understands struggle not as a statistic, but as lived reality — and who will fight to make Congress work for everyday people.
-“We outside.” And it's time to bring that vision into the House."
+“We outside.” And it's time to bring that vision into the House." HOME | ISSUES | JOIN THE MOVEMENT | VOTER INFORMATION | CONTACT Donation checks may be mailed to: Haynes For Congress, PO Box 1165, Cedar Hill, Texas 75106 TERMS OF SERVICE PRIVACY POLICY By providing your information, you agree to receive communications from Haynes for Congress.
+Message and data rates may apply.
+Reply STOP to opt out.
+Contributions are subject to federal limits and reporting requirements.
+Powered by RUN! website builder Political Advertisement Paid for by Haynes For Congress, Dr.
+Danielle R.
+Franklin, Treasurer You need to enable JavaScript to run this app.

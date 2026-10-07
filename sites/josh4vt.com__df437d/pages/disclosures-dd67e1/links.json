@@ -1,9 +1,38 @@
 [
-"https://josh4vt.com/",
-"https://josh4vt.com/bio",
-"https://josh4vt.com/disclosures",
-"https://josh4vt.com/donate",
-"https://josh4vt.com/platform",
-"https://josh4vt.com/sign-up",
-"https://josh4vt.com/to-do"
+{
+"text": "DONATE",
+"href": "https://www.josh4vt.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.josh4vt.com"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.josh4vt.com/sign-up"
+},
+{
+"text": "My Bio",
+"href": "https://www.josh4vt.com/bio"
+},
+{
+"text": "Platform",
+"href": "https://www.josh4vt.com/platform"
+},
+{
+"text": "Sign Up",
+"href": "https://www.josh4vt.com/sign-up"
+},
+{
+"text": "What I'll DO",
+"href": "https://www.josh4vt.com/to-do"
+},
+{
+"text": "results@josh4vt.com",
+"href": "mailto:results@josh4vt.com"
+},
+{
+"text": "​ALL DISCLOSURES",
+"href": "https://www.josh4vt.com/disclosures"
+}
 ]

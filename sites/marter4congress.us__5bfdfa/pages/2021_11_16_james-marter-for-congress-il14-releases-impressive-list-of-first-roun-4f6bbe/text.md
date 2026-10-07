@@ -1,48 +1,18 @@
-Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 16 Nov Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
 Marter is the twice elected, current Chairman of the Kendall County GOP, in the heart of the new IL14.
 As the list shows, he has a strong grassroots network in this district in which he lives, as well as nationally known issue experts, lending their support and expertise.
 “This list shows James is well positioned to replace Lauren Underwood and he’ll be able to do the job once he gets there,” a campaign spokesperson said.
-“A mainstay of his campaign is to bring representation in Congress, back to Illinois.”
-The candidate stated, “We’ve been ignored by our current Representative who has voted with the oppressive and failing, big government agenda, virtually 100% of the time.
-Congresswoman Underwood has turned a deaf ear to the constituents and this list shows that the people know I’m listening to them and I’ll keep my promise to proactively work to dismantle the agenda that is harming our nation and our district, on multiple fronts.”
-First round of personal endorsements for James Marter for Congress:
-- Michele Bachmann: Former Congresswoman and Presidential Candidate, current Dean of Regent University and founding member of the Congressional TEA Party Caucus.
-- Clare Lopez: National security expert, researcher, analyst and career CIA officer, former Member of the Congressional Task Force on National and Homeland Security, Advisor to EMPact America.
+“A mainstay of his campaign is to bring representation in Congress, back to Illinois.” The candidate stated, “We’ve been ignored by our current Representative who has voted with the oppressive and failing, big government agenda, virtually 100% of the time.
+Congresswoman Underwood has turned a deaf ear to the constituents and this list shows that the people know I’m listening to them and I’ll keep my promise to proactively work to dismantle the agenda that is harming our nation and our district, on multiple fronts.” First round of personal endorsements for James Marter for Congress: Michele Bachmann: Former Congresswoman and Presidential Candidate, current Dean of Regent University and founding member of the Congressional TEA Party Caucus.
+Clare Lopez: National security expert, researcher, analyst and career CIA officer, former Member of the Congressional Task Force on National and Homeland Security, Advisor to EMPact America.
 Ms.
-Lopez said James is a “Constitutional conservative who will defend our First Things Principles, including our First and Second Amendment liberties and stand in defense of life.”
-- Trevor Loudon: Internationally known speaker, researcher and author of “Enemies Within, Communists, Socialists and Progressives in Congress,” calls James Marter a “tough-as-nails patriot made for a critical time such as this.”
-- Dr.
+Lopez said James is a “Constitutional conservative who will defend our First Things Principles, including our First and Second Amendment liberties and stand in defense of life.” Trevor Loudon: Internationally known speaker, researcher and author of “Enemies Within, Communists, Socialists and Progressives in Congress,” calls James Marter a “tough-as-nails patriot made for a critical time such as this.” Dr.
 Bill Warner: Renowned educator and historian, expert on world religions, university professor and energy business pioneer, with a PhD in math and physics.
 His works have been published in 20 languages.
 “James Marter is well advised on the issues.
 He’s committed to keeping America great, stronger, safer, more prosperous and free.
-Ready to win, ready for Congress.”
-- Ground Zero Chaplain, Steve Lee: Career law enforcement including counter-terrorism and foreign counter intelligence with decades in ministry and missions has endorsed James Marter as the first candidate endorsement of his lifetime.
-- Anni Cyrus Former child bride in Iran, turned legal immigrant, human rights activist, social media influencer, foreign policy expert, Producer at Brannon Howse Live and proud American Citizen-Patriot has also endorsed James Marter as her first ever, candidate endorsement.
-- Jim Simpson Economist, investigative journalist, researcher and former Congressional candidate, author of “Red/Green Axis” and current Amazon Best Seller, “Who Was Karl Marx?: The Men, the Motives and the Menace Behind Today’s Rampaging American Left.”
-- Eloise Gerson IL GOP State Central Committee Deputy, Chicago 42nd Ward Committeewoman, Trump Finance Committee Co-Chair, former Chairman of the Chicago Republican Party
-- Lynn O’Brien IL GOP State Central Committee Deputy, Vice Chair, Finance Committee
-- Pastor Stan and Delbra Pratt: State Coordinators, National Governors’ Prayer Team
-- George Pearson Will County GOP Chairman
-- Brian DeBolt Kendall County Board
-- Raquel Mitchell Will County Board, Wheatland Township GOP Chair
-- Larry Smith LaSalle County
-- Beth Findley LaSalle County 2nd Vice Chair, former, South Ottawa Township Supervisor
-- Patrick Harlan Knox County Board, 2016 US Congress GOP Nominee, 17th District
-- Dale Fontana Plainfield Township GOP Chair
-- Rob Enright Plainfield Township GOP Vice Chair
-- Russell Runge DeKalb County Precinct Committeeman (PC)
-- Elsie Morrisey DeKalb County PC
-- Wendy Frank Boone County Republican Club President, Boone County PC
-- Kathy Busch PC, Sandwich 2
-- Becky Nelson Little Rock Township Trustee and PC, Little Rock 1
-- Ricardo Santana PC Joliet 5
-- Brian Thomas Oswego Village Trustee, PC, Oswego 35
-- Leonard R.
-Wass Captain, USN (Ret.) Board Chairman, USS Illinois 786 Club and PC, Oswego 10
-- Nick Ficarello Former Police Chief of Braidwood, former Deputy Chief, Will County Sheriff’s Office
-- Dawn Damiani Troy Township Collector
-- Anne Hurst Ela Area Public Library Trustee, ICU Advisory Board Member
-- Joe West Oswego Township Supervisor, American Legion Post 675 Commander, PC Oswego 24, former Oswego Trustee
-- James T.
-Marter II Oswego Village Trustee, PC, Oswego 20
+Ready to win, ready for Congress.” Ground Zero Chaplain, Steve Lee: Career law enforcement including counter-terrorism and foreign counter intelligence with decades in ministry and missions has endorsed James Marter as the first candidate endorsement of his lifetime.
+Anni Cyrus Former child bride in Iran, turned legal immigrant, human rights activist, social media influencer, foreign policy expert, Producer at Brannon Howse Live and proud American Citizen-Patriot has also endorsed James Marter as her first ever, candidate endorsement.
+Jim Simpson Economist, investigative journalist, researcher and former Congressional candidate, author of “Red/Green Axis” and current Amazon Best Seller, “Who Was Karl Marx?: The Men, the Motives and the Menace Behind Today’s Rampaging American Left.” Eloise Gerson IL GOP State Central Committee Deputy, Chicago 42nd Ward Committeewoman, Trump Finance Committee Co-Chair, former Chairman of the Chicago Republican Party Lynn O’Brien IL GOP State Central Committee Deputy, Vice Chair, Finance Committee Pastor Stan and Delbra Pratt: State Coordinators, National Governors’ Prayer Team George Pearson Will County GOP Chairman Brian DeBolt Kendall County Board Raquel Mitchell Will County Board, Wheatland Township GOP Chair Larry Smith LaSalle County Beth Findley LaSalle County 2nd Vice Chair, former, South Ottawa Township Supervisor Patrick Harlan Knox County Board, 2016 US Congress GOP Nominee, 17th District Dale Fontana Plainfield Township GOP Chair Rob Enright Plainfield Township GOP Vice Chair Russell Runge DeKalb County Precinct Committeeman (PC) Elsie Morrisey DeKalb County PC Wendy Frank Boone County Republican Club President, Boone County PC Kathy Busch PC, Sandwich 2 Becky Nelson Little Rock Township Trustee and PC, Little Rock 1 Ricardo Santana PC Joliet 5 Brian Thomas Oswego Village Trustee, PC, Oswego 35 Leonard R.
+Wass Captain, USN (Ret.) Board Chairman, USS Illinois 786 Club and PC, Oswego 10 Nick Ficarello Former Police Chief of Braidwood, former Deputy Chief, Will County Sheriff’s Office Dawn Damiani Troy Township Collector Anne Hurst Ela Area Public Library Trustee, ICU Advisory Board Member Joe West Oswego Township Supervisor, American Legion Post 675 Commander, PC Oswego 24, former Oswego Trustee James T.
+Marter II Oswego Village Trustee, PC, Oswego 20 Share:

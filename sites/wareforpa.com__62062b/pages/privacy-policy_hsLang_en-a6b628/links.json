@@ -1,9 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61588623760584",
-"https://secure.actblue.com/donate/ware-for-pa",
-"https://wareforpa.com/?hsLang=en",
-"https://wareforpa.com/contact",
-"https://wareforpa.com/priorities-faq",
-"https://wareforpa.com/privacy-policy",
-"https://wareforpa.com/terms?hsLang=en"
+{
+"text": "CONTACT",
+"href": "https://wareforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ware-for-pa"
+},
+{
+"text": "PRIORITIES",
+"href": "https://wareforpa.com/priorities-faq"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wareforpa.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://wareforpa.com/terms?hsLang=en"
+},
+{
+"text": "[image: ware for pa campaign logo]",
+"href": "https://wareforpa.com?hslang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588623760584"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "https://WareForPA.com/contact",
+"href": "https://wareforpa.com/contact"
+},
+{
+"text": "wareforpa@gmail.com",
+"href": "mailto:wareforpa@gmail.com"
+}
 ]

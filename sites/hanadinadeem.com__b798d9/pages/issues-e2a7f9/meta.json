@@ -1,7 +1,11 @@
 {
  "description": "Hanadi Nadeem's platform for Nevada Assembly District 34: affordable housing, quality healthcare, education funding, gun safety, reproductive rights & more.",
  "final_url": "https://hanadinadeem.com/issues",
- "paid_for_by": null,
+ "fingerprint": "87ff82786e150906a40df14d8b779086d61ee4d8",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Hanadi Nadeem",
  "title": "Hanadi Nadeem | Issues | Nevada Assembly District 34",
- "years_mentioned": []
+ "years_mentioned": [
+  "1965"
+ ]
 }

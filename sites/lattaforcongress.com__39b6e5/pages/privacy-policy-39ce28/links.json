@@ -1,8 +1,30 @@
 [
-"https://facebook.com/lattaforcongress",
-"https://instagram.com/boblatta?hl=en",
-"https://lattaforcongress.com/",
-"https://lattaforcongress.com/privacy-policy",
-"https://secure.winred.com/latta/donate",
-"https://twitter.com/latta4congress?lang=en"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/latta/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lattaforcongress.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/latta4congress?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lattaforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/boblatta/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.lattaforcongress.com/"
+},
+{
+"text": "info@lattaforcongress.com",
+"href": "mailto:info@lattaforcongress.com"
+}
 ]

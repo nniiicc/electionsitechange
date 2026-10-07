@@ -1,12 +1,46 @@
 [
-"https://facebook.com/sewell4congress",
-"https://instagram.com/sewell4congress",
-"https://secure.actblue.com/donate/website-23",
-"https://sewellforcongress.com/",
-"https://sewellforcongress.com/about-terri",
-"https://sewellforcongress.com/issues",
-"https://sewellforcongress.com/news-listing",
-"https://sewellforcongress.com/photos",
-"https://sewellforcongress.com/privacy-policy",
-"https://twitter.com/sewell4congress"
+{
+"text": "About Terri",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "About Terri Sewell",
+"href": "https://sewellforcongress.com/about-terri/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/website-23"
+},
+{
+"text": "Issues",
+"href": "https://sewellforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://sewellforcongress.com/news-listing/"
+},
+{
+"text": "Photos",
+"href": "https://sewellforcongress.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://sewellforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: logo-header]",
+"href": "https://sewellforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sewell4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sewell4congress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sewell4congress/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.adamneylon.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "bd63cbb6791dcb8d2c097dd7132454cb012ae7c2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

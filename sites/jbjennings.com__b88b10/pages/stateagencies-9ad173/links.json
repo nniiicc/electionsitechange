@@ -1,49 +1,198 @@
 [
-"https://aging.maryland.gov/Pages/default.aspx",
-"https://baltimorecountymd.gov/",
-"https://bpw.maryland.gov/Pages/default.aspx",
-"https://cannabis.maryland.gov/Pages/home.aspx",
-"https://commerce.maryland.gov/",
-"https://commerce.maryland.gov/commerce/boards-and-commissions/economic-development-commission",
-"https://dat.maryland.gov/Pages/default.aspx",
-"https://dbm.maryland.gov/pages/default.aspx",
-"https://dgs.maryland.gov/Pages/default.aspx",
-"https://dhcd.maryland.gov/Pages/default.aspx",
-"https://dhs.maryland.gov/",
-"https://djs.maryland.gov/Pages/default.aspx",
-"https://dllr.state.md.us/",
-"https://dnr.maryland.gov/Pages/default.aspx",
-"https://doit.maryland.gov/Pages/AboutDoIT.aspx",
-"https://dpscs.maryland.gov/",
-"https://dsci.maryland.gov/Pages/default.aspx",
-"https://energy.maryland.gov/Pages/default.aspx",
-"https://facebook.com/senatorjennings",
-"https://harfordcountymd.gov/",
-"https://health.maryland.gov/Pages/Home.aspx",
-"https://instagram.com/senatorjbjennings",
-"https://jbjennings.com/",
-"https://jbjennings.com/aboutjb",
-"https://jbjennings.com/cart",
-"https://jbjennings.com/constituent-corner",
-"https://jbjennings.com/contact",
-"https://jbjennings.com/donations",
-"https://jbjennings.com/legislation-1",
-"https://jbjennings.com/rockfieldmanor2026",
-"https://jbjennings.com/services",
-"https://lp.constantcontactpages.com/sl/N7jPfEv",
-"https://marylandtaxes.gov/divisions/comp.php",
-"https://mda.maryland.gov/Pages/default.aspx",
-"https://mde.maryland.gov/Pages/index.aspx",
-"https://mdod.maryland.gov/about/Pages/About-Us-Home.aspx",
-"https://mdot.maryland.gov/tso/pages/Index.aspx?PageId=5",
-"https://menv.com/",
-"https://mgaleg.maryland.gov/mgawebsite/Members/District",
-"https://msa.maryland.gov/msa/mdmanual/25ind/html/50lot.html",
-"https://mva.maryland.gov/Pages/default.aspx",
-"https://mymdthink.maryland.gov/home",
-"https://onestop.md.gov/",
-"https://planning.maryland.gov/Pages/default.aspx",
-"https://threads.com/@senatorjbjennings",
-"https://veterans.maryland.gov/",
-"https://x.com/JBJenningsUSA"
+{
+"text": "0",
+"href": "https://www.jbjennings.com/cart"
+},
+{
+"text": "Baltimore County Government",
+"href": "https://www.baltimorecountymd.gov/"
+},
+{
+"text": "Constituent Corner",
+"href": "https://www.jbjennings.com/constituent-corner"
+},
+{
+"text": "Contact",
+"href": "https://www.jbjennings.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.jbjennings.com/donations"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/senatorjennings/"
+},
+{
+"text": "Harford County Government",
+"href": "https://www.harfordcountymd.gov/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/senatorjbjennings/"
+},
+{
+"text": "JB.Jennings@senate.maryland.gov",
+"href": "mailto:JB.Jennings@senate.maryland.gov"
+},
+{
+"text": "Legislation",
+"href": "https://www.jbjennings.com/legislation-1"
+},
+{
+"text": "Meet J.B.",
+"href": "https://www.jbjennings.com/aboutjb"
+},
+{
+"text": "Newsletter",
+"href": "https://www.jbjennings.com/"
+},
+{
+"text": "Rockfield Manor",
+"href": "https://www.jbjennings.com/rockfieldmanor2026"
+},
+{
+"text": "Services",
+"href": "https://www.jbjennings.com/services"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@senatorjbjennings"
+},
+{
+"text": "X",
+"href": "https://x.com/JBJenningsUSA"
+},
+{
+"text": "[image: Senator J.B. Jennings]",
+"href": "https://www.jbjennings.com/"
+},
+{
+"text": "[image]",
+"href": "https://aging.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://bpw.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://cannabis.maryland.gov/Pages/home.aspx"
+},
+{
+"text": "[image]",
+"href": "https://commerce.maryland.gov/"
+},
+{
+"text": "[image]",
+"href": "https://commerce.maryland.gov/commerce/boards-and-commissions/economic-development-commission"
+},
+{
+"text": "[image]",
+"href": "https://dat.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dbm.maryland.gov/pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dgs.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dhcd.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dhs.maryland.gov/"
+},
+{
+"text": "[image]",
+"href": "https://djs.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dnr.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://doit.maryland.gov/Pages/AboutDoIT.aspx"
+},
+{
+"text": "[image]",
+"href": "https://dpscs.maryland.gov/"
+},
+{
+"text": "[image]",
+"href": "https://dsci.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://energy.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://health.maryland.gov/Pages/Home.aspx"
+},
+{
+"text": "[image]",
+"href": "https://mda.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://mde.maryland.gov/Pages/index.aspx"
+},
+{
+"text": "[image]",
+"href": "https://mdod.maryland.gov/about/Pages/About-Us-Home.aspx"
+},
+{
+"text": "[image]",
+"href": "https://menv.com/"
+},
+{
+"text": "[image]",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/District"
+},
+{
+"text": "[image]",
+"href": "https://msa.maryland.gov/msa/mdmanual/25ind/html/50lot.html"
+},
+{
+"text": "[image]",
+"href": "https://mva.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://mymdthink.maryland.gov/home/#/"
+},
+{
+"text": "[image]",
+"href": "https://onestop.md.gov/"
+},
+{
+"text": "[image]",
+"href": "https://planning.maryland.gov/Pages/default.aspx"
+},
+{
+"text": "[image]",
+"href": "https://veterans.maryland.gov/"
+},
+{
+"text": "[image]",
+"href": "https://www.dllr.state.md.us/"
+},
+{
+"text": "[image]",
+"href": "https://www.marylandtaxes.gov/divisions/comp.php"
+},
+{
+"text": "[image]",
+"href": "https://www.mdot.maryland.gov/tso/pages/Index.aspx?PageId=5"
+},
+{
+"text": "newsletter",
+"href": "https://lp.constantcontactpages.com/sl/N7jPfEv"
+}
 ]

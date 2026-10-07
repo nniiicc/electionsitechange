@@ -1,12 +1,2 @@
-New Fairfield Fair Day
-Time
-Saturday, Sep 26, 2026
-12:00 PM – 4:30 PM
-Location
-Memorial Field, New Fairfield
-https://www.newfairfield.org/municipal-departments/services/parks-and-recreation
-About this event
-Location
-Memorial Field
-New Fairfield
-https://www.newfairfield.org/municipal-departments/services/parks-and-recreation
+Meet Melissa Issues Events Volunteer Contribute Events / New Fairfield Fair Day New Fairfield Fair Day Time Saturday, Sep 26, 2026 12:00 PM – 4:30 PM Location Memorial Field, New Fairfield https://www.newfairfield.org/municipal-departments/services/parks-and-recreation About this event Location Memorial Field New Fairfield https://www.newfairfield.org/municipal-departments/services/parks-and-recreation Get Driving Directions Add to calendar Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

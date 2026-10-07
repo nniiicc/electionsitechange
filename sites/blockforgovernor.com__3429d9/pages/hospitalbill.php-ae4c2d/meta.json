@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://blockforgovernor.com/hospitalbill.php",
- "paid_for_by": null,
+ "fingerprint": "72a989fe26b503956c798a472f51544784caff7d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "One Stay, One Bill Plan | Ken Block",
  "years_mentioned": [
   "2018",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,10 +1,38 @@
 [
-"http://elegantthemes.com/",
-"http://facebook.com/Brandon-Markosek-127638761416947",
-"http://wordpress.org/",
-"https://markosek4pa.com/",
-"https://markosek4pa.com/bio",
-"https://markosek4pa.com/contact",
-"https://markosek4pa.com/feed",
-"https://secure.actblue.com/donate/brandon-markosek-1"
+{
+"text": "Bio",
+"href": "https://www.markosek4pa.com/bio/"
+},
+{
+"text": "Contact",
+"href": "https://www.markosek4pa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brandon-markosek-1"
+},
+{
+"text": "Elegant Themes",
+"href": "http://www.elegantthemes.com"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/Brandon-Markosek-127638761416947"
+},
+{
+"text": "Home",
+"href": "https://www.markosek4pa.com/"
+},
+{
+"text": "RSS",
+"href": "https://www.markosek4pa.com/feed/"
+},
+{
+"text": "WordPress",
+"href": "http://www.wordpress.org"
+},
+{
+"text": "[image: MarkosekForPA]",
+"href": "https://www.markosek4pa.com/"
+}
 ]

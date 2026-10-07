@@ -1,12 +1,74 @@
 [
-"http://instagram.com/wilsonforidaho",
-"http://tiktok.com/@wilsonforidaho",
-"https://adademocrats.org/district20",
-"https://cvidaho.org/",
-"https://emerald-one.com/",
-"https://facebook.com/PamWilsonforIdaho",
-"https://wilsonforidaho.com/",
-"https://wilsonforidaho.com/go/donate",
-"https://wilsonforidaho.com/go/fh",
-"https://wilsonforidaho.com/media"
+{
+"text": "About",
+"href": "https://wilsonforidaho.com/#About"
+},
+{
+"text": "Endorsements",
+"href": "https://wilsonforidaho.com/#Endorsements"
+},
+{
+"text": "Events",
+"href": "https://wilsonforidaho.com/#Events"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/PamWilsonforIdaho/"
+},
+{
+"text": "Get Involved",
+"href": "https://wilsonforidaho.com/#Get-Involved"
+},
+{
+"text": "Home",
+"href": "https://wilsonforidaho.com"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/wilsonforidaho"
+},
+{
+"text": "Media",
+"href": "https://wilsonforidaho.com/media/"
+},
+{
+"text": "Tiktok",
+"href": "http://tiktok.com/@wilsonforidaho"
+},
+{
+"text": "Voter Info",
+"href": "https://www.adademocrats.org/district20"
+},
+{
+"text": "[image: Conservation Voters for Idaho]",
+"href": "https://cvidaho.org"
+},
+{
+"text": "[image: Donate through ActBlue]",
+"href": "https://wilsonforidaho.com/go/donate/"
+},
+{
+"text": "[image: Donate through FundHero]",
+"href": "https://wilsonforidaho.com/go/fh/"
+},
+{
+"text": "[image]",
+"href": "https://wilsonforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://wilsonforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.emerald-one.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:pam@wilsonforidaho.com"
+},
+{
+"text": "[no text]",
+"href": "tel:2086142560"
+}
 ]

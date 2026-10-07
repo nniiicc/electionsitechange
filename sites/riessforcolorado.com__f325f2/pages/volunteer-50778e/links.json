@@ -1,16 +1,102 @@
 [
-"https://facebook.com/profile.php?id=61580518653230",
-"https://facebook.com/riessforcolorado",
-"https://instagram.com/riessforcolorado",
-"https://riessforcolorado.com/",
-"https://riessforcolorado.com/contact",
-"https://riessforcolorado.com/donate",
-"https://riessforcolorado.com/endorsements",
-"https://riessforcolorado.com/events",
-"https://riessforcolorado.com/media-kit",
-"https://riessforcolorado.com/meet-naomi-riess",
-"https://riessforcolorado.com/news",
-"https://riessforcolorado.com/volunteer",
-"https://secure.anedot.com/riess-for-colorado/donate",
-"https://x.com/Riess4Colorado"
+{
+"text": "$# Donation",
+"href": "https://secure.anedot.com/riess-for-colorado/donate"
+},
+{
+"text": "970.946.3561",
+"href": "tel:+1970.946.3561"
+},
+{
+"text": "Be a Precinct Champion",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "CONTACT",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://riessforcolorado.com/donate/"
+},
+{
+"text": "Display a Sign",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "Door to Door Team",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://riessforcolorado.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://riessforcolorado.com/events/"
+},
+{
+"text": "Help with Social Media",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "Host a Fundraiser",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "Host a Meet & Greet",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://riessforcolorado.com/news/"
+},
+{
+"text": "MEDIA KIT",
+"href": "https://riessforcolorado.com/media-kit/"
+},
+{
+"text": "MEET NAOMI",
+"href": "https://riessforcolorado.com/meet-naomi-riess/"
+},
+{
+"text": "Make Calls",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/riess-for-colorado/donate"
+},
+{
+"text": "Poll Watcher",
+"href": "https://riessforcolorado.com/contact/"
+},
+{
+"text": "Riess for Colorado",
+"href": "https://www.facebook.com/profile.php?id=61580518653230"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://riessforcolorado.com/volunteer/"
+},
+{
+"text": "[image: Riess For Colorado][image: Riess For Colorado]",
+"href": "https://riessforcolorado.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/riessforcolorado"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.instagram.com/riessforcolorado"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://x.com/Riess4Colorado"
+},
+{
+"text": "info@riessforcolorado.com",
+"href": "https://riessforcolorado.com/contact/"
+}
 ]

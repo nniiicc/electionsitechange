@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Eunice+at+the+Carolina+Bauernhaus+in+Anderson&dates=20260603T223000Z%2F20260604T003000Z&location=115+Federal+Street%2C+Anderson%2C+SC%2C+29625%2C+United+States",
-"http://maps.google.com/?q=115+Federal+Street+Anderson%2C+SC%2C+29625+United+States",
-"https://bsky.app/profile/euniceforsc.bsky.social",
-"https://carolinabauernhaus.com/",
-"https://euniceforsc.com/",
-"https://euniceforsc.com/about",
-"https://euniceforsc.com/cart",
-"https://euniceforsc.com/events",
-"https://euniceforsc.com/events/mccormick-county-democratic-party-monthly-community-meeting",
-"https://euniceforsc.com/events/meet-eunice-at-voodoo-brewing-co",
-"https://euniceforsc.com/events/meet-eunice-in-anderson?format=ical",
-"https://euniceforsc.com/ideas",
-"https://euniceforsc.com/news",
-"https://euniceforsc.com/privacy-policy",
-"https://euniceforsc.com/support",
-"https://euniceforsc.com/vote",
-"https://facebook.com/EuniceforSC",
-"https://instagram.com/euniceforsc",
-"https://secure.actblue.com/donate/eunice-lehmacher-1",
-"https://tiktok.com/@euniceforsc",
-"https://youtube.com/@euniceforsc4284"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=115+federal+street+anderson%2C+sc%2C+29625+united+states"
+},
+{
+"text": "0",
+"href": "https://www.euniceforsc.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.euniceforsc.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Carolina Bauernhaus",
+"href": "https://carolinabauernhaus.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eunice-lehmacher-1"
+},
+{
+"text": "Events",
+"href": "https://www.euniceforsc.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Eunice+at+the+Carolina+Bauernhaus+in+Anderson&dates=20260603T223000Z%2F20260604T003000Z&location=115+Federal+Street%2C+Anderson%2C+SC%2C+29625%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.euniceforsc.com/events/meet-eunice-in-anderson?format=ical"
+},
+{
+"text": "Ideas",
+"href": "https://www.euniceforsc.com/ideas"
+},
+{
+"text": "News",
+"href": "https://www.euniceforsc.com/news"
+},
+{
+"text": "Next Next June 12 Meet Eunice at Voodoo Brewing Co.",
+"href": "https://www.euniceforsc.com/events/meet-eunice-at-voodoo-brewing-co"
+},
+{
+"text": "Previous Previous June 2 McCormick County Democratic Party Monthly Community Meeting",
+"href": "https://www.euniceforsc.com/events/mccormick-county-democratic-party-monthly-community-meeting"
+},
+{
+"text": "Privacy Policy",
+"href": "https://euniceforsc.com/privacy-policy"
+},
+{
+"text": "Support",
+"href": "https://www.euniceforsc.com/support"
+},
+{
+"text": "Vote",
+"href": "https://www.euniceforsc.com/vote"
+},
+{
+"text": "[image: Eunice for SC]",
+"href": "https://www.euniceforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/euniceforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EuniceforSC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@euniceforsc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@euniceforsc4284"
+},
+{
+"text": "[no text]",
+"href": "mailto:EuniceForSC@gmail.com"
+}
 ]

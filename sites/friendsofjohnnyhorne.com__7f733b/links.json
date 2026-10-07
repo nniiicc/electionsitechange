@@ -1,17 +1,74 @@
 [
-"https://friendsofjohnnyhorne.com/",
-"https://friendsofjohnnyhorne.com/blank-12",
-"https://friendsofjohnnyhorne.com/blog",
-"https://friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne",
-"https://friendsofjohnnyhorne.com/event-list",
-"https://friendsofjohnnyhorne.com/groups",
-"https://friendsofjohnnyhorne.com/my-groups",
-"https://friendsofjohnnyhorne.com/notifications",
-"https://friendsofjohnnyhorne.com/post/meet-johnny-horne-advocating-for-district-29-changes",
-"https://static.wixstatic.com/media/c67478_2ca0817883dc42859977e88ca46b880a~mv2.jpg",
-"https://static.wixstatic.com/media/c67478_412d55fa0f7b4db8b30aeda8b24bba36~mv2.jpg",
-"https://static.wixstatic.com/media/c67478_70b4072eceaa46b18e5dd68608f130b0~mv2.jpg",
-"https://static.wixstatic.com/media/c67478_d8bccc3ec95c4ed4be595d1d6fc28d9c~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_e4a670837a5a4111803a19c631d93072~mv2.jpeg",
-"https://static.wixstatic.com/media/c67478_f31298d4d47d4ccebd29c1f51017f2ec~mv2.jpg"
+{
+"text": "Blog",
+"href": "https://www.friendsofjohnnyhorne.com/blog"
+},
+{
+"text": "Events",
+"href": "https://www.friendsofjohnnyhorne.com/event-list"
+},
+{
+"text": "Groups",
+"href": "https://www.friendsofjohnnyhorne.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofjohnnyhorne.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.friendsofjohnnyhorne.com/blog"
+},
+{
+"text": "Notifications",
+"href": "https://www.friendsofjohnnyhorne.com/notifications"
+},
+{
+"text": "Portfolio",
+"href": "https://www.friendsofjohnnyhorne.com/blank-12"
+},
+{
+"text": "Read Full Story",
+"href": "https://www.friendsofjohnnyhorne.com/post/meet-johnny-horne-advocating-for-district-29-changes"
+},
+{
+"text": "See More Photos",
+"href": "https://www.friendsofjohnnyhorne.com/blank-12#fast-gallery"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.friendsofjohnnyhorne.com/event-details/community-town-hall-with-rep-johnny-horne"
+},
+{
+"text": "Voter Info",
+"href": "https://www.friendsofjohnnyhorne.com/my-groups"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.friendsofjohnnyhorne.com"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_2ca0817883dc42859977e88ca46b880a~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_412d55fa0f7b4db8b30aeda8b24bba36~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_70b4072eceaa46b18e5dd68608f130b0~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_d8bccc3ec95c4ed4be595d1d6fc28d9c~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_e4a670837a5a4111803a19c631d93072~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/c67478_f31298d4d47d4ccebd29c1f51017f2ec~mv2.jpg"
+}
 ]

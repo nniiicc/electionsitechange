@@ -1,5 +1,4 @@
-Meet Meg
-Meg was born and raised in the 12th Worcester District.
+0 Skip to Content About the Office About Meg Accomplishments Office Staff Internships State House Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Open Menu Close Menu About the Office About Meg Accomplishments Office Staff Internships State House Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Open Menu Close Menu Folder: About the Office Back About Meg Accomplishments Office Staff Internships Folder: State House Back Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Meet Meg Meg was born and raised in the 12th Worcester District.
 She attended Chocksett and Houghton schools before graduating from Wachusett Regional High School.
 Growing up, Meg spent much of her childhood in Clinton, where all of her grandparents lived.
 Meg graduated from Stonehill College with a B.A in History, and went on to receive her J.D. from Suffolk University Law School.
@@ -9,4 +8,6 @@ Throughout her years in the State House, Meg also worked with local officials an
 As Chief Budget Analyst, Meg worked with the Representative to secure millions of dollars in funding for every town in the District.
 In 2020, Meg was elected as the FIRST female State Representative of the 12th Worcester District.
 Since then, she has hit the ground running to deliver for the towns of Berlin, Boylston, Clinton, Lancaster, Precinct 4 of Northborough, and Sterling.
-To view her accomplishments during her terms as State Representative, click here.
+To view her accomplishments during her terms as State Representative, click here .
+Contact 24 Beacon St.
+Room 146 Boston, MA 02133 meghan.kilcoyne@mahouse.gov (617) 722-2575 Follow Twitter Instagram Facebook This is the official district website for State Representative Meghan Kilcoyne.

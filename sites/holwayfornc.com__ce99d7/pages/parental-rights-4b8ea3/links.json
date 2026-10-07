@@ -1,17 +1,82 @@
 [
-"https://holwayfornc.com/",
-"https://holwayfornc.com/contact",
-"https://holwayfornc.com/copy-of-parental-rights",
-"https://holwayfornc.com/courts",
-"https://holwayfornc.com/data-centers",
-"https://holwayfornc.com/farms",
-"https://holwayfornc.com/flock-cameras",
-"https://holwayfornc.com/government-priorities",
-"https://holwayfornc.com/gun-ownership",
-"https://holwayfornc.com/healthcare",
-"https://holwayfornc.com/human-rights",
-"https://holwayfornc.com/parental-rights",
-"https://holwayfornc.com/schools",
-"https://holwayfornc.com/voting-access",
-"https://secure.actblue.com/donate/matt-holway-1"
+{
+"text": "About",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Back to Issues >",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Contact",
+"href": "https://www.holwayfornc.com/contact"
+},
+{
+"text": "Courts",
+"href": "https://www.holwayfornc.com/courts"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/matt-holway-1"
+},
+{
+"text": "Data Centers & Environment",
+"href": "https://www.holwayfornc.com/data-centers"
+},
+{
+"text": "Farms",
+"href": "https://www.holwayfornc.com/farms"
+},
+{
+"text": "Flock Cameras",
+"href": "https://www.holwayfornc.com/flock-cameras"
+},
+{
+"text": "General Perspective",
+"href": "https://www.holwayfornc.com/copy-of-parental-rights"
+},
+{
+"text": "Government Priorities",
+"href": "https://www.holwayfornc.com/government-priorities"
+},
+{
+"text": "Gun Ownership",
+"href": "https://www.holwayfornc.com/gun-ownership"
+},
+{
+"text": "Health Care",
+"href": "https://www.holwayfornc.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Human Rights",
+"href": "https://www.holwayfornc.com/human-rights"
+},
+{
+"text": "Issues",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Parental Rights",
+"href": "https://www.holwayfornc.com/parental-rights"
+},
+{
+"text": "Schools",
+"href": "https://www.holwayfornc.com/schools"
+},
+{
+"text": "Volunteer",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Voting",
+"href": "https://www.holwayfornc.com"
+},
+{
+"text": "Voting Access",
+"href": "https://www.holwayfornc.com/voting-access"
+}
 ]

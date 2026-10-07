@@ -1,7 +1,5 @@
-New State Bill Opens Way for Daycare on Key Peninsula
-Senate Bill 5655 requires the occupancy load to be based only on areas where services are provided.
-By: Sara Thompson - Wednesday, May 28, 2025 9:00 pm
-KEY PENINSULA NEWS
-Thanks to legislation sponsored by local politicians, Senate Bill 5655 passed unanimously in the 2025 session, creating the possibility of a full-time daycare on the Key Peninsula.
+0 Skip to Content Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE Open Menu Close Menu Home Endorsements Issues Events News Endorse Deb Get Involved DONATE New State Bill Opens Way for Daycare on Key Peninsula Jun 11 Written By Darci Larsen Senate Bill 5655 requires the occupancy load to be based only on areas where services are provided.
+By: Sara Thompson - Wednesday, May 28, 2025 9:00 pm KEY PENINSULA NEWS Thanks to legislation sponsored by local politicians, Senate Bill 5655 passed unanimously in the 2025 session, creating the possibility of a full-time daycare on the Key Peninsula.
 “This is a perfect example of how legislators should work,” said Sen.
-Deb Krishnadasan (D-26th), who sponsored the bill. […]
+Deb Krishnadasan (D-26th), who sponsored the bill. […] READ FULL ARTICLE Darci Larsen Previous Previous Bill to help underfunded schools isn’t moving forward, but I’m not giving up| Opinion, SEN.
+DEB KRISHNADASAN Next Next What it’s like as a freshman state lawmaker in Olympia DONATE ENDORSEMENTS ENDORSE DEB Paid for by Deb K for Senate (D) | 11010 Harbor Hill Dr Ste B 277, Gig Harbor, WA, 98332

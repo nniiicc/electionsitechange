@@ -1,8 +1,5 @@
-Reach Out
-What matters to you, matters to Jeff.
-Whether you have a question, want to share your concerns about the 88th District, or would like to get involved with the campaign — Jeff wants to hear from you.
-Reach out and the campaign will get back to you as soon as possible.
-NOV 3
-Election Day — Vote Jeff Clark
-General Election · 88th Pennsylvania House District
-Support the Campaign
+JEFF CLARK 88TH DISTRICT ☰ Home About Issues Events Donate Join Contact ★ VOTE NOVEMBER 3 — General Election | Jeff Clark for State Representative · 88th District ★ Reach Out Connect With Jeff What matters to you, matters to Jeff.
+Get in Touch Whether you have a question, want to share your concerns about the 88th District, or would like to get involved with the campaign — Jeff wants to hear from you.
+Reach out and the campaign will get back to you as soon as possible. ☎ Phone (717) 615-0872 ✉ Email votejeffclark@gmail.com ▶ Facebook Jeff Clark for 88th District Full Name * Email Address * Phone (optional) Comments * I'd like to volunteer for the campaign Send Message This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. ★ DECORATED VETERAN ★ CAREER LAW ENFORCEMENT ★ DEDICATED TO PUBLIC SERVICE NOV 3 Election Day — Vote Jeff Clark General Election · 88th Pennsylvania House District Support the Campaign JEFF CLARK State Representative — 88th District Home About Issues Events Donate Join Contact Setting the Record Straight (717) 615-0872 votejeffclark@gmail.com Facebook Paid for by Friends for Jeff Clark PAC. © # Friends for Jeff Clark.
+All Rights Reserved.
+Privacy Policy

@@ -1,5 +1,5 @@
-Voter Guide: Lindsey Prather, candidate for NC House District 115
-Candidates for NC House District 115 Democrat Lindsey Prather is running against Republican Pratik Bhakta.
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu Category News News Voter Guide: Lindsey Prather, candidate for NC House District 115 Candidates for NC House District 115 Democrat Lindsey Prather is running against Republican Pratik Bhakta.
 There is no incumbent in this race.
 District 115 covers Buncombe County.
-Get to know the candidates with our NC 2022 Voter Guide.
+Get to know the candidates with our NC 2022 Voter Guide. elijah October 10, 2022 News NC House candidates on COVID policies, Asheville homelessness ASHEVILLE – In a meeting a month away from the election, Republicans and Democrats vying for Buncombe County’s three state House seats disagreed on whether government officials should have shut down businesses during the pandemic, whether homelessness is primarily about… elijah October 9, 2022 News What candidates say about NC teacher pay, lowest in region ASHEVILLE – Facing a statewide teacher shortage, historically low national test scores and a call for a public school strike, the majority of Buncombe County’s General Assembly candidates said they supported raising instructor salaries.
+Democrats and Republicans who responded to… elijah September 5, 2022 Prev 1 2 3 PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

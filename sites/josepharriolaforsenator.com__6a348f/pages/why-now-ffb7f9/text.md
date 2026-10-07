@@ -1,4 +1,6 @@
-Why Now?
+0 Skip to Content Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu Joseph B.D.
+Arriola 2026 ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Open Menu Close Menu ABOUT WHY NOW OUR VISION OUR MISSION COMMITMENT OUR GOVERNMENT IS BROKEN FOCUS ON PROGRESS AND REPRESENTATION PLATFORM FOR THE PEOPLE PHOTO GALLERY CONTACT US Why Now?
 Because Guam needs more than caretakers—it needs change makers.
 I’m a graduate of John F.
 Kennedy High School (Guam) and continued my studies at the University of Hawai‘i at Hilo and Hawai‘i Community College.
@@ -60,8 +62,7 @@ My approach has never changed: be precise, be accountable, execute with discipli
 That standard has never failed me.
 And I have never failed it.
 My motto is simple: Advocating for Practical, Common Sense Legislation — nothing less.
-Please vote for me 2026 General Election
-Si Yu’us Ma’åse.
+Please vote for me 2026 General Election Si Yu’us Ma’åse.
 The Guam Kingfisher, called Sihek in Chamorro, it is restricted to a captive breeding program following its extinction in the wild due primarily to predation by the introduced brown tree snake.
 Why is this significant?
 Like the Sihek, we are losing our culture, our identity, our traditions.

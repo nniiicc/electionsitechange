@@ -1,8 +1,7 @@
-Contribute
-Thank you for your interest in contributing to my campaign.
+Meet David Issues News Volunteer Contribute Contribute Thank you for your interest in contributing to my campaign.
 Except for political parties or affiliated party committees, no person or political committee may make contributions in excess of $1,000 to a candidate for legislative office.
 The primary and general elections are separate elections.
-Checks can be mailed to:
-The Law Office of David S.
-Fabrikant, PA
-5500 Military Trail, Suite 22-244, Jupiter, FL 33458
+Checks can be mailed to: The Law Office of David S.
+Fabrikant, PA 5500 Military Trail, Suite 22-244, Jupiter, FL 33458 Complete your $ 1000 contribution: Select Your Information Choose an amount: $1 $5 $10 $15 $25 $50 $100 $250 $500 $1000 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * I would like to make a financial contribution Please add me to your list of supporters I would like a yard sign I would like to volunteer I would like to canvass Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Voter Information Endorsements Yard Signs Events Photos Contact Committee to Elect David Fabrikant Powered by CampaignPartner.com - Political Websites Home Meet David Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

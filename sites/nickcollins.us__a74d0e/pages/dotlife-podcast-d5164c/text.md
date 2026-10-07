@@ -1,2 +1,6 @@
-Senator Collins speaks to DotLife Podcast about rising housing and energy costs, efforts to expand affordable housing, improve public transit, and address gaps in healthcare.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate DotLife Podcast June 18, 2026 June 18, 2026 Senator Collins speaks to DotLife Podcast about rising housing and energy costs, efforts to expand affordable housing, improve public transit, and address gaps in healthcare.
 He also shares his thoughts on tax policy, support for small businesses, and the evolving needs of Dorchester’s diverse community.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

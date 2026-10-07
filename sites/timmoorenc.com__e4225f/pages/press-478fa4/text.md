@@ -1,39 +1,15 @@
-In The News
-President Donald Trump Endorses Tim Moore for Congress
-Read More >>
-Every Republican District Attorney in NC-14 Has Endorsed Speaker Tim Moore
-Kings Mountain, N.C. — The Moore campaign is pleased to announce that every Republican District Attorney in North Carolina’s 14th congressional district has endorsed Speaker Tim Moore for the U.S.
+Skip to content Press Store DONATE DONATE In The News President Donald Trump Endorses Tim Moore for Congress Read More >> Every Republican District Attorney in NC-14 Has Endorsed Speaker Tim Moore Kings Mountain, N.C. — The Moore campaign is pleased to announce that every Republican District Attorney in North Carolina’s 14th congressional district has endorsed Speaker Tim Moore for the U.S.
 House of Representatives.
-“I am honored to …
-Continue reading “Every Republican District Attorney in NC-14 Has Endorsed Speaker Tim Moore”
-Read More >>
-Tim Moore Announces Congressional Run in NC-14
-Read More >>
-Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
-Congress
-Kings Mountain, N.C. — Today, The Professional Fire Fighters & Paramedics of North Carolina announced their endorsement of Speaker Tim Moore for the U.S.
+“I am honored to … Continue reading “Every Republican District Attorney in NC-14 Has Endorsed Speaker Tim Moore” Read More >> Tim Moore Announces Congressional Run in NC-14 Read More >> Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
+Congress Kings Mountain, N.C. — Today, The Professional Fire Fighters & Paramedics of North Carolina announced their endorsement of Speaker Tim Moore for the U.S.
 House of Representatives.
-“Speaker Moore worked to understand firefighter issues especially presumptive …
-Read More >>
-North Carolina Troopers Association Endorses Tim Moore for U.S.
-Congress
-Kings Mountain, N.C. — Today, The North Carolina Troopers Association announced their endorsement of Speaker Tim Moore for the U.S.
+“Speaker Moore worked to understand firefighter issues especially presumptive … Continue reading “Professional Fire Fighters & Paramedics of North Carolina Endorses Tim Moore for U.S.
+Congress” Read More >> North Carolina Troopers Association Endorses Tim Moore for U.S.
+Congress Kings Mountain, N.C. — Today, The North Carolina Troopers Association announced their endorsement of Speaker Tim Moore for the U.S.
 House of Representatives.
-“Tim Moore has a proven track record of serving the citizens of North …
-Continue reading “North Carolina Troopers Association Endorses Tim Moore for U.S.
-Congress”
-Read More >>
-Speaker Tim Moore Raises $1 Million in First Month of Congressional Campaign
-“The outpouring of financial support …
-Continue reading “Speaker Tim Moore Raises $1 Million in First Month of Congressional Campaign”
-Read More >>
-Speaker Tim Moore Officially Files to Run for Congress in North Carolina’s 14th Congressional District
-Raleigh, N.C. — Today, NC House Speaker Tim Moore officially filed to run for Congress in North Carolina’s 14th congressional district at the North Carolina State Board of Elections in Raleigh, N.C.
-“Today’s filing marks the …
-Read More >>
-Tim Moore Announces Congressional Run in NC-14
-Kings Mountain, NC– Today, North Carolina Speaker of the House Tim Moore officially announced his candidacy for Congress in the 14th Congressional district, covering portions of the southwestern corner of North Carolina.
-Read More >>
-Tim Moore Announces $1.1 Million Media Buy in NC-14 Congressional Run
-Kings Mountain, NC – Less than ten days after officially announcing his candidacy for Congress, NC House Speaker Tim Moore announced the placement of an initial media buy of $1.1 million in the Charlotte media market.
-Read More >>
+“Tim Moore has a proven track record of serving the citizens of North … Continue reading “North Carolina Troopers Association Endorses Tim Moore for U.S.
+Congress” Read More >> Speaker Tim Moore Raises $1 Million in First Month of Congressional Campaign Kings Mountain, N.C. — In just one month since announcing his candidacy, NC House Speaker Tim Moore has raised over $# million for his congressional campaign in North Carolina’s 14th district.
+“The outpouring of financial support … Continue reading “Speaker Tim Moore Raises $1 Million in First Month of Congressional Campaign” Read More >> Speaker Tim Moore Officially Files to Run for Congress in North Carolina’s 14th Congressional District Raleigh, N.C. — Today, NC House Speaker Tim Moore officially filed to run for Congress in North Carolina’s 14th congressional district at the North Carolina State Board of Elections in Raleigh, N.C.
+“Today’s filing marks the … Continue reading “Speaker Tim Moore Officially Files to Run for Congress in North Carolina’s 14th Congressional District” Read More >> Tim Moore Announces Congressional Run in NC-14 Kings Mountain, NC– Today, North Carolina Speaker of the House Tim Moore officially announced his candidacy for Congress in the 14th Congressional district, covering portions of the southwestern corner of North Carolina.
+Read More >> Tim Moore Announces $1.1 Million Media Buy in NC-14 Congressional Run Kings Mountain, NC – Less than ten days after officially announcing his candidacy for Congress, NC House Speaker Tim Moore announced the placement of an initial media buy of $1.1 million in the Charlotte media market.
+Read More >> VOTE Paid for by Friends of Tim Moore Privacy Policy Terms and Conditions

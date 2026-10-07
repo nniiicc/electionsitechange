@@ -1,3 +1,4 @@
-Most civilian federal employees are placed in one of three categories: furloughed, excepted or exempt.
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation A GOVERNMENT SHUTDOWN Q&A FOR FEDERAL EMPLOYEES Most civilian federal employees are placed in one of three categories: furloughed, excepted or exempt.
 Furloughed employees stop working during a shutdown and aren’t paid until the end of the shutdown.
 Excepted employees continue to work, but similarly are not paid until after the shutdown is over.
+Community Event Oct 2, 2025 6 min read The House Page Program For more than 50 years, the Page Program has provided an exclusive opportunity for Georgia’s students between 12 and 18 years old to Community Event Jan 1, 2023 1 min read Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

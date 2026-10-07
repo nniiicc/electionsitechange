@@ -1,16 +1,58 @@
 [
-"http:///",
-"https://facebook.com/johnmcabello",
-"https://johncabello.com/",
-"https://johncabello.com/category/media",
-"https://johncabello.com/contact-2",
-"https://johncabello.com/donate",
-"https://johncabello.com/endorsements",
-"https://johncabello.com/events-2",
-"https://johncabello.com/get-involved",
-"https://johncabello.com/media",
-"https://johncabello.com/media/videos",
-"https://johncabello.com/meet-john",
-"https://johncabello.com/voter-registration",
-"https://twitter.com/johncabello"
+{
+"text": "About",
+"href": "https://johncabello.com/meet-john/"
+},
+{
+"text": "Contact",
+"href": "https://johncabello.com/contact-2/"
+},
+{
+"text": "Donate",
+"href": "https://johncabello.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://johncabello.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://johncabello.com/events-2/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/johnmcabello/"
+},
+{
+"text": "Get Involved",
+"href": "https://johncabello.com/get-involved/"
+},
+{
+"text": "Media",
+"href": "https://johncabello.com/media/"
+},
+{
+"text": "Recent Posts",
+"href": "https://johncabello.com/category/media/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/johncabello"
+},
+{
+"text": "Videos",
+"href": "https://johncabello.com/media/videos/"
+},
+{
+"text": "Voter Info",
+"href": "http://"
+},
+{
+"text": "Voter Registration",
+"href": "https://johncabello.com/voter-registration/"
+},
+{
+"text": "[image: John Cabello]",
+"href": "https://johncabello.com/"
+}
 ]

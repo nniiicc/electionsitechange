@@ -1,4 +1,4 @@
-The state’s share — roughly $126 million — of a national settlement with the social media giant Meta over the harms of social media to teenagers will be used to establish payments for Iowa teens, help the state prosecute consumer protection laws, and put more law enforcement officers in schools, Iowa Attorney General Brenna Bird announced Monday.
+Donate Connect with Brenna News Donate News AG Bird dedicates Iowa’s $126M from Meta settlement September 14, 2026 The Gazette The state’s share — roughly $126 million — of a national settlement with the social media giant Meta over the harms of social media to teenagers will be used to establish payments for Iowa teens, help the state prosecute consumer protection laws, and put more law enforcement officers in schools, Iowa Attorney General Brenna Bird announced Monday.
 During a press conference Monday at the Iowa Capitol, Bird announced her office’s establishment of what she said was the country’s first restitution fund created out of the settlement.
 Iowa was among the 47 states that sued Meta, the parent company of Facebook and Instagram, over teen social media addiction.
 Last month, Meta agreed to pay up to $18 billion and add stronger safety measures for children to its social media sites.
@@ -19,3 +19,4 @@ Harlan School District High School assistant principal and athletic director Ant
 We would hope that as many schools as possible would have a program like that.” When asked whether school resource officers are trained on issues like social media addiction, cyberbullying and online harassment, Bielenberg said the National School Resource Officers Association has basic and advanced classes that cover cyber crimes and technology.
 He said the issues are covered “vaguely,” and that he would welcome more such training opportunities.
 Bird noted her office has active, similar lawsuits against the social media site TikTok and social gaming platform Roblox.
+Read More Here Share: Paid For By Bird For Iowa PRIVACY POLICY · TERMS & CONDITIONS · RESEARCH · INFORMATION

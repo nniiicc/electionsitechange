@@ -1,7 +1,9 @@
 {
  "description": "Help us campaign today for a better tomorrow!",
  "final_url": "https://quickforidaho.com/about",
- "paid_for_by": null,
+ "fingerprint": "a0456f8d0961379d218d1af8b5eb0d2f28d55395",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Quick For Idaho",
  "years_mentioned": [
   "2025"

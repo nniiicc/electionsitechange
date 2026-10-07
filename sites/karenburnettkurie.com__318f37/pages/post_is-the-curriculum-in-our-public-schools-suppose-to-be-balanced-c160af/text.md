@@ -1,7 +1,6 @@
-Is the Curriculum in Our Public Schools Suppose to be Balanced?
-Updated: Oct 22, 2024
-Letter to the Editor:
-Many envision our public schools to be neutral places for our young people to learn.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search Is the Curriculum in Our Public Schools Suppose to be Balanced?
+Karen Burnett-Kurie Apr 1, 2024 3 min read Updated: Oct 22, 2024 Letter to the Editor: Many envision our public schools to be neutral places for our young people to learn.
 To this end we talk about scrutiny of all standards and practices, curriculums, supplementary educational materials in classrooms and libraries, notification requirements, etc.
 And yet we have public charter schools which are not required to abide by most of these standards.
 So what results?
@@ -13,11 +12,9 @@ This is a beginning indicator of the balance, or lack of balance, presented in t
 This is certainly not a neutral starting point.
 Now compare the references themselves.
 How is conservatism described/referenced?
-The curriculum states; "Students do not need to spend very much time with each of the various types of conservatism." Because “The.. consensus about conservatism sought to decrease the size of government... to return to a proper understanding of American Constitutionalism."
-So words like 'consensus', 'proper understanding' and "American Constitutionalism" are used relative to conservatism.
+The curriculum states; "Students do not need to spend very much time with each of the various types of conservatism." Because “The.. consensus about conservatism sought to decrease the size of government... to return to a proper understanding of American Constitutionalism." So words like 'consensus', 'proper understanding' and "American Constitutionalism" are used relative to conservatism.
 How is progressivism described/referenced?
-"Key to the lessons students should come to understand how Progressivism, while intended to bring progress and improvement, was actually a rejection of the American founding, beginning with and especially concerning philosophical and moral principles on which it was based." "These changes in governing have been a challenge to the Constitutional order.... progressivism challenged the very principle on which the order was based ... was rejection of the principles of the Declaration of Independence."
-So words like "rejection", rejection of "moral principles", "challenged principles", and challenged 'order', are used relative to progressivism.
+"Key to the lessons students should come to understand how Progressivism, while intended to bring progress and improvement, was actually a rejection of the American founding, beginning with and especially concerning philosophical and moral principles on which it was based." "These changes in governing have been a challenge to the Constitutional order.... progressivism challenged the very principle on which the order was based ... was rejection of the principles of the Declaration of Independence." So words like "rejection", rejection of "moral principles", "challenged principles", and challenged 'order', are used relative to progressivism.
 This is hardly a balanced presentation of either Conservatism or Progressivism.
 And it isn’t a balanced avenue of inquiry for teaching students how to determine the 'truth' by teaching them critical thinking skills — which is what this charter school says it does.
 This is one small example of the bent of this curriculum.
@@ -37,4 +34,5 @@ This review and feedback will not take place for the public charter school.
 Yet, if a school states it is based on a 'classical education' it should focus on teaching students how to think for themselves.
 This curriculum does not do this -- even though all out facing documents suggest they do.
 All you have to do is review the curriculum and the pedagogy associated with it to determine this.
-Karen Burnett-Kurie
+Karen Burnett-Kurie Education Recent Posts See All NH Better Served by Quality Education & Lower Property Taxes Educational Freedom Accounts Part 2: Education Freedom Accounts- Part 1 Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

@@ -1,41 +1,218 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20220616T230000Z%2F20220617T010000Z&location=619+Dunlop+Lane%2C+Clarksville%2C+TN%2C+37043%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knock+for+Ronnie+Glynn&dates=20240803T150000Z%2F20240803T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+for+Dems&dates=20220908T220000Z%2F20221002T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Night+Celebration+&dates=20220805T000000Z%2F20220805T030000Z&location=290+Alfred+Thun+Road%2C+Clarksville%2C+TN%2C+37040%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+Rep.+Bob+Freeman+in+support+of+Rep.+Ronnie+Glynn+on+Thursday%2C+June+25th&dates=20260625T223000Z%2F20260625T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+us+for+the+Glynn+Fish+Fry+on+June+27th%21&dates=20260627T150000Z%2F20260627T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Kickoff&dates=20260530T150000Z%2F20260530T180000Z&location=2197+Madison+Street%2C+Clarksville%2C+TN%2C+37043%2C+United+States",
-"http://maps.google.com/?q=2197+Madison+Street+Clarksville%2C+TN%2C+37043+United+States",
-"http://maps.google.com/?q=290+Alfred+Thun+Road+Clarksville%2C+TN%2C+37040+United+States",
-"http://maps.google.com/?q=619+Dunlop+Lane+Clarksville%2C+TN%2C+37043+United+States",
-"https://facebook.com/Ronniefor67",
-"https://instagram.com/ronniefor67?hl=en",
-"https://mobilize.us/ronnieglynnfordistrict67/event/956213",
-"https://ronnieglynnforstaterep.com/",
-"https://ronnieglynnforstaterep.com/2026-legislative-priorities",
-"https://ronnieglynnforstaterep.com/cart",
-"https://ronnieglynnforstaterep.com/events",
-"https://ronnieglynnforstaterep.com/events/campaignkickoff",
-"https://ronnieglynnforstaterep.com/events/campaignkickoff?format=ical",
-"https://ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn",
-"https://ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn?format=ical",
-"https://ronnieglynnforstaterep.com/events/door-knocking-for-dems",
-"https://ronnieglynnforstaterep.com/events/door-knocking-for-dems?format=ical",
-"https://ronnieglynnforstaterep.com/events/election-night-celebration",
-"https://ronnieglynnforstaterep.com/events/election-night-celebration?format=ical",
-"https://ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th",
-"https://ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th?format=ical",
-"https://ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th",
-"https://ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th?format=ical",
-"https://ronnieglynnforstaterep.com/events/volunteer-kickoff",
-"https://ronnieglynnforstaterep.com/events/volunteer-kickoff?format=ical",
-"https://ronnieglynnforstaterep.com/issues",
-"https://ronnieglynnforstaterep.com/pressreleases",
-"https://ronnieglynnforstaterep.com/volunteer",
-"https://ronnieglynnforstaterep.com/what-voters-need-to-know",
-"https://ronnieglynnforstaterep.com/yard-sign-request",
-"https://secure.actblue.com/donate/2026glynnfishfry",
-"https://secure.actblue.com/donate/freemanjune6",
-"https://secure.actblue.com/donate/ronnieforstaterep"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2197+madison+street+clarksville%2C+tn%2C+37043+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=290+alfred+thun+road+clarksville%2C+tn%2C+37040+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=619+dunlop+lane+clarksville%2C+tn%2C+37043+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ronnieglynnforstaterep.com/cart"
+},
+{
+"text": "2026 Legislative Priorities",
+"href": "https://www.ronnieglynnforstaterep.com/2026-legislative-priorities"
+},
+{
+"text": "Campaign Kickoff",
+"href": "https://www.ronnieglynnforstaterep.com/events/campaignkickoff"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ronnieforstaterep"
+},
+{
+"text": "Door Knock for Ronnie Glynn",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn"
+},
+{
+"text": "Door Knocking for Dems",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knocking-for-dems"
+},
+{
+"text": "Election Night Celebration",
+"href": "https://www.ronnieglynnforstaterep.com/events/election-night-celebration"
+},
+{
+"text": "Events",
+"href": "https://www.ronnieglynnforstaterep.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Campaign+Kickoff&dates=20220616T230000Z%2F20220617T010000Z&location=619+Dunlop+Lane%2C+Clarksville%2C+TN%2C+37043%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knock+for+Ronnie+Glynn&dates=20240803T150000Z%2F20240803T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+for+Dems&dates=20220908T220000Z%2F20221002T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Night+Celebration+&dates=20220805T000000Z%2F20220805T030000Z&location=290+Alfred+Thun+Road%2C+Clarksville%2C+TN%2C+37040%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+Rep.+Bob+Freeman+in+support+of+Rep.+Ronnie+Glynn+on+Thursday%2C+June+25th&dates=20260625T223000Z%2F20260625T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+us+for+the+Glynn+Fish+Fry+on+June+27th%21&dates=20260627T150000Z%2F20260627T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Kickoff&dates=20260530T150000Z%2F20260530T180000Z&location=2197+Madison+Street%2C+Clarksville%2C+TN%2C+37043%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/campaignkickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knocking-for-dems?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/election-night-celebration?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/volunteer-kickoff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.ronnieglynnforstaterep.com/issues"
+},
+{
+"text": "Join Rep. Bob Freeman in support of Rep. Ronnie Glynn on Thursday, June 25th",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th"
+},
+{
+"text": "Join us for the Glynn Fish Fry on June 27th!",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th"
+},
+{
+"text": "Press Releases",
+"href": "https://www.ronnieglynnforstaterep.com/pressreleases"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/campaignkickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knocking-for-dems"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/election-night-celebration"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th"
+},
+{
+"text": "View Event →",
+"href": "https://www.ronnieglynnforstaterep.com/events/volunteer-kickoff"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ronnieglynnforstaterep.com/volunteer"
+},
+{
+"text": "Volunteer Kickoff",
+"href": "https://www.ronnieglynnforstaterep.com/events/volunteer-kickoff"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.ronnieglynnforstaterep.com/what-voters-need-to-know"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.ronnieglynnforstaterep.com/yard-sign-request"
+},
+{
+"text": "[image: Campaign Kickoff]",
+"href": "https://www.ronnieglynnforstaterep.com/events/campaignkickoff"
+},
+{
+"text": "[image: Door Knock for Ronnie Glynn]",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn"
+},
+{
+"text": "[image: Door Knocking for Dems]",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knocking-for-dems"
+},
+{
+"text": "[image: Election Night Celebration ]",
+"href": "https://www.ronnieglynnforstaterep.com/events/election-night-celebration"
+},
+{
+"text": "[image: Join Rep. Bob Freeman in support of Rep. Ronnie Glynn on Thursday, June 25th]",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-rep-bob-freeman-in-support-of-rep-ronnie-glynn-on-thursday-june-25th"
+},
+{
+"text": "[image: Join us for the Glynn Fish Fry on June 27th!]",
+"href": "https://www.ronnieglynnforstaterep.com/events/join-us-for-the-glynn-fish-fry-on-june-27th"
+},
+{
+"text": "[image: Ronnie Glynn for State Rep]",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "[image: Volunteer Kickoff]",
+"href": "https://www.ronnieglynnforstaterep.com/events/volunteer-kickoff"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ronniefor67"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronniefor67/?hl=en"
+},
+{
+"text": "https://secure.actblue.com/donate/2026glynnfishfry",
+"href": "https://secure.actblue.com/donate/2026glynnfishfry"
+},
+{
+"text": "https://secure.actblue.com/donate/freemanjune6",
+"href": "https://secure.actblue.com/donate/freemanjune6"
+},
+{
+"text": "https://www.mobilize.us/ronnieglynnfordistrict67/event/956213/",
+"href": "https://www.mobilize.us/ronnieglynnfordistrict67/event/956213/"
+}
 ]

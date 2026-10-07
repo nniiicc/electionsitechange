@@ -1,7 +1,9 @@
 {
  "description": "District Map",
  "final_url": "https://elaineforgeorgia.com/district-map",
- "paid_for_by": null,
+ "fingerprint": "0ddd073e61dc453959545abe8de32b721d19b6a3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District Map",
  "years_mentioned": []
 }

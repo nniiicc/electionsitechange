@@ -1,5 +1,4 @@
--
-Valerie believes leadership is about bringing people together, finding common ground, and getting results.
+Donate Yard Signs Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop Media Valerie's Bio Valerie believes leadership is about bringing people together, finding common ground, and getting results.
 A third-generation Allegheny Countian, Valerie grew up in western Pennsylvania, where her family taught her the importance of hard work, education, personal responsibility, and serving your community.
 Those values have shaped every chapter of her life.
 After graduating from college in 1989, Valerie began her career working for U.S.
@@ -16,4 +15,4 @@ Valerie isn’t in public service to be part of the political establishment.
 She’s there to make a difference.
 From western Pennsylvania to Harrisburg, Valerie has built her life around hard work, service, entrepreneurship, and community.
 She remains committed to fighting for a stronger Pennsylvania and delivering results for the people and communities she is honored to represent.
-Professional Images
+Professional Images Home About Media In The News Get Involved Donate Request a Yard Sign or Volunteer © # Paid for by Gaydos for PA Privacy Policy Terms of Service Foundational design crafted with True Fit Marketing Valerie Gaydos Translate » < < < < < < < < < < < Home Donate Online About Media Priorities & Accomplishments In The News Endorsements Vote Get Involved Shop

@@ -1,36 +1,3 @@
-“That which is done locally, is done better.”
-– J.
-Spillane
-ECONOMY
-- Fight Taxes and Fees to Preserve the NH Advantage
-- Common Sense Cost Cutting
-- Foster Private Sector Job Growth
-- Remove Over-Regulated Barriers to Small Business
-- Oppose Taxpayer Funded Benefits for Illegal Aliens
-EDUCATION
-- Oppose Common Core
-- Promote Parental Choice
-- Encourage Charter Schools
-- Preserve Local Control
-ENVIRONMENT
-- As a life-time hunter and current Quality Deer Management Association (QDMA) Board Member, I support and advocate for protection of our natural resources while preserving access for all recreational land use, including hunting
-- Fully Support Private Property Rights
-- Support Private Sector and Homeowner Alternative Energy and Oppose Government Intrusion and Regulation
-SECOND AMENDMENT
-- Preserve and Strengthen Second Amendment Rights
-- Support Lifetime Concealed Carry Permitting
-- Reduce Multi-Stage Bureaucracy Between State and Federal Government
-HEALTH CARE
-- Repeal State Implementations of Obamacare
-- Encourage Access to Affordable Private Insurance Without a Mandate
-- Fight the Expansion of Medicaid and Medical Welfare
-STATE GOVERNMENT
-- Increase Transparency of Bills and Votes
-- Responsible Balanced Budget
-- Oppose Unfunded State Mandates
-STATES RIGHTS
-- Oppose All Unfunded Federal Mandates
-- Discourage Acceptance of Federal Funding that comes with “Hooks”
-- Preserve New Hampshire’s Sovereign Rights and Challenge Federal Dictates
-CITIZENS COUNT
-James took the Citizens Count Survey
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page On the Issues “That which is done locally, is done better.” – J.
+Spillane ECONOMY Fight Taxes and Fees to Preserve the NH Advantage Common Sense Cost Cutting Foster Private Sector Job Growth Remove Over-Regulated Barriers to Small Business Oppose Taxpayer Funded Benefits for Illegal Aliens EDUCATION Oppose Common Core Promote Parental Choice Encourage Charter Schools Preserve Local Control ENVIRONMENT As a life-time hunter and current Quality Deer Management Association (QDMA) Board Member, I support and advocate for protection of our natural resources while preserving access for all recreational land use, including hunting Fully Support Private Property Rights Support Private Sector and Homeowner Alternative Energy and Oppose Government Intrusion and Regulation SECOND AMENDMENT Preserve and Strengthen Second Amendment Rights Support Lifetime Concealed Carry Permitting Reduce Multi-Stage Bureaucracy Between State and Federal Government HEALTH CARE Repeal State Implementations of Obamacare Encourage Access to Affordable Private Insurance Without a Mandate Fight the Expansion of Medicaid and Medical Welfare STATE GOVERNMENT Increase Transparency of Bills and Votes Responsible Balanced Budget Oppose Unfunded State Mandates STATES RIGHTS Oppose All Unfunded Federal Mandates Discourage Acceptance of Federal Funding that comes with “Hooks” Preserve New Hampshire’s Sovereign Rights and Challenge Federal Dictates CITIZENS COUNT James took the Citizens Count Survey SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

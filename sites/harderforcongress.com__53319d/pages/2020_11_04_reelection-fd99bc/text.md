@@ -1,6 +1,6 @@
-Modesto, CA – Congressman Josh Harder released the following statement after the Associated Press called the race in his favor.
+Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter DONATE Harder Statement on Reelection November 4, 2020 Modesto, CA – Congressman Josh Harder released the following statement after the Associated Press called the race in his favor.
 “It has been the honor of my life to serve my home town in Congress the past two years – and it is just as much of an honor to receive the support of our community once again.
 “We proved that we can get more done by finding common ground than fighting each other.
 I promise to build on the work we got done over the past two years to bring more water funding and good-paying jobs to the Valley and cutting the costs of health care while protecting everyone’s access.
 “Once again, thank you to the people of the Central Valley for putting your faith in me.
-I won’t let you down.”
+I won’t let you down.” Josh Harder for Congress, PO Box 4220, Manteca, CA 95337 Phone: (209) 299-7487 volunteer donate Campaign Media Center is available here Privacy Policy PAID FOR BY JOSH HARDER FOR CONGRESS Built by Veracity Media Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Facebook-f Twitter Chip in to our campaign! $5 $25 $50 $100 $200 Chip In Continue to Website →

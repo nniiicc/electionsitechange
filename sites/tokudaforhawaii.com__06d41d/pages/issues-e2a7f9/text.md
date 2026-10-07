@@ -1,4 +1,4 @@
-Our communities need improved access to healthcare and mental health services.
+Skip to content Toggle Navigation MEET JILL ISSUES VOLUNTEER REQUEST A SIGN DONATE JILL ON THE ISSUES JILL ON THE ISSUES aveda_3skt1g 2026-09-11T08:42:13-10:00 ACCESS TO QUALITY HEALTH AND MENTAL HEALTH SERVICES Our communities need improved access to healthcare and mental health services.
 Your zip code or the size of your paycheck should not dictate what services you are able to access or the quality of care you receive.
 Across Hawaiʻi, there is a need for enhanced healthcare and mental health services.
 In our rural and neighbor island communities, those needs are even more urgent.
@@ -6,10 +6,10 @@ In Congress, I’ve worked collaboratively with colleagues from both sides of th
 This initiative is committed to creating solutions to improve healthcare access in underserved areas throughout the country.
 Traveling across the district, I see time and again the difficulties faced by residents, especially in areas where it may take more than an hour to reach a healthcare facility.
 Our efforts are focused on areas like expanding the capacity of rural hospitals and increasing the number of healthcare professionals through innovative approaches, such as mobile health clinics and enhanced telehealth services.
-In addition, I was proud to stand with many of my colleagues to sponsor the Medicare for All Act of 2023.
+In addition, I was proud to stand with many of my colleagues to sponsor the Medicare for All Act of 2023 .
 Getting sick or injured should never be the reason why someone goes into crippling debt.
 Healthcare is a human right, and I will continue to fight for this critical legislation until equitable healthcare is a reality for all.
-I’m a working mom raising two teenage sons, and I feel the same urgency so many Hawaiʻi families do.
+AFFORDABILITY I’m a working mom raising two teenage sons, and I feel the same urgency so many Hawaiʻi families do.
 We need relief from the rising cost of living, and our children deserve the chance to build their futures here at home.
 Hawaiʻi families are getting squeezed from every direction.
 I’m taking on Trump’s costly tariffs and fighting to suspend the federal gas tax to save you money at the pump.
@@ -26,7 +26,7 @@ My commitment to affordability isn’t just a campaign promise, it’s reflected
 When politicians cozy up to powerful corporate interests, working families pay the price through higher costs, less competition, and policies that put profits ahead of people.
 That’s why I don’t take a dime of corporate PAC money.
 I answer to the people of Hawaiʻi, and I’ll always put you first.
-Aggressive action needs to be taken to address climate change impacts and increase renewable energy production.
+COMBATING CLIMATE CHANGE AND PROTECTING OUR ENVIRONMENT Aggressive action needs to be taken to address climate change impacts and increase renewable energy production.
 Hawaiʻi is in a climate crisis.
 Accelerated sea-level rise is threatening our infrastructure, with roads and homes increasingly at risk of oceanic erosion.
 We’re witnessing continued extreme weather patterns and rising ocean temperatures that are severely impacting our coral reefs and marine life.
@@ -37,7 +37,7 @@ Environmental policies can and should be drivers of economic prosperity.
 The significant military presence in our islands also presents opportunities through the Biden Administration’s initiative for the Department of Defense to lead in renewable energy and reduce carbon emissions.
 This creates a chance for local partnership and innovation.
 It’s essential to preserve the beauty and sustainability of our islands for both our keiki and our economy.
-I am dedicated to fortifying Hawaiʻi’s disaster preparedness, ensuring our communities are resilient, well-equipped, and ready to face the challenges posed by climate change.
+DISASTER PREPAREDNESS I am dedicated to fortifying Hawaiʻi’s disaster preparedness, ensuring our communities are resilient, well-equipped, and ready to face the challenges posed by climate change.
 The recent West Maui fires have underscored the critical importance of robust disaster preparedness in Hawaiʻi.
 As climate change continues to exacerbate extreme weather conditions, including heightened fire risks, it’s imperative that our communities are equipped to respond effectively to these emergencies.
 My focus is on enhancing our state’s readiness through comprehensive planning, resource allocation, and community education.
@@ -48,7 +48,7 @@ I advocate for programs that educate residents about preventive measures, emerge
 Strengthening community resilience involves a collective effort, where every individual is aware and prepared.
 In light of the devastating impact of the fires on Maui, I am dedicated to ensuring that Hawaiʻi is not only ready to respond to immediate threats but also equipped to mitigate the long-term risks posed by climate change.
 Our approach to disaster preparedness must be as dynamic and resilient as the challenges we face, ensuring the safety and well-being of our residents.
-Funding quality public education for students of all ages is one of the most valuable investments for the future of Hawai‘i because a well-educated population is the foundation of a thriving community.
+EDUCATION Funding quality public education for students of all ages is one of the most valuable investments for the future of Hawai‘i because a well-educated population is the foundation of a thriving community.
 Our families deserve universal access to free, quality public education for children of all ages.
 This encompasses early childhood and preschool education, community college, four-year universities, and post-secondary workforce training and certification programs.
 Investing in education from an early age is crucial.
@@ -58,7 +58,7 @@ These initiatives are key to ensuring that our children can envision and build t
 To this end, providing universal access to free community college and specialized workforce training programs is vital.
 These educational pathways are instrumental in shaping tomorrow’s workforce and bolstering our economy.
 Through these efforts, we can ensure that Hawaiʻiremains a place of opportunity and innovation for all its residents.
-In 2022, over $1.2 million in dark money and negative campaign ads poured into our islands in an attempt to buy this seat.
+ELECTION AND CAMPAIGN FINANCE REFORM In 2022, over $1.2 million in dark money and negative campaign ads poured into our islands in an attempt to buy this seat.
 This isn’t what democracy should be about.
 Elections must empower people, not money.
 To demonstrate my commitment to this principle, I have refused to accept corporate PAC money from day one of my campaign.
@@ -67,7 +67,7 @@ I actively support crucial campaign finance reforms at the federal level, includ
 These are comprehensive pieces of legislation that not only ensure elected officials prioritize the public interest, but they also target everything from anti-corruption to voting reforms designed to enhance access and curb the overpowering influence of big money in politics.
 My stance is clear: democracy must prioritize every voice equally and protect the electorate’s power from being eclipsed by special interests and deep pockets.
 This fight for campaign finance reform is more than a policy position; it’s a commitment to the very heart of democracy, ensuring our electoral system represents and serves every citizen fairly.
-Securing every available federal dollar for Hawai‘i is a top priority for me.
+FIGHTING TO BRING FEDERAL FUNDS HOME TO HAWAIʻI Securing every available federal dollar for Hawai‘i is a top priority for me.
 In Congres, I work hard every day to ensure Hawai‘i receives its fair share of federal support.
 This has never been more important than in the wake of the Maui fires.
 Working alongside county, state, and federal government leaders, we’ve worked hard to maximize these funds to benefit our families, individuals, businesses, and communities.
@@ -75,12 +75,12 @@ It’s crucial that we capitalize on every federal opportunity, especially in ar
 These funds not only support crucial nutrition programs but also have the potential to boost our local agriculture, encouraging the purchase of local produce.
 I am committed to continuing to explore every avenue to secure federal funds that can make a real difference for families striving to thrive in Hawai‘i.
 This effort is more than just bringing money home; it’s about ensuring that every dollar is used effectively to strengthen and support our communities.
-The need for housing our local families can afford is more urgent than ever.
+HOUSING AND LAND The need for housing our local families can afford is more urgent than ever.
 That’s why I’m leading the fight to stop outside investors from buying up our homes and farmland and pricing local families out.
 In Congress, I co-led the Stop Wall Street Landlords Act and introduced the Farmland for Farmers Act to help keep our homes and land in the hands of the people and communities who call these islands home.
 But we also need to build and preserve more housing people can actually afford.
 I’m working to bring home federal resources to expand affordable housing for seniors and essential workers, help families displaced by natural disasters, and work with the military to meet more of its own housing needs and ease pressure on our local housing market.
-How many lives do we have to lose before Republicans in Congress act on gun reform?
+PUBLIC SAFETY AND GUN REFORM How many lives do we have to lose before Republicans in Congress act on gun reform?
 As a mother, the epidemic of gun violence in our country deeply affects me.
 It’s heartbreaking and unacceptable that our children aren’t safe in schools, and that ordinary activities like grocery shopping, attending church, or going to work have become dangerous due to rampant gun violence.
 The time to end this violence is now.
@@ -90,10 +90,21 @@ We also mandated the immediate surrender of firearms and ammunition from individ
 These are all initiatives I support on the federal level.
 My commitment to fighting for safer communities through effective and innovative gun reform legislation remains unwavering.
 We must take decisive action to ensure public safety and prevent further tragedies caused by gun violence.
-I’m committed to ensuring that our girls do not grow up with fewer freedoms than their mothers and grandmothers had, particularly in terms of their fundamental right to make their own health decisions.
+REPRODUCTIVE RIGHTS I’m committed to ensuring that our girls do not grow up with fewer freedoms than their mothers and grandmothers had, particularly in terms of their fundamental right to make their own health decisions.
 The Supreme Court’s decision to overturn Roe v.
 Wade remains one of the biggest threats to women across our country.
 Reproductive decisions are deeply personal and should remain in the hands of women, not dictated by politicians.
 In my first term in Congress, I continued that vow and opposed all efforts by the House Republican majority to further restrict women’s healthcare, including by limiting access to mifepristone.
 I also cosponsored The Women’s Health Protection Act which would codify the right to abortion care and the Right to Contraception Act which prevents federal, state, and local government entities from restricting access to or inhibiting the sale of contraceptives.
 Everyone should have access to the reproductive healthcare they need, and I will keep fighting until every person has the freedom to make decisions about their own body, life, and future, without interference from politicians.
+Join the Campaign Please enable JavaScript in your browser to complete this form.
+Opt-in Phone Layout Email * Phone Zip Code Opt-in I agree to opt-in.
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Tokuda for Hawaii at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy: https://www.tokudaforhawaii.com/privacy-policy/.
+Submit DONATE PO Box 792, Kāneʻohe, Hawaiʻi 96744 | info@tokudaforhawaii.com PAID FOR BY TOKUDA FOR HAWAIʻI Privacy Policy © Page load link MEET JILL ISSUES VOLUNTEER REQUEST A SIGN DONATE Go to Top

@@ -1,6 +1,4 @@
-Priorities
-Fighting for working people, not Washington insiders
-Iowans are struggling to make ends meet, paying too much for what we need just to get by.
+Skip to content Christina Bohannan 2026 Meet Christina Priorities News Volunteer Media Kit Donate Priorities Fighting for working people, not Washington insiders Lowering Costs For Iowans Iowans are struggling to make ends meet, paying too much for what we need just to get by.
 Utility bills are increasing at the highest rate in years; the average Iowan is paying thousands more a year in rent, mortgage payments, and other housing costs compared to five years ago; health insurance premiums and prescription prices continue to skyrocket; and the cost of groceries and everyday goods keeps rising.
 Mariannette Miller-Meeks is making things worse because she puts her special interest and corporate donors ahead of us.
 She makes sure that they profit, and we pay for it.
@@ -18,15 +16,7 @@ In fact, she voted against capping the price of insulin on the same day that she
 Miller-Meeks sold us out.
 She is for the corporations and Washington special interests, not for us.
 Tackling the high cost of living and lowering prices will be my top priority in Congress.
-I’ll fight to lower costs by:
-- Exercising Congress’s power to end the disastrous tariffs that are one of the biggest tax increases in American history and have left Iowans to pay thousands per year in higher costs
-- Prohibiting hedge funds and private investors from buying up Iowa’s family homes and land and artificially raising rents
-- Building and rehabilitating more housing to make it affordable for every Iowan to find a safe place to live
-- Lowering prescription drug prices by allowing Medicare to negotiate for lower prices on more lifesaving drugs and capping insulin costs at $35 per month for everyone
-- Cracking down on utility monopolies and expanding Iowa’s clean energy economy to lower energy bills
-- Cracking down on corporate price gougers and their corrupt anti-competitive practices that are jacking up costs on groceries, everyday goods, and farming inputs like fertilizer and seed
-- Growing Iowa’s economy to increase jobs and wages while continuing to invest in organized labor and union protected man hours
-I am running for Congress because I believe that if America stands for anything, it is that every person who works hard should have the freedom to reach their own potential and shape their own destiny.
+I’ll fight to lower costs by: Exercising Congress’s power to end the disastrous tariffs that are one of the biggest tax increases in American history and have left Iowans to pay thousands per year in higher costs Prohibiting hedge funds and private investors from buying up Iowa’s family homes and land and artificially raising rents Building and rehabilitating more housing to make it affordable for every Iowan to find a safe place to live Lowering prescription drug prices by allowing Medicare to negotiate for lower prices on more lifesaving drugs and capping insulin costs at $35 per month for everyone Cracking down on utility monopolies and expanding Iowa’s clean energy economy to lower energy bills Cracking down on corporate price gougers and their corrupt anti-competitive practices that are jacking up costs on groceries, everyday goods, and farming inputs like fertilizer and seed Growing Iowa’s economy to increase jobs and wages while continuing to invest in organized labor and union protected man hours Restoring Faith in our Government I am running for Congress because I believe that if America stands for anything, it is that every person who works hard should have the freedom to reach their own potential and shape their own destiny.
 I believe in our founding fathers’ emphatic rejection of a king and their commitment to protecting individual freedom through the rule of law.
 And I believe in a Constitution that does not concentrate power in the wealthy and well-connected, but divides power among us equally to elect representatives of our choosing to a body called the United States Congress.
 After a 26-year career at the University of Iowa law school teaching Iowa's young people about the U.S.
@@ -60,21 +50,8 @@ Over the past 15 years, more than 350 outgoing members of Congress have become l
 And to protect themselves from scrutiny, they insist on regulating themselves, writing their own rules full of loopholes, and restricting investigations into wrongdoing.
 We’ve had enough.
 We must put a stop to this endless cycle by passing tough ethics reform that will force our elected leaders to fight on behalf of their constituents rather than the special interests and donors they currently serve.
-In Congress, I will fight to:
-- Ban the trading of stocks by all Members of Congress, Executive Branch Members, Supreme Court Justices, their spouses, and staff – including requiring divestment of currently-owned stocks
-- Pass a constitutional amendment to reverse the Citizens United decision and block unlimited corporate and billionaire spending on campaigns
-- Institute term limits and age caps
-- Ban personal use of Congressional office budgets
-- Create a truly independent Congressional Ethics Agency with the power to investigate members for wrongdoing, so members of Congress no longer get to regulate themselves
-- Ban pay to all Members of Congress, Executive Branch Members, and their staff during shutdowns, with all such income used to pay down the national debt
-- Permanently ban all Members of Congress, their families, and their staff from becoming lobbyists, including retroactively
-- Ban family members from being paid by congressional members’ campaigns or official offices
-- Ban Members of Congress from using taxpayer dollars for first-class and business-class air travel
-- Ban the abuse of leadership PACs as a loophole to personal spending
-- Institute a Code of Ethics for Supreme Court Justices
-- Expand Iowans' voice and fight extremism in both parties by passing the Let America Vote Act to allow the 33% of Iowans who are independents to participate in primaries
-And this is just the beginning.
-I have seen first-hand what our broken health care system does to the middle class.
+In Congress, I will fight to: Ban the trading of stocks by all Members of Congress, Executive Branch Members, Supreme Court Justices, their spouses, and staff – including requiring divestment of currently-owned stocks Pass a constitutional amendment to reverse the Citizens United decision and block unlimited corporate and billionaire spending on campaigns Institute term limits and age caps Ban personal use of Congressional office budgets Create a truly independent Congressional Ethics Agency with the power to investigate members for wrongdoing, so members of Congress no longer get to regulate themselves Ban pay to all Members of Congress, Executive Branch Members, and their staff during shutdowns, with all such income used to pay down the national debt Permanently ban all Members of Congress, their families, and their staff from becoming lobbyists, including retroactively Ban family members from being paid by congressional members’ campaigns or official offices Ban Members of Congress from using taxpayer dollars for first-class and business-class air travel Ban the abuse of leadership PACs as a loophole to personal spending Institute a Code of Ethics for Supreme Court Justices Expand Iowans' voice and fight extremism in both parties by passing the Let America Vote Act to allow the 33% of Iowans who are independents to participate in primaries And this is just the beginning.
+Fixing our Broken Health Care System I have seen first-hand what our broken health care system does to the middle class.
 My dad worked in construction his whole life, but when he got sick, the insurance company cancelled his insurance.
 He paid premiums for years, but when he got too expensive for the insurance company, they just kicked him out.
 And once he had been diagnosed with a pre-existing condition, he couldn’t go out and get other insurance.
@@ -102,19 +79,7 @@ In our rural communities, sometimes there is only one choice.
 That has to change.
 With Medicare as a choice, everyone will have a guaranteed affordable option.
 Large corporate health care companies such as Wellmark or UnitedHealth will have to compete with a reasonably-priced option and can no longer price-gouge Iowans – which will bring down premiums for everyone through greater competition.
-In Congress, I will fight to:
-- Immediately reverse the Medicaid cuts that will kick more than 100,000 Iowans off their health care and close rural hospitals and nursing homes
-- Immediately extend the ACA tax credits fully, to lower premiums for thousands of Iowans and allow time for real health care reform
-- Allow Iowans to buy into Medicare at any age
-- Cap insulin costs at $35 per month for all Americans, as well as a cap on epi pens and inhalers at $35
-- Expand the number of drugs for which Medicare can negotiate lower prices and extend those lower negotiated prices to Iowans on private insurance
-- Hold drug companies accountable for price gouging by imposing tougher penalties for raising prices faster than inflation
-- Make prescriptions available as lower-cost generics sooner
-- Expand Medicare to cover vision, dental, and hearing care
-- Expand Medicare to cover home health costs for family caregivers
-- Invest in more mental health care, where Iowa is severely lacking and ranks near the bottom in the country
-- Recruit and retain more doctors and nurses in Iowa, especially in rural areas, by boosting training programs and incentivizing health care providers to work in rural communities
-Neither of my parents graduated from high school, and I have never seen two people work harder to provide for their family.
+In Congress, I will fight to: Immediately reverse the Medicaid cuts that will kick more than 100,000 Iowans off their health care and close rural hospitals and nursing homes Immediately extend the ACA tax credits fully, to lower premiums for thousands of Iowans and allow time for real health care reform Allow Iowans to buy into Medicare at any age Cap insulin costs at $35 per month for all Americans, as well as a cap on epi pens and inhalers at $35 Expand the number of drugs for which Medicare can negotiate lower prices and extend those lower negotiated prices to Iowans on private insurance Hold drug companies accountable for price gouging by imposing tougher penalties for raising prices faster than inflation Make prescriptions available as lower-cost generics sooner Expand Medicare to cover vision, dental, and hearing care Expand Medicare to cover home health costs for family caregivers Invest in more mental health care, where Iowa is severely lacking and ranks near the bottom in the country Recruit and retain more doctors and nurses in Iowa, especially in rural areas, by boosting training programs and incentivizing health care providers to work in rural communities A World-Class Education Right Here in Iowa Neither of my parents graduated from high school, and I have never seen two people work harder to provide for their family.
 But when my dad got sick and his health insurance was canceled, my family lost everything.
 I owe my life – every opportunity I’ve ever had – to public schools and teachers.
 It’s because of public education that I got a fair shot, and I was able to work my way through school to become the first in my family to graduate from college.
@@ -132,14 +97,7 @@ She has verbally attacked teachers in congressional hearings and has voted for a
 I believe our state and country should recommit to making education a priority, with a special focus on rural and small-community schools that face unique challenges.
 This focus on education is crucial to ensuring that our children will thrive, our economy will grow, and our nation will flourish.
 I support a comprehensive and historic national investment in education at every level.
-In Congress, I will fight to:
-- Make Iowa number one in public education again
-- Reinvest in public education at every level: pre-K and K-12 schools, community colleges and universities, and skills training and apprenticeships
-- Guarantee every child access to a high-quality education by pushing for a substantial national investment in public education and school infrastructure, with a special focus on rural and small-town schools
-- Expand Career and Technical Education (CTE) so that students can find good-paying jobs in the trades or manufacturing
-- Adapt education to ensure an outstanding traditional education as well as training to thrive in an era of technology and AI
-- Ensure every Iowa child has access to school lunch and summer lunch so that every child can eat, and every child can learn
-As the granddaughter of family farmers, I am deeply concerned about the future of Iowa’s family farms and agricultural economy.
+In Congress, I will fight to: Make Iowa number one in public education again Reinvest in public education at every level: pre-K and K-12 schools, community colleges and universities, and skills training and apprenticeships Guarantee every child access to a high-quality education by pushing for a substantial national investment in public education and school infrastructure, with a special focus on rural and small-town schools Expand Career and Technical Education (CTE) so that students can find good-paying jobs in the trades or manufacturing Adapt education to ensure an outstanding traditional education as well as training to thrive in an era of technology and AI Ensure every Iowa child has access to school lunch and summer lunch so that every child can eat, and every child can learn Protecting Family Farms and Iowa’s Natural Resources As the granddaughter of family farmers, I am deeply concerned about the future of Iowa’s family farms and agricultural economy.
 Iowa has lost 30,000 family farms because giant companies and their lobbyists are crowding family farmers out.
 The shift from community-oriented family farms to out-of-state corporate ownership – and putting profits over people – has been devastating to Iowa’s farming heritage, our local economy, and our rural communities.
 Iowa is one of only a few states whose economy has been shrinking over the past couple of years, driven largely by a decline in agriculture.
@@ -175,16 +133,7 @@ She voted against monitoring of PFAS “forever” chemicals in Iowa waters.
 She has taken more than $200,000 from the oil and gas industry, and then voted against holding big oil companies accountable for price gouging and unfair practices.
 She gutted Iowa’s clean energy expansion, which cut hundreds of good-paying jobs and increased our utility bills.
 Iowa will never be able to support our family farms, grow our agricultural economy, clean up our water, or take action on climate change so long as Miller-Meeks is our representative in Washington DC.
-In Congress, I will fight to:
-- Reverse chaotic tariffs and trade wars, and actively expand markets for Iowa farmers
-- Crack down on price gouging and anti-competitive practices in the agricultural industry to reduce costs of seed, fertilizer, meat and grain processing, and other costs
-- Pass a Farm Bill that provides fair crop insurance rates to protect against extreme weather
-- Invest in Iowa’s clean energy economy, and make America more energy-independent with lower costs
-- Take action to reduce PFAS and other chemicals in our water
-- Increase resources and incentives for farmers to boost buffer zones surrounding waterways to block pollutants
-- Increase resources and incentives for farmers to grow cover crops that reduce runoff and sequester carbon
-- Ensure the next generation of family farmers can thrive and continue our farming tradition
-When I was growing up, both of my grandmothers lived with my family, and I have always believed our seniors are precious members of our families and communities.
+In Congress, I will fight to: Reverse chaotic tariffs and trade wars, and actively expand markets for Iowa farmers Crack down on price gouging and anti-competitive practices in the agricultural industry to reduce costs of seed, fertilizer, meat and grain processing, and other costs Pass a Farm Bill that provides fair crop insurance rates to protect against extreme weather Invest in Iowa’s clean energy economy, and make America more energy-independent with lower costs Take action to reduce PFAS and other chemicals in our water Increase resources and incentives for farmers to boost buffer zones surrounding waterways to block pollutants Increase resources and incentives for farmers to grow cover crops that reduce runoff and sequester carbon Ensure the next generation of family farmers can thrive and continue our farming tradition Protecting Seniors, Social Security, and Medicare When I was growing up, both of my grandmothers lived with my family, and I have always believed our seniors are precious members of our families and communities.
 At the Statehouse, I worked on a bipartisan bill to prevent abuse against Iowa’s seniors.
 I worked closely with many senior organizations and learned more about the unique challenges our seniors face.
 I was delighted to help pass a bill to crack down on physical, emotional, and financial abuse against our elder Iowans.
@@ -203,14 +152,7 @@ In fact, she took a campaign contribution from a group of insulin manufacturers 
 Over and over again, Miller-Meeks has put the big pharmaceutical and insurance companies ahead of our seniors.
 When my dad got sick, Medicare and Social Security were lifelines for my family.
 Across Iowa, I’ve met seniors who tell me just how critical Medicare and Social Security are to their survival too.
-In Congress, I’ll always:
-- Fight to protect Medicare and Social Security, and shore up the Social Security trust funds to fully fund them for future generations
-- Work to stop those in Washington who seek to cut, privatize, or jeopardize these critical programs
-- Allow Iowans to buy into Medicare at any age, which would protect Iowans in their fifties and early sixties from paying outrageous health insurance premiums
-- Allow Medicare to negotiate for lower prices on more drugs so seniors and other taxpayers pay less
-- Expand Medicare to cover dental, vision, and hearing care
-- Expand Medicare to cover home health costs incurred by family caregivers
-To me, freedom is being able to control your own destiny.
+In Congress, I’ll always: Fight to protect Medicare and Social Security, and shore up the Social Security trust funds to fully fund them for future generations Work to stop those in Washington who seek to cut, privatize, or jeopardize these critical programs Allow Iowans to buy into Medicare at any age, which would protect Iowans in their fifties and early sixties from paying outrageous health insurance premiums Allow Medicare to negotiate for lower prices on more drugs so seniors and other taxpayers pay less Expand Medicare to cover dental, vision, and hearing care Expand Medicare to cover home health costs incurred by family caregivers Defending Freedom and a Fair Shot to Succeed To me, freedom is being able to control your own destiny.
 That means the right of free speech for all regardless of your views or political beliefs, the right to protect your property from being taken by the government for corporate profit, the right to grow through education, the right to make your own health care decisions, the right to safe and healthy communities free from crime and pollution, and the right to participate in a fair and open economy in which hardworking people share in the wealth they help to create and get a fair shot to get ahead.
 I will always put Iowa and our freedoms first.
 Our freedoms are not safe with Mariannette Miller-Meeks.
@@ -229,15 +171,16 @@ As we knock doors across this district to talk with voters, it’s clear that Io
 When I’m in Congress, I will defend the freedoms of all Iowans, no matter what.
 And I will fight every day to put Roe v.
 Wade back into federal law where it belongs and restore reproductive freedom for all Iowans.
-Caring for loved ones has always been central to me and my family.
+Building a Family Friendly Economy Caring for loved ones has always been central to me and my family.
 My mother worked at a daycare taking care of children, and both of my grandmothers lived with us so that we could care for them as they aged.
 I support policies that ensure no one has to choose between caring for a loved one and paying the bills.
 For too long, out-of-touch politicians have put their own interests ahead of families’ needs.
 That’s why, in Congress, I will fight to help families care for their loved ones, and to lower the cost of child care and long-term care for aging and disabled Americans.
-I’ll work to build an economy that centers Iowa families by:
-- Passing a comprehensive, nationwide paid family leave law so that all Iowans can afford to take care of their sick family members without putting their job at risk.
+I’ll work to build an economy that centers Iowa families by: Passing a comprehensive, nationwide paid family leave law so that all Iowans can afford to take care of their sick family members without putting their job at risk.
 That includes paid time off to take your parents to their doctor appointments and pick up their medicine.
-- Expanding the Child Care Tax Credit to help families take care of their children and afford safe and reliable child care.
-- Expanding Head Start to cover additional child care slots for infants and toddlers.
-- Reversing the Medicaid cuts that will devastate Iowa families, nursing homes, and rural hospitals.
-- Passing comprehensive health care reform, and protecting Social Security and Medicare.
+Expanding the Child Care Tax Credit to help families take care of their children and afford safe and reliable child care.
+Expanding Head Start to cover additional child care slots for infants and toddlers.
+Reversing the Medicaid cuts that will devastate Iowa families, nursing homes, and rural hospitals.
+Passing comprehensive health care reform, and protecting Social Security and Medicare.
+Join Christina Join our team and keep up with Christina.
+Meet Christina Priorities News Volunteer Media Kit Donate Instagram Twitter Facebook Paid for by Christina Bohannan For Congress PO Box 722, Iowa City 52244 Privacy Policy Terms of Service Chip in Today!> Help fund Christina’s campaign to bring Iowa values back to Congress > $5 $25 $100 Other X

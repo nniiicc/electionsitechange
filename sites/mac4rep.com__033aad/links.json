@@ -1,13 +1,70 @@
 [
-"https://facebook.com/mac4rep",
-"https://instagram.com/mac4rep",
-"https://mac4rep.com/",
-"https://mac4rep.com/about",
-"https://mac4rep.com/donate",
-"https://mac4rep.com/endorsements",
-"https://mac4rep.com/m/account",
-"https://mac4rep.com/m/create-account",
-"https://mac4rep.com/record",
-"https://mac4rep.com/volunteer",
-"https://mac4rep.com/vote"
+{
+"text": "About",
+"href": "https://mac4rep.com/about"
+},
+{
+"text": "Create Account",
+"href": "https://mac4rep.com/m/create-account"
+},
+{
+"text": "DONATE",
+"href": "https://mac4rep.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://mac4rep.com/endorsements"
+},
+{
+"text": "FIND OUT MORE ABOUT MILOU",
+"href": "https://mac4rep.com/about"
+},
+{
+"text": "Home",
+"href": "https://mac4rep.com/"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://mac4rep.com/volunteer"
+},
+{
+"text": "Milou Mackenzie State Rep.Milou Mackenzie State Rep.Milou Mackenzie State Rep.Milou Mackenzie State Rep.",
+"href": "https://mac4rep.com/"
+},
+{
+"text": "My Account",
+"href": "https://mac4rep.com/m/account"
+},
+{
+"text": "READ MORE",
+"href": "https://mac4rep.com/record"
+},
+{
+"text": "RECORD",
+"href": "https://mac4rep.com/record"
+},
+{
+"text": "SIGN UP HERE",
+"href": "https://mac4rep.com/volunteer"
+},
+{
+"text": "Sign In",
+"href": "https://mac4rep.com/m/account"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mac4rep.com/volunteer"
+},
+{
+"text": "VOTE",
+"href": "https://mac4rep.com/vote"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mac4rep"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mac4rep"
+}
 ]

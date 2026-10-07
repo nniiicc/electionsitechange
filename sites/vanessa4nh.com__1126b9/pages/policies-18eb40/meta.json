@@ -1,7 +1,12 @@
 {
  "description": "Explore New Hampshire policies focusing on education, economy, healthcare, public safety, and Second Amendment rights under Vanessa for NH.",
  "final_url": "https://vanessa4nh.com/policies",
- "paid_for_by": null,
+ "fingerprint": "6500ce6154a4d79bdc13ff874d9f08a766af12e1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Policies",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

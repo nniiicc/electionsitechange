@@ -1,33 +1,25 @@
-News
-Rep.
-Abbarno meets with Eagle Scout
-It was such a great pleasure meeting Gunnar!
+Stronger Families.
+Stronger Communities.
+Stronger Washington ABOUT ISSUES NEWS LEGISLATURE VOTER INFO BLOG DONATE Follow Follow Follow News Rep.
+Abbarno meets with Eagle Scout by Peter Abbarno | Jun 4, 2026 | Uncategorized It was such a great pleasure meeting Gunnar!
 His Eagle-required merit badge required him to conduct an interview with his state representative and I...
 Rep.
 Abbarno meets with Vermont Lt.
-Governor Rodgers
-It was great meeting and discussing "back in the day" with Vermont Lieutenant Governor John Rodgers at the The 2026 Cascade Conference.
+Governor Rodgers by Peter Abbarno | Jun 4, 2026 | Uncategorized It was great meeting and discussing "back in the day" with Vermont Lieutenant Governor John Rodgers at the The 2026 Cascade Conference.
 I have a lot...
-Washington State Nurses Association PAC Endorsement
-Honored to receive the endorsement of the Washington State Nurses Association PAC.
+Washington State Nurses Association PAC Endorsement by Peter Abbarno | May 22, 2026 | Uncategorized Honored to receive the endorsement of the Washington State Nurses Association PAC.
 Nurses are on the front lines every day caring for patients and...
-Law Enforcement Torch Run for Special Olympics
-For years, state Rep.
+Law Enforcement Torch Run for Special Olympics by Peter Abbarno | May 16, 2026 | Elect Peter Abbarno For years, state Rep.
 Peter Abbarno has proudly supported Special Olympics athletes and families throughout Lewis County and across Washington...
 Rep.
-Peter Abbarno Tours Centralia College’s Mobile Training Lab at Tenino Middle School
-TENINO, WA — State Rep.
+Peter Abbarno Tours Centralia College’s Mobile Training Lab at Tenino Middle School by Peter Abbarno | May 13, 2026 | Elect Peter Abbarno TENINO, WA — State Rep.
 Peter Abbarno recently visited Centralia College’s Mobile Career and Technical Education (CTE) Training Lab during a stop at...
-Building Legacies Through Scholarships
-By Peter AbbarnoFor the C-C Chamber of Commerce In communities like Centralia and Chehalis, we understand something that can be easy to overlook:...
+Building Legacies Through Scholarships by Peter Abbarno | May 9, 2026 | Elect Peter Abbarno By Peter AbbarnoFor the C-C Chamber of Commerce In communities like Centralia and Chehalis, we understand something that can be easy to overlook:...
 Rep.
-Abbarno visits Centralia High School, highlights career-connected learning opportunities
-In the Chronicle: Washington state Rep.
+Abbarno visits Centralia High School, highlights career-connected learning opportunities by Peter Abbarno | May 6, 2026 | Elect Peter Abbarno In the Chronicle: Washington state Rep.
 Peter Abbarno, R-Chehalis, recently spent the day at Centralia High School connecting with students and...
-Abbarno hostes Ridgefield Raptors Fundraiser
-State Representative Peter Abbarno is hosting a "Night Out at the Ballpark" fundraiser at the Ridgefield Raptors Game on June 2nd.
+Abbarno hostes Ridgefield Raptors Fundraiser by Peter Abbarno | Apr 18, 2026 | Uncategorized State Representative Peter Abbarno is hosting a "Night Out at the Ballpark" fundraiser at the Ridgefield Raptors Game on June 2nd.
 Only 50 tickets...
-Accountability and opportunity — getting childcare right in Washington
-In the Chronicle Recent childcare reports raise serious concerns about Washington state’s handling of funding, with the state auditor questioning...
-Governor Signs Capital Budget: Major Win for Clean Water in Centralia
-I am very pleased to see Governor Bob Ferguson sign the 2026 Capital Budget SB 6003; delivering meaningful investments across Southwest Washington...
+Accountability and opportunity — getting childcare right in Washington by Peter Abbarno | Apr 18, 2026 | Uncategorized In the Chronicle Recent childcare reports raise serious concerns about Washington state’s handling of funding, with the state auditor questioning...
+Governor Signs Capital Budget: Major Win for Clean Water in Centralia by Peter Abbarno | Apr 3, 2026 | Elect Peter Abbarno I am very pleased to see Governor Bob Ferguson sign the 2026 Capital Budget SB 6003; delivering meaningful investments across Southwest Washington... « Older Entries Next Entries » Stay up to date on the lastest news from Olympia.
+Get Peter's Newsletter Paid for by the committee to elect Peter Abbarno | Designed by The Silver Agency English Español ( Spanish )

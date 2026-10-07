@@ -1,13 +1,7 @@
-privacy policy and terms of service
-Last Updated: June 18, 2025
-At Marie for Congress we are putting forth every effort to ensure the privacy and security of information that you share with us online.
+Skip to content Home About Marie Menu Toggle Meet Marie Issues Media Endorsements Take Action Menu Toggle Events Volunteer Get a Yard Sign Contact Shop DONATE WITH ACTBLUE DONATE WITH ACTBLUE DONATE WITH NUMERO DONATE WITH NUMERO Main Menu Home About Marie Menu Toggle Meet Marie Issues Media Endorsements Take Action Menu Toggle Events Volunteer Get a Yard Sign Contact Shop Donate with ActBlue Donate with Numero privacy policy and terms of service Last Updated: June 18, 2025 At Marie for Congress we are putting forth every effort to ensure the privacy and security of information that you share with us online.
 In addition, we urge you to take steps to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information.
 If you have broadband access to the Internet, it is strongly advised that you use a firewall.
-Our privacy policy explains the information practices we use at www.marieforcongress.com related to:
-- How we protect your information
-- How we use your information
-- How to contact us about privacy
-Our site links to a limited number of other websites.
+Our privacy policy explains the information practices we use at www.marieforcongress.com related to: How we protect your information How we use your information How to contact us about privacy Our site links to a limited number of other websites.
 Marie for Congress is not responsible for the content or the privacy policies of these websites.
 We encourage you to read the privacy statements for each website you visit.
 Marie for Congress will occasionally update this privacy policy as changes to the site necessitate it.
@@ -18,71 +12,42 @@ Computer systems have restricted access limited only to those persons and organi
 This access applies to all electronic and physical security measures.
 Highly sensitive data including credit card information is additionally secured through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 Our servers are located in a locked, secure environment.
-Automatically Collected Information
-When you access or use our Site, we automatically collect information about you, including:
-- Log and Usage Information: We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
-- Device Information: We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+Automatically Collected Information When you access or use our Site, we automatically collect information about you, including: Log and Usage Information: We collect information related to your access to and use of the Site, including the type of browser you use, app version, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
+Device Information: We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
 We also collect information from your device that you authorize us to collect, such as your contacts for purposes of providing you functionality that allows you to share messages with your contacts.
 Please consult your device settings for choices you may have to limit our access to this information.
-- Transactional Information: If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product detains, and date and location of the transaction.
-- Location Information: We may derive the approximate location of your device, such as from your IP address.
-- Information Collected by Cookies and Similar Tracking Technologies: We (and our service providers) use different technologies to collect information, including cookies and web beacons.
+Transactional Information: If you make a donation or purchase, we may collect information about the transaction, such as donation amount, purchase price, product detains, and date and location of the transaction.
+Location Information: We may derive the approximate location of your device, such as from your IP address.
+Information Collected by Cookies and Similar Tracking Technologies: We (and our service providers) use different technologies to collect information, including cookies and web beacons.
 Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular, and count visits.
 Web beacons (also known as “pixel tags” or “clear GIFs”) are electronic images that may be used in our Site or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness.
 For more information about cookies and how to disable them, see the Your Choices section below.
-Information We Collect from Other Sources
-We and our service providers may also obtain information about you from other sources and combine that with information we collect about you on our Site.
+Information We Collect from Other Sources We and our service providers may also obtain information about you from other sources and combine that with information we collect about you on our Site.
 For example, we may collect voter file data from state and county parties and other democratic organizations, from public databases and public sources and from private organizations.
 We may also receive information from a social media site if you connect to us or our Site through that site.
 How do we use the information you provide?
-We may use the information we collect to:
-- Provide, maintain and improve our Site;
-- Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts,
-- Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support;
-- Respond to your emails, submissions, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and the use of the Site;
-- Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you (see Your Choices below for information about how to opt out of these communications at any time);
-- To solicit volunteers, donations and support for Marie for Congress and for other candidates, issues and organizations that we support and to connect you with other volunteers;
-- Contact you if election laws require us to request additional information from you;
-- Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you;
-- Monitor and analyze trends, usage, and activities in connection with our Site;
-- Personalize and improve the Site and provide advertisements, content or features based on your user preferences, interests, and browsing and online activities;
-- Detect, investigate, prevent, and respond to fraudulent transactions, abuse, security issues, and other illegal activities and protect the rights and property of Marie for Congress , users of our sites, and others, including by enforcing our Terms & Conditions; and
-- Carry out any other purpose described to you at the time the information was collected.
+We may use the information we collect to: Provide, maintain and improve our Site; Provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and receipts, Send you technical notices, updates, security alerts, and support and administrative messages and provide technical support; Respond to your emails, submissions, comments, questions and requests; request feedback or support, and otherwise contact you about your participation in the campaign and the use of the Site; Communicate with you about the campaign, such as sending you information to keep you informed about various issues, events, activities, and volunteer opportunities, and provide news and information we think will be of interest to you (see Your Choices below for information about how to opt out of these communications at any time); To solicit volunteers, donations and support for Marie for Congress and for other candidates, issues and organizations that we support and to connect you with other volunteers; Contact you if election laws require us to request additional information from you; Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you; Monitor and analyze trends, usage, and activities in connection with our Site; Personalize and improve the Site and provide advertisements, content or features based on your user preferences, interests, and browsing and online activities; Detect, investigate, prevent, and respond to fraudulent transactions, abuse, security issues, and other illegal activities and protect the rights and property of Marie for Congress , users of our sites, and others, including by enforcing our Terms & Conditions; and Carry out any other purpose described to you at the time the information was collected.
 How do we share your information?
-We may share information about you as follows or as otherwise described in this Privacy Policy:
-- With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf;
-- With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;
-- Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of your information and related data to a broker or other non-profit or for-profit entity;
-- With other participants in a joint fundraising committee;
-- To report required information to the FEC, including name and mailing address of individuals whose contributions exceed $25 in an election cycle (for additional information, visit the FEC website at https://www.fec.gov;
-- In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
-- When we believe in good faith that disclosure is necessary to protect or defend our rights, protect the safety and security of Marie for Congress , users of our Site or others, or to investigate suspected fraud, abuse, security issues, and other illegal activities;
-- If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of Marie for Congress , its employees, volunteers, constituents, or others;
-- In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Marie for Congress ;
-- With your consent or at your direction, including if: (1) we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information; (2) you submit content or information on a public area of the site or information that is intended to be shared on the Site; (3) you intentionally interact with third-parties on our Site.
+We may share information about you as follows or as otherwise described in this Privacy Policy: With vendors, service providers, volunteers, and consultants who need access to such information to carry out work on our behalf; With candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups; Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of your information and related data to a broker or other non-profit or for-profit entity; With other participants in a joint fundraising committee; To report required information to the FEC, including name and mailing address of individuals whose contributions exceed $25 in an election cycle (for additional information, visit the FEC website at https://www.fec.gov; In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements; When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders; When we believe in good faith that disclosure is necessary to protect or defend our rights, protect the safety and security of Marie for Congress , users of our Site or others, or to investigate suspected fraud, abuse, security issues, and other illegal activities; If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of Marie for Congress , its employees, volunteers, constituents, or others; In connection with, or during negotiations of, any reorganization, formation of new committee or successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Marie for Congress ; With your consent or at your direction, including if: (1) we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information; (2) you submit content or information on a public area of the site or information that is intended to be shared on the Site; (3) you intentionally interact with third-parties on our Site.
 We may also share aggregated or de-identified information that cannot reasonably be used by those third parties to identify you.
 Text messaging originator opt-in data and consent, will not be shared with any third party, except: (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
-When you contribute money online:
-We are required by law to collect and report to the FEC the name and mailing address of individuals whose contributions exceed $25 in an election cycle.
+When you contribute money online: We are required by law to collect and report to the FEC the name and mailing address of individuals whose contributions exceed $25 in an election cycle.
 These records are available to the public.
 However, they cannot be used by other organizations for fundraising.
 For additional information, visit the FEC website.
 We also make a note of your telephone number and email address, which helps us to contact you quickly if follow-up on your contribution is necessary under election law.
-When you sign one of our petitions:
-We may raise contributions through third party websites, and Marie for Congress may pay a fee for the use of such websites.
+When you sign one of our petitions: We may raise contributions through third party websites, and Marie for Congress may pay a fee for the use of such websites.
 We may share your information with the hosts of those websites.
 Marie for Congress is not responsible for the activities conducted by such websites.
 Marie for Congress is not liable to you for your use of or for the security of your information by such websites, and you should consult the privacy policy and terms of service of those websites for further information.
 We treat your name, city, state, and any comments as public information.
 We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses.
 We may also make comments along with your city and state available to the press and public online.
-Using social media to communicate with supporters
-Marie for Congress may use third party social media platforms, e.g., Facebook messenger and the like, to communicate with supporters and such use will be consistent with the privacy requirements of those platforms.
-The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa.
+Using social media to communicate with supporters Marie for Congress may use third party social media platforms, e.g., Facebook messenger and the like, to communicate with supporters and such use will be consistent with the privacy requirements of those platforms.
+The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa .
 Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the relevant social media site.
 For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
-Advertising and analytics provided by others
-We may place online advertising with third-party vendors, including Google, which will be shown on other Sites on the Internet.
+Advertising and analytics provided by others We may place online advertising with third-party vendors, including Google, which will be shown on other Sites on the Internet.
 In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the Site.
 At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors.
 We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications.
@@ -93,99 +58,66 @@ We may also use Remarketing with Google Analytics or other remarketing tools or 
 This enables third-party vendors, including Google, to show our ads on sites across the Internet.
 Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Sites.
 For information on how you can opt out of Google’s use of cookies for interest-based ads please visit Google’s Ads Settings.
-If you prefer to opt out of the use of these third-party cookies on the Site, you can do so by visiting the Network Advertising Initiative opt out page.
-When you schedule online events:
-When you schedule an event and choose to post it on www.marieforcongress.com you have the choice of making your event public or semi-public.
+When you schedule online events: When you schedule an event and choose to post it on www.marieforcongress.com you have the choice of making your event public or semi-public.
 Public events will display your name and the address of the event to any visitor browsing the system and allow those users to RSVP.
 Semi-public events will display your name and the general area that you define (e.g.”1st & Main”, or “downtown”), but will not display the specific address.
 Visitors can requests invitations, and only after those requests are approved by you can they see the address.
-Links to other websites and third parties
-The Sites may make third-party information, advertisements, promotions and other content available on or through the Sites (“Third Party Content”).
+Links to other websites and third parties The Sites may make third-party information, advertisements, promotions and other content available on or through the Sites (“Third Party Content”).
 Our Sites also may link or otherwise provide access to third-party websites and other products and services outside our control (collectively, “Third-Party Products and Services”).
 These Third-Party Products and Services may include, for example, event and volunteer registration and management, donation and payment functionality, and other features, functionalities, and services powered by third parties.
 These Third-Party Products and Services and Third-Party Content are not under the control of Marie for Congress , and Marie for Congress is not responsible for the security or privacy of any personal information you share with them.
 If you use Third-Party Products and Services, those third parties’ collection, use and disclosure of your information will not be subject to this Privacy Policy; rather, it will be subject to their own privacy policies and terms.
 Exercise caution and review the applicable privacy policies of any Third-Party Product and Service, including those you use in connection with the Sites, before providing them with your personal information.
 What are your choices?
-Cookies
-A cookie is a tiny text file that is stored on your computer by www.marieforcongress.com.
-We use cookies to tailor your experience on our site according to the preferences you have specified.
-When you visit www.marieforcongress.com we only access the cookie file that we have stored on your computer.
-We cannot and do not access any information stored in a cookie by other websites.
-Our cookies do not contain any personal identifiable information.
-Most web browsers are set to accept cookies by default.
+Cookies Most web browsers are set to accept cookies by default.
 If you prefer, you can usually choose to set your browser to remove or reject browser cookies, however, this does not necessarily affect third-party flash cookies that may be used in connection with our Sites.
-You can also review your choices regarding behavioral advertising cookies at www.aboutads.info/choices.
+You can also review your choices regarding behavioral advertising cookies at www.aboutads.info/choices .
 If you choose to refuse or delete cookies, you will need to repeat this process if you use another computer or browser.
 Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Site.
-Do-Not-Track Signals
-Some web browsers may transmit “do-not-track” signals to the websites and other online services with which the browser communicates.
+Do-Not-Track Signals Some web browsers may transmit “do-not-track” signals to the websites and other online services with which the browser communicates.
 There is no standard that governs what, if anything, websites and online services should do when they receive these signals.
 We currently do not take action in response to these signals.
 If and when a standard for responding is established, we may revisit our policy on responding to these signals.
-Promotional Communications
-You may opt out of receiving promotional emails or text messages from Marie for Congress by following the instructions in those emails or text messages.
+Promotional Communications You may opt out of receiving promotional emails or text messages from Marie for Congress by following the instructions in those emails or text messages.
 If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 Please note that opt-out requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to your prior privacy settings.
 Further, please note that (unless required by applicable law) we may not be able to retrieve or rescind any information provided to third parties prior to your election to opt out.
-Mobile Push Notifications/Alerts
-With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.
+Mobile Push Notifications/Alerts With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.
 You can deactivate these messages at any time by changing the notification settings on your mobile device.
-Unsubscribing from Email Communications
-If you wish to unsubscribe from our communications, please email is at info@marieforcongress.com We will regularly process these requests.
+Unsubscribing from Email Communications If you wish to unsubscribe from our communications, please email is at info@marieforcongress.com We will regularly process these requests.
 To comply with election law, however, our contributor records will be continuously maintained in a separate secure database.
-You may also update your information by emailing us at info@marieforcongress.com
-Transfer of Information to the United States:
-Marie for Congress is based in the United States, and is directed to U.S. residents, and we process and store information in the U.S.
+You may also update your information by emailing us at info@marieforcongress.com Transfer of Information to the United States: Marie for Congress is based in the United States, and is directed to U.S. residents, and we process and store information in the U.S.
 If you are located outside the U.S., we and our service providers may transfer your information to, or store or access to your information in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
-IP Addresses and Log File Data:
-We log IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes.
+IP Addresses and Log File Data: We log IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes.
 We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site.
 There is no personal identifiable information collected in our log files.
-Your California Privacy Rights
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.
-If you are a California resident and would like to make such a request, please contact us at info@marieforcongress.com
-Information on Children:
-Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA).
+Your California Privacy Rights California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.
+If you are a California resident and would like to make such a request, please contact us at info@marieforcongress.com Information on Children: Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA).
 COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet.
 We do not knowingly contact or collect personal information from children under 13.
 Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.
-Parents with questions may e-mail us at info@marieforcongress.com/
-Contacting us about privacy:
-If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: info@marieforcongress.com
-You can also reach us via U.S.
-Mail at:
-Paid for by Marie for Congress
-122 C Street NW
-Suite 360
-Washington, DC 20001
-United States
-Terms of Use
-PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+Parents with questions may e-mail us at info@marieforcongress.com/ Contacting us about privacy: If you have any questions about our privacy policy, corrections to the information we have collected from you online, the practices of this site or your interaction with this website, send email to: info@marieforcongress.com You can also reach us via U.S.
+Mail at: Paid for by Marie for Congress 122 C Street NW Suite 360 Washington, DC 20001 United States Terms of Use PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
 BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
 IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
-These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile sites, and other online offerings (collectively, the “Site”) provided by Marie for Congress (“Marie for Congress ” “we,” or “us”).
+These Terms of Service (“ Terms ”) apply to your access to and use of the websites, mobile sites, and other online offerings (collectively, the “ Site ”) provided by Marie for Congress ( “Marie for Congress ” “ we, ” or “ us ”).
 By accessing or by using our Site, you agree to these Terms, and any terms incorporated by reference.
 If you do not agree to these Terms, do not use our Site.
 We reserve the right to change or modify any of the terms and conditions contained in the Terms at any time and in our sole discretion.
 Any changes or modifications will be effective immediately upon posting of the revisions on the Sites, and you waive any right you may have to receive specific notice of such changes or modifications.
 Your continued use of the Sites following the posting of changes or modifications will confirm your acceptance of such changes or modifications.
 If you have any questions about these Terms or our Site, please contact info@marieforcongress.com.
-- Privacy
-For information about how we collect, use, share and otherwise process information about you, please see our Privacy Policy.
-- Consent to Use of Data and Mobile Communication; SMS Program Terms
-You consent to our communicating with you about the Site and Marie for Congress by SMS, text message, email or other electronic means.
+Privacy For information about how we collect, use, share and otherwise process information about you, please see our Privacy Policy .
+Consent to Use of Data and Mobile Communication; SMS Program Terms You consent to our communicating with you about the Site and Marie for Congress by SMS, text message, email or other electronic means.
 Your carrier’s normal, messaging, data and other rates and fees will apply to these communications.
-If you subscribe to any text programs that Marie for Congress makes available, the following terms apply:
-By subscribing to Marie for Congress updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
+If you subscribe to any text programs that Marie for Congress makes available, the following terms apply: By subscribing to Marie for Congress updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
 Text STOP to stop.
 For Help, text HELP or email info@marieforcongress.com.
 Message and data rates may apply.
-See our Privacy Policy.
+See our Privacy Policy .
 Neither Marie for Congress nor the participating carriers guarantee that messages will be delivered.
 Marie for Congress may discontinue the program at any time without notice.
-- User Content
-Our Site may include interactive areas of service that allow you and other users to create, post, store and share content, including messages, comments, stories, text, photos, graphics, videos, music, and other materials (collectively, “User Content”).
+User Content Our Site may include interactive areas of service that allow you and other users to create, post, store and share content, including messages, comments, stories, text, photos, graphics, videos, music, and other materials (collectively, “ User Content ”).
 Except for the license you grant below, you retain all rights in and to your User Content, as between you and Marie for Congress.
 You are solely responsible for your use of the Site and use them at your own risk.
 You grant Marie for Congress and its independent contractors, service providers, consultants and joint committee members, a perpetual, irrevocable, assignable, transferable, nonexclusive, royalty-free, worldwide, fully paid, and sublicensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels around the world now known or later developed without compensation to you.
@@ -195,88 +127,50 @@ Although Marie for Congress has no obligation to do so, it reserves the right, a
 You may not create, post, store or share any User Content that violates these Terms or for which you do not have all the rights necessary to grant us the license described above.
 You represent and warrant that your User Content, and our use of such content as permitted by these Terms, will not violate any rights of or cause injury to any person or entity.
 Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason with or without notice.
-- Prohibited Conduct and Content
-You may not access or use, or attempt to access or use, the Site to take any action that could violate any applicable law, contract, intellectual property right or other third-party right or commit a tort in connection with any User Content you post to the Site, and you are solely responsible for your conduct while using our Site.
-You will not:
-- Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
-- Use or attempt to use another user’s account without authorization from that user and Marie for Congress;
-- Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity or the origin or materials you transmit;
-- Engage in unauthorized spidering, “scaping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information;
-- Use the Site to access, copy, collect, gather, or assemble information or data regarding other users of the Site without the applicable user’s prior express consent;
-- Use any device, software or routine to interfere or attempt to interfere with the proper working of the Site or any activity conducted on the Site or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network, including without limitations via any viruses, corrupted data, or other harmful, disruptive or destructive files;
-- Sell, resell or commercially use our Site or sublicense any of your rights under these Terms;
-- Attempt to copy, reproduce, distribute, publicly perform or publicly display all or portions of our Site, except as expressly permitted by us or our licensors;
-- Modify our Site, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Site;
-- Use our Site other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Site or that could damage, disable, overburden or impair the functioning of our Site in any manner, or take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;
-- Attempt to reverse engineer, decipher, decompile, or disassemble any aspect of our Site or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Site;
-- Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Site;
-- Develop or use any applications that interact with our Site without our prior written consent;
-- Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
-- Bypass or ignore instructions contained in our robots.txt file; or
-- Use our Site for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+Prohibited Conduct and Content You may not access or use, or attempt to access or use, the Site to take any action that could violate any applicable law, contract, intellectual property right or other third-party right or commit a tort in connection with any User Content you post to the Site, and you are solely responsible for your conduct while using our Site.
+You will not: Engage in any harassing, threatening, intimidating, predatory or stalking conduct; Use or attempt to use another user’s account without authorization from that user and Marie for Congress; Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity or the origin or materials you transmit; Engage in unauthorized spidering, “scaping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information; Use the Site to access, copy, collect, gather, or assemble information or data regarding other users of the Site without the applicable user’s prior express consent; Use any device, software or routine to interfere or attempt to interfere with the proper working of the Site or any activity conducted on the Site or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network, including without limitations via any viruses, corrupted data, or other harmful, disruptive or destructive files; Sell, resell or commercially use our Site or sublicense any of your rights under these Terms; Attempt to copy, reproduce, distribute, publicly perform or publicly display all or portions of our Site, except as expressly permitted by us or our licensors; Modify our Site, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Site; Use our Site other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Site or that could damage, disable, overburden or impair the functioning of our Site in any manner, or take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure; Attempt to reverse engineer, decipher, decompile, or disassemble any aspect of our Site or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Site; Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Site; Develop or use any applications that interact with our Site without our prior written consent; Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes; Bypass or ignore instructions contained in our robots.txt file; or Use our Site for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
 Violations of systems or network security may result in civil or criminal liability.
 We may investigate and work with law enforcement authorities to prosecute users who violate these Terms.
 We may suspend or terminate your access to the Site for any or no reason at any time without notice.
 You may also post or otherwise share only User Content that is nonconfidential and that you have all necessary rights to disclose.
-You may not create, post, store or share any User Content that:
-- Is unlawful, libelous, Marie for Congressamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
-- Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;
-- May infringe, misappropriate, or otherwise violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
-- Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences;
-- Impersonates, or misrepresents your affiliation with, any person or entity;
-- Contains any unsolicited promotions, advertising or solicitations;
-- Contains any private or personal information of a third party without such third party’s consent;
-- Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or
-- In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Site, or may expose Marie for Congress or others to any harm or liability of any type.
+You may not create, post, store or share any User Content that: Is unlawful, libelous, Marie for Congressamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent; Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law; May infringe, misappropriate, or otherwise violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences; Impersonates, or misrepresents your affiliation with, any person or entity; Contains any unsolicited promotions, advertising or solicitations; Contains any private or personal information of a third party without such third party’s consent; Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Site, or may expose Marie for Congress or others to any harm or liability of any type.
 Enforcement of this Section is solely at Marie for Congress ‘s discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
 In addition, this Section does not create any private right of action on the part of any third party or any reasonable expectation that the Site will not contain any content that is prohibited by such rules.
 Marie for Congress takes no responsibility and assumes no liability for any User Content posted, stored or uploaded by you or any third party, for any loss or damage thereto, nor is Marie for Congress liable for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter.
-- Truthful and Accurate Information
-When you complete forms online or otherwise provide us information in connection with the use of our Sites, you agree to provide accurate, complete, and true information.
+Truthful and Accurate Information When you complete forms online or otherwise provide us information in connection with the use of our Sites, you agree to provide accurate, complete, and true information.
 You agree not to use a false or misleading name or a name that you are not authorized to use.
 If, in our sole discretion, we believe that any such information is untrue, inaccurate, or incomplete, we may refuse you access to the Sites and pursue any appropriate legal remedies.
-- Copyright and Limited License
-The Site, including the text, graphics, images, photographs, videos, illustrations and other content contained therein (collectively, the “Site Materials”), are owned by Marie for Congress or our licensors and are protected under both United States and international copyright laws.
+Copyright and Limited License The Site, including the text, graphics, images, photographs, videos, illustrations and other content contained therein (collectively, the “Site Materials”), are owned by Marie for Congress or our licensors and are protected under both United States and international copyright laws.
 Except as explicitly stated in these Terms, all rights in and to the Site are reserved by us or our licensors.
 Subject to your compliance with these Terms, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to access and use our Site for your own personal, noncommercial use.
 Such license is subject to the Terms and does not include: (a) any resale or commercial use of the Site or the Site Materials therein; (b) the reproduction, distribution, public performance or public display of any Site Materials, except as expressly permitted on the Site; (c) modifying or otherwise making any derivative uses of the Site or the Site Materials, or any portion thereof; (d) use of any data mining, robots or similar data gathering or extraction methods; (e) downloading (other than the page caching) of any portion of the Site, the Site Materials or any information contained therein, except as expressly permitted on the Site; or (f) any use of the Site or the Site Materials other than for their intended purpose.
 Any use of the Site or Site Materials other than as specifically authorized herein, without our prior written permission from Marie for Congress , is strictly prohibited, will terminate the license granted herein, and may violate our intellectual property rights.
 Unless explicitly stated herein, nothing in these Terms shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication, or otherwise.
 The license is revocable at any time.
-- Trademarks
-Marie for Congress and our logos, slogans and the look and feel of the Site (including all page headers, custom graphics, button icons and scripts) are trademarks and/or trade dress of Marie for Congress and may not be copied, imitated or used, in whole or in part, without our prior written permission.
+Trademarks Marie for Congress and our logos, slogans and the look and feel of the Site (including all page headers, custom graphics, button icons and scripts) are trademarks and/or trade dress of Marie for Congress and may not be copied, imitated or used, in whole or in part, without our prior written permission.
 You may not use any metatags or any other “hidden text” utilizing “Marie for Congress ” or any other name, trademark, or product or service name of Marie for Congress without our prior written permission.
 All other trademarks, registered trademarks, product names and campaign names or logos mentioned on the Site are the property of their respective owners.
 Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
 You may not use a Marie for Congress logo or any other proprietary graphic of Marie for Congress to link to these Site without express written permission of Marie for Congress .
 Further, you may not use, frame or utilize framing techniques to enclose any Marie for Congress trademark, logo or other proprietary information, including the images found at the Site, the content of any text or layout/design of any page or form contained on a page on the Site without Marie for Congress ’s express written consent.
 Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or proprietary right of Marie for Congress or any third party.
-- Feedback and Submissions
-You may voluntarily post, submit or otherwise communicate to us any questions, comments, suggestions, ideas, original or creative materials or other information about Marie for Congress or our Site (collectively, “Feedback”).
+Feedback and Submissions You may voluntarily post, submit or otherwise communicate to us any questions, comments, suggestions, ideas, original or creative materials or other information about Marie for Congress or our Site (collectively, “ Feedback ”).
 You understand that we may use such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including, without limitation, to develop, copy, publish, or improve the Feedback in Marie for Congress ’s sole discretion.
 You acknowledge and agree that any feedback, questions, comments, suggestions, ideas, or other information or materials regarding the Sites or Marie for Congress that are provided by you in the form of email or other submissions to Marie for Congress , or any such postings on the Sites, are non-confidential and shall become the sole property of Marie for Congress .
 Marie for Congress shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these materials for any purpose without acknowledgment or compensation to you.
 To the extent you have any rights, title, or interest in any of the foregoing, you shall assign, and hereby assign, any and all such rights, title, and interest to Marie for Congress .
-- Repeat Infringer Policy; Copyright Complaints
-In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating or limiting the access of, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others at our sole discretion.
-If you believe that anything on our Site infringes any copyright that you own or control, you may notify Marie for Congress ’ designated agent as follows:
-Designated Agent: Jay Petterson
-Address: 122 C Street NW, Suite 360, Washington, DC 20001, United States
-E-Mail Address: jay@bluewavepolitics.com
-Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
+Repeat Infringer Policy; Copyright Complaints In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating or limiting the access of, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others at our sole discretion.
+If you believe that anything on our Site infringes any copyright that you own or control, you may notify Marie for Congress ’ designated agent as follows: Designated Agent: Jay Petterson Address: 122 C Street NW, Suite 360, Washington, DC 20001, United States E-Mail Address: jay@bluewavepolitics.com Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
 Also, please note that if you knowingly misrepresent that any activity or material on our Site is infringing, you may be liable to Marie for Congress for certain costs and damages.
-- Third-Party Content, Products, and Sites
-We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Site (collectively, “Third-Party Content”).
+Third-Party Content, Products, and Sites We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Site (collectively, “ Third-Party Content ”).
 We provide Third-Party Content as a service to those interested in such content.
 Your dealings or correspondence with third parties and your use of or interaction with any Third-Party Content are solely between you and the third party.
 Marie for Congress does not control or endorse, and makes no representations or warranties regarding, any Third-Party Content, and your access to and use of such Third-Party Content is at your own risk.
 Marie for Congress does not sponsor or recommend, or otherwise accept responsibility for any Third Party Content, Products, or Services, and we are not responsible for their content, quality, nature, reliability, privacy, data security or other practices or their handling of information you make available to them.
-- Indemnification
-To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Marie for Congress and its independent contractors, service providers, and consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, partners and employees (individually and collectively, the “Indemnified Parties”) from and against any losses, liabilities, claims, demands, damages, expenses or costs (“Claims”) arising out of or related to (a) your User Content or Feedback; (b) your violation of these Terms; (c) your violation, misappropriation or infringement of any rights of another (including intellectual property rights or privacy rights); or (d) your misconduct in connection with the Site.
+Indemnification To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless Marie for Congress and its independent contractors, service providers, and consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, partners and employees (individually and collectively, the “ Indemnified Parties ”) from and against any losses, liabilities, claims, demands, damages, expenses or costs (“ Claims ”) arising out of or related to (a) your User Content or Feedback; (b) your violation of these Terms; (c) your violation, misappropriation or infringement of any rights of another (including intellectual property rights or privacy rights); or (d) your misconduct in connection with the Site.
 You agree to promptly notify Indemnified Parties of any third-party Claims, cooperate with Indemnified Parties in defending such Claims and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys’ fees).
 You also agree that the Indemnified Parties will have control of the defense or settlement, at the Indemnified Party’s sole option, of any third-party Claims.
-- Disclaimers
-Your use of our Site is at your sole risk.
+Disclaimers Your use of our Site is at your sole risk.
 Except as otherwise provided in a writing by us, our Site and any content or services therein are provided “as is” and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
 In addition, Marie for Congress does not represent or warrant that our Site are accurate, complete, reliable, current or error-free.
 While Marie for Congress attempts to make your use of our Site safe, we cannot and do not represent or warrant that our Site or servers are free of viruses, errors, functionality interruptions, or other harmful components.
@@ -284,24 +178,20 @@ You assume the entire risk as to the quality and performance of the Site.
 Marie for Congress is not responsible for, and expressly disclaims any liability for, any errors or omissions in the content included in the site or any third-party sites linked to or from the sites, including those relating to pricing, text or photography, as well as for any third-party products, services, and content.
 Nor is Marie for Congress responsible or liable in any manner for any third-party activities, program, or events listed on the Site.
 Marie for Congress reserves the right to change any and all content contained on the Site and any services offered through the Site at any time without notice.
-- Limitation of Liability
-To the fullest extent permitted by applicable law, Marie for Congress and its contractors, service providers, consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, and employees (collectively, the Marie for Congress Parties”), will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if such parties have been advised of the possibility of such damages.
+Limitation of Liability To the fullest extent permitted by applicable law, Marie for Congress and its contractors, service providers, consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, and employees (collectively, the Marie for Congress Parties”), will not be liable to you under any theory of liability—whether based in contract, tort, negligence, strict liability, warranty, or otherwise—for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if such parties have been advised of the possibility of such damages.
 These include but are not limited to damages caused by reliance by user on any information obtained from Marie for Congress , or that result from mistakes, omissions, interruptions, deletion of files or email, errors, defects, viruses, delays in operation or transmission or any failure of performance, whether or not resulting from acts of God, communications failure, theft, destruction or unauthorized access to Marie for Congress ’s records, programs or services, even if one or more of them has been advised of such damages or loss.
 The total liability of Marie for Congress and the other Marie for Congress Parties for any claim arising out of or relating to these Terms or our Site, regardless of the form of the action, is limited to $5.00.
-- Governing Law and Venue
-Any dispute arising from these Terms and your use of the Site will be governed by and construed and enforced in accordance with the laws of the District of Columbia, except to the extent preempted by U.S. federal law, without regard to conflict of law rules or principles (whether of the District of Columbia or any other jurisdiction) that would cause the application of the laws of any other jurisdiction.
+Governing Law and Venue Any dispute arising from these Terms and your use of the Site will be governed by and construed and enforced in accordance with the laws of the District of Columbia, except to the extent preempted by U.S. federal law, without regard to conflict of law rules or principles (whether of the District of Columbia or any other jurisdiction) that would cause the application of the laws of any other jurisdiction.
 Any dispute between the parties will be resolved in the state or federal courts of the District of Columbia and the United States.
-- Modifying and Terminating our Site
-We reserve the right and sole discretion to modify our Site or to suspend or stop providing you access to all or portions of our Site, or terminate your license to use our Site, at any time without notice.
+Modifying and Terminating our Site We reserve the right and sole discretion to modify our Site or to suspend or stop providing you access to all or portions of our Site, or terminate your license to use our Site, at any time without notice.
 You also have the right to stop using our Site at any time.
 We are not responsible for any loss or harm related to your inability to access or use our Site.
-- Severability
-If any provision or part of a provision of these Terms is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
-- Miscellaneous
-These Terms constitute the entire agreement between you and us, superseding any prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and us.
+Severability If any provision or part of a provision of these Terms is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
+Miscellaneous These Terms constitute the entire agreement between you and us, superseding any prior or contemporaneous communications and proposals (whether oral, written or electronic) between you and us.
 The failure of Marie for Congress to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
 The section titles in these Terms are for convenience only and have no legal or contractual effect.
 Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.
 You agree that communications and transactions between us may be conducted electronically.
 You agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of these Terms or your access to and use of the Site.
 Nothing contained in these Terms is a derogation of our right to comply with governmental, court, and law enforcement requests or requests or requirements relating to your use of the Site or information provided to or gathered by us with respect to each use.
+MAILING ADDRESS PO Box 1164 Washougal, WA 98671 Contact (360) 835-6835 info@marieforcongress.com INFORMATION PRIVACY POLICY © # Marie for Congress Paid for by Marie for Congress Contribute now to support Marie's campaign » If you’ve saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Scroll to Top

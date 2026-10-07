@@ -1,30 +1,3 @@
-0
-Skip to Content
-Meet John
-Issues
-2026 Session Wins
-Press
-Contact
-Donations
-Donate
-Open Menu
-Close Menu
-Donate
-Meet John
-Issues
-2026 Session Wins
-Press
-Contact
-Donations
-Open Menu
-Close Menu
-Meet John
-Issues
-2026 Session Wins
-Press
-Contact
-Donations
-Donate
-Invest in common sense
-Donate with PayPal
-Donate with Anedot
+0 Skip to Content Meet John Issues 2026 Session Wins Press Contact Donations Donate Open Menu Close Menu Donate Meet John Issues 2026 Session Wins Press Contact Donations Open Menu Close Menu Meet John Issues 2026 Session Wins Press Contact Donations Donate Invest in common sense Donate with PayPal Donate with Anedot A contribution of any amount, up to the maximum accumulated total contributions of $1,000/person or $2,000/couple for 2026, will help John reach more people.
+Your generous contribution is greatly appreciated!
+Prepared and paid for by Burkel For House - 24932 270th Ave - Badger, MN - 56714 john@burkelforhouse.com 218-689-0395 Privacy Policy

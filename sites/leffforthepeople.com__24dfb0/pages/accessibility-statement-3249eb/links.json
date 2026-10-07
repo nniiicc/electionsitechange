@@ -1,12 +1,54 @@
 [
-"https://heyvictor.com/",
-"https://instagram.com/leff.4.thepeople",
-"https://leffforthepeople.com/",
-"https://leffforthepeople.com/accessibility-statement",
-"https://leffforthepeople.com/issues",
-"https://leffforthepeople.com/meet-the-candidate",
-"https://leffforthepeople.com/terms-of-service",
-"https://leffforthepeople.com/volunteer",
-"https://leffforthepeople.com/voting-info",
-"https://secure.actblue.com/donate/susan-leff-2"
+{
+"text": "Accessibility Statement",
+"href": "https://leffforthepeople.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/susan-leff-2?amount="
+},
+{
+"text": "Home",
+"href": "https://leffforthepeople.com/"
+},
+{
+"text": "Issues",
+"href": "https://leffforthepeople.com/issues/"
+},
+{
+"text": "Meet The Candidate",
+"href": "https://leffforthepeople.com/meet-the-candidate/"
+},
+{
+"text": "Terms of Service",
+"href": "https://leffforthepeople.com/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://leffforthepeople.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://leffforthepeople.com/voting-info/"
+},
+{
+"text": "[image: campaign logo]",
+"href": "https://leffforthepeople.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/leff.4.thepeople"
+},
+{
+"text": "https://leffforthepeople.com",
+"href": "https://leffforthepeople.com"
+}
 ]

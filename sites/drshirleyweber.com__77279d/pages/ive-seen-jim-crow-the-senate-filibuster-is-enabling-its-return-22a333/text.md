@@ -1,6 +1,6 @@
-BY SHIRLEY N.
-WEBER SPECIAL TO THE SACRAMENTO BEE
-In 1935, the United States Senate took up an anti-lynching bill.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page [The Sacramento Bee] I’ve seen Jim Crow.
+The Senate filibuster is enabling its return Jul 24, 2021 BY SHIRLEY N.
+WEBER SPECIAL TO THE SACRAMENTO BEE In 1935, the United States Senate took up an anti-lynching bill.
 It wasn’t the first, and it wouldn’t be the last.
 The legendary segregationist Senator Richard Russell of Georgia staged a six-day filibuster to block it.
 Russell said he was “willing to go as far and make as great a sacrifice to preserve and ensure white supremacy in the social, economic, and political life of our state as any man who lives within her borders.” The white supremacists won; the bill failed.
@@ -36,3 +36,4 @@ We need federal legislation to guarantee equal access to the vote in every state
 It is a testament to the potential of this nation that a daughter of the Jim Crow South is now the chief elections officer of California; it is a testament to America’s flaws that we may let many decades of progress on voting rights slip through our fingers.
 This is the eleventh hour for voting rights in America.
 It is time for the Senate to be bold, and for everyone who supports equal access to our democracy to stand strong in the name of our most basic American principle: one person, one vote.
+Read More Search for: Recent Posts [SF Chronicle] California’s elections chief pushes back against GOP efforts to limit voting rights [CBS News] California Secretary of State Shirley Weber emphasizes the importance of voting [OC Register] For Secretary of State Shirley Weber, access to voting was a lesson learned from a young age [NBC News] How 3 Black women secretaries of state are protecting voting rights [CNN] If voters don’t stop it, election deniers could kill American democracy Recent Comments Facebook X

@@ -1,7 +1,2 @@
-Fighting for Veterans’ Healthcare
-I was proud to march in support of our Veterans’ healthcare and the collective bargaining units that support their healthcare, including NURSES.
-I can be seen in the video in the yellow shirt.
-August 20, 2025
-Written By Brian Irizarry
-Previous
-Next
+0 Skip to Content Campaign Updates Meet the Candidate Legislative Blog Contact Form Home Open Menu Close Menu Campaign Updates Meet the Candidate Legislative Blog Contact Form Home Open Menu Close Menu Campaign Updates Meet the Candidate Legislative Blog Contact Form Home Fighting for Veterans’ Healthcare Aug 20 Written By Brian Irizarry I was proud to march in support of our Veterans’ healthcare and the collective bargaining units that support their healthcare, including NURSES.
+I can be seen in the video in the yellow shirt. https://www.myupnow.com/news/protestors-gather-in-iron-mountain-to-support-va-employees-collective-bargaining/article_888fe173-1a3e-4aa2-810d-e77004fa70c9.html August 20, 2025 Brian Irizarry Previous Previous Rural Healthcare Crisis Next Next House Republicans devastate K-12 school funding for 2025-26 Paid for by The Committee to Elect Brian Irizarry PO Box 201 Houghton, MI 49931

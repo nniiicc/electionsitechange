@@ -1,14 +1,8 @@
-Back to All Events
-I’m taking my campaign directly to you with my For a Better Maine Tour – walking from Fort Kent to Kittery to meet Mainers in their hometowns.
+0 Skip to Content Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine The Issues Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Open Menu Close Menu Meet Rick Vision for Maine Folder: The Issues Back Make Housing Affordable Delivering a Fairer Tax System Make Energy Affordable Make Health Care Affordable Make Child Care Affordable Building Strong Schools Fix the Corrupt System Maine's Economic Future Rick's Results News Events Endorsements Get Involved Donate Back to All Events For a Better Maine: Medway to Millinocket Friday, August 21, 2026 11:00 AM Saturday, August 22, 2026 6:00 PM Google Calendar ICS I’m taking my campaign directly to you with my For a Better Maine Tour – walking from Fort Kent to Kittery to meet Mainers in their hometowns.
 Walk with us from Medway to Millinocket!
-When: Friday, August 21; 11:00 am – 6:00 pm
-Where: Medway to Millinocket
-More details to be released soon!
-Click here for details and to RSVP
-Previous
-Previous
-August 17
-For a Better Maine: Presque Isle
-Next
-Next
-August 22
+When: Friday, August 21; 11:00 am – 6:00 pm Where: Medway to Millinocket More details to be released soon!
+Click here for details and to RSVP Previous Previous August 17 For a Better Maine: Presque Isle Next Next August 22 For a Better Maine: Old Town and Orono Contact Bennett for Governor info@BennettForGovernor.com P.O.
+Box 35 | Raymond, ME 04071 Privacy Policy | Terms of Use Paid for and authorized by Bennett for Governor. × Support Rick Bennett Your Help Matters.
+This is your movement.
+We can’t do it without your help.
+Rick’s campaign for Governor is building real momentum across Maine — chip in today and help us keep growing. $25 $50 $100 Donate Now See All Donation Options Choose an amount above or continue to the full donation page.

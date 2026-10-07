@@ -1,12 +1,7 @@
-Help Lee’s Campaign for State Senate
-Your Donation Will Help our ﬁght for Lower Taxes, Less Government and more Individual Liberty
-Campaign finance laws in Maryland allow contributions to my campaign, "Havis for Senate" up to a maximum of $6,000.
-By submitting your cell phone number you are agreeing to receive periodic text messages from us.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Contact Help Lee’s Campaign for State Senate Your Donation Will Help our ﬁght for Lower Taxes, Less Government and more Individual Liberty Donation Amount: $50 $100 $500 $1,000 Other Full Name: Email: Street Address: City: State: Zip: Phone: Occupation: Employer: Campaign finance laws in Maryland allow contributions to my campaign, "Havis for Senate" up to a maximum of $6,000.
+More ways to help (Check all that apply): Canvas Car magnet Sign wave Yard sign Social media Other Comments / Questions: By submitting your cell phone number you are agreeing to receive periodic text messages from us.
 Message & data rates may apply.
 Text HELP for help or STOP to unsubscribe.
-Havis for Senate
-Checks to “Havis for Senate” Mail to:
-6812 Dartmouth Ave.
-College Park, MD 20740
-Telephone: 240-941-7737
-Email: lee@havisforsenate.com
+Submit Donation Info Havis for Senate Checks to “Havis for Senate” Mail to: 6812 Dartmouth Ave.
+College Park, MD 20740 Telephone: 240-941-7737 Email: lee@havisforsenate.com Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

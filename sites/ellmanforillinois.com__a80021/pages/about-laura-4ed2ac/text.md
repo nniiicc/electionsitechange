@@ -1,4 +1,4 @@
-State Senator Laura Ellman knows the 21st District well.
+Toggle navigation ABOUT LAURA MY VISION ISSUES GET INVOLVED REQUEST A YARD SIGN THE 21ST DISTRICT ENDORSEMENTS DONATE TODAY ABOUT LAURA State Senator Laura Ellman knows the 21st District well.
 She grew up in Hanover Park and Bartlett, graduated from Elgin High School, and has spent much of her adult life working to move the district and Illinois forward.
 Laura currently lives in Naperville with her husband, Pete, and their two adult children, Hugh and Barrett.
 Laura was raised in a working-class household and was raised to believe that education and hard work could create opportunities.
@@ -13,3 +13,7 @@ When she’s not working, Laura likes to stay busy.
 She enjoys amateur woodworking and tackling projects around the house.
 She’s played basketball every week for more than 20 years, competes in triathlons and has run a marathon, although she’ll be the first to tell you that one was enough.
 Laura is running for re-election to continue listening to — and working for — the people of the 21st District and making sure their voices are heard in Springfield.
+Follow Laura’s campaign on Facebook!
+Notice: JavaScript is required for this content.
+PROMOTIONAL COMMUNICATIONS You may “opt out” of receiving promotional communications (such as text messages, email updates, and newsletters) from Ellman for IL Senate D21 by following the instructions in those communications.
+Please note that we may still send you other types of non-promotional communications, such as those about your use of the Services or any of your donations, transactions, or activities related to the Services PAID FOR BY ELLMAN FOR IL SENATE D21

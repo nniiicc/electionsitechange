@@ -1,9 +1,4 @@
-Initiative & Referendum Series,
-Part 4 of 4
-By Shane Klakken, Montana House District 37
-May 27, 2026
-Time to Turn Around and Fix This
-C.S.
+top of page News Principles Calendar About Menu Close Donate Initiative & Referendum Series, Part 4 of 4 By Shane Klakken, Montana House District 37 May 27, 2026 Time to Turn Around and Fix This C.S.
 Lewis had a line I’ve been thinking about a lot lately.
 He said that if you’re on the wrong road, progress means turning around and walking back to the right one.
 The man who turns back soonest is the most progressive.
@@ -50,3 +45,7 @@ We built a republic for good reasons.
 The Founders were right.
 And we can restore it — one reform at a time, one session at a time.
 That’s the work, and I’m glad to be doing it alongside you.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

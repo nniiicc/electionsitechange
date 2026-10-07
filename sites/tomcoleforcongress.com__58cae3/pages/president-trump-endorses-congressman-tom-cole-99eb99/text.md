@@ -1,7 +1,9 @@
-Moore, OK – Today, President Donald J.
-Trump announced his endorsement of Congressman Tom Cole for Oklahoma’s Fourth District in the following statement on Truth Social:
-“Tom Cole is a fantastic Representative for Oklahoma’s 4th Congressional District.
+Skip to content Tom Cole For Congress About About Tom About the District Press Packet News Room Connect On The Issues All Issues Growing the Economy Debt and Spending Securing Our Border Preserving our Second Amendment Protecting the Unborn National Security American Energy Independence Veterans News Room President Trump Endorses Congressman Tom Cole May 7, 2024 May 9, 2024 Donate Moore, OK – Today, President Donald J.
+Trump announced his endorsement of Congressman Tom Cole for Oklahoma’s Fourth District in the following statement on Truth Social: “Tom Cole is a fantastic Representative for Oklahoma’s 4th Congressional District.
 As Chairman of the POWERFUL Appropriations Committee, Tom is fighting hard to Secure the Border, Stop Migrant Crime, Strengthen our Military/Vets, Support our Great Law Enforcement, and Protect our always-under-siege Second Amendment.
 He has almost always voted with me, including on both Impeachment Hoaxes.
-Tom Cole has my Complete and Total Endorsement – He will not let you down!”
-###
+Tom Cole has my Complete and Total Endorsement – He will not let you down!” ### Post navigation Previous: Tom Cole Announces Run For Reelection Next: NRA Fully Endorses Tom Cole For Congress Connect Recent Posts Tom Cole Announces For Re-Election Breaking: President Trump Endorses Congressman Tom Cole Cole: Promises Made, Promises Kept Tom Cole Is Endorsed By the Republican Jewish Coalition Tom Cole Is Endorsed By The State Chamber of Oklahoma PAC Keep up with the Campaign via Email Name First Last Email Phone (Required) (Required) By providing your phone number, you agree to receive text messages from Cole for Congress.
+Message & data rates may apply.
+Message frequency varies. donations may be solicited.
+Reply STOP to opt out, reply HELP for help.
+Privacy Policy About Tom On The Issues News Room Connect Privacy Policy Donate Paid for by Cole for Congress Powered By Push Digital © #

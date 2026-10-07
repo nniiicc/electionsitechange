@@ -1,5 +1,5 @@
-About Kelly
-Kelly Ayotte is proud to serve as New Hampshire’s 83rd Governor, working every day to keep our state safe, prosperous and free.
+Skip to main content Skip to footer Opens in a new tab Vote Kelly — Keep New Hampshire Safe, Prosperous and Free!
+Home About Kelly Accomplishments News Join Team Kelly Donate Join Team Kelly Donate About Kelly Kelly Ayotte is proud to serve as New Hampshire’s 83rd Governor, working every day to keep our state safe, prosperous and free.
 With Governor Kelly Ayotte, New Hampshire continues to be a beacon of opportunity not just in New England, but nationally.
 From passing new laws to make it faster and easier to build housing, to fully funding childcare scholarships, to signing a responsible, balanced budget with no new taxes, Kelly has spent her first term delivering for all of New Hampshire.
 A proud product of New Hampshire public schools, Kelly is supporting students, teachers, and families by investing more money per-student than ever before, providing historic support for special education, and expanding opportunities for children to be in the best learning environment for them.
@@ -19,3 +19,17 @@ From 2010 to 2016, Kelly served in the United States Senate, where she was a ste
 As Governor, she’s continuing that work by prioritizing hiring veterans and their families for state jobs, and she’s strengthening programs that help Granite Staters battling substance use disorders.
 Before running for Governor, Kelly worked with companies in New Hampshire and across the country and supported local veterans organizations and nonprofits.
 Kelly lives in her hometown of Nashua with her husband Joe, a former fighter pilot turned middle school math teacher, along with their two children, Kate and Jake, and their dog Thunder.
+Donate to Keep New Hampshire Safe, Prosperous, and Free $5 $10 $25 $50 $100 $250 Want to donate another amount?
+Click here Sign Up for Updates Sign Up - Vertical First Name Email Mobile Number Zip Code By providing your cell phone or mobile phone number and opting in, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with donation messages and notifications from Kelly for New Hampshire, Inc..
+Reply HELP for help, STOP to end.
+Message frequency may vary.
+Message and data rates may apply.
+Terms & conditions / privacy policy apply .
+Join the Team Home About Kelly Accomplishments News Get Involved Donate Paid for by Kelly for New Hampshire, Inc.
+PO Box 4723, Manchester, NH 03108 Christopher Connelly, Treasurer Please provide your mobile phone to opt-in to Kelly for New Hampshire, Inc. campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+Privacy Policy

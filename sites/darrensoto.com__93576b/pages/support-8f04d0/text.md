@@ -1,7 +1,1 @@
-Support 2026
-Organizational Support
-Supported by these organizations:
-Also supported by:
-Soto for Congress, PO Box 421349, Kissimmee, FL 34742
-Phone Number: 407-434-1319 | Privacy Policy
-PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS
+Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Democrat for Congress Home Donate About Issues Organizational Support Volunteer Phone Banking Canvassing En Español En Español Voting Information New FL-9 District Map contribute Support 2026 Organizational Support Supported by these organizations: View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Also supported by: View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize VOLUNTEER Media DONATE Soto for Congress, PO Box 421349, Kissimmee, FL 34742 Phone Number: 407-434-1319 | Privacy Policy PAID FOR AND AUTHORIZED BY DARREN SOTO FOR CONGRESS © # Darren Soto for Congress.

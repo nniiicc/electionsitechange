@@ -1,4 +1,3 @@
-El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Por Hilda Solís como Supervisora del Condado de Los Ángeles By admin In News Posted May 18, 2022 El 7 de junio se realizarán elecciones primarias para el Distrito 1 de la Junta de Supervisores del condado de Los Ángeles.
 El Distrito, recientemente rediseñado, perdió parte de sus residentes latinos e incorporó a otros de origen asiático.
-El porcentaje de votantes latinos bajó del 62% al 52%.
-bbbb
+El porcentaje de votantes latinos bajó del 62% al 52%. bbbb View article Post navigation Previous Previous Endorsement: Hilda Solis remains the best choice for the Board of Supervisors Next Next Supervisor Hilda Solis says she’ll run for Congress if new maps are approved Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

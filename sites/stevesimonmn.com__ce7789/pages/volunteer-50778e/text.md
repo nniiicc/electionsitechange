@@ -1,8 +1,4 @@
-Get Involved
-We’re looking for Democracy Corps members in every DFL organizing unit!
-“Democracy Corps” members are leaders we can rely on to:
-- Represent the campaign at parades, DFL meetings, county fairs, and key events;
-- Distribute lawn signs and other materials;
-- Be a point of contact between the campaign and local candidates;
-- Serve as Steve’s contact if he's visiting the district;
-- And/or arrange meet & greet op
+0 Skip to Content Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Open Menu Close Menu Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Open Menu Close Menu Defending Democracy Secretary of State for All Meet Steve Endorsements Volunteer DONATE Get Involved We’re looking for Democracy Corps members in every DFL organizing unit!
+“Democracy Corps” members are leaders we can rely on to: Represent the campaign at parades, DFL meetings, county fairs, and key events; Distribute lawn signs and other materials; Be a point of contact between the campaign and local candidates; Serve as Steve’s contact if he's visiting the district; And/or arrange meet & greet op Learn more about the Democracy Corps!
+Volunteer Donate Prepared and paid for by Simon for Secretary of State Committee | P.O.
+Box 4217 | Hopkins, MN | 55343 Website by Lift Creative .

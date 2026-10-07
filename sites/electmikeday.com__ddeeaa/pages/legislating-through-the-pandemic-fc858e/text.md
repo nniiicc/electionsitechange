@@ -1,13 +1,8 @@
-Legislating Through the Pandemic
-In the face of rapidly developing and unprecedented challenges, we in the Massachusetts House of Representatives have adapted efficiently and safely to continue work in the 191st legislative session.
-Since March 16, the legislature had filed 576 new bills with 144 of them being signed into law, here are a handful:
-Municipal Governance Relief
-– Allowed extensions on property tax exemptions, modified town meeting requirements, and prohibited essential services provided by cities or towns from being terminated due to a missed or late payment.
-Tax Deadline Extension
-– Moved the traditional individual income tax filing deadline from April 15 to July 15, providing flexibility to those filing during the pandemic.
-Unemployment Insurance
-– Created a program dedicated to helping employers and nonprofits recover from layoffs as a result of COVID-19, and extended the unemployment benefit period.
-Increased COVID-19 Testing
-– Passed $1B in funding for implementation and expansion of COVID-19 testing capabilities across the Commonwealth.
-Restaurant Relief
-– Passed bill regulating commission fees charged by third-party delivery apps to restaurants struggling to stay afloat during the COVID-19 pandemic.
+About News Issues Legislation Contact Get Involved Contribute Menu Legislating Through the Pandemic October 5, 2020 / in Uncategorized / by Dan Hudson In the face of rapidly developing and unprecedented challenges, we in the Massachusetts House of Representatives have adapted efficiently and safely to continue work in the 191st legislative session.
+Since March 16, the legislature had filed 576 new bills with 144 of them being signed into law, here are a handful: Municipal Governance Relief – Allowed extensions on property tax exemptions, modified town meeting requirements, and prohibited essential services provided by cities or towns from being terminated due to a missed or late payment.
+Tax Deadline Extension – Moved the traditional individual income tax filing deadline from April 15 to July 15, providing flexibility to those filing during the pandemic.
+Unemployment Insurance – Created a program dedicated to helping employers and nonprofits recover from layoffs as a result of COVID-19, and extended the unemployment benefit period.
+Increased COVID-19 Testing – Passed $1B in funding for implementation and expansion of COVID-19 testing capabilities across the Commonwealth.
+Restaurant Relief – Passed bill regulating commission fees charged by third-party delivery apps to restaurants struggling to stay afloat during the COVID-19 pandemic.
+Share this: Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Related Share this entry Share on Facebook Share on Twitter Share on Google+ Share on Pinterest Share on Linkedin Share on Tumblr Share on Vk Share on Reddit Share by Mail http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Dan Hudson http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Dan Hudson 2020-10-05 12:14:35 2020-10-05 12:14:41 Legislating Through the Pandemic Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Representative Day Announces Return of “Spotlight on the 31st” JK Automotive Nominated as Manufacturer of the Year Scroll to top

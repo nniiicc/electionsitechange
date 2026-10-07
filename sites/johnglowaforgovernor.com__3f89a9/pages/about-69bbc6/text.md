@@ -1,5 +1,6 @@
-John Glowa, Sr.
-I was born on December 27, 1953, during a blizzard on what was the Presque Isle Air Force base.
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute About John Glowa Sr.
+Home / About John Glowa, Sr.
+A Public Servant—Not a Politician I was born on December 27, 1953, during a blizzard on what was the Presque Isle Air Force base.
 My father was in the Air Force and my mother was a schoolteacher.
 My grandfather was a potato farmer in Blaine and my grandmother was also a schoolteacher in a two-room schoolhouse.
 After my father was discharged from the service, we moved to Connecticut in 1955.
@@ -28,3 +29,7 @@ If I can get the necessary signatures, I will run as an independent because I be
 Want to help?
 Call 207-660-3801 or fill out the form to join our team.
 Your support can help us fight to get on the ballot and bring real reform to Maine’s government.
+Join us in rebuilding Maine’s government to work for everyone.
+Get Involved John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

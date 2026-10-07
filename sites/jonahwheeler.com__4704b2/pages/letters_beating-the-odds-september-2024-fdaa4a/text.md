@@ -1,5 +1,4 @@
-September 2024 Letter
-I woke up on election day with the jitters of a child on Christmas Day.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Beating the Odds Beating the Odds Beating the Odds Sep 30, 2024 Sep 30, 2024 September 2024 Letter Primary Day - 10 September 2024 - 18:44 - Peterborough, NH - Taken by Jonah Primary Day - 10 September 2024 - 18:44 - Peterborough, NH - Taken by Jonah I woke up on election day with the jitters of a child on Christmas Day.
 I couldn’t wait to get down to the polls.
 It’s the only day worth standing virtually still for over twelve hours.
 Getting to see all the people you’ve met throughout the campaign season come out to participate in the government of our State.
@@ -19,8 +18,7 @@ But every moment is worth it.
 I am ready to return to the State House to continue to work to make our State work for all it’s citizens.
 To address the pressing issues of our time of rising property taxes constricting people’s ability to stay in their homes or rent at a reasonable price, the public education system which is under threat of purposeful implosion from those in power who would rather see it fall, the environment which desperately needs our protection from the whims of industry.
 To make this a State where all it’s citizens can be proud to live.
-Thank you all for your confidence to return to the State House for the 169th General Court
-The Criminal Justice and Public Safety committee got together for the last time to deal with the bills which it voted to deal with in an interim study.
+Thank you all for your confidence to return to the State House for the 169th General Court Votes! - 10 September 2024 - 14:39 - Peterborough, NH - Taken by Jonah Votes! - 10 September 2024 - 14:39 - Peterborough, NH - Taken by Jonah The Criminal Justice and Public Safety committee got together for the last time to deal with the bills which it voted to deal with in an interim study.
 This would be the last time the Criminal Justice and Public safety committee for the 168th General Court would meet.
 The options before the committee on the legislation we had to handle was whether or not each bill should be recommended for further legislation in a future legislature.
 It is largely a symbolic vote although it can be important to a bills future to have a marker of ‘not recommended’ by a past committee.
@@ -40,4 +38,5 @@ Now that the hardcore part of my election has ended, I will be going around doin
 Bringing the message I brought to Hillsborough’s 33rd district to districts across the State.
 Thank you again for your support in my return to the State House.
 It has been the honor of a lifetime to serve in the legislature, and I am eager to get back to work.
-Back to all
+Office for the Day - 10 September 2024 - 18:45 - Taken by a man from out of town who's name escapes me Office for the Day - 10 September 2024 - 18:45 - Taken by a man from out of town who's name escapes me ‹ Knock, Knock, Knock your door. ‹ Knock, Knock, Knock your door. ‹ Knock, Knock, Knock your door.
+The Sprint › The Sprint › The Sprint › Back to all

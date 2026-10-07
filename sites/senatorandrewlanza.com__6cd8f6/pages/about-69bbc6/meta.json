@@ -1,9 +1,13 @@
 {
  "description": "About Senator Andrew Lanza",
  "final_url": "https://www.senatorandrewlanza.com/about",
- "paid_for_by": null,
+ "fingerprint": "4712e4e953f05da3bd3d35370c7a7b85c6115507",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Andrew Lanza",
  "years_mentioned": [
+  "1992",
+  "2006",
   "2012",
   "2015",
   "2017"

@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.koppieforcongress.com/vote",
- "paid_for_by": null,
+ "fingerprint": "dbca4033a6a42e86b4dff23250a53c415046e395",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

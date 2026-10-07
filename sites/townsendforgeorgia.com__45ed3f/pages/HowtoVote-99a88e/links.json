@@ -1,16 +1,90 @@
 [
-"http://instagram.com/townsendforgeorgia",
-"http://pegasusstrategies.com/",
-"https://facebook.com/TownsendForGeorgia",
-"https://glynncounty.org/1321/Absentee-Voting",
-"https://glynncounty.org/1904/Early-Voting",
-"https://glynncounty.org/DocumentCenter/View/80277/2023-Precinct-and-Poll-Locations-PDF",
-"https://secure.anedot.com/4140dbd3-0f45-4ae9-8227-c420512f083e/donate",
-"https://townsendforgeorgia.com/",
-"https://townsendforgeorgia.com/AboutRick",
-"https://townsendforgeorgia.com/HowtoVote",
-"https://townsendforgeorgia.com/contact",
-"https://townsendforgeorgia.com/contact-us",
-"https://townsendforgeorgia.com/press",
-"https://townsendforgeorgia.com/services"
+{
+"text": "About Rick",
+"href": "https://www.townsendforgeorgia.com/AboutRick"
+},
+{
+"text": "Contact Us",
+"href": "https://www.townsendforgeorgia.com/contact"
+},
+{
+"text": "Contribute Now",
+"href": "https://secure.anedot.com/4140dbd3-0f45-4ae9-8227-c420512f083e/donate"
+},
+{
+"text": "Crime",
+"href": "https://www.townsendforgeorgia.com/services#Accounting"
+},
+{
+"text": "Economic Development",
+"href": "https://www.townsendforgeorgia.com/services#EconomicDevelopment"
+},
+{
+"text": "Education",
+"href": "https://www.townsendforgeorgia.com/services#Taxes"
+},
+{
+"text": "Home",
+"href": "https://www.townsendforgeorgia.com/"
+},
+{
+"text": "How to Vote",
+"href": "https://www.townsendforgeorgia.com/HowtoVote"
+},
+{
+"text": "Issues",
+"href": "https://www.townsendforgeorgia.com/services"
+},
+{
+"text": "Join the Team",
+"href": "https://www.townsendforgeorgia.com/contact-us"
+},
+{
+"text": "Learn more",
+"href": "https://www.glynncounty.org/1321/Absentee-Voting"
+},
+{
+"text": "Learn more",
+"href": "https://www.glynncounty.org/1904/Early-Voting"
+},
+{
+"text": "PRESS INFORMATION",
+"href": "https://www.townsendforgeorgia.com/press"
+},
+{
+"text": "Pegasus Strategies",
+"href": "http://www.pegasusstrategies.com"
+},
+{
+"text": "Polling Locations",
+"href": "https://www.glynncounty.org/DocumentCenter/View/80277/2023-Precinct-and-Poll-Locations-PDF"
+},
+{
+"text": "Press",
+"href": "https://www.townsendforgeorgia.com/press"
+},
+{
+"text": "Responsible Development",
+"href": "https://www.townsendforgeorgia.com/services#Consulting"
+},
+{
+"text": "Responsible Development",
+"href": "https://www.townsendforgeorgia.com/services#ResponsibleDevelopment"
+},
+{
+"text": "[image]",
+"href": "https://www.townsendforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/townsendforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/TownsendForGeorgia/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@townsendforgeorgia.com"
+}
 ]

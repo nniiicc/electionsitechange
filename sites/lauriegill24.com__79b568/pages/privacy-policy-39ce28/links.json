@@ -1,11 +1,42 @@
 [
-"http://glenforsdsenate.com/",
-"https://lauriegill24.com/",
-"https://lauriegill24.com/about",
-"https://lauriegill24.com/cart",
-"https://lauriegill24.com/contact",
-"https://lauriegill24.com/donate",
-"https://lauriegill24.com/priorities",
-"https://lauriegill24.com/privacy-policy",
-"https://lauriegill24.com/terms"
+{
+"text": "0",
+"href": "https://www.lauriegill24.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriegill24.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriegill24.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.lauriegill24.com/donate"
+},
+{
+"text": "Priorities",
+"href": "https://www.lauriegill24.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lauriegill24.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lauriegill24.com/terms"
+},
+{
+"text": "[image: Laurie Gill for District 24 House]",
+"href": "https://www.lauriegill24.com/"
+},
+{
+"text": "laurie@lauriegill24.com",
+"href": "mailto:laurie@lauriegill24.com"
+},
+{
+"text": "lauriegill24.com",
+"href": "http://glenforsdsenate.com"
+}
 ]

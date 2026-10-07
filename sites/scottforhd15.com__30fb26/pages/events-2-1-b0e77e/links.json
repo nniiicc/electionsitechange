@@ -1,11 +1,62 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=launch+event&dates=20251101T190000Z%2F20251101T210000Z&location=30110+Imperial+Oaks+Boulevard%2C+Spring%2C+TX%2C+77386%2C+United+States",
-"http://maps.google.com/?q=30110+Imperial+Oaks+Boulevard+Spring%2C+TX%2C+77386+United+States",
-"https://mobilize.us/txmajoritypac",
-"https://scottforhd15.com/",
-"https://scottforhd15.com/cart",
-"https://scottforhd15.com/events-2-1",
-"https://scottforhd15.com/events-2-1/launchevent-wethepeople",
-"https://scottforhd15.com/events-2-1/launchevent-wethepeople?format=ical",
-"https://secure.actblue.com/donate/moniqua--scott-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=30110+imperial+oaks+boulevard+spring%2C+tx%2C+77386+united+states"
+},
+{
+"text": "0",
+"href": "https://www.scottforhd15.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/moniqua--scott-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scottforhd15.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.scottforhd15.com/events-2-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=launch+event&dates=20251101T190000Z%2F20251101T210000Z&location=30110+Imperial+Oaks+Boulevard%2C+Spring%2C+TX%2C+77386%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.scottforhd15.com/events-2-1/launchevent-wethepeople?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.scottforhd15.com/#issues"
+},
+{
+"text": "Meet Moniqua'",
+"href": "https://www.scottforhd15.com/#meetmoniqua"
+},
+{
+"text": "Scott for House District 15",
+"href": "https://www.scottforhd15.com/"
+},
+{
+"text": "ScottforHD15@gmail.com",
+"href": "mailto:ScottforHD15@gmail.com"
+},
+{
+"text": "View Event →",
+"href": "https://www.scottforhd15.com/events-2-1/launchevent-wethepeople"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/txmajoritypac/"
+},
+{
+"text": "[image: launch event]",
+"href": "https://www.scottforhd15.com/events-2-1/launchevent-wethepeople"
+},
+{
+"text": "launch event",
+"href": "https://www.scottforhd15.com/events-2-1/launchevent-wethepeople"
+}
 ]

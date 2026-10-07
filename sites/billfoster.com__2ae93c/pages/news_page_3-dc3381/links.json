@@ -1,42 +1,218 @@
 [
-"http://facebook.com/RepBillFoster",
-"http://instagram.com/foster4congress",
-"http://twitter.com/Foster4Congress",
-"https://billfoster.com/",
-"https://billfoster.com/contact-us",
-"https://billfoster.com/donate",
-"https://billfoster.com/endorsements",
-"https://billfoster.com/gallery",
-"https://billfoster.com/issue/combating-the-climate-crisis",
-"https://billfoster.com/issue/defending-the-constitution",
-"https://billfoster.com/issue/economy",
-"https://billfoster.com/issue/education",
-"https://billfoster.com/issue/healthcare",
-"https://billfoster.com/issue/immigration",
-"https://billfoster.com/issue/reducing-gun-violence",
-"https://billfoster.com/issue/reforming-wall-street",
-"https://billfoster.com/issue/reproductive-freedom",
-"https://billfoster.com/issue/reviving-american-manufacturing",
-"https://billfoster.com/issue/science-and-technology",
-"https://billfoster.com/issue/the-financial-crisis",
-"https://billfoster.com/issues",
-"https://billfoster.com/meet-bill",
-"https://billfoster.com/meet-bill/bills-business-career",
-"https://billfoster.com/meet-bill/bills-congressional-career",
-"https://billfoster.com/meet-bill/bills-family",
-"https://billfoster.com/meet-bill/bills-professional-awards",
-"https://billfoster.com/meet-bill/bills-science-career",
-"https://billfoster.com/messaging",
-"https://billfoster.com/news",
-"https://billfoster.com/news/chicago-tribune-as-election-day-nears-officials-across-illinois-boost-security-amid-fear-of-violence",
-"https://billfoster.com/news/crains-chicago-business-argonne-fermilab-will-get-over-300-million-from-feds",
-"https://billfoster.com/news/joliet-herald-news-joliet-factory-produces-first-lion-electric-school-bus",
-"https://billfoster.com/news/joliet-herald-news-start-of-a-rebound-how-suburban-community-colleges-enrollments-fared-this-fall",
-"https://billfoster.com/news/page/2",
-"https://billfoster.com/news/page/4",
-"https://billfoster.com/news/page/5",
-"https://billfoster.com/news/page/61",
-"https://billfoster.com/privacy-policy",
-"https://billfoster.com/the-district",
-"https://billfoster.com/volunteer"
+{
+"text": "1",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "2",
+"href": "https://www.billfoster.com/news/page/2/"
+},
+{
+"text": "4",
+"href": "https://www.billfoster.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://www.billfoster.com/news/page/5/"
+},
+{
+"text": "61",
+"href": "https://www.billfoster.com/news/page/61/"
+},
+{
+"text": "630-216-9340.",
+"href": "tel:630-216-9340."
+},
+{
+"text": "Business Career",
+"href": "https://www.billfoster.com/meet-bill/bills-business-career/"
+},
+{
+"text": "Chicago Tribune: As Election Day nears, officials across Illinois boost security amid fear of violence",
+"href": "https://www.billfoster.com/news/chicago-tribune-as-election-day-nears-officials-across-illinois-boost-security-amid-fear-of-violence/"
+},
+{
+"text": "Combating the Climate Crisis",
+"href": "https://www.billfoster.com/issue/combating-the-climate-crisis/"
+},
+{
+"text": "Congressional Career",
+"href": "https://www.billfoster.com/meet-bill/bills-congressional-career/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.billfoster.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Contribute Contribute",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Contribute Now Make a donation to Bill Foster for Congress!",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Crain’s Chicago Business: Argonne, Fermilab will get over $300 million from feds",
+"href": "https://www.billfoster.com/news/crains-chicago-business-argonne-fermilab-will-get-over-300-million-from-feds/"
+},
+{
+"text": "Defending the Constitution",
+"href": "https://www.billfoster.com/issue/defending-the-constitution/"
+},
+{
+"text": "Donate Now",
+"href": "https://www.billfoster.com/donate"
+},
+{
+"text": "Economy",
+"href": "https://www.billfoster.com/issue/economy/"
+},
+{
+"text": "Education",
+"href": "https://www.billfoster.com/issue/education/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.billfoster.com/endorsements/"
+},
+{
+"text": "Family",
+"href": "https://www.billfoster.com/meet-bill/bills-family/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.billfoster.com/issue/healthcare/"
+},
+{
+"text": "Immigration",
+"href": "https://www.billfoster.com/issue/immigration/"
+},
+{
+"text": "Issues",
+"href": "https://www.billfoster.com/issues/"
+},
+{
+"text": "Joliet Herald-News: Joliet factory produces first Lion Electric school bus",
+"href": "https://www.billfoster.com/news/joliet-herald-news-joliet-factory-produces-first-lion-electric-school-bus/"
+},
+{
+"text": "Joliet Herald-News: Start of a rebound? How suburban community colleges’ enrollments fared this fall",
+"href": "https://www.billfoster.com/news/joliet-herald-news-start-of-a-rebound-how-suburban-community-colleges-enrollments-fared-this-fall/"
+},
+{
+"text": "Latest News",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "Meet Bill",
+"href": "https://www.billfoster.com/meet-bill/"
+},
+{
+"text": "Messaging",
+"href": "https://www.billfoster.com/messaging"
+},
+{
+"text": "News",
+"href": "https://www.billfoster.com/news/"
+},
+{
+"text": "On the Issues On the Issues",
+"href": "https://www.billfoster.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.billfoster.com/gallery/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.billfoster.com/privacy-policy"
+},
+{
+"text": "Professional Awards",
+"href": "https://www.billfoster.com/meet-bill/bills-professional-awards/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/chicago-tribune-as-election-day-nears-officials-across-illinois-boost-security-amid-fear-of-violence/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/crains-chicago-business-argonne-fermilab-will-get-over-300-million-from-feds/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/joliet-herald-news-joliet-factory-produces-first-lion-electric-school-bus/"
+},
+{
+"text": "Read More",
+"href": "https://www.billfoster.com/news/joliet-herald-news-start-of-a-rebound-how-suburban-community-colleges-enrollments-fared-this-fall/"
+},
+{
+"text": "Reducing Gun Violence",
+"href": "https://www.billfoster.com/issue/reducing-gun-violence/"
+},
+{
+"text": "Reforming Wall Street",
+"href": "https://www.billfoster.com/issue/reforming-wall-street/"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.billfoster.com/issue/reproductive-freedom/"
+},
+{
+"text": "Reviving American Manufacturing",
+"href": "https://www.billfoster.com/issue/reviving-american-manufacturing/"
+},
+{
+"text": "Science Career",
+"href": "https://www.billfoster.com/meet-bill/bills-science-career/"
+},
+{
+"text": "Science and Technology",
+"href": "https://www.billfoster.com/issue/science-and-technology/"
+},
+{
+"text": "The District",
+"href": "https://www.billfoster.com/the-district/"
+},
+{
+"text": "The Financial Crisis",
+"href": "https://www.billfoster.com/issue/the-financial-crisis/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.billfoster.com/volunteer"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://www.billfoster.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.billfoster.com"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/RepBillFoster"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/foster4congress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/Foster4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.billfoster.com/news/page/2/"
+},
+{
+"text": "[no text]",
+"href": "https://www.billfoster.com/news/page/4/"
+}
 ]

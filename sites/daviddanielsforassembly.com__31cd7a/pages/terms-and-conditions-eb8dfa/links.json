@@ -1,7 +1,22 @@
 [
-"https://daviddanielsforassembly.com/",
-"https://daviddanielsforassembly.com/blank",
-"https://daviddanielsforassembly.com/blank-1",
-"https://daviddanielsforassembly.com/terms-and-conditions",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "Blank",
+"href": "https://daviddanielsforassembly.com/blank"
+},
+{
+"text": "Blank",
+"href": "https://daviddanielsforassembly.com/blank-1"
+},
+{
+"text": "Home",
+"href": "https://daviddanielsforassembly.com/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://daviddanielsforassembly.com/terms-and-conditions"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

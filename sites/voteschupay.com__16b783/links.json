@@ -1,14 +1,74 @@
 [
-"https://facebook.com/profile.php?id=61586437288736",
-"https://instagram.com/electschupay",
-"https://secure.actblue.com/donate/conrad-schupay-1",
-"https://voteschupay.com/",
-"https://voteschupay.com/blog",
-"https://voteschupay.com/contact",
-"https://voteschupay.com/copy-of-privacy-policy",
-"https://voteschupay.com/donation",
-"https://voteschupay.com/get-involved",
-"https://voteschupay.com/meet-conrad",
-"https://voteschupay.com/platform",
-"https://voteschupay.com/privacy-policy"
+{
+"text": "CONTACT",
+"href": "https://www.voteschupay.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/conrad-schupay-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteschupay.com/donation"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.voteschupay.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "LATEST NEWS",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "MEET CONRAD",
+"href": "https://www.voteschupay.com/meet-conrad"
+},
+{
+"text": "NEWS",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteschupay.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteschupay.com/privacy-policy"
+},
+{
+"text": "Text Message Terms and Conditions",
+"href": "https://www.voteschupay.com/copy-of-privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.voteschupay.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586437288736"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electschupay/"
+},
+{
+"text": "[image: Schupay Header_edited.jpg]",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "[image]",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "[image]",
+"href": "https://www.voteschupay.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.voteschupay.com/platform"
+}
 ]

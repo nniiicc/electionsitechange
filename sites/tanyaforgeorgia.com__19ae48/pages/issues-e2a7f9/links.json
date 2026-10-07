@@ -1,10 +1,34 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/tanyaforgeorgia",
-"https://instagram.com/TanyaForGeorgia",
-"https://secure.actblue.com/donate/milleraglaunch",
-"https://tanyaforgeorgia.com/",
-"https://tanyaforgeorgia.com/contact",
-"https://tanyaforgeorgia.com/volunteer",
-"https://x.com/TanyaForGeorgia"
+{
+"text": "Contact",
+"href": "https://www.tanyaforgeorgia.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/milleraglaunch"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tanyaforgeorgia.com/volunteer"
+},
+{
+"text": "[image: Tanya Miller for Georgia Attorney General ]",
+"href": "https://www.tanyaforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/tanyaforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/TanyaForGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TanyaForGeorgia"
+}
 ]

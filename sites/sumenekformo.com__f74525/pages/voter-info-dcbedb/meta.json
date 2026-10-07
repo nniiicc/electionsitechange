@@ -1,8 +1,10 @@
 {
  "description": "Learn about voting in Missouri's 95th State House District, where Meredith Sumenek is running for State Representative. Check your voter registration or get registered to vote. Find out when the election is happening.",
  "final_url": "https://www.sumenekformo.com/voter-info",
+ "fingerprint": "dc1ad73f94de6875a6cef13429f7d08347a8d156",
+ "format": 3,
  "paid_for_by": "Paid for by Meredith Sumenek Campaign Fund, Laura Metz, Treasurer Call Meredith: 314",
- "title": "Voter Info \u2014 Meredith Sumenek for Missouri",
+ "title": "Voter Info — Meredith Sumenek for Missouri",
  "years_mentioned": [
   "2025",
   "2026"

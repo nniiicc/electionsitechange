@@ -1,4 +1,10 @@
 [
-"https://mikedudgeon.com/media-assets",
-"https://secure.anedot.com/dudgeon-for-senate-inc/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/dudgeon-for-senate-inc/donate"
+},
+{
+"text": "MEDIA ASSETS",
+"href": "https://www.mikedudgeon.com/media-assets"
+}
 ]

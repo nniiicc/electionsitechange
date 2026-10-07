@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Grangeville&dates=20260726T170000Z%2F20260726T183000Z&location=Grangeville+%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=Grangeville++Sandpoint%2C+Idaho%2C+83864+United+States",
-"https://eventbrite.com/e/join-john-in-grangeville-tickets-1994246401671?aff=ebdsoporgprofile",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/cda-ngrxf-cdfjm-c4bxk-dl3df",
-"https://stegnerforidaho.com/events/cda-ngrxf-cdfjm-c4bxk?format=ical",
-"https://stegnerforidaho.com/events/salmon",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=grangeville++sandpoint%2C+idaho%2C+83864+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Grangeville&dates=20260726T170000Z%2F20260726T183000Z&location=Grangeville+%2C+Sandpoint%2C+Idaho%2C+83864%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/cda-ngrxf-cdfjm-c4bxk?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next July 28 Join John in Salmon",
+"href": "https://www.stegnerforidaho.com/events/salmon"
+},
+{
+"text": "Previous Previous July 25 Join John in Bonners Ferry",
+"href": "https://www.stegnerforidaho.com/events/cda-ngrxf-cdfjm-c4bxk-dl3df"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/join-john-in-grangeville-tickets-1994246401671?aff=ebdsoporgprofile"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "https://www.stegnerforidaho.com/events",
+"href": "https://www.stegnerforidaho.com/events"
+}
 ]

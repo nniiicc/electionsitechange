@@ -1,18 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://secure.actblue.com/donate/pamela-delancy-2",
-"https://votepamdelancy.com/",
-"https://votepamdelancy.com/contact",
-"https://votepamdelancy.com/home",
-"https://votepamdelancy.com/home-2",
-"https://votepamdelancy.com/issues",
-"https://votepamdelancy.com/meet_pamela",
-"https://votepamdelancy.com/news",
-"https://votepamdelancy.com/nurse",
-"https://votepamdelancy.com/photos",
-"https://votepamdelancy.com/photos/gallery/540c0e2b-1960-4f05-8f0f-c8db4b695225",
-"https://votepamdelancy.com/photos/gallery/7b3f06f1-f3b4-4254-ba57-3df96406ac32",
-"https://votepamdelancy.com/view-endorsements",
-"https://votepamdelancy.com/volunteer",
-"https://votepamdelancy.com/vote"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votepamdelancy.com/contact"
+},
+{
+"text": "DONATIONS",
+"href": "https://secure.actblue.com/donate/pamela-delancy-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votepamdelancy.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votepamdelancy.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.votepamdelancy.com/issues"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.votepamdelancy.com/meet_pamela"
+},
+{
+"text": "News",
+"href": "https://www.votepamdelancy.com/news"
+},
+{
+"text": "Nurse",
+"href": "https://www.votepamdelancy.com/nurse"
+},
+{
+"text": "Photos",
+"href": "https://www.votepamdelancy.com/photos"
+},
+{
+"text": "The Veteran",
+"href": "https://www.votepamdelancy.com/home-2"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votepamdelancy.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.votepamdelancy.com/vote"
+},
+{
+"text": "[image: Democratic Ground Game] Democratic Ground Game",
+"href": "https://www.votepamdelancy.com/photos/gallery/7b3f06f1-f3b4-4254-ba57-3df96406ac32"
+},
+{
+"text": "[image: Meeting Influential People] Meeting Influential People",
+"href": "https://www.votepamdelancy.com/photos/gallery/540c0e2b-1960-4f05-8f0f-c8db4b695225"
+},
+{
+"text": "[image: Pamela DeLancy]",
+"href": "https://www.votepamdelancy.com/"
+}
 ]

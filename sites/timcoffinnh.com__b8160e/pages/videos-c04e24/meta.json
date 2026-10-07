@@ -1,7 +1,9 @@
 {
  "description": "Discover Tim Coffin&#39;s independent candidate video and learn about his insights on New Hampshire politics, focusing on fair decision-making and community values.",
  "final_url": "https://timcoffinnh.com/videos",
- "paid_for_by": null,
+ "fingerprint": "a79be652c01ea59c322016efed0b2fb469536eee",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Videos",
  "years_mentioned": []
 }

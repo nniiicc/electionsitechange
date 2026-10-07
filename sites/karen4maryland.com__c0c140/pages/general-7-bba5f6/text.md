@@ -1,17 +1,2 @@
-top of page
-Page Title
-2023 Sponsored Bills Passed: 3
-2024 Sponsored Bills Passed: 2
-2025 Sponsored Bills Passed: 4
-2026 Sponsored Bills Passed: 3
-Bills Passed
-Caucus Action
-Karen is a proud member of the Women's, Latino, and Transit Caucuses.
-Karen voted favorable on legislation supported by the following caucuses:
-- Women's Legislative Caucus
-- LGTBQA+ Caucus
-- Latino Caucus
-- Black Caucus
-- Veterans Caucus
-- Transit Caucus
-bottom of page
+top of page Log In Simps n Karen State Delegate Page Title ​ 2023 Sponsored Bills Passed: 3 2024 Sponsored Bills Passed: 2 2025 Sponsored Bills Passed: 4 2026 Sponsored Bills Passed: 3 ​ MGA Bill Page Bills Passed 2023 Legislative Session HB309 – State Employee Rights and Protections – Personnel Actions and Harassment – Complaints ​ HB424 - State Retirement and Pension System - Nonvested Accounts - Regular Interest ​ HB 174 Criminal Procedure - Victims of Sexually Assaultive Behavior 2024 Legislative Session HB62 State Employee Rights and Protections - Personnel Actions and Harassment - Investigation of Complaints ​ HB960 City of Frederick - Assignment of Offenders to Road Work - Repeal ​ ​ 2025 Legislative Session HB 929 Family Law - Permanent Protective Orders - Consent ​ HB 241 Marriage - Confidential Communication ​ HB442 Criminal Procedure - Victims and Witnesses - Out of Court Statement of Child to Forensic Interviewer ​ HB492 Frederick County - County Employees and Volunteers - Criminal History Records Check 2026 Legislative Session HB403 Public Information Act - Divorce Records SB426 ​ HB497 Family Law - Temporary and Final Protective Orders - Duration ​ HB329 Criminal Law - School Resource Officers - Prohibition on Sexual Activity with Students ​ ​ Caucus Action Karen is a proud member of the Women's, Latino, and Transit Caucuses.
+Karen voted favorable on legislation supported by the following caucuses: Women's Legislative Caucus LGTBQA+ Caucus Latino Caucus Black Caucus Veterans Caucus Transit Caucus ​ Captial Budget 2023: $12,162,500 District 3 Capital Budget Projects 2024: $20,213,415 District 3 Capital Budget Projects 2025: $27,876,000 District 3 Capital Budget Projects 2026: $16,934,500 District 3 Capital Budget Projects JOIN THE CONVERSATION: ​Authorized by Friends of Karen Simpson Donna Flaharty, Treasurer PO Box 1358, Frederick, MD 21702 ©Copyright # Friends of Karen Simpson, All Rights Reserved Karen4Maryland@gmail.com ​ bottom of page

@@ -1,6 +1,4 @@
-March Statement
-Updated: Apr 16
-Thanks to everyone that has expressed an interest in my campaign.
+top of page Colin Smith Utah Senate District 13 Candidate Home About Volunteer Events Blog Saving The Lake Donate All Posts Search March Statement info6099033 Mar 19 2 min read Updated: Apr 16 Thanks to everyone that has expressed an interest in my campaign.
 I am so honored and thankful for your support.
 Our first event was our Campaign Launch Party at the Rose Park Library last Saturday, March 14.
 The event was a huge success!
@@ -33,4 +31,14 @@ Located at 115 South 1100 East, Salt Lake City, UT 84102.
 Go to utahforwardparty.org to sign up.
 I look “forward” to seeing all of you there!
 Together we can move Utah Forward!
-Colin
+Colin Recent Posts See All Food Drive and Yard Games May 2 Volleyball & Food Drive Thanks to everyone that came out to Fairmont Park yesterday for our great event!
+We served hot dogs, chips, soft drinks and cookies to over 50 people.
+In addition to en Forward Party State Convention April 16, 2026 Thanks to everyone that came out for our Statewide convention last Saturday.
+It was a huge success!
+It was very gratifying to see the hundreds of people that attended.
+I remember Salt Lake County Convention Thanks to everyone who attended the Salt Lake County Convention last Saturday.
+I especially want to thank Sue Schulman who helped us secure the location for this event.
+It was a successful conventio Colin Smith Building for a Better Future Email * Yes, subscribe me to your newsletter. * Submit Privacy Policy ​ © # Forward With Colin.
+Paid for by Forward With Colin, Alice Smith, Treasurer.
+Contributions are not tax deductible.
+Powered and secured by Wix bottom of page

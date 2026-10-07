@@ -1,22 +1,110 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&title=Bio+Original",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fc837a6_96481ea655134a6789d7fdc909b280d2~mv2.jpg%2Fv1%2Ffill%2Fw_100%2Ch_100%2Cal_c%2Cq_85%2Fc837a6_96481ea655134a6789d7fdc909b280d2~mv2.jpg&description=Bio+Original",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original",
-"https://facebook.com/pastormarkharris?mibextid=LQQJ4d",
-"https://markharrisforcongress.org/",
-"https://markharrisforcongress.org/about",
-"https://markharrisforcongress.org/accomplishments",
-"https://markharrisforcongress.org/category/active-qx",
-"https://markharrisforcongress.org/category/all-products",
-"https://markharrisforcongress.org/category/artisanal",
-"https://markharrisforcongress.org/category/best-sellers",
-"https://markharrisforcongress.org/category/kids-shoes",
-"https://markharrisforcongress.org/issues",
-"https://markharrisforcongress.org/privacy-policy",
-"https://markharrisforcongress.org/terms-and-conditions",
-"https://markharrisforcongress.org/volunteer",
-"https://secure.anedot.com/markharrisforcongress/donate",
-"https://secure.anedot.com/markharrisforcongress/donate?exitIntent=true",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&text=Bio+Original%0A",
-"https://x.com/markharrisnc9?s=21&t=g3yxkATT_O5Q6OiLxewfzA"
+{
+"text": "About",
+"href": "https://www.markharrisforcongress.org/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.markharrisforcongress.org/accomplishments"
+},
+{
+"text": "Active QX",
+"href": "https://www.markharrisforcongress.org/category/active-qx"
+},
+{
+"text": "Artisanal",
+"href": "https://www.markharrisforcongress.org/category/artisanal"
+},
+{
+"text": "Best Sellers",
+"href": "https://www.markharrisforcongress.org/category/best-sellers"
+},
+{
+"text": "CHIP IN $25 TO HELP CONGRESSMAN HARRIS FIGHT FOR OUR DISTRICT",
+"href": "https://secure.anedot.com/markharrisforcongress/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/markharrisforcongress/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/markharrisforcongress/donate?exitIntent=true"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&title=Bio+Original"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.markharrisforcongress.org/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.markharrisforcongress.org"
+},
+{
+"text": "Issues",
+"href": "https://www.markharrisforcongress.org/issues"
+},
+{
+"text": "Kids",
+"href": "https://www.markharrisforcongress.org/category/kids-shoes"
+},
+{
+"text": "Pinterest",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Fc837a6_96481ea655134a6789d7fdc909b280d2~mv2.jpg%2Fv1%2Ffill%2Fw_100%2Ch_100%2Cal_c%2Cq_85%2Fc837a6_96481ea655134a6789d7fdc909b280d2~mv2.jpg&description=Bio+Original"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.markharrisforcongress.org/privacy-policy"
+},
+{
+"text": "SMS/MMS Terms and Conditions",
+"href": "https://www.markharrisforcongress.org/terms-and-conditions"
+},
+{
+"text": "Shop All",
+"href": "https://www.markharrisforcongress.org/category/all-products"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original&text=Bio+Original%0A"
+},
+{
+"text": "Volunteer",
+"href": "https://www.markharrisforcongress.org/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.markharrisforcongress.org%2Fproduct-page%2Fbio-original"
+},
+{
+"text": "[image: Facebook (White).png]",
+"href": "https://www.facebook.com/pastormarkharris?mibextid=LQQJ4d"
+},
+{
+"text": "[image: Gemini_Generated_Image_9yk8hd9yk8hd9yk8 (1).png]",
+"href": "https://www.facebook.com/pastormarkharris?mibextid=LQQJ4d"
+},
+{
+"text": "[image: Gemini_Generated_Image_nlo9flnlo9flnlo9 (1).png]",
+"href": "https://www.markharrisforcongress.org"
+},
+{
+"text": "[image: Gemini_Generated_Image_oz1vrcoz1vrcoz1v (1).png]",
+"href": "https://x.com/markharrisnc9?s=21&t=g3yxkATT_O5Q6OiLxewfzA"
+},
+{
+"text": "[image: Pink Poppy Flowers]",
+"href": "https://www.markharrisforcongress.org"
+},
+{
+"text": "[image: X (White).png]",
+"href": "https://x.com/markharrisnc9?s=21&t=g3yxkATT_O5Q6OiLxewfzA"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/markharrisforcongress/donate"
+}
 ]

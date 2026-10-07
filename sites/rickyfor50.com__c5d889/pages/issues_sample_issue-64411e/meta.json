@@ -1,7 +1,9 @@
 {
  "description": "Sample Issue",
  "final_url": "https://rickyfor50.com/issues/sample_issue",
- "paid_for_by": null,
+ "fingerprint": "c286f3c5f3b5b0ed085e1132288bc4c104f3a3f5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Uphold The Constitution",
  "years_mentioned": []
 }

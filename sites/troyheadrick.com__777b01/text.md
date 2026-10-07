@@ -1,4 +1,4 @@
-I am Troy Headrick and I serve the Chittenden-15 district in the Vermont House of Representatives.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog I am Troy Headrick and I serve the Chittenden-15 district in the Vermont House of Representatives.
 Our workforce, our community, and our local economy are strengthened when we pay all workers a livable wage.
 Fair wages should extend to incarcerated Vermonters.
 I am a proud member of UVM Staff United and believe that union membership strengthens collective pride in our institutions.
@@ -10,3 +10,4 @@ Abortion is healthcare.
 A woman’s right to make her own decisions about her body are fundamental and undeniable.
 We reside on unceded colonized land and we have an obligation to repair the continuing harm to its original caretakers (the Abenaki First Nations of Odanak and Wôlinak).
 In violation of United Nations standards, the State of Vermont failed to include these legitimate First Nations when they recognized self-identified groups.
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

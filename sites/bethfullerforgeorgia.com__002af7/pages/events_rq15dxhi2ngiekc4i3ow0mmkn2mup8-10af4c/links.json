@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Unity+Fundraiser&dates=20260830T200000Z%2F20260830T220000Z",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/bryce-and-beth",
-"https://bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta",
-"https://bethfullerforgeorgia.com/events/rq15dxhi2ngiekc4i3ow0mmkn2mup8?format=ical",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://secure.actblue.com/donate/adamclevelandbethfuller",
-"https://secure.actblue.com/donate/elizabeth-fuller-1"
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=North+Fulton+Unity+Fundraiser&dates=20260830T200000Z%2F20260830T220000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/rq15dxhi2ngiekc4i3ow0mmkn2mup8?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next September 5 Canvass in Buckhead - Rep. Bryce Berry, Beth Fuller, & the Take It Back Fellowship!",
+"href": "https://www.bethfullerforgeorgia.com/events/bryce-and-beth"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous August 29 Canvass for Beth Fuller & Adam Cleveland with Indivisible North Metro Atlanta",
+"href": "https://www.bethfullerforgeorgia.com/events/canvass-for-beth-fuller-adam-cleveland-with-indivisible-north-metro-atlanta"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://secure.actblue.com/donate/adamclevelandbethfuller",
+"href": "https://secure.actblue.com/donate/adamclevelandbethfuller"
+}
 ]

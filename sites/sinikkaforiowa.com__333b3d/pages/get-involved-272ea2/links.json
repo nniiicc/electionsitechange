@@ -1,12 +1,46 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSdoBAoCCRZKCOe_mvxrbHrC3uKsqP81BDzbcI3WWovIUmpuyw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSfaJ_ZTJ4I73WoOWbCtLK8COZj94N3RtlWFzqSdFM9aEgC5cQ/viewform",
-"https://facebook.com/sinikkaforiowa",
-"https://instagram.com/sinikka_for_iowa",
-"https://secure.actblue.com/donate/sinikka-waugh-iowa",
-"https://sinikkaforiowa.com/",
-"https://sinikkaforiowa.com/district11",
-"https://sinikkaforiowa.com/get-involved",
-"https://sinikkaforiowa.com/priorities",
-"https://tiktok.com/@sinikka.waugh?is_from_webapp=1&sender_device=pc"
+{
+"text": "DISTRICT",
+"href": "https://www.sinikkaforiowa.com/district11"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/sinikka-waugh-iowa"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.sinikkaforiowa.com/get-involved"
+},
+{
+"text": "Get a Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdoBAoCCRZKCOe_mvxrbHrC3uKsqP81BDzbcI3WWovIUmpuyw/viewform"
+},
+{
+"text": "MEET SINIKKA",
+"href": "https://www.sinikkaforiowa.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.sinikkaforiowa.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfaJ_ZTJ4I73WoOWbCtLK8COZj94N3RtlWFzqSdFM9aEgC5cQ/viewform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/sinikkaforiowa/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/sinikka_for_iowa/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@sinikka.waugh?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: Untitled design (12).png]",
+"href": "https://www.sinikkaforiowa.com"
+}
 ]

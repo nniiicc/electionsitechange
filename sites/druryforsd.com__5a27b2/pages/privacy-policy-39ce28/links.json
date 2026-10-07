@@ -1,12 +1,66 @@
 [
-"http://optout.aboutads.info/",
-"https://druryforsd.com/",
-"https://druryforsd.com/cart",
-"https://druryforsd.com/privacy-policy",
-"https://facebook.com/drurydistrict",
-"https://facebook.com/policies/cookies",
-"https://google.com/analytics/terms/us.html",
-"https://google.com/policies/privacy",
-"https://secure.anedot.com/drury-for-sd/donate",
-"https://usa.gov/optout-instructions"
+{
+"text": "0",
+"href": "https://www.druryforsd.com/cart"
+},
+{
+"text": "605.209.5469",
+"href": "tel:6052095469"
+},
+{
+"text": "About Me",
+"href": "https://www.druryforsd.com/#about-anchor"
+},
+{
+"text": "Becky Drury for District 34 House",
+"href": "https://www.druryforsd.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.druryforsd.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/drury-for-sd/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.druryforsd.com/#endorsements"
+},
+{
+"text": "Google Analytics Terms of Use",
+"href": "https://www.google.com/analytics/terms/us.html"
+},
+{
+"text": "Google Privacy Policy",
+"href": "https://www.google.com/policies/privacy/"
+},
+{
+"text": "Pillars of Service",
+"href": "https://www.druryforsd.com/#pillars-of-service"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.druryforsd.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/drurydistrict/"
+},
+{
+"text": "becky@druryforsd.com",
+"href": "mailto:becky@druryforsd.com"
+},
+{
+"text": "disabling cookies",
+"href": "https://www.usa.gov/optout-instructions"
+},
+{
+"text": "here",
+"href": "http://optout.aboutads.info/#/completed"
+},
+{
+"text": "here",
+"href": "https://www.facebook.com/policies/cookies/"
+}
 ]

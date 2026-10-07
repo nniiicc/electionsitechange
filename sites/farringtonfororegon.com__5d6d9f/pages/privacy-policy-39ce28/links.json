@@ -1,14 +1,58 @@
 [
-"http://farringtonfororegon.com/",
-"https://facebook.com/share/1KYpTFvzCx?mibextid=wwXIfr",
-"https://farringtonfororegon.com/",
-"https://farringtonfororegon.com/cart",
-"https://farringtonfororegon.com/contact",
-"https://farringtonfororegon.com/endorsements",
-"https://farringtonfororegon.com/home",
-"https://farringtonfororegon.com/issues",
-"https://farringtonfororegon.com/privacy-policy",
-"https://farringtonfororegon.com/volunteer",
-"https://instagram.com/farringtonfororegon",
-"https://secure.anedot.com/farrington-for-oregon/donate"
+{
+"text": "0",
+"href": "https://www.farringtonfororegon.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.farringtonfororegon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/farrington-for-oregon/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.farringtonfororegon.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.farringtonfororegon.com/"
+},
+{
+"text": "Home",
+"href": "https://www.farringtonfororegon.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.farringtonfororegon.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.farringtonfororegon.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.farringtonfororegon.com/volunteer"
+},
+{
+"text": "[image: Farrington for Oregon]",
+"href": "https://www.farringtonfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1KYpTFvzCx/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/farringtonfororegon"
+},
+{
+"text": "info@farringtonfororegon.com",
+"href": "mailto:info@farringtonfororegon.com"
+},
+{
+"text": "www.farringtonfororegon.com",
+"href": "http://www.farringtonfororegon.com/"
+}
 ]

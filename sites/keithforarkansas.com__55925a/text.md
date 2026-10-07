@@ -1,12 +1,4 @@
-TRUSTED
-LEADERSHIP
-for District 78
-As Your State Representative, Keith Brooks has:
-STRENGTHENED
-STUDENT LITERACY through the LEARNS Act by adding 120 Literacy Coaches in Arkansas
-Championed
-Teacher Pay and Retention INcluding the largest teacher salary increases in history
-Supported
-millions in income tax cuts for hard-working Arkansans
-Protected
-Arkansas Families Through the protect act keeping violent offenders off our streets
+Issues Contact Donate Issues Contact Donate TRUSTED LEADERSHIP for District 78 As Your State Representative, Keith Brooks has: STRENGTHENED STUDENT LITERACY through the LEARNS Act by adding 120 Literacy Coaches in Arkansas Championed Teacher Pay and Retention INcluding the largest teacher salary increases in history Supported millions in income tax cuts for hard-working Arkansans Protected Arkansas Families Through the protect act keeping violent offenders off our streets EXPLORE THE ISSUES Issues Contact Donate Keith Brooks is a native Arkansan and the owner of an insurance agency in Saline County.
+He is a graduate of Harding University in Searcy, where he also received his Masters in Business Administration (MBA).
+He and his wife, Jenny, have three beautiful children.
+Paid for by Keith For Arkansas

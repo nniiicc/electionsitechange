@@ -1,33 +1,182 @@
 [
-"https://apolloartistry.com/",
-"https://seanmccannforcongress.com/",
-"https://seanmccannforcongress.com/about",
-"https://seanmccannforcongress.com/accessibility",
-"https://seanmccannforcongress.com/bluesky",
-"https://seanmccannforcongress.com/cdn-cgi/l/email-protection",
-"https://seanmccannforcongress.com/district",
-"https://seanmccannforcongress.com/donate",
-"https://seanmccannforcongress.com/endorsements",
-"https://seanmccannforcongress.com/facebook",
-"https://seanmccannforcongress.com/instagram",
-"https://seanmccannforcongress.com/issues",
-"https://seanmccannforcongress.com/news",
-"https://seanmccannforcongress.com/privacy-policy",
-"https://seanmccannforcongress.com/take-action",
-"https://seanmccannforcongress.com/twitter",
-"https://seanmccannforcongress.com/vote",
-"https://seanmccannforcongress.com/wp-content/uploads/2026/01/GW.jpg",
-"https://seanmccannforcongress.com/wp-content/uploads/2026/01/Li.jpg",
-"https://seanmccannforcongress.com/wp-content/uploads/2026/01/MS.jpg",
-"https://seanmccannforcongress.com/wp-content/uploads/2026/02/hs.jpg",
-"https://seanmccannforcongress.com/wp-content/uploads/2026/02/jb2.jpg",
-"https://seanmccannforcongress.com/youtube",
-"https://secure.actblue.com/donate/sm-website",
-"https://secure.actblue.com/donate/sm-website?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/sm-website?amount=500&express_lane=true"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=50&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=5&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=50&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/sm-website?amount=500&express_lane=true"
+},
+{
+"text": "About",
+"href": "https://seanmccannforcongress.com/about"
+},
+{
+"text": "About",
+"href": "https://seanmccannforcongress.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://seanmccannforcongress.com/accessibility"
+},
+{
+"text": "Contact",
+"href": "mailto:info@seanmccannforcongress.com"
+},
+{
+"text": "District",
+"href": "https://seanmccannforcongress.com/district"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/sm-website"
+},
+{
+"text": "Endorsements",
+"href": "https://seanmccannforcongress.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://seanmccannforcongress.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://seanmccannforcongress.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://seanmccannforcongress.com"
+},
+{
+"text": "Instagram",
+"href": "https://seanmccannforcongress.com/instagram"
+},
+{
+"text": "Issues",
+"href": "https://seanmccannforcongress.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://seanmccannforcongress.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://seanmccannforcongress.com/news/"
+},
+{
+"text": "Media Inquiry",
+"href": "mailto:press@seanmccannforcongress.com"
+},
+{
+"text": "News",
+"href": "https://seanmccannforcongress.com/news"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/sm-website"
+},
+{
+"text": "Other Amount...",
+"href": "https://seanmccannforcongress.com/donate"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://seanmccannforcongress.com/privacy-policy"
+},
+{
+"text": "Take Action Take Action",
+"href": "https://seanmccannforcongress.com/take-action"
+},
+{
+"text": "Vote",
+"href": "https://seanmccannforcongress.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://seanmccannforcongress.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://seanmccannforcongress.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://seanmccannforcongress.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://seanmccannforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: logo light]",
+"href": "https://seanmccannforcongress.com"
+},
+{
+"text": "[image]",
+"href": "https://seanmccannforcongress.com/wp-content/uploads/2026/01/GW.jpg"
+},
+{
+"text": "[image]",
+"href": "https://seanmccannforcongress.com/wp-content/uploads/2026/01/Li.jpg"
+},
+{
+"text": "[image]",
+"href": "https://seanmccannforcongress.com/wp-content/uploads/2026/01/MS.jpg"
+},
+{
+"text": "[image]",
+"href": "https://seanmccannforcongress.com/wp-content/uploads/2026/02/hs.jpg"
+},
+{
+"text": "[image]",
+"href": "https://seanmccannforcongress.com/wp-content/uploads/2026/02/jb2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://seanmccannforcongress.com/bluesky"
+}
 ]

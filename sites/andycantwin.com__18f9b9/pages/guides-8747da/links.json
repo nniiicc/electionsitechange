@@ -1,24 +1,98 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/county",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/es/county",
-"https://andycantwin.com/es/datacenter",
-"https://andycantwin.com/es/duke",
-"https://andycantwin.com/es/healthbills",
-"https://andycantwin.com/es/leandro",
-"https://andycantwin.com/es/vote",
-"https://andycantwin.com/es/voterfraud",
-"https://andycantwin.com/healthbills",
-"https://andycantwin.com/index.html",
-"https://andycantwin.com/leandro",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/vote",
-"https://andycantwin.com/voterfraud",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "00 Back to The whole story →",
+"href": "https://andycantwin.com/index.html"
+},
+{
+"text": "05",
+"href": "https://andycantwin.com/index.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Follow the bill",
+"href": "https://andycantwin.com/county/"
+},
+{
+"text": "Get the backstory",
+"href": "https://andycantwin.com/leandro/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Make sense of it",
+"href": "https://andycantwin.com/healthbills/"
+},
+{
+"text": "Meet the machine",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "Read the guide",
+"href": "https://andycantwin.com/vote/"
+},
+{
+"text": "Settle the argument",
+"href": "https://andycantwin.com/voterfraud/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Take the tour",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/county/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/datacenter/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/duke/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/healthbills/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/leandro/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/vote/"
+},
+{
+"text": "en español",
+"href": "https://andycantwin.com/es/voterfraud/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+}
 ]

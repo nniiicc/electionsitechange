@@ -1,44 +1,174 @@
 [
-"http://instagram.com/conradforharlem",
-"http://twitter.com/conradforharlem",
-"https://act.conradforharlem.com/upcoming-events",
-"https://actionnetwork.org/forms/build-power-and-community-in-harlem-with-conrad-volunteer",
-"https://amiregistered.vote.nyc/",
-"https://bsky.app/profile/conradforharlem.bsky.social",
-"https://caringmajorityrising.org/",
-"https://cirseiu.org/",
-"https://citizenactionny.org/",
-"https://conradforharlem.com/",
-"https://conradforharlem.com/cart",
-"https://conradforharlem.com/endorsements",
-"https://conradforharlem.com/faq-1",
-"https://conradforharlem.com/meet-conrad",
-"https://conradforharlem.com/meetconrad",
-"https://conradforharlem.com/platform",
-"https://conradforharlem.com/press",
-"https://conradforharlem.com/volunteer",
-"https://conradforharlem.com/volunteer1",
-"https://conradforharlem.com/vote",
-"https://cuffhaction.org/",
-"https://cvhpower.org/",
-"https://facebook.com/conradforharlem",
-"https://indivisibleharlem.com/",
-"https://jimowles.org/",
-"https://jvpaction.org/",
-"https://mdcny.org/",
-"https://metcouncilonhousing.org/",
-"https://nalaf.org/",
-"https://nycommunities.org/",
-"https://nypan.org/",
-"https://osaunion.org/",
-"https://region9a.uaw.org/",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/conrad-blackburn-website",
-"https://secure.actblue.com/donate/conradfornewyork",
-"https://socialists.nyc/",
-"https://sunrisenyc.org/",
-"https://tiktok.com/@conradforharlem",
-"https://treeageteam.org/",
-"https://vfar.org/",
-"https://workingfamilies.org/state/new-york"
+{
+"text": "0",
+"href": "https://conradforharlem.com/cart"
+},
+{
+"text": "Back",
+"href": "https://conradforharlem.com/"
+},
+{
+"text": "Check voter registration",
+"href": "https://amiregistered.vote.nyc/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/conrad-blackburn-website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/conradfornewyork"
+},
+{
+"text": "Events",
+"href": "https://act.conradforharlem.com/upcoming-events"
+},
+{
+"text": "FAQ",
+"href": "https://conradforharlem.com/faq-1"
+},
+{
+"text": "Folder: Meet Conrad",
+"href": "https://conradforharlem.com/meetconrad"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://conradforharlem.com/volunteer1"
+},
+{
+"text": "Meet Conrad",
+"href": "https://conradforharlem.com/meet-conrad"
+},
+{
+"text": "Platform",
+"href": "https://conradforharlem.com/platform"
+},
+{
+"text": "Press",
+"href": "https://conradforharlem.com/press"
+},
+{
+"text": "Proudly Endorsed By",
+"href": "https://conradforharlem.com/endorsements"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/build-power-and-community-in-harlem-with-conrad-volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://conradforharlem.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://conradforharlem.com/vote"
+},
+{
+"text": "[image: Conrad Blackburn for Assembly District 70]",
+"href": "https://conradforharlem.com/"
+},
+{
+"text": "[image]",
+"href": "https://caringmajorityrising.org/"
+},
+{
+"text": "[image]",
+"href": "https://citizenactionny.org/"
+},
+{
+"text": "[image]",
+"href": "https://indivisibleharlem.com/"
+},
+{
+"text": "[image]",
+"href": "https://jimowles.org/"
+},
+{
+"text": "[image]",
+"href": "https://nypan.org/"
+},
+{
+"text": "[image]",
+"href": "https://region9a.uaw.org/"
+},
+{
+"text": "[image]",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "[image]",
+"href": "https://socialists.nyc"
+},
+{
+"text": "[image]",
+"href": "https://sunrisenyc.org/"
+},
+{
+"text": "[image]",
+"href": "https://vfar.org/"
+},
+{
+"text": "[image]",
+"href": "https://workingfamilies.org/state/new-york/"
+},
+{
+"text": "[image]",
+"href": "https://www.cirseiu.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.cuffhaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.cvhpower.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.jvpaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.mdcny.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.metcouncilonhousing.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nalaf.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.nycommunities.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.osaunion.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.treeageteam.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/conradforharlem"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/conradforharlem"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/conradforharlem.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/conradforharlem/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@conradforharlem"
+}
 ]

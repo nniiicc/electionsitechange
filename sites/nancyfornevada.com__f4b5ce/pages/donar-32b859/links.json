@@ -1,15 +1,78 @@
 [
-"https://facebook.com/nancyfornevada",
-"https://instagram.com/nanfornevada",
-"https://nancyfornevada.com/acerca-de-nancy",
-"https://nancyfornevada.com/api/auth/signin",
-"https://nancyfornevada.com/asuntos",
-"https://nancyfornevada.com/contacto",
-"https://nancyfornevada.com/donate",
-"https://nancyfornevada.com/eventos",
-"https://nancyfornevada.com/hogar",
-"https://nancyfornevada.com/preguntas-frecuentes",
-"https://nancyfornevada.com/prensa",
-"https://nancyfornevada.com/privacy-policy",
-"https://twitter.com/nanfornevada"
+{
+"text": "702.370.8970",
+"href": "tel:7023708970"
+},
+{
+"text": "Acerca",
+"href": "https://nancyfornevada.com/acerca-de-nancy"
+},
+{
+"text": "Asuntos",
+"href": "https://nancyfornevada.com/asuntos"
+},
+{
+"text": "Consultas de prensa",
+"href": "mailto:nancy@nancyfornevada.com"
+},
+{
+"text": "Contacto",
+"href": "https://nancyfornevada.com/contacto"
+},
+{
+"text": "Donar",
+"href": "https://nancyfornevada.com/donate/"
+},
+{
+"text": "ENG",
+"href": "https://nancyfornevada.com/donate"
+},
+{
+"text": "Entrar",
+"href": "https://nancyfornevada.com/api/auth/signin"
+},
+{
+"text": "Eventos",
+"href": "https://nancyfornevada.com/eventos"
+},
+{
+"text": "Medios",
+"href": "https://nancyfornevada.com/prensa#media"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://nancyfornevada.com/privacy-policy"
+},
+{
+"text": "Preguntas",
+"href": "https://nancyfornevada.com/preguntas-frecuentes"
+},
+{
+"text": "Respaldos",
+"href": "https://nancyfornevada.com/prensa"
+},
+{
+"text": "Respaldos",
+"href": "https://nancyfornevada.com/prensa#endorsements"
+},
+{
+"text": "[image: Nancy \"Nan\" Roecker for Nevada State Assembly District 12 campaign logo]",
+"href": "https://nancyfornevada.com/hogar"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/nanfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancyfornevada"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nanfornevada"
+},
+{
+"text": "nancy@nancyfornevada.com",
+"href": "mailto:nancy@nancyfornevada.com"
+}
 ]

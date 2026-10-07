@@ -1,12 +1,10 @@
-Questions About Tiffany Byrne and LD 25
-Straight answers about the candidate, the district, and the 2026 election.
+Arizona House of Representatives · District 25 · 2026 Español Home About Issues Events FAQ Contact Get Updates 2026 Ballot Frequently Asked Questions Questions About Tiffany Byrne and LD 25 Straight answers about the candidate, the district, and the 2026 election.
 Who is Tiffany Byrne?
 Tiffany Byrne is a Democratic candidate for the Arizona House of Representatives in Legislative District 25 in 2026.
 She is a 30-year Arizona resident and a career educator with more than 20 years as a high school chemistry teacher.
 What office is Tiffany Byrne running for?
 She is running for State Representative in the Arizona House of Representatives, representing Legislative District 25, on the 2026 ballot.
-What party does Tiffany belong to
-Tiffany is a Democratic candidate focused on practical, common-sense solutions that strengthen working families and create opportunities for people to thrive.
+What party does Tiffany belong to Tiffany is a Democratic candidate focused on practical, common-sense solutions that strengthen working families and create opportunities for people to thrive.
 She believes in bringing our community together, finding common ground, and moving forward rather than deepening the divisions that pull us apart.
 Does Tiffany get contributions from any special interest groups?
 No, Tiffany is proud to be a Clean Elections candidate.
@@ -33,3 +31,7 @@ Through the Arizona Secretary of State's service at my.arizona.vote.
 District boundaries can be confirmed via the Arizona Clean Elections district locator.
 Still Have a Question?
 Reach out to the campaign and we'll get back to you.
+Contact Us Fighting for District 25 families, students, and working communities.
+Quick Links About Tiffany Issues Events FAQ Contact Get Updates 2026 Ballot Contact byrneazld25@gmail.com Follow Along Paid for by Tiffany Byrne for State Representative Legislative District 25 Committee.
+Authorized by Candidate Tiffany Byrne. © # Tiffany Byrne for Arizona LD 25.
+All rights reserved.

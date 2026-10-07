@@ -1,6 +1,5 @@
-FARMING
-One of my favorite quotes is from Eric Sannerund “Without the farmer you would be naked, hungry, and sober.”
-It's not just a quip - it's reality.
+top of page ABOUT ISSUES IMMIGRATION EDUCATION QUALITY OF LIFE DATA CENTERS AFFORDABILITY FARMING PUBLIC OFFICIALS WHY LARA GET INVOLVED DONATE CONTACT More Use tab to navigate through the menu items.
+FARMING One of my favorite quotes is from Eric Sannerund “Without the farmer you would be naked, hungry, and sober.” It's not just a quip - it's reality.
 Farming is “Maryland’s largest commercial industry employing 350,000 people.
 In economic impact, Agriculture contributed approximately $8.25 billion annually to the State’s economy and covered nearly 2 million acres of Maryland in 2022.” (Maryland Department of Agriculture, 2025).
 Yet farming is not treated equally as other industry sectors, such as data centers, bio tech, or the federal sector, in the state.
@@ -29,6 +28,5 @@ For example, food subsidies for such things as eggs, milk, bread, rice are not d
 Another example is that State-owned wildlife such as deer, geese, and other wildlife that feed on farm crops cause a significant loss in production.
 What other industry is it okay for the state to do damage to their product with little recourse.
 While the 2025 Wildlife Damage Prevention and Reimbursement Fund bill (HB1511/SB736) was a good start, it needs to better address state animal management plans and no-kill options.
-We need a new approach to an industry wide issue that will provide economic stabilization to farmers, balance a volatile commodities market, and work with state and local food scarcity organizations to bolster the farm economy to improve statewide food security
-In short, the time has come for Maryland’s laws, not words, to embrace the reality that: “There is no Maryland without the farmers, growers, and agricultural workers who provide food, fiber, and fuel for our communities.
-They are the backbone of our economy and the foundation of our way of life.” (Governor Moore, 2026)
+We need a new approach to an industry wide issue that will provide economic stabilization to farmers, balance a volatile commodities market, and work with state and local food scarcity organizations to bolster the farm economy to improve statewide food security In short, the time has come for Maryland’s laws, not words, to embrace the reality that: “There is no Maryland without the farmers, growers, and agricultural workers who provide food, fiber, and fuel for our communities.
+They are the backbone of our economy and the foundation of our way of life.” (Governor Moore, 2026) CONTACT LARA Lara@Westdorp4Senate.com (301)371-8556 PO Box 171, Monrovia, MD 21770 2025 by Authority of Friends of Lara Westdorp, Mollene Fisher, Treasurer bottom of page

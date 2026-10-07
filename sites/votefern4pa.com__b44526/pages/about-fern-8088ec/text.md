@@ -1,5 +1,4 @@
-About Fern
-Fern Leard is a NEPA native, a mother of twins, and a longtime healthcare advocate who has spent her life standing up for working families.
+Skip to content About Issues Take Action Events Endorsements Contact Us Store About Issues Take Action Events Endorsements Contact Us Store DONATE About About Fern Fern Leard is a NEPA native, a mother of twins, and a longtime healthcare advocate who has spent her life standing up for working families.
 Raised by a single mom, her grandmother, and foster parents, Fern learned early on that hard work and perseverance matter.
 Growing up in public housing, rural communities, and the suburbs gave her a firsthand understanding of the challenges many families face and the importance of strong communities that look out for one another.
 When Fern found the Back Mountain, she found home.
@@ -8,7 +7,7 @@ After graduating high school with honors, Fern went straight into the workforce.
 She washed dishes, waited tables, tended bar, and worked long hours to support herself.
 Like many people in NEPA, she understands what it means to juggle responsibilities, work whatever shifts are available, and still feel the pressure of rising costs.
 Her path was built through hard work, not political connections or insider support.
-When her twins were born with a rare disease, Fern found herself navigating a complicated healthcare system and fighting for the care her children needed.
+LEARN ABOUT JANET’S STORY When her twins were born with a rare disease, Fern found herself navigating a complicated healthcare system and fighting for the care her children needed.
 That experience opened her eyes to how often families are left to advocate for themselves while insurance companies and large corporations make decisions that directly impact people’s lives.
 Instead of accepting that reality, Fern took her fight to Congress.
 After an insurance company denied an essential part of her sons’ treatment, she became an advocate for the federal Lymphedema Treatment Act and helped pass legislation that expanded access to medically necessary treatment and preventative care.
@@ -33,3 +32,8 @@ They deserve the ability to build a life, own a home, save money, raise a family
 She believes the economy should work for the people doing the work and that families who work hard every day deserve to actually feel the benefits of that work.
 Fern Leard is running because she believes working families deserve representation that puts people ahead of corporate influence and political games.
 Her campaign is powered by community support, not corporate PAC money, and she is committed to fighting for policies that make life more affordable, communities more stable, and government more responsive to the people it serves.
+Scratch Meatball's Ear to Donate a Dollar!
+Fern’s campaign relies on small donations from passionate supporters like you.
+Your Donation Can Make a Difference It’s time to stop sending people to Harrisburg to provide solutions to problems they have never experienced.
+Fern Leard has the life experience and determination to get things done.
+Help her help us by donating to her campaign today. $# $# $# $# Custom Contact Us 570-851-3890 info@votefern4pa.com Facebook X-twitter Instagram Tiktok SIGN UP FOR OUR NEWSLETTER

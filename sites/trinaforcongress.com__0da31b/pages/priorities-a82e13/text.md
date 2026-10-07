@@ -1,15 +1,9 @@
-WHERE TRINA STANDS
-Priorities & Issues
-Every position I take is grounded in the pillars that drive this campaign, practical solutions for the people of Minnesota’s 8th District.
+Skip to content Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News SIGN UP DONATE SIGN UP DONATE Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News Meet Trina Priorities Get Involved Volunteer Store Voter Concerns Events Upcoming Events Let’s Fix it Tour Endorsements News WHERE TRINA STANDS Priorities & Issues Every position I take is grounded in the pillars that drive this campaign, practical solutions for the people of Minnesota’s 8th District.
 I am out in the district listening.
 I understand what people are facing and what’s at stake.
 I take it seriously, and I will carry that with me representing MN-08.
-Care Close to Home
-Affordable and accessible healthcare should not depend on your job, your ZIP code, or your age.
-- Universal healthcare
-- Keep care local
-- Lower costs
-Basic health care is shrinking in northern and central Minnesota.
+Healthcare Mining affordability Boundary waters Immigration Tribal Nations MN-8 Farmers Care Close to Home Affordable and accessible healthcare should not depend on your job, your ZIP code, or your age.
+Universal healthcare Keep care local Lower costs Basic health care is shrinking in northern and central Minnesota.
 A routine appointment turns into a day off work and a full tank of gas.
 A specialist means months of waiting.
 A 911 call doesn’t bring immediate help.
@@ -27,13 +21,9 @@ I will protect health insurance tax credits so 90,000 Minnesotans don’t see co
 I will fight to lower prescription prices and cap prices of life-saving medications.
 Lastly, healthcare decisions should be made between patients and their providers, not by judges and politicians.
 It is time for a Representative who fights to make sure Americans have the same affordable, high-quality healthcare as Congress has.
-Mining That Works for Minnesota
-Mining built northern Minnesota.
+Mining That Works for Minnesota Mining built northern Minnesota.
 The next chapter has to protect both jobs and the land.
-- Protect good jobs
-- Protect clean water
-- Make decisions based on science
-Taconite, timber, and the people who show up every morning to do the hard work in the Iron Range helped build Minnesota.
+Protect good jobs Protect clean water Make decisions based on science Taconite, timber, and the people who show up every morning to do the hard work in the Iron Range helped build Minnesota.
 When people in the district talk about mining, they are not debating a policy position.
 They are talking about their grandfather’s legacy, a paycheck that pays the bills, a pension, and jobs that will allow their kids to stay on the Range.
 We choose to call Minnesota home because of the lakes we fish, the lands we hunt, the clean water we drink, the wild rice we harvest, and the woods we camp in.
@@ -49,12 +39,8 @@ We need to reduce reliance on other nations, but not by letting foreign corporat
 Mining must benefit our communities, prioritize our workforce, and protect our environment.
 In the long-run, doing things the cheapest way becomes the most expensive way for local communities.
 Corporations must use the best technology available, even if it costs more.
-Real Affordability
-People here are doing everything right and still coming up short.
-- Manageable costs
-- Livable wages
-- Hold the system accountable
-Grocery receipts are skyrocketing, containers get smaller, and pay checks are staying the same.
+Real Affordability People here are doing everything right and still coming up short.
+Manageable costs Livable wages Hold the system accountable Grocery receipts are skyrocketing, containers get smaller, and pay checks are staying the same.
 People are wondering if they can afford to fill the gas tank while paying their utilities with the same paycheck.
 Meanwhile, rent, mortgages, and property taxes continue to climb.
 People here are not confused about the economy.
@@ -72,12 +58,8 @@ A tax break on overtime doesn’t fix the problem.
 It proves it.
 You shouldn’t need to work overtime just to get by.
 Minnesotans deserve jobs close to home with livable wages, strong union protections, and stability.
-Boundary Waters Canoe Area Wilderness
-Say no to destroying treasured land for foreign profit.
-- Protect our wilderness
-- Protect clean water
-- Protect the economy it supports
-The Boundary Waters is not a place on a map.
+Boundary Waters Canoe Area Wilderness Say no to destroying treasured land for foreign profit.
+Protect our wilderness Protect clean water Protect the economy it supports The Boundary Waters is not a place on a map.
 It is a national treasure.
 It is where we paddle at sunrise, where outfitters make a living season by season, and where clean water drives a tourism economy that supports thousands of jobs.
 It is clean water, quiet woods, and a place people go to reset.
@@ -93,14 +75,10 @@ Current BWCA watershed mining proposals would rely heavily on automation, and ou
 Their plan is to ship the minerals to China for smelting, forcing Americans to buy back our own minerals WITH TARIFFS.
 This plan will not reduce American dependence on other countries for these critical minerals, and our BWCA may be permanently damaged by a company with a long record of noncompliance with environmental controls.
 I want to see Minnesota’s critical mineral wealth benefit Minnesotans, but clean water is non-negotiable for our way of life.
-Immigration Reform
-Secure the border.
+Immigration Reform Secure the border.
 Fix the system.
 Enforce the law while treating people with dignity.
-- Secure borders
-- Functional systems
-- Fair enforcement
-Like most Minnesotans, I reject the violence, cruelty, and chaos we have seen from immigration enforcement in recent years.
+Secure borders Functional systems Fair enforcement Like most Minnesotans, I reject the violence, cruelty, and chaos we have seen from immigration enforcement in recent years.
 After two decades at DHS, with U.S.
 Citizenship & Immigration Services, I know we can secure our borders while upholding the rule of law that has defined this country for generations.
 We do not have to choose between security and our values.
@@ -123,13 +101,9 @@ We want to attract the greatest talent from around the world to continue to be a
 We cannot do that without immigrants.
 We are a nation built by immigrants.
 We can both protect our border and uphold our values.
-Tribal Nations and Native Communities
-The Seven Ojibwe Nations in the 8th District are sovereign and self-governing.
+Tribal Nations and Native Communities The Seven Ojibwe Nations in the 8th District are sovereign and self-governing.
 They deserve a representative who works with them, not around them.
-- Respect Tribal sovereignty
-- Honoring the Government-Government Relationship
-- Investing in Tribal Communities
-Minnesota’s 8th District is home to all seven sovereign Ojibwe Nations, who collectively represent over 45,000 tribal citizens.
+Respect Tribal sovereignty Honoring the Government-Government Relationship Investing in Tribal Communities Minnesota’s 8th District is home to all seven sovereign Ojibwe Nations, who collectively represent over 45,000 tribal citizens.
 I am committed to upholding the federal trust responsibility and a direct government-to-government relationship with all Tribal Nations.
 For too long, Tribal Nations in the 8th District have been ignored by our current Member of Congress.
 Promises of engagement and consultation were broken, priorities disregarded, rights and resources put at risk, and Congressman Stauber led the Republican party’s opposition to Deb Haaland’s historic Cabinet nomination rather than listening or even talking to the Tribes in the District.
@@ -143,12 +117,8 @@ My work at the Department of Homeland Security included efforts to stop human tr
 Tribal Nations deserve a Representative who listens, learns, and works in partnership with Tribal leaders on a government-to-government basis.
 That’s how I will serve Native Nations in the U.S.
 Congress.
-Farmers and Rural Communities
-Northern and central Minnesota’s farmers, producers, and rural small businesses are critical to the 8 th District.
-- A Farm Bill that Works for MN-08
-- Fair Markets and Strong Local Food Systems
-- Keeping Family Farms Strong for the Next Generation
-Agriculture in northern and central Minnesota is diverse, including dairy, soybeans, beef, hay, wild rice, small grains, specialty crops, and smaller family farms.
+Farmers and Rural Communities Northern and central Minnesota’s farmers, producers, and rural small businesses are critical to the 8 th District.
+A Farm Bill that Works for MN-08 Fair Markets and Strong Local Food Systems Keeping Family Farms Strong for the Next Generation Agriculture in northern and central Minnesota is diverse, including dairy, soybeans, beef, hay, wild rice, small grains, specialty crops, and smaller family farms.
 I will fight for a farm bill that reflects that diversity and works for Minnesota, not only the largest producers in other parts of the country.
 Pete Stauber has had years to stand with Minnesota’s farmers, but when it counts, he chooses corporate interests over rural communities.
 Farmers deserve a Representative who will put family farms, local producers, and rural communities first.
@@ -164,3 +134,8 @@ I will invest in the roads, bridges, broadband, electricity, rail service, and t
 And, I will support a legal, reliable, year-round agricultural workforce by fighting to fix our broken immigration system.
 I will make it possible for the next generation to stay on the farm by lowering health care costs, while fighting for universal health care, expanding beginning-farmer credits, and protecting family farm succession.
 Minnesota farmers deserve a Representative who listens to them, understands the challenges they face, and works to keep family farming strong for the next generation.
+Paid for by Trina for Congress Mailing Address: PO Box 1063 Duluth, MN 55810 Navigation Home Meet Trina Priorities News Events Get Involved Volunteer Donate Sign Up Campaign Headquarters 4877 Miller Trunk Highway Hermantown, MN 55811 Hours: Monday–Thursday: 11am–2pm; 4pm–7pm Friday: 11am–2pm Saturday: 12pm–2pm Sunday: Closed contact@trinaforcongress.com Facebook Instagram X-twitter Threads © # Trina Swanson for Congress.
+All rights reserved.
+Privacy Policy Sign Up for Updates to Stay Connected First Name Last Name Email SIGN UP!
+Support Trina's Campaign Trina doesn't take corporate PAC money.
+Every dollar comes from people like you — neighbors who believe MN-8 deserves better. $5 $25 $50 $100 $500 $1,000 Other Donate Now

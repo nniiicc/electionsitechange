@@ -1,23 +1,94 @@
 [
-"http://aiso.net/",
-"http://centerforsaferwireless.us/web/main",
-"http://malecontraceptive.org/",
-"http://mdflora.org/",
-"http://nancywallace.us/",
-"http://nancywallace.us/list",
-"http://organiclandcare.net/",
-"http://safegrowmontgomery.org/",
-"http://zwia.org/zero-waste-communities",
-"https://facebook.com/PermacultureMaryland",
-"https://hourworld.org/bank?hw=1302",
-"https://montgomerycountymd.gov/DEP/Energy/clean-energy.html",
-"https://nancywallace.us/about/community-peacestopping-police-violence",
-"https://nancywallace.us/contact",
-"https://nancywallace.us/donate",
-"https://nancywallace.us/endorsements",
-"https://nancywallace.us/issues",
-"https://nancywallace.us/meet-nancy",
-"https://nancywallace.us/meet-nancy/green-party",
-"https://nancywallace.us/vote-for-nancy",
-"https://vitamindcouncil.org/"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Center for Safer Wireless",
+"href": "http://centerforsaferwireless.us/web/main/"
+},
+{
+"text": "Contact",
+"href": "https://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Green Party",
+"href": "https://www.nancywallace.us/meet-nancy/green-party"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Issues",
+"href": "https://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "https://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Maryland wind recs program",
+"href": "https://www.montgomerycountymd.gov/DEP/Energy/clean-energy.html"
+},
+{
+"text": "Meet Nancy",
+"href": "https://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "https://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Silver Spring Time Bank",
+"href": "https://www.hourworld.org/bank/?hw=1302"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "Vitamin D",
+"href": "https://www.vitamindcouncil.org/"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "ban dangerous pesticides",
+"href": "http://safegrowmontgomery.org/"
+},
+{
+"text": "men’s contraception",
+"href": "http://www.malecontraceptive.org/"
+},
+{
+"text": "native plants",
+"href": "http://mdflora.org/"
+},
+{
+"text": "organic lawncare",
+"href": "http://www.organiclandcare.net/"
+},
+{
+"text": "permaculture",
+"href": "https://www.facebook.com/PermacultureMaryland"
+},
+{
+"text": "zero waste recycling",
+"href": "http://zwia.org/zero-waste-communities/"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

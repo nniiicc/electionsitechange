@@ -1,12 +1,10 @@
-Knappa food pantry saved
-There is good news for friends of the Knappa food pantry.
+0 Skip to Content Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Open Menu Close Menu Open Menu Close Menu Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Home About Priorities Endorsements Latest News Volunteer Contact Donate Today Knappa food pantry saved Feb 9 Written By Courtney Bangs The Astorian There is good news for friends of the Knappa food pantry.
 In November, The Astorian reported that the pantry’s landlord, Lumen Technologies, was considering evicting the pantry.
 But now, after lobbying from Clatsop County Commissioner Courtney Bangs and County Manager Don Bohn, Lumen seems to have decided to let the food pantry remain at its current location.
 “At this moment, they don’t need the building back (and) they don’t foresee needing the building back,” said Karel Goodman, a volunteer with the pantry.
 According to Goodman, the pantry will be able to remain in the building rent-free, but will have to pay for other expenses such as insurance.
 The pantry will not receive the official contract with Lumen until the end of January, 2026.
-Bangs said after talking with volunteers from the food pantry, she reached out to Lumen in hopes of explaining to someone there the importance of the food bank, and asked Bohn to do the same.
-a“I think they came to the realization of how very important it was to the sustainability of the Knappa, Svensen and Brownsmead communities,” said Bangs.
-“All it took was a couple phone calls and to talk to the right people and them recognizing, ‘Oh, this is very important, and we could do this wonderful deed for this community.’”
-Goodman said the community needs the help now, more than ever.
+Bangs said after talking with volunteers from the food pantry, she reached out to Lumen in hopes of explaining to someone there the importance of the food bank, and asked Bohn to do the same. a“I think they came to the realization of how very important it was to the sustainability of the Knappa, Svensen and Brownsmead communities,” said Bangs.
+“All it took was a couple phone calls and to talk to the right people and them recognizing, ‘Oh, this is very important, and we could do this wonderful deed for this community.’” Goodman said the community needs the help now, more than ever.
 She said in the past month, the number of people using the pantry has about doubled.
+Read the Full Article Courtney Bangs Previous Previous Oregon counties push for predictable logging levels in state forests Next Next Guest Column: With conservation goals met, it’s time to balance the scales and support struggling communities Home Volunteer Contact Donate Privacy Policy Paid for by Courtney Bangs PAC | © # Oregon State Senate - District 16

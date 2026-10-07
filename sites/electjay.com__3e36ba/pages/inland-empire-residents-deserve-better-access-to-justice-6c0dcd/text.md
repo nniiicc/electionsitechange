@@ -1,4 +1,4 @@
-Before I was elected to represent you in the California State Assembly, I served as mayor of Big Bear Lake.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Inland Empire Residents Deserve Better Access to Justice experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Before I was elected to represent you in the California State Assembly, I served as mayor of Big Bear Lake.
 I still vividly remember that on my first day as mayor in 2012, I received a call from our presiding county superior court judge informing me that the courthouse in Big Bear was being closed due to budgetary shortfalls.
 In the months that followed, the 33rd Assembly District lost four of its five courthouses.
 In addition to Big Bear Lake, the courthouses in Barstow, Needles and Twin Peaks also shut their doors.
@@ -25,4 +25,4 @@ Access to justice is a fundamental pillar of our democracy and the current short
 If the governor and legislature will not prioritize funding for judgeships, we need to at least ensure that available judicial resources are fairly distributed across the state.
 Our local communities shouldn’t be shortchanged when it comes to accessing the justice system.
 Jay Obernolte represents the 33rd District in the California Assembly.
-The 33rd District includes all of the High Desert.
+The 33rd District includes all of the High Desert. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

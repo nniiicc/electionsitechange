@@ -1,37 +1,150 @@
 [
-"https://electmattmacpherson.com/",
-"https://electmattmacpherson.com/2024-general-session",
-"https://electmattmacpherson.com/2025-general-session",
-"https://electmattmacpherson.com/2026-session",
-"https://electmattmacpherson.com/about-matt",
-"https://electmattmacpherson.com/cart",
-"https://electmattmacpherson.com/contact",
-"https://electmattmacpherson.com/donate",
-"https://electmattmacpherson.com/in-the-news",
-"https://electmattmacpherson.com/issues",
-"https://electmattmacpherson.com/my-endorsements",
-"https://electmattmacpherson.com/my-legislation",
-"https://electmattmacpherson.com/privacy-policy",
-"https://electmattmacpherson.com/results",
-"https://facebook.com/UtahVote4Matt",
-"https://house.utleg.gov/rep/MACPHM",
-"https://instagram.com/utahvote4matt?hl=en",
-"https://le.utah.gov/~2024/bills/static/HB0155.html",
-"https://le.utah.gov/~2024/bills/static/HB0165.html",
-"https://le.utah.gov/~2024/bills/static/HB0182.html",
-"https://le.utah.gov/~2024/bills/static/HB0192.html",
-"https://le.utah.gov/~2024/bills/static/HB0251.html",
-"https://le.utah.gov/~2024/bills/static/HB0276.html",
-"https://le.utah.gov/~2024/bills/static/HB0324.html",
-"https://le.utah.gov/~2024/bills/static/HB0326.html",
-"https://le.utah.gov/~2024/bills/static/HB0348.html",
-"https://le.utah.gov/~2024/bills/static/HB0405.html",
-"https://le.utah.gov/~2024/bills/static/HB0406.html",
-"https://le.utah.gov/~2024/bills/static/HB0420.html",
-"https://le.utah.gov/~2024/bills/static/HB0438.html",
-"https://le.utah.gov/~2024/bills/static/HB0453.html",
-"https://le.utah.gov/~2024/bills/static/HB0584.html",
-"https://le.utah.gov/~2024/bills/static/SB0064.html",
-"https://le.utah.gov/~2024/bills/static/SB0100.html",
-"https://x.com/UtahVote4Matt"
+{
+"text": "0",
+"href": "https://www.electmattmacpherson.com/cart"
+},
+{
+"text": "2024 General Session",
+"href": "https://www.electmattmacpherson.com/2024-general-session"
+},
+{
+"text": "2025 General Session",
+"href": "https://www.electmattmacpherson.com/2025-general-session"
+},
+{
+"text": "2026 General Session",
+"href": "https://www.electmattmacpherson.com/2026-session"
+},
+{
+"text": "About",
+"href": "https://www.electmattmacpherson.com/about-matt"
+},
+{
+"text": "Back",
+"href": "https://www.electmattmacpherson.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.electmattmacpherson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmattmacpherson.com/donate"
+},
+{
+"text": "Folder: My Legislation",
+"href": "https://www.electmattmacpherson.com/my-legislation"
+},
+{
+"text": "HB155 - Discharge of Fireworks Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0155.html"
+},
+{
+"text": "HB165 - Federal Law Enforcement Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0165.html"
+},
+{
+"text": "HB182 - Student Survey Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0182.html"
+},
+{
+"text": "HB192 - Local Education Agency Employee Paid Leave [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0192.html"
+},
+{
+"text": "HB251 - Post Retirement Reemployment Restrictions Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0251.html"
+},
+{
+"text": "HB276 - Crime Victims Restitution Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0276.html"
+},
+{
+"text": "HB324 - Disability Services Amendments",
+"href": "https://le.utah.gov/~2024/bills/static/HB0324.html"
+},
+{
+"text": "HB326 - Firearm Safety Incentives",
+"href": "https://le.utah.gov/~2024/bills/static/HB0326.html"
+},
+{
+"text": "HB348 - Precious Metals Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0348.html"
+},
+{
+"text": "HB405 - Public Health Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0405.html"
+},
+{
+"text": "HB406 - Firearms Financial Transaction Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0406.html"
+},
+{
+"text": "HB420 - School Code of Conduct Protections",
+"href": "https://le.utah.gov/~2024/bills/static/HB0420.html"
+},
+{
+"text": "HB438 - Higher Education Revisions [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0438.html"
+},
+{
+"text": "HB453 - Great Salt Lake Revisions [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0453.html"
+},
+{
+"text": "HB584 - Economic Interruption Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/HB0584.html"
+},
+{
+"text": "In the News",
+"href": "https://www.electmattmacpherson.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.electmattmacpherson.com/issues"
+},
+{
+"text": "My Endorsements",
+"href": "https://www.electmattmacpherson.com/my-endorsements"
+},
+{
+"text": "My Legislative Website",
+"href": "https://house.utleg.gov/rep/MACPHM/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electmattmacpherson.com/privacy-policy"
+},
+{
+"text": "Results",
+"href": "https://www.electmattmacpherson.com/results"
+},
+{
+"text": "SB100 - Local Referenda Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/SB0100.html"
+},
+{
+"text": "SB64 - Effective Teachers in High Poverty Schools Incentive Program Amendments [PASSED]",
+"href": "https://le.utah.gov/~2024/bills/static/SB0064.html"
+},
+{
+"text": "[image: Matt MacPherson for House District 26]",
+"href": "https://www.electmattmacpherson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/UtahVote4Matt"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/utahvote4matt/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/UtahVote4Matt"
+},
+{
+"text": "[no text]",
+"href": "mailto:mmacpherson@le.utah.gov"
+}
 ]

@@ -1,12 +1,78 @@
 [
-"http://aboutads.info/choices",
-"http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://app.termly.io/dashboard/website/295936/privacy-policy",
-"https://secure.anedot.com/samgarrison/donate",
-"https://votesamgarrison.com/",
-"https://votesamgarrison.com/issues",
-"https://votesamgarrison.com/news",
-"https://votesamgarrison.com/privacy-policy",
-"https://votesamgarrison.com/record",
-"https://votesamgarrison.com/story"
+{
+"text": "1. WHAT INFORMATION DO WE COLLECT?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#infocollect"
+},
+{
+"text": "10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#caresidents"
+},
+{
+"text": "11. DO WE MAKE UPDATES TO THIS POLICY?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#policyupdates"
+},
+{
+"text": "2. HOW DO WE USE YOUR INFORMATION?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#infouse"
+},
+{
+"text": "3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#infoshare"
+},
+{
+"text": "5. HOW LONG DO WE KEEP YOUR INFORMATION?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#inforetain"
+},
+{
+"text": "6. HOW DO WE KEEP YOUR INFORMATION SAFE?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#infosafe"
+},
+{
+"text": "7. DO WE COLLECT INFORMATION FROM MINORS?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#infominors"
+},
+{
+"text": "8. WHAT ARE YOUR PRIVACY RIGHTS?",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#privacyrights"
+},
+{
+"text": "9. CONTROLS FOR DO-NOT-TRACK FEATURES",
+"href": "https://app.termly.io/dashboard/website/295936/privacy-policy#DNT"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/samgarrison/donate"
+},
+{
+"text": "Issues",
+"href": "https://votesamgarrison.com/issues/"
+},
+{
+"text": "News",
+"href": "https://votesamgarrison.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votesamgarrison.com/privacy-policy"
+},
+{
+"text": "Record",
+"href": "https://votesamgarrison.com/record/"
+},
+{
+"text": "Story",
+"href": "https://votesamgarrison.com/story/"
+},
+{
+"text": "[image: Sam Garrison for Florida House District 11]",
+"href": "https://votesamgarrison.com/"
+},
+{
+"text": "[image: logo][image: logo][image: logo][image: logo]",
+"href": "https://votesamgarrison.com"
+},
+{
+"text": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+}
 ]

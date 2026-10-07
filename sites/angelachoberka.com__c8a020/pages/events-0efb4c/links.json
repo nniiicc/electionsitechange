@@ -1,18 +1,70 @@
 [
-"https://angelachoberka.com/",
-"https://angelachoberka.com/GetInvolved",
-"https://angelachoberka.com/about",
-"https://angelachoberka.com/contact",
-"https://angelachoberka.com/issues",
-"https://angelachoberka.com/privacy-policy",
-"https://designedtorun.com/",
-"https://facebook.com/choberkaogdencity1",
-"https://instagram.com/angelachoberkaforutah",
-"https://linkedin.com/in/angela-choberka-8b812017",
-"https://mobilize.us/mobilize/event/983517",
-"https://mobilize.us/mobilize/event/983525",
-"https://mobilize.us/utahdemocrats/event/1028996",
-"https://mobilize.us/utahdemocrats/event/1051733",
-"https://secure.actblue.com/donate/ws-choberka",
-"https://threads.net/@angelachoberkaforutah"
+{
+"text": "Contact",
+"href": "https://www.angelachoberka.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ws-choberka"
+},
+{
+"text": "Get Involved",
+"href": "https://www.angelachoberka.com/GetInvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.angelachoberka.com/issues"
+},
+{
+"text": "Meet Angela",
+"href": "https://www.angelachoberka.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.angelachoberka.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/mobilize/event/983517/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/mobilize/event/983525/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/utahdemocrats/event/1028996/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/utahdemocrats/event/1051733/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Angela Choberka logo]",
+"href": "https://www.angelachoberka.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.angelachoberka.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/choberkaogdencity1/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/angelachoberkaforutah"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/angela-choberka-8b812017/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@angelachoberkaforutah"
+}
 ]

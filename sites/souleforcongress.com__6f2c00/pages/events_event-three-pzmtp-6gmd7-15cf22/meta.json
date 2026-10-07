@@ -1,7 +1,11 @@
 {
  "description": "Get out and VOTE!",
  "final_url": "https://souleforcongress.com/events/event-three-pzmtp-6gmd7",
- "paid_for_by": "Paid for by Peter Soule for Congress Privacy Policy/Terms and Conditions \u00a9 Peter Soule for Congress",
- "title": "Primary Election Day 2026 \u2014 Peter Soule for Congress",
- "years_mentioned": []
+ "fingerprint": "900d4d3ddaa8331d23fce1c5df7c1840bfaa20d9",
+ "format": 3,
+ "paid_for_by": "Paid for by Peter Soule for Congress Privacy Policy/Terms and Conditions © Peter Soule for Congress",
+ "title": "Primary Election Day 2026 — Peter Soule for Congress",
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,4 +1,4 @@
-In Montana, loving the outdoors isn't a political stance.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Protecting the Environment × In Montana, loving the outdoors isn't a political stance.
 It's a way of life.
 We value a clean and healthful environment so much that we explicitly put it right into our state constitution.
 Whether you're fishing the Gallatin River, packing into the backcountry out of West Yellowstone, or working up in Big Sky, our outdoor heritage is central to who we are.
@@ -15,4 +15,6 @@ We need a representative in Helena who'll stand up for public access and protect
 Our outdoor heritage belongs to our kids and grandkids, and keeping public lands in public hands is the only way to protect it.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

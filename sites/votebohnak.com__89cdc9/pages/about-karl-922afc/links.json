@@ -1,28 +1,130 @@
 [
-"https://facebook.com/karlbohnak",
-"https://gophouse.org/posts/rep-bohnak-secures-500000-for-marquette-outdoor-recreation-area",
-"https://gophouse.org/posts/rep-bohnak-secures-bipartisan-budget-that-increases-corrections-officer-pay-safeguards-rural-healthcare-and-school-lunches",
-"https://gophouse.org/posts/rep-bohnak-secures-critical-funding-for-flood-recovery-efforts-in-baraga-county",
-"https://gophouse.org/posts/rep-bohnak-secures-funding-for-high-impact-marquette-community-tax-assistance-program-within-state-budget",
-"https://gophouse.org/posts/rep-bohnak-stands-with-u-p-health-officials-in-defense-of-rural-healthcare-dollars",
-"https://instagram.com/votebohnak",
-"https://legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-4591",
-"https://legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-6073",
-"https://legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-6074",
-"https://secure.winred.com/karl-bohnak-4-state-rep/donate-today",
-"https://twitter.com/votebohnak",
-"https://votebohnak.com/",
-"https://votebohnak.com/about-karl",
-"https://votebohnak.com/about-us",
-"https://votebohnak.com/author/votebohnakadmin",
-"https://votebohnak.com/contact-us",
-"https://votebohnak.com/issues",
-"https://votebohnak.com/join-the-team",
-"https://votebohnak.com/karls-record",
-"https://votebohnak.com/wp-content/uploads/2022/06/aonang-bangkok-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/asia-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/dubai-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/maldives-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/06/swiss-tour.jpg",
-"https://votebohnak.com/wp-content/uploads/2022/11/europe-travel-.jpg"
+{
+"text": "About Karl",
+"href": "https://votebohnak.com/about-karl/"
+},
+{
+"text": "CLICK HERE",
+"href": "https://votebohnak.com/contact-us/"
+},
+{
+"text": "Contact Us",
+"href": "https://votebohnak.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/karl-bohnak-4-state-rep/donate-today"
+},
+{
+"text": "Home",
+"href": "https://votebohnak.com/"
+},
+{
+"text": "Issues",
+"href": "https://votebohnak.com/issues/"
+},
+{
+"text": "Join The Team",
+"href": "https://votebohnak.com/join-the-team/"
+},
+{
+"text": "KARL’S RECORD",
+"href": "https://votebohnak.com/karls-record/"
+},
+{
+"text": "OFFICIAL BILL PAGE",
+"href": "https://www.legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-4591"
+},
+{
+"text": "OFFICIAL BILL PAGE",
+"href": "https://www.legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-6073"
+},
+{
+"text": "OFFICIAL BILL PAGE",
+"href": "https://www.legislature.mi.gov/mileg.aspx?page=BillStatus&objectname=2025-HB-6074"
+},
+{
+"text": "OFFICIAL HOUSE SOURCE",
+"href": "https://gophouse.org/posts/rep-bohnak-secures-500000-for-marquette-outdoor-recreation-area"
+},
+{
+"text": "OFFICIAL HOUSE SOURCE",
+"href": "https://gophouse.org/posts/rep-bohnak-secures-bipartisan-budget-that-increases-corrections-officer-pay-safeguards-rural-healthcare-and-school-lunches"
+},
+{
+"text": "OFFICIAL HOUSE SOURCE",
+"href": "https://gophouse.org/posts/rep-bohnak-secures-critical-funding-for-flood-recovery-efforts-in-baraga-county"
+},
+{
+"text": "OFFICIAL HOUSE SOURCE",
+"href": "https://gophouse.org/posts/rep-bohnak-secures-funding-for-high-impact-marquette-community-tax-assistance-program-within-state-budget"
+},
+{
+"text": "OFFICIAL HOUSE SOURCE",
+"href": "https://gophouse.org/posts/rep-bohnak-stands-with-u-p-health-officials-in-defense-of-rural-healthcare-dollars"
+},
+{
+"text": "Team@VoteBohnak.com",
+"href": "mailto:Team@VoteBohnak.com"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/aonang-bangkok-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/asia-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/dubai-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/maldives-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/06/swiss-tour.jpg"
+},
+{
+"text": "[image]",
+"href": "https://votebohnak.com/wp-content/uploads/2022/11/europe-travel-.jpg"
+},
+{
+"text": "[image]Affordability",
+"href": "https://votebohnak.com/issues/"
+},
+{
+"text": "[image]Housing",
+"href": "https://votebohnak.com/issues/"
+},
+{
+"text": "[image]Rural Healthcare",
+"href": "https://votebohnak.com/issues/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/karlbohnak"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/votebohnak"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.twitter.com/votebohnak"
+},
+{
+"text": "read more",
+"href": "https://votebohnak.com/about-us/"
+},
+{
+"text": "votebohnakadmin",
+"href": "https://votebohnak.com/author/votebohnakadmin/"
+}
 ]

@@ -1,13 +1,62 @@
 [
-"https://facebook.com/StanforTexas",
-"https://secure.winred.com/stan-gerdes-for-state-representative/donate-today",
-"https://stangerdes.com/",
-"https://stangerdes.com/about",
-"https://stangerdes.com/cart",
-"https://stangerdes.com/issues",
-"https://stangerdes.com/join-team-gerdes",
-"https://stangerdes.com/privacy-policies",
-"https://stangerdes.com/terms-and-conditions",
-"https://stangerdes.com/voting",
-"https://twitter.com/StanGerdesforTX"
+{
+"text": "0",
+"href": "https://stangerdes.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stan-gerdes-for-state-representative/donate-today"
+},
+{
+"text": "Home",
+"href": "https://stangerdes.com/"
+},
+{
+"text": "Issues",
+"href": "https://stangerdes.com/issues"
+},
+{
+"text": "Join Team Gerdes",
+"href": "https://stangerdes.com/join-team-gerdes"
+},
+{
+"text": "Meet Stan",
+"href": "https://stangerdes.com/about"
+},
+{
+"text": "PRIVACY POLICIES",
+"href": "https://stangerdes.com/privacy-policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stangerdes.com/privacy-policies"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://stangerdes.com/terms-and-conditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://stangerdes.com/terms-and-conditions"
+},
+{
+"text": "Voting",
+"href": "https://stangerdes.com/voting"
+},
+{
+"text": "[image: Stan Gerdes for Texas House]",
+"href": "https://stangerdes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/StanGerdesforTX"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StanforTexas/"
+},
+{
+"text": "info@stangerdes.com",
+"href": "mailto:info@stangerdes.com"
+}
 ]

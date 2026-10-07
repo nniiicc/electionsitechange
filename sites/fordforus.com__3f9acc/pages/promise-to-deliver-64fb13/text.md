@@ -1,16 +1,5 @@
-JIMMY FORD’S Promise to Deliver
-Springfield is broken.
+0 Skip to Content Make A Plan to Vote Home Promise to Deliver About Jimmy Action Center 112th District Donate Open Menu Close Menu Donate Make A Plan to Vote Home Promise to Deliver About Jimmy Action Center 112th District Open Menu Close Menu Make A Plan to Vote Home Promise to Deliver About Jimmy Action Center 112th District Donate JIMMY FORD’S Promise to Deliver Springfield is broken.
 Career politicians get rich while families pay the price.
 Jimmy Ford will deliver tough, compassionate leadership that puts people before politics.
-Lower Costs & Protect Your Paycheck
-- Fight to reduce taxes and wasteful spending
-- Lower the cost of living, from gas to groceries to sky-high property taxes
-Put Workers & Small Businesses First
-- Cut red tape and support job creators
-- Ensure Illinois is a place where businesses can thrive and workers can get ahead
-Protect Families & Communities
-- Back the Blue and support first responders
-- Keep families safe and defend our neighborhoods from rising crime
-Restore Trust in Government
-- Stand up to corruption and the broken culture in Springfield
-- Put honesty and accountability back into politics
+Lower Costs & Protect Your Paycheck Fight to reduce taxes and wasteful spending Lower the cost of living, from gas to groceries to sky-high property taxes Put Workers & Small Businesses First Cut red tape and support job creators Ensure Illinois is a place where businesses can thrive and workers can get ahead Protect Families & Communities Back the Blue and support first responders Keep families safe and defend our neighborhoods from rising crime Restore Trust in Government Stand up to corruption and the broken culture in Springfield Put honesty and accountability back into politics Jimmy Ford is tough enough to fight, compassionate enough to care, and always focused on delivering results for you .
+Join Jimmy’s Movement Paid for by Citizens for Jimmy Ford jimmy@jimmyford.com Privacy Policy and Terms of Use

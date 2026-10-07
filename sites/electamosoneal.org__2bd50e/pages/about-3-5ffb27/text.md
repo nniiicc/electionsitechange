@@ -1,72 +1,35 @@
-Legislative Wins
-In the 2025/2026 Term, Representative O'Neal worked hard for his community.
-15
-Bills Introduced
-500+
-Bills Co-Sponsored
-Legislation Passed
-Public Act 200'23
-House Bills 4945 and 4946 of 2023
-These bills will ensure people convicted of misdemeanor domestic violence offenses are prohibited from purchasing and possessing firearms for up to seven years.
-Domestic violence and gun violence are deeply interconnected, impacting communities
-across the U.S.
+top of page STRONG, EXPERIENCED LEADERSHIP AMOS O'NEAL Your Representative for the 94th Michigan State House District About Amos Contact Us District Map Donate Today Get Involved Events Legislative Wins In the 2025/2026 Term, Representative O'Neal worked hard for his community.
+15 Bills Introduced 500+ Bills Co-Sponsored Legislation Passed Public Act 200'23 House Bills 4945 and 4946 of 2023 ​ These bills will ensure people convicted of misdemeanor domestic violence offenses are prohibited from purchasing and possessing firearms for up to seven years. ​ Domestic violence and gun violence are deeply interconnected, impacting communities across the U.S.
 It is time Michigan catches up with this legislative win.
-Public Act 213'23
-House Bills 4273 of 2023
-When an apartment complex is condemned there were not enough protections for tenants to receive proper notification.
-Tenants need to have more transparency with their landlords and be able to prepare for unpredicted situations that could cause serious harm.
-This bill will better ensure that tenants are better protected and properly notified of violations that could cause them serious harm.
-Public Act 290'23
-House Bills 4629 of 2023
-This bill was signed into law along with many others in a large package that was based on recommendations from the 2021 bipartisan Juvenile Justice Task Force, formed by Governor Whitmer and led by Lieutenant Governor
-Gilchrist.
-House Bill 4629 requires the use of a detention screening tool to inform decisions to place a youth in secure detention
-Public Act 32'24
-House Bill 5215
-Now known as the Michigan Family Protection Act, House Bills 5207-5215 were signed into law in the Spring of 2024.
-These bills will allow for Michigan to participate in compensated surrogacy agreements.
-Sponsored Legislation
-House Bills 4982-4997
-Tenant Rights Package
-These bills re-balance Michigan’s landlord-tenant relations, making our state laws more fair and enforceable.
+Public Act 213'23 House Bills 4273 of 2023 When an apartment complex is condemned there were not enough protections for tenants to receive proper notification.
+Tenants need to have more transparency with their landlords and be able to prepare for unpredicted situations that could cause serious harm. ​ This bill will better ensure that tenants are better protected and properly notified of violations that could cause them serious harm.
+Public Act 290'23 House Bills 4629 of 2023 This bill was signed into law along with many others in a large package that was based on recommendations from the 2021 bipartisan Juvenile Justice Task Force, formed by Governor Whitmer and led by Lieutenant Governor Gilchrist.
+House Bill 4629 requires the use of a detention screening tool to inform decisions to place a youth in secure detention Public Act 32'24 House Bill 5215 Now known as the Michigan Family Protection Act, House Bills 5207-5215 were signed into law in the Spring of 2024. ​ These bills will allow for Michigan to participate in compensated surrogacy agreements.
+Sponsored Legislation House Bills 4982-4997 Tenant Rights Package ​ These bills re-balance Michigan’s landlord-tenant relations, making our state laws more fair and enforceable.
 While current law does provide for some basic tenants’ rights, many of these rights are outdated and include loopholes or gray areas making enforcement and accountability difficult or nonexistent.
-This bill package modernizes many applicable processes, strengthens tenants’ right to habitable living conditions, and ensures fairness in court proceedings to hopefully decrease evictions.
-House Bill 4121
-City Tax Cap Removal
-This legislation will support local communities across our state and give them the ability to properly fund municipal services and public safety.
-Specifically, my bill will prevent automatic reductions in a mill levies if the amount to be collected in property taxes exceeds a certain gross amount.
+This bill package modernizes many applicable processes, strengthens tenants’ right to habitable living conditions, and ensures fairness in court proceedings to hopefully decrease evictions. ​ House Bill 4121 City Tax Cap Removal ​ ​This legislation will support local communities across our state and give them the ability to properly fund municipal services and public safety. ​ Specifically, my bill will prevent automatic reductions in a mill levies if the amount to be collected in property taxes exceeds a certain gross amount.
 While I believe it is important for our local units of government to be able to set their own fiscal policies; I also believe that any mechanisms that create an artificial limitation on revenue collection, while may have originally been well intentioned, do more harm than good and cause our communities to have to pick and choose what public services they provide.
 My bill simply ensures that our communities are able to properly fund vital services without having to worry about artificial limitations that restrict revenue collection.
-House Bill 4311/4312
-Revenue Sharing Trust Fund Package
-There have been numerous changes to the statutory revenue-sharing base since the 1930s, including dedications of revenue from the intangibles tax (repealed), the income tax, the sales tax, and the single business tax (repealed).
+House Bill 4311/4312 Revenue Sharing Trust Fund Package There have been numerous changes to the statutory revenue-sharing base since the 1930s, including dedications of revenue from the intangibles tax (repealed), the income tax, the sales tax, and the single business tax (repealed).
 However, statutory revenue sharing was continuously fully funded until the state temporarily reduced statutory revenue sharing during the recessions of 1980–1983.
 Cuts to statutory revenue sharing began again in FY 1991 and—with the exception of FY 1998 when the base was revised and FY 2001, when statutory revenue sharing was fully funded—actual statutory revenue sharing payments have been below full funding each year since.
 These two bills aim to preserve resources used to fund revenue sharing.
-Through the concept of a "Revenue Sharing Trust Fund," our locals can dedicate general sales tax revenue into a restricted fund to distribute those resources to cities, villages, townships, and counties.
-House Bill 4211
-Juvenile Life Without Parole Resentencing MDOC Jurisdiction
-This bill will allow for the Michigan Department of Corrections (MDOC) to offer their usual re-entry services and support opportunities to a select group of individuals who are being resentenced due to a Supreme Court ruling.
+Through the concept of a "Revenue Sharing Trust Fund," our locals can dedicate general sales tax revenue into a restricted fund to distribute those resources to cities, villages, townships, and counties. ​ House Bill 4211 Juvenile Life Without Parole Resentencing MDOC Jurisdiction ​ ​ This bill will allow for the Michigan Department of Corrections (MDOC) to offer their usual re-entry services and support opportunities to a select group of individuals who are being resentenced due to a Supreme Court ruling.
 The court rulings to ban juvenile life without parole resulted in a few hundred additional prisoners who are currently serving life without parole sentences that may in fact be eligible for release because they were under the age of 19 when they committed their crimes.
 Many of those cases will proceed through the normal parole and reentry process in the future, with those individuals having access to MDOC services in the community to assist with that transition.
 Unfortunately, a portion of these cases will immediately discharge from the MDOC because their new sentence will be less than their time served, leaving them to fall outside of MDOC’s jurisdiction thus not able to access the re-entry services.
-These are individuals who need this support the most.
-The legislature solved a similar problem several years ago with cases where the individual is exonerated, removing them from the MDOC’s jurisdiction, meaning they couldn’t get vital reentry services.
+These are individuals who need this support the most. ​ The legislature solved a similar problem several years ago with cases where the individual is exonerated, removing them from the MDOC’s jurisdiction, meaning they couldn’t get vital reentry services.
 We addressed that legislatively with PA 344 of 2016, and it is needed again with this bill.
-This will not take any additional funding and is essential to help support some of our most vulnerable.
-House Bill 4212
-Commercial Fishing
-The Michigan United Conservation Clubs have supported the introduction of this bill that will finally modernize the state’s commercial fishing industry, which has seen no major updates to the state's commercial fishing statute since the 1970s.
+This will not take any additional funding and is essential to help support some of our most vulnerable. ​ House Bill 4212 Commercial Fishing ​ The Michigan United Conservation Clubs have supported the introduction of this bill that will finally modernize the state’s commercial fishing industry, which has seen no major updates to the state's commercial fishing statute since the 1970s.
 The bill addresses a long-needed update that would set parameters surrounding commercial fishing, such as licensing fees, gear used and species for harvest.
 The legislation provides regulation clarity for both the commercial fishing industry and law enforcement.
 It protects game fish such as lake trout, walleye and yellow perch from commercial harvest and bycatch.
-These species are reared and managed through angler and hunter dollars, not commercial fishing monies.
-House Bill 4091-4094
-Juror Reform Package
-After many years working with a Jury Task Force, these bills have been introduced to improve our rights to an impartial jury.
+These species are reared and managed through angler and hunter dollars, not commercial fishing monies. ​ House Bill 4091-4094 Juror Reform Package ​ After many years working with a Jury Task Force, these bills have been introduced to improve our rights to an impartial jury.
 The bills will create a statewide jury management system run by the State Court Administrative Office (SCAO).
 SCAO will develop standard questionnaire language, including information on race and ethnicity to help collect data to further understand the Michigan jury selection process.
 It will also amend Michigan’s jury selection process to a one-step system, combining qualification questionnaires and the jury summons in the same mailing, with instructions for jurors to return.
 This will help create a much higher response rate.
 This package ensures that every Michigander has a fair trial by a representative jury of their peers.
 Enhancing the jury selection process strengthens our commitment to a fair and just system.
+Paid for by The Committee to Elect Amos O'Neal © # 207 Moton Dr.
+Saginaw, MI 48601 bottom of page

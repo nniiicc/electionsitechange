@@ -1,10 +1,42 @@
 [
-"https://drwagnerforct.com/",
-"https://drwagnerforct.com/about",
-"https://drwagnerforct.com/contact",
-"https://drwagnerforct.com/get-involved",
-"https://drwagnerforct.com/issues",
-"https://drwagnerforct.com/running",
-"https://facebook.com/profile.php?id=61589017985507",
-"https://portal.ct.gov/dss/common-elements/register-online-to-vote?language=en_US"
+{
+"text": "About",
+"href": "https://drwagnerforct.com/about/"
+},
+{
+"text": "Click here!",
+"href": "https://portal.ct.gov/dss/common-elements/register-online-to-vote?language=en_US"
+},
+{
+"text": "Contact",
+"href": "https://drwagnerforct.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61589017985507"
+},
+{
+"text": "Get Involved",
+"href": "https://drwagnerforct.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://drwagnerforct.com/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://drwagnerforct.com/issues/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://drwagnerforct.com/running/"
+},
+{
+"text": "[image: Dr. Wagner for CT | CT State Rep of District 51]",
+"href": "https://drwagnerforct.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589017985507"
+}
 ]

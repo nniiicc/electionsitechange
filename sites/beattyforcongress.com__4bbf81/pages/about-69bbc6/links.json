@@ -1,15 +1,66 @@
 [
-"https://beattyforcongress.com/",
-"https://beattyforcongress.com/about",
-"https://beattyforcongress.com/contact",
-"https://beattyforcongress.com/events/list",
-"https://beattyforcongress.com/get-involved",
-"https://beattyforcongress.com/grid-gallery",
-"https://beattyforcongress.com/issues-page",
-"https://beattyforcongress.com/news",
-"https://facebook.com/JoyceBeattyforCongress",
-"https://instagram.com/beattyforcongress",
-"https://olvr.sos.state.oh.us/",
-"https://sos.state.oh.us/elections/voters/absentee-ballot",
-"https://twitter.com/JoyceBeatty"
+{
+"text": "About Joyce",
+"href": "https://beattyforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://beattyforcongress.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://beattyforcongress.com/events/list/"
+},
+{
+"text": "Gallery",
+"href": "https://beattyforcongress.com/grid-gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://beattyforcongress.com/issues-page/"
+},
+{
+"text": "News",
+"href": "https://beattyforcongress.com/news/"
+},
+{
+"text": "Register to vote",
+"href": "https://olvr.sos.state.oh.us/"
+},
+{
+"text": "Volunteer!",
+"href": "https://beattyforcongress.com/get-involved/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.sos.state.oh.us/elections/voters/absentee-ballot/"
+},
+{
+"text": "[image: Joyce Beatty for Congress]",
+"href": "https://beattyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoyceBeatty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoyceBeattyforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/beattyforcongress/"
+},
+{
+"text": "beattyforcongress@gmail.com",
+"href": "mailto:beattyforcongress@gmail.com"
+}
 ]

@@ -1,12 +1,58 @@
 [
-"http://goraistrategies.com/",
-"https://jilldouglass.com/",
-"https://jilldouglass.com/agenda",
-"https://jilldouglass.com/contact",
-"https://jilldouglass.com/latest",
-"https://jilldouglass.com/meet-jill",
-"https://jilldouglass.com/privacy-policy",
-"https://jilldouglass.com/volunteer",
-"https://nevadanewsandviews.com/nv-sos-says-noncitizen-voting-doesnt-happen-then-why-wont-he-just-answer-doj",
-"https://secure.anedot.com/jill-douglass-for-senate-6/donate?exitIntent=true"
+{
+"text": "AGENDA",
+"href": "https://jilldouglass.com/agenda/"
+},
+{
+"text": "AM I IN DISTRICT 37? CHECK YOUR ADDRESS →",
+"href": "https://jilldouglass.com/contact/#district"
+},
+{
+"text": "CONTACT",
+"href": "https://jilldouglass.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jill-douglass-for-senate-6/donate?exitIntent=true"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/jill-douglass-for-senate-6/donate?exitIntent=true"
+},
+{
+"text": "GORAI STRATEGIES",
+"href": "http://goraistrategies.com"
+},
+{
+"text": "HOME",
+"href": "https://jilldouglass.com/"
+},
+{
+"text": "LATEST",
+"href": "https://jilldouglass.com/latest/"
+},
+{
+"text": "MEET JILL",
+"href": "https://jilldouglass.com/meet-jill/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jilldouglass.com/privacy-policy/"
+},
+{
+"text": "SEE ALL UPDATES →",
+"href": "https://jilldouglass.com/latest/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://jilldouglass.com/volunteer/"
+},
+{
+"text": "[image: Jill Douglass for Assembly District 37]",
+"href": "https://jilldouglass.com/"
+},
+{
+"text": "[image: Nevada Secretary of State and the DOJ compliance letter] OP-ED JULY 10, 2026 NV SOS Says Noncitizen Voting Doesn't Happen – Then Why Won't He Just Answer DOJ? Jill Douglass on Secretary of State Cisco Aguilar's response to a routine DOJ compliance letter sent to all 50 states. READ ON NEVADA NEWS & VIEWS →",
+"href": "https://nevadanewsandviews.com/nv-sos-says-noncitizen-voting-doesnt-happen-then-why-wont-he-just-answer-doj/"
+}
 ]

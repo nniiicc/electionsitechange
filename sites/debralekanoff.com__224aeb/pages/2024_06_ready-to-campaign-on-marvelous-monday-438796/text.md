@@ -1,6 +1,4 @@
-Ready to Campaign on Marvelous Monday
-Dear Friends,
-It is a Marvelous Monday here in the 40th LD!
+Skip to content Search for: Home About Top Priorities Volunteer Press & Media Fantastic Fridays News Updates Contact Donate Home Fantastic Fridays Ready to Campaign on Marvelous Monday Ready to Campaign on Marvelous Monday Published On: June 17, 2024 Categories: Fantastic Fridays Dear Friends, It is a Marvelous Monday here in the 40th LD!
 First and foremost, Happy Father’s Day to all of the dads, guardians, uncles, big brothers, and care takers out there who are helping our children grow and thrive.
 On this Marvelous Monday, I am reflecting on how far we have come together these past six years.
 Representing you and your interests in Olympia has been both humbling, and an honor.
@@ -16,10 +14,7 @@ Go to DebraLekanoff.com to learn all about my re-election campaign.
 I look forward to seeing you on the campaign trail this summer.
 Keep reading for more on this Fantastic Friday.
 Rep.
-Debra Lekanoff
-Supporting Those Who Need Our Help
-May 10, 2024
-My friends, as your elected representative, I am deeply committed to addressing the complex challenges facing our rural communities.
+Debra Lekanoff Supporting Those Who Need Our Help May 10, 2024 My friends, as your elected representative, I am deeply committed to addressing the complex challenges facing our rural communities.
 Too many of our neighbors struggle with low incomes, lack of affordable housing, homelessness, inadequate healthcare, and limited social services.
 I have been traveling to rural areas on the cusp of urbanization and meeting with the Washington Community of Action Partnership and their 30 local offices.
 They emphasize that by working together – giving them a voice to help shape laws, regulations, and fiscal policies – we can build sustainable services for 2025 and beyond.
@@ -46,25 +41,19 @@ We must invest in their transition to new economic opportunities.
 You have my unwavering commitment to fight for the resources, services, and policies our rural communities deserve.
 I humbly ask for your continued support and partnership in this crucial work.
 Together, we will build a brighter future for all.
-Expanding Access to Mental and Behavioral Health Resources
-April 26, 2024
-I am honored to have the opportunity to collaborate with the Kalispel Tribe in addressing the critical issues of fentanyl, addiction, and mental and behavioral health challenges across our state.
+Expanding Access to Mental and Behavioral Health Resources April 26, 2024 I am honored to have the opportunity to collaborate with the Kalispel Tribe in addressing the critical issues of fentanyl, addiction, and mental and behavioral health challenges across our state.
 Together, we are exploring the possibility of establishing a prevention, recovery, and aftercare facility in Spokane, which would serve as a hub for eastern Washington and operate as part of the broader collaboration between tribal, state, and local governments.
-The Camas Health mobile wellness clinic
-It is imperative that we create access to these vital resources within our communities, as it is not realistic to expect our citizens in eastern Washington to travel three or more hours to receive the services they need to overcome their struggles and become survivors.
+The Camas Health mobile wellness clinic It is imperative that we create access to these vital resources within our communities, as it is not realistic to expect our citizens in eastern Washington to travel three or more hours to receive the services they need to overcome their struggles and become survivors.
 This facility will be a crucial step in ensuring that help is available where it is needed most.
 I will be working closely with the Colville Tribe, the Yakama Nation, and local governments to bring together our efforts in addressing this major issue.
 Our goal is to provide comprehensive wellness and recovery inpatient facilities with beds and outpatient services for all those in need.
 My commitment to this cause does not stop there.
 I am also continuing to invest and partner with the Healing Lodge of Seven Nations, the only wellness and recovery facility for addiction and mental health services for youth between the ages of 13 and 17 in eastern Washington.
-Camas Health, owned and operated by the Kalispel Tribe
-Please stay tuned for more information on this important work.
+Camas Health, owned and operated by the Kalispel Tribe Please stay tuned for more information on this important work.
 Additionally, I look forward to sharing details about my collaboration with Seattle Supersonics coaches and players who want to return and provide healing tools to help save lives in a state that loved them and their families.
 We have much work to do across local, state, tribal, and federal governments, and it is crucial that we remember that we are all Washingtonians, and this crisis impacts all of our communities.
 Together, we can make a difference and provide the support and resources our communities need to overcome these challenges.
-Coast Salish Longhouse at WWU
-April 12, 2024
-WWU has been working for nearly a decade on a Coast Salish-style longhouse following a request from Indigenous students who wants a cultural center on campus and a meeting place for the Native American Student Union.
+Coast Salish Longhouse at WWU April 12, 2024 WWU has been working for nearly a decade on a Coast Salish-style longhouse following a request from Indigenous students who wants a cultural center on campus and a meeting place for the Native American Student Union.
 Now, I am pleased to report that construction is set to start!
 The Longhouse will be built on the ancestral lands of the Lummi Nation and Nooksack Tribe, and it has been designed in collaboration with these two tribes and with the input of WWU students.
 The Longhouse will be a place where students can learn about Native American culture and history, and it will also be a place where students can come together to build community and understanding.
@@ -72,12 +61,9 @@ There will be an invitation-only ground turning and blessing ceremony on April 1
 The Bellingham City Council is holding a public hearing on the proposed 75-year lease for the land on April 8, and it is my hope that this longhouse will be a part of the WWU community for generations to come!
 “The core purpose, and you’ll see that in the lease agreement, is for tribal activities, education, ceremonies,” Parks and Recreation Department Director Nicole Oliver said.
 “It’s going to be the office of the Tribal Liaison at Western.
-It will have student areas as well as a central area for meetings and ceremonies, classes and the like.”
-Read more about the project here.
+It will have student areas as well as a central area for meetings and ceremonies, classes and the like.” Read more about the project here .
 Be sure to check back in periodically on updates – it will be some time as construction is just beginning, but I cannot wait for the grand opening!
-Vin Baker Recovery Center
-April 5, 2024
-Last year I had the honor of meeting Rise Above, a Native American non-profit organization founded by Jaci McCormack.
+Vin Baker Recovery Center April 5, 2024 Last year I had the honor of meeting Rise Above, a Native American non-profit organization founded by Jaci McCormack.
 Through her work with Rise Above, Jaci uses her experiences and story to provide guidance and tools to Native Youth by meeting them where they are in life.
 She brings Youth together through their shared love of basketball, connecting them with legends such as Super Sonics Coaches Lenny Wilkens and George Carl, with players Dale Ellis, Vin Baker, and Herman.
 My journey in recovery to addiction began with these legends who lifted me up and believed in me, stepping alongside to walk with me during my journey.
@@ -92,20 +78,18 @@ Collaborations with influential figures like Attorney General Josh Kaul, who pla
 We should all feel inspired by Vin Baker’s remarkable journey of recovery and the collaborative efforts in Wisconsin, and I am determined to work towards providing accessible healing options for individuals in need.
 By joining forces and learning from successful models like those in Wisconsin, we can make meaningful strides in supporting our communities and saving lives.
 Together, we can make a difference in the fight against addiction.
-Highlights from the 2024 Legislative Session
-April 5, 2024
-Next, as we look back at the 2024 legislative session, there are so many great things that we accomplished!
+Highlights from the 2024 Legislative Session April 5, 2024 Next, as we look back at the 2024 legislative session, there are so many great things that we accomplished!
 I could spend the next two months updating you on all of the great work my colleagues and I did in Olympia, and the tremendous bills that we passed to uplift all Washingtonians.
 Instead, today I want to take a minute to highlight just a handful some of the legislative victories from our session.
-Making Our Communities Safer
-- House Bill 2021: This bill ensures that all firearms seized by law enforcement will be disposed of safely.
-- House Bill 1903: This bill requires the reporting of lost or stolen firearms within 24 hours.
-- House Bill 2118: This bill establishes standards for licensed gun dealers.
-Protecting Washington’s Environment
-- House Bill 2301: This bill strengthens food waste management practices to reduce greenhouse gas emissions and increase food security for vulnerable communities.
-- House Bill 2207: This bill provides new approaches to address unlawful solid waste dumping and enhance waste management efforts.
-- House Bill 1368: This bill funds the transition to zero-emission school buses.
-Supporting our Students
-- House Bill 1228: This bill supports multilingual and multicultural education to empower students and celebrate linguistic diversity.
-- House Bill 2331: This bill establishes a process for removing books from schools to ensure LGBTQ+ and diverse voices are represented in our curriculum and libraries.
+Making Our Communities Safer House Bill 2021 : This bill ensures that all firearms seized by law enforcement will be disposed of safely.
+House Bill 1903 : This bill requires the reporting of lost or stolen firearms within 24 hours.
+House Bill 2118 : This bill establishes standards for licensed gun dealers.
+Protecting Washington’s Environment House Bill 2301 : This bill strengthens food waste management practices to reduce greenhouse gas emissions and increase food security for vulnerable communities.
+House Bill 2207 : This bill provides new approaches to address unlawful solid waste dumping and enhance waste management efforts.
+House Bill 1368 : This bill funds the transition to zero-emission school buses.
+Supporting our Students House Bill 1228 : This bill supports multilingual and multicultural education to empower students and celebrate linguistic diversity.
+House Bill 2331 : This bill establishes a process for removing books from schools to ensure LGBTQ+ and diverse voices are represented in our curriculum and libraries.
 This is just a small snapshot of all of the incredible work we did in Olympia this term – keep an eye out in future newsletters for additional highlights!
+Previous Next “Progress is not achieved by standing still.
+Let’s move forward together towards a better, brighter future.” Re-Elect Debra Lekanoff (D) PO Box 23125 Seattle, WA 98102 debra@debralekanoff.com info@debralekanoff.com Volunteer Register To Vote Get Updates Donate Events Endorse Debra Follow Debra Copyright # DEBRA LEKANOFF.
+PAID FOR BY RE-ELECT DEBRA LEKANOFF (D) Page load link Go to Top

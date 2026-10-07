@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260406T220000Z%2F20260406T233000Z&location=6001+Mills+Road%2C+Whittemore%2C+MI%2C+48770%2C+United+States",
-"http://maps.google.com/?q=6001+Mills+Road+Whittemore%2C+MI%2C+48770+United+States",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/events/3tt2n98kat4f78f85zbymk4wrkjt78",
-"https://zebulonforcongress.com/events/5mwyrmzry7fcygt5re3pcy9z9jlggt",
-"https://zebulonforcongress.com/events/7rkfn88t258y4pbgymjpyy8hg2w62t?format=ical",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=6001+mills+road+whittemore%2C+mi%2C+48770+united+states"
+},
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum&dates=20260406T220000Z%2F20260406T233000Z&location=6001+Mills+Road%2C+Whittemore%2C+MI%2C+48770%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.zebulonforcongress.com/events/7rkfn88t258y4pbgymjpyy8hg2w62t?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "Next Next April 7 Candidate Forum",
+"href": "https://www.zebulonforcongress.com/events/5mwyrmzry7fcygt5re3pcy9z9jlggt"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Previous Previous April 2 Candidate Forum",
+"href": "https://www.zebulonforcongress.com/events/3tt2n98kat4f78f85zbymk4wrkjt78"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+}
 ]

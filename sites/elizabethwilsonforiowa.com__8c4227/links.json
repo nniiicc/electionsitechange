@@ -1,11 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfAhytgQNijU8jpwsLnhLBrMLddPQ6UzPN0Fluw1115xpifLA/viewform",
-"https://elizabethwilsonforiowa.com/",
-"https://facebook.com/elizabethforiowa",
-"https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=d32118cf09ed47beacd12742c1cf3fb3&find=%25202719%2520Edgemont%2520Ave%2520Waterloo%252C%2520IA%252050702",
-"https://secure.actblue.com/donate/elizabeth-wilson-for-iowa-1",
-"https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf",
-"https://sos.iowa.gov/elections/pdf/voteapp.pdf",
-"https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://twitter.com/Elizabeth4Iowa"
+{
+"text": "ABSENTEE BALLOT",
+"href": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/elizabeth-wilson-for-iowa-1"
+},
+{
+"text": "DONATE TO TEAM WILSON",
+"href": "https://secure.actblue.com/donate/elizabeth-wilson-for-iowa-1"
+},
+{
+"text": "FIND YOUR HOUS DISTRCT",
+"href": "https://iowa-legis.maps.arcgis.com/apps/instant/lookup/index.html?appid=d32118cf09ed47beacd12742c1cf3fb3&find=%25202719%2520Edgemont%2520Ave%2520Waterloo%252C%2520IA%252050702"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.elizabethwilsonforiowa.com"
+},
+{
+"text": "HOUSE DISTRICT 73",
+"href": "https://www.elizabethwilsonforiowa.com"
+},
+{
+"text": "Home",
+"href": "https://www.elizabethwilsonforiowa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.elizabethwilsonforiowa.com"
+},
+{
+"text": "MEET ELIZABETH",
+"href": "https://www.elizabethwilsonforiowa.com"
+},
+{
+"text": "POLLING PLACE",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://sos.iowa.gov/elections/pdf/voteapp.pdf"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfAhytgQNijU8jpwsLnhLBrMLddPQ6UzPN0Fluw1115xpifLA/viewform"
+},
+{
+"text": "[image: Grey Facebook Icon]",
+"href": "https://www.facebook.com/elizabethforiowa"
+},
+{
+"text": "[image: Grey Twitter Icon]",
+"href": "https://twitter.com/Elizabeth4Iowa"
+}
 ]

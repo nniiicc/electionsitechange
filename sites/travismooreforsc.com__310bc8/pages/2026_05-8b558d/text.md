@@ -1,17 +1,1 @@
-Home
-About
-News
-Contact
-Donate
-May 2026
-Home
-2026
-Month: May 2026
-May 29, 2026
-Uncategorized
-Voters Deserve the Truth: Travis Moore is 100% Pro-Life
-Home
-About
-News
-Contact
-Donate
+Home About News Contact Donate May 2026 Home 2026 Month: May 2026 May 29, 2026 Uncategorized Voters Deserve the Truth: Travis Moore is 100% Pro-Life Paid for by Travis Moore for House Home About News Contact Donate

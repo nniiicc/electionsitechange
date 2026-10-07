@@ -1,2 +1,3 @@
-Gun violence has had a disastrous effect on people all over Illinois.
+Skip to content Home About Endorsements Issues The District Get Involved Contact Home About Endorsements Issues The District Get Involved Contact CONTRIBUTE Gun Violence Prevention Gun violence has had a disastrous effect on people all over Illinois.
 Suzy is an advocate for gun violence prevention and supports the gun dealer licensing bill and other common sense measures to help ensure our children and loved ones are safe no matter where they go in Illinois.
+Gun violence affects everyone. back to issues Facebook X-twitter Youtube The District Get Involved Contact Privacy Policy The District Get Involved Contact Privacy Policy Contribute Paid for by Friends of Suzy Glowiak Scroll to Top

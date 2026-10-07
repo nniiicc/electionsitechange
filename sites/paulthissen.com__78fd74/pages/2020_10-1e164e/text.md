@@ -1,12 +1,9 @@
-by lftcrtv | Oct 24, 2020 | News
-Read the full article here: Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Here’s who’s running. by lftcrtv | Oct 24, 2020 | News Read the full article here: Don’t forget the Minnesota Supreme Court race on the back of the ballot.
 Here’s who’s...
-by lftcrtv | Oct 22, 2020 | News
-Read full article here: https://www.kaxe.org/post/meet-supreme-court-justice-paul-thissen-running-his-first-election-after-appointment-2018#stream/0
-by lftcrtv | Oct 22, 2020 | News
-View full article here: Community Connection with Associate Justice Paul...
-by lftcrtv | Oct 18, 2020 | News
-Read Endorsement here: http://strib.mn/3nXeNvy
-by lftcrtv | Oct 18, 2020 | News
-October 16, 2020 To the Voters of Minnesota: Justice Thissen is without question the most qualified candidate running for the Minnesota State Supreme Court and I endorse him for that high office.
-In a professional capacity I have known Paul Thissen since 2004 where we...
+KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 by lftcrtv | Oct 22, 2020 | News Read full article here: https://www.kaxe.org/post/meet-supreme-court-justice-paul-thissen-running-his-first-election-after-appointment-2018#stream/0 KMRS/KKOK: COMMUNITY CONNECTION WITH ASSOCIATE JUSTICE PAUL THISSEN by lftcrtv | Oct 22, 2020 | News View full article here: Community Connection with Associate Justice Paul...
+StarTribune: Elect Paul Thissen in Minnesota’s only statewide judicial race. by lftcrtv | Oct 18, 2020 | News Read Endorsement here: http://strib.mn/3nXeNvy Justice Thissen Endorsement Letter by lftcrtv | Oct 18, 2020 | News October 16, 2020 To the Voters of Minnesota: Justice Thissen is without question the most qualified candidate running for the Minnesota State Supreme Court and I endorse him for that high office.
+In a professional capacity I have known Paul Thissen since 2004 where we... « Older Entries Search for: Recent Posts Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Here’s who’s running.
+KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 KMRS/KKOK: COMMUNITY CONNECTION WITH ASSOCIATE JUSTICE PAUL THISSEN StarTribune: Elect Paul Thissen in Minnesota’s only statewide judicial race.
+Justice Thissen Endorsement Letter Recent Comments Archives October 2020 September 2020 July 2020 June 2020 Categories Events News Meta Log in Entries feed Comments feed WordPress.org Privacy Policy

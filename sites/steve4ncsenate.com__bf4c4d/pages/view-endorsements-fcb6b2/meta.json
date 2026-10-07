@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.steve4ncsenate.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "2ac0613588f108bb0521628252da259619ba57e2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

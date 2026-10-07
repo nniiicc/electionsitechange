@@ -1,7 +1,9 @@
 {
  "description": "Contact the David Fabrikant Campaign",
  "final_url": "https://www.electdavidfabrikant.com/contact",
- "paid_for_by": null,
+ "fingerprint": "a8bea79b2bec72b26451a107effa7e7fecb63379",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact the David Fabrikant Campaign",
  "years_mentioned": []
 }

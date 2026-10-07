@@ -1,23 +1,13 @@
-Lt.
-Governor Scott Bedke Announces Re-Election Campaign
-Boise, Idaho – Idaho Lt.
-Governor Scott Bedke today announced his campaign for re-election, pledging to continue fighting for our Idaho way of life and
-September 8, 2025
-https://www.ktvb.com/article/news/local/viewpoint/the-race-for-idaho-lieutenant-governor-part-1-scott-bedke/277-e810c46e-a483-4364-82df-30a5244afa8d (LINK) BOISE, Idaho — In six weeks, on Tuesday, November 8, voters Idaho will head to the polls in the general election to decide
-September 26, 2022
-Like most Idahoans, I was aware of fentanyl’s growing presence in our state.
-However, I was unaware of the gravity of the threat it poses
-August 4, 2022
-What makes Idaho the state we are proud to call home?
-To me, it’s our shared goal of making Idaho the best place to live,
-July 19, 2022
-For Immediate Release May 18, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Scott Bedke Celebrates Victory in Idaho Republican Primary Election for Lieutenant Governor
-May 18, 2022
-For Immediate Release May 16, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Idaho Chiefs of Police Association Endorses Scott Bedke to be Idaho’s Next
-May 16, 2022
-FOR IMMEDIATE RELEASE MAY 14, 2022 CONTACT: BRIAN OLMSTEAD (208) 420-3324 COALITION OF IDAHO WATER USERS ENDORSE SCOTT BEDKE FOR LIEUTENANT GOVERNOR Water is truly
-May 14, 2022
-For Immediate Release May 11, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Southern Idaho Potato Cooperative Endorses Scott Bedke to be Idaho’s Next Lieutenant
-May 11, 2022
-For Immediate Release May 10, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Idaho Wool Growers Association Endorses Scott Bedke to be Idaho’s Next Lieutenant
-May 10, 2022
+Skip to content About Issues News Volunteer Contact Endorsements About Issues News Volunteer Contact Endorsements Donate News Lt.
+Governor Scott Bedke Announces Re-Election Campaign Boise, Idaho – Idaho Lt.
+Governor Scott Bedke today announced his campaign for re-election, pledging to continue fighting for our Idaho way of life and Read More » September 8, 2025 The race for Idaho lieutenant governor: Rep.
+Scott Bedke https://www.ktvb.com/article/news/local/viewpoint/the-race-for-idaho-lieutenant-governor-part-1-scott-bedke/277-e810c46e-a483-4364-82df-30a5244afa8d (LINK) BOISE, Idaho — In six weeks, on Tuesday, November 8, voters Idaho will head to the polls in the general election to decide Read More » September 26, 2022 Op-Ed: House Speaker Scott Bedke’s take on Operation Esto Perpetua, fentanyl in Idaho Like most Idahoans, I was aware of fentanyl’s growing presence in our state.
+However, I was unaware of the gravity of the threat it poses Read More » August 4, 2022 Op-Ed: Dam Breaching is Bad for Idaho What makes Idaho the state we are proud to call home?
+To me, it’s our shared goal of making Idaho the best place to live, Read More » July 19, 2022 Scott Bedke Celebrates Victory in Idaho Republican Primary Election for Lieutenant Governor For Immediate Release May 18, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Scott Bedke Celebrates Victory in Idaho Republican Primary Election for Lieutenant Governor Read More » May 18, 2022 Idaho Chiefs of Police Association Endorses Scott Bedke to be Idaho’s Next Lieutenant Governor For Immediate Release May 16, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Idaho Chiefs of Police Association Endorses Scott Bedke to be Idaho’s Next Read More » May 16, 2022 Coalition of Idaho Water Users Endorse Scott Bedke for Lieutenant Governor FOR IMMEDIATE RELEASE MAY 14, 2022 CONTACT: BRIAN OLMSTEAD (208) 420-3324 COALITION OF IDAHO WATER USERS ENDORSE SCOTT BEDKE FOR LIEUTENANT GOVERNOR Water is truly Read More » May 14, 2022 Southern Idaho Potato Cooperative Endorses Scott Bedke to be Idaho’s Next Lieutenant Governor For Immediate Release May 11, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Southern Idaho Potato Cooperative Endorses Scott Bedke to be Idaho’s Next Lieutenant Read More » May 11, 2022 Idaho Wool Growers Association Endorses Scott Bedke to be Idaho’s Next Lieutenant Governor For Immediate Release May 10, 2022 Media Contact: Darren Damon darren@bilbaoco.com | (208) 989-8855 Idaho Wool Growers Association Endorses Scott Bedke to be Idaho’s Next Lieutenant Read More » May 10, 2022 Page 1 Page 2 Page 3 Page 4 Social Media Facebook Instagram Join The Campaign " * " indicates required fields Name * First Last Email * Phone Consent * By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, marketing, polling, donation requests, event reminders) from (Scott Bedke for Idaho) at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy * Home About Issues News Volunteer Contact Donate Privacy Policy Home About Issues News Volunteer Contact Donate Privacy Policy Paid for by Bedke for Idaho.
+Margie Watson Treasurer.

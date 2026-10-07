@@ -1,5 +1,6 @@
-A vote is a vote… but earning it changes everything.
-Earlier this week at the candidate forum in the 84th District, a woman in the audience shared during Q&A that she used to be a Republican but had become disillusioned with the current party.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In All Posts Search A vote is a vote… but earning it changes everything.
+Arienne Childrey Apr 17 2 min read Earlier this week at the candidate forum in the 84th District, a woman in the audience shared during Q&A that she used to be a Republican but had become disillusioned with the current party.
 She wasn’t much of a fan of the Democratic Party either.
 Yet she said she would be voting for me, simply because I wasn’t a Republican.
 I was grateful for her support.
@@ -18,7 +19,6 @@ That creates real, lasting momentum for the kind of Ohio we all want to see.
 We don’t have to settle for votes that are only “against” the other side.
 We can earn every vote by showing up, listening, and sharing a positive path forward — together.
 If this resonates with you, please share it.
-And if you’re ready to help turn “against” into “for” across the 84th District, join our campaign at https://www.arichildrey.com/contact
-Together, we’re building a Better Path Forward.
-—Arienne Childrey
-Democratic Candidate for Ohio House of Representatives, 84th District
+And if you’re ready to help turn “against” into “for” across the 84th District, join our campaign at https://www.arichildrey.com/contact Together, we’re building a Better Path Forward. —Arienne Childrey Democratic Candidate for Ohio House of Representatives, 84th District #BetterPathForward #84thDistrict #OhioHouse Recent Posts See All An Open Letter of Resignation from the Ohio Democratic Party Pride Caucus.
+Arienne Childrey: A Strong Night in the Ohio Primary – Moving Forward Together Responsible Growth, Not Corporate Giveaways: My Position on Data Centers in Ohio ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

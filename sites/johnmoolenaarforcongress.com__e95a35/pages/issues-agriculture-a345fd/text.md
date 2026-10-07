@@ -1,4 +1,4 @@
-Michigan's Second District is home to some of the most productive and diverse farms in the country.
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Michigan's Second District is home to some of the most productive and diverse farms in the country.
 From dairy, corn, soybeans, and cattle to apples, asparagus, poultry, and specialty crops, our farmers play a critical role in feeding America and supporting our economy.
 Growing up, I treasured the time spent on my grandparents' farm in Indiana and learned firsthand about the hard work and dedication required to operate a family farm.
 Those experiences continue to shape my understanding of the challenges facing farmers today.
@@ -8,3 +8,4 @@ I have also worked to address critical workforce challenges by supporting reform
 Additionally, as Chairman of the House Select Committee on the Chinese Communist Party, I have worked to protect American agriculture from foreign threats, including efforts by China to acquire American farmland and influence our food supply.
 I have also supported expanding export opportunities, strengthening farm programs, reducing burdensome regulations, and ensuring farmers have the tools they need to remain competitive.
 As your voice in Congress, I will continue fighting for Michigan agriculture, protecting family farms, preserving rural communities, and ensuring future generations can continue our proud farming tradition.
+DONATE Paid for by Moolenaar for Congress Privacy Policy

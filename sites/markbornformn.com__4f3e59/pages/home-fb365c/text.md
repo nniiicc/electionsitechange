@@ -1,4 +1,4 @@
-I'm running for Minnesota House of Representatives in District 66A to address the challenges facing our state government.
+Meet Mark Volunteer Contribute Contact Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up I'm running for Minnesota House of Representatives in District 66A to address the challenges facing our state government.
 I take this work seriously and will work very hard for all of my constituents.
 Ending the outrageous levels of fraud in Minnesota is my top priority.
 The blatant disregard shown for Minnesota taxpayers during the last legislative session is unacceptable.
@@ -8,10 +8,7 @@ Additionally, I am committed to protecting our children's future by ensuring edu
 We must focus on what truly matters for our students rather than being distracted by radical agendas.
 I believe in protecting the integrity of girls' sports by maintaining clear and fair competition standards.
 I also believe locker room policies should prioritize privacy while respecting all students.
-DEMOCRATS THAT LOVE AMERICA --- BECOME REPUBLICANS
-Prepared and paid for by Mark Born for MN committee
-P.O.
+DEMOCRATS THAT LOVE AMERICA --- BECOME REPUBLICANS Prepared and paid for by Mark Born for MN committee P.O.
 Box 13616, St.
-Paul MN 55113
-Sign Up for Updates
-Thanks for signing up!
+Paul MN 55113 Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Committee to Elect Mark Born Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mark Contribute Volunteer Contact Close Menu

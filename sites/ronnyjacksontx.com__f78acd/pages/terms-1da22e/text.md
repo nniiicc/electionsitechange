@@ -1,7 +1,4 @@
-Terms of Service
-Last updated: 2025-11-21
-Mobile Messaging Terms & Conditions
-Team Ronny (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Home About Issues Donate Donate Terms of Service Last updated: 2025-11-21 Mobile Messaging Terms & Conditions Team Ronny (“We,” “Us,” “Our”) is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 Team Ronny ("JFC") is a joint fundraising committee composed of TEXANS FOR RONNY JACKSON (the "Campaign Committee"), TEXAS RED (the "LPAC"), and NRCC (each, a "Committee," and, collectively, the "Committees").
 User Opt-In: The Program allows users to receive Short Messaging Service (“SMS”)/Multimedia Messaging Service (“MMS”) mobile messages by users affirmatively opting into the Program.
@@ -49,3 +46,8 @@ We reserves the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
+Paid for by Team Ronny, a joint fundraising committee authorized and composed of Texans for Ronny Jackson,Texas Red, and NRCC.
+P.O.
+Box 51522, Amarillo, TX 79159 © 2026 Ronny Jackson for Congress.
+All rights reserved.
+Terms of Service Privacy Policy

@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://bakerforohio.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "58e4f1a57bfd6a093c80946678b18eaed33b9c84",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

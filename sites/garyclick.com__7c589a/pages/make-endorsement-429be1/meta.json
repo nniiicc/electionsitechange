@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.garyclick.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "ff04dc0146863e8ce67429b865ba4667b2c01382",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

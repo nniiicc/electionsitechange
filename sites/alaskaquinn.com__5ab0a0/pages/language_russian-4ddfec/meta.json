@@ -1,7 +1,9 @@
 {
- "description": "Russian \u041b\u043e\u0432\u0438 \u043c\u043e\u043c\u0435\u043d\u0442! \u0421\u0442\u0430\u043d\u044c\u0442\u0435 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u043c \u0437\u0430 \u043e\u0434\u0438\u043d \u0432\u044b\u043f\u0443\u0441\u043a!",
+ "description": "Russian Лови момент! Станьте чемпионом за один выпуск!",
  "final_url": "https://www.alaskaquinn.com/language/russian",
- "paid_for_by": null,
+ "fingerprint": "b9a06396305d83327edbda1292e481006c0ba56a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "AlaskaQuinn - Russian",
  "years_mentioned": []
 }

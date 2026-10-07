@@ -1,5 +1,4 @@
-HAPPY LABOR DAY
-Organized labor should be celebrated, protected, and uplifted, not only on Labor Day but every day.
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE HAPPY LABOR DAY America Is Stronger Because of Organized Labor Organized labor should be celebrated, protected, and uplifted, not only on Labor Day but every day.
 America is a stronger, safer, and more prosperous nation because generations of workers had the courage to organize and demand dignity, fairness, opportunity, and a voice at work.
 As a former Chicago Public Schools employee and proud union member, I know firsthand how much a union can change a worker’s life.
 Over nearly 20 years in the Illinois General Assembly, I have proudly stood with organized labor because strong unions create stronger families, stronger communities, and a stronger America.
@@ -18,5 +17,5 @@ We must defend collective bargaining, prevailing wages, pensions, workplace safe
 Let us build a stronger, more inclusive labor movement that reflects our country's full diversity, talent, and promise.
 A diverse labor movement will build a stronger middle class and a stronger America—because America works better when America’s workers are better off in a union.
 La Shawn K.
-Ford
-Illinois State Representative
+Ford Illinois State Representative A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

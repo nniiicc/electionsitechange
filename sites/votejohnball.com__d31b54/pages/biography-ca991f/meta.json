@@ -1,7 +1,11 @@
 {
  "description": "Explore John Ball&#39;s biography, his campaign for the Thirteenth Court of Appeals, and his insights into Texas law.",
  "final_url": "https://votejohnball.com/biography",
+ "fingerprint": "303174eef21592edcecf9c00b22ae7f8ff330d76",
+ "format": 3,
  "paid_for_by": "paid for by John Ball Campaign, Lucy Thompson, Treasurer, 2724 W",
  "title": "Biography",
- "years_mentioned": []
+ "years_mentioned": [
+  "1995"
+ ]
 }

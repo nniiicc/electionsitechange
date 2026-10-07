@@ -1,16 +1,6 @@
-Voter Info
-Dates & Deadlines - November 3, 2026
-New Voter ID Requirements
-TO VOTE IN PERSON, you must provide ONE of the following:
-- Ohio Driver’s License
-- Ohio State ID card or interim Ohio ID issued by the BMV
-- US Passport or Passport Card
-- US Military Card, Ohio National Guard ID Card, or US Department of Veterans Affairs ID Card
-A new Ohio Law requires that voters present a Photo ID when voting in person.
-TO VOTE BY MAIL, you must provide ONE of the following:
-- Last 4 digits of social security number
-- Ohio Driver’s License
-- Ohio State ID number
-- Copy of US Passport or Passport Card
-- Copy of Ohio National Guard ID Card or US Department of Veterans Affairs ID Card
-Voters may NOT provide a driver’s license from another state, utility bill, bank statement, government check, payroll check, government document, social security card, or official mail or notice from the Board of Elections.
+0 Skip to Content Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home Folder: About Back Greg Landsman The Issues Our Supporters Folder: Media Back Releases Media Videos In the News Endorsements Folder: Vote Back Voter Info The District Shop Donate Voter Info Dates & Deadlines - November 3, 2026 Register to Vote Register to vote online here .
+Check your registration status here .
+Find more information about registering to vote here .
+New Voter ID Requirements TO VOTE IN PERSON , you must provide ONE of the following: Ohio Driver’s License Ohio State ID card or interim Ohio ID issued by the BMV US Passport or Passport Card US Military Card, Ohio National Guard ID Card, or US Department of Veterans Affairs ID Card A new Ohio Law requires that voters present a Photo ID when voting in person.
+TO VOTE BY MAIL , you must provide ONE of the following: Last 4 digits of social security number Ohio Driver’s License Ohio State ID number Copy of US Passport or Passport Card Copy of Ohio National Guard ID Card or US Department of Veterans Affairs ID Card Voters may NOT provide a driver’s license from another state, utility bill, bank statement, government check, payroll check, government document, social security card, or official mail or notice from the Board of Elections.
+Donate Contact Us info@landsmanforcongress.com PO Box 68033 Cincinnati, OH 45206 Paid for by Landsman for Congress Privacy Policy

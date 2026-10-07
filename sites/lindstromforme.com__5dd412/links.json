@@ -1,12 +1,58 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?submit=submit",
-"https://ballotpedia.org/Mary_Shannon_Lindstrom",
-"https://facebook.com/LindstromForScarborough",
-"https://instagram.com/lindstromforme",
-"https://lindstromforme.com/",
-"https://lindstromforme.com/a-letter-from-the-candidate",
-"https://lindstromforme.com/about-me",
-"https://lindstromforme.com/community-support",
-"https://lindstromforme.com/on-the-issues",
-"https://linkedin.com/in/lindstromshannon"
+{
+"text": "About Me",
+"href": "https://lindstromforme.com/about-me/"
+},
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Mary_Shannon_Lindstrom"
+},
+{
+"text": "Community Support",
+"href": "https://lindstromforme.com/community-support/"
+},
+{
+"text": "Dear Neighbors",
+"href": "https://lindstromforme.com/a-letter-from-the-candidate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LindstromForScarborough"
+},
+{
+"text": "Give",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl?submit=submit&trans_type="
+},
+{
+"text": "Home",
+"href": "https://lindstromforme.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lindstromforme/"
+},
+{
+"text": "Learn More",
+"href": "https://lindstromforme.com/on-the-issues/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/lindstromshannon/"
+},
+{
+"text": "Mary Shannon Lindstrom",
+"href": "https://lindstromforme.com"
+},
+{
+"text": "On The Issues",
+"href": "https://lindstromforme.com/on-the-issues/"
+},
+{
+"text": "https://www.facebook.com/LindstromForScarborough/",
+"href": "https://www.facebook.com/LindstromForScarborough"
+},
+{
+"text": "← Back",
+"href": "https://lindstromforme.com/"
+}
 ]

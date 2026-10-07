@@ -1,9 +1,9 @@
 {
  "description": "Support the Okey Anyiam campaign by donating to help us make a difference in the Texas Court of Criminal Appeals.",
  "final_url": "https://okeyanyiamforjudge.com/donate",
- "paid_for_by": null,
+ "fingerprint": "e89a07b51275fd2a71fe102531da22f36f0f64a8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

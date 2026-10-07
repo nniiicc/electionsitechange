@@ -1,6 +1,2 @@
-Alewa Neighborhood Board
-Time
-Monday, Nov 9, 2026
-7:00 PM – 8:00 PM
-Map
-Maemae Elementary School cafeteria
+Home About Donna Events News Community Bulletin Photo Gallery Events / Alewa Neighborhood Board Alewa Neighborhood Board Time Monday, Nov 9, 2026 7:00 PM – 8:00 PM Location Maemae Elementary School cafeteria Map Map Maemae Elementary School cafeteria Directions → Add to calendar Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

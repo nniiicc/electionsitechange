@@ -1,12 +1,4 @@
-Back to All Events
-RSVP here ✨
-Canvassing is one of the most important - and rewarding - parts of our campaign!
+0 Skip to Content Home About Priorities Endorsements Contact Get Involved Donate Open Menu Close Menu Home About Priorities Endorsements Contact Get Involved Donate Open Menu Close Menu Home About Priorities Endorsements Contact Get Involved Donate Back to All Events Knock Doors with Us Saturday, August 8, 2026 10:00 AM 12:00 PM Google Calendar ICS RSVP here ✨ Canvassing is one of the most important - and rewarding - parts of our campaign!
 We’ll pair you with a partner for support and provide you with talking points to feel comfortable and confident.
 Please join us and meet the amazing neighbors of 58B!
-Previous
-Previous
-August 2
-Knock Doors with Us
-Next
-Next
-August 9
+Previous Previous August 2 Knock Doors with Us Next Next August 9 Knock Doors with Us Get Involved Donate Prepared and paid for by Ed Fellows for House 58B - PO Box 93, Farmington, MN, 55024

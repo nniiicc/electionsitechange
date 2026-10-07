@@ -1,9 +1,42 @@
 [
-"https://dangarner4idaho.com/",
-"https://dangarner4idaho.com/about",
-"https://dangarner4idaho.com/contact-8",
-"https://dangarner4idaho.com/donate",
-"https://dangarner4idaho.com/issues",
-"https://dangarner4idaho.com/news-events",
-"https://facebook.com/profile.php?id=100078405643264"
+{
+"text": "ABOUT",
+"href": "https://www.dangarner4idaho.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.dangarner4idaho.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://www.dangarner4idaho.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.dangarner4idaho.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.dangarner4idaho.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.dangarner4idaho.com/about"
+},
+{
+"text": "NEWS & EVENTS",
+"href": "https://www.dangarner4idaho.com/news-events"
+},
+{
+"text": "READ MORE",
+"href": "https://www.dangarner4idaho.com"
+},
+{
+"text": "READ MORE",
+"href": "https://www.dangarner4idaho.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100078405643264"
+}
 ]

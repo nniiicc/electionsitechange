@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/privacy-policy/",
- "paid_for_by": null,
+ "fingerprint": "8edc41ec307f3ad43fcabee308ecbeb4bfd85043",
+ "format": 3,
+ "paid_for_by": "authorized by the individual from whom the information was collection or unless allowed by law",
  "title": "Privacy Policy",
  "years_mentioned": [
   "2020"

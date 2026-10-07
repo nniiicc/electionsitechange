@@ -1,23 +1,102 @@
 [
-"https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/asthma-and-poverty",
-"https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/hia",
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues/memo/transportation",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/volunteer",
-"https://epa.gov/ghgemissions/transportation-sector-emissions",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://instagram.com/claireforny",
-"https://mutcd.fhwa.dot.gov/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues/memo/transportation"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Manual on Uniform Traffic Control Devices",
+"href": "https://mutcd.fhwa.dot.gov/"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "a direct result of decades of highway expansion and underinvestment in cleaner alternatives",
+"href": "https://www.epa.gov/ghgemissions/transportation-sector-emissions"
+},
+{
+"text": "highest asthma rates",
+"href": "https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/asthma-and-poverty/"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+},
+{
+"text": "worst air quality",
+"href": "https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/hia/"
+}
 ]

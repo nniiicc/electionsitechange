@@ -1,9 +1,38 @@
 [
-"https://azsos.gov/elections/voters/register-vote-update-current-voter-information",
-"https://give.cornerstone.cc/votejamestaylor/checkout",
-"https://votejamestaylor.com/",
-"https://votejamestaylor.com/get-involved",
-"https://votejamestaylor.com/issues",
-"https://votejamestaylor.com/james-taylor",
-"https://votejamestaylor.com/privacy-policy"
+{
+"text": "CONTRIBUTE NOW",
+"href": "https://give.cornerstone.cc/votejamestaylor/checkout"
+},
+{
+"text": "GET REGISTERED",
+"href": "https://azsos.gov/elections/voters/register-vote-update-current-voter-information"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votejamestaylor.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votejamestaylor.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votejamestaylor.com/issues"
+},
+{
+"text": "James Taylor",
+"href": "https://www.votejamestaylor.com"
+},
+{
+"text": "James Taylor",
+"href": "https://www.votejamestaylor.com/james-taylor"
+},
+{
+"text": "Privacy Policy & Terms of Use",
+"href": "https://www.votejamestaylor.com/privacy-policy"
+},
+{
+"text": "State Representative - LD29",
+"href": "https://www.votejamestaylor.com"
+}
 ]

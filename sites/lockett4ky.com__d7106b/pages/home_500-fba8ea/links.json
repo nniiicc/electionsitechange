@@ -1,22 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/Matt-Lockett-for-State-Representative-39th-District-99435527154",
-"https://legislature.ky.gov/Public%20Services/GIS/HH002C03IndivDistricts/H39%20%28HH002C03%29%2022RS-HB2%20HCS1.pdf",
-"https://lockett4ky.com/",
-"https://lockett4ky.com/about_matt",
-"https://lockett4ky.com/contact",
-"https://lockett4ky.com/contribute",
-"https://lockett4ky.com/home",
-"https://lockett4ky.com/home?=100",
-"https://lockett4ky.com/home?=1000",
-"https://lockett4ky.com/home?=2000",
-"https://lockett4ky.com/home?=250",
-"https://lockett4ky.com/home?=3500",
-"https://lockett4ky.com/home?=500",
-"https://lockett4ky.com/issues",
-"https://lockett4ky.com/news",
-"https://lockett4ky.com/photos",
-"https://lockett4ky.com/volunteer",
-"https://secure.winred.com/matt-lockett-for-state-representative/donate",
-"https://youtube.com/results?search_query=matt+lockett+state+representative"
+{
+"text": "$#",
+"href": "https://www.lockett4ky.com/home?=100"
+},
+{
+"text": "$#",
+"href": "https://www.lockett4ky.com/home?=250"
+},
+{
+"text": "$#",
+"href": "https://www.lockett4ky.com/home?=500"
+},
+{
+"text": "$1000",
+"href": "https://www.lockett4ky.com/home?=1000"
+},
+{
+"text": "$2000",
+"href": "https://www.lockett4ky.com/home?=2000"
+},
+{
+"text": "$3500",
+"href": "https://www.lockett4ky.com/home?=3500"
+},
+{
+"text": "About Matt",
+"href": "https://www.lockett4ky.com/about_matt"
+},
+{
+"text": "Contact",
+"href": "https://www.lockett4ky.com/contact"
+},
+{
+"text": "DISTRICT 39 MAP",
+"href": "https://legislature.ky.gov/Public%20Services/GIS/HH002C03IndivDistricts/H39%20%28HH002C03%29%2022RS-HB2%20HCS1.pdf"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/matt-lockett-for-state-representative/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lockett4ky.com/photos"
+},
+{
+"text": "Home",
+"href": "https://www.lockett4ky.com/home"
+},
+{
+"text": "News",
+"href": "https://www.lockett4ky.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.lockett4ky.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lockett4ky.com/volunteer"
+},
+{
+"text": "[image: Become a Volunteer]",
+"href": "https://www.lockett4ky.com/volunteer"
+},
+{
+"text": "[image: Make a Contribution]",
+"href": "https://www.lockett4ky.com/contribute"
+},
+{
+"text": "[image]",
+"href": "https://www.lockett4ky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Matt-Lockett-for-State-Representative-39th-District-99435527154/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/results?search_query=matt+lockett+state+representative"
+}
 ]

@@ -1,19 +1,15 @@
-Description
-A classic denim jacket reimagined for people who love timeless style with a bold, personal edge.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Uncategorized / Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket $ 68.60 A classic denim jacket reimagined for people who love timeless style with a bold, personal edge.
+The relaxed silhouette layers easily over tees and sweaters.
+Metal buttons and button-flap chest pockets give it that authentic workwear attitude, while large slanted front pockets keep your hands warm and your essentials close.
+The back features a colorful,… Color Choose an option Medium Denim Wash Sizes Choose an option S M L XL 2XL Clear Denim Jacket — Rainbow 'HARRIS' Patch Back Logo Jacket quantity Add to cart Category: Uncategorized Description Additional information Reviews (0) Description A classic denim jacket reimagined for people who love timeless style with a bold, personal edge.
 The relaxed silhouette layers easily over tees and sweaters.
 Metal buttons and button-flap chest pockets give it that authentic workwear attitude, while large slanted front pockets keep your hands warm and your essentials close.
 The back features a colorful, eye-catching patch that reads as a confident statement — great for makers, small-brand fans, and anyone who likes their outerwear to do the talking.
 The fabric blend keeps the jacket sturdy yet comfortable, with just enough stretch to move through the day without fuss.
 Wear it on weekend markets, late-night drives, or while wandering city streets that reward curiosity.
-Product features
-– Durable metal button closures on front, cuffs, and chest pockets
-– Spacious slanted front pockets plus button-flap chest pockets
-– Lapel-style flat knit collar for a classic look
-– Comfortable cotton-rich blend with slight stretch for mobility
-– Relaxed fit with sewn-in label at the hem
-Care instructions
-– Machine wash: cold (max 30C or 90F), gentle cycle
-– Do not bleach
-– Dry flat
-– Iron, steam or dry: low heat
-– Do not dryclean
+Product features – Durable metal button closures on front, cuffs, and chest pockets – Spacious slanted front pockets plus button-flap chest pockets – Lapel-style flat knit collar for a classic look – Comfortable cotton-rich blend with slight stretch for mobility – Relaxed fit with sewn-in label at the hem Care instructions – Machine wash: cold (max 30C or 90F), gentle cycle – Do not bleach – Dry flat – Iron, steam or dry: low heat – Do not dryclean Additional information Weight N/A Reviews There are no reviews yet.
+Be the first to review “Denim Jacket — Rainbow ‘HARRIS’ Patch Back Logo Jacket” Cancel reply Your email address will not be published.
+Required fields are marked * Your rating * Rate… Perfect Good Average Not that bad Very poor Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
+Related products 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

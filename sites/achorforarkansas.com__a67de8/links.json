@@ -1,8 +1,42 @@
 [
-"https://achorforarkansas.com/",
-"https://achorforarkansas.com/volunteer",
-"https://facebook.com/brandon.achor",
-"https://instagram.com/brandonachor",
-"https://politics.raisethemoney.com/en/bachor",
-"https://twitter.com/brandon_achor"
+{
+"text": "ABOUT",
+"href": "https://www.achorforarkansas.com#about"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/bachor"
+},
+{
+"text": "HOME",
+"href": "https://www.achorforarkansas.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.achorforarkansas.com#volunteer-anchor"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.achorforarkansas.com/volunteer"
+},
+{
+"text": "WHAT BRANDON IS FOR",
+"href": "https://www.achorforarkansas.com#whatbrandonisfor"
+},
+{
+"text": "[image: Brandon Achor 2026-Logo Options_v2-07.png]",
+"href": "https://www.achorforarkansas.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/brandon.achor"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brandonachor/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/brandon_achor"
+}
 ]

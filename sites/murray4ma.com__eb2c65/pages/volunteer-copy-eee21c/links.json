@@ -1,13 +1,54 @@
 [
-"https://bsky.app/profile/murray4ma.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/murray4ma",
-"https://instagram.com/murray4ma",
-"https://murray4ma.com/",
-"https://murray4ma.com/about",
-"https://murray4ma.com/endorsements",
-"https://murray4ma.com/httpssecureactbluecomdonatemurray4ma",
-"https://murray4ma.com/issues",
-"https://murray4ma.com/volunteer",
-"https://tiktok.com/@murray4ma"
+{
+"text": "About",
+"href": "https://www.murray4ma.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.murray4ma.com/httpssecureactbluecomdonatemurray4ma"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murray4ma.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.murray4ma.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murray4ma.com/volunteer"
+},
+{
+"text": "[image: Connor Murray]",
+"href": "https://www.murray4ma.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/murray4ma.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/murray4ma"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@murray4ma"
+},
+{
+"text": "murray4ma@gmail.com",
+"href": "mailto:murray4ma@gmail.com"
+}
 ]

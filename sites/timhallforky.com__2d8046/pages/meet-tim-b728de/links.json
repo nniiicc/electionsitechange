@@ -1,10 +1,34 @@
 [
-"http://facebook.com/timhallforky",
-"http://instagram.com/timhallforky",
-"https://secure.actblue.com/donate/tim-hall-website",
-"https://timhallforky.com/",
-"https://timhallforky.com/cart",
-"https://timhallforky.com/endorsements",
-"https://timhallforky.com/meet-tim",
-"https://timhallforky.com/tims-priorities"
+{
+"text": "0",
+"href": "https://www.timhallforky.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tim-hall-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.timhallforky.com/endorsements"
+},
+{
+"text": "Meet Tim",
+"href": "https://www.timhallforky.com/meet-tim"
+},
+{
+"text": "Tim's Priorities",
+"href": "https://www.timhallforky.com/tims-priorities"
+},
+{
+"text": "[image: Tim Hall for Kentucky]",
+"href": "https://www.timhallforky.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/timhallforky"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/timhallforky"
+}
 ]

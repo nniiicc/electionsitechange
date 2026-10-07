@@ -1,29 +1,9 @@
-Republican Terri Carver for Senate District 9
-ABOUT TERRI
-Terri served in the United States Air Force as a JAG (military lawyer) and retired as a Colonel after 29 years of combined active duty and reserve service.
-Terri is a former State Representative from 2015-2022, serving the citizens of House District 20.
-She is proud that a significant number of the bills she carried came from issues raised by people in the district and local officials in El Paso County.
-During her tenure in the State Legislature, she was known for her successful legislation.
-Here are a few of her legislator awards:
-- Elected Women of Excellence Award 2019 (National Federation of Women Legislators) – One of the two Colorado women legislators selected for the award.
-- Colorado Fraternal Order of Police Legislator Award
-- Faith, Family, and Freedom Award (Centennial Institute)
-- Colorado Springs Military Spouse Coalition Award (June 2020) – Recognized for work on passage of military spouse occupational licensing reform
-- Colorado United Veterans Coalition Legislator of the Year 2019
-Terri has been active in the community for many years including:
-- American Legion Tri-Lakes Post 9-11 (Vice Commander 2023-June 2025)
-- VFW Auxiliary Post 7829
-- Southern Colorado Women’s Chamber (Chair, Public Policy Committee June 2023-March 2025)
-- Tri-Lakes Chamber of Commerce (Public Policy Committee member)
-- Southern Colorado Human Trafficking Task Force Board Member
-- Colorado Springs Chamber
-- The Home Front Cares, volunteer 2012-2014
-- Teacher Liaison, Space Foundation 2005-2014
-- Colorado Springs Utilities Policy Advisory Committee 2009-2013
-Terri’s prior work experience includes:
-- U.S.
-Air Force JAG (military attorney), Colonel (retired) - 29 years of combined active duty and reserve
-- Air Force, Civil Service attorney, regulatory compliance and space launch support
-- College instructor on energy development and environment; space law and policy
-- Congressional aide to Rep.
-Virginia Smith (R-NE) during the Reagan Revolution
+top of page HOME ABOUT ENDORSEMENTS DONATE Republican Terri Carver for Senate District 9 ABOUT TERRI Terri served in the United States Air Force as a JAG (military lawyer) and retired as a Colonel after 29 years of combined active duty and reserve service. ​ Terri is a former State Representative from 2015-2022, serving the citizens of House District 20.
+She is proud that a significant number of the bills she carried came from issues raised by people in the district and local officials in El Paso County. ​ During her tenure in the State Legislature, she was known for her successful legislation.
+Here are a few of her legislator awards: Elected Women of Excellence Award 2019 (National Federation of Women Legislators) – One of the two Colorado women legislators selected for the award.
+Colorado Fraternal Order of Police Legislator Award Faith, Family, and Freedom Award (Centennial Institute) Colorado Springs Military Spouse Coalition Award (June 2020) – Recognized for work on passage of military spouse occupational licensing reform Colorado United Veterans Coalition Legislator of the Year 2019 Terri has been active in the community for many years including: American Legion Tri-Lakes Post 9-11 (Vice Commander 2023-June 2025) VFW Auxiliary Post 7829 Southern Colorado Women’s Chamber (Chair, Public Policy Committee June 2023-March 2025) Tri-Lakes Chamber of Commerce (Public Policy Committee member) Southern Colorado Human Trafficking Task Force Board Member Colorado Springs Chamber The Home Front Cares, volunteer 2012-2014 Teacher Liaison, Space Foundation 2005-2014 Colorado Springs Utilities Policy Advisory Committee 2009-2013 Terri’s prior work experience includes: U.S.
+Air Force JAG (military attorney), Colonel (retired) - 29 years of combined active duty and reserve Air Force, Civil Service attorney, regulatory compliance and space launch support College instructor on energy development and environment; space law and policy Congressional aide to Rep.
+Virginia Smith (R-NE) during the Reagan Revolution Let’s Work Together Get in touch so we can start working together.
+First Name Last Name Email Message Send Thanks for submitting! terri@carverforcolorado.org 719-425-7590 Find us on Facebook Find us on Instagram The appearance of U.S.
+Department of Defense visual information does not imply or constitute DOD endorsement.
+Paid for by Carver for Colorado; Registered Agent Terri Carver bottom of page

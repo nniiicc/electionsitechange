@@ -1,7 +1,6 @@
-Skip navigation menu
-Get to know your candidate!
-Tracey Steele
-I'm a native Missourian, proud Northlander, husband, and father.
+Skip navigation menu Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Get to know your candidate!
+Tracey Steele Home How to vote Priorities Get Involved About Rebuilding Missouri Donate Get to know your candidate!
+Tracey Steele I'm a native Missourian, proud Northlander, husband, and father.
 We chose Parkville to raise a family.
 The close-knit community, great schools, and being a part of the Kansas City metro made it an easy decision.
 I plan to be here for a long time, and want to keep District 12 a welcoming place for all.
@@ -12,7 +11,13 @@ They taught me the value of education; how to work hard; to keep fighting, even 
 To me, that's always been what it means to be an American.
 Those are the common sense values that helped make this country special, and prosperity a possibility for all.
 "The number one reason we moved to Parkville was the fantastic school system.
-The Republicans have been cutting state funding to our schools for years, putting an unfair burden on local property taxes to make up the difference."
+The Republicans have been cutting state funding to our schools for years, putting an unfair burden on local property taxes to make up the difference. " I went to school at Northwest Missouri State, where I majored in broadcasting.
+I started my career in television journalism as a reporter and anchor at KQTV in St.
+Joe.
+After spending some time gaining experience out-of-state, I was able to come home to Channel 9 as Executive Producer of their morning news with Kris Ketz, Donna Pitman, and Joel Nichols.
+I got out of the news business in 2009 and headed to California to go to law school on scholarship at the University of California, Irvine.
+While attending UCI Law, I got the chance to work with Katie Porter as her research assistant.
+I had no idea she was soon going to become Congresswoman Katie Porter.
 After law school, and later transitioning into real estate law, I was able to go home to Kansas City.
 Thanks to my wife, Tania, we found a beautiful home in Parkville to raise our daughter, my youngest.
 After the 2024 election, I was disappointed, and most of all mad.
@@ -32,4 +37,4 @@ I want to represent the people - my neighbors - and fight for all Northland fami
 Not just hold the line in Jefferson City, but to stay and fight, not be bullied or bought by billionaire interests.
 We will knock doors, make calls, and do everything possible to reach every voter in District 12 for this opportunity.
 Please consider helping that mission, and joining us on the campaign trail.
-Your support, volunteer efforts, and contributions are deeply appreciated and truly make a difference towards the Northland we deserve.
+Your support, volunteer efforts, and contributions are deeply appreciated and truly make a difference towards the Northland we deserve. steeleformissouri@gmail.com 816-237-8057 MEDIA GALLERY Powered by RUN! website builder Paid for by Steele for Missouri, Kayla Stigge-Harwood, Treasurer You need to enable JavaScript to run this app.

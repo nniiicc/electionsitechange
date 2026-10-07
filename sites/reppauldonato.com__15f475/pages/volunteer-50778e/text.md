@@ -1,3 +1,3 @@
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Copyright © 2020 Friends of Paul Donato - All Rights Reserved.
-Powered by
+Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter More Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter Home Meet Paul Priorities Contact Us Latest News Endorsements Get Involved Donate Volunteer Newsletter Volunteering Volunteer First Name* Last Name* Email* Street address* Zip Code* I would like to have a sign to put on my yard in support of Paul's Campaign (Yes / No)* I would like to volunteer my time to make phone calls for Paul's campaign (Yes / No)* I would like to be a social media ambassador for Paul's Campaign (Yes / No)* I would like to help out at standouts for Paul's Campaign (Yes / No)* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Copyright © # Friends of Paul Donato - All Rights Reserved.
+Endorsements Donate Volunteer Newsletter Powered by

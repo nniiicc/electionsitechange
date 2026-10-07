@@ -1,9 +1,34 @@
 [
-"https://facebook.com/VoteLuluFlores",
-"https://instagram.com/voteluluflores",
-"https://secure.actblue.com/donate/lulu-flores-campaign-1",
-"https://voteluluflores.com/about",
-"https://voteluluflores.com/contact",
-"https://voteluluflores.com/issues",
-"https://x.com/VoteLuluFlores"
+{
+"text": "About",
+"href": "https://www.voteluluflores.com/about/"
+},
+{
+"text": "BE A SUPPORTER",
+"href": "https://www.voteluluflores.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://www.voteluluflores.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lulu-flores-campaign-1"
+},
+{
+"text": "Issues",
+"href": "https://www.voteluluflores.com/issues/"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/VoteLuluFlores"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/voteluluflores/"
+},
+{
+"text": "x",
+"href": "https://x.com/VoteLuluFlores"
+}
 ]

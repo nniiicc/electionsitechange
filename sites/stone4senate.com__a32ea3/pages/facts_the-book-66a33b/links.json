@@ -1,26 +1,134 @@
 [
-"http://precertethics.alabama.gov/ViewEvent.aspx?eventid=2265",
-"https://alreporter.com/2025/01/22/opinion-jabo-waggoner-an-alabama-political-legend",
-"https://apps.irs.gov/app/eos",
-"https://ethics.alabama.gov/docs/LobbyList/2024LobbyistList.pdf",
-"https://eventivesports.com/about/executive-team/gene-hallman",
-"https://fcpa.alabamavotes.gov/PublicSite/SearchPages/ExpenditureSearch.aspx",
-"https://projects.propublica.org/nonprofits/organizations/932739387",
-"https://stone4senate.com/",
-"https://stone4senate.com/cdn-cgi/l/email-protection",
-"https://stone4senate.com/donate",
-"https://stone4senate.com/facts",
-"https://stone4senate.com/facts/the-book/filings/ag-charities-registry-expired.pdf",
-"https://stone4senate.com/facts/the-book/filings/ag-open-records-cover-letter.pdf",
-"https://stone4senate.com/facts/the-book/filings/fcpa-60k-book-expenditure-fullpage.pdf",
-"https://stone4senate.com/facts/the-book/filings/fcpa-60k-book-expenditure.png",
-"https://stone4senate.com/facts/the-book/filings/foundation-bylaws.pdf",
-"https://stone4senate.com/facts/the-book/filings/foundation-certificate-of-formation.pdf",
-"https://stone4senate.com/facts/the-book/filings/foundation-charitable-registration.pdf",
-"https://stone4senate.com/facts/the-book/filings/foundation-irs-1023-and-determination.pdf",
-"https://stone4senate.com/facts/the-book/filings/irs-auto-revocation.pdf",
-"https://stone4senate.com/facts/the-book/filings/irs-determination-2023.pdf",
-"https://stone4senate.com/press",
-"https://stone4senate.com/signup",
-"https://yellowhammernews.com/jabo-waggoner-an-alabama-political-legend-new-biography-from-steve-flowers-headed-to-print"
+{
+"text": "AG cover letter",
+"href": "https://stone4senate.com/facts/the-book/filings/ag-open-records-cover-letter.pdf"
+},
+{
+"text": "Alabama Reporter",
+"href": "https://www.alreporter.com/2025/01/22/opinion-jabo-waggoner-an-alabama-political-legend/"
+},
+{
+"text": "Donate",
+"href": "https://stone4senate.com/donate/"
+},
+{
+"text": "Facts",
+"href": "https://stone4senate.com/facts/"
+},
+{
+"text": "Home",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "More facts",
+"href": "https://stone4senate.com/facts/"
+},
+{
+"text": "Press",
+"href": "https://stone4senate.com/press/"
+},
+{
+"text": "Press inquiries",
+"href": "https://stone4senate.com/press/"
+},
+{
+"text": "ProPublica Nonprofit Explorer",
+"href": "https://projects.propublica.org/nonprofits/organizations/932739387"
+},
+{
+"text": "Sign up",
+"href": "https://stone4senate.com/signup/"
+},
+{
+"text": "Strong with Stone",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "Yellowhammer News",
+"href": "https://yellowhammernews.com/jabo-waggoner-an-alabama-political-legend-new-biography-from-steve-flowers-headed-to-print/"
+},
+{
+"text": "[email protected]",
+"href": "https://stone4senate.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "ag-charities-registry-expired.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/ag-charities-registry-expired.pdf"
+},
+{
+"text": "ag-open-records-cover-letter.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/ag-open-records-cover-letter.pdf"
+},
+{
+"text": "apps.irs.gov/app/eos",
+"href": "https://apps.irs.gov/app/eos/"
+},
+{
+"text": "bylaws",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-bylaws.pdf"
+},
+{
+"text": "certificate of formation",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-certificate-of-formation.pdf"
+},
+{
+"text": "ethics.alabama.gov",
+"href": "https://ethics.alabama.gov/docs/LobbyList/2024LobbyistList.pdf"
+},
+{
+"text": "eventivesports.com",
+"href": "https://www.eventivesports.com/about/executive-team/gene-hallman/"
+},
+{
+"text": "fcpa-60k-book-expenditure-fullpage.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/fcpa-60k-book-expenditure-fullpage.pdf"
+},
+{
+"text": "fcpa-60k-book-expenditure.png",
+"href": "https://stone4senate.com/facts/the-book/filings/fcpa-60k-book-expenditure.png"
+},
+{
+"text": "fcpa.alabamavotes.gov",
+"href": "https://fcpa.alabamavotes.gov/PublicSite/SearchPages/ExpenditureSearch.aspx"
+},
+{
+"text": "foundation-bylaws.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-bylaws.pdf"
+},
+{
+"text": "foundation-certificate-of-formation.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-certificate-of-formation.pdf"
+},
+{
+"text": "foundation-charitable-registration.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-charitable-registration.pdf"
+},
+{
+"text": "foundation-irs-1023-and-determination.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/foundation-irs-1023-and-determination.pdf"
+},
+{
+"text": "irs-auto-revocation.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/irs-auto-revocation.pdf"
+},
+{
+"text": "irs-determination-2023.pdf",
+"href": "https://stone4senate.com/facts/the-book/filings/irs-determination-2023.pdf"
+},
+{
+"text": "precertethics.alabama.gov",
+"href": "http://precertethics.alabama.gov/ViewEvent.aspx?eventid=2265"
+},
+{
+"text": "precertethics.alabama.gov (event 2265)",
+"href": "http://precertethics.alabama.gov/ViewEvent.aspx?eventid=2265"
+},
+{
+"text": "registry (expired)",
+"href": "https://stone4senate.com/facts/the-book/filings/ag-charities-registry-expired.pdf"
+},
+{
+"text": "stone4senate.com",
+"href": "https://stone4senate.com/"
+}
 ]

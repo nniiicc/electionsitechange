@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with Tim Coffin campaign news, focusing on his candidacy for New Hampshire State Representative and community-driven solutions.",
  "final_url": "https://timcoffinnh.com/news-1",
- "paid_for_by": null,
+ "fingerprint": "fede6341b121aa025eaaff0511ed9c941431cf13",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2026"

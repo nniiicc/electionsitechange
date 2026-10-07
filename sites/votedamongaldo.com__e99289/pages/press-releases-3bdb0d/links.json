@@ -1,19 +1,78 @@
 [
-"https://app.getresponse.com/email_marketing_click.html?x=a62b&co=9ZUKPE&lc=z9iMUk&mc=0I&s=BYiPoqA&u=Jj7YP&z=EM8hMbj",
-"https://facebook.com/DamonGaldo",
-"https://instagram.com/damongaldonj",
-"https://secure.anedot.com/damon-galdo-for-congress/8fbaa22e-08ea-46f7-8862-58f4c50782cd",
-"https://votedamongaldo.com/",
-"https://votedamongaldo.com/about-damon",
-"https://votedamongaldo.com/contact-us",
-"https://votedamongaldo.com/endorsements",
-"https://votedamongaldo.com/m/account",
-"https://votedamongaldo.com/m/create-account",
-"https://votedamongaldo.com/platform",
-"https://votedamongaldo.com/press-releases",
-"https://votedamongaldo.com/privacy-policy",
-"https://votedamongaldo.com/tell-me-about-you",
-"https://votedamongaldo.com/video-1",
-"https://voter.svrs.nj.gov/register",
-"https://x.com/DamonGaldoNJ"
+{
+"text": "About Damon",
+"href": "https://votedamongaldo.com/about-damon"
+},
+{
+"text": "Contact Us",
+"href": "https://votedamongaldo.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://votedamongaldo.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/damon-galdo-for-congress/8fbaa22e-08ea-46f7-8862-58f4c50782cd"
+},
+{
+"text": "Endorsements",
+"href": "https://votedamongaldo.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://votedamongaldo.com/"
+},
+{
+"text": "My Account",
+"href": "https://votedamongaldo.com/m/account"
+},
+{
+"text": "Platform",
+"href": "https://votedamongaldo.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://votedamongaldo.com/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedamongaldo.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://voter.svrs.nj.gov/register"
+},
+{
+"text": "Sign In",
+"href": "https://votedamongaldo.com/m/account"
+},
+{
+"text": "Tell me about You!",
+"href": "https://votedamongaldo.com/tell-me-about-you"
+},
+{
+"text": "Video",
+"href": "https://votedamongaldo.com/video-1"
+},
+{
+"text": "[image]",
+"href": "https://votedamongaldo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DamonGaldo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/damongaldonj"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/DamonGaldoNJ"
+},
+{
+"text": "https://www.youtube.com/shorts/bRphswsMcXc",
+"href": "https://app.getresponse.com/email_marketing_click.html?x=a62b&co=9ZUKPE&lc=z9iMUk&mc=0I&s=BYiPoqA&u=Jj7YP&z=EM8hMbj"
+}
 ]

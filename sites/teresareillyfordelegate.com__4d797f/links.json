@@ -1,13 +1,58 @@
 [
-"http://teresareillyfordelegate.com/",
-"http://teresareillyfordelegate.com/about",
-"http://teresareillyfordelegate.com/category/news",
-"http://teresareillyfordelegate.com/contact-us",
-"http://teresareillyfordelegate.com/newsletter",
-"http://teresareillyfordelegate.com/priorities",
-"http://teresareillyfordelegate.com/requestasign",
-"http://teresareillyfordelegate.com/resources",
-"http://teresareillyfordelegate.com/scholarship",
-"http://tutorialchip.com/",
-"http://wordpress.org/"
+{
+"text": "About",
+"href": "http://teresareillyfordelegate.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "http://teresareillyfordelegate.com/contact-us/"
+},
+{
+"text": "Home",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "News",
+"href": "http://teresareillyfordelegate.com/category/news/"
+},
+{
+"text": "Priorities",
+"href": "http://teresareillyfordelegate.com/priorities/"
+},
+{
+"text": "Resources",
+"href": "http://teresareillyfordelegate.com/resources/"
+},
+{
+"text": "Scholarship",
+"href": "http://teresareillyfordelegate.com/scholarship/"
+},
+{
+"text": "TutorialChip",
+"href": "http://www.tutorialchip.com/"
+},
+{
+"text": "WordPress 5.4.16",
+"href": "http://wordpress.org/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "[image]",
+"href": "http://teresareillyfordelegate.com/requestasign/"
+},
+{
+"text": "[no text]",
+"href": "http://teresareillyfordelegate.com/"
+},
+{
+"text": "contact me at any time",
+"href": "http://teresareillyfordelegate.com/contact-us/"
+},
+{
+"text": "weekly e-newsletters",
+"href": "http://teresareillyfordelegate.com/newsletter"
+}
 ]

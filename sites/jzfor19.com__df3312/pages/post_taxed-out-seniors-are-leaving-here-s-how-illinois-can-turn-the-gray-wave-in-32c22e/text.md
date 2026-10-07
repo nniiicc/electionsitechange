@@ -1,5 +1,5 @@
-Taxed-Out Seniors Are Leaving — Here’s How Illinois Can Turn the Gray Wave Into Growth
-Every time Chicago and or Illinois is in the press, it’s bad news.
+top of page Home The Issues Affordability Immigration Education Public Safety Platform Meet John Get Involved District 19 Blog Donate More Use tab to navigate through the menu items.
+All Posts Search Taxed-Out Seniors Are Leaving — Here’s How Illinois Can Turn the Gray Wave Into Growth John Zimmers Jun 9 2 min read Every time Chicago and or Illinois is in the press, it’s bad news.
 Moody’s article from October 23, 2025 “Moody’s Investor Services on Thursday upgraded Illinois’ credit rating to A2, the state’s highest mark in more than two decades.
 But despite the bump, Illinois remains the lowest rated state in the nation”.
 Story by Center Square in the Washington Examiner, “Illinois also earned the worst ranking in the nation for unfunded pension liabilities.
@@ -30,6 +30,6 @@ They stay at hotels, they go to restaurants, and yes, they shop!
 Better yet, they like to volunteer, imagine the tremendous influence they would have on our kids, versus today’s social media “influencers”.
 We would be repopulating the state and creating commerce.
 Just a thought.
-John “JZ” Zimmers
-The Original JZ for 19
-Candidate for The House of Representatives in the 19th District
+John “JZ” Zimmers The Original JZ for 19 Candidate for The House of Representatives in the 19th District Recent Posts See All Governor Pritzker’s Cognitive Decline or Just Selective Memory?
+Missing the Pointe REGISTER TO VOTE!
+Log In Terms & Conditions Privacy Policy Accessibility Statement bottom of page

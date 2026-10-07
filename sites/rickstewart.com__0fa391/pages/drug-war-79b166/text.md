@@ -1,4 +1,4 @@
-Everyone who knows me knows my opinion on the Drug War – it is the biggest mistake America has ever made.
+Search Close Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate Menu Home About Issues 2nd Amendment Clean Iowa Education Eminent Domain End the Drug War Ethanol Local control of local issues Mental Health National Guard Obscene books Occupational licensing Ranked Choice Voting News Volunteer Contact Store Donate End the Drug War America's second civil war needs to end Everyone who knows me knows my opinion on the Drug War – it is the biggest mistake America has ever made.
 Drug use is not drug abuse, and most drug users harm no one, including themselves.
 Threatening them with prison has no persuasive moral basis and violates the Declaration of Independence, the American Constitution, and the Iowa Constitution.
 Let’s not pretend drug abuse does not exist, however.
@@ -21,3 +21,9 @@ It’s time to call for an unconditional surrender, while giving them full credi
 We don’t want people to suffer from their own actions, but we must protect their unalienable right to pursue their own definition of happiness.
 Let’s just make sure their choices are informed choices, uninfluenced by people who would like to profit from selling poisons like sugar, alcohol, tobacco, marijuana, heroin, cocaine, etc.
 Always remember – the dose makes the poison.
+Your donations are helping bring Freedom to Iowa Donate Join our mailing list!
+Full Name Email Send Share: Share on facebook Share on twitter Share on linkedin Share on reddit Share on whatsapp Share on pinterest Share on email Share on print More Posts 2nd Amendment I own, I shoot, I carry.
+Mental Health Everyone needs good mental health, why don’t we have it?
+Occupational licensing Occupational licensing – Iowa government run amok?
+Ranked Choice Voting Voters prefer Ranked Choice Voting Prev Previous Eminent Domain Next Ethanol Next Paid for by Rick Stewart In all that I do, at all times and with all people, I will conduct my affairs, the affairs of my campaign, and the affairs of my office, with unwavering integrity.
+The First Choice for Iowa Governor All Rights Reserved

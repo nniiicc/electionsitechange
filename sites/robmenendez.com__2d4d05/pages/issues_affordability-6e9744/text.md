@@ -1,15 +1,6 @@
-Rob's Priorities
-Affordability
-Increases in housing, energy, food, and other costs have made it more difficult than ever before for many working families in our district to make ends meet.
+Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Priorities Meet Rob Latest News Endorsements Get Involved Donate Toggle Mobile Menu Priorities Meet Rob Latest News Endorsements Get Involved Donate Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter Language Rob's Priorities Affordability Increases in housing, energy, food, and other costs have made it more difficult than ever before for many working families in our district to make ends meet.
 Workers across all industries deserve to earn a living wage, and nobody should be forced to work multiple jobs just to survive.
 As your representative in Congress, I introduced the Working Families Task Force Act, which would establish and ensure a whole-of-government approach to creating solutions to address affordability, child care, affordable housing, and more.
 I also cosponsored the Raise the Wage Act of 2023, which would raise the federal minimum wage to $17 an hour by 2027, and the Child Care for Working Families Act, which would ensure that families can afford the child care they need.
-I will continually support efforts to:
-- Enact Democratic proposals to create over 1 million affordable homes through nearly $10 billion for a new Affordable Housing Access Program and affordable housing with mass-transit access;
-- Provide $65 billion towards addressing the capital needs backlog for public housing;
-- Address our country’s child care crisis by expanding child care stabilization grants and supporting child care centers and the early learning workforce;
-- Support tax fairness for our district by restoring the full SALT deduction;
-- Expand access to affordable healthcare by lowering prescription drug prices, supporting community health centers, and strengthening protections for individuals with pre-existing conditions;
-- Work toward federal solutions for the ongoing supply chain crisis;
-- Increase the federal minimum wage to $17 by 2028, and renew the national minimum wage to keep pace with inflation; and
-- Address the student debt crisis.
+I will continually support efforts to: Enact Democratic proposals to create over 1 million affordable homes through nearly $10 billion for a new Affordable Housing Access Program and affordable housing with mass-transit access; Provide $65 billion towards addressing the capital needs backlog for public housing; Address our country’s child care crisis by expanding child care stabilization grants and supporting child care centers and the early learning workforce; Support tax fairness for our district by restoring the full SALT deduction; Expand access to affordable healthcare by lowering prescription drug prices, supporting community health centers, and strengthening protections for individuals with pre-existing conditions; Work toward federal solutions for the ongoing supply chain crisis; Increase the federal minimum wage to $17 by 2028, and renew the national minimum wage to keep pace with inflation ; and Address the student debt crisis.
+Up Next Childcare & Education Empower Our Communities Strengthen Our Families Priorities Meet Rob Latest News Endorsements Follow on facebook Follow on instagram Follow on bluesky Follow on threads Follow on twitter [email protected] 123 Town Square Place #515 Jersey City, NJ 07310 Voting Info Privacy Policy Accessibility Statement What Voters Need to Know Paid for by Menendez for Congress

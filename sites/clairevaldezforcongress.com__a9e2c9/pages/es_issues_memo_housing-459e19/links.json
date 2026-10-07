@@ -1,19 +1,86 @@
 [
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/en/issues/memo/housing",
-"https://clairevaldezforcongress.com/es",
-"https://clairevaldezforcongress.com/es/endorsements",
-"https://clairevaldezforcongress.com/es/issues",
-"https://clairevaldezforcongress.com/es/volunteer",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://instagram.com/claireforny",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "Acerca de Claire",
+"href": "https://clairevaldezforcongress.com/es/#about"
+},
+{
+"text": "Asuntos",
+"href": "https://clairevaldezforcongress.com/es/issues"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "English",
+"href": "https://clairevaldezforcongress.com/en/issues/memo/housing"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Respaldos",
+"href": "https://clairevaldezforcongress.com/es/endorsements"
+},
+{
+"text": "Ser Voluntario",
+"href": "https://clairevaldezforcongress.com/es/volunteer"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Trabajos",
+"href": "https://clairevaldezforcongress.com/es/jobs"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez para el Congreso]",
+"href": "https://clairevaldezforcongress.com/es/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+}
 ]

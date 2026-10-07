@@ -1,20 +1,86 @@
 [
-"http://facebook.com/GuzmanForArkansas",
-"http://instagram.com/GuzmanForArkansas",
-"https://ballotpedia.org/Eduardo_Guzman",
-"https://districtfinder.youraedi.com/",
-"https://form.jotform.com/222275227390050",
-"https://getloudarkansas.org/",
-"https://guzmanforarkansas.com/",
-"https://guzmanforarkansas.com/about",
-"https://guzmanforarkansas.com/cart",
-"https://guzmanforarkansas.com/donate",
-"https://guzmanforarkansas.com/events",
-"https://guzmanforarkansas.com/signmeup",
-"https://guzmanforarkansas.com/vote",
-"https://sbec.arkansas.gov/wp-content/uploads/Absentee_Ballot_Application_rev._8-2023-REVISED_.pdf",
-"https://sos.arkansas.gov/elections/military-and-overseas-citizens",
-"https://sos.arkansas.gov/elections/voter-information/absentee-voting",
-"https://sos.arkansas.gov/uploads/elections/ARCountyClerks.pdf",
-"https://voterview.ar-nova.org/VoterView"
+{
+"text": "(Yard) Sign Me Up!",
+"href": "https://www.guzmanforarkansas.com/signmeup"
+},
+{
+"text": "0",
+"href": "https://www.guzmanforarkansas.com/cart"
+},
+{
+"text": "AR District Finder",
+"href": "https://districtfinder.youraedi.com/"
+},
+{
+"text": "About",
+"href": "https://www.guzmanforarkansas.com/about"
+},
+{
+"text": "Absentee Ballot Application",
+"href": "https://sbec.arkansas.gov/wp-content/uploads/Absentee_Ballot_Application_rev._8-2023-REVISED_.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.guzmanforarkansas.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.guzmanforarkansas.com/events"
+},
+{
+"text": "GLA Easy Voter Application",
+"href": "https://form.jotform.com/222275227390050"
+},
+{
+"text": "Get Loud Arkansas",
+"href": "https://getloudarkansas.org/"
+},
+{
+"text": "Guzman for Fort Smith",
+"href": "https://www.guzmanforarkansas.com/"
+},
+{
+"text": "Vote",
+"href": "https://www.guzmanforarkansas.com/vote"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/GuzmanForArkansas"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/GuzmanForArkansas"
+},
+{
+"text": "[no text]",
+"href": "https://ballotpedia.org/Eduardo_Guzman"
+},
+{
+"text": "[no text]",
+"href": "mailto:guzmanforarkansas@gmail.com"
+},
+{
+"text": "here",
+"href": "https://www.sos.arkansas.gov/elections/military-and-overseas-citizens#section-1"
+},
+{
+"text": "https://www.voterview.ar-nova.org/VoterView.",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "online",
+"href": "https://www.voterview.ar-nova.org/VoterView"
+},
+{
+"text": "sebastianclerk@arkansasclerks.com",
+"href": "mailto:sebastianclerk@arkansasclerks.com"
+},
+{
+"text": "this link",
+"href": "https://www.sos.arkansas.gov/uploads/elections/ARCountyClerks.pdf"
+},
+{
+"text": "website",
+"href": "https://www.sos.arkansas.gov/elections/voter-information/absentee-voting"
+}
 ]

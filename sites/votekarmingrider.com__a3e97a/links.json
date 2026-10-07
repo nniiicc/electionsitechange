@@ -1,7 +1,22 @@
 [
-"https://votekarmingrider.com/",
-"https://votekarmingrider.com/current-legislator",
-"https://votekarmingrider.com/donate",
-"https://votekarmingrider.com/material",
-"https://votekarmingrider.com/mission"
+{
+"text": "Current Legislator",
+"href": "https://www.votekarmingrider.com/current-legislator"
+},
+{
+"text": "Donate",
+"href": "https://www.votekarmingrider.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votekarmingrider.com"
+},
+{
+"text": "Material",
+"href": "https://www.votekarmingrider.com/material"
+},
+{
+"text": "Mission",
+"href": "https://www.votekarmingrider.com/mission"
+}
 ]

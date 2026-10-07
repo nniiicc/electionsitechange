@@ -1,11 +1,54 @@
 [
-"https://facebook.com/kimhammerforarkansas",
-"https://hammerforarkansas.com/",
-"https://hammerforarkansas.com/about",
-"https://hammerforarkansas.com/election-security",
-"https://hammerforarkansas.com/news",
-"https://hammerforarkansas.com/privacy",
-"https://hammerforarkansas.com/terms",
-"https://hammerforarkansas.com/volunteer",
-"https://secure.winred.com/hammer-for-arkansas/hammerforarkansas"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hammer-for-arkansas/hammerforarkansas"
+},
+{
+"text": "Election Security",
+"href": "https://www.hammerforarkansas.com/election-security/"
+},
+{
+"text": "Home",
+"href": "https://www.hammerforarkansas.com/"
+},
+{
+"text": "Meet Kim",
+"href": "https://www.hammerforarkansas.com/about/"
+},
+{
+"text": "News",
+"href": "https://www.hammerforarkansas.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.hammerforarkansas.com/privacy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.hammerforarkansas.com/terms/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.hammerforarkansas.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/kimhammerforarkansas"
+},
+{
+"text": "[image]",
+"href": "https://www.hammerforarkansas.com/"
+},
+{
+"text": "attach_moneyContribute",
+"href": "https://secure.winred.com/hammer-for-arkansas/hammerforarkansas"
+},
+{
+"text": "campaignGet Involved",
+"href": "https://www.hammerforarkansas.com/volunteer/"
+},
+{
+"text": "newsmodeLatest News",
+"href": "https://www.hammerforarkansas.com/news/"
+}
 ]

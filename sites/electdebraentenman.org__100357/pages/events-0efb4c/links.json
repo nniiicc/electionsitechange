@@ -1,21 +1,106 @@
 [
-"http://airwaysbrewing.com/",
-"http://google.com/calendar/event?action=TEMPLATE&text=Debra%27s+Virtual+Campaign+Launch&dates=20200521T020000Z%2F20200521T030000Z&location=Zoom%2C+Kent%2C+WA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Debra+Entenman+Field+Launch+Party&dates=20200703T013000Z%2F20200703T023000Z&location=320+West+Harrison+Street%2C+Kent%2C+WA%2C+98032%2C+United+States",
-"http://maps.google.com/?q=320+West+Harrison+Street+Kent%2C+WA%2C+98032+United+States",
-"http://maps.google.com/?q=Zoom+Kent%2C+WA",
-"https://electdebraentenman.org/",
-"https://electdebraentenman.org/about",
-"https://electdebraentenman.org/cart",
-"https://electdebraentenman.org/contact-1",
-"https://electdebraentenman.org/events",
-"https://electdebraentenman.org/events/debra-entenman-field-launch-party",
-"https://electdebraentenman.org/events/debra-entenman-field-launch-party?format=ical",
-"https://electdebraentenman.org/events/launch",
-"https://electdebraentenman.org/events/launch?format=ical",
-"https://electdebraentenman.org/platform",
-"https://electdebraentenman.org/team",
-"https://electdebraentenman.org/volunteer",
-"https://facebook.com/electdebraentenman",
-"https://syndon.us/campaign/debraentenman"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=320+west+harrison+street+kent%2C+wa%2C+98032+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=zoom+kent%2C+wa+"
+},
+{
+"text": "0",
+"href": "https://www.electdebraentenman.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.electdebraentenman.org/about"
+},
+{
+"text": "Airways Brewing",
+"href": "http://airwaysbrewing.com/"
+},
+{
+"text": "Airways Brewing - The Bistro & Beer Garden",
+"href": "http://airwaysbrewing.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.electdebraentenman.org/contact-1"
+},
+{
+"text": "Debra Entenman Field Launch Party",
+"href": "https://www.electdebraentenman.org/events/debra-entenman-field-launch-party"
+},
+{
+"text": "Debra's Virtual Campaign Launch",
+"href": "https://www.electdebraentenman.org/events/launch"
+},
+{
+"text": "Donate",
+"href": "https://syndon.us/campaign/debraentenman"
+},
+{
+"text": "Events",
+"href": "https://www.electdebraentenman.org/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Debra%27s+Virtual+Campaign+Launch&dates=20200521T020000Z%2F20200521T030000Z&location=Zoom%2C+Kent%2C+WA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Debra+Entenman+Field+Launch+Party&dates=20200703T013000Z%2F20200703T023000Z&location=320+West+Harrison+Street%2C+Kent%2C+WA%2C+98032%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.electdebraentenman.org/events/debra-entenman-field-launch-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electdebraentenman.org/events/launch?format=ical"
+},
+{
+"text": "Platform",
+"href": "https://www.electdebraentenman.org/platform"
+},
+{
+"text": "Team",
+"href": "https://www.electdebraentenman.org/team"
+},
+{
+"text": "View Event →",
+"href": "https://www.electdebraentenman.org/events/debra-entenman-field-launch-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.electdebraentenman.org/events/launch"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electdebraentenman.org/volunteer"
+},
+{
+"text": "[image: Debra Entenman Field Launch Party]",
+"href": "https://www.electdebraentenman.org/events/debra-entenman-field-launch-party"
+},
+{
+"text": "[image: Debra Entenman]",
+"href": "https://www.electdebraentenman.org/"
+},
+{
+"text": "[image: Debra's Virtual Campaign Launch]",
+"href": "https://www.electdebraentenman.org/events/launch"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electdebraentenman"
+},
+{
+"text": "info@electdebraentenman.org",
+"href": "mailto:info@electdebraentenman.org"
+}
 ]

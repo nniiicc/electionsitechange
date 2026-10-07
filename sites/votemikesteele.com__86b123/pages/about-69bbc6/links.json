@@ -1,21 +1,82 @@
 [
-"http://votemikesteele.com/connect",
-"https://facebook.com/votemikesteele",
-"https://secure.anedot.com/citizens-to-elect-mike-steele/general-fund-c3f1ec88e9eb3d9fba18a",
-"https://votemikesteele.com/",
-"https://votemikesteele.com/about",
-"https://votemikesteele.com/connect",
-"https://votemikesteele.com/endorsements",
-"https://votemikesteele.com/news-updates",
-"https://votemikesteele.com/priorities",
-"https://votemikesteele.com/volunteer",
-"https://votemikesteele.com/wp-content/uploads/2026/05/20250404_125128ab-743x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/E4D12BB6-7377-47BF-9C05-C327D2D2EA26.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/IMG_0787-772x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/IMG_1497-1030x773.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/IMG_1825-772x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/Mike-reading-w-niece-in-her-classroom-778x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/Mike-with-his-brother-mom-and-dad-at-the-Capitol-772x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/mike-w-niece-and-nephew-at-Wenatchee-Apple-Blossom-773x1030.jpg",
-"https://votemikesteele.com/wp-content/uploads/2026/05/mike-with-sister-in-law-brother-parents-and-niece-and-newphews-1030x773.jpg"
+{
+"text": "About Mike",
+"href": "https://www.votemikesteele.com/about/"
+},
+{
+"text": "Connect",
+"href": "https://www.votemikesteele.com/connect/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/citizens-to-elect-mike-steele/general-fund-c3f1ec88e9eb3d9fba18a"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemikesteele.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemikesteele/"
+},
+{
+"text": "Home",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "Mail",
+"href": "http://www.votemikesteele.com/connect/"
+},
+{
+"text": "News & Updates",
+"href": "https://www.votemikesteele.com/news-updates/"
+},
+{
+"text": "Priorities",
+"href": "https://www.votemikesteele.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemikesteele.com/volunteer/"
+},
+{
+"text": "[image: Re-Elect Mike Steele]",
+"href": "https://www.votemikesteele.com/"
+},
+{
+"text": "[image]Mike carving a pumpkin with his niece",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/IMG_1825-772x1030.jpg"
+},
+{
+"text": "[image]Mike reading with his niece in her classroom",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/Mike-reading-w-niece-in-her-classroom-778x1030.jpg"
+},
+{
+"text": "[image]Mike with his brother, mom, and dad at the Capitol",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/Mike-with-his-brother-mom-and-dad-at-the-Capitol-772x1030.jpg"
+},
+{
+"text": "[image]Mike with his brother, sister-in-law, niece, and nephews",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/20250404_125128ab-743x1030.jpg"
+},
+{
+"text": "[image]Mike with his brother, sister-in-law, nieces, and nephew",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/E4D12BB6-7377-47BF-9C05-C327D2D2EA26.jpg"
+},
+{
+"text": "[image]Mike with his niece",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/IMG_0787-772x1030.jpg"
+},
+{
+"text": "[image]Mike with his niece and nephew at the Washington State Apple Blossom Festival",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/mike-w-niece-and-nephew-at-Wenatchee-Apple-Blossom-773x1030.jpg"
+},
+{
+"text": "[image]Mike with his niece and nephews",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/IMG_1497-1030x773.jpg"
+},
+{
+"text": "[image]Mike with his sister-in-law, brother, parents, niece, and nephews",
+"href": "https://www.votemikesteele.com/wp-content/uploads/2026/05/mike-with-sister-in-law-brother-parents-and-niece-and-newphews-1030x773.jpg"
+}
 ]

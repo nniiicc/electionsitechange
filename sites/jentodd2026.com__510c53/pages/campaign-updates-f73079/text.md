@@ -1,22 +1,9 @@
-Skip navigation menu
-Get an Insider's View
-Every week, Jennifer and Team Todd send an email with a message from Jennifer and updates on where Jennifer will be around the district, volunteer opportunities, and more.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Campaign Updates Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Campaign Updates Get an Insider's View Every week, Jennifer and Team Todd send an email with a message from Jennifer and updates on where Jennifer will be around the district, volunteer opportunities, and more.
 It's the best way to keep up with what's happening on the campaign.
 If you miss an email on Tuesday, you can come here on Wednesdays and catch up!
-Tuesdays with Team Todd
-September 29
-Running out of Time!🕛
-September 22
-Imagining our future
-September 15
-September 8
-September 1
-August 25
-August 11
-July 21
-June 9
-June 2
-May 19
-April 21
-APRIL 14
-APRIL 7
+Tuesdays with Team Todd September 29 Running out of Time!🕛 September 22 Imagining our future September 15 Turning outrage into action September 8 Competing visions for IL-15 .
+September 1 Keeping beef affordable August 25 Being a champion for teachers August 18 Bringing signs to you at the State Fair or anywhere!
+August 11 Ramping up for early voting and more August 4 Believing in American values: Immigration July 28 Making history happen together July 21 Bringing facts & trust back July 14 Securing resources families need to thrive July 7 Highlighting several firsts!
+June 30 Nearing quarterly fundraising goal & Jen in Charleston June 23 Countering manufactured outrage June 16 Making government work for farmers June 9 Honoring all families June 2 Leading with kindness May 26 Funding services for seniors May 19 Fundraising & organizing May 13 Breaking the underinvestment cycle May 5 Investing in rural infrastructure April 28 Supporting our teachers, students & schools April 21 Focusing on District 15 needs APRIL 14 Listening, not talking at people APRIL 7 Gaining momentum Privacy Policy jennifer@jentodd2026.us | 618-251-1428 Friends for Jennifer Todd P.O.
+Box 3 Glen Carbon, IL 62034 Powered by RUN! website builder Paid for by Friends for Jennifer Todd.
+You need to enable JavaScript to run this app.

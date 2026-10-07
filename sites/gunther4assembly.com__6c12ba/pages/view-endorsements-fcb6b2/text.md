@@ -1,11 +1,5 @@
-gunther4assembly has been approved by the New York State Board of Elections to participate in their matching funds program
-Endorsed by Warren, Washington, Saratoga County Democratic committees to run for New York State Assembly D-144
-"On behalf of the Saratoga County Young Democrats, I'm delighted to inform you that you have received our endorsement in your upcoming election.
-SCYD looks forward to working with you to further your candidacy and engage young voters."
-Saratoga County Young Democrats
-"John Gunther is running to flip one of New York's most entrenched Republican held Assembly seats in the north country.
+Meet John News Endorsements Volunteer Voter Information Donate by Mail Contribute Endorsements gunther4assembly has been approved by the New York State Board of Elections to participate in their matching funds program Endorsed by Warren, Washington, Saratoga County Democratic committees to run for New York State Assembly D-144 "On behalf of the Saratoga County Young Democrats, I'm delighted to inform you that you have received our endorsement in your upcoming election.
+SCYD looks forward to working with you to further your candidacy and engage young voters." Saratoga County Young Democrats "John Gunther is running to flip one of New York's most entrenched Republican held Assembly seats in the north country.
 His opponent has run unopposed for the last four years.
 Matt Simpson, your seat in the NYS government is not safe.
-We the People will hold you accountable for your silence, for your indifference and for your failure to improve the lives of everyday people in District 21."
-Endorsed by Working Families Party to run for New York State Assembly D-144
-Working Families Party
+We the People will hold you accountable for your silence, for your indifference and for your failure to improve the lives of everyday people in District 21." Endorsed by Working Families Party to run for New York State Assembly D-144 Working Families Party Click here to add your endorsement Donate by Mail Voter Information Yard Signs Contact Paid for by the gunther4assembly committee Powered by CampaignPartner.com - Political Websites Home Meet John Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

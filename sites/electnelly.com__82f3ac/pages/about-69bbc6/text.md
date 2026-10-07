@@ -1,5 +1,4 @@
-Meet Dr Nelly Burdette
-Most people experience government through systems that are difficult to navigate such as healthcare, housing, and services meant to support them.
+Home About Newsletter Get involved Issues Contribute Home About Newsletter Get involved Issues Contribute Meet Dr Nelly Burdette Most people experience government through systems that are difficult to navigate such as healthcare, housing, and services meant to support them.
 Dr.
 Nelly Burdette has spent her life inside those systems, helping people find their way through them.
 Born in Ukraine and raised in Texas as a first-generation immigrant, Nelly grew up curious about the stories behind struggle.
@@ -17,22 +16,15 @@ As a small business owner at different points in her career, Nelly also understa
 Today, many small businesses are struggling not just to thrive, but to survive.
 Nelly is not a career politician.
 She is a problem solver who believes the government should function as the engine that helps communities move forward.
-Her campaign focuses on the issues she hears about most from the people she serves every day:
-- Access to affordable primary care
-- Housing people can actually afford
-- Supporting healthy aging from public education to retirement
-- Ensuring small businesses can survive and thrive in the communities they serve
-Her campaign is grounded in one simple idea:
-Change should come from people who understand the systems that need to change.
-Get in Touch
-Questions or support?
+Her campaign focuses on the issues she hears about most from the people she serves every day: Access to affordable primary care Housing people can actually afford Supporting healthy aging from public education to retirement Ensuring small businesses can survive and thrive in the communities they serve Her campaign is grounded in one simple idea: Change should come from people who understand the systems that need to change.
+Get in Touch Full Name Email Address* Message* Send Questions or support?
 Reach out anytime.
+Your Full Name email* Phone Sign me up for SMS texts Sign me up for SMS texts Subscribe © #.
 All rights reserved.
-Paid for by Friends of Nelly Burdette
-By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from Scale to Win.
+Paid for by Friends of Nelly Burdette Contribute Privacy Policy By selecting this checkbox you are agreeing to receive up to 2 text message(s) per day from Scale to Win.
 Scale to Win's mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 Messages may include donation asks.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy.
+Privacy Policy .

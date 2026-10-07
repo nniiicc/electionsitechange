@@ -1,4 +1,4 @@
-Promises Made.
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays with Will (September 2nd Edition) 2 Sep Wednesday, 8:00 PM · 2026 Wednesdays with Will (September 2nd Edition) Promises Made.
 Promises Kept.
 Part of being a good neighbor is being involved in your community.
 While one might argue there are many ways to be involved, I believe participating in local politics is perhaps one of the most overlooked ways.
@@ -21,3 +21,4 @@ Both of us will be answering those questions.
 Your voice matters.
 I want to hear directly from you, and as I promised from day one, I will listen to your priorities, and work to offer tangible solutions.
 I recommend you come early, because you don’t want to miss this chance to get informed and be involved.
+Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

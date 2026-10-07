@@ -1,7 +1,7 @@
-Sasha Ripley for Wisconsin
-Candidate for Wisconsin’s 13th Senate District
-Working Class Candidate, Teacher, Voice for the People
-My name is Sasha Ripley.
+0 Skip to Content About Issues Contact Request a Yard Sign Donate!
+Open Menu Close Menu About Issues Contact Request a Yard Sign Donate!
+Open Menu Close Menu About Issues Contact Request a Yard Sign Donate!
+Sasha Ripley for Wisconsin Candidate for Wisconsin’s 13th Senate District Meet Sasha Working Class Candidate, Teacher, Voice for the People My name is Sasha Ripley.
 I am a working-class candidate from a working-class family.
 I was born in and have lived in the 13th Senate District most of my adult life.
 My grandparents were small business owners in Marquette County.
@@ -16,11 +16,9 @@ The current system doesn’t work for everyday Americans, and we all can step up
 We need new ideas, a new vision, and new opportunities.
 The same old isn’t working for Wisconsin anymore.
 I ask you to have the courage to vote for change and to join me in having faith and hope to believe we can provide real change.
-Request a Yard Sign
-Show your support for Sasha’s campaign by requesting a yard sign today!
+Request a Yard Sign Show your support for Sasha’s campaign by requesting a yard sign today!
 We will deliver the sign to you ASAP, and we really appreciate the support.
-About Me
-Like many Wisconsinites, I grew up in a low-income household and I have intimate knowledge of what it means to be poor.
+About Me Like many Wisconsinites, I grew up in a low-income household and I have intimate knowledge of what it means to be poor.
 As a child I spent several years in an impoverished home, and I was lucky enough to be offered a job at the local grocery store while I was in middle school.
 I walked or rode my bike to work and I was grateful to have the income to buy food and clothing for myself.
 I was taught and I believed that if I went to college and I worked hard enough I would eventually be able to dig my way out of poverty.
@@ -38,8 +36,7 @@ These challenges and setbacks have made life more difficult for me; however the 
 I understand the problem and I understand how to create a realistic solution.
 I will work hard to find common-sense policies that will benefit everyone, and work across the aisle to solve the problems our communities face.
 Let’s be courageous enough to choose change.
-Issues
-- We need to immediately get to work to put a pause on building data centers until we have strict regulations, transparency, and input from the public.
+Issues Data Center Regulations and Transparency We need to immediately get to work to put a pause on building data centers until we have strict regulations, transparency, and input from the public.
 We must elect legislators who will stand up to big corporations and fight to protect our rural communities, our wilderness and waterways, and our farms.
 We need to ensure that companies building data centers pay their fair share of taxes from the beginning and throughout the entirety of the project and pay 100% of the costs to build, maintain, and use the facilities.
 Wisconsin residents should not foot the bill for building new infrastructure, upgrading the electrical grid, or increasing gas, water, and electric rates.
@@ -57,7 +54,7 @@ This bill is meant to appear as though it is protecting Wisconsinites, while not
 Requiring that all renewable energy facilities be built on the same property as the data centers will result in higher natural gas and diesel fuel usage for generating electricity which will result in higher bills for residents, farms, and small businesses.
 The Republican bill asks the PSC (WI Public Service Commission) to ensure that the data centers pay for their own energy usage without any guidance to do so and the PSC has already stated that this isn’t possible under this bill.
 So, essentially there will be no realistic way to require the data centers to pay for these costs.
-- The wealth of our state and our nation is created by our workers, not big corporations.
+Worker Protection and Opportunities The wealth of our state and our nation is created by our workers, not big corporations.
 Workers are the backbone of our society and our economy and they should be enjoying more of the profits they create.
 I support 12 weeks of paid family and medical leave for all workers in Wisconsin.
 This will prevent our hard-working Wisconsinites from being forced to choose between spending time with a new baby or caring for a sick family member and paying their rent or mortgage.
@@ -74,7 +71,7 @@ I want to use tax incentives to encourage companies to bring back office jobs an
 Countless jobs in areas like customer service, call center, IT, and accounting could quickly and easily be brought back to Wisconsin.
 I also support Wisconsin Vision 2030 goals including creating remote work from home state jobs for rural Wisconsinites living in our small towns.
 This helps save the state money in building maintenance and upkeep as well as allowing rural Wisconsinites the opportunity to have careers with the state without having to move to Madison or Milwaukee.
-- I support fully funding our public schools and lowering property taxes.
+Restructure Funding for Public Schools I support fully funding our public schools and lowering property taxes.
 We had 7 public school referendums in the 13th district.
 At least one school is closing and one school district is dissolving.
 Several other districts with failed referendums have an uncertain future.
@@ -84,7 +81,7 @@ Rural schools are important to our kids, parents, homeowners, school staff, and 
 We must elect legislators who will work to restructure the way we fund our public schools so they can once again provide the great education that our kids deserve and attract and retain the best educators, while also lowering our property taxes.
 We can’t continue placing such a high tax burden on our homeowners and we can’t tax our retired people out of their homes.
 We can start by eliminating the school voucher program which has resulted in using taxpayer money to pay for students to go to private schools and has resulted in underfunding public schools and unaffordable property taxes.
-- Too many people in Wisconsin can’t afford their rent or to buy a home of their own.
+Affordable Housing Too many people in Wisconsin can’t afford their rent or to buy a home of their own.
 The American dream of owning your own home is quickly disappearing.
 Many Wisconsinites are paying over 60% of their income on housing.
 Young people graduating from college or getting married and starting a family can’t afford housing.
@@ -107,7 +104,7 @@ I will also propose a program for building quality and attractive apartment buil
 We must stop the band-aid approach of throwing money into subsidies and get to the root of the cause of the housing crisis.
 Wisconsin needs to start using tax money to build, not just subsidize.
 Grants, vouchers, and down-payment assistance are important tools as long as we also increase housing supply.
-- I’ve worked hard and I’ve remained focused on achieving a better life and being successful.
+Quality and Affordable Health Care I’ve worked hard and I’ve remained focused on achieving a better life and being successful.
 However, like many of you, I’ve been unlucky enough to face significant health problems such as a pituitary tumor which required brain surgery and a meningitis infection which left me unable to work for a long period of time.
 I learned firsthand how quickly an illness or accident can leave you in financial distress.
 Most of us are just one illness or accident or a lost job away from being homeless.
@@ -123,7 +120,7 @@ Increased numbers of people enrolled on the plan can result in lower premiums an
 There is power with large numbers of people so that we can fight corporate price gauging.
 I support enforcing caps on the price of many necessary and lifesaving medications such as insulin and asthma inhalers, hospital price transparency, and prohibiting medical debt from being sent to collections or affecting credit scores.
 I also support regulations to prevent small hospitals and clinics from being purchased by equity firms which ultimately drive up prices and result in poor care and customer service.
-- All Wisconsin residents deserve the opportunity to be happy, healthy, prosperous and safe in return for their hard work.
+Cost of Living Crisis All Wisconsin residents deserve the opportunity to be happy, healthy, prosperous and safe in return for their hard work.
 When the working-class and middle-class are prosperous and have money to spend on goods and services in the local economy, everyone benefits.
 Small businesses, small farms, and big corporations will be more successful when everyday Wisconsinites have money to spend on their products.
 I am focused on lowering taxes for small businesses, small farms, and the middle-class to combat the hardships they’re facing due to tariffs.
@@ -132,21 +129,22 @@ I support capping residential electric and gas utility bills at 2% of a househol
 We should mandate the Public Service Commission to create a program to provide relief and automatically enroll Wisconsinites .
 We should use data center fees to partially pay for the program.
 This legislation would incentivize utility companies to figure out ways to conserve energy, use renewable energy, and come up with programs to help people make older homes more energy efficient.
-- The government should never interfere with a woman’s right to choose when or how to start a family and should not have authority over a woman’s reproductive healthcare.
+Protecting a Woman's Right to Choose The government should never interfere with a woman’s right to choose when or how to start a family and should not have authority over a woman’s reproductive healthcare.
 I will work to ensure Wisconsin women always have the right to choose.
 I will also fight for the continued presence of Planned Parenthood offices throughout Wisconsin.
 There were many times in my life that I didn’t have access to health insurance, and I relied on the affordable and quality care provided by Planned Parenthood.
 Wisconsin women must continue to have access to these services in the future.
-- Wisconsin residents are struggling with drinking water quality due to widespread PFAS and nitrate contamination and lead leaching into the water from old pipes.
+Clean and Safe Drinking Water for Everyone in Wisconsin Wisconsin residents are struggling with drinking water quality due to widespread PFAS and nitrate contamination and lead leaching into the water from old pipes.
 We need to create legislation to clean up our drinking water and better monitor and prevent contamination so we can all stay healthy.
-- We must protect our beautiful Wisconsin wilderness and lakes and rivers.
+Protecting our Natural Resources We must protect our beautiful Wisconsin wilderness and lakes and rivers.
 Many of us choose to live in Wisconsin to enjoy the variety of outdoor activities our natural resources allow us such as fishing, hunting, and hiking.
 We also have many small businesses that rely on outdoor activities and tourism.
 Our economy and quality of life depend on us prioritizing a healthy environment.
-- Farmers are facing too many economic hardships right now dealing with increasing prices due to tariffs, high fuel and utility costs, and monopolies in industries like meat packing, seeds, and fertilizers.
+Supporting Farmers Farmers are facing too many economic hardships right now dealing with increasing prices due to tariffs, high fuel and utility costs, and monopolies in industries like meat packing, seeds, and fertilizers.
 We need to immediately get to work providing affordable healthcare and health insurance options for our farmers to help them in this difficult economy.
 I also support maintaining the use value assessment law to tax farmland based on its agricultural use and not the land’s market value.
 I also support renewing the ARIP or Agricultural Road Improvement Program to help maintain rural roads and continuing support for state grants and funding for producer-led watersheds, nitrogen management, and cover cropping programs to empower farmers to be independent and use their expertise and knowledge to help solve these problems.
 Our rural communities are like an ecosystem that depends on rural hospitals and schools, small businesses, family farms, and new families in order to thrive and be successful.
 Losing one part of the ecosystem negatively affects the entire community.
 We have been ignoring our rural communities for too long and it is time to start paying attention to them again.
+Contact Me Donate! sasha@ripleyforwisconsin.com Sasha Ripley for Wisconsin, PO Box 113, Montello, WI 53949 Paid for by Sasha Ripley for Wisconsin

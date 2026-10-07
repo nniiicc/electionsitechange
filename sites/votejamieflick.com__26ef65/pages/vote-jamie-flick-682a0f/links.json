@@ -1,15 +1,66 @@
 [
-"https://facebook.com/JamieFlick83rd",
-"https://facebook.com/squarespace",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://vote.pa.gov/Register-to-Vote/Pages/How-to-Update-Your-Registraton.aspx",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://votejamieflick.com/",
-"https://votejamieflick.com/about",
-"https://votejamieflick.com/cart",
-"https://votejamieflick.com/contact",
-"https://votejamieflick.com/team",
-"https://votejamieflick.com/vote-jamie-flick",
-"https://votejamieflick.com/work"
+{
+"text": "0",
+"href": "https://www.votejamieflick.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.votejamieflick.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votejamieflick.com/contact"
+},
+{
+"text": "Contact Campaign Team",
+"href": "https://www.votejamieflick.com/contact"
+},
+{
+"text": "Fa",
+"href": "https://www.facebook.com/squarespace"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.votejamieflick.com/"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request Mail-In Ballot",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Team",
+"href": "https://www.votejamieflick.com/team"
+},
+{
+"text": "Update Voter Registration",
+"href": "https://www.vote.pa.gov/Register-to-Vote/Pages/How-to-Update-Your-Registraton.aspx"
+},
+{
+"text": "Vote Jamie Flick",
+"href": "https://www.votejamieflick.com/"
+},
+{
+"text": "Vote Jamie Flick",
+"href": "https://www.votejamieflick.com/vote-jamie-flick"
+},
+{
+"text": "Work",
+"href": "https://www.votejamieflick.com/work"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieFlick83rd/"
+},
+{
+"text": "cebook",
+"href": "https://www.facebook.com/JamieFlick83rd/"
+}
 ]

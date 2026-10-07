@@ -1,18 +1,5 @@
-Newsletters
-Click the links below to view recent newsletters
-2026 newsletters
-2025 newsletters
-2024 Newsletters
-Keep Current!
-Get Sandy’s ‘Capitol Corner’ newsletter
-NEWSLETTERS
-Thank you for contacting us.
-We will get back to you as soon as possible
-We will get back to you as soon as possible
-Oops, there was an error sending your message.
-Please try again later
-Please try again later
-2025 - 91st Iowa General Assembly
-Paid for by 'Friends of Sandy Salmon'
-Website design by 1Vision
-Share by:
+Iowa Senator District #29 Contact Sandy DONATE HOME ABOUT EVENTS GALLERY ISSUES NEWSLETTERS ENDORSEMENTS VOTER INFORMATION GET INVOLVED DONATE CONTACT NEWSLETTERS Newsletters Click the links below to view recent newsletters 2026 newsletters October 3, 2026 July 4, 2026 May 29, 2026 May 22, 2026 May 16, 2026 May 11, 2026 May 4, 2026 April 27, 2026 April 18, 2026 April 11, 2026 April 4, 2026 March 28, 2026 March 21, 2026 March 14, 2026 March 7, 2026 February 28, 2026 February 21, 2026 February 14, 2026 February 7, 2026 February 2, 2026 January 26, 2026 January 19, 2026 2025 newsletters December 18, 2025 November 1, 2025 August 9, 2025 July 5, 2025 June 14, 2025 May 31, 2025 May 24, 2025 May 17, 2025 May 3,2025 April 26, 2025 April 19, 2025 April 12, 2025 April 5, 2025 March 29, 2025 March 22, 2025 March 15, 2025 March 8, 2025 March 1, 2025 February 22, 2025 February 15, 2025 February 8, 2025 February 1, 2025 January 25, 2025 January 18, 2025 ﻿ 2024 Newsletters December 21, 2024 November 16, 2024 October 19, 2024 September 21, 2024 August 24, 2024 July 27, 2024 June 29, 2024 May 18, 2024 May 11, 2024 May 4, 2024 April 27, 2024 April 20, 2024 April 13, 2024 April 6, 2024 March 30, 2024 March 23, 2024 March 16, 2024 March 9, 2024 March 2, 2024 February 24, 2024 February 17.
+2024 February 10, 2024 February 3, 2024 January 27, 2024 January 20, 2024 January 13, 2024 Keep Current!
+Get Sandy’s ‘Capitol Corner’ newsletter Get Sandy’s ‘Capital Corner’ newsletter Name: Email: Thank you for contacting us.
+We will get back to you as soon as possible Oops, there was an error sending your message.
+Please try again later Follow Us 2025 - 91st Iowa General Assembly Paid for by 'Friends of Sandy Salmon' Website design by 1Vision Follow Us Iowa Legislature Iowa Constitution State of Iowa Iowa Senate Republicans Share by:

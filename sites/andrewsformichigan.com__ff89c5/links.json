@@ -1,20 +1,74 @@
 [
-"https://andrewsformichigan.com/",
-"https://andrewsformichigan.com/contact",
-"https://andrewsformichigan.com/endorsements",
-"https://andrewsformichigan.com/priorities",
-"https://drive.google.com/drive/folders/18SYszpgnk6dM9TosntZ8mWMdbj8zUR-u?usp=sharing",
-"https://facebook.com/JoeyForMichigan",
-"https://instagram.com/joeyformichigan",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://mobilize.us/joeyandrewsformichigan",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=1050&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=500&express_lane=true",
-"https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?express_lane=true",
-"https://twitter.com/JoeyForMichigan"
+{
+"text": "CONTACT",
+"href": "https://andrewsformichigan.com/contact/"
+},
+{
+"text": "Campaign Photos",
+"href": "https://drive.google.com/drive/folders/18SYszpgnk6dM9TosntZ8mWMdbj8zUR-u?usp=sharing"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?express_lane=true"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://andrewsformichigan.com/endorsements/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mobilize.us/joeyandrewsformichigan/"
+},
+{
+"text": "Get Registered to Vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "PRIORITIES",
+"href": "https://andrewsformichigan.com/priorities/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "[image: Re-Elect Joey Andrews State Representative]",
+"href": "https://andrewsformichigan.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/JoeyForMichigan"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=100&express_lane=true"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=1050&express_lane=true"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=25&express_lane=true"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=250&express_lane=true"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/friends-of-joey-andrews-iv-1?amount=500&express_lane=true"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JoeyForMichigan"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joeyformichigan/"
+}
 ]

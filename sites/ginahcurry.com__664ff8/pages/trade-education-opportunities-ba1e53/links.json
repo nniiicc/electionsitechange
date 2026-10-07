@@ -1,13 +1,46 @@
 [
-"https://ginahcurry.com/",
-"https://ginahcurry.com/about-5",
-"https://ginahcurry.com/affordable-secure-housing",
-"https://ginahcurry.com/basic-01",
-"https://ginahcurry.com/contact-8",
-"https://ginahcurry.com/economic-development",
-"https://ginahcurry.com/general-7",
-"https://ginahcurry.com/public-education-opportunities",
-"https://ginahcurry.com/special-election-2021",
-"https://ginahcurry.com/team-1",
-"https://ginahcurry.com/trade-education-opportunities"
+{
+"text": "Affordable & Secure Housing",
+"href": "https://www.ginahcurry.com/affordable-secure-housing"
+},
+{
+"text": "Economic Development",
+"href": "https://www.ginahcurry.com/economic-development"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ginahcurry.com/contact-8"
+},
+{
+"text": "Home",
+"href": "https://www.ginahcurry.com"
+},
+{
+"text": "Meet Gina",
+"href": "https://www.ginahcurry.com/about-5"
+},
+{
+"text": "Platform & Legislation",
+"href": "https://www.ginahcurry.com/general-7"
+},
+{
+"text": "Public Education Opportunities",
+"href": "https://www.ginahcurry.com/public-education-opportunities"
+},
+{
+"text": "Resources & Voting",
+"href": "https://www.ginahcurry.com/team-1"
+},
+{
+"text": "Special Election 2021",
+"href": "https://www.ginahcurry.com/special-election-2021"
+},
+{
+"text": "State Representative Curry",
+"href": "https://www.ginahcurry.com/basic-01"
+},
+{
+"text": "Trade Education Opportunities",
+"href": "https://www.ginahcurry.com/trade-education-opportunities"
+}
 ]

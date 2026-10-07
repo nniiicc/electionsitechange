@@ -1,41 +1,21 @@
-"Florida needs serious leadership, not partisan showmanship.
-My intent is to revive common sense, reintroduce stability and reduce costs for the middle class."
-- Wayne Richter
-Wayne Richter is committed to restoring calm and common sense to our political system by pursuing what’s right rather than what’s routine.
+top of page DONATE VOLUNTEER EVENTS First Name * Last name * Email * Mobile Number * Yes, subscribe me to newsletter and SMS updates.
+STAY INFORMED "Florida needs serious leadership, not partisan showmanship.
+My intent is to revive common sense, reintroduce stability and reduce costs for the middle class." - Wayne Richter Wayne Richter is committed to restoring calm and common sense to our political system by pursuing what’s right rather than what’s routine.
 In Florida's House of Representatives, he’ll advocate for rational policies focused on improving our quality of life and lowering our cost of living.
-Wayne will provide the Treasure Coast with intellectually independent representation, not partisan posturing.
-PRIORITIES FOR DISTRICT 85
-LOWER INSURANCE COSTS
-Property insurance and health care premiums and rising costs are putting pressure on Florida families.
-SMART GROWTH
-Growth should strengthen our communities while preserving infrastructure and quality of life.
-SAFE COMMUNITIES
-Support first responders and practical public safety solutions.
-GOVERNMENT ACCOUNTABILITY
-Focus on transparency, fiscal responsibility, and results.
-PROTECT CLEAN WATER
-Protect the St.
+Wayne will provide the Treasure Coast with intellectually independent representation, not partisan posturing. ​ PRIORITIES FOR DISTRICT 85 LOWER INSURANCE COSTS Property insurance and health care premiums and rising costs are putting pressure on Florida families.
+SMART GROWTH Growth should strengthen our communities while preserving infrastructure and quality of life. ​SAFE COMMUNITIES Support first responders and practical public safety solutions.
+GOVERNMENT ACCOUNTABILITY Focus on transparency, fiscal responsibility, and results. ​PROTECT CLEAN WATER Protect the St.
 Lucie River, Indian River Lagoon, and local water resources.
-STRONG PUBLIC SCHOOLS
-Support students, parents, and teachers with the resources they need.
-MY VALUES
-Wayne Richter's values are rooted in faith, family, service, and a deep respect for the rule of law.
-The son of a Methodist minister and a hardworking mother who spent her career with the Florida Turnpike Administration, Wayne was raised to treat others with dignity, take responsibility for his actions, and give back to his community.
-Those lessons have guided him throughout his life as an attorney, husband, father, and active member of the Treasure Coast community.
-For more than two decades, Wayne has helped people solve problems, navigate challenges, and find common ground.
+STRONG PUBLIC SCHOOLS Support students, parents, and teachers with the resources they need.
+Together, we can build a better future for our community VOLUNTEER DONATE ​ MY VALUES Wayne Richter's values are rooted in faith, family, service, and a deep respect for the rule of law. ​ The son of a Methodist minister and a hardworking mother who spent her career with the Florida Turnpike Administration, Wayne was raised to treat others with dignity, take responsibility for his actions, and give back to his community.
+Those lessons have guided him throughout his life as an attorney, husband, father, and active member of the Treasure Coast community. ​ For more than two decades, Wayne has helped people solve problems, navigate challenges, and find common ground.
 His legal career has strengthened his belief that government works best when it protects individual freedoms, respects the Constitution, and serves the public good.
 As a lawmaker, Wayne will bring a practical, thoughtful approach to public service.
 He believes leaders should listen carefully, respect differing viewpoints, and focus on solving problems rather than fueling political division.
-He will work with anyone, Democrat, Republican, or Independent, when it means delivering results for local families.
-Wayne's priorities are straightforward: lowering the cost of housing, groceries, energy, and property insurance; strengthening public schools and workforce training; expanding access to affordable healthcare; supporting local businesses; protecting our waterways and environment; managing growth responsibly; and keeping our communities safe.
-The Florida Legislature meets for only 60 days each year, but the challenges facing the Treasure Coast never stop.
+He will work with anyone, Democrat, Republican, or Independent, when it means delivering results for local families. ​​ Wayne's priorities are straightforward: lowering the cost of housing, groceries, energy, and property insurance; strengthening public schools and workforce training; expanding access to affordable healthcare; supporting local businesses; protecting our waterways and environment; managing growth responsibly; and keeping our communities safe. ​ The Florida Legislature meets for only 60 days each year, but the challenges facing the Treasure Coast never stop.
 Wayne is ready to be a steady, effective voice in Tallahassee who will put people ahead of politics and work every day to strengthen the communities he calls home.
-MEET WAYNE
-Wayne Richter and his wife, Katie, live and work in Palm City, where they have built both a family and a successful law practice.
-Together, they are raising three children, Claire, Kara, and John.
-When he is not practicing law or meeting with constituents, Wayne enjoys spending time with his family on the Indian River Lagoon.
-Wayne is an avid Miami Dolphins fan.
-A respected attorney and community leader, Wayne currently serves as the Vice President of the Florida Association of Criminal Defense Lawyers and has previously served as President of the Martin County Bar Association and the North County Section of the Palm Beach County Bar Association.
-Wayne earned his degree in Political Science from Florida Southern College and his law degree from South Texas College of Law.
-The Richter family are active members of First United Methodist Church of Stuart.
-As a husband, father, attorney, and community advocate, Wayne understands the opportunities and challenges facing Treasure Coast families and is committed to serving the community he proudly calls home.
+MEET WAYNE Wayne Richter and his wife, Katie, live and work in Palm City, where they have built both a family and a successful law practice.
+Together, they are raising three children, Claire, Kara, and John. ​ When he is not practicing law or meeting with constituents, Wayne enjoys spending time with his family on the Indian River Lagoon.
+Wayne is an avid Miami Dolphins fan. ​ A respected attorney and community leader, Wayne currently serves as the Vice President of the Florida Association of Criminal Defense Lawyers and has previously served as President of the Martin County Bar Association and the North County Section of the Palm Beach County Bar Association. ​ ​ Wayne earned his degree in Political Science from Florida Southern College and his law degree from South Texas College of Law.
+The Richter family are active members of First United Methodist Church of Stuart. ​ As a husband, father, attorney, and community advocate, Wayne understands the opportunities and challenges facing Treasure Coast families and is committed to serving the community he proudly calls home.
+REGISTER TO VOTE SIGN UP TO VOTE BY MAIL PRIVACY POLICY Paid for and approved by Wayne Richter for Florida, Democrat, for State House District 85 bottom of page

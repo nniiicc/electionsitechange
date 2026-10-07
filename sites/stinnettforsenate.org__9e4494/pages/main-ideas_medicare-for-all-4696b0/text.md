@@ -1,9 +1,7 @@
-Medicare for all
-Health care costs too much.
+0 Skip to Content Stinnett For Senate Home About Main Ideas Open Menu Close Menu Stinnett For Senate Home About Main Ideas Open Menu Close Menu Home About Main Ideas Medicare for all Jul 28 Written By Curtis Stinnett Health care costs too much.
 You know it and I really know it.
 As a pharmacist for the past 15 years I have watched helpless as ability to pay has been the top indicator of outcomes for my patients.
-I have also watched as incremental changes to policy such as the Affordable Care Act, and now the Inflation Reduction Act have brought real relief to my patients
-In case you are unaware, the Inflation Reduction Act (IRA) reduced the maximum out of pocket for Part D to $2000 in 2025 and $2100 in 2026.
+I have also watched as incremental changes to policy such as the Affordable Care Act, and now the Inflation Reduction Act have brought real relief to my patients In case you are unaware, the Inflation Reduction Act (IRA) reduced the maximum out of pocket for Part D to $2000 in 2025 and $2100 in 2026.
 Along with that it established the Medicare Prescription Payment Plan, allowing enrollees to budget that expense equally throughout the year.
 This change has saved lives, reduced hospitalizations, and improved the quality of life of members.
 Also no one has more choice in what plans and doctors are available to them than a Medicare enrollee.
@@ -16,3 +14,5 @@ No more Medicaid, TriCare, VA etc.
 All rolled into Medicare.
 Healthcare should not be a for profit sector.
 My votes in the Senate would be in the service of moving us toward that future.
+Curtis Stinnett Previous Previous Living Wage Next Next REPARATIONS Stinnett For Senate Stinnett4senate@gmail.com Paid for by the Candidate.
+Made with Squarespace

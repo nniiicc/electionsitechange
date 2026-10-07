@@ -1,7 +1,9 @@
 {
  "description": "Katrina4KY is the campaign website for Katrina Sexton, a candidate running for election to the KY House District 55 seat in the state legislative house chamber. Provides a detailed message of the candidate, key issues, and more.",
  "final_url": "https://www.katrina4ky.com/home",
- "paid_for_by": null,
+ "fingerprint": "31114c5fa273a12e15c9b2563e4dce7ddeff7aa4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Katrina4KY | Katrina Sexton",
  "years_mentioned": [
   "2026"

@@ -1,41 +1,162 @@
 [
-"http://ronpaulinstitute.org/",
-"http://sacobaycitizens.org/",
-"https://aier.org/pertinent_category/sound-money-project",
-"https://famethemes.com/themes/onepress",
-"https://fee.org/",
-"https://gop.com/",
-"https://gop.gov/",
-"https://gunownersofmaine.org/",
-"https://mainecivicaction.org/",
-"https://mainegop.com/",
-"https://mainepolicy.org/",
-"https://mainerighttolife.org/",
-"https://mainetaxpayersunited.com/",
-"https://mehousegop.org/",
-"https://mesenategop.com/",
-"https://mises.org/",
-"https://republicanleader.senate.gov/senate-resources/republican-senators",
-"https://rga.org/",
-"https://soundmoneydefense.org/",
-"https://themainewire.com/",
-"https://wayneparry.com/",
-"https://wayneparry.com/a-beautiful-day-on-the-coast-of-maine",
-"https://wayneparry.com/about-wayne",
-"https://wayneparry.com/black-jack",
-"https://wayneparry.com/campaign-finance",
-"https://wayneparry.com/common-sense-left-augusta",
-"https://wayneparry.com/janet-mills-has-a-tax-for-everyone",
-"https://wayneparry.com/photo-gallery",
-"https://wayneparry.com/susan-collins-video",
-"https://wayneparry.com/waynes-corner",
-"https://wayneparry.com/wp-content/uploads/2022/08/Articles_of_Confederation.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/Back_to_Basics.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/Declaration_of_Independence.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/Enumerated_Powers_Duties.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/Maine-Constitution.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/US_Constitution.pdf",
-"https://wayneparry.com/wp-content/uploads/2022/08/Understanding_Economic_Principles.pdf",
-"https://wayneparry.com/wp-content/uploads/2023/04/Billions_For_The_Bankers.pdf",
-"https://wayneparry.com/wp-content/uploads/2023/04/Gold_and_Economic_Freedom.pdf"
+{
+"text": "A Beautiful Day on The Coast of Maine!",
+"href": "https://www.wayneparry.com/a-beautiful-day-on-the-coast-of-maine/"
+},
+{
+"text": "AIER Sound Money Project",
+"href": "https://www.aier.org/pertinent_category/sound-money-project"
+},
+{
+"text": "Aboard Black Jack",
+"href": "https://www.wayneparry.com/black-jack/"
+},
+{
+"text": "About Wayne",
+"href": "https://www.wayneparry.com/about-wayne/"
+},
+{
+"text": "Back to Basics",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Back_to_Basics.pdf"
+},
+{
+"text": "Billions for the Bankers",
+"href": "https://www.wayneparry.com/wp-content/uploads/2023/04/Billions_For_The_Bankers.pdf"
+},
+{
+"text": "Common Sense Left Augusta!",
+"href": "https://www.wayneparry.com/common-sense-left-augusta/"
+},
+{
+"text": "Contribute",
+"href": "https://www.wayneparry.com/campaign-finance/"
+},
+{
+"text": "Foundation for Economic Education",
+"href": "https://fee.org"
+},
+{
+"text": "Gold and Economic Freedom",
+"href": "https://www.wayneparry.com/wp-content/uploads/2023/04/Gold_and_Economic_Freedom.pdf"
+},
+{
+"text": "Gun Owners of Maine",
+"href": "https://gunownersofmaine.org"
+},
+{
+"text": "Home",
+"href": "https://www.wayneparry.com/"
+},
+{
+"text": "Janet Mills Has A Tax For Everyone!",
+"href": "https://www.wayneparry.com/janet-mills-has-a-tax-for-everyone/"
+},
+{
+"text": "Maine Civic Action",
+"href": "https://www.mainecivicaction.org/"
+},
+{
+"text": "Maine House Republicans",
+"href": "https://mehousegop.org"
+},
+{
+"text": "Maine Republican Party",
+"href": "https://mainegop.com"
+},
+{
+"text": "Maine Right to Life",
+"href": "https://mainerighttolife.org/"
+},
+{
+"text": "Maine Senate Republicans",
+"href": "https://mesenategop.com"
+},
+{
+"text": "Maine Taxpayers United",
+"href": "https://mainetaxpayersunited.com/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.wayneparry.com/photo-gallery/"
+},
+{
+"text": "Republican Governors Association",
+"href": "https://www.rga.org"
+},
+{
+"text": "Republican National Committee",
+"href": "https://gop.com"
+},
+{
+"text": "Ron Paul Institute",
+"href": "http://ronpaulinstitute.org"
+},
+{
+"text": "Saco Bay Citizens for Sound Money",
+"href": "http://www.sacobaycitizens.org"
+},
+{
+"text": "Sound Money Defense League",
+"href": "https://www.soundmoneydefense.org"
+},
+{
+"text": "Susan Collins Videos",
+"href": "https://www.wayneparry.com/susan-collins-video/"
+},
+{
+"text": "The Articles of Confederation",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Articles_of_Confederation.pdf"
+},
+{
+"text": "The Declaration of Independence",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Declaration_of_Independence.pdf"
+},
+{
+"text": "The Enumerated Powers and Duties",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Enumerated_Powers_Duties.pdf"
+},
+{
+"text": "The Ludwig von Mises Institute",
+"href": "https://mises.org"
+},
+{
+"text": "The Maine Constitution",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Maine-Constitution.pdf"
+},
+{
+"text": "The Maine Policy Institute",
+"href": "https://mainepolicy.org"
+},
+{
+"text": "The Maine Wire",
+"href": "https://www.themainewire.com"
+},
+{
+"text": "The U.S. Constitution",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/US_Constitution.pdf"
+},
+{
+"text": "U.S. House Republicans",
+"href": "https://www.gop.gov"
+},
+{
+"text": "U.S. Senate Republicans",
+"href": "https://www.republicanleader.senate.gov/senate-resources/republican-senators"
+},
+{
+"text": "Understanding Economic Principles",
+"href": "https://www.wayneparry.com/wp-content/uploads/2022/08/Understanding_Economic_Principles.pdf"
+},
+{
+"text": "Wayne Parry for State Representative",
+"href": "https://www.wayneparry.com/"
+},
+{
+"text": "Wayne’s Corner",
+"href": "https://www.wayneparry.com/waynes-corner/"
+}
 ]

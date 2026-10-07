@@ -1,16 +1,19 @@
 {
  "description": "News &amp; Updates",
  "final_url": "https://donnamercadokim.com/news",
- "paid_for_by": "Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner",
+ "fingerprint": "a76cfc015c4ed6a2e5b1d81f0158b1d5b728bd20",
+ "format": 3,
+ "paid_for_by": "sponsored by the United States Department of Agriculture, and will provide lunch to Summer Fun participants 18 years and younger",
  "title": "News",
  "years_mentioned": [
-  "2010",
+  "2000",
   "2016",
   "2017",
   "2020",
   "2021",
   "2022",
   "2023",
-  "2024"
+  "2024",
+  "2025"
  ]
 }

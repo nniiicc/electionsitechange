@@ -1,14 +1,58 @@
 [
-"https://arnoldmooney.com/",
-"https://arnoldmooney.com/cdn-cgi/l/email-protection",
-"https://arnoldmooney.com/issues",
-"https://arnoldmooney.com/media",
-"https://arnoldmooney.com/new-page-1",
-"https://arnoldmooney.com/privacy-policy",
-"https://arnoldmooney.com/search",
-"https://arnoldmooney.com/volunteer",
-"https://dropbox.com/sh/t1b4ycd19wevd0l/AAAJjhTczZh6NSpCIaBEikxqa?dl=0",
-"https://facebook.com/ArnoldMooneyForAlabama",
-"https://secure.anedot.com/arnoldmooney/donate",
-"https://twitter.com/ArnoldforAL"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/arnoldmooney/donate"
+},
+{
+"text": "Home",
+"href": "https://www.arnoldmooney.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.arnoldmooney.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.arnoldmooney.com/media"
+},
+{
+"text": "More Photos",
+"href": "https://www.dropbox.com/sh/t1b4ycd19wevd0l/AAAJjhTczZh6NSpCIaBEikxqa?dl=0"
+},
+{
+"text": "New Page",
+"href": "https://www.arnoldmooney.com/new-page-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://arnoldmooney.com/privacy-policy"
+},
+{
+"text": "Sign Up Now",
+"href": "https://www.arnoldmooney.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.arnoldmooney.com/volunteer"
+},
+{
+"text": "[email protected]",
+"href": "mailto:email@arnoldmooney.com"
+},
+{
+"text": "[image: Arnold Mooney for U.S. Senate]",
+"href": "https://www.arnoldmooney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ArnoldforAL"
+},
+{
+"text": "[no text]",
+"href": "https://www.arnoldmooney.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ArnoldMooneyForAlabama"
+}
 ]

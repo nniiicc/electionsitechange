@@ -1,5 +1,30 @@
 [
-"https://google.com/url?q=https%3A%2F%2Fsecure.anedot.com%2Fmelissa-nikolakakos-for-legislature%2Fdonate&sa=D&sntz=1&usg=AOvVaw2DKzKaBqJxtEV4KJylGR8F",
-"https://melissaforus.com/contact",
-"https://melissaforus.com/home"
+{
+"text": "Contact",
+"href": "https://www.melissaforus.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.anedot.com%2Fmelissa-nikolakakos-for-legislature%2Fdonate&sa=D&sntz=1&usg=AOvVaw2DKzKaBqJxtEV4KJylGR8F"
+},
+{
+"text": "Email",
+"href": "mailto:me.nikolakakos@yahoo.com"
+},
+{
+"text": "Home",
+"href": "https://www.melissaforus.com/home"
+},
+{
+"text": "Melissa Nikolakakos for Legislature",
+"href": "https://www.melissaforus.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.melissaforus.com/home"
+},
+{
+"text": "[image]Melissa Nikolakakos for Legislature",
+"href": "https://www.melissaforus.com/home"
+}
 ]

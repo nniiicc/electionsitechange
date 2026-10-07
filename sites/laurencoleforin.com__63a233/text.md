@@ -1,27 +1,13 @@
-MEET LAUREN
-NEIGHBOR • SCIENTIST• ADVOCATE • CANDIDATE FOR INDIANA HOUSE DISTRICT 37 • YOUR VOICE AT THE STATEHOUSE
-Lauren Cole is a scientist, community advocate, and Hoosier running for Indiana House District 37 because she believes everyday people deserve leadership that understands the challenges families are facing.
-Working in cancer clinical trials and healthcare has shown Lauren how difficult it can be for people to navigate rising healthcare costs and systems that often feel out of reach.
-She believes government should work for the people it serves — not just those with power or influence.
-Raised on values of kindness, hard work, and standing up for others, Lauren believes real change starts when communities come together and show up for one another.
-This campaign is rooted in one belief:
-The future is ours to shape, so let’s build it together.
-WHAT WE CAN BUILD TOGETHER IN DISTRICT 37
-Affordable Healthcare That Listens
-Living with a chronic illness has shown Lauren firsthand how overwhelming and expensive healthcare can be.
+top of page Home ABOUT PLATFORM GET INVOLVED BLOG DONATE DONATE NOW MEET LAUREN NEIGHBOR • SCIENTIST• ADVOCATE • CANDIDATE FOR INDIANA HOUSE DISTRICT 37 • YOUR VOICE AT THE STATEHOUSE Lauren Cole is a scientist, community advocate, and Hoosier running for Indiana House District 37 because she believes everyday people deserve leadership that understands the challenges families are facing. ​ Working in cancer clinical trials and healthcare has shown Lauren how difficult it can be for people to navigate rising healthcare costs and systems that often feel out of reach.
+She believes government should work for the people it serves — not just those with power or influence. ​ Raised on values of kindness, hard work, and standing up for others, Lauren believes real change starts when communities come together and show up for one another. ​ This campaign is rooted in one belief: The future is ours to shape, so let’s build it together.
+WHAT WE CAN BUILD TOGETHER IN DISTRICT 37 Affordable Healthcare That Listens Living with a chronic illness has shown Lauren firsthand how overwhelming and expensive healthcare can be.
 She believes everyone deserves access to affordable, reliable care that puts people first — not profits or politics.
 Lauren will fight to protect Medicaid access, support affordable coverage options, and advocate for healthcare systems that are accessible and patient-focused.
-Strong Public Schools
-Public schools are the heart of our communities, but too many teachers and students are being asked to do more with less.
-Lauren believes every child deserves a quality education, regardless of their zip code.
-She will work to strengthen public school funding, support and retain teachers, and keep decision-making focused on students, families, and local communities.
-Strong Businesses, Strong Workforce
-When businesses succeed, communities succeed — but hardworking Hoosiers deserve to share in that success too.
-Lauren supports policies that help businesses grow while also investing in workers, creating stronger workplaces, stable families, and healthier local economies across Indiana.
+Strong Public Schools Public schools are the heart of our communities, but too many teachers and students are being asked to do more with less.
+Lauren believes every child deserves a quality education, regardless of their zip code. ​ She will work to strengthen public school funding, support and retain teachers, and keep decision-making focused on students, families, and local communities.
+Strong Businesses, Strong Workforce When businesses succeed, communities succeed — but hardworking Hoosiers deserve to share in that success too. ​ Lauren supports policies that help businesses grow while also investing in workers, creating stronger workplaces, stable families, and healthier local economies across Indiana.
 ARE YOU IN DISTRICT 37?
-If you live in the shaded area of the map, you're part of the community Lauren is running to represent in the Indiana Statehouse.
-This campaign is powered by neighbors showing up for neighbors.
+If you live in the shaded area of the map, you're part of the community Lauren is running to represent in the Indiana Statehouse. ​ This campaign is powered by neighbors showing up for neighbors.
 Whether you’re in the district or cheering us on from nearby, we’d love to have you involved in the campaign.
-LET'S BUILD IT TOGETHER
-The Future is ours to shape,
-so let's build it together
+SIGN UP TO VOLUNTEER HERE LET'S BUILD IT TOGETHER Join our grassroots campaign for updates, volunteer opportunities, events, and ways to make a difference in District 37.
+Email address * Yes, I agree to receive marketing emails. * SUBSCRIBE The Future is ours to shape, so let's build it together BUILDING A BETTER FUTURE TOGETHER Paid for and authorized by the Committee to Elect Lauren Cole bottom of page

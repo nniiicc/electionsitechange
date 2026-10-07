@@ -1,11 +1,74 @@
 [
-"https://boutinforbarre.com/",
-"https://boutinforbarre.com/about",
-"https://boutinforbarre.com/boutin-beat",
-"https://boutinforbarre.com/contact-me",
-"https://boutinforbarre.com/donate",
-"https://boutinforbarre.com/issues",
-"https://boutinforbarre.com/voting-record",
-"https://facebook.com/boutinforbarre",
-"https://legislature.vermont.gov/people/single/2026/40432"
+{
+"text": "About",
+"href": "https://boutinforbarre.com/about"
+},
+{
+"text": "Boutin Beat",
+"href": "https://boutinforbarre.com/boutin-beat"
+},
+{
+"text": "Click Here For Voting Record Page",
+"href": "https://legislature.vermont.gov/people/single/2026/40432"
+},
+{
+"text": "Contact",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Contact Me",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://boutinforbarre.com/donate"
+},
+{
+"text": "Education",
+"href": "https://boutinforbarre.com/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://boutinforbarre.com/issues#environment"
+},
+{
+"text": "Government Transparency and Operations",
+"href": "https://boutinforbarre.com/issues#government-transparency-and-operations"
+},
+{
+"text": "Healthcare",
+"href": "https://boutinforbarre.com/issues#healthcare"
+},
+{
+"text": "Home",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "Issues",
+"href": "https://boutinforbarre.com/issues"
+},
+{
+"text": "Public Safety",
+"href": "https://boutinforbarre.com/issues#public-safety"
+},
+{
+"text": "Vermont Traditions",
+"href": "https://boutinforbarre.com/issues#vermont-traditions"
+},
+{
+"text": "Veterans",
+"href": "https://boutinforbarre.com/issues#veterans"
+},
+{
+"text": "Voting Record",
+"href": "https://boutinforbarre.com/voting-record"
+},
+{
+"text": "[no text]",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/boutinforbarre"
+}
 ]

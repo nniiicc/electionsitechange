@@ -1,33 +1,134 @@
 [
-"http://repheatherscott.com/feed",
-"http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/06/memorial_day.jpg",
-"http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/06/sinedie.jpg",
-"http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/07/grocery_tax_repeal.jpg",
-"https://facebook.com/RepHeatherScott",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/2017_Key_Actions.pdf",
-"https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/sinedie.pdf",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/author/repheatherscott",
-"https://repheatherscott.com/brief-update-important-legislative-activities",
-"https://repheatherscott.com/category/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/happy-independence-day",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/merry-christmas-happy-new-year",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/summer-activities-idaho-freedom-caucus",
-"https://repheatherscott.com/tag/grocery-tax",
-"https://repheatherscott.com/tag/memorial-day",
-"https://repheatherscott.com/update-040817",
-"https://twitter.com/HeatherScottID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archive",
+"href": "https://repheatherscott.com/category/archive/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Click here",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/2017_Key_Actions.pdf"
+},
+{
+"text": "Click here",
+"href": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2017/sinedie.pdf"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "Grocery Tax",
+"href": "https://repheatherscott.com/tag/grocery-tax/"
+},
+{
+"text": "Happy Independence Day!",
+"href": "https://repheatherscott.com/happy-independence-day/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "June 6, 2017August 28, 2026",
+"href": "https://repheatherscott.com/brief-update-important-legislative-activities/"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "Memorial Day",
+"href": "https://repheatherscott.com/tag/memorial-day/"
+},
+{
+"text": "Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "Next Next post: Merry Christmas! Happy New Year!",
+"href": "https://repheatherscott.com/merry-christmas-happy-new-year/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "Previous Previous post: The End of the 2017 House Session",
+"href": "https://repheatherscott.com/update-040817/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/author/repheatherscott/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "Summer Activities – Idaho Freedom Caucus",
+"href": "https://repheatherscott.com/summer-activities-idaho-freedom-caucus/"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+},
+{
+"text": "[image]",
+"href": "http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/06/memorial_day.jpg"
+},
+{
+"text": "[image]",
+"href": "http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/06/sinedie.jpg"
+},
+{
+"text": "[image]",
+"href": "http://repheatherscott.designbyparrish.com/wp-content/uploads/2017/07/grocery_tax_repeal.jpg"
+}
 ]

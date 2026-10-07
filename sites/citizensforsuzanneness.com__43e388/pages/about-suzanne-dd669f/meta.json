@@ -1,10 +1,13 @@
 {
  "description": "Suzanne Ness was elected to the 102nd General Assembly for the State of Illinois as a State Representative for the 66th district.",
  "final_url": "https://citizensforsuzanneness.com/about-suzanne/",
- "paid_for_by": null,
+ "fingerprint": "312696736a675ab123f99e076ea8c02b38cf414b",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Suzanne Ness",
  "years_mentioned": [
   "2018",
-  "2020"
+  "2020",
+  "2025"
  ]
 }

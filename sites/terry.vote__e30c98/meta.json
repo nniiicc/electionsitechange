@@ -1,7 +1,12 @@
 {
  "description": "Randall Terry for Congress campaign website",
  "final_url": "https://terry.vote/",
+ "fingerprint": "0cdb9f27c7537042b5fb0877df81c87bb1570cb4",
+ "format": 3,
  "paid_for_by": "Paid for by Randall Terry for Congress",
  "title": "Randall Terry for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1955",
+  "2024"
+ ]
 }

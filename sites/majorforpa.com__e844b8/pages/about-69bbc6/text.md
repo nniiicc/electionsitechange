@@ -1,6 +1,5 @@
-MEET ABBY MAJOR
-A LIFE DEDICATED TO SERVICE
-Abby Major is running for State Representative in the Special Election to succeed longtime State Representative Jeff Pyle who recently retired.
+top of page Home About Vote Get Involved Donate Contact More Use tab to navigate through the menu items.
+MEET ABBY MAJOR A LIFE DEDICATED TO SERVICE Abby Major is running for State Representative in the Special Election to succeed longtime State Representative Jeff Pyle who recently retired.
 The election is being held on the May 18th Primary Election Day.
 The district includes portions of Armstrong, Butler, and Indiana counties.
 As a mother who was born and raised here, a veteran who served in Iraq and Chief of Staff to Jeff Pyle, Abby is running to guarantee rural residents continue to have a strong voice in the State House by ensuring our election process is fair for all voters, enabling working families and seniors to keep more of their money and standing up for our conservative values in Harrisburg and here at home.
@@ -18,3 +17,6 @@ During some of these years, Abby worked a second job at Curran Shaffer Funeral H
 She could not have done it without her family’s support, and she is grateful for them and all their help.
 Growing up in Manor Township and now living in Ford City, Abby knows this district is full of working class, conservative women and men who care about issues the need to protect our Constitutional rights and our 2nd Amendment rights, defending our pro-life values and preserving our individual liberties.
 Serving the residents of Armstrong, Butler and Indiana counties and supporting their priorities will always be Abby’s focus in the State House.
+FOCUSED ON OUR PRIORITIES Cut wasteful spending and oppose higher taxes Help create jobs to enable our families to succeed Defend our 2ND Amendment and conservative values Reform Harrisburg and ensure elections are fair for all GET INVOLVED TODAY Support Abby Major...
+A Strong Voice For Rural Families DONATE VOLUNTEER ABBY MAJOR - FOR STATE REPRESENTATIVE - PAID FOR BY MAJOR FOR PA Home About Vote Get Involved Donate Contact P.O.
+Box 449 Ford City, PA 16226 Info@MajorForPA.com 724-472-8328 © # by Major For PA bottom of page

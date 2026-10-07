@@ -1,4 +1,18 @@
 [
-"https://colinsavageforwv.com/about",
-"https://colinsavageforwv.com/home"
+{
+"text": "About",
+"href": "https://www.colinsavageforwv.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.colinsavageforwv.com/home"
+},
+{
+"text": "colinsavageforwv.com",
+"href": "https://www.colinsavageforwv.com/home"
+},
+{
+"text": "colinsavageforwv@gmail.com",
+"href": "mailto:colinsavageforwv@gmail.com"
+}
 ]

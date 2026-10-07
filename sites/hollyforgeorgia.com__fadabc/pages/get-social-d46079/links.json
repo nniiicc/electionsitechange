@@ -1,12 +1,70 @@
 [
-"http://wix.com/templateslp/links",
-"https://clubhouse.com/",
-"https://hollyforgeorgia.com/",
-"https://hollyforgeorgia.com/about",
-"https://hollyforgeorgia.com/contact",
-"https://hollyforgeorgia.com/get-social",
-"https://hollyforgeorgia.com/news",
-"https://hollyforgeorgia.com/stand-on-principle",
-"https://on.soundcloud.com/HfYSJzCGst6r4uXv9",
-"https://secure.actblue.com/donate/el116"
+{
+"text": "About",
+"href": "https://www.hollyforgeorgia.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.hollyforgeorgia.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/el116"
+},
+{
+"text": "EL-MAHDI HOLLY",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Get Social",
+"href": "https://www.hollyforgeorgia.com/get-social"
+},
+{
+"text": "Home",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "Stand On Principle",
+"href": "https://www.hollyforgeorgia.com/stand-on-principle"
+},
+{
+"text": "Stay Active",
+"href": "https://www.hollyforgeorgia.com/news"
+},
+{
+"text": "[image: District Vibes be like - Volume 1.jpeg]",
+"href": "https://on.soundcloud.com/HfYSJzCGst6r4uXv9"
+},
+{
+"text": "[image: Download on the App Store]",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "[image: Get it on Google Play]",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "[image: IMG_0329.jpeg]",
+"href": "https://www.clubhouse.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com/#comp-lo3pwr6m"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com/#comp-lo3pwr6t1"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com/#comp-lo3pwr70"
+},
+{
+"text": "[no text]",
+"href": "https://www.hollyforgeorgia.com/#comp-lqo62mup"
+}
 ]

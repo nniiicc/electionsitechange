@@ -1,15 +1,74 @@
 [
-"https://facebook.com/votebowes",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=10",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=100",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=25",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=50",
-"https://votebowes.com/",
-"https://votebowes.com/about",
-"https://votebowes.com/contact",
-"https://votebowes.com/election-information",
-"https://votebowes.com/endorsements",
-"https://votebowes.com/privacy-policy",
-"https://x.com/votebowes"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://votebowes.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate"
+},
+{
+"text": "Click Here for important election dates & information",
+"href": "https://votebowes.com/election-information/"
+},
+{
+"text": "Contact/Join THE TEAM",
+"href": "https://votebowes.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://votebowes.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votebowes.com/"
+},
+{
+"text": "Issues",
+"href": "https://votebowes.com/#issues"
+},
+{
+"text": "Learn More About Bill",
+"href": "https://votebowes.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate"
+},
+{
+"text": "[image]",
+"href": "https://votebowes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votebowes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votebowes"
+},
+{
+"text": "privacy policy",
+"href": "https://votebowes.com/privacy-policy/"
+}
 ]

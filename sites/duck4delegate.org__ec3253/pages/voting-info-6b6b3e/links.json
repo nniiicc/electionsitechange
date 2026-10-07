@@ -1,22 +1,90 @@
 [
-"https://duck4delegate.org/",
-"https://duck4delegate.org/accessibility-statement",
-"https://duck4delegate.org/endorsements",
-"https://duck4delegate.org/events",
-"https://duck4delegate.org/issues",
-"https://duck4delegate.org/meet-candidate",
-"https://duck4delegate.org/news",
-"https://duck4delegate.org/terms-of-service",
-"https://duck4delegate.org/volunteer",
-"https://duck4delegate.org/voting-info",
-"https://elections.maryland.gov/about/county_boards.html",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Amharic.pdf",
-"https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-English.pdf",
-"https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Spanish.pdf",
-"https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Vietnamese.pdf",
-"https://heyvictor.com/",
-"https://secure.actblue.com/donate/andrew-duck-4",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/onlinemailinrequest"
+{
+"text": "Accessibility Statement",
+"href": "https://duck4delegate.org/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-duck-4?amount="
+},
+{
+"text": "Endorsements",
+"href": "https://duck4delegate.org/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://duck4delegate.org/events/"
+},
+{
+"text": "Go Online if you have a Maryland’s driver’s license or MVA-issued ID card",
+"href": "https://voterservices.elections.maryland.gov/onlinemailinrequest"
+},
+{
+"text": "Home",
+"href": "https://duck4delegate.org/"
+},
+{
+"text": "Issues",
+"href": "https://duck4delegate.org/issues/"
+},
+{
+"text": "Mail-in Ballot Application (PDF)",
+"href": "https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-English.pdf"
+},
+{
+"text": "Meet Candidate",
+"href": "https://duck4delegate.org/meet-candidate/"
+},
+{
+"text": "News",
+"href": "https://duck4delegate.org/news/"
+},
+{
+"text": "Solicitud de Papeleta de Votante Ausente (PDF)",
+"href": "https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Spanish.pdf"
+},
+{
+"text": "Terms of Service",
+"href": "https://duck4delegate.org/terms-of-service/"
+},
+{
+"text": "Volunteer",
+"href": "https://duck4delegate.org/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://duck4delegate.org/voting-info/"
+},
+{
+"text": "[image] [image]",
+"href": "https://duck4delegate.org/"
+},
+{
+"text": "[no text]",
+"href": "https://elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "check your polling location",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "local board of elections",
+"href": "https://elections.maryland.gov/about/county_boards.html"
+},
+{
+"text": "ዋና-ውስጥ የድምጽ መስጫ ማመልከቻ (PDF)",
+"href": "https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Amharic.pdf"
+},
+{
+"text": "Ứng dụng bỏ phiếu qua thư (PDF)",
+"href": "https://elections.maryland.gov/voting/documents/Mail_In_Ballot_Application-Vietnamese.pdf"
+}
 ]

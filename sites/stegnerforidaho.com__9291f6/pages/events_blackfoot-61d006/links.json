@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Blackfoot&dates=20260818T220000Z%2F20260818T233000Z&location=9+South+Thompson+Lane%2C+Blackfoot%2C+Idaho%2C+83221%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=9+South+Thompson+Lane+Blackfoot%2C+Idaho%2C+83221+United+States",
-"https://eventbrite.com/e/join-john-in-blackfoot-tickets-1996519534673",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/blackfoot?format=ical",
-"https://stegnerforidaho.com/events/pocatello",
-"https://stegnerforidaho.com/events/twin-falls",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9+south+thompson+lane+blackfoot%2C+idaho%2C+83221+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Join+John+in+Blackfoot&dates=20260818T220000Z%2F20260818T233000Z&location=9+South+Thompson+Lane%2C+Blackfoot%2C+Idaho%2C+83221%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/blackfoot?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next August 20 Join John in Pocatello",
+"href": "https://www.stegnerforidaho.com/events/pocatello"
+},
+{
+"text": "Previous Previous August 13 Join John in Twin Falls",
+"href": "https://www.stegnerforidaho.com/events/twin-falls"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.eventbrite.com/e/join-john-in-blackfoot-tickets-1996519534673"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+},
+{
+"text": "https://www.stegnerforidaho.com/events",
+"href": "https://www.stegnerforidaho.com/events"
+}
 ]

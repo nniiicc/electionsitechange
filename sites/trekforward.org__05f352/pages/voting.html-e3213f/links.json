@@ -1,14 +1,50 @@
 [
-"https://ballotpedia.org/Tennessee_Amendment_1,_Remove_Right_to_Bail_for_Certain_Criminal_Offenses_Measure_(2026)",
-"https://ballotpedia.org/Tennessee_Amendment_2,_Prohibit_State_Property_Taxes_Measure_(2026)",
-"https://ballotpedia.org/Tennessee_Amendment_3,_Marsy%27s_Law_Crime_Victims%27_Rights_Measure_(2026)",
-"https://secure.actblue.com/donate/trek-forward",
-"https://trekforward.org/about.html",
-"https://trekforward.org/donate.html",
-"https://trekforward.org/events.html",
-"https://trekforward.org/index.html",
-"https://trekforward.org/issues.html",
-"https://trekforward.org/slater.html",
-"https://trekforward.org/volunteer.html",
-"https://trekforward.org/voting.html"
+{
+"text": "About",
+"href": "https://trekforward.org/about.html"
+},
+{
+"text": "Amendment 1 — Remove Right to Bail for Certain Criminal Offenses",
+"href": "https://ballotpedia.org/Tennessee_Amendment_1,_Remove_Right_to_Bail_for_Certain_Criminal_Offenses_Measure_(2026)"
+},
+{
+"text": "Amendment 2 — Prohibit State Property Taxes",
+"href": "https://ballotpedia.org/Tennessee_Amendment_2,_Prohibit_State_Property_Taxes_Measure_(2026)"
+},
+{
+"text": "Amendment 3 — Marsy's Law Crime Victims' Rights",
+"href": "https://ballotpedia.org/Tennessee_Amendment_3,_Marsy%27s_Law_Crime_Victims%27_Rights_Measure_(2026)"
+},
+{
+"text": "Donate",
+"href": "https://trekforward.org/donate.html"
+},
+{
+"text": "Donate to Trek Forward",
+"href": "https://secure.actblue.com/donate/trek-forward"
+},
+{
+"text": "Events",
+"href": "https://trekforward.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://trekforward.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://trekforward.org/issues.html"
+},
+{
+"text": "Slater's Record",
+"href": "https://trekforward.org/slater.html"
+},
+{
+"text": "Volunteer",
+"href": "https://trekforward.org/volunteer.html"
+},
+{
+"text": "Voting",
+"href": "https://trekforward.org/voting.html"
+}
 ]

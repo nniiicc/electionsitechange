@@ -1,13 +1,78 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://facebook.com/randymeierforia",
-"https://instagram.com/randymeierforiowa",
-"https://randymeieriowa.com/",
-"https://randymeieriowa.com/about",
-"https://randymeieriowa.com/get-involved",
-"https://randymeieriowa.com/privacy-policy",
-"https://secure.actblue.com/donate/randy-meier-for-iowa-1",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://sos.iowa.gov/voters/voter-id-faq"
+{
+"text": "About",
+"href": "https://www.randymeieriowa.com/about"
+},
+{
+"text": "Absentee Voting",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "Check Voter Registration",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/randy-meier-for-iowa-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.randymeieriowa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "Learn More about Randy",
+"href": "https://www.randymeieriowa.com/about"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.randymeieriowa.com/privacy-policy"
+},
+{
+"text": "Randy Meier for Iowa",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "Voter ID Questions",
+"href": "https://sos.iowa.gov/voters/voter-id-faq"
+},
+{
+"text": "Where to Vote",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "[image: Campaign logo for Randy Meier for Iowa]",
+"href": "https://www.randymeieriowa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/randymeierforia"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/randymeierforiowa/"
+},
+{
+"text": "[image: Senior Woman]",
+"href": "https://sos.iowa.gov/voters/voter-id-faq"
+},
+{
+"text": "[image: Vote Buttons Display]",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "[image: Voting Booth Setup]",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "randymeierforiowa@gmail.com",
+"href": "mailto:randymeierforiowa@gmail.com?subject=Campaign+for+HD-69+question"
+}
 ]

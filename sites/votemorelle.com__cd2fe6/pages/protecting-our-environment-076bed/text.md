@@ -1,19 +1,12 @@
-COMBATING THE CLIMATE CRISIS
-In Congress, Joe has been working to confront the climate crisis by advancing policies that protect clean air and clean water, reduce carbon pollution, and build a more sustainable future for the next generation.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE COMBATING THE CLIMATE CRISIS In Congress, Joe has been working to confront the climate crisis by advancing policies that protect clean air and clean water, reduce carbon pollution, and build a more sustainable future for the next generation.
 Joe believes environmental policy must put families and communities first, not the profits of special interests.
 He knows climate change is already harming our environment, public health, and economy, and that we must act with urgency to address it.
-In Congress, Joe has co-sponsored legislation including:
-The Energy Innovation and Carbon Dividend Act
-Would reduce carbon emissions significantly over time by placing a price on carbon and returning revenue directly to American families.
-The Climate Change Education Act
-Would create a national climate change education program through NOAA to improve public understanding of human-caused climate change.
-The Environmental Justice For All Act
-Would strengthen protections against environmental discrimination and allow affected communities to seek legal remedies when harmed.
-The Break Free From Plastic Pollution Act
-Would reduce single-use plastic waste and promote stronger recycling and manufacturing standards.
-The Saving America’s Pollinators Act
-Would protect pollinators like bees by restricting harmful pesticides and supporting monitoring of pollinator populations.
-The FRESHER Act
-Would close Clean Air Act loopholes that allow certain oil and gas emissions to go unregulated.
-The Arctic Refuge Protection Act
-Would protect the Arctic National Wildlife Refuge by ending oil and gas development and preserving it as protected wilderness.
+In Congress, Joe has co-sponsored legislation including: The Energy Innovation and Carbon Dividend Act Would reduce carbon emissions significantly over time by placing a price on carbon and returning revenue directly to American families.
+The Climate Change Education Act Would create a national climate change education program through NOAA to improve public understanding of human-caused climate change.
+The Environmental Justice For All Act Would strengthen protections against environmental discrimination and allow affected communities to seek legal remedies when harmed.
+The Break Free From Plastic Pollution Act Would reduce single-use plastic waste and promote stronger recycling and manufacturing standards.
+The Saving America’s Pollinators Act Would protect pollinators like bees by restricting harmful pesticides and supporting monitoring of pollinator populations.
+The FRESHER Act Would close Clean Air Act loopholes that allow certain oil and gas emissions to go unregulated.
+The Arctic Refuge Protection Act Would protect the Arctic National Wildlife Refuge by ending oil and gas development and preserving it as protected wilderness.
+Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

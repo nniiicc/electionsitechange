@@ -1,14 +1,54 @@
 [
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=201&year=2019",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://chrisleeforhawaii.com/women",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://schatz.senate.gov/press-releases/schatz-announces-major-legislation-to-enhance-social-security",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii",
-"https://usnews.com/news/us/articles/2016-04-26/hawaii-bill-bans-discrimination-against-transgender-patients?offset=20"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/women"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "a public stand to preserve and expand Social Security",
+"href": "https://www.schatz.senate.gov/press-releases/schatz-announces-major-legislation-to-enhance-social-security"
+},
+{
+"text": "created a new effort",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=201&year=2019"
+},
+{
+"text": "passed a law",
+"href": "https://www.usnews.com/news/us/articles/2016-04-26/hawaii-bill-bans-discrimination-against-transgender-patients?offset=20"
+},
+{
+"text": "passed legislation",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HR&billnumber=201&year=2019"
+}
 ]

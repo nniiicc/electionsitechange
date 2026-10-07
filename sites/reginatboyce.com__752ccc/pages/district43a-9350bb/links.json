@@ -1,54 +1,238 @@
 [
-"http://abellimprovement.org/",
-"http://betterwaverly.org/",
-"http://charlesnorth.org/",
-"http://charlesvillage.net/",
-"http://chmcdc.org/",
-"http://eveshampark.com/",
-"http://facebook.com/groups/hamiltonhills",
-"http://greatergreenmount.org/",
-"http://guilfordassociation.org/",
-"http://hamiltonlauravillemainstreet.org/",
-"http://hampdenhappenings.org/",
-"http://harbel.org/",
-"http://harfordpark.org/",
-"http://homelandassociation.org/",
-"http://hria31.wix.com/hillen",
-"http://jhu.edu/",
-"http://lake-evesham.org/",
-"http://lakewalker.org/",
-"http://lauravillemd.com/",
-"http://loyola.edu/",
-"http://lria.org/",
-"http://mayfieldassociation.org/",
-"http://morgan.edu/",
-"http://ndm.edu/",
-"http://oakenshawe.org/",
-"http://oldgoucher.org/",
-"http://originalnorthwood.com/",
-"http://stmarys.edu/",
-"http://tuscanycanterbury.org/",
-"http://waverlyimprovement.org/",
-"http://waverlymainstreet.net/",
-"http://yorkroadpartnership.org/",
-"https://baltimorecityschools.org/schools",
-"https://bcrp.baltimorecity.gov/recreationcenters",
-"https://facebook.com/CPIA2017",
-"https://facebook.com/reginatboyce43",
-"https://google.com/maps/d/viewer?mid=1TLM4tl0jWob50YGKvyuQtx7q4ZzaAE3J&ll=39.33531054038665%2C-76.59894376196291&z=13",
-"https://instagram.com/reginatboyce",
-"https://mdpgis.mdp.state.md.us/Legis_District/index.html",
-"https://reginatboyce.com/",
-"https://reginatboyce.com/about",
-"https://reginatboyce.com/about-regina",
-"https://reginatboyce.com/district43a",
-"https://reginatboyce.com/events",
-"https://reginatboyce.com/new-page-4",
-"https://reginatboyce.com/scholarship",
-"https://reginatboyce.com/search",
-"https://secure.actblue.com/donate/reginatboyce",
-"https://strongcitybaltimore.org/programs/the-29th-street-community-center",
-"https://twitter.com/reginatboyce",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://voterservices.elections.maryland.gov/VoterSearch"
+{
+"text": "About Regina!",
+"href": "https://www.reginatboyce.com/about-regina"
+},
+{
+"text": "Cecil Kirk",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#Cecil%20Kirk"
+},
+{
+"text": "Coldstream",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#Coldstream"
+},
+{
+"text": "DeWees",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#DeWees"
+},
+{
+"text": "District 43A",
+"href": "https://www.reginatboyce.com/district43a"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/reginatboyce"
+},
+{
+"text": "Events",
+"href": "https://www.reginatboyce.com/events"
+},
+{
+"text": "Greenmount",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#Greenmount"
+},
+{
+"text": "Herring Run",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#Herring"
+},
+{
+"text": "Home",
+"href": "https://www.reginatboyce.com/"
+},
+{
+"text": "In The News",
+"href": "https://www.reginatboyce.com/about"
+},
+{
+"text": "Record of Service",
+"href": "https://www.reginatboyce.com/new-page-4"
+},
+{
+"text": "Rita Church at Clifton Park",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#R%20Church"
+},
+{
+"text": "Scholarship",
+"href": "https://www.reginatboyce.com/scholarship"
+},
+{
+"text": "The 29th Street Community Center",
+"href": "https://www.strongcitybaltimore.org/programs/the-29th-street-community-center/"
+},
+{
+"text": "Use this interactive map to learn more about the district",
+"href": "https://www.google.com/maps/d/viewer?mid=1TLM4tl0jWob50YGKvyuQtx7q4ZzaAE3J&ll=39.33531054038665%2C-76.59894376196291&z=13"
+},
+{
+"text": "Walter P. Carter",
+"href": "https://bcrp.baltimorecity.gov/recreationcenters#Walter"
+},
+{
+"text": "[image: Regina T. Boyce]",
+"href": "https://www.reginatboyce.com/"
+},
+{
+"text": "[image]",
+"href": "https://mdpgis.mdp.state.md.us/Legis_District/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reginatboyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/reginatboyce43/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reginatboyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reginatboyce.com/search"
+},
+{
+"text": "betterwaverly.org",
+"href": "http://betterwaverly.org"
+},
+{
+"text": "clicking here",
+"href": "https://www.baltimorecityschools.org/schools"
+},
+{
+"text": "eveshampark.com",
+"href": "http://eveshampark.com"
+},
+{
+"text": "harfordpark.org",
+"href": "http://harfordpark.org"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/VoterSearch"
+},
+{
+"text": "hria31.wix.com/hillen",
+"href": "http://hria31.wix.com/hillen"
+},
+{
+"text": "oakenshawe.org",
+"href": "http://oakenshawe.org"
+},
+{
+"text": "www.LRIA.org",
+"href": "http://www.lria.org"
+},
+{
+"text": "www.abellimprovement.org",
+"href": "http://www.abellimprovement.org"
+},
+{
+"text": "www.charlesnorth.org",
+"href": "http://www.charlesnorth.org"
+},
+{
+"text": "www.charlesvillage.net",
+"href": "http://www.charlesvillage.net"
+},
+{
+"text": "www.chmcdc.org",
+"href": "http://www.chmcdc.org"
+},
+{
+"text": "www.facebook.com/CPIA2017",
+"href": "https://www.facebook.com/CPIA2017"
+},
+{
+"text": "www.facebook.com/groups/hamiltonhills",
+"href": "http://www.facebook.com/groups/hamiltonhills"
+},
+{
+"text": "www.greatergreenmount.org",
+"href": "http://www.greatergreenmount.org"
+},
+{
+"text": "www.guilfordassociation.org",
+"href": "http://www.guilfordassociation.org"
+},
+{
+"text": "www.hamiltonlauravillemainstreet.org",
+"href": "http://www.hamiltonlauravillemainstreet.org"
+},
+{
+"text": "www.hampdenhappenings.org",
+"href": "http://www.hampdenhappenings.org"
+},
+{
+"text": "www.harbel.org",
+"href": "http://www.harbel.org"
+},
+{
+"text": "www.homelandassociation.org",
+"href": "http://www.homelandassociation.org"
+},
+{
+"text": "www.jhu.edu",
+"href": "http://www.jhu.edu"
+},
+{
+"text": "www.lake-evesham.org",
+"href": "http://www.lake-evesham.org"
+},
+{
+"text": "www.lakewalker.org",
+"href": "http://www.lakewalker.org"
+},
+{
+"text": "www.lauravillemd.com",
+"href": "http://www.lauravillemd.com"
+},
+{
+"text": "www.loyola.edu",
+"href": "http://www.loyola.edu"
+},
+{
+"text": "www.mayfieldassociation.org",
+"href": "http://www.mayfieldassociation.org"
+},
+{
+"text": "www.morgan.edu",
+"href": "http://www.morgan.edu"
+},
+{
+"text": "www.ndm.edu",
+"href": "http://www.ndm.edu"
+},
+{
+"text": "www.oldgoucher.org",
+"href": "http://www.oldgoucher.org"
+},
+{
+"text": "www.originalnorthwood.com",
+"href": "http://www.originalnorthwood.com"
+},
+{
+"text": "www.stmarys.edu",
+"href": "http://www.stmarys.edu"
+},
+{
+"text": "www.tuscanycanterbury.org",
+"href": "http://www.tuscanycanterbury.org"
+},
+{
+"text": "www.waverlyimprovement.org",
+"href": "http://www.waverlyimprovement.org"
+},
+{
+"text": "www.waverlymainstreet.net",
+"href": "http://www.waverlymainstreet.net"
+},
+{
+"text": "www.yorkroadpartnership.org",
+"href": "http://www.yorkroadpartnership.org"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61575386242741",
-"https://instagram.com/chuckmurphyfordelegate?igsh=emFmZzR2NjAwemp3",
-"https://murphyfordelegate42a.com/",
-"https://murphyfordelegate42a.com/about",
-"https://murphyfordelegate42a.com/contact-us",
-"https://murphyfordelegate42a.com/endorsements",
-"https://murphyfordelegate42a.com/issues",
-"https://murphyfordelegate42a.com/privacy",
-"https://murphyfordelegate42a.com/volunteer",
-"https://secure.anedot.com/murphy-for-delegate/donate",
-"https://x.com/chuckfor55856?s=21"
+{
+"text": "About",
+"href": "https://murphyfordelegate42a.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://murphyfordelegate42a.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://murphyfordelegate42a.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://murphyfordelegate42a.com/"
+},
+{
+"text": "Issues",
+"href": "https://murphyfordelegate42a.com/issues/"
+},
+{
+"text": "Join the Team!",
+"href": "https://murphyfordelegate42a.com/volunteer/"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://murphyfordelegate42a.com/privacy"
+},
+{
+"text": "[image: Chuck Murphy]",
+"href": "https://murphyfordelegate42a.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575386242741"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chuckmurphyfordelegate?igsh=emFmZzR2NjAwemp3"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/chuckfor55856?s=21"
+},
+{
+"text": "chuckmurphy2026@gmail.com",
+"href": "mailto:chuckmurphy2026@gmail.com"
+}
 ]

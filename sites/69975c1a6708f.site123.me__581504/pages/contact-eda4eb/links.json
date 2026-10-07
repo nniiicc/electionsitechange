@@ -1,9 +1,46 @@
 [
-"https://69975c1a6708f.site123.me/",
-"https://69975c1a6708f.site123.me/about",
-"https://69975c1a6708f.site123.me/about-2",
-"https://69975c1a6708f.site123.me/contact",
-"https://69975c1a6708f.site123.me/my-story",
-"https://69975c1a6708f.site123.me/testimonials",
-"https://site123.com/"
+{
+"text": "ABOUT",
+"href": "https://69975c1a6708f.site123.me/about-2"
+},
+{
+"text": "About",
+"href": "https://69975c1a6708f.site123.me/about"
+},
+{
+"text": "Committee to Elect Steven L. Smith",
+"href": "https://69975c1a6708f.site123.me/"
+},
+{
+"text": "Contact",
+"href": "https://69975c1a6708f.site123.me/contact"
+},
+{
+"text": "Home",
+"href": "https://69975c1a6708f.site123.me/"
+},
+{
+"text": "How to create a website",
+"href": "https://www.site123.com"
+},
+{
+"text": "I BUILT MY SITE FOR FREE USING [image] CREATE YOUR WEBSITE",
+"href": "https://www.site123.com/"
+},
+{
+"text": "My Story",
+"href": "https://69975c1a6708f.site123.me/my-story"
+},
+{
+"text": "SITE123",
+"href": "https://www.site123.com"
+},
+{
+"text": "Testimonials",
+"href": "https://69975c1a6708f.site123.me/testimonials"
+},
+{
+"text": "avanlee1961@gmail.com",
+"href": "mailto:avanlee1961@gmail.com"
+}
 ]

@@ -1,13 +1,5 @@
-Back to All Events
-The 2025 Legislative Session is just under a month away.
+0 Skip to Content Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home Folder: About Back Meet Marlon Meet the Team 2026 End of Session Letter Folder: Legislative Matters Back Policy Goals Legislative Accomplishments Folder: Resources Back Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Folder: Blog Back Videos In the News Newsletter Social Media Policy Contact Us Folder: Volunteer Back Volunteer Sign-Up Sign Request Donate Voting Information Back to All Events Delegate Amprey's 2025 Pre-Session Fundraiser Monday, January 6, 2025 1:00 PM 2:30 PM Red Red Wine Bar + Bistro 189 B Main St Annapolis, MD, 21401 USA (map) Google Calendar ICS The 2025 Legislative Session is just under a month away.
 As many of you know, my colleagues and I expect to confront unique challenges this year as we balance our budget while meeting the needs of our residents.
 Nonetheless, I remain committed to investing in our communities and protecting the services that matter most to Marylanders.
 Join me at my back-to-Session reception for a chance to discuss these priorities!
-To RSVP, please visit https://secure.actblue.com/donate/amprey.01.06.25
-Previous
-Previous
-January 4
-40th District’s 2025 Pre-Session Briefing
-Next
-Next
-July 22
+To RSVP, please visit https://secure.actblue.com/donate/amprey.01.06.25 Previous Previous January 4 40th District’s 2025 Pre-Session Briefing Next Next July 22 Delegate Amprey's 2025 Summer Reception Fundraiser Authority: Citizens for Marlon Amprey, Treasurer, Ryan Galloway.

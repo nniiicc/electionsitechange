@@ -1,4 +1,4 @@
-Five of the 10 worst road systems in the U.S. are located right here in California, according to recent findings released by The Road Information Program.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Op/Ed: Raiding Transportation Funds Unsustainable experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Five of the 10 worst road systems in the U.S. are located right here in California, according to recent findings released by The Road Information Program.
 Here in the Inland Empire, an astounding 46 percent of our roads are badly in need of repair.
 Furthermore, the Bay Area and Los Angeles have the roughest roads in the nation, with over 74 percent and 73 percent, respectively, of their streets and highways rated as poor.
 This is completely unacceptable, especially considering Californians are subjected to the fourth highest gas tax in the nation.
@@ -25,4 +25,4 @@ Failing to fully fund our transportation infrastructure has dire consequences fo
 With skyrocketing gas prices squeezing the budgets of the hardworking middle class, tax increases are not the right decision for California.
 If the Legislature is serious about transportation funding, we can improve our roads without new taxes – by using our existing tax revenue for its intended purpose.
 Assemblyman Jay Obernolte, R-Hesperia, represents the 33rd Assembly District.
-He has been appointed to serve on the Assembly Finance Committee during the special session on transportation funding.
+He has been appointed to serve on the Assembly Finance Committee during the special session on transportation funding. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

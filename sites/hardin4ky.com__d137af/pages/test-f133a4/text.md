@@ -1,5 +1,7 @@
-Healthcare & Medicaid
-I know what it means to fight for healthcare, as a single mom raising a child with special needs, I’ve lived the gaps in our system.
+0 Skip to Content About Endorsements Personal Endorsements Issues Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Volunteer Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact Donate Open Menu Close Menu Open Menu Close Menu Donate About Endorsements Personal Endorsements Issues Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Volunteer Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact About Endorsements Personal Endorsements Folder: Issues Back Data Centers Fair Wages, Unions & Workplace Safety Healthcare & Medicaid Education Building a Kentucky You Can Afford Clean Water, Clean Air & Responsible Growth Veterans & Military Families Transparency & Accountability Attainable Housing Ballotpedia Am I in District 33?
+Folder: Volunteer Back Donations Donation Transparency Voter Pledge Form Get Involved Yard Signs Contact Donate Healthcare & Medicaid I know what it means to fight for healthcare, as a single mom raising a child with special needs, I’ve lived the gaps in our system.
 That’s why I will stand up against cuts to Medicaid, protect senior centers, and push for affordable, accessible healthcare for every family.
 Because in Kentucky, we don’t abandon our elders, and we don’t leave our neighbors behind.
 Healthcare isn’t just a policy debate.
@@ -9,3 +11,4 @@ It’s not just numbers on a budget line, it’s seniors losing access to the ce
 In District 33, Medicaid is a lifeline.
 It supports preventive care, mental health services, and the senior centers that provide meals, companionship, and critical health programs.
 When funding is slashed, those centers struggle to stay open, leaving older Kentuckians isolated and vulnerable.
+Paid for by Jennifer Hardin For State Representative Democrat for District 33 Hardin4ky@gmail.com Donate now!

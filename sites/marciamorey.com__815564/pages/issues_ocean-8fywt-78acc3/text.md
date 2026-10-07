@@ -1,5 +1,4 @@
-Protecting Democracy: Voting Rights & Fair Elections
-The biggest problem we face as a state, and a country, is the impending threat to Democracy.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Protecting Democracy: Voting Rights & Fair Elections Aug 4 Written By Mary Lee The biggest problem we face as a state, and a country, is the impending threat to Democracy.
 Democracy depends on voting rights and integrity.
 For the last 10 years, Republicans have drawn unconstitutional congressional and legislative districts, curbed voting accessibility, mandated voter photo IDs and restricted the Board of Elections’ authority.
 All this being done to manipulate and suppress voting rights.
@@ -19,10 +18,11 @@ Dark money in politics is bad for our democracy.
 I have never accepted campaign money from any corporate PAC.
 I will work on legislation that limits corporate spending and tackles the effects of the 2010 U.S.
 Supreme Court decision in Citizens United v.
-Federal Election Commission.
+Federal Election Commission .
 I want to ensure every paid political advertisement is clearly identified with the people who pay for it and bundled money is accountable.
 Legislation should be passed to prohibit lawmakers from financially profiting based on nonpublic, legislative information.
 The State Board of Election’s proposed rules over the conduct of poll workers and observers should be implemented to insure there are no instances of voter intimidation.
 No lawmaker has the legal authority to inspect voting machines.
 In Durham in 2020, and happening Nationwide now, lawmakers are demanding access.
 Voters must have confidence in the election process and outcome.
+Mary Lee Previous Previous Public Safety & Gun Laws Next Next Workers’ Rights & Workplace Safety Marcia Morey Campaign PO Box 61030 Durham, NC 27715 campaign@marciamorey.com Follow Facebook Instagram X

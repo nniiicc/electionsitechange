@@ -1,6 +1,5 @@
-Endorsements
-Kristine’s integrity and diligence have earned her the trust and support of many political and community organizations.
+Meet Kristine Endorsements News & Events Get Involved Select Page Endorsements Kristine’s integrity and diligence have earned her the trust and support of many political and community organizations.
 We would like to thank the following partners for their generosity and continued support.
-Endorsements
-Kristine’s integrity and diligence have earned her the trust and support of many political and community organizations.
+Endorsements Kristine’s integrity and diligence have earned her the trust and support of many political and community organizations.
 We would like to thank the following partners for their generosity and continued support.
+DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

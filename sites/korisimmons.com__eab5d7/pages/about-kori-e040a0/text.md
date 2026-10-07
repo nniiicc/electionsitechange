@@ -1,8 +1,4 @@
-Happy Pride Month
-Special Session is going on now
-Check the Your Voice tab
-or go to Georgia's My Voter Page at mvp.sos.ga.gov
-I’m running for office because I believe in a simple idea: if you have the ability to help, you have the responsibility to.
+Home About Kori Platform Connect broken Legal notice The Abyss Your Voice Events Connections About Kori Platform Your Voice Events Connect Happy Pride Month Special Session is going on now Check the Your Voice tab or go to Georgia's My Voter Page at mvp.sos.ga.gov Who Is Kori I’m running for office because I believe in a simple idea: if you have the ability to help, you have the responsibility to.
 That belief didn’t come from theory, it came from experience.
 I’ve seen what happens when systems fail the people they’re meant to serve.
 Not because people don’t care, but because too often good ideas fall apart in execution.
@@ -28,7 +24,8 @@ This is the only home my kid has ever known.
 And if I can help it, it will stay that way.
 Because every family deserves that kind of stability, the chance to put down roots and know they can stay.
 That’s personal for me.
-And it’s a big part of why I’m running
-We need your consent to load the translations
-We use a third-party service to translate the website content that may collect data about your activity.
+And it’s a big part of why I’m running Home About Kori Platform Connect broken Legal notice The Abyss Your Voice Events Connections About Kori Platform Your Voice Events Connect All rights reserved.
+Kori for the People © # We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
 Please review the details in the privacy policy and accept the service to view the translations.
+Decline Accept Website Translator IONOS SiteAnalytics Store Privacy Settings This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle Select all services Toggle Website Translator More Less Toggle IONOS SiteAnalytics More Less Toggle Store More Less Save Settings

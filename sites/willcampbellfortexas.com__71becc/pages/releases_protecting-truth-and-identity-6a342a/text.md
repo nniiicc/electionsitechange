@@ -1,9 +1,11 @@
-Safeguarding Truth and Identity in the Digital Age: The Protecting Truth and Identity Act
-Texas Legislation · Protecting Truth & Identity Act · Chapter 122
-Protecting Truth and Identity in the Digital Age
-The Protecting Truth and Identity Act gives every Texan ownership over their digital identity, their data, and everything they create — on their own devices, in the cloud, and everywhere AI tools now touch daily life.
-Why This Law Matters Now
-Every day, Texans face a digital landscape that grows more dangerous.
+0 Skip to Content About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Folder: Solutions Back Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Folder: Proposed Laws Back AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Safeguarding Truth and Identity in the Digital Age: The Protecting Truth and Identity Act Politics Law Identity Protection Truth in Media Jan 24 Written By Wilson Campbell Texas Legislation · Protecting Truth & Identity Act · Chapter 122 Protecting Truth and Identity in the Digital Age The Protecting Truth and Identity Act gives every Texan ownership over their digital identity, their data, and everything they create — on their own devices, in the cloud, and everywhere AI tools now touch daily life.
+By Rep.
+Will Campbell · Texas House District 109 12 min read In This Article 1 — Why This Law Matters Now 2 — Your Digital Property Rights: DCIIL 3 — How the Law Works 4 — Section 230 Compliance 5 — Identity Verification 6 — Protecting Property Wherever Stored 7 — Cloud Storage and AI 8 — Security and Government Access 9 — Protections for Minors 10 — Free Speech Protections 11 — How the PTIA Fits Existing Law Read the Full Law Complete legislative text of the Protecting Truth and Identity Act, Chapter 122.
+View Full Text → Key Facts DCIIL your data, content, identity, image, and likeness — always your property 2-year cap on any transfer or license of DCIIL to a company Warrant required for government access to stored property, in all cases Annual re-consent minimum for storage/AI access to your content Data Sources U.S.
+Supreme Court opinions Texas Constitution & Statutes Federal statutes (Stored Communications Act, CLOUD Act) Texas Code of Criminal Procedure 1 Why This Law Matters Now Every day, Texans face a digital landscape that grows more dangerous.
 Artificial intelligence can now generate convincing fake video of anyone saying anything.
 Deepfake technology puts words in people's mouths they never spoke.
 Personal photos and likenesses are harvested, manipulated, and monetized without consent or compensation.
@@ -17,8 +19,7 @@ The gap between the harms Texans face and the tools available to address them is
 The Protecting Truth and Identity Act (PTIA) closes that gap.
 It is the first comprehensive state law that treats your digital identity — and everything you create on your own devices, in the cloud, and through AI tools — as your property, gives you a straightforward process to correct false information, and holds platforms accountable for maintaining fair procedures, all without criminalizing speech or censoring opinions.
 This article explains how it works, why it is constitutionally sound, and what it means for every Texan.
-Your Digital Property Rights: DCIIL
-At the heart of the PTIA is a simple but powerful idea: your data, content, identity, image, and likeness — your DCIIL — belong to you.
+2 Your Digital Property Rights: DCIIL At the heart of the PTIA is a simple but powerful idea: your data, content, identity, image, and likeness — your DCIIL — belong to you.
 They are your personal property.
 Not the platform's.
 Not the advertiser's.
@@ -27,300 +28,206 @@ This is new.
 Under current law, the moment you upload a photo, post a comment, or simply browse a website, platforms claim broad rights to your data.
 They track your behavior, build profiles, and sell access to advertisers, all without meaningful compensation to you.
 The PTIA changes this fundamentally, and it starts earlier than you might expect: your property rights attach the moment you create something, even before you ever go online.
-Definition
-DCIIL stands for Data, Content, Identity, Image, and Likeness — the full range of digital material that identifies or was created by you.
+Definition DCIIL stands for Data, Content, Identity, Image, and Likeness — the full range of digital material that identifies or was created by you.
 It includes documents, photos, videos, voice recordings, and any AI-generated or AI-processed material derived from your own content.
-What DCIIL means in practice:
-- Ownership is permanent.
+What DCIIL means in practice: Ownership is permanent.
 Your DCIIL remains your property at all times.
 Any transfer or license to a company is limited to a maximum term of two years.
 After that, rights revert to you automatically.
-- Deletion is guaranteed.
+Deletion is guaranteed.
 When a transfer expires or you revoke consent, the entity must delete your DCIIL within 30 days.
-- You can get your content back.
+You can get your content back.
 The law now guarantees a right to retrieve a usable copy of your stored content on request, so ownership on paper also means access in practice.
-- Compensation is required.
+Compensation is required.
 The default rule is that platforms may not collect your data without express consent and fair payment.
 No more burying data harvesting in a terms-of-service agreement nobody reads.
-- Consent is not forever.
+Consent is not forever.
 Consent given at one time does not mean consent forever.
 You can request removal of your image, likeness, or personal content at any time.
 This framework treats your digital presence with the same respect the law gives your physical property.
 Just as no one can walk into your home and take your belongings, no company should be able to take your digital identity, or anything you create, without your knowledge, consent, and fair compensation.
-How the Law Works: Correction, Not Censorship
-The PTIA does not ban speech.
+3 How the Law Works: Correction, Not Censorship The PTIA does not ban speech.
 It does not censor opinions.
 It creates a straightforward process for correcting false statements of fact, and only false statements of fact.
-The Truth–Opinion Distinction
-The law draws a clear line between fact and opinion.
+The Truth–Opinion Distinction The law draws a clear line between fact and opinion.
 A factual statement is one that claims to describe something real and verifiable, an event that happened, a number, a quote.
 An opinion is a personal belief, interpretation, theory, or value judgment.
-- Fact: "Senator Smith voted against the education bill on March 5." (Verifiable.
-Either true or false.)
-- Opinion: "Senator Smith is the worst legislator in Texas history." (Subjective judgment.
-Protected.)
-Opinions, even offensive, derogatory, or deeply unpopular ones, are fully protected under the PTIA.
+Fact: "Senator Smith voted against the education bill on March 5." (Verifiable.
+Either true or false.) Opinion: "Senator Smith is the worst legislator in Texas history." (Subjective judgment.
+Protected.) Opinions, even offensive, derogatory, or deeply unpopular ones, are fully protected under the PTIA.
 The law explicitly states that nothing prohibits any person from expressing offensive, cruel, or distasteful opinions.
 The opinion defense is determined by the totality of the circumstances: the language used, the context, and whether a reasonable person would understand the statement as fact or personal belief.
-The Correction Request Process
-When someone publishes a false statement of fact, here is what happens:
-- Step 1: You submit a correction request identifying the specific false content and providing evidence of the truth.
-- Step 2: The publisher reviews the evidence and either makes the correction or contests it with their own evidence.
-- Step 3: If the publisher refuses and you still believe the content is false, you can take the matter to an Information and Technology Court.
-- Step 4: The court reviews the evidence and, if it finds the content false, orders a correction, not a punishment.
+The Correction Request Process When someone publishes a false statement of fact, here is what happens: Step 1: You submit a correction request identifying the specific false content and providing evidence of the truth.
+Step 2: The publisher reviews the evidence and either makes the correction or contests it with their own evidence.
+Step 3: If the publisher refuses and you still believe the content is false, you can take the matter to an Information and Technology Court.
+Step 4: The court reviews the evidence and, if it finds the content false, orders a correction, not a punishment.
 The key principle: correction, not punishment.
 There are no criminal penalties under this law.
 No one goes to jail.
 The goal is getting the truth out, not silencing anyone.
 And every correction order creates a public record that can be used as evidence in related defamation proceedings, making the system even more valuable to those who have been harmed by falsehoods.
-Information and Technology Courts
-The PTIA creates specialized Information and Technology Courts modeled on the Texas Business Court, a framework the Texas Supreme Court unanimously upheld as constitutional in In re Dallas County (2024).
+Information and Technology Courts The PTIA creates specialized Information and Technology Courts modeled on the Texas Business Court, a framework the Texas Supreme Court unanimously upheld as constitutional in In re Dallas County (2024).
 These courts hold proceedings entirely online and are designed for the speed and technical expertise that digital disputes demand.
 Their jurisdiction is authorized under the exception in Article V, Section 8 of the Texas Constitution, which permits the legislature to confer exclusive jurisdiction on specialized courts.
-Section 230 Compliance: How We Solved It
-This is the question every serious observer asks: How does a state truth-and-identity law coexist with federal Section 230?
+4 Section 230 Compliance: How We Solved It This is the question every serious observer asks: How does a state truth-and-identity law coexist with federal Section 230?
 Section 230 of the Communications Decency Act provides that platforms cannot be treated as the publisher or speaker of content posted by their users.
 It is the legal foundation of the modern internet, and any state law that ignores it will be struck down.
 We did not ignore it.
 We studied the proven legal models and built the PTIA to work within them.
-The Process-Obligation Model
-The PTIA uses a process-obligation architecture, the same model that has survived decades of legal challenge in other federal laws:
-- The Digital Millennium Copyright Act (DMCA), 17 U.S.C. §512: Since 1998, the DMCA has required platforms to maintain notice-and-takedown procedures for copyrighted content.
+The Process-Obligation Model The PTIA uses a process-obligation architecture, the same model that has survived decades of legal challenge in other federal laws: The Digital Millennium Copyright Act (DMCA), 17 U.S.C. §512: Since 1998, the DMCA has required platforms to maintain notice-and-takedown procedures for copyrighted content.
 Platforms are not liable for hosting infringing content, they are liable for failing to follow the required procedures after receiving a valid notice.
-- The TAKE IT DOWN Act (Pub.
-L. 119-16, signed 2025): Congress used the identical architecture.
+The TAKE IT DOWN Act (Pub.
+L.
+119-16, signed 2025): Congress used the identical architecture.
 Platforms must maintain procedures to receive and process removal requests for nonconsensual intimate images.
 The Supreme Court confirmed this approach works.
 In Moody v.
 NetChoice (2024), the Court recognized that laws imposing purely procedural obligations on platforms, transparency reports, notice-and-takedown procedures, disclosure requirements, are fundamentally different from laws that regulate platforms' editorial judgments.
-How the PTIA Applies This Model
-Under Section 122.127, platforms must:
-- Establish and publish a clear, accessible process for correction and removal requests.
-- Acknowledge receipt of requests within five business days.
-- Facilitate the review process in compliance with the law.
-- Provide a counter-notice mechanism so content creators can contest requests within 10 business days.
-- Act in good faith to assist users in correcting false information and removing unauthorized DCIIL.
+How the PTIA Applies This Model Under Section 122.127, platforms must: Establish and publish a clear, accessible process for correction and removal requests.
+Acknowledge receipt of requests within five business days.
+Facilitate the review process in compliance with the law.
+Provide a counter-notice mechanism so content creators can contest requests within 10 business days.
+Act in good faith to assist users in correcting false information and removing unauthorized DCIIL.
 The critical legal distinction: liability arises from the platform's failure to maintain and follow these procedures, not from the content itself.
 Two important exceptions apply: first-party content the platform itself publishes, and content the platform purchases outright from a user, in both cases the platform assumes publisher responsibility.
-Identity Verification: Claiming Your Property
-The PTIA requires identity verification for users of covered systems, and it does so for a straightforward reason: you cannot claim property you cannot prove is yours.
-Think of it this way
-If someone steals your car, you go to the police and prove it is yours, with a title, registration, and identification.
+5 Identity Verification: Claiming Your Property The PTIA requires identity verification for users of covered systems, and it does so for a straightforward reason: you cannot claim property you cannot prove is yours.
+Think of it this way If someone steals your car, you go to the police and prove it is yours, with a title, registration, and identification.
 If someone steals your digital identity, manipulates your image, or profits from your data, you need to be able to prove that identity, image, and data belong to you.
 Without verified identity, the entire DCIIL property framework is unenforceable.
-What identity verification enables:
-- Laying claim to your DCIIL: Without verified identity, you cannot establish ownership of your data, content, identity, image, and likeness as personal property under this law.
-- Receiving compensation: If a company uses your DCIIL, you need verified identity to receive payment.
-- Holding others accountable: When someone publishes false information or misuses your DCIIL, verified identity ensures they can be identified and held responsible through lawful process.
-- Eliminating bot armies: Foreign influence operations rely on anonymity.
+What identity verification enables: Laying claim to your DCIIL: Without verified identity, you cannot establish ownership of your data, content, identity, image, and likeness as personal property under this law.
+Receiving compensation: If a company uses your DCIIL, you need verified identity to receive payment.
+Holding others accountable: When someone publishes false information or misuses your DCIIL, verified identity ensures they can be identified and held responsible through lawful process.
+Eliminating bot armies: Foreign influence operations rely on anonymity.
 Verification makes it far harder for bot networks to flood platforms with false information.
 Anonymous posting is still allowed.
 The law does not require you to display your real name publicly.
 Your verified identity is on file with the platform, just as your identity is on file with your bank, but you can publish content under a pseudonym.
 This is about property rights and accountability, not speech control.
-Protecting Your Property Wherever It Is Stored
-Your files, photos, and documents are yours the moment you create them, whether you ever go online or not.
+6 Protecting Your Property Wherever It Is Stored Your files, photos, and documents are yours the moment you create them, whether you ever go online or not.
 DCIIL is only half the picture.
-The PTIA also protects what the law calls local device content, meaning anything you create on your own computer, phone, or tablet.
+The PTIA also protects what the law calls local device content , meaning anything you create on your own computer, phone, or tablet.
 That document you drafted, that photo you took, that voice memo you recorded, is your personal property the instant you create it.
 It does not need to touch the internet to belong to you, and it does not stop belonging to you the moment it does.
-Your property doesn't change hands just because you use a tool
-Saving a document to a cloud drive, editing a photo with an AI app, or backing up your phone does not transfer ownership to the company providing that service.
+Your property doesn't change hands just because you use a tool Saving a document to a cloud drive, editing a photo with an AI app, or backing up your phone does not transfer ownership to the company providing that service.
 It simply means the company is temporarily holding or processing your property to do the job you asked it to do, nothing more.
 This matters because so much of daily life now runs through third-party software before a person's own work is even finished.
-Under the PTIA, none of the following change who owns the content:
-- Uploading, saving, or syncing a file to a cloud storage or backup service.
-- Processing a document, image, or recording through an AI tool or app.
-- Editing or accessing your own content through any covered system or software platform.
+Under the PTIA, none of the following change who owns the content: Uploading, saving, or syncing a file to a cloud storage or backup service.
+Processing a document, image, or recording through an AI tool or app.
+Editing or accessing your own content through any covered system or software platform.
 The law also guarantees you can get a working copy of your own content back on request.
 Ownership that you cannot access in practice is not real ownership, so the PTIA requires storage and hosting entities to provide a usable copy of your stored property when you ask for it.
-Cloud Storage and AI: Your Property, Your Rules
-The default is simple: a company can only use your content to do what you asked it to do.
+7 Cloud Storage and AI: Your Property, Your Rules The default is simple: a company can only use your content to do what you asked it to do.
 This is one of the most important protections in the updated law, and it responds directly to a concern Texans raise constantly: what happens to my files, my photos, and my conversations once I hand them to a cloud storage service or an AI tool?
 The PTIA answers that question with a default rule and a consent system built around it.
-The Default: Minimum Necessary Use
-A storage or hosting entity, whether that is a cloud drive, a document editor, or an AI assistant, may only access, use, or process your content to the extent needed to provide the specific service you requested.
+The Default: Minimum Necessary Use A storage or hosting entity, whether that is a cloud drive, a document editor, or an AI assistant, may only access, use, or process your content to the extent needed to provide the specific service you requested.
 Nothing more.
 If you upload a document to be edited, the company can help you edit it.
 It cannot quietly use that document to train its AI model, build a company knowledge base, or hand it to another user, unless you say yes.
-Opt-In Consent, Done Right
-If a company wants to do more than the minimum, such as using your content to train its AI or build a reference library, it must ask you directly.
-The PTIA sets specific rules for how that request has to work:
-- The request must stand on its own, separate from the general terms of service.
+Opt-In Consent, Done Right If a company wants to do more than the minimum, such as using your content to train its AI or build a reference library, it must ask you directly.
+The PTIA sets specific rules for how that request has to work: The request must stand on its own, separate from the general terms of service.
 No pre-checked boxes, no "by continuing you agree" fine print.
-- It must plainly describe what categories of your content the company wants to use and exactly what it wants to do with it.
-- You must affirmatively opt in.
+It must plainly describe what categories of your content the company wants to use and exactly what it wants to do with it.
+You must affirmatively opt in.
 Silence, inaction, or simply continuing to use the service is not consent.
-- The company must re-ask at least once a year, and again any time it materially changes what it does with your content.
-- This applies to everyone, including people who already had an account before this law took effect.
+The company must re-ask at least once a year, and again any time it materially changes what it does with your content.
+This applies to everyone, including people who already had an account before this law took effect.
 Companies get 180 days to catch up and ask existing users.
-If You Say No
-Saying no does not mean losing the service.
+If You Say No Saying no does not mean losing the service.
 The company can still store, transmit, and process your content exactly enough to do the job you hired it to do.
 What it cannot do is analyze, retain beyond what the task requires, disclose, or otherwise leverage your content for its own purposes.
-If You Say Yes
-If you agree to let a company use your content for training or as part of a reference library it offers to other users, the law requires two things in return: compensation, at a rate you agree to (you can choose to waive payment if you want), and attribution, meaning if your content contributes to an answer or product delivered to someone else, you must be credited as the source.
-Your AI Instance Is Your Property Too
-Here is a concept unique to this update: if a company builds or trains an AI assistant specifically on your own content, during your own session, that resulting AI instance and the work it produces for you is treated as your property as well.
+If You Say Yes If you agree to let a company use your content for training or as part of a reference library it offers to other users, the law requires two things in return: compensation, at a rate you agree to (you can choose to waive payment if you want), and attribution, meaning if your content contributes to an answer or product delivered to someone else, you must be credited as the source.
+Your AI Instance Is Your Property Too Here is a concept unique to this update: if a company builds or trains an AI assistant specifically on your own content, during your own session, that resulting AI instance and the work it produces for you is treated as your property as well.
 A company cannot take the AI it built from your material and repurpose it for its own commercial benefit without your permission.
-| Scenario | Allowed Without Extra Consent? | What the Company Owes You |
-|---|---|---|
-| You upload a document to Google Drive or Dropbox for storage | Yes — storage and access are the requested service | Nothing extra owed; this is the baseline service |
-| You use an AI writing assistant to edit your own document in a single session | Yes — this is the requested task | Nothing extra owed; task-limited use only |
-| The AI company wants to use your document to train its next model | No — requires a standalone opt-in request | Compensation (waivable) if you say yes; nothing if you say no |
-| The company wants to offer your uploaded content as a reference for other users' AI queries | No — requires a standalone opt-in request | Compensation (waivable) plus attribution to you as the source |
-| Government wants access to your stored files for any investigation | No — requires a judge-signed warrant, regardless of case type | Notice and due process consistent with constitutional protections |
-| Company changes its practices materially, or one year has passed | Re-consent required either way | A fresh, standalone opt-in request must be presented |
+Plain-English Summary What Cloud and AI Companies Can and Cannot Do A quick reference for the consent rules in Section 122.066A Scenario Allowed Without Extra Consent?
+What the Company Owes You You upload a document to Google Drive or Dropbox for storage Yes — storage and access are the requested service Nothing extra owed; this is the baseline service You use an AI writing assistant to edit your own document in a single session Yes — this is the requested task Nothing extra owed; task-limited use only The AI company wants to use your document to train its next model No — requires a standalone opt-in request Compensation (waivable) if you say yes; nothing if you say no The company wants to offer your uploaded content as a reference for other users' AI queries No — requires a standalone opt-in request Compensation (waivable) plus attribution to you as the source Government wants access to your stored files for any investigation No — requires a judge-signed warrant, regardless of case type Notice and due process consistent with constitutional protections Company changes its practices materially, or one year has passed Re-consent required either way A fresh, standalone opt-in request must be presented Source.
+Protecting Truth and Identity Act, Chapter 122, Section 122.066A (Storage or Hosting Entity Access; Content Access Consent Required).
+Note.
+"Company" refers to any storage or hosting entity as defined under the Act, including cloud storage providers, document platforms, and AI service providers.
 The overall principle is straightforward: your property provided to a company for storage or for an AI service can only be used to serve you, unless you clearly and separately agree to let it be used for the company's own purposes, and even then, only with fair pay and proper credit.
-Security and Government Access
-Your stored property is protected from unauthorized outsiders, including the government, absent a warrant.
-Data Security Obligations
-Any company storing or hosting your DCIIL or local device content must maintain reasonable administrative, technical, and physical safeguards to prevent unauthorized access, whether from hackers, competitors, or other users.
+8 Security and Government Access Your stored property is protected from unauthorized outsiders, including the government, absent a warrant.
+Data Security Obligations Any company storing or hosting your DCIIL or local device content must maintain reasonable administrative, technical, and physical safeguards to prevent unauthorized access, whether from hackers, competitors, or other users.
 This requirement works alongside, not in place of, Texas's existing data breach and security laws under Chapter 521 of the Business and Commerce Code.
-A Warrant Is Always Required
-Because your DCIIL and local device content are legally your personal property under this Act, the government cannot simply ask a company to hand over your files.
+A Warrant Is Always Required Because your DCIIL and local device content are legally your personal property under this Act, the government cannot simply ask a company to hand over your files.
 A warrant, signed by a judge on a showing of probable cause, is required before any governmental entity can access your stored property held by any company or covered system.
-No exceptions by case type
-This warrant requirement applies whether the government's interest is criminal, civil, or administrative.
+No exceptions by case type This warrant requirement applies whether the government's interest is criminal, civil, or administrative.
 Your property does not lose its constitutional protection just because the government's reason for wanting it changes.
 This is not a new, invented standard, it reinforces protections already recognized under the Fourth Amendment to the U.S.
 Constitution, Article I, Section 9 of the Texas Constitution, the federal Stored Communications Act, and Article 18B.351 of the Texas Code of Criminal Procedure.
 The PTIA confirms that because this content is your legal property, those existing warrant protections apply squarely to it.
 The law also acknowledges the federal CLOUD Act's framework for cross-border data requests, so Texas's protections work alongside, not against, existing federal law.
-Protections for Minors
-Children deserve special protection in the digital world.
+9 Protections for Minors Children deserve special protection in the digital world.
 The PTIA builds on this principle with several targeted provisions.
-- Parental custodianship: Parents and guardians serve as custodians of their children's full DCIIL (data, content, identity, image, and likeness), not just part of it.
+Parental custodianship: Parents and guardians serve as custodians of their children's full DCIIL (data, content, identity, image, and likeness), not just part of it.
 This includes a child's local device content and everything created through storage or AI services under the same protections adults receive.
 This is grounded in the fundamental constitutional right of parents to direct the upbringing of their children, as recognized by the Supreme Court in Troxel v.
 Granville (2000).
-- Enhanced protections for sexually explicit material: Sexually explicit material depicting a minor is treated with zero tolerance.
+Enhanced protections for sexually explicit material: Sexually explicit material depicting a minor is treated with zero tolerance.
 The PTIA requires immediate removal and mandatory reporting to the National Center for Missing & Exploited Children (NCMEC), consistent with federal law under 18 U.S.C. §§2251–2256.
-- Supplements existing law: These provisions reinforce, not replace, federal protections under COPPA (the Children's Online Privacy Protection Act) and the TAKE IT DOWN Act.
-Free Speech Protections
-The PTIA was built with the First Amendment at its foundation, not as an afterthought.
-Here are the constitutional guardrails:
-- The opinion defense: Opinions, theories, interpretations, beliefs, assumptions, and value judgments are fully protected.
-- Satire and parody are protected: Creative expression that a reasonable person would understand as non-factual remains untouched.
-- Offensive speech is protected: The law explicitly states that nothing prohibits expressing offensive, derogatory, indecent, cruel, or distasteful opinions.
-- Only false factual statements are subject to correction: The law targets specific, verifiable factual claims, not viewpoints, ideologies, or opinions.
-- No criminal penalties: The entire enforcement framework is civil.
-- No prior restraint: The law creates a correction mechanism that operates after publication, only upon a specific complaint backed by evidence.
+Supplements existing law: These provisions reinforce, not replace, federal protections under COPPA (the Children's Online Privacy Protection Act) and the TAKE IT DOWN Act.
+10 Free Speech Protections The PTIA was built with the First Amendment at its foundation, not as an afterthought.
+Here are the constitutional guardrails: The opinion defense: Opinions, theories, interpretations, beliefs, assumptions, and value judgments are fully protected.
+Satire and parody are protected: Creative expression that a reasonable person would understand as non-factual remains untouched.
+Offensive speech is protected: The law explicitly states that nothing prohibits expressing offensive, derogatory, indecent, cruel, or distasteful opinions.
+Only false factual statements are subject to correction: The law targets specific, verifiable factual claims, not viewpoints, ideologies, or opinions.
+No criminal penalties: The entire enforcement framework is civil.
+No prior restraint: The law creates a correction mechanism that operates after publication, only upon a specific complaint backed by evidence.
 The constitutional principle is clear: false statements of fact have historically received reduced First Amendment protection, particularly when they cause harm.
 As the Supreme Court recognized in Milkovich v.
 Lorain Journal Co.
 (1990), there is no separate constitutional privilege for false statements of fact.
-Constitutional Fault Standards
-The vast majority of the PTIA's protections require no special proof standard at all.
+Constitutional Fault Standards The vast majority of the PTIA's protections require no special proof standard at all.
 If a company harvests your DCIIL without consent, publishes fabricated media using your likeness, distributes sexually explicit deepfakes, or commits identity fraud, those are violations of your property rights, and the law protects you, period.
 There is one narrow situation where the Constitution demands more: when a court considers ordering the correction of content about a public official's official conduct or a public figure's public role on a matter of public concern, the PTIA requires clear and convincing evidence of actual malice, the standard established in New York Times Co. v.
 Sullivan (1964) and refined in Gertz v.
 Robert Welch, Inc.
 (1974).
 For private citizens, the bar is a negligence standard: the publisher knew or should have known the content was materially false.
-How the PTIA Fits Within Existing Law
-The PTIA does not exist in a vacuum.
-It supplements and works alongside the existing legal framework:
-- Texas CPRC Chapter 73 (Libel): The PTIA's correction-first approach is faster and more accessible than traditional defamation litigation, but findings from IT Court proceedings can be used as evidence in Chapter 73 defamation cases.
-- Texas CPRC Chapter 98B (Sexually Explicit Material): The PTIA's expedited removal procedures supplement existing protections for nonconsensual intimate images.
-- 47 U.S.C. §230 (Section 230): The PTIA preserves Section 230 protections through its process-obligation model.
-- The TAKE IT DOWN Act (2025): The PTIA reinforces and extends the federal law's protections for nonconsensual intimate images.
-- COPPA: The PTIA's minor protections strengthen, not replace, federal children's privacy protections.
-- Texas CPRC Chapter 27 (TCPA): The PTIA includes an express exemption from the Texas Citizens Participation Act to prevent procedural delay of correction actions.
-- The Stored Communications Act (18 U.S.C. §2701 et seq.) and Article 18B.351, Texas Code of Criminal Procedure: The PTIA's warrant requirement for stored property builds directly on these existing federal and state frameworks governing law enforcement access to electronically stored information.
-- The CLOUD Act (18 U.S.C. §2713): The PTIA's government-access protections are designed to operate consistently with this federal framework governing cross-border data requests.
-By: ___________________
-H.B.
-No. _____
-BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
-ARTICLE 1.
-GENERAL PROVISIONS
-SECTION 1.01.
-Title 5, Business and Commerce Code, is amended by adding Chapter 122 to read as follows:
-CHAPTER 122.
-PROTECTING TRUTH AND IDENTITY
-SUBCHAPTER A.
-GENERAL PROVISIONS
-Sec. 122.001.
+11 How the PTIA Fits Within Existing Law The PTIA does not exist in a vacuum.
+It supplements and works alongside the existing legal framework: Texas CPRC Chapter 73 (Libel): The PTIA's correction-first approach is faster and more accessible than traditional defamation litigation, but findings from IT Court proceedings can be used as evidence in Chapter 73 defamation cases.
+Texas CPRC Chapter 98B (Sexually Explicit Material): The PTIA's expedited removal procedures supplement existing protections for nonconsensual intimate images.
+47 U.S.C. §230 (Section 230): The PTIA preserves Section 230 protections through its process-obligation model.
+The TAKE IT DOWN Act (2025): The PTIA reinforces and extends the federal law's protections for nonconsensual intimate images.
+COPPA: The PTIA's minor protections strengthen, not replace, federal children's privacy protections.
+Texas CPRC Chapter 27 (TCPA): The PTIA includes an express exemption from the Texas Citizens Participation Act to prevent procedural delay of correction actions.
+The Stored Communications Act (18 U.S.C. §2701 et seq.) and Article 18B.351, Texas Code of Criminal Procedure: The PTIA's warrant requirement for stored property builds directly on these existing federal and state frameworks governing law enforcement access to electronically stored information.
+The CLOUD Act (18 U.S.C. §2713): The PTIA's government-access protections are designed to operate consistently with this federal framework governing cross-border data requests.
+House Bill Protecting Truth and Identity Act 89th Legislature • H.B.
+No. _____ • Rep.
+Will Campbell • HD109 ⇕ Expand Full Text 🖶 Print / Save as PDF By: ___________________ H.B.
+No. _____ A BILL TO BE ENTITLED AN ACT relating to the protection of truth, personal content, identity, image, and likeness on Internet-accessible systems; requiring identity verification for users of covered systems; establishing correction and removal request processes; creating the Information and Technology Courts; providing enhanced protections for minors; and providing civil penalties.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: ARTICLE 1.
+GENERAL PROVISIONS SECTION 1.01.
+Title 5, Business and Commerce Code, is amended by adding Chapter 122 to read as follows: CHAPTER 122.
+PROTECTING TRUTH AND IDENTITY SUBCHAPTER A.
+GENERAL PROVISIONS Sec.
+122.001.
 SHORT TITLE.
-This chapter may be cited as the "Protecting Truth and Identity Act."
-Sec. 122.002.
-LEGISLATIVE FINDINGS AND PURPOSE.
-(a) The legislature finds that:
-(1) the proliferation of false and misleading information on the Internet poses a significant threat to the health, safety, welfare, and reputations of the citizens of this state;
-(2) modern technologies, including artificial intelligence and digital manipulation tools, have dramatically increased the capacity to create and disseminate false information and to manipulate the content, identities, images, audio, video, and likenesses of persons, places, and property;
-(3) citizens of this state have a compelling interest in being able to distinguish between statements of verifiable fact and statements of opinion, theory, assumption, or interpretation when accessing information on the Internet;
-(4) requiring entities that own and manage Internet-accessible systems to exercise reasonable diligence in ensuring the accuracy of the factual content they publish protects the public interest without restricting protected speech but rather enhancing the value and substance of free speech, and that opinion, when demonstrated as such under the totality of the circumstances, serves as a defense to claims of false statements of fact;
-(5) these requirements apply to the entity's own published content and editorial representations and do not impose liability on interactive computer services for information provided by another information content provider within the meaning of 47 U.S.C.
-Section 230;
-(6) a mechanism for citizens to request corrections of false factual statements and removal of content, identity, image, and likeness material, and to seek judicial relief when corrections or removals are not made, serves the interests of truth, fairness, and the protection of individual content, identity, image, likeness, and reputation;
-(7) the creation of a specialized judicial forum is necessary to adjudicate disputes arising under this chapter in an efficient, consistent, and expert manner;
-(8) expedited removal procedures for sexually explicit likeness abuse material supplement and reinforce existing protections under Chapter 98B, Civil Practice and Remedies Code, Sections 21.16 and 21.165, Penal Code, and the federal TAKE IT DOWN Act (Pub.
-L. 119-16);
-(9) the protection of personal autonomy over one's content, image, and likeness, including the right to have sexually explicit material depicting oneself removed from the Internet upon request regardless of initial consent, serves a compelling state interest in human dignity and protection from ongoing harm;
-(10) a natural person's content, identity, image, and likeness constitute personal property rights that warrant protection in the digital age, and a natural person's data, content, identity, image, and likeness (DCIIL) in digital form remain the personal property of that person at all times and may only be transferred or licensed to an entity for a limited term not to exceed two years as provided by Section 122.063A;
-(11) the default rule for Internet-accessible systems should be privacy-protective, requiring express consent and fair compensation for the collection and use of personal data;
-(12) a natural person's personal data, including behavioral, interaction, and usage data generated by the person's activity on Internet-accessible systems, is a product of that person's actions and identity in the digital environment and therefore warrants protection and fair compensation when collected or used by others;
-(13) positive identification of all users of covered systems is essential to protect the property rights of citizens in their content, identity, image, and likeness (CIIL), to enforce the remedies provided by this chapter, and to hold individuals accountable for publishing false information that causes harm, while permitting anonymous public presentation of content when the user's verified identity is on file with the platform, thereby promoting both truth and the protection of property rights without eliminating the ability to post anonymously;
-(14) users of platforms retain ownership of their content unless they sell such content to the platform for monetary consideration, and both natural persons and legal entities have property rights in their content, identity, image, and likeness;
-(15) powerful entities, influencers, and persons of public prominence have substantial impact on public discourse and must be held accountable for the accuracy of factual statements they publish, and citizens must have effective mechanisms to compel corrections when false statements harm their reputations;
-(16) findings by the Information and Technology Courts that content is false or violates this chapter serve the interests of justice by providing admissible evidence in related proceedings, including defamation actions, thereby streamlining the pursuit of remedies for harm to reputation;
-(17) protecting truth in digital media enhances rather than restricts free speech by ensuring that speech is informed, reliable, and trustworthy, thereby increasing the value and substance of public discourse;
-(18) just as the right to free speech does not protect a person who falsely shouts "fire" in a crowded theater and causes a panic, as recognized by the Supreme Court of the United States in Schenck v.
-United States, 249 U.S. 47 (1919), and as false statements of fact that cause identifiable harm—including defamation, fraud, and false statements integral to criminal conduct—have never been afforded full First Amendment protection, the publication of false information presented as true on Internet-accessible systems that causes harm to the content, identity, image, likeness, reputation, safety, or economic interests of persons is not constitutionally protected speech, and the state has a compelling interest in providing mechanisms for the correction of such false information and the protection of its citizens from such harm.
-(19) the purpose of this chapter is not to censor or restrict speech based on viewpoint, ideology, or offensiveness, but to protect the property rights of persons in their content, identity, image, and likeness (CIIL) and to provide narrowly tailored mechanisms for the correction of false statements of fact and the removal of CIIL used without consent or compensation;
-(20) nothing in this chapter prohibits any person from expressing offensive, derogatory, indecent, cruel, or otherwise distasteful opinions about any person, group, or idea; such expressions, however repugnant, remain protected opinion so long as they do not constitute false statements of fact, threats, fraud, or other speech that is unprotected under the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution;
-(21) protecting a person's property rights in their CIIL in digital spaces is consistent with longstanding principles that prohibit the taking or conversion of another's property without consent and just compensation, and does not diminish any person's right to speak, publish, or access ideas, information, or opinions;
-(22) the mechanisms created by this chapter for identity verification, correction requests, and removal requests are intended to enable accountability for the use and misuse of CIIL and false statements of fact, not to impose prior restraints on speech or to license or pre-approve content;
-(23) false statements of fact have historically received reduced First Amendment protection, particularly where they cause harm to reputation, property, or safety, and requiring correction or removal of specific statements judicially determined to be false enhances, rather than diminishes, the informational value and integrity of public discourse;
-(24) no person has a constitutional right to continue publishing a specific factual assertion as true after a court of competent jurisdiction has determined, on the basis of competent evidence of truth, that the assertion is false;
-(25) the nonconsensual publication and continued dissemination of sexually explicit or other intimate CIIL depicting a person, including through fabricated or AI-generated media, constitutes a severe invasion of privacy, a misuse of that person's property, and a form of coercive control, and the state has a compelling interest in providing prompt and effective mechanisms for removal of such material;
-(26) the identity verification requirements of this chapter are designed to enable the tracing of responsibility for the creation and use of CIIL and false statements of fact, while still protecting the ability of users to publish content pseudonymously or anonymously for public viewing, and are not intended to eliminate anonymous public speech but to ensure that every publisher of content can be held accountable through lawful process when they infringe the rights of others.
+This chapter may be cited as the "Protecting Truth and Identity Act." Sec.
+122.002.
+LEGISLATIVE FINDINGS AND PURPOSE. (a) The legislature finds that: (1) the proliferation of false and misleading information on the Internet poses a significant threat to the health, safety, welfare, and reputations of the citizens of this state; (2) modern technologies, including artificial intelligence and digital manipulation tools, have dramatically increased the capacity to create and disseminate false information and to manipulate the content, identities, images, audio, video, and likenesses of persons, places, and property; (3) citizens of this state have a compelling interest in being able to distinguish between statements of verifiable fact and statements of opinion, theory, assumption, or interpretation when accessing information on the Internet; (4) requiring entities that own and manage Internet-accessible systems to exercise reasonable diligence in ensuring the accuracy of the factual content they publish protects the public interest without restricting protected speech but rather enhancing the value and substance of free speech, and that opinion, when demonstrated as such under the totality of the circumstances, serves as a defense to claims of false statements of fact; (5) these requirements apply to the entity's own published content and editorial representations and do not impose liability on interactive computer services for information provided by another information content provider within the meaning of 47 U.S.C.
+Section 230; (6) a mechanism for citizens to request corrections of false factual statements and removal of content, identity, image, and likeness material, and to seek judicial relief when corrections or removals are not made, serves the interests of truth, fairness, and the protection of individual content, identity, image, likeness, and reputation; (7) the creation of a specialized judicial forum is necessary to adjudicate disputes arising under this chapter in an efficient, consistent, and expert manner; (8) expedited removal procedures for sexually explicit likeness abuse material supplement and reinforce existing protections under Chapter 98B, Civil Practice and Remedies Code, Sections 21.16 and 21.165, Penal Code, and the federal TAKE IT DOWN Act (Pub.
+L.
+119-16); (9) the protection of personal autonomy over one's content, image, and likeness, including the right to have sexually explicit material depicting oneself removed from the Internet upon request regardless of initial consent, serves a compelling state interest in human dignity and protection from ongoing harm; (10) a natural person's content, identity, image, and likeness constitute personal property rights that warrant protection in the digital age, and a natural person's data, content, identity, image, and likeness (DCIIL) in digital form remain the personal property of that person at all times and may only be transferred or licensed to an entity for a limited term not to exceed two years as provided by Section 122.063A; (11) the default rule for Internet-accessible systems should be privacy-protective, requiring express consent and fair compensation for the collection and use of personal data; (12) a natural person's personal data, including behavioral, interaction, and usage data generated by the person's activity on Internet-accessible systems, is a product of that person's actions and identity in the digital environment and therefore warrants protection and fair compensation when collected or used by others; (13) positive identification of all users of covered systems is essential to protect the property rights of citizens in their content, identity, image, and likeness (CIIL), to enforce the remedies provided by this chapter, and to hold individuals accountable for publishing false information that causes harm, while permitting anonymous public presentation of content when the user's verified identity is on file with the platform, thereby promoting both truth and the protection of property rights without eliminating the ability to post anonymously; (14) users of platforms retain ownership of their content unless they sell such content to the platform for monetary consideration, and both natural persons and legal entities have property rights in their content, identity, image, and likeness; (15) powerful entities, influencers, and persons of public prominence have substantial impact on public discourse and must be held accountable for the accuracy of factual statements they publish, and citizens must have effective mechanisms to compel corrections when false statements harm their reputations; (16) findings by the Information and Technology Courts that content is false or violates this chapter serve the interests of justice by providing admissible evidence in related proceedings, including defamation actions, thereby streamlining the pursuit of remedies for harm to reputation; (17) protecting truth in digital media enhances rather than restricts free speech by ensuring that speech is informed, reliable, and trustworthy, thereby increasing the value and substance of public discourse; (18) just as the right to free speech does not protect a person who falsely shouts "fire" in a crowded theater and causes a panic, as recognized by the Supreme Court of the United States in Schenck v.
+United States, 249 U.S.
+47 (1919), and as false statements of fact that cause identifiable harm—including defamation, fraud, and false statements integral to criminal conduct—have never been afforded full First Amendment protection, the publication of false information presented as true on Internet-accessible systems that causes harm to the content, identity, image, likeness, reputation, safety, or economic interests of persons is not constitutionally protected speech, and the state has a compelling interest in providing mechanisms for the correction of such false information and the protection of its citizens from such harm.
+(19) the purpose of this chapter is not to censor or restrict speech based on viewpoint, ideology, or offensiveness, but to protect the property rights of persons in their content, identity, image, and likeness (CIIL) and to provide narrowly tailored mechanisms for the correction of false statements of fact and the removal of CIIL used without consent or compensation; (20) nothing in this chapter prohibits any person from expressing offensive, derogatory, indecent, cruel, or otherwise distasteful opinions about any person, group, or idea; such expressions, however repugnant, remain protected opinion so long as they do not constitute false statements of fact, threats, fraud, or other speech that is unprotected under the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution; (21) protecting a person's property rights in their CIIL in digital spaces is consistent with longstanding principles that prohibit the taking or conversion of another's property without consent and just compensation, and does not diminish any person's right to speak, publish, or access ideas, information, or opinions; (22) the mechanisms created by this chapter for identity verification, correction requests, and removal requests are intended to enable accountability for the use and misuse of CIIL and false statements of fact, not to impose prior restraints on speech or to license or pre-approve content; (23) false statements of fact have historically received reduced First Amendment protection, particularly where they cause harm to reputation, property, or safety, and requiring correction or removal of specific statements judicially determined to be false enhances, rather than diminishes, the informational value and integrity of public discourse; (24) no person has a constitutional right to continue publishing a specific factual assertion as true after a court of competent jurisdiction has determined, on the basis of competent evidence of truth, that the assertion is false; (25) the nonconsensual publication and continued dissemination of sexually explicit or other intimate CIIL depicting a person, including through fabricated or AI-generated media, constitutes a severe invasion of privacy, a misuse of that person's property, and a form of coercive control, and the state has a compelling interest in providing prompt and effective mechanisms for removal of such material; (26) the identity verification requirements of this chapter are designed to enable the tracing of responsibility for the creation and use of CIIL and false statements of fact, while still protecting the ability of users to publish content pseudonymously or anonymously for public viewing, and are not intended to eliminate anonymous public speech but to ensure that every publisher of content can be held accountable through lawful process when they infringe the rights of others.
 (27) minors are uniquely vulnerable to the harmful effects of false information, identity manipulation, fabricated media, and sexually explicit material on Internet-accessible systems, and the state has a compelling interest in providing enhanced protections for minors that supplement federal protections under the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.), the TAKE IT DOWN Act (Pub.
-L. 119-16), and 18 U.S.C. §§ 2251-2256;
-(28) parents and guardians have a fundamental constitutional right to direct the upbringing, care, custody, and control of their children, as recognized by the Supreme Court of the United States in Troxel v.
-Granville, 530 U.S. 57 (2000), Meyer v.
-Nebraska, 262 U.S. 390 (1923), and Pierce v.
-Society of Sisters, 268 U.S. 510 (1925), and this fundamental right includes the right to manage and protect a minor's content, identity, image, and likeness in the digital environment;
-(29) the identity verification requirements of this chapter, when applied to minors, serve the dual purpose of protecting the minor's CIIL and ensuring that platforms, law enforcement, and parents can identify and respond to threats to minors, including predatory conduct, exploitation, and the nonconsensual use of a minor's CIIL;
-(30) sexually explicit likeness material depicting a minor is inherently harmful, is not protected speech under the First Amendment or the Texas Constitution, and is criminal under federal law regardless of whether the material was created with or without the consent of any person, and the state has a compelling interest in ensuring the immediate removal of such material and the referral of such conduct to law enforcement; and
-(31) the parental consent and verification requirements of this chapter for minors are designed to reinforce and strengthen — not replace or diminish — the protections provided by the Children's Online Privacy Protection Act, the Texas Securing Children Online through Parental Empowerment Act (Chapter 509, Business and Commerce Code), and other federal and state laws that protect minors online, and to empower parents with additional tools to protect their children's CIIL in the digital environment; and
-(32) effective enforcement of this chapter requires that the Information and Technology Courts and the Technical Enforcement Division have authority to order the immediate suspension of public access to a covered system whenever an owner or operator fails to comply with any court order issued under this chapter, and that such suspension authority is available for any single instance of noncompliance without requiring proof of a pattern or practice of violations, thereby ensuring that entities cannot delay or avoid compliance with court-ordered obligations relating to CIIL, DCIIL, personal data, false content, identity verification, or any other requirement of this chapter; and
-(33) identity verification for all users of covered systems is essential to establish and protect each person's property rights in their data, content, identity, image, and likeness (DCIIL) in the digital environment; without verified identity, a person cannot lay claim to their DCIIL as their property, cannot receive compensation when their DCIIL is used by others, and cannot hold accountable those who abuse their DCIIL or publish false content about them; identity verification thus serves the compelling state interest of enabling the exercise and enforcement of property rights in the digital age, and is not a restriction on speech but a prerequisite for the protection of personal property rights online;
-(34) the fault standards prescribed by this chapter for court-ordered corrections of content about public officials and public figures on matters of public concern are consistent with the constitutional requirements of New York Times Co. v.
-Sullivan, 376 U.S. 254 (1964), and Gertz v.
-Robert Welch, Inc., 418 U.S. 323 (1974), and are included to ensure the constitutional validity of this chapter's correction-order provisions while preserving the full enforceability of DCIIL property protections, fabricated media removal, and sexually explicit material removal, which do not implicate the actual malice standard; and
-(35) a natural person's data, content, and creations made on that person's own computer or device are that person's personal property from the moment of creation, whether or not the person ever connects to the Internet or transmits that content to any other system, and this property status is not diminished by the person's subsequent use of cloud storage, artificial intelligence, or other third-party services to store, process, or transmit that content;
-(36) entities that provide cloud storage, document collaboration, artificial intelligence, or similar services necessarily receive possession of a person's property for the limited purpose of providing the requested service, and such possession does not constitute a transfer of ownership or a license to use that property for the entity's own purposes, including training artificial intelligence models or building reference libraries, absent the clear, informed, and affirmative consent of the property owner; and
-(37) because a natural person's DCIIL and local device content constitute that person's personal property under this chapter, governmental access to such property, whether sought for criminal, civil, or other investigative purposes, must be obtained through a warrant issued by a judge upon a showing of probable cause, consistent with the Fourth Amendment to the United States Constitution and Article I, Section 9, Texas Constitution.
-(b) The purpose of this chapter is to:
-(1) promote the dissemination of truthful and accurate information on the Internet;
-(2) protect persons, places, and property from the harmful effects of false factual statements published on Internet-accessible systems;
-(3) establish that the determination of content as opinion, theory, assumption, or interpretation, as demonstrated under the totality of the circumstances, serves as a defense to actions for false statements of fact under this chapter;
-(4) establish a correction request process by which any person may seek the correction of false factual information published on an Internet-accessible system and a removal request process by which any person may seek the removal of their content, identity, image, or likeness from a covered system;
-(5) create a specialized judicial body to adjudicate disputes under this chapter;
-(6) provide expedited civil procedures for removal of sexually explicit likeness abuse material and fabricated media depicting persons that supplement existing criminal and civil remedies, including remedies under the federal TAKE IT DOWN Act;
-(7) protect persons whose content, identities, images, or likenesses have been wrongfully manipulated, altered, or otherwise disseminated without their consent;
-(8) ensure that individuals have the right to have sexually explicit material depicting themselves removed from the Internet upon request, recognizing that consent given at one time does not constitute perpetual consent and that such material causes ongoing harm to the depicted person;
-(9) establish property rights in personal content, identity, image, and likeness for both natural persons and legal entities, requiring consent and compensation for commercial use, and establish that a natural person’s data, content, identity, image, and likeness (DCIIL) remains that person’s personal property at all times with any transfer or license limited to a maximum term of two years;
-(10) protect the privacy of Texas residents by requiring express consent and fair compensation for personal data collection;
-(11) require verified identity of all users of covered systems to enable accountability and protect property rights, while permitting anonymous public posting when verified identity is on file;
-(12) establish that users retain ownership of their content unless sold to platforms for monetary consideration;
-(13) hold powerful entities, influencers, and persons of public prominence accountable for the truth and accuracy of factual statements they publish;
-(14) provide citizens with effective tools to compel corrections of false statements that harm their reputations and to seek removal of their content, identity, image, or likeness, and to hold publishers of false information accountable;
-(15) facilitate the use of court findings under this chapter as evidence in related proceedings, including defamation actions;
-(16) enhance the value and substance of free speech by promoting truthful, accurate, and reliable public discourse;
-(17) protect minors from the harmful effects of false information, identity manipulation, fabricated media, and sexually explicit material on Internet-accessible systems by establishing parental custodianship of minors' CIIL, requiring parental verification for minor users, providing enhanced protections for sexually explicit material depicting minors, and reinforcing the fundamental rights of parents to manage and protect their children's digital presence;
-(18) ensure effective enforcement of this chapter by authorizing the Information and Technology Courts to order the immediate suspension of public access to any covered system upon an owner's or operator's failure to comply with any court order issued under this chapter, without requiring a finding of a pattern or practice of violations; and
-(19) establish identity verification as a prerequisite for the exercise and protection of property rights in DCIIL in the digital environment, enabling each person to lay claim to their DCIIL, receive compensation for its use, and hold accountable those who abuse their DCIIL or publish false content; and
-(20) ensure the constitutional validity of this chapter by incorporating fault standards consistent with established First Amendment jurisprudence for court-ordered corrections of content about public officials and public figures, while expressly exempting DCIIL property violations, fabricated media, and sexually explicit material from such fault requirements; and
-(21) protect a natural person's data and creations made on their own computer or device as that person's personal property, independent of whether such content is ever transmitted to the Internet;
-(22) require storage and hosting entities, including cloud storage and artificial intelligence providers, to obtain clear, affirmative, opt-in consent before accessing, using, or leveraging a person's stored property for the entity's own purposes, and to secure that property against unauthorized access by any other entity; and
-(23) confirm that governmental access to a person's property held by any entity requires a warrant issued upon probable cause in all circumstances, whether criminal, civil, or administrative in nature.
-Sec. 122.003.
+L.
+119-16), and 18 U.S.C. §§ 2251-2256; (28) parents and guardians have a fundamental constitutional right to direct the upbringing, care, custody, and control of their children, as recognized by the Supreme Court of the United States in Troxel v.
+Granville, 530 U.S.
+57 (2000), Meyer v.
+Nebraska, 262 U.S.
+390 (1923), and Pierce v.
+Society of Sisters, 268 U.S.
+510 (1925), and this fundamental right includes the right to manage and protect a minor's content, identity, image, and likeness in the digital environment; (29) the identity verification requirements of this chapter, when applied to minors, serve the dual purpose of protecting the minor's CIIL and ensuring that platforms, law enforcement, and parents can identify and respond to threats to minors, including predatory conduct, exploitation, and the nonconsensual use of a minor's CIIL; (30) sexually explicit likeness material depicting a minor is inherently harmful, is not protected speech under the First Amendment or the Texas Constitution, and is criminal under federal law regardless of whether the material was created with or without the consent of any person, and the state has a compelling interest in ensuring the immediate removal of such material and the referral of such conduct to law enforcement; and (31) the parental consent and verification requirements of this chapter for minors are designed to reinforce and strengthen — not replace or diminish — the protections provided by the Children's Online Privacy Protection Act, the Texas Securing Children Online through Parental Empowerment Act (Chapter 509, Business and Commerce Code), and other federal and state laws that protect minors online, and to empower parents with additional tools to protect their children's CIIL in the digital environment; and (32) effective enforcement of this chapter requires that the Information and Technology Courts and the Technical Enforcement Division have authority to order the immediate suspension of public access to a covered system whenever an owner or operator fails to comply with any court order issued under this chapter, and that such suspension authority is available for any single instance of noncompliance without requiring proof of a pattern or practice of violations, thereby ensuring that entities cannot delay or avoid compliance with court-ordered obligations relating to CIIL, DCIIL, personal data, false content, identity verification, or any other requirement of this chapter; and (33) identity verification for all users of covered systems is essential to establish and protect each person's property rights in their data, content, identity, image, and likeness (DCIIL) in the digital environment; without verified identity, a person cannot lay claim to their DCIIL as their property, cannot receive compensation when their DCIIL is used by others, and cannot hold accountable those who abuse their DCIIL or publish false content about them; identity verification thus serves the compelling state interest of enabling the exercise and enforcement of property rights in the digital age, and is not a restriction on speech but a prerequisite for the protection of personal property rights online; (34) the fault standards prescribed by this chapter for court-ordered corrections of content about public officials and public figures on matters of public concern are consistent with the constitutional requirements of New York Times Co. v.
+Sullivan, 376 U.S.
+254 (1964), and Gertz v.
+Robert Welch, Inc., 418 U.S.
+323 (1974), and are included to ensure the constitutional validity of this chapter's correction-order provisions while preserving the full enforceability of DCIIL property protections, fabricated media removal, and sexually explicit material removal, which do not implicate the actual malice standard; and (35) a natural person's data, content, and creations made on that person's own computer or device are that person's personal property from the moment of creation, whether or not the person ever connects to the Internet or transmits that content to any other system, and this property status is not diminished by the person's subsequent use of cloud storage, artificial intelligence, or other third-party services to store, process, or transmit that content; (36) entities that provide cloud storage, document collaboration, artificial intelligence, or similar services necessarily receive possession of a person's property for the limited purpose of providing the requested service, and such possession does not constitute a transfer of ownership or a license to use that property for the entity's own purposes, including training artificial intelligence models or building reference libraries, absent the clear, informed, and affirmative consent of the property owner; and (37) because a natural person's DCIIL and local device content constitute that person's personal property under this chapter, governmental access to such property, whether sought for criminal, civil, or other investigative purposes, must be obtained through a warrant issued by a judge upon a showing of probable cause, consistent with the Fourth Amendment to the United States Constitution and Article I, Section 9, Texas Constitution. (b) The purpose of this chapter is to: (1) promote the dissemination of truthful and accurate information on the Internet; (2) protect persons, places, and property from the harmful effects of false factual statements published on Internet-accessible systems; (3) establish that the determination of content as opinion, theory, assumption, or interpretation, as demonstrated under the totality of the circumstances, serves as a defense to actions for false statements of fact under this chapter; (4) establish a correction request process by which any person may seek the correction of false factual information published on an Internet-accessible system and a removal request process by which any person may seek the removal of their content, identity, image, or likeness from a covered system; (5) create a specialized judicial body to adjudicate disputes under this chapter; (6) provide expedited civil procedures for removal of sexually explicit likeness abuse material and fabricated media depicting persons that supplement existing criminal and civil remedies, including remedies under the federal TAKE IT DOWN Act; (7) protect persons whose content, identities, images, or likenesses have been wrongfully manipulated, altered, or otherwise disseminated without their consent; (8) ensure that individuals have the right to have sexually explicit material depicting themselves removed from the Internet upon request, recognizing that consent given at one time does not constitute perpetual consent and that such material causes ongoing harm to the depicted person; (9) establish property rights in personal content, identity, image, and likeness for both natural persons and legal entities, requiring consent and compensation for commercial use, and establish that a natural person’s data, content, identity, image, and likeness (DCIIL) remains that person’s personal property at all times with any transfer or license limited to a maximum term of two years; (10) protect the privacy of Texas residents by requiring express consent and fair compensation for personal data collection; (11) require verified identity of all users of covered systems to enable accountability and protect property rights, while permitting anonymous public posting when verified identity is on file; (12) establish that users retain ownership of their content unless sold to platforms for monetary consideration; (13) hold powerful entities, influencers, and persons of public prominence accountable for the truth and accuracy of factual statements they publish; (14) provide citizens with effective tools to compel corrections of false statements that harm their reputations and to seek removal of their content, identity, image, or likeness, and to hold publishers of false information accountable; (15) facilitate the use of court findings under this chapter as evidence in related proceedings, including defamation actions; (16) enhance the value and substance of free speech by promoting truthful, accurate, and reliable public discourse; (17) protect minors from the harmful effects of false information, identity manipulation, fabricated media, and sexually explicit material on Internet-accessible systems by establishing parental custodianship of minors' CIIL, requiring parental verification for minor users, providing enhanced protections for sexually explicit material depicting minors, and reinforcing the fundamental rights of parents to manage and protect their children's digital presence; (18) ensure effective enforcement of this chapter by authorizing the Information and Technology Courts to order the immediate suspension of public access to any covered system upon an owner's or operator's failure to comply with any court order issued under this chapter, without requiring a finding of a pattern or practice of violations; and (19) establish identity verification as a prerequisite for the exercise and protection of property rights in DCIIL in the digital environment, enabling each person to lay claim to their DCIIL, receive compensation for its use, and hold accountable those who abuse their DCIIL or publish false content; and (20) ensure the constitutional validity of this chapter by incorporating fault standards consistent with established First Amendment jurisprudence for court-ordered corrections of content about public officials and public figures, while expressly exempting DCIIL property violations, fabricated media, and sexually explicit material from such fault requirements; and (21) protect a natural person's data and creations made on their own computer or device as that person's personal property, independent of whether such content is ever transmitted to the Internet; (22) require storage and hosting entities, including cloud storage and artificial intelligence providers, to obtain clear, affirmative, opt-in consent before accessing, using, or leveraging a person's stored property for the entity's own purposes, and to secure that property against unauthorized access by any other entity; and (23) confirm that governmental access to a person's property held by any entity requires a warrant issued upon probable cause in all circumstances, whether criminal, civil, or administrative in nature.
+Sec.
+122.003.
 DEFINITIONS.
-In this chapter:
-(1) "Content, identity, image, and likeness" or "CIIL" means the collective property interest of a natural person or legal entity in (A) the content that person or entity creates, publishes, or causes to be published; (B) the identity of that person or entity as defined by Paragraph (11); (C) the image or likeness of that person or entity as defined by Paragraph (12); and (D) any combination thereof.
+In this chapter: (1) "Content, identity, image, and likeness" or "CIIL" means the collective property interest of a natural person or legal entity in (A) the content that person or entity creates, publishes, or causes to be published; (B) the identity of that person or entity as defined by Paragraph (11); (C) the image or likeness of that person or entity as defined by Paragraph (12); and (D) any combination thereof.
 CIIL constitutes personal property for purposes of this chapter.
 (2) "Competent evidence of truth" means evidence described by Paragraph (21) that is sufficient for a reasonable person to conclude that the reality conveyed by a statement, image, video, audio, or other content corresponds to actual persons, places, things, and events.
 (3) "Content" means any text, image, audio, video, or other media published or made accessible on a covered system, including any article, post, comment, statement, report, graphic, photograph, audio recording, video recording, or any combination thereof, whether original, edited, or AI-generated.
@@ -370,1033 +277,420 @@ Local device content constitutes the personal property of that person under this
 (31) "Storage or hosting entity" means an entity that provides cloud storage, file hosting, document collaboration, artificial intelligence processing, or other services through which a person's DCIIL or local device content is uploaded, stored, processed, or transmitted, regardless of whether that entity also qualifies as a covered system under Paragraph (6).
 (32) "Content access consent" means the affirmative, opt-in authorization described by Section 122.066 that a person must grant before a storage or hosting entity may access, review, analyze, use, or disclose that person's DCIIL or local device content for any purpose beyond the person's own requested use of the entity's service.
 (33) "Session-derived work product" means any output, model refinement, derivative work, or artificial intelligence instance created through the processing of a person's DCIIL or local device content during that person's use of an entity's software, application, or artificial intelligence service.
-Sec. 122.004.
-APPLICABILITY.
-(a) This chapter applies to any owner or operator that:
-(1) owns, operates, or manages a covered system that is accessible to residents of this state; and
-(2) publishes, creates, or exercises editorial control over content on the covered system.
-(b) For purposes of this chapter, accountability for content is allocated as follows:
-(1) An owner or operator is directly accountable under Subchapters B and C for all first-party content—that is, content the owner or operator itself creates, publishes, or exercises editorial control over.
+Sec.
+122.004.
+APPLICABILITY. (a) This chapter applies to any owner or operator that: (1) owns, operates, or manages a covered system that is accessible to residents of this state; and (2) publishes, creates, or exercises editorial control over content on the covered system. (b) For purposes of this chapter, accountability for content is allocated as follows: (1) An owner or operator is directly accountable under Subchapters B and C for all first-party content—that is, content the owner or operator itself creates, publishes, or exercises editorial control over.
 (2) For user-generated content published on a platform operated by an owner or operator, the user who created or published the content is the primarily accountable party and retains ownership of the content unless the user has sold the content to the platform for monetary consideration.
 The owner or operator is accountable for user-generated content only to the extent provided in Subchapter C-1.
 However, if an owner or operator purchases user-generated content for monetary consideration and subsequently publishes or makes that content publicly accessible on the owner's or operator's covered system, the owner or operator assumes direct accountability for the truth and accuracy of that content as though it were first-party content under Subchapters B and C.
 (3) Nothing in this chapter shall be construed to impose liability on an interactive computer service for information provided by another information content provider, as those terms are defined in 47 U.S.C.
-Section 230(f), except to the extent the owner or operator fails to comply with the platform obligations established in Subchapter C-1 or Subchapter C-3.
-(c) Internet service providers, hosting services, and domain registrars are obligated to comply with court orders issued under this chapter requiring suspension of public access to covered systems.
-(d) Both natural persons and legal entities, including corporations, partnerships, associations, and other legal persons, have property rights in their CIIL under this chapter and are entitled to the protections and remedies provided herein.
-(e) The obligations and protections of this chapter, including identity verification, correction requests, removal requests, CIIL protections, and enforcement remedies, apply to owners, operators, users, and all other persons who create, publish, or interact with content on covered systems, unless a specific provision expressly limits its application.
-Sec. 122.004A.
-EXTRATERRITORIAL APPLICATION; NEXUS REQUIREMENTS.
-(a) This chapter applies to covered systems and owners or operators that serve residents of this state or that create, publish, or disseminate content accessible to residents of this state, consistent with this state's authority to protect its residents from harms occurring within this state, without regard to whether the owner or operator is organized under the laws of or physically located in this state.
-(b) For purposes of this chapter, a covered system or owner or operator has a sufficient nexus with this state if:
-(1) the owner or operator derives revenue from users or advertisers located in this state, directly or through affiliates or intermediaries;
-(2) the owner or operator maintains servers, personnel, or offices in this state; or
-(3) the owner or operator specifically directs content, advertising, or services to residents of this state as a distinct audience or market.
-(c) This chapter shall not be construed to:
-(1) regulate any transaction, contract, or commercial practice occurring wholly outside the boundaries of this state and not directed to residents of this state;
-(2) impose obligations on conduct that occurs exclusively in another state and has no substantial effect on residents of this state beyond the incidental availability of content on the Internet; or
-(3) require an owner or operator to alter its content-moderation practices or platform architecture for users outside this state on account of compliance with this chapter, if the owner or operator can implement geolocation-based compliance targeted to users in this state.
-(d) Geolocation Safe Harbor.
+Section 230(f), except to the extent the owner or operator fails to comply with the platform obligations established in Subchapter C-1 or Subchapter C-3. (c) Internet service providers, hosting services, and domain registrars are obligated to comply with court orders issued under this chapter requiring suspension of public access to covered systems. (d) Both natural persons and legal entities, including corporations, partnerships, associations, and other legal persons, have property rights in their CIIL under this chapter and are entitled to the protections and remedies provided herein. (e) The obligations and protections of this chapter, including identity verification, correction requests, removal requests, CIIL protections, and enforcement remedies, apply to owners, operators, users, and all other persons who create, publish, or interact with content on covered systems, unless a specific provision expressly limits its application.
+Sec.
+122.004A.
+EXTRATERRITORIAL APPLICATION; NEXUS REQUIREMENTS. (a) This chapter applies to covered systems and owners or operators that serve residents of this state or that create, publish, or disseminate content accessible to residents of this state, consistent with this state's authority to protect its residents from harms occurring within this state, without regard to whether the owner or operator is organized under the laws of or physically located in this state. (b) For purposes of this chapter, a covered system or owner or operator has a sufficient nexus with this state if: (1) the owner or operator derives revenue from users or advertisers located in this state, directly or through affiliates or intermediaries; (2) the owner or operator maintains servers, personnel, or offices in this state; or (3) the owner or operator specifically directs content, advertising, or services to residents of this state as a distinct audience or market. (c) This chapter shall not be construed to: (1) regulate any transaction, contract, or commercial practice occurring wholly outside the boundaries of this state and not directed to residents of this state; (2) impose obligations on conduct that occurs exclusively in another state and has no substantial effect on residents of this state beyond the incidental availability of content on the Internet; or (3) require an owner or operator to alter its content-moderation practices or platform architecture for users outside this state on account of compliance with this chapter, if the owner or operator can implement geolocation-based compliance targeted to users in this state. (d) Geolocation Safe Harbor.
 An owner or operator subject to this chapter may satisfy its obligations under this chapter by implementing reasonable technological measures, including geolocation filtering and identity verification targeted to users in this state, that apply the requirements of this chapter to interactions with users in this state without affecting the owner's or operator's service to users outside this state.
-An owner or operator that implements such measures in good faith shall not be liable under this chapter for content served exclusively to users located outside this state.
-(e) No provision of this chapter shall be construed or applied in a manner that:
-(1) discriminates against out-of-state owners or operators relative to owners or operators organized under the laws of this state; or
-(2) imposes compliance costs on owners or operators serving residents of this state that are clearly excessive in relation to the state's interest in protecting residents of this state from the harms identified in this chapter.
-Sec. 122.005.
-IDENTITY VERIFICATION REQUIREMENT.
-(a) An owner or operator of a covered system shall require verified identity for all users who access, interact with, create content on, publish content on, comment on, or otherwise use the covered system in any manner that involves the creation, publication, or submission of content, including comments, posts, replies, reviews, uploads, or any other form of user-generated contribution.
-(b) An owner or operator of a covered system shall itself maintain a verified identity on file with the domain registrar or hosting service through which the covered system is made accessible, and shall make such verified identity available to the court upon proper legal process.
-(c) Identity verification under this section must establish the true legal identity of the user through:
-(1) government-issued photographic identification;
-(2) biometric verification;
-(3) notarized affidavit of identity; or
-(4) other reliable means as specified by rules adopted by the Office of Court Administration under this chapter.
-(d) An owner or operator shall maintain records of verified identities for all users for a period of not less than seven years.
-(e) A user whose identity has been verified under this section may:
-(1) publish content under their legal name;
-(2) publish content under a pseudonym or online handle; or
-(3) publish content anonymously for public viewing.
-(f) The verified identity of a user shall be disclosed only:
-(1) to a court pursuant to a subpoena, court order, or other lawful legal process in a proceeding under this chapter or in a related civil or criminal proceeding;
-(2) to law enforcement pursuant to a valid search warrant or court order;
-(3) to the user upon the user's request; or
-(4) as otherwise required by law.
-(g) An owner or operator that fails to require and maintain verified identity as required by this section is subject to:
-(1) a civil penalty of not less than $1,000 and not more than $10,000 per violation; and
-(2) injunctive relief under Section 122.202.
-(h) This section does not require public disclosure of a user's verified identity and does not prohibit anonymous or pseudonymous publication of content.
-The purpose of identity verification under this section is to:
-(1) establish each person's property rights in their data, content, identity, image, and likeness (DCIIL) in the digital environment, so that the person may lay claim to their DCIIL as their personal property;
-(2) enable each person to receive fair compensation when their DCIIL is used by others with their consent;
-(3) enable accountability of all persons for false statements of fact, fabricated media, and abuse of another person's DCIIL; and
-(4) enforce the protections and remedies provided by this chapter, which cannot function without the ability to identify the persons whose DCIIL is at issue and the persons who create, publish, or misuse such DCIIL.
-(i) Without verified identity linking a person to their means of producing and publishing content on a covered system:
-(1) the person cannot establish ownership of their DCIIL as personal property under this chapter;
-(2) the person cannot receive compensation for the use of their DCIIL;
-(3) the person cannot be held accountable under this chapter for publishing false content or abusing another person's DCIIL; and
-(4) the protections and remedies of this chapter cannot be effectively enforced.
-The identity verification requirement under this section is therefore a necessary prerequisite for the exercise and protection of property rights in DCIIL, not a restriction on speech.
-(j) Identity Verification for Minors.
+An owner or operator that implements such measures in good faith shall not be liable under this chapter for content served exclusively to users located outside this state. (e) No provision of this chapter shall be construed or applied in a manner that: (1) discriminates against out-of-state owners or operators relative to owners or operators organized under the laws of this state; or (2) imposes compliance costs on owners or operators serving residents of this state that are clearly excessive in relation to the state's interest in protecting residents of this state from the harms identified in this chapter.
+Sec.
+122.005.
+IDENTITY VERIFICATION REQUIREMENT. (a) An owner or operator of a covered system shall require verified identity for all users who access, interact with, create content on, publish content on, comment on, or otherwise use the covered system in any manner that involves the creation, publication, or submission of content, including comments, posts, replies, reviews, uploads, or any other form of user-generated contribution. (b) An owner or operator of a covered system shall itself maintain a verified identity on file with the domain registrar or hosting service through which the covered system is made accessible, and shall make such verified identity available to the court upon proper legal process. (c) Identity verification under this section must establish the true legal identity of the user through: (1) government-issued photographic identification; (2) biometric verification; (3) notarized affidavit of identity; or (4) other reliable means as specified by rules adopted by the Office of Court Administration under this chapter. (d) An owner or operator shall maintain records of verified identities for all users for a period of not less than seven years. (e) A user whose identity has been verified under this section may: (1) publish content under their legal name; (2) publish content under a pseudonym or online handle; or (3) publish content anonymously for public viewing. (f) The verified identity of a user shall be disclosed only: (1) to a court pursuant to a subpoena, court order, or other lawful legal process in a proceeding under this chapter or in a related civil or criminal proceeding; (2) to law enforcement pursuant to a valid search warrant or court order; (3) to the user upon the user's request; or (4) as otherwise required by law. (g) An owner or operator that fails to require and maintain verified identity as required by this section is subject to: (1) a civil penalty of not less than $1,000 and not more than $10,000 per violation; and (2) injunctive relief under Section 122.202. (h) This section does not require public disclosure of a user's verified identity and does not prohibit anonymous or pseudonymous publication of content.
+The purpose of identity verification under this section is to: (1) establish each person's property rights in their data, content, identity, image, and likeness (DCIIL) in the digital environment, so that the person may lay claim to their DCIIL as their personal property; (2) enable each person to receive fair compensation when their DCIIL is used by others with their consent; (3) enable accountability of all persons for false statements of fact, fabricated media, and abuse of another person's DCIIL; and (4) enforce the protections and remedies provided by this chapter, which cannot function without the ability to identify the persons whose DCIIL is at issue and the persons who create, publish, or misuse such DCIIL. (i) Without verified identity linking a person to their means of producing and publishing content on a covered system: (1) the person cannot establish ownership of their DCIIL as personal property under this chapter; (2) the person cannot receive compensation for the use of their DCIIL; (3) the person cannot be held accountable under this chapter for publishing false content or abusing another person's DCIIL; and (4) the protections and remedies of this chapter cannot be effectively enforced.
+The identity verification requirement under this section is therefore a necessary prerequisite for the exercise and protection of property rights in DCIIL, not a restriction on speech. (j) Identity Verification for Minors.
 (1) A minor who seeks to use a covered system must be verified through the verified identity of the minor's parent or guardian.
-(2) The parent or guardian shall:
-(A) verify their own identity under Subsection (c);
-(B) provide identifying information for the minor, including the minor's name and date of birth;
-(C) attest that they are the minor's parent or guardian and that they have legal authority to act on behalf of the minor; and
-(D) consent to the minor's use of the covered system.
+(2) The parent or guardian shall: (A) verify their own identity under Subsection (c); (B) provide identifying information for the minor, including the minor's name and date of birth; (C) attest that they are the minor's parent or guardian and that they have legal authority to act on behalf of the minor; and (D) consent to the minor's use of the covered system.
 (3) The owner or operator shall flag the minor's account as a minor account in its internal records.
 (4) The verified identity records for a minor shall include the identity of both the minor and the parent or guardian who verified the account.
-(5) The requirements of this subsection are consistent with and supplemental to the parental consent requirements of the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.) and the Texas Securing Children Online through Parental Empowerment Act (Chapter 509, Business and Commerce Code).
-(k) Minor Status Notification to Platform.
+(5) The requirements of this subsection are consistent with and supplemental to the parental consent requirements of the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.) and the Texas Securing Children Online through Parental Empowerment Act (Chapter 509, Business and Commerce Code). (k) Minor Status Notification to Platform.
 (1) Upon completion of identity verification under Subsection (j), the owner or operator shall treat the account as a minor account for all purposes under this chapter and any other applicable law, including Chapter 509, Business and Commerce Code.
 (2) The minor account designation shall remain in effect until the minor attains the age of 18 and completes independent identity verification under Subsection (l).
-(3) An owner or operator that has designated an account as a minor account shall apply all protections required by this chapter for minors, including but not limited to the enhanced protections under Sections 122.064, 122.062(g), and 122.174C.
-(l) Transition to Adult Verification.
+(3) An owner or operator that has designated an account as a minor account shall apply all protections required by this chapter for minors, including but not limited to the enhanced protections under Sections 122.064, 122.062(g), and 122.174C. (l) Transition to Adult Verification.
 (1) Upon attaining the age of 18, a user whose account was designated as a minor account shall complete independent identity verification under Subsection (c) to continue using the covered system.
 (2) Upon successful independent verification, full control of the user's CIIL rights, account, and all associated property rights under this chapter shall transfer to the user, and the parent's or guardian's custodial authority under this chapter shall terminate.
-(3) Any consent previously given by the parent or guardian for the use of the individual's CIIL remains in effect until revoked by the individual.
-(m) Parental Access and Control.
-(1) A parent or guardian who verifies a minor's account under Subsection (j) shall have the right to:
-(A) access and review the minor's account activity, content, and interactions on the covered system;
-(B) submit correction requests and removal requests on behalf of the minor under Subchapters C, C-1, and C-3;
-(C) manage the minor's CIIL rights, including consenting to or revoking consent for the use of the minor's CIIL;
-(D) revoke consent for the minor's use of the covered system at any time, upon which the owner or operator shall disable the minor's account not later than five business days after receipt of the revocation; and
-(E) request deletion of the minor's account and all associated data, subject to any data retention requirements under this chapter or other law.
+(3) Any consent previously given by the parent or guardian for the use of the individual's CIIL remains in effect until revoked by the individual. (m) Parental Access and Control.
+(1) A parent or guardian who verifies a minor's account under Subsection (j) shall have the right to: (A) access and review the minor's account activity, content, and interactions on the covered system; (B) submit correction requests and removal requests on behalf of the minor under Subchapters C, C-1, and C-3; (C) manage the minor's CIIL rights, including consenting to or revoking consent for the use of the minor's CIIL; (D) revoke consent for the minor's use of the covered system at any time, upon which the owner or operator shall disable the minor's account not later than five business days after receipt of the revocation; and (E) request deletion of the minor's account and all associated data, subject to any data retention requirements under this chapter or other law.
 (2) Where both parents have legal rights to manage a minor's affairs under the laws of this state, including Chapter 153, Family Code, both parents shall have equal rights under this subsection, unless a court order provides otherwise.
 (3) In the event of a dispute between parents regarding the exercise of rights under this subsection, either parent may petition the appropriate court for resolution.
-Sec. 122.006.
-FALSE STATEMENTS REGARDING AGE OR MINOR STATUS.
-(a) A person commits a violation of this chapter if the person knowingly makes a false statement regarding age or minor status during the identity verification process under Section 122.005, including:
-(1) representing that a minor is 18 years of age or older;
-(2) representing that a person who is 18 years of age or older is a minor;
-(3) representing oneself as a minor's parent or guardian when the person does not have legal authority over the minor; or
-(4) providing false identification documents or information for the purpose of circumventing the age or identity verification requirements of this chapter.
-(b) A violation of Subsection (a)(1) or (a)(4) by an adult for the purpose of accessing, communicating with, or obtaining the CIIL of a minor is subject to:
-(1) enhanced civil penalties of not less than $10,000 and not more than $50,000 per violation;
-(2) referral to law enforcement for criminal investigation; and
-(3) immediate and permanent suspension of the violator's accounts on all covered systems, upon court order.
-(c) A violation of Subsection (a)(3) — falsely representing parental authority — is subject to:
-(1) civil penalties of not less than $5,000 and not more than $25,000 per violation;
-(2) referral to law enforcement if the false representation was made with intent to harm, exploit, or gain access to the minor; and
-(3) any other remedies available under this chapter and applicable law.
-(d) A parent or guardian who knowingly provides false information to circumvent the minor protections of this chapter, including falsely representing a minor as an adult to avoid parental verification requirements, is subject to:
-(1) civil penalties of not less than $1,000 and not more than $10,000 per violation; and
-(2) potential investigation by the Department of Family and Protective Services if the conduct constitutes a risk to the minor's safety or welfare.
-(e) A minor who provides false age information to access a covered system is not subject to civil penalties under this chapter, but the minor's parent or guardian shall be notified by the owner or operator, and the minor's access to the covered system shall be suspended until proper verification is completed under Section 122.005(j).
-(f) This section does not create criminal penalties but provides for civil remedies and law enforcement referral.
+Sec.
+122.006.
+FALSE STATEMENTS REGARDING AGE OR MINOR STATUS. (a) A person commits a violation of this chapter if the person knowingly makes a false statement regarding age or minor status during the identity verification process under Section 122.005, including: (1) representing that a minor is 18 years of age or older; (2) representing that a person who is 18 years of age or older is a minor; (3) representing oneself as a minor's parent or guardian when the person does not have legal authority over the minor; or (4) providing false identification documents or information for the purpose of circumventing the age or identity verification requirements of this chapter. (b) A violation of Subsection (a)(1) or (a)(4) by an adult for the purpose of accessing, communicating with, or obtaining the CIIL of a minor is subject to: (1) enhanced civil penalties of not less than $10,000 and not more than $50,000 per violation; (2) referral to law enforcement for criminal investigation; and (3) immediate and permanent suspension of the violator's accounts on all covered systems, upon court order. (c) A violation of Subsection (a)(3) — falsely representing parental authority — is subject to: (1) civil penalties of not less than $5,000 and not more than $25,000 per violation; (2) referral to law enforcement if the false representation was made with intent to harm, exploit, or gain access to the minor; and (3) any other remedies available under this chapter and applicable law. (d) A parent or guardian who knowingly provides false information to circumvent the minor protections of this chapter, including falsely representing a minor as an adult to avoid parental verification requirements, is subject to: (1) civil penalties of not less than $1,000 and not more than $10,000 per violation; and (2) potential investigation by the Department of Family and Protective Services if the conduct constitutes a risk to the minor's safety or welfare. (e) A minor who provides false age information to access a covered system is not subject to civil penalties under this chapter, but the minor's parent or guardian shall be notified by the owner or operator, and the minor's access to the covered system shall be suspended until proper verification is completed under Section 122.005(j). (f) This section does not create criminal penalties but provides for civil remedies and law enforcement referral.
 Nothing in this section limits criminal prosecution under applicable federal or state law for identity fraud, false statements, or offenses related to the exploitation of minors.
 ARTICLE 2.
-TRUTH AND IDENTITY REQUIREMENTS
-SUBCHAPTER B.
-CONTENT ACCURACY AND OPINION DEFENSE
-Sec. 122.051.
-DUTY OF ACCURACY.
-(a) An owner or operator shall exercise reasonable diligence to ensure that factual statements published on the covered system constitute true statements as defined by Section 122.003(21).
-(b) "Reasonable diligence" under this section means the exercise of care that a reasonably prudent entity would undertake under the circumstances to verify the accuracy of factual statements before publication through competent evidence of truth, including:
-(1) consulting authoritative and reliable sources;
-(2) seeking corroboration of factual claims from multiple independent sources where practicable;
-(3) employing qualified personnel or editorial processes to review content for accuracy;
-(4) verifying that images, videos, and audio recordings have not been edited, manipulated, or generated by artificial intelligence in a manner that misrepresents reality; and
-(5) promptly correcting factual statements that are subsequently determined to be inaccurate.
-(c) An owner or operator is not in violation of this section if the owner or operator:
-(1) exercised reasonable diligence before publication and promptly corrects any inaccuracy upon discovery; or
-(2) publishes content that constitutes opinion as determined under Section 122.052, which serves as a defense to any claim of false statement of fact under this chapter.
-(d) This section applies with particular force to owners, operators, and users who are persons of public prominence, influencers, or entities with substantial reach or impact on public discourse, who bear heightened responsibility for the accuracy of factual statements they publish.
-Sec. 122.052.
-DETERMINATION OF OPINION.
-(a) This section establishes how content is determined to constitute opinion, theory, assumption, or interpretation for purposes of the affirmative defense under Section 122.205 and for the resolution of correction requests, removal requests, and court proceedings under this chapter.
-Nothing in this section requires an owner, operator, or user to proactively label or mark content as opinion or fact prior to or at the time of publication.
-(b) In determining whether content constitutes opinion rather than a factual statement, the court or reviewing party shall consider the totality of the circumstances, including but not limited to:
-(1) the specific language and wording of the content, including whether the content contains language such as "OPINION," "EDITORIAL," "COMMENTARY," "THEORY," "ASSUMPTION," "INTERPRETATION," or similar labels;
-(2) whether the content appears in a section of the covered system designated for opinion or commentary;
-(3) whether the content includes language signaling opinion, such as "I believe," "In my opinion," "I think," "It seems to me," "I assume," or similar commonly understood expressions of subjective belief, whether in written text, spoken word, captions, or any other format; and
-(4) any other contextual indicator that would cause a reasonable person to understand that the content expresses subjective opinion rather than asserting objective fact, including the medium, forum, and manner of publication.
-(c) A person sharing their subjective beliefs, interpretations, assumptions, or value judgments is truthfully stating what they believe or assume, and such statements constitute protected opinion, not false statements of fact.
-Whether a statement constitutes opinion is determined by the totality of the circumstances, including the language and wording of the statement, the context in which it was made, the medium and forum of publication, and whether the statement is capable of being proven true or false through competent evidence of truth.
-(d) A statement that is not capable of being objectively verified as true or false through competent evidence of truth is not subject to the accuracy requirements of this chapter and is presumptively opinion.
-(e) Content that is obviously satirical, parodic, or constitutes social commentary, political opinion, or artistic expression is presumptively protected opinion.
-(f) The requirements of this section are not intended to impose an unreasonable burden on users who post comments, replies, or other informal user-generated content.
+TRUTH AND IDENTITY REQUIREMENTS SUBCHAPTER B.
+CONTENT ACCURACY AND OPINION DEFENSE Sec.
+122.051.
+DUTY OF ACCURACY. (a) An owner or operator shall exercise reasonable diligence to ensure that factual statements published on the covered system constitute true statements as defined by Section 122.003(21). (b) "Reasonable diligence" under this section means the exercise of care that a reasonably prudent entity would undertake under the circumstances to verify the accuracy of factual statements before publication through competent evidence of truth, including: (1) consulting authoritative and reliable sources; (2) seeking corroboration of factual claims from multiple independent sources where practicable; (3) employing qualified personnel or editorial processes to review content for accuracy; (4) verifying that images, videos, and audio recordings have not been edited, manipulated, or generated by artificial intelligence in a manner that misrepresents reality; and (5) promptly correcting factual statements that are subsequently determined to be inaccurate. (c) An owner or operator is not in violation of this section if the owner or operator: (1) exercised reasonable diligence before publication and promptly corrects any inaccuracy upon discovery; or (2) publishes content that constitutes opinion as determined under Section 122.052, which serves as a defense to any claim of false statement of fact under this chapter. (d) This section applies with particular force to owners, operators, and users who are persons of public prominence, influencers, or entities with substantial reach or impact on public discourse, who bear heightened responsibility for the accuracy of factual statements they publish.
+Sec.
+122.052.
+DETERMINATION OF OPINION. (a) This section establishes how content is determined to constitute opinion, theory, assumption, or interpretation for purposes of the affirmative defense under Section 122.205 and for the resolution of correction requests, removal requests, and court proceedings under this chapter.
+Nothing in this section requires an owner, operator, or user to proactively label or mark content as opinion or fact prior to or at the time of publication. (b) In determining whether content constitutes opinion rather than a factual statement, the court or reviewing party shall consider the totality of the circumstances, including but not limited to: (1) the specific language and wording of the content, including whether the content contains language such as "OPINION," "EDITORIAL," "COMMENTARY," "THEORY," "ASSUMPTION," "INTERPRETATION," or similar labels; (2) whether the content appears in a section of the covered system designated for opinion or commentary; (3) whether the content includes language signaling opinion, such as "I believe," "In my opinion," "I think," "It seems to me," "I assume," or similar commonly understood expressions of subjective belief, whether in written text, spoken word, captions, or any other format; and (4) any other contextual indicator that would cause a reasonable person to understand that the content expresses subjective opinion rather than asserting objective fact, including the medium, forum, and manner of publication. (c) A person sharing their subjective beliefs, interpretations, assumptions, or value judgments is truthfully stating what they believe or assume, and such statements constitute protected opinion, not false statements of fact.
+Whether a statement constitutes opinion is determined by the totality of the circumstances, including the language and wording of the statement, the context in which it was made, the medium and forum of publication, and whether the statement is capable of being proven true or false through competent evidence of truth. (d) A statement that is not capable of being objectively verified as true or false through competent evidence of truth is not subject to the accuracy requirements of this chapter and is presumptively opinion. (e) Content that is obviously satirical, parodic, or constitutes social commentary, political opinion, or artistic expression is presumptively protected opinion. (f) The requirements of this section are not intended to impose an unreasonable burden on users who post comments, replies, or other informal user-generated content.
 For user-generated content, including comments and replies, the determination of whether content constitutes opinion or a factual statement is relevant only in the context of a correction request, removal request, or court proceeding under this chapter.
-Sec. 122.053.
-PROACTIVE CONTENT MANAGEMENT.
-(a) An owner or operator shall establish and maintain reasonable procedures and practices to proactively manage the content of its covered system to ensure compliance with Section 122.051.
-(b) Reasonable procedures and practices under this section include:
-(1) periodic review and audit of published content for accuracy;
-(2) designation of one or more qualified persons responsible for content accuracy oversight;
-(3) adoption of a written content accuracy policy that is made publicly available;
-(4) implementation of technology tools, where reasonably available and economically feasible, to detect potentially inaccurate content, including AI-generated or AI-edited images, videos, and audio;
-(5) provision of a correction or removal mechanism that allows users and visitors to inform the owner or operator that information is incorrect, that CIIL is being used without authorization, or to submit competent evidence of truth for the owner or operator to use in correcting content appropriately; and
-(6) maintenance of verified identity records for all users in compliance with Section 122.005.
-(c) An owner or operator shall maintain records of its content management activities under this section for a period of not less than three years.
-Sec. 122.054.
-PROTECTION OF IDENTITY—FABRICATED MEDIA.
-(a) An owner, operator, or user may not publish or permit to remain published on a covered system fabricated media containing the CIIL of another person or entity without the consent of the person or entity whose CIIL is depicted.
-(b) Notwithstanding Subsection (a), an owner, operator, or user who publishes fabricated media containing the CIIL of another person or entity without consent is subject to the following:
-(1) Upon receipt of a request from the depicted person or entity that fabricated media containing their CIIL be removed, the owner, operator, or user shall remove or disable public access to the fabricated media, or edit the content to remove the depicted person's or entity's CIIL, within five business days of receipt of the request.
+Sec.
+122.053.
+PROACTIVE CONTENT MANAGEMENT. (a) An owner or operator shall establish and maintain reasonable procedures and practices to proactively manage the content of its covered system to ensure compliance with Section 122.051. (b) Reasonable procedures and practices under this section include: (1) periodic review and audit of published content for accuracy; (2) designation of one or more qualified persons responsible for content accuracy oversight; (3) adoption of a written content accuracy policy that is made publicly available; (4) implementation of technology tools, where reasonably available and economically feasible, to detect potentially inaccurate content, including AI-generated or AI-edited images, videos, and audio; (5) provision of a correction or removal mechanism that allows users and visitors to inform the owner or operator that information is incorrect, that CIIL is being used without authorization, or to submit competent evidence of truth for the owner or operator to use in correcting content appropriately; and (6) maintenance of verified identity records for all users in compliance with Section 122.005. (c) An owner or operator shall maintain records of its content management activities under this section for a period of not less than three years.
+Sec.
+122.054.
+PROTECTION OF IDENTITY—FABRICATED MEDIA. (a) An owner, operator, or user may not publish or permit to remain published on a covered system fabricated media containing the CIIL of another person or entity without the consent of the person or entity whose CIIL is depicted. (b) Notwithstanding Subsection (a), an owner, operator, or user who publishes fabricated media containing the CIIL of another person or entity without consent is subject to the following: (1) Upon receipt of a request from the depicted person or entity that fabricated media containing their CIIL be removed, the owner, operator, or user shall remove or disable public access to the fabricated media, or edit the content to remove the depicted person's or entity's CIIL, within five business days of receipt of the request.
 (2) If the depicted person or entity does not request removal, no action is required under this subsection.
-However, the owner, operator, or user remains subject to civil liability under Subchapter E if the fabricated media contains false statements of fact about the depicted person or entity.
-(c) Fabricated media that constitutes sexually explicit likeness material may not be published on any covered system without the express written consent of the depicted person.
-Sexually explicit fabricated media is governed exclusively by Subchapter C-3, and no exception under this section applies to sexually explicit fabricated media.
-(d) This section does not apply to:
-(1) content that constitutes parody, satire, or caricature and is clearly identifiable as such by a reasonable person considering the totality of the circumstances, including contextual cues within the content itself; or
-(2) content published for legitimate law enforcement, national security, or public safety purposes.
-(e) The obligations of this section apply equally to owners, operators, and users.
-Sec. 122.055.
-AI-GENERATED OR FABRICATED MEDIA—PRESUMPTION OF FALSITY.
-(a) Content that portrays events, actions, statements, voices, appearances, or characteristics of real persons, entities, places, or things that a reasonable person would conclude did not actually occur or exist as portrayed, as demonstrated by competent evidence of truth showing the absence of corresponding real-world persons, places, things, or events, or showing alteration or fabrication of images, videos, or audio, is presumptively a false statement of fact.
-(b) Examples include, but are not limited to:
-(1) AI-generated or AI-edited videos or images depicting events that have no corresponding original, unaltered media evidence;
-(2) fabricated witness testimony contradicted by competent evidence of truth;
-(3) synthetic audio of statements a person did not make, absent original recordings;
-(4) images or videos edited by AI to alter the appearance, actions, or statements of a person or entity;
-(5) deep-fake videos or audio that falsely depict a person saying or doing something they did not say or do; or
-(6) AI-generated text falsely attributed to a specific person or entity.
-(c) The presumption under Subsection (a) may be rebutted only by competent evidence of truth demonstrating the portrayed reality actually occurred or exists as depicted.
-(d) Original, unaltered photographs, videos, and audio recordings shall be given substantially greater weight than AI-generated or AI-edited versions when determining what actually occurred or exists.
-Sec. 122.056.
-PERSONAL OR PRIVATE IMAGE REMOVAL.
-(a) An owner, operator, or user may not publish or permit to remain published a personal or private image of a person without that person's authorization.
-(b) Upon receipt of a request from the depicted person, the owner, operator, or user shall remove or disable access to the personal or private image within 15 business days.
-(c) This section does not apply to:
-(1) bona fide news reporting of matters of public concern;
-(2) lawful public-event photography where the depicted person has no reasonable expectation of privacy;
-(3) images of public officials or elected officers performing official duties in their official capacity, provided that images of public officials or elected officers in their personal, private, or family life are not excepted and remain subject to the protections of this section;
-(4) documentary, educational, or historical content where the public interest in the content outweighs the privacy interest; or
-(5) other content protected by the First Amendment to the United States Constitution or Article I, Section 8 of the Texas Constitution.
-(d) Sexually explicit likeness material is governed exclusively by Subchapter C-3, and the timelines and remedies under Subchapter C-3 apply.
-(e) The obligations of this section apply equally to owners, operators, and users.
-Sec. 122.057.
-PARTIAL REMOVAL OR EDITING OF CONTENT.
-(a) When this chapter requires an owner, operator, or user to remove or disable public access to content that depicts or identifies a particular person, compliance may be achieved, at the election of the owner, operator, or user and subject to any applicable court order, by:
-(1) editing or redacting the content so that the requesting person is no longer depicted or identifiable; or
-(2) removing or disabling public access to the content in its entirety.
-(b) An edit or redaction under Subsection (a)(1) must remove all depictions and identifying references to the requesting person from the content that remains publicly accessible.
-(c) Nothing in this section limits the right of a court to order full removal of content where partial editing would be insufficient to prevent ongoing harm.
+However, the owner, operator, or user remains subject to civil liability under Subchapter E if the fabricated media contains false statements of fact about the depicted person or entity. (c) Fabricated media that constitutes sexually explicit likeness material may not be published on any covered system without the express written consent of the depicted person.
+Sexually explicit fabricated media is governed exclusively by Subchapter C-3, and no exception under this section applies to sexually explicit fabricated media. (d) This section does not apply to: (1) content that constitutes parody, satire, or caricature and is clearly identifiable as such by a reasonable person considering the totality of the circumstances, including contextual cues within the content itself; or (2) content published for legitimate law enforcement, national security, or public safety purposes. (e) The obligations of this section apply equally to owners, operators, and users.
+Sec.
+122.055.
+AI-GENERATED OR FABRICATED MEDIA—PRESUMPTION OF FALSITY. (a) Content that portrays events, actions, statements, voices, appearances, or characteristics of real persons, entities, places, or things that a reasonable person would conclude did not actually occur or exist as portrayed, as demonstrated by competent evidence of truth showing the absence of corresponding real-world persons, places, things, or events, or showing alteration or fabrication of images, videos, or audio, is presumptively a false statement of fact. (b) Examples include, but are not limited to: (1) AI-generated or AI-edited videos or images depicting events that have no corresponding original, unaltered media evidence; (2) fabricated witness testimony contradicted by competent evidence of truth; (3) synthetic audio of statements a person did not make, absent original recordings; (4) images or videos edited by AI to alter the appearance, actions, or statements of a person or entity; (5) deep-fake videos or audio that falsely depict a person saying or doing something they did not say or do; or (6) AI-generated text falsely attributed to a specific person or entity. (c) The presumption under Subsection (a) may be rebutted only by competent evidence of truth demonstrating the portrayed reality actually occurred or exists as depicted. (d) Original, unaltered photographs, videos, and audio recordings shall be given substantially greater weight than AI-generated or AI-edited versions when determining what actually occurred or exists.
+Sec.
+122.056.
+PERSONAL OR PRIVATE IMAGE REMOVAL. (a) An owner, operator, or user may not publish or permit to remain published a personal or private image of a person without that person's authorization. (b) Upon receipt of a request from the depicted person, the owner, operator, or user shall remove or disable access to the personal or private image within 15 business days. (c) This section does not apply to: (1) bona fide news reporting of matters of public concern; (2) lawful public-event photography where the depicted person has no reasonable expectation of privacy; (3) images of public officials or elected officers performing official duties in their official capacity, provided that images of public officials or elected officers in their personal, private, or family life are not excepted and remain subject to the protections of this section; (4) documentary, educational, or historical content where the public interest in the content outweighs the privacy interest; or (5) other content protected by the First Amendment to the United States Constitution or Article I, Section 8 of the Texas Constitution. (d) Sexually explicit likeness material is governed exclusively by Subchapter C-3, and the timelines and remedies under Subchapter C-3 apply. (e) The obligations of this section apply equally to owners, operators, and users.
+Sec.
+122.057.
+PARTIAL REMOVAL OR EDITING OF CONTENT. (a) When this chapter requires an owner, operator, or user to remove or disable public access to content that depicts or identifies a particular person, compliance may be achieved, at the election of the owner, operator, or user and subject to any applicable court order, by: (1) editing or redacting the content so that the requesting person is no longer depicted or identifiable; or (2) removing or disabling public access to the content in its entirety. (b) An edit or redaction under Subsection (a)(1) must remove all depictions and identifying references to the requesting person from the content that remains publicly accessible. (c) Nothing in this section limits the right of a court to order full removal of content where partial editing would be insufficient to prevent ongoing harm.
 SUBCHAPTER B-1.
-CONTENT, IDENTITY, IMAGE, AND LIKENESS AS PERSONAL PROPERTY
-Sec. 122.061.
-PROPERTY RIGHTS IN CONTENT, IDENTITY, IMAGE, AND LIKENESS (CIIL).
-(a) A natural person's content, identity, image, and likeness constitute that person's personal property for purposes of this chapter when used on Internet-accessible systems and in public media accessible in this state.
-This includes content created by the person and published on any covered system, the person's identity, the person's image and likeness, and any combination thereof.
-(b) A legal entity's content, identity, image, and likeness, including its name, logo, trademark, trade dress, website, server content, and other identifying characteristics, constitute that entity's property for purposes of this chapter when used on Internet-accessible systems and in public media accessible in this state.
-(c) An entity may not use a person's or legal entity's CIIL on a covered system for commercial advantage, advertising, promotion, or monetization unless:
-(1) the entity obtains the person's or legal entity's express written consent describing the intended use; and
-(2) the entity provides direct monetary payment to the person or legal entity, not in the form of store credit, discounts, or other in-kind consideration, in the amount and on the terms disclosed to and accepted by the person or legal entity.
-(d) Consent under Subsection (c) is revocable at will by the person or legal entity, and revocation terminates the right to any further use of the person's or legal entity's CIIL under this chapter, subject to any court order entered under Subchapter E.
-(e) A person or legal entity who publishes their own CIIL on a covered system they own or operate retains all property rights in such CIIL.
-The person's or legal entity's publication of their own CIIL on one covered system does not:
-(1) grant any property right or license to any other owner or operator of a different covered system;
-(2) constitute consent to the use of the person's or legal entity's CIIL by any other entity; or
-(3) diminish the person's or legal entity's right to require removal of their CIIL from covered systems owned or operated by others.
-(f) This section does not apply to:
-(1) bona fide news reporting, documentary, educational, or historical uses of a person's or legal entity's CIIL concerning matters of public concern; or
-(2) uses otherwise protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution.
-Sec. 122.064.
-DCIIL RIGHTS OF MINORS — PARENTAL CUSTODIANSHIP.
-(a) A minor has the same property rights in their DCIIL as any natural person under this chapter, including the minor's data, content, identity, image, likeness, local device content, and any other property interests recognized under Subchapter B-1.
-The minor's DCIIL is the minor's personal property.
-(b) Until a minor attains the age of 18, the minor's parent or guardian shall serve as the minor's DCIIL custodian, with authority to:
-(1) exercise all rights under Sections 122.061, 122.062, 122.063, 122.063A, 122.063B, 122.063C, 122.065, 122.066, 122.066A, 122.066B, 122.066C, and Subchapter C-3 on behalf of the minor;
-(2) consent to or withhold consent for the use of the minor's DCIIL by any entity, including content access consent under Section 122.066A;
-(3) revoke any consent previously given for the use of the minor's DCIIL;
-(4) file correction requests and removal requests on behalf of the minor; and
-(5) initiate civil actions under Subchapter E on behalf of the minor.
-(c) Where both parents have legal rights to manage a minor's affairs under the laws of this state, either parent may exercise the rights described in Subsection (b), unless a court order provides otherwise.
-In the event of a dispute between parents regarding the exercise of rights under this section, either parent may petition the appropriate court for resolution.
-(d) No entity may obtain consent for the use of a minor's DCIIL directly from the minor.
-Consent for the use of a minor's DCIIL, including content access consent under Section 122.066A, must be obtained from the minor's parent or guardian.
-(e) Upon attaining the age of 18, the individual assumes full control and authority over their DCIIL, and the parental custodianship under this section terminates.
-Any consent previously given by the parent or guardian for the use of the individual's DCIIL remains in effect until revoked by the individual.
-(f) A minor's DCIIL may not be sold, licensed, or transferred by a parent, guardian, or any other person.
-The prohibition in this subsection is absolute and may not be waived by contract, agreement, or any other means.
-(g) The fundamental right of parents to direct the upbringing, care, and custody of their children, as recognized by the Supreme Court of the United States in Troxel v.
-Granville, 530 U.S. 57 (2000), includes the right to manage and protect the minor's DCIIL in the digital environment.
-Sec. 122.065.
-PERSONAL DATA AS DIGITAL EFFECTS.
-(a) For purposes of this chapter, personal data that can reasonably be linked to an identified or identifiable natural person, including behavioral and interaction data generated by the person's use of Internet-accessible systems, is treated as part of that person's digital effects, analogous to the person's property rights in their content, identity, image, and likeness (CIIL).
-(b) Personal data may not be collected, monetized, or otherwise used for commercial advantage by an owner, operator, or other entity without the person's express consent and fair compensation as provided by Section 122.062.
-Sec. 122.066.
-LOCAL DEVICE CONTENT AS PERSONAL PROPERTY.
-(a) A natural person's local device content is that person's personal property at the moment of its creation, whether or not the person ever connects to the Internet, transmits the content to a covered system, or grants any other entity access to it.
-(b) Local device content does not lose its status as personal property under this chapter solely because the person subsequently:
-(1) uploads, saves, syncs, or backs up the content to a storage or hosting entity;
-(2) processes the content using an artificial intelligence tool, application, or service; or
-(3) accesses or edits the content through a covered system or a storage or hosting entity's software.
-(c) Transmission of local device content to a storage or hosting entity for the purpose of storage, processing, editing, or access constitutes a bailment of the person's property, not a transfer of ownership, and does not by itself grant the storage or hosting entity any license, ownership interest, or right of use in the content except as expressly authorized under Section 122.066A.
-(d) Nothing in this section is intended to alter, diminish, or duplicate rights already existing under federal copyright law, 17 U.S.C.
+CONTENT, IDENTITY, IMAGE, AND LIKENESS AS PERSONAL PROPERTY Sec.
+122.061.
+PROPERTY RIGHTS IN CONTENT, IDENTITY, IMAGE, AND LIKENESS (CIIL). (a) A natural person's content, identity, image, and likeness constitute that person's personal property for purposes of this chapter when used on Internet-accessible systems and in public media accessible in this state.
+This includes content created by the person and published on any covered system, the person's identity, the person's image and likeness, and any combination thereof. (b) A legal entity's content, identity, image, and likeness, including its name, logo, trademark, trade dress, website, server content, and other identifying characteristics, constitute that entity's property for purposes of this chapter when used on Internet-accessible systems and in public media accessible in this state. (c) An entity may not use a person's or legal entity's CIIL on a covered system for commercial advantage, advertising, promotion, or monetization unless: (1) the entity obtains the person's or legal entity's express written consent describing the intended use; and (2) the entity provides direct monetary payment to the person or legal entity, not in the form of store credit, discounts, or other in-kind consideration, in the amount and on the terms disclosed to and accepted by the person or legal entity. (d) Consent under Subsection (c) is revocable at will by the person or legal entity, and revocation terminates the right to any further use of the person's or legal entity's CIIL under this chapter, subject to any court order entered under Subchapter E. (e) A person or legal entity who publishes their own CIIL on a covered system they own or operate retains all property rights in such CIIL.
+The person's or legal entity's publication of their own CIIL on one covered system does not: (1) grant any property right or license to any other owner or operator of a different covered system; (2) constitute consent to the use of the person's or legal entity's CIIL by any other entity; or (3) diminish the person's or legal entity's right to require removal of their CIIL from covered systems owned or operated by others. (f) This section does not apply to: (1) bona fide news reporting, documentary, educational, or historical uses of a person's or legal entity's CIIL concerning matters of public concern; or (2) uses otherwise protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution.
+Sec.
+122.064.
+DCIIL RIGHTS OF MINORS — PARENTAL CUSTODIANSHIP. (a) A minor has the same property rights in their DCIIL as any natural person under this chapter, including the minor's data, content, identity, image, likeness, local device content, and any other property interests recognized under Subchapter B-1.
+The minor's DCIIL is the minor's personal property. (b) Until a minor attains the age of 18, the minor's parent or guardian shall serve as the minor's DCIIL custodian, with authority to: (1) exercise all rights under Sections 122.061, 122.062, 122.063, 122.063A, 122.063B, 122.063C, 122.065, 122.066, 122.066A, 122.066B, 122.066C, and Subchapter C-3 on behalf of the minor; (2) consent to or withhold consent for the use of the minor's DCIIL by any entity, including content access consent under Section 122.066A; (3) revoke any consent previously given for the use of the minor's DCIIL; (4) file correction requests and removal requests on behalf of the minor; and (5) initiate civil actions under Subchapter E on behalf of the minor. (c) Where both parents have legal rights to manage a minor's affairs under the laws of this state, either parent may exercise the rights described in Subsection (b), unless a court order provides otherwise.
+In the event of a dispute between parents regarding the exercise of rights under this section, either parent may petition the appropriate court for resolution. (d) No entity may obtain consent for the use of a minor's DCIIL directly from the minor.
+Consent for the use of a minor's DCIIL, including content access consent under Section 122.066A, must be obtained from the minor's parent or guardian. (e) Upon attaining the age of 18, the individual assumes full control and authority over their DCIIL, and the parental custodianship under this section terminates.
+Any consent previously given by the parent or guardian for the use of the individual's DCIIL remains in effect until revoked by the individual. (f) A minor's DCIIL may not be sold, licensed, or transferred by a parent, guardian, or any other person.
+The prohibition in this subsection is absolute and may not be waived by contract, agreement, or any other means. (g) The fundamental right of parents to direct the upbringing, care, and custody of their children, as recognized by the Supreme Court of the United States in Troxel v.
+Granville, 530 U.S.
+57 (2000), includes the right to manage and protect the minor's DCIIL in the digital environment.
+Sec.
+122.065.
+PERSONAL DATA AS DIGITAL EFFECTS. (a) For purposes of this chapter, personal data that can reasonably be linked to an identified or identifiable natural person, including behavioral and interaction data generated by the person's use of Internet-accessible systems, is treated as part of that person's digital effects, analogous to the person's property rights in their content, identity, image, and likeness (CIIL). (b) Personal data may not be collected, monetized, or otherwise used for commercial advantage by an owner, operator, or other entity without the person's express consent and fair compensation as provided by Section 122.062.
+Sec.
+122.066.
+LOCAL DEVICE CONTENT AS PERSONAL PROPERTY. (a) A natural person's local device content is that person's personal property at the moment of its creation, whether or not the person ever connects to the Internet, transmits the content to a covered system, or grants any other entity access to it. (b) Local device content does not lose its status as personal property under this chapter solely because the person subsequently: (1) uploads, saves, syncs, or backs up the content to a storage or hosting entity; (2) processes the content using an artificial intelligence tool, application, or service; or (3) accesses or edits the content through a covered system or a storage or hosting entity's software. (c) Transmission of local device content to a storage or hosting entity for the purpose of storage, processing, editing, or access constitutes a bailment of the person's property, not a transfer of ownership, and does not by itself grant the storage or hosting entity any license, ownership interest, or right of use in the content except as expressly authorized under Section 122.066A. (d) Nothing in this section is intended to alter, diminish, or duplicate rights already existing under federal copyright law, 17 U.S.C.
 Section 101 et seq.
 This section addresses the property and access rights of the person in relation to storage or hosting entities and the government, and operates independently of and in addition to any rights the person holds as an author under federal copyright law.
-Sec. 122.066A.
-STORAGE OR HOSTING ENTITY ACCESS; CONTENT ACCESS CONSENT REQUIRED.
-(a) A storage or hosting entity may not access, review, analyze, use, disclose, or permit any other person to access a natural person's DCIIL or local device content stored, processed, or transmitted through the entity's systems, except:
-(1) to the minimum extent strictly necessary to provide the specific storage, processing, editing, transmission, or other service that the person has actively requested during that person's own use of the service; or
-(2) as authorized by the person's content access consent under Subsection (b).
-(b) Content Access Consent Required.
-A storage or hosting entity that seeks to access, analyze, use, retain, or leverage a person's DCIIL or local device content for any purpose beyond the person's own requested use described in Subsection (a)(1), including for training artificial intelligence models, building a reference library or knowledge base, providing outputs or work product to other users, or any other commercial or internal purpose of the entity, must first obtain the person's content access consent as follows:
-(1) the consent request must be presented as a clear, standalone, affirmative election separate and distinct from the entity's general terms of service or terms of use, and may not be satisfied by a pre-checked box, bundled acceptance, or continued use of the service;
-(2) the consent request must specifically and plainly describe: (A) the categories of DCIIL or local device content the entity seeks to access; (B) the specific purposes for which the entity seeks to use that content, including whether it will be used to train artificial intelligence models, build reference or training data sets, or be made available to other users; and (C) whether and how the person will be compensated for such use;
-(3) the person must affirmatively opt in before any such access, use, or disclosure may occur; a person's refusal or failure to opt in is a denial of consent; and
-(4) a storage or hosting entity shall re-present the consent election described by this subsection to the person: (A) not less than once every 12 months; and (B) whenever the entity materially changes the manner in which it accesses, processes, or uses the person's DCIIL or local device content, including any material change to the purposes disclosed under Subdivision (2).
-(c) Applicability to Existing Accounts.
+Sec.
+122.066A.
+STORAGE OR HOSTING ENTITY ACCESS; CONTENT ACCESS CONSENT REQUIRED. (a) A storage or hosting entity may not access, review, analyze, use, disclose, or permit any other person to access a natural person's DCIIL or local device content stored, processed, or transmitted through the entity's systems, except: (1) to the minimum extent strictly necessary to provide the specific storage, processing, editing, transmission, or other service that the person has actively requested during that person's own use of the service; or (2) as authorized by the person's content access consent under Subsection (b). (b) Content Access Consent Required.
+A storage or hosting entity that seeks to access, analyze, use, retain, or leverage a person's DCIIL or local device content for any purpose beyond the person's own requested use described in Subsection (a)(1), including for training artificial intelligence models, building a reference library or knowledge base, providing outputs or work product to other users, or any other commercial or internal purpose of the entity, must first obtain the person's content access consent as follows: (1) the consent request must be presented as a clear, standalone, affirmative election separate and distinct from the entity's general terms of service or terms of use, and may not be satisfied by a pre-checked box, bundled acceptance, or continued use of the service; (2) the consent request must specifically and plainly describe: (A) the categories of DCIIL or local device content the entity seeks to access; (B) the specific purposes for which the entity seeks to use that content, including whether it will be used to train artificial intelligence models, build reference or training data sets, or be made available to other users; and (C) whether and how the person will be compensated for such use; (3) the person must affirmatively opt in before any such access, use, or disclosure may occur; a person's refusal or failure to opt in is a denial of consent; and (4) a storage or hosting entity shall re-present the consent election described by this subsection to the person: (A) not less than once every 12 months; and (B) whenever the entity materially changes the manner in which it accesses, processes, or uses the person's DCIIL or local device content, including any material change to the purposes disclosed under Subdivision (2). (c) Applicability to Existing Accounts.
 The requirements of this section apply to all users of a storage or hosting entity's services, including users who created an account or began using the service before the effective date of this section.
-A storage or hosting entity shall present the content access consent election required by Subsection (b) to all existing users not later than the 180th day after the effective date of this section, and may not continue any access, use, or disclosure described by Subsection (b) beyond that date absent the person's affirmative opt-in.
-(d) Denial of Consent.
-If a person does not grant content access consent under Subsection (b), the storage or hosting entity:
-(1) may continue to store, transmit, and process the person's DCIIL and local device content solely to the extent necessary to provide the storage, processing, or other service the person has actively requested; and
-(2) may not access, analyze, retain beyond the period necessary to provide the requested service, use, disclose, or leverage that content for the entity's own purposes, for training artificial intelligence models, for building a reference or knowledge library, or for provision to other users, in whole or in part.
-(e) Compensation for Authorized Use.
-If a person grants content access consent under Subsection (b) authorizing a storage or hosting entity to use the person's DCIIL or local device content for training artificial intelligence models, building a reference library, or providing work product to other users:
-(1) the entity must offer compensation to the person at a rate agreed to by the person for such use, consistent with the compensation requirements of Section 122.061(c) and Section 122.062(b);
-(2) the person may waive the right to be paid a fee for such use; and
-(3) if the entity provides an output or work product derived from the person's DCIIL or local device content to another user, the entity must attribute ownership and provide appropriate citation or credit to the person whose content was used, in a manner reasonably calculated to inform the recipient of the source of the content.
-(f) Session-Derived Work Product as Property.
-Any session-derived work product created through the processing of a person's DCIIL or local device content during that person's own active use of a storage or hosting entity's artificial intelligence service, including any artificial intelligence agent, instance, or model refinement trained or built using that person's DCIIL or local device content within that person's session or account, is the personal property of that person to the same extent as the underlying DCIIL or local device content, and may not be used by the storage or hosting entity for any purpose other than that person's own use without content access consent under Subsection (b).
-(g) Practical Use Not Restricted.
-Nothing in this section restricts a storage or hosting entity's ability to use a person's DCIIL or local device content to perform the specific task, analysis, editing, generation, or other function that the person has actively requested during the person's own use of the service, including the use of artificial intelligence tools to analyze, summarize, or generate work from that person's own content for that person's own benefit within that session or account.
-(h) An entity that violates this section is subject to the remedies under Subchapter E, including the civil action described by Section 122.207.
-Sec. 122.066B.
-DATA SECURITY SAFEGUARDS FOR STORED PROPERTY.
-(a) A storage or hosting entity shall implement and maintain reasonable administrative, technical, and physical safeguards, including encryption in transit and at rest, access controls, and audit logging, appropriate to the nature and sensitivity of the DCIIL and local device content it stores, sufficient to prevent access to that content by any other entity, third party, or unauthorized person absent the property owner's content access consent under Section 122.066A or valid legal process described by Section 122.066C.
-(b) This section supplements and does not replace the data security and breach notification requirements of Chapter 521, Business and Commerce Code, and any other applicable state or federal data security law.
-(c) An entity that fails to implement reasonable safeguards as required by this section is subject to the remedies under Subchapter E.
-Sec. 122.066C.
-GOVERNMENT ACCESS TO STORED PROPERTY; WARRANT REQUIRED.
-(a) Because DCIIL and local device content are the personal property of the natural person under this chapter, a governmental entity may not compel a storage or hosting entity, covered system, or other person to disclose a natural person's DCIIL or local device content, in whole or in part, for any investigative, civil, criminal, administrative, or other purpose, without a warrant issued by a judge of competent jurisdiction upon a showing of probable cause, consistent with the Fourth Amendment to the United States Constitution, Article I, Section 9, Texas Constitution, the Stored Communications Act (18 U.S.C.
-Section 2701 et seq.), and Article 18B.351, Code of Criminal Procedure.
-(b) The warrant requirement described by Subsection (a) applies regardless of whether the governmental entity seeks the content in connection with a criminal investigation, a civil action, an administrative proceeding, or any other matter, and regardless of whether the content is sought directly from the person or from a storage or hosting entity, covered system, or other third party in possession of the content.
-(c) This section does not create any new warrant standard or procedure but confirms that the property status of DCIIL and local device content established by this chapter does not diminish, and instead reinforces, the warrant protections already provided under Article 18B.351, Code of Criminal Procedure, and the Stored Communications Act, and does not narrow the constitutional protections recognized in Carpenter v.
-United States, 585 U.S. 296 (2018).
-(d) Nothing in this section limits the applicability of the federal Clarifying Lawful Overseas Use of Data Act (CLOUD Act), 18 U.S.C.
-Section 2713, to the extent that Act governs a foreign or domestic governmental entity's access to data held by a provider subject to United States jurisdiction, or otherwise conflicts with, preempts, or requires a result inconsistent with federal law.
-(e) A storage or hosting entity or covered system that receives a request or demand for a person's DCIIL or local device content from a governmental entity without a warrant meeting the requirements of Subsection (a) shall decline to produce the content and may notify the affected person of the request unless prohibited from doing so by law.
-Sec. 122.062.
-DEFAULT PROHIBITION ON PERSONAL DATA COLLECTION.
-(a) The default rule for all owners or operators of covered systems, Internet service providers, hosting services, and other entities that control Internet access for residents of this state is that they may not collect personal data regarding any natural person using or accessing their services.
-(b) An entity may collect personal data about a person only if, before any collection occurs:
-(1) the entity provides to the person a written disclosure that: (A) specifically describes each category of personal data to be collected; (B) states the monetary amount the entity is willing to pay the person for each discrete instance or category of collection; and (C) states the purposes for which the data will be used and any categories of third parties to whom it will be disclosed; and
-(2) the person provides express written consent that affirmatively accepts the disclosure and price terms.
-(c) Payment under this section must be made directly to the person in money or immediately redeemable funds and may not be satisfied by credits, discounts, or other in-kind consideration.
-(d) A person may revoke consent provided under this section at any time by written notice, and the entity shall cease all further personal data collection regarding that person not later than 10 business days after receipt of the revocation.
-(e) This section does not apply to:
-(1) transaction data necessary to complete a specific transaction requested by the person;
-(2) information necessary to verify the identity of a person as required by Section 122.005 or other law;
-(3) information necessary to comply with legal obligations, including tax reporting, law enforcement requests, or court orders;
-(4) information necessary to provide the core functionality of a service that the person has expressly requested; or
-(5) aggregated or de-identified data that cannot reasonably be linked to an identified or identifiable natural person.
-(f) An entity that collects personal data without complying with this section is in violation of this chapter and subject to the remedies in Subchapter E.
-(g) Personal Data Collection from Minors.
+A storage or hosting entity shall present the content access consent election required by Subsection (b) to all existing users not later than the 180th day after the effective date of this section, and may not continue any access, use, or disclosure described by Subsection (b) beyond that date absent the person's affirmative opt-in. (d) Denial of Consent.
+If a person does not grant content access consent under Subsection (b), the storage or hosting entity: (1) may continue to store, transmit, and process the person's DCIIL and local device content solely to the extent necessary to provide the storage, processing, or other service the person has actively requested; and (2) may not access, analyze, retain beyond the period necessary to provide the requested service, use, disclose, or leverage that content for the entity's own purposes, for training artificial intelligence models, for building a reference or knowledge library, or for provision to other users, in whole or in part. (e) Compensation for Authorized Use.
+If a person grants content access consent under Subsection (b) authorizing a storage or hosting entity to use the person's DCIIL or local device content for training artificial intelligence models, building a reference library, or providing work product to other users: (1) the entity must offer compensation to the person at a rate agreed to by the person for such use, consistent with the compensation requirements of Section 122.061(c) and Section 122.062(b); (2) the person may waive the right to be paid a fee for such use; and (3) if the entity provides an output or work product derived from the person's DCIIL or local device content to another user, the entity must attribute ownership and provide appropriate citation or credit to the person whose content was used, in a manner reasonably calculated to inform the recipient of the source of the content. (f) Session-Derived Work Product as Property.
+Any session-derived work product created through the processing of a person's DCIIL or local device content during that person's own active use of a storage or hosting entity's artificial intelligence service, including any artificial intelligence agent, instance, or model refinement trained or built using that person's DCIIL or local device content within that person's session or account, is the personal property of that person to the same extent as the underlying DCIIL or local device content, and may not be used by the storage or hosting entity for any purpose other than that person's own use without content access consent under Subsection (b). (g) Practical Use Not Restricted.
+Nothing in this section restricts a storage or hosting entity's ability to use a person's DCIIL or local device content to perform the specific task, analysis, editing, generation, or other function that the person has actively requested during the person's own use of the service, including the use of artificial intelligence tools to analyze, summarize, or generate work from that person's own content for that person's own benefit within that session or account. (h) An entity that violates this section is subject to the remedies under Subchapter E, including the civil action described by Section 122.207.
+Sec.
+122.066B.
+DATA SECURITY SAFEGUARDS FOR STORED PROPERTY. (a) A storage or hosting entity shall implement and maintain reasonable administrative, technical, and physical safeguards, including encryption in transit and at rest, access controls, and audit logging, appropriate to the nature and sensitivity of the DCIIL and local device content it stores, sufficient to prevent access to that content by any other entity, third party, or unauthorized person absent the property owner's content access consent under Section 122.066A or valid legal process described by Section 122.066C. (b) This section supplements and does not replace the data security and breach notification requirements of Chapter 521, Business and Commerce Code, and any other applicable state or federal data security law. (c) An entity that fails to implement reasonable safeguards as required by this section is subject to the remedies under Subchapter E.
+Sec.
+122.066C.
+GOVERNMENT ACCESS TO STORED PROPERTY; WARRANT REQUIRED. (a) Because DCIIL and local device content are the personal property of the natural person under this chapter, a governmental entity may not compel a storage or hosting entity, covered system, or other person to disclose a natural person's DCIIL or local device content, in whole or in part, for any investigative, civil, criminal, administrative, or other purpose, without a warrant issued by a judge of competent jurisdiction upon a showing of probable cause, consistent with the Fourth Amendment to the United States Constitution, Article I, Section 9, Texas Constitution, the Stored Communications Act (18 U.S.C.
+Section 2701 et seq.), and Article 18B.351, Code of Criminal Procedure. (b) The warrant requirement described by Subsection (a) applies regardless of whether the governmental entity seeks the content in connection with a criminal investigation, a civil action, an administrative proceeding, or any other matter, and regardless of whether the content is sought directly from the person or from a storage or hosting entity, covered system, or other third party in possession of the content. (c) This section does not create any new warrant standard or procedure but confirms that the property status of DCIIL and local device content established by this chapter does not diminish, and instead reinforces, the warrant protections already provided under Article 18B.351, Code of Criminal Procedure, and the Stored Communications Act, and does not narrow the constitutional protections recognized in Carpenter v.
+United States, 585 U.S.
+296 (2018). (d) Nothing in this section limits the applicability of the federal Clarifying Lawful Overseas Use of Data Act (CLOUD Act), 18 U.S.C.
+Section 2713, to the extent that Act governs a foreign or domestic governmental entity's access to data held by a provider subject to United States jurisdiction, or otherwise conflicts with, preempts, or requires a result inconsistent with federal law. (e) A storage or hosting entity or covered system that receives a request or demand for a person's DCIIL or local device content from a governmental entity without a warrant meeting the requirements of Subsection (a) shall decline to produce the content and may notify the affected person of the request unless prohibited from doing so by law.
+Sec.
+122.062.
+DEFAULT PROHIBITION ON PERSONAL DATA COLLECTION. (a) The default rule for all owners or operators of covered systems, Internet service providers, hosting services, and other entities that control Internet access for residents of this state is that they may not collect personal data regarding any natural person using or accessing their services. (b) An entity may collect personal data about a person only if, before any collection occurs: (1) the entity provides to the person a written disclosure that: (A) specifically describes each category of personal data to be collected; (B) states the monetary amount the entity is willing to pay the person for each discrete instance or category of collection; and (C) states the purposes for which the data will be used and any categories of third parties to whom it will be disclosed; and (2) the person provides express written consent that affirmatively accepts the disclosure and price terms. (c) Payment under this section must be made directly to the person in money or immediately redeemable funds and may not be satisfied by credits, discounts, or other in-kind consideration. (d) A person may revoke consent provided under this section at any time by written notice, and the entity shall cease all further personal data collection regarding that person not later than 10 business days after receipt of the revocation. (e) This section does not apply to: (1) transaction data necessary to complete a specific transaction requested by the person; (2) information necessary to verify the identity of a person as required by Section 122.005 or other law; (3) information necessary to comply with legal obligations, including tax reporting, law enforcement requests, or court orders; (4) information necessary to provide the core functionality of a service that the person has expressly requested; or (5) aggregated or de-identified data that cannot reasonably be linked to an identified or identifiable natural person. (f) An entity that collects personal data without complying with this section is in violation of this chapter and subject to the remedies in Subchapter E. (g) Personal Data Collection from Minors.
 (1) An entity may not collect personal data from a minor without the express written consent of the minor's parent or guardian, obtained in a manner consistent with the requirements of the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.) and Chapter 509, Business and Commerce Code.
 (2) The consent required under this subsection is in addition to, and not a substitute for, any consent required under federal law, including the Children's Online Privacy Protection Act, or state law, including the Texas Securing Children Online through Parental Empowerment Act.
 (3) A minor may not independently consent to the collection of personal data under this chapter.
 (4) The disclosure, compensation, and revocation provisions of this section apply to the parent or guardian acting on behalf of the minor.
 (5) An entity that collects personal data from a minor without parental consent as required by this subsection is in violation of this chapter and subject to enhanced civil penalties of not less than $5,000 and not more than $25,000 per violation, in addition to any penalties under federal or state law.
-Sec. 122.063.
-GENERAL CIIL REMOVAL RIGHT.
-(a) Except as provided by Subsection (d), upon receipt of a written request from a Texas resident or legal entity whose CIIL appears in content published on a covered system, an owner, operator, or user who published or controls the content shall, not later than the 30th day after the date of receipt:
-(1) remove or disable public access to the content; or
-(2) comply in the manner described by Section 122.057(a)(1).
-(b) A request under this section must identify the specific content at issue by link or other locator and include sufficient information to permit the owner, operator, or user to confirm that the requester is the person or entity whose CIIL appears in the content.
-(c) For content that also qualifies as personal or private image under Section 122.056, or sexually explicit likeness material under Subchapter C-3, the shorter timelines in those provisions control.
-(d) This section does not apply to:
-(1) bona fide news reporting of matters of public concern;
-(2) images of public officials or public figures performing official duties or engaged in matters of legitimate public concern, provided that images of public officials or public figures in their personal, private, or family life are not excepted and remain subject to the protections of this section;
-(3) lawful public-event photography where the depicted person has no reasonable expectation of privacy;
-(4) documentary, educational, or historical content where the public interest clearly and substantially outweighs the requester's privacy interest; or
-(5) other content clearly protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution.
-(e) The burden of establishing an exception under Subsection (d) rests with the owner, operator, or user who published or controls the content.
-Sec. 122.063A.
-OWNERSHIP AND LIMITED-TERM TRANSFER OF DCIIL.
-(a) A natural person’s DCIIL is and remains the sole personal property of that person at all times, subject only to an express written transfer or license of specified rights in that DCIIL to an entity under this section.
-(b) An entity may not claim, obtain, or enforce any ownership, license, or other proprietary interest in a person’s DCIIL except under a written agreement that:
-(1) identifies with reasonable particularity the categories of DCIIL covered;
-(2) states the consideration provided to the person for the transfer or license; and
-(3) states the commencement date and expiration date of the transfer or license term.
-(c) Any transfer or license of rights in a person’s DCIIL to an entity under this section:
-(1) may not have a term longer than two years from the effective date of the agreement; and
-(2) is void and unenforceable as to any purported term exceeding two years.
-(d) Unless renewed by a new written agreement executed before the end of the two-year term, all transferred or licensed rights in the person’s DCIIL automatically expire at the end of that term, and the entity’s continued storage or use of the DCIIL after that date is subject to the deletion obligations in Section 122.063B.
-(e) This section does not limit a person’s right to request removal or deletion of their DCIIL at any earlier time under this chapter.
-Sec. 122.063B.
-DELETION OF DCIIL UPON REQUEST.
-(a) If any content or data stored on an entity’s servers, systems, or controlled infrastructure contains the DCIIL of an identified natural person, that person may submit a deletion request to the entity requiring permanent removal of all DCIIL relating to that person held by the entity, subject to Subsection (e).
-(b) On receipt of a deletion request under Subsection (a), the entity shall permanently delete and remove from all production and backup systems under its ownership, custody, or control all DCIIL of that person not later than the 30th day after the date the request is received.
-No contractual term, internal policy, or other agreement may extend this period.
-(c) An entity may not condition compliance with Subsection (b) on any fee, additional consideration, or waiver of rights by the requesting person, except that the entity may use reasonable procedures to verify the identity of the requester.
-(d) An entity that receives a deletion request under this section shall, not later than the 30th day after receipt, provide written or electronic confirmation to the requester stating that:
-(1) the request was received; and
-(2) all DCIIL relating to that person has been permanently deleted from all systems under the entity’s ownership, custody, or control, or specifically identifying any DCIIL retained under Subsection (e) and the legal basis for retention.
-(e) This section does not require deletion of DCIIL to the extent its retention is strictly necessary to comply with:
-(1) a valid court order or other binding legal process; or
-(2) an explicit statutory or regulatory recordkeeping obligation.
-(f) An entity that relies on Subsection (e) shall delete the retained DCIIL not later than the 30th day after the expiration of the legal requirement justifying retention.
-Sec. 122.063C.
-END-OF-TERM OBLIGATIONS AND RETURN OR DELETION OF DCIIL.
-(a) Not later than the 60th day before the expiration of any agreement under Section 122.063A transferring or licensing rights in a person’s DCIIL, the entity shall make a good-faith effort to contact the person at the last known contact information on file to:
-(1) notify the person of the upcoming expiration date;
-(2) state that, absent a new written agreement, all rights previously transferred or licensed will expire at the end of the two-year term; and
-(3) inform the person of their options to:
-(A) enter into a new written agreement for continued use of the DCIIL, subject to the maximum two-year term;
-(B) request a copy or return of their DCIIL in a commercially reasonable, machine-readable format, if technically feasible; or
-(C) allow or require deletion of all DCIIL held by the entity.
-(b) If, within 30 days after the expiration of the two-year term, no new written agreement under Section 122.063A is executed and the person has not requested return of their DCIIL, the entity shall permanently delete and remove all DCIIL relating to that person from all systems under the entity’s ownership, custody, or control not later than the 30th day after the end of that 30-day post-term period.
-(c) A person who wishes to obtain a copy or return of their DCIIL before deletion under Subsection (b) must contact the entity and make that request within the 30-day period following expiration of the two-year term.
-The entity shall provide the requested DCIIL within 30 days after receiving the request, and may then proceed to delete its remaining copies consistent with this section.
-(d) Nothing in this section limits a person’s right to submit a deletion request at any time under Section 122.063B, including during the term of an agreement.
-(e) An entity’s duty to contact the person under Subsection (a) is independent of any action by the person.
-The entity’s failure to comply with this section constitutes a separate violation for each person whose DCIIL is retained or used beyond the time permitted by this chapter.
-(f) Right to Retrieval Independent of Deletion or Term Expiration.
+Sec.
+122.063.
+GENERAL CIIL REMOVAL RIGHT. (a) Except as provided by Subsection (d), upon receipt of a written request from a Texas resident or legal entity whose CIIL appears in content published on a covered system, an owner, operator, or user who published or controls the content shall, not later than the 30th day after the date of receipt: (1) remove or disable public access to the content; or (2) comply in the manner described by Section 122.057(a)(1). (b) A request under this section must identify the specific content at issue by link or other locator and include sufficient information to permit the owner, operator, or user to confirm that the requester is the person or entity whose CIIL appears in the content. (c) For content that also qualifies as personal or private image under Section 122.056, or sexually explicit likeness material under Subchapter C-3, the shorter timelines in those provisions control. (d) This section does not apply to: (1) bona fide news reporting of matters of public concern; (2) images of public officials or public figures performing official duties or engaged in matters of legitimate public concern, provided that images of public officials or public figures in their personal, private, or family life are not excepted and remain subject to the protections of this section; (3) lawful public-event photography where the depicted person has no reasonable expectation of privacy; (4) documentary, educational, or historical content where the public interest clearly and substantially outweighs the requester's privacy interest; or (5) other content clearly protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution. (e) The burden of establishing an exception under Subsection (d) rests with the owner, operator, or user who published or controls the content.
+Sec.
+122.063A.
+OWNERSHIP AND LIMITED-TERM TRANSFER OF DCIIL. (a) A natural person’s DCIIL is and remains the sole personal property of that person at all times, subject only to an express written transfer or license of specified rights in that DCIIL to an entity under this section. (b) An entity may not claim, obtain, or enforce any ownership, license, or other proprietary interest in a person’s DCIIL except under a written agreement that: (1) identifies with reasonable particularity the categories of DCIIL covered; (2) states the consideration provided to the person for the transfer or license; and (3) states the commencement date and expiration date of the transfer or license term. (c) Any transfer or license of rights in a person’s DCIIL to an entity under this section: (1) may not have a term longer than two years from the effective date of the agreement; and (2) is void and unenforceable as to any purported term exceeding two years. (d) Unless renewed by a new written agreement executed before the end of the two-year term, all transferred or licensed rights in the person’s DCIIL automatically expire at the end of that term, and the entity’s continued storage or use of the DCIIL after that date is subject to the deletion obligations in Section 122.063B. (e) This section does not limit a person’s right to request removal or deletion of their DCIIL at any earlier time under this chapter.
+Sec.
+122.063B.
+DELETION OF DCIIL UPON REQUEST. (a) If any content or data stored on an entity’s servers, systems, or controlled infrastructure contains the DCIIL of an identified natural person, that person may submit a deletion request to the entity requiring permanent removal of all DCIIL relating to that person held by the entity, subject to Subsection (e). (b) On receipt of a deletion request under Subsection (a), the entity shall permanently delete and remove from all production and backup systems under its ownership, custody, or control all DCIIL of that person not later than the 30th day after the date the request is received.
+No contractual term, internal policy, or other agreement may extend this period. (c) An entity may not condition compliance with Subsection (b) on any fee, additional consideration, or waiver of rights by the requesting person, except that the entity may use reasonable procedures to verify the identity of the requester. (d) An entity that receives a deletion request under this section shall, not later than the 30th day after receipt, provide written or electronic confirmation to the requester stating that: (1) the request was received; and (2) all DCIIL relating to that person has been permanently deleted from all systems under the entity’s ownership, custody, or control, or specifically identifying any DCIIL retained under Subsection (e) and the legal basis for retention. (e) This section does not require deletion of DCIIL to the extent its retention is strictly necessary to comply with: (1) a valid court order or other binding legal process; or (2) an explicit statutory or regulatory recordkeeping obligation. (f) An entity that relies on Subsection (e) shall delete the retained DCIIL not later than the 30th day after the expiration of the legal requirement justifying retention.
+Sec.
+122.063C.
+END-OF-TERM OBLIGATIONS AND RETURN OR DELETION OF DCIIL. (a) Not later than the 60th day before the expiration of any agreement under Section 122.063A transferring or licensing rights in a person’s DCIIL, the entity shall make a good-faith effort to contact the person at the last known contact information on file to: (1) notify the person of the upcoming expiration date; (2) state that, absent a new written agreement, all rights previously transferred or licensed will expire at the end of the two-year term; and (3) inform the person of their options to: (A) enter into a new written agreement for continued use of the DCIIL, subject to the maximum two-year term; (B) request a copy or return of their DCIIL in a commercially reasonable, machine-readable format, if technically feasible; or (C) allow or require deletion of all DCIIL held by the entity. (b) If, within 30 days after the expiration of the two-year term, no new written agreement under Section 122.063A is executed and the person has not requested return of their DCIIL, the entity shall permanently delete and remove all DCIIL relating to that person from all systems under the entity’s ownership, custody, or control not later than the 30th day after the end of that 30-day post-term period. (c) A person who wishes to obtain a copy or return of their DCIIL before deletion under Subsection (b) must contact the entity and make that request within the 30-day period following expiration of the two-year term.
+The entity shall provide the requested DCIIL within 30 days after receiving the request, and may then proceed to delete its remaining copies consistent with this section. (d) Nothing in this section limits a person’s right to submit a deletion request at any time under Section 122.063B, including during the term of an agreement. (e) An entity’s duty to contact the person under Subsection (a) is independent of any action by the person.
+The entity’s failure to comply with this section constitutes a separate violation for each person whose DCIIL is retained or used beyond the time permitted by this chapter. (f) Right to Retrieval Independent of Deletion or Term Expiration.
 At any time, independent of a deletion request under Section 122.063B or the expiration of a transfer or license term under this section, a person may request that an entity holding their DCIIL or local device content provide a complete copy of that content in a commercially reasonable, machine-readable, and portable format.
 The entity shall provide the requested copy not later than the 30th day after receipt of the request, and may not condition production on any fee, waiver of rights, or additional consideration beyond reasonable identity verification.
 ARTICLE 3.
-CORRECTION AND REMOVAL REQUEST PROCESS—FIRST-PARTY CONTENT
-SUBCHAPTER C.
-CORRECTION AND REMOVAL REQUESTS FOR FIRST-PARTY CONTENT
-Sec. 122.101.
-CORRECTION OR REMOVAL MECHANISM.
-(a) An owner or operator shall provide a publicly accessible correction or removal mechanism on its covered system through which any person may submit a correction request regarding false content or a removal request regarding unauthorized use of CIIL in first-party content.
-(b) The correction or removal mechanism shall:
-(1) be clearly and conspicuously accessible on each publicly accessible page of the covered system that contains content, by means of a visible link, button, icon, or other interface element that, when activated, opens or directs the user to the submission form and automatically associates the specific page or content with the submission, and may additionally be accessible from a dedicated page linked from the homepage;
-(2) allow a person to submit a correction request or removal request in writing through an electronic form, electronic mail, or other reasonable electronic means;
-(3) require the person submitting the request to provide: (A) the specific content at issue, which may be automatically populated by the system when the mechanism on a specific page is activated, or may be provided manually by direct link or sufficient identifying information to locate the content; (B) a clear statement explaining why the content is believed to contain a false statement of fact or to contain unauthorized use of the person's CIIL; (C) identification of competent evidence of truth that demonstrates the reality of what actually occurred with respect to the persons, places, things, or events described in the content, or identification sufficient to demonstrate that the person's CIIL is being used without authorization; and (D) the person's contact information for purposes of communication regarding the request; and
-(4) provide an automated acknowledgment of receipt of the request to the person who submitted it.
-Sec. 122.102.
-RESPONSE TO CORRECTION OR REMOVAL REQUEST.
-(a) Upon receipt of a correction request or removal request regarding first-party content, an owner or operator shall:
-(1) acknowledge receipt of the request not later than five business days after the date of receipt;
-(2) conduct a good-faith investigation of the claims made in the request, reviewing the competent evidence of truth submitted; and
-(3) provide a written response to the person who submitted the request not later than the 30th business day after the date of receipt.
-(b) The written response under Subsection (a)(3) must:
-(1) state whether the owner or operator has determined the content at issue to contain a false statement of fact or unauthorized use of the person's CIIL;
-(2) if the owner or operator determines the content contains a false statement of fact, describe the corrective action the owner or operator has taken or will take and the timeline for that action;
-(3) if the request is for removal of CIIL, state whether the owner or operator will comply with the removal request and the timeline for removal; and
-(4) if the owner or operator determines the content does not contain a false statement of fact and does not constitute unauthorized use of CIIL, provide a reasoned explanation of the basis for that determination, including reference to the competent evidence of truth reviewed.
-Sec. 122.103.
-CORRECTIVE ACTION FOR FIRST-PARTY CONTENT.
-(a) If an owner or operator determines, whether through a correction request, removal request, or through its own content management processes, that first-party content on its covered system contains a false statement of fact, the owner or operator shall, not later than the 15th business day after the determination:
-(1) remove or correct the false content;
-(2) publish a correction notice in immediate proximity to the corrected content, or in place of the removed content, that: (A) identifies the original false statement; (B) provides the corrected information, specifically identifying the competent evidence of truth that establishes the reality of persons, places, things, and events; and (C) references the admissible evidence supporting the correction; and
-(3) make a reasonable attempt to notify any person or entity that has cited, shared, or linked to the false content, to the extent that such persons or entities are reasonably identifiable through standard web analytics or publicly available information.
-(b) An owner or operator shall maintain a publicly accessible archive or log of corrections made under this section for a period of not less than three years.
-Sec. 122.104.
-GOOD FAITH SAFE HARBOR FOR FIRST-PARTY CONTENT.
-(a) An owner or operator that establishes and maintains the correction or removal mechanism required by this subchapter and that responds to correction requests and removal requests in good faith and in substantial compliance with this subchapter is not liable for civil enforcement under Subchapter E for the first-party content at issue, provided the owner or operator takes timely corrective action upon determining that the content contains a false statement of fact or unauthorized use of CIIL.
-(b) Good faith under this section requires, at a minimum:
-(1) acknowledging and investigating each correction request and removal request in compliance with Section 122.102;
-(2) acting on the merits of the request without regard to the identity or status of the person submitting the request; and
-(3) taking corrective action promptly upon determining the content contains a false statement of fact or unauthorized use of CIIL.
+CORRECTION AND REMOVAL REQUEST PROCESS—FIRST-PARTY CONTENT SUBCHAPTER C.
+CORRECTION AND REMOVAL REQUESTS FOR FIRST-PARTY CONTENT Sec.
+122.101.
+CORRECTION OR REMOVAL MECHANISM. (a) An owner or operator shall provide a publicly accessible correction or removal mechanism on its covered system through which any person may submit a correction request regarding false content or a removal request regarding unauthorized use of CIIL in first-party content. (b) The correction or removal mechanism shall: (1) be clearly and conspicuously accessible on each publicly accessible page of the covered system that contains content, by means of a visible link, button, icon, or other interface element that, when activated, opens or directs the user to the submission form and automatically associates the specific page or content with the submission, and may additionally be accessible from a dedicated page linked from the homepage; (2) allow a person to submit a correction request or removal request in writing through an electronic form, electronic mail, or other reasonable electronic means; (3) require the person submitting the request to provide: (A) the specific content at issue, which may be automatically populated by the system when the mechanism on a specific page is activated, or may be provided manually by direct link or sufficient identifying information to locate the content; (B) a clear statement explaining why the content is believed to contain a false statement of fact or to contain unauthorized use of the person's CIIL; (C) identification of competent evidence of truth that demonstrates the reality of what actually occurred with respect to the persons, places, things, or events described in the content, or identification sufficient to demonstrate that the person's CIIL is being used without authorization; and (D) the person's contact information for purposes of communication regarding the request; and (4) provide an automated acknowledgment of receipt of the request to the person who submitted it.
+Sec.
+122.102.
+RESPONSE TO CORRECTION OR REMOVAL REQUEST. (a) Upon receipt of a correction request or removal request regarding first-party content, an owner or operator shall: (1) acknowledge receipt of the request not later than five business days after the date of receipt; (2) conduct a good-faith investigation of the claims made in the request, reviewing the competent evidence of truth submitted; and (3) provide a written response to the person who submitted the request not later than the 30th business day after the date of receipt. (b) The written response under Subsection (a)(3) must: (1) state whether the owner or operator has determined the content at issue to contain a false statement of fact or unauthorized use of the person's CIIL; (2) if the owner or operator determines the content contains a false statement of fact, describe the corrective action the owner or operator has taken or will take and the timeline for that action; (3) if the request is for removal of CIIL, state whether the owner or operator will comply with the removal request and the timeline for removal; and (4) if the owner or operator determines the content does not contain a false statement of fact and does not constitute unauthorized use of CIIL, provide a reasoned explanation of the basis for that determination, including reference to the competent evidence of truth reviewed.
+Sec.
+122.103.
+CORRECTIVE ACTION FOR FIRST-PARTY CONTENT. (a) If an owner or operator determines, whether through a correction request, removal request, or through its own content management processes, that first-party content on its covered system contains a false statement of fact, the owner or operator shall, not later than the 15th business day after the determination: (1) remove or correct the false content; (2) publish a correction notice in immediate proximity to the corrected content, or in place of the removed content, that: (A) identifies the original false statement; (B) provides the corrected information, specifically identifying the competent evidence of truth that establishes the reality of persons, places, things, and events; and (C) references the admissible evidence supporting the correction; and (3) make a reasonable attempt to notify any person or entity that has cited, shared, or linked to the false content, to the extent that such persons or entities are reasonably identifiable through standard web analytics or publicly available information. (b) An owner or operator shall maintain a publicly accessible archive or log of corrections made under this section for a period of not less than three years.
+Sec.
+122.104.
+GOOD FAITH SAFE HARBOR FOR FIRST-PARTY CONTENT. (a) An owner or operator that establishes and maintains the correction or removal mechanism required by this subchapter and that responds to correction requests and removal requests in good faith and in substantial compliance with this subchapter is not liable for civil enforcement under Subchapter E for the first-party content at issue, provided the owner or operator takes timely corrective action upon determining that the content contains a false statement of fact or unauthorized use of CIIL. (b) Good faith under this section requires, at a minimum: (1) acknowledging and investigating each correction request and removal request in compliance with Section 122.102; (2) acting on the merits of the request without regard to the identity or status of the person submitting the request; and (3) taking corrective action promptly upon determining the content contains a false statement of fact or unauthorized use of CIIL.
 ARTICLE 4.
-USER-GENERATED CONTENT—PLATFORM OBLIGATIONS AND USER ACCOUNTABILITY
-SUBCHAPTER C-1.
-USER-GENERATED CONTENT ON PLATFORMS
-Sec. 122.121.
+USER-GENERATED CONTENT—PLATFORM OBLIGATIONS AND USER ACCOUNTABILITY SUBCHAPTER C-1.
+USER-GENERATED CONTENT ON PLATFORMS Sec.
+122.121.
 DEFINITIONS FOR SUBCHAPTER.
-In this subchapter:
-(1) "Platform" means a covered system operated by an owner or operator that permits users to create, upload, post, or share user-generated content that is accessible to other users or the public.
+In this subchapter: (1) "Platform" means a covered system operated by an owner or operator that permits users to create, upload, post, or share user-generated content that is accessible to other users or the public.
 (2) "User" has the meaning assigned by Section 122.003(23).
 (3) "User-generated content" means content created, uploaded, posted, or shared by a user on a platform, over which the owner or operator of the platform does not exercise direct editorial control prior to publication.
 The user retains ownership of user-generated content unless the user sells the content to the platform or another entity for monetary consideration pursuant to a written agreement.
 (4) "Correction or removal request" means a written notice submitted by a user or other person to a platform or to the user who published the content, alleging that specific user-generated content contains a false statement of fact, constitutes an abuse of a person's CIIL, or requests the removal of the person's CIIL from the content.
 (5) "Responding user" means the user who created or published the user-generated content that is the subject of a correction or removal request.
-Sec. 122.122.
-USER ACCOUNTABILITY AND CONTENT OWNERSHIP.
-(a) A user who creates or publishes user-generated content on a platform is the primarily accountable party for the truth and accuracy of that content.
-(b) A user retains ownership of user-generated content unless the user sells the content to the platform or another entity for monetary consideration pursuant to a written agreement specifying the transfer of ownership.
-(c) If a user sells content to a platform or other entity for monetary consideration:
-(1) the purchasing entity assumes direct accountability for the truth and accuracy of the textual and substantive content as though it were first-party content;
-(2) the identity, image, and likeness components of the CIIL remain the personal property of the original creator and are subject to the original creator's right to request removal of their identity, image, and likeness from public access at any time, notwithstanding the sale of the textual content; and
-(3) a person's identity, image, and likeness are of greater significance than textual content they create and sell, and therefore the right of a person to control their identity, image, and likeness may not be permanently waived by the sale of content.
-(d) A user who publishes user-generated content containing a false statement of fact is subject to:
-(1) a civil action under Section 122.206; and
-(2) the platform's internal dispute resolution process under this subchapter.
-(e) A user shall not publish user-generated content on a platform that:
-(1) contains a statement purporting to be a factual statement that the user knows or reasonably should know to be false; or
-(2) falsely represents, fabricates, or materially misrepresents the identity, statements, actions, or characteristics of any person through text, image, audio, video, or any digitally altered or artificially generated media.
-(f) This section does not apply to user-generated content that constitutes:
-(1) sharing of opinion, theory, assumption, or interpretation of facts, including statements of the user's subjective beliefs, as determined by the totality of the circumstances including the language and context of the statement; or
-(2) comments that may be derogatory, offensive, or otherwise distasteful but do not contain false statements of fact.
-(g) This section applies with particular force to users who are persons of public prominence, influencers, or entities with substantial reach or impact on public discourse, who bear heightened responsibility for the accuracy of factual statements they publish.
-Sec. 122.123.
-PLATFORM OBLIGATION—CORRECTION OR REMOVAL MECHANISM.
-(a) An owner or operator that operates a platform shall provide a publicly accessible correction or removal mechanism through which any user or other person may submit a correction or removal request regarding specific user-generated content on the platform.
-(b) The correction or removal mechanism shall:
-(1) be clearly and conspicuously accessible on each page or screen of the platform on which user-generated content is displayed, by means of a visible link, button, icon, or other interface element associated with or proximate to individual items of user-generated content that, when activated, opens or directs the user to the submission form and automatically associates the specific user-generated content with the submission;
-(2) allow submission through an electronic form or other reasonable electronic means, including by users who are not registered on the platform;
-(3) require the person submitting the correction or removal request to provide: (A) identification of the specific user-generated content at issue, which may be automatically populated by the system when the mechanism associated with specific content is activated, or may be provided manually by direct link or sufficient identifying information; (B) a clear explanation of why the content is believed to contain a false statement of fact, constitute an abuse of a person's CIIL, or why removal of the person's CIIL is requested; (C) identification of competent evidence of truth supporting the claim, if applicable; and (D) the person's contact information; and
-(4) provide an automated acknowledgment of receipt to the person who submitted the request.
-(c) The owner or operator shall process correction or removal requests in a timely, diligent, non-arbitrary, and objective manner.
-Sec. 122.124.
-PLATFORM INTERNAL REVIEW AND DISPUTE RESOLUTION.
-(a) Upon receipt of a correction or removal request, the owner or operator of the platform shall:
-(1) notify the responding user of the request not later than five business days after the date of receipt, providing the responding user with: (A) a copy or summary of the request; (B) the specific content at issue; and (C) notice of the responding user's right to submit a response;
-(2) allow the responding user not fewer than 15 business days from the date of notification to submit a written response, including competent evidence of truth supporting the accuracy of the content or demonstrating that the content constitutes protected opinion; and
-(3) facilitate a review of the correction or removal request by considering the competent evidence of truth submitted by both the person who filed the request and the responding user.
-(b) The owner or operator shall communicate the outcome of the review process not later than the 30th business day after the date the responding user's response period expires, or, if the responding user does not submit a response, not later than the 30th business day after the response period expires.
-The platform's role under this section is to facilitate the correction or removal request process and is not to independently adjudicate the truth or falsity of user-generated content.
-(c) The review under this section shall be conducted by qualified personnel and not solely by automated means.
-The platform's determination is a facilitated assessment based on the evidence submitted by the parties and does not constitute a final adjudication of truth or falsity, which is reserved to the Information and Technology Courts under Subchapter E.
-(d) The owner or operator shall communicate the outcome of the review in writing to both the person who submitted the request and the responding user, including:
-(1) whether the content has been determined to contain a false statement of fact or an abuse of CIIL;
-(2) the basis for the determination; and
-(3) the corrective action to be taken, if any, or the right to seek further remedies, including judicial review under Subchapter E.
-Sec. 122.125.
-CORRECTIVE ACTION FOR USER-GENERATED CONTENT.
-(a) If the owner or operator determines through its internal review that user-generated content contains a false statement of fact or constitutes an abuse of a person's CIIL, the owner or operator shall:
-(1) direct the responding user to correct or remove the content not later than the 10th business day after the date the determination is communicated to the responding user; and
-(2) if the responding user fails to correct or remove the content within the period prescribed by Subdivision (1), the owner or operator shall remove or disable access to the content.
-(b) If the owner or operator determines that the content does not contain a false statement of fact, the person who submitted the correction or removal request may seek judicial review under Section 122.206.
-Sec. 122.126.
-USER CONTENT ENFORCEMENT AND SANCTIONS.
-(a) An owner or operator that operates a platform shall adopt and publish a clear content accuracy policy that:
-(1) informs users that the publication of knowingly false statements of fact and the abuse of any person's CIIL are prohibited;
-(2) describes the correction or removal request and internal review process;
-(3) sets forth graduated sanctions for users who are found to have published false statements of fact or abused a person's CIIL, including: (A) issuance of a warning for a first substantiated violation; (B) temporary restriction or suspension of the user's ability to publish content for a second substantiated violation within a 12-month period; and (C) permanent suspension or ban of the user's account for a third or subsequent substantiated violation within a 12-month period or for a single violation involving willful, egregious, or repeated dissemination of materially false information; and
-(4) provides that the owner or operator reserves the right to ban a user at any time for continued, willful dissemination of false information or abuse of persons' CIIL.
-(b) The content accuracy policy shall be prominently accessible on the platform and incorporated into the platform's terms of service.
-(c) An owner or operator shall maintain records of correction or removal requests received, determinations made, and sanctions imposed under this subchapter for a period of not less than three years.
-Sec. 122.127.
-PLATFORM PROCEDURAL OBLIGATIONS; SECTION 230 PRESERVATION.
-(a) An owner or operator that operates a platform shall comply with the procedural obligations prescribed by this subchapter, including:
-(1) establishing, maintaining, and publishing a clear and accessible process by which a person may submit a correction or removal request under Section 122.123;
-(2) upon receipt of a correction or removal request that complies with Section 122.123(b), acknowledging receipt within five business days;
-(3) facilitating the review process for correction or removal requests in compliance with Section 122.124;
-(4) taking corrective action in compliance with Section 122.125 when a determination has been made that content contains a false statement of fact or unauthorized use of CIIL;
-(5) enforcing its content accuracy policy in compliance with Section 122.126;
-(6) requiring verified identity for all users in compliance with Section 122.005;
-(7) providing a counter-notice mechanism by which the content creator or poster may contest a correction or removal request within 10 business days; and
-(8) otherwise acting in good faith to assist users and other persons in correcting false information and removing unauthorized CIIL disseminated by users on the platform.
-(b) An owner or operator that materially fails to comply with any procedural obligation imposed under Subsection (a) is liable to:
-(1) the State for a civil penalty of not less than $1,000 and not more than $10,000 per violation; and
-(2) a person who was denied process under this subchapter, for actual damages arising from the procedural failure.
-(c) Liability under Subsection (b) arises solely from a platform's failure to comply with the procedural obligations of this section, and does not arise from the content of any user-generated material.
-(d) Section 230 Preservation.
+Sec.
+122.122.
+USER ACCOUNTABILITY AND CONTENT OWNERSHIP. (a) A user who creates or publishes user-generated content on a platform is the primarily accountable party for the truth and accuracy of that content. (b) A user retains ownership of user-generated content unless the user sells the content to the platform or another entity for monetary consideration pursuant to a written agreement specifying the transfer of ownership. (c) If a user sells content to a platform or other entity for monetary consideration: (1) the purchasing entity assumes direct accountability for the truth and accuracy of the textual and substantive content as though it were first-party content; (2) the identity, image, and likeness components of the CIIL remain the personal property of the original creator and are subject to the original creator's right to request removal of their identity, image, and likeness from public access at any time, notwithstanding the sale of the textual content; and (3) a person's identity, image, and likeness are of greater significance than textual content they create and sell, and therefore the right of a person to control their identity, image, and likeness may not be permanently waived by the sale of content. (d) A user who publishes user-generated content containing a false statement of fact is subject to: (1) a civil action under Section 122.206; and (2) the platform's internal dispute resolution process under this subchapter. (e) A user shall not publish user-generated content on a platform that: (1) contains a statement purporting to be a factual statement that the user knows or reasonably should know to be false; or (2) falsely represents, fabricates, or materially misrepresents the identity, statements, actions, or characteristics of any person through text, image, audio, video, or any digitally altered or artificially generated media. (f) This section does not apply to user-generated content that constitutes: (1) sharing of opinion, theory, assumption, or interpretation of facts, including statements of the user's subjective beliefs, as determined by the totality of the circumstances including the language and context of the statement; or (2) comments that may be derogatory, offensive, or otherwise distasteful but do not contain false statements of fact. (g) This section applies with particular force to users who are persons of public prominence, influencers, or entities with substantial reach or impact on public discourse, who bear heightened responsibility for the accuracy of factual statements they publish.
+Sec.
+122.123.
+PLATFORM OBLIGATION—CORRECTION OR REMOVAL MECHANISM. (a) An owner or operator that operates a platform shall provide a publicly accessible correction or removal mechanism through which any user or other person may submit a correction or removal request regarding specific user-generated content on the platform. (b) The correction or removal mechanism shall: (1) be clearly and conspicuously accessible on each page or screen of the platform on which user-generated content is displayed, by means of a visible link, button, icon, or other interface element associated with or proximate to individual items of user-generated content that, when activated, opens or directs the user to the submission form and automatically associates the specific user-generated content with the submission; (2) allow submission through an electronic form or other reasonable electronic means, including by users who are not registered on the platform; (3) require the person submitting the correction or removal request to provide: (A) identification of the specific user-generated content at issue, which may be automatically populated by the system when the mechanism associated with specific content is activated, or may be provided manually by direct link or sufficient identifying information; (B) a clear explanation of why the content is believed to contain a false statement of fact, constitute an abuse of a person's CIIL, or why removal of the person's CIIL is requested; (C) identification of competent evidence of truth supporting the claim, if applicable; and (D) the person's contact information; and (4) provide an automated acknowledgment of receipt to the person who submitted the request. (c) The owner or operator shall process correction or removal requests in a timely, diligent, non-arbitrary, and objective manner.
+Sec.
+122.124.
+PLATFORM INTERNAL REVIEW AND DISPUTE RESOLUTION. (a) Upon receipt of a correction or removal request, the owner or operator of the platform shall: (1) notify the responding user of the request not later than five business days after the date of receipt, providing the responding user with: (A) a copy or summary of the request; (B) the specific content at issue; and (C) notice of the responding user's right to submit a response; (2) allow the responding user not fewer than 15 business days from the date of notification to submit a written response, including competent evidence of truth supporting the accuracy of the content or demonstrating that the content constitutes protected opinion; and (3) facilitate a review of the correction or removal request by considering the competent evidence of truth submitted by both the person who filed the request and the responding user. (b) The owner or operator shall communicate the outcome of the review process not later than the 30th business day after the date the responding user's response period expires, or, if the responding user does not submit a response, not later than the 30th business day after the response period expires.
+The platform's role under this section is to facilitate the correction or removal request process and is not to independently adjudicate the truth or falsity of user-generated content. (c) The review under this section shall be conducted by qualified personnel and not solely by automated means.
+The platform's determination is a facilitated assessment based on the evidence submitted by the parties and does not constitute a final adjudication of truth or falsity, which is reserved to the Information and Technology Courts under Subchapter E. (d) The owner or operator shall communicate the outcome of the review in writing to both the person who submitted the request and the responding user, including: (1) whether the content has been determined to contain a false statement of fact or an abuse of CIIL; (2) the basis for the determination; and (3) the corrective action to be taken, if any, or the right to seek further remedies, including judicial review under Subchapter E.
+Sec.
+122.125.
+CORRECTIVE ACTION FOR USER-GENERATED CONTENT. (a) If the owner or operator determines through its internal review that user-generated content contains a false statement of fact or constitutes an abuse of a person's CIIL, the owner or operator shall: (1) direct the responding user to correct or remove the content not later than the 10th business day after the date the determination is communicated to the responding user; and (2) if the responding user fails to correct or remove the content within the period prescribed by Subdivision (1), the owner or operator shall remove or disable access to the content. (b) If the owner or operator determines that the content does not contain a false statement of fact, the person who submitted the correction or removal request may seek judicial review under Section 122.206.
+Sec.
+122.126.
+USER CONTENT ENFORCEMENT AND SANCTIONS. (a) An owner or operator that operates a platform shall adopt and publish a clear content accuracy policy that: (1) informs users that the publication of knowingly false statements of fact and the abuse of any person's CIIL are prohibited; (2) describes the correction or removal request and internal review process; (3) sets forth graduated sanctions for users who are found to have published false statements of fact or abused a person's CIIL, including: (A) issuance of a warning for a first substantiated violation; (B) temporary restriction or suspension of the user's ability to publish content for a second substantiated violation within a 12-month period; and (C) permanent suspension or ban of the user's account for a third or subsequent substantiated violation within a 12-month period or for a single violation involving willful, egregious, or repeated dissemination of materially false information; and (4) provides that the owner or operator reserves the right to ban a user at any time for continued, willful dissemination of false information or abuse of persons' CIIL. (b) The content accuracy policy shall be prominently accessible on the platform and incorporated into the platform's terms of service. (c) An owner or operator shall maintain records of correction or removal requests received, determinations made, and sanctions imposed under this subchapter for a period of not less than three years.
+Sec.
+122.127.
+PLATFORM PROCEDURAL OBLIGATIONS; SECTION 230 PRESERVATION. (a) An owner or operator that operates a platform shall comply with the procedural obligations prescribed by this subchapter, including: (1) establishing, maintaining, and publishing a clear and accessible process by which a person may submit a correction or removal request under Section 122.123; (2) upon receipt of a correction or removal request that complies with Section 122.123(b), acknowledging receipt within five business days; (3) facilitating the review process for correction or removal requests in compliance with Section 122.124; (4) taking corrective action in compliance with Section 122.125 when a determination has been made that content contains a false statement of fact or unauthorized use of CIIL; (5) enforcing its content accuracy policy in compliance with Section 122.126; (6) requiring verified identity for all users in compliance with Section 122.005; (7) providing a counter-notice mechanism by which the content creator or poster may contest a correction or removal request within 10 business days; and (8) otherwise acting in good faith to assist users and other persons in correcting false information and removing unauthorized CIIL disseminated by users on the platform. (b) An owner or operator that materially fails to comply with any procedural obligation imposed under Subsection (a) is liable to: (1) the State for a civil penalty of not less than $1,000 and not more than $10,000 per violation; and (2) a person who was denied process under this subchapter, for actual damages arising from the procedural failure. (c) Liability under Subsection (b) arises solely from a platform's failure to comply with the procedural obligations of this section, and does not arise from the content of any user-generated material. (d) Section 230 Preservation.
 (1) Nothing in this section shall be construed to impose liability on an owner or operator as a publisher or speaker of any information provided by another information content provider, as those terms are used in 47 U.S.C.
 Section 230(c)(1).
 (2) An owner or operator that complies with the procedural obligations of this section shall not be treated as the publisher or speaker of any user-generated content for which it received and appropriately processed a correction or removal request.
 (3) An owner or operator shall not be liable under this chapter for any editorial or content-moderation decision made in good faith regarding user-generated content, provided the owner or operator maintains the procedural mechanisms required by this subchapter.
 (4) The obligations of an owner or operator under this subchapter are procedural in nature.
 The owner or operator is required to provide and maintain the correction or removal mechanism, facilitate the review process, and carry out corrective action when warranted.
-These procedural obligations do not constitute treating the owner or operator as the publisher or speaker of user-generated content.
-(e) First-Party Content Accountability.
-Notwithstanding Subsection (d), if an owner or operator purchases user-generated content for monetary consideration and subsequently publishes or makes that content publicly accessible on the owner's or operator's covered system, the owner or operator assumes direct accountability for the truth and accuracy of that content as though it were first-party content under Subchapters B and C, and the protections of Subsection (d) do not apply to such purchased content.
-(f) This section applies to all owners or operators of covered systems that permit users to create, upload, post, or share user-generated content, without regard to the size, revenue, or number of users of the covered system.
-Sec. 122.128.
-USER APPEALS.
-(a) A responding user who disagrees with a determination made under Section 122.124 may:
-(1) submit an appeal through the platform's internal complaint-handling system not later than the 30th day after the date the determination is communicated; and
-(2) seek judicial review before the Information and Technology Court under Section 122.206.
-(b) A platform's internal complaint-handling system for appeals shall:
-(1) be easily accessible and free of charge;
-(2) allow the submission of additional competent evidence of truth;
-(3) be reviewed by qualified personnel who did not participate in the original determination; and
-(4) result in a written decision communicated to the appealing user not later than the 20th business day after the date the appeal is filed.
-(c) The filing of an appeal under Subsection (a)(1) stays the enforcement of any corrective action or sanction under Sections 122.125 and 122.126 until the appeal is resolved, except where the platform determines that the content poses an imminent threat of serious harm to a person's safety or CIIL.
+These procedural obligations do not constitute treating the owner or operator as the publisher or speaker of user-generated content. (e) First-Party Content Accountability.
+Notwithstanding Subsection (d), if an owner or operator purchases user-generated content for monetary consideration and subsequently publishes or makes that content publicly accessible on the owner's or operator's covered system, the owner or operator assumes direct accountability for the truth and accuracy of that content as though it were first-party content under Subchapters B and C, and the protections of Subsection (d) do not apply to such purchased content. (f) This section applies to all owners or operators of covered systems that permit users to create, upload, post, or share user-generated content, without regard to the size, revenue, or number of users of the covered system.
+Sec.
+122.128.
+USER APPEALS. (a) A responding user who disagrees with a determination made under Section 122.124 may: (1) submit an appeal through the platform's internal complaint-handling system not later than the 30th day after the date the determination is communicated; and (2) seek judicial review before the Information and Technology Court under Section 122.206. (b) A platform's internal complaint-handling system for appeals shall: (1) be easily accessible and free of charge; (2) allow the submission of additional competent evidence of truth; (3) be reviewed by qualified personnel who did not participate in the original determination; and (4) result in a written decision communicated to the appealing user not later than the 20th business day after the date the appeal is filed. (c) The filing of an appeal under Subsection (a)(1) stays the enforcement of any corrective action or sanction under Sections 122.125 and 122.126 until the appeal is resolved, except where the platform determines that the content poses an imminent threat of serious harm to a person's safety or CIIL.
 ARTICLE 5.
-EXPEDITED REMOVAL OF SEXUALLY EXPLICIT LIKENESS MATERIAL
-SUBCHAPTER C-3.
-EXPEDITED REMOVAL OF SEXUALLY EXPLICIT LIKENESS MATERIAL
-Sec. 122.171.
+EXPEDITED REMOVAL OF SEXUALLY EXPLICIT LIKENESS MATERIAL SUBCHAPTER C-3.
+EXPEDITED REMOVAL OF SEXUALLY EXPLICIT LIKENESS MATERIAL Sec.
+122.171.
 DEFINITIONS.
-In this subchapter:
-(1) "Artificial intimate visual material" has the meaning assigned by Chapter 98B, Civil Practice and Remedies Code.
+In this subchapter: (1) "Artificial intimate visual material" has the meaning assigned by Chapter 98B, Civil Practice and Remedies Code.
 (2) "Depicted person" means the individual who is identifiable in the material at issue.
 (3) "Removal request" means a request submitted by a depicted person (or the depicted person's authorized representative) to an owner or operator of a covered system or to a user seeking removal or disabling of public access to sexually explicit likeness material.
 (4) "Sexually explicit likeness material" means any visual depiction, including any photograph, video, film, or digitally or computer-generated image, whether made or produced by electronic, mechanical, or other means, that depicts the depicted person engaging in sexual conduct or with the depicted person's intimate parts exposed, regardless of whether the material was created with the depicted person's initial consent.
-Sec. 122.172.
-APPLICABILITY AND RELATIONSHIP TO OTHER LAW.
-(a) This subchapter applies to any owner, operator, or user of a covered system accessible in this state that publishes or permits dissemination of sexually explicit likeness material.
-(b) This subchapter is intended to provide a streamlined, civil, and expedited removal and compliance process for sexually explicit likeness material, including content covered by Chapter 98B, Civil Practice and Remedies Code, related provisions of the Penal Code, and the federal TAKE IT DOWN Act (Pub.
-L. 119-16).
-(c) This subchapter does not limit, restrict, or replace any right or remedy available under:
-(1) Chapter 98B, Civil Practice and Remedies Code;
-(2) Section 21.165, Penal Code;
-(3) Section 21.16, Penal Code;
-(4) the TAKE IT DOWN Act (Pub.
-L. 119-16); or
-(5) any other state or federal civil or criminal law.
-(d) Proceedings under this chapter are civil and do not adjudicate criminal guilt.
-Nothing in this chapter limits a criminal investigation or prosecution.
-(e) A court's findings under this subchapter may be used as evidence in other proceedings, subject to the Texas Rules of Evidence and other applicable law.
-Sec. 122.173.
-REMOVAL REQUEST MECHANISM FOR SEXUALLY EXPLICIT LIKENESS MATERIAL.
-(a) An owner or operator of a covered system shall provide a clearly accessible mechanism for submission of a removal request under this subchapter.
-(b) The mechanism must allow submission by electronic means and must permit a depicted person to identify the specific content at issue (link or other locator) and submit a statement that:
-(1) the depicted person requests removal of the sexually explicit likeness material; and
-(2) if applicable, the depicted person did not consent to the creation, alteration, or dissemination of the material, or the depicted person withdraws any consent previously given.
-(c) The mechanism shall not require the depicted person to provide any justification beyond identification of the material and a statement that the depicted person requests its removal.
-Sec. 122.174.
-DUTY TO DISABLE ACCESS; TIMELINE.
-(a) On receipt of a removal request that reasonably identifies sexually explicit likeness material depicting the requesting person, the owner, operator, or user shall remove the material from public display or disable public access within 48 hours of receipt of the request.
-(b) The owner, operator, or user may preserve a non-public evidentiary copy and related account records for use in civil or criminal proceedings.
-(c) Nothing in this section requires deletion of data; only disabling of public access is required.
-(d) This subsection applies regardless of whether the depicted person initially consented to the creation of the material.
+Sec.
+122.172.
+APPLICABILITY AND RELATIONSHIP TO OTHER LAW. (a) This subchapter applies to any owner, operator, or user of a covered system accessible in this state that publishes or permits dissemination of sexually explicit likeness material. (b) This subchapter is intended to provide a streamlined, civil, and expedited removal and compliance process for sexually explicit likeness material, including content covered by Chapter 98B, Civil Practice and Remedies Code, related provisions of the Penal Code, and the federal TAKE IT DOWN Act (Pub.
+L.
+119-16). (c) This subchapter does not limit, restrict, or replace any right or remedy available under: (1) Chapter 98B, Civil Practice and Remedies Code; (2) Section 21.165, Penal Code; (3) Section 21.16, Penal Code; (4) the TAKE IT DOWN Act (Pub.
+L.
+119-16); or (5) any other state or federal civil or criminal law. (d) Proceedings under this chapter are civil and do not adjudicate criminal guilt.
+Nothing in this chapter limits a criminal investigation or prosecution. (e) A court's findings under this subchapter may be used as evidence in other proceedings, subject to the Texas Rules of Evidence and other applicable law.
+Sec.
+122.173.
+REMOVAL REQUEST MECHANISM FOR SEXUALLY EXPLICIT LIKENESS MATERIAL. (a) An owner or operator of a covered system shall provide a clearly accessible mechanism for submission of a removal request under this subchapter. (b) The mechanism must allow submission by electronic means and must permit a depicted person to identify the specific content at issue (link or other locator) and submit a statement that: (1) the depicted person requests removal of the sexually explicit likeness material; and (2) if applicable, the depicted person did not consent to the creation, alteration, or dissemination of the material, or the depicted person withdraws any consent previously given. (c) The mechanism shall not require the depicted person to provide any justification beyond identification of the material and a statement that the depicted person requests its removal.
+Sec.
+122.174.
+DUTY TO DISABLE ACCESS; TIMELINE. (a) On receipt of a removal request that reasonably identifies sexually explicit likeness material depicting the requesting person, the owner, operator, or user shall remove the material from public display or disable public access within 48 hours of receipt of the request. (b) The owner, operator, or user may preserve a non-public evidentiary copy and related account records for use in civil or criminal proceedings. (c) Nothing in this section requires deletion of data; only disabling of public access is required. (d) This subsection applies regardless of whether the depicted person initially consented to the creation of the material.
 The right to request removal is absolute and does not depend on proof of lack of consent or harm.
-Sec. 122.179.
-EXCEPTIONS TO REMOVAL REQUIREMENT.
-(a) The removal requirement under Section 122.174 does not apply to:
-(1) bona fide news reporting of matters of public concern by recognized news organizations;
-(2) content published for legitimate law enforcement, national security, or public safety purposes;
-(3) documentary, educational, or historical content where the public interest in the content clearly and substantially outweighs the privacy interest of the depicted person; or
-(4) other content clearly protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution.
-(b) The burden of establishing an exception under this section rests with the owner, operator, or user.
-(c) If an owner, operator, or user asserts an exception under this section and declines to remove the material, the depicted person may immediately file a petition under Section 122.175 for expedited judicial review.
-Sec. 122.180.
-EFFECT OF REMOVAL ON COMPENSATION ARRANGEMENTS.
-(a) If a depicted person has entered into a compensation arrangement with an owner or operator or other entity for the use or dissemination of sexually explicit likeness material depicting the person on a covered system, the depicted person may revoke consent to such use by submitting a removal request under this subchapter.
-(b) On receipt of a removal request under Subsection (a), the owner or operator shall:
-(1) comply with Section 122.174 by disabling public access to the material within 48 hours; and
-(2) cease all further payments under the compensation arrangement effective on the date the owner or operator has disabled public access to all sexually explicit likeness material depicting the person on all covered systems under the owner or operator's control.
-(c) If any sexually explicit likeness material depicting the person remains publicly accessible on a covered system controlled by the owner or operator after the period prescribed by Section 122.174 and any applicable court order, the owner or operator shall continue to make payments under the compensation arrangement until public access is fully disabled.
-(d) Nothing in this section creates any right to require a depicted person to enter into or maintain a compensation arrangement as a condition of removal.
-Sec. 122.175.
-EXPEDITED COMPLIANCE PETITION.
-(a) If an owner, operator, or user fails to comply with Section 122.174 or asserts an exception under Section 122.179, the depicted person may file a petition in the Information and Technology Court for an expedited compliance order.
-(b) The court shall prioritize petitions under this subchapter and set them for hearing within 15 days of filing.
-The court may conduct hearings by videoconference or in person as circumstances require.
-(c) If the court finds the material is sexually explicit likeness material depicting the petitioner and that the owner, operator, or user failed to comply with Section 122.174, or that an asserted exception under Section 122.179 does not apply, the court shall order immediate disabling or removal and may order any additional injunctive relief necessary to prevent further dissemination.
-(d) The court shall apply a strong presumption in favor of the depicted person's right to removal, and the owner, operator, or user bears the burden of proving any asserted exception by clear and convincing evidence.
-Sec. 122.176.
-ENFORCEMENT FOR NONCOMPLIANCE WITH COURT ORDER; SUSPENSION OF PUBLIC ACCESS.
-(a) If an owner, operator, or user fails to comply with a court order issued under this subchapter within 24 hours of service of the order, the court may order an Internet service provider, hosting service, domain registrar, or other infrastructure provider to immediately suspend public access to the covered system.
-(b) A suspension order under this section must:
-(1) be for a period of not less than 15 days and not more than 30 days for a first violation; and
-(2) continue until the court verifies compliance with the removal order.
-(c) For repeated violations or egregious noncompliance involving sexually explicit likeness material, the court may order suspension for successive 30-day periods until full compliance is achieved, or may order permanent suspension of public access to the covered system if the court determines that the owner, operator, or user has demonstrated willful and continued noncompliance.
-(d) The suspension order may not require deletion of data and must be limited to rendering the covered system unavailable to the public.
-(e) Failure to comply with a suspension order under this section may result in contempt proceedings against the owner, operator, or user and daily penalties as determined by the court.
-(f) A suspension order under this section applies to any Internet service provider, hosting service, web server, or domain registrar that provides services to the covered system, regardless of the physical location of the provider, if:
-(1) the covered system is accessible to residents of this state; or
-(2) the covered system publishes sexually explicit likeness material depicting a resident of this state.
-Sec. 122.181.
-ENHANCED PROTECTIONS FOR MINORS — SEXUALLY EXPLICIT MATERIAL.
-(a) Sexually explicit likeness material depicting a minor may not be published, distributed, or permitted to remain accessible on any covered system under any circumstances.
-There are no exceptions to this prohibition.
-(b) The exceptions to the removal requirement under Section 122.179 do not apply to sexually explicit likeness material depicting a minor.
-Specifically, no claimed exception for bona fide news reporting, law enforcement, documentary, educational, historical, or First Amendment purposes shall excuse the publication or continued accessibility of sexually explicit likeness material depicting a minor on a covered system.
-(c) Upon receipt of a removal request or upon discovery that sexually explicit likeness material depicting a minor is accessible on a covered system, the owner, operator, or user shall:
-(1) immediately disable public access to the material, and in no event later than 24 hours after receipt of the request or discovery;
-(2) preserve a non-public evidentiary copy for use by law enforcement; and
-(3) report the material to the National Center for Missing & Exploited Children (NCMEC) through the CyberTipline, and to appropriate law enforcement, not later than 24 hours after receipt of the request or discovery.
-(d) A removal request under this section may be submitted by:
-(1) the depicted minor;
-(2) the minor's parent or guardian;
-(3) law enforcement;
-(4) the attorney general; or
-(5) any person who discovers the material.
-(e) An owner, operator, or user who fails to comply with Subsection (c) is subject to:
-(1) the enforcement provisions of Section 122.176;
-(2) enhanced civil penalties under Section 122.203 of not less than $25,000 and not more than $100,000 per violation;
-(3) referral to the attorney general and appropriate law enforcement for criminal investigation under applicable state and federal law, including 18 U.S.C. §§ 2251-2256 and Sections 21.16 and 43.26, Penal Code; and
-(4) immediate suspension of public access to the covered system under Section 122.176 until full compliance is achieved.
-(f) This section supplements and does not limit, restrict, or replace any right or remedy available under federal law, including 18 U.S.C. §§ 2251-2256 and the TAKE IT DOWN Act (Pub.
-L. 119-16), or state law, including Chapter 98B, Civil Practice and Remedies Code, and Sections 21.16, 21.165, and 43.26, Penal Code.
-(g) An owner or operator that has knowledge or receives a report that sexually explicit likeness material depicting a minor has been published on its covered system and fails to take action under Subsection (c) within the time required is deemed to have engaged in willful noncompliance for purposes of Section 122.203 and Section 122.176.
-(h) The Information and Technology Court shall give priority to petitions involving sexually explicit likeness material depicting a minor over all other matters on its docket, and shall set such petitions for hearing within five days of filing.
-Sec. 122.177.
-DAMAGES AND OTHER RELIEF.
-(a) This chapter does not create criminal penalties.
-(b) Monetary damages for conduct covered by this subchapter are governed by Chapter 98B, Civil Practice and Remedies Code, and other applicable law.
-(c) For claims under Subchapter C-3, a depicted person may seek monetary relief under Chapter 98B, Civil Practice and Remedies Code, in addition to expedited removal and compliance orders under this chapter.
-(d) A depicted person who prevails in a petition under this subchapter is entitled to recover court costs and reasonable attorney's fees from the owner, operator, or user.
+Sec.
+122.179.
+EXCEPTIONS TO REMOVAL REQUIREMENT. (a) The removal requirement under Section 122.174 does not apply to: (1) bona fide news reporting of matters of public concern by recognized news organizations; (2) content published for legitimate law enforcement, national security, or public safety purposes; (3) documentary, educational, or historical content where the public interest in the content clearly and substantially outweighs the privacy interest of the depicted person; or (4) other content clearly protected by the First Amendment to the United States Constitution or Article I, Section 8, Texas Constitution. (b) The burden of establishing an exception under this section rests with the owner, operator, or user. (c) If an owner, operator, or user asserts an exception under this section and declines to remove the material, the depicted person may immediately file a petition under Section 122.175 for expedited judicial review.
+Sec.
+122.180.
+EFFECT OF REMOVAL ON COMPENSATION ARRANGEMENTS. (a) If a depicted person has entered into a compensation arrangement with an owner or operator or other entity for the use or dissemination of sexually explicit likeness material depicting the person on a covered system, the depicted person may revoke consent to such use by submitting a removal request under this subchapter. (b) On receipt of a removal request under Subsection (a), the owner or operator shall: (1) comply with Section 122.174 by disabling public access to the material within 48 hours; and (2) cease all further payments under the compensation arrangement effective on the date the owner or operator has disabled public access to all sexually explicit likeness material depicting the person on all covered systems under the owner or operator's control. (c) If any sexually explicit likeness material depicting the person remains publicly accessible on a covered system controlled by the owner or operator after the period prescribed by Section 122.174 and any applicable court order, the owner or operator shall continue to make payments under the compensation arrangement until public access is fully disabled. (d) Nothing in this section creates any right to require a depicted person to enter into or maintain a compensation arrangement as a condition of removal.
+Sec.
+122.175.
+EXPEDITED COMPLIANCE PETITION. (a) If an owner, operator, or user fails to comply with Section 122.174 or asserts an exception under Section 122.179, the depicted person may file a petition in the Information and Technology Court for an expedited compliance order. (b) The court shall prioritize petitions under this subchapter and set them for hearing within 15 days of filing.
+The court may conduct hearings by videoconference or in person as circumstances require. (c) If the court finds the material is sexually explicit likeness material depicting the petitioner and that the owner, operator, or user failed to comply with Section 122.174, or that an asserted exception under Section 122.179 does not apply, the court shall order immediate disabling or removal and may order any additional injunctive relief necessary to prevent further dissemination. (d) The court shall apply a strong presumption in favor of the depicted person's right to removal, and the owner, operator, or user bears the burden of proving any asserted exception by clear and convincing evidence.
+Sec.
+122.176.
+ENFORCEMENT FOR NONCOMPLIANCE WITH COURT ORDER; SUSPENSION OF PUBLIC ACCESS. (a) If an owner, operator, or user fails to comply with a court order issued under this subchapter within 24 hours of service of the order, the court may order an Internet service provider, hosting service, domain registrar, or other infrastructure provider to immediately suspend public access to the covered system. (b) A suspension order under this section must: (1) be for a period of not less than # days and not more than # days for a first violation; and (2) continue until the court verifies compliance with the removal order. (c) For repeated violations or egregious noncompliance involving sexually explicit likeness material, the court may order suspension for successive 30-day periods until full compliance is achieved, or may order permanent suspension of public access to the covered system if the court determines that the owner, operator, or user has demonstrated willful and continued noncompliance. (d) The suspension order may not require deletion of data and must be limited to rendering the covered system unavailable to the public. (e) Failure to comply with a suspension order under this section may result in contempt proceedings against the owner, operator, or user and daily penalties as determined by the court. (f) A suspension order under this section applies to any Internet service provider, hosting service, web server, or domain registrar that provides services to the covered system, regardless of the physical location of the provider, if: (1) the covered system is accessible to residents of this state; or (2) the covered system publishes sexually explicit likeness material depicting a resident of this state.
+Sec.
+122.181.
+ENHANCED PROTECTIONS FOR MINORS — SEXUALLY EXPLICIT MATERIAL. (a) Sexually explicit likeness material depicting a minor may not be published, distributed, or permitted to remain accessible on any covered system under any circumstances.
+There are no exceptions to this prohibition. (b) The exceptions to the removal requirement under Section 122.179 do not apply to sexually explicit likeness material depicting a minor.
+Specifically, no claimed exception for bona fide news reporting, law enforcement, documentary, educational, historical, or First Amendment purposes shall excuse the publication or continued accessibility of sexually explicit likeness material depicting a minor on a covered system. (c) Upon receipt of a removal request or upon discovery that sexually explicit likeness material depicting a minor is accessible on a covered system, the owner, operator, or user shall: (1) immediately disable public access to the material, and in no event later than 24 hours after receipt of the request or discovery; (2) preserve a non-public evidentiary copy for use by law enforcement; and (3) report the material to the National Center for Missing & Exploited Children (NCMEC) through the CyberTipline, and to appropriate law enforcement, not later than 24 hours after receipt of the request or discovery. (d) A removal request under this section may be submitted by: (1) the depicted minor; (2) the minor's parent or guardian; (3) law enforcement; (4) the attorney general; or (5) any person who discovers the material. (e) An owner, operator, or user who fails to comply with Subsection (c) is subject to: (1) the enforcement provisions of Section 122.176; (2) enhanced civil penalties under Section 122.203 of not less than $25,000 and not more than $100,000 per violation; (3) referral to the attorney general and appropriate law enforcement for criminal investigation under applicable state and federal law, including 18 U.S.C. §§ 2251-2256 and Sections 21.16 and 43.26, Penal Code; and (4) immediate suspension of public access to the covered system under Section 122.176 until full compliance is achieved. (f) This section supplements and does not limit, restrict, or replace any right or remedy available under federal law, including 18 U.S.C. §§ 2251-2256 and the TAKE IT DOWN Act (Pub.
+L.
+119-16), or state law, including Chapter 98B, Civil Practice and Remedies Code, and Sections 21.16, 21.165, and 43.26, Penal Code. (g) An owner or operator that has knowledge or receives a report that sexually explicit likeness material depicting a minor has been published on its covered system and fails to take action under Subsection (c) within the time required is deemed to have engaged in willful noncompliance for purposes of Section 122.203 and Section 122.176. (h) The Information and Technology Court shall give priority to petitions involving sexually explicit likeness material depicting a minor over all other matters on its docket, and shall set such petitions for hearing within five days of filing.
+Sec.
+122.177.
+DAMAGES AND OTHER RELIEF. (a) This chapter does not create criminal penalties. (b) Monetary damages for conduct covered by this subchapter are governed by Chapter 98B, Civil Practice and Remedies Code, and other applicable law. (c) For claims under Subchapter C-3, a depicted person may seek monetary relief under Chapter 98B, Civil Practice and Remedies Code, in addition to expedited removal and compliance orders under this chapter. (d) A depicted person who prevails in a petition under this subchapter is entitled to recover court costs and reasonable attorney's fees from the owner, operator, or user.
 ARTICLE 6.
-INFORMATION AND TECHNOLOGY COURTS
-SUBCHAPTER D.
-INFORMATION AND TECHNOLOGY COURTS
-Sec. 122.151.
-CREATION OF INFORMATION AND TECHNOLOGY COURTS.
-(a) Pursuant to Article V, Section 1, Texas Constitution, the Information and Technology Courts are created as courts of limited jurisdiction within the judicial branch of the State of Texas for the purpose of adjudicating disputes arising under this chapter.
-(b) The Information and Technology Courts shall be organized into divisions corresponding to the judicial administrative regions established under Section 74.042, Government Code.
-(c) Each division of the Information and Technology Courts has statewide jurisdiction and may hear cases arising from any location in this state, regardless of the geographic location of the parties or the content at issue.
-(d) The governor shall appoint, with the advice and consent of the senate, a presiding judge for the Information and Technology Courts and one judge for each division.
+INFORMATION AND TECHNOLOGY COURTS SUBCHAPTER D.
+INFORMATION AND TECHNOLOGY COURTS Sec.
+122.151.
+CREATION OF INFORMATION AND TECHNOLOGY COURTS. (a) Pursuant to Article V, Section 1, Texas Constitution, the Information and Technology Courts are created as courts of limited jurisdiction within the judicial branch of the State of Texas for the purpose of adjudicating disputes arising under this chapter. (b) The Information and Technology Courts shall be organized into divisions corresponding to the judicial administrative regions established under Section 74.042, Government Code. (c) Each division of the Information and Technology Courts has statewide jurisdiction and may hear cases arising from any location in this state, regardless of the geographic location of the parties or the content at issue. (d) The governor shall appoint, with the advice and consent of the senate, a presiding judge for the Information and Technology Courts and one judge for each division.
 Each judge serves a four-year term and may be reappointed.
-Sec. 122.152.
+Sec.
+122.152.
 QUALIFICATIONS OF JUDGES.
-A person is eligible for appointment as a judge of an Information and Technology Court only if the person:
-(1) is a citizen of this state;
-(2) is a licensed attorney in good standing with the State Bar of Texas;
-(3) has at least 10 years of experience in the practice of law, including substantial experience in one or more of the following areas: (A) media law; (B) First Amendment law; (C) intellectual property law; (D) Internet or technology law; or (E) defamation or privacy law; and
-(4) has not been convicted of a felony or a crime involving moral turpitude.
-Sec. 122.153.
-JURISDICTION.
-(a) The Information and Technology Courts have original and exclusive jurisdiction over:
-(1) civil actions brought under Section 122.201 of this chapter;
-(2) actions for injunctive relief under Section 122.202 of this chapter;
-(3) petitions under Subchapter C-3; and
-(4) any other claim arising under this chapter that requires judicial determination.
-(b) Concurrent Emergency Jurisdiction.
-A district court of competent jurisdiction has concurrent jurisdiction with an Information and Technology Court to:
-(1) issue a temporary restraining order or temporary injunction in a matter arising under this chapter pending transfer of the action to the Information and Technology Court, provided that such relief expires upon the Information and Technology Court's assumption of jurisdiction; and
-(2) hear and rule on a petition under Subchapter C-3 if the Information and Technology Court is not available to hear the petition within the time prescribed by Section 122.159(e).
-(c) Fallback Jurisdiction.
-If the Information and Technology Courts are abolished or if this section is determined by a court of competent jurisdiction to be unconstitutional in whole or in part, jurisdiction over actions arising under this chapter vests in the district court for the county in which the defendant resides or maintains its principal place of business in this state, or, if the defendant does not reside or maintain a place of business in this state, in the district court of Travis County.
-(d) Constitutional Authority.
-The exclusive jurisdiction granted by Subsection (a) is conferred on the Information and Technology Courts as courts established by the legislature pursuant to Article V, Section 1, of the Texas Constitution, and the exclusive jurisdiction prescribed by this section is authorized under the exception provided by Article V, Section 8, of the Texas Constitution, which permits exclusive jurisdiction to be conferred by law on courts other than district courts.
-(e) The Information and Technology Courts have supplemental jurisdiction over claims that form part of the same case or controversy as a claim within the court's jurisdiction, if the parties and the court agree to proceed.
-(f) Venue for an action under this chapter is proper in any division of the Information and Technology Court, subject to considerations of convenience to the parties and witnesses.
-Sec. 122.154.
-PROCEDURES.
-(a) Proceedings in the Information and Technology Courts shall be governed by the Texas Rules of Civil Procedure and the Texas Rules of Evidence, except as modified by rules adopted under this section.
-(b) The Supreme Court of Texas may adopt rules of practice and procedure specific to the Information and Technology Courts, consistent with this chapter.
-(c) A party to a proceeding in an Information and Technology Court may be represented by an attorney or may appear pro se.
-(d) The Information and Technology Courts shall endeavor to resolve cases on an expedited basis.
-Unless good cause is shown, a case shall be set for hearing not later than the 90th day after the date the petition is filed, except petitions under Subchapter C-3 which shall be set within 15 days.
-(e) In determining whether content contains a false statement of fact, the court shall consider:
-(1) whether the plaintiff has provided competent evidence of truth demonstrating the reality of what actually occurred; and
-(2) whether the defendant has provided competent evidence of truth supporting the challenged content.
-(f) Original, unaltered media (photographs, videos, audio) shall be given greater weight than derivative, edited, AI-generated, or AI-edited versions when determining what reality occurred.
-(g) The court may order disclosure of the verified identity of a user pursuant to Section 122.005(f) when necessary for the just resolution of a proceeding under this chapter.
-Sec. 122.159.
-REMOTE PROCEEDINGS AND ELECTRONIC CASE MANAGEMENT.
-(a) The Information and Technology Courts shall, to the maximum extent practicable, conduct proceedings by videoconference or other remote electronic means to promote efficiency, accessibility, and cost-effectiveness.
-(b) The court may order that a hearing or trial be conducted in person and in a closed or secured setting when:
-(1) the nature of the evidence, including sexually explicit likeness material or other sensitive content, requires privacy protections for the dignity and safety of parties or witnesses;
-(2) national security, law enforcement, or public safety concerns necessitate confidential proceedings;
-(3) a party demonstrates by a preponderance of the evidence that remote proceedings would materially prejudice that party's ability to present evidence or examine witnesses; or
-(4) the court determines that the interests of justice require an in-person proceeding.
-(c) The courts shall permit electronic filing, electronic service, and electronic submission of evidence, consistent with the Texas Rules of Civil Procedure and any rules adopted by the Supreme Court of Texas.
-(d) The courts shall adopt procedures for expedited hearings, including short-form petitions and standardized orders for removal, disabling access, and compliance verification.
-(e) Petitions under Subchapter C-3 shall be prioritized and set for initial hearing within 15 days of filing.
-Sec. 122.155.
-USE OF FINDINGS IN RELATED PROCEEDINGS.
-(a) A final judgment of an Information and Technology Court finding that content published on a covered system contains a false statement of fact, or that an owner, operator, or user violated this chapter, may be admitted as evidence in any related civil or criminal proceeding, including but not limited to:
-(1) an action for defamation under common law or Chapter 73, Civil Practice and Remedies Code;
-(2) an action for business disparagement under Chapter 73, Civil Practice and Remedies Code;
-(3) an action for violation of the Deceptive Trade Practices Act under Chapter 17, Business and Commerce Code; or
-(4) any other civil or criminal proceeding in which the falsity of a statement or the violation of this chapter is at issue.
-(b) A final judgment under Subsection (a) is admissible to establish:
-(1) that the content at issue contains a false statement of fact;
-(2) that the defendant published or caused to be published the false statement;
-(3) the identity of the person or entity harmed by the false statement; and
-(4) that the defendant failed to comply with the correction, removal, or other requirements of this chapter.
-(c) A final judgment admitted under this section does not establish liability in the related proceeding but may be considered by the trier of fact as probative evidence of the matters set forth in Subsection (b).
-(d) The admission of a final judgment under this section is subject to the Texas Rules of Evidence and any applicable rules of civil or criminal procedure.
-(e) This section is intended to streamline the resolution of related civil and criminal proceedings by providing admissible evidence of findings made under this chapter, thereby reducing the burden on parties harmed by false statements and promoting the efficient administration of justice.
-Sec. 122.156.
+A person is eligible for appointment as a judge of an Information and Technology Court only if the person: (1) is a citizen of this state; (2) is a licensed attorney in good standing with the State Bar of Texas; (3) has at least 10 years of experience in the practice of law, including substantial experience in one or more of the following areas: (A) media law; (B) First Amendment law; (C) intellectual property law; (D) Internet or technology law; or (E) defamation or privacy law; and (4) has not been convicted of a felony or a crime involving moral turpitude.
+Sec.
+122.153.
+JURISDICTION. (a) The Information and Technology Courts have original and exclusive jurisdiction over: (1) civil actions brought under Section 122.201 of this chapter; (2) actions for injunctive relief under Section 122.202 of this chapter; (3) petitions under Subchapter C-3; and (4) any other claim arising under this chapter that requires judicial determination. (b) Concurrent Emergency Jurisdiction.
+A district court of competent jurisdiction has concurrent jurisdiction with an Information and Technology Court to: (1) issue a temporary restraining order or temporary injunction in a matter arising under this chapter pending transfer of the action to the Information and Technology Court, provided that such relief expires upon the Information and Technology Court's assumption of jurisdiction; and (2) hear and rule on a petition under Subchapter C-3 if the Information and Technology Court is not available to hear the petition within the time prescribed by Section 122.159(e). (c) Fallback Jurisdiction.
+If the Information and Technology Courts are abolished or if this section is determined by a court of competent jurisdiction to be unconstitutional in whole or in part, jurisdiction over actions arising under this chapter vests in the district court for the county in which the defendant resides or maintains its principal place of business in this state, or, if the defendant does not reside or maintain a place of business in this state, in the district court of Travis County. (d) Constitutional Authority.
+The exclusive jurisdiction granted by Subsection (a) is conferred on the Information and Technology Courts as courts established by the legislature pursuant to Article V, Section 1, of the Texas Constitution, and the exclusive jurisdiction prescribed by this section is authorized under the exception provided by Article V, Section 8, of the Texas Constitution, which permits exclusive jurisdiction to be conferred by law on courts other than district courts. (e) The Information and Technology Courts have supplemental jurisdiction over claims that form part of the same case or controversy as a claim within the court's jurisdiction, if the parties and the court agree to proceed. (f) Venue for an action under this chapter is proper in any division of the Information and Technology Court, subject to considerations of convenience to the parties and witnesses.
+Sec.
+122.154.
+PROCEDURES. (a) Proceedings in the Information and Technology Courts shall be governed by the Texas Rules of Civil Procedure and the Texas Rules of Evidence, except as modified by rules adopted under this section. (b) The Supreme Court of Texas may adopt rules of practice and procedure specific to the Information and Technology Courts, consistent with this chapter. (c) A party to a proceeding in an Information and Technology Court may be represented by an attorney or may appear pro se. (d) The Information and Technology Courts shall endeavor to resolve cases on an expedited basis.
+Unless good cause is shown, a case shall be set for hearing not later than the 90th day after the date the petition is filed, except petitions under Subchapter C-3 which shall be set within 15 days. (e) In determining whether content contains a false statement of fact, the court shall consider: (1) whether the plaintiff has provided competent evidence of truth demonstrating the reality of what actually occurred; and (2) whether the defendant has provided competent evidence of truth supporting the challenged content. (f) Original, unaltered media (photographs, videos, audio) shall be given greater weight than derivative, edited, AI-generated, or AI-edited versions when determining what reality occurred. (g) The court may order disclosure of the verified identity of a user pursuant to Section 122.005(f) when necessary for the just resolution of a proceeding under this chapter.
+Sec.
+122.159.
+REMOTE PROCEEDINGS AND ELECTRONIC CASE MANAGEMENT. (a) The Information and Technology Courts shall, to the maximum extent practicable, conduct proceedings by videoconference or other remote electronic means to promote efficiency, accessibility, and cost-effectiveness. (b) The court may order that a hearing or trial be conducted in person and in a closed or secured setting when: (1) the nature of the evidence, including sexually explicit likeness material or other sensitive content, requires privacy protections for the dignity and safety of parties or witnesses; (2) national security, law enforcement, or public safety concerns necessitate confidential proceedings; (3) a party demonstrates by a preponderance of the evidence that remote proceedings would materially prejudice that party's ability to present evidence or examine witnesses; or (4) the court determines that the interests of justice require an in-person proceeding. (c) The courts shall permit electronic filing, electronic service, and electronic submission of evidence, consistent with the Texas Rules of Civil Procedure and any rules adopted by the Supreme Court of Texas. (d) The courts shall adopt procedures for expedited hearings, including short-form petitions and standardized orders for removal, disabling access, and compliance verification. (e) Petitions under Subchapter C-3 shall be prioritized and set for initial hearing within 15 days of filing.
+Sec.
+122.155.
+USE OF FINDINGS IN RELATED PROCEEDINGS. (a) A final judgment of an Information and Technology Court finding that content published on a covered system contains a false statement of fact, or that an owner, operator, or user violated this chapter, may be admitted as evidence in any related civil or criminal proceeding, including but not limited to: (1) an action for defamation under common law or Chapter 73, Civil Practice and Remedies Code; (2) an action for business disparagement under Chapter 73, Civil Practice and Remedies Code; (3) an action for violation of the Deceptive Trade Practices Act under Chapter 17, Business and Commerce Code; or (4) any other civil or criminal proceeding in which the falsity of a statement or the violation of this chapter is at issue. (b) A final judgment under Subsection (a) is admissible to establish: (1) that the content at issue contains a false statement of fact; (2) that the defendant published or caused to be published the false statement; (3) the identity of the person or entity harmed by the false statement; and (4) that the defendant failed to comply with the correction, removal, or other requirements of this chapter. (c) A final judgment admitted under this section does not establish liability in the related proceeding but may be considered by the trier of fact as probative evidence of the matters set forth in Subsection (b). (d) The admission of a final judgment under this section is subject to the Texas Rules of Evidence and any applicable rules of civil or criminal procedure. (e) This section is intended to streamline the resolution of related civil and criminal proceedings by providing admissible evidence of findings made under this chapter, thereby reducing the burden on parties harmed by false statements and promoting the efficient administration of justice.
+Sec.
+122.156.
 APPEALS.
 An appeal from a final judgment of an Information and Technology Court shall be taken to the court of appeals for the court of appeals district in which the division of the Information and Technology Court is located, in the manner provided for appeals from district courts.
-Sec. 122.157.
-COURT ADMINISTRATION.
-(a) The Office of Court Administration of the Texas Judicial System shall provide administrative support to the Information and Technology Courts.
-(b) The Information and Technology Courts shall submit to the Office of Court Administration quarterly reports on caseload, disposition rates, and other statistics as the office may require.
-(c) The presiding judge of the Information and Technology Courts shall adopt uniform operational procedures for all divisions, subject to the approval of the Supreme Court of Texas.
-Sec. 122.158.
-TECHNICAL ENFORCEMENT DIVISION.
-(a) The Information and Technology Courts shall be supported by a Technical Enforcement Division (TED) composed of information technology professionals with demonstrated experience in Internet infrastructure, cybersecurity, digital forensics, or network administration.
-(b) The Technical Enforcement Division shall, under the direction of the court:
-(1) assist in identifying covered systems and specific web pages or services that are subject to removal or suspension orders under this chapter;
-(2) coordinate with Internet service providers, hosting services, domain registrars, and other infrastructure providers to implement orders requiring suspension of public access;
-(3) provide technical verification to the court that an owner, operator, or user has complied with any order issued under this chapter, including orders under Subchapter C-3, Section 122.203, and Section 122.202A;
-(4) implement and coordinate suspension of public access to covered systems pursuant to orders issued under Section 122.202A, including immediate coordination with Internet service providers, web hosting services, domain registrars, and infrastructure providers upon receipt of such an order; and
-(5) perform any other technical enforcement functions assigned by rule of the Supreme Court of Texas.
-(c) When a plaintiff or victim who is a resident of this state seeks enforcement of a court order under this chapter regarding CIIL or sexually explicit likeness material, the Technical Enforcement Division shall have the authority to take all appropriate action within the confines of this chapter to effectuate the court's order regardless of the physical location of the covered system, server, or entity hosting the content, provided the content is or was accessible to residents of this state at the time of the filing.
+Sec.
+122.157.
+COURT ADMINISTRATION. (a) The Office of Court Administration of the Texas Judicial System shall provide administrative support to the Information and Technology Courts. (b) The Information and Technology Courts shall submit to the Office of Court Administration quarterly reports on caseload, disposition rates, and other statistics as the office may require. (c) The presiding judge of the Information and Technology Courts shall adopt uniform operational procedures for all divisions, subject to the approval of the Supreme Court of Texas.
+Sec.
+122.158.
+TECHNICAL ENFORCEMENT DIVISION. (a) The Information and Technology Courts shall be supported by a Technical Enforcement Division (TED) composed of information technology professionals with demonstrated experience in Internet infrastructure, cybersecurity, digital forensics, or network administration. (b) The Technical Enforcement Division shall, under the direction of the court: (1) assist in identifying covered systems and specific web pages or services that are subject to removal or suspension orders under this chapter; (2) coordinate with Internet service providers, hosting services, domain registrars, and other infrastructure providers to implement orders requiring suspension of public access; (3) provide technical verification to the court that an owner, operator, or user has complied with any order issued under this chapter, including orders under Subchapter C-3, Section 122.203, and Section 122.202A; (4) implement and coordinate suspension of public access to covered systems pursuant to orders issued under Section 122.202A, including immediate coordination with Internet service providers, web hosting services, domain registrars, and infrastructure providers upon receipt of such an order; and (5) perform any other technical enforcement functions assigned by rule of the Supreme Court of Texas. (c) When a plaintiff or victim who is a resident of this state seeks enforcement of a court order under this chapter regarding CIIL or sexually explicit likeness material, the Technical Enforcement Division shall have the authority to take all appropriate action within the confines of this chapter to effectuate the court's order regardless of the physical location of the covered system, server, or entity hosting the content, provided the content is or was accessible to residents of this state at the time of the filing.
 This authority expressly includes enforcement of orders relating to CIIL, DCIIL, personal data, false content, and any other obligation imposed under this chapter, including suspension orders issued under Section 122.202A.
-Specifically, the Technical Enforcement Division may, under specific court order and subject to strict procedural safeguards:
-(1) coordinate with Internet service providers, web hosting services, domain registrars, and other infrastructure providers located anywhere in the world to suspend public access to covered systems that are noncompliant with court orders, where the covered system is accessible to Texas residents or contains sexually explicit likeness material or CIIL of Texas residents;
-(2) implement technical measures, including but not limited to DNS blocking, IP address blocking, or content filtering, to render noncompliant covered systems inaccessible to residents of this state;
-(3) when an owner, operator, or user cannot be identified or located, or has demonstrated willful and continued noncompliance with court orders, employ lawful intrusive technical measures, subject to prior specific court authorization and oversight, to disable, remove, or render inaccessible specific content or systems that violate this chapter, provided that: (A) the court has made specific findings that less intrusive measures have been attempted and have failed; (B) the court has determined that the content at issue poses ongoing and substantial harm to the person whose CIIL is at issue; (C) the technical measures employed are narrowly tailored to affect only the specific violating content or system and do not unduly affect other systems or content; (D) all actions taken under this subdivision are documented and reported to the court within 24 hours; and (E) the owner, operator, or user, if identifiable, is provided notice and an opportunity to comply before intrusive measures are employed, except in cases of emergency where notice would frustrate the purpose of the order; and
-(4) in cases involving sexually explicit likeness material or serious CIIL abuse where an entity located outside this state or outside the United States fails to comply with a court order, petition the court for an order requiring the permanent suspension of public access to the noncompliant covered system by all available technical means, including coordination with domestic infrastructure providers that provide connectivity or services to the noncompliant entity.
-(d) Personnel of the Technical Enforcement Division act as officers of the court for purposes of enforcing orders under this chapter but do not possess independent criminal law-enforcement authority.
-(e) The Technical Enforcement Division shall maintain detailed records of all enforcement actions taken under this section and shall provide quarterly reports to the presiding judge of the Information and Technology Courts and to the Office of Court Administration.
-(f) The Supreme Court of Texas shall adopt rules governing the standards, procedures, and limitations applicable to technical enforcement actions under Subsection (c), including requirements for judicial oversight, documentation, and protection of due process rights.
+Specifically, the Technical Enforcement Division may, under specific court order and subject to strict procedural safeguards: (1) coordinate with Internet service providers, web hosting services, domain registrars, and other infrastructure providers located anywhere in the world to suspend public access to covered systems that are noncompliant with court orders, where the covered system is accessible to Texas residents or contains sexually explicit likeness material or CIIL of Texas residents; (2) implement technical measures, including but not limited to DNS blocking, IP address blocking, or content filtering, to render noncompliant covered systems inaccessible to residents of this state; (3) when an owner, operator, or user cannot be identified or located, or has demonstrated willful and continued noncompliance with court orders, employ lawful intrusive technical measures, subject to prior specific court authorization and oversight, to disable, remove, or render inaccessible specific content or systems that violate this chapter, provided that: (A) the court has made specific findings that less intrusive measures have been attempted and have failed; (B) the court has determined that the content at issue poses ongoing and substantial harm to the person whose CIIL is at issue; (C) the technical measures employed are narrowly tailored to affect only the specific violating content or system and do not unduly affect other systems or content; (D) all actions taken under this subdivision are documented and reported to the court within 24 hours; and (E) the owner, operator, or user, if identifiable, is provided notice and an opportunity to comply before intrusive measures are employed, except in cases of emergency where notice would frustrate the purpose of the order; and (4) in cases involving sexually explicit likeness material or serious CIIL abuse where an entity located outside this state or outside the United States fails to comply with a court order, petition the court for an order requiring the permanent suspension of public access to the noncompliant covered system by all available technical means, including coordination with domestic infrastructure providers that provide connectivity or services to the noncompliant entity. (d) Personnel of the Technical Enforcement Division act as officers of the court for purposes of enforcing orders under this chapter but do not possess independent criminal law-enforcement authority. (e) The Technical Enforcement Division shall maintain detailed records of all enforcement actions taken under this section and shall provide quarterly reports to the presiding judge of the Information and Technology Courts and to the Office of Court Administration. (f) The Supreme Court of Texas shall adopt rules governing the standards, procedures, and limitations applicable to technical enforcement actions under Subsection (c), including requirements for judicial oversight, documentation, and protection of due process rights.
 ARTICLE 7.
-ENFORCEMENT AND REMEDIES
-SUBCHAPTER E.
-ENFORCEMENT
-Sec. 122.201.
-CIVIL ACTION—FIRST-PARTY CONTENT.
-(a) A person aggrieved by a violation of this chapter may file a civil action in the appropriate division of the Information and Technology Court.
-(b) In an action against an owner or operator regarding first-party content under this section, the plaintiff must establish by a preponderance of the evidence that:
-(1) the defendant is an owner or operator of a covered system subject to this chapter;
-(2) specific first-party content published on the defendant's covered system contains a false statement of fact;
-(3) the plaintiff submitted a correction request or removal request in compliance with Subchapter C, or was unable to do so because the owner or operator failed to provide the mechanism required by Section 122.101; and
-(4) the defendant failed to take corrective action in compliance with Section 122.103 within the time prescribed.
-(6) the defendant accessed, used, disclosed, or leveraged the plaintiff's DCIIL or local device content without content access consent as required by Section 122.066A; or
-(7) the defendant failed to implement reasonable data security safeguards as required by Section 122.066B, or disclosed the plaintiff's DCIIL or local device content to a governmental entity without a warrant as required by Section 122.066C.
-(c) If the court finds in favor of the plaintiff in an action regarding first-party content, the court may order one or more of the following remedies:
-(1) removal of the false content from the defendant's covered system;
-(2) replacement of the false content with the correct information, specifically identifying the competent evidence of truth that establishes the reality of persons, places, things, and events, including references to admissible evidence such as witness testimony, original unaltered media, documentation, or repeatable demonstrations as described by Section 122.003(21);
-(3) issuance by the defendant of a public statement of correction, the content and manner of which shall be approved by the court;
-(4) a reasonable attempt by the defendant to notify all persons and entities that have cited, shared, or linked to the false content to inform them of the correction, to the extent that such persons or entities are reasonably identifiable; and
-(5) court costs and reasonable attorney's fees.
-In fashioning relief under this subsection, the court should, where reasonably practicable and consistent with preventing ongoing harm, give preference to remedies that replace or correct false content with true content, rather than purely removing content without correction.
-(d) A judgment under this section finding that content contains a false statement of fact may be used as evidence in related proceedings as provided in Section 122.155.
-(g) In an action under this section, the plaintiff bears the burden of proving by a preponderance of the evidence that the content at issue contains a false statement of fact.
-The defendant may defeat liability by establishing either that:
-(1) the content constitutes opinion, satire, or parody under Section 122.052; or
-(2) the content is a true statement as defined by Section 122.003(21), supported by competent evidence of truth.
+ENFORCEMENT AND REMEDIES SUBCHAPTER E.
+ENFORCEMENT Sec.
+122.201.
+CIVIL ACTION—FIRST-PARTY CONTENT. (a) A person aggrieved by a violation of this chapter may file a civil action in the appropriate division of the Information and Technology Court. (b) In an action against an owner or operator regarding first-party content under this section, the plaintiff must establish by a preponderance of the evidence that: (1) the defendant is an owner or operator of a covered system subject to this chapter; (2) specific first-party content published on the defendant's covered system contains a false statement of fact; (3) the plaintiff submitted a correction request or removal request in compliance with Subchapter C, or was unable to do so because the owner or operator failed to provide the mechanism required by Section 122.101; and (4) the defendant failed to take corrective action in compliance with Section 122.103 within the time prescribed.
+(6) the defendant accessed, used, disclosed, or leveraged the plaintiff's DCIIL or local device content without content access consent as required by Section 122.066A; or (7) the defendant failed to implement reasonable data security safeguards as required by Section 122.066B, or disclosed the plaintiff's DCIIL or local device content to a governmental entity without a warrant as required by Section 122.066C. (c) If the court finds in favor of the plaintiff in an action regarding first-party content, the court may order one or more of the following remedies: (1) removal of the false content from the defendant's covered system; (2) replacement of the false content with the correct information, specifically identifying the competent evidence of truth that establishes the reality of persons, places, things, and events, including references to admissible evidence such as witness testimony, original unaltered media, documentation, or repeatable demonstrations as described by Section 122.003(21); (3) issuance by the defendant of a public statement of correction, the content and manner of which shall be approved by the court; (4) a reasonable attempt by the defendant to notify all persons and entities that have cited, shared, or linked to the false content to inform them of the correction, to the extent that such persons or entities are reasonably identifiable; and (5) court costs and reasonable attorney's fees.
+In fashioning relief under this subsection, the court should, where reasonably practicable and consistent with preventing ongoing harm, give preference to remedies that replace or correct false content with true content, rather than purely removing content without correction. (d) A judgment under this section finding that content contains a false statement of fact may be used as evidence in related proceedings as provided in Section 122.155. (g) In an action under this section, the plaintiff bears the burden of proving by a preponderance of the evidence that the content at issue contains a false statement of fact.
+The defendant may defeat liability by establishing either that: (1) the content constitutes opinion, satire, or parody under Section 122.052; or (2) the content is a true statement as defined by Section 122.003(21), supported by competent evidence of truth.
 If the court determines that the plaintiff has failed to carry the burden of proving falsity, or that the defendant has established a defense under this subsection, the court shall deny all relief under this chapter as to that content and may award the defendant court costs and reasonable attorney's fees.
-Sec. 122.206.
-CIVIL ACTION—USER-GENERATED CONTENT.
-(a) A person aggrieved by user-generated content that violates Section 122.122 may file a civil action in the appropriate division of the Information and Technology Court against the user who created or published the content.
-(b) In an action under this section against a user, the plaintiff must establish by a preponderance of the evidence that:
-(1) the defendant user created or published user-generated content on a platform;
-(2) the content contains a false statement of fact or constitutes an abuse of a person's CIIL in violation of Section 122.122;
-(3) the plaintiff submitted a correction or removal request under Subchapter C-1, or was unable to do so because the platform failed to provide the mechanism required by Section 122.123; and
-(4) either: (A) the platform's internal review determined the content to be false or an abuse of CIIL and the user failed to take corrective action; or (B) the platform's internal review determined the content was not false, and the plaintiff seeks judicial review of that determination.
-(c) If the court finds in favor of the plaintiff, the court may order one or more of the following remedies against the user:
-(1) removal of the false content by the user, or, if the user fails to comply, an order directing the platform to remove the content;
-(2) replacement of the false content with the correct information, in a manner determined by the court;
-(3) issuance by the user of a public correction or retraction; and
-(4) court costs and reasonable attorney's fees.
-In fashioning relief under this subsection, the court should, where reasonably practicable and consistent with preventing ongoing harm, give preference to remedies that replace or correct false content with true content, rather than purely removing content without correction.
-(d) A person aggrieved by user-generated content may also file a civil action against the owner or operator operating the platform if the plaintiff establishes that the owner or operator is liable under Section 122.127(b).
-In such action, the remedies available against the owner or operator are those provided in Section 122.201(c) and Section 122.203.
-(e) An action under this section against a user and an action against an owner or operator under Subsection (d) may be joined in a single proceeding.
-(f) A judgment under this section finding that content contains a false statement of fact may be used as evidence in related proceedings as provided in Section 122.155.
-(g) In an action under this section, the plaintiff bears the burden of proving by a preponderance of the evidence that the content at issue contains a false statement of fact or constitutes an abuse of CIIL.
-The defendant may defeat liability by establishing either that:
-(1) the content constitutes opinion, satire, or parody under Section 122.052; or
-(2) the content is a true statement as defined by Section 122.003(21), supported by competent evidence of truth.
+Sec.
+122.206.
+CIVIL ACTION—USER-GENERATED CONTENT. (a) A person aggrieved by user-generated content that violates Section 122.122 may file a civil action in the appropriate division of the Information and Technology Court against the user who created or published the content. (b) In an action under this section against a user, the plaintiff must establish by a preponderance of the evidence that: (1) the defendant user created or published user-generated content on a platform; (2) the content contains a false statement of fact or constitutes an abuse of a person's CIIL in violation of Section 122.122; (3) the plaintiff submitted a correction or removal request under Subchapter C-1, or was unable to do so because the platform failed to provide the mechanism required by Section 122.123; and (4) either: (A) the platform's internal review determined the content to be false or an abuse of CIIL and the user failed to take corrective action; or (B) the platform's internal review determined the content was not false, and the plaintiff seeks judicial review of that determination. (c) If the court finds in favor of the plaintiff, the court may order one or more of the following remedies against the user: (1) removal of the false content by the user, or, if the user fails to comply, an order directing the platform to remove the content; (2) replacement of the false content with the correct information, in a manner determined by the court; (3) issuance by the user of a public correction or retraction; and (4) court costs and reasonable attorney's fees.
+In fashioning relief under this subsection, the court should, where reasonably practicable and consistent with preventing ongoing harm, give preference to remedies that replace or correct false content with true content, rather than purely removing content without correction. (d) A person aggrieved by user-generated content may also file a civil action against the owner or operator operating the platform if the plaintiff establishes that the owner or operator is liable under Section 122.127(b).
+In such action, the remedies available against the owner or operator are those provided in Section 122.201(c) and Section 122.203. (e) An action under this section against a user and an action against an owner or operator under Subsection (d) may be joined in a single proceeding. (f) A judgment under this section finding that content contains a false statement of fact may be used as evidence in related proceedings as provided in Section 122.155. (g) In an action under this section, the plaintiff bears the burden of proving by a preponderance of the evidence that the content at issue contains a false statement of fact or constitutes an abuse of CIIL.
+The defendant may defeat liability by establishing either that: (1) the content constitutes opinion, satire, or parody under Section 122.052; or (2) the content is a true statement as defined by Section 122.003(21), supported by competent evidence of truth.
 If the court determines that the plaintiff has failed to carry the burden of proving falsity or abuse of CIIL, or that the defendant has established a defense under this subsection, the court shall deny all relief under this chapter as to that content and may award the defendant court costs and reasonable attorney's fees.
-Sec. 122.207.
-CIVIL ACTION—CIIL AND DATA VIOLATIONS.
-(a) A person or legal entity aggrieved by a violation of Subchapter B-1 may file a civil action in the appropriate division of the Information and Technology Court against the owner, operator, user, or other person who committed the violation.
-(b) In an action under this section, the plaintiff must establish by a preponderance of the evidence that:
-(1) the defendant used the plaintiff's CIIL without consent and compensation as required by Section 122.061;
-(2) the defendant collected the plaintiff's personal data without consent and compensation as required by Section 122.062; or
-(3) the defendant failed to remove the plaintiff's CIIL as required by Section 122.063;
-(4) the defendant failed to delete the plaintiff’s DCIIL on request as required by Section 122.063B; or
-(5) the defendant retained, used, or failed to delete the plaintiff’s DCIIL beyond the term and post-term period permitted by Section 122.063C; or
-(c) If the court finds in favor of the plaintiff, the court may order one or more of the following remedies:
-(1) immediate removal of the plaintiff's CIIL from the defendant's covered system;
-(2) immediate cessation of personal data collection regarding the plaintiff;
-(3) deletion of personal data collected in violation of Section 122.062;
-(4) payment to the plaintiff of the fair market value of the use of the plaintiff's CIIL, or the value of personal data collected, whichever is greater;
-(5) statutory damages of not less than $1,000 and not more than $10,000 per violation; and
-(6) court costs and reasonable attorney's fees.
-(d) A judgment under this section may be used as evidence in related proceedings as provided in Section 122.155.
-Sec. 122.208.
-FAULT STANDARDS; PUBLIC FIGURES AND MATTERS OF PUBLIC CONCERN.
-(a) In this section:
-(1) "Public official" means a person holding elected or appointed government office at the federal, state, or local level.
+Sec.
+122.207.
+CIVIL ACTION—CIIL AND DATA VIOLATIONS. (a) A person or legal entity aggrieved by a violation of Subchapter B-1 may file a civil action in the appropriate division of the Information and Technology Court against the owner, operator, user, or other person who committed the violation. (b) In an action under this section, the plaintiff must establish by a preponderance of the evidence that: (1) the defendant used the plaintiff's CIIL without consent and compensation as required by Section 122.061; (2) the defendant collected the plaintiff's personal data without consent and compensation as required by Section 122.062; or (3) the defendant failed to remove the plaintiff's CIIL as required by Section 122.063; (4) the defendant failed to delete the plaintiff’s DCIIL on request as required by Section 122.063B; or (5) the defendant retained, used, or failed to delete the plaintiff’s DCIIL beyond the term and post-term period permitted by Section 122.063C; or (c) If the court finds in favor of the plaintiff, the court may order one or more of the following remedies: (1) immediate removal of the plaintiff's CIIL from the defendant's covered system; (2) immediate cessation of personal data collection regarding the plaintiff; (3) deletion of personal data collected in violation of Section 122.062; (4) payment to the plaintiff of the fair market value of the use of the plaintiff's CIIL, or the value of personal data collected, whichever is greater; (5) statutory damages of not less than $1,000 and not more than $10,000 per violation; and (6) court costs and reasonable attorney's fees. (d) A judgment under this section may be used as evidence in related proceedings as provided in Section 122.155.
+Sec.
+122.208.
+FAULT STANDARDS; PUBLIC FIGURES AND MATTERS OF PUBLIC CONCERN. (a) In this section: (1) "Public official" means a person holding elected or appointed government office at the federal, state, or local level.
 (2) "Public figure" means a person who has voluntarily injected themselves into a particular public controversy or who has achieved pervasive fame or notoriety in the community.
-(3) "Matter of public concern" means a statement or depiction regarding an issue of political, social, governmental, or community interest to a reasonable member of the public.
-(b) General Rule — Fault Not Required.
+(3) "Matter of public concern" means a statement or depiction regarding an issue of political, social, governmental, or community interest to a reasonable member of the public. (b) General Rule — Fault Not Required.
 Except as provided by Subsections (c) and (d), a cause of action under this chapter does not require proof of fault on the part of the defendant with respect to the accuracy of the content at issue.
-This chapter primarily regulates the protection of DCIIL as personal property, disclosure, authentication, and procedural compliance.
-(c) Fault Standard for Correction Orders — Public Officials and Public Figures.
-A court may not issue a correction order under this chapter that requires a defendant to remove, retract, or label as false any content:
-(1) about a public official's official conduct or a public figure's conduct in their public capacity; and
-(2) on a matter of public concern;
-unless the court first finds, by clear and convincing evidence, that the content was published with actual malice — that is, with knowledge of its falsity or with reckless disregard of whether it was false or not.
-(d) Fault Standard for Content About Private Persons.
-A court may issue a correction order or award actual damages under this chapter with respect to content about a private person who is not a public official or public figure on a showing that the defendant knew or reasonably should have known that the content was materially false.
-(e) DCIIL, Fabricated Media, and Identity Violations — No Fault Required.
-Notwithstanding Subsections (c) and (d):
-(1) A cause of action under this chapter for violation of a person's DCIIL property rights, including unauthorized use, collection, or failure to delete DCIIL under Sections 122.061, 122.062, 122.063, 122.063A, 122.063B, or 122.063C, does not require proof of fault.
+This chapter primarily regulates the protection of DCIIL as personal property, disclosure, authentication, and procedural compliance. (c) Fault Standard for Correction Orders — Public Officials and Public Figures.
+A court may not issue a correction order under this chapter that requires a defendant to remove, retract, or label as false any content: (1) about a public official's official conduct or a public figure's conduct in their public capacity; and (2) on a matter of public concern; unless the court first finds, by clear and convincing evidence, that the content was published with actual malice — that is, with knowledge of its falsity or with reckless disregard of whether it was false or not. (d) Fault Standard for Content About Private Persons.
+A court may issue a correction order or award actual damages under this chapter with respect to content about a private person who is not a public official or public figure on a showing that the defendant knew or reasonably should have known that the content was materially false. (e) DCIIL, Fabricated Media, and Identity Violations — No Fault Required.
+Notwithstanding Subsections (c) and (d): (1) A cause of action under this chapter for violation of a person's DCIIL property rights, including unauthorized use, collection, or failure to delete DCIIL under Sections 122.061, 122.062, 122.063, 122.063A, 122.063B, or 122.063C, does not require proof of fault.
 (2) A cause of action under this chapter for publication of fabricated media under Section 122.054 does not require proof of fault.
 (3) A cause of action under this chapter for publication of sexually explicit likeness material under Subchapter C-3 does not require proof of fault.
 (4) The correction request process under Subchapters C and C-1, and the removal request process under Subchapter C-3, are not subject to the fault requirements of this section.
-The fault standards of this section apply only to the issuance of court-ordered correction or removal under Sections 122.201(c) and 122.206(c) as limited by Subsection (c) of this section.
-(f) Legislative Finding.
-The legislature finds that:
-(1) this chapter's primary purpose is to protect the property rights of persons in their DCIIL and to establish mechanisms for the correction of false content — not to impose damages liability for defamation;
-(2) the correction-first enforcement framework of this chapter, which prioritizes disclosure, correction, and replacement of false content with true content over monetary damages, minimizes any burden on constitutionally protected speech;
-(3) the fault standards prescribed by Subsections (c) and (d) are consistent with the requirements of New York Times Co. v.
-Sullivan, 376 U.S. 254 (1964), and Gertz v.
-Robert Welch, Inc., 418 U.S. 323 (1974), and are included to ensure the constitutional validity of this chapter's correction-order provisions; and
-(4) the exemption of DCIIL property violations, fabricated media, and sexually explicit material from the fault requirements of this section is consistent with the principle that property rights and identity protections are not subject to the actual malice standard, which applies only to speech-based liability for statements about public figures on matters of public concern.
-Sec. 122.202.
-INJUNCTIVE RELIEF.
-(a) The attorney general may bring an action in an Information and Technology Court to enjoin a violation of this chapter by an owner, operator, user, or any other person.
-(b) In addition to injunctive relief, the court may award the state reasonable expenses incurred in obtaining the injunction, including court costs, reasonable attorney's fees, investigative costs, and witness fees.
-Sec. 122.202A.
-SUSPENSION OF COVERED SYSTEM FOR FAILURE TO COMPLY WITH COURT ORDER.
-(a) If an owner or operator fails to comply with any order issued by an Information and Technology Court under this chapter, including but not limited to an order requiring correction of false content, removal of CIIL, deletion of DCIIL, cessation of personal data collection, payment of damages, or any other affirmative obligation imposed by the court, the court may, on its own motion or on the motion of any aggrieved party or the attorney general, order the immediate suspension of public access to the noncompliant owner's or operator's covered system.
-(b) A suspension order under this section may be issued when:
-(1) the court has issued a final or interlocutory order imposing an obligation on an owner or operator under this chapter;
-(2) the owner or operator has been served with or has received actual notice of the order; and
-(3) the owner or operator has failed to comply with the order in whole or in part.
-(c) A suspension order under this section shall:
-(1) identify the covered system or specific portion of the covered system to be suspended;
-(2) direct any Internet service provider, web hosting service, domain registrar, or other infrastructure provider serving the covered system to suspend public access immediately upon receipt of the order;
-(3) remain in effect until the owner or operator files proof of full compliance with the underlying order and the court confirms that compliance; and
-(4) be transmitted by the Technical Enforcement Division to all known infrastructure providers serving the covered system within 24 hours of issuance.
-(d) The suspension remedy under this section is available for noncompliance with any court order issued under this chapter, including orders arising from violations of:
-(1) Subchapter B (Content Accuracy);
-(2) Subchapter B-1 (CIIL and DCIIL as Personal Property), including the DCIIL and local device content deletion, retrieval, content access consent, data security, and government access obligations under Sections 122.063A, 122.063B, 122.063C, 122.066, 122.066A, 122.066B, and 122.066C;
-(3) Subchapter C, C-1, or C-3 (Correction and Removal Request Processes);
-(4) Section 122.062 (Personal Data Collection);
-(5) Section 122.005 (Identity Verification); or
-(6) any other provision of this chapter for which the court has issued an order.
-(e) A suspension under this section does not require a finding of a pattern or practice of violations under Section 122.203.
-A single instance of noncompliance with a court order is sufficient to authorize suspension.
-(f) An owner or operator subject to a suspension order under this section may seek emergency relief from the court by filing a motion demonstrating:
-(1) that the owner or operator has fully complied or is in the process of complying with the underlying order; or
-(2) that compliance with the underlying order is legally or technically impossible and stating the specific impediment.
-(g) An infrastructure provider that receives a suspension order under this section and fails to implement the suspension within 48 hours of receipt is subject to civil penalties of not less than $5,000 and not more than $25,000 per day of noncompliance, beginning on the third day after receipt of the order.
-(h) Nothing in this section limits the court's authority to impose additional remedies under Section 122.207, Section 122.202, or Section 122.203 for the same underlying violation or for noncompliance with a court order.
-Sec. 122.203.
-PATTERN OF VIOLATIONS.
-(a) If the court finds that an owner, operator, or user has engaged in a pattern or practice of violations of this chapter, the court may:
-(1) for an owner or operator, order an Internet service provider, web hosting service, domain registrar, or infrastructure provider to suspend public access to the covered system for a period of not less than 15 days and not more than 30 days for a first pattern violation, and continuing until such time as the owner or operator provides proof the content has been removed and replaced with the correct information if applicable and all other responsibilities properly fulfilled;
-(2) for repeated pattern violations or egregious noncompliance, order suspension for successive 30-day periods until full compliance is achieved, or permanent suspension of public access if the court determines that the owner or operator has demonstrated willful and continued noncompliance;
-(3) for a user, order the platform on which the user publishes content to permanently suspend or ban the user's account; and
-(4) order any other equitable relief the court considers appropriate.
-(b) For purposes of this section, a "pattern or practice" means three or more separate violations of this chapter within a 12-month period.
-(c) A suspension order under this section applies to any Internet service provider, hosting service, web server, or domain registrar that provides services to the covered system, regardless of the physical location of the provider, if:
-(1) the covered system is accessible to residents of this state; or
-(2) the covered system publishes content containing CIIL of a resident of this state in violation of this chapter.
-Sec. 122.204.
-AFFIRMATIVE DEFENSE—TRUTH.
-(a) It is an affirmative defense to any action under this chapter that the challenged content constitutes a true statement supported by competent evidence of truth.
-(b) In asserting this defense, the defendant must identify specific competent evidence of truth that demonstrates the reality conveyed by the content corresponds to actual persons, places, things, and events.
-(c) If the defendant establishes the affirmative defense by a preponderance of the evidence, the court shall dismiss the action and may award the defendant court costs and reasonable attorney's fees.
-Sec. 122.205.
-AFFIRMATIVE DEFENSE—OPINION.
-(a) It is an affirmative defense to any action under this chapter that the challenged content constitutes opinion, theory, assumption, interpretation, satire, or parody, and not a false statement of fact.
-(b) In asserting this defense, the defendant must demonstrate that:
-(1) the content is clearly identifiable as opinion, theory, assumption, interpretation, satire, or parody to a reasonable reader, viewer, or listener, considering the totality of the circumstances including the language, context, and medium of the content;
-(2) the content contains language or contextual cues indicating opinion, such as "I believe," "In my opinion," "I think," "It seems to me," or similar expressions of subjective belief, whether in written text, spoken word, captions, or any other format within the content; or
-(3) the content expresses the defendant's subjective beliefs, interpretations, assumptions, or value judgments and does not purport to state objective facts capable of verification.
-(c) Content that is obviously satirical, parodic, or constitutes social commentary, political opinion, or artistic expression is presumptively protected opinion.
-(d) The court shall apply the totality of the circumstances test, considering:
-(1) the specific language and context of the content;
-(2) whether a reasonable person would understand the content as stating facts or expressing opinion;
-(3) the medium and forum in which the content was published;
-(4) whether the content can be proven true or false through competent evidence; and
-(5) whether the content contains any contextual indicators of opinion, including but not limited to express labeling, spoken disclaimers, or commonly understood language of subjective belief.
-(e) If the defendant establishes the affirmative defense by a preponderance of the evidence, the court shall dismiss the action and may award the defendant court costs and reasonable attorney's fees.
-(f) A defendant asserting this defense is not required to prove that the content is truthful, only that it constitutes protected opinion, satire, or parody rather than a false statement of fact.
+The fault standards of this section apply only to the issuance of court-ordered correction or removal under Sections 122.201(c) and 122.206(c) as limited by Subsection (c) of this section. (f) Legislative Finding.
+The legislature finds that: (1) this chapter's primary purpose is to protect the property rights of persons in their DCIIL and to establish mechanisms for the correction of false content — not to impose damages liability for defamation; (2) the correction-first enforcement framework of this chapter, which prioritizes disclosure, correction, and replacement of false content with true content over monetary damages, minimizes any burden on constitutionally protected speech; (3) the fault standards prescribed by Subsections (c) and (d) are consistent with the requirements of New York Times Co. v.
+Sullivan, 376 U.S.
+254 (1964), and Gertz v.
+Robert Welch, Inc., 418 U.S.
+323 (1974), and are included to ensure the constitutional validity of this chapter's correction-order provisions; and (4) the exemption of DCIIL property violations, fabricated media, and sexually explicit material from the fault requirements of this section is consistent with the principle that property rights and identity protections are not subject to the actual malice standard, which applies only to speech-based liability for statements about public figures on matters of public concern.
+Sec.
+122.202.
+INJUNCTIVE RELIEF. (a) The attorney general may bring an action in an Information and Technology Court to enjoin a violation of this chapter by an owner, operator, user, or any other person. (b) In addition to injunctive relief, the court may award the state reasonable expenses incurred in obtaining the injunction, including court costs, reasonable attorney's fees, investigative costs, and witness fees.
+Sec.
+122.202A.
+SUSPENSION OF COVERED SYSTEM FOR FAILURE TO COMPLY WITH COURT ORDER. (a) If an owner or operator fails to comply with any order issued by an Information and Technology Court under this chapter, including but not limited to an order requiring correction of false content, removal of CIIL, deletion of DCIIL, cessation of personal data collection, payment of damages, or any other affirmative obligation imposed by the court, the court may, on its own motion or on the motion of any aggrieved party or the attorney general, order the immediate suspension of public access to the noncompliant owner's or operator's covered system. (b) A suspension order under this section may be issued when: (1) the court has issued a final or interlocutory order imposing an obligation on an owner or operator under this chapter; (2) the owner or operator has been served with or has received actual notice of the order; and (3) the owner or operator has failed to comply with the order in whole or in part. (c) A suspension order under this section shall: (1) identify the covered system or specific portion of the covered system to be suspended; (2) direct any Internet service provider, web hosting service, domain registrar, or other infrastructure provider serving the covered system to suspend public access immediately upon receipt of the order; (3) remain in effect until the owner or operator files proof of full compliance with the underlying order and the court confirms that compliance; and (4) be transmitted by the Technical Enforcement Division to all known infrastructure providers serving the covered system within 24 hours of issuance. (d) The suspension remedy under this section is available for noncompliance with any court order issued under this chapter, including orders arising from violations of: (1) Subchapter B (Content Accuracy); (2) Subchapter B-1 (CIIL and DCIIL as Personal Property), including the DCIIL and local device content deletion, retrieval, content access consent, data security, and government access obligations under Sections 122.063A, 122.063B, 122.063C, 122.066, 122.066A, 122.066B, and 122.066C; (3) Subchapter C, C-1, or C-3 (Correction and Removal Request Processes); (4) Section 122.062 (Personal Data Collection); (5) Section 122.005 (Identity Verification); or (6) any other provision of this chapter for which the court has issued an order. (e) A suspension under this section does not require a finding of a pattern or practice of violations under Section 122.203.
+A single instance of noncompliance with a court order is sufficient to authorize suspension. (f) An owner or operator subject to a suspension order under this section may seek emergency relief from the court by filing a motion demonstrating: (1) that the owner or operator has fully complied or is in the process of complying with the underlying order; or (2) that compliance with the underlying order is legally or technically impossible and stating the specific impediment. (g) An infrastructure provider that receives a suspension order under this section and fails to implement the suspension within 48 hours of receipt is subject to civil penalties of not less than $5,000 and not more than $25,000 per day of noncompliance, beginning on the third day after receipt of the order. (h) Nothing in this section limits the court's authority to impose additional remedies under Section 122.207, Section 122.202, or Section 122.203 for the same underlying violation or for noncompliance with a court order.
+Sec.
+122.203.
+PATTERN OF VIOLATIONS. (a) If the court finds that an owner, operator, or user has engaged in a pattern or practice of violations of this chapter, the court may: (1) for an owner or operator, order an Internet service provider, web hosting service, domain registrar, or infrastructure provider to suspend public access to the covered system for a period of not less than 15 days and not more than 30 days for a first pattern violation, and continuing until such time as the owner or operator provides proof the content has been removed and replaced with the correct information if applicable and all other responsibilities properly fulfilled; (2) for repeated pattern violations or egregious noncompliance, order suspension for successive 30-day periods until full compliance is achieved, or permanent suspension of public access if the court determines that the owner or operator has demonstrated willful and continued noncompliance; (3) for a user, order the platform on which the user publishes content to permanently suspend or ban the user's account; and (4) order any other equitable relief the court considers appropriate. (b) For purposes of this section, a "pattern or practice" means three or more separate violations of this chapter within a 12-month period. (c) A suspension order under this section applies to any Internet service provider, hosting service, web server, or domain registrar that provides services to the covered system, regardless of the physical location of the provider, if: (1) the covered system is accessible to residents of this state; or (2) the covered system publishes content containing CIIL of a resident of this state in violation of this chapter.
+Sec.
+122.204.
+AFFIRMATIVE DEFENSE—TRUTH. (a) It is an affirmative defense to any action under this chapter that the challenged content constitutes a true statement supported by competent evidence of truth. (b) In asserting this defense, the defendant must identify specific competent evidence of truth that demonstrates the reality conveyed by the content corresponds to actual persons, places, things, and events. (c) If the defendant establishes the affirmative defense by a preponderance of the evidence, the court shall dismiss the action and may award the defendant court costs and reasonable attorney's fees.
+Sec.
+122.205.
+AFFIRMATIVE DEFENSE—OPINION. (a) It is an affirmative defense to any action under this chapter that the challenged content constitutes opinion, theory, assumption, interpretation, satire, or parody, and not a false statement of fact. (b) In asserting this defense, the defendant must demonstrate that: (1) the content is clearly identifiable as opinion, theory, assumption, interpretation, satire, or parody to a reasonable reader, viewer, or listener, considering the totality of the circumstances including the language, context, and medium of the content; (2) the content contains language or contextual cues indicating opinion, such as "I believe," "In my opinion," "I think," "It seems to me," or similar expressions of subjective belief, whether in written text, spoken word, captions, or any other format within the content; or (3) the content expresses the defendant's subjective beliefs, interpretations, assumptions, or value judgments and does not purport to state objective facts capable of verification. (c) Content that is obviously satirical, parodic, or constitutes social commentary, political opinion, or artistic expression is presumptively protected opinion. (d) The court shall apply the totality of the circumstances test, considering: (1) the specific language and context of the content; (2) whether a reasonable person would understand the content as stating facts or expressing opinion; (3) the medium and forum in which the content was published; (4) whether the content can be proven true or false through competent evidence; and (5) whether the content contains any contextual indicators of opinion, including but not limited to express labeling, spoken disclaimers, or commonly understood language of subjective belief. (e) If the defendant establishes the affirmative defense by a preponderance of the evidence, the court shall dismiss the action and may award the defendant court costs and reasonable attorney's fees. (f) A defendant asserting this defense is not required to prove that the content is truthful, only that it constitutes protected opinion, satire, or parody rather than a false statement of fact.
 ARTICLE 8.
-MISCELLANEOUS PROVISIONS
-SECTION 8.01.
+MISCELLANEOUS PROVISIONS SECTION 8.01.
 SEVERABILITY.
 If any provision of this Act or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are declared to be severable.
 SECTION 8.02.
-RULES.
-(a) The attorney general and the Office of Court Administration may adopt rules as necessary to implement and administer this Act.
-(b) The Supreme Court of Texas may adopt rules governing:
-(1) the standards and procedures for identity verification under Section 122.005;
-(2) the standards, procedures, and limitations applicable to technical enforcement actions under Section 122.158; and
-(3) any other matter necessary for the efficient administration of the Information and Technology Courts.
+RULES. (a) The attorney general and the Office of Court Administration may adopt rules as necessary to implement and administer this Act. (b) The Supreme Court of Texas may adopt rules governing: (1) the standards and procedures for identity verification under Section 122.005; (2) the standards, procedures, and limitations applicable to technical enforcement actions under Section 122.158; and (3) any other matter necessary for the efficient administration of the Information and Technology Courts.
 SECTION 8.03.
-RELATIONSHIP TO EXISTING LAW.
-(a) This chapter is intended to supplement and reinforce, and not to conflict with or diminish, existing protections under state and federal law, including:
-(1) Chapter 73, Civil Practice and Remedies Code (Libel);
-(2) Chapter 98B, Civil Practice and Remedies Code (Unlawful Disclosure or Promotion of Intimate Visual Material);
-(3) Chapter 27, Civil Practice and Remedies Code (Texas Citizens Participation Act);
-(4) Chapter 26, Property Code (Right of Publicity);
-(5) Sections 21.16 and 21.165, Penal Code;
-(6) the TAKE IT DOWN Act (Pub.
-L. 119-16);
-(7) 47 U.S.C.
-Section 230;
-(8) the First Amendment to the United States Constitution and Article I, Section 8, Texas Constitution;
-(9) Chapter 509, Business and Commerce Code (Securing Children Online through Parental Empowerment Act);
-(10) the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.);
-(11) 18 U.S.C. §§ 2251-2256 (sexual exploitation of children); and
-(12) any applicable provisions of the Kids Online Safety Act or successor federal legislation protecting minors online.
-(b) To the extent any provision of this chapter is found to conflict with 47 U.S.C.
-Section 230 or the First Amendment, the conflicting provision shall be construed narrowly to avoid the conflict, or if the conflict is irreconcilable, the provision is severable under Section 6.01.
-(c) Nothing in this chapter diminishes any right or remedy available under Chapter 73, Civil Practice and Remedies Code.
-The correction request process under this chapter is independent of and supplemental to the correction, clarification, or retraction process under Subchapter B, Chapter 73, Civil Practice and Remedies Code.
-(d) This chapter reinforces and provides additional procedural mechanisms for the enforcement of rights protected under Chapter 98B, Civil Practice and Remedies Code, and the federal TAKE IT DOWN Act, including expedited removal and compliance procedures.
-(e) Nothing in this chapter shall be construed to limit, restrict, or impair any civil or criminal remedy available under state or federal law for harassment, stalking, threats, assault, abuse, or other unlawful conduct, nor to prevent an owner, operator, or platform from taking action to prevent, report, or respond to such conduct.
-(f) To the extent any provision of this chapter could be interpreted to conflict with constitutional protections for speech, courts shall apply the narrowest construction that preserves the provision's validity while giving maximum effect to the property-rights and remedial purposes of this chapter.
-(g) Relationship to Minor-Specific Protections.
+RELATIONSHIP TO EXISTING LAW. (a) This chapter is intended to supplement and reinforce, and not to conflict with or diminish, existing protections under state and federal law, including: (1) Chapter 73, Civil Practice and Remedies Code (Libel); (2) Chapter 98B, Civil Practice and Remedies Code (Unlawful Disclosure or Promotion of Intimate Visual Material); (3) Chapter 27, Civil Practice and Remedies Code (Texas Citizens Participation Act); (4) Chapter 26, Property Code (Right of Publicity); (5) Sections 21.16 and 21.165, Penal Code; (6) the TAKE IT DOWN Act (Pub.
+L.
+119-16); (7) 47 U.S.C.
+Section 230; (8) the First Amendment to the United States Constitution and Article I, Section 8, Texas Constitution; (9) Chapter 509, Business and Commerce Code (Securing Children Online through Parental Empowerment Act); (10) the Children's Online Privacy Protection Act (15 U.S.C. § 6501 et seq.); (11) 18 U.S.C. §§ 2251-2256 (sexual exploitation of children); and (12) any applicable provisions of the Kids Online Safety Act or successor federal legislation protecting minors online. (b) To the extent any provision of this chapter is found to conflict with 47 U.S.C.
+Section 230 or the First Amendment, the conflicting provision shall be construed narrowly to avoid the conflict, or if the conflict is irreconcilable, the provision is severable under Section 6.01. (c) Nothing in this chapter diminishes any right or remedy available under Chapter 73, Civil Practice and Remedies Code.
+The correction request process under this chapter is independent of and supplemental to the correction, clarification, or retraction process under Subchapter B, Chapter 73, Civil Practice and Remedies Code. (d) This chapter reinforces and provides additional procedural mechanisms for the enforcement of rights protected under Chapter 98B, Civil Practice and Remedies Code, and the federal TAKE IT DOWN Act, including expedited removal and compliance procedures. (e) Nothing in this chapter shall be construed to limit, restrict, or impair any civil or criminal remedy available under state or federal law for harassment, stalking, threats, assault, abuse, or other unlawful conduct, nor to prevent an owner, operator, or platform from taking action to prevent, report, or respond to such conduct. (f) To the extent any provision of this chapter could be interpreted to conflict with constitutional protections for speech, courts shall apply the narrowest construction that preserves the provision's validity while giving maximum effect to the property-rights and remedial purposes of this chapter. (g) Relationship to Minor-Specific Protections.
 The provisions of this chapter relating to minors are intended to supplement and reinforce, and not to conflict with or diminish, the protections provided by federal law, including the Children's Online Privacy Protection Act, the TAKE IT DOWN Act, and 18 U.S.C. §§ 2251-2256, and by state law, including Chapter 509, Business and Commerce Code (Securing Children Online through Parental Empowerment Act).
 Where this chapter provides greater protection for minors than federal or state law, the greater protection shall apply.
 Where federal law provides greater protection, federal law controls.
 SECTION 8.04.
-RULES OF CONSTRUCTION AND APPLICATION.
-(a) This chapter shall be construed and applied in a manner that:
-(1) protects and enhances, rather than restricts, the freedom of speech guaranteed by the First Amendment to the United States Constitution and Article I, Section 8, Texas Constitution;
-(2) protects the property rights of persons in their content, identity, image, and likeness (CIIL) and in their personal data; and
-(3) provides effective remedies for the misuse of CIIL and the continued publication of false statements of fact after judicial determination of falsity.
-(b) Nothing in this chapter shall be construed to:
-(1) authorize the state or any court to prohibit or punish speech based on disagreement with the viewpoint, belief, ideology, or opinion expressed;
-(2) permit the removal or suppression of content solely because it is offensive, derogatory, indecent, cruel, disrespectful, blasphemous, or otherwise distasteful, if the content constitutes opinion or other protected speech and does not contain a false statement of fact or violate a CIIL or data protection provision of this chapter; or
-(3) impose any requirement of prior approval, licensing, or pre-screening of content by the state or by an owner or operator, beyond the maintenance of the identity verification and correction or removal mechanisms expressly required by this chapter;
-(4) restrict or impair the right of an owner or operator to adopt and enforce terms of service, community standards, or acceptable-use policies that prohibit harassment, threats, abuse, or other conduct, including removal or suspension of users or content that violate such policies; or
-(c) For purposes of this chapter:
-(1) expressions of subjective belief, interpretation, value judgment, or criticism, including harsh, hyperbolic, or offensive language about a person or group, are treated as opinion and remain protected speech, unless they reasonably imply specific factual assertions that can be proven true or false by competent evidence of truth; and
-(2) the remedies of correction, replacement, removal, or suspension of access under this chapter may be ordered only with respect to:
-(A) content that has been determined by a court of competent jurisdiction to contain a false statement of fact; or
-(B) CIIL or personal data whose use, publication, or collection violates an express provision of this chapter.
-(d) The identity verification requirements and platform obligations under this chapter are procedural in nature and shall not be interpreted to treat an owner or operator as the publisher or speaker of user-generated content solely by reason of providing, operating, or complying with the mechanisms and processes required by this chapter.
+RULES OF CONSTRUCTION AND APPLICATION. (a) This chapter shall be construed and applied in a manner that: (1) protects and enhances, rather than restricts, the freedom of speech guaranteed by the First Amendment to the United States Constitution and Article I, Section 8, Texas Constitution; (2) protects the property rights of persons in their content, identity, image, and likeness (CIIL) and in their personal data; and (3) provides effective remedies for the misuse of CIIL and the continued publication of false statements of fact after judicial determination of falsity. (b) Nothing in this chapter shall be construed to: (1) authorize the state or any court to prohibit or punish speech based on disagreement with the viewpoint, belief, ideology, or opinion expressed; (2) permit the removal or suppression of content solely because it is offensive, derogatory, indecent, cruel, disrespectful, blasphemous, or otherwise distasteful, if the content constitutes opinion or other protected speech and does not contain a false statement of fact or violate a CIIL or data protection provision of this chapter; or (3) impose any requirement of prior approval, licensing, or pre-screening of content by the state or by an owner or operator, beyond the maintenance of the identity verification and correction or removal mechanisms expressly required by this chapter; (4) restrict or impair the right of an owner or operator to adopt and enforce terms of service, community standards, or acceptable-use policies that prohibit harassment, threats, abuse, or other conduct, including removal or suspension of users or content that violate such policies; or (c) For purposes of this chapter: (1) expressions of subjective belief, interpretation, value judgment, or criticism, including harsh, hyperbolic, or offensive language about a person or group, are treated as opinion and remain protected speech, unless they reasonably imply specific factual assertions that can be proven true or false by competent evidence of truth; and (2) the remedies of correction, replacement, removal, or suspension of access under this chapter may be ordered only with respect to: (A) content that has been determined by a court of competent jurisdiction to contain a false statement of fact; or (B) CIIL or personal data whose use, publication, or collection violates an express provision of this chapter. (d) The identity verification requirements and platform obligations under this chapter are procedural in nature and shall not be interpreted to treat an owner or operator as the publisher or speaker of user-generated content solely by reason of providing, operating, or complying with the mechanisms and processes required by this chapter.
 SECTION 8.04A.
-EXEMPTION FROM TEXAS CITIZENS PARTICIPATION ACT.
-(a) A legal action brought under this chapter is exempt from Chapter 27, Civil Practice and Remedies Code.
-(b) Chapter 27, Civil Practice and Remedies Code, does not apply to a legal action:
-(1) brought under this chapter;
-(2) brought to enforce a court order issued under this chapter; or
-(3) seeking injunctive relief under this chapter pending resolution of a legal action described by Subdivision (1).
-(c) Nothing in this section affects the availability of a motion to dismiss under the Texas Rules of Civil Procedure Rule 91a or under any other applicable procedural rule that does not impose discovery stays or mandatory hearing deadlines inconsistent with the timelines prescribed by this chapter.
+EXEMPTION FROM TEXAS CITIZENS PARTICIPATION ACT. (a) A legal action brought under this chapter is exempt from Chapter 27, Civil Practice and Remedies Code. (b) Chapter 27, Civil Practice and Remedies Code, does not apply to a legal action: (1) brought under this chapter; (2) brought to enforce a court order issued under this chapter; or (3) seeking injunctive relief under this chapter pending resolution of a legal action described by Subdivision (1). (c) Nothing in this section affects the availability of a motion to dismiss under the Texas Rules of Civil Procedure Rule 91a or under any other applicable procedural rule that does not impose discovery stays or mandatory hearing deadlines inconsistent with the timelines prescribed by this chapter.
 SECTION 8.05.
-TRANSITION.
-(a) An owner or operator of a covered system accessible by citizens of Texas subject to this Act shall comply with the requirements of Subchapters B, B-1, and C not later than the 180th day after the effective date of this Act.
-(b) An owner or operator shall comply with the identity verification requirements of Section 122.005 not later than the 270th day after the effective date of this Act.
-(c) An action may not be filed under Subchapter E based on content published before the effective date of this Act, except that the correction request process under Subchapter C, the correction or removal request process under Subchapter C-1, and the removal request process under Subchapter C-3 apply to all content accessible on a covered system on or after the date the owner or operator is required to comply under Subsection (a).
-(d) Subject to legislative appropriation, the governor shall appoint the initial judges of the Information and Technology Courts not later than the 120th day after the effective date of this Act.
-(e) The Technical Enforcement Division under Section 122.158 shall be operational not later than the 180th day after the effective date of this Act.
+TRANSITION. (a) An owner or operator of a covered system accessible by citizens of Texas subject to this Act shall comply with the requirements of Subchapters B, B-1, and C not later than the 180th day after the effective date of this Act. (b) An owner or operator shall comply with the identity verification requirements of Section 122.005 not later than the 270th day after the effective date of this Act. (c) An action may not be filed under Subchapter E based on content published before the effective date of this Act, except that the correction request process under Subchapter C, the correction or removal request process under Subchapter C-1, and the removal request process under Subchapter C-3 apply to all content accessible on a covered system on or after the date the owner or operator is required to comply under Subsection (a). (d) Subject to legislative appropriation, the governor shall appoint the initial judges of the Information and Technology Courts not later than the 120th day after the effective date of this Act. (e) The Technical Enforcement Division under Section 122.158 shall be operational not later than the 180th day after the effective date of this Act.
 SECTION 8.06.
 EFFECTIVE DATE.
 This Act takes effect September 1, 2027.
-References
-Sources organized by the article sections they principally inform.
+Formatted per Texas Legislative Council Drafting Manual, 89th Legislature • Chapter 122, Business and Commerce Code Rep.
+Will Campbell, Texas House District 109 • willcampbellfortexas.com References Sources organized by the article sections they principally inform.
 Citations follow APA 7th Edition format.
-Case Law — Sections 3, 5, 9, 10
-Moody v.
-NetChoice, LLC, 603 U.S. ___ (2024). https://www.supremecourt.gov/opinions/23pdf/22-277_d18f.pdf
-The Supreme Court confirmed that purely procedural obligations, transparency reports, notice-and-takedown procedures, are distinguishable from editorial mandates and may survive constitutional scrutiny.
+Case Law — Sections 3, 5, 9, 10 Moody v.
+NetChoice, LLC, 603 U.S. ___ (2024). https://www.supremecourt.gov/opinions/23pdf/22-277_d18f.pdf The Supreme Court confirmed that purely procedural obligations, transparency reports, notice-and-takedown procedures, are distinguishable from editorial mandates and may survive constitutional scrutiny.
 Foundational to Section 4's process-obligation model.
 Free Speech Coalition, Inc. v.
-Paxton, 606 U.S. ___ (2025). https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf
-Upheld Texas's age-verification requirement for sexually explicit content under intermediate scrutiny, informing Section 5's identity-verification provisions.
+Paxton, 606 U.S. ___ (2025). https://www.supremecourt.gov/opinions/24pdf/23-1122_3e04.pdf Upheld Texas's age-verification requirement for sexually explicit content under intermediate scrutiny, informing Section 5's identity-verification provisions.
 New York Times Co. v.
-Sullivan, 376 U.S. 254 (1964). https://supreme.justia.com/cases/federal/us/376/254/
-Established the "actual malice" standard for defamation claims by public officials, directly informing Section 10's constitutional fault standard.
+Sullivan, 376 U.S.
+254 (1964). https://supreme.justia.com/cases/federal/us/376/254/ Established the "actual malice" standard for defamation claims by public officials, directly informing Section 10's constitutional fault standard.
 Gertz v.
-Robert Welch, Inc., 418 U.S. 323 (1974). https://supreme.justia.com/cases/federal/us/418/323/
-Distinguished public-figure claims (requiring actual malice) from private-figure claims (requiring at minimum negligence), forming the basis of Section 10's tiered fault framework.
+Robert Welch, Inc., 418 U.S.
+323 (1974). https://supreme.justia.com/cases/federal/us/418/323/ Distinguished public-figure claims (requiring actual malice) from private-figure claims (requiring at minimum negligence), forming the basis of Section 10's tiered fault framework.
 Milkovich v.
-Lorain Journal Co., 497 U.S. 1 (1990). https://supreme.justia.com/cases/federal/us/497/1/
-Held there is no separate constitutional privilege for opinion, supporting Section 3 and 10's truth–opinion distinction.
+Lorain Journal Co., 497 U.S.
+1 (1990). https://supreme.justia.com/cases/federal/us/497/1/ Held there is no separate constitutional privilege for opinion, supporting Section 3 and 10's truth–opinion distinction.
 McIntyre v.
-Ohio Elections Commission, 514 U.S. 334 (1995). https://supreme.justia.com/cases/federal/us/514/334/
-Recognized the First Amendment right to anonymous speech, informing Section 5's pseudonymous-publication allowance.
+Ohio Elections Commission, 514 U.S.
+334 (1995). https://supreme.justia.com/cases/federal/us/514/334/ Recognized the First Amendment right to anonymous speech, informing Section 5's pseudonymous-publication allowance.
 Troxel v.
-Granville, 530 U.S. 57 (2000). https://supreme.justia.com/cases/federal/us/530/57/
-Affirmed the fundamental constitutional right of parents to direct the upbringing of their children, underpinning Section 9's parental custodianship provisions.
-In re Dallas County, No. 24-0426 (Tex. 2024). https://www.gibsondunn.com/texas-supreme-court-unanimously-upholds-constitutionality-of-fifteenth-court-of-appeals/
-Unanimously upheld the legislature's creation of a specialized court with exclusive statewide jurisdiction, supporting Section 3's Information and Technology Courts.
+Granville, 530 U.S.
+57 (2000). https://supreme.justia.com/cases/federal/us/530/57/ Affirmed the fundamental constitutional right of parents to direct the upbringing of their children, underpinning Section 9's parental custodianship provisions.
+In re Dallas County, No.
+24-0426 (Tex.
+2024). https://www.gibsondunn.com/texas-supreme-court-unanimously-upholds-constitutionality-of-fifteenth-court-of-appeals/ Unanimously upheld the legislature's creation of a specialized court with exclusive statewide jurisdiction, supporting Section 3's Information and Technology Courts.
 National Pork Producers Council v.
-Ross, 598 U.S. 356 (2023). https://www.supremecourt.gov/opinions/22pdf/21-468_5if6.pdf
-Narrowed the dormant Commerce Clause as a basis for striking down state laws with extraterritorial effects, reducing constitutional risk for the PTIA's application to out-of-state platforms.
-Statutes and Federal Law — Sections 4, 6, 7, 8, 11
-47 U.S.C. §230 (Communications Decency Act, Section 230). https://www.law.cornell.edu/uscode/text/47/230
-Provides platform immunity from liability for user-generated content; the PTIA's process-obligation framework is designed to operate within this protection.
-17 U.S.C. §512 (Digital Millennium Copyright Act). https://www.copyright.gov/512/
-Established the notice-and-takedown model underlying the PTIA's correction-request process.
+Ross, 598 U.S.
+356 (2023). https://www.supremecourt.gov/opinions/22pdf/21-468_5if6.pdf Narrowed the dormant Commerce Clause as a basis for striking down state laws with extraterritorial effects, reducing constitutional risk for the PTIA's application to out-of-state platforms.
+Statutes and Federal Law — Sections 4, 6, 7, 8, 11 47 U.S.C. §230 (Communications Decency Act, Section 230). https://www.law.cornell.edu/uscode/text/47/230 Provides platform immunity from liability for user-generated content; the PTIA's process-obligation framework is designed to operate within this protection.
+17 U.S.C. §512 (Digital Millennium Copyright Act). https://www.copyright.gov/512/ Established the notice-and-takedown model underlying the PTIA's correction-request process.
 TAKE IT DOWN Act, Pub.
 L.
-No. 119-16 (2025). https://www.congress.gov/bill/119th-congress/senate-bill/146
-Federal legislation requiring platforms to maintain removal procedures for nonconsensual intimate images, using the same architecture as the PTIA.
+No.
+119-16 (2025). https://www.congress.gov/bill/119th-congress/senate-bill/146 Federal legislation requiring platforms to maintain removal procedures for nonconsensual intimate images, using the same architecture as the PTIA.
 18 U.S.C. §2701 et seq.
-(Stored Communications Act). https://www.law.cornell.edu/uscode/text/18/2701
-Federal framework governing law enforcement access to electronically stored communications and data; the PTIA's warrant requirement in Section 8 builds on this framework as applied to property held by storage and hosting entities.
-18 U.S.C. §2713 (Clarifying Lawful Overseas Use of Data Act, CLOUD Act). https://www.congress.gov/bill/115th-congress/senate-bill/2383
-Federal law governing cross-border government requests for stored data; Section 8 confirms the PTIA operates consistently with, rather than in conflict with, this framework.
+(Stored Communications Act). https://www.law.cornell.edu/uscode/text/18/2701 Federal framework governing law enforcement access to electronically stored communications and data; the PTIA's warrant requirement in Section 8 builds on this framework as applied to property held by storage and hosting entities.
+18 U.S.C. §2713 (Clarifying Lawful Overseas Use of Data Act, CLOUD Act). https://www.congress.gov/bill/115th-congress/senate-bill/2383 Federal law governing cross-border government requests for stored data; Section 8 confirms the PTIA operates consistently with, rather than in conflict with, this framework.
 Tex.
 Code Crim.
 Proc.
-Art. 18B.351. https://statutes.capitol.texas.gov/Docs/CR/htm/CR.18B.htm
-Governs warrant procedures for obtaining stored electronic communications and data in Texas; directly informs Section 8's warrant-required standard for government access to stored property.
+Art.
+18B.351. https://statutes.capitol.texas.gov/Docs/CR/htm/CR.18B.htm Governs warrant procedures for obtaining stored electronic communications and data in Texas; directly informs Section 8's warrant-required standard for government access to stored property.
 Tex.
 Civ.
 Prac. & Rem.
-Code, Chapter 73 (Libel). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.73.htm
-Texas defamation statutes; the PTIA's correction-first approach provides a faster, more accessible alternative while producing findings admissible in Chapter 73 proceedings.
+Code, Chapter 73 (Libel). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.73.htm Texas defamation statutes; the PTIA's correction-first approach provides a faster, more accessible alternative while producing findings admissible in Chapter 73 proceedings.
 Tex.
 Civ.
 Prac. & Rem.
-Code, Chapter 98B (Unlawful Disclosure of Intimate Visual Material). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.98B.htm
-Texas civil remedies for nonconsensual distribution of intimate images; the PTIA's expedited removal procedures supplement these existing protections.
+Code, Chapter 98B (Unlawful Disclosure of Intimate Visual Material). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.98B.htm Texas civil remedies for nonconsensual distribution of intimate images; the PTIA's expedited removal procedures supplement these existing protections.
 Tex.
 Civ.
 Prac. & Rem.
-Code, Chapter 27 (Texas Citizens Participation Act). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.27.htm
-The Texas anti-SLAPP statute; the PTIA includes an express exemption to prevent procedural obstruction of correction actions.
+Code, Chapter 27 (Texas Citizens Participation Act). https://statutes.capitol.texas.gov/Docs/CP/htm/CP.27.htm The Texas anti-SLAPP statute; the PTIA includes an express exemption to prevent procedural obstruction of correction actions.
 Tex.
 Bus. & Com.
-Code, Chapter 521 (Identity Theft Enforcement and Protection Act). https://statutes.capitol.texas.gov/Docs/BC/htm/BC.521.htm
-Existing Texas data security and breach notification requirements; Section 8's data security safeguards for stored property supplement rather than replace this chapter.
+Code, Chapter 521 (Identity Theft Enforcement and Protection Act). https://statutes.capitol.texas.gov/Docs/BC/htm/BC.521.htm Existing Texas data security and breach notification requirements; Section 8's data security safeguards for stored property supplement rather than replace this chapter.
+About this article.
+Published by the office of Rep.
+Will Campbell, candidate for Texas House District 109.
+This article explains the Protecting Truth and Identity Act (PTIA) for a general audience and is not a substitute for the full legislative text or independent legal advice.
+Texas Text House of Representatives Law False Information Identity Online Identity Truth Wilson Campbell Previous Previous An Analysis of Investigations Into Non-Citizen Voting in America Next Next ­­We Can End Property Taxes South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

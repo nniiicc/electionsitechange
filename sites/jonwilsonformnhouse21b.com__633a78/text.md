@@ -1,18 +1,14 @@
-Jon Wilson for MN House
-Hard Working – Loyal – Leader
-Jon Wilson For MN House
-Promises Made,
-Promises Kept
-During my time as mayor, I’ve spearheaded initiatives that have transformed our community for the better.
+Home About Issues & Values Donation or Volunteer Contact Jon Wilson for MN House Hard Working – Loyal – Leader Our Campaign Our Campaign Find out about key issues and values that are important to me.
+View Page Make Donation Make Donation All donations are greatly appreciated!
+View Page Contact Contact Feel free to reach out to me about any issues that are important to you!
+View Page JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE JON WILSON FOR MN HOUSE Jon Wilson For MN House Promises Made, Promises Kept During my time as mayor, I’ve spearheaded initiatives that have transformed our community for the better.
 From revitalizing our downtown areas to implementing sustainable policies, every decision has been aimed at improving the lives of our residents.
 Together, we’ve achieved remarkable milestones, but our journey continues as we strive for an even brighter future.
 I am now running for MN House and would appreciate your support!
-Jon Wilson for MN House
-Support Our Activities
-By a Donation
-All donations are greatly appreciated.
-Jon Wilson For MN House
-Key Issues
-As a political candidate, my purpose is to advocate for the values and interests of our community, fostering inclusive growth, equitable opportunities, and sustainable progress.
+Development Community Family About Jon Wilson Jon Wilson for MN House Support Our Activities By a Donation All donations are greatly appreciated.
+View Page Jon Wilson For MN House Key Issues As a political candidate, my purpose is to advocate for the values and interests of our community, fostering inclusive growth, equitable opportunities, and sustainable progress.
 Through collaborative leadership, I aim to address pressing issues, empower individuals, and create a brighter future for generations to come.
 Together, let’s build a stronger, more resilient society where everyone has the chance to thrive.
+Law Enforcement Women’s Rights Immigration Rural Economic Growth Farming in SW Minnesota Social EMT Funding View All Home About Issues & Values Donation or Volunteer Contact ©# Jon Wilson for MN House | Prepared and paid for by the Jon Wilson for MN House Committee.
+909 10th Street South St.
+James, MN 56081 Home About Issues & Values Donation or Volunteer Contact

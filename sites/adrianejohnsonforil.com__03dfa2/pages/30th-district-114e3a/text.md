@@ -1,23 +1,4 @@
-The 30th district
-The 30th Legislative District, being north of Chicago, encompasses a mixture of urban communities and small towns within those communities.
+Skip to content Home About 30th District Issues Events Resources Contact Home About 30th District Issues Events Resources Contact contribute The 30th district The 30 th Legislative District, being north of Chicago, encompasses a mixture of urban communities and small towns within those communities.
 Major employers in district communities include Allstate Insurance, Baxter International, Six Flags Great America, Motorola, Medline Hospital Supplies, Abbott Labs, Grainger, Discover and ACCO Brands.
-The District Includes
-The following communities
-- Beach Park
-- Buffalo Grove
-- Deerfield
-- Green Oaks
-- Gurnee
-- Lake Bluff
-- Lake Forest
-- Libertyville
-- Lincolnshire
-- Mettawa
-- Mundelein
-- North Chicago
-- Northbrook
-- Park City
-- Riverwoods
-- Vernon Hills
-- Waukegan
-- Wheeling
+The District Includes The following communities Beach Park Buffalo Grove Deerfield Green Oaks Gurnee Lake Bluff Lake Forest Libertyville Lincolnshire Mettawa Mundelein North Chicago Northbrook Park City Riverwoods Vernon Hills Waukegan Wheeling About 30th District Issues Events Resources Contact Privacy Policy campaign committee address 2033 N.
+Milwaukee Avenue, #214, Riverwoods, IL 60015 friendsofadrianejohnson@gmail.com Facebook

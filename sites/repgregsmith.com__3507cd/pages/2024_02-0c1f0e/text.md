@@ -1,6 +1,18 @@
-February 28, 2024
-HB 4002 Passes the Joint Committee On Addiction and Community Safety Response
-Salem, Ore. – Yesterday, the Joint Committee On Addiction and Community Safety Response passed House Bill 4002 (with the -33 amendment).
+About Issues Previous Endorsements Photos/Video News Join Donate Menu Menu Press Release: Representative Smith votes to Recriminalize Drugs in Oregon February 29, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 29, 2024 Representative Smith votes to Recriminalize Drugs in Oregon SALEM, Ore. – Today, House Bill 4002 passed the Oregon House of Representatives.
+Representative Greg Smith (R-Heppner) voted in favor of the legislation because it recriminainalizes hard drugs and provides more pathways to treatment for those struggling with addiction.
+“Our Police Chiefs, County Sheriffs, District Attorneys, Counties, and Cities believe that HB 4002 strikes a balance between criminal accountably and the need for adequate access to behavioral health resources,” said Representative Smith, “I wholeheartedly agree and was proud to support this legislation, it’s justice with mercy”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-29 15:09:12 2024-03-12 10:03:20 Press Release: Representative Smith votes to Recriminalize Drugs in Oregon Press Release: Highway 11 Safety Update from Representative Greg Smith February 28, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 28, 2024 Highway 11 Safety Update from Representative Greg Smith SA LEM, Ore. – Today, Representative Greg Smith (R-Heppner) was notified by Representative Tawna Sanchez, who is Co-Chair of the full Joint Ways and Means Committee, that Oregon State Police is increasing it’s presence in the Milton-Freewater area.
+The agency is collaborating in their efforts with the Milton-Freewater Police Department, the Umatilla County Sheriff’s Office, and the Washington State Patrol.
+“Constituents of District 57 have made it clear that Highway 11 is dangerous and that action needs to be taken,” said Representative Smith, “I’m pleased to announce that OSP is increasing their presence in and coordination with the Milton-Freewater community to enhance safety along Highway 11”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon History.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-28 15:07:02 2024-03-12 10:03:20 Press Release: Highway 11 Safety Update from Representative Greg Smith Press Release: HB 4002 Passes the Joint Committee On Addiction and Community Safety Response February 28, 2024 / in News FOR IMMEDIATE RELEASE : February 28, 2024 HB 4002 Passes the Joint Committee On Addiction and Community Safety Response Salem, Ore. – Yesterday, the Joint Committee On Addiction and Community Safety Response passed House Bill 4002 (with the -33 amendment).
 The amended bill will now be considered on the House and Senate floors.
 Representative Greg Smith (R-Heppner) was appointed to serve on the Joint Committee On Addiction and Community Safety Response the Friday before the 2024 Session began.
 The committee itself was tasked with reviewing Ballot Measure 110 and proposing solutions to the public safety and behavioral health crises the State of Oregon is facing.
@@ -21,7 +33,7 @@ The bill will also provide funding for local communities to build deflection pla
 “I am pleased to support HB 4002 and the clear, meaningful, and simple solutions to the current drug crisis our state is facing.
 This bill recognizes police and prosecutors have a role to play in interdicting the supply of narcotics and intervening to protect people suffering from addiction,” said Umatilla County District Attorney and Oregon District Attorneys Association President Dan Primus.
 “Representative Smith played a critical role in securing funding for our jail and has always been a strong advocate for law enforcement in Salem,” said Milton-Freewater Chief of Police Joe Shurtz, “we applaud him and his colleagues at the legislature for working collaboratively to craft bipartisan legislation that combines vital tools for law enforcement with significant drug treatment resources to compassionately help those struggling with addiction”.
-On Saturday February 17th, Rep.
+On Saturday February 17 th , Rep.
 Smith hosted a listening session on Measure 110 in Boardman.
 There were 46 people in attendance (in-person) and over 2,200 people have viewed the recordings of the meeting.
 Rep.
@@ -33,13 +45,70 @@ I attended that meeting and was amazed by the turnout and the individuals that s
 David Drotzmann, “Preliminary CDC data tells us Oregon experienced a 41% increase in overdose deaths from last year – this comes as no surprise to mayors, city councilors, and city employees who see the tragedy unfolding on our streets.
 HB 4002 will allow cities to intervene to protect the health and safety of those suffering from addiction but in a way that moves towards recovery”.
 “This committee tackled very serious issues.
-It was critical that we strike a balance between criminal accountably and the need for adequate access to behavioral health resources,” said Representative Smith, “after much work and collaboration, I believe this bill will make meaningful improvements to the lives of Oregonians and I stand with our Police Chiefs, County Sheriffs, District Attorneys, Counties, and Cities in support of HB 4002″.
-Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4th longest serving State Representative in Oregon history.
+It was critical that we strike a balance between criminal accountably and the need for adequate access to behavioral health resources,” said Representative Smith , “after much work and collaboration, I believe this bill will make meaningful improvements to the lives of Oregonians and I stand with our Police Chiefs, County Sheriffs, District Attorneys, Counties, and Cities in support of HB 4002″.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
 He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
 Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
 Additionally, he is the ranking member on the House Revenue Committee.
-To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov
-###
-CONTACT INFORMATION:
-Representative Greg Smith
-541-993-5236
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-28 15:04:34 2024-03-12 10:03:20 Press Release: HB 4002 Passes the Joint Committee On Addiction and Community Safety Response Article: House passes bill recriminalizing drugs February 27, 2024 / in News Article Link: House passes bill recriminalizing drugs https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-27 10:40:01 2024-03-26 10:41:08 Article: House passes bill recriminalizing drugs Press Release: Representative Smith to host Stanfield 3rd Grade Class in Committee February 19, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 19, 2024 Representative Smith to host Stanfield 3rd Grade Class in Committee SALEM, Ore. – Last November, Representative Greg Smith (R-Heppner) visited Stanfield Elementary’s 3 rd grade class.
+He gave a presentation on “how an idea becomes a law” to Ms.
+Shanna Evans’ class.
+The interactive exercise was based on establishing an official flavor of ice cream for the State of Oregon.
+Rep.
+Smith promised to follow-up with the class during the legislative session in 2024.
+Today, Representative Smith is pleased to announce that several students will virtually testify before the Joint Ways and Means General Government Subcommittee on February 21st at 3:00.
+Rep.
+Smith, who is a Co-Chair of the committee, has invited them to discuss what they learned and the ultimate decision the class made on what they believe Oregon’s official State ice cream should be.
+“My students loved it when Rep.
+Smith came in November and taught them the process of how a bill becomes law.
+They continue to talk about it and teach their families the information too,” said Ms.
+Evans, “They are so excited for this opportunity to speak with the committee and are grateful for such an amazing experience”.
+“Last year, the students were learning about how an idea becomes a law and now they will be part of the legislative process,” said Rep.
+Smith, “civic engagement is so critical and I’m glad a group of elementary students will be testifying on their experience learning about the legislative process”.
+Link to the committee’s website (and to watch the meeting virtually): https://olis.oregonlegislature.gov/liz/2024R1/Committees/JWMGG/Overview Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-19 15:01:28 2024-03-12 10:03:20 Press Release: Representative Smith to host Stanfield 3rd Grade Class in Committee Article: Rep.
+Smith hears desire for Measure 110 changes at listening session February 19, 2024 / in News Article Link: Rep.
+Smith hears desire for Measure 110 changes at listening session https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-19 10:38:34 2024-03-26 10:39:38 Article: Rep.
+Smith hears desire for Measure 110 changes at listening session Press Release: HB 4102 Passes the House February 15, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 15, 2024 HB 4102 Passes the House SALEM, Ore. – Today, House Bill 4102 passed the floor of the Oregon House of Representatives.
+Representative Greg Smith (R-Heppner) is the legislation’s Chief Sponsor and he carried the bill on the floor.
+Last session, HB 3409 established the Natural and Working Lands Fund.
+The fund will promote public private partnerships that protect the environment and rural Oregon’s way of life.
+HB 4102 will ensure that Oregon is positioned to receive, directly into the Natural and Working Lands Fund account, investments that may come available from the federal government, private investments, and other sources.
+“Last session, the Natural and Working Lands Fund was established to allow landowners to protect the environment and rural Oregon’s way of life” said Rep.
+Smith, “this bill is a technical fix which makes sure that the Natural and Working Lands account itself can receive all types of funding, when such funds become available”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-15 14:59:48 2024-03-12 10:03:20 Press Release: HB 4102 Passes the House Press Release: Representative Smith to host Measure 110 Listening Session February 9, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 9, 2024 Representative Smith to host Measure 110 Listening Session Boardman, Ore. – On Saturday, February 17 th at the Port of Morrow’s Riverfront Center (2 East Marine Drive Boardman, Oregon 97818), Representative Greg Smith (R-Heppner) will be hosting a 90 minute listening session on Measure 110, starting at 10:00.
+Last week, Rep.
+Smith was appointed to serve on the Joint Committee On Addiction and Community Safety Response.
+This committee will have the task of reviewing Measure 110 and proposing solutions to the public safety and behavioral health crises the State of Oregon is facing.
+“I want to hear from my constituents regarding their thoughts on Measure 110 and how the legislature should go about solving the public safety and behavioral health crises the State of Oregon is facing,” said Representative Smith, “this meeting in not for me to deliver a speech or lecture, but rather to listen and ask questions to constituents, law enforcement officers, public safety specialists, and health care professionals”. *Please note that the location of this meeting was chosen because of its central location within District 57.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-09 14:56:37 2024-03-12 10:03:20 Press Release: Representative Smith to host Measure 110 Listening Session Press Release: Smith Calls Out State Economists on Morrow County Forecast February 7, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 7, 2024 Smith Calls Out State Economists on Morrow County Forecast SALEM, Ore. – Today, the Office of Economic Analysis’s release d the March Economic and Revenue Forecast.
+During their presentation, one topic they discussed was county productivity.
+Their report showed ( see attached ) that Morrow County is within the bottom quintile of percent change in real GDP per worker (2019-2022), having a greater than 4% decrease.
+Rep.
+Smith believes these numbers could be inaccurate and has invited the State Economists out to District 57.
+“Morrow County is a highly productive county,” said Rep.
+Smith, “that’s why I invited our State Economists to come out to District 57 and see for themselves”.
+Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-07 14:47:25 2024-03-12 10:03:20 Press Release: Smith Calls Out State Economists on Morrow County Forecast Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast February 7, 2024 / in News The Honorable Greg Smith Oregon House of Representatives District 57 FOR IMMEDIATE RELEASE : February 7, 2024 Representative Greg Smith Comments on Quarterly Revenue Forecast SALEM, Ore. – Representative Greg Smith (R-Heppner) release d the following statement in response to the Office of Economic Analysis’s March Economic and Revenue Forecast announced today: “Today’s revenue forecast continued the upward trend of previous forecasts, however, it was only a slight uptick.
+Given this, fiscal prudence is paramount when managing Oregon’s finances and balancing the budget.
+The legislature must prepare for a potential drop in the economy by bolstering Oregon’s savings.
+We must allocate more dollars to the rainy-day fund, so that the State can protect it’s critical programs, including education, health care, and public safety.” Representative Greg Smith is currently serving his twelfth term as a State Representative, making him the longest serving member in the Oregon Legislature, as well as the 4 th longest serving State Representative in Oregon history.
+He holds a gavel as the Co-Chair of the Joint Ways and Means Subcommittee on General Government.
+Representative Smith also serves as the Co-Vice Chair of the full Joint Ways and Means Committee.
+Additionally, he is the ranking member on the House Revenue Committee.
+To reach out, please visit Rep Smith’s Facebook Page or send him an email at rep.gregsmith@oregonlegislature.gov ### CONTACT INFORMATION: Representative Greg Smith 541-993-5236 https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png 0 0 Greg Smith https://repgregsmith.com/wp-content/uploads/2022/03/gregsmith-logo.png Greg Smith 2024-02-07 13:29:35 2024-03-12 10:03:20 Press Release: Representative Greg Smith Comments on Quarterly Revenue Forecast Page 1 of 2 1 2 July 2026 March 2026 February 2026 January 2026 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 June 2024 April 2024 March 2024 February 2024 January 2024 December 2023 November 2023 August 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 December 2022 August 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 September 2021 November 2020 August 2020 June 2020 July 2019 April 2019 February 2019 January 2019 May 2018 March 2018 February 2018 January 2018 October 2017 September 2016 Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420 P.O.
+Box 215 Heppner, OR 97836 541-993-5236 | electgregsmith@gmail.com © Copyright - Greg Smith Scroll to top Scroll to top

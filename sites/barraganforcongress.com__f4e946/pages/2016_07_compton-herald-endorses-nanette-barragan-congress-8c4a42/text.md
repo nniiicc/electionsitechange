@@ -1,21 +1,13 @@
-FOR IMMEDIATE RELEASE
-July 18, 2016
-Contact: Mike Trujillo
-Mike[at]barraganforcongress[dot]com
-Compton Herald endorses Nanette Barragán for Congress
-SAN PEDRO, CA – This morning, the Compton Herald announced its support for Nanette Barragán for Congress.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Compton Herald endorses Nanette Barragán for Congress FOR IMMEDIATE RELEASE July 18, 2016 Contact: Mike Trujillo Mike[at]barraganforcongress[dot]com Compton Herald endorses Nanette Barragán for Congress SAN PEDRO, CA – This morning, the Compton Herald announced its support for Nanette Barragán for Congress.
 “Unbought, uncompromised, unbeholden to special interest groups, Nanette Barragán is the Compton Herald’s choice for Congress,” praised Senator Hall’s hometown paper.
 The Compton Herald joins a growing coalition of journalists who respect Nanette’s commitment and integrity as a politician, including the Los Angeles Times and Daily Breeze.
-Link to the full story here.
-Compton Herald endorses Nanette Barragán for Congress
-Unbought, uncompromised, unbeholden to special interest groups, Nanette Barragán is the Compton Herald’s choice for Congress
-COMPTON — Today, the Compton Herald, formerly Metropolis newspaper, a strong voice of the Compton community for nearly a decade, announces its endorsement of Nanette Barragán for Congress in the general election in California’s 44th District.
+Link to the full story here .
+Compton Herald endorses Nanette Barragán for Congress Unbought, uncompromised, unbeholden to special interest groups, Nanette Barragán is the Compton Herald’s choice for Congress COMPTON — Today, the Compton Herald, formerly Metropolis newspaper, a strong voice of the Compton community for nearly a decade, announces its endorsement of Nanette Barragán for Congress in the general election in California’s 44th District.
 The Herald, formerly Metropolis newspaper, has been a strong voice in the Compton community for nearly a decade, which has given an unabridged voice to the people of Compton.
 “To receive the endorsement of the Compton Herald is incredibly meaningful to me,” said Barragán.
 “The Herald is a publication that understands at an intimate level the hopes, needs, struggles, and triumphs of the Compton community.
 It is the voice of the people of Compton, and its commitment to holding leadership accountable and bringing urgent issues to light provides an invaluable service.
-To have earned the Compton Herald’s endorsement is a reminder that every community needs a representative who not only embodies the values of the community but understands exactly what it needs to succeed.”
-The Compton Herald was founded by Jarrette Fellows, Jr., who serves as CEO, publisher, and editor.
+To have earned the Compton Herald’s endorsement is a reminder that every community needs a representative who not only embodies the values of the community but understands exactly what it needs to succeed.” The Compton Herald was founded by Jarrette Fellows, Jr., who serves as CEO, publisher, and editor.
 For nearly 10 years, the Herald, formerly known as Metropolis Los Angeles, has been an invaluable source of information and support, bringing the city together and providing an excellent example to aspiring Compton journalists.
 “We firmly believe that Nanette Barragán is the best choice to represent California’s 44th District,” Fellows said.
 “It’s about who’s going to work diligently for the city without the interference of special interests groups who have no heart for Compton, but are only concerned about their own selfish desires.
@@ -30,5 +22,7 @@ High School, learned to swim at the Carson Pool, and studied at the Carson Libra
 She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first Latina elected to the Hermosa Beach City Council.
 Barragán was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
 She currently works with one of Los Angeles’s largest and most prominent children’s advocacy organizations to provide free legal services to children in foster care who have special education needs.
-Find more information here: www.barraganforcongress.com.
-###
+Find more information here: www.barraganforcongress.com .
+### Stacy Lona 2016-07-19T09:43:45-07:00 July 18th, 2016 | Endorsements , Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Daily Breeze Endorses Nanette Barragán in CA-44 Daily Breeze Endorses Nanette Barragán in CA-44 Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Barragán Neck and Neck With Hall in New CA-44 Poll Barragán Neck and Neck With Hall in New CA-44 Poll Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

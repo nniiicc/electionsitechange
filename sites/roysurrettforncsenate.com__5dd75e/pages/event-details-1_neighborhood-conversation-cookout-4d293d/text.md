@@ -1,5 +1,2 @@
-Sun, Sep 20
-Arrowhead Beach Clubhouse
-Meet your NC State Senate District 2 Candidate, Roy Surrett.
-Sep 20, 2026, 1:00 PM – 3:00 PM
-Arrowhead Beach Clubhouse, 600 Sioux Trail, Edenton, NC 27932, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Neighborhood Conversation & Cookout Sun, Sep 20 | Arrowhead Beach Clubhouse Meet your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Sep 20, 2026, 1:00 PM – 3:00 PM Arrowhead Beach Clubhouse, 600 Sioux Trail, Edenton, NC 27932, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

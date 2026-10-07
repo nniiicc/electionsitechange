@@ -1,7 +1,4 @@
-Point of View: New Florida allows for domestic violence injunctions to protect pets
-Staff Writer
-Palm Beach Post, 7/18/2020
-Domestic violence takes on many ugly forms and is almost always considered a serious criminal offense.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Point of View: New Florida allows for domestic violence injunctions to protect pets July 18, 2020 / in News / by David Silvers Staff Writer Palm Beach Post, 7/18/2020 Domestic violence takes on many ugly forms and is almost always considered a serious criminal offense.
 While assault, battery, kidnapping, false imprisonment and any offense resulting in physical injury or death of a family or household member are the most common forms of domestic violence many perpetrators also threaten to harm or kill a family or household pet to exert control over their victims.
 Research shows that pet abuse is a significant domestic violence predictor.
 To protect themselves from abuse or threats of abuse, a domestic violence victim may petition for a protective injunction.
@@ -13,7 +10,7 @@ Without express authorization to order relief pertaining to pets, a court issuin
 House Bill 241 expressly authorizes a court issuing a domestic violence injunction to: award the petitioner the exclusive care, possession, or control of an animal that the petitioner, respondent, or a minor child residing in the home of either party owns, possesses, harbors, keeps, or holds, except an animal owned primarily for a bonafide agricultural purpose or a service animal, if the respondent is the service animal’s handler; order the respondent to have no contact with the animal; and prohibits the respondent from taking, transferring, encumbering, concealing, harming or otherwise disposing of the animal.
 The essence of this legislation is so that people don’t stay in abusive relationships out of fear that the family pet may be harmed or killed by a perpetrator of domestic violence, which was my motivation for sponsoring this bill.
 I am pleased that Gov.
-Ron DeSantis recently signed into law the Senate companion bill (SB 1082), which passed in both the House and the Senate.
+Ron DeSantis recently signed into law the Senate companion bill ( SB 1082 ), which passed in both the House and the Senate.
 The signing of this legislation could and most probably will lead to saving lives, including beloved family pets.
-DAVID SILVERS, LAKE CLARKE SHORES
-Editor’s note: Silvers represents District 87 in the Florida House of Representatives.
+DAVID SILVERS, LAKE CLARKE SHORES Editor’s note: Silvers represents District 87 in the Florida House of Representatives. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-134839.png 444 785 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2020-07-18 18:45:16 2025-06-17 17:42:32 Point of View: New Florida allows for domestic violence injunctions to protect pets Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: Improving mental health for minors remains a top priority Another viewpoint Improving mental health for minors remains a top priority Another viewpoint Link to: Time to fix coverage gap for mental health; Insurance policies in Florida can severely limit access to treatment Time to fix coverage gap for mental health; Insurance policies in Florida can...
+Scroll to top Scroll to top

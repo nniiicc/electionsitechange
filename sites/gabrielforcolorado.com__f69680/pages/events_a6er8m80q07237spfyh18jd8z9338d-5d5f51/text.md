@@ -1,5 +1,7 @@
-Back to All Events
-Join Gabriel among other city and county leaders, along with organizations that are actively working to address homelessness across the Denver Metro in order to have a conversation about what Thornton can do to address the issues facing our community.
-Previous
-Previous
-September 23
+0 Skip to Content Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Endorsements 📣 Leaders Organizations Events 🗓️ Media 📷 Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Open Menu Close Menu Meet Gabriel 🤝 Issues ✊ Folder: Endorsements 📣 Back Leaders Organizations Events 🗓️ Folder: Media 📷 Back Press Releases Event Media Our Team Join us 🫂 | Reach out 📞 Donate Back to All Events Small Businesses Town Hall Monday, September 28, 2026 6:30 PM 7:30 PM Thornton Elementary School 991 Eppinger Boulevard Thornton, Colorado, 80229 United States (map) Google Calendar ICS Join Gabriel among other city and county leaders, along with organizations that are actively working to address homelessness across the Denver Metro in order to have a conversation about what Thornton can do to address the issues facing our community.
+Previous Previous September 23 Gabriel Cervantes x CU Dems Meet Gabriel 👋 Connect/Contact 🤝 Donate💵 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign-Up Sign up with your email address to receive campaign updates and information about events!
+Email Address Sign Up Thank you!
+Paid for by Gabriel for Colorado Gabriel Cervantes Registered Agent: Roberta Ayala 12470 York St.
+#404 Eastlake, CO 80614

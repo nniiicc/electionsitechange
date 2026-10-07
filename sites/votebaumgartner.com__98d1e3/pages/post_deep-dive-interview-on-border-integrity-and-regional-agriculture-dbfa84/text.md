@@ -1,4 +1,4 @@
-Deep-Dive Interview on Border Integrity and Regional Agriculture
-Walla Walla Union-Bulletin | February 2026
-In a deep-dive interview with the Walla Walla Union-Bulletin, Congressman Baumgartner discussed his stance on border integrity and the critical importance of regional agriculture to Eastern Washington's economy.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Deep-Dive Interview on Border Integrity and Regional Agriculture stan889 Feb 15 1 min read Walla Walla Union-Bulletin | February 2026 In a deep-dive interview with the Walla Walla Union-Bulletin, Congressman Baumgartner discussed his stance on border integrity and the critical importance of regional agriculture to Eastern Washington's economy.
 The conversation covered trade policy, farm support programs, and the unique challenges facing rural communities in the district.
+Watch the full interview In Congress Recent Posts See All Back from Weeklong Trip to Israel, Baumgartner Reflects Trump Touts Winning in State of the Union Address Baumgartner Reflects on European Trip and Military Spending Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

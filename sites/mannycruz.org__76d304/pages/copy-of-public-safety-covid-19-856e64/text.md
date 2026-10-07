@@ -1,8 +1,4 @@
-Home
-Meet Manny
-Priorities
-Endorsements
-Manny in the News
-More
-I’ll fight for additional funding for on the ground addiction recovery and mental health services.
+top of page Donate Home Meet Manny Priorities Housing & Seniors Education & Young People Climate & Environmental Justice Economic Development & Tourism Jobs Mental Health & Opioids Reproductive Justice Public Safety & COVID-19 Endorsements Manny in the News More Use tab to navigate through the menu items.
+Mental Health & Opioids I’ll fight for additional funding for on the ground addiction recovery and mental health services.
 I’ll work with community health centers, small businesses, and organizations to create a long-term policy solution to address substance use disorder.
+Policy Proposals Act relative to mental health parity implementation HOUSING & SENIORS EDUCATION & YOUNG PEOPLE CLIMATE & ENVIRONMENTAL JUSTICE ECONOMIC DEVELOPMENT & TOURISM JOBS PUBLIC SAFETY & COVID-19 REPRODUCTIVE JUSTICE Email mannycruzsalem@gmail.com Follow Paid for by The Cruz Committee bottom of page

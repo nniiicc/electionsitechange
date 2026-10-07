@@ -1,7 +1,9 @@
 {
  "description": "About Debra Davis, candidate for STATE DELEGATE",
  "final_url": "https://www.votedebradavis.com/about_debra",
- "paid_for_by": null,
+ "fingerprint": "d1bca0380173ea8dfd2cedfd71bab2bdb3ebd15f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Debra",
  "years_mentioned": [
   "2010",

@@ -1,7 +1,9 @@
 {
  "description": "patricmooreformaine's campaign",
  "final_url": "https://www.patricmooreformaine.com/",
- "paid_for_by": null,
+ "fingerprint": "7247b2e8a11865ea7c3e5a671e38c84704c7533f",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate",
  "title": "patricmooreformaine",
  "years_mentioned": []
 }

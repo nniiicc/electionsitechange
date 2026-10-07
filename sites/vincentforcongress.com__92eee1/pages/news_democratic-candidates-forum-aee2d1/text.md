@@ -1,34 +1,25 @@
-PRESS RELEASE
-Democratic Candidates Forum
-Democratic Candidate Forum to Showcase Federal and Statewide Candidates Ahead of Primary Elections
-John Vincent hosts unified forum for candidates on the Democratic primary ballot for SC-7 voters
-FLORENCE, SC — John Vincent, the presumptive Democratic nominee for Congress in South Carolina's 7th District, will host a Democratic Candidate Forum on Tuesday, May 19, 2026 at the Southeastern Institute of Manufacturing and Technology (SiMT) Building on the campus of Florence-Darlington Technical College.
+Skip navigation menu Home About News Events Issues Endorsements Volunteer Official Store Donate Home About News Events Issues Endorsements Volunteer Official Store Donate NEWS ARTICLE Fry, Vincent outlines priorities in SC-7 race NEWS ARTICLE New Poll: Vincent and Fry in Statistical Dead Heat in South Carolina's 7th District NEWS ARTICLE Russell Fry Abandons SC-7 for a Shot at U.S.
+Senate PRESS RELEASE Democratic Candidates Forum Campaign News 1 Year Strong - # Days to Go!
+PRESS RELEASE Jaime Harrison Endorses John Vincent for U.S.
+Congress PRESS RELEASE Campaign Office Officially Open PRESS RELEASE John Vincent Officially Files In The News The SAVE Act SCAM - The Truth Revealed News Alert SC Measles Outbreak Local News Data Center Proposals: Balancing the Checkbook with Regional Reality In The News The ICE Shooting of Renee Good In The News Russell Fry Votes against Community Healthcare...
+Again John's Hot Take Stop the Insanity: Why I’m Running Against a Political Coward Hot Topic America Has Become What We Claim to Fight Against Campaign Update We're Fighting for you in 2026 Hot Topic Backgrounder 1.17 MILLION AMERICAN JOBS LOST IN 2025 Hot Topic BackGrounder Is Hegseth Guilty of War Crimes Campaign Blog This Thanksgiving, Let's Restore the Spirit That Built America News Backgrounder The Hidden Crisis of Seasonal Employment News Opinion Gun at No Kings Protest in Myrtle Beach Campaign News No Kings in Conway & Myrtle Beach SC Legislation Testimony Against State Bill 323 EDITORIAL Opinion Sometimes Principle Demands a Stand PRESS RELEASE JOHN VINCENT ENDORSES CANDIDATES IN KEY RACES PRESS RELEASE "FIGHT FOR DEMOCRACY FESTIVAL" DRAWS RECORD CROWD OF 350+ TV News WPDE: Democrat Aims to Unseat SC 7th District Incumbent State Legislation Testimony in Columbia Against State Bill 323 NEWS ARTICLE Forward Party Endorses U.S.
+House Candidate John Gregory Vincent for South Carolina Apr 19 2026 PRESS RELEASE Democratic Candidates Forum Democratic Candidate Forum to Showcase Federal and Statewide Candidates Ahead of Primary Elections John Vincent hosts unified forum for candidates on the Democratic primary ballot for SC-7 voters FLORENCE, SC — John Vincent, the presumptive Democratic nominee for Congress in South Carolina's 7th District, will host a Democratic Candidate Forum on Tuesday, May 19, 2026 at the Southeastern Institute of Manufacturing and Technology (SiMT) Building on the campus of Florence-Darlington Technical College.
 The forum will bring together Democratic candidates running for federal and statewide offices on the ballot for voters in South Carolina's 7th Congressional District.
 Vincent, who is running unopposed in the Democratic primary, is hosting the forum as a service to South Carolina voters and the Democratic Party.
 The event aims to inform and energize voters, strengthen campaign efforts across the district, and build unity among Democratic candidates ahead of the November general election.
 "I'm running unopposed in the primary, which gives me the opportunity to focus on something bigger than my own campaign—helping voters hear directly from all the Democratic candidates who want to represent them," said John Vincent.
 "Our party is strongest when we work together.
-This forum is about giving voters the information they need to make their voices heard in the primaries, and building the foundation for Democratic success in November."
-Event Details:
-- Date: Tuesday, May 19, 2026
-- Time: 5:30 PM – 7:30 PM
-- Location: Southeastern Institute of Manufacturing and Technology (SiMT) Building
-Florence-Darlington Technical College
-1951 Pisgah Road, Florence, SC 29501
-- Click here to RSVP.
-On-Stage Participants: Candidates running for the following offices will participate in the formal forum program with opening statements, Q&A, and closing statements:
-- Governor
-- Lieutenant Governor
-- U.S.
-Senate
-- Constitutional Officers (Treasurer, Superintendent of Education, etc.)
-Meet & Greet Participants: Candidates for State Senate and State House of Representatives are welcome to participate in the meet-and-greet session, will be recognized by the host, and may participate in post-forum media interviews.
+This forum is about giving voters the information they need to make their voices heard in the primaries, and building the foundation for Democratic success in November." Event Details: Date: Tuesday, May 19, 2026 Time: 5:30 PM – 7:30 PM Location: Southeastern Institute of Manufacturing and Technology (SiMT) Building Florence-Darlington Technical College 1951 Pisgah Road, Florence, SC 29501 Click here to RSVP.
+On-Stage Participants: Candidates running for the following offices will participate in the formal forum program with opening statements, Q&A, and closing statements: Governor Lieutenant Governor U.S.
+Senate Constitutional Officers (Treasurer, Superintendent of Education, etc.) Meet & Greet Participants: Candidates for State Senate and State House of Representatives are welcome to participate in the meet-and-greet session, will be recognized by the host, and may participate in post-forum media interviews.
 Information Tables: All candidates, regardless of office, may set up information tables in the hall outside the auditorium to distribute campaign materials and speak with attendees.
 The forum will feature a meet-and-greet session beginning at 5:30 PM, giving attendees an opportunity to speak directly with candidates.
 The formal program begins at 6:15 PM and will include opening statements, an office-specific question-and-answer session with audience participation, and closing statements.
 The event will be live streamed to multiple platforms for voters who cannot attend in person.
 Media coverage is welcome.
-About John Vincent:
-John Vincent is the presumptive Democratic nominee for Congress in South Carolina's 7th District, running unopposed in the primary and advancing to the November 3, 2026 general election.
+About John Vincent: John Vincent is the presumptive Democratic nominee for Congress in South Carolina's 7th District, running unopposed in the primary and advancing to the November 3, 2026 general election.
 A retired Navy Command Master Chief with 20 years of distinguished service, his campaign is built on unity, service, and accountability, with a platform focused on fighting for families, veterans, and government reform.
-For more information, visit VincentForCongress.com
+For more information, visit VincentForCongress.com # # Donate About News Events Issues Endorsements Media Volunteer Please mail checks to: John Vincent for Congress P.O.
+Box 31043, Myrtle Beach, SC 29588 To contact us, email info@VincentForCongress.com 843-300-9234 HOME ABOUT ISSUES STORE MEDIA John Vincent is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by any branch of the U.S. government.
+Paid for by John Vincent for Congress You need to enable JavaScript to run this app.

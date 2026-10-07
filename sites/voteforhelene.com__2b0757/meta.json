@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteforhelene.com/",
- "paid_for_by": null,
+ "fingerprint": "fd9cac7e64d6b5f514109a67e6c59f3f42a1fe28",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Helene Meister",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

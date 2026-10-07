@@ -1,5 +1,7 @@
-March 2025 Letter
-There are members of my party who vote against it on a variety of issues far more than I do.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all How Do You Sleep At Night?
+How Do You Sleep At Night?
+How Do You Sleep At Night?
+Apr 1, 2025 Apr 1, 2025 March 2025 Letter Town Hall - 25 March 2025 - 18:19 - Peterborough, NH - Taken by Anthony Harris Town Hall - 25 March 2025 - 18:19 - Peterborough, NH - Taken by Anthony Harris There are members of my party who vote against it on a variety of issues far more than I do.
 The notoriety I receive from my votes of contention is due to the fact that I will speak to my position on the floor.
 Explaining why I choose to take the vote I do to all my colleagues, constituents, and anyone else interested.
 To be up front rather than hide behind my jacket as I take a tough vote, or worse, take a walk.
@@ -46,8 +48,7 @@ It is a given in that role that not every one will be content with every decisio
 To claim I am not representing my constituents is to ignore the reality of the job I am doing.
 I am in communication with my constituents.
 They are unafraid to call, text, email, or pull my aside on the street; and they know I am unafraid to respond.
-“How do you sleep at night?”
-As was asked by a constituent during the town hall this month.
+“How do you sleep at night?” As was asked by a constituent during the town hall this month.
 I sleep just fine knowing that I am serving my constitutional responsibility that I have been now elected twice to do.
 I have never nor would I claim to be the arbiter of what is an isn’t a woman’s rights issue.
 I will, however, listen to women.
@@ -59,7 +60,7 @@ You will challenge every presupposition you have in order to attempt to make the
 If you’re doing it properly you will continue to challenge yourself even after the vote, and I will.
 I am open to hearing from everyone and anyone.
 I would only ask in return that you too be open to hearing from everyone and anyone.
-The events of notoriety were but one percent of the work done in March.
+The Captiol - 27 March 2025 - 13:31 - Concord, NH - Taken by Jonah The Captiol - 27 March 2025 - 13:31 - Concord, NH - Taken by Jonah The events of notoriety were but one percent of the work done in March.
 The text of HB1 and HB2, the legislation in which the budget is contained was released at the beginning of the month.
 With it getting it’s public hearing this month as well.
 The House in it’s history has taken to the road for the public hearings of the budget.
@@ -86,7 +87,7 @@ As if there were a House rule stating that only one member of the public can spe
 The more those in power poke and prod those without.
 The more people will begin to wake up to the reality around them and refuse to accept it.
 The House is set to vote on the budget in April prior to the crossover due date for each chamber of the legislative branch.
-Another highlight of the month was the work done on HB669.
+Budget Hearing Wrap-Up - 12 March 2025 - 18:47 - Concord, NH - Taken by Jonah Budget Hearing Wrap-Up - 12 March 2025 - 18:47 - Concord, NH - Taken by Jonah Another highlight of the month was the work done on HB669.
 Legislation to equalize the Statewide Property Tax at a valuation of five dollars per thousand of value.
 This is legislation which mirrors work done by the House finance committee in 1999.
 Chairman of Finance division II at the time, Douglass Hall, dealt with the issue of rising property taxes and school funding.
@@ -110,4 +111,5 @@ Those that agree and those that do not.
 Spring has sprung.
 The grass is getting greener, the trees budding, and the song birds returning to sign their songs.
 Those in power can stomp one, two, or hundreds of flowers; but they can never stop the arrival of Spring.
-Back to all
+Bowling Champions - 11 March 2025 - Peterborough, NH - Taken by Christopher DiLoreto Bowling Champions - 11 March 2025 - Peterborough, NH - Taken by Christopher DiLoreto ‹ April, and a Horrible, No Good, Very Bad Budget. ‹ April, and a Horrible, No Good, Very Bad Budget. ‹ April, and a Horrible, No Good, Very Bad Budget.
+The Dead of Winter › The Dead of Winter › The Dead of Winter › Back to all

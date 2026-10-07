@@ -1,25 +1,102 @@
 [
-"https://conforti4congress.com/",
-"https://conforti4congress.com/contact",
-"https://conforti4congress.com/district6map",
-"https://conforti4congress.com/donate",
-"https://conforti4congress.com/endorsements",
-"https://conforti4congress.com/events",
-"https://conforti4congress.com/issues",
-"https://conforti4congress.com/meet-niki",
-"https://conforti4congress.com/news",
-"https://conforti4congress.com/volunteer",
-"https://conforti4congress.com/wp-content/uploads/2026/02/410456620_749624303865919_6997169818212151557_n.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/ABATE_-_motorcycles_alliance.png",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Arab-American-Chamber-of-Commerce-1024x1024.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Bremen-Township-Republican-Organization.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Chicago_Tribune-Logo-png-1024x269.png",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Daily-Herald-Logo-e1536084464390.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Downers-Grove-Township-Republican-Organization-Leadership.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Hon.-Patrick-Durante-served-Congressman-Henry-Hyde-for-32-years-1024x836.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Illinois-Federation-of-Young-Republicans.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/Milton-Township-Republican-Organization-Leadership.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/02/The-Italian-American-Police-Association.jpg",
-"https://conforti4congress.com/wp-content/uploads/2026/07/niki-conforti-7.10.26.jpg",
-"https://generatepress.com/"
+{
+"text": "Contact",
+"href": "https://conforti4congress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://conforti4congress.com/donate"
+},
+{
+"text": "District 6 Map",
+"href": "https://conforti4congress.com/district6map/"
+},
+{
+"text": "Donate",
+"href": "https://conforti4congress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://conforti4congress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://conforti4congress.com/events/"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "Home",
+"href": "https://conforti4congress.com/"
+},
+{
+"text": "Issues",
+"href": "https://conforti4congress.com/issues/"
+},
+{
+"text": "Meet Niki",
+"href": "https://conforti4congress.com/meet-niki/"
+},
+{
+"text": "News",
+"href": "https://conforti4congress.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://conforti4congress.com/volunteer/"
+},
+{
+"text": "[image: ABATE - motorcycles alliance]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/ABATE_-_motorcycles_alliance.png"
+},
+{
+"text": "[image: Arab American Chamber of Commerce]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Arab-American-Chamber-of-Commerce-1024x1024.jpg"
+},
+{
+"text": "[image: Bremen Township Republican Organization]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Bremen-Township-Republican-Organization.jpg"
+},
+{
+"text": "[image: Chicago Tribune]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Chicago_Tribune-Logo-png-1024x269.png"
+},
+{
+"text": "[image: Daily Herald]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Daily-Herald-Logo-e1536084464390.jpg"
+},
+{
+"text": "[image: Downers Grove Township Republican Organization Leadership]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Downers-Grove-Township-Republican-Organization-Leadership.jpg"
+},
+{
+"text": "[image: Hon. Patrick Durante, served Congressman Henry Hyde for 32 years ]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Hon.-Patrick-Durante-served-Congressman-Henry-Hyde-for-32-years-1024x836.jpg"
+},
+{
+"text": "[image: Illinois Federation of Young Republicans]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Illinois-Federation-of-Young-Republicans.jpg"
+},
+{
+"text": "[image: Italian American Police Association]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/The-Italian-American-Police-Association.jpg"
+},
+{
+"text": "[image: Maggie's List]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/07/niki-conforti-7.10.26.jpg"
+},
+{
+"text": "[image: Milton Township Republican Organization Leadership]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/Milton-Township-Republican-Organization-Leadership.jpg"
+},
+{
+"text": "[image: Niki Conforti]",
+"href": "https://conforti4congress.com/"
+},
+{
+"text": "[image: United Hellenic Voters of America ]",
+"href": "https://conforti4congress.com/wp-content/uploads/2026/02/410456620_749624303865919_6997169818212151557_n.jpg"
+}
 ]

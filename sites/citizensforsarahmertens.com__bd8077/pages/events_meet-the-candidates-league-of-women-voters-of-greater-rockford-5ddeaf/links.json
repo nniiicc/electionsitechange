@@ -1,21 +1,86 @@
 [
-"http://elections.il.gov/",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+-+League+of+Women+Voters+of+Greater+Rockford&dates=20260223T223000Z%2F20260224T003000Z&location=111+West+1st+Street%2C+Belvidere%2C+IL%2C+61008%2C+United+States",
-"http://maps.google.com/?q=111+West+1st+Street+Belvidere%2C+IL%2C+61008+United+States",
-"https://bsky.app/profile/sarahmertensforil.bsky.social",
-"https://citizensforsarahmertens.com/",
-"https://citizensforsarahmertens.com/about-6-1",
-"https://citizensforsarahmertens.com/cart",
-"https://citizensforsarahmertens.com/endorsements",
-"https://citizensforsarahmertens.com/events",
-"https://citizensforsarahmertens.com/events/LWVGR.org",
-"https://citizensforsarahmertens.com/events/meet-the-candidates-league-of-women-voters-of-greater-rockford?format=ical",
-"https://citizensforsarahmertens.com/events/virtual-town-hall-with-sarah-mertens",
-"https://citizensforsarahmertens.com/get-involved",
-"https://citizensforsarahmertens.com/issues",
-"https://facebook.com/profile.php?id=61583609271188&sk=about",
-"https://instagram.com/Sarah.Mertens.for.IL.Senate",
-"https://secure.actblue.com/donate/sarah-mertens-1",
-"https://tiktok.com/@citizens.for.sarah",
-"https://twitch.tv/sarahmertens4il"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=111+west+1st+street+belvidere%2C+il%2C+61008+united+states"
+},
+{
+"text": "0",
+"href": "https://www.citizensforsarahmertens.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.citizensforsarahmertens.com/about-6-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Donate - ActBlue",
+"href": "https://secure.actblue.com/donate/sarah-mertens-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.citizensforsarahmertens.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.citizensforsarahmertens.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforsarahmertens.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+the+Candidates+-+League+of+Women+Voters+of+Greater+Rockford&dates=20260223T223000Z%2F20260224T003000Z&location=111+West+1st+Street%2C+Belvidere%2C+IL%2C+61008%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.citizensforsarahmertens.com/events/meet-the-candidates-league-of-women-voters-of-greater-rockford?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.citizensforsarahmertens.com/issues"
+},
+{
+"text": "LWVGR.org",
+"href": "https://www.citizensforsarahmertens.com/events/LWVGR.org"
+},
+{
+"text": "Next Next February 26 Virtual Town Hall with Sarah Mertens",
+"href": "https://www.citizensforsarahmertens.com/events/virtual-town-hall-with-sarah-mertens"
+},
+{
+"text": "[image: Citizens for Sarah Mertens]",
+"href": "https://www.citizensforsarahmertens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sarahmertensforil.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583609271188&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Sarah.Mertens.for.IL.Senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@citizens.for.sarah"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/sarahmertens4il"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

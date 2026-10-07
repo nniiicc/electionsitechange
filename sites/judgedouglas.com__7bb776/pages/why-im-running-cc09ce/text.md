@@ -1,6 +1,4 @@
-Why I’m Running for the West Virginia Intermediate Court of Appeals
-Experience Families Can Trust
-At 74 years of age, people sometimes ask why I am running for the West Virginia Intermediate Court of Appeals.
+Skip to main content About Jim Why I’m Running News & Commentary Experience Support Jim Why I’m Running for the West Virginia Intermediate Court of Appeals Experience Families Can Trust At 74 years of age, people sometimes ask why I am running for the West Virginia Intermediate Court of Appeals.
 The answer is simple: to protect children and help families.
 In 2022, the Intermediate Court of Appeals (ICA) was created and given jurisdiction over nearly all appeals from Family Court, except domestic violence cases.
 That means when families challenge custody decisions, child support orders, or relocation rulings, their appeals go directly to the ICA.
@@ -19,8 +17,9 @@ These are not abstract legal questions — they are real families facing real co
 When cases like these reach the appellate level, they deserve review by someone who understands not only the law, but also the realities of family court.
 I believe my career has prepared me to serve in that role with fairness, experience, and compassion.
 That is why I am running for the Intermediate Court of Appeals — so that families across West Virginia can have confidence that their appeals are being heard by a judge who knows family law, knows our communities, and understands what is at stake.
-Listen Below to My Interview with Metro News – January 9, 2026
-Support Our Campaign
-Your support helps us reach voters across West Virginia and share the importance of experienced leadership on the Intermediate Court of Appeals.
-Contributions by individuals not in excess of $2600.00 may also be mailed to Douglas Fam Law Experience 4 ICA at 4401 Kanawha Ave SE, Charleston, WV 25304
-Please disregard if you are a public employee of the State of West Virginia or its political subdivisions.
+Listen Below to My Interview with Metro News – January 9, 2026 https://judgedouglas.com/wp-content/uploads/Jim-Douglas-Midday-Interview-1926.mp3 Support Our Campaign Your support helps us reach voters across West Virginia and share the importance of experienced leadership on the Intermediate Court of Appeals.
+Contributions by individuals not in excess of $2600.00 may also be mailed to Douglas Fam Law Experience 4 ICA at 4401 Kanawha Ave SE, Charleston, WV 25304 Name (Required) First Last Phone (Required) Email (Required) Donation Amount (Required) Total Submit Please disregard if you are a public employee of the State of West Virginia or its political subdivisions.
+Support Jim About Jim Why I’m Running News & Commentary Experience Fam Law Experience 4 ICA 4401 Kanawha Ave S.E.
+Charleston, WV 25304 Questions?
+Message Us.
+Name (Required) First Last Email (Required) Message (Required) Submit Paid for by the Committee for Fam Law Experience 4 ICA; Susan Shepard, Chair

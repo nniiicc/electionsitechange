@@ -1,18 +1,4 @@
-General Housing Just Housing Coalition Response to Governor Scott’s Budget Veto
-FOR IMMEDIATE RELEASE
-MAY 27, 2023
-GOVERNOR SCOTT’S BUDGET VETO: DEMOCRATS AND PROGRESSIVES UNIFY FOR JUST HOUSING TRANSITION
-CONTACT
-State Representative Mari Cordes (D)
-mari.vermont@gmail.com
-802.989.9267
-State Representative Emma Mulvaney-Stanak (P/D)
-emulvaneystanak@leg.state.vt.us
-802-448-0838
-State Representative Conor Casey (D)
-conor33@gmail.com
-860.899.6920
-MONTPELIER, VERMONT – As expected, Governor Scott vetoed the FY 2024 budget the Vermont Legislature passed on May 12, 2023.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / General Housing Just Housing Coalition Response to Governor Scott’s Budget Veto May 28, 2023 FOR IMMEDIATE RELEASE MAY 27, 2023 GOVERNOR SCOTT’S BUDGET VETO: DEMOCRATS AND PROGRESSIVES UNIFY FOR JUST HOUSING TRANSITION CONTACT State Representative Mari Cordes (D) mari.vermont@gmail.com 802.989.9267 State Representative Emma Mulvaney-Stanak (P/D) emulvaneystanak@leg.state.vt.us 802-448-0838 State Representative Conor Casey (D) conor33@gmail.com 860.899.6920‬ MONTPELIER, VERMONT – As expected, Governor Scott vetoed the FY 2024 budget the Vermont Legislature passed on May 12, 2023.
 This budget is strong in many critical areas – childcare, long-term affordable housing, suicide prevention, the Affordable Heat Act, transportation, small farm support, healthcare provider support and more.
 Unfortunately, and despite engagement from concerned legislators and advocates raising the alarm early in the budget making process, the FY 2024 budget falls short in critical ways that must not be ignored.
 We are currently left with a gaping hole that eliminates substantial support that would provide a just transition for thousands of Vermonters living in temporary hotel housing.
@@ -33,4 +19,4 @@ The GA Just Housing Coalition will support a budget that prevents people from be
 The Coalition will develop policy based on these policy goals using the formal legislative process.
 Our solution will be funded with portions of the FY24 budget that remain very flexible and any unused funds added to the AHS FY23 budget during the budget adjustment process.
 People, including service providers, need time and money for a just housing transition.
-Our budget proposal allocates both.
+Our budget proposal allocates both. < End of Legislative Session Recap and Why I Voted ‘No’ on the Budget > In Support of Ferene Paris Meyer Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

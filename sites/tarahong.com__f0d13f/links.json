@@ -1,16 +1,66 @@
 [
-"http://reptarahong.com/",
-"https://google.com/url?q=https%3A%2F%2Fmalegislature.gov%2FSearch%2FFindMyLegislator&sa=D&sntz=1&usg=AOvVaw34lecBjrn0EB2nCsCwkuXc",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FVotefortarahong%2F&sa=D&sntz=1&usg=AOvVaw1mCVtz5NmhPjGb3etuPbl_",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Ftarahonginlowell%2F&sa=D&sntz=1&usg=AOvVaw0cfXLhUiqn2t5ymvjVieNI",
-"https://google.com/url?q=https%3A%2F%2Fwww.sec.state.ma.us%2Fdivisions%2Felections%2Fvoting-information%2Fvote-by-mail.htm&sa=D&sntz=1&usg=AOvVaw0NDnwNac_412TjjXLQWiVo",
-"https://google.com/url?q=https%3A%2F%2Fwww.sec.state.ma.us%2Fovr%2F&sa=D&sntz=1&usg=AOvVaw0gdR2AyFzMHucLNxEkZx6I",
-"https://tarahong.com/about-me",
-"https://tarahong.com/donate",
-"https://tarahong.com/event",
-"https://tarahong.com/get-a-yard-sign",
-"https://tarahong.com/home_1",
-"https://tarahong.com/issues",
-"https://tarahong.com/join-our-team",
-"https://tarahong.com/taras-works-and-plans"
+{
+"text": "About Me",
+"href": "https://www.tarahong.com/about-me"
+},
+{
+"text": "Are You in the District?",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fmalegislature.gov%2FSearch%2FFindMyLegislator&sa=D&sntz=1&usg=AOvVaw34lecBjrn0EB2nCsCwkuXc"
+},
+{
+"text": "Check my Office's Official Website at www.reptarahong.com",
+"href": "http://www.reptarahong.com"
+},
+{
+"text": "Donate",
+"href": "https://www.tarahong.com/donate"
+},
+{
+"text": "Event",
+"href": "https://www.tarahong.com/event"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.tarahong.com/get-a-yard-sign"
+},
+{
+"text": "Home",
+"href": "https://www.tarahong.com/home_1"
+},
+{
+"text": "Issues",
+"href": "https://www.tarahong.com/issues"
+},
+{
+"text": "Join Our Team",
+"href": "https://www.tarahong.com/join-our-team"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.sec.state.ma.us%2Fovr%2F&sa=D&sntz=1&usg=AOvVaw0gdR2AyFzMHucLNxEkZx6I"
+},
+{
+"text": "TARAFORSTATEREP@GMAIL.COM",
+"href": "mailto:TARAFORSTATEREP@GMAIL.COM"
+},
+{
+"text": "Tara's Works and Plans",
+"href": "https://www.tarahong.com/taras-works-and-plans"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.sec.state.ma.us%2Fdivisions%2Felections%2Fvoting-information%2Fvote-by-mail.htm&sa=D&sntz=1&usg=AOvVaw0NDnwNac_412TjjXLQWiVo"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2FVotefortarahong%2F&sa=D&sntz=1&usg=AOvVaw1mCVtz5NmhPjGb3etuPbl_"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Ftarahonginlowell%2F&sa=D&sntz=1&usg=AOvVaw0cfXLhUiqn2t5ymvjVieNI"
+},
+{
+"text": "[image]",
+"href": "https://www.tarahong.com/home_1"
+}
 ]

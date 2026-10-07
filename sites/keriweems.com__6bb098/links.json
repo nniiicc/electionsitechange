@@ -1,14 +1,78 @@
 [
-"https://facebook.com/KeriWeems11",
-"https://keriweems.com/",
-"https://keriweems.com/cart",
-"https://keriweems.com/pressrelease/campaignannouncement",
-"https://keriweems.com/privacy-policy",
-"https://sdsos.gov/elections-voting/voting/absentee-voting.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://secure.winred.com/keri-weems-for-legislature/donate-today",
-"https://secure.winred.com/keri-weems-for-legislature/volunteer",
-"https://secure.winred.com/keri-weems-for-legislature/vote",
-"https://secure.winred.com/keri-weems-for-legislature/yardsign",
-"https://x.com/kkweems"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "0",
+"href": "https://www.keriweems.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/keri-weems-for-legislature/donate-today"
+},
+{
+"text": "Get Yard Sign",
+"href": "https://secure.winred.com/keri-weems-for-legislature/yardsign"
+},
+{
+"text": "Get Your Ballot",
+"href": "https://sdsos.gov/elections-voting/voting/absentee-voting.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.keriweems.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.keriweems.com/privacy-policy"
+},
+{
+"text": "Read Release",
+"href": "https://www.keriweems.com/pressrelease/campaignannouncement"
+},
+{
+"text": "Register to Vote",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Volunteer Your Time",
+"href": "https://secure.winred.com/keri-weems-for-legislature/volunteer"
+},
+{
+"text": "Vote for Keri",
+"href": "https://secure.winred.com/keri-weems-for-legislature/vote"
+},
+{
+"text": "[image: Keri Weems for Legislature]",
+"href": "https://www.keriweems.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KeriWeems11"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kkweems"
+}
 ]

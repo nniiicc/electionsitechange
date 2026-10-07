@@ -1,27 +1,114 @@
 [
-"https://facebook.com/karenforCt66th",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/karen_for_ct_66th",
-"https://karenforct66.com/",
-"https://karenforct66.com/about",
-"https://karenforct66.com/calendar",
-"https://karenforct66.com/calendar/2026-10-04",
-"https://karenforct66.com/calendar/list",
-"https://karenforct66.com/calendar/month",
-"https://karenforct66.com/calendar/today",
-"https://karenforct66.com/calendar/today?ical=1",
-"https://karenforct66.com/calendar/today?outlook-ical=1",
-"https://karenforct66.com/gallery",
-"https://karenforct66.com/get-involved",
-"https://karenforct66.com/news-updates",
-"https://karenforct66.com/our-district",
-"https://karenforct66.com/towns/bethlehem",
-"https://karenforct66.com/towns/litchfield",
-"https://karenforct66.com/towns/morris",
-"https://karenforct66.com/towns/warren",
-"https://karenforct66.com/towns/woodbury",
-"https://karenforct66.com/where-i-stand",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Karen+Reddington-Hughes+Events+Archive+-+Karen+Reddington-Hughes",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Karen+Reddington-Hughes+Events+Archive+-+Karen+Reddington-Hughes",
-"https://youtube.com/@K66Campaign"
+{
+"text": "#ago",
+"href": "https://karenforct66.com/calendar/today/"
+},
+{
+"text": "About",
+"href": "https://karenforct66.com/about/"
+},
+{
+"text": "Bethlehem",
+"href": "https://karenforct66.com/towns/bethlehem/"
+},
+{
+"text": "Calendar",
+"href": "https://karenforct66.com/calendar/"
+},
+{
+"text": "Day",
+"href": "https://karenforct66.com/calendar/today/"
+},
+{
+"text": "Export .ics file",
+"href": "https://karenforct66.com/calendar/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://karenforct66.com/calendar/today/?outlook-ical=1"
+},
+{
+"text": "Gallery",
+"href": "https://karenforct66.com/gallery/"
+},
+{
+"text": "Get Involved",
+"href": "https://karenforct66.com/get-involved/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "List",
+"href": "https://karenforct66.com/calendar/list/"
+},
+{
+"text": "Litchfield",
+"href": "https://karenforct66.com/towns/litchfield/"
+},
+{
+"text": "Month",
+"href": "https://karenforct66.com/calendar/month/"
+},
+{
+"text": "Morris",
+"href": "https://karenforct66.com/towns/morris/"
+},
+{
+"text": "News & Updates",
+"href": "https://karenforct66.com/news-updates/"
+},
+{
+"text": "Our District",
+"href": "https://karenforct66.com/our-district/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Karen+Reddington-Hughes+Events+Archive+-+Karen+Reddington-Hughes"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fkarenforct66.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Karen+Reddington-Hughes+Events+Archive+-+Karen+Reddington-Hughes"
+},
+{
+"text": "Previous Day",
+"href": "https://karenforct66.com/calendar/2026-10-06/"
+},
+{
+"text": "Warren",
+"href": "https://karenforct66.com/towns/warren/"
+},
+{
+"text": "Where I Stand",
+"href": "https://karenforct66.com/where-i-stand/"
+},
+{
+"text": "Woodbury",
+"href": "https://karenforct66.com/towns/woodbury/"
+},
+{
+"text": "[image: Karen Reddington-Hughes]",
+"href": "https://karenforct66.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/karenforCt66th"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karen_for_ct_66th/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@K66Campaign"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://karenforct66.com/calendar/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://karenforct66.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

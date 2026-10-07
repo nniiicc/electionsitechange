@@ -1,11 +1,54 @@
 [
-"https://inspirationwebworks.com/",
-"https://patoutman.com/",
-"https://patoutman.com/about",
-"https://patoutman.com/contact",
-"https://patoutman.com/contribute",
-"https://patoutman.com/endorse",
-"https://patoutman.com/issues",
-"https://patoutman.com/photos",
-"https://patoutman.com/volunteer"
+{
+"text": "CONTRIBUTE",
+"href": "https://www.patoutman.com/contribute/"
+},
+{
+"text": "Contact",
+"href": "https://www.patoutman.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.patoutman.com/contribute/"
+},
+{
+"text": "ENDORSE",
+"href": "https://www.patoutman.com/endorse/"
+},
+{
+"text": "Endorse",
+"href": "https://www.patoutman.com/endorse/"
+},
+{
+"text": "Home",
+"href": "https://www.patoutman.com/"
+},
+{
+"text": "Inspiration WebWorks",
+"href": "https://www.inspirationwebworks.com"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.patoutman.com/about/"
+},
+{
+"text": "Pat’s Plan",
+"href": "https://www.patoutman.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://www.patoutman.com/photos/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patoutman.com/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.patoutman.com/volunteer/"
+},
+{
+"text": "[image: Pat Outman for State Representative]",
+"href": "https://www.patoutman.com/"
+}
 ]

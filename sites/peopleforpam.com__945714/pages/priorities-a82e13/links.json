@@ -1,9 +1,70 @@
 [
-"http://facebook.com/peopleforpam",
-"http://instagram.com/peopleforpam",
-"http://secure.actblue.com/donate/peopleforpam",
-"http://twitter.com/peopleforpam",
-"https://peopleforpam.com/",
-"https://peopleforpam.com/priorities",
-"https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+{
+"text": "Contact",
+"href": "mailto:pam@peopleforpam.com?subject=Hi+Pam%21+I%27m+contacting+you+from+your+website."
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/peopleforpam"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/J2HnydsxCUyeV4LuDRAouw2"
+},
+{
+"text": "Education",
+"href": "https://www.peopleforpam.com/priorities#education"
+},
+{
+"text": "Environment",
+"href": "https://www.peopleforpam.com/priorities#environment"
+},
+{
+"text": "Get Involved",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Health Care",
+"href": "https://www.peopleforpam.com/priorities#healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Meet Pam",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.peopleforpam.com"
+},
+{
+"text": "Safety & Stability",
+"href": "https://www.peopleforpam.com/priorities#safetystability"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/peopleforpam"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/peopleforpam"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/peopleforpam"
+},
+{
+"text": "[no text]",
+"href": "https://www.peopleforpam.com/priorities#environment"
+},
+{
+"text": "[no text]",
+"href": "https://www.peopleforpam.com/priorities#healthcare"
+},
+{
+"text": "[no text]",
+"href": "https://www.peopleforpam.com/priorities#safetystability"
+}
 ]

@@ -1,5 +1,4 @@
-CT's Failing Economy
-Continuously slicing the same pie into smaller pieces creates the illusion of a fair and abundant system but in reality, the pieces become smaller with each slice.
+Skip to content MEET JOE HOXHA Parental Rights and Education Crime Epidemic CT’s Failing Economy Election Integrity CONTACT ME MEET JOE HOXHA Parental Rights and Education Crime Epidemic CT’s Failing Economy Election Integrity CONTACT ME CT's Failing Economy Continuously slicing the same pie into smaller pieces creates the illusion of a fair and abundant system but in reality, the pieces become smaller with each slice.
 CT state government has followed this type of economic policy for decades, it has provided insane benefits and salaries to government workers while continuously expanding the welfare state making it easier and easier for people to give up on their American dream and fall prey to the vicious cycle of generational poverty and a life of dependence on the government for everything.
 In order to fund this system Democrats in the state legislature find creative ways to implement new taxes and increase existing ones.
 Coupled with unfunded mandates imposed on local government which inevitably require increases in local taxes, Connecticut government has cornered its citizens with only a small narrow corridor available for relief, the one that reads “Thank you for visiting Connecticut”.
@@ -24,3 +23,6 @@ Connecticut spends billions of dollars that we don’t have each year on welfare
 We do not need more handouts in CT we need to create more jobs.
 Furthermore we cannot sustain the level of wage and benefit increases on the level they are on, we are billions of dollars in the hole in terms of unfunded pension liabilities, we need to move to a much more sustainable model of a defined contribution plan versus a defined benefit plan.
 We need to start paying down the obligation in serious chunks with revenue from cuts to other programs if we ever hope to TRULY balance our books as a state.
+Paid for by Joe for the 78th, Scott Cleary, Treasurer.
+Approved by Joe Hoxha.
+Copyright © # Joe for the 78th Email: Joe@JoeHoxha.com

@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/realjaredhuffman.bsky.social",
-"https://facebook.com/jared.huffman.9",
-"https://jaredhuffman.com/",
-"https://jaredhuffman.com/about-jared",
-"https://jaredhuffman.com/cart",
-"https://jaredhuffman.com/contact",
-"https://jaredhuffman.com/endorsements-1",
-"https://jaredhuffman.com/events",
-"https://jaredhuffman.com/get-involved",
-"https://secure.actblue.com/donate/jh-website-up?amount=10",
-"https://secure.ngpvan.com/M5mvlTQfCEedIYRgsVq5kw2",
-"https://threads.com/@realjaredhuffman",
-"https://x.com/JaredHuffman"
+{
+"text": "0",
+"href": "https://www.jaredhuffman.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.jaredhuffman.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jh-website-up?amount=10"
+},
+{
+"text": "ENDORSE JARED",
+"href": "https://secure.ngpvan.com/M5mvlTQfCEedIYRgsVq5kw2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaredhuffman.com/endorsements-1"
+},
+{
+"text": "Events",
+"href": "https://www.jaredhuffman.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaredhuffman.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jaredhuffman.com/"
+},
+{
+"text": "Meet Jared",
+"href": "https://www.jaredhuffman.com/about-jared"
+},
+{
+"text": "[image: Jared Huffman for Congress]",
+"href": "https://www.jaredhuffman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/realjaredhuffman.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jared.huffman.9"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@realjaredhuffman"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JaredHuffman"
+}
 ]

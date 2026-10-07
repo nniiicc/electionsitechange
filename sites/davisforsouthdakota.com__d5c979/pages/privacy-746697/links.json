@@ -1,9 +1,50 @@
 [
-"https://davisforsouthdakota.com/",
-"https://davisforsouthdakota.com/privacy",
-"https://facebook.com/davisforsouthdakota",
-"https://instagram.com/davisforsouthdakota",
-"https://secure.actblue.com/donate/terrence-davis-1",
-"https://tools.google.com/dlpage/gaoptout",
-"https://x.com/TerrenceMDavis"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/terrence-davis-1"
+},
+{
+"text": "Endorsements",
+"href": "https://davisforsouthdakota.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/davisforsouthdakota"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/davisforsouthdakota/"
+},
+{
+"text": "Meet Terrence",
+"href": "https://davisforsouthdakota.com/#about"
+},
+{
+"text": "Priorities",
+"href": "https://davisforsouthdakota.com/#priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://davisforsouthdakota.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://davisforsouthdakota.com/#volunteer"
+},
+{
+"text": "Vote",
+"href": "https://davisforsouthdakota.com/#vote"
+},
+{
+"text": "X",
+"href": "https://x.com/TerrenceMDavis"
+},
+{
+"text": "[image: Davis, Secretary of State, South Dakota]",
+"href": "https://davisforsouthdakota.com/"
+},
+{
+"text": "terrence@davisforsouthdakota.com",
+"href": "mailto:terrence@davisforsouthdakota.com"
+}
 ]

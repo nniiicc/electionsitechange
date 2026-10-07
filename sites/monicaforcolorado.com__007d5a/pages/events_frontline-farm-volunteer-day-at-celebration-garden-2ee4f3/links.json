@@ -1,22 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Frontline+Farm+Volunteer+Day+at+Celebration+Garden&dates=20260917T140000Z%2F20260917T180000Z&location=1650+South+Birch+Street%2C+Denver%2C+Colorado%2C+80222%2C+United+States",
-"http://maps.google.com/?q=1650+South+Birch+Street+Denver%2C+Colorado%2C+80222+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://frontlinefarming.org/events/celebration-farm-volunteer-day-2026-09-17-08-00",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1",
-"https://monicaforcolorado.com/events/frontline-farm-volunteer-day-at-celebration-garden?format=ical",
-"https://monicaforcolorado.com/events/virginia-village-and-ellis-community-association-happy-hour",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1650+south+birch+street+denver%2C+colorado%2C+80222+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Frontline+Farm+Volunteer+Day+at+Celebration+Garden&dates=20260917T140000Z%2F20260917T180000Z&location=1650+South+Birch+Street%2C+Denver%2C+Colorado%2C+80222%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/frontline-farm-volunteer-day-at-celebration-garden?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next September 19 Denver Democrats Central Committee Meeting",
+"href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1"
+},
+{
+"text": "Previous Previous September 16 Virginia Village and Ellis Community Association Happy Hour",
+"href": "https://www.monicaforcolorado.com/events/virginia-village-and-ellis-community-association-happy-hour"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+},
+{
+"text": "https://www.frontlinefarming.org/events/celebration-farm-volunteer-day-2026-09-17-08-00",
+"href": "https://www.frontlinefarming.org/events/celebration-farm-volunteer-day-2026-09-17-08-00"
+}
 ]

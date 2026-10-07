@@ -1,5 +1,7 @@
-October 2024 Letter
-The throes of a general election.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Knock, Knock, Knock your door.
+Knock, Knock, Knock your door.
+Knock, Knock, Knock your door.
+Nov 1, 2024 Nov 1, 2024 October 2024 Letter Out on the Doors - 22 October 2024 - 14:24 - Milford, NH - Taken by Jonah Out on the Doors - 22 October 2024 - 14:24 - Milford, NH - Taken by Jonah The throes of a general election.
 After a spring and summer of working doing various jobs, mostly the transport of wood for a community of yurts owned by a man named Paul in Hancock; I have begun working for Granite State Interfaith project.
 Which is a non-partisan group, which leans towards support of the Democratic Party, but through talking about issues with the voters.
 Not candidates.
@@ -18,7 +20,7 @@ Fall is now here.
 With it the routine of our daily lives after the chaos of the heat of summer.
 It wasn’t all politics and work for me this month.
 I got to enjoy a beautiful family wedding, congratulations to Andrew and Nikki; and I got to hike Monadnock with close friends of mine.
-Reminding us, as it does every time, of the majesty of our home.
+Wedding - 26 October 2024 - 17:00 - North Andover, MA - Taken by Jonah Wedding - 26 October 2024 - 17:00 - North Andover, MA - Taken by Jonah Reminding us, as it does every time, of the majesty of our home.
 There is so much history tucked away in our little valley.
 History which we can truly be proud of, and some which we should know to ensure it doesn’t happen again.
 For millennia, people have lived under the auspice of this mountain.
@@ -29,4 +31,4 @@ If we get to know one another, connecting with our neighbors, and letting no one
 Be proud of where you live, make your home a place where all can be proud.
 If we all do that then our entire world will be in a better place.
 It only takes one domino for the rest to fall.
-Back to all
+Finding Bigfoot Event - 29 October 2024 - 18:32 - Peterborough, NH - Taken by Jonah Finding Bigfoot Event - 29 October 2024 - 18:32 - Peterborough, NH - Taken by Jonah ‹ Leadership ‹ Leadership ‹ Leadership Beating the Odds › Beating the Odds › Beating the Odds › Back to all

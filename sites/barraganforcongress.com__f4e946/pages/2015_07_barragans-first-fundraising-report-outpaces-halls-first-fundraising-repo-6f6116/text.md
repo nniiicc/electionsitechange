@@ -1,17 +1,16 @@
-FOR IMMEDIATE RELEASE
-July 9, 2015
-SAN PEDRO, CA – Last week, Nanette Barragán, congressional candidate in California’s 44th District, released her second quarter fundraising numbers.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next Barragán’s First Fundraising Report Outpaces Hall’s First Fundraising Report in CA-44 FOR IMMEDIATE RELEASE July 9, 2015 SAN PEDRO, CA – Last week, Nanette Barragán, congressional candidate in California’s 44th District, released her second quarter fundraising numbers.
+Since she announced her congressional campaign in April, she raised more than $160,000 – more than what her opponent, state Senator Isadore Hall III, raised in his first report.
 Hall reported raising $147,197 in his first finance report last quarter.
 “I cannot thank everyone enough for all of the support that has been shown throughout the Los Angeles area,” said Barragán.
 “I’m running because I want to help the families in the district create a better future for themselves and their children.
 Voters need a representative who understands what they are going through.
-Whether it’s finding good jobs, earning a living wage or investing in education, I will be there to fight for the 44th District.
-My supporters have been tireless and I look forward to being able to serve them in Congress.”
-Barragán has received endorsements from political leaders on both the local and national level, further emphasizing the broad support that her campaign has generated since its launch.
-A list of those supporters can be found here.
+Whether it’s finding good jobs, earning a living wage or investing in education, I will be there to fight for the 44 th District.
+My supporters have been tireless and I look forward to being able to serve them in Congress.” Barragán has received endorsements from political leaders on both the local and national level, further emphasizing the broad support that her campaign has generated since its launch.
+A list of those supporters can be found here .
 Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
 White Middle School, learned to swim at Carson Pool, and studied at the Carson Library.
 She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first elected Latina member of the Hermosa Beach City Council.
 She was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
-Find more information here: www.barraganforcongress.com
-###
+Find more information here: www.barraganforcongress.com ### BarraganForCongress 2015-07-09T09:50:34-07:00 July 9th, 2015 | Nanette Barragán news | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts ICYMI: Our Revolution Backs Nanette Barragán for Congress ICYMI: Our Revolution Backs Nanette Barragán for Congress Daily Breeze Endorses Nanette Barragán in CA-44 Daily Breeze Endorses Nanette Barragán in CA-44 Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Chicano Latino Immigrant Democratic Club of Los Angeles County Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Former CA-44 Republican Candidate Christopher Castillo Endorses Nanette Barragán Barragán Neck and Neck With Hall in New CA-44 Poll Barragán Neck and Neck With Hall in New CA-44 Poll Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

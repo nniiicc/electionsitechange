@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://kipke.com/category/events/",
- "paid_for_by": null,
+ "fingerprint": "c7c7353d556765ab9c5aac006b9ab881a6f8b91a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events Archives - Nic Kipke",
- "years_mentioned": []
+ "years_mentioned": [
+  "2019",
+  "2021",
+  "2025"
+ ]
 }

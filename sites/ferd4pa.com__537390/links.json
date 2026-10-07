@@ -1,28 +1,134 @@
 [
-"https://314action.org/",
-"https://alleghenydems.com/",
-"https://alleghenydems.com/ydac",
-"https://ballotpedia.org/Jeremy_Ferderber",
-"https://ballotpedia.org/Pennsylvania_House_of_Representatives",
-"https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_28",
-"https://cleanwater.org/states/pennsylvania",
-"https://conservationpa.org/",
-"https://democraticredistricting.com/endorsed-candidates/jeremy-ferderber",
-"https://facebook.com/profile.php?id=61588625801292",
-"https://ferd4pa.com/",
-"https://ferd4pa.com/about",
-"https://ferd4pa.com/accessibility-statement",
-"https://ferd4pa.com/platform",
-"https://ferd4pa.com/platform-expanded",
-"https://ferd4pa.com/privacy-policy",
-"https://ferd4pa.com/support",
-"https://ffrfaction.org/",
-"https://instagram.com/ferderberforpa",
-"https://paaflcio.org/",
-"https://psea.org/issues-action/action-center/standup/stand-up",
-"https://region9.uaw.org/",
-"https://secure.actblue.com/donate/jeremy-ferderber",
-"https://seiupa.org/",
-"https://sierraclub.org/pennsylvania",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.ferd4pa.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.ferd4pa.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.ferd4pa.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jeremy-ferderber"
+},
+{
+"text": "Discover More",
+"href": "https://www.ferd4pa.com/about"
+},
+{
+"text": "District 28, which includes Bradford Woods, Marshall, Pine, Richland, West Deer, and (part of) Hampton Township",
+"href": "https://ballotpedia.org/Pennsylvania_House_of_Representatives_District_28"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ferd4pa.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ferd4pa.com/support"
+},
+{
+"text": "Home",
+"href": "https://www.ferd4pa.com"
+},
+{
+"text": "Jeremy Ferderber for PA",
+"href": "https://www.ferd4pa.com"
+},
+{
+"text": "Learn More",
+"href": "https://ballotpedia.org/Jeremy_Ferderber"
+},
+{
+"text": "Pennsylvania House of Representatives",
+"href": "https://ballotpedia.org/Pennsylvania_House_of_Representatives"
+},
+{
+"text": "Platform",
+"href": "https://www.ferd4pa.com/platform"
+},
+{
+"text": "Platform - expanded",
+"href": "https://www.ferd4pa.com/platform-expanded"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ferd4pa.com/privacy-policy"
+},
+{
+"text": "Stay Connected",
+"href": "https://www.ferd4pa.com"
+},
+{
+"text": "Support",
+"href": "https://www.ferd4pa.com/support"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: 20221227_paaflcio_logo_150_0.png.webp]",
+"href": "https://paaflcio.org/"
+},
+{
+"text": "[image: 3.14 action fund logo]",
+"href": "https://314action.org/"
+},
+{
+"text": "[image: CVPA AF - Green.png]",
+"href": "https://www.conservationpa.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588625801292"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ferderberforpa/"
+},
+{
+"text": "[image: NDRC-Logo-Acronym-FullColor.png]",
+"href": "https://democraticredistricting.com/endorsed-candidates/jeremy-ferderber/"
+},
+{
+"text": "[image: Sierra Club Endorsement Seal_Color-1.png]",
+"href": "https://www.sierraclub.org/pennsylvania"
+},
+{
+"text": "[image: UAW Region 9 Blue and White Logo.png]",
+"href": "https://region9.uaw.org/"
+},
+{
+"text": "[image: allegheny county democratic committee seal]",
+"href": "https://alleghenydems.com/"
+},
+{
+"text": "[image: allegheny county young democrats seal]",
+"href": "https://alleghenydems.com/ydac/"
+},
+{
+"text": "[image: clean water action logo]",
+"href": "https://cleanwater.org/states/pennsylvania"
+},
+{
+"text": "[image: pace_logo_horizontal.png]",
+"href": "https://www.psea.org/issues-action/action-center/standup/stand-up/"
+},
+{
+"text": "[image: seiu logo]",
+"href": "https://www.seiupa.org/"
+},
+{
+"text": "[image: square ffrf action fund logo.png]",
+"href": "https://ffrfaction.org/"
+},
+{
+"text": "ferderberforpa@gmail.com",
+"href": "mailto:info@mysite.com"
+}
 ]

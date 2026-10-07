@@ -1,4 +1,4 @@
-Sade Elhawary is an educator, organizer, and foster parent.
+About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español About Sade Priorities Media In the News Media Gallery About AD 57 Endorsements Volunteer Donate En español Meet Sade Elhawary Sade Elhawary is an educator, organizer, and foster parent.
 Born and raised in Los Angeles, Sade has been involved in politics and activism from the time she was elected Student Body President in elementary school.
 Sade has dedicated her life to dismantling oppressive systems one by one and being a driving force for justice and liberation.
 The eldest daughter of immigrants who moved to the United States for a brighter future, Sade attended local K-12 public schools and was mentored by teachers who helped her become the first in her family to go to college.
@@ -12,3 +12,7 @@ She recently served as the Youth Engagement Campaign Manager on Karen Bass’s s
 On August 2, 2019, Sade became a foster parent to Makailah, a youth she was mentoring.
 Sade helped guide her to stay in school, turn her grades around, graduate, and start college.
 Because of her experience as a youth mentor, college counselor, and high school history teacher in low-income communities, Sade makes education and youth workforce development top priorities.
+PAID FOR BY SADE ELHAWARY FOR ASSEMBLY 2024.
+FPPC ID #1458935.
+777 S.
+FIGUEROA ST., SUITE 4050, LOS ANGELES, CA 90017, 323-920-4416

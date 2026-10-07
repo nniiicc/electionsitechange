@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://ingridwadsworth.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "0fd5d92baa15c4a5247c856c5c50de6353ae6d24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

@@ -1,16 +1,22 @@
-On Saturday, January 3rd, Max Morley and I are hosting a get-together for potential candidates—a space to ask questions, get information, and meet other future leaders in our Democratic community.
+Skip to content Stella for KY Stella Pollard | Democrat | KY's 20th Senate District Let’s Win Together, Kentucky!
+Posted by Stella Pollard December 31, 2025 December 31, 2025 Posted in Uncategorized On Saturday, January 3rd , Max Morley and I are hosting a get-together for potential candidates —a space to ask questions, get information, and meet other future leaders in our Democratic community.
 As a first-time candidate myself, I know how overwhelming it can feel to step into the world of politics.
-But here’s the truth: half the battle is simply showing up.
+But here’s the truth: half the battle is simply showing up .
 If you’re reading this, you’ve already mastered that!
 At this event, I’ll share the races I can personally canvass and help with.
 You are not alone in this journey.
-There’s no cover charge and nothing will be asked of you.
+There’s no cover charge and nothing will be asked of you .
 This is just an opportunity to explore what it’s like to run for office and find your place in shaping Kentucky’s future.
 Come curious.
 Leave inspired.
-Address: 105 Steele Street, Frankfort, KY 40601
-Already a Candidate? 🌟
-Come help drive the conversation!
+Address: 105 Steele Street, Frankfort, KY 40601 Already a Candidate? 🌟 Come help drive the conversation !
 Email me at Stella@stellarpollard.com and I’ll help create a custom graphic for you—free of charge!
 Plus, we’re offering semi-professional headshots on Saturday—also free!
 This is your chance to connect, share your story, and get tools to make your campaign shine—all in one supportive space.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Posted by Stella Pollard December 31, 2025 December 31, 2025 Posted in Uncategorized Post navigation Previous Post Previous post: Substack!
+Next Post Next post: Democracy Matters, Kentucky!
+Leave a Reply Cancel reply Stella for KY , Powered by WordPress.com .
+Discover more from Stella for KY Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

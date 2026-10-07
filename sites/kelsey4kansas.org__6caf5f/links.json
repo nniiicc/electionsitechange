@@ -1,10 +1,54 @@
 [
-"https://314action.org/",
-"https://facebook.com/profile.php?id=61576644280264",
-"https://instagram.com/kelseyforkansas",
-"https://kelsey4kansas.org/",
-"https://kelsey4kansas.org/blank",
-"https://linkedin.com/in/kelsey-stock-754683251",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/kelsey-stock-ks"
+{
+"text": "About",
+"href": "https://www.kelsey4kansas.org#about%20kelsey"
+},
+{
+"text": "Contact Form",
+"href": "https://www.kelsey4kansas.org/blank"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kelsey-stock-ks"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelsey4kansas.org#section%201"
+},
+{
+"text": "Home",
+"href": "https://www.kelsey4kansas.org"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/kelsey-stock-ks"
+},
+{
+"text": "Meet Kelsey",
+"href": "https://www.kelsey4kansas.org#about%20kelsey"
+},
+{
+"text": "Volunteer Now",
+"href": "https://www.kelsey4kansas.org"
+},
+{
+"text": "[image: RFS_Logo_One_Line_KO_RGB.png]",
+"href": "https://runforsomething.net"
+},
+{
+"text": "[image]",
+"href": "https://314action.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576644280264"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kelseyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kelsey-stock-754683251/"
+}
 ]

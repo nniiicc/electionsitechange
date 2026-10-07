@@ -1,15 +1,62 @@
 [
-"https://google.com/maps/search/43+Bombardier+Road?entry=gmail",
-"https://google.com/maps/search/4416+Ethan+Allen+Highway+%0D%0A+Georgia,+VT?entry=gmail",
-"https://henryforvermonthouse.com/",
-"https://henryforvermonthouse.com/accessibility-statement",
-"https://henryforvermonthouse.com/meet-henry-2",
-"https://henryforvermonthouse.com/other-candidates-to-know",
-"https://henryforvermonthouse.com/policies",
-"https://henryforvermonthouse.com/where-and-when-to-vote",
-"https://henryforvermonthouse.com/why-im-running",
-"https://heyvictor.com/",
-"https://miltonvt.gov/255/Elections-Voting",
-"https://secure.actblue.com/donate/henry-bonges-1",
-"https://townofgeorgia.com/elections-voting"
+{
+"text": "43 Bombardier Road",
+"href": "https://www.google.com/maps/search/43+Bombardier+Road?entry=gmail"
+},
+{
+"text": "4416 Ethan Allen Highway,",
+"href": "https://www.google.com/maps/search/4416+Ethan+Allen+Highway+%0D%0A+Georgia,+VT?entry=gmail"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://henryforvermonthouse.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:henry.campaign.vt@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/henry-bonges-1?amount="
+},
+{
+"text": "Georgia, VT",
+"href": "https://www.google.com/maps/search/4416+Ethan+Allen+Highway+%0D%0A+Georgia,+VT?entry=gmail"
+},
+{
+"text": "Meet Henry",
+"href": "https://henryforvermonthouse.com/meet-henry-2/"
+},
+{
+"text": "Other Candidates to Know",
+"href": "https://henryforvermonthouse.com/other-candidates-to-know/"
+},
+{
+"text": "Policies",
+"href": "https://henryforvermonthouse.com/policies/"
+},
+{
+"text": "Town of Georgia’s official elections page.",
+"href": "https://www.townofgeorgia.com/elections-voting"
+},
+{
+"text": "Town of Milton’s official elections page",
+"href": "https://miltonvt.gov/255/Elections-Voting"
+},
+{
+"text": "Where and When to Vote",
+"href": "https://henryforvermonthouse.com/where-and-when-to-vote/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://henryforvermonthouse.com/why-im-running/"
+},
+{
+"text": "[image] [image]",
+"href": "https://henryforvermonthouse.com/"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

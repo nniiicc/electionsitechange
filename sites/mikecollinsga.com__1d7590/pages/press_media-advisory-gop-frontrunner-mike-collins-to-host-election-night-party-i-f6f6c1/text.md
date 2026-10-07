@@ -1,14 +1,7 @@
-MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS TO HOST ELECTION NIGHT PARTY IN JACKSON
-Jackson, GA — U.S.
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE Press Release MAY 11, 2026 FOR IMMEDIATE RELEASE Contact: [email protected] MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS TO HOST ELECTION NIGHT PARTY IN JACKSON Jackson, GA — U.S.
 Senate GOP frontrunner Mike Collins will host an Election Night Party on Tuesday, May 19th at The Carmichael House in Jackson, Georgia, as primary results come in from across the state.
-WHAT: Mike Collins Election Night Party
-WHEN: Tuesday, May 19, 2026
-Doors Open: 7:00 PM ET
-WHERE: The Carmichael House
-149 McDonough Rd
-Jackson, GA 30233
-PRESS DETAILS: RSVP to [email protected]
-BACKGROUND:
-Mike Collins has built grassroots infrastructure no other campaign can match, with over 800 Convoy Captains organized across all of Georgia’s 159 counties.
-Collins leads the field in 14 consecutive polls.
+WHAT: Mike Collins Election Night Party WHEN: Tuesday, May 19, 2026 Doors Open: 7:00 PM ET WHERE: The Carmichael House 149 McDonough Rd Jackson, GA 30233 PRESS DETAILS: RSVP to [email protected] BACKGROUND: Mike Collins has built grassroots infrastructure no other campaign can match, with over 800 Convoy Captains organized across all of Georgia’s 159 counties.
+Collins leads the field in 14 consecutive polls .
 Collins has earned endorsements from Laken Riley’s family, the National Border Patrol Council, Club for Growth, Turning Point Action, CPAC, and Newt Gingrich, along with support from more than 200 local and state elected officials.
+### ← MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS LAUNCHES STATEWIDE “BIG RIG ROADSHOW” TOUR MIKE COLLINS FINISHES FIRST IN U.S.
+SENATE PRIMARY, ADVANCES TO RUNOFF → TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

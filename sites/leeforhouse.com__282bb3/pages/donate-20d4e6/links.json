@@ -1,5 +1,14 @@
 [
-"https://leeforhouse.com/",
-"https://leeforhouse.com/cart",
-"https://leeforhouse.com/donate"
+{
+"text": "0",
+"href": "https://www.leeforhouse.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.leeforhouse.com/donate"
+},
+{
+"text": "Filer for House District 44",
+"href": "https://www.leeforhouse.com/"
+}
 ]

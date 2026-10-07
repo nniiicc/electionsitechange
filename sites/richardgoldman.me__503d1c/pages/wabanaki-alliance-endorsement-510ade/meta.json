@@ -1,7 +1,12 @@
 {
  "description": "The Wabanaki Alliance has endorsed Richard Goldman for State Representative in House District 53.",
  "final_url": "https://richardgoldman.me/wabanaki-alliance-endorsement/",
- "paid_for_by": null,
+ "fingerprint": "73926ab7e71cc3a38ef745cee3dd5faacd2571a1",
+ "format": 3,
+ "paid_for_by": "authorized by Richard Goldman",
  "title": "Wabanaki Alliance endorses Richard Goldman - Richard Goldman for Maine House 53",
- "years_mentioned": []
+ "years_mentioned": [
+  "1980",
+  "2026"
+ ]
 }

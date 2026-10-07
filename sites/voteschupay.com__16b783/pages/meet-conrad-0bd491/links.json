@@ -1,16 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61586437288736",
-"https://instagram.com/electschupay",
-"https://registertovoteflorida.gov/home",
-"https://votehillsborough.gov/171/Early-Voting",
-"https://votehillsborough.gov/173/Request-a-Vote-By-Mail-Ballot",
-"https://voteschupay.com/",
-"https://voteschupay.com/blog",
-"https://voteschupay.com/contact",
-"https://voteschupay.com/copy-of-privacy-policy",
-"https://voteschupay.com/donation",
-"https://voteschupay.com/get-involved",
-"https://voteschupay.com/meet-conrad",
-"https://voteschupay.com/platform",
-"https://voteschupay.com/privacy-policy"
+{
+"text": "CONTACT",
+"href": "https://www.voteschupay.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.voteschupay.com/donation"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.voteschupay.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "MEET CONRAD",
+"href": "https://www.voteschupay.com/meet-conrad"
+},
+{
+"text": "NEWS",
+"href": "https://www.voteschupay.com/blog"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteschupay.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteschupay.com/privacy-policy"
+},
+{
+"text": "REGISTER TO VOTE!",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Text Message Terms and Conditions",
+"href": "https://www.voteschupay.com/copy-of-privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586437288736"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electschupay/"
+},
+{
+"text": "[image: Schupay Header_edited.jpg]",
+"href": "https://www.voteschupay.com"
+},
+{
+"text": "[image][image][image]",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "early",
+"href": "https://www.votehillsborough.gov/171/Early-Voting"
+},
+{
+"text": "mail-in",
+"href": "https://www.votehillsborough.gov/173/Request-a-Vote-By-Mail-Ballot"
+}
 ]

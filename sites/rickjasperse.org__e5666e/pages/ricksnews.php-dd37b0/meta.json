@@ -1,7 +1,9 @@
 {
  "description": "News and Events for Rick Jasperse, Georgia House of Representative for District 11. Report from the capitol, calendar, videos, photos and social media feeds. Find out where Rick is appearing next. Serving Murray, Gordon, and Pickens counties.",
  "final_url": "https://www.rickjasperse.org/ricksnews.php",
- "paid_for_by": null,
+ "fingerprint": "149219796f736f74c5d072549aaa76be36aedb98",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News and Events Rick Jasperse GA House of Representatives District 11 - Gordon, Murray and Pickens Counties GA",
  "years_mentioned": [
   "2011",
@@ -19,6 +21,7 @@
   "2023",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2039"
  ]
 }

@@ -1,5 +1,4 @@
-ABOUT PATTI ADAIR
-Patti Adair is a proud wife, mother of three, Deschutes County Commissioner, and fourth-generation Oregonian.
+top of page DONATE NOW TO SEND PATTI ADAIR TO CONGRESS HOME ABOUT JOIN PRIORITIES EVENTS ENDORSEMENTS MEDIA NEWS DONATE ABOUT PATTI ADAIR Patti Adair is a proud wife, mother of three, Deschutes County Commissioner, and fourth-generation Oregonian.
 Patti’s Oregon roots date back to 1884 when her family settled in Eastern Oregon near Ukiah.
 She was born in Pendleton, Oregon, and grew up in Heppner on her family’s ranch on Little Butter Creek.
 From a young age, she was deeply involved in her community as a 4-H member.
@@ -24,3 +23,5 @@ She is running for Congress to bring her proven bipartisan approach to Washingto
 In Congress, she will work across the aisle and deliver much-needed results for Oregon.
 Patti and her husband Bob, a retired surgeon, live on their horse ranch in Sisters with their dogs, horses, and cats.
 When not occupied with official county duties, Patti can be found with her horses or supporting local businesses.
+DONATE CONTACT PRIVACY POLICY TERMS OF SERVICE DONATE BY MAIL: Patti Adair for Congress, PO Box 54, West Linn, OR 97068.
+PAID FOR BY PATTI ADAIR FOR CONGRESS bottom of page

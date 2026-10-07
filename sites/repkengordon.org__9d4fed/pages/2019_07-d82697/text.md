@@ -1,4 +1,25 @@
-The long-awaited state budget has been approved by both legislative chambers and Burlington’s representatives in the State House are highlighting funds that will benefit the town.
+Get Involved/Donate Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Archive of: July 2019 Mass House approves $1.3 Billion for community climate resiliency projects July 31, 2019 repkengordon2016 Uncategorized Comments are Closed The Massachusetts House of Representatives is taking aim at climate change with the support of Burlington’s representative.
+“As climate change becomes a larger concern at the local level, State Representative Ken Gordon (D-Bedford), joined his colleagues to fight the ongoing, negative effects of global warming,” a release from his office states.
+To read the full post on Burlington Cable Access Television’s site click HERE .
+What the State Budget has for Burlington July 26, 2019 repkengordon2016 Uncategorized Comments are Closed The long-awaited state budget has been approved by both legislative chambers and Burlington’s representatives in the State House are highlighting funds that will benefit the town.
 “Representative Ken Gordon (D-Bedford) and Senator Cindy Friedman (D-Arlington) recently joined their colleagues in passing a Fiscal Year 2020 (FY20) conference committee budget, making investments in education, healthcare, mental health and substance use disorder services, housing, and local aid,” a joint release from their offices reads.
 “This $43.1 billion budget includes several key investments to support programs and services to benefit the Town of Burlington.
 To read the full piece on BCAT’s website click HERE.
+Rep.
+Gordon and Sen.
+Barrett join Legislature to pass balanced budget; secure funding for Bedford’s Hanscom students July 25, 2019 repkengordon2016 Uncategorized Comments are Closed Representative Ken Gordon (D-Bedford) and Senator Michael Barrett (D-Lexington) joined their colleagues in the Legislature to send to the governor the legislative version of the Fiscal Year 2020 (FY20) budget, which includes critical local aid along with Chapter 70 Education funding increases for the town of Bedford, as well as $517,000 for the education of the children of military families who live at Hanscom Air Force Base.
+To read more on budget click HERE .
+Burlington High School to include Innovation Pathway Program next year July 24, 2019 repkengordon2016 Uncategorized Comments are Closed Burlington High School was one of four schools in the state chosen to receive a state designation for a program designed to connect students with organizations in their field of interest and give them an opportunity to earn college credits.
+Burlington, Agawam, Atlantis Charter School in Fall River and Brockton high schools will launch new Innovation Pathway programs this fall to give students skills and experience in particular local industries through college courses and internships after recently receiving official designation status from the Departments of Elementary and Secondary Education and Higher Education, the Governor Baker, and Lieutenant Governor Karyn Polito announced this week.
+For more on this new educational opportunity check out the article HERE.
+BNEWS In Depth: Representative Gordon speaks on The ROE Act and abortion rights in Massachusetts July 23, 2019 repkengordon2016 Uncategorized Comments are Closed BNEWS Director Rich Hosford speaks to guests, including State Rep.
+Ken Gordon (D-Bedfords,) on both sides of the abortion issue about the ROE Act making its way through the Massachusetts Legislature.
+This act would re-affirm the rights laid out in Roe V.
+Wade and expand access to abortion by eliminating the need for parental consent for minors and allowing abortions after 24-weeks in certain circumstances.
+Click HERE for the full broadcast.
+1 2 Next Recent Posts Rep.
+Ken Gordon Seeking Interns for Summer 2026 Marcelo Gomes Da Silva and The Burlington ICE Facility Rep.
+Ken Gordon Seeks Summer 2025 State House Interns Rep.
+Ken Gordon Seeks Summer 2024 State House Interns Massachusetts Legislature’s FY24 Budget includes Rep.
+Ken Gordon’s priority legislation and funding for Bedford and Burlington Archives March 2026 June 2025 February 2025 February 2024 August 2023 May 2023 March 2023 November 2022 September 2022 August 2022 July 2022 April 2022 March 2022 December 2021 November 2021 August 2021 July 2021 June 2021 May 2021 March 2021 February 2021 January 2021 December 2020 November 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 April 2019 March 2019 February 2019 January 2019 November 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 October 2017 March 2017 October 2016 September 2016 July 2016 June 2016 Categories Community Traffic Control Uncategorized Paid for by the Committee to (re) Elect Ken Gordon ©# × × How much would you like to donate?
+Donate Now

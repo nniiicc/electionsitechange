@@ -1,6 +1,5 @@
-Sign Up for Updates
-Thanks for signing up!
-Jessie Barcala is a former member of the USAF.
+Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Service • Strength • Solutions Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Need Voting Information?
+Register & Find Your Polling Location Click Here for Information Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Endorsements Make Endorsement Events Photos Contact SHOP News Jessie Barcala is a former member of the USAF.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the USAF, the Department of Defense or any branch of U.S. government.
-Paid for by Committee to Elect Jessie Barcala
-Powered by CampaignPartner.com - Political Websites
+Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner.com - Political Websites Meet Jessie Issues Volunteer Contribute Events Endorsements SHOP Voter Information Make Endorsement Photos Contact News Close Menu

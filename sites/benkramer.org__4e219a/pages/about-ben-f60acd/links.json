@@ -1,10 +1,42 @@
 [
-"http://benkramer.org/",
-"http://benkramer.org/about-ben",
-"http://benkramer.org/gallery",
-"http://benkramer.org/legislation-2",
-"http://benkramer.org/news",
-"http://benkramer.org/volunteer",
-"http://carolswebdesigninc.com/",
-"https://paypal.com/donate?hosted_button_id=3JDHF9Q22ZPXY"
+{
+"text": "About Ben",
+"href": "http://www.benkramer.org/about-ben/"
+},
+{
+"text": "CWD",
+"href": "http://www.carolswebdesigninc.com"
+},
+{
+"text": "Contact",
+"href": "http://www.benkramer.org/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=3JDHF9Q22ZPXY"
+},
+{
+"text": "Gallery",
+"href": "http://www.benkramer.org/gallery/"
+},
+{
+"text": "Home",
+"href": "http://www.benkramer.org/"
+},
+{
+"text": "Legislation",
+"href": "http://www.benkramer.org/legislation-2/"
+},
+{
+"text": "News",
+"href": "http://www.benkramer.org/news/"
+},
+{
+"text": "Volunteer",
+"href": "http://www.benkramer.org/volunteer/"
+},
+{
+"text": "[image: Ben Kramer For State Senate District 19]",
+"href": "http://www.benkramer.org/"
+}
 ]

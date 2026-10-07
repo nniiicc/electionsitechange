@@ -1,6 +1,34 @@
 [
-"https://ripleyforwisconsin.com/",
-"https://ripleyforwisconsin.com/cart",
-"https://ripleyforwisconsin.com/home",
-"https://secure.actblue.com/donate/sasha-ripley-1"
+{
+"text": "0",
+"href": "https://www.ripleyforwisconsin.com/cart"
+},
+{
+"text": "About",
+"href": "https://ripleyforwisconsin.com/home#aboutme"
+},
+{
+"text": "Contact",
+"href": "https://ripleyforwisconsin.com/home#contact"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/sasha-ripley-1"
+},
+{
+"text": "Issues",
+"href": "https://ripleyforwisconsin.com/home#issues"
+},
+{
+"text": "Meet Sasha",
+"href": "https://ripleyforwisconsin.com/home#aboutme"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.ripleyforwisconsin.com/#yardsign"
+},
+{
+"text": "[image: Sasha Ripley for Wisconsin]",
+"href": "https://www.ripleyforwisconsin.com/"
+}
 ]

@@ -1,9 +1,9 @@
-Dr.
-Michael Pakko – Economist and Libertarian
-“As an economist, I recognize that competition provides more and better choices for the consumer.
+Skip to content Pakko for Arkansas Secretary of State About Dr.
+Pakko Elections Issues Vote Libertarian Donate About Dr.
+Pakko Dr.
+Michael Pakko – Economist and Libertarian “As an economist, I recognize that competition provides more and better choices for the consumer.
 This is true in the marketplace of political ideas as well.
-The two major parties are failing us and we need to open the process to more voices, and more choices on our ballots.”
-Dr.
+The two major parties are failing us and we need to open the process to more voices, and more choices on our ballots.” Dr.
 Michael Pakko is currently the Chief Economist and State Economic Forecaster at the Arkansas Economic Development Institute at the University of Arkansas at Little Rock.
 Pakko received his B.A. from Michigan State University in 1984 and a Ph.D. from the University of Rochester in 1994.
 Before moving to Arkansas in 2009, he spent 16 years as a research economist and officer at the Federal Reserve Bank of St.
@@ -19,3 +19,7 @@ During his tenure, the Libertarian Party successfully petitioned to become a “
 Dr.
 Pakko was also lead plaintiff in two successful federal lawsuits to retain the party’s ability to do even that.
 These experiences have led him to conclude that low levels of voter participation in Arkansas are not a reflection of apathy, but a failure of the two major political parties to provide real choices for the voters.
+Help elect Dr.
+Michael Pakko to the office of Secretary of State!
+Volunteer Donate About Dr.
+Pakko Elections Issues Vote Libertarian Donate Facebook Twitter LinkedIn Paid for by Pakko for Arkansas PO Box 241271 Little Rock, AR 72223 (501) 300-2600 Email: info@pakko4ar.com

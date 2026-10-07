@@ -1,4 +1,4 @@
-Our Founding Fathers gifted us with liberty, but over the past 200 years our freedom has been eroded by power hungry politicians.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Our Founding Fathers gifted us with liberty, but over the past 200 years our freedom has been eroded by power hungry politicians.
 Personal liberty means taking personal responsibility for that liberty, and I am inviting you to join us in the fight to restore Freedom in West Virginia.
 Our state is ailing, that is obvious, but the answer is so very simple- a return to the Founding Principles that made our Nation great.
 I am inviting you to join me in that effort, because not only it is a privilege to work towards a return to a Constitutional Government, but it is also in fact the duty of everyone of us.
@@ -10,4 +10,4 @@ Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available in the message).
 Reply HELP for help.
-See Privacy Policy & Mobile Messaging Terms and Conditions
+See Privacy Policy & Mobile Messaging Terms and Conditions anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

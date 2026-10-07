@@ -1,5 +1,4 @@
-About Ryder Kessler
-I’m a lifelong downtown Manhattanite, born at St.
+0 Skip to Content Home About Platform Endorsements Events Donate Open Menu Close Menu Donate Home About Platform Endorsements Events Open Menu Close Menu Home About Platform Endorsements Events Donate About Ryder Kessler I’m a lifelong downtown Manhattanite, born at St.
 Vincent’s Hospital and raised steps from Washington Square, who has spent my life working to expand economic opportunity, strengthen democracy, and help this city I love live up to its promise.
 My Jewish ancestors came to New York to live freely.
 My gay forbears stomped these streets in drag to live authentically.
@@ -18,3 +17,4 @@ Together, we’ve helped protect congestion pricing, advance landmark affordable
 When ICE arrived on our streets, I started our local Hands Off NYC chapter to coordinate rapid response and train our neighbors on how to protect each other.
 Today, New York’s challenges are urgent—but this district’s communities are up to the task.
 We’re working for homes working families can afford, standing with immigrant neighbors against ICE overreach, marching in defense of the country we love, and supporting the small businesses that make the big city feel like a small town.
+There would be no greater honor than representing us in Albany—so we can advance our district’s values and ensure our neighborhoods get their fair share. hello@ryderfornewyork.com Paid for by Ryder for New York 2026

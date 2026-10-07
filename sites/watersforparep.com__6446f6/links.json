@@ -1,12 +1,54 @@
 [
-"https://facebook.com/share/1CLjFFXwqG?mibextid=wwXIfr",
-"https://instagram.com/kathrynwatersforparep?igsh=MXhkd21nNGU4cnR4eg%3D%3D",
-"https://pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot",
-"https://pa.gov/services/vote/find-your-local-polling-place",
-"https://pa.gov/services/vote/register-to-vote",
-"https://pavoterservices.pa.gov/onlineabsenteeapplication",
-"https://paypal.com/donate?hosted_button_id=MUYFCMNRVV7WG",
-"https://watersforparep.com/",
-"https://watersforparep.com/home-1",
-"https://watersforparep.com/news"
+{
+"text": "About Me",
+"href": "https://www.watersforparep.com/home-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate?hosted_button_id=MUYFCMNRVV7WG"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.paypal.com/donate?hosted_button_id=MUYFCMNRVV7WG"
+},
+{
+"text": "Get Involved",
+"href": "https://www.watersforparep.com#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.watersforparep.com"
+},
+{
+"text": "LATEST UPDATES",
+"href": "https://www.watersforparep.com/news"
+},
+{
+"text": "News",
+"href": "https://www.watersforparep.com/news"
+},
+{
+"text": "[image: Facebook Picture.png]",
+"href": "https://www.facebook.com/share/1CLjFFXwqG/?mibextid=wwXIfr"
+},
+{
+"text": "[image: Instagram Picture1.jpg]",
+"href": "https://www.instagram.com/kathrynwatersforparep?igsh=MXhkd21nNGU4cnR4eg%3D%3D"
+},
+{
+"text": "https://www.pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot",
+"href": "https://www.pa.gov/services/vote/apply-for-a-mail-in-or-absentee-ballot"
+},
+{
+"text": "https://www.pa.gov/services/vote/find-your-local-polling-place",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place"
+},
+{
+"text": "https://www.pa.gov/services/vote/register-to-vote",
+"href": "https://www.pa.gov/services/vote/register-to-vote"
+},
+{
+"text": "https://www.pavoterservices.pa.gov/onlineabsenteeapplication/#/OnlineMailInBegin",
+"href": "https://www.pavoterservices.pa.gov/onlineabsenteeapplication/#/OnlineMailInBegin"
+}
 ]

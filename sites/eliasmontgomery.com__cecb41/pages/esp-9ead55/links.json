@@ -1,6 +1,22 @@
 [
-"https://eliasmontgomery.com/",
-"https://eliasmontgomery.com/cart",
-"https://eliasmontgomery.com/contact",
-"https://eliasmontgomery.com/esp"
+{
+"text": "0",
+"href": "https://www.eliasmontgomery.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.eliasmontgomery.com/contact"
+},
+{
+"text": "English",
+"href": "https://www.eliasmontgomery.com/"
+},
+{
+"text": "Español",
+"href": "https://www.eliasmontgomery.com/esp"
+},
+{
+"text": "[image: Elias Montgomery]",
+"href": "https://www.eliasmontgomery.com/"
+}
 ]

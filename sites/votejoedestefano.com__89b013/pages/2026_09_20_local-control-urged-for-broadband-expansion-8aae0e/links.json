@@ -1,7 +1,22 @@
 [
-"https://secure.anedot.com/friends-of-joe-destefano/donate",
-"https://votejoedestefano.com/",
-"https://votejoedestefano.com/2026/09/20/local-control-urged-for-broadband-expansion?share=facebook",
-"https://votejoedestefano.com/2026/09/20/local-control-urged-for-broadband-expansion?share=twitter",
-"https://votejoedestefano.com/category/latestnews"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-joe-destefano/donate"
+},
+{
+"text": "Latest News",
+"href": "https://votejoedestefano.com/category/latestnews/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://votejoedestefano.com/2026/09/20/local-control-urged-for-broadband-expansion/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://votejoedestefano.com/2026/09/20/local-control-urged-for-broadband-expansion/?share=twitter"
+},
+{
+"text": "← Home",
+"href": "https://votejoedestefano.com/"
+}
 ]

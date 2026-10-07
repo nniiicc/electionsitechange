@@ -1,15 +1,62 @@
 [
-"https://secure.actblue.com/donate/zakary-pereira-district-22",
-"https://static.wixstatic.com/media/03321b_001fcb9c03054c2f8162645aa30a74e0~mv2.png",
-"https://static.wixstatic.com/media/03321b_09cd048859654c90ba99447e5236248a~mv2.jpg",
-"https://static.wixstatic.com/media/03321b_1f7715378c934c3096c23ec34ea1f0f3~mv2.jpeg",
-"https://static.wixstatic.com/media/03321b_588c141704ad4310879a7b326e203817~mv2.jpg",
-"https://static.wixstatic.com/media/03321b_7d58b5d4cc034fb0ba6d72a2c63a7ee2~mv2.png",
-"https://static.wixstatic.com/media/03321b_8079fde80fb245368ac8a05c91cfb2d6~mv2.png",
-"https://static.wixstatic.com/media/03321b_8d254a1cc7414aaf9363f61d1e9aa3ba~mv2.jpg",
-"https://static.wixstatic.com/media/03321b_ed6c968b585842aa8c16e193425fb11e~mv2.png",
-"https://zakaryforri.com/",
-"https://zakaryforri.com/about-zak-pereira",
-"https://zakaryforri.com/issues",
-"https://zakaryforri.com/volunteer"
+{
+"text": "About Zak",
+"href": "https://www.zakaryforri.com/about-zak-pereira"
+},
+{
+"text": "Call Zak",
+"href": "tel:+14012878451"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zakary-pereira-district-22"
+},
+{
+"text": "Email Zak",
+"href": "mailto:ZakaryForRI@gmail.com?subject=Message+from+campaign+website"
+},
+{
+"text": "Get Involved",
+"href": "https://www.zakaryforri.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.zakaryforri.com"
+},
+{
+"text": "Issues",
+"href": "https://www.zakaryforri.com/issues"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_001fcb9c03054c2f8162645aa30a74e0~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_09cd048859654c90ba99447e5236248a~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_1f7715378c934c3096c23ec34ea1f0f3~mv2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_588c141704ad4310879a7b326e203817~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_7d58b5d4cc034fb0ba6d72a2c63a7ee2~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_8079fde80fb245368ac8a05c91cfb2d6~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_8d254a1cc7414aaf9363f61d1e9aa3ba~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/03321b_ed6c968b585842aa8c16e193425fb11e~mv2.png"
+}
 ]

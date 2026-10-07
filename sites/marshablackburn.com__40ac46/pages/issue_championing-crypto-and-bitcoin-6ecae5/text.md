@@ -1,6 +1,12 @@
-Marsha Will See To
-Championing Crypto and Bitcoin
-Marsha has long been a champion for crypto and Bitcoin because it preserves freedom, protects privacy, and offers an option for less government regulation.
+Skip to main content Skip to footer Home Meet Marsha Issues Bell to Bell: No Cell In The News Join Us Join The Team Team Store Donate Marsha Will See To Championing Crypto and Bitcoin Marsha has long been a champion for crypto and Bitcoin because it preserves freedom, protects privacy, and offers an option for less government regulation.
 She believes that we must stay on the cutting edge of today’s digital world and use any tool at our disposal to preserve our conservative values.
 She has also been outspoken against Central Bank Digital Currencies, as they allow the government to collect information on individuals’ personal finances.
 Tennessee is a beacon of freedom and prosperity, and she believes Tennessee is perfectly positioned to be the capital of the world for Bitcoin and cryptocurrency.
+More from Marsha: Fighting for Tennessee’s Continued Economic Growth Protecting Women’s Sports Stopping the scourge of Illegal Immigration Keeping our communities safe Confronting Communist China Cutting wasteful government spending Ensuring Tennessee remains a safe haven for conservatives Cutting taxes to bolster our economy Strengthening parental rights Fighting woke anti-American curriculum Improving higher education and vocational training Backing President Trump’s America First Agenda Stopping out of control liberal spending Protecting Our Kids Defending the innocent right to life Safeguarding our Second Amendment rights Supporting our military and veterans Protecting Tennessee Elections And Supporting Party Registration Building a modern infrastructure Standing up for Tennessee farmers Meet Marsha Issues Team Store In the news Join Us Donate Endorse Endorsement Submissions Privacy Policy Marsha Blackburn for Governor PO BOX 336 Brentwood, TN 37024 info@marshablackburn.com Paid for and authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+By law the maximum amount an individual may contribute to Marsha for Governor is $10,600.
+By contributing I confirm that my contribution should first be designated to the 2026 primary election, up to the maximum contribution limit of $5,300; then to the 2026 general election, up to the maximum contribution limit of $5,300.

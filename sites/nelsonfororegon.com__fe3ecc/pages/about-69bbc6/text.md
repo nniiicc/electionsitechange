@@ -1,11 +1,15 @@
+0 Skip to Content About Priorities Accomplishments Endorsements Contact Donate Open Menu Close Menu About Priorities Accomplishments Endorsements Contact Donate Open Menu Close Menu About Priorities Accomplishments Endorsements Contact Donate For the past decade, Travis Nelson has dedicated his time and energy to making North Portland better for all.
 The grandson of sharecroppers, Travis was born to teenage parents in a small rural town in North Louisiana.
 Before entering grade school, his parents moved him and his sister from Louisiana to the Pacific Northwest in search of a better life and opportunity.
 Travis has never been afraid of hard work.
 Prior to graduating from Washington State University with a degree in Nursing, he worked in restaurants, coached, did janitorial work, and worked as a landscaper to pay for his community college education where he earned his first degree in nursing.
 In 2005 Travis moved to the Portland area and started his nursing career.
 He became a Board Certified Registered Nurse and has specialized in Medical/Surgical Nursing, Emergency Nursing, Case Management, and has served as part of the leadership team on a Physical Rehabilitation Unit where he saved lives and advocated to improve patient care.
+While working as a nurse, he became very involved with his Union, serving on 2 negotiation teams and serving 2 terms as Co-Chair of his local unit.
+At the time, he was the first person of color and the youngest person ever elected to lead his local.
 For more than a decade, Travis has been honored to work as a Union Labor Representative where he fights for good working conditions for nurses and the best healing conditions for patients.
 He is a proud member of the Oregon Nurses Association, American Nurses Association, Teamsters, American Federation of Teachers, The Urban League, The Sierra Club, Democratic Socialists of America, Oregon Health Equity Task Force, and The National Association for the Advancement of Colored People (NAACP).
-He is a past member of the Oregon League of Conservation Voters Multnomah Committee and a founding member of the Alliance of Black Nurses of Oregon
-Travis is also a member of the LGBTQ+ community and believes strongly in advocating for Minority & LGBTQ+ rights.
+He is a past member of the Oregon League of Conservation Voters Multnomah Committee and a founding member of the Alliance of Black Nurses of Oregon Travis is also a member of the LGBTQ+ community and believes strongly in advocating for Minority & LGBTQ+ rights.
 Additionally, he has a firm belief that strong Labor Unions and the right to organize are critical to shifting the power from corporations and the 1% back to the working people of America.
+“I am running for State Rep because I believe that healthcare is a human right and that Oregon can lead the way by assuring that all of its citizens have healthcare; I know that the climate crisis is real and will work hard to ensure that Oregon is doing all that it can to lead on Climate change mitigation; housing and houselessness are big issues in this district and I pledge to work with citizens and local leaders to find solutions.” — Travis Nelson Paid for By Friends of Travis Nelson PAC ID: 21678 Friends of Travis Nelson P.O.
+Box 42307 Portland, OR 97242 Campaign photography donated by Andie Petkus Photography

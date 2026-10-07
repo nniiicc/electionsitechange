@@ -1,25 +1,110 @@
 [
-"http://facebook.com/jimmygomezca",
-"http://instagram.com/jimmygomezca",
-"http://twitter.com/jimmygomezca",
-"http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg",
-"https://jimmygomezforcongress.com/",
-"https://jimmygomezforcongress.com/bio",
-"https://jimmygomezforcongress.com/bio/photos",
-"https://jimmygomezforcongress.com/blog",
-"https://jimmygomezforcongress.com/donate",
-"https://jimmygomezforcongress.com/endorsements",
-"https://jimmygomezforcongress.com/get-involved",
-"https://jimmygomezforcongress.com/issues",
-"https://jimmygomezforcongress.com/media",
-"https://jimmygomezforcongress.com/privacy-policy",
-"https://jimmygomezforcongress.com/progressive-record",
-"https://jimmygomezforcongress.com/the-latest",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates",
-"https://jimmygomezforcongress.com/the-latest/in-the-news",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50",
-"https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50"
+},
+{
+"text": "213-557-1348",
+"href": "tel:213-557-1348"
+},
+{
+"text": "Bio",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "Campaign Blog",
+"href": "https://jimmygomezforcongress.com/blog/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/"
+},
+{
+"text": "Donate Now",
+"href": "https://jimmygomezforcongress.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://jimmygomezforcongress.com/get-involved"
+},
+{
+"text": "Get Updates",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "In the News",
+"href": "https://jimmygomezforcongress.com/the-latest/in-the-news/"
+},
+{
+"text": "Media",
+"href": "https://jimmygomezforcongress.com/media"
+},
+{
+"text": "Meet Jimmy",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "On The Issues",
+"href": "https://jimmygomezforcongress.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://jimmygomezforcongress.com/bio/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jimmygomezforcongress.com/privacy-policy"
+},
+{
+"text": "Progressive Record",
+"href": "https://jimmygomezforcongress.com/progressive-record/"
+},
+{
+"text": "Supporters",
+"href": "https://jimmygomezforcongress.com/endorsements/"
+},
+{
+"text": "The Latest",
+"href": "https://jimmygomezforcongress.com/the-latest/"
+},
+{
+"text": "[image]",
+"href": "https://jimmygomezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Dolores+Huerta+Joins+Democratic+&+Latino+Organizations+Supporting+Jimmy+Gomez%27s+Re-Election+Campaign+-+Jimmy+Gomez+for+Congress=&body=https%3A%2F%2Fjimmygomezforcongress.com%2Fthe-latest%2Fcampaign-updates%2Fdolores-huerta-joins-democratic-latino-organizations-supporting-jimmy-gomezs-re-election-campaign%2F"
+},
+{
+"text": "info@jimmygomezforcongress.com",
+"href": "mailto:info@jimmygomezforcongress.com"
+}
 ]

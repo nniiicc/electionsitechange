@@ -1,8 +1,34 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/profile.php?id=61587371411416",
-"https://mikeforportland.com/",
-"https://mikeforportland.com/cart",
-"https://mikeforportland.com/home",
-"https://mikeforportland.com/member-site-homepage-2-2"
+{
+"text": "0",
+"href": "https://www.mikeforportland.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.mikeforportland.com/home#contact"
+},
+{
+"text": "Donate",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.mikeforportland.com/#about"
+},
+{
+"text": "Mike Dixon for Maine",
+"href": "https://www.mikeforportland.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://www.mikeforportland.com/home#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikeforportland.com/member-site-homepage-2-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587371411416"
+}
 ]

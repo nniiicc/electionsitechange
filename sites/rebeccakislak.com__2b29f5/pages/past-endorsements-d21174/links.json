@@ -1,10 +1,42 @@
 [
-"https://facebook.com/RebeccaforRepRI",
-"https://rebeccakislak.com/",
-"https://rebeccakislak.com/about",
-"https://rebeccakislak.com/cart",
-"https://rebeccakislak.com/endorsements",
-"https://rebeccakislak.com/new-page",
-"https://secure.actblue.com/donate/rebeccaforrepri",
-"https://twitter.com/RebeccaKislak"
+{
+"text": "0",
+"href": "https://www.rebeccakislak.com/cart"
+},
+{
+"text": "401-400-2338",
+"href": "tel:+14014002338"
+},
+{
+"text": "About",
+"href": "https://www.rebeccakislak.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rebeccaforrepri"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rebeccakislak.com/endorsements"
+},
+{
+"text": "News",
+"href": "https://www.rebeccakislak.com/new-page"
+},
+{
+"text": "[image: Rebecca Kislak]",
+"href": "https://www.rebeccakislak.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RebeccaKislak"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RebeccaforRepRI/"
+},
+{
+"text": "info@rebeccakislak.com",
+"href": "mailto:info@rebeccakislak.com"
+}
 ]

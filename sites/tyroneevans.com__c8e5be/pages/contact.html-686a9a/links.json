@@ -1,9 +1,50 @@
 [
-"https://tyroneevans.com/",
-"https://tyroneevans.com/about.html",
-"https://tyroneevans.com/cgi-bin/privacy.cgi",
-"https://tyroneevans.com/cgi-bin/terms.cgi",
-"https://tyroneevans.com/contact.html",
-"https://tyroneevans.com/volunteer.html",
-"https://zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+{
+"text": "About",
+"href": "https://www.tyroneevans.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://www.tyroneevans.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+},
+{
+"text": "Home",
+"href": "https://www.tyroneevans.com/"
+},
+{
+"text": "Privacy",
+"href": "https://www.tyroneevans.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-support-campaign-ga-house-dist--128"
+},
+{
+"text": "Terms",
+"href": "https://www.tyroneevans.com/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.tyroneevans.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tyroneevans.com/volunteer.html"
+},
+{
+"text": "[image]",
+"href": "https://tyroneevans.com"
+},
+{
+"text": "tevansforgeorgia@gmail.com",
+"href": "mailto:tevansforgeorgia@gmail.com"
+}
 ]

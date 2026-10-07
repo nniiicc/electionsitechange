@@ -1,7 +1,9 @@
 {
  "description": "Manage Volunteer Shifts on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageVolunteerShifts",
- "paid_for_by": null,
+ "fingerprint": "557d237a524c4a6ca0342dbec73c6261b610d42a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Volunteer Shifts | Maxwell for Congress",
  "years_mentioned": []
 }

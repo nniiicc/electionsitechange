@@ -1,11 +1,42 @@
 [
-"http://squarespace.com/",
-"https://facebook.com/lizthomsonnm",
-"https://lizthomsonfornm.com/",
-"https://lizthomsonfornm.com/about",
-"https://lizthomsonfornm.com/cart",
-"https://lizthomsonfornm.com/contact",
-"https://lizthomsonfornm.com/press",
-"https://secure.actblue.com/donate/elizabeth-thomson-2",
-"https://twitter.com/lizthomsonnm"
+{
+"text": "0",
+"href": "https://www.lizthomsonfornm.com/cart"
+},
+{
+"text": "Contact Liz",
+"href": "https://www.lizthomsonfornm.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elizabeth-thomson-2"
+},
+{
+"text": "Meet Liz",
+"href": "https://www.lizthomsonfornm.com/about"
+},
+{
+"text": "My Priorities",
+"href": "https://www.lizthomsonfornm.com/"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lizthomsonfornm.com/press"
+},
+{
+"text": "[image: Liz Thomson]",
+"href": "https://www.lizthomsonfornm.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lizthomsonnm"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lizthomsonnm/"
+}
 ]

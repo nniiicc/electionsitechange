@@ -1,9 +1,9 @@
 {
  "description": "Help out Bubba's campaign",
  "final_url": "https://sorensenforiowa.com/contact",
- "paid_for_by": null,
+ "fingerprint": "a924f4579529cc15ec72ad1456d1cc803a35c9d5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Sorensen For Iowa",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

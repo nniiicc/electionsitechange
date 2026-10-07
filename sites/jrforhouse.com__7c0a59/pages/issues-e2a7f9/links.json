@@ -1,14 +1,70 @@
 [
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues",
-"https://addtoany.com/add_to/x?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues",
-"https://addtoany.com/share",
-"https://facebook.com/profile.php?id=61558726590785",
-"https://jrforhouse.com/",
-"https://jrforhouse.com/issues",
-"https://jrforhouse.com/wp-content/uploads/2024/04/JR-PR-26th.pdf",
-"https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-1_Property-Tax.jpg",
-"https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-2_Public-Lands.jpg",
-"https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-3_Economic-Development_1A.jpg",
-"https://secure.winred.com/jrforhouse59/donate-today"
+{
+"text": "(307) 262-8446",
+"href": "tel:+13072628446"
+},
+{
+"text": "Donation",
+"href": "https://secure.winred.com/jrforhouse59/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61558726590785"
+},
+{
+"text": "Get in Touch with J.R.",
+"href": "mailto: jr.riggins@jrforhouse.com"
+},
+{
+"text": "Home",
+"href": "https://jrforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://jrforhouse.com/issues/"
+},
+{
+"text": "Press Release",
+"href": "https://jrforhouse.com/wp-content/uploads/2024/04/JR-PR-26th.pdf"
+},
+{
+"text": "[image]",
+"href": "https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-1_Property-Tax.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-2_Public-Lands.jpg"
+},
+{
+"text": "[image]",
+"href": "https://jrforhouse.com/wp-content/uploads/2026/07/Policy-Paper-3_Economic-Development_1A.jpg"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/jrforhouse59/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fjrforhouse.com%2Fissues%2F&linkname=Issues"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://jrforhouse.com/"
+},
+{
+"text": "jr.riggins@jrforhouse.com",
+"href": "mailto: jr.riggins@jrforhouse.com"
+}
 ]

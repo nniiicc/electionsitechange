@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.pachecoforthepeople.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "e53deca5f062f2e1d777993b794852bc6d27f47c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": [
   "2026"

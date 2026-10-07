@@ -1,7 +1,5 @@
-10/13 – ASK ME ANYTHING Town Hall – Concord
-October 13 @ 6:30 pm - 8:00 pm
-Tuesday, 10/13, 6:30 PM – 8:00 PM
-Sweeney Auditorium, NHTI – Concord’s Community College, 31 College Drive, Concord, NH 03301
-Lily’s “Ask Me Anything” town hall.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/13 – ASK ME ANYTHING Town Hall – Concord October 13 @ 6:30 pm - 8:00 pm « 10/12 – Right Side Broadcasting Network Interview – Virtual 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover » Tuesday, 10/13, 6:30 PM – 8:00 PM Sweeney Auditorium, NHTI – Concord’s Community College, 31 College Drive, Concord, NH 03301 Lily’s “Ask Me Anything” town hall.
 Free and open to the public.
 Bring your questions.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 13 Time: 6:30 pm - 8:00 pm Event Category: Events « 10/12 – Right Side Broadcasting Network Interview – Virtual 10/14 – Fireside Chat with Lily – Dartmouth Rockefeller Center – Hanover » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

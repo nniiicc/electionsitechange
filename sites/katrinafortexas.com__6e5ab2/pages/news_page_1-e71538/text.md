@@ -1,4 +1,4 @@
-NEWS Representative Katrina Pierson Announces Texas Women’s Health Initiative Read More Texas House to Study Women’s Hormonal Health Resources, Prenatal Nutrition in New Interim Charges Read More State Legislature Forms New Women’s Health Committee Read More Rep.
+About Issues Endorsements Accomplishments Get Involved Get Involved Newsletter News Store Events DONATE Follow Follow Follow Follow About Issues Endorsements Accomplishments Get Involved Newsletter News Store Events Donate Donate NEWS Representative Katrina Pierson Announces Texas Women’s Health Initiative Read More Texas House to Study Women’s Hormonal Health Resources, Prenatal Nutrition in New Interim Charges Read More State Legislature Forms New Women’s Health Committee Read More Rep.
 Katrina Pierson Announces Texas Women’s Health Initiative Read More AT&T, Compudopt Provide 100 Laptops and Backpacks to Rockwall Students Read More Rep.
 Katrina Pierson Commemorates Sine Die & New District Office Read More HD 33 May Capitol Report Read More Rep.
 Pierson Celebrates Historic Passage Of School Choice In Texas Read More Rep.
@@ -7,4 +7,6 @@ Pierson Wins $4M For Family Support Initiative In State Budget Read More HD 33 C
 Justin Holland, former Trump spokeswoman Katrina Pierson runoff election draws statewide attention Read More School choice, Paxton impeachment frame race between Holland & Pierson in Texas HD 33 Read More Holland, Pierson differ over school choice, Paxton impeachment in Texas House primary runoff Read More House District 33 Candidates Justin Holland and Katrina Pierson Discuss Key Issues in Rockwall Times Interview Read More Abbott Endorses Katrina Pierson for TX HD 33 Read More Gov.
 Abbott Endorses Katrina Pierson Against State Rep.
 Justin Holland Read More Katrina Pierson Campaign announces local endorsements from City of Fate leadership in Rockwall County Read More Retired Rockwall County Sheriff, former president of Nat’l Sheriff’s Association Harold Eavenson endorses Katrina Pierson Read More 1 2 Next Entries JOIN THE MOVEMENT!
-ENDORSE KATRINA PIERSON TODAY
+ENDORSE KATRINA PIERSON TODAY Follow Follow Follow Follow About Issues Accomplishments Endorsements Donate By Mail Get Involved Newsletter News Store Pol.
+Adv.
+Paid for by Katrina Pierson Campaign © KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026 | ALL RIGHTS RESERVED Privacy Policy

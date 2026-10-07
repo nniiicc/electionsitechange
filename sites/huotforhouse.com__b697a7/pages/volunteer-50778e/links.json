@@ -1,18 +1,82 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScNFgW68kbFV42CNdOiuUiRiQdkd44XfLACArR81nn4yv4WQA/viewform?usp=sharing",
-"https://facebook.com/HuotforHouse",
-"https://house.leg.state.mn.us/members/profile/15527",
-"https://huotforhouse.com/",
-"https://huotforhouse.com/contact",
-"https://huotforhouse.com/delivering",
-"https://huotforhouse.com/endorsements",
-"https://huotforhouse.com/events",
-"https://huotforhouse.com/gallery",
-"https://huotforhouse.com/issues",
-"https://huotforhouse.com/legislative",
-"https://huotforhouse.com/news",
-"https://huotforhouse.com/volunteer",
-"https://huotforhouse.com/why-i-serve",
-"https://instagram.com/john_huot_4_mn",
-"https://secure.actblue.com/donate/huot-for-house-2"
+{
+"text": "Contact",
+"href": "https://www.huotforhouse.com/contact/"
+},
+{
+"text": "Delivering for our Community",
+"href": "https://www.huotforhouse.com/delivering/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/huot-for-house-2"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:info@huotforhouse.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.huotforhouse.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.huotforhouse.com/events/"
+},
+{
+"text": "Gallery",
+"href": "https://www.huotforhouse.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Huot for House",
+"href": "https://www.huotforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.huotforhouse.com/issues/"
+},
+{
+"text": "Legislative Profile",
+"href": "https://www.huotforhouse.com/legislative/"
+},
+{
+"text": "News",
+"href": "https://www.huotforhouse.com/news/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "mailto:signs@huotforhouse.com?subject=Request+a+Yard+Sign"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScNFgW68kbFV42CNdOiuUiRiQdkd44XfLACArR81nn4yv4WQA/viewform?usp=sharing"
+},
+{
+"text": "Volunteer",
+"href": "https://www.huotforhouse.com/volunteer/"
+},
+{
+"text": "Why I Serve",
+"href": "https://www.huotforhouse.com/why-i-serve/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HuotforHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.house.leg.state.mn.us/members/profile/15527"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/john_huot_4_mn"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@huotforhouse.com"
+}
 ]

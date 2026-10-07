@@ -1,9 +1,30 @@
 [
-"https://drive.google.com/file/d/1pW-T-ntZhNEVS9gQoDzPdFskZ9LN6PgO/view",
-"https://facebook.com/",
-"https://hernandez51.com/cart",
-"https://instagram.com/hernandezfor51",
-"https://secure.actblue.com/donate/hernandez51",
-"https://tiktok.com/@hernandezfor51/video/7539537823519624478?is_from_webapp=1&sender_device=pc&web_id=7354920140181145134",
-"https://x.com/hernandezfor51"
+{
+"text": "0",
+"href": "https://www.hernandez51.com/cart"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/hernandez51"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/hernandezfor51/"
+},
+{
+"text": "PRINT PETITION",
+"href": "https://drive.google.com/file/d/1pW-T-ntZhNEVS9gQoDzPdFskZ9LN6PgO/view"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@hernandezfor51/video/7539537823519624478?is_from_webapp=1&sender_device=pc&web_id=7354920140181145134"
+},
+{
+"text": "X",
+"href": "https://x.com/hernandezfor51"
+}
 ]

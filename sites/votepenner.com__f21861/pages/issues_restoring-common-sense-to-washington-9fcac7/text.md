@@ -1,7 +1,4 @@
-Restoring Common Sense to Washington
-“If you look a couple hundred pages into the budget, $42.9 million in excess lawsuits are budgeted to come out of DCYF coffers... $42.9 million in lawsuits related to dead children, dead and dying children.”
-The Cost of Bureaucratic Failure
-I stood on the House floor during the 2026 legislative session.
+Josh Penner For Representative R The Record The Briefing Submit an Idea Support Record Briefings Idea Support Pillar: Child Welfare Target: Child Safety Restoring Common Sense to Washington “ If you look a couple hundred pages into the budget, $42.9 million in excess lawsuits are budgeted to come out of DCYF coffers... $42.9 million in lawsuits related to dead children, dead and dying children. ” Watch the Full Floor Speech → “ If you look a couple hundred pages into the budget, $42.9 million in excess lawsuits are budgeted to come out of DCYF coffers... $42.9 million in lawsuits related to dead children, dead and dying children. ” The Cost of Bureaucratic Failure I stood on the House floor during the 2026 legislative session.
 I held the heavy truth of our failures in my hands.
 I read the DCYF unexpected fatality reports directly to my colleagues.
 These reports detailed the preventable deaths of babies and children.
@@ -14,8 +11,7 @@ I watched as the state prioritized the rights of parents over the lives of infan
 The law created a barrier that caseworkers could not overcome.
 We saw the results in the eyes of grieving families.
 We saw the results in the empty cribs of our community.
-The Price of Negotitation
-I fought this dangerous standard.
+The Price of Negotitation I fought this dangerous standard.
 I authored and moved Amendment 2105 to our state operating budget because I knew we needed to change the course of our state.
 My amendment sought to lower the barrier for removal in fentanyl cases.
 It was a last shot after years of other efforts to address this.
@@ -27,15 +23,12 @@ The amendment would also pushed for the funding of additional staff to support o
 Who have been screaming that the current law around child welfare in relation to fentanyl and dangerous situations requires them to prove things it would take a whole team of people to do in order to intervene.
 If we couldn't fix the law, perhaps we could beef up our caseworkers so they could exhaust all avenues to keep these children alive - and our state out of lawsuits.
 I pointed this out to my colleagues in excruciating detail during the debate.
-The numbers told a story of systemic neglect.
-“If you look a couple hundred pages into the budget, $42.9 million in excess lawsuits are budgeted to come out of DCYF coffers... $42.9 million in lawsuits related to dead children, dead and dying children.”
-These lawsuits represent the cost of our failure to act.
+The numbers told a story of systemic neglect. “ If you look a couple hundred pages into the budget, $42.9 million in excess lawsuits are budgeted to come out of DCYF coffers... $42.9 million in lawsuits related to dead children, dead and dying children. ” These lawsuits represent the cost of our failure to act.
 We paid for our inaction with both lives and taxpayer dollars.
 The state's refusal to act earlier created this massive legal burden.
 We spent millions of dollars on litigation because we failed to protect children from the start.
 This budget reflects a state in crisis.
-A Vision for a Balanced Washington
-I want to take Washington back to a place of common sense.
+A Vision for a Balanced Washington I want to take Washington back to a place of common sense.
 When children are literally dying of fentanyl ingestion while under our supervision we've lost something.
 We've focused on protecting broken policy and not on protecting families and children.
 We must bring balance back to Olympia.
@@ -53,12 +46,23 @@ I am building a coalition of citizens who value accountability and safety.
 We want a state that works for everyone.
 We want a state that honors its promises to the most helpless among us.
 Stand with me.
-Watch the Floor Speech
-VIDEO | Washington students deserve better: Rep.
-Joshua Penner fights for underfunded schools (Amendment 2114 to Senate Bill 5998)
-Watch Testimony on YouTube ↗
-VIDEO | Rep.
-Joshua Penner: Expanding Dental care access for developmental disability community (Amendment 2101 to Senate Bill 5998)
-Watch Testimony on YouTube ↗
-Join The Fight For Accountability
-Help us hold the line against bad policy and runaway spending.
+Watch the Floor Speech Outbound Testimony Link Testimony Highlight VIDEO | Washington students deserve better: Rep.
+Joshua Penner fights for underfunded schools (Amendment 2114 to Senate Bill 5998) Watch Testimony on YouTube ↗ Outbound Testimony Link Testimony Highlight VIDEO | Rep.
+Joshua Penner: Expanding Dental care access for developmental disability community (Amendment 2101 to Senate Bill 5998) Watch Testimony on YouTube ↗ Join The Fight For Accountability Help us hold the line against bad policy and runaway spending.
+Support the Fight Related Briefings Failing Backwards: How Olympia’s "Gotcha" Game Drives Up Your Utility Bills Olympia passes complex utility mandates, withholds clear guidance, then lets local providers take the blame.
+The result is higher compliance costs and higher power bills for working families.
+Read full breakdown → The Truth About Olympia's Failure on the Fentanyl Crisis A Silent Killer in Our Living Rooms Every parent knows the drill.
+You watch your toddler's every move.
+You check the floor for small toys or stray pie...
+Read full breakdown → The Washington Accountability Index Select an issue to see how Olympia's spending measures up against reality.
+Child Welfare Fiscal Responsibility State Overreach Sound Transit Disability Care State Failure The Tragedy of State Neglect The 'Keeping Families Together Act' elevated standards for child removal so high that caseworkers were unable to rescue infants from lethal fentanyl-exposed environments.
+My Direct Action Demanding Immediate Action Led the charge on the House floor to dismantle this deadly standard so our caseworkers can intervene proactively and save children's lives.
+Read the briefing and watch the speech → Help me demand ROI and accountability.
+Support the Fight The Briefing.
+Unfiltered updates from the front lines in Olympia.
+No spam, just the reality of what's happening in Washington State.
+Join your neighbors across the 31st District Email address Subscribe Your information is securely processed via Beehiiv and never shared.
+Josh Penner For Representative R PAID FOR BY VOTE PENNER (R) PO BOX 664, ORTING, WA 98360 Dedicated to pragmatic leadership, compassionate outcomes, and rigorous accountability for the people of Washington State.
+Facebook Twitter The Briefing © # Vote Penner.
+All rights reserved.
+Accessibility Statement

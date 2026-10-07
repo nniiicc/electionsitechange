@@ -1,7 +1,6 @@
-Meet Charlie
-Proven Fighter.
-Proven Results
-Charles (Charlie) Ferraro is a dedicated public servant, former small business owner, and Grandmaster who has spent decades fighting for Connecticut families.
+top of page Home About Contact Donate In the News More Use tab to navigate through the menu items.
+Meet Charlie Proven Fighter.
+Proven Results Charles (Charlie) Ferraro is a dedicated public servant, former small business owner, and Grandmaster who has spent decades fighting for Connecticut families.
 After serving five terms in the Connecticut House of Representatives or the 117th District (West Haven, Orange, and Milford), he recently announced his candidacy for the Connecticut State Senate in the 33rd District, where he now resides in Clinton with his wife, Gerealyn.
 In the House, Charlie rose to become the Republican leader on the Energy and Technology Committee, where he focused on energy affordability, often opposing measures that could raise rates for residents and businesses.
 In addition, Ferraro was proud to serve as the Republican leader on the Veterans' Affairs Committee, where he was a strong advocate for veterans and fought for funding for programs for the brave men and women who have served our country.
@@ -15,3 +14,5 @@ He earned a Bachelor of Science in Biology (with a minor in Chemistry) from Sout
 After recently selling his karate academy and planning to retire, Charlie felt compelled to return to service.
 He cannot stand idly by while policies drive up electricity costs, erode local zoning control, and push families and businesses out of Connecticut.
 Now running for State Senate in the 33rd District, he is committed to lowering bills, protecting communities, reinstating fiscal discipline, and making our state a place where small businesses thrive and families can afford to stay and build their futures.
+Paid for by Ferraro for Senate.
+Approved by Charlie Ferraro. bottom of page

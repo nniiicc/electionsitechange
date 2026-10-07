@@ -1,8 +1,10 @@
-AS YOUR STATE SENATOR, MICHELE FRAZIER WILL:
-Lower the Cost of Living by fighting for real property tax relief, fair utility rates, affordable childcare and housing policies that help families afford to stay in the communities they love.
+0 Skip to Content MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB Folder: JOIN US Back Volunteer Register to Vote Get Your Yard Sign!
+Donate AS YOUR STATE SENATOR, MICHELE FRAZIER WILL: Lower the Cost of Living by fighting for real property tax relief, fair utility rates, affordable childcare and housing policies that help families afford to stay in the communities they love.
 Protect Rural Healthcare and mental health access by working to counter the destructive funding cuts that have eliminated health insurance for tens of thousands of people and threatened our vulnerable hospitals and healthcare facilities with closure.
 No family should have to choose between getting care and paying the bills.
-Promote Sustainable Economic Development – Especially Locally Owned Businesses and Family Farmswho are the backbone of our communities.
+Promote Sustainable Economic Development – Especially Locally Owned Businesses and Family Farms who are the backbone of our communities.
 While economic development agencies work to encourage large employers to locate here, we also need to put programs and resources in place, such as attractive financing, skills training and enhancement, technical expertise, and marketing assistance that will make it possible for our local businesses, farms and entrepreneurs to thrive.
 Encourage Smart Public Safety Policy to make it possible for our law enforcement agencies to recruit and develop great leaders, exceptional career-oriented candidates ready to serve and succeed, and to collaborate with community partners to develop and implement best practices and programs designed to address our region’s critical mental health, substance use and community violence prevention challenges.
-Make Billionaires and Large Corporations Pay Their Fair Share so working families aren’t stuck footing the bill for essential services while the ultra-wealthy get special treatment.
+Make Billionaires and Large Corporations Pay Their Fair Share so working families aren’t stuck footing the bill for essential services while the ultra-wealthy get special treatment. info@michelefrazier.com Paid for by Michele Frazier for 51 JOIN US

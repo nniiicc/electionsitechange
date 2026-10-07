@@ -1,5 +1,5 @@
-Rep.
-Michael Baumgartner Already Faces Seven Challengers
-The Spokesman-Review | January 12, 2026
-Congressman Baumgartner holds a strong fundraising and popularity advantage in the early 2026 field.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Rep.
+Michael Baumgartner Already Faces Seven Challengers stan889 Jan 12 1 min read The Spokesman-Review | January 12, 2026 Congressman Baumgartner holds a strong fundraising and popularity advantage in the early 2026 field.
 Seven challengers have entered the race for Washington's 5th Congressional District, but Baumgartner's deep roots in Eastern Washington and proven track record in his first term give him a commanding position heading into the midterm cycle.
+Read the full article in The Spokesman-Review On the Campaign Trail Recent Posts See All Remarks by Congressman Michael Baumgartner Michael Baumgartner will be Eastern Washington’s next congressman Michael Baumgartner Takes Early Lead in WA 5th Congressional Race Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

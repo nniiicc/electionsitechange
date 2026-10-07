@@ -1,10 +1,8 @@
-Rooted in community.
+Home Issues About Legislation Press Contact Home Issues About Legislation Press Contact Get in touch 555-555-5555 mymail@mailservice.com Rooted in community.
 Focused on results.
-Meet Senator Kyra Hoffner
-For more than 20 years, Kyra Hoffner has shown up for the people of Delaware’s 14th District—as an advocate, organizer, and now as a State Senator.
+Meet Senator Kyra Hoffner For more than 20 years, Kyra Hoffner has shown up for the people of Delaware’s 14th District—as an advocate, organizer, and now as a State Senator.
 Grounded in community and driven by a belief in fairness and dignity for all, she works to turn lived experience into legislation that delivers real results for Delaware families.
-Kyra Hoffner has been a fighter for the residents of Senate District 14 since she moved here over 20 years ago.
-A native New Yorker, Senator Hoffner grew up in Patchogue, a small town on Long Island.
+DONATE Kyra Hoffner has been a fighter for the residents of Senate District 14 since she moved here over #ago. ﻿ A native New Yorker, Senator Hoffner grew up in Patchogue, a small town on Long Island.
 Community service is in her blood.
 Her father was a proud NYPD officer and her mother was a community advocate.
 Senator Hoffner married her husband, Gerald, in 1992, and together they raised their two children, Geena and James.
@@ -21,5 +19,4 @@ She remains deeply connected to her community, whether organizing a drive-throug
 Most recently, her work has focused on advancing a bill of rights for people experiencing homelessness, grounded in the belief that housing is a fundamental human right.
 “We need to organize around people, not just issues.
 We must invest the time to build relationships that cross class, race, and religion.
-Until we recognize housing as a human right — alongside quality education, economic security, and healthcare — we will not end mass homelessness.”
-— Senator Kyra Hoffner
+Until we recognize housing as a human right — alongside quality education, economic security, and healthcare — we will not end mass homelessness.” — Senator Kyra Hoffner Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Button Important Links Delaware Department of Elections Delaware Election Calendars Delaware Polling Place Locator Register to Vote Voters with Special Needs Voting by Absentee Ballot District 14 Map PRIVACY POLICY DONATE Access the App © # All Rights Reserved | Senator Kyra Hoffner

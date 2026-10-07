@@ -1,23 +1,3 @@
-Skip to content
-Toggle mobile menu
-Home
-About Rita
-Endorsements
-Issues
-News
-Take Action
-Donate
-Volunteer
-Get Your Rita Mayfield Yard Sign
-Contact
-Search for:
-Yard Sign Request
-Yard signs are an important way to help spread the message of our campaign to protect our shared values.
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Yard Sign Request Yard signs are an important way to help spread the message of our campaign to protect our shared values.
 Please complete the fields below and we’ll deliver a yard sign for you.
-Your Name (required)
-Your Email (required)
-Phone
-Address (required)
-City
-Zip (required)
-Message
+Your Name (required) Your Email (required) Phone Address (required) City Zip (required) Message @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

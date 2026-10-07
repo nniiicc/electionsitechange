@@ -1,6 +1,7 @@
-“It’s been my life’s work to build and share financial success with my community.
-I’m now determined more than ever to continue this critical work for HD 107 and for all Texans, and ultimately, continue to be an advocate for my community in Austin.“
--Linda Garcia, Democratic Candidate for 107-
-A BETTER TOMORROW TOGETHER.
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect “It’s been my life’s work to build and share financial success with my community.
+I’m now determined more than ever to continue this critical work for HD 107 and for all Texans, and ultimately, continue to be an advocate for my community in Austin.“ -Linda Garcia, Democratic Candidate for 107- A BETTER TOMORROW TOGETHER.
 Linda Garcia is a democratic member of the Texas House of Representatives for the 107th District.
 Her legislative priorities include equitable education funding, expanded healthcare access, women’s reproductive rights, and infrastructure development.
+MORE ABOUT LINDA PRIORITIES EDUCATION FUNDING HEALTHCARE ACCESS REPRODUCTIVE RIGHTS INFRASTRUCTURE DEVELOPMENT Support our Campaign! $10.70 $25 $50 $107 OTHER!
+ENDORSEMENTS HUMAN RIGHTS CAMPAIGN STONEWALL DEMOCRATS DALLAS MUSLIM DEMOCRATIC CAUCUS OF TEXAS DALLAS AFL-CIO NORTH TEXAS DEMOCRATS THE 23RD SENATORIAL DISTRICT TEJANO LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

@@ -1,0 +1,2 @@
+Skip to content Home Information Platform Issues Endorsements/Voter Guides My Opponent In the News FAQ Gallery Resources Join Heather Donate About Our District Privacy Policy Terms and Conditions Category: Video Thank you Pete Hoekstra Jun 5, 2024 — by Ron in Video Chatting with MiGOP Chair Privacy Privacy Policy Terms and Conditions Contact Us Social Facebook Instagram Twitter/X Paid for by the CTE Heather Smiley P.O.
+Box 2093 Riverview, Michigan 48193

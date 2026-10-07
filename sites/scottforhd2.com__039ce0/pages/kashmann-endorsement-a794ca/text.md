@@ -1,4 +1,3 @@
-Councilman Paul Kashmann Endorses Scott Baldermann for HD2
-“I am pleased to endorse Scott Baldermann for House District 2.
+0 Skip to Content Policy Positions Results About Endorsements Contact Map Donate Open Menu Close Menu Donate Policy Positions Results About Endorsements Contact Map Open Menu Close Menu Policy Positions Results About Endorsements Contact Map Donate Councilman Paul Kashmann Endorses Scott Baldermann for HD2 “ I am pleased to endorse Scott Baldermann for House District 2.
 I had the opportunity to work with Scott during his service on the Denver Public Schools Board of Education, where I was impressed with his calm, reasoned approach to policy, his prompt and thorough response to constituents, and his ability to bring people together to solve problems.
-Scott understands how local government works and will be a steady, pragmatic voice for our community at the State Capitol.”
+Scott understands how local government works and will be a steady, pragmatic voice for our community at the State Capitol. ” — Denver City Councilman Paul Kashmann Sign up for the campaign newsletter Paid for by Scott Baldermann for Colorado Registered Agent, Leslie Kaplan Onward!

@@ -1,13 +1,2 @@
-How to get in touch
-info@HannahBowen.com
-(978) 473-7953
-Email, call or text me at any time
-Follow Hannah on social
-to get the latest info on office hours, legislatives updates, and news.
-Let’s stay in touch
-Subscribe to my emails
-for news, office hours, and legislative updates
-Contact me
-to share your problems and perspectives
-Follow me on social
-for news, office hours, and legislative updates
+Skip to content Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab About Hannah 2025 Endorsements News Priorities Donate Contact Menu How to get in touch info@HannahBowen.com (978) 473-7953 Email, call or text me at any time Follow Hannah on social to get the latest info on office hours, legislatives updates, and news.
+Facebook Instagram Let’s stay in touch Subscribe to my emails for news, office hours, and legislative updates Subscribe Contact me to share your problems and perspectives Contact Follow me on social for news, office hours, and legislative updates Facebook Instagram About Hannah 2025 Endorsements Priorities News Donate Contact Sign up for SMS Open Facebook in a new tab Open Instagram in a new tab Open LinkedIn in a new tab © # Committee to Elect Hannah Bowen

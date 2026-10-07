@@ -1,10 +1,8 @@
-Here’s how a Clarksville church became an epicenter of disaster relief after Dec. 9 tornado
-Aron Maberry, Next-Gen Pastor at Mosaic Church, and a team of church-goers were thrust into a new role on Dec. 9, as coordinators of a massive disaster response involving thousands of volunteers.
-Read more: https://www.theleafchronicle.com/story/news/local/outreach/2024/02/01/how-mosaic-church-led-disaster-relief-after-dec-clarksville-tornado/72083989007/
-Maberry only vote for Charter School in Clarksville-Montgomery County
-“I’m for our schools, I am a product of our school system,” Maberry said.
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute Aron Maberry “In The News” Aron Maberry endorsed by Gov.
+Bill Lee in state House Republican primary Fox News: America’s Newsroom with Dana Perino – The Story: https://www.foxnews.com/video/6278186496001 The Weather Channel Interview with Jim Cantore WKRN – ABC News Channel 2 – The Story: https://www.wkrn.com/news/local-news/clarksville/the-best-message-weve-ever-preached-church-leaders-ready-to-resume-cleanup-after-overwhelming-volunteer-response/ WTVF – CBS News Channel 5 – The Story: https://www.newschannel5.com/news/tornado-ravaged-clarksville-experiences-a-volunteer-invasion Here’s how a Clarksville church became an epicenter of disaster relief after Dec.
+9 tornado Aron Maberry, Next-Gen Pastor at Mosaic Church, and a team of church-goers were thrust into a new role on Dec.
+9, as coordinators of a massive disaster response involving thousands of volunteers.
+Read more: https://www.theleafchronicle.com/story/news/local/outreach/2024/02/01/how-mosaic-church-led-disaster-relief-after-dec-clarksville-tornado/72083989007/ Thousands volunteer to clean up after devastating EF-3 tornado | VIDEO Radio Interview on the Todd Starnes Show 10 under 40, 2022: Ten young leaders who are helping to shape Clarksville’s future 5% raise in base teacher, staff pay proposed for Clarksville-Montgomery County Schools Tennis courts proposal approved in reversed vote by Clarksville-Montgomery County School Board In heated meeting with confused vote, Clarksville-Montgomery County denies charter school Maberry only vote for Charter School in Clarksville-Montgomery County “I’m for our schools, I am a product of our school system,” Maberry said.
 “But I am also for parent choice.” All other board members spoke on their support of CMCSS public schools and how they don’t see any added benefit to adding a charter school.
-Read more: https://www.theleafchronicle.com/story/news/local/2023/04/25/ama-charter-school-fails/70147360007/
-Clarksville United youth service projects impact community in big way
-Clarksville United is a group of 20 churches and 700 students that come together twice a year for unity in youth ministry and service projects for the community.
-Read more: https://www.aol.com/clarksville-united-youth-projects-impact-090438930.html
+Read more: https://www.theleafchronicle.com/story/news/local/2023/04/25/ama-charter-school-fails/70147360007/ Clarksville United youth service projects impact community in big way Clarksville United is a group of 20 churches and 700 students that come together twice a year for unity in youth ministry and service projects for the community.
+Read more: https://www.aol.com/clarksville-united-youth-projects-impact-090438930.html About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

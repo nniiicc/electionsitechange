@@ -1,16 +1,11 @@
-Aaron Jones officially files to run for Ohio House District 88
-FOR IMMEDIATE RELEASE
-February 3, 2026
-CONTACT: press@jonesforohio.com
-FREMONT, Ohio — Aaron Jones, a U.S.
+Skip to main content Aaron Jones for State Representative About Priorities Endorsements Get Involved Events Vote News Donate Aaron Jones for State Representative Donate Aaron Jones for State Representative × About Priorities Endorsements Get Involved Events Vote News Donate Back to News Press Release Aaron Jones officially files to run for Ohio House District 88 Tuesday, February 3, 2026 Download Photo FOR IMMEDIATE RELEASE February 3, 2026 CONTACT: press@jonesforohio.com FREMONT, Ohio — Aaron Jones, a U.S.
 Army veteran, factory supervisor, and Tiffin City Councilman, has officially filed his paperwork to appear on the ballot for Ohio House District 88, which includes all of Seneca and Sandusky counties.
 Jones, a Democrat, said filing his petitions marks an important milestone for a campaign focused on lowering costs for working families, creating good-paying jobs, strengthening public schools, and investing in local infrastructure.
 "Today makes this campaign official, but the reason I'm running hasn't changed," Jones said.
-"Families in Seneca and Sandusky counties deserve leadership that puts their priorities first — lower costs, good jobs, strong schools, and practical solutions that actually help our communities."
-Jones has spent more than 20 years working on the factory floor at Toledo Molding & Die and currently serves on Tiffin City Council.
+"Families in Seneca and Sandusky counties deserve leadership that puts their priorities first — lower costs, good jobs, strong schools, and practical solutions that actually help our communities." Jones has spent more than 20 years working on the factory floor at Toledo Molding & Die and currently serves on Tiffin City Council.
 He said his experience outside of politics shapes his approach to public service.
 "I know what it's like when paychecks don't keep up with rising costs, and when decisions made in Columbus don't reflect what people here are dealing with every day," Jones said.
-"I'm running to be a voice for working families and to make sure our communities aren't left paying the price for broken policies."
-The general election will be held in November.
-More information about the campaign is available at www.jonesforohio.com.
-###
+"I'm running to be a voice for working families and to make sure our communities aren't left paying the price for broken policies." The general election will be held in November.
+More information about the campaign is available at www.jonesforohio.com .
+### Media Contact For press inquiries, please contact: press@jonesforohio.com Back to News Aaron Jones for State Representative Home • About • Priorities • Endorsements • Get Involved • Vote • Events • News • Donate info@jonesforohio.com Make checks payable to: Friends of Aaron Jones 250 Riverside Drive, Tiffin, OH 44883 PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Contact • Privacy Policy & Terms • Media

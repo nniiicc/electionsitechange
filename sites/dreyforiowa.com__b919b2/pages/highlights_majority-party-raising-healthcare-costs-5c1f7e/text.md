@@ -1,9 +1,8 @@
-Majority Party Raising Healthcare Costs
-These are interesting times in the Iowa Senate.
+Skip to content Homepage Home Highlights Merch DONATE NOW Home Highlights Merch DONATE NOW Majority Party Raising Healthcare Costs Drey for Iowa March 19, 2026 These are interesting times in the Iowa Senate.
 This week, Senate Republicans rushed to bring a bill to the floor for debate – breaking internal legislative rules to do so – just so they could narrowly pass it and send it to the governor’s desk as quickly as possible.
 What was so important that it couldn’t possibly wait, you ask?
 A tax increase that will raise Iowans’ healthcare costs.
-HF 2739 (originally introduced in the Senate as SF 2464) increases taxes on Health Maintenance Organizations (HMOs) – including HMOs under the state’s Managed Care Organizations (MCOs) and private insurance firms.
+HF 2739 (originally introduced in the Senate as SF 2464 ) increases taxes on Health Maintenance Organizations (HMOs) – including HMOs under the state’s Managed Care Organizations (MCOs) and private insurance firms.
 The bill sets a retroactive tax increase, beginning January 1, 2026, and running through September 30, 2026, and also a permanent increase beginning October 1, 2026, and running for all subsequent years.
 I know what you’re thinking.
 Why should you care about whether health insurance companies have to pay higher taxes?
@@ -27,3 +26,5 @@ Iowans will pay the price for the majority party’s budget mismanagement.
 Here’s the bottom line: Iowans don’t want this.
 Republican lawmakers are rushing this bill through the process, trampling over procedural rules they agreed to, in the hopes that you won’t notice and you won’t know who to blame when your healthcare costs go up again.
 Senate Democrats are laser-focused on affordability, and that means, unlike the majority party, we’ll continue to fight for policies that actually lower your costs, not raise them even higher.
+Share this post Keep reading Quick Updates from Week 15 at the Iowa Senate Headed to Overtime in the Iowa Senate info@dreyforiowa.com | (712) 227-1707 214 Jackson St, Box 2316 | Sioux City, IA 51106 © Drey for Iowa #.
+Paid for by Drey for Iowa. | Privacy Policy

@@ -1,12 +1,3 @@
-LORISSA SWEET
-FOR DISTRICT 50
-STATE REPRESENTATIVE
-Home
-Facts
-Survey
-Get Involved
-Contact
-More
-Join Lorissa, Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
-Thanks for submitting!
+top of page LORISSA SWEET FOR DISTRICT 50 STATE REPRESENTATIVE Get a Yard Sign Home Facts Survey Get Involved Contact More Use tab to navigate through the menu items.
+DONATE GET INVOLVED Join Lorissa, Sign Up Now WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Knock on Doors Make Calls Social Media Blitz Host Fundraiser Deliver Yard Signs Yes, I use text messaging I would like a yard sign SUBMIT Thanks for submitting!
+Lorissa Sweet - FOR HOUSE DISTRICT 50 - Keep Up to Date with © # Created by Friends of Lorissa Sweet PO Box 197 Somerset, IN 46984 sweet4indiana@gmail.com ​ bottom of page

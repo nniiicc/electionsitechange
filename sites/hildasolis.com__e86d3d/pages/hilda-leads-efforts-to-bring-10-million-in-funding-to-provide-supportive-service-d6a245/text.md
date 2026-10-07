@@ -1,5 +1,5 @@
-Hilda Solis led the efforts to bring $10 Million in financial assistance to provide supportive services at interim housing sites in LA County.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Hilda leads efforts to bring $10 Million in funding to provide supportive services at interim housing sites (11/3/21) By admin In News Posted November 11, 2021 Hilda Solis led the efforts to bring $10 Million in financial assistance to provide supportive services at interim housing sites in LA County.
 This is due to the fact that as local jurisdictions expand the supply of housing for those experiencing homelessness, funding for services are often not provided.
 Supportive services are crucial to ensure that those who were previously homeless are linked with service providers to meet their needs and to maintain their housing status.
 This funding will be available to cities beginning January 1st.
-View article
+View article Post navigation Previous Previous Supervisor Solis urges community to use emergency rental assistance (11/2/21) Next Next Endorsement: Hilda Solis remains the best choice for the Board of Supervisors Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

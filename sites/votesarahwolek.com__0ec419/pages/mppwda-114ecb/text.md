@@ -1,11 +1,8 @@
-Maryland Protecting People with Disabilities Act
-Bill Name
-Workgroup for Inclusive Workplace
-Bill Number
-HB 1445/SB742
-Year
-2026
-Priority Areas: Vulnerable Communities
-HB 1445: The 1999 Supreme Court Olmstead decision ruled that unjustified segregation of people with disabilities in institutions is illegal discrimination under the Americans with Disabilities Act (ADA) and mandated that states provide community-based services to individuals with disabilities when appropriate, desired, and reasonably accommodated.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Maryland Protecting People with Disabilities Act Bill Name Workgroup for Inclusive Workplace Bill Number HB 1445/SB742 Year 2026 Priority Areas: Vulnerable Communities Learn More HB 1445: The 1999 Supreme Court Olmstead decision ruled that unjustified segregation of people with disabilities in institutions is illegal discrimination under the Americans with Disabilities Act (ADA) and mandated that states provide community-based services to individuals with disabilities when appropriate, desired, and reasonably accommodated.
 HB1445 reaffirms Maryland’s commitment to the tenets and standards outlined in the Olmstead Act, ensuring that Maryland’s practices and laws align with federal Olmstead standards.
 While the House version did not pass before the end of the session at midnight on Sine Die the senate version did.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

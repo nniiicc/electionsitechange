@@ -1,5 +1,5 @@
-Meet Steve
-Steve Ultrino became State Representative for the 33rd Middlesex District, after being elected to the Massachusetts General Court in November of 2014.
+top of page Home Meet Steve Meet the Team Contact Steve Policy Legislative Wins Issues Funding Resources Newsroom More Use tab to navigate through the menu items.
+Meet Steve Steve Ultrino became State Representative for the 33rd Middlesex District, after being elected to the Massachusetts General Court in November of 2014.
 In 2004, he joined the Malden School Committee.
 As a member of the School Committee, Steve fought for high-quality education for Malden children.
 After serving eight years on the School Committee, Steve was sworn in as the Ward 2 Malden City Councilor in 2012.
@@ -21,3 +21,5 @@ He is currently an instructor at both Salem State University and his alma mater,
 The Ultrino family immigrated to Malden in the early 1900s from Italy to work in local factories.
 Steve credits many of the opportunities he was afforded to the hard work of his family.
 He is also proud of the values he was taught within the Malden community.
+Sign Up Thanks for submitting!
+Tel: (617) 722-2877 Email: Steven.Ultrino@MAhouse.gov State House, Room 174, Boston, MA 02133 © # Paid for by The Committee To Elect Steve Ultrino bottom of page

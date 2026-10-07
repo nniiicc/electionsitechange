@@ -1,3 +1,3 @@
-"I'm proud to support Representative Travis Moore for re-election because no one stands stronger for life, law enforcement, and for the prosperity of our families than Travis Moore.
-With conservatives like Travis Moore in the State House, the best is yet to come for South Carolina." - Governor Henry …
-Continue reading
+Home About News Contact Donate May 29, 2024 Home 2024 May Day: May 29, 2024 May 29, 2024 Uncategorized Travis Moore Racks Up Major Conservative Endorsements, Including Gov.
+McMaster, Attorney General Wilson, and Donald Trump "I'm proud to support Representative Travis Moore for re-election because no one stands stronger for life, law enforcement, and for the prosperity of our families than Travis Moore.
+With conservatives like Travis Moore in the State House, the best is yet to come for South Carolina." - Governor Henry … Continue reading May 29, 2024 Uncategorized SC Citizens for Life Calls Out Bill DeVore’s Lies Press-Release-5.28.2024-Setting-the-Record-Straight-MooreDownload Paid for by Travis Moore for House Home About News Contact Donate

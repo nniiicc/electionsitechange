@@ -1,15 +1,58 @@
 [
-"http://facebook.com/citizensforjeffmartin",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T120000Z%2F20261104T010000Z",
-"http://instagram.com/citizensforjeffmartin",
-"http://youtube.com/@citizensforjeffmartin",
-"https://citizensforjeffmartin.com/",
-"https://citizensforjeffmartin.com/calendar",
-"https://citizensforjeffmartin.com/cart",
-"https://citizensforjeffmartin.com/donate",
-"https://citizensforjeffmartin.com/events",
-"https://citizensforjeffmartin.com/events/early-voting-begins",
-"https://citizensforjeffmartin.com/events/election-day?format=ical",
-"https://citizensforjeffmartin.com/getinvolved",
-"https://citizensforjeffmartin.com/meet"
+{
+"text": "0",
+"href": "https://www.citizensforjeffmartin.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.citizensforjeffmartin.com/events"
+},
+{
+"text": "Calendar",
+"href": "https://www.citizensforjeffmartin.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://www.citizensforjeffmartin.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforjeffmartin.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20261103T120000Z%2F20261104T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.citizensforjeffmartin.com/events/election-day?format=ical"
+},
+{
+"text": "Meet Jeff",
+"href": "https://www.citizensforjeffmartin.com/meet"
+},
+{
+"text": "Previous Previous October 20 No Excuse Early Voting",
+"href": "https://www.citizensforjeffmartin.com/events/early-voting-begins"
+},
+{
+"text": "[image: Jeff Martin for Missouri House District 30]",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@citizensforjeffmartin"
+}
 ]

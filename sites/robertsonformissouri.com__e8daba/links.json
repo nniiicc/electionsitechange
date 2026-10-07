@@ -1,87 +1,378 @@
 [
-"https://bkpromotions.us/events",
-"https://davidrobertsonformissouri.com/",
-"https://davidrobertsonformissouri.com/accessibility",
-"https://davidrobertsonformissouri.com/event-details-registration/big-river-friends-of-nra-knights-of-columbus-house-springs",
-"https://davidrobertsonformissouri.com/event-details-registration/franklin-county-lincoln-day-dinner",
-"https://davidrobertsonformissouri.com/event-details-registration/general-election",
-"https://davidrobertsonformissouri.com/event-details-registration/gun-rights-rally-day",
-"https://davidrobertsonformissouri.com/event-details-registration/jefferson-county-lincoln-day-banquet",
-"https://davidrobertsonformissouri.com/event-details-registration/john-birch-society-meeting-1",
-"https://davidrobertsonformissouri.com/event-details-registration/leadership-for-america-dinner-featuring-nick-shirley",
-"https://davidrobertsonformissouri.com/event-details-registration/missouri-primary-election-day",
-"https://davidrobertsonformissouri.com/event-details-registration/patriots-united-fundraiser-for-david-robertson",
-"https://davidrobertsonformissouri.com/event-details-registration/peoples-lobby-missouri-plmo-meeting",
-"https://davidrobertsonformissouri.com/event-details-registration/race-to-the-finish-line-rally",
-"https://davidrobertsonformissouri.com/event-details-registration/republican-rally",
-"https://davidrobertsonformissouri.com/event-details-registration/st-charles-county-lincoln-trump-dinner",
-"https://davidrobertsonformissouri.com/event-details-registration/st-charles-mo-patriot-action-forum-scmopaf",
-"https://davidrobertsonformissouri.com/event-details-registration/the-big-st-louis-county-gun-show-fri-sat-sun",
-"https://davidrobertsonformissouri.com/issues",
-"https://davidrobertsonformissouri.com/mission",
-"https://davidrobertsonformissouri.com/mobile-messaging-terms-conditions",
-"https://davidrobertsonformissouri.com/mobile-messaging-terms-conditionsPrivacy",
-"https://davidrobertsonformissouri.com/news",
-"https://davidrobertsonformissouri.com/privacy",
-"https://davidrobertsonformissouri.com/tribute",
-"https://facebook.com/david.robertson.712714",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/wix",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson",
-"https://secure.anedot.com/robertsonformissouri/donate",
-"https://secure.anedot.com/robertsonformissouri/events/trivia",
-"https://secure.anedot.com/tim-whitney-for-county-executive/kick-off-party",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/RobertsonforMO"
+{
+"text": "Accessibility Statement",
+"href": "https://www.davidrobertsonformissouri.com/accessibility"
+},
+{
+"text": "Buy Tickets",
+"href": "https://secure.anedot.com/robertsonformissouri/events/trivia"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/robertsonformissouri/donate"
+},
+{
+"text": "David Robertson",
+"href": "https://www.davidrobertsonformissouri.com"
+},
+{
+"text": "Details",
+"href": "https://bkpromotions.us/events"
+},
+{
+"text": "Details",
+"href": "https://secure.anedot.com/tim-whitney-for-county-executive/kick-off-party"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/big-river-friends-of-nra-knights-of-columbus-house-springs"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/franklin-county-lincoln-day-dinner"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/gun-rights-rally-day"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/jefferson-county-lincoln-day-banquet"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/john-birch-society-meeting-1"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/leadership-for-america-dinner-featuring-nick-shirley"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/missouri-primary-election-day"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/patriots-united-fundraiser-for-david-robertson"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/peoples-lobby-missouri-plmo-meeting"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/race-to-the-finish-line-rally"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/republican-rally"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/st-charles-county-lincoln-trump-dinner"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/st-charles-mo-patriot-action-forum-scmopaf"
+},
+{
+"text": "Details",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/the-big-st-louis-county-gun-show-fri-sat-sun"
+},
+{
+"text": "Events",
+"href": "https://www.davidrobertsonformissouri.com"
+},
+{
+"text": "Home",
+"href": "https://www.davidrobertsonformissouri.com"
+},
+{
+"text": "Issues",
+"href": "https://www.davidrobertsonformissouri.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.davidrobertsonformissouri.com/mission"
+},
+{
+"text": "Mission",
+"href": "https://www.davidrobertsonformissouri.com/mission"
+},
+{
+"text": "News",
+"href": "https://www.davidrobertsonformissouri.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davidrobertsonformissouri.com/privacy"
+},
+{
+"text": "RSVP",
+"href": "https://www.davidrobertsonformissouri.com/event-details-registration/general-election"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davidrobertsonformissouri.com/mobile-messaging-terms-conditions"
+},
+{
+"text": "Tribute to a Hero",
+"href": "https://www.davidrobertsonformissouri.com/tribute"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/david.robertson.712714"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/RobertsonforMO"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.davidrobertsonformissouri.com/mobile-messaging-terms-conditionsPrivacy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fbig-river-friends-of-nra-knights-of-columbus-house-springs"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ffranklin-county-lincoln-day-dinner"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgeneral-election"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fgun-rights-rally-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjefferson-county-lincoln-day-banquet"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fjohn-birch-society-meeting-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fleadership-for-america-dinner-featuring-nick-shirley"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fmissouri-primary-election-day"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpatriots-united-fundraiser-for-david-robertson"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fpeoples-lobby-missouri-plmo-meeting"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frace-to-the-finish-line-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Frepublican-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-county-lincoln-trump-dinner"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fst-charles-mo-patriot-action-forum-scmopaf"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-fri-sat-sun"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Fthe-big-st-louis-county-gun-show-june-2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftim-whitney-campaign-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.davidrobertsonformissouri.com%2Fevent-details-registration%2Ftrivia-night-fundraiser-for-david-robertson"
+},
+{
+"text": "for Missouri",
+"href": "https://www.davidrobertsonformissouri.com"
+},
+{
+"text": "https://www.davidrobertsonformissouri.com/mobile-messaging-terms-conditions",
+"href": "https://www.davidrobertsonformissouri.com/mobile-messaging-terms-conditionsPrivacy"
+},
+{
+"text": "https://www.davidrobertsonformissouri.com/privacy",
+"href": "https://www.davidrobertsonformissouri.com/privacy"
+},
+{
+"text": "legislative priorities",
+"href": "https://www.davidrobertsonformissouri.com/issues"
+},
+{
+"text": "provinse7@gmail.com",
+"href": "mailto:provinse7@gmail.com"
+},
+{
+"text": "​",
+"href": "https://www.davidrobertsonformissouri.com/privacy"
+}
 ]

@@ -1,16 +1,62 @@
 [
-"https://dot.ri.gov/accountability/docs/GRANTS/2019_BUILD_Washington_Bridge_Narrative.pdf",
-"https://rilegislature.gov/Special/comdoc/House%20Oversight%202024/02-12-2024--RIDOT%20Slide%20Deck.pdf",
-"https://samzurier.com/",
-"https://samzurier.com/2024-senate-district-letters",
-"https://samzurier.com/2025-district-letters",
-"https://samzurier.com/2026-district-letters",
-"https://samzurier.com/about-sam-zurier",
-"https://samzurier.com/donate",
-"https://samzurier.com/join-my-email-list",
-"https://samzurier.com/my-work-2",
-"https://samzurier.com/public-service-record",
-"https://samzurier.com/senate-district-letters",
-"https://samzurier.com/state-issues",
-"https://samzurier.com/state-legislation"
+{
+"text": "2019 BUILD Grant application",
+"href": "https://www.dot.ri.gov/accountability/docs/GRANTS/2019_BUILD_Washington_Bridge_Narrative.pdf"
+},
+{
+"text": "2022-23 District Letters",
+"href": "https://samzurier.com/senate-district-letters/"
+},
+{
+"text": "2024 District Letters",
+"href": "https://samzurier.com/2024-senate-district-letters/"
+},
+{
+"text": "2025 District Letters",
+"href": "https://samzurier.com/2025-district-letters/"
+},
+{
+"text": "2026 District Letters",
+"href": "https://samzurier.com/2026-district-letters/"
+},
+{
+"text": "Bio",
+"href": "https://samzurier.com/about-sam-zurier/"
+},
+{
+"text": "DONATE",
+"href": "https://samzurier.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://samzurier.com/"
+},
+{
+"text": "Join My Email List",
+"href": "https://samzurier.com/join-my-email-list/"
+},
+{
+"text": "Projects",
+"href": "https://samzurier.com/my-work-2/"
+},
+{
+"text": "Public Service Record",
+"href": "https://samzurier.com/public-service-record/"
+},
+{
+"text": "Slide Deck",
+"href": "https://www.rilegislature.gov/Special/comdoc/House%20Oversight%202024/02-12-2024--RIDOT%20Slide%20Deck.pdf"
+},
+{
+"text": "State Issues",
+"href": "https://samzurier.com/state-issues/"
+},
+{
+"text": "State Legislation",
+"href": "https://samzurier.com/state-legislation/"
+},
+{
+"text": "[image: Sam Zurier New Site]",
+"href": "https://samzurier.com/"
+}
 ]

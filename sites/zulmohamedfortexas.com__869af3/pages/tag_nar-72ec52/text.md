@@ -1,4 +1,6 @@
-Understanding What it Means to Alter or Abolish a Destructive Goverment as Stated in the Declaration of Independence
-GovernmentJune 13, 2026
-In the Declaration of Independence, the phrase about the right to “alter or abolish” a government means that when a government repeatedly violates people’s rights and no longer serves its proper purpose, the people have the authority to change that government or replace it with a new one.
+Donate Home About Zul What is AMP?
+My Vision News Shop My Account Cart Checkout Interact Events Volunteering Contact The New American Voice Latest News Understanding What it Means to Alter or Abolish a Destructive Goverment as Stated in the Declaration of Independence Government June 13, 2026 In the Declaration of Independence, the phrase about the right to “alter or abolish” a government means that when a government repeatedly violates people’s rights and no longer serves its proper purpose, the people have the authority to change that government or replace it with a new one.
 The declaration states that governments are created...
+Read more Latest News We are on the Front Lines of the Anti-Zionism Movement in America Texas Cities Should End Their Agreements with Flock Safety It is time for Americans to improve our standing with Allies and the rest of the Planet Categories Agriculture Campaign Community Diplomacy Economy Education Environment Foreign Affairs Government Healthcare Homelessness Surveillance Transportation Uncategorized Would you like to become one of our donors? $# $# $# $# $# $# Would you like to become one of our donors?
+10$ Donation $# © # Zul Mohamed for Texas.
+Paid for by Zul Mohamed, Treasurer

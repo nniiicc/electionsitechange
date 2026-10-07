@@ -1,14 +1,66 @@
 [
-"https://facebook.com/WixStudio",
-"https://facebook.com/alabasfarhat",
-"https://instagram.com/alabasfarhat",
-"https://instagram.com/wixstudio",
-"https://linkedin.com/company/wix-com",
-"https://secure.actblue.com/donate/cte-alabas-farhat-1",
-"https://twitter.com/WixStudio",
-"https://votefarhat.com/",
-"https://votefarhat.com/about",
-"https://votefarhat.com/contact",
-"https://votefarhat.com/solutions",
-"https://youtube.com/@WixStudio"
+{
+"text": "About",
+"href": "https://www.votefarhat.com"
+},
+{
+"text": "Alabas",
+"href": "https://www.votefarhat.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votefarhat.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cte-alabas-farhat-1"
+},
+{
+"text": "Donate",
+"href": "https://www.votefarhat.com"
+},
+{
+"text": "Home",
+"href": "https://www.votefarhat.com"
+},
+{
+"text": "Platform",
+"href": "https://www.votefarhat.com"
+},
+{
+"text": "Platform",
+"href": "https://www.votefarhat.com/solutions"
+},
+{
+"text": "[image: Alabas Farhat for Michigan]",
+"href": "https://www.votefarhat.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WixStudio"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/alabasfarhat"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alabasfarhat"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wixstudio"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: X]",
+"href": "https://twitter.com/WixStudio"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@WixStudio"
+}
 ]

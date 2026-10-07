@@ -1,7 +1,4 @@
-Meet Delia
-Rooted, Ready, Results
-Delia Ramirez
-Congresswoman Delia Ramirez is a progressive Democrat representing the new IL-3 district as the first and only Latina Congresswoman in the Midwest.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE Meet Delia Rooted, Ready, Results Delia Ramirez Congresswoman Delia Ramirez is a progressive Democrat representing the new IL-3 district as the first and only Latina Congresswoman in the Midwest.
 The daughter of working-class Guatemalan immigrants, Delia Ramirez is an accomplished legislator, social service director, community leader, and coalition builder who has dedicated her life and career advocating for working families.
 She currently serves as the Vice-Ranking Member of the Committee on Homeland Security and sits on the Veteran Affairs Committee.
 Rep.
@@ -21,7 +18,8 @@ These experiences ignited a fire that propelled her to fight for the rights of a
 She spent the next 18 years as a non-profit leader at the Center for Changing Lives, Common Cause and Community Renewal Society, and board chair for both the Latin United Community Housing Association (LUCHA) and Logan Square Neighborhood Association (LSNA), fighting for affordable housing, quality education and campaign finance reform.
 In 2018, her community drafted Delia to run for State Representative of the 4th House District of Illinois, where she eventually rose into leadership as Majority Floor Leader and co-founder of the Illinois Progressive Caucus.
 As State Representative, she passed legislation expanding Medicaid coverage to senior citizens regardless of immigration status, securing over $450 million to build affordable housing, protecting abortion rights, and creating an elected school board in the City of Chicago.
-Rep.
+Delia on the issues Rep.
 Ramirez also serves as Co-Chair of the Strengthening Democracy Task Force, Vice Chair of the Equal Rights Amendment Caucus.
 Board Member of the Congressional Progressive Caucus (CPC) PAC, and CPC Special Order Hour Convener.
-She is a graduate of Northeastern Illinois University and lives in Chicago with her husband Boris and their golden retrievers Lola & Milo.
+She is a graduate of Northeastern Illinois University and lives in Chicago with her husband Boris and their golden retrievers Lola & Milo. delia’s campaign is people-funded, people-centered, refusing to accept corporate contributions.
+DONATE NOW TO HELP re-ELECT DELIA RAMIREZ AS THE FIRST LATINA CONGRESSWOMAN FROM THE MIDWEST Donate MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

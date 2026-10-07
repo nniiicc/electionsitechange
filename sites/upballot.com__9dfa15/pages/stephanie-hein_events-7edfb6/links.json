@@ -1,18 +1,98 @@
 [
-"https://facebook.com/HeinForMissouri",
-"https://instagram.com/heinformissouri",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/elect-stephanie-hein",
-"https://twitter.com/HeinForMissouri",
-"https://upballot.com/",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=35731",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=35731",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/stephanie-hein",
-"https://upballot.com/stephanie-hein/about",
-"https://upballot.com/stephanie-hein/events",
-"https://upballot.com/stephanie-hein/events?view=cards",
-"https://upballot.com/stephanie-hein/get-involved",
-"https://upballot.com/stephanie-hein/issues",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Stephanie",
+"href": "https://www.upballot.com/stephanie-hein/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elect-stephanie-hein"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/stephanie-hein/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/stephanie-hein/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/stephanie-hein"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/stephanie-hein/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/stephanie-hein/news/"
+},
+{
+"text": "[image: Stephanie Hein Logo]",
+"href": "https://www.upballot.com/stephanie-hein/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/HeinForMissouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HeinForMissouri"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heinformissouri/"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=35731"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=35731"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/HeinForMissouri"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/heinformissouri/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/HeinForMissouri"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/stephanie-hein/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/stephanie-hein/events?view=cards"
+},
+{
+"text": "campaign@heinformissouri.com",
+"href": "mailto:campaign@heinformissouri.com"
+},
+{
+"text": "tel:417-612-9248",
+"href": "tel:417-612-9248"
+}
 ]

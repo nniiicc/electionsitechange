@@ -1,52 +1,7 @@
-LPVA Social / State Central Committee Meeting
-2:00 PM – 3:00 PM · Copper Fox Distillery - Sperryville
-Copper Fox Distillery - Sperryville
-Virginia's 8th District
-Meet Shelly, ask questions, and get involved in your community.
-Oct11Sun
-Community
-LPVA Social / State Central Committee Meeting
-2:00 PM – 3:00 PM · Copper Fox Distillery - Sperryville
-Copper Fox Distillery - Sperryville
-Details →
-Oct13Tue
-Community
-Gunston Hall Candidate's Night
-Details →
-7:30 PM – 8:30 PM · Gunston Hall
-Gunston Hall
-Oct15Thu
-Community
-WP Wise Traditions Conference
-Oct 15 8:00 PM – Oct 18 8:00 PM · Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA
-Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA
-Details →
-Oct3Sat
-Community
-FCTA 2026 Annual Luncheon
-11:30 AM – 2:00 PM · P.J.
-Skidoos, 9908 Fairfax Blvd, Fairfax, VA 22030, USA
-P.J.
-Skidoos, 9908 Fairfax Blvd, Fairfax, VA 22030, USA
-Details →
-Community
-Alexandria Cars & Coffee at The Haven
-8:00 AM – 10:00 AM · Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA
-Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA
-Details →
-Sep28Mon
-Community
-Televised Candidate Forum - League of Women Voters
-7:45 PM – 9:00 PM · Fairfax Public Access Television Channel 10 Station
-Details →
-Community
-MAHA Open Data Summit
-11:00 AM – 5:00 PM · Willard InterContinental Washington, DC 1401 Pennsylvania Ave NW, Washington, DC 20004, United States
-Willard InterContinental Washington, DC 1401 Pennsylvania Ave NW, Washington, DC 20004, United States
-Details →
-Sep22Tue
-Community
-Federal Policy Dinner with Jason Miyares
-Details →
-6:30 PM – 8:30 PM · Wildfire
-2001 International Dr., McLean, 22102
+SA Shelly Arnoldi for Virginia's 8th Home About Priorities Events Endorsements Get Involved Donate Virginia's 8th District Upcoming Events Meet Shelly, ask questions, and get involved in your community.
+Upcoming Events Oct 7 Wed Town Hall North Springfield Civic Association Candidate Forum 7:30 PM – 9:00 PM · North Springfield Elementary School North Springfield Elementary School, 7602 Heming Ct, North Springfield, VA 22151, USA Details → Oct 11 Sun Community LPVA Social / State Central Committee Meeting 2:00 PM – 3:00 PM · Copper Fox Distillery - Sperryville Copper Fox Distillery - Sperryville Details → Oct 13 Tue Community Gunston Hall Candidate's Night 7:30 PM – 8:30 PM · Gunston Hall Gunston Hall Details → Oct 15 Thu Community WP Wise Traditions Conference Oct 15 8:00 PM – Oct 18 8:00 PM · Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA Omni Shoreham Hotel Washington D.C., 2500 Calvert St NW, Washington, DC 20008, USA Details → Oct 21 Wed Community Summit on Screen & Social Media Harms 10:00 AM – 5:00 PM · Washington, DC, USA Washington, DC, USA Details → Previous Events Oct 3 Sat Community FCTA 2026 Annual Luncheon 11:30 AM – 2:00 PM · P.J.
+Skidoos, 9908 Fairfax Blvd, Fairfax, VA 22030, USA P.J.
+Skidoos, 9908 Fairfax Blvd, Fairfax, VA 22030, USA Details → Oct 3 Sat Community Alexandria Cars & Coffee at The Haven 8:00 AM – 10:00 AM · Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA Details → Sep 28 Mon Community Televised Candidate Forum - League of Women Voters 7:45 PM – 9:00 PM · Fairfax Public Access Television Channel 10 Station Details → Sep 28 Mon Community MAHA Open Data Summit 11:00 AM – 5:00 PM · Willard InterContinental Washington, DC 1401 Pennsylvania Ave NW, Washington, DC 20004, United States Willard InterContinental Washington, DC 1401 Pennsylvania Ave NW, Washington, DC 20004, United States Details → Sep 22 Tue Community Federal Policy Dinner with Jason Miyares 6:30 PM – 8:30 PM · Wildfire 2001 International Dr., McLean, 22102 Details → Shelly Arnoldi Candidate for Virginia's 8th Congressional District.
+Integrity.
+Courage.
+Commitment. 📞 (202) 285-7474 ✉ [email protected] X / Twitter Facebook Campaign About Shelly Priorities Get Involved Events Donate Stay Informed Join the Campaign Endorsed by the Libertarian Party of Northern Virginia Paid for by Shelly Arnoldi for Virginia.

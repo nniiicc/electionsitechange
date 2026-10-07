@@ -1,8 +1,10 @@
-Rural property owners in Texas face a paradox: they can use their own land somewhat free from many aspects of government regulation yet have far less power than they might assume to stop what gets built on (or taken from) their private land.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Uncategorized 765 kV Transmission 765 kV Transmission patdixon August 25, 2026 August 26, 2026 Uncategorized Rural property owners in Texas face a paradox: they can use their own land somewhat free from many aspects of government regulation yet have far less power than they might assume to stop what gets built on (or taken from) their private land.
 In Texas, neither counties nor incorporated cities have meaningful authority over where high-voltage transmission lines are finally routed; that decision sits with the Public Utility Commission (PUC) of Texas.
 This is at the core of the concern over the planned wave of 765-kV transmission lines now before the PUC.
 This is not a single line.
-Multiple applications for these transmissions lines are currently pending with the PUC in the Texas power grid controlled by the Electric Reliability Council of Texas (ERCOT) and in the Southwest Power Pool (SPP).
+Multiple applications for these transmissions lines are currently pending with the PUC in the Texas power grid controlled by the Electric Reliability Council of Texas (ERCOT) and in the Southwest Power Pool (SPP) .
 The land impact is not trivial.
 A 765-kV single-circuit line requires a minimum 200-foot right-of-way under the ERCOT applications, and a minimum 250-foot right-of-way under the SPP application, with actual width running wider at many points.
 These transmission lines together could run 1,250 to 1,463 miles across 65 Texas counties, taking an estimated 30,851 to 36,189 acres of private land.
@@ -34,4 +36,6 @@ A parallel route still requires acquiring a full new easement alongside the old 
 It is a real mitigation for land disturbance, not a solution to the property-rights problem.
 I am a candidate for governor with a proven record of protecting private property rights and working for reasonable restraint on eminent domain power.
 I cannot promise perfection, but I can promise that protecting property rights is one of my core concerns.
-(Thanks to Mia Sarot for drafting this statement)
+(Thanks to Mia Sarot for drafting this statement) Bookmark .
+The Abbott Ad League of Women Voters General Election Voters Guide Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment Name * Email * Website Save my name, email, and site URL in my browser for next time I post a comment. Δ Powered by Nirvana & WordPress.

@@ -1,6 +1,5 @@
-Let’s write a better future for Minnesota, together.
-Hi neighbor,
-When I ran for office in 2022, I vowed to work together, with you, to write a better future for Minnesotans.
+0 Skip to Content Meet Samantha Vision Events Endorsements Join Us Donate Open Menu Close Menu Meet Samantha Vision Events Endorsements Join Us Donate Open Menu Close Menu Meet Samantha Vision Events Endorsements Join Us Donate Let’s write a better future for Minnesota, together.
+Donate Hi neighbor, When I ran for office in 2022, I vowed to work together, with you, to write a better future for Minnesotans.
 And in my first term in office, we did just that.
 Under the DFL Trifecta, we passed transformative, generation-changing legislation.
 We made history by delivering for Minnesotans in ways that had never been done before.
@@ -28,5 +27,4 @@ And I will stand with our 2SLGBTQ+ community as we fight to build a Minnesota th
 And finally, in order to accomplish what we need to for our schools, our health, and our lives, we need to build a just economy and raise revenue to fund our future.
 I’m excited for the world we can continue to build together.
 See you in the streets and at the doors.
-In community,
-Representative Samantha Sencer-Mura
+In community, Representative Samantha Sencer-Mura Prepared and paid for by The People for Sencer-Mura PO Box 6661 minneapolis, MN 55406

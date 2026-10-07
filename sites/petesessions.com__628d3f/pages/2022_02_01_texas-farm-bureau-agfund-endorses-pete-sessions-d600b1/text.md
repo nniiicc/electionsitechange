@@ -1,9 +1,7 @@
-Texas Farm Bureau AGFUND Endorses Pete Sessions
-February 1, 2022
-WACO — As a 27-year Freestone County Texas Farm Bureau Member and a 22-year Member of Congress, Pete Sessions holds the undisputed record of the Texan with the most legislation sponsored and passed off the floor of the U.S.
+Toggle navigation Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Texas Farm Bureau AGFUND Endorses Pete Sessions February 1, 2022 WACO — As a 27-year Freestone County Texas Farm Bureau Member and a 22-year Member of Congress, Pete Sessions holds the undisputed record of the Texan with the most legislation sponsored and passed off the floor of the U.S.
 House of Representatives — 189 different bills.
 “And, if it’s one feature of my voting record over 23 years in Congress that I’m most proud of, it has to be my 100% voting record with the Texas Farm Bureau,” said Pete when accepting the Texas Farm Bureau AGFUND Board of Directors’ endorsement in his run to continue representing the 17th Congressional District of Texas, which includes the Farm Bureau headquarters in Waco.
-“I’ve stood with the Texas Farm Bureau every single time and on every single vote, and if re-elected, I will, without compromise and without fail, continue to fight hard for farm and ranch families and maintain that perfect voting record of support.”
-When asked to comment of AGFUND’s support for Pete, President Russell Boening said, “Texas Farm Bureau AGFUND is proud to endorse Congressman Pete Sessions in the 2022 primary election.
+“I’ve stood with the Texas Farm Bureau every single time and on every single vote, and if re-elected, I will, without compromise and without fail, continue to fight hard for farm and ranch families and maintain that perfect voting record of support.” When asked to comment of AGFUND’s support for Pete, President Russell Boening said, “Texas Farm Bureau AGFUND is proud to endorse Congressman Pete Sessions in the 2022 primary election.
 He is a steadfast advocate for agriculture and Texas Farm Bureau – this is proven with his 100 percent voting record.
-We thank the Congressman for his constant engagement with the farmers and ranchers in his district and look forward to continuing our work with him as a strong leader in Washington.”
+We thank the Congressman for his constant engagement with the farmers and ranchers in his district and look forward to continuing our work with him as a strong leader in Washington.” P.O.
+Box 7754 Waco, TX 76714-7754 [email protected] Home Home Meet Pete Endorsements Issues TX-17 In the News Media Videos Press Releases In the News Get Involved Contact Donate Paid for by Pete Sessions for Congress Privacy Policy

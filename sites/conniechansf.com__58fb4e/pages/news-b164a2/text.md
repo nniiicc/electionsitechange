@@ -1,14 +1,5 @@
-Skip navigation menu
-news & press
-Latest Campaign Developments
-Face Time: Could Connie Chan’s ‘working people’-centered leadership work in Congress?
-Chinatown daughter, immigrant backer, billionaire-taxer: Connie Chan kicks off race for Congress
-ABC7
-Nancy Pelosi endorses SF Supervisor Connie Chan in the race to replace her in Congress
-KTVU
-Who will succeed Nancy Pelosi in Congress?
-San Francisco leader announces candidacy
-KTSF
-代表三藩市列治文區的華裔市參事陳詩敏宣布競選國會眾議員
-News - Gazetteer
-NEWS - Mission Local
+Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate In the News Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate In the News news & press Latest Campaign Developments News -SAN FRANCISCO EXAMINER Chan Brings History Of Fighting For Less Powerful To Congressional Race Read more Sep 13 2026 NEWS - SF Gazetteer Pramila Jayapal Endorses Connie Chan Read more Sep 8 2026 NEWS - SFist Connie Chan Gains Momentum, Trails Closely Behind Scott Wiener In Race For Congress Read more Jul 31 2026 NEWS - SF Chronicle Supervisor rolls out proposals to protect San Francisco's Small Businesses Read more Jul 18 2026 NEWS - San Francisco Examiner Chan’s chance to be SF’s first Chinese American in Congress excites Read more Jun 3 2026 News - KQED Nancy Pelosi Endorses San Francisco Supervisor Connie Chan for Congress Read more May 18 2026 NEWS ARTICLE Democrats’ internal fights sway the race to succeed Nancy Pelosi in San Francisco Read more May 11 2026 NEWS - CNN A supervisor with an unofficial Pelosi nod Read more May 10 2026 News - Gazetteer Face Time: Could Connie Chan’s ‘working people’-centered leadership work in Congress?
+Read more Apr 27 2026 Press Release Connie Chan Earns Sole Endorsement of the California Federation of Labor Unions Read more Mar 17 2026 Press Release U.S.
+Senator Adam Schiff Endorses Connie Chan for Congress in CA-11 Read more Mar 4 2026 NEWS - Mission Local Chinatown daughter, immigrant backer, billionaire-taxer: Connie Chan kicks off race for Congress Read more Feb 24 2026 Press Release National Nurses United endorses Connie Chan for California’s 11th District Read more Feb 18 2026 Press RElease SAN FRANCISCO LABOR COUNCIL ENDORSES CONNIE CHAN FOR CONGRESS Read more Jan 28 2026 News - abc 7 news SF Supervisor Connie Chan to run for Congress to replace Nancy Pelosi Read more Nov 20 2025 News - SF Standard Supervisor Connie Chan launches 2026 bid to succeed Nancy Pelosi Read more Nov 20 2025 KTVU Race for Congresswoman Nancy Pelosi's Seat Heats Up ABC7 Nancy Pelosi endorses SF Supervisor Connie Chan in the race to replace her in Congress TVB 佩洛西支持港產市議員競逐眾議員形容其亞裔身份為移民添希望 KTVU Who will succeed Nancy Pelosi in Congress?
+San Francisco leader announces candidacy KTSF 代表三藩市列治文區的華裔市參事陳詩敏宣布競選國會眾議員 Check Out Our Campaign Videos Share Now Privacy Policy campaign@conniechansf.com Connie Chan for Congress Office: 3043 24th St, San Francisco, CA 94110 Mailing: 912 Cole St #368, San Francisco, CA 94117 Privacy Policy & Terms of Service Connie Chan for Congress will not take money from corporate PACs, AIPAC or its lobbyists and representatives, the NRA or lobbyists and executives from pharma, PG&E, fossil fuel or tobacco companies.
+Paid for by Connie Chan for Congress You need to enable JavaScript to run this app.

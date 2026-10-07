@@ -1,8 +1,46 @@
 [
-"https://wrenner4senate.org/",
-"https://wrenner4senate.org/about",
-"https://wrenner4senate.org/contact",
-"https://wrenner4senate.org/donate",
-"https://wrenner4senate.org/media",
-"https://wrenner4senate.org/success"
+{
+"text": "ABOUT",
+"href": "https://www.wrenner4senate.org/about"
+},
+{
+"text": "ACHIEVEMENTS",
+"href": "https://www.wrenner4senate.org/success"
+},
+{
+"text": "CANDIDATE, 2026",
+"href": "https://www.wrenner4senate.org"
+},
+{
+"text": "CONTACT",
+"href": "https://www.wrenner4senate.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.wrenner4senate.org/donate"
+},
+{
+"text": "Donate Here!",
+"href": "https://www.wrenner4senate.org/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.wrenner4senate.org"
+},
+{
+"text": "Irene Wrenner",
+"href": "https://www.wrenner4senate.org"
+},
+{
+"text": "MEDIA",
+"href": "https://www.wrenner4senate.org/media"
+},
+{
+"text": "VT SENATOR, 2023-2024 SENATE",
+"href": "https://www.wrenner4senate.org"
+},
+{
+"text": "irene@wrenner4senate.org",
+"href": "mailto:irene@wrenner4senate.org"
+}
 ]

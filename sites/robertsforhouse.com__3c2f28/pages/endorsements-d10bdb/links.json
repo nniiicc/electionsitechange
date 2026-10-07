@@ -1,12 +1,46 @@
 [
-"https://facebook.com/StateRepEricRoberts",
-"https://robertsforhouse.com/",
-"https://robertsforhouse.com/about",
-"https://robertsforhouse.com/endorsements",
-"https://robertsforhouse.com/gallery",
-"https://robertsforhouse.com/get-involved",
-"https://robertsforhouse.com/news",
-"https://robertsforhouse.com/platform",
-"https://robertsforhouse.com/privacy-policy",
-"https://secure.anedot.com/eric-roberts-state-house-2024/donate"
+{
+"text": "ABOUT",
+"href": "https://www.robertsforhouse.com/about"
+},
+{
+"text": "Contact Us",
+"href": "mailto:eric@robertsforhouse.com?subject=Website+Visitor+Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/eric-roberts-state-house-2024/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.robertsforhouse.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.robertsforhouse.com"
+},
+{
+"text": "LEGISLATIVE ACCOMPLISHMENTS",
+"href": "https://www.robertsforhouse.com/platform"
+},
+{
+"text": "NEWS",
+"href": "https://www.robertsforhouse.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.robertsforhouse.com/gallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robertsforhouse.com/privacy-policy"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.robertsforhouse.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/StateRepEricRoberts"
+}
 ]

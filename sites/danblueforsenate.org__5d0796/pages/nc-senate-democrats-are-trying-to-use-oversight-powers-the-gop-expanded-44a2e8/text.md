@@ -1,5 +1,4 @@
-Source: NCNewsline.com
-Democrats on a legislative commission charged with oversight of state spending were rebuffed when they asked for information about how private schools and crisis pregnancy centers are using taxpayer dollars.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page NC Senate Democrats are trying to use oversight powers the GOP expanded May 10, 2024 | News , Sourced Source: NCNewsline.com Democrats on a legislative commission charged with oversight of state spending were rebuffed when they asked for information about how private schools and crisis pregnancy centers are using taxpayer dollars.
 “We’re taking advantage of the process that’s been created,” said Senate Democratic leader Dan Blue of Raleigh.
-“As we look at it, that’s our responsibility.”
-While Democrats aren’t used to setting the agenda, “we have an equal interest as Democratic lawmakers in upholding our obligation to be good stewards of the public taxpayer dollars,” he said.
+“As we look at it, that’s our responsibility.” While Democrats aren’t used to setting the agenda, “we have an equal interest as Democratic lawmakers in upholding our obligation to be good stewards of the public taxpayer dollars,” he said.
+Read Article Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

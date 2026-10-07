@@ -1,20 +1,19 @@
-Thursday’s unexpected apology from Gov.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News Governor’s office: ‘Honest mistake’ that apology letter mistakenly sent to wrong House list Thursday’s unexpected apology from Gov.
 Kay Ivey not only revealed Alabama still has not fully exorcised the demons of its past, it showed us that some members of the Alabama Legislature still feel jilted after the Rebuild Alabama Act passed this spring.
-Ahead of Thursday’s announcement, some
-Alabama drivers will see a 6-cent state gas tax increase starting Sept. 1, the first increment of the 10-cent hike approved this year by lawmakers and Gov.
+Ahead of Thursday’s announcement, some Continue Reading Gas taxes go up Sept.
+1 Alabama drivers will see a 6-cent state gas tax increase starting Sept.
+1, the first increment of the 10-cent hike approved this year by lawmakers and Gov.
 Kay Ivey.
 When fully implemented, the increase will generate about $320 million a year for road and bridge projects.
-The first five state
-Thursday’s unexpected apology from Gov.
+The first five state Continue Reading Governor’s office: ‘Honest mistake’ that apology letter mistakenly sent to wrong House list Thursday’s unexpected apology from Gov.
 Kay Ivey not only revealed Alabama still has not fully exorcised the demons of its past, it showed us that some members of the Alabama Legislature still feel jilted after the Rebuild Alabama Act passed this spring.
-Ahead of Thursday’s
-By CAROLINE BECK, Alabama Daily News MONTGOMERY, Ala. – Alabama drivers will see a six-cent state gas tax increase starting Sept. 1, the first increment of the 10-cent hike approved this year by lawmakers and Gov.
+Ahead of Thursday’s Continue Reading Gas tax increase coming, road projects already moving By CAROLINE BECK, Alabama Daily News MONTGOMERY, Ala. – Alabama drivers will see a six-cent state gas tax increase starting Sept.
+1, the first increment of the 10-cent hike approved this year by lawmakers and Gov.
 Kay Ivey.
-READ MORE
-Michelle Eubanks, UNA, at meubanks@una.edu, 256-606-2033 or 256-765-4392 FLORENCE, AL. – The University of North Alabama and Russellville Hospital will sign a Memorandum of Understanding on Wednesday, Aug. 28, at 10 a.m. in the Bibb Graves Boardroom on the UNA
-By Lisa Singleton-Rickman Staff Writer Aug 21, 2019 A robust year for state revenues — predominantly sales and income taxes —has boosted the value of the Education Trust Fund to $7 billion, freeing up $199 million from its rolling reserve to be handed out to school districts, which is nearly
-Some lawmakers who voted against the increase were first-time lawmakers and saw that they had to make a difficult choice for their first official vote in the Legislature.
+READ MORE Continue Reading UNA, Russellville Hospital to Sign Memorandum of Understanding Michelle Eubanks, UNA, at meubanks@una.edu, 256-606-2033 or 256-765-4392 FLORENCE, AL. – The University of North Alabama and Russellville Hospital will sign a Memorandum of Understanding on Wednesday, Aug.
+28, at 10 a.m. in the Bibb Graves Boardroom on the UNA Continue Reading UNA cashing in on trust fund overflow By Lisa Singleton-Rickman Staff Writer Aug 21, 2019 A robust year for state revenues — predominantly sales and income taxes —has boosted the value of the Education Trust Fund to $7 billion, freeing up $199 million from its rolling reserve to be handed out to school districts, which is nearly Continue Reading Gas tax increase coming Some lawmakers who voted against the increase were first-time lawmakers and saw that they had to make a difficult choice for their first official vote in the Legislature.
 “I had just run a successful campaign on smaller government and less taxes,” Rep.
 Jamie Kiel, R-Russellville, told ADN.
-“I
-By Kendyl Hollingsworth Staff Writer Aug 29, 2019 FLORENCE — Officials representing Russellville Hospital and the University of North Alabama met Wednesday at Bibb-Graves Hall to sign a memorandum of understanding designed to help health care employees and dependents further their
+“I Continue Reading Partnership between UNA, Russellville Hospital encourages health care education By Kendyl Hollingsworth Staff Writer Aug 29, 2019 FLORENCE — Officials representing Russellville Hospital and the University of North Alabama met Wednesday at Bibb-Graves Hall to sign a memorandum of understanding designed to help health care employees and dependents further their Continue Reading Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

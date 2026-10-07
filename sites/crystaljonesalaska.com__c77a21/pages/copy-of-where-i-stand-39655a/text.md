@@ -1,10 +1,7 @@
-Q&A with Crystal Jones
-Why are you running nonpartisan?
-My loyalty belongs to District 36, not a party.
+top of page Home Where I Stand Meet Crystal Jones Q & A Get Involved DONATE FOR STATE REPRESENTATIVE IN DISTRICT 36 Q&A with Crystal Jones Why are you running nonpartisan? ​ My loyalty belongs to District 36, not a party.
 When a legislator's first obligation is to their party, the people who sent them there come second.
 I answer to the folks in District 36.
-I'm running nonpartisan because I want to work with, and represent, all Alaskans; not just the ones who share a party label.
-You're not a career politician.
+I'm running nonpartisan because I want to work with, and represent, all Alaskans; not just the ones who share a party label. ​ ​ ​ ​ ​ You're not a career politician.
 Why should we trust you to do this job?
 I think it's fair to ask whether that kind of experience is actually a qualification.
 Politicians have lined their own pockets and put corporate interests over the locals they claim to represent.
@@ -98,4 +95,4 @@ Why should Democrats vote for you?
 Rural healthcare is broken.
 Our fisheries are being exploited by outside corporate interests.
 Our schools are underfunded.
-A representative who answers to this district, not a party, will fight for those things more effectively than a vote that gets traded away in caucus.
+A representative who answers to this district, not a party, will fight for those things more effectively than a vote that gets traded away in caucus. ​ CrystaL Jones For Alaska State Rep HC 1 2300B Glennallen, AK 99588 907-320-0407 jonesforalaska@gmail.com ​ FACEBOOK Paid for by Crystal Jones for House District 36 DONATE bottom of page

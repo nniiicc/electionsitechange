@@ -1,14 +1,11 @@
-Privacy Policy & Terms and Conditions
-Overview
-Welcome to the official website or mobile application (the Sites) of Charles Hughes for Assembly 2026 (“CHA”).
+'); home about media join us endorsements priorities donate Home ABOUT PRIORITIES ENDORSEMENTS Join MEDIA donate Privacy Policy & Terms and Conditions Overview Welcome to the official website or mobile application (the Sites) of Charles Hughes for Assembly 2026 (“CHA”).
 This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other CHA mobile applications that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy and our Terms of Service.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.
 We will alert you to changes that have been made by indicating on the Policy the date it was last updated.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
-Information Collected and How it is Collected
-Voluntary Information: We may collect personal information that you voluntarily provide to us including your name, e-mail address, postal address, phone number, mobile number, and geographic location.
+Information Collected and How it is Collected Voluntary Information: We may collect personal information that you voluntarily provide to us including your name, e-mail address, postal address, phone number, mobile number, and geographic location.
 You may provide this information when you request information, register, make a purchase, send us an email, sign up to receive email or text messages updates, connect through a social feed, fill out a form or for other purposes.
 We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code.
 When this information is linked to personally identifiable information, it will be treated as voluntary personal information.
@@ -28,8 +25,7 @@ We use this information to determine the general physical location of the device
 We also may use your non-personally identifiable information to enhance our Site.
 All Site users remain anonymous unless they choose to give us their personal information.
 You may elect not to allow us to collect and use this non-personally identifiable data as part of our Service by following the Opt Out procedures described below.
-Cookies and Other Technologies
-Overview: We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visit a web site in our network.
+Cookies and Other Technologies Overview: We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visit a web site in our network.
 “Cookies” are small pieces of information that are stored by your browser at the request of a website.
 Cookies help us improve your experience on our Sites, however, if you wish to block, erase or be warned of the use of cookies, please refer to the paragraph below entitled Disabling Cookies or to your browser manufacturer.
 When you view a video on our Sites, a third party may also set a “flash cookie” on your computer.
@@ -63,8 +59,7 @@ Through these promotions, you may choose to participate in activities such as sh
 In connection with any contests and other promotions that we may offer from time to time via our Site, we use the information you provide to administer the contests and other promotions.
 Subject to applicable contractual or legal restrictions, we also may use the information to communicate with you, or the other people you select, about our products and services or our service providers or agents partners may use such information to communicate with you about the contests and other promotions or their products and services.
 If you choose to participate in these promotions, and are eligible to do so, we may ask you for information such as your name, e-mail address, date of birth and telephone number.
-Third Party Features
-Third Party Links: For your convenience, we may include or offer third party offers, products or services on our Site.
+Third Party Features Third Party Links: For your convenience, we may include or offer third party offers, products or services on our Site.
 Third-party vendors may use cookies or other technologies to serve ads on other web sites based on your visit to this Site and other web sites on the Internet.
 We cannot be responsible for the privacy practices of any web sites or pages not under our control and we do not endorse any of these web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
 Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these web sites.
@@ -77,8 +72,7 @@ Although we may take certain precautions to protect those who use these areas of
 The information you post can be collected and used by people you don’t know.
 We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post.
 Your use of these features is fully at your own risk.
-Email Signups
-E-mail: We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
+Email Signups E-mail: We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
 We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it, but your e-mail address and message will only be used in accordance with this Privacy Policy.
 Submitting your e-mail: Submitting your address anywhere on the Site may result in your e-mail address being added to CHA’s e-mail list.
@@ -89,44 +83,33 @@ Suggesting the Site to a Friend: If you elect to use any feature that includes s
 The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you.
 CHA will store and use this information in accordance with this Privacy Policy.
 Your friend may contact JGRA to request the removal of this information from our databases.
-Security
-We employ and maintain technology and security measures designed to protect your personal information.
+Security We employ and maintain technology and security measures designed to protect your personal information.
 However, no data transmission over the Internet can be guaranteed as 100 percent secure.
 As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
-Opt out
-Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
+Opt out Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
 If you’d like to stop this Site from collecting certain types of information that provide more tailored online ads and messages to you, please click here.
 If you elect to opt out of this type of advertising, we will place a cookie on your browser computer to flag that we should not collect data to tailor advertising to your browser.
 If you delete your cookies, install a new browser, or use a different computer, you may need to revisit this page to opt-out.
 You can also visit the Digital Advertising Alliance site, by clicking here http://www.aboutads.info/choices, to opt-out of interest-based advertising from other third parties using cookies.
-Your California Privacy Rights
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties.
-To request the above information, write to us at (with a reference to California Disclosure Information): info@votecharleshughes.com
-We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above.
+Your California Privacy Rights Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties.
+To request the above information, write to us at (with a reference to California Disclosure Information): info@votecharleshughes.com We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above.
 If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received.
 Please note that we are only required to respond to each customer once per calendar year.
-Children
-We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+Children We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
 We do not knowingly collect personal information from children under 13.
-Donations
-When you make a contribution to CHA, state law requires us to obtain the following information: name, address, employer, occupation, and amount of contribution.
+Donations When you make a contribution to CHA, state law requires us to obtain the following information: name, address, employer, occupation, and amount of contribution.
 State law also requires us to report this information publicly if an individual’s contributions aggregate $100 or more in a single calendar year.
 Any credit card information provided is only used to immediately process your donation.
 All contributions made to the Site are considered final unless the donation is not in compliance with applicable laws.
 All purchases from the online store are considered contributions to CHA.
-Special Statement for Job Applicants
-Any personal information that you provide to us when applying for a career position with CHA will be used solely to consider and act upon your application.
+Special Statement for Job Applicants Any personal information that you provide to us when applying for a career position with CHA will be used solely to consider and act upon your application.
 We may retain your personal information for a period of time, but only for as long as necessary for such purposes or as otherwise required by law.
 We may disclose your personal information to our agents for the purpose of evaluating your qualifications for the particular position you applied for, for other available positions or as otherwise required by law.
 We may also disclose your personal information to third parties hired by us to collect, maintain, and analyze candidates for career positions or as otherwise required by law.
-Visiting our Site from outside of the United States
-If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+Visiting our Site from outside of the United States If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-Contact Us
-Please contact us if you have questions about our Privacy Policy at info@charleshughes.com
-SMS/MMS Terms and Conditions:
-Charles Hughes for Assembly 2026 (“we,” “us,” “our”) is providing a mobile messaging program subject to these SMS/MMS Terms and Conditions.
+Contact Us Please contact us if you have questions about our Privacy Policy at info@charleshughes.com SMS/MMS Terms and Conditions: Charles Hughes for Assembly 2026 (“we,” “us,” “our”) is providing a mobile messaging program subject to these SMS/MMS Terms and Conditions.
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from us in order to opt-out of the program.
 User Opt-In: This program allows users to receive SMS/MMS mobile messages by users opting into the program, for example through online sign-up forms or by texting a keyword to our shortcode number, or any future shortcode numbers.
 Regardless of the opt-in method used to join the program, you agree that these Terms apply to your participation in the program.
@@ -143,8 +126,7 @@ You may receive an additional mobile message confirming your decision to opt-out
 For additional support, text “HELP” in reply to a text message you receive.
 You can also contact us at info@votecharleshughes.com for additional assistance.
 Compatible carriers include: AT&T, T-Mobile®, Verizon Wireless, Sprint, Boost, Alltel (Verizon Wireless), U.S.
-Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®
-MMS Disclosure: This program will send SMS messages if your mobile device does not support MMS messaging.
+Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile® MMS Disclosure: This program will send SMS messages if your mobile device does not support MMS messaging.
 Warranty: Delivery of mobile messages is subject to transmission from your wireless service provider and network operator, and is outside of our control.
 We will not be liable for any delays or failures in the receipt of any mobile messages connected with this program.
 Privacy Policy: We respect your right to privacy.
@@ -159,4 +141,7 @@ This Privacy Policy is strictly limited to the program and has no effect on any 
 Text HELP for HELP.
 Text STOP to CANCEL.
 Message & Data rates may apply.
-Charles Hughes for Assembly 2026 FPPC ID: 1478005 Website: https://www.votecharleshughes.com/.
+Charles Hughes for Assembly 2026 FPPC ID: 1478005 Website: https://www.votecharleshughes.com/. follow along @charleshughesforassembly Follow along for news, updates, and behind-the-scenes happenings.
+CONTACT: info@votecharleshughes.com The use of military or law enforcement images, ranks, job titles, or photographs in uniform does not imply endorsement by the Department of Defense, any branch of the U.S.
+Armed Forces, or any law enforcement agency or department.
+Privacy Policy & Terms and Conditions CONTACT: info@votecharleshughes.com PAID FOR BY CHARLES HUGHES FOR ASSEMBLY 2026

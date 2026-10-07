@@ -1,7 +1,12 @@
 {
  "description": "Congressman Hal Rogers campaign website",
  "final_url": "https://www.congressmanhalrogers.com/news/Hal-Rogers-wins-kentucky-primary-republican-nomination-2026",
- "paid_for_by": "Paid for by Hal Rogers for Congress \u00a92026 Hal Rogers for Congress",
+ "fingerprint": "268d358ad3b04326e9c0e6a4ee385b21b20ac89e",
+ "format": 3,
+ "paid_for_by": "Paid for by Hal Rogers for Congress ©# Hal Rogers for Congress",
  "title": "News - Congressman Hal Rogers",
- "years_mentioned": []
+ "years_mentioned": [
+  "1980",
+  "2026"
+ ]
 }

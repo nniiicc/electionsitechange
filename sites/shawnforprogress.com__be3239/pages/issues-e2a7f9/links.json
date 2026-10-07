@@ -1,17 +1,90 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/Shawnforprogress",
-"https://instagram.com/Shawnforprogress",
-"https://shawnforprogress.com/",
-"https://shawnforprogress.com/about",
-"https://shawnforprogress.com/contact",
-"https://shawnforprogress.com/donate",
-"https://shawnforprogress.com/events",
-"https://shawnforprogress.com/host-a-yard-sign",
-"https://shawnforprogress.com/house-district-1",
-"https://shawnforprogress.com/issues",
-"https://shawnforprogress.com/news",
-"https://shawnforprogress.com/volunteer",
-"https://threads.net/@shawnforprogress",
-"https://tiktok.com/@shawnforprogress"
+{
+"text": "About",
+"href": "https://www.shawnforprogress.com/about"
+},
+{
+"text": "Conserving Communities",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://www.shawnforprogress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.shawnforprogress.com/donate"
+},
+{
+"text": "Empowering Workers",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Events",
+"href": "https://www.shawnforprogress.com/events"
+},
+{
+"text": "Host a Yard Sign",
+"href": "https://www.shawnforprogress.com/host-a-yard-sign"
+},
+{
+"text": "House District 1",
+"href": "https://www.shawnforprogress.com/house-district-1"
+},
+{
+"text": "News",
+"href": "https://www.shawnforprogress.com/news"
+},
+{
+"text": "Protecting Health",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Restoring Affordability",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Resurrecting Education",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Supporting Families",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "View more",
+"href": "https://www.shawnforprogress.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.shawnforprogress.com/volunteer"
+},
+{
+"text": "[image: Shawn for Progress logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.shawnforprogress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/Shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@shawnforprogress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@shawnforprogress"
+}
 ]

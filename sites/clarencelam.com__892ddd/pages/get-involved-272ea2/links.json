@@ -1,9 +1,46 @@
 [
-"http://instagram.com/ClarenceLamMD",
-"https://clarencelam.com/",
-"https://clarencelam.com/get-involved",
-"https://clarencelam.com/meet-clarence",
-"https://facebook.com/ClarenceLamMD",
-"https://secure.actblue.com/donate/lam26",
-"https://twitter.com/ClarenceLamMD"
+{
+"text": "About",
+"href": "https://www.clarencelam.com/meet-clarence/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.clarencelam.com/meet-clarence/#accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lam26"
+},
+{
+"text": "Get Involved",
+"href": "https://www.clarencelam.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://www.clarencelam.com/meet-clarence/#issues"
+},
+{
+"text": "Meet Clarence",
+"href": "https://www.clarencelam.com/meet-clarence/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.clarencelam.com/get-involved/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.clarencelam.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/ClarenceLamMD"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ClarenceLamMD"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ClarenceLamMD"
+}
 ]

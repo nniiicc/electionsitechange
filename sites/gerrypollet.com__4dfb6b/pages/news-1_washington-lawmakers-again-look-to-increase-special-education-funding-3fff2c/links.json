@@ -1,16 +1,66 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=1436&Initiative=false&Year=2023",
-"https://app.leg.wa.gov/billsummary?BillNumber=2180&Chamber=House&Year=2023",
-"https://facebook.com/GerryPollet",
-"https://fnspublic.ofm.wa.gov/FNSPublicSearch/GetPDF?packageID=69850",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://king5.com/article/news/local/cap-on-funding-leaves-kids-with-disabilities-in-limbo-wa-districts-scrambling/281-550510661",
-"https://seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now",
-"https://secure.actblue.com/donate/gerry-pollet-2"
+{
+"text": "< Back",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "House Bill 2180",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2180&Chamber=House&Year=2023"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "bill",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1436&Initiative=false&Year=2023"
+},
+{
+"text": "bill’s fiscal note",
+"href": "https://fnspublic.ofm.wa.gov/FNSPublicSearch/GetPDF?packageID=69850"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+},
+{
+"text": "said in 2023",
+"href": "https://www.king5.com/article/news/local/cap-on-funding-leaves-kids-with-disabilities-in-limbo-wa-districts-scrambling/281-550510661"
+},
+{
+"text": "where 22% of students",
+"href": "https://www.seattletimes.com/opinion/editorials/remove-cap-on-special-education-funding-in-wa-now/"
+}
 ]

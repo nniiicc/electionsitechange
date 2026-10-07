@@ -1,7 +1,22 @@
 [
-"https://parajonfornm.com/",
-"https://parajonfornm.com/about",
-"https://parajonfornm.com/news",
-"https://parajonfornm.com/projects-6",
-"https://secure.actblue.com/donate/parajon-for-nm"
+{
+"text": "Home",
+"href": "https://www.parajonfornm.com"
+},
+{
+"text": "INVEST",
+"href": "https://secure.actblue.com/donate/parajon-for-nm"
+},
+{
+"text": "ISSUES",
+"href": "https://www.parajonfornm.com/projects-6"
+},
+{
+"text": "MEET CRISTINA",
+"href": "https://www.parajonfornm.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://www.parajonfornm.com/news"
+}
 ]

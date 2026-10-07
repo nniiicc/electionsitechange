@@ -1,9 +1,5 @@
-Back to All Events
-Join the Elmquist Campaign to doorknock ahead of the August 11 Primary.
-Previous
-Previous
-June 25
-June 25 Phonebank
-Next
-Next
-July 15
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Back to All Events July 12 Doorknock Sunday, July 12, 2026 2:00 PM 4:30 PM Mounds View, Mn (map) Google Calendar ICS Join the Elmquist Campaign to doorknock ahead of the August 11 Primary.
+RSVP Here Posted In: Talk to Voters Previous Previous June 25 June 25 Phonebank Next Next July 15 July 15 Phonebank Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

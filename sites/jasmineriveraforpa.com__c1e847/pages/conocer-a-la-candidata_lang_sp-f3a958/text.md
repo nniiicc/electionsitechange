@@ -1,5 +1,5 @@
-Ver en ingles
-Jasmine �Jaz� Rivera ha sido parte de la comunidad de York durante m�s de 30 a�os.
+Hogar Conocer a la candidata En Los Temas Eventos publicos Voluntario Donar Contacto Reg de Votantes D�nde Votar Ver en ingles Hogar Conocer a la candidata En Los Temas Eventos publicos Voluntario Donar Contacto Reg de Votantes D�nde Votar Ver en ingles Hogar Conocer a la candidata En Los Temas Eventos publicos Voluntario Donar Contacto Reg de Votantes D�nde Votar Ver en ingles Hogar Conocer a la candidata En Los Temas Eventos publicos Voluntario Donar Contacto Reg de Votantes D�nde Votar Ver en ingles Meet Jaz Rivera...
+Conocer a la candidata "Se trata de personas, no de pol�tica." Jasmine �Jaz� Rivera ha sido parte de la comunidad de York durante m�s de 30 a�os.
 Sus padres se mudaron a York desde Nueva Jersey, donde naci� Jasmine, en busca de mejores trabajos y viviendas y una comunidad m�s estable.
 Jaz encontr� un hogar en York, donde se dio cuenta de su potencial.
 Ha criado a sus tres hijos aqu�.
@@ -31,6 +31,5 @@ York est� entusiasmada de votar por un candidato que conoce desde hace a�os.
 Conocen a Jaz y conocen su compromiso con la comunidad.
 Es la gente, no la pol�tica, lo que impulsa a Jasmine Rivera.
 Ella ser� una voz nueva y poderosa en Harrisburg que trabajar� por el mejoramiento de todos en el Distrito Legislativo Estatal 95.
-Derechos de autor 2026 - Jasmine Rivera para PA - Todos los derechos reservados.
-Dise�o del sitio y alojado por
-Sunken Treasure Design
+Hogar | Conocer a la candidata | Eventos publicos | Voluntario | Donar | Contacto Derechos de autor 2026 - Jasmine Rivera para PA - Todos los derechos reservados.
+Dise�o del sitio y alojado por Sunken Treasure Design

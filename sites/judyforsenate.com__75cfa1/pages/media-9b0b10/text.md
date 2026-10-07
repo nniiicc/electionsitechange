@@ -1,9 +1,2 @@
-Contact the campaign
-- Email: info@judyforsenate.com
-- Address: PO Box 201, Lakeland, MN 55043
-Skip to content
-Contact the campaign
-Other resources
-Prepared and Paid for by Judy Seeberger For Senate, P.O.
-Box 201, Lakeland, MN 55043
-Powered by Tech for Campaigns
+Skip to content Primary Menu Meet Judy Priorities Wins for Minnesota Endorsements Get Involved Donate Media Contact the campaign Email: info@judyforsenate.com Address: PO Box 201, Lakeland, MN 55043 Other resources Radio ad transcripts News Donate Photos Media PO Box 201, Lakeland, MN 55043 info@judyforsenate.com Facebook Instagram Twitter Prepared and Paid for by Judy Seeberger For Senate, P.O.
+Box 201, Lakeland, MN 55043 Powered by Tech for Campaigns

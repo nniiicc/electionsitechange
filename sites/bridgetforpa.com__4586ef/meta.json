@@ -1,9 +1,12 @@
 {
  "description": "Bridget for PA website",
  "final_url": "https://bridgetforpa.com/",
- "paid_for_by": null,
+ "fingerprint": "ee0e1c6fba75f0ddba34d130aedf40a233fcf853",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Bridget For PA - Bridget For PA",
  "years_mentioned": [
-  "2019"
+  "2019",
+  "2022"
  ]
 }

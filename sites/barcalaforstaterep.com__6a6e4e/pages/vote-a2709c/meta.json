@@ -1,6 +1,8 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.barcalaforstaterep.com/vote",
+ "fingerprint": "1dceecdb7fd5d39db312494c426d435a0621f045",
+ "format": 3,
  "paid_for_by": "Paid for by Committee to Elect Jessie Barcala Powered by CampaignPartner",
  "title": "Voter Registration Information",
  "years_mentioned": []

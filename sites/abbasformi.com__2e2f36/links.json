@@ -1,20 +1,90 @@
 [
-"http://instagram.com/abbasformi",
-"http://x.com/abbasformi",
-"https://abbasformi.com/",
-"https://abbasformi.com/cart",
-"https://abbasformi.com/endorsements",
-"https://abbasformi.com/issues",
-"https://abbasformi.com/news",
-"https://abbasformi.com/privacy-policy",
-"https://abbasformi.com/terms-of-service",
-"https://facebook.com/abbasformi",
-"https://secure.actblue.com/donate/abbasformiwebsite",
-"https://secure.actblue.com/donate/abbasformiwebsite?amount=10",
-"https://secure.actblue.com/donate/abbasformiwebsite?amount=100",
-"https://secure.actblue.com/donate/abbasformiwebsite?amount=25",
-"https://secure.actblue.com/donate/abbasformiwebsite?amount=250",
-"https://secure.ngpvan.com/ToDGFDTD7UyeoM7XDyQ3Yw2",
-"https://tiktok.com/@abbasformi",
-"https://youtube.com/@AbbasForMI"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite?amount=250"
+},
+{
+"text": "0",
+"href": "https://www.abbasformi.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.abbasformi.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.abbasformi.com/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.abbasformi.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.abbasformi.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.abbasformi.com/news"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/abbasformiwebsite"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.abbasformi.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.abbasformi.com/privacy-policy"
+},
+{
+"text": "SIGN UP",
+"href": "https://secure.ngpvan.com/ToDGFDTD7UyeoM7XDyQ3Yw2"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.abbasformi.com/terms-of-service"
+},
+{
+"text": "[image: Abbas for State Senate ]",
+"href": "https://www.abbasformi.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/abbasformi"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/abbasformi"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/abbasformi"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@abbasformi"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AbbasForMI"
+}
 ]

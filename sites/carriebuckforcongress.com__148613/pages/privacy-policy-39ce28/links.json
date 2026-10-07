@@ -1,18 +1,70 @@
 [
-"http://aboutads.info/",
-"http://aboutads.info/choices",
-"http://allaboutdnt.com/",
-"http://tools.google.com/dlpage/gaoptout",
-"http://www/",
-"https://carriebuckforcongress.com/",
-"https://carriebuckforcongress.com/about",
-"https://carriebuckforcongress.com/endorsements",
-"https://carriebuckforcongress.com/get-involved",
-"https://carriebuckforcongress.com/privacy-policy",
-"https://facebook.com/carriebuckforNV",
-"https://flickr.com/photos/carriebuckforNV",
-"https://instagram.com/carriebuckforNV",
-"https://secure.anedot.com/carriebuck/donate",
-"https://twitter.com/carriebuckforNV",
-"https://youtube.com/@CarrieBuckforNV"
+{
+"text": "About",
+"href": "https://carriebuckforcongress.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://carriebuckforcongress.com/get-involved/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/carriebuck/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://carriebuckforcongress.com/endorsements/"
+},
+{
+"text": "Google page",
+"href": "http://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "Home",
+"href": "https://carriebuckforcongress.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carriebuckforcongress.com/privacy-policy/"
+},
+{
+"text": "[image: Carrie Buck for Congress]",
+"href": "https://carriebuckforcongress.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://carriebuckforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "http://www"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/carriebuckforNV/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/carriebuckforNV"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CarrieBuckforNV"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info"
+}
 ]

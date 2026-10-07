@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/colbyfornh.bsky.social",
-"https://colbyfornh.com/",
-"https://colbyfornh.com/cart",
-"https://colbyfornh.com/contact",
-"https://colbyfornh.com/donations-by-mail",
-"https://colbyfornh.com/events",
-"https://colbyfornh.com/legislative-updates",
-"https://colbyfornh.com/policy",
-"https://colbyfornh.com/support",
-"https://colbyfornh.com/takingaction",
-"https://facebook.com/ColbyForNH",
-"https://secure.actblue.com/donate/colby"
+{
+"text": "0",
+"href": "https://colbyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "Contact",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Donate by mail",
+"href": "https://colbyfornh.com/donations-by-mail"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Donate to our campaign online",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Legislative Updates",
+"href": "https://colbyfornh.com/legislative-updates"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/policy"
+},
+{
+"text": "Support the Campaign",
+"href": "https://colbyfornh.com/support"
+},
+{
+"text": "Taking Action",
+"href": "https://colbyfornh.com/takingaction"
+},
+{
+"text": "[image: Eleana Colby for State Representative]",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/colbyfornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColbyForNH"
+}
 ]

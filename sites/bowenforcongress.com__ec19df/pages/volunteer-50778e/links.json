@@ -1,17 +1,70 @@
 [
-"https://bowenforcongress.com/",
-"https://bowenforcongress.com/about",
-"https://bowenforcongress.com/cards",
-"https://bowenforcongress.com/cdn-cgi/l/email-protection",
-"https://bowenforcongress.com/datacenter",
-"https://bowenforcongress.com/donate",
-"https://bowenforcongress.com/events",
-"https://bowenforcongress.com/issues",
-"https://bowenforcongress.com/media",
-"https://bowenforcongress.com/signs",
-"https://bowenforcongress.com/volunteer",
-"https://facebook.com/BowenForCongress",
-"https://instagram.com/BowenForCongress",
-"https://tiktok.com/@BowenForCongress",
-"https://x.com/Bowen4Congress"
+{
+"text": "About",
+"href": "https://bowenforcongress.com/about/"
+},
+{
+"text": "Data Center",
+"href": "https://bowenforcongress.com/datacenter/"
+},
+{
+"text": "Donate",
+"href": "https://bowenforcongress.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://bowenforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/BowenForCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/BowenForCongress"
+},
+{
+"text": "Issues",
+"href": "https://bowenforcongress.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://bowenforcongress.com/volunteer/#join"
+},
+{
+"text": "Media",
+"href": "https://bowenforcongress.com/media/"
+},
+{
+"text": "Request a yard sign",
+"href": "https://bowenforcongress.com/signs/"
+},
+{
+"text": "Request cards",
+"href": "https://bowenforcongress.com/cards/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@BowenForCongress"
+},
+{
+"text": "Volunteer",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "X / Grok",
+"href": "https://x.com/Bowen4Congress"
+},
+{
+"text": "[email protected]",
+"href": "mailto:team@bowenforcongress.com"
+},
+{
+"text": "[image: Bowen for US Congress]Carlton Bowen for US CongressIndependent American Party • Northern Utah's new CD2",
+"href": "https://bowenforcongress.com/"
+}
 ]

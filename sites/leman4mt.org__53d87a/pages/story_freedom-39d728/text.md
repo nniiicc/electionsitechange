@@ -1,4 +1,4 @@
-In Montana, freedom isn't an abstract concept or a political slogan.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Freedom × In Montana, freedom isn't an abstract concept or a political slogan.
 It is the right to make our own decisions, live our lives, and be left alone.
 There is an old saying out here that good fences make good neighbors.
 It means we respect boundaries.
@@ -12,4 +12,6 @@ It is to protect the constitutional liberties that keep the state out of your pr
 We demand that the government respect our privacy and leave us alone to live our lives.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

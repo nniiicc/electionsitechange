@@ -1,5 +1,4 @@
-This editorial appeared in the June 6, 2026 edition of the NH Union Leader
-The recent retirement of RCP 8.5, long the favorite model of climate alarmism, is being spun by some commentators as evidence that “climate science worked exactly as intended.” Policymakers acted.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Apocalyptic Fantasies Harm Climate Discourse Jun 8, 2026 This editorial appeared in the June 6, 2026 edition of the NH Union Leader The recent retirement of RCP 8.5, long the favorite model of climate alarmism, is being spun by some commentators as evidence that “climate science worked exactly as intended.” Policymakers acted.
 Technology improved.
 Emissions were curbed.
 And through masterful collective action, the world supposedly averted the most catastrophic pathway predicted by this model and its near and distant cousins.
@@ -37,3 +36,6 @@ A pragmatic strategy that prioritizes innovation and abundance offers a far supe
 The clear lesson from the retirement of RCP 8.5 is this.
 Stress tests are valuable, but they become dangerous when sold to the public as baseline expectations.
 If humanity continues to prioritize technological innovation, efficient energy production, economic growth, and scientific advancement, our future will almost certainly be far brighter and more prosperous than the transmogrified apocalyptic visions that dominated climate discourse for much of the past 15 years.
+SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

@@ -1,19 +1,12 @@
-TAKE ACTION
-Find an event
-Little Rock Fundraiser for Max Deitchler
-Join us for a fundraiser on September 17, 2025 at White Water Tavern in Little Rock from 5:15pm to 7:15pm!
-Neighborhood Meet & Greet - east Fayetteville
-Next Tuesday, August 19, I'm holding my first Meet & Greet in District 20 in order to meet voters and learn about what matters most to them.
+0 Skip to Content About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Folder: Get Involved Back Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate TAKE ACTION Find an event Oct 23 Neighborhood Meet & Greet Thursday, October 23, 2025 5:30 PM 7:00 PM Google Calendar ICS View Event → Sep 17 Little Rock Fundraiser for Max Deitchler Wednesday, September 17, 2025 5:15 PM 7:15 PM Google Calendar ICS Join us for a fundraiser on September 17, 2025 at White Water Tavern in Little Rock from 5:15pm to 7:15pm!
+View Event → Sep 8 University of Arkansas Young Dems: Kickoff Meeting, Max for Arkansas Monday, September 8, 2025 5:00 PM 6:00 PM Google Calendar ICS View Event → Aug 19 Neighborhood Meet & Greet - east Fayetteville Tuesday, August 19, 2025 5:30 PM 7:00 PM Google Calendar ICS Next Tuesday, August 19, I'm holding my first Meet & Greet in District 20 in order to meet voters and learn about what matters most to them.
 Please stop by and tell me what issues are important to you.
 And invite anyone else who is interested in learning more about my campaign.
-Eureka Springs Fundraiser
-Stop by Dan and Suzie Bell’s house for a fundraiser for Eureka Springs native Max Deitchler - hosted by friends, family, and supporters of Max in Eureka Springs.
-Attorney Fundraiser - 06.26.25
-Our co-hosts in the NWA legal community invite you to a fundraising reception at Taylor Law Partners in Fayetteville benefiting Max Deitchler, Candidate for State Representative District 20.
-Co-hosts:
-Nick Arnold, Russell Atchley, Woody Bassett, Maggie Benson, Matthew Benson, Tameron Bishop, Evelyn Brooks, Elizabeth Brooks-Tolley Rose, Dale Brown, Katie Campbell, Mac Campbell, Vince Chadick, Steve Clark, Suzanne Clark, Courtney Cline-Ledbetter, J.R.
+View Event → Jul 31 Eureka Springs Fundraiser Thursday, July 31, 2025 6:00 PM 8:00 PM Google Calendar ICS Stop by Dan and Suzie Bell’s house for a fundraiser for Eureka Springs native Max Deitchler - hosted by friends, family, and supporters of Max in Eureka Springs.
+View Event → Jun 26 Attorney Fundraiser - 06.26.25 Thursday, June 26, 2025 4:30 PM 6:30 PM Google Calendar ICS Our co-hosts in the NWA legal community invite you to a fundraising reception at Taylor Law Partners in Fayetteville benefiting Max Deitchler, Candidate for State Representative District 20.
+Co-hosts: Nick Arnold, Russell Atchley, Woody Bassett, Maggie Benson, Matthew Benson, Tameron Bishop, Evelyn Brooks, Elizabeth Brooks-Tolley Rose, Dale Brown, Katie Campbell, Mac Campbell, Vince Chadick, Steve Clark, Suzanne Clark, Courtney Cline-Ledbetter, J.R.
 Carroll, Niki Cung, Stephen Dacus, Andrew Dixon, John Elrod, Don Elliott, Rick Elliott, Marshall Dale Evans, Jeff Fletcher, Nathan Finch, Hershey Garner, Brian Hogue, Curtis Hogue, David Hogue, Robert Hopper, Scott Jackson, Ryan Jewell, Kerri Kobbeman, Alan Lane, Drew Ledbetter, Eva Madison, Tim Myers, Andrew Myers, Zach Musgraves, Nick Mote, Bo Morton, Katie Butler, Will Clark, Katie Platt, David Pieper, Blake Pennington, Terry Pool, Bill Putman, Jenae Randall, Cal Rose, Conrad Odom, Lisa Parks, Will Prettyman, Archie Schaffer III, Allissa Sims, Candice Smith, Ezra Smith, Kathryn Smith, Kim Smith, Scott Smith, Tim Smith, Lexi Stevens, Sarah Sparkman, Andrew Tarvin, W.H.
-Taylor, Kyle Unser, Steve Vowell, Lee Warden, Peyton Watts, Jacob White, Alan Wooten, Steve Zega
-Campaign Kickoff Fundraiser
-Join us for our campaign kickoff fundraiser on May 29 at 310 E.
+Taylor, Kyle Unser, Steve Vowell, Lee Warden, Peyton Watts, Jacob White, Alan Wooten, Steve Zega View Event → May 29 Campaign Kickoff Fundraiser Thursday, May 29, 2025 5:30 PM 7:30 PM Google Calendar ICS Join us for our campaign kickoff fundraiser on May 29 at 310 E.
 Fairway Lane, Fayetteville, Arkansas to meet Max and learn more about his campaign!
+View Event → Sign up for updates Contact P.O.
+Box 8423, Fayetteville, AR 72703 Paid for by Max for Arkansas.

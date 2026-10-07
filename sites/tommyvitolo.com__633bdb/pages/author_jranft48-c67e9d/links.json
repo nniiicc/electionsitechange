@@ -1,19 +1,90 @@
 [
-"https://facebook.com/VoteVitolo",
-"https://instagram.com/tommyvitolo",
-"https://secure.actblue.com/donate/tommyforbrookline",
-"https://tommyvitolo.com/",
-"https://tommyvitolo.com/author",
-"https://tommyvitolo.com/author/bills",
-"https://tommyvitolo.com/author/contact",
-"https://tommyvitolo.com/author/endorsements",
-"https://tommyvitolo.com/author/meet-tommy",
-"https://tommyvitolo.com/author/news",
-"https://tommyvitolo.com/bills",
-"https://tommyvitolo.com/boards-committees",
-"https://tommyvitolo.com/contact",
-"https://tommyvitolo.com/meet-tommy",
-"https://tommyvitolo.com/news",
-"https://tommyvitolo.com/organizations",
-"https://twitter.com/TommyVitolo"
+{
+"text": "Background",
+"href": "https://tommyvitolo.com/meet-tommy/"
+},
+{
+"text": "Bills",
+"href": "https://tommyvitolo.com/author/bills"
+},
+{
+"text": "Bills",
+"href": "https://tommyvitolo.com/bills/"
+},
+{
+"text": "Committees",
+"href": "https://tommyvitolo.com/boards-committees/"
+},
+{
+"text": "Contact",
+"href": "https://tommyvitolo.com/author/contact"
+},
+{
+"text": "Contact",
+"href": "https://tommyvitolo.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/tommyforbrookline"
+},
+{
+"text": "Endorsements",
+"href": "https://tommyvitolo.com/author/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteVitolo/"
+},
+{
+"text": "Home",
+"href": "https://tommyvitolo.com"
+},
+{
+"text": "Home",
+"href": "https://tommyvitolo.com/author/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tommyvitolo/"
+},
+{
+"text": "Meet Tommy",
+"href": "https://tommyvitolo.com/author/meet-tommy"
+},
+{
+"text": "News",
+"href": "https://tommyvitolo.com/author/news"
+},
+{
+"text": "News",
+"href": "https://tommyvitolo.com/news/"
+},
+{
+"text": "Organizations",
+"href": "https://tommyvitolo.com/organizations/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/TommyVitolo"
+},
+{
+"text": "[image: Tommy Vitolo State Representative]",
+"href": "https://tommyvitolo.com/"
+},
+{
+"text": "[image: Tommy Vitolo – State Representative for Brookline, Massachusetts Logo]",
+"href": "https://tommyvitolo.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VoteVitolo/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/tommyvitolo/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/TommyVitolo"
+}
 ]

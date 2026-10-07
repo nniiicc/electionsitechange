@@ -1,5 +1,4 @@
-An Economic and Environmental Solution as an Alternative Source of Revenue for WADNR
-It is clear that Washingtonians highly value public lands and wild, natural places.
+Skip to content Andy Zahn Platform About Industrial Hemp An Economic and Environmental Solution as an Alternative Source of Revenue for WADNR It is clear that Washingtonians highly value public lands and wild, natural places.
 Across the nation, conservation is a unifying topic which is widely supported across the political spectrum amongst Americans of every demographic.
 Fundamentally, the only thing standing in the way of far reaching conservation is money, and that is precisely what stands in the way of DNR implementing widespread preservation programs across the lands it manages.
 It is a bypass to this seemingly insurmountable barrier which I am proposing.
@@ -28,7 +27,7 @@ Farmers rushed into the hemp market post-legalization, but the processing, manuf
 WADNR is well positioned to facilitate the bootstrapping of the supply chain framework to support a thriving hemp industry in Washington.
 In the process, they stand to profit considerably as a key player in the industry.
 The primary role which I believe WADNR should occupy is that of a hemp fiber processor; buying raw hemp from growers, using decorticators to separate the hurd and bast, and then selling the resulting products to manufacturers.
-Government action to construct and operate such an industrial hemp processing facility was among the key recommendations of a report conducted by Greene Economics under contract from WSDA, published June 2025.
+Government action to construct and operate such an industrial hemp processing facility was among the key recommendations of a report conducted by Greene Economics under contract from WSDA , published June 2025.
 Portland State University has also published an in-depth study on the economic potential of hemp, as well as factors such as carbon sequestration, and bioremediation.
 That study has a lot of great information on the topic, but for now let’s focus on its analysis of decorticator profitability.
 That study looked at a number of different decorticators, and found that Fibertrack 660 offers both the shortest path to profitability, and is most profitable over time.
@@ -59,16 +58,9 @@ I’ll be the first to admit that there are major challenges on many levels with
 A holistic industrial hemp program implemented at scale is certainly a major, multifaceted investment, but it’s one which could pay off in a big way in just a few short years.
 The level of growth in both the hemp-derived chemical industry, and to a lesser extent the industrial hemp industry, since legalization have been tremendous, and let’s not forget that those industries basically didn’t exist a decade ago.
 We have an opportunity here to set aside our forests, which are worth more standing for the ecological, carbon sequestration, and recreation services they provide, while providing replacement revenue for WADNR and its beneficiaries, and kickstarting an economic boom in struggling rural regions of Washington State (and indeed throughout the state as a whole), all while helping to solve the state’s budget crisis through the additional tax revenue which would be generated.
-Additional resources:
-- Hemp for Building Materials: Marketing Opportunities and Challenges
-Prepared for Washington State Department of Agriculture by Greene Economics
-Published 6/30/2025
-- Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation
-An output of the Portland State Hemp Collaborative and the Institute of Sustainable Solutions at Portland State University.
-- Hemp Materials Roadmap
-Produced by the 2024 Hemp Industrial Materials Supply Chain Workshop, hosted by Oregon State University.
-Q&A
-Q: How much time would be required for a hemp processing facility to become profitable?
+Additional resources: Hemp for Building Materials: Marketing Opportunities and Challenges Prepared for Washington State Department of Agriculture by Greene Economics Published 6/30/2025 Click to access Final-Hemp-For-Building-Materials-Report-June-2025.pdf Industrial Hemp – A review of economic potential, carbon sequestration, and bioremediation An output of the Portland State Hemp Collaborative and the Institute of Sustainable Solutions at Portland State University.
+Click to access Industrial%20Hemp%20-%20A%20review%20of%20economic%20potential%20carbon%20sequetration%20and%20bioremediation%20ver16%20August18%202022.pdf Hemp Materials Roadmap Produced by the 2024 Hemp Industrial Materials Supply Chain Workshop, hosted by Oregon State University.
+Click to access OSU-NZ-Hemp-Materials-Roadmap-Report.pdf Q&A Q: How much time would be required for a hemp processing facility to become profitable?
 A: As little as 6 months, depending on various factors.
 Q: Are there industrial hemp strains which grow well in Washington?
 A: Yes, Carmagnolia is known to grow well in British Columbia, and the USDA, WSDA, along with WSU are conducting research to determine the best varieties to grow in Washington.
@@ -83,16 +75,15 @@ A: Hemp and cannabis are the same species of plant, but industrial hemp strains 
 Q: Is hemp better for paper products than wood?
 A: Yes, hemp produces a superior product that is stronger and higher quality than typical wood-based paper, and has the added bonus of being hydrophobic.
 Additionally, hemp paper is typically produced mechanically, and doesn’t require the chemicals used in the production of wood-based paper.
-The company “Printed on hemp” which is based in Oregon, produces hemp-paper, which they say uses 45% less energy, produces 38% less greenhouse gasses, generates 45% less wastewater, and creates 50% solid waste than traditional wood paper.
+The company “ Printed on hemp ” which is based in Oregon, produces hemp-paper, which they say uses 45% less energy, produces 38% less greenhouse gasses, generates 45% less wastewater, and creates 50% solid waste than traditional wood paper.
 Q: Are hemp-based wood alternatives fire resistant?
 Yes.
 Many hemp-based materials such as hempcrete and hempwood are fire resistant.
 Hempwood for example has received an A Class 1 fire resistance rating, while hempcrete has been shown to withstand exposure to 1700 degree temperatures for an hour, achieving an R value of 2.2 per inch.
-Pros & Cons
-Pro: Hemp is an excellent fallow crop and intercrop, meaning that large quantities can be grown without displacing existing primary crops.
+Pros & Cons Pro: Hemp is an excellent fallow crop and intercrop, meaning that large quantities can be grown without displacing existing primary crops.
 Various parts of the hemp plant may also be used to replace a wide variety of products in addition to wood, from plastics and cotton, to animal feed and even artificial meat, making it a multi-purpose crop.
 Pro: Hemp fiber is stronger and more durable than wood fiber, and has great potential to produce superior products to wood.
-For example, Hempwood, a small manufacturer located in Kentucky, produces an interior-grade wood alternative made from hemp that is 20% stronger than hickory.
+For example, Hempwood , a small manufacturer located in Kentucky, produces an interior-grade wood alternative made from hemp that is 20% stronger than hickory.
 Renewabuild in Canada produces hemp blocks which are designed for structural use.
 Pro: Hemp improves soil health, which when grown in rotation with other crops such as corn and potatoes results in increased yields of those crops.
 Pro: Hemp sequesters carbon at a greater rate than wood, and a greater percentage of that carbon remains stored in hemp-based products than in traditional wood products.
@@ -106,3 +97,6 @@ It is important to note that with sufficient scale, hemp-based wood-alternative 
 Considerable investment in bootstrapping the hemp supply chain is necessary to achieve this.
 Con: Industrial hemp grows 15 to 20 feet tall, which means it can’t be planted where that may cause a hazard, such as close to the edge of roads.
 However, the shade this provides on the grounds prevents weeds from growing, reducing the need for artificial means of weed removal and suppression.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Box 26 Toutle, WA, 98649 Discover more from Andy Zahn Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

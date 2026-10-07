@@ -1,5 +1,5 @@
-The LEGAL Act -- and what it means for Montana's employers
-In 2025, Representative Sprunger crafted and sponsored The LEGAL Act (Legal Employment and Government Accountability Law), addressing a growing issue and rising contention between factions in the state.
+top of page Home My Story Issues Contribute Connect News More Use tab to navigate through the menu items.
+All Posts video fentanyl trades infrastructure Inside the House Search The LEGAL Act -- and what it means for Montana's employers Courtenay Sprunger Mar 9 1 min read In 2025, Representative Sprunger crafted and sponsored The LEGAL Act (Legal Employment and Government Accountability Law), addressing a growing issue and rising contention between factions in the state.
 On a hot topic that often divides at party lines, The LEGAL Act passed with strong support from both parties because it was carefully constructed to fully enforce the law while ensuring constitutional protections and limiting unnecessary burden on small businesses.
 Sprunger's LEGAL Act fights back against employers who intentionally employ illegal labor and participate in labor trafficking, working to ensure a level playing field for Montana's law-abiding businesses.
 That, and The LEGAL Act leveraged existing resources and systems rather than reinventing the wheel.
@@ -9,3 +9,5 @@ This means checking for e-verify or I-9 for every employee during audits and wor
 The bill protects law-abiding businesses and jobs for those working legally in Montana, and protects the vulnerable from labor trafficking.
 This is how leadership should look.
 Bringing Montanans together to tackle tough issues and promote vitality for the people of our state.
+Recent Posts See All Sprunger to host MT DUI Reform Summit on Sept 3 Montana Hunters First Act Montana Must Stand United Against Fentanyl Trafficking Home My Story Issues Contribute Connect News More Use tab to navigate through the menu items.
+Paid for by Courtenay for Kalispell HD7 - R PO Box 8315, Kalispell, Montana 59904 Justin Burt, Treasurer 406-407-1151 ​ ©#-# Courtenay for Kalispell HD7. bottom of page

@@ -1,9 +1,7 @@
-April 22, 2026 Dear Friend: Ninety days.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute April 22, 2026 Home 2026 April Day: April 22, 2026 April 22, 2026 Legislative & Community Updates Wrapping up April 22, 2026 Dear Friend: Ninety days.
 Big challenges.
 Clear priorities.
-Amid significant chaos and disruption in Washington, the General Assembly focused on Maryland’s priorities: protecting our residents from the lawless Trump Administration; enhancing affordability in core areas like energy …
-Continue Reading
-April 22, 2026 Montgomery Community Media Maryam Shahzad Maryland will use Artificial Intelligence to establish the nation’s first statewide 311 through the bipartisan bill led by State Sen.
+Amid significant chaos and disruption in Washington, the General Assembly focused on Maryland’s priorities: protecting our residents from the lawless Trump Administration; enhancing affordability in core areas like energy … Continue Reading April 22, 2026 In The News AI-powered statewide 311 approved April 22, 2026 Montgomery Community Media Maryam Shahzad Maryland will use Artificial Intelligence to establish the nation’s first statewide 311 through the bipartisan bill led by State Sen.
 Cheryl Kagan (D-District 17).
-The bill was approved by the Maryland legislature during the General Assembly session …
-Continue Reading
+The bill was approved by the Maryland legislature during the General Assembly session … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

@@ -1,7 +1,9 @@
 {
  "description": "medicaid",
  "final_url": "https://votevarian2026.com/medicaid.html",
- "paid_for_by": null,
+ "fingerprint": "f8ed87986a37e5d5e7edbc374c0dacde82d8be29",
+ "format": 3,
+ "paid_for_by": "",
  "title": "medicaid | VoteVarian2026",
  "years_mentioned": [
   "2018",
@@ -10,6 +12,7 @@
   "2024",
   "2025",
   "2026",
-  "2028"
+  "2028",
+  "2034"
  ]
 }

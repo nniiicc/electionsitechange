@@ -1,15 +1,5 @@
-Media Resources
-Headshots
-Click Images Below to Download.
-Statements
-Click Documents Below to Download.
-Family
-Click Images Below to Download.
-Videos
-Results
-Generic B-Roll
-Additional Videos on Youtube.com/@EricLucanForAssembly/playlists
-In the Community
-Click Images Below to Download
-Logo
-Click Graphics Below to Download.
+0 Skip to Content About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Open Menu Close Menu About Endorsements Priorities Newsroom District & Voting Media Resources Contact CONTRIBUTE Media Resources Headshots Click Images Below to Download.
+Headshot for Print CMYK (1600x2400) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (1600x2400) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (2400x1600) Headshot for Print CMYK (2400x1663) Statements Click Documents Below to Download.
+Get the Truth 10/1/26 Press Release Full Package PDF (with Logo and Headshot) Press Release Word Document Family Click Images Below to Download.
+Photo for Print CMYK (771 × 1080) Photo for Print CKYK (864 × 1080) Photo for Print CMYK (2400 × 1600) Photo for Print CMYK (2400 × 1600) Videos Results Download Video Generic B-Roll Download Video Additional Videos on Youtube.com/@EricLucanForAssembly/playlists In the Community Click Images Below to Download Logo Click Graphics Below to Download.
+Logo for Print CMYK Logo for Web RGB Contribute About Endorsements Priorities Newsroom District & Voting Media Resources Contact Paid for by Eric Lucan for Assembly 2026 | FPPC ID# 1480086

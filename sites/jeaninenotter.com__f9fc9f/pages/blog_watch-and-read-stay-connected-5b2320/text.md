@@ -1,7 +1,6 @@
-Watch & Read: Stay Connected with Jeanine
-I share regular updates and commentary across two channels — feel free to follow along and join the conversation.
-Read: Merrimack Republican Review
-My ongoing column on community news and policy is posted to my public Facebook page.
-Watch: Chattin’ with Jeanine
-Catch the show on Merrimack TV — download the Merrimack TV app, or watch the latest episode on YouTube.
-If you have a question or topic you’d like me to cover, please get in touch!
+Jeanine Notter About Issues Community Contact DONATE ← Back to all posts April 20, 2026 Watch &amp; Read: Stay Connected with Jeanine I share regular updates and commentary across two channels — feel free to follow along and join the conversation.
+Read: Merrimack Republican Review My ongoing column on community news and policy is posted to my public Facebook page .
+Watch: Chattin’ with Jeanine Catch the show on Merrimack TV — download the Merrimack TV app, or watch the latest episode on YouTube .
+If you have a question or topic you’d like me to cover, please get in touch! ← Back to all posts Jeanine Notter Fighting for Granite State Values Quick Links About Jeanine Issues Community Get Involved Donate Contact jeaninenotter@icloud.com (603) 423-0408 Stay Connected Follow the campaign for updates and news from the trail.
+Paid for by Jeanine Notter © # Jeanine Notter.
+All rights reserved.

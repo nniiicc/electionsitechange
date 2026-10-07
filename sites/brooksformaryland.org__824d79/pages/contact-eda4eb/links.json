@@ -1,16 +1,66 @@
 [
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://instagram.com/brooksformaryland",
-"https://paypal.com/donate?hosted_button_id=KDA7MUXYU58CW",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/donate/?hosted_button_id=KDA7MUXYU58CW"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+}
 ]

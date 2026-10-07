@@ -1,18 +1,94 @@
 [
-"https://bsky.app/profile/formerpreznez.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/NezForAZ",
-"https://instagram.com/NezForAZ",
-"https://jonathannezforaz.com/",
-"https://jonathannezforaz.com/endorsements",
-"https://jonathannezforaz.com/issues",
-"https://jonathannezforaz.com/news",
-"https://jonathannezforaz.com/privacy-policy",
-"https://jonathannezforaz.com/volunteer",
-"https://maps.google.com/?q=Jonathan+Nez+for+Congress+%3Cbr%3E+PO+Box+1854+%3Cbr%3E+Flagstaff%2C+AZ+86002",
-"https://mobilize.us/jonathannezforcongress",
-"https://secure.actblue.com/donate/nez-web",
-"https://threads.net/@nezforaz",
-"https://tiktok.com/@nezforaz?_r=1&_t=ZP-97T98MiuF0Y",
-"https://x.com/NezForAZ"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "Agenda",
+"href": "https://www.jonathannezforaz.com/issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nez-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonathannezforaz.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/jonathannezforcongress/"
+},
+{
+"text": "PO BOX 1854FLAGSTAFF, AZ 86002",
+"href": "https://maps.google.com/?q=Jonathan+Nez+for+Congress+%3Cbr%3E+PO+Box+1854+%3Cbr%3E+Flagstaff%2C+AZ+86002"
+},
+{
+"text": "Press",
+"href": "https://www.jonathannezforaz.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jonathannezforaz.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jonathannezforaz.com/volunteer"
+},
+{
+"text": "[image: Jonathan Nez for Congress]",
+"href": "https://www.jonathannezforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/formerpreznez.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/NezForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/NezForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@nezforaz"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@nezforaz?_r=1&_t=ZP-97T98MiuF0Y"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NezForAZ"
+},
+{
+"text": "info@jonathannezforaz.com",
+"href": "mailto:info@jonathannezforaz.com"
+},
+{
+"text": "press@jonathannezforaz.com",
+"href": "mailto:press@jonathannezforaz.com"
+}
 ]

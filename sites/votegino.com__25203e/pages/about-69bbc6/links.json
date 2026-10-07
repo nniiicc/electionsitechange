@@ -1,22 +1,86 @@
 [
-"https://facebook.com/GinoForTennessee",
-"https://iheart.com/podcast/263-town-hall-with-state-repre-108674042",
-"https://instagram.com/ginofortennessee",
-"https://music.amazon.com/podcasts/429ad584-44a9-4344-aeac-8f58b6fb0f0e/town-hall-with-state-representative-gino-bulso-district-61-williamson-county-tn",
-"https://navigationadvertising.com/",
-"https://open.spotify.com/show/6ESE7fOdDq1AIrU2PYvnM0?si=106f0addd29c437b",
-"https://podcasts.apple.com/us/podcast/town-hall-with-state-representative-gino-bulso/id1671240559",
-"https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2MDM1OS9yc3M",
-"https://votegino.com/",
-"https://votegino.com/about",
-"https://votegino.com/blog",
-"https://votegino.com/donate",
-"https://votegino.com/gallery",
-"https://votegino.com/issues",
-"https://votegino.com/legislative-accomplishments",
-"https://votegino.com/news",
-"https://votegino.com/privacy-policy",
-"https://votegino.com/terms-conditions",
-"https://votegino.com/videos",
-"https://youtube.com/@votegino6949"
+{
+"text": "ABOUT",
+"href": "https://votegino.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://votegino.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://votegino.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://votegino.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/GinoForTennessee"
+},
+{
+"text": "GALLERY",
+"href": "https://votegino.com/gallery/"
+},
+{
+"text": "ISSUES",
+"href": "https://votegino.com/issues/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginofortennessee/"
+},
+{
+"text": "LEGISLATION",
+"href": "https://votegino.com/legislative-accomplishments/"
+},
+{
+"text": "Listen on Amazon",
+"href": "https://music.amazon.com/podcasts/429ad584-44a9-4344-aeac-8f58b6fb0f0e/town-hall-with-state-representative-gino-bulso-district-61-williamson-county-tn"
+},
+{
+"text": "Listen on Apple",
+"href": "https://podcasts.apple.com/us/podcast/town-hall-with-state-representative-gino-bulso/id1671240559"
+},
+{
+"text": "Listen on Google",
+"href": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ2MDM1OS9yc3M"
+},
+{
+"text": "Listen on Spotify",
+"href": "https://open.spotify.com/show/6ESE7fOdDq1AIrU2PYvnM0?si=106f0addd29c437b"
+},
+{
+"text": "Listen on iHeart",
+"href": "https://www.iheart.com/podcast/263-town-hall-with-state-repre-108674042/"
+},
+{
+"text": "NEWS",
+"href": "https://votegino.com/news/"
+},
+{
+"text": "Navigation Advertising, LLC",
+"href": "https://navigationadvertising.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegino.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegino.com/terms-conditions"
+},
+{
+"text": "VIDEOS",
+"href": "https://votegino.com/videos/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@votegino6949"
+},
+{
+"text": "[image: Vote for Gino Bulso]",
+"href": "https://votegino.com/"
+}
 ]

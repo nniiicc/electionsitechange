@@ -1,11 +1,46 @@
 [
-"http://instagram.com/mccoy4wa",
-"https://mccoyforwa.com/",
-"https://mccoyforwa.com/about",
-"https://mccoyforwa.com/cart",
-"https://mccoyforwa.com/contact",
-"https://mccoyforwa.com/donation-page",
-"https://mccoyforwa.com/my-plan",
-"https://mccoyforwa.com/schedule",
-"https://youtube.com/@RonMcCoy7thDistrict"
+{
+"text": "0",
+"href": "https://www.mccoyforwa.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.mccoyforwa.com/about"
+},
+{
+"text": "Book now",
+"href": "https://www.mccoyforwa.com/schedule"
+},
+{
+"text": "Contact Ron’s Team",
+"href": "https://www.mccoyforwa.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://www.mccoyforwa.com/contact"
+},
+{
+"text": "Donation Page",
+"href": "https://www.mccoyforwa.com/donation-page"
+},
+{
+"text": "Home",
+"href": "https://www.mccoyforwa.com/"
+},
+{
+"text": "My Plan",
+"href": "https://www.mccoyforwa.com/my-plan"
+},
+{
+"text": "Ron McCoy | Independent for the 7th District",
+"href": "https://www.mccoyforwa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/mccoy4wa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RonMcCoy7thDistrict"
+}
 ]

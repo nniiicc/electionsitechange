@@ -1,27 +1,186 @@
 [
-"http://leahjeanphoto.com/",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/coming-soon",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/environmental-justice-communities-need-representation-on-the-new-mbta-board",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/my-response-to-the-massport-espr",
-"https://adrianmadaro.com/my-testimony-in-support-of-drivers-licenses-for-all",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/news-events/page/2",
-"https://adrianmadaro.com/resources",
-"https://adrianmadaro.com/suffolk-downs-approved",
-"https://adrianmadaro.com/tuition-equity-for-students-in-massachusetts",
-"https://adrianmadaro.com/update-on-suffolk-downs-redevelopment",
-"https://facebook.com/adrianforrep",
-"https://goingclear.com/",
-"https://instagram.com/adrianmadaro",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://twitter.com/adrianmadaro"
+{
+"text": "@adrianmadaro",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Click to show error",
+"href": "javascript:void(0);"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "Environmental Justice Communities Need Representation on the New MBTA Board",
+"href": "https://www.adrianmadaro.com/environmental-justice-communities-need-representation-on-the-new-mbta-board/"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "More news coming soon!",
+"href": "https://www.adrianmadaro.com/coming-soon/"
+},
+{
+"text": "My Statement on the BPDA Approval of HYM’s Suffolk Downs Development",
+"href": "https://www.adrianmadaro.com/suffolk-downs-approved/"
+},
+{
+"text": "My Testimony in Support of Driver’s Licenses for All",
+"href": "https://www.adrianmadaro.com/my-testimony-in-support-of-drivers-licenses-for-all/"
+},
+{
+"text": "My response to the Massport ESPR",
+"href": "https://www.adrianmadaro.com/my-response-to-the-massport-espr/"
+},
+{
+"text": "Newer Posts",
+"href": "https://www.adrianmadaro.com/news-events/page/2/"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/coming-soon/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/environmental-justice-communities-need-representation-on-the-new-mbta-board/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/my-response-to-the-massport-espr/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/my-testimony-in-support-of-drivers-licenses-for-all/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/suffolk-downs-approved/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/tuition-equity-for-students-in-massachusetts/"
+},
+{
+"text": "Read More",
+"href": "https://www.adrianmadaro.com/update-on-suffolk-downs-redevelopment/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "Tuition Equity for Students in Massachusetts",
+"href": "https://www.adrianmadaro.com/tuition-equity-for-students-in-massachusetts/"
+},
+{
+"text": "Update on Suffolk Downs Redevelopment",
+"href": "https://www.adrianmadaro.com/update-on-suffolk-downs-redevelopment/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/coming-soon/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/environmental-justice-communities-need-representation-on-the-new-mbta-board/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/my-response-to-the-massport-espr/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/my-testimony-in-support-of-drivers-licenses-for-all/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/suffolk-downs-approved/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/tuition-equity-for-students-in-massachusetts/"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/update-on-suffolk-downs-redevelopment/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/adrianmadaro"
+}
 ]

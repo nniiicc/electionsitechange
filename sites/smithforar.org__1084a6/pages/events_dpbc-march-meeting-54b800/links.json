@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Democratic+Party+of+Benton+County+-+March+Meeting&dates=20260309T230000Z%2F20260310T010000Z&location=1000+SE+Eagle+Way%2C+Bentonville%2C+AR+72712%2C+United+State",
-"http://instagram.com/smith_for_ar_13",
-"http://maps.google.com/?q=1000+SE+Eagle+Way+Bentonville%2C+AR+72712+United+State",
-"https://democraticpartybentoncounty.org/",
-"https://facebook.com/profile.php?id=61585604871018",
-"https://smithforar.org/",
-"https://smithforar.org/about",
-"https://smithforar.org/cart",
-"https://smithforar.org/donate",
-"https://smithforar.org/events",
-"https://smithforar.org/events/dpbc-march-meeting?format=ical",
-"https://smithforar.org/events/no-kings-march-28",
-"https://smithforar.org/events/primary-election-and-nonpartisan-election-day",
-"https://smithforar.org/get-involved",
-"https://smithforar.org/home",
-"https://smithforar.org/store"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1000+se+eagle+way+bentonville%2C+ar+72712+united+state"
+},
+{
+"text": "0",
+"href": "https://smithforar.org/cart"
+},
+{
+"text": "About",
+"href": "https://smithforar.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Democratic Party of Benton County",
+"href": "https://www.democraticpartybentoncounty.org/"
+},
+{
+"text": "Donate",
+"href": "https://smithforar.org/donate"
+},
+{
+"text": "Events",
+"href": "https://smithforar.org/events"
+},
+{
+"text": "Get Involved",
+"href": "https://smithforar.org/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Democratic+Party+of+Benton+County+-+March+Meeting&dates=20260309T230000Z%2F20260310T010000Z&location=1000+SE+Eagle+Way%2C+Bentonville%2C+AR+72712%2C+United+State"
+},
+{
+"text": "Home",
+"href": "https://smithforar.org/"
+},
+{
+"text": "ICS",
+"href": "https://smithforar.org/events/dpbc-march-meeting?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://smithforar.org/home"
+},
+{
+"text": "Next Next March 28 No Kings National Day of Protest",
+"href": "https://smithforar.org/events/no-kings-march-28"
+},
+{
+"text": "Previous Previous March 3 Primary and Nonpartisan Election Day",
+"href": "https://smithforar.org/events/primary-election-and-nonpartisan-election-day"
+},
+{
+"text": "Store",
+"href": "https://smithforar.org/store"
+},
+{
+"text": "[image: Mitchell Smith for AR 13]",
+"href": "https://smithforar.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/smith_for_ar_13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585604871018"
+}
 ]

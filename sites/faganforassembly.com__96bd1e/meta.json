@@ -1,9 +1,13 @@
 {
- "description": "This is the home for the campaign of Andy G. Fagan for NYS Assembly District 124.",
+ "description": "",
  "final_url": "https://www.faganforassembly.com/",
- "paid_for_by": null,
+ "fingerprint": "1ac4457dc8ec8501b18ac9f232e3c823b974cfc3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Andy G. Fagan for Assembly",
  "years_mentioned": [
-  "2023"
+  "1991",
+  "2023",
+  "2025"
  ]
 }

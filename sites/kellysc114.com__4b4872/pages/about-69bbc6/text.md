@@ -1,3 +1,6 @@
+Skip navigation menu Why I'm running Priorities District 114 Events Volunteer Contact Need to know!
+Donate KELLY HOUGH SOUTH CAROLINA STATE REPRESENTATIVE DISTRICT 114 Why I'm running Priorities District 114 Events Volunteer Contact Need to know!
+Donate KELLY HOUGH SOUTH CAROLINA STATE REPRESENTATIVE DISTRICT 114 Meet Kelly !
 As a proud South Carolina native, I’ve experienced firsthand the long-standing challenges our state continues to face.
 I’ve lived the education gaps, the financial pressures, the healthcare barriers, and the ongoing conversations around women’s rights and civil liberties.
 Challenges that have shaped our communities for generations.
@@ -16,3 +19,5 @@ It’s time for action, responsible growth, strengthening our economy, investing
 Our state deserves leadership shaped by experience, grounded in community, and driven by action.
 I want to improve the state of South Carolina by "Leading change.
 Together".
+Leading Change.
+Together KellyHoughSC114@gmail.com Privacy Policy and Terms and Conditions Powered by RUN! website builder Paid for by Kelly Hough for SC State House 114 You need to enable JavaScript to run this app.

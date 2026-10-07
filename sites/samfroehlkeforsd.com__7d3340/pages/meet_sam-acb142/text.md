@@ -1,5 +1,4 @@
-About Sam Froehlke
-I am running for the South Dakota House of Representatives as an independent candidate in 2026.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles About Sam Froehlke I am running for the South Dakota House of Representatives as an independent candidate in 2026.
 Who am I?
 I grew up and have spent most of my life outside of Toronto, South Dakota.
 While I am a fundamentalist Christian, I believe strongly in the separation of church and state, for the preservation of both.
@@ -16,3 +15,4 @@ It is taken for granted that we will spend infinite amounts of money on our scho
 Mortgages are issued wherein homebuyers pay more than the cost of the entire house just in interest.
 We pay more in health insurance premiums than it costs to actually run the hospitals, but still can't afford to use them, even with insurance.
 We made a world that we can no longer live in, and we need a way out.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

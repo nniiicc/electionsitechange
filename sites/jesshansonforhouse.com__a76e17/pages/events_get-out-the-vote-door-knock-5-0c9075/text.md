@@ -1,11 +1,7 @@
-Back to All Events
-Help DFLers get out the vote in Savage and Burnsville.
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate Back to All Events Get out the Vote Door Knock Saturday, October 29, 2022 9:00 AM 6:00 PM Burnsville Action Center 101 Burnsville Parkway Burnsville, MN, 55337 United States (map) Google Calendar ICS Help DFLers get out the vote in Savage and Burnsville.
 Shifts start 9:00am, 12:00pm, and 3:00pm.
-Sign up here: https://www.mobilize.us/mobilize/event/515645/
-Previous
-Previous
-October 28
-Get out the Vote Door Knock
-Next
-Next
-October 30
+Sign up here: https://www.mobilize.us/mobilize/event/515645/ Posted In: Volunteer Previous Previous October 28 Get out the Vote Door Knock Next Next October 30 Get out the Vote Door Knock Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

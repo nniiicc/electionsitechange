@@ -1,6 +1,4 @@
-andrea biscardi
-Improving our children's future
-For too long, Oklahoma schools have been underfunded while teachers are asked to do more with fewer resources.
+Skip navigation menu Home About Issues Get Involved Donate Home About Issues Get Involved Donate Affordable healthcare for all Improving our children's future Cost of Living andrea biscardi Improving our children's future For too long, Oklahoma schools have been underfunded while teachers are asked to do more with fewer resources.
 Andrea supports increased funding for public schools so classrooms have the tools, technology, and support students need to succeed.
 She also supports meaningful pay raises for teachers and school staff who work tirelessly to educate and support Oklahoma’s children.
 Retaining great teachers starts with treating them like the professionals they are.
@@ -11,3 +9,6 @@ Many families struggle to afford childcare, daycare, and early childhood educati
 She supports expanding access to affordable daycare and preschool programs so working families can thrive and children can begin school prepared to learn and succeed.
 Strong public schools create stronger communities, a stronger workforce, and a stronger Oklahoma.
 Andrea is committed to investing in students, supporting educators, and ensuring every child has the opportunity to build a bright future.
+Ways to Donate Privacy Policy Taking care of Oklahoma means taking care of each other.
+Contact Us: biscardi4ok@gmail.com Powered by RUN! website builder PAID FOR AND AUTHORIZED BY Biscardi for Oklahoma 2026.
+You need to enable JavaScript to run this app.

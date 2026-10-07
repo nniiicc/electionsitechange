@@ -1,50 +1,202 @@
 [
-"https://ap.gilderlehrman.org/essays/populism-and-agrarian-discontent",
-"https://cbo.gov/system/files/2019-11/55824-CBO-MBR-FY19.pdf",
-"https://covidmoneytracker.org/",
-"https://crfb.org/blogs/whats-fourth-coronavirus-package",
-"https://discord.com/login",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://federalreserve.gov/monetarypolicy/reservereq.htm",
-"https://federalreserve.gov/newsevents/pressreleases/files/monetary20210625a1.pdf",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://fred.stlouisfed.org/series/GFDEBTN",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://instagram.com/kevinmccormick2026",
-"https://justmoney.org/endorsing-the-money-creation-view",
-"https://justmoney.org/l-zelmanovitz-and-b-meyerhof-salama-central-bank-digital-currency-the-hidden-agenda",
-"https://justmoney.org/roundtable-1-prompt",
-"https://justmoney.org/the-constitution-and-the-fed-after-the-covid-19-crisis-2",
-"https://kmm2026.org/",
-"https://kmm2026.org/2016campaign",
-"https://kmm2026.org/about",
-"https://kmm2026.org/business-cards",
-"https://kmm2026.org/campaign2026",
-"https://kmm2026.org/contact",
-"https://kmm2026.org/donate-now",
-"https://kmm2026.org/issues2026",
-"https://kmm2026.org/monetary",
-"https://kmm2026.org/monetary/a-program-for-monetary-reform",
-"https://kmm2026.org/monetary/mrblog",
-"https://kmm2026.org/monetary/the-nature-of-money-in-modern-economy-implications-and-consequences",
-"https://kmm2026.org/transportation",
-"https://kmm2026.org/www-project-syndicate-org.ezp-prod1.hul.harvard.edu/commentary/monetary-finance-of-covid19-fiscaldeficits-by-adair-turner-2020-04",
-"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056241",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://secure.facebook.com/login",
-"https://slideshare.net/CRFBGraphics/crfb-who-owns-the-debt-webinar-slide-deck-233594050",
-"https://ssrn.com/abstract=3192162",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://webmd.com/lung/news/20210330/striking-increase-in-childhoood-obesity-during-pandemic",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+{
+"text": "2016 Campaign",
+"href": "https://www.kmm2026.org/2016campaign"
+},
+{
+"text": "About",
+"href": "https://www.kmm2026.org/about"
+},
+{
+"text": "Business Card Campaign",
+"href": "https://www.kmm2026.org/business-cards"
+},
+{
+"text": "Campaign Donations",
+"href": "https://www.kmm2026.org/donate-now"
+},
+{
+"text": "Campaign-2026",
+"href": "https://www.kmm2026.org/campaign2026"
+},
+{
+"text": "Central Bank Digital Currency: the Hidden Agenda",
+"href": "https://justmoney.org/l-zelmanovitz-and-b-meyerhof-salama-central-bank-digital-currency-the-hidden-agenda/"
+},
+{
+"text": "Contact",
+"href": "https://www.kmm2026.org/contact"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "Endorsing the Money-creation View",
+"href": "https://justmoney.org/endorsing-the-money-creation-view/"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Harvard Public Law Working Paper No. 22-04",
+"href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4056241"
+},
+{
+"text": "Home",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "Issues-2026",
+"href": "https://www.kmm2026.org/issues2026"
+},
+{
+"text": "MR-Blog",
+"href": "https://www.kmm2026.org/monetary/mrblog"
+},
+{
+"text": "Monetary",
+"href": "https://www.kmm2026.org/monetary"
+},
+{
+"text": "Next article: A Program for Monetary Reform Next",
+"href": "https://www.kmm2026.org/monetary/a-program-for-monetary-reform"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "Paycheck Protection Program Liquidity Facility Term Sheet",
+"href": "https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20210625a1.pdf"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Populism and Agrarian Discontent",
+"href": "https://ap.gilderlehrman.org/essays/populism-and-agrarian-discontent"
+},
+{
+"text": "Previous article: The Nature of Money in Modern Economy -- Implications and Consequences Prev",
+"href": "https://www.kmm2026.org/monetary/the-nature-of-money-in-modern-economy-implications-and-consequences"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Roundtable on Banking: Intermediation or Money Creation",
+"href": "https://justmoney.org/roundtable-1-prompt/"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "The Constitution and the Fed after COVID-19",
+"href": "https://justmoney.org/the-constitution-and-the-fed-after-the-covid-19-crisis-2/"
+},
+{
+"text": "Transportation",
+"href": "https://www.kmm2026.org/transportation"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "What's in the Fourth Coronavirus Package?",
+"href": "https://www.crfb.org/blogs/whats-fourth-coronavirus-package"
+},
+{
+"text": "Who is Buying Our New COVID-19 Debt?(2020)",
+"href": "https://www.slideshare.net/CRFBGraphics/crfb-who-owns-the-debt-webinar-slide-deck-233594050"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "fred.stlouisfed.org/series/GFDEBTN",
+"href": "https://fred.stlouisfed.org/series/GFDEBTN"
+},
+{
+"text": "https://ssrn.com/abstract=3192162",
+"href": "https://ssrn.com/abstract=3192162"
+},
+{
+"text": "https://www.covidmoneytracker.org/",
+"href": "https://www.covidmoneytracker.org/"
+},
+{
+"text": "https://www.federalreserve.gov/monetarypolicy/reservereq.htm",
+"href": "https://www.federalreserve.gov/monetarypolicy/reservereq.htm"
+},
+{
+"text": "monetary-finance-of-covid19-fiscaldeficits-by-adair-turner-2020-04",
+"href": "https://www.kmm2026.org/www-project-syndicate-org.ezp-prod1.hul.harvard.edu/commentary/monetary-finance-of-covid19-fiscaldeficits-by-adair-turner-2020-04"
+},
+{
+"text": "www.cbo.gov/system/files/2019-11/55824-CBO-MBR-FY19.pdf",
+"href": "https://www.cbo.gov/system/files/2019-11/55824-CBO-MBR-FY19.pdf"
+},
+{
+"text": "‘Striking’ Increase in Childhood Obesity During Pandemic",
+"href": "https://www.webmd.com/lung/news/20210330/striking-increase-in-childhoood-obesity-during-pandemic"
+}
 ]

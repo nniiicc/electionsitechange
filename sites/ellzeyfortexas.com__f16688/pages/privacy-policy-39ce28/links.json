@@ -1,15 +1,62 @@
 [
-"https://ellzey.house.gov/",
-"https://ellzeyfortexas.com/",
-"https://ellzeyfortexas.com/about",
-"https://ellzeyfortexas.com/in-the-district",
-"https://ellzeyfortexas.com/issues",
-"https://ellzeyfortexas.com/media",
-"https://ellzeyfortexas.com/news",
-"https://ellzeyfortexas.com/press",
-"https://ellzeyfortexas.com/privacy-policy",
-"https://facebook.com/CommanderEllzey",
-"https://instagram.com/commanderellzey?hl=en",
-"https://secure.winred.com/jake-ellzey-for-congress/donate",
-"https://x.com/JakeEllzey"
+{
+"text": "About",
+"href": "https://ellzeyfortexas.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jake-ellzey-for-congress/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/CommanderEllzey/"
+},
+{
+"text": "In the District",
+"href": "https://ellzeyfortexas.com/in-the-district/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/commanderellzey/?hl=en"
+},
+{
+"text": "Issues",
+"href": "https://ellzeyfortexas.com/issues/"
+},
+{
+"text": "Looking for constituent services? Visit my official website.",
+"href": "https://ellzey.house.gov/"
+},
+{
+"text": "Media",
+"href": "https://ellzeyfortexas.com/media/"
+},
+{
+"text": "News",
+"href": "https://ellzeyfortexas.com/news/"
+},
+{
+"text": "Press",
+"href": "https://ellzeyfortexas.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ellzeyfortexas.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JakeEllzey"
+},
+{
+"text": "[image]",
+"href": "https://ellzeyfortexas.com"
+},
+{
+"text": "[no text]",
+"href": "https://ellzeyfortexas.com"
+},
+{
+"text": "info@ellzeyfortexas.com",
+"href": "mailto:info@ellzeyfortexas.com"
+}
 ]

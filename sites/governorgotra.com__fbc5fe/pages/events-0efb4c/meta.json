@@ -1,7 +1,9 @@
 {
  "description": "Public / Events Public on Governor Gotra. Governor Gotra helps you organize, track, and share your work in 1 unified.",
  "final_url": "https://governorgotra.com/events",
- "paid_for_by": null,
+ "fingerprint": "129b1d67d33204a503ead36332ca576c3a5536e6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Public / Events Public | Governor Gotra",
  "years_mentioned": []
 }

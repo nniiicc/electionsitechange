@@ -1,19 +1,206 @@
 [
-"https://briancalaway.com/",
-"https://briancalaway.com/about",
-"https://briancalaway.com/blog",
-"https://briancalaway.com/campaign-intro.mp4",
-"https://briancalaway.com/contact",
-"https://briancalaway.com/es",
-"https://briancalaway.com/events",
-"https://briancalaway.com/issues",
-"https://briancalaway.com/privacy",
-"https://briancalaway.com/terms",
-"https://briancalaway.com/volunteer",
-"https://facebook.com/profile.php?id=61587058792033",
-"https://instagram.com/calaway.brian",
-"https://music.amazon.com/podcasts/5bcd0f90-9e89-42a7-9097-7bc4c1f0bd67/the-brian-calaway-podcast",
-"https://open.spotify.com/show/033P1mx9U9CqYRvfUBwYAF",
-"https://x.com/BrianCalawayPod",
-"https://youtube.com/@TheBrianCalawayPodcast"
+{
+"text": "About",
+"href": "https://www.briancalaway.com/about"
+},
+{
+"text": "About Brian",
+"href": "https://www.briancalaway.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.briancalaway.com/blog"
+},
+{
+"text": "Brian's Full Story →",
+"href": "https://www.briancalaway.com/about"
+},
+{
+"text": "Contact Brian",
+"href": "https://www.briancalaway.com/contact"
+},
+{
+"text": "Download it instead.",
+"href": "https://www.briancalaway.com/campaign-intro.mp4"
+},
+{
+"text": "EN",
+"href": "https://www.briancalaway.com/"
+},
+{
+"text": "ES",
+"href": "https://www.briancalaway.com/es"
+},
+{
+"text": "Events",
+"href": "https://www.briancalaway.com/events"
+},
+{
+"text": "Follow Brian",
+"href": "https://www.instagram.com/calaway.brian/"
+},
+{
+"text": "Full Policy Platform →",
+"href": "https://www.briancalaway.com/issues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.briancalaway.com/#get-involved"
+},
+{
+"text": "Get involved →",
+"href": "https://www.briancalaway.com/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.briancalaway.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.briancalaway.com/#issues"
+},
+{
+"text": "Issues",
+"href": "https://www.briancalaway.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.briancalaway.com/issues#education"
+},
+{
+"text": "Learn More",
+"href": "https://www.briancalaway.com/issues#healthcare"
+},
+{
+"text": "Learn More",
+"href": "https://www.briancalaway.com/issues#jobs-economy"
+},
+{
+"text": "Podcast on Amazon Music",
+"href": "https://music.amazon.com/podcasts/5bcd0f90-9e89-42a7-9097-7bc4c1f0bd67/the-brian-calaway-podcast"
+},
+{
+"text": "Podcast on Spotify",
+"href": "https://open.spotify.com/show/033P1mx9U9CqYRvfUBwYAF"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.briancalaway.com/privacy"
+},
+{
+"text": "Read the platform →",
+"href": "https://www.briancalaway.com/issues"
+},
+{
+"text": "See Brian's Full Platform →",
+"href": "https://www.briancalaway.com/#issues"
+},
+{
+"text": "See where he stands →",
+"href": "https://www.briancalaway.com/issues"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://www.briancalaway.com/volunteer"
+},
+{
+"text": "Terms",
+"href": "https://www.briancalaway.com/terms"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.briancalaway.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.briancalaway.com/volunteer"
+},
+{
+"text": "Volunteer →",
+"href": "https://www.briancalaway.com/volunteer"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@TheBrianCalawayPodcast"
+},
+{
+"text": "[image: Affordable Housing] Affordable Housing Safe, attainable homes across the state",
+"href": "https://www.briancalaway.com/issues#affordable-housing"
+},
+{
+"text": "[image: Agriculture & Water] Agriculture & Water Protecting Arizona farmers and our water supply",
+"href": "https://www.briancalaway.com/issues#agriculture-water"
+},
+{
+"text": "[image: Brian Calaway at the microphone — The Brian Calaway Podcast, on Apple Podcasts, YouTube, Spotify, and Amazon Music]",
+"href": "https://www.youtube.com/@TheBrianCalawayPodcast"
+},
+{
+"text": "[image: Brian Calaway for House]",
+"href": "https://www.briancalaway.com/"
+},
+{
+"text": "[image: Education] Education Fully funded schools and fair pay for teachers",
+"href": "https://www.briancalaway.com/issues#education"
+},
+{
+"text": "[image: Education] Education Fully funded schools and fair pay for teachers Education A state that underfunds its schools is borrowing from its future. Arizona has consistently ranked near the bottom in per-pupil spending. That stops. Brian will fight to fully fund classrooms and pay teachers what they deserve. ▸ Fully fund K-12 public schools to meet constitutional requirements▸ Increase teacher pay to competitive levels to recruit and retain great educators View Full Position →",
+"href": "https://www.briancalaway.com/issues#education"
+},
+{
+"text": "[image: Healthcare] Healthcare Affordable, quality care for Arizona families",
+"href": "https://www.briancalaway.com/issues#healthcare"
+},
+{
+"text": "[image: Healthcare] Healthcare Affordable, quality care for Arizona families Healthcare Healthcare costs are squeezing Arizona families. No one should have to choose between medical care and keeping the lights on. Brian will fight for policies that make quality healthcare accessible to every Arizonan. ▸ Protect and expand Medicaid (AHCCCS) coverage for Arizona families▸ Lower prescription drug costs through transparent pricing and bulk purchasing View Full Position →",
+"href": "https://www.briancalaway.com/issues#healthcare"
+},
+{
+"text": "[image: Income Security] Income Security Economic protection and financial stability for all",
+"href": "https://www.briancalaway.com/issues#income-security"
+},
+{
+"text": "[image: Jobs & Economy] Jobs & Economy Living wages and good jobs for every Arizonan",
+"href": "https://www.briancalaway.com/issues#jobs-economy"
+},
+{
+"text": "[image: Jobs & Economy] Jobs & Economy Living wages and good jobs for every Arizonan Jobs & Economy Arizona has world-class talent in engineering, technology, and innovation. Brian believes we can build an economy that keeps that talent here while creating real pathways for every Arizonan to participate — not just the lucky few. ▸ Support small businesses and local entrepreneurs with reduced regulatory friction▸ Invest in workforce development and job training aligned with industry needs View Full Position →",
+"href": "https://www.briancalaway.com/issues#jobs-economy"
+},
+{
+"text": "[image: Safe Communities] Safe Communities Strong families and neighborhoods across Arizona",
+"href": "https://www.briancalaway.com/issues#safe-communities"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587058792033"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/calaway.brian/"
+},
+{
+"text": "[tooltip: Podcast on Amazon Music]",
+"href": "https://music.amazon.com/podcasts/5bcd0f90-9e89-42a7-9097-7bc4c1f0bd67/the-brian-calaway-podcast"
+},
+{
+"text": "[tooltip: Podcast on Spotify]",
+"href": "https://open.spotify.com/show/033P1mx9U9CqYRvfUBwYAF"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/BrianCalawayPod"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/@TheBrianCalawayPodcast"
+},
+{
+"text": "[tooltip: campaign@briancalaway.com]",
+"href": "mailto:campaign@briancalaway.com"
+},
+{
+"text": "campaign@briancalaway.com",
+"href": "mailto:campaign@briancalaway.com"
+}
 ]

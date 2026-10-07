@@ -1,12 +1,50 @@
 [
-"https://apps.sos.iowa.gov/elections/absenteeballotstatus/absentee/search",
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://kendraforiowa.com/",
-"https://kendraforiowa.com/about",
-"https://kendraforiowa.com/connect",
-"https://kendraforiowa.com/issues",
-"https://kendraforiowa.com/privacy-policy",
-"https://rayguncustom.com/collections/kendra-haug-for-iowa",
-"https://secure.actblue.com/donate/kendra-haug-1"
+{
+"text": "About",
+"href": "https://www.kendraforiowa.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kendra-haug-1"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/kendra-haug-1"
+},
+{
+"text": "Find Your Location",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.kendraforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.kendraforiowa.com/issues"
+},
+{
+"text": "Let's Connect",
+"href": "https://www.kendraforiowa.com/connect"
+},
+{
+"text": "Merch",
+"href": "https://www.rayguncustom.com/collections/kendra-haug-for-iowa"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.kendraforiowa.com/privacy-policy"
+},
+{
+"text": "Track Your Ballot",
+"href": "https://apps.sos.iowa.gov/elections/absenteeballotstatus/absentee/search"
+},
+{
+"text": "Verify Your Registration",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "[image: Kendra logo package-04.png]",
+"href": "https://www.kendraforiowa.com"
+}
 ]

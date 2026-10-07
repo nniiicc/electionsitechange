@@ -1,4 +1,7 @@
-Hello!
+0 Skip to Content Write In Jayna Lynn Russelburg for Kentucky Senate District 4 Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events Open Menu Close Menu Open Menu Close Menu Write In Jayna Lynn Russelburg for Kentucky Senate District 4 Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events Home About Me Education Healthcare Disability & Families Cost of Living Strong Communities Workers & Business How Will We Pay For It?
+Upcoming Events Hello!
 I’m Jayna Lynn Russelburg.
 I’m running as a write-in candidate in Kentucky’s Senate District 4.
 As a mom, wife, educator, community advocate and lifelong Kentuckian, I have seen firsthand how amazing our neighbors are in this “neck of the woods”.
@@ -33,3 +36,6 @@ I will learn.
 I will tell you the truth as I understand it.
 I will admit when I’m wrong.
 And I will never forget who I’m supposed to be working for.
+Because Kentucky doesn’t belong to politicians.
+It belongs to us.
+Write In Janyna Lynn Russelburg for Kentucky Senate District 4: Henderson, Hopkins, Union & Webster

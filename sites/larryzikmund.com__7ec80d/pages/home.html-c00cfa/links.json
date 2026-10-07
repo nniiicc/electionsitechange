@@ -1,11 +1,38 @@
 [
-"https://larryzikmund.com/about-1.html",
-"https://larryzikmund.com/contact-us.html",
-"https://larryzikmund.com/family.html",
-"https://larryzikmund.com/home.html",
-"https://larryzikmund.com/issues.html",
-"https://larryzikmund.com/legislation.html",
-"https://larryzikmund.com/photos.html",
-"https://larryzikmund.com/privacy.html",
-"https://secureserver.net/hosting/website-builder.aspx?pl_id=451551&cvosrc=assets.wsb_badge.wsb_badge"
+{
+"text": "About",
+"href": "https://www.larryzikmund.com/about-1.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.larryzikmund.com/contact-us.html"
+},
+{
+"text": "Family",
+"href": "https://www.larryzikmund.com/family.html"
+},
+{
+"text": "Home",
+"href": "https://www.larryzikmund.com/home.html"
+},
+{
+"text": "Issues",
+"href": "https://www.larryzikmund.com/issues.html"
+},
+{
+"text": "Legislation",
+"href": "https://www.larryzikmund.com/legislation.html"
+},
+{
+"text": "Photos",
+"href": "https://www.larryzikmund.com/photos.html"
+},
+{
+"text": "Privacy",
+"href": "https://www.larryzikmund.com/privacy.html"
+},
+{
+"text": "[image]",
+"href": "https://www.secureserver.net/hosting/website-builder.aspx?pl_id=451551&cvosrc=assets.wsb_badge.wsb_badge"
+}
 ]

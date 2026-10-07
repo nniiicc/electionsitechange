@@ -1,14 +1,62 @@
 [
-"https://aberforsenate.com/",
-"https://aberforsenate.com/es/platform",
-"https://aberforsenate.com/platform",
-"https://act.aberforsenate.com/events-map",
-"https://darcyfeeley.com/",
-"https://ericthor.com/",
-"https://facebook.com/aberforassembly",
-"https://instagram.com/aberkawas",
-"https://jennahamed.com/",
-"https://secure.actblue.com/donate/aberforsenate",
-"https://x.com/AberKawas",
-"https://zacharyschulman.com/"
+{
+"text": "Darcy Feeley",
+"href": "https://darcyfeeley.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aberforsenate"
+},
+{
+"text": "English",
+"href": "https://aberforsenate.com/platform/"
+},
+{
+"text": "Eric Thor",
+"href": "https://ericthor.com"
+},
+{
+"text": "Español",
+"href": "https://aberforsenate.com/es/platform/"
+},
+{
+"text": "Events",
+"href": "https://act.aberforsenate.com/events-map"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/aberforassembly"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/aberkawas/"
+},
+{
+"text": "Jenna Hamed",
+"href": "https://www.jennahamed.com/"
+},
+{
+"text": "Platform",
+"href": "https://aberforsenate.com/platform/"
+},
+{
+"text": "Volunteer",
+"href": "https://act.aberforsenate.com/events-map"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/AberKawas"
+},
+{
+"text": "Zachary Schulman",
+"href": "https://zacharyschulman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://aberforsenate.com/"
+},
+{
+"text": "info@aberforsenate.com",
+"href": "mailto:info@aberforsenate.com"
+}
 ]

@@ -1,16 +1,58 @@
 [
-"https://amyslavensky.com/",
-"https://amyslavensky.com/about",
-"https://amyslavensky.com/amy-priorities",
-"https://amyslavensky.com/contact",
-"https://amyslavensky.com/events",
-"https://amyslavensky.com/home",
-"https://amyslavensky.com/news",
-"https://amyslavensky.com/volunteer",
-"https://amyslavensky.com/what-i-stand-for",
-"https://designedtorun.com/",
-"https://facebook.com/Amy4Assembly2026",
-"https://instagram.com/amyforassembly",
-"https://secure.actblue.com/donate/amyslavensky2026",
-"https://youtube.com/@Amy4Assembly2026"
+{
+"text": "About",
+"href": "https://www.amyslavensky.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.amyslavensky.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amyslavensky2026"
+},
+{
+"text": "Events",
+"href": "https://www.amyslavensky.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.amyslavensky.com/home"
+},
+{
+"text": "My Priorities",
+"href": "https://www.amyslavensky.com/amy-priorities"
+},
+{
+"text": "Press & Media",
+"href": "https://www.amyslavensky.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.amyslavensky.com/volunteer"
+},
+{
+"text": "What I Stand For",
+"href": "https://www.amyslavensky.com/what-i-stand-for"
+},
+{
+"text": "[image: Amy Slavensky for Assembly 2026]",
+"href": "https://www.amyslavensky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Amy4Assembly2026/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/amyforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Amy4Assembly2026"
+}
 ]

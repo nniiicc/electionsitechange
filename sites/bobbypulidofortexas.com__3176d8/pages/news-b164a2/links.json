@@ -1,22 +1,86 @@
 [
-"https://bobbypulidofortexas.com/",
-"https://bobbypulidofortexas.com/creator-hub",
-"https://bobbypulidofortexas.com/issues",
-"https://bobbypulidofortexas.com/meet-bobby",
-"https://bobbypulidofortexas.com/news",
-"https://bobbypulidofortexas.com/privacy-policy",
-"https://bobbypulidofortexas.com/terms-conditions",
-"https://facebook.com/profile.php?id=61578676024907",
-"https://instagram.com/bobbypulidofortexas",
-"https://msnbc.com/msnbc/news/bobby-pulido-texas-congress-announcement-rcna231759",
-"https://mysanantonio.com/news/local/politics/article/bobby-pulido-congress-21051649.php",
-"https://rollcall.com/2025/10/15/latino-victory-fund-endorsements-midterm-elections",
-"https://rollingstone.com/music/music-latin/bobby-pulido-officially-running-congress-south-texas-1235429306",
-"https://secure.actblue.com/donate/pulido-website&refcode=website-footer",
-"https://secure.actblue.com/donate/pulido-website&refcode=website-header",
-"https://store.bobbypulidofortexas.com/",
-"https://texastribune.org/2025/09/17/bobby-pulido-launches-texas-congress-campaign",
-"https://thebulwark.com/p/tejano-music-star-bobby-pulido-could-upend-south-texas-gerrymandering",
-"https://tiktok.com/@BobbyPulidoforTexas",
-"https://x.com/PulidoforTexas"
+{
+"text": "Creator Hub",
+"href": "https://www.bobbypulidofortexas.com/creator-hub/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pulido-website&refcode=website-footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pulido-website&refcode=website-header"
+},
+{
+"text": "Issues",
+"href": "https://www.bobbypulidofortexas.com/issues/"
+},
+{
+"text": "Meet Bobby",
+"href": "https://www.bobbypulidofortexas.com/meet-bobby/"
+},
+{
+"text": "News",
+"href": "https://www.bobbypulidofortexas.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bobbypulidofortexas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.bobbypulidofortexas.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.bobbypulidofortexas.com/terms-conditions"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://www.bobbypulidofortexas.com/"
+},
+{
+"text": "[image: Latin Grammy star quits music to run for Congress as Texas Democrat] Latin Grammy star quits music to run for Congress as Texas Democrat",
+"href": "https://www.msnbc.com/msnbc/news/bobby-pulido-texas-congress-announcement-rcna231759"
+},
+{
+"text": "[image: Latino Victory Fund backs 4 new House Democratic candidates] Latino Victory Fund backs 4 new House Democratic candidates",
+"href": "https://rollcall.com/2025/10/15/latino-victory-fund-endorsements-midterm-elections/"
+},
+{
+"text": "[image: Tejano Icon Bobby Pulido is Officially Running for Congress: South Texas is 'in my DNA'] Tejano Icon Bobby Pulido is Officially Running for Congress: South Texas is 'in my DNA'",
+"href": "https://www.rollingstone.com/music/music-latin/bobby-pulido-officially-running-congress-south-texas-1235429306/"
+},
+{
+"text": "[image: Tejano star Bobby Pulido launches South Texas congressional run] Tejano star Bobby Pulido launches South Texas congressional run",
+"href": "https://www.texastribune.org/2025/09/17/bobby-pulido-launches-texas-congress-campaign/"
+},
+{
+"text": "[image: Tejano star Bobby Pulido launches bid to flip South TX congressional seat blue again] Tejano star Bobby Pulido launches bid to flip South TX congressional seat blue again",
+"href": "https://www.mysanantonio.com/news/local/politics/article/bobby-pulido-congress-21051649.php"
+},
+{
+"text": "[image: This Tejano Music Star Could Upend Gerrymandering in South Texas] This Tejano Music Star Could Upend Gerrymandering in South Texas",
+"href": "https://www.thebulwark.com/p/tejano-music-star-bobby-pulido-could-upend-south-texas-gerrymandering"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.bobbypulidofortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578676024907"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobbypulidofortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@BobbyPulidoforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PulidoforTexas"
+}
 ]

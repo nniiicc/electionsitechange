@@ -1,4 +1,4 @@
-One week on the campaign trail and, not surprisingly, the question so many have asked is why I’m running and why I’d want to spend the time in Olympia that this job requires.
+Skip to content Home About Priorities News Contact Volunteer Donate December 11, 2025 One week on the campaign trail and, not surprisingly, the question so many have asked is why I’m running and why I’d want to spend the time in Olympia that this job requires.
 That’s why I’m running!
 Our district deserves a real voice in Olympia.
 We need someone who shows up, speaks up, and fights for us every day.
@@ -15,3 +15,4 @@ We can’t be an afterthought for our own legislators.
 We need someone who will champion our needs, our schools, our economy, and our future.
 That is why I’m running.
 I’m stepping up because it’s time we finally had someone in Olympia who represents us, and I will.
+Uncategorized Archive September 2026 June 2026 May 2026 April 2026 March 2026 February 2026 January 2026 December 2025 Recent Posts Endorsements (Updated) Washington Must Prepare for Budget Volatility Why It Really Is (Almost) All About Costs What Modern Youth Sports Can Tell Us About America Each Generation’s Duty to the Next Home About Priorities News Contact Donate Privacy Policy News Contact Donate Get in Touch: sarleyforwashington@gmail.com Facebook Instagram Paid for by Derek Sarley for State Representative | PO Box 292 Walla Walla, WA 99362 Powered by Herding Cats 🐈‍⬛

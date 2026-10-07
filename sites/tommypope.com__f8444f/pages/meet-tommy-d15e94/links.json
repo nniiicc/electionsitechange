@@ -1,18 +1,82 @@
 [
-"https://facebook.com/popeforhouse47",
-"https://joshethan.com/",
-"https://linkedin.com/in/tommy-pope-94a54232",
-"https://tommypope.com/",
-"https://tommypope.com/contact",
-"https://tommypope.com/district-map",
-"https://tommypope.com/join",
-"https://tommypope.com/legislative-updates",
-"https://tommypope.com/meet-tommy",
-"https://tommypope.com/privacy-policy",
-"https://tommypope.com/support",
-"https://tommypope.com/terms-and-conditions",
-"https://tommypope.com/wp-content/uploads/2022/07/KK2_1597-scaled.jpg",
-"https://tommypope.com/wp-content/uploads/2022/07/KK7_5784-scaled.jpg",
-"https://twitter.com/tommypopesc?lang=en",
-"https://youtube.com/user/tommypopeforhouse"
+{
+"text": "Contact Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://tommypope.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Donate today",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/popeforhouse47/"
+},
+{
+"text": "Join the Pope Team",
+"href": "https://tommypope.com/join/"
+},
+{
+"text": "Josh Ethan",
+"href": "https://joshethan.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://tommypope.com/legislative-updates/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/tommy-pope-94a54232/"
+},
+{
+"text": "Meet Tommy",
+"href": "https://tommypope.com/meet-tommy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tommypope.com/privacy-policy/"
+},
+{
+"text": "Reach Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "Support",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Support tommy",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tommypope.com/terms-and-conditions/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/tommypopesc?lang=en"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/tommypopeforhouse"
+},
+{
+"text": "[image]",
+"href": "https://tommypope.com"
+},
+{
+"text": "[no text]",
+"href": "https://tommypope.com/wp-content/uploads/2022/07/KK2_1597-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://tommypope.com/wp-content/uploads/2022/07/KK7_5784-scaled.jpg"
+}
 ]

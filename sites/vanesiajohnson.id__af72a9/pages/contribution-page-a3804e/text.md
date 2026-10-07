@@ -1,6 +1,8 @@
-PAYPAL @vanesiajohnson
-CASHAPP$ vanesiajo
-MAILBOX
-Make Check Payable to: Vanesia R.
+Skip to content Menu Menu HOME HER CAREER Biography Specialty Areas Workforce Training Executive Coaching Financial Literacy Coaching Political Strategy and Consulting Behavioral Health Consulting Program Management Consulting Program Types Advocacy, Activism, & Community Mobilization Employee Assistance Program (EAP) Partial Hospitalization Program Behavioral Health Services Optimum Health & Wellness Counseling Services Case Management Services HER SERVICE Fort Bend County Fort Bend Independent School District Harris County State of Texas City of Houston Affiliations HER WORK Child Welfare Criminal Justice Diversity and Inclusion Environmental Justice Healthcare Juvenile Justice Mental Health Public Education Small Business HER ADVOCACY End Death By Pregnancy Fully Fund Public Education Healthcare for All Justice Involved Mental Health Access Ranked Choice Voting Entrepreneurship and Small Business Property Tax Reform CONTRIBUTION PAYPAL @vanesiajohnson CASHAPP$ vanesiajo MAILBOX Make Check Payable to: Vanesia R.
 Johnson P.O.
-Box 2234 Sugar Land, TX 77487-2234
+Box 2234 Sugar Land, TX 77487-2234 Let's Connect Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+USD Name * First Last Occupation Email Phone USD Country Address City State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Zip Code Country Your message Submit © # VRJ & Associates, LLC.
+All Rights Reserved.
+P.O.
+Box 2234 Sugar Land, TX 77487 vrjassociates@hotmail.com

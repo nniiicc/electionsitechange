@@ -1,19 +1,82 @@
 [
-"https://ago.mo.gov/",
-"https://christiancountymo.gov/offices/county-clerk",
-"https://google.com/maps/place/201+W+Capitol+Ave,+Jefferson+City,+MO+65101",
-"https://house.mo.gov/",
-"https://house.mo.gov/CapitolReport.aspx?district=138",
-"https://house.mo.gov/memberdetails.aspx?district=138&year=2026&code=R",
-"https://missourifc.com/",
-"https://sos.mo.gov/",
-"https://sos.mo.gov/petitions/2026BallotMeasures",
-"https://stonecountyclerk.com/",
-"https://whaley4mo138th.org/",
-"https://whaley4mo138th.org/bio",
-"https://whaley4mo138th.org/donate",
-"https://whaley4mo138th.org/legislative-session",
-"https://whaley4mo138th.org/privacy-policy",
-"https://whaley4mo138th.org/school-visits",
-"https://whaley4mo138th.org/voter-info"
+{
+"text": "201 West Capitol Ave | Jefferson City, MO 65101",
+"href": "https://www.google.com/maps/place/201+W+Capitol+Ave,+Jefferson+City,+MO+65101"
+},
+{
+"text": "2026BallotMeasures",
+"href": "https://www.sos.mo.gov/petitions/2026BallotMeasures"
+},
+{
+"text": "2026LegislativeSession",
+"href": "https://whaley4mo138th.org/legislative-session"
+},
+{
+"text": "Bio",
+"href": "https://whaley4mo138th.org/bio"
+},
+{
+"text": "Burt.Whaley@house.mo.gov",
+"href": "mailto:Burt.Whaley@house.mo.gov"
+},
+{
+"text": "CapitalReport",
+"href": "https://house.mo.gov/CapitolReport.aspx?district=138"
+},
+{
+"text": "Christian County Clerk",
+"href": "https://www.christiancountymo.gov/offices/county-clerk/"
+},
+{
+"text": "DONATE",
+"href": "https://whaley4mo138th.org/donate/"
+},
+{
+"text": "Home",
+"href": "https://whaley4mo138th.org/"
+},
+{
+"text": "MissouriAttorneyGeneral",
+"href": "https://ago.mo.gov/"
+},
+{
+"text": "MissouriFreedomCaucus",
+"href": "https://www.missourifc.com/"
+},
+{
+"text": "MissouriSOSOffice",
+"href": "https://www.sos.mo.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whaley4mo138th.org/privacy-policy/"
+},
+{
+"text": "SchoolVisits",
+"href": "https://whaley4mo138th.org/school-visits"
+},
+{
+"text": "ScoreCards",
+"href": "https://whaley4mo138th.org/#ScoreCards"
+},
+{
+"text": "StatewideHouseWebpage",
+"href": "https://house.mo.gov"
+},
+{
+"text": "Stone County Clerk",
+"href": "https://stonecountyclerk.com/"
+},
+{
+"text": "VoterInfo",
+"href": "https://whaley4mo138th.org/voter-info"
+},
+{
+"text": "[image]",
+"href": "https://house.mo.gov/"
+},
+{
+"text": "[image]",
+"href": "https://house.mo.gov/memberdetails.aspx?district=138&year=2026&code=R"
+}
 ]

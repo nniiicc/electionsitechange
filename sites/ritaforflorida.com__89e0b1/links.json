@@ -1,15 +1,66 @@
 [
-"https://docs.google.com/forms/d/1gL3EmPVgLpkWcuncsVZ5jfM1HxlfGeXO4RiakXWYSn0/viewform?edit_requested=true",
-"https://drive.google.com/file/d/11bsdTRSUliJw6NzDqJAHYN0iUrVZqnD-/view",
-"https://facebook.com/RitaForFL",
-"https://instagram.com/ritaforflorida",
-"https://registertovoteflorida.gov/home",
-"https://ritaforflorida.com/",
-"https://ritaforflorida.com/platform",
-"https://ritaforflorida.com/take-action",
-"https://secure.actblue.com/donate/jenniferritaharris",
-"https://tiktok.com/@ritaforflorida?lang=en",
-"https://twitter.com/RitaForFlorida",
-"https://voteorangefl.gov/request-a-mail-ballot",
-"https://youtube.com/channel/UC_MqGFnM_PvOuHWfI-KktcQ"
+{
+"text": "Contact",
+"href": "mailto:rita@ritaforflorida.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jenniferritaharris"
+},
+{
+"text": "FLORIDA",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Home",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Platform",
+"href": "https://www.ritaforflorida.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drive.google.com/file/d/11bsdTRSUliJw6NzDqJAHYN0iUrVZqnD-/view"
+},
+{
+"text": "RITA",
+"href": "https://www.ritaforflorida.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "Take Action",
+"href": "https://www.ritaforflorida.com/take-action"
+},
+{
+"text": "VBM Renewal",
+"href": "https://voteorangefl.gov/request-a-mail-ballot/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/1gL3EmPVgLpkWcuncsVZ5jfM1HxlfGeXO4RiakXWYSn0/viewform?edit_requested=true"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RitaForFL"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ritaforflorida/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@ritaforflorida?lang=en"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/RitaForFlorida"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UC_MqGFnM_PvOuHWfI-KktcQ"
+}
 ]

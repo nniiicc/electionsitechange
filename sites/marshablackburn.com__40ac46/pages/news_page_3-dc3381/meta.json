@@ -1,7 +1,9 @@
 {
- "description": "Read the latest news on Marsha\u2019s race for Governor of Tennessee!",
+ "description": "Read the latest news on Marsha’s race for Governor of Tennessee!",
  "final_url": "https://marshablackburn.com/news/page/3/",
- "paid_for_by": null,
+ "fingerprint": "dced1eb4a58b0a981cdfdad50dbe6aec59553f04",
+ "format": 3,
+ "paid_for_by": "authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news",
  "title": "News - Marsha for Governor",
  "years_mentioned": [
   "2026"

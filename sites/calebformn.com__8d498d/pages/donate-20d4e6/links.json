@@ -1,15 +1,62 @@
 [
-"https://calebformn.com/",
-"https://calebformn.com/?page_id=160",
-"https://calebformn.com/about",
-"https://calebformn.com/contact",
-"https://calebformn.com/donate",
-"https://calebformn.com/photos",
-"https://calebformn.com/priorities-survey",
-"https://calebformn.com/voting",
-"https://facebook.com/people/Caleb-Steffenhagen-For-MN/100095335386839",
-"https://flickr.com/photos/200854090@N04",
-"https://instagram.com/calebsteffenhagenformn",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.winred.com/campaign-fund-for-caleb-steffenhagen-for-office/donate-today"
+{
+"text": "About",
+"href": "https://calebformn.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://calebformn.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://calebformn.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://calebformn.com/?page_id=160"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/people/Caleb-Steffenhagen-For-MN/100095335386839/"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/200854090@N04/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/calebsteffenhagenformn/"
+},
+{
+"text": "Home",
+"href": "https://calebformn.com/"
+},
+{
+"text": "PCR",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Photos",
+"href": "https://calebformn.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://calebformn.com/priorities-survey/"
+},
+{
+"text": "Voting",
+"href": "https://calebformn.com/voting/"
+},
+{
+"text": "WinRed",
+"href": "https://secure.winred.com/campaign-fund-for-caleb-steffenhagen-for-office/donate-today"
+},
+{
+"text": "[image: Caleb Steffenhagen for State Representative]",
+"href": "https://calebformn.com/"
+},
+{
+"text": "[image: Steffenhagen Logo]",
+"href": "https://calebformn.com/"
+}
 ]

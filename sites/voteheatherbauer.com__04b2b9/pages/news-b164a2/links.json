@@ -1,16 +1,78 @@
 [
-"https://abcnews4.com/news/local/sc-celebrates-inaugural-women-in-hunting-and-fishing-awareness-day",
-"https://facebook.com/HeatherBauerforSC",
-"https://instagram.com/Heatherbauerforsc",
-"https://scdailygazette.com/2024/11/06/sc-republicans-celebrates-red-wave-that-gives-gop-strongest?emci=1ab28bab-0d9d-ef11-88ce-000d3a98fa6b&emdi=d292fa4b-159d-ef11-88ce-000d3a98fa6b&ceid=544890",
-"https://secure.actblue.com/donate/heather4thehouse",
-"https://thestate.com/opinion/article280986423.html",
-"https://voteheatherbauer.com/",
-"https://voteheatherbauer.com/about",
-"https://voteheatherbauer.com/accomplishments",
-"https://voteheatherbauer.com/news",
-"https://voteheatherbauer.com/volunteer",
-"https://voteheatherbauer.com/yard-sign",
-"https://wach.com/news/local/heather-bauer-triumphs-over-kirkman-finlay-in-house-seat-75-rematch",
-"https://wistv.com/2025/01/16/rep-heather-bauer-calls-treasurers-removal-after-18-billion-accounting-error"
+{
+"text": "About",
+"href": "https://voteheatherbauer.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://voteheatherbauer.com/accomplishments"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heather4thehouse"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/HeatherBauerforSC"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/Heatherbauerforsc/"
+},
+{
+"text": "News",
+"href": "https://voteheatherbauer.com/news"
+},
+{
+"text": "Rep. Heather Bauer files articles of impeachment against SC Treasurer after $1.8 billion accounting error",
+"href": "https://www.wistv.com/2025/01/16/rep-heather-bauer-calls-treasurers-removal-after-18-billion-accounting-error/#new_tab"
+},
+{
+"text": "Rep. Heather Bauer triumphs over Kirkman Finlay in House Seat 75 rematch",
+"href": "https://wach.com/news/local/heather-bauer-triumphs-over-kirkman-finlay-in-house-seat-75-rematch#new_tab"
+},
+{
+"text": "SC Republicans celebrate red wave that gives GOP biggest advantage in 150 years",
+"href": "https://scdailygazette.com/2024/11/06/sc-republicans-celebrates-red-wave-that-gives-gop-strongest/?emci=1ab28bab-0d9d-ef11-88ce-000d3a98fa6b&emdi=d292fa4b-159d-ef11-88ce-000d3a98fa6b&ceid=544890#new_tab"
+},
+{
+"text": "SC celebrates inaugural ‘Women in Hunting and Fishing Awareness Day’",
+"href": "https://abcnews4.com/news/local/sc-celebrates-inaugural-women-in-hunting-and-fishing-awareness-day#new_tab"
+},
+{
+"text": "SC lawmaker: The problems in Richland 1 school district are far worse than I thought",
+"href": "https://www.thestate.com/opinion/article280986423.html#new_tab"
+},
+{
+"text": "Volunteer",
+"href": "https://voteheatherbauer.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://voteheatherbauer.com/yard-sign/"
+},
+{
+"text": "[image: Rep. Heather Bauer files articles of impeachment against SC Treasurer after $1.8 billion accounting error]",
+"href": "https://www.wistv.com/2025/01/16/rep-heather-bauer-calls-treasurers-removal-after-18-billion-accounting-error/#new_tab"
+},
+{
+"text": "[image: Rep. Heather Bauer triumphs over Kirkman Finlay in House Seat 75 rematch]",
+"href": "https://wach.com/news/local/heather-bauer-triumphs-over-kirkman-finlay-in-house-seat-75-rematch#new_tab"
+},
+{
+"text": "[image: SC Republicans celebrate red wave that gives GOP biggest advantage in 150 years]",
+"href": "https://scdailygazette.com/2024/11/06/sc-republicans-celebrates-red-wave-that-gives-gop-strongest/?emci=1ab28bab-0d9d-ef11-88ce-000d3a98fa6b&emdi=d292fa4b-159d-ef11-88ce-000d3a98fa6b&ceid=544890#new_tab"
+},
+{
+"text": "[image: SC celebrates inaugural ‘Women in Hunting and Fishing Awareness Day’]",
+"href": "https://abcnews4.com/news/local/sc-celebrates-inaugural-women-in-hunting-and-fishing-awareness-day#new_tab"
+},
+{
+"text": "[image: SC lawmaker: The problems in Richland 1 school district are far worse than I thought]",
+"href": "https://www.thestate.com/opinion/article280986423.html#new_tab"
+},
+{
+"text": "[image: Vote Heather Bauer]",
+"href": "https://voteheatherbauer.com/"
+}
 ]

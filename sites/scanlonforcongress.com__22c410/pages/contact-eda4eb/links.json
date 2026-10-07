@@ -1,11 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSd5Snzgn4S9nDn8tqYpvpd2WiN1i_xZlwPr3x1lapp2rSYdbg/viewform?emci=aa187569-1950-ef11-86c3-6045bdee6681&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform",
-"https://scanlonforcongress.com/",
-"https://scanlonforcongress.com/about",
-"https://scanlonforcongress.com/contact",
-"https://scanlonforcongress.com/endorsements",
-"https://scanlonforcongress.com/news",
-"https://scanlonforcongress.com/vote",
-"https://secure.actblue.com/donate/socialmgs"
+{
+"text": "About",
+"href": "https://www.scanlonforcongress.com/about"
+},
+{
+"text": "Click here​",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd5Snzgn4S9nDn8tqYpvpd2WiN1i_xZlwPr3x1lapp2rSYdbg/viewform?refcode2=ea000000-0000-0000-0000-000000000001&emci=aa187569-1950-ef11-86c3-6045bdee6681&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Contact",
+"href": "https://www.scanlonforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/socialmgs"
+},
+{
+"text": "Endorsements",
+"href": "https://www.scanlonforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd5Snzgn4S9nDn8tqYpvpd2WiN1i_xZlwPr3x1lapp2rSYdbg/viewform?refcode2=ea000000-0000-0000-0000-000000000001&emci=aa187569-1950-ef11-86c3-6045bdee6681&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+},
+{
+"text": "Get Involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSecqCLJtHZIlQ3YSTRMs5wO6x7ebgumCHWZk8hSKcZ5vRMx8Q/viewform"
+},
+{
+"text": "Home",
+"href": "https://www.scanlonforcongress.com"
+},
+{
+"text": "News",
+"href": "https://www.scanlonforcongress.com/news"
+},
+{
+"text": "VOTE",
+"href": "https://www.scanlonforcongress.com/vote"
+},
+{
+"text": "info@scanlonforcongress.com",
+"href": "mailto:info@scanlonforcongress.com"
+},
+{
+"text": "luke@scanlonforcongress.com",
+"href": "mailto:luke@scanlonforcongress.com"
+}
 ]

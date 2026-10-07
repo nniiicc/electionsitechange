@@ -1,22 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Aurum+Standards+Group+Tour+&dates=20260917T174500Z%2F20260917T190000Z&location=1460+Commerce+Drive%2C+Laramie%2C+Wyoming%2C+82070%2C+United+States",
-"http://maps.google.com/?q=1460+Commerce+Drive+Laramie%2C+Wyoming%2C+82070+United+States",
-"https://barlowforwyo.com/",
-"https://barlowforwyo.com/cart",
-"https://barlowforwyo.com/contact",
-"https://barlowforwyo.com/events",
-"https://barlowforwyo.com/events/aurum-standards-group-tour?format=ical",
-"https://barlowforwyo.com/events/hi-viz-tour",
-"https://barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile",
-"https://barlowforwyo.com/healthcare",
-"https://barlowforwyo.com/meeteric",
-"https://barlowforwyo.com/positions",
-"https://barlowforwyo.com/privacy-policy",
-"https://barlowforwyo.com/setting-the-record-straight",
-"https://facebook.com/EricBarlowRidingForWyoming",
-"https://instagram.com/barlow_wyo",
-"https://secure.winred.com/eric-barlow-32097f9d/donate",
-"https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@barlowforwyo",
-"https://x.com/Barlowforwyo"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1460+commerce+drive+laramie%2C+wyoming%2C+82070+united+states"
+},
+{
+"text": "0",
+"href": "https://www.barlowforwyo.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/eric-barlow-32097f9d/donate"
+},
+{
+"text": "Events",
+"href": "https://www.barlowforwyo.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Aurum+Standards+Group+Tour+&dates=20260917T174500Z%2F20260917T190000Z&location=1460+Commerce+Drive%2C+Laramie%2C+Wyoming%2C+82070%2C+United+States"
+},
+{
+"text": "Healthcare Strike Team",
+"href": "https://www.barlowforwyo.com/healthcare"
+},
+{
+"text": "ICS",
+"href": "https://www.barlowforwyo.com/events/aurum-standards-group-tour?format=ical"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.barlowforwyo.com/meeteric"
+},
+{
+"text": "Next Next September 17 Hi-Viz Tour",
+"href": "https://www.barlowforwyo.com/events/hi-viz-tour"
+},
+{
+"text": "Positions",
+"href": "https://www.barlowforwyo.com/positions"
+},
+{
+"text": "Previous Previous September 16 Memory of the 8 5K and 8 Mile",
+"href": "https://www.barlowforwyo.com/events/memory-of-the-8-5k-and-8-mile"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barlowforwyo.com/privacy-policy"
+},
+{
+"text": "Sign UP",
+"href": "https://www.barlowforwyo.com/contact"
+},
+{
+"text": "The Facts",
+"href": "https://www.barlowforwyo.com/setting-the-record-straight"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.barlowforwyo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EricBarlowRidingForWyoming"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barlow_wyo/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@barlowforwyo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Barlowforwyo"
+}
 ]

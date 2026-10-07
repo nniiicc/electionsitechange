@@ -1,7 +1,14 @@
 {
  "description": "Discover upcoming community events and town halls with Sheila Lieder for Colorado. Stay informed and get involved in local initiatives and campaigns.",
  "final_url": "https://www.liederforcolorado.com/events",
- "paid_for_by": "Paid for by Lieder for Colorado | Registered Agent: Sheila Lieder sheilaforcolorado@gmail",
- "title": "Events | Join Our Community Today \u2014 Lieder For Colorado",
- "years_mentioned": []
+ "fingerprint": "1f2d4302741901fdcf6b908c131b61c65b450de8",
+ "format": 3,
+ "paid_for_by": "Paid for by Lieder for Colorado",
+ "title": "Events | Join Our Community Today — Lieder For Colorado",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

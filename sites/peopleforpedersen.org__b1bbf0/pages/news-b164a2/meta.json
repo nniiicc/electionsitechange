@@ -1,13 +1,19 @@
 {
  "description": "Jamie Pedersen for Re-election's campaign",
  "final_url": "https://www.peopleforpedersen.org/news",
- "paid_for_by": "Paid for by People for Pedersen (D) 212 Broadway Ave",
- "title": "News \u2014 Jamie Pedersen for Re-election",
+ "fingerprint": "c0510d5fb27dd2bbf996710d3d37ef20a4fbc70a",
+ "format": 3,
+ "paid_for_by": "Sponsored by Sen",
+ "title": "News — Jamie Pedersen for Re-election",
  "years_mentioned": [
+  "2006",
   "2013",
   "2018",
   "2019",
+  "2021",
+  "2024",
   "2025",
+  "2026",
   "2029"
  ]
 }

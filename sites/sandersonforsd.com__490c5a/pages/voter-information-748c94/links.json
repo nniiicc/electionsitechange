@@ -1,13 +1,50 @@
 [
-"https://facebook.com/743628685506005",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://sandersonforsd.com/",
-"https://sandersonforsd.com/meet-carrie",
-"https://sandersonforsd.com/privacy",
-"https://sandersonforsd.com/voter-information",
-"https://sdlegislature.gov/Students/Resources",
-"https://sdsos.gov/elections-voting/campaign-finance/contribution-limits.aspx",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://secure.winred.com/sanderson-for-sd/carrie-sanderson-for-sd",
-"https://vip.sdsos.gov/VIPLogin.aspx"
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/sanderson-for-sd/carrie-sanderson-for-sd"
+},
+{
+"text": "Find out more",
+"href": "https://sdsos.gov/elections-voting/campaign-finance/contribution-limits.aspx"
+},
+{
+"text": "Home",
+"href": "https://sandersonforsd.com/"
+},
+{
+"text": "Meet Carrie",
+"href": "https://sandersonforsd.com/meet-carrie"
+},
+{
+"text": "Privacy",
+"href": "https://sandersonforsd.com/privacy"
+},
+{
+"text": "Resources",
+"href": "https://sdlegislature.gov/Students/Resources"
+},
+{
+"text": "Voter Information",
+"href": "https://sandersonforsd.com/voter-information"
+},
+{
+"text": "Voter Information Portal",
+"href": "https://vip.sdsos.gov/VIPLogin.aspx"
+},
+{
+"text": "Voter Registration Form",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "[image: Sanderson for District 25]",
+"href": "https://sandersonforsd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/743628685506005"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

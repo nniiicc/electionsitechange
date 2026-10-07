@@ -1,28 +1,118 @@
 [
-"http://garydaniels.org/gd/donate",
-"http://gencourt.state.nh.us/bill_status/pdf.aspx?id=30060&q=billVersion",
-"http://gencourt.state.nh.us/bill_status/pdf.aspx?id=30062&q=billVersion",
-"http://twitter.com/gldanielsnh",
-"https://facebook.com/electdaniels",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2F2022%2F02%2F15%2Fconcord-this-week%2F&t=Concord+This+Week",
-"https://garydaniels.org/gd",
-"https://garydaniels.org/gd/2022/01/03/end-of-all-tolls-in-merrimack",
-"https://garydaniels.org/gd/2022/02/15/concord-this-week",
-"https://garydaniels.org/gd/2022/02/25/congratulations-souhegan-high-basketball",
-"https://garydaniels.org/gd/2022/06/17/hb-1221-lowers-business-taxes",
-"https://garydaniels.org/gd/2022/07/20/new-hampshires-unemployment-hits-record-low-2-for-june",
-"https://garydaniels.org/gd/about-gary",
-"https://garydaniels.org/gd/campaign-2024/endorsements",
-"https://garydaniels.org/gd/events",
-"https://garydaniels.org/gd/events/get-updates",
-"https://garydaniels.org/gd/goals",
-"https://garydaniels.org/gd/videos",
-"https://garydaniels.org/gd/volunteer",
-"https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00",
-"https://governor.nh.gov/news-and-media/governor-chris-sununu-establishes-governors-commission-cryptocurrencies-and-digital",
-"https://governor.nh.gov/news-and-media/state-revenue-projections-go-through-roof",
-"https://unionleader.com/news/back_page/large-share-of-new-hampshire-super-bowl-bets-came-from-massachusetts-residents-draftkings-says/article_fc7f33ba-fd90-595f-93db-bae824d80e32.html",
-"https://x.com/intent/tweet?text=Concord+This+Week&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2F2022%2F02%2F15%2Fconcord-this-week%2F",
-"https://youtube.com/watch?v=B4uecpxQueI",
-"https://youtube.com/watch?v=bjunXJWJO74"
+{
+"text": "(HB 398)",
+"href": "http://www.gencourt.state.nh.us/bill_status/pdf.aspx?id=30060&q=billVersion"
+},
+{
+"text": "(HB 412)",
+"href": "http://www.gencourt.state.nh.us/bill_status/pdf.aspx?id=30062&q=billVersion"
+},
+{
+"text": "ABOUT",
+"href": "https://garydaniels.org/gd/about-gary/"
+},
+{
+"text": "Concord This Week",
+"href": "https://garydaniels.org/gd/2022/02/15/concord-this-week/"
+},
+{
+"text": "Congratulations Souhegan High Basketball",
+"href": "https://garydaniels.org/gd/2022/02/25/congratulations-souhegan-high-basketball/"
+},
+{
+"text": "DONATE",
+"href": "http://garydaniels.org/gd/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://garydaniels.org/gd/campaign-2024/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://garydaniels.org/gd/events/"
+},
+{
+"text": "End of All Tolls in Merrimack",
+"href": "https://garydaniels.org/gd/2022/01/03/end-of-all-tolls-in-merrimack/"
+},
+{
+"text": "Executive Order 2022- 1: An Order establishing the Governor’s Commission on Cryptocurrencies and Digital Assets",
+"href": "https://www.governor.nh.gov/news-and-media/governor-chris-sununu-establishes-governors-commission-cryptocurrencies-and-digital"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electdaniels/"
+},
+{
+"text": "GET UPDATES",
+"href": "https://garydaniels.org/gd/events/get-updates/"
+},
+{
+"text": "HB 1221 Lowers Business Taxes",
+"href": "https://garydaniels.org/gd/2022/06/17/hb-1221-lowers-business-taxes/"
+},
+{
+"text": "HOME",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "ISSUES",
+"href": "https://garydaniels.org/gd/goals/"
+},
+{
+"text": "Large Share of New Hampshire Super Bowl bets came from Massachusetts residents, DraftKings says – More than a quarter of all sports betting activity in NH surrounding Super Bowl Sunday came from Massachusetts.",
+"href": "https://www.unionleader.com/news/back_page/large-share-of-new-hampshire-super-bowl-bets-came-from-massachusetts-residents-draftkings-says/article_fc7f33ba-fd90-595f-93db-bae824d80e32.html"
+},
+{
+"text": "New Hampshire’s Unemployment Hits Record Low 2% for June",
+"href": "https://garydaniels.org/gd/2022/07/20/new-hampshires-unemployment-hits-record-low-2-for-june/"
+},
+{
+"text": "Press Signup",
+"href": "https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00"
+},
+{
+"text": "State Revenue Projections Go Through the Roof – Revenue estimates are $238.8 million over plan.",
+"href": "https://www.governor.nh.gov/news-and-media/state-revenue-projections-go-through-roof"
+},
+{
+"text": "VIDEOS",
+"href": "https://garydaniels.org/gd/videos/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://garydaniels.org/gd/volunteer/"
+},
+{
+"text": "Watch Tomorrow’s Senate Session Here",
+"href": "https://www.youtube.com/watch?v=bjunXJWJO74"
+},
+{
+"text": "Watch the Finance Committee Here",
+"href": "https://www.youtube.com/watch?v=B4uecpxQueI"
+},
+{
+"text": "X",
+"href": "http://www.twitter.com/gldanielsnh"
+},
+{
+"text": "[image: Gary Daniels]",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=Concord+This+Week&body=https%3A%2F%2Fgarydaniels.org%2Fgd%2F2022%2F02%2F15%2Fconcord-this-week%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2F2022%2F02%2F15%2Fconcord-this-week%2F&t=Concord+This+Week"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Concord+This+Week&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2F2022%2F02%2F15%2Fconcord-this-week%2F"
+},
+{
+"text": "gary@garydaniels.org",
+"href": "mailto:gary@garydaniels.org"
+}
 ]

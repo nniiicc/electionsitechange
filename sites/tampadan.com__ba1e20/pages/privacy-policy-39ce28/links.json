@@ -1,11 +1,38 @@
 [
-"https://facebook.com/DanWeldonFL",
-"https://instagram.com/danweldonfl",
-"https://policies.google.com/privacy?hl=en",
-"https://secure.anedot.com/dan-weldon-campaign/donate",
-"https://tampadan.com/",
-"https://tampadan.com/privacy-policy",
-"https://tiktok.com/@danweldonfl",
-"https://votehillsborough.gov/159/Voting-Precincts",
-"https://x.com/tampadan"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dan-weldon-campaign/donate"
+},
+{
+"text": "Find your voting location here →",
+"href": "https://www.votehillsborough.gov/159/Voting-Precincts"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tampadan.com/privacy-policy/"
+},
+{
+"text": "[image: Dan Weldon]",
+"href": "https://tampadan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DanWeldonFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/danweldonfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@danweldonfl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tampadan"
+},
+{
+"text": "https://policies.google.com/privacy?hl=en",
+"href": "https://policies.google.com/privacy?hl=en"
+}
 ]

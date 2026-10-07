@@ -1,6 +1,38 @@
 [
-"https://chrisspencer.com/",
-"https://facebook.com/SpencerForTexas",
-"https://secure.winred.com/chris-spencer-campaign/donate?exitintent=true",
-"https://twitter.com/GroceryGR"
+{
+"text": "ABOUT",
+"href": "https://www.chrisspencer.com/#ABOUT"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/chris-spencer-campaign/donate?exitintent=true"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.chrisspencer.com/#ENDORSEMENTS"
+},
+{
+"text": "HELP CHRIS DEFEND TEXAS →",
+"href": "https://secure.winred.com/chris-spencer-campaign/donate?exitintent=true"
+},
+{
+"text": "HOME",
+"href": "https://www.chrisspencer.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.chrisspencer.com/#ISSUES"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.chrisspencer.com/#VOLUNTEER"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SpencerForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/GroceryGR"
+}
 ]

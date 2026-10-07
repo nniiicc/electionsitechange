@@ -1,4 +1,2 @@
-top of page
-Upcoming Events
-- 6-17-26 Elect Laurie Parman Campaign Kickoff and FundraiserWed, Jun 17The Assembly American Bar & Cafe at WestMore info
-bottom of page
+top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
+DONATE Log In Upcoming Events 6-17-26 Elect Laurie Parman Campaign Kickoff and Fundraiser Wed, Jun 17 The Assembly American Bar & Cafe at West More info Details Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

@@ -1,11 +1,38 @@
 [
-"https://checkout.square.site/merchant/MLAFPZH8N4XPN/checkout/B57OVME65FK4XNVCIPQOURRW",
-"https://facebook.com/senatordrewmacewen",
-"https://twitter.com/DrewMacEwen",
-"https://votedrewmac.com/",
-"https://votedrewmac.com/about",
-"https://votedrewmac.com/endorsements",
-"https://votedrewmac.com/get-in-touch",
-"https://votedrewmac.com/issues",
-"https://votedrewmac.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.votedrewmac.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://checkout.square.site/merchant/MLAFPZH8N4XPN/checkout/B57OVME65FK4XNVCIPQOURRW"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votedrewmac.com/endorsements/"
+},
+{
+"text": "Get In Touch",
+"href": "https://www.votedrewmac.com/get-in-touch/"
+},
+{
+"text": "Home",
+"href": "https://www.votedrewmac.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votedrewmac.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votedrewmac.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/DrewMacEwen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/senatordrewmacewen"
+}
 ]

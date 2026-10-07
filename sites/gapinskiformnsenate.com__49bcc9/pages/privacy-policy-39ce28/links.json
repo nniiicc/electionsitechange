@@ -1,17 +1,58 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://facebook.com/profile.php?id=61590772234279",
-"https://flickr.com/photos/204740179@N03",
-"https://gapinskiformnsenate.com/",
-"https://gapinskiformnsenate.com/cdn-cgi/l/email-protection",
-"https://gapinskiformnsenate.com/issues",
-"https://gapinskiformnsenate.com/media-endorsements",
-"https://gapinskiformnsenate.com/meet-jared",
-"https://gapinskiformnsenate.com/privacy-policy",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://instagram.com/gapinskiformnsenate?igsh=MXhyN2d5dWtpZGVlaQ%3D%3D",
-"https://secure.winred.com/gapinski-for-mn-senate/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://gapinskiformnsenate.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/gapinski-for-mn-senate/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://gapinskiformnsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://gapinskiformnsenate.com/issues/"
+},
+{
+"text": "Media/Endorsements",
+"href": "https://gapinskiformnsenate.com/media-endorsements/"
+},
+{
+"text": "Meet Jared",
+"href": "https://gapinskiformnsenate.com/meet-jared/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://gapinskiformnsenate.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:Info@gapinskiformnsenate.com"
+},
+{
+"text": "[image: Follow Jared Gapinski for Minnesota Senate on Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61590772234279"
+},
+{
+"text": "[image: Follow Jared Gapinski for Minnesota Senate on Flickr]",
+"href": "https://flickr.com/photos/204740179@N03/"
+},
+{
+"text": "[image: Follow Jared Gapinski for Minnesota Senate on Instagram]",
+"href": "https://www.instagram.com/gapinskiformnsenate?igsh=MXhyN2d5dWtpZGVlaQ%3D%3D"
+},
+{
+"text": "[image: Jared Gapinski for Minnesota State Senate — Jared Gapinski for Minnesota Senate – District 13 campaign logo]",
+"href": "https://gapinskiformnsenate.com/"
+},
+{
+"text": "gapinskiformnsenate.com",
+"href": "https://gapinskiformnsenate.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+}
 ]

@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/weekly-campaign-calendar-sep-21-27",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "c7f1513d2f3ca6c4a13074de35b56326ff30d34f",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly Campaign Calendar Sep 21-27",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

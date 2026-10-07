@@ -1,6 +1,22 @@
 [
-"https://facebook.com/profile.php?id=61582073294134",
-"https://forsythforalabama.com/",
-"https://forsythforalabama.com/donate",
-"https://wix.com/"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61582073294134"
+},
+{
+"text": "Integrity, Servant-Leadership, Hard-Working",
+"href": "https://www.forsythforalabama.com"
+},
+{
+"text": "Monetary Contributions Donate directly to the campaign. Every dollar raised goes directly into voter outreach.",
+"href": "https://www.forsythforalabama.com/donate"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "©",
+"href": "https://www.wix.com"
+}
 ]

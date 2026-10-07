@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.repgillen.com/districtmap",
- "paid_for_by": null,
+ "fingerprint": "839931325814a247e2480908a22b84d210167445",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District Map | PA State Rep. Mark Gillen",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004"
+ ]
 }

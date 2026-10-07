@@ -1,9 +1,15 @@
 {
  "description": "Re-elect Senator Jeremy Cooney. Fighting for universal healthcare, strong public schools, and safer streets.",
  "final_url": "https://www.jeremycooney.com/",
+ "fingerprint": "6b808ca46ce34d75b4e2b97eeef3f2f59e576390",
+ "format": 3,
  "paid_for_by": "Paid for by Cooney for New York 2026",
  "title": "Jeremy Cooney for Senate 2026",
  "years_mentioned": [
-  "2020"
+  "2000",
+  "2020",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

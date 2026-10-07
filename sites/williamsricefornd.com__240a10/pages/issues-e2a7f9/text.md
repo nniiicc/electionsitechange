@@ -1,5 +1,4 @@
-learn more about
-Our Campaign’s Top Issues
-Families in District 7 are working hard, doing everything right, and still feeling the pressure of rising healthcare costs, housing expenses, and the price of everyday living.
+Skip navigation menu Home About Issues News Events Volunteer Contact Endorsements Donate Home About Issues News Events Volunteer Contact Endorsements Donate learn more about Our Campaign’s Top Issues Families in District 7 are working hard, doing everything right, and still feeling the pressure of rising healthcare costs, housing expenses, and the price of everyday living.
 When people are stretched thin, leadership can't afford to look the other way.
 This campaign is focused on lowering costs, protecting dependable healthcare, and advancing solutions that bring stability and opportunity back within reach.
+Affordable Healthcare Housing Affordability Lowering Everyday Cost Affordable Healthcare View more Housing Affordability View more Lowering Everyday Cost View more Powered by RUN! website builder Paid for by Tiffany Williams-Rice for ND You need to enable JavaScript to run this app.

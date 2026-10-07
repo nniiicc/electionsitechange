@@ -1,9 +1,5 @@
-Please view Adam Rueda’s full campaign on Instagram at @reprueda
-https://www.instagram.com/reprueda/
-Please donate to our 100% grassroots campaign here.
-Any little bit helps!
-https://opencollective.com/greenparty2-0
-Hello!
+About Contact Adam Rueda for NJ-5 Universal Human Rights, Free Speech, Anti-Corruption, Pro-Earth, Pro-Health, Pro-Science, Medicare for All Send a Message My Bio Please view Adam Rueda’s full campaign on Instagram at @reprueda https://www.instagram.com/reprueda/ Please donate to our 100% grassroots campaign here.
+Any little bit helps! https://opencollective.com/greenparty2-0 Hello!
 My name is Adam Rueda.
 I am a 28-year-old Bucknell graduate.
 I was raised in Andover Township in Sussex County.
@@ -27,19 +23,26 @@ I am deeply concerned about the impact of lobbying and self-profiteering in our 
 I am deeply concerned that career politicians in D.C. are enriching themselves by voting on behalf of their own financial holdings and interests, and not the constituents they are there to actually represent.
 Many existing politicians accept massive funding from the Fossil Fuel industry, and even more from AIPAC, the pro-Israel lobby.
 I believe this lobbying and campaign financing shackles our representatives to advocating for their financiers, and contributes massively to the problems we have with the War on Science, and our country’s participation in and funding of genocide.
-I pledge to never own stocks or crypto while serving in office.
+My Key Issues Government ethics and anti-corruption measures I pledge to never own stocks or crypto while serving in office.
 We must work to severely limit corporate and international interests' impact on our Congressional processes and our greater democracy.
 We must work to be fully transparent about the lobbying and pay-to-play democracy we have created here in 2026.
 We must work to end insider trading and endless personal profiteering in Congress.
-We have egregious human rights violations that have occurred and are still happening now in Gaza, the West Bank and greater Palestine.
+Universal Human Rights We have egregious human rights violations that have occurred and are still happening now in Gaza, the West Bank and greater Palestine.
 Basic human rights and due process are being openly disregarded by ICE, especially within ICE detention centers.
 Innocent people are dying at the hands of the United States.
 A main priority of mine is addressing these urgent issues, so that the U.S. can be more in line with the United Nations and other advanced democracies in Europe and throughout the world.
 We need to get back to upholding the dignity of all human beings as a country.
-We do not have free speech anymore in this country.
+Free Speech We do not have free speech anymore in this country.
 We must work to restore free speech online, in the workplace and in the media.
 Blatant censorship plagues social media.
 Conflicts of interest ($) have rendered cable networks and most written, mainstream news sources almost completely unreliable.
 Coercive professional environments infringe upon free speech, as fear of losing out on salary and healthcare often stifle political commentary or dissent from employees.
-Have questions or suggestions?
+Send Me a Message Have questions or suggestions?
 I would love to hear from you!
+Your Name * Email * Phone Message * By providing your telephone number and checking this box, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donations.
+Reply "STOP" to opt-out "HELP" for help.
+View our Privacy Policy and SMS Terms for more info.
+Send Message Campaign Headquarters adamrueda05@gmail.com (973) 525-8543 Paid for and authorized by greenparty2.0 © 2026 • All Rights Reserved • Privacy Policy • SMS Terms Empowered by GoodParty.org

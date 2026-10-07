@@ -1,5 +1,4 @@
-Full Biography
-Rebecca MacTaggart has spent most of her career doing one thing: showing up for people who need help and then figuring out how to get it for them.
+0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Full Biography Rebecca MacTaggart has spent most of her career doing one thing: showing up for people who need help and then figuring out how to get it for them.
 Today, she works at Community Living and Support Services (CLASS), where she serves as a Community Engagement Specialist.
 In that role, she is a state-certified person-centered counselor, helping individuals with disabilities maintain their independence in housing, transportation, and daily life.
 She is also a state-credentialed Certified Investigator in Pennsylvania's Department of Human Services system, handling cases of abuse, neglect, financial exploitation, and rights violations.
@@ -28,3 +27,7 @@ They raised their two children from kindergarten through graduation in the Trini
 Rebecca comes from a union family.
 Her father raised five children as a union steamfitter, her uncle a union electrician, and Rebecca herself is a past member of PSEA from her time working in public schools.
 In 2025, Rebecca was nominated for the South West Regional Chamber of Commerce Woman of the Year.
+Help Rebecca to Win Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+PEOPLE FIRST.
+ALWAYS.
+Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

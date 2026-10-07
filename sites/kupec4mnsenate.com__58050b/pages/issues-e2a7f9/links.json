@@ -1,13 +1,46 @@
 [
-"https://facebook.com/Kupec4MN",
-"https://flic.kr/ps/3ZAkgS",
-"https://instagram.com/kupec4mnsenate",
-"https://kupec4mnsenate.com/",
-"https://kupec4mnsenate.com/about",
-"https://kupec4mnsenate.com/endorsements",
-"https://kupec4mnsenate.com/get-involved",
-"https://kupec4mnsenate.com/issues",
-"https://mobilize.us/kupec-for-mn-senatedfl",
-"https://secure.actblue.com/donate/kupec-4-mn-state-senate-1",
-"https://youtube.com/channel/UCdxjXae6kFPHvGi25XkUe0w"
+{
+"text": "About Rob",
+"href": "https://www.kupec4mnsenate.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kupec-4-mn-state-senate-1"
+},
+{
+"text": "Delivered Priorities",
+"href": "https://www.kupec4mnsenate.com/issues"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kupec4mnsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/kupec-for-mn-senatedfl/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kupec4mnsenate.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Kupec4MN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kupec4mnsenate/"
+},
+{
+"text": "[image: Kupec logo sideways 2.png]",
+"href": "https://www.kupec4mnsenate.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCdxjXae6kFPHvGi25XkUe0w"
+},
+{
+"text": "[image: flickr-icon-ok]",
+"href": "https://flic.kr/ps/3ZAkgS"
+}
 ]

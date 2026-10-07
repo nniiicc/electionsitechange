@@ -1,4 +1,5 @@
-About Mike Oliverio
+Click Here To Support Mike Oliverio's Re-Election Campaign For WV State Senate!
+Home About Mike's Priorities News and Legislation Endorsements More Home About Mike's Priorities News and Legislation Endorsements Home About Mike's Priorities News and Legislation Endorsements About Mike Oliverio Mike Oliverio's life is best described in one word - service.
 Born in Fairmont and raised in Morgantown, Mike Oliverio learned the values of community service and hard work early from his father, Michael Oliverio, an educator and rehabilitation counselor, who inherited these values from his father, Giuseppe Oliverio, an Italian immigrant who worked as a coal miner in Marion County, WV.
 Mike grew up in the Suncrest neighborhood of Morgantown, serving his neighbors as a paper boy from a young age.
 He graduated from Morgantown High School and enrolled in West Virginia University, where his interest in business and public service flourished.
@@ -18,9 +19,5 @@ Mike is married to attorney Melissa Oliverio, and they are the proud parents of 
 He is a member of St.
 Francis Roman Catholic Church, the Knights of Columbus, and the Sons and Daughters of Italy.
 Additionally, Mike is active with the Chambers of Commerce in Marion and Monongalia Counties.
-Paid for by Friends of Mike Oliverio
-Chase F.
-Thomas, CPA - Treasurer
-Copyright © 2026 Mike Oliverio for WV - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home About Mike's Priorities News and Legislation Statements Endorsements Paid for by Friends of Mike Oliverio Chase F.
+Thomas, CPA - Treasurer Copyright © # Mike Oliverio for WV - All Rights Reserved.

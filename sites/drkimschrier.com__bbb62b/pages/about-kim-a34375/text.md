@@ -1,4 +1,4 @@
-I am honored to represent Washington’s 8th Congressional District, and am running for re-election to represent the district which includes much of King, Pierce, Snohomish, Kittitas, and Chelan Counties, and portions of Douglas County.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer About Kim I am honored to represent Washington’s 8th Congressional District, and am running for re-election to represent the district which includes much of King, Pierce, Snohomish, Kittitas, and Chelan Counties, and portions of Douglas County.
 I am a pediatrician, a wife, and a mom with deep roots in this community.
 Prior to being elected to Congress, I spent 17 years as a pediatrician listening to and helping solve problems with thousands of patients and their families across the 8th District, and I am bringing that same dedication and understanding to my work as your representative in Congress.
 When I first ran for Congress, I promised to be an independent and effective voice for the people of Washington’s 8th Congressional District – someone eager to work with both parties to deliver real results that matter.
@@ -15,3 +15,5 @@ We’ve passed my Kids Online Safety Act through the House, and I’m hopeful we
 It is long past time to protect our children from Big Tech abuses.
 With your support, we’ll hold this seat and change the balance of power in Congress.
 That is how we can restore checks and balances, slam the brakes on this president’s abuse of power, demand accountability, start the process of repairing our nation, and get back to the business of serving you.
+About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

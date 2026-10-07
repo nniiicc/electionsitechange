@@ -1,39 +1,174 @@
 [
-"http://instagram.com/petersenfornebraska",
-"https://facebook.com/PetersenForNebraska",
-"https://form.qomon.org/dd0c3091-get-involved",
-"https://nebraska.gov/apps-sos-voter-registration",
-"https://petersenfornebraska.com/",
-"https://petersenfornebraska.com/10army",
-"https://petersenfornebraska.com/endorsements",
-"https://petersenfornebraska.com/join",
-"https://petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights",
-"https://petersenfornebraska.com/plan",
-"https://petersenfornebraska.com/post/governor-jim-pillen-endorses-scott-petersen",
-"https://petersenfornebraska.com/post/mike-foley-endorses-scott-petersen",
-"https://petersenfornebraska.com/post/mike-hilgers-endorses-scott-petersen",
-"https://petersenfornebraska.com/post/nebraska-farm-bureau-endorses-scott-petersen",
-"https://petersenfornebraska.com/press",
-"https://petersenfornebraska.com/press/categories/endorsements",
-"https://petersenfornebraska.com/press/categories/in-the-news",
-"https://petersenfornebraska.com/press/categories/press-releases",
-"https://petersenfornebraska.com/press/categories/updates",
-"https://petersenfornebraska.com/press/categories/video",
-"https://petersenfornebraska.com/privacy-policy",
-"https://petersenfornebraska.com/protecting-vulnerable-voters",
-"https://petersenfornebraska.com/setting-the-standard",
-"https://petersenfornebraska.com/votertree",
-"https://petersenfornebraska.com/votertree-privacy",
-"https://secure.anedot.com/petersen-for-nebraska/donate",
-"https://soundcloud.com/petersenfornebraska",
-"https://x.com/PetersenForNE",
-"https://x.com/petersenforne",
-"https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D",
-"https://youtu.be/fbBmFw8Pb9s",
-"https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-",
-"https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0",
-"https://youtube.com/@PetersenforNebraska",
-"https://youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051",
-"https://youtube.com/watch?v=0ooBA98B9Rw&t=828s",
-"https://youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+{
+"text": "All Posts",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Are They Truly Secure?",
+"href": "https://www.youtube.com/watch?v=0ooBA98B9Rw&t=828s"
+},
+{
+"text": "Candidate Spotlight",
+"href": "https://youtu.be/oM4DWn9Ufl4?si=mKLC7yDtVg24d2o-"
+},
+{
+"text": "Connect",
+"href": "https://www.petersenfornebraska.com/join"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/petersen-for-nebraska/donate"
+},
+{
+"text": "Elections Bill of Rights",
+"href": "https://www.petersenfornebraska.com/nebraska-citizens-elections-bill-of-rights"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenfornebraska.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petersenfornebraska.com/press/categories/endorsements"
+},
+{
+"text": "Follow on X",
+"href": "https://x.com/petersenforne"
+},
+{
+"text": "Governor Jim Pillen Endorses Scott Petersen for Nebraska Secretary of State",
+"href": "https://www.petersenfornebraska.com/post/governor-jim-pillen-endorses-scott-petersen"
+},
+{
+"text": "In The News",
+"href": "https://www.petersenfornebraska.com/press/categories/in-the-news"
+},
+{
+"text": "Join $10 Army",
+"href": "https://www.petersenfornebraska.com/10army"
+},
+{
+"text": "Like on Facebook",
+"href": "https://www.facebook.com/PetersenForNebraska/"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "NBC News Investigation",
+"href": "https://youtu.be/PeInkvGpfEA?si=eEZmv7Wh6xtZodH_%5D"
+},
+{
+"text": "Nebraska Attorney General Mike Hilgers Endorses Scott Petersen for Secretary of State",
+"href": "https://www.petersenfornebraska.com/post/mike-hilgers-endorses-scott-petersen"
+},
+{
+"text": "Nebraska Farm Bureau PAC Endorses Scott Petersen for Nebraska Secretary of State",
+"href": "https://www.petersenfornebraska.com/post/nebraska-farm-bureau-endorses-scott-petersen"
+},
+{
+"text": "Nebraska State Auditor Mike Foley Endorses Scott Petersen for Secretary of State",
+"href": "https://www.petersenfornebraska.com/post/mike-foley-endorses-scott-petersen"
+},
+{
+"text": "News",
+"href": "https://www.petersenfornebraska.com/press"
+},
+{
+"text": "Petersen's Plan",
+"href": "https://www.petersenfornebraska.com/plan"
+},
+{
+"text": "Play It Right",
+"href": "https://www.youtube.com/watch?v=rQSzliVRKqM&list=PLKrMhllcSXtqjAdZto-6YfIHjVdqwXnpU&index=3"
+},
+{
+"text": "Press Releases",
+"href": "https://www.petersenfornebraska.com/press/categories/press-releases"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.petersenfornebraska.com/privacy-policy"
+},
+{
+"text": "Protecting Vulnerable Voters",
+"href": "https://www.petersenfornebraska.com/protecting-vulnerable-voters"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Radio Ads",
+"href": "https://www.youtube.com/playlist?list=PLKrMhllcSXtrydVVww-zSLc_c5V0S4051"
+},
+{
+"text": "Real Election Integrity",
+"href": "https://www.petersenfornebraska.com/setting-the-standard"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://form.qomon.org/dd0c3091-get-involved/"
+},
+{
+"text": "Stealing Military Votes?",
+"href": "https://youtu.be/fbBmFw8Pb9s"
+},
+{
+"text": "Updates",
+"href": "https://www.petersenfornebraska.com/press/categories/updates"
+},
+{
+"text": "VOTERTREE",
+"href": "https://www.petersenfornebraska.com/votertree"
+},
+{
+"text": "Videos",
+"href": "https://www.petersenfornebraska.com/press/categories/video"
+},
+{
+"text": "Volunteer",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "VoterTree Terms",
+"href": "https://www.petersenfornebraska.com/votertree-privacy"
+},
+{
+"text": "Where Does Your Election Data Go?",
+"href": "https://youtu.be/zgfsf-muxR8?si=FZTT5OPb5eNHOhK0"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PetersenForNebraska"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/petersenfornebraska"
+},
+{
+"text": "[image: Petersen_Logo_Color.png]",
+"href": "https://www.petersenfornebraska.com"
+},
+{
+"text": "[image: Soundcloud]",
+"href": "https://soundcloud.com/petersenfornebraska"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/PetersenForNE"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@PetersenforNebraska"
+},
+{
+"text": "team@petersenfornebraska.com",
+"href": "mailto:team@petersenfornebraska.com"
+}
 ]

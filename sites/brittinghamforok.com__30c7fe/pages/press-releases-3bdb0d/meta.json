@@ -1,12 +1,17 @@
 {
  "description": "Official press releases from the Mike Brittingham for State Representative campaign.",
  "final_url": "https://www.brittinghamforok.com/press-releases",
+ "fingerprint": "f287f82dfbf8aac78ef33941cc2e5c5a7230445e",
+ "format": 3,
  "paid_for_by": "Paid for by Brittingham for State Representative 2026 bottom of page",
  "title": "Press Releases | BrittinghamForOK",
  "years_mentioned": [
+  "1980",
+  "1989",
   "2010",
   "2014",
   "2016",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

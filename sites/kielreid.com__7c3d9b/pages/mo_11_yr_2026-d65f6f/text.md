@@ -1,24 +1,28 @@
-Kiel reid for state representative
-michigan's 88th district
-For info and updates
-Countdown
-Time Until Polls Close On Election Day
-HoursMinutesSeconds
-19
-June
-11 AM
-Juneteenth
-Heritage Landing
-25
-7 PM
-Online AMA
-Ask Me Anything!
-Join us Monday, October 5 to knock doors across House District 88.
-Our evening canvass works Spring Lake and launches at 5:00 PM from the [...]
-Join us Tuesday, October 6 to knock doors across House District 88.
-Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...]
-Join us Wednesday, October 7 to knock doors across House District 88.
-Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...]
-Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 8 at 5:00 PM.
-We'll [...]
+Donate Now About Me Endorsements Issues Volunteering Events Media Our Community First Kiel reid for state representative michigan's 88th district Join My Campaign For info and updates Email Address * Zip Code * Donate Campaign Events The Issues Volunteering Donation About Kiel Kiel (pronounced Kyle) Reid is a small business owner and community leader who started his first business at 27.
+He now owns The Griffin’s Rest, a local gathering space in West Michigan.
+Kiel is running for State House to bring steady, practical, and results driven leadership to Lansing.
+He is focused on the affordability of life, protecting our lakeshore from data centers, and ensuring healthcare doesn’t bankrupt the families who need it. https://vimeo.com/1171200330?loop=0 No one said life would be easy, but it shouldn't be this hard.
+Policy Positions Affordability Healthcare Environment Lower Utility Bills Homes People Can Afford Build More Homes, Train Local Workers Lower Prescription Costs Age at Home with More Choices Better Care, Close to Home Protect Our Dunes & Lakeshore Water that Reaches Everyone Data Centers on Our Terms Campaign Events Campaign Fundraiser Countdown Time Until Polls Close On Election Day Hours Minutes Seconds Hours Minutes Seconds Joint Canvass Team Reid and Team Abdul When October 1, 2026 5:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where St.
+Francis Parking Lot 2929 McCracken St., Norton Shores, MI, 49441 Event Type Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 1 at 5:00 PM.
+We’ll meet in the St.
+Francis parking lot at 2929 McCracken St., Norton Shores, grab turf, and head out together.
+Sign up below so we know you’re coming.
+Sign Up Here LWV Candidate Forum – State House & Senate When October 1, 2026 6:00 pm - 8:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Where Central Park Place 421 Columbus Avenue, Grand Haven, MI, 49417 Event Type Candidate Forum The League of Women Voters of Grand Haven Area hosts a candidate forum for State House and Senate races, with information on state ballot proposals.
+Doors open at 6 PM; the forum begins at 6:30 PM.
+19 June 11 AM Juneteenth Heritage Landing RSVP 25 June 7 PM Online AMA Ask Me Anything!
+RSVP October 4, 2026 - October 10, 2026 05 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Monday, Oct 5: Spring Lake October 5, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, October 5 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info 06 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Tuesday, Oct 6: Grand Haven Township October 6, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Tuesday, October 6 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at 5:00 PM from [...] More Info 07 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Canvassing - Wednesday, Oct 7 October 7, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Wednesday, October 7 to knock doors across House District 88.
+Our evening canvass launches at 5:00 PM from the Ottawa Dems Grand Haven [...] More Info 08 Oct Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Joint Canvass Team Reid, Team Amidon and Team Abdul - Oct 8 October 8, 2026 5:00 pm - 7:00 pm Ross Park Picnic Area Canvassing Knock doors in Norton Shores with Team Reid for State Representative and Team Abdul for US Senate on Thursday, October 8 at 5:00 PM.
+We'll [...] More Info 1 2 3 4 5 6 7 > All Events Media Coverage Kiel Reid Steady.
+Prepared.
+Local.
 Kiel Reid is committed to fighting for affordable housing that doesn’t come at the cost of our town’s character, healthcare costs and ease of access – close to home, and good paying local jobs that support our tourism and small business – he is particularly interested in achieving fiber internet for everyone in the district.
+Full Interview Statement Statement from Sarah Parker Solutions Five Bipartisan Issues for 2019 Achievement People Video: Sarah Parker on Daily Show Achievement Economy My Legislative Accomplishments in 2018 Past Events Would you like to become one of our donors? $# Donation Would you like to become one of our donors?
+5$ Donation Help Put Our Community First.
+Chip In Volunteer Contact 1-616-414-4865 reid4rep@proton.me Prepare to Vote Find Your State Rep Voter Registration Status Events Calendar #ago Sun Mon Tue Wed Thu Fri Sat S M T W T F S 1 2 12:00 PM - Canvassing - Monday, Nov 2: Spring Lake 3 12:00 PM - Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 Canvassing - Monday, Nov 2: Spring Lake November 2, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing Join us Monday, November 2 to knock doors across House District 88.
+Our evening canvass works Spring Lake and launches at 5:00 PM from the [...] More Info Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township November 3, 2026 12:00 pm - 7:00 pm Grand Haven Ottawa Dems Office Canvassing It's Election Day!
+Join us Tuesday, November 3 to knock doors across House District 88.
+Our evening canvass works Grand Haven Township and launches at [...] More Info Events on November 2, 2026 02 Nov Canvassing - Monday, Nov 2: Spring Lake November 2, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing Events on November 3, 2026 03 Nov Canvassing - Tuesday, Nov 3 (Election Day): Grand Haven Township November 3, 2026 12:00 pm - 7:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live Grand Haven Ottawa Dems Office 601 S.
+Beacon Blvd, Suite 101, Grand Haven, MI, 49417 Canvassing PAID FOR BY CTE KIEL REID | PO BOX 96 MUSKEGON, MI 49443

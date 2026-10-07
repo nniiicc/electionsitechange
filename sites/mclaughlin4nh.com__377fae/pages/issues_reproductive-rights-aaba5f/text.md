@@ -1,4 +1,6 @@
-Cost of Living
-For more than a decade, Republicans have controlled the levers of power in Concord, and during that time the cost of living has continued to climb.
+Skip navigation menu About Priorities Volunteer Contact Donate Issues About Priorities Volunteer Contact Donate Issues Cost of Living Clean Energy and Climate Change Education Collective Bargaining Cost of Living For more than a decade, Republicans have controlled the levers of power in Concord, and during that time the cost of living has continued to climb.
 Housing is harder to find and more expensive, property taxes keep rising, and too many families are stretched thin trying to cover basic necessities.
 It’s time to focus on real solutions that address the root causes of these challenges: increasing the supply of affordable housing, lowering energy costs, expanding access to affordable child care, and ensuring our tax system doesn’t keep shifting more of the burden onto working families.
+With smarter priorities and a renewed focus on affordability, we can make New Hampshire a place where people can build a life, raise a family, and get ahead.
+Powered by RUN! website builder Paid for by Friends of Matt McLaughlin, Debbie McLaughlin, Fiscal Agent 12 Briar Rd, Bedford NH 03110 Matt McLaughlin was a member of the United States Navy.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or the Department of the Navy You need to enable JavaScript to run this app.

@@ -1,18 +1,10 @@
-January 16, 2026
-|
-Endorsement
-Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsement of Terry Schilling, president of the American Principles Project PAC, a leading national organization fighting to protect families, parental rights, and common-sense values.
-“In a moment when far-left radical ideologies are targeting our kids, undermining parental rights, and erasing common-sense protections for women and families, we need fighters in Congress who won’t compromise,” said American Principles Project PAC President Terry Schilling.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate American Principles Project PAC President Terry Schilling Endorses Jace Yarbrough for Congress January 16, 2026 | Endorsement Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsement of Terry Schilling, president of the American Principles Project PAC, a leading national organization fighting to protect families, parental rights, and common-sense values. ‍ “In a moment when far-left radical ideologies are targeting our kids, undermining parental rights, and erasing common-sense protections for women and families, we need fighters in Congress who won’t compromise,” said American Principles Project PAC President Terry Schilling.
 “Jace Yarbrough has proven he understands what’s at stake and has the courage to stand up for American families.
-That’s why American Principles Project is proud to endorse him.”
-The endorsement from American Principles Project builds on growing momentum behind Yarbrough’s campaign since launching last week, including support from Congressman Keith Self, Texas state representatives, Second Amendment and pro-life organizations, grassroots conservative leaders, and children and family advocacy groups across Northern and Eastern Texas.
-A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+That’s why American Principles Project is proud to endorse him.” ‍ The endorsement from American Principles Project builds on growing momentum behind Yarbrough’s campaign since launching last week, including support from Congressman Keith Self, Texas state representatives, Second Amendment and pro-life organizations, grassroots conservative leaders, and children and family advocacy groups across Northern and Eastern Texas. ‍ A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
 A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
-Air Force Reserves and has built a legal career taking on liberal overreach in the courts.
-Yarbrough is a constitutional lawyer.
+Air Force Reserves and has built a legal career taking on liberal overreach in the courts. ‍ Yarbrough is a constitutional lawyer.
 He’s challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
-His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology.
-Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
+His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology. ‍ Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
 With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
 The Yarbrough family is active in their local church and is raising five children.
-Learn more at www.JaceForCongress.com
+Learn more at www.JaceForCongress.com Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

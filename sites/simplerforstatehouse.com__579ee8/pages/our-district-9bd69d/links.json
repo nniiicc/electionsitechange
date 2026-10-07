@@ -1,17 +1,62 @@
 [
-"https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1",
-"https://elections.alaska.gov/voter-information/absentee-and-early-voting",
-"https://facebook.com/share/19piNu6MXc?mibextid=wwXIfr",
-"https://instagram.com/kathysimplerak?igsh=eGk3bTAydGF6N21n",
-"https://secure.anedot.com/simpler-for-state-house/website",
-"https://simplerforstatehouse.com/",
-"https://simplerforstatehouse.com/about",
-"https://simplerforstatehouse.com/cart",
-"https://simplerforstatehouse.com/endorsements",
-"https://simplerforstatehouse.com/get-involved",
-"https://simplerforstatehouse.com/media",
-"https://simplerforstatehouse.com/our-district",
-"https://simplerforstatehouse.com/priorities",
-"https://voterregistration.alaska.gov/",
-"https://x.com/kathysimplerak?s=21&t=B9t5TTkrmmxz2WXSG4WF9w"
+{
+"text": "0",
+"href": "https://www.simplerforstatehouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.simplerforstatehouse.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/simpler-for-state-house/website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.simplerforstatehouse.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.simplerforstatehouse.com/get-involved"
+},
+{
+"text": "Media",
+"href": "https://www.simplerforstatehouse.com/media"
+},
+{
+"text": "Our District",
+"href": "https://www.simplerforstatehouse.com/our-district"
+},
+{
+"text": "Polling Locations",
+"href": "https://akelections.maps.arcgis.com/apps/webappviewer/index.html?id=579890d66c7e40ae9f7cc227d76669b1"
+},
+{
+"text": "Priorities",
+"href": "https://www.simplerforstatehouse.com/priorities"
+},
+{
+"text": "[image: Kathy Simpler]",
+"href": "https://www.simplerforstatehouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/19piNu6MXc/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kathysimplerak/?igsh=eGk3bTAydGF6N21n"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/kathysimplerak?s=21&t=B9t5TTkrmmxz2WXSG4WF9w"
+},
+{
+"text": "register to vote",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "request an absentee ballot",
+"href": "https://www.elections.alaska.gov/voter-information/absentee-and-early-voting/"
+}
 ]

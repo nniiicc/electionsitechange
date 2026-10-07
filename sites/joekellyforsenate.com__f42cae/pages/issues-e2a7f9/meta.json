@@ -1,7 +1,9 @@
 {
  "description": "Joe Kelly is running for State Senate in Connecticut's 36th District. Covering Greenwich, Stanford, and New Canaan.",
  "final_url": "https://joekellyforsenate.com/issues",
- "paid_for_by": null,
+ "fingerprint": "8259c90e191e5dd07b070170e4650f10d8e20773",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Issues | Joe Kelly for State Senate",
  "years_mentioned": []
 }

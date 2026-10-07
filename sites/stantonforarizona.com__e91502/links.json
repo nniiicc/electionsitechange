@@ -1,16 +1,62 @@
 [
-"https://facebook.com/stantonforarizona",
-"https://gregstanton.com/",
-"https://instagram.com/gregstantonaz",
-"https://secure.actblue.com/donate/campaignlaunch2020",
-"https://secure.actblue.com/donate/stanton2022-website",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=500",
-"https://secure.actblue.com/donate/stanton2022-website?noskip=true",
-"https://stantonforarizona.com/",
-"https://x.com/gregstantonaz"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=5"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/stanton2022-website"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/stanton2022-website?express_lane=true&amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/stanton2022-website?noskip=true"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/campaignlaunch2020"
+},
+{
+"text": "HOME",
+"href": "https://www.stantonforarizona.com"
+},
+{
+"text": "Visit Our New Site",
+"href": "https://gregstanton.com"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/stantonforarizona"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/gregstantonaz/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/gregstantonaz"
+},
+{
+"text": "[image: unnamed (1).png]",
+"href": "https://www.stantonforarizona.com"
+}
 ]

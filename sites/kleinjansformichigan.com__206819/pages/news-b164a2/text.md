@@ -1,2 +1,4 @@
-Contact the Campaign
-If you’re a member of the media and would like to connect with the Campaign to elect Chris Kleinjans, please fill out this form and we’ll be in touch.
+Skip to content About Chris Issues Endorsements News Events Contact District Map Donate Volunteer News Contact the Campaign If you’re a member of the media and would like to connect with the Campaign to elect Chris Kleinjans, please fill out this form and we’ll be in touch.
+In the Media State Senate Candidate Chris Kleinjans — WHTC’s Morning News Podcast 4-27-26 State Senate Candidate Chris Kleinjans — WHTC’s Morning News Podcast 3-17-26 WTHC Perspectives — State Senate Candidate Chris Kleinjans: Addressing Housing Needs Jan.
+18 & Jan.
+25 Ottawa Democratic firebrand Chris Kleinjans announces bid for Michigan’s 31st Senate seat Chris Kleinjans for Michigan Senate District 31 Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422

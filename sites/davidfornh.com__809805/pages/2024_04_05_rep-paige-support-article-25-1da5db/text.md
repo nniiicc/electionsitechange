@@ -1,4 +1,4 @@
-When folks complain about Conway’s overdevelopment, I often reference the family lore about my mom’s Basset hound, Betsy.
+Skip to content Home Meet David Priorities News Get Involved Menu Home Meet David Priorities News Get Involved Donate Op-Ed: Support Article #25 When folks complain about Conway’s overdevelopment, I often reference the family lore about my mom’s Basset hound, Betsy.
 Back in the ’50s on our family homestead, Betsy used to waddle out into the middle of West Side Road, find a sunny spot, and take a nap.
 Nowadays, with tourist traffic stretching back to Washington Street on busy summer days, it’s hard to picture that quiet Conway where a dog could peacefully snooze in the middle of the road.
 I understand why many of us resist the idea of any growth in Conway.
@@ -18,3 +18,6 @@ If we don’t learn from the past and support smart growth, we won’t avoid gro
 Let’s prioritize the future housing we need for the next generation and for the working families that make our community what it is.
 Betsy the Basset hound supports Article 25.
 You should, too.
+Paid for by David Paige for New Hampshire.
+David Paige, Fiscal Agent.
+1230 W Side Rd, N Conway, NH 03860.

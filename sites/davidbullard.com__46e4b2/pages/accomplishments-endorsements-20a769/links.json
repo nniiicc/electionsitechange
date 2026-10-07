@@ -1,10 +1,38 @@
 [
-"https://davidbullard.com/",
-"https://davidbullard.com/about",
-"https://davidbullard.com/accomplishments-endorsements",
-"https://davidbullard.com/contact-us",
-"https://davidbullard.com/news-media",
-"https://facebook.com/StateSenatorBullard",
-"https://secure.anedot.com/cc3dfafa-91d7-4b89-8367-7517c8c109c0/donate",
-"https://youtube.com/channel/UCdda7IbBiHwhPBAEr66l_ZQ"
+{
+"text": "About",
+"href": "https://www.davidbullard.com/about"
+},
+{
+"text": "Accomplishments & Endorsements",
+"href": "https://www.davidbullard.com/accomplishments-endorsements"
+},
+{
+"text": "Contact Us",
+"href": "https://www.davidbullard.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cc3dfafa-91d7-4b89-8367-7517c8c109c0/donate"
+},
+{
+"text": "Home",
+"href": "https://www.davidbullard.com"
+},
+{
+"text": "News & Media",
+"href": "https://www.davidbullard.com/news-media"
+},
+{
+"text": "[image: logo2021.png]",
+"href": "https://www.davidbullard.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/StateSenatorBullard"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/channel/UCdda7IbBiHwhPBAEr66l_ZQ"
+}
 ]

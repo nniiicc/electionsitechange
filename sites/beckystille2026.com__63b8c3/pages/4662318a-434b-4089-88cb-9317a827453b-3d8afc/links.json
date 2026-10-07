@@ -1,16 +1,62 @@
 [
-"http://beckstille2026.com/",
-"http://ftc.gov/privacy/privacyinitiatives/childrens.html",
-"http://networkadvertising.org/",
-"https://beckystille2026.com/",
-"https://beckystille2026.com/_sites/www.beckystille2026.com/4662318a-434b-4089-88cb-9317a827453b",
-"https://beckystille2026.com/about",
-"https://beckystille2026.com/contact",
-"https://beckystille2026.com/issues",
-"https://beckystille2026.com/vision",
-"https://beckystille2026.com/volunteer",
-"https://bsky.app/profile/beckystille2026.bsky.social",
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/becky.stille-ne.3rd-youtube?express_lane_other=true",
-"https://x.com/beckylstille"
+{
+"text": "About",
+"href": "https://www.beckystille2026.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.beckystille2026.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/becky.stille-ne.3rd-youtube?express_lane_other=true"
+},
+{
+"text": "Home",
+"href": "https://www.beckystille2026.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.beckystille2026.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckystille2026.com/_sites/www.beckystille2026.com/4662318a-434b-4089-88cb-9317a827453b"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Share Your Vision",
+"href": "https://www.beckystille2026.com/vision"
+},
+{
+"text": "Volunteer",
+"href": "https://www.beckystille2026.com/volunteer"
+},
+{
+"text": "[image: BeckyStille2026.com logo]",
+"href": "https://www.beckystille2026.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/beckystille2026.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/beckylstille"
+},
+{
+"text": "info@beckystille2026.com",
+"href": "mailto:info@beckystille2026.com"
+},
+{
+"text": "www.beckstille2026.com",
+"href": "http://www.beckstille2026.com"
+},
+{
+"text": "www.ftc.gov/privacy/privacyinitiatives/childrens.html",
+"href": "http://www.ftc.gov/privacy/privacyinitiatives/childrens.html"
+}
 ]

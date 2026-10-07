@@ -1,5 +1,4 @@
-Enforcing Environmental Protections
-Oregonians understand that our beautiful woodlands, waterways and wildlife need to be safeguarded for future generations.
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Home ❭ Priorities ❭ Enforcing Environmental Protections Enforcing Environmental Protections Oregonians understand that our beautiful woodlands, waterways and wildlife need to be safeguarded for future generations.
 However, our beautiful state is under attack from the current administration and greedy corporate interests.
 Climate change is real.
 Our communities were displaced during the 2020 Labor Day fires that destroyed our homes.
@@ -17,3 +16,4 @@ We must preserve and expand incentives aimed at facilitating the transition to c
 Protecting our communities from big tech.
 Data centers are being built within rural neighborhoods where they deplete fresh water resources.
 Existing regulations designed to protect our communities and environment are insufficient to effectively manage this issue.
+I’m committed to supporting Oregon’s ambitious clean energy goals and promoting enforcement of existing laws to keep Oregon safe and beautiful for everyone, both now and down the road. « Previous: Creating Local Economic Opportunity Next: Protecting Human Rights » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

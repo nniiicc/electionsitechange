@@ -1,6 +1,4 @@
-The Dystopian Perils of the SAFETY Act: Protecting Children from Government Overreach
-Updated: Mar 5
-In an era where mental health challenges among our youth are escalating at alarming rates, California's SAFETY Act—formally known as AB 1955—represents a profound and chilling overreach by the state into the sacred, constitutionally protected realm of family life and parental authority.
+top of page Home Blog Blog Post Issue Comparison Blog Post Issue Comparison Issues Media Contact Us Endorsements Media Press DONATE Blog Post Issue Comparison The Dystopian Perils of the SAFETY Act: Protecting Children from Government Overreach Long Liu Office Mar 4 4 min read Updated: Mar 5 In an era where mental health challenges among our youth are escalating at alarming rates, California's SAFETY Act—formally known as AB 1955—represents a profound and chilling overreach by the state into the sacred, constitutionally protected realm of family life and parental authority.
 Signed into law by Governor Gavin Newsom in July 2024 and effective from January 1, 2025, this measure prohibits schools from requiring educators or staff to notify parents if their child requests a gender identity change—such as adopting new pronouns, using a different name, or accessing opposite-sex facilities—without the minor's explicit consent.
 As a father deeply invested in the well-being of families and a candidate for the 49th Assembly District, I see this not as genuine protection for vulnerable students but as a dystopian erosion of parental rights.
 It enables the normalization and institutional affirmation of gender dysphoria at the expense of family unity, open communication, and the long-term psychological health of children who are often navigating the intense turbulence of adolescence.
@@ -35,3 +33,6 @@ Parents, not distant bureaucrats or ideological mandates, must lead in guiding t
 I will fight to repeal AB 1955, restore mandatory notification rights where appropriate, and prioritize policies that empower families rather than undermine them.
 Our children deserve genuine protection from state overreach, comprehensive mental health support, and the freedom to grow without government-sanctioned secrecy that fractures the very bonds needed for healing and stability.
 Let's reaffirm that parents—not the state—are the primary guardians of their children's well-being, ensuring decisions about identity, health, and future are made with full family involvement and love.
+Recent Posts See All Attacked While Advocating for a Safer California at San Gabriel Town Hall We Debate.
+You Decide.
+Endorsement from Phillip Chen 加州第49選區州眾議員競選 davidliucampaign@gmail.com © # 劉朗大衛州眾議員競選委員會。由劉朗大衛競選團隊支付。 bottom of page

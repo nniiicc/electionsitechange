@@ -1,18 +1,2 @@
-Follow us
-Menu
-Home
-Meet Candidate
-Issues
-Endorsements
-Voting Info
-Events
-Volunteer
-Donate
-Donate
-Terms of Service
-Text
-Stay Up To Date
-Follow us on the campaign trail!
-Email
-Email
-Subscribe
+Follow us Menu Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Follow us Donate Terms of Service Text Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Issues Endorsements Voting Info Events Volunteer Donate Paid for by Friends of Josh taveras Josh Taveras for New York State Senate © # 54 Academy Street Bayport, NY 11705 Accessibility Statement Terms of Service Contact

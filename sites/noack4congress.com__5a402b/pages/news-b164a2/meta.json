@@ -1,7 +1,11 @@
 {
  "description": "Campaign news from Mike Noack, Republican candidate for Congress in Illinois' 2nd District. Policy updates, event announcements, and campaign milestones.",
  "final_url": "https://noack4congress.com/news/",
+ "fingerprint": "1561fca4e0df034e06e94539b62512891b47fe79",
+ "format": 3,
  "paid_for_by": "Paid for by the Committee to Elect Michael Scott Noack for Congress",
  "title": "Campaign News & Updates | Noack for Congress - IL-2",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

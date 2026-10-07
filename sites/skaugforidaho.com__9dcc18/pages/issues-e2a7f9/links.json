@@ -1,11 +1,62 @@
 [
-"https://facebook.com/BruceSkaugforIdaho",
-"https://ryvall.com/",
-"https://secure.anedot.com/bruceskaug/4idaho",
-"https://skaugforidaho.com/",
-"https://skaugforidaho.com/about",
-"https://skaugforidaho.com/contact",
-"https://skaugforidaho.com/issues",
-"https://skaugforidaho.com/privacy-policy",
-"https://skaugforidaho.com/volunteer"
+{
+"text": "About",
+"href": "https://www.skaugforidaho.com/about"
+},
+{
+"text": "About Bruce",
+"href": "https://www.skaugforidaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.skaugforidaho.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.skaugforidaho.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.skaugforidaho.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.skaugforidaho.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.skaugforidaho.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.skaugforidaho.com"
+},
+{
+"text": "Issues",
+"href": "https://www.skaugforidaho.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.skaugforidaho.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.skaugforidaho.com/get-involved"
+},
+{
+"text": "Verastly",
+"href": "https://verastly.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.skaugforidaho.com/get-involved"
+},
+{
+"text": "[image: Bruce Skaug for Idaho]",
+"href": "https://www.skaugforidaho.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/BruceSkaugforIdaho"
+}
 ]

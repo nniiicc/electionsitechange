@@ -1,10 +1,42 @@
 [
-"http://elegantthemes.com/",
-"http://wordpress.org/",
-"https://bozemandailychronicle.com/opinions/letters_to_editor/letter-to-the-editor-griffith-deserves-vote-in-house-district-64/article_de37f13c-52aa-581e-b754-2a675a0dd525.html",
-"https://facebook.com/profile.php?id=100076557201246&sk=about",
-"https://griffithformt.com/",
-"https://griffithformt.com/cdn-cgi/l/email-protection",
-"https://instagram.com/griffthformt?hl=en",
-"https://secure.actblue.com/donate/griffith-for-mt-1"
+{
+"text": "Contact Me",
+"href": "mailto:griffithformt@gmail.com"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/griffith-for-mt-1"
+},
+{
+"text": "Elegant Themes",
+"href": "http://www.elegantthemes.com"
+},
+{
+"text": "Home",
+"href": "https://griffithformt.com/"
+},
+{
+"text": "Jim and Diane Cashell's Endorsement",
+"href": "https://www.bozemandailychronicle.com/opinions/letters_to_editor/letter-to-the-editor-griffith-deserves-vote-in-house-district-64/article_de37f13c-52aa-581e-b754-2a675a0dd525.html"
+},
+{
+"text": "Letter to the editor: Griffith the right choice for House District 60 - Winnie Arthurs",
+"href": "https://www.bozemandailychronicle.com/opinions/letters_to_editor/letter-to-the-editor-griffith-deserves-vote-in-house-district-64/article_de37f13c-52aa-581e-b754-2a675a0dd525.html"
+},
+{
+"text": "WordPress",
+"href": "http://www.wordpress.org"
+},
+{
+"text": "[image: Griffith For Montana]",
+"href": "https://griffithformt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076557201246&sk=about"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/griffthformt/?hl=en"
+}
 ]

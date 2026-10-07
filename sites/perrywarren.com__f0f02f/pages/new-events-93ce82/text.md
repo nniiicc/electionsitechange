@@ -1,27 +1,15 @@
-Garden Party for Perry
-OUR HOST COMMITTEE
-Ed and Tara Grunde-McLaughlin
-Mary Hunter
-Jan Larsson
-Renee and Chris Donahey
-valerie and Hank Schrandt
-chriSty And Scott Wallace
-and State Senator Steve Santarsiero
-invite you to join them for lite fare and drinks at The Barnsley House, the beautiful home of Ed and Tara Grunde-McLaughlin
-125 North Chancellor Street Newtown, PA 18940
-Sunday, June 12, 2022 – 4:00 pm to 7:00 pm
-Contribution Levels
-Guest $60.00 Friend $100.00
-Silver $250.00 Gold $500.00
-Platinum $1,000.00 Host $2,000.00
-RSVP by phone or text to • Liz – 609-575-1963
-RSVP by email to perry@perrywarren.com
-RSVP by mail to
-Perry Warren for State Representative
-P.
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Oct 2 5:00 PM 17:00 The Big Back Yard Bash Friday, October 2, 2026 Friday, October 2, 2026 5:00 PM 7:00 PM 17:00 19:00 Google Calendar ICS Hosted by Karen Vander Laan and Jim Driscoll Co-Hosted by the Democratic Clubs of District 31 Newtown Dems, LMT-Y Democrats and UMT Democrats Join us for some fun before the final push for the 2026 Election!
+October 2, 2026 5-7pm in Yardley, PA (address provided with RSVP) Live music, games, plenty of food and drink to re-elect Perry Warren and help build the majority in Harrisburg.
+This is a celebration and a pep rally to carry us through the final weeks of GOTV!
+RSVP Here View Event → Aug 15 1:00 PM 13:00 Perry Warren's Annual Ice Cream Social Saturday, August 15, 2026 1:00 PM 4:00 PM 13:00 16:00 Google Calendar ICS It's time for our Annual Ice Cream Social!
+Please join us for ice cream, great conversation, and an afternoon in support of State Representative Perry Warren on Saturday August 15th from 1:00 PM - 4:00 PM at the home of Perry & Liz Warren.
+Bring the kids to this family friendly event!
+Register Here View Event → Dec 19 4:00 PM 16:00 Perry Warren's Holiday Reception Friday, December 19, 2025 4:00 PM 4:00 PM 16:00 16:00 Google Calendar ICS Join Perry and Liz Warren of a Holiday Reception December 19, 2025 from 4-6 pm Trattoria Rosa Bianca, 94 Main Street, Yardley Register Here View Event → Jul 20 1:00 PM 13:00 Come Celebrate National Ice Cream Day with Perry and Liz Sunday, July 20, 2025 1:00 PM 4:00 PM 13:00 16:00 Google Calendar ICS Come celebrate National Ice Cream Day Join Representative Perry Warren on July 20th from 1-4pm as we scoop up the sweet treat Tickets View Event → May 28 5:30 PM 17:30 Join Us at Vecchia Osteria to Re-Elect Our State Representative Perry Warren Tuesday, May 28, 2024 5:30 PM 7:30 PM 17:30 19:30 Vecchia Osteria by Pasquale (map) Google Calendar ICS Join us for a Reception to Re-Elect The Newtown Democrats,The Upper Makefield Democrats and The Lower Makefield-Yardley Democratic Committee Invite you to enjoy a dinner selected by Pasquale at his popular Newtown restaurant Vecchia Osteria by Pasquale 20 Richboro-Newtown Road, Newtown, PA Tuesday, May 28th from 5:30-7:30 p.m.
+RSVP HERE View Event → Dec 10 11:30 AM 11:30 Holiday Brunch with State Representative Perry Warren Sunday, December 10, 2023 11:30 AM 2:00 PM 11:30 14:00 Google Calendar ICS Let’s celebrate the holiday season together!
+Stop by Rosa Bianca Trattoria on December 10th from 11:30-2:00pm and join us for some holiday cheer and light fare at a reception to re-elect Perry Warren as the State Representative of the 31st District!
+View Event → Oct 28 6:00 PM 18:00 Final Campaign Fundraiser!
+Happy Hour to Re-Elect Perry Warren Friday, October 28, 2022 6:00 PM 8:00 PM 18:00 20:00 Google Calendar ICS Join us for the LAST and FINAL campaign fundraiser in 2022 to Re-Elect OUR State Representative Perry Warren Contribute Here View Event → Sep 28 5:30 PM 17:30 Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca Wednesday, September 28, 2022 5:30 PM 7:30 PM 17:30 19:30 Tratorria Rosa Bianca (map) Google Calendar ICS Join us for a Reception to Re-Elect State Representative Perry Warren Wednesday, September 28, 2022 5:30-7:30 pm Trattoria Rosa Bianca 94 South Main Street Yardley, PA Click here to RSVP and Contribute View Event → Jun 12 4:00 PM 16:00 Garden Party with Perry Sunday, June 12, 2022 4:00 PM 7:00 PM 16:00 19:00 The Barnsley House- the home of Ed and Tara Grunde-McLaughlin (map) Google Calendar ICS Garden Party for Perry OUR HOST COMMITTEE Ed and Tara Grunde-McLaughlin Mary Hunter Jan Larsson Renee and Chris Donahey valerie and Hank Schrandt chriSty And Scott Wallace and State Senator Steve Santarsiero invite you to join them for lite fare and drinks at The Barnsley House, the beautiful home of Ed and Tara Grunde-McLaughlin 125 North Chancellor Street Newtown, PA 18940 Sunday, June 12, 2022 – 4:00 pm to 7:00 pm Contribution Levels Guest $60.00 Friend $100.00 Silver $250.00 Gold $500.00 Platinum $1,000.00 Host $2,000.00 RSVP by phone or text to • Liz – 609-575-1963 RSVP by email to perry@perrywarren.com RSVP online click here RSVP by mail to Perry Warren for State Representative P.
 O.
-Box 420,
-Newtown, PA 18940
-Please make checks payable to
-“Perry Warren for State Representative”
-Paid for by Perry Warren for State Representative
+Box 420, Newtown, PA 18940 Please make checks payable to “Perry Warren for State Representative” Paid for by Perry Warren for State Representative View Event → Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

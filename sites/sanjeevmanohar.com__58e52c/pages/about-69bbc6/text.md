@@ -1,5 +1,4 @@
-Sanjeev Manohar's Campaign
-Dr.
+Home About Donate Where I Stand Home About Donate Where I Stand Sanjeev Manohar's Campaign Dr.
 Sanjeev K.
 Manohar is proud to serve Nashua's Ward 5 in the New Hampshire House of Representatives.
 A scientist, engineer, educator, and community leader, he believes that public service is about listening, solving problems, and bringing people together to improve the lives of those we represent.
@@ -19,30 +18,23 @@ When he is not serving in Concord or teaching at the university, Sanjeev enjoys 
 Having visited all 50 states and driven nearly a million miles, he has developed a deep appreciation for the people, communities, and diverse perspectives that make our nation strong.
 As he seeks re-election, Sanjeev remains committed to serving Nashua with integrity, transparency, and thoughtful leadership.
 He would be honored to continue earning your trust and your vote.
-Please contribute whatever you can (even $5).
-Down ballot races like Sanjeev's are grueling, time consuming and expensive.
+Donate Please contribute whatever you can (even $5).
+Down ballot races like Sanjeev's are grueling, time consuming and expensive .
 Each yard sign, for example, is $12!
 When you give to the top of the ticket please also consider supporting local candidates who need resources to go against opponents funded by big donors.
 Thank you!
-Stronger Hampshire
-Creating a political campaign website for Sanjeev Manohar, a Democrat running for State Rep in New Hampshire.
-Pillars
-123 Main Street, Nashua
-Hours
-Mon-Fri 9am-5pm
-Political Campaign
-Creating a political campaign website for Sanjeev Manohar, a Democrat running for State Rep in New Hampshire.
+Stronger Hampshire Creating a political campaign website for Sanjeev Manohar, a Democrat running for State Rep in New Hampshire.
+Pillars 123 Main Street, Nashua Hours Mon-Fri 9am-5pm Political Campaign Creating a political campaign website for Sanjeev Manohar, a Democrat running for State Rep in New Hampshire.
 Sanjeev Manohar's platform resonates with me.
 He truly cares about the people.
-Jane Doe
-Boston
-I believe in Sanjeev Manohar's vision for a stronger New Hampshire.
+Jane Doe Boston I believe in Sanjeev Manohar's vision for a stronger New Hampshire.
 He is the leader we need.
-John Smith
-New York
-★★★★★
-★★★★★
-Support
-Join us in supporting a stronger NH
+John Smith New York ★★★★★ ★★★★★ Support Join us in supporting a stronger NH © #.
 All rights reserved.
 Paid for by Elect Sanjeev Manohar; Fiscal Agent Sadhana Manohar; 21 Memory Avenue, Nashua, NH 03062.
+Home Pl contribute whatever you can (even $5).
+Down ballot races like Sanjeev's are grueling, time consuming and expensive .
+Each yard sign, for example, is $12!
+When you give to the top of the ticket pl consider supporting local candidates who need resources to go against opponents funded by big donors.
+Thank you!
+Donate

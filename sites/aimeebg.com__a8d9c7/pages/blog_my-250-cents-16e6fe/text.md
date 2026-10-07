@@ -1,4 +1,4 @@
-As our nation approaches its 250th anniversary, we should be preparing to celebrate the enduring promise of American democracy, yet this moment feels complicated.
+Aimee Berger-Girvalo State Representative · 111th District About Record Ask Aimee What Matters to Ridgefield Get Involved About Record Ask Aimee What Matters to Ridgefield Get Involved What Matters to Ridgefield My 250 Cents July 1, 2026 · By Aimee Berger-Girvalo As our nation approaches its 250th anniversary, we should be preparing to celebrate the enduring promise of American democracy, yet this moment feels complicated.
 All across the country, there is a growing concern that core democratic norms are being tested in ways we have not seen in generations.
 When institutions are strained and the rule of law feels like it is entirely up to the whim of an administration, it can be difficult to fully embrace celebration without also acknowledging the seriousness of the moment we are living through.
 But history reminds us that the American story has never been one of complacency.
@@ -14,3 +14,10 @@ As we approach this historic milestone, we should do so with honesty about where
 Even before this current moment, America has never evenly distributed equity, dignity, or fairness, and that truth must be part of our reflection.
 That means our task is not simply to return to what came before the current administration, but to do better: to build a democracy that is more just, more inclusive, and more accountable than it has ever been.
 If we stay engaged, speak out, and stand together, we can help ensure that the next 250 years are defined not only by freedom, but by a fuller promise of equality and justice for all.
+Aimee Berger-Girvalo State Representative, 111th District ← More from What Matters to Ridgefield Aimee Berger-Girvalo State Representative · 111th District · Ridgefield, CT Fighting for Ridgefield.
+Fighting for you.
+Quick Links About Aimee Her Record Ask Aimee What Matters to Ridgefield Volunteer Connect Contact Aimee Contact the Campaign Paid for by AimeeBG2026, Michael J.
+Donnelly, Treasurer.
+Approved by Aimee Berger-Girvalo.
+Website hosted under an unlimited hosting account paid for by the Ridgefield Democratic Town Committee.
+Copyright © # AimeeBG2026 Scroll to Top

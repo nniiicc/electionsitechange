@@ -1,33 +1,36 @@
-Bringing Justice Back to the Justice System
-I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
+Skip to content Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Volunteer Contact Donate Mailing List Menu Volunteer Contact Donate Mailing List Bringing Justice Back to the Justice System I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
 In the 2021-2022 legislative session, we enacted the nation’s most dramatic, broad-sweeping police accountability reforms by restricting the needless use of force, holding police accountable for misconduct and ensuring the equitable treatment by law enforcement of all communities.
-In addition, as Chair of the Washington State Criminal Sentencing Task Force, I have been working hard on comprehensive sentencing reforms to enhance public safety through evidence-based, community-oriented measures rather than the overly punitive approach of excessive incarceration.
+In addition, as Chair of the Washington State Criminal Sentencing Task Force , I have been working hard on comprehensive sentencing reforms to enhance public safety through evidence-based, community-oriented measures rather than the overly punitive approach of excessive incarceration.
 While serving you in the Legislature, I have continued to pass important measures to reduce deaths and injuries from domestic violence, sexual assault and drunk driving, saving literally thousands of lives.
 As Chair of the House Public Safety Committee, with expertise in criminal law and the justice system, I’ve worked hard to keep people safe in our homes, schools and public spaces.
-Call to Action on Police Reform and Racial Justice
-During the apocalyptic summer of 2020, as the COVID pandemic ravaged lives and shut down the economy, we witnessed the gruesome murder of George Floyd at the hands of the police, and Americans from all backgrounds came together like never before in a national uprising for racial equity and justice system reform.
+Call to Action on Police Reform and Racial Justice During the apocalyptic summer of 2020, as the COVID pandemic ravaged lives and shut down the economy, we witnessed the gruesome murder of George Floyd at the hands of the police, and Americans from all backgrounds came together like never before in a national uprising for racial equity and justice system reform.
 It was clearly time to take action.
 Countless people, mostly from marginalized communities, have needlessly lost their lives from police use of excessive force, but George Floyd’s death served as the flashpoint to spark long-awaited policy changes in police practices.
 I could not just sit by in that historic moment.
 I had already been passionately supporting and working on dismantling the institutional structures that have allowed people of color to be treated as second-class citizens for generations, especially in the criminal legal system.
-Media Coverage
-| Washington State Enacts Police Reform a Year After George Floyd’s Death |
-| The New York Times |
-| Governor Inslee signs sweeping police reform measures |
-| Seattle Times |
-| House passes three policing-related bills Wednesday |
-| The Olympian |
-| State Capitols Reckon With Racism in Policing |
-| PEWTRUSTS.ORG |
-| HB 1320 (Sexual Assault Protection)Update |
-| MyEdmondsNews |
-| Five issues to watch in the Washington Legislature in 2021 |
-| The Spokesman-Review |
-| Rethinking Three Strike Life Sentences |
-| Seattle Times |
-| Editorial: Move swiftly on statewide police reforms |
-| Seattle Times |
-Video
-Representative Goodman Speaks at Governor Inslee Bill Signing
-Watch Representative Goodman’s speech as Governor Inslee signs police accountability bills* during a ceremony in Tacoma.
-(* Bills: ESHB 1054, SHB 1088, E2SHB 1089, ESHB 1140, SHB 1223, ESHB 1267, E2SHB 1310, E2SSB 5051, SSB 5066, E2SSB 5259, ESSB 5263, ESSB 5353)
+Listening to Black Americans I have tried to imagine how it feels to be so afraid, angry and tired in a community that has suffered from the legacy of slavery, lynching and segregation.
+That legacy plays out today in more subtle, insidious ways, through discrimination in housing, health care and education, and especially through over-policing and mass incarceration.
+For many years already my principal policy focus has been to bring justice back to the justice system, which I believe is the core civil rights movement of our time.
+In the wake of the national reckoning on race and policing in 2020, it was important to seize the moment and translate the public outcry into legislative action.
+Rep.
+Goodman with Gerald Hankerson – President of NAACP State Conference Alaska/Oregon/WA In past legislative sessions I had enacted measures to hold police accountable for unreasonable uses of deadly force, to improve police training and to require independent investigations of police misconduct.
+However, it was painfully clear that much unfinished business remained.
+As Chair of the House Public Safety Committee, I brought together a diverse team of legislators in 2020 to develop a set of reforms related to police accountability, police training and tactics, and police-community relations.
+In the 2021 legislative session, we enacted the nation’s most comprehensive package of new police accountability laws, addressing questionable police tactics such as chokeholds, the “no-knock” warrant and the use of teargas and military equipment, and establishing for the first time a uniform standard limiting police use of force in encounters with the public.
+We also strengthened the state’s ability to sanction and decertify police who engage in misconduct and imposed new duties on police to report the misconduct of fellow officers and to intervene when witnessing excessive use of force.
+We also put important transparency measures in place to track disparities in police stops, searches, arrests and uses of force.
+With Sue Rahr, executive director of the Washington State Criminal Justice Training Commission (Ret.) These new laws aroused questions and concerns from police and civic leaders, so in the 2022 session I worked with my colleagues to enact follow-up legislation to ensure that police can respond effectively to mental health crisis calls and protect vulnerable and abused children, and to clarify how police may prevent criminal suspects from fleeing a crime scene.
+Throughout this process we have stayed true to our intent to reduce needless use of force, to ensure equitable treatment of all communities and to uphold the policing profession itself.
+Our policy work around police practices has highlighted the need to re-imagine public safety.
+We may depend on armed officers to run into the danger for us where criminal activity threatens life and limb, but police cannot effectively serve every function to preserve community safety, especially the timely and compassionate response to people suffering from mental health crisis.
+We are now devoting more resources toward mental health, housing and support for youth and community organizations, but substantial work remains and I’m committed to promoting public safety by addressing persistent social and racial inequities and investing in all communities.
+Media Coverage July 31, 2021 Legislators respond to concerns surrounding new police reform laws KIMA July 31, 2021 What new WA police accountability laws do and don’t do Crosscut May 22, 2021 Washington State Enacts Police Reform a Year After George Floyd’s Death The New York Times May 22, 2021 Major police reforms become law in Washington after Inslee signs bills he calls ‘just the beginning’ The Spokesman Review May 19, 2021 Governor Inslee signs sweeping police reform measures Seattle Times April 24, 2021 Police reform measures mount in Washington state after deaths of those in police custody KOMO News April 19, 2021 Washington state lawmakers send a host of police reform bills to Gov.
+Inslee’s desk KOMO TV April 11, 2021 Legislature poised to bring sweeping police reforms to Washington MyNorthwest February 28, 2021 Here are 5 police reform bills that Washington state families are watching Bellingham Herald February 24, 2021 Police body cameras not a priority for Washington lawmakers in 2021 session king5.com February 19, 2021 Police reform is advancing in Washington Legislature.
+Here’s where those proposals stand The Spokesman-Review February 13, 2021 House passes three policing-related bills Wednesday The Olympian February 1, 2021 Hearing on police use of deadly force – independent investigations The Olympian January 30, 2021 State Capitols Reckon With Racism in Policing PEWTRUSTS.ORG January 27, 2021 HB 1320 (Sexual Assault Protection)Update MyEdmondsNews January 13, 2021 Police and reformers face off over proposal to ban chokeholds, tear gas and military equipment KNKX.ORG January 10, 2021 Five issues to watch in the Washington Legislature in 2021 The Spokesman-Review January 6, 2021 Rethinking Three Strike Life Sentences Seattle Times December 15, 2020 In Our View Police Reform Should be Priority of Legislature The Columbian December 8, 2020 Editorial: Move swiftly on statewide police reforms Seattle Times December 7, 2020 Washington lawmakers prepare slew of bills to change policing and accountability Seattle Times Page 1 Page 2 Page 3 Video Representative Goodman Speaks at Governor Inslee Bill Signing Watch Representative Goodman’s speech as Governor Inslee signs police accountability bills* during a ceremony in Tacoma. (* Bills: ESHB 1054, SHB 1088, E2SHB 1089, ESHB 1140, SHB 1223, ESHB 1267, E2SHB 1310, E2SSB 5051, SSB 5066, E2SSB 5259, ESSB 5263, ESSB 5353) Rep.
+Goodman speaking at the House Floor debate on SD 5476.
+Roger was a key player in crafting the bill to respond to the State v.
+Blake decision from the WA Supreme Court, which decriminalized drug possession.
+House Public Safety Committee Legislative Hearing: Call to Action on Police Reform - The Need for Evidence-Based Solutions King5 — Washington Lawmakers Weigh Reform Bills Ahead of Session TVW — Washington Public Affairs Network Inside Olympia – Sept.
+24 Host Austin Jenkins talks police reform and racial justice with Reps.
+Roger Goodman and Jesse Johnson, Monisha Harrell of the governor’s task force on police investigations, and Monica Alexander of the Criminal Justice Training Commission. https://www.facebook.com/TVW.org/videos/813304459475135 Brought to you by: Friends of Roger Goodman 218 Main St.
+PMB 763 Kirkland, WA 98033 Facebook-f

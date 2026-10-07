@@ -1,13 +1,6 @@
-Veterans
-Serve the veterans who served us
-I am from a military family.
+Skip to content Aric for MN Together with Purpose Primary Menu Home Meet Aric What We’ve Done Social Media Policy Events & Volunteering Voting Endorsements Donate Serve the veterans who served us ← All policy Veterans Serve the veterans who served us I am from a military family.
 I am who I am today because of people who served in the armed forces — including my grandfather, a chaplain in World War Two at the Battle of the Bulge, and my father, a Vietnam veteran.
 Military service runs deep in my family, but you don’t need to be from a military family to respect veterans and know that their sacrifices should be honored.
-As our State Senator, I have
-- Chief authored the bill that delivered the largest investment in Minnesota’s veterans and military affairs in state history
-- Secured $300,000 to create a Meals on Wheels program for veterans in Greater Minnesota
-- Supported programs that help veterans transition from the military to education and promising careers
-- Reduced the cost of hunting, trapping, and fishing licenses for disabled veterans
-- Improved the homestead market value exclusion for disabled veterans and authored bills to expand it
-- Dedicated $40,000,000 to Minnesota Veterans Homes to serve our ill and aging veterans
-- Authored a resolution to commit to and expand the VA’s Vet Centers in Minnesota, which give veterans and their families better access to mental and physical health care, help them manage readjustment after combat, and help reduce veteran suicide and homelessness
+As our State Senator, I have Chief authored the bill that delivered the largest investment in Minnesota’s veterans and military affairs in state history Secured $300,000 to create a Meals on Wheels program for veterans in Greater Minnesota Supported programs that help veterans transition from the military to education and promising careers Reduced the cost of hunting, trapping, and fishing licenses for disabled veterans Improved the homestead market value exclusion for disabled veterans and authored bills to expand it Dedicated $40,000,000 to Minnesota Veterans Homes to serve our ill and aging veterans Authored a resolution to commit to and expand the VA’s Vet Centers in Minnesota, which give veterans and their families better access to mental and physical health care, help them manage readjustment after combat, and help reduce veteran suicide and homelessness Chief authored the bill that delivered the largest investment in Minnesota’s veterans and military affairs in state history.
+Join us Volunteer with us → Or chip in $10 $25 $50 Other Through ActBlue Next Protect reproductive freedom → PO Box 5012 St.
+Cloud, MN 56302 hello@aricformn.com 320-266-4032 Media Information Press releases Photo Gallery Privacy Policy First Name Last Name Email Leave this field empty if you're human: Facebook Twitter Instagram YouTube Paid for by Aric for MN Powered by Tech for Campaigns

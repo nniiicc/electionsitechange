@@ -1,12 +1,46 @@
 [
-"https://facebook.com/meganforkansas",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/meganforkansas",
-"https://megandsteele.com/",
-"https://megandsteele.com/about",
-"https://megandsteele.com/contact-megan",
-"https://megandsteele.com/donate",
-"https://megandsteele.com/issues",
-"https://megandsteele.com/updates",
-"https://x.com/SteeleforKansas"
+{
+"text": "About",
+"href": "https://megandsteele.com/about"
+},
+{
+"text": "Contact Megan",
+"href": "https://megandsteele.com/contact-megan"
+},
+{
+"text": "Donate",
+"href": "https://megandsteele.com/donate"
+},
+{
+"text": "Home",
+"href": "https://megandsteele.com/"
+},
+{
+"text": "Issues",
+"href": "https://megandsteele.com/issues"
+},
+{
+"text": "Megan D SteeleKansas House District 51Megan D Steele Kansas House District 51Megan D Steele Kansas House District 51Megan D Steele Kansas House District 51",
+"href": "https://megandsteele.com/"
+},
+{
+"text": "UPDATES",
+"href": "https://megandsteele.com/updates"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/meganforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/meganforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/SteeleforKansas"
+}
 ]

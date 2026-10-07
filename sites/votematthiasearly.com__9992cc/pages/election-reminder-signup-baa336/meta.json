@@ -1,7 +1,9 @@
 {
  "description": "Sign up for vital election reminders to keep track of key election dates, candidate bios, and important voter information with Vote Matthias Early.",
  "final_url": "https://votematthiasearly.com/election-reminder-signup",
- "paid_for_by": "Paid For By Matthias Early for Texas HD 20 This website uses cookies",
+ "fingerprint": "c4dcad44635e23b3185d2514c94a397841dcf8e6",
+ "format": 3,
+ "paid_for_by": "Paid For By Matthias Early for Texas HD 20",
  "title": "Election Reminder Signup",
  "years_mentioned": []
 }

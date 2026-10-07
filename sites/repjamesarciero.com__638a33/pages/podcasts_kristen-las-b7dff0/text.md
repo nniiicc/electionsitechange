@@ -1,5 +1,2 @@
-Kristen Las
-Westford Town Manager Kristen Las and I had a great conversation about her role in Westford, municipal career, upcoming budget challenges and her love for meteorology!
-Written By James Arciero
-Previous
-Next
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Kristen Las May 15 Written By James Arciero Westford Town Manager Kristen Las and I had a great conversation about her role in Westford, municipal career, upcoming budget challenges and her love for meteorology!
+James Arciero Previous Previous Valery Young Next Next Dan Twomey Paid for by the Committee to Elect Jim Arciero

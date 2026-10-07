@@ -1,15 +1,8 @@
-Back to All Events
-Who: Join Nicole Uhre-Balk, along with friends, neighbors, and supporters
-What: Beers Before Pierre - a casual, drop-in social gathering
-When: Saturday, January 10, 2026, from 2:00–4:00 PM
-Where: Dakota Point Brewing, 405 Canal Street #1200, Rapid City, SD 57701
-Why: Before the legislative session begins in Pierre, we’re getting together for a relaxed afternoon to connect, catch up, and send Nicole off with good energy and community support.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events Beers Before Pierre Saturday, January 10, 2026 2:00 PM 4:00 PM Dakota Point Brewing 405 Canal Street #1200 Rapid City, SD, 57701 United States (map) Google Calendar ICS Who: Join Nicole Uhre-Balk , along with friends, neighbors, and supporters What: Beers Before Pierre - a casual, drop-in social gathering When: Saturday, January 10, 2026, from 2:00–4:00 PM Where: Dakota Point Brewing , 405 Canal Street #1200, Rapid City, SD 57701 Why: Before the legislative session begins in Pierre, we’re getting together for a relaxed afternoon to connect, catch up, and send Nicole off with good energy and community support.
 Grab a drink, support a great local brewery, enjoy some provided snacks, and spend a winter afternoon with good people.
 No speeches, no formal program - just easy conversation and community.
-Previous
-Previous
-September 27
-2025 Pennington County Democrats Roundup
-Next
-Next
-January 31
+RSVP On Facebook → Previous Previous September 27 2025 Pennington County Democrats Roundup Next Next January 31 First Legislative Crackerbarrel Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

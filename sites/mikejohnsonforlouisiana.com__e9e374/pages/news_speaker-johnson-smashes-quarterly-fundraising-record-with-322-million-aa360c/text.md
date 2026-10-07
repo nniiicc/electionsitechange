@@ -1,8 +1,12 @@
-Speaker Johnson Smashes Quarterly Fundraising Record with $32.2 Million
-April 14, 2025
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson Smashes Quarterly Fundraising Record with $32.2 Million Apr 14 Written By Greg Steele April 14, 2025 WASHINGTON, D.C. - Speaker Mike Johnson announced today he raised $# million in the first quarter of 2025, his largest quarterly fundraising total ever as Speaker of the House, and the largest quarter in history by a Republican Speaker during a midterm cycle.
 "After we successfully defended our majority in 2024, the American people are enthusiastic about keeping House Republicans on offense in 2026.
 While we deliver our commonsense America First agenda, we are also building a massive campaign war chest by hitting the ground running in the first quarter," said Speaker Johnson.
-"With Democrats in disarray and already on record supporting a government shutdown, the largest tax increase in history, and allowing noncitizens to vote in our elections, I look forward to continuing to lead the fight ensuring House Republicans are ready to grow our majority this cycle."
-Following his re-election as Speaker in January, Johnson reestablished his Grow the Majority Joint Fundraising Committee for the 2026 cycle comprised of over 70 entities.
+"With Democrats in disarray and already on record supporting a government shutdown, the largest tax increase in history, and allowing noncitizens to vote in our elections, I look forward to continuing to lead the fight ensuring House Republicans are ready to grow our majority this cycle." Following his re-election as Speaker in January, Johnson reestablished his Grow the Majority Joint Fundraising Committee for the 2026 cycle comprised of over 70 entities.
 So far this cycle, Speaker Johnson has already transferred more than $5 million to the NRCC and more than $4 million directly to incumbent Member campaigns.
 These were part of an initial $11 million transfer announced last month.
+Greg Steele Previous Previous ICYMI: Speaker Johnson Smashes Quarterly Fundraising Record Next Next ICYMI: 'Johnson kicks off 2026 cycle with $# million donation to House Republicans' Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

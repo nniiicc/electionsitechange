@@ -1,7 +1,16 @@
 {
  "description": "Latest News",
  "final_url": "https://www.dbformaine.com/news/archives/06-2018",
- "paid_for_by": null,
+ "fingerprint": "782f7bd3fd42798a9cb280aa20659ebf113e0da5",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5",
  "title": "Blog Archives - SENATOR DONNA BAILEY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

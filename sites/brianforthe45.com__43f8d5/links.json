@@ -1,5 +1,18 @@
 [
-"https://brianforthe45.com/",
-"https://brianforthe45.com/privacy-policy",
-"https://facebook.com/brian.lanoue.353"
+{
+"text": "Home",
+"href": "https://brianforthe45.com/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brianforthe45.com/privacy-policy/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/brian.lanoue.353"
+}
 ]

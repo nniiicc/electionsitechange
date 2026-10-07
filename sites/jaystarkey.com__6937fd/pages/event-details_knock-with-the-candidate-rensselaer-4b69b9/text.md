@@ -1,8 +1,3 @@
-top of page
-Knock with the Candidate / Rensselaer
-Sat, Mar 28
-|Rensselaer Library
-Come out and knock doors with the American First Candidate for District 6!
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Knock with the Candidate / Rensselaer Sat, Mar 28 | Rensselaer Library Come out and knock doors with the American First Candidate for District 6!
 Hit doors Jay and share in a free lunch and dinner with fellow Conservatives!
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Mar 28, 2026, 11:00 AM – 6:00 PM Rensselaer Library, 208 W Susan St, Rensselaer, IN 47978 Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

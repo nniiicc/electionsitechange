@@ -1,5 +1,4 @@
-Speaking truth.
-From the Heart and from our Heartland.
-WA Rep.
-Mary Dye to introduce legislation empowering local communities
-"Today, I am announcing legislation that will restore the power of decision-making to the communities most affected by energy projects in our state.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Speaking truth.
+From the Heart and from our Heartland. tips Jim Hedemark 6/19/19 tips Jim Hedemark 6/19/19 WA Rep.
+Mary Dye to introduce legislation empowering local communities "Today, I am announcing legislation that will restore the power of decision-making to the communities most affected by energy projects in our state.
+Read More Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

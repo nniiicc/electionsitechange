@@ -1,15 +1,54 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://lpcolorado.org/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://dougjones4co.com/",
-"https://dougjones4co.com/blog",
-"https://dougjones4co.com/donate",
-"https://dougjones4co.com/event-list",
-"https://dougjones4co.com/notifications",
-"https://dougjones4co.com/volunteer"
+{
+"text": "Blog",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.dougjones4co.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.dougjones4co.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.dougjones4co.com"
+},
+{
+"text": "Notifications",
+"href": "https://www.dougjones4co.com/notifications"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougjones4co.com/volunteer"
+},
+{
+"text": "[image: Doug-Jones-for-Colorado-House-15-logo]",
+"href": "http://www.lpcolorado.org"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

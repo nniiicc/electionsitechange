@@ -1,4 +1,4 @@
-Join Adams farm for an evening you’ll won’t want to miss; under the stars and around Southern Vermont’s largest Bonfire!
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Back to All Events Adam's Farm Concert Series Friday, August 30, 2024 5:00 PM 10:00 PM Google Calendar ICS Join Adams farm for an evening you’ll won’t want to miss; under the stars and around Southern Vermont’s largest Bonfire!
 Featuring Brattleboro’s awarding winning food truck; Biker Bob’s Burgers & Dogs.
 The Blond N’ Boozy Mobile Bar will be serving Beer, Wine & Specialty Cocktails.
 Take home fresh from the farm: farm products, art and farm merch.
@@ -8,5 +8,7 @@ Dan Fontaine adds sparkle with his banjo playing, and Bruce Avery will provide h
 Additional area musicians will carry forward the fun spirit of the Ridge Runners.
 Sliding scale admission; all ages & inclusion welcome.
 Pack your lawn blankets; but remember to leave your pets at home.
-NO BYOB. 15 Higley Hill Rd., Wilmington, VT @adamsfamilyfarmvt”
-For more info
+NO BYOB.
+15 Higley Hill Rd., Wilmington, VT @adamsfamilyfarmvt” For more info Previous Previous August 20 Wilmington Selectboard Meeting Next Next September 1 Ratu's Riverside Concert Series Donate Wilmington.
+Whitingham.
+Halifax

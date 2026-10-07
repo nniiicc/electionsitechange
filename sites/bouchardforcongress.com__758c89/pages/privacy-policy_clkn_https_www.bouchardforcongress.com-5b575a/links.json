@@ -1,21 +1,106 @@
 [
-"http://patharrigan.com/privacy-policy",
-"https://bouchardforcongress.com/",
-"https://bouchardforcongress.com/a-3-lightbox.html",
-"https://bouchardforcongress.com/a-4-lightbox.html",
-"https://bouchardforcongress.com/a-5-lightbox.html",
-"https://bouchardforcongress.com/a-6-lightbox.html",
-"https://bouchardforcongress.com/a-7-lightbox.html",
-"https://bouchardforcongress.com/a-8-lightbox.html",
-"https://bouchardforcongress.com/endorsements",
-"https://bouchardforcongress.com/internship-signups",
-"https://bouchardforcongress.com/news",
-"https://bouchardforcongress.com/press-release",
-"https://bouchardforcongress.com/privacy-policy",
-"https://bouchardforcongress.com/volunteer-today",
-"https://bouchardforcongress.com/yard-signs",
-"https://facebook.com/share/19usKzuWmt?mibextid=wwXIfr",
-"https://instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy",
-"https://secure.winred.com/friends-of-michael-bouchard-inc/donate",
-"https://x.com/bouchardformi"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.bouchardforcongress.com/endorsements/"
+},
+{
+"text": "INTERNSHIPS",
+"href": "https://www.bouchardforcongress.com/internship-signups/"
+},
+{
+"text": "NEWS",
+"href": "https://www.bouchardforcongress.com/news/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.bouchardforcongress.com/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bouchardforcongress.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-3-lightbox.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-4-lightbox.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-5-lightbox.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-6-lightbox.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-7-lightbox.html"
+},
+{
+"text": "READ MORE",
+"href": "https://www.bouchardforcongress.com/a-8-lightbox.html"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bouchardforcongress.com/volunteer-today/"
+},
+{
+"text": "YARD SIGNS",
+"href": "https://www.bouchardforcongress.com/yard-signs/"
+},
+{
+"text": "[image]",
+"href": "https://www.bouchardforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/19usKzuWmt/?mibextid=wwXIfr"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy"
+},
+{
+"text": "[image]",
+"href": "https://x.com/bouchardformi"
+},
+{
+"text": "[no text]",
+"href": "http://www.patharrigan.com/privacy-policy"
+}
 ]

@@ -1,8 +1,7 @@
-En los temas
-Government works best when it is limited, transparent, and accountable to the people.
+Saltar al contenido Acerca de Tighe En los temas Donar Contacto Nuestro Partido Acerca de Tighe En los temas Donar Contacto Nuestro Partido En los temas Government works best when it is limited, transparent, and accountable to the people.
 Nevada’s families and workers deserve the freedom to build their lives without interference from bureaucrats, special interests, or political insiders.
 Nevada doesn’t need more empty promises from career politicians.
-Fight Corrupt Government.
+Aprende por qué deberías apoyar nuestra campaña → Fight Corrupt Government.
 Real accountability and No Excuses.
 Nevada needs representatives who show up, listen to their constituents, and treat their job as public service—not as a ladder for personal gain.
 Click here to read more...
@@ -11,8 +10,7 @@ Too often, that standard isn’t being met.
 Missed public forums, late filings, and questionable spending patterns should erase trust and make voters feel like the system answers to insiders, not to them.
 Incumbent Assembly Democratic Caucus leader and Speaker Pro Tempore Elaine Marzola’s campaign finance reports show funding tied to major corporate interests like MGM Resorts, Caesars, and Pfizer.
 In 2024 alone, she received $22,500 in campaign donations from MGM Resorts International and the Nevada Resorts PAC while representing plaintiffs in lawsuits involving those same interests.
-Her most recent campaign finance filings
-show spending patterns that include near-daily coffee purchases and even expensive sushi dinners.
+Her most recent campaign finance filings show spending patterns that include near-daily coffee purchases and even expensive sushi dinners.
 Campaign funds are meant to serve the public—not bankroll a lifestyle.
 That’s exactly the kind of politics Nevadans are tired of.
 Republican Patsy Carvalho publicly committed to debating Tighe and then failed to show up.
@@ -33,7 +31,7 @@ That includes reforming the federal government's enormous role in Nevada's publi
 Federal agencies control the vast majority of land in Nevada, affecting housing, conservation, recreation, energy, mining, and economic development.
 Tighe supports greater state, local, and tribal participation in these decisions.
 Tighe also opposes the use of Nevada's National Guard in endless wars.
-He will propose a Defend the Guard Act, which would seek to prevent Nevada Guard units from being deployed into foreign hostilities without the constitutional authorization of Congress.
+He will propose a Defend the Guard Act , which would seek to prevent Nevada Guard units from being deployed into foreign hostilities without the constitutional authorization of Congress.
 Tighe opposes warrantless surveillance, civil asset forfeiture, censorship, and unnecessary government intrusion into the lives of peaceful people.
 Nevada should not turn local law enforcement into an extension of federal immigration enforcement, and Tighe opposes using state and local resources to assist ICE operations.
 Tighe also opposes government use of automated license-plate-reader networks, such as the systems operated by Flock Safety, to create searchable databases of people's movements without a warrant.
@@ -148,7 +146,7 @@ Tighe supports transferring appropriate federal lands to state, local, tribal, o
 Real energy independence.
 Break up NV Energy.
 Nevada should have one of the most competitive and innovative energy markets in the country, but today it is dominated by a single monopoly.
-NV Energy claimed they would not raise rates—they lied.
+NV Energy claimed they would not raise rates—they lied .
 Click here to read more...
 Tighe supports breaking up the NV Energy monopoly and reopening Nevada’s electricity market to real competition.
 When one company controls nearly the entire power system, consumers are left with fewer choices, higher costs, and less innovation.
@@ -157,3 +155,4 @@ By introducing real competition, Nevada can drive down prices, attract investmen
 That includes expanding retail choice, allowing independent energy providers to enter the market, and reducing regulatory barriers that prevent new competitors from emerging.
 A competitive energy market would empower consumers to choose plans that fit their needs, whether that means lower costs, renewable energy options, or more reliable service.
 By allowing multiple providers to compete, Nevada can lower energy prices, encourage investment in new technologies, and give residents and businesses more control over how they power their homes and communities.
+Desplazar al principio Spanish English

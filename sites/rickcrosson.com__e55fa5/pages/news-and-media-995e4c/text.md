@@ -1,15 +1,11 @@
-Article • Oct 03, 2026 LETTER: Appleton reader voices support for Crosson for Congress Appleton Post-Crescent Read
-Article • Oct 03, 2026 Running in the Red – A True Hero Doesn’t Hesitate to Change the World Balloon Juice Read
-Article • Oct 01, 2026 Crosson, Wied vie for 8th Congressional District | Election 2026 Green Bay Press-Gazette Read
-Article • Sep 30, 2026 LETTER: Appleton reader supports Crosson for Congress Dist. 8 seat Appleton Post-Crescent Read
-Article • Sep 18, 2026 Tony Wied, Rick Crosson share priorities in 8th Congressional District race The Oshkosh Northwestern / Fond du Lac Reporter Read
-Article • Aug 12, 2026 Crosson wins Democratic nomination in Wisconsin’s 8th, setting matchup with Rep.
-Tony Wied WTAQ Read
-Article • Aug 12, 2026 Republican U.S.
+Skip to content Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate Donate Contact Endorsements Get Involved Meet Rick News & Media Priorities Donate News & Media Articles Photos Podcasts Videos Articles Article • Oct 03, 2026 LETTER: Appleton reader voices support for Crosson for Congress Appleton Post-Crescent Read Article • Oct 03, 2026 Running in the Red – A True Hero Doesn’t Hesitate to Change the World Balloon Juice Read Article • Oct 01, 2026 Crosson, Wied vie for 8th Congressional District | Election 2026 Green Bay Press-Gazette Read Article • Sep 30, 2026 LETTER: Appleton reader supports Crosson for Congress Dist.
+8 seat Appleton Post-Crescent Read Article • Sep 30, 2026 Wednesday Iola-Scandinavia news shorts HeadspringIS Read Article • Sep 18, 2026 Tony Wied, Rick Crosson share priorities in 8th Congressional District race The Oshkosh Northwestern / Fond du Lac Reporter Read Article • Aug 12, 2026 Crosson wins Democratic nomination in Wisconsin’s 8th, setting matchup with Rep.
+Tony Wied WTAQ Read Article • Aug 12, 2026 Republican U.S.
 Rep.
-Weid will face Democrat Rick Crosson in 8th CD Wisconsin Examiner Read
-Article • Aug 11, 2026 Democrat Rick Crosson to face Rep.
-Tony Wied for Wisconsin’s 8th Congressional District WBAY Read
-Article • Jun 16, 2026 Running in the Red Balloon Juice – Running in the Red – Affordability, Accountability, and Results Read
-Article • Aug 18, 2025 Green Bay Press Gazette Former Green Bay School Board member Rick Crosson announces run for 8th Congressional District Read
-Podcast • Dec 14, 2025 The Fragout Podcast SE7 #243 Rick Crosson – 8th Congressional Candiate CastboxSpotify
+Weid will face Democrat Rick Crosson in 8th CD Wisconsin Examiner Read Article • Aug 11, 2026 Democrat Rick Crosson to face Rep.
+Tony Wied for Wisconsin’s 8th Congressional District WBAY Read Article • Jun 16, 2026 Running in the Red Balloon Juice – Running in the Red – Affordability, Accountability, and Results Read Article • Sep 5, 2025 WGBW Green Bay’s Rick Crosson runs for 8th Congressional District Read Article • Aug 18, 2025 Green Bay Press Gazette Former Green Bay School Board member Rick Crosson announces run for 8th Congressional District Read Photos Rick Group Photos Rick Group Photos Podcasts Podcast • July 23, 2026 The KOSH Podcast Watch Podcast • Dec 14, 2025 The Fragout Podcast SE7 #243 Rick Crosson – 8th Congressional Candiate Castbox Spotify Podcast • Dec 12, 2025 Outside the Box Jason Zimmerman Fills In For Ben Part 2 Listen Podcast • Sep 6, 2025 Rational Revolution 8th Congressional District Candidate Rick Crosson Listen Videos YouTube • September 24, 2026 Fox 11 Watch Video • August 30, 2026 Newsmaker Sunday Watch YouTube • June 15, 2026 Convention Speech Watch YouTube • February 28, 2026 Fireside with Rick – Career, Bragging about Kids, Congress?
+Watch YouTube • December 14, 2025 Rick Crosson.
+Leadership That Serves.
+Values That Unite.
+Watch YouTube • February 7, 2025 Hometown Heroes Rick Crosson Watch Support Rick Crosson for Congress Choose an amount to continue securely to ActBlue. $5 $25 $50 $100 $250 Other Website Policies P.O.
+Box 11321, Green Bay, WI 54307 info@rickcrosson.com Paid For by Rick Crosson for Congress Website Powered by WordPress and Built by Daniel Mulladzhanov

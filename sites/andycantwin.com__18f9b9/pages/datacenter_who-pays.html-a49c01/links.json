@@ -1,22 +1,110 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/datacenter/impact.html",
-"https://andycantwin.com/datacenter/raleigh.html",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/datacenter/the-thing.html",
-"https://andycantwin.com/datacenter/the-vote.html",
-"https://andycantwin.com/datacenter/who-pays.html",
-"https://andycantwin.com/duke",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://datacenterdynamics.com/en/news/duke-energy-to-extend-life-of-carolina-coal-plants-to-meet-surging-data-center-demand",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage",
-"https://ncleg.gov/BillLookup/2025/S730",
-"https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina",
-"https://secure.actblue.com/donate/andybowline",
-"https://wunc.org/environment/2025-10-08/epa-emissions-rollback-duke-energy-coal-plant-retirements"
+{
+"text": "1",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "2",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "3",
+"href": "https://andycantwin.com/datacenter/who-pays.html"
+},
+{
+"text": "4",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "5",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "6",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Data Center Dynamics on Duke extending coal plant lives for data center demand",
+"href": "https://www.datacenterdynamics.com/en/news/duke-energy-to-extend-life-of-carolina-coal-plants-to-meet-surging-data-center-demand/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Duke's early site permit application for SMRs near Belews Creek (Dec 2025)",
+"href": "https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina"
+},
+{
+"text": "FOX8 in June",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "FOX8: developer working with Duke to finalize power delivery (June 2026)",
+"href": "https://myfox8.com/news/north-carolina/stokes/proposed-data-center-in-walnut-cove-set-back-to-public-hearing-stage/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Power Bill field guide",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "Senate Bill 730",
+"href": "https://www.ncleg.gov/BillLookup/2025/S730"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "The full story on the stalled bill is ahead at stop 5.",
+"href": "https://andycantwin.com/datacenter/raleigh.html#sb730"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WUNC: Belews Creek, originally set to retire at the end of 2035, could run as late as January 1, 2040 (Oct 2025)",
+"href": "https://www.wunc.org/environment/2025-10-08/epa-emissions-rollback-duke-energy-coal-plant-retirements"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "how the machine works: Your Power Bill, the field guide →",
+"href": "https://andycantwin.com/duke/"
+},
+{
+"text": "its own story",
+"href": "https://andycantwin.com/datacenter/the-thing.html#scale"
+},
+{
+"text": "next · stop 4Your county decides alone",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "← back to the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "← the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+}
 ]

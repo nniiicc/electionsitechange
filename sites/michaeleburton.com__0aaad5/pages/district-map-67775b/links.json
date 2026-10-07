@@ -1,18 +1,74 @@
 [
-"https://michaeleburton.com/",
-"https://michaeleburton.com/about",
-"https://michaeleburton.com/business",
-"https://michaeleburton.com/cart",
-"https://michaeleburton.com/conservation",
-"https://michaeleburton.com/district-map",
-"https://michaeleburton.com/ethics-reform",
-"https://michaeleburton.com/healthcare",
-"https://michaeleburton.com/helping-veterans",
-"https://michaeleburton.com/issues",
-"https://michaeleburton.com/legislation",
-"https://michaeleburton.com/photo-gallery-1",
-"https://michaeleburton.com/saving-tower-tee",
-"https://michaeleburton.com/seniors",
-"https://michaeleburton.com/volunteer",
-"https://secure.actblue.com/donate/friends-of-michael-burton-1"
+{
+"text": "0",
+"href": "https://www.michaeleburton.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.michaeleburton.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.michaeleburton.com/"
+},
+{
+"text": "Conservation",
+"href": "https://www.michaeleburton.com/conservation"
+},
+{
+"text": "District Map",
+"href": "https://www.michaeleburton.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-michael-burton-1"
+},
+{
+"text": "Ethics Reform",
+"href": "https://www.michaeleburton.com/ethics-reform"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.michaeleburton.com/issues"
+},
+{
+"text": "Folder: Legislation",
+"href": "https://www.michaeleburton.com/legislation"
+},
+{
+"text": "Healthcare",
+"href": "https://www.michaeleburton.com/healthcare"
+},
+{
+"text": "Helping Veterans",
+"href": "https://www.michaeleburton.com/helping-veterans"
+},
+{
+"text": "Home",
+"href": "https://www.michaeleburton.com/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.michaeleburton.com/photo-gallery-1"
+},
+{
+"text": "Saving Tower Tee",
+"href": "https://www.michaeleburton.com/saving-tower-tee"
+},
+{
+"text": "Seniors",
+"href": "https://www.michaeleburton.com/seniors"
+},
+{
+"text": "Small Businesses",
+"href": "https://www.michaeleburton.com/business"
+},
+{
+"text": "Volunteer",
+"href": "https://www.michaeleburton.com/volunteer"
+},
+{
+"text": "[image: Michael Burton for State Representative]",
+"href": "https://www.michaeleburton.com/"
+}
 ]

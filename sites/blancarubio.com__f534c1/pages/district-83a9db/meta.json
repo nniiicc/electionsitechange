@@ -1,9 +1,12 @@
 {
  "description": "California State Assembly District 48",
  "final_url": "https://www.blancarubio.com/district/",
- "paid_for_by": "Paid for by Blanca Rubio for Assembly 2024 \u2022 FPPC ID #1456604 Site by BSC",
- "title": "Our District \u2013 Assemblywoman Blanca Rubio",
+ "fingerprint": "0b88da616aa327b897e79ce83a54e01b82ca511f",
+ "format": 3,
+ "paid_for_by": "Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC",
+ "title": "Our District – Assemblywoman Blanca Rubio",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2024"
  ]
 }

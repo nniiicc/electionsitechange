@@ -1,8 +1,30 @@
 [
-"https://abramsforohio.com/",
-"https://abramsforohio.com/about",
-"https://abramsforohio.com/home",
-"https://abramsforohio.com/privacy-policy",
-"https://abramsforohio.com/search",
-"https://secure.winred.com/abrams-for-ohio/donate"
+{
+"text": "About",
+"href": "https://abramsforohio.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/abrams-for-ohio/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://abramsforohio.com/home/#contact"
+},
+{
+"text": "Privacy Policy",
+"href": "https://abramsforohio.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://abramsforohio.com/about"
+},
+{
+"text": "[image: Cindy Abrams for Ohio]",
+"href": "https://abramsforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://abramsforohio.com/search"
+}
 ]

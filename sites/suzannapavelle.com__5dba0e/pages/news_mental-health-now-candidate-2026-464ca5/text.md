@@ -1,6 +1,9 @@
-About the designation
-Suzanna Pavelle has been designated a 2026 Mental Health Now Candidate, recognizing her commitment to keeping mental health front of mind in public service.
+= scrolledFromTopThreshold; logoScrolled = window.pageYOffset >= logoOpacityThreshold" :class="{ 'bg-white': !isHeaderTransparent, 'bg-transparent site-header--over-hero': isHeaderTransparent && !scrolledFromTop }" class="fixed inset-x-0 top-0 z-10 px-4 site-header lg:px-8 js-header transition-colors duration-300 in-[.admin-bar]:top-[32px]" > Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News Donate Volunteer Menu Close Slideover Navigation Close Meet Suzanna Priorities Issues Close Issues Affordability Public Education Smart Growth Contact Events News Recognition Suzanna Pavelle designated a 2026 Mental Health Now Candidate A 2026 campaign recognition for Suzanna Pavelle.
+About the designation Suzanna Pavelle has been designated a 2026 Mental Health Now Candidate, recognizing her commitment to keeping mental health front of mind in public service.
 The Mental Health Now Candidate designation highlights candidates who have committed to advancing mental health policy and to governing with mental health front of mind.
 Suzanna is committed to making sure mental health remains part of the conversation about the policies that shape the well-being of families and communities across Florida House District 19.
 The Mental Health Now Candidate designation is not an endorsement.
 It is a signal to voters that a candidate has committed to advancing mental health policy.
+Footer Suzanna Pavelle for Florida House 19 Meet Suzanna Priorities Issues Affordability Public Education Smart Growth Contact Events News BlueSky Twitter Threads Facebook © # Suzanna Pavelle for Florida House 19 Suzanna Pavelle is running for Florida State Representative in House District 19, serving Flagler County and part of St.
+Johns County, to fight for affordability, strong public schools, and responsible growth in 2026., Inc.
+All rights reserved.

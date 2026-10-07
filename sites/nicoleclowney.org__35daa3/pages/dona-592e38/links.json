@@ -1,15 +1,58 @@
 [
-"http://instagram.com/nicoleclowneyar",
-"https://crowdpac.com/campaigns/359069/nicole-clowney",
-"https://nicoleclowney.org/",
-"https://nicoleclowney.org/about",
-"https://nicoleclowney.org/asuntos",
-"https://nicoleclowney.org/conoceanicole",
-"https://nicoleclowney.org/contact",
-"https://nicoleclowney.org/dona",
-"https://nicoleclowney.org/donate",
-"https://nicoleclowney.org/issues",
-"https://nicoleclowney.org/mantenteencontacto",
-"https://nicoleclowney.org/pagina-principal",
-"https://secure.actblue.com/donate/nicoleclowneyar"
+{
+"text": "About",
+"href": "https://www.nicoleclowney.org/about"
+},
+{
+"text": "Asuntos",
+"href": "https://www.nicoleclowney.org/asuntos"
+},
+{
+"text": "Conoce a Nicole",
+"href": "https://www.nicoleclowney.org/conoceanicole"
+},
+{
+"text": "DONA",
+"href": "https://secure.actblue.com/donate/nicoleclowneyar"
+},
+{
+"text": "DONATE",
+"href": "https://www.crowdpac.com/campaigns/359069/nicole-clowney"
+},
+{
+"text": "Dona",
+"href": "https://www.nicoleclowney.org/dona"
+},
+{
+"text": "Donate",
+"href": "https://www.nicoleclowney.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.nicoleclowney.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.nicoleclowney.org/issues"
+},
+{
+"text": "Mantente en Contacto",
+"href": "https://www.nicoleclowney.org/mantenteencontacto"
+},
+{
+"text": "Pagina Principal",
+"href": "https://www.nicoleclowney.org/pagina-principal"
+},
+{
+"text": "Stay In Touch",
+"href": "https://www.nicoleclowney.org/contact"
+},
+{
+"text": "[image: Nicole Clowney for State Representative]",
+"href": "https://www.nicoleclowney.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/nicoleclowneyar"
+}
 ]

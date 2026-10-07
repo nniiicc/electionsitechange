@@ -1,5 +1,1 @@
-top of page
-Common Sense - Not Nonsense
-Life, Liberty, and the Pursuit of Happiness
-No events at the moment
-bottom of page
+top of page DONATE NOW TO HELP ELECT JEFF WILSON HOME MEET JEFF ISSUES ENDORSEMENTS NEWS JOIN EVENTS CONTACT DONATE ON WINRED DONATE ON ANEDOT Common Sense - Not Nonsense Life, Liberty, and the Pursuit of Happiness No events at the moment JOIN TEAM WILSON PRIVACY POLICY TERMS & CONDITIONS Paid for by Wilson for Congress bottom of page

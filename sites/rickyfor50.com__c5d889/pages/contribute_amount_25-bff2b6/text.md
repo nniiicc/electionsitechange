@@ -1,7 +1,9 @@
-Contribute/ Contribuye
-I’m running for the Florida House because I believe District 50 deserves a representative who listens first and leads with integrity.
+Home/ Inicio Meet Ricky/ Conoce a Ricky Events/ Eventos Issues/ Temas de Campaña Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Contribute/ Contribuye I’m running for the Florida House because I believe District 50 deserves a representative who listens first and leads with integrity.
 But I can't get there alone.
 Campaigns are powered by people, not special interests.
-Your contribution—whether it’s $10, $25, or $100—goes directly toward the grassroots work required to win: knocking on doors, sending mailers to undecided voters, and making sure our message is heard from Lakeland to Polk City and beyond.
+Your contribution—whether it’s $10, $25, or $100 —goes directly toward the grassroots work required to win: knocking on doors, sending mailers to undecided voters, and making sure our message is heard from Lakeland to Polk City and beyond.
 Invest in a stronger Florida today.
-Join our movement by making a contribution below, or visit: actblue.com/donate/rickyfor50
+Join our movement by making a contribution below, or visit: actblue.com/donate/rickyfor50 Complete your $ 25 contribution: Select Your Information Choose an amount: $5 $10 $15 $25 $50 $100 $250 $500 $1000 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Endorsements Yard Signs Events/ Eventos Photos Contact/ Contáctanos Committee to Elect Ricky Santiago for FL House Dist.50 Powered by CampaignPartner.com - Political Campaign Websites Home/ Inicio Meet Ricky/ Conoce a Ricky Issues/ Temas de Campaña Endorsements Contribute/ Contribuye Volunteer/ Voluntarios Yard Signs Events/ Eventos Contact/ Contáctanos Close Menu

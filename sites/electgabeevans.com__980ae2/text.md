@@ -1,6 +1,4 @@
-FIGHT BACK
-FOR COLORADO
-Congressman Gabe Evans is a conservative leader who has spent his entire life running toward challenge.
+0 Skip to Content MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Open Menu Close Menu MEET GABE ISSUES JOIN THE FIGHT ENDORSEMENTS English Back DONATE FIGHT BACK FOR COLORADO Congressman Gabe Evans is a conservative leader who has spent his entire life running toward challenge.
 He represents Colorado's 8th Congressional District, where he is fighting to secure the border, strengthen public safety, and make life more affordable for hardworking Coloradans.
 Before serving in Congress, Gabe spent twelve years in the U.S.
 Army and Colorado Army National Guard as a UH-60 Black Hawk helicopter pilot and company commander.
@@ -12,13 +10,9 @@ As parents of two boys (Bruce and Sammy), they are heavily involved in homeschoo
 Gabe is a certified concealed carry instructor who has taught hundreds of Coloradans about their inalienable rights.
 The grandson of Mexican immigrants, Gabe is a Colorado native who truly understands the beauty and responsibility of the American Dream.
 His commitment to preserving that sacred ideal is why he served in the military, stepped up for law enforcement, and now serves in Congress — fighting every day to make Colorado the best place to live, work, and raise a family.
-MEET GABE
-ISSUES
-American Prosperity
-Lower the cost of living by reining in deficit spending and the tax-and-regulate policies that are crushing our economy.
-American Security
-Ensure our military is focused on warfighting and not politically correct agendas.
-American Education
-Educational freedom means families can choose the education that works best for them.
-Defending American Values
-Protect freedom of expression, defend the Second Amendment, and secure the rights of all Americans.
+MEET GABE ISSUES American Prosperity Lower the cost of living by reining in deficit spending and the tax-and-regulate policies that are crushing our economy.
+American Security Ensure our military is focused on warfighting and not politically correct agendas.
+American Education Educational freedom means families can choose the education that works best for them.
+Defending American Values Protect freedom of expression, defend the Second Amendment, and secure the rights of all Americans.
+DONATE VOLUNTEER GABE EVANS FOR CONGRESS Privacy Policy Contact Us info@electgabeevans.com ‍ PO Box 350608, Westminster, CO 80035 If you would prefer to donate by mail, please mail checks made out to “Gabe Evans for Congress” to this address: PO Box 350608 Westminster, CO 80035 Use of Gabe Evans’ military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Paid for by ElectGabeEvans.com

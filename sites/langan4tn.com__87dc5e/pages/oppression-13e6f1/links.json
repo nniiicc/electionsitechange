@@ -1,18 +1,70 @@
 [
-"http://squarespace.com/",
-"https://langan4tn.com/",
-"https://langan4tn.com/about-me",
-"https://langan4tn.com/accomplish",
-"https://langan4tn.com/cart",
-"https://langan4tn.com/new-page",
-"https://langan4tn.com/themenu",
-"https://langan4tn.com/volunteer",
-"https://langan4tn.com/yard-signs",
-"https://secure.actblue.com/donate/langan4tn",
-"https://tennessean.com/story/news/politics/2026/02/20/tennessee-bill-death-penalty-women-abortion/88777975007",
-"https://tennesseelookout.com/2026/02/18/tennessee-house-panels-expedite-immigration-bills",
-"https://tnga.granicus.com/MediaPlayer.php?view_id=414&clip_id=17265&meta_id=411343",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1413&GA=114",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1746&GA=114",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=sb0354&GA=112"
+{
+"text": "0",
+"href": "https://www.langan4tn.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.langan4tn.com/about-me"
+},
+{
+"text": "Are They Working for You?",
+"href": "https://www.langan4tn.com/themenu"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/langan4tn"
+},
+{
+"text": "Get Involved",
+"href": "https://www.langan4tn.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "Inside Tennessee - Round Table with the Candidates",
+"href": "https://www.langan4tn.com/new-page"
+},
+{
+"text": "Langan for Tennessee",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "Punish Immigrants",
+"href": "https://tennesseelookout.com/2026/02/18/tennessee-house-panels-expedite-immigration-bills/"
+},
+{
+"text": "Punish LGBTQ+",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1746&GA=114"
+},
+{
+"text": "Punish Women",
+"href": "https://www.tennessean.com/story/news/politics/2026/02/20/tennessee-bill-death-penalty-women-abortion/88777975007/"
+},
+{
+"text": "SB0354",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=sb0354&GA=112"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "What I Hope to Accomplish",
+"href": "https://www.langan4tn.com/accomplish"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.langan4tn.com/yard-signs"
+},
+{
+"text": "https://tnga.granicus.com/MediaPlayer.php?view_id=414&clip_id=17265&meta_id=411343",
+"href": "https://tnga.granicus.com/MediaPlayer.php?view_id=414&clip_id=17265&meta_id=411343"
+},
+{
+"text": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1413&GA=114",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1413&GA=114"
+}
 ]

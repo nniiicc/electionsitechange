@@ -1,44 +1,190 @@
 [
-"https://citizensforsuzanneness.com/",
-"https://citizensforsuzanneness.com/about-suzanne",
-"https://citizensforsuzanneness.com/author/adminroxie",
-"https://citizensforsuzanneness.com/calendar",
-"https://citizensforsuzanneness.com/category/fundraiser",
-"https://citizensforsuzanneness.com/contact",
-"https://citizensforsuzanneness.com/endorsements",
-"https://citizensforsuzanneness.com/join-the-party-celebration-fundraiser-2024",
-"https://citizensforsuzanneness.com/platform",
-"https://citizensforsuzanneness.com/privacy-policy",
-"https://citizensforsuzanneness.com/show-your-support-for-suzanne-with-stickers",
-"https://citizensforsuzanneness.com/volunteer",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2127.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2128.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2137.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2144.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2163.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2170.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2209.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2215.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2232.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2243.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2248.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2297.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2313.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2337.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2347.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2352.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2359.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2370.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2399.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2405.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2430.jpg",
-"https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2438.jpg",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fcitizensforsuzanneness.com%2F2023-lead-like-lincoln-event-recap%2F&t=2023+Lead+Like+Lincoln+Event+Recap",
-"https://facebook.com/vote4SuzanneNess",
-"https://followthemoney.org/entity-details?eid=48524776",
-"https://instagram.com/suzanne_for66",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcitizensforsuzanneness.com%2F2023-lead-like-lincoln-event-recap%2F&title=2023+Lead+Like+Lincoln+Event+Recap",
-"https://secure.actblue.com/donate/citizens-for-suzanne-ness-1",
-"https://tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc",
-"https://youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+{
+"text": "ABOUT",
+"href": "https://citizensforsuzanneness.com/about-suzanne/"
+},
+{
+"text": "CONTACT",
+"href": "https://citizensforsuzanneness.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/citizens-for-suzanne-ness-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://citizensforsuzanneness.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://citizensforsuzanneness.com/calendar/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fcitizensforsuzanneness.com%2F2023-lead-like-lincoln-event-recap%2F&subject=2023+Lead+Like+Lincoln+Event+Recap"
+},
+{
+"text": "FOLLOW THE MONEY",
+"href": "https://www.followthemoney.org/entity-details?eid=48524776"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcitizensforsuzanneness.com%2F2023-lead-like-lincoln-event-recap%2F&t=2023+Lead+Like+Lincoln+Event+Recap"
+},
+{
+"text": "Fundraiser",
+"href": "https://citizensforsuzanneness.com/category/fundraiser/"
+},
+{
+"text": "HOME",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcitizensforsuzanneness.com%2F2023-lead-like-lincoln-event-recap%2F&title=2023+Lead+Like+Lincoln+Event+Recap&summary="
+},
+{
+"text": "Next",
+"href": "https://citizensforsuzanneness.com/join-the-party-celebration-fundraiser-2024/"
+},
+{
+"text": "PLATFORM",
+"href": "https://citizensforsuzanneness.com/platform/"
+},
+{
+"text": "Previous",
+"href": "https://citizensforsuzanneness.com/show-your-support-for-suzanne-with-stickers/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://citizensforsuzanneness.com/privacy-policy/"
+},
+{
+"text": "Roxie S",
+"href": "https://citizensforsuzanneness.com/author/adminroxie/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://citizensforsuzanneness.com/volunteer/"
+},
+{
+"text": "[image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo]",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2127.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2128.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2137.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2144.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2163.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2170.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2209.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2215.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2232.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2243.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2248.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2297.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2313.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2337.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2347.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2352.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2359.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2370.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2399.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2405.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2430.jpg"
+},
+{
+"text": "[image]",
+"href": "https://citizensforsuzanneness.com/wp-content/uploads/2023/12/IMG_2438.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/vote4SuzanneNess/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/suzanne_for66/"
+},
+{
+"text": "[tooltip: Mail]",
+"href": "mailto:vote4suzanneness@gmail.com"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:224-493-2154"
+},
+{
+"text": "[tooltip: Tiktok]",
+"href": "https://www.tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+},
+{
+"text": "vote4suzanneness@gmail.com",
+"href": "mailto:vote4suzanneness@gmail.com"
+}
 ]

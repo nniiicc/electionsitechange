@@ -1,30 +1,4 @@
-Governor Ned Lamont is proud to have earned the endorsement of statewide leaders, local legislators, advocates and unions around the state of Connecticut!
-Advocates
-Planned Parenthood Votes! endorses Ned Lamont
-CT Hispanic Democratic Caucus endorses Ned Lamont
-CT Against Gun Violence endorses Ned Lamont
-Unions
-Connecticut AFL-CIO endorses Governor Ned Lamont
-Connecticut State Building Trades Council endorse Governor Ned Lamont
-Connecticut Laborer’s Union endorse Governor Ned Lamont
-Connecticut Carpenters Union endorse Governor Ned Lamont
-Connecticut Teamsters Unions endorse Governor Ned Lamont
-Teamsters Local 671 endorse Governor Ned Lamont
-Amalgamated Transit Union endorse Governor Ned Lamont
-UNITE HERE endorse Governor Ned Lamont
-UNITE HERE, Local 34, endorses Governor Ned Lamont
-32BJ SEIU endorses Governor Ned Lamont
-Union of Operating Engineers, Local 478, endorses Governor Ned Lamont
-Uniformed Professional Firefighters Association endorse Governor Ned Lamont
-Business Groups
-CT REALTORS® endorse Governor Ned Lamont
-Statewide Leaders
-Senators Richard Blumenthal and Chris Murphy endorse Governor Ned Lamont
-Representatives Courtney, Larson, DeLauro, Himes and Hayes endorse Governor Ned Lamont
-Governor Lamont Endorsed by Attorney General Tong, Comptroller Scanlon, Treasurer Russell
-Local Democratic Leaders
-Governor Lamont is endorsed by 93 state lawmakers
-Governor Lamont is endorsed by over 50 municipal leaders around Connecticut
-Governor Lamont is endorsed by 86 Democratic Town Committees Chairs
-Governor Lamont is endorsed by 46 Democratic State Central Committee members
-College Democrats of Connecticut endorse Governor Ned Lamont
+Skip to main Make A Plan To Vote Click Here about priorities endorsements news get involved events vote Donate G﻿overnor Ned Lamont is proud to have earned the endorsement of statewide leaders, local legislators, advocates and unions around the state of Connecticut!
+Advocates Planned Parenthood Votes! endorses Ned Lamont CT Hispanic Democratic Caucus endorses Ned Lamont CT Against Gun Violence endorses Ned Lamont U﻿nions Connecticut AFL-CIO endorses Governor Ned Lamon t Connecticut State Building Trades Council endorse Governor Ned Lamont Connecticut Laborer’s Union endorse Governor Ned Lamont Connecticut Carpenters Union endorse Governor Ned Lamont Connecticut Teamsters Unions endorse Governor Ned Lamont Teamsters Local 671 endorse Governor Ned Lamont Amalgamated Transit Union endorse Governor Ned Lamont UNITE HERE endorse Governor Ned Lamont UNITE HERE, Local 34, endorses Governor Ned Lamont 32BJ SEIU endorses Governor Ned Lamont U﻿nion of Operating Engineers, Local 478, endorses Governor Ned Lamont Uniformed Professional Firefighters Association endorse Governor Ned Lamont Business Groups CT REALTORS® endorse Governor Ned Lamont S﻿tatewide Leaders S﻿enators Richard Blumenthal and Chris Murphy endorse Governor Ned Lamont R﻿epresentatives Courtney, Larson, DeLauro, Himes and Hayes endorse Governor Ned Lamont Governor Lamont Endorsed by Attorney General Tong, Comptroller Scanlon, Treasurer Russell L﻿ocal Democratic Leaders G﻿overnor Lamont is endorsed by 93 state lawmakers G﻿overnor Lamont is endorsed by over 50 municipal leaders around Connecticut G﻿overnor Lamont is endorsed by 86 Democratic Town Committees Chairs Governor Lamont is endorsed by 46 Democratic State Central Committee members C﻿ollege Democrats of Connecticut endorse Governor Ned Lamont home about priorities accomplishments endorsements news get involved events progressive wins jobs vote Donate PO Box 457 Ridgefield, CT 06877 info@nedlamont.com Donate By Mail: Download this form and mail with check to: PO Box 457 Ridgefield, CT 06877 privacy policy terms Paid for by Ned for CT.
+Gabriela Koc, Treasurer.
+Approved by Ned Lamont.

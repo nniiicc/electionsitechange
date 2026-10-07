@@ -1,6 +1,5 @@
-Janene Ackles-Dublin is a proud mother, wife, and long-time resident of District 43, where she has built both her family and her life’s purpose—serving the community she loves.
-Born in Maryland and raised in a family rooted in service,
-Her father served in World War I, World War II, and Vietnam.
+HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT Janene Ackles-Dublin is a proud mother, wife, and long-time resident of District 43, where she has built both her family and her life’s purpose—serving the community she loves.
+Born in Maryland and raised in a family rooted in service, Her father served in World War I, World War II, and Vietnam.
 He began military service in the US Marine Corps and retired from the US Army.
 He completed a second career in the post office.
 Her mother was an educator and trailblazer.
@@ -19,4 +18,5 @@ Janene is a proud member of the Triple Nickels and the founder of “DisruptHERS
 Over the past year, she has also volunteered her grant writing services to nonprofits throughout Cumberland County, helping secure critical funding for programs, shelters, youth initiatives, and community development efforts.
 Janene’s priorities for District 43 reflect the values she has lived by her entire life: comprehensive healthcare for every citizen, transformative education reforms—especially in rural communities, strong rural economic initiatives that create real job opportunities, clean soil and water for every family, and safe neighborhoods for all.
 As a wife, the mother of a blended family of eight adult children, a grandmother, and a longtime community champion affectionately known as “Momma J,” she understands the everyday challenges and hopes of District 43 because she has lived them too.
-With deep roots, proven leadership, and a true heart for service, Janene Ackles asks for your vote—and your partnership—in bringing positive, meaningful change to North Carolina House District 43
+With deep roots, proven leadership, and a true heart for service, Janene Ackles asks for your vote—and your partnership—in bringing positive, meaningful change to North Carolina House District 43 DONATE FUNDRAISER VOLUNTEER FACEBOOK Get Updates Thank you for signing up!
+Voter Information ENDORSEMENTS EVENTS PHOTOS CONTACT Committee to Elect Janene Ackles Powered by CampaignPartner.com - Political Websites HOME MEET JANENE OUR FIGHT ENDORSEMENTS EVENTS VOLUNTEER CONTACT Voter Information PHOTOS Close Menu

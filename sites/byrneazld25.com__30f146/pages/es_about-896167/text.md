@@ -1,10 +1,8 @@
-Una Vida de Servicio a Arizona
-Maestra.
+Cámara de Representantes de Arizona · Distrito 25 · 2026 English Inicio Sobre Tiffany Temas Eventos Preguntas Frecuentes Contacto Recibe Actualizaciones Boleta 2026 Sobre Tiffany Una Vida de Servicio a Arizona Maestra.
 Defensora.
 Líder Comunitaria.
 Candidata.
-Tres Décadas de Raíces en Arizona
-Tiffany Byrne es candidata demócrata enfocado en soluciones prácticas a la Cámara de Representantes de Arizona por el Distrito Legislativo 25 en las elecciones de 2026.
+Tiffany Byrne Candidata, Arizona LD 25 Su Historia Tres Décadas de Raíces en Arizona Tiffany Byrne es candidata demócrata enfocado en soluciones prácticas a la Cámara de Representantes de Arizona por el Distrito Legislativo 25 en las elecciones de 2026.
 Residente de Arizona desde hace 30 años, fue maestra de química de preparatoria por más de 20 años antes de servir como líder de educación en ciencias de kínder a 12.º grado, y fue nombrada Maestra del Año en su distrito escolar.
 Su campaña se centra en el financiamiento de la educación pública, la oportunidad económica, la política del agua y del uso de la tierra, y la rendición de cuentas del gobierno.
 El Distrito Legislativo 25 abarca el Valle Oeste de Arizona desde Bell Road y el Loop 303 hacia el sur y el oeste a través de Buckeye, Surprise y Waddell en el oeste del condado de Maricopa, extendiéndose hasta Yuma y el norte del condado de Yuma.
@@ -17,18 +15,15 @@ A través de este trabajo, pudo ver de primera mano cómo los cimientos sólidos
 Estas experiencias moldearon su creencia en un liderazgo práctico y de sentido común que pone a las personas antes de la política.
 Ha visto lo que funciona y lo que no.
 Sabe que las decisiones tomadas en la legislatura estatal afectan directamente a las familias, y está lista para luchar por todos.
-Soluciones Reales que Tienen Sentido
-"Me postulo para la Cámara de Representantes de Arizona porque nuestra comunidad merece una representante enfocada en soluciones reales a los desafíos que enfrentamos.
+Por Qué Se Postula Soluciones Reales que Tienen Sentido " Me postulo para la Cámara de Representantes de Arizona porque nuestra comunidad merece una representante enfocada en soluciones reales a los desafíos que enfrentamos.
 Necesitamos a alguien que escuche a toda la comunidad y entienda esos desafíos de primera mano.
 Nuestras comunidades merecen líderes que unan a las personas, no que las dividan.
-Trabajaré para sanar las divisiones, escuchar cada voz y enfocarse en soluciones prácticas que mejoren la calidad de vida de todos los arizonenses."
-Lo Que Guía a Tiffany
-Comunidad Primero
-Cada decisión debe servir a las familias y vecindarios del LD 25 — no a la política partidista ni a intereses especiales.
-Liderazgo Honesto
-Gobierno transparente y ético que respeta a cada votante y cada voz, independientemente del partido.
-Soluciones Prácticas
-Experiencia del mundo real por encima de la ideología.
+Trabajaré para sanar las divisiones, escuchar cada voz y enfocarse en soluciones prácticas que mejoren la calidad de vida de todos los arizonenses. " — Tiffany Byrne Valores Fundamentales Lo Que Guía a Tiffany Comunidad Primero Cada decisión debe servir a las familias y vecindarios del LD 25 — no a la política partidista ni a intereses especiales.
+Liderazgo Honesto Gobierno transparente y ético que respeta a cada votante y cada voz, independientemente del partido.
+Soluciones Prácticas Experiencia del mundo real por encima de la ideología.
 Tiffany aporta décadas de resolución de problemas a desafíos complejos.
-Pensamiento a Largo Plazo
-Construyendo bases sólidas y resilientes hoy para que la próxima generación herede un Arizona más fuerte.
+Pensamiento a Largo Plazo Construyendo bases sólidas y resilientes hoy para que la próxima generación herede un Arizona más fuerte.
+Luchando por las familias, estudiantes y comunidades trabajadoras del Distrito 25.
+Enlaces Rápidos Sobre Tiffany Temas Eventos Preguntas Frecuentes Contacto Recibe Actualizaciones Boleta 2026 Contacto byrneazld25@gmail.com Síguenos Pagado por el Comité de Tiffany Byrne para Representante Estatal del Distrito Legislativo 25.
+Autorizado por la Candidata Tiffany Byrne. © # Tiffany Byrne para Arizona LD 25.
+Todos los derechos reservados.

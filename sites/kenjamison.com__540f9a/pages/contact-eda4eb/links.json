@@ -1,9 +1,30 @@
 [
-"https://kenjamison.com/",
-"https://kenjamison.com/about-ken-jamison",
-"https://kenjamison.com/contact",
-"https://kenjamison.com/endorsements",
-"https://kenjamison.com/priorities",
-"https://kenjamison.com/volunteer",
-"https://secure.actblue.com/donate/jamison-for-missouri-3"
+{
+"text": "About Ken",
+"href": "https://kenjamison.com/about-ken-jamison/"
+},
+{
+"text": "Contact",
+"href": "https://kenjamison.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jamison-for-missouri-3"
+},
+{
+"text": "Endorsements",
+"href": "https://kenjamison.com/endorsements/"
+},
+{
+"text": "Priorities",
+"href": "https://kenjamison.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://kenjamison.com/volunteer/"
+},
+{
+"text": "[image: Jamison For Missouri]",
+"href": "https://kenjamison.com"
+}
 ]

@@ -1,4 +1,3 @@
-“I am a lifelong conservative who was born and raised in West Tennessee.
+Toggle navigation Home About Issues News Volunteer Contact Donate Facebook Twitter Instagram Donate “I am a lifelong conservative who was born and raised in West Tennessee.
 Having served as our United States Attorney, I know just how important it is we work together to keep our community safe, secure, and prosperous.
-I look forward to earning your vote.”
-– David Kustoff
+I look forward to earning your vote.” – David Kustoff Meet David Supporting the Trump Agenda Fighting Terror Maintaining Law & Order Ending Illegal Immigration Standing for West TN Values Strengthening Our Rural Economy Connect with David David Kustoff Home About Issues News Volunteer Contact Donate Paid for by Kustoff for Congress Privacy Policy | Terms & Conditions

@@ -1,5 +1,7 @@
-Meet Katy
-Katy Jackman Tyndell is an attorney, business owner, and Kansan whose family roots in this state run back five generations.
+Skip to content Issues News Events Store Vote Donate Issues News Events Store Vote Donate Deliver for Kansans Kansans need someone who will listen, fight, and deliver.
+Katy is running for KS-04 to do just that.
+Support Our Campaign $# $# $# $# $# Other If you’ve saved your information with ActBlue Express, your donation will go through immediately.
+Meet Katy Katy Jackman Tyndell is an attorney, business owner, and Kansan whose family roots in this state run back five generations.
 She grew up in a tiny ranching and farming town where everyone took responsibility, worked hard, and looked out for each other.
 It was this upbringing that instilled a work ethic and grit that have shaped every chapter of Katy’s life.
 After earning her law degree, Katy was hired as staff attorney for the National Congress of American Indians — where she fought to give voice to those too often overlooked.
@@ -24,8 +26,7 @@ Since he was first elected in 2017, Ron Estes has failed to hold in-person town 
 Most importantly, Katy believes a sense of responsibility – to your neighbors, to your community, to the next generation – is exactly what’s missing in Washington today.
 Instead of leaders who show up for us, we’ve got career politicians who answer to their biggest donors and leave the rest of us to fend for ourselves.
 She will fight to change that.
-Meet Katy
-Katy Jackman Tyndell is an attorney, business owner, and Kansan whose family roots in this state run back five generations.
+Support Us Meet Katy Katy Jackman Tyndell is an attorney, business owner, and Kansan whose family roots in this state run back five generations.
 She grew up in a tiny ranching and farming town where everyone took responsibility, worked hard, and looked out for each other.
 It was this upbringing that instilled a work ethic and grit that have shaped every chapter of Katy’s life.
 After earning her law degree, Katy was hired as staff attorney for the National Congress of American Indians — where she fought to give voice to those too often overlooked.
@@ -50,5 +51,9 @@ Since he was first elected in 2017, Ron Estes has failed to hold in-person town 
 Most importantly, Katy believes a sense of responsibility – to your neighbors, to your community, to the next generation – is exactly what’s missing in Washington today.
 Instead of leaders who show up for us, we’ve got career politicians who answer to their biggest donors and leave the rest of us to fend for ourselves.
 She will fight to change that.
-Stay Updated
-Sign up to receive updates and get involved!
+Support Us Stay Updated Sign up to receive updates and get involved!
+Email Address Phone Number (optional) Zip Code (optional) Sign me up for SMS Texts By submitting your phone number you're agreeing to receive periodic text messages from Tyndell for Congress.
+Message & data rates may apply.
+Text HELP for more info.
+Text STOP to stop receiving messages.
+I'm interested in Volunteering Join Donate PO Box 781004 Wichita, KS 67207 PAID FOR BY TYNDELL FOR CONGRESS Privacy Policy Privacy Policy Site by Kinetic Strategies Get in touch Facebook Instagram Youtube Tiktok info@katyforkansas.com Tyndell Campaign Headquarters 7803 E Osie St, Suite 110 Wichita, KS 67207 Mon–Fri: 10 AM – 2 PM (Mon & Thu also 5 – 7 PM) Sat–Sun: 10 AM – 4 PM Issues News Events Store Vote Donate Issues News Events Store Vote Donate

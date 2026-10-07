@@ -1,10 +1,7 @@
-Tuloso-Midway Junior High School Groundbreaking
-August 13, 2026 Lainez Architects joined Tuloso-Midway ISD and project partners to celebrate the groundbreaking of the new Tuloso-Midway Junior High School.
+Skip to content Home Meet Vicente Issues Accomplishments News Get Involved Media Home Meet Vicente Issues Accomplishments News Get Involved Media Donate Home Meet Vicente Issues Accomplishments News Get Involved Media Donate Now Blog Category: Blog Your blog category Tuloso-Midway Junior High School Groundbreaking August 13, 2026 Lainez Architects joined Tuloso-Midway ISD and project partners to celebrate the groundbreaking of the new Tuloso-Midway Junior High School.
 The milestone marks the beginning of construction on a new educational environment designed to serve the district’s students and community for years to come.
-Construction officially received notice to proceed in April 2026, […]
-Vicente Gonzalez Meets with Veterans and Local Families
-Vicente Gonzalez met with veterans and local families to discuss their needs, listen to concerns, and reaffirm his commitment to those who have served.
-Community Town Hall Highlights Healthcare and Education Concerns
-During a recent town hall, community members shared concerns about healthcare access and education, highlighting the issues most important to South Texas families.
-Vicente Gonzalez Addresses Local Leaders on Economic Priorities
-Vicente Gonzalez spoke with local leaders about strengthening the economy, supporting small businesses, and creating opportunities for working families across South Texas.
+Construction officially received notice to proceed in April 2026, […] Vicente Gonzalez Meets with Veterans and Local Families Vicente Gonzalez met with veterans and local families to discuss their needs, listen to concerns, and reaffirm his commitment to those who have served.
+Community Town Hall Highlights Healthcare and Education Concerns During a recent town hall, community members shared concerns about healthcare access and education, highlighting the issues most important to South Texas families.
+Vicente Gonzalez Addresses Local Leaders on Economic Priorities Vicente Gonzalez spoke with local leaders about strengthening the economy, supporting small businesses, and creating opportunities for working families across South Texas.
+Primary Election: March 3, 2026 General Election November 3, 2026 Home Meet Vicente Issues Accomplishments News Get Involved Media Follow us on Social Media Political Adv.
+Paid for by the Vicente Gonzalez for Congress Committee.

@@ -1,83 +1,474 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260815T160000Z%2F20260815T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260829T160000Z%2F20260829T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams+&dates=20260822T160000Z%2F20260822T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cocktail+Hour+at+Kimi%E2%80%99s+House&dates=20261007T000000Z%2F20261007T020000Z&location=4699+Highland+Drive%2C+Holladay%2C+Utah%2C+84117%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Cottage+Meeting&dates=20260929T000000Z%2F20260929T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260730T000000Z%2F20260730T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260731T000000Z%2F20260731T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260815T003000Z%2F20260815T023000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260829T010000Z%2F20260829T030000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Cottage+Party&dates=20260909T000000Z%2F20260909T013000Z&location=9167+Falcon+Circle%2C+Sandy%2C+Utah%2C+84093%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=HD42+Potluck&dates=20260920T000000Z%2F20260920T020000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Market+Street+Grill+Fundraising+Dinner&dates=20260820T000000Z%2F20260820T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+with+Iva+Williams&dates=20260812T000000Z%2F20260812T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+with+Iva+Williams+&dates=20260819T000000Z%2F20260819T020000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20260923T003000Z%2F20260923T024500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261002T003000Z%2F20261002T013000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261013T233000Z%2F20261014T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261021T003000Z%2F20261021T013000Z",
-"http://maps.google.com/?q=2725+Grouse+Creek+Circle+Sandy%2C+Utah%2C+84092+United+States",
-"http://maps.google.com/?q=4699+Highland+Drive+Holladay%2C+Utah%2C+84117+United+States",
-"http://maps.google.com/?q=9167+Falcon+Circle+Sandy%2C+Utah%2C+84093+United+States",
-"https://electivawilliams.com/",
-"https://electivawilliams.com/about",
-"https://electivawilliams.com/calendar",
-"https://electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt",
-"https://electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt?format=ical",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj?format=ical",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e?format=ical",
-"https://electivawilliams.com/calendar/canvass-with-iva-williams?format=ical",
-"https://electivawilliams.com/calendar/community-cottage-meeting",
-"https://electivawilliams.com/calendar/community-cottage-meeting?format=ical",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1?format=ical",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2?format=ical",
-"https://electivawilliams.com/calendar/cottage-meeting-with-iva-williams?format=ical",
-"https://electivawilliams.com/calendar/cottage-party",
-"https://electivawilliams.com/calendar/cottage-party?format=ical",
-"https://electivawilliams.com/calendar/fundraiser-at-kimis",
-"https://electivawilliams.com/calendar/fundraiser-at-kimis?format=ical",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht?format=ical",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e?format=ical",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2?format=ical",
-"https://electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr?format=ical",
-"https://electivawilliams.com/calendar/hd42-potluck",
-"https://electivawilliams.com/calendar/hd42-potluck?format=ical",
-"https://electivawilliams.com/calendar/market-street-grill-fundraising-dinner",
-"https://electivawilliams.com/calendar/market-street-grill-fundraising-dinner?format=ical",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7?format=ical",
-"https://electivawilliams.com/calendar/phonebank-with-iva-williams?format=ical",
-"https://electivawilliams.com/cart",
-"https://electivawilliams.com/contact",
-"https://electivawilliams.com/endorsements",
-"https://electivawilliams.com/get-involved",
-"https://electivawilliams.com/priorities",
-"https://electivawilliams.com/volunteer",
-"https://facebook.com/share/1BdWvkF5ug?mibextid=wwXIfr",
-"https://instagram.com/elect.iva",
-"https://mobilize.us/s/lNevn2",
-"https://mobilize.us/s/yqvdFU",
-"https://mobilize.us/utahdemocrats/event/1001609",
-"https://mobilize.us/utahdemocrats/event/1001615",
-"https://mobilize.us/utahdemocrats/event/1001617",
-"https://mobilize.us/utahdemocrats/event/1014637?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link",
-"https://mobilize.us/utahdemocrats/event/1018892",
-"https://mobilize.us/utahdemocrats/event/1034828",
-"https://mobilize.us/utahdemocrats/event/991935?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link",
-"https://mobilize.us/utahdemocrats/event/991938?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link",
-"https://secure.actblue.com/donate/electivawilliams",
-"https://secure.actblue.com/donate/ivakimis",
-"https://secure.actblue.com/donate/market-street"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2725+grouse+creek+circle+sandy%2C+utah%2C+84092+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4699+highland+drive+holladay%2C+utah%2C+84117+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=9167+falcon+circle+sandy%2C+utah%2C+84093+united+states"
+},
+{
+"text": "0",
+"href": "https://www.electivawilliams.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electivawilliams.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "Calendar",
+"href": "https://www.electivawilliams.com/calendar"
+},
+{
+"text": "Canvass with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams"
+},
+{
+"text": "Canvass with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e"
+},
+{
+"text": "Canvass with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj"
+},
+{
+"text": "Cocktail Hour at Kimi’s House",
+"href": "https://www.electivawilliams.com/calendar/fundraiser-at-kimis"
+},
+{
+"text": "Community Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/community-cottage-meeting"
+},
+{
+"text": "Contact",
+"href": "https://www.electivawilliams.com/contact"
+},
+{
+"text": "Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt"
+},
+{
+"text": "Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams"
+},
+{
+"text": "Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1"
+},
+{
+"text": "Cottage Meeting with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2"
+},
+{
+"text": "Cottage Party",
+"href": "https://www.electivawilliams.com/calendar/cottage-party"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/electivawilliams"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electivawilliams.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.electivawilliams.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260815T160000Z%2F20260815T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams&dates=20260829T160000Z%2F20260829T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Iva+Williams+&dates=20260822T160000Z%2F20260822T180000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cocktail+Hour+at+Kimi%E2%80%99s+House&dates=20261007T000000Z%2F20261007T020000Z&location=4699+Highland+Drive%2C+Holladay%2C+Utah%2C+84117%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Cottage+Meeting&dates=20260929T000000Z%2F20260929T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260730T000000Z%2F20260730T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260731T000000Z%2F20260731T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260815T003000Z%2F20260815T023000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Meeting+with+Iva+Williams&dates=20260829T010000Z%2F20260829T030000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cottage+Party&dates=20260909T000000Z%2F20260909T013000Z&location=9167+Falcon+Circle%2C+Sandy%2C+Utah%2C+84093%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=HD42+Potluck&dates=20260920T000000Z%2F20260920T020000Z&location=2725+Grouse+Creek+Circle%2C+Sandy%2C+Utah%2C+84092%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Market+Street+Grill+Fundraising+Dinner&dates=20260820T000000Z%2F20260820T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+with+Iva+Williams&dates=20260812T000000Z%2F20260812T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+with+Iva+Williams+&dates=20260819T000000Z%2F20260819T020000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20260923T003000Z%2F20260923T024500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261002T003000Z%2F20261002T013000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261013T233000Z%2F20261014T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sandy+Library+Cottage+Meeting&dates=20261021T003000Z%2F20261021T013000Z"
+},
+{
+"text": "HD42 Potluck",
+"href": "https://www.electivawilliams.com/calendar/hd42-potluck"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/community-cottage-meeting?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/cottage-party?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/fundraiser-at-kimis?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/hd42-potluck?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/market-street-grill-fundraising-dinner?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams?format=ical"
+},
+{
+"text": "Market Street Grill Fundraising Dinner",
+"href": "https://www.electivawilliams.com/calendar/market-street-grill-fundraising-dinner"
+},
+{
+"text": "Phonebank with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams"
+},
+{
+"text": "Phonebank with Iva Williams",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7"
+},
+{
+"text": "Priorities",
+"href": "https://www.electivawilliams.com/priorities"
+},
+{
+"text": "RSVP Here",
+"href": "https://mobilize.us/s/lNevn2"
+},
+{
+"text": "RSVP Here",
+"href": "https://mobilize.us/s/yqvdFU"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/ivakimis"
+},
+{
+"text": "RSVP Here",
+"href": "https://secure.actblue.com/donate/market-street"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1001609/"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1001615/"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1001617/"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1014637/?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1018892/"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/1034828/"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/utahdemocrats/event/991938/?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "RSVP here",
+"href": "https://www.mobilize.us/utahdemocrats/event/991935/?referring_vol=11486092&rname=Mason&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr"
+},
+{
+"text": "Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2"
+},
+{
+"text": "Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht"
+},
+{
+"text": "Sandy Library Cottage Meeting",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/community-cottage-meeting"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/cottage-party"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/fundraiser-at-kimis"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/hd42-potluck"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/market-street-grill-fundraising-dinner"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams"
+},
+{
+"text": "View Event →",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electivawilliams.com/volunteer"
+},
+{
+"text": "[image: Cottage Meeting with Iva Williams]",
+"href": "https://www.electivawilliams.com/calendar/13ku38olzqmcedf6nz5jjkvxq005wt"
+},
+{
+"text": "[image: Cottage Meeting with Iva Williams]",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams"
+},
+{
+"text": "[image: Cottage Meeting with Iva Williams]",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-1"
+},
+{
+"text": "[image: Cottage Meeting with Iva Williams]",
+"href": "https://www.electivawilliams.com/calendar/cottage-meeting-with-iva-williams-2"
+},
+{
+"text": "[image: Cottage Party]",
+"href": "https://www.electivawilliams.com/calendar/cottage-party"
+},
+{
+"text": "[image: Elect Iva Williams]",
+"href": "https://www.electivawilliams.com/"
+},
+{
+"text": "[image: Market Street Grill Fundraising Dinner]",
+"href": "https://www.electivawilliams.com/calendar/market-street-grill-fundraising-dinner"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/canvass-with-iva-williams-5fa4e-c93bj"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/community-cottage-meeting"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/fundraiser-at-kimis"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-7tsht"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/gin7qk66jvt90jluw0dnd7b3cyjpjr-d2fm2-k7s2e"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/hd42-potluck"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams"
+},
+{
+"text": "[no text]",
+"href": "https://www.electivawilliams.com/calendar/phonebank-with-iva-williams-nxwh7"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1BdWvkF5ug/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elect.iva"
+}
 ]

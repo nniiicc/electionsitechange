@@ -1,15 +1,82 @@
 [
-"https://darlingforfl.com/",
-"https://darlingforfl.com/cart",
-"https://darlingforfl.com/endorsements",
-"https://darlingforfl.com/get-involved",
-"https://darlingforfl.com/home",
-"https://darlingforfl.com/in-the-news",
-"https://darlingforfl.com/issues",
-"https://darlingforfl.com/yard-sign-request",
-"https://facebook.com/darlingforfl",
-"https://instagram.com/darlingforfl",
-"https://mobilize.us/?q=kyandra+darling",
-"https://secure.actblue.com/donate/kyandra-darling-1",
-"https://x.com/darlingforfl?s=11"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "0",
+"href": "https://www.darlingforfl.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darlingforfl.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.darlingforfl.com/get-involved"
+},
+{
+"text": "In The News",
+"href": "https://www.darlingforfl.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://www.darlingforfl.com/issues"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.darlingforfl.com/yard-sign-request"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/?q=kyandra+darling"
+},
+{
+"text": "[image: KYANDRA DARLING]",
+"href": "https://www.darlingforfl.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.darlingforfl.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/darlingforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/darlingforfl/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/darlingforfl?s=11"
+},
+{
+"text": "other",
+"href": "https://secure.actblue.com/donate/kyandra-darling-1"
+}
 ]

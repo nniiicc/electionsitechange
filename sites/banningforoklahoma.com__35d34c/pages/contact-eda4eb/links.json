@@ -1,8 +1,30 @@
 [
-"https://banningforoklahoma.com/",
-"https://banningforoklahoma.com/cart",
-"https://banningforoklahoma.com/contact",
-"https://banningforoklahoma.com/home-1",
-"https://banningforoklahoma.com/issues",
-"https://secure.anedot.com/banning-for-the-house-2024/donate"
+{
+"text": "0",
+"href": "https://www.banningforoklahoma.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.banningforoklahoma.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/banning-for-the-house-2024/donate"
+},
+{
+"text": "Home",
+"href": "https://www.banningforoklahoma.com/"
+},
+{
+"text": "Meet Chris",
+"href": "https://www.banningforoklahoma.com/home-1"
+},
+{
+"text": "Mission",
+"href": "https://www.banningforoklahoma.com/issues"
+},
+{
+"text": "[image: Chris Banning State House]",
+"href": "https://www.banningforoklahoma.com/"
+}
 ]

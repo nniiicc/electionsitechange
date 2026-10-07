@@ -1,16 +1,58 @@
 [
-"https://bsky.app/profile/wandrme.paxex.aero",
-"https://gc.nh.gov/house/members/member.aspx?pid=10779",
-"https://gc.nh.gov/house/members/member.aspx?pid=11363",
-"https://gc.nh.gov/house/members/member.aspx?pid=8749",
-"https://instagram.com/wandrme",
-"https://millerfornh.com/",
-"https://millerfornh.com/author/sethmillerworks-net",
-"https://millerfornh.com/category/legislative-update",
-"https://millerfornh.com/pas-de-rois",
-"https://millerfornh.com/spinning-my-wheels-in-committee",
-"https://millerfornh.com/time-to-make-the-sausage",
-"https://nhadinc.org/",
-"https://techpals.io/",
-"https://usatoday.com/story/news/nation/2020/09/02/nebraska-man-boneless-chicken-wings-rant-viral/5697746002"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/wandrme.paxex.aero"
+},
+{
+"text": "I want a bill to outlaw boneless chicken wings",
+"href": "https://www.usatoday.com/story/news/nation/2020/09/02/nebraska-man-boneless-chicken-wings-rant-viral/5697746002/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/wandrme"
+},
+{
+"text": "Legislative Update",
+"href": "https://millerfornh.com/category/legislative-update/"
+},
+{
+"text": "NH Association of the Deaf",
+"href": "https://nhadinc.org/"
+},
+{
+"text": "Next: Spinning my Wheels in Committee",
+"href": "https://millerfornh.com/spinning-my-wheels-in-committee/"
+},
+{
+"text": "Previous: Pas de Rois",
+"href": "https://millerfornh.com/pas-de-rois/"
+},
+{
+"text": "Rep. Giasson",
+"href": "https://gc.nh.gov/house/members/member.aspx?pid=11363"
+},
+{
+"text": "Rep. Raymond",
+"href": "https://gc.nh.gov/house/members/member.aspx?pid=10779"
+},
+{
+"text": "Representative Pearson",
+"href": "https://gc.nh.gov/house/members/member.aspx?pid=8749"
+},
+{
+"text": "Sep 19, 2025",
+"href": "https://millerfornh.com/time-to-make-the-sausage/"
+},
+{
+"text": "Seth Miller",
+"href": "https://millerfornh.com/author/sethmillerworks-net/"
+},
+{
+"text": "[image: Miller for NH]",
+"href": "https://millerfornh.com/"
+},
+{
+"text": "specifically a group of high school students delivering that today",
+"href": "https://techpals.io/"
+}
 ]

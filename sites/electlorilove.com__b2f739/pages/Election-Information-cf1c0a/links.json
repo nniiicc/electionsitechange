@@ -1,15 +1,58 @@
 [
-"http://jctnvote.com/",
-"https://cartercountytn.gov/government/departments-services/election-office",
-"https://cartercountytn.gov/services/election_office.php",
-"https://electlorilove.com/",
-"https://electlorilove.com/Election-Information/About-me",
-"https://electlorilove.com/Election-Information/Contact-Me",
-"https://electlorilove.com/Election-Information/Contribute",
-"https://electlorilove.com/Election-Information/Election-Information",
-"https://electlorilove.com/Election-Information/Events",
-"https://hawkinscountytn.gov/election_commission.html",
-"https://scelect.org/",
-"https://secure.actblue.com/donate/elect-lori-love-2024",
-"https://sos.tn.gov/govotetn"
+{
+"text": "About me",
+"href": "https://electlorilove.com/Election-Information/About-me/"
+},
+{
+"text": "Carter County Election Office",
+"href": "https://www.cartercountytn.gov/government/departments-services/election-office/"
+},
+{
+"text": "Contact me",
+"href": "https://electlorilove.com/Election-Information/Contact-Me/"
+},
+{
+"text": "Contribute",
+"href": "https://electlorilove.com/Election-Information/Contribute/"
+},
+{
+"text": "ElectLoriLove@gmail.com",
+"href": "mailto:info@site.info"
+},
+{
+"text": "Election Information",
+"href": "https://electlorilove.com/Election-Information/Election-Information/"
+},
+{
+"text": "Events",
+"href": "https://electlorilove.com/Election-Information/Events/"
+},
+{
+"text": "Hawkins County Election Office",
+"href": "https://www.hawkinscountytn.gov/election_commission.html"
+},
+{
+"text": "Home",
+"href": "https://electlorilove.com/"
+},
+{
+"text": "Johnson County Election Office",
+"href": "http://www.jctnvote.com/"
+},
+{
+"text": "Sullivan County Election Office",
+"href": "https://www.scelect.org/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/elect-lori-love-2024"
+},
+{
+"text": "[image]",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "[tooltip: Carter County Election Commission]",
+"href": "https://www.cartercountytn.gov/services/election_office.php"
+}
 ]

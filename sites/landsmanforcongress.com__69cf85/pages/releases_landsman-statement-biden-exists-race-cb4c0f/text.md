@@ -1,8 +1,5 @@
-Landsman Statement on President Biden’s Decision to Exit Race
-July 21, 2024
-CINCINNATI, OH — Today, Rep.
-Greg Landsman released the following statement regarding President Joe Biden’s decision to suspend his campaign:
-The President is putting the country and our democracy first, as he has done for decades.
+0 Skip to Content Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home Folder: About Back Greg Landsman The Issues Our Supporters Folder: Media Back Releases Media Videos In the News Endorsements Folder: Vote Back Voter Info The District Shop Donate Landsman Statement on President Biden’s Decision to Exit Race Oct 4 Written By Guest User July 21, 2024 CINCINNATI, OH — Today, Rep.
+Greg Landsman released the following statement regarding President Joe Biden’s decision to suspend his campaign: The President is putting the country and our democracy first, as he has done for decades.
 His decision is truly a patriotic one.
 This is quintessential Joe Biden.
-###
+### Guest User Previous Previous Landsman Statement on Sonza’s Acceptance and Promotion of Antisemite and Holocaust Denier’s Endorsement Next Next Landsman Calls for Change in 2024 Presidential Campaign Donate Contact Us info@landsmanforcongress.com PO Box 68033 Cincinnati, OH 45206 Paid for by Landsman for Congress Privacy Policy

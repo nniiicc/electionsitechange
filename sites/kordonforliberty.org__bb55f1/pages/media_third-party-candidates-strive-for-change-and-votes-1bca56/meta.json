@@ -1,7 +1,12 @@
 {
- "description": "Libertarian candidate Matthew Kordon is running for the state house in District 11 and says he has one election goal: receive enough votes to gain his political opponents\u2019 attention.",
+ "description": "Libertarian candidate Matthew Kordon is running for the state house in District 11 and says he has one election goal: receive enough votes to gain his political opponents’ attention.",
  "final_url": "https://kordonforliberty.org/media/third-party-candidates-strive-for-change-and-votes/",
- "paid_for_by": null,
+ "fingerprint": "7eb0a114f122929a39a6554ba2ada3dd5afbe4fe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Third Party Candidates Strive for Change and Votes",
- "years_mentioned": []
+ "years_mentioned": [
+  "2023",
+  "2024"
+ ]
 }

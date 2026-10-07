@@ -1,45 +1,28 @@
-Marissa K.
-Chief of Staff · Sr.
-Legislative Analyst
-marissa.king@capitol.tn.govoffice@torreyharris.com
-← Home
-Constituent Services
-Contact
-My door — and my phone line — are always open.
+Chip in $20 today to support Rep.
+Torrey C.
+Harris’ re-election campaign → About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate About Torrey Meet Torrey Meet the Team Why I'm Running Endorsements Photos & Memories Priorities Economy Healthcare Education Housing Family & Children Worker’s Rights Climate Immigration Gun Violence LGBTQ+ Rights Technology & Innovation Free & Fair Elections Reproductive Freedom All Issues → The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Vote 2026 Voting Info Early Voting Locations Sample Ballot Register to Vote Check Voting Status Elections Information District 91 Map Stay Informed Contact the Office Community Resources Volunteer With Us Join Our Team Free Gallery Tickets 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Donate ← Home Constituent Services Contact My door — and my phone line — are always open.
 However I can help, reach out.
-The Legislative Office
-When a neighbor needs help, we answer.
+The Legislative Office The People Who Serve You When a neighbor needs help, we answer.
 From casework and agency navigation to Capitol visits and quick replies, this team makes state government feel a little smaller — and a lot more accountable to District 91.
-9
-Staff & interns
-5,394
-Cases helped
-Student & Youth Engagement Intern
-youth@torreyharris.com
-★ Interested in interning or joining the team?
+9 Staff & interns 5,394 Cases helped Marissa K.
+Chief of Staff · Sr.
+Legislative Analyst marissa.king@capitol.tn.gov office@torreyharris.com Indian C.
+Constituent Services Assistant indian@torreyharris.com Taylor S.
+Constituent Services Assistant taylor@torreyharris.com Theryn B.
+Campaign Advisor campaign@torreyharris.com Michaela M.
+District Field Coordinator michaela@torreyharris.com Corey R.
+District Field Coordinator corey@torreyharris.com John B.
+District Field Coordinator john@torreyharris.com Julian H.
+District Field Representative julian@torreyharris.com Marc W.
+Student & Youth Engagement Intern youth@torreyharris.com ★ Interested in interning or joining the team?
 Email office@torreyharris.com — students and neighbors are always welcome.
-Legislative Office
-Nashville
-▶Cordell Hull Building
-425 Rep.
-John Lewis Way N., Suite 582
-Nashville, TN 37243
-425 Rep.
-John Lewis Way N., Suite 582
-Nashville, TN 37243
-✆615-741-2239
-◷Monday–Friday, 8:30am–5:30pm
-District Office
-Memphis
-▶1387 Central Avenue, Suite 906
-Memphis, TN 38104
-Memphis, TN 38104
-✆901-232-9498
-◷By appointment
-How Can I Help?
-Request Help
-& Casework
-Trouble with a state agency, a benefits question, or an idea for the district?
+Legislative Office Nashville ▶ Cordell Hull Building 425 Rep.
+John Lewis Way N., Suite 582 Nashville, TN 37243 ✆ 615-741-2239 ✉ rep.torrey.harris@capitol.tn.gov ◷ Monday–Friday, 8:30am–5:30pm District Office Memphis ▶ 1387 Central Avenue, Suite 906 Memphis, TN 38104 ✆ 901-232-9498 ✉ info@torreyharris.com ◷ By appointment How Can I Help?
+Request Help & Casework “My door — and my phone line — are always open.” Trouble with a state agency, a benefits question, or an idea for the district?
 Send it over and our office will follow up.
-& Casework
-“My door — and my phone line — are always open.”
+Full name Street address Email Phone How can we help?
+Send Request → Torrey C.
+Harris Tennessee House · District 91 Let's Keep Tennessee Moving.
+Explore Why I'm Running About Torrey Endorsements Issues The Record Legislation Passed Money for Shelby County Request 2027 Budget Funding In the Press Gallery 2025-2026 District Report Proclamation & Letter Requests Harris Fellows & Interns Take Action Vote 2026 Volunteer Request Help Donate Offices Nashville: 615-741-2239 Memphis: 901-232-9498 rep.torrey.harris@capitol.tn.gov All contact info → Donate Please Mail Check Contributions to: Committee to Elect Torrey Harris 1387 Central Avenue # 906 Memphis, Tennessee 38104 EIN #: 82-3293908 PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS. © # Committee to Elect Torrey Harris.
+All rights reserved.
+Privacy Policy · SMS Opt-In Form . · Español

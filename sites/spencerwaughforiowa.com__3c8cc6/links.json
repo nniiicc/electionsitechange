@@ -1,12 +1,78 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://docs.google.com/forms/d/e/1FAIpQLSdY_z23jga29GiRPZaQToxPugWo029FSIi9eZFEHNf59L0WMA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeVN2Gh-tIyXybXUx-uU5x_H0lQLMVP9_oysYIfWD8JVL7hjQ/viewform",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://secure.actblue.com/donate/spencer-waugh-for-iowa-2",
-"https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://spencerwaughforiowa.com/",
-"https://voterready.iowa.gov/resources",
-"https://voterready.iowa.gov/voting-absentee",
-"https://voterready.iowa.gov/voting-at-the-polls"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "Absentee voting info",
+"href": "https://voterready.iowa.gov/voting-absentee/"
+},
+{
+"text": "Complete voter guide",
+"href": "https://voterready.iowa.gov/resources/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/spencer-waugh-for-iowa-2"
+},
+{
+"text": "Find my polling place",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://www.spencerwaughforiowa.com"
+},
+{
+"text": "Meet Spencer",
+"href": "https://www.spencerwaughforiowa.com"
+},
+{
+"text": "More voting information",
+"href": "https://voterready.iowa.gov/resources/"
+},
+{
+"text": "Register to vote online",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeVN2Gh-tIyXybXUx-uU5x_H0lQLMVP9_oysYIfWD8JVL7hjQ/viewform"
+},
+{
+"text": "Voter Info",
+"href": "https://www.spencerwaughforiowa.com"
+},
+{
+"text": "Voter Registration Status",
+"href": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Voting on Election Day",
+"href": "https://voterready.iowa.gov/voting-at-the-polls/"
+},
+{
+"text": "YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdY_z23jga29GiRPZaQToxPugWo029FSIi9eZFEHNf59L0WMA/viewform"
+},
+{
+"text": "waughforiowa@gmail.com",
+"href": "mailto:waughforiowa@gmail.com"
+}
 ]

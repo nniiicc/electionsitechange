@@ -1,11 +1,7 @@
-I rise in favor of S.9/S.30, An Act creating a next generation roadmap for MA climate policy
-Thank you, Speaker Mariano, for your continued support, leadership and commitment to robust climate policy.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Next-generation roadmap for Massachusetts climate policy I rise in favor of S.9/S.30, An Act creating a next generation roadmap for MA climate policy Thank you, Speaker Mariano, for your continued support, leadership and commitment to robust climate policy.
 Your work in moving this legislation so quickly in this session is compelling.
-And because of your leadership, Massachusetts will continue its work as a national leader on climate protection:
-• by setting interim emission reduction targets,
-• establishing appliance energy efficiency standards,
-• authorizing additional purchases of offshore wind power, and
-• codifying protections for environmental justice communities.
+And because of your leadership, Massachusetts will continue its work as a national leader on climate protection: • by setting interim emission reduction targets, • establishing appliance energy efficiency standards, • authorizing additional purchases of offshore wind power, and • codifying protections for environmental justice communities.
 It has been an honor to work with you, Mr.
 Speaker, and my predecessor, Leader Golden, to get this bill over the finish line.
 Leader Golden’s pioneering work over the last three sessions, and his most recent work in shepherding this bill through the House has been monumental.
@@ -21,9 +17,7 @@ There is no doubt that climate science and policy is complicated, but it demands
 With this bill we address that threat head on and demonstrate that we can fight climate change, grow the economy, and support the most vulnerable at the same time.
 The goals we set, particularly a 50 percent reduction in emissions by 2030, and net-zero emissions by 2050, are tough.
 But I am reminded of President Kennedy’s moonshot speech at Rice University in 1962.
-As he said then about space exploration:
-“We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.”
-That speech and goal sparked a frenzy of innovation, an ambitious public/private partnership, and great success.
+As he said then about space exploration: “We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win.” That speech and goal sparked a frenzy of innovation, an ambitious public/private partnership, and great success.
 I have no doubt that the provisions in this bill will do the same in addressing climate change.
 That’s how we solve complex problems.
 Indeed, William Bradford, speaking in 1630 of the founding of the Plymouth Bay Colony here in Massachusetts, said that all great and honorable actions are accompanied with great difficulties, and both must be enterprised and overcome with answerable courage.
@@ -32,12 +26,7 @@ And we made sure that the emissions limits would be legally binding to keep the 
 Nonetheless, and because we realize that decarbonization will be a big undertaking, and harder for some industries to comply with than others, we built flexibility into the process.
 As long as the Commonwealth is reaching its goal for a given year, sector sublimits will not be legally binding for that same year, giving the sectors for whom decarbonization will be most difficult a little more time to catch up.
 We kept in tact the composition of the Board of Building Regulations and Standards, expanding it from 11 to 15 members.
-We specify that these new members must be:
-• The Commissioner of the Department of Energy Resources, or their designee
-• An expert in commercial building energy efficiency
-• An expert in residential building energy efficiency
-• And an expert in advanced building technology
-This enhanced membership will ensure a better level of coordination between the DOER and the BBRS, especially as we instruct them to develop and promulgate a new, municipal opt-in specialized stretch energy code.
+We specify that these new members must be: • The Commissioner of the Department of Energy Resources, or their designee • An expert in commercial building energy efficiency • An expert in residential building energy efficiency • And an expert in advanced building technology This enhanced membership will ensure a better level of coordination between the DOER and the BBRS, especially as we instruct them to develop and promulgate a new, municipal opt-in specialized stretch energy code.
 We establish a specialized energy code that will allow for net-zero building performance standards for towns that want it.
 Our current stretch code has already been adopted by 288 communities.
 Net-zero is the next step.
@@ -55,3 +44,9 @@ Every one of you should be proud and no doubt will look back at this moment as o
 Today, with your vote, you not only set a pathway for decarbonizing the Commonwealth, but thanks to all the environmental justice and MassCEC and workforce training provisions, you ensure that our path to decarbonization is fair, equitable, and inclusive.
 Thank you all for your past support of this bill.
 I urge you all to support it again by voting in favor of S9, keeping Massachusetts as a national leader on climate policy.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

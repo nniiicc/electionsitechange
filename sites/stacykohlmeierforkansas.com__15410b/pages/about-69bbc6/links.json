@@ -1,30 +1,130 @@
 [
-"https://censusreporter.org/profiles/05000US20161-riley-county-ks",
-"https://censusreporter.org/profiles/16000US2044250-manhattan-ks",
-"https://censusreporter.org/profiles/62000US20067-state-house-district-67-ks",
-"https://censusreporter.org/profiles/97000US2009180-manhattan-ogden-unified-school-district-383-ks",
-"https://facebook.com/profile.php?id=61589517956666",
-"https://instagram.com/stacykohlmeierkansas",
-"https://kdor.ks.gov/apps/voterreg",
-"https://kslegislature.gov/media/district-maps/district_map_h_067.pdf",
-"https://kslegislature.gov/media/district-profiles/district_profile_h_067.pdf",
-"https://linkedin.com/in/stacykohlmeier",
-"https://manhattanks.gov/",
-"https://myvoteinfo.voteks.org/VoterView",
-"https://portal.kansas.gov/",
-"https://rileycountyks.gov/",
-"https://rileycountyks.gov/1118/Register-to-Vote",
-"https://sos.ks.gov/elections/county_election_officers.aspx",
-"https://sos.ks.gov/elections/elections.html",
-"https://stacykohlmeierforkansas.com/",
-"https://stacykohlmeierforkansas.com/about",
-"https://stacykohlmeierforkansas.com/cart",
-"https://stacykohlmeierforkansas.com/contact",
-"https://stacykohlmeierforkansas.com/donate",
-"https://stacykohlmeierforkansas.com/home",
-"https://stacykohlmeierforkansas.com/meetstacy",
-"https://stacykohlmeierforkansas.com/privacy",
-"https://stacykohlmeierforkansas.com/terms",
-"https://stacykohlmeierforkansas.com/volunteer",
-"https://usd383.org/"
+{
+"text": "0",
+"href": "https://www.stacykohlmeierforkansas.com/cart"
+},
+{
+"text": "About D67",
+"href": "https://www.stacykohlmeierforkansas.com/about"
+},
+{
+"text": "Census Reporter - Manhattan, Kansas",
+"href": "https://censusreporter.org/profiles/16000US2044250-manhattan-ks/"
+},
+{
+"text": "Census Reporter - Manhattan-Ogden USD 383",
+"href": "https://censusreporter.org/profiles/97000US2009180-manhattan-ogden-unified-school-district-383-ks/"
+},
+{
+"text": "Census Reporter - Riley County",
+"href": "https://censusreporter.org/profiles/05000US20161-riley-county-ks/"
+},
+{
+"text": "Census Reporter Stats - Kansas House District 67",
+"href": "https://censusreporter.org/profiles/62000US20067-state-house-district-67-ks/"
+},
+{
+"text": "City of Manhattan Website",
+"href": "https://www.manhattanks.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.stacykohlmeierforkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.stacykohlmeierforkansas.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.stacykohlmeierforkansas.com/"
+},
+{
+"text": "Kansas Legislature - House District 67 Profile",
+"href": "https://www.kslegislature.gov/media/district-profiles/district_profile_h_067.pdf"
+},
+{
+"text": "Kansas Online Voter Registration",
+"href": "https://www.kdor.ks.gov/apps/voterreg/"
+},
+{
+"text": "Kansas Secretary of State",
+"href": "https://sos.ks.gov/elections/elections.html"
+},
+{
+"text": "Manhattan-Ogden USD 383 Website",
+"href": "https://www.usd383.org/"
+},
+{
+"text": "Meet Stacy",
+"href": "https://www.stacykohlmeierforkansas.com/meetstacy"
+},
+{
+"text": "Official State of Kansas Website",
+"href": "https://portal.kansas.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.stacykohlmeierforkansas.com/privacy"
+},
+{
+"text": "Riley County Website",
+"href": "https://www.rileycountyks.gov/"
+},
+{
+"text": "Riley County, Kansas",
+"href": "https://www.rileycountyks.gov/1118/Register-to-Vote"
+},
+{
+"text": "Stacy Kohlmeier for Kansas House D67",
+"href": "https://www.stacykohlmeierforkansas.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.stacykohlmeierforkansas.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.stacykohlmeierforkansas.com/volunteer"
+},
+{
+"text": "Voter View",
+"href": "https://myvoteinfo.voteks.org/VoterView"
+},
+{
+"text": "[image: Konza Prairie landscape image in the Flint Hills around Mahattan.]",
+"href": "https://www.rileycountyks.gov/"
+},
+{
+"text": "[image: Manhattan sign on the historical train depot located in Manhattan Kansas.]",
+"href": "https://www.manhattanks.gov/"
+},
+{
+"text": "[image: Manhattan-Ogden USD 383 website banner page with pictures of schools and students.]",
+"href": "https://www.usd383.org/"
+},
+{
+"text": "[image: Map of Kansas House District 67 from Kansas Legislative Research Department]",
+"href": "https://www.kslegislature.gov/media/district-maps/district_map_h_067.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.stacykohlmeierforkansas.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589517956666"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stacykohlmeierkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/stacykohlmeier"
+},
+{
+"text": "county election office",
+"href": "https://sos.ks.gov/elections/county_election_officers.aspx"
+}
 ]

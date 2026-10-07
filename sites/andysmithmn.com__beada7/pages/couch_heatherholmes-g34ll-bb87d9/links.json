@@ -1,23 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+12+%7C+Shakopee&dates=20260912T153000Z%2F20260912T163000Z",
-"http://instagram.com/AndySmithMN",
-"http://squarespace.com/",
-"https://andysmithmn.com/",
-"https://andysmithmn.com/cart",
-"https://andysmithmn.com/couch",
-"https://andysmithmn.com/couch/darcismith-6fnj8",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn",
-"https://andysmithmn.com/couch/heatherholmes-g34ll?format=ical",
-"https://andysmithmn.com/get-involved",
-"https://andysmithmn.com/healthcare",
-"https://andysmithmn.com/issues",
-"https://andysmithmn.com/meetandy",
-"https://andysmithmn.com/reproductivefreedom",
-"https://andysmithmn.com/tax-the-rich",
-"https://andysmithmn.com/thrivingcommunities",
-"https://facebook.com/AndySmithMN",
-"https://mailchi.mp/andysmithmn/subscribe-to-our-newsletter",
-"https://secure.actblue.com/donate/andy-smith-for-house",
-"https://secure.ngpvan.com/L23153qD6UaPIsw0z0rRHQ2",
-"https://tiktok.com/@andysmithmn?lang=en"
+{
+"text": "0",
+"href": "https://www.andysmithmn.com/cart"
+},
+{
+"text": "Abortion",
+"href": "https://www.andysmithmn.com/reproductivefreedom"
+},
+{
+"text": "Back",
+"href": "https://www.andysmithmn.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.andysmithmn.com/couch"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andy-smith-for-house"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.andysmithmn.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.andysmithmn.com/issues"
+},
+{
+"text": "Get Off the Couch Tour",
+"href": "https://www.andysmithmn.com/couch"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+12+%7C+Shakopee&dates=20260912T153000Z%2F20260912T163000Z"
+},
+{
+"text": "Healthcare",
+"href": "https://www.andysmithmn.com/healthcare"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-g34ll?format=ical"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.andysmithmn.com/meetandy"
+},
+{
+"text": "Next Next September 15 Sep 15 | Champlin",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn"
+},
+{
+"text": "Previous Previous September 3 Sep 3 | Winona",
+"href": "https://www.andysmithmn.com/couch/darcismith-6fnj8"
+},
+{
+"text": "Register Here",
+"href": "https://secure.ngpvan.com/L23153qD6UaPIsw0z0rRHQ2"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Subscribe",
+"href": "https://mailchi.mp/andysmithmn/subscribe-to-our-newsletter"
+},
+{
+"text": "Tax the Rich",
+"href": "https://www.andysmithmn.com/tax-the-rich"
+},
+{
+"text": "Thriving Communities",
+"href": "https://www.andysmithmn.com/thrivingcommunities"
+},
+{
+"text": "[image: Rep. Andy Smith for MN House]",
+"href": "https://www.andysmithmn.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/AndySmithMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AndySmithMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@andysmithmn?lang=en"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@AndySmithmn.com"
+}
 ]

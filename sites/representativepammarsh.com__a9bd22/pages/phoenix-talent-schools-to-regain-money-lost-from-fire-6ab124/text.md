@@ -1,15 +1,14 @@
-By Kevin Opsahl for the Mail Tribune
-Gov.
-Kate Brown signs law allowing the district to get state grants to make up for money from lost students
-The Phoenix-Talent School District will get a shot in the arm with cash to recoup what it lost when students were displaced by the Almeda fire in 2020.
+Skip to content Wed.
+Oct 7th, 2026 REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements Phoenix-Talent schools to regain money lost from fire By Kevin Opsahl for the Mail Tribune LINK TO ARTICLE Paintings by student artists adorn a fence surrounding RV housing for Almeda Fire victims on South Pacific Highway in Talent.
+Photo by Denise Baratta Gov.
+Kate Brown signs law allowing the district to get state grants to make up for money from lost students The Phoenix-Talent School District will get a shot in the arm with cash to recoup what it lost when students were displaced by the Almeda fire in 2020.
 Gov.
 Kate Brown signed House Bill 4026 Wednesday, clearing the way for Phoenix-Talent (as well as the McKenzie, Lincoln County and Santiam Canyon school districts) to tap into $25 million worth of grant funding from the Oregon Department of Education.
 “The governor’s desk was the last stop for our bill,” said Rep.
 Pam Marsh, D-Ashland, who made HB 4026 a top priority in the 2022 short legislative session.
 “Now we know that wildfire-impacted school districts, including Phoenix-Talent, can count on stable funding for the next few years.
 “That’s a huge relief as we continue recovery efforts,” Marsh wrote in an email.
-“I’m deeply grateful for the universal support the bill received from legislators from all over the state — and I am thrilled to have HB 4026 signed.”
-Superintendent Brent Barry told the newspaper in an email he was “relieved and grateful” the bill got Brown’s signature.
+“I’m deeply grateful for the universal support the bill received from legislators from all over the state — and I am thrilled to have HB 4026 signed.” Superintendent Brent Barry told the newspaper in an email he was “relieved and grateful” the bill got Brown’s signature.
 “This allows our district to recover and support our students, families and community over the next few years without making drastic cuts in staffing and programs in the immediate future,” Barry said.
 The school year resumes on Monday, March 28.
 It will be up to the Phoenix-Talent School Board to disburse the new funds the district gets.
@@ -25,3 +24,5 @@ She thanked Marsh for making the new legislation possible.
 “She watches out for our kids and our families — and when she says she’s going to do something, she does it,” Watson said.
 Reach reporter Kevin Opsahl at 541-776-4476 or kopsahl@rosebudmedia.com.
 Follow him on Twitter @KevJourno.
+Post navigation Bill to help Phoenix-Talent school funding introduced Manufactured home forum provides resources for people who lost homes in 2020 wildfires DONATE TO PAM'S 2026 CAMPAIGN Follow Pam on Facebook REPRESENTATIVE PAM MARSH OREGON HOUSE DISTRICT 5 Proudly powered by WordPress | Theme: Newsup by Themeansar .
+ABOUT STATE WEBPAGE LEGISLATIVE EMAILS DONATE 2026 Endorsements

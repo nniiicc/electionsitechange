@@ -1,14 +1,54 @@
 [
-"http://aboutads.info/",
-"http://allaboutdnt.com/",
-"http://google.com/intl/en/policies/privacy",
-"https://brenttaylorforcongress.com/",
-"https://brenttaylorforcongress.com/about",
-"https://brenttaylorforcongress.com/endorsements",
-"https://brenttaylorforcongress.com/issues",
-"https://brenttaylorforcongress.com/privacy-policy",
-"https://brenttaylorforcongress.com/terms-and-conditions",
-"https://evidon.com/opting-out",
-"https://globalprivacycontrol.org/",
-"https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_privacy-policy_navbar"
+{
+"text": "About",
+"href": "https://brenttaylorforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/brent-taylor-for-tennessee/donate?web_id=brenttaylorforcongress_privacy-policy_navbar"
+},
+{
+"text": "Endorsements",
+"href": "https://brenttaylorforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://brenttaylorforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brenttaylorforcongress.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brenttaylorforcongress.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://brenttaylorforcongress.com/terms-and-conditions/"
+},
+{
+"text": "[image: Brent Taylor for Tennessee]",
+"href": "https://brenttaylorforcongress.com"
+},
+{
+"text": "here",
+"href": "https://www.evidon.com/opting-out/"
+},
+{
+"text": "http://www.allaboutdnt.com",
+"href": "http://www.allaboutdnt.com"
+},
+{
+"text": "http://www.google.com/intl/en/policies/privacy/",
+"href": "http://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://globalprivacycontrol.org/",
+"href": "https://globalprivacycontrol.org/"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info"
+}
 ]

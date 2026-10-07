@@ -1,7 +1,13 @@
 {
  "description": "",
  "final_url": "https://robwittman.com/about/",
- "paid_for_by": "Paid for by Rob Wittman for Congress &copy; 2026 Re-Elect Rob Wittman for Congress",
+ "fingerprint": "bbf8b1e80d48ebbd420971af264e37817574b8fc",
+ "format": 3,
+ "paid_for_by": "Paid for by Rob Wittman for Congress © # Re-Elect Rob Wittman for Congress",
  "title": "About | Re-Elect Rob Wittman for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "1985",
+  "1986",
+  "2007"
+ ]
 }

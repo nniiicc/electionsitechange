@@ -1,36 +1,158 @@
 [
-"http://ayanna-pressley.com/ht/pwoblem",
-"http://ayanna-pressley.com/ht/rankontre-ayanna",
-"http://ayanna-pressley.com/ht/volonte",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo",
-"https://ayannapressley.com/ht/kontakte-nou",
-"https://ayannapressley.com/ht/pwoblem",
-"https://ayannapressley.com/ht/pwoblem/imajine-lavni-transpo",
-"https://ayannapressley.com/ht/pwoblem/kanpe-avek-kominote-lgbtq",
-"https://ayannapressley.com/ht/pwoblem/konfwonte-kriz-klimatik-la",
-"https://ayannapressley.com/ht/pwoblem/transfome-sistem-jidisye-penal-nou",
-"https://ayannapressley.com/ht/pwoblem/yon-ekonomi-ki-mache-pou-tout-moun",
-"https://ayannapressley.com/ht/rankontre-ayanna",
-"https://ayannapressley.com/ht/volonte",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/terms-of-services",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://shop.ayannapressley.com/collections/accessories/products/sticker-1",
-"https://shop.ayannapressley.com/collections/apparel/products/campaign-tee",
-"https://shop.ayannapressley.com/collections/apparel/products/pride-tank",
-"https://shop.ayannapressley.com/collections/apparel/products/squad-tee",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Batay pou yon ekonomi ki jis",
+"href": "https://ayannapressley.com/ht/pwoblem/kanpe-avek-kominote-lgbtq/"
+},
+{
+"text": "Don",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Enfòmasyon pou elektè yo",
+"href": "https://ayannapressley.com/ht/enfomasyon-pou-elekte-yo/"
+},
+{
+"text": "Evenman",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Konfidansyalite",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Konfwonte kriz klima a",
+"href": "https://ayannapressley.com/ht/pwoblem/imajine-lavni-transpo/"
+},
+{
+"text": "Kontakte",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Kontakte Nou",
+"href": "https://ayannapressley.com/ht/kontakte-nou/"
+},
+{
+"text": "Lojman kòm yon dwa moun",
+"href": "https://ayannapressley.com/ht/pwoblem/yon-ekonomi-ki-mache-pou-tout-moun/"
+},
+{
+"text": "Magazen",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Pale de Enpak vyolans ak Chòk",
+"href": "https://ayannapressley.com/ht/pwoblem/konfwonte-kriz-klimatik-la/"
+},
+{
+"text": "Pwoblem",
+"href": "https://ayannapressley.com/ht/pwoblem/"
+},
+{
+"text": "Rankontre Ayanna",
+"href": "http://ayanna-pressley.com/ht/rankontre-ayanna/"
+},
+{
+"text": "Rankontre Ayanna",
+"href": "https://ayannapressley.com/ht/rankontre-ayanna/"
+},
+{
+"text": "Transfòme Sistèm Legal Kriminèl nou an",
+"href": "https://ayannapressley.com/ht/pwoblem/transfome-sistem-jidisye-penal-nou/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Vinn jwenn nou!",
+"href": "http://ayanna-pressley.com/ht/volonte/"
+},
+{
+"text": "Volontè",
+"href": "http://ayanna-pressley.com/ht/volonte/"
+},
+{
+"text": "Volontè",
+"href": "https://ayannapressley.com/ht/volonte/"
+},
+{
+"text": "Wè tout pwoblèm yo",
+"href": "http://ayanna-pressley.com/ht/pwoblem/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[image] Mayo Kanpay $30.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/campaign-tee"
+},
+{
+"text": "[image] Mayo San Manch “Ayanna” $35.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/pride-tank"
+},
+{
+"text": "[image] Mayo “Squad” $20.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/squad-tee"
+},
+{
+"text": "[image] Sticker “My Congresswoman” pake yo gen senk $12.00",
+"href": "https://shop.ayannapressley.com/collections/accessories/products/sticker-1"
+},
+{
+"text": "privacy policy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://ayannapressley.com/terms-of-services/"
+}
 ]

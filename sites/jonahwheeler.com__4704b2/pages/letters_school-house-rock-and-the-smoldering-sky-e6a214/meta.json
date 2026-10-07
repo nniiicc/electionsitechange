@@ -1,9 +1,12 @@
 {
  "description": "The Monthly Periodical for Representative Jonah Orion Wheeler",
  "final_url": "https://jonahwheeler.com/letters/school-house-rock-and-the-smoldering-sky",
- "paid_for_by": null,
+ "fingerprint": "57e9a0b643832ba1cf8425f6b308c7a52d3fcb7e",
+ "format": 3,
+ "paid_for_by": "sponsored by not more than 10 members of the House, and 5 members of the Senate",
  "title": "Monthly Letter",
  "years_mentioned": [
+  "1975",
   "2025"
  ]
 }

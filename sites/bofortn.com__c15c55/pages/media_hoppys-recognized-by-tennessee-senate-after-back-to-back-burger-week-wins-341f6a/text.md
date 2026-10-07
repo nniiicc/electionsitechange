@@ -1,9 +1,8 @@
-Hoppy’s recognized by Tennessee Senate after back-to-back Burger Week wins
-A longtime North Chattanooga business is being recognized by the Tennessee Senate for its success and community impact.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Hoppy’s recognized by Tennessee Senate after back-to-back Burger Week wins Aug 18 Written By Waterhouse PR A longtime North Chattanooga business is being recognized by the Tennessee Senate for its success and community impact.
 State Senator Bo Watson presented Hoppy’s North River Corner Market with Senate Joint Resolution 1174, recognizing the business for winning “Best Classic Burger” during Chattanooga Burger Week in both 2025 and 2026.
 The 2026 winning burger featured Swiss cheese and slow-cooked caramelized onions.
 The resolution also recognizes Hoppy’s longstanding role in the North Chattanooga community and its commitment to providing quality food and serving as a neighborhood gathering place.
 Watson presented the business with a commemorative letter noting that the resolution is now part of Tennessee’s permanent legislative record.
 “Congratulations to Mark and the entire Hoppy’s team,” said Senator Bo Watson.
 “Hoppy’s has been an important part of the Chattanooga restaurant scene for generations, and its commitment to this community is something worth celebrating.
-I’m proud to recognize their success with this resolution and thank them for continuing to make our community a great place to live, work and visit.”
+I’m proud to recognize their success with this resolution and thank them for continuing to make our community a great place to live, work and visit.” READ THE FULL ARTICLE Waterhouse PR Previous Previous NFIB Tennessee PAC Endorses Bo Watson In Senate District 11 Race Next Next Hamilton County unveils larger, $12M medical examiner’s office Bo for Tennessee About Priorities Media Contact

@@ -1,17 +1,82 @@
 [
-"https://ilikereick.com/about",
-"https://ilikereick.com/an-open-letter-to-my-house-colleagues-the-progressive-income-tax-wont-work",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/mass-transit-reform-throwing-2-5-billion-at-a-200-million-problem",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/rich-miller-its-time-to-fish-or-cut-bait",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/the-albatross-around-illinois-neck",
-"https://ilikereick.com/the-difference-between-genius-and-stupidity-is-that-genius-has-its-limits",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "An Open Letter to My House Colleagues: The Progressive Income Tax Won’t Work",
+"href": "https://ilikereick.com/an-open-letter-to-my-house-colleagues-the-progressive-income-tax-wont-work/"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Mass Transit Reform: Throwing $2.5 Billion at a $200 Million Problem",
+"href": "https://ilikereick.com/mass-transit-reform-throwing-2-5-billion-at-a-200-million-problem/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/an-open-letter-to-my-house-colleagues-the-progressive-income-tax-wont-work/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/mass-transit-reform-throwing-2-5-billion-at-a-200-million-problem/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/rich-miller-its-time-to-fish-or-cut-bait/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/the-albatross-around-illinois-neck/"
+},
+{
+"text": "Read More...",
+"href": "https://ilikereick.com/the-difference-between-genius-and-stupidity-is-that-genius-has-its-limits/"
+},
+{
+"text": "Rich Miller: Thanks for the Shout Out",
+"href": "https://ilikereick.com/rich-miller-its-time-to-fish-or-cut-bait/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "The Albatross Around Illinois’ Neck",
+"href": "https://ilikereick.com/the-albatross-around-illinois-neck/"
+},
+{
+"text": "The Difference Between Genius and Stupidity is That Genius Has Its Limits",
+"href": "https://ilikereick.com/the-difference-between-genius-and-stupidity-is-that-genius-has-its-limits/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

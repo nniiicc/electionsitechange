@@ -1,7 +1,9 @@
 {
  "description": "Manage Press Releases on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManagePressReleases",
- "paid_for_by": null,
+ "fingerprint": "846f012f18552421b2de7084761ace4bb24a3e08",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Press Releases | Maxwell for Congress",
  "years_mentioned": []
 }

@@ -1,21 +1,5 @@
-Platform and Issues
-What will I do for you?
+HOUSE DISTRICT 97 Meet Jim Andrews Platform Get Involved Endorsements Events Donate Platform and Issues What will I do for you?
 It is still very early in the campaign season and I am meeting as many constituents as I can to learn what's on the minds of our friends and neighbors.
 This page will be updated periodically to report what I am learning and how I, as an attorney and former judge, think legislation might be effective.
-Topics for which I am currently receiving comments include:
-- Animal Cruelty
-- Economic Development
-- Education
-- First Responders
-- Gun Rights
-- Natural Resources
-- Outdoor Recreation
-- Youth Programs
-Let me know what is important to you.
-STAY INFORMED
-Sign up for the newsletter.
-CONTACT
-Jim Andrews
-315 East Oak Street, Suite 201
-El Dorado, Arkansas 71730
-(501) 2-GET-JIM / (501-243-8546)
+Topics for which I am currently receiving comments include: Animal Cruelty Economic Development Education First Responders Gun Rights Natural Resources Outdoor Recreation Youth Programs Let me know what is important to you.
+Name: Email: Phone: Message: Enter Security Code: STAY INFORMED Sign up for the newsletter. /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ CONTACT Jim Andrews 315 East Oak Street, Suite 201 El Dorado, Arkansas 71730 (501) 2-GET-JIM / (501-243-8546) Jim Andrews for Arkansas website by Astonished Man Design

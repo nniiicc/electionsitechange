@@ -1,34 +1,31 @@
-Written by Isabella I
-Chris Gallant makes history and sets his sights on the November general elections and his political name is suddenly generating buzz far beyond Long Island, and his story is already resonating with LGBTQ+ voters.
+Skip to content Chip in to support chris Instagram X-twitter Facebook-f Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop donate Out Veteran Chris Gallant Wins New York Primaries – Instinct Magazine Written by Isabella I Chris Gallant makes history and sets his sights on the November general elections and his political name is suddenly generating buzz far beyond Long Island, and his story is already resonating with LGBTQ+ voters.
 Chris Gallant, a military veteran from Amity Harbor, has emerged as the Democratic nominee for New York’s 1st Congressional District after securing a commanding primary victory.
 The 37-year-old defeated fellow Democrat Lukas Ventouras in a race that positioned him as one of the party’s rising figures heading into the fall election season.
 His win was not a narrow one.
 Gallant captured nearly 60 percent of the vote, earning a decisive position from Democratic voters and setting up a high-profile November showdown against Republican incumbent Nick LaLota.
 For Gallant, however, election night was about more than numbers.
 “Tonight, we made history,” he told supporters after the results were announced.
-Building a Broad Coalition
-One of the biggest factors behind Gallant’s victory was his ability to attract support from a wide range of groups and communities.
+Building a Broad Coalition One of the biggest factors behind Gallant’s victory was his ability to attract support from a wide range of groups and communities.
 In his post-election remarks, he highlighted the coalition that formed around his campaign, thanking “every volunteer, supporter, donor, voter, and community member” who helped carry the campaign across the finish line.
 Gallant pointed to endorsements and backing from local leaders, labor groups, healthcare workers, veterans, young voters, and grassroots advocates throughout the district.
 The campaign, he argued, demonstrated what can happen when people unite around practical solutions rather than political division.
 “This campaign proved that when people come together around service, integrity, and real solutions, anything is possible,” he said.
 His message focused heavily on affordability, infrastructure improvements, environmental protection, storm preparedness, veteran support, and creating opportunities for small businesses and working families.
-An Endorsement From a Trailblazer
-Gallant’s profile received an additional boost from one of the most recognizable LGBTQ+ figures in American politics, former Transportation Secretary Pete Buttigieg
-Buttigieg publicly endorsed Gallant during the campaign, saying he was “proud” to support the Democratic candidate.
+An Endorsement From a Trailblazer Gallant’s profile received an additional boost from one of the most recognizable LGBTQ+ figures in American politics, former Transportation Secretary Pete Buttigieg Buttigieg publicly endorsed Gallant during the campaign, saying he was “proud” to support the Democratic candidate.
 The endorsement connected two openly gay political leaders who represent a generation of LGBTQ+ Americans increasingly visible in national politics.
-Why LGBTQ+ Voters Are Paying Attention
-For many LGBTQ+ Americans, Gallant’s candidacy carries significance beyond party politics.
+Why LGBTQ+ Voters Are Paying Attention For many LGBTQ+ Americans, Gallant’s candidacy carries significance beyond party politics.
 As an openly gay man engaged to his partner, Mike Ingram, Gallant has spoken candidly about why LGBTQ+ rights remain deeply personal to him.
 “As a gay man, the right to marry the person you love isn’t abstract.
 It’s personal,” Gallant said.
 He has also emphasized that marriage equality and related protections should never be taken for granted.
-“When I’m in Congress, I’ll fight to make sure these rights are protected because no one should have to wonder if their marriage will be erased.”
-Those remarks have helped position him as a candidate whose advocacy stems not only from policy goals but from lived experience.
-The Real Fight Begins
-Despite the celebratory mood following the primary, Gallant made it clear that he views the victory as the beginning rather than the finish line.
+“When I’m in Congress, I’ll fight to make sure these rights are protected because no one should have to wonder if their marriage will be erased.” Those remarks have helped position him as a candidate whose advocacy stems not only from policy goals but from lived experience.
+The Real Fight Begins Despite the celebratory mood following the primary, Gallant made it clear that he views the victory as the beginning rather than the finish line.
 “Now, the real work begins,” he told supporters.
 His focus now turns to November, where he hopes to unseat LaLota and bring what he describes as a new generation of leadership to Washington.
 Whether he succeeds remains to be seen.
 But one thing is certain: after a history-making primary win, Chris Gallant has become one of the most intriguing openly gay candidates to watch in the 2026 election cycle.
-Read the full article here: https://instinctmagazine.com/out-chris-gallant-wins-new-york-01/
+Read the full article here: https://instinctmagazine.com/out-chris-gallant-wins-new-york-01/ This Campaign Needs You This race will be decided by the people who show up early.
+Whether you contribute, volunteer, or spread the word, you help power the campaign.
+Donate Volunteer Paid for by Gallant for Congress info@gallantny.com PO Box 574 Smithtown NY 11787 Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense or any service branch.
+Use of fire department photographs in uniform does not constitute endorsement by the Copiague Fire Department.
+Privacy Policy | Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Home Meet Chris Endorsements Events The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government News Room Team Gallant Toolkit Shop Shop Donate Instagram Facebook-f X-twitter Youtube Threads Meet Chris Endorsements The Mission Plan 2027 Mission One: Lowering the Cost of Living on Long Island Mission Two: Prepare Long Island for the Future Mission Three: Protect Medicare, Medicaid, Social Security, and Affordable Health Care Mission Four: Supporting Veterans and Military Families Mission Five: Supporting Labor and Working Families​ Mission Six: Restoring Trust in Government Events News Room Team Gallant Toolkit Shop Shop Donate Volunteer Instagram Facebook-f X-twitter Youtube

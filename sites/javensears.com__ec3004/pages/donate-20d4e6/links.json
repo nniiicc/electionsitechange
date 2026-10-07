@@ -1,19 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61573300979835",
-"https://javensears.com/",
-"https://javensears.com/about",
-"https://javensears.com/cart",
-"https://javensears.com/contact",
-"https://javensears.com/donate",
-"https://javensears.com/news",
-"https://javensears.com/priorities",
-"https://linkedin.com/in/javensears",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=100",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=1000",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=1500",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=250",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=50",
-"https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=500",
-"https://x.com/JavenSears"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=1000"
+},
+{
+"text": "$1,500",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=1500"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=50"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.javensears.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.javensears.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.javensears.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.javensears.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "Media",
+"href": "https://www.javensears.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.javensears.com/priorities"
+},
+{
+"text": "[image: Javen Sears | Candidate for Vermont State Senate]",
+"href": "https://www.javensears.com/"
+},
+{
+"text": "[image]",
+"href": "https://javensears.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61573300979835"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/javensears/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JavenSears"
+},
+{
+"text": "other",
+"href": "https://secure.winred.com/javen-sears-for-vermont-state-senate/donate?amount="
+}
 ]

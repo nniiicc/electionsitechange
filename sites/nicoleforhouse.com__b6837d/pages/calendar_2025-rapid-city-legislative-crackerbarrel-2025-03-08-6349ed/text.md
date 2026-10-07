@@ -1,15 +1,12 @@
-Back to All Events
-Rapid City South Dakota Legislative Crackerbarrel
-Elevate Rapid City offers ways for the Black Hills community to engage with elected officials throughout the year.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events 2025 March Rapid City Legislative Crackerbarrel Saturday, March 8, 2025 9:00 AM 11:00 AM Western Dakota Tech Event Center 800 Mickelson Dr Rapid City, SD, 57701 United States (map) Google Calendar ICS Rapid City South Dakota Legislative Crackerbarrel Elevate Rapid City offers ways for the Black Hills community to engage with elected officials throughout the year.
 Townhalls are offered during elections to hear from candidates.
 Once a person has been elected to serve in the South Dakota legislature it is even more important to ensure a connection between constituents and elected officials.
 Legislative Crackerbarrels – often known as legislative coffees – are offered each year during the legislative session (January – March) to fulfill exactly that purpose.
 These free, public events provide an opportunity for Legislators to discuss bills and issues and hear directly from the public.
 The crackerbarrels feature Representatives and Senators from South Dakota districts 30, 32, 33, 34 and 35.
-Previous
-Previous
-February 18
-House of Representatives - Legislative Session Agenda
-Next
-Next
-April 5
+Learn more at elevaterapidcity.com → Tagged: 2025 Previous Previous February 18 House of Representatives - Legislative Session Agenda Next Next April 5 That’s a wrap!
+End of Legislative Session Wrap Party for Nicole Uhre-Balk Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

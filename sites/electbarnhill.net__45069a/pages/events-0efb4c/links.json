@@ -1,51 +1,246 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/promise-kept",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://google.com/calendar/event?eid=MG8xOWthdnNjY204N29zZXFtNGNtZWtzZm8gbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MXNiYjFhcXJyZGFlMHYyMmt1azUyYm80NmcgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MmNpdHFtbmRpN2pyYmFjdWxmbWVscGRpajggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnUxdGF1ZGpxcDluMTlkaG5rYzRxOWwxczggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTNUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTRUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTVUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTZUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTdUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMThUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTlUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMjBUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMjFUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=NXM1bWtnNDQ3MmdydmllZjVsZm5ob2thcjggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=YTh0MGJxcjBmcGk0M2R0MmRyODlwOHQwNjggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=Z2VmNjkwYzd0cDNoNHF2NTI4ZWttcTRmbDggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=ZTlqZWswNjE0cjI1OXRnbWU5b2JxOWkzYmMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=ZXJxM2hubTFqcTlqc25rb2hzdGoxY29wNHMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=Zm9jZHMwYTZ1bDNhcXZlMjdlbDFjYjl0Y2cgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=aWtjZGFjOHJxYzd1MWpjY2kzZzFsZjRlYzAgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=amkxbDUycnVkYW90OXU2NHBrdGJlMXVuNWcgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=b2FvczFzcTVtZTFibmVpcWVvcjR2Z2h1MDggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=bmJyazA2YzBhZGQ0bXZncG52N3MzcWZlNTggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=bmdiamxtNzFzNTVyNmFmdjI0djRiMjRhOGMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=bnJvcWI4aXBqMnUxcHBjc2JucGNrcXJsaW8gbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://google.com/calendar/event?eid=c3FpZTJkaGVrYTR2M2JqbDFvcTRlNHE5a2sgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles",
-"https://instagram.com/electbarnhill",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "Home >>",
+"href": "https://electbarnhill.net"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MG8xOWthdnNjY204N29zZXFtNGNtZWtzZm8gbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MXNiYjFhcXJyZGFlMHYyMmt1azUyYm80NmcgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MmNpdHFtbmRpN2pyYmFjdWxmbWVscGRpajggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnUxdGF1ZGpxcDluMTlkaG5rYzRxOWwxczggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTNUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTRUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTVUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTZUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTdUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMThUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMTlUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMjBUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=MnY3OGtoZmtjamkzbzlnaGwxOWoxaDhob3ZfMjAyNjEwMjFUMDIwMDAwWiBuZXZhZGFuc2ZvcmJhcm5oaWxsQG0&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=NXM1bWtnNDQ3MmdydmllZjVsZm5ob2thcjggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=YTh0MGJxcjBmcGk0M2R0MmRyODlwOHQwNjggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=Z2VmNjkwYzd0cDNoNHF2NTI4ZWttcTRmbDggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=ZTlqZWswNjE0cjI1OXRnbWU5b2JxOWkzYmMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=ZXJxM2hubTFqcTlqc25rb2hzdGoxY29wNHMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=Zm9jZHMwYTZ1bDNhcXZlMjdlbDFjYjl0Y2cgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=aWtjZGFjOHJxYzd1MWpjY2kzZzFsZjRlYzAgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=amkxbDUycnVkYW90OXU2NHBrdGJlMXVuNWcgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=b2FvczFzcTVtZTFibmVpcWVvcjR2Z2h1MDggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=bmJyazA2YzBhZGQ0bXZncG52N3MzcWZlNTggbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=bmdiamxtNzFzNTVyNmFmdjI0djRiMjRhOGMgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=bnJvcWI4aXBqMnUxcHBjc2JucGNrcXJsaW8gbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "See more details",
+"href": "https://www.google.com/calendar/event?eid=c3FpZTJkaGVrYTR2M2JqbDFvcTRlNHE5a2sgbmV2YWRhbnNmb3JiYXJuaGlsbEBt&ctz=America%2FLos_Angeles"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+}
 ]

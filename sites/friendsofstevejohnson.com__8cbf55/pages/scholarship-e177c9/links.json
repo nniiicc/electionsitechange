@@ -1,13 +1,50 @@
 [
-"https://campaignpartner.com/",
-"https://forms.gle/BhNasxZrdwdayT1j9",
-"https://friendsofstevejohnson.com/",
-"https://friendsofstevejohnson.com/contribute",
-"https://friendsofstevejohnson.com/endorsements",
-"https://friendsofstevejohnson.com/home",
-"https://friendsofstevejohnson.com/legislation",
-"https://friendsofstevejohnson.com/news",
-"https://friendsofstevejohnson.com/scholarship",
-"https://mgaleg.maryland.gov/mgawebsite/Members/District",
-"https://mhec.maryland.gov/preparing/pages/financialaid/programdescriptions/prog_delegate.aspx"
+{
+"text": "Contribute",
+"href": "https://www.friendsofstevejohnson.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofstevejohnson.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofstevejohnson.com/home"
+},
+{
+"text": "Keeping You In The Loop",
+"href": "https://www.friendsofstevejohnson.com/news"
+},
+{
+"text": "Legislation",
+"href": "https://www.friendsofstevejohnson.com/legislation"
+},
+{
+"text": "Members - Find My Representatives (maryland.gov)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/District"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Scholarship",
+"href": "https://www.friendsofstevejohnson.com/scholarship"
+},
+{
+"text": "Unique Major Status",
+"href": "https://mhec.maryland.gov/preparing/pages/financialaid/programdescriptions/prog_delegate.aspx"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofstevejohnson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://forms.gle/BhNasxZrdwdayT1j9"
+},
+{
+"text": "steve.johnson@house.maryland.gov",
+"href": "mailto:steve.johnson@house.maryland.gov"
+}
 ]

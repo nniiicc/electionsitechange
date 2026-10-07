@@ -1,6 +1,6 @@
-Contact the Campaign
-General inquires: [email protected]
-Press inquires: [email protected]
+Donate now!
+Our campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Close Facebook X Bluesky Instagram YouTube TikTok Abdul for U.S.
+Senate Menu Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Contact the Campaign General inquires: [email protected] Press inquires: [email protected] Contact the campaign to learn more about Abdul.
 Abdul El-Sayed wasn’t supposed to be a politician.
 He studied to be a doctor — but realized it was our broken politics that was making people sick.
 Abdul has dedicated his entire career to building government agencies that actually work for Michiganders.
@@ -20,4 +20,18 @@ In 2020, he was selected to serve on President Biden’s Unity Task Force for He
 Abdul has spent his career making government work for people, and in the U.S.
 Senate, Abdul’s priorities will be to get money out of politics, put money in your pocket, and pass Medicare for All.
 To volunteer for our campaign, visit our volunteer hub.
-To learn more about Abdul, visit our about page, or contact the campaign with other inquiries.
+To learn more about Abdul, visit our about page , or contact the campaign with other inquiries.
+Join our movement Sign up for the latest updates from Abdul’s campaign.
+First name Email address Zip code Mobile number By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Abdul for U.S.
+Senate.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Terms of Service and Privacy Policy apply.
+Join Us Contribute This campaign is #% funded by people like you — not corporations and would-be oligarchs. $# $# $# $# $# Other amount Abdul for U.S.
+Senate Home Meet Abdul Priorities Money Out of Politics Money in Your Pocket Medicare for All How to Vote Endorsements Events Events with Abdul Events for Volunteers Volunteer News Store Donate Follow Us: Facebook X Bluesky Instagram YouTube TikTok Donate By Mail Abdul for U.S.
+Senate PO Box 126 St.
+Clair Shores, MI 48080 Paid for by Abdul for U.S.
+Senate Contact the Campaign Speaking Request Jobs Privacy Policy Made with Middle Seat

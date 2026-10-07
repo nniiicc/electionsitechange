@@ -1,12 +1,8 @@
-Media Toolkit
-Videos
-Images
-Click on image to download
-5th District Voters Need to Know
-Democratic primary voters, except for white men over 50, need to read and see on the go that we need a real Democrat to represent us, not Don Samuels who has sold out to Republican megadonors.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share Media Toolkit Videos Images Click on image to download 5th District Voters Need to Know Democratic primary voters, except for white men over 50, need to read and see on the go that we need a real Democrat to represent us, not Don Samuels who has sold out to Republican megadonors.
 Samuels has a long history of being bankrolled by Republican donors and special interest groups that aim to defeat progressive Democrats and roll back the progress we’ve made, including conservative billionaire Harlan Crow – a close friend of Clarence Thomas, one of the Supreme Court Justices responsible for overturning Roe v.
 Wade – and groups that fund people like Donald Trump, insurrectionists, and anti-abortion extremists.
 Democratic voters, including educators and parents of school-aged children, in the district also need to be reminded of Don Samuels’ long history of attacking public education.
 As a school board member and city council member, he advocated for siphoning tax dollars away from public schools.
-He is on record insinuating children who attend public schools will become murderers and once advocated for North High School to be burned down — prompting the Northside community to demand his resignation.
+He is on record insinuating children who attend public schools will become murderers and once advocated for North High School to be burned down — prompting the Northside community to demand his resignation .
 Minnesotans can’t afford a member of Congress who champions the conservative agenda to privatize our public schools.
+Our Opponent’s Record on Public Schools Our Opponent’s Republican Donors ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

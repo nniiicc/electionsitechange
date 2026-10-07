@@ -1,17 +1,70 @@
 [
-"https://discord.gg/hmY6fpBtQA",
-"https://facebook.com/profile.php?id=61581340856899",
-"https://instagram.com/zebulonforcongress",
-"https://secure.anedot.com/friends-of-zebulon-featherly",
-"https://tiktok.com/@zebulonforcongress",
-"https://x.com/ZebForCongress",
-"https://youtube.com/@ZebulonFeatherly",
-"https://zebulonforcongress.com/",
-"https://zebulonforcongress.com/cart",
-"https://zebulonforcongress.com/contact-us",
-"https://zebulonforcongress.com/events",
-"https://zebulonforcongress.com/my-story",
-"https://zebulonforcongress.com/statements",
-"https://zebulonforcongress.com/transparency",
-"https://zebulonforcongress.com/where-i-stand"
+{
+"text": "0",
+"href": "https://www.zebulonforcongress.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.zebulonforcongress.com/contact-us"
+},
+{
+"text": "Discord",
+"href": "https://discord.gg/hmY6fpBtQA"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-zebulon-featherly"
+},
+{
+"text": "Email",
+"href": "mailto:ZebulonForCongress@gmail.com"
+},
+{
+"text": "Events",
+"href": "https://www.zebulonforcongress.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61581340856899"
+},
+{
+"text": "Home",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zebulonforcongress/"
+},
+{
+"text": "My Story",
+"href": "https://www.zebulonforcongress.com/my-story"
+},
+{
+"text": "No Party Just People",
+"href": "https://www.zebulonforcongress.com/"
+},
+{
+"text": "Statements",
+"href": "https://www.zebulonforcongress.com/statements"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@zebulonforcongress"
+},
+{
+"text": "Transparency",
+"href": "https://www.zebulonforcongress.com/transparency"
+},
+{
+"text": "Where I Stand",
+"href": "https://www.zebulonforcongress.com/where-i-stand"
+},
+{
+"text": "X",
+"href": "https://x.com/ZebForCongress"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ZebulonFeatherly"
+}
 ]

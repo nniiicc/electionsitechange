@@ -1,11 +1,8 @@
-Hartsook: Record-setting session dominated by ‘extreme Progressive’ wing of Democrat party
-BY BRIAN PORTER / FEBRUARY 28, 2024 / STATE, ROCKY MOUNTAIN VOICE, TOP STORIES
-The speed with which legislation is flowing in the Colorado Legislature is unprecedented, Rep.
+0 Skip to Content About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu About Anthony About Legislative Accomplishments Gallery Vision News In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Open Menu Close Menu Folder: About Anthony Back About Legislative Accomplishments Gallery Vision Folder: News Back In the News Hartsook Herald 2026 Hartsook Herald 2025 Hartsook Herald 2024 CONTRIBUTE Hartsook: Record-setting session dominated by ‘extreme Progressive’ wing of Democrat party Feb 28 Written By Jack Cutter BY BRIAN PORTER / FEBRUARY 28, 2024 / STATE , ROCKY MOUNTAIN VOICE , TOP STORIES The speed with which legislation is flowing in the Colorado Legislature is unprecedented, Rep.
 Anthony Hartsook told constituents Wednesday in a newsletter.
 Hartsook serves Douglas County residents in House District 44.
 “The legislature is well on its way to a record or near-record year for the volume of legislation,” he wrote.
-“I continue to fight for tax relief, parental rights, public safety, veterans and small business.”
-In an address Saturday to Weld County residents, Sen.
+“I continue to fight for tax relief, parental rights, public safety, veterans and small business.” In an address Saturday to Weld County residents, Sen.
 Barbara Kirkmeyer predicted bill count could reach 1,000.
 The bill total presently sits at 470.
 Hartsook sponsored House Bill 1156, which would allow issuance of a special event permit to a chamber of commerce and its members related to events where alcohol might be served.
@@ -23,6 +20,5 @@ He also noted Democrats had killed HB 1065, which would have reduced the individ
 The newsletter also details the passage of HB 1039, concerning the non-legal name change for students in schools and to require public and charter schools to use the student’s preferred name if requested by the student, and otherwise deems the action a form of discrimination.
 “Unfortunately, extreme Progressives continue to pass legislation that attacks parental and Constitutional rights,” Hartsook wrote.
 “The sponsors of HB 1039 stated that parents are the problem.
-I believe that all discussions about kids must involve their parents in the decision-making process.”
-He also noted HB 1174, concerning permitting to carry a concealed handgun.
-“This bill requires additional classes and standards beyond current requirements for concealed handgun training, which increases cost and waiting times,” Hartsook wrote.
+I believe that all discussions about kids must involve their parents in the decision-making process.” He also noted HB 1174, concerning permitting to carry a concealed handgun.
+“This bill requires additional classes and standards beyond current requirements for concealed handgun training, which increases cost and waiting times,” Hartsook wrote. representative anthony hartsook anthony hartsook colorado legislature house district 44 hd44 parker Jack Cutter Previous Previous All Veterans Honor Guard honored at Colorado Capitol Next Next Opinion: The Colorado Option is not working Privacy Policy “Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.” PAID FOR BY HARTSOOK 4 HOUSE; REGISTERED AGENT MARJORIE KLEIN

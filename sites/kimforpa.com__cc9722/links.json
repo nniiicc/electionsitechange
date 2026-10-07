@@ -1,12 +1,46 @@
 [
-"http://facebook.com/kimforpa",
-"http://instagram.com/kimforpa",
-"https://kimforpa.com/",
-"https://kimforpa.com/cart",
-"https://kimforpa.com/contact",
-"https://kimforpa.com/donate",
-"https://kimforpa.com/meet-kim",
-"https://kimforpa.com/the-district",
-"https://kimforpa.com/the-district-1",
-"https://kimforpa.com/theissues"
+{
+"text": "0",
+"href": "https://www.kimforpa.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.kimforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.kimforpa.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.kimforpa.com/"
+},
+{
+"text": "Kim Kohlhepp for PA State Representative",
+"href": "https://www.kimforpa.com/"
+},
+{
+"text": "Meet Kim",
+"href": "https://www.kimforpa.com/meet-kim"
+},
+{
+"text": "The District",
+"href": "https://www.kimforpa.com/the-district"
+},
+{
+"text": "The Election",
+"href": "https://www.kimforpa.com/the-district-1"
+},
+{
+"text": "The Issues",
+"href": "https://www.kimforpa.com/theissues"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/kimforpa"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/kimforpa"
+}
 ]

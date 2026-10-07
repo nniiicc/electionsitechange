@@ -1,19 +1,70 @@
 [
-"https://andrewgounardes.com/",
-"https://andrewgounardes.com/about",
-"https://andrewgounardes.com/contact",
-"https://andrewgounardes.com/endorsements",
-"https://andrewgounardes.com/issues",
-"https://andrewgounardes.com/news",
-"https://andrewgounardes.com/volunteer",
-"https://andrewgounardes.com/voting-info",
-"https://axios.com/2023/09/12/poverty-rate-child-benefits-expire",
-"https://designedtorun.com/",
-"https://facebook.com/AndrewForNewYork",
-"https://gothamist.com/news/young-families-are-fleeing-nyc-rising-child-care-and-housing-costs-are-to-blame",
-"https://instagram.com/agounardes",
-"https://niskanencenter.org/new-yorks-proposed-working-family-tax-credit-is-the-boldest-reform-yet",
-"https://nytimes.com/2024/02/21/nyregion/nyc-poverty.html",
-"https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1",
-"https://x.com/agounardes"
+{
+"text": "About",
+"href": "https://www.andrewgounardes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewgounardes.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewgounardes.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewgounardes.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.andrewgounardes.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewgounardes.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.andrewgounardes.com/voting-info"
+},
+{
+"text": "[image: Andrew Gounardes for State Senate ]",
+"href": "https://www.andrewgounardes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AndrewForNewYork"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/agounardes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/agounardes"
+},
+{
+"text": "according to experts",
+"href": "https://www.niskanencenter.org/new-yorks-proposed-working-family-tax-credit-is-the-boldest-reform-yet/"
+},
+{
+"text": "bearing the brunt",
+"href": "https://www.nytimes.com/2024/02/21/nyregion/nyc-poverty.html"
+},
+{
+"text": "dire results",
+"href": "https://www.axios.com/2023/09/12/poverty-rate-child-benefits-expire"
+},
+{
+"text": "spiraling child care and housing costs",
+"href": "https://gothamist.com/news/young-families-are-fleeing-nyc-rising-child-care-and-housing-costs-are-to-blame"
+}
 ]

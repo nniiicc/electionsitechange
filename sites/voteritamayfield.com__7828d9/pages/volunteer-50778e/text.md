@@ -1,2 +1,3 @@
-This campaign represents our community standing together to protect our shared values.
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Volunteer This campaign represents our community standing together to protect our shared values.
 Any time that you can spend will make a real difference.
+Your Name (required) Your Email (required) Phone Message @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

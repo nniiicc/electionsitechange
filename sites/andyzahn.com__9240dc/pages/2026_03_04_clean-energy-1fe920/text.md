@@ -1,4 +1,4 @@
-A blueprint for genuine clean energy and a robust, sustainable grid.
+Skip to content Andy Zahn Platform About Clean Energy A blueprint for genuine clean energy and a robust, sustainable grid.
 There is no reasonable doubt that climate change is indeed a real and urgent issue, and there is no reasonable doubt that humans are responsible.
 Additionally, there can be no doubt that the burning of fossil fuels is the primary contributor to climate change, and that it is urgent and imperative that we cease the extraction, refining, transportation, and consumption of fossil fuels.
 However, it is equally vital that we approach the transition to clean power in a way which does not entail catastrophic, unintended side effects.
@@ -37,3 +37,6 @@ An additional benefit of dispersed power generation in existing built space is g
 The preference of such utilities for centralized generation as a means of maintaining a position free of competition is in fact largely responsible for the push to implement renewables as centralized utility-scale facilities.
 By placing solar on built space, we can undermine the influence which utilities currently wield, and in so doing cut costs associated with these middlemen.
 The bottom line is that we need to correct course in our pursuit of a clean energy transition, and refocus our efforts instead on reducing demand while simultaneously improving and uplifting communities, and creating a robust, decentralized grid of renewable energy placed on existing built space.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply Connect with me Bluesky: https://bsky.app/profile/electandy.bsky.social Facebook: https://www.facebook.com/people/Elect-Andy-Zahn/61560679994242/ YouTube: https://www.youtube.com/@AndyZahn Substack: https://substack.com/@andyzahn1 Contact Email: Andy420th@proton.me Mailing Address: Andy Zahn P.O.
+Box 26 Toutle, WA, 98649 Discover more from Andy Zahn Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

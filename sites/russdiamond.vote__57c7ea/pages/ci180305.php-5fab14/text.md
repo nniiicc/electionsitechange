@@ -1,5 +1,4 @@
-March 5, 2018
-I was an early supporter of the premise of House Bill 722, during both this legislative session and the previous session, my first as a member of the General Assembly.
+Home Donate Blog News About Connect Withdrawing Support for Redistricting Bill March 5, 2018 I was an early supporter of the premise of House Bill 722, during both this legislative session and the previous session, my first as a member of the General Assembly.
 Withdrawing my support of this bill does not come lightly.
 Rather, it is a result of further careful consideration and my observance of the Pennsylvania Supreme Court's mishandling of the current congressional map situation.
 House Bill 722 would establish an 11-member commission, consisting of four Republicans, four Democrats, and three voters who are members of neither of the two major parties.
@@ -17,4 +16,5 @@ Three such legislative elections have already been conducted since the implement
 Even if the court is not drawing the map, the members of House Bill 722's independent commission would never have to face the voters.
 I would not support shifting judicial branch authority over legal appeals to an independent commission, nor would I support shifting executive branch authority over various state departments to any independent commission.
 Likewise, and for the above stated reasons, I cannot support transferring legislative authority over decennial mapmaking to an unelected, unaccountable – and likely hyper-partisan – commission.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

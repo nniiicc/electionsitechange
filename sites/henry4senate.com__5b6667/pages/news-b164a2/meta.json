@@ -1,7 +1,11 @@
 {
  "description": "The latest news, press releases, endorsements, and events from the Jackie Henry for Senate campaign.",
  "final_url": "https://www.henry4senate.com/news/",
+ "fingerprint": "f6d864589c214e9b6e0fb6acbcec2a4d54b1a091",
+ "format": 3,
  "paid_for_by": "paid for by Friends of Jackie Henry, PO Box 125, St",
- "title": "News & Events \u00b7 Jackie Henry for Senate",
- "years_mentioned": []
+ "title": "News & Events · Jackie Henry for Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

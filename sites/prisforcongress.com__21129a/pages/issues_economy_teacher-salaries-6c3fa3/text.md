@@ -1,4 +1,10 @@
-Louisiana regularly ranks among the lowest paying states in the US for teacher salaries, undermining our educational system and undervaluing our educators’ essential work.
+Skip Link Text Menu Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App Home ActBlue About Endorsements & Support Supporting the PACT Act Community Based Legal Logic RAICES 1st Corpus Christi Pride Parade Documents FEC Filings Parishes Acadia Parish Crime Rate Poverty Calcasieu Parish Housing Infant Mortality Crime Poverty Cameron Parish Crime Poverty Iberia Parish Crime Jeff Davis Parish Lake Charles Crime in Lake Charles Crime Poverty Lafayette Parish St.
+Mary Parish St.
+Martin Parish Drainage System Flooding and Erosion Terrebonne Parish Vermilion Parish Crime in Vermilion Parish Crime Juvenile Crime Issues Criminal Justice Reform Economy Education and Workforce Teacher Salaries Louisiana SB26 Healthcare Infant Mortality Maternal Mortality Hurricanes Infrastructure Taxes State Income Tax News Social Ballotpedia FaceBook Discord Reddit X Threads Donate ActBlue PayPal Venmo Cash App yes Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Phone (337) 279-8329 Email prisforcongress@gmail.com Teacher Salaries Louisiana regularly ranks among the lowest paying states in the US for teacher salaries, undermining our educational system and undervaluing our educators’ essential work.
 This gap not only has an impact on the quality of education our students receive, but it also makes it difficult for us to attract and retain great teachers.
 Taking action on this issue is critical to our state’s future development and prosperity.
 While the role as a Congressman does not provide direct authority to enforce teacher compensation raises, I am dedicated to using all of my office’s resources to support this important cause and collaborate with those who can make the necessary adjustments.
@@ -23,3 +29,10 @@ I can best serve and support our educators if I genuinely understand their issue
 Our teachers deserve more than just our gratitude; they should be fairly compensated for their dedication and hard work.
 While I may not have the authority to directly raise their pay, I do have the ability to influence, advocate, and collaborate.
 I commit to using every resource and connection I have to ensure that our teachers are paid and respected as they should be.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Subscribe To Our Newsletter Stay up to date with the latest news from Priscilla Gonzalez's campaign Issues Criminal Justice Reform Economy Education and Workforce Louisiana SB26 Teacher Salaries Healthcare Maternal Mortality Infant Mortality Infrastructure Taxes State Income Tax Parishes Acadia Parish Calcasieu Parish Cameron Parish Iberia Parish Jeff Davis Parish Lafayette Parish St.
+Martin Parish St.
+Mary Parish Terrebonne Parish Vermilion Parish Donate ActBlue Threads PayPal Venmo Cash App Social Ballotpedia Discord Reddit Facebook X Priscilla Gonzalez for Louisiana State Representative, 3rd District Design & Developed by Buy WordPress Templates

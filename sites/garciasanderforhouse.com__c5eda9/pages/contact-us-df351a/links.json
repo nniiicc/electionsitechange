@@ -1,13 +1,58 @@
 [
-"http://us17.list-manage.com/unsubscribe?u=7bf1a14d59af4df5fb80f1920&id=5413bf74f0",
-"https://facebook.com/profile.php?id=61555694184134",
-"https://garciasanderforhouse.com/",
-"https://garciasanderforhouse.com/about",
-"https://garciasanderforhouse.com/contact",
-"https://garciasanderforhouse.com/contact-us",
-"https://garciasanderforhouse.com/donate",
-"https://garciasanderforhouse.com/endorsements",
-"https://garciasanderforhouse.com/events",
-"https://garciasanderforhouse.com/issues",
-"https://garciasanderforhouse.com/my-bills"
+{
+"text": "About",
+"href": "https://garciasanderforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://garciasanderforhouse.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://garciasanderforhouse.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://garciasanderforhouse.com/endorsements/"
+},
+{
+"text": "Issues",
+"href": "https://garciasanderforhouse.com/issues/"
+},
+{
+"text": "Lori Garcia Sander for House District 65",
+"href": "https://garciasanderforhouse.com/"
+},
+{
+"text": "My Bills",
+"href": "https://garciasanderforhouse.com/my-bills/"
+},
+{
+"text": "My “Why”",
+"href": "https://garciasanderforhouse.com/"
+},
+{
+"text": "News & Events",
+"href": "https://garciasanderforhouse.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://garciasanderforhouse.com/contact/"
+},
+{
+"text": "[image: Lori Garcia Sander for House District 65]",
+"href": "https://garciasanderforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555694184134"
+},
+{
+"text": "garciasanderforhouse@gmail.com",
+"href": "mailto:garciasanderforhouse@gmail.com"
+},
+{
+"text": "unsubscribe from list",
+"href": "http://us17.list-manage.com/unsubscribe/?u=7bf1a14d59af4df5fb80f1920&id=5413bf74f0"
+}
 ]

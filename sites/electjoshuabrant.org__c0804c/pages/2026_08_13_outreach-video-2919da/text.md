@@ -1,14 +1,6 @@
-For Indiana State Senate District 23…
-Published by
-J.R.
-Brant
-on
-Candidate for Indiana State Senate District 23 discusses direct outreach as an essential part of genuine representation and the top issues people are bringing to his attention.
-Hi,
-Enter your email below to receive updates.
-Type your email…
-Subscribe
-Subscribe now to keep reading and get access to the full archive.
-Type your email…
-Subscribe
-Continue reading
+For Indiana State Senate District 23… Elect Joshua Brant Search News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH The Issues Outreach Video Published by J.R.
+Brant on August 13, 2026 Candidate for Indiana State Senate District 23 discusses direct outreach as an essential part of genuine representation and the top issues people are bringing to his attention.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Leave a Reply Cancel reply ← Previous: Return of the Hump Day Update (08/12/26) Next: Moto Monday 4 → Hi, I’m Joshua Brant Let’s connect Facebook TikTok Instagram X YouTube LinkedIn Reddit Nextdoor Discord Subscribe Enter your email below to receive updates.
+Type your email… Subscribe Recent posts Early Voting Message to Voters Prosperity Indiana Candidate Survey The Republican Primary Fight Continues Hump Day Update (09/09/26) Summit Summation Part 3 Summit Summation Part 2 Elect Joshua Brant Facebook TikTok Instagram X YouTube LinkedIn News District Map The Candidate The Issues Current Proposals Events Get Involved Donate PAC Transparency Communicate MERCH Paid for by the Committee to Elect Joshua Brant .
+Discover more from Elect Joshua Brant Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

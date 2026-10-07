@@ -1,14 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61591653666960",
-"https://instagram.com/ross4co",
-"https://ross4co.com/about.html",
-"https://ross4co.com/cdn-cgi/l/email-protection",
-"https://ross4co.com/contact.html",
-"https://ross4co.com/donate.html",
-"https://ross4co.com/events.html",
-"https://ross4co.com/index.html",
-"https://ross4co.com/issues.html",
-"https://ross4co.com/privacy.html",
-"https://ross4co.com/volunteer.html",
-"https://x.com/ross4co"
+{
+"text": "About",
+"href": "https://ross4co.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://ross4co.com/contact.html"
+},
+{
+"text": "Contribute Now",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Donate",
+"href": "https://ross4co.com/donate.html"
+},
+{
+"text": "Events",
+"href": "https://ross4co.com/events.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591653666960"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ross4co/"
+},
+{
+"text": "Issues",
+"href": "https://ross4co.com/issues.html"
+},
+{
+"text": "Privacy",
+"href": "https://ross4co.com/privacy.html"
+},
+{
+"text": "Volunteer",
+"href": "https://ross4co.com/volunteer.html"
+},
+{
+"text": "X",
+"href": "https://x.com/ross4co"
+},
+{
+"text": "[email protected]",
+"href": "mailto:hello@ross4co.com"
+},
+{
+"text": "[image: Ross Metler for Colorado House District 23]",
+"href": "https://ross4co.com/index.html"
+},
+{
+"text": "[image: Ross Metler]",
+"href": "https://ross4co.com/index.html"
+}
 ]

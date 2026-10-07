@@ -1,37 +1,150 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/about",
-"https://ayannapressley.com/contact",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/issues",
-"https://ayannapressley.com/issues/climate-crisis",
-"https://ayannapressley.com/issues/economy",
-"https://ayannapressley.com/issues/educational",
-"https://ayannapressley.com/issues/foreign-policy",
-"https://ayannapressley.com/issues/healthcare",
-"https://ayannapressley.com/issues/housing",
-"https://ayannapressley.com/issues/immigration",
-"https://ayannapressley.com/issues/jobguarantee",
-"https://ayannapressley.com/issues/lgbtq",
-"https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls",
-"https://ayannapressley.com/issues/transportation",
-"https://ayannapressley.com/issues/violence-and-trauma",
-"https://ayannapressley.com/jobs",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/volunteer",
-"https://ayannapressley.com/vote",
-"https://ayannapressley.com/zh",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://secure.actblue.com/donate/web-2024",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "A Just and Humane Immigration System",
+"href": "https://ayannapressley.com/issues/immigration/"
+},
+{
+"text": "Abortion Care as a Human Right",
+"href": "https://ayannapressley.com/issues/lgbtq/"
+},
+{
+"text": "Addressing the Impact of Violence and Trauma",
+"href": "https://ayannapressley.com/issues/healthcare/"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "Confronting the Climate Crisis",
+"href": "https://ayannapressley.com/issues/educational/"
+},
+{
+"text": "Contact",
+"href": "https://ayannapressley.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web-2024"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Education for All",
+"href": "https://ayannapressley.com/issues/violence-and-trauma/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "Fighting for a Just Economy",
+"href": "https://ayannapressley.com/issues/jobguarantee/"
+},
+{
+"text": "Foreign Policy Centered on Empathy and the Pursuit of Peace",
+"href": "https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Housing as a Human Right",
+"href": "https://ayannapressley.com/issues/housing/"
+},
+{
+"text": "Imagining the Future of Transportation",
+"href": "https://ayannapressley.com/issues/transportation/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Issues",
+"href": "https://ayannapressley.com/issues/"
+},
+{
+"text": "Jobs",
+"href": "https://ayannapressley.com/jobs/"
+},
+{
+"text": "Meet Ayanna",
+"href": "https://ayannapressley.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Privacy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "Standing Up Against Hate and Violence",
+"href": "https://ayannapressley.com/issues/foreign-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "Tackling Entrenched Healthcare Disparities",
+"href": "https://ayannapressley.com/issues/climate-crisis/"
+},
+{
+"text": "Transforming Our Criminal Legal System",
+"href": "https://ayannapressley.com/issues/economy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "Volunteer",
+"href": "https://ayannapressley.com/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://ayannapressley.com/vote/"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+}
 ]

@@ -1,9 +1,42 @@
 [
-"http://swayed.digital/",
-"https://assemblymanjeffreydinowitz.com/",
-"https://assemblymanjeffreydinowitz.com/cart",
-"https://assemblymanjeffreydinowitz.com/contact",
-"https://assemblymanjeffreydinowitz.com/home",
-"https://assemblymanjeffreydinowitz.com/privacy-policy",
-"https://secure.actblue.com/donate/jeffrey-dinowitz-3"
+{
+"text": "0",
+"href": "https://www.assemblymanjeffreydinowitz.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.assemblymanjeffreydinowitz.com/home#about"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.assemblymanjeffreydinowitz.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jeffrey-dinowitz-3"
+},
+{
+"text": "Home",
+"href": "https://www.assemblymanjeffreydinowitz.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.assemblymanjeffreydinowitz.com/home#issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.assemblymanjeffreydinowitz.com/privacy-policy"
+},
+{
+"text": "Swayed",
+"href": "http://www.swayed.digital/"
+},
+{
+"text": "[image: Friends of Assemblyman Jeffrey Dinowitz]",
+"href": "https://www.assemblymanjeffreydinowitz.com/"
+},
+{
+"text": "info@assemblymanjeffreydinowitz.com",
+"href": "mailto:info@assemblymanjeffreydinowitz.com"
+}
 ]

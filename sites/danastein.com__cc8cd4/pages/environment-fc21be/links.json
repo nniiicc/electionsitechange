@@ -1,47 +1,198 @@
 [
-"http://mde.state.md.us/programs/Marylander/Pages/mccc.aspx",
-"http://mgaleg.maryland.gov/webmga/frmMain.aspx?id=HB0116&stab=01&pid=billpage&tab=subject3&ys=2018rs",
-"http://mgaleg.maryland.gov/webmga/frmMain.aspx?id=HB1350&stab=01&pid=billpage&tab=subject3&ys=2018rs",
-"https://bayjournal.com/article/high_tide_in_dorchester_a_new_documentary_from_the_bay_journal",
-"https://danastein.com/",
-"https://danastein.com/citation-request",
-"https://danastein.com/contact-dana",
-"https://danastein.com/danas-newsletter",
-"https://danastein.com/endorsements-2026",
-"https://danastein.com/on-the-issues",
-"https://danastein.com/resources",
-"https://danastein.com/scholarship",
-"https://facebook.com/DelegateStein",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0131?ys=2025rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0164?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0213?ys=2019rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0229?ys=2020rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0289?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0293?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0503?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0507?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0586?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0784?ys=2022rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0807?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0925?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0950?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0990?ys=2024rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1011?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1155?ys=2025rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0003?ys=2018rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0514?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0557?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0602?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0610?ys=2016rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0830?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0924?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1042?ys=2015rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1063?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1106?ys=2016rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1325?ys=2017rs",
-"https://mgaleg.maryland.gov/mgawebsite/legislation/details/sb0184?ys=2017rs",
-"https://secure.actblue.com/donate/dana-stein-2",
-"https://twitter.com/DelDanaMStein1",
-"https://twitter.com/intent/user?screen_name=DelDanaMStein1",
-"https://zillow.com/research/climate-change-underwater-homes-12890"
+{
+"text": "(2016 HB",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1106?ys=2016rs"
+},
+{
+"text": "(HB 1042)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1042?ys=2015rs"
+},
+{
+"text": "(HB 1063)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1063?ys=2017rs"
+},
+{
+"text": "(HB 116)",
+"href": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?id=HB0116&stab=01&pid=billpage&tab=subject3&ys=2018rs"
+},
+{
+"text": "(HB 1325)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1325?ys=2017rs"
+},
+{
+"text": "(HB 1350)",
+"href": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?id=HB1350&stab=01&pid=billpage&tab=subject3&ys=2018rs"
+},
+{
+"text": "(HB 3)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0003?ys=2018rs"
+},
+{
+"text": "(HB 514)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0514?ys=2015rs"
+},
+{
+"text": "(HB 557)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0557?ys=2017rs"
+},
+{
+"text": "(HB 602)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0602?ys=2017rs"
+},
+{
+"text": "(HB 610)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0610?ys=2016rs"
+},
+{
+"text": "(HB 830)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0830?ys=2017rs"
+},
+{
+"text": "(HB 924)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb0924?ys=2017rs"
+},
+{
+"text": "(SB 184)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/sb0184?ys=2017rs"
+},
+{
+"text": "1106)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/legislation/details/hb1106?ys=2016rs"
+},
+{
+"text": "Contact Dana",
+"href": "https://danastein.com/contact-dana/"
+},
+{
+"text": "Dana’s Newsletter",
+"href": "https://danastein.com/danas-newsletter/"
+},
+{
+"text": "Delegate Dana Stein",
+"href": "https://danastein.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dana-stein-2"
+},
+{
+"text": "Endorsements",
+"href": "https://danastein.com/endorsements-2026/"
+},
+{
+"text": "Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0807/?ys=2024rs"
+},
+{
+"text": "HB 1011 – Public Safety – Refrigerants – Limitations on Use (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1011/?ys=2023rs"
+},
+{
+"text": "HB 1155 – Department of the Environment – Definition of Ecological Restoration (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1155/?ys=2025rs"
+},
+{
+"text": "HB 131 – Bay Restoration Fund – Septic System Upgrade Program (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0131/?ys=2025rs"
+},
+{
+"text": "HB 164 – Recycling Market Development (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0164/?ys=2021rs"
+},
+{
+"text": "HB 213 – Cownose Ray Fishery Management Plan and Moratorium on Contests (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0213/?ys=2019rs"
+},
+{
+"text": "HB 229 / SB300 Chlorpyrifos Pesticide Ban (Vetoed by the Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0229/?ys=2020rs"
+},
+{
+"text": "HB 289 – Maryland Forestry Education Fund – Establishment (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0289/?ys=2023rs"
+},
+{
+"text": "HB 293 – Restriction On Organized Killing Contests (Bill Enacted into Law)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0293/?ys=2021rs"
+},
+{
+"text": "HB 503 – Natural Resources – Greenspace Equity Program – Establishment (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0503/?ys=2023rs"
+},
+{
+"text": "HB 507 – Clean Water Commerce Act of 2021 (Bill Enacted into Law)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0507/?ys=2021rs"
+},
+{
+"text": "HB 586 – State Procurement – Purchasing – Compost, Mulch, and Soil Amendments and Aggregate (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0586/?ys=2023rs"
+},
+{
+"text": "HB 784 – Department of Natural Resources – Irreplaceable Natural Areas Program – Establishment (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0784/?ys=2022rs"
+},
+{
+"text": "HB 807 – Natural Resources – Submerged Aquatic Vegetation Surveys (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0807/?ys=2024rs"
+},
+{
+"text": "HB 925 – Natural Resources – PFAS Regulation (Signed into Law by",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0925/?ys=2026rs"
+},
+{
+"text": "HB 950 – Maryland Native Plants Program (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0950/?ys=2023rs"
+},
+{
+"text": "HB 990 – Environment – Greenhouse Gas Emissions Reductions – Manufacturers (Signed into Law by Governor)",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0990/?ys=2024rs"
+},
+{
+"text": "Legislative Scholarships",
+"href": "https://danastein.com/scholarship/"
+},
+{
+"text": "MGA Citation Request",
+"href": "https://danastein.com/citation-request/"
+},
+{
+"text": "Meet Dana",
+"href": "https://danastein.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://danastein.com/on-the-issues/"
+},
+{
+"text": "Resources",
+"href": "https://danastein.com/resources/"
+},
+{
+"text": "Zillow,",
+"href": "https://www.zillow.com/research/climate-change-underwater-homes-12890/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DelegateStein"
+},
+{
+"text": "[image: Follow Me]",
+"href": "https://twitter.com/intent/user?screen_name=DelDanaMStein1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DelDanaMStein1"
+},
+{
+"text": "[image: Visit Us]",
+"href": "https://twitter.com/DelDanaMStein1"
+},
+{
+"text": "clicking here",
+"href": "http://www.mde.state.md.us/programs/Marylander/Pages/mccc.aspx"
+},
+{
+"text": "“High Tide in Dorchester,”",
+"href": "https://www.bayjournal.com/article/high_tide_in_dorchester_a_new_documentary_from_the_bay_journal"
+}
 ]

@@ -1,27 +1,8 @@
-Endorsements
-Marathon County Sheriff Chad Billeb And Wood County Sheriff Sean Becker
-“John continues to be a strong advocate for Law Enforcement, as a former police officer and as Chairman of the Assembly Criminal Justice Committee.” Sheriff’s Billeb and Becker
-Former Assembly Majority Leader Scott Suder
-“John is the candidate that voters can rely on to stand for individual liberties, fight radical left-wing policies, and work hard for Central Wisconsin.
-He is the clear choice for the job.” - Scott Suder
-Former Host of The Meg Ellefson Show on WSAU, Meg Ellefson
-“I have known John since his first campaign and immediately knew after talking with him that he was the best man for the job.
-He’s a solid guy- humble, hardworking, and exactly the person you want representing us all in the legislature.” - Meg Ellefson
-Wisconsin RightToLife
-Former Rep.
-Joel Kleefisch
-“John is the proven conservative that the 86th District relies on!
+Home 2024-26 Session Accomplishments About John On the Issues News Endorsements Contact Donate Home 2024-26 Session Accomplishments About John On the Issues News Endorsements Contact Donate Endorsements Marathon County Sheriff Chad Billeb And Wood County Sheriff Sean Becker “John continues to be a strong advocate for Law Enforcement, as a former police officer and as Chairman of the Assembly Criminal Justice Committee.” Sheriff’s Billeb and Becker State Assembly - District 86 A ✓ *John Spiros Incumbent (R) F Andy Wuethrich Candidate (D) Former Assembly Majority Leader Scott Suder “John is the candidate that voters can rely on to stand for individual liberties, fight radical left-wing policies, and work hard for Central Wisconsin.
+He is the clear choice for the job.” - Scott Suder Former Host of The Meg Ellefson Show on WSAU, Meg Ellefson “I have known John since his first campaign and immediately knew after talking with him that he was the best man for the job.
+He’s a solid guy- humble, hardworking, and exactly the person you want representing us all in the legislature.” - Meg Ellefson Wisconsin RightToLife Dear Mr.
+Spiros, I am pleased to inform you that the Wisconsin Right to Life Political Action Committee has enthusiastically endorsed your candidacy for the Wisconsin State Assembly in the 86th District.
+8/26/2026 Former Rep.
+Joel Kleefisch “John is the proven conservative that the 86th District relies on!
 His pricipled leadership is the bellwether for prioritizing public safety and taking a stand against tax increases.
-I had the honor of serving with John, so I know first hand that he never backs down from ensuring Central Wisconsin values have a voice in Madison.” - Joel Kleefisch
-Former State Senator Jerry Petrowski
-Brian Varsho, Marshfield City Council President
-Mike O’Reilly, “Former”-Marshfield City Council District 9
-Wayne Schulz, Wood County Board District 1
-Tom Buttke, Wood County Board District 3
-Russell Perlock, Wood County Board District 4
-Timothy Hovendick, Wood County Board District 5
-Scott Brehm, “Former”-Wood County Board District 9
-Tiffany Ringer, Wood County Register of Deeds
-Past Endorsements
-Governor Scott Walker
-Former Congressman Sean Duffy
+I had the honor of serving with John, so I know first hand that he never backs down from ensuring Central Wisconsin values have a voice in Madison.” - Joel Kleefisch Former State Senator Jerry Petrowski Brian Varsho, Marshfield City Council President Mike O’Reilly, “Former”-Marshfield City Council District 9 Wayne Schulz, Wood County Board District 1 Tom Buttke, Wood County Board District 3 Russell Perlock, Wood County Board District 4 Timothy Hovendick, Wood County Board District 5 Scott Brehm, “Former”-Wood County Board District 9 Tiffany Ringer, Wood County Register of Deeds Past Endorsements Governor Scott Walker Former Congressman Sean Duffy Back to Top PAID FOR BY SPIROS FOR ASSEMBLY, JANE TRIERWEILER, TREASURER Privacy Policy

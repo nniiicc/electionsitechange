@@ -1,13 +1,14 @@
-EUGENE, Oregon (July 16, 2026) - For the second time in three quarters, political outsider Monique DeSpain has outraised incumbent Congresswoman Val Hoyle, a significant achievement and display of local support for a challenger campaign facing an entrenched career politician with a national fundraising apparatus behind her.
+About Meet Monique News Priorities Media Get Involved Volunteer Endorse Monique Voter Resources Donate Shop Like Monique Despain for Congress on Facebook Follow Monique Despain for Congress on X (formerly Twitter) Follow Monique Despain for Congress on Instagram Follow Monique Despain for Congress on YouTube Follow Monique Despain for Congress on TikTok Meet Monique News Priorities Media Volunteer Endorse Monique Voter Resources Donate Shop RELEASE: Monique DeSpain Outraises Career Politician Val Hoyle in Q2, Despite Hoyle’s Incumbency Advantage EUGENE, Oregon (July 16, 2026) - For the second time in three quarters , political outsider Monique DeSpain has outraised incumbent Congresswoman Val Hoyle, a significant achievement and display of local support for a challenger campaign facing an entrenched career politician with a national fundraising apparatus behind her.
+Across all three of her campaign-affiliated entities – Monique for Congress, Team Monique, and Over The Target PAC – DeSpain raised a combined $253,723.76 in Q2 and holds $512,650.48 cash on hand.
+Hoyle’s campaign, by comparison, raised just $223,215 in the same period and reported $520,893 cash on hand, despite the fundraising advantages that typically come with incumbency.
 “I am grateful for the outpouring of support from every corner of our district.
 Outraising an incumbent is not an easy task, and it is a testament to the undeniable momentum we have in this race,” said Monique DeSpain.
 “People in Oregon’s Fourth District are done with failed, DC lobbyist-funded career politicians and are ready for change.
 That’s why they’re putting their money behind me and my promise to deliver commonsense results for Oregonians.” Roughly half of Hoyle’s donations came from special interest PACs.
 Over 90% of the money raised for DeSpain’s campaign are contributions from Oregonians.
-Breakdown by entity *:
-Reporters and the public should report these figures in their proper context.
+Breakdown by entity *: Monique for Congress : $# raised in Q2; $# cash on hand Team Monique : $# raised in Q2; $# cash on hand Over The Target PAC: $# raised in Q2; $# cash on hand Reporters and the public should report these figures in their proper context.
 Because DeSpain’s political operation is structured across three separate, legally distinct entities – each with its own FEC filing requirements – the full financial picture only emerges when all three are considered together.
-Breakdown by entity - Val Hoyle FEC Q2 Reporting *:
-DeSpain, a retired U.S.
-Air Force Colonel with 30 years of service and licensed Oregon attorney, is challenging Hoyle in Oregon’s Fourth Congressional District in the 2026 general election.
-* Includes pre-primary and post-primary quarterly filings for Q2.
+Breakdown by entity - Val Hoyle FEC Q2 Reporting *: Val Hoyle for Congress : $# raised in Q2; $# cash on hand Val Hoyle Victory Fund : $# raised in Q2; $# cash on hand DeSpain, a retired U.S.
+Air Force Colonel with 30 years of service and licensed Oregon attorney, is challenging Hoyle in Oregon’s Fourth Congressional District in the 2026 general election. * Includes pre-primary and post-primary quarterly filings for Q2.
+Paid For By Monique For Congress PO Box 51034 Eugene, OR 97405 info@moniqueforcongress.com 541-321-6016 Privacy Policy The use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of Defense.
+Watch our latest ad!

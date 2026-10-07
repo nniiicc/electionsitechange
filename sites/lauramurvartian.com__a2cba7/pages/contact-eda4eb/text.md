@@ -1,3 +1,3 @@
-Connect on Social
-Get in Touch
-If you have any additional questions, please contact us by email at info@lauramurvartian.com or sign up below to receive updates on the campaign!
+0 Skip to Content Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Open Menu Close Menu Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Open Menu Close Menu Meet Laura Priorities Endorsements Community Volunteer/Events Press Contact Donate Connect on Social Get in Touch If you have any additional questions, please contact us by email at info@lauramurvartian.com or sign up below to receive updates on the campaign!
+Meet Laura Priorities Contact Privacy Policy Terms of Use Accessibility Paid for by Murvartian For Georgia, Inc.
+3000 Old Alabama Rd, Suite 119 – 238 Alpharetta, GA 30022

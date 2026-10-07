@@ -1,12 +1,2 @@
-Home
-Mission
-Tribute to a Hero
-Issues
-Events
-News
-Feature Event : Trivia Night Fundraiser
-Mon, Sep 21
-Rock Church
-John Birch Society Meeting, Monday, September 21, 2026 from 6:30-8:30 PM, Rock Church, 15101 Manchester Rd, Ballwin, MO 63011
-Sep 21, 2026, 6:30 PM – 8:30 PM
-Rock Church, 15101 Manchester Rd, Ballwin, MO 63011, USA
+top of page Home Mission Tribute to a Hero Issues Events News Use tab to navigate through the menu items.
+DONATE Feature Event : Trivia Night Fundraiser John Birch Society Meeting Mon, Sep 21 | Rock Church John Birch Society Meeting, Monday, September 21, 2026 from 6:30-8:30 PM, Rock Church, 15101 Manchester Rd, Ballwin, MO 63011 Registration is closed See other events Time & Location Sep 21, 2026, 6:30 PM – 8:30 PM Rock Church, 15101 Manchester Rd, Ballwin, MO 63011, USA Share this event David Robertson for Missouri 314-807-4759 provinse7@gmail.com PO Box 179 High Ridge, MO 63049 DONATE Privacy Policy Terms & Conditions Accessibility Statement Paid for by Robertson for Missouri, Ken Merrill, Treasurer ​ © #-26 David Robertson for Missouri bottom of page

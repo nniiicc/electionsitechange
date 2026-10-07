@@ -1,9 +1,38 @@
 [
-"http://instagram.com/SenatorMDRahman",
-"https://facebook.com/MDRahmanforSenate",
-"https://mdforsenate.com/",
-"https://mdforsenate.com/platform",
-"https://mdforsenate.com/volunteer",
-"https://secure.ngpvan.com/JiVUvvppEUCpVioqYe_nBg2",
-"https://twitter.com/MDRahmanCT"
+{
+"text": "Contact",
+"href": "https://www.mdforsenate.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/JiVUvvppEUCpVioqYe_nBg2"
+},
+{
+"text": "MD@MDforSenate.com",
+"href": "mailto:MD@MDforSenate.com"
+},
+{
+"text": "Meet MD",
+"href": "https://www.mdforsenate.com"
+},
+{
+"text": "Platform",
+"href": "https://www.mdforsenate.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mdforsenate.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MDRahmanforSenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/SenatorMDRahman"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/MDRahmanCT"
+}
 ]

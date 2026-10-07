@@ -1,12 +1,50 @@
 [
-"https://facebook.com/Friends-of-Strom-Peterson-222148277984266",
-"https://secure.ngpvan.com/vCPaXnEc5UusNQj2lAFhoA2",
-"https://votestrom.com/",
-"https://votestrom.com/about",
-"https://votestrom.com/contact",
-"https://votestrom.com/endorsements",
-"https://votestrom.com/news",
-"https://votestrom.com/on-the-issues",
-"https://votestrom.com/priorities",
-"https://votestrom.com/volunteer"
+{
+"text": "About",
+"href": "https://votestrom.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://votestrom.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/vCPaXnEc5UusNQj2lAFhoA2"
+},
+{
+"text": "Endorsements",
+"href": "https://votestrom.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votestrom.com/"
+},
+{
+"text": "Issues",
+"href": "https://votestrom.com/on-the-issues/"
+},
+{
+"text": "News",
+"href": "https://votestrom.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://votestrom.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://votestrom.com/volunteer/"
+},
+{
+"text": "[image: Facebook Link]",
+"href": "https://www.facebook.com/Friends-of-Strom-Peterson-222148277984266/"
+},
+{
+"text": "[image: Re-Elect Strom Peterson]",
+"href": "https://votestrom.com/"
+},
+{
+"text": "votestrom@gmail.com",
+"href": "mailto:votestrom@gmail.com"
+}
 ]

@@ -1,4 +1,4 @@
-The House of Representatives amended, approved, and sent the Senate H.4940, a joint resolution creating a temporary ELECTRICITY MARKET REFORM MEASURES STUDY COMMITTEE to examine whether the legislature should adopt market reform measures affecting the provision of electric service in South Carolina and study the public benefits associated with such measures.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate The State Capitol Report – 2/14/2020 Kambrell Garvin February 28, 2020 Comments Off on The State Capitol Report – 2/14/2020 Uncategorized The House of Representatives amended, approved, and sent the Senate H.4940, a joint resolution creating a temporary ELECTRICITY MARKET REFORM MEASURES STUDY COMMITTEE to examine whether the legislature should adopt market reform measures affecting the provision of electric service in South Carolina and study the public benefits associated with such measures.
 The legislation provides for the study committee’s membership of six legislators, three members of the House of Representatives, all serving ex officio, appointed by the Chairman of the House Labor, Commerce and Industry Committee and three members of the Senate, all serving ex officio, appointed by the Chairman of the Senate Judiciary Committee.
 The committee includes a non-voting advisory board made up of representatives from the electrical power industry, alternative energy and renewable power developers, consumer groups, pertinent government agencies, economic sectors, and conservation advocates.
 Provisions are made for the study committee to engage third party, independent, expert consultants.
@@ -17,9 +17,7 @@ The legislation also establishes a protocol for DISMISSING CHARGES FOR CERTAIN O
 Under the legislation, someone charged with certain listed offenses may petition the county solicitor for dismissal of the alleged offense that has not been adjudicated by trial or guilty plea, or otherwise disposed of or dismissed, after five years.
 If the petitioner has no other pending charges unrelated to the subject charge and no criminal convictions subsequent to the alleged offense, the solicitor must approve the dismissal of the offense charged and must do so within thirty days of receipt of the petition.
 The listed offenses include third degree simple assault and battery, public intoxication, disorderly conduct, breach of trust with fraudulent intent, open containers of alcohol in motor vehicles, trespassing, misdemeanor fraudulent check offenses, misdemeanor shoplifting, driving under suspension, simple possession of controlled substances, and similar local and state offenses that are similar to these listed crimes, in the opinion of the prosecutor.
-Upon dismissal of the offense, the solicitor is required to notify the State Law Enforcement Division and SLED
-2
-is required to remove the pending charge from the petitioner’s criminal record within ten days.
+Upon dismissal of the offense, the solicitor is required to notify the State Law Enforcement Division and SLED 2 is required to remove the pending charge from the petitioner’s criminal record within ten days.
 Additionally, any arrest and booking records, associated bench warrants, mug shots, and fingerprints of the person must be destroyed and no evidence of the record pertaining to the charge or associated bench warrants may be retained by any municipal, county, or state agency.
 An employee who intentionally violates these requirements is guilty of contempt of court.
 The House amended, approved, and sent the Senate to H.5062, a bill that allows the option of obtaining HARD CARD HUNTING AND FISHING LICENSES and other wildlife permits and tags from the Department of Natural Resources that are made of plastic or similar materials so that they will be more durable than paper versions.
@@ -30,4 +28,6 @@ The House approved and sent the Senate H.4702, a bill restoring AUTHORIZATION FO
 If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
 Box 292434, Columbia, SC 29229.
 Thank you for the opportunity to serve you in the House of Representatives.
-KHG/jhm
+KHG/jhm « The State Capitol Report – 2/7/2020 The State Capitol Report – 2/21/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

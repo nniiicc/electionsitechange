@@ -1,38 +1,154 @@
 [
-"http://daytondailynews.com/",
-"https://barrington.lpo.org/",
-"https://barrington.lpo.org/2026/07/20/hello-world",
-"https://barrington.lpo.org/2026/08/31/218",
-"https://barrington.lpo.org/2026/09/03/caribbean-boat-strikes",
-"https://barrington.lpo.org/2026/09/21/electoral-reform",
-"https://barrington.lpo.org/2026/09/23/debate-invitation",
-"https://barrington.lpo.org/2026/09/27/mike-carey-doesnt-care",
-"https://barrington.lpo.org/about-me",
-"https://barrington.lpo.org/contact",
-"https://barrington.lpo.org/contribute",
-"https://barrington.lpo.org/my-core-principles",
-"https://barrington.lpo.org/my-public-service-promise",
-"https://barrington.lpo.org/platform",
-"https://barrington.lpo.org/why-i-am-a-candidate",
-"https://brookings.edu/articles/whats-wrong-with-the-congressional-budget-process",
-"https://en.wikipedia.org/wiki/2016_Washington_State_Treasurer_election",
-"https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem",
-"https://en.wikipedia.org/wiki/Moxie_Media_scandal",
-"https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show",
-"https://facebook.com/profile.php?id=61593254168932",
-"https://fairvote.org/our-reforms/ranked-choice-voting",
-"https://ifs.org/news/brian-benjamin-case-shows-that-small-donor-matching-systems-incentivize-fraud",
-"https://manhattanda.org/d-a-bragg-announces-indictments-in-major-campaign-finance-fraud-scheme",
-"https://nationalreview.com/corner/yes-fraud-can-and-does-invalidate-elections",
-"https://nbcnews.com/news/world/crossover-democrats-overwhelmingly-back-santorum-flna246460",
-"https://nytimes.com/2024/10/11/nyregion/eric-adams-campaign-donations-matching.html",
-"https://politico.com/news/magazine/2021/11/29/true-tale-absentee-voter-fraud-north-carolina-523238",
-"https://rcvresources.org/rcv-videos",
-"https://rockthevote.org/explainers/ranked-choice-voting-an-explainer",
-"https://sightline.org/2025/10/27/time-to-tune-up-washingtons-primaries",
-"https://spokesman.com/stories/2016/aug/03/for-the-first-time-the-top-two-system-advances-can",
-"https://washingtonexaminer.com/news/2597535/money-spent-by-democrats-elevating-far-right-candidates-in-primaries-pays-off",
-"https://wordpress.org/",
-"https://x.com/Barrington4OH15",
-"https://youtube.com/watch?v=RoD6k7K7r6M"
+{
+"text": "A WordPress Commenter",
+"href": "https://wordpress.org/"
+},
+{
+"text": "A budget has not been enacted through the proper statutory procedure since 1996",
+"href": "https://www.brookings.edu/articles/whats-wrong-with-the-congressional-budget-process/"
+},
+{
+"text": "About Me",
+"href": "https://barrington.lpo.org/about-me/"
+},
+{
+"text": "Caribbean boat strikes",
+"href": "https://barrington.lpo.org/2026/09/03/caribbean-boat-strikes/"
+},
+{
+"text": "Contact",
+"href": "https://barrington.lpo.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://barrington.lpo.org/contribute/"
+},
+{
+"text": "Debate invitation",
+"href": "https://barrington.lpo.org/2026/09/23/debate-invitation/"
+},
+{
+"text": "Don Leonard’s Socialist Stances",
+"href": "https://barrington.lpo.org/2026/08/31/218/"
+},
+{
+"text": "Electoral reform",
+"href": "https://barrington.lpo.org/2026/09/21/electoral-reform/"
+},
+{
+"text": "Hello voters!",
+"href": "https://barrington.lpo.org/2026/07/20/hello-world/#comment-1"
+},
+{
+"text": "Hello voters!",
+"href": "https://barrington.lpo.org/2026/07/20/hello-world/#comment-2"
+},
+{
+"text": "Mike Carey doesn’t care…",
+"href": "https://barrington.lpo.org/2026/09/27/mike-carey-doesnt-care/"
+},
+{
+"text": "My Core Principles",
+"href": "https://barrington.lpo.org/my-core-principles/"
+},
+{
+"text": "My Platform",
+"href": "https://barrington.lpo.org/platform/"
+},
+{
+"text": "My Public Service Promise",
+"href": "https://barrington.lpo.org/my-public-service-promise/"
+},
+{
+"text": "Past",
+"href": "https://www.nationalreview.com/corner/yes-fraud-can-and-does-invalidate-elections/"
+},
+{
+"text": "These videos explain it as well.",
+"href": "https://www.rcvresources.org/rcv-videos"
+},
+{
+"text": "This is",
+"href": "https://manhattanda.org/d-a-bragg-announces-indictments-in-major-campaign-finance-fraud-scheme/"
+},
+{
+"text": "This video elaborates.",
+"href": "https://www.youtube.com/watch?v=RoD6k7K7r6M"
+},
+{
+"text": "Tom Gnau, Dayton Daily News",
+"href": "http://daytondailynews.com"
+},
+{
+"text": "Two explainers of RCV",
+"href": "https://fairvote.org/our-reforms/ranked-choice-voting/"
+},
+{
+"text": "Washington’s first Republican treasurer in decades",
+"href": "https://www.spokesman.com/stories/2016/aug/03/for-the-first-time-the-top-two-system-advances-can/"
+},
+{
+"text": "Why I Am A Candidate",
+"href": "https://barrington.lpo.org/why-i-am-a-candidate/"
+},
+{
+"text": "[image: Barrington for Ohio]",
+"href": "https://barrington.lpo.org"
+},
+{
+"text": "[tooltip: Barrington for Ohio]",
+"href": "https://barrington.lpo.org"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61593254168932"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://x.com/Barrington4OH15"
+},
+{
+"text": "abused",
+"href": "https://en.wikipedia.org/wiki/Moxie_Media_scandal"
+},
+{
+"text": "are linked here",
+"href": "https://www.rockthevote.org/explainers/ranked-choice-voting-an-explainer/"
+},
+{
+"text": "candidate they think",
+"href": "https://www.washingtonexaminer.com/news/2597535/money-spent-by-democrats-elevating-far-right-candidates-in-primaries-pays-off/"
+},
+{
+"text": "deliberately selecting the",
+"href": "https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show#Operation_Chaos"
+},
+{
+"text": "despite more total votes for the Democrats",
+"href": "https://www.sightline.org/2025/10/27/time-to-tune-up-washingtons-primaries/"
+},
+{
+"text": "hypothetical problem",
+"href": "https://www.ifs.org/news/brian-benjamin-case-shows-that-small-donor-matching-systems-incentivize-fraud/"
+},
+{
+"text": "incidents",
+"href": "https://www.politico.com/news/magazine/2021/11/29/true-tale-absentee-voter-fraud-north-carolina-523238"
+},
+{
+"text": "is the worst",
+"href": "https://www.nbcnews.com/news/world/crossover-democrats-overwhelmingly-back-santorum-flna246460"
+},
+{
+"text": "no voting system can",
+"href": "https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem"
+},
+{
+"text": "not a",
+"href": "https://www.nytimes.com/2024/10/11/nyregion/eric-adams-campaign-donations-matching.html"
+},
+{
+"text": "votes split between three Democrats in the primary",
+"href": "https://en.wikipedia.org/wiki/2016_Washington_State_Treasurer_election"
+}
 ]

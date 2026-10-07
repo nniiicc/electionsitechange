@@ -1,13 +1,58 @@
 [
-"https://facebook.com/matsonforiowa",
-"https://instagram.com/matsonforhouse",
-"https://matsonforiowa.com/",
-"https://matsonforiowa.com/contact",
-"https://matsonforiowa.com/endorsements",
-"https://matsonforiowa.com/issues",
-"https://matsonforiowa.com/meet-heather-matson",
-"https://matsonforiowa.com/volunteer",
-"https://onevoice.agency/",
-"https://secure.actblue.com/donate/matsonsd21",
-"https://twitter.com/matsonforhouse"
+{
+"text": "(515) 201-1877",
+"href": "tel:5152011877"
+},
+{
+"text": "Click here to send me an email.",
+"href": "mailto:heather@matsonforiowa.com?subject=Volunteering"
+},
+{
+"text": "Contact",
+"href": "https://matsonforiowa.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matsonsd21"
+},
+{
+"text": "Endorsements",
+"href": "https://matsonforiowa.com/endorsements/"
+},
+{
+"text": "Follow Heather on Facebook",
+"href": "https://www.facebook.com/matsonforiowa"
+},
+{
+"text": "Follow Heather on Instagram",
+"href": "https://www.instagram.com/matsonforhouse"
+},
+{
+"text": "Follow Heather on Twitter",
+"href": "https://twitter.com/matsonforhouse"
+},
+{
+"text": "Heather Matson for Iowa Senate",
+"href": "https://matsonforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://matsonforiowa.com/issues/"
+},
+{
+"text": "Meet Heather",
+"href": "https://matsonforiowa.com/meet-heather-matson/"
+},
+{
+"text": "Volunteer",
+"href": "https://matsonforiowa.com/volunteer/"
+},
+{
+"text": "Website built in Iowa by OVMM",
+"href": "https://onevoice.agency"
+},
+{
+"text": "info@matsonforiowa.com",
+"href": "mailto:info@matsonforiowa.com"
+}
 ]

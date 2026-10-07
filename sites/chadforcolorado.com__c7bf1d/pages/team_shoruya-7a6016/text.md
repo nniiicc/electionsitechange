@@ -1,7 +1,3 @@
-top of page
-Shourya Hooda
-Intern
-Shourya is a senior at Cherry Creek High School.
+top of page Meet Chad Team Endorsements Priorities Creating Leaders PAC Newsletters Subscribe District 37 Contact Get Involved Events Donate < Back Shourya Hooda Intern Shourya is a senior at Cherry Creek High School.
 Having worked with Chad on the campaign trail, he’s invested in politics and hopes to study political science in college.
-Outside of work, Shourya loves hiking, playing tennis and reading mysteries.
-bottom of page
+Outside of work, Shourya loves hiking, playing tennis and reading mysteries. cap.office@chadforcolorado.com C H A D C L I F F O R D - State Representative- C H A D C L I F F O R D - State Representative- © # Paid for by Chad for Colorado, Registered Agent Chad Clifford bottom of page

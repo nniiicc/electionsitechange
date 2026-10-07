@@ -1,41 +1,230 @@
 [
-"http://rebeccaseawright.com/issues/animal-rights",
-"http://rebeccaseawright.com/issues/animal-rights-2",
-"http://rebeccaseawright.com/issues/animal-rights-5",
-"http://rebeccaseawright.com/issues/criminal-justice-reform-2",
-"http://rebeccaseawright.com/issues/election-reform",
-"http://rebeccaseawright.com/issues/environmental",
-"http://rebeccaseawright.com/issues/gun-reform",
-"http://rebeccaseawright.com/issues/health-and-safety-during-covid-19",
-"http://rebeccaseawright.com/issues/higher-education",
-"http://rebeccaseawright.com/issues/homelessness",
-"http://rebeccaseawright.com/issues/housing",
-"http://rebeccaseawright.com/issues/k-through-12-education",
-"http://rebeccaseawright.com/issues/lgbtq",
-"http://rebeccaseawright.com/issues/senior-citizen-rights",
-"http://rebeccaseawright.com/issues/small-businesses",
-"http://rebeccaseawright.com/issues/transportation",
-"https://rebeccaseawright.com/",
-"https://rebeccaseawright.com/issues",
-"https://rebeccaseawright.com/issues/animal-rights",
-"https://rebeccaseawright.com/issues/animal-rights-2",
-"https://rebeccaseawright.com/issues/animal-rights-5",
-"https://rebeccaseawright.com/issues/criminal-justice-reform-2",
-"https://rebeccaseawright.com/issues/election-reform",
-"https://rebeccaseawright.com/issues/environmental",
-"https://rebeccaseawright.com/issues/gun-reform",
-"https://rebeccaseawright.com/issues/health-and-safety-during-covid-19",
-"https://rebeccaseawright.com/issues/higher-education",
-"https://rebeccaseawright.com/issues/homelessness",
-"https://rebeccaseawright.com/issues/housing",
-"https://rebeccaseawright.com/issues/k-through-12-education",
-"https://rebeccaseawright.com/issues/lgbtq",
-"https://rebeccaseawright.com/issues/senior-citizen-rights",
-"https://rebeccaseawright.com/issues/small-businesses",
-"https://rebeccaseawright.com/issues/transportation",
-"https://rebeccaseawright.com/meetrebecca",
-"https://rebeccaseawright.com/news",
-"https://rebeccaseawright.com/organization-endorsements",
-"https://rebeccaseawright.com/volunteer",
-"https://secure.actblue.com/donate/rebecca-seawright-1"
+{
+"text": "Animal Rights",
+"href": "https://rebeccaseawright.com/issues/animal-rights/"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://rebeccaseawright.com/issues/criminal-justice-reform-2/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rebecca-seawright-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://rebeccaseawright.com/organization-endorsements/"
+},
+{
+"text": "Election Reform",
+"href": "https://rebeccaseawright.com/issues/election-reform/"
+},
+{
+"text": "Environmental",
+"href": "https://rebeccaseawright.com/issues/environmental/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://rebeccaseawright.com/volunteer/"
+},
+{
+"text": "Gun Reform",
+"href": "https://rebeccaseawright.com/issues/gun-reform/"
+},
+{
+"text": "Health and Safety During COVID-19",
+"href": "https://rebeccaseawright.com/issues/health-and-safety-during-covid-19/"
+},
+{
+"text": "Higher Education",
+"href": "https://rebeccaseawright.com/issues/higher-education/"
+},
+{
+"text": "Homelessness",
+"href": "https://rebeccaseawright.com/issues/homelessness/"
+},
+{
+"text": "Housing",
+"href": "https://rebeccaseawright.com/issues/housing/"
+},
+{
+"text": "ISSUES",
+"href": "https://rebeccaseawright.com/issues/"
+},
+{
+"text": "K-12 Education",
+"href": "https://rebeccaseawright.com/issues/k-through-12-education/"
+},
+{
+"text": "LGBTQ+",
+"href": "https://rebeccaseawright.com/issues/lgbtq/"
+},
+{
+"text": "MEET REBECCA",
+"href": "https://rebeccaseawright.com/meetrebecca/"
+},
+{
+"text": "NEWS",
+"href": "https://rebeccaseawright.com/news/"
+},
+{
+"text": "Organization Endorsements",
+"href": "https://rebeccaseawright.com/organization-endorsements/"
+},
+{
+"text": "Paid for by Friends of Rebecca Seawright",
+"href": "https://secure.actblue.com/donate/rebecca-seawright-1"
+},
+{
+"text": "Protecting and Enhancing Women’s Rights",
+"href": "https://rebeccaseawright.com/issues/animal-rights-5/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/animal-rights-2/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/animal-rights-5/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/animal-rights/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/criminal-justice-reform-2/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/election-reform/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/environmental/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/gun-reform/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/health-and-safety-during-covid-19/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/higher-education/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/homelessness/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/housing/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/k-through-12-education/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/lgbtq/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/senior-citizen-rights/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/small-businesses/"
+},
+{
+"text": "Read more...",
+"href": "http://rebeccaseawright.com/issues/transportation/"
+},
+{
+"text": "Senior Citizen Rights",
+"href": "https://rebeccaseawright.com/issues/senior-citizen-rights/"
+},
+{
+"text": "Small Businesses",
+"href": "https://rebeccaseawright.com/issues/small-businesses/"
+},
+{
+"text": "Taxes",
+"href": "https://rebeccaseawright.com/issues/animal-rights-2/"
+},
+{
+"text": "Transportation",
+"href": "https://rebeccaseawright.com/issues/transportation/"
+},
+{
+"text": "[image: Rebecca Seawright]",
+"href": "https://rebeccaseawright.com/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/animal-rights-2/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/animal-rights-5/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/animal-rights/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/criminal-justice-reform-2/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/election-reform/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/environmental/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/gun-reform/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/health-and-safety-during-covid-19/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/higher-education/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/homelessness/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/housing/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/k-through-12-education/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/lgbtq/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/senior-citizen-rights/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/small-businesses/"
+},
+{
+"text": "[no text]",
+"href": "https://rebeccaseawright.com/issues/transportation/"
+}
 ]

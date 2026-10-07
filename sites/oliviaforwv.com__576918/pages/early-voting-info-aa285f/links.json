@@ -1,16 +1,62 @@
 [
-"http://instagram.com/oliviamillerforwv",
-"https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote",
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://docs.google.com/forms/d/e/1FAIpQLSeyrkGFuUMINAqObCTjfIgc29FQUJvi3PqhfmdhP_GMFSGmxw/viewform",
-"https://facebook.com/profile.php?id=61587712396128",
-"https://monongaliacountyclerk.com/index.php/17-current-election/121-2026-primary-election-information",
-"https://oliviaforwv.com/",
-"https://oliviaforwv.com/cart",
-"https://oliviaforwv.com/donate",
-"https://oliviaforwv.com/early-voting-info",
-"https://oliviaforwv.com/endorsements",
-"https://oliviaforwv.com/get-involved",
-"https://secure.actblue.com/donate/olivia-for-our-future",
-"https://venusiangroup.net/"
+{
+"text": "0",
+"href": "https://www.oliviaforwv.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://www.oliviaforwv.com/donate"
+},
+{
+"text": "EARLY VOTING INFO",
+"href": "https://www.oliviaforwv.com/early-voting-info"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.oliviaforwv.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.oliviaforwv.com/get-involved"
+},
+{
+"text": "VOTE OLIVIA",
+"href": "https://www.oliviaforwv.com/"
+},
+{
+"text": "WEBSITE BY VENUSIANGROUP.NET",
+"href": "https://venusiangroup.net"
+},
+{
+"text": "[image: VOTE OLIVIA FOR OUR FUTURE]",
+"href": "https://www.oliviaforwv.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/oliviamillerforwv"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587712396128"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/olivia-for-our-future"
+},
+{
+"text": "get involved",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeyrkGFuUMINAqObCTjfIgc29FQUJvi3PqhfmdhP_GMFSGmxw/viewform"
+},
+{
+"text": "here",
+"href": "https://apps.sos.wv.gov/Elections/Voter/AmIRegisteredToVote"
+},
+{
+"text": "here",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "here",
+"href": "https://www.monongaliacountyclerk.com/index.php/17-current-election/121-2026-primary-election-information"
+}
 ]

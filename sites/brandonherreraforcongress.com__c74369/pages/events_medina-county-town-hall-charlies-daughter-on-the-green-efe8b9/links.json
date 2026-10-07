@@ -1,25 +1,198 @@
 [
-"https://brandonherreraforcongress.com/",
-"https://brandonherreraforcongress.com/endorsements",
-"https://brandonherreraforcongress.com/events",
-"https://brandonherreraforcongress.com/issues",
-"https://brandonherreraforcongress.com/joint-fundraising-notice",
-"https://brandonherreraforcongress.com/meet-brandon",
-"https://brandonherreraforcongress.com/news",
-"https://brandonherreraforcongress.com/news/general-updates",
-"https://brandonherreraforcongress.com/news/press-releases",
-"https://brandonherreraforcongress.com/veterans-for-brandon-herrera",
-"https://brandonherreraforcongress.com/vote",
-"https://brandonherreraforcongress.com/wp-content/themes/brandonherreraforcongress/addevent.php?title=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&description=Join+Brandon+Herrera+for+a+town+hall+at+Charlie%26%238217%3Bs+Daughter+on+the+Green+in+Devine.+Hear+Brandon%26%238217%3Bs+message+and+bring+your+questions%21&date=20261030&starttime=170000&endtime=180000&location=116+W+Malone+Dr%2C+Devine%2C+TX",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F",
-"https://google.com/calendar/render?action=TEMPLATE&text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&details=Join+Brandon+Herrera+for+a+town+hall+at+Charlie%26%238217%3Bs+Daughter+on+the+Green+in+Devine.+Hear+Brandon%26%238217%3Bs+message+and+bring+your+questions%21&dates=20261030T170000%2F20261030T180000&location=116+W+Malone+Dr%2C+Devine%2C+TX&ctz=America%2FChicago",
-"https://google.com/maps/search?api=1&query=116+W+Malone+Dr%2C+Devine%2C+TX",
-"https://herrera.cmpgn.to/donate",
-"https://herrera.cmpgn.to/fb",
-"https://herrera.cmpgn.to/ig",
-"https://herrera.cmpgn.to/volunteer",
-"https://maps.apple.com/?q=116+W+Malone+Dr%2C+Devine%2C+TX",
-"https://t.me/share/url?url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F&text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green",
-"https://truthsocial.com/share?text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F",
-"https://twitter.com/intent/tweet?text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F"
+{
+"text": "Add to Google Calendar",
+"href": "https://www.google.com/calendar/render?action=TEMPLATE&text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&details=Join+Brandon+Herrera+for+a+town+hall+at+Charlie%26%238217%3Bs+Daughter+on+the+Green+in+Devine.+Hear+Brandon%26%238217%3Bs+message+and+bring+your+questions%21&dates=20261030T170000%2F20261030T180000&location=116+W+Malone+Dr%2C+Devine%2C+TX&ctz=America%2FChicago"
+},
+{
+"text": "Border Security",
+"href": "https://brandonherreraforcongress.com/issues/#border-security"
+},
+{
+"text": "Campaign News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "Click here to read our joint fundraising notice.",
+"href": "https://brandonherreraforcongress.com/joint-fundraising-notice/"
+},
+{
+"text": "Donate",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Donate to help the campaign",
+"href": "https://herrera.cmpgn.to/donate"
+},
+{
+"text": "Economy",
+"href": "https://brandonherreraforcongress.com/issues/#economy"
+},
+{
+"text": "Education",
+"href": "https://brandonherreraforcongress.com/issues/#education"
+},
+{
+"text": "Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Follow the campaign on Facebook",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "Follow the campaign on Instagram",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "Foreign Policy",
+"href": "https://brandonherreraforcongress.com/issues/#foreign-policy"
+},
+{
+"text": "General Updates",
+"href": "https://brandonherreraforcongress.com/news/general-updates"
+},
+{
+"text": "Healthcare",
+"href": "https://brandonherreraforcongress.com/issues/#healthcare"
+},
+{
+"text": "Home",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Make America Healthy Again",
+"href": "https://brandonherreraforcongress.com/issues/#maha"
+},
+{
+"text": "Meet Brandon",
+"href": "https://brandonherreraforcongress.com/meet-brandon/"
+},
+{
+"text": "News",
+"href": "https://brandonherreraforcongress.com/news/"
+},
+{
+"text": "On The Issues",
+"href": "https://brandonherreraforcongress.com/issues/"
+},
+{
+"text": "Open in Apple Maps",
+"href": "https://maps.apple.com/?q=116+W+Malone+Dr%2C+Devine%2C+TX"
+},
+{
+"text": "Open in Google Maps",
+"href": "https://www.google.com/maps/search/?api=1&query=116+W+Malone+Dr%2C+Devine%2C+TX"
+},
+{
+"text": "Phone: (210) 940-9274",
+"href": "tel:+12109409274"
+},
+{
+"text": "Press Releases",
+"href": "https://brandonherreraforcongress.com/news/press-releases/"
+},
+{
+"text": "Pro-Life",
+"href": "https://brandonherreraforcongress.com/issues/#pro-life"
+},
+{
+"text": "Protecting Women’s Sports",
+"href": "https://brandonherreraforcongress.com/issues/#womens-sports"
+},
+{
+"text": "Save to Calendar",
+"href": "https://brandonherreraforcongress.com/wp-content/themes/brandonherreraforcongress/addevent.php?title=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&description=Join+Brandon+Herrera+for+a+town+hall+at+Charlie%26%238217%3Bs+Daughter+on+the+Green+in+Devine.+Hear+Brandon%26%238217%3Bs+message+and+bring+your+questions%21&date=20261030&starttime=170000&endtime=180000&location=116+W+Malone+Dr%2C+Devine%2C+TX"
+},
+{
+"text": "Second Amendment",
+"href": "https://brandonherreraforcongress.com/issues/#second-amendment"
+},
+{
+"text": "See Our Event Schedule",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Serving Veterans",
+"href": "https://brandonherreraforcongress.com/issues/#serving-veterans"
+},
+{
+"text": "Supporting Trump",
+"href": "https://brandonherreraforcongress.com/issues/#supporting-trump"
+},
+{
+"text": "Term Limits",
+"href": "https://brandonherreraforcongress.com/issues/#term-limits"
+},
+{
+"text": "Upcoming Events",
+"href": "https://brandonherreraforcongress.com/events/"
+},
+{
+"text": "Veteran Endorsement",
+"href": "https://brandonherreraforcongress.com/veterans-for-brandon-herrera/"
+},
+{
+"text": "View Endorsements",
+"href": "https://brandonherreraforcongress.com/endorsements/"
+},
+{
+"text": "Volunteer",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Volunteer for the campaign",
+"href": "https://herrera.cmpgn.to/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "Voting Information",
+"href": "https://brandonherreraforcongress.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "https://brandonherreraforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/fb"
+},
+{
+"text": "[no text]",
+"href": "https://herrera.cmpgn.to/ig"
+},
+{
+"text": "[no text]",
+"href": "https://t.me/share/url?url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F&text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/share?text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Medina+County+Town+Hall+%26%238211%3B+Charlie%26%238217%3Bs+Daughter+on+the+Green&url=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Medina+County+Town+Hall+%E2%80%93+Charlie%E2%80%99s+Daughter+on+the+Green&body=Medina+County+Town+Hall+%E2%80%93+Charlie%E2%80%99s+Daughter+on+the+Green%3A++https%3A%2F%2Fbrandonherreraforcongress.com%2Fevents%2Fmedina-county-town-hall-charlies-daughter-on-the-green%2F"
+},
+{
+"text": "info@brandonherreraforcongress.com",
+"href": "mailto:info@brandonherreraforcongress.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website of John Sjaarda for South Dakota State Representative",
  "final_url": "https://www.johnsjaarda.net/",
- "paid_for_by": null,
+ "fingerprint": "3496c49a6bbae5ff9735fba355a87affd9265f84",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Sjaarda for State Senate",
  "years_mentioned": []
 }

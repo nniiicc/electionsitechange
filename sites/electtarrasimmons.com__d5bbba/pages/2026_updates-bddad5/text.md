@@ -1,19 +1,18 @@
-In the News, Press Releases, & More
-The Latest from Tarra
-There’s always something happening across the 23rd Legislative District.
+Skip to content Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X Facebook Instagram Youtube Envelope Donate Facebook Instagram Youtube Envelope Donate Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X Donate Meet Tarra Leadership & Impact Priorities Endorsements Events Volunteer Updates In The News Press Releases Subscribe X In the News, Press Releases, & More The Latest from Tarra There’s always something happening across the 23rd Legislative District.
 Follow Tarra’s work, hear directly from her, and stay up to date on the issues that matter to our communities.
-See what others are saying about Tarra’s work in Olympia and across the 23rd Legislative District.
+In the News See what others are saying about Tarra’s work in Olympia and across the 23rd Legislative District.
 Explore coverage of her legislative work, community advocacy, and the issues that matter most to the people she represents.
-Get the latest official updates from Tarra’s campaign, including announcements, campaign priorities, statements, and responses to issues affecting communities across the 23rd Legislative District.
-Stay connected with Team Tarra wherever you are.
+See Tarra’s News Coverage → Press Releases Get the latest official updates from Tarra’s campaign, including announcements, campaign priorities, statements, and responses to issues affecting communities across the 23rd Legislative District.
+Read Tarra’s Press Releases → subscribe to Team tarra Stay connected with Team Tarra wherever you are.
 Sign up for campaign updates, upcoming events, opportunities to get involved, and the latest news from Tarra and the communities she represents.
-Paid for by People for Tarra Simmons
-PO Box 774
-Tracyton, WA 98398
-Read our Privacy Policy and SMS Terms
-LAND ACKNOWLEDGEMENT
-Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+Subscribe to Team Tarra → Stay Plugged In On Social Media Follow Tarra online for the conversations happening every day.
+Get campaign updates, community highlights, behind-the-scenes moments, legislative updates, and ways to stay engaged with the work happening across the district.
+Facebook Instagram Youtube Envelope cONTRIBUTE TO THE CAMPAIGN There's a place for everyone We’re building a people-powered campaign cross the 23rd legislative district.
+Add your voice, your time, or your campaign donations to the movement, and help us keep Tarra fighting for her community.
+DONATE Volunteer Request a Yard Sign Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 Read our Privacy Policy and SMS Terms Home Meet Tarra Endorsements Priorities Events Volunteer Contact DONATE LAND ACKNOWLEDGEMENT Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
 The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
 We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.
-Paid for by People for Tarra Simmons
-PO Box 774 Tracyton, WA 98398
+Facebook Instagram Youtube Envelope Request a Yard Sign Home Meet Tarra Endorsements Priorities Events Volunteer Contact DONATE Facebook Instagram Youtube Envelope Paid for by People for Tarra Simmons PO Box 774 Tracyton, WA 98398 LAND ACKNOWLEDGEMENT Tarra’s work takes place in the 23rd Legislative District, on the Salish Coast, a region that has long been cared for by Indigenous peoples.
+The district is home to several sovereign Tribal Nations, whose communities, cultures, and traditions remain deeply rooted and beloved in this region.
+We honor these Nations and the Indigenous communities who have stewarded these lands and waters for generations and continue that stewardship today.
+Read our Privacy Policy and SMS Terms

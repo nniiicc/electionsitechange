@@ -1,11 +1,46 @@
 [
-"https://decaprio4ct48th.com/",
-"https://decaprio4ct48th.com/about",
-"https://decaprio4ct48th.com/contact",
-"https://decaprio4ct48th.com/get-involved",
-"https://decaprio4ct48th.com/marks-record",
-"https://decaprio4ct48th.com/news",
-"https://decaprio4ct48th.com/values",
-"https://facebook.com/wix",
-"https://instagram.com/wix"
+{
+"text": "About",
+"href": "https://www.decaprio4ct48th.com/about"
+},
+{
+"text": "Back to Values",
+"href": "https://www.decaprio4ct48th.com/values"
+},
+{
+"text": "Contact",
+"href": "https://www.decaprio4ct48th.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.decaprio4ct48th.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.decaprio4ct48th.com"
+},
+{
+"text": "Mark's Record",
+"href": "https://www.decaprio4ct48th.com/marks-record"
+},
+{
+"text": "Mark@DeCaprio4CT48th.com",
+"href": "mailto:Mark@DeCaprio4ct48th.com?subject=DeCaprio+4+CT+48th"
+},
+{
+"text": "News",
+"href": "https://www.decaprio4ct48th.com/news"
+},
+{
+"text": "Values",
+"href": "https://www.decaprio4ct48th.com/values"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+}
 ]

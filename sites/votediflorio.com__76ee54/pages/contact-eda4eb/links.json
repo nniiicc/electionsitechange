@@ -1,8 +1,30 @@
 [
-"http://facebook.com/TracyDiFlorioforChili",
-"http://twitter.com/tdiflorio001",
-"https://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today",
-"https://votediflorio.com/",
-"https://votediflorio.com/contact",
-"https://votediflorio.com/join"
+{
+"text": "Contact Tracy",
+"href": "https://votediflorio.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-tracy-diflorio/donate-today"
+},
+{
+"text": "Home",
+"href": "https://votediflorio.com/"
+},
+{
+"text": "Join the Team",
+"href": "https://votediflorio.com/join/"
+},
+{
+"text": "[no text]",
+"href": "https://votediflorio.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "http://facebook.com/TracyDiFlorioforChili/"
+},
+{
+"text": "[tooltip: ]",
+"href": "http://twitter.com/tdiflorio001"
+}
 ]

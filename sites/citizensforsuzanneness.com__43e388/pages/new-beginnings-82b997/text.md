@@ -1,4 +1,4 @@
-Newness is challenging to embrace.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT Previous Next New Beginnings Newness is challenging to embrace.
 There is comfort in knowing a way forward, comfort in knowing someone else went through the same situation and made it out on the other side.
 In spite of the uncertainty, new experiences can pave the way for new discoveries.
 As a young intern for Team Ness, my past few years have been full of new beginnings.
@@ -17,3 +17,7 @@ With Team Ness, I am proud to work with so many talented people who work to make
 We wield this passion in our fight for “new beginnings,” not just in Illinois, but for our country and the world.
 Whether it be defending reproductive rights, protecting the environment, standing for people with disabilities, or simply defending democracy, I campaign with Suzanne to uplift our fellow meaning-makers in District 66.
 Together, we can forge new beginnings as we create meaning in our uncertain world.
+By Roxie S | 2026-09-10T15:57:23+00:00 July 19, 2024 | Uncategorized | Comments Off on New Beginnings Share This Story, Choose Your Platform!
+Facebook LinkedIn Email Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

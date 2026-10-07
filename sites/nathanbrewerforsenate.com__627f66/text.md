@@ -1,8 +1,4 @@
-Nathan Brewer For Senate – District 8
-info@nathanbrewerforsenate.com
-(C) 918-319-1554
-Menu
-Hello I’m Nathan Brewer a small business owner and county worker who is running for Oklahoma Senate District 8.
+Skip to main content Nathan Brewer For Senate – District 8 Nathan Brewer For Senate info@nathanbrewerforsenate.com (C) 918-319-1554 Menu Home Contact Nathan Menu $ DONATE Become A Volunteer Hello I’m Nathan Brewer a small business owner and county worker who is running for Oklahoma Senate District 8.
 I aim to strengthen democracy, protect children from sex offenders, make healthcare and mental health more accessible, fund rural emergency services.
 I pledge to represent all constituents.
 We have to stand up for democracy, if we don’t we’ll lose it.
@@ -20,8 +16,7 @@ Additionally I will work on funding for rural fire departments as well as rural 
 I pledge to be here for the constituents whether it’s a phone call or an email.
 Additional contact information… P.
 O.
-Box 747 Henryetta Ok 74437 cm@nathanbrewerforsenate.com treasurer@nathanbrewerforsenate.com
-Nathan Brewer is a small business owner and dedicated father from Henryetta, Oklahoma.
+Box 747 Henryetta Ok 74437 cm@nathanbrewerforsenate.com treasurer@nathanbrewerforsenate.com Nathan Brewer is a small business owner and dedicated father from Henryetta, Oklahoma.
 He is running as the Democratic candidate for the Oklahoma State Senate District 8 seat, which includes Okmulgee, Okfuskee, McIntosh and parts of Creek and Muskogee counties.
 The seat became vacant following Senator Roger Thompson’s resignation on November 1, 2024.
 Brewer’s candidacy is deeply personal.
@@ -31,3 +26,4 @@ He advocates for the passage of “Knight’s Law,” introduced in 2023, which 
 Additionally, Brewer aims to improve rural access to healthcare services, including mental health care.
 As the sole Democratic candidate, Brewer will advance directly to the general election scheduled for November 3, 2026.
 He is actively engaging with residents across the district to understand their concerns and represent them effectively at the State Capitol.
+Authorized and Paid For by Nathan Brewer for Senate District 8 2025 - © nathanbrewerforsenate.com

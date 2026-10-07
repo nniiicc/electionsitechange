@@ -1,16 +1,1 @@
-BILL PARTINGTON FOR STATE REPRESENTATIVE
-Go to content
-Contribute
-×
-Home
-Meet Bill
-Issues
-Volunteer
-Contact
-Fb
-Bill Partington has
-Conservative Values
-Experience
-Community Bonds
-Back to content
-To use this website you must enable JavaScript.
+BILL PARTINGTON FOR STATE REPRESENTATIVE Go to content Contribute × Home Meet Bill Issues Volunteer Contact Fb Bill Partington has Conservative Values Experience Community Bonds Paid by Bill Partington, Republican, for State Representative, District 28 Back to content To use this website you must enable JavaScript.

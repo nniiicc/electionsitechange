@@ -1,15 +1,7 @@
-Events
-RSVPs are required for phonebanks, but optional for all other events.
+0 Skip to Content Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Take Action Immigration and Community Resources Contact CONTRIBUTE Open Menu Close Menu Home About Priorities Voting Info Endorsements Volunteer Events Request a Lawn Sign Folder: Take Action Back Immigration and Community Resources Contact CONTRIBUTE Events RSVPs are required for phonebanks, but optional for all other events.
 Your RSVP helps us plan accordingly!
-Filtering by: “Talk to Voters”
-Aug
-1
-Jul
-26
-15
-12
-Jun
-25
-20
-6
-4
+Filtering by: “Talk to Voters” Aug 1 Talk to Voters August 1 Doorknock Saturday, August 1, 2026 11:00 AM 1:30 PM McCullough Park (map) Google Calendar ICS RSVP Here View Event → Jul 26 Talk to Voters July 26 Doorknock with Rep.
+Esther Agbaje Sunday, July 26, 2026 12:30 PM 3:00 PM Lake Johanna Park (map) Google Calendar ICS RSVP Here View Event → Jul 15 Talk to Voters July 15 Phonebank Wednesday, July 15, 2026 6:00 PM 8:00 PM Google Calendar ICS RSVP Here View Event → Jul 12 Talk to Voters July 12 Doorknock Sunday, July 12, 2026 2:00 PM 4:30 PM Mounds View, Mn (map) Google Calendar ICS RSVP Here View Event → Jun 25 Talk to Voters June 25 Phonebank Thursday, June 25, 2026 6:00 PM 7:00 PM Google Calendar ICS RSVP Here View Event → Jun 20 Talk to Voters June 20 Doorknock Saturday, June 20, 2026 10:30 AM 1:00 PM Sunny Square Park (map) Google Calendar ICS RSVP Here View Event → Jun 6 Talk to Voters Doorknock Kickoff Saturday, June 6, 2026 3:00 PM 5:30 PM Shoreview Community Center (map) Google Calendar ICS RSVP Here View Event → Jun 4 Talk to Voters June 4 Phonebank Thursday, June 4, 2026 6:00 PM 8:00 PM Google Calendar ICS RSVP Here View Event → Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for campaign updates and news: Email Address Sign Up Thank you!
+Contribute Paid for by Neighbors for Aisha Elmquist PO Box 120195, New Brighton, MN 55112 Top

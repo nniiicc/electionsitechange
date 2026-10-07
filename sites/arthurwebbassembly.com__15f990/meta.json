@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website of Arthur Webb for California State Assembly District 15 in 2026. The district is the northern edge of Contra Costa County, mosty Martinez, Pleasant Hill, Concord, Pittsburg, Bay Point, Antioch, parts of Brentwood.",
  "final_url": "https://arthurwebbassembly.com/",
+ "fingerprint": "59b4187b67e3264c7a14f236787bffdde6104d7f",
+ "format": 3,
  "paid_for_by": "Paid for by Arthur Webb for Assembly 2026 FPPC #1490039 Powered by CampaignPartner",
  "title": "Arthur Webb - California State Assembly District 15 - NPP Candidate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

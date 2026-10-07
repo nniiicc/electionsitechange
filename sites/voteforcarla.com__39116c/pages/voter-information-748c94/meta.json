@@ -1,7 +1,9 @@
 {
  "description": "View the map for District 61 Voter Information and confirm your District with the official scvotes.sc.gov website. Check your district here!",
  "final_url": "https://voteforcarla.com/voter-information/",
- "paid_for_by": "Paid for by Carla for State House 1229 38th Ave N, PMB 392 Myrtle Beach, SC 29577 1229 38th Avenue North PMB 392 Myrtle Beach, SC 29577 contact@votefor",
+ "fingerprint": "b6dd59dd7cdf62c10a596a10a2e8f97b2e54305a",
+ "format": 3,
+ "paid_for_by": "Paid for by Carla for State House 1229 38th Ave N, PMB 392 Myrtle Beach, SC 29577 1229 38th Avenue North PMB 392 Myrtle Beach, SC 29577 contact@voteforcarla",
  "title": "District 61 Voter Information - VoteForCarla.com",
  "years_mentioned": []
 }

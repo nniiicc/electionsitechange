@@ -1,15 +1,58 @@
 [
-"http://https://www.thenews-messenger.com/story/opinion/2022/05/07/gary-click-life-begins-creation/9657194002",
-"https://campaignpartner.com/",
-"https://garyclick.com/",
-"https://garyclick.com/about_gary",
-"https://garyclick.com/contact",
-"https://garyclick.com/events",
-"https://garyclick.com/home",
-"https://garyclick.com/issues",
-"https://garyclick.com/issues/conservatism",
-"https://garyclick.com/issues/education",
-"https://garyclick.com/news",
-"https://garyclick.com/photos",
-"https://garyclick.com/privacy-policy"
+{
+"text": "About Gary",
+"href": "https://www.garyclick.com/about_gary"
+},
+{
+"text": "Contact",
+"href": "https://www.garyclick.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.garyclick.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/home"
+},
+{
+"text": "It is so fundamental that our founders incorporated it into our birth certificate, The Declaration of Independence.",
+"href": "http://https://www.thenews-messenger.com/story/opinion/2022/05/07/gary-click-life-begins-creation/9657194002/"
+},
+{
+"text": "News",
+"href": "https://www.garyclick.com/news"
+},
+{
+"text": "Next: Education »",
+"href": "https://www.garyclick.com/issues/education"
+},
+{
+"text": "On the Issues",
+"href": "https://www.garyclick.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.garyclick.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image]",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "privacy policy",
+"href": "https://www.garyclick.com/privacy-policy"
+},
+{
+"text": "« Previous: Conservatism",
+"href": "https://www.garyclick.com/issues/conservatism"
+}
 ]

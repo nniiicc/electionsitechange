@@ -1,7 +1,9 @@
 {
  "description": "Senator Bill Gannon. A proven leader, delivering real results for NH families. Join the team!",
  "final_url": "https://williamgannon.net/donate.html",
- "paid_for_by": null,
+ "fingerprint": "25e53f66b34c73efe00f0c06fd3292cde10ac9b3",
+ "format": 3,
+ "paid_for_by": "Paid for by Gannon for State Senate, Bill Gannon Fiscal Agent",
  "title": "Donate | Gannon for Senate",
  "years_mentioned": []
 }

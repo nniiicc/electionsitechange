@@ -1,151 +1,986 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=ABBA+Postcard+Party&dates=20260908T233000Z%2F20260909T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Arlington+Heights+Memorial+Day+Parade&dates=20260525T140000Z%2F20260525T170000Z&location=Arlington+Heights%2C+IL%2C+60005%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Breakfast+%26amp%3B+Postcards+with+Ted+Mason&dates=20260718T153000Z%2F20260718T173000Z&location=Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV&dates=20261004T180000Z%2F20261004T213000Z&location=500+North+Dunton+Avenue%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260418T170000Z%2F20260418T210000Z&location=14+E+Northwest+Highway%2C+Arlington+Heights%2C+IL%2C+60005%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260808T180000Z%2F20260808T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260829T180000Z%2F20260829T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260905T180000Z%2F20260905T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260912T180000Z%2F20260912T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260919T180000Z%2F20260919T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260926T180000Z%2F20260926T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261003T180000Z%2F20261003T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261010T180000Z%2F20261010T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261017T180000Z%2F20261017T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261031T180000Z%2F20261031T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Free+Narcan+Training+with+Live4Lali&dates=20260728T230000Z%2F20260729T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Opening+of+Campaign+Office&dates=20260620T190000Z%2F20260620T220000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Hello%2C+Fall+Postcard+Party&dates=20260929T233000Z%2F20260930T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Day+of+Action+with+Mary+Beth+Canty+and+Nicolle+Grasse&dates=20260822T150000Z%2F20260822T173000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Day+of+Action+with+Ted+Mason%2C+Mary+Beth+Canty+and+Nicolle+Grasse&dates=20260927T180000Z%2F20260927T200000Z&location=21+South+Emerson+Street%2C+Mount+Prospect%2C+Illinois%2C+60056%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Let%E2%80%99s+Talk+Taxes&dates=20260904T000000Z%2F20260904T013000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Martin+Luther+King+Jr.+Day+Volunteer+Event&dates=20260119T160000Z%2F20260122T170000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+IL%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+-+February+6th&dates=20260207T010000Z%2F20260207T030000Z&location=Private+Residence%2C+Arlington+Heights%2C+IL%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Month+of+Action+KICKOFF+Event&dates=20260927T160000Z%2F20260927T180000Z&location=316+North+Winston+Drive%2C+Palatine%2C+Illinois%2C+60074%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Kings+Protest&dates=20260328T170000Z%2F20260328T190000Z&location=300+East+Northwest+Highway%2C+Palatine%2C+IL%2C+60067%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Oktoberfest+Themed+Fall+Fundraiser&dates=20260923T230000Z%2F20260924T020000Z&location=111+West+Campbell+Street%2C+Arlington+Heights%2C+Illinois%2C+60005%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Protect+Our+Neighbors+Solidarity+Gathering&dates=20260306T220000Z%2F20260306T230000Z&location=Corner+of+Dundee+Rd+and+Baldwin+Rd%2C+Palatine%2C+IL%2C+60074%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Fundraiser&dates=20260617T233000Z%2F20260618T013000Z&location=214+East+Grove+Street%2C+Arlington+Heights%2C+IL%2C+60005%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Reception&dates=20260707T223000Z%2F20260708T003000Z&location=519+North+Clark+Street%2C+Chicago%2C+IL%2C+60654%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Taco+Tuesday+Postcard+Party&dates=20260825T233000Z%2F20260826T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Taylor+Swift+Themed+Postcard+Party&dates=20260715T233000Z%2F20260716T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Night%21+Celebrate.+Connect.+Build+What%E2%80%99s+Next+%E2%80%94+Together.&dates=20260308T000000Z%2F20260308T020000Z&location=1227+North+Rand+Road%2C+Arlington+Heights%2C+IL%2C+60004%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Wine+%26amp%3B+Cheese+Joint+Postcard+Party&dates=20260916T233000Z%2F20260917T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States",
-"http://maps.google.com/?q=+Arlington+Heights%2C+IL%2C+60005+United+States",
-"http://maps.google.com/?q=+Arlington+Heights%2C+Illinois%2C+60004+United+States",
-"http://maps.google.com/?q=111+West+Campbell+Street+Arlington+Heights%2C+Illinois%2C+60005+United+States",
-"http://maps.google.com/?q=1227+North+Rand+Road+Arlington+Heights%2C+IL%2C+60004+United+States",
-"http://maps.google.com/?q=14+E+Northwest+Highway+Arlington+Heights%2C+IL%2C+60005+United+States",
-"http://maps.google.com/?q=14+West+Miner+Street+Arlington+Heights%2C+IL%2C+60004+United+States",
-"http://maps.google.com/?q=14+West+Miner+Street+Arlington+Heights%2C+Illinois%2C+60004+United+States",
-"http://maps.google.com/?q=21+South+Emerson+Street+Mount+Prospect%2C+Illinois%2C+60056+United+States",
-"http://maps.google.com/?q=214+East+Grove+Street+Arlington+Heights%2C+IL%2C+60005+United+States",
-"http://maps.google.com/?q=300+East+Northwest+Highway+Palatine%2C+IL%2C+60067+United+States",
-"http://maps.google.com/?q=316+North+Winston+Drive+Palatine%2C+Illinois%2C+60074+United+States",
-"http://maps.google.com/?q=500+North+Dunton+Avenue+Arlington+Heights%2C+Illinois%2C+60004+United+States",
-"http://maps.google.com/?q=519+North+Clark+Street+Chicago%2C+IL%2C+60654+United+States",
-"http://maps.google.com/?q=Corner+of+Dundee+Rd+and+Baldwin+Rd+Palatine%2C+IL%2C+60074+United+States",
-"http://maps.google.com/?q=Private+Residence+Arlington+Heights%2C+IL+United+States",
-"https://ahml.info/scheduling/reservation/211655",
-"https://carinaforsenate.com/",
-"https://carinaforsenate.com/about-carina",
-"https://carinaforsenate.com/cart",
-"https://carinaforsenate.com/contact",
-"https://carinaforsenate.com/events/ah-memorial-day-parade",
-"https://carinaforsenate.com/events/ah-memorial-day-parade?format=ical",
-"https://carinaforsenate.com/events/birthday-trivia-night-fundraiser",
-"https://carinaforsenate.com/events/birthday-trivia-night-fundraiser?format=ical",
-"https://carinaforsenate.com/events/day-of-action-061826",
-"https://carinaforsenate.com/events/day-of-action-061826?format=ical",
-"https://carinaforsenate.com/events/day-of-action-080826",
-"https://carinaforsenate.com/events/day-of-action-080826?format=ical",
-"https://carinaforsenate.com/events/day-of-action-082226",
-"https://carinaforsenate.com/events/day-of-action-082226?format=ical",
-"https://carinaforsenate.com/events/day-of-action-082926",
-"https://carinaforsenate.com/events/day-of-action-082926?format=ical",
-"https://carinaforsenate.com/events/day-of-action-090526",
-"https://carinaforsenate.com/events/day-of-action-090526?format=ical",
-"https://carinaforsenate.com/events/day-of-action-091226",
-"https://carinaforsenate.com/events/day-of-action-091226?format=ical",
-"https://carinaforsenate.com/events/day-of-action-091926",
-"https://carinaforsenate.com/events/day-of-action-091926?format=ical",
-"https://carinaforsenate.com/events/day-of-action-092626",
-"https://carinaforsenate.com/events/day-of-action-092626?format=ical",
-"https://carinaforsenate.com/events/day-of-action-092726",
-"https://carinaforsenate.com/events/day-of-action-092726?format=ical",
-"https://carinaforsenate.com/events/day-of-action-100326",
-"https://carinaforsenate.com/events/day-of-action-100326?format=ical",
-"https://carinaforsenate.com/events/day-of-action-101026",
-"https://carinaforsenate.com/events/day-of-action-101026?format=ical",
-"https://carinaforsenate.com/events/day-of-action-101726",
-"https://carinaforsenate.com/events/day-of-action-101726?format=ical",
-"https://carinaforsenate.com/events/day-of-action-103126",
-"https://carinaforsenate.com/events/day-of-action-103126?format=ical",
-"https://carinaforsenate.com/events/day-of-action-103226",
-"https://carinaforsenate.com/events/day-of-action-10326",
-"https://carinaforsenate.com/events/day-of-action-10326?format=ical",
-"https://carinaforsenate.com/events/fall-fundraiser-oktoberfest",
-"https://carinaforsenate.com/events/fall-fundraiser-oktoberfest?format=ical",
-"https://carinaforsenate.com/events/free-narcan-training-072826",
-"https://carinaforsenate.com/events/free-narcan-training-072826?format=ical",
-"https://carinaforsenate.com/events/lets-talk-taxes",
-"https://carinaforsenate.com/events/lets-talk-taxes?format=ical",
-"https://carinaforsenate.com/events/lwv-candidate-forum",
-"https://carinaforsenate.com/events/lwv-candidate-forum?format=ical",
-"https://carinaforsenate.com/events/meet-greet-020626",
-"https://carinaforsenate.com/events/meet-greet-020626?format=ical",
-"https://carinaforsenate.com/events/mlk-day-whistle-kits",
-"https://carinaforsenate.com/events/mlk-day-whistle-kits?format=ical",
-"https://carinaforsenate.com/events/no-kings-protest-032826",
-"https://carinaforsenate.com/events/no-kings-protest-032826?format=ical",
-"https://carinaforsenate.com/events/office-grand-opening",
-"https://carinaforsenate.com/events/office-grand-opening?format=ical",
-"https://carinaforsenate.com/events/postcard-party-071526",
-"https://carinaforsenate.com/events/postcard-party-071526?format=ical",
-"https://carinaforsenate.com/events/postcard-party-071826",
-"https://carinaforsenate.com/events/postcard-party-071826?format=ical",
-"https://carinaforsenate.com/events/postcard-party-abba",
-"https://carinaforsenate.com/events/postcard-party-abba?format=ical",
-"https://carinaforsenate.com/events/postcard-party-hello-fall",
-"https://carinaforsenate.com/events/postcard-party-hello-fall?format=ical",
-"https://carinaforsenate.com/events/postcard-party-taco-tuesday",
-"https://carinaforsenate.com/events/postcard-party-taco-tuesday?format=ical",
-"https://carinaforsenate.com/events/postcard-party-wine-cheee",
-"https://carinaforsenate.com/events/postcard-party-wine-cheee?format=ical",
-"https://carinaforsenate.com/events/postcard-party-wine-cheese",
-"https://carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z",
-"https://carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z?format=ical",
-"https://carinaforsenate.com/events/summer-fundraiser",
-"https://carinaforsenate.com/events/summer-fundraiser?format=ical",
-"https://carinaforsenate.com/events/summer-reception",
-"https://carinaforsenate.com/events/summer-reception?format=ical",
-"https://carinaforsenate.com/home",
-"https://carinaforsenate.com/il-state-senate-district-map",
-"https://carinaforsenate.com/issues",
-"https://carinaforsenate.com/privacy-policy",
-"https://carinaforsenate.com/resources",
-"https://carinaforsenate.com/senate-news",
-"https://carinaforsenate.com/volunteer",
-"https://carinaforsenate.com/yardsigns",
-"https://docs.google.com/forms/d/e/1FAIpQLSfcnHUbVTcmsIagRclwiFMY4tXBBfgLvkFsCCan9Xf76We3Sw/viewform",
-"https://facebook.com/carinaforsenate",
-"https://instagram.com/csmforillinois",
-"https://instagram.com/goodneighborsnetwork",
-"https://instagram.com/p/Dd9YisrlFv6",
-"https://instagram.com/p/Dd_sdNWEYwU",
-"https://instagram.com/p/DduXK0PmXkN",
-"https://instagram.com/p/DeA1K4NEVcK",
-"https://instagram.com/p/DeH_OZrFJyt",
-"https://linkedin.com/in/cnhomann",
-"https://live4lali.org/",
-"https://mobilize.us/nokings/event/904525",
-"https://mobilize.us/organizeillinois2026/event/991848?force_banner=true&share_context=event_details&share_medium=copy_link",
-"https://secure.actblue.com/donate/carina-santa-maria-1",
-"https://secure.actblue.com/donate/carina0707",
-"https://secure.actblue.com/donate/carina0923",
-"https://secure.actblue.com/donate/carinabirthday",
-"https://secure.actblue.com/donate/carinasummer",
-"https://thiswaytofabulous.com/",
-"https://youtube.com/channel/UCN3VvchmM_NxD3etYmqVQbA"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+arlington+heights%2C+il%2C+60005+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+arlington+heights%2C+illinois%2C+60004+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=111+west+campbell+street+arlington+heights%2C+illinois%2C+60005+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1227+north+rand+road+arlington+heights%2C+il%2C+60004+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14+e+northwest+highway+arlington+heights%2C+il%2C+60005+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14+west+miner+street+arlington+heights%2C+il%2C+60004+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=14+west+miner+street+arlington+heights%2C+illinois%2C+60004+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=21+south+emerson+street+mount+prospect%2C+illinois%2C+60056+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=214+east+grove+street+arlington+heights%2C+il%2C+60005+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=300+east+northwest+highway+palatine%2C+il%2C+60067+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=316+north+winston+drive+palatine%2C+illinois%2C+60074+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=500+north+dunton+avenue+arlington+heights%2C+illinois%2C+60004+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=519+north+clark+street+chicago%2C+il%2C+60654+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=corner+of+dundee+rd+and+baldwin+rd+palatine%2C+il%2C+60074+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=private+residence+arlington+heights%2C+il+united+states"
+},
+{
+"text": "0",
+"href": "https://www.carinaforsenate.com/cart"
+},
+{
+"text": "ABBA Postcard Party",
+"href": "https://www.carinaforsenate.com/events/postcard-party-abba"
+},
+{
+"text": "About Carina",
+"href": "https://www.carinaforsenate.com/about-carina"
+},
+{
+"text": "Arlington Heights Memorial Day Parade",
+"href": "https://www.carinaforsenate.com/events/ah-memorial-day-parade"
+},
+{
+"text": "Breakfast & Postcards with Ted Mason",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071826"
+},
+{
+"text": "Candidate Forum Hosted by LWV",
+"href": "https://www.carinaforsenate.com/events/lwv-candidate-forum"
+},
+{
+"text": "Click Here",
+"href": "https://www.carinaforsenate.com/events/ah-memorial-day-parade"
+},
+{
+"text": "Click Here to",
+"href": "https://www.carinaforsenate.com/volunteer"
+},
+{
+"text": "Contact",
+"href": "https://www.carinaforsenate.com/contact"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.carinaforsenate.com/il-state-senate-district-map"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/carina-santa-maria-1"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-061826"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-080826"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082926"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-090526"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091226"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091926"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092626"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126"
+},
+{
+"text": "Day of Action",
+"href": "https://www.carinaforsenate.com/events/day-of-action-10326"
+},
+{
+"text": "Free Narcan Training with Live4Lali",
+"href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
+},
+{
+"text": "GRAB A TICKET TODAY!",
+"href": "https://secure.actblue.com/donate/carina0923"
+},
+{
+"text": "GRAB A TICKET TODAY!",
+"href": "https://secure.actblue.com/donate/carinasummer"
+},
+{
+"text": "Good Neighbors Network",
+"href": "https://www.instagram.com/goodneighborsnetwork/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ABBA+Postcard+Party&dates=20260908T233000Z%2F20260909T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Arlington+Heights+Memorial+Day+Parade&dates=20260525T140000Z%2F20260525T170000Z&location=Arlington+Heights%2C+IL%2C+60005%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Breakfast+%26amp%3B+Postcards+with+Ted+Mason&dates=20260718T153000Z%2F20260718T173000Z&location=Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidate+Forum+Hosted+by+LWV&dates=20261004T180000Z%2F20261004T213000Z&location=500+North+Dunton+Avenue%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260418T170000Z%2F20260418T210000Z&location=14+E+Northwest+Highway%2C+Arlington+Heights%2C+IL%2C+60005%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260808T180000Z%2F20260808T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260829T180000Z%2F20260829T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260905T180000Z%2F20260905T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260912T180000Z%2F20260912T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260919T180000Z%2F20260919T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20260926T180000Z%2F20260926T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261003T180000Z%2F20261003T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261010T180000Z%2F20261010T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261017T180000Z%2F20261017T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Day+of+Action&dates=20261031T180000Z%2F20261031T203000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Free+Narcan+Training+with+Live4Lali&dates=20260728T230000Z%2F20260729T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Opening+of+Campaign+Office&dates=20260620T190000Z%2F20260620T220000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hello%2C+Fall+Postcard+Party&dates=20260929T233000Z%2F20260930T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Day+of+Action+with+Mary+Beth+Canty+and+Nicolle+Grasse&dates=20260822T150000Z%2F20260822T173000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Day+of+Action+with+Ted+Mason%2C+Mary+Beth+Canty+and+Nicolle+Grasse&dates=20260927T180000Z%2F20260927T200000Z&location=21+South+Emerson+Street%2C+Mount+Prospect%2C+Illinois%2C+60056%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Let%E2%80%99s+Talk+Taxes&dates=20260904T000000Z%2F20260904T013000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Martin+Luther+King+Jr.+Day+Volunteer+Event&dates=20260119T160000Z%2F20260122T170000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+IL%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+-+February+6th&dates=20260207T010000Z%2F20260207T030000Z&location=Private+Residence%2C+Arlington+Heights%2C+IL%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Month+of+Action+KICKOFF+Event&dates=20260927T160000Z%2F20260927T180000Z&location=316+North+Winston+Drive%2C+Palatine%2C+Illinois%2C+60074%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Kings+Protest&dates=20260328T170000Z%2F20260328T190000Z&location=300+East+Northwest+Highway%2C+Palatine%2C+IL%2C+60067%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Oktoberfest+Themed+Fall+Fundraiser&dates=20260923T230000Z%2F20260924T020000Z&location=111+West+Campbell+Street%2C+Arlington+Heights%2C+Illinois%2C+60005%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Protect+Our+Neighbors+Solidarity+Gathering&dates=20260306T220000Z%2F20260306T230000Z&location=Corner+of+Dundee+Rd+and+Baldwin+Rd%2C+Palatine%2C+IL%2C+60074%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Fundraiser&dates=20260617T233000Z%2F20260618T013000Z&location=214+East+Grove+Street%2C+Arlington+Heights%2C+IL%2C+60005%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Reception&dates=20260707T223000Z%2F20260708T003000Z&location=519+North+Clark+Street%2C+Chicago%2C+IL%2C+60654%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taco+Tuesday+Postcard+Party&dates=20260825T233000Z%2F20260826T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Taylor+Swift+Themed+Postcard+Party&dates=20260715T233000Z%2F20260716T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Night%21+Celebrate.+Connect.+Build+What%E2%80%99s+Next+%E2%80%94+Together.&dates=20260308T000000Z%2F20260308T020000Z&location=1227+North+Rand+Road%2C+Arlington+Heights%2C+IL%2C+60004%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Wine+%26amp%3B+Cheese+Joint+Postcard+Party&dates=20260916T233000Z%2F20260917T010000Z&location=14+West+Miner+Street%2C+Arlington+Heights%2C+Illinois%2C+60004%2C+United+States"
+},
+{
+"text": "Grand Opening of Campaign Office",
+"href": "https://www.carinaforsenate.com/events/office-grand-opening"
+},
+{
+"text": "HOME",
+"href": "https://www.carinaforsenate.com/home"
+},
+{
+"text": "Hello, Fall Postcard Party",
+"href": "https://www.carinaforsenate.com/events/postcard-party-hello-fall"
+},
+{
+"text": "Home",
+"href": "https://www.carinaforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/ah-memorial-day-parade?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/birthday-trivia-night-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-061826?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-080826?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082226?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082926?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-090526?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091226?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091926?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092626?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092726?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-100326?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/day-of-action-10326?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/free-narcan-training-072826?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/lets-talk-taxes?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/lwv-candidate-forum?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/meet-greet-020626?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/mlk-day-whistle-kits?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/no-kings-protest-032826?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/office-grand-opening?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071526?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071826?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-abba?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-hello-fall?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-taco-tuesday?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/postcard-party-wine-cheee?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/summer-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.carinaforsenate.com/events/summer-reception?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.carinaforsenate.com/issues"
+},
+{
+"text": "Joint Day of Action with Mary Beth Canty and Nicolle Grasse",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082226"
+},
+{
+"text": "Joint Day of Action with Ted Mason, Mary Beth Canty and Nicolle Grasse",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092726"
+},
+{
+"text": "Let’s Talk Taxes",
+"href": "https://www.carinaforsenate.com/events/lets-talk-taxes"
+},
+{
+"text": "Live4Lali",
+"href": "https://live4lali.org/"
+},
+{
+"text": "Martin Luther King Jr. Day Volunteer Event",
+"href": "https://www.carinaforsenate.com/events/mlk-day-whistle-kits"
+},
+{
+"text": "Meet & Greet - February 6th",
+"href": "https://www.carinaforsenate.com/events/meet-greet-020626"
+},
+{
+"text": "Month of Action KICKOFF Event",
+"href": "https://www.carinaforsenate.com/events/day-of-action-100326"
+},
+{
+"text": "News + Events",
+"href": "https://www.carinaforsenate.com/senate-news"
+},
+{
+"text": "No Kings Protest",
+"href": "https://www.carinaforsenate.com/events/no-kings-protest-032826"
+},
+{
+"text": "Oktoberfest Themed Fall Fundraiser",
+"href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.carinaforsenate.com/privacy-policy"
+},
+{
+"text": "Protect Our Neighbors Solidarity Gathering",
+"href": "https://www.carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.ahml.info/scheduling/reservation/211655"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082226"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082926"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-090526"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091226"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091926"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092626"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092726"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-100326"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103226"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/day-of-action-10326"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/lets-talk-taxes"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/mlk-day-whistle-kits"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071526"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/postcard-party-abba"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/postcard-party-hello-fall"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/postcard-party-taco-tuesday"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.carinaforsenate.com/events/postcard-party-wine-cheese"
+},
+{
+"text": "RSVP HERE",
+"href": "https://www.mobilize.us/organizeillinois2026/event/991848/?force_banner=true&share_context=event_details&share_medium=copy_link"
+},
+{
+"text": "RSVP Here",
+"href": "https://www.mobilize.us/nokings/event/904525/"
+},
+{
+"text": "RSVP TODAY!",
+"href": "https://secure.actblue.com/donate/carina0707"
+},
+{
+"text": "RSVP TODAY!",
+"href": "https://secure.actblue.com/donate/carinabirthday"
+},
+{
+"text": "RSVP TODAY!",
+"href": "https://www.carinaforsenate.com/events/meet-greet-020626"
+},
+{
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "Read more →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126"
+},
+{
+"text": "Resources",
+"href": "https://www.carinaforsenate.com/resources"
+},
+{
+"text": "Sign Up for Updates!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfcnHUbVTcmsIagRclwiFMY4tXBBfgLvkFsCCan9Xf76We3Sw/viewform"
+},
+{
+"text": "Summer Fundraiser",
+"href": "https://www.carinaforsenate.com/events/summer-fundraiser"
+},
+{
+"text": "Summer Reception",
+"href": "https://www.carinaforsenate.com/events/summer-reception"
+},
+{
+"text": "Taco Tuesday Postcard Party",
+"href": "https://www.carinaforsenate.com/events/postcard-party-taco-tuesday"
+},
+{
+"text": "Taylor Swift Themed Postcard Party",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071526"
+},
+{
+"text": "This Way to Fabulous Inc.",
+"href": "https://thiswaytofabulous.com/"
+},
+{
+"text": "Trivia Night! Celebrate. Connect. Build What’s Next — Together.",
+"href": "https://www.carinaforsenate.com/events/birthday-trivia-night-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/ah-memorial-day-parade"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/birthday-trivia-night-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-061826"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-080826"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082226"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082926"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-090526"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091226"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091926"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092626"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092726"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-100326"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/day-of-action-10326"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/lets-talk-taxes"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/lwv-candidate-forum"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/meet-greet-020626"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/mlk-day-whistle-kits"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/no-kings-protest-032826"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/office-grand-opening"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071526"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071826"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-abba"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-hello-fall"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-taco-tuesday"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/postcard-party-wine-cheee"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/summer-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.carinaforsenate.com/events/summer-reception"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carinaforsenate.com/volunteer"
+},
+{
+"text": "Wine & Cheese Joint Postcard Party",
+"href": "https://www.carinaforsenate.com/events/postcard-party-wine-cheee"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.carinaforsenate.com/yardsigns"
+},
+{
+"text": "[image: ABBA Postcard Party]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-abba"
+},
+{
+"text": "[image: Arlington Heights Memorial Day Parade]",
+"href": "https://www.carinaforsenate.com/events/ah-memorial-day-parade"
+},
+{
+"text": "[image: As a mom, I know what it means to hand your kid off at the school door every morning and trust that the people inside will take care of them Our educators earn that trust every day, usually with too little funding and too much on their plates. I'm h][image: As a mom, I know what it means to hand your kid off at the school door every morning and trust that the people inside will take care of them Our educators earn that trust every day, usually with too little funding and too much on their plates. I'm h]",
+"href": "https://www.instagram.com/p/DeIcpxgDUoK/"
+},
+{
+"text": "[image: Breakfast &amp; Postcards with Ted Mason]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071826"
+},
+{
+"text": "[image: Candidate Forum Hosted by LWV]",
+"href": "https://www.carinaforsenate.com/events/lwv-candidate-forum"
+},
+{
+"text": "[image: Carina Santa Maria for Illinois State Senate]",
+"href": "https://www.carinaforsenate.com/"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-061826"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-080826"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082926"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-090526"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091226"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-091926"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092626"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126"
+},
+{
+"text": "[image: Day of Action]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-10326"
+},
+{
+"text": "[image: Day of Action] Oct #",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101026"
+},
+{
+"text": "[image: Day of Action] Oct #",
+"href": "https://www.carinaforsenate.com/events/day-of-action-101726"
+},
+{
+"text": "[image: Day of Action] Oct #",
+"href": "https://www.carinaforsenate.com/events/day-of-action-103126"
+},
+{
+"text": "[image: For a lot of women, Planned Parenthood is where they got their first birth control prescription. Their first cancer screening. The care they could afford when nothing else felt affordable. I'm honored to be endorsed by Planned Parenthood Illinois Ac][image: For a lot of women, Planned Parenthood is where they got their first birth control prescription. Their first cancer screening. The care they could afford when nothing else felt affordable. I'm honored to be endorsed by Planned Parenthood Illinois Ac]",
+"href": "https://www.instagram.com/p/Dd9YisrlFv6/"
+},
+{
+"text": "[image: Free Narcan Training with Live4Lali]",
+"href": "https://www.carinaforsenate.com/events/free-narcan-training-072826"
+},
+{
+"text": "[image: Grand Opening of Campaign Office]",
+"href": "https://www.carinaforsenate.com/events/office-grand-opening"
+},
+{
+"text": "[image: Hello, Fall Postcard Party]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-hello-fall"
+},
+{
+"text": "[image: I&rsquo;m grateful to have the endorsement of my fellow Arlington Heights Village Trustee, Greg Zyck. Greg and I have had the opportunity to serve alongside one another, ask tough questions, and make decisions that directly impact the community we b][image: I&rsquo;m grateful to have the endorsement of my fellow Arlington Heights Village Trustee, Greg Zyck. Greg and I have had the opportunity to serve alongside one another, ask tough questions, and make decisions that directly impact the community we b]",
+"href": "https://www.instagram.com/p/DeA1K4NEVcK/"
+},
+{
+"text": "[image: In social work, the most important part of the job is listening to the people in front of you, not assuming you already know what they need. I think campaigns should work the same way. So this Sunday, I'll be at the Arlington Heights Memorial Librar][image: In social work, the most important part of the job is listening to the people in front of you, not assuming you already know what they need. I think campaigns should work the same way. So this Sunday, I'll be at the Arlington Heights Memorial Librar]",
+"href": "https://www.instagram.com/p/Dd_sdNWEYwU/"
+},
+{
+"text": "[image: Joint Day of Action with Mary Beth Canty and Nicolle Grasse]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-082226"
+},
+{
+"text": "[image: Joint Day of Action with Ted Mason, Mary Beth Canty and Nicolle Grasse]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-092726"
+},
+{
+"text": "[image: Let’s Talk Taxes]",
+"href": "https://www.carinaforsenate.com/events/lets-talk-taxes"
+},
+{
+"text": "[image: Martin Luther King Jr. Day Volunteer Event]",
+"href": "https://www.carinaforsenate.com/events/mlk-day-whistle-kits"
+},
+{
+"text": "[image: Meet &amp; Greet - February 6th]",
+"href": "https://www.carinaforsenate.com/events/meet-greet-020626"
+},
+{
+"text": "[image: Month of Action KICKOFF Event]",
+"href": "https://www.carinaforsenate.com/events/day-of-action-100326"
+},
+{
+"text": "[image: No Kings Protest]",
+"href": "https://www.carinaforsenate.com/events/no-kings-protest-032826"
+},
+{
+"text": "[image: Oktoberfest Themed Fall Fundraiser]",
+"href": "https://www.carinaforsenate.com/events/fall-fundraiser-oktoberfest"
+},
+{
+"text": "[image: Protect Our Neighbors Solidarity Gathering]",
+"href": "https://www.carinaforsenate.com/events/protect-our-neighbors-protest-112125-n449z"
+},
+{
+"text": "[image: Save this. No seriously, screenshot it right now. Regular registration deadline is TOMORROW! Here's every date that matters between now and November 3: OCTOBER 6 &mdash; REGULAR REGISTRATION DEADLINE OCTOBER 18 &mdash; ONLINE REGISTRATION DEADLINE ][image: Save this. No seriously, screenshot it right now. Regular registration deadline is TOMORROW! Here's every date that matters between now and November 3: OCTOBER 6 &mdash; REGULAR REGISTRATION DEADLINE OCTOBER 18 &mdash; ONLINE REGISTRATION DEADLINE ]",
+"href": "https://www.instagram.com/p/DeH_OZrFJyt/"
+},
+{
+"text": "[image: Summer Fundraiser]",
+"href": "https://www.carinaforsenate.com/events/summer-fundraiser"
+},
+{
+"text": "[image: Summer Reception]",
+"href": "https://www.carinaforsenate.com/events/summer-reception"
+},
+{
+"text": "[image: Sunday's candidate forum with @lwvah was a good reminder of what democracy is supposed to look like: showing up, listening, asking hard questions, and disagreeing respectfully. Thank you to everyone who came out, tuned in, and sent in questions. You][image: Sunday's candidate forum with @lwvah was a good reminder of what democracy is supposed to look like: showing up, listening, asking hard questions, and disagreeing respectfully. Thank you to everyone who came out, tuned in, and sent in questions. You]",
+"href": "https://www.instagram.com/p/DeJuFjcEQ_O/"
+},
+{
+"text": "[image: Taco Tuesday Postcard Party]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-taco-tuesday"
+},
+{
+"text": "[image: Taylor Swift Themed Postcard Party]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-071526"
+},
+{
+"text": "[image: Trivia Night! Celebrate. Connect. Build What’s Next — Together.]",
+"href": "https://www.carinaforsenate.com/events/birthday-trivia-night-fundraiser"
+},
+{
+"text": "[image: Wine &amp; Cheese Joint Postcard Party]",
+"href": "https://www.carinaforsenate.com/events/postcard-party-wine-cheee"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/carinaforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/csmforillinois/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/cnhomann/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCN3VvchmM_NxD3etYmqVQbA/"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/carina-santa-maria-1"
+},
+{
+"text": "info@citizensforcarina.com",
+"href": "mailto:info@citizensforcarina.com?bcc=Cnhomann%40gmail.com&subject=Website+Inquiry"
+}
 ]

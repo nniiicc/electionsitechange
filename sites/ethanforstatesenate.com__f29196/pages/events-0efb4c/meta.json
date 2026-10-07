@@ -1,7 +1,11 @@
 {
  "description": "Indiana State Senate District 47 campaign website for Ethan Sweetland-May",
  "final_url": "https://www.ethanforstatesenate.com/events",
+ "fingerprint": "899dddcbcc3b8799823dc6df5eb8bf1e9f2cb9ed",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Ethan Sweetland-May, 2026",
  "title": "Sweetland-May for Indiana Senate District 47 - Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,15 +1,102 @@
 [
-"https://facebook.com/stavrosfornv",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=100",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=1000",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=250",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=50",
-"https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=500",
-"https://stavrosfornv.com/",
-"https://stavrosfornv.com/about",
-"https://stavrosfornv.com/endorsements",
-"https://stavrosfornv.com/issues",
-"https://stavrosfornv.com/services",
-"https://twitter.com/stavrosanthony"
+{
+"text": "$100",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor?amount=500"
+},
+{
+"text": "702-755-2438",
+"href": "tel:702-755-2438"
+},
+{
+"text": "About",
+"href": "https://www.stavrosfornv.com/about"
+},
+{
+"text": "Button",
+"href": "https://www.stavrosfornv.com/issues#Education"
+},
+{
+"text": "Button",
+"href": "https://www.stavrosfornv.com/issues#Immigration"
+},
+{
+"text": "Button",
+"href": "https://www.stavrosfornv.com/issues#ProLife"
+},
+{
+"text": "Button",
+"href": "https://www.stavrosfornv.com/issues#SecondAmend"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.stavrosfornv.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.stavrosfornv.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.stavrosfornv.com/services"
+},
+{
+"text": "LEARN MORE →",
+"href": "https://www.stavrosfornv.com/about"
+},
+{
+"text": "LEARN MORE →",
+"href": "https://www.stavrosfornv.com/services"
+},
+{
+"text": "OTHER →",
+"href": "https://secure.winred.com/stavros-for-nevada/anthonyforlieutenantgovernor"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.stavrosfornv.com/#VOLUNTEER"
+},
+{
+"text": "[image]",
+"href": "https://www.stavrosfornv.com/issues#Education"
+},
+{
+"text": "[image]",
+"href": "https://www.stavrosfornv.com/issues#Immigration"
+},
+{
+"text": "[image]",
+"href": "https://www.stavrosfornv.com/issues#ProLife"
+},
+{
+"text": "[image]",
+"href": "https://www.stavrosfornv.com/issues#SecondAmend"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/stavrosanthony"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/stavrosfornv"
+}
 ]

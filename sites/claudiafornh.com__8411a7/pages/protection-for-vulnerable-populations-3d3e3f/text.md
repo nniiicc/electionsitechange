@@ -1,8 +1,6 @@
-Protection for Vulnerable Populations
-New Hampshire's Office of the Child Advocate exists for one reason: to protect children who often have no one else to protect them.
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Protection for Vulnerable Populations New Hampshire's Office of the Child Advocate exists for one reason: to protect children who often have no one else to protect them.
 It serves as an independent voice for our state's most vulnerable children, ensuring their rights, safety, and well-being are never ignored.
-NH Office of the Child Advocate
-That independence is essential.
+NH Office of the Child Advocate That independence is essential.
 In 2025, the New Hampshire House voted to eliminate the Office of the Child Advocate entirely.
 While the office ultimately remained, lawmakers still chose to reduce its funding.
 At a time when children need stronger oversight and advocacy—not less—weakening this office sends the wrong message.
@@ -14,3 +12,4 @@ If elected, I will fight to strengthen and protect the Office of the Child Advoc
 I will also support restoring the strong, independent leadership that children deserve, including advocating for Cassandra Sanchez's reinstatement.
 We have a responsibility to stand up for children who cannot stand up for themselves.
 I intend to be one of those voices in Concord.
+PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

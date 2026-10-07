@@ -1,6 +1,4 @@
-Priorities
-Ensure Safety in Our Community
-Everyone in our community deserves to be safe and secure.
+0 Skip to Content Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Open Menu Close Menu Home Volunteer Priorities Endorsements Pictures Contact Events Request a Lawn Sign DONATE Priorities Ensure Safety in Our Community Support Affordable Lives Create Affordable Housing Invest in Education and Child Welfare Eliminate Fraud Support Organized Labor and Strong Local Business Prevent Gun Violence Support Government That Reflects Our Community Ensure Clean Air, Clean Water and a Healthy Environment Ensure Safety in Our Community Everyone in our community deserves to be safe and secure.
 In my day job as a child welfare attorney, we continue to support-plan for access to food, medical care, health care, documentation, legal counsel, court proceedings, and ultimately survival for the immigrant children and families we serve.
 As a community, we continue to stand up for our neighbors and oppose federal overreach.
 Neighbors continue to protect neighbors.
@@ -17,8 +15,7 @@ In the last few months, ICE has become more discreet in Minnesota.
 And yet, we know that ICE is still very active in our neighborhoods – with four times the pre-surge amount of ICE officers still patrolling our streets.
 We still have so much work left to do!
 In addition to continuing to stand up for our neighbors, we also need to reform our laws to help ensure this never happens again.
-As your state legislator, I will fight for the following reforms:
-1.
+As your state legislator, I will fight for the following reforms: 1.
 Require personal and agency identification for all law enforcement officers: All law enforcement officers engaged in public enforcement must be identifiable both individually and by agency – wearing a visible uniform, ID, badge, and agency name.
 2.
 Assert the necessity of judicial warrants in state and federal actions: Judicially-signed warrants or homeowner permission are required to enter private spaces including all homes and businesses.
@@ -43,8 +40,7 @@ Minnesotans have demonstrated incredible courage in the face of overwhelming for
 Our state needs legislators to show the same amount of courage and leadership to help protect Minnesotans from continued federal overreach.
 I ask for your vote on November 3, 2026, to fight for these reforms, to stand up for our neighbors, and to help protect each other.
 Thank you for your time and consideration, and I would love to talk with you further about this or any other issue at any time as well!
-Support Affordable Lives
-All Minnesotans should be able to afford their own lives.
+Back to top Support Affordable Lives All Minnesotans should be able to afford their own lives.
 The cost of health care, daycare, and groceries continues to rise.
 Our families struggle to make ends meet.
 Health care costs had already been rising before the expiration of ACA subsidies.
@@ -57,8 +53,7 @@ Our state also needs to level the playing field to ensure fair competition and a
 We should also support our local agriculture hurt by tariffs and connect our local agriculture with our local markets to help reduce costs.
 We should further provide assistance and incentives for affordable groceries wherever we can.
 Everyone should be able to afford their lives, and, as a legislator I will support these and other common-sense reforms and efforts to help make that happen.
-Create Affordable Housing
-We should all have access to affordable housing in our community.
+Back to top Create Affordable Housing We should all have access to affordable housing in our community.
 In my role as chair of the Eagan Advisory and Planning Commission, I work with the City of Eagan’s excellent staff to review proposals for developments in our community.
 I also have the great privilege of serving as our local district representative on the Met Council Land Use Advisory Committee.
 Through these roles, I get to see first hand the work of our local officials in advocating, planning, and providing for affordable housing in our communities.
@@ -72,8 +67,7 @@ These include supporting multi-family and multi-use developments to provide dire
 As a state, we also need to further support and expand programs like LAHA and SAHA, Local Affordable Housing Aid and Statewide Affordable Housing Aid.
 We need to invest in affordable housing projects and help organizations provide affordable and supportive housing, especially to our most income-vulnerable residents, in existing development.
 Through this work, and an all-of-the-above strategy, we can further support a healthy, thriving community where everyone can afford housing in our state.
-Invest in Education and Child Welfare
-All Minnesota children should benefit from a robust, supportive education system.
+Back to top Invest in Education and Child Welfare All Minnesota children should benefit from a robust, supportive education system.
 Education lies close to my heart.
 Both of my grandmothers were teachers, and my mother was a Minneapolis Public School elementary teacher for her entire career.
 I helped her unpack her classrooms each fall and pack them up again for the summer.
@@ -88,8 +82,7 @@ This includes providing adequate funding for children’s mental health and supp
 We also need to ensure that our children, families, and social services systems have the financial support they need to ensure that kids can be safe, have the nutrition they need, and can focus on learning and growing.
 Investing in education and systems is key for ensuring the success of future Minnesotans, and it is critical for attracting new residents, businesses, and jobs.
 As a legislator, I will work to ensure a robust, supportive education and child welfare system remains in our state.
-Eliminate Fraud
-We should have absolute confidence that our public dollars are going to those they are intended to help.
+Back to top Eliminate Fraud We should have absolute confidence that our public dollars are going to those they are intended to help.
 Fraud—at any level—is a serious problem, which needs to be vigorously rooted out and prevented from happening again.
 Fraud is particularly a problem with our government services.
 It is not just public theft.
@@ -102,8 +95,7 @@ The current fraud investigations are also being used as an excuse for federal ac
 This is wrong, deeply disturbing, and misguided.
 Our Somali neighbors are law-abiding local business-owners, employees, active community members, and students at our local schools.
 We will eliminate fraud in our systems and prevent it from occurring again while also standing up for all of our friends and neighbors.
-Support Organized Labor and Strong Local Business
-Everyone deserves to have a good paying job and the benefits necessary to support a high quality of life.
+Back to top Support Organized Labor and Strong Local Business Everyone deserves to have a good paying job and the benefits necessary to support a high quality of life.
 My mom was a Minneapolis public school teacher in elementary education for her entire career, and a strong union member and supporter.
 My father was a local towboat deckhand and operator on a tug boat on the Mississippi River for most of his career.
 He is a strong Local 49 union member and supporter.
@@ -115,8 +107,7 @@ I will continue to stand up for labor and to strongly support labor in my time a
 I also support a strong local and state business community.
 Our businesses are our partners in building community, good-paying jobs, and ensuring the high quality of life we all have here in Eagan, Burnsville, and Minnesota.
 I look forward to continued partnership with businesses to meet their needs and the needs of the communities to which they belong.
-Prevent Gun Violence
-All Minnesotans deserve to live a life free of gun violence.
+Back to top Prevent Gun Violence All Minnesotans deserve to live a life free of gun violence.
 We deserve to be safe in our homes, in our neighborhoods, and in our schools.
 There is no place in our society, other than the military, for assault weapons.
 I support an assault weapons ban.
@@ -127,23 +118,18 @@ The DFL also passed needed “Red Flag” laws that allow courts to suspend some
 I see the direct need for these laws in the work that I do to support victims of domestic violence and hold perpetrators accountable, who are suffering from chemical addiction and/or mental illness issues.
 I believe we can go further than this with mandatory reporting of stolen guns, safe storage requirements, better registration (eliminating ghost sales), preventing home manufacture of guns, and better identifying and treating of mental health issues.
 We need common-sense gun reform to ensure that we are all safe from gun violence.
-Support Government That Reflects Our Community
-We celebrate diversity in our communities and among those we serve.
+Back to top Support Government That Reflects Our Community We celebrate diversity in our communities and among those we serve.
 We work to make people whole.
 And we include everyone in responsive government.
 These principles form the core of the work both at my office and of the work that I do and care about every day.
 We recognize the tragic legacy, in particular on our communities of color, of discrimination, oppression, and disinvestment.
 Grounded in this history, we commit, with new energy and understanding, to right the wrongs of the past and create the community we hope to see.
-My goals are as follows:
-1.
-Attract and support citizens in our diverse state – and ensure we have a government which reflects the community we serve;
-2.
-Build an inclusive community – one which welcomes, supports, and draws upon diverse perspectives from a fully-engaged, creative, and empowered citizenry; and
-3.
+My goals are as follows: 1.
+Attract and support citizens in our diverse state – and ensure we have a government which reflects the community we serve; 2.
+Build an inclusive community – one which welcomes, supports, and draws upon diverse perspectives from a fully-engaged, creative, and empowered citizenry; and 3.
 Develop intercultural expertise, understanding and responding to the diverse needs of our state.
 I am committed to these principles every day in my life and my work, and they will continue to form a core part of my values as a legislator at the capitol.
-Ensure Clean Air, Clean Water and a Healthy Environment
-I grew up outdoors.
+Back to top Ensure Clean Air, Clean Water and a Healthy Environment I grew up outdoors.
 Leaving at dawn in South Minneapolis, exploring parks on my bike with my friends, and returning only when we got hungry.
 I also had the great privilege of going to Wolf Ridge in 5th grade, where I became a voyageur and won the outdoors award for our school class.
 That early love of the great outdoors, has led to weekly park trips with our kids, camping and scouting activities with cub scouts, summers at YMCA family camp, and a proposal to my wife on an island in the Boundary Waters.
@@ -152,3 +138,4 @@ As Minnesotans we must support an end to the pollution damaging our climate, spe
 This must also include all diverse voices — our Indigenous neighbors, our communities of color, and our urban and rural populations in this transition.
 We have the unique opportunity as Minnesotans to lead a green revolution, with sustainable energy consumption and a high quality of life.
 As a legislator, I will work diligently with our state and our businesses to combat pollution, promote a healthy co-existence with our environment, develop the green jobs of our future, and maintain the great natural resources and beauty we all enjoy.
+Back to top Prepared and paid for by: Volunteers for Christos Jensen, PO Box 21101, Eagan MN 55121 votechristos@gmail.com

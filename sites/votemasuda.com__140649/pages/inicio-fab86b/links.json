@@ -1,33 +1,162 @@
 [
-"https://bsky.app/profile/votemasuda.com",
-"https://docs.google.com/forms/d/e/1FAIpQLSci2EINLlqajVvdOZODIk8PFnp6qo8p5ocaQ8maZIXzMOr7jQ/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSeXyBGs0bz3x9NKKZbDs1gVGpoFmgizpP0bxgRd6lB0Fg6AsQ/viewform?usp=header",
-"https://facebook.com/votemasuda",
-"https://instagram.com/VoteMasuda",
-"https://secure.actblue.com/donate/masuda_websiteform",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=100",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=1000",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=25",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=250",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=50",
-"https://secure.actblue.com/donate/masuda_websiteform?amount=500",
-"https://tiktok.com/@votemasuda.com",
-"https://votemasuda.com/",
-"https://votemasuda.com/about",
-"https://votemasuda.com/about-1",
-"https://votemasuda.com/blog",
-"https://votemasuda.com/ca5",
-"https://votemasuda.com/cart",
-"https://votemasuda.com/conoceamichael",
-"https://votemasuda.com/endorsements-1",
-"https://votemasuda.com/espanol",
-"https://votemasuda.com/events",
-"https://votemasuda.com/inicio",
-"https://votemasuda.com/issues",
-"https://votemasuda.com/media",
-"https://votemasuda.com/newsletter",
-"https://votemasuda.com/privacypolicy",
-"https://votemasuda.com/temas",
-"https://votemasuda.com/volunteer",
-"https://x.com/VoteMasuda"
+{
+"text": "$100 Anuncios distribuidos por todo un distrito electoral",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=100"
+},
+{
+"text": "$1K Una semana de anuncios en la radio",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=1000"
+},
+{
+"text": "$25 100 puertas tocadas",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=25"
+},
+{
+"text": "$250 5,000 llamadas realizadas",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=250"
+},
+{
+"text": "$50 200 puertas tocadas",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=50"
+},
+{
+"text": "$500 Una reunión comunitaria",
+"href": "https://secure.actblue.com/donate/masuda_websiteform?amount=500"
+},
+{
+"text": "+ → MásOportunidades Letreros para jardines · Eventos · Otras habilidades tuyas",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "0",
+"href": "https://www.votemasuda.com/cart"
+},
+{
+"text": "01 → Llamar aPuertas Fines de semana · Turnos de 2 a 4 horas",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "02 → BancoTelefónico Desde tu propia casa · Guión proporcionado",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "03 → EscribirCartas Al editor periodístico · Puntos principales incluidos",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "About",
+"href": "https://www.votemasuda.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Blog",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "CA5",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "California District 05",
+"href": "https://www.votemasuda.com/ca5"
+},
+{
+"text": "Conoce A Michael",
+"href": "https://www.votemasuda.com/conoceamichael"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@votemasuda.com?subject=Website+Contact+Form&body=Hi%2C+I%27d+like+more+information+about..."
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/masuda_websiteform"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votemasuda.com/endorsements-1"
+},
+{
+"text": "Events",
+"href": "https://www.votemasuda.com/events"
+},
+{
+"text": "FORMULARIO DE PEDIDO DE CAMISETAS",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSci2EINLlqajVvdOZODIk8PFnp6qo8p5ocaQ8maZIXzMOr7jQ/viewform?usp=header"
+},
+{
+"text": "FORMULARIO DE PEDIDO DE LETREROS",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeXyBGs0bz3x9NKKZbDs1gVGpoFmgizpP0bxgRd6lB0Fg6AsQ/viewform?usp=header"
+},
+{
+"text": "Folder: About",
+"href": "https://www.votemasuda.com/about-1"
+},
+{
+"text": "Folder: Español",
+"href": "https://www.votemasuda.com/espanol"
+},
+{
+"text": "Home",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "Inicio",
+"href": "https://www.votemasuda.com/inicio"
+},
+{
+"text": "Issues",
+"href": "https://www.votemasuda.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.votemasuda.com/media"
+},
+{
+"text": "News",
+"href": "https://www.votemasuda.com/blog"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.votemasuda.com/privacypolicy"
+},
+{
+"text": "SUSCRÍBATE",
+"href": "https://www.votemasuda.com/newsletter"
+},
+{
+"text": "Temas",
+"href": "https://www.votemasuda.com/temas"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemasuda.com/volunteer"
+},
+{
+"text": "[image: Michael Masuda for Congress]",
+"href": "https://www.votemasuda.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemasuda"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/VoteMasuda/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votemasuda.com"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteMasuda"
+}
 ]

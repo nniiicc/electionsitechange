@@ -1,12 +1,42 @@
 [
-"https://facebook.com/melaniefordelaware",
-"https://instagram.com/melaniefordelaware",
-"https://melanierosslevin.com/",
-"https://melanierosslevin.com/issues",
-"https://melanierosslevin.com/meetmelanie",
-"https://melanierosslevin.com/privacy-policy",
-"https://melanierosslevin.com/services-7",
-"https://melanierosslevin.com/single-project",
-"https://melanierosslevin.com/volunteer",
-"https://secure.actblue.com/donate/melaniefordelaware"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melaniefordelaware"
+},
+{
+"text": "Home",
+"href": "https://www.melanierosslevin.com"
+},
+{
+"text": "Issues",
+"href": "https://www.melanierosslevin.com/issues"
+},
+{
+"text": "Join Team Melanie",
+"href": "https://www.melanierosslevin.com/volunteer"
+},
+{
+"text": "Meet Melanie",
+"href": "https://www.melanierosslevin.com/meetmelanie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.melanierosslevin.com/privacy-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.melanierosslevin.com/single-project"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/melaniefordelaware"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/melaniefordelaware"
+},
+{
+"text": "here",
+"href": "https://www.melanierosslevin.com/services-7"
+}
 ]

@@ -1,15 +1,3 @@
-A NEW YORK THAT WORKS FOR EVERYONE
-Fighting For:
-» Taxing the Rich
-» Funding Education
-» Tenants’ Rights
-» Protecting Immigrants from I.C.E.
-The work ahead is focused on strengthening the foundations that allow families and communities to thrive:
-• Making New York more affordable for working families
-• Protecting tenants and expanding access to housing
-• Fully funding public education and expanding opportunities for our youth
-• Strengthening workers’ rights and economic security
-• Protecting civil rights and immigrant communities
-• Investing in safer neighborhoods and stronger public institutions
-• Building a more resilient and sustainable future
-These priorities reflect the values that have guided my work from the beginning: fairness, accountability, and a belief that government must remain rooted in the communities it serves.
+0 Skip to Content Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now Open Menu Close Menu Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now Open Menu Close Menu Meet Action Jackson Priorities Endorsements Volunteer Contact Donate Now A NEW YORK THAT WORKS FOR EVERYONE Fighting For: » Taxing the Rich » Funding Education » Tenants’ Rights » Protecting Immigrants from I.C.E.
+The work ahead is focused on strengthening the foundations that allow families and communities to thrive: • Making New York more affordable for working families • Protecting tenants and expanding access to housing • Fully funding public education and expanding opportunities for our youth • Strengthening workers’ rights and economic security • Protecting civil rights and immigrant communities • Investing in safer neighborhoods and stronger public institutions • Building a more resilient and sustainable future These priorities reflect the values that have guided my work from the beginning: fairness, accountability, and a belief that government must remain rooted in the communities it serves.
+Robert Jackson for NY State Senate District 31 If donating by mail, make checks payable to: Jackson for Senate 2026 | PO Box 765 New York, NY 10033 Meet Action Jackson ‍ ‍ Priorities ‍ ‍ Volunteer‍ ‍ Donate‍ ‍ Contact Endorsements: Robert Jackson is proudly endorsed by: Mayor Zohran Mamdani, City Council Member Althea Stevens, State Assemblyperson Landon Dais, The New York Working Families Party, Citizen Action of NY, 32BJ SEIU Local 32 Service Employees International Union, Communication Workers of America, District of Carpenters, Public Employees Federation, New York League of Conservative Voters, The Jewish Vote from Jews for Racial and Economic Justice, American Federation of State, County & Municipal Employees, Tenants PAC, The Campaign for New York Health, Uptown Community Democrats, Transportation Wokers Union, PSC-CUNY Professional Staff Congress City University of New York, Inwood Indivisible, UFDA Uniformed Fire Officers Association FDNY IAFF Local 854 #UFOA, WE ACT For Environmantal Justice, and more… Paid for by Jackson for Senate 2026

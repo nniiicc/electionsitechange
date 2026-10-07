@@ -1,3 +1,6 @@
-High Maryland taxes discourage an affordable, successful economy, home ownership, and job growth.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team Lower Taxes High Maryland taxes discourage an affordable, successful economy, home ownership, and job growth.
 Instead, such increasing taxation on businesses and individuals promotes waste, unaccountability, and inefficiency in government spending.
 Lower taxes will reduce such wasteful spending, and support a better quality of life for citizens through the normal functioning of a strong and healthy economy that benefits all.
+Published May 5, 2022 By Lee Havis Categorized as issues Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post Transforming Maryland Education Next post Free Market Solutions Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

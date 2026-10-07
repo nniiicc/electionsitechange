@@ -1,14 +1,11 @@
-Eric’s Story
-“I lived the American Dream”
-I grew up poor in a small town in rural Maine, in a house where my father couldn't get himself out of a chair and my mother worked 60-hour weeks to keep us fed.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric’s Story “I lived the American Dream” I grew up poor in a small town in rural Maine, in a house where my father couldn't get himself out of a chair and my mother worked 60-hour weeks to keep us fed.
 She told me it was going to get better.
 That I would build a better life than the one we had, and that this country would give me the chance to.
 She was right.
 I got out.
 I got an education my family could never have paid for, I built businesses, and my kids will never need to see the stack of bills that sat on our kitchen counter my entire childhood.
 I'm running because I can't promise my own kids what she promised me.
-The house I grew up in
-750 square feet, and most of it was one room.
+The house I grew up in 750 square feet, and most of it was one room.
 There was a stack of bills on the kitchen counter that never got any shorter.
 There was a glass cabinet on the wall with the war medals of every man in my family who had served.
 And in the middle of the room, facing the television, there was a big recliner, and that is where my father was.
@@ -43,8 +40,7 @@ An insurance industry decided the hospital bills were our problem, not theirs.
 Both are still in business, and both still write checks to politicians.
 This is at the core of how I view so much of what's wrong with our world.
 It's at the core of my politics and beliefs.
-My mother
-She was our savior.
+My mother She was our savior.
 She raised her sons, pretty much on her own.
 She went to work, and went on food stamps, to feed those boys.
 Then she went back to school at night, and became a nurse.
@@ -55,8 +51,7 @@ And on our church, which gave us community, faith, and financial help.
 And she told me — not once, but over and over, for years — that it was going to get better.
 That I would build a better life than the one we had.
 That this country would give me the chance to.
-My path
-Nobody was going to hand my family money, and nobody was coming to get us.
+My path Nobody was going to hand my family money, and nobody was coming to get us.
 School was the only lever I could reach, so I pulled on it with everything I had.
 Books got me out of that house years before I could physically leave it.
 Fantasy, mostly.
@@ -81,8 +76,7 @@ Everything I have came through that door.
 My education was paid for by people who decided a kid from a town nobody's heard of was worth the money, and I have never once forgotten it.
 I was planning to join the Foreign Service.
 Every man in my family has a medal in that cabinet, and I had the opportunity to serve a different way.
-Wall Street, for one reason, for one year
-My junior year my father got critically ill.
+Wall Street, for one reason, for one year My junior year my father got critically ill.
 He was read his last rites.
 We expected him to die, but somehow he didn't.
 He was never going to get better in Maine.
@@ -103,8 +97,7 @@ The same day I accepted a job out there, I met my partner for life, Rachel.
 A few months later, I went to California.
 Thankfully, Rachel came with me.
 My parents live down the street from me in Napa now.
-What I built
-At 22, I moved to San Francisco to help a mentor build a business.
+What I built At 22, I moved to San Francisco to help a mentor build a business.
 By the time I left it was one of the most successful investment firms in the country.
 I spent over a decade as a business builder: finding people with great ideas, getting them the money to build toward their dreams, and guiding them closely while they did.
 I focused on healthcare because of my father.
@@ -123,8 +116,7 @@ My kids will never see the stack of bills that sat on our kitchen counter my ent
 At the same time, I spent years helping pilot new ways of getting value-based care to seniors in rural counties, with Medicare and CMS, under both a Democratic and a Republican administration.
 I lived the American Dream.
 A kid from that 750-square-foot house got there, and I will always be proud of the country that gave me that opportunity.
-My family, and why Napa
-I met Rachel in New York, the same day I accepted the job offer to move to California.
+The whole career My family, and why Napa I met Rachel in New York, the same day I accepted the job offer to move to California.
 We moved to Sonoma County in our twenties, and in 2021 we moved our family to Napa — after our son's heart surgeries.
 Family health reasons made Napa the right place for us, and we are so fortunate to be able to raise our family here.
 We wanted somewhere safe, quiet, and community-first, and still close to his doctors — but somewhere that still had a pulse and a culture.
@@ -134,15 +126,13 @@ Our daughter was born in October of 2024.
 I came back to my faith during Owen's recovery, after a long time away from it.
 I'm a Christian who believes in the Golden Rule above all others.
 Being a husband and a father is the best thing I have ever done.
-Giving back
-Rachel and I started giving in 2019 and created our family foundation in 2021, after Owen was born.
+Meet my family Giving back Rachel and I started giving in 2019 and created our family foundation in 2021, after Owen was born.
 We focus on women, children, families, veterans, and communities in Northern California.
 Free car seats.
 A fund for women veterans.
 A downtown theater in Vacaville that was going to close.
 And reading programs in Sonoma County schools, because I remember exactly what a book did for a kid in my house growing up.
-Why I'm running
-My daughter was born in the fall of 2024.
+All of the nonprofit work Why I'm running My daughter was born in the fall of 2024.
 I was holding her when it hit me that I could not promise her what my mother told me — that it was going to get better, that she would build a better life than the one we have, and that this country would give her the chance to.
 Look at what's in front of her.
 Less opportunity than I had.
@@ -174,8 +164,7 @@ Nobody should earn a lifetime appointment for showing up.
 The people who have held these seats for decades have not gotten the reservoir built, the spillway funded, or the levees fixed, and they are funded by the insurance lobby, by PG&E, and by big pharma — the same industries that took decades from my father.
 That includes my own party.
 Democrats have spent too long protecting the people writing the checks, and then wondering why nobody believes us.
-About the money in this campaign
-I'm mostly paying for this myself.
+About the money in this campaign I'm mostly paying for this myself.
 Most of the money in this campaign is mine.
 Given as donations, not loans.
 I can't take it back.
@@ -205,3 +194,5 @@ I'd rather not have to be the exception.
 CA-4 is nine counties — Colusa, Lake, Napa, Placer, Sacramento, Sonoma, Sutter, Yolo, and Yuba.
 Almost half the people living here have never once been represented by the man who holds the seat.
 I'm running to help redeem the American Dream for my kids, and for everybody else's.
+See where I stand Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

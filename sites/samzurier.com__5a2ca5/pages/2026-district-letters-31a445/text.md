@@ -1,4 +1,4 @@
-My January 4 letter discusses the recent “stop work” order issued by the Department of Energy to halt the Revolution Wind electricity generation project.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page 2026 District Letters My January 4 letter discusses the recent “stop work” order issued by the Department of Energy to halt the Revolution Wind electricity generation project.
 My January 11 letter makes the case for an efficiency study of the Rhode Island Department of Transportation’s roads and bridges program.
 I have compiled a Budget Documents Page that contains the Governors FY2026-27 budget and analyses by the Senate Fiscal Office.
 My January 18 letter offers my first look at the Governor’s budget.
@@ -8,7 +8,7 @@ My February 8 letter discusses the proposal by the Rhode Island Foundation’s B
 My February 15 letter discusses the State’s plan to continue the operations of the Roger Williams Medical Center and Our Lady of Fatima Hospital.
 My March 1 letter discusses possible lessons to learn from the City’s response to the recent snow storm.
 I introduced 17 bills in this year’s session of the General Assembly.
-You can view them (with summaries) by clicking on this link.
+You can view them (with summaries) by clicking on this link .
 My March 8 letter makes the case for an efficiency study of RIDOT’s road program.
 My March 15 letter discusses ranked choice voting.
 My March 22 letter discusses the administration’s budget for truck toll revenues.
@@ -32,3 +32,4 @@ My September 6 letter discusses Tuesday’s report on primary care access issued
 My September 11 letter discusses the recently concluded primary campaign.
 My September 20 letter discusses a recent RIPEC report concerning the cost of municipal police and fire protection.
 My September 27 letter announces an upcoming community meeting and discuss the State’s response to the housing affordability crisis..
+Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

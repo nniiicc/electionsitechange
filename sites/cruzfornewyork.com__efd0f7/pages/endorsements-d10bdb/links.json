@@ -1,15 +1,66 @@
 [
-"https://cruzfornewyork.com/",
-"https://cruzfornewyork.com/about",
-"https://cruzfornewyork.com/cart",
-"https://cruzfornewyork.com/endorsements",
-"https://cruzfornewyork.com/news",
-"https://cruzfornewyork.com/priorities",
-"https://cruzfornewyork.com/volunteer",
-"https://facebook.com/CatalinaCruzNY",
-"https://instagram.com/catalinacruzny",
-"https://medium.com/@CatalinaCruzNY",
-"https://secure.actblue.com/donate/catalinafornewyork",
-"https://twitter.com/catalinacruzny?lang=en",
-"https://youtube.com/catalinacruzny"
+{
+"text": "0",
+"href": "https://www.cruzfornewyork.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.cruzfornewyork.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.cruzfornewyork.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/catalinafornewyork"
+},
+{
+"text": "Endorsements",
+"href": "https://www.cruzfornewyork.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.cruzfornewyork.com/"
+},
+{
+"text": "News",
+"href": "https://www.cruzfornewyork.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.cruzfornewyork.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cruzfornewyork.com/volunteer"
+},
+{
+"text": "[image: Catalina (Copy)]",
+"href": "https://www.cruzfornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://medium.com/@CatalinaCruzNY"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/catalinacruzny?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CatalinaCruzNY/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/catalinacruzny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/catalinacruzny"
+},
+{
+"text": "info@CruzforNewYork.com",
+"href": "mailto:Catalina@CruzforNewYork.com"
+}
 ]

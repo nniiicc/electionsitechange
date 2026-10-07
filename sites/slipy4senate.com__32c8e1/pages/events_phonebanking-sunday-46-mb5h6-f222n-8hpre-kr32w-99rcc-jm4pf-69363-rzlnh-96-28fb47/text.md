@@ -1,12 +1,9 @@
-Back to All Events
-Join us for our Grand Rapids area doorknock to support Denise Slipy for Minnesota Senate!
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Back to All Events Grand Rapids Doorknock Thursday 4/24 Thursday, April 24, 2025 5:00 PM 7:30 PM Itasca County DFL Office 809 Northeast 4th Street Grand Rapids, MN, 55744 United States (map) Google Calendar ICS Join us for our Grand Rapids area doorknock to support Denise Slipy for Minnesota Senate!
 Training starts at 5:00 PM, with a two hour doorknocking shift.
-Meet at Itasca County DFL Office, 809 NE 4th St, Grand Rapids, MN 55744
-Sign up by visiting: https://secure.ngpvan.com/F6nc5Z2yl02J5Pbq8WqoFw2
-Previous
-Previous
-April 23
-Phonebank Wednesday 4/23
-Next
-Next
-April 24
+Meet at Itasca County DFL Office, 809 NE 4th St, Grand Rapids, MN 55744 Sign up by visiting: https://secure.ngpvan.com/F6nc5Z2yl02J5Pbq8WqoFw2 Posted In: Phonebank , Doorknock Tagged: Doorknock Previous Previous April 23 Phonebank Wednesday 4/23 Next Next April 24 Phonebank Thursday 4/24 Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

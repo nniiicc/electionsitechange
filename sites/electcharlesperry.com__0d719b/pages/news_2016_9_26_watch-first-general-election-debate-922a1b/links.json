@@ -1,14 +1,58 @@
 [
-"https://electcharlesperry.com/",
-"https://electcharlesperry.com/about",
-"https://electcharlesperry.com/contact",
-"https://electcharlesperry.com/donate",
-"https://electcharlesperry.com/issuses",
-"https://electcharlesperry.com/news",
-"https://electcharlesperry.com/news/2016/11/17/eliminating-sanctuary-cities-in-texas-is-long-overdue",
-"https://electcharlesperry.com/news/2016/9/20/newsletter",
-"https://electcharlesperry.com/news/2016/9/26/watch-first-general-election-debate",
-"https://electcharlesperry.com/news?author=54f73a41e4b067f71ea31f6c",
-"https://electcharlesperry.com/take-action",
-"https://facebook.com/ElectCharlesPerry"
+{
+"text": "About",
+"href": "https://www.electcharlesperry.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electcharlesperry.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electcharlesperry.com/donate"
+},
+{
+"text": "ELIZABETH CUSTY",
+"href": "https://www.electcharlesperry.com/news?author=54f73a41e4b067f71ea31f6c"
+},
+{
+"text": "Eliminating Sanctuary Cities in Texas is Long Overdue",
+"href": "https://www.electcharlesperry.com/news/2016/11/17/eliminating-sanctuary-cities-in-texas-is-long-overdue"
+},
+{
+"text": "Home",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.electcharlesperry.com/issuses"
+},
+{
+"text": "News",
+"href": "https://www.electcharlesperry.com/news"
+},
+{
+"text": "Newsletter: September 2016",
+"href": "https://www.electcharlesperry.com/news/2016/9/20/newsletter"
+},
+{
+"text": "September 26, 2016",
+"href": "https://www.electcharlesperry.com/news/2016/9/26/watch-first-general-election-debate"
+},
+{
+"text": "Take Action",
+"href": "https://www.electcharlesperry.com/take-action"
+},
+{
+"text": "WATCH: First General Election Debate",
+"href": "https://www.electcharlesperry.com/news/2016/9/26/watch-first-general-election-debate"
+},
+{
+"text": "[image: Elect Charles Perry]",
+"href": "https://www.electcharlesperry.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectCharlesPerry"
+}
 ]

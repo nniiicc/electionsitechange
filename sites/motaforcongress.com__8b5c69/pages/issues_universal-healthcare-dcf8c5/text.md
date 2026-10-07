@@ -1,14 +1,7 @@
-Priorities
-Universal Health care
-Due to politics and the influence of the insurance industry, pharmaceutical companies and powerful interests, the U.S. remains THE ONLY major industrialized country without a National Health Insurance (NHI) system.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement Priorities Universal Health care Due to politics and the influence of the insurance industry, pharmaceutical companies and powerful interests, the U.S. remains THE ONLY major industrialized country without a National Health Insurance (NHI) system .
 Our current system is heavily flawed, subsidized, and constantly threatened by folks who don't believe healthcare is a right.
 If that isn't enough, the U.S. spends more money on health care than any other nation.
 It's beyond time to address the issue and improve this system that has received major setbacks.
 As your congresswomen, I will rekindle reform to re-energize efforts in the health care system that have yet to be achieved.
 Our current Representatives lack a comprehensive and strong governmental presence that define health care, sets standards, and ensure equity.
-To renew the efforts of universal healthcare, we'll champion for the principles of:
-- Affordable and Equitable Coverage
-- All-Inclusive: Dental, vision, preventative and mental care
-- Comprehensive benefits
-- Drug Price Negotiation
-- Subsidize medical and nursing school tuition to assist underserved areas
+To renew the efforts of universal healthcare, we'll champion for the principles of: Affordable and Equitable Coverage All-Inclusive: Dental, vision, preventative and mental care Comprehensive benefits Drug Price Negotiation Subsidize medical and nursing school tuition to assist underserved areas hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

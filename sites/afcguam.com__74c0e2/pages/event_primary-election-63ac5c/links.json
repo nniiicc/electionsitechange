@@ -1,13 +1,58 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/contact",
-"https://afcguam.com/event/early-voting-starts-for-general-election",
-"https://afcguam.com/event/last-day-to-register-for-primary-election",
-"https://afcguam.com/events",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260801T000000%2F20260801T235959&text=Primary+Election&details=Primary+Election&trp=false&ctz=Pacific%2FGuam&sprop=website%3Ahttps%3A%2F%2Fafcguam.com",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-08-01T00%3A00%3A00%2B10%3A00&enddt=2026-08-01T00%3A00%3A00&subject=Primary+Election&body=Primary+Election",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-08-01T00%3A00%3A00%2B10%3A00&enddt=2026-08-01T00%3A00%3A00&subject=Primary+Election&body=Primary+Election"
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Early Voting Starts for General Election »",
+"href": "https://afcguam.com/event/early-voting-starts-for-general-election/"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260801T000000%2F20260801T235959&text=Primary+Election&details=Primary+Election&trp=false&ctz=Pacific%2FGuam&sprop=website%3Ahttps%3A%2F%2Fafcguam.com"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00%2B10%3A00&enddt=%23T00%3A00%3A00&location=&subject=Primary+Election&body=Primary+Election"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T00%3A00%3A00%2B10%3A00&enddt=%23T00%3A00%3A00&location=&subject=Primary+Election&body=Primary+Election"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://afcguam.com/event/primary-election/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "« Last Day to Register for Primary Election",
+"href": "https://afcguam.com/event/last-day-to-register-for-primary-election/"
+}
 ]

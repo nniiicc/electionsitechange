@@ -1,26 +1,150 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=March+with+Rick+at+the+Moxie+Parade&dates=20260711T150000Z%2F20260711T170000Z",
-"https://bennettforgovernor.com/",
-"https://bennettforgovernor.com/building-strong-schools",
-"https://bennettforgovernor.com/cart",
-"https://bennettforgovernor.com/cutthecostscrushingmainers",
-"https://bennettforgovernor.com/endorsements",
-"https://bennettforgovernor.com/events",
-"https://bennettforgovernor.com/events/march-with-rick-in-lisbon-moxie-parade?format=ical",
-"https://bennettforgovernor.com/events/meet-rick-at-the-la-islamic-center",
-"https://bennettforgovernor.com/events/volunteer-kickoff",
-"https://bennettforgovernor.com/fix-the-corrupt-system",
-"https://bennettforgovernor.com/maines-economic-future",
-"https://bennettforgovernor.com/meet-rick-bennett",
-"https://bennettforgovernor.com/news",
-"https://bennettforgovernor.com/privacy-policy",
-"https://bennettforgovernor.com/terms-of-use",
-"https://bennettforgovernor.com/theissues",
-"https://bennettforgovernor.com/visionformaine",
-"https://facebook.com/RickBennettForGovernor",
-"https://instagram.com/rickbennettforgovernor?igsh=a214ZWR0dHoyYmd4",
-"https://supportrickbennett.com/7_11_lisbon",
-"https://supportrickbennett.com/donate",
-"https://supportrickbennett.com/volunteer",
-"https://youtube.com/@RickBennettforGovernor"
+{
+"text": "$100",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "$25",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "$50",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "0",
+"href": "https://bennettforgovernor.com/cart"
+},
+{
+"text": "Back",
+"href": "https://bennettforgovernor.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://bennettforgovernor.com/events"
+},
+{
+"text": "Building Strong Schools",
+"href": "https://bennettforgovernor.com/building-strong-schools"
+},
+{
+"text": "Delivering a Fairer Tax System",
+"href": "https://bennettforgovernor.com/new-page-2"
+},
+{
+"text": "Donate",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://bennettforgovernor.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://bennettforgovernor.com/events"
+},
+{
+"text": "Fix the Corrupt System",
+"href": "https://bennettforgovernor.com/fix-the-corrupt-system"
+},
+{
+"text": "Folder: The Issues",
+"href": "https://bennettforgovernor.com/theissues"
+},
+{
+"text": "Get Involved",
+"href": "https://www.supportrickbennett.com/volunteer"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=March+with+Rick+at+the+Moxie+Parade&dates=20260711T150000Z%2F20260711T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://bennettforgovernor.com/events/march-with-rick-in-lisbon-moxie-parade?format=ical"
+},
+{
+"text": "Maine's Economic Future",
+"href": "https://bennettforgovernor.com/maines-economic-future"
+},
+{
+"text": "Make Child Care Affordable",
+"href": "https://bennettforgovernor.com/new-page-5"
+},
+{
+"text": "Make Energy Affordable",
+"href": "https://bennettforgovernor.com/new-page-3"
+},
+{
+"text": "Make Health Care Affordable",
+"href": "https://bennettforgovernor.com/new-page-4"
+},
+{
+"text": "Make Housing Affordable",
+"href": "https://bennettforgovernor.com/new-page-1"
+},
+{
+"text": "Meet Rick",
+"href": "https://bennettforgovernor.com/meet-rick-bennett"
+},
+{
+"text": "News",
+"href": "https://bennettforgovernor.com/news"
+},
+{
+"text": "Next Next July 15 Volunteer Kickoff",
+"href": "https://bennettforgovernor.com/events/volunteer-kickoff"
+},
+{
+"text": "Previous Previous July 10 Meet Rick at the L/A Islamic Center",
+"href": "https://bennettforgovernor.com/events/meet-rick-at-the-la-islamic-center"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bennettforgovernor.com/privacy-policy"
+},
+{
+"text": "Rick's Results",
+"href": "https://bennettforgovernor.com/new-page"
+},
+{
+"text": "See All Donation Options",
+"href": "https://www.supportrickbennett.com/donate"
+},
+{
+"text": "Terms of Use",
+"href": "https://bennettforgovernor.com/terms-of-use"
+},
+{
+"text": "Vision for Maine",
+"href": "https://bennettforgovernor.com/visionformaine"
+},
+{
+"text": "[image: Rick Bennett for Governor]",
+"href": "https://bennettforgovernor.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RickBennettForGovernor/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rickbennettforgovernor/?igsh=a214ZWR0dHoyYmd4"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RickBennettforGovernor"
+},
+{
+"text": "https://www.supportrickbennett.com/7_11_lisbon",
+"href": "https://www.supportrickbennett.com/7_11_lisbon"
+},
+{
+"text": "info@BennettForGovernor.com",
+"href": "mailto:info@BennettForGovernor.com"
+}
 ]

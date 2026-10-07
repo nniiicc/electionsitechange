@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://bakerforohio.com/vote",
- "paid_for_by": null,
+ "fingerprint": "3b535cf4dcac5a9fb016bcb1a7498f5774545301",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

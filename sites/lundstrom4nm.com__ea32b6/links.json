@@ -1,8 +1,46 @@
 [
-"http://facebook.com/lundstrom4nm",
-"http://lundstrom4nm.com/vote",
-"https://lundstrom4nm.com/",
-"https://lundstrom4nm.com/privacy",
-"https://lundstrom4nm.com/volunteer",
-"https://twitter.com/Lundstrom4NM"
+{
+"text": "ABOUT",
+"href": "https://www.lundstrom4nm.com"
+},
+{
+"text": "HOME",
+"href": "https://www.lundstrom4nm.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.lundstrom4nm.com"
+},
+{
+"text": "KEY LEGISLATION",
+"href": "https://www.lundstrom4nm.com"
+},
+{
+"text": "PRESS INQUIRY",
+"href": "mailto:info@lundstrom4nm.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lundstrom4nm.com/privacy"
+},
+{
+"text": "TO FIND YOUR VOTING LOCATION CLICK HERE",
+"href": "http://lundstrom4nm.com/vote"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lundstrom4nm.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/lundstrom4nm"
+},
+{
+"text": "[image: LundstromLogo.png]",
+"href": "https://www.lundstrom4nm.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/Lundstrom4NM"
+}
 ]

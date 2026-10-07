@@ -1,45 +1,262 @@
 [
-"http://elections.il.gov/",
-"https://cookieadmin.net/",
-"https://darbyhills.com/",
-"https://darbyhills.com/2026/08/03/privacy-policy",
-"https://darbyhills.com/2026/09/29/coming-home-with-darby-hills-the-roots-that-shaped-darby",
-"https://darbyhills.com/about",
-"https://darbyhills.com/cdn-cgi/l/email-protection",
-"https://darbyhills.com/contact",
-"https://darbyhills.com/district-map",
-"https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district",
-"https://darbyhills.com/events",
-"https://darbyhills.com/get-involved",
-"https://darbyhills.com/issues",
-"https://darbyhills.com/issues/affordable",
-"https://darbyhills.com/issues/common-sense",
-"https://darbyhills.com/issues/safe",
-"https://darbyhills.com/news",
-"https://darbyhills.com/senator-darby-hills-legislative-priorities",
-"https://darbyhills.com/vote",
-"https://darbyhills.com/ys",
-"https://facebook.com/DarbyHills26%20",
-"https://fox32chicago.com/news/crystal-lake-e-bike-crash",
-"https://instagram.com/darbyhills26",
-"https://nbcchicago.com/investigations/bill-aims-to-close-loophole-for-those-convicted-of-secretly-videotaping-minors/3907327",
-"https://secure.winred.com/citizens-for-darby-hills/donate-today",
-"https://senatordarbyhills.com/fox32-sb2381",
-"https://senatordarbyhills.com/on-cbs-chicago-senator-darby-hills-responds-to-recent-teacher-coach-arrests-discussed-sb2381",
-"https://senatordarbyhills.com/videos",
-"https://tiktok.com/@darbyhills26",
-"https://wandtv.com/news/statehouse/healing-through-history-il-senate-passes-bill-helping-families-receive-foster-care-records/article_94ce84ce-9d84-4d84-9214-acdd35f0de2d.html",
-"https://wandtv.com/news/statehouse/il-senate-gop-introduce-bills-to-protect-children-from-exploitation/article_5fef92d8-5bd0-4ec5-a51a-85831a3a78c9.html",
-"https://wandtv.com/news/statehouse/new-illinois-law-requires-diaper-ingredients-transparency/article_4db4e92d-e4f7-4366-af3b-35800af10889.html",
-"https://wcia.com/capitol-connection/illinois-senate-republicans-unveil-plan-combatting-child-trafficking-exploitation",
-"https://wgntv.com/news/northwest-suburbs/teenage-boy-dies-in-e-bike-crash-in-wauconda",
-"https://wgntv.com/news/northwest-suburbs/third-hoffman-estates-data-center-faces-opposition-from-nearby-residents",
-"https://x.com/darbyhills26",
-"https://youtu.be/1py-JAO8QFk?si=4pqg_b4AhBzXb3Nm",
-"https://youtu.be/io14JAYU504?si=MMw9g-1u97NBs4rN",
-"https://youtube.com/@DarbyHills26",
-"https://youtube.com/@Darbyhills26",
-"https://youtube.com/watch?v=Fxf__pcM8jk",
-"https://youtube.com/watch?v=LCDctzj4eGs",
-"https://youtube.com/watch?v=QDB07rTd4vQ"
+{
+"text": "About",
+"href": "https://darbyhills.com/about/"
+},
+{
+"text": "Bill aims to close ‘loophole’ for those convicted of secretly videotaping minors",
+"href": "https://www.nbcchicago.com/investigations/bill-aims-to-close-loophole-for-those-convicted-of-secretly-videotaping-minors/3907327/"
+},
+{
+"text": "Boy, 14, dies after e-moto crash with SUV in Wauconda",
+"href": "https://wgntv.com/news/northwest-suburbs/teenage-boy-dies-in-e-bike-crash-in-wauconda/"
+},
+{
+"text": "CBS Chicago Senator Darby Hills Responds to Recent Teacher/Coach Arrests, Discussed SB2381",
+"href": "https://www.senatordarbyhills.com/on-cbs-chicago-senator-darby-hills-responds-to-recent-teacher-coach-arrests-discussed-sb2381/"
+},
+{
+"text": "Child seriously hurt in Crystal Lake e-bike crash as calls grow for tougher safety rules",
+"href": "https://www.fox32chicago.com/news/crystal-lake-e-bike-crash"
+},
+{
+"text": "Coming Home with Darby Hills: The Roots That Shaped Darby",
+"href": "https://darbyhills.com/2026/09/29/coming-home-with-darby-hills-the-roots-that-shaped-darby/"
+},
+{
+"text": "Contact",
+"href": "https://darbyhills.com/contact/"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://darbyhills.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/citizens-for-darby-hills/donate-today"
+},
+{
+"text": "Darby's District Map",
+"href": "https://darbyhills.com/district-map/"
+},
+{
+"text": "Darby's Endorsements",
+"href": "https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district/"
+},
+{
+"text": "Darby's Legislation",
+"href": "https://darbyhills.com/senator-darby-hills-legislative-priorities/"
+},
+{
+"text": "Darby's Legislative Videos",
+"href": "https://www.senatordarbyhills.com/videos/"
+},
+{
+"text": "Darby's Political Videos",
+"href": "https://www.youtube.com/@Darbyhills26"
+},
+{
+"text": "Darby’s Endorsements",
+"href": "https://darbyhills.com/endorsed-by-leaders-across-the-26th-senate-district/"
+},
+{
+"text": "Darby’s Political Videos",
+"href": "https://www.youtube.com/@Darbyhills26"
+},
+{
+"text": "Darby’s Videos",
+"href": "https://www.senatordarbyhills.com/videos/"
+},
+{
+"text": "District Map",
+"href": "https://darbyhills.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-darby-hills/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://darbyhills.com/events/"
+},
+{
+"text": "Envelope-open-text",
+"href": "mailto:citizensfordarbyhills@gmail.com"
+},
+{
+"text": "Events",
+"href": "https://darbyhills.com/events"
+},
+{
+"text": "Events & Volunteer Opportunities",
+"href": "https://darbyhills.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DarbyHills26%20"
+},
+{
+"text": "Get Involved",
+"href": "https://darbyhills.com/get-involved/"
+},
+{
+"text": "Healing Through History: IL Senate passes bill helping families receive foster care records",
+"href": "https://www.wandtv.com/news/statehouse/healing-through-history-il-senate-passes-bill-helping-families-receive-foster-care-records/article_94ce84ce-9d84-4d84-9214-acdd35f0de2d.html"
+},
+{
+"text": "Home",
+"href": "https://darbyhills.com/"
+},
+{
+"text": "IL Senate GOP introduce bills to protect children from exploitation",
+"href": "https://www.wandtv.com/news/statehouse/il-senate-gop-introduce-bills-to-protect-children-from-exploitation/article_5fef92d8-5bd0-4ec5-a51a-85831a3a78c9.html"
+},
+{
+"text": "Illinois Senate Republicans unveil plan combatting child trafficking, exploitation",
+"href": "https://www.wcia.com/capitol-connection/illinois-senate-republicans-unveil-plan-combatting-child-trafficking-exploitation/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/darbyhills26"
+},
+{
+"text": "Issues",
+"href": "https://darbyhills.com/issues/"
+},
+{
+"text": "Keep Our Communities Safe",
+"href": "https://darbyhills.com/issues/safe/"
+},
+{
+"text": "Keep Our Communities Safe for Families and Children",
+"href": "https://darbyhills.com/issues/safe/"
+},
+{
+"text": "Latest News",
+"href": "https://darbyhills.com/news/"
+},
+{
+"text": "Legislation to Access Foster Care History",
+"href": "https://youtu.be/1py-JAO8QFk?si=4pqg_b4AhBzXb3Nm"
+},
+{
+"text": "Make Life More Affordable",
+"href": "https://darbyhills.com/issues/affordable/"
+},
+{
+"text": "Make Life More Affordable for Struggling Working Families",
+"href": "https://darbyhills.com/issues/affordable/"
+},
+{
+"text": "Meet Darby",
+"href": "https://darbyhills.com/about/"
+},
+{
+"text": "New Illinois law requires diaper ingredients transparency",
+"href": "https://www.wandtv.com/news/statehouse/new-illinois-law-requires-diaper-ingredients-transparency/article_4db4e92d-e4f7-4366-af3b-35800af10889.html"
+},
+{
+"text": "News",
+"href": "https://darbyhills.com/news"
+},
+{
+"text": "News",
+"href": "https://darbyhills.com/news/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://darbyhills.com/2026/08/03/privacy-policy/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://darbyhills.com/ys"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://darbyhills.com/ys/"
+},
+{
+"text": "Senator Darby Hills and Melissa Khamkhounnavong discuss SB2895",
+"href": "https://www.youtube.com/watch?v=LCDctzj4eGs"
+},
+{
+"text": "Senator Darby Hills on Transparency in Illinois",
+"href": "https://www.youtube.com/watch?v=QDB07rTd4vQ"
+},
+{
+"text": "Senator Darby Hills’ Legislative Priorities",
+"href": "https://darbyhills.com/senator-darby-hills-legislative-priorities/"
+},
+{
+"text": "Senator Darby Hills’ aiming to make life more affordable here in Illinoi",
+"href": "https://www.youtube.com/watch?v=Fxf__pcM8jk"
+},
+{
+"text": "Senator Hills Highlights Need for Statewide E-Bike Safety Standards",
+"href": "https://youtu.be/io14JAYU504?si=MMw9g-1u97NBs4rN"
+},
+{
+"text": "Stand for Common Sense",
+"href": "https://darbyhills.com/issues/common-sense/"
+},
+{
+"text": "Stand for Common Sense Over Extreme Agendas",
+"href": "https://darbyhills.com/issues/common-sense/"
+},
+{
+"text": "State Senator Darby Hills Calls for Action on SB2381 Following Mundelein Teacher/Coach’s Arrest on FOX32",
+"href": "https://www.senatordarbyhills.com/fox32-sb2381/"
+},
+{
+"text": "Third Hoffman Estates data center faces opposition from nearby residents",
+"href": "https://wgntv.com/news/northwest-suburbs/third-hoffman-estates-data-center-faces-opposition-from-nearby-residents/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@darbyhills26"
+},
+{
+"text": "Upcoming Events & Volunteer Opportunities",
+"href": "https://darbyhills.com/events/"
+},
+{
+"text": "Volunteer",
+"href": "https://darbyhills.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://darbyhills.com/vote"
+},
+{
+"text": "Voter Info",
+"href": "https://darbyhills.com/vote/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/darbyhills26"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@DarbyHills26"
+},
+{
+"text": "[image]",
+"href": "https://darbyhills.com"
+},
+{
+"text": "[image]",
+"href": "https://darbyhills.com/2026/09/29/coming-home-with-darby-hills-the-roots-that-shaped-darby/"
+},
+{
+"text": "fill out the form here",
+"href": "https://darbyhills.com/ys/"
+},
+{
+"text": "http://www.elections.il.gov",
+"href": "http://www.elections.il.gov/"
+}
 ]

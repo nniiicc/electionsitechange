@@ -1,7 +1,9 @@
 {
  "description": "Volunteer for Anna Munson's campaign, request a lawn sign, or send a message. Anna is running for Oregon House District 19 in Salem.",
  "final_url": "https://www.vote-annamunson.com/contact",
- "paid_for_by": null,
+ "fingerprint": "b40238f65cb8b001dd7d0eb1b80ac435c3e7bf54",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact & Volunteer | Anna Munson, Oregon House District 19",
  "years_mentioned": []
 }

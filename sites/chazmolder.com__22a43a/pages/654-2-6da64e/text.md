@@ -1,4 +1,2 @@
-Skip to content
-Chaz Molder wins Democratic nomination for U.S.
-House in Tennessee’s 5th Congressional District
-August 11, 2026
+Skip to content Chaz Molder for Congress Meet Chaz News Issues Yard Sign Store Stay Informed Donate Chaz Molder wins Democratic nomination for U.S.
+House in Tennessee’s 5th Congressional District August 11, 2026 https://abcnews.com/Politics/wireStory/chaz-molder-wins-democratic-nomination-us-house-tennessees-135445719 Posts navigation Previous Next Meet Chaz Issues Stay Informed Donate Resources Facebook Instagram Twitter X Threads Tik Tok Paid for by Molder for Congress Molder for CongressPO Box 1468Columbia, TN 38402 Privacy Policy

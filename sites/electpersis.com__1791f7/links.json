@@ -1,24 +1,94 @@
 [
-"https://bsky.app/profile/persisyu.bsky.social",
-"https://designedtorun.com/",
-"https://electpersis.com/",
-"https://electpersis.com/076634aa-a4cc-4541-8c4f-4f7a36a950cf",
-"https://electpersis.com/Volunteer",
-"https://electpersis.com/contact",
-"https://electpersis.com/donate",
-"https://electpersis.com/endorsements",
-"https://electpersis.com/events",
-"https://electpersis.com/issues",
-"https://electpersis.com/listening-tour",
-"https://electpersis.com/privacy-policy",
-"https://facebook.com/ElectPersis",
-"https://instagram.com/ElectPersis",
-"https://linkedin.com/in/persis-yu",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.actblue.com/donate/persis-yu-1",
-"https://secure.actblue.com/donate/persis-yu-1?amount=100",
-"https://secure.actblue.com/donate/persis-yu-1?amount=25",
-"https://secure.actblue.com/donate/persis-yu-1?amount=250",
-"https://secure.actblue.com/donate/persis-yu-1?amount=50",
-"https://secure.actblue.com/donate/persis-yu-1?amount=75"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/persis-yu-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/persis-yu-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/persis-yu-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/persis-yu-1?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/persis-yu-1?amount=75"
+},
+{
+"text": "Contact",
+"href": "https://www.electpersis.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electpersis.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electpersis.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.electpersis.com/events"
+},
+{
+"text": "Listening Tour",
+"href": "https://www.electpersis.com/listening-tour"
+},
+{
+"text": "More Issues",
+"href": "https://www.electpersis.com/issues"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/persis-yu-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electpersis.com/076634aa-a4cc-4541-8c4f-4f7a36a950cf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electpersis.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electpersis.com/Volunteer"
+},
+{
+"text": "[image: Persis Yu for State Senate]",
+"href": "https://www.electpersis.com/"
+},
+{
+"text": "[image: Persis Yu logo]",
+"href": "https://www.electpersis.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/persisyu.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/ElectPersis"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ElectPersis"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/persis-yu/"
+},
+{
+"text": "wheredoivotema.com",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+}
 ]

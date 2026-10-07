@@ -1,33 +1,206 @@
 [
-"http://local562.org/",
-"https://abortionactionmissouri.org/endorsements",
-"https://accessmo.today/",
-"https://actionstlpower.org/",
-"https://archive.house.mo.gov/MemberDetails.aspx?district=073&year=2025",
-"https://collectivepac.org/",
-"https://facebook.com/mooreformissouri",
-"https://gasworkers11-6.com/",
-"https://gunsensevoter.org/",
-"https://iaff2665.org/",
-"https://instagram.com/mooreformissouri?igsh=MXJyMHE3Z2wzeXF5Nw%3D%3D",
-"https://instagram.com/reel/DY0Hu7ZttAE?igsh=Nmtha3gwdXlvNXAz",
-"https://mkldc.org/",
-"https://mnea.org/",
-"https://moaflcio.org/",
-"https://mooreformissouri.com/",
-"https://mooreformissouri.com/about",
-"https://mooreformissouri.com/contact",
-"https://mooreformissouri.com/endorsements",
-"https://mooreformissouri.com/events",
-"https://mooreformissouri.com/getinvolved",
-"https://mooreformissouri.com/ourdistrict",
-"https://mooreformissouri.com/policyandissues",
-"https://mscff.org/",
-"https://nwpc-stl.org/",
-"https://ourrevolution.com/",
-"https://secure.actblue.com/donate/mooreformissouri",
-"https://seiuhcilin.org/",
-"https://seiumo.org/",
-"https://sonnierforstl.com/",
-"https://threads.com/@kennedymoore4missouri"
+{
+"text": "Abortion Action Missouri",
+"href": "https://abortionactionmissouri.org/endorsements/"
+},
+{
+"text": "About Kennedy",
+"href": "https://www.mooreformissouri.com/about"
+},
+{
+"text": "Access Missouri",
+"href": "https://accessmo.today/"
+},
+{
+"text": "Action St. Louis Power Project",
+"href": "https://www.actionstlpower.org"
+},
+{
+"text": "Alderwoman Alisha Sonnier City of St. Louis 7th Ward",
+"href": "https://www.sonnierforstl.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.mooreformissouri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mooreformissouri"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mooreformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mooreformissouri.com/events"
+},
+{
+"text": "Gas Workers Local 11-6",
+"href": "https://gasworkers11-6.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mooreformissouri.com/getinvolved"
+},
+{
+"text": "Home",
+"href": "https://www.mooreformissouri.com"
+},
+{
+"text": "International Association of Fire Fighters Local 2665",
+"href": "https://www.iaff2665.org/"
+},
+{
+"text": "Jenifer Lewis Actress, Author, Activist, and Kinloch Native",
+"href": "https://www.instagram.com/reel/DY0Hu7ZttAE/?igsh=Nmtha3gwdXlvNXAz"
+},
+{
+"text": "Missouri AFL-CIO",
+"href": "https://moaflcio.org/"
+},
+{
+"text": "Missouri Kansas SEIU State Council",
+"href": "https://www.seiumo.org/"
+},
+{
+"text": "Missouri National Education Association",
+"href": "https://www.mnea.org/"
+},
+{
+"text": "Missouri State Council of Fire Fighters",
+"href": "https://www.mscff.org/"
+},
+{
+"text": "Missouri and Kansas Laborers District Council",
+"href": "https://www.mkldc.org/"
+},
+{
+"text": "Mom's Demand Gun Sense Candidate Distinction",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "MooreForMissouri@gmail.com",
+"href": "mailto:MooreForMissouri@gmail.com"
+},
+{
+"text": "National Women's Political Caucus - St. Louis",
+"href": "https://nwpc-stl.org/"
+},
+{
+"text": "Our District",
+"href": "https://www.mooreformissouri.com/ourdistrict"
+},
+{
+"text": "Our Revolution",
+"href": "https://ourrevolution.com/"
+},
+{
+"text": "PROMO Missouri PAC",
+"href": "https://accessmo.today/"
+},
+{
+"text": "Plumbers & Pipefitters Local 562",
+"href": "http://local562.org"
+},
+{
+"text": "Policy & Issues",
+"href": "https://www.mooreformissouri.com/policyandissues"
+},
+{
+"text": "Representative Raychel Proudie Missouri House District 73",
+"href": "https://archive.house.mo.gov/MemberDetails.aspx?district=073&year=2025"
+},
+{
+"text": "SEIU Healthcare Missouri",
+"href": "https://seiuhcilin.org/"
+},
+{
+"text": "The Collective PAC",
+"href": "https://collectivepac.org/"
+},
+{
+"text": "[image: Abortion Action Missouri endorsed candidate badge]",
+"href": "https://abortionactionmissouri.org/endorsements/"
+},
+{
+"text": "[image: Action STL Power Project.png]",
+"href": "https://www.actionstlpower.org"
+},
+{
+"text": "[image: Alderwoman Alisha Sonnier endorsement logo]",
+"href": "https://www.sonnierforstl.com/"
+},
+{
+"text": "[image: Collective PAC.jpg]",
+"href": "https://collectivepac.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mooreformissouri"
+},
+{
+"text": "[image: Gass workers.png]",
+"href": "https://gasworkers11-6.com/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mooreformissouri?igsh=MXJyMHE3Z2wzeXF5Nw%3D%3D"
+},
+{
+"text": "[image: International Association of Fire Fighters Local 2665 logo]",
+"href": "https://www.iaff2665.org/"
+},
+{
+"text": "[image: Jenifer Lewis, actress, author, activist and Kinloch native]",
+"href": "https://www.instagram.com/reel/DY0Hu7ZttAE/?igsh=Nmtha3gwdXlvNXAz"
+},
+{
+"text": "[image: Missouri AFL-CIO endorsement logo]",
+"href": "https://moaflcio.org/"
+},
+{
+"text": "[image: Missouri NEA PAC logo 2025.png]",
+"href": "https://www.mnea.org/"
+},
+{
+"text": "[image: Missouri State Council of Fire Fighters endorsement logo]",
+"href": "https://www.mscff.org/"
+},
+{
+"text": "[image: Missouri and Kansas Laborers District Council logo]",
+"href": "https://www.mkldc.org/"
+},
+{
+"text": "[image: Moms Demand Action Gun Sense Candidate 2026 endorsement badge]",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "[image: National Women's Political Caucus St. Louis endorsement logo]",
+"href": "https://nwpc-stl.org/"
+},
+{
+"text": "[image: Our Revolution endorsement logo]",
+"href": "https://ourrevolution.com/"
+},
+{
+"text": "[image: Plumbers.jpg]",
+"href": "http://local562.org"
+},
+{
+"text": "[image: Portrait of Missouri Representative Raychel Proudie]",
+"href": "https://archive.house.mo.gov/MemberDetails.aspx?district=073&year=2025"
+},
+{
+"text": "[image: SEIU Healthcare.png]",
+"href": "https://seiuhcilin.org/"
+},
+{
+"text": "[image: SEIU.png]",
+"href": "https://www.seiumo.org/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@kennedymoore4missouri"
+}
 ]

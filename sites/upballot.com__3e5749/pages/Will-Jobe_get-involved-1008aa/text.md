@@ -1,25 +1,2 @@
-About
-Will
-Issues
-Get Involved
-Events
-Updates
-Donate Now
-Home
-About Will
-Issues
-Get Involved
-Events
-Updates
-Donate Now
-GET INVOLVED
-See how you can support Will’s campaign today.
-Volunteer for Will’s campaign
-Reach Out
-Make a
-donation
-Donate now
-Attend an event near you
-View Events
-Register to vote in Missouri
-Visit Site
+About Will Issues Get Involved Events Updates Donate Now Home About Will Issues Get Involved Events Updates Donate Now GET INVOLVED See how you can support Will’s campaign today.
+Volunteer for Will’s campaign Reach Out Make a donation Donate now Attend an event near you View Events Register to vote in Missouri Visit Site Support Will Jobe’s Campaign for Missouri Donate Now Will Jobe for Independence PO Box 4166, Independence, MO 64051 tel:(816) 237-8709 | info@jobeforindependence.com Erica Jobe, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

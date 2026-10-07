@@ -1,9 +1,13 @@
 {
  "description": "",
  "final_url": "https://gobrinkman.com/home/",
- "paid_for_by": null,
+ "fingerprint": "f4a437af3f1e6ac5184144a78b5dfec56261da53",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Go Brinkman",
  "years_mentioned": [
+  "2001",
+  "2008",
   "2015"
  ]
 }

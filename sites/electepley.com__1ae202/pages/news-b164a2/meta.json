@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.electepley.com/news",
- "paid_for_by": null,
+ "fingerprint": "0a680a9626f9731a9a001237d4649954701c9b5e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News & Events | Elect Judge Epley",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

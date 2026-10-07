@@ -1,14 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61583916910472",
-"https://instagram.com/marcuspalumboct",
-"https://marcuspalumbo.com/",
-"https://marcuspalumbo.com/blog",
-"https://marcuspalumbo.com/contact",
-"https://marcuspalumbo.com/lawn-sign",
-"https://marcuspalumbo.com/platform",
-"https://marcuspalumbo.com/privacy-policy",
-"https://marcuspalumbo.com/volunteer",
-"https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/A70A793911.jpg",
-"https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/IMG-20260321-WA0000.jpg",
-"https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/P100100821.jpg"
+{
+"text": "CONTACT",
+"href": "https://marcuspalumbo.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61583916910472"
+},
+{
+"text": "HOME",
+"href": "https://marcuspalumbo.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/marcuspalumboct/"
+},
+{
+"text": "LAWN SIGN",
+"href": "https://marcuspalumbo.com/lawn-sign/"
+},
+{
+"text": "Marcus Palumbo",
+"href": "https://marcuspalumbo.com/"
+},
+{
+"text": "NEWS",
+"href": "https://marcuspalumbo.com/blog/"
+},
+{
+"text": "PLATFORM",
+"href": "https://marcuspalumbo.com/platform/"
+},
+{
+"text": "Paid for by Citizens for Lower Costs • Treasurer Linda Theodoru",
+"href": "https://marcuspalumbo.com/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://marcuspalumbo.com/volunteer/"
+},
+{
+"text": "View our Privacy Policy",
+"href": "https://marcuspalumbo.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/A70A793911.jpg"
+},
+{
+"text": "[image]",
+"href": "https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/IMG-20260321-WA0000.jpg"
+},
+{
+"text": "[image]",
+"href": "https://marcuspalumbo.com/wp-content/uploads/sites/23/2026/05/P100100821.jpg"
+}
 ]

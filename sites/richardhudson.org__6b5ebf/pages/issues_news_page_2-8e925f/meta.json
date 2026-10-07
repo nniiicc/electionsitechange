@@ -1,6 +1,8 @@
 {
  "description": "",
  "final_url": "https://richardhudson.org/issues/news/page/2/",
+ "fingerprint": "6684ef6ae8425abb933150dcd929b8f7b974e5cd",
+ "format": 3,
  "paid_for_by": "Paid for by Hudson for Congress",
  "title": "News - Richard Hudson for Congress - Proudly Serving North Carolina's 9th District",
  "years_mentioned": [
@@ -8,7 +10,10 @@
   "2015",
   "2016",
   "2017",
+  "2018",
+  "2019",
   "2020",
-  "2021"
+  "2021",
+  "2022"
  ]
 }

@@ -1,26 +1,122 @@
 [
-"http://facebook.com/share/16UsyVP5i3",
-"http://instagram.com/votestickney",
-"https://secure.anedot.com/vote-stickney/donate",
-"https://votestickney.com/",
-"https://votestickney.com/cart",
-"https://votestickney.com/contact",
-"https://votestickney.com/endorsements",
-"https://votestickney.com/endorsements?itemId=1i4aex3b5aruw1zkyzzqla7gr33dhz",
-"https://votestickney.com/endorsements?itemId=2ncewcbu9ph7ifvirwxag1h6p1cb2f",
-"https://votestickney.com/endorsements?itemId=5iao7ealm52qq5qrykyxcvpwoppr0e",
-"https://votestickney.com/endorsements?itemId=8m8jftabfpx97njy8igjkw7rizk9s9",
-"https://votestickney.com/endorsements?itemId=a29dhj8n617u6m8hemcfyu5b3toivu-5s7f5",
-"https://votestickney.com/endorsements?itemId=dzm6wevfdeppnd5mbxbza35zznkdf7",
-"https://votestickney.com/endorsements?itemId=e63j9727ywqbnk7u5jgjkuxx7rb42l",
-"https://votestickney.com/endorsements?itemId=i7olzsbwhv2ibbyuw6bh3ek8u1d5hv",
-"https://votestickney.com/endorsements?itemId=kjigvwmbzyk3kn2rpmxj22cof32e9s",
-"https://votestickney.com/endorsements?itemId=mr7x5wuego8izgn0gysxmc97umvnvx",
-"https://votestickney.com/endorsements?itemId=onoa3umnyevq11fjdj5l83bcpfp7wr",
-"https://votestickney.com/endorsements?itemId=q8xe85frg71samaatblrc6lin0qrr7",
-"https://votestickney.com/endorsements?itemId=sxpx1rh9hwhl1k4h1znlynl2yg3ul1",
-"https://votestickney.com/endorsements?itemId=ycr8p5qraqf4u5a9zvmybrd2ddvg4m",
-"https://votestickney.com/gallery",
-"https://votestickney.com/meetpatrick",
-"https://votestickney.com/priorities"
+{
+"text": "0",
+"href": "https://www.votestickney.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.votestickney.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vote-stickney/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votestickney.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.votestickney.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.votestickney.com/"
+},
+{
+"text": "Meet Patrick",
+"href": "https://www.votestickney.com/meetpatrick"
+},
+{
+"text": "Priorities",
+"href": "https://www.votestickney.com/priorities"
+},
+{
+"text": "[image: Adam Bernbaum, Washington State Representative, District 24] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=sxpx1rh9hwhl1k4h1znlynl2yg3ul1"
+},
+{
+"text": "[image: Brian Ebersole, Former Speaker of the House, Former Mayor of Tacoma] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=fvlzk4t8n8dfa1nvgo0xf12d6l3yaa"
+},
+{
+"text": "[image: Bronwyn Clarke, Parks Tacoma Commissioner] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=e63j9727ywqbnk7u5jgjkuxx7rb42l"
+},
+{
+"text": "[image: Connie Ladenburg, Former State Representative, 29th District] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=m3k5s0ydotncl0agj2nalxtwxy8hdo"
+},
+{
+"text": "[image: Darya Farivar, Washington State Representative, District 46] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=c9cqfkg2v7b34ivq8xc0ytez6h5k7t"
+},
+{
+"text": "[image: Erin Chapman-Smith, Former Candidate for 29th LD and Director of Young Adult Shelter] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=onoa3umnyevq11fjdj5l83bcpfp7wr"
+},
+{
+"text": "[image: Kristin Ang, Port of Tacoma Commissioner] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=cl19ywpqb9gykv9vsb12mx9mo1gnze"
+},
+{
+"text": "[image: Kristina Walker, Tacoma City Council] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=8m8jftabfpx97njy8igjkw7rizk9s9"
+},
+{
+"text": "[image: Kristine Reeves, Washington State House Representative, District 30] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=kjigvwmbzyk3kn2rpmxj22cof32e9s"
+},
+{
+"text": "[image: Larry Seaquist, Former Washington State Representative, 26th District, Retired US Navy Captain] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=a29dhj8n617u6m8hemcfyu5b3toivu-5s7f5"
+},
+{
+"text": "[image: Lisa Keating, Tacoma School Board] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=2ncewcbu9ph7ifvirwxag1h6p1cb2f"
+},
+{
+"text": "[image: Liz Berry, Washington State Representative, District 36] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=7jnzn73isp8e4xgbpuddsplpcuo0uz"
+},
+{
+"text": "[image: Olgy Diaz, Tacoma City Council] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=i7olzsbwhv2ibbyuw6bh3ek8u1d5hv"
+},
+{
+"text": "[image: Patrick for State Representative]",
+"href": "https://www.votestickney.com/"
+},
+{
+"text": "[image: Rosie Ayala, Pierce County Council] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=dzm6wevfdeppnd5mbxbza35zznkdf7"
+},
+{
+"text": "[image: Sandesh Sadalge, Tacoma City Council] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=mr7x5wuego8izgn0gysxmc97umvnvx"
+},
+{
+"text": "[image: Sarah Rumbaugh, Tacoma City Council] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=q8xe85frg71samaatblrc6lin0qrr7"
+},
+{
+"text": "[image: Sharlett Mena, Washington State Representative, District 29] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=ycr8p5qraqf4u5a9zvmybrd2ddvg4m"
+},
+{
+"text": "[image: Shelley Kloba, Washington State Representative, District 1] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=5iao7ealm52qq5qrykyxcvpwoppr0e"
+},
+{
+"text": "[image: Yasmin Trudeau, Washington State Senator, District 27] View fullsize",
+"href": "https://www.votestickney.com/endorsements?itemId=1i4aex3b5aruw1zkyzzqla7gr33dhz"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/share/16UsyVP5i3/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/votestickney"
+}
 ]

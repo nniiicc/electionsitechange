@@ -1,13 +1,11 @@
-by Don Schaible | Oct 20, 2025 | Campaign News, Legislative News
-District 31, ND – Senator Don Schaible, a lifelong farmer, educator, and public-service leader, announced today that he will seek re-election to represent District 31 in the North Dakota Senate.
+DONATE District 31 Team Request Absentee Ballot Latest Updates FOLLOW A Firsthand Look at a Critical Defense Mission by Don Schaible | Mar 19, 2026 | Legislative News Senator Don Schaible Announces Re-Election Campaign for North Dakota Senate, District 31 by Don Schaible | Oct 20, 2025 | Campaign News , Legislative News District 31, ND – Senator Don Schaible, a lifelong farmer, educator, and public-service leader, announced today that he will seek re-election to represent District 31 in the North Dakota Senate.
 First elected in 2010, Schaible has built a reputation as a steady,...
-by Don Schaible | Sep 8, 2025 | Legislative News
-On August 20 I attend my first interim committee meeting as vice chair of the Emergency Response Service Committee.
+EMS Study by Don Schaible | Sep 8, 2025 | Legislative News On August 20 I attend my first interim committee meeting as vice chair of the Emergency Response Service Committee.
 We are to study the recruitment and retention challenges related to volunteer emergency responders, including firefighters, emergency or disaster...
-by Don Schaible | Jun 9, 2025 | Uncategorized
-It was in the early hours of Saturday morning of May 3rd that the property tax relief and reform bill was passed.
+Property Tax Relief by Don Schaible | Jun 9, 2025 | Uncategorized It was in the early hours of Saturday morning of May 3rd that the property tax relief and reform bill was passed.
 With the whole session of this bill being considered and massaged, it did not really have a whole lot of changes.
 Beginning in tax year of 2025, primary...
-by Don Schaible | May 29, 2025 | Legislative News
-The 69th Legislative Assembly adjourned May 3 around 4:00AM that Saturday Morning on the 74th day of the session.
+End of Session 2025 by Don Schaible | May 29, 2025 | Legislative News The 69th Legislative Assembly adjourned May 3 around 4:00AM that Saturday Morning on the 74th day of the session.
 I thought it would be a good idea to provide some information on how we ended up and provide some insight in future articles on some of the details of...
+Search Search Recent Posts A Firsthand Look at a Critical Defense Mission Senator Don Schaible Announces Re-Election Campaign for North Dakota Senate, District 31 EMS Study Property Tax Relief End of Session 2025 Recent Comments No comments to show.
+PAID FOR BY SCHAIBLE FOR SENATE © # COPYRIGHT | SCHAIBLE FOR SENATE CREATED BY ELEVATED IMPACT

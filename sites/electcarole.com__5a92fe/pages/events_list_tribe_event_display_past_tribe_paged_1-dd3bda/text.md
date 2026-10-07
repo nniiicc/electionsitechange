@@ -1,15 +1,6 @@
-Events Search and Views Navigation
-October 2024
-November 2024
-Fall River Office Hours
-North End Senior Center, 101 President Ave.
-Fall River Tuesday, November 19 10:30am-11:15am
-Find out more »
-Fall River Office Hours
-Flint Senior Center 69 Alden St.
-Fall River Tuesday, November 19 11:30-12:15am
-Find out more »
-September 2026
-Office Hours – Flint Senior Center
-Meet me for Office Hours!
-Find out more »
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Past Events Events Search and Views Navigation Show Events Search Events Search Events From Search Event Views Navigation View As List Month Day « Previous Events October 2024 Fall River Office Hours October 15, 2024 @ 11:30 am - 12:15 pm Flint Senior Center Office Hours, 1423 Pleasant St Fall River , MA 02723 United States + Google Map Find out more » Freetown Office Hours October 17, 2024 @ 11:30 am - 12:30 pm Freetown Town Hall, 3 Main Street Assonet , 02702 United States + Google Map Find out more » Coffee and Conversation October 25, 2024 @ 9:00 am - 10:00 am Troia Cafe, 278 New Boston Road Fall River , MA United States + Google Map Find out more » November 2024 Fall River Office Hours November 19, 2024 @ 10:30 am - 11:15 am North End Senior Center, 101 President Ave.
+Fall River Tuesday, November 19 10:30am-11:15am Find out more » Fall River Office Hours November 19, 2024 @ 11:30 am - 12:15 pm Flint Senior Center 69 Alden St.
+Fall River Tuesday, November 19 11:30-12:15am Find out more » September 2026 Office Hours – North End Senior Center September 15 @ 10:30 am - 11:15 am 101 President Avenue.
+Fall River, MA Find out more » Office Hours – Flint Senior Center September 15 @ 11:30 am - 12:15 pm 69 Alden St., Fall River, MA, Meet me for Office Hours!
+Find out more » Office Hours – Freetown Council on Aging September 23 @ 9:00 am - 10:00 am Freetown Council on Aging, 227 Chase Road East Freetown , MA + Google Map Find out more » Coffee and Conversation September 23 @ 9:00 am - 10:00 am Mill and Roast, 405 Pleasant St., Fall River, MA 02721, 405 Pleasant St.
+Fall River , MA 02721 United States + Google Map Find out more » Walk and Talk September 30 @ 5:30 pm - 6:30 pm Oak Grove Cemetery, 756 Prospect Street Fall River , MA 02720 United States + Google Map Find out more » « Previous Events + Export Events Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing

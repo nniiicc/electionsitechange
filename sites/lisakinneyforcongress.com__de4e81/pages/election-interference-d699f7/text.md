@@ -1,5 +1,9 @@
-Lisa Kinney is Concerned About Recent Election Interference by DOJ
-Lisa Kinney is angry that that the DOJ sent a team of “observers” to Wyoming’s primary elections to analyze our voting procedures by monitoring poll workers in Cheyenne.
+Skip to content Lisa Kinney Running For You!
+Menu Meet Lisa News Events Get in Touch FAQ R.E.A.L.
+Donate Close Lisa Kinney Running For You!
+Meet Lisa News Events Get in Touch FAQ R.E.A.L.
+Donate Donate Election Interference?
+Written in Media Releases , News , Policy and posted on August 31, 2026 Lisa Kinney is Concerned About Recent Election Interference by DOJ Lisa Kinney is angry that that the DOJ sent a team of “observers” to Wyoming’s primary elections to analyze our voting procedures by monitoring poll workers in Cheyenne.
 Wyoming can handle its affairs better than the Feds at every turn.
 We have faith in the integrity of our hard-working County Clerks, and the excellent work they do.
 How much of our tax dollars did they waste on this trip?
@@ -10,4 +14,6 @@ Governor Gordon called the monitors’ behavior “a bit aggressive” and “ir
 This type of behavior indicates it is time to elect someone to the U.S.
 House of Representatives who is not subservient to federal indiscretion.
 We need a representative who is serious about doing the job rather than grandstanding for out-of-state, out-of-touch national groups.
-Lisa Kinney has represented the needs of Wyoming through the Wyoming State Senate, and she will continue to serve Wyoming with integrity and honesty when elected.
+Lisa Kinney has represented the needs of Wyoming through the Wyoming State Senate, and she will continue to serve Wyoming with integrity and honesty when elected. ← Importing Foreign Beef is Not the Answer Rural Healthcare is Basic to Wyoming → More posts WTE Election Guide Posted on October 6, 2026 Meet Lisa in Buffalo!
+Posted on October 5, 2026 Rep.
+Brittany Pettersen, CO CD7 Endorses Lisa Kinney for Congress Posted on October 5, 2026 4th Annual Buffalo Bash Posted on October 5, 2026 Lisa Kinney for Congress PO Box 1710 Laramie, WY 82073 RSS Feed Link Facebook Mail Paid for by Lisa Kinney Running For You Designed with Democracy in Mind

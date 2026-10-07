@@ -1,26 +1,126 @@
 [
-"http://facebook.com/lakeshawomack",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Mai+Vang+for+Congress+%28CA%29&dates=20260410T213000Z%2F20260410T233000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Montcross+Chamber+of+Commerce&dates=20261009T150000Z%2F20261009T220000Z",
-"http://instagram.com/lakeshawomack",
-"http://threads.com/@lakeshawomack",
-"http://twitter.com/lakeshawomack",
-"https://secure.actblue.com/donate/lakesha-womack",
-"https://tiktok.com/@lakeshaswomack",
-"https://womack4nc14.com/",
-"https://womack4nc14.com/bio",
-"https://womack4nc14.com/calendar",
-"https://womack4nc14.com/cart",
-"https://womack4nc14.com/contact",
-"https://womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca",
-"https://womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca?format=ical",
-"https://womack4nc14.com/events/montcross-chamber-of-commerce",
-"https://womack4nc14.com/events/montcross-chamber-of-commerce?format=ical",
-"https://womack4nc14.com/events?category=Gaston+County",
-"https://womack4nc14.com/give",
-"https://womack4nc14.com/issues",
-"https://womack4nc14.com/news-and-resources",
-"https://womack4nc14.com/privacy-policy",
-"https://womack4nc14.com/shop",
-"https://youtube.com/@LaKeshaWomack"
+{
+"text": "0",
+"href": "https://www.womack4nc14.com/cart"
+},
+{
+"text": "Calendar",
+"href": "https://www.womack4nc14.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://www.womack4nc14.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "Gaston County",
+"href": "https://www.womack4nc14.com/events?category=Gaston+County"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+and+Greet+with+Mai+Vang+for+Congress+%28CA%29&dates=20260410T213000Z%2F20260410T233000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montcross+Chamber+of+Commerce&dates=20261009T150000Z%2F20261009T220000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.womack4nc14.com/issues"
+},
+{
+"text": "Meet and Greet with Mai Vang for Congress (CA)",
+"href": "https://www.womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://www.womack4nc14.com/bio"
+},
+{
+"text": "Montcross Chamber of Commerce",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "News and Resources",
+"href": "https://www.womack4nc14.com/news-and-resources"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.womack4nc14.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://www.womack4nc14.com/shop"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca"
+},
+{
+"text": "View Event →",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "Ways to Give",
+"href": "https://www.womack4nc14.com/give"
+},
+{
+"text": "[image: LaKesha Womack for NC-14]",
+"href": "https://www.womack4nc14.com/"
+},
+{
+"text": "[image: Meet and Greet with Mai Vang for Congress (CA)]",
+"href": "https://www.womack4nc14.com/events/meet-and-greet-with-mai-vang-for-congress-ca"
+},
+{
+"text": "[image: Montcross Chamber of Commerce]",
+"href": "https://www.womack4nc14.com/events/montcross-chamber-of-commerce"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/lakesha-womack"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/lakeshawomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@lakeshaswomack"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LaKeshaWomack"
+},
+{
+"text": "[no text]",
+"href": "mailto:connect@womack4nc14.com"
+}
 ]

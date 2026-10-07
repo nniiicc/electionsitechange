@@ -1,38 +1,24 @@
-VOTING
-Election Day
-Tuesday, November 3, 2026, 7am-7pm
-Register to Vote
-You can register to vote online here until October 6.
-Afterwards, Same Day Registration (SDR) opens at all Early or Election Day voting locations.
+0 Skip to Content ABOUT ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE Open Menu Close Menu ABOUT ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE Open Menu Close Menu Folder: ABOUT Back ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE VOTING Election Day Tuesday, November 3, 2026, 7am-7pm Register to Vote You can register to vote online here until October 6.
+Afterwards, Same Day Registration (SDR) opens at all Early or Election D ay voting locations.
 Please bring proper ID to update your voter registration or to register to vote.
 Bring a photo ID and a current utility bill, bank statement, government check, paycheck, student identification card or other government document, including identification issued by an Indian nation, tribe or pueblo that shows your name and current address.
-Absentee Voting/Voting by Mail
-Tuesday, October 6—Tuesday, November 3
-You can request an absentee ballot now!
+Absentee Voting/Voting by Mail Tuesday, October 6—Tuesday, November 3 You can request an absentee ballot now!
 It is easy to request your absentee ballot online.
 Ballots will be mailed out beginning on October 6.
-On Tuesday, October 6, you can also vote In-Person (Absentee) at the Clerk’s Annex at 1500 Lomas Blvd NW, Suite A.
-You can track the status of your absentee ballot here.
+On Tuesday, October 6, you can also vote In-Person (Absentee) at the Clerk’s Annex at 1500 Lomas Blvd NW, Suite A .
+You can track the status of your absentee ballot here .
 October 20 is the deadline for the county clerk to receive an absentee-ballot application.
 Returning your absentee ballot is also easy.
-You can:
-- Return your ballot by mail, using the pre-paid return envelope.
-- Hand deliver your absentee ballot to any Early or Election Day polling site beginning October 17 through Election Day on November 3.
-- Drop off your absentee ballot at any of the six ballot drop-off locations in Bernalillo County, found here.
+You can: Return your ballot by mail, using the pre-paid return envelope.
+Hand deliver your absentee ballot to any Early or Election Day polling site beginning October 17 through Election Day on November 3.
+Drop off your absentee ballot at any of the six ballot drop-off locations in Bernalillo County, found here.
 All absentee ballots must be received by 7:00 p.m. on Election Day, Tuesday, November 3.
 Tuesday, October 27, 2026 is the last day we recommend mailing a ballot back to our office.
-Expanded Early Voting
-Saturday, October 17—Saturday, October 31
-There are 20 Early Voting Convenience Centers in Bernalillo Coun Thank You!.
+Expanded Early Voting Saturday, October 17—Saturday, October 31 There are 20 Early Voting Convenience Centers in Bernalillo Coun Thank You!.
 Early Voting centers are open from Monday through Saturday, 10am to 7pm.
 All Early Voting Locations can be found here.
-Early Voting Locations closest to House District 29 are:
-- Andalucia Shopping Center – 5600 Coors Blvd NW, Suite C-5, 87120
-- West Bluff Center – 5211 Ouray Rd NW, Suite B, 87120
-- 98th & Central Shopping Center – 120 98th St NW, Suite B101 & B102, 87121
-- Petroglyph Plaza – 8201 Golf Course Rd NW, Suite D-1, 87120
-Election Day
-Tuesday, November 3, 2026, 7am-7pm
-There are 72 Voting Locations in Bernalillo County.
-Election Day Voting Locations can be found here.
-Bernalillo County Clerk’s website is here.
+Early Voting Locations closest to House District 29 are: Andalucia Shopping Center – 5600 Coors Blvd NW, Suite C-5, 87120 West Bluff Center – 5211 Ouray Rd NW, Suite B, 87120 98th & Central Shopping Center – 120 98th St NW, Suite B101 & B102, 87121 Petroglyph Plaza – 8201 Golf Course Rd NW, Suite D-1, 87120 Election Day Tuesday, November 3, 2026, 7am-7pm There are 72 Voting Locations in Bernalillo County.
+Election Day Voting Locations can be found here .
+Bernalillo County Clerk’s website is here .
+CONTRIBUTE Paid for by the Committee to Elect Joy Garratt, Laurie Harris, Treasurer.
+Website | BGC

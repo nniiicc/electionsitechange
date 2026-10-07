@@ -1,29 +1,142 @@
 [
-"http://facebook.com/laurenboebert",
-"http://ratings.conservative.org/people/B000825",
-"http://twitter.com/laurenboebert",
-"https://clubforgrowth.org/scorecards/legislator/B000825/Lauren-Boebert",
-"https://grades.numbersusa.com/gradecard/20392/118",
-"https://gunowners.org/grades",
-"https://heritageaction.com/scorecard/members/B000825",
-"https://instagram.com/laurenboebert",
-"https://laurenforcolorado.com/",
-"https://laurenforcolorado.com/about",
-"https://laurenforcolorado.com/accomplishments",
-"https://laurenforcolorado.com/contact",
-"https://laurenforcolorado.com/donate",
-"https://laurenforcolorado.com/download/lauren_boebert_contract.pdf",
-"https://laurenforcolorado.com/endorsements",
-"https://laurenforcolorado.com/get-involved",
-"https://laurenforcolorado.com/media",
-"https://laurenforcolorado.com/news",
-"https://laurenforcolorado.com/pages/privacy",
-"https://laurenforcolorado.com/vote",
-"https://libertyscore.conservativereview.com/lauren-boebert",
-"https://ogwausa.com/endorsements",
-"https://sbaprolife.org/representative/lauren-boebert",
-"https://secure.winred.com/lauren-boebert-for-congress/storefront",
-"https://tpaction.com/legislators/laurenboebert",
-"https://txtterms.co/80306",
-"https://youtube.com/@laurenforfreedom3084"
+{
+"text": "About",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "About Lauren",
+"href": "https://laurenforcolorado.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://laurenforcolorado.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://laurenforcolorado.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://laurenforcolorado.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://laurenforcolorado.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/laurenboebert"
+},
+{
+"text": "Get Involved",
+"href": "https://laurenforcolorado.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/laurenboebert/"
+},
+{
+"text": "Media",
+"href": "https://laurenforcolorado.com/media/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://laurenforcolorado.com/news/"
+},
+{
+"text": "Pledge",
+"href": "https://laurenforcolorado.com/download/lauren_boebert_contract.pdf"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://txtterms.co/80306"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/laurenboebert"
+},
+{
+"text": "Vote",
+"href": "https://laurenforcolorado.com/vote"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@laurenforfreedom3084"
+},
+{
+"text": "[image: CPAC Score]",
+"href": "http://ratings.conservative.org/people/B000825"
+},
+{
+"text": "[image: Club for Growth]",
+"href": "https://www.clubforgrowth.org/scorecards/legislator/B000825/Lauren-Boebert"
+},
+{
+"text": "[image: Conservative Review Liberty Score]",
+"href": "https://heritageaction.com/scorecard/members/B000825"
+},
+{
+"text": "[image: Conservative Review Liberty Score]",
+"href": "https://libertyscore.conservativereview.com/lauren-boebert"
+},
+{
+"text": "[image: Gun Owners of America Score]",
+"href": "https://www.gunowners.org/grades/"
+},
+{
+"text": "[image: Lauren Boebert Logo]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[image: Numbers USA Score]",
+"href": "https://grades.numbersusa.com/gradecard/20392/118/"
+},
+{
+"text": "[image: Oil & Gas Workers Association]",
+"href": "https://www.ogwausa.com/endorsements"
+},
+{
+"text": "[image: Susan B. Anthony Pro-Life America]",
+"href": "https://sbaprolife.org/representative/lauren-boebert"
+},
+{
+"text": "[image: Text JOIN to 80306]",
+"href": "sms:+80306"
+},
+{
+"text": "[image: Turning Point Action]",
+"href": "https://www.tpaction.com/legislators/laurenboebert"
+},
+{
+"text": "[no text]",
+"href": "https://laurenforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "javascript:;"
+},
+{
+"text": "info@laurenforcolorado.com",
+"href": "mailto:info@laurenforcolorado.com"
+},
+{
+"text": "privacy policy",
+"href": "https://laurenforcolorado.com/pages/privacy"
+},
+{
+"text": "store",
+"href": "https://secure.winred.com/lauren-boebert-for-congress/storefront/"
+},
+{
+"text": "terms",
+"href": "https://txtterms.co/80306"
+}
 ]

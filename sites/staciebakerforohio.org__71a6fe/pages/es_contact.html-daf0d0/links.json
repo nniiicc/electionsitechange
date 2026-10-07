@@ -1,8 +1,34 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/contact.html",
-"https://staciebakerforohio.org/es/contact.html",
-"https://staciebakerforohio.org/ne/contact.html",
-"https://staciebakerforohio.org/so/contact.html"
+{
+"text": "(614) 926-0069",
+"href": "tel:+16149260069"
+},
+{
+"text": "ActBlue: Citizens for Baker 2026",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "EN",
+"href": "https://www.staciebakerforohio.org/contact.html"
+},
+{
+"text": "ES",
+"href": "https://www.staciebakerforohio.org/es/contact.html"
+},
+{
+"text": "NE",
+"href": "https://www.staciebakerforohio.org/ne/contact.html"
+},
+{
+"text": "SO",
+"href": "https://www.staciebakerforohio.org/so/contact.html"
+},
+{
+"text": "citizensforstaciebaker@gmail.com",
+"href": "mailto:citizensforstaciebaker@gmail.com"
+},
+{
+"text": "staciebakerforohio.org",
+"href": "https://staciebakerforohio.org"
+}
 ]

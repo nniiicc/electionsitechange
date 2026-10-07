@@ -1,7 +1,12 @@
 {
  "description": "scholarly articles and books supporting monetary reform",
  "final_url": "https://www.kmm2026.org/monetary",
- "paid_for_by": null,
+ "fingerprint": "374e5906b676a5380918f2a508ee2d7ff6878f6f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Monetary",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2026"
+ ]
 }

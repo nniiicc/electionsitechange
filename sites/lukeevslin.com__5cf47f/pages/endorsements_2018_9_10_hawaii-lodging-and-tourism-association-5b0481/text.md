@@ -1,6 +1,4 @@
-Hawai'i Lodging and Tourism Association
-“I’m honored by the endorsement of the HLTA and I strongly support the tourism industry as the backbone of our economy.
+Home About Luke Blog Issues Contribute Home About Luke Blog Issues Contribute Luke Evslin for Hawai'i State House Hawai'i Lodging and Tourism Association “I’m honored by the endorsement of the HLTA and I strongly support the tourism industry as the backbone of our economy.
 But, I also recognize that we are beyond our island’s limit for tourists which is contributing to a declining quality of life for both residents and visitors.
 In order to support a thriving tourism industry on Kaua’i, we need to do a better job of managing the tourists we have rather than marketing to new ones.
-As a candidate for Kaua’i County Council, I understand this delicate balance and I am committed to working with the hospitality industry to achieve it.”
-- Luke
+As a candidate for Kaua’i County Council, I understand this delicate balance and I am committed to working with the hospitality industry to achieve it.” - Luke Luke Evslin September 10, 2018 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Next Hawai'i Government Employees Association Luke Evslin June 17, 2018 Instagram Twitter Facebook Friends of Luke Evslin PO Box 662074 Lihuʻe, HI 96766 Luke@LukeEvslin.com

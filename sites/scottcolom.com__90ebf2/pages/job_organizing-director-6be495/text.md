@@ -1,22 +1,20 @@
-Organizing Directors will be critical to developing and implementing volunteer recruitment and voter contact programs that win close elections.
+Skip to content The Latest Endorsements Store Volunteer Voting Information The Latest Endorsements Store Volunteer Voting Information Facebook X-twitter Instagram Tiktok Donate Organizing Director Organizing Directors will be critical to developing and implementing volunteer recruitment and voter contact programs that win close elections.
 They will hire, develop, and manage Organizing teams on state-coordinated campaigns.
 Organizing Directors should be resilient leaders and creative thinkers who can hold themselves and teams accountable to ambitious goals.
 Organizing Directors will be senior-level staff on the coordinated campaign and will work closely with other departments to implement programming to elect Democrats up and down the ballot.
-Duties and Responsibilities:
-- Develop and implement statewide organizing program, including programs related to staff development, volunteer recruitment, and voter contact
-- Hire and oversee all Organizing department staff, including Deputy Organizing Directors, Regional Organizing Directors, and Organizers
-- Work closely with Political Director on events
-- Create systems and communications structures that provide clear direction and motivate teams to achieve ambitious volunteer and voter contact goals in difficult circumstances
-- Oversee a training program that boosts staff productivity and develops volunteers’ skills
-- Collaborate with Operations and Political departments
-Required Skills, Abilities, and Experience:
-- At least 3+ cycles of organizing experience, with a strong preference for at least 2 cycles of experience in either a Deputy or Director role on a statewide electoral organizing program
-- Experience managing staff through multiple layers, including unionized staff, is required
-- Excellent verbal, written, and interpersonal communication skills; especially as applied to building a strong, inclusive management culture that supports staff development
-- Proven fluency with VAN and other organizing tools
-- Attention to detail, highly-developed organizational skills, and the ability to collaborate with stakeholders across all levels of our organization
-To Apply
-Interested applicants should send a resume to [email protected] with “Organizing Director” in the subject line.
+Duties and Responsibilities: Develop and implement statewide organizing program, including programs related to staff development, volunteer recruitment, and voter contact Hire and oversee all Organizing department staff, including Deputy Organizing Directors, Regional Organizing Directors, and Organizers Work closely with Political Director on events Create systems and communications structures that provide clear direction and motivate teams to achieve ambitious volunteer and voter contact goals in difficult circumstances Oversee a training program that boosts staff productivity and develops volunteers’ skills Collaborate with Operations and Political departments Required Skills, Abilities, and Experience: At least 3+ cycles of organizing experience, with a strong preference for at least 2 cycles of experience in either a Deputy or Director role on a statewide electoral organizing program Experience managing staff through multiple layers, including unionized staff, is required Excellent verbal, written, and interpersonal communication skills; especially as applied to building a strong, inclusive management culture that supports staff development Proven fluency with VAN and other organizing tools Attention to detail, highly-developed organizational skills, and the ability to collaborate with stakeholders across all levels of our organization To Apply Interested applicants should send a resume to [email protected] with “Organizing Director” in the subject line.
 Interviews will be conducted on a rolling basis and interested candidates are encouraged to apply ASAP.
 Scott Colom for Senate is an equal opportunity employer and committed to diversity, equity, and inclusion among its staff.
 We strongly encourage candidates from diverse backgrounds to apply and will hire based on qualifications of the candidate without regard to race, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, age, sexual orientation, and military or veteran status.
+Let's Go!
+Sign Up To Join The Team Email Cell Phone Zip Code Sign Up By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. or chip in $ 17 text Scott to 54937 Scott Colom is a seventh-generation Mississippian, proud husband and father of two, and district attorney who fights every day to keep Mississippians safe.
+Now, he’s running to serve in the United States Senate in the November 2026 election.
+Support his campaign by making a contribution or signing up to volunteer .
+Facebook X-twitter Instagram Tiktok Contributions can be mailed to: Scott Colom for Senate PO Box 112, Columbus, MS 39703 Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Endorsements The Latest Jobs Terms of Service Privacy Policy Volunteer Contact Us Press Inquiries Media Paid for by Scott Colom for Senate By providing your cell phone number you consent to receive recurring updates from Scott Colom for Senate, including by automated text message.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Privacy policy. © Copyright # Scott Colom for Senate.
+All Rights Reserved.

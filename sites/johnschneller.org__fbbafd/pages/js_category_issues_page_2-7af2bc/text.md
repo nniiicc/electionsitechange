@@ -1,17 +1,16 @@
-Mar 31, 2026
-On March 5, New Hampshire Republicans brought forward a constitutional amendment that would have permanently banned a state income tax.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Income Tax Vote Exposes Clear Divide in Concord Mar 31, 2026 On March 5, New Hampshire Republicans brought forward a constitutional amendment that would have permanently banned a state income tax.
 While we may disagree on many issues, both big and small, no greater distinction exists between the representatives you send to...
-Feb 25, 2026
-The insanity of addition by subtraction.
+Cuba Becomes the First Country to Reach Net Zero.
+Shouldn’t We Be Celebrating?
+Feb 25, 2026 The insanity of addition by subtraction.
 Cuba is the first nation to miraculously achieve carbon neutrality under a Totalitarian regime.
 In true Swiftonian fashion, the “Modest Proposal” of Net Zero emissions is demonstrably achievable simply by destroying...
-Oct 9, 2025
-This op-ed by John Schneller appeared in the Union Leader on October 9, 2025 CANDIDATES running to represent New Hampshire’s 1st Congressional District — where winters are dangerously cold, summers excessively hot and monthly energy prices skyrocket ever higher — have...
-Jul 3, 2025
-NH House Republicans voted to end mandatory vehicle inspections, demanding that you personally maintain responsibility for your vehicle while allowing YOU to retain more of YOUR hard earned income.
+Jones Act Change Can Lower Energy Costs in NH Oct 9, 2025 This op-ed by John Schneller appeared in the Union Leader on October 9, 2025 CANDIDATES running to represent New Hampshire’s 1st Congressional District — where winters are dangerously cold, summers excessively hot and monthly energy prices skyrocket ever higher — have...
+NH Legislature Votes to End Vehicle Inspections Jul 3, 2025 NH House Republicans voted to end mandatory vehicle inspections, demanding that you personally maintain responsibility for your vehicle while allowing YOU to retain more of YOUR hard earned income.
 The number of states requiring safety inspections has dropped...
-Apr 1, 2025
-Commentary on article by Representative Schneller: The article below neglects to point out that House Science Technology and Energy Committee (Of which I am a member) Chairman, Michael Vose, has guided Committee and full House efforts to bring Nuclear options to the...
-Dec 17, 2024
-Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
-Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which...
+As Offshore Wind Struggles, is Advanced Nuclear a Viable Plan B for Eastern States?
+Apr 1, 2025 Commentary on article by Representative Schneller: The article below neglects to point out that House Science Technology and Energy Committee (Of which I am a member) Chairman, Michael Vose, has guided Committee and full House efforts to bring Nuclear options to the...
+Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
+Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which... « Older Entries Next Entries » SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

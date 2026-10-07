@@ -1,13 +1,15 @@
-Proudly Endorsed By
-King County GOP
-Snohomish County GOP
-I believe the American Dream is still alive, but it’s getting harder to reach.
+Donate to the campaign today!
+Home Vision & Priorities Volunteer & Contact Home Vision & Priorities Volunteer & Contact Donate Donate Vote Spencer Meline for U.S.
+Congress Together, we can keep the American Dream within reach for working families.
+Support THE CAMPAIGN Support the Campaign 0 1 2 3 4 5 1 2 3 4 0 1 2 1 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 , 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 + Active voters Donate Today: $50 $50 $100 $100 $500 $500 $1,000 $1,000 Custom Custom Proudly Endorsed By Washington State Republican Party Vision & Priorities I believe the American Dream is still alive, but it’s getting harder to reach.
 America is built on innovation, forward-thinking leadership, and the dignity of hard work.
 That dream has always defined our country.
 I’m running for Congress to ensure the next generation has the same chance to build a meaningful life.
+Government That Actually Works Main Street Economy & American Jobs Housing & the Cost of Living Wildfire Defense, Forest Health & Natural Resources Healthcare That Works for Patients Education, Skills & Opportunity Technology, AI & America’s Future Build the Family.
+Build the Future.
 Build the Family.
 Build the Future.
-Spencer Meline is a small business owner, husband, and father of four who was born and raised in Washington.
+About spencer Spencer Meline is a small business owner, husband, and father of four who was born and raised in Washington.
 He built his businesses from the ground up, gaining firsthand experience managing payroll, navigating regulations, and leading teams through growth and uncertainty.
 That experience shaped his understanding of how federal policy affects real employers, workers, and families.
 Spencer supports parental rights with parents playing a meaningful role in education.
@@ -21,8 +23,16 @@ Nunc lacinia, dui vitae blandit dignissim, urna ex consequat metus, in venenatis
 Suspendisse eu neque felis.
 Sed euismod, urna sed hendrerit feugiat, lorem lacus porta arcu, in ultrices felis risus in enim.
 Donec faucibus sapien eu dictum consequat.
-Quisque et leo viverra, venenatis enim vitae, bibendum orci."
-Gregory Leon
-COPYWRITER
-Susan Parshall
-Donald Abbott
+Quisque et leo viverra, venenatis enim vitae, bibendum orci." Gregory Leon COPYWRITER "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nunc lacinia, dui vitae blandit dignissim, urna ex consequat metus, in venenatis tellus lacus sit amet dolor.
+Suspendisse eu neque felis.
+Sed euismod, urna sed hendrerit feugiat, lorem lacus porta arcu, in ultrices felis risus in enim.
+Donec faucibus sapien eu dictum consequat.
+Quisque et leo viverra, venenatis enim vitae, bibendum orci." Susan Parshall COPYWRITER "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nunc lacinia, dui vitae blandit dignissim, urna ex consequat metus, in venenatis tellus lacus sit amet dolor.
+Suspendisse eu neque felis.
+Sed euismod, urna sed hendrerit feugiat, lorem lacus porta arcu, in ultrices felis risus in enim.
+Donec faucibus sapien eu dictum consequat.
+Quisque et leo viverra, venenatis enim vitae, bibendum orci." Donald Abbott COPYWRITER Help Spencer Restore the American Dream Your contribution helps fight for affordability, safe communities, and economic opportunity.
+Contribute to the Campaign Contribute to the Campaign Get Involved with Spencer's Campaign. donate now donate now Home Vision & Priorities Volunteer & Contact Paid for by Friends of Spencer Meline.
+Privacy Policy.

@@ -1,18 +1,74 @@
 [
-"http://linkedin.com/in/tonyjscott",
-"http://tonyscottforstaterep.com/",
-"http://tonyscottforstaterep.com/contact",
-"http://tonyscottforstaterep.com/home",
-"http://tonyscottforstaterep.com/issues",
-"http://tonyscottforstaterep.com/meet_tony",
-"http://tonyscottforstaterep.com/press-releases",
-"http://tonyscottforstaterep.com/view-endorsements",
-"http://tonyscottforstaterep.com/volunteer",
-"http://tonyscottforstaterep.com/vote",
-"https://campaignpartner.com/",
-"https://facebook.com/TonyScottforStateRep",
-"https://npr.org/2023/03/30/1166970506/tax-burden-by-state-income-property-sales",
-"https://themonroesun.com/monroe-legislators-take-on-fraud-homelessness-domestic-violence-support-veterans-first-responders",
-"https://themonroesun.com/state-rep-tony-scott-outlines-2026-legislative-priorities",
-"https://themonroesun.com/tony-scott-announces-campaign-for-reelection-to-the-connecticut-state-house"
+{
+"text": "Contact",
+"href": "http://www.tonyscottforstaterep.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "http://www.tonyscottforstaterep.com/view-endorsements"
+},
+{
+"text": "HELP CAMPAIGN",
+"href": "http://www.tonyscottforstaterep.com/volunteer"
+},
+{
+"text": "Home",
+"href": "http://www.tonyscottforstaterep.com/home"
+},
+{
+"text": "Issues",
+"href": "http://www.tonyscottforstaterep.com/issues"
+},
+{
+"text": "Meet Tony",
+"href": "http://www.tonyscottforstaterep.com/meet_tony"
+},
+{
+"text": "Monroe legislators take on fraud, homelessness, domestic violence, support veterans, first responders",
+"href": "https://themonroesun.com/monroe-legislators-take-on-fraud-homelessness-domestic-violence-support-veterans-first-responders/"
+},
+{
+"text": "NPR reported earlier this year",
+"href": "https://www.npr.org/2023/03/30/1166970506/tax-burden-by-state-income-property-sales"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Press Releases",
+"href": "http://www.tonyscottforstaterep.com/press-releases"
+},
+{
+"text": "Request a Sign",
+"href": "http://www.tonyscottforstaterep.com/volunteer"
+},
+{
+"text": "State Rep. Tony Scott outlines 2026 legislative priorities",
+"href": "https://themonroesun.com/state-rep-tony-scott-outlines-2026-legislative-priorities/"
+},
+{
+"text": "Tony Scott announces campaign for reelection to the Connecticut State House",
+"href": "https://themonroesun.com/tony-scott-announces-campaign-for-reelection-to-the-connecticut-state-house/"
+},
+{
+"text": "VOTING INFO",
+"href": "http://www.tonyscottforstaterep.com/vote"
+},
+{
+"text": "Voter Information",
+"href": "http://www.tonyscottforstaterep.com/vote"
+},
+{
+"text": "[image]",
+"href": "http://www.tonyscottforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/in/tonyjscott"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TonyScottforStateRep/"
+}
 ]

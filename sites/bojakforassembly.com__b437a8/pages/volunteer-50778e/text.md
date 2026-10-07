@@ -1,4 +1,5 @@
-Let’s Win Together.
-Our volunteers are the heart of our campaign—talking to neighbors all over the district about their needs, and how Adam will fight for all of us in elected office.
+0 Skip to Content MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Open Menu Close Menu MEET ADAM VOLUNTEER PLATFORM ENDORSEMENTS EVENTS NEWS DONATE Let’s Win Together.
+Our volunteers are the heart of our campaign —talking to neighbors all over the district about their needs, and how Adam will fight for all of us in elected office.
 Join us at any of our canvasses to connect with our neighbors and build the political movement working people deserve.
-Weekly Events
+Weekly Events Sunday All-District Canvasses Join us on non-Bills game Sundays as we canvass voters across the 149th District! 🕙 Sundays: 1 to 3 p.m. 📍 RSVP for Location RSVP: Sundays Monday Buffalo Canvasses Join us Monday afternoons as we canvass voters throughout the City of Buffalo. 🕙 Mondays, 4:30 to 7 p.m. 📍 RSVP for Location RSVP: Mondays Tuesday Hamburg Canvasses Join us Tuesday afternoons as we canvass voters in Hamburg, Lake View, and Blasdell. 🕙 Tuesdays, 4:30 to 7 p.m. 📍 RSVP for Location RSVP: Tuesdays Friday All-District Canvasses Join us Friday afternoons as we canvass for Adam across te 149th District. 🕙 Fridays: 4:30 to 7 p.m. 📍 RSVP for Location RSVP: FRIDAYS Saturday Buffalo Canvasses Join us on Saturdays as we canvass voters across the West Side, Allentown, and Elmwood Village.
+RSVP: Saturdays PAID FOR BY FRIENDS OF ADAM BOJAK info@bojakforassembly.com Privacy Policy

@@ -1,18 +1,86 @@
 [
-"https://facebook.com/whisler4carroll",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260421T190000%2F20260421T220000&text=Carroll+Republican+Victory+Meeting&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwhisler4delegate.com",
-"https://maps.google.com/maps?f=q&hl=en&q=4+W+Main+St+Westminster+MD+21157+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-04-21T19%3A00%3A00-04%3A00&enddt=2026-04-21T22%3A00%3A00-04%3A00&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&subject=Carroll+Republican+Victory+Meeting",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-04-21T19%3A00%3A00-04%3A00&enddt=2026-04-21T22%3A00%3A00-04%3A00&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&subject=Carroll+Republican+Victory+Meeting",
-"https://secure.winred.com/stevewhisler/donate-today",
-"https://technolegs.com/",
-"https://whisler4delegate.com/",
-"https://whisler4delegate.com/about-steve-whisler",
-"https://whisler4delegate.com/endorsements",
-"https://whisler4delegate.com/event/island-green",
-"https://whisler4delegate.com/event/north-carroll-business-alliance-2",
-"https://whisler4delegate.com/events",
-"https://whisler4delegate.com/press-and-news",
-"https://whisler4delegate.com/privacy-policy",
-"https://whisler4delegate.com/terms-of-service"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=4+W+Main+St+Westminster+MD+21157+United+States"
+},
+{
+"text": "410.963.7066",
+"href": "tel:4109637066"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevewhisler/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://whisler4delegate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260421T190000%2F20260421T220000&text=Carroll+Republican+Victory+Meeting&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Fwhisler4delegate.com"
+},
+{
+"text": "Home",
+"href": "https://whisler4delegate.com/"
+},
+{
+"text": "Island Green »",
+"href": "https://whisler4delegate.com/event/island-green/"
+},
+{
+"text": "Join Us On Social Media",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T22%3A00%3A00-04%3A00&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&subject=Carroll+Republican+Victory+Meeting&body="
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T19%3A00%3A00-04%3A00&enddt=%23T22%3A00%3A00-04%3A00&location=Johansson%E2%80%99s+Dining+House%2C+4+W+Main+St%2C+Westminster%2C+MD%2C+21157%2C+United+States&subject=Carroll+Republican+Victory+Meeting&body="
+},
+{
+"text": "Press and News",
+"href": "https://whisler4delegate.com/press-and-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whisler4delegate.com/privacy-policy/"
+},
+{
+"text": "Steve",
+"href": "https://whisler4delegate.com/about-steve-whisler/"
+},
+{
+"text": "Terms of Service",
+"href": "https://whisler4delegate.com/terms-of-service/"
+},
+{
+"text": "Website Design and Hosting by Technolegs",
+"href": "https://technolegs.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "iCalendar",
+"href": "webcal://whisler4delegate.com/event/carroll-republican-victory-meeting/?ical=1"
+},
+{
+"text": "steve@Whisler4Carroll.com",
+"href": "mailto:steve@Whisler4Carroll.com"
+},
+{
+"text": "« All Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "« North Carroll Business Alliance",
+"href": "https://whisler4delegate.com/event/north-carroll-business-alliance-2/"
+}
 ]

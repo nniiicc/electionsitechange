@@ -1,14 +1,66 @@
 [
-"https://brandenforthepeople.com/",
-"https://brandenforthepeople.com/about",
-"https://brandenforthepeople.com/contact",
-"https://brandenforthepeople.com/platform",
-"https://brandenforthepeople.com/press",
-"https://brandenforthepeople.com/store",
-"https://ivote.de.gov/VoterView",
-"https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1",
-"https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=10",
-"https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=100",
-"https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=25",
-"https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=50"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1?amount=50"
+},
+{
+"text": "About",
+"href": "https://brandenforthepeople.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1"
+},
+{
+"text": "Find your polling place →",
+"href": "https://ivote.de.gov/VoterView"
+},
+{
+"text": "Get Involved",
+"href": "https://brandenforthepeople.com/contact"
+},
+{
+"text": "Home",
+"href": "https://brandenforthepeople.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/committee-to-elect-branden-fletcher-1"
+},
+{
+"text": "Platform",
+"href": "https://brandenforthepeople.com/platform"
+},
+{
+"text": "Press",
+"href": "https://brandenforthepeople.com/press"
+},
+{
+"text": "See ways to help",
+"href": "https://brandenforthepeople.com/contact"
+},
+{
+"text": "Store",
+"href": "https://brandenforthepeople.com/store"
+},
+{
+"text": "[image: Branden Fletcher Dominguez - Democrat for State Representative]",
+"href": "https://brandenforthepeople.com/"
+},
+{
+"text": "info@brandenforthepeople.com",
+"href": "mailto:info@brandenforthepeople.com"
+}
 ]

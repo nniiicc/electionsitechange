@@ -1,7 +1,11 @@
 {
- "description": "Today Susan B. Anthony List Candidate Fund announced its endorsement of U.S. Representative Virginia Foxx for re-election in North Carolina\u2019s 5th Congressional District.",
+ "description": "Today Susan B. Anthony List Candidate Fund announced its endorsement of U.S. Representative Virginia Foxx for re-election in North Carolina’s 5th Congressional District.",
  "final_url": "https://virginiafoxx.com/2020/10/15/foxx-endorsed-by-sba-list/",
+ "fingerprint": "df5e74a060a3ce894228bedfca6b0a257d2f5e82",
+ "format": 3,
  "paid_for_by": "Paid for by Virginia Foxx for Congress",
  "title": "Foxx Endorsed by SBA List - Virginia Foxx",
- "years_mentioned": []
+ "years_mentioned": [
+  "2004"
+ ]
 }

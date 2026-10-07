@@ -1,37 +1,18 @@
-June 3, 2025
-FOR IMMEDIATE RELEASE
-Contact: Chris Jonsmyr
-(619) 800-2080
-Legislation to Advance the Chula Vista University Unanimously Passes out of the Assembly
-Assemblymember David Alvarez (D-San Diego) announced that Assembly Bill 622 – The Chula Vista University Act – passed out of the State Assembly with bi-partisan support.
+About Media Press Releases News Articles Memos OPPORTUNITY EDU DREAMING BIG | WORKING HARD Donate press release Legislation to Advance the Chula Vista University Unanimously Passes out of the Assembly - 06/03/25 June 3, 2025 FOR IMMEDIATE RELEASE June 3, 2025 Contact: Chris Jonsmyr (619) 800-2080 Chris.jonsmyr@asm.ca.gov Legislation to Advance the Chula Vista University Unanimously Passes out of the Assembly Assemblymember David Alvarez (D-San Diego) announced that Assembly Bill 622 – The Chula Vista University Act – passed out of the State Assembly with bi-partisan support.
 AB 662 establishes the South County Higher Education Task Force—a collaborative body that will bring together representatives from the three higher education institutions, the City of Chula Vista, and other stakeholders to evaluate the governance models, funding mechanisms, and statutory changes required to create a university.
 “AB 662 seeks to address long-standing educational inequities in South San Diego County by exploring the creation of a mixed-use intersegmental institution of higher education in the City of Chula Vista,” said Assemblymember Alvarez.
 “For too long, the absence of a nearby four-year public institution has limited educational and economic opportunities for the families and students of South San Diego County.
-Together, we are writing a new chapter for higher education in the South Bay—one that is more inclusive, localized, and visionary.”
-Chula Vista is the second-largest city in San Diego County, with a population exceeding 250,000, and the largest city in California without a public university offering baccalaureate degree programs.
-Nearly 600,000 residents in South County are without this access, an area that is commonly referred to as a “college desert.”
-To address this disparity, the City of Chula Vista has taken proactive steps by initiating the development of a University Innovation District on over 383 acres of city-owned land.
+Together, we are writing a new chapter for higher education in the South Bay—one that is more inclusive, localized, and visionary.” Chula Vista is the second-largest city in San Diego County, with a population exceeding 250,000, and the largest city in California without a public university offering baccalaureate degree programs.
+Nearly 600,000 residents in South County are without this access, an area that is commonly referred to as a “college desert.” To address this disparity, the City of Chula Vista has taken proactive steps by initiating the development of a University Innovation District on over 383 acres of city-owned land.
 This ambitious project envisions a bi-national, multi-institutional hub for higher education and innovation that includes collaboration with the University of California (UC), California State University (CSU), and California Community Colleges (CCC) systems.
 The goal is to streamline educational pathways and align programs with regional workforce needs.
 “The City of Chula Vista is grateful for Assemblymember Alvarez and the Assembly Higher Education Committee for supporting our vision to bring higher education opportunities to the City and the region,” said Chula Vista Mayor John McCann.
-“AB 662 will continue the planning and research necessary to implement the University-Innovation District on 383-acres of City-owned land.”
-The South County Higher Education Task Force will be responsible for:
-- Evaluating cross-sector collaboration and governance frameworks;
-- Identifying new and existing funding sources for construction and operations;
-- Recommending legislative solutions to remove barriers to institutional innovation; and
-- Submitting a comprehensive report with findings and recommendations to the Legislature by July 1, 2027.
+“AB 662 will continue the planning and research necessary to implement the University-Innovation District on 383-acres of City-owned land.” The South County Higher Education Task Force will be responsible for: Evaluating cross-sector collaboration and governance frameworks; Identifying new and existing funding sources for construction and operations; Recommending legislative solutions to remove barriers to institutional innovation; and Submitting a comprehensive report with findings and recommendations to the Legislature by July 1, 2027.
 "Southwestern College welcomes AB 662 as a vital step in expanding higher education access in our region,” said Dr.
 Mark Sanchez, Superintendent/President of Southwestern Community College District.
 “Our partnership in this effort reflects our shared commitment to investing in our local talent pool by creating educational-training opportunities that meet local workforce needs thereby promoting regional economic growth.
-We look forward to working with all our legislative, city, educational, economic, and business partners to realize this vision for South San Diego."
-AB 662 now moves to the State Senate for consideration.
-Assembly Bill 655 Passes Senate Committee with Strong Support for Increased Border Representation
-June 9, 2025
-Assemblymember Alvarez’s AB 357 & AB 610, Bills to Expedite the Construction of Affordable Housing Pass the Assembly
-June 6, 2025
-NEWSLETTER
-Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
-Thank you!
+We look forward to working with all our legislative, city, educational, economic, and business partners to realize this vision for South San Diego." AB 662 now moves to the State Senate for consideration. ‍ more press releases Assembly Bill 655 Passes Senate Committee with Strong Support for Increased Border Representation June 9, 2025 Assemblymember Alvarez’s AB 357 & AB 610, Bills to Expedite the Construction of Affordable Housing Pass the Assembly June 6, 2025 AB 30, to Authorize Sale of Cleaner, Cheaper E15 Gasoline Fuel Blend Passes the Assembly June 4, 2025 Legislation to Advance the Chula Vista University Unanimously Passes out of the Assembly - 06/03/25 June 3, 2025 VIEW MORE NEWSLETTER SIGN UP TO STAY UPDATED Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+FIRST NAME LAST NAME ZIP CODE EMAIL ADDRESS PHONE Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
@@ -40,4 +21,4 @@ Msg & data rates may apply.
 Msg frequency varies.
 Unsubscribe at any time by replying STOP.
 Reply HELP for help.
-Privacy Policy&Terms
+Privacy Policy & Terms For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

@@ -1,2 +1,3 @@
-Red wave or blue wall in WA?
-In Seattle suburbs, this race could be ‘real bellwether’ Jul 15 Written By Upper Left Strategies Daniel Beekman SEATTLE TIMES Upper Left Strategies https://upperleftstrategies.com
+0 Skip to Content About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Get Involved Volunteer Contact Us Donate Open Menu Close Menu About Claudia Accomplishments Platform Endorsements News Media Folder: Get Involved Back Volunteer Contact Us Donate Red wave or blue wall in WA?
+In Seattle suburbs, this race could be ‘real bellwether’ Jul 15 Written By Upper Left Strategies Daniel Beekman SEATTLE TIMES Upper Left Strategies https://upperleftstrategies.com Previous Previous Democrats fight to defend the suburbs Next Next Races to watch in the Washington Legislature this year Paid for by People for Claudia Kauffman (D) P.O.
+Box 22169 Seattle, WA 98122

@@ -1,8 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61583371081908",
-"https://instagram.com/newton.for.all",
-"https://jettnewton.org/about-me",
-"https://jettnewton.org/home",
-"https://jettnewton.org/the-agenda",
-"https://jettnewton.org/the-math"
+{
+"text": "About Me",
+"href": "https://jettnewton.org/about-me"
+},
+{
+"text": "Home",
+"href": "https://jettnewton.org/home"
+},
+{
+"text": "The Agenda",
+"href": "https://jettnewton.org/the-agenda"
+},
+{
+"text": "The Math",
+"href": "https://jettnewton.org/the-math"
+},
+{
+"text": "[no text]",
+"href": "https://jettnewton.org/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61583371081908"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/newton.for.all/"
+}
 ]

@@ -1,9 +1,6 @@
-Nonprofit Audit and Review Thresholds
-Bill Name
-Nonprofit Audit and Review Thresholds
-Bill Number
-HB 483
-Year
-2026
-Priority Areas: Economic Development
-HB 483: This bill inflation adjusts income thresholds that compel a charitable organization in the State to complete a CPA financial review or audit and brings the threshold to more closely align with neighboring states.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Nonprofit Audit and Review Thresholds Bill Name Nonprofit Audit and Review Thresholds Bill Number HB 483 Year 2026 Priority Areas: Economic Development Learn More HB 483: This bill inflation adjusts income thresholds that compel a charitable organization in the State to complete a CPA financial review or audit and brings the threshold to more closely align with neighboring states.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

@@ -1,8 +1,7 @@
-A Florida for everyone.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT A Florida for everyone.
 Our strength has never come from pushing people out.
 It has always come from bringing people in.
-Culture Wars
-Florida works best when everyone belongs.
+Culture Wars Florida works best when everyone belongs.
 Florida has always been a place where people come to build something better.
 Different backgrounds.
 Different stories.
@@ -29,7 +28,8 @@ Because when people feel like they belong, they invest.
 They contribute.
 They help build something bigger than themselves.
 That's the Florida we're fighting for.
-As Governor: Immigration
-Be part of building a Florida for everyone.
+As Governor: Immigration Be part of building a Florida for everyone.
 Join the campaign to create communities where everyone belongs.
-Get involved
+Get involved About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

@@ -1,10 +1,46 @@
 [
-"https://alexishansennv.com/",
-"https://alexishansennv.com/about-alexis",
-"https://alexishansennv.com/endorsments",
-"https://alexishansennv.com/issues",
-"https://alexishansennv.com/meet-the-family",
-"https://facebook.com/alexislloyd.hansen",
-"https://secure.winred.com/committee-to-elect-alexis-hansen/donate-today",
-"https://twitter.com/@alexishansenNV"
+{
+"text": "ABOUT ALEXIS",
+"href": "https://www.alexishansennv.com/about-alexis"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-alexis-hansen/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.alexishansennv.com/endorsments"
+},
+{
+"text": "HOME",
+"href": "https://www.alexishansennv.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.alexishansennv.com/issues"
+},
+{
+"text": "Learn more about key issues here",
+"href": "https://www.alexishansennv.com/issues"
+},
+{
+"text": "MEET THE FAMILY",
+"href": "https://www.alexishansennv.com/meet-the-family"
+},
+{
+"text": "[image: LOGO.png]",
+"href": "https://www.alexishansennv.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/@alexishansenNV"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/alexislloyd.hansen"
+},
+{
+"text": "alexishansenNV@gmail.com",
+"href": "mailto:alexishansenNV@gmail.com"
+}
 ]

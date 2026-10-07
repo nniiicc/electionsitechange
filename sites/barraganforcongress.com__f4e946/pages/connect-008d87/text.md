@@ -1,12 +1,2 @@
-Connect With Nanette Barragán
-Like Nanette On Facebook
-Follow Nanette on Twitter
-Tweets by @MayorPTBarragan !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
--
-CLCV & LCV Action Fund Endorse Nanette Barragán for CongressDecember 11th, 2015
--
-Assemblymember Mike Gatto Endorses Nanette Barragán for CongressJune 20th, 2016
--
-ICYMI: Our Revolution Backs Nanette Barragán for CongressSeptember 29th, 2016
--
-Daily Breeze Endorses Nanette Barragán in CA-44September 28th, 2016
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Connect BarraganForCongress 2015-09-15T09:00:11-07:00 Connect With Nanette Barragán Like Nanette on Facebook Follow Nanette on Twitter Join Nanette's Email List Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

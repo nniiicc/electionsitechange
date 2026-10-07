@@ -1,6 +1,5 @@
-Platform - The Economy
-Economy & Unions
-A strong Ohio economy lifts up working families, supports good jobs, and ensures everyone pays their fair share.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In Platform - The Economy Support Ari's Campaign > Economy & Unions A strong Ohio economy lifts up working families, supports good jobs, and ensures everyone pays their fair share.
 As your representative for the 84th district, I will fight for policies that create opportunities, protect workers' rights, lower everyday costs, and invest in our communities—whether in rural townships or growing towns.
 Expand high-speed broadband access throughout the 84th district by advocating for state and federal grants, public-private partnerships, and targeted infrastructure to connect unserved/underserved homes and businesses—bridging the digital divide, enabling remote work/education, and boosting local economic growth in our rural and semi-rural areas.
 Address rising utility costs by pushing for greater oversight of rate increases, supporting reforms to PJM capacity pricing, exploring ways to curb data center-driven demand strains on the grid, and advocating for consumer protections—helping families and small businesses afford reliable electricity and gas without burdensome hikes.
@@ -9,3 +8,6 @@ Strengthen unions and protect collective bargaining rights by opposing any legis
 Support responsible expansion of solar and wind energy where it complements our existing energy mix, lowers long-term costs for families and businesses, and creates union jobs in construction, installation, and maintenance.
 We must prioritize projects developed in partnership with local communities and farmers—protecting prime agricultural land, respecting property rights, and ensuring developments enhance rather than displace Ohio's farming heritage.
 Ensure the wealthiest Ohioans pay their fair share through progressive tax policies that provide meaningful relief to middle- and working-class families (e.g., targeted credits/cuts for those earning under median income), while closing loopholes for high earners and corporations—reversing shifts that disproportionately benefit the top 1% and funding investments in education, infrastructure, and communities.
+These priorities will grow our economy from the bottom up, protect hard-working Ohioans, and build a fairer future where no one is left behind—because when unions are strong, wages rise, costs stabilize, and opportunity expands for everyone in the 84th district.
+ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

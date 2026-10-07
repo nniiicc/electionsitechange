@@ -1,14 +1,54 @@
 [
-"http://cherylyouakim.com/",
-"http://cherylyouakim.com/about",
-"http://cherylyouakim.com/blog",
-"http://cherylyouakim.com/donate",
-"http://cherylyouakim.com/endorsements",
-"http://cherylyouakim.com/news",
-"http://cherylyouakim.com/priorities",
-"http://cherylyouakim.com/privacy-policy",
-"http://cherylyouakim.com/volunteer",
-"http://glyphdigital.com/",
-"https://facebook.com/CLYouakim",
-"https://twitter.com/CLYouakim"
+{
+"text": "ABOUT",
+"href": "http://www.cherylyouakim.com/about/"
+},
+{
+"text": "BLOG",
+"href": "http://www.cherylyouakim.com/blog/"
+},
+{
+"text": "COUNT ME IN",
+"href": "http://www.cherylyouakim.com/volunteer/"
+},
+{
+"text": "DONATE",
+"href": "http://www.cherylyouakim.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "http://www.cherylyouakim.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CLYouakim"
+},
+{
+"text": "Glyph Digital",
+"href": "http://www.glyphdigital.com"
+},
+{
+"text": "HOME",
+"href": "http://www.cherylyouakim.com/"
+},
+{
+"text": "NEWS",
+"href": "http://www.cherylyouakim.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "http://www.cherylyouakim.com/priorities/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "http://www.cherylyouakim.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CLYouakim"
+},
+{
+"text": "[image: Youakim for State Representative]",
+"href": "http://www.cherylyouakim.com/"
+}
 ]

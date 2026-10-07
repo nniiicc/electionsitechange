@@ -1,3 +1,2 @@
-Endorse Jules
-Make your support of Jules’s campaign for State Representative public.
-Add your name to the growing list of supporters telling their communities that they believe Jules is the best choice for House District 37.
+0 Skip to Content About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Open Menu Close Menu About Issues Endorsements Yard Signs Volunteer DONATE Endorse Jules Make your support of Jules’s campaign for State Representative public.
+Add your name to the growing list of supporters telling their communities that they believe Jules is the best choice for House District 37. © #-# Jules Walters for State Representative Home About Jules The Issues Paid for by Friends of Jules Walters 19369

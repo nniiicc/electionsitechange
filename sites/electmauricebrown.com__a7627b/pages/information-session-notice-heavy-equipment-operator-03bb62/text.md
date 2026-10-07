@@ -1,22 +1,11 @@
-Public Service Announcement:
-OCM BOCES Information Session: Heavy Equipment Operating Class
--August 6th 2025
-Interested in Operating Heavy Equipment?
-Don’t Miss This Free Info Session
-If you’ve ever thought about working with heavy machinery, now’s your chance to take the first step.
-OCM BOCES is hosting an upcoming information session for their part-time Heavy Equipment Operating Class, which begins on September 8th 2025.
-Info Session Details:
-Date: Tuesday, August 26th
-Time: 12:30 PM to 1:30 PM
-Location: CNY Works, 960 James St, Syracuse, NY 13203
-Cost: Free.99 no experience or registration required!
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Public Service Announcement: OCM BOCES Information Session: Heavy Equipment Operating Class -August 6th 2025 Interested in Operating Heavy Equipment?
+Don’t Miss This Free Info Session If you’ve ever thought about working with heavy machinery, now’s your chance to take the first step.
+OCM BOCES is hosting an upcoming information session for their part-time Heavy Equipment Operating Class , which begins on September 8th 2025 .
+Info Session Details: Date: Tuesday, August 26th Time: 12:30 PM to 1:30 PM Location: CNY Works, 960 James St, Syracuse, NY 13203 Cost: Free.99 no experience or registration required!
 This one-hour session is packed with valuable information for anyone looking to break into the construction and trades industry.
 Whether you're just starting out or looking for a career change, this session can help you understand what it takes and how to get started.
-What You’ll Learn:
-- Step-by-step instructions on how to join a local construction union
-- Benefits of union membership
-- Available training programs and apprenticeships
-- Resume and interview assistance for job seekers
-- Details about the Heavy Equipment Operator training program
-If you have questions or want more information, contact Matthew Tarolli at mtarolli@ocmboces.org or call 315-453-4466.
+What You’ll Learn: Step-by-step instructions on how to join a local construction union Benefits of union membership Available training programs and apprenticeships Resume and interview assistance for job seekers Details about the Heavy Equipment Operator training program If you have questions or want more information, contact Matthew Tarolli at mtarolli@ocmboces.org or call 315-453-4466.
 This session is a great way to explore a new path with high demand and strong earning potential—don’t miss it!
+Read More of My Thoughts on Current Events ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

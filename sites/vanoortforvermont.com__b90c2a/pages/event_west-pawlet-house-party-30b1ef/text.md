@@ -1,4 +1,3 @@
-- This event has passed.
-West Pawlet House Party
-September 27 @ 3:00 pm - 5:00 pm
-Come meet Jessica on a Sunday afternoon in West Pawlet, enjoy food and drink, spend time with your neighbors, and pick up a sign if you don’t have one yet.
+Skip to content Jessica Van Oort for State Representative Home Get Involved About Events Updates Home Get Involved About Events Updates « All Events This event has passed.
+West Pawlet House Party September 27 @ 3:00 pm - 5:00 pm « Canvassing for Jessica Van Oort for State House Virtual Phone Bank for Jessica Van Oort » Come meet Jessica on a Sunday afternoon in West Pawlet, enjoy food and drink, spend time with your neighbors, and pick up a sign if you don’t have one yet.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: September 27 Time: 3:00 pm - 5:00 pm Venue 3043 Rte 153 3043 Route 133 West Pawlet , VT 05775 + Google Map « Canvassing for Jessica Van Oort for State House Virtual Phone Bank for Jessica Van Oort » Jessica Van Oort for State Representative Home Get Involved About Events Updates © # All Rights Reserved

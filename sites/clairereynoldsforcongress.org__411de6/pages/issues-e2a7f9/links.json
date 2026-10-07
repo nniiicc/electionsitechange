@@ -1,17 +1,70 @@
 [
-"https://bsky.app/profile/clairereynoldsforcongress.org",
-"https://clairereynoldsforcongress.org/",
-"https://clairereynoldsforcongress.org/about",
-"https://clairereynoldsforcongress.org/donate",
-"https://clairereynoldsforcongress.org/news",
-"https://clairereynoldsforcongress.org/press-kit",
-"https://clairereynoldsforcongress.org/privacy",
-"https://demographics.texas.gov/Visualizations/2024/PovertyInTx",
-"https://designedtorun.com/",
-"https://facebook.com/clairereynoldsforcongress",
-"https://instagram.com/clairereynoldsforcongress",
-"https://linkedin.com/in/claireannereynolds",
-"https://mastodon.social/@Claire4Congress",
-"https://pewresearch.org/religion/fact-sheet/public-opinion-on-abortion",
-"https://tiktok.com/@claireforcongress"
+{
+"text": "11th poorest state in the country",
+"href": "https://demographics.texas.gov/Visualizations/2024/PovertyInTx/"
+},
+{
+"text": "Donate",
+"href": "https://www.clairereynoldsforcongress.org/donate"
+},
+{
+"text": "Meet Claire",
+"href": "https://www.clairereynoldsforcongress.org/about"
+},
+{
+"text": "Most Americans do not want this",
+"href": "https://www.pewresearch.org/religion/fact-sheet/public-opinion-on-abortion/"
+},
+{
+"text": "News",
+"href": "https://www.clairereynoldsforcongress.org/news"
+},
+{
+"text": "Press Kit",
+"href": "https://www.clairereynoldsforcongress.org/press-kit"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.clairereynoldsforcongress.org/privacy#block-26579ee3-322d-4e89-bff7-cc3592d39057"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Claire Reynolds for Congress]",
+"href": "https://www.clairereynoldsforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/clairereynoldsforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/clairereynoldsforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/clairereynoldsforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/claireannereynolds/"
+},
+{
+"text": "[no text]",
+"href": "https://mastodon.social/@Claire4Congress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@claireforcongress"
+},
+{
+"text": "info@clairereynoldsforcongress.org",
+"href": "mailto:info@clairereynoldsforcongress.org"
+},
+{
+"text": "press@clairereynoldsforcongress.org",
+"href": "mailto:press@clairereynoldsforcongress.org"
+}
 ]

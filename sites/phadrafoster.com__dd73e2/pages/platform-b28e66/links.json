@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=100078647123985",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://phadrafoster.com/",
-"https://phadrafoster.com/connect",
-"https://phadrafoster.com/contribute",
-"https://phadrafoster.com/meet-phadra-carson-foster",
-"https://phadrafoster.com/platform",
-"https://phadrafoster.com/privacy-policy",
-"https://phadrafoster.com/refund-policy",
-"https://phadrafoster.com/request-a-yard-sign",
-"https://phadrafoster.com/volunteer",
-"https://youtube.com/UCkDpsOzkqdFVUqC7122jM1Q"
+{
+"text": "Connect",
+"href": "https://phadrafoster.com/connect"
+},
+{
+"text": "Contribute",
+"href": "https://phadrafoster.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://phadrafoster.com/"
+},
+{
+"text": "Meet Phadra Carson Foster",
+"href": "https://phadrafoster.com/meet-phadra-carson-foster"
+},
+{
+"text": "Platform",
+"href": "https://phadrafoster.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://phadrafoster.com/privacy-policy"
+},
+{
+"text": "Refund Policy",
+"href": "https://phadrafoster.com/refund-policy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://phadrafoster.com/request-a-yard-sign"
+},
+{
+"text": "Support the Campaign",
+"href": "https://phadrafoster.com/contribute"
+},
+{
+"text": "Volunteer",
+"href": "https://phadrafoster.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100078647123985"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/UCkDpsOzkqdFVUqC7122jM1Q"
+}
 ]

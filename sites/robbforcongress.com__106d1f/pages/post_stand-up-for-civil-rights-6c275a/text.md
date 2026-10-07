@@ -1,6 +1,4 @@
-Stand Up for Civil Rights
-Updated: Mar 22
-I’ve pastored churches where LGBTQ+ people were afraid to be fully seen.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Stand Up for Civil Rights Jun 2, 2025 2 min read Updated: Mar 22 I’ve pastored churches where LGBTQ+ people were afraid to be fully seen.
 I’ve met teenagers kicked out of their homes for coming out.
 I’ve listened to people share their stories in whispers, worried about how their family, their job, or their community would respond.
 And I’ve also seen what happens when people choose to live openly, love fully, and speak freely, even when it comes at a cost.
@@ -17,15 +15,10 @@ They affect real people.
 Your neighbors.
 Your coworkers.
 Kids trying to figure out who they are and where they belong.
-And they send a message:
-You don’t belong here.
+And they send a message: You don’t belong here.
 That’s not freedom.
 That’s exclusion.
-Here’s what I believe:
-- No one should lose their rights because of who they are or who they love
-- LGBTQ+ people should be protected from discrimination in their daily lives
-- People should have the privacy and freedom to live without being targeted or silenced
-You don’t have to agree with someone’s life to believe they deserve equal rights.
+Here’s what I believe: No one should lose their rights because of who they are or who they love LGBTQ+ people should be protected from discrimination in their daily lives People should have the privacy and freedom to live without being targeted or silenced You don’t have to agree with someone’s life to believe they deserve equal rights.
 That’s the point.
 As a pastor, I believe every person is made in the image of God.
 That includes people who are gay, trans, nonbinary, or anywhere in between.
@@ -43,4 +36,4 @@ We can do better than that.
 We can build a country where people are free to live honestly, speak openly, and be treated with dignity under the law.
 Not just some people.
 Everyone.
-Because freedom that only applies to some isn’t freedom at all.
+Because freedom that only applies to some isn’t freedom at all. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

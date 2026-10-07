@@ -1,25 +1,110 @@
 [
-"https://albanycountyny.gov/vote",
-"https://donatelife.net/",
-"https://elections.ny.gov/",
-"https://elections.ny.gov/election-information",
-"https://facebook.com/JohnTMcDonaldIII",
-"https://facebook.com/assemblymemberjohn.mcdonald",
-"https://instagram.com/assemblymemberjohnmcdonald",
-"https://mcdonaldforassembly.com/",
-"https://mcdonaldforassembly.com/108th-district",
-"https://mcdonaldforassembly.com/_files/ugd/eb789d_a5727110bf3344c89089642dd439de02.pdf",
-"https://mcdonaldforassembly.com/about",
-"https://mcdonaldforassembly.com/accomplishments",
-"https://mcdonaldforassembly.com/contact",
-"https://mcdonaldforassembly.com/endorsements",
-"https://mcdonaldforassembly.com/events-1",
-"https://mcdonaldforassembly.com/media",
-"https://mcdonaldforassembly.com/subscribe",
-"https://mcdonaldforassembly.com/voter-information",
-"https://rensco.com/429/Elections",
-"https://saratogacountyny.gov/departments/board-of-elections",
-"https://secure.actblue.com/donate/john-mcdonald-1",
-"https://twitter.com/johnmcdonald108",
-"https://voterlookup.elections.ny.gov/"
+{
+"text": "108th District",
+"href": "https://www.mcdonaldforassembly.com/108th-district"
+},
+{
+"text": "About Me",
+"href": "https://www.mcdonaldforassembly.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.mcdonaldforassembly.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.mcdonaldforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/john-mcdonald-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcdonaldforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcdonaldforassembly.com/events-1"
+},
+{
+"text": "Home",
+"href": "https://www.mcdonaldforassembly.com"
+},
+{
+"text": "MY FINANCIAL DISCLOSURE",
+"href": "https://www.mcdonaldforassembly.com/_files/ugd/eb789d_a5727110bf3344c89089642dd439de02.pdf"
+},
+{
+"text": "New York State Board of Elections.",
+"href": "https://elections.ny.gov/election-information"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.mcdonaldforassembly.com/subscribe"
+},
+{
+"text": "Videos",
+"href": "https://www.mcdonaldforassembly.com/media"
+},
+{
+"text": "Voter Information",
+"href": "https://www.mcdonaldforassembly.com/voter-information"
+},
+{
+"text": "[image: 0002156_donate-life-auto-decal_600_edite]",
+"href": "https://www.donatelife.net/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/assemblymemberjohn.mcdonald"
+},
+{
+"text": "[image: IMG_8229.jpg]",
+"href": "https://www.mcdonaldforassembly.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/assemblymemberjohnmcdonald/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/johnmcdonald108"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/JohnTMcDonaldIII/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/assemblymemberjohnmcdonald"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/johnmcdonald108"
+},
+{
+"text": "boardofelections@AlbanyCountyNY.gov",
+"href": "mailto:boardofelections@AlbanyCountyNY.gov"
+},
+{
+"text": "https://elections.ny.gov/",
+"href": "https://elections.ny.gov/%C2%A0"
+},
+{
+"text": "https://voterlookup.elections.ny.gov/",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "https://www.albanycountyny.gov/vote",
+"href": "https://www.albanycountyny.gov/vote"
+},
+{
+"text": "https://www.rensco.com/429/Elections",
+"href": "https://www.rensco.com/429/Elections"
+},
+{
+"text": "https://www.saratogacountyny.gov/departments/board-of-elections/",
+"href": "https://www.saratogacountyny.gov/departments/board-of-elections/%C2%A0"
+}
 ]

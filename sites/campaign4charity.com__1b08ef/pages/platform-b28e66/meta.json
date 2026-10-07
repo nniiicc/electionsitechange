@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.campaign4charity.com/platform",
- "paid_for_by": null,
+ "fingerprint": "565da6e759526f14c138fa7ab364dfe19d7438aa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Platform | Mysite",
  "years_mentioned": []
 }

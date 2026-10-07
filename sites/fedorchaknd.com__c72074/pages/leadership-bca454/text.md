@@ -1,13 +1,7 @@
-Leadership
-Julie’s experience on energy issues and her reputation as a serious, thoughtful public servant is nationally recognized and reflected in a number of leadership positions and awards.
-Julie’s Leadership Experience
-Current President of the National Association of Regulatory Utility Commissioners
-Bismarck Woman of Distinction, 2017
-Two-time Chair of the North Dakota Public Service Commission
-2020 Lignite Energy Council Distinguished Service Award
-University of Mary Board of Trustees
-Member of the National Petroleum Council
-Former President of the Organization of MISO States (OMS) and leader of the OMS Resource Adequacy Subcommittee.
-Former vice-chair, National Association of Regulatory Utility Commissioners Gas Committee
-Former member of the Gas Technology Institute Advisory Council
-Electric Power Research Institute, Advisory Council Member
+Thank you for visiting my campaign website.
+If your intention was to visit my official U.S.
+House of Representatives website, please click here.
+Home About Leadership Get Involved News DONATE Leadership Julie’s experience on energy issues and her reputation as a serious, thoughtful public servant is nationally recognized and reflected in a number of leadership positions and awards.
+Julie’s Leadership Experience  Current President of the National Association of Regulatory Utility Commissioners  Bismarck Woman of Distinction, 2017  Two-time Chair of the North Dakota Public Service Commission  2020 Lignite Energy Council Distinguished Service Award  University of Mary Board of Trustees  Member of the National Petroleum Council  Former President of the Organization of MISO States (OMS) and leader of the OMS Resource Adequacy Subcommittee.  Former vice-chair, National Association of Regulatory Utility Commissioners Gas Committee  Former member of the Gas Technology Institute Advisory Council  Electric Power Research Institute, Advisory Council Member Get Involved Help Out Get Involved Issues Issues Social Follow Follow Follow Paid for by Fedorchak for ND | PO Box 2422, Bismarck ND 58502 Join Team Julie Today!
+Subscribe to our newsletter for the latest updates directly from the campaign trail!
+First name (Required) * Last name (Required) City (Required) Email (Required) Subscribe ×

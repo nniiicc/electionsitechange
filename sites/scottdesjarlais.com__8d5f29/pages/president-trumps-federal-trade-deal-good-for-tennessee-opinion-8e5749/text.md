@@ -1,7 +1,7 @@
-U.S.
+Skip to content Home About Dr.
+Scott Issues Endorsements Donate news > President Trump’s federal trade deal good for Tennessee | Opinion President Trump’s federal trade deal good for Tennessee | Opinion Posted by admin on February 7, 2020 U.S.
 Rep.
-Scott DesJarlais
-President Trump won the 2016 election promising to renegotiate outdated trade deals that have outsourced American jobs and capital to foreign countries, which often have higher trade barriers, or weaker labor and environmental standards than the United States.
+Scott DesJarlais President Trump won the 2016 election promising to renegotiate outdated trade deals that have outsourced American jobs and capital to foreign countries, which often have higher trade barriers, or weaker labor and environmental standards than the United States.
 These unfair advantages benefit not only adversarial China, with imperial ambitions, but also the European Union, Mexico, Japan and other countries the United States counts as allies.
 Unlike our own leaders, who seem stuck in a post-World War II era, when the U.S. helped to rebuild Europe, Japan, and recovering colonies, leaders abroad understand times have changed.
 Wealthy and even powerful “developing” countries continue to benefit from generous U.S. foreign aid and market access, but rarely reciprocate.
@@ -36,5 +36,7 @@ The unemployment rate, fuel prices and inflation remain low, disproving so-calle
 As it turns out, the time was ripe for change, and it was everyday, normal people in places like Murfreesboro and Smyrna — not Ivy League professors who dismiss them — who had the right the idea all along.
 U.S.
 Rep.
-Scott DesJarlais has represented Tennessee’s Fourth Congressional District since 2011.
-https://www.dnj.com/story/opinion/2020/02/08/scott-desjarlais-donald-trump-federal-trade-deal-good-tennessee/4691081002/
+Scott DesJarlais has represented Tennessee’s Fourth Congressional District since 2011. https://www.dnj.com/story/opinion/2020/02/08/scott-desjarlais-donald-trump-federal-trade-deal-good-tennessee/4691081002/ news Written by admin Follow Scott: Home About Dr.
+Scott Issues Endorsements Donate Dr.
+Scott DesJarlais PO Box 90133 Nashville, TN 37209 Paid for by Friends of Scott DesJarlais Pol.
+Adv. paid for by Dustin Burrows Campaign.

@@ -1,7 +1,2 @@
-Click below to read the most recent Capitol Updates:
-2025 End of Session Wrap up
-Provenzano Appointed to LOFT Commission
-Provenzano Appointed to House Democratic Leadership Team
-Full Coverage for Diagnostic Mammograms now law
-Diagnostic Mammogram Bill Passes the Senate
-Diagnostic Mammogram Bill Passes the House
+Home Bio Issues Key Wins Capitol Updates Contact Click below to read the most recent Capitol Updates: 2025 End of Session Wrap up 2024 End of Session Wrap Up (Google Doc) VOLUNTEER VOTING INFO CONTRIBUTE YARD SIGN Get Updates Thank you for signing up!
+News Provenzano Appointed to LOFT Commission Provenzano Appointed to House Democratic Leadership Team Full Coverage for Diagnostic Mammograms now law Diagnostic Mammogram Bill Passes the Senate Diagnostic Mammogram Bill Passes the House Provenzano for House District 79 2026 Powered by CampaignPartner.com - Political Campaign Websites Home Bio Issues Key Wins YARD SIGN (Free!) Volunteer Contribute Voter Information Contact Close Menu

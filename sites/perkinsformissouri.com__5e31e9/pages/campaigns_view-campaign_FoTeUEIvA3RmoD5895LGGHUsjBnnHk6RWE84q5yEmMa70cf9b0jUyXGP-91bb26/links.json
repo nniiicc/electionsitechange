@@ -1,9 +1,38 @@
 [
-"https://facebook.com/perkins4mo",
-"https://instagram.com/perkins4mo",
-"https://linkedin.com/in/tomrogers4",
-"https://perkinsformissouri.com/",
-"https://secure.actblue.com/donate/mary-ann-perkins-1",
-"https://squarespace.com/?channel=product_refer&subchannel=customer&campaign=69e6758db5af1d37f34a1c36",
-"https://youtube.com/watch?feature=youtu.be&v=rRUsJqqh--w"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-ann-perkins-1"
+},
+{
+"text": "FACEBOOK",
+"href": "https://facebook.com/perkins4mo"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://instagram.com/perkins4mo"
+},
+{
+"text": "Squarespace",
+"href": "https://www.squarespace.com?channel=product_refer&subchannel=customer&campaign=69e6758db5af1d37f34a1c36"
+},
+{
+"text": "WATCH THE VIDEO",
+"href": "https://youtube.com/watch?feature=youtu.be&v=rRUsJqqh--w"
+},
+{
+"text": "WEBSITE",
+"href": "https://perkinsformissouri.com"
+},
+{
+"text": "[image: Mary Ann Perkins for Missouri House District 100]",
+"href": "https://www.perkinsformissouri.com/"
+},
+{
+"text": "[image]",
+"href": "https://youtube.com/watch?feature=youtu.be&v=rRUsJqqh--w"
+},
+{
+"text": "a very generous friend of the campaign",
+"href": "https://www.linkedin.com/in/tomrogers4/"
+}
 ]

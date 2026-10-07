@@ -1,18 +1,82 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeFMIGbvj3E2bCq1kn2uXR3IaA_M5DTSdML3fW7MprpsKLGjg/viewform",
-"https://facebook.com/kassayforassembly",
-"https://forms.gle/qAsprSs5osPQZHgE9",
-"https://instagram.com/kassayforassembly",
-"https://kassayforassembly.com/",
-"https://kassayforassembly.com/endorsements",
-"https://kassayforassembly.com/events",
-"https://kassayforassembly.com/issues",
-"https://kassayforassembly.com/news",
-"https://kassayforassembly.com/privacy-policy",
-"https://kassayforassembly.com/volunteer",
-"https://kassayforassembly.com/voter-resources",
-"https://mobilize.us/nydems2026/event/1003616",
-"https://secure.actblue.com/donate/kassay",
-"https://youtube.com/@kassayforassembly"
+{
+"text": "CALL COMMUNITY MEMBERS",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeFMIGbvj3E2bCq1kn2uXR3IaA_M5DTSdML3fW7MprpsKLGjg/viewform"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/kassay"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kassayforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "INFO@KASSAYFORASSEMBLY.COM",
+"href": "mailto:INFO@KASSAYFORASSEMBLY.COM"
+},
+{
+"text": "In the News",
+"href": "https://www.kassayforassembly.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.kassayforassembly.com/issues"
+},
+{
+"text": "REQUEST A LAWN SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform"
+},
+{
+"text": "SIGN UP TO DOOR KNOCK",
+"href": "https://forms.gle/qAsprSs5osPQZHgE9"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.kassayforassembly.com/events"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.kassayforassembly.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kassayforassembly.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kassayforassembly.com/voter-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kassayforassembly"
+},
+{
+"text": "[image: Graphic on white background with purple frame featuring Rebecca Kassay for New York State Assembly logo at top, words Please join us for weekly phone banking night to suport the re-election of Rebecca Kassay for State Assembly and details which are on a light purple backgrond with a grpahic of the statue of liberty. Details available in link.]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeFMIGbvj3E2bCq1kn2uXR3IaA_M5DTSdML3fW7MprpsKLGjg/viewform"
+},
+{
+"text": "[image: IMG_1734.png]",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kassayforassembly/"
+},
+{
+"text": "[image: Lawn sign featuring large text in shades of purple and white stating Re-elect Rebecca Kassay for New York State Assembly Vote Nov 3rd]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScZE6l2MBj7QvReLE2rZNsvU-Gb4WuN-apz7XaDyPI2-WVgKw/viewform"
+},
+{
+"text": "[image: Rebecca and a community member holding a palm card outside with text \"We're out talking to neighbors every day until Nov 3rd.\"]",
+"href": "https://www.mobilize.us/nydems2026/event/1003616/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@kassayforassembly"
+}
 ]

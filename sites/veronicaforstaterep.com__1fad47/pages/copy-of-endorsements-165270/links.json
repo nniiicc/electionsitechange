@@ -1,18 +1,82 @@
 [
-"https://afscme.org/",
-"https://facebook.com/VeronicaForStateRep",
-"https://giffords.org/",
-"https://gpdems.com/",
-"https://michiganlcv.org/",
-"https://milist.org/",
-"https://milist.org/legislative",
-"https://plannedparenthood.org/planned-parenthood-michigan",
-"https://region1.uaw.org/",
-"https://secure.actblue.com/donate/vp10",
-"https://sierraclub.org/michigan",
-"https://veronicaforstaterep.com/",
-"https://veronicaforstaterep.com/copy-of-endorsements",
-"https://veronicaforstaterep.com/issues-answers",
-"https://veronicaforstaterep.com/news",
-"https://votersnotpoliticians.com/"
+{
+"text": "Contact Veronica",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "DEMOCRAT",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/vp10"
+},
+{
+"text": "Endorsements",
+"href": "https://www.veronicaforstaterep.com/copy-of-endorsements"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "Grosse Pointe Democratic Club",
+"href": "https://www.gpdems.com"
+},
+{
+"text": "Issues & Answers",
+"href": "https://www.veronicaforstaterep.com/issues-answers"
+},
+{
+"text": "MI House District 10",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "News",
+"href": "https://www.veronicaforstaterep.com/news"
+},
+{
+"text": "VISIT AFSCME",
+"href": "https://www.afscme.org"
+},
+{
+"text": "VIST GIFFORDS - PREVENTING GUN VIOLENCE",
+"href": "https://giffords.org"
+},
+{
+"text": "Visit MI List - Where Women Connect!",
+"href": "https://milist.org"
+},
+{
+"text": "Visit Michigan League of Conservation Voters - For Our Environment & For Our Democracy.",
+"href": "https://www.michiganlcv.org"
+},
+{
+"text": "Visit Planned Parenthood Michigan",
+"href": "https://www.plannedparenthood.org/planned-parenthood-michigan"
+},
+{
+"text": "Visit Sierra Club - Michigan Chapter",
+"href": "https://www.sierraclub.org/michigan"
+},
+{
+"text": "Visit Voters Not Politicians",
+"href": "https://votersnotpoliticians.com"
+},
+{
+"text": "Welcome",
+"href": "https://www.veronicaforstaterep.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VeronicaForStateRep"
+},
+{
+"text": "[image: MI-LIST_VeronicaPaiz_with logo.png]",
+"href": "https://milist.org/legislative/"
+},
+{
+"text": "​visit UAW Region 1",
+"href": "https://region1.uaw.org"
+}
 ]

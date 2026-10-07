@@ -1,13 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Town+Hall+with+Megan+Coy%2C+Brian+Poindexter+and+Courtney+Scheff&dates=20260919T143000Z%2F20260919T170000Z&location=8170+Mapleway+Drive%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States",
-"http://maps.google.com/?q=8170+Mapleway+Drive+Olmsted+Falls%2C+Ohio%2C+44138+United+States",
-"https://coyforohio.com/",
-"https://coyforohio.com/cart",
-"https://coyforohio.com/contact",
-"https://coyforohio.com/events",
-"https://coyforohio.com/events/dd3s7fbm90h29coj8fqnuoirkfqfeq",
-"https://coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff",
-"https://coyforohio.com/events/olmsted-falls-town-hall-with-megan-coy-brian-poindexter-and-courtney-scheff?format=ical",
-"https://coyforohio.com/support",
-"https://mobilize.us/brianpoindexter/event/1009098"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8170+mapleway+drive+olmsted+falls%2C+ohio%2C+44138+united+states"
+},
+{
+"text": "0",
+"href": "https://www.coyforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.coyforohio.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.coyforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.coyforohio.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Olmsted+Falls+Town+Hall+with+Megan+Coy%2C+Brian+Poindexter+and+Courtney+Scheff&dates=20260919T143000Z%2F20260919T170000Z&location=8170+Mapleway+Drive%2C+Olmsted+Falls%2C+Ohio%2C+44138%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.coyforohio.com/events/olmsted-falls-town-hall-with-megan-coy-brian-poindexter-and-courtney-scheff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.coyforohio.com/#issues"
+},
+{
+"text": "Meet Megan",
+"href": "https://www.coyforohio.com/#meetmegan"
+},
+{
+"text": "Next Next September 26 Broadview Heights Canvass with Megan Coy with Special Guests ODP Chair Kathleen Clyde and Candidate for State Treasurer Seth Walsh",
+"href": "https://www.coyforohio.com/events/dd3s7fbm90h29coj8fqnuoirkfqfeq"
+},
+{
+"text": "Previous Previous September 13 Joint Fundraiser with Megan Coy and Courtney Scheff",
+"href": "https://www.coyforohio.com/events/joint-fundraiser-with-megan-coy-and-courtney-scheff"
+},
+{
+"text": "Sign up here!",
+"href": "https://www.mobilize.us/brianpoindexter/event/1009098/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://www.coyforohio.com/support"
+},
+{
+"text": "[image: Megan Coy]",
+"href": "https://www.coyforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.mobilize.us/brianpoindexter/event/1009098/"
+}
 ]

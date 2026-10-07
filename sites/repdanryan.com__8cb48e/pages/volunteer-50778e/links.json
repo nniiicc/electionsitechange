@@ -1,10 +1,38 @@
 [
-"https://facebook.com/daniel.ryan.186",
-"https://instagram.com/staterepdanryan",
-"https://repdanryan.com/",
-"https://repdanryan.com/issues",
-"https://repdanryan.com/news",
-"https://repdanryan.com/volunteer",
-"https://secure.actblue.com/donate/repdanryan",
-"https://twitter.com/repdanryan"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/repdanryan"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/repdanryan"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/daniel.ryan.186"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/staterepdanryan/"
+},
+{
+"text": "Home",
+"href": "https://www.repdanryan.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.repdanryan.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.repdanryan.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.repdanryan.com/volunteer/"
+},
+{
+"text": "[image: Representative Dan Ryan]",
+"href": "https://www.repdanryan.com/"
+}
 ]

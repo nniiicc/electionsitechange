@@ -1,8 +1,6 @@
-Who Does Mark Thane Answer To?
-Articles
-Who Does Mark Thane Answer To?
-By Lyn Hellegaard, Candidate for Montana House District 89
-(For Immediate Release: August 9, 2026) - Montana Democrats picked their U.S.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Who Does Mark Thane Answer To?
+Articles Who Does Mark Thane Answer To?
+By Lyn Hellegaard, Candidate for Montana House District 89 (For Immediate Release: August 9, 2026) - Montana Democrats picked their U.S.
 Senate nominee back in June.
 Alani Bankhead won that primary by more than 12,000 votes.
 Her own party has spent the summer trying to talk her out of the seat she won.
@@ -38,10 +36,15 @@ That is the standard I hold myself to, and it is a fair standard to hold any ele
 Voters in House District 89 deserve a representative who answers to them first.
 Judge us both by what we do when the party and the voters don’t agree.
 Lyn Hellegaard is the Republican candidate for Montana House District 89.
-Sourcing notes (for Lyn, not for publication):
-- Letter and 17-signer list, including Rep.
-Mark Thane: Flathead Beacon, Aug. 5, 2026; KULR8/MontanaRightNow election coverage.
-- Bankhead primary win margin and refusal to withdraw: Montana Free Press, Aug. 3 and July 31, 2026; Daily Montanan, Aug. 7, 2026.
-- Leaked pressure-campaign materials: reported by Matthew Foldi/Washington Reporter, Aug. 9, 2026.
+Sourcing notes (for Lyn, not for publication): Letter and 17-signer list, including Rep.
+Mark Thane: Flathead Beacon, Aug.
+5, 2026; KULR8/MontanaRightNow election coverage.
+Bankhead primary win margin and refusal to withdraw: Montana Free Press, Aug.
+3 and July 31, 2026; Daily Montanan, Aug.
+7, 2026.
+Leaked pressure-campaign materials: reported by Matthew Foldi/Washington Reporter, Aug.
+9, 2026.
 Authenticity and sourcing not independently confirmed as of this draft.
 Kept to one sentence, not used as the article's foundation.
+Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

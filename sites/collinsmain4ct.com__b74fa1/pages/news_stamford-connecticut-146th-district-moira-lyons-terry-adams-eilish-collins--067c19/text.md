@@ -1,24 +1,16 @@
-Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main
-FOR IMMEDIATE RELEASE
-July 12, 2024
-Contact: Eilish Collins Main
-eilish@collinsmain4ct.com
-STAMFORD, CT — On Friday, July 12, former Speaker of the Connecticut House of Representatives Moira Lyons and Stamford city Representative Terry Adams, who both previously represented the 146th State House District in Hartford, officially announced their endorsement of community advocate and endorsed Democrat Eilish Collins Main to serve the 146th State House District.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Press Release: Former Speaker of the House, Former State Representative for 146th House District Endorse Community Advocate and State Representative Candidate Eilish Collins Main Jul 12 Written By Miles Halpine FOR IMMEDIATE RELEASE July 12, 2024 Contact: Eilish Collins Main eilish@collinsmain4ct.com STAMFORD, CT — On Friday, July 12, former Speaker of the Connecticut House of Representatives Moira Lyons and Stamford city Representative Terry Adams, who both previously represented the 146th State House District in Hartford, officially announced their endorsement of community advocate and endorsed Democrat Eilish Collins Main to serve the 146th State House District.
 “In all my years of public service to the Stamford community and our state, rarely have I met a candidate as qualified and community-focused as Eilish Collins Main,” said former Speaker of the House Lyons.
-“Eilish, a longtime resident of Stamford, has a clear understanding of the needs and concerns of Stamford’s 146th District, and will work diligently to address those issues in the Connecticut General Assembly.”
-Lyons, who served in the State House from 1981 to 2004, was the first woman in Connecticut history to serve as Speaker of the House.
+“Eilish, a longtime resident of Stamford, has a clear understanding of the needs and concerns of Stamford’s 146th District, and will work diligently to address those issues in the Connecticut General Assembly.” Lyons, who served in the State House from 1981 to 2004, was the first woman in Connecticut history to serve as Speaker of the House.
 Adams, who is currently a member of the Stamford Board of Representatives for District 3, served the 146th District from 2015 to 2019.
 “It is exciting that the majority of the Democratic City Committee endorsed Eilish Collins Main in this important race to represent District 146," city Representative Adams said.
 “As a working mom and first-generation American, Eilish knows firsthand what residents are facing and is ready to make a positive impact on day one.
-She is the real deal and will do the work necessary to make a difference for residents throughout the district and the city.”
-“It is an honor to have the support of two incredible public servants.
+She is the real deal and will do the work necessary to make a difference for residents throughout the district and the city.” “It is an honor to have the support of two incredible public servants.
 Their confidence in me to best serve our district and its residents is a humbling acknowledgement of my passion for public service and community involvement,” said Collins Main.
 “Throughout these last few months, our team has been out knocking on doors and calling voters to share our positive vision for the community.
 We are reaching residents all over and listening to hear what matters to them.
-That is what this grassroots campaign is all about — earning one vote at a time and making sure that they can count on me to deliver for Stamford and our district on affordability, quality of life, education, and our democratic values.”
-About Eilish Collins Main
-With a successful career in marketing and business development in the EdTech sector, Eilish Collins Main brings valuable skills to public service as a communicator and consensus builder.
+That is what this grassroots campaign is all about — earning one vote at a time and making sure that they can count on me to deliver for Stamford and our district on affordability, quality of life, education, and our democratic values.” About Eilish Collins Main With a successful career in marketing and business development in the EdTech sector, Eilish Collins Main brings valuable skills to public service as a communicator and consensus builder.
 She is an active member of the Stamford Democratic Party, and volunteers with Building One Community, the League of Women Voters, the Police Activities League, and the Saint Francis Episcopal Church outreach programs.
 Collins Main also serves as a Personnel Commissioner for the City of Stamford.
 To learn more about her campaign, visit collinsmain4ct.com.
-###
+### Miles Halpine Previous Previous Stamford Advocate Op-Ed: Why I’m running Next Next Greater Stamford Young Democrats Announce Candidate Endorsements for 2024 Election Cycle Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

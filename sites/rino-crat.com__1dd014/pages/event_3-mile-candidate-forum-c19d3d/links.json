@@ -1,18 +1,82 @@
 [
-"https://facebook.com/profile.php?id=61580913577770",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20260506T063000%2F20260506T193000&text=3+Mile+Candidate+Forum&details=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+%3Cstrong%3E1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%3C%2Fstrong%3E%26nbsp%3B&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Frino-crat.com",
-"https://maps.google.com/maps?f=q&hl=en&q=1112+Three+Mile+Creek+Road+Stevensville+MT+59870+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-06T06%3A30%3A00-06%3A00&enddt=2026-05-06T19%3A30%3A00-06%3A00&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&subject=3+Mile+Candidate+Forum&body=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%26nbsp%3B",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-05-06T06%3A30%3A00-06%3A00&enddt=2026-05-06T19%3A30%3A00-06%3A00&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&subject=3+Mile+Candidate+Forum&body=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%26nbsp%3B",
-"https://rino-crat.com/",
-"https://rino-crat.com/articles",
-"https://rino-crat.com/calendar-of-events",
-"https://rino-crat.com/contact",
-"https://rino-crat.com/donate",
-"https://rino-crat.com/event/farmers-union-candidate-meeting",
-"https://rino-crat.com/event/sheep-creek-forum",
-"https://rino-crat.com/events",
-"https://rino-crat.com/news",
-"https://rino-crat.com/privacy-policy",
-"https://rino-crat.com/volunteer"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1112+Three+Mile+Creek+Road+Stevensville+MT+59870+United+States"
+},
+{
+"text": "Articles",
+"href": "https://rino-crat.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://rino-crat.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://rino-crat.com/calendar-of-events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580913577770"
+},
+{
+"text": "Farmers Union Candidate Meeting »",
+"href": "https://rino-crat.com/event/farmers-union-candidate-meeting/"
+},
+{
+"text": "Get Involved",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20260506T063000%2F20260506T193000&text=3+Mile+Candidate+Forum&details=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+%3Cstrong%3E1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%3C%2Fstrong%3E%26nbsp%3B&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&trp=false&ctz=America%2FBoise&sprop=website%3Ahttps%3A%2F%2Frino-crat.com"
+},
+{
+"text": "Home",
+"href": "https://rino-crat.com/"
+},
+{
+"text": "News",
+"href": "https://rino-crat.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T06%3A30%3A00-06%3A00&enddt=%23T19%3A30%3A00-06%3A00&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&subject=3+Mile+Candidate+Forum&body=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%26nbsp%3B"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T06%3A30%3A00-06%3A00&enddt=%23T19%3A30%3A00-06%3A00&location=Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT%2C+59870%2C+United+States&subject=3+Mile+Candidate+Forum&body=3+mile+candidate+forum+5%2F6%2C6%3A30-7%3A30Lone+Rock+School%2C+1112+Three+Mile+Creek+Road%2C+Stevensville%2C+MT+59870%26nbsp%3B"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://rino-crat.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rino-crat.com"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rino-crat.com/event/3-mile-candidate-forum/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rino-crat.com/events/"
+},
+{
+"text": "« Sheep Creek Forum",
+"href": "https://rino-crat.com/event/sheep-creek-forum/"
+}
 ]

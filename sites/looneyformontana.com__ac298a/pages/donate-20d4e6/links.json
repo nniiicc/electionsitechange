@@ -1,19 +1,74 @@
 [
-"https://looneyformontana.com/",
-"https://looneyformontana.com/about",
-"https://looneyformontana.com/contact",
-"https://looneyformontana.com/donate",
-"https://looneyformontana.com/endorsements",
-"https://looneyformontana.com/issues",
-"https://looneyformontana.com/privacy-policy",
-"https://looneyformontana.com/text-messaging-terms",
-"https://looneyformontana.com/text-updates",
-"https://looneyformontana.com/volunteer",
-"https://looneyformontana.com/vote",
-"https://secure.winred.com/john-looney-for-montana/donate",
-"https://secure.winred.com/john-looney-for-montana/donate?amount=100",
-"https://secure.winred.com/john-looney-for-montana/donate?amount=25",
-"https://secure.winred.com/john-looney-for-montana/donate?amount=250",
-"https://secure.winred.com/john-looney-for-montana/donate?amount=470",
-"https://secure.winred.com/john-looney-for-montana/donate?amount=50"
+{
+"text": "$100",
+"href": "https://secure.winred.com/john-looney-for-montana/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/john-looney-for-montana/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/john-looney-for-montana/donate?amount=250"
+},
+{
+"text": "$470 (max)",
+"href": "https://secure.winred.com/john-looney-for-montana/donate?amount=470"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/john-looney-for-montana/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://looneyformontana.com/about"
+},
+{
+"text": "Contact",
+"href": "https://looneyformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://looneyformontana.com/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/john-looney-for-montana/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://looneyformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://looneyformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://looneyformontana.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://looneyformontana.com/privacy-policy"
+},
+{
+"text": "Text Messaging Terms",
+"href": "https://looneyformontana.com/text-messaging-terms"
+},
+{
+"text": "Text Updates",
+"href": "https://looneyformontana.com/text-updates"
+},
+{
+"text": "Volunteer",
+"href": "https://looneyformontana.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://looneyformontana.com/vote"
+},
+{
+"text": "[image] John Looney",
+"href": "https://looneyformontana.com/"
+}
 ]

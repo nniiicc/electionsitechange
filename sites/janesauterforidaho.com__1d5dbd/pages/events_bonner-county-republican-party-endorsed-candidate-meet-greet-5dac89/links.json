@@ -1,21 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Republican+Party+Endorsed+Candidate+Meet+%26+Greet&dates=20260411T210000Z%2F20260411T223000Z&location=Riley+Creek+Park+Road%2C+Laclede%2C+ID%2C++83841%2C+United+States",
-"http://maps.google.com/?q=Riley+Creek+Park+Road+Laclede%2C+ID%2C++83841+United+States",
-"https://facebook.com/profile.php?id=61582690706514",
-"https://instagram.com/p/DV2D8Sql2hj",
-"https://janesauterforidaho.com/",
-"https://janesauterforidaho.com/about-me",
-"https://janesauterforidaho.com/cart",
-"https://janesauterforidaho.com/contact-me",
-"https://janesauterforidaho.com/events",
-"https://janesauterforidaho.com/events/bonner-county-republican-party-endorsed-candidate-meet-greet?format=ical",
-"https://janesauterforidaho.com/events/clark-fork-forum",
-"https://janesauterforidaho.com/events/meet-and-greet-fundraiser",
-"https://janesauterforidaho.com/gallery",
-"https://janesauterforidaho.com/introduction",
-"https://janesauterforidaho.com/media",
-"https://janesauterforidaho.com/news",
-"https://secure.anedot.com/janesauterforidaho/donate",
-"https://x.com/janesauterforID",
-"https://youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=riley+creek+park+road+laclede%2C+id%2C++83841+united+states"
+},
+{
+"text": "0",
+"href": "https://www.janesauterforidaho.com/cart"
+},
+{
+"text": "About me",
+"href": "https://www.janesauterforidaho.com/about-me"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Contact me",
+"href": "https://www.janesauterforidaho.com/contact-me"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/janesauterforidaho/donate"
+},
+{
+"text": "Events",
+"href": "https://www.janesauterforidaho.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.janesauterforidaho.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bonner+County+Republican+Party+Endorsed+Candidate+Meet+%26+Greet&dates=20260411T210000Z%2F20260411T223000Z&location=Riley+Creek+Park+Road%2C+Laclede%2C+ID%2C++83841%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.janesauterforidaho.com/events/bonner-county-republican-party-endorsed-candidate-meet-greet?format=ical"
+},
+{
+"text": "Introduction",
+"href": "https://www.janesauterforidaho.com/introduction"
+},
+{
+"text": "Media",
+"href": "https://www.janesauterforidaho.com/media"
+},
+{
+"text": "News",
+"href": "https://www.janesauterforidaho.com/news"
+},
+{
+"text": "Next Next April 16 Clark Fork Forum",
+"href": "https://www.janesauterforidaho.com/events/clark-fork-forum"
+},
+{
+"text": "Previous Previous April 10 Meet and Greet/ Fundraiser",
+"href": "https://www.janesauterforidaho.com/events/meet-and-greet-fundraiser"
+},
+{
+"text": "[image: Jane Sauter for Idaho]",
+"href": "https://www.janesauterforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582690706514"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/p/DV2D8Sql2hj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCQ7m-BMrqmw4WNCLWKzx-Yw"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/janesauterforID"
+}
 ]

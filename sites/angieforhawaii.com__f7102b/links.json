@@ -1,11 +1,62 @@
 [
-"http://instagram.com/angieforhawaii",
-"http://youtube.com/@angieforhawaii",
-"https://angieforhawaii.com/",
-"https://angieforhawaii.com/blank",
-"https://angieforhawaii.com/blank-1",
-"https://angieforhawaii.com/blank-2",
-"https://facebook.com/profile.php?id=61588672151860",
-"https://forms.gle/rStbK2aj3UimePRg9",
-"https://secure.actblue.com/donate/angie-for-hawaii"
+{
+"text": "About",
+"href": "https://www.angieforhawaii.com#meet-angie"
+},
+{
+"text": "Aging Neighborhoods",
+"href": "https://www.angieforhawaii.com/blank-1"
+},
+{
+"text": "Contact",
+"href": "https://www.angieforhawaii.com#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/angie-for-hawaii"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/rStbK2aj3UimePRg9"
+},
+{
+"text": "Learn More",
+"href": "https://www.angieforhawaii.com#priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.angieforhawaii.com#campaign%20platform"
+},
+{
+"text": "Public Safety",
+"href": "https://www.angieforhawaii.com/blank"
+},
+{
+"text": "Thriving Community",
+"href": "https://www.angieforhawaii.com/blank-2"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/rStbK2aj3UimePRg9"
+},
+{
+"text": "[image: Angie-for-Hawaii-logo]",
+"href": "https://www.angieforhawaii.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/angieforhawaii"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@angieforhawaii"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588672151860"
+},
+{
+"text": "contact@angieforhawaii.com",
+"href": "mailto:contact@angieforhawaii.com?subject=Hi%2C+there%21"
+}
 ]

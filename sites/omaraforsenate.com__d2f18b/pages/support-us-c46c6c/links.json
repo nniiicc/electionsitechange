@@ -1,14 +1,70 @@
 [
-"https://facebook.com/omaraforsenate",
-"https://omaraforsenate.com/",
-"https://omaraforsenate.com/about",
-"https://omaraforsenate.com/contact",
-"https://omaraforsenate.com/donate",
-"https://omaraforsenate.com/events",
-"https://omaraforsenate.com/news",
-"https://omaraforsenate.com/support-us",
-"https://paypal.com/donate?hosted_button_id=CELTFGLU6D2L6",
-"https://secure.winred.com/friends-of-tom-o-mara/donate-today",
-"https://twitter.com/SenatorOMara",
-"https://youtube.com/user/senatortomomara"
+{
+"text": "About",
+"href": "https://www.omaraforsenate.com/about"
+},
+{
+"text": "Click to Contribute",
+"href": "https://www.paypal.com/donate/?hosted_button_id=CELTFGLU6D2L6"
+},
+{
+"text": "Contact",
+"href": "https://www.omaraforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-tom-o-mara/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://www.omaraforsenate.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.omaraforsenate.com/events"
+},
+{
+"text": "General Campaign Help",
+"href": "mailto:omaraforsenate@gmail.com?subject=Website+volunteer%3A+general+help"
+},
+{
+"text": "Host a House Party",
+"href": "mailto:omaraforsenate@gmail.com?subject=Website+volunteer%3A+Host+a+house+party"
+},
+{
+"text": "Make Phone Calls",
+"href": "mailto:omaraforsenate@gmail.com?subject=Website+volunteer%3A+make+phone+calls"
+},
+{
+"text": "News",
+"href": "https://www.omaraforsenate.com/news"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "mailto:omaraforsenate@gmail.com?subject=Website+volunteer%3A+Lawn+sign+request"
+},
+{
+"text": "Support Us",
+"href": "https://www.omaraforsenate.com/support-us"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/omaraforsenate"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/SenatorOMara"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/senatortomomara"
+},
+{
+"text": "[image: tom-O-LOGO.jpg]",
+"href": "https://www.omaraforsenate.com"
+},
+{
+"text": "omaraforsenate@gmail.com",
+"href": "mailto:omaraforsenate@gmail.com"
+}
 ]

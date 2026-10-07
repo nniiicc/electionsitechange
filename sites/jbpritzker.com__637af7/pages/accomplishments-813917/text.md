@@ -1,7 +1,6 @@
-Join #TeamJB
-Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
+Skip to main content Skip to footer Join the team to re-elect JB Meet JB Accomplishments Meet Christian News & Updates Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Meet JB Accomplishments Meet Christian News & Updates Sign Up Español Getting the Job Done for Illinois Lowering Costs for Working Families Read More Expanding Quality, Affordable Healthcare Read More Standing Up To Trump Read More Creating The Economy of The Future Read More Fighting for Opportunity & Justice Read More Building a Strong Fiscal Foundation Read More Strengthening Rural & Downstate Communities Read More Growing The Agriculture Industry Read More Improving Public Safety Read More Improving Education from Cradle to Career Read More Growing Jobs, Small Businesses & Our Economy Read More Protecting Women’s Rights Read More Join #TeamJB Sign up to join the team today and receive updates from the campaign, learn about volunteer opportunities, and more.
 By submitting your mobile phone number you are agreeing to receive periodic text messages from this organization.
 Message and data rates may apply.
 Text HELP for more information.
 Text STOP to stop receiving messages.
-Privacy Policy and Terms & Conditions
+Privacy Policy and Terms & Conditions Meet JB Pritzker Accomplishments Meet Christian News & Updates Sign Up Contact Privacy Policy Terms & Conditions Paid for by JB for Governor español 中文 Polski español 中文 Polski

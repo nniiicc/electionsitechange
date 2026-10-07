@@ -1,10 +1,2 @@
-We’d love to hear from you
-Contact me via email: alisha@chaffin4ky.com
-Or by Phone: 859-230-5778
-Or complete the form below to Get Involved
-Or by Mail:
-Chaffin4KY 101 N.
-Bradford Ln, Unit 152 Georegetown, KY 40324
-Donate
-Follow Us FaceBook Instagram
-Loading…
+close menu close menu Home Our Policies Get Involved Press Releases Photo Gallery Contact Donate Now Become A Volunteer yes Contact Us We’d love to hear from you Contact me via email: alisha@chaffin4ky.com Or by Phone: 859-230-5778 Or complete the form below to Get Involved Or by Mail: Chaffin4KY 101 N.
+Bradford Ln, Unit 152 Georegetown, KY 40324 Donate Follow Us FaceBook Instagram Loading… footer logo image Alisha’s Priorities Economic Relief for Working Kentuckians Strong Public Schools Healthcare Within Reach Affordable Housing Common Sense Legislation Pro Union Explore Home Our Policies Get Involved Press Releases Photo Gallery Contact Paid for by Campaign Fund for Alisha D Chaffin Email alisha@chaffin4ky.com Phone 859-230-5778 Copyright # All Rights Reserved Design & Developed by VW Themes srcoll arrow

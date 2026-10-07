@@ -1,10 +1,1 @@
-"I am a businessman and that's what we need more of in government"
-Signed in as:
-filler@godaddy.com
-Account
-Contact Friends of Brian Smith,
-For PA State Rep, 66th District
-briansmithcampaign@gmail.com
-Friends of Brian Smith
-925 Wachob Drive, Punxsutawney, PA 15767
-Copyright © 2020 Paid for by Friends of Brian Smith - All Rights Reserved.
+"I am a businessman and that's what we need more of in government" Sign In Create Account My Account My Account Home Register & Ballots ENDORSEMENTS Testimonials Contact Us Home Register & Ballots ENDORSEMENTS Testimonials Contact Us Sign In Create Account My Account My Account Signed in as: filler@godaddy.com Home Register & Ballots ENDORSEMENTS Testimonials Contact Us Account My Account Sign In My Account Contact Friends of Brian Smith Contact Friends of Brian Smith, For PA State Rep, 66th District briansmithcampaign@gmail.com Friends of Brian Smith 925 Wachob Drive, Punxsutawney, PA 15767 Copyright © # Paid for by Friends of Brian Smith - All Rights Reserved.

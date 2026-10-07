@@ -1,38 +1,13 @@
-ACTUALIZACIONES DE LA CAMPAÑA
-NOTICIAS Y PRENSA
-Lea los anuncios de campaña más recientes, las declaraciones oficiales y la cobertura de noticias que presentan a Bernadette y a las comunidades del 8.° distrito congresional de Arizona.
-HISTORIA DESTACADA
-ÚLTIMAS NOTICIAS DE LA CAMPAÑA
-El anuncio más reciente o la historia principal de la campaña de Bernadette.
-Publicado por
-Prensa Estatal
-4 de agosto de 2025
-Gira busca movilizar a demócratas contra representantes republicanos de Arizona
-Greene-Placentia, que asistió al mitin, dijo que los valores de Hamadeh no se alineaban con los de sus votantes.
-Sala de redacción
-COMUNICADOS DE PRENSA Y COBERTURA MEDIÁTICA
-Explore comunicados oficiales de campañas y reportajes de organizaciones de noticias locales, estatales y nacionales.
-En las noticias
-KTAR News
-15 de junio de 2026
-Dos demócratas debaten en su intento por desbancar al representante Abe Hamadeh en el 8.° distrito congresional de Arizona
-Dos candidatos demócratas se enfrentaron en un debate de primarias mientras compiten por la oportunidad de retar al representante Abe Hamadeh en el 8.° distrito congresional de Arizona.
-En las noticias
-AZ New Times
-4 de abril de 2026
-Candidato de Arizona crea canción al estilo de Broadway con IA sobre instalación de ICE en Surprise
-¿Cuánto te gusta el teatro musical? ¿El hielo? ¿La inteligencia artificial?
+Ir al contenido EL 8.º DISTRITO DE ARIZONA MERECE UNA REPRESENTANTE QUE SEPA LO QUE SIGNIFICA TRABAJAR DURO.
+Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Dona ACTUALIZACIONES DE LA CAMPAÑA NOTICIAS Y PRENSA Lea los anuncios de campaña más recientes, las declaraciones oficiales y la cobertura de noticias que presentan a Bernadette y a las comunidades del 8.° distrito congresional de Arizona.
+HISTORIA DESTACADA ÚLTIMAS NOTICIAS DE LA CAMPAÑA El anuncio más reciente o la historia principal de la campaña de Bernadette.
+Publicado por Prensa Estatal 4 de agosto de 2025 Gira busca movilizar a demócratas contra representantes republicanos de Arizona Greene-Placentia, que asistió al mitin, dijo que los valores de Hamadeh no se alineaban con los de sus votantes.
+Leer más Sala de redacción COMUNICADOS DE PRENSA Y COBERTURA MEDIÁTICA Explore comunicados oficiales de campañas y reportajes de organizaciones de noticias locales, estatales y nacionales.
+En las noticias Comunicado de prensa Todas las noticias En las noticias KTAR News 15 de junio de 2026 Dos demócratas debaten en su intento por desbancar al representante Abe Hamadeh en el 8.° distrito congresional de Arizona Dos candidatos demócratas se enfrentaron en un debate de primarias mientras compiten por la oportunidad de retar al representante Abe Hamadeh en el 8.° distrito congresional de Arizona.
+Leer más En las noticias AZ New Times 4 de abril de 2026 Candidato de Arizona crea canción al estilo de Broadway con IA sobre instalación de ICE en Surprise ¿Cuánto te gusta el teatro musical? ¿El hielo? ¿La inteligencia artificial?
 Las respuestas determinarán cuánto te gusta esta canción.
-Comunicado de prensa
-Bernadette para el Congreso
-26 de agosto de 2025
-Bernadette Greene-Placentia lanza su campaña para el Congreso en el 8.° distrito de Arizona en el Día de la Igualdad de la Mujer
-Bernadette Greene Placentia anunció oficialmente su candidatura para la Cámara de Representantes de los Estados Unidos por el 8.° distrito congresional de Arizona.
-En las noticias
-Prensa Estatal
-4 de agosto de 2025
-Gira busca movilizar a demócratas contra representantes republicanos de Arizona
-Greene-Placentia, que asistió al mitin, dijo que los valores de Hamadeh no se alineaban con los de sus votantes.
-CONSULTAS DE MEDIOS
-COMUNIQUESE CON LA CAMPAÑA
-Los miembros de la prensa pueden comunicarse con la campaña para solicitar declaraciones, entrevistas, acceso a eventos e información adicional.
+Leer más Comunicado de prensa Bernadette para el Congreso 26 de agosto de 2025 Bernadette Greene-Placentia lanza su campaña para el Congreso en el 8.° distrito de Arizona en el Día de la Igualdad de la Mujer Bernadette Greene Placentia anunció oficialmente su candidatura para la Cámara de Representantes de los Estados Unidos por el 8.° distrito congresional de Arizona.
+Leer más En las noticias Prensa Estatal 4 de agosto de 2025 Gira busca movilizar a demócratas contra representantes republicanos de Arizona Greene-Placentia, que asistió al mitin, dijo que los valores de Hamadeh no se alineaban con los de sus votantes.
+Leer más CONSULTAS DE MEDIOS COMUNIQUESE CON LA CAMPAÑA Los miembros de la prensa pueden comunicarse con la campaña para solicitar declaraciones, entrevistas, acceso a eventos e información adicional.
+ENVIAR UNA SOLICITUD DE MEDIOS Una campaña de la clase trabajadora para el 8.º Distrito Congresional de Arizona.
+Campaña Acerca de Prioridades Agenda Respaldos Recursos PARTICIPA Voluntariado Contáctanos DONA info@bgp4az.com Facebook Instagram X (Twitter) Globo terráqueo LinkedIn YouTube TikTok Autorizado por Bernadette Greene-Placentia Pagado por Bernadette para el Congreso info@bgp4az.com Copyright # | Todos los derechos reservados | Sitio por Stoke Interactive Spanish English

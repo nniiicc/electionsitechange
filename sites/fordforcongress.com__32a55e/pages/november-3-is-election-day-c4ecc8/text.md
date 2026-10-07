@@ -1,3 +1,4 @@
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE NOVEMBER 3 IS ELECTION DAY By Ford for Congress Campaign Team / April 30, 2026 VOTER INFORMATION CHICAGO VOTER INFORMATION COOK COUNTY I am honored to be the Democratic nominee for the 7th Congressional District.
 After nearly 30 years in Congress, Congressman Danny K.
 Davis is retiring and passing the torch to the next generation.
 After 20 years serving as an Illinois State Representative, I am honored to be the Democratic nominee for the 7th Congressional District of Illinois.
@@ -8,4 +9,7 @@ This election is about what families are dealing with every day.
 The cost of living, access to affordable health care, protecting Medicare and Medicaid, and making sure working people have real opportunities to get ahead.
 I believe in lowering costs, strengthening Social Security, supporting small businesses, and investing in our communities.
 This is about putting people first and ensuring our government focuses on delivering real results for you.
-As we look ahead to the November 3, 2026 General Election, I encourage every resident to stay engaged, confirm your voter registration, and make a plan to participate.
+As we look ahead to the November 3, 2026 General Election , I encourage every resident to stay engaged, confirm your voter registration, and make a plan to participate.
+NOVEMBER 3 IS ELECTION DAY One of the most important elections for our future.
+MAKE A CONTRIBUTION TODAY Previous A Letter to the People of the 7th Congressional District Next Happy Labor Day A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

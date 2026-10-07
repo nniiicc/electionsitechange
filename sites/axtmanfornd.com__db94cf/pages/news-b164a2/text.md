@@ -1,12 +1,5 @@
-NEWS
-NEWS & UPDATES FROM THE CAMPAIGN
-A snapshot look at Tuesday’s election
-NEWS NEWS & UPDATES FROM THE CAMPAIGN A snapshot look at Tuesday’s election Jun 10, 2026 BLAKE NICHOLSON Bismarck Tribune Bismarck residents on Tuesday reelected their mayor, and Bismarck-Mandan residents passed two local ballot measures that will raise their taxes…
-District 7 Senate candidates make their case to voters around Bismarck
-NEWS NEWS & UPDATES FROM THE CAMPAIGN District 7 Senate candidates make their case to voters around Bismarck Jun 3,…
-Public asked to weigh in on technology use in North Dakota schools
-NEWS NEWS & UPDATES FROM THE CAMPAIGN Public asked to weigh in on technology use in North Dakota schools May 28, 2026…
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
-NEWS NEWS & UPDATES FROM THE CAMPAIGN Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June…
-Senator Michelle Axtman Joins Running Mates on Dakota Mornings with Michael Bell
-NEWS NEWS & UPDATES FROM THE CAMPAIGN Senator Michelle Axtman Joins Running Mates on Dakota Mornings with Michael Bell…
+Priorities Meet Michelle News Get Involved Vote Contact DONATE NEWS NEWS & UPDATES FROM THE CAMPAIGN A snapshot look at Tuesday’s election Jun 10, 2026 | In the News NEWS NEWS & UPDATES FROM THE CAMPAIGN A snapshot look at Tuesday’s election Jun 10, 2026 BLAKE NICHOLSON Bismarck Tribune Bismarck residents on Tuesday reelected their mayor, and Bismarck-Mandan residents passed two local ballot measures that will raise their taxes… read more… District 7 Senate candidates make their case to voters around Bismarck Jun 3, 2026 | In the News NEWS NEWS & UPDATES FROM THE CAMPAIGN District 7 Senate candidates make their case to voters around Bismarck Jun 3,… Public asked to weigh in on technology use in North Dakota schools May 28, 2026 | In the News NEWS NEWS & UPDATES FROM THE CAMPAIGN Public asked to weigh in on technology use in North Dakota schools May 28, 2026… Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary May 4, 2026 | Press Release NEWS NEWS & UPDATES FROM THE CAMPAIGN Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June… Senator Michelle Axtman Joins Running Mates on Dakota Mornings with Michael Bell Mar 11, 2026 | In the News NEWS NEWS & UPDATES FROM THE CAMPAIGN Senator Michelle Axtman Joins Running Mates on Dakota Mornings with Michael Bell… « Older Entries PAID FOR BY MICHELLE AXTMAN, RON CARLISLE, TREASURER.
+Michelle Axtman is a member of the U.S.
+Air Force Reseve.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of War.
+All views expressed are those of the candidate and not of any government agency.

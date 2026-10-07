@@ -1,5 +1,4 @@
-Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations
-Oil.
+0 Skip to Content Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Open Menu Close Menu Straight from Mitch Media DONATE NOW Entanglement: How American Bombs in Iran Reached Oklahoma’s Gas Stations Sep 28 Written By Mitch Oil.
 One of the world’s most critical resources.
 Oil produces gasoline, diesel, jet fuel, plastic, nylon, asphalt, and so much more.
 The world consumes roughly 37.5 billion barrels of oil per year.
@@ -8,8 +7,7 @@ This is why Oklahomans are paying $4.15 per gallon of gasoline and $6.00 per gal
 For context, diesel was $3.27/gallon in September 2025.
 It has nearly doubled, and the reason is simple.
 Because the United States chose to attack a sovereign nation without congressional authorization, we Americans are paying the price for an unconstitutional war.
-The Global Oil Market
-As we have discovered all too well this year, the price of oil fluctuates—sometimes wildly—and this creates risk for both oil refineries and for oil companies.
+The Global Oil Market As we have discovered all too well this year, the price of oil fluctuates—sometimes wildly—and this creates risk for both oil refineries and for oil companies.
 Events in Russia, Iran, Saudi Arabia, or the United States can have major impacts upon the global price and supply of oil.
 Here’s why: oil is a highly fungible commodity.
 This means that a barrel of light crude produced in Oklahoma is effectively the same as a barrel of light crude produced in Russia or Saudi Arabia, and those barrels can all go into a refinery and come out as gasoline.
@@ -21,11 +19,9 @@ Most of this production is concentrated in the Permian Basin, which spans parts 
 Of the 13.6 million barrels produced per day, the United States exported an average of four million barrels per day.
 These exports tie U.S. oil to the global market.
 Because our markets are so deeply interconnected and intertwined, dropping bombs in Iran drove up the price of oil across the globe, including the United States.
-Global Supply Disruptions
-Prior to the U.S.-initiated conflict in Iran, roughly 20 million barrels of oil passed through the Strait of Hormuz each day, representing nearly 25% of all maritime oil shipping.
+Global Supply Disruptions Prior to the U.S.-initiated conflict in Iran, roughly 20 million barrels of oil passed through the Strait of Hormuz each day, representing nearly 25% of all maritime oil shipping.
 When the United States attacked Iran on February 28th, Iran immediately responded by shutting down the Strait.
-Here is a map showing the Strait of Hormuz:
-The Strait of Hormuz runs between Oman to the south and Iran to the north.
+Here is a map showing the Strait of Hormuz: The Strait of Hormuz runs between Oman to the south and Iran to the north.
 The Strait is used to transit between the Persian Gulf and the Gulf of Oman, with access then to the Arabian Sea and beyond.
 The Persian Gulf is bordered by Oman, the United Arab Emirates, Qatar, Kuwait, Saudi Arabia, Iran, Bahrain, and Iraq.
 At its narrowest point, the Strait is just 21 nautical miles wide, and the navigable shipping lanes are only two miles wide in each direction.
@@ -42,8 +38,7 @@ With the shuttering of the pipeline, there are very few viable alternatives to t
 Prior to this conflict, there were three roads out of town.
 Two of them are blocked, and somebody hit the detour.
 Options are running out.
-Where the Money Goes
-Refiners sit right in the middle of all this.
+Where the Money Goes Refiners sit right in the middle of all this.
 They buy crude oil, refine it into gasoline and diesel, and sell the fuel.
 The gap between what they pay for the crude and what they collect for the finished fuel is called the crack spread, and it works out to their gross margin.
 In a normal year, that gap stays fairly steady.
@@ -53,18 +48,21 @@ These increased margins don’t exist because anyone in Oklahoma got greedy.
 They exist because the war cut off supply, and every refinery in the world is selling into a shortage.
 The bill is paid by those who burn diesel for a living: trucking companies shipping goods down I-35, I-40, and I-44, the farmer who runs a combine at harvest, and every Oklahoma business that pays to ship anything by truck.
 Those costs are then passed on to hard-working Oklahomans in the form of higher prices.
-Conclusion
-Congress did not authorize this war in Iran.
-Article I of the United States Constitution grants Congress, not the President, the authority to declare war.
+Conclusion Congress did not authorize this war in Iran.
+Article I of the United States Constitution grants Congress, not the President , the authority to declare war.
 No such vote has been taken at this time.
 That makes this an unconstitutional war, and Tom Cole himself voted six times in 2026 to allow this conflict to continue, despite the full House of Representatives twice passing a resolution to end the war.
 Oklahomans are paying for that choice every time they fill up.
 A vote to end this war is a vote to reopen the supply lines that decide what diesel costs in Lawton and what gas costs in Norman.
 I'm asking for that vote.
-On November 3, hire me to represent this district in Washington, and I'll cast it.
-___
-U.S.
+On November 3, hire me to represent this district in Washington, and I'll cast it. ___ U.S.
 Crude Oil Production Rose in 2025, Setting New Record, U.S.
-Energy Information Administration, https://www.eia.gov/todayinenergy/detail.php?id=67404.Annual U.S.
+Energy Information Administration, https://www.eia.gov/todayinenergy/detail.php?id=67404 .
+Annual U.S.
 Crude Oil Exports Decreased for First Time Since 2021, U.S.
-Energy Information Administration, https://www.eia.gov/todayinenergy/detail.php?id=67404.
+Energy Information Administration, https://www.eia.gov/todayinenergy/detail.php?id=67404 .
+Mitch Father, husband, U.S.
+Army veteran, OU Law graduate, and 4th-generation Oklahoman—committed to a better Oklahoma and upholding the Constitution. http://www.mitchelljacob.com Previous Previous The Economics of Campaigning for Office Next Next Did You Vote for This War?
+Paid for by Mitchell Jacob for Congress Headquarters: 300 West Gray Street Norman, OK 73069 Tuesday - Friday 10:00 am - 2:00 pm Mailing: P.O.
+Box 1141 Newcastle, OK.
+73065-1141 (405) 407-6975 info@mitchelljacob.com Order Merchandise | Linktr.ee | Unsubscribe Terms and Conditions & Privacy Policy

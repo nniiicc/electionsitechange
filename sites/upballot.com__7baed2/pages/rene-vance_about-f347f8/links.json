@@ -1,14 +1,82 @@
 [
-"http://https//www.facebook.com/renevanceformo",
-"http://secure.actblue.com/donate/renevanceformo",
-"https://upballot.com/",
-"https://upballot.com/Rene-Vance/news/voter-guide",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/rene-vance",
-"https://upballot.com/rene-vance/about",
-"https://upballot.com/rene-vance/events",
-"https://upballot.com/rene-vance/get-involved",
-"https://upballot.com/rene-vance/issues",
-"https://upballot.com/rene-vance/news",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Rene",
+"href": "https://www.upballot.com/rene-vance/about/"
+},
+{
+"text": "Attend an Event",
+"href": "https://www.upballot.com/rene-vance/events/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "http://secure.actblue.com/donate/renevanceformo"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/rene-vance/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/rene-vance/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/rene-vance"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/rene-vance/issues/"
+},
+{
+"text": "Make a Donation",
+"href": "http://secure.actblue.com/donate/renevanceformo"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See All Updates",
+"href": "https://www.upballot.com/rene-vance/news/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/rene-vance/news/"
+},
+{
+"text": "Volunteer Now",
+"href": "mailto:volunteer-4-vance@pettiscountydemocrats.org?subject=Volunteer+Interest+for+Rene+Vance&body=I%E2%80%99m+interested+in+volunteering+for+Rene+Vance%E2%80%99s+campaign."
+},
+{
+"text": "[image: Rene Vance Logo]",
+"href": "https://www.upballot.com/rene-vance/"
+},
+{
+"text": "[image] October 1 Pettis County Voter Guide: Vote for Rene Vance on November 3rd Read More",
+"href": "https://www.upballot.com/Rene-Vance/news/voter-guide"
+},
+{
+"text": "[no text]",
+"href": "http://https//www.facebook.com/renevanceformo"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "http://https//www.facebook.com/renevanceformo"
+},
+{
+"text": "charlotte@renevanceformo.com",
+"href": "mailto:charlotte@renevanceformo.com"
+},
+{
+"text": "tel:660-281-9486",
+"href": "tel:660-281-9486"
+}
 ]

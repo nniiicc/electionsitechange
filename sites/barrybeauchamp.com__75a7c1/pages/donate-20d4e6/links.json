@@ -1,9 +1,34 @@
 [
-"https://barrybeauchamp.com/",
-"https://barrybeauchamp.com/accessibility-statement",
-"https://barrybeauchamp.com/donate",
-"https://barrybeauchamp.com/privacy-policy",
-"https://barrybeauchamp.com/terms-and-conditions",
-"https://facebook.com/share/1HnvFitqCo?mibextid=wwXIfr",
-"https://wix.com/studio"
+{
+"text": "ABOUT",
+"href": "https://www.barrybeauchamp.com"
+},
+{
+"text": "CCESSIBILITY STATEMENT",
+"href": "https://www.barrybeauchamp.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://www.barrybeauchamp.com/donate"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/share/1HnvFitqCo/?mibextid=wwXIfr"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.barrybeauchamp.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.barrybeauchamp.com/terms-and-conditions"
+},
+{
+"text": "VISION",
+"href": "https://www.barrybeauchamp.com"
+},
+{
+"text": "Wix Studio™",
+"href": "https://www.wix.com/studio"
+}
 ]

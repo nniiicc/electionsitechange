@@ -1,16 +1,66 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/RudyForIndiana",
-"https://instagram.com/rudyforindiana",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rudyforindiana.com/",
-"https://rudyforindiana.com/about",
-"https://rudyforindiana.com/get-involved",
-"https://rudyforindiana.com/privacy-policy",
-"https://secure.winred.com/rudy-for-indiana/donate-today",
-"https://twitter.com/rudyyakym?lang=en"
+{
+"text": "About",
+"href": "https://rudyforindiana.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rudy-for-indiana/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://rudyforindiana.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://rudyforindiana.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rudyforindiana.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Rudy for Indiana]",
+"href": "https://rudyforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/rudyyakym?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RudyForIndiana%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rudyforindiana/"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://rudyforindiana.com",
+"href": "https://rudyforindiana.com"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "info@rudyforindiana.com",
+"href": "mailto:info@rudyforindiana.com"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

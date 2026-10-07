@@ -1,10 +1,10 @@
-Media resources
-About Maura
-Maura is a mother, community organizer, activist, and educator who lives in Batavia with her husband and their three children.
+About Issues Events Vote Donate Contact Back Maura's Story Illinois District 49 Back Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources About Maura's Story Illinois District 49 Issues Events Vote Donate Contact Contact Maura Volunteer Yard Signs Candidate Endorsement Questionnaire Media Resources Candidate for 2020 Illinois House of Representative District 49 Media resources High Resolution Images About Maura Maura is a mother, community organizer, activist, and educator who lives in Batavia with her husband and their three children.
 As a founding member of Kane and Kendall County Moms Demand Action; her belief in common sense gun legislation and safety has driven Maura to pursue change at the local, state, and federal level.
 Her commitments to education, advocacy, and community service led Maura to run for office.
 Maura has served as the Representative to the 49th district since 2021.
 She sits on several education themed committees, the Energy and Environment committee, Housing, and Health and Human Services committees.
 Maura is an appointed member of the bicameral and bipartisan Medicaid Working Group, and the treasurer of the House Democratic Women's Caucus.
-Short Bio
-Full-time legislator, first elected in 2020; founding member of the Kane and Kendall County chapter of Moms Demand Action; former president of the Batavia Mothers' Club Foundation; teacher; B.A. in English from Colby College in Waterville, Maine; elementary and special education studies from University of Colorado, Denver.
+Short Bio Full-time legislator, first elected in 2020; founding member of the Kane and Kendall County chapter of Moms Demand Action; former president of the Batavia Mothers' Club Foundation; teacher; B.A. in English from Colby College in Waterville, Maine; elementary and special education studies from University of Colorado, Denver.
+Friends of Maura Hirschauer Batavia, IL, United States hello@votemaura.com Hours Join Team Maura volunteer registration email Facebook Instagram Twitter YouTube A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Contributions to Friends of Maura Hirschauer are not tax deductible.
+Privacy Policy

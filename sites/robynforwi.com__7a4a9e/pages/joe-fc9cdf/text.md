@@ -1,5 +1,4 @@
-Joe
-“A lesson we stress with our children is to leave a place better than we found it.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Joe More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett “A lesson we stress with our children is to leave a place better than we found it.
 When 2018 came, I knew I had to do more to leave my community better than I found it.
 I needed to get involved, especially for my children.
 The last decade of Wisconsin politics has been full of so much division and demagogy.
@@ -19,4 +18,4 @@ She loves and cares deeply about District 14, Wisconsin, and ALL people.
 Representative Vining has renewed my hope in democracy.
 I am honored to call her my friend and my representative.
 She reminds us that power in this country rests with we the people.
-Vote for Robyn Vining – she represents us, the people, as we deserve.” – Joe
+Vote for Robyn Vining – she represents us, the people, as we deserve.” – Joe More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

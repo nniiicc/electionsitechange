@@ -1,7 +1,9 @@
 {
  "description": "Download and share approved Cheryl Hewes campaign photos, graphics, and videos.",
  "final_url": "https://www.hewesforme.com/media",
- "paid_for_by": null,
+ "fingerprint": "29da379dbc619b6b40fddd162f69936919c42ad7",
+ "format": 3,
+ "paid_for_by": "authorized by Cheryl Hewes for State Senate © # Cheryl Hewes Campaign",
  "title": "Cheryl Hewes campaign media",
  "years_mentioned": []
 }

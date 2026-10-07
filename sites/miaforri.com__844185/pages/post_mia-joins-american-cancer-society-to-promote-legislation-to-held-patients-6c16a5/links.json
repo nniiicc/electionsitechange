@@ -1,23 +1,122 @@
 [
-"http://webserver.rilegislature.gov/billtext21/housetext21/h5432A.pdf",
-"http://webserver.rilin.state.ri.us/BillText/BillText22/HouseText22/H7587A.pdf",
-"http://webserver.rilin.state.ri.us/billtext18/housetext18/h7136.pdf",
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://kff.org/health-costs/poll-finding/public-opinion-on-prescription-drugs-and-their-prices",
-"https://miaforri.com/",
-"https://miaforri.com/about",
-"https://miaforri.com/contact",
-"https://miaforri.com/get-involved",
-"https://miaforri.com/news",
-"https://miaforri.com/post/mia-honors-lincoln-high-school-s-top-10-seniors",
-"https://miaforri.com/post/mia-introduces-consumer-protection-legislation-for-solar-industry",
-"https://miaforri.com/post/mia-joins-american-cancer-society-to-promote-legislation-to-held-patients",
-"https://miaforri.com/post/mia-raises-awareness-of-skin-cancer-prevention",
-"https://miaforri.com/profile/emily-martineau/profile",
-"https://rilegislature.gov/pressrelease/_layouts/15/ril.pressrelease.inputform/DisplayForm.aspx?List=c8baae31-3c10-431c-8dcd-9dbbe21ce3e9&ID=374077",
-"https://twitter.com/wix",
-"https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H7301.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H8041.pdf",
-"https://wix.com/"
+{
+"text": "2018-H 7136",
+"href": "http://webserver.rilin.state.ri.us/billtext18/housetext18/h7136.pdf"
+},
+{
+"text": "2021-H 5432A",
+"href": "http://webserver.rilegislature.gov/billtext21/housetext21/h5432A.pdf"
+},
+{
+"text": "2022-H 7587A",
+"href": "http://webserver.rilin.state.ri.us/BillText/BillText22/HouseText22/H7587A.pdf"
+},
+{
+"text": "2024-H 7301",
+"href": "https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H7301.pdf"
+},
+{
+"text": "2024-H 8041",
+"href": "https://webserver.rilegislature.gov/BillText/BillText24/HouseText24/H8041.pdf"
+},
+{
+"text": "About",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.miaforri.com/about"
+},
+{
+"text": "All Articles",
+"href": "https://www.miaforri.com/news"
+},
+{
+"text": "Contact",
+"href": "https://www.miaforri.com/contact"
+},
+{
+"text": "D 45 - Cumberland, Lincoln",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.miaforri.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.miaforri.com/post/mia-joins-american-cancer-society-to-promote-legislation-to-held-patients"
+},
+{
+"text": "Mia Ackerman",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "Mia honors Lincoln High School's Top 10 Seniors",
+"href": "https://www.miaforri.com/post/mia-honors-lincoln-high-school-s-top-10-seniors"
+},
+{
+"text": "Mia introduces consumer protection legislation for solar industry",
+"href": "https://www.miaforri.com/post/mia-introduces-consumer-protection-legislation-for-solar-industry"
+},
+{
+"text": "Mia raises awareness of skin cancer prevention",
+"href": "https://www.miaforri.com/post/mia-raises-awareness-of-skin-cancer-prevention"
+},
+{
+"text": "News",
+"href": "https://www.miaforri.com/news"
+},
+{
+"text": "RI STATE REPRESENTATIVE",
+"href": "https://www.miaforri.com"
+},
+{
+"text": "See All",
+"href": "https://www.miaforri.com/news"
+},
+{
+"text": "Wix.com",
+"href": "https://wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Mia honors Lincoln High School's Top 10 Seniors]",
+"href": "https://www.miaforri.com/post/mia-honors-lincoln-high-school-s-top-10-seniors"
+},
+{
+"text": "[image: Mia introduces consumer protection legislation for solar industry]",
+"href": "https://www.miaforri.com/post/mia-introduces-consumer-protection-legislation-for-solar-industry"
+},
+{
+"text": "[image: Mia raises awareness of skin cancer prevention]",
+"href": "https://www.miaforri.com/post/mia-raises-awareness-of-skin-cancer-prevention"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "a 2023 report from the Kaiser Family Foundation",
+"href": "https://www.kff.org/health-costs/poll-finding/public-opinion-on-prescription-drugs-and-their-prices/"
+},
+{
+"text": "emilymartineau",
+"href": "https://www.miaforri.com/profile/emily-martineau/profile"
+},
+{
+"text": "medical research easier",
+"href": "https://www.rilegislature.gov/pressrelease/_layouts/15/ril.pressrelease.inputform/DisplayForm.aspx?List=c8baae31-3c10-431c-8dcd-9dbbe21ce3e9&ID=374077"
+},
+{
+"text": "miaforrep@gmail.com",
+"href": "mailto:miaforrep@gmail.com"
+}
 ]

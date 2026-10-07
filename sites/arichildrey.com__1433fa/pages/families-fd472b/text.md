@@ -1,9 +1,11 @@
-Platform - Ohio Families
-Ohio Families
-Strong Ohio families build a strong Ohio.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In Platform - Ohio Families Support Ari's Campaign > Ohio Families Strong Ohio families build a strong Ohio.
 I am committed to policies that support parents, children, seniors, and working people—making sure families have the tools to thrive, stay healthy, safe, and stable in our communities, whether urban or rural.
 Fund and expand community drug intervention programs to combat Ohio's ongoing drug epidemic, focusing on prevention, treatment access, harm reduction (like naloxone distribution), and recovery support—saving lives and helping families heal from addiction's impact.
 Address Ohio's elder care crisis by investing in home- and community-based services, supporting caregivers, combating rising elder abuse and financial exploitation, and preparing for our aging population's growing needs—including better long-term care access, workforce support, and protections to help seniors age with dignity in place.
 Support HB 225 (the Ohio Employment First and Greater Opportunities for Persons with Disabilities Act) to phase out subminimum wages for workers with disabilities, ensure fair pay for all, promote supportive employment, and provide tax incentives—treating every worker with the dignity and economic security they deserve.
 Support programs that make quality childcare more affordable and accessible for working families, including expanded tax credits, public-private partnerships to build more facilities (especially in rural and urban childcare deserts), and increased funding for subsidies and cost-sharing models to ease the financial burden on parents.
 Pass comprehensive housing reforms to protect families from instability, including banning source-of-income discrimination (so landlords can't reject tenants using vouchers or assistance), reforming eviction processes, and strengthening nondiscrimination protections for sexual orientation and gender identity in housing—ensuring safe, affordable homes for all.
+These aren't abstract ideas—they're real solutions to help Ohio families overcome challenges, build brighter futures, and know their government stands with them every step of the way.
+ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

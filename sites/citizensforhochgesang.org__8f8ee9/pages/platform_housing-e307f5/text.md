@@ -1,6 +1,4 @@
-Priority Detail
-Housing Families Can Afford
-Young families can't stay if there's nowhere to live.
+Skip to content Brad Hochgesang for State Senate Donate Join Us Home / Platform / Housing ← Back to About & Priorities Priority Detail Housing Families Can Afford Young families can't stay if there's nowhere to live.
 We need housing policy that builds communities, not just developments.
 Pike County hadn't built a new single-family subdivision in Petersburg in over 35 years until the Meadows at Parkview project broke ground in 2024.
 Holiday World in Spencer County built its own employee housing because workers couldn't find places to live.
@@ -10,3 +8,11 @@ Many of the 7,000+ Toyota employees commute from outside Gibson County because h
 Housing is both a cause and consequence of population decline.
 Every county except Dubois is losing people.
 I'll push for state-level tools that help rural communities build starter homes, reduce regulatory barriers, and attract families who want to put down roots.
+Brad Hochgesang Do the homework.
+Ask the people.
+Fight for their answer.
+I intend to prove it.
+Contact: [email protected] Explore News Our District Events About & Priorities The Record Media & Press Shirts & Signs Support Contact Us Stay in the loop Campaign updates, straight from Brad.
+Email address ZIP code Sign me up Prefer to chip in?
+Choose how to donate.
+Follow us on social media Facebook YouTube Instagram Paid for by Citizens For Hochgesang

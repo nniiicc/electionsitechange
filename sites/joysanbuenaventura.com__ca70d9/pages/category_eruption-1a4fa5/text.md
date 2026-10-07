@@ -1,20 +1,6 @@
-Eruption Disaster Relief
-State Rep.
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website eruption Home > news > eruption Eruption Disaster Relief Post author: ellen Post published: September 2, 2020 Post category: disaster / eruption State Rep.
 Joy San Buenaventura, of Puna, says sending the funds would be subject to the Hawaii County Council approval.
-She says lawmakers have been working on this since last…
-Skip to content
-eruption
-Eruption Disaster Relief
-State Rep.
-Joy San Buenaventura, of Puna, says sending the funds would be subject to the Hawaii County Council approval.
-She says lawmakers have been working on this since last…
-newsletter
-This is a link to my latest newsletter : https://mailchi.mp/1775ac404885/2020-05-05-covid19-update?fbclid=IwAR1v3C83vfTqx_I5a6WT62mUPzlogDJWs1sdp5KK373YUrZQZ_x3rtTPzLI Announcements GOV IGE ISSUES 7TH SUPPLEMENTAL PROCLAMATION IN NEXT PHASE OF REOPENINGWith phase one the following businesses and activities can…
-Honey for gift giving
-Helping local beekeeper,who frantically rescued hives from Kapoho papaya farm before it was overrun by lava, by buying surplus honey and ahnd bottling for gift giving.
-Pahoa shelter for Lava evacuees
-The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
-The project began…
-support housing for evacuees
-Rep.
-San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and…
+She says lawmakers have been working on this since last… Continue Reading Eruption Disaster Relief Goals and accomplishments Post author: ellen Post published: June 30, 2020 Post category: agriculture / campaign / disaster / eruption / health Continue Reading Goals and accomplishments newsletter Post author: ellen Post published: May 21, 2020 Post category: agriculture / campaign / disaster / eruption / health / HOA / housing / internet / legislation / transportation This is a link to my latest newsletter : https://mailchi.mp/1775ac404885/2020-05-05-covid19-update?fbclid=IwAR1v3C83vfTqx_I5a6WT62mUPzlogDJWs1sdp5KK373YUrZQZ_x3rtTPzLI Announcements GOV IGE ISSUES 7TH SUPPLEMENTAL PROCLAMATION IN NEXT PHASE OF REOPENINGWith phase one the following businesses and activities can… Continue Reading newsletter Honey for gift giving Post author: ellen Post published: September 9, 2018 Post category: agriculture / eruption Helping local beekeeper,who frantically rescued hives from Kapoho papaya farm before it was overrun by lava, by buying surplus honey and ahnd bottling for gift giving.
+Continue Reading Honey for gift giving Pahoa shelter for Lava evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption / housing The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
+The project began… Continue Reading Pahoa shelter for Lava evacuees support housing for evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption Rep.
+San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and… Continue Reading support housing for evacuees Recent Posts Mahalo Veteran Day Address Food Drive Candidate Spotlight MAHALO TO ALL Recent Comments Archives December 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 September 2018 July 2018 May 2018 April 2018 March 2018 February 2018 Categories agriculture campaign Covid disaster eruption health HOA housing internet legislation transportation Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

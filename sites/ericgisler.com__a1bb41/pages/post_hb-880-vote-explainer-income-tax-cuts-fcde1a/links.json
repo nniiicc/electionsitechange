@@ -1,17 +1,70 @@
 [
-"https://ericgisler.com/",
-"https://ericgisler.com/about",
-"https://ericgisler.com/contact",
-"https://ericgisler.com/endorsements",
-"https://ericgisler.com/get-involved",
-"https://ericgisler.com/issues",
-"https://ericgisler.com/sponsored-legislation",
-"https://ericgisler.com/updates",
-"https://ericgisler.com/voting-record",
-"https://facebook.com/gislerforgeorgia",
-"https://instagram.com/emgisler",
-"https://legis.ga.gov/legislation/70350",
-"https://legis.ga.gov/legislation/71847",
-"https://secure.actblue.com/donate/2026-gisler-main",
-"https://tiktok.com/@ericgisler"
+{
+"text": "About",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "About Eric",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ericgisler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2026-gisler-main"
+},
+{
+"text": "Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://www.ericgisler.com/sponsored-legislation"
+},
+{
+"text": "VOTING Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "View Bill ->",
+"href": "https://www.legis.ga.gov/legislation/70350"
+},
+{
+"text": "View Bill ->",
+"href": "https://www.legis.ga.gov/legislation/71847"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericgisler.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.ericgisler.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/gislerforgeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/emgisler/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@ericgisler"
+},
+{
+"text": "endorsements",
+"href": "https://www.ericgisler.com/endorsements"
+},
+{
+"text": "issues",
+"href": "https://www.ericgisler.com/issues"
+},
+{
+"text": "updates",
+"href": "https://www.ericgisler.com/updates"
+}
 ]

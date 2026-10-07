@@ -1,15 +1,70 @@
 [
-"https://facebook.com/paulbaileyforsenate",
-"https://google.com/maps/place/252+Lowery+Rd,+Sparta,+TN+38583/@35.906249,-85.5628877,17z/data=!3m1!4b1!4m5!3m4!1s0x88672bccd02eddb7:0xe61b17a8f0191dd1!8m2!3d35.906249!4d-85.560699",
-"https://google.com/maps/place/Cordell+Hull+State+Office+Building/@36.1670859,-86.7851794,17z/data=!3m1!4b1!4m5!3m4!1s0x886466f86b395987:0x24151d88e0f1f5ff!8m2!3d36.1670859!4d-86.7829907",
-"https://paulbaileyfortn.com/",
-"https://paulbaileyfortn.com/about",
-"https://paulbaileyfortn.com/contact",
-"https://paulbaileyfortn.com/news",
-"https://paulbaileyfortn.com/privacy-policy",
-"https://paulbaileyfortn.com/rsvp",
-"https://paulbaileyfortn.com/terms-and-conditions",
-"https://paulbaileyfortn.com/wp-login.php?action=lostpassword",
-"https://twitter.com/paulbaileyfortn",
-"https://youtube.com/channel/UCqod96fU_ydluA6BN7LojbA"
+{
+"text": "(615) 741-3978",
+"href": "tel:+16157413978"
+},
+{
+"text": "252 Lowery Rd. Sparta, TN 38583",
+"href": "https://www.google.com/maps/place/252+Lowery+Rd,+Sparta,+TN+38583/@35.906249,-85.5628877,17z/data=!3m1!4b1!4m5!3m4!1s0x88672bccd02eddb7:0xe61b17a8f0191dd1!8m2!3d35.906249!4d-85.560699"
+},
+{
+"text": "425 5th Ave. N Suite 736 Cordell Hull Bldg. Nashville, TN 37243",
+"href": "https://www.google.com/maps/place/Cordell+Hull+State+Office+Building/@36.1670859,-86.7851794,17z/data=!3m1!4b1!4m5!3m4!1s0x886466f86b395987:0x24151d88e0f1f5ff!8m2!3d36.1670859!4d-86.7829907"
+},
+{
+"text": "About Paul",
+"href": "https://paulbaileyfortn.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://paulbaileyfortn.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://paulbaileyfortn.com/rsvp/"
+},
+{
+"text": "Forgot password?",
+"href": "https://paulbaileyfortn.com/wp-login.php?action=lostpassword"
+},
+{
+"text": "HERE",
+"href": "https://paulbaileyfortn.com/privacy-policy/"
+},
+{
+"text": "HERE",
+"href": "https://paulbaileyfortn.com/terms-and-conditions/"
+},
+{
+"text": "Home",
+"href": "https://paulbaileyfortn.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulbaileyfortn.com/privacy-policy/"
+},
+{
+"text": "Weekly Capitol Update",
+"href": "https://paulbaileyfortn.com/news/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://paulbaileyfortn.com"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://twitter.com/paulbaileyfortn"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/paulbaileyforsenate/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.youtube.com/channel/UCqod96fU_ydluA6BN7LojbA"
+},
+{
+"text": "paul@paulbaileyfortn.com",
+"href": "mailto:paul@paulbaileyfortn.com"
+}
 ]

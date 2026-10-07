@@ -1,41 +1,170 @@
 [
-"https://facebook.com/Marc.Korman.Campaign",
-"https://marckorman.com/",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://marckorman.com/uploads/1/3/9/1/139129583/aflcio_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/black_dems_candidate_endorsement_questionnaire_2018.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/food_and_water_action_fund_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/freethought_equality_fund_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/marc_korman_green_democrats_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/maryland_maternity_access_coalition_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/mccpta_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/mcpsretirees_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/medical_pac_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/msea_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/our_revolution_md_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/sc_lcv_cwa_questionnaire.pdf",
-"https://marckorman.com/uploads/1/3/9/1/139129583/vocal_moco_questionnaire.pdf",
-"https://twitter.com/mkorman",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "Association of Black Democrats of Montgomery County",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/black_dems_candidate_endorsement_questionnaire_2018.pdf"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "Food & Water Action Fund",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/food_and_water_action_fund_questionnaire.pdf"
+},
+{
+"text": "Freethought Equality Fund",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/freethought_equality_fund_questionnaire.pdf"
+},
+{
+"text": "Green Democrats",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/marc_korman_green_democrats_questionnaire.pdf"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "MCPS Retirees",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/mcpsretirees_questionnaire.pdf"
+},
+{
+"text": "Maryland Maternity Access Coalition",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/maryland_maternity_access_coalition_questionnaire.pdf"
+},
+{
+"text": "Maryland Medical Political Action Committee",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/medical_pac_questionnaire.pdf"
+},
+{
+"text": "Maryland State Education Association",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/msea_questionnaire.pdf"
+},
+{
+"text": "Metropolitan Washington Council AFL-CIO",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/aflcio_questionnaire.pdf"
+},
+{
+"text": "Montgomery County Council of Parent-Teacher Associations",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/mccpta_questionnaire.pdf"
+},
+{
+"text": "Our Revolution Maryland",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/our_revolution_md_questionnaire.pdf"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "Sierra Club, the League of Conservation Voters, and Clean Water Action",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/sc_lcv_cwa_questionnaire.pdf"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "Voters Opposing County Alcohol Laws in Montgomery County",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/vocal_moco_questionnaire.pdf"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "​",
+"href": "https://www.marckorman.com/uploads/1/3/9/1/139129583/maryland_maternity_access_coalition_questionnaire.pdf"
+}
 ]

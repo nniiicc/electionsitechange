@@ -1,10 +1,13 @@
 {
  "description": "",
  "final_url": "https://www.langan4tn.com/environment",
+ "fingerprint": "2c4b160e190a274be4e548661d7032ca7f4ce94b",
+ "format": 3,
  "paid_for_by": "Paid for by Langan for Tennessee",
- "title": "Environment \u2014 Langan for Tennessee",
+ "title": "Environment — Langan for Tennessee",
  "years_mentioned": [
   "2010",
-  "2020"
+  "2020",
+  "2038"
  ]
 }

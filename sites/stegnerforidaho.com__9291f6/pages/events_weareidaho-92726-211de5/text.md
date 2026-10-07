@@ -1,10 +1,4 @@
-Back to All Events
-Come meet John and other local candidates at an outdoor event hosted by We Are Idaho.
+0 Skip to Content Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Open Menu Close Menu Home Meet John Priorities Get Involved Media Events Donate Back to All Events We Are Idaho Inc.
+Meet & Greet Sunday, September 27, 2026 1:00 PM 3:00 PM Caldwell Memorial Park 619 Irving Street Caldwell, Idaho, 83605 United States (map) Google Calendar ICS Come meet John and other local candidates at an outdoor event hosted by We Are Idaho.
 Hear short speeches by the candidates and ask questions.
-Previous
-Previous
-September 23
-Join John at An Evening with Independent Candidates
-Next
-Next
-September 29
+Previous Previous September 23 Join John at An Evening with Independent Candidates Next Next September 29 Campaign Party Stegner for Idaho Paid for by Stegner for Idaho Treasurer: Joe Stegner Privacy policy Terms & conditions Contact M: info@stegnerforidaho.com Ph: (208) 830-0373 Stegner for Idaho PO Box 86 Boise, ID 83701

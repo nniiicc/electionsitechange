@@ -1,7 +1,11 @@
 {
  "description": "Volunteer for Erica Mosca, Democrat running for Nevada State Assembly (District 14).",
  "final_url": "https://www.ericamosca.com/get-involved",
- "paid_for_by": null,
+ "fingerprint": "88b016ef77ec0f71e577466ab3f39ce2097a4abd",
+ "format": 3,
+ "paid_for_by": "Authorized by the Committee to Elect Erica Mosca 2126 Citroen St",
  "title": "Erica Mosca | Las Vegas Democrat for Nevada State Assembly | Volunteer",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

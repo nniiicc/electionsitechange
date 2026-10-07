@@ -1,4 +1,7 @@
-What do I mean by the “Politics of Care” that I talk about all the time?
+0 Skip to Content Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Learn More Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Get Involved Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Contact Us Contact Jess Get Newsletters Donate Open Menu Close Menu Home Folder: Learn More Back Who is Jess?
+The Story Photos The Politics of Care Committees & Bills Endorsements (2024) Endorsements (2026) Folder: Get Involved Back Get a Lawn Sign Door Knock Volunteer Host a House Party Donate Events Folder: Contact Us Back Contact Jess Get Newsletters Donate What do I mean by the “Politics of Care” that I talk about all the time?
 Since my first campaign, I’ve talked a lot about the #PoliticsOfCare.
 This philosophy influences how I make decisions as a candidate, as an entrusted leader, and as a public servant.
 I have a master’s degree in political leadership, and this was a phrase that a founder of my grad school program said all the time.
@@ -23,8 +26,10 @@ The #PoliticsOfCare means bringing your feelings, cares, and passions into polit
 Politics is how we express moral values, reinforce social norms, and build a world and society we’ll be proud to leave to the next seven generations.
 We must believe that everyone deserves to be treated as equals and commit ourselves to building better systems than those that have held back so many people because of their race, religion, sexual orientation, gender identity, or age.
 It means treating people like people and applying the gold and platinum rules of treating others how you would want to be treated and treating others how they ask to be treated.
-The Politics of Care means that we work hard for the WE over the me.
+The Politics of Care means that we work hard for the WE over the me .
 I’ve knocked on thousands upon thousands of doors in our community, and I hear over and over that people want me to keep this at the forefront because it aligns with their politics too.
 Join me in spreading the word!
 We do not need fear, violence, and threats to build a world we can be proud of.
 We just need good, old-fashioned compassion, humility, and each other.
+Get Email Updates Click Here to Donate on ActBlue Today!
+Prepared and paid for by the Committee for Jess Hanson for House, PO Box 1161, Burnsville, MN 55336

@@ -1,13 +1,46 @@
 [
-"https://facebook.com/NuccioforCT",
-"https://nuccioforct.com/",
-"https://nuccioforct.com/about-tammy.html",
-"https://nuccioforct.com/contact.html",
-"https://nuccioforct.com/privacy-notice.html",
-"https://nuccioforct.com/tammys-end-of-sessions.html",
-"https://nuccioforct.com/why-you-should-re-elect-nuccio.html",
-"https://tollandct.gov/town-clerk/news/november-5-2024-presidential-election-voting-information-options",
-"https://vernon-ct.gov/elections",
-"https://weebly.com/signup",
-"https://willingtonct.gov/elections-department"
+{
+"text": "About Tammy",
+"href": "https://www.nuccioforct.com/about-tammy.html"
+},
+{
+"text": "Contact",
+"href": "https://www.nuccioforct.com/contact.html"
+},
+{
+"text": "Home",
+"href": "https://www.nuccioforct.com/"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.nuccioforct.com/privacy-notice.html"
+},
+{
+"text": "Tammy's End of Sessions",
+"href": "https://www.nuccioforct.com/tammys-end-of-sessions.html"
+},
+{
+"text": "Tolland Voting Information",
+"href": "https://www.tollandct.gov/town-clerk/pages/voter-registration-absentee-ballots"
+},
+{
+"text": "Vernon Voting Information",
+"href": "https://www.vernon-ct.gov/page/registrars-of-voters"
+},
+{
+"text": "Why You Should Re-Elect Nuccio",
+"href": "https://www.nuccioforct.com/why-you-should-re-elect-nuccio.html"
+},
+{
+"text": "Willington Voting Information",
+"href": "https://www.willingtonct.gov/1302/Elections"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NuccioforCT"
+}
 ]

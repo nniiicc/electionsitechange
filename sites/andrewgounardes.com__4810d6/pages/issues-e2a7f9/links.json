@@ -1,25 +1,138 @@
 [
-"https://andrewgounardes.com/",
-"https://andrewgounardes.com/about",
-"https://andrewgounardes.com/contact",
-"https://andrewgounardes.com/endorsements",
-"https://andrewgounardes.com/issues/creating-affordable-housing",
-"https://andrewgounardes.com/issues/ending-the-gun-violence-epidemic",
-"https://andrewgounardes.com/issues/expanding-college-access",
-"https://andrewgounardes.com/issues/fighting-for-economic-justice",
-"https://andrewgounardes.com/issues/issue-1",
-"https://andrewgounardes.com/issues/issue-2",
-"https://andrewgounardes.com/issues/lowering-utility-costs",
-"https://andrewgounardes.com/issues/protecting-our-climate",
-"https://andrewgounardes.com/issues/protecting-reproductive-rights",
-"https://andrewgounardes.com/issues/support-working-families",
-"https://andrewgounardes.com/issues/supporting-immigrant-communities",
-"https://andrewgounardes.com/news",
-"https://andrewgounardes.com/volunteer",
-"https://andrewgounardes.com/voting-info",
-"https://designedtorun.com/",
-"https://facebook.com/AndrewForNewYork",
-"https://instagram.com/agounardes",
-"https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1",
-"https://x.com/agounardes"
+{
+"text": "About",
+"href": "https://www.andrewgounardes.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.andrewgounardes.com/contact"
+},
+{
+"text": "Creating Affordable Housing",
+"href": "https://www.andrewgounardes.com/issues/creating-affordable-housing"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andrew-gounardes-for-state-senate-1"
+},
+{
+"text": "Ending the Gun Violence Epidemic",
+"href": "https://www.andrewgounardes.com/issues/ending-the-gun-violence-epidemic"
+},
+{
+"text": "Endorsements",
+"href": "https://www.andrewgounardes.com/endorsements"
+},
+{
+"text": "Expanding College Access",
+"href": "https://www.andrewgounardes.com/issues/expanding-college-access"
+},
+{
+"text": "Fighting for Economic Justice",
+"href": "https://www.andrewgounardes.com/issues/fighting-for-economic-justice"
+},
+{
+"text": "Keeping Kids Safe Online",
+"href": "https://www.andrewgounardes.com/issues/issue-1"
+},
+{
+"text": "Lowering Utility Costs",
+"href": "https://www.andrewgounardes.com/issues/lowering-utility-costs"
+},
+{
+"text": "Making Streets Safer and Transit Faster",
+"href": "https://www.andrewgounardes.com/issues/issue-2"
+},
+{
+"text": "News",
+"href": "https://www.andrewgounardes.com/news"
+},
+{
+"text": "Protecting Immigrant New Yorkers",
+"href": "https://www.andrewgounardes.com/issues/supporting-immigrant-communities"
+},
+{
+"text": "Protecting Our Climate",
+"href": "https://www.andrewgounardes.com/issues/protecting-our-climate"
+},
+{
+"text": "Protecting Reproductive Rights",
+"href": "https://www.andrewgounardes.com/issues/protecting-reproductive-rights"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Supporting Working Families",
+"href": "https://www.andrewgounardes.com/issues/support-working-families"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/creating-affordable-housing"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/ending-the-gun-violence-epidemic"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/expanding-college-access"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/fighting-for-economic-justice"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/lowering-utility-costs"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/protecting-our-climate"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/protecting-reproductive-rights"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/support-working-families"
+},
+{
+"text": "View more",
+"href": "https://www.andrewgounardes.com/issues/supporting-immigrant-communities"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewgounardes.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.andrewgounardes.com/voting-info"
+},
+{
+"text": "[image: Andrew Gounardes for State Senate ]",
+"href": "https://www.andrewgounardes.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/AndrewForNewYork"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/agounardes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/agounardes"
+}
 ]

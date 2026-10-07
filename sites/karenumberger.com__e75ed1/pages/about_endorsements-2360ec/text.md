@@ -1,8 +1,2 @@
-PLEDGES
-Americans for Tax Reform (ATR Pledge)
-Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT)
-SCORES and RATINGS (based on voting records or surveys)
-NH House Republican Alliance (HRA-2022) – 79.0%
-NH Firearms Coalition (NHFC) – A
-ENDORSED BY THESE ORGANIZATIONS
-ENDORSED BY GOVERNOR AYOTTE
+603.356.6881 karen@karenumberger.com Facebook Facebook HOME ABOUT ENDORSEMENTS ISSUES LINKS NEWS DONATE Select Page ENDORSEMENTS PLEDGES Americans for Tax Reform (ATR Pledge) Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT) SCORES and RATINGS (based on voting records or surveys) NH House Republican Alliance (HRA-2022) – 79.0% NH Firearms Coalition (NHFC) – A ENDORSED BY THESE ORGANIZATIONS NH Right to Life (NHRTL) ENDORSED BY GOVERNOR AYOTTE SEARCH OUR SITE Search for: READ THE POSTS Click on the title to reveal the full article and social sharing icons.
+Facebook Copyright © # • Paid For By Karen Umberger for State Representative • Carroll County District 1 • Conway, New Hampshire

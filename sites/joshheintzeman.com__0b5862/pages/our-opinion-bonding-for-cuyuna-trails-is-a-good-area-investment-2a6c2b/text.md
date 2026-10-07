@@ -1,6 +1,4 @@
-Our Opinion: Bonding for Cuyuna trails is a good area investment
-Originally published by the Brainerd Dispatch
-May 23 is approaching fast.
+Skip to content Menu Home Issues About Josh Accomplishments Get Involved News Contact Donate Close Menu May 13, 2016 Our Opinion: Bonding for Cuyuna trails is a good area investment Article Bonding , Cuyuna Originally published by the Brainerd Dispatch May 23 is approaching fast.
 That’s the date that the Minnesota Legislature is set to adjourn, presumably with its work for the session completed.
 It’s looking more and more like that won’t be happening.
 Numerous important issues still need to be resolved, including a bonding bill in which funding for several area projects hangs in the balance.
@@ -13,8 +11,7 @@ Adding trails means mountain bikers stay in the area longer and could potentiall
 The importance of the trails isn’t just tourism, Hautala said.
 The trails also are a draw for recruiting and maintaining talent in the area.
 “Trails are a magnet to bring in the next generation. … Quality of life is a leading factor,” in how millennials choose where they’d like to live, Hautala said.
-“We need to make sure we take care of this gift.”
-The nationally recognized mountain bike trails in Cuyuna Country State Recreation Area do not just benefit the Crosby area.
+“We need to make sure we take care of this gift.” The nationally recognized mountain bike trails in Cuyuna Country State Recreation Area do not just benefit the Crosby area.
 Riders using the trails come from all over the world, Hautala said, and they lodge in the Mille Lacs Lake area, in Brainerd-Baxter and in Nisswa.
 It’s good to see our local state legislators—Sen.
 Carrie Ruud, Sen.
@@ -33,3 +30,5 @@ Such a bill will have to be debated on its merits.
 If the hold up on bonding is merely political, that’s a failure on everyone’s part.
 It’s time we ask our elected officials to be leaders, to rise to the occasion and actually do what’s expected of them.
 Saying it’s too hard to come to a compromise is not acceptable.
+Community discusses child care access, affordability Heintzeman, Gazelka author veterans’ tax cut provision in supplemental budget Related Posts Article State Legislature: Area legislators hail veterans tax cut bill: They share high, low points of session Article Guest Column: Legislative session featured positives, negatives Article Brainerd legislators seize victory amid end-of-session chaos Search Recent Posts Radio Ad Transcripts 2020 Radio Ad Transcripts 2018 Radio Ad Transcripts 2016 State Legislature: Area legislators hail veterans tax cut bill: They share high, low points of session Categories Article Radio Ad Uncategorized Tags Bonding Child Care Cuyuna Legislature Taxes Veterans Archives July 2022 October 2020 October 2018 October 2016 June 2016 May 2016 February 2016 Back To Top © www.joshheintzeman.com # Prepared and paid for by Committee to Elect Josh Heintzeman, P.O.
+Box 33, Merrifield, MN 56465

@@ -1,7 +1,26 @@
 [
-"https://darvishforcongress.com/legal.html",
-"https://darvishforcongress.com/legislation.html",
-"https://darvishforcongress.com/media.html",
-"https://darvishforcongress.com/privacy.html",
-"https://vote.utah.gov/"
+{
+"text": "Legal & Compliance",
+"href": "https://www.darvishforcongress.com/legal.html"
+},
+{
+"text": "Legislation",
+"href": "https://www.darvishforcongress.com/legislation.html"
+},
+{
+"text": "Media",
+"href": "https://www.darvishforcongress.com/media.html"
+},
+{
+"text": "Official Utah Voting Information",
+"href": "https://vote.utah.gov/"
+},
+{
+"text": "Privacy",
+"href": "https://www.darvishforcongress.com/privacy.html"
+},
+{
+"text": "campaign@darvishforcongress.com",
+"href": "mailto:campaign@darvishforcongress.com"
+}
 ]

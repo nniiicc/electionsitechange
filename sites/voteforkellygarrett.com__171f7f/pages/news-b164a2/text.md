@@ -1,4 +1,1 @@
-News
-Latest updates from the campaign:
-Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076
-Powered by CampaignPartner.com - Political Websites
+Meet Kelly Issues News Volunteer Contribute News Latest updates from the campaign: 19 Dec Friday, 2:39 PM · 2025 Lathrup Village, Southfield launch petition to get answers from DTE Energy about power outages Read more 25 Mar Monday, 12:00 AM · 2024 2024 State of the City Address Read more 5 Apr Wednesday, 2:47 PM · 2023 State of the cities address focuses on developments Read more 23 Dec Thursday, 8:05 AM · 2021 Lathrup Village Mayor starts scholarship in her son's memory Read more Meet Kelly Voter Information Endorsements Events Photos Contact Privacy Policy Paid for by Committee to Elect Kelly Garrett, 18804 Lacrosse Ave., Lathrup Village, MI 48076 Powered by CampaignPartner.com - Political Websites Home Meet Kelly Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

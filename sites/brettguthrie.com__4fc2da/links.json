@@ -1,10 +1,50 @@
 [
-"https://brettguthrie.com/",
-"https://brettguthrie.com/meet-brett",
-"https://brettguthrie.com/privacy-policy",
-"https://facebook.com/brettguthrieky02",
-"https://secure.winred.com/BrettGuthrie/donate",
-"https://twitter.com/brettguthrie",
-"https://x.com/brettguthrie",
-"https://youtube.com/@brettguthrie8517"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/BrettGuthrie/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/BrettGuthrie/donate"
+},
+{
+"text": "Learn More",
+"href": "https://brettguthrie.com/meet-brett"
+},
+{
+"text": "Privacy Policy",
+"href": "https://brettguthrie.com/privacy-policy"
+},
+{
+"text": "See More",
+"href": "https://www.youtube.com/@brettguthrie8517"
+},
+{
+"text": "[image: Brett Guthrie for Congress][image: Brett Guthrie for Congress]",
+"href": "https://brettguthrie.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/brettguthrie"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brettguthrieky02/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@brettguthrie8517"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/brettguthrieky02/"
+},
+{
+"text": "x-twitter",
+"href": "https://x.com/brettguthrie"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@brettguthrie8517"
+}
 ]

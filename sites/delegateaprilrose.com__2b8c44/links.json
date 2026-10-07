@@ -1,6 +1,22 @@
 [
-"https://delegateaprilrose.com/",
-"https://delegateaprilrose.com/about",
-"https://delegateaprilrose.com/priorities",
-"https://facebook.com/DelegateRose"
+{
+"text": "About",
+"href": "https://delegateaprilrose.com/about/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DelegateRose"
+},
+{
+"text": "Home",
+"href": "https://delegateaprilrose.com/"
+},
+{
+"text": "Priorities",
+"href": "https://delegateaprilrose.com/priorities/"
+},
+{
+"text": "[image]",
+"href": "https://delegateaprilrose.com"
+}
 ]

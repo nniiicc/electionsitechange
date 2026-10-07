@@ -1,34 +1,194 @@
 [
-"https://anthonyhudson.media/",
-"https://codecrafteddigital.com/",
-"https://electanthonyhudson.com/",
-"https://electanthonyhudson.com/1dollar",
-"https://electanthonyhudson.com/cart",
-"https://electanthonyhudson.com/contribute",
-"https://electanthonyhudson.com/endorsements",
-"https://electanthonyhudson.com/events",
-"https://electanthonyhudson.com/meet",
-"https://electanthonyhudson.com/policies",
-"https://electanthonyhudson.com/product/aho-beanie",
-"https://electanthonyhudson.com/product/anthony-hudson-sticker",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-coffee-mug",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-flag",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-hoodie",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt-white",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-yard-sign",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-ynot",
-"https://electanthonyhudson.com/product/elect-anthony-hudson-ynot-unisex-t-shirt-chest-logo",
-"https://electanthonyhudson.com/product/fix-michigan-hat",
-"https://electanthonyhudson.com/product/womens-tank-top",
-"https://electanthonyhudson.com/product/womens-tank-top-full-logo",
-"https://electanthonyhudson.com/shop",
-"https://electanthonyhudson.com/shop?add-to-cart=1898",
-"https://electanthonyhudson.com/shop?add-to-cart=1910",
-"https://electanthonyhudson.com/shop?add-to-cart=2000",
-"https://electanthonyhudson.com/shop?add-to-cart=2655",
-"https://facebook.com/hudsonfor2k24",
-"https://tiktok.com/@hudson2k24",
-"https://x.com/AHudson2k24",
-"https://youtube.com/channel/UCqO1lPX0G4RdOGi_Ub_iCsA"
+{
+"text": "$10.00 campaign",
+"href": "https://electanthonyhudson.com/1dollar/"
+},
+{
+"text": "3$32.50",
+"href": "https://electanthonyhudson.com/cart/"
+},
+{
+"text": "Add to cart",
+"href": "https://electanthonyhudson.com/shop/?add-to-cart=1898"
+},
+{
+"text": "Add to cart",
+"href": "https://electanthonyhudson.com/shop/?add-to-cart=1910"
+},
+{
+"text": "Add to cart",
+"href": "https://electanthonyhudson.com/shop/?add-to-cart=2000"
+},
+{
+"text": "Add to cart",
+"href": "https://electanthonyhudson.com/shop/?add-to-cart=2655"
+},
+{
+"text": "Anthony Hudson Media Package",
+"href": "https://anthonyhudson.media/"
+},
+{
+"text": "Code Crafted Digita",
+"href": "https://codecrafteddigital.com"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://electanthonyhudson.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://electanthonyhudson.com/events/"
+},
+{
+"text": "Home",
+"href": "https://electanthonyhudson.com"
+},
+{
+"text": "Home",
+"href": "https://electanthonyhudson.com/"
+},
+{
+"text": "Meet Anthony",
+"href": "https://electanthonyhudson.com/meet/"
+},
+{
+"text": "Policies",
+"href": "https://electanthonyhudson.com/policies/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-coffee-mug/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-flag/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-hoodie/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt-white/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-ynot-unisex-t-shirt-chest-logo/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-ynot/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/womens-tank-top-full-logo/"
+},
+{
+"text": "Select options",
+"href": "https://electanthonyhudson.com/product/womens-tank-top/"
+},
+{
+"text": "View cart",
+"href": "https://electanthonyhudson.com/cart/"
+},
+{
+"text": "Volunteer",
+"href": "https://electanthonyhudson.com/#volunteer"
+},
+{
+"text": "[image: AHO Beanie]AHO Beanie $13.50",
+"href": "https://electanthonyhudson.com/product/aho-beanie/"
+},
+{
+"text": "[image: Anthony Hudson For Governor]",
+"href": "https://electanthonyhudson.com/"
+},
+{
+"text": "[image: Anthony Hudson Sticker]Anthony Hudson Sticker $2.50",
+"href": "https://electanthonyhudson.com/product/anthony-hudson-sticker/"
+},
+{
+"text": "[image: Elect Anthony Hudson Flag]Elect Anthony Hudson Flag $34.08",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-flag/"
+},
+{
+"text": "[image: Elect Anthony Hudson T-Shirt - White]Elect Anthony Hudson T-Shirt – White $25.33 – $29.96Price range: $25.33 through $29.96",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt-white/"
+},
+{
+"text": "[image: Elect Anthony Hudson YNOT?]Elect Anthony Hudson YNOT? $22.33 – $26.96Price range: $22.33 through $26.96",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-ynot/"
+},
+{
+"text": "[image: Elect Anthony Hudson Yard Sign]Elect Anthony Hudson Yard Sign $10.00",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-yard-sign/"
+},
+{
+"text": "[image: Fix Michigan Hat]Fix Michigan Hat $20.00",
+"href": "https://electanthonyhudson.com/product/fix-michigan-hat/"
+},
+{
+"text": "[image: Women's Tank Top Chest Logo]Women’s Tank Top Chest Logo $22.33 – $24.90Price range: $22.33 through $24.90",
+"href": "https://electanthonyhudson.com/product/womens-tank-top/"
+},
+{
+"text": "[image: Women's Tank Top Full Logo]Women’s Tank Top Full Logo $22.33 – $24.90Price range: $22.33 through $24.90",
+"href": "https://electanthonyhudson.com/product/womens-tank-top-full-logo/"
+},
+{
+"text": "[image][image: Elect Anthony Hudson Coffee Mug]Elect Anthony Hudson Coffee Mug $22.75",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-coffee-mug/"
+},
+{
+"text": "[image][image: Elect Anthony Hudson Hoodie]Elect Anthony Hudson Hoodie $37.17 – $43.35Price range: $37.17 through $43.35",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-hoodie/"
+},
+{
+"text": "[image][image: Elect Anthony Hudson T-Shirt]Elect Anthony Hudson T-Shirt $25.33 – $29.96Price range: $25.33 through $29.96",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-t-shirt/"
+},
+{
+"text": "[image][image: Elect Anthony Hudson YNOT Unisex T-Shirt Chest Logo]Elect Anthony Hudson YNOT Unisex T-Shirt Chest Logo $22.33 – $26.96Price range: $22.33 through $26.96",
+"href": "https://electanthonyhudson.com/product/elect-anthony-hudson-ynot-unisex-t-shirt-chest-logo/"
+},
+{
+"text": "[no text]",
+"href": "https://electanthonyhudson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://electanthonyhudson.com/cart/"
+},
+{
+"text": "[no text]",
+"href": "https://electanthonyhudson.com/contribute/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hudsonfor2k24"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@hudson2k24"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCqO1lPX0G4RdOGi_Ub_iCsA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AHudson2k24"
+},
+{
+"text": "contribute",
+"href": "https://electanthonyhudson.com/contribute/"
+},
+{
+"text": "shop",
+"href": "https://electanthonyhudson.com/shop/"
+}
 ]

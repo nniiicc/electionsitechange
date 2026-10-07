@@ -1,10 +1,5 @@
-Victor Marx Calls on Governor Polis toRelease Tina Peters from Prison
-FOR IMMEDIATE RELEASE
-March 4th 2026
-(Colorado Springs, CO) – Victor Marx, candidate for Governor of Colorado, is strongly urging current Governor Jared Polis to grant clemency and immediately commute the sentence of former Mesa County Clerk Tina Peters.
-Marx issued the following statement earlier today:
-Governor Polis,
-As a leading candidate for Colorado governor, I am again urging you to grant clemency and commute the sentence of Tina Peters.
+top of page DONATE MEET VICTOR POLICIES Policies My Priorities Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT Menu Close DONATE All Posts Press Releases Newsletters Op-Eds Victor Marx Calls on Governor Polis toRelease Tina Peters from Prison Victor Marx for Governor Mar 4 2 min read FOR IMMEDIATE RELEASE March 4 th 2026 (Colorado Springs, CO) – Victor Marx, candidate for Governor of Colorado, is strongly urging current Governor Jared Polis to grant clemency and immediately commute the sentence of former Mesa County Clerk Tina Peters.
+Marx issued the following statement earlier today: Governor Polis, As a leading candidate for Colorado governor, I am again urging you to grant clemency and commute the sentence of Tina Peters.
 Months ago, I said this was the most just and expedient course of action available to you.
 I stand by that today.
 Tina Peters is a Gold Star mother and a grandmother.
@@ -24,7 +19,6 @@ Do what is right because it is right.
 And if you choose not to, on my first day in office, I will.
 Colorado deserves justice tempered with wisdom.
 Victor Marx emphasizes that the time for decisive action is now, and if Governor Polis will not act, he will release Tina Peters on day one after taking office as Colorado’s next governor.
-For further information, interviews, or statements, please contact the Victor Marx campaign or visit our campaign website at Victor2026.com.
+For further information, interviews, or statements, please contact the Victor Marx campaign or visit our campaign website at Victor2026.com .
 Roger D.
-Hudson
-Communications Director
+Hudson Communications Director Roger@Victor2026.com Press Releases Recent Posts See All VICTOR MARX’S RESCUE COLORADO TOUR ENDS WITH HOPE AND UNITY MEET VICTOR POLICIES Policies My Priorities PRESS MEDIA ALL POSTS PRESS RELEASES NEWSLETTERS OP-EDS EVENTS ENDORSEMENTS CWB PLAN CONTACT ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

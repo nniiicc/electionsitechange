@@ -1,4 +1,7 @@
-YOUR DFL, DSA, & LABOR ENDORSED CANDIDATE FOR SD62 Our Campaign is Proudly Endorsed by: U.S.
+0 Skip to Content Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate Open Menu Close Menu Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate Open Menu Close Menu Meet Omar Endorsements Vision Our Wins Join Lawn Signs!
+Donate YOUR DFL, DSA, & LABOR ENDORSED CANDIDATE FOR SD62 Our Campaign is Proudly Endorsed by: U.S.
 Rep Ilhan Omar A.G.
 Keith Ellison Cmmr.
 Angela Conley CM.
@@ -16,4 +19,5 @@ John Hoffman Sen.
 Foung Hawj Sen.
 John Marty Sen.
 Jen McEwen MPS Dir.
-Greta Callahan Kay Carvajal Moran, MPRB Kedar Deshpande, MPRB Amber Frederick, MPRB Jason Garcia, MPRB Tom Olsen, MPRB Dan Engelhart, MPRB Eric Harris Bernstein, BET Candidate Distinctions:
+Greta Callahan Kay Carvajal Moran, MPRB Kedar Deshpande, MPRB Amber Frederick, MPRB Jason Garcia, MPRB Tom Olsen, MPRB Dan Engelhart, MPRB Eric Harris Bernstein, BET Candidate Distinctions: Home | Meet Omar | Join | Donate DONATE Paid for and prepared by Omar Fateh Senate Committee - P.O.
+Box 8033, Minneapolis, MN 55408

@@ -1,17 +1,94 @@
 [
-"https://ballottrax.sos.ri.gov/voter",
-"https://bsky.app/profile/samwilcoxforri.bsky.social",
-"https://facebook.com/SamWilcoxforRI",
-"https://forms.gle/rFpFyGfc3U1G4thLA",
-"https://instagram.com/SamWilcoxforRI",
-"https://samwilcoxforri.com/",
-"https://samwilcoxforri.com/about",
-"https://samwilcoxforri.com/events",
-"https://samwilcoxforri.com/posts",
-"https://samwilcoxforri.com/vote",
-"https://secure.actblue.com/donate/wilcox26",
-"https://tiktok.com/@samwilcoxforri",
-"https://vote.sos.ri.gov/Home/PollingPlaces",
-"https://vote.sos.ri.gov/Home/RegistertoVote",
-"https://wordpress.com/"
+{
+"text": "About",
+"href": "https://samwilcoxforri.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/samwilcoxforri.bsky.social"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/wilcox26"
+},
+{
+"text": "Events",
+"href": "https://samwilcoxforri.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SamWilcoxforRI/"
+},
+{
+"text": "HOW TO VOTE",
+"href": "https://samwilcoxforri.com/vote/"
+},
+{
+"text": "Home",
+"href": "https://samwilcoxforri.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/SamWilcoxforRI"
+},
+{
+"text": "Issues",
+"href": "https://samwilcoxforri.com/posts/"
+},
+{
+"text": "Mail",
+"href": "mailto:samwilcoxri@gmail.com"
+},
+{
+"text": "Samantha Wilcox for State Senate District 34",
+"href": "https://samwilcoxforri.com"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@samwilcoxforri"
+},
+{
+"text": "Track the status of your application and mail ballot here",
+"href": "https://ballottrax.sos.ri.gov/voter/"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/rFpFyGfc3U1G4thLA"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.com"
+},
+{
+"text": "You can confirm your polling loca",
+"href": "https://vote.sos.ri.gov/Home/PollingPlaces"
+},
+{
+"text": "arweinreich@charlestownri.org",
+"href": "mailto:arweinreich@charlestownri.org"
+},
+{
+"text": "canvassers@town.exeter.ri.us",
+"href": "mailto:canvassers@town.exeter.ri.us"
+},
+{
+"text": "here",
+"href": "https://vote.sos.ri.gov/Home/RegistertoVote"
+},
+{
+"text": "register on-line.",
+"href": "https://vote.sos.ri.gov/Home/RegistertoVote"
+},
+{
+"text": "tion here.",
+"href": "https://vote.sos.ri.gov/Home/PollingPlaces"
+},
+{
+"text": "townclerk@hopkintonri.org",
+"href": "mailto:townclerk@hopkintonri.org"
+},
+{
+"text": "townclerk@richmondri.com",
+"href": "mailto:townclerk@richmondri.com"
+}
 ]

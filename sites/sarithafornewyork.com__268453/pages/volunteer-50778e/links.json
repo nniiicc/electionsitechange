@@ -1,26 +1,106 @@
 [
-"http://sarithafornewyork.com/",
-"https://facebook.com/sarithaforny",
-"https://instagram.com/sarithaforny",
-"https://sarithafornewyork.com/",
-"https://sarithafornewyork.com/category/in-the-news",
-"https://sarithafornewyork.com/category/press-releases",
-"https://sarithafornewyork.com/category/speeches-and-editorials",
-"https://sarithafornewyork.com/category/statements",
-"https://sarithafornewyork.com/coalitions",
-"https://sarithafornewyork.com/coalitions/african-americans-for-saritha",
-"https://sarithafornewyork.com/coalitions/asians-for-saritha",
-"https://sarithafornewyork.com/coalitions/dads-for-saritha",
-"https://sarithafornewyork.com/coalitions/democrats-for-saritha",
-"https://sarithafornewyork.com/coalitions/desis-for-saritha",
-"https://sarithafornewyork.com/coalitions/jewish-new-yorkers-for-saritha",
-"https://sarithafornewyork.com/coalitions/latinos-for-saritha",
-"https://sarithafornewyork.com/coalitions/law-enforcement-for-saritha",
-"https://sarithafornewyork.com/coalitions/moms-for-saritha",
-"https://sarithafornewyork.com/in-the-news",
-"https://sarithafornewyork.com/volunteer",
-"https://sarithafornewyork.com/wp-content/uploads/2026/07/Komatireddy_DonorForm_v5.pdf",
-"https://secure.winred.com/saritha-for-new-york/donate",
-"https://secure.winred.com/saritha-for-new-york/storefront",
-"https://x.com/sarithaforny"
+{
+"text": "ABOUT",
+"href": "http://sarithafornewyork.com/#about"
+},
+{
+"text": "African Americans for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/african-americans-for-saritha/"
+},
+{
+"text": "Asians for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/asians-for-saritha/"
+},
+{
+"text": "CONTACT",
+"href": "http://sarithafornewyork.com/#contact"
+},
+{
+"text": "CONTRIBUTION FORM",
+"href": "https://sarithafornewyork.com/wp-content/uploads/2026/07/Komatireddy_DonorForm_v5.pdf"
+},
+{
+"text": "Coalitions",
+"href": "https://sarithafornewyork.com/coalitions/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/saritha-for-new-york/donate"
+},
+{
+"text": "Dads for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/dads-for-saritha/"
+},
+{
+"text": "Democrats for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/democrats-for-saritha/"
+},
+{
+"text": "Desis for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/desis-for-saritha/"
+},
+{
+"text": "HOME",
+"href": "https://sarithafornewyork.com/"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://sarithafornewyork.com/category/in-the-news/"
+},
+{
+"text": "In the News",
+"href": "https://sarithafornewyork.com/in-the-news/"
+},
+{
+"text": "Jewish New Yorkers for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/jewish-new-yorkers-for-saritha/"
+},
+{
+"text": "Latinos for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/latinos-for-saritha/"
+},
+{
+"text": "Law Enforcement for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/law-enforcement-for-saritha/"
+},
+{
+"text": "Moms for Saritha",
+"href": "https://sarithafornewyork.com/coalitions/moms-for-saritha/"
+},
+{
+"text": "Press Releases",
+"href": "https://sarithafornewyork.com/category/press-releases/"
+},
+{
+"text": "SHOP",
+"href": "https://secure.winred.com/saritha-for-new-york/storefront/"
+},
+{
+"text": "Speeches and Editorials",
+"href": "https://sarithafornewyork.com/category/speeches-and-editorials/"
+},
+{
+"text": "Statements",
+"href": "https://sarithafornewyork.com/category/statements/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://sarithafornewyork.com/volunteer/"
+},
+{
+"text": "[image] [image]",
+"href": "https://sarithafornewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarithaforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sarithaforny/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sarithaforny"
+}
 ]

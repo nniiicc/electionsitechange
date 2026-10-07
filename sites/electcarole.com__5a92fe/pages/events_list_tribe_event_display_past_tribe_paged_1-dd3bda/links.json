@@ -1,37 +1,186 @@
 [
-"http://fallrivermarketing.com/",
-"https://electcarole.com/",
-"https://electcarole.com/2026/04/06/4-6-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/08/31/8-31-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/09/15/9-15-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/09/28/9-28-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/2026/10/05/10-5-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center",
-"https://electcarole.com/category/hot-jobs",
-"https://electcarole.com/category/press-release",
-"https://electcarole.com/contact",
-"https://electcarole.com/event/coffee-and-conversation-5",
-"https://electcarole.com/event/fall-river-office-hours-64",
-"https://electcarole.com/event/fall-river-office-hours-65",
-"https://electcarole.com/event/fall-river-office-hours-66",
-"https://electcarole.com/event/freetown-office-hours-39",
-"https://electcarole.com/event/october-coffee-and-conversation",
-"https://electcarole.com/event/office-hours-flint-senior-center",
-"https://electcarole.com/event/office-hours-freetown-council-on-aging",
-"https://electcarole.com/event/office-hours-north-end-senior-center",
-"https://electcarole.com/event/walk-and-talk",
-"https://electcarole.com/events",
-"https://electcarole.com/events/list?tribe_event_display=past&tribe_paged=2",
-"https://electcarole.com/events?ical=1",
-"https://electcarole.com/join",
-"https://electcarole.com/meet-carole-fiola",
-"https://electcarole.com/news",
-"https://electcarole.com/news/housing-navigation",
-"https://electcarole.com/news/southcoast-rail-update",
-"https://electcarole.com/photos",
-"https://maps.google.com/maps?f=q&hl=en&q=1423+Pleasant+St+Fall+River+MA+02723+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=227+Chase+Road+East+Freetown+MA",
-"https://maps.google.com/maps?f=q&hl=en&q=278+New+Boston+Road+Fall+River+MA+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=3+Main+Street+Assonet+02702+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=405+Pleasant+St.+Fall+River+MA+02721+United+States",
-"https://maps.google.com/maps?f=q&hl=en&q=756+Prospect+Street+Fall+River+MA+02720+United+States"
+{
+"text": "+ Export Events",
+"href": "https://electcarole.com/events/?ical=1"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=1423+Pleasant+St+Fall+River+MA+02723+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=227+Chase+Road+East+Freetown+MA"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=278+New+Boston+Road+Fall+River+MA+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=3+Main+Street+Assonet+02702+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=405+Pleasant+St.+Fall+River+MA+02721+United+States"
+},
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=756+Prospect+Street+Fall+River+MA+02720+United+States"
+},
+{
+"text": "10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/10/05/10-5-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/04/06/4-6-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/08/31/8-31-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/09/15/9-15-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center",
+"href": "https://electcarole.com/2026/09/28/9-28-2026-weekly-hot-jobs-from-the-fall-river-masshire-career-center/"
+},
+{
+"text": "Coffee and Conversation",
+"href": "https://electcarole.com/event/coffee-and-conversation-5/"
+},
+{
+"text": "Coffee and Conversation",
+"href": "https://electcarole.com/event/october-coffee-and-conversation/"
+},
+{
+"text": "Contact",
+"href": "https://electcarole.com/contact/"
+},
+{
+"text": "Events",
+"href": "https://electcarole.com/events/"
+},
+{
+"text": "Fall River Housing Navigation Guide",
+"href": "https://electcarole.com/news/housing-navigation/"
+},
+{
+"text": "Fall River Marketing",
+"href": "http://fallrivermarketing.com"
+},
+{
+"text": "Fall River Office Hours",
+"href": "https://electcarole.com/event/fall-river-office-hours-64/"
+},
+{
+"text": "Fall River Office Hours",
+"href": "https://electcarole.com/event/fall-river-office-hours-65/"
+},
+{
+"text": "Fall River Office Hours",
+"href": "https://electcarole.com/event/fall-river-office-hours-66/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/coffee-and-conversation-5/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/fall-river-office-hours-64/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/fall-river-office-hours-65/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/fall-river-office-hours-66/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/freetown-office-hours-39/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/october-coffee-and-conversation/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/office-hours-flint-senior-center/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/office-hours-freetown-council-on-aging/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/office-hours-north-end-senior-center/"
+},
+{
+"text": "Find out more »",
+"href": "https://electcarole.com/event/walk-and-talk/"
+},
+{
+"text": "Freetown Office Hours",
+"href": "https://electcarole.com/event/freetown-office-hours-39/"
+},
+{
+"text": "Home",
+"href": "https://electcarole.com/"
+},
+{
+"text": "Hot Jobs",
+"href": "https://electcarole.com/category/hot-jobs/"
+},
+{
+"text": "Keeping Up With Carole",
+"href": "https://electcarole.com/join/"
+},
+{
+"text": "Meet Carole",
+"href": "https://electcarole.com/meet-carole-fiola/"
+},
+{
+"text": "News",
+"href": "https://electcarole.com/news/"
+},
+{
+"text": "Office Hours – Flint Senior Center",
+"href": "https://electcarole.com/event/office-hours-flint-senior-center/"
+},
+{
+"text": "Office Hours – Freetown Council on Aging",
+"href": "https://electcarole.com/event/office-hours-freetown-council-on-aging/"
+},
+{
+"text": "Office Hours – North End Senior Center",
+"href": "https://electcarole.com/event/office-hours-north-end-senior-center/"
+},
+{
+"text": "Photos",
+"href": "https://electcarole.com/photos/"
+},
+{
+"text": "Press Release",
+"href": "https://electcarole.com/category/press-release/"
+},
+{
+"text": "Southcoast Rail Update",
+"href": "https://electcarole.com/news/southcoast-rail-update/"
+},
+{
+"text": "Walk and Talk",
+"href": "https://electcarole.com/event/walk-and-talk/"
+},
+{
+"text": "[image: Carole Fiola]",
+"href": "https://electcarole.com/"
+},
+{
+"text": "« Previous Events",
+"href": "https://electcarole.com/events/list/?tribe_event_display=past&tribe_paged=2"
+}
 ]

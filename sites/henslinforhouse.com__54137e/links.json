@@ -1,16 +1,78 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61563231940175",
-"https://facebook.com/profile.php?id=61563231940175&sk=events",
-"https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines",
-"https://henslinforhouse.com/",
-"https://henslinforhouse.com/about",
-"https://henslinforhouse.com/endorsements",
-"https://henslinforhouse.com/volunteer",
-"https://secure.actblue.com/donate/henslinforhouse",
-"https://secure.actblue.com/donate/henslinforhouse?amount=10",
-"https://secure.actblue.com/donate/henslinforhouse?amount=150",
-"https://secure.actblue.com/donate/henslinforhouse?amount=25",
-"https://secure.actblue.com/donate/henslinforhouse?amount=250",
-"https://secure.actblue.com/donate/henslinforhouse?amount=75"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/henslinforhouse?amount=10"
+},
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/henslinforhouse?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/henslinforhouse?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/henslinforhouse?amount=250"
+},
+{
+"text": "$75",
+"href": "https://secure.actblue.com/donate/henslinforhouse?amount=75"
+},
+{
+"text": "About",
+"href": "https://www.henslinforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "mailto:henslinforhousemn@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/henslinforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.henslinforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/profile.php?id=61563231940175&sk=events"
+},
+{
+"text": "Learn more",
+"href": "https://www.henslinforhouse.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/henslinforhouse"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.henslinforhouse.com/volunteer"
+},
+{
+"text": "[image: Henslin for House logo]",
+"href": "https://www.henslinforhouse.com/"
+},
+{
+"text": "[image: Henslin for House]",
+"href": "https://www.henslinforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61563231940175"
+},
+{
+"text": "henslinforhousemn@gmail.com",
+"href": "mailto:henslinforhousemn@gmail.com"
+},
+{
+"text": "https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines",
+"href": "https://help.designedtorun.com/en/articles/11987556-form-disclaimer-guidelines"
+}
 ]

@@ -1,54 +1,226 @@
 [
-"https://amny.com/news/special-election-fill-mamdanis-assembly-seat",
-"https://anamniseis.net/proeklogiki-sigkentrosi-yper-ypopsifion-dsa-stin-astoria",
-"https://andreaguinn.com/",
-"https://bronx.news12.com/mayor-elect-mamdani-endorses-diana-moreno-to-fill-his-assembly-seat",
-"https://bsky.app/profile/dianaforqueens.com",
-"https://cbsnews.com/newyork/news/nyc-father-son-detained-by-ice-separated",
-"https://cbsnews.com/newyork/video/zohran-mamdani-endorses-democratic-socialist-diana-moreno-for-state-assembly",
-"https://cityandstateny.com/politics/2025/10/former-dsa-leader-diana-moreno-hopes-replace-zohran-mamdani-assembly/409178",
-"https://cityandstateny.com/politics/2025/12/here-are-nyc-seats-dsa-eyeing-2026/410359",
-"https://cityandstateny.com/politics/2026/01/queens-dems-nominate-dsa-backed-diana-moreno-succeed-mamdani/410456",
-"https://democracynow.org/2026/1/2/mamdani_inauguration_vox_pop",
-"https://dianaforqueens.com/",
-"https://dianaforqueens.com/es",
-"https://dianaforqueens.com/events",
-"https://dianaforqueens.com/volunteer",
-"https://eldiariony.com/2026/01/23/arrancan-elecciones-especiales-en-el-distrito-36quien-reemplazara-a-mamdani-en-la-asamblea",
-"https://eldiariony.com/2026/01/30/diana-moreno-soy-ecuatoriana-pero-voy-a-ser-representante-para-todas-las-comunidades",
-"https://eljaya.com/247473/la-ecuatoriana-que-podria-ocupar-la-posicion-del-nuevo-alcalde-en-la-asamblea-de-nueva-york",
-"https://elpais.com/us/2026-01-31/diana-moreno-la-migrante-ecuatoriana-y-amiga-de-zohran-mamdani-que-aspira-reemplazarlo-en-la-asamblea-estatal-de-nueva-york.html",
-"https://ericthor.com/",
-"https://facebook.com/dianaforqueens",
-"https://facebook.com/share/v/1Ae5N3RNqf",
-"https://independent.co.uk/news/world/americas/ice-raid-new-york-mamdani-b2657890.html",
-"https://indypendent.org/2025/11/diana-moreno-enters-race-for-mamdanis-queens-assembly-seat-vowing-to-put-children-first",
-"https://instagram.com/dianaforqueens",
-"https://instagram.com/silas.emerson.harris",
-"https://jacobin.com/2025/12/moreno-new-york-assembly-mamdani",
-"https://karamccurdy.com/",
-"https://lanacion.com.ar/estados-unidos/nueva-york/elecciones-en-nyc-quien-es-diana-moreno-la-ecuatoriana-que-mamdani-impulsa-para-ocupar-su-puesto-en-nid07012026",
-"https://legislativegazette.com/911/news/politics-news/moreno-hopes-to-win-special-election-for-mamdanis-vacated-assembly-seat",
-"https://nbcnewyork.com/news/local/mamdani-backs-fellow-democratic-socialist-in-race-to-replace-him-in-assembly/6433794",
-"https://nbcnewyork.com/video/news/politics/ex-campaign-workers-compete-for-mamdanis-assembly-seat/6443500",
-"https://ny1.com/nyc/all-boroughs/news/2025/12/20/mamdani-endorses-diana-moreno-to-replace-his-former-assembly-seat",
-"https://ny1.com/nyc/all-boroughs/politics/2026/01/20/zohran-mamdani-assembly-special-election",
-"https://ny1.com/nyc/manhattan/politics/2026/01/02/special-elections-set-to-fill-mamdani-and-hoylman-sigal-s-seats",
-"https://nyc.streetsblog.org/2025/12/10/wednesdays-headlines-dueling-rallies-edition",
-"https://primicias.ec/internacional/alcalde-mamdani-apoyo-diana-moreno-migrante-ecuatoriana-legislatura-nueva-york-114479",
-"https://qchron.com/editions/queenswide/dems-tap-moreno-for-mamdani-s-d36-seat/article_b822c16d-0142-5176-88d6-c8566846a9d0.html",
-"https://qns.com/2026/01/d36-candidate-forum",
-"https://qns.com/2026/01/d36-candidates-special-election",
-"https://qns.com/2026/01/diana-moreno-assembly-district-36-special-election",
-"https://qns.com/2026/01/queens-democratic-party-nominates-diana-moreno",
-"https://queenseagle.com/all/2025/11/16/dsa-member-launches-campaign-to-replace-mamdani-in-assembly",
-"https://queenseagle.com/all/2025/11/6/my-neighbor-the-mayor-what-its-like-to-live-on-the-same-astoria-block-as-the-mayor-elect",
-"https://queenseagle.com/all/2025/12/20/mamdani-backs-diana-moreno-as-his-assembly-successor",
-"https://queenseagle.com/all/2026/1/5/queens-dems-back-moreno-for-mamdanis-seat",
-"https://queensledger.com/2026/01/16/the-skys-the-limit-diana-moreno-vies-for-mamdanis-former-assembly-seat",
-"https://romkehoogwaerts.com/",
-"https://telemundo47.com/video/videos/tres-mujeres-tras-el-puesto-en-la-asamblea-de-mamdani/2605233",
-"https://tiktok.com/@dianaforqueens",
-"https://vote.nyc/page/find-your-poll-site",
-"https://x.com/dianaforqueens"
+{
+"text": "Andrea Guinn",
+"href": "https://andreaguinn.com/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/dianaforqueens.com"
+},
+{
+"text": "December 10, 2025 Wednesday's Headlines: Dueling Rallies Edition \"Joining the crowd of about 100 activists was young mom Diana Moreno, who is running to succeed Zohran Mamdani in Astoria's seat in the state Assembly.\" [image: Streetsblog NYC logo]",
+"href": "https://nyc.streetsblog.org/2025/12/10/wednesdays-headlines-dueling-rallies-edition"
+},
+{
+"text": "December 17, 2025 Diana Moreno Is Running for Zohran Mamdani’s Assembly Seat \"If Zohran had not organized us into the idea that he can and should be the next mayor of New York City, we wouldn’t be looking forward to swearing in a democratic socialist mayor in January. I want to continue that legacy of expanding our political imagination beyond what we think is possible. \" [image: Jacobin logo]",
+"href": "https://jacobin.com/2025/12/moreno-new-york-assembly-mamdani"
+},
+{
+"text": "December 2, 2025 Father, 6-year-old son allegedly separated after being detained by ICE in NYC \"Diana Moreno, who is looking to replace the mayor-elect in Assembly District 36, also spoke out, saying she believes the family's detainment impacts the entire community. “It's hitting our neighbors, it's hitting our community really hard,” she said. “To see their classmates disappear overnight is something that no parent wants to explain to their kid why this is happening.”\" [image: CBS News logo]",
+"href": "https://www.cbsnews.com/newyork/news/nyc-father-son-detained-by-ice-separated/"
+},
+{
+"text": "December 20, 2025 Mamdani backs Diana Moreno as his Assembly successor \"“I feel like Zohran's campaign was our training,” [Moreno] said. “We are carrying on so much of the momentum, energy and experience from that campaign, we have knocked on almost 3,000 doors in two weeks, and so that's the way that we are going to win the special election.” \" [image: Queens Daily Eagle logo]",
+"href": "https://queenseagle.com/all/2025/12/20/mamdani-backs-diana-moreno-as-his-assembly-successor"
+},
+{
+"text": "December 20, 2025 Mamdani backs fellow democratic socialist in race to replace him in Assembly \"I can’t imagine anyone more capable of carrying our movement forward than Diana, who has fought tirelessly for union workers, immigrant communities, and our neighbors across this district. Diana has my full support,\" Mamdani said as he backed Moreno, who like Mamdani considers herself to be a democratic socialist.\" [image: NBC New York logo]",
+"href": "https://www.nbcnewyork.com/news/local/mamdani-backs-fellow-democratic-socialist-in-race-to-replace-him-in-assembly/6433794/"
+},
+{
+"text": "December 20, 2025 Mamdani endorses Diana Moreno to replace his former assembly seat \"I am so excited at the fact that we have in Diana, someone who will not just continue the legacy that I and so many here have built of a district that fights for every single person that calls it home, but frankly for someone who can take that work even further,” Mamdani said.\" [image: Spectrum News NY1 logo]",
+"href": "https://ny1.com/nyc/all-boroughs/news/2025/12/20/mamdani-endorses-diana-moreno-to-replace-his-former-assembly-seat"
+},
+{
+"text": "December 20, 2025 Mayor-elect Mamdani endorses Diana Moreno to fill his Assembly seat \"The mayor-elect returned to familiar ground in Astoria to endorse Diana Moreno for his soon-to-be-vacant Assembly seat. He called Moreno a friend and said they share the same agendas. “I see in her what I see in me — the same part of this movement,” said Mamdani. “A movement that is hungry to deliver for working-class people.”\" [image: News 12 logo]",
+"href": "https://bronx.news12.com/mayor-elect-mamdani-endorses-diana-moreno-to-fill-his-assembly-seat"
+},
+{
+"text": "December 20, 2026 Zohran Mamdani endorses democratic socialist Diana Moreno for State Assembly \"New York City Mayor-elect Zohran Mamdani has endorsed a fellow democratic socialist to fill his former State Assembly seat, immigrant organizer Diana Moreno.\" [image: CBS New York logo]",
+"href": "https://www.cbsnews.com/newyork/video/zohran-mamdani-endorses-democratic-socialist-diana-moreno-for-state-assembly/"
+},
+{
+"text": "December 22, 2025 Here are the NYC seats DSA is eyeing in 2026 \"Moreno, who was born in Ecuador and moved to the U.S. when she was 11 years old, also has good relationships with immigrant advocacy groups and organized labor, having previously served as deputy director of New Immigrant Community Empowerment and communications director for the New York State Nurses Association.\" [image: City & State NY logo]",
+"href": "https://www.cityandstateny.com/politics/2025/12/here-are-nyc-seats-dsa-eyeing-2026/410359/"
+},
+{
+"text": "December 3, 2025 A 6-year-old boy is 'missing' after ICE detained his father as NYC Mayor-elect Mamdani leads outcry over 'cruelty' \"Diana Moreno, who is running for Mamdani's vacant seat in the state assembly, said: \"ICE's cruelty has reached our district.\" \"We must end this inhumanity,\" she said.\" [image: The Independent logo]",
+"href": "https://www.independent.co.uk/news/world/americas/ice-raid-new-york-mamdani-b2657890.html"
+},
+{
+"text": "Diana for Queens",
+"href": "https://dianaforqueens.com/"
+},
+{
+"text": "EN",
+"href": "https://dianaforqueens.com/"
+},
+{
+"text": "ES",
+"href": "https://dianaforqueens.com/es/"
+},
+{
+"text": "Encuentra Tu Centro de Votación",
+"href": "https://www.vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "English",
+"href": "https://dianaforqueens.com/"
+},
+{
+"text": "Eric Thor",
+"href": "https://ericthor.com"
+},
+{
+"text": "Español",
+"href": "https://dianaforqueens.com/es/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/dianaforqueens"
+},
+{
+"text": "Inscríbete como Voluntario/a",
+"href": "https://dianaforqueens.com/events"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dianaforqueens"
+},
+{
+"text": "January 11, 2026 Προεκλογική συγκέντρωση υπέρ υποψηφίων DSA στην Αστόρια \"«Είναι αναγκαίο να οικοδομήσουμε ένα κίνημα και να το διατηρήσουμε έτσι ώστε να μπορούμε να αντισταθούμε στις αδικίες και τις επιδρομές εναντίον των κοινοτήτων μας. Να κατορθώσουμε να δημιουργηθεί ένα καλύτερο μέλλον για τα παιδία μας για να έχουν τη δυνατότητα να ζήσουν με αξιοπρέπεια. Όταν εκλεγώ θα αγωνιστώ για να υπάρχουν καλύτερες συνθήκες διαβίωσης με όλες τις οικογένειες να έχουν πρόσβαση σε δωρεάν παιδικούς σταθμούς, δωρεάν ιατρική περίθαλψη για όλους, και θα κάνω τα πάντα να προστατέψω τις κοινότητες μας από τίς επιδρομές του ICE.»\" [image: Anamniseis logo]",
+"href": "https://www.anamniseis.net/proeklogiki-sigkentrosi-yper-ypopsifion-dsa-stin-astoria/"
+},
+{
+"text": "January 13, 2026 Ex-campaign workers compete for Mamdani's Assembly seat \"Before launching her campaign, Moreno led an immigrant advocacy group & worked for the union representing NY nurses. Among her legislative priorities: universal childcare & protecting immigrants from Trump's deportation crackdown.\" [image: NBC New York logo]",
+"href": "https://www.nbcnewyork.com/video/news/politics/ex-campaign-workers-compete-for-mamdanis-assembly-seat/6443500/"
+},
+{
+"text": "January 13, 2026 Tres mujeres tras el puesto en la Asamblea de Mamdani \"“No importa tu raza, no importa tu etnicidad, pueden beneficiarse de este beneficio, de poder cuidar de sus niños sin tener que pagar una segunda renta para cuidarlos.”\" [image: Telemundo 47 New York logo]",
+"href": "https://www.telemundo47.com/video/videos/tres-mujeres-tras-el-puesto-en-la-asamblea-de-mamdani/2605233/"
+},
+{
+"text": "January 16, 2026 “The Sky’s The Limit:” Diana Moreno Vies For Mamdani’s Former Assembly Seat \"“My individual legacy, I’m not interested in that,” she told the Queens Ledger during a recent visit to our Sunnyside office. “I am deeply proud to be part of a movement, a movement of really changing our state to one that puts the needs of working people first.” \" [image: Queens Ledger logo]",
+"href": "https://queensledger.com/2026/01/16/the-skys-the-limit-diana-moreno-vies-for-mamdanis-former-assembly-seat/"
+},
+{
+"text": "January 2, 2026 Special election set to fill Mayor Mamdani’s former Assembly seat and other Albany vacancies \"“I am honored to receive the endorsement of… a friend, fellow democratic socialist, and fierce advocate for Queens, to succeed him in the State Assembly,” Moreno said in a statement after the Dec. 20 endorsement. “Together, we’ll defend working families, fight the rising tide of fascism and deliver an affordable New York City.”\" [image: amNewYork logo]",
+"href": "https://www.amny.com/news/special-election-fill-mamdanis-assembly-seat/"
+},
+{
+"text": "January 2, 2026 Special elections set to fill Mamdani and Hoylman-Sigal’s seats \"Mamdani has already endorsed Diana Moreno, a democratic socialist who immigrated from Ecuador at age 11, in the race for his former seat. Moreno has worked alongside Mamdani on progressive causes and supports his push for universal child care. She has framed her candidacy as a continuation of his policy agenda.\" [image: Spectrum News NY1 logo]",
+"href": "https://ny1.com/nyc/manhattan/politics/2026/01/02/special-elections-set-to-fill-mamdani-and-hoylman-sigal-s-seats"
+},
+{
+"text": "January 2, 2026 Zohran Mamdani Supporters Celebrate “Politics of Optimism” at His Inauguration \"“Organized people will always be more powerful than organized money,” said Diana Moreno, a fellow democratic socialist who is running for Mamdani’s vacant seat in the New York State Assembly.\" [image: Democracy Now! logo]",
+"href": "https://www.democracynow.org/2026/1/2/mamdani_inauguration_vox_pop"
+},
+{
+"text": "January 20, 2026 Democratic socialists compete for Mamdani's legislative seat \"To prevent an upset, Moreno told NY1 she's heeding advice from Mamdani to run like she's 10 points behind. \"We're carrying a lot of energy from his campaign, so that means we have a very, very strong field operation with hundreds of volunteers who have already knocked on over 7,000 doors,\" she said.\" [image: Spectrum News NY1 logo]",
+"href": "https://ny1.com/nyc/all-boroughs/politics/2026/01/20/zohran-mamdani-assembly-special-election"
+},
+{
+"text": "January 21, 2026 Diana Moreno outlines vision for Assembly District 36 ahead of Feb. 3 special election \"I am not running as an individual. I am running as part of a movement, and it is that kind of organized coalition of a multiracial working-class base that brought Mayor Mamdani into City Hall. There was no other way that we could have defeated the organized money that was behind Andrew Cuomo and the power of a political dynasty.\" [image: QNS logo]",
+"href": "https://qns.com/2026/01/diana-moreno-assembly-district-36-special-election/"
+},
+{
+"text": "January 21, 2026 Moreno hopes to win special election for Mamdani’s vacated assembly seat \"Moreno further shared how being from Ecuador has furthered her feelings of frustration with immigration policy in the United States today. She exclaimed: “As an immigrant from Ecuador witnessing the terrorizing of my people in Astoria, Queens, it has made me ready to fight and champion against organizations like ICE!” \" [image: New York Legislative Gazette logo]",
+"href": "https://legislativegazette.com/911/news/politics-news/moreno-hopes-to-win-special-election-for-mamdanis-vacated-assembly-seat/"
+},
+{
+"text": "January 23, 2026 Alcalde Mamdani apoya a la migrante ecuatoriana Diana Moreno para la legislatura estatal de Nueva York \"Moreno ha indicado que, de ganar la legislatura local, perseguirá los mismos ideales que llevaron a Mamdani a la alcaldía de Nueva York: hacer la ciudad asequible para los menos favorecidos, más control de rentas, guarderías, autobuses gratuitos y tiendas de barrio gestionadas por la ciudad.\" [image: Primicias logo]",
+"href": "https://www.primicias.ec/internacional/alcalde-mamdani-apoyo-diana-moreno-migrante-ecuatoriana-legislatura-nueva-york-114479/"
+},
+{
+"text": "January 23, 2026 Arrancan elecciones especiales en el Distrito 36:¿Quién reemplazará a Mamdani en la Asamblea? \"“Me presento como parte del movimiento que llevó al alcalde Mamdani —nuestro primer alcalde de origen asiático del sur y musulmán— a la alcaldía”, afirma la aspirante latina, quien también es miembro de la organización Socialistas Demócratas de América. “Estamos aprovechando la energía de la campaña de Mamdani, lo que significa que tenemos una operación de campo muy sólida con cientos de voluntarios que ya han tocado más de 7.000 puertas”.\" [image: El Diario logo]",
+"href": "https://eldiariony.com/2026/01/23/arrancan-elecciones-especiales-en-el-distrito-36quien-reemplazara-a-mamdani-en-la-asamblea/"
+},
+{
+"text": "January 23, 2026 Queens D36 Assembly candidates hold final debate ahead of Feb. 3 special election \"Moreno also emphasized her ties to organized labor through her previous work with the New York State Nurses Association (NYSNA) and added that she had chosen to run to protect the future of her child, who she is raising in Astoria, as well as the futures of all Queens children.\" [image: QNS logo]",
+"href": "https://qns.com/2026/01/d36-candidates-special-election/"
+},
+{
+"text": "January 29, 2026 La Ecuatoriana que podría ocupar la posición del nuevo alcalde en la asamblea de Nueva York \"Dentro de su activismo, lucha por mejores condiciones de trabajo para enfermeras, baristas en Starbucks y los que hacen entregas de comida en la ciudad. También, su lucha se extiende al movimiento para sacar a los agentes de ICE de las comunidades de inmigrantes trabajadores.\" [image: El Jaya logo]",
+"href": "https://www.eljaya.com/247473/la-ecuatoriana-que-podria-ocupar-la-posicion-del-nuevo-alcalde-en-la-asamblea-de-nueva-york/"
+},
+{
+"text": "January 30, 2026 Diana Moreno, la migrante ecuatoriana y amiga de Zohran Mamdani que aspira a reemplazarlo en la Asamblea Estatal de Nueva York \"“Quiero ser clara en que estoy lista para defender a mi comunidad migrante en Nueva York, hasta si requiere poner mi cuerpo en la línea de fuego”, insiste Moreno, quien en septiembre fue arrestada a las afueras del edificio Federal Plaza, el epicentro de las detenciones del ICE en Manhattan, cuando formó parte de un acto de desobediencia civil.\" [image: El País logo]",
+"href": "https://elpais.com/us/2026-01-31/diana-moreno-la-migrante-ecuatoriana-y-amiga-de-zohran-mamdani-que-aspira-reemplazarlo-en-la-asamblea-estatal-de-nueva-york.html"
+},
+{
+"text": "January 30, 2026 Diana Moreno: “Soy ecuatoriana pero voy a ser representante para todas las comunidades” \"De ganar sería la primera mujer ecuatoriana en llegar a la Asamblea y la única representación ecuatoriana actual porque no tenemos ya ninguna representación a nivel municipal ni estatal, pero aunque soy ecuatoriana voy a ser representante para todas las comunidades\" [image: El Diario logo]",
+"href": "https://eldiariony.com/2026/01/30/diana-moreno-soy-ecuatoriana-pero-voy-a-ser-representante-para-todas-las-comunidades/"
+},
+{
+"text": "January 30, 2026 Meet Diana for Queens, candidate for New York State Assembly \"For the Muslim families in the district, my message is, I am there to represent you and to ensure that you feel safe and that you and your family can have a dignified life. \" [image: Thikana News logo]",
+"href": "https://www.facebook.com/share/v/1Ae5N3RNqf/"
+},
+{
+"text": "January 5, 2026 Queens Democratic Party nominates Diana Moreno to succeed Mamdani in AD36 \"The Queens Democratic Party has formally nominated democratic socialist Diana Moreno as the party’s nominee in a special election sprint to succeed Mayor Zohran Mamdani in the 36th Assembly District next month.\" [image: QNS logo]",
+"href": "https://qns.com/2026/01/queens-democratic-party-nominates-diana-moreno/"
+},
+{
+"text": "January 5, 2026 Queens Dems back Moreno for Mamdani’s seat \"[Diana] is a close ally of Mamdani’s, and has reiterated on several occasions that stewarding his plans, mainly universal childcare, through the legislature would be her main priority. \" [image: Queens Daily Eagle logo]",
+"href": "https://queenseagle.com/all/2026/1/5/queens-dems-back-moreno-for-mamdanis-seat"
+},
+{
+"text": "January 5, 2026 Queens Dems nominate DSA-backed Diana Moreno to succeed Mamdani \"A proud member of the New York City chapter of the Democratic Socialists of America and immigrant from Ecuador, Moreno launched her campaign in October and has since been endorsed by both Mamdani and the NYC-DSA.\" [image: City & State New York logo]",
+"href": "https://www.cityandstateny.com/politics/2026/01/queens-dems-nominate-dsa-backed-diana-moreno-succeed-mamdani/410456/"
+},
+{
+"text": "January 7, 2026 Elecciones en NYC: quién es Diana Moreno, la ecuatoriana que Mamdani impulsa para ocupar su puesto en Queens \"El Partido Demócrata de Queens nominó formalmente a Diana Moreno como representante estatal para ocupar el lugar que dejó libre Zohran Mamdani, luego de asumir como alcalde de la ciudad de Nueva York. Nacida en Ecuador y con una historia familiar migrante, lanzó su campaña en octubre y competirá en las elecciones especiales del 3 de febrero.\" [image: La Nación logo]",
+"href": "https://www.lanacion.com.ar/estados-unidos/nueva-york/elecciones-en-nyc-quien-es-diana-moreno-la-ecuatoriana-que-mamdani-impulsa-para-ocupar-su-puesto-en-nid07012026/"
+},
+{
+"text": "January 8, 2026 Assembly candidates outline vision for District 36 at Astoria forum \"Moreno described receiving the Queens Democratic Party’s nomination as the “honor of a lifetime,” stating at Saturday’s forum that she was running to “deliver affordability” to working families and fight back against what she described as authoritarianism from the Trump Administration. \" [image: QNS logo]",
+"href": "https://qns.com/2026/01/d36-candidate-forum/"
+},
+{
+"text": "January 8, 2026 Dems tap Moreno for Mamdani’s D36 seat \"A democratic socialist originally from Ecuador, Moreno has more than a decade of experience as an organizer, according to her website. She has worked alongside Mamdani for years, and she received his formal endorsement last month.\" [image: Queens Chronicle logo]",
+"href": "https://www.qchron.com/editions/queenswide/dems-tap-moreno-for-mamdani-s-d36-seat/article_b822c16d-0142-5176-88d6-c8566846a9d0.html"
+},
+{
+"text": "Kara McCurdy",
+"href": "https://karamccurdy.com/"
+},
+{
+"text": "November 16, 2025 DSA member officially launches campaign to replace Mamdani in Assembly \"Witnessing what is happening in our country as a whole, witnessing the rising authoritarianism of the Trump administration, the sort of dismantling of social safety nets, the abuses of ICE agents at 26 Federal Plaza, I felt compelled to play a role in fighting for my kid's future\" [image: Queens Daily Eagle logo]",
+"href": "https://queenseagle.com/all/2025/11/16/dsa-member-launches-campaign-to-replace-mamdani-in-assembly"
+},
+{
+"text": "November 18, 2025 Diana Moreno Enters Race for Zohran Mamdani's Queens Assembly Seat Vowing to Put Children First \"Solidarity is at the center of our politics. We are all interconnected and there is a role for every single person to do their part. This is the work of building a new world, and I invite everyone to be a part of it. It is how we not just fight back against the despair and the cruelty of the moment; it's how we survive it.\" [image: The Indypendent logo]",
+"href": "https://indypendent.org/2025/11/diana-moreno-enters-race-for-mamdanis-queens-assembly-seat-vowing-to-put-children-first/"
+},
+{
+"text": "November 6, 2025 My neighbor, the mayor: What it's like to live on the same Astoria block as the mayor-elect \"Among them was Diana Moreno, a member of the Democratic Socialists of America who is running to replace Mamdani in the State Assembly when he vacates the seat in January. Moreno, who lives down the street from Mamdani, said the mayor-elect was one of the first DSA members to make her feel welcome in the organization.\" [image: Queens Daily Eagle logo]",
+"href": "https://queenseagle.com/all/2025/11/6/my-neighbor-the-mayor-what-its-like-to-live-on-the-same-astoria-block-as-the-mayor-elect"
+},
+{
+"text": "October 30, 2025 Former DSA leader Diana Moreno hopes to replace Zohran Mamdani in the Assembly \"Moreno is pitching herself to potential constituents as a reliable democratic socialist legislator who will fight for Mamdani's agenda in Albany. “Zohran can’t govern alone,” she said. “If he – when he becomes our next mayor, he’ll need many allies in Albany, and I’m prepared to be the strongest ally that you can have.” \" [image: City & State NY logo]",
+"href": "https://www.cityandstateny.com/politics/2025/10/former-dsa-leader-diana-moreno-hopes-replace-zohran-mamdani-assembly/409178/"
+},
+{
+"text": "Romke Hoogwaerts",
+"href": "https://romkehoogwaerts.com/"
+},
+{
+"text": "Silas Emerson Harris",
+"href": "https://www.instagram.com/silas.emerson.harris/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@dianaforqueens"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/dianaforqueens"
+},
+{
+"text": "info@dianaforqueens.com",
+"href": "mailto:info@dianaforqueens.com"
+},
+{
+"text": "¿Quieres ser voluntario/a/e? Llena nuestro formulario de voluntario",
+"href": "https://dianaforqueens.com/volunteer"
+}
 ]

@@ -1,5 +1,4 @@
-EDUCATION
-Our schools are struggling, and we owe it to our kids and working families to act now.
+0 Skip to Content Home About Ed's Issues Taxes & Affordability Utilities Education Donate NOW Open Menu Close Menu Home About Ed's Issues Taxes & Affordability Utilities Education Donate NOW Open Menu Close Menu Home About Folder: Ed's Issues Back Taxes & Affordability Utilities Education Donate NOW EDUCATION Our schools are struggling, and we owe it to our kids and working families to act now.
 As Chair of the Torrington Board of Education since 2023, Ed knows we deserve more than we’ve been getting.
 It’s time to take the fight for good schools to Hartford, and Ed is the only candidate in this race who knows what our kids need to succeed.
 The State of Connecticut has frozen the Education Cost Sharing formula since 2013, and every year that goes on our property taxes rise and our students fall further behind.
@@ -15,3 +14,6 @@ It’s time for the state to pick up the tab for a greater share of school impro
 Torrington Public Schools have been nationally recognized for their innovative programs in curriculum and student services, but the State of Connecticut doesn’t have a mechanism to fund communities that innovate.
 Ed will introduce legislation to create school innovation grants to encourage our schools to innovate the way we educate, provide services, and design curriculum.
 Torrington should be rewarded for being at the forefront of public education.
+Paid for by Corey for Torrington.
+Treasurer, Kristen Conway.
+Approved by Edward Corey.

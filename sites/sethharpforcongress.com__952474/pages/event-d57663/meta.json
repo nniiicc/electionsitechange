@@ -1,7 +1,9 @@
 {
  "description": "Learn more about upcoming events with Seth Harp for Congress!",
  "final_url": "https://www.sethharpforcongress.com/event",
- "paid_for_by": null,
+ "fingerprint": "f8f1bbc8fde200169769ee2b6511f329e3373a7c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Seth Harp for Congress",
  "years_mentioned": [
   "2026"

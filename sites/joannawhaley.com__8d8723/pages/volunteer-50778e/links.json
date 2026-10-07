@@ -1,13 +1,54 @@
 [
-"http://facebook.com/joannawhaleyofficial",
-"http://instagram.com/joannawhaleyofficial",
-"https://joannawhaley.com/",
-"https://joannawhaley.com/cart",
-"https://joannawhaley.com/contact",
-"https://joannawhaley.com/endorsements",
-"https://joannawhaley.com/sign",
-"https://joannawhaley.com/volunteer",
-"https://secure.actblue.com/donate/joannawhaley",
-"https://thepoliticianscreed.org/articles-of-tpc2",
-"https://tiktok.com/@joannawhaleyofficial"
+{
+"text": "0",
+"href": "https://www.joannawhaley.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.joannawhaley.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/joannawhaley"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joannawhaley.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.joannawhaley.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joannawhaley.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.joannawhaley.com/sign"
+},
+{
+"text": "[image: Joanna Whaley for State Representative ]",
+"href": "https://www.joannawhaley.com/"
+},
+{
+"text": "[image: Joanne Whaley]",
+"href": "https://www.thepoliticianscreed.org/articles-of-tpc2"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/joannawhaleyofficial"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/joannawhaleyofficial"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@joannawhaleyofficial"
+},
+{
+"text": "admin@joannawhaley.com",
+"href": "mailto:admin@joannawhaley.com"
+}
 ]

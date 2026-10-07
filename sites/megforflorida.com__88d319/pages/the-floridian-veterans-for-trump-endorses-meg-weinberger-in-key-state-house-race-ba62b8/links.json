@@ -1,26 +1,110 @@
 [
-"http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F&title=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race",
-"http://twitter.com/intent/tweet?text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F",
-"https://floridianpress.com/2024/03/veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race",
-"https://floridianpress.com/author/javier-manjarres",
-"https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F&text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race",
-"https://gettr.com/share?text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F",
-"https://megforflorida.com/",
-"https://megforflorida.com/campaign-news",
-"https://megforflorida.com/endorsements",
-"https://megforflorida.com/florida-gop-candidate-saddles-up-to-show-support-for-president-trump",
-"https://megforflorida.com/image-gallery",
-"https://megforflorida.com/join",
-"https://megforflorida.com/press-releases",
-"https://megforflorida.com/privacy-policy",
-"https://megforflorida.com/rescue-life-founder-meg-weinberger-has-a-passion-for-saving-animals",
-"https://megforflorida.com/terms",
-"https://megforflorida.com/the-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race",
-"https://megforflorida.com/the-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website",
-"https://placeofhope.com/who-we-are",
-"https://secure.anedot.com/megan-weinberger-campaign/donate",
-"https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F",
-"https://veteransfortrump.us/vfaf-endorsement-of-meg-weinberger-for-florida-state-house-fl-94",
-"https://wordpress.org/plugins/gdpr-cookie-compliance"
+{
+"text": "Contribute Today",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/megan-weinberger-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://megforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "Image and Video Gallery",
+"href": "https://megforflorida.com/image-gallery/"
+},
+{
+"text": "Javier Manjarres",
+"href": "https://floridianpress.com/author/javier-manjarres/"
+},
+{
+"text": "Join Meg",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Join Meg's Team!",
+"href": "https://megforflorida.com/join/"
+},
+{
+"text": "Messaging Terms, Conditions & Policies Terms",
+"href": "https://megforflorida.com/terms/"
+},
+{
+"text": "News & Events",
+"href": "https://megforflorida.com/campaign-news/"
+},
+{
+"text": "Place for Hope—",
+"href": "https://www.placeofhope.com/who-we-are/"
+},
+{
+"text": "Platform",
+"href": "https://megforflorida.com#meg-platform"
+},
+{
+"text": "Press Releases",
+"href": "https://megforflorida.com/press-releases/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://megforflorida.com/privacy-policy"
+},
+{
+"text": "Rescue Life Founder Meg Weinberger Has a Passion for Saving Animals →",
+"href": "https://megforflorida.com/rescue-life-founder-meg-weinberger-has-a-passion-for-saving-animals/"
+},
+{
+"text": "Site by KO.",
+"href": "https://megforflorida.com/the-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race/6822858@kevinoneill.us?subject=Sent+from+MegforFlorida+Website"
+},
+{
+"text": "The Floridian",
+"href": "https://floridianpress.com/2024/03/veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race/"
+},
+{
+"text": "[image]",
+"href": "https://megforflorida.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/compose?url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F&text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://gettr.com/share?text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F&title=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race"
+},
+{
+"text": "[tooltip: More]",
+"href": "https://megforflorida.com/the-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race/"
+},
+{
+"text": "[tooltip: Truth Social]",
+"href": "https://truthsocial.com/share?url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "http://twitter.com/intent/tweet?text=The+Floridian%3A+Veterans+for+Trump+Endorses+Meg+Weinberger+in+Key+State+House+Race&url=https%3A%2F%2Fmegforflorida.com%2Fthe-floridian-veterans-for-trump-endorses-meg-weinberger-in-key-state-house-race%2F"
+},
+{
+"text": "official website",
+"href": "https://veteransfortrump.us/vfaf-endorsement-of-meg-weinberger-for-florida-state-house-fl-94/"
+},
+{
+"text": "← Florida GOP candidate saddles up to show support for President Trump",
+"href": "https://megforflorida.com/florida-gop-candidate-saddles-up-to-show-support-for-president-trump/"
+}
 ]

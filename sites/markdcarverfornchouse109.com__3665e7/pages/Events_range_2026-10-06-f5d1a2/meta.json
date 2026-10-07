@@ -1,7 +1,11 @@
 {
  "description": "Mark Carver Campaign Events",
  "final_url": "https://www.markdcarverfornchouse109.com/Events?range=2026-10-06",
- "paid_for_by": null,
+ "fingerprint": "899c4c9286c5de689ad7a8773344d3145cee87a1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mark Carver Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

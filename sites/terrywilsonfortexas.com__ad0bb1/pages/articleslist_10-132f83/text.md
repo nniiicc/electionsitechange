@@ -1,4 +1,4 @@
-On June 6th, Governor Abbott announced that the 85th Texas Legislature would be called back on July 18th for a special session to take up twenty issues left unresolved after the close of the regular session in May.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements June 16, 2017 Jeff Frazier Sit-Rep #10 - The Bad - Texas Medical Board Sunset June 16, 2017 Jeff Frazier On June 6th, Governor Abbott announced that the 85th Texas Legislature would be called back on July 18th for a special session to take up twenty issues left unresolved after the close of the regular session in May.
 The governor made clear on multiple occasions that he felt the legislature had had time in the regular session to resolve these issues, if they so chose; so, what could cause the governor to take this drastic of an action?
 In my last article, I started my look at “The Good, the Bad, and the Ugly” of the 85th session with a review of the “good”, the ability for both chambers, and both parties, to come together and produce a working budget agreement.
 The answer to why we will be returning on July 18th, however, covers “the bad”.
@@ -27,3 +27,15 @@ Instead, there is a shift towards an “Us v Them” scenario.
 There is no longer any true attempt to persuade, inform, or collaborate.
 Victory comes only at the unconditional surrender or total defeat of the opposition.
 If we want to break this deadlock, we must encourage the leadership to adopt a new vision for how we conduct our politics, which will result in good governance for the people of Texas.
+June 16, 2017 Jeff Frazier Jeff Frazier Sit-Rep #11 - The Ugly - The Culture of Fear and Lack of Communication Sit-Rep #9 - The Good - Coming to A Budget Agreement Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

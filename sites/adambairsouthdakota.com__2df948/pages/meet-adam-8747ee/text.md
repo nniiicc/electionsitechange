@@ -1,6 +1,7 @@
-Get To Know Adam.
-About Me
-My early years helped shape me into who I am today.
+Donate Menu Home Donate Meet Adam Issues Endorsements Volunteer Want A Yard Sign?
+Voting Info Contact Our Campaign.
+Follow us Get To Know Adam.
+About Me My early years helped shape me into who I am today.
 Sioux Falls has been my home for many years now, and it’s where I’ve built the life I love.
 The sense of community here, the people, and the opportunities to contribute have kept me rooted in this city.
 It’s a place that values hard work, and that’s something that’s been part of who I am from the very beginning.
@@ -15,3 +16,7 @@ Working with people from all walks of life taught me the importance of listening
 I learned how to advocate for both customers and coworkers, and how to find common ground to get things done.
 Those experiences continue to shape how I approach leadership and community service.
 I live in Sioux Falls with my two dogs, Dolly and Maui, and two cats, Ziggy and Bowie.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Donate Meet Adam Issues Endorsements Volunteer Want A Yard Sign?
+Voting Info Contact Our Campaign.
+Donate Follow us Accessibility Statement Terms of Service Contact Links Paid For By Adam Bair For South Dakota Adam Bair For South Dakota District 10 © #

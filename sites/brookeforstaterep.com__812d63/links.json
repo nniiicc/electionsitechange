@@ -1,21 +1,94 @@
 [
-"https://brookeforstaterep.com/",
-"https://brookeforstaterep.com/home",
-"https://ct.gop/",
-"https://derbyct.gov/",
-"https://facebook.com/1185158464674280",
-"https://facebook.com/122109371055340377/posts/122125502541340377",
-"https://facebook.com/122109371055340377/posts/122125512561340377",
-"https://facebook.com/122109371055340377/posts/122125512969340377",
-"https://facebook.com/122109371055340377/posts/122125600791340377",
-"https://facebook.com/122109371055340377/posts/122125918785340377",
-"https://facebook.com/people/Brooke-for-State-Representative/61590211324541",
-"https://facebook.com/reel/1576103557029363",
-"https://hamden.com/",
-"https://orange-ct.gov/",
-"https://portal.ct.gov/sots",
-"https://portal.ct.gov/sots/election-services",
-"https://secure.anedot.com/hopkins-for-state-representative/donate",
-"https://voterregistration.ct.gov/OLVR/welcome.do",
-"https://woodbridgect.org/"
+{
+"text": "ABOUT",
+"href": "https://brookeforstaterep.com/home#about"
+},
+{
+"text": "CONTACT",
+"href": "https://brookeforstaterep.com/home#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/hopkins-for-state-representative/donate"
+},
+{
+"text": "Derby",
+"href": "https://www.derbyct.gov/"
+},
+{
+"text": "Election Services",
+"href": "https://portal.ct.gov/sots/election-services"
+},
+{
+"text": "Hamden",
+"href": "https://www.hamden.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://brookeforstaterep.com/home#issues"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/122109371055340377/posts/122125512969340377"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/122109371055340377/posts/122125600791340377"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/122109371055340377/posts/122125918785340377"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/122109371055340377/posts/122126072133340377"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/122109371055340377/posts/122126151039340377"
+},
+{
+"text": "Open Post",
+"href": "https://www.facebook.com/reel/1576103557029363/"
+},
+{
+"text": "Orange",
+"href": "https://www.orange-ct.gov/"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Secretary of the State",
+"href": "https://portal.ct.gov/sots"
+},
+{
+"text": "State Party",
+"href": "https://ct.gop/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://brookeforstaterep.com/home#volunteer"
+},
+{
+"text": "Visit Page",
+"href": "https://www.facebook.com/1185158464674280"
+},
+{
+"text": "Woodbridge",
+"href": "https://www.woodbridgect.org/"
+},
+{
+"text": "YARD SIGN",
+"href": "https://brookeforstaterep.com/home#yard-signs"
+},
+{
+"text": "[image: Fallback Title]Fallback Title",
+"href": "https://brookeforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Brooke-for-State-Representative/61590211324541/"
+}
 ]

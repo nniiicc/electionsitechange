@@ -1,18 +1,78 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform",
-"https://facebook.com/voterodas",
-"https://forms.gle/GU1u2ajuceRNYafz5",
-"https://forms.gle/NMbYsGWwv4MsPfM5A",
-"https://forms.gle/gRNmpwj2uWMrhhzs6",
-"https://instagram.com/voterodas",
-"https://olvr.hawaii.gov/",
-"https://rodasforhawaii.com/",
-"https://rodasforhawaii.com/about",
-"https://rodasforhawaii.com/accessibility-statement",
-"https://rodasforhawaii.com/community-events",
-"https://rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem",
-"https://rodasforhawaii.com/privacy-policy",
-"https://rodasforhawaii.com/terms-and-conditions",
-"https://secure.anedot.com/rodas-for-hawaii/donate"
+{
+"text": "About Me",
+"href": "https://www.rodasforhawaii.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.rodasforhawaii.com/accessibility-statement"
+},
+{
+"text": "Behind Locked Doors: How Kāne’ohe’s “Simple” Library Fix Exposes a Bigger Problem With Lack of Government Transparency",
+"href": "https://www.rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem"
+},
+{
+"text": "Community Events",
+"href": "https://www.rodasforhawaii.com/community-events"
+},
+{
+"text": "Community News",
+"href": "https://www.rodasforhawaii.com/post/library-fix-exposes-a-bigger-problem"
+},
+{
+"text": "Community Survey",
+"href": "https://forms.gle/gRNmpwj2uWMrhhzs6"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodas-for-hawaii/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdVFmHcWGN0OtES2526fq5AcYQ3PlmybPgt9l8g-X7tTgcijQ/viewform"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://forms.gle/NMbYsGWwv4MsPfM5A"
+},
+{
+"text": "Get Your Free Bumper Sticker",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc01JnJ8mSCXs7kvHfKwAQhf_Bby-oJYdC2ChBskTdDLg7CIA/viewform"
+},
+{
+"text": "More",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodasforhawaii.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.hawaii.gov/"
+},
+{
+"text": "Stay Informed >>",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.rodasforhawaii.com/terms-and-conditions"
+},
+{
+"text": "[image: Rodas 2026.png]",
+"href": "https://www.rodasforhawaii.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voterodas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/voterodas/"
+},
+{
+"text": "ale@rodasforhawaii.com",
+"href": "https://forms.gle/GU1u2ajuceRNYafz5"
+}
 ]

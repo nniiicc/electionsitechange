@@ -1,4 +1,14 @@
 [
-"https://luskfordistrict39.com/wp-login.php?redirect_to=https%3A%2F%2Fluskfordistrict39.com%2F",
-"https://wordpress.com/"
+{
+"text": "Log in",
+"href": "https://luskfordistrict39.com/wp-login.php?redirect_to=https%3A%2F%2Fluskfordistrict39.com%2F"
+},
+{
+"text": "Start a website",
+"href": "https://wordpress.com/"
+},
+{
+"text": "[tooltip: WordPress.com]",
+"href": "https://wordpress.com/"
+}
 ]

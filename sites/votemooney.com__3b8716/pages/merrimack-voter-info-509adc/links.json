@@ -1,17 +1,70 @@
 [
-"http://gencourt.state.nh.us/rsa/html/LXIII/659/659-13.htm",
-"https://facebook.com/maureenmooneynh",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://merrimacknh.gov/291/Town-Clerk-Tax-Collector",
-"https://merrimacknh.gov/535/Elections-Voting",
-"https://shorturl.at/sqyrI",
-"https://votemooney.com/",
-"https://votemooney.com/biography",
-"https://votemooney.com/contact-1",
-"https://votemooney.com/contribute",
-"https://votemooney.com/endorsement-testimonials",
-"https://votemooney.com/merrimack-voter-info",
-"https://votemooney.com/n-h-house-bills",
-"https://votemooney.com/on-the-issues",
-"https://x.com/MaureenCMooney"
+{
+"text": "Biography",
+"href": "https://votemooney.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://votemooney.com/contact-1"
+},
+{
+"text": "Contribute",
+"href": "https://votemooney.com/contribute"
+},
+{
+"text": "Endorsement Testimonials",
+"href": "https://votemooney.com/endorsement-testimonials"
+},
+{
+"text": "Home",
+"href": "https://votemooney.com/"
+},
+{
+"text": "Merrimack Voter Info",
+"href": "https://votemooney.com/merrimack-voter-info"
+},
+{
+"text": "N.H. House Bills",
+"href": "https://votemooney.com/n-h-house-bills"
+},
+{
+"text": "On the Issues",
+"href": "https://votemooney.com/on-the-issues"
+},
+{
+"text": "[image: Maureen Mooney for State Representative in Merrimack, N.H.]",
+"href": "https://votemooney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/maureenmooneynh"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/MaureenCMooney"
+},
+{
+"text": "http://www.gencourt.state.nh.us/rsa/html/LXIII/659/659-13.htm",
+"href": "http://www.gencourt.state.nh.us/rsa/html/LXIII/659/659-13.htm"
+},
+{
+"text": "https://shorturl.at/sqyrI",
+"href": "https://shorturl.at/sqyrI"
+},
+{
+"text": "https://www.merrimacknh.gov/291/Town-Clerk-Tax-Collector",
+"href": "https://www.merrimacknh.gov/291/Town-Clerk-Tax-Collector"
+},
+{
+"text": "https://www.merrimacknh.gov/535/Elections-Voting",
+"href": "https://www.merrimacknh.gov/535/Elections-Voting"
+},
+{
+"text": "townclerk@merrimacknh.gov",
+"href": "mailto:townclerk@merrimacknh.gov"
+}
 ]

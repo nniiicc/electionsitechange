@@ -1,7 +1,11 @@
 {
- "description": "Campaign trail evidence for Kelly Grappe \u2014 featured video, confirmed photography, and invitations to meet or invite Kelly. No invented county coverage.",
+ "description": "Campaign trail evidence for Kelly Grappe — featured video, confirmed photography, and invitations to meet or invite Kelly. No invented county coverage.",
  "final_url": "https://www.kellygrappe.com/about/journey",
- "paid_for_by": "Paid for by the Committee to Elect Kelly Grappe \u00b7 kellygrappe",
- "title": "Kelly Across Arkansas \u00b7 Kelly Grappe for Arkansas Secretary of State",
- "years_mentioned": []
+ "fingerprint": "d2010913561612aa44ba69a95ad64e6698b2c170",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Kelly Grappe · kellygrappe",
+ "title": "Kelly Across Arkansas · Kelly Grappe for Arkansas Secretary of State",
+ "years_mentioned": [
+  "2026"
+ ]
 }

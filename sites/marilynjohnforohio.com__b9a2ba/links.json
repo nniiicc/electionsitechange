@@ -1,4 +1,10 @@
 [
-"https://marilynjohnforohio.com/privacy-policy",
-"https://secure.winred.com/friends-of-marilyn-john/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-marilyn-john/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.marilynjohnforohio.com/privacy-policy"
+}
 ]

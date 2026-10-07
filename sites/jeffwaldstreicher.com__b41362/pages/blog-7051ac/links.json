@@ -1,16 +1,78 @@
 [
-"https://facebook.com/jeff.waldstreicher.9",
-"https://instagram.com/jeff_waldstreicher",
-"https://jeffwaldstreicher.com/",
-"https://jeffwaldstreicher.com/about-jeff",
-"https://jeffwaldstreicher.com/blog",
-"https://jeffwaldstreicher.com/contact",
-"https://jeffwaldstreicher.com/issues",
-"https://jeffwaldstreicher.com/our-campaign",
-"https://jeffwaldstreicher.com/our-campaign-session-version",
-"https://jeffwaldstreicher.com/our-team",
-"https://jeffwaldstreicher.com/post/maryland-senate-passes-police-reform-package",
-"https://jeffwaldstreicher.com/post/online-with-old-line-senator-jeff-waldstreicher",
-"https://secure.actblue.com/donate/jeff-waldstreicher-3",
-"https://twitter.com/jwaldstreicher"
+{
+"text": "ABOUT JEFF",
+"href": "https://www.jeffwaldstreicher.com/about-jeff"
+},
+{
+"text": "All Posts",
+"href": "https://www.jeffwaldstreicher.com/blog"
+},
+{
+"text": "CONTACT",
+"href": "https://www.jeffwaldstreicher.com/contact"
+},
+{
+"text": "Connect",
+"href": "https://www.jeffwaldstreicher.com/our-campaign-session-version"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jeff-waldstreicher-3"
+},
+{
+"text": "Home",
+"href": "https://www.jeffwaldstreicher.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jeffwaldstreicher.com/issues"
+},
+{
+"text": "JOIN OUR CAMPAIGN",
+"href": "https://www.jeffwaldstreicher.com/our-campaign-session-version"
+},
+{
+"text": "Jeff@JeffWaldstreicher.com",
+"href": "mailto:Jeff@JeffWaldstreicher.com"
+},
+{
+"text": "Maryland Senate Passes Police Reform Package",
+"href": "https://www.jeffwaldstreicher.com/post/maryland-senate-passes-police-reform-package"
+},
+{
+"text": "NEWS",
+"href": "https://www.jeffwaldstreicher.com/blog"
+},
+{
+"text": "OUR CAMPAIGN",
+"href": "https://www.jeffwaldstreicher.com/our-campaign"
+},
+{
+"text": "OUR TEAM",
+"href": "https://www.jeffwaldstreicher.com/our-team"
+},
+{
+"text": "Online with Old Line: Senator Jeff Waldstreicher",
+"href": "https://www.jeffwaldstreicher.com/post/online-with-old-line-senator-jeff-waldstreicher"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jeff.waldstreicher.9"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jeff_waldstreicher/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/jwaldstreicher"
+},
+{
+"text": "[image: Waldstreicher logo.png]",
+"href": "https://www.jeffwaldstreicher.com"
+},
+{
+"text": "jeff.waldstreicher@senate.state.md.us",
+"href": "mailto:jeff.waldstreicher@senate.state.md.us"
+}
 ]

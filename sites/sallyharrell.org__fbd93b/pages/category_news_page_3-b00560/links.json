@@ -1,54 +1,278 @@
 [
-"http://bentoncreative.com/",
-"https://facebook.com/sallyharrellga",
-"https://galeo.org/support-us/donate",
-"https://gpb.org/television/show/lawmakers/season/55/lawmakers-day-13-020625",
-"https://heathercoxrichardson.substack.com/subscribe",
-"https://instagram.com/p/DFnw2ywvgcr",
-"https://instagram.com/p/DFsqqAkuJZH",
-"https://instagram.com/sallyharrellga",
-"https://lcfgeorgia.org/get-involved/donate",
-"https://legis.ga.gov/committees/house/88?session=1033",
-"https://legis.ga.gov/committees/senate/103",
-"https://news.yahoo.com/does-state-budget-far-enough-233235543.html",
-"https://sallyharrell.org/",
-"https://sallyharrell.org/2020-endorsements",
-"https://sallyharrell.org/2022-endorsements",
-"https://sallyharrell.org/2024-endorsements",
-"https://sallyharrell.org/2024/02/25/sallys-senate-snapshot-2024-7",
-"https://sallyharrell.org/2024/03/03/sallys-senate-snapshot-2024-8",
-"https://sallyharrell.org/2024/03/10/sallys-senate-snapshot-2024-9",
-"https://sallyharrell.org/2024/03/17/sallys-senate-snapshot-2024-10",
-"https://sallyharrell.org/2024/03/24/sallys-senate-snapshot-2024-11",
-"https://sallyharrell.org/2024/03/30/sallys-senate-snapshot-2024-12",
-"https://sallyharrell.org/2025/01/19/sallys-senate-snapshot-2025-01",
-"https://sallyharrell.org/2025/01/26/sallys-senate-snapshot-2025-2",
-"https://sallyharrell.org/2025/02/02/sallys-senate-snapshot-2025-3",
-"https://sallyharrell.org/2025/02/09/sallys-senate-snapshot-2025-4",
-"https://sallyharrell.org/about-sally",
-"https://sallyharrell.org/author/jharrell26",
-"https://sallyharrell.org/category/news",
-"https://sallyharrell.org/category/news/page/16",
-"https://sallyharrell.org/category/news/page/2",
-"https://sallyharrell.org/category/news/page/4",
-"https://sallyharrell.org/category/news/page/5",
-"https://sallyharrell.org/contact",
-"https://sallyharrell.org/events",
-"https://sallyharrell.org/newsletters",
-"https://sallyharrell.org/priorities",
-"https://sallyharrell.org/priorities/2018-endorsements",
-"https://sallyharrell.org/volunteer",
-"https://sallyharrell.org/vote",
-"https://sallyharrell.org/yardsign",
-"https://sallyharrellga.substack.com/",
-"https://secure.actblue.com/contribute/page/sallyharrell-sd40",
-"https://secure.everyaction.com/ldYGqMj-EUKD2YNZ2EB0JQ2",
-"https://thelaa.org/donate",
-"https://twitter.com/MayaTPrabhu/status/1763390246383673461",
-"https://twitter.com/sallyharrellga",
-"https://wapo.st/4aEGlP3",
-"https://youtube.com/@sallyharrell730",
-"https://youtube.com/shorts/chDTXxkP_HE?si=y9JodrOgoDKj5AOM",
-"https://youtube.com/shorts/csqL4wdg520?si=xgEc1NxDhwEC8wtT",
-"https://youtube.com/watch?v=eNbscTeoZNk"
+{
+"text": "1",
+"href": "https://sallyharrell.org/category/news/"
+},
+{
+"text": "2",
+"href": "https://sallyharrell.org/category/news/page/2/"
+},
+{
+"text": "2018 Endorsements",
+"href": "https://sallyharrell.org/priorities/2018-endorsements"
+},
+{
+"text": "2020 Endorsements",
+"href": "https://sallyharrell.org/2020-endorsements/"
+},
+{
+"text": "2022 Endorsements",
+"href": "https://sallyharrell.org/2022-endorsements/"
+},
+{
+"text": "2024 Endorsements",
+"href": "https://sallyharrell.org/2024-endorsements/"
+},
+{
+"text": "4",
+"href": "https://sallyharrell.org/category/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://sallyharrell.org/category/news/page/5/"
+},
+{
+"text": "About Sally",
+"href": "https://sallyharrell.org/about-sally/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Click here to see if your Representative is a member",
+"href": "https://www.legis.ga.gov/committees/house/88?session=1033"
+},
+{
+"text": "Click here to see if your Senator is a member",
+"href": "https://www.legis.ga.gov/committees/senate/103"
+},
+{
+"text": "Contact",
+"href": "https://sallyharrell.org/contact/"
+},
+{
+"text": "Criminal Justice & Police Reform",
+"href": "https://sallyharrell.org/priorities/#criminal-justice"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/sallyharrell-sd40"
+},
+{
+"text": "Education",
+"href": "https://sallyharrell.org/priorities/#education"
+},
+{
+"text": "Environment",
+"href": "https://sallyharrell.org/priorities/#environment"
+},
+{
+"text": "Events",
+"href": "https://sallyharrell.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sallyharrellga/"
+},
+{
+"text": "Healthcare",
+"href": "https://sallyharrell.org/priorities/#healthcare"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sallyharrellga/"
+},
+{
+"text": "Mail",
+"href": "mailto:sally@sallyharrell.org"
+},
+{
+"text": "News",
+"href": "https://sallyharrell.org/category/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Newsletters",
+"href": "https://sallyharrell.org/newsletters/"
+},
+{
+"text": "Other Issues",
+"href": "https://sallyharrell.org/priorities/#other-issues"
+},
+{
+"text": "Priorities",
+"href": "https://sallyharrell.org/priorities/"
+},
+{
+"text": "Sally Harrell",
+"href": "https://sallyharrell.org/author/jharrell26/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #10",
+"href": "https://sallyharrell.org/2024/03/17/sallys-senate-snapshot-2024-10/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #11",
+"href": "https://sallyharrell.org/2024/03/24/sallys-senate-snapshot-2024-11/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #12 — Sine Die!",
+"href": "https://sallyharrell.org/2024/03/30/sallys-senate-snapshot-2024-12/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #7",
+"href": "https://sallyharrell.org/2024/02/25/sallys-senate-snapshot-2024-7/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #8",
+"href": "https://sallyharrell.org/2024/03/03/sallys-senate-snapshot-2024-8/"
+},
+{
+"text": "Sally’s Senate Snapshot 2024 #9",
+"href": "https://sallyharrell.org/2024/03/10/sallys-senate-snapshot-2024-9/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #1",
+"href": "https://sallyharrell.org/2025/01/19/sallys-senate-snapshot-2025-01/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #2",
+"href": "https://sallyharrell.org/2025/01/26/sallys-senate-snapshot-2025-2/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #3",
+"href": "https://sallyharrell.org/2025/02/02/sallys-senate-snapshot-2025-3/"
+},
+{
+"text": "Sally’s Senate Snapshot 2025 #4",
+"href": "https://sallyharrell.org/2025/02/09/sallys-senate-snapshot-2025-4/"
+},
+{
+"text": "Senate Snapshot newsletter",
+"href": "https://sallyharrellga.substack.com/"
+},
+{
+"text": "Subscribe to Heather Cox Richardson here",
+"href": "https://heathercoxrichardson.substack.com/subscribe"
+},
+{
+"text": "The resistance will not be rushed,",
+"href": "https://wapo.st/4aEGlP3"
+},
+{
+"text": "Transportation",
+"href": "https://sallyharrell.org/priorities/#transportation"
+},
+{
+"text": "Trump Morning News",
+"href": "https://www.instagram.com/p/DFnw2ywvgcr/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/sallyharrellga"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://sallyharrell.org/volunteer/"
+},
+{
+"text": "Voter Info",
+"href": "https://sallyharrell.org/vote/"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign"
+},
+{
+"text": "Yard Sign",
+"href": "https://sallyharrell.org/yardsign/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@sallyharrell730"
+},
+{
+"text": "YouTube channel",
+"href": "https://www.youtube.com/@sallyharrell730"
+},
+{
+"text": "[image: Elect Sally Harrell]",
+"href": "https://sallyharrell.org/"
+},
+{
+"text": "https://galeo.org/support-us/donate/",
+"href": "https://galeo.org/support-us/donate/"
+},
+{
+"text": "https://lcfgeorgia.org/get-involved/donate/",
+"href": "https://lcfgeorgia.org/get-involved/donate/"
+},
+{
+"text": "https://news.yahoo.com/does-state-budget-far-enough-233235543.html",
+"href": "https://news.yahoo.com/does-state-budget-far-enough-233235543.html"
+},
+{
+"text": "https://secure.everyaction.com/ldYGqMj-EUKD2YNZ2EB0JQ2",
+"href": "https://secure.everyaction.com/ldYGqMj-EUKD2YNZ2EB0JQ2"
+},
+{
+"text": "https://thelaa.org/donate/",
+"href": "https://thelaa.org/donate/"
+},
+{
+"text": "https://twitter.com/MayaTPrabhu/status/1763390246383673461",
+"href": "https://twitter.com/MayaTPrabhu/status/1763390246383673461"
+},
+{
+"text": "https://youtube.com/shorts/chDTXxkP_HE?si=y9JodrOgoDKj5AOM",
+"href": "https://youtube.com/shorts/chDTXxkP_HE?si=y9JodrOgoDKj5AOM"
+},
+{
+"text": "https://youtube.com/shorts/csqL4wdg520?si=xgEc1NxDhwEC8wtT",
+"href": "https://youtube.com/shorts/csqL4wdg520?si=xgEc1NxDhwEC8wtT"
+},
+{
+"text": "link",
+"href": "https://secure.everyaction.com/ldYGqMj-EUKD2YNZ2EB0JQ2"
+},
+{
+"text": "linked video",
+"href": "https://www.gpb.org/television/show/lawmakers/season/55/lawmakers-day-13-020625"
+},
+{
+"text": "press conference",
+"href": "https://www.youtube.com/watch?v=eNbscTeoZNk"
+},
+{
+"text": "sallyharrellga",
+"href": "https://instagram.com/sallyharrellga"
+},
+{
+"text": "these instructions",
+"href": "https://galeo.org/support-us/donate/"
+},
+{
+"text": "walk and talk video",
+"href": "https://www.instagram.com/p/DFsqqAkuJZH/"
+},
+{
+"text": "»",
+"href": "https://sallyharrell.org/category/news/page/16/"
+},
+{
+"text": "‹",
+"href": "https://sallyharrell.org/category/news/page/2/"
+},
+{
+"text": "›",
+"href": "https://sallyharrell.org/category/news/page/4/"
+}
 ]

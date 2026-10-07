@@ -1,11 +1,46 @@
 [
-"https://beckynicholsforassembly.com/",
-"https://beckynicholsforassembly.com/about",
-"https://beckynicholsforassembly.com/endorsements",
-"https://beckynicholsforassembly.com/get-involved",
-"https://beckynicholsforassembly.com/issues",
-"https://beckynicholsforassembly.com/privacy-policy",
-"https://facebook.com/BeckyNicholsForAssembly",
-"https://instagram.com/beckynicholsforassembly",
-"https://secure.actblue.com/donate/bn-website"
+{
+"text": "About",
+"href": "https://www.beckynicholsforassembly.com/about"
+},
+{
+"text": "Endorsements",
+"href": "https://www.beckynicholsforassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.beckynicholsforassembly.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.beckynicholsforassembly.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/bn-website"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.beckynicholsforassembly.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BeckyNicholsForAssembly/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/beckynicholsforassembly"
+},
+{
+"text": "[image: Nichols for Assembly campaign logo]",
+"href": "https://www.beckynicholsforassembly.com"
+},
+{
+"text": "info@beckynicholsforassembly.com",
+"href": "mailto:info@nicholsforassembly.com?subject=Question+about+the+campaign"
+},
+{
+"text": "​",
+"href": "https://www.beckynicholsforassembly.com"
+}
 ]

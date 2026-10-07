@@ -1,7 +1,9 @@
 {
  "description": "Join the Campaign, Request a Lawn Sign, Donate, Get Involved",
  "final_url": "https://www.senatorandrewlanza.com/get-involved",
- "paid_for_by": null,
+ "fingerprint": "a610ea746f21963d845c5bd9c1d15ec7d8e08174",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Get Involved | Andrew Lanza",
  "years_mentioned": []
 }

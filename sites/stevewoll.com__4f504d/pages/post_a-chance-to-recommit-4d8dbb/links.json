@@ -1,21 +1,102 @@
 [
-"https://facebook.com/SteveWollVA",
-"https://instagram.com/stevewollva",
-"https://linkedin.com/in/steve-woll",
-"https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress",
-"https://stevewoll.com/",
-"https://stevewoll.com/accessibility-statement",
-"https://stevewoll.com/blog",
-"https://stevewoll.com/blog/categories/from-the-blog",
-"https://stevewoll.com/blog/categories/podcasts",
-"https://stevewoll.com/blog/categories/press-releases",
-"https://stevewoll.com/getinvolved",
-"https://stevewoll.com/issues",
-"https://stevewoll.com/meetsteve",
-"https://stevewoll.com/members-area/steve9003/profile",
-"https://stevewoll.com/post/alarming-bookends",
-"https://stevewoll.com/post/meeting-hampton-roads",
-"https://stevewoll.com/post/why-i-m-stepping-forward",
-"https://stevewoll.com/privacy-policy",
-"https://stevewoll.com/terms-and-conditions"
+{
+"text": "ABOUT",
+"href": "https://www.stevewoll.com/meetsteve"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.stevewoll.com/accessibility-statement"
+},
+{
+"text": "Alarming Bookends",
+"href": "https://www.stevewoll.com/post/alarming-bookends"
+},
+{
+"text": "All Posts",
+"href": "https://www.stevewoll.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/steve-woll-for-congress/steve-woll-for-congress"
+},
+{
+"text": "Donate Now",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "From The Blog",
+"href": "https://www.stevewoll.com/blog/categories/from-the-blog"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stevewoll.com/getinvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.stevewoll.com/issues"
+},
+{
+"text": "Meeting Hampton Roads",
+"href": "https://www.stevewoll.com/post/meeting-hampton-roads"
+},
+{
+"text": "Podcasts",
+"href": "https://www.stevewoll.com/blog/categories/podcasts"
+},
+{
+"text": "Press",
+"href": "https://www.stevewoll.com/blog"
+},
+{
+"text": "Press Releases",
+"href": "https://www.stevewoll.com/blog/categories/press-releases"
+},
+{
+"text": "Privacy Policy |",
+"href": "https://www.stevewoll.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.stevewoll.com/blog"
+},
+{
+"text": "Steve Woll",
+"href": "https://www.stevewoll.com/members-area/steve9003/profile"
+},
+{
+"text": "Terms & Conditions |",
+"href": "https://www.stevewoll.com/terms-and-conditions"
+},
+{
+"text": "Why I'm Stepping Forward...",
+"href": "https://www.stevewoll.com/post/why-i-m-stepping-forward"
+},
+{
+"text": "[image: Alarming Bookends]",
+"href": "https://www.stevewoll.com/post/alarming-bookends"
+},
+{
+"text": "[image: FINAL STEVE WOLL Logo 1.png]",
+"href": "https://www.stevewoll.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SteveWollVA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/stevewollva/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/steve-woll/"
+},
+{
+"text": "[image: Meeting Hampton Roads]",
+"href": "https://www.stevewoll.com/post/meeting-hampton-roads"
+},
+{
+"text": "[image: Why I'm Stepping Forward...]",
+"href": "https://www.stevewoll.com/post/why-i-m-stepping-forward"
+}
 ]

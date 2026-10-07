@@ -1,19 +1,11 @@
-Meet Guillermo
-“I'm running for Senate because I believe, like my parents did, in the California Dream and the promise of the Valley.
+Skip to content Meet Guillermo The Valley Promise Endorsements Our District Media News Contact Me Join Team Guillermo Get a yard sign Give Join Give Menu Meet Guillermo “I'm running for Senate because I believe, like my parents did, in the California Dream and the promise of the Valley .
 And I will not stand by while that promise is sold off to higher-ups and powerful interests by those who have forgotten where they came from and who they serve.
 If you believe in that dream, I'm asking you to stand with me.
-So that one day, our children and our children's children won't have to go searching for the California Dream, they will be able to stay here and build it.”
-days until Election Day·Ballots go out Oct 5·Register by Oct 19
-The Valley Promise
-Guillermo's practical plan to lower the cost of groceries, gas, housing, and medical care while cutting the taxes and fees that squeeze working families.
-- $150KNo state taxes on your first $150,000 of income.
-Endorsements
-- CongressmanDavid Valadao
-- CongressmanVince Fong
-- AssemblymanStan Ellis
-- Assembly LeaderAli Macedo
-- Endorsed byHoward Jarvis Taxpayers Association PAC
-- Endorsed byKern County Farm Bureau
-- Endorsed byKern Law Enforcement Association
-- Endorsed byNFIB
-- Endorsed byGreater Bakersfield Chamber PAC
+So that one day, our children and our children's children won't have to go searching for the California Dream, they will be able to stay here and build it. ” Meet Guillermo → days until Election Day · Ballots go out Oct 5 · Register by Oct 19 The Valley Promise Guillermo's practical plan to lower the cost of groceries, gas, housing, and medical care while cutting the taxes and fees that squeeze working families.
+63.4¢ End the state gasoline tax and deliver direct relief at the pump. $150K No state taxes on your first $150,000 of income. $500 A state income-tax credit to help working families cover grocery costs.
+Read the Valley Promise See what you'd save Guillermo's Priorities Let the Valley grow: Cut red tape, support small business and agriculture, and build affordable homes so families can put down roots.
+Protect Valley Families: Safer streets, lower costs, and better local access to doctors and emergency services.
+Hold Sacramento Accountable: Keep our resources here and make Sacramento answer to the Valley, not the other way around.
+The Valley Promise Endorsements Congressman David Valadao Congressman Vince Fong Assemblyman Stan Ellis Assembly Leader Ali Macedo Endorsed by Kern County Farm Bureau Endorsed by Kern Law Enforcement Association Endorsed by NFIB Endorsed by Greater Bakersfield Chamber PAC Endorsed by Howard Jarvis Taxpayers Association PAC See every endorsement Get a yard sign Sponsor a yard sign Give Restore the promise of the Valley Join Team Guillermo Give Follow Guillermo The campaign Meet Guillermo The Valley Promise Endorsements Our District Media In the News Take part Join Team Guillermo Get a yard sign Give Contact Me More See what you'd save Privacy Policy Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026.
+All rights reserved.
+Privacy Policy ← →

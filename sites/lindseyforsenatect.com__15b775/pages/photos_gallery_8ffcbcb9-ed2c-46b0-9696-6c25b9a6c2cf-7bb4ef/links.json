@@ -1,30 +1,114 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/people/Lindsey-For-Senate",
-"https://i.campaignpartner.net/images/cdn_queue/153270/2b436a87dc944674a28d9d141ccebf08.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/56321d6c2b3e445e9357520330d01bdd.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/611507b927ee45d0b20657cd00f5be7b.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/63a7a746bb6c4824bff687ee475573e4.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/6fc9e377772a4f5aa8de42637b7a91da.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/7e27fbe8c41146dd9eafa2e8bd7d9166.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/a2908b12bc204dc48fc9b0ac0c4069ba.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/acdf2c84909f42dea49020afd54e9e74.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/c3040eb8a82548d1930e1f42b5fa9885.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/cda85873d2f74a1b90c3eebd6e271393.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153270/fcf340f139144a81a689da9d1db389de.jpg",
-"https://instagram.com/lindseyforsenate24",
-"https://lindseyforsenatect.com/",
-"https://lindseyforsenatect.com/contact",
-"https://lindseyforsenatect.com/contribute",
-"https://lindseyforsenatect.com/events",
-"https://lindseyforsenatect.com/home",
-"https://lindseyforsenatect.com/issues",
-"https://lindseyforsenatect.com/meet_melissa",
-"https://lindseyforsenatect.com/news",
-"https://lindseyforsenatect.com/photos",
-"https://lindseyforsenatect.com/privacy-policy",
-"https://lindseyforsenatect.com/view-endorsements",
-"https://lindseyforsenatect.com/volunteer",
-"https://lindseyforsenatect.com/vote",
-"https://lindseyforsenatect.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.lindseyforsenatect.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.lindseyforsenatect.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lindseyforsenatect.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.lindseyforsenatect.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.lindseyforsenatect.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.lindseyforsenatect.com/issues"
+},
+{
+"text": "Meet Melissa",
+"href": "https://www.lindseyforsenatect.com/meet_melissa"
+},
+{
+"text": "News",
+"href": "https://www.lindseyforsenatect.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.lindseyforsenatect.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lindseyforsenatect.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lindseyforsenatect.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.lindseyforsenatect.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.lindseyforsenatect.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/2b436a87dc944674a28d9d141ccebf08.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/56321d6c2b3e445e9357520330d01bdd.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/611507b927ee45d0b20657cd00f5be7b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/63a7a746bb6c4824bff687ee475573e4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/6fc9e377772a4f5aa8de42637b7a91da.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/7e27fbe8c41146dd9eafa2e8bd7d9166.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/a2908b12bc204dc48fc9b0ac0c4069ba.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/acdf2c84909f42dea49020afd54e9e74.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/c3040eb8a82548d1930e1f42b5fa9885.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/cda85873d2f74a1b90c3eebd6e271393.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153270/fcf340f139144a81a689da9d1db389de.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.lindseyforsenatect.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Lindsey-For-Senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lindseyforsenate24"
+}
 ]

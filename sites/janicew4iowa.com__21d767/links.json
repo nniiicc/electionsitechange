@@ -1,16 +1,78 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://facebook.com/JaniceWeiner4StateSenate",
-"https://janicew4iowa.com/",
-"https://janicew4iowa.com/_files/ugd/bb9d6e_492eeabcc5f448c387b7e075a5e57815.pdf",
-"https://janicew4iowa.com/about",
-"https://janicew4iowa.com/endorsements",
-"https://janicew4iowa.com/get-involved",
-"https://janicew4iowa.com/issues",
-"https://janicew4iowa.com/privacy-policy",
-"https://secure.actblue.com/donate/janice-weiner-for-state-senate-2",
-"https://sos.iowa.gov/elections-voting",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://sos.iowa.gov/voters/voter-registration",
-"https://x.com/janice4iowa"
+{
+"text": "ABOUT",
+"href": "https://www.janicew4iowa.com/about"
+},
+{
+"text": "Back to Top",
+"href": "https://www.janicew4iowa.com"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://sos.iowa.gov/elections-voting"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "CLICK HERE.",
+"href": "https://sos.iowa.gov/voters/voter-registration"
+},
+{
+"text": "CLICKING HERE.",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/janice-weiner-for-state-senate-2"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.janicew4iowa.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.janicew4iowa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.janicew4iowa.com/issues"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.janicew4iowa.com/issues"
+},
+{
+"text": "MORE INFO",
+"href": "https://sos.iowa.gov/elections-voting"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janicew4iowa.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.janicew4iowa.com/about"
+},
+{
+"text": "VIEW MAP",
+"href": "https://www.janicew4iowa.com/_files/ugd/bb9d6e_492eeabcc5f448c387b7e075a5e57815.pdf"
+},
+{
+"text": "VIEW THEM",
+"href": "https://www.janicew4iowa.com/endorsements"
+},
+{
+"text": "[image: Campaign logo for Janice Weiner]",
+"href": "https://www.janicew4iowa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JaniceWeiner4StateSenate"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/janice4iowa"
+}
 ]

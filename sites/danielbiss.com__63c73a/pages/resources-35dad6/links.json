@@ -1,27 +1,106 @@
 [
-"http://danielbiss.com/",
-"https://bsky.app/profile/danielbiss.bsky.social",
-"https://cityofevanston.org/residents/welcoming-city-resources",
-"https://danielbiss.com/",
-"https://danielbiss.com/about",
-"https://danielbiss.com/contact",
-"https://danielbiss.com/endorsements",
-"https://danielbiss.com/issues",
-"https://danielbiss.com/save-this-number-so-you-don-t-have-to-look-for-it-in-the-moment.jpg",
-"https://danielbiss.substack.com/",
-"https://designedtorun.com/",
-"https://facebook.com/danielbiss",
-"https://icirr.quorum.us/campaign/ileyesonice",
-"https://illinoisimmigrationinfo.org/volunteer",
-"https://immigrantjustice.jotform.com/250905564695871",
-"https://immigrantjustice.org/for-immigrants/know-your-rights/what-do-if-you-or-loved-one-detained",
-"https://instagram.com/daniel.biss",
-"https://mobilize.us/danielbiss/event/827815",
-"https://nlgchicago.org/know-your-rights",
-"https://nlgchicago.org/wp-content/uploads/NLG-KYR-DNC.pdf",
-"https://resurrectionproject.tfaforms.net/f/iceraid-spanish",
-"https://secure.actblue.com/donate/dkb-web",
-"https://tiktok.com/@bissforcongress",
-"https://x.com/danielbiss",
-"https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+{
+"text": "About",
+"href": "https://www.danielbiss.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.danielbiss.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dkb-web"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.illinoisimmigrationinfo.org/volunteer#lpv"
+},
+{
+"text": "Endorsements",
+"href": "https://www.danielbiss.com/endorsements"
+},
+{
+"text": "Evanston ICE-free zone information & signs",
+"href": "https://www.cityofevanston.org/residents/welcoming-city-resources"
+},
+{
+"text": "Get ICE text alerts for your Illinois area",
+"href": "https://icirr.quorum.us/campaign/ileyesonice/"
+},
+{
+"text": "Issues",
+"href": "https://www.danielbiss.com/issues"
+},
+{
+"text": "Know Your Rights guide",
+"href": "https://nlgchicago.org/wp-content/uploads/NLG-KYR-DNC.pdf"
+},
+{
+"text": "Learn more",
+"href": "https://nlgchicago.org/know-your-rights/"
+},
+{
+"text": "Need immigration legal or community support?",
+"href": "https://resurrectionproject.tfaforms.net/f/iceraid-spanish"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Report suspected ICE sightings",
+"href": "https://www.danielbiss.com/save-this-number-so-you-don-t-have-to-look-for-it-in-the-moment.jpg"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/danielbiss/event/827815/"
+},
+{
+"text": "Volunteer to serve as a translator",
+"href": "https://immigrantjustice.jotform.com/250905564695871"
+},
+{
+"text": "What to do if ICE detains you or a loved one",
+"href": "https://immigrantjustice.org/for-immigrants/know-your-rights/what-do-if-you-or-loved-one-detained/"
+},
+{
+"text": "[image: Daniel Biss for Congress]",
+"href": "https://www.danielbiss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/danielbiss.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://danielbiss.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daniel.biss"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bissforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/danielbiss"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@bissforcongress?si=iaW1q5g_gjeIX7aj"
+},
+{
+"text": "danielbiss.com",
+"href": "http://danielbiss.com"
+},
+{
+"text": "info@",
+"href": "mailto:info@danielbiss.com"
+}
 ]

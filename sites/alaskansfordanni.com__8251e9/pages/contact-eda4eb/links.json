@@ -1,10 +1,42 @@
 [
-"https://alaskansfordanni.com/",
-"https://alaskansfordanni.com/about",
-"https://alaskansfordanni.com/endorsements",
-"https://alaskansfordanni.com/issues",
-"https://alaskansfordanni.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61590516476208&mibextid=wwXIfr&rdid=9kVeoDgyARfpWxGU&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1QpoARzcCM%2F%3Fmibextid%3DwwXIfr",
-"https://secure.anedot.com/alaskans-for-danni/donate"
+{
+"text": "About",
+"href": "https://www.alaskansfordanni.com/about"
+},
+{
+"text": "Danniacts@gmail.com",
+"href": "mailto:Danniacts@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alaskans-for-danni/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alaskansfordanni.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.alaskansfordanni.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alaskansfordanni.com/volunteer"
+},
+{
+"text": "[image: Alaskans For Danni logo]",
+"href": "https://www.alaskansfordanni.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.alaskansfordanni.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61590516476208&mibextid=wwXIfr&rdid=9kVeoDgyARfpWxGU&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1QpoARzcCM%2F%3Fmibextid%3DwwXIfr"
+}
 ]

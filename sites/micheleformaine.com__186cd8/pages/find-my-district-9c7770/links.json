@@ -1,9 +1,42 @@
 [
-"http://maine.gov/portal/government/edemocracy/voter_lookup.php",
-"https://facebook.com/MicheleforMaine",
-"https://instagram.com/michelemeyer_mainehouse",
-"https://micheleformaine.com/",
-"https://micheleformaine.com/contribute",
-"https://micheleformaine.com/find-my-district",
-"https://micheleformaine.com/news"
+{
+"text": "ABOUT",
+"href": "https://www.micheleformaine.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.micheleformaine.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.micheleformaine.com/contribute"
+},
+{
+"text": "FIND MY DISTRICT",
+"href": "http://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "FIND MY DISTRICT",
+"href": "https://www.micheleformaine.com/find-my-district"
+},
+{
+"text": "HOME",
+"href": "https://www.micheleformaine.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.micheleformaine.com/news"
+},
+{
+"text": "[image: Facebook - Black Circle]",
+"href": "https://www.facebook.com/MicheleforMaine/"
+},
+{
+"text": "[image: Instagram - Black Circle]",
+"href": "https://www.instagram.com/michelemeyer_mainehouse/"
+},
+{
+"text": "©# Paid for and authorized by Michele for Maine",
+"href": "https://www.micheleformaine.com"
+}
 ]

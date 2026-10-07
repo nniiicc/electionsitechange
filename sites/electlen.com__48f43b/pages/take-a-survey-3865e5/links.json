@@ -1,13 +1,54 @@
 [
-"https://electlen.com/",
-"https://electlen.com/bio",
-"https://electlen.com/donate",
-"https://electlen.com/privacy",
-"https://electlen.com/take-a-survey",
-"https://facebook.com/profile.php?id=61586811096855",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/hennessyforgeorgia?igsh=MWo4bHE4enUzcXc0aA%3D%3D",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://surveymonkey.com/r/NS5KYG8"
+{
+"text": "Bio",
+"href": "https://electlen.com/bio"
+},
+{
+"text": "Click for a 2 minute survey",
+"href": "https://www.surveymonkey.com/r/NS5KYG8"
+},
+{
+"text": "Donate",
+"href": "https://electlen.com/donate"
+},
+{
+"text": "GoDaddy",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "HennessyforGeorgia@gmail.com",
+"href": "mailto:HennessyforGeorgia@gmail.com"
+},
+{
+"text": "Home",
+"href": "https://electlen.com/"
+},
+{
+"text": "Privacy",
+"href": "https://electlen.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Take a survey",
+"href": "https://electlen.com/take-a-survey"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Hennessy For GA-125]",
+"href": "https://electlen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586811096855"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hennessyforgeorgia?igsh=MWo4bHE4enUzcXc0aA%3D%3D"
+}
 ]

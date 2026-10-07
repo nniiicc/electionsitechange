@@ -1,0 +1,19 @@
+[
+"alt:/lib/images/diff.png|Show differences to current revisions",
+"alt:/lib/images/license/button/cc-by-sa.png|CC Attribution-Share Alike 4.0 International",
+"alt:/lib/tpl/dokuwiki/images/button-css.png|Valid CSS",
+"alt:/lib/tpl/dokuwiki/images/button-donate.gif|Donate",
+"alt:/lib/tpl/dokuwiki/images/button-dw.png|Driven by DokuWiki",
+"alt:/lib/tpl/dokuwiki/images/button-html5.png|Valid HTML5",
+"alt:/lib/tpl/dokuwiki/images/button-php.gif|Powered by PHP",
+"img:/lib/exe/fetch.php",
+"img:/lib/exe/taskrunner.php",
+"img:/lib/images/blank.gif",
+"img:/lib/images/diff.png",
+"img:/lib/images/license/button/cc-by-sa.png",
+"img:/lib/tpl/dokuwiki/images/button-css.png",
+"img:/lib/tpl/dokuwiki/images/button-donate.gif",
+"img:/lib/tpl/dokuwiki/images/button-dw.png",
+"img:/lib/tpl/dokuwiki/images/button-html5.png",
+"img:/lib/tpl/dokuwiki/images/button-php.gif"
+]

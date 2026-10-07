@@ -1,42 +1,266 @@
 [
-"https://caring.com/senior-living/assisted-living/pennsylvania",
-"https://dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx",
-"https://facebook.com/RepMustello",
-"https://instagram.com/repmustello11",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repmustello.com/",
-"https://repmustello.com/Display/NewsGroup.aspx?ngid=72",
-"https://repmustello.com/Email-Signup",
-"https://repmustello.com/News/35952/Press-Releases/Mustello--Bernstine-to-Host-Farmers-Breakfast-April-3",
-"https://repmustello.com/News/36083/Press-Releases/Butler-County-House-Delegation--Commissioners-Demand-Full-Audit-of-Community-Partnership--Inc",
-"https://repmustello.com/News/36375/Press-Releases/Mustello-Announces-Funding-to-Benefit-Butler-County-Residents",
-"https://repmustello.com/News/36504/Press-Releases/Mustello-Says--No--to--50-6-Billion-Tax-and-Spend-Plan",
-"https://repmustello.com/News/36513/Press-Releases/Mustello--Bernstine-Announce-PENNVEST-Loan-for-Butler-County-Water-System-Upgrades",
-"https://repmustello.com/News/36899/Press-Releases/Mustello-to-Recognize-Butler-County-Veteran-of-the-Year-This-Thursday",
-"https://repmustello.com/News/36959/Press-Releases/Mustello--State-Budget-Delivers-Key-Wins-for-Butler-County--Pennsylvania-Communities",
-"https://repmustello.com/News/37076/Press-Releases/Bonner--Mustello--Bernstine--Scialabba-Announce-Grant-for-Butler-County-Historical-Society",
-"https://repmustello.com/News/37173/Press-Releases/Mustello-Announces-State-Grants-for-Butler-County-Community-Projects",
-"https://repmustello.com/News/37192/Press-Releases/Mustello--Bernstine-Announce-Transportation-Improvements-for-Butler-County",
-"https://repmustello.com/News/37301/Press-Releases/Mustello-Announces-State-Funding-for-Water--Sewer--Transportation-Projects-in-Butler-County",
-"https://repmustello.com/News/37371/Press-Releases/Bernstine--Mustello-Highlight-Rail-Investments-Supporting-Jobs--Economic-Growth-in-Butler-County",
-"https://repmustello.com/News/37568/Press-Releases/Mustello-Announces-Significant-Investment-in-Fire--EMS-Services-Across-Butler-County",
-"https://repmustello.com/News/37741/Press-Releases/Supporting-Agriculture--Mustello-Hosts-Farmers-Breakfast-in-Butler",
-"https://repmustello.com/News/37801/Press-Releases/Mustello-Announces--95-000-Grant-for-Butler-Area-Public-Library",
-"https://repmustello.com/News/37899/Press-Releases/Mustello-Announces-Nearly--348-000-Dual-Credit-Innovation-Grant-for-Butler-County-Community-College",
-"https://repmustello.com/News/38262/Press-Releases/Mustello--2026-27-PA-State-Budget-Passes",
-"https://repmustello.com/News/38305/Press-Releases/Mustello-Announces--1-4-Million-PENNVEST-Loan-for-Chicora-Borough-Waterline-Project",
-"https://repmustello.com/News/38512/Press-Releases/Mustello--More-Than--871-000-Awarded-for-School-Safety--Mental-Health",
-"https://repmustello.com/News/38688/Press-Releases/Mustello--More-Than--1-1-Million-in-LSA-Grants-Awarded-for-Butler-County",
-"https://repmustello.com/PAGovLinks",
-"https://repmustello.com/Video/LatestVideo",
-"https://repmustello.com/about",
-"https://repmustello.com/citizenaccess",
-"https://repmustello.com/contact",
-"https://repmustello.com/districtmap",
-"https://repmustello.com/events",
-"https://repmustello.com/livestreams",
-"https://repmustello.com/photos/Veteran-of-the-Year-Luncheon",
-"https://repmustello.com/realid",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "11th District",
+"href": "https://www.repmustello.com/districtmap"
+},
+{
+"text": "About",
+"href": "https://www.repmustello.com/about"
+},
+{
+"text": "Bernstine, Mustello Highlight Rail Investments Supporting Jobs, Economic Growth in Butler County",
+"href": "https://www.repmustello.com/News/37371/Press-Releases/Bernstine--Mustello-Highlight-Rail-Investments-Supporting-Jobs--Economic-Growth-in-Butler-County"
+},
+{
+"text": "Bio",
+"href": "https://www.repmustello.com/about"
+},
+{
+"text": "Bonner, Mustello, Bernstine, Scialabba Announce Grant for Butler County Historical Society",
+"href": "https://www.repmustello.com/News/37076/Press-Releases/Bonner--Mustello--Bernstine--Scialabba-Announce-Grant-for-Butler-County-Historical-Society"
+},
+{
+"text": "Butler County House Delegation, Commissioners Demand Full Audit of Community Partnership, Inc.",
+"href": "https://www.repmustello.com/News/36083/Press-Releases/Butler-County-House-Delegation--Commissioners-Demand-Full-Audit-of-Community-Partnership--Inc"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repmustello.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repmustello.com/contact"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/35952/Press-Releases/Mustello--Bernstine-to-Host-Farmers-Breakfast-April-3"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36083/Press-Releases/Butler-County-House-Delegation--Commissioners-Demand-Full-Audit-of-Community-Partnership--Inc"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36375/Press-Releases/Mustello-Announces-Funding-to-Benefit-Butler-County-Residents"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36504/Press-Releases/Mustello-Says--No--to--50-6-Billion-Tax-and-Spend-Plan"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36513/Press-Releases/Mustello--Bernstine-Announce-PENNVEST-Loan-for-Butler-County-Water-System-Upgrades"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36899/Press-Releases/Mustello-to-Recognize-Butler-County-Veteran-of-the-Year-This-Thursday"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/36959/Press-Releases/Mustello--State-Budget-Delivers-Key-Wins-for-Butler-County--Pennsylvania-Communities"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37076/Press-Releases/Bonner--Mustello--Bernstine--Scialabba-Announce-Grant-for-Butler-County-Historical-Society"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37173/Press-Releases/Mustello-Announces-State-Grants-for-Butler-County-Community-Projects"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37192/Press-Releases/Mustello--Bernstine-Announce-Transportation-Improvements-for-Butler-County"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37301/Press-Releases/Mustello-Announces-State-Funding-for-Water--Sewer--Transportation-Projects-in-Butler-County"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37371/Press-Releases/Bernstine--Mustello-Highlight-Rail-Investments-Supporting-Jobs--Economic-Growth-in-Butler-County"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37568/Press-Releases/Mustello-Announces-Significant-Investment-in-Fire--EMS-Services-Across-Butler-County"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37741/Press-Releases/Supporting-Agriculture--Mustello-Hosts-Farmers-Breakfast-in-Butler"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37801/Press-Releases/Mustello-Announces--95-000-Grant-for-Butler-Area-Public-Library"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/37899/Press-Releases/Mustello-Announces-Nearly--348-000-Dual-Credit-Innovation-Grant-for-Butler-County-Community-College"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/38262/Press-Releases/Mustello--2026-27-PA-State-Budget-Passes"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/38305/Press-Releases/Mustello-Announces--1-4-Million-PENNVEST-Loan-for-Chicora-Borough-Waterline-Project"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/38512/Press-Releases/Mustello--More-Than--871-000-Awarded-for-School-Safety--Mental-Health"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repmustello.com/News/38688/Press-Releases/Mustello--More-Than--1-1-Million-in-LSA-Grants-Awarded-for-Butler-County"
+},
+{
+"text": "District Map",
+"href": "https://www.repmustello.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repmustello.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.repmustello.com/"
+},
+{
+"text": "LiHeap Information",
+"href": "https://www.dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repmustello.com/livestreams"
+},
+{
+"text": "Mustello Announces $1.4 Million PENNVEST Loan for Chicora Borough Waterline Project",
+"href": "https://www.repmustello.com/News/38305/Press-Releases/Mustello-Announces--1-4-Million-PENNVEST-Loan-for-Chicora-Borough-Waterline-Project"
+},
+{
+"text": "Mustello Announces $95,000 Grant for Butler Area Public Library",
+"href": "https://www.repmustello.com/News/37801/Press-Releases/Mustello-Announces--95-000-Grant-for-Butler-Area-Public-Library"
+},
+{
+"text": "Mustello Announces Funding to Benefit Butler County Residents",
+"href": "https://www.repmustello.com/News/36375/Press-Releases/Mustello-Announces-Funding-to-Benefit-Butler-County-Residents"
+},
+{
+"text": "Mustello Announces Nearly $348,000 Dual Credit Innovation Grant for Butler County Community College",
+"href": "https://www.repmustello.com/News/37899/Press-Releases/Mustello-Announces-Nearly--348-000-Dual-Credit-Innovation-Grant-for-Butler-County-Community-College"
+},
+{
+"text": "Mustello Announces Significant Investment in Fire, EMS Services Across Butler County",
+"href": "https://www.repmustello.com/News/37568/Press-Releases/Mustello-Announces-Significant-Investment-in-Fire--EMS-Services-Across-Butler-County"
+},
+{
+"text": "Mustello Announces State Funding for Water, Sewer, Transportation Projects in Butler County",
+"href": "https://www.repmustello.com/News/37301/Press-Releases/Mustello-Announces-State-Funding-for-Water--Sewer--Transportation-Projects-in-Butler-County"
+},
+{
+"text": "Mustello Announces State Grants for Butler County Community Projects",
+"href": "https://www.repmustello.com/News/37173/Press-Releases/Mustello-Announces-State-Grants-for-Butler-County-Community-Projects"
+},
+{
+"text": "Mustello Says ‘No’ to $50.6 Billion Tax-and-Spend Plan",
+"href": "https://www.repmustello.com/News/36504/Press-Releases/Mustello-Says--No--to--50-6-Billion-Tax-and-Spend-Plan"
+},
+{
+"text": "Mustello to Recognize Butler County Veteran of the Year This Thursday",
+"href": "https://www.repmustello.com/News/36899/Press-Releases/Mustello-to-Recognize-Butler-County-Veteran-of-the-Year-This-Thursday"
+},
+{
+"text": "Mustello, Bernstine Announce PENNVEST Loan for Butler County Water System Upgrades",
+"href": "https://www.repmustello.com/News/36513/Press-Releases/Mustello--Bernstine-Announce-PENNVEST-Loan-for-Butler-County-Water-System-Upgrades"
+},
+{
+"text": "Mustello, Bernstine Announce Transportation Improvements for Butler County",
+"href": "https://www.repmustello.com/News/37192/Press-Releases/Mustello--Bernstine-Announce-Transportation-Improvements-for-Butler-County"
+},
+{
+"text": "Mustello, Bernstine to Host Farmers Breakfast April 3",
+"href": "https://www.repmustello.com/News/35952/Press-Releases/Mustello--Bernstine-to-Host-Farmers-Breakfast-April-3"
+},
+{
+"text": "Mustello: 2026-27 PA State Budget Passes",
+"href": "https://www.repmustello.com/News/38262/Press-Releases/Mustello--2026-27-PA-State-Budget-Passes"
+},
+{
+"text": "Mustello: More Than $1.1 Million in LSA Grants Awarded for Butler County",
+"href": "https://www.repmustello.com/News/38688/Press-Releases/Mustello--More-Than--1-1-Million-in-LSA-Grants-Awarded-for-Butler-County"
+},
+{
+"text": "Mustello: More Than $871,000 Awarded for School Safety, Mental Health",
+"href": "https://www.repmustello.com/News/38512/Press-Releases/Mustello--More-Than--871-000-Awarded-for-School-Safety--Mental-Health"
+},
+{
+"text": "Mustello: State Budget Delivers Key Wins for Butler County, Pennsylvania Communities",
+"href": "https://www.repmustello.com/News/36959/Press-Releases/Mustello--State-Budget-Delivers-Key-Wins-for-Butler-County--Pennsylvania-Communities"
+},
+{
+"text": "PA State Rep. Marci MustelloServing PA's 11th Legislative District",
+"href": "https://www.repmustello.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Press Releases",
+"href": "https://www.repmustello.com/Display/NewsGroup.aspx?ngid=72"
+},
+{
+"text": "Property Tax Rent/Rebates",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "REAL ID",
+"href": "https://www.repmustello.com/realid"
+},
+{
+"text": "Senior Care & Assisted Living Guide",
+"href": "https://www.caring.com/senior-living/assisted-living/pennsylvania"
+},
+{
+"text": "Senior Care &amp; Assisted Living Guide",
+"href": "https://www.caring.com/senior-living/assisted-living/pennsylvania"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repmustello.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repmustello.com/Email-Signup"
+},
+{
+"text": "Supporting Agriculture: Mustello Hosts Farmers Breakfast in Butler",
+"href": "https://www.repmustello.com/News/37741/Press-Releases/Supporting-Agriculture--Mustello-Hosts-Farmers-Breakfast-in-Butler"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Veteran Luncheon Photos",
+"href": "https://www.repmustello.com/photos/Veteran-of-the-Year-Luncheon"
+},
+{
+"text": "Video",
+"href": "https://www.repmustello.com/Video/LatestVideo"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepMustello"
+},
+{
+"text": "[tooltip: Go To Last Page]",
+"href": "javascript:%20window.scrollTo(0,0)"
+},
+{
+"text": "[tooltip: Go To Next Page]",
+"href": "javascript:%20window.scrollTo(0,0)"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/repmustello11"
+}
 ]

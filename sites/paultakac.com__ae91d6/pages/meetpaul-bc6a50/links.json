@@ -1,13 +1,50 @@
 [
-"http://wix.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLScWUzCHQ2ze2IHOZoEe2WLKceIS5tvHd7tpPtFL0h65KCxqZA/viewform?usp=header",
-"https://facebook.com/PaulTakacPA",
-"https://instagram.com/paultakac_pa",
-"https://pahouse.com/takac",
-"https://paultakac.com/",
-"https://paultakac.com/general-7",
-"https://paultakac.com/get-involved",
-"https://paultakac.com/meetpaul",
-"https://secure.actblue.com/donate/pt2025",
-"https://tiktok.com/@team_takac?lang=en"
+{
+"text": "Contact Us",
+"href": "https://www.paultakac.com/get-involved"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pt2025"
+},
+{
+"text": "Home",
+"href": "https://www.paultakac.com"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.paultakac.com/meetpaul"
+},
+{
+"text": "Voting Info",
+"href": "https://www.paultakac.com/general-7"
+},
+{
+"text": "Wix.com",
+"href": "http://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PaulTakacPA"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/paultakac_pa/"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@team_takac?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScWUzCHQ2ze2IHOZoEe2WLKceIS5tvHd7tpPtFL0h65KCxqZA/viewform?usp=header"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/pt2025"
+},
+{
+"text": "the Pennsylvania House of Representatives here.",
+"href": "https://www.pahouse.com/takac/"
+}
 ]

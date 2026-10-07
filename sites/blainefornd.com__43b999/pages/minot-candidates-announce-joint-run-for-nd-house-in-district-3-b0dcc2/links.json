@@ -1,20 +1,78 @@
 [
-"https://aquamarine-clam-963221.hostingersite.com/home",
-"https://blainefornd.com/",
-"https://blainefornd.com/about",
-"https://blainefornd.com/category/in-the-news",
-"https://blainefornd.com/get-involved",
-"https://blainefornd.com/news",
-"https://blainefornd.com/vote",
-"https://minotdailynews.com/news/local-news/2026/01/minot-candidates-announce-joint-run-for-nd-house-in-district-3",
-"https://mydakotan.com/2026/01/tim-mihalick-and-blaine-deslauriers-announce-joint-campaign-for-north-dakota-house-of-representatives-in-district-3",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=100",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=1000",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=200",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=25",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=50",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=500",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=750",
-"https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=other"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=750"
+},
+{
+"text": "Continue reading",
+"href": "https://www.minotdailynews.com/news/local-news/2026/01/minot-candidates-announce-joint-run-for-nd-house-in-district-3/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://blainefornd.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://blainefornd.com/category/in-the-news/"
+},
+{
+"text": "MDN Staff | Minot Daily News",
+"href": "https://www.minotdailynews.com/news/local-news/2026/01/minot-candidates-announce-joint-run-for-nd-house-in-district-3/"
+},
+{
+"text": "Meet Blaine",
+"href": "https://blainefornd.com/about/"
+},
+{
+"text": "News",
+"href": "https://blainefornd.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/blaine-deslauriers-for-nd/donate?amount=other"
+},
+{
+"text": "Priorities",
+"href": "https://aquamarine-clam-963221.hostingersite.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://blainefornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://blainefornd.com/"
+},
+{
+"text": "[no text]",
+"href": "https://mydakotan.com/2026/01/tim-mihalick-and-blaine-deslauriers-announce-joint-campaign-for-north-dakota-house-of-representatives-in-district-3/"
+}
 ]

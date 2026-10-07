@@ -1,10 +1,42 @@
 [
-"http://twitter.com/babin4congress",
-"https://babinforcongress.com/",
-"https://babinforcongress.com/about",
-"https://babinforcongress.com/endorsements",
-"https://babinforcongress.com/join",
-"https://babinforcongress.com/the-latest/babin-files",
-"https://facebook.com/BabinForCongress",
-"https://secure.winred.com/dr-brian-babin-for-congress/donate"
+{
+"text": "AbouT Brian",
+"href": "https://www.babinforcongress.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dr-brian-babin-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.babinforcongress.com/endorsements"
+},
+{
+"text": "JOIN TEAM BABIN",
+"href": "https://www.babinforcongress.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.babinforcongress.com/the-latest/babin-files"
+},
+{
+"text": "Priorities",
+"href": "https://www.babinforcongress.com/"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.babinforcongress.com/join"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/babin4congress"
+},
+{
+"text": "[image]",
+"href": "https://www.babinforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BabinForCongress"
+}
 ]

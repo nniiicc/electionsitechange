@@ -1,28 +1,110 @@
 [
-"http://hitestsand.com/",
-"http://newportareasmelter.com/",
-"http://pocedc.org/",
-"http://repheatherscott.com/feed",
-"https://facebook.com/RepHeatherScott",
-"https://facebook.com/groups/NewportSilicaSmelterPlant",
-"https://growingfreedomidaho.com/all-bills",
-"https://idahocps.org/",
-"https://kalispeltribe.com/kalispel-natural-resources-department/air-quality/hi-test-sands-silica-smelter-proposal",
-"https://repheatherscott.com/",
-"https://repheatherscott.com/abortion",
-"https://repheatherscott.com/archive",
-"https://repheatherscott.com/category/updates",
-"https://repheatherscott.com/contact",
-"https://repheatherscott.com/covid",
-"https://repheatherscott.com/gender",
-"https://repheatherscott.com/government-101",
-"https://repheatherscott.com/maps",
-"https://repheatherscott.com/photos",
-"https://repheatherscott.com/rules-regulations",
-"https://repheatherscott.com/smelter",
-"https://repheatherscott.com/wp-content/uploads/2018/10/Otter_Smelter_Letter_9-26-18.pdf",
-"https://repheatherscott.com/wp-content/uploads/2018/10/PacWestSilcon_EcologyLetter-20180605.pdf",
-"https://repheatherscott.com/wp-content/uploads/2018/10/Scoping_elected_letter.pdf",
-"https://repheatherscott.com/wp-content/uploads/2018/10/WA_DOE_Smelter_Scoping_Rep_Heather_Scott.pdf",
-"https://twitter.com/HeatherScottID"
+{
+"text": "Abortion",
+"href": "https://repheatherscott.com/abortion/"
+},
+{
+"text": "Archived Updates",
+"href": "https://repheatherscott.com/archive/"
+},
+{
+"text": "BILLS ⇨",
+"href": "https://growingfreedomidaho.com/all-bills/"
+},
+{
+"text": "COVID",
+"href": "https://repheatherscott.com/covid/"
+},
+{
+"text": "CPS ⇨",
+"href": "https://idahocps.org/"
+},
+{
+"text": "Citizens Against Newport Silica Smelter Group",
+"href": "http://www.newportareasmelter.com"
+},
+{
+"text": "Contact",
+"href": "https://repheatherscott.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/groups/NewportSilicaSmelterPlant"
+},
+{
+"text": "Facebook[image]",
+"href": "https://www.facebook.com/RepHeatherScott/"
+},
+{
+"text": "Gender / Birth Certificates",
+"href": "https://repheatherscott.com/gender/"
+},
+{
+"text": "Gov 101",
+"href": "https://repheatherscott.com/government-101/"
+},
+{
+"text": "High Test Sands",
+"href": "http://hitestsand.com/"
+},
+{
+"text": "Home",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Letter to Elected Officials",
+"href": "https://repheatherscott.com/wp-content/uploads/2018/10/Scoping_elected_letter.pdf"
+},
+{
+"text": "Letter to Governor",
+"href": "https://repheatherscott.com/wp-content/uploads/2018/10/Otter_Smelter_Letter_9-26-18.pdf"
+},
+{
+"text": "Maps",
+"href": "https://repheatherscott.com/maps/"
+},
+{
+"text": "News & Updates",
+"href": "https://repheatherscott.com/category/updates/"
+},
+{
+"text": "PacWest Letter to WDOE",
+"href": "https://repheatherscott.com/wp-content/uploads/2018/10/PacWestSilcon_EcologyLetter-20180605.pdf"
+},
+{
+"text": "Pend Oreille Economic Development Council",
+"href": "http://pocedc.org/"
+},
+{
+"text": "Photos",
+"href": "https://repheatherscott.com/photos/"
+},
+{
+"text": "RSS[image]",
+"href": "http://repheatherscott.com/feed"
+},
+{
+"text": "Rep. Heather Scott",
+"href": "https://repheatherscott.com/"
+},
+{
+"text": "Rules & Regulations",
+"href": "https://repheatherscott.com/rules-regulations/"
+},
+{
+"text": "Scoping Questions",
+"href": "https://repheatherscott.com/wp-content/uploads/2018/10/WA_DOE_Smelter_Scoping_Rep_Heather_Scott.pdf"
+},
+{
+"text": "Silicon Smelter",
+"href": "https://repheatherscott.com/smelter/"
+},
+{
+"text": "The Kalispel Tribe",
+"href": "https://www.kalispeltribe.com/kalispel-natural-resources-department/air-quality/hi-test-sands-silica-smelter-proposal"
+},
+{
+"text": "Twitter[image]",
+"href": "https://twitter.com/HeatherScottID"
+}
 ]

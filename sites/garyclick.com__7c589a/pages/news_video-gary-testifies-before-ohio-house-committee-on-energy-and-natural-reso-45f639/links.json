@@ -1,15 +1,54 @@
 [
-"http://ohiochannel.org/video/ohio-house-energy-and-natural-resources-committee-11-19-2019-part-2?start=394",
-"http://ohiohouse.gov/committee/energy-and-natural-resources",
-"http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_h_energy_1/testimony/cmte_h_energy_1_2019-11-19-1100_1068/testimony_garyclick_noorg_11.19.2019.pdf",
-"https://campaignpartner.com/",
-"https://garyclick.com/",
-"https://garyclick.com/about_gary",
-"https://garyclick.com/contact",
-"https://garyclick.com/events",
-"https://garyclick.com/home",
-"https://garyclick.com/issues",
-"https://garyclick.com/news",
-"https://garyclick.com/photos",
-"https://garyclick.com/privacy-policy"
+{
+"text": "About Gary",
+"href": "https://www.garyclick.com/about_gary"
+},
+{
+"text": "Contact",
+"href": "https://www.garyclick.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.garyclick.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.garyclick.com/home"
+},
+{
+"text": "News",
+"href": "https://www.garyclick.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.garyclick.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.garyclick.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "[image]",
+"href": "http://www.ohiochannel.org/video/ohio-house-energy-and-natural-resources-committee-11-19-2019-part-2?start=394"
+},
+{
+"text": "[image]",
+"href": "https://www.garyclick.com/"
+},
+{
+"text": "here",
+"href": "http://search-prod.lis.state.oh.us/cm_pub_api/api/unwrap/chamber/133rd_ga/ready_for_publication/committee_docs/cmte_h_energy_1/testimony/cmte_h_energy_1_2019-11-19-1100_1068/testimony_garyclick_noorg_11.19.2019.pdf"
+},
+{
+"text": "here",
+"href": "http://www.ohiohouse.gov/committee/energy-and-natural-resources"
+},
+{
+"text": "privacy policy",
+"href": "https://www.garyclick.com/privacy-policy"
+}
 ]

@@ -1,13 +1,54 @@
 [
-"https://juliaforoffice.com/",
-"https://juliaforoffice.com/blog",
-"https://juliaforoffice.com/endorsements",
-"https://juliaforoffice.com/home",
-"https://juliaforoffice.com/policiesandstatements",
-"https://juliaforoffice.com/post/fire-information-resources",
-"https://secure.actblue.com/donate/juliaforoffice",
-"https://static.wixstatic.com/media/9c3ec0_090613ca886c4db4b5747908e03a4f6a~mv2.jpg",
-"https://static.wixstatic.com/media/9c3ec0_68db20aff5f44323bd067b63ef491a4c~mv2.jpg",
-"https://static.wixstatic.com/media/9c3ec0_9074453808ea48648591f555c2a241f2~mv2.png",
-"https://static.wixstatic.com/media/9c3ec0_e1ea9a5808524bdfb6966abd05101878~mv2.jpg"
+{
+"text": "Blog",
+"href": "https://www.juliaforoffice.com/blog"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.actblue.com/donate/juliaforoffice"
+},
+{
+"text": "Endorsements",
+"href": "https://www.juliaforoffice.com/endorsements"
+},
+{
+"text": "Fires Resources",
+"href": "https://www.juliaforoffice.com/post/fire-information-resources"
+},
+{
+"text": "Home",
+"href": "https://www.juliaforoffice.com"
+},
+{
+"text": "Policies & Statements",
+"href": "https://www.juliaforoffice.com/policiesandstatements"
+},
+{
+"text": "See Spokane Complex Fires Resources",
+"href": "https://www.juliaforoffice.com/post/fire-information-resources"
+},
+{
+"text": "[image: JuliaForOffice-logo]",
+"href": "https://www.juliaforoffice.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.juliaforoffice.com"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/9c3ec0_090613ca886c4db4b5747908e03a4f6a~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/9c3ec0_68db20aff5f44323bd067b63ef491a4c~mv2.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/9c3ec0_9074453808ea48648591f555c2a241f2~mv2.png"
+},
+{
+"text": "[no text]",
+"href": "https://static.wixstatic.com/media/9c3ec0_e1ea9a5808524bdfb6966abd05101878~mv2.jpg"
+}
 ]

@@ -1,8 +1,30 @@
 [
-"https://google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2FDocuments%2FSmallMaps%2F2022%2FHouse%2FGrand%2520Isle-Chittenden.pdf&sa=D&sntz=1&usg=AOvVaw2qni--AzNyU4fvnWU1SEDO",
-"https://michaelmorganforvthouse.org/about",
-"https://michaelmorganforvthouse.org/contact",
-"https://michaelmorganforvthouse.org/home",
-"https://michaelmorganforvthouse.org/issues",
-"https://michaelmorganforvthouse.org/letter"
+{
+"text": "About",
+"href": "https://www.michaelmorganforvthouse.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.michaelmorganforvthouse.org/contact"
+},
+{
+"text": "Home",
+"href": "https://www.michaelmorganforvthouse.org/home"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelmorganforvthouse.org/issues"
+},
+{
+"text": "Letter",
+"href": "https://www.michaelmorganforvthouse.org/letter"
+},
+{
+"text": "MichaelMorganForVTHouse.org",
+"href": "https://www.michaelmorganforvthouse.org/home"
+},
+{
+"text": "[image]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Flegislature.vermont.gov%2FDocuments%2FSmallMaps%2F2022%2FHouse%2FGrand%2520Isle-Chittenden.pdf&sa=D&sntz=1&usg=AOvVaw2qni--AzNyU4fvnWU1SEDO"
+}
 ]

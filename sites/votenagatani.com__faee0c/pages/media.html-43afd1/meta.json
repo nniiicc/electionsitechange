@@ -1,7 +1,13 @@
 {
  "description": "Videos and photography from the Vote Nagatani campaign across Chinatown, Iwilei, Sand Island, and Downtown Honolulu. Watch, then tell Tony what you think.",
  "final_url": "https://votenagatani.com/media.html",
- "paid_for_by": "Paid for by Vote Nagatani \u00b7 P",
- "title": "Campaign Media | Vote Nagatani \u2014 Hawai\u02bbi State House District 28",
- "years_mentioned": []
+ "fingerprint": "222cde1e471cadb535231100a55f538beed9f911",
+ "format": 3,
+ "paid_for_by": "Paid for by Vote Nagatani · P",
+ "title": "Campaign Media | Vote Nagatani — Hawaiʻi State House District 28",
+ "years_mentioned": [
+  "2020",
+  "2023",
+  "2032"
+ ]
 }

@@ -1,8 +1,34 @@
 [
-"https://bluehost.com/",
-"https://secure.anedot.com/friends-of-ted-cooke/donate",
-"https://tedcooke.org/",
-"https://tedcooke.org/contact-us.html",
-"https://tedcooke.org/meet-ted.html",
-"https://tedcooke.org/priorities.html"
+{
+"text": "Bluehost",
+"href": "https://www.bluehost.com"
+},
+{
+"text": "Contact Us",
+"href": "https://tedcooke.org/contact-us.html"
+},
+{
+"text": "Home",
+"href": "https://tedcooke.org/"
+},
+{
+"text": "Meet Ted",
+"href": "https://tedcooke.org/meet-ted.html"
+},
+{
+"text": "Priorities",
+"href": "https://tedcooke.org/priorities.html"
+},
+{
+"text": "[image: Picture]",
+"href": "https://secure.anedot.com/friends-of-ted-cooke/donate"
+},
+{
+"text": "[image: Picture]",
+"href": "https://tedcooke.org/priorities.html"
+},
+{
+"text": "[image: Ted Cooke]",
+"href": "https://tedcooke.org/"
+}
 ]

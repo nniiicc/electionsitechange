@@ -1,34 +1,154 @@
 [
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=10",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=100",
-"http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53",
-"https://ayannapressley.com/",
-"https://ayannapressley.com/es",
-"https://ayannapressley.com/ht",
-"https://ayannapressley.com/privacy-policy",
-"https://ayannapressley.com/terms-of-services",
-"https://ayannapressley.com/zh",
-"https://ayannapressley.com/zh/lianluo-women",
-"https://ayannapressley.com/zh/xuanmin-xinxi",
-"https://ayannapressley.com/zh/yigong",
-"https://ayannapressley.com/zh/yinsi-zhengce",
-"https://ayannapressley.com/zh/yizheng-shixiang",
-"https://ayannapressley.com/zh/yizheng-shixiang/qihou-weiji",
-"https://ayannapressley.com/zh/yizheng-shixiang/xiangxiang-weilai-de-yunshu",
-"https://ayannapressley.com/zh/yizheng-shixiang/xingshi-falu-zhidu",
-"https://ayannapressley.com/zh/yizheng-shixiang/yingdui-qihou-weiji",
-"https://ayannapressley.com/zh/yizheng-shixiang/yu-lgbtq-shequ-zhan-zai-yiqi",
-"https://ayannapressley.com/zh/yu-yaren-na-huimian",
-"https://facebook.com/ayannapressley2",
-"https://instagram.com/ayannapressley",
-"https://middleseat.co/",
-"https://mobilize.us/ayannapressley",
-"https://secure.actblue.com/donate/ayannapressleysite1",
-"https://shop.ayannapressley.com/collections/accessories/products/sticker-1",
-"https://shop.ayannapressley.com/collections/apparel/products/campaign-tee",
-"https://shop.ayannapressley.com/collections/apparel/products/pride-tank",
-"https://shop.ayannapressley.com/collections/apparel/products/squad-tee",
-"https://store.ayannapressley.com/",
-"https://twitter.com/AyannaPressley",
-"https://twitter.com/ayannapressley"
+{
+"text": "$10",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=10"
+},
+{
+"text": "$100",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=100"
+},
+{
+"text": "$20.53",
+"href": "http://secure.actblue.com/donate/ayannapressleysite1?amount=20.53"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com"
+},
+{
+"text": "Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District [image]",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "EN",
+"href": "https://ayannapressley.com/"
+},
+{
+"text": "ES",
+"href": "https://ayannapressley.com/es"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ayannapressley2/"
+},
+{
+"text": "HT",
+"href": "https://ayannapressley.com/ht"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ayannapressley/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AyannaPressley"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ayannapressley"
+},
+{
+"text": "ZH",
+"href": "https://ayannapressley.com/zh"
+},
+{
+"text": "[image] 小隊 T 恤 $20.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/squad-tee"
+},
+{
+"text": "[image] 我的女議員貼紙（5 片裝） $12.00",
+"href": "https://shop.ayannapressley.com/collections/accessories/products/sticker-1"
+},
+{
+"text": "[image] 競選運動 T 恤 $30.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/campaign-tee"
+},
+{
+"text": "[image] 雅仁娜驕傲的坦克 $35.00",
+"href": "https://shop.ayannapressley.com/collections/apparel/products/pride-tank"
+},
+{
+"text": "privacy policy",
+"href": "https://ayannapressley.com/privacy-policy/"
+},
+{
+"text": "terms",
+"href": "https://ayannapressley.com/terms-of-services/"
+},
+{
+"text": "为公正的经济而战",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/yu-lgbtq-shequ-zhan-zai-yiqi/"
+},
+{
+"text": "住房是一项人权",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/qihou-weiji/"
+},
+{
+"text": "应对暴力和创伤的影响",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/yingdui-qihou-weiji/"
+},
+{
+"text": "应对气候危机",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/xiangxiang-weilai-de-yunshu/"
+},
+{
+"text": "捐献",
+"href": "https://secure.actblue.com/donate/ayannapressleysite1"
+},
+{
+"text": "提交",
+"href": "https://ayannapressley.com/zh/yigong/"
+},
+{
+"text": "改变刑事法律制度",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/xingshi-falu-zhidu/"
+},
+{
+"text": "查看所有議題",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/"
+},
+{
+"text": "活動",
+"href": "https://www.mobilize.us/ayannapressley/"
+},
+{
+"text": "瀏覽商店",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "義工",
+"href": "https://ayannapressley.com/zh/yigong/"
+},
+{
+"text": "聯絡我們",
+"href": "https://ayannapressley.com/zh/lianluo-women/"
+},
+{
+"text": "與雅仁娜會面",
+"href": "https://ayannapressley.com/zh/yu-yaren-na-huimian/"
+},
+{
+"text": "議政事項",
+"href": "https://ayannapressley.com/zh/yizheng-shixiang/"
+},
+{
+"text": "購物站",
+"href": "https://store.ayannapressley.com/"
+},
+{
+"text": "選民信息",
+"href": "https://ayannapressley.com/zh/xuanmin-xinxi/"
+},
+{
+"text": "閱讀雅仁娜的故事",
+"href": "https://ayannapressley.com/zh/yu-yaren-na-huimian/"
+},
+{
+"text": "隱私政策",
+"href": "https://ayannapressley.com/zh/yinsi-zhengce/"
+}
 ]

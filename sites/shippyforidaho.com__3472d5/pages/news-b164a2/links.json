@@ -1,13 +1,50 @@
 [
-"https://facebook.com/people/Brandon-Shippy-for-IDAHO-Senate/100094349190929",
-"https://secure.anedot.com/shippy-for-idaho-senate/donate",
-"https://secure.winred.com/shippy-for-senate/storefront",
-"https://shippyforidaho.com/",
-"https://shippyforidaho.com/about",
-"https://shippyforidaho.com/contact",
-"https://shippyforidaho.com/donate",
-"https://shippyforidaho.com/endorsements",
-"https://shippyforidaho.com/issues",
-"https://shippyforidaho.com/news",
-"https://shippyforidaho.com/privacy-policy"
+{
+"text": "About Brandon",
+"href": "https://www.shippyforidaho.com/about/"
+},
+{
+"text": "About the Issues",
+"href": "https://www.shippyforidaho.com/issues/"
+},
+{
+"text": "Contact",
+"href": "https://www.shippyforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.shippyforidaho.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/shippy-for-idaho-senate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.shippyforidaho.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/people/Brandon-Shippy-for-IDAHO-Senate/100094349190929/"
+},
+{
+"text": "News",
+"href": "https://www.shippyforidaho.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://shippyforidaho.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.shippyforidaho.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/shippy-for-senate/storefront/"
+},
+{
+"text": "[image]",
+"href": "https://www.shippyforidaho.com/"
+}
 ]

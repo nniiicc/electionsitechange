@@ -1,8 +1,26 @@
 [
-"https://palmerforjustice.com/?C=D%3BO%3DD",
-"https://palmerforjustice.com/?C=M%3BO%3DA",
-"https://palmerforjustice.com/?C=N%3BO%3DA",
-"https://palmerforjustice.com/?C=S%3BO%3DA",
-"https://palmerforjustice.com/cgi-bin",
-"https://palmerforjustice.com/error_log"
+{
+"text": "Description",
+"href": "https://palmerforjustice.com/?C=D%3BO%3DD"
+},
+{
+"text": "Last modified",
+"href": "https://palmerforjustice.com/?C=M%3BO%3DA"
+},
+{
+"text": "Name",
+"href": "https://palmerforjustice.com/?C=N%3BO%3DA"
+},
+{
+"text": "Size",
+"href": "https://palmerforjustice.com/?C=S%3BO%3DA"
+},
+{
+"text": "cgi-bin/",
+"href": "https://palmerforjustice.com/cgi-bin/"
+},
+{
+"text": "error_log",
+"href": "https://palmerforjustice.com/error_log"
+}
 ]

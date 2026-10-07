@@ -1,7 +1,9 @@
 {
  "description": "David Dewar on the issues",
  "final_url": "https://www.repdaviddewar.com/issues",
- "paid_for_by": null,
+ "fingerprint": "521a03c51468fce4f86a91f43c2f66b0f65fe821",
+ "format": 3,
+ "paid_for_by": "",
  "title": "On the Issues",
  "years_mentioned": [
   "2013",

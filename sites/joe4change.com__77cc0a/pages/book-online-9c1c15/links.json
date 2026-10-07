@@ -1,14 +1,58 @@
 [
-"https://facebook.com/JoeEspinolaForSenate",
-"https://instagram.com/joeespinolaforsenate",
-"https://joe4change.com/",
-"https://joe4change.com/book-online",
-"https://joe4change.com/donation",
-"https://joe4change.com/endorsements",
-"https://joe4change.com/focus",
-"https://joe4change.com/get-involved",
-"https://joe4change.com/meet-joe",
-"https://joe4change.com/request",
-"https://joe4change.com/resources",
-"https://wix.com/"
+{
+"text": "Book Online",
+"href": "https://www.joe4change.com/book-online"
+},
+{
+"text": "DONATE",
+"href": "https://www.joe4change.com/donation"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.joe4change.com/endorsements"
+},
+{
+"text": "FOCUS",
+"href": "https://www.joe4change.com/focus"
+},
+{
+"text": "FOLLOW",
+"href": "https://www.facebook.com/JoeEspinolaForSenate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.joe4change.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.joe4change.com"
+},
+{
+"text": "MEET JOE",
+"href": "https://www.joe4change.com/meet-joe"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://www.facebook.com/JoeEspinolaForSenate"
+},
+{
+"text": "REQUEST SIGN",
+"href": "https://www.joe4change.com/request"
+},
+{
+"text": "RESOURCES",
+"href": "https://www.joe4change.com/resources"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/JoeEspinolaForSenate"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/joeespinolaforsenate/"
+}
 ]

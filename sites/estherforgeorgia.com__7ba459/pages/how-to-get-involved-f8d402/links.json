@@ -1,16 +1,62 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSd0sgRhajBWCOjEbS3ges71aQV9pwxtly1GD0mPUiINcu-zHg/viewform?usp=header",
-"https://estherforgeorgia.com/",
-"https://estherforgeorgia.com/how-to-get-involved",
-"https://estherforgeorgia.com/meet-esther",
-"https://estherforgeorgia.com/newsletters",
-"https://estherforgeorgia.com/what-esther-has-delivered",
-"https://facebook.com/estherforhd51",
-"https://forms.gle/eS1F7vgeWo5GmHgCA",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/estherforgeorgia",
-"https://linkedin.com/in/esther-panitch-8115406",
-"https://mobilize.us/friendsofestherpanitchinc",
-"https://secure.actblue.com/donate/esther2026",
-"https://tiktok.com/@estherforgeorgia"
+{
+"text": "Click here to donate.",
+"href": "https://secure.actblue.com/donate/esther2026"
+},
+{
+"text": "Click here to see the events we are hosting!",
+"href": "https://www.mobilize.us/friendsofestherpanitchinc/"
+},
+{
+"text": "Click here to share your interest!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd0sgRhajBWCOjEbS3ges71aQV9pwxtly1GD0mPUiINcu-zHg/viewform?usp=header"
+},
+{
+"text": "Click here!",
+"href": "https://secure.actblue.com/donate/esther2026"
+},
+{
+"text": "Home",
+"href": "https://estherforgeorgia.com/"
+},
+{
+"text": "How to Get Involved",
+"href": "https://estherforgeorgia.com/how-to-get-involved"
+},
+{
+"text": "Meet Esther",
+"href": "https://estherforgeorgia.com/meet-esther"
+},
+{
+"text": "Newsletters",
+"href": "https://estherforgeorgia.com/newsletters"
+},
+{
+"text": "Sign up to get updates from the Capitol during Legislative session!",
+"href": "https://forms.gle/eS1F7vgeWo5GmHgCA"
+},
+{
+"text": "What Esther Has Delivered",
+"href": "https://estherforgeorgia.com/what-esther-has-delivered"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/estherforhd51/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/estherforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/esther-panitch-8115406/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@estherforgeorgia"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/",
-"https://facebook.com/profile.php?id=61575480166743",
-"https://instagram.com/",
-"https://jamiejefferycolorado.com/",
-"https://jamiejefferycolorado.com/contact-us",
-"https://jamiejefferycolorado.com/endorsements",
-"https://jamiejefferycolorado.com/jamie-for-sd-1",
-"https://jamiejefferycolorado.com/support-jamie",
-"https://x.com/",
-"https://youtube.com/"
+{
+"text": "About Jamie",
+"href": "https://www.jamiejefferycolorado.com/"
+},
+{
+"text": "Contact us",
+"href": "https://www.jamiejefferycolorado.com/contact-us/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jamiejefferycolorado.com/endorsements/"
+},
+{
+"text": "Facebook Link",
+"href": "https://www.facebook.com/profile.php?id=61575480166743"
+},
+{
+"text": "Jamie for SD1",
+"href": "https://www.jamiejefferycolorado.com/jamie-for-sd-1/"
+},
+{
+"text": "Support Jamie",
+"href": "https://www.jamiejefferycolorado.com/support-jamie/"
+},
+{
+"text": "[image]",
+"href": "https://www.jamiejefferycolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/"
+}
 ]

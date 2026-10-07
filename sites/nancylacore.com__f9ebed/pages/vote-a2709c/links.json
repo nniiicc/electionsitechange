@@ -1,34 +1,158 @@
 [
-"https://bsky.app/profile/nancylacore.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform",
-"https://facebook.com/nancylacore",
-"https://instagram.com/nancylacore",
-"https://mobilize.us/nancylacoreforcongress",
-"https://nancylacore.com/",
-"https://nancylacore.com/about-nancy",
-"https://nancylacore.com/cart",
-"https://nancylacore.com/contact",
-"https://nancylacore.com/endorsements",
-"https://nancylacore.com/get-involved",
-"https://nancylacore.com/media",
-"https://nancylacore.com/priorities",
-"https://nancylacore.com/privacy",
-"https://nancylacore.com/terms-and-conditions",
-"https://nancylacore.com/vote",
-"https://scvotes.gov/contact/county-voter-registration-election-offices",
-"https://scvotes.gov/voters/absentee-voting",
-"https://scvotes.gov/voters/early-voting",
-"https://scvotes.gov/voters/military-overseas-citizens",
-"https://scvotes.gov/voters/photo-id-requirements",
-"https://scvotes.gov/voters/register-to-vote",
-"https://scvotes.gov/voters/voters-with-disabilities",
-"https://secure.actblue.com/donate/nl-web",
-"https://secure.actblue.com/donate/nl-web?amount=10",
-"https://secure.actblue.com/donate/nl-web?amount=100",
-"https://secure.actblue.com/donate/nl-web?amount=25",
-"https://secure.actblue.com/donate/nl-web?amount=250",
-"https://secure.actblue.com/donate/nl-web?amount=50",
-"https://tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI",
-"https://vrems.scvotes.sc.gov/Voter/Login",
-"https://x.com/nancylacore?s=21"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/nl-web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/nl-web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/nl-web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/nl-web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/nl-web?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.nancylacore.com/cart"
+},
+{
+"text": "About Nancy",
+"href": "https://www.nancylacore.com/about-nancy"
+},
+{
+"text": "Back",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Check your voter registration, find your Election Day polling place, and view your sample ballot",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login"
+},
+{
+"text": "Contact",
+"href": "https://www.nancylacore.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nancylacore.com/endorsements"
+},
+{
+"text": "Find your nearest early voting location HERE,",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.nancylacore.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "Host an Event",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBEBrUJjkTmPwuRM0Lg6zD3lyoI2lcKSQGL7Ci9xgdB0S6jA/viewform"
+},
+{
+"text": "Information for voters with disabilities",
+"href": "https://scvotes.gov/voters/voters-with-disabilities/"
+},
+{
+"text": "Media",
+"href": "https://www.nancylacore.com/media"
+},
+{
+"text": "Military and overseas voting",
+"href": "https://scvotes.gov/voters/military-overseas-citizens/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/nl-web"
+},
+{
+"text": "Priorities",
+"href": "https://www.nancylacore.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nancylacore.com/privacy"
+},
+{
+"text": "See the full ID rules, including what to do if you don’t have one",
+"href": "https://scvotes.gov/voters/photo-id-requirements/"
+},
+{
+"text": "South Carolina Election Commission’s registration guide",
+"href": "https://scvotes.gov/voters/register-to-vote/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.nancylacore.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/nancylacoreforcongress/%20"
+},
+{
+"text": "Voting Resources",
+"href": "https://www.nancylacore.com/vote"
+},
+{
+"text": "[image: Nancy Lacore for Congress ]",
+"href": "https://www.nancylacore.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nancylacore.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/nancylacore"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nancylacore/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nancy.lacore?_r=1&_t=ZT-93DPSIVeLaI"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/nancylacore?s=21"
+},
+{
+"text": "assigned polling place",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login"
+},
+{
+"text": "county election office",
+"href": "https://scvotes.gov/contact/county-voter-registration-election-offices/"
+},
+{
+"text": "county voter registration and elections office",
+"href": "https://scvotes.gov/contact/county-voter-registration-election-offices/"
+},
+{
+"text": "early voting center",
+"href": "https://scvotes.gov/voters/early-voting/"
+},
+{
+"text": "the state’s eligibility requirements",
+"href": "https://scvotes.gov/voters/absentee-voting/"
+},
+{
+"text": "track your absentee ballot online",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login"
+}
 ]

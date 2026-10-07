@@ -1,34 +1,138 @@
 [
-"https://facebook.com/WayneJohnson4MN",
-"https://flickr.com/photos/200942655@N08",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0168&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0238&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0701&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1004&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1066&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1196&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1284&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1293&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1355&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1439&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1582&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1965&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1982&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2238&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2258&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2259&ssn=0&y=2025",
-"https://waynejohnsonformn.com/",
-"https://waynejohnsonformn.com/articles",
-"https://waynejohnsonformn.com/bills",
-"https://waynejohnsonformn.com/contact",
-"https://waynejohnsonformn.com/donate",
-"https://waynejohnsonformn.com/endorsements",
-"https://waynejohnsonformn.com/media",
-"https://waynejohnsonformn.com/photos",
-"https://waynejohnsonformn.com/priorities-survey",
-"https://waynejohnsonformn.com/privacy-policy",
-"https://waynejohnsonformn.com/terms-and-conditions",
-"https://waynejohnsonformn.com/voting",
-"https://x.com/mnrepwjohnson",
-"https://youtube.com/@waynejohnsonformn"
+{
+"text": "Articles",
+"href": "https://waynejohnsonformn.com/articles/"
+},
+{
+"text": "Authored: House File 0238",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0238&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 0701",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0701&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 1196",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1196&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 1293",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1293&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 1965",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1965&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 2258",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2258&ssn=0&y=2025"
+},
+{
+"text": "Authored: House File 2259",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2259&ssn=0&y=2025"
+},
+{
+"text": "Bills",
+"href": "https://waynejohnsonformn.com/bills/"
+},
+{
+"text": "Co-Authored: House File 0168",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0168&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1004",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1004&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1066",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1066&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1284",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1284&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1355",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1355&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1439",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1439&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1582",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1582&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 1982",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1982&ssn=0&y=2025"
+},
+{
+"text": "Co-Authored: House File 2238",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2238&ssn=0&y=2025"
+},
+{
+"text": "Contact",
+"href": "https://waynejohnsonformn.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://waynejohnsonformn.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://waynejohnsonformn.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://waynejohnsonformn.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/WayneJohnson4MN"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/200942655@N08/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@waynejohnsonformn"
+},
+{
+"text": "Follow",
+"href": "https://x.com/mnrepwjohnson"
+},
+{
+"text": "Home",
+"href": "https://waynejohnsonformn.com/"
+},
+{
+"text": "Media",
+"href": "https://waynejohnsonformn.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://waynejohnsonformn.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://waynejohnsonformn.com/priorities-survey/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://waynejohnsonformn.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://waynejohnsonformn.com/terms-and-conditions/"
+},
+{
+"text": "Voting",
+"href": "https://waynejohnsonformn.com/voting/"
+},
+{
+"text": "[image: Wayne Johnson]",
+"href": "https://waynejohnsonformn.com/"
+}
 ]

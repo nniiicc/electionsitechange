@@ -1,9 +1,9 @@
 {
  "description": "Explore Emmonak with Neal Foster For State House. View our photo gallery and learn more about the community.",
  "final_url": "https://fosterforhouse.com/emmonak",
- "paid_for_by": null,
+ "fingerprint": "16589407b0480769c04310ffd0a5f3eaf6646510",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Emmonak",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

@@ -1,7 +1,9 @@
 {
  "description": "Stay up to date on the latest news about Andy Biggs.",
  "final_url": "https://biggsforarizona.com/news/",
- "paid_for_by": null,
+ "fingerprint": "3a9bcd75aadeb0d8f56f389b6da58030c8f166ef",
+ "format": 3,
+ "paid_for_by": "authorized by Biggs for Arizona By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number",
  "title": "News - Andy Biggs for Governor",
  "years_mentioned": [
   "2026"

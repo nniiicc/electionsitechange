@@ -1,30 +1,130 @@
 [
-"https://app.sos.nh.gov/clerkinformation",
-"https://app.sos.nh.gov/voterinformation",
-"https://bsky.app/profile/heatherfornh.bsky.social",
-"https://drcnh.org/disability-issue-areas/voting",
-"https://facebook.com/profile.php?id=61590698488512",
-"https://heather-for-nh.solidarity.tech/events-page",
-"https://heatherfornh.com/",
-"https://heatherfornh.com/about",
-"https://heatherfornh.com/contact",
-"https://heatherfornh.com/issues",
-"https://heatherfornh.com/volunteer",
-"https://heatherfornh.com/vote",
-"https://instagram.com/heatherfornh",
-"https://manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/How-to-Register",
-"https://manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/Sample-Ballots",
-"https://manchesternh.gov/departments/city-clerk/voter-registration-and-elections",
-"https://manchesternh.gov/departments/city-clerk/voter-registration-and-elections/polling-locations",
-"https://manchesternh.gov/departments/city-clerk/voter-registration-and-elections/where-do-i-vote",
-"https://mtabus.org/shared-ride-transportation-service",
-"https://mtabus.org/south-beech-street-mall-of-new-hampshire-route",
-"https://secure.actblue.com/donate/heatherfornh",
-"https://somedoing.com/",
-"https://sos.nh.gov/election-day-voting",
-"https://sos.nh.gov/elections/absentee-ballots",
-"https://sos.nh.gov/elections/register-vote",
-"https://sos.nh.gov/elections/register-vote/registration-deadlines",
-"https://sos.nh.gov/elections/sample-ballots",
-"https://tiktok.com/@heatherfornh"
+{
+"text": "About",
+"href": "https://heatherfornh.com/about/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/heatherfornh.bsky.social"
+},
+{
+"text": "Check Your Voter Registration",
+"href": "https://app.sos.nh.gov/voterinformation"
+},
+{
+"text": "Check the current Route 12 schedule",
+"href": "https://mtabus.org/south-beech-street-mall-of-new-hampshire-route/"
+},
+{
+"text": "Clerk Information Search",
+"href": "https://app.sos.nh.gov/clerkinformation"
+},
+{
+"text": "Contact",
+"href": "https://heatherfornh.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heatherfornh"
+},
+{
+"text": "Election Day Voting",
+"href": "https://www.sos.nh.gov/election-day-voting"
+},
+{
+"text": "Events",
+"href": "https://heather-for-nh.solidarity.tech/events-page"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590698488512"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/heatherfornh/"
+},
+{
+"text": "Issues",
+"href": "https://heatherfornh.com/issues/"
+},
+{
+"text": "MTA StepSaver",
+"href": "https://mtabus.org/shared-ride-transportation-service/"
+},
+{
+"text": "Manchester Polling Locations",
+"href": "https://www.manchesternh.gov/departments/city-clerk/voter-registration-and-elections/polling-locations"
+},
+{
+"text": "Manchester Sample Ballots",
+"href": "https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/Sample-Ballots"
+},
+{
+"text": "Manchester Voter Registration and Elections",
+"href": "https://www.manchesternh.gov/departments/city-clerk/voter-registration-and-elections"
+},
+{
+"text": "Manchester: How to Register",
+"href": "https://www.manchesternh.gov/Departments/City-Clerk/Voter-Registration-and-Elections/How-to-Register"
+},
+{
+"text": "Manchester: Where Do I Vote?",
+"href": "https://www.manchesternh.gov/departments/city-clerk/voter-registration-and-elections/where-do-i-vote"
+},
+{
+"text": "Register to Vote in New Hampshire",
+"href": "https://www.sos.nh.gov/elections/register-vote"
+},
+{
+"text": "Registration Deadlines",
+"href": "https://www.sos.nh.gov/elections/register-vote/registration-deadlines"
+},
+{
+"text": "Site by Some Doing.",
+"href": "https://somedoing.com/"
+},
+{
+"text": "State Sample Ballots",
+"href": "https://www.sos.nh.gov/elections/sample-ballots"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@heatherfornh"
+},
+{
+"text": "Volunteer",
+"href": "https://heatherfornh.com/volunteer/"
+},
+{
+"text": "Volunteer to Help Voters",
+"href": "https://heatherfornh.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://heatherfornh.com/vote/"
+},
+{
+"text": "[image: Heather Deiner for NH State Representative | Manchester Ward 5]",
+"href": "https://heatherfornh.com/"
+},
+{
+"text": "[image]",
+"href": "https://heatherfornh.com/"
+},
+{
+"text": "absentee ballot",
+"href": "https://www.sos.nh.gov/elections/absentee-ballots"
+},
+{
+"text": "assistance",
+"href": "https://www.manchesternh.gov/departments/city-clerk/voter-registration-and-elections"
+},
+{
+"text": "have the right",
+"href": "https://drcnh.org/disability-issue-areas/voting/"
+},
+{
+"text": "the application",
+"href": "https://www.manchesternh.gov/departments/city-clerk/voter-registration-and-elections"
+}
 ]

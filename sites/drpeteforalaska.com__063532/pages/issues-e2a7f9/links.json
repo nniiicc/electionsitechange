@@ -1,20 +1,106 @@
 [
-"https://akenergyauthority.org/CIPLink",
-"https://bsky.app/profile/drpeteforalaska.bsky.social/.",
-"https://designedtorun.com/",
-"https://drpeteforalaska.com/",
-"https://drpeteforalaska.com/about",
-"https://drpeteforalaska.com/contact",
-"https://drpeteforalaska.com/donate",
-"https://drpeteforalaska.com/endorsements",
-"https://drpeteforalaska.com/issues/PublicEducation",
-"https://drpeteforalaska.com/issues/a-diversified-energy-system",
-"https://drpeteforalaska.com/issues/about-data-centers",
-"https://drpeteforalaska.com/issues/issue-1",
-"https://drpeteforalaska.com/issues/issue-2",
-"https://drpeteforalaska.com/issues/the-permanent-fund",
-"https://eia.gov/outlooks/aeo/electricity_generation/pdf/AEO2025_LCOE_report.pdf",
-"https://facebook.com/drpeteforalaska",
-"https://instagram.com/drpeteforalaska",
-"https://linkedin.com/in/drpeteforalaska"
+{
+"text": "A Diversified Energy System",
+"href": "https://www.drpeteforalaska.com/issues/a-diversified-energy-system"
+},
+{
+"text": "About",
+"href": "https://www.drpeteforalaska.com/about"
+},
+{
+"text": "Affordability and Economic Opportunity",
+"href": "https://www.drpeteforalaska.com/issues/issue-1"
+},
+{
+"text": "Contact",
+"href": "https://www.drpeteforalaska.com/contact"
+},
+{
+"text": "Cook Inlet PowerLink Project",
+"href": "https://www.akenergyauthority.org/CIPLink"
+},
+{
+"text": "Donate",
+"href": "https://www.drpeteforalaska.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.drpeteforalaska.com/endorsements"
+},
+{
+"text": "Health Care for Every Alaskan",
+"href": "https://www.drpeteforalaska.com/issues/issue-2"
+},
+{
+"text": "Home",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "Moratorium on AI Data Centers",
+"href": "https://www.drpeteforalaska.com/issues/about-data-centers"
+},
+{
+"text": "Public Education",
+"href": "https://www.drpeteforalaska.com/issues/PublicEducation"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "The Permanent Fund and PFD",
+"href": "https://www.drpeteforalaska.com/issues/the-permanent-fund"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/PublicEducation"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/a-diversified-energy-system"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/about-data-centers"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.drpeteforalaska.com/issues/the-permanent-fund"
+},
+{
+"text": "[image: Dr Pete for Alaska logo]",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.drpeteforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/drpeteforalaska.bsky.social/."
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/drpeteforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/drpeteforalaska/"
+},
+{
+"text": "[no text]",
+"href": "https://linkedin.com/in/drpeteforalaska"
+},
+{
+"text": "cost parity",
+"href": "https://www.eia.gov/outlooks/aeo/electricity_generation/pdf/AEO2025_LCOE_report.pdf"
+}
 ]

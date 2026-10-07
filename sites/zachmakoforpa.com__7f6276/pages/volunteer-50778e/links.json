@@ -1,10 +1,50 @@
 [
-"http://twitter.com/mako4pa",
-"https://facebook.com/mako4pa",
-"https://secure.piryx.com/donate/hn7pJ7ra/Mako-for-PA",
-"https://zachmakoforpa.com/",
-"https://zachmakoforpa.com/issues-2",
-"https://zachmakoforpa.com/privacy-policy",
-"https://zachmakoforpa.com/terms-conditions",
-"https://zachmakoforpa.com/volunteer"
+{
+"text": "About",
+"href": "https://zachmakoforpa.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.piryx.com/donate/hn7pJ7ra/Mako-for-PA/"
+},
+{
+"text": "Home",
+"href": "https://zachmakoforpa.com"
+},
+{
+"text": "Home",
+"href": "https://zachmakoforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://zachmakoforpa.com/issues-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://zachmakoforpa.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://zachmakoforpa.com/terms-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://zachmakoforpa.com/volunteer/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://zachmakoforpa.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://zachmakoforpa.com/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/mako4pa/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "http://www.twitter.com/mako4pa"
+}
 ]

@@ -1,6 +1,22 @@
 [
-"http://cryoutcreations.eu/wordpress-themes/septera",
-"http://wordpress.org/",
-"https://carlyle4justice.com/",
-"https://donorbox.org/justice-cory-carlyle"
+{
+"text": "DONATE",
+"href": "https://donorbox.org/justice-cory-carlyle"
+},
+{
+"text": "Home",
+"href": "https://carlyle4justice.com/"
+},
+{
+"text": "Justice Cory Carlyle for Texas Supreme Court",
+"href": "https://carlyle4justice.com/"
+},
+{
+"text": "Septera",
+"href": "http://www.cryoutcreations.eu/wordpress-themes/septera"
+},
+{
+"text": "WordPress.",
+"href": "http://wordpress.org/"
+}
 ]

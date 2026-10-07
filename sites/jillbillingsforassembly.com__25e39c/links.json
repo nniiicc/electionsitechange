@@ -1,14 +1,82 @@
 [
-"https://facebook.com/JillBillings4Assembly",
-"https://instagram.com/billings4assembly",
-"https://jillbillingsforassembly.com/",
-"https://jillbillingsforassembly.com/about",
-"https://jillbillingsforassembly.com/get-involved",
-"https://jillbillingsforassembly.com/issues",
-"https://jillbillingsforassembly.com/privacy-policy",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=61",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=95",
-"https://myvote.wi.gov/en-us",
-"https://secure.actblue.com/donate/brian-bock-1",
-"https://secure.actblue.com/donate/jill-billings-1"
+{
+"text": "About",
+"href": "https://www.jillbillingsforassembly.com/about"
+},
+{
+"text": "Click this link",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=95"
+},
+{
+"text": "Click this link",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jillbillingsforassembly.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.jillbillingsforassembly.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.jillbillingsforassembly.com/get-involved"
+},
+{
+"text": "Learn More",
+"href": "https://www.jillbillingsforassembly.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/brian-bock-1"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/jill-billings-1"
+},
+{
+"text": "Map Assembly District 95",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jillbillingsforassembly.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.jillbillingsforassembly.com/about"
+},
+{
+"text": "Wisconsin Voter Information",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "[image: Billings-Final-Logo-web-2.jpg]",
+"href": "https://www.jillbillingsforassembly.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JillBillings4Assembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/billings4assembly/"
+},
+{
+"text": "[image: Jill28.jpg]",
+"href": "https://secure.actblue.com/donate/brian-bock-1"
+},
+{
+"text": "[image: Vote Buttons Display]",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "[image: WI Assembly District 95 map]",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=61"
+},
+{
+"text": "clicking this link.",
+"href": "https://secure.actblue.com/donate/jill-billings-1"
+}
 ]

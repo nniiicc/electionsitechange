@@ -1,11 +1,42 @@
 [
-"https://co2coalition.org/",
-"https://co2coalition.org/about-us",
-"https://facebook.com/profile.php?id=61587209832080",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jasminroy4ri.org/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/friends-of-jasmin-roy/donate-today",
-"https://secure.winred.com/friends-of-jasmin-roy/donate-today?exitintent=true"
+{
+"text": "Donate Here",
+"href": "https://secure.winred.com/friends-of-jasmin-roy/donate-today?exitintent=true"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/friends-of-jasmin-roy/donate-today?exitintent=true"
+},
+{
+"text": "Jasmin Roy for RI House District 39Jasmin Roy for RI House District 39Jasmin Roy for RI House District 39Jasmin Roy for RI House District 39",
+"href": "https://jasminroy4ri.org/"
+},
+{
+"text": "Learn More",
+"href": "https://www.facebook.com/profile.php?id=61587209832080"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://co2coalition.org/"
+},
+{
+"text": "[image]",
+"href": "https://co2coalition.org/about-us/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-of-jasmin-roy/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

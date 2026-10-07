@@ -1,53 +1,262 @@
 [
-"https://achillesforidaho.com/",
-"https://achillesforidaho.com/assert-your-independence",
-"https://achillesforidaho.com/boletn",
-"https://achillesforidaho.com/cart",
-"https://achillesforidaho.com/endorsements",
-"https://achillesforidaho.com/espanol",
-"https://achillesforidaho.com/events",
-"https://achillesforidaho.com/inicio",
-"https://achillesforidaho.com/interviews",
-"https://achillesforidaho.com/media-1",
-"https://achillesforidaho.com/merch",
-"https://achillesforidaho.com/merch-1",
-"https://achillesforidaho.com/news-articles",
-"https://achillesforidaho.com/news-articles/achilles-opportunity-for-idaho",
-"https://achillesforidaho.com/news-articles/fact-check-where-idaho-us-senate-candidates-stand-on-immigration",
-"https://achillesforidaho.com/news-articles/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-morenbsp",
-"https://achillesforidaho.com/news-articles/letter-to-the-editor-good-news",
-"https://achillesforidaho.com/news-articles/opinion-achilles-risch-campaign-is-a-referendum-on-iran",
-"https://achillesforidaho.com/news-articles/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho",
-"https://achillesforidaho.com/news-articles/the-unicorn-its-a-different-contest-is-it-different-enough",
-"https://achillesforidaho.com/news-articles/there-should-be-age-limits-for-us-senators-including-idahos-opinion-idahos-mitch-mcconnell",
-"https://achillesforidaho.com/news-articles/us-senate-statewide-voter-guide-2026-general-election-idaho-capital-sun",
-"https://achillesforidaho.com/newsletter",
-"https://achillesforidaho.com/newsroom",
-"https://achillesforidaho.com/policies",
-"https://achillesforidaho.com/polticas",
-"https://achillesforidaho.com/privacy-policy",
-"https://achillesforidaho.com/voluntariado",
-"https://achillesforidaho.com/volunteer",
-"https://achillesforidaho.com/volunteerform",
-"https://amp.idahostatesman.com/news/politics-government/election/article317343954.html",
-"https://bsky.app/profile/achillesid.bsky.social",
-"https://cdapress.com/news/2026/oct/02/achilles-opportunity-for-idaho",
-"https://facebook.com/achilles4idaho",
-"https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more",
-"https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate",
-"https://instagram.com/toddachillesforidaho",
-"https://lmtribune.com/opinion/achilles-risch-campaign-is-a-referendum-on-iran-cb248a00",
-"https://postregister.com/opinion/columns/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho/article_aacf6a75-d7e4-43f0-b28f-1e5b5c3a93f3.html",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=10%2C25%2C50%2C100%2C250",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=100%2C250",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=25%2C50%2C100%2C250",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=250",
-"https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=50%2C100%2C250",
-"https://stapilus.substack.com/p/the-unicorn?r=8mvwdw",
-"https://tetonvalleynews.net/opinion/letters_to_editor/letter-to-the-editor-good-news/article_9d2ea324-d0fa-4aca-8725-10b22e601d89.amp.html",
-"https://threads.com/@toddachillesforidaho",
-"https://tiktok.com/@toddachillesforidaho",
-"https://x.com/Achilles4Idaho",
-"https://youtube.com/@ToddAchillesforU.S.Senate"
+{
+"text": "$10",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=10%2C25%2C50%2C100%2C250"
+},
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=100%2C250"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=25%2C50%2C100%2C250"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho?amounts=50%2C100%2C250"
+},
+{
+"text": "0",
+"href": "https://www.achillesforidaho.com/cart"
+},
+{
+"text": "ACHILLES: Opportunity for Idaho",
+"href": "https://cdapress.com/news/2026/oct/02/achilles-opportunity-for-idaho/"
+},
+{
+"text": "Assert Your Independence",
+"href": "https://www.achillesforidaho.com/assert-your-independence"
+},
+{
+"text": "Back",
+"href": "https://www.achillesforidaho.com/"
+},
+{
+"text": "Boletín",
+"href": "https://www.achillesforidaho.com/boletn"
+},
+{
+"text": "Contact US",
+"href": "mailto:info@achillesforidaho.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Achilles-For-Idaho"
+},
+{
+"text": "Endorsements",
+"href": "https://www.achillesforidaho.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.achillesforidaho.com/events"
+},
+{
+"text": "Fact check: Where Idaho U.S. Senate candidates stand on immigration",
+"href": "https://amp.idahostatesman.com/news/politics-government/election/article317343954.html"
+},
+{
+"text": "Folder: ESPANOL",
+"href": "https://www.achillesforidaho.com/espanol"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.achillesforidaho.com/media-1"
+},
+{
+"text": "Folder: Merch",
+"href": "https://www.achillesforidaho.com/merch-1"
+},
+{
+"text": "Folder: Volunteer",
+"href": "https://www.achillesforidaho.com/volunteer"
+},
+{
+"text": "Idaho US Senate candidates weigh in on tariffs, Iran War, federal spending and more",
+"href": "https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more/"
+},
+{
+"text": "Inicio",
+"href": "https://www.achillesforidaho.com/inicio"
+},
+{
+"text": "Interviews",
+"href": "https://www.achillesforidaho.com/interviews"
+},
+{
+"text": "Letter to the Editor: Good news",
+"href": "https://www.tetonvalleynews.net/opinion/letters_to_editor/letter-to-the-editor-good-news/article_9d2ea324-d0fa-4aca-8725-10b22e601d89.amp.html"
+},
+{
+"text": "NEWS ARTICLES",
+"href": "https://www.achillesforidaho.com/news-articles"
+},
+{
+"text": "Newsletter",
+"href": "https://www.achillesforidaho.com/newsletter"
+},
+{
+"text": "Newsroom",
+"href": "https://www.achillesforidaho.com/newsroom"
+},
+{
+"text": "OPINION: Achilles-Risch campaign is a referendum on Iran",
+"href": "https://www.lmtribune.com/opinion/achilles-risch-campaign-is-a-referendum-on-iran-cb248a00"
+},
+{
+"text": "Opinion: It is high time to turn the page on hyper-partisan politics in Idaho",
+"href": "https://www.postregister.com/opinion/columns/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho/article_aacf6a75-d7e4-43f0-b28f-1e5b5c3a93f3.html"
+},
+{
+"text": "Policies",
+"href": "https://www.achillesforidaho.com/policies"
+},
+{
+"text": "Políticas",
+"href": "https://www.achillesforidaho.com/polticas"
+},
+{
+"text": "Press Inquiry‍ ‍",
+"href": "mailto:press@achillesforidaho.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.achillesforidaho.com/privacy-policy"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/achilles-opportunity-for-idaho"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/fact-check-where-idaho-us-senate-candidates-stand-on-immigration"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-morenbsp"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/letter-to-the-editor-good-news"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/opinion-achilles-risch-campaign-is-a-referendum-on-iran"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/the-unicorn-its-a-different-contest-is-it-different-enough"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/there-should-be-age-limits-for-us-senators-including-idahos-opinion-idahos-mitch-mcconnell"
+},
+{
+"text": "Read more →",
+"href": "https://www.achillesforidaho.com/news-articles/us-senate-statewide-voter-guide-2026-general-election-idaho-capital-sun"
+},
+{
+"text": "Supporter Merch",
+"href": "https://www.achillesforidaho.com/merch"
+},
+{
+"text": "The unicorn: It’s a different contest; is it different enough?",
+"href": "https://stapilus.substack.com/p/the-unicorn?r=8mvwdw"
+},
+{
+"text": "There should be age limits for U.S. Senators, including Idaho’s | Opinion - Idaho’s Mitch McConnell",
+"href": "https://www.achillesforidaho.com/news-articles/there-should-be-age-limits-for-us-senators-including-idahos-opinion-idahos-mitch-mcconnell"
+},
+{
+"text": "U.S. Senate, Statewide | Voter Guide: 2026 General Election (Idaho Capital Sun)",
+"href": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/"
+},
+{
+"text": "Voluntariado",
+"href": "https://www.achillesforidaho.com/voluntariado"
+},
+{
+"text": "Volunteer",
+"href": "https://www.achillesforidaho.com/volunteerpage"
+},
+{
+"text": "[image: ACHILLES: Opportunity for Idaho]",
+"href": "https://cdapress.com/news/2026/oct/02/achilles-opportunity-for-idaho/"
+},
+{
+"text": "[image: Fact check: Where Idaho U.S. Senate candidates stand on immigration]",
+"href": "https://amp.idahostatesman.com/news/politics-government/election/article317343954.html"
+},
+{
+"text": "[image: Idaho US Senate candidates weigh in on tariffs, Iran War, federal spending and more&nbsp;]",
+"href": "https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more/"
+},
+{
+"text": "[image: Letter to the Editor: Good news]",
+"href": "https://www.tetonvalleynews.net/opinion/letters_to_editor/letter-to-the-editor-good-news/article_9d2ea324-d0fa-4aca-8725-10b22e601d89.amp.html"
+},
+{
+"text": "[image: OPINION: Achilles-Risch campaign is a referendum on Iran]",
+"href": "https://www.lmtribune.com/opinion/achilles-risch-campaign-is-a-referendum-on-iran-cb248a00"
+},
+{
+"text": "[image: Opinion: It is high time to turn the page on hyper-partisan politics in Idaho]",
+"href": "https://www.postregister.com/opinion/columns/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho/article_aacf6a75-d7e4-43f0-b28f-1e5b5c3a93f3.html"
+},
+{
+"text": "[image: The unicorn: It’s a different contest; is it different enough?]",
+"href": "https://stapilus.substack.com/p/the-unicorn?r=8mvwdw"
+},
+{
+"text": "[image: There should be age limits for U.S. Senators, including Idaho’s | Opinion - Idaho’s Mitch McConnell]",
+"href": "https://www.achillesforidaho.com/news-articles/there-should-be-age-limits-for-us-senators-including-idahos-opinion-idahos-mitch-mcconnell"
+},
+{
+"text": "[image: Todd Achilles for Idaho]",
+"href": "https://www.achillesforidaho.com/"
+},
+{
+"text": "[image: U.S. Senate, Statewide | Voter Guide: 2026 General Election (Idaho Capital Sun)]",
+"href": "https://idahocapitalsun.com/voter-guides/contests/2026-general-u-s-senate/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/achillesid.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/achilles4idaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/toddachillesforidaho/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@toddachillesforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@toddachillesforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ToddAchillesforU.S.Senate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Achilles4Idaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:press@achillesforidaho.com"
+}
 ]

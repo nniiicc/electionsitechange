@@ -1,9 +1,12 @@
 {
  "description": "Mike Zimmer is a candidate in the Iowa special election for State Senate District 35. The election takes place on January 21, 2025.",
  "final_url": "https://www.mikezimmerforiowa.com/",
+ "fingerprint": "e8519b16a0254eba8299e42caf951507083ccb34",
+ "format": 3,
  "paid_for_by": "Paid for by Mike Zimmer for Iowa Senate",
  "title": "Home | Zimmer for Iowa State Senate | Clinton, IA",
  "years_mentioned": [
-  "2010"
+  "2010",
+  "2025"
  ]
 }

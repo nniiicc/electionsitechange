@@ -1,16 +1,82 @@
 [
-"https://facebook.com/SeoForAssembly",
-"https://flickr.com/photos/203959152@N03",
-"https://instagram.com/SeoForAssembly",
-"https://paulseo.com/",
-"https://paulseo.com/_files/ugd/645652_a3128c4036344b129957730e47b3da5f.pdf",
-"https://paulseo.com/_files/ugd/645652_fba140cbf6c042ce9c14313c704fc0bd.pdf",
-"https://paulseo.com/about",
-"https://paulseo.com/about-the-district",
-"https://paulseo.com/endorsements",
-"https://paulseo.com/get-involved",
-"https://paulseo.com/media",
-"https://paulseo.com/priorities",
-"https://secure.actblue.com/donate/paul-seo-1",
-"https://youtube.com/@PaulSeo4AD66"
+{
+"text": "About the District",
+"href": "https://www.paulseo.com/about-the-district"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/paul-seo-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.paulseo.com/endorsements"
+},
+{
+"text": "General Election Poll",
+"href": "https://www.paulseo.com/_files/ugd/645652_a3128c4036344b129957730e47b3da5f.pdf"
+},
+{
+"text": "Get Involved",
+"href": "https://www.paulseo.com/get-involved"
+},
+{
+"text": "HI RES PHOTOS",
+"href": "https://www.flickr.com/photos/203959152@N03/"
+},
+{
+"text": "HI RES VIDEO",
+"href": "https://www.youtube.com/@PaulSeo4AD66"
+},
+{
+"text": "Hi-Res Photos",
+"href": "https://www.flickr.com/photos/203959152@N03/"
+},
+{
+"text": "Hi-Res Video",
+"href": "https://www.youtube.com/@PaulSeo4AD66"
+},
+{
+"text": "Home",
+"href": "https://www.paulseo.com"
+},
+{
+"text": "Media",
+"href": "https://www.paulseo.com/media"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.paulseo.com/about"
+},
+{
+"text": "POLL MEMO",
+"href": "https://www.paulseo.com/_files/ugd/645652_fba140cbf6c042ce9c14313c704fc0bd.pdf"
+},
+{
+"text": "Priorities",
+"href": "https://www.paulseo.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SeoForAssembly"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/203959152@N03/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/SeoForAssembly"
+},
+{
+"text": "[image: Paul+Seo+for+Assembly+Final+Logo.webp]",
+"href": "https://www.paulseo.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@PaulSeo4AD66"
+},
+{
+"text": "info@PaulSeo4Assembly.com",
+"href": "mailto:info@PaulSeo4Assembly.com"
+}
 ]

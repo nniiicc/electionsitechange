@@ -1,4 +1,4 @@
-| Border Security I stand with President Trump on the border and immigration issues.
+About Tim Issues Endorsements Photos Donate Issues Border Security I stand with President Trump on the border and immigration issues.
 For years, I have consistently advocated for securing our Border with a wall.
 I applaud the President for bringing the financially draining and inequitable use of chain migration to the forefront of the debate.
 And I believe we need to keep ICE and enforce the laws already on the books.
@@ -22,7 +22,8 @@ Tim is a champion for our 2nd Amendment freedoms.
 Defending Life Tim is PRO LIFE and strongly opposes any public funding for abortion.
 Tim supports education, counseling, and other alternatives to prevent abortions.
 Tim will always stand up for the most vulnerable in our society, and will continue to fight for the unborn.
-Tim will oppose the pro-abortion ballot initiative titled “The Abortion Access Act” on this November’s ballot. #itgoestoofar Education Despite Democrat obstruction and opposition, Tim was proud to support a substantial and needed increase in funding for teachers.
+Tim will oppose the pro-abortion ballot initiative titled “The Abortion Access Act” on this November’s ballot.
+#itgoestoofar Education Despite Democrat obstruction and opposition, Tim was proud to support a substantial and needed increase in funding for teachers.
 In fact, during the highly publicized teacher walk out, Tim met with over 100 teachers from our district to better understand their concerns.
 Tim took those concerns to his fellow House members, and was able to ensure that the pay increase was in in line with inflation.
 Tim is committed to local school board control.
@@ -40,4 +41,14 @@ Our Military Community Luke Air Force Base, Marine Corps Air Station, Yuma Provi
 Tim grew up here in LD 25, and is committed to protecting our military communities and their families.
 As a military dad, Tim will always stand up for those who wear the uniform.
 Election Integrity Citizens need to have confidence in their elections.
-Tim’s support for legislation that will strengthen voter ID laws, stop ballot harvesting and properly maintain our voter rolls will help make it easier to vote and harder to cheat. |
+Tim’s support for legislation that will strengthen voter ID laws, stop ballot harvesting and properly maintain our voter rolls will help make it easier to vote and harder to cheat.
+Tim Dunn for Arizona State Senate Like us on Facebook!
+Tweet us on Twitter! © # Tim Dunn For AZ All Rights Reserved.
+Site Developed by MGM Design Paid for by Tim Dunn For AZ Senate.
+Authorized by Tim Dunn.
+About Tim Issues Endorsements Photos Donate Call Us Anytime!
+928-344-3866 Email Us Here: electtim@timdunnaz.com Send Us Postal Mail: 6324 E.
+Telegraph St.
+Yuma, AZ 85365 © # Tim Dunn For AZ All Rights Reserved.
+Site Developed by MGM Design Paid for by Tim Dunn For AZ Senate.
+Authorized by Tim Dunn.

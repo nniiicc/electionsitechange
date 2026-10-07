@@ -1,17 +1,66 @@
 [
-"http://youtube.com/@TeresaPerin",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://facebook.com/TPerin",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://rayguncustom.com/collections/perin-for-51",
-"https://secure.actblue.com/donate/teresa-perin-1",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://tiktok.com/@perinfor51?is_from_webapp=1&sender_device=pc",
-"https://tperin.weebly.com/",
-"https://tperin.weebly.com/cdn-cgi/l/email-protection",
-"https://tperin.weebly.com/contact.html",
-"https://tperin.weebly.com/learn.html",
-"https://tperin.weebly.com/news-and-events.html",
-"https://tperin.weebly.com/videos.html",
-"https://weebly.com/signup"
+{
+"text": "Check Voter Status",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Contact",
+"href": "https://tperin.weebly.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/teresa-perin-1"
+},
+{
+"text": "Home",
+"href": "https://tperin.weebly.com/"
+},
+{
+"text": "Learn",
+"href": "https://tperin.weebly.com/learn.html"
+},
+{
+"text": "News and Events",
+"href": "https://tperin.weebly.com/news-and-events.html"
+},
+{
+"text": "Perin for 51",
+"href": "https://tperin.weebly.com/"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "Register to Vote",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+},
+{
+"text": "Shop",
+"href": "https://www.rayguncustom.com/collections/perin-for-51"
+},
+{
+"text": "Videos",
+"href": "https://tperin.weebly.com/videos.html"
+},
+{
+"text": "Vote by Mail",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.tiktok.com/@perinfor51?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com/@TeresaPerin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TPerin/"
+},
+{
+"text": "[no text]",
+"href": "mailto:perinfor51@gmail.com"
+}
 ]

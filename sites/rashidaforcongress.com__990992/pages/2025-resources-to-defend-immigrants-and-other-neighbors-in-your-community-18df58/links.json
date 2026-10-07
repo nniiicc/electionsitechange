@@ -1,170 +1,806 @@
 [
-"http://abisa.org/",
-"http://ctbailfund.org/",
-"http://wfade.org/",
-"https://abisa.org/",
-"https://aclu-ia.org/issues/immigrants-rights",
-"https://aclu-nh.org/",
-"https://aclu-nh.org/know-your-rights-students-free-speech-campus",
-"https://aclu-nh.org/know-your-rights/know-your-rights-immigrants-rights",
-"https://aclu-or.org/en/know-your-rights-immigrants-rights",
-"https://aclu.org/know-your-rights/immigrants-rights",
-"https://aclumich.org/en/know-your-rights",
-"https://advancingjustice-atlanta.org/legal-services",
-"https://advancingjustice-atlanta.org/mission",
-"https://advancingjustice-chicago.org/what-we-do/bystander-intervention-trainings-2",
-"https://advancingjustice-chicago.org/what-we-do/leadership/a-just-chi",
-"https://afsc.org/news/how-create-mutual-aid-network",
-"https://aft.org/sites/default/files/media/documents/2025/PLYER-RIGHTS-SAFE-ZONE.pdf",
-"https://ajsocal.org/immigration",
-"https://americanimmigrationcouncil.org/blog/protecting-immigrant-communities-at-the-state-and-local-level",
-"https://americanimmigrationcouncil.org/fact-sheet/sanctuary-policies-overview",
-"https://amorri.org/initiatives",
-"https://antirepressionbayarea.com/about-2",
-"https://atljailsupport.org/",
-"https://atlsolidarity.org/",
-"https://baji.org/our-work/chapters",
-"https://baji.org/resources",
-"https://baji.org/who-we-are",
-"https://baltimoreactionlegal.org/",
-"https://bayrequest.protestlaw.org/",
-"https://beyondbondboston.org/",
-"https://bigdoorbrigade.com/mutual-aid-toolbox/bystander-interventiontransformative-justicealternatives-to-police-responses-to-harm",
-"https://blackimmigrantcollective.org/our-work",
-"https://blackimmigrantcollective.org/resources",
-"https://blackimmigrantsbailfund.com/",
-"https://boonecountycommunitybailfund.org/",
-"https://borderbutterfliesproject.com/",
-"https://borderbutterfliesproject.com/contact-us",
-"https://casasanjose.org/en/home",
-"https://chicagofreedomschool.org/",
-"https://coloradofreedomfund.org/",
-"https://communityjusticeexchange.org/en/immigration-directory",
-"https://communityjusticeexchange.org/en/nbfn-directory",
-"https://communityjusticeexchange.org/en/pretrial-directory",
-"https://communityjusticeexchange.org/nbfn-bondreferral",
-"https://communityjusticeproject.org/wp-content/uploads/2025/02/HIAS-PA-KYR-Package-English.pdf",
-"https://copalmn.org/",
-"https://creative-interventions.org/toolkit",
-"https://decarceratewesternmass.org/",
-"https://docs.google.com/document/d/1TQTQFCrK1JlrwoaSauq4i8-Doq6iMzMNtL1_k2IZ7FM/edit?tab=t.0",
-"https://docs.google.com/document/d/1eDBkJncm9ebtbI83yLLH3lJuu4QzoUt-sSF0yVodPZo/edit?tab=t.0",
-"https://downhomenc.org/",
-"https://eatchicago.org/about",
-"https://facebook.com/CAIR.Minnesota",
-"https://facebook.com/KentCountyIBOND",
-"https://facebook.com/RapidResponseGR",
-"https://facebook.com/RashidaForCongress",
-"https://farmworkerlaw.org/",
-"https://feedingamerica.org/find-your-local-foodbank",
-"https://floridailj.org/services",
-"https://floridaimmigrant.org/know-your-rights",
-"https://freedomforimmigrants.org/hotline",
-"https://glahr.org/",
-"https://google.com/maps/d/u/0/viewer?mid=1kZ3FGRuxC4Ou31RQP9JZh5gr___0x_I&ll=42.35825184356591%2C-83.07723454427169&z=13",
-"https://gro-ww.org/",
-"https://hawaiicommunitybailfund.org/",
-"https://icirr.org/resources",
-"https://immigrantdefenseproject.org/criminal-immigration-helpline",
-"https://immigrantdefenseproject.org/raids-toolkit",
-"https://immigrantfreedomfund.org/",
-"https://immigrantjustice.org/for-immigrants/know-your-rights/ice-encounter",
-"https://immigrationadvocates.org/nonprofit/legaldirectory/search",
-"https://instagram.com/blmp.htx",
-"https://instagram.com/blmpbayarea",
-"https://instagram.com/haitianbridge",
-"https://instagram.com/rashidatlaib?hl=en",
-"https://iowammj.org/",
-"https://lasvegasfamilyunitybondfund.org/",
-"https://legalrightscenter.org/",
-"https://lgbtqfund.org/",
-"https://linktr.ee/Louisville_Community_Bail_Fund",
-"https://luchaaz.org/",
-"https://maketheroadaction.org/nevada",
-"https://massbailfund.org/",
-"https://massliberationnv.com/",
-"https://mibfc.org/",
-"https://michiganimmigrant.org/",
-"https://michigannlg.org/civicrm/legal-directory",
-"https://michigannlg.org/civicrm/request-legal-observers",
-"https://michigannlg.org/resources",
-"https://michigannlg.org/resources/immigration",
-"https://michigannlg.org/resources/know-your-rights-and-risks",
-"https://michigansolidaritybailfund.com/",
-"https://middleseat.co/",
-"https://miliberation.org/",
-"https://mnfreedomfund.org/",
-"https://mobilize.us/rashida",
-"https://multiculturalmarin.org/mrrn",
-"https://mutualaidhub.org/",
-"https://mutualaidhub.org/resources",
-"https://nakasec.org/resources/know-your-rights",
-"https://nationalbailout.org/",
-"https://nationalbailout.org/directory",
-"https://nationalbailout.org/untilfreedomcomes",
-"https://nhbailfund.wordpress.com/",
-"https://nhcucc.org/mission-groups/immigrant-refugee-support",
-"https://nilc.org/resources/a-guide-for-employers-what-to-do-if-immigration-comes-to-your-workplace",
-"https://nilc.org/resources/worksite-immigration-raids-toolkit",
-"https://nilc.org/resources?resource_type%5B%5D=know-your-rights",
-"https://nlg.org/chapters",
-"https://nlgar.org/",
-"https://nlgcolorado.org/",
-"https://nlgmn.org/",
-"https://nokings.org/october-18-resources/6vsqw2no3v48vrkx6jyhsxk753cvs2",
-"https://or-nola.org/freedom",
-"https://organizedcommunities.org/about",
-"https://organizedcommunities.org/resources",
-"https://organizingmythoughts.org/mapping-community-defense-and-care-in-our-neighborhoods",
-"https://ourvoiceourvote.us/",
-"https://paunited.org/",
-"https://pmm.life/MAC-updates",
-"https://prairielandsfreedomfund.org/",
-"https://rashidaforcongress.com/",
-"https://rashidaforcongress.com/2025-resources-to-defend-immigrants-and-other-neighbors-in-your-community",
-"https://rashidaforcongress.com/about",
-"https://rashidaforcongress.com/cdn-cgi/l/email-protection",
-"https://rashidaforcongress.com/community-projects",
-"https://rashidaforcongress.com/contact",
-"https://rashidaforcongress.com/endorsements",
-"https://rashidaforcongress.com/get-endorsed-by-rashida",
-"https://rashidaforcongress.com/in-district-work",
-"https://rashidaforcongress.com/issues",
-"https://rashidaforcongress.com/privacy-policy",
-"https://rashidaforcongress.com/rashidas-community-endorsements",
-"https://rashidaforcongress.com/results-for-all",
-"https://rashidaforcongress.com/terms-of-service",
-"https://rashidaforcongress.com/vote",
-"https://realejusticenetwork.org/",
-"https://secure.actblue.com/donate/rashida22",
-"https://secure.actblue.com/donate/rashida22?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/rashida22?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/rashida22?amount=20&express_lane=true",
-"https://secure.actblue.com/donate/rashida22?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/rashida22?amount=50&express_lane=true",
-"https://siembranc.org/",
-"https://siembranc.org/la-migra-hotline",
-"https://slcbailfund.org/",
-"https://smcgov.org/ceo/rapid-response-hotline",
-"https://static1.squarespace.com/static/60c000f454e5026741595f9b/t/68bb022ce1fc5b7b1295014f/1757086252489/AMPT+Resources-2.pdf",
-"https://store.rashidaforcongress.com/",
-"https://theselc.org/mutual_aid_toolkit",
-"https://threads.com/@rashidatlaib",
-"https://tnimmigrant.org/",
-"https://tnimmigrant.org/resource-line",
-"https://tnimmigrant.org/resources",
-"https://transgenderlawcenter.org/resources/ice-raids",
-"https://twitter.com/RashidaTlaib",
-"https://vtfreedomfund.org/",
-"https://wearecasa.org/ally-network-2",
-"https://wearecasa.org/georgia",
-"https://wearecasa.org/pennsylvania",
-"https://wearecasa.org/programs-in-maryland",
-"https://wearecasa.org/programs-in-virginia",
-"https://wearecasa.org/virginia",
-"https://withmanyhands.org/newmexico",
-"https://withmanyhands.org/tools",
-"https://youtube.com/channel/UC_j00fK5KmSuRDmS3OPHOtg",
-"https://youtube.com/watch?v=lDmJZpmh9vI",
-"https://ywca-br.org/community-bail-fund"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rashida22?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rashida22?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rashida22?amount=20&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rashida22?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rashida22?amount=50&express_lane=true"
+},
+{
+"text": "A Guide for Employers: What to Do if Immigration Comes to Your Workplace",
+"href": "https://www.nilc.org/resources/a-guide-for-employers-what-to-do-if-immigration-comes-to-your-workplace/"
+},
+{
+"text": "A toolkit for Organizations Responding to Mass Worksite Immigration Raids",
+"href": "https://www.nilc.org/resources/worksite-immigration-raids-toolkit/"
+},
+{
+"text": "ABISA",
+"href": "http://abisa.org"
+},
+{
+"text": "ABISA",
+"href": "https://www.abisa.org/"
+},
+{
+"text": "ACLU (American Civil Liberties Union)",
+"href": "https://www.aclu.org/know-your-rights/immigrants-rights"
+},
+{
+"text": "ACLU Iowa – Immigrants’ rights",
+"href": "https://www.aclu-ia.org/issues/immigrants-rights/"
+},
+{
+"text": "ACLU New Hampshire",
+"href": "https://www.aclu-nh.org/"
+},
+{
+"text": "AL-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#alabama-en"
+},
+{
+"text": "AMOR Bond Fund",
+"href": "https://amorri.org/initiatives/#immigration"
+},
+{
+"text": "Arkansas Statewide Chapter of the National",
+"href": "https://www.nlgar.org/"
+},
+{
+"text": "Arkansas-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#arkansas"
+},
+{
+"text": "Asian Americans Advancing Justice Atlanta",
+"href": "https://www.advancingjustice-atlanta.org/mission"
+},
+{
+"text": "Atlanta Solidarity Fund",
+"href": "https://atlsolidarity.org"
+},
+{
+"text": "Atlanta chapter",
+"href": "https://baji.org/who-we-are/"
+},
+{
+"text": "BALT Community Bail Fund",
+"href": "https://www.baltimoreactionlegal.org"
+},
+{
+"text": "Bay Area Anti-Repression Bail Fund for protesters",
+"href": "https://antirepressionbayarea.com/about-2/"
+},
+{
+"text": "Beyond Bail & Legal Defense Fund",
+"href": "https://beyondbondboston.org/"
+},
+{
+"text": "Black Immigrant Collective",
+"href": "https://blackimmigrantcollective.org/our-work"
+},
+{
+"text": "Black Immigrants Bail Fund",
+"href": "https://www.blackimmigrantsbailfund.com"
+},
+{
+"text": "Black LGBTQIA+ Migrant Project Bay Area",
+"href": "https://www.instagram.com/blmpbayarea/"
+},
+{
+"text": "Boone County Community Bail Fund – Columbia, MO",
+"href": "https://www.boonecountycommunitybailfund.org/"
+},
+{
+"text": "Border Butterflies Project",
+"href": "https://borderbutterfliesproject.com/"
+},
+{
+"text": "Bystander intervention and ways to build safety in communities",
+"href": "https://bigdoorbrigade.com/mutual-aid-toolbox/bystander-interventiontransformative-justicealternatives-to-police-responses-to-harm/"
+},
+{
+"text": "C-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#northcarolina"
+},
+{
+"text": "CA-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#california"
+},
+{
+"text": "CAIR-Minnesota",
+"href": "https://www.facebook.com/CAIR.Minnesota/"
+},
+{
+"text": "CASA Georgia",
+"href": "https://wearecasa.org/georgia/"
+},
+{
+"text": "CASA Pennsylvania",
+"href": "https://wearecasa.org/pennsylvania/"
+},
+{
+"text": "CASA San José",
+"href": "https://casasanjose.org/en/home/"
+},
+{
+"text": "CASA in Maryland",
+"href": "https://wearecasa.org/ally-network-2/"
+},
+{
+"text": "COPAL MN",
+"href": "https://copalmn.org/"
+},
+{
+"text": "Check out their programs",
+"href": "https://wearecasa.org/programs-in-maryland/"
+},
+{
+"text": "Chicago Freedom School",
+"href": "https://www.chicagofreedomschool.org/"
+},
+{
+"text": "Chicago-based resources for immigrants",
+"href": "https://www.organizedcommunities.org/resources"
+},
+{
+"text": "Click here",
+"href": "https://www.nlg.org/chapters/"
+},
+{
+"text": "Colorado Freedom Fund",
+"href": "https://www.coloradofreedomfund.org"
+},
+{
+"text": "Community funding",
+"href": "https://rashidaforcongress.com/community-projects/"
+},
+{
+"text": "Connecticut Bail Fund",
+"href": "http://www.ctbailfund.org/"
+},
+{
+"text": "Contact",
+"href": "https://rashidaforcongress.com/contact/"
+},
+{
+"text": "Creative Interventions toolkit",
+"href": "https://www.creative-interventions.org/toolkit/"
+},
+{
+"text": "Decarcerate WMass Bailout Project",
+"href": "https://www.decarceratewesternmass.org/"
+},
+{
+"text": "Delaware-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#delaware"
+},
+{
+"text": "Detroit map of community resources",
+"href": "https://www.google.com/maps/d/u/0/viewer?mid=1kZ3FGRuxC4Ou31RQP9JZh5gr___0x_I&ll=42.35825184356591%2C-83.07723454427169&z=13"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rashida22"
+},
+{
+"text": "Down Home North Carolina",
+"href": "https://downhomenc.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://rashidaforcongress.com/endorsements/"
+},
+{
+"text": "Equity and Transformation",
+"href": "https://www.eatchicago.org/about"
+},
+{
+"text": "Examples of state and local policies for immigrant protection",
+"href": "https://www.americanimmigrationcouncil.org/blog/protecting-immigrant-communities-at-the-state-and-local-level/"
+},
+{
+"text": "FL-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#florida"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RashidaForCongress"
+},
+{
+"text": "Farmworker Legal Services",
+"href": "https://farmworkerlaw.org/"
+},
+{
+"text": "Find your local food bank",
+"href": "https://www.feedingamerica.org/find-your-local-foodbank"
+},
+{
+"text": "GA-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#georgia"
+},
+{
+"text": "Georgia Immigration Bond Fund",
+"href": "https://glahr.org/"
+},
+{
+"text": "Get endorsed",
+"href": "https://rashidaforcongress.com/get-endorsed-by-rashida/"
+},
+{
+"text": "Get involved",
+"href": "https://www.mobilize.us/rashida/"
+},
+{
+"text": "Grand Rapids Rapid Response to ICE",
+"href": "https://www.facebook.com/RapidResponseGR"
+},
+{
+"text": "Grassroots Organizing Western Wisconsin",
+"href": "https://gro-ww.org/"
+},
+{
+"text": "Guild",
+"href": "https://www.nlgar.org/"
+},
+{
+"text": "Haitian Bridge Alliance",
+"href": "https://www.instagram.com/haitianbridge"
+},
+{
+"text": "Hawaii Community Bail Fund",
+"href": "https://hawaiicommunitybailfund.org/"
+},
+{
+"text": "Hotline",
+"href": "https://www.siembranc.org/la-migra-hotline"
+},
+{
+"text": "Houston Hub of the Black LGBTQIA+ Migrant Project",
+"href": "https://www.instagram.com/blmp.htx/"
+},
+{
+"text": "How to create a mutual aid network",
+"href": "https://afsc.org/news/how-create-mutual-aid-network"
+},
+{
+"text": "How to vote",
+"href": "https://rashidaforcongress.com/vote/"
+},
+{
+"text": "Immigrant Bail Fund",
+"href": "http://www.ctbailfund.org"
+},
+{
+"text": "Immigrant Freedom Fund",
+"href": "https://www.immigrantfreedomfund.org"
+},
+{
+"text": "Immigration resources",
+"href": "https://ajsocal.org/immigration/"
+},
+{
+"text": "Immigration resources",
+"href": "https://michigannlg.org/resources/immigration/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rashidatlaib/?hl=en"
+},
+{
+"text": "Iowa Migrant Movement for Justice",
+"href": "https://www.iowammj.org/"
+},
+{
+"text": "Kent County Immigration Bond for Our Neighbor’s Defense Fund",
+"href": "https://www.facebook.com/KentCountyIBOND"
+},
+{
+"text": "Know Your Rights information",
+"href": "https://www.aclumich.org/en/know-your-rights"
+},
+{
+"text": "Know Your Rights information for immigrants",
+"href": "https://www.aclu-nh.org/know-your-rights/know-your-rights-immigrants-rights/"
+},
+{
+"text": "Know Your Rights information for immigrants",
+"href": "https://www.communityjusticeproject.org/wp-content/uploads/2025/02/HIAS-PA-KYR-Package-English.pdf"
+},
+{
+"text": "Know Your Rights information from ACLU Oregon",
+"href": "https://www.aclu-or.org/en/know-your-rights-immigrants-rights"
+},
+{
+"text": "Know Your Rights recommendations for Illinois-based nonprofit organizations",
+"href": "https://static1.squarespace.com/static/60c000f454e5026741595f9b/t/68bb022ce1fc5b7b1295014f/1757086252489/AMPT+Resources-2.pdf"
+},
+{
+"text": "Know Your Rights resources",
+"href": "https://floridaimmigrant.org/know-your-rights/"
+},
+{
+"text": "LGBTQ Freedom Fund",
+"href": "https://www.lgbtqfund.org/"
+},
+{
+"text": "Las Vegas Family Unity Bond Fund – Arriba Las Vegas Workers Center",
+"href": "https://lasvegasfamilyunitybondfund.org/"
+},
+{
+"text": "Lawyers",
+"href": "https://www.nlgar.org/"
+},
+{
+"text": "Legal Rights Center",
+"href": "https://legalrightscenter.org/"
+},
+{
+"text": "Legal services",
+"href": "https://floridailj.org/services/"
+},
+{
+"text": "Legislation for All",
+"href": "https://rashidaforcongress.com/results-for-all/"
+},
+{
+"text": "Living United for Change in Arizona",
+"href": "https://www.luchaaz.org/"
+},
+{
+"text": "Local resources",
+"href": "https://blackimmigrantcollective.org/resources"
+},
+{
+"text": "Louisville Community Bail Fund",
+"href": "https://linktr.ee/Louisville_Community_Bail_Fund"
+},
+{
+"text": "MI Know Your Rights",
+"href": "https://michigannlg.org/resources/know-your-rights-and-risks/"
+},
+{
+"text": "MN Chapter of the National Lawyers Guild",
+"href": "https://nlgmn.org/"
+},
+{
+"text": "Make the Road Action Nevada",
+"href": "https://www.maketheroadaction.org/nevada"
+},
+{
+"text": "Marin Rapid Response Network",
+"href": "https://multiculturalmarin.org/mrrn/"
+},
+{
+"text": "Massachusetts Bail Fund",
+"href": "https://www.massbailfund.org/"
+},
+{
+"text": "Meet Rashida",
+"href": "https://rashidaforcongress.com/about/"
+},
+{
+"text": "Miami chapter",
+"href": "https://baji.org/our-work/chapters/"
+},
+{
+"text": "Michigan Immigrant Rights Center",
+"href": "https://michiganimmigrant.org"
+},
+{
+"text": "Michigan Liberation",
+"href": "https://miliberation.org/"
+},
+{
+"text": "Michigan Solidarity Bail Fund",
+"href": "https://michigansolidaritybailfund.com/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Midwest Immigration Bond Fund",
+"href": "https://www.mibfc.org"
+},
+{
+"text": "Midwest Immigration Bond Fund",
+"href": "https://www.mibfc.org/"
+},
+{
+"text": "Minnesota Freedom Fund",
+"href": "https://mnfreedomfund.org/"
+},
+{
+"text": "Mutual aid legal toolkit",
+"href": "https://www.theselc.org/mutual_aid_toolkit"
+},
+{
+"text": "N",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#newjersey"
+},
+{
+"text": "NH Conference UCC Immigrant and Refugee Support Group Immigrant Bond & Support Fund",
+"href": "https://www.nhcucc.org/mission-groups/immigrant-refugee-support"
+},
+{
+"text": "National Bail Fund Network, Directory of Community Bail Funds",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory"
+},
+{
+"text": "National Bail Out",
+"href": "https://www.nationalbailout.org/"
+},
+{
+"text": "National Bail Out’s directory of Black-led organizations",
+"href": "https://www.nationalbailout.org/directory"
+},
+{
+"text": "National Immigrant Justice Center",
+"href": "https://immigrantjustice.org/for-immigrants/know-your-rights/ice-encounter/"
+},
+{
+"text": "National Immigrant Law Center",
+"href": "https://www.nilc.org/resources/?resource_type%5B%5D=know-your-rights"
+},
+{
+"text": "National Immigration Legal Services Directory",
+"href": "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search"
+},
+{
+"text": "National Korean American Service & Education Consortium",
+"href": "https://nakasec.org/resources/know-your-rights/"
+},
+{
+"text": "National Lawyers’ Guild Colorado Chapter",
+"href": "https://www.nlgcolorado.org/"
+},
+{
+"text": "National Lawyers’ Guild chapter list",
+"href": "https://www.nlg.org/chapters/"
+},
+{
+"text": "New Hampshire Community Bail Fund",
+"href": "https://nhbailfund.wordpress.com/"
+},
+{
+"text": "New Orleans Safety & Freedom Fund",
+"href": "https://www.or-nola.org/freedom"
+},
+{
+"text": "New York Chapter",
+"href": "https://baji.org/our-work/chapters/"
+},
+{
+"text": "Oakland and Los Angeles chapters",
+"href": "https://baji.org/our-work/chapters/"
+},
+{
+"text": "Organized Communities Against Deportations",
+"href": "https://www.organizedcommunities.org/about"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/rashida22"
+},
+{
+"text": "Our Voice, Our Vote",
+"href": "https://www.ourvoiceourvote.us/"
+},
+{
+"text": "PA United",
+"href": "https://paunited.org/"
+},
+{
+"text": "PA-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#pennsylvania"
+},
+{
+"text": "Pima Monthly Meeting Immigration Bond Fund",
+"href": "https://www.pmm.life/MAC-updates"
+},
+{
+"text": "Prairielands Freedom Fund",
+"href": "https://www.prairielandsfreedomfund.org/"
+},
+{
+"text": "Priority issues",
+"href": "https://rashidaforcongress.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rashidaforcongress.com/privacy-policy/"
+},
+{
+"text": "RI-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#rhodeisland"
+},
+{
+"text": "Rashida Tlaib for Congress – Rooted in Community [image: Rashida Tlaib for Congress]",
+"href": "https://rashidaforcongress.com"
+},
+{
+"text": "Rashida’s Receipts",
+"href": "https://rashidaforcongress.com/in-district-work/"
+},
+{
+"text": "Rashida’s Top Priorities",
+"href": "https://rashidaforcongress.com/issues/"
+},
+{
+"text": "Rashida’s choices",
+"href": "https://rashidaforcongress.com/rashidas-community-endorsements/"
+},
+{
+"text": "Reale Justice Community Bail Fund – Kansas City, MO",
+"href": "https://realejusticenetwork.org"
+},
+{
+"text": "Reports and resources about Black migrants",
+"href": "https://baji.org/resources/"
+},
+{
+"text": "Resources",
+"href": "https://rashidaforcongress.com/2025-resources-to-defend-immigrants-and-other-neighbors-in-your-community/"
+},
+{
+"text": "Resources for safety and security at protests",
+"href": "https://www.nokings.org/october-18-resources/6vsqw2no3v48vrkx6jyhsxk753cvs2"
+},
+{
+"text": "Results for District",
+"href": "https://rashidaforcongress.com/in-district-work/"
+},
+{
+"text": "Salt Lake Community Bail Fund",
+"href": "https://www.slcbailfund.org"
+},
+{
+"text": "Sample resolution language for school boards to protect students",
+"href": "https://www.aft.org/sites/default/files/media/documents/2025/PLYER-RIGHTS-SAFE-ZONE.pdf"
+},
+{
+"text": "Search by your state here.",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory"
+},
+{
+"text": "Siembra NC",
+"href": "https://www.siembranc.org/"
+},
+{
+"text": "Store",
+"href": "https://store.rashidaforcongress.com/"
+},
+{
+"text": "TN-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#tennessee"
+},
+{
+"text": "TX-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#texas"
+},
+{
+"text": "Tennessee Immigrant & Refugee Rights Coalition",
+"href": "https://www.tnimmigrant.org/"
+},
+{
+"text": "Terms of Service",
+"href": "https://rashidaforcongress.com/terms-of-service/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@rashidatlaib"
+},
+{
+"text": "Toolkit and step-by-step guide to organize bail funds",
+"href": "https://www.nationalbailout.org/untilfreedomcomes"
+},
+{
+"text": "Toolkit to defend against ICE raids and community arrests",
+"href": "https://www.immigrantdefenseproject.org/raids-toolkit/"
+},
+{
+"text": "Transgender Law Center",
+"href": "https://transgenderlawcenter.org/resources/ice-raids/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/RashidaTlaib"
+},
+{
+"text": "VA-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#virginia"
+},
+{
+"text": "Vegas Freedom Fund",
+"href": "https://massliberationnv.com/"
+},
+{
+"text": "Vermont Freedom Bail Fund",
+"href": "https://www.vtfreedomfund.org"
+},
+{
+"text": "Vote in MI general",
+"href": "https://rashidaforcongress.com/vote/"
+},
+{
+"text": "WA-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#washington"
+},
+{
+"text": "WI-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#wisconsin"
+},
+{
+"text": "Wilmington Freedom Alliance – Community Bail Fund",
+"href": "http://wfade.org"
+},
+{
+"text": "With Many Hands New Mexico",
+"href": "https://withmanyhands.org/newmexico/"
+},
+{
+"text": "Worksheet to help people strengthen connections and prepare to protect each other",
+"href": "https://organizingmythoughts.org/mapping-community-defense-and-care-in-our-neighborhoods/"
+},
+{
+"text": "Y-based groups",
+"href": "https://www.communityjusticeexchange.org/en/nbfn-directory#newyork"
+},
+{
+"text": "YWCA Greater Baton Rouge Community Bail Fund",
+"href": "https://www.ywca-br.org/community-bail-fund"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UC_j00fK5KmSuRDmS3OPHOtg"
+},
+{
+"text": "[email protected]",
+"href": "https://rashidaforcongress.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[no text]",
+"href": "https://realejusticenetwork.org/"
+},
+{
+"text": "bystander intervention trainings",
+"href": "https://advancingjustice-chicago.org/what-we-do/bystander-intervention-trainings-2/"
+},
+{
+"text": "directory of Black-led organizations",
+"href": "https://www.nationalbailout.org/directory"
+},
+{
+"text": "fill out a form here",
+"href": "https://www.communityjusticeexchange.org/nbfn-bondreferral"
+},
+{
+"text": "here",
+"href": "https://ajsocal.org/immigration"
+},
+{
+"text": "here",
+"href": "https://borderbutterfliesproject.com/contact-us/"
+},
+{
+"text": "here",
+"href": "https://wearecasa.org/virginia/"
+},
+{
+"text": "here",
+"href": "https://www.freedomforimmigrants.org/hotline"
+},
+{
+"text": "here",
+"href": "https://www.icirr.org/resources"
+},
+{
+"text": "here",
+"href": "https://www.smcgov.org/ceo/rapid-response-hotline"
+},
+{
+"text": "how to join their ally network",
+"href": "https://wearecasa.org/ally-network-2/"
+},
+{
+"text": "how to start a mutual aid group",
+"href": "https://www.youtube.com/watch?v=lDmJZpmh9vI"
+},
+{
+"text": "https://bayrequest.protestlaw.org/",
+"href": "https://bayrequest.protestlaw.org/"
+},
+{
+"text": "immigration detention",
+"href": "https://www.communityjusticeexchange.org/en/immigration-directory"
+},
+{
+"text": "jail support, and post-arrest support",
+"href": "https://atljailsupport.org/"
+},
+{
+"text": "join their ally network here",
+"href": "https://wearecasa.org/ally-network-2/"
+},
+{
+"text": "legal directory",
+"href": "https://michigannlg.org/civicrm/legal-directory/"
+},
+{
+"text": "legal services information",
+"href": "https://www.advancingjustice-atlanta.org/legal-services"
+},
+{
+"text": "more information here",
+"href": "https://www.immigrantdefenseproject.org/criminal-immigration-helpline/"
+},
+{
+"text": "more resources including protester legal support hotline",
+"href": "https://michigannlg.org/resources/"
+},
+{
+"text": "mutual aid network and food resource map",
+"href": "https://www.mutualaidhub.org/"
+},
+{
+"text": "overview of sanctuary policies",
+"href": "https://www.americanimmigrationcouncil.org/fact-sheet/sanctuary-policies-overview/"
+},
+{
+"text": "phone and text line",
+"href": "https://www.tnimmigrant.org/resource-line"
+},
+{
+"text": "pretrial detention",
+"href": "https://www.communityjusticeexchange.org/en/pretrial-directory"
+},
+{
+"text": "programs",
+"href": "https://wearecasa.org/programs-in-virginia/"
+},
+{
+"text": "regular meetings for community members",
+"href": "https://advancingjustice-chicago.org/what-we-do/leadership/a-just-chi/"
+},
+{
+"text": "request Legal Observers to attend your protest",
+"href": "https://michigannlg.org/civicrm/request-legal-observers/"
+},
+{
+"text": "resources",
+"href": "https://www.mutualaidhub.org/resources"
+},
+{
+"text": "resources to immigrant families",
+"href": "https://www.tnimmigrant.org/resources"
+},
+{
+"text": "students",
+"href": "https://www.aclu-nh.org/know-your-rights-students-free-speech-campus/"
+},
+{
+"text": "tips and toolkits",
+"href": "https://withmanyhands.org/tools/"
+},
+{
+"text": "toolkit",
+"href": "https://docs.google.com/document/d/1TQTQFCrK1JlrwoaSauq4i8-Doq6iMzMNtL1_k2IZ7FM/edit?tab=t.0#heading=h.icsot0j3wirg"
+},
+{
+"text": "“Talk to Your Sheriff” Toolkit to ask local law enforcement to limit or stop cooperation with ICE",
+"href": "https://docs.google.com/document/d/1eDBkJncm9ebtbI83yLLH3lJuu4QzoUt-sSF0yVodPZo/edit?tab=t.0"
+}
 ]

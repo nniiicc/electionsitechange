@@ -1,2 +1,4 @@
-by Lucas | Apr 21, 2024 | Endorsements, Local Service Boards
-Local Service Boards & Organizations See why Susan Neibaur from Paul, Idaho supports Clay HandyPosted by Vote for Clay Handy on Saturday, May 7, 2022 The Davis family recognize Clay Handy's efforts with the Oakley Valley Arts Council, and support him in...
+Chandy@house.idaho.gov House of Representative Clay Handy Legislation Report 2024 Idaho Elections (Cassia, Minidoka, Oneida) Endorsements Contact Us Select Page Local Service Boards & Organizations by Lucas | Apr 21, 2024 | Endorsements , Local Service Boards Local Service Boards & Organizations See why Susan Neibaur from Paul, Idaho supports Clay HandyPosted by Vote for Clay Handy on Saturday, May 7, 2022 The Davis family recognize Clay Handy's efforts with the Oakley Valley Arts Council, and support him in...
+Search Search Recent Posts Conservative Legislation Report by Clay Handy Government Service Public Lands & Resources Idaho Agriculture Local Service Boards & Organizations Recent Comments No comments to show.
+Facebook X Instagram RSS Paid for by Vote for Clay Handy!
+Idaho Political Advertising by Handy Optimal

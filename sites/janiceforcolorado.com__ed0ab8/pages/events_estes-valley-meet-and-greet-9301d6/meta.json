@@ -1,7 +1,11 @@
 {
  "description": "Please RSVP at: https://secure.actblue.com/donate/estesevent",
  "final_url": "https://www.janiceforcolorado.com/events/estes-valley-meet-and-greet",
- "paid_for_by": "Paid for by Janice Marchman for Colorado Senate | Mike Stolz&nbsp;Registered Agent",
- "title": "Estes Valley Meet and Greet \u2014 Janice Marchman for Colorado State Senate",
- "years_mentioned": []
+ "fingerprint": "3ec59d346080ecb71cc9d2c25dd8d564ddf84142",
+ "format": 3,
+ "paid_for_by": "Paid for by Janice Marchman for Colorado Senate",
+ "title": "Estes Valley Meet and Greet — Janice Marchman for Colorado State Senate",
+ "years_mentioned": [
+  "2026"
+ ]
 }

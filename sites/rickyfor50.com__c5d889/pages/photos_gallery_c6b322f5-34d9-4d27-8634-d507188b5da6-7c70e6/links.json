@@ -1,33 +1,126 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61588559033408",
-"https://i.campaignpartner.net/images/cdn_queue/142760/0db53b52b0be442382a684a4869d5dca.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/357f88ee246444e7b476f53e9a1619fd.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/3feebe5743624e15b26e2c7c1c096fc8.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/4878ad565b604f1dabf88e9b8feda7ad.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/505b584064be4edcac981befc023ac09.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/616f43840cb94c91bde80a76514e6851.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/6eaaacf4bbcd40b9b86108ca4744fba3.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/7331ab6e6ed143fdae72c3f814624113.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/7a5bf512d76f4d5d8bb27f473192ae41.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/8cfa82c683434df8b0b8cfc4028235e9.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/93ccc50ae5ee4634affdaf8ca48045ac.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/b220c82e39484b0e98aa3cb107ba4a94.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/b789c3b713c24aebb7fa200993c4ed79.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/c52c57553af74c9c8eb33e2ba86be437.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/d92f63c7c8be47d6bb80dab722ec8fe4.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/142760/de27d4506ca6443cbf6c0fc5b0bc7936.jpg",
-"https://instagram.com/rickyfor50",
-"https://rickyfor50.com/",
-"https://rickyfor50.com/contact",
-"https://rickyfor50.com/contribute",
-"https://rickyfor50.com/events",
-"https://rickyfor50.com/home",
-"https://rickyfor50.com/issues",
-"https://rickyfor50.com/meet_ricky",
-"https://rickyfor50.com/photos",
-"https://rickyfor50.com/view-endorsements",
-"https://rickyfor50.com/volunteer",
-"https://rickyfor50.com/yard-sign",
-"https://tiktok.com/@rickyfor50"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact/ Contáctanos",
+"href": "https://rickyfor50.com/contact"
+},
+{
+"text": "Contribute/ Contribuye",
+"href": "https://rickyfor50.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://rickyfor50.com/view-endorsements"
+},
+{
+"text": "Events/ Eventos",
+"href": "https://rickyfor50.com/events"
+},
+{
+"text": "Home/ Inicio",
+"href": "https://rickyfor50.com/home"
+},
+{
+"text": "Issues/ Temas de Campaña",
+"href": "https://rickyfor50.com/issues"
+},
+{
+"text": "Meet Ricky/ Conoce a Ricky",
+"href": "https://rickyfor50.com/meet_ricky"
+},
+{
+"text": "Photos",
+"href": "https://rickyfor50.com/photos"
+},
+{
+"text": "Volunteer/ Voluntarios",
+"href": "https://rickyfor50.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://rickyfor50.com/yard-sign"
+},
+{
+"text": "[image: Ricky Santiago FL House District 50]",
+"href": "https://rickyfor50.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/0db53b52b0be442382a684a4869d5dca.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/357f88ee246444e7b476f53e9a1619fd.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/3feebe5743624e15b26e2c7c1c096fc8.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/4878ad565b604f1dabf88e9b8feda7ad.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/505b584064be4edcac981befc023ac09.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/616f43840cb94c91bde80a76514e6851.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/6eaaacf4bbcd40b9b86108ca4744fba3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/7331ab6e6ed143fdae72c3f814624113.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/7a5bf512d76f4d5d8bb27f473192ae41.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/8cfa82c683434df8b0b8cfc4028235e9.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/93ccc50ae5ee4634affdaf8ca48045ac.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/b220c82e39484b0e98aa3cb107ba4a94.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/b789c3b713c24aebb7fa200993c4ed79.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/c52c57553af74c9c8eb33e2ba86be437.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/d92f63c7c8be47d6bb80dab722ec8fe4.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/142760/de27d4506ca6443cbf6c0fc5b0bc7936.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588559033408"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rickyfor50"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rickyfor50"
+}
 ]

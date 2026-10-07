@@ -1,4 +1,4 @@
-Excess timber comes out of the forest one way or the other: it is either carried out or it burns out.
+Home About Issues News Volunteer Donate Forest Policy Excess timber comes out of the forest one way or the other: it is either carried out or it burns out.
 From the inception of the U.S.
 Forest Service, we managed our public lands according to sound forest management principles.
 We prevented overcrowding by removing excess timber so that trees had room to grow healthy and strong.
@@ -6,30 +6,23 @@ This assured not only resilient forests, but also a thriving economy throughout 
 But beginning in the 1970’s, Congress began enacting laws such as the National Environmental Policy Act and the Endangered Species Act that promised to improve the forest ecology.
 Routine forest management projects and timber sales became subject to cost prohibitive and endlessly time consuming environmental studies, accompanied by opportunistic litigation.
 Our once healthy and well maintainned federal forests were consigned to a policy of benign neglect.
-After 40 years of these laws – all predicated on the promise they would improve the forest environment – I believe we are entitled to ask, “How is the forest environment doing?”
-The answer is damning.
+After 40 years of these laws – all predicated on the promise they would improve the forest environment – I believe we are entitled to ask, “How is the forest environment doing?” The answer is damning.
 In those years, Federal surplus timber harvests have dropped 80 percent while acreage destroyed by fire has increased concomitantly.
 The Sierra now has four times the timber density that the acreage can support.
 In this overcrowded and stressed condition, our trees become susceptible to drought, pestilence, disease and ultimately, catastrophic wildfire.
 Even after a fire, salvageable trees sit and rot for at least a year before required environmental studies are completed — during which time they lose most of their marketable value and the acreage is abandoned to scrub brush.
 More than 1,000 square miles of forest have been incinerated by wildfire in the last three years in the fourth congressional district, including many habitats these laws were supposed to protect.
-When laws not only fail to achieve their objective, but are directly counterproductive to their promises, and when they economically devastate local communities to boot, then it is time, as Lincoln said, “that we must think anew and act anew.”
-The Federal Lands Subcommittee that I chair has produced landmark legislation to restore sound management to our federal forests, and I have introduced legislation to expedite the removal of dead timber, replanting of lost acreage and proper grooming of our surviving acreage.
-Restoring Sound Forest Management
-American Loggers Council Annual Meeting – Eureka, California – September 26, 2015
-Ladies and Gentlemen:
-Thank you for your invitation to join you here in Eureka for the American Loggers Council Annual Meeting.
+When laws not only fail to achieve their objective, but are directly counterproductive to their promises, and when they economically devastate local communities to boot, then it is time, as Lincoln said, “that we must think anew and act anew.” The Federal Lands Subcommittee that I chair has produced landmark legislation to restore sound management to our federal forests, and I have introduced legislation to expedite the removal of dead timber, replanting of lost acreage and proper grooming of our surviving acreage.
+Restoring Sound Forest Management American Loggers Council Annual Meeting – Eureka, California – September 26, 2015 Ladies and Gentlemen: Thank you for your invitation to join you here in Eureka for the American Loggers Council Annual Meeting.
 “Eureka” of course is the motto of California, taken from the Greek, meaning, “I have found it.” It’s an appropriate motto for California, which became an economic powerhouse of the nation – indeed, of the world – based on its immense bounty of natural resources.
-Thanks to the foresight of our pioneers, we set aside vast tracts of land – in the words of the original Yosemite Charter – “for public use, resort and recreation…for all time.”
-More than a century ago, we created the National Forests based on founder Gifford Pinchot’s maxim: “to provide the greatest amount of good for the greatest amount of people in the long run.”
-In the view of these visionaries, preserving these resources for future generations did not mean closing them to the current generation.
+Thanks to the foresight of our pioneers, we set aside vast tracts of land – in the words of the original Yosemite Charter – “for public use, resort and recreation…for all time.” More than a century ago, we created the National Forests based on founder Gifford Pinchot’s maxim: “to provide the greatest amount of good for the greatest amount of people in the long run.” In the view of these visionaries, preserving these resources for future generations did not mean closing them to the current generation.
 Rather, it meant managing them for the sustained and on-going benefit of the nation.
 For our national forests, this meant good stewardship of the public lands.
 The emerging science of forestry offered us principles of sound forest management with which to assure healthy, thriving and resilient forests in perpetuity.
 These practices prevented vegetation and wildlife from overgrowing the ability of the land to support them.
 Not only did this assure robust and healthy forests capable of resisting fire, disease and pestilence, it also supported a prosperous economy.
 The sale of excess timber provided a steady stream of revenues to the treasury which could, in turn, be used to further improve, protect and manage the public lands.
-But 45 years ago, we replaced these sound management practices with what can only be described as a policy of benign neglect.
+But #ago, we replaced these sound management practices with what can only be described as a policy of benign neglect.
 In 1970, Congress adopted the National Environmental Policy Act and in 1973 the Endangered Species Act, that opened a floodgate of ponderous and Byzantine policies, regulations and lawsuits, with the explicit promise to “save the environment” from the predations of mankind.
 After 45 years of these policies, I believe we are entitled to ask, “How is the forest environment doing?” The answer is damning.
 According to every scrap of evidence submitted to our sub-committee by a wide spectrum of forest experts, these laws have not only failed to improve the forest environment – they have catastrophically harmed that environment.
@@ -58,8 +51,7 @@ This steadily deteriorating situation is forcing managers to raid forest treatme
 I visited the command center for the King Fire in my district on the day firefighters feared we would lose the entire communities of Georgetown and Foresthill.
 One firefighter, with tears in his eyes, came up to me and said, “Congressman, I can’t even get to this fire on the ground.
 We used to have good timber roads throughout the forest – we could get to the fire and put it out.
-All I can do now is drop stuff from the air and pray the wind shifts.”
-The wind did shift, saving the homes of hundreds of Georgetown and Foresthill families, but that fire nevertheless destroyed 150 square miles of our precious forests.
+All I can do now is drop stuff from the air and pray the wind shifts.” The wind did shift, saving the homes of hundreds of Georgetown and Foresthill families, but that fire nevertheless destroyed 150 square miles of our precious forests.
 Last month, I toured the aftermath of that fire.
 It was a remarkable sight from the air.
 You can vividly see the property line separating the federal lands from the privately owned and managed lands of Sierra Pacific Industries.
@@ -101,8 +93,7 @@ Unless we act, we are literally running out of forests to pass on to future gene
 But I sense the tide finally is turning.
 The cost of these policies is now becoming graphically clear to the American people.
 A new generation is living with the consequence of these policies.
-Because this new generation is not emotionally invested in the mistakes of the past, it is beginning to ask some fundamental questions – such as, “Mom, Dad – what were you thinking?”
-The first step toward restoring sound forest management to our public lands has already been taken by the House in the form of the Resilient Federal Forests Act of 2015, HR 2647.
+Because this new generation is not emotionally invested in the mistakes of the past, it is beginning to ask some fundamental questions – such as, “Mom, Dad – what were you thinking?” The first step toward restoring sound forest management to our public lands has already been taken by the House in the form of the Resilient Federal Forests Act of 2015, HR 2647.
 Its principle author is Congressman Bruce Westerman, himself a professional forester schooled at Yale University, which the founder of the U.S.
 Forest Service, Gifford Pinchot, did so much to shape.
 It seeks to provide the Forest Service with immediate reforms that require no new regulations, rules, planning or mapping.
@@ -121,10 +112,7 @@ And in 483 days, I am confident that we will have a president who will sign it.
 When we are successful – and I fervently believe it is a question not WHEN and not IF – I believe other legislation can quickly follow that will produce a renaissance of forest management.
 When Gifford Pinchot founded the U.S.
 Forest Service in 1905, his vision was of an agency that welcomed the American people to their public lands; and that worked cooperatively with local communities to maximize the sustainable use and enjoyment of our resources.
-His policy was to manage our forests “for the greatest good for the greatest number of people in the long run.”
-Pinchot gave a series of lectures at the Yale School of Forestry from 1910 to 1915, in which he propounded maxims for the (quote) “Behavior of Foresters in Public Office.”
-Among them:
-A public official is there to serve the public and not run them.
+His policy was to manage our forests “for the greatest good for the greatest number of people in the long run.” Pinchot gave a series of lectures at the Yale School of Forestry from 1910 to 1915, in which he propounded maxims for the (quote) “Behavior of Foresters in Public Office.” Among them: A public official is there to serve the public and not run them.
 Public support of acts affecting public rights is absolutely required.
 It is more trouble to consult the public than to ignore them, but that is what you are hired for.
 Find out in advance what the public will stand for.
@@ -141,9 +129,7 @@ I see a day in the not-so-distant future when we can again manage our federal pu
 Our forests are not being struck down by mysterious acts of God, but by specific and breathtakingly foolish acts of government.
 We can change that the moment we summon the political will to do so – and necessity now demands it.
 And for that reason, I feel confident in predicting that The Golden Age of our Federal Forests is ahead of us – not behind us.
-The Aftermath of the Rim Fire
-Forest Sustainability Action Coalition – April 23, 2014
-This is a chart of the board feet harvested out of the forests plotted against the acres destroyed by fire.
+The Aftermath of the Rim Fire Forest Sustainability Action Coalition – April 23, 2014 This is a chart of the board feet harvested out of the forests plotted against the acres destroyed by fire.
 As the board feet declined, the fire destruction increased proportionally.
 The excess timber is either carried out or it is burned out.
 For the past six years that I have attended these meetings, this comes up every time – and yet timber yield continues to decline, from 1.9 billion board feet in 1980 to 223 million board feet last year.
@@ -164,3 +150,4 @@ The Forest Service plans to sell 400 million board feet of fire-killed timber ne
 At present, we are only harvesting 7 percent of the annual growth of the Sierra and that will be further reduced by the current plan.
 The second issue I would like to raise is the overwhelming impact of special interest groups and their influence on the Forest Service.
 When the Forest Service says it consults and listens to the public, it is usually referring to a handful of activists on the public’s fringe, who are accorded disproportionate influence and attention.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

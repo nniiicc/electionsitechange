@@ -1,11 +1,14 @@
 {
  "description": "REPORT FROM THE CAPITOL - This was a long week at your State Capitol for committee meetings and voting on the floor, as we get ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=115",
- "paid_for_by": null,
+ "fingerprint": "ce25b36e78b7b7a327b6a84cbd9f574ed34d7907",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
   "2021",
   "2022",
-  "2023"
+  "2023",
+  "2039"
  ]
 }

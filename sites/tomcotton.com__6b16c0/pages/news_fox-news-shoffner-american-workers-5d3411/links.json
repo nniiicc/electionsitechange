@@ -1,27 +1,134 @@
 [
-"https://cotton.senate.gov/",
-"https://facebook.com/TomCottonAR",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftomcotton.com%2Fnews%2Ffox-news-shoffner-american-workers%2F",
-"https://foxnews.com/category/us/democratic-party",
-"https://foxnews.com/category/us/us-regions/midwest/arkansas",
-"https://foxnews.com/opinion/100-days-until-midterms-democrats-winning-message",
-"https://foxnews.com/politics/red-state-dem-faces-fury-suggesting-illegal-aliens-should-replace-american-workers",
-"https://foxnews.com/us/ice-makes-nationwide-arrests-illegal-immigrants-murderers-pedophiles-holiday-blitz",
-"https://instagram.com/tomcottonar",
-"https://tomcotton.com/",
-"https://tomcotton.com/about-tom",
-"https://tomcotton.com/contact",
-"https://tomcotton.com/issues",
-"https://tomcotton.com/news",
-"https://tomcotton.com/news/after-firestorm-shoffner-doubles-down-on-replacing-americans-with-illegal-immigrants-refuses-to-clarify-if-she-hired-them",
-"https://tomcotton.com/news/cotton-fox-friends-replace-arkansans",
-"https://tomcotton.com/privacy-policy",
-"https://tomcotton.com/volunteer",
-"https://twitter.com/intent/tweet?text=ICYMI%3A+Red+State+Dem+Faces+Fury+for+Suggesting+Illegal+Aliens+Should+Replace+American+Workers&url=https%3A%2F%2Ftomcotton.com%2Fnews%2Ffox-news-shoffner-american-workers%2F",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49",
-"https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50",
-"https://x.com/TomCottonAR",
-"https://youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+{
+"text": "$15",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=15"
+},
+{
+"text": "$4.49",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=4.49"
+},
+{
+"text": "$50",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button?amount=50"
+},
+{
+"text": "About Tom",
+"href": "https://tomcotton.com/about-tom/"
+},
+{
+"text": "Arkansas",
+"href": "https://www.foxnews.com/category/us/us-regions/midwest/arkansas"
+},
+{
+"text": "Contact",
+"href": "https://tomcotton.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Every Democrat running for Congress",
+"href": "https://www.foxnews.com/category/us/democratic-party"
+},
+{
+"text": "Home",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "Issues",
+"href": "https://tomcotton.com/issues/"
+},
+{
+"text": "James@TomCotton.com",
+"href": "mailto:James@TomCotton.com"
+},
+{
+"text": "News",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "Older → After Firestorm, Shoffner Doubles Down on Replacing Americans with Illegal Immigrants, Refuses to Clarify If She Hired Them",
+"href": "https://tomcotton.com/news/after-firestorm-shoffner-doubles-down-on-replacing-americans-with-illegal-immigrants-refuses-to-clarify-if-she-hired-them/"
+},
+{
+"text": "Other",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+},
+{
+"text": "Privacy",
+"href": "https://tomcotton.com/privacy-policy/"
+},
+{
+"text": "Story Link",
+"href": "https://www.foxnews.com/politics/red-state-dem-faces-fury-suggesting-illegal-aliens-should-replace-american-workers"
+},
+{
+"text": "Volunteer",
+"href": "https://tomcotton.com/volunteer/"
+},
+{
+"text": "[image: Fox News story headlined “Red state Dem faces fury for suggesting illegal aliens should replace American workers,” with the subhead “Sen. Tom Cotton’s campaign demands answers after Democrat Hallie Shoffner faces scrutiny for podcast comments,” by Peter D’Abrosca and Peter Pinedo, published September 22, 2026.]",
+"href": "https://www.foxnews.com/politics/red-state-dem-faces-fury-suggesting-illegal-aliens-should-replace-american-workers"
+},
+{
+"text": "[image: Split image: a portrait of Arkansas Democrat Hallie Shoffner beside two farm workers servicing a green piece of farm equipment in a field.]",
+"href": "https://www.foxnews.com/politics/red-state-dem-faces-fury-suggesting-illegal-aliens-should-replace-american-workers"
+},
+{
+"text": "[image: Tom Cotton]",
+"href": "https://tomcotton.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=ICYMI%3A+Red+State+Dem+Faces+Fury+for+Suggesting+Illegal+Aliens+Should+Replace+American+Workers&url=https%3A%2F%2Ftomcotton.com%2Fnews%2Ffox-news-shoffner-american-workers%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TomCottonAR/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftomcotton.com%2Fnews%2Ffox-news-shoffner-american-workers%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tomcottonar/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TomCottonAR"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=ICYMI%3A+Red+State+Dem+Faces+Fury+for+Suggesting+Illegal+Aliens+Should+Replace+American+Workers&body=https%3A%2F%2Ftomcotton.com%2Fnews%2Ffox-news-shoffner-american-workers%2F"
+},
+{
+"text": "click here",
+"href": "https://www.cotton.senate.gov/"
+},
+{
+"text": "immigration operations nationwide",
+"href": "https://www.foxnews.com/us/ice-makes-nationwide-arrests-illegal-immigrants-murderers-pedophiles-holiday-blitz"
+},
+{
+"text": "midterm elections",
+"href": "https://www.foxnews.com/opinion/100-days-until-midterms-democrats-winning-message"
+},
+{
+"text": "← All News",
+"href": "https://tomcotton.com/news/"
+},
+{
+"text": "← Newer ICYMI: Cotton Responds to Shoffner’s “Shocking” Call to Replace Arkansans with Illegal Aliens",
+"href": "https://tomcotton.com/news/cotton-fox-friends-replace-arkansans/"
+},
+{
+"text": "★Endorsed by Gov. Sarah Sanders and every Arkansas statewide official→",
+"href": "https://winred.tomcotton.com/tom-cotton/website-donation-button"
+}
 ]

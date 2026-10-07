@@ -1,10 +1,42 @@
 [
-"https://facebook.com/VoteKateForState",
-"https://instagram.com/votekateforstate",
-"https://secure.actblue.com/donate/votekateforstate",
-"https://tiktok.com/@votekateforstate",
-"https://votekateforstate.com/",
-"https://votekateforstate.com/get-involved",
-"https://votekateforstate.com/kate",
-"https://votekateforstate.com/my-priorities"
+{
+"text": "DONATE TO KATE",
+"href": "https://secure.actblue.com/donate/votekateforstate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteKateForState"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votekateforstate.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votekateforstate"
+},
+{
+"text": "Kate For State | Holley For Indiana Senate 6",
+"href": "https://www.tiktok.com/@votekateforstate"
+},
+{
+"text": "Meet Kate",
+"href": "https://www.votekateforstate.com/kate/"
+},
+{
+"text": "My Priorities",
+"href": "https://www.votekateforstate.com/my-priorities/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.votekateforstate.com/get-involved/#vote"
+},
+{
+"text": "[image: Kate for State | Holley for Indiana Senate 6]",
+"href": "https://www.votekateforstate.com"
+},
+{
+"text": "votekateforstate@gmail.com",
+"href": "mailto:votekateforstate@gmail.com"
+}
 ]

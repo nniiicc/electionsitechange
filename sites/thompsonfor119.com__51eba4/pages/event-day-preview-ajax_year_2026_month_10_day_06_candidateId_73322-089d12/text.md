@@ -1,3 +1,1 @@
-6:30 pm
-Forum on Amendments 3,6,7,8 and Prop A
-Scenic Regional Library--Union Branch, Union
+Events for October 6, 2026 6:30 pm Forum on Amendments 3,6,7,8 and Prop A Scenic Regional Library--Union Branch, Union

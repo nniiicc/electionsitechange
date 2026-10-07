@@ -1,16 +1,22 @@
-FOR IMMEDIATE RELEASE April 15, 2025
-AUSTIN—Today, Senator Mayes Middleton announced his campaign for Texas Attorney General.
+Menu Home About Priorities Endorsements News Join Our Team Donate Conservative Republican Mayes Middleton Announces Campaign for Texas Attorney General FOR IMMEDIATE RELEASE April 15, 2025 AUSTIN —Today, Senator Mayes Middleton announced his campaign for Texas Attorney General.
 Middleton is a proven conservative Republican that has championed policies such as prohibiting men from unfairly competing in women’s collegiate sports, banning the practice of your tax dollars being used to hire Austin lobbyists, securing the border, putting prayer back in school, and stopping job-killing green new deal policies.
 “I am running for Texas Attorney General to continue the fight for our shared conservative values that keep the Texas Miracle alive,” said Senator Mayes Middleton.
 “As Attorney General, I will join President Trump in his efforts to return America and Texas to common sense and to fight to secure the border, ensure law and order, and be tough on crime.
 So goes Texas, so goes America.
-There isn’t another Texas to move to, and I will work to ensure Texas is the safest state to live and raise a family.”
-“The true test of a conservative leader is that you do the right thing when no one is looking.
+There isn’t another Texas to move to, and I will work to ensure Texas is the safest state to live and raise a family.” “The true test of a conservative leader is that you do the right thing when no one is looking.
 I do not give in.
 I do not relent.
 Even in the toughest of times, when others throw in the towel, I remain a resolute conservative.
-My voting record and my reputation in the Capitol demonstrate that.”
-“I believe in public service, not self-service.
+My voting record and my reputation in the Capitol demonstrate that.” “I believe in public service, not self-service.
 For the past 8 years I have rejected the state pension and healthcare, and I donate my salary to local charities.
 I am only here to serve.
-That is why I am committing $10 million to my campaign kickoff as I prepare to crisscross the state working to earn your vote and become your next Texas Attorney General.”
+That is why I am committing $10 million to my campaign kickoff as I prepare to crisscross the state working to earn your vote and become your next Texas Attorney General.” Sign Up For Updates First Name* Last Name* Email Address* Cell Phone Zip Code* By providing my mobile number, I consent to receive informational text messages from the Mayes Middleton campaign.
+Message frequency may vary.
+Msg and Data rates may apply.
+Donations may be solicited.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms and Conditions and Privacy Policy .
+Count Me In!
+Donate To Mail A Check: Mayes Middleton Campaign PO Box 1526 Galveston, TX 77553 Facebook Twitter Instagram © Copyright Mayes Middleton For Texas Attorney General - All Rights Reserved - Privacy Policy | Terms and Conditions Pol.
+Adv. paid for by Mayes Middleton Campaign

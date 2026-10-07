@@ -1,9 +1,42 @@
 [
-"https://friendsofdarrellcodom.com/about.html",
-"https://friendsofdarrellcodom.com/donate.html",
-"https://friendsofdarrellcodom.com/events.html",
-"https://friendsofdarrellcodom.com/get-involved.html",
-"https://friendsofdarrellcodom.com/plan.html",
-"https://friendsofdarrellcodom.com/primary-results.html",
-"https://friendsofdarrellcodom.com/results.html"
+{
+"text": "Choose your role →",
+"href": "https://friendsofdarrellcodom.com/get-involved.html"
+},
+{
+"text": "Donate today",
+"href": "https://friendsofdarrellcodom.com/donate.html"
+},
+{
+"text": "Explore the record →",
+"href": "https://friendsofdarrellcodom.com/results.html"
+},
+{
+"text": "Join the campaign",
+"href": "https://friendsofdarrellcodom.com/get-involved.html"
+},
+{
+"text": "Make a contribution",
+"href": "https://friendsofdarrellcodom.com/donate.html"
+},
+{
+"text": "Meet Darrell",
+"href": "https://friendsofdarrellcodom.com/about.html"
+},
+{
+"text": "Read his priorities",
+"href": "https://friendsofdarrellcodom.com/plan.html"
+},
+{
+"text": "See the results →",
+"href": "https://friendsofdarrellcodom.com/primary-results.html"
+},
+{
+"text": "View events →",
+"href": "https://friendsofdarrellcodom.com/events.html"
+},
+{
+"text": "Volunteer",
+"href": "https://friendsofdarrellcodom.com/get-involved.html"
+}
 ]

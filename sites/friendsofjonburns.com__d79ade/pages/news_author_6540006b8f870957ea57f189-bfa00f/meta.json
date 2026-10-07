@@ -1,8 +1,10 @@
 {
  "description": "Find all the up-to-date legislative news here.",
  "final_url": "https://www.friendsofjonburns.com/news?author=6540006b8f870957ea57f189",
- "paid_for_by": null,
- "title": "News \u2014 Jon Burns",
+ "fingerprint": "4359b172b5d3abb39253303bbd6a07aa4e8d3d2f",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "News — Jon Burns",
  "years_mentioned": [
   "2026"
  ]

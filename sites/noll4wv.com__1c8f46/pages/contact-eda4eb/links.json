@@ -1,10 +1,46 @@
 [
-"https://noll4wv.com/",
-"https://noll4wv.com/about",
-"https://noll4wv.com/cart",
-"https://noll4wv.com/contact",
-"https://noll4wv.com/endorsements",
-"https://noll4wv.com/issues",
-"https://noll4wv.com/news",
-"https://secure.actblue.com/donate/bradnoll"
+{
+"text": "0",
+"href": "https://www.noll4wv.com/cart"
+},
+{
+"text": "ABOUT BRAD",
+"href": "https://www.noll4wv.com/about"
+},
+{
+"text": "BRAD@NOLL4WV.COM",
+"href": "mailto:brad@noll4wv.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.noll4wv.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradnoll"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.noll4wv.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.noll4wv.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://www.noll4wv.com/issues"
+},
+{
+"text": "NEWS",
+"href": "https://www.noll4wv.com/news"
+},
+{
+"text": "[image: NOLL4WV]",
+"href": "https://www.noll4wv.com/"
+},
+{
+"text": "brad@noll4wv.com",
+"href": "mailto:brad@noll4wv.com"
+}
 ]

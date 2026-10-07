@@ -1,20 +1,15 @@
-LEADERSHIP FOR RHODE ISLAND
-Taking office in 2013, Senator Pearson has consistently delivered results for his district and the state.
-Widely respected by his colleagues for his ability to take on tough challenges using a team approach, he has served as Senate Finance Chairman and Senate Majority Leader.
-Prior to serving in the Senate, Ryan served locally on the Cumberland School Committee, where he formed a solid understanding of local government budgeting and challenges.
+top of page HOME ABOUT RYAN ISSUES Updates More Use tab to navigate through the menu items.
+DONATE LEADERSHIP FOR RHODE ISLAND Taking office in 2013, Senator Pearson has consistently delivered results for his district and the state.
+Widely respected by his colleagues for his ability to take on tough challenges using a team approach, he has served as Senate Finance Chairman and Senate Majority Leader. ​ Prior to serving in the Senate, Ryan served locally on the Cumberland School Committee, where he formed a solid understanding of local government budgeting and challenges.
 This ground level experience has enabled him to be an effective advocate for local interests at the state level.
-Additionally, Senator Pearson serves as a resource whom many local leaders turn to when navigating complex decisions.
-Driven to public service while still a high school student, Ryan's first public involvement was as part of a student organization called Save Our Schools seeking to rally support behind a bond referendum to improve Cumberland High School, which was on the verge of losing accreditation due to severe facility deficiencies.
+Additionally, Senator Pearson serves as a resource whom many local leaders turn to when navigating complex decisions. ​ Driven to public service while still a high school student, Ryan's first public involvement was as part of a student organization called Save Our Schools seeking to rally support behind a bond referendum to improve Cumberland High School, which was on the verge of losing accreditation due to severe facility deficiencies.
 Following the passage of the bond he sought his first office on the Cumberland School Committee in 2008.
 Since then, Ryan has kept school facilities a key priority of his work so that every student in Rhode Island has a school they can be proud of.
-Senator Pearson's relentless focus culminated in to leading a Senate task force on school construction, whose detailed work served as the foundation of a comprehensive $1 billion statewide plan to fix and build schools all across Rhode Island.
-Improving Rhode Island's economy has also been a major focus for Senator Pearson since joining the Senate.
+Senator Pearson's relentless focus culminated in to leading a Senate task force on school construction, whose detailed work served as the foundation of a comprehensive $1 billion statewide plan to fix and build schools all across Rhode Island. ​​ Improving Rhode Island's economy has also been a major focus for Senator Pearson since joining the Senate.
 He has been a leader on efforts to reform our tax structures, streamline regulations, invest in job training and overhaul our economic development approach.
-He also authored a nationally recognized tax credit that is helping college graduates repay their student loans when they commit to stay and work in Rhode Island, keeping our skilled workers here.
-Recognizing the importance of infrastructure, Senator Pearson has also worked to secure passage of legislation to expedite state roadway improvements, investments in Quonset and support for the Rhode Island Infrastructure Bank in its efforts to ensure clean water, renewable energy and local road improvements.
-With the importance of a talented workforce to our overall economy, Senate Pearson has also focused efforts on education reforms related to curriculum and school/district accountability.
-He also chaired a task force examining the successes and shortcomings of the state's education funding formula.
-Senator Pearson earned his B.S. in Finance from Providence College.
+He also authored a nationally recognized tax credit that is helping college graduates repay their student loans when they commit to stay and work in Rhode Island, keeping our skilled workers here. ​ Recognizing the importance of infrastructure, Senator Pearson has also worked to secure passage of legislation to expedite state roadway improvements, investments in Quonset and support for the Rhode Island Infrastructure Bank in its efforts to ensure clean water, renewable energy and local road improvements. ​ With the importance of a talented workforce to our overall economy, Senate Pearson has also focused efforts on education reforms related to curriculum and school/district accountability.
+He also chaired a task force examining the successes and shortcomings of the state's education funding formula. ​ Senator Pearson earned his B.S. in Finance from Providence College.
 He also attended American University in Washington, D.C. working as a staff member in the United States Senate from 2006-2008.
 Today in the private sector, he is employed as a Senior Vice President of a local financial institution.
 He has also remained an active supporter of many community organizations.
+Paid for by Friends of Ryan Pearson 23 Circuit Drive, Cumberland, RI 02864 info@ryanforri.com HOME ABOUT RYAN ISSUES Updates More Use tab to navigate through the menu items. bottom of page

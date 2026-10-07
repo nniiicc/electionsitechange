@@ -1,93 +1,470 @@
 [
-"http://mass.gov/RECappointment",
-"http://mass.gov/orgs/executive-office-of-economic-development",
-"https://atlas-myrmv.massdot.state.ma.us/myrmv/_",
-"https://bsky.app/profile/sabadosama.bsky.social",
-"https://cem.va.gov/find-cemetery",
-"https://contractorhub.mass.gov/s",
-"https://facebook.com/LSabadosaMA",
-"https://instagram.com/sabadosama",
-"https://lindsaysabadosa.com/",
-"https://lindsaysabadosa.com/about",
-"https://lindsaysabadosa.com/accessing-health-care",
-"https://lindsaysabadosa.com/advocacy-news",
-"https://lindsaysabadosa.com/caucuses-",
-"https://lindsaysabadosa.com/citation-request",
-"https://lindsaysabadosa.com/committees-copy",
-"https://lindsaysabadosa.com/committeevotes",
-"https://lindsaysabadosa.com/constituent-case-work",
-"https://lindsaysabadosa.com/contact-us",
-"https://lindsaysabadosa.com/criminal-justice-1",
-"https://lindsaysabadosa.com/democracy",
-"https://lindsaysabadosa.com/education-1",
-"https://lindsaysabadosa.com/events-1",
-"https://lindsaysabadosa.com/food-insecurity",
-"https://lindsaysabadosa.com/fuel-assistance",
-"https://lindsaysabadosa.com/giving-and-receiving-aid",
-"https://lindsaysabadosa.com/health-care-1",
-"https://lindsaysabadosa.com/housing-1",
-"https://lindsaysabadosa.com/housing-2",
-"https://lindsaysabadosa.com/immigration",
-"https://lindsaysabadosa.com/intern-with-us",
-"https://lindsaysabadosa.com/labor",
-"https://lindsaysabadosa.com/local-bills-1",
-"https://lindsaysabadosa.com/medicine-disposal",
-"https://lindsaysabadosa.com/new-page-5",
-"https://lindsaysabadosa.com/our-district",
-"https://lindsaysabadosa.com/our-team-1",
-"https://lindsaysabadosa.com/protecting-privacy-1",
-"https://lindsaysabadosa.com/public-health",
-"https://lindsaysabadosa.com/tax-assistance",
-"https://lindsaysabadosa.com/transportation-2",
-"https://lindsaysabadosa.com/working-with-state-agencies",
-"https://mahealthconnector.org/",
-"https://mass.gov/childrens-behavioral-health-initiative-cbhi",
-"https://mass.gov/citizenship-for-new-americans-program-cnap",
-"https://mass.gov/department-of-conservation-and-recreation-permits",
-"https://mass.gov/economic-assistance-cash-benefits",
-"https://mass.gov/file-a-complaint-against-a-dpl-licensee",
-"https://mass.gov/file-a-complaint-of-discrimination",
-"https://mass.gov/guides/who-to-call-at-dor",
-"https://mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs",
-"https://mass.gov/how-to/applying-for-temporary-road-access-and-moving-permits",
-"https://mass.gov/how-to/check-a-professional-license",
-"https://mass.gov/how-to/file-a-consumer-complaint",
-"https://mass.gov/how-to/reserve-a-campsite",
-"https://mass.gov/identity-theft-data-privacy-and-cyber-security",
-"https://mass.gov/info-details/contact-dor",
-"https://mass.gov/info-details/western-massachusetts-area-0",
-"https://mass.gov/locations/chicopee-rmv-service-center",
-"https://mass.gov/locations/easthampton-rmv-service-center",
-"https://mass.gov/locations/greenfield-rmv-service-center",
-"https://mass.gov/locations/springfield-rmv-service-center",
-"https://mass.gov/massachusetts-do-not-call-list",
-"https://mass.gov/one-care",
-"https://mass.gov/orgs/department-of-conservation-recreation",
-"https://mass.gov/orgs/department-of-developmental-services?_gl=1%2A1pppt5c%2A_ga%2AMTU5NzYwNjY2MC4xNzEyMjY2NDUx%2A_ga_MCLPEGW7WM%2AMTcyNjg2MTM0Ny4yLjEuMTcyNjg2Mjk1NC4wLjAuMA.",
-"https://mass.gov/orgs/department-of-transitional-assistance",
-"https://mass.gov/orgs/department-of-unemployment-assistance",
-"https://mass.gov/orgs/division-of-insurance?_gl=1%2A17visuv%2A_ga%2AMTU5NzYwNjY2MC4xNzEyMjY2NDUx%2A_ga_MCLPEGW7WM%2AMTcyNjg2MTM0Ny4yLjEuMTcyNjg2Mjg4Mi4wLjAuMA..",
-"https://mass.gov/orgs/division-of-occupational-licensure",
-"https://mass.gov/orgs/division-of-professional-licensure",
-"https://mass.gov/orgs/executive-office-of-economic-development?_gl=1%2Aihbhvw%2A_ga%2AMTU5NzYwNjY2MC4xNzEyMjY2NDUx%2A_ga_MCLPEGW7WM%2AMTcyNjg2MTM0Ny4yLjAuMTcyNjg2MTM0Ny4wLjAuMA..",
-"https://mass.gov/orgs/executive-office-of-housing-and-livable-communities",
-"https://mass.gov/orgs/executive-office-of-veterans-services",
-"https://mass.gov/orgs/massachusetts-commission-against-discrimination",
-"https://mass.gov/orgs/massachusetts-department-of-children-families",
-"https://mass.gov/orgs/massachusetts-department-of-mental-health",
-"https://mass.gov/orgs/massachusetts-department-of-revenue",
-"https://mass.gov/orgs/massachusetts-department-of-transportation",
-"https://mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
-"https://mass.gov/orgs/massachusetts-women-veterans-network",
-"https://mass.gov/orgs/masshealth",
-"https://mass.gov/orgs/masshire-department-of-career-services",
-"https://mass.gov/orgs/office-for-refugees-and-immigrants",
-"https://mass.gov/orgs/office-of-consumer-affairs-and-business-regulation",
-"https://mass.gov/orgs/office-of-the-attorney-general",
-"https://mass.gov/refugee-employment-services-res",
-"https://mass.gov/topics/food-assistance",
-"https://mass.gov/training-and-outreach",
-"https://mass.gov/unemployment-insurance-ui-for-workers",
-"https://mass.gov/veterans-job-programs-and-services",
-"https://mtc.dor.state.ma.us/mtc/_"
+{
+"text": "(CNAP)",
+"href": "https://www.mass.gov/citizenship-for-new-americans-program-cnap"
+},
+{
+"text": "(DCS)",
+"href": "https://www.mass.gov/orgs/masshire-department-of-career-services"
+},
+{
+"text": "(RES)",
+"href": "https://www.mass.gov/refugee-employment-services-res"
+},
+{
+"text": "ACCESSING HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/accessing-health-care"
+},
+{
+"text": "ADVOCACY & NEWS",
+"href": "https://www.lindsaysabadosa.com/advocacy-news"
+},
+{
+"text": "ASK FOR HELP",
+"href": "https://www.lindsaysabadosa.com/constituent-case-work"
+},
+{
+"text": "Apply for a temporary road access and moving permit",
+"href": "https://www.mass.gov/how-to/applying-for-temporary-road-access-and-moving-permits"
+},
+{
+"text": "Attorney General Andrea Campbell",
+"href": "https://www.mass.gov/orgs/office-of-the-attorney-general"
+},
+{
+"text": "BIO",
+"href": "https://www.lindsaysabadosa.com/about"
+},
+{
+"text": "CAUCUSES",
+"href": "https://www.lindsaysabadosa.com/caucuses-"
+},
+{
+"text": "CBHI",
+"href": "https://www.mass.gov/childrens-behavioral-health-initiative-cbhi"
+},
+{
+"text": "CITATION REQUEST",
+"href": "https://www.lindsaysabadosa.com/citation-request"
+},
+{
+"text": "CIVIL RIGHTS & DEMOCRACY",
+"href": "https://www.lindsaysabadosa.com/democracy"
+},
+{
+"text": "CLIMATE",
+"href": "https://www.lindsaysabadosa.com/new-page-5"
+},
+{
+"text": "COMMISSIONS",
+"href": "https://www.lindsaysabadosa.com/committees-copy"
+},
+{
+"text": "COMMITTEES",
+"href": "https://www.lindsaysabadosa.com/committeevotes"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.lindsaysabadosa.com/contact-us"
+},
+{
+"text": "CRIMINAL JUSTICE",
+"href": "https://www.lindsaysabadosa.com/criminal-justice-1"
+},
+{
+"text": "Cemeteries",
+"href": "https://www.cem.va.gov/find-cemetery/"
+},
+{
+"text": "DCFCommissioner@state.ma.us",
+"href": "mailto:DCFCommissioner@state.ma.us"
+},
+{
+"text": "DDSInfo@mass.gov",
+"href": "mailto:DDSInfo@mass.gov"
+},
+{
+"text": "Data privacy, identity theft, and cyber security",
+"href": "https://www.mass.gov/identity-theft-data-privacy-and-cyber-security"
+},
+{
+"text": "Department of Children and Families (DCF)",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-children-families"
+},
+{
+"text": "Department of Conservation and Recreation (DCR)",
+"href": "https://www.mass.gov/orgs/department-of-conservation-recreation"
+},
+{
+"text": "Department of Developmental Services (DDS)",
+"href": "https://www.mass.gov/orgs/department-of-developmental-services"
+},
+{
+"text": "Department of Mental Health (DMH)",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-mental-health"
+},
+{
+"text": "Department of Revenue (DOR)",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-revenue"
+},
+{
+"text": "Department of Transitional Assistance (DTA)",
+"href": "https://www.mass.gov/orgs/department-of-transitional-assistance"
+},
+{
+"text": "Department of Unemployment Assistance (DUA)",
+"href": "https://www.mass.gov/orgs/department-of-unemployment-assistance"
+},
+{
+"text": "Division of Insurance (DOI)",
+"href": "https://www.mass.gov/orgs/division-of-insurance"
+},
+{
+"text": "Division of Occupational Licensure (DOL)",
+"href": "https://www.mass.gov/orgs/division-of-professional-licensure"
+},
+{
+"text": "EDUCATION",
+"href": "https://www.lindsaysabadosa.com/education-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.lindsaysabadosa.com/events-1"
+},
+{
+"text": "Economic Assistance",
+"href": "https://www.mass.gov/economic-assistance-cash-benefits"
+},
+{
+"text": "Executive Office of Economic Development (EOED)",
+"href": "https://www.mass.gov/orgs/executive-office-of-economic-development"
+},
+{
+"text": "Executive Office of Housing and Livable Communities (EOHLC)",
+"href": "https://www.mass.gov/orgs/executive-office-of-housing-and-livable-communities"
+},
+{
+"text": "Executive Office of Veterans Services (EOVS)",
+"href": "https://www.mass.gov/orgs/executive-office-of-veterans-services"
+},
+{
+"text": "FOOD INSECURITY",
+"href": "https://www.lindsaysabadosa.com/food-insecurity"
+},
+{
+"text": "FUEL ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/fuel-assistance"
+},
+{
+"text": "File a complaint of discrimination",
+"href": "https://www.mass.gov/file-a-complaint-of-discrimination"
+},
+{
+"text": "Food Assistance",
+"href": "https://www.mass.gov/topics/food-assistance"
+},
+{
+"text": "GIVING AND RECEIVING AID",
+"href": "https://www.lindsaysabadosa.com/giving-and-receiving-aid"
+},
+{
+"text": "HOME",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-1"
+},
+{
+"text": "HOUSING",
+"href": "https://www.lindsaysabadosa.com/housing-2"
+},
+{
+"text": "Health Connector",
+"href": "https://www.mahealthconnector.org/"
+},
+{
+"text": "IMMIGRATION",
+"href": "https://www.lindsaysabadosa.com/immigration"
+},
+{
+"text": "INTERN WITH US",
+"href": "https://www.lindsaysabadosa.com/intern-with-us"
+},
+{
+"text": "LABOR",
+"href": "https://www.lindsaysabadosa.com/labor"
+},
+{
+"text": "LOCAL BILLS",
+"href": "https://www.lindsaysabadosa.com/local-bills-1"
+},
+{
+"text": "MCAD training and outreach",
+"href": "https://www.mass.gov/training-and-outreach"
+},
+{
+"text": "MEDICINE DISPOSAL",
+"href": "https://www.lindsaysabadosa.com/medicine-disposal"
+},
+{
+"text": "MassHealth",
+"href": "https://www.mass.gov/orgs/masshealth"
+},
+{
+"text": "Massachusetts Commission Against Discrimination (MCAD)",
+"href": "https://www.mass.gov/orgs/massachusetts-commission-against-discrimination"
+},
+{
+"text": "Massachusetts Department of Transportation (MassDOT)",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-transportation"
+},
+{
+"text": "Massachusetts Do Not Call Registry",
+"href": "https://www.mass.gov/massachusetts-do-not-call-list"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.lindsaysabadosa.com/our-district"
+},
+{
+"text": "OUR TEAM",
+"href": "https://www.lindsaysabadosa.com/our-team-1"
+},
+{
+"text": "Obtain a DCR recreation permit",
+"href": "https://www.mass.gov/department-of-conservation-and-recreation-permits"
+},
+{
+"text": "Office for Refugees and Immigrants (ORI)",
+"href": "https://www.mass.gov/orgs/office-for-refugees-and-immigrants"
+},
+{
+"text": "Office of Consumer Affairs and Business Regulations (OCABR)",
+"href": "https://www.mass.gov/orgs/office-of-consumer-affairs-and-business-regulation"
+},
+{
+"text": "One Care",
+"href": "https://www.mass.gov/one-care"
+},
+{
+"text": "Online Service Center",
+"href": "https://atlas-myrmv.massdot.state.ma.us/myrmv/_/"
+},
+{
+"text": "PROTECTING PRIVACY",
+"href": "https://www.lindsaysabadosa.com/protecting-privacy-1"
+},
+{
+"text": "PUBLIC HEALTH",
+"href": "https://www.lindsaysabadosa.com/public-health"
+},
+{
+"text": "RAFT",
+"href": "https://www.mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs"
+},
+{
+"text": "REPRODUCTIVE AND MATERNAL HEALTH CARE",
+"href": "https://www.lindsaysabadosa.com/health-care-1"
+},
+{
+"text": "Registry of Motor Vehicles (RMV)",
+"href": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles"
+},
+{
+"text": "Reserve a campsite",
+"href": "https://www.mass.gov/how-to/reserve-a-campsite"
+},
+{
+"text": "TAX ASSISTANCE",
+"href": "https://www.lindsaysabadosa.com/tax-assistance"
+},
+{
+"text": "TRANSPORTATION",
+"href": "https://www.lindsaysabadosa.com/transportation-2"
+},
+{
+"text": "UI program",
+"href": "https://www.mass.gov/unemployment-insurance-ui-for-workers"
+},
+{
+"text": "Veterans’ Job Programs and Services",
+"href": "https://www.mass.gov/veterans-job-programs-and-services"
+},
+{
+"text": "WORKING WITH STATE AGENCIES",
+"href": "https://www.lindsaysabadosa.com/working-with-state-agencies"
+},
+{
+"text": "Women Veterans’ Network",
+"href": "https://www.mass.gov/orgs/massachusetts-women-veterans-network"
+},
+{
+"text": "[image: LINDSAY SABADOSA]",
+"href": "https://www.lindsaysabadosa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sabadosama.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LSabadosaMA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sabadosama/"
+},
+{
+"text": "complaint",
+"href": "https://www.mass.gov/file-a-complaint-against-a-dpl-licensee"
+},
+{
+"text": "consumer complaint process",
+"href": "https://www.mass.gov/how-to/file-a-consumer-complaint"
+},
+{
+"text": "here",
+"href": "https://www.mass.gov/how-to/check-a-professional-license"
+},
+{
+"text": "https://contractorhub.mass.gov/s/",
+"href": "https://contractorhub.mass.gov/s/"
+},
+{
+"text": "https://mtc.dor.state.ma.us/mtc/_/",
+"href": "https://mtc.dor.state.ma.us/mtc/_/"
+},
+{
+"text": "https://www.mahealthconnector.org/",
+"href": "https://www.mahealthconnector.org/"
+},
+{
+"text": "https://www.mass.gov/guides/who-to-call-at-dor",
+"href": "https://www.mass.gov/guides/who-to-call-at-dor"
+},
+{
+"text": "https://www.mass.gov/info-details/contact-dor#-child-support-services-(css)-",
+"href": "https://www.mass.gov/info-details/contact-dor#-child-support-services-(css)-"
+},
+{
+"text": "https://www.mass.gov/info-details/western-massachusetts-area-0",
+"href": "https://www.mass.gov/info-details/western-massachusetts-area-0"
+},
+{
+"text": "https://www.mass.gov/locations/springfield-rmv-service-center",
+"href": "https://www.mass.gov/locations/springfield-rmv-service-center"
+},
+{
+"text": "https://www.mass.gov/orgs/department-of-conservation-recreation",
+"href": "https://www.mass.gov/orgs/department-of-conservation-recreation"
+},
+{
+"text": "https://www.mass.gov/orgs/department-of-developmental-services.",
+"href": "https://www.mass.gov/orgs/department-of-developmental-services"
+},
+{
+"text": "https://www.mass.gov/orgs/department-of-transitional-assistance",
+"href": "https://www.mass.gov/orgs/department-of-transitional-assistance"
+},
+{
+"text": "https://www.mass.gov/orgs/department-of-unemployment-assistance",
+"href": "https://www.mass.gov/orgs/department-of-unemployment-assistance"
+},
+{
+"text": "https://www.mass.gov/orgs/division-of-insurance",
+"href": "https://www.mass.gov/orgs/division-of-insurance"
+},
+{
+"text": "https://www.mass.gov/orgs/division-of-occupational-licensure",
+"href": "https://www.mass.gov/orgs/division-of-occupational-licensure"
+},
+{
+"text": "https://www.mass.gov/orgs/executive-office-of-housing-and-livable-communities",
+"href": "https://www.mass.gov/orgs/executive-office-of-housing-and-livable-communities"
+},
+{
+"text": "https://www.mass.gov/orgs/executive-office-of-veterans-services",
+"href": "https://www.mass.gov/orgs/executive-office-of-veterans-services"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-commission-against-discrimination",
+"href": "https://www.mass.gov/orgs/massachusetts-commission-against-discrimination"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-children-families",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-children-families"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-mental-health",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-mental-health"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-revenuewww.dor.state.ma.us",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-revenue"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-department-of-transportation",
+"href": "https://www.mass.gov/orgs/massachusetts-department-of-transportation"
+},
+{
+"text": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles",
+"href": "https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles"
+},
+{
+"text": "https://www.mass.gov/orgs/masshealth",
+"href": "https://www.mass.gov/orgs/masshealth"
+},
+{
+"text": "https://www.mass.gov/orgs/office-for-refugees-and-immigrants",
+"href": "https://www.mass.gov/orgs/office-for-refugees-and-immigrants"
+},
+{
+"text": "https://www.mass.gov/orgs/office-of-consumer-affairs-and-business-regulation",
+"href": "https://www.mass.gov/orgs/office-of-consumer-affairs-and-business-regulation"
+},
+{
+"text": "https://www.mass.gov/orgs/office-of-the-attorney-general",
+"href": "https://www.mass.gov/orgs/office-of-the-attorney-general"
+},
+{
+"text": "keri.purcell@mass.gov",
+"href": "mailto:keri.purcell@mass.gov"
+},
+{
+"text": "mass.gov/RECappointment",
+"href": "http://mass.gov/RECappointment"
+},
+{
+"text": "mass.parks@mass.gov",
+"href": "mailto:mass.parks@mass.gov"
+},
+{
+"text": "mcad@mass.gov",
+"href": "mailto:mcad@mass.gov"
+},
+{
+"text": "state Lemon Law",
+"href": "https://contractorhub.mass.gov/s/"
+},
+{
+"text": "teka.j.harris@mass.gov",
+"href": "mailto:teka.j.harris@mass.gov"
+},
+{
+"text": "www.mass.gov/locations/chicopee-rmv-service-center",
+"href": "https://www.mass.gov/locations/chicopee-rmv-service-center"
+},
+{
+"text": "www.mass.gov/locations/easthampton-rmv-service-center",
+"href": "https://www.mass.gov/locations/easthampton-rmv-service-center"
+},
+{
+"text": "www.mass.gov/locations/greenfield-rmv-service-center",
+"href": "https://www.mass.gov/locations/greenfield-rmv-service-center"
+},
+{
+"text": "www.mass.gov/orgs/executive-office-of-economic-development",
+"href": "http://www.mass.gov/orgs/executive-office-of-economic-development"
+}
 ]

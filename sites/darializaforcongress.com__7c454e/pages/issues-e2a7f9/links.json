@@ -1,22 +1,122 @@
 [
-"https://act.darializaforcongress.com/events",
-"https://bsky.app/profile/darializaforny.bsky.social",
-"https://darializaforcongress.com/",
-"https://darializaforcongress.com/about",
-"https://darializaforcongress.com/contact",
-"https://darializaforcongress.com/endorsements",
-"https://darializaforcongress.com/issues/abolish-ice",
-"https://darializaforcongress.com/issues/day-1-agenda",
-"https://darializaforcongress.com/issues/economic-security-for-all",
-"https://darializaforcongress.com/issues/fighting-corporate-greed",
-"https://darializaforcongress.com/issues/issue-1",
-"https://darializaforcongress.com/issues/issue-2",
-"https://darializaforcongress.com/issues/medicare-for-all",
-"https://darializaforcongress.com/issues/quality-education",
-"https://darializaforcongress.com/news",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61583351025252",
-"https://instagram.com/darializaforny",
-"https://secure.actblue.com/donate/chevalier-web",
-"https://x.com/darializaforny"
+{
+"text": "Abolish ICE",
+"href": "https://www.darializaforcongress.com/issues/abolish-ice"
+},
+{
+"text": "About",
+"href": "https://www.darializaforcongress.com/about"
+},
+{
+"text": "Babies, Not Bombs",
+"href": "https://www.darializaforcongress.com/issues/issue-2"
+},
+{
+"text": "Contact Us",
+"href": "https://www.darializaforcongress.com/contact"
+},
+{
+"text": "Day 1 Agenda",
+"href": "https://www.darializaforcongress.com/issues/day-1-agenda"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chevalier-web"
+},
+{
+"text": "Economic Security for All",
+"href": "https://www.darializaforcongress.com/issues/economic-security-for-all"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darializaforcongress.com/endorsements"
+},
+{
+"text": "Fighting Corporate Greed",
+"href": "https://www.darializaforcongress.com/issues/fighting-corporate-greed"
+},
+{
+"text": "Housing for All",
+"href": "https://www.darializaforcongress.com/issues/issue-1"
+},
+{
+"text": "Medicare for All",
+"href": "https://www.darializaforcongress.com/issues/medicare-for-all"
+},
+{
+"text": "Press",
+"href": "https://www.darializaforcongress.com/news"
+},
+{
+"text": "Quality Education",
+"href": "https://www.darializaforcongress.com/issues/quality-education"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/abolish-ice"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/day-1-agenda"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/economic-security-for-all"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/fighting-corporate-greed"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/issue-1"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/issue-2"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/medicare-for-all"
+},
+{
+"text": "Read more",
+"href": "https://www.darializaforcongress.com/issues/quality-education"
+},
+{
+"text": "Volunteer",
+"href": "https://act.darializaforcongress.com/events"
+},
+{
+"text": "[image: Darializa For Congress logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.darializaforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/darializaforny.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61583351025252"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/darializaforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/darializaforny"
+},
+{
+"text": "info@darializaforcongress.com",
+"href": "mailto:info@darializaforcongress.com"
+}
 ]

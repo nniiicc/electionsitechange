@@ -1,9 +1,9 @@
 {
  "description": "Explore the real state of the state in Maine, focusing on economic recovery, liberty, and justice for all residents.",
  "final_url": "https://reaganformaine.com/real-state-of-the-state",
- "paid_for_by": null,
+ "fingerprint": "e2f0c4015f886098f32975f5de6838ffb33d1663",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Real State of the State",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

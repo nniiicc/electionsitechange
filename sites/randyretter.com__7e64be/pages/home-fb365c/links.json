@@ -1,7 +1,26 @@
 [
-"https://facebook.com/RetterForStateRep",
-"https://randyretter.com/",
-"https://randyretter.com/home",
-"https://randyretter.com/issues",
-"https://randyretter.com/learn"
+{
+"text": "Bio",
+"href": "https://www.randyretter.com/learn/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RetterForStateRep"
+},
+{
+"text": "Home",
+"href": "https://www.randyretter.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.randyretter.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://www.randyretter.com/learn/"
+},
+{
+"text": "[image]",
+"href": "https://www.randyretter.com/home/"
+}
 ]

@@ -1,4 +1,23 @@
+"Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." "Protect Alabama Jobs, Healthcare, and Tough fair justice." For inquiries related to the Alabama Senate campaign focused on affordable healthcare and economic opportunity, please reach out to PO Box 610424 Birmingham, AL 35261 .
+It’s vital for us to keep protecting your rights, as emphasized by Everett W.
+Wess.
 Everett W.
+Wess for U.S.
+Senate 2026 Everett W.
+Wess for U.S.
+Senate 2026 Everett W.
+Wess for U.S.
+Senate 2026 Everett W.
+Wess for U.S.
+Senate 2026 Everett W.
+Wess for U.S.
+Senate 2026 Help us campaign today for the Alabama Senate campaign, focusing on affordable healthcare and economic opportunity, to ensure a better tomorrow while protecting your rights with leaders like Everett W.
+Wess!
+Get in Touch Join the Wess for Senate Campaign Donate - ActBlue Your support and contributions will enable us to win!
+Act Blue Regular Mail Donations Make checks payable to: Everett W.
+Wess for U.S.
+Senate, supporting an Alabama Senate campaign focused on Affordable Healthcare and Economic opportunity for all.
+PO Box 610424, Birmingham, AL 35261 About everett wess Serving The Community Everett W.
 Wess is a dedicated member of the Avondale Church of Christ in Birmingham, Alabama, a lifelong public servant, civil rights advocate, and experienced attorney running for the United States Senate.
 His mission is to fight for justice, opportunity, and dignity for all Alabamians.
 Based in Birmingham, Everett has spent decades standing up for working families, protecting your rights, and ensuring fairness in Alabama’s courts and communities.
@@ -25,3 +44,19 @@ Wess is running for the United States Senate to advocate for voting rights, equa
 He believes that the justice system should work for everyone—not just the powerful.
 Everett W.
 Wess is committed to listening to the people, standing up to special interests, and striving every day to build a fair, inclusive, and prosperous future for all.
+Everett will fight to: "Protect Alabama Jobs, Healthcare, and Tough fair justice." SAFE COMMUNITIES Economic opportunity is vital for our growth and prosperity.
+We must ensure quality public education to equip our future leaders.
+AFFORDABLE HEALTHCARE is essential, especially when it comes to funding medical providers in rural Alabama and supporting hospitals in underserved areas.
+PROTECTING YOUR RIGHTS is a fundamental pillar of our Alabama Senate campaign, advocating for fair courts and a clean government that serves all citizens, including the vision of leaders like Everett W.
+Wess.
+My Blog Video With the Lawrence County Democrats Discussing Article I of the U.S.
+Constitution Community Service in Alabama Working with our at-risk youth Photo Gallery Volunteer and Join our Campaign Canvass * Phone Bank * Host a Meet and Greet * Yard Sign Name* Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Wess for U.S.
+Senate Alabama Facebook Facebook Facebook Facebook Facebook Facebook Everett W.
+Wess for US Senate Pd.
+Pol Adv by Friends for Elect Everett W.
+Wess for US Senate, supporting an Alabama Senate campaign that prioritizes affordable healthcare and economic opportunity while focusing on protecting your rights. wessforsenate@gmail.com PO Box 610424 , Birmingham, AL 35261 205.251.9372 wessforsenate@gmail.com Pd.
+Pol Adv by Friends for Elect Everett W.
+Wess for US Senate Copyright © # Wess for U.S.
+Senate Alabama - All Rights Reserved.
+Powered by

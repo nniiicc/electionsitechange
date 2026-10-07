@@ -1,16 +1,62 @@
 [
-"https://secure.actblue.com/donate/vote-alicia-rule-1",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=10",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=100",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=1200",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=250",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=50",
-"https://secure.actblue.com/donate/vote-alicia-rule-1?amount=500",
-"https://votealiciarule.com/",
-"https://votealiciarule.com/about-alicia",
-"https://votealiciarule.com/contact",
-"https://votealiciarule.com/endorsements",
-"https://votealiciarule.com/events",
-"https://votealiciarule.com/join-our-campaign",
-"https://votealiciarule.com/wp-content/uploads/2024/04/Vote-Alicia-Rule-2024-Code-of-Conduct.pdf"
+{
+"text": "$1,200",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=1200"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1?amount=500"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.votealiciarule.com/endorsements/"
+},
+{
+"text": "About Alicia",
+"href": "https://www.votealiciarule.com/about-alicia/"
+},
+{
+"text": "Campaign Code of Conduct.",
+"href": "https://www.votealiciarule.com/wp-content/uploads/2024/04/Vote-Alicia-Rule-2024-Code-of-Conduct.pdf"
+},
+{
+"text": "Contact",
+"href": "https://www.votealiciarule.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vote-alicia-rule-1"
+},
+{
+"text": "Events",
+"href": "https://www.votealiciarule.com/events/"
+},
+{
+"text": "Home",
+"href": "https://www.votealiciarule.com/"
+},
+{
+"text": "Join Our Campaign",
+"href": "https://www.votealiciarule.com/join-our-campaign/"
+},
+{
+"text": "[image: Re-Elect Alicia Rule]",
+"href": "https://www.votealiciarule.com/"
+}
 ]

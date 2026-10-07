@@ -1,18 +1,19 @@
-top of page
-Alexander D.
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate Alexander D.
 Schmidt, 32, has resided in Mitchell County for all but three years of his life.
 Born in Osage and a 2012 graduate of St.
 Ansgar Community Schools, he has worked as a journalist at the St.
 Ansgar Enterprise Journal and the Mason City Globe Gazette, most recently at ABC 6 News (KAAL-TV).
 He currently is a freelance journalist and resides in Carpenter with his partner Emily and cat Roxanne.
-Playlist
-Follow Us
-About
-Featured Article
-Priorities
-Featured Video
-Latest News
-IS YOUR CITY INCLUDED?
-CLICK HERE TO VIEW THE MAP
-MAP OF HOUSE DISTRICT 60
-bottom of page
+Playlist Follow Us About Featured Article Campaign Blog: # Days and I need your help Politics Jul 27 # min read Priorities Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Save Rural Iowa A Living Wage Affordable Health Care Strong Public Schools Protect Our Natural Resources Featured Video Latest News Sure, let's build a steel mill.
+Not like this.
+Alexander Schmidt is the Democratic nominee for Iowa House of Representatives in District 60, covering the entirety of Mitchell and Worth Counties as well as portions of Cerro Gordo and Floyd Counties.
+The "plan," announced a few days ago in the Oval Office is to build the largest and "most tremendous" steel mill in U.S. history, (somewhere?) in Lee County along the Mississippi River.
+The session is meeting to consider $1.4 billion in tax credits for the project.
+If I were a Campaign Blog: 99 Days and I need your help by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
+If you live in the 60th district, (here's a handy map if you're unsure) there are three steps you can take the absolute MOST effort to support me, ranked in order of importance: Vote for me, either by casting an early/absentee ballot or on Election Day (Nov 3).
+If you're able, make a donation to my campaign so you can he Politics Campaign Blog: Independence Day by Alexander Schmidt, candidate for Iowa House of Representatives District 60 It's July 5, and I hope everyone had a safe and happy Independence Day!
+I'm encouraged by all the patriotism that was shown, and a lot of the genuinely thoughtful conversations I have been having with voters are making me believe a large turnout is headed our way this November.
+I had a great time with the Mitchell County Dems as we marched proudly in the Osage Independence Day Parade.
+It was excelle Politics Make a Donation Today Donate State Politics + Read More Campaign Blog: 99 Days and I need your help Jul 27 Campaign Blog: Independence Day Jul 5 Religion + Read More Campaign Blog: Independence Day Jul 5 "Iowa's Christian Nationalist Cabal" by Daniel Henderson Apr 1 Education + Read More Campaign Blog: Independence Day Jul 5 Book banning discussed at Mason City School Board Meeting Apr 2 Health + Read More Campaign Blog: Independence Day Jul 5 Make Iowa healthy again by reforming Medicaid by Jack Hatch Apr 1 Rural Iowa + Read More Campaign Blog: 99 Days and I need your help Jul 27 Campaign Blog: Independence Day Jul 5 Environment + Read More Campaign Blog: Independence Day Jul 5 Iowa Republicans file lawsuit challenging carbon pipeline project Apr 2 Agriculture + Read More Campaign Blog: Independence Day Jul 5 Iowa Secretary of Agriculture visits Lake Mills Apr 2 Economy + Read More Campaign Blog: Independence Day Jul 5 Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement May 15 IS YOUR CITY INCLUDED?
+CLICK HERE TO VIEW THE MAP MAP OF HOUSE DISTRICT 60 Be Part of Our Movement First name Last name Email * Phone How would you like to help?
+Yard sign Volunteer Host an event Other Submit © # PAID FOR BY SCHMIDT FOR IA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

@@ -1,9 +1,23 @@
 {
  "description": "Keep up with State Representative, Steve Reick in his blog. Subscribe to receive marketing emails from Citizens to Elect Steven Reick.",
  "final_url": "https://ilikereick.com/steves-blog/page/13/",
- "paid_for_by": null,
+ "fingerprint": "123ff723cbaa78d48824dc5cde464e66b30bd8f2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Steve Reick's Blog - I Like Reick",
  "years_mentioned": [
-  "2015"
+  "1982",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

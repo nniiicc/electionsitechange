@@ -1,5 +1,5 @@
-Roger with Dr.
-Karen Johnson, member of the Joint Legislative Task Force On Police Use of Deadly Force (2016)
-I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
+Skip to content Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery Media Awards Endorsements Contact Roger Endorse Roger Volunteer Donate Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Menu Home Meet Roger Legislative Accomplishments Justice Reform Photo Gallery News Awards Endorsements Volunteer Contact Donate Mailing List Menu Volunteer Contact Donate Mailing List Bringing Justice Back To The Justice System Roger with Dr.
+Karen Johnson, member of the Joint Legislative Task Force On Police Use of Deadly Force (2016) I have focused intensely on responding to the national call for action to reform police practices and to address racial bias in the justice system.
 In this most recent legislative session, we enacted the nation’s most dramatic, broad-sweeping police accountability reforms by restricting the needless use of force, holding police accountable for misconduct and ensuring the equitable treatment by law enforcement of all communities.
-Read more>>
+Read more>> Brought to you by: Friends of Roger Goodman 218 Main St.
+PMB 763 Kirkland, WA 98033 Facebook-f

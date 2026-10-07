@@ -1,12 +1,46 @@
 [
-"https://afcguam.com/",
-"https://afcguam.com/about",
-"https://afcguam.com/author/afcadmin",
-"https://afcguam.com/category/press-releases",
-"https://afcguam.com/contact",
-"https://afcguam.com/events",
-"https://afcguam.com/platform",
-"https://afcguam.com/volunteer-sign-up",
-"https://en.wikipedia.org/wiki/United_States_Attorney_for_the_Districts_of_Guam_and_the_Northern_Mariana_Islands",
-"https://pacificislandtimes.com/post/limtiaco-officially-enters-guam-s-congressional-race"
+{
+"text": "AFC Team",
+"href": "https://afcguam.com/author/afcadmin/"
+},
+{
+"text": "About",
+"href": "https://afcguam.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://afcguam.com/contact/"
+},
+{
+"text": "Districts of Guam and the Northern Mariana Islands",
+"href": "https://en.wikipedia.org/wiki/United_States_Attorney_for_the_Districts_of_Guam_and_the_Northern_Mariana_Islands"
+},
+{
+"text": "Events",
+"href": "https://afcguam.com/events/"
+},
+{
+"text": "Home",
+"href": "https://afcguam.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://afcguam.com/volunteer-sign-up/"
+},
+{
+"text": "Platform",
+"href": "https://afcguam.com/platform/"
+},
+{
+"text": "Press Releases",
+"href": "https://afcguam.com/category/press-releases/"
+},
+{
+"text": "[image: Alicia for Congress]",
+"href": "https://afcguam.com/"
+},
+{
+"text": "https://www.pacificislandtimes.com/post/limtiaco-officially-enters-guam-s-congressional-race",
+"href": "https://www.pacificislandtimes.com/post/limtiaco-officially-enters-guam-s-congressional-race"
+}
 ]

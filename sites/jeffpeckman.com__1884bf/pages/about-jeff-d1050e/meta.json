@@ -1,9 +1,13 @@
 {
  "description": "Discover Jeff Peckman solutions for a better Colorado. Learn about his initiatives, campaigns, and the RAISE the ZONE book.",
  "final_url": "https://jeffpeckman.com/about-jeff",
- "paid_for_by": null,
+ "fingerprint": "74f0ce62673aafc22c3010e86e5ae2c1fe5e0089",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Jeff",
  "years_mentioned": [
+  "1954",
+  "2008",
   "2017",
   "2026"
  ]

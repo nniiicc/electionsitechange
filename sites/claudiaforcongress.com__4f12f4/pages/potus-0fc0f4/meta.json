@@ -1,7 +1,11 @@
 {
- "description": "Read more \u203a",
+ "description": "Read more ›",
  "final_url": "https://claudiaforcongress.com/potus/",
+ "fingerprint": "2db4dbd062cd1ae8fd002f19cc03100d5bb88b93",
+ "format": 3,
  "paid_for_by": "Paid for by Claudia Tenney for Congress",
  "title": "TWEET ALERT: POTUS Gives Tenney \"Full & Complete\" Endorsement - Claudia for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

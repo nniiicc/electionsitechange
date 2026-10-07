@@ -1,41 +1,178 @@
 [
-"http://kancare.ks.gov/",
-"http://kandrive.org/kandrive",
-"http://kansas.gov/",
-"http://kanview.ks.gov/AgencyListing.aspx",
-"http://kscharitycheck.org/",
-"http://kslegislature.org/",
-"http://kslegislature.org/li",
-"http://kslegislature.org/li/about",
-"http://kslegislature.org/li/b2021_22/chamber/house",
-"http://kslegislature.org/li/b2021_22/members",
-"http://kslegislature.org/li/s/pdf/how_bill_law.pdf",
-"http://kslegresearch.org/KLRD-web/Education.html",
-"http://kslegresearch.org/KLRD-web/Publications/AppropriationsRevenue/Appropriations-Report-2022-2023.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/Education/2018-School-Finance-Overview.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/FiscalFacts/2022-Fiscal-Facts.pdf",
-"http://kslegresearch.org/KLRD-web/Publications/HealthCare/MedicaidPrimer_01-17.pdf",
-"http://moran.senate.gov/",
-"https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf",
-"https://coronavirus.kdheks.gov/1/Home",
-"https://donotcall.gov/default.aspx",
-"https://facebook.com/MinnixforKansasHouse",
-"https://governor.kansas.gov/",
-"https://jimminnix.com/",
-"https://jimminnix.com/about-jim-minnix",
-"https://jimminnix.com/contact-jim",
-"https://jimminnix.com/donate",
-"https://jimminnix.com/jim-in-the-legislature",
-"https://jimminnix.com/jims-newsletters",
-"https://jimminnix.com/join-jims-mailing-list",
-"https://jimminnix.com/kansas-house-district-118",
-"https://jimminnix.com/legislative-highlights",
-"https://jimminnix.com/news-and-updates",
-"https://jimminnix.com/policy-resources",
-"https://jimminnix.com/resource-links",
-"https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg",
-"https://mann.house.gov/",
-"https://marshall.senate.gov/",
-"https://nsopw.gov/",
-"https://unclaimedproperty.ks.gov/"
+{
+"text": "2022-2023 Appropriations Report",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/AppropriationsRevenue/Appropriations-Report-2022-2023.pdf"
+},
+{
+"text": "About Jim",
+"href": "https://jimminnix.com/about-jim-minnix/"
+},
+{
+"text": "About the Legislature",
+"href": "http://www.kslegislature.org/li/about/"
+},
+{
+"text": "Contact",
+"href": "https://jimminnix.com/contact-jim/"
+},
+{
+"text": "Current Kansas Road Conditions",
+"href": "http://www.kandrive.org/kandrive"
+},
+{
+"text": "Donate",
+"href": "https://jimminnix.com/donate/"
+},
+{
+"text": "Find Your Legislator",
+"href": "http://www.kslegislature.org/li/b2021_22/members/"
+},
+{
+"text": "Home",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "House District 118",
+"href": "https://jimminnix.com/kansas-house-district-118/"
+},
+{
+"text": "How a Bill Becomes Law",
+"href": "http://kslegislature.org/li/s/pdf/how_bill_law.pdf"
+},
+{
+"text": "Jim Minnix for Kansas House",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "Jim in the Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Jim in the News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Jim’s Newsletters",
+"href": "https://jimminnix.com/jims-newsletters/"
+},
+{
+"text": "KDHE Coronavirus (COVID-19) Response",
+"href": "https://www.coronavirus.kdheks.gov/1/Home"
+},
+{
+"text": "KLRD Education Publications",
+"href": "http://www.kslegresearch.org/KLRD-web/Education.html"
+},
+{
+"text": "KanCare: Reinventing Medicare for Kansas",
+"href": "http://www.kancare.ks.gov/"
+},
+{
+"text": "Kansas Charity Check",
+"href": "http://www.kscharitycheck.org/"
+},
+{
+"text": "Kansas Fiscal Facts 2022",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/FiscalFacts/2022-Fiscal-Facts.pdf"
+},
+{
+"text": "Kansas Governor’s Office",
+"href": "https://governor.kansas.gov/"
+},
+{
+"text": "Kansas Legislative Guide",
+"href": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf"
+},
+{
+"text": "Kansas Legislature",
+"href": "http://www.kslegislature.org"
+},
+{
+"text": "Kansas Unclaimed Property",
+"href": "https://unclaimedproperty.ks.gov/"
+},
+{
+"text": "Legislative Highlights",
+"href": "https://jimminnix.com/legislative-highlights/"
+},
+{
+"text": "Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Listen in Live to the Kansas House",
+"href": "http://www.kslegislature.org/li/"
+},
+{
+"text": "Listing of State Agencies and Resources",
+"href": "http://kanview.ks.gov/AgencyListing.aspx"
+},
+{
+"text": "Medicaid Primer",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/HealthCare/MedicaidPrimer_01-17.pdf"
+},
+{
+"text": "Minnix for Kansas House",
+"href": "https://www.facebook.com/MinnixforKansasHouse/"
+},
+{
+"text": "Mobile Menu ↓",
+"href": "javascript:void(null);"
+},
+{
+"text": "News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Policy Resources",
+"href": "https://jimminnix.com/policy-resources/"
+},
+{
+"text": "Resource Links",
+"href": "https://jimminnix.com/resource-links/"
+},
+{
+"text": "School Finance Overview",
+"href": "http://www.kslegresearch.org/KLRD-web/Publications/Education/2018-School-Finance-Overview.pdf"
+},
+{
+"text": "Sex Offender Search",
+"href": "https://www.nsopw.gov/"
+},
+{
+"text": "State of Kansas Website",
+"href": "http://www.kansas.gov/"
+},
+{
+"text": "Subscribe to Jim’s mailing list",
+"href": "https://www.jimminnix.com/join-jims-mailing-list/"
+},
+{
+"text": "Telemarketing No-Call List",
+"href": "https://www.donotcall.gov/default.aspx"
+},
+{
+"text": "The Kansas House",
+"href": "http://www.kslegislature.org/li/b2021_22/chamber/house/"
+},
+{
+"text": "U.S. Congressman Tracey Mann",
+"href": "https://mann.house.gov/"
+},
+{
+"text": "U.S. Senator Jerry Moran",
+"href": "http://moran.senate.gov/"
+},
+{
+"text": "U.S. Senator Roger Marshall",
+"href": "https://www.marshall.senate.gov/"
+},
+{
+"text": "[image: Jim Minnix for Kansas House District 118][image: Jim Minnix for Kansas House District 118]",
+"href": "https://www.jimminnix.com"
+},
+{
+"text": "[image]",
+"href": "https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg"
+}
 ]

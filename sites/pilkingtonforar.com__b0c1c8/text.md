@@ -1,150 +1,52 @@
-Conservative Republican · District 45
-Pilkington
-State Representative · Johnson & Pope Counties
-100% Pro-Life
-NRA Rated A+
-Co-Chair · Joint Budget Peer Review
-5th Term · Since 2017
-Fighting for better healthcare, fiscal responsibility, the sanctity of life, and the values that make Arkansas a great place to live, work, and raise a family.
-100% Pro-Life · NRA A+ · Co-Chair, Joint Budget Peer Review · Chair, House Human Services Subcommittee · Co-Chair, AR Future Caucus · Serving District 45 Since 2017
-100%
-Pro-Life Record
-A+
-NRA Rating
-5th
-Term in Office
-Co-Chair
-Joint Budget Peer Review
-Chair
-House Human Services Subcommittee
-76.7%
-2024 Vote Share
-District 45 · 5th Term
-About
-Aaron Pilkington is a proud Arkansan, devoted husband to Emmaline, and father of four.
+Home About The Issues Legislation In Action In Office Contact Donate Home About The Issues Legislation In Action In Office Contact Donate Conservative Republican · District 45 Aaron Pilkington State Representative · Johnson & Pope Counties 100% Pro-Life NRA Rated A+ Co-Chair · Joint Budget Peer Review 5th Term · Since 2017 Fighting for better healthcare, fiscal responsibility, the sanctity of life, and the values that make Arkansas a great place to live, work, and raise a family.
+Meet Aaron His Record 100% Pro-Life · NRA A+ · Co-Chair, Joint Budget Peer Review · Chair, House Human Services Subcommittee · Co-Chair, AR Future Caucus · Serving District 45 Since 2017 100% Pro-Life Record A+ NRA Rating 5th Term in Office Co-Chair Joint Budget Peer Review Chair House Human Services Subcommittee 76.7% 2024 Vote Share District 45 · 5th Term About Meet Aaron Pilkington Aaron Pilkington is a proud Arkansan, devoted husband to Emmaline, and father of four.
 Born in Fort Smith in 1990, he built his career in healthcare administration, working for ARcare and earning his Master's degree from the University of Arkansas for Medical Sciences (UAMS).
 He brings that professional expertise to work for District 45 every session in the State Capitol.
 First elected in 2016, Aaron has served five consecutive terms in the Arkansas House representing portions of Johnson and Pope counties.
-In 2024 he won re-election with 76.7% of the vote.
-He holds an A+ rating from the NRA, maintains a 100% pro-life voting record, and serves as Chair of the House Human Services Subcommittee, Co-Chair of the Joint Budget Peer Review committee, and Co-Chair of the bipartisan Arkansas Future Caucus.
+In 2024 he won re-election with 76.7% of the vote .
+He holds an A+ rating from the NRA , maintains a 100% pro-life voting record , and serves as Chair of the House Human Services Subcommittee , Co-Chair of the Joint Budget Peer Review committee, and Co-Chair of the bipartisan Arkansas Future Caucus .
 Prior to running for office, Aaron served as a campaign manager for Republican candidates and was driven to seek office by a desire to represent conservative constituents more authentically — with limited government, individual responsibility, and empirical solutions for the real challenges facing rural Arkansas.
-Term
-NRA
-Pro-Life
-2024 Vote
-2017
-First Elected
-The Issues
-Aaron's priorities are shaped by the people of Johnson and Pope counties — hardworking Arkansans who deserve a representative who fights for them every single day.
-Core Conviction
-Aaron is 100% pro-life — without exception.
+5th Term A+ NRA 100% Pro-Life 76.7% 2024 Vote 2017 First Elected The Issues Where Aaron Stands Aaron's priorities are shaped by the people of Johnson and Pope counties — hardworking Arkansans who deserve a representative who fights for them every single day.
+Core Conviction Sanctity of Life Aaron is 100% pro-life — without exception.
 He believes every human life is sacred from conception to natural death and has a perfect pro-life voting record across every session in Little Rock.
 His Healthy Moms, Healthy Babies Act (Act 124) reflects his conviction that protecting life includes caring for mothers throughout pregnancy and beyond — investing $45.3 million annually in maternal health outcomes.
-100% Pro-Life
-Second Amendment
-Aaron holds an A+ rating from the National Rifle Association.
+100% Pro-Life Second Amendment Right to Keep and Bear Arms Aaron holds an A+ rating from the National Rifle Association.
 He sponsored the Aaron Pilkington Act (2023) protecting concealed carry rights for medical marijuana cardholders, championed Stand Your Ground legislation (2021), and authored the Second Amendment Financial Privacy Act to prevent financial institutions from tracking gun purchases.
 He will never compromise on the Second Amendment.
-NRA Rated A+
-Healthcare
-As a healthcare administrator at ARcare with a Master's from UAMS, Aaron is one of the most qualified voices on healthcare in the legislature.
+NRA Rated A+ Healthcare Access for Rural Arkansans As a healthcare administrator at ARcare with a Master's from UAMS, Aaron is one of the most qualified voices on healthcare in the legislature.
 He authored the Healthy Moms, Healthy Babies Act, expanded APRN delegation authority to address rural physician shortages, advanced the Interstate Medical Licensure Compact, and chairs the House Human Services Subcommittee directing reviews of social services statewide.
-Chair, Human Services Subcommittee
-Fiscal Policy
-As Co-Chair of the Joint Budget Peer Review committee, Aaron directly oversees how Arkansas spends its approximately $6.49 billion general revenue budget.
+Chair, Human Services Subcommittee Fiscal Policy Responsible Government Spending As Co-Chair of the Joint Budget Peer Review committee, Aaron directly oversees how Arkansas spends its approximately $6.49 billion general revenue budget.
 He co-sponsored the Grocery Tax Relief Act to eliminate the state grocery tax, has advanced income tax reduction legislation, and consistently fights to eliminate government waste while maintaining Arkansas's strong reserve funds.
-Co-Chair, Joint Budget Peer Review
-Bipartisan Leadership
-As Co-Chair of the bipartisan Arkansas Future Caucus, Aaron works with young legislators from both parties to develop long-range solutions to Arkansas's challenges — from healthcare and broadband access to workforce development and economic opportunity in rural communities.
-Co-Chair, Bipartisan
-District 45
-Aaron is committed to investment in Johnson and Pope counties — in infrastructure, broadband, and economic development.
+Co-Chair, Joint Budget Peer Review Bipartisan Leadership Arkansas Future Caucus As Co-Chair of the bipartisan Arkansas Future Caucus, Aaron works with young legislators from both parties to develop long-range solutions to Arkansas's challenges — from healthcare and broadband access to workforce development and economic opportunity in rural communities.
+Co-Chair, Bipartisan District 45 Rural Arkansas & Local Communities Aaron is committed to investment in Johnson and Pope counties — in infrastructure, broadband, and economic development.
 He co-sponsored the Grocery Tax Relief Act, the Generating Arkansas Jobs Act, and multiple economic development bills directing state funding toward new and small businesses.
 He stays deeply connected to Russellville, Clarksville, Knoxville, and the surrounding communities.
-His Record
-Aaron has sponsored or co-sponsored dozens of bills across five terms.
+His Record Landmark Legislation Aaron has sponsored or co-sponsored dozens of bills across five terms.
 Below are the major pieces of legislation he has led — many now signed into Arkansas law.
-HB1427 · Act 124 of 2025
-Aaron's signature legislation.
+HB1427 · Act 124 of 2025 Healthy Moms, Healthy Babies Act Aaron's signature legislation.
 Signed into law, this act invests an estimated $45.3 million annually to combat Arkansas's low national rankings in maternal and infant health.
 It extends postpartum Medicaid coverage from 60 days to one full year, establishes presumptive eligibility for pregnant women, unbundles global maternity payments to increase rural provider participation, and expands reimbursement for remote ultrasounds and fetal nonstress tests.
-Signed into Law
-HB1046 · Act 16 of 2025
-Establishes Arkansas's Blue Envelope Program, equipping individuals with autism or other communication challenges with a blue envelope containing key personal and medical information to facilitate safe, informed interactions with law enforcement during traffic stops.
-Signed into Law
-HB1131 · Act 959 of 2025
-Authorizes Advanced Practice Registered Nurses to delegate certain clinical tasks to medical assistants and other unlicensed staff, expanding the capacity of rural healthcare providers and addressing physician shortages in underserved areas of Arkansas.
-Signed into Law
-HB1690 · Act 583 of 2025
-Transfers the Nuclear Planning and Response Program from the Department of Health to the Division of Emergency Management, streamlining emergency response coordination and ensuring clearer lines of authority in the event of a nuclear or radiological incident in Arkansas.
-Signed into Law
-HB1455 · Act 500 of 2025
-Authorizes certain private clubs to purchase products directly from small brewery permit holders under exclusive agreements, supporting Arkansas's small business and craft brewing sector.
-Signed into Law
-HB1443 · 2025 Session
-Sought to bar financial institutions and payment networks from imposing merchant category codes on firearm and ammunition transactions, preventing de facto tracking and discrimination against law-abiding gun purchasers.
+Signed into Law HB1046 · Act 16 of 2025 Blue Envelope Program Establishes Arkansas's Blue Envelope Program, equipping individuals with autism or other communication challenges with a blue envelope containing key personal and medical information to facilitate safe, informed interactions with law enforcement during traffic stops.
+Signed into Law HB1131 · Act 959 of 2025 Advanced Practice Registered Nurses — Delegation Authority Authorizes Advanced Practice Registered Nurses to delegate certain clinical tasks to medical assistants and other unlicensed staff, expanding the capacity of rural healthcare providers and addressing physician shortages in underserved areas of Arkansas.
+Signed into Law HB1690 · Act 583 of 2025 Nuclear Planning Transfer — Emergency Management Transfers the Nuclear Planning and Response Program from the Department of Health to the Division of Emergency Management, streamlining emergency response coordination and ensuring clearer lines of authority in the event of a nuclear or radiological incident in Arkansas.
+Signed into Law HB1455 · Act 500 of 2025 Private Clubs & Small Brewery Direct Sales Authorizes certain private clubs to purchase products directly from small brewery permit holders under exclusive agreements, supporting Arkansas's small business and craft brewing sector.
+Signed into Law HB1443 · 2025 Session Second Amendment Financial Privacy Act Sought to bar financial institutions and payment networks from imposing merchant category codes on firearm and ammunition transactions, preventing de facto tracking and discrimination against law-abiding gun purchasers.
 Backed by the NRA.
-Advocacy Continues
-HB1784 · Aaron Pilkington Act · 2023
-Prohibits state agencies from denying concealed carry permits to medical marijuana cardholders solely based on their status.
+Advocacy Continues HB1784 · Aaron Pilkington Act · 2023 Second Amendment Rights for Medical Marijuana Cardholders Prohibits state agencies from denying concealed carry permits to medical marijuana cardholders solely based on their status.
 Signed into law on March 13, 2023, affirming that Arkansas state law protects the Second Amendment rights of law-abiding medical patients.
-Signed into Law
-Full Record
-The following bills sponsored or co-sponsored by Rep.
+Signed into Law Full Record Bills Signed into Law — 95th General Assembly The following bills sponsored or co-sponsored by Rep.
 Pilkington were enacted into Arkansas law during the 2025 legislative session.
-| Act | Bill | Title | Role |
-|---|---|---|---|
-| Act 16 | HB1046 | Blue Envelope Program | Primary Sponsor |
-| Act 124 | HB1427 | Healthy Moms, Healthy Babies Act | Primary Sponsor |
-| Act 500 | HB1455 | Private Clubs & Small Brewery Direct Sales | Primary Sponsor |
-| Act 583 | HB1690 | Nuclear Planning Transfer to Emergency Management | Primary Sponsor |
-| Act 959 | HB1131 | APRN Delegation to Medical Assistants | Primary Sponsor |
-| Act 123 | SB59 | Free Student Breakfast Program | Primary Sponsor (Senate) |
-| Act 140 | SB213 | Healthy Moms, Healthy Babies Act (Senate companion) | Primary Sponsor (Senate) |
-| Act 269 | SB119 | Interstate Medical Licensure Compact | Primary Sponsor (Senate) |
-| Act 491 | SB305 | Marijuana Product Testing Requirements | Primary Sponsor (Senate) |
-| Act 567 | SB348 | Diagnostic Laboratory Services Medicaid Cap | Primary Sponsor (Senate) |
-| Act 591 | SB322 | Third-Party Plan Reviews & Site Inspections | Primary Sponsor (Senate) |
-| Act 623 | SB576 | Continuous Glucose Monitor Medicaid Coverage | Primary Sponsor (Senate) |
-| Act 885 | SB241 | Paid Bereavement Leave for Public Employees | Primary Sponsor (Senate) |
-| Act 28 | HB1204 | Recovery of Damages for Medical Care | Co-Sponsor |
-| Act 158 | HB1437 | Sex Offender Restrictions at Water Parks & Playgrounds | Co-Sponsor |
-| Act 302 | HB1489 | Nitrogen Gas Execution Method | Co-Sponsor |
-| Act 473 | HB1561 | Research and Education Protection Act of 2025 | Co-Sponsor |
-| Act 604 | HB1745 | Commercial Driver License & English Proficiency Requirements | Co-Sponsor |
-| Act 622 | SB9 | Make Arkansas Healthy Again Act (food additive prohibitions) | Co-Sponsor (Senate) |
-| Act 701 | SB530 | Wood Energy Products & Forest Maintenance Tax Credit | Co-Sponsor (Senate) |
-| Act 709 | HB1657 | Wood Energy Products Tax Credit | Co-Sponsor |
-| Act 774 | SB527 | Medicaid Provider-Led Organized Care — Medical Loss Ratio | Co-Sponsor (Senate) |
-| Act 806 | HB1680 | Foreign Party Land Ownership Prohibitions | Co-Sponsor |
-| Act 811 | HB1679 | Revised Anatomical Gift Act Amendments | Co-Sponsor |
-| Act 827 | HB1529 | Deepfake Criminal Offense & Civil Cause of Action | Co-Sponsor |
-| Act 833 | HB1833 | University of Arkansas College of Medicine Admissions | Co-Sponsor |
-| Act 937 | HB1352 | Actions Related to Certain Foreign Entities | Co-Sponsor |
-| Act 943 | HB1604 | Prohibition on Chinese-Made Promotional Items with Public Funds | Co-Sponsor |
-| Act 1008 | HB1685 | Grocery Tax Relief Act — Grocery Sales Tax Exemption | Co-Sponsor |
-In Action
-In Office
-For the 95th General Assembly, Rep.
+Act Bill Title Role Act 16 HB1046 Blue Envelope Program Primary Sponsor Act 124 HB1427 Healthy Moms, Healthy Babies Act Primary Sponsor Act 500 HB1455 Private Clubs & Small Brewery Direct Sales Primary Sponsor Act 583 HB1690 Nuclear Planning Transfer to Emergency Management Primary Sponsor Act 959 HB1131 APRN Delegation to Medical Assistants Primary Sponsor Act 123 SB59 Free Student Breakfast Program Primary Sponsor (Senate) Act 140 SB213 Healthy Moms, Healthy Babies Act (Senate companion) Primary Sponsor (Senate) Act 269 SB119 Interstate Medical Licensure Compact Primary Sponsor (Senate) Act 491 SB305 Marijuana Product Testing Requirements Primary Sponsor (Senate) Act 567 SB348 Diagnostic Laboratory Services Medicaid Cap Primary Sponsor (Senate) Act 591 SB322 Third-Party Plan Reviews & Site Inspections Primary Sponsor (Senate) Act 623 SB576 Continuous Glucose Monitor Medicaid Coverage Primary Sponsor (Senate) Act 885 SB241 Paid Bereavement Leave for Public Employees Primary Sponsor (Senate) Act 28 HB1204 Recovery of Damages for Medical Care Co-Sponsor Act 158 HB1437 Sex Offender Restrictions at Water Parks & Playgrounds Co-Sponsor Act 302 HB1489 Nitrogen Gas Execution Method Co-Sponsor Act 473 HB1561 Research and Education Protection Act of 2025 Co-Sponsor Act 604 HB1745 Commercial Driver License & English Proficiency Requirements Co-Sponsor Act 622 SB9 Make Arkansas Healthy Again Act (food additive prohibitions) Co-Sponsor (Senate) Act 701 SB530 Wood Energy Products & Forest Maintenance Tax Credit Co-Sponsor (Senate) Act 709 HB1657 Wood Energy Products Tax Credit Co-Sponsor Act 774 SB527 Medicaid Provider-Led Organized Care — Medical Loss Ratio Co-Sponsor (Senate) Act 806 HB1680 Foreign Party Land Ownership Prohibitions Co-Sponsor Act 811 HB1679 Revised Anatomical Gift Act Amendments Co-Sponsor Act 827 HB1529 Deepfake Criminal Offense & Civil Cause of Action Co-Sponsor Act 833 HB1833 University of Arkansas College of Medicine Admissions Co-Sponsor Act 937 HB1352 Actions Related to Certain Foreign Entities Co-Sponsor Act 943 HB1604 Prohibition on Chinese-Made Promotional Items with Public Funds Co-Sponsor Act 1008 HB1685 Grocery Tax Relief Act — Grocery Sales Tax Exemption Co-Sponsor In Action Aaron at the Capitol Speaking with constituents Addressing the chamber Committee hearing Rep.
+Pilkington — House House session Healthy Moms, Healthy Babies — Act 124 of 2025 Working across the aisle Joint Budget Peer Review Building coalitions Working the floor In Office Committee Service & Leadership For the 95th General Assembly, Rep.
 Pilkington holds leadership roles on committees shaping healthcare, state finances, and local governance across Arkansas.
-Chair · Leadership
-(under Public Health, Welfare & Labor)
-Aaron chairs the House Human Services Subcommittee, directing targeted reviews of Arkansas social services and welfare programs.
+Chair · Leadership House Human Services Subcommittee (under Public Health, Welfare & Labor) Aaron chairs the House Human Services Subcommittee, directing targeted reviews of Arkansas social services and welfare programs.
 Drawing on his background in healthcare administration, he brings professional expertise to oversight of the programs that serve the state's most vulnerable residents.
-Co-Chair · Leadership
-As Co-Chair of the Joint Budget Peer Review committee, Aaron oversees scrutiny of Arkansas state agency spending across the approximately $6.49 billion general revenue budget.
+Co-Chair · Leadership Joint Budget Peer Review As Co-Chair of the Joint Budget Peer Review committee, Aaron oversees scrutiny of Arkansas state agency spending across the approximately $6.49 billion general revenue budget.
 He focuses on identifying inefficiencies, resisting unfunded mandates, and ensuring every taxpayer dollar is spent with accountability and purpose.
-Co-Chair · Bipartisan
-Aaron co-chairs the bipartisan Arkansas Future Caucus, a network of young legislators from both parties committed to long-range, innovative solutions to Arkansas's most pressing long-term challenges — from rural healthcare and workforce development to infrastructure and economic growth.
-Member
-Aaron serves on the full committee, leveraging his Master's in Healthcare Administration from UAMS and his career at ARcare to contribute to deliberations on healthcare delivery, labor regulations, and welfare policy affecting all Arkansans.
-Aaron works directly with local government leaders from Johnson and Pope counties, ensuring state policy serves the needs of District 45's cities, towns, and rural communities — on issues from municipal governance to local infrastructure funding.
-Contact
-District Office264 Private Road 2611
-Knoxville, AR 72845
-Knoxville, AR 72845
-Capitol Office500 Woodlane St., Suite 350
-Little Rock, AR 72201
-Little Rock, AR 72201
-District Phone(479) 308-8384
-Capitol Phone(501) 682-6211
+Co-Chair · Bipartisan Arkansas Future Caucus Aaron co-chairs the bipartisan Arkansas Future Caucus, a network of young legislators from both parties committed to long-range, innovative solutions to Arkansas's most pressing long-term challenges — from rural healthcare and workforce development to infrastructure and economic growth.
+Member House Public Health, Welfare & Labor Committee Aaron serves on the full committee, leveraging his Master's in Healthcare Administration from UAMS and his career at ARcare to contribute to deliberations on healthcare delivery, labor regulations, and welfare policy affecting all Arkansans.
+Member House City, County & Local Affairs Committee Aaron works directly with local government leaders from Johnson and Pope counties, ensuring state policy serves the needs of District 45's cities, towns, and rural communities — on issues from municipal governance to local infrastructure funding.
+Stay Connected Join the Newsletter Get updates straight from the Capitol on the issues that matter to District 45.
+No spam — just news you can use.
+Subscribe Contact Get in Touch Reach Rep.
+Pilkington D District Office 264 Private Road 2611 Knoxville, AR 72845 C Capitol Office 500 Woodlane St., Suite 350 Little Rock, AR 72201 P District Phone (479) 308-8384 P Capitol Phone (501) 682-6211 E Email aaron.pilkington@arkansashouse.org Send Message State Representative · Arkansas House District 45 · Johnson & Pope Counties Republican · 100% Pro-Life · NRA A+ · Co-Chair, Joint Budget Peer Review · Chair, House Human Services Subcommittee aaron.pilkington@arkansashouse.org · (479) 308-8384 Paid for by Pilkington for AR · Not authorized by any candidate or candidate's committee.

@@ -1,5 +1,4 @@
-Dear Friends,
-These are days that history will remember.
+Support Shelly About Shelly Issues Better Public Education Public Safety & Criminal Justice Health & Wellness Jobs, Housing & Economic Development Our Debt to Seniors Protecting the Environment & Our Democracy Resources & Scholarships Events Latest News Shelly in the News Updates from Shelly Stay in Touch Select Page Sweater Weather, Stronger Together Oct 15, 2025 Dear Friends, These are days that history will remember.
 Yesterday was incredibly emotional as we witnessed the return of 20 living Israeli hostages to their loved ones.
 And we mourn, as the remains of 28 hostages await return to their families.
 I am cautiously optimistic that the fragile ceasefire will take hold, and negotiations will continue to bring stability, security, rebuilding, and healing to Israel and to Gaza, both of which have long days ahead recovering from the trauma of the past two years.
@@ -13,6 +12,6 @@ If you or someone you know are experiencing hardship due to the shutdown, there 
 We have outlined what is available and where to go for help below.
 As always, please let us know if our office can be of assistance in any way.
 Shelly L.
-Hettleman
-Senator, District 11
-Check out the full newsletter here.
+Hettleman Senator, District 11 Check out the full newsletter here .
+Search for: Recent Posts Maryland prisons rank among nation’s worst for killings APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch Wrapping it Up Legislature Passes Bill for Jewish & Muslim Heritage Months Maryland climate-aligned transportation bill gains momentum in Senate Recent Comments Facebook Twitter © # Shelly Hettleman.
+Web Design by Web Interactive Technologies Paid by Friends of Shelly Hettleman, Caren Lichter, Treasurer.

@@ -1,7 +1,9 @@
 {
  "description": "A searchable, plain-text browser of North Carolina's 2026 state budget. Every item links to the bill's own words.",
  "final_url": "https://andycantwin.com/budget/",
- "paid_for_by": null,
+ "fingerprint": "b99b7ebc749fcdc78a3f71383b4392a434663ebf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "NC Budget Browser: Senate Bill 257 (2026 Appropriations Act)",
  "years_mentioned": []
 }

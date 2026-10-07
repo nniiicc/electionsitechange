@@ -1,14 +1,50 @@
 [
-"https://charliehatcher.com/",
-"https://charliehatcher.com/Contact",
-"https://charliehatcher.com/about",
-"https://charliehatcher.com/contact-page",
-"https://charliehatcher.com/media",
-"https://charliehatcher.com/platform",
-"https://charliehatcher.com/wp-content/uploads/2025/11/Charlie-Hatcher-for-Congress-Contribution-Form.pdf",
-"https://charliehatcher.com/wp-content/uploads/2026/09/2026_HATCHER_Contribution_Form_Red5_08.21.26.pdf",
-"https://facebook.com/profile.php?id=61581980624788",
-"https://instagram.com/hatcherforcongress/%20",
-"https://secure.winred.com/charlie-hatcher-for-congress/donate-today",
-"https://x.com/HatcherforTN"
+{
+"text": "About",
+"href": "https://charliehatcher.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://charliehatcher.com/contact-page/"
+},
+{
+"text": "Donate By Mail",
+"href": "https://charliehatcher.com/wp-content/uploads/2026/09/2026_HATCHER_Contribution_Form_Red5_08.21.26.pdf"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.winred.com/charlie-hatcher-for-congress/donate-today"
+},
+{
+"text": "Donate by mail",
+"href": "https://charliehatcher.com/wp-content/uploads/2025/11/Charlie-Hatcher-for-Congress-Contribution-Form.pdf"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61581980624788"
+},
+{
+"text": "Home",
+"href": "https://charliehatcher.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/hatcherforcongress/%20"
+},
+{
+"text": "Media",
+"href": "https://charliehatcher.com/media/"
+},
+{
+"text": "Platform",
+"href": "https://charliehatcher.com/platform/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://charliehatcher.com/Contact/"
+},
+{
+"text": "X",
+"href": "https://x.com/HatcherforTN"
+}
 ]

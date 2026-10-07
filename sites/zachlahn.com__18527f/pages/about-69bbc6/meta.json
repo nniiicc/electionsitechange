@@ -1,7 +1,15 @@
 {
  "description": "Zach Lahn isn't just another politician - he's a 6th-generation Iowan, father, farmer, and businessman with deep family roots. His biggest donor? Himself.",
  "final_url": "https://www.zachlahn.com/about/",
+ "fingerprint": "4f2d987cdf4ed4c013f77a1c3b09de2acfd6d6dd",
+ "format": 3,
  "paid_for_by": "PAID FOR BY LAHN FOR GOVERNOR",
  "title": "About | Zach Lahn For Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "1990",
+  "2005",
+  "2014",
+  "2016",
+  "2020"
+ ]
 }

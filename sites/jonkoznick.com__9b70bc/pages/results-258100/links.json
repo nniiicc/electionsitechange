@@ -1,13 +1,50 @@
 [
-"https://facebook.com/HorsesForMentalHealth/videos/6281625801872413",
-"https://jonkoznick.com/",
-"https://jonkoznick.com/endorsements",
-"https://jonkoznick.com/general-9",
-"https://jonkoznick.com/get-involved",
-"https://jonkoznick.com/news",
-"https://jonkoznick.com/priorities",
-"https://jonkoznick.com/results",
-"https://jonkoznick.com/teamkoz",
-"https://jonkoznick.com/vote",
-"https://secure.anedot.com/jon-koznick-for-house/donate"
+{
+"text": "#TeamKozMN",
+"href": "https://www.jonkoznick.com/teamkoz"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jon-koznick-for-house/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonkoznick.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonkoznick.com/get-involved"
+},
+{
+"text": "Here is a short video link",
+"href": "https://www.facebook.com/HorsesForMentalHealth/videos/6281625801872413/"
+},
+{
+"text": "Home",
+"href": "https://www.jonkoznick.com"
+},
+{
+"text": "News",
+"href": "https://www.jonkoznick.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jonkoznick.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jonkoznick.com/general-9"
+},
+{
+"text": "Results",
+"href": "https://www.jonkoznick.com/results"
+},
+{
+"text": "See Results",
+"href": "https://www.jonkoznick.com/results#anchor1"
+},
+{
+"text": "Vote",
+"href": "https://www.jonkoznick.com/vote"
+}
 ]

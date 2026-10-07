@@ -1,13 +1,58 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://tiktok.com/",
-"https://twitter.com/",
-"https://yourvoiceguam.com/",
-"https://yourvoiceguam.com/about",
-"https://yourvoiceguam.com/donate",
-"https://yourvoiceguam.com/events",
-"https://yourvoiceguam.com/platform",
-"https://yourvoiceguam.com/press",
-"https://yourvoiceguam.com/village"
+{
+"text": "About",
+"href": "https://yourvoiceguam.com/about/"
+},
+{
+"text": "Act",
+"href": "https://yourvoiceguam.com"
+},
+{
+"text": "Donate",
+"href": "https://yourvoiceguam.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://yourvoiceguam.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com"
+},
+{
+"text": "Home",
+"href": "https://yourvoiceguam.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com"
+},
+{
+"text": "Join us",
+"href": "https://yourvoiceguam.com"
+},
+{
+"text": "My Website",
+"href": "https://yourvoiceguam.com"
+},
+{
+"text": "Platform",
+"href": "https://yourvoiceguam.com/platform/"
+},
+{
+"text": "Press",
+"href": "https://yourvoiceguam.com/press/"
+},
+{
+"text": "TikTok",
+"href": "https://tiktok.com"
+},
+{
+"text": "Village",
+"href": "https://yourvoiceguam.com/village/"
+},
+{
+"text": "X",
+"href": "https://twitter.com"
+}
 ]

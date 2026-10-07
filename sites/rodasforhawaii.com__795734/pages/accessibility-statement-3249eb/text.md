@@ -1,31 +1,11 @@
-Accessibility Statement
-Rodas for Hawaii
-Effective Date: January 1, 2026
-Our Commitment
-Rodas for Hawaii is committed to ensuring that our website is accessible to all individuals, including people with disabilities.
-We believe access to information is part of serving our community, and we are working to make our website as inclusive and user-friendly as possible.
-Accessibility Efforts
-Our website is built using Wix and follows general accessibility best practices.
-We have taken steps to support usability for a wide range of visitors, including:
-- Providing alternative text for images
-- Using clear headings and structured content
-- Maintaining readable font sizes
-- Designing with sufficient color contrast
-- Ensuring simple and consistent navigation
-- Optimizing for mobile devices
-- Including captions on video content where applicable
-Ongoing Improvements
-Accessibility is an ongoing effort.
-While we strive to improve usability over time, we recognize that some areas of the website may not yet fully meet all accessibility standards.
-We are committed to continuing to evaluate and enhance accessibility as the site evolves.
-Feedback & Assistance
-If you experience any difficulty accessing content on this website or need assistance, we encourage you to contact us.
+top of page DONATE GET INVOLVED State House District 49 Kāne'ohe | Maunawili About Me Community Events More Community News Get Your Free Bumper Sticker Community Survey Register to Vote Community News Get Your Free Bumper Sticker Community Survey Register to Vote GET INVOLVED DONATE Accessibility Statement Rodas for Hawaii Effective Date: January 1, 2026 Our Commitment Rodas for Hawaii is committed to ensuring that our website is accessible to all individuals, including people with disabilities. ​ We believe access to information is part of serving our community, and we are working to make our website as inclusive and user-friendly as possible.
+Accessibility Efforts Our website is built using Wix and follows general accessibility best practices.
+We have taken steps to support usability for a wide range of visitors, including: Providing alternative text for images Using clear headings and structured content Maintaining readable font sizes Designing with sufficient color contrast Ensuring simple and consistent navigation Optimizing for mobile devices Including captions on video content where applicable Ongoing Improvements Accessibility is an ongoing effort.
+While we strive to improve usability over time, we recognize that some areas of the website may not yet fully meet all accessibility standards. ​ We are committed to continuing to evaluate and enhance accessibility as the site evolves.
+Feedback & Assistance If you experience any difficulty accessing content on this website or need assistance, we encourage you to contact us.
 Your feedback helps us improve.
-Email: rodasforhawaii@gmail.com
-Phone: (808) 795-5321
-We will make reasonable efforts to address your concerns and provide the information you need in an accessible format.
-Compatibility
-This website is designed to be compatible with modern browsers and commonly used assistive technologies.
+Email: rodasforhawaii@gmail.com Phone: (808) 795-5321 We will make reasonable efforts to address your concerns and provide the information you need in an accessible format.
+Compatibility This website is designed to be compatible with modern browsers and commonly used assistive technologies.
 Performance may vary depending on the browser, device, or assistive tools used.
-Updates
-This Accessibility Statement may be updated periodically to reflect improvements or changes to our website.
+Updates This Accessibility Statement may be updated periodically to reflect improvements or changes to our website.
+Stay Informed >> Privacy Policy Accessibility Statement ale@rodasforhawaii.com Terms & Conditions 808-795-5321 Paid for by Rodas for Hawaii PO Box 1581, Kaneohe, HI 96744 © # by Rodas for Hawaii bottom of page

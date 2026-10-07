@@ -1,18 +1,78 @@
 [
-"https://facebook.com/SlingshotCreativeGroup",
-"https://instagram.com/margaret_mitchell406",
-"https://linkedin.com/in/margaretcmitchell",
-"https://mitchell406.com/",
-"https://mitchell406.com/about",
-"https://mitchell406.com/contact",
-"https://mitchell406.com/event/cascade-county-compensation-board-meeting",
-"https://mitchell406.com/event/local-and-state-democratic-candidates-townhall",
-"https://mitchell406.com/event/mansfield-dinner",
-"https://mitchell406.com/events",
-"https://mitchell406.com/events/month",
-"https://mitchell406.com/events/month/2026-09",
-"https://mitchell406.com/gallery",
-"https://mitchell406.com/voting-information-for-cascade-county",
-"https://mitchell406.printify.me/",
-"https://secure.actblue.com/donate/mitchell406"
+{
+"text": "About",
+"href": "https://mitchell406.com/about/"
+},
+{
+"text": "CONTRIBUTE!",
+"href": "https://secure.actblue.com/donate/mitchell406"
+},
+{
+"text": "Cascade County Compensation Board Meeting",
+"href": "https://mitchell406.com/event/cascade-county-compensation-board-meeting/"
+},
+{
+"text": "Contact",
+"href": "https://mitchell406.com/contact/"
+},
+{
+"text": "DONATE NOW!",
+"href": "https://secure.actblue.com/donate/mitchell406"
+},
+{
+"text": "Events",
+"href": "https://mitchell406.com/events/"
+},
+{
+"text": "Gallery",
+"href": "https://mitchell406.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://mitchell406.com/"
+},
+{
+"text": "Local and State Democratic Candidates Townhall",
+"href": "https://mitchell406.com/event/local-and-state-democratic-candidates-townhall/"
+},
+{
+"text": "Mansfield Dinner",
+"href": "https://mitchell406.com/event/mansfield-dinner/"
+},
+{
+"text": "Month",
+"href": "https://mitchell406.com/events/month/"
+},
+{
+"text": "SWAG!",
+"href": "https://mitchell406.printify.me/"
+},
+{
+"text": "Slingshot Creative Group",
+"href": "https://www.facebook.com/SlingshotCreativeGroup"
+},
+{
+"text": "This Month",
+"href": "https://mitchell406.com/events/month/"
+},
+{
+"text": "Voting Info",
+"href": "https://mitchell406.com/voting-information-for-cascade-county/"
+},
+{
+"text": "[image] [image] [image]",
+"href": "https://mitchell406.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/margaret_mitchell406/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/margaretcmitchell/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://mitchell406.com/events/month/2026-09/"
+}
 ]

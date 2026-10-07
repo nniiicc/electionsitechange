@@ -1,26 +1,110 @@
 [
-"http://squarespace.com/?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3",
-"https://docs.google.com/document/d/11V65UnLnyWW2lIclZvlGiZ6gsa_aqERqgvCyFL7t0Iw/edit",
-"https://everytown.org/press/everytown-for-gun-safety-endorses-latest-round-of-moms-demand-action-volunteers-running-for-office-3",
-"https://facebook.com/profile.php?id=61553641537071",
-"https://genderjusticeaction.us/gjapac",
-"https://greeneforminnesota.com/",
-"https://greeneforminnesota.com/aboutjulie",
-"https://greeneforminnesota.com/endorsements",
-"https://greeneforminnesota.com/getoutthevote",
-"https://greeneforminnesota.com/new-page-1",
-"https://greeneforminnesota.com/news",
-"https://greeneforminnesota.com/support",
-"https://hometownsource.com/sun_current/free/letter-greene-is-an-exemplary-leader/article_731e4a7c-0273-11ef-aee3-6b5794d3e1e4.html",
-"https://hometownsource.com/sun_current/free/letter-julie-greene-for-district-50a/article_0c3ceb88-0273-11ef-a07f-e79fb1cc9508.html",
-"https://hometownsource.com/sun_current/free/letter-support-julie-greene-for-district-50a/article_aed05826-d280-11ee-b3d2-a7c448e0d211.html",
-"https://house.mn.gov/dflpdf/Bill%20aims%20to%20limit%20costly,%20time-intensive%20data%20requests%20to%20schools%20-%20Session%20Daily%20-%20Minnesota%20House%20of%20Representatives.pdf",
-"https://house.mn.gov/sessiondaily/Story/18751",
-"https://instagram.com/greeneformn",
-"https://kstp.com/kstp-news/top-news/special-session-minnesota-lawmakers-pass-safety-legislation-for-schools",
-"https://mnaflcio.org/updates/minnesota-afl-cio-makes-first-round-2024-legislative-endorsements",
-"https://secure.actblue.com/donate/julie-greene-for-minnesota-1",
-"https://twitter.com/MYDFL/status/1773756221427699968",
-"https://womenwinning.org/",
-"https://womenwinning.org/press-releases/women-winning-announces-endorsement-of-julie-greene-and-isabel-rolfes-for-the-minnesota-house-of-representatives-in-2024"
+{
+"text": "A",
+"href": "https://womenwinning.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/julie-greene-for-minnesota-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.greeneforminnesota.com/endorsements"
+},
+{
+"text": "Full Text",
+"href": "https://www.hometownsource.com/sun_current/free/letter-greene-is-an-exemplary-leader/article_731e4a7c-0273-11ef-aee3-6b5794d3e1e4.html"
+},
+{
+"text": "Full Text",
+"href": "https://www.hometownsource.com/sun_current/free/letter-julie-greene-for-district-50a/article_0c3ceb88-0273-11ef-a07f-e79fb1cc9508.html"
+},
+{
+"text": "Full Text",
+"href": "https://www.hometownsource.com/sun_current/free/letter-support-julie-greene-for-district-50a/article_aed05826-d280-11ee-b3d2-a7c448e0d211.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.greeneforminnesota.com/support"
+},
+{
+"text": "In The News",
+"href": "https://www.greeneforminnesota.com/news"
+},
+{
+"text": "Learn more",
+"href": "https://docs.google.com/document/d/11V65UnLnyWW2lIclZvlGiZ6gsa_aqERqgvCyFL7t0Iw/edit"
+},
+{
+"text": "Learn more",
+"href": "https://twitter.com/MYDFL/status/1773756221427699968"
+},
+{
+"text": "Learn more",
+"href": "https://womenwinning.org/press-releases/women-winning-announces-endorsement-of-julie-greene-and-isabel-rolfes-for-the-minnesota-house-of-representatives-in-2024/"
+},
+{
+"text": "Learn more",
+"href": "https://www.everytown.org/press/everytown-for-gun-safety-endorses-latest-round-of-moms-demand-action-volunteers-running-for-office-3/"
+},
+{
+"text": "Learn more",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "Learn more",
+"href": "https://www.mnaflcio.org/updates/minnesota-afl-cio-makes-first-round-2024-legislative-endorsements"
+},
+{
+"text": "Meet Julie",
+"href": "https://www.greeneforminnesota.com/aboutjulie"
+},
+{
+"text": "Priorities",
+"href": "https://www.greeneforminnesota.com/new-page-1"
+},
+{
+"text": "SQUARESPACE",
+"href": "http://www.squarespace.com?channel=word_of_mouth&subchannel=customer&campaign=4fd1028ee4b02be53c65dfb3"
+},
+{
+"text": "VOTER TOOLBOX",
+"href": "https://www.greeneforminnesota.com/getoutthevote"
+},
+{
+"text": "[image: 'Seconds matter': House bill seeks to equip MN schools with emergency lock boxes][image: 'Seconds matter': House bill seeks to equip MN schools with emergency lock boxes]",
+"href": "https://www.house.mn.gov/sessiondaily/Story/18751"
+},
+{
+"text": "[image: Bill aims to limit costly, time-intensive data requests to schools][image: Bill aims to limit costly, time-intensive data requests to schools]",
+"href": "https://www.house.mn.gov/dflpdf/Bill%20aims%20to%20limit%20costly,%20time-intensive%20data%20requests%20to%20schools%20-%20Session%20Daily%20-%20Minnesota%20House%20of%20Representatives.pdf"
+},
+{
+"text": "[image: Everytown for Gun Safety Endorses Latest Round of Moms Demand Action Volunteers Running for Office]",
+"href": "https://www.everytown.org/press/everytown-for-gun-safety-endorses-latest-round-of-moms-demand-action-volunteers-running-for-office-3/"
+},
+{
+"text": "[image: Greene for Minnesota]",
+"href": "https://www.greeneforminnesota.com/"
+},
+{
+"text": "[image: KSTP-TV: Bonding Bill aims to make schools safer][image: KSTP-TV: Bonding Bill aims to make schools safer]",
+"href": "https://kstp.com/kstp-news/top-news/special-session-minnesota-lawmakers-pass-safety-legislation-for-schools/"
+},
+{
+"text": "[image: MINNESOTA AFL-CIO MAKES FIRST ROUND OF 2024 LEGISLATIVE ENDORSEMENTS Press Release]",
+"href": "https://www.mnaflcio.org/updates/minnesota-afl-cio-makes-first-round-2024-legislative-endorsements"
+},
+{
+"text": "[image]",
+"href": "https://www.genderjusticeaction.us/gjapac/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61553641537071"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/greeneformn"
+}
 ]

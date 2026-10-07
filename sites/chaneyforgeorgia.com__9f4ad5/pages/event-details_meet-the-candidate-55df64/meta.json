@@ -1,7 +1,9 @@
 {
- "description": "You\u2019re Invited!",
+ "description": "You’re Invited!",
  "final_url": "https://www.chaneyforgeorgia.com/event-details/meet-the-candidate",
- "paid_for_by": null,
+ "fingerprint": "361e6c24603898e4b099899a415dbecdf6fa1b0a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet the Candidate | Chaney For Georgia",
  "years_mentioned": [
   "2026"

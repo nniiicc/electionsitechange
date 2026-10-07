@@ -1,3 +1,4 @@
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now Politician or Public Servant?
 A politician loves political games, but a public servant loves serving the people.
 I’m here to work, not play games.
 In government, all decisions should come down to only two things – policy or ethics.
@@ -10,5 +11,5 @@ Therefore, I always try to maintain a spirit of humility and an open mind for li
 That includes interpreting scripture, because not every issue we face in society today will have a perfectly clear answer.
 It is written that I will give an account of myself before God.
 It will not be a perfect account, and for that I’m thankful for His forgiveness and redeeming grace.
-But once the answer is clear to me on ethical issues, I will not deviate from what I believe to be right in God’s eyes.
-~ Adam Smith
+But once the answer is clear to me on ethical issues, I will not deviate from what I believe to be right in God’s eyes. ~ Adam Smith Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

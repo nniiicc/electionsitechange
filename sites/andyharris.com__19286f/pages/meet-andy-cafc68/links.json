@@ -1,6 +1,22 @@
 [
-"https://andyharris.com/",
-"https://andyharris.com/getting-results",
-"https://andyharris.com/meet-andy",
-"https://secure.anedot.com/andy-harris-for-congress/andy-harris-for-congress"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/andy-harris-for-congress/andy-harris-for-congress"
+},
+{
+"text": "Getting Results",
+"href": "https://andyharris.com/getting-results"
+},
+{
+"text": "Home",
+"href": "https://andyharris.com/"
+},
+{
+"text": "Meet Andy",
+"href": "https://andyharris.com/meet-andy"
+},
+{
+"text": "[image: Andy Harris for Congress]",
+"href": "https://andyharris.com/"
+}
 ]

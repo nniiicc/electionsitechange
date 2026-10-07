@@ -1,15 +1,50 @@
 [
-"https://actblue.com/legal-privacy",
-"https://moodusmedia.com/",
-"https://pam4pa.com/",
-"https://pam4pa.com/about",
-"https://pam4pa.com/accessibility",
-"https://pam4pa.com/cookie-policy",
-"https://pam4pa.com/fact-cards",
-"https://pam4pa.com/news",
-"https://pam4pa.com/privacy-policy",
-"https://pam4pa.com/terms-of-use",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/pamela-hemann-1",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "About Pam",
+"href": "https://pam4pa.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://pam4pa.com/accessibility/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pamela-hemann-1"
+},
+{
+"text": "Facts",
+"href": "https://pam4pa.com/fact-cards/"
+},
+{
+"text": "Google’s Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "News",
+"href": "https://pam4pa.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://pam4pa.com/privacy-policy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://pam4pa.com/terms-of-use/"
+},
+{
+"text": "[image: Pam 4 PA]",
+"href": "https://pam4pa.com/"
+},
+{
+"text": "[image]",
+"href": "https://pam4pa.com"
+},
+{
+"text": "its own policies",
+"href": "https://www.actblue.com/legal-privacy/"
+},
+{
+"text": "pjhemann@gmail.com",
+"href": "mailto:pjhemann@gmail.com"
+}
 ]

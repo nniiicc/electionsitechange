@@ -1,8 +1,38 @@
 [
-"https://amazon.com/stores/Mark-P-Bromley/author/B0D9L4M8DB",
-"https://paypal.com/paypalme/markpbromley",
-"https://votebromley.com/contact",
-"https://votebromley.com/donate",
-"https://votebromley.com/home",
-"https://yoranthiumbromley.com/"
+{
+"text": "Author Copies from the Authors Website",
+"href": "https://www.yoranthiumbromley.com"
+},
+{
+"text": "Donate",
+"href": "https://www.votebromley.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "Mark Bromley",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "Mark P. Bromley books at Amazon",
+"href": "https://www.amazon.com/stores/Mark-P-Bromley/author/B0D9L4M8DB"
+},
+{
+"text": "[image]",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "[image]Mark Bromley",
+"href": "https://www.votebromley.com/home"
+},
+{
+"text": "contact",
+"href": "https://www.votebromley.com/contact"
+},
+{
+"text": "https://www.paypal.com/paypalme/markpbromley",
+"href": "https://www.paypal.com/paypalme/markpbromley"
+}
 ]

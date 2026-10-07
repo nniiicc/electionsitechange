@@ -1,14 +1,54 @@
 [
-"https://facebook.com/MelissaHurtadoCA",
-"https://flickr.com/photos/204117811@N07",
-"https://flickr.com/photos/204117811@N07/55168150228/in/dateposted-public",
-"https://instagram.com/mhurtadoca",
-"https://melissahurtado.com/",
-"https://melissahurtado.com/contact",
-"https://melissahurtado.com/endorsements",
-"https://melissahurtado.com/issues",
-"https://melissahurtado.com/media-copy",
-"https://secure.actblue.com/donate/melissa-hurtado",
-"https://x.com/MHurtadoCA",
-"https://youtube.com/watch?v=X5lOiPyviYE"
+{
+"text": "Contact",
+"href": "https://www.melissahurtado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melissa-hurtado"
+},
+{
+"text": "Download Hi-Res Image on Flickr",
+"href": "https://www.flickr.com/photos/204117811@N07/"
+},
+{
+"text": "Download Hi-Res Video File",
+"href": "https://www.flickr.com/photos/204117811@N07/55168150228/in/dateposted-public/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.melissahurtado.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.melissahurtado.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.melissahurtado.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.melissahurtado.com/media-copy"
+},
+{
+"text": "[image: Melissa Hurtado for State Senate]",
+"href": "https://www.melissahurtado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MelissaHurtadoCA"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/mhurtadoca/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=X5lOiPyviYE"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MHurtadoCA"
+}
 ]

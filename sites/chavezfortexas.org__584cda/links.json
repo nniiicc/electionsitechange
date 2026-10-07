@@ -1,5 +1,18 @@
 [
-"https://chavezfortexas.org/",
-"https://facebook.com/chavezchavez2000",
-"https://secure.actblue.com/donate/jeff-chavez-1"
+{
+"text": "Donate ActBlue",
+"href": "https://secure.actblue.com/donate/jeff-chavez-1"
+},
+{
+"text": "Email",
+"href": "mailto:chavezfortexas@gmail.com"
+},
+{
+"text": "HOME",
+"href": "https://www.chavezfortexas.org"
+},
+{
+"text": "[image: facebook.webp]",
+"href": "https://www.facebook.com/chavezchavez2000/"
+}
 ]

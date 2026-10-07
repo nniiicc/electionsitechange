@@ -1,12 +1,58 @@
 [
-"https://nebraska.gov/apps-sos-voter-registration/eligibility/citizen",
-"https://rickforgov.org/",
-"https://rickforgov.org/_blank",
-"https://rickforgov.org/contact.html",
-"https://rickforgov.org/events.html",
-"https://rickforgov.org/pressmedia.html",
-"https://rickforgov.org/t-shirts-and-gear.html",
-"https://rickforgov.org/team.html",
-"https://rickforgov.org/the-simple-plan.html",
-"https://rickforgov.org/uploads/1/5/3/1/153112023/hempharvester_orig.jpg"
+{
+"text": "CLICK HERE FOR MY QUICK BIO",
+"href": "https://www.rickforgov.org/team.html"
+},
+{
+"text": "CLICK HERE TO REGISTER AND VOTE WITH THE LMN PARTY",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen"
+},
+{
+"text": "Contact",
+"href": "https://www.rickforgov.org/contact.html"
+},
+{
+"text": "Events",
+"href": "https://www.rickforgov.org/events.html"
+},
+{
+"text": "Home",
+"href": "https://www.rickforgov.org/"
+},
+{
+"text": "Press/Media",
+"href": "https://www.rickforgov.org/pressmedia.html"
+},
+{
+"text": "RICK BEARD FOR GOVERNOR",
+"href": "https://www.rickforgov.org/"
+},
+{
+"text": "T-Shirts and Gear",
+"href": "https://www.rickforgov.org/t-shirts-and-gear.html"
+},
+{
+"text": "Team",
+"href": "https://www.rickforgov.org/team.html"
+},
+{
+"text": "The Simple Plan",
+"href": "https://www.rickforgov.org/the-simple-plan.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.rickforgov.org/uploads/1/5/3/1/153112023/hempharvester_orig.jpg"
+},
+{
+"text": "register to vote with LMN party",
+"href": "https://www.nebraska.gov/apps-sos-voter-registration/eligibility/citizen"
+},
+{
+"text": "volunteer!",
+"href": "https://www.rickforgov.org/contact.html"
+}
 ]

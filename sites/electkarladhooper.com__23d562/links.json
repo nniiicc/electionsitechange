@@ -1,14 +1,62 @@
 [
-"https://electkarladhooper.com/",
-"https://electkarladhooper.com/about.html",
-"https://electkarladhooper.com/cgi-bin/privacy.cgi",
-"https://electkarladhooper.com/cgi-bin/terms.cgi",
-"https://electkarladhooper.com/contact.html",
-"https://electkarladhooper.com/issues.html",
-"https://electkarladhooper.com/voter-info.html",
-"https://facebook.com/karlaforhouse",
-"https://instagram.com/karlafornewton",
-"https://onlinecandidate.com/",
-"https://secure.actblue.com/donate/karla-daniels-hooper-1",
-"https://x.com/KarlaforNewton"
+{
+"text": "Contact",
+"href": "https://electkarladhooper.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/karla-daniels-hooper-1"
+},
+{
+"text": "Home",
+"href": "https://electkarladhooper.com/"
+},
+{
+"text": "Issues",
+"href": "https://electkarladhooper.com/issues.html"
+},
+{
+"text": "Meet Karla",
+"href": "https://electkarladhooper.com/about.html"
+},
+{
+"text": "OnlineCandidate.com",
+"href": "https://www.onlinecandidate.com/"
+},
+{
+"text": "Privacy",
+"href": "https://electkarladhooper.com/cgi-bin/privacy.cgi"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.actblue.com/donate/karla-daniels-hooper-1"
+},
+{
+"text": "Terms",
+"href": "https://electkarladhooper.com/cgi-bin/terms.cgi"
+},
+{
+"text": "Top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Voting Info",
+"href": "https://electkarladhooper.com/voter-info.html"
+},
+{
+"text": "[image]",
+"href": "https://electkarladhooper.com"
+},
+{
+"text": "[tooltip: Karla Daniels Hooper on Facebook]",
+"href": "https://www.facebook.com/karlaforhouse"
+},
+{
+"text": "[tooltip: Karla Daniels Hooper on Instagram]",
+"href": "https://www.instagram.com/karlafornewton/"
+},
+{
+"text": "[tooltip: Karla Daniels Hooper on X]",
+"href": "https://x.com/KarlaforNewton"
+}
 ]

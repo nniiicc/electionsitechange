@@ -1,14 +1,66 @@
 [
-"https://facebook.com/ryanstuckey.rd41",
-"https://instagram.com/ryanstuckey.rd41",
-"https://ryanstuckey.com/",
-"https://ryanstuckey.com/cart",
-"https://ryanstuckey.com/contact",
-"https://ryanstuckey.com/privacy-policy-1",
-"https://secure.actblue.com/donate/ryan-stuckey-1",
-"https://secure.actblue.com/donate/ryan-stuckey-1?amount=24",
-"https://secure.actblue.com/donate/ryan-stuckey-1?amount=35",
-"https://secure.actblue.com/donate/ryan-stuckey-1?amount=67",
-"https://secure.actblue.com/donate/ryan-stuckey-1?amount=9",
-"https://share.google/8JpodN4JT7pHK3L4r"
+{
+"text": "$24",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1?amount=24"
+},
+{
+"text": "$35",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1?amount=35"
+},
+{
+"text": "$67",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1?amount=67"
+},
+{
+"text": "$9",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1?amount=9"
+},
+{
+"text": "0",
+"href": "https://ryanstuckey.com/cart"
+},
+{
+"text": "Back",
+"href": "https://ryanstuckey.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://ryanstuckey.com/contact"
+},
+{
+"text": "Contact Me",
+"href": "mailto:hello@ryanstuckey.com"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ryanstuckey.com/privacy-policy-1"
+},
+{
+"text": "Visit Kisa Cafe",
+"href": "https://share.google/8JpodN4JT7pHK3L4r"
+},
+{
+"text": "We respect your privacy.",
+"href": "https://ryanstuckey.com/privacy-policy-1"
+},
+{
+"text": "[image: Friends of Ryan Stuckey]",
+"href": "https://ryanstuckey.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryanstuckey.rd41/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryanstuckey.rd41/"
+}
 ]

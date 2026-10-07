@@ -1,6 +1,5 @@
-MY STORY
-I'M MARY PELTOLA
-I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
+Skip to content Facebook-f Instagram X-twitter Threads Tiktok ALASKA FIRST.
+CONTACT My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press Press Releases In the News SALMON RUN CALL FOR ARTISTS STORE DONATE Facebook-f Instagram X-twitter Threads Tiktok SALMON RUN CALL FOR ARTISTS My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact My Story Priorities Affordability Fixing the Rigged System Fish Energy Veterans & Servicemembers Get Involved Volunteer Events Jobs Donate Request a Yard Sign Press In the News Press Releases Contact DONATE MY STORY I'M MARY PELTOLA I’m running for Senate because I’ve seen firsthand how government is failing Alaskans.
 I grew up on the Kuskokwim, fishing salmon with my father.
 Buzzy and I raised our seven kids here and spent long summer days at fish camp.
 Fishing with family is where Alaskans learn life’s lessons.
@@ -9,8 +8,7 @@ Alaskans know that, and we know that we have to take care of each other.
 We know no one from the Lower 48 is coming to save us.
 In Alaska, we pitch in to bail out a stranger’s swamping boat.
 We know that the next swamped boat could be ours.
-WHY ALASKA IS DIFFERENT
-Growing up, Alaska was a place of abundance.
+WHY ALASKA IS DIFFERENT Growing up, Alaska was a place of abundance.
 Now, we have scarcity.
 Many of our fish stocks and fish returns have been decimated.
 The salmon, large game, and migratory birds that used to fill our freezers are harder to find.
@@ -21,8 +19,7 @@ When they actually work together on something, it’s usually to help themselves
 Our delegation used to stand up to their party to put Alaska first.
 Ted Stevens and Don Young ignored Lower 48 partisanship to fight for things like public media and disaster relief because rural Alaska depends on them.
 Our delegation used to be strong and tough – as Don would say, “small but mighty” – now it’s weak, partisan, and beholden to Lower 48 donors.
-FIXING THE RIGGED SYSTEM
-This is the fight for our future.
+FIXING THE RIGGED SYSTEM This is the fight for our future.
 My agenda for Alaska will always be fish, family, and freedom.
 But our future also depends on fixing the rigged system in DC that’s shutting down Alaska while politicians feather their own nest.
 DC people will be pissed that I’m focusing on their self-dealing, sharing what I’ve seen firsthand.
@@ -34,3 +31,6 @@ Systemic change is the only way to fill our homes with abundance again.
 I need you all to see what I’ve seen and to join me in fixing this broken system.
 No one from the Lower 48 is coming to save us, but I know this in my bones: there is no group of people more ready to save ourselves than Alaskans.
 Ted Stevens often said, “To hell with politics, put Alaska first.” It’s about time Alaskans teach the rest of the country what Alaska first and, really, America first looks like.
+SUPPORT THE CAMPAIGN DONATE EVENTS GET INVOLVED PO BOX 90031 Anchorage, AK 99509 EMAIL [email protected] Facebook-f Instagram X-twitter Threads Tiktok PRIVACY POLICY PAID FOR BY ALASKANS FOR MARY WE CAN'T DO IT WITHOUT YOUR HELP.
+Contribute to help Mary’s campaign today.
+MAKE A DONATION GET INVOLVED

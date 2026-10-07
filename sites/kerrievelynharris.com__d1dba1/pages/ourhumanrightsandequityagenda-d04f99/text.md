@@ -1,13 +1,3 @@
-Our Human Rights and Equity Agenda
-“The arc of the moral universe is long, but it bends towards justice” said Martin Luther King Jr.
+Kerri Evelyn Harris Cart 0 Issues Meet Kerri Donate Products Social Feed Inquiries Back Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Cart 0 Issues Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Meet Kerri Donate Products Social Feed Inquiries Kerri Evelyn Harris Human Rights and Equity Our Human Rights and Equity Agenda “The arc of the moral universe is long, but it bends towards justice” said Martin Luther King Jr.
 While we have made strides for fairness and equity, we still have a long way to go to ensure every child, community, and identity gets every opportunity this nation has to offer.
-Let’s Dare to Act for:
-- Requiring large corporations to pay an “Equity Tax” for any workers receiving government assistance
-- Fighting for protection and expansion of civil rights
-- Standing against racial and religious bigotry
-- Protecting the rights of those without a home
-- Expanding LGBTQ rights (e.g. in the workplace, schools, etc.)
-- Fully funding the Individuals with Disabilities Education Act (IDEA)
-- Racial equity impact assessments when drafting and voting on policy
-- A fair pathway to citizenship
-- Supporting the Disability Integration Act of 2017
+Let’s Dare to Act for: Requiring large corporations to pay an “Equity Tax” for any workers receiving government assistance Fighting for protection and expansion of civil rights Standing against racial and religious bigotry Protecting the rights of those without a home Expanding LGBTQ rights (e.g. in the workplace, schools, etc.) Fully funding the Individuals with Disabilities Education Act (IDEA) Racial equity impact assessments when drafting and voting on policy A fair pathway to citizenship Supporting the Disability Integration Act of 2017 Website created and designed by Michael Payan

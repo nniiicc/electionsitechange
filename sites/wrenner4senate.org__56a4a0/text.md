@@ -1,92 +1,41 @@
-Photos and info about my work in our district and at the Capital are viewable by all at www.Facebook.com/SenatorIreneWrenner.
-Irene
-Wrenner
-VT STATE SENATE
-Experienced Leader
-Creative Problem-Solver
-Diligent Researcher
-Compassionate Listener
-Hello
-I’m Irene Wrenner, Vermont State Senator from 2023 to 2024.
+top of page Irene Wrenner VT SENATOR, 2023-2024 SENATE CANDIDATE, 2026 Donate Here!
+HOME ABOUT MEDIA ACHIEVEMENTS DONATE CONTACT More Use tab to navigate through the menu items.
+Photos and info about my work in our district and at the Capital are viewable by all at www.Facebook.com/SenatorIreneWrenner .
+Irene Wrenner VT STATE SENATE Experienced Leader ​ Creative Problem-Solver ​ Diligent Researcher ​ Compassionate Listener Hello I’m Irene Wrenner, Vermont State Senator from 2023 to 2024.
 I worked full time at this “part-time” job to better represent the 22,000+ people in our 4 towns – Milton, Fairfax, Westford, and northern Essex.
-I am running again as a Democrat to serve as Chittenden North District's sole Senator.
-(Registered, active voters will be mailed a November 3rd ballot.)
-I vote as an independent in office, so that I can truly carry the voices of constituents from this "purple" district into the State House, where folks haven't always felt heard.
-(Click for more info)
-Irene Wrenner has been named one of 55 Vermont candidates endorsed for the 2022 General Election by Rights & Democracy, a movement to build healthy, just, and equitable communities for all.
+I am running again as a Democrat to serve as Chittenden North District's sole Senator .
+(Registered, active voters will be mailed a November 3rd ballot.) I vote as an independent in office, so that I can truly carry the voices of constituents from this "purple" district into the State House, where folks haven't always felt heard. ​ ​ My Local Government Experience (Click for more info) Irene Wrenner has been named one of 55 Vermont candidates endorsed for the 2022 General Election by Rights & Democracy , a movement to build healthy, just, and equitable communities for all.
 Irene Wrenner was one of 20 Vermont Senate candidates endorsed by Vermont Conservation Voters (VCV) in 2022 for their commitment to VCV's vision and values: advancing and defending policies that protect the environment and promote health while advancing social, racial, and economic justice; and strengthening our democracy.
-Irene Wrenner was endorsed in 2022 by VPIRG Votes, whose mission is to support and elect public interest champions who will promote and protect the health of Vermont’s people, environment, and locally-based economy.
-Irene Wrenner has been named as one of 400 candidates nationwide endorsed for 2022 by Renew U.S., a movement to elect progressive candidates and pass legislation that advances economic justice, racial justice, and climate justice.
+Irene Wrenner was endorsed in 2022 by VPIRG Votes , whose mission is to support and elect public interest champions who will promote and protect the health of Vermont’s people, environment, and locally-based economy.
+Irene Wrenner has been named as one of 400 candidates nationwide endorsed for 2022 by Renew U.S. , a movement to elect progressive candidates and pass legislation that advances economic justice, racial justice, and climate justice.
 Irene Wrenner was endorsed in 2022 by the Vermont Chapter of the Sierra Club, as an environmental champion.
-Irene Wrenner was endorsed in 2022, 2024, 2026 by the Planned Parenthood Vermont Action Fund IE PAC, which supports candidates who are committed to a person’s right to make their own decisions about their health care, as well as to prioritizing equitable, unwavering access to sexual and reproductive health care for all.
+Irene Wrenner was endorsed in 2022, 2024, 2026 by the Planned Parenthood Vermont Action Fund IE PAC , which supports candidates who are committed to a person’s right to make their own decisions about their health care, as well as to prioritizing equitable, unwavering access to sexual and reproductive health care for all.
 LGKAN has endorsed Senator Irene Wrenner and 106 other VT legislators in 2024 for their commitment to solving the state’s child care crisis by voting for Act 76, making the 2023 Child Care Bill law.
 AFT Vermont has endorsed nearly 70 legislators in 2024, including Senator Irene Wrenner for her commitment to better health care and higher education.
+Endorsed again in 2026.
 VSEA – a member-driven union working to ensure dignified wages, working conditions, benefits, and retirement plans – has endorsed Senator Irene Wrenner in 2024 and 2026.
 "The Vermont State Labor Council, AFL-CIO has officially endorsed your re-election campaign to the Vermont State Senate.
 We look forward to working with you next biennium.
-Thank you for your commitment to protecting Vermont families." 10/2/24
-"On behalf of our more than 20,000 union members across the state, thank you for putting labor values front and center in your campaign." 7/27/26
-For 20 years I've knocked on doors, listened to residents, and addressed their concerns as an active citizen and an elected official.
-Vermont is quickly becoming an unaffordable place to live due to rising housing and health care costs, double-digit property tax increases, and overall inflation in consumer goods.
-During my first Senate term, I researched and revealed areas in which millions of dollars were being wasted or left uncollected by the state: $11 million here, $139 million there!
-Before serving in the Senate, I worked to improve communication, transparency, and fairness in taxation and representation for the 22,000 residents of Essex Town from 2005 to 2022.
-My insistence that voters be heard in the halls of power hasn't found favor with entrenched politicians.
-But the majority of voters continue to show up and back my proposals – 9 victories on public questions thus far – to achieve just outcomes.
-For example, my efforts to resist a Special Taxing District in Essex in 2016 prevented the removal of two recreation departments from their respective municipalities and kept taxation in check.
-(Nationwide research shows that Special Taxing Districts increase the cost of services by an average of 15%.)
-____________________________
-Due to my efforts to keep the Merger Tax at bay, between, each Town property owner saved $5,500 on average between 2007 and 2021.
-The 2022 Separation of Essex Junction from Essex Town provided two communities – one mostly urban, one mostly rural – the freedom and fairness that residents were seeking for 64 years: the freedom to speak and the right to be heard, and fairness in representation and taxation.
-____________________________
-I regularly seek out residents of all stripes.
-I listen to frustrations and fears, distribute information, and tap your ideas.
-Then, I bring your input and my understanding into the State House.
-My aim is for you to feel represented by me, whatever your background, political leanings, or opinions, as I promote common sense legislation.
-You can count on me to:
-- See You,
-- Hear You,
-- Respect You, and
-- Represent You
-____________________________
-Here's what several folks have said about my ongoing public service:
-"You taught me the importance of keeping accurate government records." As Dianne, age 66, watched Selectboard meetings, she said she appreciated my persistent efforts to correct meeting minutes.
-"I don't think of you as a politician.
+Thank you for your commitment to protecting Vermont families." 10/2/24 ​ "On behalf of our more than 20,000 union members across the state, thank you for putting labor values front and center in your campaign." 7/27/26 For 20 years I've knocked on doors, listened to residents, and addressed their concerns as an active citizen and an elected official. ​ ​ Vermont is quickly becoming an unaffordable place to live due to rising housing and health care costs, double-digit property tax increases, and overall inflation in consumer goods. ​ During my first Senate term, I researched and revealed areas in which millions of dollars were being wasted or left uncollected by the state: $11 million here, $139 million there!
+Before serving in the Senate, I worked to improve communication , transparency , and fairness in taxation and representation for the 22,000 residents of Essex Town from 2005 to 2022 . ​ My insistence that voters be heard in the halls of power hasn't found favor with entrenched politicians.
+But the majority of voters continue to show up and back my proposals – 9 victories on public questions thus far – to achieve just outcomes. ​ For example, my efforts to resist a Special Taxing District in Essex in 2016 prevented the removal of two recreation departments from their respective municipalities and kept taxation in check .
+(Nationwide research shows that Special Taxing Districts increase the cost of services by an average of 15%.) ____________________________ Due to my efforts to keep the Merger Tax at bay, between, each Town property owner saved $5,500 on average between 2007 and 2021. ​ The 2022 Separation of Essex Junction from Essex Town provided two communities – one mostly urban, one mostly rural – the freedom and fairness that residents were seeking for 64 years: the freedom to speak and the right to be heard, and fairness in representation and taxation. ____________________________ ​ I regularly seek out residents of all stripes.
+I listen to frustrations and fears, distribute info rmation, and tap your ideas .
+Then, I bring your input and my understanding into the State House. ​ My aim is for you to feel represented by me, whatever your background, political leanings, or opinions, as I promote common sense legislation . ​ You can count on me to: - See You, - Hear You, - Respect You, and - Represent You ____________________________ ​ Here's what several folks have said about my ongoing public service: ​ "You taught me the importance of keeping accurate government records." As Dianne, age 66, watched Selectboard meetings, she said she appreciated my persistent efforts to correct meeting minutes. ​ "I don't think of you as a politician.
 I think of you as a care-er.
-I am a lifelong Republican, but you can count on my vote in the Democratic Primary." Barbara, age 86.
-"You pi** off all the right people."
-Rich, age 74, knows that, in order to make a difference in local government, I had to behave differently.
-I've called out conflicts of interest, and politely corrected officials who provided misinformation or disinformation.
-"You are VERY approachable and real.
+I am a lifelong Republican, but you can count on my vote in the Democratic Primary." Barbara, age 86. ​ "You pi** off all the right people." Rich, age 74, knows that, in order to make a difference in local government, I had to behave differently.
+I've called out conflicts of interest, and politely corrected officials who provided misinformation or disinformation. ​ "You are VERY approachable and real.
 You took the time ... to explain our antiquated local government.
 Which is not exactly straight forward, and doesn't always make sense to us lay people." J.
-Newman, age 64.
-"You're a true public servant." Paul, age 88, has watched my work and seen my success in improving government for two decades: "You've always impressed me with your determination to get the job done."
-"Thank you for noticing me." Doris, age 93, reminded me at a library event how much it meant to her that I look out for and listen to people who aren't loud, flashy or powerful.
-I work full-time at this "part-time" job.
-I welcome your feedback and relish the opportunity to connect and to represent you.
-Please let me know which issues are important to you.
-I have prioritized the following issues thus far:
-- Government Accountability
-- Transparency
-- Stopping Waste in Government
-- Livable Wages
-- Affordable Health Care
-- Community Mental Health Supports
-- Reasonably-Priced Prescription Drugs
-- High-Quality, Affordable Child Care
-- Fair Taxation of Corporations and Upper-Income Households
-- Housing for Everyone
-- Fully-Funded Police
-- Bodily Autonomy
-- Accessible Voting
-- Ending Food Insecurity
-- Local Food Production
-- Data Privacy
-- Moratorium on Data Center Construction
-- Lower the Housing Vacancy Rate
-- Increase Tax on Property Owners Living Outside Vermont
-- Increased Protection for Vermont's Environment
-In addition to quick Facebook posts, I've provided regular detailed updates to Front Porch Forum and local newspapers.
+Newman, age 64. ​ "You're a true public servant." Paul, age 88, has watched my work and seen my success in improving government for two decades: " You've always impressed me with your determination to get the job done." ​ "Thank you for noticing me." Doris, age 93, reminded me at a library event how much it meant to her that I look out for and listen to people who aren't loud, flashy or powerful. ​ I work full-time at this "part-time" job.
+I welcome your feedback and relish the opportunity to connect and to represent you. ​ Please let me know which issues are important to you.
+I have prioritized the following issues thus far: ​ Government Accountability Transparency Stopping Waste in Government Livable Wages Affordable Health Care Community Mental Health Supports Reasonably-Priced Prescription Drugs High-Quality, Affordable Child Care Fair Taxation of Corporations and Upper-Income Households Housing for Everyone Fully-Funded Police Bodily Autonomy Accessible Voting Ending Food Insecurity Local Food Production Data Privacy Moratorium on Data Center Construction Lower the Housing Vacancy Rate Increase Tax on Property Owners Living Outside Vermont Increased Protection for Vermont's Environment ​ ​ In addition to quick Facebook posts, I've provided regular detailed updates to Front Porch Forum and local newspapers.
 Please feel free to get in touch via email, text, phone any time.
-"The Center for Freethought Equality PAC has endorsed your 2026 campaign, as you share our policy values of protecting the strict separation of church and state, addressing the climate crisis, advancing human rights and civil liberties, and ensuring the health, safety and dignity of our communities through evidence-based and humane public policies."
-"The Board of Directors of Vermont-NEA recommends your candidacy for State Senate to our members in the Chittenden North Senate district (for) a positive voting record on public education issues." 9/11/24
+"The Center for Freethought Equality PAC has endorsed your 2026 campaign, as you share our policy values of protecting the strict separation of church and state, addressing the climate crisis, advancing human rights and civil liberties, and ensuring the health, safety and dignity of our communities through evidence-based and humane public policies." Donate Here!
+"The Board of Directors of Vermont-NEA recommends your candidacy for State Senate to our members in the Chittenden North Senate district (for) a positive voting record on public education issues." 9/11/24 I'm bound to my constituents, not any donor or lobby ...
+When I found out kids were dying because our child safety seat laws were 13 years out-of-date, I drafted a bill to fix that.
+Children now have a better chance to survive car crashes because my peers passed and Gov.
+Scott signed that bill.
+It's is the most consequential of the three bills I got passed as a freshman legislator. ...
+I have even bigger plans to save lives and to save money when I get back to the Senate.
+Ask me about them! © # by Irene Wrenner irene@wrenner4senate.org bottom of page

@@ -1,20 +1,110 @@
 [
-"https://brockmartinfortn.com/",
-"https://brockmartinfortn.com/about",
-"https://brockmartinfortn.com/endorsements",
-"https://brockmartinfortn.com/get-involved",
-"https://brockmartinfortn.com/news",
-"https://brockmartinfortn.com/news/weekly-newsletter-april-11",
-"https://brockmartinfortn.com/news/weekly-newsletter-feb17-feb21",
-"https://brockmartinfortn.com/news/weekly-newsletter-february-10-14",
-"https://brockmartinfortn.com/news/weekly-newsletter-march-11",
-"https://brockmartinfortn.com/news/weekly-newsletter-march-14",
-"https://brockmartinfortn.com/news/weekly-newsletter-march-21",
-"https://brockmartinfortn.com/news/weekly-newsletter-march-28",
-"https://brockmartinfortn.com/news/weekly-newsletter-march-7-",
-"https://brockmartinfortn.com/privacy-protection",
-"https://facebook.com/BrockMartinTN",
-"https://instagram.com/brockmartintn",
-"https://secure.winred.com/brock-martin-for-state-representative/donate",
-"https://twitter.com/BrockMartinTN"
+{
+"text": "About",
+"href": "https://www.brockmartinfortn.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/brock-martin-for-state-representative/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brockmartinfortn.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.brockmartinfortn.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.brockmartinfortn.com"
+},
+{
+"text": "News",
+"href": "https://www.brockmartinfortn.com/news"
+},
+{
+"text": "Privacy Protection",
+"href": "https://www.brockmartinfortn.com/privacy-protection"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-april-11"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-feb17-feb21"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-february-10-14"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-11"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-14"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-21"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-28"
+},
+{
+"text": "Read More",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-7-"
+},
+{
+"text": "[image: Brock Martin logo again-01.png]",
+"href": "https://www.brockmartinfortn.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BrockMartinTN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/brockmartintn/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/BrockMartinTN"
+},
+{
+"text": "[image: Weekly Newsletter April 11]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-11"
+},
+{
+"text": "[image: Weekly Newsletter April 18]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-april-11"
+},
+{
+"text": "[image: Weekly Newsletter February 10-14]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-february-10-14"
+},
+{
+"text": "[image: Weekly Newsletter February 17-21]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-feb17-feb21"
+},
+{
+"text": "[image: Weekly Newsletter March 14]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-14"
+},
+{
+"text": "[image: Weekly Newsletter March 21]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-21"
+},
+{
+"text": "[image: Weekly Newsletter March 28]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-28"
+},
+{
+"text": "[image: Weekly Newsletter March 7 ]",
+"href": "https://www.brockmartinfortn.com/news/weekly-newsletter-march-7-"
+}
 ]

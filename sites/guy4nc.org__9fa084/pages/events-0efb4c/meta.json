@@ -1,7 +1,9 @@
 {
  "description": "Upcoming events you won't want to miss!",
  "final_url": "https://guy4nc.org/events/",
- "paid_for_by": null,
+ "fingerprint": "3c804c8e8dc31e1df909ff4815887cc255e61d9c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Guy Meilleur US House 4",
  "years_mentioned": []
 }

@@ -1,5 +1,14 @@
 [
-"https://troyclarkforiowa.com/about",
-"https://troyclarkforiowa.com/issues",
-"https://troyclarkforiowa.com/voting-info"
+{
+"text": "About",
+"href": "https://troyclarkforiowa.com/about"
+},
+{
+"text": "Issues",
+"href": "https://troyclarkforiowa.com/issues"
+},
+{
+"text": "Voting Info",
+"href": "https://troyclarkforiowa.com/voting-info"
+}
 ]

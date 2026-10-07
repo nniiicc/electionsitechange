@@ -1,19 +1,5 @@
-Priorities, built around your life
-Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
-01 💰Affordability & Costs
-I will fight the costs squeezing District 53 families.
-The problem
-- Insurance +63% since 2019 → Insurance companies post record profits while families go broke
-- Rent +85% since 2019 → Working families priced out of the district they grew up in
-- Grocery & gas costs squeezing budgets → Tampa Bay ranks among the highest in the nation for food costs
-- 1 in 5 Florida kids go hungry → Florida has opted out of federal food assistance already on the table
-- My Safe Florida Home underfunded → Qualified homeowners stuck on a waiting list for grants they were promised
-Tony's solution
-- Sales tax holidays on food, gas, and everyday goods
-- Opt Florida into Summer EBT/SUN Bucks — unlock federal grocery dollars at no added state cost
-- Fully fund My Safe Florida Home hurricane-hardening grants
-- Public option for property insurance — reform Citizens so surplus funds a catastrophe fund, not shareholder profit
-- Childcare subsidies that ease the squeeze on working families
-- Restore local control over housing and rent — let Hernando and Pasco set commonsense protections for renters instead of tying local hands from Tallahassee
-Sound like your priorities too?
+0 Skip to Content Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Priorities, built around your life Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
+01 💰Affordability & Costs I will fight the costs squeezing District 53 families.
+The problem Insurance +63% since 2019 → Insurance companies post record profits while families go broke Rent +85% since 2019 → Working families priced out of the district they grew up in Grocery & gas costs squeezing budgets → Tampa Bay ranks among the highest in the nation for food costs 1 in 5 Florida kids go hungry → Florida has opted out of federal food assistance already on the table My Safe Florida Home underfunded → Qualified homeowners stuck on a waiting list for grants they were promised Tony's solution Sales tax holidays on food, gas, and everyday goods Opt Florida into Summer EBT/SUN Bucks — unlock federal grocery dollars at no added state cost Fully fund My Safe Florida Home hurricane-hardening grants Public option for property insurance — reform Citizens so surplus funds a catastrophe fund, not shareholder profit Childcare subsidies that ease the squeeze on working families Restore local control over housing and rent — let Hernando and Pasco set commonsense protections for renters instead of tying local hands from Tallahassee Sound like your priorities too?
 Tell Tony what matters most to you, or chip in to help carry the message across District 53.
+Share your voice Donate Claude for House District 53 Made with Squarespace Contact tlclaude@claudeforhd53.com (352) 667-3123 Paid for by Tony Claude, Democrat, for Florida House District #53

@@ -1,20 +1,13 @@
-Human Rights Campaign PAC Endorses Jeremy Moss for Congress to Kick Off Pride Month
-June 1, 2026
-Human Rights Campaign PAC Endorses Jeremy Moss for Congress to Kick Off Pride Month
-LGBTQ groups in Michigan and nationwide back Moss’ historic campaign to break barrier in Michigan, grow LGBTQ+ representation in Congress
-Oakland County, MI – On the first day of Pride Month, Human Rights Campaign PAC, the nation’s largest LGBTQ+ political advocacy organization, announced its endorsement of Sen.
+Meet Jeremy Priorities Endorsements News Volunteer DONATE Donate Meet Jeremy Priorities Endorsements News Volunteer DONATE Human Rights Campaign PAC Endorses Jeremy Moss for Congress to Kick Off Pride Month June 1, 2026 Human Rights Campaign PAC Endorses Jeremy Moss for Congress to Kick Off Pride Month LGBTQ groups in Michigan and nationwide back Moss’ historic campaign to break barrier in Michigan, grow LGBTQ+ representation in Congress Oakland County, MI – On the first day of Pride Month, Human Rights Campaign PAC, the nation’s largest LGBTQ+ political advocacy organization, announced its endorsement of Sen.
 Jeremy Moss for Michigan’s 11th Congressional District.
 The endorsement adds to growing national support for Moss’ campaign, including earlier endorsements from the Equality PAC, LGBTQ+ Victory Fund, and Michigan’s Unity Fund.
 Moss’s candidacy is one of the strongest opportunities in the country to expand LGBTQ+ representation in Congress and become the first openly LGBTQ+ person ever elected to Congress from Michigan.
 “Michiganders know that Jeremy Moss has been delivering results for more than a decade as a member of the Legislature,” said Human Rights Campaign Vice President, Campaigns Lynne Bowman.
 “Now he’s ready to bring that track record and his commitment to his constituents to Washington, D.C. to tackle the dysfunction there.
 As Michigan’s first openly gay State Senator, he didn’t rest on his laurels as a trailblazer, he rolled up his sleeves and led efforts to amend the Elliott-Larsen Civil Rights Act to add nondiscrimination protections for sexual orientation and gender identity – and he won.
-Our country needs leaders who actually make change happen and make lives better, and that’s why the Human Rights Campaign is thrilled to endorse Jeremy Moss for Congress.”
-Moss is the first-ever LGBTQ member of the Michigan Senate and sponsored the law that finally added sexual orientation and gender identity as protected classes in the state’s civil rights act.
+Our country needs leaders who actually make change happen and make lives better, and that’s why the Human Rights Campaign is thrilled to endorse Jeremy Moss for Congress.” Moss is the first-ever LGBTQ member of the Michigan Senate and sponsored the law that finally added sexual orientation and gender identity as protected classes in the state’s civil rights act.
 “Our community belongs in the room where decisions about us are being made,” said Sen.
-Jeremy Moss.
-“We needed representation in the Legislature to finally add LGBTQ+ protections in Elliot-Larsen Civil Rights Act.
+Jeremy Moss . “ We needed representation in the Legislature to finally add LGBTQ+ protections in Elliot-Larsen Civil Rights Act.
 Now, we must take our fight for equality to Congress and confront MAGA extremism that targets LGBTQ+ Americans.
-I am honored to earn the endorsement of the Human Rights Campaign PAC to kick off Pride Month in Michigan.”
-With support from Governor Gretchen Whitmer, Secretary of State Jocelyn Benson, Attorney General Dana Nessel, and many more, Moss continues to build a broad coalition committed to protecting civil rights, defending our democracy, and delivering results for Michigan families.
-###
+I am honored to earn the endorsement of the Human Rights Campaign PAC to kick off Pride Month in Michigan.” With support from Governor Gretchen Whitmer, Secretary of State Jocelyn Benson, Attorney General Dana Nessel, and many more, Moss continues to build a broad coalition committed to protecting civil rights, defending our democracy, and delivering results for Michigan families.
+### Meet Jeremy Priorities Endorsements News Volunteer DONATE Donations by check can be sent to: # S Telegraph Rd PO Box 7023 Bloomfield Hills, MI 48302 For General Inquires: info@votejeremymoss.com Paid for by Jeremy Moss for Congress Privacy Policy © 2026

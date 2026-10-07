@@ -1,8 +1,4 @@
-More work ahead on Fla. mental health laws
-Palm Beach Post (Florida)
-August 17, 2023 Thursday
-1 Edition
-Florida has experienced a significant increase in psychiatric crisis hospitalizations of children and teens in recent years, and an increase in those children being repeatedly hospitalized in the same year.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News More work ahead on Fla. mental health laws August 17, 2023 / in News / by David Silvers Palm Beach Post (Florida) August 17, 2023 Thursday 1 Edition Florida has experienced a significant increase in psychiatric crisis hospitalizations of children and teens in recent years, and an increase in those children being repeatedly hospitalized in the same year.
 The 2024 legislative session will be my last before I term out of the Florida House, and I plan on continuing my quest to improve the mental health framework in our state.
 I plan on refiling legislation from the 2023 Legislative session that increases Medicaid requirements for managed care plan behavioral health performance for children.
 The Florida Medicaid program has a significant role in behavioral health care because it insures a disproportionate share of the children are repeatedly hospitalized for behavioral health problems.
@@ -23,7 +19,5 @@ Increasing Medicaid requirements for managed care plan behavioral health perform
 The legislation is extremely important in addressing the shortfalls in our mental health care system, as it would require the Agency for Health Care Administration to establish network requirements for each type of behavioral health provider serving Medicaid enrollees and improve its testing of behavioral health provider networks.
 State Rep.
 David Silvers is a Democrat who represents District 89 in Palm Beach County.
-Your Turn
-Rep.
-David Silvers
-Guest columnist
+Your Turn Rep.
+David Silvers Guest columnist https://www.votedavidsilvers.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-9-2025-12_53_36-PM.png 1024 1024 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2023-08-17 18:39:16 2025-06-17 17:43:42 More work ahead on Fla. mental health laws Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: David Silvers launches 2026 campaign to succeed Lori Berman in SD 26 David Silvers launches 2026 campaign to succeed Lori Berman in SD 26 Link to: Building a better Baker Act, one legislative session at a time Building a better Baker Act, one legislative session at a time Scroll to top Scroll to top

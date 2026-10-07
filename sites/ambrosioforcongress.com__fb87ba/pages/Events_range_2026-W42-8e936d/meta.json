@@ -1,7 +1,11 @@
 {
  "description": "RALPH AMBROSIO Campaign Events",
  "final_url": "https://ambrosioforcongress.com/Events?range=2026-W42",
- "paid_for_by": null,
+ "fingerprint": "ad42bd060105e5a5a42ea8e7ad2b93734beebeea",
+ "format": 3,
+ "paid_for_by": "",
  "title": "RALPH AMBROSIO Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

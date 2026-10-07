@@ -1,5 +1,4 @@
-Housing
-No matter what city I'm in or what event I'm attending, housing is the number one issue people bring up.
+Skip navigation menu Meet Jocelyn Issues News Volunteer Store Donate Meet Jocelyn Issues News Volunteer Store Donate Affordability Housing Healthcare Childcare Energy Costs Education Data Centers Environment Housing No matter what city I'm in or what event I'm attending, housing is the number one issue people bring up.
 In places like Traverse City, where the average cost of a house is creeping into the millions, farmers can't find a place to live and raise their families.
 In larger cities like Detroit, rent costs are out of control and families who have lived in the city for generations are being priced out.
 This is not conducive to a Michigan where everyone can thrive.
@@ -17,3 +16,5 @@ As Secretary of State, I cut through red tape and transformed an office people d
 As governor, I'll do the same for our housing processes.
 Housing is the foundation for economic security, community growth, and Michigan's future.
 As Governor, I will make it a top priority.
+Read the full housing affordability agenda here .
+Donate By Mail Jocelyn Benson for Governor 23133 Woodward Ave, Number 116 Ferndale, MI 48220 Powered by RUN! website builder Paid for by Jocelyn Benson for Governor, 23133 Woodward Ave, Number 116, Ferndale, MI 48220 You need to enable JavaScript to run this app.

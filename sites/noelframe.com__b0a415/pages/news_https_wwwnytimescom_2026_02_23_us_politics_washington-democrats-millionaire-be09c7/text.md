@@ -1,6 +1,4 @@
-In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich
-By Anna Griffin for The New York Times • February 23, 2026
-The state where Jeff Bezos and Bill Gates made fortunes might have progressive social policies, but its resistance to an income tax is similar to conservative states.
+0 Skip to Content Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Issues Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment 2026 Endorsements 2026 Endorsements News Events Get Involved Volunteer Contact Endorse Noel Donate Open Menu Close Menu Home About Noel Folder: Issues Back Tax Reform Fighting Back Against Trump Economic Prosperity for All of Us Education Housing & Homelessness Racial and Social Equity Public Safety Healthcare Access Child Welfare Environment Folder: 2026 Endorsements Back 2026 Endorsements News Events Folder: Get Involved Back Volunteer Contact Endorse Noel Donate In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich Feb 23 Written By Upper Left Strategies By Anna Griffin for The New York Times • February 23, 2026 The state where Jeff Bezos and Bill Gates made fortunes might have progressive social policies, but its resistance to an income tax is similar to conservative states.
 That might change.
 Anger over widening income inequality and fears of deep public service cuts are pushing lawmakers in the state of Washington toward what has long been unthinkable in state politics: a personal income tax — for now, at least, only on the very wealthy.
 Washington is one of just nine states that does not tax income, and over the years, that has been a lure for people eager to live in a place with socially liberal policies and the culture of a progressive state — but the tax code of a more conservative one.
@@ -20,8 +18,7 @@ That would have applied to about 700 Washington households, but legislators decl
 The millionaire’s tax would affect more than 20,000 households, making the new bill a compromise meant to address constituent frustrations about rising income inequality without fully alienating the billionaire business owners fueling the state economy.
 The revenue, which would hit state accounts starting in 2029, could also help close multibillion dollar deficits expected in coming years though would not help state leaders avoid cuts in the near term.
 “We don’t need to be the Cayman Islands; we don’t need to be a tax haven,” said Jamie Pedersen, a Democratic state senator and author of the tax bill.
-“We’ll do just fine if we have a stable, ordinary, progressive tax system.”
-When it comes to finances and politics, California and Washington have plenty in common: Both have been dominated by Democrats for a generation; Washington last voted for a Republican for president in 1984, California in 1988.
+“We’ll do just fine if we have a stable, ordinary, progressive tax system.” When it comes to finances and politics, California and Washington have plenty in common: Both have been dominated by Democrats for a generation; Washington last voted for a Republican for president in 1984, California in 1988.
 Both are home to some of the highest concentrations of billionaires in the country, largely because of the tech industry.
 Both have seen state budgets hit hard by federal tax cuts and reductions in federal spending.
 Washington, however, faces a unique set of financial challenges rooted in a tax system that relies heavily on forms of revenue that hit lower-income residents harder: property taxes, sales taxes and what’s known as a “business and occupation tax” on gross receipts, which economists say can amount to a second, hidden sales tax when it is passed along to consumers.
@@ -36,16 +33,17 @@ A year later, state lawmakers established the state’s first capital gains exci
 Last fall, voters in Seattle and its suburbs elected a slate of progressive candidates who campaigned on explicit promises of wealth redistribution.
 Still, only Florida has a more regressive state tax system, according to the Institute on Taxation and Economic Policy, a liberal research organization.
 “People still cannot afford to pay their rent, cannot afford to feed their families, can’t afford health care anymore, need child care to be able to go to work and can’t afford it,” said Noel Frame, a Democratic state senator who wrote last year’s failed wealth tax bill.
-“Our tax structure does not work.”
-Gov.
+“Our tax structure does not work.” Gov.
 Bob Ferguson, a Democrat, has decried a system that “takes too much in taxes from hard-working families and not enough from the wealthy.” He has also not yet promised to sign the new income tax measure.
 After the Senate vote last week, Mr.
 Ferguson said lawmakers need to include more help for small businesses, two annual sales tax holidays and more relief for working families.
 Overt opposition has so far come primarily from smaller-business organizations and anti-tax activists like Brian Heywood, a multimillionaire who has been funding conservative ballot measures for several years in Washington.
 The largest businesses in Washington have stayed quiet.
-Advertisement
-The state’s largest business lobbying groups have similarly not weighed in, but the chief executive of Seattle’s chamber of commerce, Joe Nguyen, was clearly worried.
+Advertisement The state’s largest business lobbying groups have similarly not weighed in, but the chief executive of Seattle’s chamber of commerce, Joe Nguyen, was clearly worried.
 “If you want to tax the rich, you need to have rich people to tax,” said Mr.
 Nguyen, who was once a Democratic state legislator, Microsoft manager and head of the Washington Department of Commerce.
-“If you want to protect workers, you need jobs for them to fill.”
-Anna Griffin the Pacific Northwest bureau chief for The Times, leading coverage of Washington, Idaho, Alaska, Montana and Oregon.
+“If you want to protect workers, you need jobs for them to fill.” Anna Griffin the Pacific Northwest bureau chief for The Times, leading coverage of Washington, Idaho, Alaska, Montana and Oregon.
+NEWS Upper Left Strategies https://upperleftstrategies.com Previous Previous Winners, losers and takeaways from WA’s legislative session Next Next WA Legislature’s ‘Revenue Queen’ readies for 2026 tax battles HOME ABOUT DONATE POLICIES Sign up TO receive news and updates Since 2016, Sen.
+Noel Frame has served the 36th Legislative District, fighting for economic prosperity for all of us, rebalancing our tax code, and strengthening our diverse communities.
+Reelect Noel Frame for Senate.
+NOEL FRAME FOR SENATE Paid for by Friends of Noel Frame (D) | PO Box 99143 | Seattle, WA 98139 Privacy Policy | Website Terms & Conditions

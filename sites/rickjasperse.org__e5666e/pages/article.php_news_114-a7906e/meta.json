@@ -1,11 +1,14 @@
 {
  "description": "REPORT FROM THE CAPITOL - We have had busy days at the Capitol this past week and will for the next two. Every representative ...",
  "final_url": "https://www.rickjasperse.org/article.php?news=114",
- "paid_for_by": null,
+ "fingerprint": "96962fee3a8e818cf1c0b4104bdfd55ee758fbae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "REPORT FROM THE CAPITOL - REPORT FROM THE CAPITOL",
  "years_mentioned": [
   "2020",
   "2021",
-  "2022"
+  "2022",
+  "2039"
  ]
 }

@@ -1,7 +1,9 @@
 {
  "description": "News about RI State Senator Linda Ujifusa.",
  "final_url": "https://www.ujifusa4ri.com/news",
- "paid_for_by": "Paid for by Campaign for Linda Ujifusa bottom of page",
+ "fingerprint": "f0db37fb180aaef871330d2c95d60aaa2f99a1d5",
+ "format": 3,
+ "paid_for_by": "sponsored by Senator Ujifusa, click here and select \"Ujifusa, Linda\" as the sponsor",
  "title": "News",
  "years_mentioned": [
   "2022",

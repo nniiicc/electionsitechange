@@ -1,4 +1,4 @@
-In Georgia, elections for Supreme Court Justices are nonpartisan.
+Meet Sarah What I Believe Contribute What I Believe In Georgia, elections for Supreme Court Justices are nonpartisan.
 That means that Justices do not run under the mantle of a political party.
 I ran a statewide, nonpartisan campaign when I was challenged in 2020 – and I won with 79% of the vote.
 I am running a nonpartisan, statewide campaign again in 2026 – not just because judicial elections are labeled “nonpartisan,” but also because running a nonpartisan race best reflects the fairness and impartiality that is essential to my job as a sitting Justice.
@@ -17,3 +17,5 @@ I have honored my limited role as a judge.
 I have served with integrity.
 I will continue to do all of those things when you re-elect me on May 19, 2026.
 It is my honor to continue working hard for the people of Georgia.
+Paid for by Georgians for Justice Warren, Inc.
+Victoria Cuneo Powell, Treasurer Serving With Integrity ✕ Vote May 19, 2026 Continue to the Site →

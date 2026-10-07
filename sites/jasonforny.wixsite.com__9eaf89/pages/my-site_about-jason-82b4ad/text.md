@@ -1,33 +1,13 @@
-THE JOURNEY: Meet Jason Murillo your Advocate for Lower Manhattan
-Born and raised in the heart of the Big Apple in Brooklyn, Jason Murillo grew up in Manhattan’s Lower East Side looking for a fresh start, living in NYCHA public housing, surviving childhood domestic violence and abuse, being homeless, living on the streets & in the city's shelter system with his mother, escaping an abusive father whom was involved in organized crime back in the 1970's and 1980's is where Jason witnessed firsthand both the strength and love for himself and from a community that took him as one of their own as a native son and the dramatic changes reshaping the city he loves.
-From a young age, Jason’s family instilled in him the values of hard work, personal responsibility, faith, and service to others.
+top of page Built on Home About Jason - Endorsements My Record Issues - Policy Vote Volunteer - Contact Form News / Press Donate DONATE THE JOURNEY: Meet Jason Murillo your Advocate for Lower Manhattan Born and raised in the heart of the Big Apple in Brooklyn, Jason Murillo grew up in Manhattan’s Lower East Side looking for a fresh start, living in NYCHA public housing, surviving childhood domestic violence and abuse, being homeless, living on the streets & in the city's shelter system with his mother, escaping an abusive father whom was involved in organized crime back in the 1970's and 1980's is where Jason witnessed firsthand both the strength and love for himself and from a community that took him as one of their own as a native son and the dramatic changes reshaping the city he loves. ​ From a young age, Jason’s family instilled in him the values of hard work, personal responsibility, faith, and service to others.
 Growing up in Manhattan’s Lower East Side, he saw firsthand the challenges and opportunities facing working families.
-Meet Jason Murillo, your advocate for Lower Manhattan, who attended local public schools and later community college in District 27, where he learned not only the importance of educational excellence but also the resilience and determination required to succeed in one of the most competitive cities in the world.
-Living and working in the community he calls home, Jason has seen the impact of rising costs, public safety concerns, struggling small businesses, and families feeling left behind by political leadership that no longer listens.
+Meet Jason Murillo, your advocate for Lower Manhattan, who attended local public schools and later community college in District 27, where he learned not only the importance of educational excellence but also the resilience and determination required to succeed in one of the most competitive cities in the world. ​ Living and working in the community he calls home, Jason has seen the impact of rising costs, public safety concerns, struggling small businesses, and families feeling left behind by political leadership that no longer listens.
 Those experiences shaped his commitment to step forward and fight for a better direction.
 Jason’s diverse professional background — spanning advocacy, community organizing, media, politics, small business ownership, and public service — has given him a well-rounded and practical understanding of the fiscal and policy challenges facing New York State.
-He understands how government decisions affect everyday New Yorkers because he has lived those realities alongside his neighbors.
-Jason has worked with elected officials, board of elections, city and state legislators, party leadership, fellow community leaders, and activists, having firsthand knowledge and hands-on experience of how good local and state government works and deliver results for our great New York families.
-Rooted in the Lower East Side and driven by a deep love for Manhattan, Jason Murillo is committed to bringing common-sense, community-first, family-first leadership back to Albany — because he believes our neighborhoods deserve representation that reflects their values, their struggles, and their hopes for the future.
-ENDORSEMENTS
-"Jason Murillo is the perfect partner i need in Albany to help me in the senate and to protect families in Lower Manhattan.
-His lifelong commitment to law enforcement and public safety is unmatched."
-— NY state senator steveN T. chan
-"Thank you Jason for your commitment to the New York Health Act and your commitment fighting to keep Hospitals open, Thank you for standing for healthcare for every New Yorker."
-—CAMPAIGN FOR NEW YORK HEALTH
-"Jason Murillo is the leader Manhattan needs to protect our values and ensure a safer future for all New Yorkers.
-His commitment to law and order is unmatched."
-— NY LAW ENFORCEMENT COALITION
-"A bold conservative voice who isn’t afraid to stand up for small businesses and families in District 27.
-Jason understands the struggles of everyday New Yorkers."
-— MANHATTAN SMALL BUSINESS ALLIANCE
-"Murillo’s dedication to fiscal responsibility and public safety is exactly what the State Senate requires to fix the dysfunction in Albany."
-— NEW YORK STATE CONSERVATIVE PARTY CHAIRMAN gerard KASSAR
-"Jason's lifelong dedication to fighting for NYCHA residents, seniors, and families is exactly what we need right now in Albany."
-— THE BRONX CONSERVATIVE PARTY VICE CHAIRMAN GONZALO DURAN
-"Jason Murillo has always stood with our community.
+He understands how government decisions affect everyday New Yorkers because he has lived those realities alongside his neighbors. ​ Jason has worked with elected officials, board of elections, city and state legislators, party leadership, fellow community leaders, and activists, having firsthand knowledge and hands-on experience of how good local and state government works and deliver results for our great New York families. ​ Rooted in the Lower East Side and driven by a deep love for Manhattan, Jason Murillo is committed to bringing common-sense, community-first, family-first leadership back to Albany — because he believes our neighborhoods deserve representation that reflects their values, their struggles, and their hopes for the future.
+ENDORSEMENTS "Jason Murillo is the perfect partner i need in Albany to help me in the senate and to protect families in Lower Manhattan.
+His lifelong commitment to law enforcement and public safety is unmatched." — NY state senator steveN T. chan "Thank you Jason for your commitment to the New York Health Act and your commitment fighting to keep Hospitals open, Thank you for standing for healthcare for every New Yorker." —CAMPAIGN FOR NEW YORK HEALTH "Jason Murillo is the leader Manhattan needs to protect our values and ensure a safer future for all New Yorkers.
+His commitment to law and order is unmatched." — NY LAW ENFORCEMENT COALITION "A bold conservative voice who isn’t afraid to stand up for small businesses and families in District 27.
+Jason understands the struggles of everyday New Yorkers." — MANHATTAN SMALL BUSINESS ALLIANCE "Murillo’s dedication to fiscal responsibility and public safety is exactly what the State Senate requires to fix the dysfunction in Albany." — NEW YORK STATE CONSERVATIVE PARTY CHAIRMAN gerard KASSAR "Jason's lifelong dedication to fighting for NYCHA residents, seniors, and families is exactly what we need right now in Albany." — THE BRONX CONSERVATIVE PARTY VICE CHAIRMAN GONZALO DURAN "Jason Murillo has always stood with our community.
 He listens, cares, and fights for tenants like us.
-We trust him to bring real change for families at Jacob Riis Houses and across District 27."
-— TENANTS OF JACOB RIIS HOUSES
-"I'm proud to endorse a candidate and leader such as Jason Murillo whom has a deep commitment to public service and a clear vision to restore common sense, accountability and competence in government."
-— manhattan republican party chairwoman andrea catsimatidis
+We trust him to bring real change for families at Jacob Riis Houses and across District 27." — TENANTS OF JACOB RIIS HOUSES "I'm proud to endorse a candidate and leader such as Jason Murillo whom has a deep commitment to public service and a clear vision to restore common sense, accountability and competence in government." — manhattan republican party chairwoman andrea catsimatidis Jason for NY contact jasonforny@gmail.com PAID FOR BY JASON FOR NY © # Jason Murillo for Senate.
+All rights reserved. bottom of page

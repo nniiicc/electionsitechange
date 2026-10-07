@@ -1,11 +1,5 @@
-Cows Around The Corner in Bethlehem, CT transforms fresh CT cows milk into artisan cheese and yogurt.
-Creating sustainable resources for their community – this is a small farm with […]
-Uncategorized
-Rooted in the 66th: March Farms – Bethlehem, CT
-March Farms of Bethlehem, CT has exploded with fresh produce and scenic vistas.
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved Uncategorized Rooted in the 66th: Cows Around The Corner in Bethlehem, CT August 23, 2026 Cows Around The Corner in Bethlehem, CT transforms fresh CT cows milk into artisan cheese and yogurt.
+Creating sustainable resources for their community – this is a small farm with […] Filed Under: Uncategorized Rooted in the 66th: March Farms – Bethlehem, CT August 6, 2026 March Farms of Bethlehem, CT has exploded with fresh produce and scenic vistas.
 So fortunate to have this amazing farm in our 66th District!
-Rooted in the 66th: 4-H Clubs Exhibits at the Goshen Fair Grounds
-Great to see the 4-H clubs exhibits at the Goshen Fair grounds.
-The level of leadership skills and business skills that are taught in this valuable program is a tribute […]
-Karen Reddington-Hughes Commits to Re-Election as State Representative for Connecticut’s 66th District
-Earlier this month, at a small event at the Litchfield Distillery, State Representative Karen Reddington-Hughes made clear her commitment to be re-elected as the State Representative for Connecticut’s 66th District. […]
+Filed Under: Uncategorized Rooted in the 66th: 4-H Clubs Exhibits at the Goshen Fair Grounds August 3, 2026 Great to see the 4-H clubs exhibits at the Goshen Fair grounds.
+The level of leadership skills and business skills that are taught in this valuable program is a tribute […] Filed Under: Uncategorized Karen Reddington-Hughes Commits to Re-Election as State Representative for Connecticut’s 66th District February 19, 2026 Earlier this month, at a small event at the Litchfield Distillery, State Representative Karen Reddington-Hughes made clear her commitment to be re-elected as the State Representative for Connecticut’s 66th District. […] Filed Under: Uncategorized Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

@@ -1,16 +1,12 @@
-UNITED STEELWORKERS ENDORSE
-JOE MORELLE FOR CONGRESS
-May 4, 2018 | Press Release
-Rochester, NY – May 4, 2018 (Rochester, NY) – Today, the United Steelworkers (USW) endorsed Joe Morelle in the race for the for the 25th Congressional District.
+top of page ABOUT JOE FIGHTING FOR US ANTI-CORRUPTION AND DEMOCRACY REFORM PROTECTING AGING AMERICANS FIXING HEALTH CARE WOMEN'S RIGHTS COMMON SENSE GUN REFORM COMBATING THE CLIMATE CRISIS COMBATING OPIOID ADDICTION HONORING OUR VETERANS LGBTQ+ RIGHTS IMPROVING K-12 EDUCATION EXPANDING ACCESS TO HIGHER EDUCATION UPLIFTING FAMILIES TAKE ACTION JOIN THE TEAM INTERNSHIPS EARLY VOTING GUIDE PRIVACY POLICY VOTE BY MAIL CONTACT MORE Use tab to navigate through the menu items.
+DONATE UNITED STEELWORKERS ENDORSE JOE MORELLE FOR CONGRESS May 4, 2018 | Press Release Rochester, NY – May 4, 2018 (Rochester, NY) – Today, the United Steelworkers (USW) endorsed Joe Morelle in the race for the for the 25th Congressional District.
 The USW represents 850,000 workers in North America employed in many industries that include metals, rubber, chemicals, paper, oil refining and the service and public sectors.
 “As Majority Leader in the New York State Assembly, Joe was the prime sponsor of strong Buy American legislation for state projects that passed last year.
 We know that he will take his values and work ethic to Washington, D.C., and continue to fight for our families,” said USW District 4 Director John Shinn.
 “Without a doubt, the working men and women of New York need a strong advocate to live up to the legacy of Rep.
 Slaughter.
-Joe Morelle is truly the best choice to continue her work and carry through with her vision.”
-“Growing up in a union home, I learned early on that when working families succeed our community grows stronger and our nation thrives.
+Joe Morelle is truly the best choice to continue her work and carry through with her vision.” “Growing up in a union home, I learned early on that when working families succeed our community grows stronger and our nation thrives.
 That is why I will never stop fighting to improve access to job opportunities, strengthen wages, and ensure healthcare is available to all people,” said Morelle.
-“In Congress, I will continue to be an outspoken advocate for our men and women of labor and ensure the values of working families are never forgotten.”
-Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
+“In Congress, I will continue to be an outspoken advocate for our men and women of labor and ensure the values of working families are never forgotten.” Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
 In the Assembly, Morelle has successfully fought for the passage of legislation to raise the minimum wage in New York State, establish paid family leave to ease the burden on our working families, improve access to healthcare for all people, bring millions of dollars in infrastructure improvements to our area, and increase workforce development training to ensure individuals have the skills and training they need to be successful.
-Morelle has received over a dozen endorsements from local and nationwide labor unions.
+Morelle has received over a dozen endorsements from local and nationwide labor unions. ​ Join LEARN / GET INVOLVED About Joe News Volunteer Early Voting Donate Media Privacy Policy FIGHTING FOR US Protecting Aging Americans Fixing Health Care Women's Rights Common Sense Gun Reform Protecting Our Environment Honoring Our Veterans Anti-Corruption and Democracy Reform LGBTQ+ Rights Improving K-12 Education Expanding Access to Higher Education Uplifting Families Combating Opioid Addiction SOCIAL Facebook Twitter Instagram PAID FOR BY JOE MORELLE FOR CONGRESS bottom of page

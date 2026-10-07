@@ -1,3 +1,15 @@
-Brian Lambert Announces Campaign for Congress in Florida’s 14th District
-Navy veteran Brian Lambert officially launches his campaign for Congress, pledging to restore constitutional government, defend individual liberty, and put service before power.
-Read the full update
+Brian Lambert FOR CONGRESS About Brian Why Libertarian Issues Updates Volunteer Contact Donate From the Campaign Campaign Updates Follow the campaign, read Brian's latest statements, and stay informed about events and activity across Florida's 14th Congressional District.
+Campaign Announcement July 20, 2026 Brian Lambert Announces Campaign for Congress in Florida’s 14th District Navy veteran Brian Lambert officially launches his campaign for Congress, pledging to restore constitutional government, defend individual liberty, and put service before power.
+Read the full update → On the Campaign Trail August 2026 Campaign Events August 6: Brandon / Riverview Chamber Candidate Connection August 11: Tampa Bay Chamber Political Hob Nob — Table 27 August 13: BOCC Meeting August 18: LibertyDad Podcast September 22: Patriots for America event at El Jefe in Tampa — 6:00–8:45 PM September 26: "Candid" Candidate Meet and Greet with Lt.
+Governor candidate Nicole Skelly at Yuengling Draft Haus — 2:00–3:00 PM Campaign Interview Reclaiming My Mind Podcast · September 8, 2026 Beyond the Two-Party System with Brian Lambert Brian joins Reclaiming My Mind to discuss challenging the two-party status quo, his 20 years of Navy service, constitutional government, and his campaign for Florida's 14th Congressional District.
+Listen to the interview ↗ Campaign Interview Libertarian Leadership Academy · August 19, 2026 Brian Lambert Joins Libertarian Leadership Academy Brian Lambert joins Libertarian Leadership Academy for a live discussion about his campaign for Congress, constitutional government, individual liberty, and bringing service-first leadership to Washington.
+Watch the interview ↗ Campaign Interview LibertyDad Podcast · August 18, 2026 Brian Lambert Joins the LibertyDad Podcast Brian Lambert joins LibertyDad for a conversation about his campaign for Congress in Florida's 14th District, Libertarian principles, constitutional government, and individual liberty.
+Watch the interview ↗ In the News Military.com · August 11, 2026 Navy Veteran's Third-Party Congressional Bid Tackles VA Benefits, Mental Health Military.com profiles Brian Lambert's campaign and his focus on veterans' earned benefits, VA accountability, and the veteran mental-health crisis.
+Read the Military.com story ↗ In the News Tampa Free Press · July 21, 2026 Navy Veteran Brian Lambert Launches Congressional Bid in Florida’s 14th District Tampa Free Press covers Brian Lambert's campaign launch, Navy service, constitutional platform, commitment to accountability, and advocacy for veterans.
+Read the Tampa Free Press story ↗ Brian Lambert Libertarian for Congress Florida's 14th Congressional District info@brianlambertforcongress.com Campaign Phone: (813) 578-7569 Freedom isn't Left or Right.
+It's American.
+Connect f ◎ @ ♪ ▶ Volunteer Donate Twenty years serving our nation.
+A lifetime defending liberty. © # Brian Lambert for Congress.
+All Rights Reserved.
+Paid for by Brian Lambert for Congress.
+The Constitution limits the government, not the people.

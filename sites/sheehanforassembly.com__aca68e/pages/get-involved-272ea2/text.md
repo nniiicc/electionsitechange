@@ -1,20 +1,2 @@
-Skip to content
-Home
-Meet Joe
-Priorities
-Legislation
-Endorsements
-Vote
-Get Involved
-Donate
-Get Involved
-Help Joe Make a Difference
-Want to get involved?
-Donate to Joe
-$10
-$26
-$50
-$100
-$500
-$1000
-Other Amount
+Skip to content Home Meet Joe Priorities Legislation Endorsements Vote Get Involved Donate Get Involved Help Joe Make a Difference Want to get involved?
+Donate to Joe $10 $26 $50 $100 $500 $1000 Other Amount Home Meet Joe Priorities Legislation Endorsements Vote Get Involved Donate Facebook X Instagram Authorized and paid for by Sheehan for 26th Assembly Powered by Tech for Campaigns info@sheehanforassembly.com

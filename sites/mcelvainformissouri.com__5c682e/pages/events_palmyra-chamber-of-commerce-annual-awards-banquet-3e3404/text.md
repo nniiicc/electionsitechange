@@ -1,9 +1,2 @@
-Back to All Events
-Enjoyed celebrating community members through various awards, including Citizen, Educator, and Volunteer of the Year.
-Previous
-Previous
-October 20
-Taste of Palmyra
-Next
-Next
-February 28
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Palmyra Chamber of Commerce Annual Awards Banquet Thursday, January 8, 2026 5:30 PM 8:30 PM Google Calendar ICS Enjoyed celebrating community members through various awards, including Citizen, Educator, and Volunteer of the Year.
+Previous Previous October 20 Taste of Palmyra Next Next February 28 Lincoln Day Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

@@ -1,31 +1,130 @@
 [
-"https://micahaiu.com/",
-"https://micahaiu.com/about-micah",
-"https://micahaiu.com/contact",
-"https://micahaiu.com/contribute",
-"https://micahaiu.com/issues",
-"https://micahaiu.com/media/04b3b304a7e9f419.jpg",
-"https://micahaiu.com/media/04e7f76512043456.jpg",
-"https://micahaiu.com/media/2e25560a941177fc.jpg",
-"https://micahaiu.com/media/323a15f955efbd84.jpg",
-"https://micahaiu.com/media/3c87f7d26d9c5dda.jpg",
-"https://micahaiu.com/media/428ec7df07669bec.jpg",
-"https://micahaiu.com/media/453938dd160c86a8.jpg",
-"https://micahaiu.com/media/49641ed4860e5abb.jpg",
-"https://micahaiu.com/media/4d0cffe8d7d38ae0.jpg",
-"https://micahaiu.com/media/687fcca3b4db4915.jpg",
-"https://micahaiu.com/media/6f6d8b107899fa15.jpg",
-"https://micahaiu.com/media/87b498a8d36a448a.jpg",
-"https://micahaiu.com/media/8aa5730a88f18a2e.jpg",
-"https://micahaiu.com/media/a53bb58c75f01855.jpg",
-"https://micahaiu.com/media/a8bd7ab1ab46936f.jpg",
-"https://micahaiu.com/media/b221bc072687fe62.jpg",
-"https://micahaiu.com/media/dc57d563193a1a09.jpg",
-"https://micahaiu.com/media/e457b9fac0edffd5.jpg",
-"https://micahaiu.com/media/f0164fed1e192cf4.jpg",
-"https://micahaiu.com/media/fac738bc013307e9.jpg",
-"https://micahaiu.com/photos",
-"https://micahaiu.com/privacy",
-"https://micahaiu.com/terms",
-"https://micahaiu.com/volunteer"
+{
+"text": "About Micah",
+"href": "https://www.micahaiu.com/about-micah"
+},
+{
+"text": "Contact",
+"href": "https://www.micahaiu.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.micahaiu.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.micahaiu.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.micahaiu.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.micahaiu.com/privacy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.micahaiu.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.micahaiu.com/volunteer"
+},
+{
+"text": "[image: Micah Poʻokela Kim Aiu, House District 32]Hawaiʻi State HouseDistrict 32 · 2026",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "[image: Micah and Donna Mercado Kim with campaign signs]",
+"href": "https://www.micahaiu.com/media/04b3b304a7e9f419.jpg"
+},
+{
+"text": "[image: Micah and his mother Donna Mercado Kim]",
+"href": "https://www.micahaiu.com/media/453938dd160c86a8.jpg"
+},
+{
+"text": "[image: Micah and his mother waving campaign signs]",
+"href": "https://www.micahaiu.com/media/3c87f7d26d9c5dda.jpg"
+},
+{
+"text": "[image: Micah at Moanalua High School]",
+"href": "https://www.micahaiu.com/media/f0164fed1e192cf4.jpg"
+},
+{
+"text": "[image: Micah at a community awards ceremony]",
+"href": "https://www.micahaiu.com/media/687fcca3b4db4915.jpg"
+},
+{
+"text": "[image: Micah at a community service gathering]",
+"href": "https://www.micahaiu.com/media/dc57d563193a1a09.jpg"
+},
+{
+"text": "[image: Micah at a neighborhood event]",
+"href": "https://www.micahaiu.com/media/a53bb58c75f01855.jpg"
+},
+{
+"text": "[image: Micah greeting a community member]",
+"href": "https://www.micahaiu.com/media/87b498a8d36a448a.jpg"
+},
+{
+"text": "[image: Micah in his childhood Cub Scout uniform]",
+"href": "https://www.micahaiu.com/media/6f6d8b107899fa15.jpg"
+},
+{
+"text": "[image: Micah talking with a community member]",
+"href": "https://www.micahaiu.com/media/fac738bc013307e9.jpg"
+},
+{
+"text": "[image: Micah with Scouts at the State Capitol]",
+"href": "https://www.micahaiu.com/media/e457b9fac0edffd5.jpg"
+},
+{
+"text": "[image: Micah with community volunteers]",
+"href": "https://www.micahaiu.com/media/04e7f76512043456.jpg"
+},
+{
+"text": "[image: Micah with family and neighbors]",
+"href": "https://www.micahaiu.com/media/8aa5730a88f18a2e.jpg"
+},
+{
+"text": "[image: Micah with family at a celebration]",
+"href": "https://www.micahaiu.com/media/a8bd7ab1ab46936f.jpg"
+},
+{
+"text": "[image: Micah with family at the State Capitol]",
+"href": "https://www.micahaiu.com/media/49641ed4860e5abb.jpg"
+},
+{
+"text": "[image: Micah with family outdoors]",
+"href": "https://www.micahaiu.com/media/2e25560a941177fc.jpg"
+},
+{
+"text": "[image: Micah with his family as a child]",
+"href": "https://www.micahaiu.com/media/b221bc072687fe62.jpg"
+},
+{
+"text": "[image: Micah with young students]",
+"href": "https://www.micahaiu.com/media/323a15f955efbd84.jpg"
+},
+{
+"text": "[image: Moanalua Lions Club serving the community]",
+"href": "https://www.micahaiu.com/media/428ec7df07669bec.jpg"
+},
+{
+"text": "[image: Spike and Serve championship volleyball team]",
+"href": "https://www.micahaiu.com/media/4d0cffe8d7d38ae0.jpg"
+},
+{
+"text": "vote@micahaiu.com",
+"href": "mailto:vote@micahaiu.com"
+},
+{
+"text": "www.micahaiu.com",
+"href": "https://www.micahaiu.com/"
+}
 ]

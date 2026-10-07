@@ -1,5 +1,4 @@
-Why I'm Running
-While I have only been a full-time resident of Florida for over two years, I have wintered down here for several.
+Skip navigation menu About Why I'm Running Policy Positions Endorsements News Contact Donate About Why I'm Running Policy Positions Endorsements News Contact Donate Why I'm Running While I have only been a full-time resident of Florida for over two years, I have wintered down here for several.
 I know that I am a Democrat in a heavily Republican county, but hope that even as a citizen, I can be a change-agent for social and political progress, i.e. gaining acceptance and tolerance for each other.
 I have watched with increasing concern as the Florida governing bodies have implemented laws to consolidate power at the state level, and limit/eliminate choice and self-determination from individuals and local communities.
 I have watched as Florida's unique ecosystems are being compromised and destroyed by development with full endorsement and support of Florida's leadership.
@@ -28,3 +27,4 @@ Florida politicians have spent time and energy, thus taxpayer dollars to change 
 What I am is someone that has viewed a Florida governor and legislature working to turn neighbors against each other, but has also seen very kind and accepting people that are as tired as I of the toxic tone within our state and country.
 What I am is a candidate that is asking for your support to make a stand and tell the politicians that we need them to work for OUR good, not the political agenda of big business that is decimating natural resources in Florida.
 We need answers and actions to make all our lives better, not just those of their political cronies.
+Powered by RUN! website builder Paid for by Leigh Estes, Democrat, for State House District 83 You need to enable JavaScript to run this app.

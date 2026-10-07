@@ -1,6 +1,14 @@
-Constituent Services
-How can I help you?
+Skip to content Chip in $5 to elect Erica Roth Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Constituent Services How can I help you?
 As the Assemblymember for Nevada’s 24th Assembly District, I am proud to assist my constituents with a variety of issues.
-Legislative Tracker
-Sponsored
-We’ll send you updates on the 2025 legislative session, and exciting campaign announcements.
+Request a meeting Help with state agency Contact Me Leaving public comment on legislation Create a free legislative tracker Giving in person testimony Press Releases AB235 Legislative Tracker Sponsored Bill Number Summary AB119 Status: Did not pass.
+AB119 will give our state the tools to intervene before militia groups become a threat to our communities.
+Anti-government groups are increasingly making threats against election workers, protesters, and other government officials.
+AB235 Status: Signed into law AB235 will allow those providers to remove their address from public records and display an alternate address on their state-issued IDs.
+This will ensure they can continue providing life-saving care without fear of harassment or retaliation.
+AB201 Status: Sent to Governor AB 201, which will reduce barriers to housing and protect renters from unjust eviction proceedings.
+AB329 Status: Signed Into Law AB 329 will remove barriers preventing crime victims from receiving monetary compensation that helps them rebuild their lives.
+AB395 Status: Did not pass.
+AB 395 will require certain healthcare providers to provide a qualified sign language interpreter or other assistive technology to those who need it.
+A467 Status: Sent to Governor AB 467 expands access to mental health services in our county jails.
+Facebook Twitter Instagram Linkedin Send Checks to 550 W Plumb Lane Ste B, #214 Reno, NV 89509 Get Started Meet Erica Issues Media Contact Email Zip Stay In Touch!
+Paid for By The Committee to Elect Erica for Nevada Contact Us Name Phone Email Zip Reason for Contact Voter Questions Press Inquiry Volunteer Interest Other Message Submit Join My Mailing List We’ll send you updates on the 2025 legislative session, and exciting campaign announcements. * indicates required Email Address * First Name Last Name Phone Number /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

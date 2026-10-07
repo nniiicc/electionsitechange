@@ -1,6 +1,4 @@
-NH State Representative Tom Cormen
-of May 21, 2026
-With one exception, today’s votes were whether to concur with Senate changes to House bills.
+Home About Votes Media Contact Donate NH State Representative Tom Cormen My votes in the NH House session of May 21, 2026 With one exception, today’s votes were whether to concur with Senate changes to House bills.
 The exception was the last vote of the day, about whether to accept the report of the Legislative Administration Committee that recommended that Rep.
 Travis Corcoran (R-Weare) be censured.
 We do not censure members often.
@@ -32,75 +30,7 @@ And just as well.
 After the vote on Rep.
 Corcoran, my seatmate and ranking member, Rep.
 Kat McGhee (D-Hollis), moved to remove from the table the motion to restore access for Rep.
-Ellen Read.
+Ellen Read .
 It failed on a roll call vote 158-179.
-| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
-|---|---|---|---|---|---|
-| HB 241 | Concur | Voice | Yea | Concur | |
-| HB 1207 | Concur | Voice | Yea | Concur | |
-| HB 1262 | Concur | Voice | Yea | Concur | |
-| HB 1491 | Concur | Voice | Yea | Concur | |
-| HB 1765 | Concur | Voice | Yea | Concur | |
-| HB 1236 | Concur | Division | Nay | Concur 191-154 | |
-| HB 1348 | Concur | Voice | Yea | Concur | |
-| HB 1423 | Non-Concur | Voice | Yea | Non-Concur | |
-| HB 1522 | Concur | Voice | Yea | Concur | |
-| HB 1637 | Concur | Voice | Yea | Concur | |
-| HB 1651 | Concur | Voice | Yea | Concur | |
-| SB 625 | Accede | Division | Yea | Accede 337-12 | |
-| HB 1610 | Concur | Roll call | Nay | Concur 186-163 | |
-| HB 1268 | Concur | Division | Nay | Concur 178-170 | |
-| HB 1358 | Concur | Roll call | Nay | Concur 184-164 | |
-| HB 1573 | Concur | Division | Nay | Concur 186-160 | |
-| HB 1774 | Concur | Voice | Yea | Concur | |
-| HB 1792 | Non-Concur | Voice | Yea | Non-Concur | Concur motion failed on roll call vote 127-222; I voted Nay |
-| SB 578 | Accede | Voice | Yea | Accede | |
-| SB 534 | Accede | Voice | Yea | Accede | |
-| HB 396 | Concur | Voice | Nay | Concur | |
-| HB 707 | Concur | Voice | Yea | Concur | |
-| HB 1511 | Concur | Voice | Yea | Concur | |
-| SB 475 | Accede | Voice | Yea | Accede | |
-| HB 1269 | Concur | Voice | Yea | Concur | |
-| HB 1312 | Concur | Voice | Yea | Concur | |
-| HB 1328 | Concur | Voice | Yea | Concur | |
-| HB 1555 | Concur | Division | Nay | Concur 180-160 | |
-| SB 400 | Refuse to Accede | Voice | Yea | Refuse to Accede | |
-| HB 1219 | Concur | Voice | Yea | Concur | |
-| HB 1337 | Concur | Voice | Yea | Concur | |
-| HB 1449 | Non-Concur | Voice | Yea | Non-Concur | |
-| HB 1021 | Concur | Voice | Yea | Concur | |
-| HB 1079 | Concur | Division | Yea | Concur 269-73 | |
-| HB 1103 | Concur | Division | Yea | Concur | |
-| HB 1336 | Concur | Roll call | Nay | Concur 180-162 | |
-| HB 1523 | Concur | Voice | Yea | Concur | |
-| HB 1598 | Concur | Voice | Yea | Concur | |
-| HB 1681 | Concur | Roll call | Yea | Concur 242-102 | |
-| HB 164 | Concur | Voice | Yea | Concur | |
-| HB 232 | Concur | Roll call | Nay | Concur 179-154 | |
-| HB 1040 | Concur | Voice | Yea | Concur | |
-| HB 1115 | Concur | Voice | Yea | Concur | |
-| HB 1384 | Concur | Division | Nay | Concur 186-150 | |
-| HB 1419 | Non-Concur | Voice | Yea | Non-Concur | |
-| HB 1442 | Concur | Roll call | Nay | Concur 184-155 | |
-| HB 1705 | Concur | Voice | Yea | Concur | |
-| HB 1332 | Concur | Voice | Yea | Concur | |
-| HB 1131 | Non-Concur | Voice | Yea | Non-Concur | |
-| HB 1756 | Concur | Voice | Yea | Concur | |
-| HB 2026 | Concur | Voice | Yea | Concur | |
-| HB 1088-FN-A | Concur | Voice | Yea | Concur | |
-| HB 1095 | Concur | Voice | Yea | Concur | |
-| HB 1141 | Concur | Voice | Yea | Concur | |
-| HB 1603-FN | Concur | Voice | Yea | Concur | |
-| HB 1768 | Non-Concur | Voice | Yea | Non-Concur | |
-| HB 1542 | Non-Concur | Division | Nay | Non-Concur 189-148 | |
-| HB 1577 | Concur | Voice | Yea | Concur | |
-| HB 1718 | Concur | Voice | Yea | Concur | |
-| HB 1723 | Concur | Division | Nay | Concur 186-153 | |
-| SB 538 | Accede | Voice | Yea | Accede | |
-| HB 1252 | Concur | Voice | Yea | Concur | |
-| HB 1362 | Concur | Voice | Yea | Concur | |
-| HB 1415 | Concur | Voice | Yea | Concur | |
-| HB 1194 | Req CofC | Voice | Yea | Req CofC | |
-| Censure Rep.
-Corcoran | Affirm the Report | Roll call | Yea | Affirm 288-54 | |
-| Restrict Access | Remove from Table | Roll call | Yea | 158-179 | |
+Bill Motion Type of vote My vote Result of vote Notes HB 241 Concur Voice Yea Concur HB 1207 Concur Voice Yea Concur HB 1262 Concur Voice Yea Concur HB 1491 Concur Voice Yea Concur HB 1765 Concur Voice Yea Concur HB 1236 Concur Division Nay Concur 191-154 HB 1348 Concur Voice Yea Concur HB 1423 Non-Concur Voice Yea Non-Concur HB 1522 Concur Voice Yea Concur HB 1637 Concur Voice Yea Concur HB 1651 Concur Voice Yea Concur SB 625 Accede Division Yea Accede 337-12 HB 1610 Concur Roll call Nay Concur 186-163 HB 1268 Concur Division Nay Concur 178-170 HB 1358 Concur Roll call Nay Concur 184-164 HB 1573 Concur Division Nay Concur 186-160 HB 1774 Concur Voice Yea Concur HB 1792 Non-Concur Voice Yea Non-Concur Concur motion failed on roll call vote 127-222; I voted Nay SB 578 Accede Voice Yea Accede SB 534 Accede Voice Yea Accede HB 396 Concur Voice Nay Concur HB 707 Concur Voice Yea Concur HB 1511 Concur Voice Yea Concur SB 475 Accede Voice Yea Accede HB 1269 Concur Voice Yea Concur HB 1312 Concur Voice Yea Concur HB 1328 Concur Voice Yea Concur HB 1555 Concur Division Nay Concur 180-160 SB 400 Refuse to Accede Voice Yea Refuse to Accede HB 1219 Concur Voice Yea Concur HB 1337 Concur Voice Yea Concur HB 1449 Non-Concur Voice Yea Non-Concur HB 1021 Concur Voice Yea Concur HB 1079 Concur Division Yea Concur 269-73 HB 1103 Concur Division Yea Concur HB 1336 Concur Roll call Nay Concur 180-162 HB 1523 Concur Voice Yea Concur HB 1598 Concur Voice Yea Concur HB 1681 Concur Roll call Yea Concur 242-102 HB 164 Concur Voice Yea Concur HB 232 Concur Roll call Nay Concur 179-154 HB 1040 Concur Voice Yea Concur HB 1115 Concur Voice Yea Concur HB 1384 Concur Division Nay Concur 186-150 HB 1419 Non-Concur Voice Yea Non-Concur HB 1442 Concur Roll call Nay Concur 184-155 HB 1705 Concur Voice Yea Concur HB 1332 Concur Voice Yea Concur HB 1131 Non-Concur Voice Yea Non-Concur HB 1756 Concur Voice Yea Concur HB 2026 Concur Voice Yea Concur HB 1088-FN-A Concur Voice Yea Concur HB 1095 Concur Voice Yea Concur HB 1141 Concur Voice Yea Concur HB 1603-FN Concur Voice Yea Concur HB 1768 Non-Concur Voice Yea Non-Concur HB 1542 Non-Concur Division Nay Non-Concur 189-148 HB 1577 Concur Voice Yea Concur HB 1718 Concur Voice Yea Concur HB 1723 Concur Division Nay Concur 186-153 SB 538 Accede Voice Yea Accede HB 1252 Concur Voice Yea Concur HB 1362 Concur Voice Yea Concur HB 1415 Concur Voice Yea Concur HB 1194 Req CofC Voice Yea Req CofC Censure Rep.
+Corcoran Affirm the Report Roll call Yea Affirm 288-54 Restrict Access Remove from Table Roll call Yea 158-179

@@ -1,17 +1,2 @@
-News
-Senator Maroney featured in national coverage as a leading architect of state AI and privacy policy
-Read More News
-August 27, 2026
-No Comments
-August 27, 2026
-No Comments
-Connecticut Senate passes Maroney’s data broker “right to delete” bill in 31–4 bipartisan vote — CT Mirror
-Read More News
-August 27, 2026
-No Comments
-Photo Gallery
-About James Maroney
-State Senator James Maroney has represented Connecticut’s 14th Senatorial District since 2019.
-The district encompasses Milford, Orange, and parts of West Haven and Woodbridge
-Became Volunteer Now
-In a world where every voice counts, political volunteering is a powerful way to make a tangible impact on the future of your community
+maroneyforus.com United States james@maroneyforus.com Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home About James Senator Maroney Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Home Event News About James Accomplishments Policy Goals Volunteer Internship Events News News Senator Maroney welcomes 361000 in special education support to district Read More News Read More » August 29, 2026 No Comments Senator Maroney featured in national coverage as a leading architect of state AI and privacy policy Read More News Read More » August 27, 2026 No Comments Governor Lamont signs Maroney-authored youth online safety protections into law Read More News Read More » August 27, 2026 No Comments Connecticut Senate passes Maroney’s data broker “right to delete” bill in 31–4 bipartisan vote — CT Mirror Read More News Read More » August 27, 2026 No Comments Photo Gallery About James Maroney State Senator James Maroney has represented Connecticut’s 14th Senatorial District since 2019.
+The district encompasses Milford, Orange, and parts of West Haven and Woodbridge Read More Became Volunteer Now In a world where every voice counts, political volunteering is a powerful way to make a tangible impact on the future of your community Join Now About Me James Maroney for State Senate Proudly serving Milford, Orange, West Haven, and Woodbridge Quick Links Meet James Results Issues News Volunteer Get In Touch + 1 (203) 214 9133 james@maroneyforus.com United States Maroney For Us! © All Rights Reserved.

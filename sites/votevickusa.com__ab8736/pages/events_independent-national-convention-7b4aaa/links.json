@@ -1,33 +1,134 @@
 [
-"http://discordapp.com/users/740421692853190677",
-"http://google.com/calendar/event?action=TEMPLATE&text=Independent+National+Convention&dates=20260923T130000Z%2F20260926T030000Z&location=1331+Pennsylvania+Avenue+Northwest%2C+Washington%2C+District+of+Columbia%2C+20004%2C+United+States",
-"http://inscapewebdesign.com/",
-"http://maps.google.com/?q=1331+Pennsylvania+Avenue+Northwest+Washington%2C+District+of+Columbia%2C+20004+United+States",
-"https://bsky.app/profile/votevickusa.bsky.social",
-"https://elections.il.gov/",
-"https://facebook.com/VoteVickUSA",
-"https://ilsolidarity.com/",
-"https://independentnationalconvention.com/",
-"https://instagram.com/votevick",
-"https://linkedin.com/in/votevickusa",
-"https://reddit.com/user/VoteVick",
-"https://secure.anedot.com/friends-of-mike-vick/votevickusa",
-"https://twitter.com/VoteVickUSA",
-"https://unorthodoxing.com/",
-"https://votevickusa.com/",
-"https://votevickusa.com/cart",
-"https://votevickusa.com/contact",
-"https://votevickusa.com/events",
-"https://votevickusa.com/events/illinois-solidarity-party-convention",
-"https://votevickusa.com/events/independent-national-convention?format=ical",
-"https://votevickusa.com/events/rehumanize-conference-2026",
-"https://votevickusa.com/home",
-"https://votevickusa.com/meet-gary",
-"https://votevickusa.com/meet-mike",
-"https://votevickusa.com/news",
-"https://votevickusa.com/priorities",
-"https://votevickusa.com/values",
-"https://votevickusa.com/volunteer",
-"https://votevickusa.store/",
-"https://youtube.com/@votevickusa"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1331+pennsylvania+avenue+northwest+washington%2C+district+of+columbia%2C+20004+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votevickusa.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "CONTRIBUTE!",
+"href": "https://secure.anedot.com/friends-of-mike-vick/votevickusa"
+},
+{
+"text": "Contact",
+"href": "https://www.votevickusa.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.votevickusa.com/events"
+},
+{
+"text": "Follow Us",
+"href": "https://votevickusa.store"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Independent+National+Convention&dates=20260923T130000Z%2F20260926T030000Z&location=1331+Pennsylvania+Avenue+Northwest%2C+Washington%2C+District+of+Columbia%2C+20004%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votevickusa.com/events/independent-national-convention?format=ical"
+},
+{
+"text": "Inscape",
+"href": "http://inscapewebdesign.com"
+},
+{
+"text": "Meet Gary",
+"href": "https://www.votevickusa.com/meet-gary"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.votevickusa.com/meet-mike"
+},
+{
+"text": "News",
+"href": "https://www.votevickusa.com/news"
+},
+{
+"text": "Next Next October 16 Rehumanize Conference 2026",
+"href": "https://www.votevickusa.com/events/rehumanize-conference-2026"
+},
+{
+"text": "Our Party",
+"href": "https://www.ilsolidarity.com/"
+},
+{
+"text": "PODCAST",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "Previous Previous August 29 Illinois Solidarity Party Convention",
+"href": "https://www.votevickusa.com/events/illinois-solidarity-party-convention"
+},
+{
+"text": "Priorities",
+"href": "https://www.votevickusa.com/priorities"
+},
+{
+"text": "Values",
+"href": "https://www.votevickusa.com/values"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votevickusa.com/volunteer"
+},
+{
+"text": "VoteVickUSA.com",
+"href": "https://www.votevickusa.com/home"
+},
+{
+"text": "[image: VoteVickUSA]",
+"href": "https://www.votevickusa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.discordapp.com/users/740421692853190677"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votevickusa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteVickUSA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votevick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/votevickusa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/user/VoteVick/"
+},
+{
+"text": "[no text]",
+"href": "https://www.unorthodoxing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votevickusa"
+},
+{
+"text": "https://independentnationalconvention.com/",
+"href": "https://independentnationalconvention.com/"
+},
+{
+"text": "website",
+"href": "https://www.elections.il.gov"
+}
 ]

@@ -1,7 +1,5 @@
-REP.
-AFTYN BEHN
-TN HOUSE DISTRICT 51
-TAKING ON CORPORATE GREED AND CORRUPTIOn.
+0 Skip to Content DONATE Campaigns Pot for Potholes Children Over Checks End The Grocery Tax Policy Briefs Tennessee Data Center Policy 101 About Aftyn Open Menu Close Menu DONATE Campaigns Pot for Potholes Children Over Checks End The Grocery Tax Policy Briefs Tennessee Data Center Policy 101 About Aftyn Open Menu Close Menu DONATE Folder: Campaigns Back Pot for Potholes Children Over Checks End The Grocery Tax Folder: Policy Briefs Back Tennessee Data Center Policy 101 About Aftyn REP.
+AFTYN BEHN TN HOUSE DISTRICT 51 GET UPDATES DONATE TAKING ON CORPORATE GREED AND CORRUPTIOn.
 BUILDING a government that works for all of us.
 Rep.
 Aftyn Behn cares loudly for tennesseeans.
@@ -17,9 +15,10 @@ Behn represents a different approach.
 She advocates for policies that make Tennessee more affordable and fair, demanding transparency and accountability from those in power.
 She'll listen to constituents first, then fight for their priorities instead of corporate interests.
 Tennessee deserves leaders who believe in people over profit.
-ABOUT AFTYN
-Raised in East Tennessee, Aftyn has called Nashville home since 2017.
+ABOUT AFTYN Raised in East Tennessee, Aftyn has called Nashville home since 2017.
 She moved back to Tennessee determined to fight an economy rigged against working people—one where corporate power and political corruption determine who gets heard and who gets left behind.
 Since then, she's stood up to corporate interests and the Republican supermajority's priorities: tax breaks for the wealthy, privatization schemes, and policies that hurt working families while enriching the already-rich.
 She's fighting to make Tennessee more affordable and fair—demanding transparency, holding power accountable, and organizing to bring Tennesseans together to wrestle control back from the billionaires and corporations who've captured state government.
 She shows up not just for the big fights, but for her community in the little moments in between—listening to what working families need, then fighting to deliver it.
+LEARN MORE ABOUT AFTYN Let’s care loudly for each other.
+GET UPDATES DONATE Contact the campaign at team@aftynbehn.com PO BOX 60594 NASHVILLE, TN, 37206

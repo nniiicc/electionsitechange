@@ -1,19 +1,70 @@
 [
-"http://cobbcounty.org/index.php?option=com_content&view=article&id=1761&Itemid=915",
-"http://cobbcountyga.gov/",
-"http://leginfo.ca.gov/bil2lawd.html",
-"http://legis.state.ga.us/",
-"http://votesmart.org/",
-"http://votesmart.org/resource_govt101_02.php",
-"https://facebook.com/RepSharonCooper",
-"https://imagecreation.com/",
-"https://instagram.com/repsharoncooper",
-"https://mvp.sos.ga.gov/MVP/mvp.do",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do",
-"https://secure.winred.com/sharon-cooper-for-state-house/donate",
-"https://sharoncooper.org/",
-"https://sharoncooper.org/about",
-"https://sharoncooper.org/contact",
-"https://sharoncooper.org/priorities",
-"https://sharoncooper.org/resources"
+{
+"text": "About",
+"href": "https://sharoncooper.org/about/"
+},
+{
+"text": "Cobb County website",
+"href": "http://www.cobbcountyga.gov/"
+},
+{
+"text": "Contact",
+"href": "https://sharoncooper.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sharon-cooper-for-state-house/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepSharonCooper"
+},
+{
+"text": "Find where you vote",
+"href": "https://www.mvp.sos.ga.gov/MVP/mvp.do"
+},
+{
+"text": "Find your elected officials",
+"href": "http://www.votesmart.org/"
+},
+{
+"text": "General Assembly",
+"href": "http://www.legis.state.ga.us/"
+},
+{
+"text": "How a bill becomes a law",
+"href": "http://www.leginfo.ca.gov/bil2lawd.html"
+},
+{
+"text": "How a bill becomes a law",
+"href": "http://www.votesmart.org/resource_govt101_02.php"
+},
+{
+"text": "How to sign up for the PENS report",
+"href": "http://cobbcounty.org/index.php?option=com_content&view=article&id=1761&Itemid=915"
+},
+{
+"text": "ImageCreation.com",
+"href": "https://imagecreation.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repsharoncooper"
+},
+{
+"text": "Priorities",
+"href": "https://sharoncooper.org/priorities/"
+},
+{
+"text": "Register to vote",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+},
+{
+"text": "Resources",
+"href": "https://sharoncooper.org/resources/"
+},
+{
+"text": "Sharon Cooper for State House",
+"href": "https://sharoncooper.org"
+}
 ]

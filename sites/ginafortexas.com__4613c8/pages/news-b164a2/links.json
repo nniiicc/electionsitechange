@@ -1,42 +1,178 @@
 [
-"https://bsky.app/profile/ginafortexas.bsky.social",
-"https://facebook.com/ginafortexas",
-"https://ginafortexas.com/",
-"https://ginafortexas.com/2026/09/new-ad-law-enforcement-hinojosa-fights-for-law-enforcement-stronger-borders-and-safer-communities",
-"https://ginafortexas.com/2026/09/new-hinojosa-calls-for-release-of-greg-abbotts-correspondence-with-elon-musk",
-"https://ginafortexas.com/2026/09/recap-gina-hinojosa-joins-friday-night-lights-game-state-fair-of-texas-and-tailgates-at-pvamu-in-north-texas",
-"https://ginafortexas.com/2026/09/statement-hinojosa-on-abbott-allowing-the-nexstar-debate-date-to-pass",
-"https://ginafortexas.com/2026/09/statement-hinojosa-on-the-upcoming-storms-sweeping-through-texas",
-"https://ginafortexas.com/2026/10/new-hinojosa-continues-latino-voter-outreach-with-spanish-town-hall-new-ad",
-"https://ginafortexas.com/2026/10/nyt-siena-hinojosa-ahead-of-abbott-one-month-from-election-day",
-"https://ginafortexas.com/2026/10/ratings-change-cook-political-report-moves-texas-governors-race-towards-gina-hinojosa-for-the-second-time",
-"https://ginafortexas.com/2026/10/recap-gina-hinojosa-rallies-over-a-thousand-texans-in-east-texas",
-"https://ginafortexas.com/2026/10/statement-hinojosa-on-greg-abbott-grandstanding-on-public-safety",
-"https://ginafortexas.com/about",
-"https://ginafortexas.com/cdn-cgi/l/email-protection",
-"https://ginafortexas.com/contact",
-"https://ginafortexas.com/endorsements",
-"https://ginafortexas.com/jobs",
-"https://ginafortexas.com/news",
-"https://ginafortexas.com/news/page/16",
-"https://ginafortexas.com/news/page/2",
-"https://ginafortexas.com/news/page/3",
-"https://ginafortexas.com/priorities",
-"https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone",
-"https://ginafortexas.com/priority/save-texas-public-schools",
-"https://ginafortexas.com/privacy-policy",
-"https://ginafortexas.com/volunteer",
-"https://instagram.com/ginafortexas",
-"https://middleseat.co/",
-"https://mobilize.us/ginahinojosafortexasgovernor",
-"https://secure.actblue.com/donate/web_ms_gh",
-"https://secure.actblue.com/donate/web_ms_gh?amount=10",
-"https://secure.actblue.com/donate/web_ms_gh?amount=100",
-"https://secure.actblue.com/donate/web_ms_gh?amount=25",
-"https://secure.actblue.com/donate/web_ms_gh?amount=250",
-"https://secure.actblue.com/donate/web_ms_gh?amount=500",
-"https://store.ginafortexas.com/",
-"https://tiktok.com/@ginafortexas",
-"https://x.com/GinaHinojosaTX",
-"https://youtube.com/@GinaHinojosaTX"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/web_ms_gh?amount=500"
+},
+{
+"text": "16",
+"href": "https://ginafortexas.com/news/page/16/"
+},
+{
+"text": "2",
+"href": "https://ginafortexas.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://ginafortexas.com/news/page/3/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/ginafortexas.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://ginafortexas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Endorsements",
+"href": "https://ginafortexas.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://ginafortexas.com/es/"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/ginahinojosafortexasgovernor/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ginafortexas/"
+},
+{
+"text": "Gina Hinojosa for Texas Governor [image: Gina Hinojosa for Texas Governor]",
+"href": "https://ginafortexas.com"
+},
+{
+"text": "Home",
+"href": "https://ginafortexas.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ginafortexas"
+},
+{
+"text": "Jobs",
+"href": "https://ginafortexas.com/jobs/"
+},
+{
+"text": "Meet Gina",
+"href": "https://ginafortexas.com/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "Money in Your Pocket",
+"href": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"
+},
+{
+"text": "NEW AD: Hinojosa Calls Out Greg Abbott Putting Data Centers Before Texans Press Release October 6, 2026 Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released a new campaign ad, “Greg Abbott: Delivering Data Centers,” about Greg Abbott letting data center corporations run roughshod over Texas communities for over a …",
+"href": "https://ginafortexas.com/2026/10/new-ad-hinojosa-calls-out-greg-abbott-putting-data-centers-before-texans/"
+},
+{
+"text": "NEW AD: “Law Enforcement” – Hinojosa Fights For Law Enforcement, Stronger Borders, And Safer Communities Press Release September 30, 2026 Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released a new campaign ad, “Law Enforcement,” demonstrating Hinojosa’s continued commitment to public safety while Abbott prioritizes photo-ops over supporting law enforcement. WATCH THE FULL …",
+"href": "https://ginafortexas.com/2026/09/new-ad-law-enforcement-hinojosa-fights-for-law-enforcement-stronger-borders-and-safer-communities/"
+},
+{
+"text": "NEW: Hinojosa Announces $# Million Total Raised, $# Million in Last Two Weeks Press Release October 5, 2026 Austin, TX – With under one month until Election Day, Democratic nominee for Texas Governor Gina Hinojosa announced she has reported raising $22 million – including $13 million in the latest reporting period – with an …",
+"href": "https://ginafortexas.com/2026/10/new-hinojosa-announces-25-million-total-raised-3-million-in-last-two-weeks/"
+},
+{
+"text": "NEW: Hinojosa Calls for Release of Greg Abbott’s Correspondence with Elon Musk Press Release September 29, 2026 Austin, TX – Today, Democratic nominee for Texas Governor and State Representative Gina Hinojosa filed a public information request for inspection of all documents exchanged between Greg Abbott’s office and Elon Musk and his companies, including …",
+"href": "https://ginafortexas.com/2026/09/new-hinojosa-calls-for-release-of-greg-abbotts-correspondence-with-elon-musk/"
+},
+{
+"text": "NEW: Hinojosa Continues Latino Voter Outreach With Spanish Town Hall, New Ad Press Release October 2, 2026 HOUSTON, TX – Yesterday, Democratic nominee for Texas Governor Gina Hinojosa hosted a Spanish town hall in Houston. Moderated by Carlos Eduardo Espina, Hinojosa spoke directly with hundreds of Spanish-speaking voters as part of the campaign’s …",
+"href": "https://ginafortexas.com/2026/10/new-hinojosa-continues-latino-voter-outreach-with-spanish-town-hall-new-ad/"
+},
+{
+"text": "NYT/SIENA: Hinojosa Ahead of Abbott One Month from Election Day Press Release October 4, 2026 Abbott losing three independent polls with only two weeks until Early Vote polls open AUSTIN, TX – A new NYT/Siena poll shows Gina Hinojosa up 4 points in the Texas Governor’s race (49-46%, using the candidates’ …",
+"href": "https://ginafortexas.com/2026/10/nyt-siena-hinojosa-ahead-of-abbott-one-month-from-election-day/"
+},
+{
+"text": "News",
+"href": "https://ginafortexas.com/news/"
+},
+{
+"text": "Next »",
+"href": "https://ginafortexas.com/news/page/2/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/web_ms_gh"
+},
+{
+"text": "Priorities",
+"href": "https://ginafortexas.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ginafortexas.com/privacy-policy/"
+},
+{
+"text": "RATINGS CHANGE: Cook Political Report Moves Texas Governor’s Race Towards Gina Hinojosa for the Second Time Press Release October 1, 2026 Austin, TX – Today, Cook Political Report moved the race for Texas Governor in Gina Hinojosa’s direction for the second time this cycle, as Texans continue to rally behind Hinojosa as her campaign builds momentum across …",
+"href": "https://ginafortexas.com/2026/10/ratings-change-cook-political-report-moves-texas-governors-race-towards-gina-hinojosa-for-the-second-time/"
+},
+{
+"text": "RECAP: Gina Hinojosa Rallies Over a Thousand Texans in East Texas Press Release October 1, 2026 NACOGDOCHES, TX – This week, Democratic nominee for Texas Governor Gina Hinojosa campaigned in East Texas, meeting directly with voters and community leaders across Corsicana, Longview, Crockett, and Nacogdoches. Throughout the trip, Hinojosa emphasized the importance …",
+"href": "https://ginafortexas.com/2026/10/recap-gina-hinojosa-rallies-over-a-thousand-texans-in-east-texas/"
+},
+{
+"text": "STATEMENT: Hinojosa On The Upcoming Storms Sweeping Through Texas Press Release September 30, 2026 Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released the following statement as much of the state prepares for heavy rainfall over the next few days: “Heavy rain and flash flooding is expected …",
+"href": "https://ginafortexas.com/2026/09/statement-hinojosa-on-the-upcoming-storms-sweeping-through-texas/"
+},
+{
+"text": "STATEMENT: Hinojosa on Greg Abbott Grandstanding on Public Safety Press Release October 2, 2026 Austin, TX – This morning, Democratic nominee for Texas Governor Gina Hinojosa released the following statement as Greg Abbott tries to distract from his record of failing Texans on public safety just weeks before Election Day. …",
+"href": "https://ginafortexas.com/2026/10/statement-hinojosa-on-greg-abbott-grandstanding-on-public-safety/"
+},
+{
+"text": "Save Texas Public Schools",
+"href": "https://ginafortexas.com/priority/save-texas-public-schools/"
+},
+{
+"text": "Store",
+"href": "https://store.ginafortexas.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ginafortexas"
+},
+{
+"text": "Volunteer",
+"href": "https://ginafortexas.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/GinaHinojosaTX"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@GinaHinojosaTX"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@ginafortexas.com"
+}
 ]

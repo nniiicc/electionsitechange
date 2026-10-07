@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Cocktails+by+the+Pool&dates=20261003T210000Z%2F20261003T230000Z&location=24+Bannut+Court+Southwest%2C+Huntsville%2C+Alabama%2C+35824%2C+United+States",
-"http://maps.google.com/?q=24+Bannut+Court+Southwest+Huntsville%2C+Alabama%2C+35824+United+States",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/cocktails-by-the-pool?format=ical",
-"https://ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting",
-"https://ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=24+bannut+court+southwest+huntsville%2C+alabama%2C+35824+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Cocktails+by+the+Pool&dates=20261003T210000Z%2F20261003T230000Z&location=24+Bannut+Court+Southwest%2C+Huntsville%2C+Alabama%2C+35824%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/cocktails-by-the-pool?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "Next Next October 5 IVF is on the Ballot: An Evening of Stories Awareness, and Action",
+"href": "https://www.ashleighdunhamforalabama.com/events/ivf-is-on-the-ballot-an-evening-of-stories-awareness-and-action-nypag"
+},
+{
+"text": "Previous Previous September 24 Eastern Shore Democrats Meeting",
+"href": "https://www.ashleighdunhamforalabama.com/events/eastern-shore-democrats-meeting"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

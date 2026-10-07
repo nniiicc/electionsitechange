@@ -1,11 +1,54 @@
 [
-"https://bradbatt.com/",
-"https://bradbatt.com/issues",
-"https://bradbatt.com/meet-brad",
-"https://bradbatt.com/vote",
-"https://bsky.app/profile/bradbatt.bsky.social",
-"https://facebook.com/BradBatt4TN",
-"https://secure.actblue.com/donate/bradbatt2026",
-"https://takedownthesecameras.com/",
-"https://threads.com/@bradbatt"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bradbatt2026"
+},
+{
+"text": "How to vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://bradbatt.com/issues"
+},
+{
+"text": "Meet Brad",
+"href": "https://bradbatt.com/meet-brad"
+},
+{
+"text": "Read the full story →",
+"href": "https://bradbatt.com/meet-brad"
+},
+{
+"text": "Register to vote by Oct 5Register now →",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Take down these camerasIn one month, police ran over a million searches on Johnson City's cameras, 95% from outside Tennessee. Now they've hooked in the city's traffic cameras to their surveillance system and are adding a Flock drone!takedownthesecameras.com →",
+"href": "https://takedownthesecameras.com"
+},
+{
+"text": "Vote",
+"href": "https://bradbatt.com/vote"
+},
+{
+"text": "Why I'm running",
+"href": "https://bradbatt.com/meet-brad"
+},
+{
+"text": "[image: Brad Batt]",
+"href": "https://bradbatt.com/"
+},
+{
+"text": "[tooltip: Bluesky]",
+"href": "https://bsky.app/profile/bradbatt.bsky.social"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/BradBatt4TN/"
+},
+{
+"text": "[tooltip: Threads]",
+"href": "https://www.threads.com/@bradbatt"
+}
 ]

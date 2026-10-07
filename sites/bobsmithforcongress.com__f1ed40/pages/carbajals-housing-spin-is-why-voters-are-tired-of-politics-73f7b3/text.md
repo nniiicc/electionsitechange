@@ -1,8 +1,4 @@
-Opinion
-Carbajal’s Housing Spin Is Why Voters Are Tired of Politics
-Central Coast Needs Results
-June 5, 2026
-Housing is one of the most pressing issues facing the Central Coast.
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE Opinion Carbajal’s Housing Spin Is Why Voters Are Tired of Politics Central Coast Needs Results June 5, 2026 Housing is one of the most pressing issues facing the Central Coast.
 So when Congress passes a bipartisan housing bill, it should be good news.
 But instead of simply telling the truth, politicians too often turn good news into campaign spin.
 That is what Congressman Salud Carbajal is doing through the 21st Century ROAD (Renewing Opportunity in the American Dream) to Housing Act.
@@ -52,3 +48,14 @@ But do not pretend that cosponsoring a failed partisan bill is the same thing as
 That is politics as usual.
 And people are tired of it.
 Bob Smith is a retired Navy veteran and candidate for California’s 24th Congressional District.
+Read on Independent.com In The News Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

@@ -1,3 +1,6 @@
-Nikki Interviews With Political Pulse To Talk About The Farm Bill And More
-May 5
-Nikki Gronli sits down with Political Pulse on KOTA to talk about the recently passed Farm Bill in the House of Representatives and its affects on farmers in South Dakota, the affordability crisis, and the upcoming 2027 fiscal budget.
+top of page NIKKI G FOR SD DONATE HOME PRIORITIES ABOUT EVENTS NEWS ENDORSEMENTS CONTACT More Use tab to navigate through the menu items.
+All Posts Search Nikki Interviews With Political Pulse To Talk About The Farm Bill And More nikkigronli May 5 1 min read Nikki Gronli sits down with Political Pulse on KOTA to talk about the recently passed Farm Bill in the House of Representatives and its affects on farmers in South Dakota, the affordability crisis, and the upcoming 2027 fiscal budget.
+Watch Here: https://www.kotatv.com/video/2026/05/05/political-pulse-democratic-congressional-candidate-nikki-gronli-farm-bill-iran/ Recent Posts See All Child Care & Pre-K: Investing in South Dakota’s Families and Future Child care and access to quality pre-K are issues I care deeply about.
+As a mother and grandmother, I know firsthand how important it is for families to have access to safe, affordable, quality care a PRESS RELEASE: Gronli statement on mail-in ballot scotus ruling South Dakotans Deserve Clear, Secure Elections With just # days until Election Day, and 9 until early voting, South Dakota voters should be able to trust that the rules governing their elections are clear, consistent, and secure.
+Instead, we are Contact Us Nikki G for SD P.O.
+BOX 88403 SIOUX FALLS, SD 57109 ​ contact@nikkigforsd.com Press Kit Photo ​ Media Bio ​ Logo​ ​ Social Media Facebook ​ TikTok Policies Privacy Policy © # by Nikki G for SD. bottom of page

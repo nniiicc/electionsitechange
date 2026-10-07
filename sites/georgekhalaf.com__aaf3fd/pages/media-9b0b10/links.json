@@ -1,32 +1,242 @@
 [
-"https://georgekhalaf.com/",
-"https://georgekhalaf.com/media",
-"https://georgekhalaf.com/wp-content/uploads/2026/02/George-Khalaf-LD3-Media-Kit.zip",
-"https://secure.anedot.com/george-khalaf-for-ld3/66c83683-6261-4628-8983-df31891bb7da",
-"https://youtube.com/watch?v=-4wuUFL5Rb4",
-"https://youtube.com/watch?v=2avxr_7TI3o",
-"https://youtube.com/watch?v=7TigDbTW5ZA",
-"https://youtube.com/watch?v=9zLtEbOLRYs",
-"https://youtube.com/watch?v=CY9DWcMJGTM",
-"https://youtube.com/watch?v=Co7K6JJvnzU",
-"https://youtube.com/watch?v=EX50k1dAsDM",
-"https://youtube.com/watch?v=FOQlrcLjvDg",
-"https://youtube.com/watch?v=H-4FqtKLzrk",
-"https://youtube.com/watch?v=HCkaYAAQm5Q",
-"https://youtube.com/watch?v=KjkNsu084l8",
-"https://youtube.com/watch?v=KkLkaPoEGzI",
-"https://youtube.com/watch?v=P0Ii1ihT77g",
-"https://youtube.com/watch?v=U_KwIcE4OD0",
-"https://youtube.com/watch?v=Wv5wY-wzR-k",
-"https://youtube.com/watch?v=b8CVCUfNhXI",
-"https://youtube.com/watch?v=ddAq5CKAft4",
-"https://youtube.com/watch?v=f3XLNBTFqRo",
-"https://youtube.com/watch?v=i0R0X4Vik90",
-"https://youtube.com/watch?v=izX9u0FlDzM",
-"https://youtube.com/watch?v=lEf0zrgAq1c",
-"https://youtube.com/watch?v=pftNaWVsf0M",
-"https://youtube.com/watch?v=pjs3R1lGIRY",
-"https://youtube.com/watch?v=qhw3t1RE9y0",
-"https://youtube.com/watch?v=vHovOSxVqMs",
-"https://youtube.com/watch?v=xReAF7kICHs"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/george-khalaf-for-ld3/66c83683-6261-4628-8983-df31891bb7da"
+},
+{
+"text": "Endorsements",
+"href": "https://georgekhalaf.com/#endorsements"
+},
+{
+"text": "Issues",
+"href": "https://georgekhalaf.com/#issues"
+},
+{
+"text": "Join",
+"href": "https://georgekhalaf.com/#join"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=-4wuUFL5Rb4"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=2avxr_7TI3o"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=7TigDbTW5ZA"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=9zLtEbOLRYs"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=CY9DWcMJGTM"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=EX50k1dAsDM"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=FOQlrcLjvDg"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=H-4FqtKLzrk"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=HCkaYAAQm5Q"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=KjkNsu084l8"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=KkLkaPoEGzI"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=P0Ii1ihT77g"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=U_KwIcE4OD0"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=Wv5wY-wzR-k"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=ddAq5CKAft4"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=f3XLNBTFqRo"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=i0R0X4Vik90"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=izX9u0FlDzM"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=lEf0zrgAq1c"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=pftNaWVsf0M"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=pjs3R1lGIRY"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=qhw3t1RE9y0"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=vHovOSxVqMs"
+},
+{
+"text": "LISTEN NOW",
+"href": "https://www.youtube.com/watch?v=xReAF7kICHs"
+},
+{
+"text": "Media",
+"href": "https://georgekhalaf.com/media/"
+},
+{
+"text": "Media Packet",
+"href": "https://georgekhalaf.com/wp-content/uploads/2026/02/George-Khalaf-LD3-Media-Kit.zip"
+},
+{
+"text": "Meet George",
+"href": "https://georgekhalaf.com/#meet"
+},
+{
+"text": "WATCH NOW",
+"href": "https://www.youtube.com/watch?v=Co7K6JJvnzU"
+},
+{
+"text": "WATCH NOW",
+"href": "https://www.youtube.com/watch?v=b8CVCUfNhXI"
+},
+{
+"text": "[image: George Khalaf Conservative for AZ LD3 Logo]",
+"href": "https://georgekhalaf.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=-4wuUFL5Rb4"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=2avxr_7TI3o"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=7TigDbTW5ZA"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=9zLtEbOLRYs"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=CY9DWcMJGTM"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=Co7K6JJvnzU"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=EX50k1dAsDM"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=FOQlrcLjvDg"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=H-4FqtKLzrk"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=HCkaYAAQm5Q"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=KjkNsu084l8"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=KkLkaPoEGzI"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=P0Ii1ihT77g"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=U_KwIcE4OD0"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=Wv5wY-wzR-k"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=b8CVCUfNhXI"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=ddAq5CKAft4"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=f3XLNBTFqRo"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=i0R0X4Vik90"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=izX9u0FlDzM"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=lEf0zrgAq1c"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=pftNaWVsf0M"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=pjs3R1lGIRY"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=qhw3t1RE9y0"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=vHovOSxVqMs"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=xReAF7kICHs"
+}
 ]

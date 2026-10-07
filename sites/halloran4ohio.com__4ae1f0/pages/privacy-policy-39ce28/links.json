@@ -1,17 +1,66 @@
 [
-"https://aboutcookies.org/",
-"https://allaboutcookies.org/",
-"https://facebook.com/1019284004597493",
-"https://facebook.com/about/basics/advertising",
-"https://facebook.com/policy.php",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://halloran4ohio.com/privacy-policy",
-"https://help.ads.microsoft.com/apex/index/3/en/52023",
-"https://linkedin.com/in/kent-halloran-420b66167",
-"https://linkedin.com/legal/cookie-policy",
-"https://linkedin.com/legal/privacy-policy",
-"https://optout.aboutads.info/",
-"https://optout.networkadvertising.org/",
-"https://policies.google.com/technologies/partner-sites",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "Advertising Policies",
+"href": "https://help.ads.microsoft.com/apex/index/3/en/52023"
+},
+{
+"text": "Data Policy",
+"href": "https://www.facebook.com/policy.php"
+},
+{
+"text": "Digital Advertising Alliance",
+"href": "https://optout.aboutads.info/"
+},
+{
+"text": "Google Analytics Opt-out Browser Add-on",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "Google’s Privacy & Terms",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "Network Advertising Initiative",
+"href": "https://optout.networkadvertising.org/"
+},
+{
+"text": "Privacy Center",
+"href": "https://www.facebook.com/about/basics/advertising"
+},
+{
+"text": "Privacy Policy",
+"href": "https://halloran4ohio.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1019284004597493"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kent-halloran-420b66167/"
+},
+{
+"text": "contact@halloran4ohio.com",
+"href": "mailto:contact@halloran4ohio.com"
+},
+{
+"text": "website",
+"href": "https://policies.google.com/technologies/partner-sites"
+},
+{
+"text": "website",
+"href": "https://www.facebook.com/about/basics/advertising"
+},
+{
+"text": "www.aboutcookies.org",
+"href": "https://www.aboutcookies.org/"
+},
+{
+"text": "www.allaboutcookies.org",
+"href": "https://www.allaboutcookies.org/"
+}
 ]

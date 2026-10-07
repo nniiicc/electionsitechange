@@ -1,18 +1,74 @@
 [
-"http://bsky.app/profile/heaserforhouse.bsky.social",
-"https://facebook.com/profile.php?id=61587965761007",
-"https://heaserforhouse.com/",
-"https://heaserforhouse.com/about",
-"https://heaserforhouse.com/cart",
-"https://heaserforhouse.com/connect",
-"https://heaserforhouse.com/donate-1",
-"https://heaserforhouse.com/endorsements",
-"https://heaserforhouse.com/events",
-"https://heaserforhouse.com/home",
-"https://heaserforhouse.com/platform",
-"https://instagram.com/heaserforhouse",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf",
-"https://secure.actblue.com/donate/heaserforhouse",
-"https://tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+{
+"text": "0",
+"href": "https://www.heaserforhouse.com/cart"
+},
+{
+"text": "2026 Political Contribution Refund Form",
+"href": "https://www.revenue.state.mn.us/sites/default/files/2025-12/pcr-26.pdf"
+},
+{
+"text": "About",
+"href": "https://www.heaserforhouse.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.heaserforhouse.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://www.heaserforhouse.com/donate-1"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.actblue.com/donate/heaserforhouse"
+},
+{
+"text": "Donate here!",
+"href": "https://secure.actblue.com/donate/heaserforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.heaserforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.heaserforhouse.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "Minnesota’s Political Contribution Refund (PCR) program",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "Platform",
+"href": "https://www.heaserforhouse.com/platform"
+},
+{
+"text": "[image: Jason Heaser for MN House of Representatives District 34A]",
+"href": "https://www.heaserforhouse.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.heaserforhouse.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/heaserforhouse.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587965761007"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/heaserforhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jason.heaser?is_from_webapp=1&sender_device=pc"
+}
 ]

@@ -1,5 +1,5 @@
-Join Michael Day for his campaign kickoff!
-Wednesday, May 21st, 2014 | 7:00-9:00PM Bear Hill Golf Club 2 North Street Stoneham, MA
-4/8/2014 WickedLocal.com Read the original article here.
+About News Issues Legislation Contact Get Involved Contribute Menu Latest News Join Us For Our Campaign Kickoff: May 21st, 2014 May 8, 2014 / in Events , News / by mworley Join Michael Day for his campaign kickoff!
+Wednesday, May 21st, 2014 | 7:00-9:00PM Bear Hill Golf Club 2 North Street Stoneham, MA Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 mworley http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png mworley 2014-05-08 01:09:09 2018-04-28 15:06:03 Join Us For Our Campaign Kickoff: May 21st, 2014 WickedLocal.com: “Stoneham’s Michael Day to run for State Representative” April 22, 2014 / in Uncategorized / by mworley 4/8/2014 WickedLocal.com Read the original article here.
 Stoneham resident and father of three Michael Day announced his candidacy for State Representative of the 31st Middlesex District (Stoneham and Winchester) on Friday, April 4.
-“After speaking with, and receiving support from my family, neighbors, friends, and leaders in both communities, I am excited to begin this […]
+“After speaking with, and receiving support from my family, neighbors, friends, and leaders in both communities, I am excited to begin this […] Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 mworley http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png mworley 2014-04-22 01:50:35 2014-04-22 01:50:35 WickedLocal.com: "Stoneham’s Michael Day to run for State Representative" Page 12 of 12 « ‹ 10 11 12 Click to Contribute Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top

@@ -1,7 +1,8 @@
-Contributor Chris Isbell
-U.S.
+Skip to content Home About Dr.
+Scott Issues Endorsements Donate news > DesJarlais visits with constituents in Franklin County DesJarlais visits with constituents in Franklin County Posted by admin on August 22, 2019 Contributor Chris Isbell U.S.
 Rep.
-Scott DesJarlais, R-Tennessee, took time away from his schedule in Washington, D.C., to visit and chat with Franklin County residents and constituents for several hours on Aug. 15 at a free event in Estill Springs.
+Scott DesJarlais, R-Tennessee, took time away from his schedule in Washington, D.C., to visit and chat with Franklin County residents and constituents for several hours on Aug.
+15 at a free event in Estill Springs.
 The informal, down-home, and perfectly-southern “Down on the Farm with Congressman Scott DesJarlais” event was hosted by the Franklin County Republican Party at the Davis-Peters farm on the Tims Ford lakeshore, behind Factory Furniture at 801 South Main St.
 Attendees were treated to a free barbeque dinner with all the trimmings along with iced bottled water and iced tea, and potluck items were brought in by many visitors.
 Though the event was free to attend, donations to the Franklin County Republican Party were encouraged.
@@ -18,11 +19,13 @@ DesJarlais said President Trump genuinely cares about this country, and spoke of
 He also said the president is standing up to China which is building up armies that are paid for with money from unfair trade.
 Finally, DesJarlais said overwhelmingly negative coverage of President Trump by the mainstream media has divided the country.
 “I am proud that you all let me work with him,” DesJarlais said.
-“Keep fighting the good fight.”
-DesJarlais ended his speech by thanking the Franklin County Republican Party and State Executive Committeewoman Joanne Davis for her efforts with the organization.
+“Keep fighting the good fight.” DesJarlais ended his speech by thanking the Franklin County Republican Party and State Executive Committeewoman Joanne Davis for her efforts with the organization.
 DesJarlais has served as Tennessee’s 4th Congressional District representative for eight years.
 He serves on numerous committees and subcommittees in Washington, D.C.
 Some of them include the House Committee on Armed Services, which includes the subcommittees on strategic forces, intelligence, and emerging threats and capabilities.
 DesJarlais also serves on the House Committee on Agriculture and the subcommittees on livestock and foreign agriculture, nutrition, and general farm commodities and risk management.
 He also participates in 16 caucuses and is seeking re-election in 2020.
-Photo: Chris Isbell
+Photo: Chris Isbell https://www.heraldchronicle.com/news/local/desjarlais-visits-with-constituents-in-franklin-county/article_669dc506-c42b-11e9-a04b-633cca663132.html news Written by admin Follow Scott: Home About Dr.
+Scott Issues Endorsements Donate Dr.
+Scott DesJarlais PO Box 90133 Nashville, TN 37209 Paid for by Friends of Scott DesJarlais Pol.
+Adv. paid for by Dustin Burrows Campaign.

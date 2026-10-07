@@ -1,4 +1,4 @@
-As of August 31, 2022, New York State owes $7.8 billion to the federal unemployment trust fund.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate Businesses in New York Take Another Body Blow September 29, 2022 by admin As of August 31, 2022, New York State owes $# billion to the federal unemployment trust fund.
 The unemployment trust fund pays benefits, funded by a payroll tax on all for-profit businesses in New York State.
 The COVID-19 pandemic created a significant rise in unemployment claims for which the state unemployment trust fund did not have sufficient funds to pay out.
 In turn, the federal government loaned the state $10 billion to make those payments.
@@ -12,4 +12,4 @@ The state mandated the layoffs and received federal aid to help address the impa
 The state needs to pay its debt without a burden to the business community.
 Businesses continue to struggle coming out of the pandemic coupled with inflationary cost increases and labor shortages which are driving consumer price increases.
 The state could use revenue streams that have produced unanticipated income such as sales tax or like over 30 other states, use a portion of the federal Covid relief money to meet its own obligation.
-#
+# Category: News Previous Post: IBEW Local 2032 Endorses Scott Gray for New York State Assembly Next Post: Key parts of NY’s new gun law blocked by federal judge in Syracuse Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

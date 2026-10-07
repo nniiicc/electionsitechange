@@ -1,40 +1,5 @@
-ADVOCATING FOR YOU
-SENATOR COLLINS
-ACHIEVEMENTS
-Community Health and Empowerment Award
-AWBC Magazine (2025)
-Legacy Trailblazer Award
-Black Men United (2025)
-Richard J.
-Phelan Profile in Courage Award
-Planned Parenthood (2024)
-John W.
+Skip to content Home About Lakesia Issues News & Achievements Contact Home About Lakesia Issues News & Achievements Contact Donate ADVOCATING FOR YOU SENATOR COLLINS ACHIEVEMENTS Senator Collins has been recognized with numerous awards and accolades for her work in the General Assembly to improve equity in maternal health care, enhance the lives of Illinois’ youth, and advocate for marginalized communities.
+Community Health and Empowerment Award AWBC Magazine (2025) Recognized for her unwavering commitment to advancing health equity, specifically for women of color Legacy Trailblazer Award Black Men United (2025) Recognized for her work in advocating for social justice initiatives and remaining a fierce voice for lasting change in marginalized communities Richard J.
+Phelan Profile in Courage Award Planned Parenthood (2024) Received for her efforts to improve equity in reproductive care and maternal and infant health (HB5142) John W.
 Rogers Jr.
-Champion in Life Award
-Chicago Elite Classic (2024)
-Presidential Award Honoree
-The National Coalition of 100 Black Women (2024)
-Champion of North Lawndale Award
-Lawndale Christian Development Corporation (2024)
-The People’s Champ
-LiveFree Illinois (2023)
-Champion for Illinois Youth Award
-Illinois Collaboration on Youth (2023)
-Margaret Blackshere Women in Leadership Award
-Illinois AFL-CIO (2023)
-Emily Taft Douglas Award
-Illinois Democratic Women (2023)
-ACTIVATOR Friend of Agriculture Award
-Illinois Farm Bureau (2022)
-Senator Collins is proudly endorsed by the following organizations:
-Illinois Alliance for Retired Americans
-Citizen Action Illinois
-SEIU
-CTU
-in the news
-Collins pushes for more support for new mothers on Medicaid
-SPRINGFIELD – Continuing her support for mothers across Illinois, State Senator Lakesia Collins is leading a measure to give mothers
-Collins bill to clarify trespassing and enforcement procedures passes committee
-SPRINGFIELD – To assist community members and homeowners, State Senator Lakesia Collins advanced a measure Wednesday to provide guidance to
-Collins: Birth Equity Grants Coming to the 5th District
-CHICAGO – Supporting mothers across Illinois, State Senator Lakesia Collins is excited to announce $450,000 coming to the 5th District as
+Champion in Life Award Chicago Elite Classic (2024) Received for her commitment to promoting affordable and accessible higher education Presidential Award Honoree The National Coalition of 100 Black Women (2024) Received for her advocacy on behalf of Black women and girls, promoting leadership development and gender equality Champion of North Lawndale Award Lawndale Christian Development Corporation (2024) Recognized for her ongoing commitment to revitalizing the North Lawndale community The People’s Champ LiveFree Illinois (2023) Received for her legislative efforts to improve the lives of children and families Champion for Illinois Youth Award Illinois Collaboration on Youth (2023) Recognized for her tenacity in fighting for a more equitable and just society for all Margaret Blackshere Women in Leadership Award Illinois AFL-CIO (2023) Recognized for being “an upcoming pioneer” in promoting women’s rights and actively supporting labor-approved legislation Emily Taft Douglas Award Illinois Democratic Women (2023) Received for being a tireless advocate for women across Illinois ACTIVATOR Friend of Agriculture Award Illinois Farm Bureau (2022) Recognized by the LaSalle County Farm Bureau for her ongoing support of the agriculture community Senator Collins is proudly endorsed by the following organizations: Illinois Alliance for Retired Americans Citizen Action Illinois SEIU CTU in the news Press Release Collins pushes for more support for new mothers on Medicaid SPRINGFIELD – Continuing her support for mothers across Illinois, State Senator Lakesia Collins is leading a measure to give mothers KEEP READING March 19, 2025 Press Release Collins bill to clarify trespassing and enforcement procedures passes committee SPRINGFIELD – To assist community members and homeowners, State Senator Lakesia Collins advanced a measure Wednesday to provide guidance to KEEP READING February 21, 2025 Press Release Collins: Birth Equity Grants Coming to the 5th District CHICAGO – Supporting mothers across Illinois, State Senator Lakesia Collins is excited to announce $450,000 coming to the 5th District as KEEP READING February 7, 2025 learn more about senator lakesia collins about issues achievements contact Facebook Instagram paid for by friends of lakesia collins Scroll to Top

@@ -1,15 +1,66 @@
 [
-"https://designedtorun.com/",
-"https://electscott.com/",
-"https://electscott.com/_sites/www.electscott.com/sms-terms",
-"https://electscott.com/about",
-"https://electscott.com/endorsements",
-"https://electscott.com/issues",
-"https://electscott.com/privacy-policy",
-"https://electscott.com/volunteer",
-"https://facebook.com/scottforstatesenate",
-"https://flickr.com/photos/204385157@N02",
-"https://instagram.com/scottsakakihara",
-"https://secure.actblue.com/donate/scott-sakakihara-web-primary",
-"https://x.com/sakakiharascott"
+{
+"text": "About",
+"href": "https://www.electscott.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/scott-sakakihara-web-primary"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electscott.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.electscott.com/issues"
+},
+{
+"text": "Photos of Scott",
+"href": "https://flickr.com/photos/204385157@N02/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electscott.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://www.electscott.com/_sites/www.electscott.com/sms-terms"
+},
+{
+"text": "Scott@ElectScott.com",
+"href": "mailto:Scott@ElectScott.com"
+},
+{
+"text": "View our Privacy Policy here",
+"href": "https://www.electscott.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electscott.com/volunteer"
+},
+{
+"text": "[image: Scott Sakakihara for State Senate]",
+"href": "https://www.electscott.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/scottforstatesenate/"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/204385157@N02/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/scottsakakihara"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/sakakiharascott"
+}
 ]

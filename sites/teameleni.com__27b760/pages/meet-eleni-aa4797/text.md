@@ -1,5 +1,4 @@
-Meet Eleni
-Serving as your State Representative for the last 5 years has been an honor.
+0 Skip to Content 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Open Menu Close Menu 👋 Meet Eleni 🙋🏻‍♀️ Volunteer In the News 🗳 Voter Info Meet Eleni Serving as your State Representative for the last 5 years has been an honor.
 State Representative Eleni Kavros DeGraw was elected in November 2020 to represent the 17th District in Avon and Canton.
 She is in her third term.
 In her first term, she brought back nearly $2 million in bonding dollars to her district, passed the phase-out of the personal income tax on Individual Retirement Accounts (IRAs), passed a Workforce Disability Pipeline bill, and a Veterans Municipal Property Tax Credit bill.
@@ -13,3 +12,5 @@ Throughout her career, she has served on many boards and currently is a member o
 She is Chairwoman of the Planning and Development Committee and serves as a member of the Public Health and Finance, Revenue and Bonding Committees.
 She is the House Chairwoman of the Planning and Development Committee and serves as a member of the Public Health and Appropriations Committees.
 She also serves at the co-chair of the Conservation and Development Subcommittee of the Appropriations Committee.
+Endorsements In the News Social Media Paid for by Team Eleni, Claudine Fasano, Treasurer.
+Approved by Eleni Kavros DeGraw. info@teameleni.com

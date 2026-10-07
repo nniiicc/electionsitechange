@@ -1,5 +1,2 @@
-resolving needs for the citizens
-ENFORCING Bills
-FDA FIELD OFFICE AND LABORTORY
-$38.00
-Our spiral-bound content planners help communications teams map editorial calendars, PR campaigns, and media outreach schedules.
+0 Skip to Content About Auxiliary Open Menu Close Menu About Auxiliary Open Menu Close Menu About Auxiliary resolving needs for the citizens ENFORCING Bills Funding School Tax $165.00 Vote LaKeshia M Alston State Senate Durham NC District 22 Add to cart Unionization of Teachers $85.00 Add to cart FDA FIELD OFFICE AND LABORTORY $38.00 Our spiral-bound content planners help communications teams map editorial calendars, PR campaigns, and media outreach schedules.
+Add to cart iMPlementation more bills THESE BILLS HAVE BEEN MOLDED AND FASHIONED FROM THE INQUITY OF ACTS ,RULES , code, ARTICLES AND STATUtES LaKESHIA M ALSTON STATE SENATE DURHAM NC DISTRICT 22 REPUBLICAN PARTY alstonlakeshia0@gmail.com

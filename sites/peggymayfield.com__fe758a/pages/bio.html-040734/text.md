@@ -1,4 +1,5 @@
-Peggy Mayfield and her husband Dean live in Martinsville, Indiana.
+Home Meet Peggy The Issues Photo Gallery Videos Calendar Press Map Sign up to receive the latest news and updates!
+About Peggy Mayfield Meet your Representative Peggy Mayfield and her husband Dean live in Martinsville, Indiana.
 They have 4 sons, Christopher, Andrew, Austin, and Michael, and are members of St.
 Martin of Tours Catholic Church in Martinsville.
 The Mayfields have owned and operated Mayfield Insurance in Mooresville for over two decades.
@@ -15,3 +16,4 @@ The Mayfields have been a host family to 8 exchange students from around the wor
 Two of her sons have also studied abroad.
 Peggy is a certified skydiver and SCUBA diver.
 She also enjoys hunting, shooting, fishing, and spending time with her family and local Boy Scout Troop.
+Photos by Hot Shots Indiana, Mooresville, IN Paid for by The Mayfield Campaign

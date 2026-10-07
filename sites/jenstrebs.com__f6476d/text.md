@@ -1,4 +1,10 @@
-America is in a crisis of conscience, and you deserve a legislator who understands the stakes, has a proven track record of solutions, and a burning drive for our community.
+0 Skip to Content About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute Open Menu Close Menu About Jen Issues Endorsements News Text Opt-In Contribute "Jen has the experience, savvy and passion to be a terrific state representative." — Lee Kirk Community Leader "Jen Strebs combines hard work with heart, ensuring every voice is valued and heard." —Tracy Hall Former Kalamazoo County Board Chairperson "I've known Jen for a good long time and she has always been one to do what she says she's going to do.
+She's a voice for all of us and I want to see that voice elevated." —Amy Campbell Community Leader "Jen Strebs is precisely the person we need representing us in Lansing - she brings the experience, wisdom, honesty and compassion we need to regain stability in government and build a strong future for our kids." —Rev.
+Nathan Dannison "I have had opportuntites to work with Jen and in each opportunity Jen has provided important support and insights.
+I had a 30+ year career of working with state legislators and political leaders, and Jen has all she needs to successfully represent our community in Lansing." - Greg Rosine Retired WMU Vice President ""I am supporting chair Strebs because she understands the issues facing our community.
+As a long time local elected official Jen has proven time and time again she will go to Lansing to fight for us, not Washington's special interests.
+She knows the community and knows how government works.
+I fully support her candidacy and encourage others to cast their ballot for Jen Strebs." - John Taylor Kalamazoo County Board Vice Chair See All Endorsements Featured Kalamazoo County voters to decide 8-year childcare millage addressing affordability Read more → America is in a crisis of conscience, and you deserve a legislator who understands the stakes, has a proven track record of solutions, and a burning drive for our community.
 That is why I am humbly asking to be your Democratic nominee for State House District 41.
 I won’t accept the premise that solutions to big problems cannot be found.
 I refuse to submit that the promise of our democracy will be left unfulfilled.
@@ -26,3 +32,4 @@ I first sought appointment, and was then elected, as a Trustee in Kalamazoo Town
 In 2021, I went on to win an election as Commissioner for Kalamazoo County.
 Now, I am in my third term and serving as Chairperson of the Kalamazoo County Commission, this is work that has helped me truly see the potential of public service and the impact we can make for the community when we have the will to fight for it.
 And now, I want to bring my experience to Lansing and build on what Kalamazoo County has accomplished by serving as your next representative for State House District 41.
+Paid for by Committee to Elect Jen Strebs P.O Box 20061, Kalamazoo MI 49009

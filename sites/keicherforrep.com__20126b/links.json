@@ -1,10 +1,50 @@
 [
-"https://facebook.com/Illinois70th",
-"https://keicherforrep.com/",
-"https://keicherforrep.com/about",
-"https://keicherforrep.com/contact",
-"https://keicherforrep.com/photos",
-"https://keicherforrep.com/privacy-policy-2",
-"https://keicherforrep.com/volunteer",
-"https://secure.winred.com/friends-of-jeff-keicher/donate"
+{
+"text": "About",
+"href": "https://keicherforrep.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://keicherforrep.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-jeff-keicher/donate"
+},
+{
+"text": "Donations",
+"href": "https://secure.winred.com/friends-of-jeff-keicher/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/Illinois70th"
+},
+{
+"text": "Learn more",
+"href": "https://keicherforrep.com/about/"
+},
+{
+"text": "Photos",
+"href": "https://keicherforrep.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://keicherforrep.com/privacy-policy-2/"
+},
+{
+"text": "Volunteer",
+"href": "https://keicherforrep.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://keicherforrep.com"
+},
+{
+"text": "[image]",
+"href": "https://keicherforrep.com/"
+},
+{
+"text": "connect@keicherforrep.com",
+"href": "mailto:connect@keicherforrep.com"
+}
 ]

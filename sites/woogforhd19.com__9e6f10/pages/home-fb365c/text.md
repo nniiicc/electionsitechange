@@ -1,8 +1,5 @@
-People, Not Politics.
-Upcoming Events
-More events coming soon…
-About Dan
-Representative Dan Woog has built a record of public service at both the state and local levels.
+0 Skip to Content Home District Priorities Endorsements Get Involved Community Contact Donate Now Open Menu Close Menu Home District Priorities Endorsements Get Involved Community Contact Donate Now Open Menu Close Menu Home District Priorities Endorsements Get Involved Community Contact Donate Now People, Not Politics.
+Get Involved Donate Upcoming Events More events coming soon… About Dan Representative Dan Woog has built a record of public service at both the state and local levels.
 He has served in the Colorado House of Representatives from 2021–2022 and again from 2025 to the present.
 He also served two terms as a Trustee for the Town of Erie from 2013–2020.
 As a Republican State Representative, Dan has served on the Energy & Environment Committee as Ranking Member, the Health & Human Services Committee, and Ranking Member of the State, Civic, Military, & Veterans Affairs Committee.
@@ -18,3 +15,4 @@ He has built a reputation for working across party lines to find common-sense so
 Beyond his legislative accomplishments, Dan is known for his integrity, empathy, and approachable leadership.
 He listens to his constituents, values their input, and works to ensure their voices are reflected in the policies he champions.
 Dan believes in the power of engaged citizens and strong communities to create positive change and shape a better future for Colorado.
+Dan Woog for House District 19 Paid for by Woog for House District 19, Registered Agent: Marge Klein Get Involved Donate Community Contact Terms & Conditions Home District Priorities Endorsements Privacy Policy

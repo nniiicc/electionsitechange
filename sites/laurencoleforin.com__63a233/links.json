@@ -1,11 +1,58 @@
 [
-"https://facebook.com/LaurenColeForIN",
-"https://instagram.com/LAURENCOLEFORIN",
-"https://laurencoleforin.com/",
-"https://laurencoleforin.com/about",
-"https://laurencoleforin.com/blog",
-"https://laurencoleforin.com/volunteer",
-"https://secure.actblue.com/donate/laurencoleforin",
-"https://threads.com/@laurencoleforin",
-"https://tiktok.com/@laurencoleforin"
+{
+"text": "ABOUT",
+"href": "https://www.laurencoleforin.com/about"
+},
+{
+"text": "BLOG",
+"href": "https://www.laurencoleforin.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/laurencoleforin"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/laurencoleforin"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.laurencoleforin.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.laurencoleforin.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.laurencoleforin.com#platform"
+},
+{
+"text": "SIGN UP TO VOLUNTEER HERE",
+"href": "https://www.laurencoleforin.com/volunteer"
+},
+{
+"text": "[image: logo for Lauren Cole]",
+"href": "https://www.laurencoleforin.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LaurenColeForIN"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/LAURENCOLEFORIN"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@laurencoleforin"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@laurencoleforin"
+},
+{
+"text": "[no text]",
+"href": "mailto:laurencoleforin@gmail.com"
+}
 ]

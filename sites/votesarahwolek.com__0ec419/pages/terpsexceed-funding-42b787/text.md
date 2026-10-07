@@ -1,9 +1,6 @@
-TerpsEXCEED Funding
-Bill Name
-University of Maryland, College Park Campus – TerpsEXCEED Program – Funding
-Bill Number
-HB 458
-Year
-2025
-Priority Areas: Vulnerable Communities, Economic Development, Social Connection and Wellbeing
-HB 458: University of Maryland, College Park Campus – TerpsEXCEED Program – Funding permits the Governor to allocate $350,000 in the budget to fund the TerpsEXCEED program at the University of Maryland, College Park that provides educational and employment opportunities to students with developmental and intellectual disabilities.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact TerpsEXCEED Funding Bill Name University of Maryland, College Park Campus – TerpsEXCEED Program – Funding Bill Number HB 458 Year 2025 Priority Areas : Vulnerable Communities, Economic Development, Social Connection and Wellbeing Learn More HB 458: University of Maryland, College Park Campus – TerpsEXCEED Program – Funding permits the Governor to allocate $350,000 in the budget to fund the TerpsEXCEED program at the University of Maryland, College Park that provides educational and employment opportunities to students with developmental and intellectual disabilities.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

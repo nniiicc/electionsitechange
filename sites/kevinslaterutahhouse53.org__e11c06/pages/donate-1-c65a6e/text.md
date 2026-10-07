@@ -1,7 +1,4 @@
-Help me create
-a better future for Utah
-Make a Donation
-When you choose to give, you become part of something bigger—something powerful.
+0 Skip to Content Kevin Slater Utah House 53 Contact Us Open Menu Close Menu Kevin Slater Utah House 53 Contact Us Open Menu Close Menu Contact Us Help me create a better future for Utah Donation Block Set up a payment processor to start receiving donations. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Make a Donation When you choose to give, you become part of something bigger—something powerful.
 Your support fuels progress and brings hope where it's needed most.
-Donation Block
-Set up a payment processor to start receiving donations.
+Donation Block Set up a payment processor to start receiving donations. $#.# $#.# $#.# $#.# Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay #% Cover the Fee Donate Donate Donate to Our Campaign Your donation can help us buy fliers, yard signs, banners and for events in our area.
+Consider donating today. https://secure.actblue.com/donate/kevin-slater-1 Contact Us hello@kevinslatercampaign53.org 385-565-7696

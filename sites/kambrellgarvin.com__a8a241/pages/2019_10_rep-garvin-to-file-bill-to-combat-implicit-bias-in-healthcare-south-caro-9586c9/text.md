@@ -1,11 +1,13 @@
-Columbia, SC – Rep.
+Skip to content Home About Legislative Updates New Day Agenda Contact Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Search for: Home About Legislative Updates New Day Agenda Contact Privacy Policy Donate Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff kamgarv18 October 29, 2019 Comments Off on Rep.
+Garvin to File Bill to Combat Implicit Bias in Healthcare “South Carolina Dignity in Pregnancy and Childbirth Act” to require implicit bias training for health care staff Uncategorized Columbia, SC – Rep.
 Kambrell Garvin (D-Richland) will file the “South Carolina Dignity in Pregnancy and Childbirth Act,” which would require health care providers to implement an evidence-based implicit bias program to train health care staff.
 “Every person should be entitled to dignity and respect during pregnancy and childbirth.
 Yet the facts show that we are in a state of crisis when it comes to maternal healthcare, especially black maternal healthcare,” Rep.
 Garvin said.
 The bill notes that the United States has the highest maternal mortality rate among developed nations, with 700 women dying and an additional 50,000 women suffering severe complications every year.
 The maternal death rate is particularly high for black women, who suffer a maternal mortality rate nearly 4 times greater than white women.
-South Carolina’s maternal mortality rate is the 8th-highest in the country, with 26.5 mothers dying for every 100,000 births, compared to the national average of 20.7.
+South Carolina’s maternal mortality rate is the 8 th -highest in the country, with 26.5 mothers dying for every 100,000 births, compared to the national average of 20.7.
 Implicit bias is a key cause of health disparities in communities of color.
 Currently, health care providers in South Carolina are not required to undergo any implicit bias testing or training.
 This bill would require hospitals to provide annual training in an evidence-based implicit bias program to all staff members involved in perinatal care.
@@ -13,6 +15,8 @@ The bill defines “implicit bias” as a bias in judgment or behavior that resu
 “It’s time we treat implicit bias for what it is: a matter of life and death.
 Training medical professionals to recognize these prejudices and stereotypes will save lives,” Rep.
 Garvin said.
-“By breaking down these barriers, we can make South Carolina one of the safest places for pregnancy and childbirth.”
-The South Carolina House of Representatives will hold prefiling for the 2020 Legislative Session on Wednesday, November 20 and Wednesday, December 11.
-###
+“By breaking down these barriers, we can make South Carolina one of the safest places for pregnancy and childbirth.” The South Carolina House of Representatives will hold prefiling for the 2020 Legislative Session on Wednesday, November 20 and Wednesday, December 11.
+### « Rep.
+Kambrell Garvin Will File ‘Crown Act’ to Ban Racist Discrimination Against Hair The State Capitol Report – 1/17/2020 » Search for: Recent Posts Opinion: The COVID-19 pandemic shows why South Carolina needs to expand Medicaid coverage Letter to Gov.
+McMaster calling for Medicaid Expansion as a result of COVID-19 Letter to Gov.
+McMaster concerning the high number of COVID-19 cases in Richland County The State Capitol Report – 3/13/2020 The State Capitol Report – 3/6/2020

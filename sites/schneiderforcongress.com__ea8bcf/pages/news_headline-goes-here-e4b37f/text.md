@@ -1,46 +1,11 @@
-PRESS RELEASE
-Schneider Campaign Donates to Food Banks Before SNAP Funds Lapse
-As families across the nation face a Republican created hunger crisis, Rep.
+Skip navigation menu Meet Brad Volunteer Events Endorsements Internship News Contact Donate Meet Brad Volunteer Events Endorsements Internship News Contact Donate STATEMENT SCHNEIDER CONDEMNS HASAN PIKER’S CALL TO VIOLENCE AGAINST AMERICAN JEWS STATEMENT Jewish Members of Congress Condemn Antisemitic Attacks in Florida Republican Primary PRESS RELEASE GIFFORDS Endorses Rep.
+Brad Schneider for Reelection PRESS RELEASE Schneider Statement on the Indictment of Six Broadview Protestors PRESS RELEASE Schneider Campaign Donates to Food Banks Before SNAP Funds Lapse PRESS RELEASE 100+ Current and Former Elected Officials Endorse Rep.
+Brad Schneider Oct 30 2025 PRESS RELEASE Schneider Campaign Donates to Food Banks Before SNAP Funds Lapse As families across the nation face a Republican created hunger crisis, Rep.
 Brad Schneider (IL-10) announced on Thursday that he is proud to make a donation from his reelection campaign account to 27 local food banks, two diaper banks, and two immigrant assistance organizations in the district.
 These donations come as an anticipated lapse in SNAP payments begins on November 1st, caused by the refusal of the Trump Administration to tap a $5 billion contingency fund that is available to keep food benefits flowing to people in need.
 “Nearly 2 million Illinoisans will be at risk of going hungry starting on November 1 because of the Trump Administration’s and Republicans’ unwillingness to both release emergency SNAP funds and work with Congressional Democrats to end the government shutdown,” said Rep.
 Schneider.
 “Republican leadership in Washington has already cut almost $200 billion from food assistance programs earlier this year, in addition to their $1 trillion cut to Medicaid that will also directly impact many families that rely on SNAP.
 With costs rising due to Trump’s tariff taxes and families struggling to make ends meet, it’s crucial for those who can to pitch in and support hungry families, especially with Thanksgiving around the corner.
-I’m proud to support our local food pantries with a donation that will help them keep families fed this holiday season.”
-The following food banks will receive a donation this week from Schneider for Congress:
-- Antioch Township
-- Avon Township
-- Fremont Township
-- Grant Township
-- Lake Villa Township
-- Libertyville Township
-- Moraine Township
-- Northfield Township
-- Shields Township
-- Vernon Township
-- Warren Township
-- West Deerfield Township
-- Wheeling Township
-- New Trier Angel Fund
-- Cool Food Pantry, Waukegan
-- Christian Faith Fellowship Church Food Pantry, Zion
-- Abiding Love Ministries Christian Assembly of God, Zion
-- The Giving Point Food Bank, Winthrop Harbor
-- Northern Illinois Food Bank, Geneva
-- Greater Chicago Food Depository, Chicago
-- UMMA Center, Waukegan
-- Community Action Partnership of Lake County, Waukegan
-- Beacon Place, Waukegan
-- Roberti Culinary Pathway, Waukegan
-- St.
-Joseph’s Richmond/Spring Grove Food Pantry, Richmond
-- FISH of McHenry, McHenry
-- Lake County Haven, Libertyville
-The following diaper banks will receive a donation from Schneider for Congress:
-- Keeping Families Covered Lake County, Waukegan
-- Keeping Families Covered McHenry County, McHenry
-The following immigrant assistance organizations will receive a donation from Schneider for Congress:
-- Mano a Mano Family Resource Center
-- HACES
-###
+I’m proud to support our local food pantries with a donation that will help them keep families fed this holiday season.” The following food banks will receive a donation this week from Schneider for Congress: Antioch Township Avon Township Fremont Township Grant Township Lake Villa Township Libertyville Township Moraine Township Northfield Township Shields Township Vernon Township Warren Township West Deerfield Township Wheeling Township New Trier Angel Fund Cool Food Pantry, Waukegan Christian Faith Fellowship Church Food Pantry, Zion Abiding Love Ministries Christian Assembly of God, Zion The Giving Point Food Bank, Winthrop Harbor Northern Illinois Food Bank, Geneva Greater Chicago Food Depository, Chicago UMMA Center, Waukegan Community Action Partnership of Lake County, Waukegan Beacon Place, Waukegan Roberti Culinary Pathway, Waukegan St.
+Joseph’s Richmond/Spring Grove Food Pantry, Richmond FISH of McHenry, McHenry Lake County Haven, Libertyville The following diaper banks will receive a donation from Schneider for Congress: Keeping Families Covered Lake County, Waukegan Keeping Families Covered McHenry County, McHenry The following immigrant assistance organizations will receive a donation from Schneider for Congress: Mano a Mano Family Resource Center HACES ### Brad Schneider for Congress PO Box 1318, Deerfield, IL 60015 P: (847) 748-3788 C: (847) 964-3365 Powered by RUN! website builder Paid for by Schneider for Congress You need to enable JavaScript to run this app.

@@ -1,7 +1,26 @@
 [
-"https://electmarsh.org/contact",
-"https://electmarsh.org/donate",
-"https://electmarsh.org/home",
-"https://google.com/url?q=https%3A%2F%2Fwww.wobbly.blog&sa=D&sntz=1&usg=AOvVaw20JhjbmeTPznIQbujwgdXx",
-"https://wsjm.com/2026/09/08/green-party-candidates-for-state-federal-office-gather-in-st-joseph"
+{
+"text": "Contact",
+"href": "https://www.electmarsh.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmarsh.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "MARSH for MI",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "[image]WobblyReport",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.wobbly.blog&sa=D&sntz=1&usg=AOvVaw20JhjbmeTPznIQbujwgdXx"
+},
+{
+"text": "https://www.wsjm.com/2026/09/08/green-party-candidates-for-state-federal-office-gather-in-st-joseph/",
+"href": "https://www.wsjm.com/2026/09/08/green-party-candidates-for-state-federal-office-gather-in-st-joseph/"
+}
 ]

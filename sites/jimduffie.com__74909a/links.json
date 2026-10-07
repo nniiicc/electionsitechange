@@ -1,12 +1,42 @@
 [
-"https://jimduffie.com/admin",
-"https://jimduffie.com/contact",
-"https://jimduffie.com/donate",
-"https://jimduffie.com/fairtax",
-"https://jimduffie.com/faq",
-"https://jimduffie.com/issues",
-"https://jimduffie.com/meet-jim",
-"https://jimduffie.com/privacy",
-"https://jimduffie.com/terms",
-"https://jimduffie.com/volunteer"
+{
+"text": "Admin",
+"href": "https://jimduffie.com/admin"
+},
+{
+"text": "Contact",
+"href": "https://jimduffie.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://jimduffie.com/donate"
+},
+{
+"text": "FAQ",
+"href": "https://jimduffie.com/faq"
+},
+{
+"text": "Fair Tax",
+"href": "https://jimduffie.com/fairtax"
+},
+{
+"text": "Issues",
+"href": "https://jimduffie.com/issues"
+},
+{
+"text": "Meet Jim",
+"href": "https://jimduffie.com/meet-jim"
+},
+{
+"text": "Privacy",
+"href": "https://jimduffie.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://jimduffie.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://jimduffie.com/volunteer"
+}
 ]

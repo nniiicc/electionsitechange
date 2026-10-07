@@ -1,33 +1,154 @@
 [
-"http://mccarvillereport.com/archives/61053",
-"http://oklegislature.gov/BillInfo.aspx?Bill=sb362&Session=2400",
-"https://ais-usc-tulsacounty-web.azurewebsites.net/FullMapView",
-"https://cceok.org/healing-after-abortion",
-"https://coffeebunker.org/",
-"https://facebook.com/HassinkforHD79",
-"https://facebook.com/groups/oklahomansforresponsibletransportation",
-"https://hassinkok.com/",
-"https://hassinkok.com/author/hassinkok",
-"https://hassinkok.com/contact",
-"https://hassinkok.com/donate",
-"https://hassinkok.com/endorsements",
-"https://hassinkok.com/issues",
-"https://hassinkok.com/links",
-"https://hassinkok.com/meet-paul",
-"https://hassinkok.com/news/faith",
-"https://hassinkok.com/news/mend",
-"https://hassinkok.com/privacy-policy",
-"https://hassinkok.com/recent-news",
-"https://hassinkok.com/recent-news?type=press-release",
-"https://hassinkok.com/sos",
-"https://hassinkok.com/thatisnotok",
-"https://legiscan.com/OK/text/SB601/id/2004704",
-"https://linkedin.com/in/paul-hassink-16650677/recent-activity/all",
-"https://mendmedical.org/",
-"https://oef.org/2024/06/12/oklahoma-education-ranking-2024",
-"https://pbs.org/newshour/education/kids-reading-scores-have-soared-in-mississippi-miracle",
-"https://tax-rates.org/taxtables/income-tax-by-state",
-"https://thatisnotok.com/",
-"https://thedemandproject.org/",
-"https://wingsoffreedom.com/"
+{
+"text": "Contact",
+"href": "https://hassinkok.com/contact/"
+},
+{
+"text": "Contact me via email",
+"href": "https://hassinkok.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate"
+},
+{
+"text": "DONATE",
+"href": "https://hassinkok.com/donate/"
+},
+{
+"text": "Donate (https://hassinkok.com/donate/)",
+"href": "https://hassinkok.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://hassinkok.com/endorsements/"
+},
+{
+"text": "Endorsements (https://hassinkok.com/endorsements/)",
+"href": "https://hassinkok.com/endorsements/"
+},
+{
+"text": "Faith (https://hassinkok.com/news/faith)",
+"href": "https://hassinkok.com/news/faith"
+},
+{
+"text": "Home",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "Issues",
+"href": "https://hassinkok.com/issues/"
+},
+{
+"text": "Meet Paul",
+"href": "https://hassinkok.com/meet-paul/"
+},
+{
+"text": "Mend (https://hassinkok.com/news/mend)",
+"href": "https://hassinkok.com/news/mend"
+},
+{
+"text": "News",
+"href": "https://hassinkok.com/recent-news/"
+},
+{
+"text": "Press",
+"href": "https://hassinkok.com/recent-news/?type=press-release"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hassinkok.com/privacy-policy/"
+},
+{
+"text": "Recent News (https://hassinkok.com/recent-news/)",
+"href": "https://hassinkok.com/recent-news/"
+},
+{
+"text": "Resource Links",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "Resources",
+"href": "https://hassinkok.com/links/"
+},
+{
+"text": "Save Oklahoma Students (SOS)",
+"href": "https://hassinkok.com/sos/"
+},
+{
+"text": "That Is Not OK (https://www.ThatIsNotOK.com)",
+"href": "https://www.thatisnotok.com"
+},
+{
+"text": "[image]",
+"href": "https://hassinkok.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HassinkforHD79"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/paul-hassink-16650677/recent-activity/all/"
+},
+{
+"text": "hassinkok",
+"href": "https://hassinkok.com/author/hassinkok/"
+},
+{
+"text": "http://mccarvillereport.com/archives/61053",
+"href": "http://mccarvillereport.com/archives/61053"
+},
+{
+"text": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb362&Session=2400",
+"href": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb362&Session=2400"
+},
+{
+"text": "https://CoffeeBunker.org",
+"href": "https://coffeebunker.org"
+},
+{
+"text": "https://MendMedical.org",
+"href": "https://mendmedical.org"
+},
+{
+"text": "https://TheDemandProject.org",
+"href": "https://thedemandproject.org"
+},
+{
+"text": "https://ais-usc-tulsacounty-web.azurewebsites.net/FullMapView",
+"href": "https://ais-usc-tulsacounty-web.azurewebsites.net/FullMapView"
+},
+{
+"text": "https://cceok.org/healing-after-abortion",
+"href": "https://cceok.org/healing-after-abortion"
+},
+{
+"text": "https://legiscan.com/OK/text/SB601/id/2004704",
+"href": "https://legiscan.com/OK/text/SB601/id/2004704"
+},
+{
+"text": "https://oef.org/2024/06/12/oklahoma-education-ranking-2024/",
+"href": "https://oef.org/2024/06/12/oklahoma-education-ranking-2024/"
+},
+{
+"text": "https://wingsoffreedom.com",
+"href": "https://wingsoffreedom.com"
+},
+{
+"text": "https://www.facebook.com/groups/oklahomansforresponsibletransportation/",
+"href": "https://www.facebook.com/groups/oklahomansforresponsibletransportation/"
+},
+{
+"text": "https://www.pbs.org/newshour/education/kids-reading-scores-have-soared-in-mississippi-miracle",
+"href": "https://www.pbs.org/newshour/education/kids-reading-scores-have-soared-in-mississippi-miracle"
+},
+{
+"text": "https://www.tax-rates.org/taxtables/income-tax-by-state",
+"href": "https://www.tax-rates.org/taxtables/income-tax-by-state"
+},
+{
+"text": "“ThatIsNotOK”",
+"href": "https://hassinkok.com/thatisnotok/"
+}
 ]

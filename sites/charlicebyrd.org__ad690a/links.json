@@ -1,18 +1,78 @@
 [
-"https://charlicebyrd.org/",
-"https://charlicebyrd.org/about",
-"https://charlicebyrd.org/cdn-cgi/l/email-protection",
-"https://charlicebyrd.org/constituent-services",
-"https://charlicebyrd.org/contact",
-"https://charlicebyrd.org/issues",
-"https://charlicebyrd.org/privacy-policy",
-"https://charlicebyrd.org/terms",
-"https://facebook.com/RepCharliceByrd",
-"https://instagram.com/charlice_byrd",
-"https://securedonors.com/charlicebyrd/checkout",
-"https://securedonors.com/charlicebyrd/checkout?amount=100.00",
-"https://securedonors.com/charlicebyrd/checkout?amount=1000.00",
-"https://securedonors.com/charlicebyrd/checkout?amount=20.26",
-"https://securedonors.com/charlicebyrd/checkout?amount=200.00",
-"https://x.com/charlice_byrd"
+{
+"text": "$100",
+"href": "https://securedonors.com/charlicebyrd/checkout?amount=100.00#new_tab"
+},
+{
+"text": "$1000",
+"href": "https://securedonors.com/charlicebyrd/checkout?amount=1000.00#new_tab"
+},
+{
+"text": "$20.26",
+"href": "https://securedonors.com/charlicebyrd/checkout?amount=20.26#new_tab"
+},
+{
+"text": "$200",
+"href": "https://securedonors.com/charlicebyrd/checkout?amount=200.00#new_tab"
+},
+{
+"text": "About",
+"href": "https://www.charlicebyrd.org/about/"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.charlicebyrd.org/constituent-services/"
+},
+{
+"text": "Contact",
+"href": "https://www.charlicebyrd.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://securedonors.com/charlicebyrd/checkout#new_tab"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/RepCharliceByrd"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/charlice_byrd"
+},
+{
+"text": "Follow",
+"href": "https://x.com/charlice_byrd"
+},
+{
+"text": "Home",
+"href": "https://www.charlicebyrd.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.charlicebyrd.org/issues/"
+},
+{
+"text": "Other",
+"href": "https://securedonors.com/charlicebyrd/checkout#new_tab"
+},
+{
+"text": "Support Charlice",
+"href": "https://securedonors.com/charlicebyrd/checkout#new_tab"
+},
+{
+"text": "[email protected]",
+"href": "https://www.charlicebyrd.org/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image]",
+"href": "https://www.charlicebyrd.org/"
+},
+{
+"text": "here",
+"href": "https://www.charlicebyrd.org/privacy-policy/"
+},
+{
+"text": "here",
+"href": "https://www.charlicebyrd.org/terms/"
+}
 ]

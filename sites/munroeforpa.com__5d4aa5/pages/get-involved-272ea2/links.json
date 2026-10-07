@@ -1,16 +1,74 @@
 [
-"https://bucksdemocrats.org/be-a-voter",
-"https://bucksdemocrats.org/bucks-votes",
-"https://facebook.com/brianmunroe4staterep",
-"https://kriesi.at/",
-"https://munroeforpa.com/",
-"https://munroeforpa.com/breaking-news",
-"https://munroeforpa.com/get-involved",
-"https://munroeforpa.com/getting-results",
-"https://munroeforpa.com/meet-brian",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx",
-"https://secure.actblue.com/donate/friends-of-brian-munroe-1",
-"https://twitter.com/munroeforpa",
-"https://votespa.com/Voting-in-PA/pages/drop-box.aspx"
+{
+"text": "Campaign Updates",
+"href": "https://munroeforpa.com/breaking-news/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-brian-munroe-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-brian-munroe-1"
+},
+{
+"text": "Enfold WordPress Theme by Kriesi",
+"href": "https://kriesi.at"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/brianmunroe4staterep"
+},
+{
+"text": "Get Involved",
+"href": "https://munroeforpa.com/get-involved/"
+},
+{
+"text": "Getting Results",
+"href": "https://munroeforpa.com/getting-results/"
+},
+{
+"text": "Home",
+"href": "https://munroeforpa.com/"
+},
+{
+"text": "Meet Brian",
+"href": "https://munroeforpa.com/meet-brian/"
+},
+{
+"text": "Search",
+"href": "https://munroeforpa.com/get-involved/?s="
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/munroeforpa"
+},
+{
+"text": "Voter Registration",
+"href": "https://bucksdemocrats.org/be-a-voter/"
+},
+{
+"text": "[image: MunroeForPA]",
+"href": "https://munroeforpa.com/"
+},
+{
+"text": "at an official drop box",
+"href": "https://votespa.com/Voting-in-PA/pages/drop-box.aspx"
+},
+{
+"text": "click here to get started",
+"href": "https://bucksdemocrats.org/bucks-votes/"
+},
+{
+"text": "here",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx"
+},
+{
+"text": "info@munroeforpa.com",
+"href": "mailto:info@munroeforpa.com"
+},
+{
+"text": "register to vote online",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+}
 ]

@@ -1,35 +1,28 @@
-A Dirty Taste of “Clean” Energy
-Two biomass power plants in northeast Georgia have led to enormous fish kills, environmental investigations, legal battles, and adverse health effects for residents of Franklin and Madison counties, just northeast of Athens [1].
-These wood-fired plants burn creosote-treated railroad ties to produce what is supposed to be clean energy [2].
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Dirty Taste of “Clean” Energy Posted April 9, 2020 By Taylor Nchako Capitol Corner Two biomass power plants in northeast Georgia have led to enormous fish kills, environmental investigations, legal battles, and adverse health effects for residents of Franklin and Madison counties, just northeast of Athens [1] .
+These wood-fired plants burn creosote-treated railroad ties to produce what is supposed to be clean energy [2] .
 The plants, owned by Alabama-based Georgia Renewable Power, supply Georgia Power with an alternative energy source.
 In the process, the plants spew wood ash, unpleasant odors and disturbing noise into the nearby communities.
-The plants’ byproducts may cause respiratory issues and cancer [3].
+The plants’ byproducts may cause respiratory issues and cancer [3] .
 The health of residents has already been affected, with some experiencing dizziness and other medical complications.
-Furthermore, the plants’ runoff has contaminated nearby waterways, with the Franklin plant killing over 2,000 fish in one incident [4].
-Now, Senate Bill 385 and House Bill 857 aim to ban creosote in biomass energy operations [5].
+Furthermore, the plants’ runoff has contaminated nearby waterways, with the Franklin plant killing over 2,000 fish in one incident [4] .
+Now, Senate Bill 385 and House Bill 857 aim to ban creosote in biomass energy operations [5] .
 The bills serve to pressure Georgia Renewable Power to honor their original 2015 business plan, which asserted that the company would only burn clean wood chips.
-A year after this commitment, however, GRP began burning creosote crossties in response to the United States Environmental Protection Agency changing their rules to allow for the burning of creosote-treated wood in 2016 [6].
-Representatives from GRP claim that the EPA and the Georgia Environmental Protection Division have denoted burning creosote as the most “environmentally friendly” method to dispose of it [7], and that the company may be forced out of business if it has to rely on other types of wood [8].
+A year after this commitment, however, GRP began burning creosote crossties in response to the United States Environmental Protection Agency changing their rules to allow for the burning of creosote-treated wood in 2016 [6] .
+Representatives from GRP claim that the EPA and the Georgia Environmental Protection Division have denoted burning creosote as the most “environmentally friendly” method to dispose of it [7] , and that the company may be forced out of business if it has to rely on other types of wood [8] .
 The claim of environmental friendliness is questionable, as the EPA limits the burning of railroad ties to 40% and the EPD limits it to just 20% a year.
-Franklin County does not know if GRP follows either of these restrictions [9].
+Franklin County does not know if GRP follows either of these restrictions [9] .
 In an effort to justify the company’s actions, the plants’ manager stated that GRP spends over $1 million to minimize fly ash and noise pollution.
-It has also been noted that the GRP plant in Madison County brings in $4.7 million of tax revenue each year [10].
+It has also been noted that the GRP plant in Madison County brings in $4.7 million of tax revenue each year [10] .
 Despite the economic effects of the GRP plants, they pose serious hazards for the communities and ecosystems in which they operate.
 The air, noise, and water pollution caused by the plants pose risks for human and nonhuman health, as well as the viability of such local livelihoods as cattle ranching and chicken farming.
 The proposed bills properly address the environmental impacts of creosote; yet, this affair speaks to the larger issue surrounding the implementation of “clean” energy.
-Though the federal government considers biomass plants to be renewable energy, they can be as harmful as coal operations [11].
+Though the federal government considers biomass plants to be renewable energy, they can be as harmful as coal operations [11] .
 Bioenergy may exacerbate deforestation, habitat loss and water scarcity due to the intensive needs of certain energy types.
 When biomass is burned, it releases carbon dioxide, which contributes to greenhouse gases in the atmosphere.
 While plants capture carbon during their lifecycle, this process may not be carbon neutral, meaning they do not release a net increase of carbon into the atmosphere.
-The biomass process may release more carbon than can be captured due to variables of time, methodology and fuel sources [12].
-Additionally, burning biomass releases carbon monoxide, nitrogen oxides, and volatile organic compounds, including lead and mercury, into the atmosphere, which contributes to pollution [13].
-As such alternative energy sources as biomass grow increasingly prevalent [14], it is imperative that our federal and especially state regulations address the potential downsides associated with new technologies.
+The biomass process may release more carbon than can be captured due to variables of time, methodology and fuel sources [12] .
+Additionally, burning biomass releases carbon monoxide, nitrogen oxides, and volatile organic compounds, including lead and mercury, into the atmosphere, which contributes to pollution [13] .
+As such alternative energy sources as biomass grow increasingly prevalent [14] , it is imperative that our federal and especially state regulations address the potential downsides associated with new technologies.
 With such firm legislation against such a large generator of revenue, Georgia has set a precedent for evaluating energy operations based on merit rather than economic value.
-It is only when we value the long-term health of our citizens and our environment over short-term economic gain that we will ensure a safe and healthy Georgia for future generations.
-https://permitsearch.gaepd.org/permit.aspx?id=PDF-OP-26985
-https://921wlhr.com/senate-bill-to-ban-burning-creosote-coated-railroad-ties-clears-committee/
-https://wnegradio.com/senate-bill-to-ban-burning-creosote-coated-railroad-ties-clears-committee/
-https://www.energysage.com/about-clean-energy/biomass/environmental-impacts-biomass/
-https://blogs.ei.columbia.edu/2011/08/18/is-biomass-really-renewable/
-https://www.iea.org/reports/renewables-2018
-written by: Taylor Nchako
+It is only when we value the long-term health of our citizens and our environment over short-term economic gain that we will ensure a safe and healthy Georgia for future generations. https://georgiarecorder.com/2019/11/20/rural-ne-georgia-wood-fired-plants-leave-nearby-residents-with-bad-taste/ https://permitsearch.gaepd.org/permit.aspx?id=PDF-OP-26985 https://www.northwestgeorgianews.com/rome/business/georgia-senate-committee-approves-creosote-burning-ban/article_5cb45d08-59bc-11ea-a781-afe53766a268.html https://georgiarecorder.com/2019/11/20/rural-ne-georgia-wood-fired-plants-leave-nearby-residents-with-bad-taste/ https://921wlhr.com/senate-bill-to-ban-burning-creosote-coated-railroad-ties-clears-committee/ https://www.epa.gov/rcra/frequent-questions-about-final-rule-additions-list-categorical-non-waste-fuels-other-treated https://wnegradio.com/senate-bill-to-ban-burning-creosote-coated-railroad-ties-clears-committee/ https://www.northwestgeorgianews.com/rome/business/georgia-senate-committee-approves-creosote-burning-ban/article_5cb45d08-59bc-11ea-a781-afe53766a268.html https://921wlhr.com/rep-alan-powell-says-state-lawmakers-from-northeast-georgia-concerned-about-grp-plants/ https://wnegradio.com/senate-bill-to-ban-burning-creosote-coated-railroad-ties-clears-committee/ https://www.onlineathens.com/news/20200302/bills-aim-to-halt-burning-of-creosote-railroad-ties-in-franklin-madison-counties https://www.energysage.com/about-clean-energy/biomass/environmental-impacts-biomass/ https://blogs.ei.columbia.edu/2011/08/18/is-biomass-really-renewable/ https://www.iea.org/reports/renewables-2018 written by: Taylor Nchako ©# Spencer Frye State House 122.
+All Rights Reserved.

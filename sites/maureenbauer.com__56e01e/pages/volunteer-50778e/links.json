@@ -1,8 +1,50 @@
 [
-"https://facebook.com/maureenforindiana",
-"https://instagram.com/maureen4indiana",
-"https://maureenbauer.com/",
-"https://secure.actblue.com/donate/maureenbauerforindiana",
-"https://tiktok.com/@maureen4indiana",
-"https://twitter.com/maureen4indiana"
+{
+"text": "About",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "Contact",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/maureenbauerforindiana"
+},
+{
+"text": "Get Involved",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "Home",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "Issues",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "Press",
+"href": "https://www.maureenbauer.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/maureenforindiana"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/maureen4indiana/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@maureen4indiana"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/maureen4indiana"
+},
+{
+"text": "contact@maureenbauer.com",
+"href": "mailto:contact@maureenbauer.com"
+}
 ]

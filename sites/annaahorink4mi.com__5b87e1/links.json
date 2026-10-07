@@ -1,11 +1,54 @@
 [
-"https://annaahorink4mi.com/",
-"https://facebook.com/share/19WyqR9ViL?mibextid=wwXIfr",
-"https://secure.actblue.com/donate/rinkwebsite",
-"https://secure.actblue.com/donate/rinkwebsite?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/rinkwebsite?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/rinkwebsite?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/rinkwebsite?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/rinkwebsite?amount=500&express_lane=true",
-"https://x.com/AnnaAhoRink4MI"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rinkwebsite?amount=10&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rinkwebsite?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rinkwebsite?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rinkwebsite?amount=50&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/rinkwebsite?amount=500&express_lane=true"
+},
+{
+"text": "Anna Aho Rink for State Representative",
+"href": "https://annaahorink4mi.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/rinkwebsite"
+},
+{
+"text": "Envelope",
+"href": "mailto:AnnaAhoRink4MI@gmail.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/share/19WyqR9ViL/?mibextid=wwXIfr"
+},
+{
+"text": "Home",
+"href": "https://annaahorink4mi.com/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/rinkwebsite"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/AnnaAhoRink4MI"
+},
+{
+"text": "[image]",
+"href": "https://annaahorink4mi.com/"
+}
 ]

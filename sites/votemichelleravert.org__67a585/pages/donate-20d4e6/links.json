@@ -1,13 +1,46 @@
 [
-"https://facebook.com/Michelle.Ravert.D1",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://votemichelleravert.org/",
-"https://votemichelleravert.org/about",
-"https://votemichelleravert.org/accomplishments",
-"https://votemichelleravert.org/contact",
-"https://votemichelleravert.org/critical-issue",
-"https://votemichelleravert.org/donate",
-"https://votemichelleravert.org/goals",
-"https://votemichelleravert.org/local-issues",
-"https://zeffy.com/en-US/donation-form/795718e4-c8a5-4ee8-a87b-db62fbd8c669"
+{
+"text": "About",
+"href": "https://votemichelleravert.org/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://votemichelleravert.org/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://votemichelleravert.org/contact"
+},
+{
+"text": "Critical issue",
+"href": "https://votemichelleravert.org/critical-issue"
+},
+{
+"text": "Donate",
+"href": "https://votemichelleravert.org/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/795718e4-c8a5-4ee8-a87b-db62fbd8c669"
+},
+{
+"text": "Goals",
+"href": "https://votemichelleravert.org/goals"
+},
+{
+"text": "Home",
+"href": "https://votemichelleravert.org/"
+},
+{
+"text": "Local Issues",
+"href": "https://votemichelleravert.org/local-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Michelle.Ravert.D1"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

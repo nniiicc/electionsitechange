@@ -1,18 +1,86 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=BBQ+Fundraiser&dates=20260822T020000Z%2F20260822T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+-+Sept+4&dates=20260905T030000Z%2F20260905T043000Z",
-"https://mistycluett.com/",
-"https://mistycluett.com/cart",
-"https://mistycluett.com/contact",
-"https://mistycluett.com/donate",
-"https://mistycluett.com/downloads",
-"https://mistycluett.com/events-1",
-"https://mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287",
-"https://mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287?format=ical",
-"https://mistycluett.com/events-1/waimeasept4",
-"https://mistycluett.com/events-1/waimeasept4?format=ical",
-"https://mistycluett.com/faq",
-"https://mistycluett.com/get-involved",
-"https://mistycluett.com/meet-misty",
-"https://mistycluett.com/priorities"
+{
+"text": "0",
+"href": "https://www.mistycluett.com/cart"
+},
+{
+"text": "BBQ Fundraiser",
+"href": "https://www.mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287"
+},
+{
+"text": "Contact",
+"href": "https://www.mistycluett.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mistycluett.com/donate"
+},
+{
+"text": "Downloads",
+"href": "https://www.mistycluett.com/downloads"
+},
+{
+"text": "Events",
+"href": "https://www.mistycluett.com/events-1"
+},
+{
+"text": "FAQ",
+"href": "https://www.mistycluett.com/faq"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mistycluett.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=BBQ+Fundraiser&dates=20260822T020000Z%2F20260822T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet+-+Sept+4&dates=20260905T030000Z%2F20260905T043000Z"
+},
+{
+"text": "Home",
+"href": "https://www.mistycluett.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.mistycluett.com/events-1/waimeasept4?format=ical"
+},
+{
+"text": "Meet & Greet - Sept 4",
+"href": "https://www.mistycluett.com/events-1/waimeasept4"
+},
+{
+"text": "Meet Misty",
+"href": "https://www.mistycluett.com/meet-misty"
+},
+{
+"text": "Priorities",
+"href": "https://www.mistycluett.com/priorities"
+},
+{
+"text": "View Event →",
+"href": "https://www.mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287"
+},
+{
+"text": "View Event →",
+"href": "https://www.mistycluett.com/events-1/waimeasept4"
+},
+{
+"text": "[image: Meet &amp; Greet - Sept 4]",
+"href": "https://www.mistycluett.com/events-1/waimeasept4"
+},
+{
+"text": "[image: Misty Cluett]",
+"href": "https://www.mistycluett.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.mistycluett.com/events-1/5ackwgvfomn7eo3mqfojcfvyske287"
+}
 ]

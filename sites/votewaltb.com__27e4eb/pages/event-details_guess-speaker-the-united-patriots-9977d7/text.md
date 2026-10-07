@@ -1,28 +1,5 @@
-HOME
-WALT'S STORY
-WALT'S VISION FOR ARIZONA
-WALT'S POLICIES & ISSUES
-ENDORSEMENTS
-WALT'S VOTING RECORD
-PROJECTS
-AZ GOP Links
-JLBC Budget
-Walt's Legistrative Summary
-BOOK ONLINE
-WALT'S PODCAST
-WALT'S BLOG
-CONTACT WALT
-Blog
-Events
-More
-Thu, Oct 05
-Mesa
-Meet up with Walt on October 5, 2023, at 5:30 PM at The United Patriots.
-Oct 05, 2023, 5:30 PM – 5:35 PM
-Mesa, 131 E Southern Ave, Mesa, AZ 85210, USA
----
-Meet Walt Blackman: A True American Patriot!
-*Experience Leadership, Commitment, and Community like Never Before!*
----
-📅 **When:** October 5, 2023
-⏰ **Time:** 5:30 PM
+top of page DONATE HERE!
+HOME WALT'S STORY WALT'S VISION FOR ARIZONA WALT'S POLICIES & ISSUES BORDER SECURITY ENDORSEMENTS WALT'S VOTING RECORD PROJECTS AZ GOP Links JLBC Budget Walt's Legistrative Summary BOOK ONLINE WALT'S PODCAST WALT'S BLOG LD7 NewsLetter CONTACT WALT Privacy Disclaimer Blog Events More Use tab to navigate through the menu items.
+WALT BLACKMAN REPIBLICAN FOR ARZONIA Please Sign My Pettion Keynote Speaker the United Patriots.
+Thu, Oct 05 | Mesa Meet up with Walt on October 5, 2023, at 5:30 PM at The United Patriots.
+Tickets are not on sale See other events Time & Location Oct 05, 2023, 5:30 PM – 5:35 PM Mesa, 131 E Southern Ave, Mesa, AZ 85210, USA About the event --- Meet Walt Blackman: A True American Patriot! *Experience Leadership, Commitment, and Community like Never Before!* --- 📅 **When:** October 5, 2023 ⏰ **Time:** 5:30 PM Show More Share this event GET INVOLVED: INFO@WALTBFORLD7.COM PAID FOR BY BLACKMAN.VOTE PRIVACY POLICY FUNDED BY THE COMMITTEE SUPPORTING WALT BLACKMAN'S CANDIDACY. bottom of page

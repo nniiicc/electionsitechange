@@ -1,5 +1,4 @@
-We Are The Only Change On The Ballot
-Citizens!
+Skip to content We Are The Only Change On The Ballot Citizens!
 One thing we’ve said from time to time over the years on the campaign trail is that you and me – we the people – are the only change on this ballot.
 It’s true; we can accept the status quo this November, or we can make some changes.
 The status quo is ruining our country.
@@ -11,4 +10,6 @@ I want an America at peace with itself and the rest of the world.
 An America that works for everyone and that we can be proud of again.
 More than anything, I want some common sense in these uncommon times.
 If you do, too, I deserve your support.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

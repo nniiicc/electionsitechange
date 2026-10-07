@@ -1,11 +1,50 @@
 [
-"https://colorfulconservative.com/",
-"https://colorfulconservative.com/calendar",
-"https://colorfulconservative.com/donations",
-"https://colorfulconservative.com/endorsements",
-"https://colorfulconservative.com/priorities",
-"https://colorfulconservative.com/volunteer",
-"https://facebook.com/bonnieabadieforhd102",
-"https://forms.gle/hAyAR58bxcjs5Ys88",
-"https://x.com/bonnieabadie"
+{
+"text": "CALENDAR",
+"href": "https://www.colorfulconservative.com/calendar/"
+},
+{
+"text": "DONATIONS",
+"href": "https://www.colorfulconservative.com/donations/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.colorfulconservative.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.colorfulconservative.com/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.colorfulconservative.com/priorities/"
+},
+{
+"text": "Sign Up!",
+"href": "https://forms.gle/hAyAR58bxcjs5Ys88"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.colorfulconservative.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://www.colorfulconservative.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bonnieabadieforhd102"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/bonnieabadie"
+},
+{
+"text": "[no text]",
+"href": "mailto:bonnie@northdallasmartialarts.com"
+},
+{
+"text": "[no text]",
+"href": "tel:+19724159962"
+}
 ]

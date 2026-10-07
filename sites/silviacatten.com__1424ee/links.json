@@ -1,9 +1,42 @@
 [
-"http://facebook.com/silviaforutah",
-"http://instagram.com/utahsilvia",
-"https://secure.actblue.com/donate/ws-silvia",
-"https://silviacatten.com/",
-"https://silviacatten.com/cart",
-"https://silviacatten.com/meet-silvia",
-"https://silviacatten.com/privacy-policy"
+{
+"text": "0",
+"href": "https://www.silviacatten.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ws-silvia"
+},
+{
+"text": "Get Involved",
+"href": "https://www.silviacatten.com/#get-involved"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.silviacatten.com/meet-silvia"
+},
+{
+"text": "Meet Silvia",
+"href": "https://www.silviacatten.com/meet-silvia"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.silviacatten.com/privacy-policy"
+},
+{
+"text": "Silvia's Priorities",
+"href": "https://www.silviacatten.com/#issues"
+},
+{
+"text": "[image: Silvia Catten for Utah Senate]",
+"href": "https://www.silviacatten.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/silviaforutah"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/utahsilvia"
+}
 ]

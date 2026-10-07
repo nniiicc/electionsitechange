@@ -1,18 +1,12 @@
-Oklahoma City, OK – The Jon Echols campaign for Attorney General released its latest round of legislative endorsements today.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Echols Releases New Round of Legislative Endorsements August 15, 2025 Oklahoma City, OK – The Jon Echols campaign for Attorney General released its latest round of legislative endorsements today.
 The list comes on the heels of the campaign’s first round of legislative endorsements received last week.
 The continued addition of state lawmakers showcases the durable base of support Echols has built across the state.
-Appropriations and Budget Committee Chair Trey Caldwell – District 63
-House Majority Leader Mark Lawson – District 30
-House Assistant Majority Whip Neil Hays – District 13
-Representative Mike Osburn – District 81
-Representative Tim Turner – District 15
-Representative Jason Blair – District 53
-Senator Casey Murdock – District 27
-“Jon Echols is the proven pro-Trump conservative running for Attorney General.
+Appropriations and Budget Committee Chair Trey Caldwell – District 63 House Majority Leader Mark Lawson – District 30 House Assistant Majority Whip Neil Hays – District 13 Representative Mike Osburn – District 81 Representative Tim Turner – District 15 Representative Jason Blair – District 53 Senator Casey Murdock – District 27 “Jon Echols is the proven pro-Trump conservative running for Attorney General.
 That is why he has such incredible support across the state with these legislators, over 30 sheriffs, the Oklahoma Fraternal Order of Police, the Professional Firefighters of Oklahoma, and the Oklahoma City Retired Firefighters all publicly backing him,” said campaign manager Isaac Hadam.
 Echols is running on a platform of backing law enforcement, protecting Oklahomans’ God-given liberties, and holding state agencies accountable for how they spend taxpayer dollars.
 He has also committed to working with the Trump Administration on key issues like tackling fentanyl and illegal immigration.
 Jon Echols is a 5th generation Oklahoman and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Holding the title for 8 years he is the longest serving Floor Leader in Oklahoma history.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer and stronger.
-###
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Media Advisory: Echols to File for Attorney General Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.

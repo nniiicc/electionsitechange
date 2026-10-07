@@ -1,5 +1,4 @@
-Terri Pickens’ primary election victory statement
-Thank you everyone who helped my campaign to be Idaho’s next governor take this step.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Terri Pickens’ primary election victory statement May 20 Written By Elle Casner Thank you everyone who helped my campaign to be Idaho’s next governor take this step.
 Like you, I am hopeful and excited about this next stage in our journey together.
 We are at the start of a movement to elect leaders who truly care about regular people and who will fight for freedom.
 I know this because I have spoken to thousands of Idahoans as I campaigned.
@@ -42,3 +41,4 @@ I say what I mean and I mean what I say.
 I will lead with integrity.
 I will put the needs of regular people first.
 Together we will make Idaho the beautiful, safe place to live and grow that we all know it should be–for everyone.
+Donate Elle Casner Previous Previous Idaho Voters Are Listening Next Next Teacher Appreciation Week TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

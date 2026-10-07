@@ -1,6 +1,22 @@
 [
-"https://idaho4rob.com/",
-"https://idaho4rob.com/contact",
-"https://idaho4rob.com/donate",
-"https://idaho4rob.com/robs-accomplishments"
+{
+"text": "Contact",
+"href": "https://www.idaho4rob.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.idaho4rob.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://www.idaho4rob.com/"
+},
+{
+"text": "Idaho4Rob",
+"href": "https://www.idaho4rob.com/"
+},
+{
+"text": "Rob’s Accomplishments",
+"href": "https://www.idaho4rob.com/robs-accomplishments/"
+}
 ]

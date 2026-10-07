@@ -1,15 +1,2 @@
-- Sierra Club, Rio Grande Chapter
-- New Mexico Voices for Children Action Fund
-- Dreams in Action, New Mexico
-- Climate Cabinet
-- Equality New Mexico
-- New Mexico Working Families Party
-- Planned Parenthood
-- American Federation of Teachers, New Mexico
-- Animal Protection Voters
-- Ole: Organizers in the Land of Enchantment
-- National Education Association, New Mexico (NEA NM)
-- NM Native Vote
-- Jessica I.
-Martínez, Immigration Attorney and Community Activist
-- NM Voters First
+About Angelica Follow Angelica Get Involved Legislative Information Endorsements Donate Endorsements Sierra Club, Rio Grande Chapter New Mexico Voices for Children Action Fund Dreams in Action, New Mexico Climate Cabinet Equality New Mexico New Mexico Working Families Party Planned Parenthood American Federation of Teachers, New Mexico Animal Protection Voters Ole: Organizers in the Land of Enchantment National Education Association, New Mexico (NEA NM) NM Native Vote Jessica I.
+Martínez, Immigration Attorney and Community Activist NM Voters First About Angelica Follow Angelica Get Involved Legislative Information Endorsements Donate Facebook Youtube Instagram

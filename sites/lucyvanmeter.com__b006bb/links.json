@@ -1,11 +1,54 @@
 [
-"https://depauw.edu/stories/details/the-public-servants-lucy-ferguson-vanmeter-97",
-"https://facebook.com/judgelucyvanmeter",
-"https://instagram.com/judgelucyvanmeter",
-"https://lucyvanmeter.com/",
-"https://lucyvanmeter.com/donate",
-"https://lucyvanmeter.com/experiencethatmatters",
-"https://lucyvanmeter.com/news",
-"https://lucyvanmeter.com/sign",
-"https://lucyvanmeter.com/volunteer"
+{
+"text": "DONATE",
+"href": "https://www.lucyvanmeter.com/donate"
+},
+{
+"text": "EXPERIENCE THAT MATTERS",
+"href": "https://www.lucyvanmeter.com/experiencethatmatters"
+},
+{
+"text": "Learn More About Lucy",
+"href": "https://www.lucyvanmeter.com/experiencethatmatters"
+},
+{
+"text": "NEWS",
+"href": "https://www.lucyvanmeter.com/news"
+},
+{
+"text": "REQUEST YARD SIGN",
+"href": "https://www.lucyvanmeter.com/sign"
+},
+{
+"text": "Read More",
+"href": "https://www.lucyvanmeter.com/experiencethatmatters"
+},
+{
+"text": "Read the Full Article",
+"href": "https://www.depauw.edu/stories/details/the-public-servants-lucy-ferguson-vanmeter-97/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lucyvanmeter.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/judgelucyvanmeter"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/judgelucyvanmeter"
+},
+{
+"text": "[image: elect-judge-lucy-vanmeter-coa-logo.png]",
+"href": "https://www.lucyvanmeter.com"
+},
+{
+"text": "[image: elect-lucy.png]",
+"href": "https://www.lucyvanmeter.com"
+},
+{
+"text": "campaign@lucyvanmeter.com",
+"href": "mailto:campaign@lucyvanmeter.com"
+}
 ]

@@ -1,5 +1,4 @@
-MEET CAMILLE
-Camille Pattison is an experienced community leader and government professional who lives and volunteers in Nashua.
+0 Skip to Content About Issues Vote Endorsements Contact DONATE Open Menu Close Menu About Issues Vote Endorsements Contact DONATE Open Menu Close Menu About Issues Vote Endorsements Contact DONATE MEET CAMILLE Camille Pattison is an experienced community leader and government professional who lives and volunteers in Nashua.
 She brings expertise in both land use and transportation planning, organizational management, and economic development.
 Ms.
 Pattison began her career in long-range planning for Snohomish County in Washington State.
@@ -11,10 +10,8 @@ Pattison earned a Bachelor of Arts in Planning and Environmental Policy, with a 
 Camille and her husband Travis are proud parents of two boys, Spencer and Calvin as well as their beloved dog – Gidgie Girl.
 Spencer just graduated from college in San Diego and Calvin started high school this fall.
 In her spare time she loves gardening, enjoying New Hampshire’s outdoors, spending time at the beach, traveling with her family, and cheering on her kids from the sidelines.
-IN THE COMMUNITY
-- Currently serves as the Vice Chair of the Nashua Soup Kitchen and Shelter, and co-chaired the Annual Gala for the past three years
-- Past Board member of the Greater Nashua – Merrimack YMCA for three years and is currently a member of the Board of Trustees
-- Big Brothers / Big Sisters Mentor
-- Past member of the City of Nashua Business and Industrial Development Authority (BIDA)
-- Past member of the New Hampshire Planners Association (NHPA) Executive Committee
-- Past Board member of the Northeast Passenger Transportation Association (NEPTA)
+IN THE COMMUNITY Currently serves as the Vice Chair of the Nashua Soup Kitchen and Shelter, and co-chaired the Annual Gala for the past three years Past Board member of the Greater Nashua – Merrimack YMCA for three years and is currently a member of the Board of Trustees Big Brothers / Big Sisters Mentor Past member of the City of Nashua Business and Industrial Development Authority (BIDA) Past member of the New Hampshire Planners Association (NHPA) Executive Committee Past Board member of the Northeast Passenger Transportation Association (NEPTA) PALM CARD FOLLOW THE CAMPAIGN Sign up to get news from the campaign including events, fundraisers, and news.
+Paid for by Friends of Camille Pattison.
+Fiscal Agent: Sue Newman Sign up FOLLOW THE CAMPAIGN Sign up to get news from the campaign including events, fundraisers, and news.
+Sign up Paid for by Friends of Camille Pattison.
+Fiscal Agent: Sue Newman blog

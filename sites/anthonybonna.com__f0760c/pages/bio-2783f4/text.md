@@ -1,5 +1,6 @@
-Meet Anthony
-Anthony Bonna's commitment to public service is rooted in gratitude.
+top of page Home Meet Anthony Issues Supporters Videos Contact More...
+Use tab to navigate through the menu items.
+Donate Meet Anthony Anthony Bonna's commitment to public service is rooted in gratitude.
 Growing up on the Treasure Coast, Anthony benefited from the investment of countless people and organizations that helped shape his future.
 He earned scholarships through Rotary, the Chamber of Commerce, and the Education Foundation.
 He was a Little Brother in Big Brothers Big Sisters, earned the rank of Eagle Scout, and was active in his church and community.
@@ -21,3 +22,13 @@ In 2024, Anthony had the honor of serving as one of Florida's Presidential Elect
 Anthony and his wife, Tara, live in Port St.
 Lucie with their three children, Aubrey, Anthony Jr., and Adele.
 Guided by faith, family, and gratitude for the opportunities he was given, Anthony continues to dedicate his life to giving back to the community that invested in him and fighting to keep Florida affordable, safe, and free.
+Donate Anthony is the founder of Good Help Group, a marketing and consulting firm serving businesses, nonprofits, and community organizations throughout the country.
+A graduate of Georgetown University with a degree in Finance, Anthony has spent his career helping organizations grow, communicate, and achieve their goals.
+Busines Owner & Community Leader Proven Conservative Leadership Anthony has served as a St.
+Lucie County Commissioner, Port St.
+Lucie City Councilman, Chairman of the Treasure Coast Regional Planning Council, and State Committeeman for the Republican Party of Florida.
+In 2024, he was honored to serve as one of Florida's Presidential Electors, casting one of Florida's 30 Electoral College votes for President Donald J.
+Trump.
+Giving Back To The Community Anthony remains actively involved in the organizations that helped shape his life, including the Education Foundation, Big Brothers Big Sisters, Rotary, Scouting, and his parish community.
+He believes strong communities are built through service, leadership, and investing in the next generation.
+PAID FOR BY ANTHONY BONNA, REPUBLICAN, FOR STATE REPRESENTATIVE, DISTRICT 85 bottom of page

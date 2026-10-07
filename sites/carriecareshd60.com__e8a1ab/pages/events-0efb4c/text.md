@@ -1,21 +1,5 @@
-Upcoming Events
-Join Carrie Syczylo at upcoming events throughout House District 60.
+0 Skip to Content Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Support Team of Volunteers Get Involved Events Merchandise Contact DONATE Open Menu Close Menu Meet Carrie Issues & Priorities Podcast Videos Folder: Support Back Team of Volunteers Get Involved Events Merchandise Contact DONATE Upcoming Events Join Carrie Syczylo at upcoming events throughout House District 60.
 Meeting with community members and listening to the concerns of our neighbors is an important part of this campaign.
-We invite you to come out, ask questions, share your thoughts, and be part of the conversation about the future of our communities.
-Event Schedule
-Monroe County Fair
-Date: 06-28-26
-Location: 5700 W Airport Rd, Bloomington, IN 47403
-Stan Diamond Monrovia Library
-Date: 06-30-26
-Time: 6 PM - 8 PM
-Location: 145 S Chestnut St, Monrovia, IN 46157
-Martinsville Car Show
-Date: 07-02-26
-Time: 6 PM 7 PM
-Location: Jefferson Street, Martinsville, IN
-Martinsville Parade
-Date: 07-04-26
-Time: 10 AM
-Location: 109 E.
-Garfield StreetMartinsville, IN 46151
+We invite you to come out, ask questions, share your thoughts, and be part of the conversation about the future of our communities. donate Event Schedule Monroe County Fair Date: 06-28-26 Location: 5700 W Airport Rd, Bloomington, IN 47403 Stan Diamond Monrovia Library Date: 06-30-26 Time: 6 PM - 8 PM Location: 145 S Chestnut St, Monrovia, IN 46157 Martinsville Car Show Date: 07-02-26 Time: 6 PM 7 PM Location: Jefferson Street, Martinsville, IN Martinsville Parade Date: 07-04-26 Time: 10 AM Location: 109 E.
+Garfield StreetMartinsville, IN 46151 Quick Links Meet Carrie Get Involved Issues & Priorities Purchase Supporting Merchandise Contact Email: carriecareshd60@yahoo.com Register to vote ©# Carrie Syczylo All rights reserved.
+Privacy Policy Terms & Conditions Site Design by Kimmy

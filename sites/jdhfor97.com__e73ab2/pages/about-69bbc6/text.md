@@ -1,4 +1,4 @@
-A Mom.
+Skip navigation menu About Issues Contact News Homepage Donate About Issues Contact News Homepage Donate A Mom.
 A Small Business Owner.
 A Community Advocate.
 Your State Representative.
@@ -13,3 +13,4 @@ Jessica believes Springfield needs more leaders interested in getting things don
 She is committed to lowering costs for working families, strengthening public schools, supporting first responders, helping small businesses grow, improving local infrastructure and ensuring state government operates transparently and responsibly.
 For Jessica, public service isn’t about ideology.
 It is about making government work better for the people it serves.
+Terms and Conditions Electjessicadixonheitman@gmail.com PO Box 1469, Plainfield, IL 60585 Powered by RUN! website builder Paid for by Citizens to Elect Jessica Dixon Heitman You need to enable JavaScript to run this app.

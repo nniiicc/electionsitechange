@@ -1,22 +1,86 @@
 [
-"http://denverdemocrats.org/findmy",
-"http://google.com/calendar/event?action=TEMPLATE&text=Denver+Democrats+Central+Committee+Meeting&dates=20260919T170000Z%2F20260919T213000Z&location=1700+East+Louisiana+Avenue%2C+Denver%2C+Colorado%2C+80210%2C+United+States",
-"http://maps.google.com/?q=1700+East+Louisiana+Avenue+Denver%2C+Colorado%2C+80210+United+States",
-"https://flickr.com/people/monicaforcolorado",
-"https://instagram.com/monicavanbuskirk",
-"https://linkedin.com/in/monicavanbuskirk",
-"https://monicaforcolorado.com/",
-"https://monicaforcolorado.com/about",
-"https://monicaforcolorado.com/cart",
-"https://monicaforcolorado.com/contact",
-"https://monicaforcolorado.com/endorsements",
-"https://monicaforcolorado.com/events",
-"https://monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1?format=ical",
-"https://monicaforcolorado.com/events/frontline-farm-volunteer-day-at-celebration-garden",
-"https://monicaforcolorado.com/events/south-by-southeast-summer-series-at-eisenhower-park",
-"https://monicaforcolorado.com/hd9",
-"https://monicaforcolorado.com/issues",
-"https://monicaforcolorado.com/privacy-policy",
-"https://secure.actblue.com/donate/monicaforcolorado",
-"https://youtube.com/@monicavanbuskirk"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1700+east+louisiana+avenue+denver%2C+colorado%2C+80210+united+states"
+},
+{
+"text": "0",
+"href": "https://www.monicaforcolorado.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.monicaforcolorado.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.monicaforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/monicaforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.monicaforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.monicaforcolorado.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Denver+Democrats+Central+Committee+Meeting&dates=20260919T170000Z%2F20260919T213000Z&location=1700+East+Louisiana+Avenue%2C+Denver%2C+Colorado%2C+80210%2C+United+States"
+},
+{
+"text": "HD9",
+"href": "https://www.monicaforcolorado.com/hd9"
+},
+{
+"text": "ICS",
+"href": "https://www.monicaforcolorado.com/events/denver-democrats-central-committee-meeting-1?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.monicaforcolorado.com/issues"
+},
+{
+"text": "Next Next September 19 CANCELLED - South by Southeast Summer Series at Eisenhower Park",
+"href": "https://www.monicaforcolorado.com/events/south-by-southeast-summer-series-at-eisenhower-park"
+},
+{
+"text": "Previous Previous September 17 Frontline Farm Volunteer Day at Celebration Garden",
+"href": "https://www.monicaforcolorado.com/events/frontline-farm-volunteer-day-at-celebration-garden"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.monicaforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Monica for Colorado]",
+"href": "https://www.monicaforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/people/monicaforcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/monicavanbuskirk/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@monicavanbuskirk"
+},
+{
+"text": "here",
+"href": "http://denverdemocrats.org/findmy"
+}
 ]

@@ -1,5 +1,5 @@
-Workers and the Functioning of Our Towns
-I’m hearing the same concerns across Brewster, Dennis, and Yarmouth.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+All Articles Search Workers and the Functioning of Our Towns clambton13 Apr 3 2 min read I’m hearing the same concerns across Brewster, Dennis, and Yarmouth.
 It is ridiculously hard for towns to attract, hire, and retain the people we rely on every day.
 Teachers.
 Police officers.
@@ -41,3 +41,4 @@ Because Brewster, Dennis, and Yarmouth can continue to be the viable communities
 Maintaining that balance is not automatic.
 It requires attention, practical decision-making, and a willingness to use all the tools available to support the people who make our towns work.
 That is the direction we should be focused on, and those are the resources and realizations I will fight for as your Representative.
+Recent Posts See All Retirement Should Not Mean Being Priced Out Protecting Our Water is Personal Our Coastal Community Cannot Wait for the Next Storm SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

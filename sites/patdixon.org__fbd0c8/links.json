@@ -1,103 +1,462 @@
 [
-"http://amazon.com/author/pdixon",
-"http://dpas-inc.com/",
-"http://easttexasnow.live/",
-"http://keepthepartylibertarian.org/",
-"http://logic14.org/",
-"http://patdixon.org/cdt-2",
-"http://patdixon.org/lv_council.html",
-"https://amazon.com/Leading-Like-Libertarian-organization-principles-ebook/dp/B01DTPX8VK/ref=sr_1_1?crid=3L9PVAR90AKP2&dib=eyJ2IjoiMSJ9.naGvGpfb6YXCAvgzn6bNiipRISmTpfmCGAD26b3vLwccCx5C24xXjqGoB4zLm_eFm4oweg0i_tCY7xJV8VO4Q3-jSadwQiHGo08ZxVIya6MSt68fQhwilcV-_TB0ytaPneqQVwt6pFYHuhsY0Nuo5qgbwZgHRWO2ZXEpbyP6E5fnSIJxOmxmSp8dDeiCYaV6.kPwaapoVfQpu8H3CI6v87pFDWLEySC-gHVtyX3AUUpM&dib_tag=se&keywords=leading+like+a+libertarian&qid=1768356271&s=books&sprefix=leading+like+a+libertarian%2Cstripbooks%2C171&sr=1-1",
-"https://amazon.com/Primary-Screenout-decade-Libertarian-Party/dp/1530956366",
-"https://cryoutcreations.eu/",
-"https://eastendcommunities.org/",
-"https://eventbrite.com/e/introduction-to-the-libertarian-party-austin-meet-greet-tickets-1999950434587?aff=oddtdtcreator",
-"https://facebook.com/patrick.dixon.50",
-"https://facebook.com/profile.php?id=61589343260452",
-"https://facebook.com/share/19K6GaVMN4",
-"https://facebook.com/share/1DPwHgSjEu",
-"https://facebook.com/share/1EdY1CdNZp",
-"https://facebook.com/share/1Hb8E1Dr8n",
-"https://facebook.com/share/1VVTH8uSpE",
-"https://flickr.com/photos/131895608@N07/albums",
-"https://houstonprogressives.com/",
-"https://instagram.com/patdixon_org",
-"https://libertarianboosterpac.org/collections/pat-dixon",
-"https://linkedin.com/in/dixonpatrick",
-"https://linktr.ee/bastroppromenade",
-"https://linktr.ee/friendsofcolumbiatap",
-"https://music.apple.com/us/artist/pat-axyl-dixon/1741570754",
-"https://patdixon.nationbuilder.com/donate",
-"https://patdixon.nationbuilder.com/join",
-"https://patdixon.org/",
-"https://patdixon.org/765-kv-transmission",
-"https://patdixon.org/abbotts-tax-plan",
-"https://patdixon.org/about-greg-abbott",
-"https://patdixon.org/about-me",
-"https://patdixon.org/about-pat-dixon",
-"https://patdixon.org/about-psp",
-"https://patdixon.org/ai",
-"https://patdixon.org/ai-data-centers",
-"https://patdixon.org/approval-voting",
-"https://patdixon.org/arts",
-"https://patdixon.org/axyl",
-"https://patdixon.org/biblical-principles",
-"https://patdixon.org/bio",
-"https://patdixon.org/business",
-"https://patdixon.org/covid",
-"https://patdixon.org/election-integrity",
-"https://patdixon.org/exonerate-robert-roberson",
-"https://patdixon.org/flock-cameras",
-"https://patdixon.org/free-market-sustainability",
-"https://patdixon.org/government",
-"https://patdixon.org/guns",
-"https://patdixon.org/how-to-return-taxes",
-"https://patdixon.org/hyperbole-anyone",
-"https://patdixon.org/israel",
-"https://patdixon.org/ivoterguide-questionnaire",
-"https://patdixon.org/league-of-women-voters-general-election-voters-guide",
-"https://patdixon.org/mail-stops",
-"https://patdixon.org/marijuana-policy-project-texas-cannabis-policy-centers-2026-candidate-survey",
-"https://patdixon.org/media-appearances",
-"https://patdixon.org/minority-winner",
-"https://patdixon.org/missed-opportunity",
-"https://patdixon.org/my-journey",
-"https://patdixon.org/my-mom",
-"https://patdixon.org/new-braunfels-herald-zeitung-article-8-29-26",
-"https://patdixon.org/non-partisan-redistricting",
-"https://patdixon.org/parent-teacher-empowerment",
-"https://patdixon.org/pat-dixon-for-governor-statements",
-"https://patdixon.org/property-tax",
-"https://patdixon.org/school-choice",
-"https://patdixon.org/sports-and-outdoors",
-"https://patdixon.org/texas-cannabis-policy-questionnaire",
-"https://patdixon.org/texas-muslims",
-"https://patdixon.org/texas-stance-on-science-questionnaire",
-"https://patdixon.org/texas-transportation",
-"https://patdixon.org/the-abbott-ad",
-"https://patdixon.org/the-abbott-report",
-"https://patdixon.org/the-border",
-"https://patdixon.org/the-war-on-hemp",
-"https://patdixon.org/tx20",
-"https://patdixon.org/wp-content/uploads/2026/02/campaignshirtblue.png",
-"https://patdixon.org/wp-content/uploads/2026/03/txgov2026_form.pdf",
-"https://patdixon.org/wp-content/uploads/2026/06/bumpersticker_pjdgov2026.jpg",
-"https://patdixon.org/wp-content/uploads/2026/06/gov2026_yardsign_crop.jpeg",
-"https://patdixon.org/wp-content/uploads/2026/08/gov2026_elpaso.jpeg",
-"https://patdixon.org/wp-content/uploads/2026/09/BayCity_Cancel.jpg",
-"https://patdixon.org/wp-content/uploads/2026/09/Meet-Your-Candidates-9-24-2026.png",
-"https://patdixon.org/wp-content/uploads/2026/09/comalparade.png",
-"https://patdixon.org/wp-content/uploads/2026/09/gov2026_heraldzeitung.jpeg",
-"https://patdixon.org/wp-content/uploads/2026/09/introtolp.jpg",
-"https://peopleforpolk.com/",
-"https://printful.com/product-template/99177746/20319989e36d90405a345ae2d61c1704",
-"https://sn6488.org/about-us",
-"https://strongtowns.org/",
-"https://tdw.org/",
-"https://twitter.com/patjdixon",
-"https://us06web.zoom.us/j/87970873669?pwd=A6jNUDZN7Zq6buFmpuY1VeQ7Vkj6oP.1",
-"https://wordpress.org/",
-"https://x.com/PatDixon_org",
-"https://youtube.com/user/pdpatjdixon/videos",
-"https://youtube.com/watch?v=OBDdCO2H_es&list=PLcdFpxmffW3dCrMWYbaU4LuiQcMZQ6IM5",
-"https://youtube.com/watch?v=lksLoXb6MvA"
+{
+"text": "765 kV Transmission",
+"href": "https://patdixon.org/765-kv-transmission/"
+},
+{
+"text": "AI",
+"href": "https://patdixon.org/ai/"
+},
+{
+"text": "AI Data Centers",
+"href": "https://patdixon.org/ai-data-centers/"
+},
+{
+"text": "Abbott’s Tax Plan",
+"href": "https://patdixon.org/abbotts-tax-plan/"
+},
+{
+"text": "About Greg Abbott",
+"href": "https://patdixon.org/about-greg-abbott/"
+},
+{
+"text": "About Me",
+"href": "https://patdixon.org/about-me/"
+},
+{
+"text": "About PSP",
+"href": "https://patdixon.org/about-psp/"
+},
+{
+"text": "About Pat Dixon",
+"href": "https://patdixon.org/about-pat-dixon/"
+},
+{
+"text": "Amazon author page",
+"href": "http://amazon.com/author/pdixon"
+},
+{
+"text": "Approval Voting",
+"href": "https://patdixon.org/approval-voting/"
+},
+{
+"text": "Arts",
+"href": "https://patdixon.org/arts/"
+},
+{
+"text": "Axyl",
+"href": "https://patdixon.org/axyl/"
+},
+{
+"text": "Biblical Principles",
+"href": "https://patdixon.org/biblical-principles/"
+},
+{
+"text": "Bio",
+"href": "https://patdixon.org/bio/"
+},
+{
+"text": "Business",
+"href": "https://patdixon.org/business/"
+},
+{
+"text": "CDT 2015",
+"href": "http://patdixon.org/cdt-2/"
+},
+{
+"text": "COVID",
+"href": "https://patdixon.org/covid/"
+},
+{
+"text": "DPAS-INC",
+"href": "http://dpas-inc.com/"
+},
+{
+"text": "Donate to my campaign here!",
+"href": "https://patdixon.nationbuilder.com/donate"
+},
+{
+"text": "Download",
+"href": "https://patdixon.org/wp-content/uploads/2026/03/txgov2026_form.pdf"
+},
+{
+"text": "East End Communities",
+"href": "https://eastendcommunities.org/"
+},
+{
+"text": "Election Integrity",
+"href": "https://patdixon.org/election-integrity/"
+},
+{
+"text": "Exonerate Robert Roberson",
+"href": "https://patdixon.org/exonerate-robert-roberson/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61589343260452"
+},
+{
+"text": "Flock Cameras",
+"href": "https://patdixon.org/flock-cameras/"
+},
+{
+"text": "Free Market Sustainability",
+"href": "https://patdixon.org/free-market-sustainability/"
+},
+{
+"text": "Friends of Columbia Tap",
+"href": "https://linktr.ee/friendsofcolumbiatap"
+},
+{
+"text": "Government",
+"href": "https://patdixon.org/government/"
+},
+{
+"text": "Guns",
+"href": "https://patdixon.org/guns/"
+},
+{
+"text": "Home",
+"href": "https://patdixon.org/"
+},
+{
+"text": "Houston Progressive Caucus",
+"href": "https://www.houstonprogressives.com/"
+},
+{
+"text": "How to Return Taxes",
+"href": "https://patdixon.org/how-to-return-taxes/"
+},
+{
+"text": "Hyperbole anyone?",
+"href": "https://patdixon.org/hyperbole-anyone/"
+},
+{
+"text": "Info@PatDixon.org",
+"href": "mailto:Info@PatDixon.org"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/patdixon_org/"
+},
+{
+"text": "Israel",
+"href": "https://patdixon.org/israel/"
+},
+{
+"text": "Join Us!",
+"href": "https://patdixon.nationbuilder.com/join"
+},
+{
+"text": "Keep the Party Libertarian",
+"href": "http://www.keepthepartylibertarian.org"
+},
+{
+"text": "Lago Vista city council",
+"href": "http://patdixon.org/lv_council.html"
+},
+{
+"text": "League of Women Voters General Election Voters Guide",
+"href": "https://patdixon.org/league-of-women-voters-general-election-voters-guide/"
+},
+{
+"text": "Liberty Lovers August Social",
+"href": "https://www.facebook.com/share/19K6GaVMN4/"
+},
+{
+"text": "Mail Stops",
+"href": "https://patdixon.org/mail-stops/"
+},
+{
+"text": "Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey",
+"href": "https://patdixon.org/marijuana-policy-project-texas-cannabis-policy-centers-2026-candidate-survey/"
+},
+{
+"text": "Media and Video",
+"href": "https://patdixon.org/media-appearances/"
+},
+{
+"text": "Minority Winner",
+"href": "https://patdixon.org/minority-winner/"
+},
+{
+"text": "Missed Opportunity?",
+"href": "https://patdixon.org/missed-opportunity/"
+},
+{
+"text": "Music",
+"href": "https://music.apple.com/us/artist/pat-axyl-dixon/1741570754"
+},
+{
+"text": "My Journey",
+"href": "https://patdixon.org/my-journey/"
+},
+{
+"text": "My Mom",
+"href": "https://patdixon.org/my-mom/"
+},
+{
+"text": "New Braunfels Herald-Zeitung article 8/29/26",
+"href": "https://patdixon.org/new-braunfels-herald-zeitung-article-8-29-26/"
+},
+{
+"text": "Nirvana",
+"href": "https://www.cryoutcreations.eu"
+},
+{
+"text": "Non-Partisan Redistricting",
+"href": "https://patdixon.org/non-partisan-redistricting/"
+},
+{
+"text": "Order Campaign Shirts Here!",
+"href": "https://www.printful.com/product-template/99177746/20319989e36d90405a345ae2d61c1704"
+},
+{
+"text": "Order Signs and Stickers",
+"href": "https://libertarianboosterpac.org/collections/pat-dixon"
+},
+{
+"text": "Parent & Teacher Empowerment",
+"href": "https://patdixon.org/parent-teacher-empowerment/"
+},
+{
+"text": "People for Polk",
+"href": "https://www.peopleforpolk.com/"
+},
+{
+"text": "Phillips 66 GOTV Fair",
+"href": "https://www.facebook.com/share/1VVTH8uSpE/"
+},
+{
+"text": "Photos",
+"href": "https://www.flickr.com/photos/131895608@N07/albums"
+},
+{
+"text": "Policy Statements",
+"href": "https://patdixon.org/pat-dixon-for-governor-statements/"
+},
+{
+"text": "Property Tax",
+"href": "https://patdixon.org/property-tax/"
+},
+{
+"text": "Save Bastrop Promenade",
+"href": "https://linktr.ee/bastroppromenade"
+},
+{
+"text": "School Choice",
+"href": "https://patdixon.org/school-choice/"
+},
+{
+"text": "Sharpstown Civic Association",
+"href": "https://www.facebook.com/share/1EdY1CdNZp/"
+},
+{
+"text": "Sports and Outdoors",
+"href": "https://patdixon.org/sports-and-outdoors/"
+},
+{
+"text": "Strong Towns",
+"href": "https://www.strongtowns.org/"
+},
+{
+"text": "Super Neighborhood 46-88 (Eastwood)",
+"href": "https://sn6488.org/about-us/"
+},
+{
+"text": "TX20",
+"href": "https://patdixon.org/tx20/"
+},
+{
+"text": "Texas Cannabis Policy Questionnaire",
+"href": "https://patdixon.org/texas-cannabis-policy-questionnaire/"
+},
+{
+"text": "Texas Democratic Women",
+"href": "https://tdw.org/"
+},
+{
+"text": "Texas Muslims",
+"href": "https://patdixon.org/texas-muslims/"
+},
+{
+"text": "Texas Senate District 14",
+"href": "http://logic14.org/"
+},
+{
+"text": "Texas Stance on Science Questionnaire",
+"href": "https://patdixon.org/texas-stance-on-science-questionnaire/"
+},
+{
+"text": "Texas Transportation",
+"href": "https://patdixon.org/texas-transportation/"
+},
+{
+"text": "The Abbott Ad",
+"href": "https://patdixon.org/the-abbott-ad/"
+},
+{
+"text": "The Abbott Report",
+"href": "https://patdixon.org/the-abbott-report/"
+},
+{
+"text": "The Border",
+"href": "https://patdixon.org/the-border/"
+},
+{
+"text": "The War on Hemp",
+"href": "https://patdixon.org/the-war-on-hemp/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/PatDixon_org"
+},
+{
+"text": "VFW forum in Bay City",
+"href": "https://www.facebook.com/share/1DPwHgSjEu/"
+},
+{
+"text": "Williamson County Libertarian Party",
+"href": "https://www.facebook.com/share/1Hb8E1Dr8n/"
+},
+{
+"text": "WordPress.",
+"href": "https://wordpress.org/"
+},
+{
+"text": "YouTube Channel",
+"href": "https://www.youtube.com/watch?v=OBDdCO2H_es&list=PLcdFpxmffW3dCrMWYbaU4LuiQcMZQ6IM5"
+},
+{
+"text": "[image: Engineer] Engineer",
+"href": "http://dpas-inc.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/patrick.dixon.50"
+},
+{
+"text": "[image: Hiker] Hiker",
+"href": "http://patdixon.org/cdt-2/"
+},
+{
+"text": "[image: Keep The Party Libertarian] Keep The Party Libertarian",
+"href": "http://www.keepthepartylibertarian.org/"
+},
+{
+"text": "[image: Lago Vista Candidate] Lago Vista Candidate",
+"href": "http://patdixon.org/lv_council.html"
+},
+{
+"text": "[image: Libertarian Candidate] Libertarian Candidate",
+"href": "http://logic14.org/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/dixonpatrick/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/patjdixon"
+},
+{
+"text": "[image: Writer] Writer",
+"href": "http://amazon.com/author/pdixon"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/pdpatjdixon/videos"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/02/campaignshirtblue.png"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/06/bumpersticker_pjdgov2026.jpg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/06/gov2026_yardsign_crop.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/08/gov2026_elpaso.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/09/BayCity_Cancel.jpg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/09/Meet-Your-Candidates-9-24-2026.png"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/09/comalparade.png"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/09/gov2026_heraldzeitung.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/09/introtolp.jpg"
+},
+{
+"text": "[image]",
+"href": "https://patdixon.org/wp-content/uploads/2026/10/LULAC_132-Meet-the-Candidate_Oct_7_2026.docx-scaled.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://patdixon.org/"
+},
+{
+"text": "http://easttexasnow.live/",
+"href": "http://easttexasnow.live/"
+},
+{
+"text": "https://patdixon.org/about-pat-dixon/",
+"href": "https://patdixon.org/about-pat-dixon/"
+},
+{
+"text": "https://patdixon.org/pat-dixon-for-governor-statements/",
+"href": "https://patdixon.org/pat-dixon-for-governor-statements/"
+},
+{
+"text": "https://us06web.zoom.us/j/87970873669?pwd=A6jNUDZN7Zq6buFmpuY1VeQ7Vkj6oP.1",
+"href": "https://us06web.zoom.us/j/87970873669?pwd=A6jNUDZN7Zq6buFmpuY1VeQ7Vkj6oP.1"
+},
+{
+"text": "https://www.eventbrite.com/e/introduction-to-the-libertarian-party-austin-meet-greet-tickets-1999950434587?aff=oddtdtcreator",
+"href": "https://www.eventbrite.com/e/introduction-to-the-libertarian-party-austin-meet-greet-tickets-1999950434587?aff=oddtdtcreator"
+},
+{
+"text": "https://www.facebook.com/share/19K6GaVMN4/",
+"href": "https://www.facebook.com/share/19K6GaVMN4/"
+},
+{
+"text": "https://www.youtube.com/watch?v=lksLoXb6MvA",
+"href": "https://www.youtube.com/watch?v=lksLoXb6MvA"
+},
+{
+"text": "iVoterGuide Questionnaire",
+"href": "https://patdixon.org/ivoterguide-questionnaire/"
+},
+{
+"text": "info@PatDixon.org",
+"href": "mailto:info@PatDixon.org"
+},
+{
+"text": "txgov2026_form",
+"href": "https://patdixon.org/wp-content/uploads/2026/03/txgov2026_form.pdf"
+},
+{
+"text": "“Leading Like a Libertarian”",
+"href": "https://www.amazon.com/Leading-Like-Libertarian-organization-principles-ebook/dp/B01DTPX8VK/ref=sr_1_1?crid=3L9PVAR90AKP2&dib=eyJ2IjoiMSJ9.naGvGpfb6YXCAvgzn6bNiipRISmTpfmCGAD26b3vLwccCx5C24xXjqGoB4zLm_eFm4oweg0i_tCY7xJV8VO4Q3-jSadwQiHGo08ZxVIya6MSt68fQhwilcV-_TB0ytaPneqQVwt6pFYHuhsY0Nuo5qgbwZgHRWO2ZXEpbyP6E5fnSIJxOmxmSp8dDeiCYaV6.kPwaapoVfQpu8H3CI6v87pFDWLEySC-gHVtyX3AUUpM&dib_tag=se&keywords=leading+like+a+libertarian&qid=1768356271&s=books&sprefix=leading+like+a+libertarian%2Cstripbooks%2C171&sr=1-1"
+},
+{
+"text": "“Primary Screenout”",
+"href": "https://www.amazon.com/Primary-Screenout-decade-Libertarian-Party/dp/1530956366"
+}
 ]

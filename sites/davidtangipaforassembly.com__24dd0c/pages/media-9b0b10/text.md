@@ -1,4 +1,1 @@
-Media Inquires:
-david@davidtangipaforassembly.com
-559-425-6520
-Additional Photos and Media Click HERE
+0 Skip to Content Volunteer Endorsements Media News Contact Donate Open Menu Close Menu Donate Volunteer Endorsements Media News Contact Open Menu Close Menu Volunteer Endorsements Media News Contact Donate Media Inquires: david@davidtangipaforassembly.com 559-425-6520 Additional Photos and Media Click HERE Paid for by David Tangipa for Assembly 2026 FPPC #1477064 Privacy Policy

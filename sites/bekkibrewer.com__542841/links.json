@@ -1,13 +1,62 @@
 [
-"https://bekkibrewer.com/",
-"https://bekkibrewer.com/about",
-"https://bekkibrewer.com/accessibility-statement",
-"https://bekkibrewer.com/blog",
-"https://bekkibrewer.com/contact",
-"https://bekkibrewer.com/donate-page",
-"https://bekkibrewer.com/issues",
-"https://bekkibrewer.com/privacy-policy",
-"https://facebook.com/Brewerforthe44th",
-"https://forms.gle/H6ieFdNxXeaXTKNW8",
-"https://instagram.com/bekkibrewerforthe44th"
+{
+"text": "About",
+"href": "https://www.bekkibrewer.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.bekkibrewer.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.bekkibrewer.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.bekkibrewer.com/donate-page"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://www.bekkibrewer.com/donate-page"
+},
+{
+"text": "Events",
+"href": "https://www.bekkibrewer.com/blog"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Brewerforthe44th/"
+},
+{
+"text": "Home",
+"href": "https://www.bekkibrewer.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bekkibrewerforthe44th/"
+},
+{
+"text": "Issues",
+"href": "https://www.bekkibrewer.com/issues"
+},
+{
+"text": "Join the Movement",
+"href": "https://forms.gle/H6ieFdNxXeaXTKNW8"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bekkibrewer.com/privacy-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.bekkibrewer.com/about"
+},
+{
+"text": "See Bekki in the Community",
+"href": "https://www.facebook.com/Brewerforthe44th"
+},
+{
+"text": "[no text]",
+"href": "https://forms.gle/H6ieFdNxXeaXTKNW8"
+}
 ]

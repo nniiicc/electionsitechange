@@ -1,7 +1,4 @@
-Press Releases
-North Country Dairy Farmer and NY-21 Candidate Blake Gendebien’s Statement on New Tariffs
-April 2, 2025
-Today, dairy farmer and congressional candidate for NY-21 Blake Gendebien issued the following statement on yesterday’s tariff announcement...
-North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Raises Over $3M in Q1
-April 1, 2025
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Press Releases North Country Dairy Farmer and NY-21 Candidate Blake Gendebien’s Statement on New Tariffs April 2, 2025 Press Release Today, dairy farmer and congressional candidate for NY-21 Blake Gendebien issued the following statement on yesterday’s tariff announcement...
+Read More North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Raises Over $3M in Q1 April 1, 2025 Press Release Today, dairy farmer and small business owner Blake Gendebien announced his campaign to represent New York’s 21st Congressional District has raised more than $3 million in the first quarter of 2025.
 The groundbreaking haul is a testament to the grassroots enthusiasm behind Gendebien’s campaign, with over 58,000 unique donors chipping in an average contribution of $38.
+Read More < 1 2 3 4 Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

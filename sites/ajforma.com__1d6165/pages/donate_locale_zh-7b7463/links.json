@@ -1,10 +1,38 @@
 [
-"https://ajforma.com/donate?locale=en",
-"https://ajforma.com/donate?locale=es",
-"https://ajforma.com/donate?locale=ht",
-"https://ajforma.com/donate?locale=km",
-"https://ajforma.com/donate?locale=pt",
-"https://ajforma.com/donate?locale=vi",
-"https://drive.google.com/file/d/1ZQqI8Y85-WrsCj_XCSrYpM19aa24bEJt/view?usp=sharing",
-"https://solidarity.tech/"
+{
+"text": "Central Khmer",
+"href": "https://www.ajforma.com/donate?locale=km"
+},
+{
+"text": "English",
+"href": "https://www.ajforma.com/donate?locale=en"
+},
+{
+"text": "Español",
+"href": "https://www.ajforma.com/donate?locale=es"
+},
+{
+"text": "Kreyòl",
+"href": "https://www.ajforma.com/donate?locale=ht"
+},
+{
+"text": "Português",
+"href": "https://www.ajforma.com/donate?locale=pt"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.ajforma.com/donate?locale=vi"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "打印此表格",
+"href": "https://drive.google.com/file/d/1ZQqI8Y85-WrsCj_XCSrYpM19aa24bEJt/view?usp=sharing"
+}
 ]

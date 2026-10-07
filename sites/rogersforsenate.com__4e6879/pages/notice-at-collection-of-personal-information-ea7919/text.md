@@ -1,11 +1,10 @@
-NOTICE AT COLLECTION OF PERSONAL INFORMATION
-In order to enhance your overall user experience, we collect two types of information about our users: Personal Information (“Personal Information”) and Non-Personally Identifiable Information (“Non-Personal Information”).
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE NOTICE AT COLLECTION OF PERSONAL INFORMATION In order to enhance your overall user experience, we collect two types of information about our users: Personal Information (“Personal Information”) and Non-Personally Identifiable Information (“Non-Personal Information”).
 Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
-Personal Information: We may collect personal information you voluntarily provide to us including, but not limited to your name, e-mail address, postal address, phone number, mobile number and geographic location.
+Personal Information : We may collect personal information you voluntarily provide to us including, but not limited to your name, e-mail address, postal address, phone number, mobile number and geographic location.
 You may provide this information when you request information, register, make a purchase or for other purposes.
 We may also collect demographic information such as gender, date of birth, occupation, employer name and zip code.
 In limited circumstances, we may collect payment information such as credit card number where needed to complete a requested service or transaction.
-Non-Personal Information: We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
+Non-Personal Information : We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
 This data includes, but is not limited to, information such as IP address, web pages visited before and after visiting the Site, date and time, domain type, type of mobile device you use, your device’s unique ID, web pages you view and links you click on within the Site and interactions with our advertisements delivered by us or advertisements delivered by a third party advertising technology vendor.
 This type of information may be collected using different types of technologies, such as cookies and pixels.
 An IP address, for example, is a unique identifier that certain electronic devices used to identify and communicate with each other on the Internet.
@@ -23,5 +22,11 @@ We will primarily use your Personal Information to provide our content to you as
 We will also use Personal Information you submit for purposes that include, but are not necessarily limited to, enhancing the operation of our site and our emails, completing transactions as necessary, improving our marketing and promotional efforts, statistically analyzing site use, improving our content offerings, and customizing our site’s content, layout, and services.
 We may use Personal Information to deliver information to you and to contact you regarding administrative notices.
 We may also use Personal Information to resolve disputes, troubleshoot problems and enforce our agreements with you.
-For additional information, please review our Privacy Policy.
-Additionally, you may request that we refrain from selling your personal information here: Do Not Sell My Personal Information.
+For additional information, please review our Privacy Policy .
+Additionally, you may request that we refrain from selling your personal information here: Do Not Sell My Personal Information .
+CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

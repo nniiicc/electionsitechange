@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://paultonko.com/updates",
- "paid_for_by": null,
+ "fingerprint": "0e2af6cca5957837c8f1ab4c87669b3ad930b72e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Updates",
  "years_mentioned": [
-  "2021",
-  "2026"
+  "2022"
  ]
 }

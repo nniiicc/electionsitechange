@@ -1,7 +1,11 @@
 {
  "description": "Russell Goodwin Campaign Events",
  "final_url": "https://goodwinforassembly.com/Events?range=2026-W40",
+ "fingerprint": "8208514e6f2678cb65d23417bbb0c3f03b1d56ba",
+ "format": 3,
  "paid_for_by": "Paid for By Goodwin For Assembly, Russell Antonio Goodwin, Sr",
  "title": "Russell Goodwin Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

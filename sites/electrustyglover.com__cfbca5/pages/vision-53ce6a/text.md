@@ -1,8 +1,10 @@
-Leadership is about listening to the people, protecting their values, and doing what’s right—even when it’s not easy.
-Rusty Glover’s vision is rooted in service, integrity, and faith in our communities.
+Skip to content About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Donate Now Vision Leadership is about listening to the people, protecting their values, and doing what’s right—even when it’s not easy.
+Rusty Glover District 34 Candidate A Vision for Alabama’s Future Rusty Glover’s vision is rooted in service, integrity, and faith in our communities.
 He believes in preserving Alabama’s conservative values, growing opportunities for local families, and ensuring that government works for the people—not the other way around.
-Rusty Glover’s vision for District 34 is rooted in faith, family, and hard work.
+WELCOME TO THE CAMPAIGN FOR DISTRICT 34 PROTECT OUR VALUES & BUILD OUR COMMUNITIES SCHOOLS FUTURE FAMILIES Rusty Glover’s vision for District 34 is rooted in faith, family, and hard work.
 He believes leadership isn’t about political games—it’s about listening to the people and protecting the values that make Alabama strong.
 From our small towns to our growing cities, Rusty is committed to defending our constitutional rights, supporting local businesses, and ensuring a bright future for the next generation.
 Whether it’s improving education, strengthening public safety, or keeping government accountable, Rusty Glover is ready to lead with experience and integrity.
-This campaign is about more than politics—it’s about building a community where opportunity grows, families thrive, and tradition is respected.
+This campaign is about more than politics—it’s about building a community where opportunity grows, families thrive, and tradition is respected. newsletter STAY CONNECTED WITH RUSTY Get the latest updates from the campaign trail, community events, and election news.
+Be the first to know how you can get involved and help make a difference in District 34.
+Email Subscribe Now Trusted Leadership for Alabama’s Future. about About Rusty Vision Register to vote Volunteer Gallery Contact About Rusty Vision Register to vote Volunteer Gallery Contact Contact Us Alabama District 34 rustyglover34@gmail.com Facebook-f PAID FOR BY COMMITTEE TO ELECT RUSTY GLOVER, PO BOX 2175, SEMMES, AL 36575 Web Development by Websites Inc.

@@ -1,5 +1,4 @@
-- July 7, 2026
-Biloxi, MS — Democratic nominee for Congress Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate July 7, 2026 Chiaradio Attends Mississippi Municipal League Annual Conference Biloxi, MS — Democratic nominee for Congress Michael A.
 Chiaradio attended the 95th Annual Mississippi Municipal League Conference last week, joining local elected officials and community leaders from across the state to discuss the future of Mississippi’s cities and towns.
 The conference brought together mayors, aldermen, council members, supervisors, business leaders, and public officials from throughout Mississippi to share ideas, build relationships, and discuss the challenges and opportunities facing local communities.
 Throughout the conference, Chiaradio met with local officials from across the state and discussed issues including infrastructure, economic development, workforce growth, and the importance of supporting Mississippi’s cities and small towns.
@@ -7,11 +6,7 @@ He said the conversations reinforced his belief that many of the state’s best 
 Chiaradio has consistently emphasized the importance of working closely with local governments and said that, if elected to Congress, he intends to maintain strong relationships with municipal leaders throughout Mississippi’s Third Congressional District.
 He noted that effective representation in Washington begins with listening to the people who serve their communities every day.
 As the campaign continues building momentum across Mississippi’s Third Congressional District, Chiaradio remains committed to partnering with local leaders to help secure the resources and investments needed to strengthen Mississippi’s communities.
-Supporters interested in helping the campaign continue expanding its outreach across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Supporters interested in helping the campaign continue expanding its outreach across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

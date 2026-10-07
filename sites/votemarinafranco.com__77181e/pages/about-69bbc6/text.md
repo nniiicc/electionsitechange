@@ -1,5 +1,4 @@
-Meet Your Neighbor, Marina Franco
-I was born in Cuba, and like many who come to this country, I came in search of something simple but powerful: the freedom to build a better life for my family.
+Skip to Content Open Menu Close Menu About Contact Shop ( 0 ) Cart ( 0 ) Donate Now Open Menu Close Menu ( 0 ) Cart ( 0 ) Donate Now About Contact Shop About Contact Shop Donate Now Meet Your Neighbor, Marina Franco I was born in Cuba, and like many who come to this country, I came in search of something simple but powerful: the freedom to build a better life for my family.
 When I arrived in the United States, I started from the ground up.
 For over 12 years, I worked as a nurse assistant, caring for people in some of their most vulnerable moments.
 That experience shaped who I am, someone who believes deeply in dignity, compassion, and showing up for others when it matters most.
@@ -19,7 +18,7 @@ It’s about the parent who wants their child to succeed, the family trying to m
 I know what it means to work hard, to care for others, and to stand up when it matters.
 I’m ready to bring that same commitment to serving you.
 My name is Marina Franco, and I’m asking for your vote to keep our community strong, support our schools, and protect the freedoms we all share.
-I Can’t Do This Without You
-I made the choice to call this country home.
+I Can’t Do This Without You I made the choice to call this country home.
 Now, I’m asking you to join me in making our community the best it can be.
 Whether you have an hour a week or a whole afternoon, there’s a place for you on this team.
+PAID FOR FRIENDS FOR MARINA FRANCO COMMITTEE

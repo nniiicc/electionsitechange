@@ -1,8 +1,4 @@
-Harshbarger announces support of Texas Lawsuit
-Harshbarger announces full support of Texas Lawsuit
-(Kingsport, TN) - Congresswoman-elect Diana Harshbarger made the following statement after the announcement of the Texas Attorney General's lawsuit against Georgia, Michigan, Pennsylvania, and Wisconsin.
+0 Skip to Content Issues Get Involved Coalitions News Events Donate Open Menu Close Menu Issues Get Involved Coalitions News Events Donate Open Menu Close Menu Issues Get Involved Coalitions News Events Donate Harshbarger announces support of Texas Lawsuit Dec 9 Written By Zac Rutherford Harshbarger announces full support of Texas Lawsuit (Kingsport, TN) - Congresswoman-elect Diana Harshbarger made the following statement after the announcement of the Texas Attorney General's lawsuit against Georgia, Michigan, Pennsylvania, and Wisconsin.
 “I am happy to see that Texas and President Donald Trump are fighting to make sure that every legal ballot is counted.
-There is a clear need for a thorough review of the changes made to the election process in those states."
-"I wholly support this challenge and encourage elected officials at every level to do the same.
-Americans need to know they can trust the election process."
-###
+There is a clear need for a thorough review of the changes made to the election process in those states." "I wholly support this challenge and encourage elected officials at every level to do the same.
+Americans need to know they can trust the election process." ### Zac Rutherford Next Next Rep.-elect Diana Harshbarger says Congress is no match 'for a woman who can multitask' Paid for by Diana for Congress Privacy Policy

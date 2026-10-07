@@ -1,29 +1,27 @@
-Copperwood Mine
-What is the Copperwood Mine Project?
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Copperwood Mine Sep 18 Written By Zebulon Featherly What is the Copperwood Mine Project?
 The following is a brief explainer of what the Copperwood Mine project is and where it currently stands.
 If you’re already familiar with the project, feel free to skip ahead to my statement below.
 The Copperwood Project is a planned underground copper and silver mine in Wakefield and Ironwood townships in Gogebic County, near Lake Superior and the Porcupine Mountains Wilderness State Park.
-Highland Copper’s current feasibility study projects a mine life of about 10.7 years, with underground mining and on-site processing of ore into copper and silver concentrate.
+Highland Copper’s current feasibility study projects a mine life of about 10.7 years , with underground mining and on-site processing of ore into copper and silver concentrate.
 EGLE describes the project as development-stage and says construction has not commenced.
 The Copperwood Project is controlled entirely by Highland Copper, a Canadian mining company, through its wholly owned U.S. subsidiary, Copperwood Resources Inc.
 Highland does not share ownership of the project with another mining company, although some of the mineral rights are leased from other owners who would receive royalties from production.
 If the mine becomes operational, Highland Copper and its shareholders would stand to benefit financially, along with mineral-rights holders and royalty holders tied to production.
 At the same time, the State of Michigan projects regional economic benefits from employment, tax revenue, infrastructure improvements, and increased business activity associated with the mine.
-The state currently projects approximately 300 construction jobs and at least 380 long-term positions, with annual wages estimated at roughly $80,000 to $120,000.
+The state currently projects approximately 300 construction jobs and at least 380 long-term positions , with annual wages estimated at roughly $80,000 to $120,000 .
 However, it is important to understand what those job commitments mean.
 The state grant requires the creation of at least 380 “qualified jobs,” but Michigan’s Strategic Site Readiness Program defines a qualified job broadly enough to include both Michigan residents and people who are not Michigan residents but work at the project site.
 The publicly available grant requirements do not appear to require those positions to be filled exclusively by local residents or U.S. citizens.
 Any non-U.S. citizen employed there would still need legal authorization to work in the United States.
 Public funding is also part of the project.
-In August 2026, the Michigan Strategic Fund approved $50 million in performance-based grants: approximately $45 million for Copperwood Resources and $5 million for the Gogebic County Road Commission.
+In August 2026, the Michigan Strategic Fund approved $50 million in performance-based grants : approximately $45 million for Copperwood Resources and $5 million for the Gogebic County Road Commission .
 The funding is intended for site preparation and infrastructure such as roads, utilities, power, broadband, and communications.
-The Copperwood portion is conditional on the company securing at least $150 million in additional project financing by March 31, 2028, along with other performance requirements including the job commitment.
+The Copperwood portion is conditional on the company securing at least $150 million in additional project financing by March 31, 2028 , along with other performance requirements including the job commitment.
 The project’s permit status is described differently depending on the source.
 Highland Copper and state economic-development officials describe Copperwood as fully permitted, while EGLE’s current mining page lists the Part 632 mining permit as “issued, not effective” and states that construction has not commenced.
 There is also an active dispute over the state funding.
 In September 2026, opponents filed a lawsuit in Ingham County Circuit Court seeking to block the $50 million grant and challenging the process through which the funding was approved.
-Statement on the Copperwood Mine
-I do not support the Copperwood Mine project in its current form.
+Statement on the Copperwood Mine I do not support the Copperwood Mine project in its current form.
 Progress requires resources.
 Copper is essential to our electrical grid, construction, transportation, electronics, and many of the technologies we rely on every day.
 The U.S.
@@ -51,3 +49,5 @@ We need materials to build homes, strengthen our electrical grid, manufacture ne
 But we also need clean water, healthy ecosystems, and communities that remain good places to live long after a mine closes.
 We should not have to choose between progress and protecting Michigan.
 Responsible development means doing both.
+Sources and Further Reading: Copperwood Project Overview — Highland Copper Copperwood Mine — Michigan EGLE Copperwood EIA Redside Dace Report — Michigan EGLE Copperwood Mining Permit Amendment — Michigan EGLE State of Michigan: Copperwood Jobs and Infrastructure Announcement Highland Copper: Final Approval of $50 Million Grant Strategic Site Readiness Program — MEDC Copperwood Mine foes sue to block $50M grant U.S.
+Geological Survey — Copper Statistics and Information Zebulon Featherly Next Next US National Debt

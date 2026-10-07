@@ -1,7 +1,6 @@
-The victory by Mr.
+(601) 866-9100 bennie_thompson@bellsouth.net Donate Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Bennie Thompson Defeats Young Challenger in Mississippi Primary Home Uncategorized / Bennie Thompson Defeats Young Challenger in Mississippi Primary Bennie Thompson Defeats Young Challenger in Mississippi Primary April 2, 2026 jones Uncategorized 0 0 The victory by Mr.
 Thompson, the state’s longest-serving Black Democrat, offers a counterpoint to the broader push nationwide for younger leadership in Congress.
-Representative Bennie Thompson, the longest-serving Black Democrat in Mississippi, won his primary race for the Second Congressional District on Tuesday.Credit…
-Representative Bennie Thompson, the longest-serving congressional Black Democrat in Mississippi, won his primary race for the Second Congressional District on Tuesday, The Associated Press said, offering a rebuttal to calls for older lawmakers to step aside for a younger generation.
+Representative Bennie Thompson, the longest-serving Black Democrat in Mississippi, won his primary race for the Second Congressional District on Tuesday.Credit… Representative Bennie Thompson, the longest-serving congressional Black Democrat in Mississippi, won his primary race for the Second Congressional District on Tuesday, The Associated Press said, offering a rebuttal to calls for older lawmakers to step aside for a younger generation.
 Mr.
 Thompson, 78, was first elected to the district in 1993 and was one of several Democrats who faced a primary challenge this year from a younger member of his party eager to capitalize on broader frustrations with aging leadership in Washington.
 But his stature in the community appears to have helped him surmount those national headwinds.
@@ -14,23 +13,32 @@ The primary demonstrated how ousting a senior lawmaker could become complicated 
 Mr.
 Thompson, who grew up in the small rural town of Bolton, Miss., burnished his reputation in the state as a young voting rights activist.
 He worked his way up through local political elections before running for Congress.
-And he gained national attention for his role as chairman of the House committee that investigated the Jan. 6, 2021, attack on the U.S.
+And he gained national attention for his role as chairman of the House committee that investigated the Jan.
+6, 2021, attack on the U.S.
 Capitol, a bully pulpit he seized to invoke the brutal violence of a segregated South.
 Mr.
 Turnage tried to argue that given the length of Mr.
 Thompson’s tenure, he should carry some responsibility for the poverty and financial disinvestment that still plagues much of the district.
 (Mr.
-Thompson’s allies placed blame for those challenges on Mississippi’s Republican-controlled state government.)
-The incumbent also spent the last few weeks crisscrossing the district to meet with voters and deliver ceremonial checks earmarked for projects that he had secured.
+Thompson’s allies placed blame for those challenges on Mississippi’s Republican-controlled state government.) The incumbent also spent the last few weeks crisscrossing the district to meet with voters and deliver ceremonial checks earmarked for projects that he had secured.
 “Many of the paths I have walked had never been walked before by someone who looked like me or came from where I come from,” Mr.
 Thompson wrote on Facebook after The Associated Press declared him the winner.
-“Through faith, perseverance, and sometimes trial and error, I remained committed to opening doors and expanding access for the people I serve.”
-Editors’ Picks
-Bill Lawrence and Christa Miller List Their NoMad Condo for $7.85 Million16 Strangers, One 304-Page Novel and a Weekend of Reading AloudWhat One Month of Intense Red-Light Therapy Did to My Mind
-Mr.
+“Through faith, perseverance, and sometimes trial and error, I remained committed to opening doors and expanding access for the people I serve.” Editors’ Picks Bill Lawrence and Christa Miller List Their NoMad Condo for $7.85 Million16 Strangers, One 304-Page Novel and a Weekend of Reading AloudWhat One Month of Intense Red-Light Therapy Did to My Mind Mr.
 Thompson has also worked to maintain support in his district by throwing his political weight behind other Democrats.
 That includes Scott Colom, a district attorney who easily won the Democratic primary to challenge Senator Cindy Hyde-Smith, a Republican who also won her primary, according to The Associated Press.
 It was not immediately clear which Republican candidate Mr.
 Thompson would face.
 Because the district has long supported Democrats, it is widely expected that Mr.
 Thompson will return to Washington.
+Prev Next Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Search Search Latest Popular Bennie Thompson wins Democratic nomination for US House in Mississippi’s 2nd Congressional District jones April 2, 2026 Rep.
+Bennie Thompson wins Mississippi’s Democratic primary jones April 2, 2026 Bennie Thompson Defeats Young Challenger in Mississippi Primary jones April 2, 2026 Rep.
+Thompson Votes Against Funding DHS and ICE ‘As They Terrorize Our Communities’ jones January 27, 2026 Top Homeland Security Democrat backs impeachment of DHS Secretary Kristi Noem jones January 27, 2026 MS Congressman Bennie Thompson honored with NNPA 2020 National Leadership Award (42743) jones November 15, 2015 Congress launches inquiry into state’s ‘disinvestment’ in Jackson water (4088) jones October 18, 2022 IRS (3523) jones January 14, 2016 2020 Democratic National Convention (2744) jones November 15, 2015 Capitol Police investigate letter with ‘concerning language’ found near Jan.
+6 committee Chair Bennie Thompson’s office (2317) jones October 12, 2022 About Congressman Bennie G.
+Thompson is a firm believer of giving back to those whom afforded him an opportunity to serve.
+His 43 years of public service is a testament to his unwavering dedication to fulfill their expectations and to be the resounding voice for the constituents of the Second District of Mississippi.
+105 West Madison Street, P.O.Box 100 Bolton, MS 39041 (601) 866-9100, (866) 423-6643 bennie_thompson@bellsouth.net Quick Links Home Meet Bennie Get Involved Events Video Endorsements Community Corner Contact Latest Posts Bennie Thompson wins Democratic nomination for US… Rep.
+Bennie Thompson wins Mississippi’s Democratic primary Bennie Thompson Defeats Young Challenger in Mississippi… Join Team Thompson Your name Your email Postal Code Copyright © # Bennie Thompson for Congress.
+All Rights Reserved. × Be The First To Know Contact Information In what capacity would you like to participate? × How much would you like to donate?
+Donate Now

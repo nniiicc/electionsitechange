@@ -1,5 +1,6 @@
-Legislative Recap: Supporting Law Enforcement and First Responders
-The men and women who put on a uniform every day to protect Tennessee families deserve more than thank-yous on social media.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Supporting Law Enforcement and First Responders Team Reneau Jun 14 2 min read The men and women who put on a uniform every day to protect Tennessee families deserve more than thank-yous on social media.
 They deserve laws that respect their service, protect their lives, and back them up when they put themselves between us and the worst the world has to offer.
 This session, the General Assembly delivered.
 HB 2428 adds first responders to Tennessee's Back the Blue Act, increasing the offense of assaulting a first responder from a Class A misdemeanor to a Class E felony, punishable by a mandatory $10,000 fine and a minimum of 60 days in jail.
@@ -20,3 +21,5 @@ We also created a $1 million Volunteer Firefighter Vehicle Grant Program to help
 The thin blue line is not a slogan in Tennessee.
 It is a way of life.
 And the General Assembly stood with it again this session.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

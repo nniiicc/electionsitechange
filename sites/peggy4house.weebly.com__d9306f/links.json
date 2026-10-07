@@ -1,8 +1,50 @@
 [
-"http://anokacounty.us/245/Register-to-Vote",
-"http://house.leg.state.mn.us/members/members.asp?id=15314",
-"https://paypal.me/PeggyScottAndoverMN",
-"https://peggy4house.weebly.com/",
-"https://peggy4house.weebly.com/cdn-cgi/l/email-protection",
-"https://weebly.com/signup"
+{
+"text": "About",
+"href": "https://peggy4house.weebly.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://peggy4house.weebly.com/#contact"
+},
+{
+"text": "Home",
+"href": "https://peggy4house.weebly.com/"
+},
+{
+"text": "Issues",
+"href": "https://peggy4house.weebly.com/#issues"
+},
+{
+"text": "Photos",
+"href": "https://peggy4house.weebly.com/#photos"
+},
+{
+"text": "Powered by [image] Create your own unique website with customizable templates. Get Started",
+"href": "https://www.weebly.com/signup"
+},
+{
+"text": "REP. PEGGY SCOTT SERVING DISTRICT 31B",
+"href": "https://peggy4house.weebly.com/"
+},
+{
+"text": "Register to Vote",
+"href": "http://anokacounty.us/245/Register-to-Vote"
+},
+{
+"text": "Welcome",
+"href": "https://peggy4house.weebly.com/#welcome"
+},
+{
+"text": "[email protected]",
+"href": "mailto:rep.peggy.scott@house.mn"
+},
+{
+"text": "[image: Picture]",
+"href": "https://www.paypal.me/PeggyScottAndoverMN"
+},
+{
+"text": "here",
+"href": "http://www.house.leg.state.mn.us/members/members.asp?id=15314"
+}
 ]

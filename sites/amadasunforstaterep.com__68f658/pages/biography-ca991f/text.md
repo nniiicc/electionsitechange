@@ -1,5 +1,4 @@
-meet dr. amadasun
-My name is Dr.
+0 Skip to Content Home Biography Contact Open Menu Close Menu Home Biography Contact Open Menu Close Menu Home Biography Contact meet dr. amadasun My name is Dr.
 Harrison Amadasun, and I reside at 1475 Ellington Road, South Windsor.
 I attended Liberty University in Virginia where I earned my doctorate degree in Strategic Leadership.
 I am a consultant and own a small real estate company.
@@ -17,3 +16,6 @@ I strongly believe in collaborative leadership that puts the people first.
 I will focus on Affordability, Schools, Housing, Safety, and Mental Health challenges.
 Important attributes and behaviors entail: Trustworthiness, Transparency, Emotional Intelligence, and the ability to collaborate across functional teams/parties.
 I intend to exemplify these same qualities as a State Legislator.
+HarrisonAmadasun1@gmail.com | 860.322.9884 Paid for by Amadasun for State Rep.
+2026.
+Approved by Harrison Amadasun.

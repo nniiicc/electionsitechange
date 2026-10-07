@@ -1,26 +1,114 @@
 [
-"https://603forward.org/",
-"https://bsky.app/profile/heatherfornh.bsky.social",
-"https://facebook.com/profile.php?id=61590698488512",
-"https://forwardnh.org/beapollworker",
-"https://heather-for-nh.solidarity.tech/events-page",
-"https://heatherfornh.com/",
-"https://heatherfornh.com/about",
-"https://heatherfornh.com/contact",
-"https://heatherfornh.com/issues",
-"https://heatherfornh.com/volunteer",
-"https://heatherfornh.com/vote",
-"https://instagram.com/heatherfornh",
-"https://instagram.com/progressivevotersnetwork",
-"https://nh.aft.org/",
-"https://nhdsa.org/",
-"https://radmovement.org/",
-"https://runforsomething.net/",
-"https://secure.actblue.com/donate/heatherfornh",
-"https://secure.actblue.com/donate/heatherfornh?amount=10",
-"https://secure.actblue.com/donate/heatherfornh?amount=20",
-"https://secure.actblue.com/donate/heatherfornh?amount=5",
-"https://somedoing.com/",
-"https://sos.nh.gov/elections/register-vote",
-"https://tiktok.com/@heatherfornh"
+{
+"text": "About",
+"href": "https://heatherfornh.com/about/"
+},
+{
+"text": "Become A Poll Worker",
+"href": "https://www.forwardnh.org/beapollworker"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/heatherfornh.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://heatherfornh.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/heatherfornh"
+},
+{
+"text": "Events",
+"href": "https://heather-for-nh.solidarity.tech/events-page"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590698488512"
+},
+{
+"text": "Give 10$",
+"href": "https://secure.actblue.com/donate/heatherfornh?amount=10"
+},
+{
+"text": "Give 20$",
+"href": "https://secure.actblue.com/donate/heatherfornh?amount=20"
+},
+{
+"text": "Give 5$",
+"href": "https://secure.actblue.com/donate/heatherfornh?amount=5"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/heatherfornh/"
+},
+{
+"text": "Issues",
+"href": "https://heatherfornh.com/issues/"
+},
+{
+"text": "Join the Team!",
+"href": "https://heatherfornh.com/volunteer/"
+},
+{
+"text": "Make A Voting Plan",
+"href": "https://heatherfornh.com/vote/"
+},
+{
+"text": "Meet Heather",
+"href": "https://heatherfornh.com/about/"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.sos.nh.gov/elections/register-vote"
+},
+{
+"text": "Site by Some Doing.",
+"href": "https://somedoing.com/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@heatherfornh"
+},
+{
+"text": "Volunteer",
+"href": "https://heatherfornh.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://heatherfornh.com/vote/"
+},
+{
+"text": "[image: Heather Deiner for NH State Representative | Manchester Ward 5]",
+"href": "https://heatherfornh.com/"
+},
+{
+"text": "[image]",
+"href": "https://heatherfornh.com/"
+},
+{
+"text": "[image]",
+"href": "https://nh.aft.org/"
+},
+{
+"text": "[image]",
+"href": "https://nhdsa.org/"
+},
+{
+"text": "[image]",
+"href": "https://radmovement.org/"
+},
+{
+"text": "[image]",
+"href": "https://runforsomething.net/"
+},
+{
+"text": "[image]",
+"href": "https://www.603forward.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/progressivevotersnetwork/"
+}
 ]

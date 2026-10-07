@@ -1,22 +1,9 @@
-General
-Foster’s Statement on TrumpCare Legislation Withdrawl
-Naperville, IL – Congressman Bill Foster (IL-11) released the following statement through his campaign following Republicans’ failure to bring the American Health Care Act (AKA TrumpCare) up for a vote: “Today, I was proud to stand with my Democratic colleagues, as well as many Republicans, to defeat the American Health Care Act, better known as […]
-Read More
-General
-Foster’s Statement on Trump’s First Two Months in Office
-Naperville, IL – Today, the campaign of Congressman Bill Foster (D-IL) issued a statement on his assessment of the Trump Administration two months after the President took office: “After last year’s election results, we knew things would be very different with Republicans controlling all levers of power in Washington.
-I didn’t expect how quickly President […]
-Read More
-General
-Pacific Standard: What It’s Like to Be a Scientist in Congress: Bill Foster
-Doctorates in research-based fields offer an inside view of the outlook for science under President Donald Trump.
+Contribute Now Make a donation to Bill Foster for Congress!
+Volunteer Contribute Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery News & Updates Latest News General Foster’s Statement on TrumpCare Legislation Withdrawl March 24, 2017 Naperville, IL – Congressman Bill Foster (IL-11) released the following statement through his campaign following Republicans’ failure to bring the American Health Care Act (AKA TrumpCare) up for a vote: “Today, I was proud to stand with my Democratic colleagues, as well as many Republicans, to defeat the American Health Care Act, better known as […] Read More General Foster’s Statement on Trump’s First Two Months in Office March 22, 2017 Naperville, IL – Today, the campaign of Congressman Bill Foster (D-IL) issued a statement on his assessment of the Trump Administration two months after the President took office: “After last year’s election results, we knew things would be very different with Republicans controlling all levers of power in Washington.
+I didn’t expect how quickly President […] Read More General Pacific Standard: What It’s Like to Be a Scientist in Congress: Bill Foster March 15, 2017 Doctorates in research-based fields offer an inside view of the outlook for science under President Donald Trump.
 It’s a fraught time for science and the American government.
-In his first few weeks in office, President Donald Trump appointed climate change deniers to his cabinet, promised to cut $54 billion from the part of the budget […]
-Read More
-General
-Los Angeles Times: Concerned about Trump, scientists are leaning into politics
-Like many scientists, Aaron Parsons doesn’t have a history of political engagement.
+In his first few weeks in office, President Donald Trump appointed climate change deniers to his cabinet, promised to cut $54 billion from the part of the budget […] Read More General Los Angeles Times: Concerned about Trump, scientists are leaning into politics February 9, 2017 Like many scientists, Aaron Parsons doesn’t have a history of political engagement.
 Instead of focusing on earthly concerns, the UC Berkeley radio astronomer spent most of his time scanning the outer reaches of the cosmos, searching for the earliest stars in the universe.
 “We’re looking for when the lights turned on,” he said.
-But after […]
-Read More
+But after […] Read More 1 … 58 59 60 61 Meet Bill Issues Endorsements The District News Contribute Bill Foster for Congress P.O Box 9104 Aurora, IL 60598 630-216-9340.
+Privacy Policy Messaging Contact Us Paid for by Bill Foster for Congress Meet Bill Business Career Science Career Congressional Career Family Professional Awards Issues Defending the Constitution Economy Science and Technology Healthcare Reproductive Freedom Immigration Reviving American Manufacturing Reducing Gun Violence Combating the Climate Crisis The Financial Crisis Reforming Wall Street Education Endorsements The District News Latest News Photo Gallery Donate Now On the Issues On the Issues Volunteer Volunteer Contribute Contribute

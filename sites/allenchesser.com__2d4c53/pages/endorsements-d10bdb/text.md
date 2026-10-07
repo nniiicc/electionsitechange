@@ -1,20 +1,8 @@
-Former Lt.
-Governor
-of North Carolina
-Nash County Sheriff
-Chairman of the Nash County Soil and Water Board
-Mayor of Nashville
-Mayor of Bailey
-Mayor of Middlesex
-Mayor of Rocky Mount
-Mayor of Spring Hope
-Former Chief Deputy
-Nash County Sheriff's Office
-"Representative Chesser has proven to be one of the rising stars from the 2023 freshman class in the General Assembly.
+Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Issues Endorsements Volunteer News Contact Donate Blank Account My Account Sign out Sign In My Account Endorsement Jim Gardner Bobby Joe Fisher Jim Gardner Former Lt.
+Governor of North Carolina Keith Stone Bobby Joe Fisher Jim Gardner Nash County Sheriff Bobby Joe Fisher Bobby Joe Fisher Bobby Joe Fisher Chairman of the Nash County Soil and Water Board Brenda Brown Owen Strickland Bobby Joe Fisher Mayor of Nashville Owen Strickland Owen Strickland Owen Strickland Mayor of Bailey Lu Harvey Lewis Owen Strickland Owen Strickland Mayor of Middlesex Sandy Roberson Sandy Roberson Sandy Roberson Mayor of Rocky Mount Kyle Pritchard Sandy Roberson Sandy Roberson Mayor of Spring Hope Brandon Medina Sandy Roberson Brandon Medina Former Chief Deputy Nash County Sheriff's Office Organizations Americans for Prosperity " Representative Chesser has proven to be one of the rising stars from the 2023 freshman class in the General Assembly.
 In such a short period of time he has championed policies that reduce the size of government, expand school choice, and allow patients the freedom to try a diversity of treatments for illnesses and chronic disease.
-Repre
-"Representative Chesser has proven to be one of the rising stars from the 2023 freshman class in the General Assembly.
+Repre Show More " Representative Chesser has proven to be one of the rising stars from the 2023 freshman class in the General Assembly.
 In such a short period of time he has championed policies that reduce the size of government, expand school choice, and allow patients the freedom to try a diversity of treatments for illnesses and chronic disease.
-Representative Chesser is a liberty minded, small government champion, who prioritizes individual freedoms.
-"
-Endorsed
+Representative Chesser is a liberty minded, small government champion, who prioritizes individual freedoms. " Show Less National Rifle Association (NRA) Allen Chesser has an A rating and is Endorsed by the NRA.
+North Carolina Troopers Association Endorsed North Carolina Sheriff Police Alliance Endorsed Paid for by Allen Chesser for NC House P.O.
+Box 72 Middlesex, NC 27557 Powered by DONATE

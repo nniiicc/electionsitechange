@@ -1,9 +1,22 @@
 {
  "description": "See every bill Kevin has sponsored or co-sponsored. Search by topic, bill number, and keyword.",
  "final_url": "https://electkevinkiley.com/legislation/?leg_kind=&leg_search=H.R.+3007&leg_congress=119",
+ "fingerprint": "e6c03470634741ffb74efab3fdcffd8cbb0f9c63",
+ "format": 3,
  "paid_for_by": "paid for by FEMA assistance",
  "title": "Legislation | Kevin Kiley",
  "years_mentioned": [
+  "1965",
+  "1972",
+  "1973",
+  "1980",
+  "1986",
+  "1988",
+  "1989",
+  "1990",
+  "1993",
+  "1998",
+  "2001",
   "2011",
   "2012",
   "2013",
@@ -19,6 +32,10 @@
   "2025",
   "2026",
   "2027",
-  "2028"
+  "2028",
+  "2030",
+  "2032",
+  "2034",
+  "2048"
  ]
 }

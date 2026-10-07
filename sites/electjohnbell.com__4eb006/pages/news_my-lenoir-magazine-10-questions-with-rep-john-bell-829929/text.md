@@ -1,6 +1,9 @@
-My Lenoir Magazine
-Oct. 3, 2018
-Q: Tell us a little about your family.
+Make a donation Please finish the form below Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form CONTRIBUTE Home ABOUT priorities NEWS Join GAllery My Lenoir Magazine: 10 Questions with Rep.
+John Bell Written by: Team Bell October 3, 2018 Back to News My Lenoir Magazine Oct.
+3, 2018 Q: Tell us a little about your family.
 I am married and have one child.
 My wife, Kelli, is from Wayne County.
 We have been blessed with a beautiful little girl, named Averi, and we are both crazy about her.
@@ -53,10 +56,11 @@ My daughter loves playing with the little train set at H Stadiem, and watching t
 Q: What new exciting thing is coming down the pipeline that you would love to brag about and let people know?
 I can tell you that a large group of lawmakers are really fired up and motivated to help find a better way to handle disaster relief at the federal, state and local levels.
 Regardless of party affiliation, I think we can all agree it is unacceptable for these families to still be waiting for relief two years later.
-I know the discussions have started, and I really have hope that we will join hands to find a better way, and say “never again.”
-Bonus question: What changes would you like to see take place locally to help improve the overall quality of life for the residents of Lenoir County and North Carolina?
+I know the discussions have started, and I really have hope that we will join hands to find a better way, and say “never again.” Bonus question: What changes would you like to see take place locally to help improve the overall quality of life for the residents of Lenoir County and North Carolina?
 I would like to be able to work with other rural lawmakers to help economic development in Lenoir County, and other rural areas.
 The urban-rural divide is a real issue, and population losses continue to hurt our small towns, as their tax base shrinks.
 I would like to see Kinston and Lenoir County lower their property taxes – allowing them to be more competitive for new businesses and homes.
 New construction is the lifeblood of communities.
-I have heard economists say the private sector needs to provide new buildings, new jobs, and new families for the long-term success of a community.
+I have heard economists say the private sector needs to provide new buildings, new jobs, and new families for the long-term success of a community. ‍ Contact us john@electjohnbell.com POL.
+AD.
+PAID FOR BY ELECT JOHN BELL COMMITTTEE.

@@ -1,6 +1,26 @@
 [
-"https://facebook.com/VoteMia",
-"https://secure.anedot.com/mia/web",
-"https://votemia.com/",
-"https://votemia.com/cart"
+{
+"text": "0",
+"href": "https://www.votemia.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mia/web"
+},
+{
+"text": "[image: Mia Costello for State Senate]",
+"href": "https://www.votemia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMia"
+},
+{
+"text": "[no text]",
+"href": "mailto:mia@VoteMia.com"
+},
+{
+"text": "friendsofmiacostello@gmail.com",
+"href": "mailto:friendsofmiacostello@gmail.com"
+}
 ]

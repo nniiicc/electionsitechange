@@ -1,3 +1,10 @@
-I wanted to share an important update regarding the Rural Health Transformation Program recently unveiled by the Centers for Medicare and Medicaid Services (CMS).
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+ADDRESSING THE PROBLEMS All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search One Country Project Debunks Rural Health Fund Myths I wanted to share an important update regarding the Rural Health Transformation Program recently unveiled by the Centers for Medicare and Medicaid Services (CMS).
 The One Country Project has released an analysis debunking the claims surrounding the newly established Rural Health Fund.
-While the fund promises to strengthen rural healthcare infrastructure with $50 billion over five years ($10 billion annually beginning in FY 2026), research shows it will not offset the broader
+While the fund promises to strengthen rural healthcare infrastructure with $50 billion over five years ($10 billion annually beginning in FY 2026), research shows it will not offset the broader Karen Burnett-Kurie 1 min read AARP’s Top 100 Places to Live in the U.S. for Older Adults Why are there no places in New Hampshire?
+All of our neighboring states are included in this top 100 list, but no place in New Hampshire.
+Karen Burnett-Kurie 1 min read The Consequences of Overturning Roe When the Supreme Court overturned Roe v.
+Wade strict bans on the procedure kicked in at least 22 states.
+Women in these states have fewer o Karen Burnett-Kurie 2 min read Help Karen Burnett-Kurie bring balance to District 7 by supporting her today!
+DONATE Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

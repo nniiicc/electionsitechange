@@ -1,16 +1,58 @@
 [
-"https://capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=710&year=2019",
-"https://capitol.hawaii.gov/session2019/bills/HCR214_.htm",
-"https://capitol.hawaii.gov/session2019/bills/HCR225_SD1_.htm",
-"https://capitol.hawaii.gov/session2020/bills/HB2054_SD1_.htm",
-"https://capitol.hawaii.gov/session2020/bills/HB2060_SD1_.htm",
-"https://chrisleeforhawaii.com/",
-"https://chrisleeforhawaii.com/about",
-"https://chrisleeforhawaii.com/creating-change",
-"https://chrisleeforhawaii.com/local-ag-1",
-"https://chrisleeforhawaii.com/protecting-our-community",
-"https://facebook.com/chrisleeHI",
-"https://instagram.com/chrisleehawaii",
-"https://secure.actblue.com/donate/friends-of-chris-lee-1",
-"https://twitter.com/chrisleehawaii"
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.chrisleeforhawaii.com/about"
+},
+{
+"text": "COMMUNITY WINS",
+"href": "https://www.chrisleeforhawaii.com/protecting-our-community"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-lee-1"
+},
+{
+"text": "Go Now",
+"href": "https://www.chrisleeforhawaii.com/local-ag-1"
+},
+{
+"text": "TACKLING OUR ISSUES",
+"href": "https://www.chrisleeforhawaii.com/creating-change"
+},
+{
+"text": "[image: RegularLeeLogoLargeJust white.png]",
+"href": "https://www.chrisleeforhawaii.com"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/chrisleeHI/"
+},
+{
+"text": "[image: White Instagram Icon]",
+"href": "https://www.instagram.com/chrisleehawaii/"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/chrisleehawaii"
+},
+{
+"text": "passed a law prohibiting employers from firing or discriminating against female employees",
+"href": "https://www.capitol.hawaii.gov/Archives/measure_indiv_Archives.aspx?billtype=HB&billnumber=710&year=2019"
+},
+{
+"text": "passed legislation",
+"href": "https://www.capitol.hawaii.gov/session2019/bills/HCR225_SD1_.htm"
+},
+{
+"text": "passed legislation supporting the effort to place the first woman, Harriet Tubman, on US Currency",
+"href": "https://www.capitol.hawaii.gov/session2019/bills/HCR214_.htm"
+},
+{
+"text": "passed legislation to protect victims of domestic violence",
+"href": "https://www.capitol.hawaii.gov/session2020/bills/HB2060_SD1_.htm"
+},
+{
+"text": "prohibit assailants from forcing women to sign non-disclosure agreements",
+"href": "https://www.capitol.hawaii.gov/session2020/bills/HB2054_SD1_.htm"
+}
 ]

@@ -1,12 +1,46 @@
 [
-"https://elections.bcohio.gov/register_to_vote/index.php",
-"https://elegantthemes.com/",
-"https://instagram.com/",
-"https://jenniferforrep.com/",
-"https://jenniferforrep.com/about",
-"https://jenniferforrep.com/contact",
-"https://jenniferforrep.com/feed",
-"https://secure.winred.com/republicans-for-jennifer-gross/donate?exitintent=true",
-"https://twitter.com/",
-"https://wordpress.org/"
+{
+"text": "About",
+"href": "https://jenniferforrep.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://jenniferforrep.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/republicans-for-jennifer-gross/donate?exitintent=true"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Home",
+"href": "https://jenniferforrep.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com"
+},
+{
+"text": "RSS",
+"href": "https://jenniferforrep.com/feed/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com"
+},
+{
+"text": "Vote",
+"href": "https://elections.bcohio.gov/register_to_vote/index.php"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "[image: Representative Jennifer Gross]",
+"href": "https://jenniferforrep.com/"
+}
 ]

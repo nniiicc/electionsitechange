@@ -1,207 +1,966 @@
 [
-"http://djangoproject.com/",
-"http://getbootstrap.com/",
-"http://mezzanine.jupo.org/",
-"https://fox32chicago.com/news/election-2026-chuy-garcia-seat-candidates",
-"https://workingclassfight.com/",
-"https://workingclassfight.com/blog",
-"https://workingclassfight.com/blog/2026-09-20-speeches-at-wcp-rally-in-illinois",
-"https://workingclassfight.com/blog/2026-ed-hershey-in-televised-debate",
-"https://workingclassfight.com/blog/2026-lwv-vote411-for-ed-hershey-in-illinois",
-"https://workingclassfight.com/blog/2026-picnic-ed-hershey-jordan-villas-speak",
-"https://workingclassfight.com/blog/2026-working-class-party-statement-about-capitalisms-wars",
-"https://workingclassfight.com/blog/archive/2014/10",
-"https://workingclassfight.com/blog/archive/2014/11",
-"https://workingclassfight.com/blog/archive/2014/8",
-"https://workingclassfight.com/blog/archive/2014/9",
-"https://workingclassfight.com/blog/archive/2015/1",
-"https://workingclassfight.com/blog/archive/2015/2",
-"https://workingclassfight.com/blog/archive/2016/10",
-"https://workingclassfight.com/blog/archive/2016/11",
-"https://workingclassfight.com/blog/archive/2016/7",
-"https://workingclassfight.com/blog/archive/2016/8",
-"https://workingclassfight.com/blog/archive/2016/9",
-"https://workingclassfight.com/blog/archive/2017/1",
-"https://workingclassfight.com/blog/archive/2017/11",
-"https://workingclassfight.com/blog/archive/2017/9",
-"https://workingclassfight.com/blog/archive/2018/10",
-"https://workingclassfight.com/blog/archive/2018/11",
-"https://workingclassfight.com/blog/archive/2018/3",
-"https://workingclassfight.com/blog/archive/2018/5",
-"https://workingclassfight.com/blog/archive/2018/6",
-"https://workingclassfight.com/blog/archive/2018/7",
-"https://workingclassfight.com/blog/archive/2018/9",
-"https://workingclassfight.com/blog/archive/2019/9",
-"https://workingclassfight.com/blog/archive/2020/1",
-"https://workingclassfight.com/blog/archive/2020/10",
-"https://workingclassfight.com/blog/archive/2020/11",
-"https://workingclassfight.com/blog/archive/2020/2",
-"https://workingclassfight.com/blog/archive/2020/3",
-"https://workingclassfight.com/blog/archive/2020/4",
-"https://workingclassfight.com/blog/archive/2020/7",
-"https://workingclassfight.com/blog/archive/2020/8",
-"https://workingclassfight.com/blog/archive/2020/9",
-"https://workingclassfight.com/blog/archive/2021/10",
-"https://workingclassfight.com/blog/archive/2021/4",
-"https://workingclassfight.com/blog/archive/2022/10",
-"https://workingclassfight.com/blog/archive/2022/11",
-"https://workingclassfight.com/blog/archive/2022/3",
-"https://workingclassfight.com/blog/archive/2022/7",
-"https://workingclassfight.com/blog/archive/2022/8",
-"https://workingclassfight.com/blog/archive/2022/9",
-"https://workingclassfight.com/blog/archive/2023/10",
-"https://workingclassfight.com/blog/archive/2023/11",
-"https://workingclassfight.com/blog/archive/2024/1",
-"https://workingclassfight.com/blog/archive/2024/10",
-"https://workingclassfight.com/blog/archive/2024/11",
-"https://workingclassfight.com/blog/archive/2024/2",
-"https://workingclassfight.com/blog/archive/2024/7",
-"https://workingclassfight.com/blog/archive/2024/9",
-"https://workingclassfight.com/blog/archive/2025/10",
-"https://workingclassfight.com/blog/archive/2025/2",
-"https://workingclassfight.com/blog/archive/2025/3",
-"https://workingclassfight.com/blog/archive/2026/10",
-"https://workingclassfight.com/blog/archive/2026/2",
-"https://workingclassfight.com/blog/archive/2026/3",
-"https://workingclassfight.com/blog/archive/2026/4",
-"https://workingclassfight.com/blog/archive/2026/6",
-"https://workingclassfight.com/blog/archive/2026/7",
-"https://workingclassfight.com/blog/archive/2026/8",
-"https://workingclassfight.com/blog/archive/2026/9",
-"https://workingclassfight.com/blog/author/admin",
-"https://workingclassfight.com/blog/category/chicago-2015",
-"https://workingclassfight.com/blog/category/illinois-2022",
-"https://workingclassfight.com/blog/category/illinois-2024",
-"https://workingclassfight.com/blog/category/illinois-2026",
-"https://workingclassfight.com/blog/category/la-2024",
-"https://workingclassfight.com/blog/category/maryland-2020",
-"https://workingclassfight.com/blog/category/maryland-2020/david-harding-for-mayor-of-baltimore",
-"https://workingclassfight.com/blog/category/maryland-2020/results-in-the-first-wcp-of-md-election-campaign",
-"https://workingclassfight.com/blog/category/maryland-2022",
-"https://workingclassfight.com/blog/category/maryland-2026",
-"https://workingclassfight.com/blog/category/michigan-2014",
-"https://workingclassfight.com/blog/category/michigan-2022",
-"https://workingclassfight.com/blog/category/michigan-2024",
-"https://workingclassfight.com/blog/category/michigan-2026",
-"https://workingclassfight.com/blog/category/recent-news",
-"https://workingclassfight.com/blog/category/wcp-2022",
-"https://workingclassfight.com/blog/category/wcp-2024",
-"https://workingclassfight.com/blog/category/wcp-2026",
-"https://workingclassfight.com/blog/category/working-class-party",
-"https://workingclassfight.com/blog/ed-hershey-for-a-working-class-party",
-"https://workingclassfight.com/blog/put-a-worker-on-the-wcp-ballot-for-illinois-state-senate",
-"https://workingclassfight.com/blog/speech-by-gary-walkowicz-wcp-campaign",
-"https://workingclassfight.com/blog/working-class-party-program-statement-for-2026",
-"https://workingclassfight.com/blog?page=1",
-"https://workingclassfight.com/blog?page=10",
-"https://workingclassfight.com/blog?page=2",
-"https://workingclassfight.com/blog?page=3",
-"https://workingclassfight.com/blog?page=4",
-"https://workingclassfight.com/blog?page=5",
-"https://workingclassfight.com/blog?page=6",
-"https://workingclassfight.com/blog?page=7",
-"https://workingclassfight.com/blog?page=8",
-"https://workingclassfight.com/blog?page=9",
-"https://workingclassfight.com/contact",
-"https://workingclassfight.com/elections",
-"https://workingclassfight.com/elections/2022",
-"https://workingclassfight.com/elections/baltimore-2016",
-"https://workingclassfight.com/elections/chicago-2015",
-"https://workingclassfight.com/elections/chicago-2015/i-stand-for-a-working-class-fight",
-"https://workingclassfight.com/elections/chicago-2015/stop-all-attacks-on-immigrants",
-"https://workingclassfight.com/elections/chicago-2015/to-fight-for-education",
-"https://workingclassfight.com/elections/chicago-2015/to-fight-for-housing",
-"https://workingclassfight.com/elections/chicago-2015/to-fight-for-jobs",
-"https://workingclassfight.com/elections/chicago-2015/to-fight-for-public-money",
-"https://workingclassfight.com/elections/chicago-2015/why-vote-for-ed-hershey",
-"https://workingclassfight.com/elections/chicago-2015/yes-a-teacher-should-be-alderman",
-"https://workingclassfight.com/elections/los-angeles-2018",
-"https://workingclassfight.com/elections/los-angeles-2018/juan-reys-results-in-californias-june-5-primary",
-"https://workingclassfight.com/elections/los-angeles-2018/la-campaign-speech-workers-need-to-build-their-own-party",
-"https://workingclassfight.com/elections/los-angeles-2018/we-need-to-organize-under-a-working-class-banner",
-"https://workingclassfight.com/elections/michigan-2014",
-"https://workingclassfight.com/elections/michigan-2014/da-roehrig",
-"https://workingclassfight.com/elections/michigan-2014/da-roehrig/to-vote-for-da-roehrig",
-"https://workingclassfight.com/elections/michigan-2014/da-roehrig/use-public-money-to-defend-our-lives",
-"https://workingclassfight.com/elections/michigan-2014/gary-walkowicz",
-"https://workingclassfight.com/elections/michigan-2014/gary-walkowicz/statements",
-"https://workingclassfight.com/elections/michigan-2014/gary-walkowicz/to-vote-for-gary-walkowicz",
-"https://workingclassfight.com/elections/michigan-2014/let-the-workers-voice-be-heard",
-"https://workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot",
-"https://workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/to-vote-for-mary-anne-hering-and-kenneth-jannot-jr",
-"https://workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/use-public-money-for-public-schools",
-"https://workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/what-will-we-fight-for",
-"https://workingclassfight.com/elections/michigan-2014/sam-johnson",
-"https://workingclassfight.com/elections/michigan-2014/sam-johnson/from-sams-book",
-"https://workingclassfight.com/elections/michigan-2014/sam-johnson/to-vote-for-sam-johnson",
-"https://workingclassfight.com/elections/michigan-2014/the-workers-voice-was-heard",
-"https://workingclassfight.com/elections/michigan-2016",
-"https://workingclassfight.com/elections/michigan-2016/gary-walkowicz",
-"https://workingclassfight.com/elections/michigan-2016/gary-walkowicz/speaking-for-the-ranks",
-"https://workingclassfight.com/elections/michigan-2016/mary-anne-hering",
-"https://workingclassfight.com/elections/michigan-2016/mary-anne-hering/a-decent-education-for-every-child-why-not",
-"https://workingclassfight.com/elections/michigan-2016/mary-anne-hering/radio-interview",
-"https://workingclassfight.com/elections/michigan-2016/mary-anne-hering/speech-from-2014",
-"https://workingclassfight.com/elections/michigan-2016/results-of-2016-election",
-"https://workingclassfight.com/elections/michigan-2016/sam-johnson",
-"https://workingclassfight.com/elections/michigan-2016/sam-johnson/from-sams-book",
-"https://workingclassfight.com/elections/michigan-2016/the-bosses-have-two-parties-the-workers-need-one",
-"https://workingclassfight.com/elections/michigan-2018",
-"https://workingclassfight.com/elections/michigan-2018/brief-program",
-"https://workingclassfight.com/elections/michigan-2018/gary-walkowicz-speech-10-21-2018",
-"https://workingclassfight.com/elections/michigan-2018/mary-anne-hering-speech-on-education",
-"https://workingclassfight.com/elections/michigan-2018/sam-johnsons-speech",
-"https://workingclassfight.com/elections/michigan-2018/speech-by-gary-walkowicz-9-23-2018",
-"https://workingclassfight.com/elections/michigan-2018/speech-by-mary-anne-hering-september-23-2018",
-"https://workingclassfight.com/elections/michigan-2018/wcp-candidates-for-state-board-of-education",
-"https://workingclassfight.com/elections/michigan-2018/working-class-party-candidates-for-state-senate",
-"https://workingclassfight.com/elections/michigan-2018/working-class-party-congressional-candidates",
-"https://workingclassfight.com/elections/michigan-2020",
-"https://workingclassfight.com/elections/michigan-2020/andrea-l-kirby",
-"https://workingclassfight.com/elections/michigan-2020/andrea-l-kirby/andrea-l-kirby-speech-sept-20",
-"https://workingclassfight.com/elections/michigan-2020/andrea-l-kirby/speech-andrea-l-kirby-october-18-2020",
-"https://workingclassfight.com/elections/michigan-2020/gary-walkowicz",
-"https://workingclassfight.com/elections/michigan-2020/gary-walkowicz/speech-by-gary-walkowicz-october-18-meeting",
-"https://workingclassfight.com/elections/michigan-2020/gary-walkowicz/speech-to-wcp-outdoor-rally-9-20",
-"https://workingclassfight.com/elections/michigan-2020/kathy-goodwin",
-"https://workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-on-wcmu-public-media",
-"https://workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-speech-oct-20-meeting",
-"https://workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-speech-sept-20",
-"https://workingclassfight.com/elections/michigan-2020/kimberly-givens",
-"https://workingclassfight.com/elections/michigan-2020/kimberly-givens/speech-sept-20-kimberly-givens",
-"https://workingclassfight.com/elections/michigan-2020/larry-darnell-betts",
-"https://workingclassfight.com/elections/michigan-2020/larry-darnell-betts/message-sent-by-larry-betts-to-the-sept-20-meeting",
-"https://workingclassfight.com/elections/michigan-2020/linda-rayburn",
-"https://workingclassfight.com/elections/michigan-2020/linda-rayburn/speech-by-linda-rayburn",
-"https://workingclassfight.com/elections/michigan-2020/louis-palus",
-"https://workingclassfight.com/elections/michigan-2020/louis-palus/louis-palus-speech",
-"https://workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education",
-"https://workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/mary-anne-hering-vital-that-working-class-party-is-on-ballot",
-"https://workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/speech-mary-anne-hering-at-outdoor-sept-20-meeting",
-"https://workingclassfight.com/elections/michigan-2020/november-2020-vote-results-for-working-class-party-michigan",
-"https://workingclassfight.com/elections/michigan-2020/philip-kolody",
-"https://workingclassfight.com/elections/michigan-2020/philip-kolody/philip-kolody-speech-on-sept-20",
-"https://workingclassfight.com/elections/michigan-2020/philip-kolody/philip-kolody-the-working-class-party-is-about-the-future",
-"https://workingclassfight.com/elections/michigan-2020/sam-johnson",
-"https://workingclassfight.com/elections/michigan-2020/sam-johnson/speech-by-sam-johnson-autumn-2019",
-"https://workingclassfight.com/elections/michigan-2020/sam-johnson/speech-by-sam-johnson-to-2020-wcp-convention",
-"https://workingclassfight.com/elections/michigan-2020/simone-r-coleman",
-"https://workingclassfight.com/elections/michigan-2020/simone-r-coleman/simone-r-coleman-speech-sept-20",
-"https://workingclassfight.com/elections/michigan-2020/speech-by-gary-walkowicz-to-2019-working-class-party-convention",
-"https://workingclassfight.com/elections/michigan-2020/working-class-program",
-"https://workingclassfight.com/elections/prior-years",
-"https://workingclassfight.com/elections/wcp-2024",
-"https://workingclassfight.com/elections/wcp-2024/program-2024",
-"https://workingclassfight.com/elections/wcp-2026",
-"https://workingclassfight.com/history",
-"https://workingclassfight.com/history/eugene-v-debs",
-"https://workingclassfight.com/history/iww-one-union-of-all-the-workers",
-"https://workingclassfight.com/history/malcolm-x-back-on-the-political-scene-30-years-later",
-"https://workingclassfight.com/history/the-drive-for-the-labor-party",
-"https://workingclassfight.com/to-protect-ourselves",
-"https://workingclassfight.com/to-put-an-end-to-unemployment",
-"https://workingclassfight.com/to-stop-the-crisis-in-our-schools-and-neighborhoods",
-"https://workingclassfight.com/to-stop-the-decline-in-our-standard-of-living",
-"https://workingclassfight.com/we-need-to-fight",
-"https://workingclassfight.com/workers-shouldnt-pay-for-the-bosses-crisis"
+{
+"text": "1",
+"href": "https://www.workingclassfight.com/blog/?page=1"
+},
+{
+"text": "10",
+"href": "https://www.workingclassfight.com/blog/?page=10"
+},
+{
+"text": "2",
+"href": "https://www.workingclassfight.com/blog/?page=2"
+},
+{
+"text": "3",
+"href": "https://www.workingclassfight.com/blog/?page=3"
+},
+{
+"text": "4",
+"href": "https://www.workingclassfight.com/blog/?page=4"
+},
+{
+"text": "5",
+"href": "https://www.workingclassfight.com/blog/?page=5"
+},
+{
+"text": "6",
+"href": "https://www.workingclassfight.com/blog/?page=6"
+},
+{
+"text": "7",
+"href": "https://www.workingclassfight.com/blog/?page=7"
+},
+{
+"text": "8",
+"href": "https://www.workingclassfight.com/blog/?page=8"
+},
+{
+"text": "9",
+"href": "https://www.workingclassfight.com/blog/?page=9"
+},
+{
+"text": "A Decent Education for Every Child – Why Not?",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/mary-anne-hering/a-decent-education-for-every-child-why-not/"
+},
+{
+"text": "A Working Class Program for a System Stuck in Crisis",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/working-class-program/"
+},
+{
+"text": "All Campaigns",
+"href": "https://www.workingclassfight.com/blog/category/wcp-2026/"
+},
+{
+"text": "Andrea Kirby: We Can Stand Up Like Our Ancestors Did",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/andrea-l-kirby/speech-andrea-l-kirby-october-18-2020/"
+},
+{
+"text": "Andrea L. Kirby Speech, Sept. 20",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/andrea-l-kirby/andrea-l-kirby-speech-sept-20/"
+},
+{
+"text": "Andrea L. Kirby, 9th Congressional District",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/andrea-l-kirby/"
+},
+{
+"text": "Andrea L. Kirby: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/andrea-l-kirby/"
+},
+{
+"text": "April",
+"href": "https://www.workingclassfight.com/blog/archive/2020/4/"
+},
+{
+"text": "April",
+"href": "https://www.workingclassfight.com/blog/archive/2021/4/"
+},
+{
+"text": "April",
+"href": "https://www.workingclassfight.com/blog/archive/2026/4/"
+},
+{
+"text": "August",
+"href": "https://www.workingclassfight.com/blog/archive/2014/8/"
+},
+{
+"text": "August",
+"href": "https://www.workingclassfight.com/blog/archive/2016/8/"
+},
+{
+"text": "August",
+"href": "https://www.workingclassfight.com/blog/archive/2020/8/"
+},
+{
+"text": "August",
+"href": "https://www.workingclassfight.com/blog/archive/2022/8/"
+},
+{
+"text": "August",
+"href": "https://www.workingclassfight.com/blog/archive/2026/8/"
+},
+{
+"text": "Baltimore: 2016",
+"href": "https://www.workingclassfight.com/elections/baltimore-2016/"
+},
+{
+"text": "Bootstrap",
+"href": "http://getbootstrap.com"
+},
+{
+"text": "But What Will We Fight For?",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/what-will-we-fight-for/"
+},
+{
+"text": "Chicago Election 2015: Why I Ran",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/"
+},
+{
+"text": "Chicago: 2015",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/"
+},
+{
+"text": "Contact",
+"href": "https://www.workingclassfight.com/contact/"
+},
+{
+"text": "D.A. Roehrig",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/da-roehrig/"
+},
+{
+"text": "David Harding for Mayor of Baltimore",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2020/david-harding-for-mayor-of-baltimore/"
+},
+{
+"text": "Django",
+"href": "http://www.djangoproject.com"
+},
+{
+"text": "Ed Hershey",
+"href": "https://www.workingclassfight.com/blog/ed-hershey-for-a-working-class-party/"
+},
+{
+"text": "Ed Hershey & Jordan Villas Speak",
+"href": "https://www.workingclassfight.com/blog/2026-picnic-ed-hershey-jordan-villas-speak/"
+},
+{
+"text": "Ed Hershey in Televised Debate",
+"href": "https://www.workingclassfight.com/blog/2026-ed-hershey-in-televised-debate/"
+},
+{
+"text": "Election News",
+"href": "https://www.workingclassfight.com/blog/category/chicago-2015/"
+},
+{
+"text": "Election News",
+"href": "https://www.workingclassfight.com/blog/category/michigan-2014/"
+},
+{
+"text": "Elections",
+"href": "https://www.workingclassfight.com/elections/"
+},
+{
+"text": "Elections 2014: Why We Ran",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/"
+},
+{
+"text": "Eugene V. Debs",
+"href": "https://www.workingclassfight.com/history/eugene-v-debs/"
+},
+{
+"text": "February",
+"href": "https://www.workingclassfight.com/blog/archive/2015/2/"
+},
+{
+"text": "February",
+"href": "https://www.workingclassfight.com/blog/archive/2020/2/"
+},
+{
+"text": "February",
+"href": "https://www.workingclassfight.com/blog/archive/2024/2/"
+},
+{
+"text": "February",
+"href": "https://www.workingclassfight.com/blog/archive/2025/2/"
+},
+{
+"text": "February",
+"href": "https://www.workingclassfight.com/blog/archive/2026/2/"
+},
+{
+"text": "For a Working Class Fight",
+"href": "https://www.workingclassfight.com/"
+},
+{
+"text": "From Sam's Book",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/sam-johnson/from-sams-book/"
+},
+{
+"text": "From Sam's book",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/sam-johnson/from-sams-book/"
+},
+{
+"text": "Gary Walkowicz",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/gary-walkowicz/"
+},
+{
+"text": "Gary Walkowicz",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/gary-walkowicz/"
+},
+{
+"text": "Gary Walkowicz, 12th Congressional District",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/gary-walkowicz/"
+},
+{
+"text": "Gary Walkowicz, speaking for the ranks",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/gary-walkowicz/statements/"
+},
+{
+"text": "Gary Walkowicz: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/gary-walkowicz/"
+},
+{
+"text": "Gary Walkowicz: Our Name Says It All",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/gary-walkowicz/speech-by-gary-walkowicz-october-18-meeting/"
+},
+{
+"text": "Gary Walkowicz: Vote FOR What You Want",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/gary-walkowicz-speech-10-21-2018/"
+},
+{
+"text": "Gary: Speaking for the Ranks",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/gary-walkowicz/speaking-for-the-ranks/"
+},
+{
+"text": "History",
+"href": "https://www.workingclassfight.com/history/"
+},
+{
+"text": "Home",
+"href": "https://www.workingclassfight.com/"
+},
+{
+"text": "I Stand for a Working Class Fight",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/i-stand-for-a-working-class-fight/"
+},
+{
+"text": "IWW: One Union of All the Workers",
+"href": "https://www.workingclassfight.com/history/iww-one-union-of-all-the-workers/"
+},
+{
+"text": "Illinois 2026",
+"href": "https://www.workingclassfight.com/blog/category/illinois-2026/"
+},
+{
+"text": "Illinois: 2022",
+"href": "https://www.workingclassfight.com/blog/category/illinois-2022/"
+},
+{
+"text": "Illinois: 2024",
+"href": "https://www.workingclassfight.com/blog/category/illinois-2024/"
+},
+{
+"text": "Illinois: 2026",
+"href": "https://www.workingclassfight.com/blog/category/illinois-2026/"
+},
+{
+"text": "January",
+"href": "https://www.workingclassfight.com/blog/archive/2015/1/"
+},
+{
+"text": "January",
+"href": "https://www.workingclassfight.com/blog/archive/2017/1/"
+},
+{
+"text": "January",
+"href": "https://www.workingclassfight.com/blog/archive/2020/1/"
+},
+{
+"text": "January",
+"href": "https://www.workingclassfight.com/blog/archive/2024/1/"
+},
+{
+"text": "Jordan Villas",
+"href": "https://www.workingclassfight.com/blog/put-a-worker-on-the-wcp-ballot-for-illinois-state-senate/"
+},
+{
+"text": "Juan Rey's Results in California's June 5 Primary",
+"href": "https://www.workingclassfight.com/elections/los-angeles-2018/juan-reys-results-in-californias-june-5-primary/"
+},
+{
+"text": "Juan Rey: A Worker for Congress",
+"href": "https://www.workingclassfight.com/elections/los-angeles-2018/"
+},
+{
+"text": "Juan Rey: Workers Need to Build Their Own Party",
+"href": "https://www.workingclassfight.com/elections/los-angeles-2018/la-campaign-speech-workers-need-to-build-their-own-party/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2016/7/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2018/7/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2020/7/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2022/7/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2024/7/"
+},
+{
+"text": "July",
+"href": "https://www.workingclassfight.com/blog/archive/2026/7/"
+},
+{
+"text": "June",
+"href": "https://www.workingclassfight.com/blog/archive/2018/6/"
+},
+{
+"text": "June",
+"href": "https://www.workingclassfight.com/blog/archive/2026/6/"
+},
+{
+"text": "Kathy Goodwin Speech, Sept. 20",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-speech-sept-20/"
+},
+{
+"text": "Kathy Goodwin on WCMU Public Media",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-on-wcmu-public-media/"
+},
+{
+"text": "Kathy Goodwin, 5th Congressional District",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kathy-goodwin/"
+},
+{
+"text": "Kathy Goodwin: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kathy-goodwin/"
+},
+{
+"text": "Kathy Goodwin: Our Candidates Are from the Working Class",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kathy-goodwin/kathy-goodwin-speech-oct-20-meeting/"
+},
+{
+"text": "Kimberly Givens, 7th District State House",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kimberly-givens/"
+},
+{
+"text": "Kimberly Givens: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kimberly-givens/"
+},
+{
+"text": "Larry Darnell Betts, 15th District State House",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/larry-darnell-betts/"
+},
+{
+"text": "Larry Darnell Betts: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/larry-darnell-betts/"
+},
+{
+"text": "Let the Workers' Voice Be Heard",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/let-the-workers-voice-be-heard/"
+},
+{
+"text": "Linda Rayburn, 4th District State House",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/linda-rayburn/"
+},
+{
+"text": "Linda Rayburn: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/linda-rayburn/"
+},
+{
+"text": "Los Angeles: 2018",
+"href": "https://www.workingclassfight.com/elections/los-angeles-2018/"
+},
+{
+"text": "Los Angeles: 2024",
+"href": "https://www.workingclassfight.com/blog/category/la-2024/"
+},
+{
+"text": "Louis Palus, 75th District State House",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/louis-palus/"
+},
+{
+"text": "Louis Palus, Speech at Sept. 20 Outdoor Meeting",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/louis-palus/louis-palus-speech/"
+},
+{
+"text": "Louis Palus: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/louis-palus/"
+},
+{
+"text": "Malcolm X",
+"href": "https://www.workingclassfight.com/history/malcolm-x-back-on-the-political-scene-30-years-later/"
+},
+{
+"text": "March",
+"href": "https://www.workingclassfight.com/blog/archive/2018/3/"
+},
+{
+"text": "March",
+"href": "https://www.workingclassfight.com/blog/archive/2020/3/"
+},
+{
+"text": "March",
+"href": "https://www.workingclassfight.com/blog/archive/2022/3/"
+},
+{
+"text": "March",
+"href": "https://www.workingclassfight.com/blog/archive/2025/3/"
+},
+{
+"text": "March",
+"href": "https://www.workingclassfight.com/blog/archive/2026/3/"
+},
+{
+"text": "Mary Anne Hering",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/mary-anne-hering/"
+},
+{
+"text": "Mary Anne Hering & Kenneth Jannot, Jr.",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/"
+},
+{
+"text": "Mary Anne Hering's Speech on Education",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/mary-anne-hering-speech-on-education/"
+},
+{
+"text": "Mary Anne Hering, State Board of Education",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/"
+},
+{
+"text": "Mary Anne Hering: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/"
+},
+{
+"text": "Mary Anne Hering: Vital that Working Class Party Is on Ballot",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/mary-anne-hering-vital-that-working-class-party-is-on-ballot/"
+},
+{
+"text": "Mary Anne's speech from 2014",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/mary-anne-hering/speech-from-2014/"
+},
+{
+"text": "Maryland 2026",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2026/"
+},
+{
+"text": "Maryland: 2020",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2020/"
+},
+{
+"text": "Maryland: 2022",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2022/"
+},
+{
+"text": "Maryland: 2026",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2026/"
+},
+{
+"text": "May",
+"href": "https://www.workingclassfight.com/blog/archive/2018/5/"
+},
+{
+"text": "Message sent by Larry Betts to the Sept. 20 Meeting",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/larry-darnell-betts/message-sent-by-larry-betts-to-the-sept-20-meeting/"
+},
+{
+"text": "Mezzanine",
+"href": "http://mezzanine.jupo.org"
+},
+{
+"text": "Michigan 2016: Let the Workers' Voice Be Heard",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/"
+},
+{
+"text": "Michigan 2026",
+"href": "https://www.workingclassfight.com/blog/category/michigan-2026/"
+},
+{
+"text": "Michigan: 2014",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/"
+},
+{
+"text": "Michigan: 2016",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/"
+},
+{
+"text": "Michigan: 2018",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/"
+},
+{
+"text": "Michigan: 2020",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/"
+},
+{
+"text": "Michigan: 2022",
+"href": "https://www.workingclassfight.com/blog/category/michigan-2022/"
+},
+{
+"text": "Michigan: 2024",
+"href": "https://www.workingclassfight.com/blog/category/michigan-2024/"
+},
+{
+"text": "Michigan: 2026",
+"href": "https://www.workingclassfight.com/blog/category/michigan-2026/"
+},
+{
+"text": "Needed: A Working Class Party",
+"href": "https://www.workingclassfight.com/elections/"
+},
+{
+"text": "News",
+"href": "https://www.workingclassfight.com/blog/category/recent-news/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2014/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2016/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2017/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2018/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2020/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2022/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2023/11/"
+},
+{
+"text": "November",
+"href": "https://www.workingclassfight.com/blog/archive/2024/11/"
+},
+{
+"text": "November 2020 Vote Results for Working Class Party (Michigan)",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/november-2020-vote-results-for-working-class-party-michigan/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2014/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2016/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2018/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2020/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2021/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2022/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2023/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2024/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2025/10/"
+},
+{
+"text": "October",
+"href": "https://www.workingclassfight.com/blog/archive/2026/10/"
+},
+{
+"text": "On Capitalism's Wars",
+"href": "https://www.workingclassfight.com/blog/2026-working-class-party-statement-about-capitalisms-wars/"
+},
+{
+"text": "Party",
+"href": "https://www.workingclassfight.com/blog/category/working-class-party/"
+},
+{
+"text": "Philip Kolody, 14th Congressional District",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/philip-kolody/"
+},
+{
+"text": "Philip Kolody, Speech on Sept. 20",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/philip-kolody/philip-kolody-speech-on-sept-20/"
+},
+{
+"text": "Philip Kolody, The Working Class Party Is About the Future",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/philip-kolody/philip-kolody-the-working-class-party-is-about-the-future/"
+},
+{
+"text": "Philip Kolody: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/philip-kolody/"
+},
+{
+"text": "Prior Year Elections",
+"href": "https://www.workingclassfight.com/elections/prior-years/"
+},
+{
+"text": "Prior Years",
+"href": "https://www.workingclassfight.com/elections/prior-years/"
+},
+{
+"text": "Program",
+"href": "https://www.workingclassfight.com/"
+},
+{
+"text": "Program in Brief",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/brief-program/"
+},
+{
+"text": "Program: 2024",
+"href": "https://www.workingclassfight.com/elections/wcp-2024/program-2024/"
+},
+{
+"text": "Public Radio Interview of Mary Anne Hering",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/mary-anne-hering/radio-interview/"
+},
+{
+"text": "Results in the First WCP of Md election campaign",
+"href": "https://www.workingclassfight.com/blog/category/maryland-2020/results-in-the-first-wcp-of-md-election-campaign/"
+},
+{
+"text": "Results of the Working Class Party in the 2016 Election",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/results-of-2016-election/"
+},
+{
+"text": "Sam Johnson",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/sam-johnson/"
+},
+{
+"text": "Sam Johnson",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/sam-johnson/"
+},
+{
+"text": "Sam Johnson, 13th Congressional District",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/sam-johnson/"
+},
+{
+"text": "Sam Johnson: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/sam-johnson/"
+},
+{
+"text": "Sam Johnson: Working People Can Defend Themselves",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/sam-johnson/speech-by-sam-johnson-autumn-2019/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2014/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2016/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2017/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2018/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2019/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2020/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2022/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2024/9/"
+},
+{
+"text": "September",
+"href": "https://www.workingclassfight.com/blog/archive/2026/9/"
+},
+{
+"text": "Simone R. Coleman, 14th District State House",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/simone-r-coleman/"
+},
+{
+"text": "Simone R. Coleman, Speech Sept. 20",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/simone-r-coleman/simone-r-coleman-speech-sept-20/"
+},
+{
+"text": "Simone R. Coleman: Candidate Statement",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/simone-r-coleman/"
+},
+{
+"text": "Speech Sept. 20, Kimberly Givens",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/kimberly-givens/speech-sept-20-kimberly-givens/"
+},
+{
+"text": "Speech by Gary Walkowicz on 9-23-2018",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/speech-by-gary-walkowicz-9-23-2018/"
+},
+{
+"text": "Speech by Gary Walkowicz to 2019 WCP Convention",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/speech-by-gary-walkowicz-to-2019-working-class-party-convention/"
+},
+{
+"text": "Speech by Gary Walkowicz to 2020 WCP Convention",
+"href": "https://www.workingclassfight.com/blog/speech-by-gary-walkowicz-wcp-campaign/"
+},
+{
+"text": "Speech by Linda Rayburn",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/linda-rayburn/speech-by-linda-rayburn/"
+},
+{
+"text": "Speech by Mary Anne Hering on September 23",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/speech-by-mary-anne-hering-september-23-2018/"
+},
+{
+"text": "Speech by Sam Johnson on 9-23-2018",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/sam-johnsons-speech/"
+},
+{
+"text": "Speech by Sam Johnson to 2020 WCP Convention",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/sam-johnson/speech-by-sam-johnson-to-2020-wcp-convention/"
+},
+{
+"text": "Speech to WCP Outdoor Rally, 9-20, Gary Walkowicz",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/gary-walkowicz/speech-to-wcp-outdoor-rally-9-20/"
+},
+{
+"text": "Speech, Mary Anne Hering at Outdoor Sept. 20 Meeting",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/mary-anne-hering-state-board-of-education/speech-mary-anne-hering-at-outdoor-sept-20-meeting/"
+},
+{
+"text": "Speeches at WCP Rally in Illinois",
+"href": "https://www.workingclassfight.com/blog/2026-09-20-speeches-at-wcp-rally-in-illinois/"
+},
+{
+"text": "Stop All Attacks on Immigrants",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/stop-all-attacks-on-immigrants/"
+},
+{
+"text": "The Bosses Have Two Parties, the Workers Need One",
+"href": "https://www.workingclassfight.com/elections/michigan-2016/the-bosses-have-two-parties-the-workers-need-one/"
+},
+{
+"text": "The Drive for the Labor Party",
+"href": "https://www.workingclassfight.com/history/the-drive-for-the-labor-party/"
+},
+{
+"text": "The Population Should Not Pay for the Bosses' Crisis!",
+"href": "https://www.workingclassfight.com/workers-shouldnt-pay-for-the-bosses-crisis/"
+},
+{
+"text": "The Workers' Voice Was Heard",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/the-workers-voice-was-heard/"
+},
+{
+"text": "Those Who Came Before Us",
+"href": "https://www.workingclassfight.com/history/"
+},
+{
+"text": "To Control the Economy...",
+"href": "https://www.workingclassfight.com/to-protect-ourselves/"
+},
+{
+"text": "To Fight For Jobs",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/to-fight-for-jobs/"
+},
+{
+"text": "To Fight for Education",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/to-fight-for-education/"
+},
+{
+"text": "To Fight for Housing",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/to-fight-for-housing/"
+},
+{
+"text": "To Fight for Public Money",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/to-fight-for-public-money/"
+},
+{
+"text": "To Put an End to Unemployment...",
+"href": "https://www.workingclassfight.com/to-put-an-end-to-unemployment/"
+},
+{
+"text": "To Stop the Crisis in Our Schools and Neighborhoods...",
+"href": "https://www.workingclassfight.com/to-stop-the-crisis-in-our-schools-and-neighborhoods/"
+},
+{
+"text": "To Stop the Decline in Our Standard of Living...",
+"href": "https://www.workingclassfight.com/to-stop-the-decline-in-our-standard-of-living/"
+},
+{
+"text": "To Vote for D.A. Roehrig",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/da-roehrig/to-vote-for-da-roehrig/"
+},
+{
+"text": "To Vote for Gary Walkowicz",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/gary-walkowicz/to-vote-for-gary-walkowicz/"
+},
+{
+"text": "To Vote for Mary Anne Hering and Kenneth Jannot, Jr.",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/to-vote-for-mary-anne-hering-and-kenneth-jannot-jr/"
+},
+{
+"text": "To Vote for Sam Johnson",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/sam-johnson/to-vote-for-sam-johnson/"
+},
+{
+"text": "Use Public Money for Public Schools!",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/mary-anne-hering-ken-jannot/use-public-money-for-public-schools/"
+},
+{
+"text": "Use Public Money to Defend Our Lives!",
+"href": "https://www.workingclassfight.com/elections/michigan-2014/da-roehrig/use-public-money-to-defend-our-lives/"
+},
+{
+"text": "Use This Election",
+"href": "https://www.workingclassfight.com/blog/working-class-party-program-statement-for-2026/"
+},
+{
+"text": "VOTE411 for Ed Hershey in Illinois",
+"href": "https://www.workingclassfight.com/blog/2026-lwv-vote411-for-ed-hershey-in-illinois/"
+},
+{
+"text": "WCP 2026",
+"href": "https://www.workingclassfight.com/blog/category/wcp-2026/"
+},
+{
+"text": "WCP Candidates for State Board of Education",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/wcp-candidates-for-state-board-of-education/"
+},
+{
+"text": "WCP Elections in 2022",
+"href": "https://www.workingclassfight.com/elections/2022/"
+},
+{
+"text": "WCP Elections in 2024",
+"href": "https://www.workingclassfight.com/elections/wcp-2024/"
+},
+{
+"text": "WCP: 2022",
+"href": "https://www.workingclassfight.com/blog/category/wcp-2022/"
+},
+{
+"text": "WCP: 2022",
+"href": "https://www.workingclassfight.com/elections/2022/"
+},
+{
+"text": "WCP: 2024",
+"href": "https://www.workingclassfight.com/blog/category/wcp-2024/"
+},
+{
+"text": "WCP: 2024",
+"href": "https://www.workingclassfight.com/elections/wcp-2024/"
+},
+{
+"text": "WCP: 2026",
+"href": "https://www.workingclassfight.com/elections/wcp-2026/"
+},
+{
+"text": "We Need to Organize Under a Working Class Banner",
+"href": "https://www.workingclassfight.com/elections/los-angeles-2018/we-need-to-organize-under-a-working-class-banner/"
+},
+{
+"text": "We Will Have to Fight!",
+"href": "https://www.workingclassfight.com/we-need-to-fight/"
+},
+{
+"text": "Why Vote for Ed Hershey",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/why-vote-for-ed-hershey/"
+},
+{
+"text": "Working Class Party Candidates for State Senate",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/working-class-party-candidates-for-state-senate/"
+},
+{
+"text": "Working Class Party Chooses 11 Candidates in Michigan",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/"
+},
+{
+"text": "Working Class Party Chooses Its 2020 Michigan Candidates",
+"href": "https://www.workingclassfight.com/elections/michigan-2020/"
+},
+{
+"text": "Working Class Party Congressional Candidates",
+"href": "https://www.workingclassfight.com/elections/michigan-2018/working-class-party-congressional-candidates/"
+},
+{
+"text": "Working Class Party Program Statement for 2026",
+"href": "https://www.workingclassfight.com/blog/working-class-party-program-statement-for-2026/"
+},
+{
+"text": "Working Class Party in 2026",
+"href": "https://www.workingclassfight.com/elections/wcp-2026/"
+},
+{
+"text": "Yes, a Teacher Should Be Alderman!",
+"href": "https://www.workingclassfight.com/elections/chicago-2015/yes-a-teacher-should-be-alderman/"
+},
+{
+"text": "admin",
+"href": "https://www.workingclassfight.com/blog/author/admin/"
+},
+{
+"text": "debate organized and televised by FOX 32 Chicago",
+"href": "https://www.fox32chicago.com/news/election-2026-chuy-garcia-seat-candidates"
+},
+{
+"text": "read more",
+"href": "https://www.workingclassfight.com/blog/2026-09-20-speeches-at-wcp-rally-in-illinois/"
+},
+{
+"text": "read more",
+"href": "https://www.workingclassfight.com/blog/2026-ed-hershey-in-televised-debate/"
+},
+{
+"text": "read more",
+"href": "https://www.workingclassfight.com/blog/2026-lwv-vote411-for-ed-hershey-in-illinois/"
+},
+{
+"text": "read more",
+"href": "https://www.workingclassfight.com/blog/2026-picnic-ed-hershey-jordan-villas-speak/"
+},
+{
+"text": "read more",
+"href": "https://www.workingclassfight.com/blog/working-class-party-program-statement-for-2026/"
+},
+{
+"text": "see all",
+"href": "https://www.workingclassfight.com/blog/"
+},
+{
+"text": "→",
+"href": "https://www.workingclassfight.com/blog/?page=2"
+}
 ]

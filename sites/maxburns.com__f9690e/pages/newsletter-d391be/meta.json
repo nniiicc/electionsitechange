@@ -1,9 +1,9 @@
 {
  "description": "Stay informed with Max Burns for State Senate. Subscribe to our political newsletter for updates and insights.",
  "final_url": "https://maxburns.com/newsletter",
- "paid_for_by": null,
+ "fingerprint": "a07d3213b47777e4e1f4833e4e7fa1c421feeb8a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Newsletter",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

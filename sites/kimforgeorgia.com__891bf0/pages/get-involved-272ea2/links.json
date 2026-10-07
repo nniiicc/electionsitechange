@@ -1,15 +1,62 @@
 [
-"https://facebook.com/KimforGeorgia",
-"https://instagram.com/kimforgeorgia",
-"https://instagram.com/kimforgeorgia?hl=en",
-"https://kimforgeorgia.com/",
-"https://kimforgeorgia.com/district-41",
-"https://kimforgeorgia.com/endorsements",
-"https://kimforgeorgia.com/get-involved",
-"https://kimforgeorgia.com/meet-kim",
-"https://kimforgeorgia.com/platform",
-"https://secure.actblue.com/donate/kimjacksonforgeorgia",
-"https://twitter.com/KimforGeorgia",
-"https://webvolve.com/",
-"https://youtube.com/@KimforGeorgia"
+{
+"text": "District 41",
+"href": "https://www.kimforgeorgia.com/district-41/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kimjacksonforgeorgia"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kimforgeorgia.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kimforgeorgia.com/get-involved/"
+},
+{
+"text": "Meet Kim",
+"href": "https://www.kimforgeorgia.com/meet-kim/"
+},
+{
+"text": "Priorities",
+"href": "https://www.kimforgeorgia.com/platform/"
+},
+{
+"text": "Webvolve",
+"href": "https://www.webvolve.com"
+},
+{
+"text": "[image: Kim Jackson for Georgia]",
+"href": "https://www.kimforgeorgia.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/KimforGeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/KimforGeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/kimforgeorgia/?hl=en"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/KimforGeorgia"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/kimforgeorgia"
+},
+{
+"text": "x-twitter",
+"href": "https://twitter.com/KimforGeorgia"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@KimforGeorgia"
+}
 ]

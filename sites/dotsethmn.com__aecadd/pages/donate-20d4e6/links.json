@@ -1,29 +1,126 @@
 [
-"http://paypal.me/Dotseth/100",
-"http://paypal.me/Dotseth/1000",
-"http://paypal.me/Dotseth/150",
-"http://paypal.me/Dotseth/20.22",
-"http://paypal.me/Dotseth/2000",
-"http://paypal.me/Dotseth/250",
-"http://paypal.me/Dotseth/50",
-"http://paypal.me/Dotseth/500",
-"http://paypal.me/Dotseth/7.77",
-"http://paypal.me/Dotseth/75",
-"https://a.jimdo.com/app/auth/signin/jumpcms?page=2427539792",
-"https://cms.e.jimdo.com/app/cms/logout.php",
-"https://dotsethmn.com/",
-"https://dotsethmn.com/ads",
-"https://dotsethmn.com/app/download/13656720392/pcr-24.pdf?t=1787924216",
-"https://dotsethmn.com/cdn-cgi/l/email-protection",
-"https://dotsethmn.com/donate",
-"https://dotsethmn.com/endorsements",
-"https://dotsethmn.com/gallery",
-"https://dotsethmn.com/issues",
-"https://dotsethmn.com/social",
-"https://dotsethmn.com/volunteer",
-"https://dotsethmn.com/who",
-"https://paypal.com/paypalme2/Dotseth",
-"https://secure.anedot.com/c27b70a6-650e-4a29-a44f-b74ff6b2d719/673eb4e9-722e-45fe-baf2-d42df9833378",
-"https://secure.winred.com/jeffdotseth/donate",
-"https://secure.winred.com/jeffdotseth/storefront"
+{
+"text": "Ads",
+"href": "https://www.dotsethmn.com/ads/"
+},
+{
+"text": "Click Here",
+"href": "https://secure.anedot.com/c27b70a6-650e-4a29-a44f-b74ff6b2d719/673eb4e9-722e-45fe-baf2-d42df9833378"
+},
+{
+"text": "Click Here",
+"href": "https://secure.winred.com/jeffdotseth/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Donate Here",
+"href": "https://www.dotsethmn.com/donate/"
+},
+{
+"text": "Download",
+"href": "https://www.dotsethmn.com/app/download/13656720392/pcr-24.pdf?t=1787924216"
+},
+{
+"text": "Edit",
+"href": "https://a.jimdo.com/app/auth/signin/jumpcms/?page=2427539792"
+},
+{
+"text": "Endorsements",
+"href": "https://www.dotsethmn.com/endorsements/"
+},
+{
+"text": "Gallery",
+"href": "https://www.dotsethmn.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://www.dotsethmn.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dotsethmn.com/issues/"
+},
+{
+"text": "Log out",
+"href": "https://cms.e.jimdo.com/app/cms/logout.php"
+},
+{
+"text": "PayPal.Me/Dotseth/100",
+"href": "http://paypal.me/Dotseth/100"
+},
+{
+"text": "PayPal.Me/Dotseth/1000",
+"href": "http://paypal.me/Dotseth/1000"
+},
+{
+"text": "PayPal.Me/Dotseth/150",
+"href": "http://paypal.me/Dotseth/150"
+},
+{
+"text": "PayPal.Me/Dotseth/20.24",
+"href": "http://paypal.me/Dotseth/20.22"
+},
+{
+"text": "PayPal.Me/Dotseth/2000",
+"href": "http://paypal.me/Dotseth/2000"
+},
+{
+"text": "PayPal.Me/Dotseth/250",
+"href": "http://paypal.me/Dotseth/250"
+},
+{
+"text": "PayPal.Me/Dotseth/50",
+"href": "http://paypal.me/Dotseth/50"
+},
+{
+"text": "PayPal.Me/Dotseth/500",
+"href": "http://paypal.me/Dotseth/500"
+},
+{
+"text": "PayPal.Me/Dotseth/7.77",
+"href": "http://paypal.me/Dotseth/7.77"
+},
+{
+"text": "PayPal.Me/Dotseth/75",
+"href": "http://paypal.me/Dotseth/75"
+},
+{
+"text": "Paypal.Me/Dotseth",
+"href": "https://www.paypal.com/paypalme2/Dotseth"
+},
+{
+"text": "Scroll to top",
+"href": "javascript:void(0);"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/jeffdotseth/storefront/"
+},
+{
+"text": "Social",
+"href": "https://www.dotsethmn.com/social/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dotsethmn.com/volunteer/"
+},
+{
+"text": "Who",
+"href": "https://www.dotsethmn.com/who/"
+},
+{
+"text": "[email protected]",
+"href": "https://www.dotsethmn.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Download]",
+"href": "https://www.dotsethmn.com/app/download/13656720392/pcr-24.pdf?t=1787924216"
+},
+{
+"text": "[image: Jeff Dotseth for District 11A]",
+"href": "https://www.dotsethmn.com/"
+}
 ]

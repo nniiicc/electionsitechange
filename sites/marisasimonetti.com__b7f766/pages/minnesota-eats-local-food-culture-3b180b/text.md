@@ -1,9 +1,5 @@
-Donate NowHomeMeet UsReviewsFAQ
-I agree to be contacted by Marisa for Minnesota.
-To opt out, click the unsubscribe link in the emails.
-Join us & receive email updates.
-Marisa for Minnesota US Senate
-Lot #7060 PO BOX 17370 Saint Paul, MN 55117
-RECOMMENDED BY
-Donate Now
-Minnesota Eats & Local Food Culture
+Donate Now Home Meet Us Reviews FAQ Join us & receive email updates.
+Marisa for Minnesota US Senate Join Us I agree to be contacted by Marisa for Minnesota.
+To opt out, click the unsubscribe link in the emails. marisa4minnesota@marisasimonetti.com © # Prepared and paid for by Marisa for Minnesota Lot #7060 PO BOX 17370 Saint Paul, MN 55117 RECOMMENDED BY John Bristol for State Representative Tad Jude for US Congress Pam Altendorf House of Representatives 20A Steven Jacob House of Representatives 20B Senator Karin Housely Donate Now Dennis Walsh, Mayor of Orono ≡ :::: Tap to close menu Home News Blog Housing & Homeownership in Minnesota Minnesota Eats & Local Food Culture Things to Do in Minnesota Minnesota Eats & Local Food Culture Top 5 Must-Try Restaurants in Stillwater, MN 7 Hidden Gem Diners in Greater Minnesota You Have to Try Can’t-Miss Summer Food Festivals Near Lakeville, Belle Plaine, and Farmington The Ultimate Guide to Hole-in-the-Wall Restaurants in Savage, Rosemount, and New Prague Top 10 Must-Try Foods at the Minnesota State Fair Best Farmers Markets in Rice, Washington, and Anoka Counties for Fresh Minnesota Produce 10 Hidden Gem Restaurants Worth the Drive in Anoka, Rice, and Sherburne Counties Top 10 Foods to Try at the Minnesota State Fair in 2025 Top 10 State Fair Foods Ranked by Real Minnesotans What’s the Best Hole-in-the-Wall Restaurant in Minnesota?
+What’s the Best Farmers Market in Minnesota (And What Should You Buy There)?
+7 Minnesota Restaurants That Feel Like a Vacation The 9 Best Ice Cream Shops in Minnesota Hidden Gem Food Trucks in Minnesota You’ll Regret Missing This Summer Affordable Home Repairs in Burnsville, Prior Lake, and Farmington Best Local Food Experiences in Minnesota: Hidden Gems, Farmers’ Markets & State Fair Favorites Iconic Minnesota Comfort Foods: Hotdish, Walleye, Wild Rice & More Farmers’ Markets & Farm-to-Table in Minnesota: Fresh, Local, and Sustainable Best Bakeries & Coffee Shops in Minnesota: Hidden Gems & Local Favorites Minnesota Comfort Soups & Stews: Wild Rice, Chicken Dumpling & More Best Pies & Desserts in Minnesota: Local Favorites & Hidden Gems Best Food Trucks & Street Eats in Minnesota 2025: Flavor on the Move Minnesota’s Best Seasonal Fall & Winter Comfort Drinks Classic Minnesota Breakfasts & Brunch Culture: Diners, Traditions, and Weekend Rituals Minnesota’s Best Fall & Winter Comfort Drinks: Warm, Local, and Perfect for 2026

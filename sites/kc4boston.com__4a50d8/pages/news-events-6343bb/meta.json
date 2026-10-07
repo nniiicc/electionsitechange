@@ -1,7 +1,9 @@
 {
  "description": "Upcoming News and Events",
  "final_url": "https://www.kc4boston.com/news-events",
- "paid_for_by": null,
+ "fingerprint": "421f96c9fd45af12fcabf489d0db511de403fe2a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "kc4boston - News & Events",
  "years_mentioned": []
 }

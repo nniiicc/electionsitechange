@@ -1,17 +1,78 @@
 [
-"https://bsky.app/profile/johndaycongress.bsky.social",
-"https://facebook.com/people/John-Day-for-Congress/61587179425827",
-"https://instagram.com/johndayforcongress",
-"https://johndayforcongress.com/",
-"https://johndayforcongress.com/about-john-day-for-congress",
-"https://johndayforcongress.com/contact-john-day-for-congress",
-"https://johndayforcongress.com/john-day-for-congress-get-involved",
-"https://johndayforcongress.com/john-day-for-congress-platform",
-"https://johndayforcongress.com/john-day-for-congress-volunteer",
-"https://johndayforcongress.com/john-day-for-congress-why-me",
-"https://secure.numero.ai/contribute/John-Day-for-Congress-Louisiana-s-3rd-District",
-"https://secure.numero.ai/signup/day-petition-signatures",
-"https://sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx",
-"https://tiktok.com/@johndayforcongress",
-"https://x.com/JohnDayCongress"
+{
+"text": "About John Day",
+"href": "https://johndayforcongress.com/about-john-day-for-congress/"
+},
+{
+"text": "Click here to help us gather petitions to get John on the ballot!",
+"href": "https://secure.numero.ai/signup/day-petition-signatures"
+},
+{
+"text": "Contact",
+"href": "https://johndayforcongress.com/contact-john-day-for-congress/"
+},
+{
+"text": "Contact Us",
+"href": "https://johndayforcongress.com/contact-john-day-for-congress/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.numero.ai/contribute/John-Day-for-Congress-Louisiana-s-3rd-District"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.numero.ai/contribute/John-Day-for-Congress-Louisiana-s-3rd-District"
+},
+{
+"text": "Home",
+"href": "https://johndayforcongress.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://johndayforcongress.com/john-day-for-congress-platform/"
+},
+{
+"text": "Platform",
+"href": "https://johndayforcongress.com/john-day-for-congress-platform/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.la.gov/ElectionsAndVoting/RegisterToVote/Pages/default.aspx"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://johndayforcongress.com/john-day-for-congress-get-involved/"
+},
+{
+"text": "Volunteer",
+"href": "https://johndayforcongress.com/john-day-for-congress-volunteer/"
+},
+{
+"text": "Why Me?",
+"href": "https://johndayforcongress.com/john-day-for-congress-why-me/"
+},
+{
+"text": "[image]",
+"href": "https://johndayforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/johndaycongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/John-Day-for-Congress/61587179425827/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/johndayforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@johndayforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JohnDayCongress"
+}
 ]

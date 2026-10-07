@@ -1,23 +1,98 @@
 [
-"http://x.com/darrensoto",
-"https://darrensoto.com/",
-"https://darrensoto.com/issues",
-"https://darrensoto.com/media",
-"https://darrensoto.com/new-map",
-"https://darrensoto.com/privacy-policy",
-"https://darrensoto.com/spanish",
-"https://darrensoto.com/support",
-"https://darrensoto.com/volunteer",
-"https://darrensoto.com/volunteer-1",
-"https://darrensoto.com/vote",
-"https://darrensoto.com/vote/glades-county",
-"https://darrensoto.com/vote/highlands-county",
-"https://darrensoto.com/vote/indian-river-county",
-"https://darrensoto.com/vote/okeechobee-county",
-"https://darrensoto.com/vote/orange-county",
-"https://darrensoto.com/vote/osceola-county",
-"https://darrensoto.com/vote/polk-county",
-"https://facebook.com/DarrenSotoFlorida",
-"https://secure.actblue.com/contribute/page/soto?amount=9",
-"https://youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+{
+"text": "Canvassing",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+},
+{
+"text": "En Español",
+"href": "https://www.darrensoto.com/spanish"
+},
+{
+"text": "Glades County",
+"href": "https://www.darrensoto.com/vote/glades-county"
+},
+{
+"text": "Highlands County",
+"href": "https://www.darrensoto.com/vote/highlands-county"
+},
+{
+"text": "Home",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "Indian River County",
+"href": "https://www.darrensoto.com/vote/indian-river-county"
+},
+{
+"text": "Issues",
+"href": "https://www.darrensoto.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.darrensoto.com/media"
+},
+{
+"text": "New FL-9 District Map",
+"href": "https://www.darrensoto.com/new-map"
+},
+{
+"text": "Okeechobee County",
+"href": "https://www.darrensoto.com/vote/okeechobee-county"
+},
+{
+"text": "Orange County",
+"href": "https://www.darrensoto.com/vote/orange-county"
+},
+{
+"text": "Organizational Support",
+"href": "https://www.darrensoto.com/support"
+},
+{
+"text": "Osceola County",
+"href": "https://www.darrensoto.com/vote/osceola-county"
+},
+{
+"text": "Phone Banking",
+"href": "https://www.darrensoto.com/volunteer-1"
+},
+{
+"text": "Polk County",
+"href": "https://www.darrensoto.com/vote/polk-county"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrensoto.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrensoto.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://www.darrensoto.com/vote"
+},
+{
+"text": "[image: Darren Soto]",
+"href": "https://www.darrensoto.com/"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/darrensoto"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DarrenSotoFlorida/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCMPJK6_8Qou5dZnmNPhk2gg"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/contribute/page/soto?amount=9"
+}
 ]

@@ -1,7 +1,30 @@
 [
-"https://facebook.com/smithforwvdelegate",
-"https://smithforwvdelegate.com/",
-"https://smithforwvdelegate.com/donate-page",
-"https://smithforwvdelegate.com/home-1",
-"https://smithforwvdelegate.com/news"
+{
+"text": "About Stephen",
+"href": "https://www.smithforwvdelegate.com/home-1"
+},
+{
+"text": "DONATE",
+"href": "https://www.smithforwvdelegate.com/donate-page"
+},
+{
+"text": "Get Involved",
+"href": "https://www.smithforwvdelegate.com#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.smithforwvdelegate.com#about"
+},
+{
+"text": "News from Stephen",
+"href": "https://www.smithforwvdelegate.com/news"
+},
+{
+"text": "[image: Homepage]",
+"href": "https://www.smithforwvdelegate.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/smithforwvdelegate/"
+}
 ]

@@ -1,18 +1,142 @@
 [
-"https://facebook.com/profile.php?id=61575386242741",
-"https://instagram.com/chuckmurphyfordelegate?igsh=emFmZzR2NjAwemp3",
-"https://murphyfordelegate42a.com/",
-"https://murphyfordelegate42a.com/about",
-"https://murphyfordelegate42a.com/contact-us",
-"https://murphyfordelegate42a.com/endorsements",
-"https://murphyfordelegate42a.com/issues",
-"https://murphyfordelegate42a.com/privacy",
-"https://murphyfordelegate42a.com/volunteer",
-"https://secure.anedot.com/murphy-for-delegate/donate",
-"https://secure.anedot.com/murphy-for-delegate/donate?amount=10",
-"https://secure.anedot.com/murphy-for-delegate/donate?amount=100",
-"https://secure.anedot.com/murphy-for-delegate/donate?amount=25",
-"https://secure.anedot.com/murphy-for-delegate/donate?amount=250",
-"https://secure.anedot.com/murphy-for-delegate/donate?amount=50",
-"https://x.com/chuckfor55856?s=21"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://murphyfordelegate42a.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://murphyfordelegate42a.com/contact-us/"
+},
+{
+"text": "Creating Jobs",
+"href": "https://murphyfordelegate42a.com/issues/#creating-jobs"
+},
+{
+"text": "Defending our Freedoms",
+"href": "https://murphyfordelegate42a.com/issues/#defending-our-freedoms"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://murphyfordelegate42a.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://murphyfordelegate42a.com/"
+},
+{
+"text": "Issues",
+"href": "https://murphyfordelegate42a.com/issues/"
+},
+{
+"text": "Join the Team!",
+"href": "https://murphyfordelegate42a.com/volunteer/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://murphyfordelegate42a.com/about/"
+},
+{
+"text": "Learn more",
+"href": "https://murphyfordelegate42a.com/issues/#creating-jobs"
+},
+{
+"text": "Learn more",
+"href": "https://murphyfordelegate42a.com/issues/#defending-our-freedoms"
+},
+{
+"text": "Learn more",
+"href": "https://murphyfordelegate42a.com/issues/#opposing-the-maryland-piedmont-reliability-project"
+},
+{
+"text": "Learn more",
+"href": "https://murphyfordelegate42a.com/issues/#protecting-marylanders"
+},
+{
+"text": "Learn more",
+"href": "https://murphyfordelegate42a.com/issues/#taxes-and-management"
+},
+{
+"text": "OTHER",
+"href": "https://secure.anedot.com/murphy-for-delegate/donate"
+},
+{
+"text": "Opposing the Maryland Piedmont Reliability Project",
+"href": "https://murphyfordelegate42a.com/issues/#opposing-the-maryland-piedmont-reliability-project"
+},
+{
+"text": "Privacy & Terms",
+"href": "https://murphyfordelegate42a.com/privacy"
+},
+{
+"text": "Protecting Marylanders",
+"href": "https://murphyfordelegate42a.com/issues/#protecting-marylanders"
+},
+{
+"text": "Taxes and Management",
+"href": "https://murphyfordelegate42a.com/issues/#taxes-and-management"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://murphyfordelegate42a.com/volunteer/"
+},
+{
+"text": "[image: Chuck Murphy]",
+"href": "https://murphyfordelegate42a.com/"
+},
+{
+"text": "[no text]",
+"href": "https://murphyfordelegate42a.com/issues/#creating-jobs"
+},
+{
+"text": "[no text]",
+"href": "https://murphyfordelegate42a.com/issues/#defending-our-freedoms"
+},
+{
+"text": "[no text]",
+"href": "https://murphyfordelegate42a.com/issues/#opposing-the-maryland-piedmont-reliability-project"
+},
+{
+"text": "[no text]",
+"href": "https://murphyfordelegate42a.com/issues/#protecting-marylanders"
+},
+{
+"text": "[no text]",
+"href": "https://murphyfordelegate42a.com/issues/#taxes-and-management"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575386242741"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/chuckmurphyfordelegate?igsh=emFmZzR2NjAwemp3"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/chuckfor55856?s=21"
+}
 ]

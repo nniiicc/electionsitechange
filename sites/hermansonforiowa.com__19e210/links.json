@@ -1,9 +1,30 @@
 [
-"http://fb.com/hermanson4iowa",
-"https://hermansonforiowa.com/",
-"https://hermansonforiowa.com/2465-2",
-"https://hermansonforiowa.us13.list-manage.com/subscribe?u=401d594bf71e602f520b408cf&id=5a66c8de34",
-"https://kadencewp.com/",
-"https://secure.anedot.com/hermanson/donate",
-"https://secure.anedot.com/hermanson/donate?amount=50"
+{
+"text": "CLICK HERE TO CONTRIBUTE",
+"href": "https://secure.anedot.com/hermanson/donate?amount=50"
+},
+{
+"text": "CONTACT!",
+"href": "https://hermansonforiowa.com/2465-2/"
+},
+{
+"text": "DONATE!",
+"href": "https://secure.anedot.com/hermanson/donate"
+},
+{
+"text": "FOLLOW!",
+"href": "http://fb.com/hermanson4iowa"
+},
+{
+"text": "Kadence WP",
+"href": "https://www.kadencewp.com/"
+},
+{
+"text": "SUBSCRIBE!",
+"href": "https://hermansonforiowa.us13.list-manage.com/subscribe?u=401d594bf71e602f520b408cf&id=5a66c8de34"
+},
+{
+"text": "[image: Hermanson for Iowa]",
+"href": "https://hermansonforiowa.com/"
+}
 ]

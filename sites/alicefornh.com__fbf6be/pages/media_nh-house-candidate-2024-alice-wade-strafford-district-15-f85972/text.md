@@ -1,5 +1,2 @@
-NH House candidate 2024: Alice Wade, Strafford District 15
-Candidate Alice Wade shares her views as she seeks election in Strafford 15's state representative district (Dover Ward 2).
-Written By Alice Wade
-Previous
-Next
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate NH House candidate 2024: Alice Wade, Strafford District 15 Oct 14 Written By Alice Wade Candidate Alice Wade shares her views as she seeks election in Strafford 15's state representative district (Dover Ward 2).
+Alice Wade Previous Previous My Thoughts on the 2024 Election Next Next Op-Ed: Our Solvable Climate Crisis Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

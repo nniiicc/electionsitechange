@@ -1,30 +1,122 @@
 [
-"https://aft-wisconsin.org/",
-"https://andrewtarcon.com/",
-"https://bacwi.org/",
-"https://carecandidates.org/",
-"https://cfequality.org/members/endorsements/2026",
-"https://citizenactionwi.org/2026-fall-endorsements",
-"https://conservationvoters.org/",
-"https://facebook.com/PhelpsCampaign",
-"https://ibewgov.org/",
-"https://instagram.com/cs_phelps",
-"https://leaderswedeserve.com/candidate/christian-phelps",
-"https://liunawisconsin.org/",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://phelpscampaign.com/",
-"https://phelpscampaign.com/endorsements",
-"https://phelpscampaign.com/issues",
-"https://phelpscampaign.com/meet-christian",
-"https://phelpscampaign.com/news",
-"https://plannedparenthoodaction.org/planned-parenthood-advocates-wisconsin",
-"https://secure.actblue.com/donate/phelps-campaign-committee-1",
-"https://seiuwi.org/",
-"https://sierraclub.org/",
-"https://victoryfund.org/candidate/christian-phelps",
-"https://weac.org/",
-"https://wesocialists.com/endorsed-candidates",
-"https://wisaflcio.org/candidate-endorsements",
-"https://wisconsinprogress.org/",
-"https://workingfamilies.org/candidates"
+{
+"text": "Andrew Tarcon",
+"href": "https://andrewtarcon.com"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@phelpscampaign.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/phelps-campaign-committee-1"
+},
+{
+"text": "Endorsements",
+"href": "https://phelpscampaign.com/endorsements/"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "Home",
+"href": "https://phelpscampaign.com/"
+},
+{
+"text": "Issues",
+"href": "https://phelpscampaign.com/issues/"
+},
+{
+"text": "Meet Christian",
+"href": "https://phelpscampaign.com/meet-christian/"
+},
+{
+"text": "News & Events",
+"href": "https://phelpscampaign.com/news/"
+},
+{
+"text": "[image: 259661779_269410171891910_655320045763960251_n]",
+"href": "https://workingfamilies.org/candidates/"
+},
+{
+"text": "[image: CFE-PAC_vert]",
+"href": "https://www.cfequality.org/members/endorsements/2026"
+},
+{
+"text": "[image: Care4WI-Endorsement-Graphic-2026]",
+"href": "https://carecandidates.org/"
+},
+{
+"text": "[image: Christian Phelps For State Assembly]",
+"href": "https://phelpscampaign.com"
+},
+{
+"text": "[image: Copy of Untitled]",
+"href": "https://citizenactionwi.org/2026-fall-endorsements/"
+},
+{
+"text": "[image: IBEW-Logo]",
+"href": "https://ibewgov.org/"
+},
+{
+"text": "[image: New State Logo]",
+"href": "https://bacwi.org/"
+},
+{
+"text": "[image: OIP]",
+"href": "https://www.aft-wisconsin.org/"
+},
+{
+"text": "[image: SealofEndorsement_WCV]",
+"href": "https://conservationvoters.org/"
+},
+{
+"text": "[image: Sierra Club Endorsement Seal_Color-1 (1)]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: WES-logo]",
+"href": "https://www.wesocialists.com/endorsed-candidates/"
+},
+{
+"text": "[image: Wisconsin-logo-WHITE_edited]",
+"href": "https://www.seiuwi.org/"
+},
+{
+"text": "[image: endorsement-badges-2026-Endorsed]",
+"href": "https://victoryfund.org/candidate/christian-phelps/"
+},
+{
+"text": "[image: image]",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-advocates-wisconsin"
+},
+{
+"text": "[image: leaders_we_deserve-logo-a-1-3]",
+"href": "https://leaderswedeserve.com/candidate/christian-phelps/"
+},
+{
+"text": "[image: logo]",
+"href": "https://weac.org/"
+},
+{
+"text": "[image: wi.box_.social_0.png]",
+"href": "https://wisaflcio.org/candidate-endorsements"
+},
+{
+"text": "[image: wisconsin-progress-logo-full-color-cmyk-1500px-w-300ppi]",
+"href": "https://www.wisconsinprogress.org/"
+},
+{
+"text": "[image: wldc_weblogo_fixed (1) (1)]",
+"href": "https://liunawisconsin.org/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/PhelpsCampaign"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cs_phelps/"
+}
 ]

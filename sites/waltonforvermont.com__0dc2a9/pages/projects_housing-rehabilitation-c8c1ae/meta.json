@@ -1,7 +1,11 @@
 {
  "description": "Practical work with residential housing, property rehabilitation, maintenance, financing, and the recurring challenge of making difficult buildings function.",
  "final_url": "https://www.waltonforvermont.com/projects/housing-rehabilitation",
- "paid_for_by": null,
+ "fingerprint": "9d1069d43f032eb236ada3a9e108f9044162b2b0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Housing & Rehabilitation | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

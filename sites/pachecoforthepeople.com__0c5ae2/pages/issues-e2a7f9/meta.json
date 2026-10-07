@@ -1,9 +1,12 @@
 {
  "description": "Edward Pacheco on the issues",
  "final_url": "https://www.pachecoforthepeople.com/issues",
- "paid_for_by": null,
+ "fingerprint": "7b6bf36e80589c68abe812f8036c041e22d41417",
+ "format": 3,
+ "paid_for_by": "",
  "title": "On the Issues",
  "years_mentioned": [
-  "2020"
+  "2020",
+  "2026"
  ]
 }

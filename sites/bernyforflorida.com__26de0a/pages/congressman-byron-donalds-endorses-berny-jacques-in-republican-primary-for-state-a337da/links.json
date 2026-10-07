@@ -1,10 +1,38 @@
 [
-"https://bernyforflorida.com/",
-"https://bernyforflorida.com/meet-berny",
-"https://bernyforflorida.com/news",
-"https://facebook.com/BernyForFlorida",
-"https://flvoicenews.com/congressman-byron-donalds-endorses-berny-jacques-in-republican-primary-for-state-representative",
-"https://instagram.com/bernyjacques",
-"https://secure.anedot.com/berny-jacques-election-campaign/donate",
-"https://twitter.com/BernyJacques"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/berny-jacques-election-campaign/donate"
+},
+{
+"text": "Florida Voice",
+"href": "https://flvoicenews.com/congressman-byron-donalds-endorses-berny-jacques-in-republican-primary-for-state-representative/"
+},
+{
+"text": "Home",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "In the News",
+"href": "https://bernyforflorida.com/news/"
+},
+{
+"text": "Meet Berny",
+"href": "https://bernyforflorida.com/meet-berny/"
+},
+{
+"text": "[image: Berny Jacques for State Representative]",
+"href": "https://bernyforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BernyForFlorida"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bernyjacques"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BernyJacques"
+}
 ]

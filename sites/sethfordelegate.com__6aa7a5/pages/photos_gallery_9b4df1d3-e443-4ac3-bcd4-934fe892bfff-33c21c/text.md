@@ -1,4 +1,4 @@
-Smithsonian Environmental Research Center Ribbon Cuttin
-I was very honored to have been asked to attend and briefly speak at the ribbon cutting ceremony for SERC.
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Smithsonian Environmental Research Center Ribbon Cuttin I was very honored to have been asked to attend and briefly speak at the ribbon cutting ceremony for SERC.
 Their research has played an important role in not just monitoring but also helping to form policy that improves the health of the Chesapeake Bay.
 Also, I enjoyed my opportunity to speak with Lonnie Bunch, the 14th Secretary of the Smithsonian.
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

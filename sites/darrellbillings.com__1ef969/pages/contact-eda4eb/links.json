@@ -1,12 +1,50 @@
 [
-"https://darrellbillings.com/",
-"https://darrellbillings.com/about",
-"https://darrellbillings.com/contact",
-"https://darrellbillings.com/issues",
-"https://darrellbillings.com/privacy-policy",
-"https://darrellbillings.com/terms-of-service",
-"https://darrellbillings.com/volunteer",
-"https://facebook.com/billingsforrep",
-"https://ryvall.com/",
-"https://secure.winred.com/darrell-billings-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "About",
+"href": "https://www.darrellbillings.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.darrellbillings.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/darrell-billings-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.darrellbillings.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.darrellbillings.com/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrellbillings.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.darrellbillings.com/terms-of-service"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darrellbillings.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/billingsforrep"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/darrell-billings-for-state-representative/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "[no text]",
+"href": "https://www.darrellbillings.com/contact"
+}
 ]

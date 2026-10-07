@@ -1,4 +1,8 @@
-Mujtaba: The People’s Advocate.
+Skip to content (Press Enter) P.
+O.
+Box 30773, Charlotte, NC, 28230 info@mohammednc.com HOME MEET MUJTABA ISSUES ENDORSEMENTS CONTRIBUTE P.
+O.
+Box 30773, Charlotte, NC, 28230 info@mohammednc.com Mohammednc HOME MEET MUJTABA ISSUES ENDORSEMENTS CONTRIBUTE Home > MEET MUJTABA MEET MUJTABA Mujtaba: The People’s Advocate.
 A longtime Charlotte resident, Mujtaba was born in the United States to hardworking immigrant parents from India and raised in the Carolinas under modest means.
 From a young age, he learned the values of family, service, and gratitude.
 His parents instilled in him the importance of putting others before self and appreciating life’s simple blessings.
@@ -10,27 +14,5 @@ He has worked tirelessly to connect working families to the services they need w
 His passion for fairness and opportunity led Governor Roy Cooper to appoint him to the North Carolina Council on Developmental Disabilities and the North Carolina Task Force for Racial Equity in Criminal Justice.
 Elected to the North Carolina State Senate in 2018, Mujtaba remains committed to ensuring every child and family has the opportunity for a brighter future.
 When he’s not advocating for his community, Mujtaba loves spending time with his family and raising his three children in northeast Charlotte.
-North Carolina State Senate Committees (2022-2024 Session)
-- Senate Judiciary Committee, Member
-- Senate Health Care Committee, Member
-- Senate Appropriations/Base Budget Committee, Member
-- Senate Appropriations on Justice & Public Safety Committee, Member
-- Senate Redistricting & Elections Committee, Member
-- Senate Rules & Operations Committee, Member
-- Legislative Ethics Committee, Member
-- Joint Legislative Oversight Committee on Justice & Public Safety, Member
-- Joint Legislative Administrative Procedure Oversight Committee, Member
-- Joint Legislative Oversight Committee on Unemployment Insurance, Member
-- NC Legislative Black Caucus, Executive Committee Member
-Community Involvement:
-- Mecklenburg County Public Defender’s Office, Former Assistant Public Defender
-- Council for Children’s Rights, Former Staff Attorney
-- North Carolina Taskforce for Racial Equity in Criminal Justice, Governor’s Appointment
-- North Carolina Council on Developmental Disabilities, Governor’s Appointment
-- Council for Children’s Rights, Former Board of Directors
-- Mecklenburg Ministries (MeckMin), Former Member Board of Directors
-- Mecklenburg County Bar, Former Member Diversity and Inclusion Committee
-- Larry King’s Clubhouse: Children’s Care Center, Former Member Board of Directors
-- Leading on Opportunity Council, Former Community At-Large Representative
-- Mecklenburg County Democratic Party, Former Vice-Chair
-- NC Democratic Party, Former 12th Congressional District Representative on Council of Review
+North Carolina State Senate Committees (2022-2024 Session) Senate Judiciary Committee, Member Senate Health Care Committee, Member Senate Appropriations/Base Budget Committee, Member Senate Appropriations on Justice & Public Safety Committee, Member Senate Redistricting & Elections Committee, Member Senate Rules & Operations Committee, Member Legislative Ethics Committee, Member Joint Legislative Oversight Committee on Justice & Public Safety, Member Joint Legislative Administrative Procedure Oversight Committee, Member Joint Legislative Oversight Committee on Unemployment Insurance, Member NC Legislative Black Caucus , Executive Committee Member Community Involvement: Mecklenburg County Public Defender’s Office, Former Assistant Public Defender Council for Children’s Rights, Former Staff Attorney North Carolina Taskforce for Racial Equity in Criminal Justice, Governor’s Appointment North Carolina Council on Developmental Disabilities, Governor’s Appointment Council for Children’s Rights, Former Board of Directors Mecklenburg Ministries (MeckMin), Former Member Board of Directors Mecklenburg County Bar, Former Member Diversity and Inclusion Committee Larry King’s Clubhouse: Children’s Care Center, Former Member Board of Directors Leading on Opportunity Council , Former Community At-Large Representative Mecklenburg County Democratic Party, Former Vice-Chair NC Democratic Party, Former 12 th Congressional District Representative on Council of Review Copyright © # Mohammednc .
+Rara Business | Developed By Rara Themes Powered by WordPress .

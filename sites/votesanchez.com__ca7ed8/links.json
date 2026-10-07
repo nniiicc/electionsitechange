@@ -1,7 +1,26 @@
 [
-"https://facebook.com/dennis.sanchez.388405",
-"https://instagram.com/sanchez4assembly",
-"https://secure.anedot.com/dennis-sanchez-for-assembly/donate",
-"https://votesanchez.com/wp-content/uploads/2026/08/dennis-sanchez-for-state-assembly-District-29-1.jpeg",
-"https://x.com/DSanchez4CA"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/dennis-sanchez-for-assembly/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/dennis-sanchez-for-assembly/donate"
+},
+{
+"text": "Download Flyer",
+"href": "https://votesanchez.com/wp-content/uploads/2026/08/dennis-sanchez-for-state-assembly-District-29-1.jpeg"
+},
+{
+"text": "FB",
+"href": "https://www.facebook.com/dennis.sanchez.388405"
+},
+{
+"text": "IG",
+"href": "https://www.instagram.com/sanchez4assembly/"
+},
+{
+"text": "X",
+"href": "https://x.com/DSanchez4CA"
+}
 ]

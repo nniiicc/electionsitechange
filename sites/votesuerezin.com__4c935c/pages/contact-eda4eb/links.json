@@ -1,7 +1,26 @@
 [
-"https://electsuerezin.com/",
-"https://electsuerezin.com/about",
-"https://electsuerezin.com/contact",
-"https://facebook.com/RezinforIllinois",
-"https://secure.winred.com/friends-of-sue-rezin-c8efeeee/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+{
+"text": "About",
+"href": "https://electsuerezin.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://electsuerezin.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-sue-rezin-c8efeeee/donate-today?sc=winred-directory&money_bomb=false&recurring=false&exitintent=true"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/RezinforIllinois"
+},
+{
+"text": "Home",
+"href": "https://electsuerezin.com/"
+},
+{
+"text": "[image]",
+"href": "https://electsuerezin.com"
+}
 ]

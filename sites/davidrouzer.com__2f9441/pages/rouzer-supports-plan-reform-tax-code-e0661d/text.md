@@ -1,30 +1,10 @@
-Via The Johnston County Report
-Washington, D.C. – House Republicans this week unveiled a comprehensive plan to reform our nation’s tax code, grow the economy and make the IRS work for the American taxpayers.
+Skip to content Home Meet David Issues News Coalitions Contact Volunteer Contribute Sign Up for Updates Email (Required) Zip (Required) Subscribe Join Our Fight Today!
+Contribute ROUZER SUPPORTS PLAN TO REFORM TAX CODE August 3, 2016 Via The Johnston County Report Washington, D.C. – House Republicans this week unveiled a comprehensive plan to reform our nation’s tax code, grow the economy and make the IRS work for the American taxpayers.
 This plan, referred to as “A Better Way for Tax Reform,” includes 47 ideas which focus on three principles: simplification, growth and IRS reform.
 “Our country deserves a bold, pro-growth agenda that creates jobs, grows the economy, makes America competitive again, and reforms the IRS,” said Rep.
 David Rouzer (NC-07).
-“Unfortunately, our broken and outdated tax code stands in the way of these goals.”
-“A Better Way for Tax Reform’ reforms our tax code for the first time in nearly 30 years by putting forth a tax code so simple and fair that you will able to file your taxes on a postcard,” Rouzer said.
-“It makes it easier for taxpayers to file their taxes, lowers taxes on small businesses of all types – including the vast number that file individual tax returns, lowers our corporate tax rate so that companies are incentivized to bring jobs back to America, and reforms the IRS so that the agency works for the American people.”
-“A Better Way for Tax Reform” makes the tax code simpler, fairer and flatter by:
-- Putting forth a new tax form as simple as a postcard;
-- Consolidating the system down to three tax brackets, and lowering the top individual income tax rate to 33%;
-- Creating a larger standard deduction and a larger child and dependent tax credit;
-- Making it easier to pay for college by streamlining the maze of education tax benefits;
-- Eliminating the alternative minimum tax so the middle class doesn’t get hit with an unexpected tax bill;
-- Rewarding work by improving the Earned Income Tax Credit;
-- Encouraging more charitable giving by providing a real tax incentive;
-- Helping families plan for retirement by reforming savings provisions;
-- Stopping the over-taxation of “Made in America” products; and,
-- Repealing the death tax so that the loss of a family member doesn’t mean the federal government also gets to essentially steal your inheritance.
-“A Better Way for Tax Reform” makes it easier to create jobs, raise wages and expand opportunities for all Americans by:
-- Cutting taxes on all small businesses by creating a separate, low tax rate of 25%;
-- Allowing families and individuals to deduct 50% of the dividends, capital gains and interest received from stocks and mutual funds;
-- Lowering the corporate tax rate from 35%, the highest in the industrialized world, to 20%; and,
-- Eliminating the death tax.
-“A Better Way for Tax Reform” requires a simpler, fairer IRS with the sole mission of putting American taxpayers first by:
-- Restructuring the IRS around three major units: one for individuals and families, one for businesses of all sizes, and one that provides an independent “small claims court” approach to resolving routine disputes quickly;
-- Installing a new commissioner, subject to two 3 year term limits, who will be required to administer the new tax code;
-- Cutting down on IRS intimidating by creating an Office of Dispute Resolution to serve as an independent arbiter to protect the rights of American taxpayers;
-- Cleaning out the bureaucracy by doing away with all the rules, regulations, forms and instructions; and,
-- Modernizing information systems so that taxpayers have access to the resources they need when they need them.
+“Unfortunately, our broken and outdated tax code stands in the way of these goals.” “A Better Way for Tax Reform’ reforms our tax code for the first time in nearly 30 years by putting forth a tax code so simple and fair that you will able to file your taxes on a postcard,” Rouzer said.
+“It makes it easier for taxpayers to file their taxes, lowers taxes on small businesses of all types – including the vast number that file individual tax returns, lowers our corporate tax rate so that companies are incentivized to bring jobs back to America, and reforms the IRS so that the agency works for the American people.” “A Better Way for Tax Reform” makes the tax code simpler, fairer and flatter by: Putting forth a new tax form as simple as a postcard; Consolidating the system down to three tax brackets, and lowering the top individual income tax rate to 33%; Creating a larger standard deduction and a larger child and dependent tax credit; Making it easier to pay for college by streamlining the maze of education tax benefits; Eliminating the alternative minimum tax so the middle class doesn’t get hit with an unexpected tax bill; Rewarding work by improving the Earned Income Tax Credit; Encouraging more charitable giving by providing a real tax incentive; Helping families plan for retirement by reforming savings provisions; Stopping the over-taxation of “Made in America” products; and, Repealing the death tax so that the loss of a family member doesn’t mean the federal government also gets to essentially steal your inheritance.
+“A Better Way for Tax Reform” makes it easier to create jobs, raise wages and expand opportunities for all Americans by: Cutting taxes on all small businesses by creating a separate, low tax rate of 25%; Allowing families and individuals to deduct 50% of the dividends, capital gains and interest received from stocks and mutual funds; Lowering the corporate tax rate from 35%, the highest in the industrialized world, to 20%; and, Eliminating the death tax.
+“A Better Way for Tax Reform” requires a simpler, fairer IRS with the sole mission of putting American taxpayers first by: Restructuring the IRS around three major units: one for individuals and families, one for businesses of all sizes, and one that provides an independent “small claims court” approach to resolving routine disputes quickly; Installing a new commissioner, subject to two 3 year term limits, who will be required to administer the new tax code; Cutting down on IRS intimidating by creating an Office of Dispute Resolution to serve as an independent arbiter to protect the rights of American taxpayers; Cleaning out the bureaucracy by doing away with all the rules, regulations, forms and instructions; and, Modernizing information systems so that taxpayers have access to the resources they need when they need them.
+Contribute Meet David Issues News Coalitions Contact Volunteer PAID FOR BY DAVID ROUZER FOR CONGRESS PO BOX 3142, WILMINGTON, NC 28406 Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

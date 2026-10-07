@@ -1,11 +1,3 @@
-Back to All Events
-Watch for Mark in the Oregon Trail Parade, and then stop by Mark‘s booth at the Legion Park.
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Oregon Trail Days Saturday, July 11, 2026 10:00 AM 3:00 PM 1320 12th Street Gering, Nebraska, 69341 (map) Google Calendar ICS Watch for Mark in the Oregon Trail Parade, and then stop by Mark‘s booth at the Legion Park.
 Petitions will be available to get Mark on the ballot this November.
-Mark will also be at the park on Sunday, July 12th from 10am-3pm
-Previous
-Previous
-July 10
-Fur Trade Days
-Next
-Next
-September 4
+Mark will also be at the park on Sunday, July 12th from 10am-3pm Previous Previous July 10 Fur Trade Days Next Next September 4 The Back Roads Tour Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

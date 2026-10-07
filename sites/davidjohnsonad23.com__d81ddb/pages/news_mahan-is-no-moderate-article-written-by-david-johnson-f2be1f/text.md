@@ -1,5 +1,3 @@
-25
-Mar
-Wednesday, 1:57 PM · 2026
-Committee to Elect David Johnson
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet David Issues Photos News Endorsements News / "Mahan Is No Moderate" - Article written by David Johnson 25 Mar Wednesday, 1:57 PM · 2026 "Mahan Is No Moderate" - Article written by David Johnson This is where you'll put the expanded description for your news item or press release.
+You can edit this content from the "News" tab of the control panel.
+Voter Information Endorsements Events Photos Contact Privacy Policy Committee to Elect David Johnson Powered by CampaignPartner.com - Political Campaign Websites Home Meet David Issues Endorsements Photos Privacy Policy Contribute Volunteer News Events Contact Voter Information Close Menu

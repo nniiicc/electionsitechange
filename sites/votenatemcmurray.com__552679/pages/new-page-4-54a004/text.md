@@ -1,5 +1,7 @@
-Our National Priorities Are Broken
-You don’t have to look very far to see what I believe.
+0 Skip to Content HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES ISSUES Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Open Menu Close Menu HOME CALENDAR DONATE ABOUT NEWS & UPDATES Folder: ISSUES Back Dream Big, Work Hard Restore Niagara Falls Fix Healthcare Shake Things Up More Money For Your Family Results, Not Politics What's In It For You?
+VIDEOS VOLUNTEER Our National Priorities Are Broken You don’t have to look very far to see what I believe.
 Unlike most politicians, I don’t hide my views behind a throng of consultants.
 I think our national politics are a mess.
 Not because people disagree—that’s normal—but because somewhere along the way, the system stopped serving regular people and started serving everyone except them.
@@ -42,3 +44,5 @@ I’m not running to perform.
 I’m running to work.
 If you’re looking for perfection or ideological purity, I can’t give you that.
 But if you want someone who’s honest about what they believe, clear about what they can and can’t do, and willing to fight like hell for this region without pretending—it would be an honor to earn your support.
+Results are the only ideology that matter.
+Volunteer and Sign Up for Updates!

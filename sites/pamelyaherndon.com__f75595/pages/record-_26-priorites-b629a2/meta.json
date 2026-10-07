@@ -1,7 +1,15 @@
 {
  "description": "Discover Pamelya Herndon&#39;s legislative priorities including childcare initiatives, healthcare policies, and gun safety laws for a safer New Mexico.",
  "final_url": "https://pamelyaherndon.com/record-%26-priorites",
- "paid_for_by": null,
+ "fingerprint": "ed021774864ec1af2b20cf69fa827a3bb2d0f09b",
+ "format": 3,
+ "paid_for_by": "authorized by Herndon For NM, Bronwen Murray, Treasurer",
  "title": "Record & Priorites",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2023",
+  "2026",
+  "2027",
+  "2028"
+ ]
 }

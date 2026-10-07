@@ -1,4 +1,5 @@
-M.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Offshore wind and clean energy act M.
 Speaker, I rise in favor of H4515, An Act advancing offshore wind and clean energy.
 Three days ago, the U.N.’s Intergovernmental Panel on Climate Change issued a report showing that climate change is rapidly reshaping the world, including New England.
 It noted that we are on the front lines of the climate crisis and reminded us that if we are to minimize irreversible impacts, we must make unparalleled changes, including the creation of clean energy.
@@ -14,8 +15,7 @@ And special thanks to the gentleman from Boston, our Ways & Means Chair, for con
 It has been an honor to work with you, Mr.
 Speaker, and the Ways & Means Chair, to get this bill to the floor.
 I also thank the many members who contributed to making this bill what it is today and for reaching out over the last few months.
-These include my predecessor, the gentleman from Lowell, the gentleman from Falmouth, the gentlelady from Somerset, the gentlelady from Northampton, the gentlelady from Framingham, the gentleman from Brookline, the gentlelady from Holliston, the gentlelady from Boston, the gentleman from North Reading,
-And special thanks to the TUE staff, particularly Caleb, Magda, and Cobi, a dynamic and energetic team who worked tirelessly to get the job done.
+These include my predecessor, the gentleman from Lowell, the gentleman from Falmouth, the gentlelady from Somerset, the gentlelady from Northampton, the gentlelady from Framingham, the gentleman from Brookline, the gentlelady from Holliston, the gentlelady from Boston, the gentleman from North Reading, And special thanks to the TUE staff, particularly Caleb, Magda, and Cobi, a dynamic and energetic team who worked tirelessly to get the job done.
 And much thanks to Joe, Whitney, Ana, and Michele from your office, Mr.
 Speaker.
 They are remarkable and knowledgeable people who are tremendous assets to this institution.
@@ -23,8 +23,7 @@ OSW is a huge opportunity for MA.
 It is a large and growing source of clean energy around the world and is poised for rapid growth.
 Global offshore wind capacity topped 27 GW by early 2020, but currently, the US. represents less than two-tenths of 1 percent of that capacity.
 Last year, the Biden administration announced a national goal of generating 30 gigawatts of electricity from offshore wind by 2030 as part of efforts to curb greenhouse emissions.
-Massachusetts is uniquely prepared to capitalize on the nation’s emerging offshore wind industry and become the “Saudi Arabia of offshore wind.”
-According to DOE’s National Renewable Energy Laboratory, Massachusetts waters have the largest technical offshore wind potential of any state in the contiguous U.S. and has the technical potential to produce more than a third of the President’s goal.
+Massachusetts is uniquely prepared to capitalize on the nation’s emerging offshore wind industry and become the “Saudi Arabia of offshore wind.” According to DOE’s National Renewable Energy Laboratory, Massachusetts waters have the largest technical offshore wind potential of any state in the contiguous U.S. and has the technical potential to produce more than a third of the President’s goal.
 And OSW has enjoyed dramatic technological advances and cost declines.
 The technology has improved dramatically, with larger turbines generating much more power and turbines successfully being put much farther from shore.
 On top of that, the price of wind energy has become competitive with other energy-producing sources.
@@ -55,10 +54,8 @@ The Department of Public Utilities will have the power to reject OSW bids if the
 Beyond these measures, this legislation also takes certain steps to push us towards more wholistic thinking about transmission planning, so that our electricity grid is planned in an efficient, cost-effective, and thoughtful manner.
 The bill creates an OSW Transmission Working Group to analyze costs for transmission infrastructure upgrades necessary to support our offshore wind goals.
 It requires the Department of Energy Resources to solicit proposals for independent transmission solutions to deliver the OSW to shore, and allows it to do so in coordination with ISO New England, the DPU, the utility companies, and other New England States.
-This bill also creates a Grid Modernization Advisory Council and requires utility companies to proactively upgrade the transmission and distribution grid to improve its reliability, resilience, and the interconnection of the renewable energy sources that we so desperate need
-We also make some changes to the MassCEC board to further its mission as a quasi governmental authority.
-And we also charge the center with serving as a focal point and providing state-wide coordination for offshore wind initiatives to bring more continuity to our state efforts
-We also create a very small surcharge on natural gas bills, which will be deposited into the MA Renewable Energy Trust Fund to make necessary investments in clean energy technology, so that we can meet our 2050 carbon emissions goals.
+This bill also creates a Grid Modernization Advisory Council and requires utility companies to proactively upgrade the transmission and distribution grid to improve its reliability, resilience, and the interconnection of the renewable energy sources that we so desperate need We also make some changes to the MassCEC board to further its mission as a quasi governmental authority.
+And we also charge the center with serving as a focal point and providing state-wide coordination for offshore wind initiatives to bring more continuity to our state efforts We also create a very small surcharge on natural gas bills, which will be deposited into the MA Renewable Energy Trust Fund to make necessary investments in clean energy technology, so that we can meet our 2050 carbon emissions goals.
 While some say no increases, let me remind folks that the recent spikes in energy costs are attributable to an over-reliance on natural gas and other imports.
 With more wind and energy independence, there is far less risk of price spikes.
 The tax incentives, grants and investments called for in this bill are crucial to the success of our clean energy transition, and will help us avoid the disastrous – and extremely expensive – consequences of climate change.
@@ -81,3 +78,9 @@ It’s ironic that color of our voting buttons fit the path we are about to take
 M.
 Speaker, I ask that when a vote is taken, that it be taken by a call of the yeas and neighs.
 Thank you very much.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

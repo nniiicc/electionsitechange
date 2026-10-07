@@ -1,17 +1,90 @@
 [
-"https://facebook.com/profile.php?id=61576343832907",
-"https://open.spotify.com/show/5yBriJXNan9fCsoC6q0iu8",
-"https://podcasts.apple.com/us/podcast/nh-insights/id1873093008",
-"https://secure.actblue.com/donate/shepardfornh",
-"https://shepardfornh.com/",
-"https://shepardfornh.com/about",
-"https://shepardfornh.com/announcement",
-"https://shepardfornh.com/contact",
-"https://shepardfornh.com/donate",
-"https://shepardfornh.com/events",
-"https://shepardfornh.com/issues",
-"https://shepardfornh.com/nh-insights",
-"https://shepardfornh.com/privacy",
-"https://shepardfornh.com/volunteer",
-"https://substack.com/@nhinsights"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "About Scott",
+"href": "https://shepardfornh.com/about"
+},
+{
+"text": "Campaign Announcement",
+"href": "https://shepardfornh.com/announcement"
+},
+{
+"text": "Contact",
+"href": "https://shepardfornh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://shepardfornh.com/donate"
+},
+{
+"text": "Donate Through ActBlue",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "Events",
+"href": "https://shepardfornh.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576343832907&NH+Insights="
+},
+{
+"text": "Home",
+"href": "https://shepardfornh.com/"
+},
+{
+"text": "Issues",
+"href": "https://shepardfornh.com/issues"
+},
+{
+"text": "NH Insights & Op-Eds",
+"href": "https://shepardfornh.com/nh-insights"
+},
+{
+"text": "NH Insights on Apple Podcasts",
+"href": "https://podcasts.apple.com/us/podcast/nh-insights/id1873093008"
+},
+{
+"text": "NH Insights on Substack",
+"href": "https://substack.com/@nhinsights"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+},
+{
+"text": "Privacy & Disclaimer",
+"href": "https://shepardfornh.com/privacy"
+},
+{
+"text": "ShepardForNHScott Shepard for State Representative",
+"href": "https://shepardfornh.com/"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/5yBriJXNan9fCsoC6q0iu8"
+},
+{
+"text": "Volunteer",
+"href": "https://shepardfornh.com/volunteer"
+},
+{
+"text": "[image: ActBlue donation QR code for SHEPARD FOR NH]",
+"href": "https://secure.actblue.com/donate/shepardfornh"
+}
 ]

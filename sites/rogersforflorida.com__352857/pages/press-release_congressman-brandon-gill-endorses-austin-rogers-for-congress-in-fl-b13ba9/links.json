@@ -1,15 +1,62 @@
 [
-"https://facebook.com/austin.rogers.792",
-"https://flickr.com/photos/204588408@N02",
-"https://instagram.com/rogersforfl",
-"https://rogersforflorida.com/",
-"https://rogersforflorida.com/endorsements",
-"https://rogersforflorida.com/issues",
-"https://rogersforflorida.com/media-kit",
-"https://rogersforflorida.com/privacy-policy",
-"https://rogersforflorida.com/updates",
-"https://secure.winred.com/rogers-for-florida/save-america",
-"https://truthsocial.com/@rogersforfl",
-"https://x.com/rogersforfl",
-"https://youtube.com/@rogersforfl"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rogers-for-florida/save-america"
+},
+{
+"text": "Endorsements",
+"href": "https://rogersforflorida.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://rogersforflorida.com/"
+},
+{
+"text": "Issues",
+"href": "https://rogersforflorida.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://rogersforflorida.com/media-kit/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rogersforflorida.com/privacy-policy"
+},
+{
+"text": "Updates",
+"href": "https://rogersforflorida.com/updates/"
+},
+{
+"text": "[image: Austin Rogers for Florida]",
+"href": "https://rogersforflorida.com"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/204588408@N02/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@rogersforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/austin.rogers.792/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rogersforfl"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@rogersforfl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/rogersforfl"
+},
+{
+"text": "info@rogersforflorida.com",
+"href": "mailto:info@rogersforflorida.com"
+}
 ]

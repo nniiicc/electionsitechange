@@ -1,9 +1,34 @@
 [
-"https://edschimmelforohio.com/",
-"https://edschimmelforohio.com/endorsements",
-"https://edschimmelforohio.com/events",
-"https://facebook.com/1656895757930128",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "Endorsements",
+"href": "https://edschimmelforohio.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://edschimmelforohio.com/events"
+},
+{
+"text": "Home",
+"href": "https://edschimmelforohio.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Ed Schimmel for Ohio's 44th District State Representative]",
+"href": "https://edschimmelforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/1656895757930128"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

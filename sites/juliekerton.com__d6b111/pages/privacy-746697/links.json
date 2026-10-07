@@ -1,4 +1,14 @@
 [
-"https://facebook.com/JulieKertonforStateRep",
-"https://juliekerton.com/"
+{
+"text": "Home",
+"href": "https://www.juliekerton.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JulieKertonforStateRep"
+},
+{
+"text": "julie@juliekerton.com",
+"href": "mailto:julie@juliekerton.com"
+}
 ]

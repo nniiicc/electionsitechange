@@ -1,8 +1,30 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://street4hd28.me/",
-"https://street4hd28.me/about",
-"https://street4hd28.me/advocacy",
-"https://street4hd28.me/in-the-news",
-"https://street4hd28.me/personal-endorsements"
+{
+"text": "About",
+"href": "https://street4hd28.me/about"
+},
+{
+"text": "Advocacy",
+"href": "https://street4hd28.me/advocacy"
+},
+{
+"text": "Home",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "In The News",
+"href": "https://street4hd28.me/in-the-news"
+},
+{
+"text": "Personal Endorsements",
+"href": "https://street4hd28.me/personal-endorsements"
+},
+{
+"text": "[image]",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

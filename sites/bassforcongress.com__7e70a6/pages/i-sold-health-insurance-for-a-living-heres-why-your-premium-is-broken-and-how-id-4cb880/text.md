@@ -1,4 +1,10 @@
-I want to start this one differently than my other posts, because this issue isn’t just something I’ve read about or watched happen to other people.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin I Sold Health Insurance For A Living.
+Here’s Why Your Premium Is Broken — And How I’d Fix It.
+August 4, 2026 No Comments I want to start this one differently than my other posts, because this issue isn’t just something I’ve read about or watched happen to other people.
 I lived inside this industry.
 I was a licensed life and health insurance agent in the state of Minnesota.
 I sold individual policies to families sitting across the kitchen table from me, and I sold group policies to employers trying to figure out how to keep their people covered without going broke doing it.
@@ -9,8 +15,7 @@ That’s what this post is about.
 Not talking points.
 Not a slogan.
 An actual explanation, from someone who worked the system from the inside, of why your health insurance costs what it costs — and what I’d actually do about it in Congress.
-The Story That Explains Everything: The Teacher and the Rest of Us
-Let me tell you about a conversation I had with a teacher here in Minnesota.
+The Story That Explains Everything: The Teacher and the Rest of Us Let me tell you about a conversation I had with a teacher here in Minnesota.
 She told me she pays $30 a month for health insurance — for herself and her entire family.
 No deductible.
 Thirty dollars.
@@ -22,14 +27,13 @@ That’s $11,000 of exposure in a bad year, and $6,000 gone even in a year where
 Meanwhile, a teacher — or someone working at Cemstone, or UPS, or any other large union employer — is paying $30 a month and nothing else.
 Why the massive gap?
 It’s not because teachers are healthier than everyone else, and it’s not because union members magically need less care.
-It’s because they’re on group policies, and group policies spread risk across a huge pool of people, most of whom are employed, most of whom are working-age, and all of whom are covered whether they’re the healthiest person in the building or not.
+It’s because they’re on group policies , and group policies spread risk across a huge pool of people, most of whom are employed, most of whom are working-age, and all of whom are covered whether they’re the healthiest person in the building or not.
 The employer — or in the case of a teachers’ union, essentially the taxpayer — is absorbing the real cost through negotiated group rates and, in many public-sector cases, heavily subsidizing the premium so the employee barely feels it.
 The rest of us — the self-employed, the small business owners, the people working for companies too small to offer real group coverage — are stuck buying insurance one household at a time, on an individual market that was fundamentally broken by federal policy over a decade ago.
 That’s not envy talking.
 That’s not me saying teachers or union workers don’t deserve good coverage — they absolutely do, and I’m glad they have it.
 What I’m saying is: why can’t the rest of us have access to something like that too, instead of getting crushed on the individual market while a huge chunk of the country pays next to nothing through their group plan?
-What Actually Broke: The End of Real Underwriting
-Here’s the part most politicians either don’t understand or won’t explain to you honestly, because I don’t think most of them have ever sold a policy in their life.
+What Actually Broke: The End of Real Underwriting Here’s the part most politicians either don’t understand or won’t explain to you honestly, because I don’t think most of them have ever sold a policy in their life.
 Before the Affordable Care Act reshaped the individual insurance market, insurance companies could medically underwrite individual policies.
 That means when you applied for coverage, you answered detailed health questions — your history, your conditions, your habits, your family history — the same way you’d go through underwriting for a life insurance policy.
 Based on that information, the insurance company would price your policy according to your actual risk.
@@ -55,8 +59,7 @@ When the healthy 28-year-old and the 58-year-old with three chronic conditions p
 Multiply that across the entire individual market, and you get exactly what we have today: premiums that have climbed relentlessly for everyone, because the pricing no longer reflects individual risk — it reflects the average risk of the whole pool, which keeps getting worse as healthy people drop out of the individual market entirely rather than keep overpaying.
 That’s not a talking point.
 That’s basic insurance math, and I know it because I sold under both worlds — I understand how underwriting actually functions, and I’ve watched what happens to premiums when you take it away.
-My Proposal: Bring Back Real Underwriting, and Build Toward a National Group Model
-Here’s where I stand, and I’m not going to hide behind vague language about “bringing competition back to healthcare” the way some candidates in this race do without ever explaining what that actually means in practice.
+My Proposal: Bring Back Real Underwriting, and Build Toward a National Group Model Here’s where I stand, and I’m not going to hide behind vague language about “bringing competition back to healthcare” the way some candidates in this race do without ever explaining what that actually means in practice.
 First: bring back fully underwritten individual policies.
 Let people who are healthy pay less.
 Let insurance actually function like insurance again, where your premium reflects your real risk instead of an artificial average that punishes healthy people to subsidize a pool that never stops growing sicker on paper.
@@ -73,8 +76,7 @@ I want to see serious policy work done at the federal level toward making group-
 Right now we have a system where being a public-sector union employee gets you a $30-a-month plan with no deductible, and being a small business owner or a self-employed tradesman gets you $500 a month and $5,000 out of pocket before you see a dollar of coverage.
 That gap is not a law of nature.
 It’s a policy choice, and it’s one that’s been allowed to stand for far too long while politicians in Washington talk in circles instead of fixing it.
-Why This Matters More Than Ever: You’re Paying Twice
-I want to connect this back to something I’ve written about before, because these issues don’t exist in isolation — the cost of living crisis in this state touches everything, including your health insurance bill.
+Why This Matters More Than Ever: You’re Paying Twice I want to connect this back to something I’ve written about before, because these issues don’t exist in isolation — the cost of living crisis in this state touches everything, including your health insurance bill.
 When you’re already watching your rent climb 111% since 2013 while your wages crawled up only 42% over the same period, a $500-a-month health insurance bill with a $5,000 deductible isn’t just an inconvenience — it’s the difference between making ends meet and falling behind.
 Every dollar that goes to an inflated, poorly-designed insurance premium because Washington eliminated real underwriting is a dollar that isn’t going toward your rent, your mortgage, your kids, or your savings.
 And I’ve also written about how our broken visa and immigration system has expanded the population covered under various subsidized health programs faster than the state could actually fund it — to the point where Minnesota has had to pause new enrollment in some of its own subsidized coverage programs because it couldn’t sustain the cost.
@@ -83,8 +85,7 @@ It lands on the people who are actually paying premiums every month, working eve
 This is all connected.
 Affordability isn’t just about your rent or your grocery bill.
 It’s about every fixed cost stacked on top of a paycheck that hasn’t kept up — and health insurance is one of the biggest, most misunderstood pieces of that puzzle.
-Where My Opponent Stands — Or Doesn’t
-I think it’s worth being honest about where Quentin Wittrock stands on this issue, because the contrast matters heading into August 11th.
+Where My Opponent Stands — Or Doesn’t I think it’s worth being honest about where Quentin Wittrock stands on this issue, because the contrast matters heading into August 11th.
 Back in 2021, Wittrock wrote a blog post on his website laying out his healthcare philosophy.
 In it, he argued that the federal government should continue funding Medicaid, CHIP, and the Affordable Care Act as a permanent “safety net” — and he specifically pointed to the ACA’s protections for people with pre-existing conditions as something worth preserving.
 Those protections work by banning exactly the kind of medically underwritten pricing I’m talking about bringing back.
@@ -103,8 +104,7 @@ One of us has a theoretical, lawyerly framework built around preserving the stat
 The other has actually worked inside the system and knows precisely where it’s broken — and how to fix it.
 This Isn’t Abstract Policy.
 It’s Your Bank Account.
-At the end of the day, here’s the math that matters to you, whoever you are reading this:
-If you’re healthy and buying your own coverage, you are almost certainly paying more than you should — both in premium and in deductible — because the system has no mechanism left to reward you for taking care of yourself.
+At the end of the day, here’s the math that matters to you, whoever you are reading this: If you’re healthy and buying your own coverage, you are almost certainly paying more than you should — both in premium and in deductible — because the system has no mechanism left to reward you for taking care of yourself.
 You’re paying thousands of dollars a year into a pool that assumes you’re just as much of a risk as everyone else in it, whether that’s true or not.
 If you’re on a strong group plan through a union or a large employer, you’re doing fine — but you should understand that the system working well for you is being propped up by a completely different, much harsher set of rules for everyone else in this state who doesn’t have access to that kind of plan.
 And if you’re a small business owner trying to offer your employees decent coverage, or a self-employed tradesman, or anyone stuck buying on the individual market, you already know exactly what I’m talking about, because you’re the one writing that $500 check every single month and hoping you don’t need to hit that $5,000 deductible this year.
@@ -113,10 +113,28 @@ I know this industry.
 I’ve sold underwritten policies.
 I’ve sold group policies.
 I understand exactly how we got here, and I have an actual position on how to fix it: bring back real underwriting so healthy Minnesotans stop overpaying to subsidize a system that gives them nothing in return, and build toward the kind of group-style access that already works well for millions of Americans on union and large-employer plans — instead of leaving every individual household to fend for itself against an insurance market that federal policy broke over a decade ago.
-Vote August 11th
-This district deserves a representative who actually understands the industries and issues he’s talking about — not just someone who can write a well-footnoted blog post about “principles” without ever landing on a real position.
+Vote August 11th This district deserves a representative who actually understands the industries and issues he’s talking about — not just someone who can write a well-footnoted blog post about “principles” without ever landing on a real position.
 I know health insurance because I sold it.
 I know the cost of living crisis because I’ve lived it, building a business from a $250 paycheck in a state where rent doubled and wages didn’t keep up.
 I know what it means to actually understand a problem before you claim you can fix it.
 On August 11th, vote for the candidate who’s actually done the work.
 Vote Bass for Congress.
+Share: Facebook Twitter Pinterest LinkedIn athomefitnessmn@gmail.com Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous Gun Rights On The Ballot Next HuttCast Podcast Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

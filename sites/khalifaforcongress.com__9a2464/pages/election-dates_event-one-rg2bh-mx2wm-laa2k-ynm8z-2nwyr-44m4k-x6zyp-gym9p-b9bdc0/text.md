@@ -1,15 +1,4 @@
-Back to All Events
-Three candidates.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Back to All Events Meet and Greet with Zyon Khalifa (Copy) Saturday, May 23, 2026 1:00 PM 3:00 PM Rawls Creek Park 1113 Friarsgate Boulevard Irmo, SC, 29063 United States (map) Google Calendar ICS Three candidates.
 One community.
-One goal: fighting for the people of South Carolina. 🇺🇸🔥
-Join us for the Khalifa for Congress Campaign Cookout with Joe Madge for HD 89 and Steven Asbill for HD 85 on May 23rd at Rawls Creek in Irmo!
-Free food, drinks, and conversations about the future of our state.
-📍 Rawls Creek – Irmo, SC 🗓 May 23rd ⏰ 1PM–3PM
-Register with the following link:
-Previous
-Previous
-May 22
-We Are The People
-Next
-Next
-June 24
+One goal: fighting for the people of South Carolina. 🇺🇸🔥 Join us for the Khalifa for Congress Campaign Cookout with Joe Madge for HD 89 and Steven Asbill for HD 85 on May 23rd at Rawls Creek in Irmo!
+Free food, drinks, and conversations about the future of our state. 📍 Rawls Creek – Irmo, SC 🗓 May 23rd ⏰ 1PM–3PM Register with the following link: https://mobilize.us/s/Sw9fK6 Previous Previous May 22 We Are The People Next Next June 24 Volunteer to Phone Bank for Zyon Khalifa Meet Zyon Khalifa Platform Volunteer Privacy Policy

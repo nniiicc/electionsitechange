@@ -1,12 +1,46 @@
 [
-"https://genforr8.com/",
-"https://genforr8.com/about",
-"https://genforr8.com/accessibility",
-"https://genforr8.com/contact",
-"https://genforr8.com/donate",
-"https://genforr8.com/events",
-"https://genforr8.com/get-involved",
-"https://genforr8.com/issues",
-"https://genforr8.com/privacy-policy",
-"https://secure.numero.ai/contribute/Genevieve-Duchesneau-for-State-Representative"
+{
+"text": "About",
+"href": "https://genforr8.com/about/"
+},
+{
+"text": "Accessibility",
+"href": "https://genforr8.com/accessibility/"
+},
+{
+"text": "Contact",
+"href": "https://genforr8.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://genforr8.com/donate/"
+},
+{
+"text": "Donate on our secure Numero page",
+"href": "https://secure.numero.ai/contribute/Genevieve-Duchesneau-for-State-Representative"
+},
+{
+"text": "Events",
+"href": "https://genforr8.com/events/"
+},
+{
+"text": "Genevieve Duchesneau for Rutland-8",
+"href": "https://genforr8.com/"
+},
+{
+"text": "Get involved",
+"href": "https://genforr8.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://genforr8.com/"
+},
+{
+"text": "Issues",
+"href": "https://genforr8.com/issues/"
+},
+{
+"text": "Privacy",
+"href": "https://genforr8.com/privacy-policy/"
+}
 ]

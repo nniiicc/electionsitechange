@@ -1,4 +1,4 @@
-November’s elections are coming fast, and the stakes couldn’t be higher.
+Skip to main content Skip to footer Opens in a new tab Donate Home Issues Endorsements Updates Media Donate Washington Reporter Op-Ed: Austin Rogers: We need to end the Deep State’s secret surveillance machine May 15, 2026 | News November’s elections are coming fast, and the stakes couldn’t be higher.
 There are critical decisions up and down the ballot that will shape the future of our country.
 As I travel across Florida’s 2nd District for my own race, voters tell me the same thing over and over again: They’re tired of Washington elites weaponizing the government against the American people.
 Floridians haven’t forgotten what Bidenomics did to this country.
@@ -46,9 +46,8 @@ I know where I stand.
 I stand with President Trump.
 I stand with the Constitution.
 And I stand with the American people against government abuse and political persecution.
-In November, we must send a message loud enough for Washington to hear:
-the era of weaponized government must come to an end.
-Original publication: https://washingtonreporter.news/op-ed-austin-rogers-we-need-to-end-the-deep-states-secret-surveillance-machine/
-Austin Rogers is a Florida attorney and former chief counsel to Senate Republicans including Sens.
+In November, we must send a message loud enough for Washington to hear: the era of weaponized government must come to an end.
+Original publication: https://washingtonreporter.news/op-ed-austin-rogers-we-need-to-end-the-deep-states-secret-surveillance-machine/ Austin Rogers is a Florida attorney and former chief counsel to Senate Republicans including Sens.
 Rick Scott (R., Fla.), Chuck Grassley (R., Iowa), and Lindsey Graham (R., S.C.).
 He is also a Republican candidate to represent Florida’s 2nd District in Congress.
+Paid for by Rogers for Florida Privacy Policy Contact: info@rogersforflorida.com Connect

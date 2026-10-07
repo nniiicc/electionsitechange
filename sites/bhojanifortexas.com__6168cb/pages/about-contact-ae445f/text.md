@@ -1,7 +1,5 @@
-top of page
-VOLUNTEER WITH
-TEAM BHOJANI
-Re-elect Rep.
+top of page HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE VOLUNTEER SIGN UP First Name * Last Name * Email Address * Zip Code * Phone * What types of events interest you? * Block Walking Phone Banking Fundraising Events I agree to receive email updates about events.
+I understand I can unsubscribe at any time. * Yes, I’m ready to volunteer VOLUNTEER WITH TEAM BHOJANI Re-elect Rep.
 Salman Bhojani because he shows up, listens to constituents, and gets to work on the issues that matter - public schools, voting rights, and supporting working families and small businesses in HD-92.
 Sign up today to volunteer and help re-elect Salman in November.
-bottom of page
+HOME ABOUT PRIORITIES Affordability Education Ethical Technology Economy & Workforce Religious Freedom Affordability Education Ethical Technology Economy & Workforce Religious Freedom GET INVOLVED CONNECT SELFIES WITH SALMAN SELFIES WITH SALMAN LEGISLATIVE SESSION DONATE Donate By Mail Bhojani for Texas PO Box 392 Euless, TX 76039 bottom of page

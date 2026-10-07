@@ -1,6 +1,6 @@
-A Staunch Advocate for Labor and Workers
-Jim believes that people who work hard shouldn’t be struggling to make ends meet every month.
+Skip to content Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE 0 Cart No products in the cart.
+Return to shop DONATE DONATE A Staunch Advocate for Labor and Workers Jim believes that people who work hard shouldn’t be struggling to make ends meet every month.
 As state representative, Jim Haddock has fought for higher wages for workers so that those who financially support their families receive a living wage.
 As a former member of the Teamsters, Jim experienced firsthand the value and importance of unions.
 Jim has received endorsements from unions like AFL-CIO and AFSCME, among many others, and has received a recommendation from the SEIU.
-Jim Haddock believes in the right of workers to unionize and has fought any efforts in Harrisburg that would allow employers to impede and obstruct that right to unionize.”
+Jim Haddock believes in the right of workers to unionize and has fought any efforts in Harrisburg that would allow employers to impede and obstruct that right to unionize.” Home About Jim Issues Get Involved Upcoming Events DONATE Search for: Home About Jim Issues Women’s Rights Education Standing Up for Our Community Fighting for Hardworking Pennsylvanians Standing Up for the Environment Get Involved Upcoming Events DONATE Login Newsletter

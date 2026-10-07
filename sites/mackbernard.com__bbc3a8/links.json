@@ -1,4 +1,10 @@
 [
-"https://secure.anedot.com/mack-bernard-campaign/donate",
-"https://secure.anedot.com/mack-bernard-campaign/endorse"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mack-bernard-campaign/donate"
+},
+{
+"text": "Endorse",
+"href": "https://secure.anedot.com/mack-bernard-campaign/endorse"
+}
 ]

@@ -1,12 +1,13 @@
 {
  "description": "",
  "final_url": "https://maxburns.com/press",
- "paid_for_by": null,
+ "fingerprint": "47dcfba6837cf92f5d4b51551ea8bc2f43b93965",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press",
  "years_mentioned": [
   "2022",
   "2023",
-  "2024",
-  "2026"
+  "2024"
  ]
 }

@@ -1,7 +1,11 @@
 {
  "description": "Helene Neville Campaign Events",
  "final_url": "https://www.heleneforcongress.com/Events?range=2026-9",
- "paid_for_by": null,
+ "fingerprint": "40936ad0b300f2de84c73baab2b9a431f1bc6c1f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Helene Neville Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

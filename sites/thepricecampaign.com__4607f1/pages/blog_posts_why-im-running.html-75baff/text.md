@@ -1,5 +1,4 @@
-Why I'm running for State House in Berkeley County
-I got into this race for a basic reason: the incumbent was not being seriously challenged, and I do not think Berkeley County should be treated like a district where voters are supposed to quietly accept whatever they get.
+Price campaign blog Home Blog Voting info Contact April 13, 2026 Why I'm running for State House in Berkeley County I got into this race for a basic reason: the incumbent was not being seriously challenged, and I do not think Berkeley County should be treated like a district where voters are supposed to quietly accept whatever they get.
 I have not held office before.
 Some people will use that as a talking point.
 Fine.
@@ -14,3 +13,5 @@ This campaign is not pretending to be something it is not.
 We are building lean.
 We are going to rely on volunteers, direct outreach, digital discipline, and a lot of work.
 If that sounds like your kind of campaign, I would be glad to have you with us.
+Join the campaign Make your vote plan The Price Campaign Democrat for State House in Berkeley County, South Carolina.
+Home Blog info@thepricecampaign.com Connect Facebook Instagram Bluesky Reddit

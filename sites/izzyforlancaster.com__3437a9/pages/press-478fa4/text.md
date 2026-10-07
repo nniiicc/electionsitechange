@@ -1,144 +1,48 @@
-PRESS
-April 13, 2026 | LancasterOnline
-Rep.
-Izzy Smith-Wade-El wants Pa. to protect youth from conversion therapy through a new law
-“The common thread here is taking away agency from young people,” Smith-Wade-El said.
+Home Meet Izzy Issues Endorsements Press Volunteer Donate Lea en Español Select Page PRESS April 13, 2026 | LancasterOnline Rep.
+Izzy Smith-Wade-El wants Pa. to protect youth from conversion therapy through a new law “The common thread here is taking away agency from young people,” Smith-Wade-El said.
 “I believe people know who they are, and a lot of your youth is about and for figuring that out.
-The least we can do for LGBTQ+ young people across the commonwealth is put (protections) into law.”
-February 26, 2026 | LancasterOnline
-Pa.
+The least we can do for LGBTQ+ young people across the commonwealth is put (protections) into law.” February 26, 2026 | LancasterOnline Pa.
 Rep.
-Izzy Smith-Wade-El meets with School District of Lancaster students at town hall
-“State Rep.
-Izzy Smith-Wade-El on Thursday visited the elementary school named for his late mother, Rita Smith-Wade-El, to teach students about state government and hear their ideas for how their communities could be improved.”
-February 2, 2026 | Pa.
-House Video
-Smith-Wade-El Continues Fight for Fair Housing
-“Making that real here in Pennsylvania, the birthplace of American Freedom must mean assuring the right of every resident of the Commonwealth to have a safe, warm, and dry home that they can afford,”
-January 20, 2026 | WGAL8
-Lancaster police’s social workers receive ballistic, stab-resistant vests
-“We try to look for stuff where a little bit can go a long way, and this seemed like a perfect fit.”
-November 24, 2025 | Newtown, PA Now.com
-‘Shelter First’ Measures Introduced In PA Legislature
-“What the actual evidence shows is that municipalities who treat people like problems, instead of like human beings, end up sending their people to municipalities where there is shelter, where there is housing and where there is compassion”
-November 18, 2025 | Pennsylvania Capital-Star
-Pa. advocates push to counter the ‘criminalization of homelessness’ following SCOTUS ruling
-“I want to make your streets safer, give more of our neighbors a home, and save you money that you’re currently pouring into prisons and enforcement.”
-November 18, 2025 | FOX43
-Lawmakers introduce legislation that moves to protect those unhoused in PA
-“If we want folks to sleep inside, we need to provide them the opportunity to sleep inside,”
-November 11, 2025 | FOX43
-‘It was the cost of freedom’ | African American veterans honored at Stevens Greenland Cemetery
-“Many of them did so in hope or expectation of future progress in this country,” said Smith Wade-El (D-Lancaster).
+Izzy Smith-Wade-El meets with School District of Lancaster students at town hall “State Rep.
+Izzy Smith-Wade-El on Thursday visited the elementary school named for his late mother, Rita Smith-Wade-El, to teach students about state government and hear their ideas for how their communities could be improved.” February 2, 2026 | Pa.
+House Video Smith-Wade-El Continues Fight for Fair Housing “Making that real here in Pennsylvania, the birthplace of American Freedom must mean assuring the right of every resident of the Commonwealth to have a safe, warm, and dry home that they can afford,” January 20, 2026 | WGAL8 Lancaster police’s social workers receive ballistic, stab-resistant vests “We try to look for stuff where a little bit can go a long way, and this seemed like a perfect fit.” November 24, 2025 | Newtown, PA Now.com ‘Shelter First’ Measures Introduced In PA Legislature “What the actual evidence shows is that municipalities who treat people like problems, instead of like human beings, end up sending their people to municipalities where there is shelter, where there is housing and where there is compassion” November 18, 2025 | Pennsylvania Capital-Star Pa. advocates push to counter the ‘criminalization of homelessness’ following SCOTUS ruling “I want to make your streets safer, give more of our neighbors a home, and save you money that you’re currently pouring into prisons and enforcement.” November 18, 2025 | FOX43 Lawmakers introduce legislation that moves to protect those unhoused in PA “If we want folks to sleep inside, we need to provide them the opportunity to sleep inside,” November 11, 2025 | FOX43 ‘It was the cost of freedom’ | African American veterans honored at Stevens Greenland Cemetery “Many of them did so in hope or expectation of future progress in this country,” said Smith Wade-El (D-Lancaster).
 “Many of them gave the ultimate price.
-Many of them came back to our communities and helped build them into the things we treasure today.”
-October 7, 2025 | The Keystone
-Do local camping bans criminalize homelessness?
-Lancaster County lawmaker says they do
-“Criminalizing individuals or families for being homeless is needlessly cruel and undermines the guiding morals of our society.”
-September 9, 2025 | York Daily Record
-State Rep.
-Ismail Smith-Wade-El urges passage of law a protecting LGBTQ+ rights in PA
-“In a passionate speech, the Lancaster Democrat urged passage of The Fairness Act at a rally in York Aug. 29 held after an alleged anti-queer attack.”
-June 23, 2025 | PennLive
-Pa.
-House OKs bill to seal some eviction records; Dauphin County has state’s highest rate
-“And on a personal note, I will include that it has made several of my constituents — including survivors of domestic violence — homeless because of the structure of the commonwealth law,”
-June 11, 2025 | PCNTV
-On The Issues: Immigration in PA, Rep.
-Ismail Smith-Wade-El
-“The office of New Pennsylvanians would streamline and organize all of the services that are accessed by our newest neighbors,”
-May 29, 2025 | LancasterOnline
-Pa. lawmakers to consider sealing certain eviction records, as pitched by Rep.
-Smith-Wade-El
-“It’s not a top-flight banner housing issue, but it’s absolutely one that’s making it harder for people to access housing and, frankly, kind of being used against people to hold them back,”
-May 2, 2025 | One United Lancaster
-Lancaster PA faith leaders host public town hall with legislators
-“.We have the understanding that we are not just talking about our kids in public education.
-We are literally talking about the foundation of our country, ”
-April 28, 2025 | One United Lancaster
-State Reps.
-Rivera and Smith-Wade-El plan 14th Annual Back to School Event
-“The event aims to help students prepare for the school year with supplies, services and a fun day out for families.”
-April 11, 2025 | WTAJ
-‘Out of control’: PA Representative looks to limit how much landlords can charge for pets
-“It is one thing to charge tenants for property damage their pets could potentially cause.
+Many of them came back to our communities and helped build them into the things we treasure today.” November 9, 2025 | The Zekely Podcast E45: Ismail Smith-Wade-El “Suck it, Ohio.” October 7, 2025 | The Keystone Do local camping bans criminalize homelessness?
+Lancaster County lawmaker says they do “Criminalizing individuals or families for being homeless is needlessly cruel and undermines the guiding morals of our society.” September 9, 2025 | York Daily Record State Rep.
+Ismail Smith-Wade-El urges passage of law a protecting LGBTQ+ rights in PA “In a passionate speech, the Lancaster Democrat urged passage of The Fairness Act at a rally in York Aug.
+29 held after an alleged anti-queer attack.” June 23, 2025 | PennLive Pa.
+House OKs bill to seal some eviction records; Dauphin County has state’s highest rate “And on a personal note, I will include that it has made several of my constituents — including survivors of domestic violence — homeless because of the structure of the commonwealth law,” June 11, 2025 | PCNTV On The Issues: Immigration in PA, Rep.
+Ismail Smith-Wade-El “The office of New Pennsylvanians would streamline and organize all of the services that are accessed by our newest neighbors,” May 29, 2025 | LancasterOnline Pa. lawmakers to consider sealing certain eviction records, as pitched by Rep.
+Smith-Wade-El “It’s not a top-flight banner housing issue, but it’s absolutely one that’s making it harder for people to access housing and, frankly, kind of being used against people to hold them back,” May 2, 2025 | One United Lancaster Lancaster PA faith leaders host public town hall with legislators “.We have the understanding that we are not just talking about our kids in public education.
+We are literally talking about the foundation of our country, ” April 28, 2025 | One United Lancaster State Reps.
+Rivera and Smith-Wade-El plan 14th Annual Back to School Event “The event aims to help students prepare for the school year with supplies, services and a fun day out for families.” April 11, 2025 | WTAJ ‘Out of control’: PA Representative looks to limit how much landlords can charge for pets “It is one thing to charge tenants for property damage their pets could potentially cause.
 It is another thing entirely to charge a captive audience exorbitant fees for the sake of profit,” Smith-Wade-El said.
 April 4, 2025 | Pa.
-House Video
-Smith-Wade-El: Immigrants are the Backbone of the Commonwealth
-“PA state Rep.
-Izzy Smith-Wade-El joined a handful of his legislative colleagues to introduce the PA Welcome Caucus and explain the contributions and efforts from undocumented citizens living in Pennsylvania.”
-March 26, 2025 | PaHouse.com
-State lawmakers release plans to protect PA immigrant communities
-“As the Trump administration ramps up attacks on immigrant communities across the country, members of the Welcoming Caucus have introduced a suite of bills that seek to uphold and protect the rights of all Pennsylvanians.”
-March 14, 2025 | Broadband Breakfast
-Pennsylvania Introduces Bill to Restore Net Neutrality Protections
-“The Internet is not a luxury but a daily necessity.
-All Pennsylvanians deserve a fair Internet that provides equal access,”
-December 11, 2024 | One United Lancaster
-Advocates push to seal Pa. eviction filings
-“People are being denied housing due to ‘evictions’ that simply didn’t occur,”
-November 20, 2024 | LancasterOnline
-Ashton Clatterbuck, transgender Americans who died from violence, honored by officials in Harrisburg.
-‘Smith-Wade-El said the “unfortunate reality” is that there are groups of people who not only don’t want to see the LGBTQ+ community “get free” and “survive,” but take it further by supporting harmful policies at all levels of government.’
-July 2, 2024 | Pennsylvania Capital Star
-Pa.
+House Video Smith-Wade-El: Immigrants are the Backbone of the Commonwealth “PA state Rep.
+Izzy Smith-Wade-El joined a handful of his legislative colleagues to introduce the PA Welcome Caucus and explain the contributions and efforts from undocumented citizens living in Pennsylvania.” March 26, 2025 | PaHouse.com State lawmakers release plans to protect PA immigrant communities “As the Trump administration ramps up attacks on immigrant communities across the country, members of the Welcoming Caucus have introduced a suite of bills that seek to uphold and protect the rights of all Pennsylvanians.” March 14, 2025 | Broadband Breakfast Pennsylvania Introduces Bill to Restore Net Neutrality Protections “The Internet is not a luxury but a daily necessity.
+All Pennsylvanians deserve a fair Internet that provides equal access,” December 11, 2024 | One United Lancaster Advocates push to seal Pa. eviction filings “People are being denied housing due to ‘evictions’ that simply didn’t occur,” November 20, 2024 | LancasterOnline Ashton Clatterbuck, transgender Americans who died from violence, honored by officials in Harrisburg. ‘Smith-Wade-El said the “unfortunate reality” is that there are groups of people who not only don’t want to see the LGBTQ+ community “get free” and “survive,” but take it further by supporting harmful policies at all levels of government.’ July 2, 2024 | Pennsylvania Capital Star Pa.
 House and Senate Democrats decry U.S.
-Supreme Court ruling on homelessness
-“This is not only a fundamental injustice, it is not only completely wrong, but in study after study, the data shows that criminalizing homelessness, sweeping encampments without care or concern has the opposite effect, that it worsens the crisis that it claims to address”
-December 13, 2023 | One United Lancaster
-Immigrant, refugee advocates call for an Office of New Pennsylvanians
-“In October, Smith-Wade-El and state Rep.
+Supreme Court ruling on homelessness “This is not only a fundamental injustice, it is not only completely wrong, but in study after study, the data shows that criminalizing homelessness, sweeping encampments without care or concern has the opposite effect, that it worsens the crisis that it claims to address” December 13, 2023 | One United Lancaster Immigrant, refugee advocates call for an Office of New Pennsylvanians “In October, Smith-Wade-El and state Rep.
 Joe Hohenstein, D-Philadelphia, re-introduced legislation to create an Office of New Pennsylvanians within the state Department of Community & Economic Development.
-On Tuesday, City Council passed a resolution in support of the proposal.”
-June 28, 2023 | PennLive
-A voice of representation, social justice, education equity: Rep.
-Ismail Smith-Wade-El
-“Pride is a memorial for our elders, and a birthday party for our youth.
+On Tuesday, City Council passed a resolution in support of the proposal.” June 28, 2023 | PennLive A voice of representation, social justice, education equity: Rep.
+Ismail Smith-Wade-El “Pride is a memorial for our elders, and a birthday party for our youth.
 It’s a wake, and an anniversary party for the Stonewall Riots.
-As a Black person, I’m very influenced by the idea of Sankofa, of looking back and learning how to move forward.”
-February 18, 2023 | Pocono Record
-Ensuring LGBTQ+ Pennsylvanians have a seat at the table | Our Turn
-“We will also be introducing the Protection of Minors from Conversion Therapy (with Rep.
+As a Black person, I’m very influenced by the idea of Sankofa, of looking back and learning how to move forward.” February 18, 2023 | Pocono Record Ensuring LGBTQ+ Pennsylvanians have a seat at the table | Our Turn “We will also be introducing the Protection of Minors from Conversion Therapy (with Rep.
 Ismail Smith-Wade-El), Data for LGBTQ+ Lives, and Pennsylvania protections for Marriage Equality, which we, as co-chairs, will work with Reps.
 Danilo Burgos, La’Tasha D.
-Mayes, Greg Scott, and Ismail Smith-Wade-El to enshrine into our state law.”
-February 6, 2023 | ABC27 WHTM
-Honoring Black History: Ismail Smith-Wade-El
-“I think the win is nice, but what I see in front of me really is a duty to make sure that we keep elevating that thing.
-You can get into one of these seats and just feel very comfortable. ‘I’m here, I’m great.’ or you can recognize that you have an obligation to show up for your hometown,”
-November 9, 2022 | LancasterOnline
-Meet Izzy Smith-Wade-El, Lancaster’s first Black, queer Pa. state representative
-“(Politicians) forget about the things that people need that really made them want to run for office in the beginning.”
-February 4, 2022 | Touchstone Foundation
-Black History Month Spotlight: Ismail Smith-Wade-El
-“You need and deserve rest and play, closeness with people who care about you, and distance from spaces and people that are harmful to you.
-That may often be more easily said than done, but it is your right nonetheless.”
-December 1, 2021 | LancasterOnline
-Opposition to Hatred Remains Imperative [column]
-“Lancaster belongs to all of us, and it’s going to take all of us to ensure that no matter how we look, whom we love, or how we worship, all are welcome here.”
-Lanc.
+Mayes, Greg Scott, and Ismail Smith-Wade-El to enshrine into our state law.” February 6, 2023 | ABC27 WHTM Honoring Black History: Ismail Smith-Wade-El “I think the win is nice, but what I see in front of me really is a duty to make sure that we keep elevating that thing.
+You can get into one of these seats and just feel very comfortable. ‘I’m here, I’m great.’ or you can recognize that you have an obligation to show up for your hometown,” November 9, 2022 | LancasterOnline Meet Izzy Smith-Wade-El, Lancaster’s first Black, queer Pa. state representative “(Politicians) forget about the things that people need that really made them want to run for office in the beginning.” February 4, 2022 | Touchstone Foundation Black History Month Spotlight: Ismail Smith-Wade-El “ You need and deserve rest and play, closeness with people who care about you, and distance from spaces and people that are harmful to you.
+That may often be more easily said than done, but it is your right nonetheless .” December 1, 2021 | LancasterOnline Opposition to Hatred Remains Imperative [column] “Lancaster belongs to all of us, and it’s going to take all of us to ensure that no matter how we look, whom we love, or how we worship, all are welcome here.” September 23, 2021 | Pennsylvania Capital-Star Lanc.
 Co.
-EMS faces funding deficit, the latest in a trend of statewide EMS funding woes
-‘We are in the crosshairs of no one wanting to own the problem,’ one local leader said, as he scrambles to close a funding gap.
-October 27, 2021 | One United Lancaster
-Lancaster City Council Approves Record Sum for Affordable Housing
-Council President Ismail Smith-Wade-El congratulated his colleagues for approving the largest direct investment in affordable housing in city history, prompting a round of applause by council members and the audience in council chambers.
-October 15, 2021 | Lancaster Online
-Lancaster city looks to add affordable housing with $1 million lot on Marietta Ave
-Lancaster city officials hope to close on the $1 million purchase of a parking lot near the former St.
+EMS faces funding deficit, the latest in a trend of statewide EMS funding woes ‘We are in the crosshairs of no one wanting to own the problem,’ one local leader said, as he scrambles to close a funding gap.
+October 27, 2021 | One United Lancaster Lancaster City Council Approves Record Sum for Affordable Housing Council President Ismail Smith-Wade-El congratulated his colleagues for approving the largest direct investment in affordable housing in city history, prompting a round of applause by council members and the audience in council chambers.
+October 15, 2021 | Lancaster Online Lancaster city looks to add affordable housing with $1 million lot on Marietta Ave Lancaster city officials hope to close on the $1 million purchase of a parking lot near the former St.
 Joseph Hospital to build new income-restricted apartments, they revealed this week.
-Lancaster city residents imagine a future without a prison on East King Street
-Residents neighboring the Lancaster County Prison, which has been a fixture for decades on East King Street in Lancaster, have mixed views on its effect on the area.
-September 14, 2020 | Penn Live
-Lancaster police shooting: mayor calls for better mental health services, fighting inequality
-The death of Ricardo Munoz by police was used as a stepping stone to address Lancaster’s issues regarding poverty and mental health at a press conference held by city officials on Sept. 14.
-September 17, 2020 | Penn Live
-‘These orders were, in fact, detention orders’: Lancaster activists decry $1 million bail for protesters
-There aren’t many press conferences held when activists, supporters, and city government leaders can both celebrate and condemn existing judicial procedures, but that’s what happened Thursday at Faith Tabernacle in Lancaster.
-May 21, 2021 | WGAL
-School District of Lancaster renames two schools
-Two schools in the School District of Lancaster are getting new names.
+September 26, 2021 | Lancaster Online Lancaster city residents imagine a future without a prison on East King Street Residents neighboring the Lancaster County Prison, which has been a fixture for decades on East King Street in Lancaster, have mixed views on its effect on the area.
+September 14, 2020 | Penn Live Lancaster police shooting: mayor calls for better mental health services, fighting inequality The death of Ricardo Munoz by police was used as a stepping stone to address Lancaster’s issues regarding poverty and mental health at a press conference held by city officials on Sept.
+14.
+September 17, 2020 | Penn Live ‘These orders were, in fact, detention orders’: Lancaster activists decry $1 million bail for protesters There aren’t many press conferences held when activists, supporters, and city government leaders can both celebrate and condemn existing judicial procedures, but that’s what happened Thursday at Faith Tabernacle in Lancaster.
+May 21, 2021 | WGAL School District of Lancaster renames two schools Two schools in the School District of Lancaster are getting new names.
 The school board approved renaming Southeast Middle School to Hazel I.
 Jackson Middle School.
+Facebook Twitter Instagram Paid for by Friends of Izzy, PO Box 178 Lancaster PA 17608 info@izzyforlancaster.com

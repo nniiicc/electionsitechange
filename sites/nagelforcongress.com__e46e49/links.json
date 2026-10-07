@@ -1,12 +1,50 @@
 [
-"https://facebook.com/NagelForCongress",
-"https://instagram.com/nagelforcongress",
-"https://nagelforcongress.com/",
-"https://nagelforcongress.com/privacy-policy",
-"https://secure.winred.com/nagel-for-congress/website-links",
-"https://secure.winred.com/nagel-for-congress/website-links?amount=100",
-"https://secure.winred.com/nagel-for-congress/website-links?amount=250",
-"https://secure.winred.com/nagel-for-congress/website-links?amount=50",
-"https://secure.winred.com/nagel-for-congress/website-links?amount=500",
-"https://x.com/Nagel4Congress"
+{
+"text": "$100",
+"href": "https://secure.winred.com/nagel-for-congress/website-links?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/nagel-for-congress/website-links?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/nagel-for-congress/website-links?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/nagel-for-congress/website-links?amount=500"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nagel-for-congress/website-links"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/nagel-for-congress/website-links"
+},
+{
+"text": "THIS LINK",
+"href": "https://nagelforcongress.com/privacy-policy"
+},
+{
+"text": "Terms & Privacy Policy",
+"href": "https://nagelforcongress.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://nagelforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NagelForCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nagelforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Nagel4Congress"
+}
 ]

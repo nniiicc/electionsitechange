@@ -1,11 +1,6 @@
-Back to All Events
-Volunteer to door knock for Matt Norris!
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Back to All Events Door Knock for Matt Norris Saturday, August 22, 2026 12:00 PM 3:00 PM Lexington Athletic Complex 4286 121st Avenue Northeast Blaine, Minnesota, 55449 United States (map) Google Calendar ICS Volunteer to door knock for Matt Norris!
 Register here so we know you’re coming.
 We’ll meet by the big red barn at the Lexington Athletic Complex in Blaine.
-Previous
-Previous
-August 19
-Door Knock for Matt Norris
-Next
-Next
-August 26
+Previous Previous August 19 Door Knock for Matt Norris Next Next August 26 Door Knock for Matt Norris Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

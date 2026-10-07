@@ -1,12 +1,50 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://instagram.com/rich4sc",
-"https://organizedthemes.com/theme/forward",
-"https://rich4sc.org/",
-"https://rich4sc.org/2026/09/30/726",
-"https://rich4sc.org/about",
-"https://rich4sc.org/author/fiveoff",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/events"
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Buy Now",
+"href": "https://www.organizedthemes.com/theme/forward/"
+},
+{
+"text": "Cancel reply",
+"href": "https://rich4sc.org/2026/09/30/726/#respond"
+},
+{
+"text": "Comment",
+"href": "https://rich4sc.org/2026/09/30/726/#comments"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "fiveoff",
+"href": "https://rich4sc.org/author/fiveoff/"
+}
 ]

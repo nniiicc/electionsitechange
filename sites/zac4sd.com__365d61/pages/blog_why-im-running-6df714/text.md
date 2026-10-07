@@ -1,9 +1,7 @@
-From the campaign
-Why I'm Running: A Letter to District 32
-Eight years ago a family court case brought my son to Rapid City, and I followed him here.
+Skip to content Zac .
+Martin SD House 32 About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate About Platform Affordability Family Court Reform Blog Get Involved Volunteer Donate Home / Blog From the campaign June 13, 2026 Why I'm Running: A Letter to District 32 Eight years ago a family court case brought my son to Rapid City, and I followed him here.
 Here is the honest reason I am on your ballot for State House, District 32.
-Neighbor,
-In a few days you will pick up a ballot, and somewhere past the races everyone talks about, you will find the two votes you get for State House, District 32.
+Neighbor, In a few days you will pick up a ballot, and somewhere past the races everyone talks about, you will find the two votes you get for State House, District 32.
 I am asking for one of them.
 Before you decide, you deserve to know why I am asking.
 Eight years ago, a family court case brought my son to Rapid City.
@@ -27,8 +25,7 @@ That is the honest reason I am on your ballot.
 Not a party ladder.
 Not a career move.
 One vote, and the certainty that the families of this district deserve better than one vote short.
-What I am asking you to vote for
-If you send me to Pierre, you are voting for property tax relief that does not depend on a sales tax hike.
+What I am asking you to vote for If you send me to Pierre, you are voting for property tax relief that does not depend on a sales tax hike.
 Schools where parents decide and teachers teach.
 An economy that grows what we already love, from downtown to North Rapid, alongside the Ellsworth mission next door.
 Elections you can trust.
@@ -42,8 +39,21 @@ Win or lose, that part does not change.
 But with your vote, it becomes law instead of just a fight.
 Strong Families.
 Strong South Dakota.
-Zac
-Polls are open 7am to 7pm on Tuesday, November 3.
+Zac Polls are open 7am to 7pm on Tuesday, November 3.
 Find your polling place at sdsos.gov.
 If you have already voted absentee, thank you.
-Hand this letter to a neighbor.
+Hand this letter to a neighbor. ← All posts Subscribe on Substack → Join the campaign We win District 32 the old fashioned way .
+Door by door.
+Neighbor by neighbor.
+Yard sign by yard sign.
+Every conversation, every donation, every shift counts.
+This is a grassroots campaign for the heart of Rapid City, and that is exactly what it takes.
+Donate Volunteer Yard Sign Zac .
+Martin SD House 32 Strong Families.
+Strong South Dakota.
+For South Dakota House District 32.
+The heart of Rapid City: downtown and North Rapid.
+Election Day November 3, 2026 Campaign About Zac Platform Afford to Live Here Family Court Reform Blog Press Kit Get Involved Volunteer Donate Yard Signs Host an Event Connect Facebook YouTube Substack © 2026 Zac Martin for South Dakota House District 32 .
+All rights reserved.
+Paid for by Zac Martin for South Dakota.
+Privacy Terms Zac Martin for South Dakota is registered with the South Dakota Secretary of State .

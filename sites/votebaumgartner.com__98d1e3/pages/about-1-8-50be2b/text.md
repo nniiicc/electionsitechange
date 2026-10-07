@@ -1,6 +1,5 @@
-250 Years of Freedom:
-A 4th of July Message
-As we celebrate the 250th anniversary of our nation’s independence this 4th of July, we are so grateful for the enduring blessings of liberty that our Founders secured for us and the generations that have followed.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE 250 Years of Freedom: A 4th of July Message As we celebrate the 250th anniversary of our nation’s independence this 4th of July, we are so grateful for the enduring blessings of liberty that our Founders secured for us and the generations that have followed.
 Two hundred and fifty years ago, brave patriots declared that we are endowed by our Creator with unalienable rights: Life, Liberty, and the pursuit of Happiness.
 Their bold vision still guides us today as we work to protect freedom and the American Dream right here in Eastern Washington.
 This tremendous milestone reminds us that our Republic thrives when we remain united in defending the principles that make America exceptional.
@@ -10,3 +9,4 @@ Eleanor and I, along with our children, wish you and your families a safe and me
 Whether you’re gathered with loved ones for a parade, fireworks, or a backyard barbecue, may this celebration renew our shared appreciation for the greatest country on earth.
 From our family to yours—Happy 250th Birthday, America!
 God bless you, and God bless the United States of America.
+Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

@@ -1,10 +1,3 @@
-Back to All Events
-Join us to support a candidate with years of experience in serving the people of Stark County and fighting for those who need it most.
-RSVP Here: https://www.eventbrite.com/e/fundraiser-tickets-1983147503568?aff=oddtdtcreator
-Previous
-Previous
-March 7
-Canvassing with Krista
-Next
-Next
-March 29
+0 Skip to Content Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Open Menu Close Menu Donate Home About Krista Media What Krista Believes Endorsements Learn More Events Open Menu Close Menu Home About Krista Media What Krista Believes Endorsements Learn More Events Donate Back to All Events All In Fundraiser Thursday, March 26, 2026 6:00 PM 8:00 PM M Bar 5260 Dressler Road Northwest Canton, OH, 44718 United States (map) Google Calendar ICS Join us to support a candidate with years of experience in serving the people of Stark County and fighting for those who need it most.
+RSVP Here: https://www.eventbrite.com/e/fundraiser-tickets-1983147503568?aff=oddtdtcreator Previous Previous March 7 Canvassing with Krista Next Next March 29 Canton Canvass Launch Contact Us | Privacy Policy Stay Up-To Date Paid for by Community for Krista L.
+Allison //

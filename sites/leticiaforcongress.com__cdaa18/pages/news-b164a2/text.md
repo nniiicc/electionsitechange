@@ -1,9 +1,8 @@
-news & press
-In the news
-Here's what people are saying about my work and my campaign.
-NEWS ARTICLE
-ICE raids push immigrant communities into the shadows, hindering environmental justice efforts
-NEWS ARTICLE
-Ship channel locals are worried about sludge from port expansion.
-Now, they want an external review
-NEWS ARTICLE
+Skip navigation menu About Priorities News Endorsements Events Volunteer Donate About Priorities News Endorsements Events Volunteer Donate news & press In the news Here's what people are saying about my work and my campaign.
+Interview SAFE Communities Talk Show | Election SPECIAL Read more Jan 21 2026 Interview The Vindicator - Candidate Spotlight Read more Jan 21 2026 Interview Off the Kuff Interview with Leticia Gutierrez Read more Jan 7 2026 News article District 9 Democratic candidates speak at Baytown meeting Read more Dec 19 2025 NEWS ARTICLE ICE raids push immigrant communities into the shadows, hindering environmental justice efforts Read more Jul 10 2025 Interview Interview with VIVA!
+Magazine Live!
+Read more Jan 8 2025 NEWS ARTICLE Ship channel locals are worried about sludge from port expansion.
+Now, they want an external review Read more Oct 10 2024 NEWS ARTICLE Alumna Leticia Gutierrez: A warrior for the one and only Earth Read more Mar 7 2024 NEWS ARTICLE Leticia Gutierrez: Frontline environmental justice warrior Read more Jan 24 2024 NEWS ARTICLE Texas environment agency’s plan to remedy language on discrimination allegations Read more Mar 14 2022 NEWS ARTICLE How Air Pollution Across America Reflects Racist Policy From the 1930s Read more Mar 9 2022 NEWS ARTICLE Affordability Vs.
+Safety: Houston Debates New Housing Projects In Areas With Environmental Risk Read more Feb 21 2020 NEWS ARTICLE Community Advocates Ask For Congressional Hearings On Houston Area Fires Read more Apr 16 2019 NEWS ARTICLE Residents Want State To Take Close Look At Pasadena Refinery Permit Read more Jan 29 2016 NEWS ARTICLE Democracy Docket - ICE killed a man in Houston and residents want answers Read more Jul 22 2026 Privacy Policy info@leticiaforcongress.com Leticia for Congress PO Box 262027 Houston, TX 77207 For Media Inquiries: press@leticiaforcongress.com Powered by RUN! website builder Political Adv.
+Paid for by the Leticia Gutierrez for Congress.
+You need to enable JavaScript to run this app.

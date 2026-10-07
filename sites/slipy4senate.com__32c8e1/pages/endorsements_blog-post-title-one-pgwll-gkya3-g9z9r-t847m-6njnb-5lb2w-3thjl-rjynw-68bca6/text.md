@@ -1,6 +1,4 @@
-Endorsement from Candi Wilmes Greer, daughter of Denise Slipy
-Submitted by Candi Wilmes Greer, Denise Slipy’s daughter:
-“When real Americans sit down at the dinner table, they don't hold a sign up with red or blue.
+0 Skip to Content Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise What I'll Fight For Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Get Involved Events Join Team Slipy Contact Donate Open Menu Close Menu Home Meet Denise Folder: What I'll Fight For Back Affordability Early Childhood Education Energy Costs & the Environment Health Care Housing Innovation & Technology Public Safety & Justice Transparency & Accountability Working Families & Labor News Endorsements Media Folder: Get Involved Back Events Join Team Slipy Contact Donate Endorsement from Candi Wilmes Greer, daughter of Denise Slipy Apr 23 Written By Ryan Whitaker Submitted by Candi Wilmes Greer, Denise Slipy’s daughter: “When real Americans sit down at the dinner table, they don't hold a sign up with red or blue.
 They discuss the real issues.
 When polled, most of us agree on most things.
 Kids should be able to have free lunch and breakfast.
@@ -23,4 +21,10 @@ They distort and disturb our views and turn us against each other.
 It's our duty as citizens to stand up when enough is enough!
 Let Denise Slipy be your voice, Minnesota!
 I love you Mom.
-I’m proud to be your daughter!”
+I’m proud to be your daughter!” Ryan Whitaker Next Next Endorsement from Shelly Boeglin, sister of Denise Slipy Donate Today Together, We Can Build a Better Future!
+Have a question, idea, or concern?
+I want to hear from you!
+Your input is vital in shaping the future of our community.
+Whether it’s a suggestion, a concern, or a topic you're passionate about, together we can make a real difference.
+Reach out today and be part of the change we need to see!
+Website Designed by Local Artist, Heidi Jeub , From Do-Somthing-Creative Prepared and Paid for by Slipy4Senate Campaign Committee PO Box 254 Brainerd, MN 56401

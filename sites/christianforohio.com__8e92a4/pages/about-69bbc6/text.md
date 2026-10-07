@@ -1,5 +1,4 @@
-My Life Story
-I grew up in poverty in the Appalachian region of Ohio.
+top of page Home About Issues Events Store Volunteer Donate My Life Story I grew up in poverty in the Appalachian region of Ohio.
 It was the kind of poverty that left my mother uncertain about whether we'd have enough to eat the next day.
 The areas in which I grew up held few opportunities for personal growth, and most felt limited to two options: becoming a factory worker or enlisting in the military.
 My senior year of high school, we were unexpectedly corralled into the auditorium to take a test which turned out to be the ASVAB.
@@ -21,5 +20,7 @@ Instead, I accepted the first stable job offer that came my way, which happened 
 Over the following four years, I worked hard, saved diligently, studied, and attended a tech school to make the leap to a software engineering career.
 Today, I remain a software engineer, but my stint in the US Navy as a meteorologist provided me with profound insight into climate and its workings, and transformed me into a staunch advocate for reducing our nation's dependence on oil.
 My experiences with poverty granted invaluable experience in budgeting and making every dollar count, and my roots in rural Ohio instilled in me the belief that when good people come together, there's no challenge we can't overcome.
-All of these experiences lead to this moment and mindset in which I knew I had to act to bring real change and representation for my community in Ohio’s 12th Congressional district and working class families across the country.
-This Congress isn't up to the task.
+All of these experiences lead to this moment and mindset in which I knew I had to act to bring real change and representation for my community in Ohio’s 12th Congressional district and working class families across the country. ​ This Congress isn't up to the task.
+Unlike my opponent, I will never accept bribes from lobbyists, corporations, super PACs, or billionaires.
+Our grassroots campaign has the power to flip OH-12's House seat this year, but our success depends on the support of good Americans like you.
+Donate $1 today to show your support Donate $10 Donate $25 Donate $50 Donate $100 Custom Amount Paid for by Citizens for J Christian Get in touch email: info@christianforohio.com Citizens For J Christian PO Box 315 Galena, OH 43021 bottom of page

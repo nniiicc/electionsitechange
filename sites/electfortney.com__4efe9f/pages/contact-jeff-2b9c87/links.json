@@ -1,9 +1,42 @@
 [
-"https://electfortney.com/",
-"https://electfortney.com/about-us",
-"https://electfortney.com/contact-jeff",
-"https://electfortney.com/endorsements",
-"https://electfortney.com/events",
-"https://electfortney.com/things-to-do/layout-2",
-"https://facebook.com/ElectAnEducator"
+{
+"text": "(480) 779-8663",
+"href": "tel:6023184638"
+},
+{
+"text": "About Me",
+"href": "https://electfortney.com/about-us/"
+},
+{
+"text": "Contact Me",
+"href": "https://electfortney.com/contact-jeff/"
+},
+{
+"text": "ElectFortney@gmail.com",
+"href": "mailto:ElectFortney@gmail.com"
+},
+{
+"text": "Endorsements",
+"href": "https://electfortney.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://electfortney.com/"
+},
+{
+"text": "Media",
+"href": "https://electfortney.com/events/"
+},
+{
+"text": "Ways To Help",
+"href": "https://electfortney.com/things-to-do/layout-2/"
+},
+{
+"text": "[image: logo image]",
+"href": "https://electfortney.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectAnEducator/"
+}
 ]

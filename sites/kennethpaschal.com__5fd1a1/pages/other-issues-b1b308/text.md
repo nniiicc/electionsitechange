@@ -1,4 +1,4 @@
-- KENNETH PASCHAL Retired U.S.
+KennethPaschal.com Home ISSUES 4 Principles Other Issues … Home ISSUES 4 Principles Other Issues KennethPaschal.com Home ISSUES 4 Principles Other Issues … Home ISSUES 4 Principles Other Issues KENNETH PASCHAL Retired U.S.
 Army First Sergeant – Running for Alabama State House of Representative, District 73 Children are our future and society’s greatest assets.
 I will stand to protect all vulnerable children, both born and unborn, irrespective of their parent’s marital status or living arrangement.
 Family and Parental Rights are fundamental rights, which directly influence the upbringing of one’s children.
@@ -23,11 +23,10 @@ Tenth Amendment protects Alabama from Federal encroachment.
 As your legislator, I will utilize this tool to shield us from unfair, unsolicited, and unwarranted Federal laws, decrees, and overreach.
 Fourteenth Amendment provides equal protection for all citizens.
 As a man of integrity with conservative principles, I want to ensure the conservative voice needed in the Alabama State House in order to uphold Equal Rights, Equal Opportunities, and Justice for all.
-Infrastructure is another important component to promote economic development.
+Infrastructure is another important component to promote economic development .
 Improving our highways, streets, roads, and traffic are a priority to me and vital to our district economic development and prosperity.
 I will make sure we get our fair share of state and federal funding.
 We need to ensure an equitable tax burden!
 I will work with fellow legislators to create a tax model that will allow residents and small business owners to pay only what is their reasonable share, and at the same time, still reduce waste and adequately fund our government.
 I served and am still serving!
-Kenneth Paschal Campaign ALL RIGHTS RESERVED © 2021
-“Paid for by the Committee to Elect Kenneth Paschal – PO Box 1214 Pelham, AL 35124”
+Kenneth Paschal Campaign ALL RIGHTS RESERVED © # “Paid for by the Committee to Elect Kenneth Paschal – PO Box 1214 Pelham, AL 35124”

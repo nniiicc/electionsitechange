@@ -1,19 +1,78 @@
 [
-"https://lilytangwilliams.com/congress",
-"https://lilytangwilliams.com/congress/about",
-"https://lilytangwilliams.com/congress/campaign-blog",
-"https://lilytangwilliams.com/congress/campaign-photos",
-"https://lilytangwilliams.com/congress/contact-us",
-"https://lilytangwilliams.com/congress/donate",
-"https://lilytangwilliams.com/congress/endorsements",
-"https://lilytangwilliams.com/congress/events/category/lily-attending",
-"https://lilytangwilliams.com/congress/issues",
-"https://lilytangwilliams.com/congress/lilys-affordability-plan",
-"https://lilytangwilliams.com/congress/parents-for-lily",
-"https://lilytangwilliams.com/congress/press-releases",
-"https://lilytangwilliams.com/congress/privacy-policy",
-"https://lilytangwilliams.com/congress/request-yard-sign",
-"https://lilytangwilliams.com/congress/small-businesses-for-lily",
-"https://lilytangwilliams.com/congress/veterans-for-lily",
-"https://lilytangwilliams.com/congress/volunteer"
+{
+"text": "Campaign Pictures",
+"href": "https://www.lilytangwilliams.com/congress/campaign-photos/"
+},
+{
+"text": "Contact",
+"href": "https://www.lilytangwilliams.com/congress/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://www.lilytangwilliams.com/congress/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lilytangwilliams.com/congress/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.lilytangwilliams.com/congress/events/category/lily-attending/"
+},
+{
+"text": "Join",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "Lily’s Affordability Plan",
+"href": "https://www.lilytangwilliams.com/congress/lilys-affordability-plan/"
+},
+{
+"text": "Lily’s Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Lily’s Story",
+"href": "https://www.lilytangwilliams.com/congress/about/"
+},
+{
+"text": "News",
+"href": "https://www.lilytangwilliams.com/congress/campaign-blog/"
+},
+{
+"text": "Parents for Lily",
+"href": "https://www.lilytangwilliams.com/congress/parents-for-lily/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.lilytangwilliams.com/congress/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://www.lilytangwilliams.com/congress/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lilytangwilliams.com/congress/privacy-policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://www.lilytangwilliams.com/congress/request-yard-sign/"
+},
+{
+"text": "Small Businesses for Lily",
+"href": "https://www.lilytangwilliams.com/congress/small-businesses-for-lily/"
+},
+{
+"text": "Veterans for Lily",
+"href": "https://www.lilytangwilliams.com/congress/veterans-for-lily/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lilytangwilliams.com/congress/volunteer/"
+},
+{
+"text": "[image: Lily Tang Williams for Congress]",
+"href": "https://www.lilytangwilliams.com/congress/"
+}
 ]

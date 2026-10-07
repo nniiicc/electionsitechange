@@ -1,4 +1,4 @@
-Vermonters value strong public schools, but many are increasingly concerned about the rising burden of education property taxes.
+Skip to content Mills for Vermont About endorsements Instagram Facebook X A Fairer Way to Fund Vermont’s Schools July 16, 2026 Vermonters value strong public schools, but many are increasingly concerned about the rising burden of education property taxes.
 As property values climb across the state, many homeowners—especially retirees and working families on fixed or modest incomes—are finding it harder to keep up, especially when their incomes have not increased.
 I believe it’s time to seriously consider shifting Vermont’s education funding system toward a more equitable model based more on income and less on property values.
 Taxes should reflect a person’s ability to pay, and a family’s contribution to education should be tied more closely to what they earn, not simply to what their home happens to be worth.
@@ -13,4 +13,5 @@ The best path forward may be a balanced one: funding education primarily through
 Such an approach could reduce the burden on working families and retirees while preserving a stable funding base for our schools.
 This conversation is ultimately about fairness, affordability, and sustainability.
 Vermont’s students deserve excellent schools, and Vermont’s taxpayers deserve a funding system that reflects today’s economic realities.
-We can achieve both if we’re willing to have an honest and thoughtful discussion about reform.
+We can achieve both if we’re willing to have an honest and thoughtful discussion about reform. we8in Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Mills for Vermont Instagram Facebook X Customize Reject All Accept All Powered by

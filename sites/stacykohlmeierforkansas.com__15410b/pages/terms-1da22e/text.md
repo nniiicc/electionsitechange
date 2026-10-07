@@ -1,20 +1,14 @@
-Terms & Conditions
-Mobile Messaging Program Consent
-By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Stacy Kohlmeier for Kansas:
-- Polling/Voting Text Messages: Such as election reminders and opinion polls.
-- Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
-Opt-In Methods
-- Completing a sign-up form on our website and checking the text message consent box.
-- Providing explicit consent in any other manner as indicated by [INSERT ORGANIZATION NAME].
-Message Terms
-- Messages may be sent using an autodialer or similar technology.
-- Message frequency may vary depending on your interaction with the Program.
-- Standard message and data rates may apply.
-- Wireless carriers are not liable for delayed or undelivered messages.
-STOP Command
-To stop receiving messages, text STOP at any time.
+0 Skip to Content Stacy Kohlmeier for Kansas House D67 Home Meet Stacy About D67 Volunteer Donate Open Menu Close Menu Stacy Kohlmeier for Kansas House D67 Home Meet Stacy About D67 Volunteer Donate Open Menu Close Menu Home Meet Stacy About D67 Volunteer Donate Terms & Conditions Mobile Messaging Program Consent By signing up for our Mobile Messaging Program, you consent to receive the following types of text messages from Stacy Kohlmeier for Kansas: Polling/Voting Text Messages: Such as election reminders and opinion polls.
+Public Service Announcement Text Messages: Including legislative updates, member updates, and voter education.
+Opt-In Methods Completing a sign-up form on our website and checking the text message consent box.
+Providing explicit consent in any other manner as indicated by [INSERT ORGANIZATION NAME].
+Message Terms Messages may be sent using an autodialer or similar technology.
+Message frequency may vary depending on your interaction with the Program.
+Standard message and data rates may apply.
+Wireless carriers are not liable for delayed or undelivered messages.
+STOP Command To stop receiving messages, text STOP at any time.
 You will receive a confirmation text confirming you have been unsubscribed.
 After this, you will no longer receive messages from the Program unless you opt back in.
-HELP Command
-For help, text HELP or contact us at stacy@stacykohlmeierforkansas.com or (785) 236-8446.
+HELP Command For help, text HELP or contact us at stacy@stacykohlmeierforkansas.com or (785) 236-8446.
 You will receive instructions on how to use the service.
+Contact | Privacy Policy | Terms & Conditions | Donate Paid for by Stacy Kohlmeier for Kansas House | Mark Knackendoffel, Treasurer

@@ -1,19 +1,86 @@
 [
-"https://facebook.com/PeteStauberMN",
-"https://instagram.com/petestaubermn",
-"https://pete-stauber-for-congress.revv.co/storefront",
-"https://petestauberforcongress.com/",
-"https://petestauberforcongress.com/about",
-"https://petestauberforcongress.com/contact",
-"https://petestauberforcongress.com/get-involved",
-"https://petestauberforcongress.com/privacy-policy",
-"https://secure.anedot.com/stauberforcongress/donate",
-"https://secure.anedot.com/stauberforcongress/donate?amount=100",
-"https://secure.anedot.com/stauberforcongress/donate?amount=25",
-"https://secure.anedot.com/stauberforcongress/donate?amount=250",
-"https://secure.anedot.com/stauberforcongress/donate?amount=50",
-"https://secure.winred.com/pete-stauber-for-congress/22-mittens",
-"https://twitter.com/PeteStauber",
-"https://vote.petestauberforcongress.com/",
-"https://youtube.com/channel/UC6ODVByRYt9Ect2Rk8_6lEw"
+{
+"text": "Commit to Vote",
+"href": "https://vote.petestauberforcongress.com"
+},
+{
+"text": "Contact Us",
+"href": "https://petestauberforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/stauberforcongress/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://petestauberforcongress.com/get-involved/"
+},
+{
+"text": "Meet Pete",
+"href": "https://petestauberforcongress.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://petestauberforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://petestauberforcongress.com/privacy-policy/"
+},
+{
+"text": "Purchase Custom Choppers",
+"href": "https://secure.winred.com/pete-stauber-for-congress/22-mittens"
+},
+{
+"text": "Terms & Conditions and Privacy Policy",
+"href": "https://petestauberforcongress.com/privacy-policy"
+},
+{
+"text": "Visit the Store",
+"href": "https://pete-stauber-for-congress.revv.co/storefront/"
+},
+{
+"text": "[image: Pete Stauber for Congress]",
+"href": "https://petestauberforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/stauberforcongress/donate"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/stauberforcongress/donate?amount=100"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/stauberforcongress/donate?amount=25"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/stauberforcongress/donate?amount=250"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/stauberforcongress/donate?amount=50"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/PeteStauber%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PeteStauberMN%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/petestaubermn%20"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC6ODVByRYt9Ect2Rk8_6lEw%20"
+},
+{
+"text": "info@stauberforcongress.com",
+"href": "mailto:info@stauberforcongress.com"
+}
 ]

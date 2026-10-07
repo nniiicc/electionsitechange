@@ -1,20 +1,78 @@
 [
-"https://bsky.app/profile/daveminca.bsky.social",
-"https://davemin.com/",
-"https://davemin.com/about",
-"https://davemin.com/endorsements",
-"https://davemin.com/issues",
-"https://davemin.com/privacy-policy",
-"https://davemin.com/request-a-yard-sign",
-"https://davemin.com/terms-conditions",
-"https://davemin.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/daveminca",
-"https://flickr.com/photos/164422259@N03",
-"https://instagram.com/davemin_ca",
-"https://secure.actblue.com/donate/dm-launch",
-"https://store.davemin.com/",
-"https://threads.net/@davemin_ca",
-"https://x.com/daveminCA",
-"https://youtube.com/@DaveMinCA"
+{
+"text": "Contact",
+"href": "mailto:info@davemin.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dm-launch"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davemin.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davemin.com/volunteer"
+},
+{
+"text": "Meet Dave & Jane",
+"href": "https://www.davemin.com/about"
+},
+{
+"text": "On the Issues",
+"href": "https://www.davemin.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.davemin.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Request A Yard Sign!",
+"href": "https://www.davemin.com/request-a-yard-sign"
+},
+{
+"text": "Store",
+"href": "https://store.davemin.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.davemin.com/terms-conditions"
+},
+{
+"text": "[image: Dave Min for Congress]",
+"href": "https://www.davemin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/daveminca.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/daveminca"
+},
+{
+"text": "[no text]",
+"href": "https://flickr.com/photos/164422259@N03/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/davemin_ca"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@davemin_ca"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@DaveMinCA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/daveminCA"
+}
 ]

@@ -1,22 +1,98 @@
 [
-"https://bsky.app/profile/claireforqueens.bsky.social",
-"https://clairevaldezforcongress.com/",
-"https://clairevaldezforcongress.com/endorsements",
-"https://clairevaldezforcongress.com/es/issues/memo/queer-and-trans-liberation",
-"https://clairevaldezforcongress.com/issues",
-"https://clairevaldezforcongress.com/issues?issue=housing",
-"https://clairevaldezforcongress.com/volunteer",
-"https://facebook.com/claireforqueens",
-"https://forge.coop/",
-"https://instagram.com/claireforny",
-"https://kiro7.com/news/local/seattle-lgbtq-commision-urges-city-decalre-emergency-more-queer-trans-people-move-area/ZUGCL63D3FEDJP5M6KFTATSJPA",
-"https://nationalhomeless.org/lgbtq-homelessness",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/cvct",
-"https://store.clairevaldezforcongress.com/",
-"https://threads.com/@claireforny",
-"https://tiktok.com/@claireforny",
-"https://x.com/claireforny",
-"https://youtube.com/@claireforny"
+{
+"text": "About",
+"href": "https://clairevaldezforcongress.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cvct"
+},
+{
+"text": "Endorsements",
+"href": "https://clairevaldezforcongress.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://clairevaldezforcongress.com/es/issues/memo/queer-and-trans-liberation"
+},
+{
+"text": "Issues",
+"href": "https://clairevaldezforcongress.com/issues"
+},
+{
+"text": "Jobs",
+"href": "https://clairevaldezforcongress.com/jobs"
+},
+{
+"text": "Merch",
+"href": "https://store.clairevaldezforcongress.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://clairevaldezforcongress.com/volunteer"
+},
+{
+"text": "[image: Built by Forge.coop]",
+"href": "https://www.forge.coop"
+},
+{
+"text": "[image: Claire Valdez for Congress]",
+"href": "https://clairevaldezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/claireforqueens.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/claireforqueens/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@claireforny"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/claireforny"
+},
+{
+"text": "affordable social housing",
+"href": "https://clairevaldezforcongress.com/issues?issue=housing"
+},
+{
+"text": "face disproportionate rates of homelessness, housing insecurity, and discrimination",
+"href": "https://nationalhomeless.org/lgbtq-homelessness/"
+},
+{
+"text": "info@clairevaldezforcongress.com",
+"href": "mailto:info@clairevaldezforcongress.com"
+},
+{
+"text": "press@clairevaldezforcongress.com",
+"href": "mailto:press@clairevaldezforcongress.com"
+},
+{
+"text": "record numbers of transgender people",
+"href": "https://www.kiro7.com/news/local/seattle-lgbtq-commision-urges-city-decalre-emergency-more-queer-trans-people-move-area/ZUGCL63D3FEDJP5M6KFTATSJPA/"
+}
 ]

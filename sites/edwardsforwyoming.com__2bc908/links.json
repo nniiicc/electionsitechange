@@ -1,5 +1,26 @@
 [
-"https://edwardsforwyoming.com/",
-"https://facebook.com/ErinEdwardsForWyoming",
-"https://secure.winred.com/edwards-for-wyoming/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/edwards-for-wyoming/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.edwardsforwyoming.com"
+},
+{
+"text": "Issues",
+"href": "https://www.edwardsforwyoming.com"
+},
+{
+"text": "Meet Erin",
+"href": "https://www.edwardsforwyoming.com"
+},
+{
+"text": "News",
+"href": "https://www.edwardsforwyoming.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ErinEdwardsForWyoming/"
+}
 ]

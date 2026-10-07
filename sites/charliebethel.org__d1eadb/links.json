@@ -1,14 +1,50 @@
 [
-"https://charliebethel.org/",
-"https://charliebethel.org/?page_id=398",
-"https://charliebethel.org/about",
-"https://charliebethel.org/news",
-"https://charliebethel.org/privacy-policy",
-"https://drive.google.com/drive/folders/1p8m9sB-YkQrugtMakaoxFlhFQXCuo1FU",
-"https://facebook.com/Charlie-Bethel-for-Supreme-Court-of-Georgia-126079594074517",
-"https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate",
-"https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=101",
-"https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=2500",
-"https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=500",
-"https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=8400"
+{
+"text": "$101",
+"href": "https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=101"
+},
+{
+"text": "$2,500",
+"href": "https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=2500"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=500"
+},
+{
+"text": "$8,400",
+"href": "https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate?amount=8400"
+},
+{
+"text": "About",
+"href": "https://charliebethel.org/about"
+},
+{
+"text": "Charlie Bethel",
+"href": "https://charliebethel.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-justice-charlie-bethel/donate"
+},
+{
+"text": "Media",
+"href": "https://drive.google.com/drive/folders/1p8m9sB-YkQrugtMakaoxFlhFQXCuo1FU"
+},
+{
+"text": "News",
+"href": "https://charliebethel.org/?page_id=398"
+},
+{
+"text": "News",
+"href": "https://charliebethel.org/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://charliebethel.org/privacy-policy/"
+},
+{
+"text": "[image]FOLLOW CHARLIE’S CAMPAIGN",
+"href": "https://www.facebook.com/Charlie-Bethel-for-Supreme-Court-of-Georgia-126079594074517/"
+}
 ]

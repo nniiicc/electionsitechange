@@ -1,5 +1,1 @@
-Donate by Mail:
-If you would like to make a contribution by mail, you can send a check to:
-Bryan Hughes for Texas Senate
-PO Box 450
-Mineola, TX 75773
+Home About Endorsements Take Action Welcome News Donate Home About Endorsements Take Action Welcome News Donate Donate by Mail: If you would like to make a contribution by mail, you can send a check to: Bryan Hughes for Texas Senate PO Box 450 Mineola, TX 75773 DONATE ONLINE BELOW: Back To Top Donate Political advertisement paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773

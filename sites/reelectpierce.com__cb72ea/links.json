@@ -1,7 +1,22 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSeNcsVGHiFYPYqwg7Pw0CorQSQ9c4cwKfNNHtCsqwZgiyx7dg/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeNcsVGHiFYPYqwg7Pw0CorQSQ9c4cwKfNNHtCsqwZgiyx7dg/viewform?usp=publish-editor",
-"https://facebook.com/PierceforNCHouse",
-"https://secure.actblue.com/donate/committee-to-elect-garland-pierce-1",
-"https://twitter.com/repgpierce1?lang=en"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-garland-pierce-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeNcsVGHiFYPYqwg7Pw0CorQSQ9c4cwKfNNHtCsqwZgiyx7dg/viewform"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeNcsVGHiFYPYqwg7Pw0CorQSQ9c4cwKfNNHtCsqwZgiyx7dg/viewform?usp=publish-editor"
+},
+{
+"text": "[image: White Facebook Icon]",
+"href": "https://www.facebook.com/PierceforNCHouse"
+},
+{
+"text": "[image: White Twitter Icon]",
+"href": "https://twitter.com/repgpierce1?lang=en"
+}
 ]

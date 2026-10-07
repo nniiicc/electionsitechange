@@ -1,12 +1,54 @@
 [
-"https://facebook.com/reinforcolorado",
-"https://instagram.com/reinforcolorado",
-"https://linkedin.com/in/daverein",
-"https://reinforcolorado.com/",
-"https://reinforcolorado.com/contact",
-"https://reinforcolorado.com/events-1",
-"https://reinforcolorado.com/get-involved",
-"https://reinforcolorado.com/issues",
-"https://reinforcolorado.com/meet-dave",
-"https://secure.actblue.com/donate/dave-rein-1"
+{
+"text": "Contact",
+"href": "https://www.reinforcolorado.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/dave-rein-1"
+},
+{
+"text": "Events",
+"href": "https://www.reinforcolorado.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.reinforcolorado.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.reinforcolorado.com"
+},
+{
+"text": "Issues",
+"href": "https://www.reinforcolorado.com/issues"
+},
+{
+"text": "Meet Dave",
+"href": "https://www.reinforcolorado.com/meet-dave"
+},
+{
+"text": "ReinForColorado@gmail.com",
+"href": "mailto:ReinForColorado@gmail.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.reinforcolorado.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/reinforcolorado"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/reinforcolorado/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/reinforcolorado/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/daverein/"
+}
 ]

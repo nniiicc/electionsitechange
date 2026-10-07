@@ -1,17 +1,66 @@
 [
-"https://cookieadmin.net/",
-"https://facebook.com/profile.php?id=61578312764382",
-"https://griselda4illinois.com/",
-"https://griselda4illinois.com/contact",
-"https://griselda4illinois.com/donate",
-"https://griselda4illinois.com/mailing-list",
-"https://griselda4illinois.com/meet-eyde",
-"https://griselda4illinois.com/meet-griselda",
-"https://griselda4illinois.com/news",
-"https://griselda4illinois.com/platform",
-"https://griselda4illinois.com/volunteer",
-"https://instagram.com/griselda4illinois",
-"https://tiktok.com/@griselda4illinois?lang=en",
-"https://x.com/griselda4IL",
-"https://youtube.com/@GriseldaAndEyde4Illinois"
+{
+"text": "Campaign News",
+"href": "https://griselda4illinois.com/news/"
+},
+{
+"text": "Contact",
+"href": "https://griselda4illinois.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://griselda4illinois.com/donate/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61578312764382"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/griselda4illinois/"
+},
+{
+"text": "Follow",
+"href": "https://www.tiktok.com/@griselda4illinois?lang=en"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@GriseldaAndEyde4Illinois"
+},
+{
+"text": "Follow",
+"href": "https://x.com/griselda4IL"
+},
+{
+"text": "Get Involved",
+"href": "https://griselda4illinois.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://griselda4illinois.com/"
+},
+{
+"text": "Join the Mailing List",
+"href": "https://griselda4illinois.com/mailing-list/"
+},
+{
+"text": "Meet Eyde",
+"href": "https://griselda4illinois.com/meet-eyde/"
+},
+{
+"text": "Meet Griselda",
+"href": "https://griselda4illinois.com/meet-griselda/"
+},
+{
+"text": "Platform",
+"href": "https://griselda4illinois.com/platform/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "[image: Griselda for Illinois]",
+"href": "https://griselda4illinois.com/"
+}
 ]

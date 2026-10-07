@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://www.votezwebb.org/events-1",
- "paid_for_by": null,
+ "fingerprint": "738007592b639393993676a7657d6e6f1279fee4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Vote Webb",
  "years_mentioned": [
   "2026"

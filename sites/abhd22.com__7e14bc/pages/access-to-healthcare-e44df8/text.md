@@ -1,9 +1,15 @@
-Access to Healthcare
-I believe healthcare starts with preparedness, especially when it comes to protecting Wyoming’s kids.
+0 Skip to Content Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Priorities Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Newsletters Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Open Menu Close Menu Get to Know Andrew Folder: Priorities Back Affordability & the Economy Protecting Private Property Rights Legacy Industries Public Lands Access to Healthcare Wildlife and Natural Resources Folder: Newsletters Back Reelection Announcement 2026 Legislative Session Recap Letter 2026 Legislative Session Week Three 2026 Legislative Session Week Two 2026 Legislative Session Week One Public Lands Healthcare Property Taxes Contact Donate Access to Healthcare I believe healthcare starts with preparedness, especially when it comes to protecting Wyoming’s kids.
 That belief is shaped by my experience as a volunteer firefighter and certified first responder.
-That’s why I sponsored House Bill 115, focused on making sure schools are ready to respond to cardiac emergencies by putting clear plans in place, training staff, and supporting districts with the resources they need when seconds matter.
+That’s why I sponsored House Bill 115 , focused on making sure schools are ready to respond to cardiac emergencies by putting clear plans in place, training staff, and supporting districts with the resources they need when seconds matter.
 While the bill earned strong early support, it ultimately fell short this session.
 I’m not backing down.
 I’ll continue working to advance solutions like HB 115 that protect students, support schools, and strengthen the health and safety of our communities.
 In previous sessions, I also worked to support the health of those who serve on the front lines.
-I co-sponsored House Bill 66 and championed Senate File 8, expanding access to early cancer screenings for our firefighters and allowing emergency responders to opt in to the state’s employee insurance plan so they have the coverage they deserve.
+I co-sponsored House Bill 66 and championed Senate File 8 , expanding access to early cancer screenings for our firefighters and allowing emergency responders to opt in to the state’s employee insurance plan so they have the coverage they deserve. ■ Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you!
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Campaign Email Subscription Subscribe to Andrew’s campaign emails to learn more about him and upcoming events.
+Email Address Sign Up Thank you! [ NAVIGATION ] Home Issues Get to know Andrew Newsletters Contact Paid for by AB for HD22

@@ -1,5 +1,4 @@
-ABOUT SCOTT
-Scott Singer is an America First Republican running to represent Florida’s 25th district in Congress.
+0 Skip to Content ENDORSEMENTS PRIORITIES ABOUT MEDIA English DONATE Open Menu Close Menu English DONATE ENDORSEMENTS PRIORITIES ABOUT MEDIA Open Menu Close Menu ENDORSEMENTS PRIORITIES ABOUT MEDIA English Back DONATE ABOUT SCOTT Scott Singer is an America First Republican running to represent Florida’s 25th district in Congress.
 As Congressman, he will keep taxes and costs low, and ensure strong borders and national defense.
 We deserve accountability from Congress and leaders who are interested in results more than headlines.
 Scott has a strong record as Mayor of Boca Raton where he served our community honorably for more than decade and got things done.
@@ -20,3 +19,4 @@ As the inaugural Chair of the America First Policy Institute Mayors’ Council, 
 Singer has been active in a variety of nonprofit and leadership roles.
 Scott has been a strong voice against antisemitism, and an advocate for stronger national security that safeguards our borders and protects our future.
 Scott and his wife, Bella, are the proud parents of two children, and Scott is motivated to work for the next generation to ensure a better future for our community, our state, and our nation.
+Scott Singer for Congress PO Box 810335 Boca Raton, FL 33481 PRIVACY POLICY

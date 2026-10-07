@@ -1,4 +1,6 @@
-VERO BEACH, Fla. —Republican congressional candidate Dan Green announced Monday that he has received endorsements from U.S.
+Home Meet Dan Endorsements News Volunteer Donate Skip to content Dan Green lands endorsements from Sen.
+Tim Sheehy, former Sen.
+Connie Mack in FL-9 race August 3, 2026 | by Kennedy Owens on Florida Voice VERO BEACH, Fla. —Republican congressional candidate Dan Green announced Monday that he has received endorsements from U.S.
 Sen.
 Tim Sheehy of Montana and former U.S.
 Sen.
@@ -6,10 +8,8 @@ Connie Mack III as he campaigns for Florida’s 9th Congressional District.
 Green, a Navy Reserve officer and former Trump administration Defense Department official, said the endorsements add to support he has already received from several Florida elected officials, law enforcement leaders and military veterans.
 Sheehy, a former Navy SEAL officer who served alongside Green in Afghanistan, said Green has demonstrated the leadership needed to serve in Congress.
 “Dan Green and I served in some of the most dangerous and unforgiving battlefields of Afghanistan, where leading from the front and working as a team made the difference between life and death,” Sheehy said in a statement.
-“He is exactly the kind of conservative fighter and patriot we need in Congress.”
-Mack, who represented Florida in the U.S.
-Senate from 1989 to 2001, described Green as “the true conservative fighter we need in Congress.”
-Green is seeking the Republican nomination in Florida’s 9th Congressional District.
+“He is exactly the kind of conservative fighter and patriot we need in Congress.” Mack, who represented Florida in the U.S.
+Senate from 1989 to 2001, described Green as “the true conservative fighter we need in Congress.” Green is seeking the Republican nomination in Florida’s 9th Congressional District.
 His campaign said he has also been endorsed by Osceola County Sheriff Chris Blackmon, Brevard County Sheriff Wayne Ivey, state Sen.
 Danny Burgess, state Reps.
 Patt Maney and Fiona McFarland, and several local officials and veterans.
@@ -17,3 +17,6 @@ According to the campaign, Green served as deputy assistant secretary of defense
 He has served for 23 years in the U.S.
 Navy and currently serves as an active drilling reserve officer.
 A Vero Beach native, Green also co-founded the War Veterans Fund, a political organization that supports military veterans seeking election to Congress.
+Home Meet Dan Endorsements News Volunteer Donate Media Paid for by Dan Green for Congress Dan Green is a member of the U.S.
+Navy Reserves.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of War.

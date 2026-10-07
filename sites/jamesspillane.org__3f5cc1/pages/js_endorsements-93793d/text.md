@@ -1,13 +1,4 @@
-PLEDGES
-Americans for Tax Reform (ATR Pledge)
-Citizens Alliance of New Hampshire (CANH)
-Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT)
-SCORES and RATINGS (based on voting records or surveys)
-ENDORSED BY THESE ORGANIZATIONS
-Cornerstone Policy Research (CPR)
-NH Liberty Alliance (NHLA)
-NH Right to Life (NHRTL)
-Young Americans for Liberty (YAL)
-VOTING RECORD
-To see how Rep.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Endorsements 2024 PLEDGES Americans for Tax Reform (ATR Pledge) Citizens Alliance of New Hampshire (CANH) Coalition of NH Taxpayers Anti-Broadbased Tax Pledge (CNHT) SCORES and RATINGS (based on voting records or surveys) American Conservative Union (ACU) – 98% Americans for Prosperity (AFP-NH) – 94% Granite State Taxpayers Tax Gold Award (GST) – 100% NH House Republican Alliance (HRA) – 100% NH Firearms Coalition (NHFC) – A+ National Rifle Association (NRA) – A ENDORSED BY THESE ORGANIZATIONS Cornerstone Policy Research (CPR) NH Liberty Alliance (NHLA) NH Right to Life (NHRTL) Young Americans for Liberty (YAL) VOTING RECORD To see how Rep.
 Spillane voted on all bills, please visit his NH State Representative website.
+SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

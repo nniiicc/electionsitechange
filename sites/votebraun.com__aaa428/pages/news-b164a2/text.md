@@ -1,75 +1,15 @@
-Press Coverage
-In the News
-Published coverage from newspapers, public radio, and media across Southwest Washington and statewide.
-Thank you!
+Home About Issues Events News Volunteer Donate Press Coverage In the News Published coverage from newspapers, public radio, and media across Southwest Washington and statewide.
+News Op-Ed Campaign Editorial Thank you!
 Your submission has been received!
 Oops!
 Something went wrong while submitting the form.
-Op-Ed
-The Chronicle
-•
-September 28, 2026
-Editorial
-The Columbian
-September 24, 2026
-September 21, 2026
-Campaign
-John Braun for Congress
-September 15, 2026
-September 11, 2026
-Nisqually Valley News
-September 4, 2026
-August 31, 2026
-August 28, 2026
-August 12, 2026
-The Daily Chronicle
-August 5, 2026
-July 23, 2026
-July 20, 2026
-The Oregonian
-July 14, 2026
-News
-The Center Square
-July 2, 2026
-Lynnwood Times
-June 14, 2026
-June 12, 2026
-June 3, 2026
-May 21, 2026
-May 15, 2026
-The Reflector
-May 8, 2026
-Seattle Red
-Clark County Today
-May 4, 2026
-May 1, 2026
-April 29, 2026
-April 27, 2026
-Clark County stop: State lawmaker from Centralia hopes to unseat Democrat incumbent Rep.
-Marie Gluesenkamp Perez
-April 23, 2026
-April 17, 2026
-April 10, 2026
-Washington State Standard
-March 5, 2026
-Braun publicly apologized on the Senate floor for offensive comments by a Republican colleague.
-March 3, 2026
-OPB
-February 17, 2026
-Braun spoke against the 9.9% income tax during 3.5-hour floor debate.
-February 7, 2026
-February 6, 2026
-January 28, 2026
-January 23, 2026
-January 16, 2026
-January 9, 2026
-December 27, 2025
-December 11, 2025
-December 8, 2025
-November 3, 2025
-October 20, 2025
-September 19, 2025
-August 22, 2025
-KUOW / NPR
-August 12, 2025
-July 17, 2025
+Editorial The Daily Chronicle • October 5, 2026 Richard Stride: For over a decade, Braun has shown up, listened and worked with us rEAD mORE Editorial Campaign The Daily Chronicle • October 2, 2026 The Chronicle Editorial Board endorses John Braun for Congress rEAD mORE Campaign Op-Ed The Chronicle • September 28, 2026 John McCroskey: MGP maims the facts in her attack on Braun's company safety record rEAD mORE Op-Ed Editorial The Columbian • September 24, 2026 Letter: Braun is qualified for Congress rEAD mORE Editorial Editorial The Columbian • September 24, 2026 Letter: Support Braun for Congress rEAD mORE Editorial Editorial The Chronicle • September 21, 2026 Letter to the editor: What is Marie Gluesenkamp Perez hiding? rEAD mORE Editorial Editorial The Chronicle • September 21, 2026 Letter to the editor: John Braun for Congress — a dedicated public servant rEAD mORE Editorial Campaign John Braun for Congress • September 15, 2026 Perez Ad Exploits Workplace Tragedies and Distorts the Facts rEAD mORE Campaign Editorial The Chronicle • September 11, 2026 Letter: I voted for MGP — This November, I’m Voting for Braun rEAD mORE Editorial Op-Ed Nisqually Valley News • September 4, 2026 I Worked with John Braun — the Attack Ads Don’t Tell the Truth rEAD mORE Op-Ed Campaign John Braun for Congress • August 31, 2026 Fact Check: Setting the Record Straight on Gluesenkamp Perez’s New Attack Ad rEAD mORE Campaign Editorial The Chronicle • August 31, 2026 Letter to the Editor: John Braun is the real deal rEAD mORE Editorial Editorial The Columbian • August 28, 2026 Letter: Braun has strong qualifications rEAD mORE Editorial Editorial The Chronicle • August 12, 2026 Letter to the editor: Elect John Braun, "the real deal," to Congress rEAD mORE Editorial Editorial The Daily Chronicle • August 5, 2026 Letter: John Braun Offers the Refreshing Leadership Southwest Washington needs rEAD mORE Editorial Editorial The Columbian • July 23, 2026 Letter: Support Braun for Congress rEAD mORE Editorial Editorial The Chronicle • July 20, 2026 Letter to the Editor: John Braun for Congress — Navy captain, Business Leader and State Senator rEAD mORE Editorial Campaign The Oregonian • July 14, 2026 New poll shows why SW Washington’s House race is drawing national attention rEAD mORE Campaign News The Center Square • July 2, 2026 WATCH: Backers of WA income tax repeal effort turn in half million signatures rEAD mORE News Editorial Lynnwood Times • June 14, 2026 John Braun Commentary: Fighting Fraud Requires the Kind of Leadership State Democrats Lack rEAD mORE Editorial Editorial The Chronicle • June 12, 2026 Letter to the Editor: John Braun is the Best Choice to Represent us in Congress rEAD mORE Editorial Editorial Lynnwood Times • June 3, 2026 John Braun commentary: Amid the heartbreak of the Longview tragedy, a sense of gratitude rEAD mORE Editorial Editorial Lynnwood Times • May 21, 2026 John Braun commentary: Say no to Democrats and their dream of gaining more power rEAD mORE Editorial News The Chronicle • May 15, 2026 Braun makes stop at Tenino’s Skookumchuck Grange as campaign for Congress heats up rEAD mORE News Editorial The Reflector • May 8, 2026 John Braun commentary: To get our state back on the right track, the choice is clear rEAD mORE Editorial Campaign Seattle Red • May 8, 2026 New poll shows John Braun leading Marie Gluesenkamp Perez by 7 in WA-03 rEAD mORE Campaign Campaign Clark County Today • May 4, 2026 State Senator John Braun Makes his case for your vote in Washington’s 3rd Congressional District rEAD mORE Campaign Editorial The Chronicle • May 1, 2026 John Braun commentary: Shine light on governor’s court appointments by requiring Senate confirmation rEAD mORE Editorial Op-Ed The Center Square • April 29, 2026 Braun Op-Ed: Delaying Light Rail Offers Best Hope for New Bridge rEAD mORE Op-Ed News The Daily Chronicle • April 27, 2026 Braun Outlines Campaign Priorities at Meet and Greet Clark County stop: State lawmaker from Centralia hopes to unseat Democrat incumbent Rep.
+Marie Gluesenkamp Perez rEAD mORE News Editorial The Reflector • April 23, 2026 Washington state GOP leader calls AG’s income tax emails 'certainly improper' rEAD mORE Editorial Editorial The Daily Chronicle • April 17, 2026 John Braun: Look no further than Olympia for the true cause of high energy costs rEAD mORE Editorial Editorial The Reflector • April 10, 2026 John Braun commentary: Democrats are in no rush to settle concerns about potential fraud rEAD mORE Editorial News Washington State Standard • March 5, 2026 WA Senator Refuses to Apologize for Inflammatory Remark Braun publicly apologized on the Senate floor for offensive comments by a Republican colleague. rEAD mORE News News The Columbian • March 3, 2026 More Bills Knocked Out of Running in WA Legislature rEAD mORE News News OPB • February 17, 2026 Washington State Senate Approves Tax on Personal Income Over $1M Braun spoke against the 9.9% income tax during 3.5-hour floor debate. rEAD mORE News Editorial The Columbian • February 7, 2026 'Millionaire's Tax' Won't Fix Problems in Wash. rEAD mORE Editorial News The Columbian • February 6, 2026 Clark County Lawmakers Set Sights on Health Care rEAD mORE News Campaign The Daily Chronicle • January 28, 2026 Braun Reports Raising More Than $800,000 in First Four Months rEAD mORE Campaign Op-Ed The Daily Chronicle • January 23, 2026 For the Sake of Washington's Children, Don't Fumble Fentanyl Bill a Fourth Time rEAD mORE Op-Ed Op-Ed The Daily Chronicle • January 16, 2026 An Income Tax on Anyone Would Become an Income Tax on Everyone rEAD mORE Op-Ed News OPB • January 9, 2026 A Preview of Washington's 2026 Legislative Session rEAD mORE News Editorial The Columbian • December 27, 2025 Affordability Is Top Issue for 2026 Legislature rEAD mORE Editorial News The Center Square • December 11, 2025 WA GOP Leaders Say Income Tax Would Devastate Businesses rEAD mORE News Op-Ed Lynnwood Times • December 8, 2025 A State Income Tax Is Illegal, but Don't Expect That to Stop Democrats rEAD mORE Op-Ed News OPB • November 3, 2025 National Groups Bet on Blue-Collar Democrats After Gluesenkamp Perez rEAD mORE News Campaign The Daily Chronicle • October 20, 2025 John Braun Raises $500,000 Kickstarting Congressional Campaign rEAD mORE Campaign Campaign The Daily Chronicle • September 19, 2025 Braun Kicks Off Campaign with First Fundraising Event rEAD mORE Campaign Op-Ed The Daily Chronicle • August 22, 2025 Sales Tax Expansion Is Costly, Chaotic, and Unnecessary rEAD mORE Op-Ed News KUOW / NPR • August 12, 2025 State Sen.
+Braun to Seek Gluesenkamp Perez's Congressional Seat rEAD mORE News News Clark County Today • August 12, 2025 John Braun Announces Run for Congress in WA-03 rEAD mORE News News OPB • August 12, 2025 Washington State Sen.
+Braun to Seek Congressional Seat rEAD mORE News News The Columbian • August 12, 2025 State Sen.
+Braun to Challenge Rep.
+Gluesenkamp Perez rEAD mORE News News Washington State Standard • August 12, 2025 WA GOP Senate Leader Braun to Challenge Gluesenkamp Perez rEAD mORE News Campaign The Daily Chronicle • August 12, 2025 Sen.
+John Braun to Take on MGP for Seat in Congress rEAD mORE Campaign News Washington State Standard • July 17, 2025 Two GOP Legislators Consider Running Against Gluesenkamp Perez rEAD mORE News Help John Win in 2026 WA-03 is one of the most competitive districts in America.
+Your support makes the difference.
+Donate Volunteer Manufacturer · Citizen Legislator · Navy Captain Home About Issues News Volunteer Donate Paid for by John Braun for Congress PO Box 123, Chehalis, WA 98532 John Braun is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense. ‍ Privacy Policy · Terms & Conditions

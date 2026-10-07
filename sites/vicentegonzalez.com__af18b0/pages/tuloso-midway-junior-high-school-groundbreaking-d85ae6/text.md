@@ -1,6 +1,6 @@
-August 13, 2026
-Lainez Architects joined Tuloso-Midway ISD and project partners to celebrate the groundbreaking of the new Tuloso-Midway Junior High School.
+Skip to content Home Meet Vicente Issues Accomplishments News Get Involved Media Home Meet Vicente Issues Accomplishments News Get Involved Media Donate Home Meet Vicente Issues Accomplishments News Get Involved Donate Now Tuloso-Midway Junior High School Groundbreaking Blog September 14, 2026 August 13, 2026 Lainez Architects joined Tuloso-Midway ISD and project partners to celebrate the groundbreaking of the new Tuloso-Midway Junior High School.
 The milestone marks the beginning of construction on a new educational environment designed to serve the district’s students and community for years to come.
 Construction officially received notice to proceed in April 2026, with the new campus anticipated to open in July 2028.
-(Tuloso-Midway ISD)
-We’re proud to help bring the district’s vision for its next generation of learning spaces to life.
+(Tuloso-Midway ISD) We’re proud to help bring the district’s vision for its next generation of learning spaces to life.
+Search Search Table of Contents Latest News Blog Tuloso-Midway Junior High School Groundbreaking Read More » September 14, 2026 No Comments Blog Vicente Gonzalez Meets with Veterans and Local Families Read More » January 7, 2026 No Comments Blog Community Town Hall Highlights Healthcare and Education Concerns Read More » January 7, 2026 No Comments Primary Election: March 3, 2026 General Election November 3, 2026 Home Meet Vicente Issues Accomplishments News Get Involved Media Follow us on Social Media Political Adv.
+Paid for by the Vicente Gonzalez for Congress Committee.

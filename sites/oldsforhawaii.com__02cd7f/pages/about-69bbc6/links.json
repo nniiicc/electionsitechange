@@ -1,12 +1,74 @@
 [
-"http://paypal.me/IkaikaforStateRep",
-"https://facebook.com/IkaikaOldsforStateRep",
-"https://oldsforhawaii.com/",
-"https://oldsforhawaii.com/about",
-"https://oldsforhawaii.com/contact",
-"https://oldsforhawaii.com/get-involved",
-"https://oldsforhawaii.com/services-1",
-"https://paypal.me/IkaikaforStateRep?country.x=US&locale.x=en_US",
-"https://twitter.com/ikaika4staterep",
-"https://venmo.com/u/FriendsofIkaikaOlds"
+{
+"text": "About",
+"href": "https://www.oldsforhawaii.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.oldsforhawaii.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.oldsforhawaii.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://paypal.me/IkaikaforStateRep?country.x=US&locale.x=en_US"
+},
+{
+"text": "Get Involved",
+"href": "https://www.oldsforhawaii.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.oldsforhawaii.com"
+},
+{
+"text": "Home",
+"href": "https://www.oldsforhawaii.com/about"
+},
+{
+"text": "Ikaika Olds (D)",
+"href": "https://www.oldsforhawaii.com"
+},
+{
+"text": "Re-Elect",
+"href": "https://www.oldsforhawaii.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.oldsforhawaii.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.oldsforhawaii.com/get-involved"
+},
+{
+"text": "Working for Change",
+"href": "https://www.oldsforhawaii.com/services-1"
+},
+{
+"text": "[image: App_Icon.png]",
+"href": "https://www.venmo.com/u/FriendsofIkaikaOlds"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/IkaikaOldsforStateRep/"
+},
+{
+"text": "[image: Paypal_2014_logo.png]",
+"href": "http://paypal.me/IkaikaforStateRep"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ikaika4staterep"
+},
+{
+"text": "[no text]",
+"href": "https://www.oldsforhawaii.com"
+},
+{
+"text": "info@oldsforhawaii.com",
+"href": "mailto:info@oldsforhawaii.com"
+}
 ]

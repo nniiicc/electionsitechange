@@ -1,5 +1,4 @@
-COMMUNITY:
-We can create a Minnesota that is a place where freedom and community are for everyone, no exceptions.This means safety for our children in their schools, safety for our families in our communities, and the freedom to be able to work, live, and take care of the ones we love.
+0 Skip to Content About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE Open Menu Close Menu About Issues & Our Wins Endorsements Volunteer In The News Media DONATE COMMUNITY: We can create a Minnesota that is a place where freedom and community are for everyone, no exceptions.This means safety for our children in their schools, safety for our families in our communities, and the freedom to be able to work, live, and take care of the ones we love.
 We have a responsibility to address the health and well-being of all our neighbors and it must be prioritized.
 1.
 We must ensure a just transition plan that invests and implements 100% clean energy, ends pollution, protects our air and water, and creates a future that is sustainable for all Minnesotans no matter where they live.
@@ -13,4 +12,4 @@ Accessible, affordable, quality child for all through vouchers, stipends, or on-
 I support paid family leave for every Minnesotan.
 As a public servant, I’ve seen the impact that one person’s health can have on a family.
 It’s wrong to make workers choose between their livelihood and their health.
-I will fight for creating safer and healthier communities by making family leave universal.
+I will fight for creating safer and healthier communities by making family leave universal. prepared and paid for by Liish for Duluth, PO Box 3234, Duluth, MN 55803 SHARKYLEMON© 2026

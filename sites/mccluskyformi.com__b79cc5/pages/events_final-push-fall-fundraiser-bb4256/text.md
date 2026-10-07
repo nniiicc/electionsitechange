@@ -1,10 +1,2 @@
-Back to All Events
-Join us and special guests to gear up for another upcoming fall season and the final month of the campaign.
-This month will be critical in helping us flip this district and the House and we want you to be a part of it!
-Previous
-Previous
-September 30
-Door Knock with Joseph McClusky
-Next
-Next
-October 2
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Final Push Fall Fundraiser Thursday, October 1, 2026 6:30 PM 8:00 PM Tulyp Hotel 61 East 7th Street Holland, Michigan, 49423 United States (map) Google Calendar ICS Join us and special guests to gear up for another upcoming fall season and the final month of the campaign.
+This month will be critical in helping us flip this district and the House and we want you to be a part of it! https://secure.actblue.com/donate/mccluskyfallfundraiser Previous Previous September 30 Door Knock with Joseph McClusky Next Next October 2 Door Knock with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

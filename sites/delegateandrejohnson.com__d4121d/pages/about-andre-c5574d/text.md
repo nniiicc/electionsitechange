@@ -1,9 +1,8 @@
-About Me
-Andre V.
+HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION More HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION HOME ABOUT ANDRE OUR CAMPAIGN PRIORITIES GET INVOLVED DONATE EVENTS PHOTO GALLERY LEGISLATION About Me MY BACKGROUND Andre V.
 Johnson, Jr. represents District 34A in the Maryland General Assembly, where he has served since 2022 with a focus on education, healthcare, transportation, criminal justice reform, and environmental sustainability.
 A strong advocate for his constituents, he regularly engages with community leaders and collaborates with fellow lawmakers to advance policies that promote equity and opportunity.
-Delegate Johnson serves on the House Economic Matters Committee, where he helps shape legislation on labor, business regulation, consumer protection, and economic development.
-He is also a member of the Alcoholic Beverages Subcommittee, Unemployment Insurance Subcommittee and the Joint Committee on Federal Relations, where he works on issues directly affecting Maryland workers and families.
+Delegate Johnson serves on the House Economic Matters Committee , where he helps shape legislation on labor, business regulation, consumer protection, and economic development.
+He is also a member of the Alcoholic Beverages Subcommittee, Unemployment Insurance Subcommittee and the Joint Committee on Federal Relations , where he works on issues directly affecting Maryland workers and families.
 Prior to his legislative role, Delegate Johnson served on the Harford County Council (2018–2022), helping to manage county budgets and public programs.
 His public service career spans decades, including roles as a Baltimore City Police Officer, Harford County Sheriff’s Deputy, Special Investigator for Baltimore City Housing, and Public Safety Officer at Goucher College.
 He is also a proud U.S.
@@ -18,5 +17,5 @@ Memberships Harford County Democratic Central Committee, 2016; Harford County Bo
 Awards Iraq Campaign Medal; Global War on Terrorism Medal; National Action Network Pathfinders Award, 2022.
 Biographical Information Born at Aberdeen Proving Grounds, Maryland, June 19, 1971; Edgewood High School, Edgewood, Maryland, 1989; Armored Crewman, U.S.
 Army; Special Investigator, Department of Housing and Community Development, Baltimore City; Police Officer, Baltimore City Police Department, Eastern District, 1997-1999; Harford County Sheriff's Office, 2000; Member Harford County Council, representing District A, 2018-2022; Married, five children.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+FRIENDS TO ELECT ANDRE V JOHNSON PO 1155 EDGEWOOD MARYLAND 21040 Copyright © # DELEGATE ANDRE JOHNSON - All Rights Reserved.
+FRIENDS TO ELECT ANDRE V JOHNSON, SHAWNNA JOHNSON TREASURER Powered by

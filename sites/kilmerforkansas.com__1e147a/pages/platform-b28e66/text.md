@@ -1,9 +1,8 @@
-My Campaign
-Kylie is running a completely grassroots campaign, relying on conversations with everyday voters in the community and individual donations.
+top of page Home About Me Platform Endorsements Get Involved Contact More Use tab to navigate through the menu items.
+DONATE VOLUNTEER My Campaign Kylie is running a completely grassroots campaign, relying on conversations with everyday voters in the community and individual donations.
 She is open to conversations with people of all party affiliations and backgrounds and is eager to learn more about the individual priorities of voters.
 She firmly believes that politics should be about people... not parties.
-Platform Highlights
-Veterans should not be taken advantage of by for-profit "claim sharks" that were allowed to operate in Kansas under Republican leadership.
+Platform Highlights Veterans should not be taken advantage of by for-profit "claim sharks" that were allowed to operate in Kansas under Republican leadership.
 Veterans should be supported with education, mental health services, and paperwork support at no cost to the veteran.
 People of all ages and abilities should have access to robust healthcare services with reasonable wait times, transparent and affordable pricing, and high quality of care.
 Children deserve strong education systems with highly-qualified teachers, research-based instructional methods, and safe facilities.
@@ -13,3 +12,4 @@ We should care for our land, our waterways, and our air in a way that protects i
 Jobs that pay a livable wage, access to local goods and services, and options for affordable housing are the foundation of keeping rural communities alive.
 A focus on these pillars is imperative if we want to attract and retain long-term residents.
 Government officials should represent all constituents in their district and be accountable to voters by hosting regularly scheduled opportunities for the electorate to voice their questions and concerns.
+Kylie Kilmer For Kansas House District 70 ​ ​ ​ Paid for by Kilmer for Kansas, Wesley Emberlin, Treasurer. ​ ​ ​ KilmerForKansas @gmail.com (620) 878-0405 bottom of page

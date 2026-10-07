@@ -1,7 +1,9 @@
 {
  "description": "Steve Tyson on the issues",
  "final_url": "https://www.tysonfornchouse.com/issues",
- "paid_for_by": null,
+ "fingerprint": "967dcd35cb8c47568a853a0e808cbfe13a24eb57",
+ "format": 3,
+ "paid_for_by": "",
  "title": "On the Issues",
  "years_mentioned": [
   "2011"

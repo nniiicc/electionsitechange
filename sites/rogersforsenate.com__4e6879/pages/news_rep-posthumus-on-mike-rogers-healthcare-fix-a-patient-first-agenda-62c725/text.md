@@ -1,12 +1,7 @@
-REP.
-POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA
-ROGERS’ PLAN: AFFORDABILITY, ACCESSIBILITY, AND TRANSPARENCY
-In case you missed it… Michigan House Majority Floor Leader and Representative for Michigan’s 90th District Bryan Posthumus, today penned an op-ed in Townhall, which emphasizes Mike Rogers’ plan to make healthcare work for working families.
-OP-ED: Mike Rogers’ Healthcare Fix: Affordability, Accessibility, and Transparency
-Rep.
-Bryan Posthumus
-September 26, 2026
-For more than a quarter century, Michigan's U.S.
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE REP.
+POSTHUMUS ON MIKE ROGERS’ HEALTHCARE FIX: A PATIENT FIRST AGENDA Sep 26 Written By Hinson Peed ROGERS’ PLAN: AFFORDABILITY, ACCESSIBILITY, AND TRANSPARENCY In case you missed it… Michigan House Majority Floor Leader and Representative for Michigan’s 90th District Bryan Posthumus, today penned an op-ed in Townhall, which emphasizes Mike Rogers’ plan to make healthcare work for working families.
+OP-ED: Mike Rogers’ Healthcare Fix: Affordability, Accessibility, and Transparency Townhall Rep.
+Bryan Posthumus September 26, 2026 For more than a quarter century, Michigan's U.S.
 Senate seats have been held by Democrats, and for decades, healthcare has behaved like the one sector of the American economy immune to competition.
 Consumers can compare the price of nearly everything they buy, from groceries to automobiles, but when it comes to medical care, they're often expected to make life-changing financial decisions without knowing the cost until weeks after the bill arrives.
 That isn't a functioning market.
@@ -47,6 +42,11 @@ Those aren't partisan questions.
 They're market questions.
 And for millions of Michigan working families watching healthcare consume an ever-larger share of their household budget, they may be the most important economic questions of all.
 This November, Michigan voters aren't just picking a new United States senator; they're picking between a comprehensive, achievable healthcare plan and a scheme that bankrupts it: real reform with Rogers, or a $32 trillion leap off a cliff with El-Sayed.
-Continue reading at Townhall here.
-Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com.
-###
+Continue reading at Townhall here .
+Learn more about Mike Rogers and his plan to Get Michigan Working Again at RogersForSenate.com .
+### Hinson Peed Previous Previous ROGERS SECURES THREE NEW ENDORSEMENTS, HITS CAMPAIGN TRAIL IN SAGINAW AREA Next Next MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ABDUL CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

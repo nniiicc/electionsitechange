@@ -1,5 +1,4 @@
-About me
-I’m a retired elementary school teacher of 24 years, and I served on the Sitka assembly prior to being elected to the Legislature.
+0 Skip to Content Voter Info Home About Issues Contact DONATE Open Menu Close Menu Open Menu Close Menu Voter Info Home About Issues Contact DONATE Voter Info Home About Issues Contact DONATE About me I’m a retired elementary school teacher of 24 years, and I served on the Sitka assembly prior to being elected to the Legislature.
 On the Assembly, I led the effort to plan for a boom in cruise tourism, co-sponsored resolutions to protect salmon streams and decarbonize city operations.
 In the 33rd Legislature I served on the House Education, Community and Regional Affairs, and Fisheries committees.
 The first legislation to pass both houses during the 33rd Legislature was a resolution I sponsored to support the trollers against the ill-informed lawsuit out of Washington.
@@ -22,3 +21,4 @@ I was appointed to the Alaska State Board of Education and Early Development by 
 Because I value continuous improvement and am a proud lifelong learner I have benefited from some valuable opportunities to improve myself as a legislator.
 In 2024 I attended the Western Legislative Academy with the Council of State Governments (CSG), and in 2025 I was honored to be selected as a Toll Fellow with the same organization.
 With so much riding on the decisions we make in Juneau, I believe it is my responsibility to continuously improve my professional practice.
+Experience Paid for by Rebecca for State House PO Box 6075, Sitka, AK 99835

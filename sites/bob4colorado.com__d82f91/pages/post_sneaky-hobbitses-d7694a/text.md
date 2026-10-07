@@ -1,6 +1,5 @@
-Sneaky Hobbitses
-Sep 14
-Updated: 6 days ago
-Very well-done article by one of the few reporters who pays consistent attention to Douglas County and its ongoing shenanigans from the GOP cabal here...OF course they hired their $915/hr attorney the day the citizen petition was certified in order to undermine and squash it.
+top of page About Platform News Events HD43 Canvass Contact More Use tab to navigate through the menu items.
+DONATE All Posts 2026 Campaign Re-Elect Bob Marshall 2026 Legislative Newsletters 2025 Legislative Newsletters Search Sneaky Hobbitses Bob4Colorado Sep 14 1 min read Updated: Sep 29 Very well-done article by one of the few reporters who pays consistent attention to Douglas County and its ongoing shenanigans from the GOP cabal here...OF course they hired their $915/hr attorney the day the citizen petition was certified in order to undermine and squash it.
 And of course, the same attorney is representing Victor Marx in his campaign finance violation case.
-(Of course the taxpayers were being billed at over $1600/hr with the extra $700/hr sidekick lawyer thrown in for good measure.
+(Of course the taxpayers were being billed at over $1600/hr with the extra $700/hr sidekick lawyer thrown in for good measure. https://coloradotimesrecorder.com/2026/09/judge-lets-sneaky-hobbitses-rewrite-of-3-to-5-ballot-measure-stand/81590/ 2026 Campaign Re-Elect Bob Marshall Recent Posts See All E-BIKE Tax Rebates RIP Jason Harwell Medicaid Paid for by Bob4Colorado ​ Registered Agent: Robert Marshall DONATE BOB MARSHALL IS A RETIRED MARINE CORPS OFFICER.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DO NOT IMPLY ENDORSEMENT BY THE DEPARTMENT OF THE NAVY, MARINE CORPS OR DEPARTMENT OF DEFENSE. bottom of page

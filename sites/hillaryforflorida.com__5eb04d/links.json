@@ -1,14 +1,66 @@
 [
-"https://facebook.com/hillarycasselforfloridahouse",
-"https://hillaryforflorida.com/",
-"https://hillaryforflorida.com/contact",
-"https://hillaryforflorida.com/privacy-policy",
-"https://instagram.com/rephillarycassel",
-"https://secure.anedot.com/hillary-cassel-campaign/donate",
-"https://secure.anedot.com/hillary-cassel-campaign/donate?amount=100",
-"https://secure.anedot.com/hillary-cassel-campaign/donate?amount=25",
-"https://secure.anedot.com/hillary-cassel-campaign/donate?amount=250",
-"https://secure.anedot.com/hillary-cassel-campaign/donate?amount=500",
-"https://x.com/RepCassel",
-"https://x.com/repcassel"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://hillaryforflorida.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://hillaryforflorida.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://hillaryforflorida.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/hillarycasselforfloridahouse/"
+},
+{
+"text": "HELP RE-ELECT REPRESENTATIVE HILLARY CASSEL >",
+"href": "https://secure.anedot.com/hillary-cassel-campaign/donate"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rephillarycassel"
+},
+{
+"text": "Privacy Policy",
+"href": "https://hillaryforflorida.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://hillaryforflorida.com/#volunteer"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/RepCassel"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/repcassel"
+},
+{
+"text": "[image]",
+"href": "https://hillaryforflorida.com"
+}
 ]

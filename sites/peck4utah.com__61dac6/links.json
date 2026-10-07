@@ -1,5 +1,30 @@
 [
-"https://peck4utah.com/",
-"https://peck4utah.com/my-pledge",
-"https://peck4utah.com/my-story"
+{
+"text": "About",
+"href": "https://peck4utah.com/#about"
+},
+{
+"text": "Contact",
+"href": "https://peck4utah.com/#contact"
+},
+{
+"text": "Issues",
+"href": "https://peck4utah.com/#issues"
+},
+{
+"text": "My Pledge",
+"href": "https://peck4utah.com/my-pledge/"
+},
+{
+"text": "My Story",
+"href": "https://peck4utah.com/my-story/"
+},
+{
+"text": "Support",
+"href": "https://peck4utah.com/#Support"
+},
+{
+"text": "[image: Nicholeen Peck for Utah]",
+"href": "https://peck4utah.com"
+}
 ]

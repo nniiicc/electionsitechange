@@ -1,8 +1,10 @@
 {
- "description": "Every election matters. Every vote matters. Make sure you\u2019re registered to vote, choose how you\u2019re going to vote, and track the status of your ballot here.",
+ "description": "Every election matters. Every vote matters. Make sure you’re registered to vote, choose how you’re going to vote, and track the status of your ballot here.",
  "final_url": "https://bradtabke.com/vote",
- "paid_for_by": "paid for by the&nbsp;Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379",
- "title": "Vote | Brad Tabke for Minnesota House \u2014 Tabke for Minnesota",
+ "fingerprint": "ab5c230d84039acc219edd0df66f81e11c5b7e44",
+ "format": 3,
+ "paid_for_by": "paid for by the Tabke (Brad) for MN committee, 1584 Harvest Ln Shakopee, MN 55379",
+ "title": "Vote | Brad Tabke for Minnesota House — Tabke for Minnesota",
  "years_mentioned": [
   "2026"
  ]

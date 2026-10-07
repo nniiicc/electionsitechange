@@ -1,8 +1,26 @@
 [
-"https://instagram.com/shannonforthe117th?igsh=MXhxb3gwdTVkOTJvbQ%3D%3D",
-"https://m.facebook.com/MJShannonforthe117th",
-"https://shannonfor117.com/",
-"https://shannonfor117.com/bio",
-"https://shannonfor117.com/contact-us",
-"https://shannonfor117.com/issues"
+{
+"text": "Bio",
+"href": "https://www.shannonfor117.com/bio"
+},
+{
+"text": "Contact Us",
+"href": "https://www.shannonfor117.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://www.shannonfor117.com"
+},
+{
+"text": "Issues",
+"href": "https://www.shannonfor117.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://m.facebook.com/MJShannonforthe117th/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/shannonforthe117th?igsh=MXhxb3gwdTVkOTJvbQ%3D%3D"
+}
 ]

@@ -1,8 +1,34 @@
 [
-"https://oster-for-us.solidarity.tech/",
-"https://oster-for-us.solidarity.tech/online-meet-up",
-"https://osterforus.com/",
-"https://osterforus.com/block-builders",
-"https://osterforus.com/volunteer",
-"https://secure.actblue.com/donate/osterforus"
+{
+"text": "About",
+"href": "https://osterforus.com/#about"
+},
+{
+"text": "BE A BLOCK BUILDER",
+"href": "https://www.osterforus.com/block-builders/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/osterforus"
+},
+{
+"text": "EVENTS",
+"href": "https://oster-for-us.solidarity.tech"
+},
+{
+"text": "MEET OSTER",
+"href": "https://oster-for-us.solidarity.tech/online-meet-up"
+},
+{
+"text": "PLATFORM",
+"href": "https://osterforus.com/#issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.osterforus.com/volunteer/"
+},
+{
+"text": "[image: magnifico]",
+"href": "https://www.osterforus.com"
+}
 ]

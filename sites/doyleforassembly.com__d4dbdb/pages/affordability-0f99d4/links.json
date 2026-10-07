@@ -1,34 +1,146 @@
 [
-"http://211wisconsin.org/",
-"https://211wisconsin.communityos.org/chat-211",
-"https://access.wi.gov/s?language=en_US",
-"https://cclse.org/community-homeless-shelters",
-"https://co.trempealeau.wi.us/",
-"https://co.trempealeau.wi.us/departments/service_departments/aging___disability_resource_center_%28adrc%29/index.php",
-"https://couleecap.org/need-help/food-and-food-assistance",
-"https://couleecap.org/need-help/shelter-and-housing",
-"https://coveringwi.org/",
-"https://doyleforassembly.com/cart",
-"https://doyleforassembly.com/home",
-"https://energyandhousing.wi.gov/Pages/AgencyResources/energy-assistance.aspx",
-"https://energyandhousing.wi.gov/pages/housing.aspx",
-"https://energybenefit.wi.gov/OnlineApps/OnlineApp/Default",
-"https://facebook.com/DoyleForAssembly",
-"https://greatriversunitedway.org/getting-help/2-1-1",
-"https://habitatlacrosse.org/what-we-do/community-resources/repair",
-"https://hcv.wheda.com/en",
-"https://kwwf.org/",
-"https://lacrossecounty.org/",
-"https://lacrossecounty.org/adrc",
-"https://mtm-inc.net/wisconsin",
-"https://projecthomewi.org/programs/weatherization",
-"https://reachcenterlacrosse.org/get-help",
-"https://salvationarmyusa.org/wi/la-crosse/north-8th-street-corps",
-"https://stclarehealthmission.org/",
-"https://swcap.org/programs-services/housing",
-"https://theparentingplace.net/diaper-bank",
-"https://wafcclinics.org/",
-"https://waferlacrosse.org/",
-"https://wisconsinruralhousing.org/housing-assistance",
-"https://wiwicstrong.com/"
+{
+"text": "0",
+"href": "https://www.doyleforassembly.com/cart"
+},
+{
+"text": "Access Wisconsin: Federal benefit that can help pay for groceries.",
+"href": "https://access.wi.gov/s/?language=en_US"
+},
+{
+"text": "Catholic Charities: Overnight warming center.",
+"href": "https://cclse.org/community-homeless-shelters/"
+},
+{
+"text": "Couleecap: Limited financial asssitance to prevent eviction.",
+"href": "https://couleecap.org/need-help/shelter-and-housing/"
+},
+{
+"text": "Couleecap: Local food pantry connection program.",
+"href": "https://couleecap.org/need-help/food-and-food-assistance/"
+},
+{
+"text": "Couleecap: Stable housing options for those in need.",
+"href": "https://couleecap.org/need-help/shelter-and-housing/"
+},
+{
+"text": "Covering Wisconsin: Counseling to assist in finding available and affordable health insurance.",
+"href": "https://coveringwi.org/"
+},
+{
+"text": "DOYLEFORASSEMBLY.MANAGER@GMAIL.COM",
+"href": "mailto:doyleforassembly.manager@gmail.com"
+},
+{
+"text": "Division of Energy, Housing and Community Resources: A number of programs that support affordable housing.",
+"href": "https://energyandhousing.wi.gov/pages/housing.aspx"
+},
+{
+"text": "Division of Energy, Housing, and Community Resources: Low income energy assistance program.",
+"href": "https://energyandhousing.wi.gov/Pages/AgencyResources/energy-assistance.aspx"
+},
+{
+"text": "Great Rivers 211",
+"href": "https://www.greatriversunitedway.org/getting-help/2-1-1/"
+},
+{
+"text": "Habitat for Humanity: Home improvement project assistance.",
+"href": "https://www.habitatlacrosse.org/what-we-do/community-resources/repair/"
+},
+{
+"text": "Home",
+"href": "https://www.doyleforassembly.com/home"
+},
+{
+"text": "Home Energy +: Energy assistance, HVAC repair, and water system repair.",
+"href": "https://energybenefit.wi.gov/OnlineApps/OnlineApp/Default"
+},
+{
+"text": "Keep Wisconsin Warm: Energy assistance for low income individuals.",
+"href": "https://kwwf.org/"
+},
+{
+"text": "La Crosse ADRC: Congregate dining and home-delivered meal programs for the elderly of La Crosse County.",
+"href": "https://www.lacrossecounty.org/adrc"
+},
+{
+"text": "La Crosse County",
+"href": "https://www.lacrossecounty.org/"
+},
+{
+"text": "MTM: Non-emergency medical transport.",
+"href": "https://www.mtm-inc.net/wisconsin/"
+},
+{
+"text": "Project Home: Assistance with weatherization projects such as insulating exterior walls or replacing inefficient furnaces.",
+"href": "https://www.projecthomewi.org/programs/weatherization/"
+},
+{
+"text": "Reach Center: Tenant resource center.",
+"href": "https://reachcenterlacrosse.org/get-help/"
+},
+{
+"text": "Rural Housing Assistance: Mortgage and property tax assistance.",
+"href": "https://www.wisconsinruralhousing.org/housing-assistance"
+},
+{
+"text": "Rural Housing Assistance: Rental assistance for individuals earning under 80% of the county median income.",
+"href": "https://www.wisconsinruralhousing.org/housing-assistance"
+},
+{
+"text": "SWCap: Counseling and assistance for getting an affordable mortgage.",
+"href": "https://swcap.org/programs-services/housing/"
+},
+{
+"text": "Salvation Army: Short-term housing for individuals experiencing homelessness.",
+"href": "https://www.salvationarmyusa.org/wi/la-crosse/north-8th-street-corps/"
+},
+{
+"text": "Section 8: Rental assistance program funded by the federal government (currently out of funding).",
+"href": "https://hcv.wheda.com/en"
+},
+{
+"text": "St. Clare Health Mission: Walk in Clinic",
+"href": "https://stclarehealthmission.org/"
+},
+{
+"text": "The Parenting Place: Diapers for pickup.",
+"href": "https://www.theparentingplace.net/diaper-bank/"
+},
+{
+"text": "Trempealeau County",
+"href": "https://co.trempealeau.wi.us/"
+},
+{
+"text": "Trempealeau County ADRC: Congregate dining and home-delivered meal programs for the elderly of Trempealeau County.",
+"href": "https://co.trempealeau.wi.us/departments/service_departments/aging___disability_resource_center_%28adrc%29/index.php"
+},
+{
+"text": "WIC Application: Supplemental Nutrition Program for Women, Infants, and Children.",
+"href": "https://www.wiwicstrong.com/"
+},
+{
+"text": "Wafer: Local food pantry with mobile options and senior programs.",
+"href": "https://waferlacrosse.org/"
+},
+{
+"text": "Wisconsin Association of Free and Charitable Clinics: List of clinics that provide medical care.",
+"href": "https://www.wafcclinics.org/"
+},
+{
+"text": "Wisconsin Shares Child Care Subsidy: Assistance with childcare costs.",
+"href": "https://access.wi.gov/s/?language=en_US"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DoyleForAssembly/"
+},
+{
+"text": "www.211wisconsin.communityos.org/chat-211",
+"href": "https://211wisconsin.communityos.org/chat-211"
+},
+{
+"text": "www.211wisconsin.org",
+"href": "http://www.211wisconsin.org"
+}
 ]

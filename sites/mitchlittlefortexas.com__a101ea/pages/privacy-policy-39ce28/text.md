@@ -1,10 +1,8 @@
-TEXT TERMS AND CONDITIONS AND PRIVACY POLICY
-You agree to receive informational messages (event reminders, campaign notifications, etc.) from Mitch Little Campaign.
+Skip to content Home Videos News Endorse Mitch Contact Contribute Privacy Policy TEXT TERMS AND CONDITIONS AND PRIVACY POLICY You agree to receive informational messages (event reminders, campaign notifications, etc.) from Mitch Little Campaign.
 Message frequency varies.
 Message and data rates may apply.
 For help, reply HELP or email us at [email address].
-You can opt out at any time by replying STOP.”
-We respect your right to privacy.
+You can opt out at any time by replying STOP.” We respect your right to privacy.
 We will only use information you provide to transmit your mobile messages and respond to you, if necessary.
 WE DO NOT SELL, RENT, LOAN, TRADE, LEASE OR OTHERWISE TRANSFER FOR PROFIT ANY PHONE NUMBERS OR CUSTOMER INFORMATION COLLECTED THROUGH THE PROGRAM TO ANY THIRD PARTY.
 Nonetheless, We reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect Our rights or property.
@@ -15,3 +13,8 @@ Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.
 Email Info@mitchlittlefortexas.com with questions or for more information.
+Mitch Little CAMPAIGN 2650 FM 407 E.
+STE 145/214 Bartonville, TX 76226 Privacy Policy Do Not Sell or Share My Personal Information .
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+POL.
+AD PAID FOR BY MITCH LITTLE Campaign

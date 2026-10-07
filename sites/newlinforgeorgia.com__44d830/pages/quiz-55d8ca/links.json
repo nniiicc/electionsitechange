@@ -1,7 +1,22 @@
 [
-"https://campaignmanager.newlinforgeorgia.com/privacy",
-"https://newlinforgeorgia.com/compare",
-"https://newlinforgeorgia.com/connect",
-"https://newlinforgeorgia.com/join",
-"https://secure.anedot.com/newlin-for-georgia/donate"
+{
+"text": "Add Jeff As a Contact",
+"href": "https://newlinforgeorgia.com/connect"
+},
+{
+"text": "Donate $10",
+"href": "https://secure.anedot.com/newlin-for-georgia/donate"
+},
+{
+"text": "Join Jeff's Team",
+"href": "https://newlinforgeorgia.com/join"
+},
+{
+"text": "Privacy Policy",
+"href": "https://campaignmanager.newlinforgeorgia.com/privacy"
+},
+{
+"text": "See how she voted on each of these",
+"href": "https://newlinforgeorgia.com/compare"
+}
 ]

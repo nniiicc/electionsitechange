@@ -1,36 +1,154 @@
 [
-"https://authentic.org/",
-"https://facebook.com/IlhanMN",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fvisions%2F",
-"https://ilhanomar.com/",
-"https://ilhanomar.com/contact",
-"https://ilhanomar.com/endorsements",
-"https://ilhanomar.com/issue/arts",
-"https://ilhanomar.com/issue/criminal-justice",
-"https://ilhanomar.com/issue/disability-accessibility-advocacy",
-"https://ilhanomar.com/issue/economicjustice",
-"https://ilhanomar.com/issue/education",
-"https://ilhanomar.com/issue/elections",
-"https://ilhanomar.com/issue/environment",
-"https://ilhanomar.com/issue/equality",
-"https://ilhanomar.com/issue/foreign-policy",
-"https://ilhanomar.com/issue/healthcare",
-"https://ilhanomar.com/issue/housing",
-"https://ilhanomar.com/issue/immigration",
-"https://ilhanomar.com/issue/infrastructure",
-"https://ilhanomar.com/issue/prevent-gun-violence",
-"https://ilhanomar.com/issue/reproductive-freedom",
-"https://ilhanomar.com/jobs",
-"https://ilhanomar.com/media",
-"https://ilhanomar.com/my-record",
-"https://ilhanomar.com/news",
-"https://ilhanomar.com/privacy-policy",
-"https://ilhanomar.com/progress",
-"https://ilhanomar.com/visions",
-"https://ilhanomar.com/volunteer",
-"https://instagram.com/ilhanmn",
-"https://secure.actblue.com/donate/ilhan_for_congress",
-"https://store.ilhanomar.com/",
-"https://twitter.com/IlhanMN",
-"https://twitter.com/intent/tweet?text=Visions&url=https%3A%2F%2Filhanomar.com%2Fvisions%2F"
+{
+"text": "Authentic",
+"href": "https://www.authentic.org"
+},
+{
+"text": "Build Resilient Infrastructure",
+"href": "https://ilhanomar.com/issue/infrastructure/"
+},
+{
+"text": "Contact Us",
+"href": "https://ilhanomar.com/contact"
+},
+{
+"text": "Create a Just Immigration System",
+"href": "https://ilhanomar.com/issue/immigration/"
+},
+{
+"text": "Disability & Accessibility Advocacy",
+"href": "https://ilhanomar.com/issue/disability-accessibility-advocacy/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ilhan_for_congress"
+},
+{
+"text": "Endorsements",
+"href": "https://ilhanomar.com/endorsements/"
+},
+{
+"text": "Establish Economic Justice for Working Families",
+"href": "https://ilhanomar.com/issue/economicjustice/"
+},
+{
+"text": "Fight for Environmental Justice and Climate Action",
+"href": "https://ilhanomar.com/issue/environment/"
+},
+{
+"text": "Fight for LGBTQIA+ Rights",
+"href": "https://ilhanomar.com/issue/equality/"
+},
+{
+"text": "Foreign Policy",
+"href": "https://ilhanomar.com/issue/foreign-policy/"
+},
+{
+"text": "Get Involved",
+"href": "https://ilhanomar.com/volunteer/"
+},
+{
+"text": "Get the Facts",
+"href": "https://ilhanomar.com/my-record/"
+},
+{
+"text": "Guarantee Access to Public Education",
+"href": "https://ilhanomar.com/issue/education/"
+},
+{
+"text": "Home",
+"href": "https://ilhanomar.com/"
+},
+{
+"text": "Homes for All",
+"href": "https://ilhanomar.com/issue/housing/"
+},
+{
+"text": "Ilhan’s Record",
+"href": "https://ilhanomar.com/progress/"
+},
+{
+"text": "Invest in Arts & Humanities",
+"href": "https://ilhanomar.com/issue/arts/"
+},
+{
+"text": "Jobs",
+"href": "https://ilhanomar.com/jobs/"
+},
+{
+"text": "Media Toolkit",
+"href": "https://ilhanomar.com/media/"
+},
+{
+"text": "News",
+"href": "https://ilhanomar.com/news/"
+},
+{
+"text": "Prevent Gun Violence",
+"href": "https://ilhanomar.com/issue/prevent-gun-violence/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilhanomar.com/privacy-policy"
+},
+{
+"text": "Protect Our Democracy",
+"href": "https://ilhanomar.com/issue/elections/"
+},
+{
+"text": "Protect Reproductive Freedom",
+"href": "https://ilhanomar.com/issue/reproductive-freedom/"
+},
+{
+"text": "Provide Healthcare Coverage For All",
+"href": "https://ilhanomar.com/issue/healthcare/"
+},
+{
+"text": "Re-imagine Our Criminal Justice System",
+"href": "https://ilhanomar.com/issue/criminal-justice/"
+},
+{
+"text": "Store",
+"href": "https://store.ilhanomar.com/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://ilhanomar.com/privacy-policy/"
+},
+{
+"text": "Vision",
+"href": "https://ilhanomar.com/visions/"
+},
+{
+"text": "[no text]",
+"href": "https://ilhanomar.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?text=Visions&url=https%3A%2F%2Filhanomar.com%2Fvisions%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IlhanMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Filhanomar.com%2Fvisions%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ilhanmn/"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=Visions&body=...+view+more%3A+https%3A%2F%2Filhanomar.com%2Fvisions%2F"
+},
+{
+"text": "ilhanomar.com",
+"href": "https://ilhanomar.com"
+}
 ]

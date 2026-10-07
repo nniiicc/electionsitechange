@@ -1,12 +1,50 @@
 [
-"https://facebook.com/VoteDavidJenkins",
-"https://flickr.com/photos/188434488@N05",
-"https://secure.anedot.com/david-jenkins-for-state-house/donate",
-"https://votedavidjenkins.com/",
-"https://votedavidjenkins.com/about",
-"https://votedavidjenkins.com/contact",
-"https://votedavidjenkins.com/issue/advance-u-s-agriculture-and-end-corrupt-chinese-communist-party-practices",
-"https://votedavidjenkins.com/issue/close-our-southern-border-and-stop-illegal-immigration",
-"https://votedavidjenkins.com/issues",
-"https://votedavidjenkins.com/privacy-policy"
+{
+"text": "About",
+"href": "https://votedavidjenkins.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate"
+},
+{
+"text": "Contact",
+"href": "https://votedavidjenkins.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/david-jenkins-for-state-house/donate"
+},
+{
+"text": "Home",
+"href": "https://votedavidjenkins.com/"
+},
+{
+"text": "Issues",
+"href": "https://votedavidjenkins.com/issues/"
+},
+{
+"text": "Next Issue ADVANCE AGRICULTURE AND PROTECT GEORGIA FARMLAND FROM THE CHINESE COMMUNIST PARTY",
+"href": "https://votedavidjenkins.com/issue/advance-u-s-agriculture-and-end-corrupt-chinese-communist-party-practices/"
+},
+{
+"text": "Previous Issues Stop Illegal Immigration",
+"href": "https://votedavidjenkins.com/issue/close-our-southern-border-and-stop-illegal-immigration/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votedavidjenkins.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://votedavidjenkins.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteDavidJenkins/"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/188434488@N05/"
+}
 ]

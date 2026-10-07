@@ -1,29 +1,118 @@
 [
-"https://211texas.org/",
-"https://capitol.texas.gov/",
-"https://christian4tx.com/",
-"https://christian4tx.com/about",
-"https://christian4tx.com/cart",
-"https://christian4tx.com/home-1",
-"https://christian4tx.com/newsletters",
-"https://christian4tx.com/resources",
-"https://christian4tx.com/updating",
-"https://christian4tx.com/vote",
-"https://facebook.com/christian4texas",
-"https://hhs.texas.gov/",
-"https://instagram.com/christian4texas",
-"https://lrl.texas.gov/",
-"https://secure.actblue.com/donate/txhd22",
-"https://setxfoodbank.org/",
-"https://sos.state.tx.us/",
-"https://tcdd.texas.gov/",
-"https://tceq.texas.gov/",
-"https://tdem.texas.gov/",
-"https://texas.gov/texas-state-agencies-departments",
-"https://texasbar.com/Content/NavigationMenu/LawyersGivingBack/LegalAccessDivision/ReferralDirectory.pdf",
-"https://texaslawhelp.org/",
-"https://tlc.texas.gov/docs/legref/legislativeprocess.pdf",
-"https://tvc.texas.gov/?gad_source=1&gad_campaignid=22763799787&gbraid=0AAAABAJ2uN8hVZlIwWQg2c6VxvlR56NWd",
-"https://twitter.com/Christian4Texas",
-"https://wrm.capitol.texas.gov/home"
+{
+"text": ".",
+"href": "https://christian4tx.com/updating"
+},
+{
+"text": "0",
+"href": "https://christian4tx.com/cart"
+},
+{
+"text": "211",
+"href": "https://www.211texas.org"
+},
+{
+"text": "About",
+"href": "https://christian4tx.com/about"
+},
+{
+"text": "Contact",
+"href": "https://christian4tx.com/home-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/txhd22"
+},
+{
+"text": "HHSC",
+"href": "https://www.hhs.texas.gov"
+},
+{
+"text": "Home",
+"href": "https://christian4tx.com/"
+},
+{
+"text": "LSRD",
+"href": "https://www.texasbar.com/Content/NavigationMenu/LawyersGivingBack/LegalAccessDivision/ReferralDirectory.pdf"
+},
+{
+"text": "Newsletters",
+"href": "https://christian4tx.com/newsletters"
+},
+{
+"text": "Resources",
+"href": "https://christian4tx.com/resources"
+},
+{
+"text": "SETFB",
+"href": "https://setxfoodbank.org"
+},
+{
+"text": "TCDD",
+"href": "https://tcdd.texas.gov"
+},
+{
+"text": "TCEQ",
+"href": "https://www.tceq.texas.gov"
+},
+{
+"text": "TDEM",
+"href": "https://tdem.texas.gov"
+},
+{
+"text": "TLC",
+"href": "https://tlc.texas.gov/docs/legref/legislativeprocess.pdf"
+},
+{
+"text": "TLH",
+"href": "https://texaslawhelp.org"
+},
+{
+"text": "TLO",
+"href": "https://capitol.texas.gov"
+},
+{
+"text": "TLRL",
+"href": "https://lrl.texas.gov"
+},
+{
+"text": "TSAD",
+"href": "https://www.texas.gov/texas-state-agencies-departments/"
+},
+{
+"text": "TSOS",
+"href": "https://www.sos.state.tx.us"
+},
+{
+"text": "TVC",
+"href": "https://tvc.texas.gov/?gad_source=1&gad_campaignid=22763799787&gbraid=0AAAABAJ2uN8hVZlIwWQg2c6VxvlR56NWd"
+},
+{
+"text": "Vote",
+"href": "https://christian4tx.com/vote"
+},
+{
+"text": "WRM",
+"href": "https://wrm.capitol.texas.gov/home"
+},
+{
+"text": "[image: Christian4Texas.com]",
+"href": "https://christian4tx.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Christian4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/christian4texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christian4texas/"
+},
+{
+"text": "christianmanueld22@gmail.com",
+"href": "mailto:christianmanueld22@gmail.com"
+}
 ]

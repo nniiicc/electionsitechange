@@ -1,13 +1,54 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate",
-"https://facebook.com/profile.php?id=61586425866990",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate",
-"https://quincyforwv.com/",
-"https://quincyforwv.com/about-9",
-"https://quincyforwv.com/donate",
-"https://quincyforwv.com/general-clean",
-"https://quincyforwv.com/s-projects-basic",
-"https://secure.actblue.com/donate/quincy-wilson-1",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.quincyforwv.com/about-9"
+},
+{
+"text": "Donate",
+"href": "https://www.quincyforwv.com/donate"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate"
+},
+{
+"text": "Home",
+"href": "https://www.quincyforwv.com"
+},
+{
+"text": "Let's Go",
+"href": "https://secure.actblue.com/donate/quincy-wilson-1"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://www.quincyforwv.com/general-clean"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.quincyforwv.com/s-projects-basic"
+},
+{
+"text": "Welcome",
+"href": "https://www.quincyforwv.com"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send/?phone=&text=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "X (Twitter)",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.quincyforwv.com%2Fdonate"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586425866990"
+},
+{
+"text": "info@quincyforwv.com",
+"href": "mailto:info@quincyforwv.com"
+}
 ]

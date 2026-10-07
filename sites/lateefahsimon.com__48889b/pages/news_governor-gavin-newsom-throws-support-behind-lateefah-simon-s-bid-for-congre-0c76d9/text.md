@@ -1,18 +1,26 @@
-Skip navigation menu
-THE LATEST NEWS
-Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress
-OAKLAND, CA - Today, California Governor Gavin Newsom endorsed Lateefah Simon for election to California’s 12th Congressional District.
-He released the following statement:
-“Lateefah is a visionary.
-But more than a visionary, she is a proven leader who effects the kind of change that makes her vision a reality” said Governor Newsom.
+Skip navigation menu MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS MEET LATEEFAH GET INVOLVED PRIORITIES NEWS CONTACT DONATE THE LATEST NEWS NEWS ARTICLE Rep.
+Simon Announces $850K For Plaza Next To Ashby Bart NEWS ARTICLE Lighting upgrades coming to East Bay BART stations NEWS ARTICLE Oakland's Rep.
+Simon demands answers from Labor Department NEWS ARTICLE Lawmakers Push Back Against Trump Coal Terminal Plans in West Oakland NEWS ARTICLE Congresswoman Lateefah Simon Rejects the Coal Terminal in Oakland NEWS ARTICLE Rep.
+Simon, UCSF announce $1 million in federal funds for cancer research center NEWS ARTICLE Oakland secures $1M in federal funding for Ceasefire NEWS ARTICLE San Leandro shoreline project receives $1.09 million in federal funding NEWS ARTICLE Voting rights ruling is a 'devastating' and personal blow, Rep.
+Simon, Mayor Lee say NEWS ARTICLE Berkeley, Albany split $500,000 in federal funding for fire training NEWS ARTICLE Oakland Rep.
+Lateefah Simon promotes bill to give cities chance to keep sports teams NEWS ARTICLE At the Young Women's Freedom Center, Sisters Are Doing It for Themselves NEWS ARTICLE New shoreline park to bring nature, 'justice' to East Oakland residents NEWS ARTICLE Bay Area lawmakers rebuke Trump over Iran strikes, war authority NEWS ARTICLE Rep.
+Simon introduces a bill to nationalize BART’s ambassador program NEWS ARTICLE Bay Area House Democrats claim victory as White House reverses $1.9 billion cut in health funding NEWS ARTICLE This Disability Education Law Just Turned 50.
+Disability Advocates Want More.
+NEWS ARTICLE East Bay leaders call for federal government shutdown to end NEWS ARTICLE Oakland turns out for ‘No Kings’ protest against Trump News ARTICLE Bay Area training provides ‘concrete skills’ to defy Trump on deportations, troops NEWS ARTICLE East Bay Rep.
+Lateefah Simon meets with Bay Area workers impacted by government shutdown NEWS ARTICLE House Dems Blast Labor Department for Abandoning Disabled Workers nEWS ARTICLE Congresswoman Simon Visits Port of Oakland, Convenes Roundtable on Tariffs NEWS ARTICLE WATCH: Rep.
+Lateefah Simon speaks at “No Kings” protest in Oakland NEWS ARTICLE ‘Cruel, Ugly, Nasty, Immoral’: Democrats Slam Mega-Bill Ahead of House Vote NEWS ARTICLE Congresswoman Lateefah Simon Hosts Fiery Town Hall at Emeryville Senior Center NEWS ARTICLE Oakland congresswoman is on a mission to save BART, mass transit MEDIA Rep.
+Lateefah Simon Rebukes Trump in Fiery Speech, Calls for Bold Progressive Action NEWS ARTICLE The Democratic Leader You Did Not Know We Had NEWS ARTICLE Rep.
+Lateefah Simon to Deliver WFP Response to Trump’s Address to Congress NEWS ARTICLE Oakland’s new representative in Congress is adjusting to a new normal: Absolute chaos NEWS ARTICLE SF Chronicle Endorsement: The obvious choice to replace Barbara Lee in Congress is also the best one PRESS RELEASE Congresswoman Barbara Lee Endorses Lateefah Simon to Succeed her in California’s 12th Congressional NEWS ARTICLE East Bay Times Editorial: Elect Lateefah Simon for Barbara Lee’s East Bay congressional seat NEWS ARTICLE Bay Area Reporter Editorial: Simon, Low for Congress PRESS RELEASE Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress NEWS ARTICLE KCBS: BART Director Lateefah Simon just launched her campaign for Congress NEWS ARTICLE After Decades Uplifting Community Voices, This Bay Area Advocate Wants To Represent Them In Congress PRESS RELEASE EMILYs List Endorses Lateefah Simon for Election to California’s 12th Congressional District PRESS RELEASE Building and Construction Trades Council of Alameda County Endorses Lateefah Simon for Congress NEWS ARTICLE Lateefah Simon on Her Work with Kamala Harris and Run for Congress PRESS RELEASE Lateefah Simon Raises over $300,000 in First Month of Congressional Campaign PRESS RELEASE Lateefah Simon Announces Over 40 Endorsements from Current and Former Elected Leaders PRESS RELEASE Lateefah Simon Announces First Major Labor Endorsement: National Union of Healthcare Workers NEWS ARTICLE KQED Newsroom: U.S.
+Rep.
+Barbara Lee | Lateefah Simon PRESS RELEASE Lateefah Simon Raises over $140,000 in First 24 Hours of Congressional Campaign NEWS ARTICLE BART Director, Criminal Justice Reformer Lateefah Simon Launches Campaign for East Bay House Seat Nov 2 2023 PRESS RELEASE Governor Gavin Newsom Throws Support Behind Lateefah Simon’s Bid for Congress OAKLAND, CA - Today, California Governor Gavin Newsom endorsed Lateefah Simon for election to California’s 12th Congressional District.
+He released the following statement: “Lateefah is a visionary.
+But more than a visionary, she is a proven leader who effects the kind of change that makes her vision a reality” said Governor Newsom .
 “From working closely with Lateefah and watching her deliver real, progressive change in her community, I have come to understand her as a true force of nature.
 She is a dedicated and honorable public servant, a devoted community woman, and a role model to many.
-Her voice is unwavering in the face of adversity, and I know that she will continue to use that voice on behalf of the people of California’s 12th Congressional District.”
-“I have had the privilege of working closely with the Governor to advance justice on behalf of the people of California,” said Lateefah Simon.
+Her voice is unwavering in the face of adversity, and I know that she will continue to use that voice on behalf of the people of California’s 12th Congressional District.” “I have had the privilege of working closely with the Governor to advance justice on behalf of the people of California,” said Lateefah Simon.
 “The Governor is a leader, through and through and I am proud to have earned his support as I fight to bring the voices of California’s 12th Congressional District to Washington.
 There is no one who better understands the urgency of this moment for our state – and thus the imperative of sending a powerful delegation of progressive Californians to Congress.
-I’ll be proud to continue our partnership when elected.”
-The Governor joins an ever-growing list of statewide, federal, and local elected officials supporting Simon’s campaign to serve California’s 12th Congressional District in Congress.
+I’ll be proud to continue our partnership when elected.” The Governor joins an ever-growing list of statewide, federal, and local elected officials supporting Simon’s campaign to serve California’s 12th Congressional District in Congress.
 Lateefah Simon has been Governor Newsom’s senior advisor on police reform since 2020 and is lauded as a civil rights advocate, veteran organizer, and nonprofit professional.
 Simon currently serves as a member of the Bay Area Rapid Transit Board of Directors and the president of MeadowFund.
 Previously Simon served as the president of the racial justice organization the Akonadi Foundation, where she worked to support youth of color in the Oakland, California area.
@@ -22,5 +30,4 @@ Vice President Kamala Harris, then serving as San Francisco’s district attorne
 Simon was born legally blind and was inspired to run for the Bay Area Rapid Transit Board of Directors of 2016 in order to improve public transportation in northern California.
 She holds a bachelor's degree in public policy from Mills College and a Master of Public Administration from the University of San Francisco.
 California’s 12th Congressional District is home to over 750,000 people across Alameda County, and includes Alameda, Albany, Berkeley, Emeryville, Oakland, Piedmont, and San Leandro.
-PRESS RELEASE
-###
+### info@LateefahSimon.com Lateefah for Congress 1714 Franklin St #100 - 438 Oakland, CA 94612 Privacy Policy Powered by RUN! website builder Paid for by Lateefah for Congress You need to enable JavaScript to run this app.

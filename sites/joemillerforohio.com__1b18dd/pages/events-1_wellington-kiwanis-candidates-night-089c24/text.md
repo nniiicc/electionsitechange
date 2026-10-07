@@ -1,10 +1,3 @@
-Back to All Events
-Candidates and representatives of local ballot issues will each have five minutes to address voters.
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Wellington Kiwanis Candidates Night Thursday, October 8, 2026 7:00 PM 9:00 PM Patricia Lindley Center for the Performing Arts 627 North Main Street Wellington, Ohio, 44090 United States (map) Google Calendar ICS Candidates and representatives of local ballot issues will each have five minutes to address voters.
 A meet-and-greet will follow in the cafeteria outside the auditorium.
-Previous
-Previous
-October 7
-Early Voting Rally and Fundraiser
-Next
-Next
-October 13
+Previous Previous October 7 Early Voting Rally and Fundraiser Next Next October 13 YWCA and League of Women Voters Voter Education Forum DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

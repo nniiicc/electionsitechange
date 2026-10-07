@@ -1,9 +1,13 @@
 {
  "description": "District 10 Map",
  "final_url": "https://www.lesiharajr.org/map/",
+ "fingerprint": "5fcac3b9eb176f8d18a273489a5fbef8de0f00fa",
+ "format": 3,
  "paid_for_by": "Paid for by Friends of Les Ihara Jr",
  "title": "Map - Les Ihara Jr.",
  "years_mentioned": [
+  "1978",
+  "2002",
   "2026"
  ]
 }

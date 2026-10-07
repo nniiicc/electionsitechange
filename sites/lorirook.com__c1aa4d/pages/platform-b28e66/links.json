@@ -1,6 +1,22 @@
 [
-"https://lorirook.com/endorsements",
-"https://lorirook.com/platform",
-"https://protectwebstercounty.com/",
-"https://secure.anedot.com/lori-rook-for-state-senate/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-rook-for-state-senate/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.lorirook.com/endorsements"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.lorirook.com/platform"
+},
+{
+"text": "Protect Webster County",
+"href": "https://www.protectwebstercounty.com"
+},
+{
+"text": "lori@lorirook.com",
+"href": "mailto:lori@lorirook.com"
+}
 ]

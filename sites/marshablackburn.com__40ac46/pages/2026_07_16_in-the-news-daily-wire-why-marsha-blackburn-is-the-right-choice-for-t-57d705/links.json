@@ -1,23 +1,102 @@
 [
-"http://flickr.com/photos/votemarsha",
-"https://businessinsider.com/companies-leaving-california-list-2025-7",
-"https://dailywire.com/news/why-marsha-blackburn-is-the-right-choice-for-tennessee?trueLinkId=G8ZKX4yJPX6CYEX2bqfqkcDQjL3OLY%2FvVBmN%2BbuVM5nm8xw%2BrxuOyay36mPqEwY95KKLhShsGTUl2Ln5wjgFSg%3D%3D&trueLinkTs=1783610060&trueLinkExpiry=43200",
-"https://facebook.com/votemarshablackburn",
-"https://hollywoodreporter.com/business/business-news/tennessee-paramount-1236648159",
-"https://instagram.com/votemarsha",
-"https://marshablackburn.com/",
-"https://marshablackburn.com/bell-to-bell-no-cell",
-"https://marshablackburn.com/issues",
-"https://marshablackburn.com/join-us",
-"https://marshablackburn.com/join-us?checkbox=endorse",
-"https://marshablackburn.com/meet-marsha",
-"https://marshablackburn.com/news",
-"https://marshablackburn.com/privacy-policy",
-"https://marshablackburn.com/submissions?checkbox=endorse",
-"https://marshablackburn.com/team-marsha-store",
-"https://secure.winred.com/marsha-for-governor/website",
-"https://truthsocial.com/@VoteMarshaBlackburn",
-"https://vimeo.com/votemarsha",
-"https://x.com/votemarsha",
-"https://youtube.com/@votemarshablackburn"
+{
+"text": "Bell to Bell: No Cell",
+"href": "https://marshablackburn.com/bell-to-bell-no-cell/"
+},
+{
+"text": "Daily Wire",
+"href": "https://dailywire.com/news/why-marsha-blackburn-is-the-right-choice-for-tennessee?trueLinkId=G8ZKX4yJPX6CYEX2bqfqkcDQjL3OLY%2FvVBmN%2BbuVM5nm8xw%2BrxuOyay36mPqEwY95KKLhShsGTUl2Ln5wjgFSg%3D%3D&trueLinkTs=1783610060&trueLinkExpiry=43200"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/marsha-for-governor/website"
+},
+{
+"text": "Endorse",
+"href": "https://marshablackburn.com/join-us/?checkbox=endorse"
+},
+{
+"text": "Endorsement Submissions",
+"href": "https://marshablackburn.com/submissions/?checkbox=endorse"
+},
+{
+"text": "HERE",
+"href": "https://www.dailywire.com/news/why-marsha-blackburn-is-the-right-choice-for-tennessee?trueLinkId=G8ZKX4yJPX6CYEX2bqfqkcDQjL3OLY%2FvVBmN%2BbuVM5nm8xw%2BrxuOyay36mPqEwY95KKLhShsGTUl2Ln5wjgFSg%3D%3D&trueLinkTs=1783610060&trueLinkExpiry=43200"
+},
+{
+"text": "Home",
+"href": "https://marshablackburn.com/"
+},
+{
+"text": "In The News",
+"href": "https://marshablackburn.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://marshablackburn.com/issues/"
+},
+{
+"text": "Join The Team",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Join Us",
+"href": "https://marshablackburn.com/join-us/"
+},
+{
+"text": "Meet Marsha",
+"href": "https://marshablackburn.com/meet-marsha/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://marshablackburn.com/privacy-policy/"
+},
+{
+"text": "Team Store",
+"href": "https://marshablackburn.com/team-marsha-store/"
+},
+{
+"text": "[image: Marsha Blackburn for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[image: Marsha for Governor]",
+"href": "https://marshablackburn.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.flickr.com/photos/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@VoteMarshaBlackburn"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/votemarsha"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votemarshablackburn/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemarsha/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votemarshablackburn"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votemarsha"
+},
+{
+"text": "flocking to",
+"href": "https://www.hollywoodreporter.com/business/business-news/tennessee-paramount-1236648159/"
+},
+{
+"text": "running away from",
+"href": "https://www.businessinsider.com/companies-leaving-california-list-2025-7"
+}
 ]

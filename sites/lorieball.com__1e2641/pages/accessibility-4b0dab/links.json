@@ -1,18 +1,74 @@
 [
-"http://adobe.com/products/acrobat/create-pdf-creator.html",
-"http://freedomscientific.com/Products/software/JAWS",
-"http://nvaccess.org/download",
-"https://facebook.com/profile.php?id=100076675947086",
-"https://lorieball.com/",
-"https://lorieball.com/accessibility",
-"https://lorieball.com/contact",
-"https://lorieball.com/donate",
-"https://lorieball.com/issues",
-"https://lorieball.com/privacy",
-"https://lorieball.com/sign-request",
-"https://lorieball.com/site-map",
-"https://lorieball.com/terms",
-"https://salemnhrepublicans.org/",
-"https://trexot.com/",
-"https://w3.org/WAI/standards-guidelines/wcag"
+{
+"text": "Accessibility",
+"href": "https://lorieball.com/accessibility/"
+},
+{
+"text": "Contact Lorie",
+"href": "https://lorieball.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://lorieball.com/donate/"
+},
+{
+"text": "JAWS",
+"href": "http://www.freedomscientific.com/Products/software/JAWS/"
+},
+{
+"text": "Meet Lorie",
+"href": "https://lorieball.com/"
+},
+{
+"text": "NVDA",
+"href": "http://www.nvaccess.org/download/"
+},
+{
+"text": "On the issues",
+"href": "https://lorieball.com/issues/"
+},
+{
+"text": "Privacy",
+"href": "https://lorieball.com/privacy/"
+},
+{
+"text": "Request a sign",
+"href": "https://lorieball.com/sign-request/"
+},
+{
+"text": "Site Map",
+"href": "https://lorieball.com/site-map/"
+},
+{
+"text": "Terms",
+"href": "https://lorieball.com/terms/"
+},
+{
+"text": "Trexot Digital",
+"href": "https://trexot.com"
+},
+{
+"text": "[image]",
+"href": "https://lorieball.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076675947086"
+},
+{
+"text": "https://salemnhrepublicans.org/",
+"href": "https://salemnhrepublicans.org/"
+},
+{
+"text": "level AA of the World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.1",
+"href": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+},
+{
+"text": "online contact form",
+"href": "https://lorieball.com/contact/"
+},
+{
+"text": "visit Adobe’s online PDF conversion web page",
+"href": "http://www.adobe.com/products/acrobat/create-pdf-creator.html"
+}
 ]

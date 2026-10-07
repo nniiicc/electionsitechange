@@ -1,25 +1,10 @@
-Republican | SC State House of Representatives, District 13
-Standing Firm for Your Conservative Values
-General Election — November 3, 2026
-What John McCravy Fought For
-Nearly a decade of fighting for the people of Greenwood & Laurens Counties — in committee, on the floor, and in public.
-Heartbeat Bill
-Authored the SC Fetal Heartbeat Protection from Abortion Act, signed into law and upheld by the SC Supreme Court
-Conestee Dam
-Secured $36 million in state funding for a new dam to protect Lake Greenwood from toxic industrial waste
-Religion is Essential
-Co-sponsored and passed legislation protecting churches from government-ordered shutdowns, signed into law in 2022
-Veterans Tax Relief
-Passed legislation making military retirement income free from state taxes for South Carolina's 450,000 veterans
-The Issues
-Where John stands on the issues that matter most to Greenwood & Laurens Counties.
-Chip In
-Help Re-Elect John
-Your contribution keeps John fighting for conservative values, protecting life, and defending freedom in Greenwood & Laurens Counties.
-Every dollar goes directly to reaching voters before the November 3, 2026 general election.
-Stay Connected
-Sign up for legislative updates, session recaps, and campaign news from District 13.
-Get In Touch
-Have a question or concern about District 13?
+Skip to content GENERAL ELECTION: Tuesday, November 3, 2026 | Find your polling place & voting information GENERAL ELECTION Tue, Nov 3, 2026 › Home About Record Issues Updates Contact Donate Republican | SC State House of Representatives, District 13 Standing Firm for Your Conservative Values General Election — November 3, 2026 What John McCravy Fought For Nearly a decade of fighting for the people of Greenwood & Laurens Counties — in committee, on the floor, and in public.
+Heartbeat Bill Authored the SC Fetal Heartbeat Protection from Abortion Act, signed into law and upheld by the SC Supreme Court Conestee Dam Secured $36 million in state funding for a new dam to protect Lake Greenwood from toxic industrial waste Religion is Essential Co-sponsored and passed legislation protecting churches from government-ordered shutdowns, signed into law in 2022 Veterans Tax Relief Passed legislation making military retirement income free from state taxes for South Carolina's 450,000 veterans The Issues Where John stands on the issues that matter most to Greenwood & Laurens Counties .
+Family Values Protecting Life & Families Freedom Religious Liberty & Second Amendment Rights Better Government Transparency, Reform & Local Results Economy & Taxes Growing Business, Lowering Taxes Public Safety Supporting First Responders & Fighting Crime Education Our Teachers, Parents & Children Veterans Honoring Those Who Served Chip In Help Re-Elect John Your contribution keeps John fighting for conservative values, protecting life, and defending freedom in Greenwood & Laurens Counties .
+Every dollar goes directly to reaching voters before the November 3, 2026 general election. $ 25 $ 50 $ 100 $ 250 $ 500 $ 1000 Other Amount → South Carolina law limits contributions to $1,000 per person, per election ($2,000 per couple).
+Contributions are not tax deductible.
+Paid for by McCravy for House .
+Stay Connected Sign up for legislative updates, session recaps, and campaign news from District 13.
+Leave blank First Name Last Name Email * Phone Sign Up for Updates Get In Touch Have a question or concern about District 13?
 John wants to hear from you.
-Follow on Facebook
+Call 864.942.8501 Email johnmccravy@schouse.gov Mail PO Box 50658, Greenwood, SC 29649 Follow on Facebook Navigate About Record Issues Updates Donate Contact Connect Facebook PO Box 50658, Greenwood, SC 29649 864.942.8501 johnmccravy@schouse.gov Legal Privacy Policy Terms of Service Paid for by McCravy for House

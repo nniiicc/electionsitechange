@@ -1,4 +1,4 @@
-In the 2019 Legislative session I helped lead two Senate Republican walkouts.
+Home Meet Cliff About Endorsements Media Issues Volunteer Contact Menu Home Meet Cliff About Endorsements Media Issues Volunteer Contact Donate Cap and Trade In the 2019 Legislative session I helped lead two Senate Republican walkouts.
 The first was to stop an unconstitutional infringement upon our Second Amendment rights, a multibillion-dollar gross receipts tax, and a completely partisan carbon pricing bill.
 We returned to Salem when the Democrats agreed to kill both their unconstitutional gun bill, and their mandatory vaccination bill, and to allow a “reset” of the carbon pricing discussions.
 Sadly, the Senate Democrats did not allow any “reset” of the Carbon discussions whatsoever, and thus failed utterly to fulfill their part of the agreement.
@@ -22,18 +22,19 @@ Thank you, my Republican colleagues!
 Be assured that I will do all that I can in Washington DC to help you stop the misguided and economy wreaking plan that was HB 1530.
 But stay strong.
 The Democrats plan to force Cap & Tax on Oregonians is not going away.
-Statement on Governor Kate Brown’s Executive Order
-Kate Brown is determined to make energy costs unstainable for working, rural and fixed income Oregonians.
+Statement on Governor Kate Brown’s Executive Order Kate Brown is determined to make energy costs unstainable for working, rural and fixed income Oregonians.
 This became abundantly clear with her Executive Order on Climate Change.
-In the words of my friend and colleague Senator Herman Baertshiger “It’s obvious Kate Brown is not Oregon’s Governor; she is Portland’s Governor.”
-Governor Brown’s executive order strikes a blow to fixed & low-income families by demanding we have the strictest green energy building codes and appliance efficiency in the country.
+In the words of my friend and colleague Senator Herman Baertshiger “It’s obvious Kate Brown is not Oregon’s Governor; she is Portland’s Governor.” Governor Brown’s executive order strikes a blow to fixed & low-income families by demanding we have the strictest green energy building codes and appliance efficiency in the country.
 This will make a mockery of her claim to support affordable housing for our homeless and veterans.
 The Order includes a doubling of Oregon’s “Clean Fuel Standard”, meaning our prices at the pump paid for additional low carbon fuel additives (such as palm oil) are guaranteed to increase even more.
 Governor Brown knows that her actions will harm farmers and ranchers by raising their cost of field work, transportation to the farm and ranch of inputs and ultimately getting products to market.
 When the Low Carbon Fuel Standard was originally passed five years ago, the DEQ made it no secret it would raise fuel prices, (it’s estimate was around 22 cents per gallon in the last year of the ten year program) now our governor has ordered that this standard be doubled.
 Over the last several years Governor Brown, Speaker Kotek and President Courtney were presented with any number of alternatives that would have achieved carbon reduction without sacrificing Oregon economy while doing so.
-Time and time again they chose instead to follow instructions from Tom Stier funded far left Portland environmental interest groups
-Ultimately, Governor Brown has decided that she doesn’t need legislative approval to force up the price of all of the fuel and energy used in Oregon.
+Time and time again they chose instead to follow instructions from Tom Stier funded far left Portland environmental interest groups Ultimately, Governor Brown has decided that she doesn’t need legislative approval to force up the price of all of the fuel and energy used in Oregon.
 We now have a top down completely autocratic approach to the pricing of our energy supply.
 Under the cover of halting climate change, our governor has handed the economic future of Oregon over to unelected bureaucrats who answer only to her.
 We can only hope that the Governor’s actions will be challenged in the courts and that in November we will elect common sense legislators who will push back against the Portland leftist agenda.
+Sign Up For Udpates Name Email Sign Up Donate Today We count on people like you to chip in and make sure we can win. $25 $50 $100 $250 $500 Other CONTACT US P.O.
+Box 1048, Ontario, OR 97914 Thank you for visiting my campaign website.
+If your intention was to visit my official website please click here.
+PAGES Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy Menu Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy FOLLOW US Facebook Paid for by Cliff Bentz for Congress

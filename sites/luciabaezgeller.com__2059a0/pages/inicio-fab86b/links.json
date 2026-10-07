@@ -1,12 +1,46 @@
 [
-"https://democrats.org/privacy-policy",
-"https://democrats.org/terms-of-service",
-"https://facebook.com/electluciabaezgeller",
-"https://fvap.gov/",
-"https://instagram.com/luciabaezgeller",
-"https://iwillvote.com/?lang=es",
-"https://luciabaezgeller.com/home",
-"https://luciabaezgeller.com/inicio",
-"https://secure.anedot.com/lucia-baez-geller-for-state-house/donate",
-"https://x.com/luciabaezgeller"
+{
+"text": "(786) 671-2179",
+"href": "tel:+17866712179"
+},
+{
+"text": "Donar",
+"href": "https://secure.anedot.com/lucia-baez-geller-for-state-house/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electluciabaezgeller/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/luciabaezgeller"
+},
+{
+"text": "Políticas de privacidad",
+"href": "https://www.democrats.org/privacy-policy"
+},
+{
+"text": "Términos del servicio",
+"href": "https://www.democrats.org/terms-of-service"
+},
+{
+"text": "Votar viviendo en el extranjero",
+"href": "https://www.fvap.gov/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/luciabaezgeller/"
+},
+{
+"text": "[image: Voy a votar]",
+"href": "https://iwillvote.com/?lang=es"
+},
+{
+"text": "[image]",
+"href": "https://luciabaezgeller.com/home"
+},
+{
+"text": "[image]",
+"href": "https://luciabaezgeller.com/inicio"
+}
 ]

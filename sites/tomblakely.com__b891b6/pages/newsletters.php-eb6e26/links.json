@@ -1,28 +1,114 @@
 [
-"https://benningtonbanner.com/opinion/columnists/commentary-tom-blakely-the-crux/article_98a86c5b-bd18-4884-b08c-e08f2fe2c1fe.html",
-"https://docs.google.com/forms/d/e/1FAIpQLSe9mNxoac0FHZuX05MNqwGgnS-_WzDiPoKpYkp_rASJiUtIWA/viewform?usp=header",
-"https://facebook.com/profile.php?id=61582223857799",
-"https://instagram.com/tomblakelyforvermont",
-"https://secure.actblue.com/donate/tom4vermont",
-"https://threads.com/@tomblakelyforvermont",
-"https://tomblakely.com/about.php",
-"https://tomblakely.com/candidacy.php",
-"https://tomblakely.com/contact.php",
-"https://tomblakely.com/index.php",
-"https://tomblakely.com/issues.php",
-"https://tomblakely.com/music.php",
-"https://tomblakely.com/news.php",
-"https://tomblakely.com/newsletters/Newsletter20260330.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260604.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260709.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260715.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260723.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260730.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260807.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260813.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260822.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260829.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260910.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260916.pdf",
-"https://tomblakely.com/newsletters/Newsletter20260927.pdf"
+{
+"text": "About Me",
+"href": "https://www.tomblakely.com/about.php"
+},
+{
+"text": "About My Candidacy",
+"href": "https://www.tomblakely.com/candidacy.php"
+},
+{
+"text": "Contact Me",
+"href": "https://www.tomblakely.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tom4vermont"
+},
+{
+"text": "Home",
+"href": "https://www.tomblakely.com/index.php"
+},
+{
+"text": "Join Our Team",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe9mNxoac0FHZuX05MNqwGgnS-_WzDiPoKpYkp_rASJiUtIWA/viewform?usp=header"
+},
+{
+"text": "Key Issues",
+"href": "https://www.tomblakely.com/issues.php"
+},
+{
+"text": "Music",
+"href": "https://www.tomblakely.com/music.php"
+},
+{
+"text": "News and Events",
+"href": "https://www.tomblakely.com/news.php"
+},
+{
+"text": "Newsletter for August 13: 525",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260813.pdf"
+},
+{
+"text": "Newsletter for August 22: Healthcare #3",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260822.pdf"
+},
+{
+"text": "Newsletter for August 29: Pledges and Bridges",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260829.pdf"
+},
+{
+"text": "Newsletter for August 7: Public Banks",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260807.pdf"
+},
+{
+"text": "Newsletter for July 15: Healthcare",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260715.pdf"
+},
+{
+"text": "Newsletter for July 23: Data Centers",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260723.pdf"
+},
+{
+"text": "Newsletter for July 31: Healthcare #2",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260730.pdf"
+},
+{
+"text": "Newsletter for July 9: Energy",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260709.pdf"
+},
+{
+"text": "Newsletter for June 4: Issues Overview",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260604.pdf"
+},
+{
+"text": "Newsletter for March 30: Failure to Communicate",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260330.pdf"
+},
+{
+"text": "Newsletter for October 6: Investing in the Future",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20261006.pdf"
+},
+{
+"text": "Newsletter for September 10: Why Are We Doing This?",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260910.pdf"
+},
+{
+"text": "Newsletter for September 16: Brace Yourselves!",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260916.pdf"
+},
+{
+"text": "Newsletter for September 27: Empathy Under Fire",
+"href": "https://www.tomblakely.com/newsletters/Newsletter20260927.pdf"
+},
+{
+"text": "The Bennington Banner, July 8",
+"href": "https://www.benningtonbanner.com/opinion/columnists/commentary-tom-blakely-the-crux/article_98a86c5b-bd18-4884-b08c-e08f2fe2c1fe.html"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61582223857799"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/tomblakelyforvermont"
+},
+{
+"text": "[image: Threads]",
+"href": "https://threads.com/@tomblakelyforvermont"
+},
+{
+"text": "tfb@tomblakely.com",
+"href": "mailto:tfb@tomblakely.com"
+}
 ]

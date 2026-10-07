@@ -1,9 +1,34 @@
 [
-"https://facebook.com/lawlerforiowa",
-"https://juddlawler.com/",
-"https://juddlawler.com/contact",
-"https://juddlawler.com/donate",
-"https://juddlawler.com/my-story",
-"https://juddlawler.com/newsletter",
-"https://twitter.com/LawlerforIowa"
+{
+"text": "Contact",
+"href": "https://www.juddlawler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.juddlawler.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.juddlawler.com"
+},
+{
+"text": "My Story",
+"href": "https://www.juddlawler.com/my-story"
+},
+{
+"text": "Newsletter",
+"href": "https://www.juddlawler.com/newsletter"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawlerforiowa"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/LawlerforIowa"
+},
+{
+"text": "lawlerforiowa@gmail.com",
+"href": "mailto:lawlerforiowa@gmail.com"
+}
 ]

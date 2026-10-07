@@ -1,4 +1,4 @@
-Sam didn’t come from politics, he prosecuted criminals.
+Story Issues Record News Donate ✕ A Fighter For Florida Sam didn’t come from politics, he prosecuted criminals.
 As an Assistant State Attorney for both Clay and Duval counties, Sam Garrison worked with law enforcement and helped safeguard our communities.
 That’s why Sam is a staunch defender of the Second Amendment.
 He knows that gun ownership by law-abiding citizens is a bulwark against crime.
@@ -9,3 +9,4 @@ Sam has worked to address some of our state’s greatest challenges, including p
 The people of Northeast Florida reelected Sam in 2022 and his colleagues in the legislature chose him to serve as Speaker of the Florida House of Representatives for 2026-28.
 As Speaker and as a lawmaker, Sam will protect our values, preserve individual liberty, and keep Florida free.
 Clay County can count on Sam Garrison to keep delivering for us.
+Story Issues Record News Donate Paid for by Sam Garrison, Republican, for State Representative. | Privacy Policy

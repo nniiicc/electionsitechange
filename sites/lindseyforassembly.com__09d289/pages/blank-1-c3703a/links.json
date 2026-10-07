@@ -1,6 +1,18 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://x.com/",
-"https://secure.anedot.com/bobby-lindsey-for-wi-state-assembly/lindseydonate?exitIntent=true"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/bobby-lindsey-for-wi-state-assembly/lindseydonate?exitIntent=true"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+}
 ]

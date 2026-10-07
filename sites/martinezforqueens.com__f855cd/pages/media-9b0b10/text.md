@@ -1,18 +1,1 @@
-0
-Skip to Content
-About Patrick
-Priorities
-Endorsements
-Donate
-Open Menu
-Close Menu
-About Patrick
-Priorities
-Endorsements
-Donate
-Open Menu
-Close Menu
-About Patrick
-Priorities
-Endorsements
-Donate
+0 Skip to Content About Patrick Priorities Endorsements Donate Open Menu Close Menu About Patrick Priorities Endorsements Donate Open Menu Close Menu About Patrick Priorities Endorsements Donate Media Paid for by Martinez for Queens

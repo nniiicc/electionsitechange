@@ -1,24 +1,118 @@
 [
-"https://facebook.com/profile.php?id=61554997457236",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://instagram.com/shawndygert4idaho",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho",
-"https://secure.anedot.com/shawn-dygert-4-idaho/donate",
-"https://shawndygert4idaho.com/",
-"https://shawndygert4idaho.com/about",
-"https://shawndygert4idaho.com/accomplishments",
-"https://shawndygert4idaho.com/contact",
-"https://shawndygert4idaho.com/events",
-"https://shawndygert4idaho.com/events/2026-10-04",
-"https://shawndygert4idaho.com/events/list",
-"https://shawndygert4idaho.com/events/month",
-"https://shawndygert4idaho.com/events/today",
-"https://shawndygert4idaho.com/events/today?ical=1",
-"https://shawndygert4idaho.com/events/today?outlook-ical=1",
-"https://shawndygert4idaho.com/issues",
-"https://shawndygert4idaho.com/supporters",
-"https://twitter.com/ShawnDygert23B",
-"https://voteidaho.gov/",
-"https://x.com/ShawnDygert4ID"
+{
+"text": "#ago",
+"href": "https://www.shawndygert4idaho.com/events/today/"
+},
+{
+"text": "About",
+"href": "https://www.shawndygert4idaho.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.shawndygert4idaho.com/accomplishments/"
+},
+{
+"text": "Contact",
+"href": "https://www.shawndygert4idaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "DONATE ONLINE",
+"href": "https://secure.anedot.com/shawn-dygert-4-idaho/donate"
+},
+{
+"text": "Day",
+"href": "https://www.shawndygert4idaho.com/events/today/"
+},
+{
+"text": "Events",
+"href": "https://www.shawndygert4idaho.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://www.shawndygert4idaho.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://www.shawndygert4idaho.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Facebook page opens in new window",
+"href": "https://www.facebook.com/profile.php?id=61554997457236"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Instagram page opens in new window",
+"href": "https://www.instagram.com/shawndygert4idaho/"
+},
+{
+"text": "Issues",
+"href": "https://www.shawndygert4idaho.com/issues/"
+},
+{
+"text": "List",
+"href": "https://www.shawndygert4idaho.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://www.shawndygert4idaho.com/events/month/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwww.shawndygert4idaho.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Shawn+Dygert+4+Idaho+Events+Archive+-+Shawn+Dygert+4+Idaho"
+},
+{
+"text": "Previous Day",
+"href": "https://www.shawndygert4idaho.com/events/2026-10-06/"
+},
+{
+"text": "Supporters",
+"href": "https://www.shawndygert4idaho.com/supporters/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/ShawnDygert23B"
+},
+{
+"text": "X page opens in new window",
+"href": "https://x.com/ShawnDygert4ID"
+},
+{
+"text": "[image: Shawn Dygert 4 Idaho]",
+"href": "https://www.shawndygert4idaho.com/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://www.shawndygert4idaho.com/events/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://www.shawndygert4idaho.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

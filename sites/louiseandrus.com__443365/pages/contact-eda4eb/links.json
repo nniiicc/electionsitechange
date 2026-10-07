@@ -1,6 +1,22 @@
 [
-"https://louiseandrus.com/",
-"https://louiseandrus.com/about",
-"https://louiseandrus.com/contact",
-"https://secure.anedot.com/louise-andrus/donate"
+{
+"text": "About",
+"href": "https://www.louiseandrus.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.louiseandrus.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/louise-andrus/donate"
+},
+{
+"text": "Home",
+"href": "https://www.louiseandrus.com/"
+},
+{
+"text": "Louise Andrus for NH State Rep",
+"href": "https://www.louiseandrus.com/"
+}
 ]

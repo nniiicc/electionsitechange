@@ -1,9 +1,34 @@
 [
-"https://chriskapenga.com/",
-"https://chriskapenga.com/contact-us-1",
-"https://chriskapenga.com/donate",
-"https://chriskapenga.com/nomination-papers",
-"https://facebook.com/kapengaforoffice",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://x.com/chriskapenga"
+{
+"text": "Contact us",
+"href": "https://chriskapenga.com/contact-us-1"
+},
+{
+"text": "Donate",
+"href": "https://chriskapenga.com/donate"
+},
+{
+"text": "Home",
+"href": "https://chriskapenga.com/"
+},
+{
+"text": "Kapenga forWAUKESHA COUNTY EXECUTIVEKapenga for WAUKESHA COUNTY EXECUTIVEKapenga for WAUKESHA COUNTY EXECUTIVEKapenga for WAUKESHA COUNTY EXECUTIVE",
+"href": "https://chriskapenga.com/"
+},
+{
+"text": "Nomination Papers",
+"href": "https://chriskapenga.com/nomination-papers"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/kapengaforoffice/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/chriskapenga"
+}
 ]

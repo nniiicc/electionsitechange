@@ -1,7 +1,11 @@
 {
  "description": "Krish Subrahmanian is a candidate for Minnesota State Senate in SD-49. He's a doctor, Air Force Flight Surgeon, and former school teacher.",
  "final_url": "https://www.krishforsenate.com/",
- "paid_for_by": null,
+ "fingerprint": "a16e19f2e7ef2d6244fd28c0d20ece24a11256a4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Krish for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

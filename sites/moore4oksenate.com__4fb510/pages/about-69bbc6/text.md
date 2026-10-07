@@ -1,5 +1,4 @@
-About Chayelynn
-Chayelynn(Chaye)'s story begins with humble roots and a deep connection to service.
+Home About Issues Events Contact DONATE Home About Issues Events Contact DONATE About Chayelynn Chayelynn(Chaye)'s story begins with humble roots and a deep connection to service.
 Born at Claremore Indian Hospital in 1979, she spent her early childhood as what her father affectionately called “an Army brat,” living on base in Clarksville, Tennessee, while he served his second tour in Korea.
 One of her earliest memories is of her mother opening the refrigerator to find only a small package of bologna and a little milk, a reminder of the challenges her family faced.
 Neither of her parents graduated high school, and her father joined the military at a young age to support both his family and his country.
@@ -19,3 +18,5 @@ Through this work, Chaye has become a strong advocate for students and professio
 Her students know her as someone who will always stand up for them, fight for them, and make sure their voices are heard.
 Chaye brings that same commitment to her candidacy for Oklahoma State Senate District 10.
 She is ready to fight for her community with the same determination she has shown throughout her life: lifting others up, protecting opportunities, and ensuring every Oklahoman has the chance to succeed.
+Paid for by Moore 4 OK Senate 2026.
+Contact info@moore4oksenate.com PO Box 164 Skiatook, OK 74070 Follow DONATE

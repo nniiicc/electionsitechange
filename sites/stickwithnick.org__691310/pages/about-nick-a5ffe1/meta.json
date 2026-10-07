@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://stickwithnick.org/about-nick",
- "paid_for_by": null,
+ "fingerprint": "fc5243118dfe94b96daa0e57c6e4b415d191fcbd",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About Nick",
  "years_mentioned": [
   "2011"

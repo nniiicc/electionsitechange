@@ -1,6 +1,8 @@
-The government is always looking to grow its own power and its foothold in our daily lives.
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Critical Issues Platform I support limiting Government.
+Controls should be kept closest to the people.
+Editor May 26, 2024 The government is always looking to grow its own power and its foothold in our daily lives.
 I will work hard to LIMIT the role that government plays in our homes, our businesses, our medical decisions, and our pocketbooks.
-If you want that sort of representation in Pierre, then vote LAUREN NELSON for Senate on June 4th!
-Yankton County SD GOP UTICA FORUM – May 13, 2023
-QUESTION: “What in Pierre can be cut to make our state government smaller?”
-ANSWER: “We need to rely on the people of South Dakota, NOT the Federal Government.”
+If you want that sort of representation in Pierre, then vote LAUREN NELSON for Senate on June 4th! <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span> Yankton County SD GOP UTICA FORUM – May 13, 2023 QUESTION: “What in Pierre can be cut to make our state government smaller?” ANSWER: “We need to rely on the people of South Dakota, NOT the Federal Government.” <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span> Post navigation Previous Previous post: I support Property Rights.
+I will work to diligently protect the private property rights of all South Dakota citizens.
+Next Next post: I support economic development that is true & local Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

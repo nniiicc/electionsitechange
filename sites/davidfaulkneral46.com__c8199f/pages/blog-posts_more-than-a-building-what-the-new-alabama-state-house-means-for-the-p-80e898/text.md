@@ -1,4 +1,4 @@
-With this year's Legislative Session wrapped up, It marks the last regular Session in our current State House before our move this Fall into our new facility.
+    Home About Events News Donate       Constituent Resources More Than a Building: What the New Alabama State House Means for the People We Serve April 8, 2026 With this year's Legislative Session wrapped up, It marks the last regular Session in our current State House before our move this Fall into our new facility.
 I know what some people think when they hear about a new State House: here go the politicians, spending money on themselves.
 I get it.
 And I want to take a minute to explain why that reaction, while understandable, misses the bigger picture.
@@ -18,8 +18,7 @@ When constituents visit Montgomery to watch their government at work, what they 
 It was a highway department office.
 That's not something any of us should be proud of.
 And frankly, it's embarrassing when people visit from other states and see the conditions Alabama's legislature operates in.
-A Building for the People
-The new State House changes all of that.
+A Building for the People The new State House changes all of that.
 This is a $400 million investment - and I want to be clear about what that investment actually buys.
 Both the House and Senate chambers will be on the same floor, facing each other, the way they were in the original Capitol.
 Right now, with the Senate on seven and the House on five, there's a physical barrier between the two bodies.
@@ -33,20 +32,45 @@ Neither will have pillars blocking sight lines.
 The building will have eleven committee rooms, including a joint committee room that seats more than 200 members of the public.
 That last part is critical: this building is designed so that the people of Alabama can actually participate in their government.
 Accessible seating, room to attend hearings, space to watch the process up close - these are things the current building simply cannot provide.
-A Long Time Coming
-Alabama's new State House will be the first new state legislative building constructed in the United States in nearly five decades - the last was Florida's Capitol Complex, completed in 1977.
+A Long Time Coming Alabama's new State House will be the first new state legislative building constructed in the United States in nearly five decades - the last was Florida's Capitol Complex, completed in 1977.
 Construction began in 2023 and the building is on track for a fall 2026 move-in, with the first full legislative session in the new facility planned for 2027.
 When that day comes, the current building - the one we were never supposed to stay in - will be demolished and replaced with public green space.
 I've heard the criticism, and I understand the instinct behind it.
 But this project has been put off for decades, in part because of the very political optics people are worried about.
 At some point, you have to invest in the infrastructure of your democracy.
 You have to give your legislators a building that's safe to work in, and you have to give your citizens a building they can walk into and feel like their government belongs to them.
-Pride in Where We Serve
-I'll be honest - I don't know exactly how to put this into words, but I'll try.
+Pride in Where We Serve I'll be honest - I don't know exactly how to put this into words, but I'll try.
 There's something about walking into a building that was built with intention and care that changes the way people carry themselves.
 It makes you take a little more pride in the work.
 It makes staff feel valued.
 And it tells the people of Alabama that their legislature takes its responsibility seriously enough to invest in doing the job right.
 This isn't about politicians getting a nicer office.
 This is about the state of Alabama having a State House that its people can be proud of.
-After forty-one years in a building we were never meant to stay in, I think that's long overdue.
+After forty-one years in a building we were never meant to stay in, I think that's long overdue. ‍ More news See what Representative Faulkner is doing to represent District 46 values Sep 17, 2026 | 400,000 Alabama Kids.
+60,000 Volunteer Coaches.
+Nobody Minding the Whole Thing.
+400,000 Alabama kids play organized sports.
+Their families spend $600 million a year.
+About 60,000 volunteer coaches run it, and no one in state government is responsible for the whole thing.
+May 21, 2026 | Legislative Updates Two Wins in Washington Two major wins: the U.S.
+Senate unanimously passed Trey's Law, and the U.S.
+House sent Lulu's Law to President Trump's desk for his signature.
+Apr 17, 2026 | Legislative Updates A Good Year for Alabama: Recapping the 2026 Regular Session The 2026 Regular Session is in the books.
+Rep.
+David Faulkner recaps eight bills passed, a record education budget, and real tax relief for Alabama families.
+Apr 7, 2026 | Finishing Strong: Final Week of the 2026 Session Alabama Rep.
+David Faulkner previews the final week of the 2026 legislative session, including computer science graduation requirements, teacher pay raises, and tributes to retiring Representatives Jim Hill and Terri Collins.
+Mar 23, 2026 | Legislative Updates Legislative Update: Week 10 in Montgomery From a third-grader advocating for her teachers with a PowerPoint to three high school students landing $250,000 to bring debate to schools across Alabama, Week 10 was a reminder of why this work matters.
+The Camp Safety Act cleared another unanimous vote, the Education Trust Fund budget headed to the Senate with a teacher pay raise included, and the Mountain Brook Fire Department received a grant for state-of-the-art paramedic training equipment.
+Mar 16, 2026 | Legislative Updates Week 9: Camp Safety Act on the Senate Floor, a Bill Reaches the Governor, and the Homestretch Begins The Camp Safety Act is headed for its Senate vote this week.
+One of David's bills clears the full legislature and reaches the Governor's desk.
+And with three weeks left in the session, the homestretch is officially underway.
+Mar 8, 2026 | Legislative Updates Alabama Led the Way - Now Congress Is Following Alabama passed Trey's Law.
+Now Congress is following our lead.
+I was on Capitol Hill this week as Senators Ted Cruz and Katie Britt filed the federal version of the bill - here's what that moment meant.
+Mar 8, 2026 | Legislative Updates Week 8 Recap - Bills Moving, Victims Funded, and a Bridge Getting Built Crime victims are getting their funding restored, a Homewood pedestrian bridge is underway, and several of my bills are one step from final passage.
+A busy week in Montgomery - here's the full update. upcoming campaign 25 Sunday, September 25, 2022 Sep Conference on Small Business Organizing for Action: We’re the people who don’t just support 25 Sunday, September 25, 2022 Sep 65-th Annual International Conference Organizing for Action: We’re the people who don’t just support 24 Saturday, September 24, 2022 Sep 25-th Annual Democracy Forum Organizing for Action: We’re the people who don’t just support View All Events Information 505 North 20th Street Birmingham, AL 35203 David@DavidFaulknerAL46.com (334) 261-0442  Navigate Home About Events News Donate NEWSLETTER SIGN UP Thank you for subscribing!
+Oops!
+Something went wrong while submitting the form. © David Faulkner.
+All Rights Reserved.
+Powered by Matchstrike Creative

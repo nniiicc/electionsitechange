@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Community+Zoom+&dates=20260316T210000Z%2F20260316T220000Z",
-"https://ecarrisduncan.com/",
-"https://ecarrisduncan.com/about-me",
-"https://ecarrisduncan.com/cart",
-"https://ecarrisduncan.com/core-issues",
-"https://ecarrisduncan.com/events",
-"https://ecarrisduncan.com/events/community-zoom-1-dn7wc",
-"https://ecarrisduncan.com/events/community-zoom-1-dn7wc-c75le-244g5",
-"https://ecarrisduncan.com/events/community-zoom-1-dn7wc-c75le?format=ical",
-"https://ecarrisduncan.com/my-story",
-"https://ecarrisduncan.com/services",
-"https://ecarrisduncan.com/updates",
-"https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1",
-"https://us06web.zoom.us/meeting/register/TPXwILBfRQ--UcRcPKqOBg"
+{
+"text": "0",
+"href": "https://www.ecarrisduncan.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Core Issues",
+"href": "https://www.ecarrisduncan.com/core-issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1"
+},
+{
+"text": "Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Folder: About Me",
+"href": "https://www.ecarrisduncan.com/about-me"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Community+Zoom+&dates=20260316T210000Z%2F20260316T220000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ecarrisduncan.com/events/community-zoom-1-dn7wc-c75le?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.ecarrisduncan.com/my-story"
+},
+{
+"text": "Next Next April 13 Community Zoom",
+"href": "https://www.ecarrisduncan.com/events/community-zoom-1-dn7wc-c75le-244g5"
+},
+{
+"text": "Previous Previous March 2 Community Zoom",
+"href": "https://www.ecarrisduncan.com/events/community-zoom-1-dn7wc"
+},
+{
+"text": "Register Here",
+"href": "https://us06web.zoom.us/meeting/register/TPXwILBfRQ--UcRcPKqOBg"
+},
+{
+"text": "Services",
+"href": "https://www.ecarrisduncan.com/services"
+},
+{
+"text": "Thoughts + Updates",
+"href": "https://www.ecarrisduncan.com/updates"
+},
+{
+"text": "[image: Emily Carris Duncan]",
+"href": "https://www.ecarrisduncan.com/"
+}
 ]

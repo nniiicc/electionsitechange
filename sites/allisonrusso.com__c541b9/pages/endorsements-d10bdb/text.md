@@ -1,38 +1,4 @@
-Baptist Ministerial Alliance of Columbus & Vicinity
-Buckeye Veterans Coalition
-The Chronicle-Telegram Editorial Board
-Primary Election Endorsement
-Columbus Central Ohio Building & Construction Trades Council
-Communication Workers of America District 4
-Dayton Building & Construction Trades Council
-East Central Ohio Building and Construction Trades Council
-Greater Cincinnati Building & Construction Trades
-Industrial Division of Communication Workers of America
-International Union of Painters and Allied Trades
-Lima Building & Construction Trades Council
-National Democratic Redistricting Committee
-North Central Ohio Building & Construction Trades Council
-Ohio Association of Professional Fire Fighters
-Ohio Association of Public School Employees
-Ohio Chamber of Commerce
-Primary Election Endorsement
-Ohio Civil Services Employees Association
-Ohio Education Association
-Ohio Environmental Council Action Fund
-Ohio Federation of Teachers
-Ohio Legislative Black Caucus
-Ohio Nurses Association Board of Directors
-Ohio State Conference of the International Brotherhood of Electrical Workers
-Planned Parenthood Advocates of Ohio
-The Plain Dealer/cleveland.com Editorial Board
-Primary Election Endorsement
-Plumbers and Steamfitters Local 42
-Service Employees International Union District 1199
-SMART-TD
-Ohio State Legislative Board
-Toldeo Federation of Teachers
-Tri-County Building and Construction Trades Council
-United Auto Workers Region 2B
-United Food and Commercial Workers Local 880
-United Mine Workers Association
-United Steelworkers District 1
+Skip to content Donate TO ELECT Allison Russo for Secretary of State Chip in to elect Allison Russo If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Amount Home Meet Allison Endorsements News How to Vote Home Meet Allison Endorsements News How to Vote Get Involved Donate Endorsements Trade Unions and Organizations Baptist Ministerial Alliance of Columbus & Vicinity Buckeye Veterans Coalition The Chronicle-Telegram Editorial Board Primary Election Endorsement Columbus Central Ohio Building & Construction Trades Council Communication Workers of America District 4 Dayton Building & Construction Trades Council East Central Ohio Building and Construction Trades Council Emily's List Greater Cincinnati Building & Construction Trades Industrial Division of Communication Workers of America International Union of Painters and Allied Trades Ironworkers Local 550 Lima Building & Construction Trades Council National Democratic Redistricting Committee North Central Ohio Building & Construction Trades Council Ohio AFL-CIO Ohio Association of Professional Fire Fighters Ohio Association of Public School Employees Ohio Chamber of Commerce Primary Election Endorsement Ohio Civil Services Employees Association Ohio Education Association Ohio Environmental Council Action Fund Ohio Federation of Teachers Ohio Legislative Black Caucus Ohio Nurses Association Board of Directors Ohio State Conference of the International Brotherhood of Electrical Workers Planned Parenthood Advocates of Ohio The Plain Dealer/cleveland.com Editorial Board Primary Election Endorsement Plumbers and Steamfitters Local 42 Service Employees International Union District 1199 SMART-TD Ohio State Legislative Board Toldeo Federation of Teachers Tri-County Building and Construction Trades Council United Auto Workers Region 2B United Food and Commercial Workers Local 880 United Mine Workers Association United Steelworkers District 1 Vote Mama 314 Action Fund Elected Officials Representative Anita Somani (D - Dublin) Parma Ward 5 Council Allan Divis Parma Ward 8 Council Amanda Boyd Hudson City Council Amanda Weinstein Worthington School Board President Amber Epling-Skinner Akron School Board President Barbara Sykes Representative Beryl Brown Piccolantonio (D–Gahanna) Senator Beth Liston (D - Dublin) Senator Bill DeMora (D–Columbus) Canton Mayor Bill Sherer Richmond Heights City Council President Bobby Jordan Parma Auditor Brian Day Representative Bride Rose Sweeney (D–Westlake) Senator Casey Weinstein (D–Hudson) Representative Cecil Thomas (D–Cincinnati) Representative Chris Glassburn (D–North Olmsted) Representative Christine Cockley (D–Columbus) Representative Crystal Lett (D–Columbus) House Minority Leader Dani Isaacsohn (D–Cincinnati) Representative Daniel Troy (D–Willowick) Representative Darnell Brewer (D–Cleveland) Representative Derrick Hall (D–Akron) Grandview Heights City Council Member Denise Walker Representative Desiree Tims (D–Dayton) Groveport- Madison School Board Dionna Herbert Cuyahoga Falls Mayor Don Walters Representative Dontavius Jarrells (D–Columbus) Representative Elgin Rogers Jr.
+(D–Toledo) Grandview Heights City Council President Emily Keeler Former Attorney General Eric Holder Representative Eric Synenberg (D–Cleveland) Mayor of Oakwood Village Erica Nikolic Representative Erika White (D–Springfield Township) Grandview Heights Mayor Greta Kerns Senator Hearcel Craig (D–Columbus) Honorable Heather Karr Powell Upper Arlington City Council Heidi Munc Summit County Executive Ilene Shapiro Representative Ismail Mohamed (D–Columbus) Cincinnati Vice Mayor Jan-Michele Lemon Kearney Former Cleveland Mayor Jane Campbell Upper Arlington School Board President Jenny McKenna Hamilton County Auditor / Former House Democratic Whip Jessica Miranda (D–Hamilton County) Grove City City Council Jodi Burroughs Councilperson Jodi Whitted (Madeira City) Reynoldsburg Mayor Joe Begeny Representative Joe Miller (D–Amherst) Parma Ward 3 Council John Soeder Parma Ward 7 Council Kammy Coyle Shuman Amherst City Treasurer Kelly Miller Parma Ward 4 Council Kelly Zacharias Honorable Kenny Yuko Former Senate Minority Leader Senator Kent Smith (D–Euclid) Elyria Mayor Kevin Brubaker Chillicothe City Council President Kevin Shoemaker Richmond Heights Mayor Kim Thomas Representative Latyna Humphrey (D–Columbus) Representative Lauren McNally (D–Youngstown) Lucas County Commissioner Lisa Sobecki Upper Arlington School Board Liz Stump Columbus City Council Lourdes Barroso de Padilla Chillicothe Mayor Luke Feeney Representative Munira Abdullahi (D–Columbus) Parma Heights Mayor Marie Gallo District 4 Cuyahoga County Councilman Mark Casselberry Representative Mark Sigrist (D–Grove City) Lorain City Council Mary Springowski Columbus City Council Melissa Green Representative Michele Grim (D–Toledo) Former Statewide Labor Union Secretary Treasurer Mike Knisley Representative Meredith Lawson-Rowe (D–Reynoldsburg) Columbus City Council Nancy Day-Achauer District 1 Cuyahoga County Council Patrick Kelly East Cleveland Mayor Sandra Morgan Former Statewide Labor Union President Scott DiMauro Law Director Scott Tuma Representative Sean Brennan (D–Parma) Lima Mayor Sharetta Smith Athens Mayor Steve Patterson Dublin City School Board Tara Seward Summit County Clerk of Courts Tavia Galonski Representative Terrence Upchurch (D–Cleveland) Parma Mayor Tim DeGeeter Hilliard City Council President Tina Cottone Parma Treasurer Thomas Mastroianni Norwich Township Trustee Trish Barker Representative Tristan Rader (D–Lakewood) Upper Arlington Mayor Ukeme Awakessien Jeter Representative Veronica Sims (D–Akron) Honorable Vernon Sykes Former State Senator Parma Council President Vito Dipierro Senator Willis Blackshear (D–Dayton) Trotwood​ Mayor Yvette Page Stand with Allison Russo for Ohio $# $# $# $# $# Other Amount If you've saved your information with ActBlue Express, your donation will go through immediately.
+Stand with team Allison Email Address Zip Phone Number Get updates Home Meet Allison Privacy Policy Accessibility Donate Facebook Instagram X-twitter Threads 545 E Town St Columbus, Ohio 43215 Paid for by citizens to elect Allison Russo Support Allison Russo $# $# $# $# $# Other Amount Click on an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately.

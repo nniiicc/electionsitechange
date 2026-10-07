@@ -1,10 +1,38 @@
 [
-"https://facebook.com/JohnDonohueForWI",
-"https://secure.anedot.com/donohue-for-assembly-campaign-committee/donohue_assembly",
-"https://votejohndonohue.com/",
-"https://votejohndonohue.com/accessibility-statement",
-"https://votejohndonohue.com/get-involved",
-"https://votejohndonohue.com/meet-john",
-"https://votejohndonohue.com/privacy-policy",
-"https://votejohndonohue.com/terms-and-conditions"
+{
+"text": "Accessibility Statement",
+"href": "https://www.votejohndonohue.com/accessibility-statement"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/donohue-for-assembly-campaign-committee/donohue_assembly"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votejohndonohue.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votejohndonohue.com"
+},
+{
+"text": "MEET JOHN",
+"href": "https://www.votejohndonohue.com/meet-john"
+},
+{
+"text": "NEWS",
+"href": "https://www.votejohndonohue.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejohndonohue.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votejohndonohue.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JohnDonohueForWI"
+}
 ]

@@ -1,11 +1,6 @@
-❋
-July 5, 2026 | Starting at 5:00 pm
-America’s Potluck: Celebrating America250
-“The tradition of Sunday dinner invites us to slow down, serve others, and connect with one another.
-Through dialogue and a shared meal, we can promote our common bonds and honor the freedoms we enjoy as Americans.”
-Thank you to everyone that joined us for this amazing event on the 5th!
+0 Skip to Content Newsletter Signup About Me Events America's Potluck Contact Donate Open Menu Close Menu Newsletter Signup About Me Events America's Potluck Contact Donate Open Menu Close Menu Newsletter Signup About Me Events America's Potluck Contact Donate ❋ July 5, 2026 | Starting at 5:00 pm America’s Potluck: Celebrating America250 “The tradition of Sunday dinner invites us to slow down, serve others, and connect with one another.
+Through dialogue and a shared meal, we can promote our common bonds and honor the freedoms we enjoy as Americans.” Thank you to everyone that joined us for this amazing event on the 5th!
 It was proof that we can, in fact, do this politics thing a little differently when we come together and remember that we are neighbors, friends, and family and conversations are possible even when we disagree.
 After all, politics should never be about the politician - rather about our shared values, building a future that works for everyone and remembering what truly matters.
-Hope to see you at another event soon!
-❋ Keep the gift of food and connection going
-If you are able, please make a contribution for the Cache Food Pantry so we can continue building up our community long after this meal is over.
+Hope to see you at another event soon! ❋ Keep the gift of food and connection going If you are able, please make a contribution for the Cache Food Pantry so we can continue building up our community long after this meal is over.
+Donate Email: kendraforutah@gmail.com Paid for by Friends of Kendra Penry.

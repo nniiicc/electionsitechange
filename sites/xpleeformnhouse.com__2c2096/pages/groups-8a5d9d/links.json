@@ -1,11 +1,42 @@
 [
-"http://secure.actblue.com/donate/xpleeformnhouse",
-"https://facebook.com/xpleeformnhouse",
-"https://wix.com/",
-"https://xpleeformnhouse.com/",
-"https://xpleeformnhouse.com/group/xp-lee-supporters",
-"https://xpleeformnhouse.com/group/xp-lee-supporters/discussion/022de95f-a3a3-4b6d-9eb3-9b6f8b9fa337",
-"https://xpleeformnhouse.com/group/xp-lee-supporters/discussion/973e905c-98a3-4039-8501-c7cbd51bad3f",
-"https://xpleeformnhouse.com/groups",
-"https://xpleeformnhouse.com/notifications"
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/xpleeformnhouse"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/xpleeformnhouse"
+},
+{
+"text": "Groups",
+"href": "https://www.xpleeformnhouse.com/groups"
+},
+{
+"text": "Home",
+"href": "https://www.xpleeformnhouse.com"
+},
+{
+"text": "July 11, 2026",
+"href": "https://www.xpleeformnhouse.com/group/xp-lee-supporters/discussion/973e905c-98a3-4039-8501-c7cbd51bad3f"
+},
+{
+"text": "July 12, 2026",
+"href": "https://www.xpleeformnhouse.com/group/xp-lee-supporters/discussion/022de95f-a3a3-4b6d-9eb3-9b6f8b9fa337"
+},
+{
+"text": "Notifications",
+"href": "https://www.xpleeformnhouse.com/notifications"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "Xp Lee Supporters",
+"href": "https://www.xpleeformnhouse.com/group/xp-lee-supporters"
+},
+{
+"text": "xpleeformnhouse@gmail.com",
+"href": "mailto:xpleeformnhouse@gmail.com"
+}
 ]

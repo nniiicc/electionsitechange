@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.markformaine.com/news/news-1",
- "paid_for_by": null,
+ "fingerprint": "c5a3d4cb01a6c76e8b4fc6ff5ce259addc73168c",
+ "format": 3,
+ "paid_for_by": "authorized by Mark Vigliotta for Senate You need to enable JavaScript to run this app",
  "title": "Support Mark Vigliotta for District 33 | Letter",
  "years_mentioned": [
   "2026"

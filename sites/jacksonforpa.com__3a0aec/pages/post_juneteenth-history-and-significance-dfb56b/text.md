@@ -1,6 +1,5 @@
-Juneteenth History and Significance
-Photo credit to freedomcenter.org
-In mid-September 1862, the United States Army of the Potomac fought the Confederate Army of Northern Virginia on the banks of Antietam Creek in and around the village of Sharpsburg, Maryland.
+top of page VOTE TUES NOV 3 ABOUT PRIORITIES NEWS & EVENTS GET INVOLVED DONATE More Use tab to navigate through the menu items.
+News & Events AI Legislation Economic Theory Search Juneteenth History and Significance Jun 21 6 min read Photo credit to freedomcenter.org In mid-September 1862, the United States Army of the Potomac fought the Confederate Army of Northern Virginia on the banks of Antietam Creek in and around the village of Sharpsburg, Maryland.
 Though they tactically fought the battle to a draw, the Union Army forced the Confederate Army to retreat over the Potomac River back into Virginia.
 The Union saw the battle as a strategic victory for the Lincoln Administration.
 Now that President Lincoln felt in a position of military and political strength and justified by the Confiscation Acts passed by Congress, he declared the Emancipation Proclamation to be effective January 1, 1863.
@@ -9,10 +8,8 @@ When the Emancipation Proclamation went into effect, the Civil War had raged for
 It had been over two years since the secession from the Union of eleven southern states and the attempted secession of three more to build a new confederacy of states.
 The purpose of this new confederacy was to protect wealth built on the institution of human enslavement and its continuance.
 At its core, the war was a test of whether the citizens or a wealthy oligarchy would rule the United States, who built their wealth on the backs of four million enslaved human beings.
-President Abraham Lincoln eloquently captured the core of the war’s political contest in the Gettysburg Address:
-“Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
-Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure... that this nation, under God, shall have a new birth of freedom— and that government of the people, by the people, for the people, shall not perish from the earth.”
-As the war continued, Federal armies probed ever deep into the Confederacy freeing slaves wherever they went recruiting some of them into the United States Army.
+President Abraham Lincoln eloquently captured the core of the war’s political contest in the Gettysburg Address: “ Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal .
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure... that this nation, under God, shall have a new birth of freedom— and that government of the people, by the people, for the people , shall not perish from the earth. ” As the war continued, Federal armies probed ever deep into the Confederacy freeing slaves wherever they went recruiting some of them into the United States Army.
 Wealthy slaveholders began to realize that they would soon lose their plantations, possessions, wealth, political positions, and, most importantly, their enslaved workers, the source of their wealth and power.
 As early in the war as the spring of 1862, Federal armies seized much of Tennessee.
 The Confederate Army of Mississippi could not dislodge them and was defeated in the two-day Battle of Shiloh in April.
@@ -34,17 +31,18 @@ Many enslaved people in the South knew something of the strong abolitionist move
 Word of the advances of the Federal armies into the southern states certainly would have buoyed their hopes of one day being set free.
 It is then hard to imagine the spirit-crushing realization that freedom was just a mirage, as they trudged and stumbled westward in their chains.
 The Civil War churned on for two more years and the number of enslaved people in Texas swelled to about 250,000 when the last significant Confederate military force, the Trans-Mississippi Department, surrendered on May 26, 1865.
-A little less than a month later, in June of 1865; 161 years ago, General Gordon Granger, commander of the District of Texas, arrived in Galveston, Texas.
-On June 19, General Granger’s soldiers posted General Order No. 3 in public places in the city:
-“The people of Texas are informed that, in accordance with a proclamation from the Executive of the United States, all slaves are free.
+A little less than a month later, in June of 1865; #ago, General Gordon Granger, commander of the District of Texas, arrived in Galveston, Texas.
+On June 19, General Granger’s soldiers posted General Order No.
+3 in public places in the city: “The people of Texas are informed that, in accordance with a proclamation from the Executive of the United States, all slaves are free.
 This involves an absolute equality of personal rights and rights of property between former masters and slaves, and the connection heretofore existing between them becomes that between employer and hired labor.
 The freedmen are advised to remain quietly at their present homes and work for wages.
-They are informed that they will not be allowed to collect at military posts and that they will not be supported in idleness either there or elsewhere.”
-The word quickly spread that the long nightmare of chattel slavery, the crime against humanity of owning human beings as property, as nothing more than farm implements to be used and abused at whim, had finally come to an end in all the former Confederate states.
+They are informed that they will not be allowed to collect at military posts and that they will not be supported in idleness either there or elsewhere.” The word quickly spread that the long nightmare of chattel slavery, the crime against humanity of owning human beings as property, as nothing more than farm implements to be used and abused at whim, had finally come to an end in all the former Confederate states.
 Chattel slavery would remain legal in the border state of Kentucky for six more months until the ratification of the thirteenth amendment to the US Constitution outlawing chattel slavery in the United States and its territories on December 6, 1865.
 The “Day of Jubilee” had at last arrived for our brothers and sisters of African descent and they have celebrated their Juneteenth freedom from bondage ever since.
-The majestic words of the Declaration of Independence of the thirteen colonies from the authority of the English king and parliament in 1776 did not apply to the enslaved population:
-“We hold these truths to be self‑evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”
-It is self-evident to this author that in the course of history, Independence Day for the formerly enslaved, applies more accurately to the Juneteenth holiday.
+The majestic words of the Declaration of Independence of the thirteen colonies from the authority of the English king and parliament in 1776 did not apply to the enslaved population: “We hold these truths to be self‑evident, that all men are created equal , that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” It is self-evident to this author that in the course of history, Independence Day for the formerly enslaved, applies more accurately to the Juneteenth holiday.
 Further, history compels everyone else to observe the Juneteenth “Day of Jubilee” with them so that they can celebrate, in perpetuity, their freedom.
 For us it is to remember that any kind of enslavement or diminution of the rights of anyone under the equal application of the United States Constitution, must never again appear in these United States.
+Recent Posts See All Organized Labor: An Engine of Democracy Providing Economic Opportunity for the Franklin County Middle Class Thoughts on Public Education Subscribe for Updates Email * Subscribe I want to subscribe to the mailing list.
+JOIN THE CONVERSATION: Donate © #.
+Paid for by Friends of Shannon Jackson.
+Website created with ♥️ by AW Designs . bottom of page

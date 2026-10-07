@@ -1,12 +1,54 @@
 [
-"https://facebook.com/CarrollCampaign",
-"https://instagram.com/nedcarrollformnhouse",
-"https://mobile.twitter.com/NedJCarroll",
-"https://nedformn.com/",
-"https://nedformn.com/endorsements",
-"https://nedformn.com/get-involved",
-"https://nedformn.com/meet-ned",
-"https://nedformn.com/priorities",
-"https://secure.actblue.com/donate/ned-carroll-for-mn-house-2",
-"https://techforcampaigns.org/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ned-carroll-for-mn-house-2"
+},
+{
+"text": "Endorsements",
+"href": "https://nedformn.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://nedformn.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://nedformn.com/"
+},
+{
+"text": "Meet Ned",
+"href": "https://nedformn.com/meet-ned/"
+},
+{
+"text": "Ned Carroll for House",
+"href": "https://nedformn.com/"
+},
+{
+"text": "Priorities",
+"href": "https://nedformn.com/priorities/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "[image: Ned Carroll for House]",
+"href": "https://nedformn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://mobile.twitter.com/NedJCarroll"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarrollCampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nedcarrollformnhouse/"
+},
+{
+"text": "nedjcarroll@gmail.com",
+"href": "mailto:nedjcarroll@gmail.com"
+}
 ]

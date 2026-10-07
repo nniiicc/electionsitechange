@@ -1,18 +1,74 @@
 [
-"https://arkansashouse.org/learn/district-map?addr=41st+street%2C+bentonville%2C+ar&zip=72713",
-"https://arkansashouse.org/representative/164/posts",
-"https://arkleg.state.ar.us/Bills/Search?ddBienniumSession=2023%2F2023R&hdnSessions=b2025%2Cz2025R%2C&ddChamber=A&ddSponsor=R.+Scott+Richardson&ddCoSponsor=R.+Scott+Richardson&ddExclusivity=Any",
-"https://arkleg.state.ar.us/Calendars/Meetings?listview=month",
-"https://facebook.com/scottforarkansas",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/scottforarkansas",
-"https://politics.raisethemoney.com/en/6tzrtxfjcrifptivwena",
-"https://scottforarkansas.com/",
-"https://scottforarkansas.com/about-scott",
-"https://scottforarkansas.com/contact-us",
-"https://scottforarkansas.com/endorsements-and-awards",
-"https://scottforarkansas.com/photo-gallery",
-"https://scottforarkansas.com/scott-in-the-press",
-"https://voterview.ar-nova.org/voterview",
-"https://x.com/rscottrichardso"
+{
+"text": "479.308.8260",
+"href": "tel:4793088260"
+},
+{
+"text": "About Scott",
+"href": "https://scottforarkansas.com/about-scott"
+},
+{
+"text": "Check Your Voter Status",
+"href": "https://www.voterview.ar-nova.org/voterview"
+},
+{
+"text": "Contact Us",
+"href": "https://scottforarkansas.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/6tzrtxfjcrifptivwena"
+},
+{
+"text": "Endorsements and Awards",
+"href": "https://scottforarkansas.com/endorsements-and-awards"
+},
+{
+"text": "Home",
+"href": "https://scottforarkansas.com/"
+},
+{
+"text": "House District Maps",
+"href": "https://arkansashouse.org/learn/district-map?addr=41st+street%2C+bentonville%2C+ar&zip=72713"
+},
+{
+"text": "Legislative Calendar",
+"href": "https://www.arkleg.state.ar.us/Calendars/Meetings?listview=month"
+},
+{
+"text": "Legislative News",
+"href": "https://www.arkansashouse.org/representative/164/posts"
+},
+{
+"text": "Our 2025 Session Bills",
+"href": "https://www.arkleg.state.ar.us/Bills/Search?tbType=&ddBienniumSession=2023%2F2023R&hdnSessions=b2025%2Cz2025R%2C&ddChamber=A&tbActNumber=&tbBillNumber=&ddSponsor=R.+Scott+Richardson&ddCoSponsor=R.+Scott+Richardson&tbAllWords=&tbExactPhrase=&tbOneWord=&tbWithoutWords=&ddExclusivity=Any"
+},
+{
+"text": "Photo Gallery",
+"href": "https://scottforarkansas.com/photo-gallery"
+},
+{
+"text": "Scott in the Press",
+"href": "https://scottforarkansas.com/scott-in-the-press"
+},
+{
+"text": "[image]",
+"href": "https://scottforarkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/scottforarkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/scottforarkansas"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/rscottrichardso"
+}
 ]

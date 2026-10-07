@@ -1,8 +1,1 @@
-Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy
-Previous
-Previous
-June 13
-Door Knocking with Joseph McClusky in Holland Heights
-Next
-Next
-June 15
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Summer Meet and Greet Picnic with Joseph McClusky Saturday, June 13, 2026 3:00 PM 5:00 PM Lakeview City Park 608 Bay Avenue Holland, Michigan, 49423 United States (map) Google Calendar ICS Previous Previous June 13 Door Knocking with Joseph McClusky in Holland Heights Next Next June 15 Door Knocking with Joseph McClusky and the Michigan League of Conservation Voters Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

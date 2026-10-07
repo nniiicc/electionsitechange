@@ -1,13 +1,58 @@
 [
-"https://facebook.com/votebowes",
-"https://secure.anedot.com/citizens-for-bill-bowes/donate",
-"https://votebowes.com/",
-"https://votebowes.com/about",
-"https://votebowes.com/contact",
-"https://votebowes.com/election-information",
-"https://votebowes.com/endorsements",
-"https://votebowes.com/privacy-policy",
-"https://votebowes.com/wp-content/uploads/2026/08/Bowes-Parade-1.jpeg",
-"https://votebowes.com/wp-content/uploads/2026/08/Bowes-Parade-2.jpeg",
-"https://x.com/votebowes"
+{
+"text": "About",
+"href": "https://votebowes.com/about/"
+},
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate"
+},
+{
+"text": "Click Here for important election dates & information",
+"href": "https://votebowes.com/election-information/"
+},
+{
+"text": "Contact/Join THE TEAM",
+"href": "https://votebowes.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/citizens-for-bill-bowes/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://votebowes.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://votebowes.com/"
+},
+{
+"text": "Issues",
+"href": "https://votebowes.com/#issues"
+},
+{
+"text": "[image]",
+"href": "https://votebowes.com/"
+},
+{
+"text": "[image]",
+"href": "https://votebowes.com/wp-content/uploads/2026/08/Bowes-Parade-1.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://votebowes.com/wp-content/uploads/2026/08/Bowes-Parade-2.jpeg"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votebowes"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votebowes"
+},
+{
+"text": "privacy policy",
+"href": "https://votebowes.com/privacy-policy/"
+}
 ]

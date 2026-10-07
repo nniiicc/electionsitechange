@@ -1,7 +1,9 @@
 {
  "description": "Your Campaign Tagline Goes Here",
  "final_url": "https://leffforthepeople.com/meet-the-candidate/",
- "paid_for_by": null,
+ "fingerprint": "9975dba2d707209be68f07ffbc8d3eb9bd786943",
+ "format": 3,
+ "paid_for_by": "Authorized by LeffForThePeople 3665 East Bay Drive, Suite 204 Box 336 Largo, FL 33771 LeffForThePeople © #",
  "title": "Meet The Candidate | LeffForThePeople",
  "years_mentioned": []
 }

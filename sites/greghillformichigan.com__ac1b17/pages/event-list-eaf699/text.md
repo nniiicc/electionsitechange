@@ -1,16 +1,3 @@
-top of page
-Upcoming Events
-- Autumn Fundraising Reception supporting Greg Hill and Brendan Leddy for State HouseFri, Sep 18Village of Clarkston
-- Northeast-D23 Coffee with a CandidateFri, May 01Simba Coffee Company
-- Coffee with a CandidateFri, Apr 24Empanada My Love Coffee Home
-- Premium Bourbon Tasting FundraiserFri, Apr 10Lake Orion
-- Coffee with a CandidateFri, Mar 20The Coffee Bucket
-- Coffee with a CandidateFri, Mar 13Shadrach, Meshach & ABeanToGo Coffee Roa
-- Meet and Greet House PartyFri, Feb 27Village of Clarkston
-- Coffee with a CandidateFri, Feb 27White Pine Coffee Roasters
-- Meet and Greet House PartyWed, Feb 25White Lake
-- Coffee with a CandidateFri, Feb 20Simba Coffee Company
-- Sweat With A SenatorFri, Jan 23Lake Orion (more details to follow)
-- Orion Lighted Parade- Walk AroundSat, Dec 06Lake Orion
-- Brandon Township ParadeFri, Dec 05Ortonville
-bottom of page
+top of page Greg Hill Candidate for Michigan Senate District 23 Home Meet Greg People's Agenda The District Join the Movement Voices of the 23rd Events Donate Upcoming Events Multiple Dates Community Conversation- Virtual Thu, Oct 08 Link will be sent out prior to the event More info RSVP Autumn Fundraising Reception supporting Greg Hill and Brendan Leddy for State House Fri, Sep 18 Village of Clarkston More info Details Northeast-D23 Coffee with a Candidate Fri, May 01 Simba Coffee Company More info Details Coffee with a Candidate Fri, Apr 24 Empanada My Love Coffee Home More info Details Premium Bourbon Tasting Fundraiser Fri, Apr 10 Lake Orion More info Details Coffee with a Candidate Fri, Mar 20 The Coffee Bucket More info Details Coffee with a Candidate Fri, Mar 13 Shadrach, Meshach & ABeanToGo Coffee Roa More info Details Meet and Greet House Party Fri, Feb 27 Village of Clarkston More info Details Coffee with a Candidate Fri, Feb 27 White Pine Coffee Roasters More info Details Meet and Greet House Party Wed, Feb 25 White Lake More info Details Coffee with a Candidate Fri, Feb 20 Simba Coffee Company More info Details Sweat With A Senator Fri, Jan 23 Lake Orion (more details to follow) More info Details Multiple Dates Coffee with a Candidate Fri, Jan 09 Lake Orion More info Details Orion Lighted Parade- Walk Around Sat, Dec 06 Lake Orion More info Details Brandon Township Parade Fri, Dec 05 Ortonville More info Details From the Sideline to the Senate Floor.
+Phone: (248)318-8297 Privacy Policy GregHillForMichigan@gmail.com Terms and Conditions Let's Build a Stronger Michigan - Together.
+Paid for By Committee to Elect Greg Hill PO Box 144, Oxford MI 48371 Powered and secured by Wix bottom of page

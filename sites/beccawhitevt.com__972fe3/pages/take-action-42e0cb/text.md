@@ -1,3 +1,3 @@
-Donate Volunteer “I believe everyone deserves the opportunity to thrive in our communities.
+0 Skip to Content Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate Open Menu Close Menu Home Meet Becca The Pit Crew Newsletter Updates Donate Donate Volunteer “I believe everyone deserves the opportunity to thrive in our communities.
 Together, we can ensure that Windsor County leads boldly to improve the lives of every person in our region.” - Rep.
-Becca White
+Becca White Becca White for Vermont White River Junction, Vermont 05001 (802) 777 4517 Made with Squarespace Our Work About Updates Take Action Follow Twitter Instagram Facebook

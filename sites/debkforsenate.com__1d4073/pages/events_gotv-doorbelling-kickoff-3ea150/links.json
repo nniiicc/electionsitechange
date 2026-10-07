@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Get+out+the+vote+Doorbelling+Kickoff&dates=20251018T170000Z%2F20251018T193000Z",
-"https://debkforsenate.com/",
-"https://debkforsenate.com/cart",
-"https://debkforsenate.com/endorsements",
-"https://debkforsenate.com/events",
-"https://debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats",
-"https://debkforsenate.com/events/get-out-the-vote-phone-banking",
-"https://debkforsenate.com/events/gotv-doorbelling-kickoff?format=ical",
-"https://debkforsenate.com/issues",
-"https://debkforsenate.com/news",
-"https://facebook.com/profile.php?id=61575289710681",
-"https://flickr.com/photos/203048066@N04",
-"https://forms.gle/xzortGKB7kkXnJ2H8",
-"https://instagram.com/debkforsenate",
-"https://secure.actblue.com/donate/debk",
-"https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+{
+"text": "0",
+"href": "https://www.debkforsenate.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/debk"
+},
+{
+"text": "Endorse Deb",
+"href": "https://secure.ngpvan.com/yAKbUs3-KEO9cqDZWxm0CA2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.debkforsenate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.debkforsenate.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://forms.gle/xzortGKB7kkXnJ2H8"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Get+out+the+vote+Doorbelling+Kickoff&dates=20251018T170000Z%2F20251018T193000Z"
+},
+{
+"text": "Home",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.debkforsenate.com/events/gotv-doorbelling-kickoff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.debkforsenate.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.debkforsenate.com/news"
+},
+{
+"text": "Next Next November 1 Get Out The Vote Doorbelling w/ Washington State Labor Council and WA State Democrats!",
+"href": "https://www.debkforsenate.com/events/111-get-out-the-vote-doorbelling-w-washington-state-labor-council-and-wa-state-democrats"
+},
+{
+"text": "Previous Previous October 12 Get Out The Vote Phone Banking",
+"href": "https://www.debkforsenate.com/events/get-out-the-vote-phone-banking"
+},
+{
+"text": "[image: Deb Krishnadasan, Democrat for State Senate]",
+"href": "https://www.debkforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575289710681"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/203048066@N04/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/debkforsenate/"
+}
 ]

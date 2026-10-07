@@ -1,5 +1,4 @@
-Meet Bill
-Southwest Michigan is blessed with industrial, agricultural, and economic diversity that has helped create distinct and unique communities.
+Donate About Issues News Join Donate Meet Bill Southwest Michigan is blessed with industrial, agricultural, and economic diversity that has helped create distinct and unique communities.
 Bill is running to have the honor of representing Michigan's Fourth Congressional District.
 As a representative for Michigan, Bill has been a leading voice in the effort to make life more affordable by working to rein in Washington’s out-of-control spending that is fueling inflation.
 Additional areas of focus for Bill include: border security, limiting the role of the federal government, preserving the Great Lakes, and creating a sensible balance between federal regulation and private sector job creation.
@@ -13,3 +12,4 @@ Bill was born and raised in Ottawa County.
 He currently resides there with his wife, Natalie, and their five children.
 His children are the reason he ran for public office and inspire him to strive for an environment of prosperity for their generation – one that will encourage job creation through private sector growth, reducing the size of government, and keeping Americans safe both at home and abroad.
 Growing up, Bill attended Holland Christian High School, and later received his bachelor’s degree in Political Science from Calvin College.
+PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

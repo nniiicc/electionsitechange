@@ -1,13 +1,16 @@
-What is a Libertarian?
-History
-Founded in 1971, the Libertarian Party is the third largest political party in Pennsylvania and the nation, with 145 elected and appointed officials currently serving in office nationwide, and 32 here in Pennsylvania.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page What is a Libertarian?
+In Brief 9 The Libertarian Party is the Party of Principle.
+9 We believe that your life is yours, that your property is yours, that you have the God-given, inalienable right to live your life your way , without interference, provided you respect the rights and property of others.
+9 Libertarians are socially liberal and fiscally conservative.
+9 We are the third largest party in Pennsylvania and the nation, outnumbering all the other third parties combined.
+9 Vote Libertarian, because if you keep on voting the way you’ve been voting, you’ll keep on getting just what you’ve been getting.
+History Founded in 1971, the Libertarian Party is the third largest political party in Pennsylvania and the nation, with 145 elected and appointed officials currently serving in office nationwide, and 32 here in Pennsylvania.
 Like the Founding Fathers, Libertarians believe that you have a God-given, inalienable right to conduct your life as you see fit, without interference, so long as you respect the rights and property of others.
 As a result, Libertarians favor a smaller, more responsible government.
 Libertarians agree with the traditional Republican values of economic freedom and low taxes, and with the Democratic values of personal freedom and tolerance.
-For more information about the Libertarian Party, the public is invited to contact the Libertarian Party of Pennsylvania at (800) R-Rights or www.LpPa.Org, or the National Libertarian Party at (800) Elect-Us or www.Lp.Org.
-In Depth
-We Libertarians are different from the two old parties and other third parties because we are the party of principle.
-Every law we support, every law we oppose, can all be traced back to one central idea: the idea that your life is yours, that your property is yours, that you have the God-given, inalienable right to live your life your way, without interference, provided you respect the rights and property of others.
+For more information about the Libertarian Party, the public is invited to contact the Libertarian Party of Pennsylvania at (800) R-Rights or www.LpPa.Org , or the National Libertarian Party at (800) Elect-Us or www.Lp.Org .
+In Depth We Libertarians are different from the two old parties and other third parties because we are the party of principle.
+Every law we support, every law we oppose, can all be traced back to one central idea: the idea that your life is yours, that your property is yours, that you have the God-given, inalienable right to live your life your way , without interference, provided you respect the rights and property of others.
 That’s it.
 That’s what it means to be a Libertarian.
 Your life your way.
@@ -30,3 +33,4 @@ But we Libertarians support liberty all the time.
 We’re socially liberal and fiscally conservative, which is the best of both worlds.
 Please vote Libertarian, because if you keep on voting the way you’ve been voting, you’ll keep on getting just what you’ve been getting.
 And haven’t we all had enough?
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

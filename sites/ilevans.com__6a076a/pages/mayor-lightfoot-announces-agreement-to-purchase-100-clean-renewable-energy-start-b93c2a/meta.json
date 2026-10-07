@@ -1,12 +1,16 @@
 {
- "description": "CHICAGO \u2014 Mayor Lori E. Lightfoot and the Department of Assets, Information and Services (AIS) visited the Chicago Urban League to announce an agreement with retail electricity supplier Constellation, in collaboration with Swift [\u2026]",
+ "description": "CHICAGO — Mayor Lori E. Lightfoot and the Department of Assets, Information and Services (AIS) visited the Chicago Urban League to announce an agreement with retail electricity supplier Constellation, in collaboration with Swift […]",
  "final_url": "https://www.ilevans.com/mayor-lightfoot-announces-agreement-to-purchase-100-clean-renewable-energy-starting-in-2025/",
- "paid_for_by": null,
+ "fingerprint": "dab3bd35605e82dc85defdf39ee18e213fddc735",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mayor Lightfoot Announces Agreement to Purchase 100% Clean, Renewable Energy Starting in 2025 - Marcus Evans for State Rep",
  "years_mentioned": [
   "2020",
   "2022",
   "2023",
-  "2025"
+  "2025",
+  "2035",
+  "2040"
  ]
 }

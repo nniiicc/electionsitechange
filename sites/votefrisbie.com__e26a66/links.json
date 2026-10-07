@@ -1,6 +1,30 @@
 [
-"https://facebook.com/votefrisbie",
-"https://secure.winred.com/the-committee-to-elect-steve-frisbie-for-state-house/give",
-"https://votefrisbie.com/",
-"https://votefrisbie.com/privacy"
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/the-committee-to-elect-steve-frisbie-for-state-house/give"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.winred.com/the-committee-to-elect-steve-frisbie-for-state-house/give"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-committee-to-elect-steve-frisbie-for-state-house/give"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votefrisbie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votefrisbie.com/privacy"
+},
+{
+"text": "VoteFrisbie.com",
+"href": "https://votefrisbie.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/votefrisbie"
+}
 ]

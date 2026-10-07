@@ -1,21 +1,13 @@
-Act Blue Donation Page now available!
+Meet John Issues News Volunteer Contribute # Aug Thursday, 1:43 PM · 2026 Act Blue Donation Page now available!
 Along with donating on our Contribution page on this site, through Raise The Money, you can now also donate through Act Blue!
-Please see the link below.
-Upcoming appearance
-Look for John at this wonderful upcoming event!
-❗️Petition Signing Event ❗️
-Looking forward to petition signing season coming soon!
+Please see the link below. https://secure.actblue.com/donate/john-deatrich-2 14 Aug Friday, 8:34 PM · 2026 Upcoming appearance Look for John at this wonderful upcoming event!
+6 Feb Friday, 6:50 AM · 2026 ❗️Petition Signing Event ❗️ Looking forward to petition signing season coming soon!
 I need everyone who lives in the 123rd to sign my petition.
 I will be at multiple signing events and will be sharing info as I can.
 First up, I will be attending a petition signing event sponsored by the Schuylkill County Democratic Action Group on Wednesday February 18th at 6pm at Roma Pizza in Pottsville.
 Hope to see you there!
-Stay tuned for future events.
-https://www.facebook.com/share/1EoyYvqdbe/?mibextid=wwXIfr
-Announcement!
-PRESS RELEASE – CAMPAIGN ANNOUNCEMENT
-FOR IMMEDIATE RELEASE
-My name is John Deatrich, I am pleased to announce my candidacy for Pennsylvania State Representative, 123rd District
-Palo Alto, PA — 2/2/26 — John Deatrich, is a lifelong resident of the 123rd District.
+Stay tuned for future events. https://www.facebook.com/share/1EoyYvqdbe/?mibextid=wwXIfr Read more 1 Feb Sunday, 9:51 AM · 2026 Announcement!
+PRESS RELEASE – CAMPAIGN ANNOUNCEMENT FOR IMMEDIATE RELEASE My name is John Deatrich, I am pleased to announce my candidacy for Pennsylvania State Representative, 123rd District Palo Alto, PA — 2/2/26 — John Deatrich, is a lifelong resident of the 123rd District.
 Today he released a statement that he was excited, humbled, and honored to announce his candidacy for Pennsylvania State Representative in the 123rd District.
 He has pledged to restore common sense, rely on his practical experiences, and allow himself to be guided by the strong community values that proudly represent the hard-working, blue-collar constituents of this district.
 He stated that anyone who knows him, regardless of political affiliation, will attest to their full confidence in him to bring an unwavering commitment to public service to Harrisburg.
@@ -43,8 +35,7 @@ For two decades he has been an elected official for the Borough of Palo Alto, se
 First, he was the chair of the finance committee, then many years as the borough’s council president over seeing all committees.
 The past several years, Deatrich has been the Mayor of Palo Alto.
 He has played a key role in negotiating several intermunicipal police agreements with multiple municipalities which have brought the borough’s public safety and police coverage into the 21st century and for the first time in the borough’s history, 24/7 police coverage.
-Deatrich is very proud of the work he and the council have done to combat blight, tough ordinance creation against unsavory landlords with undesirable renting practices, lucrative partnerships with local business, enforceable quality of life ordinances to improve health and safety of citizens, and unmatched progressive planning to ensure the future of Palo Alto is secure on all fronts
-If elected, Deatrich says his priorities will include being proactive not reactive to data centers.
+Deatrich is very proud of the work he and the council have done to combat blight, tough ordinance creation against unsavory landlords with undesirable renting practices, lucrative partnerships with local business, enforceable quality of life ordinances to improve health and safety of citizens, and unmatched progressive planning to ensure the future of Palo Alto is secure on all fronts If elected, Deatrich says his priorities will include being proactive not reactive to data centers.
 It’s extremely important to be educated about the pros and cons of new challenges the future holds for this area.
 Fair funding for infrastructure repair.
 Funds for road repair does not reflect additional commercial traffic since the construction of warehouses in this district.
@@ -52,7 +43,7 @@ That math doesn’t work.
 Child Care reform; Before or after school day care assistance for working parents earning a wage above the poverty line.
 More hours worked earns more childcare credit and assistance.
 Less hours worked requires less outside childcare assistance “This campaign is about putting hard working people, who do what they are supposed to, to the front of the line.
-“Harrisburg should be working for us, — not the other way around,”
-The 123rd District generally includes parts of Pottsville, Girardville, Palo Alto, Port Carbon, New Philadelphia, Schuylkill Haven, St.
+“Harrisburg should be working for us, — not the other way around,” The 123rd District generally includes parts of Pottsville, Girardville, Palo Alto, Port Carbon, New Philadelphia, Schuylkill Haven, St.
 Clair, New Castle Township, North Manheim, Norwegian, Wayne Township, and West Mahanoy Township.
-Media Contact: John Deatrich 570-579-5391 jadeatrich@outlook.com
+Media Contact: John Deatrich 570-579-5391 jadeatrich@outlook.com VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Voter Information Events Contact Committee to Elect John Deatrich Powered by CampaignPartner.com - Political Websites Home Meet John Issues Contribute Volunteer News Events Contact Voter Information Close Menu

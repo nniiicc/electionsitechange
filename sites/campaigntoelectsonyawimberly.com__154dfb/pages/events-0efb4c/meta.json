@@ -1,7 +1,9 @@
 {
  "description": "Join Sonya Wimberly at engaging events to connect with the community, meet the candidates, and support the political campaign.",
  "final_url": "https://campaigntoelectsonyawimberly.com/events",
- "paid_for_by": null,
+ "fingerprint": "abcddc5f1eea654412070f9c876eb7cebde3b35a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events",
  "years_mentioned": [
   "2026"

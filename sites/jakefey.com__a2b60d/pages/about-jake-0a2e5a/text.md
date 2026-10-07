@@ -1,5 +1,4 @@
-About Jake
-Jake Fey’s background of hard work and service to others drives him to serve our community, first on the Tacoma City Council, later as Deputy Mayor and for the past 10 years as our State Representative in Olympia.
+Donate Home About Jake Endorsements Issues News Get Involved Contact Donate About Jake Jake Fey’s background of hard work and service to others drives him to serve our community, first on the Tacoma City Council, later as Deputy Mayor and for the past 10 years as our State Representative in Olympia.
 The son of German immigrants, Jake Fey was born and raised in Port Angeles, Washington.
 His father was a mill worker and card-carrying member of the IWW.
 His mother worked in the home.
@@ -21,8 +20,10 @@ In his leadership with Washington State University managing an alternative energ
 Jake is committed to a sustainable and vibrant future for generations to come.
 Jake has lived in Tacoma for over 30 years.
 He has two children, two grandchildren.
-Community Service
-- Board Member, Boys and Girls Club of South Puget Sound
-- Board President, First Place for Children
-- Board President, Tacoma Pierce County Big Brothers Big Sisters
-- Member, Rotary 8
+Community Service Board Member, Boys and Girls Club of South Puget Sound Board President, First Place for Children Board President, Tacoma Pierce County Big Brothers Big Sisters Member, Rotary 8 News Mass Transit Pierce Transit breaks ground on Spanaway Transit Center.
+October 5, 2022 Funded jointly by WSDOT and the FTA, $3 million in federal support was championed by Representative Marilyn Strickland and Senator Maria Cantwell.
+Both attended the groundbreaking event, speaking of their ongoing support of transit and the importance of facilitating connections within our … Read More The News Tribune Free Youth Transit Passes are a win.
+September 4, 2022 The Free Youth Transit Pass brings to life the vision of breaking down transportation barriers for young people and enhancing opportunities.
+For that we express our gratitude to our state legislators, including Tacoma Representative and House Transportation Chair Jake Fey, for crafting the … Read More 425 Business Event Celebrates Eastrail’s $29M in State Funding, Diverse Partnerships, Connections.
+August 24, 2022 State Rep.
+Jake Fey, chair of the House Transportation [Committee], was dressed in riding gear for the morning’s tour and complimented Liias for his partnership on “active transportation” in the budget. … “Most importantly, it looks like this will be, when completed, a great additional … Read More More News Paid for by Committee to Elect Jake Fey PO Box 1372 Tacoma, WA 98401 | (253) 383-5908 | info@jakefey.com

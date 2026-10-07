@@ -1,8 +1,3 @@
-top of page
-Jasper County Farm Bureau / Primary Candidate Meet and Greet
-Thu, Apr 16
-|The Connection Center
-Jasper County Farm Bureau is hosting a Primary Candidate Meet and Greet!
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Jasper County Farm Bureau / Primary Candidate Meet and Greet Thu, Apr 16 | The Connection Center Jasper County Farm Bureau is hosting a Primary Candidate Meet and Greet!
 Come and meet Jay Starkey for State Senate District 6 and tell him about your needs and concerns.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Apr 16, 2026, 6:00 PM – 8:00 PM CDT The Connection Center, 1315 15th St SE, De Motte, IN 46310, USA Guests See All Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

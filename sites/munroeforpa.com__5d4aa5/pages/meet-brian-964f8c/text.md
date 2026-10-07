@@ -1,13 +1,28 @@
-A Lifetime of Public Service
-ON THE ISSUES
-My approach is to look beyond party lines, reach across the aisle and get things done.
+Home Meet Brian Getting Results Get Involved Campaign Updates Donate Search Menu Menu A Lifetime of Public Service I became a volunteer firefighter and emergency medical technician at age 17.
+And that was just the beginning!
+Three years later, I enlisted in the United States Navy.
+I served aboard the USS Theodore Roosevelt, during the Bosnia-Herzegovia conflict.
+I was awarded the Armed Forces Medal, National Defense Service Medal, Navy Unit Commendation, North America Treaty Organization Medal, Sea Service Deployment Ribbon & Southwest Asia Service Medal After my Navy service, I pursued a career in law enforcement.
+I became a police officer in Radnor Township in 2001.
+I attained the rank of corporal, and, during my years of community policing, received commendations from Congressman Kurt Weldon and Mothers Against Drunk Driving.
+While on duty, I was involved in a severe car accident that ended my career after ten years of service.
+With my Navy and law enforcement days behind me, I decided to serve my community by running for office.
+I was elected to a seat on the Warminster Township Board of Supervisors, where I focused on open space, green development, and aligning the structure, staffing, and training of the police department with the safety needs of the community.
+I previously served as Clerk of Courts for Bucks County.
+And, of course, I am currently State Representative in House District 144.
+I have a history of putting people and community ahead of politics—and continue to do it in Harrisburg!
+My wife and daughters are amazing.
+They’re with me every step of the way.
+None of it would be possible without their love, patience, and support!
+At the end of the day, this campaign is about the things that matter to you.
+I won’t compromise on good government that puts people ahead of politics.
+In Harrisburg, I will continue my focus on public service by fighting for you and your rights.
+ON THE ISSUES My approach is to look beyond party lines, reach across the aisle and get things done.
 That said, there are some values I hold very dear and I will not compromise on them!
-Here’s where I stand on some key issues…
-AN ECONOMY THAT WORKS FOR YOU
-From my own experience, I understand how the cost of everything from bacon to gasoline is straining family budgets.
+Here’s where I stand on some key issues… AN ECONOMY THAT WORKS FOR YOU From my own experience, I understand how the cost of everything from bacon to gasoline is straining family budgets.
 As prices continue to increase, we need wages for working families to be fair and equitable to meet basic needs, which is why I support raising the minimum wage.
 It is crucial that families can afford groceries, pay bills, and still have money left over to be able to do things they enjoy.
-Living Wage: Pennsylvania’s minimum wage has remained at $7.25/hour since 2009.
+Living Wage : Pennsylvania’s minimum wage has remained at $7.25/hour since 2009.
 Even as the cost of living continues to rise, and despite neighboring states increasing their minimum wages, Pennsylvania’s Republican legislature has refused to provide Pennsylvania residents a living wage, and has left Pennsylvania with the lowest minimum wage of all its neighbors.
 This needs to change.
 I fully support raising the minimum wage.
@@ -19,7 +34,7 @@ This will create clean energy innovation and cutting-edge job opportunities for 
 I will actively support the creation of Green Jobs within the district.
 Encouraging the creation of such jobs will lead to a more stable economy that is less reliant on gas prices.
 These jobs will also help protect our environment.
-Small Businesses: Small businesses are a central part of our community and our economy.
+Small Businesses : Small businesses are a central part of our community and our economy.
 Investing in small businesses and supporting their specific everyday needs strengthens the middle class.
 It helps create jobs and provides the means for workers to earn a living wage.
 For far too long, the Republican majority in Harrisburg ignored the voices of small business owners, and COVID-19 left many in a perilous situation.
@@ -29,8 +44,7 @@ Tax Policy: I believe that a natural gas extraction fee is long overdue and coul
 Pennsylvania is in the bottom 5 states in the nation when it comes to state funding of our schools.
 The burden of paying for schools falls on district residents through constant tax increases, a practice which disproportionately affects senior citizens on a fixed income who have spent years paying off their mortgages.
 Something as simple as a 7% extraction fee on the natural gas companies fracking in our commonwealth could result in nearly $1.7 billion over 5 years.
-PROTECTING A WOMAN’S RIGHT TO CHOOSE
-When the Supreme Court of the United States overturned Roe v.
+PROTECTING A WOMAN’S RIGHT TO CHOOSE When the Supreme Court of the United States overturned Roe v.
 Wade, it eliminated the constitutional right to abortion after almost 50 years.
 Here in Pennsylvania, women could easily lose their right to bodily autonomy.
 Especially as a father of two daughters, I’m horrified that young girls and women may soon have their healthcare decisions controlled and regulated by our government.
@@ -41,8 +55,7 @@ This election will determine the future of reproductive freedom for Pennsylvania
 In addition to abortion with Roe v.
 Wade, this includes birth control access, same-sex marriage, and interracial marriage.
 With the floodgates now wide open, the implications of this ruling are dangerously far-reaching.
-HEALTHCARE
-Accessibility & Affordability: During my 2019 campaign for Bucks County Clerk of Courts, I was diagnosed with Non-Hodgkin’s Lymphoma, a cancer of the lymphatic system.
+HEALTHCARE Accessibility & Affordability: During my 2019 campaign for Bucks County Clerk of Courts, I was diagnosed with Non-Hodgkin’s Lymphoma, a cancer of the lymphatic system.
 Fortunately, I had access to quality healthcare and quality health insurance, which allowed me to receive chemotherapy treatment.
 Because of this, I was cured of the cancer.
 When I saw the bills, I knew that without insurance, I would be either dead or bankrupt.
@@ -58,21 +71,18 @@ I understand that there is currently a mental health epidemic across the country
 Care and treatment for these issues is often hard to find and/or above the budget of many people.
 People in need of psychiatric help should not have to make the choice between waiting months for a provider who accepts insurance or breaking their budget to see one who doesn’t.
 In the State House, I will advocate for more access to affordable mental healthcare for all Pennsylvanians.
-ENVIRONMENT
-It is our duty to protect our environment because everyone has a right to clean air and pure water.
+ENVIRONMENT It is our duty to protect our environment because everyone has a right to clean air and pure water.
 When we fail our environment, we fail ourselves.
 Evidence can be found all around us.
 Locally, in Warminster Township, residents lost access to their clean drinking water source due to PFOS/PFOA contamination.
 Unchecked development without storm water mitigation in years past left us with flooding issues.
 Even invasive species, such as the Spotted Lantern Fly, have brought millions of dollars of damage to our Bucks County farmers.
 I take these protections seriously as they directly impact us economically, as well as our overall health and well-being.
-AI DATA CENTER GUARDRAILS
-This is the “new fracking.” We must learn from our failures to address the serious environmental impacts of AI data centers.
+AI DATA CENTER GUARDRAILS This is the “new fracking.” We must learn from our failures to address the serious environmental impacts of AI data centers.
 I am co-sponsoring HB 2150 and 2151, which would require data center developers and users to report their operations and energy and water usage to PA, and direct municipalities to regulate data centers and adopt local ordinances to limit harmful impacts on nearby communities.
 We need guardrails as this new technological frontier expands rapidly.
 I do not support letting these companies come in and reap economic benefits by destroying our environment and harming our communities, and will continue to advocate for more laws tackling AI-related issues and fighting for affordable energy for Pennsylvanians.
-EDUCATION
-Our children are our future, and their education is a top priority.
+EDUCATION Our children are our future, and their education is a top priority.
 Higher education is one of the cornerstones of a healthy middle class in Pennsylvania and we must ensure that college education remains affordable.
 Vocational-technical schools deserve proper funding, especially since they maintain a healthy workforce by teaching trade skills that help meet the high demand in these fields.
 Funding: There needs to be a major overhaul in how our schools are funded.
@@ -83,13 +93,15 @@ Public education is a cornerstone of a strong society, and I will continue to fi
 Student Debt: I believe that easy access to a college education and technical training schools is a conduit to a stronger economy.
 I know how college debt can set you back a decade before you enter the workforce.
 Because of that, I support exploring free Community College, and Student Loan Debt Relief.
-EQUALITY
-I strongly support protections against discrimination in employment, housing, credit, and jury service.
+EQUALITY I strongly support protections against discrimination in employment, housing, credit, and jury service.
 Regardless of your sexual orientation, gender identity, sex, and/or race, all people should be treated equally under the law.
 I am a proud ally of the LGBTQ+ community and believe love is love.
 Everyone should be afforded the same opportunities to thrive and live out their full potential.
-GUN SAFETY
-My time as a trained police officer showed me the importance of responsible gun ownership.
+GUN SAFETY My time as a trained police officer showed me the importance of responsible gun ownership.
 The key word is responsible.
 I believe in our right to responsibly own guns, and support training courses on appropriate use, safe handling, and safe storage that will save lives from being lost.
 Mental health treatment should also be accessible to stop preventable gun deaths.
+Search Search Contact me here: Phone: (267) 209-0443 Email: info@munroeforpa.com DONATE Make checks payable to: Friends of Brian Munroe.
+Mail checks to: Friends of Brian Munroe 414 Brandywine Ct.
+Warminster, PA 18974 Voter Registration The most important way to make a difference in your community is to vote in every election!
+Paid For By: Friends of Brian Munroe - Enfold WordPress Theme by Kriesi Twitter Facebook Scroll to top

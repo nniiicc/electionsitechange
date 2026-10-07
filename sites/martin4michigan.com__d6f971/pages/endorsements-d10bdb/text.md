@@ -1,19 +1,5 @@
-David’s 2026 ENDORSEMENTS
-I’m grateful for the support of these organizations and their members across the 68th District as I fight for you at the MI Capitol!
+0 Skip to Content Home About Issues Endorsements Events Get Involved Contact Donate Open Menu Close Menu Home About Issues Endorsements Events Get Involved Contact Donate Open Menu Close Menu Home About Issues Endorsements Events Get Involved Contact Donate David’s 2026 ENDORSEMENTS I’m grateful for the support of these organizations and their members across the 68th District as I fight for you at the MI Capitol!
 This list will continue to grow in the weeks to come!
-- Citizens for Traditional Values
-- County Road Association of Michigan
-- Detroit Regional Chamber of Commerce
-- Fraternal Order of Police - Michigan
-- Michigan Chamber of Commerce
-- Michigan Coalition for Responsible Gun Owners
-- MI Corngrowers Association
-- MI Farm Bureau AgriPAC
-- Michigan Freedom Fund
-- Michigan Manufactoring Association
-- Michigan Realtors
-- Michigan Restaurant and Lodging Association
-- National Federation of Independent Businesses
-- National Rifle Association - A+ Rating
-- Small Business Association of Michigan
-- Right to Life of Michigan PAC
+Citizens for Traditional Values County Road Association of Michigan The Detroit News Detroit Regional Chamber of Commerce Fraternal Order of Police - Michigan Friends of Housing PAC Michigan Doctor’s PAC Michigan Chamber of Commerce Michigan Coalition for Responsible Gun Owners MI Corngrowers Association MI Farm Bureau AgriPAC Michigan Freedom Fund Michigan Manufactoring Association Michigan Realtors Michigan Restaurant and Lodging Association National Federation of Independent Businesses National Rifle Association - A+ Rating Small Business Association of Michigan Right to Life of Michigan PAC Follow Dave on Facebook!
+Paid for by CTE David Martin State Rep.
+805 S State Road #122 Davison MI 48423

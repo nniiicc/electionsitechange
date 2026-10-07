@@ -1,7 +1,6 @@
-Ohio House · District 67
-Parent, neighbor, and proud member of this community.
+HEATHER SAMPLE About Issues Endorsements Get Involved Donate Donate ☰ Heather Sample Ohio House · District 67 Parent, neighbor, and proud member of this community.
 Running to fight for better schools, lower costs, and a stronger future for District 67.
-About Heather
+Join the fight for District 67 Count Me In → People ★ Not Profit ★ Not Corporate PACs About Heather A neighbor running for our community.
 Heather Sample was born in May 1978 and raised in Ashland, Ohio, with deep roots on King Road where her grandparents lived.
 She attended Ashland City Schools from kindergarten through her 1996 graduation from Ashland Senior High, and the community that shaped her then is the same one she fights for today.
 After returning to Ohio in 2016, Heather rebuilt her life in Mansfield and went to work alongside attorneys practicing civil litigation, domestic relations, family law, and criminal defense.
@@ -20,49 +19,28 @@ She served as Vice President of the Ashland County Democratic Women's Club, work
 In January 2024, she was sworn in as Chair of the Ashland County Democratic Party.
 Today, Heather is running for State Representative in Ohio's 67th District, covering Ashland and Medina.
 She is running because the families in her community deserve a representative who has lived their realities, listened to their struggles, and shown up for them long before asking for their vote.
-100%
-People Powered
-$0
-Corporate PACs
-67
-Ohio House District
-Where Heather Stands
+100% People Powered $0 Corporate PACs 67 Ohio House District Where Heather Stands Issues that matter to District 67.
 Heather is focused on the things working families talk about at the kitchen table.
 Real schools.
 Real costs.
 Real freedoms.
 No corporate noise in between.
-- Fully fund public schools so every student has the resources to succeed
-- Support high standards, quality curriculum, and teacher excellence
-- Promote student mental and physical health
-- Lower college costs through career-focused certificate programs
-- Protect intellectual freedom for students and faculty
-- Lower the cost of living for Ohio families
-- Build a stronger, fairer District 67 economy
-- Reject corporate PAC money and special-interest influence
-- Put the priorities of working people ahead of profit
-- Defend free speech and First Amendment protections
-- Reject political violence and intimidation in all forms
-- Hold the line against government overreach into expression
-- Protect the rights of every American, regardless of party
-- Stand with first responders, firefighters, and paramedics
-- Support the training and resources local emergency teams need
-- Strengthen Medina County and the broader district
-- Show up for the neighborhoods that make District 67 home
-Endorsements
+01 Education Fully fund public schools so every student has the resources to succeed Support high standards, quality curriculum, and teacher excellence Promote student mental and physical health Lower college costs through career-focused certificate programs Protect intellectual freedom for students and faculty 02 Working Families Lower the cost of living for Ohio families Build a stronger, fairer District 67 economy Reject corporate PAC money and special-interest influence Put the priorities of working people ahead of profit 03 Constitutional Rights Defend free speech and First Amendment protections Reject political violence and intimidation in all forms Hold the line against government overreach into expression Protect the rights of every American, regardless of party 04 Community & Public Safety Stand with first responders, firefighters, and paramedics Support the training and resources local emergency teams need Strengthen Medina County and the broader district Show up for the neighborhoods that make District 67 home Endorsements Backed by neighbors, not by PACs.
 Heather Sample represents the working families in Ohio House District 67.
 She is a vigorous advocate for the families in the District.
 She understands the struggles working families must endure.
-Northern Medina County Democrats · NMCD 303
-Power the Campaign
+Northern Medina County Democrats · NMCD 303 Power the Campaign Be part of our Founding Donors list.
 This campaign is powered by people, not profit, not corporate PACs.
 Every dollar comes from neighbors who believe District 67 deserves better.
-Donate via ActBlue
-Paid for by Friends of Heather Sample
-Get Involved
+Donate via ActBlue Paid for by Friends of Heather Sample Get Involved Join the team.
 The fastest way to win District 67 is by knocking doors, making calls, and talking to neighbors.
 Sign up below and we will be in touch with how to help.
 Want a yard sign?
 Want to host a meet-and-greet?
 Want to volunteer a few hours a week?
 Tell us how you want to plug in.
+Full Name Email Address ZIP Code How do you want to help?
+Yard sign Knock doors Make calls Host an event Donate Just keep me posted Sign Me Up Heather Sample Ohio House · District 67 A people-powered campaign for working families across District 67.
+The Campaign About Heather Issues Endorsements Donate Volunteer Connect Facebook Email Heather Press Inquiries Privacy Policy PAID FOR BY FRIENDS OF HEATHER SAMPLE.
+Not authorized by any candidate or candidate's committee other than the one named above. © # Friends of Heather Sample.
+All rights reserved.

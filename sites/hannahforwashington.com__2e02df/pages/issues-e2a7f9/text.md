@@ -1,25 +1,22 @@
-In Olympia, I will fight for:
-- Reducing rent and putting homeownership within reach by…
-- Ending apartment bans statewide and ensuring more housing can be built everywhere, especially near transit centers.
-- Cutting bureaucratic red tape that slows housing development, including lengthy permitting processes and outdated requirements that make housing outrageously expensive to build.
-- Investing in social housing developers at the local level, which are innovative models for more self-sustaining and publicly-funded affordable housing development.
-- Winning transformative safety net programs like universal childcare by…
-- Expanding our Paid Parental Leave program by providing at least full-time minimum-wage compensation to every new parent.
-- Building a universal pre-K program statewide and establishing a flexible home-care cash benefit for families seeking care for 2- and 3-year-olds.
-- Restoring enrollment in Washington’s Working Connections Childcare program, which provides access to affordable childcare for tens of thousands of low-income families.
-- Preventing school closures, improving student outcomes, and investing in our youth by...
-- Reducing barriers and requirements to approve bonds for local school districts that support new facilities and repair aging, dilapidated classrooms.
-- Undoing recently passed tax cuts for ultra-wealthy people that reduce funding for the education legacy trust fund, which includes critical resources for K-12 education, childcare, class size reductions, and support for teachers.
-- Increasing pay, workplace standards, and safety for paraeducators and teachers that provide high-quality care for our kids but currently receive sub-living wages.
-- Protecting immigrant and trans communities’ right to safety, opportunity, and freedom by…
-- Regulating and restricting the use of AI and surveillance by law enforcement, including the expansion of data centers that drive up utility costs and impact our environment.
-- Protecting our sensitive data from access by immigration enforcement and stripping incentives from companies that contract with ICE.
-- Banning state and local law enforcement from hiring former ICE officers.
-- Taxing the ultra-wealthy corporations in our state to right our broken tax code and invest in the services we need by…
-- Establishing the Well Washington Fund, a tax on massive corporations to support healthcare access, higher education, and so much more.
-- Fighting for a corporate income tax on mega corporations.
-- Ending tax loopholes for corporations and undoing recently-passed tax cuts for the ultra-wealthy.
-- Ensuring everyone in our community feels safe by...
-- Funding the new caseload standards for public defenders mandated by the Washington Supreme Court, which both protect people’s civil rights and, if left unaddressed, will lead to cases being dismissed and potentially dangerous individuals on our streets.
-- Investing in community-based programs that mentor youth, provide alternatives to incarceration, and are proven to reduce gun violence in our neighborhoods.
-- Establishing programs that send social workers and mental health professionals to non-violent emergency calls.
+Skip to main content Skip to footer Don't wait!
+Register to vote today 🔗↗ Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Issues About Me Endorsements Endorsements Open Letter Events Press In The Media Press Releases Donate In Olympia, I will fight for: Reducing rent and putting homeownership within reach by… Ending apartment bans statewide and ensuring more housing can be built everywhere, especially near transit centers.
+Cutting bureaucratic red tape that slows housing development, including lengthy permitting processes and outdated requirements that make housing outrageously expensive to build.
+Investing in social housing developers at the local level, which are innovative models for more self-sustaining and publicly-funded affordable housing development.
+Winning transformative safety net programs like universal childcare by… Expanding our Paid Parental Leave program by providing at least full-time minimum-wage compensation to every new parent.
+Building a universal pre-K program statewide and establishing a flexible home-care cash benefit for families seeking care for 2- and 3-year-olds.
+Restoring enrollment in Washington’s Working Connections Childcare program, which provides access to affordable childcare for tens of thousands of low-income families.
+Preventing school closures, improving student outcomes, and investing in our youth by...
+Reducing barriers and requirements to approve bonds for local school districts that support new facilities and repair aging, dilapidated classrooms.
+Undoing recently passed tax cuts for ultra-wealthy people that reduce funding for the education legacy trust fund, which includes critical resources for K-12 education, childcare, class size reductions, and support for teachers.
+Increasing pay, workplace standards, and safety for paraeducators and teachers that provide high-quality care for our kids but currently receive sub-living wages.
+Protecting immigrant and trans communities’ right to safety, opportunity, and freedom by… Regulating and restricting the use of AI and surveillance by law enforcement, including the expansion of data centers that drive up utility costs and impact our environment.
+Protecting our sensitive data from access by immigration enforcement and stripping incentives from companies that contract with ICE.
+Banning state and local law enforcement from hiring former ICE officers.
+Taxing the ultra-wealthy corporations in our state to right our broken tax code and invest in the services we need by… Establishing the Well Washington Fund, a tax on massive corporations to support healthcare access, higher education, and so much more.
+Fighting for a corporate income tax on mega corporations.
+Ending tax loopholes for corporations and undoing recently-passed tax cuts for the ultra-wealthy.
+Ensuring everyone in our community feels safe by...
+Funding the new caseload standards for public defenders mandated by the Washington Supreme Court, which both protect people’s civil rights and, if left unaddressed, will lead to cases being dismissed and potentially dangerous individuals on our streets.
+Investing in community-based programs that mentor youth, provide alternatives to incarceration, and are proven to reduce gun violence in our neighborhoods.
+Establishing programs that send social workers and mental health professionals to non-violent emergency calls.
+Facebook Bluesky Instagram TikTok YouTube [email protected] | (360) 602-2794 | Privacy Policy | Press Kit Paid for by Hannah for Washington (D) PO Box 20655, Seattle, WA 98102 © # Hannah Sabio-Howell for State Senate | Washington's 43rd Legislative District

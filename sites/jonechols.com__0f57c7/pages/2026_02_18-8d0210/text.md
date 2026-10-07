@@ -1,4 +1,3 @@
-POLL ALERT: Echols leads 35-20 in AG’s Race
-We are thrilled to see the results of a public poll conducted by SoonerSurvey are posted, and Jon Echols has a commanding lead in the race for Oklahoma Attorney General.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Day February 18, 2026 Uncategorized POLL ALERT: Echols leads 35-20 in AG’s Race We are thrilled to see the results of a public poll conducted by SoonerSurvey are posted, and Jon Echols has a commanding lead in the race for Oklahoma Attorney General.
 You can view those results HERE.
-The poll was not commissioned…
+The poll was not commissioned… campaign2026 February 18, 2026 Terms – Privacy – Opt-in Authorized and Paid for by Echols for Attorney General 2026

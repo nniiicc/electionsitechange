@@ -1,8 +1,1 @@
-Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy
-Previous
-Previous
-June 11
-World Cup Watch Party with Joseph McClusky
-Next
-Next
-June 13
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky in Holland Heights Saturday, June 13, 2026 11:00 AM 1:00 PM Holland Heights Park 870 East 10th Street Holland, Michigan, 49423 United States (map) Google Calendar ICS Previous Previous June 11 World Cup Watch Party with Joseph McClusky Next Next June 13 Summer Meet and Greet Picnic with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

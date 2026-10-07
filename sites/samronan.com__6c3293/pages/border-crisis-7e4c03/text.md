@@ -1,65 +1,36 @@
-BORDER CRISIS
-01
-Dramatically Improved Processing Limits
-- Dramatically increase personnel, resources, and infrastructure to contend with influx of migrants coming to the nation whether at the border or from overseas.
-- These increases shall become permanent if need be
-- Facilities, that are cable of housing, feeding, caring for, and otherwise allowing for people to live safely, and cleanly shall be erected across the border.
-- Migrants in these Migration centers shall have unaccompanied access to the facilities on location, to include: groceries, incidentals, and any entertainment that would be in place
-- Personnel manning these facilities shall be included in the surge of personnel.
-- The number of intake centers at the border will increase as needed, if these new improvements are over populated.
+top of page Log In BORDER CRISIS 01 Dramatically Improved Processing Limits Dramatically increase personnel, resources, and infrastructure to contend with influx of migrants coming to the nation whether at the border or from overseas.
+These increases shall become permanent if need be Facilities, that are cable of housing, feeding, caring for, and otherwise allowing for people to live safely, and cleanly shall be erected across the border.
+Migrants in these Migration centers shall have unaccompanied access to the facilities on location, to include: groceries, incidentals, and any entertainment that would be in place Personnel manning these facilities shall be included in the surge of personnel.
+The number of intake centers at the border will increase as needed, if these new improvements are over populated.
 This can take the form of expanding the facilities, establishing more across the border, or establishing more further inland, if required.
-02
-Grace Period for "Illegal Crossings"
-- There shall be a 12-month grace period from the time of Inauguration, to spread the word amongst the various nations, and interested migrants to the United States of America under my Administration, that there is no longer a need to “illegally cross the border”.
-- Those who do not follow the established regulations within that 12-month period, shall be given grace and the opportunity to perform the process as prescribed in this Immigration Reform process, up to and including accommodations.
-- After the 12-month Grace Period has passed, all “illegal crossings” shall be treated in a case-by-case basis, whereby criminal elements will continue to be sent to American Prisons, after a fair trial, and civilians simply fleeing shall be given succor.
-03
-Immigration to Citizenship Process
-- All persons admitted to the United States shall be afforded a 12 month VISA for residency, and become eligible for citizenship upon it’s expiration
-- All persons admitted to the United States who choose to enter the United States Armed Forces, whether at the border, point of entry, or during their 12-month VISA, shall be granted citizenship upon successfully swearing into the armed forces.
-Citizenship shall not be revoked under any circumstances, including dishonorable discharge, or criminal conduct
-- Citizenship shall cost the lesser of: $2,000 in taxes paid through federal income taxes, state income taxes, and/or combination of local taxes, or $200 application fee.
+02 Grace Period for "Illegal Crossings" There shall be a 12-month grace period from the time of Inauguration, to spread the word amongst the various nations, and interested migrants to the United States of America under my Administration, that there is no longer a need to “illegally cross the border”.
+Those who do not follow the established regulations within that 12-month period, shall be given grace and the opportunity to perform the process as prescribed in this Immigration Reform process, up to and including accommodations.
+After the 12-month Grace Period has passed, all “illegal crossings” shall be treated in a case-by-case basis, whereby criminal elements will continue to be sent to American Prisons, after a fair trial, and civilians simply fleeing shall be given succor.
+03 Immigration to Citizenship Process All persons admitted to the United States shall be afforded a 12 month VISA for residency, and become eligible for citizenship upon it’s expiration All persons admitted to the United States who choose to enter the United States Armed Forces, whether at the border, point of entry, or during their 12-month VISA, shall be granted citizenship upon successfully swearing into the armed forces.
+Citizenship shall not be revoked under any circumstances, including dishonorable discharge, or criminal conduct Citizenship shall cost the lesser of: $2,000 in taxes paid through federal income taxes, state income taxes, and/or combination of local taxes, or $200 application fee.
 For those still unable to afford the fee, there will be support systems in place.
-- All citizenship granted from the $5,000,000 golden VISA shall be revoked outright, and persons shall be given 30 days’ notice to apply for a green card, or other applicable VISA or be summarily deported from the United States.
-04
-Streamlined Background Checks
-- Background checks shall utilize existing international systems, including those from country of origin, shall be completed within 24 hours of arrival at an immigration checkpoint.
-- Those who attempt to cross the border illegally, or due to not being aware of these new processes, shall be afforded grace and directed to the intake centers whereupon their information, background checks, shall be conducted.
-- If criminals are found to have crossed the border, whether lawfully or unlawfully, they shall be charged in the United States Criminal Courts system, and NOT be returned to the country of origin other than through diplomatic agreements with nation states.
-- The intention is to deter criminals from crossing the border knowing thye have a 50/50 chance of succeeding or being able to try again.
-05
-Work History Checks and Employment Contracts
-- In addition to the background checks, it will be highly encouraged for migrants to have with them work history, and any locally (country of origin) certification, licensing, etc. records to help facilitate in processing with the America Works Program.
-- Given that most migrants at the border, or especially undocumented migrants are unlikely to have work contracts, these individuals may similarly present their work history
-- Any person at a port of entry may show Employment contracts, which shall have already included a background check, to expedite their in processing to the country.
-06
-America Works Program Integration
-- Allocate a portion of the jobs under the America Works program for immigrants admitted under this immigration policy.
-- Immigrants admitted under this program may account for 5% of the allocated jobs, providing them with employment opportunities while contributing to the overall workforce, or more if Citizens have sufficiently filled their allocations.
-- Persons admitted to the United States, that have also met established requirements for entry to the America Works Program, shall be provided a 12 month workers VISA, that cannot be revoked other than for appropriate misconduct resulting in prison time
-07
-Assistance from CONUS Forces
-- Deploy CONUS States (Continental United States) forces to support the processing, housing, and transportation of immigrants, especially in the beginning stages of this reform process
-- Utilize CONUS States forces to oversee the construction of local facilities required for housing and processing centers, to help accelerate their development
-- CONUS States forces may become permanent oversight personnel at the border facilities, to ensure safety, compliance, to redress conflicts.
-- CONUS States forces shall continue to be subject to the UCMJ, Genevea Conventions, Federal, State, and Local laws.
-08
-Accounting for Current Issues
-- Address the issue of children being taken from families and put into the foster care system by implementing strict guidelines that prioritize family unity and child welfare.
-- Elimination of for-profit detention centers, and eminent domain of existing compounds with the intention of modernizing and improving the location for humane reception, housing, and treatment of migrants
-- Implement comprehensive reforms and training programs for ICE and Border Patrol agents to address issues of misconduct and improve professionalism.
-- Institute heavy penalties for violation of federal, and international laws including human rights violations
-- Hold vigilantes accountable for violating federal laws and the human rights of migrants, collaborating with local, state, and federal law enforcement agencies to investigate and prosecute such offenses.
-09
-Transparency and Oversight
-- In accordance with other federal reform policies that shall become the hallmark of this Administration, the immigration and border management policies shall be similarly subject to Transparency and Oversight commissions.
-- These commissions shall make publicly available the following information: Migration numbers, “Illegal Crossings”, facilities available at each border checkpoint, or point of entry, personnel numbers at each checkpoint, military personnel at each check point, cost of support broken down by: construction, utilities, generalized personnel costs, materials, transportation, misc.
-- The oversight committee shall be comprised of Federal Officials, who have undergone extensive training, security clearances, and above all, ethical training to ensure the least chance of corruption or abuse of position possible.
+All citizenship granted from the $5,000,000 golden VISA shall be revoked outright, and persons shall be given 30 days’ notice to apply for a green card, or other applicable VISA or be summarily deported from the United States.
+04 Streamlined Background Checks Background checks shall utilize existing international systems, including those from country of origin, shall be completed within 24 hours of arrival at an immigration checkpoint.
+Those who attempt to cross the border illegally, or due to not being aware of these new processes, shall be afforded grace and directed to the intake centers whereupon their information, background checks, shall be conducted.
+If criminals are found to have crossed the border, whether lawfully or unlawfully, they shall be charged in the United States Criminal Courts system, and NOT be returned to the country of origin other than through diplomatic agreements with nation states.
+The intention is to deter criminals from crossing the border knowing thye have a 50/50 chance of succeeding or being able to try again.
+05 Work History Checks and Employment Contracts In addition to the background checks, it will be highly encouraged for migrants to have with them work history, and any locally (country of origin) certification, licensing, etc. records to help facilitate in processing with the America Works Program.
+Given that most migrants at the border, or especially undocumented migrants are unlikely to have work contracts, these individuals may similarly present their work history Any person at a port of entry may show Employment contracts, which shall have already included a background check, to expedite their in processing to the country.
+06 America Works Program Integration Allocate a portion of the jobs under the America Works program for immigrants admitted under this immigration policy.
+Immigrants admitted under this program may account for 5% of the allocated jobs, providing them with employment opportunities while contributing to the overall workforce, or more if Citizens have sufficiently filled their allocations.
+Persons admitted to the United States, that have also met established requirements for entry to the America Works Program, shall be provided a 12 month workers VISA, that cannot be revoked other than for appropriate misconduct resulting in prison time 07 Assistance from CONUS Forces Deploy CONUS States (Continental United States) forces to support the processing, housing, and transportation of immigrants, especially in the beginning stages of this reform process Utilize CONUS States forces to oversee the construction of local facilities required for housing and processing centers, to help accelerate their development CONUS States forces may become permanent oversight personnel at the border facilities, to ensure safety, compliance, to redress conflicts.
+CONUS States forces shall continue to be subject to the UCMJ, Genevea Conventions, Federal, State, and Local laws.
+08 Accounting for Current Issues Address the issue of children being taken from families and put into the foster care system by implementing strict guidelines that prioritize family unity and child welfare.
+Elimination of for-profit detention centers, and eminent domain of existing compounds with the intention of modernizing and improving the location for humane reception, housing, and treatment of migrants Implement comprehensive reforms and training programs for ICE and Border Patrol agents to address issues of misconduct and improve professionalism.
+Institute heavy penalties for violation of federal, and international laws including human rights violations Hold vigilantes accountable for violating federal laws and the human rights of migrants, collaborating with local, state, and federal law enforcement agencies to investigate and prosecute such offenses.
+09 Transparency and Oversight In accordance with other federal reform policies that shall become the hallmark of this Administration, the immigration and border management policies shall be similarly subject to Transparency and Oversight commissions.
+These commissions shall make publicly available the following information: Migration numbers, “Illegal Crossings”, facilities available at each border checkpoint, or point of entry, personnel numbers at each checkpoint, military personnel at each check point, cost of support broken down by: construction, utilities, generalized personnel costs, materials, transportation, misc.
+The oversight committee shall be comprised of Federal Officials, who have undergone extensive training, security clearances, and above all, ethical training to ensure the least chance of corruption or abuse of position possible.
 Citizens shall have access to all committee meetings, notes, and happenings.
-- All information from the Oversight Committee and the Transparency information shall be made publicly accessible online, and shall be maintained in perpetuity whereby deleting information, omission of information, or otherwise tampering with the information shall incur charges of Treason against the State with punishments up to and including Death.
-10
-Public Education and Outreach
-- As part of this immigration reform initiative, ensure national, and international materials, tools, and other associated processes are created, distributed, and widely accessible as part of the education and outreach program for this new policy
-- Partner with appropriate community organizations and advocacy groups to ensure that migrants are well aware of their rights, the processes established, and access to legal resources
-- Partner with reputable NGO’s that are familiar with migrant support, care, processing, and housing to facilitate more streamlined immigration to the United States
-- Ensure that all partners have access to all facilities, processing centers, and in the unfortunate even migrants end up in prisons for criminal conduct, access to them as well to provide necessary services, up to and including: legal assistance, medical care, and psychosocial support
+All information from the Oversight Committee and the Transparency information shall be made publicly accessible online, and shall be maintained in perpetuity whereby deleting information, omission of information, or otherwise tampering with the information shall incur charges of Treason against the State with punishments up to and including Death.
+10 Public Education and Outreach As part of this immigration reform initiative, ensure national, and international materials, tools, and other associated processes are created, distributed, and widely accessible as part of the education and outreach program for this new policy Partner with appropriate community organizations and advocacy groups to ensure that migrants are well aware of their rights, the processes established, and access to legal resources Partner with reputable NGO’s that are familiar with migrant support, care, processing, and housing to facilitate more streamlined immigration to the United States Ensure that all partners have access to all facilities, processing centers, and in the unfortunate even migrants end up in prisons for criminal conduct, access to them as well to provide necessary services, up to and including: legal assistance, medical care, and psychosocial support “Patriotism is not short, frenzied outbursts of emotion, but the tranquil and steady dedication of a lifetime. — Adlai Stevenson STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

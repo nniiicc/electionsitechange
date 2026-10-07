@@ -1,7 +1,11 @@
-Contribute
-Contribution rules
-- This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
-- I am at least eighteen years old.
-- I am not a federal contractor.
-- I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
-- I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+Meet Shayne Issues Volunteer Contribute Home Yard Signs Endorsements Contribute Contribution rules This contribution is made from my own funds, and funds are not being provided to me by another person or entity for the purpose of making this contribution.
+I am at least eighteen years old.
+I am not a federal contractor.
+I am making this contribution with my own personal credit card and not with a corporate or business credit card or a card issued to another person.
+I am a U.S. citizen or lawfully admitted permanent resident (i.e., green card holder).
+Any amount helps to bring an Independent voice for Montana House District 76.
+For an individual, the maximum you can give is $940 for the primary and general election.
+The maximum a couple can give for both the primary and general election is $1,880.
+Also you can mail a check to Morgan For Montana to: 225 Kohrs St, Deer Lodge, Montana 59722 Complete your $ 0 contribution: Select Your Information Choose an amount: $5 $10 $15 $20 $25 $50 $100 $250 $470.00 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Street Address * City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation * Employer * I would like to make a financial contribution Please add me to your list of supporters I would like a yard sign I would like to volunteer I would like to canvass Get updates and news via email Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Voter Information Endorsements Yard Signs Contact Paid for by Morgan for Montana House District 76 Powered by CampaignPartner.com - Political Websites Home Meet Shayne Issues Endorsements Contribute Volunteer Yard Signs Contact Voter Information Close Menu

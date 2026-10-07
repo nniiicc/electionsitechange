@@ -1,10 +1,9 @@
-Education
-I believe that having a great public education system should be a high priority for all of us.
-Here are a few things I believe the legislature can do to make the school system better:
-- We should encourage a system where parents know what is being taught to their children and have good alternatives available so they can determine what works best for their own family.
-- We should protect our teachers.
+0 Skip to Content Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Updates/ Events Upcoming Events March 2, 2024 Newsletter Issues Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Open Menu Close Menu Home About Folder: Updates/ Events Back Upcoming Events March 2, 2024 Newsletter Folder: Issues Back Pro-Life Pro-Mom Pro-Child Cutting Taxes Conserving Water For Great Salt Lake Supporting Students, Parents, and Teachers in K-12 Education Housing Affordability Supporting the Disabled Community Service Videos Endorsements Volunteer Contact Donate Education I believe that having a great public education system should be a high priority for all of us.
+Here are a few things I believe the legislature can do to make the school system better: We should encourage a system where parents know what is being taught to their children and have good alternatives available so they can determine what works best for their own family.
+We should protect our teachers.
 We need to make sure that teachers have the same workplace protections as any other workplace.
 No teacher should be asked to continue in a setting where they are at risk of physcial harm or harassment.
 The legislature should not pass laws that add to the administrative burden that teachers have to bear.
-- I have worked to visit with teachers to hear what is going well and what is difficult for them.
+I have worked to visit with teachers to hear what is going well and what is difficult for them.
 Listening to administrators is also important, but the best information of how we are doing comes from those who are living through it.
+RAY WARD HAS A PROVEN TRACK RECORD OF: Conserving Water for Great Salt Lake Supporting the Disabled Supporting Students, Parents, and Teachers in K-12 Education Pro-life Pro-mom Pro-Child Community Service Cutting Taxes Housing Affordability Let’s Stay Connected

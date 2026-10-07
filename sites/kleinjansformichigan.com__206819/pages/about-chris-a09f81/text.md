@@ -1,4 +1,4 @@
-From the age of 18 to today, my life’s work has centered on building and strengthening the community around me.
+Skip to content About Chris Issues Endorsements News Events Contact District Map Donate Volunteer About Chris From the age of 18 to today, my life’s work has centered on building and strengthening the community around me.
 My time in the military shaped that commitment in lasting ways.
 Service–especially during conflict–teaches you quickly that going it alone invites failure.
 Trusting the people beside you is what carries you through when things get hard.
@@ -24,13 +24,4 @@ If we want to create lasting, meaningful change for the people who call this reg
 Throughout my career, my focus remained the same: making sure people have the tools and opportunities they need to define and achieve their own success.
 Whether that means owning a home, sending a child to college, gaining new skills, or starting a business, everyone deserves a fair path forward.
 My campaign for State Senate is an extension of that work: continuing to build pathways, expand opportunities, and move our community forward, together.
-Support Chris Kleinjans for Michigan Senate District 31
-- Developed, from concept to launch, the Van Raalte Farm Civil War Muster
-- Member-Board of Directors-Oasis Community of West Michigan
-- Member-Comprehensive Economic Development Strategy Committee of the West Michigan Regional Planning Commission
-- Member Allegan County Brownfield Redevelopment Authority
-- Ottawa County Community Emergency Response Team (CERT)
-- Former Ottawa County Commissioner representing the 2nd District
-- Former Member of the board of Community Mental Health of Ottawa County (CMHOC)
-- Former Member of the Advisory Board of Ottawa Food
-- Member of the American Legion and VFW
+Support Chris Kleinjans for Michigan Senate District 31 Developed, from concept to launch, the Van Raalte Farm Civil War Muster Member-Board of Directors-Oasis Community of West Michigan Member-Comprehensive Economic Development Strategy Committee of the West Michigan Regional Planning Commission Member Allegan County Brownfield Redevelopment Authority Ottawa County Community Emergency Response Team (CERT) Former Ottawa County Commissioner representing the 2nd District Former Member of the board of Community Mental Health of Ottawa County (CMHOC) Former Member of the Advisory Board of Ottawa Food Member of the American Legion and VFW Chris Kleinjans for Michigan Senate District 31 Donate to the Campaign Volunteer for the Campaign Designed with WordPress – Web Hosting by GreenGeeks Paid for by the CTE Chris Kleinjans, PO Box 1166, Holland MI 49422

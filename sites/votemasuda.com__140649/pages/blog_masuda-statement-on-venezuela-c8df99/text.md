@@ -1,5 +1,4 @@
-Venezuela
-I strongly condemn the aggressive and unilateral actions taken by the Trump administration concerning Venezuela, which have dangerously escalated regional tensions.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Venezuela Dec 19 Written By Leah Waters I strongly condemn the aggressive and unilateral actions taken by the Trump administration concerning Venezuela, which have dangerously escalated regional tensions.
 These actions could entrench the United States in a conflict at great cost to Americans in the military, their families, and American taxpayers.
 Congress should take steps to stop these actions immediately.
 Extrajudicial Military Strikes on Vessels: I condemn, in the strongest possible terms, the use of military force to conduct drone strikes on vessels in the Caribbean and Eastern Pacific.
@@ -27,3 +26,4 @@ American strength comes through our international partnerships and our ability t
 Wars are declared by Congress who are representatives of the people, and the Trump Administration's actions must be justified to Congress and the American people.
 Once again, the Trump administration's policy demonstrates dangerous disregard for America’s military service members, our national security, taxpayers, and the Constitution.
 I urge an immediate halt to all illegal military strikes, deescalation of military force, removal of the U.S. blockade full disclosure of costs and evidence, comprehensive review of sanctions to prevent humanitarian harm, and renewed commitment to multilateral diplomatic efforts that respect both international law and Venezuelan sovereignty.
+Leah Waters Previous Previous Visiting the Miwuk Cultural Center Next Next CA5 Town Hall Tour Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

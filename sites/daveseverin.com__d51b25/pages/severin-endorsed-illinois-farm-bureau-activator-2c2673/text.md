@@ -1,15 +1,1 @@
-Skip to content
-State Representative Dave Severin
-Paid for by Friends of Dave Severin
-Menu
-Meet Dave
-Photos
-News
-Volunteer
-Facebook
-Donate
-SEVERIN ENDORSED BY ILLINOIS FARM BUREAU ACTIVATOR
-Post navigation
-Next
-Next post:
-Franklin County Sheriff Kyle Bacon Endorses Dave Severin
+Skip to content State Representative Dave Severin Paid for by Friends of Dave Severin Menu Meet Dave Photos News Volunteer Facebook Donate SEVERIN ENDORSED BY ILLINOIS FARM BUREAU ACTIVATOR Author Matt Eddy Posted on January 31, 2024 Post navigation Next Next post: Franklin County Sheriff Kyle Bacon Endorses Dave Severin Meet Dave Photos News Volunteer Facebook Donate State Representative Dave Severin Proudly powered by WordPress

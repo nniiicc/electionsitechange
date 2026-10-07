@@ -1,52 +1,20 @@
-ABOUT
-LARRY JOHNSON
-A Proven Leader Delivering Results You Can See
-Commission Leadership Roles
-- Served as Chairman of the Economic Development/Planning Committee
-- Former Chair of the Board of Education/Board of Commissioners Intergovernmental Committee
-- Former Chair of the Budget Review Committee
-- Former Chair of the Economic Development/Planning Committee
-- Former Chair of the Economic Development Committee
-- Former Chair of the MARTA Partnership Committee
-- Former Chair of the Health Disparities Subcommittee of the Health Steering Committee for the National Association of Counties (NACo)
-- Former Vice Chair of the NACo Health Steering Committee
-- Elected to the Association of County Commissioners of Georgia (ACCG)’s Board of Managers as a representative for NACo in 2020
-- Past President of the National Association of Counties
-Public Health Care Achievements
-Because of his background and efforts in the field of public health, The Honorable Larry Johnson was appointed in 2005 to chair the Health Disparities Subcommittee of the Health Steering Committee for NACo, the National Association of Counties.
+top of page Home Endorsements About GAInsuranceBillOfRights Results You Can See Photo Gallery Events News More Use tab to navigate through the menu items.
+DONATE ABOUT LARRY JOHNSON A Proven Leader Delivering Results You Can See Commission Leadership Roles Served as Chairman of the Economic Development/Planning Committee Former Chair of the Board of Education/Board of Commissioners Intergovernmental Committee Former Chair of the Budget Review Committee Former Chair of the Economic Development/Planning Committee Former Chair of the Economic Development Committee Former Chair of the MARTA Partnership Committee Former Chair of the Health Disparities Subcommittee of the Health Steering Committee for the National Association of Counties (NACo) Former Vice Chair of the NACo Health Steering Committee Elected to the Association of County Commissioners of Georgia (ACCG)’s Board of Managers as a representative for NACo in 2020 Past President of the National Association of Counties Public Health Care Achievements Because of his background and efforts in the field of public health, The Honorable Larry Johnson was appointed in 2005 to chair the Health Disparities Subcommittee of the Health Steering Committee for NACo, the National Association of Counties.
 In 2008, he was appointed as Vice Chair of the NACo Health Steering Committee.
-The Health Steering Committee has jurisdiction, on a national policy level, over all matters pertaining to health care delivery and financing including: indigent care health, care for the uninsured, Medicaid, Medicare, long-term care, local public health programs, mental health, substance abuse and development disabilities.
-As DeKalb County Commissioner, Johnson started “DeKalb Walks...
+The Health Steering Committee has jurisdiction, on a national policy level, over all matters pertaining to health care delivery and financing including: indigent care health, care for the uninsured, Medicaid, Medicare, long-term care, local public health programs, mental health, substance abuse and development disabilities. ​ As DeKalb County Commissioner, Johnson started “DeKalb Walks...
 For the Health of It”, an initiative designed to motivate DeKalb residents to improve their health by walking for exercise.
 Under this initiative, he designated walking as the official exercise of DeKalb — the only locality in Georgia or the U.S. to do so.
 Through the National Association of Counties (NACo), Commissioner Johnson implemented the Prescription Discount Drug Card program in DeKalb County.
-Participants in the program save up to 20% off of their prescription drug costs not covered by any other insurance.
-Larry Johnson is the former VP of Community Engagement for the Association of Black Cardiologists, and former manager of the Fulton County Department of Health & Wellness, where he managed the REACH Program — Racial and Ethnic Approaches to Community Health — a federal initiative that included the goal of eliminating racial and ethnic disparities in health.
+Participants in the program save up to 20% off of their prescription drug costs not covered by any other insurance. ​ Larry Johnson is the former VP of Community Engagement for the Association of Black Cardiologists, and former manager of the Fulton County Department of Health & Wellness, where he managed the REACH Program — Racial and Ethnic Approaches to Community Health — a federal initiative that included the goal of eliminating racial and ethnic disparities in health.
 Johnson earned a bachelor’s degree in community health, a master’s degree in public health and also received an honorary doctorate in Humane Letters.
-Delivering Results Locally,
-Building Collaborations &
-Partnerships Nationally
-DeKalb County Commissioner Larry Johnson was elected to the 2020-2021 Association County Commissioners of Georgia (ACCG or Georgia’s County Association) Board of Managers as a representative for the National Association of Counties (NACo).
-Johnson, the current Immediate Past President of NACo, which currently oversees 3,069 counties, 3.5 Million employees and 300 Million constituents will now serve as a liaison between the state and national county associations.
-“The ACCG Board of Managers represents the collective strength of Georgia’s local communities,” said Executive Director Dave Wills.
+Delivering Results Locally, Building Collaborations & Partnerships Nationally DeKalb County Commissioner Larry Johnson was elected to the 2020-2021 Association County Commissioners of Georgia (ACCG or Georgia’s County Association) Board of Managers as a representative for the National Association of Counties (NACo).
+Johnson, the current Immediate Past President of NACo, which currently oversees 3,069 counties, 3.5 Million employees and 300 Million constituents will now serve as a liaison between the state and national county associations. ​ “The ACCG Board of Managers represents the collective strength of Georgia’s local communities,” said Executive Director Dave Wills.
 “Now, more than ever, we have witnessed the significance of leadership at the local level.
-I congratulate and look forward to working with our newly installed Board of Managers as we continue our efforts to serve all 159 counties throughout the state.”
-“I consider it an honor to serve in this capacity.
+I congratulate and look forward to working with our newly installed Board of Managers as we continue our efforts to serve all 159 counties throughout the state.” ​ “I consider it an honor to serve in this capacity.
 Being appointed to serve in roles at the local, state and national levels within government allows me to be the voice for the people, provide continuity and drive change.
-I thank everyone who has entrusted me with this responsibility,” Commissioner Larry Johnson.
-The Association County Commissioners of Georgia (ACCG) is Georgia’s county association and works on behalf of county officials and their communities by providing public policy and legislative advocacy, leadership development, civic and community engagement initiatives, insurance and retirement programs that specialize in local government needs and other cost-saving programs.
+I thank everyone who has entrusted me with this responsibility,” Commissioner Larry Johnson. ​ The Association County Commissioners of Georgia (ACCG) is Georgia’s county association and works on behalf of county officials and their communities by providing public policy and legislative advocacy, leadership development, civic and community engagement initiatives, insurance and retirement programs that specialize in local government needs and other cost-saving programs.
 Formed in 1914 when county officials came together to help fund the state’s first highway department, ACCG today serves as a catalyst for advancing Georgia’s counties.
 For more information, go to www.accg.org.
-Results You Can See
-Plus...
-- Partnered with ANDP to invest $20M in South DeKalb to combat foreclosures
-- Led charge to rehabilitate and repair Cedar Grove Rd.
-Bridge ($4.1M)
-- Helped sponsor more than 300 jobs for youth
-- Voted to increase hiring salaries for certified police officers, saving county funds and placing experienced officers in the field quickly
-- Voted to allow the police department to fill a total of 100 police officer positions above current staffing levels ($4.1M)
-- Appropriated $1.4M in CARES funding to community-based organizations to assist those impacted by COVID-19
-- Approved funding to build/renovate public safety facilities
-- Partnered with Truist Bank to assist small and diverse businesses
-- Partnered with community/faith-based organizations to help prevent 11 families from eviction
-- Partnered with Oakhurst Medical Center to bring COVID-19 testing to South DeKalb
+Results You Can See $6.1M for the Michelle Obama Trail Expansion $25M to build 170 senior housing units near South DeKalb Senior Center $8M Intergenerational Center at Exchange Park $100M SPLOST funds for infrastructure Plus...
+Partnered with ANDP to invest $20M in South DeKalb to combat foreclosures Led charge to rehabilitate and repair Cedar Grove Rd.
+Bridge ($4.1M) Helped sponsor more than 300 jobs for youth Voted to increase hiring salaries for certified police officers, saving county funds and placing experienced officers in the field quickly Voted to allow the police department to fill a total of 100 police officer positions above current staffing levels ($4.1M) Appropriated $1.4M in CARES funding to community-based organizations to assist those impacted by COVID-19 Approved funding to build/renovate public safety facilities Partnered with Truist Bank to assist small and diverse businesses Partnered with community/faith-based organizations to help prevent 11 families from eviction Partnered with Oakhurst Medical Center to bring COVID-19 testing to South DeKalb LARRY JOHNSON FOR SENATE PO Box 362054 Decatur, GA 30036 ​ bottom of page

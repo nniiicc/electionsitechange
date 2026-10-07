@@ -1,7 +1,5 @@
-top of page
-Invite Christine to Your Event
-One of the most important parts of this campaign is listening to the people of the 72nd Assembly District.
-Every community has its own stories, challenges, and ideas, and I believe the best way to represent our district is by meeting people where they are.
-Whether you're hosting a civic meeting, community event, business gathering, school program, festival, parade, or neighborhood event, I would be honored to attend whenever my schedule allows.
+top of page Meet Christine Priorities Events Get Involved Connect Donate Invite Christine to Your Event One of the most important parts of this campaign is listening to the people of the 72nd Assembly District.
+Every community has its own stories, challenges, and ideas, and I believe the best way to represent our district is by meeting people where they are. ​ Whether you're hosting a civic meeting, community event, business gathering, school program, festival, parade, or neighborhood event, I would be honored to attend whenever my schedule allows.
 I look forward to meeting you and learning more about your community.
-bottom of page
+Contact information First name * Last name * Organization Email * Phone * Event Name * Date picker * Event Time * Time : Hours Minutes AM Event Location * Estimated Attendance * Type of Event Additional information Please include anything that would help us better understand your event.
+Send Invitation Privacy Policy Paid for by Christine Maltese for Wisconsin Assembly PO Box 301, Wisconsin Rapids, WI 54495 © # Friends of Christine Maltese bottom of page

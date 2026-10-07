@@ -1,4 +1,6 @@
-Serving my country is all I ever really wanted to do.
+Thanks for your interest in our AMERICA FIRST movement.
+Will you please take a moment to join our team?
+Donate Now Email Updates Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities America First Fighting For Clean Water Drain The Swamp Making Healthcare More Affordable Improving Care for Veterans Ensuring Care for Seniors Tax Cuts And Jobs Defending Life Protecting The Second Amendment Safer And Stronger Communities Supporting our Ally Israel Shop Donate Meet Brian Take Action Blog Priorities Shop Donate Meet Brian Serving my country is all I ever really wanted to do.
 It runs in my blood from my father to my uncles.
 My wife Brianna and I pray that one day our children will find the same passion.
 My parents, James Mast & Timoxena Trujillo, always instilled in me a strong work ethic and a deeply rooted patriotism.
@@ -31,3 +33,11 @@ I was proud to pledge my life in defense of our country.
 That is a commitment which will always live inside of me.
 I am humbled and honored to fight for you as your Congressman from Florida’s 21st congressional district.
 I strive to serve you in Congress as I did on the battlefield: without regard for personal gain or personal sacrifice.
+Stay Up To Date First Name Last Name Email Address * Phone Sign up here to receive text updates.
+By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Mast to the phone number you provide.
+No consent required to buy.
+Msg&data rates may apply.
+Donate Now Follow Contact Privacy Policy Paid for by Mast for Congress Hon.
+Brian Mast is a retired member of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.

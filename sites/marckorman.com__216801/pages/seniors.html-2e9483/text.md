@@ -1,5 +1,13 @@
-Montgomery County’s senior population plays an integral part in our community and their role in our families, economy, and civic life must be supported by our State government in Annapolis.
+Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe Home About Marc Issues Airplane Noise Animal Welfare Budget Civil Rights & Civil Liberties COVID-19 Economic Prosperity Education Energy & Environment Healthcare Pepco Preserving Our Success Public Safety Seniors Transportation Questionnaires Scholarship Latest News Contribute Contact Subscribe SENIORS Montgomery County’s senior population plays an integral part in our community and their role in our families, economy, and civic life must be supported by our State government in Annapolis.
 Policies that recognize the role of seniors protect all of us—after all, by 2030, the senior population of Montgomery County will increase by nearly 40 percent, with approximately one in four residents over the age of 65.
-This demographic shift in our population necessitates that we invest in the care of our seniors today so that we are prepared for the seniors of tomorrow.
-Marc is dedicated to improving the lives of Montgomery County’s seniors, and his work in Annapolis emphasizes the following:
-By Authority of Friends of Marc Korman; Mark Brown, Treasurer
+This demographic shift in our population necessitates that we invest in the care of our seniors today so that we are prepared for the seniors of tomorrow. ​ Marc is dedicated to improving the lives of Montgomery County’s seniors, and his work in Annapolis emphasizes the following: Focusing on communities where seniors can age in place such as “Villages” or “Naturally Occurring Retirement Communities,” which use community resources to allow seniors to stay in their homes and handle chores cooperatively.
+Government can play a role in helping villages to form, coordinating services, and assisting with insurance and transportation to help make them sustainable.
+Addressing consumer protection from the perspective of seniors .
+It is imperative that we fight to eradicate marketing schemes so that we do not need to worry about finding ourselves in financial jeopardy.
+Marc uses his position in Annapolis to ensure that all anti-fraud laws are being fully enforced and introduce legislation to protect our County’s seniors from fraud.
+Marc is also working to bring more price and rate transparency to retirement homes and assisted living centers.
+Improving outreach to minority communities.
+Montgomery County has the largest share of Asian and Latino elderly in the State.
+Accordingly, we must ensure that everyone has meaningful access to programs that improve quality of life .
+It is imperative that government programs are available to all people in our senior community in a manner that is understandable and accessible.
+By Authority of Friends of Marc Korman; Mark Brown, Treasurer HOME ABOUT MARC ISSUES SCHOLARSHIP LATEST NEWS CONTRIBUTE CONTACT sign up to receive updates

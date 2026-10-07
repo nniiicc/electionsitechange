@@ -1,57 +1,246 @@
 [
-"http://cornelwest.com/",
-"http://youtube.com/@AcrossTheSpectrumJordanConley",
-"https://daryldavis.com/",
-"https://democracyatwork.info/",
-"https://divinity.yale.edu/faculty-and-research/yds-faculty/william-barber",
-"https://en.wikipedia.org/wiki/Jon_Stewart",
-"https://en.wikipedia.org/wiki/Keegan-Michael_Key",
-"https://en.wikipedia.org/wiki/Mohammad_Marandi",
-"https://johngreenbooks.com/",
-"https://jordanforhawaii.com/",
-"https://jordanforhawaii.com/about",
-"https://jordanforhawaii.com/accessibility-statement",
-"https://jordanforhawaii.com/contact",
-"https://jordanforhawaii.com/get-involved",
-"https://jordanforhawaii.com/privacy-policy",
-"https://jordanforhawaii.com/terms-and-conditions",
-"https://kaepernick7.com/",
-"https://lebronjamesfamilyfoundation.org/",
-"https://psychology.columbia.edu/content/carl-hart",
-"https://ta-nehisicoates.com/",
-"https://theinsightfulplayer.com/post/jason-brown",
-"https://votevega.nyc/",
-"https://wisdomforlife.org/jason-brown-nfl",
-"https://wix.com/",
-"https://x.com/ThisJustyn_",
-"https://yanisvaroufakis.eu/",
-"https://youtu.be/BiUA-5lUmnY?si=xLubSwHlh4hmE3WK",
-"https://youtu.be/Q-mstc1sWqE?si=hiCOIXgClZI9MMY3",
-"https://youtu.be/ghqqatQcWYc?si=0krFH8zc_4KdYT85",
-"https://youtu.be/jWf738i6HTw?si=tcBBKvMf_tDLXPDM",
-"https://youtube.com/@BadFaithPodcast",
-"https://youtube.com/@BadFriends",
-"https://youtube.com/@BillBurrOfficial",
-"https://youtube.com/@ChrisWillx",
-"https://youtube.com/@ClubShayShay",
-"https://youtube.com/@EmpireFiles",
-"https://youtube.com/@GodfreyComedy",
-"https://youtube.com/@JayShettyPodcast",
-"https://youtube.com/@JoshJohnsonComedy",
-"https://youtube.com/@Orf",
-"https://youtube.com/@SabbySabs",
-"https://youtube.com/@SecondThought",
-"https://youtube.com/@TheDailyShow",
-"https://youtube.com/@ThePhillipScottShow",
-"https://youtube.com/@TheoVon",
-"https://youtube.com/@Tim_Black",
-"https://youtube.com/@TroyBondCompany",
-"https://youtube.com/@amillison",
-"https://youtube.com/@jamesprigioni",
-"https://youtube.com/@joerogan",
-"https://youtube.com/@lexfridman",
-"https://youtube.com/@partygirlspod",
-"https://youtube.com/@thegrayzone7996",
-"https://youtube.com/results?search_query=second+thought+cia",
-"https://zohranfornyc.com/"
+{
+"text": "Aaron Mate",
+"href": "https://www.youtube.com/@thegrayzone7996"
+},
+{
+"text": "Abby Martin",
+"href": "https://www.youtube.com/@EmpireFiles"
+},
+{
+"text": "About",
+"href": "https://www.jordanforhawaii.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.jordanforhawaii.com/accessibility-statement"
+},
+{
+"text": "Andrew Millison",
+"href": "https://www.youtube.com/@amillison"
+},
+{
+"text": "Bad Friends",
+"href": "https://www.youtube.com/@BadFriends"
+},
+{
+"text": "Bill Burr's Monday Morning Podcast",
+"href": "https://www.youtube.com/@BillBurrOfficial"
+},
+{
+"text": "Brianna Joy Grey Show",
+"href": "https://www.youtube.com/@BadFaithPodcast"
+},
+{
+"text": "Build the Coalition",
+"href": "https://www.jordanforhawaii.com/get-involved"
+},
+{
+"text": "Cashmere California",
+"href": "https://youtu.be/jWf738i6HTw?si=tcBBKvMf_tDLXPDM"
+},
+{
+"text": "Chris Williamson",
+"href": "https://www.youtube.com/@ChrisWillx"
+},
+{
+"text": "Club Shay Shay hosted by Shannon Sharpe",
+"href": "https://www.youtube.com/@ClubShayShay"
+},
+{
+"text": "Collin Kaepernick",
+"href": "https://kaepernick7.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.jordanforhawaii.com/contact"
+},
+{
+"text": "Cornell West",
+"href": "http://www.cornelwest.com/"
+},
+{
+"text": "DaGrit Network",
+"href": "https://youtu.be/ghqqatQcWYc?si=0krFH8zc_4KdYT85"
+},
+{
+"text": "Daryl Davis",
+"href": "https://www.daryldavis.com/"
+},
+{
+"text": "Dr. Butch Ware",
+"href": "https://youtu.be/Q-mstc1sWqE?si=hiCOIXgClZI9MMY3"
+},
+{
+"text": "Dr. Carl Hart",
+"href": "https://psychology.columbia.edu/content/carl-hart"
+},
+{
+"text": "Dr. Musa Abdullah",
+"href": "https://youtu.be/BiUA-5lUmnY?si=xLubSwHlh4hmE3WK"
+},
+{
+"text": "Economist Yanis Varifaukis",
+"href": "https://www.yanisvaroufakis.eu/"
+},
+{
+"text": "FOR 2026 US HOUSE REPRESENTATIVE",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "Home",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "In Godfrey we Trust",
+"href": "https://www.youtube.com/@GodfreyComedy"
+},
+{
+"text": "JT Channel: Second Thought & First Thought",
+"href": "https://www.youtube.com/@SecondThought"
+},
+{
+"text": "James Prigeoni",
+"href": "https://www.youtube.com/@jamesprigioni"
+},
+{
+"text": "Jamie Peck",
+"href": "https://www.youtube.com/@partygirlspod"
+},
+{
+"text": "Jason Brown",
+"href": "https://wisdomforlife.org/jason-brown-nfl"
+},
+{
+"text": "Jason Brown",
+"href": "https://www.theinsightfulplayer.com/post/jason-brown"
+},
+{
+"text": "Jay Shetty",
+"href": "https://www.youtube.com/@JayShettyPodcast"
+},
+{
+"text": "Joe Rogan",
+"href": "https://www.youtube.com/@joerogan"
+},
+{
+"text": "John Stewart",
+"href": "https://en.wikipedia.org/wiki/Jon_Stewart"
+},
+{
+"text": "Jon Green - Crash Course",
+"href": "https://www.johngreenbooks.com/"
+},
+{
+"text": "Jordan Conley",
+"href": "https://www.jordanforhawaii.com"
+},
+{
+"text": "Jordan Peel",
+"href": "https://en.wikipedia.org/wiki/Keegan-Michael_Key"
+},
+{
+"text": "Jose Vega: Power, not force",
+"href": "https://votevega.nyc/#news"
+},
+{
+"text": "Josh Johnson",
+"href": "https://www.youtube.com/@JoshJohnsonComedy"
+},
+{
+"text": "Justin Jackson",
+"href": "https://x.com/ThisJustyn_"
+},
+{
+"text": "Keegan-Michael Key",
+"href": "https://en.wikipedia.org/wiki/Keegan-Michael_Key"
+},
+{
+"text": "Lebron James",
+"href": "https://www.lebronjamesfamilyfoundation.org/"
+},
+{
+"text": "Lex Fridman",
+"href": "https://www.youtube.com/@lexfridman"
+},
+{
+"text": "Matt Orfalea",
+"href": "https://www.youtube.com/@Orf"
+},
+{
+"text": "Mohammad Marandi",
+"href": "https://en.wikipedia.org/wiki/Mohammad_Marandi"
+},
+{
+"text": "Phillip Scott",
+"href": "https://www.youtube.com/@ThePhillipScottShow"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jordanforhawaii.com/privacy-policy"
+},
+{
+"text": "Proff & economist Richard Wolf",
+"href": "https://www.democracyatwork.info/"
+},
+{
+"text": "Rev William Barber",
+"href": "https://divinity.yale.edu/faculty-and-research/yds-faculty/william-barber"
+},
+{
+"text": "Sabrina Salviti Show",
+"href": "https://www.youtube.com/@SabbySabs"
+},
+{
+"text": "Ta-Nahisi Coates",
+"href": "https://ta-nehisicoates.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jordanforhawaii.com/terms-and-conditions"
+},
+{
+"text": "The Daily Show",
+"href": "https://www.youtube.com/@TheDailyShow"
+},
+{
+"text": "Theo Von",
+"href": "https://www.youtube.com/@TheoVon"
+},
+{
+"text": "Tim Black",
+"href": "https://www.youtube.com/@Tim_Black"
+},
+{
+"text": "Troy Bond",
+"href": "https://www.youtube.com/@TroyBondCompany"
+},
+{
+"text": "Videos for Leftists",
+"href": "https://www.youtube.com/results?search_query=second+thought+cia"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "Zohran K Mamdani",
+"href": "https://www.zohranfornyc.com/"
+},
+{
+"text": "[image: Cell Phone]",
+"href": "tel:808-492-2213"
+},
+{
+"text": "[image: Email]",
+"href": "mailto:conleyfitness@gmail.com"
+},
+{
+"text": "[image: Youtube]",
+"href": "http://www.youtube.com/@AcrossTheSpectrumJordanConley"
+},
+{
+"text": "conleyfitness@gmail.com",
+"href": "mailto:conleyfitness@gmail.com"
+}
 ]

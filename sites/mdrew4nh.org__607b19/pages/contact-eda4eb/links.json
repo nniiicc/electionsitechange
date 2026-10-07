@@ -1,7 +1,34 @@
 [
-"https://electhouserepublicans.com/privacy",
-"https://electhouserepublicans.com/terms",
-"https://mdrew4nh.org/",
-"https://mdrew4nh.org/contact",
-"https://x.com/mdrew4nh"
+{
+"text": "About",
+"href": "https://mdrew4nh.org/#about"
+},
+{
+"text": "Contact",
+"href": "https://mdrew4nh.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://mdrew4nh.org/#donate"
+},
+{
+"text": "Issues",
+"href": "https://mdrew4nh.org/#issues"
+},
+{
+"text": "MATT DREW",
+"href": "https://mdrew4nh.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electhouserepublicans.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://electhouserepublicans.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mdrew4nh"
+}
 ]

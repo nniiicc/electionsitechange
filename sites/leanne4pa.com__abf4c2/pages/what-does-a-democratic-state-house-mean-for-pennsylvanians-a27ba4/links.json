@@ -1,11 +1,38 @@
 [
-"http://facebook.com/voteleanne",
-"http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081",
-"http://twitter.com/leanne4pa",
-"https://leanne4pa.com/",
-"https://leanne4pa.com/krueger-continues-winning-streak",
-"https://leanne4pa.com/leanne",
-"https://phl17.com/national-news/what-does-a-democratic-state-house-mean-for-pennsylvanians",
-"https://secure.actblue.com/donate/lkbweb",
-"https://twitter.com/leanne4pa"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/lkbweb"
+},
+{
+"text": "Facebook",
+"href": "http://facebook.com/voteleanne"
+},
+{
+"text": "Krueger continues winning streak",
+"href": "https://www.leanne4pa.com/krueger-continues-winning-streak/"
+},
+{
+"text": "Leanne for PA, PO Box 22, Swarthmore, PA 19081",
+"href": "http://maps.google.com/?q=Leanne+for+PA%2C+PO+Box+22%2C+Swarthmore%2C+PA+19081"
+},
+{
+"text": "Meet Leanne",
+"href": "https://www.leanne4pa.com/leanne/"
+},
+{
+"text": "Tweets by leanne4pa",
+"href": "https://twitter.com/leanne4pa"
+},
+{
+"text": "Twitter",
+"href": "http://twitter.com/leanne4pa"
+},
+{
+"text": "Watch the full story on PHL17…",
+"href": "https://phl17.com/national-news/what-does-a-democratic-state-house-mean-for-pennsylvanians/"
+},
+{
+"text": "[image: Leanne Krueger for State Representative]",
+"href": "https://www.leanne4pa.com/"
+}
 ]

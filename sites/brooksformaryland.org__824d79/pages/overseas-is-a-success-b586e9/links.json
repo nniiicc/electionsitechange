@@ -1,84 +1,338 @@
 [
-"https://brooksformaryland.org/",
-"https://brooksformaryland.org/about",
-"https://brooksformaryland.org/contact",
-"https://brooksformaryland.org/events",
-"https://brooksformaryland.org/gallery",
-"https://brooksformaryland.org/issues",
-"https://brooksformaryland.org/naomi-osborne-photos",
-"https://brooksformaryland.org/news",
-"https://brooksformaryland.org/news-updates",
-"https://brooksformaryland.org/pub-dog-success-2",
-"https://brooksformaryland.org/testimonials",
-"https://brooksformaryland.org/voting",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01843.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01845.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01847.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01849.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01854.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01857.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01859.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01860.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01862.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01863.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01864.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01865.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01867.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01869.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01873.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01875.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01878.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01879.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01881.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01883.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01884.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01887.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01889.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01890.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01892.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01893.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01895.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01901.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01903.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01904.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01907.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01909.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01911.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01915.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01919.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01923.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01924.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01925.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01929.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01930.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01933.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01937.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01940.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01945.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01951.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01956.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01960.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01981.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01987.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01989.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01991.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01992.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01994.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01996.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01999.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02000.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02002.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02006.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02008.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02011.jpg",
-"https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02019.jpg",
-"https://derrickldavisphotography.shootproof.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform",
-"https://facebook.com/BrooksforMaryland",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F",
-"https://instagram.com/brooksformaryland",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F",
-"https://secure.actblue.com/donate/amy-brooks-delegate",
-"https://tiktok.com/@amy.b9640",
-"https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F"
+{
+"text": "About",
+"href": "https://brooksformaryland.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://brooksformaryland.org/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-brooks-delegate"
+},
+{
+"text": "Derrick L Davis Photography",
+"href": "https://derrickldavisphotography.shootproof.com/"
+},
+{
+"text": "Events",
+"href": "https://brooksformaryland.org/events/"
+},
+{
+"text": "Gallery",
+"href": "https://brooksformaryland.org/gallery/"
+},
+{
+"text": "Issues",
+"href": "https://brooksformaryland.org/issues/"
+},
+{
+"text": "More Photos from Our Overseas Event →",
+"href": "https://brooksformaryland.org/naomi-osborne-photos/"
+},
+{
+"text": "News",
+"href": "https://brooksformaryland.org/news/"
+},
+{
+"text": "Updates",
+"href": "https://brooksformaryland.org/news-updates/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd4S7wo014V1xKp_e7YxeTlsRi0dnzLzVIIbCQSEykQA0U71A/viewform"
+},
+{
+"text": "Voting",
+"href": "https://brooksformaryland.org/voting/"
+},
+{
+"text": "Why Amy?",
+"href": "https://brooksformaryland.org/testimonials/"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org"
+},
+{
+"text": "[image: Amy Brooks for Delegate]",
+"href": "https://brooksformaryland.org/"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01843.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01845.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01847.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01849.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01854.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01857.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01859.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01860.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01862.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01863.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01864.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01865.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01867.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01869.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01873.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01875.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01878.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01879.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01881.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01883.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01884.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01887.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01889.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01890.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01892.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01893.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01895.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01901.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01903.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01904.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01907.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01909.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01911.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01915.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01919.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01923.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01924.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01925.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01929.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01930.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01933.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01937.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01940.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01945.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01951.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01956.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01960.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01981.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01987.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01989.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01991.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01992.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01994.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01996.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD01999.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02000.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02002.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02006.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02008.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02011.jpg"
+},
+{
+"text": "[image]",
+"href": "https://brooksformaryland.org/wp-content/uploads/2026/05/DLD02019.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fbrooksformaryland.org%2Foverseas-is-a-success%2F"
+},
+{
+"text": "email",
+"href": "mailto:info@brooksformaryland.org"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/BrooksforMaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/brooksformaryland"
+},
+{
+"text": "instagram",
+"href": "https://www.tiktok.com/@amy.b9640"
+},
+{
+"text": "← Celebrate Community & Support Amy Brooks Event",
+"href": "https://brooksformaryland.org/pub-dog-success-2/"
+}
 ]

@@ -1,17 +1,98 @@
 [
-"http://actblue.com/",
-"https://courpasfordelegate.com/",
-"https://courpasfordelegate.com/about",
-"https://courpasfordelegate.com/cart",
-"https://courpasfordelegate.com/contact",
-"https://courpasfordelegate.com/endorsements",
-"https://courpasfordelegate.com/events",
-"https://courpasfordelegate.com/gallery-1",
-"https://courpasfordelegate.com/news",
-"https://courpasfordelegate.com/volunteer",
-"https://elections.carrollcountymd.gov/districtsPrecincts.aspx",
-"https://facebook.com/profile.php?id=61587713759318",
-"https://secure.actblue.com/donate/corynne-birthday",
-"https://secure.actblue.com/donate/corynnefordelegate",
-"https://squarespace.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+},
+{
+"text": "0",
+"href": "https://www.courpasfordelegate.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.courpasfordelegate.com/about"
+},
+{
+"text": "ActBlue.com",
+"href": "http://actblue.com"
+},
+{
+"text": "Contact",
+"href": "https://www.courpasfordelegate.com/contact"
+},
+{
+"text": "Corynne Courpas for State Delegate",
+"href": "https://www.courpasfordelegate.com/"
+},
+{
+"text": "CourpasForDelegate@gmail.com",
+"href": "mailto:CourpasForDelegate@gmail.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.courpasfordelegate.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.courpasfordelegate.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.courpasfordelegate.com/gallery-1"
+},
+{
+"text": "Learn more about corynne",
+"href": "https://www.courpasfordelegate.com/about"
+},
+{
+"text": "News",
+"href": "https://www.courpasfordelegate.com/news"
+},
+{
+"text": "Purchase Tickets",
+"href": "https://secure.actblue.com/donate/corynne-birthday"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.courpasfordelegate.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.courpasfordelegate.com/news"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587713759318"
+},
+{
+"text": "elections.carrollcountymd.gov",
+"href": "https://elections.carrollcountymd.gov/districtsPrecincts.aspx"
+},
+{
+"text": "https://elections.maryland.gov/elections/2026/vote2026/",
+"href": "https://elections.maryland.gov/elections/2026/vote2026/"
+},
+{
+"text": "other AMOUNT",
+"href": "https://secure.actblue.com/donate/corynnefordelegate"
+}
 ]

@@ -1,7 +1,18 @@
 [
-"https://brownforokstatehouse.com/",
-"https://brownforokstatehouse.com/contact-3",
-"https://brownforokstatehouse.com/issues",
-"https://brownforokstatehouse.com/my-story",
-"https://wpconsent.com/powered-by"
+{
+"text": "Contact",
+"href": "https://brownforokstatehouse.com/contact-3/"
+},
+{
+"text": "Home",
+"href": "https://brownforokstatehouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://brownforokstatehouse.com/issues/"
+},
+{
+"text": "My Story",
+"href": "https://brownforokstatehouse.com/my-story/"
+}
 ]

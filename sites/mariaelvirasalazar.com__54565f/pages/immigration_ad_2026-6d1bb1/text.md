@@ -1,15 +1,15 @@
-FOR IMMEDIATE RELEASE
-September 17th, 2026
-MIAMI, FL — Salazar for Congress today launched its first ad of the 2026 general election, recorded in Washington, D.C., outside the White House, with María Elvira Salazar delivering a direct message to President Donald Trump on immigration enforcement.
-“Mr.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate SALAZAR CAMPAIGN LAUNCHES FIRST GENERAL-ELECTION AD WITH DIRECT MESSAGE TO PRESIDENT TRUMP ON IMMIGRATION September 17 2026 Share This FOR IMMEDIATE RELEASE September 17th, 2026 MIAMI, FL — Salazar for Congress today launched its first ad of the 2026 general election, recorded in Washington, D.C., outside the White House, with María Elvira Salazar delivering a direct message to President Donald Trump on immigration enforcement.﻿ ﻿ “Mr.
 President, some of your immigration enforcement efforts have gone too far,” Salazar says in the ad.
-“The same Hispanics who helped you get to the White House in 2024 feel betrayed today.”
-Beginning today, the ad will air across broadcast television, digital and OTT throughout South Florida.
-It is the first of several spots planned ahead of the November election.
-The campaign opens with immigration at a critical moment for South Florida and the nation.
-Salazar represents Florida’s 27th Congressional District in Miami-Dade, where immigration touches thousands of families and remains deeply woven into the community.
-Salazar has made immigration reform a defining issue of her work in Congress.
-She leads the bipartisan Dignity Act, an effort to strengthen border enforcement while addressing the status of qualifying undocumented immigrants already living in the United States.
-Now, with her first general-election ad, Salazar is taking her message directly to President Trump.
-WATCH THE ENGLISH AD [HERE]
-MIRE EL ANUNCIO EN ESPAÑOL [AQUÍ]
+“The same Hispanics who helped you get to the White House in 2024 feel betrayed today.”﻿ ﻿ Beginning today, the ad will air across broadcast television, digital and OTT throughout South Florida.
+It is the first of several spots planned ahead of the November election.﻿ ﻿ The campaign opens with immigration at a critical moment for South Florida and the nation.
+Salazar represents Florida’s 27th Congressional District in Miami-Dade, where immigration touches thousands of families and remains deeply woven into the community. ﻿ ﻿ Salazar has made immigration reform a defining issue of her work in Congress.
+She leads the bipartisan Dignity Act, an effort to strengthen border enforcement while addressing the status of qualifying undocumented immigrants already living in the United States.﻿ ﻿ Now, with her first general-election ad, Salazar is taking her message directly to President Trump.﻿ ﻿ WATCH THE ENGLISH AD [ HERE ]﻿ ﻿ MIRE EL ANUNCIO EN ESPAÑOL [ AQUÍ ]﻿ Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

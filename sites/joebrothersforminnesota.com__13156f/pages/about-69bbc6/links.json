@@ -1,15 +1,58 @@
 [
-"https://bsky.app/profile/joebrothersformn.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61575405247574",
-"https://instagram.com/joebrothersformnhouse",
-"https://joebrothersforminnesota.com/",
-"https://joebrothersforminnesota.com/contact",
-"https://joebrothersforminnesota.com/election-2026",
-"https://joebrothersforminnesota.com/issues",
-"https://joebrothersforminnesota.com/volunteer",
-"https://secure.actblue.com/donate/joe-brothers-1",
-"https://threads.net/@joebrothersformnhouse",
-"https://tiktok.com/@joebrothersformnh",
-"https://x.com/@JoeBrothers4MN"
+{
+"text": "Contact",
+"href": "https://www.joebrothersforminnesota.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joe-brothers-1"
+},
+{
+"text": "Election 2026",
+"href": "https://www.joebrothersforminnesota.com/election-2026"
+},
+{
+"text": "Home",
+"href": "https://www.joebrothersforminnesota.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.joebrothersforminnesota.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.joebrothersforminnesota.com/volunteer"
+},
+{
+"text": "[image: Joe Brothers for Minnesota House | Carver County | Waconia | Chaska | Victoria | Cologne | Mayer | Townships]",
+"href": "https://www.joebrothersforminnesota.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/joebrothersformn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61575405247574"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/joebrothersformnhouse/"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@joebrothersformnhouse"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@joebrothersformnh"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/@JoeBrothers4MN"
+}
 ]

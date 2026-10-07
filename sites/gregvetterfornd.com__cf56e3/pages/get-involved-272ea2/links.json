@@ -1,9 +1,34 @@
 [
-"https://facebook.com/gregvetterfornd",
-"https://gregvetterfornd.com/",
-"https://gregvetterfornd.com/get-involved",
-"https://gregvetterfornd.com/home",
-"https://gregvetterfornd.com/news",
-"https://gregvetterfornd.com/vote",
-"https://secure.winred.com/greg-vetter-for-house/donate"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/greg-vetter-for-house/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://gregvetterfornd.com/get-involved/"
+},
+{
+"text": "Meet Greg",
+"href": "https://gregvetterfornd.com/home/#about"
+},
+{
+"text": "News",
+"href": "https://gregvetterfornd.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://gregvetterfornd.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://gregvetterfornd.com/vote/"
+},
+{
+"text": "[image]",
+"href": "https://gregvetterfornd.com/"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/gregvetterfornd/"
+}
 ]

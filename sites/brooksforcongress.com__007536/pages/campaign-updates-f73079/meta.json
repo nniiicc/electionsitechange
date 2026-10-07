@@ -1,7 +1,11 @@
 {
  "description": "Latest updates, press releases and campaign news from Bob Brooks for Congress.",
  "final_url": "https://www.brooksforcongress.com/campaign-updates/",
+ "fingerprint": "10315f129c4dbfe7a21c75945d3ce05a303408b0",
+ "format": 3,
  "paid_for_by": "PAID FOR BY BOB BROOKS FOR CONGRESS",
  "title": "Campaign News Archives - Bob Brooks for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

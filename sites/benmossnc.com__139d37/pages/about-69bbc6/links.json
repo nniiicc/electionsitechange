@@ -1,24 +1,130 @@
 [
-"https://benmossnc.com/",
-"https://benmossnc.com/about",
-"https://benmossnc.com/donate",
-"https://capenconsulting.com/",
-"https://congress.gov/",
-"https://facebook.com/BenMossNC",
-"https://governor.nc.gov/",
-"https://instagram.com/benmossnc",
-"https://ltgov.nc.gov/",
-"https://nc.gov/agencies",
-"https://nccourts.gov/",
-"https://ncleg.gov/",
-"https://ncleg.gov/About/VisitorInfo",
-"https://ncleg.gov/FindYourLegislators",
-"https://ncleg.gov/House/PageProgram",
-"https://ncleg.gov/Laws/Constitution",
-"https://ncleg.gov/Legislation",
-"https://ncleg.gov/Members/MemberList/H",
-"https://nctreasurer.com/",
-"https://sosnc.gov/",
-"https://twitter.com/BenMossNC",
-"https://youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+{
+"text": "ABOUT",
+"href": "https://www.benmossnc.com/about"
+},
+{
+"text": "Bill Information",
+"href": "https://ncleg.gov/Legislation"
+},
+{
+"text": "Capen Consulting, LLC",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "Careers & Employment",
+"href": "mailto:info@capenconsulting.com?subject=MOSS%3A+Employment+Opportunities"
+},
+{
+"text": "Congress",
+"href": "https://www.congress.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@benmossnc.com?subject=Contact+Us+%5BBen+Moss+NC+Labor%5D"
+},
+{
+"text": "DONATE",
+"href": "https://www.benmossnc.com/donate"
+},
+{
+"text": "Email Webmaster",
+"href": "mailto:info@capenconsulting.com"
+},
+{
+"text": "Find Your Legislative District",
+"href": "https://ncleg.gov/FindYourLegislators"
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.nc.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.benmossnc.com"
+},
+{
+"text": "House Members",
+"href": "https://ncleg.gov/Members/MemberList/H"
+},
+{
+"text": "House Page Program",
+"href": "https://www.ncleg.gov/House/PageProgram"
+},
+{
+"text": "Internships",
+"href": "mailto:info@CapenConsulting.com?subject=MOSS%3A+Internship+Opportunities"
+},
+{
+"text": "Lt. Governor's Office",
+"href": "https://ltgov.nc.gov/"
+},
+{
+"text": "NCGA Live Stream",
+"href": "https://www.youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+},
+{
+"text": "News & Media Resources",
+"href": "https://www.benmossnc.com"
+},
+{
+"text": "North Carolina Courts",
+"href": "https://www.nccourts.gov/"
+},
+{
+"text": "North Carolina General Assembly",
+"href": "https://ncleg.gov/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:info@capenconsulting.com?subject=MOSS%3A+Press+Inquiry"
+},
+{
+"text": "Secretary of State's Office",
+"href": "https://www.sosnc.gov/"
+},
+{
+"text": "State Agencies",
+"href": "https://www.nc.gov/agencies"
+},
+{
+"text": "State Constitution",
+"href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "Treasurer's Office",
+"href": "https://www.nctreasurer.com/"
+},
+{
+"text": "Visit the Capitol",
+"href": "https://ncleg.gov/About/VisitorInfo"
+},
+{
+"text": "[image: BMoss Logo1_alt.png]",
+"href": "https://www.benmossnc.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BenMossNC/"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/benmossnc/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/benmossnc/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/BenMossNC"
+},
+{
+"text": "[image]",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "info@BenMossNC.com",
+"href": "mailto:info@BenMossNC.com"
+}
 ]

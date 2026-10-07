@@ -1,14 +1,50 @@
 [
-"http://instagram.com/bradybremer4mt",
-"https://bremerformontana.com/",
-"https://bremerformontana.com/cart",
-"https://bremerformontana.com/endorsements",
-"https://bremerformontana.com/home",
-"https://bremerformontana.com/meet-brady",
-"https://bremerformontana.com/mt-hd64",
-"https://bremerformontana.com/platform",
-"https://bremerformontana.com/volunteer",
-"https://facebook.com/bradybremerformt",
-"https://secure.actblue.com/donate/bremer-for-montana",
-"https://x.com/bradybremer4mt"
+{
+"text": "0",
+"href": "https://www.bremerformontana.com/cart"
+},
+{
+"text": "Brady Bremer for Montana",
+"href": "https://www.bremerformontana.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bremer-for-montana"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bremerformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.bremerformontana.com/home"
+},
+{
+"text": "MT HD64",
+"href": "https://www.bremerformontana.com/mt-hd64"
+},
+{
+"text": "Meet Brady",
+"href": "https://www.bremerformontana.com/meet-brady"
+},
+{
+"text": "Platform",
+"href": "https://www.bremerformontana.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bremerformontana.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bradybremer4mt"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bradybremerformt"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradybremer4mt"
+}
 ]

@@ -1,20 +1,86 @@
 [
-"https://facebook.com/Senatorkenyawicks",
-"https://instagram.com/kenyaforgeorgia",
-"https://kenyaforgeorgia.com/",
-"https://kenyaforgeorgia.com/bookings",
-"https://kenyaforgeorgia.com/endorsements",
-"https://kenyaforgeorgia.com/event-list",
-"https://kenyaforgeorgia.com/get-involved",
-"https://kenyaforgeorgia.com/meet-kenya",
-"https://kenyaforgeorgia.com/platform",
-"https://legis.ga.gov/legislation/69487",
-"https://legis.ga.gov/legislation/69827",
-"https://legis.ga.gov/legislation/70406",
-"https://legis.ga.gov/legislation/70660",
-"https://legis.ga.gov/legislation/70911",
-"https://legis.ga.gov/legislation/72714",
-"https://legis.ga.gov/legislation/73068",
-"https://legis.ga.gov/members/senate/5065?session=1033",
-"https://secure.actblue.com/donate/kenya-wicks-for-state-senate-1"
+{
+"text": "BOOK KENYA",
+"href": "https://www.kenyaforgeorgia.com/bookings"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kenya-wicks-for-state-senate-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.kenyaforgeorgia.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.kenyaforgeorgia.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.kenyaforgeorgia.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.kenyaforgeorgia.com"
+},
+{
+"text": "Kenya.Wicks@senate.ga.gov",
+"href": "mailto:kenay.wicks@sanate.ga.gov?subject=Contact"
+},
+{
+"text": "MEET KENYA",
+"href": "https://www.kenyaforgeorgia.com/meet-kenya"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.kenyaforgeorgia.com/platform"
+},
+{
+"text": "SB 190:",
+"href": "https://www.legis.ga.gov/legislation/70406"
+},
+{
+"text": "SB 236:",
+"href": "https://www.legis.ga.gov/legislation/70660"
+},
+{
+"text": "SB 26:",
+"href": "https://www.legis.ga.gov/legislation/69487"
+},
+{
+"text": "SB 273:",
+"href": "https://www.legis.ga.gov/legislation/70911"
+},
+{
+"text": "SB 450: Helps save lives by equipping public libraries with overdose reversal medication and trained staff.",
+"href": "https://www.legis.ga.gov/legislation/72714"
+},
+{
+"text": "SB 490:",
+"href": "https://www.legis.ga.gov/legislation/73068"
+},
+{
+"text": "SB 85:",
+"href": "https://www.legis.ga.gov/legislation/69827"
+},
+{
+"text": "SR 141: Honorable Valencia Seay Highway; Clayton County; dedicate Passed",
+"href": "https://www.legis.ga.gov/legislation/70406"
+},
+{
+"text": "VIEW ALL",
+"href": "https://www.legis.ga.gov/members/senate/5065?session=1033"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Senatorkenyawicks"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/kenyaforgeorgia/"
+},
+{
+"text": "kenyaforgeorgia",
+"href": "https://www.instagram.com/kenyaforgeorgia/"
+}
 ]

@@ -1,56 +1,230 @@
 [
-"https://buccosrisingstars.com/",
-"https://carmenbucco.com/",
-"https://carmenbucco.com/about-us",
-"https://carmenbucco.com/article",
-"https://carmenbucco.com/bucco-message",
-"https://carmenbucco.com/contact",
-"https://carmenbucco.com/endorsement-testimonials",
-"https://carmenbucco.com/event",
-"https://carmenbucco.com/get-involved",
-"https://carmenbucco.com/issues",
-"https://carmenbucco.com/latest-news",
-"https://carmenbucco.com/picture",
-"https://carmenbucco.com/video",
-"https://carmenbucco.com/wp-content/uploads/2024/03/01.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/02.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/03.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/04.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/05.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/06.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/07.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/08.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/09.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/10.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/1000015183-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/1000015184-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/1000015232.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/1000015343-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/11.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/12.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/13.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/14.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/15.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/16.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/17.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/18.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/19.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/20.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/21.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/22.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/23.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/24.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/25.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/26.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/27.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/28.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/29.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/Bucco-Congress-1.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-1-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-3-1-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-4-1-scaled.jpg",
-"https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-5-scaled.jpg",
-"https://facebook.com/Buccofornewjersey",
-"https://instagram.com/buccofornewjersey",
-"https://secure.anedot.com/bucco-for-congress-26/donate"
+{
+"text": "About",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "About Carmen Bucco",
+"href": "https://carmenbucco.com/about-us/"
+},
+{
+"text": "Article",
+"href": "https://carmenbucco.com/article/"
+},
+{
+"text": "Carmen Bucco",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Contact",
+"href": "https://carmenbucco.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/bucco-for-congress-26/donate"
+},
+{
+"text": "Endorsement & Testimonials",
+"href": "https://carmenbucco.com/endorsement-testimonials/"
+},
+{
+"text": "Events",
+"href": "https://carmenbucco.com/event/"
+},
+{
+"text": "Get Involved",
+"href": "https://carmenbucco.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://carmenbucco.com"
+},
+{
+"text": "Home",
+"href": "https://carmenbucco.com/"
+},
+{
+"text": "Issues",
+"href": "https://carmenbucco.com/issues/"
+},
+{
+"text": "Latest News",
+"href": "https://carmenbucco.com/latest-news/"
+},
+{
+"text": "MESSAGE FROM CARMEN",
+"href": "https://carmenbucco.com/bucco-message"
+},
+{
+"text": "Our Foundation",
+"href": "https://buccosrisingstars.com/"
+},
+{
+"text": "Picture",
+"href": "https://carmenbucco.com/picture/"
+},
+{
+"text": "Video",
+"href": "https://carmenbucco.com/video/"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/01.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/02.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/03.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/04.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/05.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/06.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/07.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/08.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/09.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/10.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/1000015183-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/1000015184-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/1000015232.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/1000015343-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/11.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/12.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/13.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/14.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/15.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/16.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/17.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/18.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/19.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/20.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/21.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/22.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/23.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/24.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/25.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/26.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/27.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/28.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/29.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/Bucco-Congress-1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-3-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-4-1-scaled.jpg"
+},
+{
+"text": "[image]",
+"href": "https://carmenbucco.com/wp-content/uploads/2024/03/Carmen-Bucco-Congress-5-scaled.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Buccofornewjersey"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/buccofornewjersey"
+}
 ]

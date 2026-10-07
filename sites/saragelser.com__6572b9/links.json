@@ -1,8 +1,26 @@
 [
-"https://donation.c-esystems.com/campaign/saragelserblouinforstatesenate",
-"https://forms.gle/uFo5M4EAwNc6vSieA",
-"https://mailchi.mp/oregonlegislature.gov/all-the-newsletters",
-"https://policies.google.com/privacy",
-"https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx",
-"https://wpconsent.com/powered-by"
+{
+"text": "Contribute",
+"href": "https://donation.c-esystems.com/campaign/saragelserblouinforstatesenate"
+},
+{
+"text": "Find a Ballot box",
+"href": "https://sos.oregon.gov/voting/Pages/drop-box-locator.aspx"
+},
+{
+"text": "Newsletter",
+"href": "https://mailchi.mp/oregonlegislature.gov/all-the-newsletters"
+},
+{
+"text": "Powered by (opens in a new window)",
+"href": "https://wpconsent.com/powered-by/"
+},
+{
+"text": "join #teamsgb",
+"href": "https://forms.gle/uFo5M4EAwNc6vSieA"
+},
+{
+"text": "policies.google.com (opens in a new window)",
+"href": "https://policies.google.com/privacy"
+}
 ]

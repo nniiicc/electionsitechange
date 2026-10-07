@@ -1,17 +1,66 @@
 [
-"http://eepurl.com/hlnQxv",
-"http://facebook.com/andyforcolorado",
-"http://instagram.com/rep.boesenecker.co.hd53",
-"https://andybforcolorado.com/",
-"https://andybforcolorado.com/contact-us",
-"https://andybforcolorado.com/endorsements",
-"https://andybforcolorado.com/get-involved",
-"https://andybforcolorado.com/legislation",
-"https://andybforcolorado.com/meet-andy",
-"https://andybforcolorado.com/on-the-issues",
-"https://andybforcolorado.com/privacy-policy",
-"https://facebook.com/AndyforColorado",
-"https://instagram.com/rep.boesenecker.co.hd53",
-"https://secure.actblue.com/donate/andrew-for-colorado-1",
-"https://twitter.com/rep_boesenecker"
+{
+"text": "Contact Us",
+"href": "https://www.andybforcolorado.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/andrew-for-colorado-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.andybforcolorado.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.andybforcolorado.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.andybforcolorado.com"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.andybforcolorado.com/legislation"
+},
+{
+"text": "MEET ANDY",
+"href": "https://www.andybforcolorado.com/meet-andy"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.andybforcolorado.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.andybforcolorado.com/privacy-policy"
+},
+{
+"text": "[image: Facebook Logo]",
+"href": "http://www.facebook.com/andyforcolorado"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AndyforColorado"
+},
+{
+"text": "[image: Instagram Logo]",
+"href": "http://instagram.com/rep.boesenecker.co.hd53"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rep.boesenecker.co.hd53/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/rep_boesenecker"
+},
+{
+"text": "[image: X Logo]",
+"href": "https://twitter.com/rep_boesenecker"
+},
+{
+"text": "here",
+"href": "http://eepurl.com/hlnQxv"
+}
 ]

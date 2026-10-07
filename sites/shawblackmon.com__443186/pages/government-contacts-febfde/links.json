@@ -1,42 +1,178 @@
 [
-"http://agr.georgia.gov/",
-"http://dol.state.ga.us/",
-"http://dor.georgia.gov/",
-"http://gdaonline.com/",
-"http://georgia.org/",
-"http://house.gov/",
-"http://law.ga.gov/",
-"http://legis.ga.gov/en-US/default.aspx",
-"http://ocss.dhs.georgia.gov/",
-"http://senate.ga.gov/en-US/default.aspx",
-"http://senate.gov/",
-"http://sos.ga.gov/",
-"http://usa.gov/",
-"https://agr.georgia.gov/Commissioner-Tyler-Harper",
-"https://campaignpartner.com/",
-"https://dbhdd.georgia.gov/",
-"https://dch.georgia.gov/",
-"https://dps.georgia.gov/",
-"https://facebook.com/ShawBlackmonGA",
-"https://freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db",
-"https://georgia.gov/agency-list",
-"https://georgia.gov/organization/georgia-house-representatives",
-"https://gov.georgia.gov/about-us/faqs",
-"https://legis.ga.gov/house",
-"https://ltgov.georgia.gov/",
-"https://oci.georgia.gov/",
-"https://oci.georgia.gov/about-us/john-f-king",
-"https://shawblackmon.com/",
-"https://shawblackmon.com/about_shaw",
-"https://shawblackmon.com/cities-counties",
-"https://shawblackmon.com/committee-service",
-"https://shawblackmon.com/constituent-services",
-"https://shawblackmon.com/contact",
-"https://shawblackmon.com/contribute",
-"https://shawblackmon.com/district-146",
-"https://shawblackmon.com/government-contacts",
-"https://shawblackmon.com/issues",
-"https://shawblackmon.com/news",
-"https://shawblackmon.com/photos",
-"https://shawblackmon.com/voter-information"
+{
+"text": ", Commissioner of Agriculture",
+"href": "https://agr.georgia.gov/Commissioner-Tyler-Harper"
+},
+{
+"text": "About Shaw",
+"href": "https://www.shawblackmon.com/about_shaw"
+},
+{
+"text": "Brad Raffensberger, Secretary of State",
+"href": "http://sos.ga.gov/"
+},
+{
+"text": "Chris Carr, Attorney General",
+"href": "http://law.ga.gov/"
+},
+{
+"text": "Click here for a full listing of Georgia Agencies",
+"href": "https://georgia.gov/agency-list"
+},
+{
+"text": "Committee Service",
+"href": "https://www.shawblackmon.com/committee-service"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.shawblackmon.com/constituent-services"
+},
+{
+"text": "Contact",
+"href": "https://www.shawblackmon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.shawblackmon.com/contribute"
+},
+{
+"text": "Department of Agriculture",
+"href": "http://agr.georgia.gov/"
+},
+{
+"text": "Department of Behavioral Health",
+"href": "https://dbhdd.georgia.gov/"
+},
+{
+"text": "Department of Community Health",
+"href": "https://dch.georgia.gov/"
+},
+{
+"text": "Department of Economic Development",
+"href": "http://www.georgia.org/"
+},
+{
+"text": "Department of Human Services",
+"href": "http://ocss.dhs.georgia.gov/"
+},
+{
+"text": "Department of Insurance",
+"href": "https://oci.georgia.gov/"
+},
+{
+"text": "Department of Labor",
+"href": "http://www.dol.state.ga.us/"
+},
+{
+"text": "Department of Public Safety",
+"href": "https://dps.georgia.gov/"
+},
+{
+"text": "Department of Revenue",
+"href": "http://dor.georgia.gov/"
+},
+{
+"text": "District",
+"href": "https://www.shawblackmon.com/district-146"
+},
+{
+"text": "Gallery",
+"href": "https://www.shawblackmon.com/photos"
+},
+{
+"text": "Georgia Development Authority",
+"href": "http://www.gdaonline.com/"
+},
+{
+"text": "Georgia General Assembl",
+"href": "http://www.legis.ga.gov/en-US/default.aspx"
+},
+{
+"text": "Government Contacts",
+"href": "https://www.shawblackmon.com/government-contacts"
+},
+{
+"text": "Governor Brian Kemp",
+"href": "https://gov.georgia.gov/about-us/faqs"
+},
+{
+"text": "John King, Commissioner of Insurance",
+"href": "https://oci.georgia.gov/about-us/john-f-king"
+},
+{
+"text": "Local Government",
+"href": "https://www.shawblackmon.com/cities-counties"
+},
+{
+"text": "Lt. Governor",
+"href": "https://ltgov.georgia.gov/"
+},
+{
+"text": "News",
+"href": "https://www.shawblackmon.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.shawblackmon.com/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Secretary of State",
+"href": "http://sos.ga.gov/"
+},
+{
+"text": "State House",
+"href": "https://www.legis.ga.gov/house"
+},
+{
+"text": "State Senate",
+"href": "http://www.senate.ga.gov/en-US/default.aspx"
+},
+{
+"text": "Tyler Harper",
+"href": "https://agr.georgia.gov/Commissioner-Tyler-Harper"
+},
+{
+"text": "US House of Representatives",
+"href": "http://www.house.gov/"
+},
+{
+"text": "US Senate",
+"href": "http://www.senate.gov/"
+},
+{
+"text": "United States Government",
+"href": "http://www.usa.gov/"
+},
+{
+"text": "View Our Privacy Policy",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "View our privacy policy.",
+"href": "https://www.freeprivacypolicy.com/live/b26122ba-d70b-40c9-b797-07b0b036b2db"
+},
+{
+"text": "Voter Information",
+"href": "https://www.shawblackmon.com/voter-information"
+},
+{
+"text": "[image]",
+"href": "https://www.shawblackmon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ShawBlackmonGA/"
+},
+{
+"text": "[tooltip: Georgia state House of Representatives website]",
+"href": "https://georgia.gov/organization/georgia-house-representatives"
+},
+{
+"text": "shaw.blackmon@house.ga.gov",
+"href": "mailto:shaw.blackmon@house.ga.gov"
+}
 ]

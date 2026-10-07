@@ -1,12 +1,46 @@
 [
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/updates",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://twitter.com/DanBlueNC"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Updates",
+"href": "https://danblueforsenate.org/category/updates/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+}
 ]

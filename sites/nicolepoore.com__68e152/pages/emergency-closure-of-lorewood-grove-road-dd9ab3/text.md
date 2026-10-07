@@ -1,11 +1,12 @@
-Friends and neighbors,
-The Delaware Department of Transportation will be conducting an emergency closure of Lorewood Grove Road between Ratledge Road and Tami Trail.
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter Emergency Closure of Lorewood Grove Road Home News/Blog / Emergency Closure of Lorewood Grove Road Emergency Closure of Lorewood Grove Road May 23, 2026 admin News/Blog , Senator Poore 12th District Newsletter , Traffic Alerts , Uncategorized Comments are Closed 0 Friends and neighbors, The Delaware Department of Transportation will be conducting an emergency closure of Lorewood Grove Road between Ratledge Road and Tami Trail .
 During this closure, they will be fixing a crossroad pipe failure that has caused half the road to wash out.
-The closure will begin May 22, 2026 and will be in effect until further notice.
+The closure will begin May 22, 2026 and will be in effect until further notice .
 Please follow the appropriate detours and plan your commutes accordingly.
 Thank you to our DelDOT employees for their efforts in fixing the pipe failure and for your patience in letting them conduct this important work.
 As always, please do not hesitate to reach out with any questions, comments, community concerns, or just to say hi.
-I can be reached by email at nicole.poore@delaware.gov, on Facebook , Instagram, or by calling my Senate office at (302) 744-4164.
-Sincerely,
-Nicole Poore
-Senator, District 12
+I can be reached by email at nicole.poore@delaware.gov , on Facebook , Instagram , or by calling my Senate office at (302) 744-4164.
+Sincerely, Nicole Poore Senator, District 12 Prev Next Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

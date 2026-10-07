@@ -1,5 +1,11 @@
-Students & Recent Graduates
-Learn how to launch your career with DHS.
+(601) 866-9100 bennie_thompson@bellsouth.net Donate Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Community Corner Home Community Corner Public Service Announcement Students & Recent Graduates Learn how to launch your career with DHS.
 Please join us for a free webinar about DHS careers, current opportunities, and the federal hiring and application process.
-Thursday, October 1, 2020, from 2:00 – 4:00 pm (EDT)
-Visit www.dhs.gov/recruitment to register.
+Thursday, October 1, 2020, from 2:00 – 4:00 pm (EDT) Visit www.dhs.gov/recruitment to register.
+Register Now 2020 Census Self-Response Weekly Highlights Sorority, Claiborne officials talk safety and Census The Census Bureau partnered with Claiborne County Emergency Management, Claiborne County Board of Supervisors and the Claiborne and Jefferson County Alumnae chapters of Delta Sigma Theta Sorority, Inc., on a mask distribution and Census drive on August 8.
+Download FEMA Fact Sheet The Big “Beautiful” Ugly Bill House Republicans’ Big “Ugly ” Bill Will Cause 118,471 People in Mississippi to Lose Health Insurance Due to Medicaid and Affordable Care Act Cuts Download FEMA Fact Sheet Download FOBT Big Ugly Bill Download FOBT Medicaid About Congressman Bennie G.
+Thompson is a firm believer of giving back to those whom afforded him an opportunity to serve.
+His 43 years of public service is a testament to his unwavering dedication to fulfill their expectations and to be the resounding voice for the constituents of the Second District of Mississippi.
+105 West Madison Street, P.O.Box 100 Bolton, MS 39041 (601) 866-9100, (866) 423-6643 bennie_thompson@bellsouth.net Quick Links Home Meet Bennie Get Involved Events Video Endorsements Community Corner Contact Latest Posts Bennie Thompson wins Democratic nomination for US… Rep.
+Bennie Thompson wins Mississippi’s Democratic primary Bennie Thompson Defeats Young Challenger in Mississippi… Join Team Thompson Your name Your email Postal Code Copyright © # Bennie Thompson for Congress.
+All Rights Reserved. × Be The First To Know Contact Information In what capacity would you like to participate? × How much would you like to donate?
+Donate Now

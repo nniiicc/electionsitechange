@@ -1,12 +1,50 @@
 [
-"https://facebook.com/p/John-Loughlin-100063537108328",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.loughlin4ri.com%2Fevent-details%2Fpolitics-pasta",
-"https://loughlin4ri.com/",
-"https://loughlin4ri.com/blank",
-"https://loughlin4ri.com/blank-1",
-"https://loughlin4ri.com/blank-2",
-"https://loughlin4ri.com/event-details/politics-pasta",
-"https://loughlin4ri.com/event-list",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.loughlin4ri.com%2Fevent-details%2Fpolitics-pasta&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://x.com/LoughlinRI1"
+{
+"text": "ABOUT",
+"href": "https://www.loughlin4ri.com/blank"
+},
+{
+"text": "CONTACT",
+"href": "https://www.loughlin4ri.com/blank-2"
+},
+{
+"text": "EVENTS",
+"href": "https://www.loughlin4ri.com/event-list"
+},
+{
+"text": "Go",
+"href": "https://www.loughlin4ri.com/event-details/politics-pasta"
+},
+{
+"text": "HOME",
+"href": "https://www.loughlin4ri.com"
+},
+{
+"text": "PRESS",
+"href": "https://www.loughlin4ri.com/blank-1"
+},
+{
+"text": "See other events",
+"href": "https://www.loughlin4ri.com/event-list"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/p/John-Loughlin-100063537108328/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/LoughlinRI1"
+},
+{
+"text": "[image: donate.jpg]",
+"href": "https://www.loughlin4ri.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.loughlin4ri.com%2Fevent-details%2Fpolitics-pasta&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.loughlin4ri.com%2Fevent-details%2Fpolitics-pasta"
+}
 ]

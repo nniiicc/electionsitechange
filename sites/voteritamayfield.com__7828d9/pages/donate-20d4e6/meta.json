@@ -1,7 +1,11 @@
 {
- "description": "A donation in any amount will make a real difference. It will be used to help inform other people in \u2026",
+ "description": "A donation in any amount will make a real difference. It will be used to help inform other people in …",
  "final_url": "https://www.voteritamayfield.com/donate/",
- "paid_for_by": null,
+ "fingerprint": "d7f139286a9fd8563f3950b2f2a7cd10f8e74ed6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate - Rita Mayfield for State Rep",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

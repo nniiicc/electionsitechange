@@ -1,5 +1,4 @@
-About Alexander
-Growing up, I was taught that commitment to family, service, and the community should guide our decisions.
+0 Skip to Content About Alexander Policy Volunteer Yard Signs DONATE Open Menu Close Menu About Alexander Policy Volunteer Yard Signs DONATE Open Menu Close Menu About Alexander Policy Volunteer Yard Signs DONATE About Alexander Growing up, I was taught that commitment to family, service, and the community should guide our decisions.
 That means work hard, lead with compassion, and fight like hell for the person next to you.
 Those values led me to a career of care work.
 I’ve supported patients at the Brattleboro Retreat and UVM Medical Center, helped people navigate Medicaid, answered calls on an anti-violence hotline for the Pride Center, and organized healthcare workers to fight for better conditions.
@@ -15,4 +14,5 @@ That’s why I’m running for Franklin State Senate.
 For too long, our representation in Montpelier has remained stagnant when we needed real action most.
 Right now, we need to empower a people-led movement that shows up for rural healthcare, for working families, for our farmers, and for communities that feel ignored.
 My name is Alexander Bobella.
-I’m running for State Senate this year to keep showing up for this community, to do the work, and to fight like hell for us.
+I’m running for State Senate this year to keep showing up for this community, to do the work, and to fight like hell for us .
+Paid for by ALexander for State Senate - 321 Lake Street, Saint Albans, VT 05478 Treasurer: Nicholas Brosseau contact: alexander@alexander4senate.com

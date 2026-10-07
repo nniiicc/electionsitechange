@@ -1,7 +1,9 @@
-These are my online resources for professional/business activities:
-I am president of DPAS-INC, a contracting/consulting business.
+Skip to content Skip to content Home About Pat Dixon Policy Statements Exonerate Robert Roberson Free Market Sustainability Approval Voting School Choice Parent & Teacher Empowerment Non-Partisan Redistricting Texas Muslims AI Property Tax The Abbott Report The Border Election Integrity Texas Transportation Missed Opportunity?
+Hyperbole anyone?
+COVID How to Return Taxes Guns Texas Stance on Science Questionnaire Flock Cameras AI Data Centers The War on Hemp The Abbott Ad 765 kV Transmission iVoterGuide Questionnaire League of Women Voters General Election Voters Guide Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey New Braunfels Herald-Zeitung article 8/29/26 Minority Winner Israel Abbott’s Tax Plan About Greg Abbott Biblical Principles Texas Cannabis Policy Questionnaire Business DPAS-INC Sports and Outdoors CDT 2015 Bio My Journey Axyl Mail Stops About Me My Mom About PSP YouTube Channel Photos Arts Music Amazon author page Government Keep the Party Libertarian Texas Senate District 14 Lago Vista city council TX20 Policy Statements Media and Video Search for: Search Home Business Business These are my online resources for professional/business activities: I am president of DPAS-INC, a contracting/consulting business.
 We provide engineering and project management for industrial automation.
-The website is http://dpas-inc.com/
-With Scott Comin and Shreyas Bhandare at completion of successful control system migration.
+The website is http://dpas-inc.com/ My LinkedIn profile is https://www.linkedin.com/in/dixonpatrick/ With Scott Comin and Shreyas Bhandare at completion of successful control system migration.
 Plummer Forest Products had a fire that damaged their antiquated control system from 4 vendors.
-Working for integrator GPA, we migrated those 4 systems into one modern system in 2 months.Presentation on Industry 4.0 to IEEE Pulp and Paper conference, June 27, 2019 in Jacksonville, FloridaPresentation on PID control to ISA conference, October 16, 2018 in Montreal, Quebec
+Working for integrator GPA, we migrated those 4 systems into one modern system in 2 months.
+Presentation on Industry 4.0 to IEEE Pulp and Paper conference, June 27, 2019 in Jacksonville, Florida Presentation on PID control to ISA conference, October 16, 2018 in Montreal, Quebec Comments are closed.
+Powered by Nirvana & WordPress.

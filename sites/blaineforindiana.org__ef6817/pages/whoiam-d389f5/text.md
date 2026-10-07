@@ -1,5 +1,4 @@
-Who I AM
-My name is Blaine Sefton.
+0 Skip to Content Who I Am Platform & Policy Volunteer Events Endorsements Info on Voting Donate Open Menu Close Menu Who I Am Platform & Policy Volunteer Events Endorsements Info on Voting Donate Open Menu Close Menu Who I Am Platform & Policy Volunteer Events Endorsements Info on Voting Donate Who I AM My name is Blaine Sefton.
 I am a worker, a democratic socialist, and here to bring the power to the people.
 Through many jobs and many paths I have seen what we have all felt, companies, corporations, and the rich men and women that run them control our lives.
 From the grocery store to the gas station we have all felt the squeeze on our wallets and hearts.
@@ -23,3 +22,4 @@ Instead of supporting our neighbors, the statehouse is actively harming those wh
 Enough is enough.
 I will be taking on the establishment politicians and am asking you to join me on this journey.
 This might be our last chance to take back control and wield the power for the people.
+My platform Contact Volunteer Paid for by Blaine for Indiana

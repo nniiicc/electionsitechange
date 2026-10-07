@@ -1,14 +1,54 @@
 [
-"http://ftc.gov/privacy",
-"https://dustyforcolorado.com/",
-"https://dustyforcolorado.com/about",
-"https://dustyforcolorado.com/awards---support",
-"https://dustyforcolorado.com/community-resources",
-"https://dustyforcolorado.com/contact",
-"https://dustyforcolorado.com/donate",
-"https://dustyforcolorado.com/news",
-"https://dustyforcolorado.com/privacy-policy",
-"https://dustyforcolorado.com/terms-of-service",
-"https://facebook.com/people/Representative-Dusty-A-Johnson/61568883715846",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "About",
+"href": "https://www.dustyforcolorado.com/about"
+},
+{
+"text": "Awards & Support",
+"href": "https://www.dustyforcolorado.com/awards---support"
+},
+{
+"text": "Community Resources",
+"href": "https://www.dustyforcolorado.com/community-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.dustyforcolorado.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.dustyforcolorado.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "News",
+"href": "https://www.dustyforcolorado.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dustyforcolorado.com/privacy-policy"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.dustyforcolorado.com/terms-of-service"
+},
+{
+"text": "[image: The logo for dusty johnson house district 63 is blue and red.]",
+"href": "https://www.dustyforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Representative-Dusty-A-Johnson/61568883715846/"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "www.ftc.gov/privacy",
+"href": "http://www.ftc.gov/privacy"
+}
 ]

@@ -1,32 +1,126 @@
 [
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0738?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0001?ys=2020rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0001?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0324",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0504",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1300?ys=2020rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1316?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1365?ys=2021rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1372?ys=2021rs",
-"https://saralove4md.com/",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://x.com/@saralove4MD"
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Blueprint 2.0",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1372/?ys=2021rs"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "County School Board Member Anti-Bias Training Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0324"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Excellence in Maryland Public Schools Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0504"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "Historically Black Colleges & Universities (HBCUs) - Funding",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0001/?ys=2021rs"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "Support Special Education Schools",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1365/?ys=2021rs"
+},
+{
+"text": "The Blueprint for Maryland's Future",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1300/?ys=2020rs"
+},
+{
+"text": "The Built to Learn Act of 2020",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0001/?ys=2020rs"
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "The Freedom to Read Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0738?ys=2024RS&search=True"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "Youth-Centric Technology and Social Media Resource Guide",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1316?ys=2025RS"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+}
 ]

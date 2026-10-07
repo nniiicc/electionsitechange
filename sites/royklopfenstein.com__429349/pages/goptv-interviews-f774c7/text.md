@@ -1,8 +1,2 @@
-GOPTV Interviews
-September 2022 Interview
-July 2022 Interview
-June 2022 Interview
-March 2022 Interview
-For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon)
-Paid for by Klopfenstein for Ohio, Stan D.
-Owens, Treasurer
+HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT Get in touch 419-771-6935 roy@royklopfenstein.com HOME ABOUT Re-Election Campaign Announcement Photos and Videos GOPTV Interviews ENDORSEMENTS DONATE CONTACT GOPTV Interviews September 2022 Interview July 2022 Interview June 2022 Interview March 2022 Interview For Official State of Ohio Related Topics and Issues, Please Contact My Office in the Ohio House of Representatives (Please click on the above icon) Paid for by Klopfenstein for Ohio, Stan D.
+Owens, Treasurer Share by:

@@ -1,5 +1,5 @@
-One lap left!
-With eight weeks down and one to go, we are approaching the end of the 98th Legislative Session.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG SESSION WEEK EIGHT Posted by ttordsen March 5, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates One lap left!
+With eight weeks down and one to go, we are approaching the end of the 98 th Legislative Session.
 But before we head out the door, we have a budget to pass.
 Our appropriations committee has spent some long days preparing a balanced budget, and we will consider it in final form in the coming week.
 I’m receiving many of your emails encouraging higher funding for education, Medicaid, and state employees.
@@ -16,19 +16,20 @@ These nations are flagged federally and certainly don’t have the United States
 We should do all we can to avoid supporting these nations, and instead try to encourage American and South Dakota-made products first.
 SB189 now awaits the Governor’s signature which I’m confident she’ll sign!
 On the House floor, we passed several bills that will benefit people across South Dakota.
-Here are a couple that were important to me and I supported:
-- HB1079: Sadly, suicide has become the leading cause of death in South Dakota for persons aged 10-29.
+Here are a couple that were important to me and I supported: HB1079: Sadly, suicide has become the leading cause of death in South Dakota for persons aged 10-29.
 This bill invests resources into mental health and suicide prevention programs, which will help the Department of Health ensure that we can meet the needs of those who are struggling.
-- HB1078: This bill provides an investment into enhancing adult daycare programs for the disabled and elderly, and will have a large impact on those living with Alzheimer’s, their families and caregivers.
+HB1078: This bill provides an investment into enhancing adult daycare programs for the disabled and elderly, and will have a large impact on those living with Alzheimer’s, their families and caregivers.
 I’ve always been focused on helping vulnerable members of our community and was proud to see the passage of this legislation.
-- SB160: Election integrity is a priority for the legislature, and we’ve worked hard to “put our money where our mouth is” this session.
+SB160: Election integrity is a priority for the legislature, and we’ve worked hard to “put our money where our mouth is” this session.
 The bill provided for the establishment of post-election audits, and it is another crucial step in keeping the South Dakota tradition of safe elections alive and well.
-- SB35: This bill allocates $13M in state funding for further underground expansion at the Sanford Underground Research Facility (SURF).
+SB35: This bill allocates $13M in state funding for further underground expansion at the Sanford Underground Research Facility (SURF).
 SURF is a world leader in underground science and technology research.
 This investment will have significant returns for many years to come.
 As we look at the checked flag that sits at the end of next week, we’ll continue our work on the general budget for the upcoming fiscal year.
 I’ll keep you posted on how things shake out.
 If you would like more information about any of my work in Pierre or have any questions, please be sure to reach out.
-Have a great week!
--Rep.
-Tordsen
+Have a great week! -Rep.
+Tordsen GET WEEKLY UPDATES Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen March 5, 2023 November 20, 2023 Posted in BLOG , Session Weekly Updates Post navigation Previous Post Previous post: SESSION WEEK SEVEN Next Post Next post: SESSION WEEK NINE Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

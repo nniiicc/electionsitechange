@@ -1,18 +1,1 @@
-David Rutigliano
-Issues
-In The News
-Donate
-Contact
-Rep Rutigliano
-Facebook
-Donate to Campaign
-Campaign Video
-David Rutigliano
-Issues
-In The News
-Donate
-Contact
-Rep Rutigliano
-Facebook
-Donate to Campaign
-Campaign Video
+David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video David Rutigliano Issues In The News Donate Contact Rep Rutigliano Facebook Donate to Campaign Campaign Video

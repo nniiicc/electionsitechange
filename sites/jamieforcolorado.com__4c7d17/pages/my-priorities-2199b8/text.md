@@ -1,36 +1,11 @@
-POLICY PRIORITIES
-Mental Health & Substance Use Treatment
-Colorado’s behavioral health system must meet people where they are, early, affordably, and without stigma, so no one is denied care because of cost, age, or circumstance.
+top of page Meet Jamie Endorsements Record Policy Priorities In the Community Get Involved More Use tab to navigate through the menu items.
+Donate POLICY PRIORITIES Mental Health & Substance Use Treatment Colorado’s behavioral health system must meet people where they are, early, affordably, and without stigma, so no one is denied care because of cost, age, or circumstance.
 My legislative work focuses on expanding access to prevention, treatment, and recovery services for people across the lifespan, from youth to older adults, with a particular emphasis on communities that have been historically underserved.
 I have led and passed legislation to expand overdose prevention education and naloxone access in schools and public spaces, recognizing that timely, accessible treatment saves lives.
 I continue to advance policies that integrate mental health and substance use treatment into community settings, strengthen crisis response, and ensure care is treated as essential healthcare, not a privilege reserved for those with resources.
-Selected Legislative Work
-- Expanded opioid overdose prevention education and naloxone access in Colorado schools
-- Increased access to naloxone in public and emergency settings
-- Ongoing work to strengthen community-based behavioral health responses
-Affordability & Economic Opportunity
-Affordability is about more than the cost of living, it’s about whether people earn enough to live with dignity.
-I am committed to policies that strengthen wages, protect workers, and support unions so families can build long-term stability, not just get by.
-My work centers on economic fairness, workforce protections, and policies that create opportunity across generations.
-As Colorado faces rising costs and economic uncertainty, I am focused on ensuring working people are not left carrying the burden while corporations and systems avoid accountability.
-Selected Legislative Focus
-- Support for fair labor standards and worker protections
-- Advocacy for policies that strengthen unions and collective bargaining
-- Consumer protections that guard families against rising costs and exploitation
-Criminal & Juvenile Justice Reform
-A justice system that works is one that prioritizes prevention, accountability, and rehabilitation.
-I advocate for reforms that reduce recidivism, address underlying behavioral health needs, and improve public safety while treating people with dignity.
-Drawing on professional experience in the justice system and legislative leadership, I have advanced policies that expand diversion options, improve reentry outcomes, and ensure individuals are not trapped in cycles of incarceration due to untreated mental health or substance use needs.
-Selected Legislative Work
-- Expansion of diversion and alternatives to incarceration
-- Behavioral health-informed justice system reforms
-- Policies supporting successful reentry and community stability
-Dignity, Safety & Opportunity for Older Adults
-Colorado’s aging population deserves policies that reflect respect, protection, and inclusion.
-I am focused on safeguarding older adults from financial exploitation, expanding access to affordable healthcare and long-term care, and modernizing systems so seniors can remain independent and connected.
-My work recognizes that protecting older adults also strengthens families and communities.
-From consumer protections to healthcare access, I am committed to ensuring Coloradans can age with dignity and security.
-Selected Legislative Focus
-- Strengthening protections against financial exploitation
-- Expanding access to affordable healthcare and long-term care
-- Policies that support caregivers and promote healthy aging
+Selected Legislative Work Expanded opioid overdose prevention education and naloxone access in Colorado schools Increased access to naloxone in public and emergency settings Ongoing work to strengthen community-based behavioral health responses Affordability & Economic Opportunity Affordability is about more than the cost of living, it’s about whether people earn enough to live with dignity.
+I am committed to policies that strengthen wages, protect workers, and support unions so families can build long-term stability, not just get by. ​ My work centers on economic fairness, workforce protections, and policies that create opportunity across generations.
+As Colorado faces rising costs and economic uncertainty, I am focused on ensuring working people are not left carrying the burden while corporations and systems avoid accountability. ​ Selected Legislative Focus​ Support for fair labor standards and worker protections Advocacy for policies that strengthen unions and collective bargaining Consumer protections that guard families against rising costs and exploitation Criminal & Juvenile Justice Reform A justice system that works is one that prioritizes prevention, accountability, and rehabilitation.
+I advocate for reforms that reduce recidivism, address underlying behavioral health needs, and improve public safety while treating people with dignity. ​ Drawing on professional experience in the justice system and legislative leadership, I have advanced policies that expand diversion options, improve reentry outcomes, and ensure individuals are not trapped in cycles of incarceration due to untreated mental health or substance use needs. ​ Selected Legislative Work Expansion of diversion and alternatives to incarceration Behavioral health-informed justice system reforms Policies supporting successful reentry and community stability Dignity, Safety & Opportunity for Older Adults Colorado’s aging population deserves policies that reflect respect, protection, and inclusion.
+I am focused on safeguarding older adults from financial exploitation, expanding access to affordable healthcare and long-term care, and modernizing systems so seniors can remain independent and connected. ​ My work recognizes that protecting older adults also strengthens families and communities.
+From consumer protections to healthcare access, I am committed to ensuring Coloradans can age with dignity and security. ​ Selected Legislative Focus Strengthening protections against financial exploitation Expanding access to affordable healthcare and long-term care Policies that support caregivers and promote healthy aging Paid for by Jamie For Colorado Jamie Jackson Registered Agent Meet Jamie Endorsements Record Policy Priorities In the Community Get Involved Privacy Policy © # Mail jamieforcolorado@gmail.com Donate bottom of page

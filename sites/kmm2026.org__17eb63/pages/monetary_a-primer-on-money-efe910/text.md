@@ -1,102 +1,47 @@
-A PRIMER ON MONEY
-SUBCOMMITTEE ON DOMESTIC FINANCE
-COMMITTEE ON BANKING AND CURRENCY
-HOUSE OF REPRESENTATIVES
-88th Congress, 2d Session
-AUGUST 5, 1964
-[SUBCOMMITTEE PRINT]
-(Contents)
-A Primer on Money.pdf
-Printed for use of the Committee on Banking and Currency
-44-985 O
-U.S.
-GOVERNMENT PRINTING OFFICE
-WASHINGTON: 1964
-COMMITTEE ON BANKING AND CURRENCY
-WRIGHT PATMAN, Texas, Chairman
-| ALBERT RAINS, Alabama | CLARENCE E.
-KILBURN, New York | |
-| ABRAHAM J.
-MULTER, New York | WILLIAM B.
-WIDNALL, New Jersey | |
-| WILLIAM A.
-BARRETT, Pennsylvania | EUGENE SILER, Kentucky | |
-| LEONOR K.
-SULLIVAN, Missouri | PAUL A.
-FINO, New York | |
-| HENRY S.
-REUSS, Wisconsin | FLORENCE P.
-DWYER, New Jersey | |
-| THOMAS L.
-ASHLEY, Ohio | SEYMOUR HALPERN, New York | |
-| CHARLES A.
-VANIK, Ohio | JAMES HARVEY, Michigan | |
-| WILLIAM S.
-MOORHEAD, Pennsylvania | OLIVER P.
-BOLTON, Ohio | |
-| ROBERT G.
-STEPHENS, Jr., Georgia | W.
+A Texan in the 21st Century { Kevin McCormick for Lieutenent Governor; this website is political advertising } Home Campaign-2026 Issues-2026 Transportation Monetary MR-Blog About 2016 Campaign You are here: Home Monetary A Primer on Money A Primer on Money Details A PRIMER ON MONEY SUBCOMMITTEE ON DOMESTIC FINANCE COMMITTEE ON BANKING AND CURRENCY HOUSE OF REPRESENTATIVES 88th Congress, 2d Session AUGUST 5, 1964 [SUBCOMMITTEE PRINT] (Contents) A Primer on Money.pdf Printed for use of the Committee on Banking and Currency 44-985 O U.S.
+GOVERNMENT PRINTING OFFICE WASHINGTON: 1964 COMMITTEE ON BANKING AND CURRENCY WRIGHT PATMAN, Texas, Chairman ALBERT RAINS, Alabama CLARENCE E.
+KILBURN, New York ABRAHAM J.
+MULTER, New York WILLIAM B.
+WIDNALL, New Jersey WILLIAM A.
+BARRETT, Pennsylvania EUGENE SILER, Kentucky LEONOR K.
+SULLIVAN, Missouri PAUL A.
+FINO, New York HENRY S.
+REUSS, Wisconsin FLORENCE P.
+DWYER, New Jersey THOMAS L.
+ASHLEY, Ohio SEYMOUR HALPERN, New York CHARLES A.
+VANIK, Ohio JAMES HARVEY, Michigan WILLIAM S.
+MOORHEAD, Pennsylvania OLIVER P.
+BOLTON, Ohio ROBERT G.
+STEPHENS, Jr., Georgia W.
 E.
-(BILL) BROCK, Tennessee | |
-| FERNAND J.
-ST GERMAIN, Rhode Island | ROBERT TAFT, Jr., Ohio | |
-| HENRY B.
-GONZALEZ, Texas | JOSEPH M.
-McDADE, Pennsylvania | |
-| CLAUDE PEPPER, Florida | SHERMAN P.
-LLOYD, Utah | |
-| JOSEPH G.
-MINISH, New Jersey | BURT L.
-TALCOTT, California | |
-| CHARLES L.
-WELTNER, Georgia | DEL CLAWS0N, California | |
-| RICHARD T.
-HANNA, California | | |
-| BERNARD F.
-GRABOWSKI, Connecticut | | |
-| CHARLES H.
-WILSON, California | | |
-| COMPTON L WHITE, Ja., Idaho | | |
-| John R.
-Stark, Clerk and Staff Director | | |
-| John E.
-Barriere, Professional Staff Member | | |
-| Alvin Lee Morse, Counsel | | |
-| Obhan 8.
-Fink, Minority Staff Member | | |
-Subcommittee on Domestic Finance
-WRIGHT PATMAN, Texas, Chairman
-| HENRY S.
-REUSS, Wisconsin | WILLIAM B.
-WIDNALL, New Jersey |
-| CHARLES A.
-VANIK, Ohio | JAMBS HARVEY, Michigan |
-| CLAUDE PEPPER, Florida | OLIVER P.
-BOLTON, Ohio |
-| JOSEPH G.
-MINISH, New Jersey | W.
+(BILL) BROCK, Tennessee FERNAND J.
+ST GERMAIN, Rhode Island ROBERT TAFT, Jr., Ohio HENRY B.
+GONZALEZ, Texas JOSEPH M.
+McDADE, Pennsylvania CLAUDE PEPPER, Florida SHERMAN P.
+LLOYD, Utah JOSEPH G.
+MINISH, New Jersey BURT L.
+TALCOTT, California CHARLES L.
+WELTNER, Georgia DEL CLAWS0N, California RICHARD T.
+HANNA, California BERNARD F.
+GRABOWSKI, Connecticut CHARLES H.
+WILSON, California COMPTON L WHITE, Ja., Idaho John R.
+Stark, Clerk and Staff Director John E.
+Barriere, Professional Staff Member Alvin Lee Morse, Counsel Obhan 8.
+Fink, Minority Staff Member Subcommittee on Domestic Finance WRIGHT PATMAN, Texas, Chairman HENRY S.
+REUSS, Wisconsin WILLIAM B.
+WIDNALL, New Jersey CHARLES A.
+VANIK, Ohio JAMBS HARVEY, Michigan CLAUDE PEPPER, Florida OLIVER P.
+BOLTON, Ohio JOSEPH G.
+MINISH, New Jersey W.
 E.
-(BILL) BROCK, Tennessee |
-| CHARLES L.
-WELTNER, Georgia | ROBERT TAFT, JR., Ohio |
-| RICHARD T.
-HANNA, California | |
-| CHARLES H.
-WILSON, California | |
-| Rosebt E.
-Weintraub, Senior Economist | |
-| Robert A, Schremp, Investigator | |
-| Harvey W.
-Geist, Investigator | |
-| Stephen D.
-Kennedy, Research Assistant | |
-LETTER OF TRANSMITTAL ^
-House of Representatives,
-Subcommittee on Domestic Finance
-of the Committee on Banking and Currency,
-Washington, D.C., July 30, 1964.
-To Members of the Subcommittee on Domestic Finance:
-Transmitted herewith for the use of the Subcommittee on Domestic Finance of the Banking and Currency Committee is a "Primer on Money," which explains in simple, everyday language how our monetary system works and indicates where it needs reform.
+(BILL) BROCK, Tennessee CHARLES L.
+WELTNER, Georgia ROBERT TAFT, JR., Ohio RICHARD T.
+HANNA, California CHARLES H.
+WILSON, California Rosebt E.
+Weintraub, Senior Economist Robert A, Schremp, Investigator Harvey W.
+Geist, Investigator Stephen D.
+Kennedy, Research Assistant LETTER OF TRANSMITTAL ^ House of Representatives, Subcommittee on Domestic Finance of the Committee on Banking and Currency, Washington, D.C., July 30, 1964.
+To Members of the Subcommittee on Domestic Finance: Transmitted herewith for the use of the Subcommittee on Domestic Finance of the Banking and Currency Committee is a "Primer on Money," which explains in simple, everyday language how our monetary system works and indicates where it needs reform.
 For a great many years I have been concerned with the need for more popular information on this very important subject, and, as time permitted over the years, this publication emerged from the notes which I have kept.
 Involvement with the Federal efforts to get this country out of the depression in the thirties and with the tremendous war financing problems of the forties as well as my sponsorship of the Employment Act of 1946 has brought home to me the great importance of an adequate and widespread public understanding of money and banking.
 While responsible for preparation of the primer, I am indebted to many colleagues throughout the years and to members of the Banking and Currency Committee staff for their valuable suggestions.
@@ -104,17 +49,14 @@ At the same time, I wish to express my gratitude to a great scholar, Dr.
 Seymour Harris of Harvard University, whose encouraging sentiments appear immediately following.
 It is a source of deep gratification to me that the majority members of the subcommittee voted unanimously to have this primer printed as a subcommittee print, the number representing a majority of the committee.
 Wright Patman, Chairman.
-THE PATMAN CRUSADE ^
-By Seymour E.
-Harris, Littauer professor of political economy, Harvard University (emeritus)
-Congressman Patman’s "Primer on Money" is a reminder of the unique service which the Congressman has given the American people in the last 40 years.
+THE PATMAN CRUSADE ^ By Seymour E.
+Harris, Littauer professor of political economy, Harvard University (emeritus) Congressman Patman’s "Primer on Money" is a reminder of the unique service which the Congressman has given the American people in the last 40 years.
 No one has defended the interest of the people more vigorously, more persistently, and more courageously against those who have assumed the responsibility of determining how much money there is to be, at what price, and who is to get it.
 In the primer one will find a thoughtful elementary discussion of monetary policy and the relation of monetary to other facets of policy.
 But the primer contains, also, the Congressman’s views on the most controversial issues of the day.
 Here, for example, one will find a view well defended and needing to be presented, that the Constitution gives to the Congress, and not to the Federal Reserve or the commercial banks, the power to create money and determine the value thereof.
 There is more than an implication that the Congress has surrendered its prerogatives too easily.
-Patman also reminds us that President Wilson, when confronted with a de mand that bankers join in the control of the monetary machinery, made the classic remark: "Which one of you gentle men would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?"
-In view of President Wilson’s philosophy underlying the new System, it is a matter of concern to Congressman Patman that the major policy decisions are now made by an Open Market Committee, with 5 of its 12 members presidents of the Reserve banks, 6 of the 9 directors of each bank being elected by the commercial bankers.
+Patman also reminds us that President Wilson, when confronted with a de mand that bankers join in the control of the monetary machinery, made the classic remark: "Which one of you gentle men would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?" In view of President Wilson’s philosophy underlying the new System, it is a matter of concern to Congressman Patman that the major policy decisions are now made by an Open Market Committee, with 5 of its 12 members presidents of the Reserve banks, 6 of the 9 directors of each bank being elected by the commercial bankers.
 I strongly support his proposal that the presidents of the Reserve banks should not be members of the Open Market Committee.
 The present powers of the Open Market Committee and the membership structure are rightly a matter of concern to the Congressman.
 Too much power resides in those who are the beneficiaries of the policies.
@@ -126,38 +68,20 @@ He shows that the Board has no inherent right to move independently of the Gover
 The Federal Reserve System operates all too often in favor of high money rates which are not justified.
 Not that Patman wants inflationary policies; but the Fed often seeks higher rates than are supportable by the needs of the economy.
 And Patman can single out many periods when dear money contributed to excessive unemployment.
-He is as aware of the relation of high money rates to inadequacy of investment as was Keynes in his famous "Treatise on Money."
-Hence I can only salute the Congressman from Texas.
+He is as aware of the relation of high money rates to inadequacy of investment as was Keynes in his famous "Treatise on Money." Hence I can only salute the Congressman from Texas.
 He keeps the finance men on their toes.
 If he sometimes exaggerates the evils and mistakes, it is only because, like all innovators, he recognizes that a little exaggeration is an ingredient for putting a new position over, and especially when the opponents are powerful, numerous, and well organized, and often do not distinguish the financial from the general interest.
-| CONTENTS | |
-|---|---|
-| | Page |
-| Letter of transmittal | III |
-| "The Patman Crusade," by Prof.
+CONTENTS Page Letter of transmittal III "The Patman Crusade," by Prof.
 Seymour E.
-Harris, Harvard University. | v |
-| Introduction | 1 |
-| Chapter I: Money and Society | 7 |
-| Chapter II: What Is Money? | 13 |
-| Chapter III: How Is Money Created? | 27 |
-| Chapter IV: Why Was the Federal Reserve Act Passed? | 51 |
-| Chapter V: Who Determines the Money Supply? | 65 |
-| Chapter VI: Who Owns the Federal Reserve Banks? | 77 |
-| Chapter VII: Why Was the Federal Deposit Insurance Act Passed? | 83 |
-| Chapter VIII: How the Federal Reserve Gives Away Public Funds to the Private Banks | 89 |
-| Chapter IX: What Is Monetary Policy? | 97 |
-| Chapter X: What Improvements Are Needed in the Money System? | 119 |
-| THE FEDERAL RESERVE AND INDEPENDENCE | 119 |
-| NEEDED FEDERAL RESERVE REFORMS | 129 |
-| PROPOSALS FOR IMPROVEMENT | 130 |
-| NEEDED FDIC REFORMS | 133 |
-| NEEDED TREASURY REFORMS | 133 |
-| OBJECT OF PROPOSED REFORMS | 134 |
-| Index | 137 |
-→
-INTRODUCTION
-1.
+Harris, Harvard University. v Introduction 1 Chapter I : Money and Society 7 Chapter II : What Is Money?
+13 Chapter III : How Is Money Created?
+27 Chapter IV : Why Was the Federal Reserve Act Passed?
+51 Chapter V : Who Determines the Money Supply?
+65 Chapter VI : Who Owns the Federal Reserve Banks?
+77 Chapter VII : Why Was the Federal Deposit Insurance Act Passed?
+83 Chapter VIII : How the Federal Reserve Gives Away Public Funds to the Private Banks 89 Chapter IX : What Is Monetary Policy?
+97 Chapter X : What Improvements Are Needed in the Money System?
+119 THE FEDERAL RESERVE AND INDEPENDENCE 119 NEEDED FEDERAL RESERVE REFORMS 129 PROPOSALS FOR IMPROVEMENT 130 NEEDED FDIC REFORMS 133 NEEDED TREASURY REFORMS 133 OBJECT OF PROPOSED REFORMS 134 Index 137 → INTRODUCTION 1.
 Most people, when asked about money, will say that all they know about money is that they don’t have enough.
 This is unfortunate.
 Money is a manufactured item.
@@ -192,8 +116,7 @@ They have become less and less interested in extending credit to the local busin
 They have been reaching out and using their money-creating power to purchase long-term U.S.
 Government and tax-free municipal bonds.
 The Government, with its credit rating, doesn’t need their money; their local areas do.
-But purchasing Government and municipal bonds is profitable and requires almost no time or paperwork.
-→ Bankers, like other people, can forget their duties and look at their activity purely from their own, narrow viewpoint — the level of bank earnings.
+But purchasing Government and municipal bonds is profitable and requires almost no time or paperwork. → Bankers, like other people, can forget their duties and look at their activity purely from their own, narrow viewpoint — the level of bank earnings.
 When they do, their obligation to help the people of their area with expanded credit is shunted aside, they are no longer operating in the public interest.
 7.
 Originally, there was a residence qualification for bank directors.
@@ -285,8 +208,7 @@ It means that decisions absolutely crucial to the public interest are arrived at
 When the original Federal Reserve Act was being shaped in 1913, President Woodrow Wilson was aware of this conflict of interest.
 He refused to allow private bankers on any board that would have the power to fix interest rates or determine the money supply.
 When some prominent New York bankers asked for representation on the proposed Federal Reserve Board, Mr.
-Wilson asked, "Which one of you gentlemen would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?"
-But institutions evolve.
+Wilson asked, "Which one of you gentlemen would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?" But institutions evolve.
 By 1934 and 1935, with Congress totally preoccupied by the cares of the great depression, new laws were passed essentially setting up the Federal Reserve System as it is today: a powerful central bank, as opposed to a conglomeration of regional banks, with a strong private banking voice on the decisionmaking Open Market Committee.
 14.
 The Open Market Committee, as presently established, is plainly not in the public interest.
@@ -313,11 +235,7 @@ The Nation’s monetary system cannot be governed by or for the private interest
 There is no room in these criticisms for anything that smacks of unsound money.
 Neither inflation nor deflation is wanted.
 What is wanted is prosperity and high employment under the terms of the Full Employment Act.
-Our banking system, possessing the great monetary power of the United States, must serve that end.
-→
-CHAPTER I
-MONEY AND SOCIETY ^
-What is money?
+Our banking system, possessing the great monetary power of the United States, must serve that end. → CHAPTER I MONEY AND SOCIETY ^ What is money?
 Where does money come from?
 How is it created?
 By whom and for what purpose is money created?
@@ -434,7 +352,7 @@ Looking at this menu of necessities for tight money, the question has to be aske
 For tight money always costs, sometimes more than others.
 In general, the sustained high interest policy of the past decade does not pass the test.
 There were only two occasions when it could possibly be claimed that the economy reached those boom levels where tight money could operate with the least harmful side effects.
-There were a → period during the Korean war and, perhaps, some parts of 1956.
+There were a → period during the Korean war and, perhaps , some parts of 1956.
 But even if tight money was the best way to deal with these periods, they passed, but high interest rates remained.
 Otherwise there is little to be said for the high interest deadweight the economy has been dragging along.
 As a means of "fighting inflation" tight money is like using a cannon to kill a fly.
@@ -495,18 +413,8 @@ It is pointless to argue about whether the Soviets will actually catch and surpa
 The point is that we are in a race that we most certainly do not want to lose, either 20 years from now, or 25 years from now, or ever.
 Certainly then, there are good reasons why we should question the wisdom of our Government’s following a high interest policy when, as has been shown, one of its effects is to slow down our rate of economic growth.
 In any case, in a democracy such as ours it is important that the general public know how its Government functions and who makes the decisions to fallow one policy rather than another.
-The purpose of this book is to explain what money is and how it is created, how the money supply is controlled, and how interest rates are determined.
-→
-CHAPTER II
-WHAT IS MONEY? ^
-Over the long span of human history, money has assumed many forms and shapes.
-Different societies, at different times, have been willing to exchange goods or services for:
-| Seashells | Bricks | Beaver pelts |
-| Whale’s teeth | Coconuts | Blankets |
-| Boar’s tusks | Cocoa beans | Bronze axes |
-| Stones | Iron rings | Wheels |
-| Feathers | Salt | |
-In some of the South Pacific islands, great stone wheels served as money.
+The purpose of this book is to explain what money is and how it is created, how the money supply is controlled, and how interest rates are determined. → CHAPTER II WHAT IS MONEY? ^ Over the long span of human history, money has assumed many forms and shapes.
+Different societies, at different times, have been willing to exchange goods or services for: Seashells Bricks Beaver pelts Whale’s teeth Coconuts Blankets Boar’s tusks Cocoa beans Bronze axes Stones Iron rings Wheels Feathers Salt In some of the South Pacific islands, great stone wheels served as money.
 Someone has said that those were the days when the men handled all the money.
 It took muscle to move a huge stone wheel.
 In ancient Greece oxen were money; one ox was the basic money unit.
@@ -515,16 +423,14 @@ In ancient Rome different things circulated as money.
 When the emperors were firmly established, they issued coins of gold and silver, and, throughout the Empire their subjects used them.
 In addition, the Romans used pieces of bronze and copper that were not made into coins; Roman merchants had to weigh and test each piece every time they made a sale or purchase.
 In the early days of the Empire, however, Caesar paid his legionnaires in cakes of salt, not metal, and the Roman emperors did this again, in the later days of the Empire, when they began to run out of metal.
-This custom may be the origin of the saying that a person is — or is not — "worth his salt."
-The point is this: Any number of different materials — including paper I O U’s — may serve as money.
+This custom may be the origin of the saying that a person is — or is not — "worth his salt." The point is this: Any number of different materials — including paper I O U’s — may serve as money.
 How money functions, and what money represents, are the important aspects of money.
 What material the money is made of is not an important aspect at all.
 In any society, people may use as money anything they wish, provided that they agree with other people throughout the society that the material they are using has the same meaning for all of them.
 The question, "What is money?" can be answered briefly: Money is anything that people will accept in exchange for goods or services, in the belief that they may in turn exchange it, now or later, for other goods or services.
 Later, this book will discuss the various functions of money.
 Further, it will discuss the reasons why the kind of monetary system we have, and the ways in which it is managed, have profound effects on the amount of real wealth produced and distributed among different families in the country.
-Here, it is enough to say that an efficient, up-to-date monetary system, properly managed, is essential to a modern, industrial economy.
-→ What did Americans use for money in earlier times?
+Here, it is enough to say that an efficient, up-to-date monetary system, properly managed, is essential to a modern, industrial economy. → What did Americans use for money in earlier times?
 In colonial times, the earliest settlers used "wampum" more than anything else for money.
 Wampum consisted of clamshells strung like beads; the settlers considered these beads very valuable, even though it may seem surprising to us that, in our own society, people could have considered clamshells valuable as money.
 In fact, it must have been surprising to them, too, for these settlers had come from western Europe where they had used and placed their faith in gold and silver, or claims to gold and silver.
@@ -568,8 +474,7 @@ When people now say that something is "not worth a Continental," they mean exact
 The "Continental" became worthless, however, not only because there were shortages of commodities, but also because it was easy to counterfeit, and the British did exactly that.
 Further, the Continental Congress actually had neither the power to declare what could be used to pay debts, nor the power to tax.
 Both of these powers remained with the individual States, until the Constitution was adopted.
-And the States refused to make good the Continental money.
-→ What has been used for money since the end of the Revolutionary War?
+And the States refused to make good the Continental money. → What has been used for money since the end of the Revolutionary War?
 With independence from England established, with the creation of the United States of America as a Nation under its own sovereign rule, and with the adoption of the Constitution as the law of the land, the American people were free also to create their own money system.
 They could now coin or print money as they saw fit — that is, they could permit their Government to do it for them.
 But, even after the new Government coined metals and printed paper currency, to some extent, Americans continued to use other things as money, even though they were not lawful tender.
@@ -588,8 +493,7 @@ The State bank notes disappeared shortly after the Government passed the Nationa
 This act, passed at the request of President Lincoln, provided for a system of private banks which were to receive their charters from the Federal Government and operate under Federal Government regulation.
 The Federal Government authorized the new national banks to issue national bank notes, also under prescribed rules and regulations.
 In addition, in 1865 the Government imposed a 10-percent tax on notes issued by State banks which, for all practical purposes, made it impossible for them to issue notes any longer.
-At that time, President Lincoln said:
-Money is the creature of law, and the creation of the original issue of money should be maintained as an exclusive monopoly of the National Government. * * * The privilege of creating and issuing money is not only the supreme prerogative of the Government, it is the Government's greatest opportunity.
+At that time, President Lincoln said: Money is the creature of law, and the creation of the original issue of money should be maintained as an exclusive monopoly of the National Government. * * * The privilege of creating and issuing money is not only the supreme prerogative of the Government, it is the Government's greatest opportunity.
 Why did the Federal Government pass the National Bank Act?
 The Federal Government intervened in the printing of currency by private banks because this had begun to cause the Nation a great deal of trouble.
 The United States was rapidly becoming industrialized; trade, once largely local, was fast growing nationwide in scope.
@@ -618,12 +522,7 @@ The purchasing power in a savings account cannot be transferred by check.
 At the time the Constitution was adopted, bank checks were almost unknown.
 By 1850, about half of the Nation’s money was in the form of bank deposits.
 Today, about 80 percent of all money is in the form of commercial bank deposits.
-Currency and coin in circulation outside the Treasury, Federal Reserve System, and commercial banks, and deposits in commercial banks were as follows in the final week of February 1964:
-| | Millions |
-| Currency and coin | $32,000 |
-| Demand deposits in commercial banks | 119,700 |
-| Total | 131.900 |
-→ What is "legal tender"?
+Currency and coin in circulation outside the Treasury, Federal Reserve System, and commercial banks, and deposits in commercial banks were as follows in the final week of February 1964: Millions Currency and coin $32,000 Demand deposits in commercial banks 119,700 Total 131.900 → What is "legal tender"?
 Legal tender is any form of money which the U.S.
 Government declares to be legal tender; that is, good for payment of taxes and both public and private debts.
 Why is our money valuable?
@@ -650,16 +549,8 @@ The Treasury, however, issues coins through the Federal Reserve banks.
 What is currency?
 Currency is the paper money, or folding money, $1 bills, $5 bills, $10 bills, and the higher denominations.
 Americans use several different forms of currency today, although few of us notice any difference between them, and in practice, all forms of currency have the same value.
-At the end of February 1964, the amounts of each kind of currency, "paper" money, in circulation were as follows:
-| Federal Reserve notes | $31,107,000,000 |
-| Silver certificates and Treasury notes of 1890 | 1,718,000,000 |
-| U.S. notes | 312,000,000 |
-| Federal Reserve bank notes | 75,000,000 |
-| National bank notes | 37,000,000 |
-| Total | 33,249,000,000 |
-The Government no longer issues Federal Reserve bank notes and national bank notes.
-When these obsolete notes are turned into the banks, the Government replaces them by one of the other notes or silver certificates, and it then destroys these old notes.
-→ Who issues currency?
+At the end of February 1964, the amounts of each kind of currency, "paper" money, in circulation were as follows: Federal Reserve notes $31,107,000,000 Silver certificates and Treasury notes of 1890 1,718,000,000 U.S. notes 312,000,000 Federal Reserve bank notes 75,000,000 National bank notes 37,000,000 Total 33,249,000,000 The Government no longer issues Federal Reserve bank notes and national bank notes.
+When these obsolete notes are turned into the banks, the Government replaces them by one of the other notes or silver certificates, and it then destroys these old notes. → Who issues currency?
 In the United States only the Federal Government may print currency.
 Specifically, the Federal Reserve banks issue Federal Reserve notes.
 As the table indicates, about 94 percent of all currency in circulation consists of Federal Reserve notes.
@@ -696,8 +587,7 @@ In making the loan to Mr.
 Jones, the bank did not reduce anyone’s previous bank balance.
 It simply credited the Jones account with $50.
 The total amount held in bank demand deposits now becomes $150.
-The bank has, therefore, issued $50 in "checkbook money."
-→ The natural question to ask is, Where does the bank get the additional $50 to issue and lend to Mr.
+The bank has, therefore, issued $50 in "checkbook money." → The natural question to ask is, Where does the bank get the additional $50 to issue and lend to Mr.
 Jones?
 The answer, as will become clear in the next chapter, is that the bank did not "get" the money at all.
 Money has been created.
@@ -710,25 +600,20 @@ They now create more of this kind of money than before the Government passed the
 This act merely stopped the State banks from printing and issuing currency.
 Who should have the power to create money?
 The power to create money is an inherent power of Government.
-As President Lincoln said:
-The privilege of creating and issuing money is not only the supreme prerogative of the Government, it is the Government’s greatest opportunity.
+As President Lincoln said: The privilege of creating and issuing money is not only the supreme prerogative of the Government, it is the Government’s greatest opportunity.
 During the past several centuries, various governments in the Western World have, at various times, delegated the money-creating power to private groups or had this power taken from them by default.
 In these situations, control of the Nation’s affairs has been not so much in the hands of the official head of state, but in the hands of the private groups controlling the money system.
-A famous British banker once summed up the matter this way:
-They who control the credit of the nation direct the policy of governments, and hold in their hands the destiny of the people.
-(Reginald McKenna, Chancellor of the Exchequer in Britain during the World War I period.)
-As we look over human history, we find that the tribal chief, the king, the pharaoh, or the emperor has usually had direct or indirect control of the society’s money.
+A famous British banker once summed up the matter this way: They who control the credit of the nation direct the policy of governments, and hold in their hands the destiny of the people.
+(Reginald McKenna, Chancellor of the Exchequer in Britain during the World War I period.) As we look over human history, we find that the tribal chief, the king, the pharaoh, or the emperor has usually had direct or indirect control of the society’s money.
 In the modern, constitutional governments, one or another branch of the government is given responsibility for establishing and managing the money system.
 In the United States, the Constitution gives these powders to the Congress.
 Does the Constitution, which mentions only the power to "coin" money, give Congress sole power over all money?
 Yes.
 Article 1, section 8, paragraph 5, of the Constitution provides that "the Congress shall have power to coin money, regulate the value thereof, and of foreign coin." It is generally agreed that only the word "coin" was used because there were no banks of issue in the country at the time the Constitution was written, and the Founding Fathers assumed that coins would always meet the needs for lawful money.
-Over the past century and a half, many questions about Congress powers over the Nation’s money system have arisen, and the Supreme Court has upheld the proposition that "whatever power there is over the currency is vested in the Congress."
-→ In McCulloch v.
+Over the past century and a half, many questions about Congress powers over the Nation’s money system have arisen, and the Supreme Court has upheld the proposition that "whatever power there is over the currency is vested in the Congress." → In McCulloch v.
 Maryland in 1819, the Supreme Court held that Congress has a right to establish the first "Bank of the United States," to give it powers to issue currency, and that the States could not levy a tax on such an instrumentality of the Federal Government.
-Years later the Supreme Court held, again, that Congress has the power to charter national banks and also the power to tax the notes issued by State banks —
-not merely because it was a means of raising revenue, but as an instrument to put out of existence such a circulation in competition with notes issued by the Government. 1
-In the famous legal tender cases decided in the 1870’s, the Supreme Court held that the Congress has the power to determine what shall be "legal tender," to make currency (that is, U.S. notes) legal tender, even though in so doing Congress overturned private contracts which had been entered into before the law was passed.
+Years later the Supreme Court held, again, that Congress has the power to charter national banks and also the power to tax the notes issued by State banks — not merely because it was a means of raising revenue, but as an instrument to put out of existence such a circulation in competition with notes issued by the Government.
+1 In the famous legal tender cases decided in the 1870’s, the Supreme Court held that the Congress has the power to determine what shall be "legal tender," to make currency (that is, U.S. notes) legal tender, even though in so doing Congress overturned private contracts which had been entered into before the law was passed.
 In short, after Congress passed the Legal Tender Act, creditors were required to accept paper money (U.S. notes) in settlement of debts for which there were contracts calling for payment in gold.
 Finally, in the famous gold clause cases 2 of the 1930’s, the Supreme Court held that Congress has powers to change the gold value of money and to call the Nation’s monetary gold into the U.S.
 Treasury and to prohibit the circulation of gold money.
@@ -739,8 +624,7 @@ What "backs" the dollar?
 As mentioned earlier, from one point of view gold can be considered as "backing" the dollar.
 Certain foreign banks may exchange their dollar holdings for gold, whenever they desire.
 If, then, in our commerce with other nations, foreigners receive dollars, they know that ultimately these dollars are backed by gold through the exchange rights of the designated foreign banks.
-(These foreign banks are "central" banks — a term which will be discussed in a later chapter.)
-But from a much more basic point of view, the dollar is backed by the credit of the U.S.
+(These foreign banks are "central" banks — a term which will be discussed in a later chapter.) But from a much more basic point of view, the dollar is backed by the credit of the U.S.
 Government, and, accordingly, by the credit and assets of all its citizens.
 There is no mystery about this.
 Most of the U.S. money in existence — currency, coin, and demand deposits — belongs to citizens of the United States.
@@ -749,9 +633,7 @@ They can exchange them only for other dollars.
 Yet, as the Federal Reserve notes show, these dollars are obligations of the U.S.
 Government.
 The Government promises to pay.
-It has placed its credit behind the dollar.
-→ Does money need to be "backed" by some specific commodity"
-Because of the long experience of people in the Western World with money "backed" by a specific commodity, such as gold or silver, many people feel that money is good only if it can be exchanged for a given quantity of some specific commodity, usually a precious metal.
+It has placed its credit behind the dollar. → Does money need to be "backed" by some specific commodity" Because of the long experience of people in the Western World with money "backed" by a specific commodity, such as gold or silver, many people feel that money is good only if it can be exchanged for a given quantity of some specific commodity, usually a precious metal.
 The fact that a dollar can be exchanged for many types of commodities, including gold in commercial forms, as well as for housing, professional services, and labor, does not always cure their uneasiness.
 Yet almost anyone who found a gold nugget, or somehow came into legal possession of gold bullion, would sell it.
 That is to say, he would exchange it for dollars because he could spend or invest the dollars, but not the gold.
@@ -766,8 +648,7 @@ There was never enough gold in the country at any time to supply gold in exchang
 For example, when the Federal Reserve was organized in 1914, commercial bank deposits and currency in circulation amounted to $20 billion, but there was only $1.6 billion of monetary gold in the country.
 In other words, the amount of money in existence was about 12 times the amount of gold in the country.
 A similar proportion holds today.
-(In December 1963, the money totaled $157.4 billion and the Treasury’s gold was $15.6 billion.)
-Why does the 1934 law make it impossible for U.S. citizens to demand gold in exchange for their dollars?
+(In December 1963, the money totaled $157.4 billion and the Treasury’s gold was $15.6 billion.) Why does the 1934 law make it impossible for U.S. citizens to demand gold in exchange for their dollars?
 This law gives us a better money system because it has made the money system easier to manage.
 In the United States, gold is not needed to carry on our economic activities.
 Legal tender money, that is, the paper dollar, will buy anything that gold bullion could buy, and more.
@@ -776,8 +657,7 @@ Has the United States actually gone off the gold standard?
 Yes; except in its international transactions.
 The "gold standard" usually means that people may exchange their paper money for gold whenever they desire.
 Today, the dollar can be exchanged for gold only in international transactions, although we still define the dollar in terms of gold.
-In other words, when we owe foreigners money, they may collect it either in gold or in goods or services.
-→ Did "going off the gold standard" change the basis of our money?
+In other words, when we owe foreigners money, they may collect it either in gold or in goods or services. → Did "going off the gold standard" change the basis of our money?
 In reality, no.
 The action which Congress took in 1934 merely formalized what had been true all along, which is this: Checkbook money, which, as we have seen, accounts for about 80 percent of our money, was created on the basis of all kinds of valuable assets.
 When a bank makes a loan to a business firm, secured by inventories or machinery, it has, in effect, created a dollar based on those inventories or that machinery.
@@ -839,11 +719,7 @@ But a moment’s thought will show that these excluded types of money — a savi
 A savings and loan account is not a checking account and the depositor first has to withdraw the money from the bank before it can be used.
 In addition, all the money deposited with a savings and loan association eventually is redeposited in a commercial bank or remains in the form of currency and coin outside the commercial banks.
 So this money is already counted in the "money supply." The same is true for money going to an insurance company, pension fund or other non-commercial-bank financial institution.
-Individuals’ accounts with these institutions are not included in the "money supply," then, to avoid counting the same money twice.
-→
-CHAPTER III
-HOW IS MONEY CREATED? ^
-Where does money come from?
+Individuals’ accounts with these institutions are not included in the "money supply," then, to avoid counting the same money twice. → CHAPTER III HOW IS MONEY CREATED? ^ Where does money come from?
 This is a question few of us ever think about.
 Not having thought about the matter, most people tend to assume that money has always been here and that some law of nature guarantees a fixed and unchanging supply of it.
 In any case, it seems that the less people know about money, the more strongly they feel that the whole subject should be left alone.
@@ -865,12 +741,12 @@ Unraveling the mystery, they feel, would somehow destroy a money system built on
 For this reason, it has been traditional for bankers and other private managers of money to cloak the working of the money system with the mantle of secrecy.
 And many of our high public officials share this view.
 Although they are appointed to represent the public interest they seem to feel that it would be somehow dangerous to talk about our monetary system in ways that let the public understand who does what, and why.
-These officials seem very partial to the turns of phrase that imply that the supply of money — and interest rates — are subject to powerful economic laws over which men have no control.
-→ But, of course, money has not always been here.
+These officials seem very partial to the turns of phrase that imply that the supply of money — and interest rates — are subject to powerful economic laws over which men have no control. → But, of course, money has not always been here.
 It was certainly not here when the first settlers arrived.
 Furthermore, the supply of money in the country on any given day has almost always been greater than it was a few years before.
 For example, in 1914, when the Federal Reserve System was organized, the total supply of money in the country was $12 billion.
-By 1929 it was $26 billion. 1 If the supply of money in the United States had not grown since 1914, there would not have been enough to accommodate the larger population and volume of production and trade in 1929, to say nothing of today’s still larger population and tremendously large volume of production.
+By 1929 it was $26 billion.
+1 If the supply of money in the United States had not grown since 1914, there would not have been enough to accommodate the larger population and volume of production and trade in 1929, to say nothing of today’s still larger population and tremendously large volume of production.
 Where has the extra money come from?
 It has been created — manufactured.
 And not by the impersonal forces of nature, but by men.
@@ -887,15 +763,13 @@ In time these receipts became transferable.
 Anyone having possession of a receipt was supposed to be able to go to the goldsmith and claim the gold.
 What actually happened was that these receipts for gold began circulating as money.
 People learned that they could carry on trade and commerce by passing goldsmith’s receipts from hand to hand without ever drawing out the gold.
-This led the goldsmith to a discovery which has been the principle of banking ever since — "fractional reserves."
-What is the "fractional reserve" method of banking ?
+This led the goldsmith to a discovery which has been the principle of banking ever since — "fractional reserves." What is the "fractional reserve" method of banking ?
 Few people who held the goldsmith’s receipts came in to claim their gold.
 As the goldsmiths realized this, they also realized that they could make loans of the gold which had been left in their safekeeping.
 That is, they could write out receipts for gold to borrowers who, in fact, were not depositing new gold but borrowing the ownership of gold already in the goldsmith’s possession.
 This gold — actually the certificates of ownership — being loaned by the goldsmith was not his to lend.
 He did not own it.
-But so long as the calls for gold by the original depositors were so infrequent, the goldsmith felt he could lend without undue risk and earn interest on a certain portion of the deposited gold.
-→ In other words, the goldsmith wrote receipts for people who were not depositing gold.
+But so long as the calls for gold by the original depositors were so infrequent, the goldsmith felt he could lend without undue risk and earn interest on a certain portion of the deposited gold. → In other words, the goldsmith wrote receipts for people who were not depositing gold.
 These receipts too circulated as money.
 So receipts for more gold than the goldsmith actually had in his vaults were circulating.
 The goldsmith had only a fraction of the amount of gold needed to meet the claims against him.
@@ -946,8 +820,7 @@ And how do they work as the base of a money-creating pyramid?
 Well, in the first place, reserves are money, just like any other money — with one distinction.
 They are deposits — demand deposits — owed to the commercial banks by the Federal Reserve.
 (Warning: there are some refinements here about reserves which are being ignored for the sake of clarity.
-The details will be added later.)
-→ There are, then, two important types of deposits to keep in mind.
+The details will be added later.) → There are, then, two important types of deposits to keep in mind.
 Ordinary checking deposits kept by the public in commercial banks.
 And commercial bank deposits — reserves — on the books of the Federal Reserve.
 Where do the commercial banks get these reserves?
@@ -960,8 +833,7 @@ It is the bank which creates bankers’ deposits — reserves — just as the ba
 Jones created $50 of money, or the goldsmith bankers created circulating paper money when they made a loan.
 When a bank borrows from the Federal Reserve, the Reserve increases the amount of the bank’s reserve account with it by the amount of the loan — and new bank reserves are thereby created.
 (Where the Federal Reserve itself gets the money to lend or the power to create reserves is another matter, which will be discussed shortly.
-For the moment, simply accept the existence of a bank which can lend money to — create deposits for — the commercial banks.)
-Now the first step into the money fabricating mechanism can be taken.
+For the moment, simply accept the existence of a bank which can lend money to — create deposits for — the commercial banks.) Now the first step into the money fabricating mechanism can be taken.
 How can an increase in the money supply come about?
 One way — there are others as will be seen — is to have the Federal Reserve make a loan to a commercial bank.
 When the Reserve does this, the commercial bank’s deposit with the Federal Reserve increases, and the commercial bank is now richer.
@@ -1084,12 +956,7 @@ What is the formula that determines the maximum amount of money and credit avail
 The formula consists of two parts.
 One is the amount of bank reserves which the member banks of the Federal Reserve System have to their credit on the books of the Federal Reserve banks.
 The second part is a regulation, ’which the Federal Reserve Board issues from time to time, telling the member banks the maximum amount of bank deposits they may create per each dollar of their reserve deposit.
-Expressed mathematically this is a simple formula —
-A ×B = C
-where :
-A = Amount of bank reserves;
-B = Number of dollars of deposits member banks may create per each dollar of reserves; and
-C = Total bank deposits.
+Expressed mathematically this is a simple formula — A ×B &equals; C where : A &equals; Amount of bank reserves; B &equals; Number of dollars of deposits member banks may create per each dollar of reserves; and C &equals; Total bank deposits.
 Can the Federal Reserve authorities change the money supply formula?
 Yes.
 These authorities can change either or both parts of the formula at any moment, and they frequently do change one or both parts.
@@ -1101,8 +968,7 @@ The banks are "loaned up" — they can make no further loans and make no further
 Suppose also that the Federal Reserve wishes to permit the banks to expand the money supply — that is, to make additional loans and investments.
 The Federal Reserve authorities do either of two things: They create more bank reserves, or they issue new regulations, telling the banks they can create a greater number of dollars per dollar of reserves already in existence.
 If the Federal Reserve wished to double the amount of bank credit available to business and consumers, it could create another $100 of reserves, while maintaining its reserve regulation at 20 percent.
-The banks could then expand their deposits to $1,000, from the previous $500 simply by making $500 of loans or investments.
-→ Alternatively, the Federal Reserve authorities might issue new reserve regulations, telling the banks they need to "keep" only 10 percent of their deposits in reserves.
+The banks could then expand their deposits to $1,000, from the previous $500 simply by making $500 of loans or investments. → Alternatively, the Federal Reserve authorities might issue new reserve regulations, telling the banks they need to "keep" only 10 percent of their deposits in reserves.
 This would mean that the banks could then create $10 of deposits for each dollar of their reserves instead of only $5 as previously.
 Consequently, in this way they could also increase their deposits to $1,000, simply by making $500 in loans and investments, although their reserves were still $100 as before.
 Whichever part of the formula the Reserve managers decide to alter is totally arbitrary as far as the total supply of money is concerned.
@@ -1131,7 +997,7 @@ The bank is required to keep, say, 20 percent of its deposits in reserves, so th
 The bank is free to use the other $80, however, to make loans to customers or invest in securities.
 The expansion of money thus begins.
 This kind of explanation not only leads to misunderstanding, it also leads to misguided Government policies and rather constant agitation on the part of bankers for other such policies.
-Many of the smaller bankers, who are, on the whole, not as well versed with the mechanics of the money system as they might be, actually believe that they have deposited a portion of their money, or their depositors’ money, with the Federal Reserve.
+Many of the smaller bankers, who are, on the whole, not as well versed with the mechanics of the money system as they might be, actually believe that they have deposited a portion of their money , or their depositors’ money, with the Federal Reserve.
 Thus they feel they are being denied the opportunity to make profitable use of this money.
 Accordingly, there is always agitation to have the Federal Reserve pay the banks interest on this money which they think they have "deposited" with the Federal Reserve.
 Furthermore, they are quite certain that the Federal Reserve System has "used" their money to acquire the Government securities which the Federal Reserve may buy in the process of reserve creation.
@@ -1139,7 +1005,7 @@ Believing this, the bankers naturally feel that they are entitled to some share 
 Many bankers know better.
 The leaders of the bankers’ associations certainly do.
 But some of these leaders have not hesitated to play on general ignorance and misunderstanding to mobilize the whole banking community behind drives that are nothing but attempts to raid the Public Treasury.
-The truth is, however, that the private banks, collectively, have deposited not a penny of their own funds, or their depositors' funds, with the Federal Reserve banks.
+The truth is, however, that the private banks, collectively , have deposited not a penny of their own funds, or their depositors' funds, with the Federal Reserve banks.
 The impression that they do so arises from the fact that reserves, once created, can be, and are, transferred back and forth from one bank to another, as one bank gains deposits and another loses deposits.
 As was shown earlier, if a depositor transfers $100 from his checking account with one bank to another, the first bank loses $100 in reserves and the other gains $100 in reserves.
 Similarly, when a new bank comes into a banking business, it is required to "deposit" a certain amount of reserves with the Federal Reserve bank, to begin operation.
@@ -1154,10 +1020,9 @@ Practically speaking, only the Federal Reserve → System itself can do this.
 Increasing or decreasing bank reserves is a conscious act of the managers of the Federal Reserve.
 Officials of the Federal Reserve System recognize, of course, that the idea that the banks make some kind of physical deposit of money they have received with the Federal Reserve banks to accumulate their reserve is nonsense.
 For example, Under Secretary of the Treasury Robert V.
-Roosa, formerly a Vice President of the Federal Reserve Bank of New York, while testifying before the House Committee on Banking and Currency in 1960, described the misconception as follows:
-[T]here Is another misconception which occurs much more frequently — that is, the banks think that they give us the reserves on which we operate and that, too, is a misconception.
-We encounter that frequently, and, as you know, we create those reserves under the authority that has been described here. 2
-The writer has had a couple of personal experiences which have provided some amusing confirmation of the fact that the source of bank reserves is not deposits of cash by the member banks with the Federal Reserve banks.
+Roosa, formerly a Vice President of the Federal Reserve Bank of New York, while testifying before the House Committee on Banking and Currency in 1960, described the misconception as follows: [T]here Is another misconception which occurs much more frequently — that is, the banks think that they give us the reserves on which we operate and that, too, is a misconception.
+We encounter that frequently, and, as you know, we create those reserves under the authority that has been described here.
+2 The writer has had a couple of personal experiences which have provided some amusing confirmation of the fact that the source of bank reserves is not deposits of cash by the member banks with the Federal Reserve banks.
 Having seen reports that the Federal Reserve System had, on a given date, Government securities amounting to approximately $28 billion, I went on one occasion to the Federal Reserve Bank of New York where these securities are supposed to be housed, and asked if I might be allowed to see them.
 The officials of this bank said, yes, they would be glad to show them to me; whereupon they opened the vaults and let me look at, and even hold in my hand, the large mound of Government securities which they claimed to have and which, in fact, they did have.
 Since I had also seen reports that the member banks of the Federal Reserve System had a certain number of millions of dollars in "cash reserves" on deposit with the Federal Reserve bank, I then asked if I might be allowed to see these cash reserves.
@@ -1202,8 +1067,7 @@ The other dealers are firms centered in the Wall Street area, → which speciali
 The bond dealers, incidentally, may have purchased the bonds from an insurance company, from an individual, an industrial corporation, a commercial bank, or any other financial institution, or from the U.S.
 Treasury.
 How does the Federal Reserve create hank reserves by open market operations?
-The step-by-step details are as follows:
-Let us assume that the Federal Reserve Bank of New York, acting as agent for the whole System, buys a $1,000 Government bond in the open market.
+The step-by-step details are as follows: Let us assume that the Federal Reserve Bank of New York, acting as agent for the whole System, buys a $1,000 Government bond in the open market.
 It gives the bond dealer a check for $1,000 drawn on the Federal Reserve Bank of New York.
 The dealer will, of course, deposit this check in his checking account, say, with the Chase Manhattan Bank.
 The Chase Manhattan credits the dealer’s checking account with $1,000 and then sends the check to the Federal Reserve Bank of New York for payment.
@@ -1225,8 +1089,7 @@ Treasury purchases and sells gold.
 The Federal Reserve handles these transactions, acting as agent for the Treasury.
 What are the sources of the gold purchased by the Treasury?
 To a small extent the Treasury purchases newly mined gold.
-Most gold is purchased from foreign "central banks" — just accept the term for the moment — and, similarly, most of the Treasury’s sales of gold are to foreign central banks.
-→ Why does the Treasury purchase gold?
+Most gold is purchased from foreign "central banks" — just accept the term for the moment — and, similarly, most of the Treasury’s sales of gold are to foreign central banks. → Why does the Treasury purchase gold?
 The small amounts of newly mined gold are purchased by the Treasury to add to the Nation’s monetary gold stock.
 Since foreign central banks holding any of our currency may call upon the Treasury to convert the currency to gold, it is important to have enough gold to meet any such claims that may be presented.
 But, most of the Treasury’s purchases — and sales — of gold are made from and to foreign central banks.
@@ -1277,8 +1140,7 @@ If the Federal Reserve insists on U.S.
 Government securities as collateral, this does not work any hardship on the borrowing banks since commercial banks generally keep large portions of their assets in Government securities, and the amount of the loans which the Federal Reserve will, in practice, make to banks is relatively small.
 Does the Federal Reserve create bank reserves when it buys "eligible paper"?
 Yes.
-When the Federal Reserve Act was passed, Congress intended this to be the main way that the Federal Reserve System would create bank reserves.
-("Eligible paper" is a term designating certain kinds of I O U’s signed by a bank’s customers when they borrow.) When this practice was followed, the banks in a particular area could obtain loanable funds in direct proportion to the community’s needs for money.
+When the Federal Reserve Act was passed, Congress intended this to be the main way that the Federal Reserve System would create bank reserves. ("Eligible paper" is a term designating certain kinds of I O U’s signed by a bank’s customers when they borrow.) When this practice was followed, the banks in a particular area could obtain loanable funds in direct proportion to the community’s needs for money.
 But in recent years, the Federal Reserve has purchased almost no eligible paper.
 In fact, the Federal Reserve System has → made very little credit available to the banks in the individual districts, including that which they have made available in the form of loans.
 It is now the practice of the Federal Reserve to funnel most of its credit to the banks through open-market operations in New York.
@@ -1301,8 +1163,7 @@ The banks are privileged to take out their reserves in the form of cash — Fede
 Drawing out cash must, however, leave the bank in compliance with the Federal Reserve’s regulation as to reserve requirements.
 To illustrate, in the example given above where the Federal Reserve bought a $1,000 bond and gave the Chase Manhattan Bank a $1,000 credit in its reserve account, the Chase Manhattan could, if it cared to do so, ask the Federal Reserve bank for its $1,000 in cash — that is, in Federal Reserve notes.
 In this case, however, the Chase Manhattan’s deposit with the Federal Reserve — its reserves — would be no greater than it was before.
-Neither the Chase Manhattan nor the other banks would be able to expand their deposits.
-→ How does currency and coin enter into the money supply ?
+Neither the Chase Manhattan nor the other banks would be able to expand their deposits. → How does currency and coin enter into the money supply ?
 The amount of currency and coin in circulation is pretty much automatic.
 It normally amounts to about 20 percent of the money supply, with bank deposits accounting for the other 80 percent.
 The Federal Reserve authorities know how much currency and coin is in circulation at all times; they should, of course, take this leakage into currency into account when they decide how much to add to reserves.
@@ -1328,31 +1189,26 @@ Can Federal Reserve officials help the U.S.
 Treasury and U.S. taxpayers without increasing the money supply?
 Yes — by creating more reserves — that is, by buying more Government securities in the open market — and by raising reserve requirements for the member banks.
 This means that, for any given supply of money, the Federal Reserve banks would own more Government securities and the private banks would own correspondingly less.
-This would not entail any change of the money supply, and interest rates would not decline very much.
-→ Is there a practical example of how the Federal Reserve could adopt a policy less favorable to the private hanks and more helpful to the general taxpayer?
+This would not entail any change of the money supply, and interest rates would not decline very much. → Is there a practical example of how the Federal Reserve could adopt a policy less favorable to the private hanks and more helpful to the general taxpayer?
 Yes.
 Many practical examples could be given.
 The table below presents some arbitrary figures which illustrate the effects of two different policies the Federal Reserve might follow, both of which would result in the same money supply — that is, in the same amount of money and credit being available to business and consumers.
 The figures given for policy "A," are not drastically different from the facts as they exist today.
 Furthermore, the figures show for policy "B" closely approximate the facts — as they might easily have existed if reserve requirements had not been lowered several times during the 1950’s.
 The two sets of figures, and the situations they describe, demonstrate that the Federal Reserve authorities have arbitrarily decided that private banks of the country own $20 billion more of Government securities, and the Federal Reserve banks $20 billion less than they would have, had authorities decided things differently.
-| How two different Federal Reserve policies make the same amount of money and credit available to business and consumers but determine whether the public or the private banks own $20,000,000,000 of Government securities [Dollar amounts in billions] | | | | | |
-|---|---|---|---|---|---|
-| | Bank reserves | Banks’ reserve requirements | Amount of money and credit available to business and consumers (bank deposits) | Interest-bearing assets owned by banks (including U.S.
-Government securities) | Total interest-bearing assets owned by either Federal Reserve or the banks |
-|---|---|---|---|---|---|
-| | (Col. 1) | (Col. 2) | (Col. 3) | (Col. 4) | (Col. 5) |
-| Federal Reserve’s policy "A" | $20 | Percent 10 | $200 | $180 | $200 |
-| Federal Reserve’s policy "B" | 40 | 20 | 200 | 160 | 200 |
-[Dollar amounts in billions]
-Let us note the figures for what we have called Federal Reserve policy "A" and Federal Reserve policy "B" and consider what they mean.
+How two different Federal Reserve policies make the same amount of money and credit available to business and consumers but determine whether the public or the private banks own $20,000,000,000 of Government securities [Dollar amounts in billions] Bank reserves Banks’ reserve requirements Amount of money and credit available to business and consumers (bank deposits) Interest-bearing assets owned by banks (including U.S.
+Government securities) Total interest-bearing assets owned by either Federal Reserve or the banks (Col.
+1) (Col.
+2) (Col.
+3) (Col.
+4) (Col.
+5) Federal Reserve’s policy "A" $20 Percent 10 $200 $180 $200 Federal Reserve’s policy "B" 40 20 200 160 200 Let us note the figures for what we have called Federal Reserve policy "A" and Federal Reserve policy "B" and consider what they mean.
 Under both policies the amount of deposits in the commercial banks is the same — $200 billion.
 Under policy "A," the Federal Reserve has created $20 billion of reserves by, say, purchasing Government securities from nonbank individuals on the open market.
 When the Reserve does this, it immediately creates $20 billion of demand deposits (and, hence, money) at the commercial banks — deposits which are credited to the accounts of the individuals who sold the securities.
 This means that along with the creation of $20 billion of reserves, the banks find they have $20 billion of demand deposits against which $2 billion of the new reserves must be earmarked.
 Only $18 billion of the reserves, then, are free to support deposit expansion.
-After the commercial banks lend and invest, producing $180 billion in deposits, there will be $200 billion in deposits in the system — $180 billion of which is commercial bank created, and $20 billion Federal Reserve System created.
-→ With policy "B," the same process occurs.
+After the commercial banks lend and invest, producing $180 billion in deposits, there will be $200 billion in deposits in the system — $180 billion of which is commercial bank created, and $20 billion Federal Reserve System created. → With policy "B," the same process occurs.
 Except this time $40 billion of the money supply is created by the Federal Reserve and $160 billion by the private banking system.
 In both cases, obviously, the total amount of money and credit available to the economy is the same.
 Under policy "B," the Federal Reserve would acquire and hold $20 billion more of Government securities than it is holding under policy "A." Accordingly, to maintain the same money supply as under policy "A," the Federal Reserve would issue regulations to the banks telling them they must "keep" 20 percent of tbeir deposits in "reserves." This would mean that the banks could create only $5 of money per each $1 of uncommitted reserve generated by the Federal Reserve, The total money supply would, however, be the same, as is shown in column 3.
@@ -1372,8 +1228,7 @@ We will demonstrate this in the next two questions.
 What is the amount of U.S.
 Government securities owned by the Federal Reserve System?
 As of January 31, 1964, the Federal Reserve System owned U.S.
-Government securities amounting to $32,753 million.
-→ How is the Government paid for the securities purchased by the Federal Reserve?
+Government securities amounting to $32,753 million. → How is the Government paid for the securities purchased by the Federal Reserve?
 When the Federal Reserve buys Government securities, it pays for them by giving some bank or banks credit on their reserve accounts.
 The banks may take these credits in cash — that is, Federal Reserve notes — at any time they care to do so.
 The amount of Federal Reserve notes which the Federal Reserve has issued and has outstanding is approximately equal to the amount of Government securities it owns.
@@ -1392,13 +1247,11 @@ In other words, less than 10 percent of the banks’ assets have been acquired w
 If the Government can issue bonds, why can’t it issue money and save the interest?
 A few clearheaded and firm individuals, such as Abraham Lincoln, have insisted that the Government can.
 The late Thomas A.
-Edison once stated the matter this way:
-If our Nation can issue a dollar bond it can issue a dollar bill.
+Edison once stated the matter this way: If our Nation can issue a dollar bond it can issue a dollar bill.
 The element that makes the bond good makes the bill good also.
 The difference between the bond and the bill is that the bond lets money brokers collect twice the amount of the bond and an additional 20 percent, whereas the currency pays nobody but those who contribute directly in some useful way.
 It is absurd to say that our country can issue $30 million in bonds and not $30 million in currency.
-Both are promises to pay: But one promise fattens the usurers, and the other helps the people.
-→ To a small extent the Government does issue money, to buy back the bonds it has already issued, through the Federal Reserve System.
+Both are promises to pay: But one promise fattens the usurers, and the other helps the people. → To a small extent the Government does issue money, to buy back the bonds it has already issued, through the Federal Reserve System.
 However, it has long been one of the political facts of life that private banks must be allowed to create the lion’s share of the money, if not all of the money.
 Thus there is little opposition to the Government’s printing bonds and then permitting the banks to create the money with which to buy those bonds; but proposals that the Government itself create the money instead of the bonds have always set off tremendous political upheavals.
 Bankers are politically very powerful, even in wartime.
@@ -1420,8 +1273,7 @@ The other type of money in use is "pen-and-ink money." Pen-and-ink money is crea
 Government security, or buys any other asset.
 Printing press money is engraved on special paper and with special inks; and it costs about eight one-thousandths of 1 cent per bill, whether a $1 bill or a $10,000 bill.
 Pen-and-ink money is created by a private banker simply by making ink marks on the books of the bank.
-However, in recent years many of the banks have installed electronic office machines which make the entries → in the banks’ books; so someday we may come to refer to bank-created money as "office machine money" or perhaps "Univac money."
-When commercial banks don't create money to buy Government bonds, where does the purchase money come from?
+However, in recent years many of the banks have installed electronic office machines which make the entries → in the banks’ books; so someday we may come to refer to bank-created money as "office machine money" or perhaps "Univac money." When commercial banks don't create money to buy Government bonds, where does the purchase money come from?
 When an individual or a business firm other than a commercial bank buys a Government bond, or any other security, the money comes out of savings.
 In other words, no new claims to wealth are created and the money spent by the borrowers is money saved by the lenders.
 As we have previously pointed out, only the Government and the private commercial banks create money.
@@ -1434,11 +1286,7 @@ What would happen if the customers of a bank all demanded to have their deposits
 The bank would be in much the same difficulty that the goldsmith bankers got into when their customers came in and demanded the gold.
 As we have seen, in the average bank today, customers’ claims for cash — that is, their deposit balances — amount to about seven times the bank’s reserves.
 Even if the bank drew out all of its reserves in cash, it would have only one-seventh enough money to pay its depositors.
-The difference between a member bank of the Federal Reserve System and the goldsmith bankers, however, is that the Federal Reserve will come to the rescue of a bank which gets into such a difficulty and lend it enough reserves to pay off its customers.
-→
-CHAPTER IV
-WHY WAS THE FEDERAL RESERVE ACT PASSED? ^
-Passage of the Federal Reserve Act in 1913 was only one of the many steps taken by the Federal Government over the years toward creation of a stable and reliable money system — though undoubtedly the most notable.
+The difference between a member bank of the Federal Reserve System and the goldsmith bankers, however, is that the Federal Reserve will come to the rescue of a bank which gets into such a difficulty and lend it enough reserves to pay off its customers. → CHAPTER IV WHY WAS THE FEDERAL RESERVE ACT PASSED? ^ Passage of the Federal Reserve Act in 1913 was only one of the many steps taken by the Federal Government over the years toward creation of a stable and reliable money system — though undoubtedly the most notable.
 In the last chapter, the Federal Reserve appeared in many guises.
 One was as a bankers bank; i.e., a bank which gave credit to the commercial banks and also held their deposits — their official reserves.
 In other dress, the Federal Reserve acted as the regulator of the money supply through the System’s dual power to create reserves and circumscribe the commercial banking system’s ability to manufacture money.
@@ -1451,8 +1299,7 @@ But, as might be expected, it has distinctive features arising out of American t
 First, it was established as a decentralized system of 12 separate regional Federal Reserve banks, under a Board of Governors in Washington.
 Furthermore, the framers of the System intended the 12 regional banks to be largely independent of each other in determining the money supply of the various regions of the country.
 The regional economies were considered insulated enough from each other to require distinct money supplies.
-This belief was fortified by the traditionally sharp commercial rivalries among the regions and by a general resentment everywhere directed against financial control emanating from "Wall Street."
-Another homespun feature of the American Central Bank is that membership in the Federal Reserve System is not compulsory for private commercial banks except for national banks.
+This belief was fortified by the traditionally sharp commercial rivalries among the regions and by a general resentment everywhere directed against financial control emanating from "Wall Street." Another homespun feature of the American Central Bank is that membership in the Federal Reserve System is not compulsory for private commercial banks except for national banks.
 As a matter of fact, however, commercial banks which do belong to the System — not surprisingly called member banks — hold roughly 85 percent of the assets of all commercial banks, member and nonmember.
 The United States established a full-fledged central bank only after more than a century of trial and error with banking systems that proved inadequate to the needs of a surging economy.
 The Federal Reserve Act was a response to these historical experiments and their → aftermath.
@@ -1503,8 +1350,7 @@ The ability of the State banks to create deposit money depended on the dollar va
 The amount of deposit-money dollars a State bank could manufacture for each dollar of reserve depended entirely on the laws of the particular State in which the bank operated.
 National banks, permitted to create both deposit money and national bank notes, were also limited in any expansion by the amount of their gold reserves.
 The amount of notes and other liabilities the national banks could issue or assume was tied to gold — at times to both gold and silver — and the amount of Government bonds which happened to be outstanding.
-(National banks could only issue their notes against Government bonds which they deposited with the Comptroller of the Currency.)
-This meant that the total money supply of the country — supplied by State and National bank deposits as well as national bank notes — grew unsystematically, unresponsive to the amount of goods and services being produced and traded and to the cash needs of the time.
+(National banks could only issue their notes against Government bonds which they deposited with the Comptroller of the Currency.) This meant that the total money supply of the country — supplied by State and National bank deposits as well as national bank notes — grew unsystematically, unresponsive to the amount of goods and services being produced and traded and to the cash needs of the time.
 Accidents in the discovery of gold, import-export flows of the precious metals and fluctuations in outstanding Federal debt combined to run the money mills at an uncertain and varying tempo.
 With a nonsystem such as this, seasonal or periodic demands for cash — aside from any longer run monetary needs of the economy — created recurrent nightmares.
 Harvest time was always a period of money stringency.
@@ -1583,12 +1429,10 @@ Furthermore, it was expected, and rightly so, that such a system would increase 
 A second flaw of the monetary industry was that the money supply was too inflexible.
 In the accepted phrase, the country needed an "elastic currency." Cash drains occurred with monotonous regularity and the nonsystem was incapable of meeting the challenge.
 Banks could not get cash as they needed it without withdrawing reserves, and, of course, somewhere along the line monetary contraction would set in as the reserve base flowed out through the cashier’s window. → There had to be a source of reserves, which provided the short-run wherewithal just to keep the machinery of a monetary economy functioning.
-(That long-run needs should also be provided for was a utopian consideration, given the need to erect a workable system, any workable system.)
-As a final fault, bank practices followed a crazy quilt of State and National standards.
+(That long-run needs should also be provided for was a utopian consideration, given the need to erect a workable system, any workable system.) As a final fault, bank practices followed a crazy quilt of State and National standards.
 Since the banking system was not much stronger than its weakest banks — crashes and runs due to imprudent management flashed through the system shocking everyone — some minimum enforced standards were necessary.
 This entailed some central supervisory body to enforce reasonably sound practices, safeguarding against insolvency and loss of the depositors’ money.
-President Wilson summarized the situation drawing on the findings of the Aldrich committee as follows:
-We must have a currency, not rigid as now, but readily elastically responsive to sound credit, the expanding and contracting credits of everyday transactions, the normal ebb and flow of personal and corporate dealings.
+President Wilson summarized the situation drawing on the findings of the Aldrich committee as follows: We must have a currency, not rigid as now, but readily elastically responsive to sound credit, the expanding and contracting credits of everyday transactions, the normal ebb and flow of personal and corporate dealings.
 Our banking laws must mobilize reserves; must not permit the concentration anywhere in a few hands of the monetary resources of the country or their use for speculative purposes in such volume as to hinder or impede or stand in the way of other more legitimate, more fruitful uses.
 And the control of the system of banking and of issue which our new laws are to set up must be public, not private, must be vested in the Government itself, so that the banks may be the instruments, not the masters, of the business and of individual enterprise and initiative.
 Other — subsidiary — purposes were to be served by the proposed reforms.
@@ -1651,7 +1495,8 @@ This made it → possible to convert these reserves into currency in times of di
 This was designed to reduce the concentration of the money mechanism in New York City and the dangers of such concentration.
 (3) It was hoped that virtually all the banks in the Nation would join the Federal Reserve System, thus providing uniform regulations for all banks.
 But this did not transpire.
-Even today over half of the banks in the Nation are not members of the System. 1 The first effort to bring most banks under uniform regulation and control had occurred in 1863 with the passage of the National Bank Act, but it was unsuccessful.
+Even today over half of the banks in the Nation are not members of the System.
+1 The first effort to bring most banks under uniform regulation and control had occurred in 1863 with the passage of the National Bank Act, but it was unsuccessful.
 A second unsuccessful attempt was the Federal Reserve Act.
 A third such venture meeting greater success was the Federal Deposit Insurance Act of 1933.
 (4) The Federal Reserve’s check-clearing operations proved a major benefit to commercial banks.
@@ -1663,20 +1508,20 @@ But recall this is not a clear-cut criterion and may even lead to perverse money
 How is the Federal Reserve System organized?
 The three basic parts of the Federal Reserve System are the Board of Governors, the 12 Federal Reserve banks, and the approximately 6,100 private commercial member banks.
 In terms of policy determination, however, the most important group is the Federal Open Market Committee.
-(1) Board of Governors. — There are seven members of the Board of Governors.
+(1) Board of Governors . — There are seven members of the Board of Governors.
 They are appointed by the President for terms of 14 years, with one term expiring each 2 years.
 Each member receives a salary of $20,000 a year, except the Chairman of the Board, who receives $20,500.
-(2) Federal Reserve Banks. — There are 12 Federal Reserve banks, located in the following cities: Boston, New York, Philadelphia, Richmond, Atlanta, Cleveland, Chicago, St.
+(2) Federal Reserve Banks . — There are 12 Federal Reserve banks, located in the following cities: Boston, New York, Philadelphia, Richmond, Atlanta, Cleveland, Chicago, St.
 Louis, Dallas, Kansas City, Minneapolis, and San Francisco.
-(3) Private member banks. — As of June 29, 1963, there were 6,058 commercial banks which were members of the System.
+(3) Private member banks . — As of June 29, 1963, there were 6,058 commercial banks which were members of the System.
 About 4,500 of these are national banks chartered by the Federal Government under the act of 1863.
 Such banks are required to be members of the System.
 The remaining 1,500 member banks are chartered by the various State governments.
 State-chartered banks may join the System if they desire and if they meet the requirements of the act and the supplemental rules laid down by the Board of Governors.
-(4) Federal Open Market Committee. — The Federal Open Market Committee consists of 12 members: the 7 members of the Board of Governors plus five of the 12 presidents of the Federal Reserve banks. → Because it is the most important and powerful group in the System as far as monetary policy is concerned, the next chapter is devoted to this Committee and the market through which it operates.
+(4) Federal Open Market Committee . — The Federal Open Market Committee consists of 12 members: the 7 members of the Board of Governors plus five of the 12 presidents of the Federal Reserve banks. → Because it is the most important and powerful group in the System as far as monetary policy is concerned, the next chapter is devoted to this Committee and the market through which it operates.
 What are the operations of the Federal Reserve System?
 There are three basic types of operations of the Federal Reserve System: routine operations, regulatory operations, and policy operations.
-(1) Routine operations. — Perhaps the most significant of the routine operations of the System is that of clearing checks.
+(1) Routine operations . — Perhaps the most significant of the routine operations of the System is that of clearing checks.
 Federal Reserve officials have estimated this accounts for upwards of 40 percent of the total cost of the System.
 As the situation now stands, the check-clearing service is open to nonmember as well as member banks, though banks which are not members of the System clear their checks through a member bank.
 Another important routine function of the System is that of furnishing currency.
@@ -1686,11 +1531,11 @@ Government by issuing all notes and bonds of the Federal Government.
 Also in the routine category is the contact with foreign central banks.
 This is handled through the Federal Reserve Bank of New York.
 Finally, the Federal Reserve banks hold the reserves of the member banks.
-(2) Regulatory operations. — The Federal Reserve has two basic types of regulatory operations.
+(2) Regulatory operations . — The Federal Reserve has two basic types of regulatory operations.
 First, it regulates the number of banks which are in the System by fixing the requirements for membership.
 Second, the Federal Reserve periodically examines the books of State member banks to see that these banks meet the requirements for operation of member banks laid down by the Board of Governors.
 National banks are periodically examined by the Comptroller of the Currency.
-(3) Policy operations. — The most important aspect of Federal Reserve operations in terms of well-being of the national economy lies in the determination of monetary policy.
+(3) Policy operations . — The most important aspect of Federal Reserve operations in terms of well-being of the national economy lies in the determination of monetary policy.
 The Federal Reserve has the power to determine the money supply and thus strongly influence the level of economic activity and the general level of interest rates.
 It controls the money supply through its control over the reserve requirement of member banks and by controlling the amount of reserves available to these banks.
 Although the Board of Governors has a variety of methods for controlling credit, the most important method — determination of the amount of member banks reserves — is in the hands of the Federal Open Market Committee.
@@ -1701,36 +1546,14 @@ By far the largest single source of income of the Federal Reserve banks is inter
 Government securities.
 In 1963, interest on Government securities accounted for 98.9 percent of the total income of the Federal Reserve.
 Income to the System from discounts → and advances is very small.
-Sources of income and the main items of expense of the System in 1963 were as follows:
-| Table 1. — Earnings and outlays of the Federal Reserve hanks, 196S | |
-|---|---|
-| Earnings: | |
-| U.S.
-Government securities | $1,138,167,465 |
-| Discount and advances | 8,865,844 |
-| Foreign currencies | 2,039,600 |
-| Acceptances | 1,728,755 |
-| All other | 318,396 |
-| Total, current earnings | 1,151,120,060 |
-| Expenses: | |
-| Salaries | 106,788,827 |
-| Other operating expenses | 62,848,828 |
-| Federal Reserve currency | 10,062,901 |
-| Board of Governors | 7,572,800 |
-| Total, current expenses | 178,273,356 |
-| Dividends paid to private commercial member banks | 28,912,019 |
-| Paid to U.S.
-Treasury | 879,685,219 |
-| Source: Federal Reserve Bulletin, February 1964. | |
+Sources of income and the main items of expense of the System in 1963 were as follows: Table 1. — Earnings and outlays of the Federal Reserve hanks, 196S Earnings: U.S.
+Government securities $1,138,167,465 Discount and advances 8,865,844 Foreign currencies 2,039,600 Acceptances 1,728,755 All other 318,396 Total, current earnings 1,151,120,060 Expenses: Salaries 106,788,827 Other operating expenses 62,848,828 Federal Reserve currency 10,062,901 Board of Governors 7,572,800 Total, current expenses 178,273,356 Dividends paid to private commercial member banks 28,912,019 Paid to U.S.
+Treasury 879,685,219 Source: Federal Reserve Bulletin, February 1964.
 How much of the Federal Reserve's earnings must be returned to the Treasury?
 No law or regulation specifies how much of the Federal Reserve earnings must be returned to the Treasury nor when payments must be made.
 In practice, the Federal Reserve spends all of its income that it cares to spend, pays dividends to its member banks on their "stock" and sets aside a large amount as "surplus." The remainder is returned to the Treasury at the end of each year.
 Despite the fact that there is no limitation on how much the Federal Reserve may spend to meet "expenses," it usually returns to the Treasury an amount many times the amount of its expenses.
-In 1963, it returned to the Treasury $879,685,219.
-→
-CHAPTER V
-WHO DETERMINES THE MONEY SUPPLY? ^
-If the average man were asked to list the 10 most powerful groups of men in the world, the chances are that he would fail to mention one particular group with enormous power right here in this country.
+In 1963, it returned to the Treasury $879,685,219. → CHAPTER V WHO DETERMINES THE MONEY SUPPLY? ^ If the average man were asked to list the 10 most powerful groups of men in the world, the chances are that he would fail to mention one particular group with enormous power right here in this country.
 If the polling were continued, and the next question was to name the market where most claims to wealth are traded, the answer would again be faulty: it is neither the New York Stock Exchange nor the Chicago Wheat Exchange nor the other obvious markets.
 In fact, the pollster would probably retire on an old-age pension before he received the correct answer, so few are the people who know.
 Further questions, about what the Federal Open Market Committee is, or the so-called open market for Government securities, would still leave the pollster searching in vain.
@@ -1766,7 +1589,7 @@ By this they mean, a great deal of pressure for change normally must build up in
 And this pressure expresses itself first in the changing conditions of availability of credit.
 Thus the availability of credit can be changed without changing interest rates.
 And sometimes this is all the Open Market Committee aims at.
-Alternatively, the general level of interest rates can be changed under the right conditions with only a small accompanying change in the availability climate.
+Alternatively, the general level of interest rates can be changed under the right conditions with only a small accompanying change in the availability climate .
 So that it is roughly true to say that the two dimensions of credit, availability and price, can be changed independently of each other.
 The notion of "sticky" interest seems to clash with some preconceived ideas about how interest rates are set in our economy.
 The public clings to the belief that interest rates are a textbook case of the workings of supply and demand in the marketplace.
@@ -1799,8 +1622,7 @@ The prime example of a negotiated rate is that paid by the Treasury when floatin
 At almost all times the Treasury is borrowing huge amounts of money, usually to repay money which the Government has borrowed previously.
 Government bonds and other securities are always coming due and having to be paid off, and the Secretary of the Treasury issues new securities to replace them.
 It may appear that the Secretary of the Treasury is issuing these new securities to the general public, but, in fact, he must sell the bulk of any particular issue to a relatively small group of buyers — a few big banks and financial houses.
-Therefore, he calls on advisory committees of representatives of these banks or financial houses for advice about setting the interest rate on any new security he anticipates issuing.
-→ In other words, although the Secretary of the Treasury nominally sets the interest rate, in practice the rate is arrived at by means of negotiation between a very big seller of credit instruments and a small group of big buyers of these credit instruments.
+Therefore, he calls on advisory committees of representatives of these banks or financial houses for advice about setting the interest rate on any new security he anticipates issuing. → In other words, although the Secretary of the Treasury nominally sets the interest rate, in practice the rate is arrived at by means of negotiation between a very big seller of credit instruments and a small group of big buyers of these credit instruments.
 The outcome depends on relative bargaining abilities.
 If the Secretary of the Treasury is a tough negotiator, the Treasury will pay a lower price for the credit it obtains.
 If he goes easy with the big banks and financial houses, the Government will pay a higher interest rate.
@@ -1861,38 +1683,30 @@ The System’s open-market operations have become increasingly important as an i
 But policy changes have been accompanied by technical advances: the Committee has sharpened open-market operations into a powerful tool.
 In fact, it has become the fundamental technique of credit policy, far more important than either the discount rate or reserve requirements; in addition, open-market operations are used more or less continuously, in contrast to fairly infrequent changes in either of the other two instruments.
 A measure of how important open-market operations have become and how far discounting has lapsed is given by table 2, "Analysis of Combined Earnings of the 12 Federal Reserve Banks, 1914—63 (Selected Years)." The peak earnings from discounts and advances → in any of the postwar years roughly equals the average of such earnings in the later 1920’s, when the money supply was far smaller than now.
-| Table 2. — Analysis of combined earnings, 12 Federal Reserve banks, selected years, 1914-63 [In thousands] | | | | |
-|---|---|---|---|---|
-| Years | Total earnings | Earnings from U.S.
-Government securities | Earnings from discount and advances | Percent of total earnings derived from U.S.
-Government securities |
-|---|---|---|---|---|
-| | (1) | (2) | (3) | (4) |
-| 1914-15... | $2,173 | $172 | $1,218 | 7.9 |
-| 1916...... | 5,218 | 1,107 | 1,026 | 21.2 |
-| 1917...... | 16,128 | 2,368 | 6,971 | 14.7 |
-| 1918...... | 67,584 | 3,829 | 48,348 | 6.7 |
-| 1919...... | 102,381 | 5,761 | 80,768 | 5.6 |
-| 1920...... | 181,297 | 7,141 | 149,060 | 3.9 |
-| 1921...... | 122,866 | 6,254 | 109,599 | 5.1 |
-| 1922...... | 60,499 | 16,682 | 26,523 | 33.0 |
-| 1925...... | 41,801 | 12,783 | 17,680 | 30.6 |
-| 1928...... | 64,053 | 10,828 | 38,334 | 16.9 |
-| 1930...... | 36,424 | 17,273 | 10,672 | 47.4 |
-| 1932...... | 50,019 | 26,924 | 17,881 | 53.8 |
-| 1933...... | 49,487 | 37,530 | 9,137 | 75.8 |
-| 1934...... | 48,903 | 46,131 | 1,231 | 94.3 |
-| 1939...... | 38,501 | 36,903 | 61 | 95.8 |
-| 1944...... | 104,392 | 102,810 | 724 | 98.5 |
-| 1949...... | 316,537 | 312,241 | 3,472 | 98.6 |
-| 1954...... | 438,486 | 434,837 | 3,479 | 99.2 |
-| 1960...... | 1,103,385 | 1,084,767 | 16,634 | 98.3 |
-| 1961...... | 941,648 | 937,615 | 2,502 | 99.6 |
-| 1962...... | 1,048,508 | 1,039,308 | 4,132 | 99.1 |
-| 1963...... | 1,151,120 | 1,138,167 | 8,866 | 98.9 |
-selected years, 1914-63
-[In thousands]
-Monetary economists tend to treat the shift to open-market operations to control the money supply purely as an example of the evolution of control techniques.
+Table 2. — Analysis of combined earnings, 12 Federal Reserve banks, selected years, 1914-63 [In thousands] Years Total earnings Earnings from U.S.
+Government securities Earnings from discount and advances Percent of total earnings derived from U.S.
+Government securities (1) (2) (3) (4) 1914-15... $2,173 $172 $1,218 7.9 1916......
+5,218 1,107 1,026 21.2 1917......
+16,128 2,368 6,971 14.7 1918......
+67,584 3,829 48,348 6.7 1919......
+102,381 5,761 80,768 5.6 1920......
+181,297 7,141 149,060 3.9 1921......
+122,866 6,254 109,599 5.1 1922......
+60,499 16,682 26,523 33.0 1925......
+41,801 12,783 17,680 30.6 1928......
+64,053 10,828 38,334 16.9 1930......
+36,424 17,273 10,672 47.4 1932......
+50,019 26,924 17,881 53.8 1933......
+49,487 37,530 9,137 75.8 1934......
+48,903 46,131 1,231 94.3 1939......
+38,501 36,903 61 95.8 1944......
+104,392 102,810 724 98.5 1949......
+316,537 312,241 3,472 98.6 1954......
+438,486 434,837 3,479 99.2 1960......
+1,103,385 1,084,767 16,634 98.3 1961......
+941,648 937,615 2,502 99.6 1962......
+1,048,508 1,039,308 4,132 99.1 1963......
+1,151,120 1,138,167 8,866 98.9 Monetary economists tend to treat the shift to open-market operations to control the money supply purely as an example of the evolution of control techniques.
 But this concentration on technical evolution, accurate as far as it goes, obscures a revolutionary change in the power structure of the System that accompanied the emergence of open-market control.
 Before exploring this point further, a few facts about the Open Market Committee will be helpful.
 Who are the voting members of the Committee ?
@@ -1903,8 +1717,7 @@ As for voting, the president of the New York Federal Reserve Bank always has a v
 Since the New York president and the seven Governors always are voting members of the Committee, there are eight permanent voting memberships and four rotating memberships.
 When and where does the Committee meet?
 The law requires that the Committee meet at least four times a year in Washington.
-In practice, the Committee meets much more frequently, approximately every 3 weeks.
-→ Precisely what does the Federal Open Market Committee do?
+In practice, the Committee meets much more frequently, approximately every 3 weeks. → Precisely what does the Federal Open Market Committee do?
 It determines in general the amount of Government securities the Federal Reserve shall buy and sell in the open market, primarily to determine the level of reserves.
 In essence, the Committee determines U.S. monetary policy.
 Technically, this authority rests in the Board of Governors, which has sole possession of the other tools of monetary policy — the reserve requirements and the rediscount rate.
@@ -1914,8 +1727,7 @@ As the abbreviated history of the Federal Reserve Act emphasized, a key struggle
 (By private interests, banking interests are what is meant.) The adversaries in this conflict were quite conscious of what was at stake.
 The compromise over control placed what was considered at that time to be the master switch governing the money supply and interest rates — the discount rate — in the hands of a totally public body — the Board of Governors.
 This was a deliberate act.
-President Wilson rejected the notion of diluting the public nature of the Board with his now classic statement, "Which one of you gentlemen would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?"
-The commercial bank interests, it bears repeating, were given control over the board of directors of the individual regional banks.
+President Wilson rejected the notion of diluting the public nature of the Board with his now classic statement, "Which one of you gentlemen would have me select presidents of railroads to be on the Interstate Commerce Commission to fix passenger rates and freight rates?" The commercial bank interests, it bears repeating, were given control over the board of directors of the individual regional banks.
 Six of the nine directors of each regional bank board are elected by the member banks of the region.
 The board of directors, in turn, elects the president and first vice president of each bank for a term of 5 years, subject to the approval of the Board of Governors.
 The Federal Reserve Act was designed to have the decentralized System supply reserves only through the 12 independent Federal Reserve banks, by discounts or advances to member banks.
@@ -1952,8 +1764,7 @@ The discount window is hardly used, so the regional banks no longer provide the 
 Open-market operations are the preserve of the New York bank which merely → informs the other regional banks what it has done, in their name, to change total bank reserves.
 The major purpose to which the regional banks now devote their energies is to be the eyes and ears — the economic intelligence units — of the Open Market Committee in the country.
 This was brought out very clearly in the following testimony at hearings of a subcommittee of the U.S.
-House of Representatives Banking and Currency Committee:
-The Chairman (Mr.
+House of Representatives Banking and Currency Committee: The Chairman (Mr.
 Patman).
 If you were Indicating in the order of im- portance, and I mean importance, the matter that takes up most of your time, and the time of your officials and employees, what is the most important duty that is performed by the Federal Reserve Bank of Cleveland?
 Mr.
@@ -1964,8 +1775,8 @@ Where do you get that information from?
 Mr.
 Hickman.
 From a variety of sources including businessmen and industrialists in the district.
-And, of course, we also have an economic staff in our bank. 1
-Instead of a multiheaded central bank, the Federal Reserve has actually developed into a single central bank with 12 branches.
+And, of course, we also have an economic staff in our bank.
+1 Instead of a multiheaded central bank, the Federal Reserve has actually developed into a single central bank with 12 branches.
 And the brain center is the Open Market Committee.
 What is the open market account?
 The open market account of the Federal Reserve Bank of New York carries out the sales of bonds and bills for the Treasury.
@@ -2003,59 +1814,53 @@ The 21 primary bond dealers are in constant contact with each other and know lon
 Do the 21 dealers serve a useful purpose today?
 No.
 Mr.
-Marriner Eccles, former Chairman of the Board of Governors, described the arrangement as follows:
-* * * The only effect the provision has in practice in this regard is to make it necessary for the Reserve banks to pay commissions to brokers.
+Marriner Eccles, former Chairman of the Board of Governors, described the arrangement as follows: * * * The only effect the provision has in practice in this regard is to make it necessary for the Reserve banks to pay commissions to brokers.
 It also makes it impossible for the Reserve banks to accept short-term certificates of indebtedness from the Treasury in anticipation of tax receipts during quarterly financing and income-tax payment periods * * *.
-In view of these considerations I would be glad to see the provision taken out of the law (hearings before the Committee on Banking and Currency, 75'th Cong., 3d sess., on H.R. 7230, p. 475).
+In view of these considerations I would be glad to see the provision taken out of the law (hearings before the Committee on Banking and Currency, 75'th Cong., 3d sess., on H.R.
+7230, p.
+475).
 The practical effect of requiring all purchases to be made through the open market is to take money from the taxpayer and give it to these dealers.
 It forces the Government to pay a toll for borrowing money.
 It makes it impossible for one agency of the U.S.
 Government to buy U.S.
-Government securities from another without paying tribute to these 21 dealers, overwhelmingly located on "Wall Street."
-→ Who were the 21 tollgate dealers in 1962?
-There are six "bank" dealers:
-- First National City Bank of New York.
-- Chemical Corn Exchange Bank, New York.
-- Morgan-Guaranty Trust Co., New York.
-- Bankers Trust of New York.
-- First National Bank of Chicago.
-- Continental Illinois Bank of Chicago.
-In addition there are 15 "nonbank" dealers:
-- The Discount Corp.
-- C.
+Government securities from another without paying tribute to these 21 dealers, overwhelmingly located on "Wall Street." → Who were the 21 tollgate dealers in 1962?
+There are six "bank" dealers: First National City Bank of New York.
+Chemical Corn Exchange Bank, New York.
+Morgan-Guaranty Trust Co., New York.
+Bankers Trust of New York.
+First National Bank of Chicago.
+Continental Illinois Bank of Chicago.
+In addition there are 15 "nonbank" dealers: The Discount Corp.
+C.
 F.
 Childs & Co.
-- The First Boston Co.
-- Aubrey G.
+The First Boston Co.
+Aubrey G.
 Lanston & Co.
-- Bartow Leeds & Co.
-- C.
+Bartow Leeds & Co.
+C.
 J.
 Devine & Co.
-- Briggs Schaedle & Co., Inc.
-- W.
+Briggs Schaedle & Co., Inc.
+W.
 E.
 Pollock & Co.
-- D.
+D.
 W.
 Rich.
-- Salomon Bros. & Hutzler.
-- New York Hanseatic Corp.
-- Charles E.
+Salomon Bros. & Hutzler.
+New York Hanseatic Corp.
+Charles E.
 Quincey & Co.
-- Second District Securities Co., Inc.
-- Blyth & Co., Inc.
-- Malon S.
+Second District Securities Co., Inc.
+Blyth & Co., Inc.
+Malon S.
 Andrus, Inc.
 The "bank" dealers consist of departments in the bank, while the "nonbank" dealers receive all their income by operating a tollgate on the sale of Government securities.
 Is the "openmarket" open or closed?
 The "open market" is in reality a tightly closed market.
 Before 1952 there were only 12 "authorized" dealers and today there are only 21 dealers.
-These nine additional dealers were added as a result of congressional pressure on the Federal Reserve to stop dealing only with dealers who could meet such restrictive conditions in order to be "authorized." But admittance into the "dealers' club" is still highly exclusive.
-→
-CHAPTER VI
-WHO OWNS THE FEDERAL RESERVE BANKS? ^
-In recent years, certain misconceptions and conflicts about who owns the Federal Reserve banks have developed.
+These nine additional dealers were added as a result of congressional pressure on the Federal Reserve to stop dealing only with dealers who could meet such restrictive conditions in order to be "authorized." But admittance into the "dealers' club" is still highly exclusive. → CHAPTER VI WHO OWNS THE FEDERAL RESERVE BANKS? ^ In recent years, certain misconceptions and conflicts about who owns the Federal Reserve banks have developed.
 The reason is that when the Federal Reserve was established, it was felt that the proper way to organize it was on a capital stock basis.
 But the "stock" which emerged in the Federal Reserve Act was not stock in the ordinary meaning of that term at all.
 So recent years have been marked by a conflict between private bankers and public officials, each claiming ownership of the banks.
@@ -2066,27 +1871,21 @@ The American Bankers Association textbook, Money and Banking puts it baldly on p
 What is the position taken by Federal Reserve officials?
 As a rule, Federal Reserve officials do not share this misconception about ownership of the Federal Reserve banks.
 In a letter to Representative Wright Patman dated April 18, 1941, Marriner S.
-Eccles, Chairman of the Board of Governors, stated:
-This so-called stock ownership, however, is more in the nature of an enforced subscription to the capital of the Federal Reserve banks than an ownership in the usual sense.
+Eccles, Chairman of the Board of Governors, stated: This so-called stock ownership, however, is more in the nature of an enforced subscription to the capital of the Federal Reserve banks than an ownership in the usual sense.
 The stock cannot be sold, transferred, or hypothecated, nor can it be voted in accordance with the par value of the shares held.
 Thus, the smallest member bank has an equal vote with the largest.
 Member banks have no right to participate in earnings above the statutory dividend, and upon liquidation any funds remaining after retirement of the stock revert to the Government.
 In hearings before the Banking and Currency Committee of the House of Representatives, June 17 and 19, 1942, Mr.
-Eccles stated (pp.25,26):
-Mr.
+Eccles stated (pp.25,26): Mr.
 Eccles.
 Well, the Government, in effect, for all practical purposes, owns the Federal Reserve banks.
 The viewpoint of the present Chairman of the Board of Governors, Mr.
-William McChesney Martin, is indicated by the following quotations from hearings before the Subcommittee on Economic Stabilization of the Joint Economic Committee in 1956:
-The Chairman.
-All right
-No. 2 is that the banks own the Federal Reserve Banking System, and it is run by the banks; it is operated for their benefit. →
-That is a fallacy, is it not?
+William McChesney Martin, is indicated by the following quotations from hearings before the Subcommittee on Economic Stabilization of the Joint Economic Committee in 1956: The Chairman.
+All right No.
+2 is that the banks own the Federal Reserve Banking System, and it is run by the banks; it is operated for their benefit. → That is a fallacy, is it not?
 Mr.
 Martin.
-That is a fallacy.
-* * * * * *
-The Chairman.
+That is a fallacy. * * * * * * The Chairman.
 That stock, or that word "stock," is a misnomer, is it not?
 Mr.
 Martin.
@@ -2106,9 +1905,7 @@ The Chairman.
 Yes.
 Therefore, this does not convey any proprietary interest at all, and the word "stock" is a misnomer.
 It is not a correct word at all.
-It is just an involuntary assessment that has been made on the banks as long as they are members.
-* * * * * *
-The Chairman.
+It is just an involuntary assessment that has been made on the banks as long as they are members. * * * * * * The Chairman.
 Yes.
 Therefore, the statement that the banks own the Federal Reserve System is not a correct statement, is it?
 Mr.
@@ -2117,8 +1914,7 @@ The banks do not own the Federal Reserve System.
 Mr.
 M.
 S.
-Szymczak, member of the Board of Governors, in hearings before the House Small Business Committee on Problems of Small Business Financing, April 1958, is quoted as follows:
-The Chairman (Mr.
+Szymczak, member of the Board of Governors, in hearings before the House Small Business Committee on Problems of Small Business Financing, April 1958, is quoted as follows: The Chairman (Mr.
 Patman).
 Do you agree with Mr.
 Martin that the member banks do not own the Federal Reserve banks, and have no claim to their assets or income other than the interest payment on the so-called stock which the member banks are required to subscribe to the Federal Reserve banks?
@@ -2128,14 +1924,12 @@ That is correct.
 Testimony of Mr.
 J.
 L.
-Robertson, member of the Board of Governors, before the House Small Business Committee on Problems of Small Business Financing, April 1959, reveals the following:
-Mr.
+Robertson, member of the Board of Governors, before the House Small Business Committee on Problems of Small Business Financing, April 1959, reveals the following: Mr.
 Robertson.
 I think you could operate the Federal Reserve System without the member banks having stock in Federal Reserve banks.
 Testimony of Mr.
 Charles N.
-Shepardson, member of the Board of Governors at the same hearings reveals the following:
-Mr.
+Shepardson, member of the Board of Governors at the same hearings reveals the following: Mr.
 Shepardson. * * * I think we have never contended that the central bank, the Federal Reserve System, is owned by the commercial banks.
 On the contrary, we have taken every occasion in my knowledge to disabuse that idea.
 I don’t contend that at all.
@@ -2147,20 +1941,21 @@ For example, the Federal Reserve Bank of Chicago justified expenditures not appr
 What do academic economists say about this ownership?
 Among academic economists there seems to be a difference of opinion.
 Some economists hold that the banks own the Federal Reserve banks, while others agree with Federal Reserve and other public officials who → maintain that the Federal Reserve banks are public organizations, not owned by the banks.
-Here are some quotations from college textbooks which show the general variety of opinion among college professors:
-* * * In reality, no stock of the Federal Reserve bauks has been sold to either the public or the Government, and even the member banks have paid in only half of their subscriptions.
+Here are some quotations from college textbooks which show the general variety of opinion among college professors: * * * In reality, no stock of the Federal Reserve bauks has been sold to either the public or the Government, and even the member banks have paid in only half of their subscriptions.
 Thus, the Federal Reserve hanks are owned wholly by their member banks, each member bank having paid in to its Federal Reserve bank an amount equal to 3 percent of its own paid-up capital and surplus (source: "The Economics of Money and Banking," revised edition, by Lester V.
-Chandler, 1953, pp. 282, 283) . [Emphasis added.]
-Although the Federal Reserve banks are public institutions, their stock is held by the member banks (source: "Banking Systems," edited by Benjamin H.
-Beckhart, 1954, p. 893).
+Chandler, 1953, pp.
+282, 283) . [Emphasis added.] Although the Federal Reserve banks are public institutions, their stock is held by the member banks (source: "Banking Systems," edited by Benjamin H.
+Beckhart, 1954, p.
+893).
 The position of the Federal Reserve banks is even harder to state precisely.
 They were described generally as an "instrumentality" of the Government.
 In a joint statement by the presidents of the 12 Federal Reserve banks they were said to be "part of the private economy and * * * part of the functioning of the Government (although not technically a part of the Government)." It was further stated that they were intended to be "allied to the Government but not * * * a part of the Government itself." Allan Sproul, president of the New York Federal Reserve Bank, summed up by saying that the banks "should function somewhere between private enterprise and the Government" (source: "Principles and Practices of Money and Banking," by Charles R.
-Whittlesey, 1954, pp. 244, 245).
+Whittlesey, 1954, pp.
+244, 245).
 President Woodrow Wilson asked the 63d Congress for an elastic note issue and a decentralization of banking.
-He said, "Control * * * must be public, not private, must be vested in the Government itself, so that the banks may be the instruments, not the masters, of business and of individual enterprise and initiative" (source: "Money and Banking," by the Committee on Money and Banking, Pitman Publishing Co., 1957).
-* * * The member banks purchase stock in and therefore own the Federal Reserve banks of their own district (source: "Our Modem Banking and Monetary System," by Rollin G.
-Thomas, 1957, p. 245).
+He said, "Control * * * must be public, not private, must be vested in the Government itself, so that the banks may be the instruments, not the masters, of business and of individual enterprise and initiative" (source: "Money and Banking," by the Committee on Money and Banking, Pitman Publishing Co., 1957). * * * The member banks purchase stock in and therefore own the Federal Reserve banks of their own district (source: "Our Modem Banking and Monetary System," by Rollin G.
+Thomas, 1957, p.
+245).
 These quotes illustrate the disagreement and confusion which exists on the matter of Federal Reserve ownership.
 What is the cause of this misunderstanding and disagreement?
 The root of the trouble is the "stock" in the Federal Reserve banks which the member banks hold.
@@ -2175,13 +1970,10 @@ Furthermore, the administration of these banks was to be under the control of th
 This meant that there was a possibility that the member banks could pass on doubtful loans made to their customers to the regional Federal Reserve bank, receiving cash in exchange.
 And if the Federal Reserve banks were overstocked with private promissory notes, the system’s stability was threatened.
 So the Government would lose by exchanging Federal Reserve notes for risky notes of the banks’ customers, and in addition could lose whatever of its general funds it had on deposit with the Federal Reserve banks.
-(It was expected that these banks would be the principal depositories of Treasury funds.)
-It was in view of these considerations that Congress, in framing the Federal Reserve Act in 1913, required member banks of the Federal Reserve System to put a certain percentage of their capital into the "stock" of the Federal Reserve banks; this "stock" was a safeguard against a misuse of the Government’s credit which was being delegated to these banks.
+(It was expected that these banks would be the principal depositories of Treasury funds.) It was in view of these considerations that Congress, in framing the Federal Reserve Act in 1913, required member banks of the Federal Reserve System to put a certain percentage of their capital into the "stock" of the Federal Reserve banks; this "stock" was a safeguard against a misuse of the Government’s credit which was being delegated to these banks.
 The 1913 act placed on the member banks, furthermore, a "double liability" for their "stock" in the Federal Reserve banks.
 In other words, if a Federal Reserve bank failed, the member banks would lose not only their invested capital, but an equal amount of capital which they would also forfeit.
-Thus, the report of the Senate Committee on Banking and Currency explaining the Federal Reserve bill had this to say:
-The reasons for requiring the banks to subscribe to this stock with a double liability are —
-First.
+Thus, the report of the Senate Committee on Banking and Currency explaining the Federal Reserve bill had this to say: The reasons for requiring the banks to subscribe to this stock with a double liability are — First.
 To protect the large deposits of general funds which the United States will probably place with such banks.
 Second.
 To protect the United States against the extension of credit through the Federal Reserve notes, the obligations of the United States, loaned to the Federal Reserve banks against commercial bills.
@@ -2190,19 +1982,14 @@ When the Federal Reserve S3 T stem began operations, it did in fact issue money 
 But since then eligible paper has played so small a part in Federal Reserve credit as to be practically nonexistent: in November 1963, the collateral which the Federal Reserve banks held against outstanding Federal Reserve notes was $34,670 million.
 Less than one-half of 1 percent of this collateral is "eligible paper," the other 99 1/2 percent being U.S.
 Government securities and gold certificates.
-An additional reason for requring the member banks to invest some of their capital in the Federal Reserve banks was given by the members of the Senate Committee on Banking and Currency who recommended the arrangement:
-To justify the Government in putting on the banks the prime responsibility of administering these banks and safeguarding their own reserves and their own capital stock, and making them responsible to the country for safeguarding the welfare of the national banking system, protecting the national gold supply under the safeguard of governmental supervision.
+An additional reason for requring the member banks to invest some of their capital in the Federal Reserve banks was given by the members of the Senate Committee on Banking and Currency who recommended the arrangement: To justify the Government in putting on the banks the prime responsibility of administering these banks and safeguarding their own reserves and their own capital stock, and making them responsible to the country for safeguarding the welfare of the national banking system, protecting the national gold supply under the safeguard of governmental supervision.
 But an equal number of members of the Senate Committee on Banking and Currency felt that stock in the Federal Reserve banks should be sold to the general public, not to the banks — as a means of drawing more capital into the banking system of the country.
-This way, they → felt, "tens of thousands of our people will be directly interested in this great Government-controlled banking system." This group also felt, as they stated in the committee’s report:
-It has seemed to us, moreover, wise that upon these Reserve banks the Government should have a majority of the Board of Directors.
+This way, they → felt, "tens of thousands of our people will be directly interested in this great Government-controlled banking system." This group also felt, as they stated in the committee’s report: It has seemed to us, moreover, wise that upon these Reserve banks the Government should have a majority of the Board of Directors.
 At that time, the amount of capital in the banking system of the United States was generally considered to be small, and both schools of thought in Congress recognized the lack of public confidence in the banking system, which encouraged people to hold money in cash, rather than in banks.
-The Senate committee report said that an important result of setting up the improved system of banking would be—
-* * * an increased public confidence in the banks and which would attract a considerable amount of money which is not now deposited in banks at all and would thus enlarge the deposits of the bank and enlarge substantially their money-creating power.
+The Senate committee report said that an important result of setting up the improved system of banking would be— * * * an increased public confidence in the banks and which would attract a considerable amount of money which is not now deposited in banks at all and would thus enlarge the deposits of the bank and enlarge substantially their money-creating power.
 Finally, both groups in the Senate committee recognized that the 6 percent interest rate to be paid on the Federal Reserve bank stock was extremely attractive and would provide a subsidy to entice private banks to join the System.
-Those recommending tanker control of the Federal Reserve banks said that this so-called stock would prove irresistible to banks:
-* * * earning 6 percent net, free from tax, making the earning on such stock between 7 and 8 percent, which is a higher return than any bank can possibly average upon its deposits.
-But, the group favoring public ownership of the stock pointed out that the stock could be sold to the public at a rate of 5 percent, and if offered to small investors, tax free, it would be a —
-* * * highly desirable 5 percent investment which they will eagerly take.
+Those recommending tanker control of the Federal Reserve banks said that this so-called stock would prove irresistible to banks: * * * earning 6 percent net, free from tax, making the earning on such stock between 7 and 8 percent, which is a higher return than any bank can possibly average upon its deposits.
+But, the group favoring public ownership of the stock pointed out that the stock could be sold to the public at a rate of 5 percent, and if offered to small investors, tax free, it would be a — * * * highly desirable 5 percent investment which they will eagerly take.
 What is the nature of this "stock"?
 Hearings before various congressional committees have established clearly that this stock is not stock in the ordinary meaning of the term.
 (1) It carries no proprietary interest.
@@ -2247,11 +2034,7 @@ Does the Federal Reserve need the money?
 No.
 The Federal Reserve is a money-creating system.
 It can write a check whenever it needs money.
-Thus the Government is paying interest to the bankers on funds which it does not need.
-→
-CHAPTER VII
-WHY WAS THE FEDERAL DEPOSIT INSURANCE ACT PASSED? ^
-For 18 years after the Federal Reserve Act was passed, no basic changes were made in our banking laws.
+Thus the Government is paying interest to the bankers on funds which it does not need. → CHAPTER VII WHY WAS THE FEDERAL DEPOSIT INSURANCE ACT PASSED? ^ For 18 years after the Federal Reserve Act was passed, no basic changes were made in our banking laws.
 This was not because the banking system had no problems.
 On the contrary, the problems it had were ignored until the holocaust of the great depression faced the Nation with the brutal cost of years of neglect.
 The seemingly trouble-free system described a few chapters ago simply broke down in 1932-33.
@@ -2282,8 +2065,7 @@ Some, like the Emergency Banking Act mentioned above, were of a temporary, stopg
 What changes were made by the Banking Act of 1933?
 Most important was the establishment of a temporary deposit insurance plan which went into effect on January 1, 1934.
 This plan was made permanent and took its present form in the Banking Act of 1935.
-Other major changes were made by the 1933 act:
-(1) To prevent cutthroat competition for demand deposits, the act provided that commercial banks should no longer pay interest on their demand deposits.
+Other major changes were made by the 1933 act: (1) To prevent cutthroat competition for demand deposits, the act provided that commercial banks should no longer pay interest on their demand deposits.
 This was desirable from the standpoint of the banks because it reduced their costs.
 Although it was designed merely as a temporary measure, this provision still remains in the lawbooks.
 (2) The Federal Reserve Board was given power to change the reserve requirements required of member banks, subject to approval by the President.
@@ -2295,13 +2077,11 @@ This act put various restrictions on stocks offered for sale, and established th
 From the standpoint of monetary controls, however, perhaps the act’s most important aspect was the provision giving the Federal Reserve Board powder to set the cash downpayment required on stock market purchases.
 What changes were made by the Banking Act of 1935?
 Some have been already discussed: the Federal Deposit Insurance Corporation was made permanent, and the Board of Governors was given power to change reserve requirements.
-The act of 1935 had other important provisions:
-(1) The Board of Governors of the Federal Reserve System was changed.
+The act of 1935 had other important provisions: (1) The Board of Governors of the Federal Reserve System was changed.
 Membership no longer included the Secretary of the Treasury and the Comptroller of the Currency, and the number of members was cut from nine to seven.
 The name, the Federal Reserve Board, was changed to the Board of Governors of the Federal Reserve System.
 The reorganized Board, with its increased powers really gave us a central bank for the first time, in place of a system of individual Federal Reserve banks which were largely on their own.
-(2) Also of primary importance in creating a true central bank was the establishment of the Federal Open Market Committee to determine purchases and sales of Government securities for the entire System.
-→ (3) Another change made by the 1935 act related to loans of the Federal Reserve banks.
+(2) Also of primary importance in creating a true central bank was the establishment of the Federal Open Market Committee to determine purchases and sales of Government securities for the entire System. → (3) Another change made by the 1935 act related to loans of the Federal Reserve banks.
 This act allowed the Federal Reserve banks to extend reserve bank credit on any type of credit which the commercial bank possessed.
 (4) The 1935 act also contained provisions concerning regulation of bank holding companies.
 What is the Federal Deposit Insurance Corporation?
@@ -2332,8 +2112,7 @@ Each accounts for roughly half of the corporation’s income.
 How did the FDIC get the money to start business?
 The Treasury purchased $150 million of stock and the Federal Reserve, on the instructions of Congress bought $139 million of stock.
 This stock was repaid by the FDIC in 1947 and 1948 — but only at 2 percent simple interest.
-It should have paid compound interest.
-→ How much do the insured banks pay the FDIC?
+It should have paid compound interest. → How much do the insured banks pay the FDIC?
 Insured banks are required to pay FDIC a gross assessment of one-twelfth of 1 percent of their total deposits.
 This assessment is similar to the premium paid on a life insurance or fire insurance policy.
 Has the rate of assessment been the same since 1933?
@@ -2384,19 +2163,14 @@ Do the bank examiners consider public welfare in deciding whether or not loans a
 No.
 This point is made clearly by Prof.
 Raymond P.
-Kent in his textbook on "Money and Banking":
-The regulatory authorities and examiners, so to say, are not especially interested in the justification given loans from the standpoint of public welfare and economic stability, but rather in the probabilities of their being repaid at maturity so that depositors may not be endangered by losses.
+Kent in his textbook on "Money and Banking": The regulatory authorities and examiners, so to say, are not especially interested in the justification given loans from the standpoint of public welfare and economic stability, but rather in the probabilities of their being repaid at maturity so that depositors may not be endangered by losses.
 The loan to Bill Smith may be adjudged "good" because he has put up adequate collateral and even though he is using the money to put out a useless patent medicine, while that granted to Jack Brown may be condemned as "unsound" because he is not a very good risk and even though he is using the money to pay his son's tuition in college.
 How else does FDIC control banks?
 In addition to regulating insured banks through bank examinations, the FDIC controls the banking industry by refusing to let it expand.
 This it does by refusing to insure banks.
 A national bank must be insured to come into existence as must a State bank which is a member of the Federal Reserve System.
 For success in banking, membership in the FDIC and the Federal Reserve are highly desirable.
-By controlling membership, the FDIC controls the number of banks in existence.
-→
-CHAPTER VIII
-HOW THE FEDERAL RESERVE GIVES AWAY PUBLIC FUNDS TO THE PRIVATE BANKS ^
-Private banks enjoy a very special relationship with the Federal Government.
+By controlling membership, the FDIC controls the number of banks in existence. → CHAPTER VIII HOW THE FEDERAL RESERVE GIVES AWAY PUBLIC FUNDS TO THE PRIVATE BANKS ^ Private banks enjoy a very special relationship with the Federal Government.
 After all, most business firms employ private capital or privately owned resources to produce a product or provide a service which can be profitably sold in the marketplace.
 Most business firms pay for the raw materials and services they receive, and, furthermore, in the case of most kinds of business firms, the business itself is a risk-taking venture.
 The firm succeeds or fails in competition with other business firms.
@@ -2416,7 +2190,7 @@ Other Federal agencies also receive services from the Federal Reserve.
 But these are not free.
 The System received about $20 million for "fiscal agency and other expenses" in 1963.
 In addition, the Federal Government provides private banks with a large measure of protection from competition, and the hazards of failure.
-For example, when a group of business people wish to enter the banking business by opening a national bank, the Federal officer in charge of such matters will not issue a charter, or license, before his office has made studies and surveys to determine whether the proposed bank meets certain "standards." One "standard" is that the Comptroller of the Currency must be satisfied that (a) the new bank will succeed, and that (b) it is not likely to cause any already existing → bank to fail, or even to "weaken" substantially any already existing bank.
+For example, when a group of business people wish to enter the banking business by opening a national bank, the Federal officer in charge of such matters will not issue a charter, or license, before his office has made studies and surveys to determine whether the proposed bank meets certain "standards." One "standard" is that the Comptroller of the Currency must be satisfied that ( a ) the new bank will succeed, and that ( b ) it is not likely to cause any already existing → bank to fail, or even to "weaken" substantially any already existing bank.
 This means, in brief, that nobody can enter the banking business by opening a national bank, unless the proposed bank is to be located where it will not cause an inconvenient amount of competition to other banks already in business.
 If a group wishing to enter the banking business is refused a national bank charter, the group may, of course, apply to State banking authorities for a charter to be a State bank.
 But State banking boards are pretty much like the Comptroller of the Currency: they tend to make sure that a new bank will not encounter strong enough competition to weaken itself or weaken the banks already in Business.
@@ -2438,8 +2212,7 @@ Does this result from a self-assumed obligation to assure profits for the bank?
 Not at all.
 The primary purpose of the aid is to assure the general public good banking services and a good money system, both of which are recognized as indispensable to trade and commerce in a modem economic system.
 True, bank profits for the bankers are necessary for a good banking system.
-But bank profits are only a means toward furthering the general public interest.
-→ Now the real question arises.
+But bank profits are only a means toward furthering the general public interest. → Now the real question arises.
 The supply of money in existence at any particular time is created in part by the Government, and in part by the private banks.
 The Federal Reserve decides — within broad limits fixed by law — what portion of a given money supply it will itself create, and what portion it will allow the private banks to create.
 How the portions are divided is important — it means billions of dollars.
@@ -2472,8 +2245,7 @@ Under the high interest policy of the decade of the fifties, bank profits jumped
 Furthermore, most of the $10 billion giveaway went to only a few very big banks, who were already enjoying extremely high profits.
 Almost one-fourth of the $10 billion went to 18 big banks in New York City.
 Only 2 percent of all the banks in the country received about three-fourths of the whole $10 billion.
-Another example: The bond giveaway bill
-The bond giveaway bill was introduced in Congress in 1959 to carry out a plan recommended by the American Bankers Association.
+Another example: The bond giveaway bill The bond giveaway bill was introduced in Congress in 1959 to carry out a plan recommended by the American Bankers Association.
 The intention was to transfer $16.8 billion of Government securities from the vaults of the Federal Reserve banks into the hands of private bankers.
 The bill was generally referred to by the bankers as the "vault cash bill." While the bill did have something to do with vault cash, this was a very minor feature, and the term "vault cash bill" was thus very misleading.
 What happened to the bond giveaway bill?
@@ -2484,38 +2256,31 @@ According to the plan recommended in a report made by the Economic Policy Commis
 The proposed process was to be carried out "gradually" over a period of time, to be completed by mid-1962.
 Bv then, according to the plan, the Federal Reserve would have owned $16.8 billion less in Government securities, and the private banks would own $16.8 billion more, than would have been the case if reserve requirements were left at their already-existing levels.
 In other words, reserve requirements in effect at the time this plan was advanced meant that as the Federal Reserve expanded the money supply, it would, itself, create $1 of new money for each $5 of new money created by the private banks.
-The American Bankers Association plan was one which would allow the private banks to create about $12 of new money for each $1 created by the Federal Reserve.
-→ The $16.8 billion of Government securities which were to be given to the private banks consisted of two parts: one, $9.8 billion of Government securities which the Federal Reserve had already acquired and owned as of mid-1956; second, $7 billion of Government securities which the Federal Reserve would be expected to acquire, by mid-1962, to permit normal increases in the money supply, at the old l-to-5 division of the money-creating powers then prevailing.
+The American Bankers Association plan was one which would allow the private banks to create about $12 of new money for each $1 created by the Federal Reserve. → The $16.8 billion of Government securities which were to be given to the private banks consisted of two parts: one, $9.8 billion of Government securities which the Federal Reserve had already acquired and owned as of mid-1956; second, $7 billion of Government securities which the Federal Reserve would be expected to acquire, by mid-1962, to permit normal increases in the money supply, at the old l-to-5 division of the money-creating powers then prevailing.
 How did the bankers explain the intended effects of their proposal?
-Speaking of the $9.8 billion of Government securities which the Federal Reserve already owned, the report of the ABA Economic Policy Commission said:
-If the Commission’s proposals were in effect at the present time * * * required reserve balances that member banks must maintain at the Federal Reserve banks would be $9.8 billion lower (53 percent lower) than their actual current level.
-(ABA’s report, p. 26. ) 1
-Of course, if the required reserve balances maintained by member banks at the Federal Reserve for a given total of deposits outstanding are to be lowered by $9.8 billion, the Federal Reserve would have to sell $9.8 billion of Government securities to extinguish the now excess reserves.
+Speaking of the $9.8 billion of Government securities which the Federal Reserve already owned, the report of the ABA Economic Policy Commission said: If the Commission’s proposals were in effect at the present time * * * required reserve balances that member banks must maintain at the Federal Reserve banks would be $9.8 billion lower (53 percent lower) than their actual current level.
+(ABA’s report, p.
+26. ) 1 Of course, if the required reserve balances maintained by member banks at the Federal Reserve for a given total of deposits outstanding are to be lowered by $9.8 billion, the Federal Reserve would have to sell $9.8 billion of Government securities to extinguish the now excess reserves.
 Otherwise the $9.8 billion in unneeded reserves credited to the banks would be used to increase the money supply.
 And, when the Federal Reserve sold these securities, the bulk would go into the hands of the private banks.
-Speaking of the additional $7 billion of bonds which the Federal Reserve could be expected to acquire by mid-1962, if the bankers’ plan were not put into effect, the ABA report said:
-Looking ahead, it is clear that the needs of the public for currency and bank deposits will increase with the growth of the American economy.
-To meet these needs, it will be necessary to expand the reserve base of the banking system either by creating more reserves through open-market operations or by reducing reserve requirements.
-* * * * * * *
-To be more specific, if past relationships between production, currency, and deposits are approximated in the future, then over the next 5 years demand deposits will increase by something like $20 billion, time deposits by about $12 billion, and currency in circulation by more than $3 billion.
+Speaking of the additional $7 billion of bonds which the Federal Reserve could be expected to acquire by mid-1962, if the bankers’ plan were not put into effect, the ABA report said: Looking ahead, it is clear that the needs of the public for currency and bank deposits will increase with the growth of the American economy.
+To meet these needs, it will be necessary to expand the reserve base of the banking system either by creating more reserves through open-market operations or by reducing reserve requirements. * * * * * * * To be more specific, if past relationships between production, currency, and deposits are approximated in the future, then over the next 5 years demand deposits will increase by something like $20 billion, time deposits by about $12 billion, and currency in circulation by more than $3 billion.
 If such an expansion were to be met without reducing reserve requirements, it would be necessary to supply the banks with about $7 billion of additional reserve balances by means of open-market purchases of Government securities by the Reserve banks.
 It would be far better to provide for this growth by lowering the reserve requirements of member banks over the coming years.
-(ABA’s report, pp. 12 and 14.) 2
-Why did the bankers want to take $16.8 billion of Government securities out of the vaults of the Federal Reserve?
-The report of the American Bankers Association has this to say:
-There seems to be considerable agreement that the Federal Reserve banks should work toward a reduction of their enormous holdings of Government obligations.
-At the present time the Reserve banks hold about $24 billion of Governments, an amount far in excess of their needs either for earnings or for credit control. 3
-→ But who was in "considerable agreement"?
+(ABA’s report, pp.
+12 and 14.) 2 Why did the bankers want to take $16.8 billion of Government securities out of the vaults of the Federal Reserve?
+The report of the American Bankers Association has this to say: There seems to be considerable agreement that the Federal Reserve banks should work toward a reduction of their enormous holdings of Government obligations.
+At the present time the Reserve banks hold about $24 billion of Governments, an amount far in excess of their needs either for earnings or for credit control.
+3 → But who was in "considerable agreement"?
 And why was it "far better" to lower reserve requirements ?
 And by what measure are the Reserve’s holding of Government bonds "enormous"?
 The bankers were undoubtedly in considerable agreement with each other about all these matters.
 Why not?
 They were proposing to fleece the other taxpayers out of $16.8 billion of their property.
 What did the bankers say about the effect of their plan on the taxpayers?
-The ABA report had this to say:
-It is true that the Government would lose a small amount of revenue, since about 90 percent of the Reserve banks’ annual earnings after dividends are now being voluntarily paid over to the Treasury.
-However, the Reserve banks were never intended to be a source of revenue to the Government, and policy regarding the level of required reserves should certainly not be determined on the basis of the effect on Federal Reserve payments to the Treasury. 4
-In other words, the bankers considered that several hundred million dollars per year in interest payments on this enormous Government debt is only a "small amount of revenue" for the Government (though obviously an enormous increase in profits for the banks).
+The ABA report had this to say: It is true that the Government would lose a small amount of revenue, since about 90 percent of the Reserve banks’ annual earnings after dividends are now being voluntarily paid over to the Treasury.
+However, the Reserve banks were never intended to be a source of revenue to the Government, and policy regarding the level of required reserves should certainly not be determined on the basis of the effect on Federal Reserve payments to the Treasury.
+4 In other words, the bankers considered that several hundred million dollars per year in interest payments on this enormous Government debt is only a "small amount of revenue" for the Government (though obviously an enormous increase in profits for the banks).
 What did the Federal Reserve authorities do to protect the public property against the proposed raid by the bankers?
 One might think that public officials charged with the protection of public property in their custody would have locked their vaults and hollered for help when they received this report from the bankers, proposing a gigantic raid on the Federal Reserve’s vaults.
 Instead, however, the Board of Governors of the Federal Reserve System endorsed the bankers’ plan with slight modifications, and urged Congress to pass a bill necessary to carry out the plan.
@@ -2523,17 +2288,13 @@ The top officials ox other Federal banking agencies, including the Comptroller o
 Were the Federal Reserve officials aware of what the bankers’ plan would do?
 Yes.
 The staff of the Federal Reserve Board made a report on the bill which the Federal Reserve urged Congress to pass, and the Board of Governors submitted this report to the Committees on Banking and Currency of the Senate and the House.
-This report declared that the bill would —
-improve the earning position of banks and aid them in building up their capital positions. * * * (Member Bank Reserve Requirements, hearings, Apr. 7, 8, 9, 1959, p. 28.)
-This report explained further that:
-To the extent necessary to avoid undue credit expansion, reserves released by any reduction in requirements could be absorbed by Federal Reserve sales of securities in the market.
+This report declared that the bill would — improve the earning position of banks and aid them in building up their capital positions. * * * (Member Bank Reserve Requirements, hearings, Apr.
+7, 8, 9, 1959, p.
+28.) This report explained further that: To the extent necessary to avoid undue credit expansion, reserves released by any reduction in requirements could be absorbed by Federal Reserve sales of securities in the market.
 This would in effect shift earning assets from Federal Reserve banks to member banks.
-The present System portfolio is adequate to permit a substantial reduction and still leave enough to provide sufficient earnings to cover necessary expenses as well as for current purposes of policy. [Emphasis added.]
-In the italicized sentence the Federal Reserve leaves no doubt that it would give the bonds to the member banks.
-→ Was the bond giveaway bill passed into law?
+The present System portfolio is adequate to permit a substantial reduction and still leave enough to provide sufficient earnings to cover necessary expenses as well as for current purposes of policy. [Emphasis added.] In the italicized sentence the Federal Reserve leaves no doubt that it would give the bonds to the member banks. → Was the bond giveaway bill passed into law?
 Yes, but only after the House managers of the bill and Chairman Martin disclaimed any intention that the authority being conferred would be used to give away or otherwise transfer any of the Federal Reserve’s holdings of Government securities.
-The House conferees’ report of the House stated:
-* * * it is not the intent of this legislation to encourage or cause the Federal Open Market Committee to reduce the Federal Reserve System’s holdings of Government securities.
+The House conferees’ report of the House stated: * * * it is not the intent of this legislation to encourage or cause the Federal Open Market Committee to reduce the Federal Reserve System’s holdings of Government securities.
 This statement of legislative intent is directly opposed to the original purpose of the bill, as conceived by the ABA.
 Does the law as it passed give away any Government securities?
 Yes.
@@ -2559,10 +2320,7 @@ It is reasonable to believe that $15 billion of securities would be sufficient.
 How should the Federal Reserve reduce its holdings?
 Fifteen billion dollars of Government securities should be transferred from the Federal Reserve to the Treasury.
 This debt should then be canceled.
-This would reduce the public debt by $15 billion and reduce annual interest on the public debt hy over a half-billion dollars.
-→
-CHAPTER IX WHAT IS MONETARY POLICY? ^
-Throughout the preceding chapters, the phrase "tight (or easy) money policy" was used liberally.
+This would reduce the public debt by $15 billion and reduce annual interest on the public debt hy over a half-billion dollars. → CHAPTER IX WHAT IS MONETARY POLICY? ^ Throughout the preceding chapters, the phrase "tight (or easy) money policy" was used liberally.
 Most people understand the phrase — in broad terms; but monetary policy is too important to be left to "broad terms." For it deals with the operating instructions of the managers of our monetary plant.
 Monetary policy is what fits the money industry into the structure of the economy.
 But in specific terms, "monetary policy" has many definitions.
@@ -2606,8 +2364,7 @@ Finally interest rates began climbing in late 1961 and continued their rise to e
 Yet consumer demand has far from strained productive capacity during this period, and the low rate of business investment was an object of national concern.
 The new reason for the tighter monetary policy?
 The flow of dollars into foreign deposits and securities.
-It is interesting to note that the steady rise in interest rates that began in 1961, has stabilized in recent months, probably due to the fact that the money supply was increased beginning in late 1962 — an increase which may have been a "happy accident."
-Enough was said in chapter I to indicate how a change in the money supply influences business activity.
+It is interesting to note that the steady rise in interest rates that began in 1961, has stabilized in recent months, probably due to the fact that the money supply was increased beginning in late 1962 — an increase which may have been a "happy accident." Enough was said in chapter I to indicate how a change in the money supply influences business activity.
 Here, again, there are some general observations to be made about the stock of money and the economy.
 First, since our economy is growing and dynamic, economists almost unanimously agree that over the long haul the stock of money will have to grow — probably at about the same rate as the economy — if economic growth is not to be stunted.
 Failure to provide the money will spawn an era marked by deep recessions, abortive recoveries, low investment, high interest rates and chronic unemployment.
@@ -2619,8 +2376,7 @@ By making money tight enough investment can always be choked off.
 But easy money will not always kindle a burnt-out economy, as the 1930’s cruelly illustrated.
 There has been some controversy among economists about this point in recent years.
 Still the generally accepted view is that an economy in a full-fledged depression such as that of the early thirties will not respond vigorously to cheap and plentiful money.
-(Note the qualification: full-fledged depression; a recession is another matter.)
-The Federal Reserve authorities, who by and large agree with this view, sometimes use the analogy of the string.
+(Note the qualification: full-fledged depression; a recession is another matter.) The Federal Reserve authorities, who by and large agree with this view, sometimes use the analogy of the string.
 The Federal Reserve can pull on the purse strings but it cannot push them.
 Why can’t it push on the string?
 First, money may be generally available and cheap, but borrowers must be willing to borrow for investment and banks must be willing to lend to those particular borrowers who apply for loans.
@@ -2649,8 +2405,7 @@ As mentioned earlier, the so-called credit excess which fed the wild speculation
 It was an excess because this credit was fed into the economy by way of loans to brokers, dealers in securities and the banking system, resulting, when the speculative bubble burst, in the start of a credit squeeze.
 The credit squeeze was followed by some extraordinary actions on the part of the Federal Reserve in the early thirties which resulted in the unbelievable — a one-third decrease in the money supply during the collapse of 1929-33.
 Then the final turn in active versus passive monetary policy came with the Banking Act of 1935 which gave final form to the Open Market Committee.
-The first annual report of the Federal Reserve System issued after passage of the 1935 act proclaimed that this act placed "responsibility for national monetary and credit policies on the Board of Governors and on the Federal Open Market Committee."
-In truth, the 1935 act makes no mention of "monetary policy," "monetary powers," or "monetary controls." Nor does it contain any provision suggesting a change in the monetary policy that underlay the original Federal Reserve Act of 1913.
+The first annual report of the Federal Reserve System issued after passage of the 1935 act proclaimed that this act placed "responsibility for national monetary and credit policies on the Board of Governors and on the Federal Open Market Committee." In truth, the 1935 act makes no mention of "monetary policy," "monetary powers," or "monetary controls." Nor does it contain any provision suggesting a change in the monetary policy that underlay the original Federal Reserve Act of 1913.
 In short, after passage of the 1935 act, the Federal Reserve authorities of that day simply claimed responsibility for "monetary policies" — without explaining what they thought "monetary policies" meant.
 In the period between passage of the 1935 act and the beginning of World War II, an active monetary policy was, on occasion, in evidence — in the sense that the Federal Reserve took certain deliberate actions to counteract or offset other events of the day.
 The best illustration of this involves a legislative action with which the writer was personally concerned.
@@ -2690,8 +2445,7 @@ The great depression had been brought on, not by bad management in the private e
 If there were the right utilization and coordination of its resources and policies by the Government, then, no one then doubted, the private enterprise economy could and would provide full employment, maximum production, and maximum purchasing power.
 This lesson which we learned from World War II, or at least thought we had learned, was much in the minds of the American people at the end of the war.
 Most of us were then highly resolved that never again would we permit any Government neglect or failure to deprive us of the benefits of our great potential for economic well-being.
-This high resolve was set down, furthermore, as declared national policy, in the Employment Act of 1946: Henceforth it would be the policy of the Federal Government —
-to coordinate and utilize all its plans, functions, and resources for the purpose of creating and maintaining, in a manner calculated to foster and promote free competitive enterprise and the general welfare, conditions under which there will be afforded useful employment opportunities, including self-employment, for those able, willing, and seeking to work, and to promote maximum employment, production, and purchasing power.
+This high resolve was set down, furthermore, as declared national policy, in the Employment Act of 1946: Henceforth it would be the policy of the Federal Government — to coordinate and utilize all its plans, functions, and resources for the purpose of creating and maintaining, in a manner calculated to foster and promote free competitive enterprise and the general welfare, conditions under which there will be afforded useful employment opportunities, including self-employment, for those able, willing, and seeking to work, and to promote maximum employment, production, and purchasing power.
 Let us note that this declaration of policy does not say that Government shall replace free competitive enterprise.
 It says that the Government will coordinate and utilize its plans, functions, and resources in a manner to foster and promote free competitive enterprise, and in this way maintain maximum employment, production, and purchasing power.
 When the Employment Act of 1946 was being debated and enacted into law, policies of the Federal Reserve had then been closely coordinated with those of the rest of the Government for a period of some → 7 years.
@@ -2708,8 +2462,7 @@ In mid-August of 1950, however, the Federal Reserve raised the discount rate and
 It was later revealed by testimony of some of the Federal Reserve officials to committees of Congress that the Open Market Committee had held a meeting on August 18 and decided not only to raise the discount rate, but to "go their own way" on the Government longer term bond rate as well, despite what the President, the Secretary of the Treasury, and the head of the Office of Defense Mobilization might do.
 The disagreements between the Federal Reserve and the Treasury, and the efforts of the President of the United States to obtain the Federal Reserve’s cooperation, were known to the public only in a general way at the time.
 The exact events were not made known until early 1952 when a Subcommittee on Monetary Policy and Management of the Public Debt (a subcommittee of which the writer was chairman) made a lengthy investigation and called the Secretary of the Treasury, the Chairman of the Federal Reserve Board, and other officials to testify.
-According to the record, the main events were as follows:
-Disagreements between the Treasury and the Federal Reserve in the late fall and winter of 1950 had several unsettling effects in the Government securities market.
+According to the record, the main events were as follows: Disagreements between the Treasury and the Federal Reserve in the late fall and winter of 1950 had several unsettling effects in the Government securities market.
 Indeed, they had resulted in "failures" of several Treasury issues of new securities made in an effort to finance the Korean war.
 In view of these conditions, the President of the United States called the Chairman of the Federal Reserve Board and the Secretary of the Treasury to the White House in early January 1951, and asked the Federal Reserve to continue holding the then existing rate on Government bonds.
 This official, according to later testimony → of the Secretary of the Treasury, gave assurances that this would be done.
@@ -2739,8 +2492,7 @@ Truman appointed as Chairman another member of the Board of Governors, Mr.
 Thomas B.
 McCabe.
 Mr.
-McCabe, incidentally, was one of the Republican members of the Board.
-→ Here it should be remembered the term of a member of the Board of Governors is 14 years.
+McCabe, incidentally, was one of the Republican members of the Board. → Here it should be remembered the term of a member of the Board of Governors is 14 years.
 Once appointed to membership on the Board, and confirmed by the Senate, a man cannot be removed bv the President except in the case of misbehavior.
 The Chairman of the Board of Governors is chosen, of course, from among the seven members of the Board.
 The President designates a Chairman, and the member’s term as Chairman is 4 years.
@@ -2762,20 +2514,16 @@ Certainly, no such understandings were universal at the time the accord was sign
 Indeed, at that time the President and the Secretary of the Treasury, at least, appeared to have thought that the accord signified a settlement fairly close to the position the Treasury held, rather than an agreement that henceforth the country would have a freewheeling Federal Reserve which would spend the next 10 years sending interest rates into orbit.
 Indeed, in the first month following the signing of the accord, the long-term rate on Government bonds rose imperceptibly.
 And, in fact, by December 1952, just prior to a change of administration, the longterm rate still had not oeen raised above 2 3/4 percent.
-(It was 2.47 percent in March 1951.)
-For years now, both Federal Reserve officials and others, have created the impression that money and credit ran wild in the preaccord years.
+(It was 2.47 percent in March 1951.) For years now, both Federal Reserve officials and others, have created the impression that money and credit ran wild in the preaccord years.
 The postwar policies of the President and the Treasury, it is claimed, were totally misguided and, if continued would have led to an inflationary disaster.
 Just how bad were those policies?
 (For background purposes, it should be remembered that, until the accord, the Federal Reserve stood ready to prevent the rate on Government long-term securities from rising above 2 1/2 percent.
 This meant that if the private banking system wished to raise reserves, it could start selling Government bonds.
 As the price of bonds dropped, raising the market rate of interest on these securities, the Federal Reserve would eventually begin buying bonds and creating the desired reserves which would then allow the banks to expand the money supply.
-Of course, the System could ahvays raise the reserve requirement behind the old money supply, canceling out the money-creating power of the new reserves.)
-→ Professor Emeritus Alvin Hansen of Harvard University, one of the most influential American economists of the past 35 years, supported the accord in principle.
-Yet he wrote in 1957, referring to the Board of Governors’ views presented at hearings held by a subcommittee of the Joint Committee on the Economic Report, December 6 and 7, 1954:
-The reader gets a picture of a flood of sales to the Federal Reserve and a rapidly mounting money supply * * *.
+Of course, the System could ahvays raise the reserve requirement behind the old money supply, canceling out the money-creating power of the new reserves.) → Professor Emeritus Alvin Hansen of Harvard University, one of the most influential American economists of the past 35 years, supported the accord in principle.
+Yet he wrote in 1957, referring to the Board of Governors’ views presented at hearings held by a subcommittee of the Joint Committee on the Economic Report, December 6 and 7, 1954: The reader gets a picture of a flood of sales to the Federal Reserve and a rapidly mounting money supply * * *.
 The result, we are told, was a "spiral of costs and prices." And again: "This inflationary process was stopped early in 1951 when the Federal Open Market Committee discontinued pegging the prices of U.S.
-Government securities." ["Pegging the price" refers to the Reserve’s purchasing of Government securities to prevent the market rate of interest on them exceeding 2 1/2 percent.] 1 Finally, the following: "The facts are * * * the country suffered a serious inflation until the Federal Open Market Committee abandoned the pegs."
-Now, the facts are, however, quite otherwise than here stated * * *.
+Government securities." ["Pegging the price" refers to the Reserve’s purchasing of Government securities to prevent the market rate of interest on them exceeding 2 1/2 percent.] 1 Finally, the following: "The facts are * * * the country suffered a serious inflation until the Federal Open Market Committee abandoned the pegs." Now, the facts are, however, quite otherwise than here stated * * *.
 Federal Reserve holdings I of Government securities] were $5.1 billion less in June 1950, than December 1946 * * *.
 The money supply did not increase.
 Currency plus demand deposits stood at $110.2 billion in June 1950, and at $110 billion in December 1946.
@@ -2785,13 +2533,12 @@ Loans and investments of commercial banks remained stationary from 1946 to 1948 
 Money and bank credit were not running wild * * *.
 It would be difficult to find statements more misleading than those cited above * * *.
 The reader is lead to believe that there was a continued spiral of rising costs and prices all through this period.
-Nor is the reader informed that the price spurt following Korea was stopped a month before the accord [italic mine! — the weekly index reaching the peak figure on February 13, 1951. 2
-Notwithstanding these facts, the Federal Reserve people were quite sure that they could do a better job of running the country than the President, and with only slight increases in interest rates.
+Nor is the reader informed that the price spurt following Korea was stopped a month before the accord [italic mine! — the weekly index reaching the peak figure on February 13, 1951.
+2 Notwithstanding these facts, the Federal Reserve people were quite sure that they could do a better job of running the country than the President, and with only slight increases in interest rates.
 In the early part of 1952, a subcommittee appointed by Senator O’Mahoney, then chairman of the Joint Economic Committee, made a complete investigation of the circumstances of the so-called accord, the events leading to it, and the conflicting views on monetary theories which were then being urged.
 This subcommittee, of which I was privileged to be chairman, not only conducted hearings at which principal Government witnesses and leading economists were heard; we also surveyed Government witnesses and economists by questionnaire, in advance, allowing plenty of time for answers.
 All of these expert views were published in compendiums and hearings under the title "Monetary Policy and the Management of the Public Debt." I believe there was no doubt at that time that the Federal Reserve was contending for only very slight increases in interest rates.
-Indeed, I believe I correctly summarized the issue, as it was then drawn, in the foreword to part I of the volume of replies to questions which the subcommittee had posed, as follows:
-The Federal Reserve System has recently sought to lessen the availability and attractiveness of credit by making bank reserves more costly and more difficult to obtain.
+Indeed, I believe I correctly summarized the issue, as it was then drawn, in the foreword to part I of the volume of replies to questions which the subcommittee had posed, as follows: The Federal Reserve System has recently sought to lessen the availability and attractiveness of credit by making bank reserves more costly and more difficult to obtain.
 It sought to do this by raising the rediscount rate and conducting its open-market operations in a manner bringing about a small rise in short-term interest rates on Government securities.
 It is contended that fractional interest rate changes increase banks’ needs for liquidity because of uncertainty as to whether additional reserves will be available, and at what cost.
 At the → same time the market price of assets on hand is reduced and their sale thus made less attractive to the commercial banks.
@@ -2801,7 +2548,8 @@ Monetary economists disagree as to the effectiveness and wisdom of attempts to d
 Evidence based upon our own staff’s study of the recent attempts in that direction has not been conclusive.
 The fact is that bank loans have continued to increase; what the increase might have been without the Federal Reserve System’s efforts cannot be said.
 If it can be demonstrated that increases in interest rates resulting in a rise in the service charges on the public debt have a measurable effect in reducing the volume of credit and in fact are responsible for holding down prices, including the prices of goods and services purchased by the Government, do not interfere with needed economic expansion, and do not unnecessarily increase the amount of cost of carrying the national debt, such facts would be arguments for allowing Government obligations to find their level in the open market ("Monetary Policy and the Management of the Public Debt," S.
-Doc. 123, pt.
+Doc.
+123, pt.
 I, 82d Cong., 2d sess., pp. ix, x).
 At the end of 1951, then, the Federal Reserve had both self-proclaimed independence, as a result of the accord, and an operational policy which aimed at maximum credit effects through minimum changes in interest rates.
 It then added another string to its bow — the ‘mills only" policy.
@@ -2812,8 +2560,7 @@ The committee made a report in November 1952, containing its recommendations, th
 Although this policy was only revealed to Congress and the public in 1954, it had by then become an established practice of the Open Market Committee, and was to continue as almost sacred ritual for the next 8 years.
 The bills-only policy declared that henceforth the Open Market Committee, when trading in the so-called open market, would confine its activity to very short-term Government securities, preferably 91-day Treasury bills.
 Buying or selling Treasury bills in the open market means, of course, that the Federal Reserve adds to or subtracts from bank reserves, just as would be the case if it bought Government securities of any other maturity.
-In other words, the Open Market Committee intended to ease or tighten credit as it saw fit, as before, but its actions were to have a direct effect only on short-term interest rates.
-→ Long-term rates would almost inevitably be affected, but only in an indirect way, and after an indefinite timelag.
+In other words, the Open Market Committee intended to ease or tighten credit as it saw fit, as before, but its actions were to have a direct effect only on short-term interest rates. → Long-term rates would almost inevitably be affected, but only in an indirect way, and after an indefinite timelag.
 This was to be the so-called free market in long-term Government securities.
 No longer was the Federal Reserve to give any support to the Treasury.
 Henceforth when the Treasury issued bonds or medium-term securities, it was to dump these issues on the market and watch the natural consequences — first a drop in bond prices, then a gradual recovery as the market absorbed the bonds.
@@ -2856,8 +2603,7 @@ Actually, by the time the easy-money policy of the first half of 1958 began to e
 The brakes were put on.
 In mid 1958, speculators realized Government bond prices were headed down, and the big debacle in the Government bond market resulted.
 Billions of high-riding dollars were lost in that infamous affair.
-As we have said, the "bills only" policy permitted the Federal Re- serve to come into the long-term market, on occasion, when it found the market to be "disorderly." In mid-1958, the Government bond market became "disorderly’ — it seems to me extremely disorderly — and the Open Market Committee finally stepped in and lent some support.
-→ Even after these experiences, however, when the Open Market Committee met in the early spring of 1959 to consider a policy for the year, it readopted the same old tried-and-found-wanting "bills only" policy.
+As we have said, the "bills only" policy permitted the Federal Re- serve to come into the long-term market, on occasion, when it found the market to be "disorderly." In mid-1958, the Government bond market became "disorderly’ — it seems to me extremely disorderly — and the Open Market Committee finally stepped in and lent some support. → Even after these experiences, however, when the Open Market Committee met in the early spring of 1959 to consider a policy for the year, it readopted the same old tried-and-found-wanting "bills only" policy.
 There was one dissenting vote.
 Mr.
 Hayes, the president of the New York Federal Reserve Bank, dissented, as he had done the previous year.
@@ -2904,90 +2650,49 @@ What have been the results?
 The major result is shockingly obvious.
 Interest rates have climbed steadily, with slight interruptions, during the entire postaccord period.
 (See table 3.) The period has been marked, then, by a continual shift of income to the banks, other major financial institutions, and individuals with significant interest income.
-The rest of the country provided this income.
-→
-| Table 3. — Yields on long-term Government bonds, by months, 1919 to present [Percent per annum] | | | | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. | Year |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1919 | 4.63 | 4.70 | 4.78 | 4.72 | 4.67 | 4.69 | 4.72 | 4.78 | 4.73 | 4.71 | 4.81 | 4.90 | 4.73 |
-| 1920 | 4.93 | 5.05 | 5.09 | 5.28 | 5.58 | 5.54 | 5.57 | 5.67 | 5.43 | 5.08 | 5.21 | 5.40 | 5.32 |
-| 1921 | 5.23 | 5.28 | 5.27 | 5.24 | 5.25 | 5.27 | 5.26 | 5.22 | 5.12 | 4.83 | 4.64 | 4.47 | 5.09 |
-| 1922 | 4.45 | 4.50 | 4.41 | 4.28 | 4.26 | 4.24 | 4.14 | 4.12 | 4.19 | 4.30 | 4.33 | 4.32 | 4.30 |
-| 1923 | 4.32 | 4.33 | 4.38 | 4.39 | 4.37 | 4.34 | 4.34 | 4.35 | 4.36 | 4.40 | 4.37 | 4.35 | 4.36 |
-| 1924 | 4.30 | 4.28 | 4.28 | 4.23 | 4.15 | 3.98 | 3.94 | 3.91 | 3.92 | 3.87 | 3.90 | 3.96 | 4.06 |
-| 1925 | 3.96 | 3.95 | 3.96 | 3.93 | 3.87 | 3.79 | 3.79 | 3.85 | 3.85 | 3.82 | 3.79 | 3.80 | 3.86 |
-| 1926 | 3.77 | 3.71 | 3.71 | 3.70 | 3.67 | 3.67 | 3.68 | 3.70 | 3.70 | 3.68 | 3.62 | 3.56 | 3.68 |
-| 1927 | 3.51 | 3.48 | 3.37 | 3.35 | 3.31 | 3.34 | 3.36 | 3.32 | 3.30 | 3.29 | 3.23 | 3.17 | 3.34 |
-| 1928 | 3.18 | 3.19 | 3.17 | 3.20 | 3.24 | 3.29 | 3.42 | 3.48 | 3.46 | 3.47 | 3.38 | 3.45 | 3.33 |
-| 1929 | 3.52 | 3.62 | 3.74 | 3.64 | 3.64 | 3.69 | 3.64 | 3.71 | 3.70 | 3.61 | 3.35 | 3.36 | 3.60 |
-| 1930 | 3.43 | 3.41 | 3.29 | 3.37 | 3.31 | 3.25 | 3.25 | 3.26 | 3.24 | 3.21 | 3.19 | 3.22 | 3.29 |
-| 1931 | 3.20 | 3.30 | 3.27 | 3.26 | 3.16 | 3.13 | 3.15 | 3.18 | 3.25 | 3.63 | 3.63 | 3.93 | 3.34 |
-| 1932 | 4.26 | 4.11 | 3.92 | 3.68 | 3.76 | 3.76 | 3.58 | 3.45 | 3.42 | 3.43 | 3.45 | 3.35 | 3.68 |
-| 1933 | 3.22 | 3.31 | 3.42 | 3.42 | 3.30 | 3.21 | 3.20 | 3.21 | 3.19 | 3.22 | 3.46 | 3.53 | 3.31 |
-| 1934 | 3.50 | 3.32 | 3.20 | 3.11 | 3.02 | 2.98 | 2.92 | 3.03 | 3.20 | 3.10 | 3.07 | 3.01 | 3.12 |
-| 1935 | 2.88 | 2.79 | 2.77 | 2.74 | 2.72 | 2.72 | 2.69 | 2.76 | 2.85 | 2.85 | 2.83 | 2.83 | 2.79 |
-| 1936 | 2.80 | 2.77 | 2.71 | 2.68 | 2.66 | 2.66 | 2.65 | 2.61 | 2.60 | 2.62 | 2.53 | 2.51 | 2.65 |
-| 1937 | 2.47 | 2.46 | 2.60 | 2.80 | 2.76 | 2.76 | 2.72 | 2.72 | 2.77 | 2.78 | 2.71 | 2.67 | 2.68 |
-| 1938 | 2.65 | 2.64 | 2.64 | 2.62 | 2.51 | 2.52 | 2.52 | 2.51 | 2.58 | 2.48 | 2.50 | 2.49 | 2.56 |
-| 1939 | 2.47 | 2.44 | 2.34 | 2.30 | 2.17 | 2.13 | 2.16 | 2.21 | 2.65 | 2.60 | 2.46 | 2.35 | 2.36 |
-| 1940 | 2.30 | 2.32 | 2.25 | 2.25 | 2.38 | 2.39 | 2.28 | 2.25 | 2.18 | 2.10 | 1.97 | 1.89 | 2.21 |
-| 1941 | 1.99 | 2.10 | 2.01 | 1.96 | 1.92 | 1.91 | 1.90 | 1.94 | 1.94 | 1.88 | 1.85 | 1.96 | 1.95 |
-| 1942 | 2.48 | 2.48 | 2.46 | 2.44 | 2.45 | 2.43 | 2.46 | 2.47 | 2.46 | 2.45 | 2.47 | 2.49 | 2.46 |
-| 1943 | 2.46 | 2.46 | 2.48 | 2.48 | 2.46 | 2.45 | 2.45 | 2.46 | 2.48 | 2.48 | 2.48 | 2.49 | 2.47 |
-| 1944 | 2.49 | 2.49 | 2.48 | 2.48 | 2.49 | 2.49 | 2.49 | 2.48 | 2.47 | 2.48 | 2.48 | 2.48 | 2.48 |
-| 1945 | 2.44 | 2.38 | 2.40 | 2.39 | 2.39 | 2.35 | 2.34 | 2.36 | 2.37 | 2.35 | 2.33 | 2.33 | 2.37 |
-| 1946 | 2.21 | 2.12 | 2.09 | 2.08 | 2.19 | 2.16 | 2.18 | 2.23 | 2.28 | 2.26 | 2.25 | 2.24 | 2.19 |
-| 1947 | 2.21 | 2.21 | 2.19 | 2.19 | 2.19 | 2.22 | 2.25 | 2.24 | 2.24 | 2.27 | 2.36 | 2.39 | 2.25 |
-| 1948 | 2.45 | 2.45 | 2.44 | 2.44 | 2.42 | 2.41 | 2.44 | 2.45 | 2.45 | 2.45 | 2.44 | 2.44 | 2.44 |
-| 1949 | 2.42 | 2.39 | 2.38 | 2.38 | 2.38 | 2.38 | 2.27 | 2.24 | 2.22 | 2.22 | 2.20 | 2.19 | 2.31 |
-| 1950 | 2.20 | 2.24 | 2.27 | 2.30 | 2.31 | 2.33 | 2.34 | 2.33 | 2.36 | 2.38 | 2.38 | 2.39 | 2.32 |
-| 1951 | 2.39 | 2.40 | 2.47 | 2.56 | 2.63 | 2.65 | 2.63 | 2.57 | 2.56 | 2.61 | 2.66 | 2.70 | 2.57 |
-| 1952 | 2.74 | 2.71 | 2.70 | 2.64 | 2.57 | 2.61 | 2.61 | 2.70 | 2.71 | 2.74 | 2.71 | 2.75 | 2.68 |
-| 1953 | 2.80 | 2.83 | 2.89 | 2.97 | 3.11 | 3.13 | 3.02 | 3.02 | 2.98 | 2.83 | 2.86 | 2.79 | 2.94 |
-| 1954 | 2.69 | 2.62 | 2.53 | 2.48 | 2.54 | 2.55 | 2.47 | 2.48 | 2.52 | 2.54 | 2.57 | 2.59 | 2.56 |
-| 1955 | 2.68 | 2.78 | 2.78 | 2.82 | 2.81 | 2.82 | 2.91 | 2.95 | 2.92 | 2.87 | 2.89 | 2.91 | 2.84 |
-| 1956 | 2.88 | 2.85 | 2.93 | 3.07 | 2.97 | 2.93 | 3.00 | 3.17 | 3.21 | 3.20 | 3.30 | 3.40 | 3.08 |
-| 1957 | 3.34 | 3.22 | 3.26 | 3.32 | 3.40 | 3.58 | 3.60 | 3.63 | 3.66 | 3.73 | 3.57 | 3.30 | 3.47 |
-| 1958 | 3.24 | 3.28 | 3.25 | 3.12 | 3.14 | 3.20 | 3.36 | 3.60 | 3.75 | 3.76 | 3.70 | 3.80 | 3.43 |
-| 1959 | 3.91 | 3.92 | 3.92 | 4.01 | 4.08 | 4.09 | 4.11 | 4.10 | 4.26 | 4.11 | 4.12 | 4.27 | 4.08 |
-| 1960 | 4.37 | 4.22 | 4.08 | 4.18 | 4.16 | 3.98 | 3.86 | 3.79 | 3.84 | 3.91 | 3.93 | 3.88 | 4.02 |
-| 1961 | 3.89 | 3.81 | 3.78 | 3.80 | 3.73 | 3.88 | 3.90 | 4.00 | 4.02 | 3.98 | 3.98 | 4.06 | 3.90 |
-| 1962 | 4.08 | 4.09 | 4.01 | 3.89 | 3.88 | 3.90 | 4.02 | 3.98 | 3.94 | 3.89 | 3.87 | 3.87 | 3.95 |
-| 1963 | 3.89 | 3.92 | 3.93 | 3.97 | 3.97 | 4.00 | 4.01 | 3.99 | 4.04 | 4.07 | 4.11 | 4.14 | 4.00 |
-| 1964 | 4.15 | 4.14 | 4.18 | | | | | | | | | | |
-| Note. — Long-term Government yields from January 1919 through Oct. 14, 1925, are unweighted averages of yields of all outstanding partially tax-exempt Government bonds, due or callable after 8 years, and those from Oct. 15, 1925, through December 1941 of all such bonds due or callable after 12 years.
-Averages for the 2 sets of bonds were identical from Oet. 15, 1925, through July 16, 1928.
-Beginning January 1942 through Mar. 31, 1952, yields are based on taxable bonds neither due nor callable for 15 years; beginning Apr. 1, 1952, through Mar. 31, 1953, on bonds neither due nor callable for 12 years.
-From Apr. 1, 1953, to present, series based on bonds maturing in 10 years or more.
-Source: Board of Governors of the Federal Reserve System, "Banking and Monetary Statistics," 1953; Annual Report of the Secretary of the Treasury, 1958; and Treasury Bulletins. | | | | | | | | | | | | | |
-[Percent per annum]
+The rest of the country provided this income. → Table 3. — Yields on long-term Government bonds, by months, 1919 to present [Percent per annum] Jan.
+Feb.
+Mar.
+Apr.
+May June July Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+Year 1919 4.63 4.70 4.78 4.72 4.67 4.69 4.72 4.78 4.73 4.71 4.81 4.90 4.73 1920 4.93 5.05 5.09 5.28 5.58 5.54 5.57 5.67 5.43 5.08 5.21 5.40 5.32 1921 5.23 5.28 5.27 5.24 5.25 5.27 5.26 5.22 5.12 4.83 4.64 4.47 5.09 1922 4.45 4.50 4.41 4.28 4.26 4.24 4.14 4.12 4.19 4.30 4.33 4.32 4.30 1923 4.32 4.33 4.38 4.39 4.37 4.34 4.34 4.35 4.36 4.40 4.37 4.35 4.36 1924 4.30 4.28 4.28 4.23 4.15 3.98 3.94 3.91 3.92 3.87 3.90 3.96 4.06 1925 3.96 3.95 3.96 3.93 3.87 3.79 3.79 3.85 3.85 3.82 3.79 3.80 3.86 1926 3.77 3.71 3.71 3.70 3.67 3.67 3.68 3.70 3.70 3.68 3.62 3.56 3.68 1927 3.51 3.48 3.37 3.35 3.31 3.34 3.36 3.32 3.30 3.29 3.23 3.17 3.34 1928 3.18 3.19 3.17 3.20 3.24 3.29 3.42 3.48 3.46 3.47 3.38 3.45 3.33 1929 3.52 3.62 3.74 3.64 3.64 3.69 3.64 3.71 3.70 3.61 3.35 3.36 3.60 1930 3.43 3.41 3.29 3.37 3.31 3.25 3.25 3.26 3.24 3.21 3.19 3.22 3.29 1931 3.20 3.30 3.27 3.26 3.16 3.13 3.15 3.18 3.25 3.63 3.63 3.93 3.34 1932 4.26 4.11 3.92 3.68 3.76 3.76 3.58 3.45 3.42 3.43 3.45 3.35 3.68 1933 3.22 3.31 3.42 3.42 3.30 3.21 3.20 3.21 3.19 3.22 3.46 3.53 3.31 1934 3.50 3.32 3.20 3.11 3.02 2.98 2.92 3.03 3.20 3.10 3.07 3.01 3.12 1935 2.88 2.79 2.77 2.74 2.72 2.72 2.69 2.76 2.85 2.85 2.83 2.83 2.79 1936 2.80 2.77 2.71 2.68 2.66 2.66 2.65 2.61 2.60 2.62 2.53 2.51 2.65 1937 2.47 2.46 2.60 2.80 2.76 2.76 2.72 2.72 2.77 2.78 2.71 2.67 2.68 1938 2.65 2.64 2.64 2.62 2.51 2.52 2.52 2.51 2.58 2.48 2.50 2.49 2.56 1939 2.47 2.44 2.34 2.30 2.17 2.13 2.16 2.21 2.65 2.60 2.46 2.35 2.36 1940 2.30 2.32 2.25 2.25 2.38 2.39 2.28 2.25 2.18 2.10 1.97 1.89 2.21 1941 1.99 2.10 2.01 1.96 1.92 1.91 1.90 1.94 1.94 1.88 1.85 1.96 1.95 1942 2.48 2.48 2.46 2.44 2.45 2.43 2.46 2.47 2.46 2.45 2.47 2.49 2.46 1943 2.46 2.46 2.48 2.48 2.46 2.45 2.45 2.46 2.48 2.48 2.48 2.49 2.47 1944 2.49 2.49 2.48 2.48 2.49 2.49 2.49 2.48 2.47 2.48 2.48 2.48 2.48 1945 2.44 2.38 2.40 2.39 2.39 2.35 2.34 2.36 2.37 2.35 2.33 2.33 2.37 1946 2.21 2.12 2.09 2.08 2.19 2.16 2.18 2.23 2.28 2.26 2.25 2.24 2.19 1947 2.21 2.21 2.19 2.19 2.19 2.22 2.25 2.24 2.24 2.27 2.36 2.39 2.25 1948 2.45 2.45 2.44 2.44 2.42 2.41 2.44 2.45 2.45 2.45 2.44 2.44 2.44 1949 2.42 2.39 2.38 2.38 2.38 2.38 2.27 2.24 2.22 2.22 2.20 2.19 2.31 1950 2.20 2.24 2.27 2.30 2.31 2.33 2.34 2.33 2.36 2.38 2.38 2.39 2.32 1951 2.39 2.40 2.47 2.56 2.63 2.65 2.63 2.57 2.56 2.61 2.66 2.70 2.57 1952 2.74 2.71 2.70 2.64 2.57 2.61 2.61 2.70 2.71 2.74 2.71 2.75 2.68 1953 2.80 2.83 2.89 2.97 3.11 3.13 3.02 3.02 2.98 2.83 2.86 2.79 2.94 1954 2.69 2.62 2.53 2.48 2.54 2.55 2.47 2.48 2.52 2.54 2.57 2.59 2.56 1955 2.68 2.78 2.78 2.82 2.81 2.82 2.91 2.95 2.92 2.87 2.89 2.91 2.84 1956 2.88 2.85 2.93 3.07 2.97 2.93 3.00 3.17 3.21 3.20 3.30 3.40 3.08 1957 3.34 3.22 3.26 3.32 3.40 3.58 3.60 3.63 3.66 3.73 3.57 3.30 3.47 1958 3.24 3.28 3.25 3.12 3.14 3.20 3.36 3.60 3.75 3.76 3.70 3.80 3.43 1959 3.91 3.92 3.92 4.01 4.08 4.09 4.11 4.10 4.26 4.11 4.12 4.27 4.08 1960 4.37 4.22 4.08 4.18 4.16 3.98 3.86 3.79 3.84 3.91 3.93 3.88 4.02 1961 3.89 3.81 3.78 3.80 3.73 3.88 3.90 4.00 4.02 3.98 3.98 4.06 3.90 1962 4.08 4.09 4.01 3.89 3.88 3.90 4.02 3.98 3.94 3.89 3.87 3.87 3.95 1963 3.89 3.92 3.93 3.97 3.97 4.00 4.01 3.99 4.04 4.07 4.11 4.14 4.00 1964 4.15 4.14 4.18 Note. — Long-term Government yields from January 1919 through Oct.
+14, 1925, are unweighted averages of yields of all outstanding partially tax-exempt Government bonds, due or callable after 8 years, and those from Oct.
+15, 1925, through December 1941 of all such bonds due or callable after 12 years.
+Averages for the 2 sets of bonds were identical from Oet.
+15, 1925, through July 16, 1928.
+Beginning January 1942 through Mar.
+31, 1952, yields are based on taxable bonds neither due nor callable for 15 years; beginning Apr.
+1, 1952, through Mar.
+31, 1953, on bonds neither due nor callable for 12 years.
+From Apr.
+1, 1953, to present, series based on bonds maturing in 10 years or more.
+Source: Board of Governors of the Federal Reserve System, "Banking and Monetary Statistics," 1953; Annual Report of the Secretary of the Treasury, 1958; and Treasury Bulletins.
 The continued rise in interest rates, with its accompanying costs, could perhaps be defended as necessary if the economy had worked close to the limit of its resources most of these past 13 years, or had exhibited a recurrent tendency to sharp, steep price increases.
 But this was not the case.
 True, it could be argued that the resource criterion was met during 1951-53, and possibly the price criterion → during 1956-57.
 (See table 4.) But after 1957, as the mounting unemployment percentage and the trendless wholesale price index show, neither criterion for another shot of high interest was fulfilled.
 The irony of the situation is that long-term interest rates remained close to tne old 2 1/2 percent ceiling during most of the first period — favorable to high interest — and started their steep climb only in late 1955.
-| Table 4. — Unemployment and industrial wholesale prices, 1949-63 | | | | | |
-|---|---|---|---|---|---|
-| Year | Unemployment as percent of civilian labor force 1 | Industrial wholesale price index (1957-59=100) 2 | | | |
-|---|---|---|---|---|---|
-| 1949..... | 5.9 | 80.0 | | | |
-| 1950..... | 5.3 | 82.9 | | | |
-| 1951..... | 3.3 | 91.5 | | | |
-| 1952..... | 3.1 | 89.4 | | | |
-| 1953..... | 2.9 | 90.1 | | | |
-| 1954..... | 5.6 | 90.4 | | | |
-| 1955..... | 4.4 | 92.4 | | | |
-| 1956..... | 4.2 | 96.5 | | | |
-| 1957..... | 4.3 | 99.2 | | | |
-| 1958..... | 6.8 | 99.5 | | | |
-| 1959..... | 5.5 | 101.3 | | | |
-| I960..... | 5.6 | 101.3 | | | |
-| 1961..... | 6.7 | 100.8 | | | |
-| 1962..... | 5.6 | 100.8 | | | |
-| 1963..... | 5.7 | 100.7 | | | |
-| 1 New definitions; after I960 Includes Alaska and Hawaii. 2 All commodities other than farm products and foods Source: Economic Report of the President, January 1964; | | | | | |
-How does the Federal Reserve justify this Alice-in-Wonderland policy?
+Table 4. — Unemployment and industrial wholesale prices, 1949-63 Year Unemployment as percent of civilian labor force 1 Industrial wholesale price index (1957-59=100) 2 1949.....
+5.9 80.0 1950.....
+5.3 82.9 1951.....
+3.3 91.5 1952.....
+3.1 89.4 1953.....
+2.9 90.1 1954.....
+5.6 90.4 1955.....
+4.4 92.4 1956.....
+4.2 96.5 1957.....
+4.3 99.2 1958.....
+6.8 99.5 1959.....
+5.5 101.3 I960.....
+5.6 101.3 1961.....
+6.7 100.8 1962.....
+5.6 100.8 1963.....
+5.7 100.7 1 New definitions; after I960 Includes Alaska and Hawaii.
+2 All commodities other than farm products and foods Source: Economic Report of the President, January 1964; How does the Federal Reserve justify this Alice-in-Wonderland policy?
 Inflation.
 After 1957?
 Yes.
@@ -3007,7 +2712,8 @@ For these were the conditions under which the economy operated the past 6 years 
 Is this the price the economy must pay to stop inflation?
 It seems the Federal Reserve think so.
 The argument, then, simply confirms the sour lesson of our 13-year monetary experiment.
-Small doses of higher interest or even a mild recession will not stop price rises in the modern economy. 1 Whatever the variety of ways rising prices may be stopped, there is one sure-fire method: a protracted period of underemployment for men and machines. → And, since monetary policy can do only two things — stimulate or repress the economy — it is obvious what the monetary authorities will do if they think they sense inflationary tremors.
+Small doses of higher interest or even a mild recession will not stop price rises in the modern economy.
+1 Whatever the variety of ways rising prices may be stopped, there is one sure-fire method: a protracted period of underemployment for men and machines. → And, since monetary policy can do only two things — stimulate or repress the economy — it is obvious what the monetary authorities will do if they think they sense inflationary tremors.
 They will slam the brakes and slow the economy to a prolonged crawl.
 The inflation argument has had help from the balance-of-payments deficit the past 3 years in justifying monetary policy.
 The interest rate the System is mainly concerned with, for foreign payments purposes, is the short-term rate.
@@ -3036,34 +2742,11 @@ This implies slower growth of output because of lower efficiency gains and small
 In other words, by instituting a high interest policy a country chooses to grow more slowly than it otherwise could.
 Clearly, such a choice is a critical one for a country to make.
 And, for the past 7 years, the Federal Reserve has chosen the high interest, slower growth option for this country.
-(See table 5.)
-→
-| Table 5. — Rate of investment and long-term interest rates, 1946-6S | | | | | |
-|---|---|---|---|---|---|
-| Year | Business expenditures for new plant and equipment as percent of gross national product | U.S.
-Government taxable bonds 1 (percent per annum) | | | |
-|---|---|---|---|---|---|
-| 1946 | 7.0 | 2.19 | | | |
-| 1955 | 7.2 | 2.84 | | | |
-| 1947 | 8.8 | 2.25 | | | |
-| 1956 | 8.4 | 3.08 | | | |
-| 1948 | 8.6 | 2.44 | | | |
-| 1957 | 8.3 | 3.47 | | | |
-| 1949 | 7.5 | 2.31 | | | |
-| 1958 | 6.9 | 3.43 | | | |
-| 1950 | 7.2 | 2.32 | | | |
-| 1959 | 6.7 | 4.08 | | | |
-| 1951 | 7.8 | 2.57 | | | |
-| 1960 | 7.1 | 4.02 | | | |
-| 1952 | 7.6 | 2.68 | | | |
-| 1961 | 6.6 | 3.90 | | | |
-| 1953 | 7.8 | 2.94 | | | |
-| 1962 | 6.7 | 3.96 | | | |
-| 1954 | 7.4 | 2.55 | | | |
-| 1963 | 6.7 | 4.00 | | | |
-| 1 First issued in 1941.
-Series includes bonds which are neither due nor callable before a given number of years as follows: April 1953 to date, 10 years; April 1952-March 1953. 12 years; October 1941-March 1952, 16 years.
-Source: Economic Report of the President, January 1964. | | | | | |
+(See table 5.) → Table 5. — Rate of investment and long-term interest rates, 1946-6S Year Business expenditures for new plant and equipment as percent of gross national product U.S.
+Government taxable bonds 1 (percent per annum) 1946 7.0 2.19 1955 7.2 2.84 1947 8.8 2.25 1956 8.4 3.08 1948 8.6 2.44 1957 8.3 3.47 1949 7.5 2.31 1958 6.9 3.43 1950 7.2 2.32 1959 6.7 4.08 1951 7.8 2.57 1960 7.1 4.02 1952 7.6 2.68 1961 6.6 3.90 1953 7.8 2.94 1962 6.7 3.96 1954 7.4 2.55 1963 6.7 4.00 1 First issued in 1941.
+Series includes bonds which are neither due nor callable before a given number of years as follows: April 1953 to date, 10 years; April 1952-March 1953.
+12 years; October 1941-March 1952, 16 years.
+Source: Economic Report of the President, January 1964.
 The purpose of the table is not to show that the drop in business investment as a percentage of gross national product is mainly the result of the high-interest policy of recent years.
 It is to show that the economy has been devoting a smaller proportion of its resources to investment than it had previously (with no evidence that the previous proportion was "too high," by any reasonable standard for "too high").
 And, throughout this period, Federal Reserve policy has been in the direction of smaller investment.
@@ -3090,35 +2773,13 @@ The Government paid out $5 billion in interest.
 At the 1946 rates it would have paid out $0.4 billion less.
 This means the deficit in 1948 was $0.4 billion higher than it need be.
 The Government could have used the $0.4 billion paid out in extra interest in 1947 to reduce the → debt carried over into 1948.
-In 1948, then, the debt at 1946 interest rates would have been $251.9 billion (col. 4) rather than the actual $252.3 billion (col. 3).
-| Table 6. — Higher interest and V.S.
-Government debt [All figures are In billions of dollars] | | | | | |
-|---|---|---|---|---|---|
-| Fiscal year | Actual interest paid | Actual debt | Reduced debt | 1.8 percent on reduced debt | Budgetary saving |
-|---|---|---|---|---|---|
-| (1) | (2) | (3) | (4) | (5) | (6) |
-| 1946 | 4.8 | 269.4 | ---- | 4.8 | 0 |
-| 1947 | 6.0 | 268.3 | ---- | 4.6 | .4 |
-| 1948 | 5.3 | 252.3 | 251.9 | 4.5 | .8 |
-| 1949 | 5.4 | 252.8 | 251.6 | 4.5 | .9 |
-| 1950 | 5.8 | 267.4 | 255.3 | 4.6 | 1.2 |
-| 1951 | 5.7 | 255.2 | 251.9 | 4.5 | 1.2 |
-| 1952 | 5.9 | 259.1 | 254.6 | 4.6 | 1.3 |
-| 1953 | 6.6 | 266.1 | 260.3 | 4.7 | 1.9 |
-| 1954 | 6.5 | 271.3 | 263.6 | 4.7 | 1.8 |
-| 1955 | 6.4 | 274.4 | 264.9 | 4.8 | 1.6 |
-| 1956 | 6.8 | 272.8 | 261.7 | 4.7 | 2.1 |
-| 1957 | 7.3 | 270.6 | 257.3 | 4.6 | 2.7 |
-| 1968 | 7.7 | 276.3 | 260.4 | 4.7 | 3.0 |
-| 1959 | 7.7 | 284.7 | 266.8 | 4.8 | 2.9 |
-| 1960 | 9.3 | 286.3 | 264.5 | 4.8 | 4.5 |
-| 1961 | 9.0 | 289.0 | 262.7 | 4.7 | 4.3 |
-| 1962 | 9.2 | 298.2 | 267.6 | 4.8 | 4.4 |
-| 1963 | 10.0 | 305.9 | 270.9 | 4.9 | 5.1 |
-| Total saved | 40.1 | | | | |
-[All figures are In billions of dollars]
-The Government paid $5.3 billion in interest in 1948.
-On the reduced debt, at stable rates, it would have only paid $4.5 billion (col. 5).
+In 1948, then, the debt at 1946 interest rates would have been $251.9 billion (col.
+4) rather than the actual $252.3 billion (col.
+3).
+Table 6. — Higher interest and V.S.
+Government debt [All figures are In billions of dollars] Fiscal year Actual interest paid Actual debt Reduced debt 1.8 percent on reduced debt Budgetary saving (1) (2) (3) (4) (5) (6) 1946 4.8 269.4 ---- 4.8 0 1947 6.0 268.3 ---- 4.6 .4 1948 5.3 252.3 251.9 4.5 .8 1949 5.4 252.8 251.6 4.5 .9 1950 5.8 267.4 255.3 4.6 1.2 1951 5.7 255.2 251.9 4.5 1.2 1952 5.9 259.1 254.6 4.6 1.3 1953 6.6 266.1 260.3 4.7 1.9 1954 6.5 271.3 263.6 4.7 1.8 1955 6.4 274.4 264.9 4.8 1.6 1956 6.8 272.8 261.7 4.7 2.1 1957 7.3 270.6 257.3 4.6 2.7 1968 7.7 276.3 260.4 4.7 3.0 1959 7.7 284.7 266.8 4.8 2.9 1960 9.3 286.3 264.5 4.8 4.5 1961 9.0 289.0 262.7 4.7 4.3 1962 9.2 298.2 267.6 4.8 4.4 1963 10.0 305.9 270.9 4.9 5.1 Total saved 40.1 The Government paid $5.3 billion in interest in 1948.
+On the reduced debt, at stable rates, it would have only paid $4.5 billion (col.
+5).
 The Federal budget would have been $0.8 billion less because of reduced interest.
 The national debt, then, would not have grown by $0.5 billion during fiscal 1948, but rather dropped by $0.3 billion due to the interest saving.
 This is shown in columns (3) and (4).
@@ -3131,8 +2792,7 @@ Mainly, that interest touches at every point of our complex economic society. li
 In the deficit case, high interest actually defeats the very purpose of those who say they fear the presumed inflationary potential of Government deficits and want tight money.
 Perhaps these observations can best be summed up by two broad conclusions about monetary policy.
 First, an active monetary policy pursued by an agency that takes its own soundings of the economy and subsequently acts on its own initiative without consultation is a costly luxury for a modern economy.
-It entails the constant use of the monetary sledge hammer to crack economic policy walnuts.
-→ Second, a self-sufficient central bank, as other countries’ experiences confirm, tends in the long run to follow a high-interest policy.
+It entails the constant use of the monetary sledge hammer to crack economic policy walnuts. → Second, a self-sufficient central bank, as other countries’ experiences confirm, tends in the long run to follow a high-interest policy.
 This is quite understandable.
 Despite the long list of desirable economic goals which the central bank may cite as guiding its hand, invariably one consideration seems to predominate — an ever-threatening inflation.
 Why?
@@ -3149,11 +2809,7 @@ Now there is only one way a central bank can try to contain inflation: by keepin
 And this is what central banks have traditionally opted for time and again over the long run.
 The Federal Reserve is no different.
 As this brief resume of postwar monetary policy indicated, if honorable men look for inflation hard enough, they can convince themselves they have found it.
-Most of us then pay the price of being preserved from a monster which the evidence suggests is a mere phantom.
-→
-CHAPTER X
-WHAT IMPROVEMENTS ARE NEEDED IN THE MONEY SYSTEM? ^
-As we have seen, the money system is man made.
+Most of us then pay the price of being preserved from a monster which the evidence suggests is a mere phantom. → CHAPTER X WHAT IMPROVEMENTS ARE NEEDED IN THE MONEY SYSTEM? ^ As we have seen, the money system is man made.
 Invented by man, revised by man, and controlled by man; it is as Abraham Lincoln said, "the creature of law." Therefore, there is no reason to conclude that the system is perfect.
 The process of improving the monetary system has not reached a final stopping place any more than has the process of improving the social and economic order.
 Yet, while changes have been made, the money system has generally proved resistant to change.
@@ -3168,9 +2824,7 @@ The reforms are being presented when a crisis atmosphere is absent, in the hope 
 Most, though by no means all, of the reforms are aimed at the main problem raised by this book: how to bring monetary management under genuine public control in order to coordinate monetary witli other public policies.
 The original intent of the Federal Reserve Act was to create such control; that intent is still valid and more necessary than ever.
 Our Government must squarely face the challenge of recapturing the wheel of its monetary system.
-THE FEDERAL RESERVE AND "INDEPENDENCE" ^
-The topic of Federal Reserve "independence" has been so befogged by a smokescreen of lofty rhetoric in these past years that it is necessary to nail down some fundamentals, even at the risk of repetition, before anything concrete can be said.
-→ What does Federal Reserve independence mean in practical terms?
+THE FEDERAL RESERVE AND "INDEPENDENCE" ^ The topic of Federal Reserve "independence" has been so befogged by a smokescreen of lofty rhetoric in these past years that it is necessary to nail down some fundamentals, even at the risk of repetition, before anything concrete can be said. → What does Federal Reserve independence mean in practical terms?
 It means, first, that Federal Reserve policymakers produce their own separate diagnosis of the economy’s needs at any time by examining the economy with the aid of the System’s large staff of economists.
 But diagnosis is only the beginning of policy.
 Frequently, the various coexisting needs of the economy call for monetary actions which contradict each other — unemployment requires stimulation; an inflationary situation requires restraint.
@@ -3218,8 +2872,7 @@ Finally, the system is not directly responsible to the people for its actions.
 Its members do not face elections.
 Moreover, the system eludes even the audit control exercised by the General Accounting Office, whose function it is to make sure that other Federal agencies not only handle their financial affairs properly but also pursue policies and practices that are in accord with the law.
 The system provides for its own auditing; clutching its mantle of independence, it has stoutly resisted repeated congressional suggestions that the General Accounting Office perform an annual audit.
-(The theory seems to be that whoever holds responsibility for money, credit, and bank regulation is above the ordinary requirements of law.)
-A slight acquaintance with American constitutional theory and practice demonstates that, constitutionally, the Federal Reserve is a pretty queer duck.
+(The theory seems to be that whoever holds responsibility for money, credit, and bank regulation is above the ordinary requirements of law.) A slight acquaintance with American constitutional theory and practice demonstates that, constitutionally, the Federal Reserve is a pretty queer duck.
 It exercises wide power in the area of economic policy, both in formulation and execution — a matter which intimately affects our everyday life.
 It would ordinarily be assumed where such power is present that democratic control was being exercised over the central bank, at least indirectly, through the ballot box.
 Yet this is not the case.
@@ -3227,15 +2880,16 @@ In fact, the combination of economic power and freedom from control by either th
 How does the Federal Reserve, fiercely jealous of its independence since the Accord, justify its admittedly unusual status?
 Here is a sample of the Federal Reserve’s position, taken from hearings held in early 1964 by a subcommittee of the House Banking and Currency Committee.
 The first statements are by Mr.
-William McChesney Martin, Chairman, Federal Reserve Board:
-[The Federal Reserve Act created] 1 a structure that places trusteeship over the creation of money in a body that is insulated from shortsighted pressures for abuse of that money * * * ("The Federal Reserve System After 50 Years," p. 10).
+William McChesney Martin, Chairman, Federal Reserve Board: [The Federal Reserve Act created] 1 a structure that places trusteeship over the creation of money in a body that is insulated from shortsighted pressures for abuse of that money * * * ("The Federal Reserve System After 50 Years," p.
+10).
 Because money so vitally affects all people in all walks of life as well as the financing of Government, the task of credit and monetary management has unique characteristics.
 Policy decisions of an agency performing this task are often the → subject of controversy and frequently of a restrictive nature; consequently, they are often unpopular, at least temporarily, with some groups.
-The general public in a democracy, however, is more apt to accept or tolerate restrictive monetary and credit policies if they are decided by public officials who, like the members of the judiciary, are removed from immediate pressures ("The Federal Reserve System After 50 Years," p. 23).
+The general public in a democracy, however, is more apt to accept or tolerate restrictive monetary and credit policies if they are decided by public officials who, like the members of the judiciary, are removed from immediate pressures ("The Federal Reserve System After 50 Years," p.
+23).
 Mr.
-Alfred Hayes, president of the Federal Reserve Bank of New York said:
-The achievement of our long-term goals can, and frequently does, call for measures that are unpopular in the short run. * * * I think it is of great importance that the persons charged with executing monetary policy, with making these decisions, retain freedom — freedom in a practical sense — to make unpopular decisions ("The Federal Reserve System After 50 Years," p. 531).
-[The Federal Reserve should not be required to submit to the appropriations process] because it would break through the safeguards that the Congress has been careful to provide, against the possibility that partisan influences might be brought to bear on the System’s policymaking processes ("The Federal Reserve System After 60 Years," p. 530).
+Alfred Hayes, president of the Federal Reserve Bank of New York said: The achievement of our long-term goals can, and frequently does, call for measures that are unpopular in the short run. * * * I think it is of great importance that the persons charged with executing monetary policy, with making these decisions, retain freedom — freedom in a practical sense — to make unpopular decisions ("The Federal Reserve System After 50 Years," p.
+531). [The Federal Reserve should not be required to submit to the appropriations process] because it would break through the safeguards that the Congress has been careful to provide, against the possibility that partisan influences might be brought to bear on the System’s policymaking processes ("The Federal Reserve System After 60 Years," p.
+530).
 Boiled down to essentials, what Mr.
 Martin and Mr.
 Hayes are saying is the following: The monetary side of economic policymaking is somehow unique.
@@ -3258,8 +2912,7 @@ This is not to say that the fervor which permeates the financial industry’s ca
 Undoubtedly the bankers are convinced that economic wisdom is only the possession of a special few, and that they are acting in the best interests of the country by promoting independence.
 In the tradition of bankers, they deeply mistrust democratic governments in the management of money matters.
 They are → haunted by the fear that, given control of its money system, the Government would hurtle pellmell into inflation, thereby effectively canceling a great part of the debt and otherwise wrecking the established order.
-(In view of their record for the past 100 years, the bankers’ credentials for recognizing superior economic wisdom when it exists are certainly dubious.)
-The financial institutions have picked up natural allies.
+(In view of their record for the past 100 years, the bankers’ credentials for recognizing superior economic wisdom when it exists are certainly dubious.) The financial institutions have picked up natural allies.
 The newspapers and most other organs of public enlightenment solemnly warn at every opportunity that the independence of the Federal Reserve must be "preserved" — to prevent rampant inflation.
 The inference is clear, and sometimes even flatly stated, that the "politicians" must be kept from destroying the dollar.
 Even in the Halls of Congress, the self-appointed guardians of the sound dollar argue that Congress set up the Federal Reserve as an independent agency and echo much of the Federal Reserve’s own position.
@@ -3274,8 +2927,7 @@ A major premise of that case is that if the System were in any way made accounta
 This notion, that America is inhabited by a populace which would clamor for inflationary monetary policies if their elected officials had some relation, however tenuous, to monetary policy, is considerably at odds with the political realities.
 The hardships which result from inflation fall not on the wealthy, whose family fortunes may undergo some reduction in purchasing power, but on the low- and middle-income families who live on fixed incomes, have pension credits or modest savings set aside for their children’s education, their old age, and so on.
 It would be hard to find a practicing politician today who does not know that inflationary policies lose more votes than they gain.
-Indeed, during the past 13 years there has been no public outcry against tight money, despite the economy’s evident misfires, because the press and trusted political figures have assured the public that tight money was necessary to avoid inflation.
-→ There is something else to be said about inflation and the "polititicians." As the Federal Reserve well knows, a rising price level, when it does threaten, cannot normally be contained by monetary policy alone except at considerable damage to the other economic desirables, full employment and maximum economic growth.
+Indeed, during the past 13 years there has been no public outcry against tight money, despite the economy’s evident misfires, because the press and trusted political figures have assured the public that tight money was necessary to avoid inflation. → There is something else to be said about inflation and the "polititicians." As the Federal Reserve well knows, a rising price level, when it does threaten, cannot normally be contained by monetary policy alone except at considerable damage to the other economic desirables, full employment and maximum economic growth.
 Even mild recessions will not turn the trick.
 What may conceivably work to achieve both price stability and adequate economic performance is enlightened restraint on the part of business and labor in their wage-price policies.
 Now the job of promoting such restraint has naturally fallen to the President with all his powers to cajole and persuade.
@@ -3354,22 +3006,19 @@ The Federal Reserve’s idea that, as a trustee, as opposed to a steward, it sho
 There can hardly be any doubt of this.
 In fact, at the early 1964 hearings, held by a subcommittee of the House Banking and Currency Committee, referred to previously, two leading American economists, identified with different sides of the political spectrum, vigorously agreed on this point.
 Prof.
-Milton Friedman, of the University of Chicago, who has counseled Senator Goldwater, stated at the hearings:
-Should there be a truly "independent" monetary authority?
+Milton Friedman, of the University of Chicago, who has counseled Senator Goldwater, stated at the hearings: Should there be a truly "independent" monetary authority?
 A fourth branch of the constitutional structure coordinate with the legislature, the executive, and the judiciary?
-That is the central issue involved in judging the present organizational structure of the Federal Reserve System.
-* * * it is most undesirable politically to give so much power in individuals not subject to close control by the electorate ("The Federal Reserve After 50 Tears," pp. 1133-1134).
-→ Prof.
-Paul Samuelson, of the Massachusetts Institute of Technology, an economic adviser to President Kennedy during the 1960 presidential campaign said:
-A central bank that is not responsible is irresponsible rather than independent To be responsible means to be responsive.
+That is the central issue involved in judging the present organizational structure of the Federal Reserve System. * * * it is most undesirable politically to give so much power in individuals not subject to close control by the electorate ("The Federal Reserve After 50 Tears," pp.
+1133-1134). → Prof.
+Paul Samuelson, of the Massachusetts Institute of Technology, an economic adviser to President Kennedy during the 1960 presidential campaign said: A central bank that is not responsible is irresponsible rather than independent To be responsible means to be responsive.
 It need not mean being responsible to each month’s 50.001 percent of Democratic opinion, or being responsive to the articulate minority which, at the moment, seems stronger than any other minority.
 But it does mean being responsive to the changing values, views, moods, and even fads of the American citizenry.
 It occurs to me to quote E.
 B.
-White’s definition of "democracy." As I remember it, he said: "Democracy is the recurring suspicion that more than half the people are right more than half the time."
-* * * But the central bank should never be thought of as an island of isolated power, as a St.
+White’s definition of "democracy." As I remember it, he said: "Democracy is the recurring suspicion that more than half the people are right more than half the time." * * * But the central bank should never be thought of as an island of isolated power, as a St.
 George defending the economy against the "dragon" of inflation and frenzied finance.
-As Edmund Burke said nearly two centuries ago: "The age of chivalry is dead — that of responsible, democratic government has succeeded" ("The Federal Reserve After 50 Years," pp. 1107-1110).
+As Edmund Burke said nearly two centuries ago: "The age of chivalry is dead — that of responsible, democratic government has succeeded" ("The Federal Reserve After 50 Years," pp.
+1107-1110).
 Finally, we might consider what may be regarded in some quarters as a minor detail: Congress has never given authority for determining monetary policy to the Federal Reserve System — and certainly not to a committee within the System containing members who owe their selection to private bank interests.
 As has been previously pointed out, the Federal Reserve Act was designed in 1913 on what is sometimes called the full convertibility theory.
 In that day it occurred to no one that America would try to produce too much.
@@ -3395,10 +3044,10 @@ This was one permutation the System has completed — a more or less passive sup
 The second, is that referred to in an earlier chapter as the "power revolution" within the Federal Reserve System.
 That is, the shift toward open market operations for active regulation and the subsequent formation of the Open Market Committee — with voting rights on monetary policy given to five regional bank presidents and persuasion rights to all 12 presidents.
 This second change, whatever else it accomplished, did open the door to private banker influence in the formation of monetary policy.
-The regional bank presidents have become policymakers.
+The regional bank presidents have become policymakers .
 At the very least, the type of man chosen to become the president of a regional bank affects the bent of Open Market Committee thinking.
 Now the private bankers have the dominant voice in choosing the regional bank presidents.
-They are hardly likely to choose and retain men as presidents whose approach to monetary matters does not in general conform to their taste.
+They are hardly likely to choose and retain men as presidents whose approach to monetary matters does not in general conform to their taste .
 Consider these two evolutions in the light of independence.
 By the 1930’s, the country found itself with monetary policy being decided by a group of men some of whom were selected for membership in the group by private interests.
 However far this may have been from the original intention of President Wilson, some consolation could be found in the fact that, after all, the President was still assumed to have the last word in overall economic policymaking.
@@ -3414,14 +3063,12 @@ The central bank must be brought back into the Government.
 The Federal Reserve must be made responsible, and responsive, to the economic policymaking decisions of the President.
 Money must be managed for one purpose or another.
 To repeat the ancient truism, "money does not manage itself." Let it be managed, then, not in ways which counteract and conflict with the Government’s other, considered policies, but in ways calculated to supplement and help effectuate those policies.
-NEEDED FEDERAL RESERVE REFORMS ^
-What legislation is needed to bring about coordination and harmony among the Government’s policies with respect to monetary management, debt management, and fiscal and tax policies ?
+NEEDED FEDERAL RESERVE REFORMS ^ What legislation is needed to bring about coordination and harmony among the Government’s policies with respect to monetary management, debt management, and fiscal and tax policies ?
 In a sense, none.
 The authority is already provided in existing laws; not the Federal Reserve Act, but the Employment Act of 1946.
 Indeed, the Employment Act of 1946 not only authorizes coordination of the policies mentioned, it requires it.
 The act declares that it shall be the continuing policy and responsibility of the Federal Government "to coordinate and utilize all of its plans, functions, and resources" for the purposes stated in the act.
-The central purpose is "to promote maximum employment, production, and purchasing powder," and, it might bo added, "in a manner calculated to foster and promote free competitive enterprise and the general welfare."
-But though the law exists and the duty is clear, the Federal Reserve has still managed to go its independent way.
+The central purpose is "to promote maximum employment, production, and purchasing powder," and, it might bo added, "in a manner calculated to foster and promote free competitive enterprise and the general welfare." But though the law exists and the duty is clear, the Federal Reserve has still managed to go its independent way.
 Therefore, it is the duty of Congress to assert its sovereignty over the monetary affairs of the country once again.
 The major thrust of the legislation, of course, should be to cut the ground out completely from all Federal Reserve claims to independence.
 The Federal Reserve must be made a clearly defined arm of the Government.
@@ -3433,16 +3080,8 @@ The purpose is to assure that the public interest is served.
 Some of the → changed procedures require legislation, others do not.
 They all require a more consistent public-spirited attitude than the System has demonstrated to date.
 The first 5 sets of reforms are contained in proposals submitted for discussion by all of the 8 Democratic members of the Subcommittee on Domestic Finance after hearing testimony on the Federal Reserve’s structure and policies in 1964.
-The full text of the subcommittee’s press release, including the proposed reforms, is published below:
-House of Representatives
-Subcommittee on Domestic Finance
-of the
-Committee on Banking and Currency
-Eighty-Eighth Congress
-WASHINGTON, D.C.
-(Press release for Sunday a.m., June 28, 1964)
-The Subcommittee on Domestic Finance of the House Banking and Currency Committee Releases "Proposals for Improvement of the Federal Reserve"
-The Domestic Finance Subcommittee today submitted for circulation and discussion a set of corrective proposals to strengthen the Federal Reserve System.
+The full text of the subcommittee’s press release, including the proposed reforms, is published below: House of Representatives Subcommittee on Domestic Finance of the Committee on Banking and Currency Eighty-Eighth Congress WASHINGTON, D.C.
+(Press release for Sunday a.m., June 28, 1964) The Subcommittee on Domestic Finance of the House Banking and Currency Committee Releases "Proposals for Improvement of the Federal Reserve" The Domestic Finance Subcommittee today submitted for circulation and discussion a set of corrective proposals to strengthen the Federal Reserve System.
 All of the Democratic members of the subcommittee joined in this action.
 The Republican members did not join in the release.
 The Democratic members of the subcommittee are Wright Patman, chairman (Democrat, Texas), Henry S.
@@ -3452,52 +3091,42 @@ Minish (Democrat, New Jersey), Charles L.
 Weltner (Democrat, Georgia), Richard T.
 Hanna (Democrat, California), and Charles H.
 Wilson (Democrat, California).
-The text follows:
-“PROPOSALS FOR IMPROVEMENT OF THE FEDERAL RESERVE SUBMITTED FOR DISCUSSION BY THE SUBCOMMITTEE ON DOMESTIC FINANCE ^
-“We have heard considerable testimony on the Federal Reserve System.
+The text follows: “PROPOSALS FOR IMPROVEMENT OF THE FEDERAL RESERVE SUBMITTED FOR DISCUSSION BY THE SUBCOMMITTEE ON DOMESTIC FINANCE ^ “We have heard considerable testimony on the Federal Reserve System.
 The testimony strongly suggests that some revision of the System is indicated to improve future monetary policy and thereby our economy’s performance, in accord with the Employment Act of 1946.
 A set of corrective proposals which emerges from the testimony given before the subcommittee is presented herewith for further consideration.
 “We are not suggesting, of course, that these proposals cannot be improved upon.
 While the subcommittee has not settled on any specific proposal, it intends to consider the entire set in public hearings after the next Congress convenes in January 1965.
-The proposals, though preliminary and tentative, are circulated at this time to allow for full study and discussion by the Congress, the executive branch, the Federal Reserve, and the public:
-- “A.
-To emphasize the public character of the Federal Reserve:
-- “1.
+The proposals, though preliminary and tentative, are circulated at this time to allow for full study and discussion by the Congress, the executive branch, the Federal Reserve, and the public: “A.
+To emphasize the public character of the Federal Reserve: “1.
 Provide for the retirement of the Federal Reserve stock.
-- “2.
+“2.
 Vest all power to conduct open market operations in the Federal Reserve Board.
-- “B.
-To increase the effectiveness of monetary policy by assuring the recruitment of an outstanding Federal Reserve Board and an adequate response to advances in economic knowledge:
-- “1.
+“B.
+To increase the effectiveness of monetary policy by assuring the recruitment of an outstanding Federal Reserve Board and an adequate response to advances in economic knowledge: “1.
 Remove the present requirement that the President, in selecting Governors of the Federal Reserve Board '* * * shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests and geographical divisions of the country.’ Instead, require only that the Governors be men of integrity devoted to the public Interest.
-- “2.
+“2.
 Reduce to five the number of Governors of the Federal Reserve Board.
-- “3.
-Reduce to 5 years the terms of office of the Governors and allow for reappointment. →
-- “4.
+“3.
+Reduce to 5 years the terms of office of the Governors and allow for reappointment. → “4.
 Make the term of the Chairman of the Board of Governors coterminous with that of the President.
-- “5.
+“5.
 Raise the salaries of the Governors.
-- “C.
-To insure public control over the expenditures of public monies:
-- “1.
+“C.
+To insure public control over the expenditures of public monies: “1.
 Provide for a public audit by the Comptroller General of all expenditures by the Federal Reserve Board and the Reserve banks.
-- “2.
+“2.
 Provide for paying into the Treasury as miscellaneous receipts all capital gains and interest received by the Federal Reserve from U.S.
 Government securities.
-- “3.
+“3.
 Authorize appropriations by the Congress of the expenses of the Federal Reserve banks and the Federal Reserve Board.
-- “D.
-To provide statutory guidelines for monetary policy and assure coordination of all of the Government’s economic policies in achieving the goals of the Employment Act of 1946:
-- “1.
+“D.
+To provide statutory guidelines for monetary policy and assure coordination of all of the Government’s economic policies in achieving the goals of the Employment Act of 1946: “1.
 Require that the President set forth in his periodic Economic Reports, in conjunction with his recommendations on fiscal and debt management policy, guidelines concerning monetary policy, domestic and foreign — including the growth of the money supply, as defined by him — necessary to attain the goals of maximum employment, production, and purchasing power of the Employment Act of 1946.
-- “2.
+“2.
 Express the sense of Congress that the Federal Reserve operate in the open market so as to facilitate the achievement of the President’s monetary policy; and require that the Federal Reserve, if its monetary views and actions diverge from those recommended by the President, file with the President and the Congress a statement of reasons for Its divergence, in form like the President’s Economic Report.
-- “E.
-To allow for greater specialization in performing the monetary control function:
-- “1.
-Permit the Federal Reserve Board to concentrate on monetary policy by transferring its present bank supervisory functions to the Comptroller of the Currency, the FDIC, or, alternatively, to a newly created Federal banking authority.”
-F.
+“E.
+To allow for greater specialization in performing the monetary control function: “1.
+Permit the Federal Reserve Board to concentrate on monetary policy by transferring its present bank supervisory functions to the Comptroller of the Currency, the FDIC, or, alternatively, to a newly created Federal banking authority.” F.
 In addition, the Federal Reserve System should immediately undertake studies appraising the effectiveness of their present methods of controlling the money supply.
 It may well be, as recent economic studies indicate, that the Federal Reserve’s control of the money supply is defective — leading to the kind of divergencies economists have observed between what the Federal Reserve claims it is doing, with respect to the money supply, and what has actually happened.
 G.
@@ -3545,8 +3174,7 @@ The discussion of the Federal Reserve’s use of its authority to buy and sell s
 Not only Is the trading restricted to only 21 professional dealers, but for many years this trading went on with only a minimum public knowledge that the so-called market even existed.
 High Government officials, bankers, authorities on money and banking, and even prominent Wall Street operators were unaware of the so-called open market.
 It is probably only because the writer has made some repetitive noises in Congress about this so-called market that its existence has come to enjoy the rather limited nonanonymity it enjoys today.
-NEEDED FDIC REFORMS ^
-The chapter on the operations of the Federal Deposit Insurance Corporation should have left no doubt that basic changes in the FDIC’s role are needed.
+NEEDED FDIC REFORMS ^ The chapter on the operations of the Federal Deposit Insurance Corporation should have left no doubt that basic changes in the FDIC’s role are needed.
 FDIC’s function should be restricted to that of deposit insurance.
 It should not, as it is now doing, let examiners substitute their judgment for private management’s decisions about bank operations.
 If the commercial banks are to serve the credit needs of their communities, and particularly the needs of small business, they must assume prudent risks.
@@ -3557,8 +3185,7 @@ But by insuring our lives the life insurance companies do not get the right to t
 By the same token, performing the deposit insurance function does not warrant the FDIC’s assuming the function of maintaining a closed shop for banks.
 Whether or not a new group wishing to enter the banking business causes inconvenience or competition to the banks already established is no proper question for the FDIC.
 It should promulgate objective standards of eligibility for deposit insurance, and it should be required to issue deposit insurance to any comers who meet those standards.
-NEEDED TREASURY REFORMS ^
-With the mechanics of debt management operations properly in the hands of the Federal Reserve System, most of the Treasury’s objectionable operations in this field will come to an end.
+NEEDED TREASURY REFORMS ^ With the mechanics of debt management operations properly in the hands of the Federal Reserve System, most of the Treasury’s objectionable operations in this field will come to an end.
 The practice of seeking advice from buyers will be eliminated; so, too, will the practice of leaning on underwriters — professional distributors and profiteers — to find ultimate buyers of Treasury securities.
 This leaves for correction, however, the Treasury’s present practice of leaving on deposit with the private banks an average of $4 billion of Treasury funds.
 It has been argued, of course, that the Treasury leaves this minimum deposit with the banks, interest free, to compensate them for various services to the Government.
@@ -3568,16 +3195,16 @@ A minimum balance of $4 billion of Treasury funds in private banks means, of cou
 F or compensation, the taxpayers should receive interest on Treasury deposits left with the commercial banks.
 If substantial services are rendered the Government by the commercial banks, then appropriate fees for these services should be negotiated and paid the banks directly.
 I have introduced legislation to this effect.
-OBJECT OF PROPOSED REFORMS ^
-What principles should guide public policy toward the private commercial banking system and the use by the private banks of the Government’s power to create money?
+OBJECT OF PROPOSED REFORMS ^ What principles should guide public policy toward the private commercial banking system and the use by the private banks of the Government’s power to create money?
 Late in 1941, and again at the beginning of 1943, I succeeded in obtaining committee consideration of a proposal of mine which was to have the Federal Reserve System purchase — on an interest-free basis — all obligations issued to finance the war which could not be placed at the then prevailing interest rate with individuals and savings institutions.
 The object was to draw on savings to the maximum amount possible; having failed to sell to individuals and savings institutions, the remainder was not to be placed with the commercial banks on bank-created money.
 Mr.
 Marriner Eccles, who was then Chairman of the Federal Reserve Board, objected on the grounds that bank profits were then low and bank costs, like all other costs, were rising.
 As a consequence, reasonable bank profits would have to be maintained by one means or another.
 In conclusion, Mr.
-Eccles said that the banks would have to "increase all kinds of service charges and the question whether the public that paid the service charges to the banks under these circumstances would be better off through that process than they are with the present process." (Hearings before the Committee on Banking and Currency, House of Representatives, 77th Cong., 1st sess., on H.R. 5479, 1941, p. 1349.)
-Mr.
+Eccles said that the banks would have to "increase all kinds of service charges and the question whether the public that paid the service charges to the banks under these circumstances would be better off through that process than they are with the present process." (Hearings before the Committee on Banking and Currency, House of Representatives, 77th Cong., 1st sess., on H.R.
+5479, 1941, p.
+1349.) Mr.
 Eccles’ point is well taken.
 On the face of it, commercial banks are highly socialistic institutions.
 From one angle, they "live off the Government," using the Government’s money-creating power free of cost and receiving a variety of other, more or less direct subsidies from the public purse.
@@ -3587,435 +3214,58 @@ Such loans involve an element of risk.
 They require an element of judgment, and so private risk taking.
 The Government does, of course, make direct loans to individuals and business firms in certain instances.
 But when the Government makes loans to private citizens, the lending must, to the maximum extent, be made on the basis of objective standards under which all would-be borrowers are treated alike, not on the basis of intuition.
-Risk taking often involves seemingly arbitrary discrimination, which is understood and acceptable conduct for a private bank; as the conduct of Government, it would be intolerable.
-→ This suggests that the guiding principle for immediate monetary reform should be encouragement oi commercial bank lending to business and consumers — indeed, there is a crying need for an expansion of such lending — and discouragement oi commercial bank lending to the Government.
+Risk taking often involves seemingly arbitrary discrimination, which is understood and acceptable conduct for a private bank; as the conduct of Government, it would be intolerable. → This suggests that the guiding principle for immediate monetary reform should be encouragement oi commercial bank lending to business and consumers — indeed, there is a crying need for an expansion of such lending — and discouragement oi commercial bank lending to the Government.
 As has been previously suggested, the only reason why the Government should extend its money-creating powers to private banks is, in the last analysis, to guarantee enough bank profits to assure adequate banking services for the general public benefit.
-Footnotes, Chapter 2
-- (page 21) ^ 1 Knox v.
-Lee, 1870, p. 543.
-- (page 21) ^ 2 Nortz v.
-U.S., 1935; Norman v.
-Baltimore & Ohio R.R., 1935.
-Footnotes, Chapter 3
-- (page 28) ^ 1 Total demand deposits adjusted and currency outside banks.
-- (page 38) ^ 2 Hearings before Subcommittee No. 3 of the Committee on Banking and Currency, House of Representatives, 86th Cong., 2d sess on H.R. 8516 and H.R. 8627, pt. 1, p. 179.
-Footnotes, Chapter 4
-- (page 61) ^ 1 Remember, though, that member banks account for about 8S percent of total deposits.
-Footnotes, Chapter 5
-- (page 74) ^ 1 "The Federal Reserve System After 50 Years," hearings before the Subcommittee on Domestic Finance Committee on Banking and Currency, House of Representatives, 88th Cong., 2d Bess., vol. 1, p. 164.
-Footnotes, Chapter 8
-- (page 93) ^ 1 Congressional Record, July 1, 1959, p. 12507.
-- (page 93) ^ 2 Congressional Record, July 1, 1959, p. 12507.
-- (page 93) ^ 3 Congressional Record, July 1, 1959, p. 12514.
-- (page 94) ^ 4 Congressional Record, July 1, 1959, p. 12514.
-Footnotes, Chapter 9
-- (page 106) ^ 1 Comments within brackets are the author’s and not Professor Hansen’s.
-- ^ 2 Hansen, Alvin, "The American Economy," McGraw-Hill, New York, 1957, pp. 74-77.
-- (page 114) ^ 1 It is necessary to distinguish between "demand-pull" Inflation and "cost-push." The latter occurs when several groups can push up prices even when general demand Is not high enough to take all the goods the economy could produce.
-Footnotes, Chapter 10
-- (page 121) ^ 1 Phrases within brackets are mine and not the speaker’s.
-INDEX ^
-- Accord of 1951:
-- Active monetary policy 97-101
-- Ad hoc committee of Federal Open Market Committee and its "bills only" policy 107-110
-- Aldrich, Senator Nelson 57, 58
-- Aldrich-Vreeland Act of 1908 60
-- American Bankers Association:
-- Balance-of-payments deficit 110-111 114
-- Bank holding companies, regulation of 85
-- Bank holiday of 1933 83
-- Bank of England 52
-- Bank runs 58, 83
-- Banking Act of 1935 70, 84-85
-- "Bills only" policy 107-110
-- Board of Governors 61, 62, 73, 84, 121, 130-131
-- Borrowing by banks of Federal Reserve System 42
-- Brokers’ loans, in the crash of 1929 83
-- Call loans:
-- Central bank:
-- Checkbook money:
-- Check clearance:
-- Clearinghouses, their role in panics 60
-- Coins:
-- Commercial banks:
-- Deposits of as money 17
-- And issuance of checkbook money 19-20
-- And creation of money 31-49
-- In Federal Reserve System 51 59 61
-- Influence of in Federal Open Market Committee 72-73
-- And ownership of Federal Reserve banks 77-82
-- How Federal Reserve gives public funds to 79-96
-- And the power to create money 89 91-95
-- Subsidized by Federal Government 89-90
-- Protected from competition 89-90
-- Nourished through Federal insurance 90
-- Public interest served through aids to 90
-- And bond giveaway bill of 1958 91-92
-- And benefits from vault cash bill 92-95
-- As socialistic institutions 134
-- Needed reforms in lending practices of 135
-- Competition, how Federal Government protects private banks against 83-90
-- Comptroller of Currency:
-- Constitution of United States, and delegation of monetary powers by Congress 20,128
-- Consumer credit, restrictions on in World War II 101-102
-- "Continentals" 15
-- Credit.
-(See Money supply.)
-- Currency:
-- Debt management.
-(See National debt.)
-- Delayed compensation certificates for World War I veterans 100-101
-- Demand deposits:
-- Deposits, two kinds of 31
-- Discounting (rediscounting):
-- Discount rate:
-- Dollar of United States:
-- Easy money.
-(See Monetary policy; passive monetary policy.)
-- Eccles, Marriner 77, 104, 134
-- Economic growth:
-- Economic policy:
-- Edison, Thomas A., on Government-issued money 47
-- Eisenhower administration monetary policy 97-98, 108-110
-- Eligible paper 42-43, 59, 60-70
-- Emergency Banking Act of 1933 83-84
-- Employment Act of 1946 102-103
-- Federal Deposit Insurance Act 83-87
-- Federal Deposit Insurance Corporation:
-- Federal Open Market Committee:
-- Its open market operations in Government securities explained 39-40, 62
-- Powers of 65, 66
-- Participants in 61, 65-66
-- And availability of credit 66, 68
-- And fixing of interest rates 66, 67-68
-- Operations of in early period of Federal Reserve Act 70
-- And banking legislation of 1933 and 1935 70
-- Increasing importance of 70-71
-- Voting members of 71
-- When and where meetings of are held 71
-- As determiner of monetary policy 72
-- As symbol of power revolution within Federal Reserve System 72-73
-- Proposals for changes in 73
-- Its open market account 74
-- And fixing of interest rates 74
-- Its open market 75, 76
-- Its 21 securities dealers 75, 76
-- And accord of 1951 104-107
-- Ad hoc committee of 107
-- Its "bills only" policy 107-110
-- Needed changes in 132-133
-- Federal Reserve Act:
-- Federal Reserve Bank of New York, agent of Federal Reserve System in open market operations 39
-- Federal Reserve banks 39, 84, 85
-- The ownership of 77-82
-- "Stock" of explained 79-81
-- Problems created by "stock" of 81-82
-- Proposal to eliminate "stock" of 82
-- See Member banks.
-- Federal Reserve notes, what backs them 19
-- Federal Reserve System:
-- Controls money supply 32, 35-39
-- How it creates money 32-34
-- Authorized by Congress to create money 34
-- Methods used to create or extinguish reserves 39-42
-- Effects of purchases of gold for U.S.
-Treasury by 41
-- Creates reserves by making loans to member banks 42
-- Borrowing privileges under 42
-- Security on loans made by 42
-- Creates reserves when it buys eligible paper 42
-- A central bank with American characteristics 51
-- Membership features of 51, 58, 59-60, 61
-- Purposes of 57-60
-- Improvements over previous system 60-61
-- Organization of 61-62
-- Operations of 62-63
-- Its sources of revenue 62-63
-- Its expenditures of income 63
-- Its open market operations 65-76
-- Ownership of member banks 77-82
-- And Banking Acts of 1933 and 1935 84—85
-- And accord with U.S.
-Treasury in 1951 103-107
-- Its "independence" analyzed and questioned 105, 119-129
-- Its independence of Congress 120-121, 123, 124, 125, 127-128
-- Its independence of the Executive 121
-- Its independence of the electorate 121
-- Its independence of the GAO 121
-- Its alliance with the bankers 122, 128-129
-- Its fight with inflation 111-117, 122, 123-124
-- Its independence of President’s economic policies 124-125
-- Its independence of fiscal policy 125
-- Its independence violates democratic principles 126, 128-129
-- Its permutations of original purposes 127-129
-- Its regional bank presidents as policymakers 128
-- Needed reforms in 129-133
-- Statement of Subcommittee on Domestic Finance concerning reforms in 130-133
-- First and Second Banks of United States 52
-- Fiscal policy 110-111, 124-125
-- Foreign central banks and Treasury gold transactions 40-41
-- Fractional reserve banking:
-- Friedman, Prof.
-Milton 126-127
-- Full convertibility theory 127
-- Gold:
-- And the U.S. dollar 22-23
-- And gold standard 22-23
-- Federal Reserve acts for Treasury in purchase of 40
-- Sources of 40
-- Why Treasury purchases 41
-- How Federal Reserve creates reserves when purchasing for Treasury. 41
-- Effects of purchases of by foreign central banks 41-42
-- As reserves of State and National banks 54
-- Attempt by Gould and Fisk to corner market in 55-56
-- Goldsmith bankers 28-30
-- Gold standard 22-23
-- Government bonds.
-(See Government securities.)
-- Government securities:
-- Open market operations in 39-40
-- Amounts of, owned by Federal Reserve 46
-- How Federal Reserve pays for 47
-- Amounts acquired by private banks 47
-- As secondary reserves 53
-- Interest on as income of Federal Reserve banks 62-63
-- And Treasury borrowings 67-68, 75-76
-- Effects of open market operations on 74
-- The 21 open market dealers in 75-76
-- Volume of market in 75
-- Giveaways of, by Federal Reserve to commercial banks 91-95
-- How Federal Reserve could reduce its holdings of 95
-- Interest rates on, 1939-50 103
-- And Federal Reserve-Treasury disagreements on 103
-- And accord of 1951 103-107
-- And "free" bond market 107
-- And "bills only" policy 107-110
-- And debacle of bond market in 1958 109
-- Greenbacks 48
-- Hansen, Prof.
-Alvin, comments on accord 106
-- Hayes, Alfred, on "independence" of Federal Reserve 122
-- Inflation:
-- Insured banks 85, 87
-- Insured deposits 85
-- Interest equalization tax 111
-- Interest rates:
-- A decision of Government 7
-- And cost of living 7
-- As business cost 7
-- Pyramided cost of 7
-- And level of business activity 8
-- And investment 8
-- And small business 8
-- And efficiency 9
-- And growth of output per man-hour 9
-- And employment 9, 11
-- And growth of industrial capacity 9
-- And production 9
-- And transfer of income 9-10
-- And economic boom 10
-- In past 10 years 10-11
-- And inflation 11
-- And taxpayers 12
-- And State and local debt 12
-- And Federal debt 12
-- And competition with U.S.S.R 12
-- And New York banks' prime rate 67
-- And Treasury negotiations 67-68
-- Methods of fixing by Federal Reserve 74
-- In 1935-39 101
-- After World War II 103-110
-- And accord of 1951 103-107
-- And "bills only" policy 107-110
-- Under Eisenhower 108-110
-- Under Kennedy and Johnson 110-111
-- Since 1960 111, 114, 117
-- Investment and monetary policy 109, 114-115
-- Investment banks 84
-- Jackson, President Andrew 52
-- Johnson, President Lyndon B 110-111
-- Kennedy, President John F 110, 125
-- Legal tender 18
-- Lincoln, President Abraham 16, 20
-- McCabe, Thomas B 104, 105
-- His role in accord 104-105
-- Martin, William McChesney:
-- Member banks 51, 61, 62-63
-- See Commercial banks; National banks; State banks.
-- Mercantile National Bank of New York, its conflict with Standard Oil 56
-- Monetary policy:
-- Its relation to the economy 97, 98, 99, 102, 108-117
-- Definition of 97-99
-- And inflation 97, 111-117
-- And money supply 97, 98
-- In 1955 98
-- In 1957 98
-- In 1959-60 _ 98
-- In 1961-62 98
-- At time of passage of Federal Reserve Act 99
-- In 1920’s 99-100
-- After Banking Act of 1935 100
-- The "push on a string" analogy of 100-101
-- And World War I soldiers’ bonus 101
-- During World War II 101-102
-- And Employment Act of 1946 101-103
-- And interest rates on Government securities 103
-- Findings by Patman committee on 103
-- And accord of 1951 103-107</li>
-- And "bills only" policy 107-110
-- Under Eisenhower 108-110
-- Under Kennedy and Johnson 110-111, 124
-- And investment 114-115
-- And national debt costs 115-116
-- Some conclusions on 116-117
-- Its independence of President’s economic policy 124
-- Its independence of fiscal policy 125
-- Needed reforms in 129-133
-- Monetary reforms 119-135
-- Monetary system:
-- Money:
-- And society 7-12
-- What it is 13-25
-- How it is created 27-49
-- Ancient types of 13
-- Colonial 14-15
-- In Revolutionary War period 15
-- In post-Revolutionary War period 16
-- State bank notes as 16
-- Forms in use today 17, 18
-- Commercial bank deposits as 17
-- Legal tender 18
-- What makes it valuable 18
-- The power to create 19-21
-- Treasury currency 19
-- Federal Reserve notes 19</li>
-- Checkbook 19-20
-- Who should have power to create 20
-- And congressional power over under Constitution 20-21
-- What backs the dollar 21-23
-- Why it is used 23-24
-- Why it must be managed 24
-- Why right amount of is important 24
-- Why Government issues small amounts of 47-48
-- Reforms needed in U.S. system of 119-135
-- Money economy, development of in United States 52-53
-- Money supply 65-76
-- Amount of important to economy 24
-- Defined 25
-- A Government decision 27
-- In 1914 and 1929 28/li>
-- How it is increased 31-32
-- Limited by Federal Reserve 32-33
-- How expansion or contraction of is achieved 32-35
-- Formula which determines 35
-- How Federal Reserve changes formula of 35-39
-- Inadequacy of before Federal Reserve Act 54, 65, 57-58
-- Provisions for regulating under Federal Reserve Act 59, 69-70
-- Impact of open market operations on 70-71
-- Control of by Federal Open Market Committee 72-73, 74-75
-- Its relationship to GNP 74
-- In 1929-33 83, 100
-- Created by Federal Reserve and private banks 91
-- And bond giveaway of 1958 91-92
-- And vault cash bill of 1959 92-95
-- And economic activity 97-99
-- And intent of Federal Reserve Act 99
-- Before World War I 99-100
-- In 1920’s 100
-- And inflation 117, 122, 123-124
-- Morgan, J.
-P., and panic of 1907 56-57
-- National Bank Acts of 1863 and 1864 16-17, 52-58, 68-69
-- National banks:
-- National bank notes 89
-- National debt:
-- New York Clearing House Association, its role in panic of 1907 56-57, 60
-- Open Market Committee.
-( See Federal Open Market Committee.)
-- Owen, Senator Robert L 58
-- Ownership of Federal Reserve banks 77-82
-- Panics 53-57, 60
-- Passive monetary policy 97-100
-- Patman committee of 1952 103-107
-- "Pegged" bond prices 105
-- Pen and ink money 48
-- Price stability.
-(See Inflation.)
-- Prime rate 67
-- Printing press money 48
-- Private banks, how Federal Reserve gives public funds to 89-118
-- See Commercial banks.
-- Pujo Committee 57, 58
-- Reforms in Federal Reserve System, proposals for 129-133
-- Regional banks:
-- Regulation W 101
-- Reserve requirements:
-- Reserves:
-- Of goldsmith bankers 30
-- Created by commercial banks 31-32
-- Increased or decreased by Federal Reserve 35-39
-- Misconceptions concerning 36-38
-- Increases in, 1917-59 39
-- Methods of increasing or decreasing 39-42
-- How open market operations affect 40
-- How Treasury gold purchases affect 41-42
-- How Federal Reserve loans to banks affect 42
-- Created when Federal Reserve buys eligible paper 42-43
-- Money in belongs to private banks 43
-- How increase in helps Treasury and taxpayers 44
-- And deposit balances in average bank 49
-- Of State banks 54
-- Under national banking system 54-55, 57
-- Under Federal Reserve Act 60-61, 62
-- Robertson, J.
-L 78
-- Roosevelt, President Franklin D 83
-- Roosevelt, President Theodore 56-57
-- Samuelson, Prof.
-Paul 127
-- Scrip 60
-- Secondary reserves 53
-- Securities and Exchange Act of 1934 84
-- Shepardson.
-Charles N 78
-- Silver certificates 19
-- Snyder, John 105
-- Speculation:
-- Standard Oil and Mercantile National Bank conflict 56
-- State banks 52, 54, 59, 62, 68, 87, 90
-- State bank notes 16, 20
-- "Stock" of Federal Reserve banks:
-- A controversial provision of Federal Reserve Act 77
-- Bankers’ attitude toward 77
-- Federal Reserve officials’ position on 77-78
-- Academic economists’ views on 78-79
-- Misunderstandings concerning 79
-- Original intent of provision for 79-81
-- Nature of 81
-- Problems created by 81-82
-- As a cost to taxpayers 82
-- Proposal for eliminating 82
-- Stock market:
-- Subcommittee on Domestic Finance, House of Representatives:
-- Subcommittee on Monetary Policy and Management of the Public Debt 103-107
-- Subsidies to private banks by Federal Government 89-95
-- Szymczak, M.
-S 78
-- Tax cut of 1964 110
-- Taxpayer, how Federal Reserve policy could help 45-46
-- Tight money, effects of in past 10 years 10-12, 98
-- See Monetary policy; active monetary policy.
-- Tobacco, as legal tender 15
-- Treasury of the United States:
-- And negotiated interest rates 67-68
-- And open market operations 74-75
-- Its commitments to FDIC 86
-- Disagreements with Federal Reserve 103
-- Its accord with Federal Reserve 103-107
-- Needed reforms in 133-134
-- Wilson, President.
-Woodrow 58, 72, 73
-- Truman, President Harry S 104-105
-- Vault cash bill of 1959 92-95
-- Wall Street and control of banking system 57
-- Wampum, as legal tender 14
+Footnotes, Chapter 2 (page 21) ^ 1 Knox v.
+Lee , 1870, p.
+543. (page 21) ^ 2 Nortz v.
+U.S. , 1935; Norman v.
+Baltimore & Ohio R.R. , 1935.
+Footnotes, Chapter 3 (page 28) ^ 1 Total demand deposits adjusted and currency outside banks. (page 38) ^ 2 Hearings before Subcommittee No.
+3 of the Committee on Banking and Currency, House of Representatives, 86th Cong., 2d sess on H.R.
+8516 and H.R.
+8627, pt.
+1, p.
+179.
+Footnotes, Chapter 4 (page 61) ^ 1 Remember, though, that member banks account for about 8S percent of total deposits.
+Footnotes, Chapter 5 (page 74) ^ 1 "The Federal Reserve System After 50 Years," hearings before the Subcommittee on Domestic Finance Committee on Banking and Currency, House of Representatives, 88th Cong., 2d Bess., vol.
+1, p.
+164.
+Footnotes, Chapter 8 (page 93) ^ 1 Congressional Record, July 1, 1959, p.
+12507. (page 93) ^ 2 Congressional Record, July 1, 1959, p.
+12507. (page 93) ^ 3 Congressional Record, July 1, 1959, p.
+12514. (page 94) ^ 4 Congressional Record, July 1, 1959, p.
+12514.
+Footnotes, Chapter 9 (page 106) ^ 1 Comments within brackets are the author’s and not Professor Hansen’s. ^ 2 Hansen, Alvin, "The American Economy," McGraw-Hill, New York, 1957, pp.
+74-77. (page 114) ^ 1 It is necessary to distinguish between "demand-pull" Inflation and "cost-push." The latter occurs when several groups can push up prices even when general demand Is not high enough to take all the goods the economy could produce.
+Footnotes, Chapter 10 (page 121) ^ 1 Phrases within brackets are mine and not the speaker’s.
+INDEX ^ Accord of 1951: Between Federal Reserve and Treasury 103-107 And Federal Reserve "independence" 105 Active monetary policy 97-101 Ad hoc committee of Federal Open Market Committee and its "bills only" policy 107-110 Aldrich, Senator Nelson 57 , 58 Aldrich-Vreeland Act of 1908 60 American Bankers Association: On ownership of Federal Reserve banks 77 And bond giveaway bills of 1958 and 1959 92-95 Balance-of-payments deficit 110-111 114 Bank holding companies, regulation of 85 Bank holiday of 1933 83 Bank of England 52 Bank runs 58 , 83 Banking Act of 1935 70 , 84-85 "Bills only" policy 107-110 Board of Governors 61 , 62 , 73 , 84 , 121 , 130-131 Borrowing by banks of Federal Reserve System 42 Brokers’ loans, in the crash of 1929 83 Call loans: Effects of before Federal Reserve 53-54 , 55 Effects of on money supply 1929-33 83 Central bank: History of in United States 51-60 Purpose of 51 Federal Reserve System as 51 First and Second Banks of United States as 52-53 And Banking Acts of 1933 and 1935 84-85 Checkbook money: Who issues it 19 How supply of is determined 31-35 44 Check clearance: An advantage of Federal Reserve membership 59-60 61 62 89 By regional banks 73-74 A subsidy service to private banks 89 Clearinghouses, their role in panics 60 Coins: Of United States in use today 18 Who issues 18 How supply of is determined 44 Commercial banks: Deposits of as money 17 And issuance of checkbook money 19-20 And creation of money 31-49 In Federal Reserve System 51 59 61 Influence of in Federal Open Market Committee 72-73 And ownership of Federal Reserve banks 77-82 How Federal Reserve gives public funds to 79-96 And the power to create money 89 91-95 Subsidized by Federal Government 89-90 Protected from competition 89-90 Nourished through Federal insurance 90 Public interest served through aids to 90 And bond giveaway bill of 1958 91-92 And benefits from vault cash bill 92-95 As socialistic institutions 134 Needed reforms in lending practices of 135 Competition, how Federal Government protects private banks against 83-90 Comptroller of Currency: Removed from Board of Governors 84 His role in chartering new banks 89 Endorsed vault cash bill 94 Constitution of United States, and delegation of monetary powers by Congress 20 , 128 Consumer credit, restrictions on in World War II 101-102 "Continentals" 15 Credit.
+(See Money supply .) Currency: What it is 18 Amounts in circulation 18 Who issues it 19 How supply of is determined 44 Debt management.
+(See National debt .) Delayed compensation certificates for World War I veterans 100-101 Demand deposits: As substantial part of money supply 25 Banking Act of 1933 prohibits interest payments on 84 , 90 Insured by FDIC 85 As checkbook money 10-20 , 32-33 , 44 Deposits, two kinds of 31 Discounting (rediscounting): Defined 59 And money supply 61 , 69-70 And regional bank functions 73-74 Discount rate: Its determination 59 , 62 , 73 As a monetary control instrument 70 Dollar of United States: What backs it 21-23 And gold standard 22 Is managed paper currency 23 Easy money.
+(See Monetary policy ; passive monetary policy.) Eccles, Marriner 77 , 104 , 134 Economic growth: United States and U.S.S.R. compared 12 And monetary policy 7-11 , 97 , 98 , 99 , 102 , 108-117 Economic policy: Of Federal Government in great depression 102 Declaration of in Employment Act of 1946 102-103 Independence of Federal Reserve from 103 , 124-125 Edison, Thomas A., on Government-issued money 47 Eisenhower administration monetary policy 97-98 , 108-110 Eligible paper 42-43 , 59 , 60-70 Emergency Banking Act of 1933 83-84 Employment Act of 1946 102-103 Federal Deposit Insurance Act 83-87 Federal Deposit Insurance Corporation: What it is 85 Membership in 85 Sources of income of 85 Rates of assessment under 86 Its commitment from U.S.
+Treasury 86 Its reserves 86-87 Its control of banks 87 , 90 Needed reforms in 133 Federal Open Market Committee: Its open market operations in Government securities explained 39-40 , 62 Powers of 65 , 66 Participants in 61 , 65-66 And availability of credit 66 , 68 And fixing of interest rates 66 , 67-68 Operations of in early period of Federal Reserve Act 70 And banking legislation of 1933 and 1935 70 Increasing importance of 70-71 Voting members of 71 When and where meetings of are held 71 As determiner of monetary policy 72 As symbol of power revolution within Federal Reserve System 72-73 Proposals for changes in 73 Its open market account 74 And fixing of interest rates 74 Its open market 75 , 76 Its 21 securities dealers 75 , 76 And accord of 1951 104-107 Ad hoc committee of 107 Its "bills only" policy 107-110 Needed changes in 132-133 Federal Reserve Act: Created reliable money system 51 Historical background of 51-60 Reforms of 57-58 Compromises in 58-59 Organization of monetary system under 61-62 Federal Reserve Bank of New York, agent of Federal Reserve System in open market operations 39 Federal Reserve banks 39 , 84 , 85 The ownership of 77-82 "Stock" of explained 79-81 Problems created by "stock" of 81-82 Proposal to eliminate "stock" of 82 See Member banks .
+Federal Reserve notes, what backs them 19 Federal Reserve System: Controls money supply 32 , 35-39 How it creates money 32-34 Authorized by Congress to create money 34 Methods used to create or extinguish reserves 39-42 Effects of purchases of gold for U.S.
+Treasury by 41 Creates reserves by making loans to member banks 42 Borrowing privileges under 42 Security on loans made by 42 Creates reserves when it buys eligible paper 42 A central bank with American characteristics 51 Membership features of 51 , 58 , 59-60 , 61 Purposes of 57-60 Improvements over previous system 60-61 Organization of 61-62 Operations of 62-63 Its sources of revenue 62-63 Its expenditures of income 63 Its open market operations 65-76 Ownership of member banks 77-82 And Banking Acts of 1933 and 1935 84—85 And accord with U.S.
+Treasury in 1951 103-107 Its "independence" analyzed and questioned 105 , 119-129 Its independence of Congress 120-121 , 123 , 124 , 125 , 127-128 Its independence of the Executive 121 Its independence of the electorate 121 Its independence of the GAO 121 Its alliance with the bankers 122 , 128-129 Its fight with inflation 111-117 , 122 , 123-124 Its independence of President’s economic policies 124-125 Its independence of fiscal policy 125 Its independence violates democratic principles 126 , 128-129 Its permutations of original purposes 127-129 Its regional bank presidents as policymakers 128 Needed reforms in 129-133 Statement of Subcommittee on Domestic Finance concerning reforms in 130-133 First and Second Banks of United States 52 Fiscal policy 110-111 , 124-125 Foreign central banks and Treasury gold transactions 40-41 Fractional reserve banking: Explained 28 , 53-58 Advantages of 29 /li> Dangers of 29 , 53 Under Federal Reserve 40 Friedman, Prof.
+Milton 126-127 Full convertibility theory 127 Gold: And the U.S. dollar 22-23 And gold standard 22-23 Federal Reserve acts for Treasury in purchase of 40 Sources of 40 Why Treasury purchases 41 How Federal Reserve creates reserves when purchasing for Treasury.
+41 Effects of purchases of by foreign central banks 41-42 As reserves of State and National banks 54 Attempt by Gould and Fisk to corner market in 55-56 Goldsmith bankers 28-30 Gold standard 22-23 Government bonds.
+(See Government securities .) Government securities: Open market operations in 39-40 Amounts of, owned by Federal Reserve 46 How Federal Reserve pays for 47 Amounts acquired by private banks 47 As secondary reserves 53 Interest on as income of Federal Reserve banks 62-63 And Treasury borrowings 67-68 , 75-76 Effects of open market operations on 74 The 21 open market dealers in 75-76 Volume of market in 75 Giveaways of, by Federal Reserve to commercial banks 91-95 How Federal Reserve could reduce its holdings of 95 Interest rates on, 1939-50 103 And Federal Reserve-Treasury disagreements on 103 And accord of 1951 103-107 And "free" bond market 107 And "bills only" policy 107-110 And debacle of bond market in 1958 109 Greenbacks 48 Hansen, Prof.
+Alvin, comments on accord 106 Hayes, Alfred, on "independence" of Federal Reserve 122 Inflation: And Government-issued money 48 And Federal Reserve policies 111-117 , 122 , 123-124 Insured banks 85 , 87 Insured deposits 85 See Federal Deposit Insurance Corporation .
+Interest equalization tax 111 Interest rates: A decision of Government 7 And cost of living 7 As business cost 7 Pyramided cost of 7 And level of business activity 8 And investment 8 And small business 8 And efficiency 9 And growth of output per man-hour 9 And employment 9 , 11 And growth of industrial capacity 9 And production 9 And transfer of income 9-10 And economic boom 10 In past 10 years 10-11 And inflation 11 And taxpayers 12 And State and local debt 12 And Federal debt 12 And competition with U.S.S.R 12 And New York banks' prime rate 67 And Treasury negotiations 67-68 Methods of fixing by Federal Reserve 74 In 1935-39 101 After World War II 103-110 And accord of 1951 103-107 And "bills only" policy 107-110 Under Eisenhower 108-110 Under Kennedy and Johnson 110-111 Since 1960 111 , 114 , 117 Investment and monetary policy 109 , 114-115 Investment banks 84 Jackson, President Andrew 52 Johnson, President Lyndon B 110-111 Kennedy, President John F 110 , 125 Legal tender 18 Lincoln, President Abraham 16 , 20 McCabe, Thomas B 104 , 105 His role in accord 104-105 Martin, William McChesney: Views of on "stock" of Federal Reserve banks 77-78 And accord of 1951 105 Views of on "independence" of Federal Reserve 121-122 Member banks 51 , 61 , 62-63 See Commercial banks; National banks; State banks.
+Mercantile National Bank of New York, its conflict with Standard Oil 56 Monetary policy: Its relation to the economy 97 , 98 , 99 , 102 , 108-117 Definition of 97-99 And inflation 97 , 111-117 And money supply 97 , 98 In 1955 98 In 1957 98 In 1959-60 _ 98 In 1961-62 98 At time of passage of Federal Reserve Act 99 In 1920’s 99-100 After Banking Act of 1935 100 The "push on a string" analogy of 100-101 And World War I soldiers’ bonus 101 During World War II 101-102 And Employment Act of 1946 101-103 And interest rates on Government securities 103 Findings by Patman committee on 103 And accord of 1951 103-107< /li> And "bills only" policy 107-110 Under Eisenhower 108-110 Under Kennedy and Johnson 110-111 , 124 And investment 114-115 And national debt costs 115-116 Some conclusions on 116-117 Its independence of President’s economic policy 124 Its independence of fiscal policy 125 Needed reforms in 129-133 Monetary reforms 119-135 Monetary system: Attitudes toward United States # Moneymaking mechanisms of 31-34 Before Federal Reserve Act 52-58 Improvements needed in 119-135 Money: And society 7-12 What it is 13-25 How it is created 27-49 Ancient types of 13 Colonial 14-15 In Revolutionary War period 15 In post-Revolutionary War period 16 State bank notes as 16 Forms in use today 17 , 18 Commercial bank deposits as 17 Legal tender 18 What makes it valuable 18 The power to create 19-21 Treasury currency 19 Federal Reserve notes 19< /li> Checkbook 19-20 Who should have power to create 20 And congressional power over under Constitution 20-21 What backs the dollar 21-23 Why it is used 23-24 Why it must be managed 24 Why right amount of is important 24 Why Government issues small amounts of 47-48 Reforms needed in U.S. system of 119-135 Money economy, development of in United States 52-53 Money supply 65-76 Amount of important to economy 24 Defined 25 A Government decision 27 In 1914 and 1929 28 /li> How it is increased 31-32 Limited by Federal Reserve 32-33 How expansion or contraction of is achieved 32-35 Formula which determines 35 How Federal Reserve changes formula of 35-39 Inadequacy of before Federal Reserve Act 54 , 65 , 57-58 Provisions for regulating under Federal Reserve Act 59 , 69-70 Impact of open market operations on 70-71 Control of by Federal Open Market Committee 72-73 , 74-75 Its relationship to GNP 74 In 1929-33 83 , 100 Created by Federal Reserve and private banks 91 And bond giveaway of 1958 91-92 And vault cash bill of 1959 92-95 And economic activity 97-99 And intent of Federal Reserve Act 99 Before World War I 99-100 In 1920’s 100 And inflation 117 , 122 , 123-124 Morgan, J.
+P., and panic of 1907 56-57 National Bank Acts of 1863 and 1864 16-17 , 52-58 , 68-69 National banks: Compulsory members of Federal Reserve 51 , 59 , 62 Under National Bank Act 52-58 Limitations of monetary system under 54 , 68 And FDIC standards of chartering 68 , 89-90 National bank notes 89 National debt: And monetary policy 115-116 Needed reforms in management of 131 , 133-134 New York Clearing House Association, its role in panic of 1907 56-57 , 60 Open Market Committee. ( See Federal Open Market Committee.) Owen, Senator Robert L 58 Ownership of Federal Reserve banks 77-82 Panics 53-57 , 60 Passive monetary policy 97-100 Patman committee of 1952 103-107 "Pegged" bond prices 105 Pen and ink money 48 Price stability.
+(See Inflation .) Prime rate 67 Printing press money 48 Private banks, how Federal Reserve gives public funds to 89-118 See Commercial banks .
+Pujo Committee 57 , 58 Reforms in Federal Reserve System, proposals for 129-133 Regional banks: Concept of under Federal Reserve Act 51 , 61 , 73 Present functions of 73-74 As policymakers 128 Regulation W 101 Reserve requirements: Under Banking Act of 1933 84 And bond giveaway of 1958 91-92 And vault cash bill of 1959 92-95 Reserves: Of goldsmith bankers 30 Created by commercial banks 31-32 Increased or decreased by Federal Reserve 35-39 Misconceptions concerning 36-38 Increases in, 1917-59 39 Methods of increasing or decreasing 39-42 How open market operations affect 40 How Treasury gold purchases affect 41-42 How Federal Reserve loans to banks affect 42 Created when Federal Reserve buys eligible paper 42-43 Money in belongs to private banks 43 How increase in helps Treasury and taxpayers 44 And deposit balances in average bank 49 Of State banks 54 Under national banking system 54-55 , 57 Under Federal Reserve Act 60-61 , 62 Robertson, J.
+L 78 Roosevelt, President Franklin D 83 Roosevelt, President Theodore 56-57 Samuelson, Prof.
+Paul 127 Scrip 60 Secondary reserves 53 Securities and Exchange Act of 1934 84 Shepardson.
+Charles N 78 Silver certificates 19 Snyder, John 105 Speculation: Effects of, before Federal Reserve 55-57 Before crash of 1929 83 Standard Oil and Mercantile National Bank conflict 56 State banks 52 , 54 , 59 , 62 , 68 , 87 , 90 State bank notes 16 , 20 "Stock" of Federal Reserve banks: A controversial provision of Federal Reserve Act 77 Bankers’ attitude toward # Federal Reserve officials’ position on 77-78 Academic economists’ views on 78-79 Misunderstandings concerning 79 Original intent of provision for 79-81 Nature of 81 Problems created by 81-82 As a cost to taxpayers 82 Proposal for eliminating 82 Stock market: And call loans before Federal Reserve 55 And crash of 1929 83 Loans by commercial banks prohibited 84 Restrictions on by SEC and Federal Reserve 84 Subcommittee on Domestic Finance, House of Representatives: Its proposals for reforms in U.S. monetary system 130-133 Democratic members of 130 Subcommittee on Monetary Policy and Management of the Public Debt 103-107 Subsidies to private banks by Federal Government 89-95 Szymczak, M.
+S 78 Tax cut of 1964 110 Taxpayer, how Federal Reserve policy could help 45-46 Tight money, effects of in past 10 years 10-12 , 98 See Monetary policy ; active monetary policy.
+Tobacco, as legal tender 15 Treasury of the United States: And negotiated interest rates 67-68 And open market operations 74-75 Its commitments to FDIC 86 Disagreements with Federal Reserve 103 Its accord with Federal Reserve 103-107 Needed reforms in 133-134 Wilson, President.
+Woodrow 58 , 72 , 73 Truman, President Harry S 104-105 Vault cash bill of 1959 92-95 Wall Street and control of banking system 57 Wampum, as legal tender 14 Previous article: The Role of Money Prev Next article: Currency and Banking Teachings Next Help the Campaign Campaign Donations Business Card Campaign Contact Texas Tribune RSS Independent news.
+Trusted by Texans.
+Texas comptroller investigating spending in Austin ISD, other districts Texas governor 2026: Who is running and what to know U.S.
+Right to Know RSS Pursuing truth and transparency for public health FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs Hormone-disrupting chemical mixtures linked to excess childhood weight FOI documents on origins of Covid-19, gain-of-function research and biolabs Green Social Thought RSS Produce less.
+Distribute it fairly.
+Create a greener world for all.
+U.S.
+Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade Reflections on academic tenure prompted by events at The New School Reporting Texas RSS News and features from UT-Austin's School of Journalism Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica EnvironmentAmerica -- Texas RSS RELEASE: Gas power plant proposals surging, new interactive map shows Data center moratorium now Texas Farm Bureau RSS Trump signs order that expands access to tax-exempt diesel Students discuss ag issues during 2026 SOFA Challenge Farmers call for federal diesel price relief

@@ -1,5 +1,4 @@
-Introducing Rep Carris Duncan
-I’m honored that you have chosen to have me represent you in Montpelier.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services Introducing Rep Carris Duncan I’m honored that you have chosen to have me represent you in Montpelier.
 During the course of this election I have had the pleasure of learning that our concerns about housing, education, taxation, and general cost of living go far beyond party.
 I believe that this offers us the opportunity to heal our divisions.
 I look forward to working with and for everyone in the community, including those who voted for my opponent, as we chart the best path forward.
@@ -23,3 +22,6 @@ I aim to represent you well.
 But I can’t do this alone.
 Be in touch with me, tell me what you need and I promise I will keep you up to date on what is happening in your state capital.
 Together we will grow this community.
+Donate Wilmington.
+Whitingham.
+Halifax

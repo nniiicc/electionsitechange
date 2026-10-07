@@ -1,12 +1,2 @@
-CONTACT
-Martha Garcia for New Mexico House Representative
-Martha Garcia
-P.O.
-Box 15
-Pinehill, NM 87357
-mhgarcia140@gmail.com
-505/713-4007
-Neri Holguin
-Campaign Manager
-neriholguin@gmail.com
-Cell: 505/217-8705
+0 Skip to Content About About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE Open Menu Close Menu About About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE Open Menu Close Menu Folder: About Back About Martha Garcia District 6 Priorities Endorsements Accomplishments Capital Outlay Contact Voting CONTRIBUTE CONTACT Martha Garcia for New Mexico House Representative Martha Garcia P.O.
+Box 15 Pinehill, NM 87357 mhgarcia140@gmail.com 505/713-4007 Neri Holguin Campaign Manager neriholguin@gmail.com Cell: 505/217-8705 CONTRIBUTE Website Design | BGC

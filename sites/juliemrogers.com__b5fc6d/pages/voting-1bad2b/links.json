@@ -1,21 +1,86 @@
 [
-"https://facebook.com/vote4rogers",
-"https://juliemrogers.com/",
-"https://juliemrogers.com/about-julie-new",
-"https://juliemrogers.com/about-the-60th-2022",
-"https://juliemrogers.com/endorse-2025",
-"https://juliemrogers.com/join-us-2",
-"https://juliemrogers.com/priorities",
-"https://juliemrogers.com/s/Early_Voting_One_Pager_Clerk_Letterhead_202604141348246556.pdf",
-"https://juliemrogers.com/search",
-"https://juliemrogers.com/the-district",
-"https://juliemrogers.com/voting",
-"https://kalcounty.gov/451/Early-Voting",
-"https://mvic.sos.state.mi.us/Home/VoteAtHome",
-"https://secure.actblue.com/donate/julie-rogers-2",
-"https://secure.actblue.com/donate/julie-rogers-2?amount=10",
-"https://secure.actblue.com/donate/julie-rogers-2?amount=100",
-"https://secure.actblue.com/donate/julie-rogers-2?amount=1000",
-"https://secure.actblue.com/donate/julie-rogers-2?amount=250",
-"https://twitter.com/vote4rogers"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/julie-rogers-2?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/julie-rogers-2?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.actblue.com/donate/julie-rogers-2?amount=1000"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/julie-rogers-2?amount=250"
+},
+{
+"text": "About Julie",
+"href": "https://www.juliemrogers.com/about-julie-new"
+},
+{
+"text": "About the 19th",
+"href": "https://www.juliemrogers.com/about-the-60th-2022"
+},
+{
+"text": "Donate & Join Us",
+"href": "https://www.juliemrogers.com/join-us-2"
+},
+{
+"text": "Endorse",
+"href": "https://www.juliemrogers.com/endorse-2025"
+},
+{
+"text": "HERE",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome"
+},
+{
+"text": "HERE",
+"href": "https://www.kalcounty.gov/451/Early-Voting"
+},
+{
+"text": "Home",
+"href": "https://www.juliemrogers.com/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/julie-rogers-2"
+},
+{
+"text": "Priorities",
+"href": "https://www.juliemrogers.com/priorities"
+},
+{
+"text": "The District",
+"href": "https://www.juliemrogers.com/the-district"
+},
+{
+"text": "Voting",
+"href": "https://www.juliemrogers.com/voting"
+},
+{
+"text": "[image: Julie Rogers for State Senate]",
+"href": "https://www.juliemrogers.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.juliemrogers.com/s/Early_Voting_One_Pager_Clerk_Letterhead_202604141348246556.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/vote4rogers"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vote4rogers/"
+},
+{
+"text": "[no text]",
+"href": "https://www.juliemrogers.com/search"
+},
+{
+"text": "julie@juliemrogers.com",
+"href": "mailto:julie@juliemrogers.com"
+}
 ]

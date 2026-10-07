@@ -1,11 +1,38 @@
 [
-"https://bsky.app/profile/houserforidaho.bsky.social",
-"https://facebook.com/houserforidaho",
-"https://houserforidaho.com/",
-"https://houserforidaho.com/about",
-"https://houserforidaho.com/contact",
-"https://houserforidaho.com/donate",
-"https://houserforidaho.com/platform",
-"https://instagram.com/houserforidaho",
-"https://threads.com/@houserforidaho"
+{
+"text": "About",
+"href": "https://www.houserforidaho.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/houserforidaho.bsky.social"
+},
+{
+"text": "Contact",
+"href": "https://www.houserforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.houserforidaho.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/houserforidaho/"
+},
+{
+"text": "Home",
+"href": "https://www.houserforidaho.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/houserforidaho/"
+},
+{
+"text": "Platform",
+"href": "https://www.houserforidaho.com/platform/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@houserforidaho"
+}
 ]

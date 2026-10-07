@@ -1,7 +1,14 @@
 {
  "description": "",
  "final_url": "https://mattbrass.org/tag/state-senate/",
- "paid_for_by": null,
+ "fingerprint": "db8e24566a5feb39b547eff8c03a95d4a91f58d7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "State Senate | Matt Brass",
- "years_mentioned": []
+ "years_mentioned": [
+  "2016",
+  "2018",
+  "2019",
+  "2020"
+ ]
 }

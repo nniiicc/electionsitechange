@@ -1,25 +1,106 @@
 [
-"https://facebook.com/mchughforsenate",
-"https://instagram.com/mchughforsenate",
-"https://linkedin.com/in/martha-mchugh-847300127",
-"https://linktr.ee/mchughforsenate",
-"https://marthamchugh.com/",
-"https://marthamchugh.com/blog",
-"https://marthamchugh.com/contact",
-"https://marthamchugh.com/district",
-"https://marthamchugh.com/events",
-"https://marthamchugh.com/faq",
-"https://marthamchugh.com/get-updates",
-"https://marthamchugh.com/issues",
-"https://marthamchugh.com/leadership-in-action",
-"https://marthamchugh.com/press",
-"https://marthamchugh.com/privacy-policy",
-"https://marthamchugh.com/terms",
-"https://marthamchugh.com/the-state-budget",
-"https://marthamchugh.com/transparency",
-"https://marthamchugh.com/updates",
-"https://marthamchugh.com/volunteer",
-"https://marthamchugh.com/voter-resources",
-"https://secure.winred.com/friends-of-martha-mchugh/donate",
-"https://x.com/McHughforSenate"
+{
+"text": "Attend an Event",
+"href": "https://www.marthamchugh.com/events"
+},
+{
+"text": "Blog",
+"href": "https://www.marthamchugh.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.marthamchugh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-martha-mchugh/donate"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/friends-of-martha-mchugh/donate"
+},
+{
+"text": "Events",
+"href": "https://www.marthamchugh.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.marthamchugh.com/faq"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/mchughforsenate"
+},
+{
+"text": "Get Updates",
+"href": "https://www.marthamchugh.com/get-updates"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mchughforsenate"
+},
+{
+"text": "Issues",
+"href": "https://www.marthamchugh.com/issues"
+},
+{
+"text": "Leadership",
+"href": "https://www.marthamchugh.com/leadership-in-action"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/martha-mchugh-847300127/"
+},
+{
+"text": "Linktree",
+"href": "https://linktr.ee/mchughforsenate"
+},
+{
+"text": "MARTHA McHUGH",
+"href": "https://www.marthamchugh.com/"
+},
+{
+"text": "Press",
+"href": "https://www.marthamchugh.com/press"
+},
+{
+"text": "Privacy",
+"href": "https://www.marthamchugh.com/privacy-policy"
+},
+{
+"text": "State Budget",
+"href": "https://www.marthamchugh.com/the-state-budget"
+},
+{
+"text": "Terms",
+"href": "https://www.marthamchugh.com/terms"
+},
+{
+"text": "The District",
+"href": "https://www.marthamchugh.com/district"
+},
+{
+"text": "Transparency",
+"href": "https://www.marthamchugh.com/transparency"
+},
+{
+"text": "Updates",
+"href": "https://www.marthamchugh.com/updates"
+},
+{
+"text": "Volunteer",
+"href": "https://www.marthamchugh.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.marthamchugh.com/voter-resources"
+},
+{
+"text": "X",
+"href": "https://x.com/McHughforSenate"
+},
+{
+"text": "team@marthamchugh.com",
+"href": "mailto:team@marthamchugh.com"
+}
 ]

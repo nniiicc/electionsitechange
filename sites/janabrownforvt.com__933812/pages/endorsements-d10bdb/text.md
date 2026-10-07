@@ -1,14 +1,1 @@
-(802) 999-4333
-janabrownforstaterep@gmail.com
-Facebook
-Facebook
-Home
-Priorities
-About Jana
-News
-Endorsements
-Photo Gallery
-Contact
-Donate
-Select Page
-Endorsements
+(802) 999-4333 janabrownforstaterep@gmail.com Facebook Facebook Home Priorities About Jana News Endorsements Photo Gallery Contact Donate Select Page Endorsements Facebook Designed by Elegant Themes | Powered by WordPress

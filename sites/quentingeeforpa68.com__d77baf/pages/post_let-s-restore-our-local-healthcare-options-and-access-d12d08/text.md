@@ -1,5 +1,5 @@
-Let's restore our local healthcare options and access
-Healthcare resources are being pulled from our area, but not by our local doctors and hospital administrators, but instead by healthcare decision makers in major cities like Pittsburgh who have never even visited our area and who don't understand our needs.
+top of page DONATE What I believe Events Get Involved Contact More Use tab to navigate through the menu items.
+All Posts Search Let's restore our local healthcare options and access christopher markley Aug 27 2 min read Healthcare resources are being pulled from our area, but not by our local doctors and hospital administrators, but instead by healthcare decision makers in major cities like Pittsburgh who have never even visited our area and who don't understand our needs.
 We need to back our local healthcare professionals and help get the power back into their hands to make local decisions for our local population.
 The local VA Clinic in Wellsboro still does not have a permanent doctor, and instead there is a rotation of doctors seeing patients.
 Dr.
@@ -11,3 +11,4 @@ Payments from Medicare are a large part of our local healthcare network, normall
 You hear remarks stating that hospitals are losing money in our area, and some use that false claim as an excuse to shut down programs, reduce days the operating rooms are open and even close doors to clinics and hospitals.
 These are lies coming from the executives at healthcare organizations in big cities, while our local healthcare administrators struggle to make things work with what they have.
 I'll work for you to restore our local healthcare options and improve access for individuals, families and veterans.
+Recent Posts See All I'll support our local farms, and not corporate factory farms I'll work to improve local mental health services and access We won't let data centers ruin water & raise utility rates bottom of page

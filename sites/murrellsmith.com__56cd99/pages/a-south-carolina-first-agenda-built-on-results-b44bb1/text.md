@@ -1,4 +1,4 @@
-South Carolinians are not asking for more talk.
+Close Meet Murrell Issues Volunteer News Contact Donate A South Carolina First Agenda Built on Results A South Carolina First Agenda Built on Results South Carolinians are not asking for more talk.
 They are asking for action.
 They are asking for a government that works.
 A state that puts families first.
@@ -8,7 +8,7 @@ Not a list of slogans.
 Not a campaign document.
 A governing agenda rooted in freedom, families, affordability, and fixing what has been ignored for too long.
 This agenda starts from a simple belief: government exists to serve the people, not the other way around.
-Freedom is not an abstract idea.
+Fighting for Freedom Freedom is not an abstract idea.
 It means defending the Constitution.
 Holding government accountable.
 Enforcing the law fairly and firmly.
@@ -20,7 +20,7 @@ That religious liberty must be protected.
 And that government power must always have limits.
 South Carolina will not become a place where bureaucrats rule from behind closed doors or where ideology replaces common sense.
 We will continue pushing back against overreach, restoring accountability, and ensuring government answers to the people it serves.
-Strong families build strong communities.
+Standing Up for Families Strong families build strong communities.
 And strong communities build a strong state.
 This agenda prioritizes protecting children, empowering parents, and defending basic values.
 It expands school choice so parents can decide where their children learn.
@@ -35,7 +35,7 @@ These are not culture war distractions.
 They are fundamental responsibilities.
 Families should not have to fight their own government to protect their children.
 South Carolina will stand with parents.
-Too many families are being squeezed.
+Making South Carolina More Affordable Too many families are being squeezed.
 Groceries cost more.
 Insurance costs more.
 Housing costs more.
@@ -48,7 +48,7 @@ Small businesses should be able to grow without being buried under regulation.
 Working people should not be punished for success.
 Affordability is not a talking point.
 It is the difference between getting ahead and falling behind.
-South Carolinians are tired of sitting in traffic and dodging potholes while projects drag on for years.
+Fixing Roads and Infrastructure South Carolinians are tired of sitting in traffic and dodging potholes while projects drag on for years.
 This agenda demands transparency and accountability from the Department of Transportation.
 It cuts red tape.
 Speeds up projects.
@@ -57,7 +57,7 @@ And focuses on safer, shorter commutes.
 Growth is coming whether we like it or not.
 The choice is whether we manage it intelligently or let it overwhelm our communities.
 Roads should be built to serve people, not politics.
-This agenda is also about reforming how government operates.
+Holding Government Accountable This agenda is also about reforming how government operates.
 Judicial reform.
 Welfare reform that helps people get back to work.
 Higher education reforms that reward merit, not automatic guarantees.
@@ -65,7 +65,7 @@ Immigration enforcement with zero tolerance for sanctuary policies.
 Stronger partnerships with federal authorities to keep communities safe.
 These are not isolated issues.
 They are part of a larger effort to restore trust by making government function the way it is supposed to.
-In 2025, the House Republican Caucus delivered real wins.
+Results Matter In 2025, the House Republican Caucus delivered real wins.
 Income tax cuts.
 School choice expansion.
 Major DEI reforms.
@@ -83,8 +83,15 @@ Protect what matters.
 And leave this state better than we found it.
 That is the work ahead.
 And that is the commitment.
-By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
+CLICK HERE TO READ THE FULL AGENDA Sign Up For Updates First Name * Last Name * Email * Phone Number Submit By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
 Message & Data rates may apply, and message frequency may vary over time.
 Reply "STOP" to opt out of these text message updates.
 Reply HELP for help.
-Privacy Policy.
+Privacy Policy .
+Donate Paid for by Murrell Smith for House Privacy Policy ©# All Rights Reserved Sign up to Volunteer First Name * Last Name * Email * Phone Number Zip Code * When are you available? * When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays How can you support?
+Check all that apply. * Make phone calls Knock on doors Put up a yard sign Host an event Attend an event Submit First Name (Required) Last Name (Required) Email (Required) Phone Address (Required) South Carolina Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific South Carolina ZIP Code Availability When are you available?
+Mornings Weekdays Mornings Weekends Afternoons Weekdays Afternoons Weekends Evenings Weekdays Evenings Weekends optinsms I want to opt in to SMS How can you support?
+Select all that apply.
+Make phone calls Knock on doors Put up a yard sign Host an event Attend an event

@@ -1,3 +1,4 @@
-Here are resources that you can download, share, print, and distribute in order to help promote the campaign . . .
-Please contact me if you’d like to make a donation.
+0 Skip to Content Vote Steven Welzer for US Congress NJ CD 3 Links Donate and Downloads About Contact Open Menu Close Menu Vote Steven Welzer for US Congress NJ CD 3 Links Donate and Downloads About Contact Open Menu Close Menu Links Donate and Downloads About Contact Here are resources that you can download, share, print, and distribute in order to help promote the campaign . . .
+GRAPHIC: https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/d2e23cbb-5ab8-4d9d-a943-1a1094e62a9d/Sign-1.png?content-type=image%2Fpng FLYER: https://images.squarespace-cdn.com/content/69d0001a7801c4267c62700a/c8ba4912-eec5-4b7e-b7bc-313295384f95/Welzer-for-Congress-2026-basic-flyer.jpg?content-type=image%2Fjpeg Please contact me if you’d like to make a donation.
 Green politics represents an alternative to all the old ideologies … liberalism, conservatism, nationalism, religious fundamentalism, etc.
+Vote Steven Welzer for US Congress NJ CD 3 WelzerForCongress@gmail.com

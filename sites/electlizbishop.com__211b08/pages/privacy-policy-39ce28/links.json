@@ -1,11 +1,42 @@
 [
-"https://elections.il.gov/",
-"https://electlizbishop.com/",
-"https://electlizbishop.com/about",
-"https://electlizbishop.com/donate",
-"https://electlizbishop.com/home",
-"https://electlizbishop.com/internship-program",
-"https://electlizbishop.com/news",
-"https://electlizbishop.com/privacy-policy",
-"https://electlizbishop.com/volunteer"
+{
+"text": "About",
+"href": "https://electlizbishop.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://electlizbishop.com/donate/"
+},
+{
+"text": "Internship Program",
+"href": "https://electlizbishop.com/internship-program/"
+},
+{
+"text": "News",
+"href": "https://electlizbishop.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electlizbishop.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://electlizbishop.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://electlizbishop.com/home/"
+},
+{
+"text": "liz@electlizbishop.com",
+"href": "mailto:liz@electlizbishop.com"
+},
+{
+"text": "www.elections.il.gov",
+"href": "https://www.elections.il.gov"
+},
+{
+"text": "www.electlizbishop.com",
+"href": "https://www.electlizbishop.com"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Support Kent Roberson&#39;s campaign donations for District 25. Help us make a difference together!",
  "final_url": "https://kentroberson.org/donate",
- "paid_for_by": null,
+ "fingerprint": "b97106f96135f7043f7bd4b6e787bd125919f2ba",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
  "years_mentioned": []
 }

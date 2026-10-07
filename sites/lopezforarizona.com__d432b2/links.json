@@ -1,21 +1,94 @@
 [
-"https://actionnetwork.org/forms/commit-to-vote-for-miranda-lopez",
-"https://facebook.com/mirandalopezforarizona",
-"https://forms.gle/BwbjqEBzSE4XBXDZ8",
-"https://forms.gle/t12a2pf6bgUWGwnZ6",
-"https://instagram.com/lopezforarizona",
-"https://linkedin.com/in/miranda-lopez23",
-"https://lopezforarizona.com/",
-"https://lopezforarizona.com/about",
-"https://lopezforarizona.com/contact-us",
-"https://lopezforarizona.com/endorsements",
-"https://lopezforarizona.com/letter-from-miranda",
-"https://lopezforarizona.com/priorities",
-"https://secure.actblue.com/donate/lopezforarizona",
-"https://secure.actblue.com/donate/lopezforarizona?amount=100",
-"https://secure.actblue.com/donate/lopezforarizona?amount=25",
-"https://secure.actblue.com/donate/lopezforarizona?amount=250",
-"https://secure.actblue.com/donate/lopezforarizona?amount=50",
-"https://tiktok.com/@lopezforarizona",
-"https://tiktok.com/lopezforarizona"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/lopezforarizona?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/lopezforarizona?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/lopezforarizona?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/lopezforarizona?amount=50"
+},
+{
+"text": "ABOUT MIRANDA",
+"href": "https://lopezforarizona.com/about"
+},
+{
+"text": "COMMIT TO VOTE",
+"href": "https://actionnetwork.org/forms/commit-to-vote-for-miranda-lopez"
+},
+{
+"text": "CONTACT US",
+"href": "https://lopezforarizona.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lopezforarizona"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/lopezforarizona"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://lopezforarizona.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://lopezforarizona.com/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://lopezforarizona.com/about"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/lopezforarizona?amount=250"
+},
+{
+"text": "PRIORITIES",
+"href": "https://lopezforarizona.com/priorities"
+},
+{
+"text": "READ MIRANDA'S LETTER TO VOTERS",
+"href": "https://lopezforarizona.com/letter-from-miranda"
+},
+{
+"text": "SIGN UP TO VOLUNTEER",
+"href": "https://forms.gle/t12a2pf6bgUWGwnZ6"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://forms.gle/BwbjqEBzSE4XBXDZ8"
+},
+{
+"text": "[image: Miranda Lopez for Arizona State House logo]",
+"href": "https://lopezforarizona.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/mirandalopezforarizona"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/lopezforarizona"
+},
+{
+"text": "[tooltip: Go to Linkedin-in page]",
+"href": "https://www.linkedin.com/in/miranda-lopez23/"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/@lopezforarizona"
+},
+{
+"text": "[tooltip: Go to Tiktok page]",
+"href": "https://www.tiktok.com/lopezforarizona"
+}
 ]

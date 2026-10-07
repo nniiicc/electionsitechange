@@ -1,7 +1,30 @@
 [
-"https://lorirook.com/endorsements",
-"https://lorirook.com/platform",
-"https://lorirook.com/privacy",
-"https://lorirook.com/resume",
-"https://secure.anedot.com/lori-rook-for-state-senate/donate"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-rook-for-state-senate/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.lorirook.com/endorsements"
+},
+{
+"text": "HERE",
+"href": "https://www.lorirook.com/privacy"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.anedot.com/lori-rook-for-state-senate/donate"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.lorirook.com/platform"
+},
+{
+"text": "See Lori's Resume",
+"href": "https://www.lorirook.com/resume"
+},
+{
+"text": "lori@lorirook.com",
+"href": "mailto:lori@lorirook.com"
+}
 ]

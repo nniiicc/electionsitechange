@@ -1,4 +1,3 @@
-Lawmakers Introduce Two COVID-19 Comp Bills
-Workcompcentral.com | May 5, 2021
-Lawmakers in Michigan on Tuesday introduced two pieces of legislation that would classify COVID-19 as a compensable “personal injury” for workers’ compensation purposes.
-Read More Here >
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Lawmakers Introduce Two COVID-19 Comp Bills Workcompcentral.com | May 5, 2021 Lawmakers in Michigan on Tuesday introduced two pieces of legislation that would classify COVID-19 as a compensable “personal injury” for workers’ compensation purposes.
+Read More Here > Kelly Breen May 5, 2021 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Bill Extends Foreclosure Avoidance to Commercial Property Kelly Breen June 17, 2021 Next Under review: Legislature continues considering insulin bills, including Cambensy’s Kelly Breen April 26, 2021 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

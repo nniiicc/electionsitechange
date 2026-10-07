@@ -1,6 +1,22 @@
 [
-"https://cunninghamfornm.com/",
-"https://facebook.com/cunninghamfornm",
-"https://flickr.com/photos/204713669@N06",
-"https://x.com/cunninghamfornm"
+{
+"text": "Home",
+"href": "https://www.cunninghamfornm.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cunninghamfornm/"
+},
+{
+"text": "[image: Flickr ]",
+"href": "https://www.flickr.com/photos/204713669@N06/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/cunninghamfornm"
+},
+{
+"text": "info@cunninghamfornm.com",
+"href": "mailto:info@alaskansfornickbegich.com"
+}
 ]

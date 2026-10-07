@@ -1,27 +1,3 @@
-ENDORSED BY:
-Harris Co.
-Commissioner Tom Ramsay
-Houston City Council Member Amy Peck
-Houston City Council Member Mary Nan Huffman
-Texas House Republican Caucus PAC
-Houston Police Officers Union
-Harris County Deputies Organization FOP 39
-Houston Professional Firefighter Association
-Combined Law Enforcement Association of Texas
-Texas Department of Public Safety Officers Association
-Texas State Association of Fire Fighters
-Texas State Rifle Association
-Texas Society of Professional Engineers
-Texas Alliance for Life
-Make Texas Healthy Again
-Texans for Medical Freedom
-C Club
-Spring Branch Republicans
-Texas Homeschool Coalition
-Texas Oil and Gas Association
-Texas Apartment Association PAC
-Texas Real Estate PAC
-National Federation of Independent Businesses
-Houston Region Business Coalition
-American Federation for Children Victory Fund
-Cattle Raisers PAC
+ABOUT Issues Volunteer Endorsements Donate ABOUT Issues Volunteer Endorsements Donate ENDORSED BY: Harris Co.
+Commissioner Tom Ramsay Houston City Council Member Amy Peck Houston City Council Member Mary Nan Huffman Texas House Republican Caucus PAC Houston Police Officers Union Harris County Deputies Organization FOP 39 Houston Professional Firefighter Association Combined Law Enforcement Association of Texas Texas Department of Public Safety Officers Association Texas State Association of Fire Fighters Texas State Rifle Association Texas Society of Professional Engineers Texas Alliance for Life Make Texas Healthy Again Texans for Medical Freedom C Club Spring Branch Republicans Texas Homeschool Coalition Texas Oil and Gas Association Texas Apartment Association PAC Texas Real Estate PAC National Federation of Independent Businesses Houston Region Business Coalition American Federation for Children Victory Fund Cattle Raisers PAC Click here to endorse my campaign or offer to volunteer!
+Back To Top Political Ad Paid for by Lacey Hull for Texas Treasurer, Elizabeth “Buffie” Ingersoll PO Box 19231 • Houston, TX 77224 CLICK HERE TO MAKE A CONTRibUTION View Privacy Policy Terms & Conditions

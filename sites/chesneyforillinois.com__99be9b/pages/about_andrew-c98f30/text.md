@@ -1,6 +1,4 @@
-ABOUT ANDREW
-State Senator Andrew Chesney
-As a lifelong Northwest Illinois resident, I am privileged to serve as your State Senator.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY ABOUT ANDREW State Senator Andrew Chesney As a lifelong Northwest Illinois resident, I am privileged to serve as your State Senator.
 I was raised on the same conservative values I now fight for at the State Capitol.
 With every vote taken, I want to ensure that the opportunities I have been afforded in this part of Illinois are available for generations to come.
 It has been my honor to serve the people of this region, first as the State Representative for the 89th District from 2018 to 2023 and now as the Senator of the 45th District since my election to the upper chamber in November of 2022.
@@ -19,4 +17,4 @@ Together, we have one adult son, Nicholas.
 I was raised in Shannon, Illinois, and am a proud graduate of Eastland High School.
 In 2004, I graduated cum laude from Arizona State University with a degree in Communication.
 As your State Senator, I hope to meet with you personally to hear your thoughts on how we can bring about much-needed reform in our state government.
-Thank you again for your friendship and support,
+Thank you again for your friendship and support, #© Paid for by Chesney for Illinois    

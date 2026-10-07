@@ -1,14 +1,58 @@
 [
-"http://lifugitivefinder.com/",
-"https://facebook.com/deanmurray4ny",
-"https://murrayfornysenate.com/",
-"https://murrayfornysenate.com/about",
-"https://murrayfornysenate.com/contact",
-"https://murrayfornysenate.com/contact-4",
-"https://murrayfornysenate.com/endorsements",
-"https://murrayfornysenate.com/gallery",
-"https://murrayfornysenate.com/lawn-sign",
-"https://murrayfornysenate.com/media",
-"https://secure.anedot.com/murrayforny/donate",
-"https://twitter.com/DeanMurray4NY"
+{
+"text": "About",
+"href": "https://www.murrayfornysenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.murrayfornysenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/murrayforny/donate"
+},
+{
+"text": "Dean@Murrayfornysenate.com",
+"href": "mailto:Dean@Murrayfornysenate.com?subject=Website+submission"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.anedot.com/murrayforny/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.murrayfornysenate.com/endorsements"
+},
+{
+"text": "Gallery",
+"href": "https://www.murrayfornysenate.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.murrayfornysenate.com"
+},
+{
+"text": "Lawn Sign",
+"href": "https://www.murrayfornysenate.com/lawn-sign"
+},
+{
+"text": "Media",
+"href": "https://www.murrayfornysenate.com/media"
+},
+{
+"text": "Volunteer",
+"href": "https://www.murrayfornysenate.com/contact-4"
+},
+{
+"text": "[image: Facebook Clean ]",
+"href": "https://www.facebook.com/deanmurray4ny/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/DeanMurray4NY"
+},
+{
+"text": "www.LiFugitiveFinder.com",
+"href": "http://www.lifugitivefinder.com"
+}
 ]

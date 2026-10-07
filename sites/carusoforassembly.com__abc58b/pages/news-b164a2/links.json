@@ -1,23 +1,162 @@
 [
-"http://instagram.com/carusofornyassembly",
-"https://carusoforassembly.com/",
-"https://carusoforassembly.com/about",
-"https://carusoforassembly.com/cart",
-"https://carusoforassembly.com/events",
-"https://carusoforassembly.com/issues",
-"https://carusoforassembly.com/news",
-"https://carusoforassembly.com/news/albany-has-lost-touch-with-upstate-new-york",
-"https://carusoforassembly.com/news/education-workforce-and-the-future-of-our-district",
-"https://carusoforassembly.com/news/governor-george-e-pataki-endorses-allen-caruso-for-new-york-state-assembly-in-113th-district",
-"https://carusoforassembly.com/news/public-safety-and-bail-reform",
-"https://carusoforassembly.com/news/rising-energy-costs-are-squeezing-new-york-farmers",
-"https://carusoforassembly.com/news/rural-healthcare-and-mental-health-access-in-ad-113",
-"https://carusoforassembly.com/news/supporting-small-businesses-in-assembly-district-113",
-"https://carusoforassembly.com/news/the-cost-of-living-crisis-in-new-york-why-albany-must-change-course",
-"https://carusoforassembly.com/news/whynow",
-"https://carusoforassembly.com/privacy",
-"https://carusoforassembly.com/text-messaging",
-"https://carusoforassembly.com/volunteer",
-"https://facebook.com/CarusoforNYAssembly",
-"https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+{
+"text": "0",
+"href": "https://carusoforassembly.com/cart"
+},
+{
+"text": "AFFORDABILITY AGENDA",
+"href": "https://carusoforassembly.com/issues"
+},
+{
+"text": "ALLEN CARUSO",
+"href": "https://carusoforassembly.com/"
+},
+{
+"text": "Albany Has Lost Touch with Upstate New York",
+"href": "https://carusoforassembly.com/news/albany-has-lost-touch-with-upstate-new-york"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-allen-caruso/donate-today"
+},
+{
+"text": "EVENTS",
+"href": "https://carusoforassembly.com/events"
+},
+{
+"text": "Education, Workforce, and the Future of Our District",
+"href": "https://carusoforassembly.com/news/education-workforce-and-the-future-of-our-district"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://carusoforassembly.com/volunteer"
+},
+{
+"text": "GOVERNOR GEORGE E. PATAKI ENDORSES ALLEN CARUSO FOR NEW YORK STATE ASSEMBLY IN 113TH DISTRICT",
+"href": "https://carusoforassembly.com/news/governor-george-e-pataki-endorses-allen-caruso-for-new-york-state-assembly-in-113th-district"
+},
+{
+"text": "MEET ALLEN",
+"href": "https://carusoforassembly.com/about"
+},
+{
+"text": "NEWS",
+"href": "https://carusoforassembly.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://carusoforassembly.com/privacy"
+},
+{
+"text": "Public Safety and Bail Reform",
+"href": "https://carusoforassembly.com/news/public-safety-and-bail-reform"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/albany-has-lost-touch-with-upstate-new-york"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/education-workforce-and-the-future-of-our-district"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/governor-george-e-pataki-endorses-allen-caruso-for-new-york-state-assembly-in-113th-district"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/public-safety-and-bail-reform"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/rising-energy-costs-are-squeezing-new-york-farmers"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/rural-healthcare-and-mental-health-access-in-ad-113"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/supporting-small-businesses-in-assembly-district-113"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/the-cost-of-living-crisis-in-new-york-why-albany-must-change-course"
+},
+{
+"text": "Read More",
+"href": "https://carusoforassembly.com/news/whynow"
+},
+{
+"text": "Rising Energy Costs Are Squeezing New York Farmers",
+"href": "https://carusoforassembly.com/news/rising-energy-costs-are-squeezing-new-york-farmers"
+},
+{
+"text": "Rural Healthcare and Mental Health Access in AD-113",
+"href": "https://carusoforassembly.com/news/rural-healthcare-and-mental-health-access-in-ad-113"
+},
+{
+"text": "Supporting Small Businesses in Assembly District 113",
+"href": "https://carusoforassembly.com/news/supporting-small-businesses-in-assembly-district-113"
+},
+{
+"text": "TEXT TERMS & CONDITIONS",
+"href": "https://carusoforassembly.com/text-messaging"
+},
+{
+"text": "The Cost of Living Crisis in New York: Why Albany Must Change Course",
+"href": "https://carusoforassembly.com/news/the-cost-of-living-crisis-in-new-york-why-albany-must-change-course"
+},
+{
+"text": "Why I’m Running for Assembly in District 113",
+"href": "https://carusoforassembly.com/news/whynow"
+},
+{
+"text": "[image: Albany Has Lost Touch with Upstate New York]",
+"href": "https://carusoforassembly.com/news/albany-has-lost-touch-with-upstate-new-york"
+},
+{
+"text": "[image: Education, Workforce, and the Future of Our District]",
+"href": "https://carusoforassembly.com/news/education-workforce-and-the-future-of-our-district"
+},
+{
+"text": "[image: GOVERNOR GEORGE E. PATAKI ENDORSES ALLEN CARUSO FOR NEW YORK STATE ASSEMBLY IN 113TH DISTRICT]",
+"href": "https://carusoforassembly.com/news/governor-george-e-pataki-endorses-allen-caruso-for-new-york-state-assembly-in-113th-district"
+},
+{
+"text": "[image: Public Safety and Bail Reform]",
+"href": "https://carusoforassembly.com/news/public-safety-and-bail-reform"
+},
+{
+"text": "[image: Rising Energy Costs Are Squeezing New York Farmers]",
+"href": "https://carusoforassembly.com/news/rising-energy-costs-are-squeezing-new-york-farmers"
+},
+{
+"text": "[image: Rural Healthcare and Mental Health Access in AD-113]",
+"href": "https://carusoforassembly.com/news/rural-healthcare-and-mental-health-access-in-ad-113"
+},
+{
+"text": "[image: Supporting Small Businesses in Assembly District 113]",
+"href": "https://carusoforassembly.com/news/supporting-small-businesses-in-assembly-district-113"
+},
+{
+"text": "[image: The Cost of Living Crisis in New York: Why Albany Must Change Course]",
+"href": "https://carusoforassembly.com/news/the-cost-of-living-crisis-in-new-york-why-albany-must-change-course"
+},
+{
+"text": "[image: Why I’m Running for Assembly in District 113]",
+"href": "https://carusoforassembly.com/news/whynow"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/carusofornyassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarusoforNYAssembly/"
+}
 ]

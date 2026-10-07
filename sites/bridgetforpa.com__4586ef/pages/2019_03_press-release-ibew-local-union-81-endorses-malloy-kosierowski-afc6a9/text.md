@@ -1,10 +1,8 @@
-FOR IMMEDIATE RELEASE – MARCH 5, 2019
-CONTACT: info@BridgetForPA.com
-CLARKS SUMMIT – Today candidate for State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces the endorsement of The International Brotherhood of Electrical Workers (IBEW), Local Union #81.
+Skip to content Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards About Bridget Issues Photo Gallery Media District Donate Endorsements Take Action Honors & Awards Search for: Previous Next PRESS RELEASE – IBEW Local Union #81 Endorses Malloy Kosierowski FOR IMMEDIATE RELEASE – MARCH 5, 2019 CONTACT: info@BridgetForPA.com CLARKS SUMMIT – Today candidate for State Representative of Pennsylvania’s 114th District, Bridget Malloy Kosierowski, announces the endorsement of The International Brotherhood of Electrical Workers (IBEW), Local Union #81.
 “The members of IBEW Local 81 are proud to endorse Bridget Malloy Kosierowski’s candidacy for state representative,” said Local 81 Business Manager, Michael McDermott.
-“We are confident that Bridget will be a principled and dedicated advocate for working families and make the 114th District an even better place to live, to work, and to raise a family.”
-“I am very grateful to have the support of the men and women of IBEW Local #81,” said Malloy Kosierowski.
+“We are confident that Bridget will be a principled and dedicated advocate for working families and make the 114th District an even better place to live, to work, and to raise a family.” “I am very grateful to have the support of the men and women of IBEW Local #81,” said Malloy Kosierowski.
 “Our communities are made stronger because of the workmanship and the pride every member of this great organization demonstrates each day.
-It is my pledge to stand up and fight for hardworking families like these as representative to Pennsylvania’s 114th District.”
-Today’s endorsement follows recent endorsements from U.S.
+It is my pledge to stand up and fight for hardworking families like these as representative to Pennsylvania’s 114th District.” Today’s endorsement follows recent endorsements from U.S.
 Senator Bob Casey, PA Senator John Blake, Representative Kyle Mullins (PA-112), Representative Marty Flynn (PA-113), the United Brotherhood of Carpenters and Joiners Local 445, and the PA Nurses Association.
+By BridgetForPA | 2020-02-27T15:39:22+00:00 March 5th, 2019 | press release | Comments Off on PRESS RELEASE – IBEW Local Union #81 Endorses Malloy Kosierowski Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn WhatsApp Tumblr Pinterest Vk Email Friends of Bridget Malloy Kosierowski PO Box 38 | Clarks Summit, PA 18411 Email: info@bridgetforpa.com copyright # Bridget For PA Facebook Page load link Go to Top

@@ -1,8 +1,34 @@
 [
-"https://designedtorun.com/",
-"https://secure.actblue.com/donate/steve-padilla-for-state-senate-2026-1",
-"https://votestevepadilla.com/",
-"https://votestevepadilla.com/about",
-"https://votestevepadilla.com/endorsements",
-"https://votestevepadilla.com/news"
+{
+"text": "About",
+"href": "https://www.votestevepadilla.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/steve-padilla-for-state-senate-2026-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votestevepadilla.com/endorsements"
+},
+{
+"text": "News",
+"href": "https://www.votestevepadilla.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: State Senator Steve Padilla logo]",
+"href": "https://www.votestevepadilla.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.votestevepadilla.com/"
+},
+{
+"text": "steve@votestevepadilla.com",
+"href": "mailto:steve@votestevepadilla.com"
+}
 ]

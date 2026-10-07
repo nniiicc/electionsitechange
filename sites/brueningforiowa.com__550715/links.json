@@ -1,9 +1,38 @@
 [
-"https://brueningforiowa.com/",
-"https://brueningforiowa.com/blog1.html",
-"https://brueningforiowa.com/cdn-cgi/l/email-protection",
-"https://facebook.com/BrueningForIowa",
-"https://instagram.com/brueningforiowa",
-"https://secure.actblue.com/donate/brian-bruening-1",
-"https://twitter.com/BrueningForIA"
+{
+"text": "BRUENING FOR IOWA",
+"href": "https://www.brueningforiowa.com/"
+},
+{
+"text": "Blog",
+"href": "https://www.brueningforiowa.com/blog1.html"
+},
+{
+"text": "Contact me!",
+"href": "mailto:brian@brueningforiowa.com"
+},
+{
+"text": "DONATE TODAY!",
+"href": "https://secure.actblue.com/donate/brian-bruening-1"
+},
+{
+"text": "Home",
+"href": "https://www.brueningforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/BrueningForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brueningforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrueningForIA"
+},
+{
+"text": "[no text]",
+"href": "mailto:brian@brueningforiowa.com"
+}
 ]

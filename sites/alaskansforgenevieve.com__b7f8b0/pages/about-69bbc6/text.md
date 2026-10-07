@@ -1,5 +1,4 @@
-Meet genevieve
-I’m a lifelong Alaskan, community advocate, and political activist with a background in Alaska government and health policy.
+0 Skip to Content About Contact Open Menu Close Menu About Contact Open Menu Close Menu About Contact Meet genevieve I’m a lifelong Alaskan, community advocate, and political activist with a background in Alaska government and health policy.
 Both of my parents grew up in poverty in the Philippines and during the 1980s Alaska recession, my father decided to move to Alaska permanently because he fell in love with the state.
 While my mom worked night shifts as a nurse at Providence while raising my older brother, my dad found various jobs as a custodian, taxi driver, and factory worker - saving enough to buy their first home in Airport Heights and soon after, starting their own small business.
 My passion in challenging institutions for the interests of working Alaskans began at an early age.
@@ -16,3 +15,4 @@ Outside of my work, I am a committed community volunteer.
 I’ve served on the Public Transit Advisory Board for the Municipality of Anchorage, as well as the boards of Alaska Women Ascend, the Airport Heights Community Council, The Alaska Center, and Alaska Public Interest Research Group.
 I am a recipient of the Nick Begich Scholarship, an inaugural graduate of the Alaska Women Ascend program, and an alum of the New American Leaders program.
 I am also a leader in the Alaska Democratic Party, previously serving as Chair of House District 19, and currently serving as President of the Alaska Young Democrats since 2019 - growing Alaska’s young progressive base through bottom-up statewide organizing.
+Paid for by alaskans for genevieve PO Box 211696, Anchorage, AK 99521

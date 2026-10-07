@@ -1,7 +1,6 @@
-“It truly is an honor to serve Tioga, Bradford, and Potter County as their representative,” announces Owlett in the kick-off of his re-election campaign.
-Read More
-It was history in the making in Tioga County, as Clint Owlett took home the win with over 10,700 votes from the 68th District.
-Read More
-Clint Owlett, the Republican Nominee for the Special Election, takes the win in the PA State Representative race.
+Home About Platform Connect Donate Newsletters Press Releases Back Platform Overview Opioid Crisis Pennsylvania Agriculture Business Growth Oil and Gas Industry Home About Platform Platform Overview Opioid Crisis Pennsylvania Agriculture Business Growth Oil and Gas Industry Connect Donate Newsletters Press Releases Posts by Clint Owlett Owlett Announces Re-election Campaign “It truly is an honor to serve Tioga, Bradford, and Potter County as their representative,” announces Owlett in the kick-off of his re-election campaign.
+Read More Clint Owlett February 4, 2020 Owlett Takes Landslide Win It was history in the making in Tioga County, as Clint Owlett took home the win with over 10,700 votes from the 68th District.
+Read More Clint Owlett November 9, 2018 Owlett Takes the Win Clint Owlett, the Republican Nominee for the Special Election, takes the win in the PA State Representative race.
 Owlett swept the Special Election as well as the Republican primary, Tuesday night, May 15th, 2018.
-Read More
+Read More Clint Owlett May 18, 2018 Special Election Press Release Clint Owlett March 27, 2018 Local Leader, Clint Owlett, Announces Run for PA State Rep Clint Owlett March 26, 2018 Clint Owlett Home | About | Platform | Connect | Donate | Newsletters | Press Releases All content is the property of Clint Owlett, © #.
+Paid for by: Friends of Clint Owlett

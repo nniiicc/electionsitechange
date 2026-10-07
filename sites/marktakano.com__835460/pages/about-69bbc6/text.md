@@ -1,4 +1,4 @@
-Meet Mark.
+0 Skip to Content Home Meet Mark DONATE Open Menu Close Menu Home Meet Mark DONATE Open Menu Close Menu Home Meet Mark DONATE Meet Mark .
 For more than thirty years, Mark Takano has worked to improve the lives of Riverside County residents, both as an elected official and as a high school teacher.
 Born and raised in Riverside, Mark's commitment to public service began at an early age.
 His family roots in Riverside go back to his grandparents who, along with his parents, were sent to Japanese American Internment camps during World War II.
@@ -15,3 +15,5 @@ He was elected Board President in 1991 and helped the Board and the District gai
 In 2012, Mark became the first openly gay person of color to be elected to Congress.
 Mark Takano represents the people of Riverside, Moreno Valley, Jurupa Valley and Perris in the United States House of Representatives.
 He serves as Ranking Member of the House Committee on Veterans' Affairs, and as a member of the Education and the Workforce Committee.
+Paid for and authorized by Mark Takano for Congress Mark Takano for Congress P.O.
+Box 5214 Riverside, CA 92517

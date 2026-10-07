@@ -1,18 +1,70 @@
 [
-"https://absentee.vote.org/",
-"https://campaignpartner.com/",
-"https://campaignpartner.com/state_election_information.html",
-"https://koppieforcongress.com/",
-"https://koppieforcongress.com/contact",
-"https://koppieforcongress.com/contribute",
-"https://koppieforcongress.com/events",
-"https://koppieforcongress.com/home",
-"https://koppieforcongress.com/issues",
-"https://koppieforcongress.com/meet_chad",
-"https://koppieforcongress.com/news",
-"https://koppieforcongress.com/view-endorsements",
-"https://koppieforcongress.com/volunteer",
-"https://koppieforcongress.com/vote",
-"https://register.vote.org/",
-"https://verify.vote.org/"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.koppieforcongress.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.koppieforcongress.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.koppieforcongress.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.koppieforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.koppieforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.koppieforcongress.com/issues"
+},
+{
+"text": "Meet Chad",
+"href": "https://www.koppieforcongress.com/meet_chad"
+},
+{
+"text": "News",
+"href": "https://www.koppieforcongress.com/news"
+},
+{
+"text": "Register to Vote",
+"href": "https://register.vote.org/"
+},
+{
+"text": "Request an Absentee Ballot",
+"href": "https://absentee.vote.org/"
+},
+{
+"text": "Verify your Voter Registration Status",
+"href": "https://verify.vote.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.koppieforcongress.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.koppieforcongress.com/vote"
+},
+{
+"text": "[image: Chad Koppie U.S. House, Illinois&#39; 7th District]",
+"href": "https://www.koppieforcongress.com/"
+},
+{
+"text": "[image: Chad Koppie U.S. House, Illinois' 7th District]",
+"href": "https://www.koppieforcongress.com/"
+},
+{
+"text": "click here to find your state",
+"href": "https://www.campaignpartner.com/state_election_information.html"
+}
 ]

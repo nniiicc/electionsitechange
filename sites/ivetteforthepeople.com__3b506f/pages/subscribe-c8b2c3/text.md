@@ -1,3 +1,3 @@
-Subscribe for news & updates, about the "Ivette for the People Campaign", Public Events, Town Hall Meetings, Campaign Merchandise, Debates, Interviews, Zoom Meetings & "Ivette For The People Live Podcasts."
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
++1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact More Home Register About Issues Calendar News Videos Join Donate Songs Product Contact +1.515.682.4085 Home Register About Issues Calendar News Videos Join Donate Songs Product Contact ~ Subscribe ~ Subscribe for news & updates, about the "Ivette for the People Campaign", Public Events, Town Hall Meetings, Campaign Merchandise, Debates, Interviews, Zoom Meetings & "Ivette For The People Live Podcasts." Email Sign up Ivette For The People - Campaign For Iowa House District 33 Home Register About Issues Calendar News Videos Join Subscribe Donate Songs Product Join "Ivette For The People" Movement & Let's Win!
+Des Moines Pkwy, Des Moines, Iowa 50316, USA +1.515.682.4085 Copyright © # IvetteForThePeople - All Rights Reserved.
+Paid For By Ivette For The People Campaign

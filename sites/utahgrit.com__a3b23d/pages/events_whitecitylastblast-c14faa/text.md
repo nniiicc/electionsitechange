@@ -1,12 +1,5 @@
-Back to All Events
-White City LAST Blast of Summer
-Bring the family to this community event.
+0 Skip to Content Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Open Menu Close Menu Issues That Matter Grit Perspective Donate Volunteer Endorsements Events Contact Back to All Events LAST BLAST OF SUMMER Saturday, August 22, 2026 2:00 PM 10:30 PM Big Bear Park 930 East Onyx Lane Sandy, Utah, 84094 United States (map) Google Calendar ICS White City LAST Blast of Summer Bring the family to this community event.
 Have a blast before school starts.
 Meet Rod Moser at the Democrats’ Booth.
-Previous
-Previous
-August 22
-Canvass with Rod Moser for HD45
-Next
-Next
-August 23
+Learn more Previous Previous August 22 Canvass with Rod Moser for HD45 Next Next August 23 Canvass with Rod Moser for HD45 Utah Grit Request a Yard Sign House District 45 MAP Signs will be delivered to residences within House District 45 boundaries, paid for by Elect Rod Moser.
+Mailing Address: 3731 W South Jordan Pkwy #102-503 South Jordan, UT 84009 Paid for by Elect Rod Moser.

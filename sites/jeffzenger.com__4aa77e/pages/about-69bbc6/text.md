@@ -1,5 +1,4 @@
-ABOUT JEFF
-Jeff Zenger was born in Washington, D.C. and raised in Baltimore by a single mom.
+top of page HOME ABOUT ISSUES JOIN DONATE ABOUT JEFF Jeff Zenger was born in Washington, D.C. and raised in Baltimore by a single mom.
 By age 12, he was delivering newspapers and helping cover bills.
 Those early years taught Jeff two things that have never left him: the value of hard work and the importance of serving others.
 Jeff bought his first house at 21 and moved to Fells Point in downtown Baltimore.
@@ -21,3 +20,4 @@ He delivered tangible wins for his district: including four new firetrucks, road
 Today, Jeff serves as a leading voice on housing affordability, public safety, and practical problem-solving.
 He believes the government works best when it’s focused on strong communities, personal responsibility, and opportunity for the next generation.
 Jeff is determined to leave North Carolina stronger, safer, and more affordable for the next generation.
+DONATE CONTACT PRIVACY POLICY TERMS & CONDITIONS PAID FOR BY COMMITTEE TO ELECT JEFF ZENGER TO NC HOUSE bottom of page

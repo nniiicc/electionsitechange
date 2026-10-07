@@ -1,21 +1,102 @@
 [
-"https://facebook.com/JonesForOhio",
-"https://google.com/maps/dir?api=1&destination=2020+Countryside+Drive%2C+Fremont%2C+OH+43420",
-"https://google.com/maps/dir?api=1&destination=71+S+Washington+Street+Suite+1101%2C+Tiffin%2C+OH+44883",
-"https://instagram.com/jones4ohio",
-"https://jonesforohio.com/",
-"https://jonesforohio.com/contact",
-"https://jonesforohio.com/events",
-"https://jonesforohio.com/media",
-"https://jonesforohio.com/privacy-policy-terms",
-"https://jonesforohio.com/vote",
-"https://lookup.boe.ohio.gov/vtrapp/seneca/ballotlist.aspx",
-"https://ohiosos.gov/elections/voter-ID-requirements",
-"https://ohiosos.gov/elections/voters",
-"https://ohiosos.gov/elections/voters/toolkit/polling-location",
-"https://olvr.ohiosos.gov/",
-"https://sandusky.oh-vote.org/VoterView/RegistrantSearch.do",
-"https://secure.actblue.com/donate/aaron-jones",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx",
-"https://x.com/JonesForOhio"
+{
+"text": "Aaron Jones for State Representative",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "About",
+"href": "https://www.jonesforohio.com/#about"
+},
+{
+"text": "Check my registration",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.jonesforohio.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/aaron-jones"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonesforohio.com/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.jonesforohio.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonesforohio.com/#get-involved"
+},
+{
+"text": "Get directions to Sandusky County Board of Elections",
+"href": "https://www.google.com/maps/dir/?api=1&destination=2020+Countryside+Drive%2C+Fremont%2C+OH+43420"
+},
+{
+"text": "Get directions to Seneca County Board of Elections",
+"href": "https://www.google.com/maps/dir/?api=1&destination=71+S+Washington+Street+Suite+1101%2C+Tiffin%2C+OH+44883"
+},
+{
+"text": "Home",
+"href": "https://www.jonesforohio.com/"
+},
+{
+"text": "List of acceptable IDs",
+"href": "https://www.ohiosos.gov/elections/voter-ID-requirements"
+},
+{
+"text": "Look up your polling location",
+"href": "https://www.ohiosos.gov/elections/voters/toolkit/polling-location/"
+},
+{
+"text": "Make my voting plan",
+"href": "https://iwillvote.com/OH"
+},
+{
+"text": "Media",
+"href": "https://www.jonesforohio.com/media/"
+},
+{
+"text": "News",
+"href": "https://www.jonesforohio.com/#news"
+},
+{
+"text": "Priorities",
+"href": "https://www.jonesforohio.com/#priorities"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://www.jonesforohio.com/privacy-policy-terms"
+},
+{
+"text": "Sandusky County sample ballots",
+"href": "https://sandusky.oh-vote.org/VoterView/RegistrantSearch.do"
+},
+{
+"text": "Seneca County sample ballots",
+"href": "https://lookup.boe.ohio.gov/vtrapp/seneca/ballotlist.aspx"
+},
+{
+"text": "Vote",
+"href": "https://www.jonesforohio.com/vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JonesForOhio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jones4ohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JonesForOhio"
+},
+{
+"text": "info@jonesforohio.com",
+"href": "mailto:info@jonesforohio.com"
+}
 ]

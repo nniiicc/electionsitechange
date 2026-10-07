@@ -1,22 +1,90 @@
 [
-"http://bsky.app/profile/alexisforcolorado.bsky.social",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brews+w%2F+Dr.+Alexis+Hoffkling+and+Rep.+Rebekah+Stewart&dates=20260806T233000Z%2F20260807T010000Z&location=2508+Gray+Street%2C+Edgewater%2C+Colorado%2C+80214%2C+United+States",
-"http://instagram.com/alexisforcolorado",
-"http://maps.google.com/?q=2508+Gray+Street+Edgewater%2C+Colorado%2C+80214+United+States",
-"https://alexisforcolorado.com/",
-"https://alexisforcolorado.com/cart",
-"https://alexisforcolorado.com/endorsements",
-"https://alexisforcolorado.com/events",
-"https://alexisforcolorado.com/events/brews-w-dr-alexis-hoffkling-and-rep-rebekah-stewart?format=ical",
-"https://alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling-m6bw8",
-"https://alexisforcolorado.com/events/keep-jeffco-blue-a-community-event-with-alexis-hoffkling-dave-rein-and-danielle-varda",
-"https://alexisforcolorado.com/media",
-"https://alexisforcolorado.com/voterguide",
-"https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2",
-"https://facebook.com/profile.php?id=61575273157265",
-"https://meganhelseth.com/",
-"https://secure.actblue.com/donate/alexisforcolorado",
-"https://secure.actblue.com/donate/alexisforcolorado?recurring=true",
-"https://secure.actblue.com/donate/stewarthoffkling",
-"https://sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2508+gray+street+edgewater%2C+colorado%2C+80214+united+states"
+},
+{
+"text": "0",
+"href": "https://www.alexisforcolorado.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "Contact Alexis",
+"href": "mailto:alexisforcolorado@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alexisforcolorado"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexisforcolorado.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.alexisforcolorado.com/events"
+},
+{
+"text": "GIVE MONTHLY",
+"href": "https://secure.actblue.com/donate/alexisforcolorado?recurring=true"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brews+w%2F+Dr.+Alexis+Hoffkling+and+Rep.+Rebekah+Stewart&dates=20260806T233000Z%2F20260807T010000Z&location=2508+Gray+Street%2C+Edgewater%2C+Colorado%2C+80214%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.alexisforcolorado.com/events/brews-w-dr-alexis-hoffkling-and-rep-rebekah-stewart?format=ical"
+},
+{
+"text": "MHW Consulting, L.L.C.",
+"href": "https://meganhelseth.com"
+},
+{
+"text": "Map of District 23",
+"href": "https://coleg.maps.arcgis.com/apps/instant/basic/index.html?appid=29d34884cf8c4bcc9b2fd6fa8ef168d2"
+},
+{
+"text": "Media",
+"href": "https://www.alexisforcolorado.com/media"
+},
+{
+"text": "Next Next September 10 Meet and Greet Fundraiser with Monica Duran and Dr. Alexis Hoffkling",
+"href": "https://www.alexisforcolorado.com/events/community-canvass-with-dr-alexis-hoffkling-m6bw8"
+},
+{
+"text": "Previous Previous July 12 Keep JeffCo Blue! A community event with Alexis Hoffkling, Dave Rein and Danielle Varda",
+"href": "https://www.alexisforcolorado.com/events/keep-jeffco-blue-a-community-event-with-alexis-hoffkling-dave-rein-and-danielle-varda"
+},
+{
+"text": "RSVP HERE",
+"href": "https://secure.actblue.com/donate/stewarthoffkling"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml"
+},
+{
+"text": "Voting Guide",
+"href": "https://www.alexisforcolorado.com/voterguide"
+},
+{
+"text": "[image: Alexis for Colorado]",
+"href": "https://www.alexisforcolorado.com/"
+},
+{
+"text": "[no text]",
+"href": "http://bsky.app/profile/alexisforcolorado.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/alexisforcolorado"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575273157265"
+}
 ]

@@ -1,8 +1,7 @@
-top of page
-Why I DECIDED to Run?
+top of page Home About Jim Campaign Issues Why Running?
+Senate Record My Resume Contributions Contact Why I DECIDED to Run?
 I am not looking for a second act.
-I came out of retirement to DEFEND the town I love and its people's welfare and quality of life from the Sewage Sludge Plant
-Long before deciding to seek public office again, I became actively involved in opposing the proposed sewage sludge processing plant because I believed North Kingstown deserved someone willing to step forward and lead.
+I came out of retirement to DEFEND the town I love and its people's welfare and quality of life from the Sewage Sludge Plant ​ Long before deciding to seek public office again, I became actively involved in opposing the proposed sewage sludge processing plant because I believed North Kingstown deserved someone willing to step forward and lead.
 As a private citizen, I produced and distributed more than 1,500 informational flyers to residents, created www.StopTheSludge.net website, organized Operation Sludge Hammer, produced yard signs and educational materials, wrote letters to the editor, interviewed with newspapers and television about the issue, spoke at public meetings, testified before the General Assembly in support of a moratorium, met with elected officials, helped build coalitions with community organizations and public leaders, and helped bring statewide attention to one of the most significant issues facing North Kingstown in decades.
 If elected to the Rhode Island House of Representatives, I will bring that same determination—and the benefit of 20 years of legislative experience—to the fight.
 Throughout my Senate career, I successfully led the effort to defeat the proposed Quonset mega-container port at Quonset, restore the Code of Ethics over the General Assembly, stop the proposed Harrah's Casino, strengthen Rhode Island's eminent domain laws to better protect homeowners and property owners, and modernize Rhode Island's Access to Public Records Act.
@@ -18,4 +17,4 @@ I will work to generate good paying jobs and provide people with the workforce d
 In addition, I will support making out communities more climate resilient as well as promote responsible commununity development.
 I look forward to meeting you on the campaign trail so.
 I humbly ask for your vote on September 9, 2026.
-bottom of page
+Paid for by the Friends of James Sheehan bottom of page

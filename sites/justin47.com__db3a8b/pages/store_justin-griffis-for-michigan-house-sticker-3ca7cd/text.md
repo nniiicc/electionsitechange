@@ -1,15 +1,7 @@
-$3.99
-A glossy kiss-cut vinyl sticker featuring bold, collegiate-inspired lettering and a subtle outline of Michigan.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis for Michigan House Sticker $3.99 A glossy kiss-cut vinyl sticker featuring bold, collegiate-inspired lettering and a subtle outline of Michigan.
 The design reads 'JUSTIN GRIFFIS FOR MICHIGAN HOUSE' in strong red typography with a white border that makes the artwork stand out on laptops, water bottles, journals, and smooth flat surfaces.
 The sticker's durable vinyl and scratch-resistant glossy finish keep the colors vivid while the permanent acrylic adhesive ensures it stays put.
 It brings a clean, civic-minded look to everyday items and fits naturally into a politically engaged environment—whether displayed during canvassing, at campaign events, or used to show local pride at home.
-Product features
-- Glossy, scratch-resistant paper finish for bright, bold look
-- Durable vinyl with permanent acrylic adhesive for long-lasting placement
-- Eco-solvent inks deliver vivid, fade-resistant colors
-- Available in white or transparent background; four size options
-- Smooth, bubble-free application on flat surfaces (not waterproof)
-Care instructions
-- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
-Product features
-Care instructions
+Product features - Glossy, scratch-resistant paper finish for bright, bold look - Durable vinyl with permanent acrylic adhesive for long-lasting placement - Eco-solvent inks deliver vivid, fade-resistant colors - Available in white or transparent background; four size options - Smooth, bubble-free application on flat surfaces (not waterproof) Care instructions - Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
+Option * 3" × 3" / White — $3.99 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

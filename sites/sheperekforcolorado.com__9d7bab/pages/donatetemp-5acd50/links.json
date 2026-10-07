@@ -1,12 +1,50 @@
 [
-"https://secure.anedot.com/sheperek-for-colorado/donate",
-"https://sheperekforcolorado.com/",
-"https://sheperekforcolorado.com/about-mike",
-"https://sheperekforcolorado.com/crazy-bills",
-"https://sheperekforcolorado.com/donatetemp",
-"https://sheperekforcolorado.com/get-involved-2",
-"https://sheperekforcolorado.com/page2-2",
-"https://sheperekforcolorado.com/the-blog",
-"https://sheperekforcolorado.com/the-issues",
-"https://sheperekforcolorado.com/why-im-running"
+{
+"text": "About Mike",
+"href": "https://sheperekforcolorado.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://sheperekforcolorado.com/get-involved-2/"
+},
+{
+"text": "Crazy Bills",
+"href": "https://sheperekforcolorado.com/crazy-bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/sheperek-for-colorado/donate"
+},
+{
+"text": "Legislative Philosophy",
+"href": "https://sheperekforcolorado.com/donatetemp/"
+},
+{
+"text": "Main_Menu",
+"href": "https://sheperekforcolorado.com/page2-2/"
+},
+{
+"text": "Michael_Sheperek@icloud.com",
+"href": "mailto:Michael_Sheperek@icloud.com"
+},
+{
+"text": "SheperekForColorado",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "The Issues",
+"href": "https://sheperekforcolorado.com/the-issues/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://sheperekforcolorado.com/why-im-running/"
+},
+{
+"text": "[image]",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "blog",
+"href": "https://sheperekforcolorado.com/the-blog/"
+}
 ]

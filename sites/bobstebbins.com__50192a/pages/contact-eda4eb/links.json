@@ -1,6 +1,22 @@
 [
-"https://bobstebbins.com/",
-"https://bobstebbins.com/cart",
-"https://bobstebbins.com/contact",
-"https://bobstebbins.com/donate"
+{
+"text": "0",
+"href": "https://www.bobstebbins.com/cart"
+},
+{
+"text": "BOB STEBBINS for HOUSE OF REPRESENTATIVES FRANKLIN-1",
+"href": "https://www.bobstebbins.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.bobstebbins.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.bobstebbins.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.bobstebbins.com/"
+}
 ]

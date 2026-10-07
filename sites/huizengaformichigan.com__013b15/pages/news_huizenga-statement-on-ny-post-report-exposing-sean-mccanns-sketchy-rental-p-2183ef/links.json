@@ -1,16 +1,66 @@
 [
-"https://facebook.com/BillHuizenga",
-"https://huizengaformichigan.com/",
-"https://huizengaformichigan.com/about",
-"https://huizengaformichigan.com/issues",
-"https://huizengaformichigan.com/join",
-"https://huizengaformichigan.com/news",
-"https://huizengaformichigan.com/privacy-policy",
-"https://huizengaformichigan.com/terms-and-conditions",
-"https://instagram.com/billhuizenga",
-"https://nypost.com/2026/08/07/us-news/michigan-dem-who-railed-against-slumlords-pocketed-up-to-50k-per-year-in-rents-while-his-properties-failed-inspection",
-"https://secure.winred.com/huizenga-for-congress/contribute",
-"https://twitter.com/billhuizenga",
-"https://wzzm13.com/article/news/politics/michigan-politics/sean-mccann-says-hes-running-for-congress/69-87be47fc-ef92-43ae-b252-f1e82261cdcc",
-"https://youtube.com/@HuizengaForCongress"
+{
+"text": "About",
+"href": "https://huizengaformichigan.com/about/"
+},
+{
+"text": "Back to News",
+"href": "https://huizengaformichigan.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/huizenga-for-congress/contribute"
+},
+{
+"text": "Issues",
+"href": "https://huizengaformichigan.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://huizengaformichigan.com/join/"
+},
+{
+"text": "New York Post",
+"href": "https://nypost.com/2026/08/07/us-news/michigan-dem-who-railed-against-slumlords-pocketed-up-to-50k-per-year-in-rents-while-his-properties-failed-inspection/"
+},
+{
+"text": "News",
+"href": "https://huizengaformichigan.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://huizengaformichigan.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://huizengaformichigan.com/terms-and-conditions"
+},
+{
+"text": "[image: Huizenga for Congress]",
+"href": "https://huizengaformichigan.com"
+},
+{
+"text": "[image]",
+"href": "https://nypost.com/2026/08/07/us-news/michigan-dem-who-railed-against-slumlords-pocketed-up-to-50k-per-year-in-rents-while-his-properties-failed-inspection/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/billhuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillHuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billhuizenga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HuizengaForCongress"
+},
+{
+"text": "dedicated his career to cracking down on slumlords",
+"href": "https://www.wzzm13.com/article/news/politics/michigan-politics/sean-mccann-says-hes-running-for-congress/69-87be47fc-ef92-43ae-b252-f1e82261cdcc"
+}
 ]

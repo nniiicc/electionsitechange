@@ -1,28 +1,122 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+with+Sam+Foster%21&dates=20260411T173000Z%2F20260411T193000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States",
-"http://maps.google.com/?q=1839+Turpin+Road+Smyrna%2C+GA%2C+30080+United+States",
-"https://actionnetwork.org/forms/get-a-yard-sign-3",
-"https://actionnetwork.org/forms/volunteer-for-representative-gabriel-sanchezs-office",
-"https://bsky.app/profile/sanchez4georgia.bsky.social",
-"https://committee-to-elect-gabriel-sanchez.solidarity.tech/canvass-with-gabriel-sanchez",
-"https://connect.thecg.us/contact/gabriel-sanchez",
-"https://facebook.com/sanchezforgeorgia",
-"https://instagram.com/sanchez4georgia",
-"https://sanchezforgeorgia.com/",
-"https://sanchezforgeorgia.com/about",
-"https://sanchezforgeorgia.com/canvass",
-"https://sanchezforgeorgia.com/cart",
-"https://sanchezforgeorgia.com/endorsements",
-"https://sanchezforgeorgia.com/events",
-"https://sanchezforgeorgia.com/events/canvassing-april11",
-"https://sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696",
-"https://sanchezforgeorgia.com/events/gabeandsam?format=ical",
-"https://sanchezforgeorgia.com/get-involved",
-"https://sanchezforgeorgia.com/meetandgreet",
-"https://sanchezforgeorgia.com/our-vision",
-"https://sanchezforgeorgia.com/our-work",
-"https://sanchezforgeorgia.com/press-releases",
-"https://sanchezforgeorgia.com/vote",
-"https://tiktok.com/@sanchez4georgia",
-"https://twitter.com/sanchez4georgia"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1839+turpin+road+smyrna%2C+ga%2C+30080+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sanchezforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sanchezforgeorgia.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.sanchezforgeorgia.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.sanchezforgeorgia.com/events"
+},
+{
+"text": "Canvass",
+"href": "https://sanchezforgeorgia.com/canvass"
+},
+{
+"text": "Contact Form",
+"href": "https://connect.thecg.us/contact/gabriel-sanchez"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sanchezforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sanchezforgeorgia.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.sanchezforgeorgia.com/get-involved"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://actionnetwork.org/forms/get-a-yard-sign-3/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Joint+Canvass+with+Sam+Foster%21&dates=20260411T173000Z%2F20260411T193000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/gabeandsam?format=ical"
+},
+{
+"text": "Info on Voting﻿",
+"href": "https://www.sanchezforgeorgia.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://www.sanchezforgeorgia.com/our-vision"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.sanchezforgeorgia.com/meetandgreet"
+},
+{
+"text": "Next Next April 11 Meet & Greet",
+"href": "https://www.sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696"
+},
+{
+"text": "Our Work",
+"href": "https://www.sanchezforgeorgia.com/our-work"
+},
+{
+"text": "Press Releases",
+"href": "https://www.sanchezforgeorgia.com/press-releases"
+},
+{
+"text": "Previous Previous April 11 Canvass with Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11"
+},
+{
+"text": "Sign up!",
+"href": "https://committee-to-elect-gabriel-sanchez.solidarity.tech/canvass-with-gabriel-sanchez"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-for-representative-gabriel-sanchezs-office"
+},
+{
+"text": "Volunteer",
+"href": "https://committee-to-elect-gabriel-sanchez.solidarity.tech/canvass-with-gabriel-sanchez"
+},
+{
+"text": "Vote",
+"href": "https://www.sanchezforgeorgia.com/vote"
+},
+{
+"text": "[image: Gabriel Sanchez for Georgia HD 42]",
+"href": "https://www.sanchezforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sanchez4georgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sanchez4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sanchezforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sanchez4georgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sanchez4georgia"
+}
 ]

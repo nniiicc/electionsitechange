@@ -1,7 +1,4 @@
-Contact: Aron Maberry Email: aron@votemaberry.com Website: VoteMaberry.com FOR IMMEDIATE RELEASE: Tuesday, January 18, 2021 ARON MABERRY ANNOUNCES BID FOR SCHOOL BOARD DISTRICT 7 Clarksville, TN, January 18th — On Monday, January 10th Republican Aron Maberry, Next-Gen Pastor at Mosaic Church, qualified for the ballot and formally announced his candidacy for the Clarksville Montgomery County School Board in District 7.
-Maberry …
-Continue reading
-I’m excited to announce that I have submitted my candidate petition to the Election Commission and now will be on the primary ballot in May and in the election in August for School Board in District 7 in Clarksville Montgomery County, TN.
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute January 2022 January 18, 2022 Media: Campaign Annoucement Contact: Aron Maberry Email: aron@votemaberry.com Website: VoteMaberry.com FOR IMMEDIATE RELEASE: Tuesday, January 18, 2021 ARON MABERRY ANNOUNCES BID FOR SCHOOL BOARD DISTRICT 7 Clarksville, TN, January 18th — On Monday, January 10th Republican Aron Maberry, Next-Gen Pastor at Mosaic Church, qualified for the ballot and formally announced his candidacy for the Clarksville Montgomery County School Board in District 7.
+Maberry … Continue reading January 10, 2022 Submitted candidate petition to the Election Commission I’m excited to announce that I have submitted my candidate petition to the Election Commission and now will be on the primary ballot in May and in the election in August for School Board in District 7 in Clarksville Montgomery County, TN.
 Thank you to all of you who have shown your support!
-Here is to change to create more …
-Continue reading
+Here is to change to create more … Continue reading About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

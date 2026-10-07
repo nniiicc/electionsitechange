@@ -1,15 +1,62 @@
 [
-"https://claggettforohio.com/",
-"https://claggettforohio.com/about-thad",
-"https://claggettforohio.com/contact-us",
-"https://claggettforohio.com/donate",
-"https://claggettforohio.com/endorsements",
-"https://claggettforohio.com/ivoter-guide",
-"https://claggettforohio.com/media-releases",
-"https://claggettforohio.com/search",
-"https://claggettforohio.com/volunteer",
-"https://claggettforohio.com/yard-sign",
-"https://facebook.com/Claggett-For-Ohio-103117627898141",
-"https://ivoterguide.com/All-in-State/OH?eId=b617dc1c-a1f5-4034-81df-cf96692c900f&eType=EmailBlastContent",
-"https://ivoterguide.com/All-in-State/OH?eType=EmailBlastContent&eId=b617dc1c-a1f5-4034-81df-cf96692c900f"
+{
+"text": "About Thad",
+"href": "https://www.claggettforohio.com/about-thad"
+},
+{
+"text": "Contact Us",
+"href": "https://www.claggettforohio.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://www.claggettforohio.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.claggettforohio.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.claggettforohio.com/"
+},
+{
+"text": "Media Releases",
+"href": "https://www.claggettforohio.com/media-releases"
+},
+{
+"text": "Ohio ivoter Guide",
+"href": "https://ivoterguide.com/All-in-State/OH?eType=EmailBlastContent&eId=b617dc1c-a1f5-4034-81df-cf96692c900f"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://www.claggettforohio.com/volunteer"
+},
+{
+"text": "Yard Sign Sign-Up",
+"href": "https://www.claggettforohio.com/yard-sign"
+},
+{
+"text": "[image: Claggett for Ohio]",
+"href": "https://www.claggettforohio.com/"
+},
+{
+"text": "[image: ivoter guide.jpg]",
+"href": "https://ivoterguide.com/All-in-State/OH?eId=b617dc1c-a1f5-4034-81df-cf96692c900f&eType=EmailBlastContent"
+},
+{
+"text": "[no text]",
+"href": "https://www.claggettforohio.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Claggett-For-Ohio-103117627898141/"
+},
+{
+"text": "claggettforohio@gmail.com",
+"href": "mailto:claggettforohio@gmail.com"
+},
+{
+"text": "iVoter Guide",
+"href": "https://www.claggettforohio.com/ivoter-guide"
+}
 ]

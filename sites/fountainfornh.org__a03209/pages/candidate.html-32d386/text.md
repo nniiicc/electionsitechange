@@ -1,5 +1,5 @@
-Biography
-A Navy veteran, business professional, and dedicated community servant, Cathleen Fountain holds a degree in Business Administration and Accounting from Southern New Hampshire University.
+Home Candidate Issues_Solutions For the people of Coös County & Northern Grafton County Cathleen ...
+Biography A Navy veteran, business professional, and dedicated community servant, Cathleen Fountain holds a degree in Business Administration and Accounting from Southern New Hampshire University.
 As the oldest of seven children, she learned early that resilience and responsibility often go hand in hand.
 Born with Spina Bifida, her condition was identified at birth and successfully treated through surgery at age two.
 Her younger brother, John, was also born with Spina Bifida, but his condition was far more severe, and he lived only four weeks.
@@ -15,4 +15,4 @@ Over the years, she has served as Supervisor of the Checklist, Planning Board Se
 For more than sixteen years, she has helped residents register to vote and has witnessed firsthand the growth, challenges, and strength of her community.
 Through every chapter of her life, one principle has remained constant: treat people with kindness, step forward when someone needs help, and be a voice for those who need one.
 Whether serving her country, supporting her community, or helping a neighbor, she believes that service is not simply something you do, but a way of life.
-"I invite you to join me in building a community where everyone can afford to stay, to thrive, and to have their voice heard!"
+"I invite you to join me in building a community where everyone can afford to stay, to thrive, and to have their voice heard!" Back to top DONATE Paid for by Cathleen Fountain For NH Cathleen Fountain, Candidate 8 Rooney Rd, Dalton, NH (603) 998-8358

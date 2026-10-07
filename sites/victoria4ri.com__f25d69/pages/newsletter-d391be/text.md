@@ -1,26 +1,20 @@
-2026
-Staying In Touch
-I firmly believe that our democracy is stronger when we are informed and engaged, so I want to make sure that people have opportunities to stay involved.
-My contact info is (401) 388-0696 / Sen-Gu@rilegislature.gov.
+Skip to content Meet Victoria Town Halls Newsletter News Contact Us 2026 Campaign The Issues Request a Lawn Sign Endorsements Volunteer Meet and Greets Donate Newsletter Home Newsletter 2026 July 2026: Getting on the Ballot and Fundraiser on July 21 June 2026: End-of-Session Takeaways May 2026: 6 Weeks Until the End of Session March 2026: We Need Your Voices In Bill Hearings February 2026: Start of the 2026 Session February 2026: Fundraiser on Feb 26th and More Feb Updates Staying In Touch I firmly believe that our democracy is stronger when we are informed and engaged, so I want to make sure that people have opportunities to stay involved.
+My contact info is (401) 388-0696 / Sen-Gu@rilegislature.gov .
 I would like to call to your attention the General Assembly website http://www.rilegislature.gov which contains a wealth of information on legislative sessions, including daily introductions, committee hearings, legislative calendars and the complete/updated text of all bills introduced.
-Here are a couple ways you can stay in touch so that we can problem-solve together:
-- Making state agencies work better for you: Whether it’s an issue with a license or benefit you’re applying for, or you would like to see some changes with a state-run parking lot or other facility, we have a team here to assist.
-You can either call or email me, or reach out to Constituent Services directly at jbaxter@rilin.state.ri.us / (401) 276-5556
-- Giving feedback on bills: You can call or email me anytime between when a bill is drafted, when a bill is up for committee vote, and when a bill is up for a full senate vote.
-- Giving testimony on a bill pending before a committee: Personal stories are powerful and can help a lot during a bill hearing.
+Here are a couple ways you can stay in touch so that we can problem-solve together: Making state agencies work better for you : Whether it’s an issue with a license or benefit you’re applying for, or you would like to see some changes with a state-run parking lot or other facility, we have a team here to assist.
+You can either call or email me, or reach out to Constituent Services directly at jbaxter@rilin.state.ri.us / (401) 276-5556 Giving feedback on bills : You can call or email me anytime between when a bill is drafted, when a bill is up for committee vote, and when a bill is up for a full senate vote.
+Giving testimony on a bill pending before a committee : Personal stories are powerful and can help a lot during a bill hearing.
 You can write a paragraph or a full letter and then email it to the full committee and CC me if you’re in my district.
 Committees will also take in-person testimony on bills.
 If you want more information about the in-person testimony process, contact me.
-- Doing a deeper dive on a statewide issue: Your ideas and feedback on new state initiatives and funding needs could all potentially make its way into a state bill or budget request.
+Doing a deeper dive on a statewide issue : Your ideas and feedback on new state initiatives and funding needs could all potentially make its way into a state bill or budget request.
 Keep in mind the deadline for us to submit bills is mid-February each year.
-- Coming to a Town Hall: My town halls include updates on the major legislative issues, and it’s a chance to talk about issues in-depth.
+Coming to a Town Hall: My town halls include updates on the major legislative issues, and it’s a chance to talk about issues in-depth.
 I send out notices in my newsletter.
-If you can’t make it or have anything you want to send me right away, please send it to
-Sen-Gu@rilegislature.gov.
-Sign up for newsletter
-Please sign up here to receive email newsletter updates from Senator Gu.
-You may cancel or unsubscribe at any time.
-*indicates required field.
-- Phone +(401) 388-0696
-- Mail Us Sen-Gu@rilegislature.gov
-- Address PO Box 116, Charlestown, RI, 02813
+If you can’t make it or have anything you want to send me right away, please send it to Sen-Gu@rilegislature.gov .
+Sign up for newsletter Please sign up here to receive email newsletter updates from Senator Gu.
+You may cancel or unsubscribe at any time. * indicates required field.
+Please enable JavaScript in your browser to complete this form.
+Name * First Last Email * Submit Phone +(401) 388-0696 Mail Us Sen-Gu@rilegislature.gov Address PO Box 116, Charlestown, RI, 02813 2025 December 2025: Why Hard Work Matters November 2025: Rail Listening Session on Dec 10th October 2025: Food Drive & Rail Survey September 2025 Newsletter & CRMC Public Hearing Alert July 2025: Town Hall Recap & Westerly Rail Action Alert June 2025: RI's 2025 Legislative Session in Review May 2025: Last Several Weeks of Session April 2025: Responding to Federal Cuts March 2025: Fundraiser on Wed April 9th February 2025: & Scams / Fraud Town Hall on March 17th January 2025: Starting the 2025 Session 2024 December 2024 : Happy Holidays!
+November 2024 : Asking For Your Vote October 2024: Important Research Before You Vote!
+September 2024: How to Get Involved July 2024: How a Bill Becomes a Law June 2024 Updates: The End of Another Legislative Year May 2024 Updates & Disaster Relief Applications April 29th Town Hall & May 7th Bond Referendum April 2024 Updates & Fundraiser March 2024 Updates February 2024 Updates & Climate Resiliency Forum 2023 December 2023 Updates & Housing Forum November 2023 Updates October 2023 Updates & Commuter Rail Forum September 2023 Updates & Mental Health Forum August 2023 Updates & Education and Workforce Development Forum June 2023 End of Session Updates Mid-May 2023 Updates Mid-April 2023 Updates Mid-March 2023 Updates February 2023 Updates January 2023 Updates First Day on the Job and Priorities Paid for by Friends of Victoria Gu Connect With Us Sen-Gu@rilegislature.gov (401) 388-0696 Westerly, Charlestown, South Kingstown Harnold Theme Developed by Ir-Tech

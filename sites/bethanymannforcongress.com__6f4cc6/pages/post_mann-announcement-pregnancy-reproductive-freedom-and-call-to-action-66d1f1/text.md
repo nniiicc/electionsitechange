@@ -1,5 +1,5 @@
-September 7, 2022
-The universe unfolds as it should, and it brings blessings and responsibilities at pivotal times.
+Skip to content MISSOURI’S 3RD DISTRICT · DEMOCRAT FOR CONGRESS Our future is worth showing up for.
+Join us ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Menu ☰ Meet Bethany The issues News & events Get involved Donate ↗ Home / CAMPAIGN NEWS Mann Announcement - Pregnancy, Reproductive Freedom, and Call to Action September 7, 2022 The universe unfolds as it should, and it brings blessings and responsibilities at pivotal times.
 The Mann Family will welcome Baby Boy #2 early next year.
 We expect him to arrive February 4th.
 I’m tremendously excited to meet him.
@@ -8,8 +8,7 @@ I am so thankful for the love and happiness that our kids bring into our lives.
 Meeting my husband made all of my dreams come true.
 I am grateful for these gifts, and our blessings.
 I found out that I was pregnant the night before the Dobb’s decision that immediately triggered Missouri’s extreme anti-abortion laws, several months after a heartbreaking and traumatic miscarriage.
-I almost needed a medical abortion or a D&C to stop the bleeding and save my life
-Now, if something goes sideways in my pregnancy, I might face criminal charges just to come home safely to my family, including my infant son.
+I almost needed a medical abortion or a D&C to stop the bleeding and save my life Now, if something goes sideways in my pregnancy, I might face criminal charges just to come home safely to my family, including my infant son.
 It might cost me my freedom to save my life and protect my family.
 It’s not a choice.
 It’s my reality.
@@ -23,3 +22,8 @@ We must demand change, and embody action.
 I share our story of heartbreak and hope, because I believe that it makes a difference and can bring about positive action.
 Sharing our stories reclaims our power and creates incredibly opportunities to change things for the better.
 I hope that you will continue to push past adversity and heartbreak also, so that we can all build a society that nurtures and heals together.
+All campaign news → LET’S BUILD THIS TOGETHER Missouri is worth the work.
+Help power a campaign rooted in our communities.
+Support Bethany ↗ BETHANY MANN FOR CONGRESS ★ MISSOURI Bringing Missourians together.
+Facebook ↗ Instagram ↗ TikTok ↗ X ↗ Explore Meet Bethany The issues Endorsements News & events Take part Volunteer Donate ↗ Campaign newsletter ↗ Contact the campaign Mail contributions Bethany Mann for Congress P.O.
+Box 12 Wentzville, MO 63385 © # Bethany Mann for Congress Site designed by Ladybug Campaigns™ Paid for by Bethany Mann for Congress Privacy policy ↗ Terms & conditions ↗

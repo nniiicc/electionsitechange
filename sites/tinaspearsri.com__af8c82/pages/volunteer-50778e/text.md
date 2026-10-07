@@ -1,11 +1,12 @@
-top of page
-TINA SPEARS FOR RI
-District 36 State Representative
-82 Hillside Drive, Charlestown, RI 02813
-Block Island.
+top of page DONATE SUBSCRIBE Priorities Events About Volunteer Contact Ways to Help Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Social Media Blitz Host Fundraiser First name * Last name * Email * Phone Zip code Message Submit Yes, add me to your email list First name * Last name * Email * Submit TINA SPEARS FOR RI District 36 State Representative 82 Hillside Drive, Charlestown, RI 02813 Block Island.
 Charlestown.
 South Kingstown.
-Westerly
-Powered and secured by Wix
-bottom of page
-District 36 State Representative
+Westerly ​ ​ ​ © # by Tina Spears for RI.
+Powered and secured by Wix I consent to receive donation asks, voter contact, and informational messages from Tina Spears for RI.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text START to opt in.
+Text HELP for help.
+Read our disclaimer here .
+Phone Submit bottom of page

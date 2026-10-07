@@ -1,7 +1,9 @@
 {
  "description": "Use the above links to select where you want to donate.",
  "final_url": "https://friendsofamata.com/donations/",
- "paid_for_by": null,
+ "fingerprint": "b215469fb0c96bdd86c6c81e76948c3ecd56f6d0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donations - Friends",
  "years_mentioned": []
 }

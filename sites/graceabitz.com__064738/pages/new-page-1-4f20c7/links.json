@@ -1,16 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61568978935410",
-"https://graceabitz.com/",
-"https://graceabitz.com/assembly",
-"https://graceabitz.com/bio",
-"https://graceabitz.com/blog",
-"https://graceabitz.com/cart",
-"https://graceabitz.com/new-page-1",
-"https://myvote.wi.gov/en-us",
-"https://myvote.wi.gov/en-us/Find-My-Polling-Place",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://myvote.wi.gov/en-us/Update-My-Name-or-Address",
-"https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail",
-"https://secure.actblue.com/donate/grace-abitz-1",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.graceabitz.com/cart"
+},
+{
+"text": "Assembly 56",
+"href": "https://www.graceabitz.com/assembly"
+},
+{
+"text": "Bio",
+"href": "https://www.graceabitz.com/bio"
+},
+{
+"text": "Blog",
+"href": "https://www.graceabitz.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.graceabitz.com/"
+},
+{
+"text": "Donate with ActBlue!",
+"href": "https://secure.actblue.com/donate/grace-abitz-1"
+},
+{
+"text": "Next Statewide Election - General Nov 3",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.graceabitz.com/new-page-1"
+},
+{
+"text": "Register to vote",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Thank you, District 56 Voters! General Election - November 3",
+"href": "https://www.graceabitz.com/"
+},
+{
+"text": "Update my Name or Address",
+"href": "https://myvote.wi.gov/en-us/Update-My-Name-or-Address"
+},
+{
+"text": "Vote Absentee by Mail",
+"href": "https://myvote.wi.gov/en-us/Vote-Absentee-By-Mail"
+},
+{
+"text": "Where do I vote?",
+"href": "https://myvote.wi.gov/en-us/Find-My-Polling-Place"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61568978935410"
+}
 ]

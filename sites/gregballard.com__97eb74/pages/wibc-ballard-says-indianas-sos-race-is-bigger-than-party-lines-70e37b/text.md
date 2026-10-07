@@ -1,5 +1,4 @@
-By Producer Karl
-Greg Ballard isn’t running for Secretary of State to win over Republicans.
+About Meet Greg Ballard Podcast Meet Greg News & Updates Greg’s Plan Voters Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission Support Donate Get a Yard Sign Buy a Shirt Volunteer CONTRIBUTE Meet Greg Ballard Greg’s Plan Voter’s Guide Indiana Election Integrity Act Hands-on Clerk Training Nonpartisan Recount Commission News and Updates Support Donate Get a Yard Sign Buy a Shirt Volunteer Subscribe Contribute Aug 20, 2026 WIBC: Ballard Says Indiana’s SOS Race Is Bigger Than Party Lines By Producer Karl Greg Ballard isn’t running for Secretary of State to win over Republicans.
 He’s running because he thinks both parties have rigged the game against everyone else — and he told Tony Katz exactly that.
 “I don’t think the average person in America is represented anymore,” Ballard said, laying out the case for why he’s launching his campaign under a brand-new banner, the Lincoln Party, rather than as a Republican or a straight independent.
 Ballard, the two-term former Republican mayor of Indianapolis and a 23-year Marine veteran of the Gulf War, isn’t shy about why he thinks the office needs a shake-up by highlighting the turmoil surrounding current Secretary of State Diego Morales — the travel expenses, and the controversial handling of the redistricting commission.
@@ -17,5 +16,5 @@ Ballard’s answer was blunt — state law forces the move.
 Getting on the ballot as an independent required 37,000 signatures and cost over $700,000, a hurdle he says was “purposefully” built by both parties to protect their own turf.
 Forming a party, he says, is simply the only legal vehicle to keep giving independents a path forward.
 Ballard also dropped a number most political operatives don’t advertise: 244 independents have run for office across Indiana in the last two cycles — and more than half of them won.
-Ballard joins Democrat Beau Bayh, Republican Max Engling and Libertarian Lauri Shillings in the race, with debates still to come before Hoosiers head to the polls.
-This article originally appeared on WIBC
+Ballard joins Democrat Beau Bayh , Republican Max Engling and Libertarian Lauri Shillings in the race, with debates still to come before Hoosiers head to the polls.
+This article originally appeared on WIBC ABOUT Volunteer Donate info@gregballard.com Follow Follow Follow Follow PAID FOR BY GREG FOR INDIANA Use of military rank, job titles and photographs in uniform does not imply endorsement by the United States Marine Corps or the Department of Defense.

@@ -1,15 +1,7 @@
-What an "A" Means, and What It Doesn't
-The NRA Political Victory Fund gave Rep.
+Home About Key Issues Events Endorsements Get Involved Voter Info Register to Vote Polling Information Contact Blog Sign Up for Newsletter What an "A" Means, and What It Doesn't Dale Helwig Published on: 31/08/2026 The NRA Political Victory Fund gave Rep.
 Dale Helwig an "A" rating for 2026.
 He explains what that grade actually measures, why a rating isn't an endorsement, and how he votes on the Second Amendment.
-Published on: 31/08/2026
-District 1Dale HelwigNRA ratingNRANRA Political Victory FundSecond Amendment KansasKansas House District 1Cherokee CountyKansas Gun RightsOver the Cattle Guard
-Published on: 15/03/2026
-Kansas State Representative Dale Helwig shares a Week 9 legislative update covering Capitol visitors, USD 506’s CTE home-building program, PBM reform (SB 360), school cellphone policy (HB 2299), and welfare reform discussions on SB 363.
-Kansas legislature updatekansas legislative newsDale Helwig KansasKansas House of Representatives updateKansas Senate Bill 360 PBM reformKansas cellphone policy schoolsKansas welfare reformKansas SNAP policy discussionCoffeyville Community College Career Education
-Published on: 30/01/2026
-A recap of Week 3 in Topeka, including the passage of SB 244, Cherokee County visitors at the Capitol, agricultural theft protections, and welfare reform accountability efforts.
-Kansas LegislatureDale HelwigKansas House of RepresentativesDistrict 1 KansasTopeka legislative updateSB 244 KansasKansas agriculture legislationWelfare reform KansasPublic safety legislationCherokee County Kansas
-Published on: 12/01/2026
-As the 2026 Kansas Legislative Session begins, learn what’s ahead on SB 180, judicial accountability, redistricting, and key issues facing Kansans.
-Kansas Legislature 2026Kansas Supreme CourtSB 180 KansasWomen's Bill of Rights KansasKansas Constitutional amendmentJudicial accountability KansasKansas redistrictingkansas state representativeTopeka legislative sessionKansas politics Kansas court reformkansas law and policy
+District 1 Dale Helwig NRA rating NRA NRA Political Victory Fund Second Amendment Kansas Kansas House District 1 Cherokee County Kansas Gun Rights Over the Cattle Guard Read more Week 9 Update: CTE Programs, Pharmacy Reform, and School Cellphone Policy Dale Helwig Published on: 15/03/2026 Kansas State Representative Dale Helwig shares a Week 9 legislative update covering Capitol visitors, USD 506’s CTE home-building program, PBM reform (SB 360), school cellphone policy (HB 2299), and welfare reform discussions on SB 363.
+Kansas legislature update kansas legislative news Dale Helwig Kansas Kansas House of Representatives update Kansas Senate Bill 360 PBM reform Kansas cellphone policy schools Kansas welfare reform Kansas SNAP policy discussion Coffeyville Community College Career Education Read more Week 3 at the Capitol: Common Sense, Accountability, and Cherokee County Connections Dale Helwig Published on: 30/01/2026 A recap of Week 3 in Topeka, including the passage of SB 244, Cherokee County visitors at the Capitol, agricultural theft protections, and welfare reform accountability efforts.
+Kansas Legislature Dale Helwig Kansas House of Representatives District 1 Kansas Topeka legislative update SB 244 Kansas Kansas agriculture legislation Welfare reform Kansas Public safety legislation Cherokee County Kansas Read more Preparing for the 2026 Kansas Legislative Session: Accountability, Courts, and the Rule of Law Dale Helwig Published on: 12/01/2026 As the 2026 Kansas Legislative Session begins, learn what’s ahead on SB 180, judicial accountability, redistricting, and key issues facing Kansans.
+Kansas Legislature 2026 Kansas Supreme Court SB 180 Kansas Women's Bill of Rights Kansas Kansas Constitutional amendment Judicial accountability Kansas Kansas redistricting kansas state representative Topeka legislative session Kansas politics Kansas court reform kansas law and policy Read more Previous 1 2 Next Terms & Conditions/Privacy Policy Email: [email protected] Paid for by Dale Helwig for Kansas, Treasurer Clark Hall

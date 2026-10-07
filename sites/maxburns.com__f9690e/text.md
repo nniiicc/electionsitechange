@@ -1,2 +1,3 @@
-Senator Max Burns of State Senate District 23: “As a former Congressman, educator, business leader, and farmer, I'll ensure our values and priorities are not ignored.
-I'm equipped with the knowledge and relationships it will take to best serve our district and state."
+Home Meet Max News Issues Contribute Signs Newsletter Press Contact More Home Meet Max News Issues Contribute Signs Newsletter Press Contact Home Meet Max News Issues Contribute Signs Newsletter Press Contact Connect With Us on Social Media A PROVEN CONSERVATIVE TO GET RESULTS FOR GEORGIA Senator Max Burns of State Senate District 23: “As a former Congressman, educator, business leader, and farmer, I'll ensure our values and priorities are not ignored.
+I'm equipped with the knowledge and relationships it will take to best serve our district and state." Copyright © # Max Burns for State Senate - All Rights Reserved.
+Powered by Archived News Privacy Statement

@@ -1,21 +1,98 @@
 [
-"https://bsky.app/profile/caitfornewyork.bsky.social",
-"https://caitconley.com/",
-"https://caitconley.com/endorsements",
-"https://caitconley.com/events",
-"https://caitconley.com/media",
-"https://caitconley.com/national-dems-embrace-conleys-challenge-to-gop-rep-lawler",
-"https://caitconley.com/national-dems-embrace-conleys-challenge-to-gop-rep-lawler-2",
-"https://caitconley.com/news",
-"https://caitconley.com/policy",
-"https://caitconley.com/privacy",
-"https://caitconley.com/pro-veterans-pac-launches-1m-ad-spend-to-boost-conley-in-ny-17",
-"https://caitconley.myshopify.com/",
-"https://facebook.com/profile.php?id=61574763653064",
-"https://instagram.com/caitconley",
-"https://mobilize.us/caitfornewyork",
-"https://sbdigital.com/",
-"https://secure.actblue.com/donate/conley-web",
-"https://secure.numero.ai/contribute/Cait-for-New-York",
-"https://x.com/CaitforNewYork"
+{
+"text": "Contact Us",
+"href": "mailto:info@caitconley.com"
+},
+{
+"text": "Copyright #. All rights reserved. Privacy Policy.",
+"href": "https://caitconley.com/privacy/"
+},
+{
+"text": "Donatewith ActBlue",
+"href": "https://secure.actblue.com/donate/conley-web"
+},
+{
+"text": "Donatewith Numero",
+"href": "https://secure.numero.ai/contribute/Cait-for-New-York"
+},
+{
+"text": "Endorsements",
+"href": "https://caitconley.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://caitconley.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61574763653064"
+},
+{
+"text": "In the News",
+"href": "https://caitconley.com/news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/caitconley/"
+},
+{
+"text": "Media",
+"href": "https://caitconley.com/media/"
+},
+{
+"text": "Meet Cait",
+"href": "https://caitconley.com/#bio"
+},
+{
+"text": "National Dems embrace Conley’s challenge to GOP Rep. Lawler",
+"href": "https://caitconley.com/national-dems-embrace-conleys-challenge-to-gop-rep-lawler-2/"
+},
+{
+"text": "National Dems embrace Conley’s challenge to GOP Rep. Lawler",
+"href": "https://caitconley.com/national-dems-embrace-conleys-challenge-to-gop-rep-lawler/"
+},
+{
+"text": "Policy",
+"href": "https://caitconley.com/policy/"
+},
+{
+"text": "Priorities",
+"href": "https://caitconley.com/#priorites"
+},
+{
+"text": "Privacy Policy",
+"href": "https://caitconley.com/privacy/"
+},
+{
+"text": "Pro-veterans PAC launches $1M ad spend to boost Conley in NY-17",
+"href": "https://caitconley.com/pro-veterans-pac-launches-1m-ad-spend-to-boost-conley-in-ny-17/"
+},
+{
+"text": "Store",
+"href": "https://caitconley.myshopify.com/"
+},
+{
+"text": "Terms & Privacy Policy.",
+"href": "https://caitconley.com/privacy/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/caitfornewyork/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/CaitforNewYork"
+},
+{
+"text": "[image]",
+"href": "https://caitconley.com"
+},
+{
+"text": "[image]",
+"href": "https://sbdigital.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/caitfornewyork.bsky.social"
+}
 ]

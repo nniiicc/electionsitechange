@@ -1,7 +1,9 @@
 {
  "description": "Admin Leads on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/AdminLeads",
- "paid_for_by": null,
+ "fingerprint": "ea17cc8dbf046c05f7915375c9240f7355c785ae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin Leads | Maxwell for Congress",
  "years_mentioned": []
 }

@@ -1,7 +1,26 @@
 {
  "description": "",
  "final_url": "https://www.rogergoodman.org/about-roger/",
- "paid_for_by": null,
- "title": "Meet Roger \u2013 Representative Roger Goodman (D) Washington State Legislature",
- "years_mentioned": []
+ "fingerprint": "dfa3bd5af9923cfdde32ec2a6f8cd5e8b1fc69b7",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Meet Roger – Representative Roger Goodman (D) Washington State Legislature",
+ "years_mentioned": [
+  "1979",
+  "1981",
+  "1983",
+  "1986",
+  "1988",
+  "1989",
+  "1993",
+  "1995",
+  "1996",
+  "1998",
+  "2000",
+  "2001",
+  "2003",
+  "2006",
+  "2007",
+  "2009"
+ ]
 }

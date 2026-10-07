@@ -1,16 +1,14 @@
-The federal H.R.1 (the One Big Beautiful Bill) that Congress enacted in 2025 cuts $1 Trillion from Medicaid in the next 10 years.
+Skip to content Rick Olson for State Senate About Rick Volunteer Lawn Sign Issues Contact Us instagram facebook youtube Donate Search… CHIP IN $20 for RICK instagram facebook youtube Donate Rick Olson for State Senate Search… About Rick Volunteer Lawn Sign Issues Contact Us Search… Protect Medicaid Without Raising Taxes or Cutting Care The federal H.R.1 (the One Big Beautiful Bill) that Congress enacted in 2025 cuts $1 Trillion from Medicaid in the next 10 years.
 That translates to $1.5 Billion less to the State of Minnesota per year.
-We have three choices:
-- Raise taxes by $1.5 billion per year.
-- Reduce the services to very low-income seniors and disabled people who are relying on these services to save the $1.5 Billion.
-- Find another way to save all or part of that $1.5 Billion.
+We have three choices: Raise taxes by $1.5 billion per year.
+Reduce the services to very low-income seniors and disabled people who are relying on these services to save the $1.5 Billion.
+Find another way to save all or part of that $1.5 Billion.
 SF 3612 sponsored by Senator John Marty in the Senate and HF 3476 sponsored by Representative Tina Liebling, in the House would save $1 Billion of that $1.5 Billion.
 With the equally divided House this year, this will likely die in this 2026 legislative session.
 But, with a strong DFL showing this November, including my winning to retain a DFL majority in the Senate, we can get this done in 2027.
 The bills are called “Patient Centered Care and Direct Payment for Medical Assistance and MinnesotaCare”.
 (Medical Assistance is what we call Medicaid for very low-income seniors and disabled people.
-MinnesotaCare is a health insurance program for other Minnesotans with low incomes.)
-Under these bills, the state would select a private Administrative Service Organization (ASO) which would adjudicate the patients’ claims submitted by the providers.
+MinnesotaCare is a health insurance program for other Minnesotans with low incomes.) Under these bills, the state would select a private Administrative Service Organization (ASO) which would adjudicate the patients’ claims submitted by the providers.
 The ASO would pay medical providers (clinics, doctors, hospitals) directly for the care they deliver to patients.
 This eliminates the use of the current health plans as middlemen and their 15% administrative costs and insurance company profits.
 Current estimates are that this would save about 13% of the total cost of the services, netting the $1 Billion.
@@ -34,3 +32,5 @@ Q: Will this help reduce fraud?
 Probably, as the greater the complexity of a system or the number of entities involved, the greater the opportunities for fraud.
 This is simpler, more transparent and more accessible for AI fraud prevention programs to sniff out potential problems.
 By supporting me, you will help provide not only one vote in the Senate but also help retain the DFL majority in the MN State Senate, which is necessary to make this a reality.
+Learn More About Rick Olson Volunteer Sign Up About Rick Voting Locations Volunteer Lawn Sign Privacy Policy Contact Us instagram facebook youtube Prepared and paid for by Olson Senate Committee, P.O.
+Box 15, Prior Lake, MN 55372 © Olson Senate Committee

@@ -1,16 +1,86 @@
 [
-"https://eepurl.com/izn_Jw",
-"https://facebook.com/profile.php?id=100091736786812",
-"https://instagram.com/lesliejones4mo",
-"https://secure.actblue.com/donate/leslie-jones-1",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://twitter.com/lesliejones4mo",
-"https://upballot.com/",
-"https://upballot.com/leslie-jones",
-"https://upballot.com/leslie-jones/about",
-"https://upballot.com/leslie-jones/events",
-"https://upballot.com/leslie-jones/get-involved",
-"https://upballot.com/leslie-jones/issues",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Leslie",
+"href": "https://www.upballot.com/leslie-jones/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/leslie-jones-1"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/leslie-jones/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/leslie-jones/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/leslie-jones"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/leslie-jones/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Reach Out",
+"href": "https://eepurl.com/izn_Jw"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "View Events",
+"href": "https://www.upballot.com/leslie-jones/events/"
+},
+{
+"text": "Visit Site",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "[image: Leslie Jones Logo]",
+"href": "https://www.upballot.com/leslie-jones/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lesliejones4mo"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100091736786812"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lesliejones4mo/"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=100091736786812"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/lesliejones4mo/"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://twitter.com/lesliejones4mo"
+},
+{
+"text": "info@lesliejones4mo.com",
+"href": "mailto:info@lesliejones4mo.com"
+},
+{
+"text": "tel:417-413-3774",
+"href": "tel:417-413-3774"
+}
 ]

@@ -1,13 +1,78 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://moyerforsd48.com/",
-"https://moyerforsd48.com/about",
-"https://moyerforsd48.com/accessibility-statement",
-"https://moyerforsd48.com/blog",
-"https://moyerforsd48.com/post/moyer-s-vision-for-a-better-sd48-community",
-"https://moyerforsd48.com/post/vote-moyer-a-fresh-future-for-sd48",
-"https://moyerforsd48.com/privacy-policy",
-"https://moyerforsd48.com/profile/wmoyer18686/profile",
-"https://x.com/wix"
+{
+"text": "About",
+"href": "https://www.moyerforsd48.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.moyerforsd48.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.moyerforsd48.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.moyerforsd48.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Home",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Moyer's Vision for a Better SD48 Community",
+"href": "https://www.moyerforsd48.com/post/moyer-s-vision-for-a-better-sd48-community"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.moyerforsd48.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.moyerforsd48.com/blog"
+},
+{
+"text": "Vote Moyer: A Fresh Future for SD48",
+"href": "https://www.moyerforsd48.com/post/vote-moyer-a-fresh-future-for-sd48"
+},
+{
+"text": "Wayne Moyer",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "Wayne Moyer",
+"href": "https://www.moyerforsd48.com/profile/wmoyer18686/profile"
+},
+{
+"text": "Wayne Moyer for SD48",
+"href": "https://www.moyerforsd48.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Moyer's Vision for a Better SD48 Community]",
+"href": "https://www.moyerforsd48.com/post/moyer-s-vision-for-a-better-sd48-community"
+},
+{
+"text": "[image: Vote Moyer: A Fresh Future for SD48]",
+"href": "https://www.moyerforsd48.com/post/vote-moyer-a-fresh-future-for-sd48"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/wix"
+},
+{
+"text": "info@mysite.com",
+"href": "mailto:info@mysite.com"
+}
 ]

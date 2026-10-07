@@ -1,5 +1,4 @@
-Meet Kathy
-Rep.
+0 Skip to Content About Priorities Legislation District News Endorsements Vote Volunteer Donate Open Menu Close Menu About Priorities Legislation District News Endorsements Vote Volunteer Donate Open Menu Close Menu About Priorities Legislation District News Endorsements Vote Volunteer Donate Meet Kathy Rep.
 Kathy LaNatra is currently serving her fourth term as State Representative of the 12th Plymouth District.
 It has been the honor of her life to work on behalf of her constituents to find resources, common sense solutions, and legislative pathways that will improve lives.
 She serves as Chair of the House Committee on Federal Funding, Policy and Accountability.
@@ -35,3 +34,4 @@ Rep.
 LaNatra can be reached directly at Kathleen.Lanatra@mahouse.gov.
 To contact her Staff Director, Christopher Jean, please call 617-722-2370 or email Christopher.Jean@mahouse.gov.
 Her District Office is located at 10 Cordage Park Circle, Suite 229 in Plymouth, MA.
+About Priorities Legislation Volunteer Donate Paid for by the LaNatra Committee

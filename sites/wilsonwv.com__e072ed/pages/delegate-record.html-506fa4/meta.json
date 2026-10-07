@@ -1,10 +1,14 @@
 {
  "description": "Search S. Marshall Wilson's official West Virginia House bill sponsorship record from 2017 through 2020.",
  "final_url": "https://wilsonwv.com/delegate-record.html",
- "paid_for_by": "Paid for by Wilson for US Senate \u00b7 P",
+ "fingerprint": "bbee5f88ac1ca20a4fac5ca2b46435c458e63998",
+ "format": 3,
+ "paid_for_by": "Paid for by Wilson for US Senate · P",
  "title": "Delegate Record | S. Marshall Wilson",
  "years_mentioned": [
   "2017",
+  "2018",
+  "2019",
   "2020"
  ]
 }

@@ -1,10 +1,54 @@
 [
-"https://facebook.com/voteryanweldon",
-"https://instagram.com/weldony1",
-"https://secure.winred.com/vote-ryan-weldon/donate-today",
-"https://voteryanweldon.com/",
-"https://voteryanweldon.com/about",
-"https://voteryanweldon.com/accomplishments",
-"https://voteryanweldon.com/contact",
-"https://voteryanweldon.com/voting-info"
+{
+"text": "About",
+"href": "https://www.voteryanweldon.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.voteryanweldon.com/accomplishments"
+},
+{
+"text": "Contact",
+"href": "https://www.voteryanweldon.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vote-ryan-weldon/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/vote-ryan-weldon/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteryanweldon"
+},
+{
+"text": "Home",
+"href": "https://www.voteryanweldon.com"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/weldony1"
+},
+{
+"text": "Join Our Movement",
+"href": "https://www.voteryanweldon.com/contact"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteryanweldon.com/about"
+},
+{
+"text": "More About Ryan",
+"href": "https://www.voteryanweldon.com/about"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteryanweldon.com/voting-info"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteryanweldon.com"
+}
 ]

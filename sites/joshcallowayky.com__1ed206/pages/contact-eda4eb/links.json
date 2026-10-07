@@ -1,11 +1,38 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/profile.php?id=61555428035596",
-"https://joshcallowayky.com/",
-"https://joshcallowayky.com/contact",
-"https://joshcallowayky.com/contribute",
-"https://joshcallowayky.com/home",
-"https://joshcallowayky.com/meet_josh",
-"https://joshcallowayky.com/volunteer",
-"https://twitter.com/callowayforky?s=21"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://joshcallowayky.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://joshcallowayky.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://joshcallowayky.com/home"
+},
+{
+"text": "Meet Josh",
+"href": "https://joshcallowayky.com/meet_josh"
+},
+{
+"text": "Volunteer",
+"href": "https://joshcallowayky.com/volunteer"
+},
+{
+"text": "[image: Josh Calloway]",
+"href": "https://joshcallowayky.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/callowayforky?s=21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555428035596"
+}
 ]

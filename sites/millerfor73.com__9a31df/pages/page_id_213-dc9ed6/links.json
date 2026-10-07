@@ -1,14 +1,58 @@
 [
-"http://wordpress.org/",
-"https://electallenmiller/",
-"https://facebook.com/profile.php?id=61588133763306",
-"https://indianaruralsummit.org/about",
-"https://instagram.com/electallenmiller",
-"https://millerfor73.com/",
-"https://millerfor73.com/about",
-"https://millerfor73.com/issues",
-"https://millerfor73.com/volunteer",
-"https://millerfor73.com/voter-registration-information",
-"https://pexels.com/photo/aerial-view-of-green-agricultural-fields-and-farmland-32370506",
-"https://secure.actblue.com/donate/allen-miller-in-73"
+{
+"text": "About Me",
+"href": "https://millerfor73.com/about/"
+},
+{
+"text": "Allen Miller for Indiana House District 73",
+"href": "https://millerfor73.com"
+},
+{
+"text": "Allen on the Issues",
+"href": "https://millerfor73.com/issues/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allen-miller-in-73"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588133763306"
+},
+{
+"text": "Indiana Rural Summit",
+"href": "https://indianaruralsummit.org/about"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electallenmiller/"
+},
+{
+"text": "Issues",
+"href": "https://millerfor73.com/issues"
+},
+{
+"text": "Join our movement!",
+"href": "https://millerfor73.com/volunteer/"
+},
+{
+"text": "Pexels.com",
+"href": "https://www.pexels.com/photo/aerial-view-of-green-agricultural-fields-and-farmland-32370506/"
+},
+{
+"text": "Threads",
+"href": "https://electallenmiller"
+},
+{
+"text": "Voter Registration Information",
+"href": "https://millerfor73.com/voter-registration-information/"
+},
+{
+"text": "WordPress",
+"href": "http://wordpress.org"
+},
+{
+"text": "electallenmiller@proton.me",
+"href": "mailto:"
+}
 ]

@@ -1,11 +1,46 @@
 [
-"https://facebook.com/votescottfranklin",
-"https://secure.winred.com/scott-franklin-for-congress/donate",
-"https://twitter.com/ScottFranklinFL",
-"https://votescottfranklin.com/",
-"https://votescottfranklin.com/about",
-"https://votescottfranklin.com/contact",
-"https://votescottfranklin.com/services",
-"https://votescottfranklin.com/team",
-"https://youtube.com/channel/UCyIHU6wbzYEp-PY_v9bn2kQ"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/scott-franklin-for-congress/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votescottfranklin.com/team"
+},
+{
+"text": "Home",
+"href": "https://www.votescottfranklin.com/"
+},
+{
+"text": "Meet Scott",
+"href": "https://www.votescottfranklin.com/about"
+},
+{
+"text": "PRESS KIT",
+"href": "https://www.votescottfranklin.com/contact"
+},
+{
+"text": "Priorities",
+"href": "https://www.votescottfranklin.com/services"
+},
+{
+"text": "[image]",
+"href": "https://www.votescottfranklin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votescottfranklin/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ScottFranklinFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCyIHU6wbzYEp-PY_v9bn2kQ"
+},
+{
+"text": "volunteer@votescottfranklin.com",
+"href": "mailto:volunteer@votescottfranklin.com"
+}
 ]

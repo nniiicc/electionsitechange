@@ -1,6 +1,22 @@
 [
-"http://instagram.com/Dais77NY",
-"https://facebook.com/profile.php?id=61555631893098",
-"https://landondais.com/cart",
-"https://landondais.com/privacy"
+{
+"text": "0",
+"href": "https://www.landondais.com/cart"
+},
+{
+"text": "Landon@LandonDais.com",
+"href": "mailto:Landon@LandonDais.com"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/Dais77NY"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555631893098"
+},
+{
+"text": "https://www.landondais.com/privacy",
+"href": "https://www.landondais.com/privacy"
+}
 ]

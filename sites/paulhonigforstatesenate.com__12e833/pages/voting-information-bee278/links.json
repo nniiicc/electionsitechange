@@ -1,15 +1,62 @@
 [
-"https://cart/",
-"https://facebook.com/SenatorPaulHonig",
-"https://instagram.com/senatorpaulhonig",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://paulhonigforstatesenate.com/endorsements",
-"https://paulhonigforstatesenate.com/home",
-"https://paulhonigforstatesenate.com/issues",
-"https://paulhonigforstatesenate.com/photo-gallery",
-"https://paulhonigforstatesenate.com/request-a-yard-sign",
-"https://paulhonigforstatesenate.com/volunteer",
-"https://paulhonigforstatesenate.com/voting-information",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://voterregistration.ct.gov/OLVR/welcome.do"
+{
+"text": "Confirm Your Voter Registration",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "Endorsements",
+"href": "https://paulhonigforstatesenate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://paulhonigforstatesenate.com/home"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://paulhonigforstatesenate.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://paulhonigforstatesenate.com/photo-gallery"
+},
+{
+"text": "Register",
+"href": "https://voterregistration.ct.gov/OLVR/welcome.do"
+},
+{
+"text": "Request a No Excuse Absentee Ballot",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://paulhonigforstatesenate.com/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://paulhonigforstatesenate.com/volunteer"
+},
+{
+"text": "Voting Information",
+"href": "https://paulhonigforstatesenate.com/voting-information"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorPaulHonig"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senatorpaulhonig/"
+},
+{
+"text": "[no text]",
+"href": "mailto:paul@paulhonigforstatesenate.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+},
+{
+"text": "paul@paulhonigforstatesenate",
+"href": "mailto:paul@paulhonigforstatesenate.com"
+}
 ]

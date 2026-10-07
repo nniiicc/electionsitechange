@@ -1,14 +1,50 @@
 [
-"https://davidsolana.com/data_centers.html",
-"https://davidsolana.com/debt_taxes.html",
-"https://davidsolana.com/education.html",
-"https://davidsolana.com/energy.html",
-"https://davidsolana.com/foreign_policy.html",
-"https://davidsolana.com/healthcare.html",
-"https://davidsolana.com/home_rule.html",
-"https://davidsolana.com/human_rights.html",
-"https://davidsolana.com/index.html",
-"https://davidsolana.com/privacy.html",
-"https://davidsolana.com/water.html",
-"https://davidsolana.com/workers.html"
+{
+"text": "Contribute",
+"href": "https://www.davidsolana.com/index.html#contribute"
+},
+{
+"text": "[image: Business and Workers] 10BUSINESS & WORKERS",
+"href": "https://www.davidsolana.com/workers.html"
+},
+{
+"text": "[image: Education] 03EDUCATION",
+"href": "https://www.davidsolana.com/education.html"
+},
+{
+"text": "[image: Environment] 08ENVIRONMENT & ENERGY",
+"href": "https://www.davidsolana.com/energy.html"
+},
+{
+"text": "[image: Foreign Policy] 09FOREIGN POLICY",
+"href": "https://www.davidsolana.com/foreign_policy.html"
+},
+{
+"text": "[image: Health Care] 04HEALTH CARE",
+"href": "https://www.davidsolana.com/healthcare.html"
+},
+{
+"text": "[image: Home Rule] 01HOME RULE & STATEHOOD",
+"href": "https://www.davidsolana.com/home_rule.html"
+},
+{
+"text": "[image: Human Rights] 11HUMAN RIGHTS",
+"href": "https://www.davidsolana.com/human_rights.html"
+},
+{
+"text": "[image: Infrastructure] 06INFRASTRUCTURE & WATER",
+"href": "https://www.davidsolana.com/water.html"
+},
+{
+"text": "[image: National Debt] 02NATIONAL DEBT & TAXES",
+"href": "https://www.davidsolana.com/debt_taxes.html"
+},
+{
+"text": "[image: Privacy] 05PRIVACY & CONSUMER RIGHTS",
+"href": "https://www.davidsolana.com/privacy.html"
+},
+{
+"text": "[image: The Future] 07THE FUTURE, AI & DATA",
+"href": "https://www.davidsolana.com/data_centers.html"
+}
 ]

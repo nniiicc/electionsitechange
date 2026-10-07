@@ -1,7 +1,11 @@
 {
  "description": "VoteDaveCalder's campaign",
  "final_url": "https://www.votedavecalder.com/news",
- "paid_for_by": "Paid For By Dave Calder for Utah",
- "title": "News \u2014 VoteDaveCalder",
- "years_mentioned": []
+ "fingerprint": "0f5f8e5a1fafaf7d3bee3e9b7a853bf0a94a8e29",
+ "format": 3,
+ "paid_for_by": "Paid For By Dave Calder for Utah You need to enable JavaScript to run this app",
+ "title": "News — VoteDaveCalder",
+ "years_mentioned": [
+  "2026"
+ ]
 }

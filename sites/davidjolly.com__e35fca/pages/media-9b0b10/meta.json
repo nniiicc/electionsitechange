@@ -1,7 +1,11 @@
 {
  "description": "Watch interviews, read news coverage, and explore media appearances from David Jolly's gubernatorial campaign. See the conversations shaping the movement.",
  "final_url": "https://davidjolly.com/media/",
- "paid_for_by": null,
- "title": "Media: News, Interviews, and Press Coverage \u2013 David Jolly",
- "years_mentioned": []
+ "fingerprint": "87b6eafd9d1381de1dfe047e6e0f8bfb6ffd26bd",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Media: News, Interviews, and Press Coverage – David Jolly",
+ "years_mentioned": [
+  "2026"
+ ]
 }

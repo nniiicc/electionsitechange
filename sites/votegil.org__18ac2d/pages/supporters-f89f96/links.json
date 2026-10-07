@@ -1,8 +1,58 @@
 [
-"https://facebook.com/votegil.org",
-"https://instagram.com/votegil",
-"https://votegil.org/",
-"https://votegil.org/about",
-"https://votegil.org/issues",
-"https://votegil.org/supporters"
+{
+"text": "About Gil",
+"href": "https://www.votegil.org/about"
+},
+{
+"text": "Ballot Guide",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "Donate",
+"href": "https://www.votegil.org/#donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votegil.org/#get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votegil.org/"
+},
+{
+"text": "Send us your story →",
+"href": "mailto:gilaf@protonmail.com?subject=I+Support+Gil"
+},
+{
+"text": "Share Your Story",
+"href": "mailto:gilaf@protonmail.com?subject=Why+I+Support+Gil"
+},
+{
+"text": "Share the Ballot Guide",
+"href": "https://www.votegil.org/issues"
+},
+{
+"text": "Supporters",
+"href": "https://www.votegil.org/supporters"
+},
+{
+"text": "[image: Vote Gil logo]VOTE GIL",
+"href": "https://www.votegil.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votegil.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votegil/"
+},
+{
+"text": "gilaf@protonmail.com",
+"href": "mailto:gilaf@protonmail.com"
+},
+{
+"text": "www.votegil.org",
+"href": "https://www.votegil.org"
+}
 ]

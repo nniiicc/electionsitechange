@@ -1,15 +1,12 @@
-Boston Globe: Trump and the GOP are attacking Black history.
+English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate Boston Globe: Trump and the GOP are attacking Black history.
 So, why has there been no movement to repeal Juneteenth?
-June 19th, 2025
-Four years ago this week, the US government created its first new federal holiday in nearly four decades.
+June 19th, 2025 Four years ago this week, the US government created its first new federal holiday in nearly four decades.
 Juneteenth National Independence Day, commemorating the emancipation of enslaved Black Americans, was introduced and passed in the Senate on June 15, 2021, passed in the House on June 16, and was signed into law by President Biden on June 17.
 Given the pace of that action, it would seem easy enough to reverse.
 But despite sweeping efforts by the Trump administration and Republican-led Congress to curtail the teaching and public recognition of Black history, there has been no movement to repeal Juneteenth.
-The holiday has been conspicuously absent from the otherwise aggressive campaign to restrict how race and the legacy of slavery are acknowledged in government and public life.
-“[Juneteeth] is now, in a very brief period of time, in four years, deeply engrained in the culture of our country,” said Massachusetts Senator Ed Markey, a lead sponsor of the law, in an interview with the Globe.
+The holiday has been conspicuously absent from the otherwise aggressive campaign to restrict how race and the legacy of slavery are acknowledged in government and public life. “[Juneteeth] is now, in a very brief period of time, in four years, deeply engrained in the culture of our country,” said Massachusetts Senator Ed Markey, a lead sponsor of the law, in an interview with the Globe.
 “It would be politically impossible to reverse it.
-Black history is American history and Juneteenth is a not just a day, it is now a year-long celebration that is impossible politically for Trump or anyone of the MAGA base to build a movement to repeal that holiday.”
-There’s another straightforward explanation: it’s too popular.
+Black history is American history and Juneteenth is a not just a day, it is now a year-long celebration that is impossible politically for Trump or anyone of the MAGA base to build a movement to repeal that holiday.” There’s another straightforward explanation: it’s too popular.
 Even among Republicans.
 In the Senate, every Republican signed off to make it law.
 In the House, only 14 GOP members voted no.
@@ -39,4 +36,7 @@ In Washington, federal employees will get the day off.
 But many of the initiatives once tasked with commemorating or educating about racial history have already been stripped away.
 In this way, Juneteenth stands apart: a symbolic acknowledgment that remains firmly in place, even as the broader teaching and celebration of Black history is being curtailed.
 Whether that separation is sustainable or whether the holiday eventually draws new scrutiny remains to be seen.
-But Markey has a prediction: “Juneteenth is going to be celebrated for the rest of our nation’s history.”
+But Markey has a prediction: “Juneteenth is going to be celebrated for the rest of our nation’s history.” View Source Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Gear Up for the Campaign Jobs & Justice T-Shirt $30.00 Green New Deal Tote $30.00 Comeback T-Shirt $30.00 Green New Deal Hat $30.00 Shop Our Store Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.

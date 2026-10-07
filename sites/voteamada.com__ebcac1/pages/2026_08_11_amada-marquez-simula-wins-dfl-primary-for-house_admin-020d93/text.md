@@ -1,4 +1,4 @@
-We did it!
+Skip to content for Minnesota House 39B Menu About Issues Donate Menu About Issues Donate Amáda Márquez Simula wins DFL Primary Election for MN House August 12, 2026 August 11, 2026 by admin We did it!
 I want to extend my heartfelt thanks to the voters of House District 39B who came out for this primary.
 Whether you knocked on doors, made calls, put up a yard sign, shared our message, or simply voted, you helped make this possible.
 I am deeply grateful.
@@ -16,6 +16,11 @@ Whether you voted for me or not, you are part of this district, and I want to re
 I hope you’ll stay with us as we move toward November and continue building a stronger, more welcoming future for House District 39B.
 Thank you for believing in me and in what we can accomplish together.
 Don’t forget to vote on November 3, too!
-Amáda Márquez Simula
-Mayor of Columbia Heights
-Candidate, Minnesota House District 39B
+Amáda Márquez Simula Mayor of Columbia Heights Candidate, Minnesota House District 39B Categories Headlines Tags DFL , endorsement , House of Representatives , Minnesota Amáda Márquez Simula wins DFL Endorsement for House Making Headlines Let’s Stay in Touch!
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Read past newsletters or sign up for the mailing list.
+Email * Sign Up Show your support!
+Get a Lawn Sign FAQ Press Kit Privacy Policy Join the Campaign Team Contact Authorized and paid for by Vote Amada. © # VoteAmada.com.
+All Rights Reserved.
+About Issues Donate Close

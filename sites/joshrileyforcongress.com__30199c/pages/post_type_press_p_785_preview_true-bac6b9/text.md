@@ -1,9 +1,10 @@
-FIND YOUR POLLING LOCATION >>
-Putting Upstate First.
+VOTE EARLY OCT.
+26 - NOV.
+3 OR ON ELECTION DAY NOV.
+5 FIND YOUR POLLING LOCATION >> Meet Josh Issues Endorsements News Media Volunteer Donate Meet Josh Issues Endorsements News Media Volunteer Donate Putting Upstate First.
 Always.
 Join the team.
-November 5, 2024
-I am so proud of my deep roots in Upstate New York.
+November 5, 2024 I am so proud of my deep roots in Upstate New York.
 I learned our region’s history as a kid sitting on my great-grandpa’s porch on Birdsall Street.
 The fire station siren goes off at noon every day so the workers know when to take their lunch break.
 The door on the side of everyone’s house was put there as a separate entrance going straight to the basement washroom so workers coming home from the tannery wouldn’t track a mess through the house.
@@ -59,5 +60,7 @@ We’re better than that.
 In Upstate New York–and on this campaign–we lift each other up, we have each other’s backs, and we work together toward a common purpose.
 That work begins tomorrow in earnest.
 But tonight we celebrate, and we say thanks to everyone who made this win possible.
-Josh Riley
-Congressman Elect, New York’s 19th District
+Josh Riley Congressman Elect, New York’s 19th District Meet Josh Issues Endorsements News Media Volunteer Donate Donate by Mail: PO Box 836.
+213 Tioga Street Ithaca, NY 14851 For General Inquiries: info@joshrileyforcongress.com For Press Inquiries: press@joshrileyforcongress.com Paid for by Josh Riley for Congress Donate by Mail: PO Box 836.
+213 Tioga Street Ithaca, NY 14851 For General Inquiries: info@joshrileyforcongress.com For Press Inquiries: press@joshrileyforcongress.com PO Box 836.
+213 Tioga Street Ithaca, NY 14851 Privacy Policy ©

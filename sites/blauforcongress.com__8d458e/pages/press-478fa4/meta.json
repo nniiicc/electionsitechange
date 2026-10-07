@@ -1,7 +1,11 @@
 {
  "description": "News coverage and interviews featuring Dr. Shimon Blau, independent candidate for Colorado's 1st Congressional District, from Colorado Public Radio, Denverite, Axios, Colorado Politics, The Colorado Sun, and more.",
  "final_url": "https://blauforcongress.com/press",
+ "fingerprint": "6521935773798af6eaaeaef6187b12ef97304189",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
  "title": "Press & Media Coverage | Blau for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

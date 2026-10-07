@@ -1,4 +1,4 @@
-Born in the heartland of America, Colton Bennett is a dedicated Christian, conservative, Army veteran, husband, and father.
+Home Issues Endorsements Get In Touch Request Your Ballot Contribute Colton Bennett State Representative for District 6  Born in the heartland of America, Colton Bennett is a dedicated Christian, conservative, Army veteran, husband, and father.
 Growing up on a family homestead, Colton learned the importance of hard work, loving his country, and serving his community.
 As a youngster he participated in 4-H, raising sheep, hogs, and poultry.
 While in high school Colton participated in National level Speech and Debate competitions, worked as a legislative Intern for Utah Eagle Forum, and helped to manage the Local Ted Cruz Presidential Campaign in 2016.
@@ -9,3 +9,7 @@ Colton and Sydney, live in Troy with their two daughters, Hadassah and Felicity.
 Colton has an Associates Degree in Health Sciences, and currently serves as a Firefighter/EMT for Kamiah Fire and Rescue.
 He also serves as a Precinct Committeeman for the Latah County Republican Party.
 Colton Bennett is excited to continue serving the District 6 community in the Legislature, and invites you to join him in bringing a conservative voice to Boise.
+Your Support Matters!
+Contribute Here Follow Follow Follow Follow Troy, Idaho | (208) 892-9004 | Privacy Policy | Social Media Comment Policy | info@bennettforidaho.com Paid for By Colton Bennett for State Representative, Daniel Crawford Treasurer © # Colton Bennett for State Representative Images and descriptions of Mr.
+Bennett’s military career do not imply endorsement by the Department of Defense or the U.S.
+Army.

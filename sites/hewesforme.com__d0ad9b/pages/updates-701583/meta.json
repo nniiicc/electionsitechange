@@ -1,7 +1,9 @@
 {
  "description": "News, campaign stops, and updates from Cheryl Hewes and the campaign team.",
  "final_url": "https://www.hewesforme.com/updates",
- "paid_for_by": null,
+ "fingerprint": "cb2b941eeec569ecc383dd556ec5b6b6731fe927",
+ "format": 3,
+ "paid_for_by": "authorized by Cheryl Hewes for State Senate © # Cheryl Hewes Campaign",
  "title": "Campaign updates from Cheryl Hewes",
  "years_mentioned": []
 }

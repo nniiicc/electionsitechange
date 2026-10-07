@@ -1,13 +1,11 @@
-It’s exhausting.
+Skip to content Sam Powell for Senate Courage, Compassion, Community Menu Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Don’t look away It’s exhausting.
 And I know that most just want to look away.
-“I just can’t deal with politics”
-But this isn’t politics.
+“I just can’t deal with politics” But this isn’t politics.
 It’s the soul of a nation that is rotting from the inside.
 It’s the soul of a rotting corpse making its last hurrah.
 We turned the other way when Emmett Till was tortured and killed.
 We turned the other way at the lynchings and vicious cruelty of slavery.
-We turned the other way when husbands locked their wives in asylums for disagreeing with them
-I want to say, “It’s just politics.” But that seems like the privilege of an older white male.
+We turned the other way when husbands locked their wives in asylums for disagreeing with them I want to say, “It’s just politics.” But that seems like the privilege of an older white male.
 They aren’t coming after me yet.
 I’m not LGBTQ.
 I’m not Mexican or Native.
@@ -23,13 +21,13 @@ But something in me can’t keep quiet.
 I just can’t watch human beings suffer unseen and unheard.
 I can’t say, “No one notices you.
 Neither do I notice you.
-Be warmed and fed.”
-It seems to me that we are experiencing the last hurrah of a horrible past.
+Be warmed and fed.” It seems to me that we are experiencing the last hurrah of a horrible past.
 We are experiencing the full-on hatred of weak white men whose power is challenged, whose world-view proved as flimsy as a spider’s web, falling apart while feasting on the blood of prey.
 Eventually it collapses.
 It is exposed.
 It falls to ruin.
-The mouth of the wicked is never satisfied. 47 will never be satisfied.
+The mouth of the wicked is never satisfied.
+47 will never be satisfied.
 He will continue to consume and destroy, demanding more and more accolades and statues seeking to fill the emptiness of desperate narcissism.
 It never gets enough, and eventually the web collapses.
 It seems to me this is what is happening.
@@ -38,8 +36,8 @@ Don’t look away now.
 The web is collapsing.
 Your vote this year is absolutely crucial.
 We can’t look away.
-Author: Sam Powell
-What am I doing here?
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Author: Sam Powell What am I doing here?
 I am an ex-Reformed pastor.
 I love the system of doctrine found in the confessions of the church because they lead to Jesus, exalt Jesus, and clarify the life and work of Jesus.
 But I worship him, not the confessions.
@@ -54,27 +52,18 @@ And one more - in the 70s, a cult leader named Bill Gothard invented a religion 
 He peddled it to millions under the guise of Christianity.
 All of these streams combined into a weird, oppressive, violent, vicious mixture which has infiltrated the churches.
 It is a strange new religion, under the guise of Christianity, but has nothing to do with it.
-It has gone by different names: Moral Majority; Christian Nationalism; Patriarchalism;
-It worships power and authority, it worships traditions and parliamentarian procedures, it worships celebrity, and it worships those who can argue down a liberal or a feminist.
+It has gone by different names: Moral Majority; Christian Nationalism; Patriarchalism; It worships power and authority, it worships traditions and parliamentarian procedures, it worships celebrity, and it worships those who can argue down a liberal or a feminist.
 It values destroying enemies with argument, it values contempt and winning the debate.
-It calls for the release of Barrabas - at least he was trying to do something about Rome-
-And shouts for Jesus to be crucified.
-What this new religion doesn't have is:
-Jesus, the Lamb of God
-Grace
-Mercy
-Compassion
-Understanding
-Listening
-or Good news.
+It calls for the release of Barrabas - at least he was trying to do something about Rome- And shouts for Jesus to be crucified.
+What this new religion doesn't have is: Jesus, the Lamb of God Grace Mercy Compassion Understanding Listening or Good news.
 All it knows is law.
 And all it trusts in is power.
 It knows nothing of washing feet, of letting the mind of Christ dwell in us, or of taking the lowest place.
 So this is why I am here.
-For those who have been run down by Driscoll's bus, who have been crushed by the Gothard machine, cast out by Wilson's cult (or Piper's or MacArthur's)...
-...for those who are so confused that they don't know how to separate the gospel of Jesus Christ from the lies and tangles that the enemy has woven into a snare...
+For those who have been run down by Driscoll's bus, who have been crushed by the Gothard machine, cast out by Wilson's cult (or Piper's or MacArthur's)... ...for those who are so confused that they don't know how to separate the gospel of Jesus Christ from the lies and tangles that the enemy has woven into a snare...
 I offer my services.
 I can listen.
 I can help untangle the lies by pointing you to the simplicity of the faith once for all delivered to the saints.
-You can find me at sampowellministries.com
-View all posts by Sam Powell
+You can find me at sampowellministries.com View all posts by Sam Powell Author Sam Powell Posted on July 26, 2026 Categories Uncategorized Leave a comment Cancel reply Δ Post navigation Previous Previous post: “Clothed and in their right mind…” Next Next post: Health care concerns @sampowell_sd19 Sam Powell for Senate Sam Powell for Senate Donate Here Home Who is Sam Powell Blog My Platform Home Who is Sam Powell Blog My Platform Sam Powell for Senate Create a website or blog at WordPress.com Comment Reblog Subscribe Subscribed Sam Powell for Senate Sign me up Have a WordPress.com account?
+Log in now.
+Sam Powell for Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

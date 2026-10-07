@@ -1,14 +1,5 @@
-12 events found.
-Events
--
-Town Hall
-- Educational Round-table Discussion EDAvance Early Childhood Learning Center Torrington
-- Woodbury-Southbury Rod & Gun Game Dinner Grand Oak Villa Watertown
-- Woodbury Board of Selectman Mtg Shove Bdlg Woodbury
-- Woodbury RTC Firehouse
-- WRTC Shamrock Social Senior Community Center Woodbury
-- Woodbury Board of Finance Public Hearing Senior Community Center Woodbury Public Hearing on FY 2026-27 Town Budget
-- CT66 House Convention Memorial Hall The Green, Bethlehem
-- June 19th Freedom & Liberty Rally Woodbury North Green Bandstand Woodbury
-- Litchfield RTC Meet & Greet Di Franco's 281 Main St S, Woodbury, CT, CT, United States
-- House Republicans Fundraiser Patties Restaurant 499 Bantam Rd, Litchfield Screenshot
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved 12 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month Day #ago 3/5/2026 March 5 - 10/7/2026 Now Select date.
+March 2026 Thu 5 Bethlehem RTC March 5 @ 7:00 pm - 8:00 pm Town Hall Fri 6 Educational Round-table Discussion March 6 @ 1:00 pm - 2:00 pm EDAvance Early Childhood Learning Center Torrington Sat 7 Woodbury-Southbury Rod & Gun Game Dinner March 7 @ 6:00 pm - 9:00 pm Grand Oak Villa Watertown Wed 11 Woodbury Board of Selectman Mtg March 11 @ 7:30 pm - 9:00 pm Shove Bdlg Woodbury Thu 12 Woodbury RTC March 12 @ 7:00 pm - 8:00 pm Firehouse Mon 16 WRTC Shamrock Social March 16 @ 7:00 pm - 9:00 pm Senior Community Center Woodbury Mon 23 Woodbury Board of Finance Public Hearing March 23 @ 7:00 pm - 8:30 pm Senior Community Center Woodbury Public Hearing on FY 2026-27 Town Budget May 2026 Fri 15 CT GOP State Convention May 15 - May 16 Thu 21 CT66 House Convention May 21 @ 7:00 pm - 8:00 pm Memorial Hall The Green, Bethlehem June 2026 Fri 19 June 19th Freedom & Liberty Rally June 19 @ 6:00 pm - 8:00 pm Woodbury North Green Bandstand Woodbury Mon 22 Litchfield RTC Meet & Greet June 22 @ 6:00 pm - 8:00 pm Di Franco's 281 Main St S, Woodbury, CT, CT, United States Wed 24 House Republicans Fundraiser June 24 @ 6:00 pm - 8:00 pm Patties Restaurant 499 Bantam Rd, Litchfield Screenshot Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

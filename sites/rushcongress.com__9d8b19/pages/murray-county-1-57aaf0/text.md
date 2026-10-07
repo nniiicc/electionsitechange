@@ -1,25 +1,22 @@
-Signed in as:
-filler@godaddy.com
-A Dedication to Chatsworth, Murray County, and Everyone Who Stood Tall ❤️
-Over the last few weeks, I’ve watched something truly remarkable happen here in our community.
+Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media More Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions Room for All to Thrive AI/Data Center & Robotics GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform Murray County People over Parties How to Vote Write-In Campaign Update Contact Volunteer Get Involved Campaign Videos Music, Art & Our Campaign Blog Others We Support Press & Media Account My Account Sign out Sign In My Account Chatsworth/Murray County A Dedication to Chatsworth and Everyone Who Stood Tall This Song is for All of You!
+A Dedication to Chatsworth, Murray County, and Everyone Who Stood Tall ❤️ Over the last few weeks, I’ve watched something truly remarkable happen here in our community.
 People from every walk of life stood shoulder to shoulder, spoke up with courage, and showed what real unity looks like.
-Because of you—your determination, your voices, your love for this land and for each other—the biofuels project has been halted.
+Because of you —your determination, your voices, your love for this land and for each other—the biofuels project has been halted.
 Whether it ends up overturned or permanently suspended, what you achieved together is already extraordinary.
 This is what community is supposed to look like.
 This is what democracy is supposed to feel like.
 And this is what happens when everyday people refuse to be ignored.
 I wanted to offer something back—something from the heart.
-Today I’m sharing a brand-new song called “David Stood Tall in Chatsworth.”
-I’m dedicating this song to you, the people of Chatsworth and Murray County, as a reminder of the strength you showed… and the strength you still have.
+Today I’m sharing a brand-new song called “David Stood Tall in Chatsworth.” I’m dedicating this song to you , the people of Chatsworth and Murray County, as a reminder of the strength you showed… and the strength you still have.
 Let this be a marker of what you’ve accomplished together, and a reminder that when we stand united, even giants can fall.
 Keep speaking up.
 Keep standing together.
 Our voices are always strongest when they rise as one.
-With gratitude and respect,
-Rob Rush
-For immediate release
-STATEMENT FROM ROB RUSH — CHATTANOOGA/CHATSWORTH, GA
-Last Thursday Night (12/4/25 ) in Chatsworth, something extraordinary happened.
+With gratitude and respect, Rob Rush For immediate release STATEMENT FROM ROB RUSH — CHATTANOOGA/CHATSWORTH, GA For immediate release STATEMENT FROM ROB RUSH — CHATTANOOGA/CHATSWORTH, GA Last Thursday Night (12/4/25 ) in Chatsworth, something extraordinary happened.
 A small town of fewer than 5,000 people showed the entire 14th District — and maybe even the whole country — what it looks like when a community stands together with courage, clarity, and heart.
 More than six hundred residents filled that gymnasium.
 Their voices were heard.
@@ -37,30 +34,24 @@ Still, I believe it is important to model respect even in moments of deep frustr
 To Congresswoman Greene: if my comment came across as disrespectful to you or to the audience, I apologize for that as well.
 My passion for the families impacted by PFAS overtook my judgment.
 I hope we can all work together — regardless of politics — to finally give this crisis the attention it deserves.
-But let me also say what truly matters:
-The people of Chatsworth rose up last night.
+But let me also say what truly matters: The people of Chatsworth rose up last night.
 They were united — not as Democrats, not as Republicans, not as independents — but as neighbors.
 As protectors of their land, their health, and their future.
-Their unity sent a message louder than anything I said, louder than any speaker on the stage, louder than any corporation:
-This community will not be ignored anymore.
+Their unity sent a message louder than anything I said, louder than any speaker on the stage, louder than any corporation: This community will not be ignored anymore.
 I am proud of them.
 I am grateful to them.
 And I am committed to supporting them with humility, respect, and a willingness to learn from my own mistakes.
-To everyone who was there last night: thank you for showing the world what a small town with a big heart can accomplish.
-— Rob Rush
-Rising Fawn, Georgia
-On December 4th.
+To everyone who was there last night: thank you for showing the world what a small town with a big heart can accomplish. — Rob Rush Rising Fawn, Georgia Me Standing up for the People of Chatsworth ( Full Speech ) On December 4th.
 I defended the People at the Chatsworth Town Hall regarding the Biofuel Plant right before Marjorie Taylor Greene spoke.
 The Major Media didn't cover My Speech at all which lead to me being Escorted by police to the Parking lot where I stayed for 4 hours in the rain so I could talk with everyone as they left.
 Our Campaign is about YOU! and Your Voices that Rarely get Heard.
 Let’s Stand Together for the Truth that the Powerful Don’t Want Us Saying!
-Hundreds of people packed the Chatsworth meeting tonight to protect their homes from another potential environmental disaster.
+Standing With Chatsworth: Outside after my Speech Hundreds of people packed the Chatsworth meeting tonight to protect their homes from another potential environmental disaster.
 After speaking up on PFAS and challenging our current representative’s silence, I was removed — but the county commissioner later announced he would take action to stop the biofuels project.
 If you believe Northwest Georgia deserves leadership that fights for clean water, honest government, and transparent decision-making, join us.
-This morning, I’m checking in from the Super 8 in Chatsworth, Georgia, where I’m grabbing a cup of coffee in the lobby before heading out into town.
+Morning Update from Chatsworth, Georgia - The day after my S This morning, I’m checking in from the Super 8 in Chatsworth, Georgia, where I’m grabbing a cup of coffee in the lobby before heading out into town.
 My visit here is part of my ongoing work to meet people across GA-14, hear their concerns, and understand the daily realities of our rural communities.
 Chatsworth represents so much of what makes this district special — resilience, kindness, and a belief that small towns deserve big futures.
-Paid for by Rob Ruszkowski ( Rush ) for Congress
-Rising Fawn GA 30738
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Donate Here: Every Contribution - Large or Small - Makes a Difference Click HERE to Donate Home General Election Info Come Meet Me Who is Rob Rush?
+FAQ - Top 100 Donate 14 Issues - Overview Our Platform & Solutions GA 14th Greenway Vision GA 14th Fusion Future Our Vision & Reform How to Vote Write-In Campaign Update Contact Volunteer Campaign Videos Music, Art & Our Campaign Others We Support Press & Media FEC Disclaimer Privacy Policy Paid for by Rob Ruszkowski ( Rush ) for Congress Rising Fawn GA 30738 Donations processed via Donorbox • We do not sell your data “Translations are machine-generated; please see English version for official text.” Copyright © # Paid for By Rob Ruszkowski ( Rush ) For Congress - All Rights Reserved.
+Powered by

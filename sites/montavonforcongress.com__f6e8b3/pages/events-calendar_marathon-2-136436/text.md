@@ -1,12 +1,7 @@
-Today, we cross county lines!
+▼ 0 Skip to Content Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon About Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Open Menu Close Menu Montavon's Marathon Folder: About Back Meet Matthew The Platform CD 17 Events Contact Contribute DONATE Back to All Events Montavon’s Marathon: Day 2 Monday, September 28, 2026 8:00 AM 6:00 PM Dunkin’ 14071 North Cleveland Avenue North Fort Myers, Florida, 33903 United States (map) Google Calendar ICS Today, we cross county lines!
 We are kicking things off at 8:00 AM in North Shore Park and heading north along the Tamiami Trail.
 We will be exploring our beautiful local environment, discussing conservation and community issues, and hosting public gatherings along the way.
-Day 2 Route & Highlights:
-- 8:00 AM Kickoff: Dunkin’, 14071 N.
-Cleveland Ave, Fort Myers, 33903
-- Morning Trail Stop: Prairie Pines Preserve, 18400 N Tamiami Trail N, Fort Myers, FL 33903
-- Midday: Bagged lunch meet-up with the campaign team
-- Main Afternoon Event: Charlotte Flatwoods Environmental Park, 15801 S Tamiami Trail, Punta Gorda, FL 33955
-- Evening Wrap-Up: Post-walk pizza and conversation with Matthew
-Whether you want to talk policy, ask questions, or just join Matthew for a few blocks through our beautiful preservation spaces, we want to see you out there!
-Contact Alison Hirsch with any questions about the route and locations. 570-974,-3101, alison@MontavonforCongress.com
+Day 2 Route & Highlights: 8:00 AM Kickoff: Dunkin’, 14071 N.
+Cleveland Ave, Fort Myers, 33903 Morning Trail Stop: Prairie Pines Preserve, 18400 N Tamiami Trail N, Fort Myers, FL 33903 Midday: Bagged lunch meet-up with the campaign team Main Afternoon Event: Charlotte Flatwoods Environmental Park, 15801 S Tamiami Trail, Punta Gorda, FL 33955 Evening Wrap-Up: Post-walk pizza and conversation with Matthew Whether you want to talk policy, ask questions, or just join Matthew for a few blocks through our beautiful preservation spaces, we want to see you out there!
+Contact Alison Hirsch with any questions about the route and locations.
+570-974,-3101, alison@MontavonforCongress.com Previous Previous September 27 Montavon’s marathon kickoff Next Next September 29 Montavon’s Marathon: Day 3 PRIVACY POLICY Political Advertisement Approved and Paid for by Matthew Montavon, Democrat for Congress

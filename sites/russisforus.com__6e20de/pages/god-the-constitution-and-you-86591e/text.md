@@ -1,7 +1,6 @@
-Why are my priorities “God, The Constitution and You”?
-(Or in newspeak terms “Morality, Law and Order, and The People”)
-When someone runs for public office, they are always asked, “What are you three highest priorities when elected.
-For congressional candidates, they generally expect responses to include high profile and high ticket items that often violate the 10th Amendment.
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Youtube Instagram Get in Touch Home About Ask David Virtual Rally Volunteer Events God, The Constitution and You May 2, 2024 Why are my priorities “God, The Constitution and You”?
+(Or in newspeak terms “Morality, Law and Order, and The People”) When someone runs for public office, they are always asked, “What are you three highest priorities when elected.
+For congressional candidates, they generally expect responses to include high profile and high ticket items that often violate the 10th Amendment .
 As long as your government is focused on violating the constitution by grifting from programs it should not be running, I will will fight for every penny we can get in Oregon.
 But I have higher priorities.
 As long as your representative’s main focus is to get as much money as they can from the Federal Government your taxes will continue to rise.
@@ -35,7 +34,7 @@ The original constitution was four handwritten pages with the last one being mos
 Today the “Constitution Annotated” is well over 100 times that.
 I believe that a deep review of all of that bulk, and a return to basics (or as basic as possible) is highly warranted.
 There are many things that have gotten us to the state we are in today, but reductions in your freedom and increases in the power of governmental due to some of the “annotations” to the Constitution are definitely a significant part of the problem.
-You are the power, the intelligence, the guide and the foundation of the government created by The Constitution For the United States of America.
+You are the power , the intelligence, the guide and the foundation of the government created by The Constitution For the United States of America.
 You are the very reason that this country and its Constitution exist and it can not exist without You.
 In synopsis, The Constitution basically gives each state positions on the two of the Nation’s Boards of Directors (The House and Senate).
 It then requires the states to set up a similar board structure and make you a voting shareholder of the state.
@@ -45,15 +44,21 @@ It is a lot of responsibility to put on You.
 That is why the Constitution is also designed to ensure that you have the ability to do the best you can with your life, and secure that which is yours, without undue government intervention.
 In the name of brevity, I will just say that You (we) are not currently experiencing levels of freedom and liberty that allow you to protect and feed your family while simultaneously helping to keep the United States the greatest nation on earth.
 Bringing it all together into simple terms.
-My priorities are “God, The Constitution and You” in that order because:
-- Focusing on God and the base morality he provides all things will guide me to taking and supporting actions that ensure that you can enjoy prosperity and security backed by a government that respects you.
-- By making The Constitution For The United States of America a priority gives me a time honored and proven base to apply as I participate in legislation presented me in Congress.
+My priorities are “God, The Constitution and You” in that order because: Focusing on God and the base morality he provides all things will guide me to taking and supporting actions that ensure that you can enjoy prosperity and security backed by a government that respects you.
+By making The Constitution For The United States of America a priority gives me a time honored and proven base to apply as I participate in legislation presented me in Congress.
 It also gives you an outline to my reasoning for making decisions in Washington DC.
-- In truth, this was all about you from the beginning.
+In truth, this was all about you from the beginning.
 By making God and The Constitution my highest priority, I am bound morally spiritually, and by thelaws of God and man to serve You.
-- I believe maintaining these priorities can solve almost every issue this nation faces today.
+I believe maintaining these priorities can solve almost every issue this nation faces today.
 Why I believe that, and my plans for implementation of solutions, are all over this website.
 If you want to know how these priorities will solve any specific issue, feel free to ask me below.
-This country was built by “You” and You are the US in #RussIsForUS.
+This country was built by “You” and You are the US in #RussIsForUS .
 Together we can restore God’s Country and maintain peaceful governance that supports your prosperity for generations to come.
 Please Rise to the occasion for your children and grandchildren.
+Donate Now Search Search Recent Posts Andrea Salinas Congressional Record Willamette Week 9/29/26 2026 Fraud and Alien Crimes Democrat or Socialist (DSA) Could this be the case that takes Voter ID to the Supreme Court before 11/3/2026?
+Recent Comments No comments to show.
+David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

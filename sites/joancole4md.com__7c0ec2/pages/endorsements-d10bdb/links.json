@@ -1,26 +1,110 @@
 [
-"http://orchidbaydesigns.com/",
-"https://bsky.app/profile/joanbaronecole.bsky.social",
-"https://cairaction.org/",
-"https://everytown.org/",
-"https://facebook.com/JoanCole4MD",
-"https://instagram.com/joancole4md",
-"https://joancole4md.com/",
-"https://joancole4md.com/contact",
-"https://joancole4md.com/copy-of-in-the-district",
-"https://joancole4md.com/endorsements",
-"https://joancole4md.com/events",
-"https://joancole4md.com/faq",
-"https://joancole4md.com/get-involved",
-"https://joancole4md.com/joan-s-story",
-"https://joancole4md.com/photo-accreditations",
-"https://joancole4md.com/prioritiy-issues",
-"https://mcgeo.org/",
-"https://mddclabor.org/",
-"https://momsdemandaction.org/",
-"https://reproductivejusticemaryland.org/",
-"https://secure.actblue.com/donate/joan-cole-1",
-"https://sierraclub.org/",
-"https://taaaconline.org/",
-"https://thirdact.org/maryland"
+{
+"text": "Campaign Events",
+"href": "https://www.joancole4md.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.joancole4md.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.joancole4md.com/copy-of-in-the-district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/joan-cole-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.joancole4md.com/endorsements"
+},
+{
+"text": "FAQ",
+"href": "https://www.joancole4md.com/faq"
+},
+{
+"text": "FOR DELEGATE",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joancole4md.com/get-involved"
+},
+{
+"text": "Joan Barone Cole",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "Joan's Story",
+"href": "https://www.joancole4md.com/joan-s-story"
+},
+{
+"text": "Orchid Bay Designs",
+"href": "http://www.orchidbaydesigns.com"
+},
+{
+"text": "Photo Credits",
+"href": "https://www.joancole4md.com/photo-accreditations"
+},
+{
+"text": "Priority Issues",
+"href": "https://www.joancole4md.com/prioritiy-issues"
+},
+{
+"text": "Subscribe",
+"href": "https://www.joancole4md.com"
+},
+{
+"text": "[image: Bluesky_Logo_Joan_White]",
+"href": "https://bsky.app/profile/joanbaronecole.bsky.social"
+},
+{
+"text": "[image: CAIR Action organizational logo]",
+"href": "https://cairaction.org/"
+},
+{
+"text": "[image: Every Town For Gun Safety organizational logo]",
+"href": "https://www.everytown.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoanCole4MD/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joancole4md/"
+},
+{
+"text": "[image: MCGEO Local 1994 organizational logo]",
+"href": "https://www.mcgeo.org/"
+},
+{
+"text": "[image: Metro Balt Council AFL-CIO organizational logo]",
+"href": "https://mddclabor.org/"
+},
+{
+"text": "[image: Moms Demand Action organizational logo]",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image: Reproductive Justice Maryland organizational logo]",
+"href": "https://www.reproductivejusticemaryland.org/"
+},
+{
+"text": "[image: Sierra Club organizational logo]",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "[image: Teachers Association of Anne Arundel County organizational logo]",
+"href": "https://taaaconline.org/"
+},
+{
+"text": "[image: Third Act Maryland organizational logo]",
+"href": "https://thirdact.org/maryland/"
+},
+{
+"text": "info@joancole4md.com",
+"href": "mailto:joancole4md@gmail.com"
+}
 ]

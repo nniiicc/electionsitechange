@@ -1,7 +1,7 @@
-Amáda Márquez Simula was born in Madison, Wisconsin to a working-class family with big ideas about the future.
+Skip to content for Minnesota House 39B Menu About Issues Donate Menu About Issues Donate Biography Amáda Márquez Simula was born in Madison, Wisconsin to a working-class family with big ideas about the future.
 Her mother’s German and French roots are typical of the Wisconsin countryside.
 Her father was a childhood immigrant from Mexico who became an American citizen and worked at the local power plant.
-From an early age, Amáda was a natural artist and entertainer.
+Amada with her parents From an early age, Amáda was a natural artist and entertainer.
 Much of her youth was spent listening to her father performing in hometown bands.
 Her deep love of music spans centuries and genres.
 She was never afraid to sing into a microphone, create a costume, pose for a camera, or dance in a spotlight.
@@ -22,3 +22,11 @@ Welcoming, rallying, inspiring, and activating teams of people from all walks of
 She is frequently recognized for bridging generations and ideas, turning informed possibilities into creative solutions, and renewing a community that has often felt stagnant, abandoned, and divided.
 Today, Amáda Márquez Simula is serving her third term as the Mayor of Columbia Heights where she continues to represent our diverse communities and breathe new life into the city.
 She is running for Minnesota’s House of Representatives in District 39B.
+Learn More Frequently Asked Questions Making Headlines Let’s Stay in Touch!
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Read past newsletters or sign up for the mailing list.
+Email * Sign Up Show your support!
+Get a Lawn Sign FAQ Press Kit Privacy Policy Join the Campaign Team Contact Authorized and paid for by Vote Amada. © # VoteAmada.com.
+All Rights Reserved.
+About Issues Donate Close

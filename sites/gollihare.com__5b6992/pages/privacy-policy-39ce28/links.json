@@ -1,9 +1,46 @@
 [
-"https://facebook.com/toddgollihare",
-"https://gollihare.com/",
-"https://gollihare.com/contact",
-"https://gollihare.com/media",
-"https://gollihare.com/privacy-policy",
-"https://gollihare.com/terms-and-conditions",
-"https://secure.anedot.com/07acbd9f-6be5-412d-9824-cc81e67e9608/donate"
+{
+"text": "CONTACT",
+"href": "https://gollihare.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/07acbd9f-6be5-412d-9824-cc81e67e9608/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/toddgollihare"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://gollihare.com/contact/"
+},
+{
+"text": "HOME",
+"href": "https://gollihare.com/"
+},
+{
+"text": "MEDIA",
+"href": "https://gollihare.com/media/"
+},
+{
+"text": "MEET TODD",
+"href": "https://gollihare.com/#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://gollihare.com/privacy-policy/"
+},
+{
+"text": "RESULTS",
+"href": "https://gollihare.com/#results"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://gollihare.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://gollihare.com"
+}
 ]

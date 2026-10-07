@@ -1,35 +1,8 @@
-Endorsements
-Senator Dave Weeks is proud to be endorsed by a broad coalition of Vermont leaders.
-Statewide Leaders
-- Governor Phil Scott
-- Governor Jim Douglas (former)
-- Brian Campion — former State Senator, Bennington County, and former Senate Education Committee Chair
-Rutland County Legislative Delegation
-- Senator Brian Collamore — Vermont Senate, Rutland County
-- Senator Terry Williams — Vermont Senate, Rutland County
-- Senator Peg Flory — Vermont Senate, Rutland County (former)
-- Senator Josh Terenzini — Vermont Senate, Rutland County (former)
-- Representative Patti McCoy — House Minority Leader, Poultney
-- Representative Tom Burditt — Clarendon, West Rutland, and Wallingford
-Former Rutland County Legislators
-- Bob Helm — former State Representative, Castleton
-- Butch Shaw — former State Representative, Pittsford and Proctor
-- Larry Cupoli — former State Representative and Rutland Alderman
-- Jim Harrison — former State Representative, Chittenden, Killington, Mendon and Pittsfield
-- Peter Fagan — former State Representative, Rutland
-- Art Peterson — former State Representative, Clarendon, West Rutland, and Wallingford
-Local Leaders
-- Dave Allaire — former Mayor of Rutland
-- Judy Frazier — Proctor Town Manager and former Selectboard Chair
-Community and Professional Organizations
-- Vermont Republican Party
-- Rutland County Republican Party
-- Rutland City Republican Committee
-- Proctor Republican Committee
-- Vermont Association of Realtors
-- Vermont Wholesale Beverage Association
-- Casella Waste Management Systems
-- Green Mountain Slate Quarry Association
-“Dave Weeks is the real deal, I've enjoyed getting to know Dave.
+0 Skip to Content Dave Weeks for Vermont State Senate Meet Dave Senate Record Priorities Endorsements Support Contact Open Menu Close Menu Dave Weeks for Vermont State Senate Meet Dave Senate Record Priorities Endorsements Support Contact Open Menu Close Menu Meet Dave Senate Record Priorities Endorsements Support Contact Endorsements Senator Dave Weeks is proud to be endorsed by a broad coalition of Vermont leaders.
+Statewide Leaders Governor Phil Scott Governor Jim Douglas (former) Brian Campion — former State Senator, Bennington County, and former Senate Education Committee Chair Rutland County Legislative Delegation Senator Brian Collamore — Vermont Senate, Rutland County Senator Terry Williams — Vermont Senate, Rutland County Senator Peg Flory — Vermont Senate, Rutland County (former) Senator Josh Terenzini — Vermont Senate, Rutland County (former) Representative Patti McCoy — House Minority Leader, Poultney Representative Tom Burditt — Clarendon, West Rutland, and Wallingford Former Rutland County Legislators Bob Helm — former State Representative, Castleton Butch Shaw — former State Representative, Pittsford and Proctor Larry Cupoli — former State Representative and Rutland Alderman Jim Harrison — former State Representative, Chittenden, Killington, Mendon and Pittsfield Peter Fagan — former State Representative, Rutland Art Peterson — former State Representative, Clarendon, West Rutland, and Wallingford Local Leaders Dave Allaire — former Mayor of Rutland Judy Frazier — Proctor Town Manager and former Selectboard Chair Community and Professional Organizations Vermont Republican Party Rutland County Republican Party Rutland City Republican Committee Proctor Republican Committee Vermont Association of Realtors Vermont Wholesale Beverage Association Casella Waste Management Systems Green Mountain Slate Quarry Association “Dave Weeks is the real deal, I've enjoyed getting to know Dave.
 He will undoubtedly serve Rutland County and Vermont with a commonsense approach to governance and leadership.
-I would be honored to see him sit in my seat.”
+I would be honored to see him sit in my seat.” - Josh Terenzini (Former VT State Senator for Rutland County) “He brings vast experience to the table.
+He knows how to motivate his team and he always remains positive no matter what the challenge.” — Lee Wagstaffe (Business Colleague) Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Add your name to the list of Dave's supporters: First Name Last Name Email Address Sign Up Thank you!
+Dave Weeks for VT State Senate 35 Warner Avenue Proctor, VT 05765 (802) 417-9013 daveinvt1976@gmail.com

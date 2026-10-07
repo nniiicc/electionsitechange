@@ -1,7 +1,5 @@
-Senator Kallman has introduced two bills as part of the #FairShareAgenda, aimed at making the wealthy pay their fair share of taxes, and supporting the infrastructure that helps Rhode Islanders thrive.
-See more here:
-Rhode Island Debates Taxing the Rich
-The Boston Globe, January 23, 2026
-Tax-the-rich advocates unveil ambitious bill package.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Senator Kallman introduces bills in #FairShareAgenda Homepage News Senator Kallman introduces bills in #FairShareAgenda By Meghan Kallman January 27, 2026 Senator Kallman has introduced two bills as part of the #FairShareAgenda, aimed at making the wealthy pay their fair share of taxes, and supporting the infrastructure that helps Rhode Islanders thrive.
+See more here: Rhode Island Debates Taxing the Rich The Boston Globe, January 23, 2026 Tax-the-rich advocates unveil ambitious bill package.
 Could it pass?
-The Providence Journal, January 22, 2026
+The Providence Journal, January 22, 2026 Search Search for: Search October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

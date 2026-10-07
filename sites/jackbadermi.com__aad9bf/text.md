@@ -1,8 +1,4 @@
-Jack Bader
-For State Representative
-District 97
-Money out of Politics:
-We need to break the link between money and political power.
+Skip to content Skip to content Jack Bader for State Representative Open Menu Open Menu Home Volunteer Yard Signs Close Menu Close Menu Donate Now Donate Now Home Jack Bader For State Representative District 97 Volunteer Donate Signs Facebook Money out of Politics: We need to break the link between money and political power.
 Working hard should give people a fair shot at buying a home, raising a family, and retiring comfortably.
 But when wealthy donors and corporations have more influence over government than the people living with its decisions, the rules keep favoring those who already have the most.
 Getting money out of politics is part of making government work for the public again.
@@ -14,8 +10,7 @@ I support banning political contributions from regulated utilities and large sta
 I signed the Michiganders for Money Out of Politics petition because I believe that accountability should apply regardless of party.
 We cannot keep asking people to trust government while allowing the companies it oversees to help finance the campaigns of those in power.
 Our elected officials should answer to the public.
-Healthcare for all Michigan residents:
-I support guaranteed healthcare coverage for every Michigan resident.
+Healthcare for all Michigan residents: I support guaranteed healthcare coverage for every Michigan resident.
 No parent should have to choose between taking their child to the doctor and paying the bills.
 No one should have to fight an insurance company for care their doctor recommends.
 Your healthcare should not disappear because you changed jobs, got laid off, or became too sick to work.
@@ -30,8 +25,7 @@ Rural residents deserve dependable healthcare, and we should invest public dolla
 I support protecting rural hospitals and ambulance services, expanding emergency care, and improving access to mental health treatment, imaging, and laboratory services.
 The money we pay into healthcare should help keep these services in our communities.
 Whether you survive a medical emergency should never depend on whether your town was profitable enough to serve.
-No Data Centers:
-I oppose AI data centers in Michigan.
+No Data Centers: I oppose AI data centers in Michigan.
 Our farmland, state land, water, and electric grid should serve the people who live here.
 We should not sacrifice those resources to help a handful of multinational corporations gain more control over our economy and our future.
 These projects can place enormous demands on electricity, water, and infrastructure while bringing constant industrial noise into nearby communities.
@@ -45,8 +39,7 @@ My opposition also goes beyond land and utility costs.
 Whoever controls AI infrastructure will have enormous influence over how this technology changes our jobs and our economy.
 Michigan should not help concentrate that power in fewer hands.
 The benefits of AI should belong to the public, and our communities should have control over what happens to their land and resources.
-Public Ownership of AI:
-Our work and our data helped build AI.
+Public Ownership of AI: Our work and our data helped build AI.
 We deserve ownership, a say in how it is used, and a share of the wealth it creates.
 A handful of technology billionaires should not get to decide the future of our jobs, our privacy, or our safety for us.
 Something can be profitable for shareholders and still cause enormous harm to everyone else.
@@ -70,8 +63,7 @@ Companies should not be able to escape safeguards simply by moving their work to
 Publicly owned AI must meet the same safety requirements.
 If a system cannot be safely controlled, neither a corporation nor a government should be allowed to develop or deploy it.
 Our safety, our rights, and our ability to support our families must come first.
-Strengthen unions and worker power:
-A full time job should pay enough to cover the bills, raise a family, and put money away.
+Strengthen unions and worker power: A full time job should pay enough to cover the bills, raise a family, and put money away.
 Nobody should spend their life making someone else rich while barely getting by.
 We deserve time with our kids and a retirement that does not depend on working until our bodies give out.
 That requires working people to have more power over their pay, benefits, and working conditions.
@@ -86,8 +78,7 @@ Strong unions help build an economy where more of the wealth we create reaches o
 Better wages also mean more money spent at local businesses and more stability for families and communities.
 We cannot rebuild the middle class by waiting for wealth to trickle down.
 Working people need the power to demand their share.
-Reduce daily traffic fatalities:
-A routine drive should not end with a family losing someone they love.
+Reduce daily traffic fatalities: A routine drive should not end with a family losing someone they love.
 We cannot accept preventable deaths and serious injuries as the cost of getting to work, going to school, or coming home.
 Residents often know which roads and intersections are dangerous long before anything is done.
 Those concerns deserve action.
@@ -100,8 +91,7 @@ An easy-to-use public crash map should show where crashes happen, how severe the
 I would prioritize funding for practical safety improvements such as better signs, flashing stop signs, rumble strips, and clearing blocked sight lines.
 We should not wait for a major road reconstruction to address a danger that can be corrected now.
 Families deserve roads designed to get them home safely and a government that acts before another life is lost.
-Public ownership of AI:
-Our work and our data helped build AI.
+Public ownership of AI: Our work and our data helped build AI.
 We deserve ownership, a say in how it is used, and a share of the wealth it creates.
 A handful of technology billionaires should not get to decide the future of our jobs, our privacy, or our safety for us.
 Something can be profitable for shareholders and still cause enormous harm to everyone else.
@@ -125,8 +115,7 @@ Companies should not be able to escape safeguards simply by moving their work to
 Publicly owned AI must meet the same safety requirements.
 If a system cannot be safely controlled, neither a corporation nor a government should be allowed to develop or deploy it.
 Our safety, our rights, and our ability to support our families must come first.
-Expand transportation options:
-Michigan needs a transportation plan that looks 20 years ahead.
+Expand transportation options: Michigan needs a transportation plan that looks 20 years ahead.
 We cannot keep making decisions two years at a time, patching the same problems, and passing the growing bill to the next generation.
 Every road we build comes with decades of resurfacing, repairs, snow removal, and eventual replacement.
 We cannot assume our children’s tax base will be large enough to support every obligation we leave behind.
@@ -146,8 +135,7 @@ Passenger rail could also support downtown development and reduce the number of 
 Roads will always need investment, and rail comes with maintenance costs of its own.
 A responsible 20 year plan should compare those costs openly and build a system our communities can sustain.
 We should be planning now for the next generation’s needs, rather than leaving them aging infrastructure, fewer choices, and bills their communities cannot afford.
-Fight against privatization of the American Dream:
-The American Dream was not lost overnight.
+Fight against privatization of the American Dream: The American Dream was not lost overnight.
 It was sold off one piece at a time.
 For generations, we built our society around a social contract: if you worked hard, contributed to your community, and played by the rules, you had a fair shot at buying a home, raising a family, building wealth, and retiring with dignity.
 Over time, we changed the rules.
@@ -169,8 +157,7 @@ If we want different outcomes, we have to change the rules.
 We need a government that answers to people, enforces antitrust laws, restores real competition, and strengthens workers’ bargaining power so hard work pays off again.
 The American Dream was not built overnight, and it will not be rebuilt overnight.
 But if we have the courage to change the rules, the next generation can inherit opportunity instead of the bill.
-Hold corporations responsible for their workers:
-If you control the work, you should be responsible for the worker.
+Hold corporations responsible for their workers: If you control the work, you should be responsible for the worker.
 Large corporations should not be able to control their operations while using layers of subcontractors to distance themselves from the people doing the work.
 Workers deserve accountability for their pay, safety, and working conditions.
 Amazon’s delivery model shows the problem.
@@ -184,8 +171,7 @@ A subcontracting agreement should not erase those responsibilities.
 In Lansing, I will push for stronger protections that hold corporations responsible for workers whose work they control.
 My goal is to protect workers’ ability to pursue fair pay, safer conditions, and accountability from the companies with power over their jobs.
 Corporate responsibility should follow control of the work.
-Enforce antitrust laws and break up Monopolies:
-Locally owned businesses deserve a fair chance to compete.
+Enforce antitrust laws and break up Monopolies: Locally owned businesses deserve a fair chance to compete.
 When a handful of corporations control an industry, they gain power over what families pay, what suppliers earn, and what workers can negotiate.
 We should not let the biggest companies use that power to shut out competitors and leave entire communities with fewer choices.
 I support stronger enforcement of antitrust laws, challenging mergers that would undermine competition, and breaking up illegal monopolies where necessary to restore it.
@@ -198,8 +184,7 @@ Protecting their opportunity to compete helps keep jobs, money, and ownership in
 In Lansing, I will support giving Michigan’s antitrust enforcers the resources they need to investigate and challenge corporate abuses.
 I will oppose policies that help dominant corporations squeeze out independent businesses.
 A healthy economy needs room for people to start a business, earn a living, and compete without needing permission from a corporate giant.
-Enforce antitrust laws and break up Monopolies:
-Locally owned businesses deserve a fair chance to compete.
+Enforce antitrust laws and break up Monopolies: Locally owned businesses deserve a fair chance to compete.
 When a handful of corporations control an industry, they gain power over what families pay, what suppliers earn, and what workers can negotiate.
 We should not let the biggest companies use that power to shut out competitors and leave entire communities with fewer choices.
 I support stronger enforcement of antitrust laws, challenging mergers that would undermine competition, and breaking up illegal monopolies where necessary to restore it.
@@ -212,3 +197,4 @@ Protecting their opportunity to compete helps keep jobs, money, and ownership in
 In Lansing, I will support giving Michigan’s antitrust enforcers the resources they need to investigate and challenge corporate abuses.
 I will oppose policies that help dominant corporations squeeze out independent businesses.
 A healthy economy needs room for people to start a business, earn a living, and compete without needing permission from a corporate giant.
+Archives April 2026 Search Search for: Politics Candidate WordPress Theme By ThemesCaliber Back to Top Back to Top

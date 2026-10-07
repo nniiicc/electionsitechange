@@ -1,4 +1,4 @@
-Dan Koh is the Democratic nominee for Congress in Massachusetts' 6th District.
+Skip navigation menu Home Meet Dan Endorsements Press Issues Donate Meet Dan Home Meet Dan Endorsements Press Issues Donate Meet Dan Dan Koh is the Democratic nominee for Congress in Massachusetts' 6th District.
 He's running because Donald Trump is trampling our constitution and American way of life, and we need leaders fighting back to defend our Democracy, protect our rights, reduce the cost of living, and stand up for families and communities like ours.
 Born and raised in Andover, Dan stands on the shoulders of his remarkable immigrant family from Korea and Lebanon, who were welcomed by the community he is running to represent.
 Dan has dedicated his life to public service and making government deliver for working families.
@@ -10,10 +10,12 @@ As an Andover Select Board member, he helped secure clean energy choices for tow
 Dan has held several successful private sector roles.
 He served as Chief Operating Officer of HqO a technology company dedicated to improving in-person experiences, helping to grow it to a $500 million company with over 150 employees.
 He also served as Chief of Staff of The Huffington Post Media Group, helping to manage a over $100 million dollar budget and more than 700 staff around the world.
-Dan is also the founder of “The People’s Cabinet,” a media platform focused on calling out Trump’s lies and featuring the leaders who are empowering the fight against MAGA while providing an alternate vision for America.
+Dan is also the founder of “ The People’s Cabinet ,” a media platform focused on calling out Trump’s lies and featuring the leaders who are empowering the fight against MAGA while providing an alternate vision for America.
 He is married to the love of his life, Amy Sennett, who he met on the first day of graduate school, where they were in the same class.
 Her “fun fact” was that she was a runner, and was training for the Boston Marathon.
-Dan was not a runner, but said he was. 82 marathons later, Dan still hasn’t caught up with her.
+Dan was not a runner, but said he was.
+82 marathons later, Dan still hasn’t caught up with her.
 They have two adorable children, Theodora (5) and Jack (3).
 As German-Irish-Italian-Lebanese-Korean-Americans, they represent a proudly diverse America.
 He holds a B.A. from Harvard College and an M.B.A. from Harvard Business School.
+Donate to Send Dan to Congress in MA-06. $ 25 $ 50 $ 100 $ 500 $ 1000 Other $ 25 $ 50 $ 100 $ 500 $ 1000 Other letsgo@kohforcongress.com For press inquiries, email press@kohforcongress.com Powered by RUN! website builder Paid for by the Committee to Elect Dan Koh You need to enable JavaScript to run this app.

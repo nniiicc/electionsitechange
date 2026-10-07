@@ -1,19 +1,86 @@
 [
-"http://secure.winred.com/gunderson-for-senate-2027",
-"https://facebook.com/steve.gunderson.sd1",
-"https://gunderson4senate.com/",
-"https://gunderson4senate.com/about",
-"https://gunderson4senate.com/accessibility-statement",
-"https://gunderson4senate.com/contact",
-"https://gunderson4senate.com/endorsements",
-"https://gunderson4senate.com/get-involved",
-"https://gunderson4senate.com/news",
-"https://gunderson4senate.com/photogallery",
-"https://gunderson4senate.com/privacy-policy",
-"https://gunderson4senate.com/terms-and-conditions",
-"https://gunderson4senate.com/videogallery",
-"https://instagram.com/gunderson4sd1",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://twitter.com/GundersonMTHD1",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.gunderson4senate.com/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.gunderson4senate.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.gunderson4senate.com/contact"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gunderson4senate.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gunderson4senate.com/get-involved"
+},
+{
+"text": "HOW CAN I HELP?",
+"href": "https://www.gunderson4senate.com"
+},
+{
+"text": "Home",
+"href": "https://www.gunderson4senate.com"
+},
+{
+"text": "How Can I Help or Get Involved??",
+"href": "https://www.gunderson4senate.com/get-involved"
+},
+{
+"text": "News",
+"href": "https://www.gunderson4senate.com/news"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.gunderson4senate.com/photogallery"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.gunderson4senate.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.gunderson4senate.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.gunderson4senate.com/terms-and-conditions"
+},
+{
+"text": "Video Gallery",
+"href": "https://www.gunderson4senate.com/videogallery"
+},
+{
+"text": "WinRed Campaign Contribution",
+"href": "http://secure.winred.com/gunderson-for-senate-2027/"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/steve.gunderson.sd1"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gunderson4sd1"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/GundersonMTHD1"
+},
+{
+"text": "gundersonsd1@gmail.com",
+"href": "mailto:gundersonsd1@gmail.com"
+}
 ]

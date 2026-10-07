@@ -1,12 +1,10 @@
-Where Is District 69?
+Garden Where Is 69 BELIEVE Pollinate Do Not Donate Most Interesting Veterinary Case Videos Garden Where Is 69 BELIEVE Pollinate Do Not Donate Most Interesting Veterinary Case Videos / Our Shared Soil Where Is District 69?
 A legislative district is more than arbitrary political lines drawn by a machine.
 It is a living, breathing ecosystem of families, local parks, and shared community roots.
 Let us find where you plant your seeds.
-Rooted in Our Neighborhoods
-Our campaign views District 69 not as a political battlefield, but as a community garden that thrives when every single resident is connected, represented, and heard.
+Civic Ecosystem Rooted in Our Neighborhoods Our campaign views District 69 not as a political battlefield, but as a community garden that thrives when every single resident is connected, represented, and heard.
 Now, you may be wondering, “Where exactly is District 69?
-Do I live in District 69?”
-If you start in the middle of the Arkansas River, just west of Maumelle you’d travel north to Mayflower and include beautiful downtown Mayflower (Go Hornets!) but not all of the Mayflower metroplex.
+Do I live in District 69?” If you start in the middle of the Arkansas River, just west of Maumelle you’d travel north to Mayflower and include beautiful downtown Mayflower (Go Hornets!) but not all of the Mayflower metroplex.
 Continue north toward Conway … but don’t step in it.
 Wrap around the east Conway just over the top of the “Y” of beautiful Lake Conway (still under construction) and head east toward Cabot … but don’t step in it.
 Just before Cabot, head south to Jacksonville … but don’t step in it.
@@ -32,6 +30,6 @@ Gerrymandering is the process of drawing district lines to manipulate communitie
 This is opposed to drawing district lines to ensure that communities feel best represented in their state government.
 Our Arkansas motto is “Regnat Populus” or “the People Rule”.
 When was the last time you felt well represented by your state government?
-Your Place in the Garden
-Ready to join our community ecosystem?
+Locate Your District Your Place in the Garden Ready to join our community ecosystem?
 Use our transparent, independent district finder tool to confirm your boundaries and help us tend the soil of State House District 69.
+Platform

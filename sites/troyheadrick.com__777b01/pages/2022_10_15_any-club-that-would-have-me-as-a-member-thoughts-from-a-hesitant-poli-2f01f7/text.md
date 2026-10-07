@@ -1,5 +1,4 @@
-… Any Club That Would Have Me as a Member: Thoughts From a Hesitant Politician
-We’re less than four weeks away from the 2022 midterm elections and all indications are that I will be elected to represent the Chittenden 15 District to the Vermont State House of Representatives.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Campaign / … Any Club That Would Have Me as a Member: Thoughts From a Hesitant Politician October 15, 2022 We’re less than four weeks away from the 2022 midterm elections and all indications are that I will be elected to represent the Chittenden 15 District to the Vermont State House of Representatives.
 I’ve been running unopposed since announcing my candidacy and, absent any well-orchestrated write-in campaign, it appears as though I’ll be heading to Montpelier in early January.
 I can honestly identify myself as a once-reluctant candidate.
 I have had the privilege of being represented in Montpelier and in Washington DC by a long history of amazing people and the fortune of having those people align with my own beliefs.
@@ -46,4 +45,7 @@ We need a factory reset.
 If you’ve read this far, thank you for hearing my thoughts.
 If you want to discuss my approach to what remains of this campaign, please reach out to me via this website (TroyHeadrick.com) or via e-mail at TroyHeadrickVT@gmail.com.
 Especially if you live within the Chittenden 15 district.
-Please know that, even if I am a hesitant (or still-reluctant) campaign participant, I am committed to serving you to the absolute best of my abilities once I hit the ground in Montpelier.
+Please know that, even if I am a hesitant (or still-reluctant) campaign participant, I am committed to serving you to the absolute best of my abilities once I hit the ground in Montpelier. > Of Which People?
+By Which People?
+For Which People?
+Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

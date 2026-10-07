@@ -1,6 +1,4 @@
-Skip navigation menu
-A life of service and activism
-Mia Bonta knows what instability feels like.
+Skip navigation menu Meet Mia Issues News Gallery Contact Donate Meet Mia Meet Mia Issues News Gallery Contact Donate Meet Mia A life of service and activism Mia Bonta knows what instability feels like.
 Growing up, she moved 13 times in 16 years.
 With every move, she carried what was most precious to her: a crate of books.
 Education became her anchor and the reason she believes every child deserves a fair shot, no matter their zip code.
@@ -17,3 +15,7 @@ She turns up the heat and delivers for the people who sent her to Sacramento.
 Now she's running for re-election in 2026 because the fight isn't over.
 The East Bay needs a proven fighter in Sacramento, someone who will stand up for healthcare access, protect immigrant families, make child care affordable, and ensure every child gets a real shot.
 That's exactly what Mia Bonta does every single day.
+Mia lives in Alameda with her husband, Rob, and their family.
+Her children are proud products of Alameda public schools.
+TeamMia@miabonta.com | (669) 237-2192 Powered by RUN! website builder Paid for by Mia Bonta for Assembly 2026, FPPC #1477774 c/o Deane & Co.
+1700 Tribute Rd, Ste 201, Sacramento, CA 95815 You need to enable JavaScript to run this app.

@@ -1,4 +1,14 @@
 [
-"https://facebook.com/MorseBillsforJustice",
-"https://secure.anedot.com/judge_morse-bills-4-msc/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/judge_morse-bills-4-msc/donate"
+},
+{
+"text": "Team@MorseBillsForJustice.com",
+"href": "mailto:Team@MorseBillsForJustice.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/MorseBillsforJustice/"
+}
 ]

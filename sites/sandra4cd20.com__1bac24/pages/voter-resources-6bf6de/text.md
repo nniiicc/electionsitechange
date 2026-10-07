@@ -1,15 +1,15 @@
-top of page
-Voter Resources
-Sandra believes her job starts before she's elected.
-Here are resources every CA-20 resident should have:
-Download the Guide to Health and Food Benefits
-Medi-Cal, CalFresh, IHSS, and Enhanced
-Care Management for the four counties of California's 20th Congressional District: Kern, Kings, Tulare, and Fresno
-Download the Guide to Health and Food Benefits for Kern County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management, a resource for residents of Kern County (Bakersfield, Ridgecrest, and Tehachapi), in
-California's 20th Congressional District
-Download the A Guide to Health and Food Benefits for Fresno County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management
-A resource for residents of Fresno County, the Fresno County portion of the district, in California's 20th Congressional District
-Download the Guide to Health and Food Benefits for Kings County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management, a resource for residents of Kings County in California's 20th Congressional District
-Download the Guide to Health and Food Benefits for Kings County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management, a resource for residents of Tulare County in California's
-20th Congressional District
-bottom of page
+top of page DONATE SUBSCRIBE Home Meet Sandra Issues Voter Resources Media Endorsements Events & Updates Volunteer Donate Contact More Use tab to navigate through the menu items.
+Voter Resources Sandra believes her job starts before she's elected.
+Here are resources every CA-20 resident should have: Register to Vote / Check Your Registration Find Your Polling Place Access MediCal Social Security Administration VA Benefits & Services Central Valley Regional Center Kern Regional Center CalABLE Download the Guide to Health and Food Benefits Medi-Cal, CalFresh, IHSS, and Enhanced Care Management for the four counties of California's 20th Congressional District: Kern, Kings, Tulare, and Fresno Download CA 20 Benefits Guide Download the Guide to Health and Food Benefits for Kern County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management , a resource for residents of Kern County (Bakersfield, Ridgecrest, and Tehachapi), in California's 20th Congressional District Download Guide for Kern County - CA 20 Download the A Guide to Health and Food Benefits for Fresno County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management A resource for residents of Fresno County, the Fresno County portion of the district, in California's 20th Congressional District Download Benefits Guide for Fresno - CA 20 Download the Guide to Health and Food Benefits for Kings County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management, a resource for residents of Kings County in California's 20th Congressional District Download Guide for Kings County - CA 20 Download the Guide to Health and Food Benefits for Kings County Medi-Cal, CalFresh, IHSS, and Enhanced Care Management , a resource for residents of Tulare County in California's 20th Congressional District Download Guide for Tulare County - CA 20 DONATE Sandra is not backed by corporate donors — she's backed by people like you.
+Every dollar Sandra raises goes directly toward reaching more voters across CA-20 — from Bakersfield to Ridgecrest to the Eastern Sierra.
+No contribution is too small.
+A grassroots candidate can only win with grassroots support.
+DONATE TO THE CAMPAIGN SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail.
+Join our mailing list Email * Subscribe By submitting your email, you give explicit consent to receive emails updates from Sandra Van Scotter for Congress.
+You can unsubscribe at any time via the link at the bottom of our emails. * Phone Sign up for SMS Text campaign updates.
+By providing your phone number, you consent to receive recurring text messages from Sandra Van Scotter for Congress about campaign updates, events, and volunteering.
+Msg & data rates may apply.
+Reply STOP to opt out.
+Submit Home Meet Sandra Issues Volunteer Donate Contact Terms & Conditions Privacy Policy Committee for Sandra Van Scotter for Congress FEC Committee ID C00922666 Questions or comments?
+Let us know!
+Email me directly at sandra@sandra 4cd20.com Sandra Van Scotter for Congress PO Box 1385 Ridgecrest, CA 93556 bottom of page

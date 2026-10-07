@@ -1,39 +1,210 @@
 [
-"https://app.oath.vote/cart?q=bengs",
-"https://bengsforsouthdakota.com/",
-"https://bengsforsouthdakota.com/contact-us",
-"https://bengsforsouthdakota.com/cookie-policy",
-"https://bengsforsouthdakota.com/get-involved",
-"https://bengsforsouthdakota.com/media-appearances",
-"https://bengsforsouthdakota.com/policy-positions",
-"https://bengsforsouthdakota.com/privacy-policy",
-"https://bengsforsouthdakota.com/terms-conditions",
-"https://bengsforsouthdakota.com/what-i-believe",
-"https://bengsforsouthdakota.com/what-i-stand-for",
-"https://bengsforsouthdakota.com/why-independent",
-"https://bengsforsouthdakota.substack.com/p/hey-america-can-i-borrow-67-billion",
-"https://bengsforsouthdakota.substack.com/p/im-declaring-independence-from-ai",
-"https://bengsforsouthdakota.substack.com/p/the-cycle-repeats-a-new-war-in-the",
-"https://bengsforsouthdakota.substack.com/p/the-mou-with-iran-is-over",
-"https://bengsforsouthdakota.substack.com/p/times-up-why-i-support-term-limits",
-"https://bsky.app/profile/thebigbengs.bsky.social",
-"https://dakotafreepress.com/2026/04/30/independent-bengs-best-at-petitioning-qualifies-for-us-senate-ballot",
-"https://facebook.com/BBengs1970",
-"https://ideas.repec.org/b/pup/pbooks/9836.html",
-"https://instagram.com/brianbengs?igsh=MTZ0c29xM295N2p1OA%3D%3D",
-"https://kotatv.com/2026/07/14/special-interview-independent-senate-candidate-brian-bengs-outlines-campaign-priorities-south-dakota-race",
-"https://policies.google.com/privacy",
-"https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx",
-"https://sdstandardnow.com/home/political-parties-dont-work-and-thats-why-bengs-is-the-best-choice",
-"https://secure.actblue.com/donate/blb_website",
-"https://secure.actblue.com/donate/brian-bengs-1",
-"https://secure.actblue.com/donate/winred",
-"https://secure.anedot.com/bengs-for-south-dakota/web",
-"https://secure.numero.ai/contribute/Brian-Bengs-for-Senate",
-"https://southdakotasearchlight.com/2026/06/22/theres-a-disturbance-in-the-force-of-south-dakota-politics",
-"https://substack.com/@bengsforsouthdakota?r=5kskrr",
-"https://substack.com/home/post/p-172312433",
-"https://threads.com/@brianbengs",
-"https://tiktok.com/@brianbengsforsd?_t=ZP-90p9S7vDFXS&_r=1",
-"https://x.com/BrianBengs"
+{
+"text": "Anedot",
+"href": "https://secure.anedot.com/bengs-for-south-dakota/web"
+},
+{
+"text": "Contact Us",
+"href": "https://bengsforsouthdakota.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/brian-bengs-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blb_website"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/brian-bengs-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.numero.ai/contribute/Brian-Bengs-for-Senate"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/brian-bengs-1"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.numero.ai/contribute/Brian-Bengs-for-Senate"
+},
+{
+"text": "Get Involved",
+"href": "https://bengsforsouthdakota.com/get-involved/"
+},
+{
+"text": "Independent Bengs Best at Petitioning, Qualifies for US Senate Ballot",
+"href": "https://dakotafreepress.com/2026/04/30/independent-bengs-best-at-petitioning-qualifies-for-us-senate-ballot/"
+},
+{
+"text": "Information and Resources",
+"href": "https://bengsforsouthdakota.com/what-i-stand-for#info-resources"
+},
+{
+"text": "Learn more",
+"href": "https://bengsforsouthdakota.com/what-i-believe/"
+},
+{
+"text": "News",
+"href": "https://bengsforsouthdakota.com/media-appearances/"
+},
+{
+"text": "Numero",
+"href": "https://secure.numero.ai/contribute/Brian-Bengs-for-Senate"
+},
+{
+"text": "Oath",
+"href": "https://app.oath.vote/cart?q=bengs"
+},
+{
+"text": "Policy Positions",
+"href": "https://bengsforsouthdakota.com/policy-positions/"
+},
+{
+"text": "Political parties don’t work — and that’s why Bengs is the best choice",
+"href": "https://www.sdstandardnow.com/home/political-parties-dont-work-and-thats-why-bengs-is-the-best-choice"
+},
+{
+"text": "Read Article",
+"href": "https://dakotafreepress.com/2026/04/30/independent-bengs-best-at-petitioning-qualifies-for-us-senate-ballot/"
+},
+{
+"text": "Read Article",
+"href": "https://southdakotasearchlight.com/2026/06/22/theres-a-disturbance-in-the-force-of-south-dakota-politics/"
+},
+{
+"text": "Read Article",
+"href": "https://www.sdstandardnow.com/home/political-parties-dont-work-and-thats-why-bengs-is-the-best-choice"
+},
+{
+"text": "Register to Vote",
+"href": "https://sdsos.gov/elections-voting/voting/register-to-vote/default.aspx"
+},
+{
+"text": "Special Interview: Independent Senate Candidate Brian Bengs outlines campaign priorities in South Dakota Race",
+"href": "https://www.kotatv.com/2026/07/14/special-interview-independent-senate-candidate-brian-bengs-outlines-campaign-priorities-south-dakota-race/"
+},
+{
+"text": "Store",
+"href": "https://store.bengsforsouthdakota.com/"
+},
+{
+"text": "There’s a disturbance in the force of South Dakota politics",
+"href": "https://southdakotasearchlight.com/2026/06/22/theres-a-disturbance-in-the-force-of-south-dakota-politics/"
+},
+{
+"text": "View all [image]",
+"href": "https://bengsforsouthdakota.com/media-appearances/"
+},
+{
+"text": "Volunteer",
+"href": "https://bengsforsouthdakota.com/get-involved/"
+},
+{
+"text": "Watch Video",
+"href": "https://www.kotatv.com/2026/07/14/special-interview-independent-senate-candidate-brian-bengs-outlines-campaign-priorities-south-dakota-race/"
+},
+{
+"text": "What I Believe",
+"href": "https://bengsforsouthdakota.com/what-i-believe/"
+},
+{
+"text": "What I Stand For",
+"href": "https://bengsforsouthdakota.com/what-i-stand-for/"
+},
+{
+"text": "Why Independent",
+"href": "https://bengsforsouthdakota.com/why-independent/"
+},
+{
+"text": "WinRed",
+"href": "https://secure.actblue.com/donate/winred"
+},
+{
+"text": "[image: Brian Bengs for U.S. Senate]",
+"href": "https://bengsforsouthdakota.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/BBengs1970/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://x.com/BrianBengs"
+},
+{
+"text": "[image: blue sky]",
+"href": "https://bsky.app/profile/thebigbengs.bsky.social"
+},
+{
+"text": "[image: email]",
+"href": "mailto:info@bengsforsouthdakota.com"
+},
+{
+"text": "[image: substack]",
+"href": "https://substack.com/@bengsforsouthdakota?r=5kskrr"
+},
+{
+"text": "[image: threads]",
+"href": "https://www.threads.com/@brianbengs"
+},
+{
+"text": "[image: tik tok]",
+"href": "https://www.tiktok.com/@brianbengsforsd?_t=ZP-90p9S7vDFXS&_r=1"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/brianbengs?igsh=MTZ0c29xM295N2p1OA%3D%3D"
+},
+{
+"text": "confirmed",
+"href": "https://ideas.repec.org/b/pup/pbooks/9836.html#:~:text=(Princeton%20University)-,Abstract,policy%20domains%20and%20time%20periods."
+},
+{
+"text": "here",
+"href": "https://bengsforsouthdakota.com/privacy-policy/"
+},
+{
+"text": "here",
+"href": "https://bengsforsouthdakota.com/terms-conditions/"
+},
+{
+"text": "https://bengsforsouthdakota.substack.com/p/hey-america-can-i-borrow-67-billion",
+"href": "https://bengsforsouthdakota.substack.com/p/hey-america-can-i-borrow-67-billion"
+},
+{
+"text": "https://bengsforsouthdakota.substack.com/p/im-declaring-independence-from-ai",
+"href": "https://bengsforsouthdakota.substack.com/p/im-declaring-independence-from-ai"
+},
+{
+"text": "https://bengsforsouthdakota.substack.com/p/the-cycle-repeats-a-new-war-in-the",
+"href": "https://bengsforsouthdakota.substack.com/p/the-cycle-repeats-a-new-war-in-the"
+},
+{
+"text": "https://bengsforsouthdakota.substack.com/p/the-mou-with-iran-is-over",
+"href": "https://bengsforsouthdakota.substack.com/p/the-mou-with-iran-is-over"
+},
+{
+"text": "https://bengsforsouthdakota.substack.com/p/times-up-why-i-support-term-limits",
+"href": "https://bengsforsouthdakota.substack.com/p/times-up-why-i-support-term-limits"
+},
+{
+"text": "https://substack.com/home/post/p-172312433",
+"href": "https://substack.com/home/post/p-172312433"
+},
+{
+"text": "learn about additional priorities",
+"href": "https://bengsforsouthdakota.com/policy-positions/"
+},
+{
+"text": "policies.google.com (opens in a new window)",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "press@bengsforsouthdakota.com",
+"href": "mailto:press@bengsforsouthdakota.com"
+}
 ]

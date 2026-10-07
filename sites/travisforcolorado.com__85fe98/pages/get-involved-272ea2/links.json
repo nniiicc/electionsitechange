@@ -1,12 +1,46 @@
 [
-"http://wix.com/templateslp/links",
-"https://facebook.com/travis.nelson.73113528",
-"https://politics.raisethemoney.com/en/tnelsonEVy2RpEI7dm6NjPfsZP30g",
-"https://travisforcolorado.com/",
-"https://travisforcolorado.com/endorsements",
-"https://travisforcolorado.com/get-involved",
-"https://travisforcolorado.com/last-ditch-homestea",
-"https://travisforcolorado.com/media",
-"https://travisforcolorado.com/meet-travis",
-"https://travisforcolorado.com/platform"
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/tnelsonEVy2RpEI7dm6NjPfsZP30g"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.travisforcolorado.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.travisforcolorado.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.travisforcolorado.com"
+},
+{
+"text": "LAST DITCH HOMESTEAD",
+"href": "https://www.travisforcolorado.com/last-ditch-homestea"
+},
+{
+"text": "MEDIA",
+"href": "https://www.travisforcolorado.com/media"
+},
+{
+"text": "MEET TRAVIS",
+"href": "https://www.travisforcolorado.com/meet-travis"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.travisforcolorado.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/travis.nelson.73113528"
+},
+{
+"text": "travisforcolorado@gmail.com",
+"href": "mailto:travisforcolorado@gmail.com"
+}
 ]

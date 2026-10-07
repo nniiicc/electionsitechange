@@ -1,9 +1,42 @@
 [
-"https://donation.c-esystems.com/campaign/friendsoftomandersen?referral=Website",
-"https://electtomandersen.com/",
-"https://electtomandersen.com/backgound",
-"https://electtomandersen.com/endorsements",
-"https://electtomandersen.com/get-involved",
-"https://electtomandersen.com/issues",
-"https://facebook.com/electtomandersen"
+{
+"text": "BACKGROUND",
+"href": "https://www.electtomandersen.com/backgound"
+},
+{
+"text": "DONATE",
+"href": "https://donation.c-esystems.com/campaign/friendsoftomandersen?referral=Website"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.electtomandersen.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electtomandersen.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electtomandersen.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electtomandersen.com/issues"
+},
+{
+"text": "Read More",
+"href": "https://www.electtomandersen.com/backgound"
+},
+{
+"text": "Read More",
+"href": "https://www.electtomandersen.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/electtomandersen"
+},
+{
+"text": "tom@electtomandersen.com",
+"href": "mailto:tom@electtomandersen.com"
+}
 ]

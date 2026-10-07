@@ -1,7 +1,11 @@
 {
  "description": "Official campaign website for Walt Brooks for State Representative",
  "final_url": "https://www.waltbrooks.com/home",
- "paid_for_by": null,
+ "fingerprint": "ef32f467d32f0741a45a0075a865a3d9b69ad578",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Walt Brooks for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

@@ -1,28 +1,122 @@
 [
-"http://nedlamont.com/absentee",
-"https://act.nedlamont.com/a/bs_em_lam_1225",
-"https://bsky.app/profile/nedlamont.com",
-"https://facebook.com/NedLamontCT",
-"https://instagram.com/nedlamont",
-"https://mobilize.us/nedforct",
-"https://nedlamont.com/",
-"https://nedlamont.com/Donate_By_Mail.pdf",
-"https://nedlamont.com/about",
-"https://nedlamont.com/accomplishments",
-"https://nedlamont.com/endorsements",
-"https://nedlamont.com/get-involved",
-"https://nedlamont.com/jobs",
-"https://nedlamont.com/news",
-"https://nedlamont.com/priorities",
-"https://nedlamont.com/privacy",
-"https://nedlamont.com/progressive-wins",
-"https://nedlamont.com/terms",
-"https://nedlamont.com/vote",
-"https://portal.ct.gov/-/media/sots/electionservices/early-voting/2026/early-voting-locations--november-3--2026.pdf",
-"https://portal.ct.gov/-/media/sots/electionservices/early-voting/ballot-drop-box-locations-7-24.pdf?rev=2ce5d34c1ef5453289f3b16ec34b4c12&hash=B4E8F7ED60E4C7E7F9E5391B79323388",
-"https://portal.ct.gov/sots/election-services/town-ballots/2026-november-town-election-ballots",
-"https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote",
-"https://portaldir.ct.gov/sots/LookUp.aspx",
-"https://tiktok.com/@nedlamont.ct",
-"https://x.com/NedLamont"
+{
+"text": "Donate",
+"href": "https://act.nedlamont.com/a/bs_em_lam_1225"
+},
+{
+"text": "Download this form",
+"href": "https://www.nedlamont.com/Donate_By_Mail.pdf"
+},
+{
+"text": "Make A Plan To VoteClick Here",
+"href": "https://www.nedlamont.com/vote"
+},
+{
+"text": "[image: Ned Lamont for Governor logo]",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nedlamont.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NedLamontCT"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/nedlamont/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@nedlamont.ct"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/NedLamont"
+},
+{
+"text": "about",
+"href": "https://www.nedlamont.com/about"
+},
+{
+"text": "accomplishments",
+"href": "https://www.nedlamont.com/accomplishments"
+},
+{
+"text": "are here",
+"href": "https://portal.ct.gov/-/media/sots/electionservices/early-voting/2026/early-voting-locations--november-3--2026.pdf"
+},
+{
+"text": "ballot drop box location here",
+"href": "https://portal.ct.gov/-/media/sots/electionservices/early-voting/ballot-drop-box-locations-7-24.pdf?rev=2ce5d34c1ef5453289f3b16ec34b4c12&hash=B4E8F7ED60E4C7E7F9E5391B79323388"
+},
+{
+"text": "click here",
+"href": "https://portal.ct.gov/sots/election-services/voter-information/where-and-how-do-i-vote"
+},
+{
+"text": "early voting location here",
+"href": "https://portal.ct.gov/-/media/sots/electionservices/early-voting/2026/early-voting-locations--november-3--2026.pdf"
+},
+{
+"text": "endorsements",
+"href": "https://www.nedlamont.com/endorsements"
+},
+{
+"text": "events",
+"href": "https://www.mobilize.us/nedforct/"
+},
+{
+"text": "get involved",
+"href": "https://www.nedlamont.com/get-involved"
+},
+{
+"text": "home",
+"href": "https://www.nedlamont.com/"
+},
+{
+"text": "https://portaldir.ct.gov/sots/LookUp.aspx",
+"href": "https://portaldir.ct.gov/sots/LookUp.aspx"
+},
+{
+"text": "info@nedlamont.com",
+"href": "mailto:info@nedlamont.com"
+},
+{
+"text": "jobs",
+"href": "https://www.nedlamont.com/jobs"
+},
+{
+"text": "nedlamont.com/absentee",
+"href": "http://nedlamont.com/absentee"
+},
+{
+"text": "news",
+"href": "https://www.nedlamont.com/news"
+},
+{
+"text": "priorities",
+"href": "https://www.nedlamont.com/priorities"
+},
+{
+"text": "privacy policy",
+"href": "https://www.nedlamont.com/privacy"
+},
+{
+"text": "progressive wins",
+"href": "https://www.nedlamont.com/progressive-wins"
+},
+{
+"text": "sample ballot here",
+"href": "https://portal.ct.gov/sots/election-services/town-ballots/2026-november-town-election-ballots"
+},
+{
+"text": "terms",
+"href": "https://www.nedlamont.com/terms"
+},
+{
+"text": "vote",
+"href": "https://www.nedlamont.com/vote"
+}
 ]

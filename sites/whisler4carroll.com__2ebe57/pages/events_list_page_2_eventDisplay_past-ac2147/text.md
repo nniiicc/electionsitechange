@@ -1,11 +1,13 @@
-10 events found.
-Events
-- Marsha Herbert for BoE Fundraiser Maggie's Restaurant 310 E Green St, Westminster, MD, United States
-- Cleveland Friday for BoE Fundraiser American Ice Cafe 62 W Main St, Westminster, MD, United States
-- Tri-District GOP Club Meeting Spargos Restaurant 3165 Main St, Manchester, MD, United States
-- Carroll Republican Victory Johansson's Dining House 4 W Main St, Westminster, MD, United States Featuring the 2026 Board of Education candidates
-- AgriBreakfast Baugher's Restaurant 289 W Main St, Westminster, MD, United States
-- Carroll Business Networking Group Tony's Japanese Restaurant 1213 Liberty Rd, Eldersburg, MD, United States
-- Republican Club of Carroll County Meeting Westminster Senior Center 125 Stoner Ave, Westminster, MD, United States
-- Pickle Festival Flood Zone Marketplace & Brewery 50 N Main St, Union Bridge, MD, United States
-- South Carroll GOP Club Rincon Italian Grill 577 Johnsville Rd, Sykesville, MD, United States
+Skip to content Home Steve Events Press and News Endorsements DONATE 10 events found.
+Events Events Search and Views Navigation Search Enter Keyword.
+Search for Events by Keyword.
+Find Events Event Views Navigation List List Month #ago 3/25/2026 March 25 - 4/14/2026 April 14 Select date.
+March 2026 Wed 25 Marsha Herbert for BoE Fundraiser March 25 @ 6:00 pm - 9:00 pm Maggie's Restaurant 310 E Green St, Westminster, MD, United States Sat 28 Cleveland Friday for BoE Fundraiser March 28 @ 2:00 pm - 5:00 pm American Ice Cafe 62 W Main St, Westminster, MD, United States Mon 30 Tri-District GOP Club Meeting March 30 @ 6:00 pm - 9:00 pm Spargos Restaurant 3165 Main St, Manchester, MD, United States Tue 31 Carroll Republican Victory March 31 @ 7:00 pm - 10:00 pm Johansson's Dining House 4 W Main St, Westminster, MD, United States Featuring the 2026 Board of Education candidates April 2026 Thu 2 AgriBreakfast April 2 @ 8:00 am - 11:00 am Baugher's Restaurant 289 W Main St, Westminster, MD, United States Mon 6 Carroll Business Networking Group April 6 @ 12:00 pm - 2:00 pm Tony's Japanese Restaurant 1213 Liberty Rd, Eldersburg, MD, United States Tue 7 Republican Club of Carroll County Meeting April 7 @ 6:30 pm - 10:00 pm Westminster Senior Center 125 Stoner Ave, Westminster, MD, United States Sat 11 Pickle Festival April 11 @ 12:00 pm - 5:00 pm Flood Zone Marketplace & Brewery 50 N Main St, Union Bridge, MD, United States Mon 13 Frederick County Conservative Club April 13 @ 6:00 pm - 10:00 pm Tue 14 South Carroll GOP Club April 14 @ 6:30 pm - 9:00 pm Rincon Italian Grill 577 Johnsville Rd, Sykesville, MD, United States Previous Events #ago Next Events Subscribe to calendar Google Calendar iCalendar Outlook 365 Outlook Live Export .ics file Export Outlook .ics file Get In Touch!
+410.963.7066 410.963.7066 6766 Ridge Road, Marriottsville, MD 21104 6766 Ridge Road Marriottsville, MD 21104 steve@Whisler4Carroll.com steve@Whisler4Carroll.com Receive Updates Keep In Touch Name (Required) First Last Email (Required) Phone Consent I have read and agree to the Terms of Service and Privacy Policy By providing my mobile number I consent to receive periodic text messages from Friends of Steve Whisler.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms of Service and Privacy Policies.
+Keep In Touch Click Here to Leave Your Information Join Us On Social Media Additional Resources Privacy Policy Terms of Service Authorized by: Friends of Steve Whisler Joe Tier, Treasurer Website Design and Hosting by Technolegs © # Friends of Steve Whisler; Joe Tier, Treasurer - All Rights Reserved.
+Scroll To Top

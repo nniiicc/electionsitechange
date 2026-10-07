@@ -1,4 +1,4 @@
-When we talk about family out here, we aren't talking about a line item in a government budget.
+Skip to main content Greg Leman Home Issues Volunteer Donate Home Issues Volunteer Donate Montana Common Sense Family × When we talk about family out here, we aren't talking about a line item in a government budget.
 We are talking about the most fundamental unit of our society and the people we would do anything to protect.
 Your primary responsibilities as a parent don't change.
 Your job is to protect your family, provide for them, and make the decisions about how your children will be raised.
@@ -13,4 +13,6 @@ Government needs to respect the boundaries of the home and let parents do their 
 We believe that we have the right to defend our homes, provide for our kids, and decide how they are raised.
 That's Montana common sense.
 These value posts were originally shared on Facebook.
-You can follow the entire series at facebook.com/leman4mt.
+You can follow the entire series at facebook.com/leman4mt . ← Back to Montana Common Sense Donate to the Campaign Contact Montana House District 60 Quick Links Home Issues Volunteer Donate Follow Paid for by Greg Leman for Montana -R- PO Box 494 Gallatin Gateway, MT 59730 © # Greg Leman for Montana.
+All rights reserved.
+Terms of Service · Privacy Policy

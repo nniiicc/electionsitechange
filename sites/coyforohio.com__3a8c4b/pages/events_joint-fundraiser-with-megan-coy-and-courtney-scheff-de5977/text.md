@@ -1,8 +1,1 @@
-Paid for by Friends of Megan Coy
-Previous
-Previous
-September 12
-North Royalton Canvass with Megan Coy
-Next
-Next
-September 19
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Joint Fundraiser with Megan Coy and Courtney Scheff Sunday, September 13, 2026 2:00 PM 4:00 PM Google Calendar ICS Previous Previous September 12 North Royalton Canvass with Megan Coy Next Next September 19 Olmsted Falls Town Hall with Megan Coy, Brian Poindexter and Courtney Scheff Paid for by Friends of Megan Coy

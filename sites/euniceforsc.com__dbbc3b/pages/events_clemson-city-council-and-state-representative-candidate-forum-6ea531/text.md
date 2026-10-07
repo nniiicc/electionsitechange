@@ -1,9 +1,3 @@
-Back to All Events
-Eunice and other candidates will be at the Clemson City Council and State Representative Candidate Forum at Abel Baptist Church in Clemson on Thursday, October 15.
-Previous
-Previous
-October 12
-Democratic Women of Greenville County Monthly Meeting
-Next
-Next
-October 17
+0 Skip to Content About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Open Menu Close Menu About Ideas Support Events Vote News DONATE Back to All Events Clemson City Council and State Representative Candidate Forum Thursday, October 15, 2026 6:00 PM 8:00 PM Abel Baptist Church 150 Abel Road Clemson, South Carolina, 29631 United States (map) Google Calendar ICS Eunice and other candidates will be at the Clemson City Council and State Representative Candidate Forum at Abel Baptist Church in Clemson on Thursday, October 15.
+Previous Previous October 12 Democratic Women of Greenville County Monthly Meeting Next Next October 17 Pastors United for Action Unite Our Vote Rally and Candidate Forum Eunice for SC PO Box 8 Central SC 29630-0008 Paid for by Eunice for SC.
+Privacy Policy DONATE

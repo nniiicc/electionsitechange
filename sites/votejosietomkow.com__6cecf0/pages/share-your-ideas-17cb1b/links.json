@@ -1,5 +1,18 @@
 [
-"https://votejosietomkow.com/",
-"https://votejosietomkow.com/share-your-ideas",
-"https://votejosietomkow.com/stopflooding"
+{
+"text": "Home",
+"href": "https://www.votejosietomkow.com"
+},
+{
+"text": "Share Your Ideas",
+"href": "https://www.votejosietomkow.com/share-your-ideas/"
+},
+{
+"text": "Stop Flooding",
+"href": "https://www.votejosietomkow.com/stopflooding/"
+},
+{
+"text": "[image: Josie Tomkow]",
+"href": "https://www.votejosietomkow.com/"
+}
 ]

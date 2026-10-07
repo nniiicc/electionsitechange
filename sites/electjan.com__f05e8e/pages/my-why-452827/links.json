@@ -1,7 +1,22 @@
 [
-"https://electjan.com/",
-"https://electjan.com/about",
-"https://electjan.com/cart",
-"https://electjan.com/contact",
-"https://electjan.com/my-why"
+{
+"text": "0",
+"href": "https://www.electjan.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electjan.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electjan.com/contact"
+},
+{
+"text": "My Why",
+"href": "https://www.electjan.com/my-why"
+},
+{
+"text": "[image: Elect Jan]",
+"href": "https://www.electjan.com/"
+}
 ]

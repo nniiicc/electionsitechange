@@ -1,5 +1,4 @@
-Meet Greg Landsman
-GREG IS RUNNING FOR REELECTION TO KEEP FIGHTING FOR CHILDREN AND FAMILIES HERE AT HOME.
+0 Skip to Content Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home Folder: About Back Greg Landsman The Issues Our Supporters Folder: Media Back Releases Media Videos In the News Endorsements Folder: Vote Back Voter Info The District Shop Donate Meet Greg Landsman GREG IS RUNNING FOR REELECTION TO KEEP FIGHTING FOR CHILDREN AND FAMILIES HERE AT HOME.
 A former public school teacher, Greg Landsman has spent his career fighting for working families.
 Greg led the Preschool Promise initiative, which now provides two years of quality preschool for Cincinnati's three- and four-year-olds, and spent five years on Cincinnati City Council.
 Today, Greg proudly represents Southwest Ohio in Congress, where he continues to champion what matters most to those at home: protecting our freedoms, lowering costs, and making it easier to raise a family.
@@ -16,6 +15,8 @@ As a member of the Problem Solvers Caucus and Ranking Member of the House Small 
 Greg led the fight to pass the Social Security Fairness Act, helping secure benefits nearly three million public retirees — including teachers, firefighters, and police officers — had been unfairly denied for over 40 years.
 He was there at the White House when it was signed into law alongside Melissa Johnson, a local Warren County teacher whose advocacy helped drive the effort.
 Greg has also introduced bipartisan legislation to lower prescription drug costs, protect families from rising energy bills tied to AI data centers, and to stop public officials from profiting off their positions through prediction market betting.
+Greg knows that true public servants listen to and participate in their communities; that's exactly why he continues to hold regular town halls across the district and has resolved thousands of constituent cases since taking office.
 Now, in a newly redrawn district that stretches from Cincinnati through Warren and Clinton Counties, Greg is running for reelection to keep delivering tangible results for Southwest Ohio families; no matter their zip code or party.
 Greg and his wife, Sarah, live in Mt.
 Washington with their two children, Maddie and Elijah.
+Donate Contact Us info@landsmanforcongress.com PO Box 68033 Cincinnati, OH 45206 Paid for by Landsman for Congress Privacy Policy

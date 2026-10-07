@@ -1,9 +1,5 @@
-April 7, 2026
-| 7PM - 8PM
-Columbia County Democratic Party
-From the chair:
-“Each candidate will have a total of 20 minutes.
-We ask you leave 10 of those 20 minutes to answer questions.
+Donate Menu Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map April 7, 2026 | 7PM - 8PM Columbia County Democratic Party From the chair: “Each candidate will have a total of # minutes.
+We ask you leave 10 of those # minutes to answer questions.
 “Please address the following topics in you opening remarks: biographical information including educational, career and personal interest; why you are running; priority issues; your understanding of, and position on the proposed NEXT Energy facility at Port of St.
-Helens Port Westward property.”
-Other Events
+Helens Port Westward property.” ← Back To Events Other Events Media September 21, 2026 Willamette Week Interview Fall 4:00 PM See event info Another tag May 14, 2026 Banks School District Budget Committee 6:00 PM See event info Voter Outreach May 13, 2026 Community Forum with Oregon Gray Panthers 6:00 PM See event info Stay up to date Follow me on the campaign trail!
+Email Subscribe Home Meet Candidate Why I’m Running Darcey Edwards Issue List Legislating Going Deep Voting Info Volunteer Events Fun Site Map Donate Accessibility Statement Contact Site Map Campaign Disclaimer TBD 123 Main Street Anytown, OR 12345 Going Deep for Oregon © #

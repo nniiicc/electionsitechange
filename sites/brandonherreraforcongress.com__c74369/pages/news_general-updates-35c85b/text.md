@@ -1,21 +1,17 @@
-General Updates
-Update: My Election is in 52 Days
-The campaign against Tony Gonzales is coming down to the wire, here’s how the race is looking!
-Merry Christmas!
+Skip to content See Our Event Schedule Volunteer Donate Open main menu Issues Border Security Economy Serving Veterans Second Amendment Protecting Women’s Sports Pro-Life Term Limits Education Foreign Policy Make America Healthy Again Healthcare Supporting Trump Vote News General Updates Press Releases Events Endorsements View Endorsements Veteran Endorsement Volunteer Donate Donate Home Meet Brandon On The Issues Campaign News Upcoming Events Endorsements Veteran Endorsement Voting Information Donate to help the campaign Volunteer for the campaign Follow the campaign on Facebook Follow the campaign on Instagram General Updates General Updates SHOT Show 2026 Fundraiser Brings Second Amendment Community Together to Support Brandon Herrera Brandon Herrera’s congressional campaign is hosting a major fundraising event tonight, Tuesday, January 20th, 2026, at the Trump Las Vegas during SHOT Show 2026—the world’s largest firearms industry trade show.
+The event is bringing together Second Amendment advocates, industry leaders, and grassroots supporters from across the country during one of the most significant gatherings in […] Read More Posted January 20, 2026 General Updates SHOT Show 2026 Fundraiser Brings Second Amendment Community Together to Support Brandon Herrera Brandon Herrera’s congressional campaign is hosting a major fundraising event tonight, Tuesday, January 20th, 2026, at the Trump Las Vegas during SHOT Show 2026—the world’s largest firearms industry trade show.
+The event is bringing together Second Amendment advocates, industry leaders, and grassroots supporters from across the country during one of the most significant gatherings in […] Read More Posted January 20, 2026 General Updates Update: My Election is in # Days The campaign against Tony Gonzales is coming down to the wire, here’s how the race is looking!
+Read More Posted January 10, 2026 General Updates Merry Christmas!
 Wishing you and your family a season filled with joy, peace, and time with those you love.
 May the new year bring hope, gratitude, and continued blessings to our community.
-Brandon Herrera on the Issues – Foreign Aid, Gun Violence, and More
-This was the speech and Q&A Brandon recently did at Texas A&M, answering direct questions about a multitude of policy related issues.
-If you’d like to be a part of making this election a landslide success, you can volunteer or donate here: https://brandonherreraforcongress.com/donate
-Veterans Day
-Brandon Herrera’s volunteer army has been honoring our Veterans all weekend!
+Read More Posted December 24, 2025 General Updates Brandon Herrera on the Issues – Foreign Aid, Gun Violence, and More This was the speech and Q&A Brandon recently did at Texas A&M, answering direct questions about a multitude of policy related issues.
+If you’d like to be a part of making this election a landslide success, you can volunteer or donate here: https://brandonherreraforcongress.com/donate Read More Posted November 14, 2025 General Updates Veterans Day Brandon Herrera’s volunteer army has been honoring our Veterans all weekend!
 Thank you for your service!
-Running For Congress – The First 30 Days
-A Message from Brandon Thank you to everyone for your outpouring of support so far!
+Read More Posted November 12, 2025 General Updates Running For Congress – The First 30 Days A Message from Brandon Thank you to everyone for your outpouring of support so far!
 This campaign is wasting no time getting into gear, and the response has been incredible.
 We have more momentum, better fundraising, more resources, and higher odds than ever before, and it’s all because of you.
-I have no doubt that […]
-I’m Running For Congress
-In the 1976 film Rocky, despite what people might remember, Sylvester Stallone’s character, Rocky Balboa, doesn’t actually win in the climax of the film.
+I have no doubt that […] Read More Posted October 22, 2025 General Updates I’m Running For Congress In the 1976 film Rocky, despite what people might remember, Sylvester Stallone’s character, Rocky Balboa, doesn’t actually win in the climax of the film.
 Instead, everyone is impressed that, despite going up against the current champion, this rough-around-the-edges everyman goes the distance, beating everyone’s expectations and almost winning.
-In fact, it’s not until the rematch […]
+In fact, it’s not until the rematch […] Read More Posted August 9, 2025 Upcoming Events Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 10th, 2026 at 10:00 am CST Sign Wave + Sign Pickup Hosted by Brandon Herrera Saturday, October 17th, 2026 at 10:00 am CST Bexar County Town Hall – Parker’s Ice Cream Monday, October 19th, 2026 at 11:00 am CST Campaign Merch No recent news available.
+Get Email Updates Subscribe Home Issues Vote News Events Volunteer Donate Paid for by the Brandon Herrera Victory Committee A Joint Fundraising Committee Including Brandon Herrera for Congress and BRANDON PAC Click here to read our joint fundraising notice.
+Brandon Herrera For Congress 11844 Bandera Rd, Box 499, Helotes, TX 78023 info@brandonherreraforcongress.com Phone: (210) 940-9274

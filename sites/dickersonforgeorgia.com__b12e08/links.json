@@ -1,10 +1,46 @@
 [
-"http://instagram.com/dickersonforgeorgia",
-"https://dickersonforgeorgia.com/",
-"https://dickersonforgeorgia.com/about",
-"https://dickersonforgeorgia.com/blog",
-"https://dickersonforgeorgia.com/contact",
-"https://dickersonforgeorgia.com/food-resources",
-"https://dickersonforgeorgia.com/sms-mms-privacy-policy",
-"https://facebook.com/DickersonforGeorgia"
+{
+"text": "About",
+"href": "https://www.dickersonforgeorgia.com/about"
+},
+{
+"text": "Blog",
+"href": "https://www.dickersonforgeorgia.com/blog"
+},
+{
+"text": "Community Food Resources",
+"href": "https://www.dickersonforgeorgia.com/food-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.dickersonforgeorgia.com/contact"
+},
+{
+"text": "Contact us",
+"href": "https://www.dickersonforgeorgia.com/"
+},
+{
+"text": "Home",
+"href": "https://www.dickersonforgeorgia.com/"
+},
+{
+"text": "JOIN THE TEAM! →",
+"href": "https://www.dickersonforgeorgia.com/#FORM"
+},
+{
+"text": "MY FAMILY FIRST RECORD →",
+"href": "https://www.dickersonforgeorgia.com/#ISSUES"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.dickersonforgeorgia.com/sms-mms-privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/dickersonforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DickersonforGeorgia"
+}
 ]

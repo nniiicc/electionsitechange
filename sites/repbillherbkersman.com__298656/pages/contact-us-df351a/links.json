@@ -1,16 +1,66 @@
 [
-"https://buy.stripe.com/dR603k7pp8RlbQY9AA",
-"https://facebook.com/repbillherbkersman",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/billherbkersman",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://repbillherbkersman.com/",
-"https://repbillherbkersman.com/about-bill",
-"https://repbillherbkersman.com/contact-us",
-"https://repbillherbkersman.com/issues",
-"https://repbillherbkersman.com/legislation",
-"https://repbillherbkersman.com/news",
-"https://repbillherbkersman.com/resources",
-"https://x.com/HerbkersmanBill"
+{
+"text": "(843) 255-2264",
+"href": "tel:8432552264"
+},
+{
+"text": "About Bill",
+"href": "https://repbillherbkersman.com/about-bill"
+},
+{
+"text": "Contact Us",
+"href": "https://repbillherbkersman.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://buy.stripe.com/dR603k7pp8RlbQY9AA"
+},
+{
+"text": "Home",
+"href": "https://repbillherbkersman.com/"
+},
+{
+"text": "Issues",
+"href": "https://repbillherbkersman.com/issues"
+},
+{
+"text": "Legislation",
+"href": "https://repbillherbkersman.com/legislation"
+},
+{
+"text": "News",
+"href": "https://repbillherbkersman.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Resources",
+"href": "https://repbillherbkersman.com/resources"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Rep. Bill Herbkersman]",
+"href": "https://repbillherbkersman.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/repbillherbkersman/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billherbkersman"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/HerbkersmanBill"
+}
 ]

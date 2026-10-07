@@ -1,38 +1,150 @@
 [
-"https://314action.org/",
-"https://arizonalist.org/",
-"https://aznurse.org/",
-"https://cwa7019.org/",
-"https://emilyslist.org/",
-"https://facebook.com/AmericanYouthf1",
-"https://facebook.com/traversforaz",
-"https://momsdemandaction.org/about",
-"https://newpolitics.org/",
-"https://now.org/",
-"https://pffaz.org/",
-"https://phoenix.gov/district7/bio",
-"https://phoenix.gov/mayor",
-"https://secure.actblue.com/donate/traversforaz",
-"https://secure.actblue.com/donate/traversforaz?amount=10",
-"https://secure.actblue.com/donate/traversforaz?amount=100",
-"https://secure.actblue.com/donate/traversforaz?amount=1000",
-"https://secure.actblue.com/donate/traversforaz?amount=25",
-"https://secure.actblue.com/donate/traversforaz?amount=250",
-"https://secure.actblue.com/donate/traversforaz?amount=50",
-"https://secure.actblue.com/donate/traversforaz?amount=500",
-"https://stanton.house.gov/",
-"https://tempe.gov/government/mayor-and-city-council/corey-d-woods-mayor",
-"https://tempeunion.org/domain/33",
-"https://traversforaz.com/",
-"https://traversforaz.com/endorsements",
-"https://traversforaz.com/gallery",
-"https://traversforaz.com/get-involved",
-"https://traversforaz.com/issues",
-"https://traversforaz.com/meet-stacey",
-"https://traversforaz.com/voter-info",
-"https://traversforaz.com/why-im-running",
-"https://turnoutpac.org/",
-"https://twitter.com/traversforaz?s=11",
-"https://ufcw99.com/",
-"https://votevets.org/"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=500"
+},
+{
+"text": "$#,#",
+"href": "https://secure.actblue.com/donate/traversforaz?amount=1000"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/traversforaz"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://traversforaz.com/endorsements"
+},
+{
+"text": "GAllery",
+"href": "https://traversforaz.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://traversforaz.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://traversforaz.com/issues"
+},
+{
+"text": "Meet Stacey",
+"href": "https://traversforaz.com/meet-stacey"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/traversforaz"
+},
+{
+"text": "Voter Info",
+"href": "https://traversforaz.com/voter-info"
+},
+{
+"text": "Why I'm Running",
+"href": "https://traversforaz.com/why-im-running"
+},
+{
+"text": "[image: Stacey Travers for AZ House]",
+"href": "https://traversforaz.com/"
+},
+{
+"text": "[image]",
+"href": "https://314action.org/"
+},
+{
+"text": "[image]",
+"href": "https://momsdemandaction.org/about/"
+},
+{
+"text": "[image]",
+"href": "https://now.org/"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/traversforaz?s=11"
+},
+{
+"text": "[image]",
+"href": "https://ufcw99.com"
+},
+{
+"text": "[image]",
+"href": "https://votevets.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.arizonalist.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.aznurse.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.cwa7019.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.emilyslist.org"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/AmericanYouthf1/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/traversforaz"
+},
+{
+"text": "[image]",
+"href": "https://www.newpolitics.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.pffaz.org"
+},
+{
+"text": "[image]",
+"href": "https://www.turnoutpac.org"
+},
+{
+"text": "[image]CongresswomanYassamin Ansari",
+"href": "https://www.phoenix.gov/district7/bio"
+},
+{
+"text": "[image]Mayor - City of PhoenixKate Gallego",
+"href": "https://www.phoenix.gov/mayor"
+},
+{
+"text": "[image]Mayor of TempeCorey Woods",
+"href": "https://www.tempe.gov/government/mayor-and-city-council/corey-d-woods-mayor"
+},
+{
+"text": "[image]President TUHSDArmando Montero",
+"href": "https://www.tempeunion.org/domain/33"
+},
+{
+"text": "[image]U.S. CongressmanGreg Stanton",
+"href": "https://stanton.house.gov/"
+}
 ]

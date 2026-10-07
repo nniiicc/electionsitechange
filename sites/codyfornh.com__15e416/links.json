@@ -1,16 +1,62 @@
 [
-"https://codyfornh.com/",
-"https://codyfornh.com/contact",
-"https://codyfornh.com/endorsements",
-"https://codyfornh.com/get-involved",
-"https://codyfornh.com/meet-cody",
-"https://codyfornh.com/news",
-"https://codyfornh.com/newsletter",
-"https://codyfornh.com/priorities",
-"https://facebook.com/CODYFORNH",
-"https://facebook.com/codyfornh",
-"https://instagram.com/CODYFORNH",
-"https://instagram.com/codyfornh",
-"https://secure.actblue.com/donate/cody-york-2",
-"https://wordpress.org/"
+{
+"text": "Contact",
+"href": "https://codyfornh.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cody-york-2"
+},
+{
+"text": "Endorsements",
+"href": "https://codyfornh.com/endorsements/"
+},
+{
+"text": "FACEBOOK",
+"href": "https://facebook.com/CODYFORNH"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/codyfornh/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://codyfornh.com/get-involved/"
+},
+{
+"text": "INSTAGRAM",
+"href": "https://instagram.com/CODYFORNH"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/codyfornh/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://codyfornh.com/meet-cody/"
+},
+{
+"text": "Meet Cody",
+"href": "https://codyfornh.com/meet-cody/"
+},
+{
+"text": "News",
+"href": "https://codyfornh.com/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://codyfornh.com/newsletter/"
+},
+{
+"text": "Priorities",
+"href": "https://codyfornh.com/priorities/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org"
+},
+{
+"text": "[image: Cody for New Hampshire]",
+"href": "https://codyfornh.com/"
+}
 ]

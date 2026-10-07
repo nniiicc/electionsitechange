@@ -1,5 +1,4 @@
-LET’S KEEP BRENDA WORKING FOR US
-Brenda Stanley is serving her second term in the State Senate representing the citizens of District 42.
+Press Kit Facebook Home About Facebook Feed Get Involved Contact Donate Select Page LET’S KEEP BRENDA WORKING FOR US Brenda Stanley is serving her second term in the State Senate representing the citizens of District 42.
 Her reputation for honesty, fairness, and dedication to doing the right thing, is unwavering.
 Brenda Stanley learned the lessons of faith, hard work, determination and conservative values early in life, and as a result, Brenda has achieved many milestones in her professional career.
 She served as Principal at Cleveland Bailey Elementary School in the Mid-Del School District from 1996 to 2006, and Principal at Westfall Elementary School in the Choctaw/Nicoma Park School District from 2006-2016.
@@ -11,7 +10,7 @@ She has been an active member of Meadowood Baptist Church for over 30 years.
 Help Brenda Win!
 Brenda will represent Senate District 42's values and beliefs in the State Senate.
 We need Brenda to help get Oklahoma moving in the right direction!
-State Voter Tool
-Where do I vote?
+Contribute State Voter Tool Where do I vote?
 Can I get an absentee ballot?
 What are the registration deadlines?
+State Voter Tool Facebook Designed by Elegant Themes | Powered by WordPress Authorized and Paid for by Brenda Stanley for State Senate 2026

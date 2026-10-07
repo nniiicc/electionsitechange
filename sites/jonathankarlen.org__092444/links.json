@@ -1,18 +1,86 @@
 [
-"https://cart/",
-"https://facebook.com/KarlenForHD96",
-"https://instagram.com/rep.karlen",
-"https://jonathankarlen.org/",
-"https://jonathankarlen.org/Home",
-"https://jonathankarlen.org/about-jonathan",
-"https://jonathankarlen.org/contact-jonathan",
-"https://jonathankarlen.org/housedistrict96",
-"https://jonathankarlen.org/housedistrict98",
-"https://jonathankarlen.org/issues",
-"https://jonathankarlen.org/legislative-accomplishments",
-"https://jonathankarlen.org/news",
-"https://jonathankarlen.org/privacy-policy",
-"https://linkedin.com/in/jonathan-karlen",
-"https://secure.actblue.com/donate/jonathan-karlen-for-montana-1",
-"https://twitter.com/KarlenforHD98"
+{
+"text": "About Jonathan",
+"href": "https://jonathankarlen.org/about-jonathan"
+},
+{
+"text": "Contact",
+"href": "https://jonathankarlen.org/contact-jonathan"
+},
+{
+"text": "Contact Jonathan",
+"href": "https://jonathankarlen.org/contact-jonathan"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jonathan-karlen-for-montana-1"
+},
+{
+"text": "District Info",
+"href": "https://jonathankarlen.org/housedistrict98"
+},
+{
+"text": "District Information",
+"href": "https://jonathankarlen.org/housedistrict98"
+},
+{
+"text": "Home",
+"href": "https://jonathankarlen.org/Home"
+},
+{
+"text": "In the News",
+"href": "https://jonathankarlen.org/news"
+},
+{
+"text": "Legislative Accomplishments",
+"href": "https://jonathankarlen.org/legislative-accomplishments"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jonathankarlen.org/privacy-policy"
+},
+{
+"text": "See a district map",
+"href": "https://jonathankarlen.org/housedistrict96"
+},
+{
+"text": "[image: Rep. Jonathan Karlen]",
+"href": "https://jonathankarlen.org"
+},
+{
+"text": "[image]",
+"href": "https://jonathankarlen.org/about-jonathan"
+},
+{
+"text": "[image]",
+"href": "https://jonathankarlen.org/housedistrict96"
+},
+{
+"text": "[image]",
+"href": "https://jonathankarlen.org/issues"
+},
+{
+"text": "[no text]",
+"href": "emailto:jonathan.karlen@legmt.gov"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/KarlenforHD98"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KarlenForHD96/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rep.karlen/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jonathan-karlen/"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

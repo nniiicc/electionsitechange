@@ -1,3 +1,5 @@
-South Dakota Medical Marijuana Oversight Committee
-I was at the capital recently for the last South Dakota Medical Marijuana Oversight Committee meeting for the year.
-As your Representative for District 33, I was glad to be able to be on this committee so that District 33 is represented and has…
+Help me get my name out to Voters!
+Consider donating today!
+Menu Home Taxpayers Businesses Agriculture News About Curt More About Curt Contact Curt District 33 Map Month: December 2023 South Dakota Medical Marijuana Oversight Committee December 4, 2023 | No Comments | News I was at the capital recently for the last South Dakota Medical Marijuana Oversight Committee meeting for the year.
+As your Representative for District 33, I was glad to be able to be on this committee so that District 33 is represented and has… Read more → Search Search Recent Posts Happy 4th of July Honoring my Father and All Who Served This Memorial Day Dusty Johnson’s roundtable discussion on his Safer South Dakota initiative Honoring our Veterans Curt Massie Re-Elected to the SD House in District 33 Recent Comments No comments to show.
+Archives July 2026 May 2026 April 2026 November 2025 January 2025 November 2024 June 2024 December 2023 November 2023 October 2023 February 2023 December 2022 November 2022 September 2022 June 2022 May 2022 Categories News Uncategorized Taxpayers Businesses Agriculture Contact Curt District 33 Map Phone: 605-389-7345 Email: Curt.Massie@sdlegislature.gov Address: 8041 Clarkson Rd, Rapid City, SD 57702 Copyright # by Curt Massie for SD, All Right Reserved - Paid for by Curt Massie for SD

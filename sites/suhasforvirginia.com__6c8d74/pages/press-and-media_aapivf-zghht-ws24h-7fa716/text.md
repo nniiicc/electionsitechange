@@ -1,18 +1,10 @@
-Senator Subramanyam Decries Supreme Court Decision to Overturn Bump Stock Ban
-Subramanyam: “Today’s Hyper-Partisan Supreme Court Decision…Undermines Our Safety”
-Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District, released a statement criticizing today’s decision overturning a Trump administration regulation that banned the use of bump stocks nationwide after the 2017 mass shooting at the Route 91 Music Festival in Las Vegas.
+0 Skip to Content Home Priorities Press and Media Volunteer Contribute Open Menu Close Menu Contribute Home Priorities Press and Media Volunteer Open Menu Close Menu Home Priorities Press and Media Volunteer Contribute Senator Subramanyam Decries Supreme Court Decision to Overturn Bump Stock Ban Jun 14 Written By Suhas for Virginia Subramanyam: “Today’s Hyper-Partisan Supreme Court Decision…Undermines Our Safety” Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District, released a statement criticizing today’s decision overturning a Trump administration regulation that banned the use of bump stocks nationwide after the 2017 mass shooting at the Route 91 Music Festival in Las Vegas.
 Subramanyam issued the following statement: “Today’s hyper-partisan Supreme Court decision overturning a commonsense gun violence prevention measure undermines our safety and unnecessarily endangers Americans.
 In the General Assembly, I've led the fight to protect children and families from gun violence - and I'll do the same in Congress.
-We should not have to lose more lives for this to be law, and Congress must act.”
-Bump stocks convert otherwise legal semi-automatic weapons into illegal machine guns by making it functionally easy for multiple shots to be fired at the single pull of a trigger.
-Subramanyam was the primary author of SB 273, which would establish a 5 day firearm purchase waiting period for any gun purchased in the Commonwealth of Virginia, intended to disrupt impulsive self-harm or acts of violence.
-This year alone, Subramanyam was also the Chief Co-Patron for:
-- SB 99 - prohibits automatic weapons from being carried in public (passed Senate 21-19)
-- SB 100 - prohibits manufacturing concealable firearms (passed Senate 21-19)
-- SB 210 - prohibits sale of devices to make weapons automatic (passed Senate 28-12)
-- SB 522 - mandatory firearms training (passed Senate 21-19)
-###
-Senator Suhas Subramanyam has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
+We should not have to lose more lives for this to be law, and Congress must act.” Bump stocks convert otherwise legal semi-automatic weapons into illegal machine guns by making it functionally easy for multiple shots to be fired at the single pull of a trigger.
+Subramanyam was the primary author of SB 273 , which would establish a 5 day firearm purchase waiting period for any gun purchased in the Commonwealth of Virginia, intended to disrupt impulsive self-harm or acts of violence.
+This year alone, Subramanyam was also the Chief Co-Patron for: SB 99 - prohibits automatic weapons from being carried in public (passed Senate 21-19) SB 100 - prohibits manufacturing concealable firearms (passed Senate 21-19) SB 210 - prohibits sale of devices to make weapons automatic (passed Senate 28-12) SB 522 - mandatory firearms training (passed Senate 21-19) ### Senator Suhas Subramanyam has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
 In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
 Senator Subramanyam is best positioned to keep VA-10 in Democratic hands because he represents more VA-10 constituents than any of the 16 primary election candidates, and he has consistently outperformed the Democratic ticket and delivered for his constituents.
 Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters.
+Suhas for Virginia Previous Previous Senator Suhas Subramanyam Wins VA-10 Democratic Primary Next Next ASPIRE PAC Endorses Suhas Subramanyam for Congress DONATE Paid for by Suhas for Virginia Suhas for Virginia PO Box 302 Ashburn, VA 20146 Privacy Policy Message for VA10 Voters

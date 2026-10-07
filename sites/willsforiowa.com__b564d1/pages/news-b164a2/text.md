@@ -1,42 +1,16 @@
-Past Newsletters
-2026
-2025
-- January 13: Energy Policy
-- January 23: Update from the Clerk
-- January 30: Higher Education Costs
-- February 6: Bills to Protect Minors
-- February 13: The Sky is Falling
-- February 20: School of Intellectual Freedom
-- February 27: The Iowa Constitution
-- March 6: Iowa Bill of Rights Amendments
-- March 13: Iowa Bill of Rights Section 3-6
-- March 20: What is true journalism?
-- March 27: Iowa Bill of Rights Section 7
-- April 3: Rights Protect those Charged with Crime
-- April 10: Iowa Bill of Rights Section 12-15
-- April 17: Property Tax Reform
-- April 21: Reducing Flood Damage in Iowa
-- April 24: The Iowa Legislative Process
-- May 1: Crafting a State Budget
-- May 29: Session End
-- June 26: Iowa Politics Today
-- September 4: DNR Annual Pheasant Survey
-- September 9: Campaign Announcement
-- September 11: Enduring the Triumph of Capitalism
-- September 18: Assasination Culture Emerging on the Left
-- October 2: School Administer License
-- October 16: Good News for State Revenue
-- October 23: Budgeting Prinicples
-- November 6: A Broken Washington DC
-- December 18: Iowa is Fiscally Sound
-- June 6: House Republicans Support Teachers
-- June 10: Help me stop Illegal Immigration
-- June 13: Iowan's Haven't Changed
-- July 3: Honoring the Votes Made
-- August 22: Iowa's Election Laws, Making it Easy to Vote, Hard to Cheat
-- August 29: My Summary of the Presidential Election
-- September 26: Democrats Out of Touch and Childcare
-- October 3: Democrats Propose Out of Touch Priorities
-- November 7: Let's Come Together
-- November 14: Taxpayer Trust Fund
-- November 21: Shop Locally and Support Small Businesses
+top of page Donate Log In Home Meet John Legislation Newsletters Around District Ten Connect with Me Forum Members More...
+Use tab to navigate through the menu items.
+Past Newsletters 2026 ​ January 8: Water Quality in Iowa January 15: Iowa's Great Property Tax Debate ​January 22: Putting Taxpayers First ​ ​ January 29: Update from the Clerk February 4: Skilled Workforce Act February 12: Administrative Realignment Bil ​ February 19: First funnel Week February 26 : Focus on Education ​ ​ March 5: A Stronger and Safer Iowa March 12 : Sticking it to the Man March 26: Making Iowa Healthy Again ​ April 2: Common-Sense Policy April 9 : Protecting your Tax Dollars April 16: Iowa Students Lead the Way 2025 ​ January 13: Energy Policy January 23: Update from the Clerk January 30: Higher Education Costs February 6: Bills to Protect Minors February 13 : The Sky is Falling February 20 : School of Intellectual Freedom February 27: The Iowa Constitution ​ March 6 : Iowa Bill of Rights Amendments March 13: Iowa Bill of Rights Section 3-6 March 20: What is true journalism?
+March 27: Iowa Bill of Rights Section 7 April 3: Rights Protect those Charged with Crime April 10: Iowa Bill of Rights Section 12-15 April 17: Property Tax Reform April 21 : Reducing Flood Damage in Iowa ​ ​ ​ ​ ​ ​ ​ April 24: The Iowa Legislative Process May 1: Crafting a State Budget May 29: Session End June 26: Iowa Politics Today September 4: DNR Annual Pheasant Survey September 9: Campaign Announcement September 11: Enduring the Triumph of Capitalism September 18 : Assasination Culture Emerging on the Left October 2 : School Administer License October 16: Good News for State Revenue October 23: Budgeting Prinicples November 6: A Broken Washington DC December 18: Iowa is Fiscally Sound 2024 January 11: Iowa is a Pretty Good Place to Live January 18: Clerk Introduction January 25: Pre-Birth Child Support February 1 : Social Media's Negative Impact on Teens February 8: The Border Crisis February 15 : School Safety February 22: A Brief History of the Taxpayer Relief Fund February 29: House Republicans Approve Detailed History and Civics Standards March 7 : Iowa's Government ​April 18 : My Visit to the U.S.
+Border in Texas May 23: Have Fun on the Water This Summer June 6: House Republicans Support Teachers June 10 : Help me stop Illegal Immigration June 13: Iowan's Haven't Changed July 3: Honoring the Votes Made August 22: Iowa's Election Laws, Making it Easy to Vote, Hard to Cheat August 29 : My Summary of the Presidential Election September 26: Democrats Out of Touch and Childcare October 3: Democrats Propose Out of Touch Priorities November 7 : Let's Come Together November 14 : Taxpayer Trust Fund November 21 : Shop Locally and Support Small Businesses ​ ​ 2023 January 12: Gov.
+Reynolds Outlines ESAs January 19: School Choice, ESAs January 26: Hello from Ellie, my new clerk!
+February 2: Government Realignment February 9: State Funding of Education v.
+Performance February 16: Book Banning - NO, Age Appropriate - YES Explanation of 2/16/2023 February 23: Superintendents and School Board Presidents Defend Graphic Sexual Images in Schools March 2: Teacher Empowerment Act Designed to Protect Teachers from Classroom Violence Advances March 9: Did Your Retirement Plan Administrator STILL Withhold?
+Get that Money BACK!
+March 16: House Passes Overdue Legislation to Realign State Government March 23: Mental Health Legislation Moves Forward March 30: Democrats Want Government to Control Your Energy Use April 6: How Your Home Is Assessed & Where They Come Up With It April 13: What is in the Welfare Reform Legislation?
+April 20: Convention of States April 27: Hello again from the Capitol!
+May 4: Historic Year for Conservatives June 1: Updated Iowa Nutrient Reduction Strategy Dashboards Indicate Measurable Water Quality Progress June 15: Mental Health June 22: Fear, Uncertainty, and Doubt June 29: The Push for Removal of DEI in Schools Continues July 6: Let’s be Honest About Modern Slavery July 13: Heartbeat Bill August 3: School Safety and Insurance August 10: The Key to Our Future, Unity August 17: Why I Support Gov.
+DeSantis September 22: Sex Slavery in Iowa October 6: Article V Convention of States October 9: Israel, A Nation Under Attack October 12: School Board Elections are Important October 19: Reagan Can Save Our Republic October 26: Tithing and Caring for People November 2: Remembering the Holocaust November 16: The Greatest Threat to Our Republic November 22: The Meaning of Thanksgiving December 7: What the Heck is a Caucus 2022 January 13: Opening Week January 20: Meet Camryn, My Clerk, Round Two January 27: Convention of States February 3: Love is Patient February 10: Legislative Priorities for Funnel Week February 17: What is the Constitution good for?
+February 24: Major Bills Pass the House March 3: Tax Cuts March 10: Budget Bills Begin March 17: Home Businesses and Food Freedom March 24: Unemployment to Re-employment March 31: School Transparency April 7: Teaching or Agenda April 14: Bottle Bill Reform April 21: A Response to the Misinformation Playbook May 5: Constitutional Crisis in the Courts May 19: Election Integrity May 26: Supply Chain Issues June 9: Rights, are they Absolute?
+June 30: Our 1st Amendment Right July 7: Full of Pride and Excited for Our Future July 14: Bold Leadership August 4: Our Policies Work!
+August 11: On the Other Hand September 15: Child Care for Working Families September 22: Home Assessment October 6: Strengthening Iowa's Economy

@@ -1,24 +1,12 @@
-Meet
-JACQUELINE
-COFFIE-LEEKS
-STATE REPRESENTATIVE DISTRICT 63
-FOR
-She is a lifelong Tampa resident, community leader, and advocate who has dedicated her life to strengthening families and creating opportunities across our neighborhoods.
-Born and raised in the Sulphur Springs community, Jacqueline’s commitment to service is deeply rooted in the people and places that shaped her.
-A graduate of Hillsborough High School, Jacqueline continued her education at the University of Florida and earned her Bachelor’s Degree from Moody Bible Institute.
-She also holds a Certificate in Non-Profit Management from the University of Tampa.
-Today, Jacqueline serves as Executive Director of the Sulphur Springs Neighborhood of Promise Initiative and Pastor of Outreach at 34th Street Church of God.
+top of page HOME MEET JACQUELINE GET INVOLVED DONATE Meet JACQUELINE COFFIE-LEEKS STATE REPRESENTATIVE DISTRICT 63 FOR She is a lifelong Tampa resident, community leader, and advocate who has dedicated her life to strengthening families and creating opportunities across our neighborhoods.
+Born and raised in the Sulphur Springs community, Jacqueline’s commitment to service is deeply rooted in the people and places that shaped her. ​ A graduate of Hillsborough High School, Jacqueline continued her education at the University of Florida and earned her Bachelor’s Degree from Moody Bible Institute.
+She also holds a Certificate in Non-Profit Management from the University of Tampa. ​ Today, Jacqueline serves as Executive Director of the Sulphur Springs Neighborhood of Promise Initiative and Pastor of Outreach at 34th Street Church of God.
 She has spent decades working directly with youth, families, and seniors, meeting people where they are and helping connect them to the resources they need to thrive.
-She also previously spent nine years with Devereux Kids, leading community engagement and youth leadership efforts.
-Jacqueline has delivered real impact.
+She also previously spent nine years with Devereux Kids, leading community engagement and youth leadership efforts. ​ Jacqueline has delivered real impact.
 She has helped connect more than 3,000 families to critical services, secured funding for over 15 community organizations, and led initiatives like the East Tampa Community Garden to expand access to healthy food and community space.
-Her work includes writing and managing grants across multiple state agencies and advocating annually during legislative session to ensure her community’s voice is heard.
-Her leadership extends across numerous organizations.
+Her work includes writing and managing grants across multiple state agencies and advocating annually during legislative session to ensure her community’s voice is heard. ​ Her leadership extends across numerous organizations.
 Jacqueline serves on the Derrick Brooks Charities Youth Programs Advisory Board and as Vice-Chair of LOVE Inc.
 Metro Tampa.
-She is also an active member of several civic and advocacy organizations, including the NAACP, Delta Sigma Theta Sorority, Inc., the National Council of Negro Women, Democratic Black Caucus, and Florida Rising.
-Jacqueline’s lifelong commitment to service has earned her widespread recognition, including the Tampa Bay Rays Jackie Robinson Breaking Barriers Award, the ACF Community Service Rise Up Award, Representative Ed Narain’s Community Impact Award, Commissioner Kevin Beckner’s Community Builder Award, the Sertoma Service to Mankind Award, the G3 Community Impact Award, and the National Coalition of 100 Black Women Passing the Torch -Public Policy/Community Activism Leadership Award.
-At her core, Jacqueline is family-driven.
+She is also an active member of several civic and advocacy organizations, including the NAACP, Delta Sigma Theta Sorority, Inc., the National Council of Negro Women, Democratic Black Caucus, and Florida Rising. ​ Jacqueline’s lifelong commitment to service has earned her widespread recognition, including the Tampa Bay Rays Jackie Robinson Breaking Barriers Award, the ACF Community Service Rise Up Award, Representative Ed Narain’s Community Impact Award, Commissioner Kevin Beckner’s Community Builder Award, the Sertoma Service to Mankind Award, the G3 Community Impact Award, and the National Coalition of 100 Black Women Passing the Torch -Public Policy/Community Activism Leadership Award. ​ At her core, Jacqueline is family-driven.
 She is the proud mother of three children and grandmother of eight, and the daughter of Marilyn Streeter and the late Ronald Coffie Sr.
-Her work is guided by the belief that every family deserves the opportunity to succeed and every community deserves to thrive.
-After decades of service, Jacqueline is running to bring her experience, leadership, and passion directly to the state legislature, fighting for stronger families, safer communities, and real opportunities for every resident.
+Her work is guided by the belief that every family deserves the opportunity to succeed and every community deserves to thrive. ​ ​ ​ ​ After decades of service, Jacqueline is running to bring her experience, leadership, and passion directly to the state legislature, fighting for stronger families, safer communities, and real opportunities for every resident. bottom of page

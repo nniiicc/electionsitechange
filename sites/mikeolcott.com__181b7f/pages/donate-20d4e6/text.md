@@ -1,9 +1,2 @@
-Donate
-If you would like to maintain conservative representation in Austin, please consider donating to Mike’s campaign.
-Online
-You may donate online by clicking here.
-Please turn off your VPN if you are having trouble or try to use this link instead.
-Make your check payable to Mike Olcott Campaign and mail it to
-Mike Olcott Campaign
-PO Box 247
-Aledo, TX 76008
+Home October 19 Event About Issues 2026 Endorsements 2026 Endorsements 2024 Endorsements 2022 Testimonials 2022 Endorsements Vote Donate Contact Select Page Donate DONATE If you would like to maintain conservative representation in Austin, please consider donating to Mike’s campaign.  Online You may donate online by clicking here.
+Please turn off your VPN if you are having trouble or try to use this link instead .  Mail Make your check payable to Mike Olcott Campaign and mail it to Mike Olcott Campaign PO Box 247 Aledo, TX 76008 Donate Pol. ad. paid for by Mike Olcott Campaign | PO Box 247, Aledo, TX 76008 | Ed Huddleston, Treasurer Follow Follow

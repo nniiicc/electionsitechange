@@ -1,5 +1,5 @@
-ON THE ISSUES : PUBLIC SAFETY
-New York is facing record crime, rising violence and a broken criminal justice system.
+top of page Home Early Voting Issues About More About Mario News Contact More Use tab to navigate through the menu items.
+DONATE All Posts Search ON THE ISSUES : PUBLIC SAFETY rmcaroppoli Oct 2, 2024 1 min read New York is facing record crime, rising violence and a broken criminal justice system.
 The voices of the victims are not being heard and one-party rule in Albany is focused on pro-criminal policies.
 The Democrats in the Assembly and the Senate continually focus on the rights of those who break the law while ignoring the needs of our residents and families.
 I have been a consistent voice for the REPEAL of the cashless bail fiasco.
@@ -10,3 +10,8 @@ Common sense means putting our law-abiding residents first and the rights of tho
 I am proud to BACK THE BLUE and will not stand by as one-party leadership in New York State puts a target on the back of our hardworking men and women of law enforcement.
 Our public safety is something that I will stand up for and work hard to protect.
 I am honored to have the trust of all police unions in Suffolk County and throughout our state and look forward to working with them to bring common sense back to law and order.
+Recent Posts See All ON THE ISSUES: COST OF LIVING ON THE ISSUES: INFRASTRUCTURE INVESTMENT TO CREATE JOBS Contact MARIO MATTERA Senator for New York State 2nd Senate District Contact us today and find out what you can do to help us bring Common Sense to New York State Government! ​ Friends of Mario Mattera P.O.
+Box 2 St.
+James, New York 11780 ​ matterafornewyork@gmail.com © 2026 Friends of Mario Mattera.
+All Rights Reserved.
+PAID FOR BY THE NYS SENATE REPUBLICAN CAMPAIGN COMMITTEE Enter Your Name Enter Your Email Show your support: Yes, I'd like to volunteer Yes, I'd like to request a lawn sign Address Message Submit Thanks for submitting! bottom of page

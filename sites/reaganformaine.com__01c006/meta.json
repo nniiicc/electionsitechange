@@ -1,7 +1,9 @@
 {
  "description": "Join the Reagan for Maine political campaign to support a strong leader in the Maine election. Vote for a dedicated political candidate!",
  "final_url": "https://reaganformaine.com/",
- "paid_for_by": null,
+ "fingerprint": "708b27b1e9ce7ddd56d8613669d8f1a1cca8ab49",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Reagan Paul for Maine State Representative",
  "years_mentioned": []
 }

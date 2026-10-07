@@ -1,12 +1,46 @@
 [
-"https://ericweaknecht.com/",
-"https://ericweaknecht.com/about",
-"https://ericweaknecht.com/contact",
-"https://ericweaknecht.com/gallery",
-"https://ericweaknecht.com/privacy-policy",
-"https://ericweaknecht.com/volunteer",
-"https://facebook.com/Weaknecht",
-"https://instagram.com/weaknecht",
-"https://ryvall.com/",
-"https://secure.anedot.com/friends-of-eric-weaknecht/2024"
+{
+"text": "Contact",
+"href": "https://www.ericweaknecht.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-eric-weaknecht/2024"
+},
+{
+"text": "Gallery",
+"href": "https://www.ericweaknecht.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.ericweaknecht.com/"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericweaknecht.com/privacy-policy"
+},
+{
+"text": "The District",
+"href": "https://www.ericweaknecht.com/about"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericweaknecht.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/Weaknecht"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/weaknecht"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/friends-of-eric-weaknecht/2024"
+}
 ]

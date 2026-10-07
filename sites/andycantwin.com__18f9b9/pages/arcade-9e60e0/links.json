@@ -1,15 +1,58 @@
 [
-"https://andycantwin.com/game.html",
-"https://andycantwin.com/index.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://facebook.com/andycantwin",
-"https://games.andycantwin.com/billsbillsbills",
-"https://games.andycantwin.com/codeblue",
-"https://games.andycantwin.com/earnyourseat",
-"https://games.andycantwin.com/lameduck",
-"https://games.andycantwin.com/seatcheck",
-"https://games.andycantwin.com/teacherrun",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "-- Daily Puzzle -- Seat Check See the share of votes a party won. Guess how many seats the map gave back. A new legislature every day. The gap is the game. PRESS START",
+"href": "https://games.andycantwin.com/seatcheck"
+},
+{
+"text": "-- District 31 -- Earn Your Seat You are a state senator in a gerrymandered district. Try to represent your voters. PRESS START",
+"href": "https://games.andycantwin.com/earnyourseat"
+},
+{
+"text": "-- Endless Runner -- NC Teacher Run Dodge pay freezes, voucher bills, and class sizes. The finish line never gets closer. PRESS START",
+"href": "https://games.andycantwin.com/teacherrun"
+},
+{
+"text": "-- Puzzle -- Rig the Map Draw district lines. Stack the deck. See how politicians pick their voters. It's easier than you think. PRESS START",
+"href": "https://andycantwin.com/game.html"
+},
+{
+"text": "-- Space Dodger -- Bills Bills Bills Dodge rent, groceries, and medical bills. The paycheck can't save you. PRESS START",
+"href": "https://games.andycantwin.com/billsbillsbills"
+},
+{
+"text": "-- Top-Down Racer -- Code Blue Same heart attack. Different zip code. Race to the hospital and find out who lives and who doesn't. It depends on where you live. PRESS START",
+"href": "https://games.andycantwin.com/codeblue"
+},
+{
+"text": "-- Whac-A-Mole -- Catch the Lame Duck They lost the election. They're still voting through the short session. Tap the hats to remind them who they work for. You've got 30 seconds. PRESS START",
+"href": "https://games.andycantwin.com/lameduck"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "← back to the chaos",
+"href": "https://andycantwin.com/index.html"
+}
 ]

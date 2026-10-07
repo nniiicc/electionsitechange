@@ -1,5 +1,5 @@
-As Democratic lawmakers continue pushing on policy to transition Michigan to clean energy sources, members of the state Senate Labor Committee heard testimony Thursday on a bill to ensure workers are not left behind in a switch to renewables.
-Senate Bill 519, introduced by State Sen.
+Skip to main content Scroll Top   Volunteer   Yard Sign Menu Close Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate Meet Jasper Accomplishments Priorities In The News Endorsements Donate UAW members testify in favor of just energy transition office legislation    September 21, 2023 As Democratic lawmakers continue pushing on policy to transition Michigan to clean energy sources, members of the state Senate Labor Committee heard testimony Thursday on a bill to ensure workers are not left behind in a switch to renewables.
+Senate Bill 519 , introduced by State Sen.
 Sam Singh (D-East Lansing), would create a community and worker economic transition office within the Department of Labor and Economic Opportunity (LEO).
 The office would seek to aid workers and communities whose jobs are impacted in the transition from fossil fuel energy to renewable sources.
 As Michigan begins to move away from coal, energy utilities have done a good job of helping workers through the transition to new technology and avoiding large layoffs, Singh said.
@@ -39,6 +39,6 @@ While the bills also gathered support from the Southeast Michigan Council of Gov
 Both the National Federation of Independent Business (NFIB) Michigan, and the Mackinac Center For Public Policy, a nonprofit advocating for free-market principles and limited government, opposed the bill.
 While neither group had someone speak during the committee meeting, the Federation submitted written testimony, arguing this policy was aimed at mitigating job loss from environmental policies, and that it prioritized union workers.
 No votes were taken on the bill, with Singh saying he was open to language changes in the bill, and would be working to incorporate additional feedback he’d received on the bill within the next week or so.
-Written by:
-Article originally published by Michigan Advance
-View original article here.
+Written by: KYLE DAVIDSON Article originally published by Michigan Advance View original article here .
+Recent Posts AG Dana Nessel teaches Mid-Michigan seniors to avoid scams February 25, 2024 Representative Martus addresses city council December 23, 2023 Democrats helped Michigan workers with tax, jobs, other measures November 15, 2023 Learn about MI Research and Development tax credit November 14, 2023 UAW members testify in favor of just energy transition office legislation September 21, 2023 Meet Jasper Accomplishments Priorities Endorsements In The News Yard Sign Donate PAID FOR BY THE COMMITTEE TO ELECT JASPER MARTUS P.O.
+BOX 165 Flushing, MI 48433 jasper@jaspermartus.com

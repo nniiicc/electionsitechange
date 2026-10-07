@@ -1,7 +1,15 @@
 {
- "description": "Conoce a Manny Guzman, Representante Estatal del Distrito 127 de Pensilvania. Latino de segunda generaci\u00f3n luchando por educaci\u00f3n, justicia econ\u00f3mica y unidad en nuestra comunidad.",
+ "description": "Conoce a Manny Guzman, Representante Estatal del Distrito 127 de Pensilvania. Latino de segunda generación luchando por educación, justicia económica y unidad en nuestra comunidad.",
  "final_url": "https://voteformannyguzman.com/es/about.html",
- "paid_for_by": null,
+ "fingerprint": "29c3b4b32761901ad52123d5b8e95075363866ab",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sobre Manny Guzman | Representante Estatal Distrito 127 de PA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2006",
+  "2013",
+  "2017",
+  "2020",
+  "2025"
+ ]
 }

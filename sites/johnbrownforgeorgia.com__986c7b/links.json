@@ -1,10 +1,46 @@
 [
-"https://fightingfifty.org/",
-"https://johnbrownforgeorgia.com/",
-"https://johnbrownforgeorgia.com/about",
-"https://johnbrownforgeorgia.com/cart",
-"https://johnbrownforgeorgia.com/donate",
-"https://johnbrownforgeorgia.com/new-page-1",
-"https://johnbrownforgeorgia.com/volunteer",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.johnbrownforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.johnbrownforgeorgia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.johnbrownforgeorgia.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.johnbrownforgeorgia.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.johnbrownforgeorgia.com/new-page-1"
+},
+{
+"text": "John Brown for Georgia 2026",
+"href": "https://www.johnbrownforgeorgia.com/"
+},
+{
+"text": "Learn more",
+"href": "https://www.johnbrownforgeorgia.com/about"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.johnbrownforgeorgia.com/volunteer"
+},
+{
+"text": "[image: John Brown for Georgia 2026]",
+"href": "https://www.johnbrownforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.fightingfifty.org/"
+}
 ]

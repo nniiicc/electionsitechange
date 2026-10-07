@@ -1,20 +1,82 @@
 [
-"http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video",
-"http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video%20",
-"https://secure.winred.com/tim-mihalick-for-nd/donate",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=100",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=1000",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=200",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=25",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=50",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=500",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=750",
-"https://secure.winred.com/tim-mihalick-for-nd/donate?amount=other",
-"https://timfornd.com/",
-"https://timfornd.com/about",
-"https://timfornd.com/category/in-the-news",
-"https://timfornd.com/get-involved",
-"https://timfornd.com/home",
-"https://timfornd.com/news",
-"https://timfornd.com/vote"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=100"
+},
+{
+"text": "$200",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=200"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=500"
+},
+{
+"text": "$750",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=750"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://timfornd.com/get-involved/"
+},
+{
+"text": "In the News",
+"href": "https://timfornd.com/category/in-the-news/"
+},
+{
+"text": "Listen In",
+"href": "http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video%20"
+},
+{
+"text": "Meet Tim",
+"href": "https://timfornd.com/about/"
+},
+{
+"text": "News",
+"href": "https://timfornd.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/tim-mihalick-for-nd/donate?amount=other"
+},
+{
+"text": "Plain Talk Episode 670",
+"href": "http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video"
+},
+{
+"text": "Plain Talk Podcast | Rob Port & Chad Oban",
+"href": "http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video"
+},
+{
+"text": "Priorities",
+"href": "https://timfornd.com/home/#priorities"
+},
+{
+"text": "Vote",
+"href": "https://timfornd.com/vote/"
+},
+{
+"text": "[image: Tim and Blaine on Plain Talk Podcast]",
+"href": "http://robport.libsyn.com/670-he-needs-more-allies-that-think-and-act-like-him-video%20"
+},
+{
+"text": "[image]",
+"href": "https://timfornd.com/"
+}
 ]

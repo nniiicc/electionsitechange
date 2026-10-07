@@ -1,4 +1,10 @@
 [
-"https://secure.anedot.com/nathan-boyles-campaign/donate",
-"https://votenathanboyles.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/nathan-boyles-campaign/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votenathanboyles.com/privacy-policy/"
+}
 ]

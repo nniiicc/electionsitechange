@@ -1,17 +1,74 @@
 [
-"https://bsky.app/profile/ericsorensen.bsky.social",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/u/1/folders/16_fUiwA67qHCHGVM7zmNLtUa3dwQX7R_",
-"https://ericforillinois.com/",
-"https://ericforillinois.com/about",
-"https://ericforillinois.com/achievements",
-"https://ericforillinois.com/contact",
-"https://ericforillinois.com/news",
-"https://ericforillinois.com/privacy-policy",
-"https://ericforillinois.com/volunteer",
-"https://facebook.com/EricForIllinois",
-"https://instagram.com/ericforillinois",
-"https://secure.actblue.com/donate/es-homepage",
-"https://x.com/ERICSORENSEN",
-"https://youtube.com/watch?v=Ai9-u_UYdrs"
+{
+"text": "Achievements",
+"href": "https://www.ericforillinois.com/achievements"
+},
+{
+"text": "Contact",
+"href": "https://www.ericforillinois.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/es-homepage"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ericforillinois.com/volunteer"
+},
+{
+"text": "Meet Eric",
+"href": "https://www.ericforillinois.com/about"
+},
+{
+"text": "News",
+"href": "https://www.ericforillinois.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericforillinois.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Eric for Illinois logo]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[image: Eric for Illinois]",
+"href": "https://www.ericforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ericsorensen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/EricForIllinois/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/ericforillinois/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ERICSORENSEN"
+},
+{
+"text": "by clicking here.",
+"href": "https://drive.google.com/drive/u/1/folders/16_fUiwA67qHCHGVM7zmNLtUa3dwQX7R_"
+},
+{
+"text": "by clicking here.",
+"href": "https://www.youtube.com/watch?v=Ai9-u_UYdrs"
+},
+{
+"text": "info@ericforillinois.com",
+"href": "mailto:info@ericforillinois.com"
+},
+{
+"text": "press@ericforillinois.com",
+"href": "mailto:press@ericforillinois.com"
+}
 ]

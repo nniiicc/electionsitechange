@@ -1,4 +1,4 @@
-We have made great progress in reducing the number of children who are lead poisoned and harmed for life.
+Skip to content Get Sandy's Diary in your Email Δ Legislative Session Summary Header Link Voting Rights Act | My Legislative Diary My Key Issues: Sandy's Answers to candidate questionnaires Primary Menu Why I Run About Sandy Bills I’ve Introduced 2020 Session Summary Endorsements Contact Sandy My Key Issues: Lead Paint Poisoning We have made great progress in reducing the number of children who are lead poisoned and harmed for life.
 Nonetheless, this is a preventable disease.
 I am working to strengthen enforcement of existing laws.
 Owners of rental properties are required to take steps to reduce the risk that tenants will be poisoned.
@@ -15,3 +15,5 @@ This does not count rental properties that must be inspected with every change i
 House Bill 810 would have funded more inspectors with increased registration fees.
 This issue is also being studied.
 Finally, at my suggestion, the budget bill asks the Governor to allocate $500,000 from the Medicaid program for lead-poisoning treatment for children with an unsafe blood lead level.
+Are You in the 41st District? © #.
+Authority: Citizens for Sandy Rosenberg, Jean Fugett, Jr., Treasurer Contact Sandy |

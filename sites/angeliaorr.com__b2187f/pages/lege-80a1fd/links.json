@@ -1,24 +1,118 @@
 [
-"http://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB128",
-"http://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB24",
-"https://angeliaorr.com/",
-"https://angeliaorr.com/about",
-"https://angeliaorr.com/ask",
-"https://angeliaorr.com/endorsements",
-"https://angeliaorr.com/get-involved",
-"https://angeliaorr.com/governor-89th",
-"https://angeliaorr.com/lege",
-"https://angeliaorr.com/media",
-"https://angeliaorr.com/post/government-should-work-for-texans",
-"https://angeliaorr.com/post/strengthening-rural-healthcare",
-"https://angeliaorr.com/priorities",
-"https://angeliaorr.com/privacy-policy",
-"https://angeliaorr.com/voting",
-"https://capitol.texas.gov/Reports/Report.aspx?ID=author&LegSess=89R&Code=A4340",
-"https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=coauthor&Code=A4340",
-"https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=cosponsor&Code=A4340",
-"https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=sponsor&Code=A4340",
-"https://facebook.com/AngeliaOrrForTX",
-"https://secure.winred.com/angelia-orr-campaign-fbd43bbb/donate-today",
-"https://twitter.com/AngeliaOrrForTX"
+{
+"text": "89th Legislature",
+"href": "https://www.angeliaorr.com/lege"
+},
+{
+"text": "About Angelia",
+"href": "https://www.angeliaorr.com/about"
+},
+{
+"text": "Ask Angelia a Question",
+"href": "https://www.angeliaorr.com/ask"
+},
+{
+"text": "Authored Bills",
+"href": "https://capitol.texas.gov/Reports/Report.aspx?ID=author&LegSess=89R&Code=A4340"
+},
+{
+"text": "Co-Authored Bills",
+"href": "https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=coauthor&Code=A4340"
+},
+{
+"text": "Co-Sponsored Bills",
+"href": "https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=cosponsor&Code=A4340"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/angelia-orr-campaign-fbd43bbb/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.angeliaorr.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/AngeliaOrrForTX"
+},
+{
+"text": "Get Involved",
+"href": "https://www.angeliaorr.com/get-involved"
+},
+{
+"text": "Government Should Work for Texans",
+"href": "https://www.angeliaorr.com/post/government-should-work-for-texans"
+},
+{
+"text": "Governor's Priorities",
+"href": "https://www.angeliaorr.com/governor-89th"
+},
+{
+"text": "Governor's Priorities",
+"href": "https://www.angeliaorr.com/lege#governorsection"
+},
+{
+"text": "Home",
+"href": "https://www.angeliaorr.com"
+},
+{
+"text": "Latest News",
+"href": "https://www.angeliaorr.com/lege#latestnewssection"
+},
+{
+"text": "Media",
+"href": "https://www.angeliaorr.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.angeliaorr.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.angeliaorr.com/privacy-policy"
+},
+{
+"text": "Rep Orr's Bills",
+"href": "https://www.angeliaorr.com/lege#reporrslegisationsection"
+},
+{
+"text": "Sign Up For Updates",
+"href": "https://www.angeliaorr.com/lege#subscribe"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://capitol.texas.gov/reports/report.aspx?LegSess=89R&ID=sponsor&Code=A4340"
+},
+{
+"text": "Strengthening Rural Healthcare",
+"href": "https://www.angeliaorr.com/post/strengthening-rural-healthcare"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/AngeliaOrrForTX"
+},
+{
+"text": "Voting",
+"href": "https://www.angeliaorr.com/voting"
+},
+{
+"text": "[image: 5.png]",
+"href": "https://www.angeliaorr.com/governor-89th"
+},
+{
+"text": "[image: Orr Logos-3 (2).png]",
+"href": "https://www.angeliaorr.com"
+},
+{
+"text": "[image]",
+"href": "http://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB128"
+},
+{
+"text": "[image]",
+"href": "http://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB24"
+},
+{
+"text": "[image]",
+"href": "https://www.angeliaorr.com/governor-89th"
+}
 ]

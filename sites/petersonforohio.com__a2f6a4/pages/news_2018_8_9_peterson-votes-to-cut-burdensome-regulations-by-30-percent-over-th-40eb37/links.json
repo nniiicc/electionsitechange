@@ -1,23 +1,90 @@
 [
-"http://elink.clickdimensions.com/c/4?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMA%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9wZXRlcnNvbj9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=J_h04AZFJWqU6VAxNNB80A",
-"http://elink.clickdimensions.com/c/4?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMQ%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9vYmhvZj9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=k2-tJfxPd90_5H1CJaLwcA",
-"http://elink.clickdimensions.com/c/4?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMg%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9tY2NvbGxleT9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=s-K6HI0XYyZeBIWuozFarw",
-"http://elink.clickdimensions.com/c/4?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMw%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi93aWxzb24_X2NsZGVlPVpHRnVhV1ZzTG14MWMyaGxZMnRBYjJocGIzTmxibUYwWlM1bmIzWSUzZCZyZWNpcGllbnRpZD1jb250YWN0LTIwOGNjNzkwMDQ2NWU4MTE4OWY0MDAwYzI5MTdlZTU3LTExMmQyZTE3OTZjZDRhNWZiMmQ1MDBiNjAzMGQ0MzEyJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVNEJTIwMTclMjAtJTIwUGV0ZXJzb24mZXNpZD0xMDk3MmFhMi1mNDdkLWU4MTEtYTkxMi0wMDBjMjk3NDUyODM&K=27GM5GoZVykbyzLepuUTRQ",
-"http://elink.clickdimensions.com/c/4?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3ANA%3A%3AaHR0cHM6Ly93d3cub2hpb2NoYW5uZWwub3JnL3ZpZGVvL3ByZXNzLWNvbmZlcmVuY2UtaW50cm9kdWNpbmctbGVnaXNsYXRpb24tYWltZWQtYXQtcmVkdWNpbmctc3RhdGUtcmVndWxhdGlvbnM_MjMmX2NsZGVlPVpHRnVhV1ZzTG14MWMyaGxZMnRBYjJocGIzTmxibUYwWlM1bmIzWSUzZCZyZWNpcGllbnRpZD1jb250YWN0LTIwOGNjNzkwMDQ2NWU4MTE4OWY0MDAwYzI5MTdlZTU3LTExMmQyZTE3OTZjZDRhNWZiMmQ1MDBiNjAzMGQ0MzEyJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVNEJTIwMTclMjAtJTIwUGV0ZXJzb24mZXNpZD0xMDk3MmFhMi1mNDdkLWU4MTEtYTkxMi0wMDBjMjk3NDUyODM&K=XXig-fzA6AGTjyTV0S_RyA",
-"http://ohiosenate.gov/senators/peterson/news/peterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years",
-"https://facebook.com/BobPetersonOH",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years",
-"https://peterson.revv.co/support",
-"https://petersonforohio.com/",
-"https://petersonforohio.com/about",
-"https://petersonforohio.com/connect",
-"https://petersonforohio.com/issues",
-"https://petersonforohio.com/news",
-"https://petersonforohio.com/news/2018/8/9/celebrating-patriotism-for-our-great-nation-on-independence-day",
-"https://petersonforohio.com/news/2018/8/9/peterson-urges-congress-to-boost-economic-development-in-appalachian-regions-of-ohio",
-"https://petersonforohio.com/news?author=60033bf63e592d07ac316bab",
-"https://petersonforohio.com/search",
-"https://petersonforohio.com/terms-policies",
-"https://pinterest.com/pin/create/link?media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5b1139ead274cbe6796799a9%2F1533833446695-5321A24GQYA5C1Q88TH2%2F14364713_1176368762427498_6202545382633011255_n.jpg&url=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+{
+"text": "About",
+"href": "https://www.petersonforohio.com/about"
+},
+{
+"text": "Bob Peterson",
+"href": "http://elink.clickdimensions.com/c/4/?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMA%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9wZXRlcnNvbj9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=J_h04AZFJWqU6VAxNNB80A"
+},
+{
+"text": "Connect",
+"href": "https://www.petersonforohio.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://peterson.revv.co/support"
+},
+{
+"text": "Facebook0",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+},
+{
+"text": "Guest User",
+"href": "https://www.petersonforohio.com/news?author=60033bf63e592d07ac316bab"
+},
+{
+"text": "Home",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.petersonforohio.com/issues"
+},
+{
+"text": "Larry Obhof",
+"href": "http://elink.clickdimensions.com/c/4/?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMQ%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9vYmhvZj9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=k2-tJfxPd90_5H1CJaLwcA"
+},
+{
+"text": "News",
+"href": "https://www.petersonforohio.com/news"
+},
+{
+"text": "Next Celebrating Patriotism for Our Great Nation On Independence Day Guest UserJuly 3, 2018",
+"href": "https://www.petersonforohio.com/news/2018/8/9/celebrating-patriotism-for-our-great-nation-on-independence-day"
+},
+{
+"text": "Pinterest0",
+"href": "https://www.pinterest.com/pin/create/link/?description=&media=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5b1139ead274cbe6796799a9%2F1533833446695-5321A24GQYA5C1Q88TH2%2F14364713_1176368762427498_6202545382633011255_n.jpg&url=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+},
+{
+"text": "Previous Peterson Urges Congress to Boost Economic Development in Appalachian Regions of Ohio Guest UserJuly 10, 2018",
+"href": "https://www.petersonforohio.com/news/2018/8/9/peterson-urges-congress-to-boost-economic-development-in-appalachian-regions-of-ohio"
+},
+{
+"text": "Privacy",
+"href": "https://www.petersonforohio.com/terms-policies"
+},
+{
+"text": "Rob McColley",
+"href": "http://elink.clickdimensions.com/c/4/?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMg%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi9tY2NvbGxleT9fY2xkZWU9WkdGdWFXVnNMbXgxYzJobFkydEFiMmhwYjNObGJtRjBaUzVuYjNZJTNkJnJlY2lwaWVudGlkPWNvbnRhY3QtMjA4Y2M3OTAwNDY1ZTgxMTg5ZjQwMDBjMjkxN2VlNTctMTEyZDJlMTc5NmNkNGE1ZmIyZDUwMGI2MDMwZDQzMTImdXRtX3NvdXJjZT1DbGlja0RpbWVuc2lvbnMmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249U0QlMjAxNyUyMC0lMjBQZXRlcnNvbiZlc2lkPTEwOTcyYWEyLWY0N2QtZTgxMS1hOTEyLTAwMGMyOTc0NTI4Mw&K=s-K6HI0XYyZeBIWuozFarw"
+},
+{
+"text": "Steve Wilson",
+"href": "http://elink.clickdimensions.com/c/4/?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3AMw%3A%3AaHR0cDovL3d3dy5vaGlvc2VuYXRlLmdvdi93aWxzb24_X2NsZGVlPVpHRnVhV1ZzTG14MWMyaGxZMnRBYjJocGIzTmxibUYwWlM1bmIzWSUzZCZyZWNpcGllbnRpZD1jb250YWN0LTIwOGNjNzkwMDQ2NWU4MTE4OWY0MDAwYzI5MTdlZTU3LTExMmQyZTE3OTZjZDRhNWZiMmQ1MDBiNjAzMGQ0MzEyJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVNEJTIwMTclMjAtJTIwUGV0ZXJzb24mZXNpZD0xMDk3MmFhMi1mNDdkLWU4MTEtYTkxMi0wMDBjMjk3NDUyODM&K=27GM5GoZVykbyzLepuUTRQ"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.petersonforohio.com%2Fnews%2F2018%2F8%2F9%2Fpeterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years&text="
+},
+{
+"text": "[image: Bob Peterson]",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BobPetersonOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.petersonforohio.com/search"
+},
+{
+"text": "here",
+"href": "http://www.ohiosenate.gov/senators/peterson/news/peterson-votes-to-cut-burdensome-regulations-by-30-percent-over-three-years"
+},
+{
+"text": "press conference",
+"href": "http://elink.clickdimensions.com/c/4/?T=NDk2MjQ1NjA%3AMDItYjE4MTg2LTA1Y2U5MDdjY2JkMTRlNjE4NjAxNTExMzg0ZGQ2OWNj%3AZGFuaWVsLmx1c2hlY2tAb2hpb3NlbmF0ZS5nb3Y%3AY29udGFjdC0yMDhjYzc5MDA0NjVlODExODlmNDAwMGMyOTE3ZWU1Ny0xMTJkMmUxNzk2Y2Q0YTVmYjJkNTAwYjYwMzBkNDMxMg%3AZmFsc2U%3ANA%3A%3AaHR0cHM6Ly93d3cub2hpb2NoYW5uZWwub3JnL3ZpZGVvL3ByZXNzLWNvbmZlcmVuY2UtaW50cm9kdWNpbmctbGVnaXNsYXRpb24tYWltZWQtYXQtcmVkdWNpbmctc3RhdGUtcmVndWxhdGlvbnM_MjMmX2NsZGVlPVpHRnVhV1ZzTG14MWMyaGxZMnRBYjJocGIzTmxibUYwWlM1bmIzWSUzZCZyZWNpcGllbnRpZD1jb250YWN0LTIwOGNjNzkwMDQ2NWU4MTE4OWY0MDAwYzI5MTdlZTU3LTExMmQyZTE3OTZjZDRhNWZiMmQ1MDBiNjAzMGQ0MzEyJnV0bV9zb3VyY2U9Q2xpY2tEaW1lbnNpb25zJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPVNEJTIwMTclMjAtJTIwUGV0ZXJzb24mZXNpZD0xMDk3MmFhMi1mNDdkLWU4MTEtYTkxMi0wMDBjMjk3NDUyODM&K=XXig-fzA6AGTjyTV0S_RyA"
+}
 ]

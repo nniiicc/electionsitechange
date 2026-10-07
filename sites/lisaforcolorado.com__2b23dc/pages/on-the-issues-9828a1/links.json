@@ -1,36 +1,150 @@
 [
-"https://arvadachamber.org/",
-"https://arvadafireco.gov/faq.aspx?TID=20",
-"https://boston.gov/departments/new-urban-mechanics/housing-innovation-lab/intergenerational-homeshare-pilot",
-"https://chhs.source.colostate.edu/alumna-helps-community-during-covid-19-pandemic",
-"https://facebook.com/LisaFeretCO",
-"https://hcpf.colorado.gov/transition-services",
-"https://instagram.com/lisaferetcolorado",
-"https://jeffco.us/539/Community-Wildfire-Protection-Plans",
-"https://jeffcodems.org/initiatives/veti",
-"https://leg.colorado.gov/bills/HB25-1179",
-"https://leg.colorado.gov/bills/HB26-1042",
-"https://leg.colorado.gov/bills/HB26-1069",
-"https://leg.colorado.gov/bills/HB26-1228",
-"https://leg.colorado.gov/bills/HB26-1325",
-"https://leg.colorado.gov/bills/SB26-032",
-"https://leg.colorado.gov/bills/hb25-1059",
-"https://leg.colorado.gov/bills/hb25-1166",
-"https://leg.colorado.gov/bills/hb26-1107",
-"https://leg.colorado.gov/bills/sb25-282",
-"https://linkedin.com/in/lisaferet",
-"https://lisaforcolorado.com/",
-"https://lisaforcolorado.com/cart",
-"https://lisaforcolorado.com/contact-lisa",
-"https://lisaforcolorado.com/endorsements",
-"https://lisaforcolorado.com/how-to-get-involved",
-"https://lisaforcolorado.com/in-the-community",
-"https://lisaforcolorado.com/legislation",
-"https://lisaforcolorado.com/meet-lisa",
-"https://lisaforcolorado.com/on-the-issues",
-"https://lisaforcolorado.com/resources",
-"https://newpoliticsacademy.org/",
-"https://resourcecentral.org/sprinklers/arvada",
-"https://secure.actblue.com/donate/lisa-for-colorado-1",
-"https://votevets.org/"
+{
+"text": "0",
+"href": "https://www.lisaforcolorado.com/cart"
+},
+{
+"text": "Arvada Chamber of Commerce",
+"href": "https://www.arvadachamber.org"
+},
+{
+"text": "Click here to support the cause!",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Contact Lisa",
+"href": "https://www.lisaforcolorado.com/contact-lisa"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lisa-for-colorado-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lisaforcolorado.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lisaforcolorado.com/how-to-get-involved"
+},
+{
+"text": "HB25-1059",
+"href": "https://leg.colorado.gov/bills/hb25-1059"
+},
+{
+"text": "HB25-1166",
+"href": "https://leg.colorado.gov/bills/hb25-1166"
+},
+{
+"text": "HB25-1179",
+"href": "https://leg.colorado.gov/bills/HB25-1179"
+},
+{
+"text": "HB26-1042",
+"href": "https://leg.colorado.gov/bills/HB26-1042"
+},
+{
+"text": "HB26-1069",
+"href": "https://leg.colorado.gov/bills/HB26-1069"
+},
+{
+"text": "HB26-1107",
+"href": "https://leg.colorado.gov/bills/hb26-1107"
+},
+{
+"text": "HB26-1228",
+"href": "https://leg.colorado.gov/bills/HB26-1228"
+},
+{
+"text": "HB26-1325",
+"href": "https://leg.colorado.gov/bills/HB26-1325"
+},
+{
+"text": "Home",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "In the Community",
+"href": "https://www.lisaforcolorado.com/in-the-community"
+},
+{
+"text": "Legislation",
+"href": "https://www.lisaforcolorado.com/legislation"
+},
+{
+"text": "Lisa For Colorado!",
+"href": "https://www.lisaforcolorado.com/"
+},
+{
+"text": "Lisa manufactured over 120 gallons of free sanitizer",
+"href": "https://chhs.source.colostate.edu/alumna-helps-community-during-covid-19-pandemic/"
+},
+{
+"text": "Lisa@LisaforColorado.com",
+"href": "mailto:Lisa@lisaforcolorado.com"
+},
+{
+"text": "Meet Lisa!",
+"href": "https://www.lisaforcolorado.com/meet-lisa"
+},
+{
+"text": "New Politics",
+"href": "https://www.newpoliticsacademy.org/"
+},
+{
+"text": "On The Issues",
+"href": "https://www.lisaforcolorado.com/on-the-issues"
+},
+{
+"text": "Resources",
+"href": "https://www.lisaforcolorado.com/resources"
+},
+{
+"text": "SB25-282",
+"href": "https://leg.colorado.gov/bills/sb25-282"
+},
+{
+"text": "SB26-032",
+"href": "https://leg.colorado.gov/bills/SB26-032"
+},
+{
+"text": "VETI",
+"href": "https://www.jeffcodems.org/initiatives/veti"
+},
+{
+"text": "VoteVets",
+"href": "https://votevets.org/"
+},
+{
+"text": "Wildfire Protection Planning Programs",
+"href": "https://www.jeffco.us/539/Community-Wildfire-Protection-Plans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LisaFeretCO"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lisaferetcolorado/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/lisaferet"
+},
+{
+"text": "home-sharing program",
+"href": "https://www.boston.gov/departments/new-urban-mechanics/housing-innovation-lab/intergenerational-homeshare-pilot"
+},
+{
+"text": "mental health co-response model",
+"href": "https://www.arvadafireco.gov/faq.aspx?TID=20"
+},
+{
+"text": "nursing home reintegration",
+"href": "https://hcpf.colorado.gov/transition-services"
+},
+{
+"text": "smart water sensors",
+"href": "https://resourcecentral.org/sprinklers/arvada/"
+}
 ]

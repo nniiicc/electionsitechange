@@ -1,18 +1,11 @@
-A Firm Response to HB 481
-On March 11, Rep.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate A Firm Response to HB 481 Posted March 25, 2019 By Taylor Nchako Capitol Corner On March 11, Rep.
 Dar’shun Kendrick announced her “testicular bill of rights” in response to Georgia’s “heartbeat bill,” HB 481.
-The legislation has five points:
-1.
-Require men to get permission from their sex partner before getting prescription for Viagra or any erectile dysfunction medication
-2.
-Ban all vasectomy procedures and punish those who perform such procedures
-3.
-Make it an aggravated assault for men to have sex without a condom
-4.
-Require DNA testing when a woman is 6 weeks and 1 day pregnant to determine the father of the child who must then begin paying child support
-5.
-Men must wait 24 hours to purchase any porn or sex toys in Georgia
-The legislation is meant to spark the conversation around the regulation of reproductive rights and organs.
+The legislation has five points: 1.
+Require men to get permission from their sex partner before getting prescription for Viagra or any erectile dysfunction medication 2.
+Ban all vasectomy procedures and punish those who perform such procedures 3.
+Make it an aggravated assault for men to have sex without a condom 4.
+Require DNA testing when a woman is 6 weeks and 1 day pregnant to determine the father of the child who must then begin paying child support 5.
+Men must wait 24 hours to purchase any porn or sex toys in Georgia The legislation is meant to spark the conversation around the regulation of reproductive rights and organs.
 It highlights the double standard placed on women and the absurdity of regulating women’s bodies.
 Currently, women in Georgia can have an abortion up to 20 weeks.
 HB 481, which passed the Georgia House of Representatives 93-73, would limit this time period to up to six weeks.
@@ -36,4 +29,5 @@ The “heartbeat” at six weeks is actually developing tissues that could not s
 In fact, an embryo during the early stages of pregnancy is just a mass of tissue.
 The “heartbeat bill” is based on ideology and misogyny, not on science or data.
 Rep.
-Kendrick’s “testicular bill of rights” exploits this inconsistency.
+Kendrick’s “testicular bill of rights” exploits this inconsistency. https://thehill.com/opinion/healthcare/434372-georgias-heartbeat-abortion-bill-is-dangerous-for-women-nationwide https://www.ajc.com/news/state–regional-govt–politics/georgia-heartbeat-bill-spurs-strong-debate-about-abortion/J4jW7DPuDlwJ0QcD0xPPoN/ https://www.11alive.com/article/news/politics/georgia-representative-intends-to-introduce-testicular-bill-of-rights/85-538d44c7-da58-44bc-8c24-488931c33f48 https://www.washingtonpost.com/politics/2019/03/12/read-testicular-bill-rights-one-lawmakers-answer-antiabortion-legislation/?utm_term=.4477046658a5 ©# Spencer Frye State House 122.
+All Rights Reserved.

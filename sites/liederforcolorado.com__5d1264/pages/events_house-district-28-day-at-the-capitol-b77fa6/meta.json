@@ -1,7 +1,14 @@
 {
  "description": "*RSVP Required: https://forms.gle/j78a3Nyknc28JQj1A",
  "final_url": "https://www.liederforcolorado.com/events/house-district-28-day-at-the-capitol",
- "paid_for_by": "Paid for by Lieder for Colorado | Registered Agent: Sheila Lieder sheilaforcolorado@gmail",
- "title": "House District 28 Day at the Capitol \u2014 Lieder For Colorado",
- "years_mentioned": []
+ "fingerprint": "85f5db21cef3f90664fa36661f13ec274374718a",
+ "format": 3,
+ "paid_for_by": "Paid for by Lieder for Colorado",
+ "title": "House District 28 Day at the Capitol — Lieder For Colorado",
+ "years_mentioned": [
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

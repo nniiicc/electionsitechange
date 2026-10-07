@@ -1,7 +1,16 @@
 {
  "description": "Meet Kathy Landing. Job-Creating Businesswoman. Financial Planner. Military Wife. Mother.",
  "final_url": "https://www.kathylanding.com/meet-kathy",
- "paid_for_by": null,
+ "fingerprint": "2eb8e69f5a71381eaf292a21e29fc115abe096c3",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Kathy Landing",
- "years_mentioned": []
+ "years_mentioned": [
+  "1984",
+  "2017",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+ ]
 }

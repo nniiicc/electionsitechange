@@ -1,7 +1,16 @@
 {
  "description": "Vote for Charlie Kimbell in the Democratic Primary",
  "final_url": "https://www.charlieforvermont.com/events/2016/8/9/democratic-primary",
- "paid_for_by": null,
- "title": "Democratic Primary \u2014 Charlie Kimbell - Vermont Rep",
- "years_mentioned": []
+ "fingerprint": "9e1239ebef38ebb98bc9efa03d495e1f968d3521",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Democratic Primary — Charlie Kimbell - Vermont Rep",
+ "years_mentioned": [
+  "2017",
+  "2018",
+  "2019",
+  "2021",
+  "2025",
+  "2026"
+ ]
 }

@@ -1,13 +1,7 @@
-Join us for a fundraiser in Support of Andrea Joy Campbell for Attorney General
-Please Join Hosts Mimi & Jim Segel, Rep.
+top of page VOLUNTEER DONATE Home About Issues Events & Fundraisers Connect Contact Facebook News Endorsements 2024 Press Releases 2024 Media More Use tab to navigate through the menu items.
+All Posts Press Releases In The News Election 2026 Search Join us for a fundraiser in Support of Andrea Joy Campbell for Attorney General Committee to Re-elect Joshua Tarsky May 25 1 min read Please Join Hosts Mimi & Jim Segel, Rep.
 Joshua Tarsky, Rep.
-Paul McMurtry, Dan Dain, Bill Dermody, Eileen DeSorgher, Heidi Frail, Pam Lenehan & Larry Geuss, Moe Handel, Kevin Keane, Becca Kornet, Dan Matthews, Evan Rauch, Heather Yountz
-*Host Committee in Formation
-For a reception in support of
-Attorney General Andrea Campbell
-Tuesday, June 9, 2026, 6:00 pm
-Suggested Contributions: $1000, $500, $250, $100
-RSVP and Contribute Online: https://tinyurl.com/6926needham
-The Home of Mimi & Jim Segel, Needham, MA Address Upon RSVP
-For questions or more information, please email Maggie Di Pesa at maggie@andreacampbell.org
-Hope to see you there!
+Paul McMurtry, Dan Dain, Bill Dermody, Eileen DeSorgher, Heidi Frail, Pam Lenehan & Larry Geuss, Moe Handel, Kevin Keane, Becca Kornet, Dan Matthews, Evan Rauch, Heather Yountz *Host Committee in Formation For a reception in support of Attorney General Andrea Campbell Tuesday, June 9, 2026, 6:00 pm Suggested Contributions: $1000, $500, $250, $100 RSVP and Contribute Online: https://tinyurl.com/6926needham The Home of Mimi & Jim Segel, Needham, MA Address Upon RSVP For questions or more information, please email Maggie Di Pesa at maggie@andreacampbell.org Hope to see you there!
+Tags: Attorney General Andrea Joy Campbell reception Election 2026 Recent Posts See All Team Tarsky Needs Your Help!
+2026 Re-election Campaign KickOff You are invited to an event for Senator Edward Markey on March 14, 2026 Re-Elect Josh Tarsky for the13th Norfolk District Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky.com JOSH TARSKY IS A FORMER MEMBER OF THE US ARMY AND A CURRENT MEMBER OF THE MASSACHUSETTS NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY AN ENDORSEMENT BY THE ARMY OR THE DEPARTMENT OF DEFENSE. ​ © # Committee to Elect Joshua Tarsky Get Campaign Updates Join our mailing list Email * Subscribe I want to subscribe to your mailing list. bottom of page

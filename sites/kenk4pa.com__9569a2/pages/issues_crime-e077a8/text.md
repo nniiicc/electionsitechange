@@ -1,12 +1,7 @@
-On The Issues
-Crime
-In Brief
-95% of all crimes are committed by 5% of all criminals.
-Eliminate parole for violent criminals.
-End asset forfeiture where there has been no crime.
-In Depth
-[Excerpted from a speech delivered to the Southern Christian Ministries in Monroeville]
-I’ve knocked on thousands of doors while running for public office, and there are certain issues that people are continually bringing up.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Crime In Brief 9 95% of all crimes are committed by 5% of all criminals.
+9 Eliminate parole for violent criminals.
+9 End asset forfeiture where there has been no crime.
+In Depth [Excerpted from a speech delivered to the Southern Christian Ministries in Monroeville] I’ve knocked on thousands of doors while running for public office, and there are certain issues that people are continually bringing up.
 But the one issue that keeps coming up, again and again, is crime.
 Many people are afraid to venture into the cities, even their own neighborhoods.
 This is unacceptable.
@@ -22,8 +17,9 @@ Eliminating parole for violent criminals would certainly help reduce illegal cri
 But there are forms of legalized crimes which the governor can halt without the assistance of the Legislature, specifically, the legal crime called asset forfeiture.
 As the law now stands, you can be found innocent in court, but even though no conviction occurs, you house, your car, your entire life savings can still be taken from you.
 This is nothing short of highway robbery.
-Worse still, the forfeited assets are distributed to the counties in secret, unaudited accounts that end up who knows where?(For more detail, visit www.fear.org.)
-Fortunately, Article 4, Section 9 of the Pennsylvania Constitution gives the governor the power to remit all forfeited assets, and unless there’s a conviction for a real crime, that’s just what I intend to do.
+Worse still, the forfeited assets are distributed to the counties in secret, unaudited accounts that end up who knows where?
+(For more detail, visit www.fear.org .) Fortunately, Article 4, Section 9 of the Pennsylvania Constitution gives the governor the power to remit all forfeited assets, and unless there’s a conviction for a real crime, that’s just what I intend to do.
 When I become governor, legalized theft will cease.
 By ending parole for violent criminals and ending asset forfeiture, the crime rate in Pennsylvania is guaranteed to go down.
 And the only way to make sure that happens is to vote Libertarian.
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

@@ -1,15 +1,5 @@
-Back to All Events
-Join Team Heather and the DFLs of Olmsted County to walk in the Rochesterfest Parade!
-📅 Saturday, June 27th
-🕒 Lineup at 12:00 PM
-📍NW side of Soldiers Field Park
-🤝 With DFLs of Olmsted County
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events Rochesterfest Parade Saturday, June 27, 2026 12:00 PM 2:30 PM Google Calendar ICS Join Team Heather and the DFLs of Olmsted County to walk in the Rochesterfest Parade! 📅 Saturday, June 27th 🕒 Lineup at 12:00 PM 📍NW side of Soldiers Field Park 🤝 With DFLs of Olmsted County RSVP Here .
 While Heather will be away celebrating her son’s high school graduation with family and won't be in the parade personally, it's important that our campaign has a presence.
 If you're willing to walk and represent Team Heather, we'd love to have you join us.
-Previous
-Previous
-June 25
-Rochester Canvass
-Next
-Next
-June 29
+Posted In: Community Events Previous Previous June 25 Rochester Canvass Next Next June 29 BACK TO THE MAJORITY: Virtual Fundraiser with Lea Thompson Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

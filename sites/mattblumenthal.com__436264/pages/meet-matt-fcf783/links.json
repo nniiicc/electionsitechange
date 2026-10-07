@@ -1,13 +1,50 @@
 [
-"http://instagram.com/mattblumenthalct",
-"https://docs.google.com/forms/d/e/1FAIpQLSdgIDVCltyoCdluOHV9L-N0CJ8BoR4HR_PyGJ6ifUrbOHbxGQ/viewform",
-"https://facebook.com/MattBlumenthalCT",
-"https://mattblumenthal.com/",
-"https://mattblumenthal.com/get-involved",
-"https://mattblumenthal.com/meet-matt",
-"https://mattblumenthal.com/vote",
-"https://secure.anedot.com/mattbforct/2022",
-"https://secure.anedot.com/mattforct/2026",
-"https://threads.com/@mattblumenthalct",
-"https://tiktok.com/@mattblumenthalct"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/mattforct/2026"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.mattblumenthal.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.mattblumenthal.com"
+},
+{
+"text": "MEET MATT",
+"href": "https://www.mattblumenthal.com/meet-matt"
+},
+{
+"text": "SIGN UP!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdgIDVCltyoCdluOHV9L-N0CJ8BoR4HR_PyGJ6ifUrbOHbxGQ/viewform"
+},
+{
+"text": "VOTE",
+"href": "https://www.mattblumenthal.com/vote"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MattBlumenthalCT"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/mattblumenthalct"
+},
+{
+"text": "[image: Logo_MB (2).jpg]",
+"href": "https://www.mattblumenthal.com"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@mattblumenthalct"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@mattblumenthalct"
+},
+{
+"text": "[image][image][image]",
+"href": "https://secure.anedot.com/mattbforct/2022"
+}
 ]

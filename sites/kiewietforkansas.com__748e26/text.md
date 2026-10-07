@@ -1,6 +1,6 @@
-We moved here for the schools.
+0 Skip to Content Home About Contact CONTRIBUTE Open Menu Close Menu Home About Contact CONTRIBUTE Open Menu Close Menu Home About Contact CONTRIBUTE We moved here for the schools.
 I'm running to protect them.
-Mom.
+CONTRIBUTE CONNECT Mom.
 Attorney.
 PTO secretary.
 Your neighbor.
@@ -10,3 +10,4 @@ She spent her career doing exactly that, in commercial litigation and fifteen ye
 When she and her husband Justin chose where to raise their family, they chose Johnson County for one reason: the Blue Valley schools.
 Three years as PTO secretary later, she's watched Topeka chip away at the very thing they moved here for.
 She's running for the Kansas House to protect it.
+MEET SARA Support Sara CONTRIBUTE CONNECT Paid for by Kiewiet for Kansas, Christi Pribula, Treasurer. info@kiewietforkansas.com Privacy Policy, Terms of Use

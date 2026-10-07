@@ -1,13 +1,3 @@
-top of page
-In 2026, Denise was endorsed by:
-List Of Endorsements
-- Blue Horizon → https://www.bluehorizontexas.org
-- Planned Parenthood → https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes
-- Moms Demand Action → https://momsdemandaction.org
-- Annie's List → https://www.annieslist.com
-- Women Inspiring Leadership and Democracy → https://wildfortexas.org/
-- Save Our Public Schools → https://savetxschools.org/
-- Texas Progressive Caucus → https://www.texasprogressivecaucus.org
-- Grandparents for Public Schools → https://grandparentsforpublicschools.org/
-- Mothers Against Greg Abbott → https://mothersagainstgregabbott.com/directory/denise-wooten/
-bottom of page
+top of page Dr.
+Denise Wooten Advocacy for All Texans DONATE Home About Issues Events Voter Information Election Information HD-63 Map Register to Vote Get Involved Endorsements Articles Contact More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE In 2026, Denise was endorsed by: Mothers Against Greg Abbott List Of Endorsements In 2026, Denise Wooten for Texas House District 63 was endorsed by: Blue Horizon → https://www.bluehorizontexas.org Planned Parenthood → https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes Moms Demand Action → https://momsdemandaction.org Annie's List → https://www.annieslist.com Women Inspiring Leadership and Democracy → https://wildfortexas.org/ Save Our Public Schools → https://savetxschools.org/ Texas Progressive Caucus → https://www.texasprogressivecaucus.org Grandparents for Public Schools → https://grandparentsforpublicschools.org/ Mothers Against Greg Abbott → https://mothersagainstgregabbott.com/directory/denise-wooten/ bottom of page

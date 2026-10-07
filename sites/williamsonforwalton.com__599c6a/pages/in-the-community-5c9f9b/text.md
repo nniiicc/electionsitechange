@@ -1,3 +1,8 @@
-In the Community Representative Williamson works for Walton County!
+Skip to content Proudly Serving Georgia House District 115 Menu Meet Bruce At the Capitol In the Community Contact Donate In the Community Representative Williamson works for Walton County!
 He supports many important educational, historic and community organizations and events throughout the year.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Helpful Links The Walton Tribune Walton County Chamber Walton County Government Walton County Schools Social Circle Schools George Walton Academy Facebook Twitter Website Built with WordPress.com .
+Subscribe Subscribed williamsonforwalton.com Sign me up Have a WordPress.com account?
+Log in now. williamsonforwalton.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

@@ -1,15 +1,5 @@
-- Press Releases
-Campaign Updates
-Media
-- Videos
-Ad: “Pass the Torch”
-Click to read Ad: “Pass the Torch”
-- Organ Mountain News
-Gov.
-Lujan Grisham, Secretary of State Toulouse Oliver endorse Doña Ana County Clerk Amanda López Askin
-Click to read Gov.
-Lujan Grisham, Secretary of State Toulouse Oliver endorse Doña Ana County Clerk Amanda López Askin
-- Santa Fe New Mexican
-The Roundhouse Report: López Askin snags big endorsements
-Click to read The Roundhouse Report: López Askin snags big endorsements
-- Santa Fe New Mexican
+Skip to content Chip in $5 right now to join the fight for our future  Amanda for New Mexico About Media News Press Releases Videos Take Action Contribute Connect on Facebook Connect on Instagram Connect on Bluesky Campaign Updates Media Filter — Please choose an option — News Press Releases Videos Press Releases Amanda López Askin Releases First Ad May 11, 2026 Click to read Amanda López Askin Releases First Ad Videos Ad: “Pass the Torch” May 11, 2026 Click to read Ad: “Pass the Torch” Organ Mountain News Gov.
+Lujan Grisham, Secretary of State Toulouse Oliver endorse Doña Ana County Clerk Amanda López Askin May 9, 2026 Click to read Gov.
+Lujan Grisham, Secretary of State Toulouse Oliver endorse Doña Ana County Clerk Amanda López Askin Santa Fe New Mexican The Roundhouse Report: López Askin snags big endorsements May 9, 2026 Click to read The Roundhouse Report: López Askin snags big endorsements Santa Fe New Mexican Endorsements: Lt. gov., secretary of state and land commissioner May 8, 2026 Click to read Endorsements: Lt. gov., secretary of state and land commissioner 1 2 3 … 5 Next Page Get Updates Join our team Join us in the fight to keep New Mexico’s elections safe, secure, and fair.
+Contribute Chip in today This campaign is funded by people like you. $ # $ # $ # $ # $ #,# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Amanda for New Mexico Connect on Facebook Connect on Instagram Connect on Bluesky About Media Take Action Contribute Paid for and Authorized by Amanda for NM Mailing Address: 8100 Wyoming Blvd NE, Ste M4 Box 708, Albuquerque, NM 87113 Contact

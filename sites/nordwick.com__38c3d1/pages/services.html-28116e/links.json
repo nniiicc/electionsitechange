@@ -1,6 +1,22 @@
 [
-"http://facebook.com/Nordwick",
-"http://linkedin.com/in/suzzann-nordwick",
-"https://nordwick.com/services.html",
-"https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nordwick-for-montana-c05ddc40/donate-today"
+},
+{
+"text": "INFORMATION",
+"href": "https://nordwick.com/services.html"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/Nordwick"
+},
+{
+"text": "[image]",
+"href": "http://www.linkedin.com/in/suzzann-nordwick/"
+},
+{
+"text": "[image]",
+"href": "mailto:info@nordwick.com"
+}
 ]

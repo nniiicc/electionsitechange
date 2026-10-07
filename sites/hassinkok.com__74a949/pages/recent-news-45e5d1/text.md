@@ -1,33 +1,8 @@
-hassinkok2025-12-17T15:48:58-06:00
-2025 Family Christmas Newsletter
-Click here to read the letter.
-December 17,
-hassinkok2025-02-17T16:45:53-06:00
-2024 Family Christmas Newsletter
-Click here to read the letter.
-February 11,
-hassinkok2024-10-18T08:47:48-05:00
-District 79 Dispatch with quick links and puzzle key
-October 14, 2024
-hassinkok2024-10-16T14:07:58-05:00
-Listening to Educators, teacher interviews
-Posted: September 13, 2024 Video
-hassinkok2024-10-16T14:07:28-05:00
-Come and Go Reception with Congressman Hern – Aug. 29 2024
-August 29, 2024, 5:00 - 8:00 PM
-hassinkok2024-10-16T14:21:01-05:00
-Pancakes With Paul – Wednesdays from 7:00 – 8:00 am
-August 7 - November 6, 2024
-hassinkok2024-05-02T16:37:19-05:00
-Paul Hassink’s Easter Message of Renewal and Leadership
-March 24, 2024
-hassinkok2022-11-04T15:23:50-05:00
-Coffee and Conversation – Wednesdays from 7:00 – 9:00
-Posted: October 13, 2022
-hassinkok2022-09-20T13:47:26-05:00
-Letter from Paul’s Daughter
-A Personal Note… Dear Friends, Thank you for giving
-hassinkok2022-09-12T08:13:34-05:00
-Come & Go Fundraising Reception – 9/21/22
-Set Reminder on Computer or Phone
-hassinkok2022-05-16T09:17:21-05:00
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact News News thierry 2024-03-06T11:40:49-06:00 All Ad Event Interview Letters Press Release Speech hassinkok 2025-12-17T15:48:58-06:00 2025 Family Christmas Newsletter 2025 Family Christmas Newsletter Letters Click here to read the letter.
+December 17, hassinkok 2025-02-17T16:45:53-06:00 2024 Family Christmas Newsletter 2024 Family Christmas Newsletter Letters Click here to read the letter.
+February 11, hassinkok 2024-10-18T08:47:48-05:00 District 79 Dispatch with quick links and puzzle key District 79 Dispatch with quick links and puzzle key Letters October 14, 2024 hassinkok 2024-10-15T13:06:15-05:00 Faith in the Voting Booth Faith in the Voting Booth Letters October 10, 2024 hassinkok 2024-10-25T11:43:57-05:00 Interview with Mend Medical Interview with Mend Medical Interview October 7, 2024 hassinkok 2024-10-16T14:07:58-05:00 Listening to Educators, teacher interviews Listening to Educators, teacher interviews Letters Posted: September 13, 2024 Video hassinkok 2024-10-16T14:07:28-05:00 Come and Go Reception with Congressman Hern – Aug.
+29 2024 Come and Go Reception with Congressman Hern – Aug.
+29 2024 Event August 29, 2024, 5:00 - 8:00 PM hassinkok 2024-10-16T14:21:01-05:00 Pancakes With Paul – Wednesdays from 7:00 – 8:00 am Pancakes With Paul – Wednesdays from 7:00 – 8:00 am Event August 7 - November 6, 2024 hassinkok 2024-06-30T08:42:52-05:00 Freedom We Cherish Freedom We Cherish Letters June 30, 2024 hassinkok 2024-05-21T21:50:55-05:00 Happy Mothers Day Happy Mothers Day Letters May 19, 2024 hassinkok 2024-05-21T15:45:39-05:00 Paul Hassink Files for HD 79 Paul Hassink Files for HD 79 Press Release April 3, 2024 hassinkok 2024-05-02T16:37:19-05:00 Paul Hassink’s Easter Message of Renewal and Leadership Paul Hassink’s Easter Message of Renewal and Leadership Letters March 24, 2024 hassinkok 2024-05-02T16:38:41-05:00 2023 Family Christmas Newsletter 2023 Family Christmas Newsletter Letters December 18, 2023 hassinkok 2022-11-04T15:23:50-05:00 Coffee and Conversation – Wednesdays from 7:00 – 9:00 Coffee and Conversation – Wednesdays from 7:00 – 9:00 Event Posted: October 13, 2022 thierry 2022-10-11T09:18:53-05:00 Shadow Mountain HOA Meeting Shadow Mountain HOA Meeting Event , Speech October 5, 2022 hassinkok 2022-10-03T13:55:00-05:00 Interview with Eddie Huff of Fresh Black Coffee Interview with Eddie Huff of Fresh Black Coffee Interview October 1, 2022 hassinkok 2022-09-20T14:26:00-05:00 Speaker McCall Endorses Paul Hassink Speaker McCall Endorses Paul Hassink Press Release September 20, 2022 hassinkok 2022-09-20T13:47:26-05:00 Letter from Paul’s Daughter Letter from Paul’s Daughter Letters A Personal Note… Dear Friends, Thank you for giving hassinkok 2022-09-12T08:13:34-05:00 Come & Go Fundraising Reception – 9/21/22 Come & Go Fundraising Reception – 9/21/22 Event Set Reminder on Computer or Phone hassinkok 2022-10-31T12:22:46-05:00 Road To Recovery Ad Road To Recovery Ad Ad August 11, 2022 hassinkok 2022-07-01T12:18:14-05:00 Paul thanks supporters for nomination Paul thanks supporters for nomination Press Release June 29, 2022 hassinkok 2022-06-06T10:09:27-05:00 Speech at Tulsa GOP Meet & Greet Speech at Tulsa GOP Meet & Greet Speech May 4, 2022 hassinkok 2022-06-06T10:09:40-05:00 Interview with Charley Biggs at Tulsa Beacon Interview with Charley Biggs at Tulsa Beacon Interview May 28, 2022 hassinkok 2022-05-16T09:18:06-05:00 Paul files with the Oklahoma Election Board Paul files with the Oklahoma Election Board Press Release April 14, 2022 hassinkok 2022-05-16T09:17:21-05:00 Speech at “Easter with the Officers” Hispanic community event Speech at “Easter with the Officers” Hispanic community event Speech April 9, 2022 hassinkok 2022-05-16T09:17:51-05:00 Tulsa Beacon Weekend with Charley Biggs Tulsa Beacon Weekend with Charley Biggs Interview February 12, 2022 Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

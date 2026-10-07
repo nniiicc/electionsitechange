@@ -1,10 +1,5 @@
-Back to All Events
-Join Cynthia Curtin for a Candidate Forum hosted by Citizens for Nonpartisan Politics at The Center: Events and Catering in Stow.
+0 Skip to Content Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Open Menu Close Menu Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Open Menu Close Menu Meet Cynthia Curtin Help the Campaign Endorsements Upcoming Events Back to All Events Stow Steps Up: Candidate Forum Wednesday, September 23, 2026 6:30 PM 8:30 PM 4157 Hudson Drive Stow, Ohio, 44224 United States (map) Google Calendar ICS Join Cynthia Curtin for a Candidate Forum hosted by Citizens for Nonpartisan Politics at The Center: Events and Catering in Stow.
 The forum offers voters an opportunity to hear directly from candidates, learn more about the races on the ballot, and become better informed ahead of Election Day.
-Wednesday, September 23 | 6:30–8:30 PM
-The Center: Events and Catering
-4157 Hudson Dr., Stow, OH
-Come hear from the candidates and take part in an evening focused on civic engagement and the upcoming election.
-Previous
-Previous
-September 17
+Wednesday, September 23 | 6:30–8:30 PM The Center: Events and Catering 4157 Hudson Dr., Stow, OH Come hear from the candidates and take part in an evening focused on civic engagement and the upcoming election.
+Previous Previous September 17 Medina Maven’s Meet the Candidates Be Certain, Vote Curtin!
+Meet the Candidate | Help the Campaign | Campaign Committee Paid for by the Cynthia Curtin for Judge Committee

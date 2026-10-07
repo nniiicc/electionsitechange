@@ -1,12 +1,62 @@
 [
-"https://facebook.com/mikezimmerforiowa",
-"https://instagram.com/mikezimmerforiowa",
-"https://mikezimmerforiowa.com/",
-"https://mikezimmerforiowa.com/about",
-"https://mikezimmerforiowa.com/blog",
-"https://mikezimmerforiowa.com/endorsements",
-"https://mikezimmerforiowa.com/get-involved",
-"https://mikezimmerforiowa.com/post/august-newsletter",
-"https://mikezimmerforiowa.com/privacy-policy",
-"https://secure.actblue.com/donate/zimmerforiowa"
+{
+"text": "All Posts",
+"href": "https://www.mikezimmerforiowa.com/blog"
+},
+{
+"text": "August Newsletter",
+"href": "https://www.mikezimmerforiowa.com/post/august-newsletter"
+},
+{
+"text": "Blog",
+"href": "https://www.mikezimmerforiowa.com/blog"
+},
+{
+"text": "Contact",
+"href": "https://www.mikezimmerforiowa.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/zimmerforiowa"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikezimmerforiowa.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mikezimmerforiowa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mikezimmerforiowa.com"
+},
+{
+"text": "Meet Mike",
+"href": "https://www.mikezimmerforiowa.com/about"
+},
+{
+"text": "Mike Zimmer for Iowa",
+"href": "https://www.mikezimmerforiowa.com"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.mikezimmerforiowa.com/privacy-policy"
+},
+{
+"text": "[image: 6.png]",
+"href": "https://www.mikezimmerforiowa.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mikezimmerforiowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mikezimmerforiowa/"
+},
+{
+"text": "mikezimmerforiowa@gmail.com",
+"href": "mailto:mikezimmerforiowa@gmail.com?subject=Question+for+your+campaign"
+}
 ]

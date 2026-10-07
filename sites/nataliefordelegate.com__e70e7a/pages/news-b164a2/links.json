@@ -1,12 +1,50 @@
 [
-"http://secure.actblue.com/donate/nataliefordelegate9a",
-"https://nataliefordelegate.com/",
-"https://nataliefordelegate.com/about",
-"https://nataliefordelegate.com/endorsements",
-"https://nataliefordelegate.com/news",
-"https://nataliefordelegate.com/news/breakfastreception",
-"https://nataliefordelegate.com/news/environment-%26-transportation-committee-virtual-briefing",
-"https://nataliefordelegate.com/news/join-delegate-natalie-ziegler-for-a-farm-fundraiser!",
-"https://nataliefordelegate.com/news/support-the-md-district-9-team!",
-"https://nataliefordelegate.com/news/the-delmarva-farmer%3A-legislator%2C-former-journalist%2C-honored-with-inaugural-otto-award"
+{
+"text": "About",
+"href": "https://www.nataliefordelegate.com/about"
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/nataliefordelegate9a"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nataliefordelegate.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.nataliefordelegate.com"
+},
+{
+"text": "MD Delegate District 9A",
+"href": "https://www.nataliefordelegate.com"
+},
+{
+"text": "Natalie Ziegler",
+"href": "https://www.nataliefordelegate.com"
+},
+{
+"text": "News",
+"href": "https://www.nataliefordelegate.com/news"
+},
+{
+"text": "Read More",
+"href": "https://www.nataliefordelegate.com/news/breakfastreception"
+},
+{
+"text": "Read More",
+"href": "https://www.nataliefordelegate.com/news/environment-%26-transportation-committee-virtual-briefing"
+},
+{
+"text": "Read More",
+"href": "https://www.nataliefordelegate.com/news/join-delegate-natalie-ziegler-for-a-farm-fundraiser!"
+},
+{
+"text": "Read More",
+"href": "https://www.nataliefordelegate.com/news/support-the-md-district-9-team!"
+},
+{
+"text": "Read More",
+"href": "https://www.nataliefordelegate.com/news/the-delmarva-farmer%3A-legislator%2C-former-journalist%2C-honored-with-inaugural-otto-award"
+}
 ]

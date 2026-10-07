@@ -1,11 +1,9 @@
-Harder Statement on Reelection
-Modesto, CA – Congressman Josh Harder released the following statement after the Associated Press called the race in his favor.
-“It has been the honor of my life to serve
-Modesto, CA – Today, Congressman Josh Harder announced that he had earned the endorsement of the Peace Officers Research Association of California (PORAC).
-PORAC is the largest law enforcement organization
-Turlock, CA – Congressman Josh Harder announced that he will host a drive-in town hall in Turlock next week to give voters a chance to safely ask questions and get
-Modesto, CA – Congressman Josh Harder today announced he has earned the endorsement of the U.S.
+Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter DONATE Harder Statement on Reelection Modesto, CA – Congressman Josh Harder released the following statement after the Associated Press called the race in his favor.
+“It has been the honor of my life to serve Read More November 4, 2020 4365 Comments off Largest Law Enforcement Organization in California Endorses Harder for Reelection Modesto, CA – Today, Congressman Josh Harder announced that he had earned the endorsement of the Peace Officers Research Association of California (PORAC).
+PORAC is the largest law enforcement organization Read More September 11, 2020 4392 Comments off Harder to Host First-Ever Drive-In Town Hall Turlock, CA – Congressman Josh Harder announced that he will host a drive-in town hall in Turlock next week to give voters a chance to safely ask questions and get Read More September 4, 2020 4382 Comments off Harder Endorsed by U.S.
+Chamber of Commerce Modesto, CA – Congressman Josh Harder today announced he has earned the endorsement of the U.S.
 Chamber of Congress.
 The Chamber represents businesses of all sizes from across the country.
-Modesto, CA – Representative Josh Harder released the following statement endorsing Joe Biden to be the next President of the United States.
-“Joe Biden has the experience, the temperament, and
+Read More September 2, 2020 4402 Comments off Harder Endorses Joe Biden for President Modesto, CA – Representative Josh Harder released the following statement endorsing Joe Biden to be the next President of the United States.
+“Joe Biden has the experience, the temperament, and Read More April 24, 2020 4447 Comments off Search Search Recent Posts Harder Statement on Reelection Largest Law Enforcement Organization in California Endorses Harder for Reelection Harder to Host First-Ever Drive-In Town Hall Harder Endorsed by U.S.
+Chamber of Commerce Harder Endorses Joe Biden for President Recent Comments A WordPress Commenter on Harder Statement on Reelection Josh Harder for Congress, PO Box 4220, Manteca, CA 95337 Phone: (209) 299-7487 volunteer donate Campaign Media Center is available here Privacy Policy PAID FOR BY JOSH HARDER FOR CONGRESS Built by Veracity Media Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL Facebook-f Twitter Josh’s Story ISSUES GET INVOLVED ESPAÑOL Josh’s Story ISSUES GET INVOLVED ESPAÑOL DONATE Facebook-f Twitter Chip in to our campaign! $5 $25 $50 $100 $200 Chip In Continue to Website →

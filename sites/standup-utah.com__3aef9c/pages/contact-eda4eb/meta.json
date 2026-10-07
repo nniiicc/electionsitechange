@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with the Nicole Melling campaign. We want to hear from you.",
  "final_url": "https://standup-utah.com/contact",
+ "fingerprint": "8bc1e62e289e44d28faaeb7e570344c2408766d6",
+ "format": 3,
  "paid_for_by": "Paid for by Nicole Melling for Utah State House",
  "title": "Contact Us | Stand Up Utah - Nicole Melling",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

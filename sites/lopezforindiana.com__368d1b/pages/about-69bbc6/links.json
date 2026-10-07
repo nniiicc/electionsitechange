@@ -1,12 +1,54 @@
 [
-"http://facebook.com/lopezforindiana",
-"http://mailto:lopezforindiana@gmail.com/",
-"https://instagram.com/dannylopezforindiana",
-"https://lopezforindiana.com/",
-"https://lopezforindiana.com/about",
-"https://lopezforindiana.com/cart",
-"https://lopezforindiana.com/get-involved",
-"https://lopezforindiana.com/issues",
-"https://secure.anedot.com/lopez-for-indiana/donate",
-"https://twitter.com/lopezforindiana"
+{
+"text": "0",
+"href": "https://www.lopezforindiana.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lopezforindiana.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lopez-for-indiana/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lopezforindiana.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.lopezforindiana.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lopezforindiana.com/issues"
+},
+{
+"text": "Join the Team",
+"href": "https://www.lopezforindiana.com/get-involved"
+},
+{
+"text": "[image: Lopez for Indiana]",
+"href": "https://www.lopezforindiana.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lopezforindiana"
+},
+{
+"text": "[no text]",
+"href": "http://mailto:lopezforindiana@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lopezforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dannylopezforindiana"
+},
+{
+"text": "lopezforindiana@gmail.com",
+"href": "mailto:lopezforindiana@gmail.com"
+}
 ]

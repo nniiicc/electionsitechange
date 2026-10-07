@@ -1,16 +1,70 @@
 [
-"https://desmoinesregister.com/story/news/elections/issues/2024/05/07/meet-the-candidates-running-for-iowa-house-district-22-in-warren-county/73471979007",
-"https://desmoinesregister.com/story/news/politics/elections/2024/04/10/who-is-running-for-iowa-house-district-22-in-norwalk-carlisle/72960282007",
-"https://indianola-ia.com/news/elections/iowa-house-district-22-fett-taylor-vie-over-abortion-taxes-during-candidate-forum/article_e274d9dc-8648-11ef-9d57-d7495bfe54c7.html",
-"https://indianola-ia.com/news/elections/iowa-statehouse-district-22-rory-taylor-democrat/article_15974bfa-0fad-11ef-a20a-e3bb29435189.html",
-"https://indianola-ia.com/news/elections/taylor-seeks-to-be-a-champion-of-education-as-state-representative/article_12de0dde-7f94-11ef-a049-937ccaddc725.html",
-"https://indianola-ia.com/opinion/letter-to-the-editor-taylor-will-listen-to-voters/article_51239c4c-5b38-11ef-b8ab-5f6a6ed0b603.html",
-"https://secure.actblue.com/donate/committee-to-elect-rory-taylor-1",
-"https://taylorforhouse.com/",
-"https://taylorforhouse.com/2026/08/26/yard-signs",
-"https://taylorforhouse.com/2026/09/21/national-farm-safety-health-week",
-"https://taylorforhouse.com/about-rory-taylor",
-"https://taylorforhouse.com/get-involved",
-"https://taylorforhouse.com/issues",
-"https://taylorforhouse.com/press"
+{
+"text": "About",
+"href": "https://taylorforhouse.com/about-rory-taylor/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-rory-taylor-1"
+},
+{
+"text": "Get Involved",
+"href": "https://taylorforhouse.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://taylorforhouse.com"
+},
+{
+"text": "Issues",
+"href": "https://taylorforhouse.com/issues/"
+},
+{
+"text": "National Farm Safety & Health Week",
+"href": "https://taylorforhouse.com/2026/09/21/national-farm-safety-health-week/"
+},
+{
+"text": "Press",
+"href": "https://taylorforhouse.com/press/"
+},
+{
+"text": "Rory Taylor for Iowa House District 22 | Democrat",
+"href": "https://taylorforhouse.com"
+},
+{
+"text": "Yard Signs!",
+"href": "https://taylorforhouse.com/2026/08/26/yard-signs/"
+},
+{
+"text": "[image]",
+"href": "https://taylorforhouse.com/2026/08/26/yard-signs/"
+},
+{
+"text": "[image]",
+"href": "https://taylorforhouse.com/2026/09/21/national-farm-safety-health-week/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/elections/issues/2024/05/07/meet-the-candidates-running-for-iowa-house-district-22-in-warren-county/73471979007/",
+"href": "https://www.desmoinesregister.com/story/news/elections/issues/2024/05/07/meet-the-candidates-running-for-iowa-house-district-22-in-warren-county/73471979007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/elections/2024/04/10/who-is-running-for-iowa-house-district-22-in-norwalk-carlisle/72960282007",
+"href": "https://www.desmoinesregister.com/story/news/politics/elections/2024/04/10/who-is-running-for-iowa-house-district-22-in-norwalk-carlisle/72960282007"
+},
+{
+"text": "https://www.indianola-ia.com/news/elections/iowa-house-district-22-fett-taylor-vie-over-abortion-taxes-during-candidate-forum/article_e274d9dc-8648-11ef-9d57-d7495bfe54c7.html",
+"href": "https://www.indianola-ia.com/news/elections/iowa-house-district-22-fett-taylor-vie-over-abortion-taxes-during-candidate-forum/article_e274d9dc-8648-11ef-9d57-d7495bfe54c7.html"
+},
+{
+"text": "https://www.indianola-ia.com/news/elections/iowa-statehouse-district-22-rory-taylor-democrat/article_15974bfa-0fad-11ef-a20a-e3bb29435189.html",
+"href": "https://www.indianola-ia.com/news/elections/iowa-statehouse-district-22-rory-taylor-democrat/article_15974bfa-0fad-11ef-a20a-e3bb29435189.html"
+},
+{
+"text": "https://www.indianola-ia.com/news/elections/taylor-seeks-to-be-a-champion-of-education-as-state-representative/article_12de0dde-7f94-11ef-a049-937ccaddc725.html",
+"href": "https://www.indianola-ia.com/news/elections/taylor-seeks-to-be-a-champion-of-education-as-state-representative/article_12de0dde-7f94-11ef-a049-937ccaddc725.html"
+},
+{
+"text": "https://www.indianola-ia.com/opinion/letter-to-the-editor-taylor-will-listen-to-voters/article_51239c4c-5b38-11ef-b8ab-5f6a6ed0b603.htm",
+"href": "https://www.indianola-ia.com/opinion/letter-to-the-editor-taylor-will-listen-to-voters/article_51239c4c-5b38-11ef-b8ab-5f6a6ed0b603.html"
+}
 ]

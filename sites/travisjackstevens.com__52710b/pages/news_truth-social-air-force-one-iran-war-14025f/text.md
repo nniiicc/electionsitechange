@@ -1,9 +1,10 @@
-He Sold the Market, Used Reporters as Bait, and Started a War He Can't Finish
-Three stories broke today.
+Home About Platform News Contact Volunteer Donate Write-In Candidate Travis Jack Stevens is running as a qualified write-in candidate for U.S.
+Senate.
+His name won't be on the ballot — write it in on November 3, 2026.
+How to Vote → He Sold the Market, Used Reporters as Bait, and Started a War He Can't Finish Back to News & Updates Accountability He Sold the Market, Used Reporters as Bait, and Started a War He Can't Finish T Travis Jack Stevens • Wednesday, August 12, 2026 • 5 min read Three stories broke today.
 Each one, on its own, would have ended a normal presidency.
 Together, they tell you everything you need to know about where we are.
-Story One: The President Is Selling the Market
-A federal lawsuit was filed today in U.S.
+Story One: The President Is Selling the Market A federal lawsuit was filed today in U.S.
 District Court in Manhattan.
 The allegation: Donald Trump has been selling advance access to his own Truth Social posts.
 Not policy briefings.
@@ -23,8 +24,7 @@ They have to.
 What a senator from Delaware could do: Introduce legislation closing the gap that allowed this scheme.
 There is currently no law explicitly prohibiting a sitting president from selling advance access to his own market-moving speech.
 That gap needs to close.
-Story Two: He Used Reporters and Aides as Bait
-Last month, after the NATO summit in Ankara, Turkey, Donald Trump was secretly moved off Air Force One via a catering truck.
+Story Two: He Used Reporters and Aides as Bait Last month, after the NATO summit in Ankara, Turkey, Donald Trump was secretly moved off Air Force One via a catering truck.
 A credible Iranian assassination threat had been detected.
 U.S. intelligence believed the president or his aircraft was being targeted.
 So the Secret Service and military moved Trump to a smaller C-32A transport plane — and let Air Force One fly ahead as a decoy.
@@ -34,8 +34,7 @@ Security personnel.
 Journalists.
 None of them knew the president was no longer on board.
 None of them knew they were the bait.
-Trump's response when asked about it: "I get a lot of threats."
-The President of the United States, confronted with the fact that he allowed more than a hundred people to fly into potential danger without their knowledge or consent, shrugged.
+Trump's response when asked about it: "I get a lot of threats." The President of the United States, confronted with the fact that he allowed more than a hundred people to fly into potential danger without their knowledge or consent, shrugged.
 This is not toughness.
 This is the opposite of leadership.
 A leader does not use the people in his care as cover.
@@ -49,8 +48,7 @@ What is the protocol?
 Who is accountable?
 These are not rhetorical questions.
 They are the job.
-Story Three: The War We Weren't Supposed to Be In
-We are now three months into the Iran conflict.
+Story Three: The War We Weren't Supposed to Be In We are now three months into the Iran conflict.
 We have expended a significant portion of our precision munitions inventory.
 The Pentagon has not given Congress a full accounting of what we've spent, what we've committed, or what our readiness posture looks like if a second crisis emerges — in Taiwan, in Korea, anywhere.
 The assassination threat in Ankara did not come out of nowhere.
@@ -59,8 +57,7 @@ We are reaping what was sown.
 And the people paying the price are not the ones who made the decisions.
 The United States has been complicit in the deaths of civilians in this region for years.
 The Iran strikes did not happen in a vacuum.
-A senator from Delaware who is serious about national security does not just ask "are we winning?" — they ask "what did we break to get here, and who is going to pay to fix it?"
-What a senator from Delaware could do: Demand a full accounting of munitions expenditures and readiness gaps.
+A senator from Delaware who is serious about national security does not just ask "are we winning?" — they ask "what did we break to get here, and who is going to pay to fix it?" What a senator from Delaware could do: Demand a full accounting of munitions expenditures and readiness gaps.
 Co-sponsor legislation requiring congressional authorization before the next strike.
 Vote no on the next blank check.
 Three Stories.
@@ -74,10 +71,34 @@ Delaware deserves a senator who will stand up in that chamber and say this is wr
 Travis Jack Stevens is a declared write-in candidate for U.S.
 Senate in Delaware.
 He is a licensed registered nurse and former contract critical care nurse for the Department of Defense.
-He accepts no Super PAC money.
-✍️ Write in TRAVIS JACK STEVENS — November 3, 2026
-Explore Topics
-Written by
-Travis Jack Stevens
-Travis Jack Stevens spent years as a travel ICU nurse and is a write-in candidate for U.S.
+He accepts no Super PAC money. ✍️ Write in TRAVIS JACK STEVENS — November 3, 2026 Chip in to the campaign → Share this article Help spread the word — every share reaches a voter.
+Facebook X Bluesky LinkedIn Copy link Explore Topics # Truth Social # Iran # Air Force One # insider trading # war powers # accountability T Written by Travis Jack Stevens Travis Jack Stevens spent years as a travel ICU nurse and is a write-in candidate for U.S.
 Senate · Delaware.
+Related Posts Accountability Two Americas, Part 2: The Debt They Made, The Bill You'll Pay The national debt crossed $36 trillion.
+Billionaire wealth grew $2.2 trillion since 2020 while real wages declined.
+Trump posted "THIS IS A GREAT TIME TO BUY!!!" on Truth Social 90 minutes before a tariff pause sent the Dow up 2,900 points.
+And Ghislaine Maxwell's federal housing conditions exceed what we provide to enlisted troops.
+This is the same story.
+Aug 15, 2026 • 7 min read • Travis Jack Stevens # wealth gap # national debt # Trump Accountability Two Americas: Lobster at the Pentagon, Broken Bunks on the Lincoln Secretary Hegseth installed a grand piano and put lobster on the menu while sailors on the USS Lincoln slept in broken bunks.
+The administration is asking for a $1.5 trillion defense budget for FY2027.
+Reaper drones are being lost at a 25% rate.
+And the CIA's own analysts rated the intel that rerouted Air Force One as low confidence.
+This is what two Americas looks like.
+Aug 14, 2026 • 9 min read • Travis Jack Stevens # Pentagon # Hegseth # defense budget Accountability The Machines They Built, The Lives You'll Rearrange The Godfather of AI warns of mass unemployment.
+The author of Empire of AI says democracy itself is the target.
+Washington is telling allies to pick a side.
+And an AI CEO admits the public thinks they are being screwed.
+This is the same story.
+Aug 18, 2026 • 11 min read • Travis Jack Stevens # artificial intelligence # economy # democracy Stay Informed Get Campaign Updates News and ways to get involved — straight to your inbox.
+Subscribe People-funded.
+No Super PAC.
+No AI or tech money.
+Accountability, an end to forever wars, real rules for AI, and health care and housing for all.
+On November 3, write TRAVIS JACK STEVENS.
+Campaign Home About Platform Volunteer Contact Donate Get Involved Ready to make a difference?
+Join our campaign today and help build a better Delaware.
+Join the Campaign © 2026 Travis Jack Stevens for U.S.
+Senate.
+All rights reserved.
+Paid for by Travis Jack Stevens for U.S.
+Senate

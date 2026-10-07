@@ -1,10 +1,7 @@
-A Shift in Approach to Gun Violence
-Enacting laws that restrict access to firearms is not novel.
+0 Skip to Content Home Meet Charles Meet Charles What I Believe Addressing Issues Blog Yard Sign Request Endorsements Volunteer Open Menu Close Menu Home Meet Charles Meet Charles What I Believe Addressing Issues Blog Yard Sign Request Endorsements Volunteer Open Menu Close Menu Home Folder: Meet Charles Back Meet Charles What I Believe Addressing Issues Blog Yard Sign Request Endorsements Volunteer A Shift in Approach to Gun Violence Dec 28 Written By Charles Smith Enacting laws that restrict access to firearms is not novel.
 We have long prevented felons, those dishonorably discharged from the military, and certain domestic violence offenders from possessing or purchasing firearms.
 Categorical regulations, such as the aforementioned, tend to be overly broad but under-inclusive.
-Overly broad: A convicted felon whose felony conviction was from over 20 years ago and related to a non- violent offense cannot purchase or possess a firearm
-Under Inclusive: A person with a new, undiagnosed mental illness may be displaying warning signs of potential gun violence, but can purchase and possess a firearm because the court has not yet deemed them mentally unfit
-Although imperfect, I am not implying that laws preventing particular groups of persons from purchasing or possessing firearms should be abandoned.
+Overly broad: A convicted felon whose felony conviction was from over #ago and related to a non- violent offense cannot purchase or possess a firearm Under Inclusive: A person with a new, undiagnosed mental illness may be displaying warning signs of potential gun violence, but can purchase and possess a firearm because the court has not yet deemed them mentally unfit Although imperfect, I am not implying that laws preventing particular groups of persons from purchasing or possessing firearms should be abandoned.
 To this end, Extreme Risk Protection Orders (“ERPOs”) would not replace current gun regulations, but would add a much needed proactive, individualized form of protection.
 We need to shift from conceptualizing gun regulation as a form of broad punishment to looking at it through a lens of individualized risk management.
 The ERPO process can be triggered by various individuals, including family members, therapists, police officers, or friends, petitioning the court to restrict a person from purchasing or possessing firearms based on warning signs they have observed.
@@ -14,3 +11,4 @@ The ERPO is temporary and requires a prompt hearing, providing the person affect
 After a full hearing with the affected person present, if the continued restriction is determined to be necessary, another temporary order can be issued.
 Gun violence has got to be addressed proactively.
 To this end, ERPOs create a tailored, individually-specific process for restricting firearm access to people who pose an imminent threat of harm to themselves or others.
+Charles Smith Previous Previous Lesson Learned as a Domestic Violence Prosecutor Charles Smith for NC PO Box 53690 Fayetteville, NC 28305 Contact Our Campaign PAID FOR BY CHARLES SMITH FOR NC

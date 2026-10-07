@@ -1,29 +1,8 @@
-top of page
-Jim O Day
-State Representative for the 14th Worcester district of Massachusetts
-in the news
-February 1, 2024
-Worcester Telegram & Gazette
-May 30, 2023
-State House News Service
-May 5, 2023
-Albany Times Union
-March 13, 2023
-Telegram & Gazette
-February 15, 2023
-MassLive
-February 13, 2023
-CommonWealth Magazine
-December 19, 2022
-Boston Globe
-December 11, 2022
-Boston Globe
-October 20, 2022
-Spectrum News 1
-May 3, 2022
-Compassion & Choices
-March 15, 2022
-Compassion & Choices
-February 25, 2022
-Telegram & Gazette
-bottom of page
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items. in the news September 3, 2024 Fair Share amendment is working as intended CommonWealth Beacon June 4, 2024 Poll: Two-thirds of Mass. residents support medical aid in dying WBUR February 1, 2024 ​Teens, young adults charged with crimes could be retained in state juvenile justice system Worcester Telegram & Gazette May 30, 2023 State Rep.
+O'Day Optimistic about Passing Sex Ed Reform Bill Spectrum News 1 May 30, 2023 Supporters of Sex Ed Bill Say it's Time for Massachusetts to Act WGBH May 30, 2023 Shifting Landscape May Finally Lift Sex Ed Bill in Massachusetts State House News Service May 18, 2023 Legislators Push for Postpartum-Psychosis Bill in Wake of Duxbury Killings MassLive May 5, 2023 Rep: Healey’s Arrival Changes Outlook for Aid in Dying Bill The Greenfield Recorder May 5, 2023 Commentary: People Should be Free to Make Their Own End of Life Choices Albany Times Union March 20, 2023 On Beacon Hill, a Renewed Push for Having Postpartum Mood Disorders Considered in Criminal Cases Boston.com March 15, 2023 Progressive Coalition Mulling Tax Questions for Ballot WBZ March 13, 2023 Massachusetts Could Become the Next State to Allow Aid in Dying Washington Post March 13, 2023 New Role, New Responsibilities: State Rep.
+O'Day Advocates for 'Beneficial' Legislation Telegram & Gazette March 10, 2023 Faulty Wheelchairs Can Leave Bay Staters Stranded for Weeks.
+How a Bill Could Accelerate Repairs MassLive February 17, 2023 Maura Healey Signs Her First Bill into Law as Governor Spectrum News 1 February 15, 2023 Mass.
+Bill Could Help Postpartum Defendants like Lindsay Clancy get Therapy, not Jail Time MassLive February 13, 2023 Report Says Millions from New Tax on High Earners Could be Lost to Loophole CommonWealth Magazine January 26, 2023 State's Focus on Postpartum Depression Goes Back Years Boston 25 December 19, 2022 Supreme Judicial Court Rejects Bid to Legalize 'Physician-Assisted Suicide' Boston Globe December 11, 2022 Lawmakers, Citing New Momentum, Plan to Reintroduce Right-to-Die Bill in January Boston Globe November 9, 2022 Massachusetts Passes Ballot Question 1 (Millionaire's Tax), AP Says MassLive October 20, 2022 Massachusetts Ballot Question 4 about Eligibility for Driver's Licenses Spectrum News 1 July 22, 2022 Representative Updates Residents on State Budget Process Telegram & Gazette July 13, 2022 Advocates Push for Statewide Sex-Ed Standards The Eagle- Tribune June 6, 2022 ‘Massachusetts Gun Laws have been Proven to Work.’ Amid Spate of Mass Shootings, Policymakers Tout Bay State as Blueprint Boston Globe May 31, 2022 Proposed Curriculum Bill isn’t Sexualizing Kids — Mass.
+GOP is Boston Globe May 3, 2022 New Massachusetts Poll Shows Record High Support for Medical Aid-in-Dying Bill Compassion & Choices April 5, 2022 Let's (Not) Talk About Sex Boston Magazine March 15, 2022 Mass.
+Joint Committee on Public Health Advances Medical Aid-in-Dying Bill Compassion & Choices March 2, 2022 MA Lawmakers Urge Colleagues to Pass End-of-Life Options Act Public News Service March 11, 2022 Retiring Sen.
+Harriette Chandler Honored with Own Day in Worcester MassLive February 25, 2022 As I See It: Worcester’s Democratic House Delegation Outlines Efforts During Pandemic Telegram & Gazette February 23, 2022 Poll: Voters like Candidates who Support End-of-Life Choices MassLive bottom of page

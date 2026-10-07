@@ -1,4 +1,3 @@
-- This event has passed.
-VPR/Vermont PBS Gubernatorial Debate
-September 24, 2020 @ 12:00 pm - 1:00 pm
-Governor Scott participates in the VPR/Vermont PBS gubernatorial debate, airing at noon on VPR.
+Toggle navigation Join the Team Meet Phil Donate « All Events This event has passed.
+VPR/Vermont PBS Gubernatorial Debate September 24, 2020 @ 12:00 pm - 1:00 pm « Election Night Celebration VT Digger Gubernatorial Debate » Governor Scott participates in the VPR/Vermont PBS gubernatorial debate, airing at noon on VPR.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: September 24, 2020 Time: 12:00 pm - 1:00 pm Website: vpr.org « Election Night Celebration VT Digger Gubernatorial Debate » Connect with Phil Paid for by Phil Scott For Vermont PO Box 988 Montpelier, VT 05601 | Privacy Policy | Terms and Conditions Website Designed by Bytes.co × Close

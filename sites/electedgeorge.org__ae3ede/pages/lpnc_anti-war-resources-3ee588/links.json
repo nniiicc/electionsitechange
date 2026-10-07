@@ -1,50 +1,234 @@
 [
-"http://event/",
-"http://instagram.com/electedgeorge",
-"https://antiwar.com/",
-"https://antiwarnews.buzzsprout.com/",
-"https://defendtheguard.us/",
-"https://edgeorge.wakeupliberty.com/news",
-"https://edgeorge.wakeupliberty.com/privacy-policy",
-"https://edgeorge.wakeupliberty.com/take-action/donate",
-"https://edgeorge.wakeupliberty.com/take-action/volunteer",
-"https://electedgeorge.org/",
-"https://electedgeorge.org/2023/10/12",
-"https://electedgeorge.org/2023/12/16",
-"https://electedgeorge.org/2024/01/02",
-"https://electedgeorge.org/category/lpnc",
-"https://electedgeorge.org/cookie-policy",
-"https://electedgeorge.org/events",
-"https://electedgeorge.org/login",
-"https://electedgeorge.org/lpnc/anti-war-resources",
-"https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races",
-"https://electedgeorge.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press",
-"https://electedgeorge.org/meet",
-"https://electedgeorge.org/meet/district",
-"https://electedgeorge.org/meet/people-not-politics",
-"https://electedgeorge.org/news",
-"https://electedgeorge.org/priorities",
-"https://electedgeorge.org/priorities/cost-effective-healthcare",
-"https://electedgeorge.org/priorities/smarter-education",
-"https://electedgeorge.org/priorities/stronger-economy",
-"https://electedgeorge.org/take-action",
-"https://electedgeorge.org/take-action/donate",
-"https://electedgeorge.org/take-action/volunteer",
-"https://electedgeorge.org/take-action/when-where-to-vote",
-"https://facebook.com/LPofNC",
-"https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-h.html",
-"https://libertarianinstitute.org/",
-"https://lp.org/",
-"https://lpnc.org/",
-"https://lpnc.org/anti_war_resources",
-"https://medium.com/ukraine-diaries/what-i-know-and-what-i-dont-war-russia-andukraine-and-the-moral-high-ground-26dd6523f52a",
-"https://ncsbe.gov/voting/upcoming-election",
-"https://ncsbe.gov/voting/vote-early-person",
-"https://ncsbe.gov/voting/voter-lookup",
-"https://scotthorton.org/",
-"https://twitter.com/LPNC",
-"https://vote.gov/register/nc",
-"https://vt.ncsbe.gov/pplkup",
-"https://wakelp.org/",
-"https://x.com/edgeorgewv"
+{
+"text": "(919) 438-2657",
+"href": "tel:(919)%20438-2657"
+},
+{
+"text": "Anti-War resources",
+"href": "https://electedgeorge.org/lpnc/anti-war-resources/"
+},
+{
+"text": "Cancel reply",
+"href": "https://electedgeorge.org/lpnc/anti-war-resources/#respond"
+},
+{
+"text": "Contribute",
+"href": "https://edgeorge.wakeupliberty.com/take-action/donate/"
+},
+{
+"text": "Cost-effective Healthcare",
+"href": "https://electedgeorge.org/priorities/cost-effective-healthcare/"
+},
+{
+"text": "December 16, 2023",
+"href": "https://electedgeorge.org/2023/12/16/"
+},
+{
+"text": "Donate",
+"href": "https://electedgeorge.org/take-action/donate/"
+},
+{
+"text": "Donate Go",
+"href": "https://electedgeorge.org/take-action/donate"
+},
+{
+"text": "Early Voting",
+"href": "https://www.ncsbe.gov/voting/vote-early-person"
+},
+{
+"text": "Election Day",
+"href": "https://www.ncsbe.gov/voting/upcoming-election"
+},
+{
+"text": "Events",
+"href": "http://event"
+},
+{
+"text": "Events",
+"href": "https://electedgeorge.org/events/"
+},
+{
+"text": "Home",
+"href": "https://electedgeorge.org/"
+},
+{
+"text": "House 34",
+"href": "https://electedgeorge.org/meet/district/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/electedgeorge"
+},
+{
+"text": "January 2, 2024",
+"href": "https://electedgeorge.org/2024/01/02/"
+},
+{
+"text": "LP National website",
+"href": "https://www.lp.org"
+},
+{
+"text": "LPNC",
+"href": "https://electedgeorge.org/category/lpnc/"
+},
+{
+"text": "LPNC Facebook",
+"href": "https://www.facebook.com/LPofNC/"
+},
+{
+"text": "LPNC Twitter",
+"href": "https://twitter.com/LPNC"
+},
+{
+"text": "LPNC website",
+"href": "https://www.lpnc.org"
+},
+{
+"text": "Libertarian Party of North Carolina Candidates File for 46 Races",
+"href": "https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "Meet",
+"href": "https://electedgeorge.org/meet/"
+},
+{
+"text": "Meet Ed George",
+"href": "https://electedgeorge.org/meet/"
+},
+{
+"text": "News",
+"href": "https://edgeorge.wakeupliberty.com/news/"
+},
+{
+"text": "News",
+"href": "https://electedgeorge.org/news/"
+},
+{
+"text": "October 12, 2023",
+"href": "https://electedgeorge.org/2023/10/12/"
+},
+{
+"text": "People. not Politics.",
+"href": "https://electedgeorge.org/meet/people-not-politics/"
+},
+{
+"text": "Polling Stations",
+"href": "https://vt.ncsbe.gov/pplkup/"
+},
+{
+"text": "Priorities",
+"href": "https://electedgeorge.org/priorities/"
+},
+{
+"text": "Send an Email in Defense of Liberty and a Free Press",
+"href": "https://electedgeorge.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/"
+},
+{
+"text": "Smarter Education",
+"href": "https://electedgeorge.org/priorities/smarter-education/"
+},
+{
+"text": "Stronger Economy",
+"href": "https://electedgeorge.org/priorities/stronger-economy/"
+},
+{
+"text": "Take Action",
+"href": "https://electedgeorge.org/take-action/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/edgeorgewv"
+},
+{
+"text": "Volunteer",
+"href": "https://edgeorge.wakeupliberty.com/take-action/volunteer/"
+},
+{
+"text": "Volunteer",
+"href": "https://electedgeorge.org/take-action/volunteer/"
+},
+{
+"text": "Voter Lookup",
+"href": "https://www.ncsbe.gov/voting/voter-lookup"
+},
+{
+"text": "Voter Registration",
+"href": "https://vote.gov/register/nc/"
+},
+{
+"text": "WakeLP website",
+"href": "https://wakelp.org"
+},
+{
+"text": "When & Where to Vote",
+"href": "https://electedgeorge.org/take-action/when-where-to-vote/"
+},
+{
+"text": "[image: Anti-War resources]",
+"href": "https://electedgeorge.org/lpnc/anti-war-resources/"
+},
+{
+"text": "[image: Libertarian Party of North Carolina Candidates File for 46 Races]",
+"href": "https://electedgeorge.org/lpnc/libertarian-party-of-north-carolina-candidates-file-for-46-races/"
+},
+{
+"text": "[image: Send an Email in Defense of Liberty and a Free Press]",
+"href": "https://electedgeorge.org/lpnc/send-an-email-in-defense-of-liberty-and-a-free-press/"
+},
+{
+"text": "[image]",
+"href": "https://electedgeorge.org"
+},
+{
+"text": "[image]",
+"href": "https://electedgeorge.org/"
+},
+{
+"text": "[no text]",
+"href": "https://electedgeorge.org/lpnc/anti-war-resources/#respond"
+},
+{
+"text": "[no text]",
+"href": "https://www.lpnc.org/anti_war_resources#addreaction"
+},
+{
+"text": "[no text]",
+"href": "tel:(919)%20438-2657"
+},
+{
+"text": "https://antiwar.com/",
+"href": "https://antiwar.com/"
+},
+{
+"text": "https://antiwarnews.buzzsprout.com/",
+"href": "https://antiwarnews.buzzsprout.com/"
+},
+{
+"text": "https://defendtheguard.us/",
+"href": "https://defendtheguard.us/"
+},
+{
+"text": "https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-h.html",
+"href": "https://gutenberg.ca/ebooks/butlersd-warisaracket/butlersd-warisaracket-00-h.html"
+},
+{
+"text": "https://libertarianinstitute.org/",
+"href": "https://libertarianinstitute.org/"
+},
+{
+"text": "https://medium.com/ukraine-diaries/what-i-know-and-what-i-dont-war-russia-andukraine-and-the-moral-high-ground-26dd6523f52a",
+"href": "https://medium.com/ukraine-diaries/what-i-know-and-what-i-dont-war-russia-andukraine-and-the-moral-high-ground-26dd6523f52a"
+},
+{
+"text": "https://scotthorton.org/",
+"href": "https://scotthorton.org/"
+},
+{
+"text": "info@electedgeorge.org",
+"href": "mailto:info@electedgeorge.org"
+},
+{
+"text": "logged in",
+"href": "https://electedgeorge.org/login/"
+}
 ]

@@ -1,31 +1,14 @@
-top of page
-Use tab to navigate through the menu items.
-Search
-Rep.
-Junie Joseph Condemns Trump Administration Cuts to Teen Pregnancy Prevention Programs
-FOR IMMEDIATE RELEASE August 24, 2026 BOULDER, CO — Colorado State Representative Junie Joseph is condemning the Trump administration’s decision to terminate $68 million in federal grants for teen pregnancy prevention programs, calling the cuts a dangerous contradiction from an administration that is increasingly restricting reproductive healthcare while eliminating programs designed to help young people prevent unintended pregnancies.
-In July, more than 50 organizations rece
-junieforhd10Aug 252 min read
-Rep.
-Junie Joseph Condemns Use of Federal Firefighting Resources to Protect Private Ranch
-FOR IMMEDIATE RELEASE August 18, 2026 BOULDER, Colo. — Colorado State Representative Junie Joseph condemned reports that Michael Boren, the Trump administration official who oversees the U.S.
+top of page Home About Junie Photo & Video Gallery Stances Read More Legislation Newsroom Get Involved Your Community More Use tab to navigate through the menu items.
+DONATE All Posts Search Rep.
+Junie Joseph Condemns Trump Administration Cuts to Teen Pregnancy Prevention Programs FOR IMMEDIATE RELEASE August 24, 2026 BOULDER, CO — Colorado State Representative Junie Joseph is condemning the Trump administration’s decision to terminate $68 million in federal grants for teen pregnancy prevention programs, calling the cuts a dangerous contradiction from an administration that is increasingly restricting reproductive healthcare while eliminating programs designed to help young people prevent unintended pregnancies.
+In July, more than 50 organizations rece junieforhd10 Aug 25 2 min read Rep.
+Junie Joseph Condemns Use of Federal Firefighting Resources to Protect Private Ranch FOR IMMEDIATE RELEASE August 18, 2026 BOULDER, Colo. — Colorado State Representative Junie Joseph condemned reports that Michael Boren, the Trump administration official who oversees the U.S.
 Forest Service, personally pressed federal officials for additional firefighting resources while a small wildfire was burning near his private ranch in Idaho.
-According to reporting by The Washington Post, Boren contacted Forest Service officials multiple times in July about the seven-ac
-junieforhd10Aug 252 min read
-Rep.
+According to reporting by The Washington Post, Boren contacted Forest Service officials multiple times in July about the seven-ac junieforhd10 Aug 25 2 min read Rep.
 Junie Joseph Condemns Deportations to Iran and Liberia, Calls for Human Rights to Remain at the Center of U.S.
-Immigration Policy
-FOR IMMEDIATE RELEASE August 20, 2026 BOULDER, CO — State Representative Junie Joseph today condemned the Trump administration’s decision to deport people to Iran and to send individuals to Liberia under a new third-country deportation agreement, warning that the United States must not send people to countries where they could face serious threats to their safety, liberty and human rights.
-Newly released emails obtained by the National Iranian American Council and reported by
-junieforhd10Aug 203 min read
-Rep.
-Junie Joseph Condemns Trump Administration’s Renewed Attack on Birthright Citizenship
-FOR IMMEDIATE RELEASE August 7, 2026 BOULDER, CO — State Representative Junie Joseph condemned President Donald Trump’s renewed efforts to restrict birthright citizenship, following the administration’s latest executive actions targeting citizenship for children born in the United States.
+Immigration Policy FOR IMMEDIATE RELEASE August 20, 2026 BOULDER, CO — State Representative Junie Joseph today condemned the Trump administration’s decision to deport people to Iran and to send individuals to Liberia under a new third-country deportation agreement, warning that the United States must not send people to countries where they could face serious threats to their safety, liberty and human rights.
+Newly released emails obtained by the National Iranian American Council and reported by junieforhd10 Aug 20 3 min read Rep.
+Junie Joseph Condemns Trump Administration’s Renewed Attack on Birthright Citizenship FOR IMMEDIATE RELEASE August 7, 2026 BOULDER, CO — State Representative Junie Joseph condemned President Donald Trump’s renewed efforts to restrict birthright citizenship, following the administration’s latest executive actions targeting citizenship for children born in the United States.
 The move comes just weeks after the U.S.
 Supreme Court rejected the administration’s attempt to restrict birthright citizenship in a 6-3 decision.
-“The Fourteenth Amendment is clear: people
-junieforhd10Aug 72 min read
-Junie For HD - 10
-Paid for by Friends of Junie Joseph | Registered Agent Junie Joseph
-4985 Moorhead Ave Unit 3210 · Boulder, CO 80305 · USA
-bottom of page
+“The Fourteenth Amendment is clear: people junieforhd10 Aug 7 2 min read Junie For HD - 10 JunieForHD10@gmail.com Paid for by Friends of Junie Joseph | Registered Agent Junie Joseph 4985 Moorhead Ave Unit 3210 · Boulder, CO 80305 · USA bottom of page

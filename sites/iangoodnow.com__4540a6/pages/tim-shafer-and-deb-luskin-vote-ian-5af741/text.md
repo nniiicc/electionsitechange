@@ -1,4 +1,3 @@
-Tim Shafer and Deb Luskin: Vote Ian
-We know Ian to be a careful listener and a collaborative problem solver who has demonstrated both his commitment to Brattleboro and his leadership abilities on the Selectboard, during a global pandemic and with three town managers.
+Menu Close About In the News Issues Endorsements Contact Donate Ian Goodnow for Vermont State Representative About In the News Issues Endorsements Contact Donate Tim Shafer and Deb Luskin: Vote Ian Ian Goodnow for State Representative on August 7, 2024 We know Ian to be a careful listener and a collaborative problem solver who has demonstrated both his commitment to Brattleboro and his leadership abilities on the Selectboard, during a global pandemic and with three town managers.
 These qualities give us hope for new and lasting solutions to the problems we’re leaving his generation to solve.
-Tim Shafer and Deb Luskin (Brattleboro Reformer)
+Tim Shafer and Deb Luskin (Brattleboro Reformer) Read the full story Category: In the News Post navigation Previous: Previous post: vtdigger.org: Ian Goodnow candidate profile Next: Next post: Tristan Toleno: Thrilled to endorse Ian Footer Contact Ian today Email: iangoodnowvt@gmail.com Phone: 802-416-9880 Donate Get In Touch Follow Ian on social media Instagram Facebook Copyright # Ian Goodnow for State Representative

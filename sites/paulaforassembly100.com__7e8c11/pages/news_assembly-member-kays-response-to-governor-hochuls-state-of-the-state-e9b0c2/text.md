@@ -1,4 +1,8 @@
-Assembly Member Kay’s Response to Governor Hochul’s State of the State
-Governor Kathy Hochul’s 2026 State of the State address appears to deliver meaningful relief for New York families by
-ackling several of the most pressing affordability challenges: rising utility costs, the high price of childcare, and
-affordable housing.
+↑ 0 Skip to Content District 100 Endorsements Events News Register to Vote Contact DONATE Open Menu Close Menu District 100 Endorsements Events News Register to Vote Contact DONATE Open Menu Close Menu District 100 Endorsements Events News Register to Vote Contact DONATE Assembly Member Kay’s Response to Governor Hochul’s State of the State Jan 25 Written By Karen Fisher Governor Kathy Hochul’s 2026 State of the State address appears to deliver meaningful relief for New York families by ackling several of the most pressing affordability challenges: rising utility costs, the high price of childcare, and affordable housing.
+Karen Fisher Previous Previous Assembly Member Paula Elaine Kay Appointed to Environmental Conservation Committee Next Next District Libraries Will Receive More Than $210,000 in State Aid Contact us Paula for Assembly 100 PO Box 434 Rock Hill, NY 12775 info@paulaforassembly100.com 845-798-5585 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Connected & Informed Join our community of active voices and be the first to know!
+Get updates straight to your inbox and stay involved with the latest news, events, and opportunities to make a difference.
+First Name Last Name Email Address Sign Up We respect your privacy.
+Thank you!
+HOME | DISTRICT 100 | ENDORSEMENTS | EVENTS | NEWS REGISTER TO VOTE | VOLUNTEER | DONATE Donate | Privacy Policy Paid for by Paula for Assembly

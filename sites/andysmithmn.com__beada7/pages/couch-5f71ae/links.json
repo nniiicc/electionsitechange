@@ -1,42 +1,234 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Aug+27+%7C+Maple+Grove&dates=20260827T210000Z%2F20260827T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+12+%7C+Shakopee&dates=20260912T153000Z%2F20260912T163000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+15+%7C+Champlin&dates=20260915T220000Z%2F20260915T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+19+%7C+Chanhassen&dates=20260919T170000Z%2F20260919T180000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+2+%7C+Mankato&dates=20260902T210000Z%2F20260902T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+20+%7C+Exselsior&dates=20260920T210000Z%2F20260920T220000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+3+%7C+Winona&dates=20260903T220000Z%2F20260903T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sep+8+%7C+byron&dates=20260903T220000Z%2F20260903T230000Z",
-"http://instagram.com/AndySmithMN",
-"http://squarespace.com/",
-"https://andysmithmn.com/",
-"https://andysmithmn.com/cart",
-"https://andysmithmn.com/couch",
-"https://andysmithmn.com/couch/darcismith",
-"https://andysmithmn.com/couch/darcismith-6fnj8",
-"https://andysmithmn.com/couch/darcismith-6fnj8?format=ical",
-"https://andysmithmn.com/couch/darcismith?format=ical",
-"https://andysmithmn.com/couch/heatherholmes",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z?format=ical",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx?format=ical",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp?format=ical",
-"https://andysmithmn.com/couch/heatherholmes-dz8bn?format=ical",
-"https://andysmithmn.com/couch/heatherholmes-g34ll",
-"https://andysmithmn.com/couch/heatherholmes-g34ll?format=ical",
-"https://andysmithmn.com/couch/heatherholmes?format=ical",
-"https://andysmithmn.com/get-involved",
-"https://andysmithmn.com/healthcare",
-"https://andysmithmn.com/issues",
-"https://andysmithmn.com/meetandy",
-"https://andysmithmn.com/reproductivefreedom",
-"https://andysmithmn.com/tax-the-rich",
-"https://andysmithmn.com/thrivingcommunities",
-"https://facebook.com/AndySmithMN",
-"https://mailchi.mp/andysmithmn/subscribe-to-our-newsletter",
-"https://secure.actblue.com/donate/andy-smith-for-house",
-"https://tiktok.com/@andysmithmn?lang=en"
+{
+"text": "0",
+"href": "https://www.andysmithmn.com/cart"
+},
+{
+"text": "Abortion",
+"href": "https://www.andysmithmn.com/reproductivefreedom"
+},
+{
+"text": "Aug 27 | Maple Grove",
+"href": "https://www.andysmithmn.com/couch/darcismith"
+},
+{
+"text": "Back",
+"href": "https://www.andysmithmn.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andy-smith-for-house"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.andysmithmn.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.andysmithmn.com/issues"
+},
+{
+"text": "Get Off the Couch Tour",
+"href": "https://www.andysmithmn.com/couch"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Aug+27+%7C+Maple+Grove&dates=20260827T210000Z%2F20260827T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+12+%7C+Shakopee&dates=20260912T153000Z%2F20260912T163000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+15+%7C+Champlin&dates=20260915T220000Z%2F20260915T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+19+%7C+Chanhassen&dates=20260919T170000Z%2F20260919T180000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+2+%7C+Mankato&dates=20260902T210000Z%2F20260902T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+20+%7C+Exselsior&dates=20260920T210000Z%2F20260920T220000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+3+%7C+Winona&dates=20260903T220000Z%2F20260903T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sep+8+%7C+byron&dates=20260903T220000Z%2F20260903T230000Z"
+},
+{
+"text": "Healthcare",
+"href": "https://www.andysmithmn.com/healthcare"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/darcismith-6fnj8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/darcismith?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-g34ll?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.andysmithmn.com/couch/heatherholmes?format=ical"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.andysmithmn.com/meetandy"
+},
+{
+"text": "Sep 12 | Shakopee",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-g34ll"
+},
+{
+"text": "Sep 15 | Champlin",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn"
+},
+{
+"text": "Sep 19 | Chanhassen",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp"
+},
+{
+"text": "Sep 2 | Mankato",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z"
+},
+{
+"text": "Sep 20 | Exselsior",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx"
+},
+{
+"text": "Sep 3 | Winona",
+"href": "https://www.andysmithmn.com/couch/darcismith-6fnj8"
+},
+{
+"text": "Sep 8 | byron",
+"href": "https://www.andysmithmn.com/couch/heatherholmes"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Subscribe",
+"href": "https://mailchi.mp/andysmithmn/subscribe-to-our-newsletter"
+},
+{
+"text": "Tax the Rich",
+"href": "https://www.andysmithmn.com/tax-the-rich"
+},
+{
+"text": "Thriving Communities",
+"href": "https://www.andysmithmn.com/thrivingcommunities"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/darcismith"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/darcismith-6fnj8"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z"
+},
+{
+"text": "View Event →",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-g34ll"
+},
+{
+"text": "[image: Aug 27 | Maple Grove]",
+"href": "https://www.andysmithmn.com/couch/darcismith"
+},
+{
+"text": "[image: Rep. Andy Smith for MN House]",
+"href": "https://www.andysmithmn.com/"
+},
+{
+"text": "[image: Sep 12 | Shakopee]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-g34ll"
+},
+{
+"text": "[image: Sep 15 | Champlin]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn"
+},
+{
+"text": "[image: Sep 19 | Chanhassen]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp"
+},
+{
+"text": "[image: Sep 2 | Mankato]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx-g5e2z"
+},
+{
+"text": "[image: Sep 20 | Exselsior]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes-dz8bn-h3wwp-fgyxx"
+},
+{
+"text": "[image: Sep 3 | Winona]",
+"href": "https://www.andysmithmn.com/couch/darcismith-6fnj8"
+},
+{
+"text": "[image: Sep 8 | byron]",
+"href": "https://www.andysmithmn.com/couch/heatherholmes"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/AndySmithMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AndySmithMN"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@andysmithmn?lang=en"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@AndySmithmn.com"
+}
 ]

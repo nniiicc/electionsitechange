@@ -1,23 +1,102 @@
 [
-"https://bsky.app/profile/rodneysadler.com",
-"https://facebook.com/RevDrSadler",
-"https://instagram.com/revdrsadler",
-"https://mobilize.us/rodneysadler",
-"https://rodneysadler.com/",
-"https://rodneysadler.com/about",
-"https://rodneysadler.com/category/press",
-"https://rodneysadler.com/endorsements",
-"https://rodneysadler.com/media-center",
-"https://rodneysadler.com/news",
-"https://rodneysadler.com/platform",
-"https://rodneysadler.com/press/house-district-106-doubles-early-vote-turnout",
-"https://rodneysadler.com/press/increased-ice-activity-election-week-rev-rodney-sadler-calls-for-love-over-fear",
-"https://rodneysadler.com/press/rev-rodney-sadler-wins-by-overwhelming-margin",
-"https://rodneysadler.com/privacy",
-"https://rodneysadler.com/vote",
-"https://secure.actblue.com/donate/rodneysadler",
-"https://threads.com/@revdrsadler",
-"https://x.com/RevDrSadler",
-"https://xpslane.com/",
-"https://youtu.be/nxTUqYiAfd8"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rodneysadler"
+},
+{
+"text": "Endorsements",
+"href": "https://rodneysadler.com/endorsements"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/rodneysadler/"
+},
+{
+"text": "Home",
+"href": "https://rodneysadler.com/"
+},
+{
+"text": "Learn More",
+"href": "https://rodneysadler.com/about"
+},
+{
+"text": "Learn More",
+"href": "https://rodneysadler.com/platform"
+},
+{
+"text": "Media Inquiries",
+"href": "https://rodneysadler.com/media-center"
+},
+{
+"text": "Meet Rodney",
+"href": "https://rodneysadler.com/about"
+},
+{
+"text": "News",
+"href": "https://rodneysadler.com/news"
+},
+{
+"text": "News Articles",
+"href": "https://rodneysadler.com/news"
+},
+{
+"text": "Platform",
+"href": "https://rodneysadler.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://rodneysadler.com/category/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rodneysadler.com/privacy"
+},
+{
+"text": "Vote",
+"href": "https://rodneysadler.com/vote"
+},
+{
+"text": "[image: Rev. Dr. Rodney Sadler for NC House District 106]",
+"href": "https://rodneysadler.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/rodneysadler.com"
+},
+{
+"text": "[no text]",
+"href": "https://rodneysadler.com/press/house-district-106-doubles-early-vote-turnout"
+},
+{
+"text": "[no text]",
+"href": "https://rodneysadler.com/press/increased-ice-activity-election-week-rev-rodney-sadler-calls-for-love-over-fear"
+},
+{
+"text": "[no text]",
+"href": "https://rodneysadler.com/press/rev-rodney-sadler-wins-by-overwhelming-margin"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RevDrSadler"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/revdrsadler/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@revdrsadler"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/RevDrSadler"
+},
+{
+"text": "[no text]",
+"href": "https://youtu.be/nxTUqYiAfd8"
+}
 ]

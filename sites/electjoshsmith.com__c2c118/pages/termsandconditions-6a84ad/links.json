@@ -1,13 +1,54 @@
 [
-"http://electjoshsmith.com/",
-"https://electjoshsmith.com/",
-"https://electjoshsmith.com/PrivacyPolicy",
-"https://electjoshsmith.com/contact",
-"https://electjoshsmith.com/feed",
-"https://facebook.com/groups/fwdutah",
-"https://facebook.com/profile.php?id=61561841812613&sk=events",
-"https://forwardparty.com/",
-"https://instagram.com/fwdutah",
-"https://secure.anedot.com/elect-josh-smith/donate",
-"https://twitter.com/FWDUtah"
+{
+"text": "Contact",
+"href": "https://www.electjoshsmith.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/elect-josh-smith/donate"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/profile.php?id=61561841812613&sk=events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/groups/fwdutah"
+},
+{
+"text": "Forward Party",
+"href": "https://www.forwardparty.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/fwdutah/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electjoshsmith.com/PrivacyPolicy"
+},
+{
+"text": "RSS",
+"href": "https://www.electjoshsmith.com/feed/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/FWDUtah"
+},
+{
+"text": "[image]",
+"href": "http://electjoshsmith.com"
+},
+{
+"text": "contact page",
+"href": "https://www.electjoshsmith.com/contact"
+},
+{
+"text": "www.electjoshsmith.com",
+"href": "https://www.electjoshsmith.com"
+},
+{
+"text": "www.electjoshsmith.com/contact",
+"href": "https://www.electjoshsmith.com/contact"
+}
 ]

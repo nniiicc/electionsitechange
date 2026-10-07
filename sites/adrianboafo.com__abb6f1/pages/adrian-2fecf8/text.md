@@ -1,5 +1,5 @@
-Meet Adrian Boafo
-Adrian is a proud and lifelong Marylander – but his story first began far from Bowie.
+top of page Home Meet Adrian Issues Endorsements News Volunteer Vote More Use tab to navigate through the menu items.
+DONATE Meet Adrian Boafo Adrian is a proud and lifelong Marylander – but his story first began far from Bowie.
 Adrian’s parents emigrated from Ghana to the United States, determined to get an education and build a better future.
 They met in the US and eventually settled in Prince George’s County where Adrian was raised.
 It was that community who taught him the importance of faith, determination and fighting for what is right.
@@ -11,7 +11,7 @@ He was fortunate to serve the communities of Maryland’s Fifth Congressional Di
 There, Adrian saw up close what leadership looks like when it's focused on action, not just talk.
 He traveled with the Congressman to every corner of the Fifth Congressional District, seeing the direct results of his work.
 At home, Adrian knew Bowie families were feeling the pains of rising prices and stagnant wages.
-So, at the age of 25, running on a commonsense vision of smart development and bold public-private partnerships, he challenged and beat an incumbent to win a seat on the Bowie City Council, where he served as Mayor Pro Tem.
+So, at the age of 25, running on a commonsense vision of smart development and bold public-private partnerships, he challenged and beat an incumbent to win a seat on the Bowie City Council, where he served as Mayor Pro Tem .
 Adrian led by fighting for projects that helped everyday people.
 He helped provide cleaner water for the city, securing millions in funding to replace deteriorating iron water pipes and created a pilot program that brought good-paying construction jobs to help guide Prince George’s County out of the pandemic.
 Voters again put their faith and trust in Adrian and elected him to the Maryland House of Delegates.
@@ -26,3 +26,4 @@ Donald Trump and his corrupt administration are dragging our government to its b
 He knows that to stop Trump we need to elect the next generation of leadership who will prevent him from further rigging the system.
 His pledge is simple: to make Maryland a place where families can afford to live with dignity, where seniors can count on their Social Security and Medicare, and where newcomers - like his family once was - are welcomed, not feared.
 Adrian knows we need leaders who are deeply rooted in the communities we serve, who can be a voice for the people.
+Donate Volunteer Yard Sign Contact us Donate by mail: PO Box 408, Bowie, MD 20718 ​ Privacy Policy PAID FOR BY ADRIAN BOAFO FOR CONGRESS bottom of page

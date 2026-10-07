@@ -1,19 +1,82 @@
 [
-"http://x.com/kimberlyhardync",
-"https://actblue.com/donate/nc07web",
-"https://bsky.app/profile/kimberlyhardync.bsky.social",
-"https://facebook.com/KimberlyHardyForCongress",
-"https://instagram.com/kimberlyhardyforcongress",
-"https://kimberlyhardyforcongress.com/",
-"https://kimberlyhardyforcongress.com/cart",
-"https://kimberlyhardyforcongress.com/endorsements",
-"https://kimberlyhardyforcongress.com/getinvolved",
-"https://kimberlyhardyforcongress.com/media-hub",
-"https://kimberlyhardyforcongress.com/media-hub/v/15-minute-midday-routine-merfc?categoryId=6ab460f6511293317cd6e1e4",
-"https://kimberlyhardyforcongress.com/media-hub/v/30-minute-morning-flow-z5dpj",
-"https://kimberlyhardyforcongress.com/media-hub/v/30-minute-morning-flow-z5dpj?categoryId=6ab460f6511293317cd6e1e4",
-"https://kimberlyhardyforcongress.com/media-hub/v/tips-for-better-focus-khnrn?categoryId=6ab460f6511293317cd6e1e4",
-"https://kimberlyhardyforcongress.com/meetkimberly",
-"https://kimberlyhardyforcongress.com/priorities",
-"https://secure.actblue.com/donate/nc07web"
+{
+"text": "# Minute Midday Routine",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/15-minute-midday-routine-merfc?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "# Minute Morning Flow",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/30-minute-morning-flow-z5dpj?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "0",
+"href": "https://www.kimberlyhardyforcongress.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nc07web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kimberlyhardyforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.kimberlyhardyforcongress.com/getinvolved"
+},
+{
+"text": "Media Hub",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub"
+},
+{
+"text": "Meet Kimberly",
+"href": "https://www.kimberlyhardyforcongress.com/meetkimberly"
+},
+{
+"text": "Previous 30 Minute Morning Flow",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/30-minute-morning-flow-z5dpj"
+},
+{
+"text": "Priorities",
+"href": "https://www.kimberlyhardyforcongress.com/priorities"
+},
+{
+"text": "Tips for Better Focus",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/tips-for-better-focus-khnrn?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "[image: Dr. Kimberly Hardy for Congress]",
+"href": "https://www.kimberlyhardyforcongress.com/"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/15-minute-midday-routine-merfc?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/30-minute-morning-flow-z5dpj?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "[image: Related Video Item Thumbnail]",
+"href": "https://www.kimberlyhardyforcongress.com/media-hub/v/tips-for-better-focus-khnrn?categoryId=6ab460f6511293317cd6e1e4"
+},
+{
+"text": "[image]",
+"href": "https://actblue.com/donate/nc07web"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/kimberlyhardync"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/kimberlyhardync.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KimberlyHardyForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kimberlyhardyforcongress"
+}
 ]

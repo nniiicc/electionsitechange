@@ -1,9 +1,34 @@
 [
-"https://facebook.com/MikePohanka",
-"https://instagram.com/elect_mike_pohanka",
-"https://mikepohanka.com/",
-"https://mikepohanka.com/how-can-i-help",
-"https://mikepohanka.com/idaho-first",
-"https://mikepohanka.com/who-is-mike-pohanka",
-"https://secure.anedot.com/michael-pohanka-for-state-representative/pohankaforidaho"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/michael-pohanka-for-state-representative/pohankaforidaho"
+},
+{
+"text": "Home",
+"href": "https://mikepohanka.com/"
+},
+{
+"text": "How Can I Help?",
+"href": "https://mikepohanka.com/how-can-i-help"
+},
+{
+"text": "Idaho First",
+"href": "https://mikepohanka.com/idaho-first"
+},
+{
+"text": "Who is Mike Pohanka?",
+"href": "https://mikepohanka.com/who-is-mike-pohanka"
+},
+{
+"text": "[image: Mike Pohanka for Idaho house District 26 logo]",
+"href": "https://mikepohanka.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/MikePohanka/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/elect_mike_pohanka/"
+}
 ]

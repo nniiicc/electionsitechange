@@ -1,13 +1,13 @@
-Carole Fiola State Representative, 6th Bristol District
-Keep up with Carole by subscribing to our newsletter!
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Carole Fiola State Representative, 6th Bristol District Keep up with Carole by subscribing to our newsletter!
+Yes, join the newsletter!
+Thank you for allowing me to continue to represent you, your families and our communities as State Representative of the 6th Bristol District.
+I will always be available to listen to your issues, ideas and concerns.
+Thank you!
 Your experienced, dedicated advocate.
 Keep up with Carole by viewing past Newsletters, Hot Job listings, and more!
-Follow updated news, events, and local hot jobs.
-Contact us
-Committee to Elect Carole Fiola
-307 Archer Street
-Fall River, MA 02720
-(508) 641-0297
-[email protected]
-Carole Fiola State Representative, 6th Bristol District
-Keep up with Carole by subscribing to our newsletter!
+Keeping up with Carole Newsletters Fall River Hot Job Listings Press Release articles from Carole See all of the Events from Carole Meet up with Carole at a Coffee & Conversation Follow updated news, events, and local hot jobs.
+10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center October 5, 2026 Continue reading 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center September 28, 2026 Continue reading 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center September 15, 2026 Continue reading 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center August 31, 2026 Continue reading 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center April 6, 2026 Continue reading 10/20/2025 Weekly Hot Jobs from the Fall River MassHire Career Center October 20, 2025 Continue reading 10/14/2025 Weekly Hot Jobs from the Fall River MassHire Career Center October 14, 2025 Continue reading 9/29/2025 Weekly Hot Jobs from the Fall River MassHire Career Center September 29, 2025 Continue reading 1 2 3 … 139 Next » Contact us Committee to Elect Carole Fiola 307 Archer Street Fall River, MA 02720 (508) 641-0297 [email protected] Carole Fiola State Representative, 6th Bristol District Keep up with Carole by subscribing to our newsletter!
+Yes, join the newsletter!
+Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

@@ -1,6 +1,10 @@
-Birk Wilkison
-Birk Wilkison
-“This is not the time to sit on your hands.
+0 Skip to Content Home About Issues Endorsements Get Involved In The News CONTRIBUTE Open Menu Close Menu Open Menu Close Menu Home About Issues Endorsements Get Involved In The News CONTRIBUTE Home About Issues Endorsements Get Involved In The News CONTRIBUTE In The News Birk Wilkison 1/8/26 Birk Wilkison 1/8/26 Oak Cliff representative protests state redistricting process: Oak Cliff Advocate, 12/30/25 Read More Birk Wilkison 8/7/25 Birk Wilkison 8/7/25 Why I Denied Quorum Read More Birk Wilkison 8/7/25 Birk Wilkison 8/7/25 REPRESENTATIVE JESSICA GONZÁLEZ ANNOUNCES REELECTION CAMPAIGN FOR TEXAS HOUSE DISTRICT 104 Read More Birk Wilkison 9/10/24 Birk Wilkison 9/10/24 LGBTQ attendance strong at DNC: Dallas Voice, 8/31/2024 “This is not the time to sit on your hands.
 It’s time to do something.” Read more by the Dallas Voice.
-Drew Corbitt
-Drew Corbitt
+Read More Birk Wilkison 5/23/24 Birk Wilkison 5/23/24 Rep.
+González pushes to increase public school funding: Lone Star Politics, 5/19/2024 Read More Drew Corbitt 12/16/23 Drew Corbitt 12/16/23 Health authorities in North Texas push for vaccines amid spike in respiratory illness Read More Drew Corbitt 12/15/23 Drew Corbitt 12/15/23 We ranked Texas House members along the ideological spectrum based on their 2023 votes Read More Drew Corbitt 12/13/23 Drew Corbitt 12/13/23 Rep.
+Jessica González’s office hosts COVID, flu vaccination clinic Read More Drew Corbitt 10/9/23 Drew Corbitt 10/9/23 Texas Legislature opens special session Read More Drew Corbitt 9/29/23 Drew Corbitt 9/29/23 Texas public school leaders demand more funding ahead of expected special session Read More Drew Corbitt 6/23/23 Drew Corbitt 6/23/23 The power of the (vindictive) veto Read More Drew Corbitt 6/20/23 Drew Corbitt 6/20/23 Analysis: The 2023 Texas House, from right to left Read More Drew Corbitt 6/17/23 Drew Corbitt 6/17/23 Here are the bills Texas Gov.
+Greg Abbott has vetoed this session Read More Drew Corbitt 6/16/23 Drew Corbitt 6/16/23 Biden’s tricky path on trans issues Read More Drew Corbitt 6/15/23 Drew Corbitt 6/15/23 Dallas City Council enacts new ban on certain short-term rentals Read More Older Posts Pol.
+Adv.
+Paid by Jessica González Campaign.
+P.O.
+Box 224392 Dallas, TX 75222-4392 View our Terms of Service and Privacy Policy by clicking here.

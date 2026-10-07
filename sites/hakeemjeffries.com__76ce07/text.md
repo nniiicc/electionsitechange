@@ -1,8 +1,5 @@
-Join Team Jeffries
-Scroll Down
-Hakeem will always put people over politics.
+Skip to content Hakeem will always put people over politics.
 Help him keep fighting For The People.
-In the News
-The New York Times
-Jeffries Kicks Off Midterm Sprint With Economic Pitch
-The Washington Post
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Homepage About Hakeem News Issues Search for: Donate Menu Join Team Jeffries Scroll Down Hakeem will always put people over politics.
+Help him keep fighting For The People.
+If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other In the News The New York Times Jeffries Kicks Off Midterm Sprint With Economic Pitch The Press Box Democratic Leader Hakeem Jeffries on Iran, the Epstein Files, His Party’s 2026 Bumper Sticker, and the Best New York Rapper of All Time The Washington Post In bid to win majority, House Democrats target districts Trump easily won Read More News Follow Us Donate Now If you’ve saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About News Issues Privacy Policy Stay in Touch Paid for by Jeffries for Congress

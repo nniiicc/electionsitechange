@@ -1,4 +1,4 @@
-Steve Fitzpatrick is a fifth generation Montanan.
+Home About Legislative Record Issues Contact DONATE More Home About Legislative Record Issues Contact DONATE Home About Legislative Record Issues Contact DONATE About Steve Steve Fitzpatrick is a fifth generation Montanan.
 Steve graduated from Montana State University in 2001 with a degree in Biological Sciences and from the Arizona State University College of Law in 2004.
 Since 2005, Steve has worked as an attorney in private practice representing individuals and small businesses across Montana.
 In 2010, after becoming concerned about the direction of Montana, Steve decided to run for the Montana House of Representatives.
@@ -18,5 +18,6 @@ Steve is a board member of the Cascade County Sheriff’s Legacy Foundation.
 The Foundation works to raise funds to supply equipment, training, and other essentials not covered by the annual budget for the Cascade County Sheriff's Office.
 Steve has volunteered as a coach for youth soccer and basketball.
 In the summer, you can find him hiking in Glacier Park or working in his garden.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Paid for by Fitzpatrick for House District 24.
+Republican.
+PO Box 7192, Great Falls, MT 59406 Powered by DONATE

@@ -1,12 +1,50 @@
 [
-"https://facebook.com/KevinCarpenterforWV",
-"https://kevincarpenterforwv.com/",
-"https://kevincarpenterforwv.com/about",
-"https://kevincarpenterforwv.com/about-us",
-"https://kevincarpenterforwv.com/cart",
-"https://kevincarpenterforwv.com/donate",
-"https://kevincarpenterforwv.com/home",
-"https://kevincarpenterforwv.com/issues",
-"https://kevincarpenterforwv.com/volunteer",
-"https://secure.actblue.com/donate/kevincarpenterwva"
+{
+"text": "0",
+"href": "https://www.kevincarpenterforwv.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.kevincarpenterforwv.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.kevincarpenterforwv.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/kevincarpenterwva"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KevinCarpenterforWV"
+},
+{
+"text": "Home",
+"href": "https://www.kevincarpenterforwv.com/"
+},
+{
+"text": "Home",
+"href": "https://www.kevincarpenterforwv.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.kevincarpenterforwv.com/issues"
+},
+{
+"text": "Kevin Carpenter",
+"href": "https://www.kevincarpenterforwv.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kevincarpenterforwv.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.kevincarpenterforwv.com/about-us"
+},
+{
+"text": "kevincarpenter4wv@gmail.com",
+"href": "mailto:kevincarpenter4wv@gmail.com"
+}
 ]

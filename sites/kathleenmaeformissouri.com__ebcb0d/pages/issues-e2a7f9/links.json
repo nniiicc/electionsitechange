@@ -1,13 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScN8qzZXK6Sw-daxPRZr6_L21amGDVisjVkFdQjBeRa_Uu2lg/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSdRYDrObX77krU0jkuJqFr5yiKLR0zEg1HjSJIPER2UI8GAKQ/viewform?usp=header",
-"https://kathleenmaeformissouri.com/",
-"https://kathleenmaeformissouri.com/about",
-"https://kathleenmaeformissouri.com/faq",
-"https://kathleenmaeformissouri.com/issues",
-"https://kathleenmaeformissouri.com/materials/kmr-business-card.pdf",
-"https://kathleenmaeformissouri.com/materials/kmr-sign-banner.pdf",
-"https://kathleenmaeformissouri.com/why-independent",
-"https://secure.anedot.com/kathleenmaeformissouri/mo4kmrcontributions",
-"https://sos.mo.gov/elections/govotemissouri/register"
+{
+"text": "(816) 608-9500",
+"href": "tel:8166089500"
+},
+{
+"text": "About KathleenMae",
+"href": "https://kathleenmaeformissouri.com/about"
+},
+{
+"text": "Business Card (PDF)",
+"href": "https://kathleenmaeformissouri.com/materials/kmr-business-card.pdf"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/kathleenmaeformissouri/mo4kmrcontributions"
+},
+{
+"text": "Email Us",
+"href": "mailto:Mo4KMR@gmail.com"
+},
+{
+"text": "FAQ",
+"href": "https://kathleenmaeformissouri.com/faq"
+},
+{
+"text": "Home",
+"href": "https://kathleenmaeformissouri.com/"
+},
+{
+"text": "How to Write Her In",
+"href": "https://kathleenmaeformissouri.com/#writein"
+},
+{
+"text": "KathleenMae RogersIndependent · MO‑4",
+"href": "https://kathleenmaeformissouri.com/"
+},
+{
+"text": "Mo4KMR@gmail.com",
+"href": "mailto:Mo4KMR@gmail.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.mo.gov/elections/govotemissouri/register"
+},
+{
+"text": "Share a Concern",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdRYDrObX77krU0jkuJqFr5yiKLR0zEg1HjSJIPER2UI8GAKQ/viewform?usp=header"
+},
+{
+"text": "The Issues",
+"href": "https://kathleenmaeformissouri.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScN8qzZXK6Sw-daxPRZr6_L21amGDVisjVkFdQjBeRa_Uu2lg/viewform?usp=header"
+},
+{
+"text": "Why Independent",
+"href": "https://kathleenmaeformissouri.com/why-independent"
+},
+{
+"text": "Yard Sign & Banner Design (PDF)",
+"href": "https://kathleenmaeformissouri.com/materials/kmr-sign-banner.pdf"
+}
 ]

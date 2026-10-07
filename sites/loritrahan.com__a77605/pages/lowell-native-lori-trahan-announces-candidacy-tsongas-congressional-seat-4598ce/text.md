@@ -1,9 +1,7 @@
-Lowell Native Lori Trahan Announces Candidacy for Tsongas Congressional Seat
-Lowell, MA / October 12, 2017 – Today, Lori Trahan officially announced her candidacy for Congress in Massachusetts’ Third District to replace Niki Tsongas who held the seat for five terms.
+Skip to content Menu Home Meet Lori Priorities Education Jobs & The Economy Healthcare Women’s Rights Immigration Reform Election Reform Opioids & Substance Abuse Gun Reform Energy and the Environment Media Get Involved Volunteer Register to Vote Contribute Close Menu October 12 2017 Lowell Native Lori Trahan Announces Candidacy for Tsongas Congressional Seat Lowell, MA / October 12, 2017 – Today, Lori Trahan officially announced her candidacy for Congress in Massachusetts’ Third District to replace Niki Tsongas who held the seat for five terms.
 Tsongas’ 2007 special election marked the first time in twenty-five years that a woman from Massachusetts was elected to serve in Congress.
 “I’m running for Congress to fight for working families who need an effective voice in Washington,” said Trahan, a Democrat.
-“I will work hard for the people who are being marginalized and left behind, and I will fight for the values and economic opportunities that make this country great.”
-Born and raised in Lowell, Trahan grew up in a working class home on Staples Street.
+“I will work hard for the people who are being marginalized and left behind, and I will fight for the values and economic opportunities that make this country great.” Born and raised in Lowell, Trahan grew up in a working class home on Staples Street.
 Her father, Tony Loureiro, was the son of Portuguese immigrants and a proud member of the ironworkers union, while her mother, Linda (Sousa) grew up in the Franco-American orphanage in Lowell.
 Together they raised four girls on a union salary supplemented by part-time work.
 Everyone in the house worked when they could, with Lori delivering the Lowell Sun at age 11, and serving breakfast at the Owl Diner throughout high school while also playing on the varsity volleyball team.
@@ -15,9 +13,7 @@ In addition to her work for former Congressman Marty Meehan as his chief of staf
 She is also a working mother who, together with her husband, Dave, is raising two daughters and three sons.
 “I believe I’m uniquely qualified to represent our community at a time when bold reforms and skilled leadership are desperately needed,” added Trahan.
 Click here for more.
-The majority of donations were from citizens from within the Third District spanning 15 communities, with 52% coming from women.
-###
-MEDIA CONTACT:
-Eileen O’Connor
-Eileen@loritrahan.com
-Cell: 617-806-6999
+The Lori Trahan for Congress Committee also announced today that it raised $# over a two-week period from September 15 to September 30.
+The majority of donations were from citizens from within the Third District spanning 15 communities, with #% coming from women.
+### MEDIA CONTACT: Eileen O’Connor Eileen@loritrahan.com Cell: 617-806-6999 Westford’s Trahan eyes 3rd District U.S. rep seat / Lowell Sun Ex-Meehan Aide launches Third District bid / Boston Globe Related Posts Uncategorized Congresswoman Lori Trahan introduced the Pandemic Production Act Uncategorized The Merrimack River: A treasure worth protecting – By Lori Trahan Uncategorized Trahan Shows Support for Local Farmers Back To Top P.O.
+Box 1161 Lowell, MA 01853 Paid for by Lori Trahan for Congress

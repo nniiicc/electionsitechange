@@ -1,4 +1,6 @@
-The day before her speech at the Frank Church Gala, I had the distinct honor of meeting with US Senator Elissa Slotkin of Michigan, alongside House Democratic Leader Ilana Rubel, and Mayor McLean.
+Home 2026 Session / Take Action Legislation Legislation Community Efforts Priorities About Melissa About Melissa About District 19 Awards Contact Me Endorsements Media Resources Newsletter Videos Volunteer Request a Yard Sign DONATE Fight or Flight?
+Let’s Fight for What’s Right!
+Mar 8, 2026 The day before her speech at the Frank Church Gala, I had the distinct honor of meeting with US Senator Elissa Slotkin of Michigan , alongside House Democratic Leader Ilana Rubel, and Mayor McLean.
 Senator Slotkin is a truly exceptional leader whose career includes serving as a Central Intelligence Agency analyst, a Department of Defense official, and Assistant Secretary of Defense for International Security Affairs.
 Our discussion focused on a significant threat to national security: the current domestic climate.
 Senator Slotkin highlighted how Americans are being distracted by damaging and “scatter-shot” tactics from the federal government.
@@ -21,3 +23,7 @@ We need to demand accountability from our Congressional Delegation and insist on
 The most effective way to challenge this abuse of power is by electing more Democrats.
 I urge you to get involved in a campaign this year to help flip seats in both the state legislature and Congress.
 Success requires a united team!
+Recent Posts OPPRESSIVE BILLS HIT THE SENATE March 28, 2026 Fight or Flight?
+Let’s Fight for What’s Right!
+March 8, 2026 ANOTHER SHOCKING MURDER by ICE January 25, 2026 Preventable.
+Predictable: Idaho’s budget crisis impacts all of us November 23, 2025 Idaho’s Budget Chaos April 9, 2025 Blog Categories 2021 Legislative Session 2023 Legislative Session Budget / Government Spending Civil Discourse COVID 19 Health Care Human Rights Mandatory Minimum Sentencing Reform Marriage Age Reform News & Events Property Taxes Public Education Public Lands Sexual Assualt / Domestic Violence Uncategorized Voting Rights / Gerrymandering Paid for by Wintrow for Idaho | Treasurer Anne Kunkel Follow Follow Follow Follow idahodems.org | idahodlcc.org

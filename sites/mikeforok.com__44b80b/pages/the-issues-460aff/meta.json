@@ -1,7 +1,11 @@
 {
  "description": "Explore Republican nominee Mike Mazzei's positions on taxes, education, public safety, land ownership, and government accountability in Oklahoma.",
  "final_url": "https://mikeforok.com/the-issues/",
- "paid_for_by": "Paid for by Mazzei for Governor \u2013 2026 media@mikeforok",
+ "fingerprint": "d1c27afaf2d496464a4f79341c2599b1dc874c41",
+ "format": 3,
+ "paid_for_by": "Paid for by Mazzei for Governor – 2026 media@mikeforok",
  "title": "The Issues | Where Mike Mazzei Stands on Oklahoma's Biggest Challenges",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

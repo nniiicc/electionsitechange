@@ -1,36 +1,5 @@
-Lindsey Williams is proudly endorsed by…
-SEIU PA State Council
-International Union of Operating Engineers Local 66
-Emily’s List
-IBEW Local 5
-Pennsylvania AFL-CIO
-Planned Parenthood
-PA Advocates
-Pennsylvania State
-Education Association
-Pittsburgh Federation
-of Teachers
-Sierra Club
-Working Families Party
-Conservation Voters of PA
-Clean Water Action
-AFT Pennsyvlania
-Allegheny County Democratic Committee
-Allegheny-Fayette Central Labor Council
-Association of Pennsylvania State College & University Faculties
-Asbestos Workers/Heat and Frost Insulators Local No. 2
-Boilermakers Local 154
-International Union of Painters and Allied Trades District Council 57
-Moms Demand Action – Gun Sense Candidate Distinction
-National Democratic Redistricting Committee – Democracy Defender
-Pennsylvania Association of Nurses and Allied Professionals
-Represent PAC
-Run for Something
-Service Employees International Union – 32BJ
-Service Employees International Union – Healthcare
-Service Employees International Union – Local 668
-Sheet Metal Workers’ Local Union 12
-Steel City Stonewall Dems
-The Next 50
-United Mine Workers
-Young Democrats of Allegheny County
+Chip in $20 today to Support Lindsey About Meet Lindsey Priorities District Map Endorsements Newsfeed Menu About Meet Lindsey Priorities District Map Endorsements Newsfeed Volunteer Donate Endorsements Lindsey Williams for state Senate Lindsey Williams is proudly endorsed by… SEIU PA State Council International Union of Operating Engineers Local 66 Emily’s List IBEW Local 5 Pennsylvania AFL-CIO Planned Parenthood PA Advocates Pennsylvania State Education Association Pittsburgh Federation of Teachers Sierra Club Working Families Party Conservation Voters of PA Clean Water Action AFT Pennsyvlania Allegheny County Democratic Committee Allegheny-Fayette Central Labor Council Association of Pennsylvania State College & University Faculties Asbestos Workers/Heat and Frost Insulators Local No.
+2 Boilermakers Local 154 International Union of Painters and Allied Trades District Council 57 Moms Demand Action – Gun Sense Candidate Distinction National Democratic Redistricting Committee – Democracy Defender Pennsylvania Association of Nurses and Allied Professionals Represent PAC Run for Something Service Employees International Union – 32BJ Service Employees International Union – Healthcare Service Employees International Union – Local 668 Sheet Metal Workers’ Local Union 12 Steel City Stonewall Dems The Next 50 United Mine Workers Young Democrats of Allegheny County About Meet Lindsey Priorities District Map Endorsements Newsfeed Menu About Meet Lindsey Priorities District Map Endorsements Newsfeed About Meet Lindsey Priorities District Map Endorsements Newsfeed Menu About Meet Lindsey Priorities District Map Endorsements Newsfeed Facebook Twitter Instagram Paid for by Lindsey Williams for PA © # Lindsey Williams for PA.
+All Rights Reserved.
+Credits.
+PO Box 97024, Pittsburgh, PA 15229 info@LindseyforPA.com Meet Lindsey Priorities District Map Endorsements Newsfeed Menu Meet Lindsey Priorities District Map Endorsements Newsfeed Volunteer Donate

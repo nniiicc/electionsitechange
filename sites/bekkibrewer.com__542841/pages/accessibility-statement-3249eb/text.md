@@ -1,38 +1,12 @@
-Accessibility Statement
-Effective Date: 8/1/2026
-Bekki Brewer for Missouri House District 44 ("the Campaign," "we," "our," or "us") is committed to making our website accessible and usable for all visitors, including individuals with disabilities.
-We believe everyone should have equal access to information about our campaign, events, and opportunities to participate in the democratic process.
-Our Commitment
-We strive to design, develop, and maintain our website in a manner that promotes accessibility and usability for all users.
+top of page Home About Issues Events Contact DONATE Accessibility Statement Effective Date: 8/1/2026 ​ Bekki Brewer for Missouri House District 44 ("the Campaign," "we," "our," or "us") is committed to making our website accessible and usable for all visitors, including individuals with disabilities.
+We believe everyone should have equal access to information about our campaign, events, and opportunities to participate in the democratic process. ​ Our Commitment We strive to design, develop, and maintain our website in a manner that promotes accessibility and usability for all users.
 Our goal is to provide an inclusive online experience regardless of the technology or assistive devices being used.
-We are continually working to improve the accessibility of our website by reviewing content, enhancing functionality, and incorporating accessibility best practices whenever practical.
-Accessibility Standards
-We aim to follow generally recognized accessibility guidelines, including the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, to the extent reasonably achievable for our campaign website.
+We are continually working to improve the accessibility of our website by reviewing content, enhancing functionality, and incorporating accessibility best practices whenever practical. ​ Accessibility Standards We aim to follow generally recognized accessibility guidelines, including the Web Content Accessibility Guidelines (WCAG) 2.1 Level AA, to the extent reasonably achievable for our campaign website.
 While we make every effort to improve accessibility, some areas of the website may be in the process of being updated.
-Accessibility Features
-Our website is designed with accessibility in mind and may include features such as:
-- Clear and consistent navigation
-- Readable text and color contrast
-- Alternative text for meaningful images where appropriate
-- Keyboard-accessible navigation where feasible
-- Responsive design for desktop, tablet, and mobile devices
-- Structured headings and content organization to improve screen reader compatibility
--
-Third-Party Content
-Our website may include links to third-party websites or integrate services provided by third parties, including fundraising platforms, social media, mapping services, and event registration tools.
-We cannot guarantee the accessibility of content or services provided by organizations outside of our control.
-Ongoing Improvements
-Accessibility is an ongoing effort.
-As technology evolves and accessibility standards continue to develop, we will continue to evaluate and improve our website whenever feasible.
-Need Assistance?
+Accessibility Features Our website is designed with accessibility in mind and may include features such as: Clear and consistent navigation Readable text and color contrast Alternative text for meaningful images where appropriate Keyboard-accessible navigation where feasible Responsive design for desktop, tablet, and mobile devices Structured headings and content organization to improve screen reader compatibility ​ Third-Party Content Our website may include links to third-party websites or integrate services provided by third parties, including fundraising platforms, social media, mapping services, and event registration tools.
+We cannot guarantee the accessibility of content or services provided by organizations outside of our control. ​ Ongoing Improvements Accessibility is an ongoing effort.
+As technology evolves and accessibility standards continue to develop, we will continue to evaluate and improve our website whenever feasible. ​ Need Assistance?
 If you experience difficulty accessing any part of this website or need information in an alternative format, we encourage you to contact us.
-We welcome your feedback and will make reasonable efforts to address accessibility concerns promptly.
-Bekki Brewer for Missouri House District 44
-Email: bekkibrewerforthe44th@gmail.com
-Mailing Address:
-6121 Ruth Ann Ave
-Hallsville, MO 65255
-Phone: (573) 999-3392
-Updates to This Accessibility Statement
-We may update this Accessibility Statement from time to time to reflect improvements to our website or changes in accessibility practices.
+We welcome your feedback and will make reasonable efforts to address accessibility concerns promptly. ​ Bekki Brewer for Missouri House District 44 Email: bekkibrewerforthe44th@gmail.com Mailing Address: 6121 Ruth Ann Ave Hallsville, MO 65255 Phone: (573) 999-3392 ​ Updates to This Accessibility Statement We may update this Accessibility Statement from time to time to reflect improvements to our website or changes in accessibility practices.
 Any updates will be posted on this page with a revised Effective Date.
+DONATE Facebook Instagram Home About Issues Events Contact Privacy Policy Accessibility Statement bekkibrewerforthe44th@gmail.com 6121 Ruth Ann, Hallsville, Mo 65255 (573) 289-1616 Paid for by Friends of Bekki Brewer Jan Russell, Treasurer bottom of page

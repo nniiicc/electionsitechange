@@ -1,12 +1,8 @@
-CALIFORNIA PRIMARY ELECTION RESULTS
+Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos CALIFORNIA PRIMARY ELECTION RESULTS WIN!
 WIN!
 WIN!
-WIN!
-June 2, 2026:
-The California Secretary of State has confirmed
-my Advancing to the General Election on November 3, 2026.
-See Election Results Below
-Secretary of State
-*****************
-PAID FOR BY LARRY THOMPSON FOR CONGRESS
-Powered by CampaignPartner.com - Political Campaign Websites
+June 2, 2026: The California Secretary of State has confirmed my Advancing to the General Election on November 3, 2026.
+See Election Results Below Secretary of State U.S.
+House of Representatives District 32 - Districtwide Results | 2026 Primary Election | California Secretary of State New York Times California 32nd Congressional District Primary 2026: Live Election Results - The New York Times Los Angeles Times Live Election 2026 primary results, updates: who won California's competitive congressional districts - Los Angeles Times Associated Press California U.S.
+House All-Party Primary Election Live Results 2026 | AP News NBC News California House District 32 Primary Election Live Results 2026 - NBC News CNN California: House 32 ***************** VOTE NOW - VOTING ENDS IN November 3, 2026 at 8:00 PM CONTRIBUTE VOLUNTEER GIVE ENDORSEMENT REQUEST YARD SIGN VOTER INFO VOTING IN THE AGE OF CHAOS AI BILL OF RIGHTS WIKIPEDIA Get Updates Thank you for signing up!
+News Los Angeles Daily News - Larry Thompson, CA-32 candidate, 2026 election questionnaire Los Angeles Daily News - SHERMAN, THOMPSON TO FACE OFF Los Angeles Daily News - Brad Sherman and Larry Thompson lead in the top two spots New York Times - Representative Brad Sherman to Face Larry Thompson in November Simi Valley Acorn - Thompson edges Sherman in District 32 congressional race PAID FOR BY LARRY THOMPSON FOR CONGRESS Powered by CampaignPartner.com - Political Campaign Websites Home About Larry On the Issues Contribute 32-Point Political Vision Legislative Initiatives Election Results News Events Photo Gallery Books Contact Give Endorsement Endorsements Polling Voter Information Campaign Ads Age Of Chaos Close Menu

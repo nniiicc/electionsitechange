@@ -1,9 +1,6 @@
-Stephanie Mack
-Republican Candidate for Chittenden-24 House District
-Stephanie Mack, a Republican candidate running for the Chittenden-24 House district in Essex, Vermont, officially launched her campaign for the Vermont House in 2026.
+0 Skip to Content Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Open Menu Close Menu Home About Priorities Media Contact Donate Stephanie Mack Republican Candidate for Chittenden-24 House District Stephanie Mack, a Republican candidate running for the Chittenden-24 House district in Essex, Vermont, officially launched her campaign for the Vermont House in 2026.
 Mack recently sold her accounting firm and is now bringing her business experience and financial background into public service.
-TRANSCRIPT
-Hello everybody, I'm Stephanie Mack and I am running for Chittenden-24, the rural town of Essex.
+TRANSCRIPT Hello everybody, I'm Stephanie Mack and I am running for Chittenden-24, the rural town of Essex.
 I'm also treasurer for the Vermont Federation of Republican Women, and I chaired the Kentucky Derby event this year, which is the best derby in the state!
 Tonight, I follow along with all of our conservative values, but tonight I really wanted to do a bit of a recruitment speech.
 We're two weeks away—two weeks away—from that Vermont filing deadline for Republicans, and it drives me insane that we don't have a name on every single ballot.
@@ -43,5 +40,7 @@ There are no excuses, no waiting for someone else to do it.
 We recruit, we find those folks, and we take Vermont one seat at a time.
 So let's go to work, everybody.
 Thank you, and let's fill every ballot!
-Stephanie Mack
-Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party
+Stephanie Mack Tuesday, May 12th, 2026 | Javen Sears’ Campaign Launch Party S I G N U P UPDATES By providing your mobile number, you consent to receive periodic campaign updates from Javen Sears for Vermont State Senate.
+Txt HELP for help, STOP to end.
+Msg & Data rates may apply.
+Donate

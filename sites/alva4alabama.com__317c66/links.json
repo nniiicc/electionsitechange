@@ -1,9 +1,42 @@
 [
-"https://alva4alabama.com/contact.php",
-"https://alva4alabama.com/district.php",
-"https://alva4alabama.com/index.php",
-"https://alva4alabama.com/issues.php",
-"https://alva4alabama.com/running.php",
-"https://alva4alabama.com/trail.php",
-"https://secure.winred.com/alva-m-lambert-campaign/alvadonate"
+{
+"text": "ALVA LAMBERT for Alabama House District 74",
+"href": "https://alva4alabama.com/index.php"
+},
+{
+"text": "District",
+"href": "https://alva4alabama.com/district.php"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/alva-m-lambert-campaign/alvadonate"
+},
+{
+"text": "Home",
+"href": "https://alva4alabama.com/index.php"
+},
+{
+"text": "Issues",
+"href": "https://alva4alabama.com/issues.php"
+},
+{
+"text": "Learn more about Alva's story »",
+"href": "https://alva4alabama.com/running.php"
+},
+{
+"text": "Trail",
+"href": "https://alva4alabama.com/trail.php"
+},
+{
+"text": "Volunteer",
+"href": "https://alva4alabama.com/contact.php"
+},
+{
+"text": "Why I'm Running",
+"href": "https://alva4alabama.com/running.php"
+},
+{
+"text": "other neighborhoods across District 74",
+"href": "https://alva4alabama.com/district.php"
+}
 ]

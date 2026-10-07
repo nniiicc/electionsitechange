@@ -1,9 +1,13 @@
 {
  "description": "Meet Senator Charles Perry",
  "final_url": "https://www.electcharlesperry.com/about",
- "paid_for_by": null,
- "title": "About \u2014 Elect Charles Perry",
+ "fingerprint": "f80ea3ef5a4a6ee30eea0811ee6c38e7b5cbc858",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "About — Elect Charles Perry",
  "years_mentioned": [
+  "1980",
+  "1984",
   "2014"
  ]
 }

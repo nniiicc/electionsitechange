@@ -1,15 +1,70 @@
 [
-"https://andrewpruski.com/",
-"https://andrewpruski.com/about",
-"https://andrewpruski.com/issues",
-"https://andrewpruski.com/news",
-"https://andrewpruski.com/newsletter",
-"https://andrewpruski.com/scholarships",
-"https://andrewpruski.com/volunteer",
-"https://designedtorun.com/",
-"https://elections.maryland.gov/voting/absentee.html",
-"https://facebook.com//Votepruski",
-"https://instagram.com/votepruski",
-"https://voterservices.elections.maryland.gov/PollingPlaceSearch",
-"https://x.com/Andrew_Pruski"
+{
+"text": "Early Voting - June 11-18th",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "Issues",
+"href": "https://www.andrewpruski.com/issues"
+},
+{
+"text": "Mail-in Ballot Voting - Click here for updates",
+"href": "https://www.elections.maryland.gov/voting/absentee.html"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.andrewpruski.com/about"
+},
+{
+"text": "News",
+"href": "https://www.andrewpruski.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://www.andrewpruski.com/newsletter"
+},
+{
+"text": "Primary Election Day - June 23",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Scholarships",
+"href": "https://www.andrewpruski.com/scholarships"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andrewpruski.com/volunteer"
+},
+{
+"text": "[image: Andrew Pruski logo]",
+"href": "https://www.andrewpruski.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.andrewpruski.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//Votepruski"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votepruski"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Andrew_Pruski"
+},
+{
+"text": "andrew@andrewpruski.com",
+"href": "mailto:andrew@andrewpruski.com"
+},
+{
+"text": "here",
+"href": "https://voterservices.elections.maryland.gov/PollingPlaceSearch"
+}
 ]

@@ -1,9 +1,9 @@
 {
  "description": "Help us campaign today for a better tomorrow!",
  "final_url": "https://delegateandrejohnson.com/events",
- "paid_for_by": null,
+ "fingerprint": "27169f9b5be4e3bd19767e35a2421bdd2e34ff95",
+ "format": 3,
+ "paid_for_by": "",
  "title": "EVENTS",
- "years_mentioned": [
-  "2025"
- ]
+ "years_mentioned": []
 }

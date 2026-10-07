@@ -1,8 +1,9 @@
-Luke believes in
-Protecting LGBTQ+ Rights
-Every person deserves to live freely, safely, and with dignity, no matter who they love or how they identify.
+Skip navigation menu About Issues Endorsements Contact Lawn Signs Jobs Donate About Issues Endorsements Contact Lawn Signs Jobs Donate Bringing Down Costs Abolishing ICE & Fixing Our Immigration System Protecting Medicare, Medicaid, & Pushing for Universal Healthcare Building More Housing Affordable Childcare & Eldercare Safeguarding Reproductive Freedom Protecting LGBTQ+ Rights Taking Climate Change Seriously Fighting Corruption Creating a Fair Tax Code Reducing Gun Violence Educating Our Kids Building Modern Infrastructure Strengthening Social Security Getting the Balance Right with Artificial Intelligence Luke believes in Protecting LGBTQ+ Rights Every person deserves to live freely, safely, and with dignity, no matter who they love or how they identify.
 Connecticut has been a leader in protecting basic rights for LGBTQ+ Americans, but across the country, those rights are under attack.
 As mayor, I worked to make city government more inclusive, and Hartford earned one of the highest LGBTQ+ equality scores in the country.
 In Congress, I’ll fight to pass the Equality Act, because we must ensure that LGBTQ+ Americans are protected from discrimination under federal law.
 I’ll also fight to enshrine protections for marriage quality and I’ll support the Global Respect Act to help protect LGBTQ+ people around the world who face physical harm and persecution.
 Equality shouldn’t depend on your zip code, and no American should be denied a job, a home, health care, or basic dignity because of who they are.
+For press inquiries, email press@broninforcongress.com.
+For all other inquiries, please contact info@broninforcongress.com.
+Checks may be made out to "Luke Bronin for Congress" and mailed to: Luke Bronin for Congress, PO Box 230161, Hartford, CT 06123 Paid for by Luke Bronin for Congress You need to enable JavaScript to run this app.

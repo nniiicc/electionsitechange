@@ -1,60 +1,14 @@
-Personal Information
-- Full Name: Steven Edwin Galloway
-- Political View: Republican
-- Gender: Male
-- Committees:
-- Business and Labor
-- Local Government
-- Natural Resources
-- Energy and Technology
-- Interim committee:
-- Energy and Technology
-- Family:
-- Wife: Representative Lola Sheldon-Galloway, Married 1981;
-- 6 Children: Tiffany, Hugh, Rocky, Spencer, Brittany, Natalie;
-- 1 Daughter retired military (U.S.
-Air Force)
-- 15 Grandchildren.
-- 1 Great Grandchild
-- Father, Marine Corps Veteran.
-- Birth Place: Great Falls, MT.
-- Home City: Great Falls, MT.
-- Current City: Sun Prairie Estates
-- Religion: Church of Jesus Christ of Latter-day Saints
-- Serves in leadership as Physical facilities representative of 10 church buildings, performs semi-annual audits, and organizes activities and events.
-- Have a monthly assignment to visit, speak in meetings, and assist in administration.
+Skip to content Menu Home Donate Facebook Email About Get Involved learnMore Personal Information Full Name: Steven Edwin Galloway Political View: Republican Gender: Male Committees: Business and Labor Local Government Natural Resources Energy and Technology Interim committee: Energy and Technology Family: Wife: Representative Lola Sheldon-Galloway, Married 1981; 6 Children: Tiffany, Hugh, Rocky, Spencer, Brittany, Natalie; 1 Daughter retired military (U.S.
+Air Force) 15 Grandchildren.
+1 Great Grandchild Father, Marine Corps Veteran.
+Birth Place: Great Falls, MT.
+Home City: Great Falls, MT.
+Current City: Sun Prairie Estates Religion: Church of Jesus Christ of Latter-day Saints Serves in leadership as Physical facilities representative of 10 church buildings, performs semi-annual audits, and organizes activities and events.
+Have a monthly assignment to visit, speak in meetings, and assist in administration.
 Served as a teacher and youth leader.
-Education
-- CMR High School, Class of 1977
-- Shop classes from junior high and high school have given me great benefits throughout my life
-- Operating businesses since 1975
-- Been making payrolls and budgeting for growth and survival in an ever-changing business environment
-- The University of Idaho, Oct 2021
-- Legislative Energy Horizon Institute
-- Energy Policy Planning Program
-Professional Experience
-- Rented and cleaned rooms at parents’ motel
-- Scrubbed a bunch of toilets as a youth
-- Steve’s Rentals, Landlord 1975-present
-- NeighborWorks: Best Improved Rental 2009-2010
-- Residential & Commercial Construction: Galloway and Sons/Galloway Inc
-- Business Owner- Operator:
-- Fox Farm Dairy Queen Franchise, 1987- present
-- North Side Dairy Queen Franchise, 1987-present
-- Great Falls Lumber Do it Best Hardware, 1987-present
-- Bought and sold real estate
-- Served on several volunteer boards
-WHAT I BELIEVE IN…
-- God blesses us with talents to share
-- Hard work gets results
-- The Constitution of The United States and Montana
-- Family and Community
-- Serving others
-- We need to share our perspectives to find the best outcomes
-- Please share your insights and knowledge with me to help better serve you.
+Education CMR High School, Class of 1977 Shop classes from junior high and high school have given me great benefits throughout my life Operating businesses since 1975 Been making payrolls and budgeting for growth and survival in an ever-changing business environment The University of Idaho, Oct 2021 Legislative Energy Horizon Institute Energy Policy Planning Program Professional Experience Rented and cleaned rooms at parents’ motel Scrubbed a bunch of toilets as a youth Steve’s Rentals, Landlord 1975-present NeighborWorks: Best Improved Rental 2009-2010 Residential & Commercial Construction: Galloway and Sons/Galloway Inc Business Owner- Operator: Fox Farm Dairy Queen Franchise, 1987- present North Side Dairy Queen Franchise, 1987-present Great Falls Lumber Do it Best Hardware, 1987-present Bought and sold real estate Served on several volunteer boards WHAT I BELIEVE IN… God blesses us with talents to share Hard work gets results The Constitution of The United States and Montana Family and Community Serving others We need to share our perspectives to find the best outcomes Please share your insights and knowledge with me to help better serve you.
 See contact information at the bottom of the page.
-- WE’RE BETTER TOGETHER
-WHY VOTE FOR ME?
+WE’RE BETTER TOGETHER WHY VOTE FOR ME?
 “I will bring over 50 years of business and service experience to the next legislature.
 I apply a common-sense approach to our government.
 I work diligently to address our common needs to better our community.
@@ -62,61 +16,7 @@ I have been actively involved since the 2017 legislative sessions and will conti
 We need to put effort into our government to get better results.
 I work relentlessly for you.
 We never fail, we just have to adjust!
-I firmly believe we are blessed to live in this country as President Abraham Lincoln stated, “This nation, under God, shall have a new birth of freedom and that government of the people, by the people and for the people, shall not perish from the earth”
-We get what we put in.
+I firmly believe we are blessed to live in this country as President Abraham Lincoln stated, “This nation, under God, shall have a new birth of freedom and that government of the people, by the people and for the people, shall not perish from the earth” We get what we put in.
 Let it be our best efforts!
-State Appointed Delegate
-Session Success
-First Session 2021 with 7 Bills Signed into Law:
-- HB298
-- HB401
-- HB402
-- HB438
-- HB439
-- HB541
-- HB586
-- Revise Information Included on the Property Valuation Statement
-- Revising Property Rental Laws
-- Generally, Revise Property Rental Laws
-- Revise Commercial Driver’s License Laws to Include Military Waiver
-- Favorite Bill: Helping Military Veterans use Military CDL experience to get a civilian CDL Equivalent without taking written or physical tests within 2 years of discharge
-- Revise Landlord-Tenant Laws
-- Generally, Revise Landlord-Tenant Laws
-- Revise Motor Vehicle Laws Related to Missing Titles
-Second Session 2023 with 11 Bills Signed into Law:
-- HB77
-- HB78
-- HB176
-- HB282
-- HB283
-- HB360
-- HB488
-- HB603
-- HB652
-- HB729
-- HB948
-- Revise Laws Related to Public Safety Officer Appointing Authorities; Allowing Ext. of 180 Days
-- Revise Laws Related to Public Safety Appointing Authorities; 1 Year Military Extension
-- Revising County Utility Corridor Permitting Laws to Include Broadband
-- Revise Rental Laws; For Refusal of Access
-- Revise Rental Laws; Statewide Consistency
-- Possible to Revise the Election of County Commissioners by District vs.
-County
-- Revise Security Deposit Law; Termination Agreements Filed in Court
-- Provide for Reinstatement of Parental Rights; If not Permanently Placed
-- Revise Unemployment Insurance Law
-- Providing Advanced Conductor Cost-Effectiveness Criteria for Highly Efficient Power Lines
-- Revise Laws Regarding Synthetic Infused Hemp & Marijuana Products & Unlawful Transactions with Children
-- Had Weekly Zoom Meetings w/the City of Great Falls & Cascade County Officials During Session
-- Great Falls City Manager Requested that I Sponsor this Legislation
-Look Up Bill Information at : www.leg.mt.gov
-Endorsed By
-NRA-PVF National Rifle Association of America, with an A- rating on September 14, 2018 by Brian Judy
-Montana Family Foundation 2020/2024 by President/CEO Jeff Laszloffy
-Cascade County Republican Women September 25, 2020
-The Montana Farm Bureau PAC September 14, 2020
-Montana Sports Shooters Association September 2020/2024
-2022 Friend of the Montana Medical Association
-Gun Owners of America 2024
-Montana Petroleum Association
-2022/2024 Award for Conservative Achievement (CPAC 22) www.conservative.org
+State Appointed Delegate Session Success First Session 2021 with 7 Bills Signed into Law: HB298 HB401 HB402 HB438 HB439 HB541 HB586 Revise Information Included on the Property Valuation Statement Revising Property Rental Laws Generally, Revise Property Rental Laws Revise Commercial Driver’s License Laws to Include Military Waiver Favorite Bill: Helping Military Veterans use Military CDL experience to get a civilian CDL Equivalent without taking written or physical tests within 2 years of discharge Revise Landlord-Tenant Laws Generally, Revise Landlord-Tenant Laws Revise Motor Vehicle Laws Related to Missing Titles Second Session 2023 with 11 Bills Signed into Law: HB77 HB78 HB176 HB282 HB283 HB360 HB488 HB603 HB652 HB729 HB948 Revise Laws Related to Public Safety Officer Appointing Authorities; Allowing Ext. of 180 Days Revise Laws Related to Public Safety Appointing Authorities; 1 Year Military Extension Revising County Utility Corridor Permitting Laws to Include Broadband Revise Rental Laws; For Refusal of Access Revise Rental Laws; Statewide Consistency Possible to Revise the Election of County Commissioners by District vs.
+County Revise Security Deposit Law; Termination Agreements Filed in Court Provide for Reinstatement of Parental Rights; If not Permanently Placed Revise Unemployment Insurance Law Providing Advanced Conductor Cost-Effectiveness Criteria for Highly Efficient Power Lines Revise Laws Regarding Synthetic Infused Hemp & Marijuana Products & Unlawful Transactions with Children Had Weekly Zoom Meetings w/the City of Great Falls & Cascade County Officials During Session Great Falls City Manager Requested that I Sponsor this Legislation Look Up Bill Information at : www.leg.mt.gov Endorsed By NRA-PVF National Rifle Association of America, with an A- rating on September 14, 2018 by Brian Judy Montana Family Foundation 2020/2024 by President/CEO Jeff Laszloffy Cascade County Republican Women September 25, 2020 The Montana Farm Bureau PAC September 14, 2020 Montana Sports Shooters Association September 2020/2024 2022 Friend of the Montana Medical Association Gun Owners of America 2024 Montana Petroleum Association 2022/2024 Award for Conservative Achievement (CPAC 22) www.conservative.org Proudly powered by WordPress

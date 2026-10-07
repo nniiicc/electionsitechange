@@ -1,33 +1,26 @@
-After seeing how the initial shutdown across Alabama and other states have done, it’s clear that small businesses were impacted far more than big box stores because they were allowed to remain open in most states.
-Now, State Representative Jamie Kiel (R-Russellville) wants to make sure that
-State Rep.
+Home Meet Jamie Issues Get Involved News Donate Home Meet Jamie Issues Get Involved News Donate Already Registered Forgot password?
+Not a member?
+Join today https://jamiekiel.com/wp-login.php?action=logout&redirect_to=https%3A%2F%2Fjamiekiel.com%2F&_wpnonce=a57b39c794 News State Rep Kiel: If businesses can open, so can churches After seeing how the initial shutdown across Alabama and other states have done, it’s clear that small businesses were impacted far more than big box stores because they were allowed to remain open in most states.
+Now, State Representative Jamie Kiel (R-Russellville) wants to make sure that Continue Reading Bill would allow Alabama businesses to stay open during state of emergency due to pandemic State Rep.
 Jamie Kiel believes many businesses were not treated fairly this year when they were told to close while their competition could stay open.
 “I thought that made an unfair bias towards those businesses that were open and was looking for a way to correct that,” Kiel said.
-READ MORE
-State Rep.
+READ MORE Continue Reading State Rep.
+Kiel: Bill would establish if one business can legally open during ’emergency,’ then all businesses and churches can remain open State Rep.
 Jamie Kiel (R-Russellville) is seeking to take action to learn from what some would say is a mistake from the early stages of the state government’s response to the coronavirus pandemic.
 At the outset, Gov.
 Kay Ivey, at the behest of State Health Officer Dr.
-Scott Harris, mandated
-House Bill 103 by Rep.
+Scott Harris, mandated Continue Reading Bill would allow businesses, places of worship remain open in emergencies House Bill 103 by Rep.
 Jamie Kiel, R-Russellville, would allow businesses and places of worship to remain open as long as they comply with any emergency order, rules or regulations issued by the governor and state or local agencies.
-READ MORE
-“I saw local clothing stores, local boutiques, local sporting goods stores that were forced to close while other stores remained open selling the same products that those forced to close were selling, and I just didn’t think that was right,” Kiel said about the springtime order meant to reduce
-House Bill 103 by Rep.
+READ MORE Continue Reading Bill would allow businesses, places of worship remain open in emergencies “I saw local clothing stores, local boutiques, local sporting goods stores that were forced to close while other stores remained open selling the same products that those forced to close were selling, and I just didn’t think that was right,” Kiel said about the springtime order meant to reduce Continue Reading KIEL: Government Shouldn’t Pick Favorites House Bill 103 by Rep.
 Jamie Kiel, R-Russellville, would allow businesses and places of worship to remain open as long as they comply with any emergency order, rules or regulations issued by the governor and state or local agencies.
-READ MORE
-MONTGOMERY — A lawmaker from north Alabama wants to close what he says is a loophole in state law that allows groups to be paid for turning out voters.
+READ MORE Continue Reading Bill would prohibit payments to groups that turn out voters MONTGOMERY — A lawmaker from north Alabama wants to close what he says is a loophole in state law that allows groups to be paid for turning out voters.
 “I don’t think any person or any organization should profit from someone else voting,” Rep.
 Jamie Kiel, R-Russellville, said.
-“It was already
-Back in October, a group called the Alabama New South Coalition advertised an offer to pastors of money in exchange for getting church parishioners to vote early via absentee ballot.
-Subsequently, Alabama Secretary of State John Merrill, the state’s chief election official, called it not a
-Alabama State Rep.
+“It was already Continue Reading State Rep.
+Kiel pushes bill to make monetary incentives for voting illegal — ‘It is a loophole that I hope to close’ Back in October, a group called the Alabama New South Coalition advertised an offer to pastors of money in exchange for getting church parishioners to vote early via absentee ballot.
+Subsequently, Alabama Secretary of State John Merrill, the state’s chief election official, called it not a Continue Reading Alabama legislator wants to ban paying for ballots Alabama State Rep.
 Jamie Kiel (R-Russellville) has pre-filed a bill for the upcoming legislative session that would make it illegal for organizations and churches to be paid on a per-ballot basis for helping people go vote.
-This has come up due to the program “New South Souls to the Polls
-A lawmaker from north Alabama wants to close what he says is a loophole in state law that allows groups to be paid for turning out voters.
+This has come up due to the program “New South Souls to the Polls Continue Reading Bill would prohibit payments to groups that turn out voters A lawmaker from north Alabama wants to close what he says is a loophole in state law that allows groups to be paid for turning out voters.
 “I don’t think any person, or any organization should profit from someone else voting,” Rep.
 Jamie Kiel, R-Russellville, said.
-“It was already illegal to
-- 1
-- 2
+“It was already illegal to Continue Reading 1 2 Recent Posts Governor signs Senate Bill 1, bans ballot harvesting Ballot harvesting crackdown passes Alabama House House approves ballot harvesting, DEI bills Alabama House approves bill criminalizing some absentee ballot assistance Alabama House passes controversial ballot harvesting bill Archives March 2024 January 2024 November 2023 October 2023 September 2023 July 2023 June 2023 May 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 July 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 March 2019 January 2019 December 2018 November 2018 October 2018 June 2018 May 2018 January 2018 October 2017 August 2017 July 2017 Categories Education In the News Uncategorized Popular Post March 2, 2021 What Alabamians need to know about the latest activity on Goat Hill — March 2, 2021 May 10, 2018 Meet Jamie Kiel January 16, 2019 Kiel assigned to powerful Ways and Means Education Committee September 1, 2019 Development Council presents checks to local festivals March 20, 2024 Governor signs Senate Bill 1, bans ballot harvesting Paid for by Jamie Kiel Campaign 14696 Hwy 43, Russellville, AL 35653 info@jamiekiel.com

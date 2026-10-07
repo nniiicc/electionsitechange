@@ -1,24 +1,110 @@
 [
-"https://citizensforsuzanneness.com/",
-"https://citizensforsuzanneness.com/5th-annual-lead-like-lincoln-campaign-fundraiser",
-"https://citizensforsuzanneness.com/about-suzanne",
-"https://citizensforsuzanneness.com/author/adminroxie",
-"https://citizensforsuzanneness.com/calendar",
-"https://citizensforsuzanneness.com/category/fundraiser",
-"https://citizensforsuzanneness.com/category/upcoming-event",
-"https://citizensforsuzanneness.com/contact",
-"https://citizensforsuzanneness.com/endorsements",
-"https://citizensforsuzanneness.com/meet-kate-norten",
-"https://citizensforsuzanneness.com/platform",
-"https://citizensforsuzanneness.com/privacy-policy",
-"https://citizensforsuzanneness.com/volunteer",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fcitizensforsuzanneness.com%2Fjoin-the-party-fundraiser-2026%2F&t=Join+the+Party+Fundraiser+2026",
-"https://facebook.com/vote4SuzanneNess",
-"https://followthemoney.org/entity-details?eid=48524776",
-"https://instagram.com/suzanne_for66",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcitizensforsuzanneness.com%2Fjoin-the-party-fundraiser-2026%2F&title=Join+the+Party+Fundraiser+2026&summary=TICKETS+NOW+AVAILABLE+++CLICK+HERE+TO+PURCHASE+TICKETS++%0D%0AYou%27re+Invited%21%0D%0AJuly+11th+for+the+2026%0D%0AJOIN+THE+PARTY%0D%0AFundraising+Event+for+Suzanne+Ness++%0D%0ATime%3A+6%3A00+pm+to+9%3A00+pm%0D%0ALocation%3A+Emmett%27s+Brewing+Co.%0D%0A128+West+Main+Street%0D%0AWest+Dundee%2C+Illinois",
-"https://secure.actblue.com/donate/citizens-for-suzanne-ness-1",
-"https://secure.actblue.com/donate/jtp2026",
-"https://tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc",
-"https://youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+{
+"text": "ABOUT",
+"href": "https://citizensforsuzanneness.com/about-suzanne/"
+},
+{
+"text": "CLICK HERE TO PURCHASE TICKETSCLICK HERE TO PURCHASE TICKETS",
+"href": "https://secure.actblue.com/donate/jtp2026"
+},
+{
+"text": "CONTACT",
+"href": "https://citizensforsuzanneness.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/citizens-for-suzanne-ness-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://citizensforsuzanneness.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://citizensforsuzanneness.com/calendar/"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Fcitizensforsuzanneness.com%2Fjoin-the-party-fundraiser-2026%2F&subject=Join+the+Party+Fundraiser+2026"
+},
+{
+"text": "FOLLOW THE MONEY",
+"href": "https://www.followthemoney.org/entity-details?eid=48524776"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcitizensforsuzanneness.com%2Fjoin-the-party-fundraiser-2026%2F&t=Join+the+Party+Fundraiser+2026"
+},
+{
+"text": "Fundraiser",
+"href": "https://citizensforsuzanneness.com/category/fundraiser/"
+},
+{
+"text": "HOME",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcitizensforsuzanneness.com%2Fjoin-the-party-fundraiser-2026%2F&title=Join+the+Party+Fundraiser+2026&summary=TICKETS+NOW+AVAILABLE+++CLICK+HERE+TO+PURCHASE+TICKETS++%0D%0AYou%27re+Invited%21%0D%0AJuly+11th+for+the+2026%0D%0AJOIN+THE+PARTY%0D%0AFundraising+Event+for+Suzanne+Ness++%0D%0ATime%3A+6%3A00+pm+to+9%3A00+pm%0D%0ALocation%3A+Emmett%27s+Brewing+Co.%0D%0A128+West+Main+Street%0D%0AWest+Dundee%2C+Illinois"
+},
+{
+"text": "Next",
+"href": "https://citizensforsuzanneness.com/meet-kate-norten/"
+},
+{
+"text": "PLATFORM",
+"href": "https://citizensforsuzanneness.com/platform/"
+},
+{
+"text": "Previous",
+"href": "https://citizensforsuzanneness.com/5th-annual-lead-like-lincoln-campaign-fundraiser/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://citizensforsuzanneness.com/privacy-policy/"
+},
+{
+"text": "Roxie S",
+"href": "https://citizensforsuzanneness.com/author/adminroxie/"
+},
+{
+"text": "Upcoming Event",
+"href": "https://citizensforsuzanneness.com/category/upcoming-event/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://citizensforsuzanneness.com/volunteer/"
+},
+{
+"text": "[image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo] [image: Citizens For Suzanne Ness Logo]",
+"href": "https://citizensforsuzanneness.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/vote4SuzanneNess/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/suzanne_for66/"
+},
+{
+"text": "[tooltip: Mail]",
+"href": "mailto:vote4suzanneness@gmail.com"
+},
+{
+"text": "[tooltip: Phone]",
+"href": "tel:224-493-2154"
+},
+{
+"text": "[tooltip: Tiktok]",
+"href": "https://www.tiktok.com/@vote4suzanneness?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[tooltip: YouTube]",
+"href": "https://www.youtube.com/channel/UCEoICbnW3Eo7J8E59ghGyUQ/featured"
+},
+{
+"text": "vote4suzanneness@gmail.com",
+"href": "mailto:vote4suzanneness@gmail.com"
+}
 ]

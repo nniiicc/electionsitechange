@@ -1,38 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F18&dates=20250418T220000Z%2F20250419T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://maps.google.com/?q=223+Washington+Street+Brainerd%2C+MN%2C+56401+United+States",
-"https://do-something-creative.com/",
-"https://facebook.com/profile.php?id=61574217572943",
-"https://flickr.com/photos/slipy4senate",
-"https://heidijeub.com/",
-"https://secure.actblue.com/donate/denise-slipy-3",
-"https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2",
-"https://slipy4senate.com/",
-"https://slipy4senate.com/affordability",
-"https://slipy4senate.com/cart",
-"https://slipy4senate.com/contact",
-"https://slipy4senate.com/earlychildhood",
-"https://slipy4senate.com/education",
-"https://slipy4senate.com/endorsements",
-"https://slipy4senate.com/energycostsandtheenvironment",
-"https://slipy4senate.com/events",
-"https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp",
-"https://slipy4senate.com/events?category=Phonebank",
-"https://slipy4senate.com/events?tag=Phonebank",
-"https://slipy4senate.com/healthcare",
-"https://slipy4senate.com/housing",
-"https://slipy4senate.com/innovationandtechnology",
-"https://slipy4senate.com/join-our-cause",
-"https://slipy4senate.com/media",
-"https://slipy4senate.com/meet-denise",
-"https://slipy4senate.com/new-dropdown",
-"https://slipy4senate.com/new-dropdown-1",
-"https://slipy4senate.com/news",
-"https://slipy4senate.com/publicsafetyandjustice",
-"https://slipy4senate.com/transparencyandaccountability",
-"https://slipy4senate.com/workingfamiliesandlabor",
-"https://tiktok.com/@senatorslipy",
-"https://youtube.com/@deniseslipy322"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=223+washington+street+brainerd%2C+mn%2C+56401+united+states"
+},
+{
+"text": "0",
+"href": "https://slipy4senate.com/cart"
+},
+{
+"text": "Affordability",
+"href": "https://slipy4senate.com/affordability"
+},
+{
+"text": "Back",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://slipy4senate.com/events"
+},
+{
+"text": "Contact",
+"href": "https://slipy4senate.com/contact"
+},
+{
+"text": "Do-Somthing-Creative",
+"href": "https://www.do-something-creative.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/denise-slipy-3"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/denise-slipy-3"
+},
+{
+"text": "Early Childhood",
+"href": "https://slipy4senate.com/earlychildhood"
+},
+{
+"text": "Education",
+"href": "https://slipy4senate.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://slipy4senate.com/endorsements"
+},
+{
+"text": "Energy Costs & the Environment",
+"href": "https://slipy4senate.com/energycostsandtheenvironment"
+},
+{
+"text": "Events",
+"href": "https://slipy4senate.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://slipy4senate.com/new-dropdown"
+},
+{
+"text": "Folder: What I'll Fight For",
+"href": "https://slipy4senate.com/new-dropdown-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F18&dates=20250418T220000Z%2F20250419T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Health Care",
+"href": "https://slipy4senate.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "Housing",
+"href": "https://slipy4senate.com/housing"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm?format=ical"
+},
+{
+"text": "Innovation & Technology",
+"href": "https://slipy4senate.com/innovationandtechnology"
+},
+{
+"text": "Join Team Slipy",
+"href": "https://slipy4senate.com/join-our-cause"
+},
+{
+"text": "Local Artist, Heidi Jeub",
+"href": "https://www.heidijeub.com"
+},
+{
+"text": "Media",
+"href": "https://slipy4senate.com/media"
+},
+{
+"text": "Meet Denise",
+"href": "https://slipy4senate.com/meet-denise"
+},
+{
+"text": "News",
+"href": "https://slipy4senate.com/news"
+},
+{
+"text": "Next Next April 19 Grand Rapids Doorknock Saturday 4/19",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp"
+},
+{
+"text": "Phonebank",
+"href": "https://slipy4senate.com/events?category=Phonebank"
+},
+{
+"text": "Phonebank",
+"href": "https://slipy4senate.com/events?tag=Phonebank"
+},
+{
+"text": "Previous Previous April 17 Denise Slipy for Senate Grand Rapids Fundraiser",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8"
+},
+{
+"text": "Public Safety & Justice",
+"href": "https://slipy4senate.com/publicsafetyandjustice"
+},
+{
+"text": "Transparency & Accountability",
+"href": "https://slipy4senate.com/transparencyandaccountability"
+},
+{
+"text": "Working Families & Labor",
+"href": "https://slipy4senate.com/workingfamiliesandlabor"
+},
+{
+"text": "[image: Denise Slipy for MN Senate District 6]",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574217572943"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/slipy4senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@senatorslipy"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@deniseslipy322"
+},
+{
+"text": "https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2",
+"href": "https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2"
+}
 ]

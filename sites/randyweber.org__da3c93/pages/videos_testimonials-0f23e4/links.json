@@ -1,21 +1,118 @@
 [
-"https://facebook.com/WeberForTexas",
-"https://randyweber.org/",
-"https://randyweber.org/about-randy",
-"https://randyweber.org/cart",
-"https://randyweber.org/contact-us",
-"https://randyweber.org/videos",
-"https://randyweber.org/videos/campaign",
-"https://randyweber.org/videos/testimonials",
-"https://randyweber.org/videos/v/27eajrke4tdegfzk85ywtrtkeaejrz?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/bb6lck2l33e7hg296zedkf9aydbr7p?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/h4m3ctdbdyxr7atl6l6ck4z2yrlrkl?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/n7xhrw5nf2tyxwpdnd2zymth9hx52d?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/nw9bnte3x6nmdylmmb5ltdytww4dys?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/sheriff-henry-trochesset-on-why-he-supports-randy-weber-for-congress?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/wpdewtp8hprfgsllrfanb3yhff963a?categoryId=630cdf7bcc5a2536462e51c5",
-"https://randyweber.org/videos/v/yjlp58xgxyaftn2x264bbpbbrfm2dt?categoryId=630cdf7bcc5a2536462e51c5",
-"https://secure.winred.com/randyweber/donate",
-"https://secure.winred.com/randyweber/storefront",
-"https://twitter.com/WeberforTexas"
+{
+"text": "0",
+"href": "https://www.randyweber.org/cart"
+},
+{
+"text": "About Randy",
+"href": "https://www.randyweber.org/about-randy"
+},
+{
+"text": "All",
+"href": "https://www.randyweber.org/videos"
+},
+{
+"text": "Barbara Meeks on why she supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/yjlp58xgxyaftn2x264bbpbbrfm2dt?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "C.B. \"Bix\" Rathburn on why he supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/nw9bnte3x6nmdylmmb5ltdytww4dys?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Campaign",
+"href": "https://www.randyweber.org/videos/campaign"
+},
+{
+"text": "Contact Us",
+"href": "https://www.randyweber.org/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/randyweber/donate"
+},
+{
+"text": "Galveston County Sheriff Henry Trochesset",
+"href": "https://www.randyweber.org/videos/v/sheriff-henry-trochesset-on-why-he-supports-randy-weber-for-congress?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Lisa Halil Testimonial",
+"href": "https://www.randyweber.org/videos/v/bb6lck2l33e7hg296zedkf9aydbr7p?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Mia Spargo on why she supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/27eajrke4tdegfzk85ywtrtkeaejrz?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Pastor Brad Drake on why he supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/n7xhrw5nf2tyxwpdnd2zymth9hx52d?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Recie Tisdale on why he supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/wpdewtp8hprfgsllrfanb3yhff963a?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Storefront",
+"href": "https://secure.winred.com/randyweber/storefront/"
+},
+{
+"text": "Testimonials",
+"href": "https://www.randyweber.org/videos/testimonials"
+},
+{
+"text": "Tina Kirbie on why she supports Randy Weber for Congress",
+"href": "https://www.randyweber.org/videos/v/h4m3ctdbdyxr7atl6l6ck4z2yrlrkl?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "Videos",
+"href": "https://www.randyweber.org/videos"
+},
+{
+"text": "[image: Barbara Meeks on why she supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/yjlp58xgxyaftn2x264bbpbbrfm2dt?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: C.B. \"Bix\" Rathburn on why he supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/nw9bnte3x6nmdylmmb5ltdytww4dys?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Galveston County Sheriff Henry Trochesset]",
+"href": "https://www.randyweber.org/videos/v/sheriff-henry-trochesset-on-why-he-supports-randy-weber-for-congress?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Lisa Halil Testimonial]",
+"href": "https://www.randyweber.org/videos/v/bb6lck2l33e7hg296zedkf9aydbr7p?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Mia Spargo on why she supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/27eajrke4tdegfzk85ywtrtkeaejrz?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Pastor Brad Drake on why he supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/n7xhrw5nf2tyxwpdnd2zymth9hx52d?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Randy Weber for Congress]",
+"href": "https://www.randyweber.org/"
+},
+{
+"text": "[image: Recie Tisdale on why he supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/wpdewtp8hprfgsllrfanb3yhff963a?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[image: Tina Kirbie on why she supports Randy Weber for Congress]",
+"href": "https://www.randyweber.org/videos/v/h4m3ctdbdyxr7atl6l6ck4z2yrlrkl?categoryId=630cdf7bcc5a2536462e51c5"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/WeberforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WeberForTexas"
+},
+{
+"text": "campaign@randyweber.org",
+"href": "mailto:campaign@randyweber.org"
+}
 ]

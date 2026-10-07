@@ -1,10 +1,54 @@
 [
-"https://facebook.com/votejacky21",
-"https://instagram.com/votejacky21",
-"https://secure.actblue.com/donate/votejacky21",
-"https://tiktok.com/@votejacky21",
-"https://votejacky21.com/about.html",
-"https://votejacky21.com/index.html",
-"https://votejacky21.com/signup.html",
-"https://votejacky21.com/take-action.html"
+{
+"text": "About Jacky",
+"href": "https://votejacky21.com/about.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votejacky21"
+},
+{
+"text": "Donate to Jacky",
+"href": "https://secure.actblue.com/donate/votejacky21"
+},
+{
+"text": "Home",
+"href": "https://votejacky21.com/index.html"
+},
+{
+"text": "Join Our List",
+"href": "https://votejacky21.com/signup.html"
+},
+{
+"text": "Join Team Jacky",
+"href": "https://votejacky21.com/take-action.html"
+},
+{
+"text": "Meet Jacky & See Her Priorities →",
+"href": "https://votejacky21.com/about.html"
+},
+{
+"text": "Take Action",
+"href": "https://votejacky21.com/take-action.html"
+},
+{
+"text": "[image: Jacky Hernandez]",
+"href": "https://votejacky21.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votejacky21"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votejacky21/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votejacky21"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@votejacky21.com"
+}
 ]

@@ -1,30 +1,122 @@
 [
-"https://64parishes.org/a-friendship-interrupted",
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://commondreams.org/news/big-oil-political-contributions",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://facebook.com/electlaurenjewett",
-"https://instagram.com/electlaurenjewett",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction",
-"https://ohchr.org/en/press-releases/2026/08/cuba-un-experts-condemn-new-us-sanctions-humanitarian-crisis-deepens",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://smithsonianmag.com/smart-news/president-trump-orders-the-us-to-exit-the-world-health-organization-and-paris-climate-agreement-on-his-first-day-in-office-180985876",
-"https://thehill.com/policy/energy-environment/3926039-these-house-members-get-the-most-money-from-the-oil-and-gas-industry",
-"https://tiktok.com/@electlaurenjewett",
-"https://x.com/ElectLJewett",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "64 Parishes",
+"href": "https://64parishes.org/a-friendship-interrupted"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Common Dreams",
+"href": "https://www.commondreams.org/news/big-oil-political-contributions"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "NPR",
+"href": "https://www.npr.org/2026/02/28/nx-s1-5730203/iran-israel-trump-congress-strikes-reaction"
+},
+{
+"text": "Smithsonian Magazine",
+"href": "https://www.smithsonianmag.com/smart-news/president-trump-orders-the-us-to-exit-the-world-health-organization-and-paris-climate-agreement-on-his-first-day-in-office-180985876/"
+},
+{
+"text": "The Hill",
+"href": "https://thehill.com/policy/energy-environment/3926039-these-house-members-get-the-most-money-from-the-oil-and-gas-industry/"
+},
+{
+"text": "United Nations Human Rights Office",
+"href": "https://www.ohchr.org/en/press-releases/2026/08/cuba-un-experts-condemn-new-us-sanctions-humanitarian-crisis-deepens"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+},
+{
+"text": "privacy policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "← All issues",
+"href": "https://www.laurenjewett.com/issues"
+}
 ]

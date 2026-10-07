@@ -1,6 +1,6 @@
-Issues
-Education
-As the product of California public schools, I know how important good public education is for the American Dream.
+Skip navigation menu Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate Meet Dave & Jane On the Issues Endorsements District 47 Request A Yard Sign!
+Get Involved Store Donate Democracy and the Rule of Law Housing and Homelessness Healthcare Reproductive Rights Gun Violence Prevention Climate Action & Environmental Justice Immigration Education Protecting Survivors of Domestic Violence and Sex Abuse Standing Up To Hate & MAGA Extremism Public Safety Small Business Relief Issues Education As the product of California public schools, I know how important good public education is for the American Dream.
 I’m proud to send my own kids to public schools, and to be backed by the major pro-education groups, including the National Education Association and the American Federation of Teachers as well as their state counterparts, the California Teachers Association and the California Federation of Teachers.
 I am honored to represent UC Irvine, and, in Congress, I work to ensure that UC Irvine remains a world-renowned research institution.
 When the Trump administration tried to target the UC system with illegal cuts to their funding for education and research.
@@ -12,3 +12,5 @@ Not everyone should go to a four year college, and we need to invest in programs
 At the same time, with major disruptions to our workforce looming from AI and other innovations, we must prepare for the future by beginning the process of training and retooling our workforce.
 I will continue to protect resources for students and teachers so that the next generation can thrive.
 America’s ability to compete globally hinges on the success of our public schools, which is why I will always champion public education.
+Dave Min fights hate in all its forms.
+Anti-LGBTQ+ Hate An uncompromising champion for our LGBTQ+ community Standing Up to Antisemitism Ensuring the safety & wellbeing of Jewish constituents Standing Up to Islamophobia Standing alongside the Arab & Muslim community FIGHTING RACISM Confronting bigotry in OC and beyond Privacy Policy Contact Terms & Conditions © Copyright # Dave Min for Congress PO Box 5959, Irvine, CA 92616 Powered by RUN! website builder Paid for by Dave Min for Congress You need to enable JavaScript to run this app.

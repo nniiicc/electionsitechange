@@ -1,28 +1,19 @@
-Delivering Results for Salem & Keizer
-Affordability & Housing
-Kevin is focused on lowering costs for working families and building more homes faster:
-- Co‑authored 2025 housing reform that opens 3,500+ acres of unused state‑owned land inside UGBs for affordable and middle-income housing, streamlines approvals, and cuts delays.
-- Helped advance common sense savings for schools by passing a bill that exempts Salem-Keizer schools from a costly light fixture ban, directing $42 million in savings back to teachers and classrooms.
-- Stood up against local tax hikes: opposed Salem’s $500+ per worker payroll tax & seeks tax reform that would make living here less expensive.
-- Cut Oregon's death tax to protect family farms and ranches from being sold off just to pay the government.
-- Voted to stop tax breaks for massive corporate data centers, preventing them from passing energy costs onto Salem and Keizer families and driving up the cost of living.
+0 Skip to Content Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Delivering Results for Salem & Keizer Affordability & Housing Kevin is focused on lowering costs for working families and building more homes faster: Co‑authored 2025 housing reform that opens 3,500+ acres of unused state‑owned land inside UGBs for affordable and middle-income housing, streamlines approvals, and cuts delays.
+Helped advance common sense savings for schools by passing a bill that exempts Salem-Keizer schools from a costly light fixture ban, directing $42 million in savings back to teachers and classrooms.
+Stood up against local tax hikes : opposed Salem’s $500+ per worker payroll tax & seeks tax reform that would make living here less expensive.
+Cut Oregon's death tax to protect family farms and ranches from being sold off just to pay the government.
+Voted to stop tax breaks for massive corporate data centers , preventing them from passing energy costs onto Salem and Keizer families and driving up the cost of living.
 “My business and my employees already pay enough in taxes.
-Kevin opposed the Salem payroll tax, saving Salem and Keizer workers $27 million per year.”
-— Jackie Roche, Small Business Advocate
-Common Sense, Bipartisan Governance
-Even with one‑party control in Salem, Kevin has passed more bipartisan legislation than any other legislator in state history—delivering practical fixes over partisanship:
-- Modernized our courts and cut red tape so government works faster and cheaper for taxpayers.
-- Worked across the aisle to ensure proper legal oversight at the Oregon State Hospital that will reduce delays, improve the quality and consistency of decisions, and ensure better outcomes for individuals receiving mental health care at this facility.
-- Delivered $10+ million in funding for local priorities such as Marion Polk Food Share, Keizer Rapids Park, the Willamette Heritage Center, and the Oregon State Fairgrounds.
+Kevin opposed the Salem payroll tax, saving Salem and Keizer workers $27 million per year.” — Jackie Roche, Small Business Advocate Common Sense, Bipartisan Governance Even with one‑party control in Salem, Kevin has passed more bipartisan legislation than any other legislator in state history—delivering practical fixes over partisanship: Modernized our courts and cut red tape so government works faster and cheaper for taxpayers.
+Worked across the aisle to ensure proper legal oversight at the Oregon State Hospital that will reduce delays, improve the quality and consistency of decisions, and ensure better outcomes for individuals receiving mental health care at this facility.
+Delivered $10+ million in funding for local priorities such as Marion Polk Food Share, Keizer Rapids Park, the Willamette Heritage Center, and the Oregon State Fairgrounds.
 Click here to read the letter of gratitude to Rep.
 Mannix from Rick Gaupo, President & CEO of Marion Polk Food Share.
 “Kevin Mannix never lets party or politics get in the way of progress.
 That’s why he has my full support for his re-election.
-Our communities need his leadership in the State Legislature!”
-— Nick Hunter, Marion County Sheriff
-Our Public Safety Advocate
-Kevin has always been an outspoken, bipartisan leader for public safety and victims’ rights:
-- Authored Measure 11 to ensure violent offenders face prison terms appropriate to the severity of their crimes.
-- Protected crime victims through years of legislative victories, including creating and expanding Oregon’s Family Abuse Prevention Act, protecting students from sexual predators, criminalizing AI “deepfake” intimate images (HB 2299), and protecting survivors’ rights to speak without being silenced.
-- Backs law enforcement and first responders while supporting accountability for hard drugs and expanded treatment so repeat offenders can’t cycle back onto our streets.
-- Authored Kristil's Law, which passed by unanimous vote of the Oregon House and Senate and requires social media and communication companies to quickly respond to police search warrants in stalking and domestic violence cases.
+Our communities need his leadership in the State Legislature!” — Nick Hunter, Marion County Sheriff Our Public Safety Advocate Kevin has always been an outspoken, bipartisan leader for public safety and victims’ rights: Authored Measure 11 to ensure violent offenders face prison terms appropriate to the severity of their crimes.
+Protected crime victims through years of legislative victories , including creating and expanding Oregon’s Family Abuse Prevention Act, protecting students from sexual predators, criminalizing AI “deepfake” intimate images (HB 2299), and protecting survivors’ rights to speak without being silenced.
+Backs law enforcement and first responders while supporting accountability for hard drugs and expanded treatment so repeat offenders can’t cycle back onto our streets.
+Authored Kristil's Law, which passed by unanimous vote of the Oregon House and Senate and requires social media and communication companies to quickly respond to police search warrants in stalking and domestic violence cases.
+“I knew Kevin Mannix had the best reputation for standing up for crime victims like me , but I was impressed with how he was able to work with both parties to pass HB 2299 into law unanimously.
+I’m so grateful that Kevin got the job done to protect future women and minors from going through the horrors that my family experienced.” – Kristi George, Cyber Crime Victim CAMPAIGN OFFICE Call ahead: (503) 308-8668 660 Capitol Street NE, Salem, OR 97301 CONTACT Kevin@MannixForOregon.com Mailing Address: 2009 State Street, Salem, OR 97301 Home | Meet Kevin | Volunteer | Contact ‍ ‍| Privacy Policy © # Paid for by Mannix for Oregon PAC

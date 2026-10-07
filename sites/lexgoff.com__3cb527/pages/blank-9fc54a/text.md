@@ -1,2 +1,2 @@
-Please fill out the details below to be added to the yard sign list
-I agree to continue receiving occasional emails about Lex Goff's campaign
+top of page Home About Lex Social Media Platform News Yard Signs Voter Education Donate Sign Me Up For a Yard Sign!
+Please fill out the details below to be added to the yard sign list First name * Last name * Email address * Delivery Address Country/Region * Address * City * Zip / Postal code * I agree to continue receiving occasional emails about Lex Goff's campaign Submit © # by The Goff Family, Powered and secured by Liberty and Justice for All bottom of page

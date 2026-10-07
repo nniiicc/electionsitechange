@@ -1,3 +1,5 @@
-Wonewoc, WI – Despite a compressed timeframe, Tony Kurtz announced that his campaign had collected over 1,000 signatures in two weeks – over five times the amount required.
+Skip to content Kurtz For Assembly Vote Tony Kurtz on November 6th!
+Home About Tony Issues News Contact Contribute News Kurtz Collects More than 1,000 Signatures in Two Weeks June 4, 2018 kurtzforassembly Wonewoc, WI – Despite a compressed timeframe, Tony Kurtz announced that his campaign had collected over 1,000 signatures in two weeks – over five times the amount required.
 “Starting a campaign from scratch, with so many things to complete can be a harrowing experience,” said Kurtz.
-“Thanks to dozens of people who chose to lend a hand, we are on the ballot, and moving full steam ahead with grassroots support.”
+“Thanks to dozens of people who chose to lend a hand, we are on the ballot, and moving full steam ahead with grassroots support.” Post navigation ← Ed Brooks joins staff of Republican candidate seeking his seat Tony Kurtz Supports Bi-partisan Solution for Contaminated Wells → Search for: Twitter Recent Posts Tony Kurtz Supports Bi-partisan Solution for Contaminated Wells Kurtz Collects More than 1,000 Signatures in Two Weeks Ed Brooks joins staff of Republican candidate seeking his seat Follow Tony Contact Tony Email Kurtzforassembly@gmail.com Address PO Box 23, Wonewoc, WI 53968 Get Tony’s Newsletter Sign up to receive timely, useful information in your inbox.
+Paid for by Kurtz For Assembly

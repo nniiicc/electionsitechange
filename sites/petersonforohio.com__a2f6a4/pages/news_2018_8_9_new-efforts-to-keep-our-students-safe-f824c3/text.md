@@ -1,13 +1,6 @@
-New Efforts to Keep Our Students Safe
-Dear Neighbor,
-With the topic of school safety at the forefront of many conversations in our communities, I wanted to update you on a recent piece of legislation that may be of interest to you and others who are a part of the continuing efforts to ensure our children are safe at school.
+Home About Issues Connect News Donate Home About Issues Connect News Donate New Efforts to Keep Our Students Safe Dear Neighbor, With the topic of school safety at the forefront of many conversations in our communities, I wanted to update you on a recent piece of legislation that may be of interest to you and others who are a part of the continuing efforts to ensure our children are safe at school.
 The Senate recently passed House Bill 318 which includes $12 million for school safety training grants to be used by the Ohio Attorney General, in consultation with the Superintendent of Public Instruction and the Director of Mental Health and Addiction Services, for grants to schools.
-The grants may be used for, but not limited to, all of the following safety needs:
-- The support of school resource officer certification training;
-- Any type of active shooter and school safety training;
-- All grade level type educational resources;
-- Training to identify and assist students with mental health issues;
-- Any other training related to school safety.
+The grants may be used for, but not limited to, all of the following safety needs: The support of school resource officer certification training; Any type of active shooter and school safety training; All grade level type educational resources; Training to identify and assist students with mental health issues; Any other training related to school safety.
 In addition, House Bill 318 establishes specialized training requirements for new school resource officers.
 The Ohio Department of Public Safety is charged with completing a study on existing school security measures in Ohio and making recommendations for improvements by February 1, 2019.
 This bill is currently awaiting the signature of the Governor.
@@ -18,8 +11,6 @@ Thank you for your dedication to our students - not only to educate, inspire and
 I trust you’ve had an enjoyable summer, and I wish you the best as you begin another school year.
 Your feedback is important to me.
 If you have additional concerns or ideas regarding school safety or any other education matter, please feel free to contact my office at any time by calling 614-466-8156 or by emailing me at Peterson@OhioSenate.gov.
-Sincerely,
-Bob Peterson
-State Senator
-Ohio's 17th Senate District
-View the original post here.
+Sincerely, Bob Peterson State Senator Ohio's 17th Senate District View the original post here .
+Guest User July 23, 2018 Facebook 0 Twitter Pinterest 0 0 Likes Previous GAHS student attends ARC program Guest User July 25, 2018 Next Peterson Applauds Workers' Compensation Rebates to Local Job Creators Guest User July 19, 2018 About Issues Connect Privacy Paid for by Peterson for Good Government LISA PETERSON, TREASURER, 5564 GRASSY BRANCH RD.
+SABINA, OH 45169

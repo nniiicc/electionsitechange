@@ -1,7 +1,30 @@
 [
-"https://electtyronecarter.com/",
-"https://electtyronecarter.com/get-involved",
-"https://electtyronecarter.com/meet-tyrone",
-"https://electtyronecarter.com/platform",
-"https://secure.actblue.com/donate/carterapril26"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carterapril26"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electtyronecarter.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electtyronecarter.com"
+},
+{
+"text": "LEGISLATIVE PRIORITIES",
+"href": "https://www.electtyronecarter.com/platform"
+},
+{
+"text": "MEET TYRONE",
+"href": "https://www.electtyronecarter.com/meet-tyrone"
+},
+{
+"text": "Tyrone Carter",
+"href": "https://www.electtyronecarter.com"
+},
+{
+"text": "for Detroit City Council",
+"href": "https://www.electtyronecarter.com"
+}
 ]

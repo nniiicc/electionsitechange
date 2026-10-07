@@ -1,14 +1,11 @@
-Veterans support Carrie Isaac
-Friend,
-It was an honor to serve my nation as an American soldier for 32 years, and it has been an honor to serve in the Texas Legislature for the last five years.
+Home Meet Carrie New Events Issues Endorsements News Contact Contribute Home Meet Carrie New Events Issues Endorsements News Contact Contribute Veterans support Carrie Isaac Friend, It was an honor to serve my nation as an American soldier for 32 years, and it has been an honor to serve in the Texas Legislature for the last five years.
 In that time, I’ve learned that whether it’s the floor of the Texas House of Representatives or battlefields in distant lands, you live and die by the quality, courage, and discipline of the company you keep.
 I write to you today encouraging you to vote for Carrie Isaac for State Representative.
 Carrie Isaac is the principled leader we need in the Texas Legislature — a proven conservative who won’t back down from a fight, who will focus on the issues that matter instead of political games.
 In 2020 she willingly took on the uphill battle of defeating Erin Zwiener in House District 45.
 Republican voters in what was a heavily Democrat district chose her resoundingly, and she came within 1% of taking back the seat, a monumental achievement.
 While Carrie Isaac has shown consistent bravery in the face of tough odds, her opponent is hiding behind a fake PAC called "Texas Conservative Veteran's PAC." Ethics reports show that the PAC is a shell entity for Carrie's opponent's campaign team.
-When I first ran, this is the same campaign team that attacked me and was criticized by Young Conservatives of Texas for "distorting the face of a decorated combat veteran for political gain.”
-This fake PAC is claiming that by accepting a salary for her job as executive director of a non-profit Carrie Isaac somehow took money earmarked for veterans.
+When I first ran, this is the same campaign team that attacked me and was criticized by Young Conservatives of Texas for "distorting the face of a decorated combat veteran for political gain.” This fake PAC is claiming that by accepting a salary for her job as executive director of a non-profit Carrie Isaac somehow took money earmarked for veterans.
 This couldn't be further from the truth.
 In fact, the largest donor to this non-profit was so impressed with Carrie's work that he has made a political contribution to her campaign and continues to support her to this day.
 You can learn more here.
@@ -24,8 +21,9 @@ Reward those who are willing to fight clean, even if it means losing a battle.
 Reward those who dust themselves off and get right back in the fight, time and time again.
 Send us a fighter, send us someone we can trust when the going gets tough.
 On May 24th, go to the polls and vote to send Carrie Isaac to the Texas House of Representatives.
-Yours in Service,
-Colonel Terry M.
+Yours in Service, Colonel Terry M.
 Wilson, Infantry, U.S.
-Army (Ret.)
-Texas House of Representatives, House District 20
+Army (Ret.) Texas House of Representatives, House District 20 Col.
+Terry Wilson May 23, 2022 Facebook 0 Twitter 0 Likes Previous Proud to be your Republican nominee!
+Carrie Isaac May 25, 2022 Next Carrie Isaac Endorsed by Former Opponent, George Green, for State Representative Carrie Isaac March 16, 2022 Political ad paid for by Carrie Isaac for Texas.
+13501 Ranch Road 12, #103, Wimberley, TX 78676

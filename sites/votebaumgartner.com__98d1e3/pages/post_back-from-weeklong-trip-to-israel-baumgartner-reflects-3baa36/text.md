@@ -1,4 +1,4 @@
-Back from Weeklong Trip to Israel, Baumgartner Reflects
-The Spokesman-Review | August 12, 2025
-After returning from a weeklong congressional trip to Israel, Congressman Baumgartner reflected on the necessary preconditions for lasting peace in the Middle East.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE All Articles On the Campaign Trail In Congress Search Back from Weeklong Trip to Israel, Baumgartner Reflects stan889 Mar 8 1 min read The Spokesman-Review | August 12, 2025 After returning from a weeklong congressional trip to Israel, Congressman Baumgartner reflected on the necessary preconditions for lasting peace in the Middle East.
 His firsthand observations reinforced the importance of the U.S.-Israel relationship and America's role in promoting regional stability.
+Read the full article in The Spokesman-Review In Congress Recent Posts See All Trump Touts Winning in State of the Union Address Baumgartner Reflects on European Trip and Military Spending Deep-Dive Interview on Border Integrity and Regional Agriculture Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

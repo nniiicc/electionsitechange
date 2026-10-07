@@ -1,10 +1,3 @@
-Rob Sand for Iowa
-Contact
-To chat by email:
-For press inquiries:
-For event requests:
-By old school mail:
-Rob Sand for Iowa
-P.O.
-Box 8382
-Des Moines, IA 50301
+Skip to main Become a Sustaining Donor Donate now Volunteer Donate Rob Sand for Iowa Contact To chat by email: info@robsand.com For press inquiries: press@robsand.com For event requests: booking@robsand.com By old school mail: Rob Sand for Iowa P.O.
+Box 8382 Des Moines, IA 50301 Become a Sustaining Donor of our campaign We need your help to ensure we have the resources to win.
+Chip in today to join Rob’s campaign! $# $# $# $# $# Other Home About Priorities News Lotto Scam Documentary Show Your Support Contact Events Vote Debates Store Donate Work With Us Privacy Policy Mobile Terms Donate by mail Checks can be addressed to Rob Sand for Iowa and mailed to: PO Box 8382, Des Moines, IA 50301 Paid for by Rob Sand for Iowa

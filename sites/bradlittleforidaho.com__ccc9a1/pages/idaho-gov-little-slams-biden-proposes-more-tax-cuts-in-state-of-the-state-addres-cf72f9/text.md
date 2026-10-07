@@ -1,6 +1,5 @@
-Idaho Gov.
-Little slams Biden, proposes more tax cuts in State of the State address
-Idaho Gov.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu Idaho Gov.
+Little slams Biden, proposes more tax cuts in State of the State address Jan 31, 2022 Idaho Gov.
 Brad Little scorned the Democratic President Joe Biden and the federal government and touted Idaho’s frugality, as he proposed investing billions in tax cuts, public safety and education, during the final State of the State address in his first term as governor.
 Little, who is expected to join an already crowded gubernatorial campaign in the coming months, spoke to a joint assembly of the House and Senate at the Idaho Capitol on Monday.
 Little spoke shortly after the two bodies kicked off the second regular session of the 66th Idaho Legislature.
@@ -17,3 +16,5 @@ Little announced a new program, “Operation Esto Perpetua,” which “will bri
 “The vast majority of illicit drugs in Idaho are now sourced in Mexico.” Little on Monday released his budget proposals for the current and upcoming fiscal year.
 He announced a new plan, called “Leading Idaho,” which includes more than $1 billion in tax cuts and more than $1.1 billion in education funding.
 Read the full story from Idaho Statesman here.
+Back P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

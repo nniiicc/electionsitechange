@@ -1,7 +1,19 @@
 {
  "description": "Learn about Dr. Witta's journey from medical student fighting for democracy to congressional candidate fighting for you.",
  "final_url": "https://www.wittaforcongress.com/about/",
+ "fingerprint": "09bbfce9801544ff4391026ea2c1b19fe54d78c5",
+ "format": 3,
  "paid_for_by": "Paid for by Dr",
  "title": "About Dr. Witta",
- "years_mentioned": []
+ "years_mentioned": [
+  "1989",
+  "2007",
+  "2008",
+  "2009",
+  "2010",
+  "2016",
+  "2020",
+  "2024",
+  "2026"
+ ]
 }

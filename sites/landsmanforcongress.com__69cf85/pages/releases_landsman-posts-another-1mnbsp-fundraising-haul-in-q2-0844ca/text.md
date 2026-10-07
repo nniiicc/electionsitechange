@@ -1,6 +1,6 @@
-LANDSMAN POSTS ANOTHER $1M+ FUNDRAISING HAUL IN Q2
-July 15, 2026
-U.S.
+0 Skip to Content Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home About Greg Landsman The Issues Our Supporters Media Releases Media Videos In the News Endorsements Vote Voter Info The District Shop Donate Open Menu Close Menu Home Folder: About Back Greg Landsman The Issues Our Supporters Folder: Media Back Releases Media Videos In the News Endorsements Folder: Vote Back Voter Info The District Shop Donate LANDSMAN POSTS ANOTHER $1M+ FUNDRAISING HAUL IN Q2 Jul 26 Written By Sasha Kandrach July 15, 2026 U.S.
 Rep.
+Greg Landsman (OH-01) announced today that his campaign has raised over $1,000,000 in the second quarter of 2026, for the second consecutive quarter.
 Nearly 75% of all contributions were under $100, and over 12,000 individuals have contributed to Landsman’s campaign this cycle, underscoring the campaign's broad base of grassroots support as it works to send Landsman back to Congress.
 Powered by strong grassroots support and broad enthusiasm from voters across the district, the campaign heads into the general election with over $3.6 million cash on hand – all while continuing to reject corporate PAC contributions.
+Sasha Kandrach Next Next CONROY CALLED OUT FOR POLICIES TO RAISE COST OF GROCERIES, HEALTHCARE Donate Contact Us info@landsmanforcongress.com PO Box 68033 Cincinnati, OH 45206 Paid for by Landsman for Congress Privacy Policy

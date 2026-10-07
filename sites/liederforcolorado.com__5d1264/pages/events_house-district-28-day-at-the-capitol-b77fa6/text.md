@@ -1,9 +1,2 @@
-Previous
-Previous
-April 18
-Town Hall
-Next
-Next
-May 16
-Back to All Events
-House District 28 Day at the Capitol
+0 Skip to Content Home About Sheila Newsletter Events Capitol 2023 - 2024 2025 District Map HD28 2026 Campaign Endorsements Volunteer Donate Contact Donate Open Menu Close Menu Donate Home About Sheila Newsletter Events Capitol 2023 - 2024 2025 District Map HD28 2026 Campaign Endorsements Volunteer Donate Contact Open Menu Close Menu Home About Sheila Newsletter Events Folder: Capitol Back 2023 - 2024 2025 District Map HD28 2026 Folder: Campaign Back Endorsements Volunteer Donate Contact Donate Back to All Events House District 28 Day at the Capitol Wednesday, April 22, 2026 9:00 AM 2:00 PM Colorado State Capitol 200 East Colfax Avenue Denver, CO, 80203 United States (map) Google Calendar ICS Previous Previous April 18 Town Hall Next Next May 16 May Town Hall Lieder for ColoradO Lieder for Colorado P.O.
+Box 620373 Littleton, CO 80162 Paid for by Lieder for Colorado | Registered Agent: Sheila Lieder sheilaforcolorado@gmail.com

@@ -1,9 +1,2 @@
-Terms & Conditions
-Privacy Policy
-Accessibility Statement
-Alexander Schmidt
-Candidate for Iowa House - District 60
-schmidtforia@gmail.com
-P.O.
-Box 42
-Saint Ansgar, IA 50472
+top of page Menu Schmidt for IA House Donate Close State Politics Religion Education Health Agriculture Economy Terms & Conditions Privacy Policy Accessibility Statement Contact Us State Politics Religion Education Health Agriculture Economy Donate Contact Us Alexander Schmidt Candidate for Iowa House - District 60 schmidtforia@gmail.com P.O.
+Box 42 Saint Ansgar, IA 50472 You Can Also Drop Us a Line Here First name * Last name * Email * Message * Submit © # PAID FOR BY SCHMIDT FOR IA HOUSE State Politics Religion Education Health Agriculture Economy bottom of page

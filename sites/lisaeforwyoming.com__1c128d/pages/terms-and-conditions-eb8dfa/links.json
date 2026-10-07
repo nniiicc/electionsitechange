@@ -1,7 +1,30 @@
 [
-"https://facebook.com/lisaengebretsenforwyoming",
-"https://instagram.com/lisaforwyoming",
-"https://lisaeforwyoming.com/",
-"https://lisaeforwyoming.com/privacy-policy",
-"https://lisaeforwyoming.com/terms-and-conditions"
+{
+"text": "Facebook",
+"href": "https://facebook.com/lisaengebretsenforwyoming"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/lisaforwyoming"
+},
+{
+"text": "Link",
+"href": "https://lisaeforwyoming.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lisaeforwyoming.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://lisaeforwyoming.com/terms-and-conditions/"
+},
+{
+"text": "[image: Lisa E for Wyoming][image: Lisa E for Wyoming]",
+"href": "https://lisaeforwyoming.com/"
+},
+{
+"text": "here",
+"href": "https://lisaeforwyoming.com/privacy-policy"
+}
 ]

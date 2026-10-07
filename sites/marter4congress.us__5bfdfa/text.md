@@ -1,232 +1,79 @@
-Only people who love America, should represent America!
+Facebook Twitter Instagram Tiktok Youtube (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Jim Marter Republican for Congress Illinois 14th District Representation is Making a Comeback!
+Faith, Family & Freedom Life, Liberty and the Pursuit of Happiness Save the American Dream!
+Jim Marter: for America Only people who love America, should represent America!
+Tell Lauren Underwood, you're not "Left of the Squad!" Vote Smarter - Vote Marter for Congress!
+Join Here for Campaign Updates!
+Sign Up Here DONATE I’m Jim Marter, running for Congress in Illinois’ 14th District.
 In Congress, I will fight to protect your God-given rights and work hard to stop the waste, fraud and abuse that is robbing you of your hard earned income.
 With the right policies and protections, we can unleash the economy, secure our nation and advance the American Dream.
+Who we send to Congress matters.
 America can again become the standard by which all nations are measured, in freedom, prosperity, education, healthcare, security, innovation and quality of life.
 Join me and together, we can make America even more productive, prosperous and free.
 I’m Jim Marter and I’m asking for your support.
-In Congress, I will uphold the Constitution and defend the American Dream.
+Make a Donation In Congress, I'll have common sense priorities Cut Spending Improve Security Protect Freedom Grow Opportunity Unite America We must defend the American Dream In Congress, I will uphold the Constitution and defend the American Dream.
 You have the right to life, liberty and the pursuit of happiness.
 The right to be safe, free and as prosperous as you’re willing to work for.
 I believe people who love America, should represent America so we can remain safe, prosperous and free.
 Right now, our representative is working against America’s interests and that’s why I’m running.
 It’s time to bring representation back to IL-14 and to experience the American Dream again.
 Join me in the fight! – And bring your family and friends to the polls.
-03/03/2022
-Jim Marter is running to unseat Democrat Congresswoman Lauren Underwood from Illinois’ 14th Congressional District.
-He wants to end the Biden Administration’s harmful policies that
-Watch the Video
-03/15/2022
-James Marter’s knowledge and experience is on display as he visits with Brannon Howse about Illinois’ business environment, crime, taxes, mandates and more, along with
-Watch the Video
-04/24/2022
-James Marter for Congress, running in Illinois’ 14th Congressional District, visits with Steve Gruber, Host of Real America’s Voice Live, during CPAC 2022.
-Topics covered
-Watch the Video
-06/21/2023
-Jared Craig interviews Jim Marter about his US Congressional race for Illinois district 14 seat.
-Marter shares his personal history and motivations for seeking office
-Watch the Video
-07/11/2026
-On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we talk to former Chicago Bear, Paul Blair.
-He
-Watch the Video
-07/18/2026
-On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we talk to K.
-Carl Smith, author and expert
-Watch the Video
-07/25/2026
-On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we speak with the “dynamic duo” of saving Social
-Watch the Video
-08/01/2026
-On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we interview Lt.
+Volunteer "Vote Smarter - Vote Marter for Congress!" Major Endorsements Click here to see the growing list of endorsements Donate TODAY!
+"Who we send to Congress MATTERS!" Latest Videos and Radio Shows 03/03/2022 lutf1362 Comment (0) Jim Marter for Congress (IL14) on Newsmax Discussing Cyber Security and the War in Ukraine Jim Marter is running to unseat Democrat Congresswoman Lauren Underwood from Illinois’ 14th Congressional District.
+He wants to end the Biden Administration’s harmful policies that Watch the Video 03/15/2022 Paul Hurst Comment (0) James Marter for Congress speaks with Brannon Howse at CPAC on Lindell TV James Marter’s knowledge and experience is on display as he visits with Brannon Howse about Illinois’ business environment, crime, taxes, mandates and more, along with Watch the Video 04/24/2022 Paul Hurst Comment (0) James Marter for Congress at CPAC with Real America’s Voice James Marter for Congress, running in Illinois’ 14th Congressional District, visits with Steve Gruber, Host of Real America’s Voice Live, during CPAC 2022.
+Topics covered Watch the Video 06/21/2023 Paul Hurst Comment (0) Jared Craig, President of GA Veterans for Trump Interviews Jim Marter on his 2024 Run for US Congress IL-14 Jared Craig interviews Jim Marter about his US Congressional race for Illinois district 14 seat.
+Marter shares his personal history and motivations for seeking office Watch the Video 07/11/2026 Paul Hurst Comment (0) Saving the American Dream aired July 11 2026 Guest Paul Blair On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we talk to former Chicago Bear, Paul Blair.
+He Watch the Video 07/18/2026 Paul Hurst Comment (0) Saving the American Dream with Guest K Carl Smith July 18 2026 FULL EPISODE On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we talk to K.
+Carl Smith, author and expert Watch the Video 07/25/2026 Paul Hurst Comment (0) Saving the American Dream with Guests “Joe from Texas” and David M Walker July 25 2026 FULL EPISODE On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we speak with the “dynamic duo” of saving Social Watch the Video 08/01/2026 Paul Hurst Comment (0) Saving the American Dream Guest Lt.
 Col.
-David Grossman about school safety,
-Watch the Video
-08/08/2026
-Full Episode!
+David Grossman FULL SHOW On this episode of “Saving the American Dream with Jim Marter,” (Saturdays, AM560 The Answer, 7pm) we interview Lt.
+Col.
+David Grossman about school safety, Watch the Video 08/08/2026 Paul Hurst Comment (0) Saving the American Dream Guest Frank Gaffney Full Episode!
 We had national security expert, Frank Gaffney on the show.
-He was Deputy Assistant Secretary of Defense in the Reagan Administration, founded the
-Watch the Video
-Latest News
-05/25/2026
-Oswego, IL (May 25, 2026) – Jim Marter, Republican Nominee for US Congress in Illinois’ 14th District has been an outspoken supporter of United States’ ally,
-Read More
-02/26/2026
-OSWEGO, ILLINOIS (February 26, 2026) — Following the release of documents detailing extensive ties between billionaire LinkedIn co-founder Reid Hoffman and convicted sex trafficker, Jeffrey Epstein,
-Read More
-06/02/2025
-OSWEGO, ILLINOIS (June 2, 2025) –Today, Republican congressional candidate Jim Marter called on his Democrat opponent, Lauren Underwood (IL-14) to break her silence and condemn the
-Read More
-05/01/2025
-OSWEGO, ILLINOIS (May 1, 2025) — Jim Marter, Republican candidate for Illinois’ 14th Congressional District, is calling on Democrat opponent Lauren Underwood to immediately and unequivocally
-Read More
-03/25/2025
-OSWEGO, ILLINOIS (March 25, 2025) — Jim Marter, Republican candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Lauren Underwood to publicly condemn the
-Read More
-01/31/2025
-Marter Stands in Support of Female Victims of Illegal Alien Violence, Criticizes Underwood’s Radical Voting Record OSWEGO, ILLINOIS (January 31, 2025) — Congressional candidate Jim Marter released
-Read More
-09/30/2024
-OSWEGO, ILLINOIS (September 30, 2024) — “On August 13th, 2024, I challenged my opponent, Lauren Underwood to do what’s best for the voters of Illinois’ 14th Congressional
-Read More
-08/29/2024
-“Remember, Obamacare was a government imposed tax increase that raised costs, limited options and replaced the free market.
-Putting government bureaucrats between you and your doctor isn’t healthcare.”— Jim Marter, Republican Nominee for Congress, IL-14
-Read More
-08/19/2024
-OSWEGO, IL, UNITED STATES, August 19, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the
-Read More
-08/14/2024
-“The people of all seven counties in the 14th District deserve a comprehensive exchange of policies and contrasts, to be well informed before voting.
-Rigorous debate sets us apart and has kept us FREE.”— Jim Marter, Republican Nominee for Congress, IL-14
-Read More
-07/12/2024
-“This sheds a new light on my opponent’s immigration policy.
-Instead of securing our border, they are hoping the flood of illegals will flood the ballot boxes too and re-elect her and Joe Biden.”— Jim Marter for Congress (IL-14)
-Read More
-06/19/2024
-“It’s especially meaningful to be receiving this on Juneteenth, a day we’re united in recognizing and celebrating the end of slavery.”— Jim Marter
-Read More
-06/14/2024
-“Jim would be a valued member of the House Republican Caucus, helping to secure our border, ignite the American economy, and cut out of control spending in D.C.”— Congressman, Darin LaHood
-Read More
-05/31/2024
-Jim Marter, Republican Nominee for US Congress in Illinois’ 14th District, has questions about opponent’s attendance at controversial Congressmen’s event, who the press has reported, has
-Read More
-Jim Marter, Republican Nominee for Congress in Illinois’ 14th District, issued a statement about the college campus protestors who are waving Hamas and Hezbollah flags
-Read More
-04/12/2024
-Democrat Congressman Jamaal Boman came under intense criticism when the media reported his comments about the treatment of female hostages by Hamas.
-According to Politico,
-Read More
-03/19/2024
-Jim Marter has been declared the winner in the Republican Primary for Illinois’ 14th Congressional District.
-Marter received overwhelming support from Republican voters in all
-Read More
-12/19/2023
-Recent votes do not match the values of our district and we’re suffering from a lack of leadership and representation.
+He was Deputy Assistant Secretary of Defense in the Reagan Administration, founded the Watch the Video Latest News Campaign Press Releases 05/25/2026 Paul Hurst Comment (0) Jim Marter Calls out Rep.
+Lauren Underwood to Condemn Mauren Galindo’s Anti-Semitic Comments about putting American Zionists in Prison Oswego, IL (May 25, 2026) – Jim Marter, Republican Nominee for US Congress in Illinois’ 14th District has been an outspoken supporter of United States’ ally, Read More 02/26/2026 Paul Hurst Comment (0) Jim Marter Calls On Democrat Lauren Underwood to Return Donations from Epstein Connected Billionaire, Reid Hoffman OSWEGO, ILLINOIS (February 26, 2026) — Following the release of documents detailing extensive ties between billionaire LinkedIn co-founder Reid Hoffman and convicted sex trafficker, Jeffrey Epstein, Read More 06/02/2025 Paul Hurst Comment (0) Jim Marter Demands Rep.
+Lauren Underwood Condemn Colorado Terror Attack and Address Homeland Security Failure OSWEGO, ILLINOIS (June 2, 2025) –Today, Republican congressional candidate Jim Marter called on his Democrat opponent, Lauren Underwood (IL-14) to break her silence and condemn the Read More 05/01/2025 Paul Hurst Comment (0) Jim Marter Demands Lauren Underwood Condemn Political Violence After Supporter’s Death Wish OSWEGO, ILLINOIS (May 1, 2025) — Jim Marter, Republican candidate for Illinois’ 14th Congressional District, is calling on Democrat opponent Lauren Underwood to immediately and unequivocally Read More 03/25/2025 Paul Hurst Comment (0) Jim Marter Calls on Congresswoman Underwood to Condemn Offensive Remarks by Her Close Friend, Rep.
+Jasmine Crockett OSWEGO, ILLINOIS (March 25, 2025) — Jim Marter, Republican candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Lauren Underwood to publicly condemn the Read More 01/31/2025 Paul Hurst Comment (0) Jim Marter Issues Statement on Lauren Underwood’s Failing Record on Women’s Safety Marter Stands in Support of Female Victims of Illegal Alien Violence, Criticizes Underwood’s Radical Voting Record OSWEGO, ILLINOIS (January 31, 2025) — Congressional candidate Jim Marter released Read More 09/30/2024 Paul Hurst Comment (0) Jim Marter for Congress (IL-14) Announces Update to Lincoln Douglass Debate with Lauren Underwood OSWEGO, ILLINOIS (September 30, 2024) — “On August 13th, 2024, I challenged my opponent, Lauren Underwood to do what’s best for the voters of Illinois’ 14th Congressional Read More 08/29/2024 Paul Hurst Comment (0) Jim Marter for Congress calls on opponent Lauren Underwood to set the record straight on her DNC Speech “Remember, Obamacare was a government imposed tax increase that raised costs, limited options and replaced the free market.
+Putting government bureaucrats between you and your doctor isn’t healthcare.”— Jim Marter, Republican Nominee for Congress, IL-14 Read More 08/19/2024 Paul Hurst Comment (0) Jim Marter, Republican Nominee for Congress (IL-14) Announces Endorsement from Congressman Mike Bost OSWEGO, IL, UNITED STATES, August 19, 2024 — Jim Marter the Republican Nominee for US Congress in Illinois’ 14th District is honored to have the Read More 08/14/2024 Paul Hurst Comment (0) Marter for Congress (R) Challenges Opponent Underwood (D) to Lincoln-Douglas Debates Beginning at Historic Debate Site “The people of all seven counties in the 14th District deserve a comprehensive exchange of policies and contrasts, to be well informed before voting.
+Rigorous debate sets us apart and has kept us FREE.”— Jim Marter, Republican Nominee for Congress, IL-14 Read More 07/12/2024 Paul Hurst Comment (0) Marter for Congress Calls Out Underwood for Failing to Protect U.S.
+Citizens’ Votes from Foreign Interference “This sheds a new light on my opponent’s immigration policy.
+Instead of securing our border, they are hoping the flood of illegals will flood the ballot boxes too and re-elect her and Joe Biden.”— Jim Marter for Congress (IL-14) Read More 06/19/2024 Paul Hurst Comment (0) Jim Marter named “Champion of Freedom” for Juneteenth 2024 by Greater Chicagoland Black Chamber of Commerce “It’s especially meaningful to be receiving this on Juneteenth, a day we’re united in recognizing and celebrating the end of slavery.”— Jim Marter Read More 06/14/2024 Paul Hurst Comment (0) Jim Marter, Republican Nominee for Congress (IL-14) Announces Major Endorsement from Congressman Darin LaHood “Jim would be a valued member of the House Republican Caucus, helping to secure our border, ignite the American economy, and cut out of control spending in D.C.”— Congressman, Darin LaHood Read More 05/31/2024 Paul Hurst Comment (0) Jim Marter for Congress (IL-14) Questions Underwood’s Association with R.I.
+Democrat with ties to Jeffrey Epstein Jim Marter, Republican Nominee for US Congress in Illinois’ 14th District, has questions about opponent’s attendance at controversial Congressmen’s event, who the press has reported, has Read More 05/31/2024 Paul Hurst Comment (0) Jim Marter, Republican for Congress (IL-14) calls for terror supporting, non-citizen college students to be deported Jim Marter, Republican Nominee for Congress in Illinois’ 14th District, issued a statement about the college campus protestors who are waving Hamas and Hezbollah flags Read More 04/12/2024 Paul Hurst Comment (0) Jim Marter demands Rep.
+Underwood clarify who she believes, the hostages or her Democrat Comrades Democrat Congressman Jamaal Boman came under intense criticism when the media reported his comments about the treatment of female hostages by Hamas.
+According to Politico, Read More 03/19/2024 Paul Hurst Comment (0) Republican Jim Marter wins Primary for Congressional District IL-14, will face off against Democrat Lauren Underwood Jim Marter has been declared the winner in the Republican Primary for Illinois’ 14th Congressional District.
+Marter received overwhelming support from Republican voters in all Read More 12/19/2023 Paul Hurst Comment (0) Jim Marter for Congress Asks Why the Silence on Key Votes from Opponent Underwood Recent votes do not match the values of our district and we’re suffering from a lack of leadership and representation.
 My campaign is an opportunity to rectify this situation.
-Read More
-11/08/2023
-I don’t see Representative Underwood anywhere on this issue but on the wrong side of it.
-Read More
-10/11/2023
-This hate and anti-Semitism is not a part of our community and it’s about time we have representation in Congress that shares our views
-Read More
-10/09/2023
-Bad policies ruin economies and embolden evil and we’re seeing that manifested at home and abroad.
-Read More
-09/12/2023
-The people of IL-14 have a problem with politicians saying one thing and voting for the exact opposite.
+Read More 11/08/2023 Paul Hurst Comment (0) Marter for Congress Asking, “Why the Silence on Anti-Semitism” from Illinois Congress Members I don’t see Representative Underwood anywhere on this issue but on the wrong side of it.
+Read More 10/11/2023 Paul Hurst Comment (0) Jim Marter Calls On Underwood to Condemn BLM Chicago’s Social Media Post This hate and anti-Semitism is not a part of our community and it’s about time we have representation in Congress that shares our views Read More 10/09/2023 Paul Hurst Comment (0) Jim Marter for Congress (IL-14) Releases Statement on Support for Israel, Condemning Failed Foreign Policy of Opponent Bad policies ruin economies and embolden evil and we’re seeing that manifested at home and abroad.
+Read More 09/12/2023 Paul Hurst Comment (0) Jim Marter calls for Transparency and Accountability in the House of Representatives The people of IL-14 have a problem with politicians saying one thing and voting for the exact opposite.
 I’m running to solve that problem.
-Read More
-09/06/2023
-I do not support aid to Afghanistan while the Taliban are running the country.
+Read More 09/06/2023 Paul Hurst Comment (0) Jim Marter Calls for Transparency from Underwood on Afghanistan I do not support aid to Afghanistan while the Taliban are running the country.
 We cannot ensure the aid will go to the hungry and those in need of medical attention.
-Read More
-07/18/2023
-As your next Congressman, I will always call balls and strikes when it comes to condemning anti-Semitism.
+Read More 07/18/2023 Paul Hurst Comment (0) Jim Marter Calls out Lauren Underwood to Condemn Progressive Chair Representative Jayapal’s Comments about Israel As your next Congressman, I will always call balls and strikes when it comes to condemning anti-Semitism.
 I condemn Rep.
 Jaypal’s comments about Israel and I encourage Lauren Underwood to do the same.
-Read More
-06/27/2023
-Jim Marter, Republican Congressional Candidate for Illinois’ 14th Congressional District, issues the following statement on the passage of the REINS ACT.
-“I am deeply disappointed
-Read More
-Congressional Candidate Jim Marter announced today that he is running against Congresswoman Lauren Underwood for Illinois’ 14th Congressional District.
-Marter said, “Illinois deserves better and
-Read More
-06/15/2022
-James Marter, running in the Republican Primary to oppose Lauren Underwood, called out his Democrat opponent for favoring partisan politics over representing Illinois’ 14th District.
-Read More
-05/23/2022
-Jim Marter has released his newest Primary election mailer, reaching nearly 100,000 voters in Illinois’ 14th District.
-The themes of “Faith, Family and Freedom” are
-Read More
-05/21/2022
-Today, Congressional Candidate, Jim Marter, (IL-14), is calling upon Congresswoman Lauren Underwood and other Members of Congress to take immediate action and demand the Biden
-Read More
-04/30/2022
-“I’m excited and grateful to receive this important endorsement from Illinois Family Action.
-Their mission in part is to make sure our politicians and representatives
-Read More
-04/28/2022
-Oswego, IL (April 28, 2022) – Congressional Candidate, Jim Marter wishes to recognize Holocaust Remembrance Day and encourages 3 minutes of silent personal prayer to remember
-Read More
-04/25/2022
-Congressional Republican Jim Marter calls on Democrat opponent Lauren Underwood to join Republicans and her Democrat colleagues in opposing plans to prematurely end Title 42
-Read More
-04/21/2022
-Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
-Organized by the
-Read More
-04/11/2022
-“I’m excited and grateful to receive this important endorsement from the Veterans For America First.
-Their mission to support our veterans and first responders is
-Read More
-04/08/2022
-Republican Congressional Candidate Jim Marter (IL-14) is calling on his Democrat opponent, Representative Lauren Underwood, to join the bi-partisan stand against the Iran Nuclear Deal.
-Read More
-03/07/2022
-James Marter issued the following statement in response to the Jewish Democratic Council of America, on their endorsement of Lauren Underwood.
-“I’m the only candidate
-Read More
-03/01/2022
-Following this evening’s State of the Union Address by President Joe Biden, Jim Marter, Congressional Candidate in Illinois 14, released the following statements.
-“President Biden
-Read More
-02/22/2022
-James Marter, running for Congress in Illinois’ 14th Congressional District, has again demonstrated his leadership with early support for Senator Rick Scott’s Plan to Rescue
-Read More
-02/02/2022
-James Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
-Today, Marter is calling for
-Read More
-01/13/2022
-Today James Marter, Republican for Congress in Illinois’ 14th District, announced that he is challenging his primary opponents to a town hall debate.
-Marter’s Communications
-Read More
-01/09/2022
-James Marter asks Representative Underwood if she supports Vice President Harris’ widely reported statements comparing January 6, 2020 to Pearl Harbor and 9/11.
-“For one,
-Read More
-01/06/2022
-James Marter’s campaign for Congress in Illinois’ 14th District, has released its second round of personal endorsements.
-Marter is the twice elected, current Chairman of
-Read More
-12/07/2021
-Today, James Marter, running for Congress in Illinois’ 14th Congressional District, highlighted his opponent’s record on taxes and spending.
-While a spokesperson for Taxpayers United
-Read More
-11/28/2021
-Today James Marter, Republican candidate for Congress in Illinois 14, pledged to support legislation creating a parents bill of rights in the education of their
-Read More
-11/18/2021
-James Marter, candidate for Congress in Illinois’ 14th District, expressed outrage over president Biden’s plan to pay illegal immigrants $450,000 per person, for being separated
-Read More
-11/16/2021
-Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
-Marter is the twice elected, current Chairman
-Read More
-11/10/2021
-U.S.
+Read More 06/27/2023 Paul Hurst Comment (0) Jim Marter Statement on the Bi-Partisan Passage of the REINS ACT Jim Marter, Republican Congressional Candidate for Illinois’ 14th Congressional District, issues the following statement on the passage of the REINS ACT.
+“I am deeply disappointed Read More 06/21/2023 Paul Hurst Comment (0) Jim Marter Formally Announces His Run Against Congresswoman Lauren Underwood Congressional Candidate Jim Marter announced today that he is running against Congresswoman Lauren Underwood for Illinois’ 14th Congressional District.
+Marter said, “Illinois deserves better and Read More 06/15/2022 Paul Hurst Comment (0) Marter: Underwood, Democrats to Blame for Caterpillar Move James Marter, running in the Republican Primary to oppose Lauren Underwood, called out his Democrat opponent for favoring partisan politics over representing Illinois’ 14th District.
+Read More 05/23/2022 Paul Hurst Comment (0) Marter for Congress (IL14) Releases New Mailer Jim Marter has released his newest Primary election mailer, reaching nearly 100,000 voters in Illinois’ 14th District.
+The themes of “Faith, Family and Freedom” are Read More 05/21/2022 Paul Hurst Comment (0) Marter Sounds Alarm on Biden’s Increase to WHO’s Authority, Calls for Underwood and Congress to Act Today, Congressional Candidate, Jim Marter, (IL-14), is calling upon Congresswoman Lauren Underwood and other Members of Congress to take immediate action and demand the Biden Read More 04/30/2022 Paul Hurst Comment (0) Jim Marter for Congress (IL-14) Receives Illinois Family Action Endorsement “I’m excited and grateful to receive this important endorsement from Illinois Family Action.
+Their mission in part is to make sure our politicians and representatives Read More 04/28/2022 Paul Hurst Comment (0) Marter Issues Statement on the Holocaust Remembrance Day Oswego, IL (April 28, 2022) – Congressional Candidate, Jim Marter wishes to recognize Holocaust Remembrance Day and encourages 3 minutes of silent personal prayer to remember Read More 04/25/2022 Paul Hurst Comment (0) Marter Calls on Underwood to Join Bi-Partisan Opposition to Ending Title 42 Congressional Republican Jim Marter calls on Democrat opponent Lauren Underwood to join Republicans and her Democrat colleagues in opposing plans to prematurely end Title 42 Read More 04/21/2022 Paul Hurst Comment (0) Marter Wins First Debate in Race to Unseat Underwood in IL-14 Congressional candidate Jim Marter was the obvious winner in a well attended debate that took place in Yorkville, Illinois on Wednesday evening.
+Organized by the Read More 04/11/2022 Paul Hurst Comment (0) Jim Marter for Congress (IL-14) Announces Major Endorsement from Veterans For America First “I’m excited and grateful to receive this important endorsement from the Veterans For America First.
+Their mission to support our veterans and first responders is Read More 04/08/2022 Paul Hurst Comment (0) Jim Marter Calls on Lauren Underwood to Join Bi-Partisan Stand Against Iran Nuclear Deal Republican Congressional Candidate Jim Marter (IL-14) is calling on his Democrat opponent, Representative Lauren Underwood, to join the bi-partisan stand against the Iran Nuclear Deal.
+Read More 03/07/2022 Paul Hurst Comment (0) James Marter Issues Statement on Jewish Democratic Council’s Endorsement of Underwood James Marter issued the following statement in response to the Jewish Democratic Council of America, on their endorsement of Lauren Underwood.
+“I’m the only candidate Read More 03/01/2022 Paul Hurst Comment (0) Jim Marter (IL14) Releases Response to State of the Union Following this evening’s State of the Union Address by President Joe Biden, Jim Marter, Congressional Candidate in Illinois 14, released the following statements.
+“President Biden Read More 02/22/2022 Paul Hurst Comment (0) James Marter Announces Support for Senator Rick Scott’s Rescue America Plan, Pledges Active Work on 11 Points James Marter, running for Congress in Illinois’ 14th Congressional District, has again demonstrated his leadership with early support for Senator Rick Scott’s Plan to Rescue Read More 02/02/2022 Paul Hurst Comment (0) Marter Calls For Releasing List of World War II War Criminals James Marter, running for Congress in Illinois’ 14th Congressional District has been an outspoken supporter of United States ally, Israel.
+Today, Marter is calling for Read More 01/13/2022 Paul Hurst Comment (0) James Marter Challenges Primary Opponents to a Town Hall Debate Today James Marter, Republican for Congress in Illinois’ 14th District, announced that he is challenging his primary opponents to a town hall debate.
+Marter’s Communications Read More 01/09/2022 Paul Hurst Comment (0) Marter Calls for Underwood to Renounce Jan.
+6 Comparisons to Pearl Harbor, 9/11 Attacks James Marter asks Representative Underwood if she supports Vice President Harris’ widely reported statements comparing January 6, 2020 to Pearl Harbor and 9/11.
+“For one, Read More 01/06/2022 Paul Hurst Comment (0) James Marter for Congress (IL14) Releases Impressive Second Round of Endorsements James Marter’s campaign for Congress in Illinois’ 14th District, has released its second round of personal endorsements.
+Marter is the twice elected, current Chairman of Read More 12/07/2021 lutf1362 Comment (0) Marter Announces Taxpayer Group Endorsement, Contrasts with Underwood’s Failing Scores Today, James Marter, running for Congress in Illinois’ 14th Congressional District, highlighted his opponent’s record on taxes and spending.
+While a spokesperson for Taxpayers United Read More 11/28/2021 lutf1362 Comment (0) Marter Pledges Support for Parental Bill of Rights in Education Today James Marter, Republican candidate for Congress in Illinois 14, pledged to support legislation creating a parents bill of rights in the education of their Read More 11/18/2021 lutf1362 Comment (0) James Marter Denounces Underwood’s Silence on $450,000 Payouts to Illegal Immigrants Separated at the Border James Marter, candidate for Congress in Illinois’ 14th District, expressed outrage over president Biden’s plan to pay illegal immigrants $450,000 per person, for being separated Read More 11/16/2021 lutf1362 Comment (0) James Marter for Congress (IL14) Releases Impressive List of First Round Endorsements Jim Marter’s campaign for Congress in Illinois’ 14th District, has released a first round list of personal endorsements.
+Marter is the twice elected, current Chairman Read More 11/10/2021 lutf1362 Comment (0) Congresswoman Underwood Owes Nursing Community and Her Constituents an Apology U.S.
 Congressional Candidate James Marter called on Lauren Underwood to apologize to the Nursing Community and her constituents for deceiving them and endangering their lives.
-Read More
-11/03/2021
-U.S.
-Congressional Candidate James Marter called on Representative Lauren Underwood to join her colleagues against the opening of a consulate for the Palestinian Authority in
-Read More
-10/29/2021
-James Marter, Candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Underwood to stand with her constituents and oppose her party’s weaponizing of
-Read More
-10/13/2021
-Congressional Candidate, James Marter announced today that his bid for Congress will be to unseat Congresswoman Lauren Underwood.
-Anticipating the new congressional district maps, Marter
-Read More
-09/22/2021
-Congressional Candidate, James Marter called out Congresswoman Lauren Underwood today for being a “friend to anti-Semites” instead of a friend to Israel.
-“Representative Underwood failed
-Read More
-09/14/2021
-Congressional Candidate James Marter released details today, on his campaign’s Faith, Family and Freedom Rally and Fundraiser scheduled for September 16th in Pingree Grove, Illinois.
-Read More
+Read More 11/03/2021 lutf1362 Comment (0) James Marter Calls on Congresswoman Lauren Underwood to Say NO to Palestinian Consulate in Jerusalem U.S.
+Congressional Candidate James Marter called on Representative Lauren Underwood to join her colleagues against the opening of a consulate for the Palestinian Authority in Read More 10/29/2021 lutf1362 Comment (0) Marter Calls Upon Congresswoman Underwood to Say NO to the IRS Power Grab James Marter, Candidate for Congress in Illinois’ 14th District, is calling on Congresswoman Underwood to stand with her constituents and oppose her party’s weaponizing of Read More 10/13/2021 lutf1362 Comment (0) James Marter Announces District Change and Will Run to Unseat Lauren Underwood Congressional Candidate, James Marter announced today that his bid for Congress will be to unseat Congresswoman Lauren Underwood.
+Anticipating the new congressional district maps, Marter Read More 09/22/2021 lutf1362 Comment (0) James Marter Calls Out Lauren Underwood for Being Soft on Anti-Semitism Congressional Candidate, James Marter called out Congresswoman Lauren Underwood today for being a “friend to anti-Semites” instead of a friend to Israel.
+“Representative Underwood failed Read More 09/14/2021 lutf1362 Comment (0) James Marter To Hold A Faith Family & Freedom Rally Fundraiser In Pingree Grove, IL Congressional Candidate James Marter released details today, on his campaign’s Faith, Family and Freedom Rally and Fundraiser scheduled for September 16th in Pingree Grove, Illinois.
+Read More Facebook Twitter Instagram Tiktok Youtube Replace Lauren Underwood: DONATE!
+Contact Us info@Marter4Congress.US 1 (815) 585-8006 P.O.
+Box 271 Oswego IL 60543 USA © Copyright # Marter for Congress

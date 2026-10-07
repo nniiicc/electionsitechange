@@ -1,9 +1,38 @@
 [
-"https://angeloformissouri.com/",
-"https://facebook.com/angeloformo",
-"https://instagram.com/angeloformissouri",
-"https://secure.anedot.com/jerry-angelo/donate",
-"https://sos.mo.gov/elections/goVoteMissouri/register",
-"https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx",
-"https://youtube.com/@AngeloForMissouri"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/jerry-angelo/donate"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/jerry-angelo/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/angeloformo"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/angeloformissouri/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/register"
+},
+{
+"text": "Voting Information",
+"href": "https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@AngeloForMissouri"
+},
+{
+"text": "[image: Jerry Angelo for Missouri House of Representatives]",
+"href": "https://angeloformissouri.com"
+},
+{
+"text": "[image: Jerry Angelo for Missouri House of Representatives]",
+"href": "https://angeloformissouri.com/"
+}
 ]

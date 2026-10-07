@@ -1,9 +1,4 @@
-Corey Foreman
-We deserve better Health Care Infrastructure Jobs Schools
-Corey Foreman for Georgia Senate, District 1
-ABOUT
-Meet Corey Foreman
-Corey Foreman is a husband, veteran, small business owner, and community advocate working to build a stronger future for Georgia’s 1st District.
+Skip to content About The Issues Contact Donate Endorsements & Support​ About The Issues Contact Donate Endorsements & Support​ Corey Foreman We deserve better Health Care Infrastructure Jobs Schools Corey Foreman for Georgia Senate, District 1 GET INVOLVED Donate ABOUT Meet Corey Foreman Corey Foreman is a husband, veteran, small business owner, and community advocate working to build a stronger future for Georgia’s 1st District.
 Originally from Maryland, Corey now calls Coastal Georgia home.
 His wife, Morgan, grew up here, and together they’ve built a life rooted in service to their community and to each other.
 Corey is a U.S.
@@ -18,3 +13,6 @@ Corey currently serves as Chair of the Bryan County Democratic Committee, where 
 Both Corey and Morgan are members of the NAACP and stay actively involved in local service, from food drives and back-to-school giveaways to volunteering with Meals on Wheels, Animal Control, the 200 Club of Savannah, and more.
 He believes real leadership means listening first, speaking up when it counts, and working every day to make government serve the people.
 Corey is running to bring accountability, vision, and real results to the people of Georgia’s 1st District.
+Donate Coastal Georgia deserves better.
+We deserve better.
+About The Issues Contact Donate Endorsements & Support​ About The Issues Contact Donate Endorsements & Support​ Stay in the Loop Campaign Updates | Events | Volunteer Opportunities | Election Information Email Keep me Informed

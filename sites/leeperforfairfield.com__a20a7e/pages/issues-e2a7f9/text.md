@@ -1,11 +1,8 @@
-Education
-My professional career has been committed to improving educational outcomes for all children.
+Menu Home About Issues News & LTEs Volunteer Voter Resources Volunteer Education Housing Seniors/Families Public Safety Education My professional career has been committed to improving educational outcomes for all children.
 I was a school administrator in an NYC elementary school where I served as the Director of Special Education and managed our data-driven instructional model.
 I then put that on-the-ground experience to work in crafting policy for the CT State Dept. of Education in the Performance Office.
 I led the state's accountability system reform and also managed the state's largest data collection.
 In the legislature, I've served on the Education Committee since I was first elected.
 I was the Vice-Chair in 2023 and 2024 and served as the Committee Co-Chair in 2025 and 2026.
-I'm a strong believer in:
-- Ensuring every child has what they need to feel safe, a sense of belonging, to have their passions and curiosities fostered, and to be academically challenged
-- Holding up the integrity of the teaching profession, recruiting more people to the profession, and ensuring our educators have the tools they need to support their students
-- Preparing students for meaningful and productive lives
+I'm a strong believer in: Ensuring every child has what they need to feel safe, a sense of belonging, to have their passions and curiosities fostered, and to be academically challenged Holding up the integrity of the teaching profession, recruiting more people to the profession, and ensuring our educators have the tools they need to support their students Preparing students for meaningful and productive lives Appointments Member, Governor Lamont's Blue Ribbon Commission on K-12 Education Funding and Accountability Appointed Commissioner, Secretary Cardona's Career Pathways Commission In the News "The Digital Delusion" Melissa in the Morning "Rethinking Screens in Schools" The Lisa Wexler Show Inside Connecticut's Education Crisis: Funding, Homeschooling & Hard Truths YouTube CT's New Education Committee Chair, Jennifer Leeper Acast Melissa in the Morning — Focus on Education Audioboom Homeschooling, DCF, and the Future of CT Education Apple Podcasts Bell-to-Bell Cell Phone Ban in Schools PBS Melissa in the Morning — Equivalent Instruction Audioboom New Education Committee Leader on Standardized Tests, Crisis Drills, Special Ed CT Examiner Community Conversation on Math Literacy Sacred Heart University Major CT Education Issues 2026: AI, Funding, Policy CT Insider House Democrats Running Education Bills CT News Junkie CT School Funding, Legislature, ECS 2026 Budget CT Insider Contact jennifer@leeperforfairfield.com (203) 307-5461 Social Paid for by Jennifer Leeper 2026.
+Approved by Jennifer Leeper.

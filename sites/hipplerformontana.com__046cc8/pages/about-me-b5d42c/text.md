@@ -1,9 +1,9 @@
-GET TO KNOW ME
-Do you want to know more about me?
+HOME PRIORITIES ABOUT ME PRESS DONATE!
+ENDORSEMENTS PRIORITIES ABOUT ME PRESS DONATE!
+ENDORSEMENTS GET TO KNOW ME Do you want to know more about me?
 Then you have come to the right place.
 If you have any questions, you can contact me at any time.
-THIS IS ME
-I am a retired teacher who moved to Montana in 1990 because of its wide-open public lands and community spirit.
+CONTACT NOW THIS IS ME I am a retired teacher who moved to Montana in 1990 because of its wide-open public lands and community spirit.
 For over 30 years I taught in Laurel and Billings Public Schools as both a special education and regular education teacher.
 I taught for over 10 years at Central Heights Elementary, so I know District 25 very well.
 I finished my career as a Reading Interventionist in Title 1 schools.
@@ -23,3 +23,9 @@ The Montana Constitution was drafted to enshrine the rights and values that Mont
 That constitution, which preserves our privacy, our public schools and our clean and healthy environment, is under attack by the those who want to diminish the rights of ordinary citizens and grant unlimited rights to corporations and the ultra-wealthy.
 The next four years will be important in preserving our Montana Constitution.
 As Senator for District 25, I will work to preserve the constitutional rights we already have and fight the attempts to privatize our public schools, public lands and public services.
+MY PRIORITIES DONATE NOW! © # Copyright Hippler for Montana.
+All rights reserved.
+We need your consent to load the translations We use a third-party service to translate the website content that may collect data about your activity.
+Please review the details in the privacy policy and accept the service to view the translations.
+Decline Accept Website Translator IONOS SiteAnalytics Privacy Settings This tool helps you to select and deactivate various tags / trackers / analytic tools used on this website.
+Toggle Select all services Toggle Website Translator More Less Toggle IONOS SiteAnalytics More Less Save Settings

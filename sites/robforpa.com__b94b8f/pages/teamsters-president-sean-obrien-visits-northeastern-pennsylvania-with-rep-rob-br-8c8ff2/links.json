@@ -1,24 +1,102 @@
 [
-"https://facebook.com/RobforPA",
-"https://instagram.com/Rob4PA",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://robforpa.com/",
-"https://robforpa.com/about",
-"https://robforpa.com/cdn-cgi/l/email-protection",
-"https://robforpa.com/get-involved",
-"https://robforpa.com/labor-endorsements",
-"https://robforpa.com/news",
-"https://robforpa.com/privacy-policy",
-"https://robforpa.com/terms-conditions",
-"https://robforpa.us21.list-manage.com/track/click?u=4aaa9665caa590d8638bb435d&id=b890f02be3&e=2514529404",
-"https://secure.winred.com/rob-for-pa/donate",
-"https://secure.winred.com/rob-for-pa/donate?amount=100",
-"https://secure.winred.com/rob-for-pa/donate?amount=25",
-"https://secure.winred.com/rob-for-pa/donate?amount=50",
-"https://secure.winred.com/rob-for-pa/donate?amount=75",
-"https://secure.winred.com/rob-for-pa/storefront",
-"https://twitter.com/Rob4PA",
-"https://us.list-manage.com/_2DiXGGIQPU?e=2514529404&c2id=5da2fd574a850fe197362d2b1b0e710b",
-"https://youtube.com/@RobforPA"
+{
+"text": "$100",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=50"
+},
+{
+"text": "$75",
+"href": "https://secure.winred.com/rob-for-pa/donate?amount=75"
+},
+{
+"text": "About",
+"href": "https://robforpa.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rob-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobforPA"
+},
+{
+"text": "Get Involved",
+"href": "https://robforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://robforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/Rob4PA"
+},
+{
+"text": "Labor Endorsements",
+"href": "https://robforpa.com/labor-endorsements/"
+},
+{
+"text": "News",
+"href": "https://robforpa.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/rob-for-pa/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://robforpa.com/terms-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://robforpa.com/#vote"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Rob4PA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@RobforPA"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robforpa.com"
+},
+{
+"text": "[image: Logo - Rob for PA]",
+"href": "https://robforpa.com/"
+},
+{
+"text": "endorsed",
+"href": "https://us.list-manage.com/_2DiXGGIQPU?e=2514529404&c2id=5da2fd574a850fe197362d2b1b0e710b"
+},
+{
+"text": "www.RobForPA.com",
+"href": "https://robforpa.us21.list-manage.com/track/click?u=4aaa9665caa590d8638bb435d&id=b890f02be3&e=2514529404"
+}
 ]

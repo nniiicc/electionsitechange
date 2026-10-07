@@ -1,19 +1,82 @@
 [
-"http://actblue.com/donate/nolley",
-"https://bsky.app/profile/nolleyforcongress.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/nolleyforcongress",
-"https://forms.gle/2U8AcdB5SXR7zAHc6",
-"https://instagram.com/nolleyforcongress",
-"https://nolleyforcongress.com/",
-"https://nolleyforcongress.com/_sites/www.nolleyforcongress.com/privacy-policy",
-"https://nolleyforcongress.com/about",
-"https://nolleyforcongress.com/district-map",
-"https://nolleyforcongress.com/endorsements",
-"https://nolleyforcongress.com/events",
-"https://nolleyforcongress.com/issues",
-"https://nolleyforcongress.com/news",
-"https://ova.elections.il.gov/",
-"https://store.nolleyforcongress.com/",
-"https://x.com/paulnolley"
+{
+"text": "Contribute",
+"href": "http://actblue.com/donate/nolley"
+},
+{
+"text": "DONATE",
+"href": "http://actblue.com/donate/nolley"
+},
+{
+"text": "District Map",
+"href": "https://www.nolleyforcongress.com/district-map"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nolleyforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.nolleyforcongress.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.nolleyforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.nolleyforcongress.com/issues"
+},
+{
+"text": "Meet Paul",
+"href": "https://www.nolleyforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://www.nolleyforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.nolleyforcongress.com/_sites/www.nolleyforcongress.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://ova.elections.il.gov/"
+},
+{
+"text": "Signs & Merch",
+"href": "https://store.nolleyforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/2U8AcdB5SXR7zAHc6"
+},
+{
+"text": "[image: Paul Nolley for Congress logo]",
+"href": "https://www.nolleyforcongress.com/"
+},
+{
+"text": "[image: Paul Nolley for Congress]",
+"href": "https://www.nolleyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/nolleyforcongress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/nolleyforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/nolleyforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/paulnolley"
+}
 ]

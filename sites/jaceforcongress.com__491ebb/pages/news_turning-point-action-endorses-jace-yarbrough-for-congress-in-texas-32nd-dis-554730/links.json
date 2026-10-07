@@ -1,31 +1,130 @@
 [
-"http://jaceforcongress.com/",
-"https://jaceforcongress.com/",
-"https://jaceforcongress.com/about",
-"https://jaceforcongress.com/endorsements",
-"https://jaceforcongress.com/get-involved",
-"https://jaceforcongress.com/media-kit",
-"https://jaceforcongress.com/news",
-"https://jaceforcongress.com/news/american-principles-project-pac-president-terry-schilling-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/bull-moose-project-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/children-and-family-advocacy-groups-endorse-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/congressman-lance-gooden-and-freedom-caucus-fund-endorse-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/jace-yarbrough-announces-early-endorsements-following-campaign-launch",
-"https://jaceforcongress.com/news/momentum-continues-into-week-2-congressman-keith-self-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/momentum-continues-second-amendment-and-pro-life-groups-line-up-behind-jace-yarbrough",
-"https://jaceforcongress.com/news/momentum-continues-texas-state-representatives-line-up-behind-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/president-donald-j-trump-endorses-jace-yarbrough-for-congress-in-texas-32nd-district",
-"https://jaceforcongress.com/news/rockwall-city-councilwoman-melba-jeffus-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/rockwall-young-republicans-endorse-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/texans-for-strong-borders-announces-endorsement-of-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/texas-governor-greg-abbott-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/news/texas-state-representative-brian-harrison-endorses-jace-yarbrough-for-congress",
-"https://jaceforcongress.com/priorities",
-"https://jaceforcongress.com/privacy-policy",
-"https://secure.anedot.com/jace-victory-fund/contribute",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=100",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=150",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=25",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=5",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=100"
+},
+{
+"text": "$150",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.jaceforcongress.com/about"
+},
+{
+"text": "American Principles Project PAC President Terry Schilling Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/american-principles-project-pac-president-terry-schilling-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Bull Moose Project Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/bull-moose-project-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Children and Family Advocacy Groups Endorse Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/children-and-family-advocacy-groups-endorse-jace-yarbrough-for-congress"
+},
+{
+"text": "Congressman Keith Self Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/momentum-continues-into-week-2-congressman-keith-self-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Congressman Lance Gooden and Freedom Caucus Fund Endorse Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/congressman-lance-gooden-and-freedom-caucus-fund-endorse-jace-yarbrough-for-congress"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaceforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaceforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.jaceforcongress.com/"
+},
+{
+"text": "Jace Yarbrough Announces Early Endorsements Following Campaign Launch",
+"href": "https://www.jaceforcongress.com/news/jace-yarbrough-announces-early-endorsements-following-campaign-launch"
+},
+{
+"text": "Media Kit",
+"href": "https://www.jaceforcongress.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.jaceforcongress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "President Donald J. Trump Endorses Jace Yarbrough for Congress in Texas’ 32nd District",
+"href": "https://www.jaceforcongress.com/news/president-donald-j-trump-endorses-jace-yarbrough-for-congress-in-texas-32nd-district"
+},
+{
+"text": "Priorities",
+"href": "https://www.jaceforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jaceforcongress.com/privacy-policy"
+},
+{
+"text": "Rockwall City Councilwoman Melba Jeffus Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/rockwall-city-councilwoman-melba-jeffus-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Rockwall Young Republicans Endorse Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/rockwall-young-republicans-endorse-jace-yarbrough-for-congress"
+},
+{
+"text": "Second Amendment and Pro-Life Groups Line Up Behind Jace Yarbrough",
+"href": "https://www.jaceforcongress.com/news/momentum-continues-second-amendment-and-pro-life-groups-line-up-behind-jace-yarbrough"
+},
+{
+"text": "Texans for Strong Borders Announces Endorsement of Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/texans-for-strong-borders-announces-endorsement-of-jace-yarbrough-for-congress"
+},
+{
+"text": "Texas Governor Greg Abbott Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/texas-governor-greg-abbott-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Texas State Representative Brian Harrison Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/texas-state-representative-brian-harrison-endorses-jace-yarbrough-for-congress"
+},
+{
+"text": "Texas State Representative Daniel Alders Endorses Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/rockwall-young-republicans-endorse-jace-yarbrough-for-congress"
+},
+{
+"text": "Texas State Representatives Line Up Behind Jace Yarbrough for Congress",
+"href": "https://www.jaceforcongress.com/news/momentum-continues-texas-state-representatives-line-up-behind-jace-yarbrough-for-congress"
+},
+{
+"text": "[image]",
+"href": "https://www.jaceforcongress.com/"
+},
+{
+"text": "www.JaceForCongress.com",
+"href": "http://www.jaceforcongress.com/"
+}
 ]

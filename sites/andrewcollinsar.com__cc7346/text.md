@@ -1,6 +1,6 @@
-| We need you!
-Help Andrew fight for Arkansas families by donating today. | |
-It's an honor to serve as State Representative for Arkansas House District 73.
+Home Donate Subscribe Contact Andrew We need you!
+Help Andrew fight for Arkansas families ​by donating today.
+Donate Fighting for Arkansas Families It's an honor to serve as State Representative for Arkansas House District 73.
 I grew up in Little Rock and am proud to call it home with my wife, Meghan, and three kids.
 I believe in the importance of strong schools, economic opportunity, safe neighborhoods, and a healthy democracy.
 We face challenging headwinds in our state.
@@ -8,9 +8,8 @@ But since I was first elected in 2018, I've been fighting for Arkansas families 
 I’m proud that dozens my bills have passed into law on issues like improving voting access, providing paid leave, helping small businesses, and confronting the opioid epidemic.
 And, as House Minority Leader, I’ve consistently spoken against the extreme partisan agenda and misinformation that have unfortunately been on the rise in our political system.
 Please contact me any time, on any issue.
-You can use the contact form on this website, email me at [email protected], or call or text me at 501-650-2233.
-Together, let's keep fighting for Arkansas families.
-Rep.
+You can use the contact form on this website, email me at [email protected] , or call or text me at 501-650-2233. ​Together, let's keep fighting for Arkansas families.
+About Andrew Rep.
 Andrew Collins is the House Minority Leader serving his fourth term in the Arkansas House.
 He represents District 73, which runs from Riverdale to Pinnacle and covers much of north and west Little Rock.
 For the 95th General Assembly, Rep.
@@ -21,3 +20,5 @@ Collins is a member of the National Conference of State Legislatures Task Force 
 Outside of his legislative duties, Rep.
 Collins is an attorney who works in real estate for Cypress Properties.
 After graduating from Duke University and Columbia Law School, he moved back to his hometown of Little Rock, where he lives with his wife, Meghan, and three children.
+Paid for by ​Andrew Collins for State Representative ​P.O.
+Box 21473, Little Rock, AR 72221 andrew [at] andrewcollinsAR.com | 501-650-2233 Home Donate Subscribe Contact Andrew

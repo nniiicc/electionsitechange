@@ -1,14 +1,4 @@
-Back to All Events
-Join Team Heather and the Dodge County DFL to walk in the Hayfield Chicken Fry Parade.
-📅 Saturday, June 20th
-🕒 Line up by 12:30, parade starts at 1:00 PM
-📍 Lineup starts at 1st Ave SW and continues onto Main St.
-W
-🤝 With Dodge County DFL
-Previous
-Previous
-February 3
-Precinct Caucuses
-Next
-Next
-June 21
+Skip to Content Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Home Issues About Endorsements Events News Media Volunteer Donate Contact ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Issues About Endorsements Events News Media Volunteer Donate Contact Back to All Events Hayfield Chicken Fry Parade Saturday, June 20, 2026 12:00 PM 2:00 PM Google Calendar ICS Join Team Heather and the Dodge County DFL to walk in the Hayfield Chicken Fry Parade. 📅 Saturday, June 20th 🕒 Line up by 12:30, parade starts at 1:00 PM 📍 Lineup starts at 1st Ave SW and continues onto Main St.
+W 🤝 With Dodge County DFL RSVP Here .
+Posted In: Community Events Previous Previous February 3 Precinct Caucuses Next Next June 21 Dodger Days Parade, Dodge Center Donate Volunteer Contact Find My District Find My Polling Place Contact [email protected] Prepared and paid for by the Friends of Heather Holmes Committee P.O.
+Box 360 Byron, MN 55920 Made with Squarespace

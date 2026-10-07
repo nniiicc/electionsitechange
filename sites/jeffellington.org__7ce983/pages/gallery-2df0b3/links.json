@@ -1,12 +1,46 @@
 [
-"https://facebook.com/RepJeffEllington",
-"https://flickr.com/photos/jeff_ellington26",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://jeffellington.org/",
-"https://jeffellington.org/blog",
-"https://jeffellington.org/donate",
-"https://jeffellington.org/gallery",
-"https://jeffellington.org/issues",
-"https://jeffellington.org/privacy-policy",
-"https://x.com/jeffrellington"
+{
+"text": "Blog",
+"href": "https://jeffellington.org/blog"
+},
+{
+"text": "Donate",
+"href": "https://jeffellington.org/donate"
+},
+{
+"text": "Flickr: Photos",
+"href": "https://www.flickr.com/photos/jeff_ellington26/"
+},
+{
+"text": "Gallery",
+"href": "https://jeffellington.org/gallery"
+},
+{
+"text": "Home",
+"href": "https://jeffellington.org/"
+},
+{
+"text": "Issues",
+"href": "https://jeffellington.org/issues"
+},
+{
+"text": "Jeff Ellington for Indiana State Senate, District 39Jeff Ellington for Indiana State Senate, District 39Jeff Ellington for Indiana State Senate, District 39Jeff Ellington for Indiana State Senate, District 39",
+"href": "https://jeffellington.org/"
+},
+{
+"text": "Privacy policy",
+"href": "https://jeffellington.org/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepJeffEllington"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/jeffrellington"
+}
 ]

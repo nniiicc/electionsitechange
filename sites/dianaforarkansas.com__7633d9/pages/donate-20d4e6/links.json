@@ -1,10 +1,34 @@
 [
-"https://dfa.arkansas.gov/wp-content/uploads/2024_AR1000TC_Schedule_of_TaxCredits_andBusiness_IncentiveCredits.pdf",
-"https://dianaforarkansas.com/",
-"https://dianaforarkansas.com/about-diana",
-"https://dianaforarkansas.com/district-9",
-"https://dianaforarkansas.com/donate",
-"https://dianaforarkansas.com/volunteer",
-"https://dianaforarkansas.com/vote",
-"https://secure.actblue.com/donate/diana2026"
+{
+"text": "About Diana",
+"href": "https://www.dianaforarkansas.com/about-diana"
+},
+{
+"text": "District 9",
+"href": "https://www.dianaforarkansas.com/district-9"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/diana2026"
+},
+{
+"text": "Donate",
+"href": "https://www.dianaforarkansas.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.dianaforarkansas.com"
+},
+{
+"text": "Register to Vote!",
+"href": "https://www.dianaforarkansas.com/vote"
+},
+{
+"text": "Tax Form",
+"href": "https://www.dfa.arkansas.gov/wp-content/uploads/2024_AR1000TC_Schedule_of_TaxCredits_andBusiness_IncentiveCredits.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dianaforarkansas.com/volunteer"
+}
 ]

@@ -1,5 +1,4 @@
-Invest So I Can Represent Your Values
-One of the lessons we all learn in life is that we can’t do it all alone.
+Endorsements Get Involved Issues Meet Mark Gallery Contact Us Contribute Invest So I Can Represent Your Values One of the lessons we all learn in life is that we can’t do it all alone.
 So I am asking for your help.
 I believe that the best things in life come with shared effort, and I stand ready to do my part.
 Can you help me?
@@ -9,5 +8,4 @@ Minnesota law requires us to collect and report the name, mailing address, occup
 Contributions are not tax deductible.
 Campaign rules do not allow contributions to exceed more than $1,000 per individual or $2,000 per married couple.
 If you prefer to mail a check, please make it payable to "Mark Johnson for MN Senate" and mail it to 404 4th St.
-NW,
-East Grand Forks, MN 56721
+NW, East Grand Forks, MN 56721 Prepared and Paid for by Mark Johnson for State Senate Copyright ©#

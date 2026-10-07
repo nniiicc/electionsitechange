@@ -1,12 +1,42 @@
 [
-"https://demoraforohio.com/",
-"https://demoraforohio.com/accomplishments",
-"https://demoraforohio.com/endorsements",
-"https://demoraforohio.com/meet-bill",
-"https://demoraforohio.com/press-releases",
-"https://facebook.com/DeMoraForOhio",
-"https://instagram.com/billdemoraforohio",
-"https://ohiosenate.gov/members/william-p-demora/news/dexora-kicks-off-ohio-state-xichigan-week-crossing-out-xs-at-the-statehouse",
-"https://secure.actblue.com/donate/friends-of-bill-demora-1",
-"https://x.com/billdemora"
+{
+"text": "Accomplishments",
+"href": "https://demoraforohio.com/accomplishments/"
+},
+{
+"text": "Bill DeMora",
+"href": "https://demoraforohio.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-bill-demora-1"
+},
+{
+"text": "Endorsements",
+"href": "https://demoraforohio.com/endorsements/"
+},
+{
+"text": "Meet Bill",
+"href": "https://demoraforohio.com/meet-bill/"
+},
+{
+"text": "News",
+"href": "https://demoraforohio.com/press-releases/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DeMoraForOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billdemoraforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/billdemora"
+},
+{
+"text": "crossing out every X in the Ohio Statehouse.",
+"href": "https://ohiosenate.gov/members/william-p-demora/news/dexora-kicks-off-ohio-state-xichigan-week-crossing-out-xs-at-the-statehouse"
+}
 ]

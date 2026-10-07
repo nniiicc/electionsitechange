@@ -1,9 +1,6 @@
-Volunteer
-Get involved with the campaign
-Join our Campaign
-This campaign is powered by people who care about their community and believe in a better future for Nevada.
+Home About Shenea The Issues Volunteer Contact Donate Select Page Volunteer Get involved with the campaign Join our Campaign This campaign is powered by people who care about their community and believe in a better future for Nevada.
 Whether you have a little time or a lot, there are many ways to get involved and make an impact.
 Volunteers help with door knocking, phone and text outreach, event support, and spreading the word online.
 No prior experience is needed—just a willingness to show up and help build a people-powered campaign for working families in Assembly District 22.
-Fill out the form below to get started, and a member of our team will be in touch soon with next steps.
-"*" indicates required fields
+Fill out the form below to get started, and a member of our team will be in touch soon with next steps. " * " indicates required fields Name * First Last Email * Phone Volunteer Options * Knock Doors Phone Bank Volunteer at an Event Submit Powered by people like you DONATE TODAY Navigation Home About Shenea The Issues Volunteer Contact Donate Contact Us Shenea Booth for Nevada 1000 N.
+Green Valley #440-248 Henderson, NV 89074 Phone: (702) 728-1464 Email: info@sheneafornevada.com Follow the Campaign Follow Follow Follow Follow Copyright © # – Paid for by Shenea for Nevada | Privacy Policy | Terms & Conditions | Website Design by Ace Studios

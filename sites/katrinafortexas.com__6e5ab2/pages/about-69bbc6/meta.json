@@ -1,11 +1,15 @@
 {
  "description": "Learn more about Katrina Pierson, your Texas State Representative for House District 33",
  "final_url": "https://katrinafortexas.com/about/",
- "paid_for_by": "Paid for by Katrina Pierson Campaign \u00a9 KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026 | ALL RIGHTS RESERVED Privacy Policy",
+ "fingerprint": "680c4c86f84a4aeea23ac8af5190d489dd7ded09",
+ "format": 3,
+ "paid_for_by": "Paid for by Katrina Pierson Campaign © KATRINA PIERSON FOR TEXAS HOUSE DISTRICT 33 2026",
  "title": "About | Katrina Pierson for Texas House",
  "years_mentioned": [
+  "2009",
   "2016",
   "2020",
-  "2021"
+  "2021",
+  "2026"
  ]
 }

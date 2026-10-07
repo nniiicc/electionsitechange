@@ -1,9 +1,46 @@
 [
-"https://secure.actblue.com/donate/mh-talbut-146",
-"https://secure.actblue.com/donate/mh-talbut-146?amount=100",
-"https://secure.actblue.com/donate/mh-talbut-146?amount=25",
-"https://secure.actblue.com/donate/mh-talbut-146?amount=250",
-"https://secure.actblue.com/donate/mh-talbut-146?amount=50",
-"https://talbutfor146.com/",
-"https://talbutfor146.com/PO"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mh-talbut-146?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mh-talbut-146?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mh-talbut-146?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mh-talbut-146?amount=50"
+},
+{
+"text": "573.833.0417",
+"href": "tel:5738330417"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/mh-talbut-146"
+},
+{
+"text": "Donate via ActBlue",
+"href": "https://secure.actblue.com/donate/mh-talbut-146"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mh-talbut-146"
+},
+{
+"text": "PO Box 489, Jackson, MO 63755",
+"href": "https://talbutfor146.com/PO"
+},
+{
+"text": "TalbutFor146@gmail.com",
+"href": "mailto:TalbutFor146@gmail.com"
+},
+{
+"text": "Talbutfor146.com",
+"href": "https://talbutfor146.com"
+}
 ]

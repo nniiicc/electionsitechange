@@ -1,7 +1,9 @@
 {
  "description": "Judge Terri Jamison&#39;s endorsements",
  "final_url": "https://www.voteterrijamison.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "ab48aae3ce20699e10cdab4587eb6aa415428c5d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2024 Endorsements",
  "years_mentioned": [
   "2022",

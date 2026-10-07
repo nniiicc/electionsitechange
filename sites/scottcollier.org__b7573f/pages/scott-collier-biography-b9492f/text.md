@@ -1,7 +1,6 @@
+Menu Contact The Issues Advocacy Bio Home Who is Scott Collier?
 An agent of positive change.
-An American patriot
-Believer in the power of prayer
-Believer of divine intervention.
+An American patriot Believer in the power of prayer Believer of divine intervention.
 Founder of DundalkTV.
 Founder of the Global Brain Injury Association.
 Businessman.
@@ -16,7 +15,6 @@ Life member of Dundalk Historical Society.
 YouTuber.
 Rumbler.
 Community advocate.
-Humanitarian
-Disability Advocate
-Senior Citizen Advocate.
+Humanitarian Disability Advocate Senior Citizen Advocate.
 Volunteer.
+PAID FOR BY SCOTT COLLIER FOR CONGRESS

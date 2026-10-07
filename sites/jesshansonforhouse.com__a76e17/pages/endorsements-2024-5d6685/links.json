@@ -1,42 +1,174 @@
 [
-"http://facebook.com/JessHansonMN",
-"http://x.com/JessHansonMN",
-"https://afscmemn.org/2022-election-endorsements",
-"https://bsky.app/profile/jesshansonmn.bsky.social",
-"https://conservationminnesota.org/",
-"https://dfl.org/endorsed",
-"https://dflseniors.org/endorsements",
-"https://educationminnesota.org/advocacy/edmnvotes",
-"https://fairvotemn.org/2022-minnesota-rcv-supporters",
-"https://instagram.com/JessHansonMN",
-"https://jesshansonforhouse.com/",
-"https://jesshansonforhouse.com/about-jess",
-"https://jesshansonforhouse.com/cart",
-"https://jesshansonforhouse.com/committeesbills",
-"https://jesshansonforhouse.com/contact-us",
-"https://jesshansonforhouse.com/contactjess",
-"https://jesshansonforhouse.com/donate",
-"https://jesshansonforhouse.com/door-knock",
-"https://jesshansonforhouse.com/endorsements-2024",
-"https://jesshansonforhouse.com/endorsements-2026",
-"https://jesshansonforhouse.com/events",
-"https://jesshansonforhouse.com/get-involved",
-"https://jesshansonforhouse.com/getnewsletters",
-"https://jesshansonforhouse.com/houseparty",
-"https://jesshansonforhouse.com/join-email-list",
-"https://jesshansonforhouse.com/lawnsign",
-"https://jesshansonforhouse.com/learn-more",
-"https://jesshansonforhouse.com/photos",
-"https://jesshansonforhouse.com/politics-of-care-about",
-"https://jesshansonforhouse.com/volunteer",
-"https://jesshansonforhouse.com/whoisjess",
-"https://liunaminnesota.org/endorsements",
-"https://mape.org/2022-mape-pac-endorsements",
-"https://mnvoterguide.org/partner/mnaflcio",
-"https://naswmn.socialworkers.org/About",
-"https://secure.actblue.com/donate/jesshansonforhouse55a",
-"https://seiumn.org/endorsements/seiu-2024-endorsements",
-"https://sierraclub.org/minnesota",
-"https://turnoutpac.org/",
-"https://womenwinning.org/endorsed-candidates"
+{
+"text": "0",
+"href": "https://www.jesshansonforhouse.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Click Here to Donate on ActBlue Today!",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Committees & Bills",
+"href": "https://www.jesshansonforhouse.com/committeesbills"
+},
+{
+"text": "Contact Jess",
+"href": "https://www.jesshansonforhouse.com/contactjess"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jesshansonforhouse55a"
+},
+{
+"text": "Donate",
+"href": "https://www.jesshansonforhouse.com/donate"
+},
+{
+"text": "Door Knock",
+"href": "https://www.jesshansonforhouse.com/door-knock"
+},
+{
+"text": "Endorsements (2024)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2024"
+},
+{
+"text": "Endorsements (2026)",
+"href": "https://www.jesshansonforhouse.com/endorsements-2026"
+},
+{
+"text": "Events",
+"href": "https://www.jesshansonforhouse.com/events"
+},
+{
+"text": "Folder: Contact Us",
+"href": "https://www.jesshansonforhouse.com/contact-us"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.jesshansonforhouse.com/get-involved"
+},
+{
+"text": "Folder: Learn More",
+"href": "https://www.jesshansonforhouse.com/learn-more"
+},
+{
+"text": "Get Email Updates",
+"href": "https://www.jesshansonforhouse.com/join-email-list"
+},
+{
+"text": "Get Newsletters",
+"href": "https://www.jesshansonforhouse.com/getnewsletters"
+},
+{
+"text": "Get a Lawn Sign",
+"href": "https://www.jesshansonforhouse.com/lawnsign"
+},
+{
+"text": "Home",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "Host a House Party",
+"href": "https://www.jesshansonforhouse.com/houseparty"
+},
+{
+"text": "Photos",
+"href": "https://www.jesshansonforhouse.com/photos"
+},
+{
+"text": "The Politics of Care",
+"href": "https://www.jesshansonforhouse.com/politics-of-care-about"
+},
+{
+"text": "The Story",
+"href": "https://www.jesshansonforhouse.com/about-jess"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jesshansonforhouse.com/volunteer"
+},
+{
+"text": "Who is Jess?",
+"href": "https://www.jesshansonforhouse.com/whoisjess"
+},
+{
+"text": "[image: AFL+CIO+logo.jpg][image: AFL+CIO+logo.jpg]",
+"href": "https://mnvoterguide.org/partner/mnaflcio/"
+},
+{
+"text": "[image: AFSCME 5.png][image: AFSCME 5.png]",
+"href": "https://www.afscmemn.org/2022-election-endorsements"
+},
+{
+"text": "[image: CMVC-logo-vert-060920 (4).jpg][image: CMVC-logo-vert-060920 (4).jpg]",
+"href": "https://www.conservationminnesota.org/"
+},
+{
+"text": "[image: Copy of NASW-MinnesotaLogoStacked.jpeg][image: Copy of NASW-MinnesotaLogoStacked.jpeg]",
+"href": "https://naswmn.socialworkers.org/About"
+},
+{
+"text": "[image: DFL Senior.jpg][image: DFL Senior.jpg]",
+"href": "https://www.dflseniors.org/endorsements/"
+},
+{
+"text": "[image: Downloadable LIUNA Logo.png][image: Downloadable LIUNA Logo.png]",
+"href": "https://www.liunaminnesota.org/endorsements"
+},
+{
+"text": "[image: MN DFL.png][image: MN DFL.png]",
+"href": "https://dfl.org/endorsed/"
+},
+{
+"text": "[image: Mape 2020.jpg][image: Mape 2020.jpg]",
+"href": "https://mape.org/2022-mape-pac-endorsements"
+},
+{
+"text": "[image: SEIU_LOGO_Coated_White_MNSC_Stronger_Together.jpg][image: SEIU_LOGO_Coated_White_MNSC_Stronger_Together.jpg]",
+"href": "https://www.seiumn.org/endorsements/seiu-2024-endorsements"
+},
+{
+"text": "[image: Sierra Club Endorsement Seal_Color-1.png][image: Sierra Club Endorsement Seal_Color-1.png]",
+"href": "https://www.sierraclub.org/minnesota"
+},
+{
+"text": "[image: VOTE FOR JESS BY NOV 3]",
+"href": "https://www.jesshansonforhouse.com/"
+},
+{
+"text": "[image: WW 2020.png][image: WW 2020.png]",
+"href": "https://womenwinning.org/endorsed-candidates/"
+},
+{
+"text": "[image: ed mn.png][image: ed mn.png]",
+"href": "https://educationminnesota.org/advocacy/edmnvotes/"
+},
+{
+"text": "[image: image1.png][image: image1.png]",
+"href": "https://fairvotemn.org/2022-minnesota-rcv-supporters/"
+},
+{
+"text": "[image: progressive turnout.png][image: progressive turnout.png]",
+"href": "https://www.turnoutpac.org/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com/JessHansonMN"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jesshansonmn.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/JessHansonMN"
+}
 ]

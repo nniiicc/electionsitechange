@@ -1,9 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61580026162280",
-"https://facebook.com/profile.php?id=61584259770983",
-"https://instagram.com/ramblingsofamodernromantic",
-"https://open.spotify.com/show/63qBsMBKketjNIKIJy2xcw?si=01ce30e713774e4d",
-"https://ramblingsofamodernromantic.substack.com/",
-"https://secure.anedot.com/the-disenfranchised/7adf27ff-240b-40b7-9dfc-195266e63b24",
-"https://travisgearhart.com/cdn-cgi/l/email-protection"
+{
+"text": "Donate Here",
+"href": "https://secure.anedot.com/the-disenfranchised/7adf27ff-240b-40b7-9dfc-195266e63b24"
+},
+{
+"text": "Email",
+"href": "mailto:gearhartlibertarian@gmail.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580026162280"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61584259770983"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ramblingsofamodernromantic"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/63qBsMBKketjNIKIJy2xcw?si=01ce30e713774e4d"
+},
+{
+"text": "Substack",
+"href": "https://ramblingsofamodernromantic.substack.com/"
+}
 ]

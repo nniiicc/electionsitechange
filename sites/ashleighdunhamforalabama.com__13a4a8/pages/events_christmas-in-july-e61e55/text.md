@@ -1,11 +1,4 @@
-Back to All Events
-Join AshLeigh and friends for a “Christmas in July” postcard party!
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events Christmas in July Friday, July 24, 2026 5:00 PM 7:00 PM 102 Melinda Drive Madison United States (map) Google Calendar ICS Join AshLeigh and friends for a “Christmas in July” postcard party!
 We’ll enjoy Christmas music, cookies, and writing postcards to voters in Alabama.
 Bring friends or family, and let’s get AshLeigh elected this November!
-Previous
-Previous
-July 12
-Diaper Drive & Candidate Meet-and-Greet
-Next
-Next
-July 31
+Previous Previous July 12 Diaper Drive & Candidate Meet-and-Greet Next Next July 31 Mahjong for the Matriarchy AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

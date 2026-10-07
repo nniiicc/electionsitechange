@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.votebobbrinson.com/platform",
- "paid_for_by": null,
+ "fingerprint": "de34aebcd11345b9f576a59b4d739d8aa5eba2b1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "PLATFORM | Vote Bob Brinson 1",
  "years_mentioned": [
-  "2021"
+  "2021",
+  "2026"
  ]
 }

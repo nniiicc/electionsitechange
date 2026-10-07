@@ -1,25 +1,13 @@
-LGBTQ+ RIGHTS
-Richie has long been an ally of the movement for LGBTQ+ human rights.
+About Issues Endorsements Volunteer Contribute About Issues Endorsements Volunteer Contribute LGBTQ+ RIGHTS Richie has long been an ally of the movement for LGBTQ+ human rights.
 In this fight, actions speak louder than words – and as Chairman of the House Ways & Means Committee, Richie has been a champion of legislation that advances LGBTQ+ equality.
 After more than fifty years after the Stonewall riots, Richie shepherded legislation called the PRIDE Act through committee, leading to the bill’s passage by the House.
 The act corrected long-standing discriminatory practices in our tax system that affected the LGBTQ+ community.
-The progress made with this bill states loudly and clearly that the federal government respects the dignity and equality of all married couples, regardless of gender identity or sexual orientation.
-In his role as Ways & Means Chair, Richie has also:
-- Cosponsored the Protecting LGBTQ Youth Act, because it's on all of us to keep kids safe. ️
-- Spoken out against Trump's hateful decision to ban trans people from military service. ️
-- Cosponsored the Equality Act, to guarantee full civil rights protections to all LGBTQ+ people. ️
-- Invited PULSE Nightclub shooting survivor Brandon Wolf to testify on Capitol Hill. ️
-- Highlighted the problem of tax exemptions for organizations that promote hate and intolerance.
-- Applauded and supported the Supreme Court ruling protecting all Americans, regardless of orientation, from workplace discrimination.
+The progress made with this bill states loudly and clearly that the federal government respects the dignity and equality of all married couples, regardless of gender identity or sexual orientation. “ I will always use my position as Chairman to ensure that LGBTQ+ people receive fair treatment, and to reaffirm the declaration that there is no place for hate here in America. ” In his role as Ways & Means Chair, Richie has also: ‍Cosponsored the Protecting LGBTQ Youth Act, because it's on all of us to keep kids safe. ️‍ Spoken out against Trump's hateful decision to ban trans people from military service. ️‍ Cosponsored the Equality Act, to guarantee full civil rights protections to all LGBTQ+ people. ️ Invited PULSE Nightclub shooting survivor Brandon Wolf to testify on Capitol Hill. ️ Highlighted the problem of tax exemptions for organizations that promote hate and intolerance.
+Applauded and supported the Supreme Court ruling protecting all Americans, regardless of orientation, from workplace discrimination.
 These milestones, while significant, are not enough.
 Richie believes that it is the moral duty of Congress to codify these equal rights.
-He wholeheartedly supports the Equality Act to create clear and consistent protections for LGBTQ+ people across the board.
-Richie’s record as an ally has been steady over the years, both legislatively and as an advocate.
-In Congress, he has:
-- Voted YES to repeal the discriminatory Don’t Ask, Don’t Tell policy
-- Cosponsored the Student Non-Discrimination Act, to protect LGBTQ+ students in schools;
-- Repeatedly voted YES for the Employment Non-Discrimination Act, which would prohibit job discrimination based on sexual orientation;
-- Repeatedly voted NO on a proposed constitutional amendment defining marriage as between one man and one woman;
-- Voted NO on legislation that would have banned same-sex couples in the District of Columbia from adopting;
-- Voted YES on the Gay and Lesbian Youth Suicide Prevention Act;
-- Signed an Amicus Brief in support of a lawsuit challenging the Defense of Marriage Act.
+He wholeheartedly supports the Equality Act to create clear and consistent protections for LGBTQ+ people across the board. “ It wasn’t hard telling my dad I was gay - I always knew he had my back and would support me no matter what. ” — Brendan Neal Richie’s record as an ally has been steady over the years, both legislatively and as an advocate.
+In Congress, he has: Voted YES to repeal the discriminatory Don’t Ask, Don’t Tell policy Cosponsored the Student Non-Discrimination Act, to protect LGBTQ+ students in schools; Repeatedly voted YES for the Employment Non-Discrimination Act, which would prohibit job discrimination based on sexual orientation; Repeatedly voted NO on a proposed constitutional amendment defining marriage as between one man and one woman; Voted NO on legislation that would have banned same-sex couples in the District of Columbia from adopting; Voted YES on the Gay and Lesbian Youth Suicide Prevention Act; Signed an Amicus Brief in support of a lawsuit challenging the Defense of Marriage Act. “ There’s always more work to be done, and as an ally, I’m always listening and learning.
+But you can also count on me to take action - because Love Wins, but not without a fight. ” Richard E.
+Neal for Congress Committee PO Box 718 | Springfield, MA 01101-0718 Privacy policy info@nealforcongress.com For press inquiries, please email Press@nealforcongress.com Paid for by Richard E Neal for Congress Committee, Treasurer Michael F.
+Hall.

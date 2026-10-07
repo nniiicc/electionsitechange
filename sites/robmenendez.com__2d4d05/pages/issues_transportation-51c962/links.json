@@ -1,20 +1,78 @@
 [
-"https://bsky.app/profile/robmenendez.com",
-"https://facebook.com/RobMenendez4NJ",
-"https://instagram.com/robmenendez4nj",
-"https://robmenendez.com/",
-"https://robmenendez.com/accessibility-statement",
-"https://robmenendez.com/category/news",
-"https://robmenendez.com/cdn-cgi/l/email-protection",
-"https://robmenendez.com/endorsements-2",
-"https://robmenendez.com/get-involved",
-"https://robmenendez.com/issues/affordability",
-"https://robmenendez.com/meet-rob",
-"https://robmenendez.com/priorities",
-"https://robmenendez.com/privacy-policy",
-"https://robmenendez.com/votinginfo",
-"https://robmenendez.com/what-voters-need-to-know",
-"https://secure.actblue.com/donate/robmenendez-website",
-"https://threads.net/@robmenendez4nj",
-"https://twitter.com/RobMenendez4NJ"
+{
+"text": "Accessibility Statement",
+"href": "https://www.robmenendez.com/accessibility-statement/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/robmenendez-website"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robmenendez.com/endorsements-2/"
+},
+{
+"text": "Follow on bluesky",
+"href": "https://bsky.app/profile/robmenendez.com"
+},
+{
+"text": "Follow on facebook",
+"href": "https://www.facebook.com/RobMenendez4NJ"
+},
+{
+"text": "Follow on instagram",
+"href": "https://www.instagram.com/robmenendez4nj/"
+},
+{
+"text": "Follow on threads",
+"href": "https://www.threads.net/@robmenendez4nj"
+},
+{
+"text": "Follow on twitter",
+"href": "https://twitter.com/RobMenendez4NJ"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robmenendez.com/get-involved/"
+},
+{
+"text": "Latest News",
+"href": "https://www.robmenendez.com/category/news/"
+},
+{
+"text": "Meet Rob",
+"href": "https://www.robmenendez.com/meet-rob/"
+},
+{
+"text": "Priorities",
+"href": "https://www.robmenendez.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robmenendez.com/privacy-policy/"
+},
+{
+"text": "Up Next Affordability",
+"href": "https://www.robmenendez.com/issues/affordability/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.robmenendez.com/votinginfo/"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.robmenendez.com/what-voters-need-to-know/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robmenendez.com"
+},
+{
+"text": "[image: Logo for Rob Menendez]",
+"href": "https://www.robmenendez.com"
+},
+{
+"text": "[image: Rob Menendez: Our Congressman. For our toughest fights.]",
+"href": "https://www.robmenendez.com"
+}
 ]

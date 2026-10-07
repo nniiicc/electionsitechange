@@ -1,4 +1,4 @@
-Illinois holds two dubious distinctions: First, we have more units of government than any other state; second, we are losing population faster than any other state.
+About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY About Andrew Volunteer Events Issues Endorsements Press Releases District DONATE TODAY WE NEED TO GROW OUR STATE AND NOT OUR GOVERNMENT We need to grow our State and not our Government – Government Consolidation will save taxpayer dollars Illinois holds two dubious distinctions: First, we have more units of government than any other state; second, we are losing population faster than any other state.
 I believe that the mass exodus is at least partly the result of the crushing burden we pile upon Illinois taxpayers to pay for a bloated government.
 Just look at your tax bill and the number of taxing authorities reaching into your pocket.
 In Illinois, a law on the books enables the consolidation of local units of government.
@@ -10,3 +10,6 @@ At the state level, I support combining the nearly identical offices of the Comp
 I also believe the duties of the Governor and Lieutenant Governor could be combined.
 Saving tax dollars through consolidation on the local level saves property tax dollars.
 On the state level, it would save dollars collected from taxpayers through the income tax.
+Want to volunteer?
+Please fill out the form below!
+Name (Required) First Last Email (Required) Enter Email Confirm Email Phone CAPTCHA #© Paid for by Chesney for Illinois    

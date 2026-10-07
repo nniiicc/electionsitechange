@@ -1,5 +1,4 @@
-About Sam
-State Rep.
+0 Skip to Content Home About Sam Priorities Join Us VOTE CONTRIBUTE Open Menu Close Menu Home About Sam Priorities Join Us VOTE CONTRIBUTE Open Menu Close Menu Home About Sam Priorities Join Us VOTE CONTRIBUTE About Sam State Rep.
 Samantha Steckloff has dedicated her life to public service, solving problems, and getting results for Michigan.
 Growing up in Farmington Hills, she learned the importance of community and giving back from her parents.
 Her mother, a former Mayor and State Representative, demonstrated what it means to lead with integrity and purpose, and her father worked to ensure workers had a strong voice and fair representation as a labor attorney.
@@ -18,3 +17,4 @@ Beyond her public service, Sam served as the Manager of Admissions at Wayne Stat
 That experience continues to shape her commitment to creating pathways for success for Michigan families.
 Now, Samantha is running for re-election because she believes Michigan’s best days are still ahead.
 She remains committed to building a future where every person has the opportunity to succeed and where government works to support families, strengthen communities, and create lasting opportunity for everyone.
+View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize CONTRIBUTE PAID FOR BY THE COMMITTEE TO ELECT SAM STECKLOFF | PO BOX 3296, FARMINGTON HILLS, MI 48333 PRIVACY POLICY | SMS TERMS

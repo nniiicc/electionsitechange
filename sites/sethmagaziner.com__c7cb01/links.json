@@ -1,13 +1,50 @@
 [
-"https://act.sethmagaziner.com/wiceKDoSTkaZke3OAjDYlg2",
-"https://facebook.com/SethMagazinerRI",
-"https://instagram.com/sethmagazinerri",
-"https://sethmagaziner.com/",
-"https://sethmagaziner.com/cdn-cgi/l/email-protection",
-"https://sethmagaziner.com/contribute",
-"https://sethmagaziner.com/meet-seth",
-"https://sethmagaziner.com/news",
-"https://sethmagaziner.com/privacy-policy",
-"https://twitter.com/SethMagaziner",
-"https://youtube.com/channel/UCEmc8bXXw8AYVD2txZ5IV9w"
+{
+"text": "Donate",
+"href": "https://sethmagaziner.com/contribute/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SethMagazinerRI/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/sethmagazinerri/"
+},
+{
+"text": "Learn More",
+"href": "https://sethmagaziner.com/meet-seth/"
+},
+{
+"text": "Meet Seth",
+"href": "https://sethmagaziner.com/meet-seth/"
+},
+{
+"text": "News",
+"href": "https://sethmagaziner.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://sethmagaziner.com/privacy-policy/"
+},
+{
+"text": "Seth Magaziner [image: Seth Magaziner]",
+"href": "https://sethmagaziner.com"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SethMagaziner"
+},
+{
+"text": "Volunteer",
+"href": "https://act.sethmagaziner.com/wiceKDoSTkaZke3OAjDYlg2"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/channel/UCEmc8bXXw8AYVD2txZ5IV9w"
+},
+{
+"text": "[email protected]",
+"href": "https://sethmagaziner.com/cdn-cgi/l/email-protection"
+}
 ]

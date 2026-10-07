@@ -1,8 +1,26 @@
 [
-"https://colinforcalifornia.com/",
-"https://colinforcalifornia.com/cdn-cgi/l/email-protection",
-"https://colinforcalifornia.com/privacypolicy",
-"https://instagram.com/p/DU1jQmVkgvd?img_index=1",
-"https://secure.actblue.com/donate/colinforcad51",
-"https://voterstatus.sos.ca.gov/"
+{
+"text": "CONTACT",
+"href": "mailto:colin@colinforcalifornia.com"
+},
+{
+"text": "CalCare here",
+"href": "https://www.instagram.com/p/DU1jQmVkgvd/?img_index=1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/colinforcad51"
+},
+{
+"text": "MAKE A PLAN TO VOTE",
+"href": "https://voterstatus.sos.ca.gov"
+},
+{
+"text": "Privacy Policy",
+"href": "https://colinforcalifornia.com/privacypolicy/"
+},
+{
+"text": "[image]",
+"href": "https://colinforcalifornia.com/"
+}
 ]

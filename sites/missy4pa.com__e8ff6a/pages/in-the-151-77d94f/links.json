@@ -1,14 +1,58 @@
 [
-"https://facebook.com/missy4pa",
-"https://maps.app.goo.gl/EcpN4XKXj4v74Gxe6",
-"https://missy4pa.com/",
-"https://missy4pa.com/cart",
-"https://missy4pa.com/community-survey",
-"https://missy4pa.com/home",
-"https://missy4pa.com/in-harrisburg",
-"https://missy4pa.com/in-the-151",
-"https://missy4pa.com/meet-melissa",
-"https://missy4pa.com/vote",
-"https://pahouse.com/cerrato/Help-Services/Constituent-Services",
-"https://secure.actblue.com/donate/friends-of-melissa-cerrato-1"
+{
+"text": "0",
+"href": "https://missy4pa.com/cart"
+},
+{
+"text": "Community Survey",
+"href": "https://missy4pa.com/community-survey"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-melissa-cerrato-1"
+},
+{
+"text": "Home",
+"href": "https://missy4pa.com/"
+},
+{
+"text": "In Harrisburg",
+"href": "https://missy4pa.com/in-harrisburg"
+},
+{
+"text": "In the 151st",
+"href": "https://missy4pa.com/in-the-151"
+},
+{
+"text": "Learn more",
+"href": "https://www.pahouse.com/cerrato/Help-Services/Constituent-Services/"
+},
+{
+"text": "Meet Melissa",
+"href": "https://missy4pa.com/meet-melissa"
+},
+{
+"text": "Vote",
+"href": "https://missy4pa.com/vote"
+},
+{
+"text": "[image: Map of PA House District 151]",
+"href": "https://maps.app.goo.gl/EcpN4XKXj4v74Gxe6"
+},
+{
+"text": "[image: Melissa Cerrato for PA]",
+"href": "https://missy4pa.com/"
+},
+{
+"text": "[image]",
+"href": "https://missy4pa.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/missy4pa"
+},
+{
+"text": "[no text]",
+"href": "mailto:missyforpa@gmail.com"
+}
 ]

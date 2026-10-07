@@ -1,67 +1,282 @@
 [
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20071.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20101.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20135.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20171.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20179.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20195.pdf",
-"http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20203.pdf",
-"http://kslegislature.org/li/about",
-"http://kslegislature.org/li/b2021_22/chamber/house",
-"http://kslegislature.org/li/b2021_22/members",
-"https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf",
-"https://censusreporter.org/profiles/16000US2004775-bazine-ks",
-"https://censusreporter.org/profiles/16000US2008675-brownell-ks",
-"https://censusreporter.org/profiles/16000US2014900-collyer-ks",
-"https://censusreporter.org/profiles/16000US2018050-dighton-ks",
-"https://censusreporter.org/profiles/16000US2027125-gove-city-ks",
-"https://censusreporter.org/profiles/16000US2027200-grainfield-ks",
-"https://censusreporter.org/profiles/16000US2028900-grinnell-ks",
-"https://censusreporter.org/profiles/16000US2031200-healy-ks",
-"https://censusreporter.org/profiles/16000US2033150-horace-ks",
-"https://censusreporter.org/profiles/16000US2033350-hoxie-ks",
-"https://censusreporter.org/profiles/16000US2039550-leoti-ks",
-"https://censusreporter.org/profiles/16000US2044600-marienthal-ks",
-"https://censusreporter.org/profiles/16000US2048025-monument-ks",
-"https://censusreporter.org/profiles/16000US2049925-ness-city-ks",
-"https://censusreporter.org/profiles/16000US2051825-oakley-ks",
-"https://censusreporter.org/profiles/16000US2052225-ogallah-ks",
-"https://censusreporter.org/profiles/16000US2054400-park-ks",
-"https://censusreporter.org/profiles/16000US2058250-quinter-ks",
-"https://censusreporter.org/profiles/16000US2058500-ransom-ks",
-"https://censusreporter.org/profiles/16000US2061875-russell-springs-ks",
-"https://censusreporter.org/profiles/16000US2063600-scott-city-ks",
-"https://censusreporter.org/profiles/16000US2063875-selden-ks",
-"https://censusreporter.org/profiles/16000US2064200-shallow-water-ks",
-"https://censusreporter.org/profiles/16000US2071450-tribune-ks",
-"https://censusreporter.org/profiles/16000US2072650-utica-ks",
-"https://censusreporter.org/profiles/16000US2074450-wakeeney-ks",
-"https://censusreporter.org/profiles/16000US2080075-winona-ks",
-"https://censusreporter.org/profiles/17000US2028410-greeley-county-unified-government-ks",
-"https://datausa.io/profile/geo/gove-county-ks",
-"https://datausa.io/profile/geo/greeley-county-ks",
-"https://datausa.io/profile/geo/lane-county-ks",
-"https://datausa.io/profile/geo/logan-county-ks",
-"https://datausa.io/profile/geo/ness-county-ks",
-"https://datausa.io/profile/geo/scott-county-ks",
-"https://datausa.io/profile/geo/sheridan-county-ks",
-"https://datausa.io/profile/geo/trego-county-ks",
-"https://datausa.io/profile/geo/wichita-county-ks",
-"https://facebook.com/MinnixforKansasHouse",
-"https://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20063.pdf",
-"https://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20109.pdf",
-"https://jimminnix.com/",
-"https://jimminnix.com/about-jim-minnix",
-"https://jimminnix.com/contact-jim",
-"https://jimminnix.com/donate",
-"https://jimminnix.com/jim-in-the-legislature",
-"https://jimminnix.com/jims-newsletters",
-"https://jimminnix.com/join-jims-mailing-list",
-"https://jimminnix.com/kansas-house-district-118",
-"https://jimminnix.com/legislative-highlights",
-"https://jimminnix.com/news-and-updates",
-"https://jimminnix.com/policy-resources",
-"https://jimminnix.com/resource-links",
-"https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg",
-"https://statisticalatlas.com/state-lower-legislative-district/Kansas/State-House-District-118/Overview"
+{
+"text": "About Jim",
+"href": "https://jimminnix.com/about-jim-minnix/"
+},
+{
+"text": "About the Legislature",
+"href": "http://www.kslegislature.org/li/about/"
+},
+{
+"text": "Bazine",
+"href": "https://censusreporter.org/profiles/16000US2004775-bazine-ks/"
+},
+{
+"text": "Brownell",
+"href": "https://censusreporter.org/profiles/16000US2008675-brownell-ks/"
+},
+{
+"text": "Collyer",
+"href": "https://censusreporter.org/profiles/16000US2014900-collyer-ks/"
+},
+{
+"text": "Contact",
+"href": "https://jimminnix.com/contact-jim/"
+},
+{
+"text": "Demographic Information for District 118",
+"href": "https://statisticalatlas.com/state-lower-legislative-district/Kansas/State-House-District-118/Overview"
+},
+{
+"text": "Dighton",
+"href": "https://censusreporter.org/profiles/16000US2018050-dighton-ks/"
+},
+{
+"text": "Donate",
+"href": "https://jimminnix.com/donate/"
+},
+{
+"text": "Find Your Legislator",
+"href": "http://www.kslegislature.org/li/b2021_22/members/"
+},
+{
+"text": "Gove City",
+"href": "https://censusreporter.org/profiles/16000US2027125-gove-city-ks/"
+},
+{
+"text": "Gove County",
+"href": "https://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20063.pdf"
+},
+{
+"text": "Gove County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/gove-county-ks"
+},
+{
+"text": "Grainfield",
+"href": "https://censusreporter.org/profiles/16000US2027200-grainfield-ks/"
+},
+{
+"text": "Greeley County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20071.pdf"
+},
+{
+"text": "Greeley County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/greeley-county-ks"
+},
+{
+"text": "Greeley Unified",
+"href": "https://censusreporter.org/profiles/17000US2028410-greeley-county-unified-government-ks/"
+},
+{
+"text": "Grinnell",
+"href": "https://censusreporter.org/profiles/16000US2028900-grinnell-ks/"
+},
+{
+"text": "Healy",
+"href": "https://censusreporter.org/profiles/16000US2031200-healy-ks/"
+},
+{
+"text": "Home",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "Horace",
+"href": "https://censusreporter.org/profiles/16000US2033150-horace-ks/"
+},
+{
+"text": "House District 118",
+"href": "https://jimminnix.com/kansas-house-district-118/"
+},
+{
+"text": "Hoxie",
+"href": "https://censusreporter.org/profiles/16000US2033350-hoxie-ks/"
+},
+{
+"text": "Jim Minnix for Kansas House",
+"href": "https://jimminnix.com/"
+},
+{
+"text": "Jim in the Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Jim in the News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Jim’s Newsletters",
+"href": "https://jimminnix.com/jims-newsletters/"
+},
+{
+"text": "Kansas Legislative Guide",
+"href": "https://cdn.ymaws.com/www.lkm.org/resource/resmgr/files/legislative/2021_legislative_guide_final.pdf"
+},
+{
+"text": "Lane County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20101.pdf"
+},
+{
+"text": "Lane County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/lane-county-ks"
+},
+{
+"text": "Legislative Highlights",
+"href": "https://jimminnix.com/legislative-highlights/"
+},
+{
+"text": "Legislature",
+"href": "https://jimminnix.com/jim-in-the-legislature/"
+},
+{
+"text": "Leoti",
+"href": "https://censusreporter.org/profiles/16000US2039550-leoti-ks/"
+},
+{
+"text": "Logan County",
+"href": "https://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20109.pdf"
+},
+{
+"text": "Logan County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/logan-county-ks"
+},
+{
+"text": "Marienthal",
+"href": "https://censusreporter.org/profiles/16000US2044600-marienthal-ks/"
+},
+{
+"text": "Minnix for Kansas House",
+"href": "https://www.facebook.com/MinnixforKansasHouse/"
+},
+{
+"text": "Mobile Menu ↓",
+"href": "javascript:void(null);"
+},
+{
+"text": "Monument",
+"href": "https://censusreporter.org/profiles/16000US2048025-monument-ks/"
+},
+{
+"text": "Ness City",
+"href": "https://censusreporter.org/profiles/16000US2049925-ness-city-ks/"
+},
+{
+"text": "Ness County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20135.pdf"
+},
+{
+"text": "Ness County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/ness-county-ks"
+},
+{
+"text": "News",
+"href": "https://jimminnix.com/news-and-updates/"
+},
+{
+"text": "Oakley",
+"href": "https://censusreporter.org/profiles/16000US2051825-oakley-ks/"
+},
+{
+"text": "Ogallah",
+"href": "https://censusreporter.org/profiles/16000US2052225-ogallah-ks/"
+},
+{
+"text": "Park",
+"href": "https://censusreporter.org/profiles/16000US2054400-park-ks/"
+},
+{
+"text": "Policy Resources",
+"href": "https://jimminnix.com/policy-resources/"
+},
+{
+"text": "Quinter",
+"href": "https://censusreporter.org/profiles/16000US2058250-quinter-ks/"
+},
+{
+"text": "Ransom",
+"href": "https://censusreporter.org/profiles/16000US2058500-ransom-ks/"
+},
+{
+"text": "Resource Links",
+"href": "https://jimminnix.com/resource-links/"
+},
+{
+"text": "Russel Springs",
+"href": "https://censusreporter.org/profiles/16000US2061875-russell-springs-ks/"
+},
+{
+"text": "Scott City",
+"href": "https://censusreporter.org/profiles/16000US2063600-scott-city-ks/"
+},
+{
+"text": "Scott County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20171.pdf"
+},
+{
+"text": "Scott County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/scott-county-ks"
+},
+{
+"text": "Selden",
+"href": "https://censusreporter.org/profiles/16000US2063875-selden-ks/"
+},
+{
+"text": "Shallow Water",
+"href": "https://censusreporter.org/profiles/16000US2064200-shallow-water-ks/"
+},
+{
+"text": "Sheridan County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20179.pdf"
+},
+{
+"text": "Sheridan County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/sheridan-county-ks"
+},
+{
+"text": "Subscribe to Jim’s mailing list",
+"href": "https://www.jimminnix.com/join-jims-mailing-list/"
+},
+{
+"text": "The Kansas House",
+"href": "http://www.kslegislature.org/li/b2021_22/chamber/house/"
+},
+{
+"text": "Trego County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20195.pdf"
+},
+{
+"text": "Trego County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/trego-county-ks"
+},
+{
+"text": "Tribune",
+"href": "https://censusreporter.org/profiles/16000US2071450-tribune-ks/"
+},
+{
+"text": "Utica",
+"href": "https://censusreporter.org/profiles/16000US2072650-utica-ks/"
+},
+{
+"text": "WaKeeney",
+"href": "https://censusreporter.org/profiles/16000US2074450-wakeeney-ks/"
+},
+{
+"text": "Wichita County",
+"href": "http://ipsr.ku.edu/ksdata/kcced/profiles/pdf/20203.pdf"
+},
+{
+"text": "Wichita County – Data USA Profile",
+"href": "https://datausa.io/profile/geo/wichita-county-ks"
+},
+{
+"text": "Winona",
+"href": "https://censusreporter.org/profiles/16000US2080075-winona-ks/"
+},
+{
+"text": "[image: Jim Minnix for Kansas House District 118][image: Jim Minnix for Kansas House District 118]",
+"href": "https://www.jimminnix.com"
+},
+{
+"text": "[image]",
+"href": "https://jimminnix.com/wp-content/uploads/2020/05/minnix-header2-980x372-1.jpg"
+}
 ]

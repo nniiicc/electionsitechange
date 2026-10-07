@@ -1,8 +1,38 @@
 [
-"http://facebook.com/warhurstforHR90",
-"https://warhurstfor90.com/",
-"https://warhurstfor90.com/about",
-"https://warhurstfor90.com/blog",
-"https://warhurstfor90.com/post/thoughts-after-educational-discussions",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.warhurstfor90.com/about"
+},
+{
+"text": "All Posts",
+"href": "https://www.warhurstfor90.com/blog"
+},
+{
+"text": "Amy Warhurst",
+"href": "https://www.warhurstfor90.com"
+},
+{
+"text": "Blog",
+"href": "https://www.warhurstfor90.com/blog"
+},
+{
+"text": "Home",
+"href": "https://www.warhurstfor90.com"
+},
+{
+"text": "Thoughts after Educational Discussions",
+"href": "https://www.warhurstfor90.com/post/thoughts-after-educational-discussions"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.facebook.com/warhurstforHR90"
+},
+{
+"text": "warhurstfor90@yahoo.com",
+"href": "mailto:warhurstfor90@yahoo.com"
+}
 ]

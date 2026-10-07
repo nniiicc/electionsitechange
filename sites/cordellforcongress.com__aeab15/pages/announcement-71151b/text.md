@@ -1,13 +1,10 @@
-PRESS RELEASE
-Republican Leader, Trump Delegate, and Governor Landry-Appointed Board of Regents Chair Misti Cordell is Running for Congress
-MONROE, LA - Following Congresswoman Julia Letlow’s announcement of her candidacy for the United States Senate, longtime Republican leader and Governor Jeff Landry appointed Louisiana Board of Regents Chair Misti Cordell announced today she is running for Congress to represent Louisiana’s 5th district - from the neighborhoods of Baton Rouge to the farms and small towns of Northeast Louisiana.
+Home About Platform News Support DONATE 2026.01.22 - Announcement PRESS RELEASE Republican Leader, Trump Delegate, and Governor Landry-Appointed Board of Regents Chair Misti Cordell is Running for Congress MONROE, LA - Following Congresswoman Julia Letlow’s announcement of her candidacy for the United States Senate, longtime Republican leader and Governor Jeff Landry appointed Louisiana Board of Regents Chair Misti Cordell announced today she is running for Congress to represent Louisiana’s 5 th district - from the neighborhoods of Baton Rouge to the farms and small towns of Northeast Louisiana.
 “It is a critical time for our country,” said Cordell.
 “President Trump is under constant attack by the extreme left.
 Radical voices in Washington are pushing policies that undermine our values, our economy, and our families.
 We need strong Republicans who will stand up for common sense, defend America-First principles, and fight back.
 We need leaders from the real world, not more career politicians.
-As a Republican Leader and small business owner, I believe now is the time to step forward.”
-Cordell currently serves as Chair of the Louisiana Board of Regents, appointed by Governor Jeff Landry at the beginning of his administration to reform Louisiana’s higher education system.
+As a Republican Leader and small business owner, I believe now is the time to step forward.” Cordell currently serves as Chair of the Louisiana Board of Regents, appointed by Governor Jeff Landry at the beginning of his administration to reform Louisiana’s higher education system.
 Under her leadership, the Board has focused on fiscal responsibility, strengthening job and career training, prioritizing core academic disciplines, and pushing back against woke extremism that has infiltrated America’s campuses.
 A Trump Delegate to the 2020 and 2024 Republican National Conventions, Cordell has spent years as a Republican leader.
 She serves on the Louisiana Republican State Central Committee and has held executive roles in multiple parish and local Republican organizations.
@@ -27,4 +24,4 @@ As Louisiana’s next Member of Congress, Cordell will focus on defending Presid
 “Our farms, our infrastructure, and our working families - whether in Baton Rouge neighborhoods or rural Northeast Louisiana - need a strong voice.
 We need roads and bridges rebuilt, broadband expanded, doctors kept in our communities, and jobs brought home.
 We need to fight back against the woke extremism of the far left.
-That’s what I will do in Congress.”
+That’s what I will do in Congress.” DOWNLOAD HEADSHOT OF MISTI CORDELL PAID FOR BY CORDELL FOR CONGRESS 3103 Cypress Street, Suite 3, Box 126, West Monroe, LA 71291 (318) 930-2238 PRIVACY POLICY Share by:

@@ -1,5 +1,5 @@
-By Fred Knapp, Reporter/Producer, Nebraska Public Media
-Members of Nebraska’s congressional delegation had a chance to voice their opinions at an annual summit meeting hosted by the Lincoln, Omaha and state chambers of commerce Tuesday.
+Skip to content Phone 308-220-3211 | committee@joinadrian.com Facebook DONATE TODAY!
+Search for: Home About Issues Media News Photos Donate Volunteer Contact Search for: Home About Issues Media News Photos Donate Volunteer Contact Home About Issues Media News Photos Donate Volunteer Contact Congressional delegation airs views at legislative summit Previous Next Congressional delegation airs views at legislative summit By Fred Knapp, Reporter/Producer, Nebraska Public Media Members of Nebraska’s congressional delegation had a chance to voice their opinions at an annual summit meeting hosted by the Lincoln, Omaha and state chambers of commerce Tuesday.
 One of the leading topics brought up by the business groups was how to deal with workforce shortages.
 The chambers have been pushing for immigration reform to increase the number of people available to work.
 Second District Rep.
@@ -43,6 +43,8 @@ Mexico has said it will continue the trade dispute.
 And on another corn-related issue, Sen.
 Pete Ricketts promoted a bill he has introduced with Minnesota Sen.
 Amy Klobuchar, a Democrat.
-They propose offering incentives for manufacturers of flex-fuel vehicles, which use up to 85 percent ethanol, similar to incentives for manufacturers of electric vehicles, or EVs:
-“Right now, the Biden administration has an agenda that only wants to push EVs, which I don’t think reflects states like Nebraska where we have long distances between our urban communities of Omaha and Lincoln, that EVs don’t work so well,” Ricketts said.
+They propose offering incentives for manufacturers of flex-fuel vehicles, which use up to 85 percent ethanol, similar to incentives for manufacturers of electric vehicles, or EVs: “Right now, the Biden administration has an agenda that only wants to push EVs, which I don’t think reflects states like Nebraska where we have long distances between our urban communities of Omaha and Lincoln, that EVs don’t work so well,” Ricketts said.
 Ricketts says he hopes to get the proposal attached to another bill moving through the Senate.
+Read more — https://nebraskapublicmedia.org/en/news/news-articles/congressional-delegation-airs-views-at-legislative-summit/ Adrian Smith for Congress 2023-12-21T14:40:29-06:00 August 9th, 2023 | Media coverage | Share This Story, Choose Your Platform!
+Facebook X Reddit LinkedIn Tumblr Pinterest Email 1126 Avenue A, #6 Scottsbluff, NE 69361 Phone: 308-220-3211 Fax: 308-635-7412 Email: committee@joinadrian.com Web: http://joinadrian.com Recent News Congressman Smith welcomes President Trump to Grand Island October 5, 2026 We’ve delivered results, and we’ll keep working until the job is done!
+May 8, 2026 “Ranchers for Adrian” joins growing list of Endorsements for Proven Conservative Nebraska Congressman Adrian Smith May 8, 2026 Adrian Smith Files for Re-election to Defend Conservative Leadership and Advance President Trump’s Agenda January 16, 2026 President Trump endorses Adrian Smith re-election in 2026 to Nebraska’s Third Congressional District November 4, 2025 Follow Adrian on Facebook Paid for by Adrian Smith for Congress | All Rights Reserved Facebook Page load link Go to Top

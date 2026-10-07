@@ -1,9 +1,1 @@
-Home
-About
-Issues
-Endorsements
-Get Involved
-Donate
-Contact
-More
-I ran to work on legislation and funding that impacts children, families, and workers, and I will continue to do this in my second term.
+top of page Home About Meet Rachel Rachel in Action Values & Experience Issues Legislation Endorsements Get Involved Volunteer Request a Yard Sign Donate Contact More Use tab to navigate through the menu items. ​ I ran to work on legislation and funding that impacts children, families, and workers, and I will continue to do this in my second term. ​ ​ ​ Public Education Healthcare Access Gun Safety Bodily Autonomy Working Families and Children Utility Transparency and Environment Paid for by Friends of Rachel Baker bottom of page

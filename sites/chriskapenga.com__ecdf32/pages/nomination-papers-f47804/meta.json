@@ -1,9 +1,9 @@
 {
  "description": "Support Chris Kapenga in the 2026 election by signing the nomination papers to help him appear on the ballot.",
  "final_url": "https://chriskapenga.com/nomination-papers",
- "paid_for_by": "Paid for by Kapenga for Taxpayers Copyright \u00a9 2026 &nbsp;Kapenga for Taxpayers - All Rights Reserved",
+ "fingerprint": "d4586afe22d35011eb58850b256294a6ab1f5d98",
+ "format": 3,
+ "paid_for_by": "Paid for by Kapenga for Taxpayers Copyright © # Kapenga for Taxpayers - All Rights Reserved",
  "title": "Nomination Papers",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

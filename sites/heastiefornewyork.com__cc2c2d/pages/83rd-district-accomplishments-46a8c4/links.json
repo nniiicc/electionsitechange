@@ -1,17 +1,66 @@
 [
-"https://google.com/maps/search/1250+East+229th+Street?entry=gmail",
-"https://heastiefornewyork.com/",
-"https://heastiefornewyork.com/83rd-district-accomplishments",
-"https://heastiefornewyork.com/about",
-"https://heastiefornewyork.com/affordable-housing",
-"https://heastiefornewyork.com/child-victims-act",
-"https://heastiefornewyork.com/combating-gun-violence",
-"https://heastiefornewyork.com/contact",
-"https://heastiefornewyork.com/criminal-justice-reform",
-"https://heastiefornewyork.com/ending-sexual-harrassment",
-"https://heastiefornewyork.com/giving-young-people-opportunities-to-succeed",
-"https://heastiefornewyork.com/investing-in-education",
-"https://heastiefornewyork.com/lifting-up-all-new-yorkers",
-"https://heastiefornewyork.com/protecting-the-environment",
-"https://secure.actblue.com/contribute/page/carlheastie"
+{
+"text": "1250 East 229th Street",
+"href": "https://www.google.com/maps/search/1250+East+229th+Street?entry=gmail"
+},
+{
+"text": "83rd District Accomplishments",
+"href": "https://www.heastiefornewyork.com/83rd-district-accomplishments"
+},
+{
+"text": "About",
+"href": "https://www.heastiefornewyork.com/about"
+},
+{
+"text": "Affordable Housing",
+"href": "https://www.heastiefornewyork.com/affordable-housing"
+},
+{
+"text": "Carl E. Heastie",
+"href": "https://www.heastiefornewyork.com/"
+},
+{
+"text": "Child Victims Act",
+"href": "https://www.heastiefornewyork.com/child-victims-act"
+},
+{
+"text": "Combating Gun Violence",
+"href": "https://www.heastiefornewyork.com/combating-gun-violence"
+},
+{
+"text": "Contact",
+"href": "https://www.heastiefornewyork.com/contact"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://www.heastiefornewyork.com/criminal-justice-reform"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/carlheastie"
+},
+{
+"text": "Ending Sexual Harassment",
+"href": "https://www.heastiefornewyork.com/ending-sexual-harrassment"
+},
+{
+"text": "Giving Young People Opportunities to Succeed",
+"href": "https://www.heastiefornewyork.com/giving-young-people-opportunities-to-succeed"
+},
+{
+"text": "Home",
+"href": "https://www.heastiefornewyork.com/"
+},
+{
+"text": "Investing in Education",
+"href": "https://www.heastiefornewyork.com/investing-in-education"
+},
+{
+"text": "Lifting Up All New Yorkers",
+"href": "https://www.heastiefornewyork.com/lifting-up-all-new-yorkers"
+},
+{
+"text": "Protecting the Environment",
+"href": "https://www.heastiefornewyork.com/protecting-the-environment"
+}
 ]

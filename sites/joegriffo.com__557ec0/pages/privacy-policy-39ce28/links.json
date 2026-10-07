@@ -1,12 +1,46 @@
 [
-"http://aboutads.info/choices",
-"https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
-"https://edoeb.admin.ch/edoeb/en/home.html",
-"https://facebook.com/GriffoforSenate",
-"https://joegriffo.com/",
-"https://joegriffo.com/privacy-policy",
-"https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/friends-of-joe-griffo/matching"
+{
+"text": "Contact Us",
+"href": "https://joegriffo.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-joe-griffo/matching"
+},
+{
+"text": "Meet Joe",
+"href": "https://joegriffo.com/#about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joegriffo.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Joe Griffo for New York State Senate]",
+"href": "https://joegriffo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GriffoforSenate"
+},
+{
+"text": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm",
+"href": "https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm"
+},
+{
+"text": "https://www.edoeb.admin.ch/edoeb/en/home.html",
+"href": "https://www.edoeb.admin.ch/edoeb/en/home.html"
+},
+{
+"text": "submit a complaint",
+"href": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint"
+}
 ]

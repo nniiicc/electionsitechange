@@ -1,24 +1,20 @@
-Money & Banking: An Indictment
-A citizen's indictment of fractional-reserve banking, the fiat dollar, and the hidden inflation tax — seven counts, the defense answered, and a plan to end it.
+MICHAEL STODDARD Libertarian · Utah 3rd District Issues Meet Mike Papers Library News Volunteer $ Melting Dollar Chip in → Chip in → Menu MICHAEL STODDARD ✕ 01 Issues 02 Meet Mike 03 Papers 04 Library 05 News 06 Volunteer $ Melting Dollar Chip in → ← All position papers Michael Stoddard for Congress · 3rd District Supporting paper Sound Money Money & Banking: An Indictment PDF Download the full paper ↓ ↗ Share paper Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options… Plank Restore Sound Money.
+Make America Affordable Again! → · Paper 5 / 6 Executive summary A citizen's indictment of fractional-reserve banking, the fiat dollar, and the hidden inflation tax — seven counts, the defense answered, and a plan to end it.
 The money you deposit isn't in your bank; it's been lent out many times over, a practice once prosecuted as fraud and now protected by law and a central-bank backstop.
 The remedy: let honest, full-reserve banks compete, stop socializing the losses, and secure every American's right to choose sound money.
-“[The Congress shall have Power] … To coin Money, regulate the Value thereof … and fix the Standard of Weights and Measures.”
-— U.S.
+Papers in this plank Restore Sound Money.
+Make America Affordable Again! · 6 papers Main Ending the Hidden Tax and Restoring Honest Money → Support The Coinage Act of 1792, Annotated → Support Gresham's Law as a Price Control → Support The 15-to-1 Mistake → Support Money & Banking: An Indictment — you're reading this Support Lord Keynes Tells the Truth About Inflation → “[The Congress shall have Power] … To coin Money, regulate the Value thereof … and fix the Standard of Weights and Measures.” — U.S.
 Const. art.
-I, § 8, cl. 5
-If You Did It, They’d Call It Fraud!
-Sound-Money Plank: Congress MUST End the Legal Privilege of Fractional-Reserve Banking — Restore Honest Banking and Sound Money, and Secure the American People’s Right to Choose Them
-“HONEST MONEY NOW!”
-“I am a Certified Public Accountant with additional training in economics.
+I, § 8, cl.
+5 If You Did It, They’d Call It Fraud!
+Sound-Money Plank: Congress MUST End the Legal Privilege of Fractional-Reserve Banking — Restore Honest Banking and Sound Money, and Secure the American People’s Right to Choose Them “HONEST MONEY NOW!” “I am a Certified Public Accountant with additional training in economics.
 Here is a fact most Americans have never been told: the money you deposit in your bank is not in your bank.
 It has been lent out, many times over, to people you will never meet — and the bank keeps only a few cents of every dollar you believe is sitting there waiting for you.
 That practice has a name, fractional-reserve banking, and for most of history it was prosecuted as fraud.
 Today it is the law — written by the banks themselves across five centuries of quiet capture, and propped up by a central bank and a printing press every time the bet goes bad.
-I am running to make banking honest again, so that your deposit means what you think it means.”
-— Michael R.
+I am running to make banking honest again, so that your deposit means what you think it means.” — Michael R.
 Stoddard, C.P.A., C.F.P.
-The Problem
-Ask anyone in Utah’s Third District what has changed in the last five years, and somewhere near the top of the list will be this: the money does not go as far as it used to.
+The Problem Ask anyone in Utah’s Third District what has changed in the last five years, and somewhere near the top of the list will be this: the money does not go as far as it used to.
 Groceries, rent, gas, health insurance, a first home and a college education — all of it costs more, while the paycheck stays roughly the same, and in real purchasing-power terms it has not significantly increased for over fifty years.
 People feel they are running harder just to stand still.
 They are right.
@@ -35,8 +31,7 @@ Roman emperors melted down the silver denarius and reminted it with ever more ba
 And the law did not treat tampering with the coinage as a minor offense — it treated it as among the gravest crimes a society could name.
 In England the Crown’s own coiners were put personally on trial: the Trial of the Pyx, held since the thirteenth century, hauled the Master of the Mint before a jury to answer for the purity of every coin, and a Master found wanting could be imprisoned, as one was in 1318.
 Clipping and counterfeiting by private hands were treated as treason and punished by death.
-America wrote the same severity into its very first monetary law — under Section 19 of its first Coinage Act of 1792, any Mint officer who debased the coin or embezzled the metal “shall be deemed guilty of felony, and shall suffer death.”
-Fractional-reserve banking is that same ancient impulse in more sophisticated dress.
+America wrote the same severity into its very first monetary law — under Section 19 of its first Coinage Act of 1792, any Mint officer who debased the coin or embezzled the metal “shall be deemed guilty of felony, and shall suffer death.” Fractional-reserve banking is that same ancient impulse in more sophisticated dress.
 It was born in the merchant banks of Renaissance Italy and refined by the goldsmiths who came after, and from the first it was understood to be fraud — Roman law already required that money left for safekeeping be kept, and prosecuted the banker who lent it out.
 The modern inversion is complete.
 A nation that once put men to death for shaving metal from a coin now shaves the value from every dollar as a matter of policy.
@@ -52,8 +47,7 @@ The result is the number every American can feel: a dollar from 1913 buys a few 
 John Adams saw it coming at the founding.
 “All the perplexities, confusion, and distress in America,” he wrote to Jefferson in 1787, “arise … from downright ignorance of the nature of coin, credit, and circulation.” The one subject most Americans are never taught is the one being used against them.
 What follows is an indictment of that machine of the elites — first and foremost of the fractional-reserve banking at its core — seven counts, the defense answered, and a plan to end it.
-The Bank Does Not Hold Your Money
-The defenders of the system will answer that all of this is simply how banking works — that lending out deposits is the very service a bank provides, and that the depositor consents to it.
+The Bank Does Not Hold Your Money The defenders of the system will answer that all of this is simply how banking works — that lending out deposits is the very service a bank provides, and that the depositor consents to it.
 This is the central confusion, and it must be corrected plainly.
 There is a difference, known to every legal tradition that ever protected property, between handing something over for safekeeping and lending it.
 The two cannot be the same transaction at the same time.
@@ -77,8 +71,7 @@ The response was not to end the practice but to insure it — to install a centr
 That is the bargain at the heart of modern banking: the gains stay private, the losses are made everyone’s.
 The fraud was not abolished.
 It was nationalized.
-The Indictment — Seven Counts
-Here is the charge sheet.
+The Indictment — Seven Counts Here is the charge sheet.
 Strip away the technical language and the machine stands accused of seven things.
 Each would be a crime if you or I did it.
 Together they are not a flaw in honest banking — they are the substitute for it.
@@ -127,34 +120,28 @@ A bank that lends money no one saved cannot be made honest by lending a little l
 A two-percent inflation target is a slower theft than ten percent, but it is theft on a schedule.
 You do not regulate a fraud into honesty by making it gradual.
 You end it.
-The Proposal
-I will introduce and support legislation to make banking honest again and the dollar sound.
+The Proposal I will introduce and support legislation to make banking honest again and the dollar sound.
 The goal is not to manage the machine more cleverly.
 It is to dismantle the privilege at its core and let honest alternatives compete.
-Four parts:
-A.
-End the Fractional-Reserve Privilege — Restore Honest Banking
-The law should once again recognize the distinction every other area of life already takes for granted: between money handed over for safekeeping and money knowingly lent at risk.
+Four parts: A.
+End the Fractional-Reserve Privilege — Restore Honest Banking The law should once again recognize the distinction every other area of life already takes for granted: between money handed over for safekeeping and money knowingly lent at risk.
 Demand deposits — the money you expect to be there the moment you ask for it — should be held, not lent, and the institution holding them should actually hold them.
 Money you wish to lend at interest, you would commit knowingly, for a term, accepting the risk that lending always carries.
 I will support clearing the legal path for full-reserve, transparent banking — banks that hold what they say they hold — and ending the privilege that lets a bank treat your safekeeping as its own capital.
 Let the honest model and the fractional-reserve model compete on equal terms, in full daylight, and let depositors choose with their eyes open.
 B.
-Stop Socializing the Losses
-A practice that cannot survive without a public rescue should not be promised one.
+Stop Socializing the Losses A practice that cannot survive without a public rescue should not be promised one.
 The standing guarantee that the taxpayer and the currency will absorb the losses of fractional-reserve banking is the subsidy that makes the whole pyramid permanent and the gambling rational.
 I will support winding that backstop down — not by leaving ordinary depositors exposed, but by making their deposits genuinely safe through full reserves rather than through the false safety of a bailout that debases everyone’s money to rescue a few balance sheets.
 Make safekeeping real, and you no longer have to insure it.
 C.
-Secure the Right to Choose Sound Money
-No honest currency needs a law forcing people to use it.
+Secure the Right to Choose Sound Money No honest currency needs a law forcing people to use it.
 I will work to repeal the penalties that punish Americans for using sound money: eliminate federal capital-gains taxation on gold and silver used as money, so that choosing a currency which holds its value is not treated as a taxable speculation; protect the right to make and honor contracts in the currency the parties choose; and clear the legal obstacles to honest, transparent private and state-issued alternatives.
 Let the dollar compete.
 If it is sound, it will win.
 If it cannot survive competition, that tells you everything you need to know.
 D.
-End the Hidden Financing of the Debt
-The deepest engine of the inflation tax is the quiet partnership between a Treasury that wants to spend without taxing and a central bank that can manufacture the money to let it.
+End the Hidden Financing of the Debt The deepest engine of the inflation tax is the quiet partnership between a Treasury that wants to spend without taxing and a central bank that can manufacture the money to let it.
 I will support hard statutory limits on the monetization of federal debt — the practice of paying the government’s bills with newly created money — and full, honest disclosure whenever it occurs.
 A government forced to raise every dollar it spends openly, through taxes its representatives must defend, would spend very differently.
 That discipline is the entire point.
@@ -163,44 +150,37 @@ Every plank I run on returns to one principle: a government accountable to the p
 Open the Books demands an honest accounting of what the government spends.
 This paper demands honest money to spend.
 They are the same fight, waged at the two ends of one ledger — and neither is finished without the other.
-The Defense Answered
-No indictment is worth reading unless it faces the strongest case the other side can make.
+The Defense Answered No indictment is worth reading unless it faces the strongest case the other side can make.
 Here are the defense’s best arguments — answered in turn.
-“Without the Fed, the economy would collapse into chaos.”
-The economy no more needs a committee to set the price of money than it needs one to set the price of bread.
+“Without the Fed, the economy would collapse into chaos.” The economy no more needs a committee to set the price of money than it needs one to set the price of bread.
 For most of its history America grew — explosively — without a permanent central bank.
 The booms and busts the Fed was created in 1913 to prevent have not stopped; they have grown larger.
 An institution judged by its own stated purpose, stable money, has presided over a dollar that lost nearly all of its value.
 Chaos is not the alternative to the current system.
 It is the current system, arriving on a delay.
-“Credit would dry up and growth would stall.”
-This is the strongest objection, and it deserves a straight answer.
+“Credit would dry up and growth would stall.” This is the strongest objection, and it deserves a straight answer.
 Real, durable growth is funded by real savings — money set aside from actual production, not money typed into existence.
 A system that punishes saving through inflation undermines the very thing that funds growth, then points to the credit it manufactures as proof of its own necessity.
 Nations and eras with sounder money and stricter banking have produced robust credit and strong capital formation.
 Prosperity does not require dishonest money.
 It requires money honest enough that saving it is not a mistake.
-“A little inflation is good for the economy.”
-Good for whom?
+“A little inflation is good for the economy.” Good for whom?
 “A little inflation” is a polite name for a small, steady transfer from everyone who holds dollars to whoever issues them.
 Two percent a year sounds harmless — until you notice it cuts the value of your savings roughly in half over a working lifetime, quietly, automatically, with no vote and no appeal.
 A thief who takes a little each year is still a thief.
 The honesty of a measure is not improved by making the dishonesty gradual.
-“This is a fringe position.”
-It is the position of the men who wrote the Constitution — which gives Congress the power to coin money and fix its value alongside the standard of weights and measures, and forbids the states to make anything but gold and silver legal tender — because the founders had just watched paper money destroy the savings of a generation.
+“This is a fringe position.” It is the position of the men who wrote the Constitution — which gives Congress the power to coin money and fix its value alongside the standard of weights and measures, and forbids the states to make anything but gold and silver legal tender — because the founders had just watched paper money destroy the savings of a generation.
 It is the position of every American who has watched a paycheck lose ground to prices and sensed, correctly, that something was being taken.
 The fringe position is the one we actually live under: that an unelected board should hold the power to quietly tax every dollar in the country, forever, and answer to no one.
 Naming that is not extremism.
 It is arithmetic — and naming it is what campaigns are for.
-“Even if you’re right, Congress will never do it.”
-Begin with what Congress could do tomorrow without abolishing anything: let honest, full-reserve banks compete on equal terms, and stop taxing Americans for using sound money.
+“Even if you’re right, Congress will never do it.” Begin with what Congress could do tomorrow without abolishing anything: let honest, full-reserve banks compete on equal terms, and stop taxing Americans for using sound money.
 Both are modest.
 Both are popular.
 Both are resisted only inside the institutions they would expose.
 Every large reform in American history began as the thing that would “never happen” — right up until enough people refused to keep pretending the status quo was normal.
 The honest-money movement asks only that we stop pretending.
-The Verdict — Honest Weights and Measures
-Seven counts have been laid out; the defense has been heard.
+The Verdict — Honest Weights and Measures Seven counts have been laid out; the defense has been heard.
 What remains is the verdict — and it is not complicated.
 Strip this proposal to its principle and it is the oldest rule of commerce there is: honest weights and honest measures.
 Every civilization that ever lasted punished the merchant who kept two sets of weights — a heavy one for buying and a light one for selling — because a people who cannot trust the measure cannot trust anything built upon it.
@@ -225,4 +205,5 @@ Its own first coinage law would have hanged him for it.
 Examined honestly, the system stands indicted.
 The verdict is guilty.
 Honest Money Now!
-Sound-Money Mike
+Sound-Money Mike Go deeper Books, articles & talks on sound money Open the reading list → Previous ← The 15-to-1 Mistake Next paper Lord Keynes Tells the Truth About Inflation → MICHAEL STODDARD FOR CONGRESS '26 A sound-money campaign for Utah's 3rd District — a C.P.A. who has spent his career auditing government and studying how honest money protects working families.
+Campaign Issues Meet Mike Position Papers News Volunteer Get involved Donate Volunteer Press inquiries HQ 515 Commerce Rd Orem, Utah 84058 info@2amike4congress.org 801-899-9569 © # Michael Stoddard for Congress · Paid for by the Committee to Elect Michael Stoddard to Congress f 𝕏 ↗ Share this campaign Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options…

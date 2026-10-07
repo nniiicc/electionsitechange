@@ -1,4 +1,4 @@
-Like so many campaign events this season, I went to the No Kings rally at the South Carolina statehouse Saturday (10/18) to listen.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now No Kings Faceplant Like so many campaign events this season, I went to the No Kings rally at the South Carolina statehouse Saturday (10/18) to listen.
 There was a fantastic turnout for the organizers from 50501.
 Huge congratulations to Sam and Sparkles for the work that went into it.
 I set my chair next to a woman who moved to SC from New York.
@@ -26,16 +26,14 @@ Sparkles explained that they had let that candidate go ahead of me because she h
 I smiled and stepped back and waited and listened.
 When it was my turn, the emcee mispronounced my name.
 I had not prepared remarks, only relied on my experience as a radio show host to speak clearly about myself, the campaign, and the reason I was there.
-At some point I said, “The real problem is the two parties,” and someone shouted, “And capitalism!”
-I laughed and said, “Well, I teach at the business school so I’m not going to speak against capitalism.” The joke fell flat and my thought process was sufficiently derailed.
+At some point I said, “The real problem is the two parties,” and someone shouted, “And capitalism!” I laughed and said, “Well, I teach at the business school so I’m not going to speak against capitalism.” The joke fell flat and my thought process was sufficiently derailed.
 What had I said?
 What points had I made?
 What should I say next?
 Panic.
 Faceplant.
-I hurried to share my website and then stepped off the stage with, “God Bless America.”
-Face palm.
-What did I learn?
+I hurried to share my website and then stepped off the stage with, “God Bless America.” Face palm.
+Kasie in front of the South Carolina Statehouse with No Kings protestors What did I learn?
 So many things.
 Here’s five.
 First, organizers could have removed the protestors with the “Fuck Trump” signs from the stage.
@@ -53,7 +51,7 @@ When the person at the microphone spoke against Trump, there was a lot of cheeri
 When the message was about peace, unity, and rejecting the outrage industrial complex, there was polite applause.
 It was as if they didn’t realize they had been influenced at all.
 That their hatred had been planted, sown, tended, and harvested by the very technology oligarchs Sam called out.
-Our social media algorithms got us here, he said.
+Our social media algorithms got us here , he said.
 But now that we’re here, talk to someone new, make a friend, realize you’re not alone.
 But, four, people had shown up in groups, in pairs, with their affiliations on their shirts and their clever meme-worthy signs in their hands, ready to selfie and chant.
 There was an element of performance that felt somewhat disingenuous, like an echo chamber IRL.
@@ -73,8 +71,7 @@ The speaker said, sometimes you need that courageous person who won’t wait for
 On Sunday, our minister at Washington Street Methodist Church spoke on courageous faith.
 They had sent an organized group to No Kings to stand up against the expansion of executive power, the inhumane treatment of immigrants, and the unlawful bombings of Venezuelan boats.
 Our minister spoke about having courageous faith and echoed this phrase, “I am willing, God.
-Send me.”
-The event and the church service stirred something within me.
+Send me.” The event and the church service stirred something within me.
 A greater purpose, a mission if you will.
 My regret over my podium face plant is in part because I know we need true leadership at this time.
 What I should have said when I climbed to the stage at the 50501 No Kings event on Saturday was, “I will be your flagpole climber.
@@ -88,7 +85,7 @@ I need prepared remarks, a message that resonates, and a way to focus on the del
 My first step in the right direction is engaging a campaign manager, which I’ve now done.
 I love what Sam and the 50501 South Carolina group is doing to mobilize citizens especially considering this is not an election year for any statewide or major offices.
 I love that people are getting involved.
-I’m concerned they are playacting, performing, in the way they’ve been taught to do by our elected officials who are more interested in optics than substance.
+I’m concerned they are playacting, performing, in the way they’ve been taught to do by our elected officials who are more interested in optics than substance .
 If people are in this for the theater, they’ll default to their Team Red / Team Blue habits come election day.
 It is the mission of this campaign to convince them otherwise.
 If we can bring 1 million South Carolinians on board for authentic, lasting change, we can win this race.
@@ -103,3 +100,6 @@ Send me.
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+One Response Pingback: What me and some shop owners in Conway know – Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

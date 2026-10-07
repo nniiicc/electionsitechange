@@ -1,9 +1,8 @@
-Skip navigation menu
-Fighting for Rural Virginia
-Our rural communities, small towns, and family farms fuel the economy of our Commonwealth and serve as its heart and soul.
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate Fighting for Rural Virginia Home About Issues and Priorities Students Contact More Donate Fighting for Rural Virginia Our rural communities, small towns, and family farms fuel the economy of our Commonwealth and serve as its heart and soul.
 Rural Virginians are facing a three-front attack from Washington – attacks on rural health care, skyrocketing costs to farmers from these trade wars and forever wars, and extractive threats related to AI.
 We are already seeing rural health clinics close, with the worst impacts of the “big ugly bill” set to blow up in January.
 On AI, some of the most powerful tech companies in the world are trying to use the power of eminent domain to run "extreme high voltage" transmission lines through our farmland and drop data centers next to our homes, with all the costs forced on local communities and all the profits carried away.
 Tom has fought to protect rural communities, even when it cost him politically.
 He believes that every county deserves access to quality health care, and that farming and forestry remain vital to the Virginia economy.
 He will fight to reverse the shuttering of rural health clinics caused by John McGuire and this Congress and to end the trade wars and war in Iran that have sent fuel, food, and fertilizer prices off the rails.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

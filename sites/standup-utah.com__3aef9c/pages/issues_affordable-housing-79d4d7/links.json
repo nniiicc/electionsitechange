@@ -1,21 +1,110 @@
 [
-"https://corelogic.com/",
-"https://facebook.com/",
-"https://gardner.utah.edu/",
-"https://instagram.com/",
-"https://ksl.com/",
-"https://redfin.com/",
-"https://secure.actblue.com/donate/nicole-melling-1",
-"https://standup-utah.com/",
-"https://standup-utah.com/contact",
-"https://standup-utah.com/issues",
-"https://standup-utah.com/issues/education",
-"https://standup-utah.com/issues/healthcare-access",
-"https://standup-utah.com/meet-nicole",
-"https://standup-utah.com/news",
-"https://standup-utah.com/volunteer",
-"https://standup-utah.com/vote",
-"https://standup-utah.com/your-voice",
-"https://twitter.com/",
-"https://utahnewsdispatch.com/"
+{
+"text": "All Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Contact",
+"href": "https://standup-utah.com/contact"
+},
+{
+"text": "CoreLogic – Investor Activity Reports",
+"href": "https://www.corelogic.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/nicole-melling-1"
+},
+{
+"text": "Education",
+"href": "https://standup-utah.com/issues/education"
+},
+{
+"text": "Gardner Policy Institute",
+"href": "https://gardner.utah.edu"
+},
+{
+"text": "Healthcare Access",
+"href": "https://standup-utah.com/issues/healthcare-access"
+},
+{
+"text": "Home",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "Issues",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://standup-utah.com/issues"
+},
+{
+"text": "John Burns Research (via KSL)",
+"href": "https://www.ksl.com"
+},
+{
+"text": "Join the Team",
+"href": "https://standup-utah.com/volunteer"
+},
+{
+"text": "Meet Nicole",
+"href": "https://standup-utah.com/meet-nicole"
+},
+{
+"text": "News",
+"href": "https://standup-utah.com/news"
+},
+{
+"text": "Redfin – Market Data",
+"href": "https://www.redfin.com"
+},
+{
+"text": "Source: Gardner Policy Institute",
+"href": "https://gardner.utah.edu"
+},
+{
+"text": "Source: John Burns Research / KSL",
+"href": "https://www.ksl.com"
+},
+{
+"text": "Source: Utah News Dispatch",
+"href": "https://utahnewsdispatch.com"
+},
+{
+"text": "Utah News Dispatch",
+"href": "https://utahnewsdispatch.com"
+},
+{
+"text": "Vote",
+"href": "https://standup-utah.com/vote"
+},
+{
+"text": "Your Voice",
+"href": "https://standup-utah.com/your-voice"
+},
+{
+"text": "[image: Stand Up Utah]STAND UP UTAHNicole Melling for Utah House",
+"href": "https://standup-utah.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "info@standup-utah.com",
+"href": "mailto:info@standup-utah.com"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"https://facebook.com/looneyformontana",
-"https://instagram.com/looneyformt",
-"https://looneyformontana.com/",
-"https://looneyformontana.com/about",
-"https://looneyformontana.com/contact",
-"https://looneyformontana.com/donate",
-"https://looneyformontana.com/endorsements",
-"https://looneyformontana.com/issues",
-"https://looneyformontana.com/privacy-policy",
-"https://looneyformontana.com/text-messaging-terms",
-"https://looneyformontana.com/text-updates",
-"https://looneyformontana.com/volunteer",
-"https://looneyformontana.com/vote",
-"https://x.com/LooneyForMT"
+{
+"text": "About",
+"href": "https://looneyformontana.com/about"
+},
+{
+"text": "Contact",
+"href": "https://looneyformontana.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://looneyformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://looneyformontana.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://looneyformontana.com/"
+},
+{
+"text": "Issues",
+"href": "https://looneyformontana.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://looneyformontana.com/privacy-policy"
+},
+{
+"text": "Read John's plan",
+"href": "https://looneyformontana.com/issues"
+},
+{
+"text": "Text Messaging Terms",
+"href": "https://looneyformontana.com/text-messaging-terms"
+},
+{
+"text": "Text Updates",
+"href": "https://looneyformontana.com/text-updates"
+},
+{
+"text": "Volunteer",
+"href": "https://looneyformontana.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://looneyformontana.com/vote"
+},
+{
+"text": "[image] John Looney",
+"href": "https://looneyformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/looneyformontana"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/looneyformt/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/LooneyForMT"
+}
 ]

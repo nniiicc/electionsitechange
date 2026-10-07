@@ -1,11 +1,11 @@
-Thank you for visiting my Tony Scott for State Representative website and showing interest in my campaign.
-I am extremely excited to announce that I am seeking re-election to represent the 112th District again in Hartford.
+Home Meet Tony Issues Endorsements Press Releases Request a Sign Thank you for visiting my Tony Scott for State Representative website and showing interest in my campaign.
+I am extremely excited to announce that I am seeking re-election to represent the 112 th District again in Hartford.
 Election Day is Tuesday, November 3, 2026.
 I am proud of the accomplishments I have made thus far in my three terms.
 It has been a privilege to be the voice for the 112th District.
 Voters from Monroe, Easton and Trumbull have entrusted me to represent their best interests and it would be my honor to continue to do so.
 This past year I was again selected for a leadership position as the Ranking Member of the Housing Committee.
-In my leadership role, I have continually had the residents of Monroe, Easton and Trumbull in mind as I try and maintain Local Control and stop the overreach of those in Hartford trying to make local zoning decisions in the 112th District.
+In my leadership role, I have continually had the residents of Monroe, Easton and Trumbull in mind as I try and maintain Local Control and stop the overreach of those in Hartford trying to make local zoning decisions in the 112 th District.
 I also serve on the Human Services and Executive and Legislative Nominations Committees.
 On top on fighting to maintain Local Control, I continue to push for lower taxes and against unfunded mandates that would only add to our local tax burdens.
 I have also been focused on making sure educational funding to our schools is not cut, while stressing safety and security is important with crime levels not where they should be.
@@ -18,3 +18,9 @@ As a husband and father of two daughters, I care deeply about the community and 
 Thank you for your continuing support and I humbly ask for your help again in the race ahead!
 Thank you to all who have donated to my campaign.
 I am pleased to announce that I am fully funded for the upcoming election.
+Election Countdown November 3, 2026 VOTING INFO HELP CAMPAIGN Get Updates Thank you for signing up!
+News State Rep.
+Tony Scott outlines 2026 legislative priorities Tony Scott announces campaign for reelection to the Connecticut State House Monroe legislators take on fraud, homelessness, domestic violence, support veterans, first responders Voter Information Contact Paid for by Tony Scott for State Rep.
+Loretta Chory, Treasurer.
+Approved by Tony Scott.
+Powered by CampaignPartner.com - Political Websites Home Meet Tony Issues Endorsements Press Releases Request a Sign Contact Voter Information Close Menu

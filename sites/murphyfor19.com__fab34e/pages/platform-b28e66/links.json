@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61579964528553&sk=about",
-"https://murphyfor19.com/",
-"https://murphyfor19.com/accessibility-statement",
-"https://murphyfor19.com/get-involved",
-"https://murphyfor19.com/meet-timothy",
-"https://murphyfor19.com/platform",
-"https://murphyfor19.com/privacy-policy",
-"https://murphyfor19.com/terms-and-conditions",
-"https://secure.actblue.com/donate/murphy-for-19",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.murphyfor19.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/murphy-for-19"
+},
+{
+"text": "E-Mail",
+"href": "mailto:murphyfor19@gmail.com?subject=I+want+to+make+the+impossible--possible"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.murphyfor19.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.murphyfor19.com"
+},
+{
+"text": "MEET TIMOTHY",
+"href": "https://www.murphyfor19.com/meet-timothy"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.murphyfor19.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.murphyfor19.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.murphyfor19.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61579964528553&sk=about"
+}
 ]

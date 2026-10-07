@@ -1,67 +1,290 @@
 [
-"http://bible.gospelcom.net/cgi-bin/bible?passage=Is+22%3A22%3B+Rev+1%3A18%3B+3%3A7%3B+Matt+16%3A19+&language=english&version=NASB&orientation=linebyline",
-"http://bible.gospelcom.net/cgi-bin/bible?passage=MATT%2B5%3A13-15&showfn=on&showxref=on&language=english&version=NASB&x=12&y=8",
-"http://bible.gospelcom.net/cgi-bin/bible?passage=isa+9%3A6-7&KJV_version=yes&language=english&x=14&y=9",
-"http://dictionary.reference.com/search?q=de+facto",
-"http://dictionary.reference.com/search?q=de+jure",
-"http://directory.google.com/Top/Society/Religion_and_Spirituality/Christianity/Denominations/Reformed/Theology/Christian_Reconstruction",
-"http://europa.eu.int/",
-"http://ftaa-alca.org/",
-"http://google.com/search?q=Bush-Clinton+site%3Akevincraig.us",
-"http://iconservative.com/americans_have_a_right_to_know.htm",
-"http://jbs.org/conspiracy",
-"http://jbs.org/node/1304",
-"http://jbs.org/node/1311",
-"http://jbs.org/node/147",
-"http://jbs.org/node/550",
-"http://jbs.org/node/758",
-"http://jbs.org/node/995",
-"http://july4th1776.org/",
-"http://kevincraig.us/",
-"http://kevincraig.us/EndTheWall/humanism.htm",
-"http://kevincraig.us/admin_st.htm",
-"http://kevincraig.us/anarchism.htm",
-"http://kevincraig.us/bill_of_rights.htm",
-"http://kevincraig.us/constitution.htm",
-"http://kevincraig.us/defense01.htm",
-"http://kevincraig.us/religion/nature.htm",
-"http://kevincraig.us/repent.htm",
-"http://kevinforcongress.blogspot.com/2007/07/shunning-government-down.html",
-"http://kevinforcongress.blogspot.com/2007/08/abolish-usa.html",
-"http://maxwell.syr.edu/maxpages/faculty/merupert/Research/far-right/cfr.htm",
-"http://ncc-1776.org/tle2010/tle557-20100214-06.html",
-"http://press-pubs.uchicago.edu/founders/documents/v1ch8s41.html",
-"http://propagandamatrix.com/260903ronpaul.html",
-"http://stoptheftaa.org/",
-"http://stopthespp.us/",
-"http://studylight.org/lexicons/greek/gwview.cgi?n=3144",
-"http://thechristmasconspiracy.com/",
-"http://thechristmasconspiracy.com/TheBiggestLie.htm",
-"http://theonomy.net/",
-"http://vftonline.org/Patriarchy/definitions/archist.htm",
-"http://vftonline.org/Patriarchy/definitions/micah.htm",
-"http://vftonline.org/Patriarchy/predestination/index.htm",
-"http://vftonline.org/Patriarchy/predestination/sendevil.htm",
-"http://vftonline.org/VFTINC/history/index.htm",
-"http://vftonline.org/VFTfiles/thesis/depravity.htm",
-"http://vftonline.org/XianAnarch/cause/1776c.htm",
-"http://vftonline.org/xmaspiracy/5/Romans13/principowers2.htm",
-"http://web.archive.org/web/20070220201518/http://www.stoptheftaa.org/artman/publish/article_20.shtml",
-"https://kevincraig.us/agriculture.htm",
-"https://kevincraig.us/capitalism.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/education.htm",
-"https://kevincraig.us/energy.htm",
-"https://kevincraig.us/fireworks.htm",
-"https://kevincraig.us/idolatry.htm",
-"https://kevincraig.us/interior.htm",
-"https://kevincraig.us/iraq.htm",
-"https://kevincraig.us/liberty.htm",
-"https://kevincraig.us/organic.htm",
-"https://kevincraig.us/pacifism.htm",
-"https://kevincraig.us/statism.htm",
-"https://kevincraig.us/transportation.htm",
-"https://kevincraig.us/tyranny.htm",
-"https://kevincraig.us/veterans.htm",
-"https://kevincraig.us/violence.htm"
+{
+"text": "Agriculture",
+"href": "https://kevincraig.us/agriculture.htm"
+},
+{
+"text": "America's Founding Charters",
+"href": "https://kevincraig.us/organic.htm"
+},
+{
+"text": "America's Founding Fathers",
+"href": "http://vftonline.org/VFTINC/history/index.htm"
+},
+{
+"text": "Americans Have a Right to Know About the Council on Foreign Relations",
+"href": "http://www.iconservative.com/americans_have_a_right_to_know.htm"
+},
+{
+"text": "Capitalism",
+"href": "https://kevincraig.us/capitalism.htm"
+},
+{
+"text": "Christian Anarchists",
+"href": "http://kevincraig.us/anarchism.htm"
+},
+{
+"text": "Christian Reconstructionists",
+"href": "http://directory.google.com/Top/Society/Religion_and_Spirituality/Christianity/Denominations/Reformed/Theology/Christian_Reconstruction/"
+},
+{
+"text": "Christmas Conspiracy!",
+"href": "http://thechristmasconspiracy.com"
+},
+{
+"text": "Declaration of Independence",
+"href": "http://vftonline.org/XianAnarch/cause/1776c.htm#DecInd"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Education",
+"href": "https://kevincraig.us/education.htm"
+},
+{
+"text": "Energy",
+"href": "https://kevincraig.us/energy.htm"
+},
+{
+"text": "European Union",
+"href": "http://europa.eu.int/"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Free Trade Area of the Americas",
+"href": "http://www.ftaa-alca.org/"
+},
+{
+"text": "God's Law",
+"href": "http://theonomy.net"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "Interior",
+"href": "https://kevincraig.us/interior.htm"
+},
+{
+"text": "Isaiah 9:6",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=isa+9%3A6-7&KJV_version=yes&language=english&x=14&y=9"
+},
+{
+"text": "Liberty Under God",
+"href": "https://kevincraig.us/liberty.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "More about them",
+"href": "http://www.jbs.org/node/1311"
+},
+{
+"text": "North American Union",
+"href": "http://stopthespp.us/"
+},
+{
+"text": "Pincer Strategy Behind the FTAA - The New American - May 21, 2001",
+"href": "http://web.archive.org/web/20070220201518/http://www.stoptheftaa.org/artman/publish/article_20.shtml"
+},
+{
+"text": "Proof",
+"href": "http://kevincraig.us/defense01.htm"
+},
+{
+"text": "THE COUNCIL ON FOREIGN RELATIONS",
+"href": "http://www.jbs.org/node/147"
+},
+{
+"text": "The",
+"href": "http://thechristmasconspiracy.com"
+},
+{
+"text": "The Administrative State",
+"href": "http://kevincraig.us/admin_st.htm"
+},
+{
+"text": "The Bill of Rights",
+"href": "http://kevincraig.us/bill_of_rights.htm"
+},
+{
+"text": "The Constitution is dead meat",
+"href": "http://kevincraig.us/constitution.htm"
+},
+{
+"text": "The New American - Sovereignty and the WTO - March 18, 1996",
+"href": "http://www.jbs.org/node/995"
+},
+{
+"text": "The New American - The UN Is NOT Your Friend - October 22, 2001",
+"href": "http://www.jbs.org/node/758"
+},
+{
+"text": "The New American - Worldwide Welfare - September 4, 1995",
+"href": "http://www.jbs.org/node/550"
+},
+{
+"text": "Thomas Jefferson",
+"href": "http://press-pubs.uchicago.edu/founders/documents/v1ch8s41.html"
+},
+{
+"text": "Transportation",
+"href": "https://kevincraig.us/transportation.htm"
+},
+{
+"text": "U.S. Congressman Ron Paul Admits Conspiracy to Create World Government",
+"href": "http://www.propagandamatrix.com/260903ronpaul.html"
+},
+{
+"text": "US Government Abdicates",
+"href": "http://www.ncc-1776.org/tle2010/tle557-20100214-06.html"
+},
+{
+"text": "Veterans Affairs",
+"href": "https://kevincraig.us/veterans.htm"
+},
+{
+"text": "Who is Running America?",
+"href": "http://www.maxwell.syr.edu/maxpages/faculty/merupert/Research/far-right/cfr.htm"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a Sovereign God",
+"href": "http://vftonline.org/Patriarchy/predestination/index.htm"
+},
+{
+"text": "all nations",
+"href": "http://kevincraig.us/religion/nature.htm"
+},
+{
+"text": "anti-Christian",
+"href": "http://kevincraig.us/EndTheWall/humanism.htm"
+},
+{
+"text": "archist",
+"href": "http://vftonline.org/Patriarchy/definitions/archist.htm"
+},
+{
+"text": "armed revolution",
+"href": "http://july4th1776.org"
+},
+{
+"text": "by force",
+"href": "https://kevincraig.us/violence.htm"
+},
+{
+"text": "de facto",
+"href": "http://dictionary.reference.com/search?q=de+facto"
+},
+{
+"text": "de jure",
+"href": "http://dictionary.reference.com/search?q=de+jure"
+},
+{
+"text": "demonic forces",
+"href": "http://vftonline.org/xmaspiracy/5/Romans13/principowers2.htm"
+},
+{
+"text": "encouraging",
+"href": "http://kevinforcongress.blogspot.com/2007/07/shunning-government-down.html"
+},
+{
+"text": "how the 50 American Nations would rank",
+"href": "http://kevinforcongress.blogspot.com/2007/08/abolish-usa.html"
+},
+{
+"text": "idolatry",
+"href": "https://kevincraig.us/idolatry.htm"
+},
+{
+"text": "like salt and light",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=MATT%2B5%3A13-15&showfn=on&showxref=on&language=english&version=NASB&x=12&y=8"
+},
+{
+"text": "martyr",
+"href": "http://www.studylight.org/lexicons/greek/gwview.cgi?n=3144"
+},
+{
+"text": "missionaries would have done a better job",
+"href": "https://kevincraig.us/iraq.htm"
+},
+{
+"text": "occultic",
+"href": "http://www.jbs.org/node/1304"
+},
+{
+"text": "our pronouncements would be decisive",
+"href": "http://bible.gospelcom.net/cgi-bin/bible?passage=Is+22%3A22%3B+Rev+1%3A18%3B+3%3A7%3B+Matt+16%3A19+&language=english&version=NASB&orientation=linebyline"
+},
+{
+"text": "repent",
+"href": "http://kevincraig.us/repent.htm"
+},
+{
+"text": "several generations",
+"href": "http://www.jbs.org/conspiracy"
+},
+{
+"text": "statist",
+"href": "https://kevincraig.us/statism.htm"
+},
+{
+"text": "such as existed in the colonies",
+"href": "https://kevincraig.us/fireworks.htm"
+},
+{
+"text": "the Bush-Clinton regime",
+"href": "http://www.google.com/search?q=Bush-Clinton+site%3Akevincraig.us"
+},
+{
+"text": "the nature of fallen man",
+"href": "http://vftonline.org/VFTfiles/thesis/depravity.htm"
+},
+{
+"text": "the vision of the Old Testament Prophet Micah",
+"href": "http://vftonline.org/Patriarchy/definitions/micah.htm"
+},
+{
+"text": "the vision of the Prophet Micah",
+"href": "http://vftonline.org/Patriarchy/definitions/micah.htm"
+},
+{
+"text": "turn their empires upside down",
+"href": "http://thechristmasconspiracy.com/TheBiggestLie.htm"
+},
+{
+"text": "tyranny",
+"href": "https://kevincraig.us/tyranny.htm"
+},
+{
+"text": "unChristian",
+"href": "https://kevincraig.us/pacifism.htm"
+},
+{
+"text": "violence",
+"href": "https://kevincraig.us/violence.htm"
+},
+{
+"text": "wrath",
+"href": "http://vftonline.org/Patriarchy/predestination/sendevil.htm"
+},
+{
+"text": "www.STOPtheFTAA.org",
+"href": "http://stoptheftaa.org"
+},
+{
+"text": "www.STOPtheSPP.US",
+"href": "http://www.stopthespp.us"
+}
 ]

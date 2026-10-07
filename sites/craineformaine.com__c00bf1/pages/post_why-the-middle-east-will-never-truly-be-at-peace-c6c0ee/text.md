@@ -1,5 +1,5 @@
-Why the Middle East Will Never Truly Be at Peace
-Every time violence erupts in the Middle East, Americans ask the same question: why can’t they just get along?
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search Why the Middle East Will Never Truly Be at Peace Jantzen Craine Mar 10 4 min read Every time violence erupts in the Middle East, Americans ask the same question: why can’t they just get along?
 It is an understandable reaction.
 When missile strikes, retaliations, and escalating military responses dominate the headlines, many assume the latest conflict is simply another political dispute that diplomacy might eventually resolve.
 Yet the reality is that the turmoil in the Middle East is not merely political.
@@ -52,3 +52,10 @@ Yet Scripture also reminds us that history itself is moving toward a final resol
 The peace the world longs for will not ultimately come from political treaties, military strength, or international diplomacy.
 The Bible teaches that true and lasting peace will arrive only when the Prince of Peace returns to establish it.
 Until that day, the conflicts of the Middle East serve as a reminder of both the brokenness of our world and the hope that one day God will make it right.
+Recent Posts See All When Energy Policy Costs Maine Jobs Trust in Government Starts with Transparency Is Social Media Addictive — or Are We?
+HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

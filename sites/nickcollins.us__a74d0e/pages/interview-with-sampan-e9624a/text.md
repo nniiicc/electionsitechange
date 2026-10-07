@@ -1,6 +1,5 @@
-State Sen.
-Nick Collins chats with Sampan about Chinatown, housing, homelessness, more
-State Sen.
+Skip to content Menu Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Menu Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate Interview with Sampan July 9, 2026 May 18, 2026 State Sen.
+Nick Collins chats with Sampan about Chinatown, housing, homelessness, more State Sen.
 Nick Collins represents a diverse slice of Boston in the Suffolk First District, which includes parts of Dorchester, Mattapan and Chinatown, and is home to over 180,000 residents.
 A South Boston resident and father of two girls, Sen.
 Collins attended Babson College, where he studied business management.
@@ -14,6 +13,9 @@ Collins: The funding for the Josiah Quincy School.
 It was the state that put up $54 million.
 This public school supports the Chinese American community and culture in Chinatown.
 I think having that investment is going to last generations, and it can be a place where seniors and families can use for events and where you can get children educated with the best public education in the city.
+WELCOME: State Sen.
+Nick Collins poses for a photo in Chinatown.
+Photo by Daria Mohan Zhang.
 Sampan: Why do you think supporting Chinatown is necessary?
 Collins: What makes Chinatown unique is that it is situated in the downtown area of the city.
 It has a lot of culture, history and resilience.
@@ -49,16 +51,14 @@ How do you balance neighborhood opposition and the free speech rights of the clu
 Collins: I don’t think it’s a freedom of speech rights issue.
 In order to get licensure for that, we need to establish an unmet need that the community is looking to fill.
 We have learned that most of the strip club customers come from out of state, so it’s not serving the residents at all.
-The state has a commitment to Chinatown, so we don’t want to see that go to waste or be devalued because of this…
-Sampan: Homelessness is a huge problem in the city and beyond.
+The state has a commitment to Chinatown, so we don’t want to see that go to waste or be devalued because of this… Sampan: Homelessness is a huge problem in the city and beyond.
 What do you feel are some of the root causes of homelessness, and how can they be addressed?
 Collins: I think a lot of the increase in homelessness is intersected with mental health issues.
 We need to provide services, with a roof over people’s heads….
 There was a proposal that was going nationwide that said “housing first,” and treatment wasn’t really in the ether.
 So, what we’re proposing is a treatment model that will provide people the mental health and substance abuse services with a roof over head so they can become stable.
 We have a study with MIT and the Navy that came out and that we put forth, the “Floating Hospital for Mental Health, Substance Abuse and Recovery.” While these areas of the city are debating where to put long-term facilities, it has taken a long time.
-They are also very, very costly. … At a fraction of the cost, we could have a facility right on the waterfront that can help people on-demand, going from the emergency room to a facility that’s going to serve them on the mental health issues, substance use issues and housing. …
-Sampan: What is your view on the ongoing immigration crackdowns?
+They are also very, very costly. … At a fraction of the cost, we could have a facility right on the waterfront that can help people on-demand, going from the emergency room to a facility that’s going to serve them on the mental health issues, substance use issues and housing. … Sampan: What is your view on the ongoing immigration crackdowns?
 Collins: We are passing legislation up here to try to deal with those issues in the form of the Protect Act, which just passed the House and later passed the Senate earlier in May.
 We want people to continue to feel welcome.
 That legislation will help people feel that way.
@@ -74,3 +74,7 @@ Sampan: Do you have anything to add?
 Collins: We have a language access bill that we are trying to pass, which would require every state agency, possibly the court system, to have an interpreter and have the ability for every language, particularly the Chinese language.
 Right now, language is a barrier for some people, especially older people.
 I have co-sponsored this bill that I pushed out of my committee we are trying to get done before the end of the session.
+Contact Committee to Elect Nick Collins P.O.
+Box E-51 South Boston, MA 02127 Connect © # Massachusetts State Senator Nick Collins.
+All Rights Reserved.
+Close Home Meet Nick Priorities Affordability Housing Early Childhood & Higher Education Public Safety, Treatment & Recovery Environment & Climate Resiliency Supporting our Immigrant Communities Endorsements News In the Press Op-Eds Press Releases Contact Volunteer Donate

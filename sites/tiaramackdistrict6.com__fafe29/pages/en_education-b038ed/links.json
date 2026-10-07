@@ -1,59 +1,242 @@
 [
-"http://diverseeducation.com/article/94866",
-"http://neatoday.org/2018/09/06/teacher-pay-gap-reaches-record-high",
-"http://neatoday.org/redfored",
-"http://publications.unidosus.org/bitstream/handle/123456789/1937/financingstudent_loans_brief_32519.pdf?isAllowed=y&sequence=1",
-"http://rikidscount.org/Portals/0/Uploads/Documents/Factbook%202018/Individual%20Indicators/Suspensions.pdf",
-"https://abc6.com/story/40428819/universal-prek-in-rhode-island-a-closer-look",
-"https://aclu.org/blog/reproductive-freedom/study-finds-comprehensive-sex-education-reduces-teen-pregnancy",
-"https://ballotpedia.org/Public_education_in_Rhode_Island",
-"https://bsky.app/profile/mackdistrict6.bsky.social",
-"https://collegetuitioncompare.com/compare/tables?degree=Undergraduate&state=RI&type=Public",
-"https://cultofpedagogy.com/supporting-esl-students-mainstream-classroom",
-"https://facebook.com/MackDistrict6",
-"https://fivethirtyeight.com/features/what-does-science-tell-us-about-sex-ed",
-"https://guttmacher.org/state-policy/explore/sex-and-hiv-education",
-"https://ideas.time.com/2012/12/05/does-suspending-students-work",
-"https://inquirer.com/education/pennsylvania-black-teacher-diversity-philadelphia-20191120.html",
-"https://instagram.com/mackdistrict6",
-"https://npr.org/sections/ed/2017/02/23/512451228/5-million-english-language-learners-a-vast-pool-of-talent-at-risk",
-"https://patch.com/rhode-island/newport/gov-raimondo-ceremonially-signs-student-loan-bill-rights",
-"https://privateschoolreview.com/tuition-stats/rhode-island/pre",
-"https://providencejournal.com/news/20190116/raimondo-gives-details-on-universal-pre-k-program",
-"https://providencejournal.com/news/20190816/stubborn-disconnect-experts-students-say-providence-schools-need-more-teacher-diversity-to-succeed",
-"https://secure.actblue.com/donate/mack2022",
-"https://secure.actblue.com/donate/mack2025",
-"https://soeonline.american.edu/blog/5-ways-policy-makers-can-improve-the-quality-of-education",
-"https://tableau.ride.ri.gov/t/Public/views/GRADRATES/GraduationStory?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y",
-"https://theatlantic.com/education/archive/2018/01/a-root-cause-of-the-teacher-diversity-problem/551234",
-"https://theatlantic.com/education/archive/2019/10/rhode-island-governor-explains-providence-school-takeover/601003",
-"https://tiaramackdistrict6.com/",
-"https://tiaramackdistrict6.com/cart",
-"https://tiaramackdistrict6.com/en/about",
-"https://tiaramackdistrict6.com/en/contact",
-"https://tiaramackdistrict6.com/en/criminal-justice",
-"https://tiaramackdistrict6.com/en/education",
-"https://tiaramackdistrict6.com/en/elections",
-"https://tiaramackdistrict6.com/en/gun-policy",
-"https://tiaramackdistrict6.com/en/healthcare",
-"https://tiaramackdistrict6.com/en/housing",
-"https://tiaramackdistrict6.com/en/in-the-news",
-"https://tiaramackdistrict6.com/en/issues",
-"https://tiaramackdistrict6.com/en/reach-out",
-"https://tiaramackdistrict6.com/en/social-media",
-"https://tiaramackdistrict6.com/en/take-action",
-"https://tiaramackdistrict6.com/en/taxes",
-"https://tiaramackdistrict6.com/en/wages",
-"https://tiaramackdistrict6.com/en/what-we-believe",
-"https://tiaramackdistrict6.com/en/why-im-running",
-"https://tiaramackdistrict6.com/es/armas-de-fuego",
-"https://tiaramackdistrict6.com/es/cuestiones",
-"https://tiaramackdistrict6.com/es/educacion",
-"https://tiaramackdistrict6.com/es/justicia-criminal",
-"https://tiaramackdistrict6.com/es/noticias",
-"https://tiaramackdistrict6.com/es/vivienda",
-"https://turnto10.com/i-team/schools-in-crisis/how-rhode-island-teacher-salaries-compare-and-whos-making-six-figures",
-"https://uri.edu/about/facts",
-"https://vox.com/future-perfect/2018/10/16/17928164/early-childhood-education-doesnt-teach-kids-fund-it",
-"https://wpri.com/news/local-news/providence/aclu-sues-providence-for-english-learner-records"
+{
+"text": "(ELL’s)",
+"href": "https://www.npr.org/sections/ed/2017/02/23/512451228/5-million-english-language-learners-a-vast-pool-of-talent-at-risk"
+},
+{
+"text": "0",
+"href": "https://www.tiaramackdistrict6.com/cart"
+},
+{
+"text": "75%",
+"href": "https://tableau.ride.ri.gov/t/Public/views/GRADRATES/GraduationStory?%3Aembed=y&%3Aiid=1&%3AisGuestRedirectFromVizportal=y"
+},
+{
+"text": "Armas De Fuego",
+"href": "https://www.tiaramackdistrict6.com/es/armas-de-fuego"
+},
+{
+"text": "Back",
+"href": "https://www.tiaramackdistrict6.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.tiaramackdistrict6.com/en/contact"
+},
+{
+"text": "CONTRIBUTE / CONTRIBUIR",
+"href": "https://secure.actblue.com/donate/mack2022"
+},
+{
+"text": "Contribute / Contribuir",
+"href": "https://secure.actblue.com/donate/mack2025"
+},
+{
+"text": "Criminal Justice",
+"href": "https://www.tiaramackdistrict6.com/en/criminal-justice"
+},
+{
+"text": "Educacion",
+"href": "https://www.tiaramackdistrict6.com/es/educacion"
+},
+{
+"text": "Education",
+"href": "https://www.tiaramackdistrict6.com/en/education"
+},
+{
+"text": "Elections",
+"href": "https://www.tiaramackdistrict6.com/en/elections"
+},
+{
+"text": "Folder: About",
+"href": "https://www.tiaramackdistrict6.com/en/about"
+},
+{
+"text": "Folder: Contact",
+"href": "https://www.tiaramackdistrict6.com/en/contact"
+},
+{
+"text": "Folder: Cuestiones",
+"href": "https://www.tiaramackdistrict6.com/es/cuestiones"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.tiaramackdistrict6.com/en/issues"
+},
+{
+"text": "Gun Policy",
+"href": "https://www.tiaramackdistrict6.com/en/gun-policy"
+},
+{
+"text": "Healthcare",
+"href": "https://www.tiaramackdistrict6.com/en/healthcare"
+},
+{
+"text": "Housing",
+"href": "https://www.tiaramackdistrict6.com/en/housing"
+},
+{
+"text": "In the News",
+"href": "https://www.tiaramackdistrict6.com/en/in-the-news"
+},
+{
+"text": "Justicia Criminal",
+"href": "https://www.tiaramackdistrict6.com/es/justicia-criminal"
+},
+{
+"text": "Noticias",
+"href": "https://www.tiaramackdistrict6.com/es/noticias"
+},
+{
+"text": "Reach Out",
+"href": "https://www.tiaramackdistrict6.com/en/reach-out"
+},
+{
+"text": "Social Media",
+"href": "https://www.tiaramackdistrict6.com/en/social-media"
+},
+{
+"text": "TIARAMACKRI@GMAIL.COM",
+"href": "mailto:TIARAMACKRI@GMAIL.COM"
+},
+{
+"text": "Take Action",
+"href": "https://www.tiaramackdistrict6.com/en/take-action"
+},
+{
+"text": "Taxes",
+"href": "https://www.tiaramackdistrict6.com/en/taxes"
+},
+{
+"text": "Tiara Mack, RI Senate District 6",
+"href": "https://www.tiaramackdistrict6.com/"
+},
+{
+"text": "Vivienda",
+"href": "https://www.tiaramackdistrict6.com/es/vivienda"
+},
+{
+"text": "Wages",
+"href": "https://www.tiaramackdistrict6.com/en/wages"
+},
+{
+"text": "What We Believe",
+"href": "https://www.tiaramackdistrict6.com/en/what-we-believe"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.tiaramackdistrict6.com/en/why-im-running"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/mackdistrict6.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MackDistrict6/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mackdistrict6"
+},
+{
+"text": "ability",
+"href": "https://www.wpri.com/news/local-news/providence/aclu-sues-providence-for-english-learner-records/"
+},
+{
+"text": "all",
+"href": "https://www.cultofpedagogy.com/supporting-esl-students-mainstream-classroom/"
+},
+{
+"text": "behavior.",
+"href": "https://ideas.time.com/2012/12/05/does-suspending-students-work/"
+},
+{
+"text": "billion",
+"href": "https://patch.com/rhode-island/newport/gov-raimondo-ceremonially-signs-student-loan-bill-rights"
+},
+{
+"text": "body",
+"href": "http://diverseeducation.com/article/94866/"
+},
+{
+"text": "changes",
+"href": "https://ballotpedia.org/Public_education_in_Rhode_Island"
+},
+{
+"text": "college",
+"href": "https://www.vox.com/future-perfect/2018/10/16/17928164/early-childhood-education-doesnt-teach-kids-fund-it"
+},
+{
+"text": "counterparts",
+"href": "http://publications.unidosus.org/bitstream/handle/123456789/1937/financingstudent_loans_brief_32519.pdf?isAllowed=y&sequence=1"
+},
+{
+"text": "covered",
+"href": "https://www.guttmacher.org/state-policy/explore/sex-and-hiv-education"
+},
+{
+"text": "district",
+"href": "https://www.theatlantic.com/education/archive/2019/10/rhode-island-governor-explains-providence-school-takeover/601003/"
+},
+{
+"text": "ed",
+"href": "https://www.aclu.org/blog/reproductive-freedom/study-finds-comprehensive-sex-education-reduces-teen-pregnancy"
+},
+{
+"text": "education",
+"href": "https://www.privateschoolreview.com/tuition-stats/rhode-island/pre"
+},
+{
+"text": "enough",
+"href": "https://www.uri.edu/about/facts/"
+},
+{
+"text": "graduates",
+"href": "http://neatoday.org/2018/09/06/teacher-pay-gap-reaches-record-high/"
+},
+{
+"text": "graduation",
+"href": "https://www.inquirer.com/education/pennsylvania-black-teacher-diversity-philadelphia-20191120.html"
+},
+{
+"text": "language",
+"href": "http://www.rikidscount.org/Portals/0/Uploads/Documents/Factbook%202018/Individual%20Indicators/Suspensions.pdf"
+},
+{
+"text": "negligible",
+"href": "http://neatoday.org/redfored/#map"
+},
+{
+"text": "olds",
+"href": "https://www.abc6.com/story/40428819/universal-prek-in-rhode-island-a-closer-look"
+},
+{
+"text": "overcrowded",
+"href": "https://soeonline.american.edu/blog/5-ways-policy-makers-can-improve-the-quality-of-education"
+},
+{
+"text": "school",
+"href": "https://www.collegetuitioncompare.com/compare/tables/?degree=Undergraduate&state=RI&type=Public"
+},
+{
+"text": "schools.",
+"href": "https://turnto10.com/i-team/schools-in-crisis/how-rhode-island-teacher-salaries-compare-and-whos-making-six-figures"
+},
+{
+"text": "sex",
+"href": "https://fivethirtyeight.com/features/what-does-science-tell-us-about-sex-ed/"
+},
+{
+"text": "state.",
+"href": "https://www.theatlantic.com/education/archive/2018/01/a-root-cause-of-the-teacher-diversity-problem/551234/"
+},
+{
+"text": "well.",
+"href": "https://www.providencejournal.com/news/20190816/stubborn-disconnect-experts-students-say-providence-schools-need-more-teacher-diversity-to-succeed"
+},
+{
+"text": "years",
+"href": "https://www.providencejournal.com/news/20190116/raimondo-gives-details-on-universal-pre-k-program"
+}
 ]

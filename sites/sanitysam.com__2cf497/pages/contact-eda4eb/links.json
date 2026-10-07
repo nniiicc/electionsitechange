@@ -1,11 +1,42 @@
 [
-"https://go.azsos.gov/5g2r",
-"https://sanitysam.com/",
-"https://sanitysam.com/contact",
-"https://sanitysam.com/events",
-"https://sanitysam.com/join-the-sanity-campaign",
-"https://sanitysam.com/who-is-sam-martin",
-"https://sanitysam.com/why-sam-martin",
-"https://secure.actblue.com/donate/samuel-martin-1",
-"https://wp-royal-themes.com/"
+{
+"text": "Events",
+"href": "https://sanitysam.com/events/"
+},
+{
+"text": "Join The Sanity Campaign",
+"href": "https://sanitysam.com/join-the-sanity-campaign/"
+},
+{
+"text": "Sam for AZ House of Representatives",
+"href": "https://sanitysam.com/"
+},
+{
+"text": "Support the Campaign",
+"href": "https://sanitysam.com/contact/"
+},
+{
+"text": "WP Royal",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "Who is Sam Martin?",
+"href": "https://sanitysam.com/who-is-sam-martin/"
+},
+{
+"text": "Why Sam Martin?",
+"href": "https://sanitysam.com/why-sam-martin/"
+},
+{
+"text": "[no text]",
+"href": "https://wp-royal-themes.com/"
+},
+{
+"text": "https://go.azsos.gov/5g2r",
+"href": "https://go.azsos.gov/5g2r"
+},
+{
+"text": "https://secure.actblue.com/donate/samuel-martin-1",
+"href": "https://secure.actblue.com/donate/samuel-martin-1"
+}
 ]

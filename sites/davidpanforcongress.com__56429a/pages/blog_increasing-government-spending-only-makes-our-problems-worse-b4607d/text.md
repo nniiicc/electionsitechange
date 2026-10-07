@@ -1,6 +1,4 @@
-Increasing government spending only makes our problems worse
-A new vision for the future
-The typical politician’s playbook for elections consists in paying off certain groups of voters with proposals such as: no tax on tips, tax deductions for down payments on a home, new child tax credits, and student loan forgiveness.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate Increasing government spending only makes our problems worse Sep 16 Written By Guest User A new vision for the future The typical politician’s playbook for elections consists in paying off certain groups of voters with proposals such as: no tax on tips, tax deductions for down payments on a home, new child tax credits, and student loan forgiveness.
 All of these proposals have three things in common that speak against them.
 First, they each favor a specific group of people – restaurant workers, new home buyers, new parents, college graduates – with a giveaway that will have to be paid for by everyone else.
 For instance, the down payment tax deduction will increase demand for homes without increasing supply and thereby push overall home prices even higher.
@@ -22,3 +20,9 @@ Please help to get the word out by forwarding this message to friends, family, a
 You can also meet me at my upcoming fundraiser in Santa Ana at 5-7 pm on September 25.
 RSVP at info@davidpanforcongress.com for more information.
 Together, we can save our country from useless government spending and return this money to the people.
+Guest User Previous Previous Meet and Greet Event with David Pan Next Next Helping our immigrants by creating opportunities Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

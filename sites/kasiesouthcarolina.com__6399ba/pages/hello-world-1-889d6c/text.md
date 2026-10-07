@@ -1,13 +1,11 @@
-When I first joined the South Carolina Libertarian Party (SCLP) in 2012, I was introduced to the non-aggression principle:
-Don’t hurt people.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now Violence is not a Game When I first joined the South Carolina Libertarian Party (SCLP) in 2012, I was introduced to the non-aggression principle: Don’t hurt people.
 Don’t take their stuff.
 This is the core tenet of libertarian philosophy.
 It’s the easiest way to evaluate potential government action – does the action hurt people? does it take their stuff?
 If the answer to either question is “yes,” then the government ought not to be doing it.
 Last week was a trial for the non-aggression principle.
 We started the week with ICE raids and the deployment of the National Guard at the behest of the President.
-We ended the week with Israel bombing Iran and one of our South Carolina Senators posting “game on.”
-Use of military force for any purpose is not a game.
+We ended the week with Israel bombing Iran and one of our South Carolina Senators posting “game on.” Use of military force for any purpose is not a game.
 How should we coexist in our country?
 How should we coexist in the world?
 What, really, is the role of Congress, specifically the Senate, in determining the answers to those questions?
@@ -61,3 +59,6 @@ We must prioritize oversight, correct systemic failures that lead to desperation
 Ready to get in the game?
 We could use your help.
 Click here to sign up.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

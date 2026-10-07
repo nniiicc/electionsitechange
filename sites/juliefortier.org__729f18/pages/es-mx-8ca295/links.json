@@ -1,14 +1,82 @@
 [
-"http://instagram.com/",
-"https://facebook.com/",
-"https://juliefortier.org/",
-"https://juliefortier.org/es-mx",
-"https://juliefortier.org/es-mx/about",
-"https://juliefortier.org/es-mx/get-involved",
-"https://juliefortier.org/es-mx/issues",
-"https://rayguncustom.com/collections/julie-fortier-for-congress",
-"https://secure.actblue.com/donate/julie-fortier-1",
-"https://tiktok.com/@",
-"https://twitter.com/",
-"https://youtube.com/"
+{
+"text": "Acerca de Julie",
+"href": "https://www.juliefortier.org/es-mx/about"
+},
+{
+"text": "Almacenar",
+"href": "https://www.rayguncustom.com/collections/julie-fortier-for-congress"
+},
+{
+"text": "Complicarse",
+"href": "https://www.juliefortier.org/es-mx/get-involved"
+},
+{
+"text": "Conoce las prioridades de Julie",
+"href": "https://www.juliefortier.org/es-mx/issues"
+},
+{
+"text": "Dona ahora",
+"href": "https://secure.actblue.com/donate/julie-fortier-1"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/julie-fortier-1"
+},
+{
+"text": "Hogar",
+"href": "https://www.juliefortier.org/es-mx"
+},
+{
+"text": "Inscripción de voluntarios",
+"href": "https://www.juliefortier.org/es-mx/get-involved#volunteer-form"
+},
+{
+"text": "Les presentamos a Julie Fortier",
+"href": "https://www.juliefortier.org/es-mx/about"
+},
+{
+"text": "Prioridades",
+"href": "https://www.juliefortier.org/es-mx/issues"
+},
+{
+"text": "Próximos eventos",
+"href": "https://www.juliefortier.org/es-mx/get-involved#upcoming-events"
+},
+{
+"text": "[image: English] English en",
+"href": "https://www.juliefortier.org/"
+},
+{
+"text": "[image: Español] Español es",
+"href": "https://www.juliefortier.org/es-mx"
+},
+{
+"text": "[image: Julie Fortier for Congress]",
+"href": "https://www.juliefortier.org/es-mx"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:"
+}
 ]

@@ -1,3 +1,4 @@
-Shadow Mountain HOA Meeting Shadow Mountain HOA Meeting Event, Speech thierry2022-10-11T09:18:53-05:00 October 5, 2022
-Speech at Tulsa GOP Meet & Greet Speech at Tulsa GOP Meet & Greet Speech hassinkok2022-06-06T10:09:27-05:00 May 4, 2022
-Speech at “Easter with the Officers” Hispanic community event Speech at “Easter with the Officers” Hispanic community event Speech hassinkok2022-05-16T09:17:21-05:00 April 9, 2022
+Skip to content Save Oklahoma Students (SOS) “ThatIsNotOK” Issues Meet Paul Endorsements News Resources Contact DONATE DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact DONATE MENU Save Oklahoma Students (SOS) “ThatIsNotOK” DONATE Issues Meet Paul Endorsements News Resource Links Contact Speech Shadow Mountain HOA Meeting Shadow Mountain HOA Meeting Event , Speech thierry 2022-10-11T09:18:53-05:00 October 5, 2022 Speech at Tulsa GOP Meet & Greet Speech at Tulsa GOP Meet & Greet Speech hassinkok 2022-06-06T10:09:27-05:00 May 4, 2022 Speech at “Easter with the Officers” Hispanic community event Speech at “Easter with the Officers” Hispanic community event Speech hassinkok 2022-05-16T09:17:21-05:00 April 9, 2022 Follow Us!
+Links Toggle Navigation Home Press Privacy Policy Contact Us Paul Hassink for Oklahoma Representative – District 79 Contact me via email 918-321-0807 5867 S.
+Joplin Ave.
+Tulsa, OK 74135 © Copyright # | Authorized and paid for by Hassink 2024 | All rights reserved Page load link Go to Top

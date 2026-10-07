@@ -1,16 +1,66 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSejV4qADmr8LkAy6F10KON1pwEROT7Yeg7MBSJEle3re20ZXQ/viewform",
-"https://facebook.com/Ramos4rep",
-"https://facebook.com/profile.php?id=100081077073923",
-"https://instagram.com/AdrianneRamos4rep",
-"https://instagram.com/adrianneramos4rep",
-"https://sec.state.ma.us/wheredoivotema/bal/myelectioninfo.aspx",
-"https://twitter.com/ramos4rep",
-"https://vote4ramos.com/",
-"https://vote4ramos.com/adrianne-s-priorities",
-"https://vote4ramos.com/donate",
-"https://vote4ramos.com/home-1",
-"https://vote4ramos.com/meet-adrianne",
-"https://vote4ramos.com/news",
-"https://vote4ramos.com/volunteer"
+{
+"text": "Adrianne's Priorities",
+"href": "https://www.vote4ramos.com/adrianne-s-priorities"
+},
+{
+"text": "Donate",
+"href": "https://www.vote4ramos.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vote4ramos.com/news"
+},
+{
+"text": "HERE",
+"href": "https://www.vote4ramos.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.vote4ramos.com"
+},
+{
+"text": "Meet Adrianne",
+"href": "https://www.vote4ramos.com/meet-adrianne"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSejV4qADmr8LkAy6F10KON1pwEROT7Yeg7MBSJEle3re20ZXQ/viewform"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vote4ramos.com/volunteer"
+},
+{
+"text": "[image: APRTempBanner.JPG]",
+"href": "https://www.vote4ramos.com/home-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Ramos4rep"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100081077073923"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/AdrianneRamos4rep"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/adrianneramos4rep/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ramos4rep"
+},
+{
+"text": "precinct or find your voting location",
+"href": "https://www.sec.state.ma.us/wheredoivotema/bal/myelectioninfo.aspx"
+},
+{
+"text": "ramos4rep@gmail.com",
+"href": "mailto:ramos4rep@gmail.com"
+}
 ]

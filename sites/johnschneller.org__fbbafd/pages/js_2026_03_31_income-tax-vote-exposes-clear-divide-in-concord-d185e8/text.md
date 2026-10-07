@@ -1,4 +1,4 @@
-On March 5, New Hampshire Republicans brought forward a constitutional amendment that would have permanently banned a state income tax.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Income Tax Vote Exposes Clear Divide in Concord Mar 31, 2026 On March 5, New Hampshire Republicans brought forward a constitutional amendment that would have permanently banned a state income tax.
 While we may disagree on many issues, both big and small, no greater distinction exists between the representatives you send to Concord.
 None.
 A vote on whether New Hampshire should impose a state income tax on you is all the clarity you should require.
@@ -23,8 +23,10 @@ In Bedford, we just voted to reject the school budget and send it back for retoo
 Some viewed that vote as catastrophic.
 Others saw it as prudent restraint and a call for innovation.
 Passing a constitutional amendment to prevent a state income tax would, at minimum, keep more tax decisions in our local hands for an open debate, as we just experienced.
-I believe taxpayers across the Granite State should simply ask themselves: “Should I vote for someone who supports a new and permanent tax that is indefinitely large, for an indefinite amount of time?”
-I will not, under any circumstances, vote for such a tax in the state of New Hampshire.
+I believe taxpayers across the Granite State should simply ask themselves: “Should I vote for someone who supports a new and permanent tax that is indefinitely large, for an indefinite amount of time?” I will not, under any circumstances, vote for such a tax in the state of New Hampshire.
 I signed a pledge to that effect.
 As long as Bedford voters send me to Concord to represent Bedford taxpayers, I vow, with absolute certitude, to keep that promise.
 Has your representative made the same promise?
+SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

@@ -1,9 +1,9 @@
 {
  "description": "Explore healthcare equality in Georgia. Discover critical health statistics and advocate for affordable healthcare access for all Georgians.",
  "final_url": "https://danielleforgeorgia.com/healthcare-equality-1",
- "paid_for_by": null,
+ "fingerprint": "b495b0d01b409a1b4ec9387a12dc3fb284d1d53c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Healthcare Equality",
- "years_mentioned": [
-  "2024"
- ]
+ "years_mentioned": []
 }

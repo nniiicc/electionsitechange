@@ -1,5 +1,5 @@
-Meet Vincent Mendes III
-Discover Vincent Mendes’s vision for Georgia’s future, key campaign priorities, and how you can get involved to make a difference in District 13.
+Skip to content Vincent Mendes for GAHD13 Home About Donate Facebook Championing Georgia’s Future with Vincent Mendes Discover Vincent Mendes’s vision for Georgia State House District 13, highlighting his commitment to progressive values, community-driven policies, and why your support is crucial for meaningful change.
+Learn More Meet Vincent Mendes III Discover Vincent Mendes’s vision for Georgia’s future, key campaign priorities, and how you can get involved to make a difference in District 13.
 After 19 years with the same incumbent, I believe it’s time for leadership that is rooted right here at home.
 The needs of our families, small businesses, and neighborhoods should be the focus… not just decisions made in Atlanta.
 I don’t claim to have every answer.
@@ -11,9 +11,7 @@ But it’s worth it.
 This district deserves a voice that shows up, works hard, and stays connected to the people it serves.
 Early voting begins April 27, with the Primary Election date of May 19.
 I would appreciate your vote!
-Why I’m Running
-Building a Better Georgia
-I’ve spent my career here in this community as a chiropractor, working with families, listening to their concerns, and helping people get back on their feet.
+Why I’m Running Building a Better Georgia I’ve spent my career here in this community as a chiropractor, working with families, listening to their concerns, and helping people get back on their feet.
 That work has taught me something important: listening is the beginning of solving problems.
 Before you can help someone, you have to understand what they’re facing.
 You have to ask questions, pay attention, and care enough to follow through.
@@ -40,6 +38,8 @@ I believe clean water, affordable utilities, and responsible decision-making are
 They are community issues.
 At the end of the day, this campaign is about something simple: serving the people, protecting our community, and making sure our voice is heard in Atlanta.
 Our district deserves leadership that is honest, accountable, and focused on the people who live here.
-Vincent Mendes III: Championing Georgia’s Future
-Join us in shaping a stronger community.
+Vincent Mendes III: Championing Georgia’s Future Join us in shaping a stronger community.
 Discover Vincent’s platform, stay informed on election updates, and find out how you can support our journey toward progress.
+Donate Now Vincent Mendes for GAHD13 © # Mendes4GA Donate Facebook English English Deutsch Español Français Italiano Polski Svenska Suomi Português Română Slovenščina Slovenčina Nederlands Dansk Ελληνικά Čeština Magyar Lietuvių Latviešu Eesti Hrvatski Gaeilge Български Norsk Türkçe Bahasa Indonesia Português (Brasil) 日本語 한국어 简体中文 العربية Русский हिन्दी Українська Srpski English (UK) فارسی עברית Македонски ไทย Tiếng Việt Accessibility Adjustments Powered by OneTap Hide Toolbar Back How long do you want to hide the toolbar?
+Hide Toolbar Duration Only for this session 24 hours A Week Not Now Hide Toolbar Select your accessibility profile Vision Impaired Mode Enhances website's visuals Vision Impaired Mode Seizure Safe Profile Clear flashes & reduces color Seizure Safe Profile ADHD Friendly Mode Focused browsing, distraction-free ADHD Friendly Mode Blindness Mode Reduces distractions, improves focus Blindness Mode Epilepsy Safe Mode Dims colors and stops blinking Epilepsy Safe Mode Content Modules Font Size + Default - Readable Font Line Height + Default - Cursor Letter Spacing Align Text Font Weight Color Modules Light Contrast High Contrast Monochrome Orientation Modules Reading Line Reading Mask Hide Images Highlight Content Stop Animations Highlight Links Skip To Content Choose...
+Main Content Navigation Footer Reset Settings

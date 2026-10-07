@@ -1,7 +1,22 @@
 [
-"https://cashmanforassembly.com/",
-"https://facebook.com/CashmanForAssembly",
-"https://instagram.com/mscashman",
-"https://secure.actblue.com/donate/cashmanforassembly",
-"https://x.com/MichaelSCashman"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cashmanforassembly"
+},
+{
+"text": "[image: Michael Cashman for State Assembly]",
+"href": "https://cashmanforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CashmanForAssembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mscashman/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MichaelSCashman"
+}
 ]

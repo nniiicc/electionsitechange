@@ -1,7 +1,54 @@
 [
-"https://nachmancallerforny.com/",
-"https://nachmancallerforny.com/district-22",
-"https://nachmancallerforny.com/policies",
-"https://psl2.vote.nyc/",
-"https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+},
+{
+"text": "ABOUT",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "CONTACT ME",
+"href": "mailto:info@nachmancallerforny.com"
+},
+{
+"text": "DISTRICT 22",
+"href": "https://www.nachmancallerforny.com/district-22"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.nachmancallerforny.com"
+},
+{
+"text": "I WANT TO DONATE!",
+"href": "https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+},
+{
+"text": "POLICIES",
+"href": "https://www.nachmancallerforny.com/policies"
+},
+{
+"text": "SENATE DISTRICT 22",
+"href": "https://www.nachmancallerforny.com/district-22"
+},
+{
+"text": "WHERE TO VOTE",
+"href": "https://psl2.vote.nyc/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/carl-caller-for-nys-senate/donate"
+},
+{
+"text": "info@nachmancallerforny.com",
+"href": "mailto:info@nachmancallerforny.com"
+}
 ]

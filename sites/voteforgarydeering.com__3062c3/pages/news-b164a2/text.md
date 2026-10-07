@@ -1,9 +1,2 @@
-09
-Mar
-Gary Deering Final Press Release for District 29 House
-Gary Deering, Chairman of the Meade County Board of Commissioners, has announced his candidacy for the District 29 seat in the South Dakota House of
-Skip to content
-09
-Mar
-Gary Deering Final Press Release for District 29 House
-Gary Deering, Chairman of the Meade County Board of Commissioners, has announced his candidacy for the District 29 seat in the South Dakota House of
+Skip to content Home About Contact Donate News News Home Blog 09 Mar By homeslice Press Release Gary Deering Final Press Release for District 29 House Gary Deering, Chairman of the Meade County Board of Commissioners, has announced his candidacy for the District 29 seat in the South Dakota House of Read More Search Search Recent Posts Gary Deering Final Press Release for District 29 House Recent Comments No comments to show.
+Recent Posts Gary Deering Final Press Release for District 29 House Mar 9,2026 Categories Press Release Tags answer Celebration marketing office present Donate Today © Gary Deering #

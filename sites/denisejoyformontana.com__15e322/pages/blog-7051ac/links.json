@@ -1,8 +1,26 @@
 [
-"https://denisejoyformontana.com/",
-"https://denisejoyformontana.com/about",
-"https://denisejoyformontana.com/blog",
-"https://denisejoyformontana.com/contact",
-"https://denisejoyformontana.com/help-get-denise-elected",
-"https://secure.actblue.com/donate/denise-joy-1"
+{
+"text": "About Denise",
+"href": "https://denisejoyformontana.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://denisejoyformontana.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/denise-joy-1"
+},
+{
+"text": "Help Get Denise Elected",
+"href": "https://denisejoyformontana.com/help-get-denise-elected/"
+},
+{
+"text": "Home",
+"href": "https://denisejoyformontana.com/"
+},
+{
+"text": "Values & Issues",
+"href": "https://denisejoyformontana.com/blog/"
+}
 ]

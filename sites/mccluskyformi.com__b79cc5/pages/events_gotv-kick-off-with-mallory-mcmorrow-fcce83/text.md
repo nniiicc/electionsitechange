@@ -1,12 +1,4 @@
-Back to All Events
-Early voting starts today in person and it is time to Get Out The Vote!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events GOTV Kick Off with Mallory McMorrow Saturday, October 24, 2026 10:00 AM 2:00 PM Google Calendar ICS Early voting starts today in person and it is time to Get Out The Vote!
 Join us on the doors this Saturday with special guest Mallory McMorrow.
 Every vote counts and we need you to help us get across the finish line.
-Training and a walking buddy can be provided!
-Previous
-Previous
-October 17
-Door Knocking with Joseph McClusky
-Next
-Next
-October 31
+Training and a walking buddy can be provided! https://www.mobilize.us/mccluskyformi/event/1051803/ Previous Previous October 17 Door Knocking with Joseph McClusky Next Next October 31 Halloween Canvassing with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

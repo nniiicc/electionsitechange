@@ -1,4 +1,4 @@
-| By the Essex House Delegation Vermonters are right to be alarmed by rising property taxes.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources Education and Health Care: Vermont Must Do Both 2/4/2026 0 Comments By the Essex House Delegation Vermonters are right to be alarmed by rising property taxes.
 Families feel it.
 Municipalities feel it.
 And legislators feel it.
@@ -14,6 +14,10 @@ Local school boards do not negotiate statewide health care contracts, and neithe
 Health care costs are a major driver of education spending, and the state must take responsibility for addressing them.
 Let’s be clear: health care costs are high in Vermont because prices are high.
 The legislature has taken significant action to bring down these prices.
+Last year, we capped outpatient drug prices at 120% of the average sales price, resulting in an immediate $200 million reduction in health care spending.
+We directed the Green Mountain Care Board to set caps on hospital prices for the upcoming hospital fiscal year as a means of bringing down overall health care costs.
+We tasked the Agency of Human Services with developing a statewide strategic health care plan to ensure every Vermont community has access to essential services, while concentrating other services in the settings that can deliver them most efficiently, at the lowest cost, and with the highest quality.
+But we are not done, there is much to do, and we will spend this upcoming session ensuring that everything we do in healthcare addresses affordability first and foremost.
 At the same time, Vermont’s education system was built for a very different state than the one we live in today.
 Enrollment is declining statewide, while student needs are growing.
 Simply counting students does not tell the full story.
@@ -37,15 +41,13 @@ Implementation matters.
 The Legislature has a responsibility to ensure Act 73 is carried out with evidence, transparency, and respect for communities, and without disrupting districts that are already operating responsibly.
 Education reform should scale best practices statewide, not penalize those who adopted them early.
 We are grateful to EWSD and local school boards across the state for leading with transparency, responsibility, and courage in extraordinarily difficult circumstances.
-As legislators, our task is to match that leadership: to confront rising health care costs, modernize education governance, and protect both educational quality and affordability.
-In the coming weeks and months, your Essex House Delegation is committed to sharing the work and progress of our House Education Committee as they continue the work to determine how Act 73 should be implemented in Vermont.
+As legislators, our task is to match that leadership: to confront rising health care costs, modernize education governance, and protect both educational quality and affordability. ​ In the coming weeks and months, your Essex House Delegation is committed to sharing the work and progress of our House Education Committee as they continue the work to determine how Act 73 should be implemented in Vermont.
 We look forward to robust dialogue with our community and welcome folks reaching out at any time.
 Essex House Delegation Rep.
 Karen Dolan, Chittenden 22 - [email protected] Rep.
 Lori Houghton, Chittenden 22 - [email protected] Rep.
 Leonora Dodge, Chittenden 23 - [email protected] Rep.
 Rey Garofano, Chittenden 23 - [email protected] Rep.
-Alyssa Black, Chittenden 24 - [email protected] Last year, we capped outpatient drug prices at 120% of the average sales price, resulting in an immediate $200 million reduction in health care spending.
-We directed the Green Mountain Care Board to set caps on hospital prices for the upcoming hospital fiscal year as a means of bringing down overall health care costs.
-We tasked the Agency of Human Services with developing a statewide strategic health care plan to ensure every Vermont community has access to essential services, while concentrating other services in the settings that can deliver them most efficiently, at the lowest cost, and with the highest quality.
-But we are not done, there is much to do, and we will spend this upcoming session ensuring that everything we do in healthcare addresses affordability first and foremost. |
+Alyssa Black, Chittenden 24 - [email protected] ​ 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

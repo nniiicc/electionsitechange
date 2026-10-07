@@ -1,12 +1,11 @@
-Green is running in a packed GOP Primary field.
+Home Meet Dan Endorsements News Volunteer Donate Skip to content Dan Green debuts ‘Conservative Warrior’ ad, touts $1.14M haul in CD 9 July 8, 2026 | by Peter Schorsch on Florida Politics Green is running in a packed GOP Primary field.
 Dan Green, the war veteran and former Donald Trump appointee running in Florida’s 9th Congressional District, is putting his military biography front and center in his first television ad.
-The spot, titled “Conservative Warrior,” is now airing across the district.
+The spot, titled “ Conservative Warrior ,” is now airing across the district.
 “President Trump needs proven fighters, like conservative warrior Dan Green,” the ad’s narrator says.
 “He witnessed the devastation of 9/11 firsthand, then he took the fight to America’s enemies.
 Five tours in Iraq and Afghanistan.
 Appointed by President Trump to the Department of War.
-Now, Dan Green’s running for Congress to secure our border, lower costs, and to always put America first.”
-Green’s campaign launched the ad after announcing a $1.14 million fundraising haul over two weeks, driven by Green’s strong self-funding push.
+Now, Dan Green’s running for Congress to secure our border, lower costs, and to always put America first.” Green’s campaign launched the ad after announcing a $1.14 million fundraising haul over two weeks, driven by Green’s strong self-funding push.
 Green has also earned a slate of endorsements from conservative officials and veterans.
 Backers include Osceola County Sheriff Chris Blackmon, Brevard County Sheriff Wayne Ivey, state Sen.
 Danny Burgess and state Reps.
@@ -20,4 +19,8 @@ Rep.
 Darren Soto across Osceola County and South Orlando, was redrawn this Spring under the new congressional map Gov.
 Ron DeSantis signed in May — a map projected to yield a 24-4 GOP edge statewide.
 Soto is running for re-election anyway, but the redistricting turned a reliably Democratic district into a genuine opportunity for Republicans and drew a Primary field that now runs at least eight candidates deep.
-The Primary is Aug. 18.
+The Primary is Aug.
+18.
+Home Meet Dan Endorsements News Volunteer Donate Media Paid for by Dan Green for Congress Dan Green is a member of the U.S.
+Navy Reserves.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of War.

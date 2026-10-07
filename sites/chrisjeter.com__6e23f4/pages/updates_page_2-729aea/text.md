@@ -1,36 +1,29 @@
-News
-Republican House Speaker Huston Retains Seat in Fishers, Other Suburban Races Remain Close
-Republican Indiana House Speaker Todd Huston retained his District 37 seat representing the Fishers area on Tuesday night, beating Democratic rival Aimee Rivera Cole.
-Huston had 58% of the vote compared with Cole's 42%.
-"(It was) honestly a tough race, and (I'm)...
-Walmart completes plans for Hancock County facility
-HANCOCK COUNTY — Walmart announced Thursday that it has finalized plans to establish its largest e-commerce fulfillment center in the United States near Mt.
+Home Bio Updates Connect Donate Select Page News Republican House Speaker Huston Retains Seat in Fishers, Other Suburban Races Remain Close Nov 4, 2020 | Uncategorized Republican Indiana House Speaker Todd Huston retained his District 37 seat representing the Fishers area on Tuesday night, beating Democratic rival Aimee Rivera Cole.
+Huston had 58% of the vote compared with Cole's 42%. "(It was) honestly a tough race, and (I'm)...
+Walmart completes plans for Hancock County facility Sep 30, 2020 | Uncategorized HANCOCK COUNTY — Walmart announced Thursday that it has finalized plans to establish its largest e-commerce fulfillment center in the United States near Mt.
 Comfort.
 The company, which has been reported to be behind considerations for the project for months, plans to...
-Indiana to be home to Walmart’s largest U.S. facility
-(The Center Square) – Up to 1,000 new jobs are expected to come to Central Indiana after Walmart announced plans to establish its largest fulfillment center in the United States in Hancock County.
+Indiana to be home to Walmart’s largest U.S. facility Sep 30, 2020 | Uncategorized (The Center Square) – Up to 1,000 new jobs are expected to come to Central Indiana after Walmart announced plans to establish its largest fulfillment center in the United States in Hancock County.
 The 2.2 million square feet facility should employ 1,000 people by the...
-Jeter sworn in to fill Bosma’s seat in state House
-INDIANAPOLIS — Fishers resident Chris Jeter took the oath of office Wednesday to serve out the remainder of the term of former state House Speaker Brian Bosma, who recently retired from the legislature after 34 years.
+Jeter sworn in to fill Bosma’s seat in state House Aug 31, 2020 | Uncategorized INDIANAPOLIS — Fishers resident Chris Jeter took the oath of office Wednesday to serve out the remainder of the term of former state House Speaker Brian Bosma, who recently retired from the legislature after 34 years.
 Jeter is also the Republican nominee for the seat...
-Attorney Chris Jeter Becomes Indiana’s Newest State Lawmaker
-Fishers attorney Chris Jeter is the newest member of the Indiana House of Representatives.
+Attorney Chris Jeter Becomes Indiana’s Newest State Lawmaker Aug 21, 2020 | Uncategorized Fishers attorney Chris Jeter is the newest member of the Indiana House of Representatives.
 Jeter was voted in by a private Republican caucus to fill out the last few months of former House Speaker Brian Bosma’s term.
 Bosma formally stepped down at the end of...
-Republicans approve Jeter for remainder of Bosma’s term
-Republicans OK Jeter to fill Bosma’s term McCORDSVILLE — Republican precinct committeemen voted unanimously Wednesday night in favor of Chris Jeter filling the remainder of former Indiana House Speaker Brian Bosma’s term.
+Republicans approve Jeter for remainder of Bosma’s term Aug 21, 2020 | Uncategorized Republicans OK Jeter to fill Bosma’s term McCORDSVILLE — Republican precinct committeemen voted unanimously Wednesday night in favor of Chris Jeter filling the remainder of former Indiana House Speaker Brian Bosma’s term.
 Jeter, a Fishers attorney, was the only...
-Indiana GOP Chairman Congratulates Chris Jeter On Election As Indiana’s Newest State Representative
-(INDIANAPOLIS) – Indiana Republican Party Chairman Kyle Hupfer issued this statement following the selection of Chris Jeter to fill the vacancy created by former Speaker Brian Bosma.
+Indiana GOP Chairman Congratulates Chris Jeter On Election As Indiana’s Newest State Representative Aug 20, 2020 | Uncategorized (INDIANAPOLIS) – Indiana Republican Party Chairman Kyle Hupfer issued this statement following the selection of Chris Jeter to fill the vacancy created by former Speaker Brian Bosma.
 “Congratulations Chris Jeter on your caucus win.
 To say former Speaker Bosma has big...
-Chris Jeter expected to be named to Indiana House on Wednesday
-Indiana House Republicans will formally name the successor to Speaker Brian Bosma on Wednesday.
+Chris Jeter expected to be named to Indiana House on Wednesday Aug 19, 2020 | Uncategorized Indiana House Republicans will formally name the successor to Speaker Brian Bosma on Wednesday.
 Fishers attorney Chris Jeter won the GOP primary for Bosma’s district seat and is unopposed to serve the three remaining months until election day.
 Voters will choose...
-AP: Baldwin, Jeter win contested GOP primaries for Indiana General Assembly
-https://www.indystar.com/story/news/politics/elections/2020/06/02/indiana-primary-2020-general-assembly-election-results/5307744002/ Unofficial election results are providing a glimpse into which Republicans could run in November to fill the seats left open...
-House candidate feels called to serve again
-From the Daily Reporter (See the original article here) By Jessica Karins - 5/22/20 9:37 PM Chris Jeter HANCOCK COUNTY — Chris Jeter said he first felt the call to serve his country when he joined the U.S.
-Navy after Sept. 11, 2001.
-Now, he...
+AP: Baldwin, Jeter win contested GOP primaries for Indiana General Assembly Jul 7, 2020 | Uncategorized https://www.indystar.com/story/news/politics/elections/2020/06/02/indiana-primary-2020-general-assembly-election-results/5307744002/ Unofficial election results are providing a glimpse into which Republicans could run in November to fill the seats left open...
+House candidate feels called to serve again May 25, 2020 | Uncategorized From the Daily Reporter (See the original article here) By Jessica Karins - 5/22/20 9:37 PM Chris Jeter HANCOCK COUNTY — Chris Jeter said he first felt the call to serve his country when he joined the U.S.
+Navy after Sept.
+11, 2001.
+Now, he... « Older Entries Next Entries » Join Team Jeter Get campaign updates from Chris by email and text.
+It takes 30 seconds to add your name to the team.
+Count Me In Maybe later Open House with Chris Jeter on Tuesday, September 29th.
+RSVP and learn more Dismiss Home Bio Updates Connect Donate Privacy Policy Terms and Conditions Jeter for Indiana | 27 South Main Street, Fortville, IN 46040 Paid for and authorized by Jeter for Indiana. © # Jeter for Indiana.
+All rights reserved.

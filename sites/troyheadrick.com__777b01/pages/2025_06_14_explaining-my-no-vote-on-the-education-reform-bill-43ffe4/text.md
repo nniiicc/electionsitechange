@@ -1,6 +1,5 @@
-Explaining my NO vote on the education reform bill.
-Friends and Neighbors,
-I want to alert you to the fact that I am likely to vote NO on H.454, the education governance and finance bill heading to the floor on Monday.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Legislative Updates / Explaining my NO vote on the education reform bill.
+June 14, 2025 Friends and Neighbors, I want to alert you to the fact that I am likely to vote NO on H.454, the education governance and finance bill heading to the floor on Monday.
 I want to provide as much advance notice as I can in case anyone might want to engage with my intentions.
 The bill is already being marketed as a major investment in Vermont’s education system.
 But I urge us all to look past the headlines.
@@ -8,7 +7,7 @@ The truth is, this is a Trojan Horse being framed as a gift to public education 
 I’ll do my best to summarize my concerns after my initial read of the bill that was voted out of the conference committee on Friday afternoon.
 Speaking honestly, I’m still doing a lot of rereading to make sure I’ve got a clear understanding of the final product.
 Public dollars are being funneled toward private institutions without appropriate guardrails.
-Independent high schools will now be allowed to charge up to 5% above base tuition even if they don’t meet the same Education Quality Standards that public schools must meet.
+Independent high schools will now be allowed to charge up to #% above base tuition even if they don’t meet the same Education Quality Standards that public schools must meet.
 There are no real protections in place to prevent school closures or rapid conversions to “choice” models, leaving public districts exposed to sudden disruption with no meaningful public process.
 These protections had been in place and were removed late in the process.
 A study is funded to revisit the weights and cost factors which have enormous consequences for districts like ours, but the results are non-binding.
@@ -28,4 +27,5 @@ I ran to protect and strengthen public education and our public school faculty a
 If you have thoughts, questions, or concerns, please reach out.
 I do want to hear from you before we vote on Monday.
 I have a lot on my plate for the weekend, but I will do my best to check email as often as I can before heading to Montpelier on Monday.
-— Troy Headrick
+TroyHeadrickVT@gmail.com — Troy Headrick < Vermont’s Contract with ICE: When Collaboration Is Met With Executive Obstruction > My Open Letter to the Speaker of the House Regarding the Vote Procedures on H.
+454 Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

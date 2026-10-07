@@ -1,5 +1,4 @@
-Issues
-I am running to be a Representative, not of a party but of the district, of the people, of Ohio.
+0 Skip to Content Home About Events Endorsements Issues Press Releases Volunteer Donate Open Menu Close Menu Home About Events Endorsements Issues Press Releases Volunteer Donate Open Menu Close Menu Home About Events Endorsements Issues Press Releases Volunteer Donate Issues I am running to be a Representative, not of a party but of the district, of the people, of Ohio.
 My goal and my drive as a public servant and citizen is to solve problems, deliver results, and carry forward the American experiment.
 I'm independent not simply because I don't belong to the Democratic or Republican parties, but because independence lets me think outside the party box.
 Party line, purity tests, loyalty tests; these are the measure of Democratic and Republican candidates, not of statesmen.
@@ -8,8 +7,7 @@ A commitment to country and people over party.
 A willingness to compromise, to give a little to get a little.
 That is how you govern.
 I will go to Congress to govern, not to play politics.
-My promise:
-I will support and defend the Constitution of the United States.
+My promise: I will support and defend the Constitution of the United States.
 I will represent the people and interests of the Ohio 4th Congressional District, my fellow citizens, friends, family, neighbor, and of the United States.
 I will listen, I will learn, I will offer my own judgment and carry forward that of my constituents.
 I will fight for what I believe is right, compromise when appropriate, hold firm when necessary.
@@ -18,8 +16,7 @@ I will be clear about what I'm doing and why.
 I will explain my reasoning.
 I will tell the truth, especially when no one wants to hear it.
 I will do my best.
-The Fulcrum
-Right now Congress is controlled by just a few vote majority and divided along sharply partisan lines, with no one in either party willing to cross the aisle.
+The Fulcrum Right now Congress is controlled by just a few vote majority and divided along sharply partisan lines, with no one in either party willing to cross the aisle.
 That’s resulted in a broken Congress, gridlock, and dysfunction.
 But it creates an unprecedented opportunity for an Independent Candidate.
 More credible, centrist Independent candidates are running for Congress than ever in recent memory because people are fed up with politics as usual and fed up with corrupt, unaccountable political parties.
@@ -36,8 +33,7 @@ We will make Congress reclaim its Constitutional Powers and Responsibility to wr
 This is the power an Independent who is willing and committed to work for the good of the country can have.
 I won’t be just a backbench freshman Representative told to sit down and vote with the party.
 I will fight to bring this country together, to solve problems, and to represent the people of Ohio and the 4th District.
-Immigration Reform
-Immigration is a crisis the parties have chosen.
+Immigration Reform Immigration is a crisis the parties have chosen.
 It’s a problem the people can choose to solve.
 As a swing vote in Congress, this is exactly the problem I would solve by forcing real legislation to be passed.
 America is the greatest country in the world, the land of liberty and opportunity, and people will always want to come here.
@@ -59,8 +55,7 @@ That removes violent criminals from our country.
 Countless administrations, countless Congresses, have failed or refused to solve immigration in America.
 Because of politics, because they’ve always put party first, and it mattered more to campaign than to look out for the interests of the people.
 In Springfield, we lived what happens when Washington takes a hands off approach to immigration with no funding, no planning, no communication with the community that has to handle it.
-And we lived what happens when a
-national party turns your town into a campaign prop for a debate that was never about us, never about supporting our community.
+And we lived what happens when a national party turns your town into a campaign prop for a debate that was never about us, never about supporting our community.
 We’re done putting up with self-interested partisan politicians.
 There are solutions here that 80% of Americans can get behind.
 Securing our borders.
@@ -69,8 +64,7 @@ Creating a pathway for those who truly aspire to the American dream.
 Reforming the asylum system.
 Increasing high skilled immigration.
 Expanding work visas for those who want to work and return to their home country.
-Energy
-Energy drives our economy.
+Energy Energy drives our economy.
 It is a major input of industry and manufacturing.
 And it’s essential to nearly every aspect of our lives.
 Out of control electric and gas prices hurt our economy, cost jobs, cost global competitiveness, and hurt ordinary people the hardest.
@@ -79,8 +73,7 @@ Committed to developing the lowest cost, cleanest, and most abundant energy sour
 Solar power and natural gas lead the pack.
 We need to eliminate the bottlenecks that hold up development of new energy and raise prices.
 I am committed to Ohio and the United States leading in energy abundance: having the lowest cost, most reliable, and cleanest energy in the world; to the benefit of Ohioans and industry.
-Local Government
-I’m running to give local government and local communities an ally and a partner in Congress.
+Local Government I’m running to give local government and local communities an ally and a partner in Congress.
 I am the Assistant Mayor of Springfield, a small city like many across Ohio, the Rustbelt, and the country that has struggled through deindustrialization.
 These are the places most people live, not the big cities but villages, towns, and smaller cities.
 Places that are weathered by forces far outside their control.
@@ -91,15 +84,13 @@ In Congress my goal is to give more resources, more support, and more freedom to
 Every community will have the needed funding for frontline workers, police, and firemen.
 In the district I will be a partner and in constant contact with our local leaders making sure Congress and the Federal government is responsive to the needs on the ground.
 I will actually fight for money and resources for the district, and put service to my constituents first.
-Election Reforms
-Democracy is the bedrock of our nation, its founding principle that a free people can best govern themselves.
+Election Reforms Democracy is the bedrock of our nation, its founding principle that a free people can best govern themselves.
 I will advocate for policies that protect and reinforce that foundation and stand up to forces trying to erode our democracy.
 We must require independent, non-partisan redistricting to put an end to relentless gerrymandering that has politicians choosing their voters.
 We must remove the control of political parties over our election infrastructure and recognize that the First Amendment requires a separation of political parties and government.
 Provide states the funding to give every citizen a photo-id free of charge for safe, secure, and free participation in voting.
 And we must require more transparency and disclosure-first campaign finance to remove dark money from our elections.
-Reforming Congress
-Congress is broken.
+Reforming Congress Congress is broken.
 It has completely abandoned its Constitutional Responsibilities.
 Because of its dysfunction and gridlock it has surrendered more and more and more power to the Judiciary and the President.
 That is not the system of checks and balances the Founders intended.
@@ -116,3 +107,6 @@ We will give power back to members, back to your Representatives.
 Take away leadership control of committee assignments.
 Lower the threshold for discharge petitions so well supported bills can actually make it to a vote.
 Require regular order, debate, and actual time to read bills rather than dropping them at 2 in the morning for an emergency vote.
+Contact Us Send contributions: Checks written to: Friends of Tracey Tackett Mail to: Tracey Tackett C/O Sip & Dipity Paint Bar 117 S.
+Fountain Ave.
+Springfield, OH 45502 Email: friendsoftraceytackett@yahoo.com Links About Endorsements Support Donate ©# by Assistant Mayor Tracey Tackett.

@@ -1,16 +1,66 @@
 [
-"https://facebook.com/KellyAyotteForNH",
-"https://instagram.com/kelly4nh",
-"https://kellyfornh.com/",
-"https://kellyfornh.com/about-kelly",
-"https://kellyfornh.com/accomplishments",
-"https://kellyfornh.com/get-involved",
-"https://kellyfornh.com/news",
-"https://kellyfornh.com/privacy-policy",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_alertbar",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_desktopnav",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_footer",
-"https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_mobilenav",
-"https://x.com/KellyAyotte",
-"https://youtube.com/@KellyforNewHampshire"
+{
+"text": "About Kelly",
+"href": "https://kellyfornh.com/about-kelly/"
+},
+{
+"text": "Accomplishments",
+"href": "https://kellyfornh.com/accomplishments/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_desktopnav"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_mobilenav"
+},
+{
+"text": "Get Involved",
+"href": "https://kellyfornh.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://kellyfornh.com/"
+},
+{
+"text": "Join Team Kelly",
+"href": "https://kellyfornh.com/get-involved/"
+},
+{
+"text": "News",
+"href": "https://kellyfornh.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://kellyfornh.com/privacy-policy/"
+},
+{
+"text": "Vote Kelly — Keep New Hampshire Safe, Prosperous and Free!",
+"href": "https://secure.winred.com/kelly-for-new-hampshire/winred-directory?web_id=kellyfornh_privacy-policy_alertbar"
+},
+{
+"text": "[image: Kelly for New Hampshire, Inc.]",
+"href": "https://kellyfornh.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KellyAyotteForNH"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kelly4nh/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@KellyforNewHampshire"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KellyAyotte"
+}
 ]

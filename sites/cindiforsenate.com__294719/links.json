@@ -1,18 +1,82 @@
 [
-"https://cindiforsenate.com/",
-"https://cindiforsenate.com/about",
-"https://cindiforsenate.com/blog-1-1",
-"https://cindiforsenate.com/cart",
-"https://cindiforsenate.com/volunteer",
-"https://cindiforsenate.com/volunteer-1",
-"https://facebook.com/profile.php?id=61577008558750",
-"https://hollyshouse.org/",
-"https://instagram.com/cindiforsenate",
-"https://secure.actblue.com/donate/cindi-for-senate",
-"https://secure.actblue.com/donate/cindi-for-senate?amount=10",
-"https://secure.actblue.com/donate/cindi-for-senate?amount=100",
-"https://secure.actblue.com/donate/cindi-for-senate?amount=25",
-"https://secure.actblue.com/donate/cindi-for-senate?amount=250",
-"https://secure.actblue.com/donate/cindi-for-senate?amount=49",
-"https://x.com/CindiForSenate"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cindi-for-senate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cindi-for-senate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cindi-for-senate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cindi-for-senate?amount=250"
+},
+{
+"text": "$49",
+"href": "https://secure.actblue.com/donate/cindi-for-senate?amount=49"
+},
+{
+"text": "0",
+"href": "https://www.cindiforsenate.com/cart"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/cindi-for-senate"
+},
+{
+"text": "Campaign Blog",
+"href": "https://www.cindiforsenate.com/blog-1-1"
+},
+{
+"text": "Contact Me!",
+"href": "https://www.cindiforsenate.com/volunteer-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/cindi-for-senate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577008558750"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/cindiforsenate"
+},
+{
+"text": "READ MORE",
+"href": "https://www.cindiforsenate.com/about"
+},
+{
+"text": "Volunteer",
+"href": "https://www.cindiforsenate.com/volunteer"
+},
+{
+"text": "X (formerly Twitter)",
+"href": "https://x.com/CindiForSenate"
+},
+{
+"text": "[image: Cindi attended Holly’s House Galentine’s Brunch in 2025. She joined the Gal Pal club and so can you! Visit www.hollyshouse.org to learn more.]",
+"href": "https://www.hollyshouse.org"
+},
+{
+"text": "[image: Cindi for Senate]",
+"href": "https://www.cindiforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577008558750"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/cindiforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CindiForSenate"
+}
 ]

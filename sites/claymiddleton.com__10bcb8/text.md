@@ -1,4 +1,4 @@
-Clay sees a common thread in his life’s work: cultivation.
+0 Skip to Content The Issues News Events Endorsements Volunteer Contact Donate Now Open Menu Close Menu The Issues News Events Endorsements Volunteer Contact Donate Now Open Menu Close Menu The Issues News Events Endorsements Volunteer Contact Donate Now Clay sees a common thread in his life’s work: cultivation.
 Cultivating People, Solutions, and Results.
 A native of the Lowcountry, Clay is a husband, father, combat veteran, and servant leader.
 He grew up in Bayside Manor (now Bridgeview Village Apartments) in downtown Charleston, with roots extending across the Lowcountry, including Johns and Wadmalaw Islands.
@@ -20,64 +20,35 @@ He is active in several organizations and serves on the Board of Directors of or
 His leadership and selfless service have earned him numerous awards and recognitions throughout his career, including the Bronze Star Medal.
 Clay and Nicole live in Carolina Bay, in West Ashley, with their two energetic sons, Jeremiah and Joshua.
 Stay Updated!
-Here is the Latest From the Newsroom
-Clay Middleton wins Democratic nomination for SC House District 116
-East Edisto Neighbor • July 1, 2026
-Here's who came out on top in 3 competitive Charleston County Statehouse primaries
-The Post & Courier • June 9, 2026
-Shaping 116 Together
-- With two young sons, my wife and I see every day how rising costs squeeze families.
+Here is the Latest From the Newsroom Clay Middleton wins Democratic nomination for SC House District 116 East Edisto Neighbor • July 1, 2026 READ NOW Here's who came out on top in 3 competitive Charleston County Statehouse primaries The Post & Courier • June 9, 2026 READ NOW Shaping 116 Together Affordability & Livability With two young sons, my wife and I see every day how rising costs squeeze families.
 Groceries, health care, and property taxes keep going up, but our wages aren’t changing.
 District 116 cannot afford to price out the families that make it a community.
-As your State Representative, I will:
-- Fight for good-paying jobs and housing that working families can actually afford
-- Work to cap annual increases in your home’s assessed value to prevent unexpected property tax hikes
-- Advance heirs’ property reform so families don’t lose land that has been in their name for generations
-- Expand healthcare access to reduce costs for families
-- Rapid growth has outpaced the roads, drainage, and connectivity we rely on every day.
+As your State Representative, I will: Fight for good-paying jobs and housing that working families can actually afford Work to cap annual increases in your home’s assessed value to prevent unexpected property tax hikes Advance heirs’ property reform so families don’t lose land that has been in their name for generations Expand healthcare access to reduce costs for families Traffic & Infrastructure Improvements Rapid growth has outpaced the roads, drainage, and connectivity we rely on every day.
 Traffic is worse.
 Flooding is more frequent.
 Too many neighborhoods still lack safe sidewalks and lighting.
 We need infrastructure that keeps up with our community.
-As your State Representative, I will:
-- Secure and protect funding to ensure critical road projects in District 116 are brought to fruition to reduce traffic and congestion
-- Work with partners at the city, county, and state levels to develop coordinated strategies that improve the quality of life for residents
-- Address flooding, connectivity, and walkability, particularly in rural areas, with reliable solutions such as sidewalks, improved lighting, and upgraded drainage
-- As a father of two young boys and a product of the Charleston County School District, I believe every child deserves access to a high‑quality education in their neighborhood school.
+As your State Representative, I will: Secure and protect funding to ensure critical road projects in District 116 are brought to fruition to reduce traffic and congestion Work with partners at the city, county, and state levels to develop coordinated strategies that improve the quality of life for residents Address flooding, connectivity, and walkability, particularly in rural areas, with reliable solutions such as sidewalks, improved lighting, and upgraded drainage Strengthening Public Education As a father of two young boys and a product of the Charleston County School District, I believe every child deserves access to a high‑quality education in their neighborhood school.
 Parents should feel confident that our public schools are preparing students to reach their full potential and succeed in life.
-As your State Representative, I will:
-- Keep taxpayer dollars in public schools
-- Fight for higher teacher pay and incentives that help recruit and retain the best educators for our children
-- Support transparent policies that promote student growth and achievement through a strong curriculum that reflects our community’s values
-- Our region is growing rapidly, and responsible planning is essential to protect the character, culture, and quality of our communities.
+As your State Representative, I will: Keep taxpayer dollars in public schools Fight for higher teacher pay and incentives that help recruit and retain the best educators for our children Support transparent policies that promote student growth and achievement through a strong curriculum that reflects our community’s values Managing Growth Responsibly Our region is growing rapidly, and responsible planning is essential to protect the character, culture, and quality of our communities.
 Development should benefit the people who already live here, not push them out.
-As your State Representative, I will:
-- Require community benefits agreements for major development projects and hold developers accountable for improving your neighborhood and quality of life
-- Advance “Stay Put” initiatives and Community Development Corporations that help our long-time residents stay in their homes, make repairs and upgrades, and keep our community affordable for those who call it home
-- Reinforce and protect the Urban Growth Boundary to prevent overdevelopment and preserve our community’s character
-- The Lowcountry’s natural beauty is one of our greatest treasures.
+As your State Representative, I will: Require community benefits agreements for major development projects and hold developers accountable for improving your neighborhood and quality of life Advance “Stay Put” initiatives and Community Development Corporations that help our long-time residents stay in their homes, make repairs and upgrades, and keep our community affordable for those who call it home Reinforce and protect the Urban Growth Boundary to prevent overdevelopment and preserve our community’s character Protecting Our Land & Water The Lowcountry’s natural beauty is one of our greatest treasures.
 District 116’s land and waterways define our way of life and drive our economy today and for generations to come.
-As your State Representative, I will:
-- Protect our waterways, wetlands, and other critical natural resources
-- Advocate for local conservation and preservation initiatives that safeguard the natural resources we depend on today
-- Promote clean energy and environmental protection that strengthen our community
-- What affects one part of our district affects us all.
+As your State Representative, I will: Protect our waterways, wetlands, and other critical natural resources Advocate for local conservation and preservation initiatives that safeguard the natural resources we depend on today Promote clean energy and environmental protection that strengthen our community Serving You What affects one part of our district affects us all.
 When one community struggles to access resources, faces long commutes to go short distances, or lacks essential services, the entire district feels it.
-We can turn the page: From talking points to real solutions and opportunities From division to the shared values that make us stronger From ideology to a focus on quality of life As your State Representative, I will:
-- Be responsive to the needs of you, your family, and our communities
-- Remain accessible and provide constituent services that reflect your concerns and priorities
-- Stand with you and fight for the issues that matter most to our community
-I’m running for office because I’m deeply invested in this community and its future, and I believe the people who live here deserve leadership that is present, accountable, and focused on real results.
+We can turn the page: From talking points to real solutions and opportunities From division to the shared values that make us stronger From ideology to a focus on quality of life As your State Representative, I will: Be responsive to the needs of you, your family, and our communities Remain accessible and provide constituent services that reflect your concerns and priorities Stand with you and fight for the issues that matter most to our community I’m running for office because I’m deeply invested in this community and its future, and I believe the people who live here deserve leadership that is present, accountable, and focused on real results.
 I want voters to know exactly where I stand on the issues that matter most and the specific, actionable steps I will take in office to move our community forward.
 Everyone’s voices matters, and our community deserves a State Representative who will serve every corner of the district.
 Our present and future demand nothing less.
-Will you donate $25, $50, or any amount you can today so we can prepare for the November election?
+Will you donate $# $# or any amount you can today so we can prepare for the November election?
 We rely on donors like you.
-Contact
-By submitting this form and signing up for texts, you consent to receive voter contact text messages from the Committee to Elect Clay Middleton.
+DONATE NOW Contact By submitting this form and signing up for texts, you consent to receive voter contact text messages from the Committee to Elect Clay Middleton.
 Msg & data rates may apply.
 Message frequency varies.
 Donations will not be solicited.
 Opt-out by replying STOP.
 Reply HELP for help.
 Privacy Policy.
+CLAY MIDDLETON IS A MEMBER OF THE SC ARMY NATIONAL GUARD.
+USE OF HIS MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT BY THE NATIONAL GUARD BUREAU, DEPARTMENT OF ARMY, OR THE DEPARTMENT OF WAR.
+PAID FOR BY THE COMMITTEE TO ELECT CLAY MIDDLETON PRIVACY POLICY

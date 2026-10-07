@@ -1,9 +1,34 @@
 [
-"https://sethhaskinforfl.com/",
-"https://sethhaskinforfl.com/about-seth-haskin",
-"https://sethhaskinforfl.com/donate",
-"https://sethhaskinforfl.com/endorsements",
-"https://sethhaskinforfl.com/policy",
-"https://sethhaskinforfl.com/social-media-contact",
-"https://sethhaskinforfl.com/volunteer"
+{
+"text": "About Seth Haskin",
+"href": "https://www.sethhaskinforfl.com/about-seth-haskin"
+},
+{
+"text": "Contact and Socials",
+"href": "https://www.sethhaskinforfl.com/social-media-contact"
+},
+{
+"text": "Donate",
+"href": "https://www.sethhaskinforfl.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sethhaskinforfl.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.sethhaskinforfl.com"
+},
+{
+"text": "Policy",
+"href": "https://www.sethhaskinforfl.com/policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.sethhaskinforfl.com/volunteer"
+},
+{
+"text": "[image: Seth-Haskin-For-Congress-logo]",
+"href": "https://www.sethhaskinforfl.com"
+}
 ]

@@ -1,26 +1,102 @@
 [
-"http://allenbuckleyforsenate.com/",
-"https://allenbuckleyforsenate.com/",
-"https://allenbuckleyforsenate.com/about-me",
-"https://allenbuckleyforsenate.com/author/admin",
-"https://allenbuckleyforsenate.com/ballot-access",
-"https://allenbuckleyforsenate.com/category/other",
-"https://allenbuckleyforsenate.com/category/press-release",
-"https://allenbuckleyforsenate.com/media-inquires",
-"https://allenbuckleyforsenate.com/other/biden-and-his-administration-pros-and-cons",
-"https://allenbuckleyforsenate.com/other/libertarian-u-s-senate-candidate-proposes-bill-to-rein-in-the-powers-of-the-executive-branch",
-"https://allenbuckleyforsenate.com/other/summary-of-the-consumer-protection-act-of-2027",
-"https://allenbuckleyforsenate.com/other/trump-and-his-administration-pros-and-cons",
-"https://allenbuckleyforsenate.com/other/vehicle-emissions-tax-act-summary",
-"https://allenbuckleyforsenate.com/participate",
-"https://allenbuckleyforsenate.com/press-releases",
-"https://allenbuckleyforsenate.com/uncategorized/what-is-a-libertarian",
-"https://allenbuckleyforsenate.com/why-vote-for-me",
-"https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions",
-"https://allenbuckleyforsenate.com/why-vote-for-me/balance-of-powers-restoration-act-summary",
-"https://allenbuckleyforsenate.com/why-vote-for-me/environmental-protection",
-"https://allenbuckleyforsenate.com/why-vote-for-me/fix-the-finances",
-"https://allenbuckleyforsenate.com/why-vote-for-me/immigration-reform-proposal",
-"https://allenbuckleyforsenate.com/why-vote-for-me/reduce-healthcare-costs",
-"https://zeffy.com/en-US/donation-form/donate-to-allen-buckley-for-us-senate--2026"
+{
+"text": "About Me",
+"href": "https://allenbuckleyforsenate.com/about-me/"
+},
+{
+"text": "All Solutions and Positions",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/all-solutions-and-positions/"
+},
+{
+"text": "Allen Buckley for U.S. Senate",
+"href": "https://allenbuckleyforsenate.com/"
+},
+{
+"text": "Allen Buckley for U.S. Senate",
+"href": "https://allenbuckleyforsenate.com/author/admin/"
+},
+{
+"text": "Ballot Access",
+"href": "https://allenbuckleyforsenate.com/ballot-access/"
+},
+{
+"text": "Biden (and his Administration) Pros and Cons",
+"href": "https://allenbuckleyforsenate.com/other/biden-and-his-administration-pros-and-cons/"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/donate-to-allen-buckley-for-us-senate--2026"
+},
+{
+"text": "Environmental Protection",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/environmental-protection/"
+},
+{
+"text": "Fix the Finances",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/fix-the-finances/"
+},
+{
+"text": "Home",
+"href": "https://allenbuckleyforsenate.com/"
+},
+{
+"text": "Immigration Reform Proposal",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/immigration-reform-proposal/"
+},
+{
+"text": "Libertarian U.S. Senate Candidate Proposes Bill to Rein in the Powers of the Executive Branch",
+"href": "https://allenbuckleyforsenate.com/other/libertarian-u-s-senate-candidate-proposes-bill-to-rein-in-the-powers-of-the-executive-branch/"
+},
+{
+"text": "Media Inquires",
+"href": "https://allenbuckleyforsenate.com/media-inquires/"
+},
+{
+"text": "Other",
+"href": "https://allenbuckleyforsenate.com/category/other/"
+},
+{
+"text": "Participate",
+"href": "https://allenbuckleyforsenate.com/participate/"
+},
+{
+"text": "Press Release",
+"href": "https://allenbuckleyforsenate.com/category/press-release/"
+},
+{
+"text": "Press Releases",
+"href": "https://allenbuckleyforsenate.com/press-releases/"
+},
+{
+"text": "Reduce Healthcare Costs",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/reduce-healthcare-costs/"
+},
+{
+"text": "Rein in the Executive Branch",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/balance-of-powers-restoration-act-summary/"
+},
+{
+"text": "Summary of the Consumer Protection Act of 2027",
+"href": "https://allenbuckleyforsenate.com/other/summary-of-the-consumer-protection-act-of-2027/"
+},
+{
+"text": "Trump (and his Administration) Pros and Cons",
+"href": "https://allenbuckleyforsenate.com/other/trump-and-his-administration-pros-and-cons/"
+},
+{
+"text": "Vehicle Emissions Tax Act Summary",
+"href": "https://allenbuckleyforsenate.com/other/vehicle-emissions-tax-act-summary/"
+},
+{
+"text": "What is a Libertarian?",
+"href": "https://allenbuckleyforsenate.com/uncategorized/what-is-a-libertarian/"
+},
+{
+"text": "Why Vote For Me",
+"href": "https://allenbuckleyforsenate.com/why-vote-for-me/"
+},
+{
+"text": "[image]",
+"href": "http://allenbuckleyforsenate.com/"
+}
 ]

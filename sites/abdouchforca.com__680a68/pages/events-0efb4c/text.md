@@ -1,29 +1,11 @@
-Campaign Events
-Join Greg Abdouch on the Trail
-Stay informed about town halls, rallies, coffee chats, and community forums.
+Skip to content Home About Endorsements View Endorsements Add Endorsement Donate Map Events Media EN ES Contribute → Contribute Toggle Menu Campaign Events Join Greg Abdouch on the Trail Stay informed about town halls, rallies, coffee chats, and community forums.
 Find an event in California Assembly District 45 and make your voice heard.
-Upcoming Schedule
-Stay up to date with the latest campaign events and town halls.
-Fundraising Golf Tournament
-Arrowhead Country Club • 3433 Parkside Dr, San Bernardino, CA 92404
-7:00 AM Breakfast • 8:00 AM Shotgun Start • Lunch, Auction & Games After
-Pumpkin Massacre
-Route 66 Shooting Sports Park • San Bernardino County, CA
-8:30 AM Coffee & Check-In • 9:20 AM Pumpkin Shoot • 11:30 AM Smashburger Lunch
-Faith in the Public Square
-Rendezvous Back to Route 66
-The 13th Annual Rendezvous Back to Route 66 will take place October 10, 2026, in downtown San Bernardino, celebrating 35 years of the city’s Route 66 heritage with classic cars, live entertainment, and family fun
-Golf Tournament- Ballots, Birdies and BBQ
-Small Business Summit
-Elks Car Show
-Veterans Dinner
-Want automatic event reminders?
-Get Involved Today
-Stand with Greg Abdouch to bring common sense back to California
-Attend an Event
-Rallies, neighborhood meetups, and town halls are open to all community members.
+Upcoming Schedule Stay up to date with the latest campaign events and town halls.
+Get Event Updates OCT 16 Featured Major Event Fundraising Golf Tournament Arrowhead Country Club • 3433 Parkside Dr, San Bernardino, CA 92404 7:00 AM Breakfast • 8:00 AM Shotgun Start • Lunch, Auction & Games After Register & Sponsor → NOV 07 Outdoor Shooting Fundraiser Pumpkin Massacre Route 66 Shooting Sports Park • San Bernardino County, CA 8:30 AM Coffee & Check-In • 9:20 AM Pumpkin Shoot • 11:30 AM Smashburger Lunch Register to Shoot → OCT 10 Rendezvous Back to Route 66 Saturday, October 10, 2026 • 9:00 AM - 9:00 PM Downtown San Bernardino/ La Plaza Park at 6th Street The 13th Annual Rendezvous Back to Route 66 will take place October 10, 2026, in downtown San Bernardino, celebrating 35 years of the city’s Route 66 heritage with classic cars, live entertainment, and family fun Get Directions OCT 16 Golf Tournament- Ballots, Birdies and BBQ Friday, October 16, 2026 • 7:00 AM - 4:00 PM Arrowhead Country Club, 3433 Parkside Dr, San Bernardino, CA 92404 Get Directions Event RSVP & Details OCT 22 Small Business Summit Thursday, October 22, 2026 • 12:00 PM - 4:00 PM Elks Lodge - San Bernardino Get Directions OCT 23 Trunk or Treat Friday, October 23, 2026 • 5:00 PM - 8:00 PM Community Hospital of San Bernardino Get Directions NOV 08 Elks Car Show Sunday, November 8, 2026 • 9:00 AM - 2:00 PM Elks Lodge - San Bernardino Get Directions NOV 11 Veterans Dinner Wednesday, November 11, 2026 • 5:00 PM - 8:00 PM Elks Lodge - San Bernardino Get Directions Want automatic event reminders?
+Subscribe with Apple Calendar Get Involved Today Stand with Greg Abdouch to bring common sense back to California 01 Attend an Event Rallies, neighborhood meetups, and town halls are open to all community members.
 RSVP for an upcoming date to secure your spot.
-Subscribe to Updates
-Stay updated on new event announcements, policy platforms, and campaigns news delivered straight to your email.
-Volunteer Locally
-Help us host community coffee chats, distribute flyers, or organize door-to-door block walking near your neighborhood.
+RSVP / Register 02 Subscribe to Updates Stay updated on new event announcements, policy platforms, and campaigns news delivered straight to your email.
+Subscribe Now 03 Volunteer Locally Help us host community coffee chats, distribute flyers, or organize door-to-door block walking near your neighborhood.
+Join the Team ← Back to Campaign Homepage A common-sense leader fighting to restore safety, affordability, and accountability to California State Assembly District 45.
+Quick Links Home About Endorsements Map Events Get Involved Donate (One-Time) Monthly Giving Donate By Check Join the Team Contact Us vote@gregabdouch.com 909-371-5675 FPCC ID ID#1479981 Social Icons PAID FOR BY GREG ABDOUCH FOR ASSEMBLY 2026 © # Greg Abdouch For CA Assembly.
+All Rights Reserved. | Privacy Policy | Team Portal Digital Strategy by GoSubmitto

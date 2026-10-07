@@ -1,12 +1,3 @@
-Civil Beat Pop-Up Newsroom
-Friday, July 26, 5:00 - 7:30 PM
-BoxJelly, 1200 Ala Moana Blvd
-Back to All Events
-Civil Beat Pop Up Newsroom: Meet the Candidates
-Civil Beat Pop-Up Newsroom
-Friday, July 26, 5:00 - 7:30 PM
-BoxJelly, 1200 Ala Moana Blvd
-Earlier Event: July 26
-Sign Waving - Kamakee & Auahi
-Later Event: July 28
-Phonebank for Team Coco
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Back to All Events Civil Beat Pop Up Newsroom: Meet the Candidates Friday, July 26, 2024 5:30 PM 6:30 PM 17:30 18:30 BoxJelly Coworking 1200 Ala Moana Boulevard Honolulu, HI, 96814 United States (map) Google Calendar ICS Civil Beat Pop-Up Newsroom Friday, July 26, 5:00 - 7:30 PM BoxJelly, 1200 Ala Moana Blvd Earlier Event: July 26 Sign Waving - Kamakee & Auahi Later Event: July 28 Phonebank for Team Coco Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

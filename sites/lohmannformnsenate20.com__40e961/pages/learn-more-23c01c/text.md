@@ -1,4 +1,4 @@
-Meet Jason!
+0 Skip to Content Jason Lohmann for MN State Senate Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Open Menu Close Menu Jason Lohmann for MN State Senate Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Open Menu Close Menu Events & Newsletters Why I am Running About Me Get Involved Endorsements Home DONATE Meet Jason!
 Jason Lohmann is running to represent you and your family in the Minnesota Senate.
 Jason has lived in the Zumbrota area nearly his entire life.
 It's where he grew up, graduated from Zumbrota-Mazeppa High School, and built a life with his wife of 22 years, Elizabeth.
@@ -20,7 +20,7 @@ He’s one of you.
 He knows what it means to work hard to put food on the table, to raise a family, and care deeply about your community including its schools, land, and future.
 Jason is running because he believes our rural communities deserve strong, honest representationand will bring common sense, practical experience, and a working-class voice to St.
 Paul.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Jason Lohmann for MN Senate District 20 Prepared and paid for by Jason Lohmann for Senate, PO Box 126, Zumbrota, MN 55992

@@ -1,11 +1,46 @@
 [
-"https://mattbeger41.net/",
-"https://mattbeger41.net/about",
-"https://mattbeger41.net/calandar",
-"https://mattbeger41.net/cart",
-"https://mattbeger41.net/contact",
-"https://secure.actblue.com/donate/matthew-beger-1",
-"https://sos.mo.gov/CMSImages/Elections/Maps/StatewideHouseDistrictMap.pdf",
-"https://squarespace.com/",
-"https://www2.census.gov/geo/maps/DC2020/SLD_RefMap/SLD2024/lower/st29_mo/SLD24L_29041.pdf"
+{
+"text": "0",
+"href": "https://www.mattbeger41.net/cart"
+},
+{
+"text": "About",
+"href": "https://www.mattbeger41.net/about"
+},
+{
+"text": "Calendar",
+"href": "https://www.mattbeger41.net/calandar"
+},
+{
+"text": "Contact",
+"href": "https://www.mattbeger41.net/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/matthew-beger-1"
+},
+{
+"text": "Home",
+"href": "https://www.mattbeger41.net/"
+},
+{
+"text": "Missouri District 41 Map",
+"href": "https://www2.census.gov/geo/maps/DC2020/SLD_RefMap/SLD2024/lower/st29_mo/SLD24L_29041.pdf"
+},
+{
+"text": "Missouri House Districts Map",
+"href": "https://www.sos.mo.gov/CMSImages/Elections/Maps/StatewideHouseDistrictMap.pdf"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Matt Beger For MO District 41]",
+"href": "https://www.mattbeger41.net/"
+},
+{
+"text": "matthewbeger@mattbeger41.net",
+"href": "mailto:matthewbeger@mattbeger41.net"
+}
 ]

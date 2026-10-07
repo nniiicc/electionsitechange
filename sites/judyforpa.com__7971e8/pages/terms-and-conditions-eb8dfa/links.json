@@ -1,9 +1,46 @@
 [
-"https://facebook.com/JudyForPA",
-"https://judyforpa.com/",
-"https://judyforpa.com/issues-2",
-"https://judyforpa.com/news-updates",
-"https://judyforpa.com/privacy-policy",
-"https://judyforpa.com/volunteer",
-"https://secure.winred.com/friends-of-judy-ward/donate-today"
+{
+"text": "About",
+"href": "https://judyforpa.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-judy-ward/donate-today"
+},
+{
+"text": "Home",
+"href": "https://judyforpa.com"
+},
+{
+"text": "Home",
+"href": "https://judyforpa.com/"
+},
+{
+"text": "Issues",
+"href": "https://judyforpa.com/issues-2/"
+},
+{
+"text": "News",
+"href": "https://judyforpa.com/news-updates/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://judyforpa.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://judyforpa.com/volunteer/"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://judyforpa.com/"
+},
+{
+"text": "[image: Site Logo]",
+"href": "https://judyforpa.com/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/JudyForPA"
+}
 ]

@@ -1,15 +1,66 @@
 [
-"http://facebook.com/redmanforidaho",
-"http://instagram.com/redmanforidaho",
-"http://twitter.com/redmanforidaho",
-"https://redmanforidaho.us/",
-"https://redmanforidaho.us/campaign",
-"https://redmanforidaho.us/cart",
-"https://redmanforidaho.us/contact",
-"https://redmanforidaho.us/endorsements",
-"https://redmanforidaho.us/jordan-redman",
-"https://redmanforidaho.us/legislative-newsletters",
-"https://redmanforidaho.us/legislativenewsletters",
-"https://redmanforidaho.us/news",
-"https://redmanforidaho.us/newsletter-sign-up"
+{
+"text": "0",
+"href": "https://www.redmanforidaho.us/cart"
+},
+{
+"text": "Back",
+"href": "https://www.redmanforidaho.us/"
+},
+{
+"text": "Campaign",
+"href": "https://www.redmanforidaho.us/campaign"
+},
+{
+"text": "Contact",
+"href": "https://www.redmanforidaho.us/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.redmanforidaho.us/endorsements"
+},
+{
+"text": "Folder: Legislative Newsletters",
+"href": "https://www.redmanforidaho.us/legislative-newsletters"
+},
+{
+"text": "Home",
+"href": "https://www.redmanforidaho.us/"
+},
+{
+"text": "Jordan Redman",
+"href": "https://www.redmanforidaho.us/jordan-redman"
+},
+{
+"text": "Jordan@redmanforidaho.us",
+"href": "mailto:Jordan@redmanforidaho.us"
+},
+{
+"text": "Legislative Newsletters",
+"href": "https://www.redmanforidaho.us/legislativenewsletters"
+},
+{
+"text": "News",
+"href": "https://www.redmanforidaho.us/news"
+},
+{
+"text": "Newsletter Sign Up",
+"href": "https://www.redmanforidaho.us/newsletter-sign-up"
+},
+{
+"text": "[image: redmanforidaho]",
+"href": "https://www.redmanforidaho.us/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/redmanforidaho"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/redmanforidaho"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/redmanforidaho"
+}
 ]

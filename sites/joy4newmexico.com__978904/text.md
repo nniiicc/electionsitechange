@@ -1,22 +1,12 @@
-Dear Friends and Neighbors,
-In the New Mexico State Legislature, I make your priorities my priorities and that’s my approach to representing the Westside in Santa Fe.
+0 Skip to Content ABOUT ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE Open Menu Close Menu ABOUT ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE Open Menu Close Menu Folder: ABOUT Back ABOUT JOY NM HOUSE DIST 29 PRIORITIES LEGISLATION GET INVOLVED ENDORSEMENTS VOTING CONTACT CONTRIBUTE Dear Friends and Neighbors, In the New Mexico State Legislature, I make your priorities my priorities and that’s my approach to representing the Westside in Santa Fe.
 I work each day to make our communities better places for everyone to live.
 My decisions affect not only my personal constituents but also each and every New Mexican.
 I’m committed to being a voice for the issues that matter to us.
-My priorities continue to include:
-- Prioritizing public safety—funding the recruitment and retention of law enforcement officers is a vital concern as well as meeting the needs of our public safety institutions and keeping repeat offenders off our streets—including new comprehensive initiatives to address as well as prevent the recent rise in juvenile crime;
-- Funding education initiatives and policies in order to empower our students to achieve success and find meaningful pathways from “cradle to career;”
-- Protecting our environment: air, water (surface/groundwater/wells/acquias), land and soil through policy advocacy and legislation at local, county, state and national levels—water truly is life and we have to ensure that we devote the research and resources to protect it; the air we breathe is also life—our industries cannot produce harmful substances that lead to health issues for our children and families;
-- Ensuring maintenance and construction of roads vital to public safety, commuters and economic development on the West Side of Albuquerque; and
-- Expanding the workforce pipeline, job training and apprenticeship opportunities to ensure that every New Mexican has access to meaningful, high-paying jobs.
+My priorities continue to include: Prioritizing public safety—funding the recruitment and retention of law enforcement officers is a vital concern as well as meeting the needs of our public safety institutions and keeping repeat offenders off our streets—including new comprehensive initiatives to address as well as prevent the recent rise in juvenile crime; Funding education initiatives and policies in order to empower our students to achieve success and find meaningful pathways from “cradle to career;” Protecting our environment: air, water (surface/groundwater/wells/acquias), land and soil through policy advocacy and legislation at local, county, state and national levels—water truly is life and we have to ensure that we devote the research and resources to protect it; the air we breathe is also life—our industries cannot produce harmful substances that lead to health issues for our children and families; Ensuring maintenance and construction of roads vital to public safety, commuters and economic development on the West Side of Albuquerque; and Expanding the workforce pipeline, job training and apprenticeship opportunities to ensure that every New Mexican has access to meaningful, high-paying jobs.
 As always, I will support policies and legislation that increase access to healthcare and ensure that the needs of our seniors and military veterans are thoroughly addressed.
 And I always roll up my sleeves and get to work with one single-minded focus.
 For me, it all comes down to emphasizing priorities and not getting caught up in all the politics.
 Feel feel to reach out to me with your hopes, your concerns, needs, and your invitations to community events and meetings via email (joy.garratt@nmlegis.gov) or phone/text (505-977-5039).
-Sincerely,
-Joy Garratt
-New Mexico State Representative.
-District 29
-505-977-5039 | joy.garratt@nmlegis.gov
-#NMHD29 #keepJoyintheHouse #newmexicotrue #nmleg
-#WestsideABQ
+Sincerely, Joy Garratt New Mexico State Representative.
+District 29 505-977-5039 | joy.garratt@nmlegis.gov #NMHD29 #keepJoyintheHouse #newmexicotrue #nmleg #WestsideABQ Joy 4 New Mexico CONTRIBUTE Paid for by the Committee to Elect Joy Garratt, Laurie Harris, Treasurer.
+Website | BGC

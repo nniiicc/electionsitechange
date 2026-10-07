@@ -1,16 +1,1 @@
-PRESS RELEASES
-FOR IMMEDIATE RELEASE
-National Union of Healthcare Workers Endorses Amy Slavensky for California Assembly District 7
-FOR IMMEDIATE RELEASE
-AFSCME District Councils 36 and 57 Endorse Amy Slavensky in Competitive Race for Assembly District 7
-FOR IMMEDIATE RELEASE
-Educator Amy Slavensky Advances to General Election in Race for California Assembly District 7
-For Immediate release
-Majority Leader Cecilia Aguiar-Curry Endorses Amy Slavensky for California Assembly District 7
-FOR IMMEDIATE RELEASE
-Assembly Speaker Robert Rivas Endorses Educator Amy Slavensky for California Assembly District 7
-FOR IMMEDIATE RELEASE
-California Federation of Labor Unions, AFSCME Endorse Public Educator and Former School Superintendent Amy Slavensky in Race for California’s 7th Assembly District
-FOR IMMEDIATE RELEASE
-Planned Parenthood Advocates Mar Monte Endorses Amy Slavensky for California’s 7th Assembly District
-FOR IMMEDIATE RELEASE
+Skip navigation menu About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate About What I Stand For My Priorities Endorsements Press & Media Events Volunteer Contact Donate PRESS RELEASES FOR IMMEDIATE RELEASE Amy Slavensky Volunteers Knock Thousands of Doors Alongside PPAMM, CSEA & More Read more Sep 28 2026 for immediate release Dark Money Group Continues to Lie About Amy Slavensky’s Record Read more Sep 15 2026 FOR IMMEDIATE RELEASE Dark Money Group Spread Lies About Educator Amy Slavensky Read more Sep 11 2026 FOR IMMEDIATE RELEASE National Union of Healthcare Workers Endorses Amy Slavensky for California Assembly District 7 Read more Aug 27 2026 FOR IMMEDIATE RELEASE UNAC/UHCP Endorses Amy Slavensky for California Assembly District 7 Read more Jul 27 2026 FOR IMMEDIATE RELEASE AFSCME District Councils 36 and 57 Endorse Amy Slavensky in Competitive Race for Assembly District 7 Read more Jul 13 2026 FOR IMMEDIATE RELEASE Congressman Ami Bera Endorses Amy Slavensky for California Assembly District 7 Read more Jun 30 2026 FOR IMMEDIATE RELEASE Educator Amy Slavensky Advances to General Election in Race for California Assembly District 7 Read more Jun 3 2026 For Immediate release Majority Leader Cecilia Aguiar-Curry Endorses Amy Slavensky for California Assembly District 7 Read more May 11 2026 FOR IMMEDIATE RELEASE Assembly Speaker Robert Rivas Endorses Educator Amy Slavensky for California Assembly District 7 Read more Apr 29 2026 FOR IMMEDIATE RELEASE California Federation of Labor Unions, AFSCME Endorse Public Educator and Former School Superintendent Amy Slavensky in Race for California’s 7th Assembly District Read more Mar 31 2026 FOR IMMEDIATE RELEASE Planned Parenthood Advocates Mar Monte Endorses Amy Slavensky for California’s 7th Assembly District Read more Mar 23 2026 FOR IMMEDIATE RELEASE Former School Superintendent and Teacher Amy Slavensky Endorsed by SEIU and California Women’s List in Race for California’s 7th Assembly District Read more Dec 18 2025 FOR IMMEDIATE RELEASE Amy Slavensky Secures Major Support from CTA, CFT, CSEA, and the California Democratic Party’s Pre-Endorsement in Race for California’s 7th Assembly District Read more Jan 29 2026 Photos Home About Donate Powered by RUN! website builder Paid for by Amy Slavensky for Assembly 2026, Committee #1484959 You need to enable JavaScript to run this app.

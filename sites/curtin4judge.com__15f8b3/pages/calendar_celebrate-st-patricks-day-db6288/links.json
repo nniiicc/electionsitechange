@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Celebrate+St.+Patrick%E2%80%99s+Day&dates=20260316T213000Z%2F20260316T230000Z&location=8870+Darrow+Road%2C+Twinsburg%2C+OH%2C+44087%2C+United+States",
-"http://maps.google.com/?q=8870+Darrow+Road+Twinsburg%2C+OH%2C+44087+United+States",
-"https://curtin4judge.com/",
-"https://curtin4judge.com/calendar",
-"https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq",
-"https://curtin4judge.com/calendar/campaign-kickoff-fundraiser",
-"https://curtin4judge.com/calendar/celebrate-st-patricks-day?format=ical",
-"https://curtin4judge.com/campaign-committee",
-"https://curtin4judge.com/cart",
-"https://curtin4judge.com/endorsements",
-"https://curtin4judge.com/help-the-campaign",
-"https://curtin4judge.com/meet-cynthia",
-"https://curtin4judge.com/meet-the-candidate",
-"https://facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8870+darrow+road+twinsburg%2C+oh%2C+44087+united+states"
+},
+{
+"text": "0",
+"href": "https://curtin4judge.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "Campaign Committee",
+"href": "https://curtin4judge.com/campaign-committee"
+},
+{
+"text": "Endorsements",
+"href": "https://curtin4judge.com/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Celebrate+St.+Patrick%E2%80%99s+Day&dates=20260316T213000Z%2F20260316T230000Z&location=8870+Darrow+Road%2C+Twinsburg%2C+OH%2C+44087%2C+United+States"
+},
+{
+"text": "Help the Campaign",
+"href": "https://curtin4judge.com/help-the-campaign"
+},
+{
+"text": "ICS",
+"href": "https://curtin4judge.com/calendar/celebrate-st-patricks-day?format=ical"
+},
+{
+"text": "Meet Cynthia Curtin",
+"href": "https://curtin4judge.com/meet-cynthia"
+},
+{
+"text": "Meet the Candidate",
+"href": "https://curtin4judge.com/meet-the-candidate"
+},
+{
+"text": "Next Next June 24 Reception in Support of Cynthia Curtin for Judge",
+"href": "https://curtin4judge.com/calendar/42f9yq8t1l3aec8wacsyyfkqf7jkvq"
+},
+{
+"text": "Previous Previous February 25 Campaign Kickoff Fundraiser",
+"href": "https://curtin4judge.com/calendar/campaign-kickoff-fundraiser"
+},
+{
+"text": "Upcoming Events",
+"href": "https://curtin4judge.com/calendar"
+},
+{
+"text": "[image: Cynthia Curtin for Judge]",
+"href": "https://curtin4judge.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Cynthia-Curtin-for-Judge/61577337141123"
+},
+{
+"text": "[no text]",
+"href": "mailto:curtin4judge@gmail.com"
+}
 ]

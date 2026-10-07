@@ -1,18 +1,70 @@
 [
-"http://twitter.com/jenstrebs",
-"https://bsky.app/profile/jenstrebs.bsky.social",
-"https://facebook.com/jenstrebs",
-"https://instagram.com/jenstrebs",
-"https://jenstrebs.com/",
-"https://jenstrebs.com/about-jen",
-"https://jenstrebs.com/cart",
-"https://jenstrebs.com/endorsements",
-"https://jenstrebs.com/issues",
-"https://jenstrebs.com/news",
-"https://jenstrebs.com/news/2026/6/12/homelessness-5-years-from-now-kalamazoo-leaders-share-visions",
-"https://jenstrebs.com/news/2026/6/12/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback",
-"https://jenstrebs.com/news?author=69aedaf2b7a5a10fc43bde50",
-"https://jenstrebs.com/updates",
-"https://publicmedianet.org/news/health/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township",
-"https://secure.actblue.com/donate/strebs4mi"
+{
+"text": "0",
+"href": "https://www.jenstrebs.com/cart"
+},
+{
+"text": "About Jen",
+"href": "https://www.jenstrebs.com/about-jen"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/strebs4mi"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenstrebs.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.jenstrebs.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.jenstrebs.com/news"
+},
+{
+"text": "Next Next Homelessness 5 years from now: Kalamazoo leaders share visions",
+"href": "https://www.jenstrebs.com/news/2026/6/12/homelessness-5-years-from-now-kalamazoo-leaders-share-visions"
+},
+{
+"text": "Previous Previous Plan to reduce road deaths by removing trees draws pushback",
+"href": "https://www.jenstrebs.com/news/2026/6/12/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback"
+},
+{
+"text": "Read More Here →",
+"href": "https://publicmedianet.org/news/health/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township/"
+},
+{
+"text": "Sam Longlet",
+"href": "https://www.jenstrebs.com/news?author=69aedaf2b7a5a10fc43bde50"
+},
+{
+"text": "Text Opt-In",
+"href": "https://www.jenstrebs.com/updates"
+},
+{
+"text": "[image: Jen Strebs]",
+"href": "https://www.jenstrebs.com/"
+},
+{
+"text": "[image] Sam Longlet",
+"href": "https://www.jenstrebs.com/news?author=69aedaf2b7a5a10fc43bde50"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenstrebs.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jenstrebs/"
+}
 ]

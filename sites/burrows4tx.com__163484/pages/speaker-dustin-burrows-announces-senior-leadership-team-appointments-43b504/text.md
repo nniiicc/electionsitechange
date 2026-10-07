@@ -1,11 +1,10 @@
-AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today announced key appointments to the senior leadership of his administration.
+Skip to content Home About House District 83 Issues Latest News Volunteer Home About House District 83 Issues Latest News Volunteer Donate Press Release Speaker Dustin Burrows Announces Senior Leadership Team Appointments December 17, 2025 AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today announced key appointments to the senior leadership of his administration.
 Effective immediately, Andrew Blifford has been promoted to Deputy Chief of Staff from his prior role of Director of Finance, and Sam Bacarisse has been promoted to Director of Policy after previously serving as a Policy Advisor.
 Additionally, Victor Alcorta has been named General Counsel and Senior Advisor to the Speaker, effective February 1.
 “With these promotions and additions to my senior staff, I am confident the Speaker’s Office is well positioned to continue serving the Texas House with meaningful experience in public service and policymaking,” said Speaker Burrows.
 “Andrew Blifford and Sam Bacarisse have demonstrated steady leadership across many legislative sessions, and their institutional knowledge and command of the legislative process will be invaluable as we work toward a productive 90th Legislative Session for Texans across our state.
 I am also pleased to welcome Victor Alcorta to the office, where his leadership and extensive experience in public policy and the law will be a tremendous asset.
-I am grateful to each of these individuals for their commitment to strengthening the Speaker’s Office and the future of our state.”
-Andrew Blifford has been promoted to Deputy Chief of Staff to Speaker Burrows, bringing roughly 24 years of professional experience in the Texas House and state finance to the role.
+I am grateful to each of these individuals for their commitment to strengthening the Speaker’s Office and the future of our state.” Andrew Blifford has been promoted to Deputy Chief of Staff to Speaker Burrows, bringing roughly 24 years of professional experience in the Texas House and state finance to the role.
 He most recently served as Director of Finance within Speaker Burrows’ administration beginning in January 2025.
 He has worked in the Speaker’s Office as Director of Finance since 2019 and previously as Director of Budget and Policy and as Senior Budget Advisor since 2009.
 In these roles, he advised legislative leadership on fiscal strategy, state budget development, and policy implementation.
@@ -17,3 +16,13 @@ He has also served the State of Texas as Policy Director for former Governor Ric
 Sam Bacarisse has been promoted to Director of Policy for Speaker Burrows from his previous role of Policy Advisor to the Speaker.
 In that position, he advised the Speaker on a broad portfolio of Texas House committees, including the Delivery of Government Efficiency; Environmental Regulation; Insurance; Natural Resources; and Trade, Workforce, and Economic Development.
 Bacarisse has over a dozen years of experience working in the Texas House.
+### JOIN OUR EMAIL LIST First Name Last Name Email Sign Up By providing my mobile number I consent to receive informational text messages from Dustin Burrows Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies.
+POL.
+ADV.
+PAID FOR BY DUSTIN BURROWS CAMPAIGN Mailing Address: Dustin Burrows Campaign P.O.
+Box 2569 | Lubbock, TX 79408 Privacy Policy Terms of Use Contact Donate

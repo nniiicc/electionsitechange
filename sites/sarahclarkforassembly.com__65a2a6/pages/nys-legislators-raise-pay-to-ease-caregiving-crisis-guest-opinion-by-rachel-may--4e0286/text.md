@@ -1,3 +1,2 @@
-“For far too long, New York state has done far too little to support these workers.
-This year, we must adopt a state budget and pass the necessary legislation to change that once and for all.”
-“NYS Legislators: Raise pay to ease caregiving crisis (Guest Opinion by Rachel May and Sarah Clark),” January 27, 2022 via Syracuse.com
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate NYS Legislators: Raise pay to ease caregiving crisis (Guest Opinion by Rachel May and Sarah Clark) January 27, 2022 “For far too long, New York state has done far too little to support these workers.
+This year, we must adopt a state budget and pass the necessary legislation to change that once and for all.” “NYS Legislators: Raise pay to ease caregiving crisis (Guest Opinion by Rachel May and Sarah Clark),” January 27, 2022 via Syracuse.com child care healthcare wages Post navigation Senator Brouk Announces Legislative Package to Address Maternal Mental Health Needs of New Yorkers Lawmakers Push for $# Billion Toward Universal Child Care Access in NY Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

@@ -1,5 +1,2 @@
-Thu, Oct 08
-Waren County Courthouse
-Meet your NC State Senate District 2 Candidate, Roy Surrett.
-Oct 08, 2026, 6:00 PM – 8:00 PM
-Waren County Courthouse, 109 S Main St, Warrenton, NC 27589, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Meet the Candidates Thu, Oct 08 | Waren County Courthouse Meet your NC State Senate District 2 Candidate, Roy Surrett.
+Time & Location Oct 08, 2026, 6:00 PM – 8:00 PM Waren County Courthouse, 109 S Main St, Warrenton, NC 27589, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

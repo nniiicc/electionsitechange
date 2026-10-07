@@ -1,9 +1,8 @@
-“Our community deserves a representative who understands everyday challenges, respects taxpayers, and is willing to work with anyone to get things done.” – Tim Bosch
-Local Family Man:
-Tim Bosch and his wife of 40 years, Maureen “Molly” Bosch, raised two daughters and are proud grandparents to four grandchildren.
+Skip to content Donate Facebook-f About Support About Support Vote Tim Bosch For State Representative “Our community deserves a representative who understands everyday challenges, respects taxpayers, and is willing to work with anyone to get things done.” – Tim Bosch Local Family Man: Tim Bosch and his wife of 40 years, Maureen “Molly” Bosch, raised two daughters and are proud grandparents to four grandchildren.
 They are proud members of St Joseph Parish in Manchester.
 Tim also worked in Telecommunications for 37 years.
-Fighting For Our Values:
-Stand with Law Enforcement, Firefighters, and First Responders
-Ban Biological Males from Competing in Girls Sports
-Support funding local schools & a quality education for every child
+Fighting For Our Values: Stand with Law Enforcement, Firefighters, and First Responders Ban Biological Males from Competing in Girls Sports Support funding local schools & a quality education for every child Crack Down on Violent Crime and Drug Traffickers Improve our Roads and Bridges Proudly Endorsed by Support Tim Name First Last Email Phone I would like to help by Display a Yard Sign Host a neighborhood meet and greet Host a fundraiser Display large sign Make phone calls Deliver literature door to door Address Street Address Address Line 2 City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code Comments / Questions Consent By providing your phone number, you agree to receive campaign & donation messages from "Bosch for Missouri" to the phone number you provide.
+Join the Team ON November 3rd VOTE TIM BOSCH Independent Voice FOR STATE REPRESENTATIVE!
+Donate Today!
+Privacy Policy Paid For By Bosch for Missouri, Maureen Bosch Treasurer

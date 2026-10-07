@@ -1,7 +1,30 @@
 [
-"https://votejeffholy.com/",
-"https://votejeffholy.com/_files/ugd/c6c7d7_de9ff485f1d24a44a0538b910d393f9d.pdf",
-"https://votejeffholy.com/about",
-"https://votejeffholy.com/donate",
-"https://votejeffholy.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.votejeffholy.com/about"
+},
+{
+"text": "Click here to view my 2026 W9 form.",
+"href": "https://www.votejeffholy.com/_files/ugd/c6c7d7_de9ff485f1d24a44a0538b910d393f9d.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.votejeffholy.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votejeffholy.com"
+},
+{
+"text": "Jeff Holy for State Senate",
+"href": "https://www.votejeffholy.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejeffholy.com/privacy-policy"
+},
+{
+"text": "VoteJeffHoly@gmail.com",
+"href": "mailto:VoteJeffHoly@gmail.com"
+}
 ]

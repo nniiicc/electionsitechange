@@ -1,4 +1,4 @@
-West Virginia’s education system and its student outcomes have historically ranked among the lowest in the country.
+Skip to content Jason Barrett About District 16 Issues News Media Contact Donate Education West Virginia’s education system and its student outcomes have historically ranked among the lowest in the country.
 If the state of West Virginia is to move forward and find a path to prosperity, improving our education system is a must.
 Education choice is a critical piece of reforming West Virginia’s education system.
 We must empower parents and students and offer them options in their education, so they can choose the model of learning that best fits their needs.
@@ -18,3 +18,6 @@ I will not stop fighting for locality pay for our state employees until we get t
 This is vital to the success of our state long-term, particularly our schools.
 West Virginia is on the right path forward in the education reform we’ve enacted to date.
 As your State Senator, I have and will continue to improve upon these important reforms and to put the opportunity for our kids, parents, and teachers first.
+Share Post navigation Life Categories News Recent Posts 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Latest News 77 percent of West Virginia nursing home residents rely on Medicaid, nursing home operator may need to shut down facility if cuts are done Senate finance chair questions WV Supreme Court’s unspent funds; court says it needs more money New Accessible Playground Gets Matching Funds From LEDA Grants and W Randy Smith Family Fund Winchester Avenue Elementary’s new outdoor classroom creates more opportunities for students PEIA director Brian Cunningham has left; financial challenges remain ahead Berkeley County’s Sen.
+Barrett to chair West Virginia Senate finance committee Stay Connected Donate Today $25 $50 $100 $200 Other Stay Up To Date!
+Contact News Privacy Policy Donate Paid for by Friends of Jason Barrett Powered By Push Digital Jason Barrett © #

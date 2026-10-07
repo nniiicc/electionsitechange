@@ -1,13 +1,66 @@
 [
-"https://facebook.com/PeteJohnsonMN8A",
-"https://instagram.com/pete_johnson_mn_8a",
-"https://secure.actblue.com/donate/petej_for_mn8a",
-"https://twitter.com/PeteJ_MN8A",
-"https://votepete8a.com/",
-"https://votepete8a.com/accessibility-statement",
-"https://votepete8a.com/contact",
-"https://votepete8a.com/get-involved",
-"https://votepete8a.com/privacy-policy",
-"https://w3.org/WAI/standards-guidelines/wcag",
-"https://youtube.com/@PeteJohnsonMN8A"
+{
+"text": "About",
+"href": "https://votepete8a.com/#about-pete"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://votepete8a.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://votepete8a.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/petej_for_mn8a"
+},
+{
+"text": "Endorsements",
+"href": "https://votepete8a.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PeteJohnsonMN8A/"
+},
+{
+"text": "Get Involved",
+"href": "https://votepete8a.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pete_johnson_mn_8a/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Priorities",
+"href": "https://votepete8a.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votepete8a.com/privacy-policy/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/PeteJ_MN8A"
+},
+{
+"text": "Vote Pete Johnson",
+"href": "https://votepete8a.com/"
+},
+{
+"text": "Web Content Accessibility Guidelines (WCAG)",
+"href": "https://www.w3.org/WAI/standards-guidelines/wcag"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@PeteJohnsonMN8A"
+},
+{
+"text": "votepete8a.com/contact",
+"href": "https://votepete8a.com/contact/"
+}
 ]

@@ -1,9 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61575701592159",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://rockeyforohio.com/",
-"https://rockeyforohio.com/about-patti",
-"https://rockeyforohio.com/on-the-issues",
-"https://secure.winred.com/rockey-for-ohio/donate-today"
+{
+"text": "About Patti",
+"href": "https://rockeyforohio.com/about-patti"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/rockey-for-ohio/donate-today"
+},
+{
+"text": "Fighting for Conservative Values",
+"href": "https://rockeyforohio.com/on-the-issues"
+},
+{
+"text": "Get in Touch",
+"href": "https://rockeyforohio.com/#c5d527d2-9ca6-44e9-a2ff-725bb8add44c"
+},
+{
+"text": "Home",
+"href": "https://rockeyforohio.com/"
+},
+{
+"text": "Learn more about Patti",
+"href": "https://rockeyforohio.com/about-patti"
+},
+{
+"text": "On the Issues",
+"href": "https://rockeyforohio.com/on-the-issues"
+},
+{
+"text": "PattiRockey@RockeyforOhio.com",
+"href": "mailto:PattiRockey@RockeyforOhio.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575701592159"
+}
 ]

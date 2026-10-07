@@ -1,7 +1,11 @@
 {
- "description": "PRESS RELEASES GET PRESS RELEASES Name(Required)Email(Required) Zip(Required)EmailThis field is for validation purposes and should be left unchanged. \u0394",
+ "description": "PRESS RELEASES GET PRESS RELEASES Name(Required)Email(Required) Zip(Required)EmailThis field is for validation purposes and should be left unchanged. Δ",
  "final_url": "https://joinjimmy.com/blog",
+ "fingerprint": "4fda373cab21978cd6a010d0fd6d34f1d02e174c",
+ "format": 3,
  "paid_for_by": "PAID FOR BY FRIENDS OF JIMMY PATRONIS, INC",
- "title": "Blog - Jimmy Patronis for CongressAsset 1",
- "years_mentioned": []
+ "title": "Blog - Jimmy Patronis for Congress",
+ "years_mentioned": [
+  "2025"
+ ]
 }

@@ -1,22 +1,122 @@
 [
-"https://erictoney.com/",
-"https://erictoney.com/?query-4-page=10",
-"https://erictoney.com/?query-4-page=7",
-"https://erictoney.com/?query-4-page=8",
-"https://erictoney.com/about",
-"https://erictoney.com/privacy-policy",
-"https://erictoney.com/volunteer",
-"https://facebook.com/EricToneyWI",
-"https://fox11online.com/news/local/fond-du-lac-county-da-eric-toney-reflects-on-lessons-learned-after-open-heart-surgery-district-attorney-ssm-health-st-agnes-hospital-katherine-vergos-cardiovascular-disease-symptoms-doctors-myocarditis",
-"https://instagram.com/erictoney",
-"https://jsonline.com/story/news/politics/2023/12/27/fond-du-lac-county-da-eric-toney-reflects-on-recent-heart-surgery/71922910007",
-"https://kfiz.com/fond-du-lac-county-district-attorney-eric-toney-named-da-of-the-year",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/toney-for-attorney-general/donate",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=100",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=1000",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=25",
-"https://secure.winred.com/toney-for-attorney-general/donate?amount=250",
-"https://x.com/EricjToney"
+{
+"text": "$100",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate?amount=250"
+},
+{
+"text": "1",
+"href": "https://erictoney.com/?cst="
+},
+{
+"text": "10",
+"href": "https://erictoney.com/?query-4-page=10&cst="
+},
+{
+"text": "7",
+"href": "https://erictoney.com/?query-4-page=7&cst="
+},
+{
+"text": "8",
+"href": "https://erictoney.com/?query-4-page=8&cst="
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EricToneyWI/"
+},
+{
+"text": "Fond du Lac County DA Eric Toney reflects on lessons learned after open heart surgery",
+"href": "https://fox11online.com/news/local/fond-du-lac-county-da-eric-toney-reflects-on-lessons-learned-after-open-heart-surgery-district-attorney-ssm-health-st-agnes-hospital-katherine-vergos-cardiovascular-disease-symptoms-doctors-myocarditis"
+},
+{
+"text": "Fond du Lac County District Attorney Eric Toney named DA of the Year",
+"href": "https://kfiz.com/fond-du-lac-county-district-attorney-eric-toney-named-da-of-the-year/"
+},
+{
+"text": "Get Involved",
+"href": "https://erictoney.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/erictoney"
+},
+{
+"text": "Latest news",
+"href": "https://erictoney.com/#news"
+},
+{
+"text": "Learn More about Eric",
+"href": "https://erictoney.com/about/"
+},
+{
+"text": "Meet Eric",
+"href": "https://erictoney.com/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/toney-for-attorney-general/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erictoney.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Read more: Fond du Lac County DA Eric Toney reflects on lessons learned after open heart surgery",
+"href": "https://fox11online.com/news/local/fond-du-lac-county-da-eric-toney-reflects-on-lessons-learned-after-open-heart-surgery-district-attorney-ssm-health-st-agnes-hospital-katherine-vergos-cardiovascular-disease-symptoms-doctors-myocarditis"
+},
+{
+"text": "Read more: Fond du Lac County District Attorney Eric Toney named DA of the Year",
+"href": "https://kfiz.com/fond-du-lac-county-district-attorney-eric-toney-named-da-of-the-year/"
+},
+{
+"text": "Read more: ‘Don’t ignore symptoms’: Fond du Lac DA Eric Toney reflects on recent heart surgery",
+"href": "https://www.jsonline.com/story/news/politics/2023/12/27/fond-du-lac-county-da-eric-toney-reflects-on-recent-heart-surgery/71922910007/#new_tab"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "X",
+"href": "https://x.com/EricjToney"
+},
+{
+"text": "[image: Eric Toney for Attorney General]",
+"href": "https://erictoney.com/"
+},
+{
+"text": "[image: Fond du Lac County DA Eric Toney reflects on lessons learned after open heart surgery]",
+"href": "https://fox11online.com/news/local/fond-du-lac-county-da-eric-toney-reflects-on-lessons-learned-after-open-heart-surgery-district-attorney-ssm-health-st-agnes-hospital-katherine-vergos-cardiovascular-disease-symptoms-doctors-myocarditis"
+},
+{
+"text": "[image: Fond du Lac County District Attorney Eric Toney named DA of the Year]",
+"href": "https://kfiz.com/fond-du-lac-county-district-attorney-eric-toney-named-da-of-the-year/"
+},
+{
+"text": "[image: ‘Don’t ignore symptoms’: Fond du Lac DA Eric Toney reflects on recent heart surgery]",
+"href": "https://www.jsonline.com/story/news/politics/2023/12/27/fond-du-lac-county-da-eric-toney-reflects-on-recent-heart-surgery/71922910007/#new_tab"
+},
+{
+"text": "‘Don’t ignore symptoms’: Fond du Lac DA Eric Toney reflects on recent heart surgery",
+"href": "https://www.jsonline.com/story/news/politics/2023/12/27/fond-du-lac-county-da-eric-toney-reflects-on-recent-heart-surgery/71922910007/#new_tab"
+}
 ]

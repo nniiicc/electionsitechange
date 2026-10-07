@@ -1,25 +1,106 @@
 [
-"https://facebook.com/BONANOFLHOUSE67",
-"https://files.floridados.gov/media/706369/voterregvotingguide-eng-2024-election-cycle-20230120-final.pdf",
-"https://instagram.com/vote_bonano_for_67",
-"https://onlinecandidate.com/",
-"https://politics.raisethemoney.com/en/dbonano",
-"https://votedrlisettebonano.com/",
-"https://votedrlisettebonano.com/calendar",
-"https://votedrlisettebonano.com/contact",
-"https://votedrlisettebonano.com/endorsements",
-"https://votedrlisettebonano.com/events/general-election",
-"https://votedrlisettebonano.com/news",
-"https://votedrlisettebonano.com/news/category/announcements",
-"https://votedrlisettebonano.com/news/category/election-information",
-"https://votedrlisettebonano.com/news/category/general",
-"https://votedrlisettebonano.com/news/category/in-the-news",
-"https://votedrlisettebonano.com/news/endorsement-maura-cruz-lanz",
-"https://votedrlisettebonano.com/news/what-are-the-benefits-of-border-security-protect-communities-more",
-"https://votedrlisettebonano.com/news/what-are-the-benefits-of-government-neutrality-in-public-life",
-"https://votedrlisettebonano.com/privacy",
-"https://votedrlisettebonano.com/terms",
-"https://votedrlisettebonano.com/volunteer",
-"https://votedrlisettebonano.com/vote",
-"https://x.com/BONANOFLHOUSE67"
+{
+"text": "Announcements",
+"href": "https://votedrlisettebonano.com/news/category/announcements/"
+},
+{
+"text": "Back to News & Updates",
+"href": "https://votedrlisettebonano.com/news/"
+},
+{
+"text": "Calendar",
+"href": "https://votedrlisettebonano.com/calendar/"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.onlinecandidate.com//"
+},
+{
+"text": "Contact",
+"href": "https://votedrlisettebonano.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/dbonano"
+},
+{
+"text": "ENDORSEMENT: MAURA CRUZ LANZ",
+"href": "https://votedrlisettebonano.com/news/endorsement-maura-cruz-lanz/"
+},
+{
+"text": "Election Information",
+"href": "https://votedrlisettebonano.com/news/category/election-information/"
+},
+{
+"text": "Endorsements",
+"href": "https://votedrlisettebonano.com/endorsements/"
+},
+{
+"text": "General",
+"href": "https://votedrlisettebonano.com/news/category/general/"
+},
+{
+"text": "General Election",
+"href": "https://votedrlisettebonano.com/events/general-election/"
+},
+{
+"text": "Home",
+"href": "https://votedrlisettebonano.com/"
+},
+{
+"text": "In The News",
+"href": "https://votedrlisettebonano.com/news/category/in-the-news/"
+},
+{
+"text": "News & Updates",
+"href": "https://votedrlisettebonano.com/news/"
+},
+{
+"text": "Privacy",
+"href": "https://votedrlisettebonano.com/privacy/"
+},
+{
+"text": "Terms",
+"href": "https://votedrlisettebonano.com/terms/"
+},
+{
+"text": "View All News",
+"href": "https://votedrlisettebonano.com/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://votedrlisettebonano.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://votedrlisettebonano.com/vote/"
+},
+{
+"text": "What are the Benefits of Border Security? Protect Communities & More",
+"href": "https://votedrlisettebonano.com/news/what-are-the-benefits-of-border-security-protect-communities-more/"
+},
+{
+"text": "What are the Benefits of Government Neutrality in Public Life?",
+"href": "https://votedrlisettebonano.com/news/what-are-the-benefits-of-government-neutrality-in-public-life/"
+},
+{
+"text": "[image: LTC LISETTE BONANO for Florida State House District 67]",
+"href": "https://votedrlisettebonano.com/"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on Facebook]",
+"href": "https://www.facebook.com/BONANOFLHOUSE67"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on Instagram]",
+"href": "https://www.instagram.com/vote_bonano_for_67/"
+},
+{
+"text": "[tooltip: LTC LISETTE BONANO on X]",
+"href": "https://x.com/BONANOFLHOUSE67"
+},
+{
+"text": "https://files.floridados.gov/media/706369/voterregvotingguide-eng-2024-election-cycle-20230120-final.pdf",
+"href": "https://files.floridados.gov/media/706369/voterregvotingguide-eng-2024-election-cycle-20230120-final.pdf"
+}
 ]

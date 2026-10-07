@@ -1,13 +1,46 @@
 [
-"http://linkedin.com/in/heliprilliman",
-"https://drive.google.com/drive/folders/1thehypWC_JVsIVs2nW7exx0grZYVsfu7?usp=drive_link",
-"https://helifortexas.com/",
-"https://helifortexas.com/cart",
-"https://helifortexas.com/contact",
-"https://helifortexas.com/donate",
-"https://helifortexas.com/issues",
-"https://instagram.com/helifortexas",
-"https://instagram.com/heyitsheli",
-"https://linkedin.com/in/heliprilliman",
-"https://tiktok.com/@helifortexas"
+{
+"text": "0",
+"href": "https://www.helifortexas.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.helifortexas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.helifortexas.com/donate"
+},
+{
+"text": "Heli's Press Kit",
+"href": "https://drive.google.com/drive/folders/1thehypWC_JVsIVs2nW7exx0grZYVsfu7?usp=drive_link"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/heyitsheli"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/heliprilliman/"
+},
+{
+"text": "The Issues",
+"href": "https://www.helifortexas.com/issues"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@helifortexas"
+},
+{
+"text": "[image: Heli for Congress TX-12]",
+"href": "https://www.helifortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://linkedin.com/in/heliprilliman"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/helifortexas"
+}
 ]

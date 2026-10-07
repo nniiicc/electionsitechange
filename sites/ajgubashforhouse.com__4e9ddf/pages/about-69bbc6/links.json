@@ -1,11 +1,42 @@
 [
-"https://ajgubashforhouse.com/",
-"https://ajgubashforhouse.com/about",
-"https://ajgubashforhouse.com/cart",
-"https://ajgubashforhouse.com/contact",
-"https://ajgubashforhouse.com/issues",
-"https://ajgubashforhouse.com/new-page",
-"https://facebook.com/profile.php?id=61589087111183",
-"https://instagram.com/ajgubashforhouse",
-"https://secure.winred.com/aj-gubash-for-house/donate-today"
+{
+"text": "0",
+"href": "https://www.ajgubashforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ajgubashforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ajgubashforhouse.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/aj-gubash-for-house/donate-today"
+},
+{
+"text": "EXPLORE THE ISSUES",
+"href": "https://www.ajgubashforhouse.com/new-page"
+},
+{
+"text": "Home",
+"href": "https://www.ajgubashforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.ajgubashforhouse.com/issues"
+},
+{
+"text": "[image: AJ Gubash for State House]",
+"href": "https://www.ajgubashforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61589087111183"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ajgubashforhouse/"
+}
 ]

@@ -1,12 +1,42 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://colleenmaxwellfornysassembly.com/",
-"https://colleenmaxwellfornysassembly.com/Issues",
-"https://colleenmaxwellfornysassembly.com/about-colleen",
-"https://secure.actblue.com/donate/colleen-maxwell-1"
+{
+"text": "About Colleen",
+"href": "https://www.colleenmaxwellfornysassembly.com/about-colleen"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/colleen-maxwell-1"
+},
+{
+"text": "Issues",
+"href": "https://www.colleenmaxwellfornysassembly.com/Issues"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.colleenmaxwellfornysassembly.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+}
 ]

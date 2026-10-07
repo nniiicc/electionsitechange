@@ -1,7 +1,8 @@
-Retired Superior Court Judge Jerry Tillett has announced his candidacy for the District 1 seat in the NC Senate.
+Skip to content Home Events Events News News Articles Articles Bio Bio Issues Photos Videos Press Releases Media Kit DONATE Retired Superior Court Judge Jerry Tillett to run for NC Senate District 1 seat November 5, 2025 By Outer Banks Voice Retired Superior Court Judge Jerry Tillett has announced his candidacy for the District 1 seat in the NC Senate.
 That seat is currently held by Republican Bobby Hanig, who is running for Congress next year in a reconfigured First Congressional District.
 This past May, Tillett retired from the bench after more than three decades as a Superior Court Judge.
-Here are excerpts from the release issued on Nov. 5.
+Here are excerpts from the release issued on Nov.
+5.
 A standing-room-only crowd gathered this week at a lively event hosted by the Pasquotank County Republican Party, where Jerry R.
 Tillett, retired Chief Superior Court Judge for North Carolina’s First Judicial District, officially announced his candidacy for the North Carolina Senate District 1.
 The district includes Dare, Currituck, Camden, Pasquotank, Perquimans, Gates, Northampton, Hertford, Bertie, and Tyrrell counties.
@@ -10,12 +11,18 @@ Tillett introduced himself not only as a candidate but also as a husband, father
 He spoke openly about his Christian faith, his belief in the power of prayer and the Bible, and his deep respect for the U.S.
 Constitution—a document he has sworn to uphold for more than three decades as a judge.
 “I love this country, and I love this community,” Tillett told the crowd.
-“I’ve spent my life defending the Constitution, and I’m stepping forward now to defend the values, freedoms, and future of our people.”
-Throughout his remarks, Tillett emphasized his pro-business philosophy, drawing on his experience as an entrepreneur and small-business owner since the early 1980s.
+“I’ve spent my life defending the Constitution, and I’m stepping forward now to defend the values, freedoms, and future of our people.” Throughout his remarks, Tillett emphasized his pro-business philosophy, drawing on his experience as an entrepreneur and small-business owner since the early 1980s.
 He spoke passionately about regional capitalism as a way to lift North Carolina families from minimum wage to a living wage, allowing the next generation to enter the middle class, build families, and live law-abiding, productive lives.
 “If we support business at the local level—tourism, agribusiness, working waterman, and small-scale industry—we can create sustainable jobs that keep our young people here at home,” Tillett said.
-“I will work tirelessly to attract light industry, support local entrepreneurs, and make smart use of our existing rail, highway, and port infrastructure to move North Carolina products to market.”
-When asked about the Second Amendment, Tillett was direct and unwavering:
-“I support the Second Amendment as strongly as I support every other Amendment,” he said, earning applause.
-“Every individual has the right to defend themselves, their families, and their freedom.”
-He underscored his belief that good governing must be restored through transparency, accountability, and leadership grounded in service—not politics.
+“I will work tirelessly to attract light industry, support local entrepreneurs, and make smart use of our existing rail, highway, and port infrastructure to move North Carolina products to market.” When asked about the Second Amendment, Tillett was direct and unwavering: “I support the Second Amendment as strongly as I support every other Amendment,” he said, earning applause.
+“Every individual has the right to defend themselves, their families, and their freedom.” He underscored his belief that good governing must be restored through transparency, accountability, and leadership grounded in service—not politics.
+Source: https://www.outerbanksvoice.com/2025/11/05/retired-superior-court-judge-jerry-tillett-to-run-for-nc-senate-district-1-seat/ News Search Search Search Archive December 2025 November 2025 September 2025 Tillett for Senate Jerry Tillett is running in North Carolina’s First Senatorial District race to represent Dare, Currituck, Camden, Pasquotank, Perquimans, Gates, Hertford.
+Northampton, Bertie, and Tyrrell counties.
+SMS Signup By providing your telephone number and checking the box, you consent to receive calls and text messages.
+Messages may include requests for donations.
+Msg & data rates may apply.
+Msg frequency may vary.
+Reply “STOP” to opt-out & “HELP” for help. (link to Privacy Policy page).
+Submit If you are human, leave this field blank.
+Contact tillettforsenate@gmail.com Social Facebook Instagram YouTube © # All Rights Reserved.
+Paid for by Tillett for Senate.

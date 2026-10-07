@@ -1,77 +1,21 @@
-Embedded Files
-As a constitutional conservative and lifelong Republican, I am committed to protecting and defending our values and principles.
-Priorities for the Constituents of Legislative District 1 and Arizona include the following:
-- Protect and Defend the Constitution
-- Promote a Strong Border and Election Integrity
-- Reduce the Tax Burden and Government Overregulation
-- Uphold the Right to Bear Arms
-- Stop Illegal Immigration
-- Support School Choice
-- Protect the Unborn and Sanctity of Life
-- Preserve Religious Freedom
-- Maintain a Strong and Prepared Military
-- Ensure a secure water future
-Professional Organizations
-- Life-long Conservative Republican who supports and serves the Yavapai County Republican Party as a Precinct Committeeman (Eagle Precinct) and the Republican Party of Arizona as a State Committeeman
-- Committed to promoting the principles of the Republican Party as a member of the National Federation of Republican Women, the Arizona Federation of Republican Women, and the Republican Women of Prescott
-- Member of the Arizona Republican Assembly (AZRA), ranking #1 on the Final 2024, 2025, and 2026 AZRA scorecards as the most conservative Republican legislator in the State House
-- Recognized for leadership abilities as a member of the Dodie Londen Excellence in Public Service Series (2020 Graduate)
-- Proud Member of the National Rifle Association, Board Member of the Arizona State Rifle and Pistol Association, Member of the Arizona Citizens Defense League, and Member of The Well-Armed Woman - Gunsite and Chino Valley Chapters
-- Member of the American Legislative Exchange Council (ALEC), which promotes the Jeffersonian principles of free markets, limited government, federalism, and individual liberty
-- Member of the Center for Arizona Policy (CAP) Network to promote and defend the values of life, marriage and family, and religious freedom
-- As an active member of the Citizens Water Advocacy Group (CWAG), working for a sustainable water future for Yavapai County and the state of Arizona
-- As a member of the Prescott, Prescott Valley, and Chino Valley Chambers of Commerce is engaged with and support local businesses
-Honors and Awards
-- One of 38 legislators in the US selected for the prestigious 2026 Class of Emerging Leaders at GOPAC, having demonstrated promise in positively impacting Arizona and rising within the Republican ranks, focusing on making the lives of constituents safer and better.
-- Ranked in the top three of the most effective Republican Representatives and the top two most effective freshmen Representatives in the 2024-2025 Legislative Session by the Center for Effective Lawmaking, thereby demonstrating the ability to navigate legislative procedures quickly and effectively
-- Received the 2025 and 2026 County Supervisors Association Good Government Award in recognition of outstanding leadership and dedication in championing policies that improve county government services to constituents
-- Acknowledged by the AZ Parents for Education with the 2024 Golden Apple Award in recognition of continued support for public education
-- 2023 recognized by the Yavapai County Sheriff's Office as a volunteer and champion supporting Search and Rescue across the state of Arizona
-- Arizona Constables Association 2023 Award - Recognized for outstanding support of law enforcement and peace officers in Arizona.
-- AZ Citizens Defense League 2023 Legislator of the Year - Awarded for tireless efforts in promoting the right to keep and bear arms.
-- Honored by the AZBio Association in 2023 as an Honored Elected Leader for support of Arizona's health innovation sector.
-- National League for Nursing Academy of Nursing Education Fellowship (2020) - Awarded to individuals who have made enduring and substantial contributions to nursing education.
-- Finalist for the March of Dimes 2020 Nurse of the Year - For significant contributions to educating future nurses in community college settings.
-- Yavapai College 2019 National Institute for Staff and Organizational Development (NISOD) Excellence Award Recipient – Recognized for outstanding commitment and contribution to students and colleagues.
+Search this site Embedded Files Skip to main content Skip to navigation SelinaBliss.com Home Bio Photos Endorsements Donate Contact me SelinaBliss.com Home Bio Photos Endorsements Donate Contact me More Home Bio Photos Endorsements Donate Contact me BIO As a constitutional conservative and lifelong Republican, I am committed to protecting and defending our values and principles.
+Priorities for the Constituents of Legislative District 1 and Arizona include the following: Protect and Defend the Constitution Promote a Strong Border and Election Integrity Reduce the Tax Burden and Government Overregulation Uphold the Right to Bear Arms Stop Illegal Immigration Support School Choice Protect the Unborn and Sanctity of Life Preserve Religious Freedom Maintain a Strong and Prepared Military Ensure a secure water future Professional Organizations Life-long Conservative Republican who supports and serves the Yavapai County Republican Party as a Precinct Committeeman (Eagle Precinct) and the Republican Party of Arizona as a State Committeeman Committed to promoting the principles of the Republican Party as a member of the National Federation of Republican Women, the Arizona Federation of Republican Women, and the Republican Women of Prescott Member of the Arizona Republican Assembly (AZRA), ranking #1 on the F inal 2024 , 2025 , and 2026 AZRA scorecards as the most conservative Republican legislator in the State House Recognized for leadership abilities as a member of the Dodie Londen Excellence in Public Service Series (2020 Graduate) Proud Member of the National Rifle Association, Board Member of the Arizona State Rifle and Pistol Association, Member of the Arizona Citizens Defense League, and Member of The Well-Armed Woman - Gunsite and Chino Valley Chapters Member of the American Legislative Exchange Council (ALEC), which promotes the Jeffersonian principles of free markets, limited government, federalism, and individual liberty Member of the Center for Arizona Policy (CAP) Network to promote and defend the values of life, marriage and family, and religious freedom As an active member of the Citizens Water Advocacy Group (CWAG), working for a sustainable water future for Yavapai County and the state of Arizona As a member of the Prescott, Prescott Valley, and Chino Valley Chambers of Commerce is engaged with and support local businesses Honors and Awards One of 38 legislators in the US selected for the prestigious 2026 Class of Emerging Leaders at GOPAC, having demonstrated promise in positively impacting Arizona and rising within the Republican ranks, focusing on making the lives of constituents safer and better.
+Ranked in the top three of the most effective Republican Representatives and the top two most effective freshmen Representatives in the 2024-2025 Legislative Session by the Center for Effective Lawmaking , thereby demonstrating the ability to navigate legislative procedures quickly and effectively Received the 2025 and 2026 County Supervisors Association Good Government Award in recognition of outstanding leadership and dedication in championing policies that improve county government services to constituents Acknowledged by the AZ Parents for Education with the 2024 Golden Apple Award in recognition of continued support for public education 2023 recognized by the Yavapai County Sheriff's Office as a volunteer and champion supporting Search and Rescue across the state of Arizona Arizona Constables Association 2023 Award - Recognized for outstanding support of law enforcement and peace officers in Arizona.
+AZ Citizens Defense League 2023 Legislator of the Year - Awarded for tireless efforts in promoting the right to keep and bear arms.
+Honored by the AZBio Association in 2023 as an Honored Elected Leader for support of Arizona's health innovation sector.
+National League for Nursing Academy of Nursing Education Fellowship (2020) - Awarded to individuals who have made enduring and substantial contributions to nursing education.
+Finalist for the March of Dimes 2020 Nurse of the Year - For significant contributions to educating future nurses in community college settings.
+Yavapai College 2019 National Institute for Staff and Organizational Development (NISOD) Excellence Award Recipient – Recognized for outstanding commitment and contribution to students and colleagues.
 NISOD is the National Institute for Staff and Organizational Development, a membership organization committed to promoting and celebrating excellence in teaching, learning, and leadership at community and technical colleges.
-- Yavapai College 2018 Pathways Trailblazer Award – As a member of the Pathways Committee, developed common courses for students pursuing healthcare careers.
+Yavapai College 2018 Pathways Trailblazer Award – As a member of the Pathways Committee, developed common courses for students pursuing healthcare careers.
 The development of the Pathways model at YC has boosted on-time graduation rates and student retention.
 Now a model for other colleges across the country and being presented at national conferences.
-- Capella University President’s List – Graduated with Highest Honors, Summa Cum Laude (2014).
-Civic Engagement and Volunteerism
-- Yavapai County Industrial Development Authority - Director representing District 1 (2021 to 2022)
-- Yavapai County Education Foundation - Board Member (2020 to 2022)
-- Citizens Water Advocacy Group (CWAG) - Public Policy Committee (2020 to present)
-- Yavapai County Citizen's Academy - Graduate of Class of 2020
-- Arizona State Rifle and Pistol Association - Concealed Carry (CCW) Permit Certified Instructor
-- Yavapai County Sheriff's Office Search and Rescue – Back Country Unit (2014 to present)
-- Arizona Emergency System for Advance Registration of Volunteer Health Professionals (2013 to present)
-- Yavapai County Health Department Emergency/Homeland Security Volunteer (2008 to present)
-- Northern Arizona Medical Response Corp (2005 to 2019)
-- Girl Scout Leader - Yavapai County (1991 to 2006)
-- The most effective government is government closest to the people
-- The proper role of government is to provide the people those functions that cannot be performed by individuals or private organizations and that the best government is that which governs the least
-- Government is accountable for maintaining sound money policies and a responsible economy
-- That equal rights, equal justice, and equal opportunity belong to all, regardless of race, creed, age, sex, or national origin
-- The strength of our nation lies with the individual and that each person’s dignity, freedom, ability, and responsibility must be honored
-- The right of individuals to achieve the best that is within themselves, as long as they respect the rights of others is the source of our Nation’s strength
-Employment History
-2018 to Present Expert Witness:
-A trained and experienced expert witness called to give testimony in a court of law as to proper and accepted practices in healthcare.
-2011 – Present Medical Unit Leader (Administratively Determined by Prescott National Forest):
-Manage, coordinate, and facilitate emergency and medical care for all-hazard incident management teams in the Western United States with an emphasis on wildland firefighting.
-1989 – 2021 Academic Nurse Educator, Yavapai College (Faculty Emeritus 2022 to Present):
-Professor for leadership and management nursing courses for second-year nursing students in the Associate of Applied Science Degree Program for both the Prescott and Verde Campuses.
+Capella University President’s List – Graduated with Highest Honors, Summa Cum Laude (2014).
+Civic Engagement and Volunteerism Yavapai County Industrial Development Authority - Director representing District 1 (2021 to 2022) Yavapai County Education Foundation - Board Member (2020 to 2022) Citizens Water Advocacy Group (CWAG) - Public Policy Committee (2020 to present) Yavapai County Citizen's Academy - Graduate of Class of 2020 Arizona State Rifle and Pistol Association - Concealed Carry (CCW) Permit Certified Instructor Yavapai County Sheriff's Office Search and Rescue – Back Country Unit (2014 to present) Arizona Emergency System for Advance Registration of Volunteer Health Professionals (2013 to present) Yavapai County Health Department Emergency/Homeland Security Volunteer (2008 to present) Northern Arizona Medical Response Corp (2005 to 2019) Girl Scout Leader - Yavapai County (1991 to 2006) Committed to promoting the principles of the Republican Party The most effective government is government closest to the people The proper role of government is to provide the people those functions that cannot be performed by individuals or private organizations and that the best government is that which governs the least Government is accountable for maintaining sound money policies and a responsible economy That equal rights, equal justice, and equal opportunity belong to all, regardless of race, creed, age, sex, or national origin The strength of our nation lies with the individual and that each person’s dignity, freedom, ability, and responsibility must be honored The right of individuals to achieve the best that is within themselves, as long as they respect the rights of others is the source of our Nation’s strength Employment History 2018 to Present Expert Witness: A t rained and experienced expert witness called to give testimony in a court of law as to proper and accepted practices in healthcare.
+2011 – Present Medical Unit Leader (Administratively Determined by Prescott National Forest): Manage, coordinate, and facilitate emergency and medical care for all-hazard incident management teams in the Western United States with an emphasis on wildland firefighting.
+1989 – 2021 Academic Nurse Educator, Yavapai College (Faculty Emeritus 2022 to Present): Professor for leadership and management nursing courses for second-year nursing students in the Associate of Applied Science Degree Program for both the Prescott and Verde Campuses.
 Previously taught acute care and intravenous therapy/phlebotomy courses.
 Clinical Nurse Educator for fourth-semester nursing students in preceptorship at Yavapai Regional Medical Center West and East Campuses.
-1984 – 2019 Staff Nurse, Yavapai Regional Medical Center:
-Provide acute care to cardiac, surgical, medical, trauma, and neurological patients in the post-operative areas.
+1984 – 2019 Staff Nurse, Yavapai Regional Medical Center: Provide acute care to cardiac, surgical, medical, trauma, and neurological patients in the post-operative areas.
 Experience in the intensive care and medical-surgical units as well as the emergency department.
-Selina Sieh Bliss, PhD, RN
-Educational Preparation
-- Doctorate in Nursing Education (PhD), 2014, Capella University
-- Master of Science in Nursing (MS) 1992, Arizona State University
-- Bachelor of Science in Nursing (BSN) 1984, Arizona State University
-- High School 1980, Prescott High School
-Google Sites
-Report abuse
+Selina Sieh Bliss, PhD, RN Educational Preparation Doctorate in Nursing Education (PhD), 2014, Capella University Master of Science in Nursing (MS) 1992, Arizona State University Bachelor of Science in Nursing (BSN) 1984, Arizona State University High School 1980, Prescott High School Google Sites Report abuse Google Sites Report abuse

@@ -1,9 +1,13 @@
 {
  "description": "See where Margaret Spear stands on schools, taxes, and healthcare for Georgia House District 3.",
  "final_url": "https://spearforga.com/platform?tab=healthcare",
+ "fingerprint": "5c4c93104a000d293400f75b053e4d799bd9aaba",
+ "format": 3,
  "paid_for_by": "Paid for by Margaret Spear for Georgia House District 3 Election 2026",
- "title": "My Platform \u2014 Margaret Spear for Georgia House District 3",
+ "title": "My Platform — Margaret Spear for Georgia House District 3",
  "years_mentioned": [
+  "1985",
+  "2009",
   "2012",
   "2014",
   "2019",
@@ -13,6 +17,7 @@
   "2024",
   "2025",
   "2026",
-  "2027"
+  "2027",
+  "2032"
  ]
 }

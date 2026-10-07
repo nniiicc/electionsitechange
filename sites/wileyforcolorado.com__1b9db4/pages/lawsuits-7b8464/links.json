@@ -1,29 +1,162 @@
 [
-"https://bonfire.com/store/red-flame-of-liberty",
-"https://facebook.com/redflameofliberty",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/050f2ee4-f87e-4cda-b3d2-3c1df9159cc3.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-01%2017-17-53%20Petition%20Pursuant%20to%201%2010..pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-31%2018-16-15%20Petition%20to%20Supreme%20Court%20.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-09-13%2012-50-38%20El%20Paso%20SC%20CAR%2021%20Final.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/20220928182246845_Petition%20for%20Writ%20ORourke.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-01%2010-41-14%20Libertarian%20Petition%20113%20F.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-08%2023-56-06%20LPCO%20113%20Appeal%20to%20SC%20Fina.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/c2bbbc24-3425-4ea2-a884-9f4d04361e4a.pdf",
-"https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/gov.uscourts.cod.203235.48.1_2.pdf",
-"https://instagram.com/redflameofliberty",
-"https://linkedin.com/in/redflameofliberty",
-"https://secure.anedot.com/red-flame-of-liberty/donate",
-"https://tiktok.com/@redflameofliberty",
-"https://wileyforcolorado.com/bio",
-"https://wileyforcolorado.com/elections",
-"https://wileyforcolorado.com/endorsements",
-"https://wileyforcolorado.com/exhibitions",
-"https://wileyforcolorado.com/home",
-"https://wileyforcolorado.com/in-the-media",
-"https://wileyforcolorado.com/issues",
-"https://wileyforcolorado.com/lawsuits",
-"https://wileyforcolorado.com/videos",
-"https://wileyforcolorado.com/volunteer",
-"https://x.com/redflameliberty",
-"https://youtube.com/@redflameofliberty"
+{
+"text": "Background",
+"href": "https://wileyforcolorado.com/home#d7714021-aab1-4289-90e7-1bdb2683b62a"
+},
+{
+"text": "Bio",
+"href": "https://wileyforcolorado.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://wileyforcolorado.com/home#147a6eef-fcb2-467a-9136-5e3a40db16b4"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/red-flame-of-liberty/donate"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/050f2ee4-f87e-4cda-b3d2-3c1df9159cc3.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-01%2017-17-53%20Petition%20Pursuant%20to%201%2010..pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-31%2018-16-15%20Petition%20to%20Supreme%20Court%20.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-09-13%2012-50-38%20El%20Paso%20SC%20CAR%2021%20Final.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/20220928182246845_Petition%20for%20Writ%20ORourke.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-01%2010-41-14%20Libertarian%20Petition%20113%20F.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-08%2023-56-06%20LPCO%20113%20Appeal%20to%20SC%20Fina.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/c2bbbc24-3425-4ea2-a884-9f4d04361e4a.pdf"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/gov.uscourts.cod.203235.48.1_2.pdf"
+},
+{
+"text": "Elections",
+"href": "https://wileyforcolorado.com/elections"
+},
+{
+"text": "Endorsements",
+"href": "https://wileyforcolorado.com/endorsements"
+},
+{
+"text": "Exhibitions",
+"href": "https://wileyforcolorado.com/exhibitions"
+},
+{
+"text": "Home",
+"href": "https://wileyforcolorado.com/home"
+},
+{
+"text": "In the Media",
+"href": "https://wileyforcolorado.com/in-the-media"
+},
+{
+"text": "Issues",
+"href": "https://wileyforcolorado.com/home#007840ee-15ed-47fd-bac1-2dceb8922de8"
+},
+{
+"text": "Issues",
+"href": "https://wileyforcolorado.com/issues"
+},
+{
+"text": "Lawsuits",
+"href": "https://wileyforcolorado.com/lawsuits"
+},
+{
+"text": "New Merch Available!",
+"href": "https://www.bonfire.com/store/red-flame-of-liberty/"
+},
+{
+"text": "Videos",
+"href": "https://wileyforcolorado.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://wileyforcolorado.com/volunteer"
+},
+{
+"text": "[image: Libertarian for congress]",
+"href": "https://wileyforcolorado.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/050f2ee4-f87e-4cda-b3d2-3c1df9159cc3.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-01%2017-17-53%20Petition%20Pursuant%20to%201%2010..pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-08-31%2018-16-15%20Petition%20to%20Supreme%20Court%20.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2022-09-13%2012-50-38%20El%20Paso%20SC%20CAR%2021%20Final.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/20220928182246845_Petition%20for%20Writ%20ORourke.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-01%2010-41-14%20Libertarian%20Petition%20113%20F.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/2024-11-08%2023-56-06%20LPCO%20113%20Appeal%20to%20SC%20Fina.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/c2bbbc24-3425-4ea2-a884-9f4d04361e4a.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/f63143a7-dc59-425d-b130-dc0249f90c6e/gov.uscourts.cod.203235.48.1_2.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/redflameofliberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/redflameofliberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/redflameofliberty/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@redflameofliberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/redflameliberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@redflameofliberty"
+}
 ]

@@ -1,13 +1,50 @@
 [
-"https://chilatl.com/",
-"https://facebook.com/PhilForGeorgia",
-"https://instagram.com/philforgeorgia",
-"https://philforgeorgia.com/",
-"https://philforgeorgia.com/about",
-"https://philforgeorgia.com/cart",
-"https://philforgeorgia.com/contact",
-"https://philforgeorgia.com/newsletter",
-"https://philforgeorgia.com/priorities",
-"https://secure.actblue.com/donate/repphil23",
-"https://x.com/PhilforGeorgia"
+{
+"text": "0",
+"href": "https://www.philforgeorgia.com/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://www.philforgeorgia.com/contact"
+},
+{
+"text": "Chil & Co.",
+"href": "https://www.chilatl.com/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/repphil23"
+},
+{
+"text": "MEET PHIL",
+"href": "https://www.philforgeorgia.com/about"
+},
+{
+"text": "NEWSLETTERS",
+"href": "https://www.philforgeorgia.com/newsletter"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.philforgeorgia.com/priorities"
+},
+{
+"text": "[image: Phil Olaleye for Georgia State Representative]",
+"href": "https://www.philforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/PhilForGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/philforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PhilforGeorgia"
+},
+{
+"text": "phil@philforgeorgia.com",
+"href": "mailto:info@philforgeorgia.com?subject=Web+Form+Submission"
+}
 ]

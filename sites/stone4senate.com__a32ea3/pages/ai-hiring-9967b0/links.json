@@ -1,9 +1,50 @@
 [
-"https://facebook.com/StrongWithStone",
-"https://secure.actblue.com/donate/spencer-stone",
-"https://stone4senate.com/",
-"https://stone4senate.com/cdn-cgi/l/email-protection",
-"https://stone4senate.com/district-lookup",
-"https://stone4senate.com/press",
-"https://stone4senate.com/signup"
+{
+"text": "About",
+"href": "https://stone4senate.com/#about"
+},
+{
+"text": "District Lookup",
+"href": "https://stone4senate.com/district-lookup/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencer-stone"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/StrongWithStone/"
+},
+{
+"text": "Get Involved",
+"href": "https://stone4senate.com/signup/"
+},
+{
+"text": "Issues",
+"href": "https://stone4senate.com/#focused"
+},
+{
+"text": "Press",
+"href": "https://stone4senate.com/press/"
+},
+{
+"text": "Share your feedback →",
+"href": "mailto:press@stone4senate.com?subject=Feedback+on+the+AI-in-Hiring+Plan"
+},
+{
+"text": "Strong with Stone",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@stone4senate.com"
+},
+{
+"text": "stone4senate.com",
+"href": "https://stone4senate.com/"
+},
+{
+"text": "← Back to stone4senate.com",
+"href": "https://stone4senate.com/"
+}
 ]

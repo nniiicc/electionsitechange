@@ -1,15 +1,13 @@
-Oklahoma City, OK – Jordan Sekulow is one of the most respected legal minds in the conservative movement.
+Skip to content Home Priorities Meet Jon News Endorsements Media Contact Home Priorities Meet Jon News Endorsements Media Contact Donate Jordan Sekulow, Executive Director of the ACLJ, Endorses Jon Echols for AG January 28, 2026 Oklahoma City, OK – Jordan Sekulow is one of the most respected legal minds in the conservative movement.
 His work with the ACLJ and as a private attorney have set him apart as a champion for conservative values.
 Today, he announced his endorsement of Jon Echols for Oklahoma Attorney General.
 Check out the video here!
-Speaking on his endorsement of Echols, Sekulow stated, “When the ACLJ needed a conservative attorney in Oklahoma to stand with us to protect religious liberty and defend the Constitution; we called Jon Echols.
-From the case to keep President Trump on the ballot, to defending school choice, to protecting life and our conservative values; Jon Echols was there.”
-Most notably, Echols joined with the ACLJ in Federal Court to keep President Trump on the ballot after a lawsuit was filed in Oklahoma to remove him.
+Speaking on his endorsement of Echols, Sekulow stated, “ When the ACLJ needed a conservative attorney in Oklahoma to stand with us to protect religious liberty and defend the Constitution; we called Jon Echols.
+From the case to keep President Trump on the ballot, to defending school choice, to protecting life and our conservative values; Jon Echols was there. ” Most notably, Echols joined with the ACLJ in Federal Court to keep President Trump on the ballot after a lawsuit was filed in Oklahoma to remove him.
 The case was dismissed!
-“I am so thankful to have Jordan Sekulow’s endorsement in this race, and it has been a privilege to work with him, and others at the ACLJ, to stand up for Oklahomans conservative principles,” Echols said.
-“Results matter and I have the proven track record of conservative leadership like defending religious liberty, passing constitutional carry, and defending President Trump.
-Oklahomans are resonating to these accomplishments, and I look forward to continuing to fight for them as Attorney General.”
-Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
+“I am so thankful to have Jordan Sekulow’s endorsement in this race, and it has been a privilege to work with him, and others at the ACLJ, to stand up for Oklahomans conservative principles,” Echols said. “ Results matter and I have the proven track record of conservative leadership like defending religious liberty, passing constitutional carry, and defending President Trump .
+Oklahomans are resonating to these accomplishments, and I look forward to continuing to fight for them as Attorney General.” Jon Echols is a 5th-generation Oklahoman, an accomplished attorney, a small business owner, and is the former Majority Floor Leader of the Oklahoma House of Representatives.
 Holding the title for 8 years, he is the longest-serving Floor Leader in Oklahoma history.
 Jon has a proven track record of conservative leadership and is running for Attorney General to make Oklahoma safer, freer, and stronger.
-###
+### Share: More Posts Oklahoma Farm Bureau Endorses Jon Echols for Attorney General Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, Oklahoma Faith Leaders President, Paul Abner, Endorses Jon Echols for Attorney General Oklahoma City, OK – As Oklahoma conservatives continue to coalesce behind one candidate for Attorney General, Jon Echols, the President for Oklahoma Faith Leaders, Paul Polling Memo: Echols Holds Commanding Lead in AG’s Race New polling is out and it shows Jon Echols up by 20 points in the Republican Primary for Attorney General.
+The full memo is below Media Advisory: Echols to File for Attorney General Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.

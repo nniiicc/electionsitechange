@@ -1,16 +1,15 @@
-Congresswomen Susie Lee and Kristen McDonald Rivet led 23 of their House Democratic colleagues in a letter calling for an immediate, impartial, and transparent investigation into the tragic shooting of Renee Nicole Good by an Immigration and Customs Enforcement (ICE) agent in Minneapolis, Minnesota.
+Skip to main content about news volunteer Donate Susie Lee for Congress Congresswomen Lee, McDonald Rivet Lead Battleground Colleagues to Call for Transparent Investigation into Minnesota ICE Shooting Jan 25, 2026 Back to all news Congresswomen Susie Lee and Kristen McDonald Rivet led 23 of their House Democratic colleagues in a letter calling for an immediate, impartial, and transparent investigation into the tragic shooting of Renee Nicole Good by an Immigration and Customs Enforcement (ICE) agent in Minneapolis, Minnesota.
 In their letter, the Members wrote, “The widely circulated footage of Ms.
 Good’s killing is deeply troubling.
 Her family and the American public deserve clear answers and accountability.
 Law enforcement officers are routinely entrusted with making split-second decisions under challenging conditions.
 That trust depends on sound judgment, appropriate deployment, and accountability when standards are not met.
-When the government’s duty to protect life and uphold the rule of law is in question, we must have rigorous oversight to understand what went wrong, ensure accountability, and prevent future tragedies, making an immediate, unbiased investigation is essential.”
-The Members also requested Secretary of Homeland Security Kristi Noem and Acting ICE Director Todd Lyons respond to the following questions:
-- Please provide a full accounting of personnel and resources diverted to ICE operations since January 20, 2025, and any assessments of the resulting impacts on counter-terrorism, child sex trafficking, drug trafficking, disaster response, public safety, and other federal law enforcement missions.
-- In light of Ms.
+When the government’s duty to protect life and uphold the rule of law is in question, we must have rigorous oversight to understand what went wrong, ensure accountability, and prevent future tragedies, making an immediate, unbiased investigation is essential.” The Members also requested Secretary of Homeland Security Kristi Noem and Acting ICE Director Todd Lyons respond to the following questions: Please provide a full accounting of personnel and resources diverted to ICE operations since January 20, 2025, and any assessments of the resulting impacts on counter-terrorism, child sex trafficking, drug trafficking, disaster response, public safety, and other federal law enforcement missions.
+In light of Ms.
 Good’s tragic death, what steps is the Department of Homeland Security taking to ensure transparency, accountability, and oversight of ICE operations moving forward?
-- What training standards and requirements govern ICE officers, including initial training, continuing education, and instruction on use of force and de-escalation?
-- How does ICE ensure consistent adherence to use-of-force policies, and what accountability mechanisms are triggered following a serious injury or fatal incident?
-- How many ICE personnel are currently assigned to or deployed within each undersigned Member’s congressional district?
-- How many individuals are currently in ICE custody from each undersigned Member’s congressional district?
+What training standards and requirements govern ICE officers, including initial training, continuing education, and instruction on use of force and de-escalation?
+How does ICE ensure consistent adherence to use-of-force policies, and what accountability mechanisms are triggered following a serious injury or fatal incident?
+How many ICE personnel are currently assigned to or deployed within each undersigned Member’s congressional district?
+How many individuals are currently in ICE custody from each undersigned Member’s congressional district?
 Along with Congresswomen Lee and McDonald Rivet, the letter was also signed by Representatives Sharice Davids, Eugene Vindman, Val Hoyle, April McClain Delaney, Josh Riley, Jahana Hayes, John Mannion, Frank Mrvan, Andrea Salinas, Derek Tran, Marcy Kaptur, George Whitesides, Emilia Sykes, Eric Sorensen, Hillary Scholten, Greg Landsman, Adam Gray, Dave Min, Kim Schrier, Gabe Vasquez, Dina Titus, Chris Pappas, and Angie Craig.
+### 5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

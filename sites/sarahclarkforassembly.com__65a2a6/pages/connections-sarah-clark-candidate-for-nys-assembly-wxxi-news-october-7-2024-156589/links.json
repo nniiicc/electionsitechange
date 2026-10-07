@@ -1,16 +1,58 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/advocates-push-hochul-to-sign-child-care-bills",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://secure.actblue.com/donate/votesarah",
-"https://wxxinews.org/show/connections/2024-10-07/sarah-clark-candidate-for-nys-assembly-district-136"
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Advocates push Hochul to sign child care bills geared toward modernizing assistance process",
+"href": "https://sarahclarkforassembly.com/advocates-push-hochul-to-sign-child-care-bills/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "WXXI News",
+"href": "https://www.wxxinews.org/show/connections/2024-10-07/sarah-clark-candidate-for-nys-assembly-district-136"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+}
 ]

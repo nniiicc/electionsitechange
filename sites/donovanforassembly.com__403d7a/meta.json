@@ -1,7 +1,11 @@
 {
  "description": "I'm Bob Donovan. I'm running to be your next state assemblyman for the 84th district.",
  "final_url": "https://www.donovanforassembly.com/",
+ "fingerprint": "0612d89d4eaf232307b8c8826b31ba5bdb7fe826",
+ "format": 3,
  "paid_for_by": "Paid for by Donovan for Assembly, Steve Smith, Treasurer",
  "title": "Donovan for Assembly",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

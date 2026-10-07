@@ -1,12 +1,34 @@
 [
-"http://frankfortforjudge.com/",
-"https://frankfortforjudge.com/",
-"https://frankfortforjudge.com/accessibility-statement-1",
-"https://frankfortforjudge.com/contact",
-"https://frankfortforjudge.com/cookie-policy",
-"https://frankfortforjudge.com/disclaimers",
-"https://frankfortforjudge.com/donate-now",
-"https://frankfortforjudge.com/privacy-policy",
-"https://frankfortforjudge.com/services-4",
-"https://frankfortforjudge.com/terms-and-conditions"
+{
+"text": "About Todd Frankfort",
+"href": "https://www.frankfortforjudge.com"
+},
+{
+"text": "Contact",
+"href": "https://www.frankfortforjudge.com/contact"
+},
+{
+"text": "Cookie Policy",
+"href": "https://www.frankfortforjudge.com/cookie-policy"
+},
+{
+"text": "Donate Now",
+"href": "https://www.frankfortforjudge.com/donate-now"
+},
+{
+"text": "Endorsements",
+"href": "https://www.frankfortforjudge.com/services-4"
+},
+{
+"text": "Home",
+"href": "https://www.frankfortforjudge.com"
+},
+{
+"text": "[image: Todd Frankfort for Judge Logo]",
+"href": "http://frankfortforjudge.com"
+},
+{
+"text": "tmftex@gmail.com",
+"href": "mailto:tmftex@gmail.com?subject=Privacy+Policy"
+}
 ]

@@ -1,42 +1,178 @@
 [
-"http://adamsmith.org/smith/won-b1-c6.htm",
-"http://cato.org/ccs/const-theory.html",
-"http://fee.org/freeman/89/boaz.html",
-"http://fee.org/freeman/90/smiley.html",
-"http://fee.org/freeman/93/MACHAN2.html",
-"http://fee.org/freeman/95/MEINERS.html",
-"http://fee.org/freeman/95/PECQUET.html",
-"http://fee.org/freeman/95/PERRY2.html",
-"http://fee.org/freeman/96/9606/MARZULLA.html",
-"http://fee.org/freeman/97/9702/GREAVES2.html",
-"http://fee.org/freeman/98/9802/baldwin.html",
-"http://fee.org/freeman/for-appearances-sake",
-"http://fff.org/comment/ed1101h.asp",
-"http://free-market.net/spotlight/castle",
-"http://garynorth.com/public/14767.cfm",
-"http://independent.org/",
-"http://independent.org/archive/property_rights.html",
-"http://kevincraig.us/",
-"http://kevincraig.us/dominion.htm",
-"http://lp.org/issues/platform/indisove.html",
-"http://lp.org/issues/platform/righprop.html",
-"http://lp.org/press/archive.php?function=list&type=topic&topic=Property+Rights",
-"http://press-pubs.uchicago.edu/founders/documents/v1ch16s5.html",
-"http://propertyrightsresearch.org/",
-"http://regulation.org/socissues.html",
-"http://takingliberty.us/",
-"http://thenewamerican.com/focus/property/index.htm",
-"http://wallbuilders.com/LIBissuesArticles.asp?id=1099",
-"http://web.archive.org/web/20020909220851/http://mir.drugtext.org/olsen/COMMON/factfict.html",
-"https://kevincraig.us/EndTheWall/HolyTrinity.htm",
-"https://kevincraig.us/campaign.htm",
-"https://kevincraig.us/contents.htm",
-"https://kevincraig.us/creationism.htm",
-"https://kevincraig.us/duty.htm",
-"https://kevincraig.us/executive.htm",
-"https://kevincraig.us/interp.htm",
-"https://kevincraig.us/judicial.htm",
-"https://kevincraig.us/legislative.htm",
-"https://kevincraig.us/organic.htm",
-"https://kevincraig.us/prosperity.htm"
+{
+"text": "\"No Trespassing!\"",
+"href": "http://www.garynorth.com/public/14767.cfm"
+},
+{
+"text": "A Man's Home is his Castle",
+"href": "http://www.free-market.net/spotlight/castle/"
+},
+{
+"text": "Campaign Finance, Corruption and the Oath of Office",
+"href": "https://kevincraig.us/campaign.htm"
+},
+{
+"text": "Constitution: Fact or Fiction",
+"href": "http://web.archive.org/web/20020909220851/http://mir.drugtext.org/olsen/COMMON/factfict.html"
+},
+{
+"text": "Constitutional Theory and Limited Government",
+"href": "http://www.cato.org/ccs/const-theory.html"
+},
+{
+"text": "Domestic",
+"href": "https://kevincraig.us/contents.htm#Domestic"
+},
+{
+"text": "Executive Power",
+"href": "https://kevincraig.us/executive.htm"
+},
+{
+"text": "For Appearance's Sake",
+"href": "http://fee.org/freeman/for-appearances-sake/"
+},
+{
+"text": "Foreign",
+"href": "https://kevincraig.us/contents.htm#Foreign"
+},
+{
+"text": "Government",
+"href": "https://kevincraig.us/contents.htm#Government"
+},
+{
+"text": "INDIVIDUAL SOVEREIGNTY",
+"href": "http://www.lp.org/issues/platform/indisove.html"
+},
+{
+"text": "In Defense of Property Rights and Capitalism",
+"href": "http://fee.org/freeman/93/MACHAN2.html"
+},
+{
+"text": "It Takes a Market",
+"href": "http://fee.org/freeman/97/9702/GREAVES2.html"
+},
+{
+"text": "Judicial Usurpation",
+"href": "https://kevincraig.us/judicial.htm"
+},
+{
+"text": "Legislative Intervention",
+"href": "https://kevincraig.us/legislative.htm"
+},
+{
+"text": "Morality and Culture",
+"href": "https://kevincraig.us/contents.htm#Culture"
+},
+{
+"text": "More on The Pursuit of Happiness",
+"href": "https://kevincraig.us/prosperity.htm"
+},
+{
+"text": "Private Property and Government Under the Constitution",
+"href": "http://fee.org/freeman/95/PECQUET.html"
+},
+{
+"text": "Private Property from Someto to Shanghai",
+"href": "http://fee.org/freeman/89/boaz.html"
+},
+{
+"text": "Property Rights",
+"href": "http://www.independent.org/archive/property_rights.html"
+},
+{
+"text": "Property Rights",
+"href": "http://www.lp.org/press/archive.php?function=list&type=topic&topic=Property+Rights"
+},
+{
+"text": "Property Rights",
+"href": "http://www.regulation.org/socissues.html#Property%20Rights:"
+},
+{
+"text": "Property Rights",
+"href": "http://www.thenewamerican.com/focus/property/index.htm"
+},
+{
+"text": "Property Rights Research",
+"href": "http://www.propertyrightsresearch.org"
+},
+{
+"text": "Property and the Moral Life",
+"href": "http://fee.org/freeman/98/9802/baldwin.html"
+},
+{
+"text": "Remembering the Constitution",
+"href": "http://www.fff.org/comment/ed1101h.asp"
+},
+{
+"text": "THE RIGHT TO PROPERTY",
+"href": "http://www.lp.org/issues/platform/righprop.html"
+},
+{
+"text": "Taking Liberty - How Private Property is Being Abolished in America",
+"href": "http://www.takingliberty.us/"
+},
+{
+"text": "The Role of Rights",
+"href": "http://fee.org/freeman/95/MEINERS.html"
+},
+{
+"text": "The Social Role of Property Rights",
+"href": "http://fee.org/freeman/90/smiley.html"
+},
+{
+"text": "Today's Fight for Property Rights",
+"href": "http://fee.org/freeman/96/9606/MARZULLA.html"
+},
+{
+"text": "WallBuilders - Private Property Rights Resolution",
+"href": "http://www.wallbuilders.com/LIBissuesArticles.asp?id=1099"
+},
+{
+"text": "Why Socialism Failed",
+"href": "http://fee.org/freeman/95/PERRY2.html"
+},
+{
+"text": "[no text]",
+"href": "http://kevincraig.us"
+},
+{
+"text": "a Christian nation",
+"href": "https://kevincraig.us/EndTheWall/HolyTrinity.htm"
+},
+{
+"text": "acknowledge God",
+"href": "https://kevincraig.us/duty.htm"
+},
+{
+"text": "evolved",
+"href": "https://kevincraig.us/creationism.htm"
+},
+{
+"text": "http://press-pubs.uchicago.edu/founders/documents/v1ch11s10.html",
+"href": "http://press-pubs.uchicago.edu/founders/documents/v1ch16s5.html"
+},
+{
+"text": "http://press-pubs.uchicago.edu/founders/documents/v1ch16s5.html",
+"href": "http://press-pubs.uchicago.edu/founders/documents/v1ch16s5.html"
+},
+{
+"text": "http://www.adamsmith.org/smith/won-b1-c6.htm",
+"href": "http://www.adamsmith.org/smith/won-b1-c6.htm"
+},
+{
+"text": "independent.org",
+"href": "http://www.independent.org/"
+},
+{
+"text": "interpretation",
+"href": "https://kevincraig.us/interp.htm"
+},
+{
+"text": "organic law",
+"href": "https://kevincraig.us/organic.htm"
+},
+{
+"text": "the Creator gave to man dominion over the earth",
+"href": "http://kevincraig.us/dominion.htm"
+}
 ]

@@ -1,8 +1,26 @@
 [
-"https://carlrmartin.com/",
-"https://carlrmartin.com/contact",
-"https://carlrmartin.com/current-legislation",
-"https://carlrmartin.com/issues",
-"https://carlrmartin.com/news-and-press-releases",
-"https://facebook.com/robbiemartinwv"
+{
+"text": "Contact",
+"href": "https://www.carlrmartin.com/contact"
+},
+{
+"text": "Current Legislation",
+"href": "https://www.carlrmartin.com/current-legislation"
+},
+{
+"text": "Facebook Page - Click Here!",
+"href": "https://facebook.com/robbiemartinwv"
+},
+{
+"text": "Home",
+"href": "https://www.carlrmartin.com"
+},
+{
+"text": "Issues",
+"href": "https://www.carlrmartin.com/issues"
+},
+{
+"text": "News & Press Releases",
+"href": "https://www.carlrmartin.com/news-and-press-releases"
+}
 ]

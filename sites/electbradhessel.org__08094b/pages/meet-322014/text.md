@@ -1,4 +1,5 @@
-Born in Manhattan, raised in Westchester County north of NYC, and schooled in New England, Brad—along with the wife and three kids—moved to Raleigh in 1992.
+Skip to content ‪(919) 307-9413‬ Facebook-f X-twitter Instagram Youtube Envelope Meet Meet the Candidate Senate 18 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-Effective Healthcare Expanded Housing Market Restore Equal Justice Abolish the ABC!
+Electoral Reform—Independent Voters Electoral Reform—Gerrymandering Electoral Reform—Instant Runoff Voting Problem Solvers Caucus Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Yankee by Birth, Southener by Choice Born in Manhattan, raised in Westchester County north of NYC, and schooled in New England, Brad—along with the wife and three kids—moved to Raleigh in 1992.
 “I can now use y’all properly in a sentence,” he proudly asserts.
 Building on early career experience working for the legendary game publisher, Simulations Publications, Inc., Brad parlayed expertise in technical documentation and training into a job with the IBM-funded First Boston spinoff, Seer Technologies, which set up shop in Cary in 1991.
 Segueing into the then-new field of knowledge management, Brad served as Seer’s “knowledge broker” for several years, ensuring that the world-wide sales staff had the information about Seer’s software—and intelligence about competing products—they needed to convert prospects into customers.
@@ -13,12 +14,11 @@ Court-mandated redistricting in 2017 moved both of them from Senate 15 to Senate
 “The redistricting is confusing,” he says.
 “The lines are supposed to be changed only once every ten years, but the General Assembly so badly botched the job following the 2010 census that taxpayer dollars have been squandered every year since then on court battles and constantly redrawing the boundaries of disputed districts.
 One of my fellow candidates, Michael Nelson, is running for NC House for the third time in the last five years: he hasn’t moved, but in 2020 he ran for H35, in 2022 he ran for H40, and this year he is running for H66.
-If elected, I pledge to sponsor legislation to establish an independent, non-partisan body to create compact electoral districts and end the practice of gerrymandering engaged in by both establishment parties.”
-For fun, Brad enjoys rooting for the Wolfpack (devoted fan since 1972), playing soccer, target shooting, sampling craft beer, playing Starcraft, Bubbleshooter, and Civ 6 online, driving for Uber on Saturday nights when the wife is out of town, science fiction, and talking politics.
+If elected, I pledge to sponsor legislation to establish an independent, non-partisan body to create compact electoral districts and end the practice of gerrymandering engaged in by both establishment parties.” For fun, Brad enjoys rooting for the Wolfpack (devoted fan since 1972), playing soccer, target shooting, sampling craft beer, playing Starcraft, Bubbleshooter, and Civ 6 online, driving for Uber on Saturday nights when the wife is out of town, science fiction, and talking politics.
 He is also a member of the Beth Meyer Social Action Committee and a two-time North Carolina FC Youth (neé Capital Area Soccer League) Volunteer-of-the-Year award winner, having coordinated the HS subdivision of their Rec league—a few dozen teams—for several years.
 Brad and the wife of 43 years, Madge Cohen, still share the same North Raleigh house the family moved to back in 1992.
 Well, there’s now also a cat, Mustapha.
-I am running for election to the General Assembly because I believe in the people of North Carolina.
+Please Remove the Handcuffs I am running for election to the General Assembly because I believe in the people of North Carolina.
 I believe in their spirit, their ingenuity, and their compassion.
 We succeed best in solving humanity’s most critical challenges through voluntary social cooperation and free market innovation…and I want North Carolina to be a place where people can pursue such success with dignity, respect, and understanding.
 North Carolina Libertarians are particularly proud of the many ways in which neighbors help neighbors, families encourage families, and how people are strengthened when coming together with mutual respect and understanding in our state.
@@ -30,3 +30,6 @@ And we believe in the Platinum Rule: treat others the way they want to be treate
 I pledge to treat my opponents with respect and not act as if I believe that anyone who disagrees with me is either an idiot or malicious.
 I am running to represent all the people of Senate 18, including my opponents’ supporters.
 If elected, I will work across all aisles to deliver the very best results for North Carolina.
+LEARN MORE ABOUT OUR CAMPAIGN FOR LIBERTY IN NORTH CAROLINA Sign up for our email newsletter and receive occasional news and event communications from the campaign.
+First Name Last Name Email Subscribe Now Together we can restore power and the pursuit of happiness to the people!
+Join Us Contribute Volunteer Events News Voting Voter Lookup Voter Registration Polling Stations Early Voting Election Day Libertarian Party LP National website LPNC website LPNC Facebook LPNC Twitter WakeLP website Contact CEBH 7904 Sagewood Ct., Raleigh, NC 27615 ‪(919) 307-9413‬ info@electbradhessel.org Facebook-f X-twitter Instagram Youtube

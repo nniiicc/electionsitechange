@@ -1,5 +1,4 @@
-EPB hosts first-ever “Quantum in Business” conference in Chattanooga
-EPB hosted its inaugural Quantum in Business conference in Chattanooga on Thursday, October 1.
+0 Skip to Content About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE Open Menu Close Menu About Delivering for District 11 Endorsements Community Media Bo's Bash Newsletter Tennessee Today Podcast Contact Bo DONATE EPB hosts first-ever “Quantum in Business” conference in Chattanooga Oct 1 Written By Waterhouse PR EPB hosted its inaugural Quantum in Business conference in Chattanooga on Thursday, October 1.
 Officials describe the conference as being designed for business leaders to discuss how quantum technologies are being used to address real-world challenges.
 Basically, the conference is meant to show businesses why they should invest in the technology.
 Industry executives, technology experts, policymakers and government officials attended the conference on Thursday at The Westin.
@@ -14,3 +13,4 @@ We have all kinds of businesses looking to locate here.
 Having this kind of technology available to them, again, affecting their efficiency, affecting their productivity in a positive way, should drive more and more industry and business to come to this state.
 And when those people start coming, that brings more research and development, that brings more people into the academic space, which helps us continue to develop our workforce and help to develop our students for the future that this economy is creating,” said Sen.
 Watson.
+READ THE FULL ARTICLE Waterhouse PR Previous Previous Walnut Street Bridge Reopens Next Next Portion Of Amnicola Highway Named in Honor of K-9 Diesel Bo for Tennessee About Priorities Media Contact

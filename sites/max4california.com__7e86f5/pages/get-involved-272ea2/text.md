@@ -1,14 +1,1 @@
-MAX HSIA
-FOR STATE ASSEMBLY
-DISTRICT 24
-Home
-About
-Events
-Volunteer
-Contact
-Endorsements
-Community Outreach
-NEWS
-Campaign Activities
-Join Max, Stand with Us
-Tell us how you’d like to get involved, a member of our team will get in touch soon
+top of page MAX HSIA FOR STATE ASSEMBLY DISTRICT 24 Help Max Win SUBSCRIBE Home About Events Volunteer Contact Endorsements Community Outreach NEWS Campaign Activities GET INVOLVED Join Max, Stand with Us WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Knock on Doors Make Calls Social Media Blitz Host Fundraiser First name * Last name * Email * Phone Zip code Message Submit SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Home About Me News Events Get Involved Contact MAX HSIA FOR STATE ASSEMBLY D24 Paid for by Max Hsia for Assembly 2026 Terms & Conditions bottom of page

@@ -1,22 +1,106 @@
 [
-"https://cfequality.org/",
-"https://facebook.com/profile.php?id=61580835882398",
-"https://gis.missoulacounty.us/elections/voter",
-"https://instagram.com/runnergrl70?hl=en",
-"https://linkedin.com/in/robinkendall",
-"https://mtaflcio.org/",
-"https://mtfamiliesforvaccines.org/",
-"https://robinkendall4montana.org/",
-"https://robinkendall4montana.org/about",
-"https://robinkendall4montana.org/accessibility-statement",
-"https://robinkendall4montana.org/contact",
-"https://robinkendall4montana.org/endorsements",
-"https://robinkendall4montana.org/events-1",
-"https://robinkendall4montana.org/get-involved",
-"https://robinkendall4montana.org/meet-the-team",
-"https://robinkendall4montana.org/news",
-"https://robinkendall4montana.org/privacy-policy",
-"https://robinkendall4montana.org/terms-and-conditions",
-"https://secure.actblue.com/donate/robin-kendall-hd94",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.robinkendall4montana.org/about"
+},
+{
+"text": "About Me",
+"href": "https://www.robinkendall4montana.org/about"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.robinkendall4montana.org/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.robinkendall4montana.org/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/robin-kendall-hd94"
+},
+{
+"text": "Endorsements",
+"href": "https://www.robinkendall4montana.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.robinkendall4montana.org/events-1"
+},
+{
+"text": "FIND YOUR DISTRICT",
+"href": "https://gis.missoulacounty.us/elections/voter/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.robinkendall4montana.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.robinkendall4montana.org/endorsements"
+},
+{
+"text": "House District 94",
+"href": "https://www.robinkendall4montana.org"
+},
+{
+"text": "Issues",
+"href": "https://www.robinkendall4montana.org/news"
+},
+{
+"text": "Meet the Team",
+"href": "https://www.robinkendall4montana.org/meet-the-team"
+},
+{
+"text": "News",
+"href": "https://www.robinkendall4montana.org/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.robinkendall4montana.org/privacy-policy"
+},
+{
+"text": "Robin Kendall for Montana",
+"href": "https://www.robinkendall4montana.org"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.robinkendall4montana.org/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: CFE-PAC_vert.jpg]",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61580835882398"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/runnergrl70/?hl=en"
+},
+{
+"text": "[image: Linkedin]",
+"href": "https://www.linkedin.com/in/robinkendall/"
+},
+{
+"text": "[image: MT AFL-CIO Logo.png]",
+"href": "https://www.mtaflcio.org/"
+},
+{
+"text": "[image: MTFV+FINAL+circle+trans+back+120822.webp]",
+"href": "https://www.mtfamiliesforvaccines.org/"
+},
+{
+"text": "info@robinkendall4montana.org",
+"href": "mailto:info@robinkendall4montana.org"
+},
+{
+"text": "robinkendall4montana@gmail.com",
+"href": "mailto:robinkendall4montana@gmail.com"
+}
 ]

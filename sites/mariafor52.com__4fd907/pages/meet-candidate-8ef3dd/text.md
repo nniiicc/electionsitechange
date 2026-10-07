@@ -1,6 +1,4 @@
-Why I'm Running
-Meet Maria
-Maria Peterson’s story is one of determination, authentic community leadership, and unwavering commitment to the families of District 52.
+Follow us Menu Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Follow us Donate Why I'm Running Meet Maria Maria Peterson’s story is one of determination, authentic community leadership, and unwavering commitment to the families of District 52.
 As a first-generation Mexican American, Maria witnessed firsthand how her immigrant parents transformed their American Dream into reality through hard work and perseverance.
 Her father worked two jobs while attending school to become an electrical mechanical engineer, while her mother’s entrepreneurial spirit led her to open her own successful business specializing in design and dressmaking.
 Following their example of excellence and service, Maria earned degrees in Criminal Justice and Organizational Communications from Loyola University of Chicago before attending The John Marshall Law School.
@@ -27,3 +25,5 @@ She was appointed State Elections Lead for Moms Demand Action, where she ensured
 She successfully lobbied for the Protect Illinois Communities Act and continues advocating for additional smart gun-sense laws.
 Maria also proudly served as Chair of the DEI Committee with the Barrington Rotary Club and has recently been chosen for the WINGS leadership council and has also joined the Illinois Stewardship Alliance board.
 Maria’s authenticity shines through in everything she does – the same person volunteering at the annual plant sale for Citizens for Conservation is the same Maria Peterson serving as Vice Chair for the Lake County Zoning Board of Appeals, rescuing dogs and cats from local shelters, and fighting for working families in Springfield.
+Support Our Campaign Stay Up To Date Follow us on the campaign trail!
+Email Email Subscribe Donate Follow us Home Meet Candidate Events Endorsements Issues News Voting Info Volunteer Donate Paid for by maria for 52 Maria for 52 © # 125 Carriage Road North Barrington, IL 60010 Accessibility Statement Terms of Service Contact Privacy Policy

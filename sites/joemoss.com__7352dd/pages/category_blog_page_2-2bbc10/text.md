@@ -1,20 +1,16 @@
-Endorsed by Sylvia Rhodea, Ottawa County Commissioner
-I am honored to receive the complete and total endorsement from Sylvia Rhodea, Ottawa County Commissioner for Allendale Charter Township.
-30 05, 2026
-I am a strong defender of the Second Amendment.
+Skip to content Facebook X LinkedIn Search for: About Contact District Map Donate Endorsements Jobs News Volunteer Blog 30 05, 2026 Endorsed by Sylvia Rhodea, Ottawa County Commissioner Gallery Endorsed by Sylvia Rhodea, Ottawa County Commissioner Blog Endorsed by Sylvia Rhodea, Ottawa County Commissioner 2026-05-30T15:33:17-04:00 May 30th, 2026 | I am honored to receive the complete and total endorsement from Sylvia Rhodea, Ottawa County Commissioner for Allendale Charter Township.
+30 05, 2026 What are Joe’s positions on gun rights and the Second Amendment?
+Gallery What are Joe’s positions on gun rights and the Second Amendment?
+Blog What are Joe’s positions on gun rights and the Second Amendment?
+2026-06-02T13:44:10-04:00 May 30th, 2026 | I am a strong defender of the Second Amendment.
 The right to self-defense is given by God, and belongs to all law-abiding citizens so they can protect themselves, their families, and others.
-28 05, 2026
-I am honored to receive an endorsement from Right to Life of Michigan PAC for State Representative in District 89.
-24 03, 2026
-PRESS RELEASE FOR IMMEDIATE RELEASE Joe Moss Announces Candidacy [...]
-5 12, 2025
-In 2023, Governor Whitmer and radical Democrats in Lansing, [...]
-5 09, 2025
-This morning I spoke to FOX 17 about the [...]
-2 09, 2025
-Request for Retraction On August 24, 2025, I [...]
-At the Ottawa County Board of Commissioners meeting on [...]
-28 03, 2025
-Read the Letter On March 28, 2025, [...]
-27 03, 2025
-I am inviting local NGO Lakeshore Nonprofit Alliance [...]
+28 05, 2026 Endorsed by Right to Life: Time to Defend Life in Michigan Gallery Endorsed by Right to Life: Time to Defend Life in Michigan Blog Endorsed by Right to Life: Time to Defend Life in Michigan 2026-05-29T15:52:32-04:00 May 28th, 2026 | I am honored to receive an endorsement from Right to Life of Michigan PAC for State Representative in District 89.
+24 03, 2026 Courage to Act.
+Record to Prove It.
+Gallery Courage to Act.
+Record to Prove It.
+Blog Courage to Act.
+Record to Prove It.
+2026-05-24T15:48:08-04:00 March 24th, 2026 | PRESS RELEASE FOR IMMEDIATE RELEASE Joe Moss Announces Candidacy [...] 5 12, 2025 Michigan Needs to Repeal PA233 to Protect Farmland and Allow Local Elected Officials to Make Decisions for Their Communities Gallery Michigan Needs to Repeal PA233 to Protect Farmland and Allow Local Elected Officials to Make Decisions for Their Communities Blog Michigan Needs to Repeal PA233 to Protect Farmland and Allow Local Elected Officials to Make Decisions for Their Communities 2025-12-08T10:12:04-05:00 December 5th, 2025 | In 2023, Governor Whitmer and radical Democrats in Lansing, [...] 5 09, 2025 Ongoing Energy Policy Discussions Are Good Gallery Ongoing Energy Policy Discussions Are Good Blog Ongoing Energy Policy Discussions Are Good 2025-09-05T14:11:41-04:00 September 5th, 2025 | This morning I spoke to FOX 17 about the [...] 2 09, 2025 Lanthorn Continues Biased News Reporting Gallery Lanthorn Continues Biased News Reporting Blog Lanthorn Continues Biased News Reporting 2025-09-03T09:48:29-04:00 September 2nd, 2025 | Request for Retraction On August 24, 2025, I [...] 2 09, 2025 Oppose the Blendon Township Battery Energy Storage System (BESS) Gallery Oppose the Blendon Township Battery Energy Storage System (BESS) Blog Oppose the Blendon Township Battery Energy Storage System (BESS) 2025-09-04T13:42:00-04:00 September 2nd, 2025 | At the Ottawa County Board of Commissioners meeting on [...] 28 03, 2025 Request to GVSU to Abolish DEI, Protect Women’s Sports, and Update Public Safety Policy Gallery Request to GVSU to Abolish DEI, Protect Women’s Sports, and Update Public Safety Policy Blog Request to GVSU to Abolish DEI, Protect Women’s Sports, and Update Public Safety Policy 2025-03-28T16:00:10-04:00 March 28th, 2025 | Read the Letter On March 28, 2025, [...] 27 03, 2025 Invitation to Lakeshore Nonprofit Alliance to Abolish DEI Gallery Invitation to Lakeshore Nonprofit Alliance to Abolish DEI Blog Invitation to Lakeshore Nonprofit Alliance to Abolish DEI 2025-03-27T14:17:01-04:00 March 27th, 2025 | I am inviting local NGO Lakeshore Nonprofit Alliance [...] Previous 1 2 3 Next Paid for by Joe Moss for State Representative 6753 Bradenwood Drive Hudsonville, MI 49426 © Copyright # | Terms By providing your email or phone number, you are consenting to receive emails, calls, and SMS/MMS messages from Joe Moss for State Representative.
+Msg & data rates may apply.
+Facebook X LinkedIn Page load link Go to Top

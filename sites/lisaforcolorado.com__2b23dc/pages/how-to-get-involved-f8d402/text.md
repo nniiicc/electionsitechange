@@ -1,147 +1,28 @@
-I know things are heavy right now, but we are in this together.
+0 Skip to Content Lisa For Colorado!
+Home Meet Lisa!
+On The Issues Legislation In the Community Resources Get Involved Contact Lisa Endorsements DONATE Open Menu Close Menu Lisa For Colorado!
+Home Meet Lisa!
+On The Issues Legislation In the Community Resources Get Involved Contact Lisa Endorsements DONATE Open Menu Close Menu Home Meet Lisa!
+On The Issues Legislation In the Community Resources Get Involved Contact Lisa Endorsements DONATE I know things are heavy right now, but we are in this together.
 It's going to be a long few years but we will keep fighting!
 I have put together a list of local resources and ways to get involved if you are looking for things that you can do to get through these next few years.
-- Vote Save America
-- Organization founded by former Obama staffers aimed at getting Democrats elected in key races across the country
-- Indivisible
-- Grassroots organizing aimed at electing progressive leaders, rebuilding democracy and opposing the Trump administration
-- League of Women Voters
-- Nonpartisan grassroots organization aimed at expanding voting rights, campaign finance reform, transparent and independent redistricting, and other initiatives to improve representation in government
-- Colorado Immigrant Rights Coalition (CIRC)
-- Statewide coalition improving lives of immigrants and refugees
-- American Friends Service Committee (AFSC) Colorado
-- Organizes immigrants and allies for immigrant justice, providing leadership development and policy advocacy
-- Catholic Charities of Denver
-- Provides immigration legal services including family visa processing, naturalization, TPS, asylum, and DACA assistance along with other service work
-- Rocky Mountain Immigrant Advocacy Network (RMIAN)
-- Serves low-income adults and children in immigration proceedings, promotes knowledge of legal rights, works to improve detention conditions, and promotes a more humane immigration system, including alternatives to detention
-- One Colorado
-- Statewide advocacy organization for LGBTQ Coloradans, focusing on safe schools, transgender equality, and LGBTQ health services
-- The Center on Colfax
-- Offers transgender programs, youth services (Rainbow Alley), services for 50+ (SAGE), and legal support
-- PFLAG Denver:
-- Provides support for those trying to understand a loved one's sexual orientation or gender expression
-- Envision: You
-- Supports LGBTQ+ mental and behavioral health through research, advocacy, training, and programming
-- Fortaleza Familia
-- Provides support to Indigenous, Chicanx, and Latinx LGBTQ2s+ youth and their families
-- Human Rights Campaign
-- Envisions a world where every member of the LGBTQ+ family has the freedom to live their truth without fear, and with equality under the law and mobilizes against attacks on the most marginalized people in our community
-- Colorado Mad Moms
-- Aims to educate the public, policy makers, social service providers, law enforcement, and judicial officers about severe mental and brain issues and advocate for changes to address the needs of people living with these conditions
-- Center for Health Progress
-- Aims to build power to win recognition, rights, and resources for marginalized communities including people of color, poor and working people, and immigrants in fighting for health equity
-- Mental Health Colorado
-- Nonpartisan organization working to pass laws, change practices, and build a movement to promote mental well-being, ensure equitable access to mental health and substance use care, and end discrimination
-- Colorado Consumer Health Initiative
-- Aims to improve access to health care for all Coloradans by working statewide for progress toward equity, affordability, and quality
-- Healthier Colorado
-- Nonpartisan organization dedicated to raising the voices of Coloradans in the public policy process to improve the health of our state’s residents
-- ACLU of Colorado
-- Civil rights organization whose mission is to protect, defend and extend the civil rights and civil liberties of all people in Colorado through litigation, education and advocacy.
-- Colorado Organization for Latina Opportunity and Reproductive Rights (COLOR)
-- Aims to build power for the Latinx community and advocate for issues that affect them, particular reproductive justice issues
-- NAACP Denver
-- Grassroots-based civil rights organization, advocates for civil rights, equal opportunity, and voter mobilization.
-- Black Lives Matter 5280
-- Denver branch of BLM, aims to expose, address and replace structures and systems of oppression, including extractive capitalism, white supremacy and patriarchy
-- Spirit of the Sun
-- In partnership with Native American communities in urban areas and on reservations, aims to boost the resilience of Native people, especially youth and young adults.
-- Showing Up for Racial Justice
-- Organization aimed at bringing white people into racial and economic justice work and antiracist education
-- Colorado Coalition for the Homeless
-- Aims to work collaboratively toward the prevention of homelessness and the creation of lasting solutions for families, children, and individuals who are experiencing or at-risk of homelessness throughout Colorado.
-- Denver Metro Fair Housing Center
-- Works to eliminate housing discrimination and promote housing choice for all people through education, advocacy, and enforcement of fair housing laws.
-- Habitat for Humanity of Metro Denver
-- Advocates to increase affordable homeownership in Metro Denver and ensure more families have a safe, affordable place to call home
-- Colorado Center on Law and Policy
-- Advocates to remove barriers that prevent Coloradans from meeting their basic needs and becoming self-sufficient
-- Colorado Poverty Law Project
-- Aims to prevent homelessness through legal representation, education, and advocacy
-- The Gathering Place
-- Advocates for social justice, working to dismantle the systems of oppression and marginalization that contribute to poverty and homelessness
-- The Delores Project
-- Provides shelter, housing, and supportive services, and collaborates with community leaders to ensure those who have experienced barriers to housing are represented on issues of public policy and community development
-- Earthlinks Colorado
-- Works to create opportunities through Earth-centered programs for individuals experiencing homelessness and poverty to step out of isolation and into community
--
-Item description
-- Sierra Club
-- Grassroots changemakers working together across the state to advance climate solutions, act for justice, get outdoors, and protect lands, water, air, and wildlife.
-- Conservation Colorado
-- Works to protect Colorado’s climate, air, land, water and communities through organizing, advocacy and elections
-- Volunteers for Outdoor Colorado
-- A volunteer workforce for recreation and habitat improvement projects in partnership with land agencies, nonprofits, and community groups.
-- Western Resource Advocates
-- Working towards evidence-based solutions to the climate crisis, bringing experts, decision makers, and advocates together to protect and sustain the environment, economy, and people of the Interior West
-- Colorado Parks and Wildlife Volunteering
-- Opportunities at state parks, wildlife areas, fish hatcheries, offices, and with educational programs vary by season and by region
-- HECHO
-- Strengthening Hispanic voices and visibility in public lands decision-making & advocacy
-- Protect Our Winters
-- Aims to unite athletes, brands, and outdoor enthusiasts into the bipartisan voting bloc to push for clean air, water, and a healthy planet
-- Colorado Rising
-- organization that works to protect Colorado’s health, safety, wildlife, environment, and the future of our climate from the impacts of oil & gas development
-- Earthlinks Colorado
-- Works to create opportunities through Earth-centered programs for individuals experiencing homelessness and poverty to step out of isolation and into community
-- Colorado Organization for Latina Opportunity and Reproductive Rights
-- Aims to build power for the Latinx community and advocate for issues that affect them, particular reproductive justice issues
-- Planned Parenthood of the Rocky Mountains
-- Committed to delivering the highest quality reproductive and sexual health care; teaching medically accurate, age-appropriate sexuality education; and working diligently to protect the right to access safe, legal abortion.
-- Reproductive Freedom for All (Formerly NARAL)
-- Organizes and mobilizes people to fight for access to abortion, birth control, paid parental leave, and protections from pregnancy discrimination
-- Food for Thought Denver
-- Strives to eliminate childhood hunger by providing a food for students to take home to their family for the weekend
-- Denver Urban Gardens
-- Supports Denver residents in creating sustainable, food-producing neighborhood community gardens along with youth programming, skill-building workshops for adults, community-centered events, volunteer workdays, free and reduced-cost seeds and seedlings, and compost training
-- The Urban Farm
-- Strives to provide the opportunity for urban youth to engage and participate in local food and agricultural systems by removing the barriers to entry such as land access, time, location and finances
-- Colorado Center on Law and Policy
-- Advocates to remove barriers that prevent Coloradans from meeting their basic needs and becoming self-sufficient
-- Project Angel Heart
-- Supports Coloradans living with severe illness by delivering nutritious food that supports their health and well-being
-- Go Farm
-- Organization with a mission to train and support local farmers, connect people with local agriculture, and increase equitable access to nutrient-rich food grown in Colorado.
-- UpRoot Colorado
-- We increase the nutrition security of Coloradans by harvesting and redistributing surplus, nutrient-dense foods while supporting the resilience of farmers.
-- FrontLine Farming
-- Food justice and farmer advocacy group led by women and people of color.
+Arvada/Jeffco Opportunities Avada Non-Profit Directory https://www.jeffcodems.org/resistance Jeffco Open Space Volunteering Jeffco Library Volunteering Jeffco public schools volunteer Jeffco Dems Volunteer Jeffco Eats Volunteer The Action Center Arvada Center Volunteer Arvadans for Progressive Action General Advocacy and Political Action Vote Save America Organization founded by former Obama staffers aimed at getting Democrats elected in key races across the country Indivisible Grassroots organizing aimed at electing progressive leaders, rebuilding democracy and opposing the Trump administration League of Women Voters Nonpartisan grassroots organization aimed at expanding voting rights, campaign finance reform, transparent and independent redistricting, and other initiatives to improve representation in government Immigration Colorado Immigrant Rights Coalition (CIRC) Statewide coalition improving lives of immigrants and refugees American Friends Service Committee (AFSC) Colorado Organizes immigrants and allies for immigrant justice, providing leadership development and policy advocacy Catholic Charities of Denver Provides immigration legal services including family visa processing, naturalization, TPS, asylum, and DACA assistance along with other service work Rocky Mountain Immigrant Advocacy Network (RMIAN) Serves low-income adults and children in immigration proceedings, promotes knowledge of legal rights, works to improve detention conditions, and promotes a more humane immigration system, including alternatives to detention LGBTQ+ Support One Colorado Statewide advocacy organization for LGBTQ Coloradans, focusing on safe schools, transgender equality, and LGBTQ health services The Center on Colfax Offers transgender programs, youth services (Rainbow Alley), services for 50+ (SAGE), and legal support PFLAG Denver : Provides support for those trying to understand a loved one's sexual orientation or gender expression Envision: You Supports LGBTQ+ mental and behavioral health through research, advocacy, training, and programming Fortaleza Familia Provides support to Indigenous, Chicanx, and Latinx LGBTQ2s+ youth and their families Human Rights Campaign Envisions a world where every member of the LGBTQ+ family has the freedom to live their truth without fear, and with equality under the law and mobilizes against attacks on the most marginalized people in our community Mental Health and Healthcare Access Colorado Mad Moms Aims to educate the public, policy makers, social service providers, law enforcement, and judicial officers about severe mental and brain issues and advocate for changes to address the needs of people living with these conditions Center for Health Progress Aims to build power to win recognition, rights, and resources for marginalized communities including people of color, poor and working people, and immigrants in fighting for health equity Mental Health Colorado Nonpartisan organization working to pass laws, change practices, and build a movement to promote mental well-being, ensure equitable access to mental health and substance use care, and end discrimination Colorado Consumer Health Initiative Aims to improve access to health care for all Coloradans by working statewide for progress toward equity, affordability, and quality Healthier Colorado Nonpartisan organization dedicated to raising the voices of Coloradans in the public policy process to improve the health of our state’s residents Civil Rights and Racial Justice ACLU of Colorado Civil rights organization whose mission is to protect, defend and extend the civil rights and civil liberties of all people in Colorado through litigation, education and advocacy.
+Colorado Organization for Latina Opportunity and Reproductive Rights (COLOR) Aims to build power for the Latinx community and advocate for issues that affect them, particular reproductive justice issues NAACP Denver Grassroots-based civil rights organization, advocates for civil rights, equal opportunity, and voter mobilization.
+Black Lives Matter 5280 Denver branch of BLM, aims to expose, address and replace structures and systems of oppression, including extractive capitalism, white supremacy and patriarchy Spirit of the Sun In partnership with Native American communities in urban areas and on reservations, aims to boost the resilience of Native people, especially youth and young adults.
+Showing Up for Racial Justice Organization aimed at bringing white people into racial and economic justice work and antiracist education Housing Justice, Homelessness, and Poverty Colorado Coalition for the Homeless Aims to work collaboratively toward the prevention of homelessness and the creation of lasting solutions for families, children, and individuals who are experiencing or at-risk of homelessness throughout Colorado.
+Denver Metro Fair Housing Center Works to eliminate housing discrimination and promote housing choice for all people through education, advocacy, and enforcement of fair housing laws.
+Habitat for Humanity of Metro Denver Advocates to increase affordable homeownership in Metro Denver and ensure more families have a safe, affordable place to call home Colorado Center on Law and Policy Advocates to remove barriers that prevent Coloradans from meeting their basic needs and becoming self-sufficient Colorado Poverty Law Project Aims to prevent homelessness through legal representation, education, and advocacy The Gathering Place Advocates for social justice, working to dismantle the systems of oppression and marginalization that contribute to poverty and homelessness The Delores Project Provides shelter, housing, and supportive services, and collaborates with community leaders to ensure those who have experienced barriers to housing are represented on issues of public policy and community development Earthlinks Colorado Works to create opportunities through Earth-centered programs for individuals experiencing homelessness and poverty to step out of isolation and into community Faith Based Organizations Item description Environmental Justice and Conservation Sierra Club Grassroots changemakers working together across the state to advance climate solutions, act for justice, get outdoors, and protect lands, water, air, and wildlife.
+Conservation Colorado Works to protect Colorado’s climate, air, land, water and communities through organizing, advocacy and elections Volunteers for Outdoor Colorado A volunteer workforce for recreation and habitat improvement projects in partnership with land agencies, nonprofits, and community groups.
+Western Resource Advocates Working towards evidence-based solutions to the climate crisis, bringing experts, decision makers, and advocates together to protect and sustain the environment, economy, and people of the Interior West Colorado Parks and Wildlife Volunteering Opportunities at state parks, wildlife areas, fish hatcheries, offices, and with educational programs vary by season and by region HECHO Strengthening Hispanic voices and visibility in public lands decision-making & advocacy Protect Our Winters Aims to unite athletes, brands, and outdoor enthusiasts into the bipartisan voting bloc to push for clean air, water, and a healthy planet Colorado Rising organization that works to protect Colorado’s health, safety, wildlife, environment, and the future of our climate from the impacts of oil & gas development Earthlinks Colorado Works to create opportunities through Earth-centered programs for individuals experiencing homelessness and poverty to step out of isolation and into community Reproductive Rights Colorado Organization for Latina Opportunity and Reproductive Rights Aims to build power for the Latinx community and advocate for issues that affect them, particular reproductive justice issues Planned Parenthood of the Rocky Mountains Committed to delivering the highest quality reproductive and sexual health care; teaching medically accurate, age-appropriate sexuality education; and working diligently to protect the right to access safe, legal abortion.
+Reproductive Freedom for All (Formerly NARAL) Organizes and mobilizes people to fight for access to abortion, birth control, paid parental leave, and protections from pregnancy discrimination Food Insecurity, Justice, and Education Food for Thought Denver Strives to eliminate childhood hunger by providing a food for students to take home to their family for the weekend Denver Urban Gardens Supports Denver residents in creating sustainable, food-producing neighborhood community gardens along with youth programming, skill-building workshops for adults, community-centered events, volunteer workdays, free and reduced-cost seeds and seedlings, and compost training The Urban Farm Strives to provide the opportunity for urban youth to engage and participate in local food and agricultural systems by removing the barriers to entry such as land access, time, location and finances Colorado Center on Law and Policy Advocates to remove barriers that prevent Coloradans from meeting their basic needs and becoming self-sufficient Project Angel Heart Supports Coloradans living with severe illness by delivering nutritious food that supports their health and well-being Go Farm Organization with a mission to train and support local farmers, connect people with local agriculture, and increase equitable access to nutrient-rich food grown in Colorado.
+UpRoot Colorado We increase the nutrition security of Coloradans by harvesting and redistributing surplus, nutrient-dense foods while supporting the resilience of farmers.
+FrontLine Farming Food justice and farmer advocacy group led by women and people of color.
 Farms organic food, providing fair wages and distributes food to restaurants and networks of institutions with sliding scales.
 Engages in policy work.
-- Food Bank of the Rockies
-- Provide food and necessities to people in need
-- Everytown for Gun Safety
-- Aims to end gun violence through voter registration, electing officials who will focus on gun safety, researching the causes and solutions of gun violence, and ultimately enacting and implementing smart gun policies
-- Moms Demand Action
-- a movement of moms, dads, students, families, concerned citizens, and survivors working together with our partners in the gun violence prevention movement
-- March for Our Lives
-- working to build youth power and leadership to build a world where our lives deserve protection, break youth voter records, and implement new gun safety laws across the country.
-- Colorado Faith Communities United to End Gun Violence
-- Works to reduce injuries, deaths, and the resulting grief caused by the improper use of firearms through legislative advocacy, public health initiatives, public awareness, and increased engagement of our faith communities
-- The Arc of Colorado
-- community-based organization advocating for and with people with intellectual and developmental disabilities (IDD) and serving them and their families
-- Colorado Cross Disability Coalition
-- Strive for all Coloradans with disabilities to live full, equitable lives with equal access to any civic, professional, and/or personal opportunities that are available to people without disabilities
-- Ability Connection Colorado
-- Provides inclusive education, pathways to employment, and statewide family support programs to create opportunities and sustainable change for families with disabled children across Colorado
-- Alliance Colorado
-- Committed to providing legislators, members, and the public with the most up-to-date and factual information regarding activities and legislation at the Colorado Capitol that impact families, individuals with intellectual and developmental disabilities, and Colorado’s community-centered system.
-- Team Rubicon
-- Veteran-led humanitarian organization that serves global communities before, during, and after disasters and crises
-- The Mission Continues
-- Connects veterans with under-resourced communities to work alongside nonprofit partners and community leaders to improve educational resources, tackle food insecurity, foster neighborhood identity, and more
-- Project VOYCE
-- envisions a world in which Black, Indigenous, and young people of color are equitable partners in achieving collective healing and liberation and partners with youth to develop transformative youth leaders who are engaged equitably in their own development and the development of their communities
-- Colorado Youth Advisory Council
-- A group of Colorado youth (one from each senate district in the state) that examine, evaluate and discuss the issues, interests, and needs affecting Colorado youth now and in the future, and formally advise and make recommendations to elected officials regarding those issues
-- Young Invincibles
-- Young Invincibles’ mission is to amplify the voices of young adults in the political process and expand economic opportunity for our generation
-- Spirit of the Sun
-- In partnership with Native American communities in urban areas and on reservations, aims to boost the resilience of Native people, especially youth and young adults.
-- Fortaleza Familia
-- Provides support to Indigenous, Chicanx, and Latinx LGBTQ2s+ youth and their families
-- March for Our Lives
-- working to build youth power and leadership to build a world where our lives deserve protection, break youth voter records, and implement new gun safety laws across the country.
-- Rise Above Colorado
-- statewide substance use prevention organization that measurably impacts teen perceptions and attitudes about the risks of substance misuse to help youth make empowered, healthy choices.
+Food Bank of the Rockies Provide food and necessities to people in need Gun Violence Prevention Everytown for Gun Safety Aims to end gun violence through voter registration, electing officials who will focus on gun safety, researching the causes and solutions of gun violence, and ultimately enacting and implementing smart gun policies Moms Demand Action a movement of moms, dads, students, families, concerned citizens, and survivors working together with our partners in the gun violence prevention movement March for Our Lives working to build youth power and leadership to build a world where our lives deserve protection, break youth voter records, and implement new gun safety laws across the country.
+Colorado Faith Communities United to End Gun Violence Works to reduce injuries, deaths, and the resulting grief caused by the improper use of firearms through legislative advocacy, public health initiatives, public awareness, and increased engagement of our faith communities Disability Rights and Advocacy The Arc of Colorado community-based organization advocating for and with people with intellectual and developmental disabilities (IDD) and serving them and their families Colorado Cross Disability Coalition Strive for all Coloradans with disabilities to live full, equitable lives with equal access to any civic, professional, and/or personal opportunities that are available to people without disabilities Ability Connection Colorado Provides inclusive education, pathways to employment, and statewide family support programs to create opportunities and sustainable change for families with disabled children across Colorado Alliance Colorado Committed to providing legislators, members, and the public with the most up-to-date and factual information regarding activities and legislation at the Colorado Capitol that impact families, individuals with intellectual and developmental disabilities, and Colorado’s community-centered system.
+Veterans Team Rubicon Veteran-led humanitarian organization that serves global communities before, during, and after disasters and crises The Mission C ontinues Connects veterans with under-resourced communities to work alongside nonprofit partners and community leaders to improve educational resources, tackle food insecurity, foster neighborhood identity, and more Opportunities for Youth Project VOYCE envisions a world in which Black, Indigenous, and young people of color are equitable partners in achieving collective healing and liberation and partners with youth to develop transformative youth leaders who are engaged equitably in their own development and the development of their communities Colorado Youth Advisory Council A group of Colorado youth (one from each senate district in the state) that examine, evaluate and discuss the issues, interests, and needs affecting Colorado youth now and in the future, and formally advise and make recommendations to elected officials regarding those issues Young Invincibles Young Invincibles’ mission is to amplify the voices of young adults in the political process and expand economic opportunity for our generation Spirit of the Sun In partnership with Native American communities in urban areas and on reservations, aims to boost the resilience of Native people, especially youth and young adults.
+Fortaleza Familia Provides support to Indigenous, Chicanx, and Latinx LGBTQ2s+ youth and their families March for Our Lives working to build youth power and leadership to build a world where our lives deserve protection, break youth voter records, and implement new gun safety laws across the country.
+Rise Above Colorado statewide substance use prevention organization that measurably impacts teen perceptions and attitudes about the risks of substance misuse to help youth make empowered, healthy choices.
+Lisa@LisaforColorado.com Cell: 860-205-0925 Click here to support the cause!
+Paid For by Lisa For Colorado Use of Military photos does not mean endorsement

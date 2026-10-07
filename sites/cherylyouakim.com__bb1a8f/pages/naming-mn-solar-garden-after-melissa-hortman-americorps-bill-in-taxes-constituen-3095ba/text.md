@@ -1,5 +1,4 @@
-Dear Neighbors,
-I hope you had a chance to enjoy Minnesota’s “false spring” and are ready for round two of snow!
+HOME BLOG ABOUT PRIORITIES ENDORSEMENTS NEWS COUNT ME IN DONATE Select Page Naming MN Solar Garden after Melissa Hortman, Americorps bill in Taxes, constituent visits, and more. by Cheryl Youakim | Mar 13, 2026 | Blog | 0 comments Dear Neighbors, I hope you had a chance to enjoy Minnesota’s “false spring” and are ready for round two of snow!
 I have one last March Community Conversation this Saturday from 10:30 am – Noon at the Hopkins Library before the snow flies.
 Hope to see you there!
 It’s been a busy week at the Capitol.
@@ -15,14 +14,12 @@ Our Minnesota constitution requires us to fund our public schools where 880,000 
 Currently, our public schools our asking us for increased investments in a variety of areas from student mental health to special education funding.
 This proposal does not provide any of that.
 Yet that did not stop my House GOP colleagues from holding a press conference where they stated that they would not allow any K-12 funding to pass out of committee unless the Governor opts into the federal school voucher bill.
-You can read more about the legislation and the topic by clicking on this Minnesota Public Radio article link.
+You can read more about the legislation and the topic by clicking on this Minnesota Public Radio article link .
 In the Taxes Committee, we heard a bipartisan bill I’m authoring to expand income tax exemption for AmeriCorps Volunteers.
 Currently, state law allows an income tax subtraction only for educational service awards earned through AmeriCorps National Service.
 HF 3792 would expand that benefit to include stipends and living allowances received by a wider group of volunteers — specifically those serving in AmeriCorps VISTA, the Civilian Community Corps, and AmeriCorps Senior programs.
-You can watch video of the hearing at this link.
-Photo Credit: Andrew VonBank, Minnesota House Photography
-Connected to Community
-At the end of last week, Rep.
+You can watch video of the hearing at this link .
+Photo Credit: Andrew VonBank, Minnesota House Photography Connected to Community At the end of last week, Rep.
 Larry Kraft and I had a chance to meet with Cancer Action Day advocates from our district to learn more about the urgent need for more cancer screening access.
 Early detection saves lives.
 Rep.
@@ -41,11 +38,11 @@ I started out Thursday speaking at the Children First Breakfast and hearing from
 I then presented a bill in Taxes to exempt AmeriCorps stipends from income tax.
 Finally, Rep.
 Julie Greene and I met with dedicated folks from Moms Demand Action for sensible gun violence prevention before we headed to floor session.
-Keep in Touch
-Please continue to contact me anytime at rep.cheryl.youakim@house.mn.gov or 651-296-9889 with questions or input.
+Keep in Touch Please continue to contact me anytime at rep.cheryl.youakim@house.mn.gov or 651-296-9889 with questions or input.
 Email is the quickest way to get in touch.
 Stay safe this weekend with the coming snow!
 Rep.
-Cheryl Youakim
-46B – Hopkins, Edina, & St.
-Louis Park
+Cheryl Youakim 46B – Hopkins, Edina, & St.
+Louis Park Submit a Comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Recent Posts STEP school supply drive, State laws in effect July 1, and more Remembering Our Colleague Melissa Hortman Last Week of Session & Upcoming Town Hall Investing In Our Schools & Hold the Vote OIG Bill Passes and Mental Health Month Recent Comments Categories Blog News PRIVACY POLICY Facebook Twitter Designed by Glyph Digital

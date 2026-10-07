@@ -1,7 +1,8 @@
-“Republican House candidate Martin McLaughlin is hoping his recent Chicago Tribune endorsement sends the message that some politicians are still who they campaign to be.
-“I hope it gets the message out that some people in Illinois are still about reforming government so that we can finally get to a place where we can control spending and taxes,” McLaughlin told the Lake County Gazette.
+Contact Donate About Videos News & Events Get Involved Voter Info 52nd District Map Voter Information Endorsements Calendar In the News Select Page McLaughlin hopes Tribune endorsement sends message: Having a record of success has to make a difference’ Oct 22, 2020 “Republican House candidate Martin McLaughlin is hoping his recent Chicago Tribune endorsement sends the message that some politicians are still who they campaign to be.
+“I hope it gets the message out that some people in Illinois are still about reforming government so that we can finally get to a place where we can control spending and taxes,” McLaughlin told the Lake County Gazette .
 “I think people have grown tired of hearing people just talk about what they’ll do.
 I’m someone who has run a business and got things done.
-Talk is cheap, and having a record of success has to make difference.”
-In throwing its support behind McLaughlin, the Tribune theorizes he may be just what Springfield needs at such a critical time in history.”
-The full article was published in the Lake County Gazette.
+Talk is cheap, and having a record of success has to make difference.” In throwing its support behind McLaughlin, the Tribune theorizes he may be just what Springfield needs at such a critical time in history.” The full article was published in the Lake County Gazette .
+Get our latest updates on social media, click on an icon below: Follow Follow Follow Paid for by Martin McLaughlin Republican for State House.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois. © # Martin McLaughlin Republican for State House.
+All Rights Reserved.

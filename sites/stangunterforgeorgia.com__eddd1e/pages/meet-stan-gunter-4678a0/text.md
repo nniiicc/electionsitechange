@@ -1,4 +1,4 @@
-In 2020, Stan Gunter was elected to the Georgia State House of Representatives, representing the 8th legislative district covering Union, Towns, and Rabun Counties, along with a part of White County.
+Skip to content Stan Gunter State Representative ☰ Home Meet Stan Issues Get Involved News and Events Donate Donate X Home Meet Stan Issues Get Involved News and Events Donate Donate Meet Stan In 2020, Stan Gunter was elected to the Georgia State House of Representatives, representing the 8th legislative district covering Union, Towns, and Rabun Counties, along with a part of White County.
 As the Judiciary Committee Chairman, he is also a member of the Agriculture & Consumer Affairs, Appropriations, Economic Development & Tourism, Ethics, Health, Judiciary Non-Civil-Ex-Officio, and Rules Committees.
 Additionally, he served as Deputy Whip during the 2023 Legislative Session.
 Stan was raised in Habersham County where he graduated from Habersham Central High School in Cornelia, Georgia.
@@ -16,3 +16,10 @@ Stan was also a member of the Atlanta Lawyers Chapter of the Federalist Society 
 Stan married his wife and best friend, Rita, in 1982.
 They are blessed with two sons and five grandchildren.
 They are deeply rooted in their faith and continue to set the example for their family through strong conservative values and prioritizing service to others.
+Latest News 2026 Legislative Update: Sine Die 2026 Legislative Update – Week 9, 10 & 11 Recap Rep.
+Stan Gunther Formally Qualified for Re-Election 2026 Legislative Update – Week 6 Recap 2026 Legislative Update – 2/9/26 2026 Legislative Update: Four Weeks Into The Session Stay Connected Contribute Today Stan Gunter is the Conservative Fighter We Need.
+Can Stan Count on Your Support?
+Make a Donation! $# $# $# $# $# Join the Team!
+Add Your Name to Stay Up to Date on the Gunter Campaign: Email * Cell Phone Zip Code Δ Home Meet Stan Issues Get Involved News and Events Donate Donate Paid for by Stan Gunter for Georgia CONTACT TEAM GUNTER TODAY!
+Phone: 706.897.5609 Email: Stan@StanGunterForGeorgia.com Mail: P.O.
+Box 2376, Blairsville, Georgia 30514 © #

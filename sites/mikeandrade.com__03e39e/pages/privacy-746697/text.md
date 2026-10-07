@@ -1,5 +1,4 @@
-Privacy Policy
-1.
+About Mike Legislation Community Platform Volunteer Yard Sign Donate Privacy Policy 1.
 INTRODUCTION.
 Welcome to Citizens for Mike Andrade (“Citizens for Mike Andrade”, “we”, “us”, “our”) official website (the “website” or “site”).
 We understand that visitors to our website may have questions about how this website collects and uses information.
@@ -68,27 +67,7 @@ You can learn more about adjusting your settings and preferences with respect to
 3.
 HOW WE USE INFORMATION THAT WE COLLECT.
 A.
-Except as prohibited by the terms and conditions of any applicable Third-Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use information we collect for, among other things, the following purposes:
-- Sending you Citizens for Mike Andrade and affiliated committees’ marketing, promotional, e-mails, messages and other correspondence and notifications regarding the Services;
-- To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers;
-- Delivery of features, content, services, and products available to you through the Services based on your location;
-- Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services;
-- Contacting you regarding the administration of any features or functions of the Services you have registered to use;
-- Sending you information about your relationship or transactions with us;
-- Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities;
-- Where you order goods or services, performing credit checking or other authentication;
-- For the prevention and detection of fraud or infringement of our or any third-party’s rights;
-- Responding to your questions or other requests;
-- Subject to applicable contractual or legal restrictions, in connection with a sale of all or substantially all of the assets of Citizens for Mike Andrade;
-- Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity;
-- Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services;
-- Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services);
-- Tracking your return visits to and use of the Services;
-- For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested;
-- For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third-Party Platforms, etc.;
-- Accumulating and reporting aggregate, statistical information in connection with the Services and user activity;
-- Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and
-- Saving certain information for your ongoing use of the Services.
+Except as prohibited by the terms and conditions of any applicable Third-Party Platform (e.g., Facebook, Twitter, etc.) and subject to Section 4, we may use information we collect for, among other things, the following purposes: Sending you Citizens for Mike Andrade and affiliated committees’ marketing, promotional, e-mails, messages and other correspondence and notifications regarding the Services; To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers; Delivery of features, content, services, and products available to you through the Services based on your location; Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services; Contacting you regarding the administration of any features or functions of the Services you have registered to use; Sending you information about your relationship or transactions with us; Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities; Where you order goods or services, performing credit checking or other authentication; For the prevention and detection of fraud or infringement of our or any third-party’s rights; Responding to your questions or other requests; Subject to applicable contractual or legal restrictions, in connection with a sale of all or substantially all of the assets of Citizens for Mike Andrade; Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity; Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services; Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services); Tracking your return visits to and use of the Services; For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested; For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third-Party Platforms, etc.; Accumulating and reporting aggregate, statistical information in connection with the Services and user activity; Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and Saving certain information for your ongoing use of the Services.
 4.
 OPTING-OUT OF CERTAIN USES OF YOUR INFORMATION.
 A.
@@ -114,9 +93,6 @@ Other privacy preferences (e.g., deactivating your User Account, etc.) may be ma
 You always have the right to access, review and correct the personal information you have provided and generally you may review, update or delete certain information collected by the Services at any time by accessing your User Account as described herein or by contacting us as described in Section 14.
 D.
 Opting-Out of Use of Certain Information That May be Collected by Tracking Technologies.
-Tracking Technologies: Most browsers are initially set to accept cookies (other than Flash cookies) and allow local storage, but you should be able to change your settings to notify you when a cookie is being set or updated, local storage is being used, and/or to block cookies and/or the use of local storage altogether.
-Please consult the “Help” section of your browser for more information.
-Please note that by blocking any or all cookies you may not have access to certain features, content and/or other personalization available through the Services.
 Flash Cookies: Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.
 Do-Not-Track Signals: Certain browsers transmit “do-not-track” signals to the websites with which such browsers communicate; however, this feature, and how it is used and activated, varies from browser to browser.
 Therefore, it is not clear whether the signals are intentionally transmitted by a user, or whether a user is even aware of this.
@@ -186,13 +162,10 @@ If you visit, access, interact with, and/or otherwise use the Services from a lo
 By using the Services, you affirmatively consent to the transfer, use, disclosure, provision, and other administration of your information as described herein.
 13.
 CONTACT US.
-If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at:
-Email: info@mikeandrade.com
-OR
-Mail: Citizens for Mike Andrade
-Attn: Privacy Matters
-P.O.
-Box 3279, Munster, Indiana 46321
-14.
+If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at: Email: info@mikeandrade.com OR Mail: Citizens for Mike Andrade Attn: Privacy Matters P.O.
+Box 3279, Munster, Indiana 46321 14.
 SOLE STATEMENT.
 This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+Paid for by Citizens for Mike Andrade Citizens for Mike Andrade | P.O.
+Box 3279, Munster, Indiana 46321 Contact Us | Terms of Service | Privacy Policy © # Citizens for Mike Andrade.
+All Rights Reserved.

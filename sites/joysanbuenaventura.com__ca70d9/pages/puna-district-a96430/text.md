@@ -1,7 +1,8 @@
-Puna is one of the most economically disadvantaged of all the districts in Hawaii.
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website Puna is one of the most economically disadvantaged of all the districts in Hawaii.
 It is not a densely populated district however it is the fastest growing district in Hawaii.
 It has the 3rd highest unemployment, 3rd lowest per capita income and the highest percentage of households reliant on food stamps in the state(55%) .
 Traditionally, it is a rural area with a diversified agricutural industry.
 Most,however, are employed in the professional and service industries necessitating a commute to Hilo.
 Recently, it endured several major natural disasters, hurricane Iselle, Kilauea’s 2014 lava flow, and presently the 2018 lava eruptions at Leilani estates, Lanipuni estates and destruction of Kapoho.
 These disasters exposed the need for improvements in roads, medical access,housing availability and jobs within the district.
+Puna district Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

@@ -1,3 +1,14 @@
 [
-"https://secure.actblue.com/donate/les-majors-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/les-majors-1"
+},
+{
+"text": "Invite Les to an Event",
+"href": "mailto:campaign@lesmajors.com?subject=Invite+Les+Majors+to+an+Event"
+},
+{
+"text": "campaign@lesmajors.com",
+"href": "mailto:campaign@lesmajors.com"
+}
 ]

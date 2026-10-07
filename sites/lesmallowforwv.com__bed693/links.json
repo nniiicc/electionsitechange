@@ -1,9 +1,34 @@
 [
-"http://facebook.com/lesmallowforwv",
-"https://facebook.com/LesMallowforWV",
-"https://instagram.com/lesmallowforwv",
-"https://lesmallowforwv.com/",
-"https://lesmallowforwv.com/about-5",
-"https://secure.winred.com/",
-"https://x.com/LesMallowforWV"
+{
+"text": "About",
+"href": "https://www.lesmallowforwv.com/about-5"
+},
+{
+"text": "CLICK HERE",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "Click Here",
+"href": "http://www.facebook.com/lesmallowforwv"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/"
+},
+{
+"text": "Home",
+"href": "https://www.lesmallowforwv.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LesMallowforWV"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/lesmallowforwv/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/LesMallowforWV"
+}
 ]

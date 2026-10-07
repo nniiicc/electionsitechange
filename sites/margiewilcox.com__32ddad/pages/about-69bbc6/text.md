@@ -1,47 +1,11 @@
-Background
-PROFESSIONAL BACKGROUND
-Margie Wilcox is a longtime small business owner who began her career in transportation right out of high school as a bookkeeper at a local company in 1977.
+top of page Alabama House of Representatives District 104 HOME PLATFORM COMMITTEES BACKGROUND CONTACT More Use tab to navigate through the menu items.
+HOME PLATFORM COMMITTEES BACKGROUND CONTACT More Use tab to navigate through the menu items.
+DONATE Background PROFESSIONAL BACKGROUND Margie Wilcox is a longtime small business owner who began her career in transportation right out of high school as a bookkeeper at a local company in 1977.
 She worked her way to management and bought a division of the company in 1992.
 In the following years, Wilcox grew her business portfolio to multiple companies across Mobile and Baldwin Counties.
 Under her leadership, all companies have significantly expanded services and provided a positive economic impact along the Gulf Coast.
 Unable to do this all on her own, Margie credits a loyal and longtime management team, professional advisors and friends with making all of this possible.
-PROFESSIONAL ORGANIZATONS
-- Mobile Area Chamber of Commerce
-- Board of Directors, 1998 - 2001
-- Executive Committee Member 1998 - 1999
-- Vice Chair of Governmental Affairs, 1998 - 1999
-- Business Council of Alabama, Board Member, 1998 to 2012
-- Transportation Disadvantage Advisory Board, Escambia County
-- Mobile Bay Convention and Visitors Bureau
-- Mobile Area Lodging Association
-- Taxicab, Limousine and Paratransit Association (TLPA)
-- Committee Co-Chair of Paratransit and Contracting 2003, 2004 and 2009
-- Board of Directors 2004 – present
-- Executive Committee 2008
-- Paratransit and Contracting Chair 2008
-- Co-Chair Women In Transportation 2005, 2006 and 2007
-- Co-Chair Taxi Committee 2012
-- Past President of National Association of Women Business Owners, 1994- 1996
-COMMUNITY ORGANIZATIONS
-- Former Elected member of Mobile County Republican Executive Committee
-- Pensacola Disability Summit Council and Penwheels
-- Mobile Advisory Council for Disabled
-- Envision Coastal Alabama
-- Leadership Mobile - 1998/1999 Class
-- Leadership Mobile - Board of Directors 2000-2002
-BUSINESS SPOTLIGHTS
-- Testified, representing TLPA, before the Senate Banking, Housing and Urban Affairs Subcommittee on Housing and Transportation.
-The subject of the hearing was "Enhancing the Role of the Private Sector Public Transportation."
-- Recipient of PEP Environmental Stewardship Award – April 2013
-- Recipient of the Mobile Chamber of Commerce’s “2008 Small Business Award”
-- Featured in the ‘Business Spotlight in the Mobile Press register – January 2009
-- Disability Summit certificate of recognition 2004
-- Pensacola Penwheels 2003 Employ the Handicap Recognition
-- Top Ten Finalist for the 2003 MOBI Award given by Mobile Area Chamber of Commerce
-- Lifetime Achievement Award, USA Small Business Development Ctr., 2002
-- Recipient of the TLPA 1999 “Operator of the Year” award
-- Executive Profiles, BCA Today, 1998
-- Mobile Bay Monthly Who’s Who 1998
-- Featured as one of the Gulf Coast Women to Watch in 1996
-- Women Owned Business of the Year - USA SBDC in 1994
-- Special Award of recognition for service and assistance to the Amtrak passengers in the wake of the Amtrak tragedy,1993.
+PROFESSIONAL ORGANIZATONS Mobile Area Chamber of Commerce Board of Directors, 1998 - 2001 Executive Committee Member 1998 - 1999 Vice Chair of Governmental Affairs, 1998 - 1999 Business Council of Alabama, Board Member, 1998 to 2012 Transportation Disadvantage Advisory Board, Escambia County Mobile Bay Convention and Visitors Bureau Mobile Area Lodging Association Taxicab, Limousine and Paratransit Association (TLPA) Committee Co-Chair of Paratransit and Contracting 2003, 2004 and 2009 Board of Directors 2004 – present Executive Committee 2008 Paratransit and Contracting Chair 2008 Co-Chair Women In Transportation 2005, 2006 and 2007 Co-Chair Taxi Committee 2012 Past President of National Association of Women Business Owners, 1994- 1996 COMMUNITY ORGANIZATIONS Former Elected member of Mobile County Republican Executive Committee Pensacola Disability Summit Council and Penwheels Mobile Advisory Council for Disabled Envision Coastal Alabama Leadership Mobile - 1998/1999 Class Leadership Mobile - Board of Directors 2000-2002 BUSINESS SPOTLIGHTS Testified, representing TLPA, before the Senate Banking, Housing and Urban Affairs Subcommittee on Housing and Transportation.
+The subject of the hearing was "Enhancing the Role of the Private Sector Public Transportation." Recipient of PEP Environmental Stewardship Award – April 2013 Recipient of the Mobile Chamber of Commerce’s “2008 Small Business Award” Featured in the ‘Business Spotlight in the Mobile Press register – January 2009 Disability Summit certificate of recognition 2004 Pensacola Penwheels 2003 Employ the Handicap Recognition Top Ten Finalist for the 2003 MOBI Award given by Mobile Area Chamber of Commerce Lifetime Achievement Award, USA Small Business Development Ctr., 2002 Recipient of the TLPA 1999 “Operator of the Year” award Executive Profiles, BCA Today, 1998 Mobile Bay Monthly Who’s Who 1998 Featured as one of the Gulf Coast Women to Watch in 1996 Women Owned Business of the Year - USA SBDC in 1994 Special Award of recognition for service and assistance to the Amtrak passengers in the wake of the Amtrak tragedy,1993.
+Paid for by Margie Wilcox Campaign.
+112 South Dearborn Street • Mobile, AL 36602 bottom of page

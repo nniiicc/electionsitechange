@@ -1,8 +1,38 @@
 [
-"https://aimeebg.com/blog",
-"https://aimeebg.com/blog/my-250-cents",
-"https://aimeebg.com/join",
-"https://facebook.com/Aimee4Ridgefield",
-"https://instagram.com/aimeebg2026",
-"https://tiktok.com/@aimeebergergirvaloct"
+{
+"text": "Contact Aimee",
+"href": "mailto:aimee@aimeebg.com"
+},
+{
+"text": "Contact the Campaign",
+"href": "mailto:campaign@aimeebg.com"
+},
+{
+"text": "Read the full post →",
+"href": "https://aimeebg.com/blog/my-250-cents/"
+},
+{
+"text": "See all of Aimee's posts →",
+"href": "https://aimeebg.com/blog/"
+},
+{
+"text": "Sign Up Online →",
+"href": "https://aimeebg.com/join/"
+},
+{
+"text": "What Matters to Ridgefield",
+"href": "https://aimeebg.com/blog/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Aimee4Ridgefield"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/aimeebg2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@aimeebergergirvaloct"
+}
 ]

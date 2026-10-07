@@ -1,7 +1,6 @@
-Constituent Services
-To ensure prompt attention to your concerns within the 12th Worcester District, kindly provide your name, phone number, and address when contacting my office.
+0 Skip to Content About the Office About Meg Accomplishments Office Staff Internships State House Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Open Menu Close Menu About the Office About Meg Accomplishments Office Staff Internships State House Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Open Menu Close Menu Folder: About the Office Back About Meg Accomplishments Office Staff Internships Folder: State House Back Legislation Committee Assignments Newsletter Constituent Services Contact Our Office Constituent Services To ensure prompt attention to your concerns within the 12th Worcester District, kindly provide your name, phone number, and address when contacting my office.
 Please note that, even though my office receives many emails each day, I read each one and take note of constituent positions on issues.
-For expedited response and efficient handling of your inquiries, please provide the following when contacting the office:
-- When referencing a particular bill, kindly include its bill number.
-- Regardless of the nature of your email, please include your phone number and address.
-If you are unsure of who your legislator is, please visit https://malegislature.gov/Search/FindMyLegislator
+For expedited response and efficient handling of your inquiries, please provide the following when contacting the office: When referencing a particular bill, kindly include its bill number.
+Regardless of the nature of your email, please include your phone number and address.
+If you are unsure of who your legislator is, please visit https://malegislature.gov/Search/FindMyLegislator Contact 24 Beacon St.
+Room 146 Boston, MA 02133 meghan.kilcoyne@mahouse.gov (617) 722-2575 Follow Twitter Instagram Facebook This is the official district website for State Representative Meghan Kilcoyne.

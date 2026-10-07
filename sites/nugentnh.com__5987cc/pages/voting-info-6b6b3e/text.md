@@ -1,14 +1,3 @@
-top of page
-Voting Information
-STATE PRIMARY ELECTIONS
-Tuesday, September 8, 2026
-STATE GENERAL ELECTION
-Tuesday, November 3, 2026
-VOTING LOCATION:
-Bedford High School
-47 Nashua Road
-Polls are open from 7am - 7pm
-Visit the Bedford, NH town website
-to find the most up-to-date election information.
-"Whether it's protecting our schools, making housing affordable & accessible, or keeping our communities safe — Bedford deserves representatives who seek common ground, not partisan agendas"
-bottom of page
+top of page About Priorities Endorsements Join the Team Voting Info DONATE Voting Information STATE PRIMARY ELECTIONS Tuesday, September 8, 2026 ​​ STATE GENERAL ELECTION Tuesday, November 3, 2026 ​​ ​​ ​ VOTING LOCATION: Bedford High School 47 Nashua Road Polls are open from 7am - 7pm ​ Visit the Bedford, NH town website to find the most up-to-date election information. ​ "Whether it's protecting our schools, making housing affordable & accessible, or keeping our communities safe — Bedford deserves representatives who seek common ground, not partisan agendas" DONATE Paid for by the Ryan Nugent Campaign · Fiscal Agent Ryan P.
+Nugent P.O.
+Box 10105, Bedford, NH 03110 bottom of page

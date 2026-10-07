@@ -1,8 +1,6 @@
-“As a first-generation American, I understand what it means to work hard to achieve your dreams.
+0 Skip to Content VOLUNTEER ENDORSEMENTS IN THE COMMUNITY CONTACT US DONATE Open Menu Close Menu VOLUNTEER ENDORSEMENTS IN THE COMMUNITY CONTACT US DONATE Open Menu Close Menu VOLUNTEER ENDORSEMENTS IN THE COMMUNITY CONTACT US DONATE “As a first-generation American, I understand what it means to work hard to achieve your dreams.
 I’ve delivered for Nassau families as both a County Legislator and a School Board member, and now I want to take my fighting spirit that never gives up to Albany.
-I’ll bring my deep understanding of our community’s priorities and needs, my lived experience as a breast cancer survivor, and my long history of delivering real results for the people I represent.”
-About Siela
-Siela A.
+I’ll bring my deep understanding of our community’s priorities and needs, my lived experience as a breast cancer survivor, and my long history of delivering real results for the people I represent.” JOIN US About Siela Siela A.
 Bynoe is a first-generation American, a breast cancer survivor, a housing and education advocate, and a homeowner in Westbury.
 A 49-year resident of Long Island, she has deep roots in the 6th Senate District and a first-hand understanding of our community’s needs.
 Raised by a single mother, Siela learned the lessons of leadership through hard work and how to give back to her community.
@@ -25,3 +23,4 @@ Now in her fifth term, she has earned a reputation during her tenure as a dilige
 She continues to apply her knack for building bipartisan consensus to implement initiatives to protect the environment and safeguard our drinking water from hazardous contaminants; remove and renovate zombie homes; address mental and behavioral health challenges; implement public safety reforms like body cameras for all county police officers, and more.
 Now, as a candidate for New York’s 6th Senate District, Siela is stepping up to be the voice of Long Islanders who are working tirelessly just to make ends meet while struggling to invest in the furtherance of their family’s dreams.
 Her lived experiences have given her the insights to deliver pragmatic solutions that will provide hope for a prosperous future.
+Paid for by Siela For Senate.

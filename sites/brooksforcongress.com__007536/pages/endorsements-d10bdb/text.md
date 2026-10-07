@@ -1,124 +1,16 @@
-Bob's Supporters
-Josh Shapiro
-Governor
-Austin Davis
-Lieutenant Governor
-Chris Deluzio
-US House PA-17
-Madeleine Dean
-US House PA-05
-Chrissy Houlahan
-US House PA-06
-Matt Bradford
-Majority Leader
-Ryan Bizzaro
-PA State House
-Lisa Borowski
-Gina Curry
-Nathan Davidson
-Tina Davis
-Kyle Donahue
-Maureen Madden
-Rob Matzie
-Joe McAndrew
-Brian Munroe
-Jenn O'Mara
-Jared Solomon
-Joe Webster
-Kyle Mullins
-Christina Sappey
-Mary Isaacson
-Bridget Kosierowski
-Bob Merski
-John Kane
-PA State Senate
-Patty Kim
-Christine Tartaglione
-Marty Flynn
-Nikil Saval
-Maria Collett
-Vincent Hughes
-Steven Santarsiero
-Susan Wild
-Former US House
-Nick Miller
-Lisa Boscola
-Pete Schweyer
-Mike Schlossberg
-Steve Samuelson
-Bob Freeman
-Josh Siegel
-Lehigh County Executive
-Tara Zrinski
-Northampton County Executive
-Lamont McClure
-Fmr Northampton County Executive
-Matt Tuerk
-Allentown Mayor
-Jeff Glazier
-Allentown City Controller
-Cynthia Mota
-Allentown City Council Vice President
-Jeremy Binder
-Allentown City Council
-Cristian Pungo
-Sal Panto
-Easton Mayor
-Frank Pintabone
-Easton Vice-Mayor
-Brandon Faust
-Nazareth Area School Board Member
-Celeste Dee
-PA State Committee Member
-Bryan Callahan
-Bethlehem City Council
-Crystal Rose
-Easton City Council
-Susan Hartranft-Bittinger
-Frank Graziano
-Ryan Crosswell
-Former Candidate PA-07
-Carol Obando-Derstine
-Jeanne McNeill
-Jason Boulette
-Northampton County Council
-Lori Vargo Heffner
-Ron Beitler
-Lehigh County Commissioner, Independent
-Bernie Sanders
-US Senate
-Ruben Gallego
-Elizabeth Warren
-Chris Coons
-Chris Murphy
-Ro Khanna
-US House
-Val Hoyle
-Jamie Raskin
-Pete Buttigieg
-Former Secretary of Transportation
-Blue Dog PAC
-Congressional Progressive Caucus
-End Citizens United
-Feminist Majority
-Working Families Party
-Make the Road Action PA
-Lehigh Valley Young Dems
-Patriotic Millionaires
-Voter Protection Project
-MoveOn
-Social Security Works PAC
-Planned Parenthood Action Fund
-Clean Water Action
-Reproductive Freedom For All
-Defend the Vote
+Support Bob Brooks for Congress!
+Help us unite the Lehigh Valley and put out the dumpster fire in Washington.
+Make a donation today!
+Click an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $5 $10 $25 $50 $100 Other Continue to Site Meet Bob Meet Platform Platform Endorsements Endorsements News News Voter Info Voter Info Volunteer Volunteer Donate Donate Meet Bob Platform Endorsements News Voter Info Volunteer Donate Bob's Supporters Endorsements Pennsylvania's Elected Leaders National Elected Leaders Local Elected Leaders Labor Organizations Pennsylvania's Elected Leaders Josh Shapiro Governor Austin Davis Lieutenant Governor Chris Deluzio US House PA-17 Madeleine Dean US House PA-05 Chrissy Houlahan US House PA-06 Matt Bradford Majority Leader Ryan Bizzaro PA State House Lisa Borowski PA State House Gina Curry PA State House Nathan Davidson PA State House Tina Davis PA State House Kyle Donahue PA State House Maureen Madden PA State House Rob Matzie PA State House Joe McAndrew PA State House Brian Munroe PA State House Jenn O'Mara PA State House Jared Solomon PA State House Joe Webster PA State House Kyle Mullins PA State House Christina Sappey PA State House Mary Isaacson PA State House Bridget Kosierowski PA State House Bob Merski PA State House John Kane PA State Senate Patty Kim PA State Senate Christine Tartaglione PA State Senate Marty Flynn PA State Senate Nikil Saval PA State Senate Maria Collett PA State Senate Vincent Hughes PA State Senate Steven Santarsiero PA State Senate Local Elected Leaders Susan Wild Former US House Nick Miller PA State Senate Lisa Boscola PA State Senate Pete Schweyer PA State House Mike Schlossberg PA State House Steve Samuelson PA State House Bob Freeman PA State House Maureen Madden PA State House Josh Siegel Lehigh County Executive Tara Zrinski Northampton County Executive Lamont McClure Fmr Northampton County Executive Matt Tuerk Allentown Mayor Jeff Glazier Allentown City Controller Cynthia Mota Allentown City Council Vice President Jeremy Binder Allentown City Council Cristian Pungo Allentown City Council Sal Panto Easton Mayor Frank Pintabone Easton Vice-Mayor Brandon Faust Nazareth Area School Board Member Celeste Dee PA State Committee Member Bryan Callahan Bethlehem City Council Crystal Rose Easton City Council Susan Hartranft-Bittinger Easton City Council Frank Graziano Easton City Council Ryan Crosswell Former Candidate PA-07 Carol Obando-Derstine Former Candidate PA-07 Jeanne McNeill PA State House Jason Boulette Northampton County Council Lori Vargo Heffner Northampton County Council Ron Beitler Lehigh County Commissioner, Independent National Elected Leaders Bernie Sanders US Senate Ruben Gallego US Senate Elizabeth Warren US Senate Chris Coons US Senate Chris Murphy US Senate Ro Khanna US House Val Hoyle US House Jamie Raskin US House Pete Buttigieg Former Secretary of Transportation Labor Organizations Blue Dog PAC Congressional Progressive Caucus End Citizens United Feminist Majority Working Families Party Make the Road Action PA Lehigh Valley Young Dems Patriotic Millionaires Voter Protection Project MoveOn Social Security Works PAC Planned Parenthood Action Fund Clean Water Action Reproductive Freedom For All Defend the Vote Support Bob Brooks for Congress!
+Help us unite the Lehigh Valley and put out the dumpster fire in Washington.
+Make a donation today!
+Click an amount to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Team Bob VOTE Bob Brooks for Congress.
 By submitting your cell phone number you are agreeing to receive periodic political text messages from Brooks for Congress.
 Message and data rates may apply.
 Message frequency varies.
 Text HELP for more information.
 Text STOP to stop receiving messages.
 Privacy Policy and Terms and Conditions.
-PO Box 21212
-Lehigh Valley, PA 18002
-Lehigh Valley, PA 18002
-PAID FOR BY BOB BROOKS FOR CONGRESS
+PO Box 21212 Lehigh Valley, PA 18002 [email protected] • [email protected] Privacy Policy Accessibility Statement PAID FOR BY BOB BROOKS FOR CONGRESS

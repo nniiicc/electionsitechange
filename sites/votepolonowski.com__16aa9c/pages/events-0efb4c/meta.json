@@ -1,7 +1,12 @@
 {
  "description": "Discover upcoming Jared Polonowski events including Lawton Summerfest and Pride in South Haven. Join us for community engagement!",
  "final_url": "https://votepolonowski.com/events",
- "paid_for_by": "Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright \u00a9 2026 The Committee to elect Jared Polonowski - All Righ",
+ "fingerprint": "d5944a342da4daa144687075d9ad0031d954fd0f",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to elect Jared Polonowski - 1146 22nd st Otsego, MI 49078 Copyright © # The Committee to elect Jared Polonowski - All Rights Reserved",
  "title": "Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

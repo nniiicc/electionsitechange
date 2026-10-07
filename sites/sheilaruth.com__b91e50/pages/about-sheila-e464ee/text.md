@@ -1,4 +1,5 @@
-I live in Westview Park with my husband and 3 cats.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+About Sheila I live in Westview Park with my husband and 3 cats.
 I've lived here for over 30 years, raised a son here, and served the community.
 I'm currently a member of the House of Delegates, where I chair the Labor Subcommittee on the Government, Labor, and Elections Committee.
 Previously I served on Environment and Transportation committee and was a Deputy Majority Whip.
@@ -9,3 +10,9 @@ I was an elected member of the Baltimore County Democratic State Central Committ
 I'm also a member of the Baltimore County West Democratic Club and the Southwest Baltimore County Democratic Club.
 My professional background is in software and web application development.
 I've been endorsed in 2026 by the Maryland and DC AFL-CIO, AFSCME Council 3, Maryland State Education Association, Sierra Club, League of Conservation Voters, Economic Action Maryland (Champion), CASA in Action, and others.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

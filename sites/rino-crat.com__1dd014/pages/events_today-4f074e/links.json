@@ -1,20 +1,98 @@
 [
-"https://facebook.com/profile.php?id=61580913577770",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rino-crat+Events+%E2%80%93+Rino-crat",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rino-crat+Events+%E2%80%93+Rino-crat",
-"https://rino-crat.com/",
-"https://rino-crat.com/articles",
-"https://rino-crat.com/calendar-of-events",
-"https://rino-crat.com/contact",
-"https://rino-crat.com/donate",
-"https://rino-crat.com/events/2026-10-04",
-"https://rino-crat.com/events/list",
-"https://rino-crat.com/events/month",
-"https://rino-crat.com/events/today",
-"https://rino-crat.com/events/today?ical=1",
-"https://rino-crat.com/events/today?outlook-ical=1",
-"https://rino-crat.com/news",
-"https://rino-crat.com/privacy-policy",
-"https://rino-crat.com/volunteer"
+{
+"text": "#ago",
+"href": "https://rino-crat.com/events/today/"
+},
+{
+"text": "Articles",
+"href": "https://rino-crat.com/articles/"
+},
+{
+"text": "Contact",
+"href": "https://rino-crat.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://rino-crat.com/events/today/"
+},
+{
+"text": "Donate",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Donate Now",
+"href": "https://rino-crat.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://rino-crat.com/calendar-of-events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://rino-crat.com/events/today/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://rino-crat.com/events/today/?outlook-ical=1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61580913577770"
+},
+{
+"text": "Get Involved",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://rino-crat.com/"
+},
+{
+"text": "List",
+"href": "https://rino-crat.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://rino-crat.com/events/month/"
+},
+{
+"text": "News",
+"href": "https://rino-crat.com/news/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rino-crat+Events+%E2%80%93+Rino-crat"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Frino-crat.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Rino-crat+Events+%E2%80%93+Rino-crat"
+},
+{
+"text": "Previous Day",
+"href": "https://rino-crat.com/events/2026-10-06/"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://rino-crat.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://rino-crat.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://rino-crat.com"
+},
+{
+"text": "[tooltip: Previous day]",
+"href": "https://rino-crat.com/events/2026-10-06/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rino-crat.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"http://poliengine.com/",
-"https://cart/",
-"https://motternforalabama.com/",
-"https://motternforalabama.com/about",
-"https://motternforalabama.com/cdn-cgi/l/email-protection",
-"https://motternforalabama.com/contact",
-"https://motternforalabama.com/issues",
-"https://motternforalabama.com/landing",
-"https://motternforalabama.com/news",
-"https://motternforalabama.com/privacy-policy",
-"https://motternforalabama.com/volunteer",
-"https://secure.actblue.com/donate/motternforalabama"
+{
+"text": "About",
+"href": "https://motternforalabama.com/about"
+},
+{
+"text": "Contact",
+"href": "https://motternforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/motternforalabama"
+},
+{
+"text": "Home",
+"href": "https://motternforalabama.com/landing"
+},
+{
+"text": "Issues",
+"href": "https://motternforalabama.com/issues"
+},
+{
+"text": "Meet",
+"href": "https://motternforalabama.com/about"
+},
+{
+"text": "News",
+"href": "https://motternforalabama.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://motternforalabama.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://motternforalabama.com/volunteer"
+},
+{
+"text": "[email protected]",
+"href": "https://motternforalabama.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: motternforalabama]",
+"href": "https://motternforalabama.com"
+},
+{
+"text": "[image]",
+"href": "http://www.poliengine.com"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://cart"
+}
 ]

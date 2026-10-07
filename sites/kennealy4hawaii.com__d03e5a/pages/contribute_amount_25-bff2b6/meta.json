@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.kennealy4hawaii.com/contribute?amount=25",
- "paid_for_by": null,
+ "fingerprint": "740f79dd426cdec1556e9ab3fe97afc089f91111",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

@@ -1,10 +1,50 @@
 [
-"https://facebook.com/wetzelformichigan",
-"https://instagram.com/wetzel4michigan",
-"https://secure.winred.com/cte-john-wetzel-for-senate/donate-today",
-"https://tiktok.com/@wetzel4michigan",
-"https://wetzel4michigan.com/",
-"https://wetzel4michigan.com/privacy-policy",
-"https://x.com/wetzel4michigan",
-"https://youtube.com/@wetzel4michigan"
+{
+"text": "616-419-8700",
+"href": "tel:616-419-8700"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cte-john-wetzel-for-senate/donate-today"
+},
+{
+"text": "John@wetzel4Michigan.com",
+"href": "mailto:john@wetzel4michigan.com?subject=Inquiry+from+Campaign+Website"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.wetzel4michigan.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.wetzel4michigan.com/privacy-policy"
+},
+{
+"text": "[image: John Wetzel for State Senate]",
+"href": "https://www.wetzel4michigan.com/"
+},
+{
+"text": "[image: Wetzel for State Senate Icon]",
+"href": "https://www.wetzel4michigan.com/"
+},
+{
+"text": "[image: facebook logo]",
+"href": "https://www.facebook.com/wetzelformichigan/"
+},
+{
+"text": "[image: instagram logo]",
+"href": "https://www.instagram.com/wetzel4michigan"
+},
+{
+"text": "[image: tiktok logo]",
+"href": "https://www.tiktok.com/@wetzel4michigan"
+},
+{
+"text": "[image: x logo]",
+"href": "https://x.com/wetzel4michigan"
+},
+{
+"text": "[image: youtube logo]",
+"href": "https://www.youtube.com/@wetzel4michigan"
+}
 ]

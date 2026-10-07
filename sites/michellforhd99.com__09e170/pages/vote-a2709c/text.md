@@ -1,12 +1,1 @@
-Skip to content
-Home
-About Us
-Issues & Events
-Vote
-Contact Us
-Donate Now
-VOTER INFORMATION & RESOURCES
-Election Dates and Deadlines
-Check my Voter Registration
-Tarrant County Sample Ballot
-Wait Times at the Polls
+Skip to content Home About Us Issues & Events Vote Contact Us Donate Now VOTER INFORMATION & RESOURCES Election Dates and Deadlines Check my Voter Registration Tarrant County Sample Ballot Wait Times at the Polls Join Our Newsletter Subscribe Quick Links Home About Us Issues & Events Vote Useful Links Donate Now Volunteer Contact Us Follow Us Facebook-f Twitter Instagram Copyright © # - Michelle Winder | All rights reserved by Highnote Website Designs .

@@ -1,8 +1,34 @@
 [
-"http://secure.actblue.com/donate/gomarkthewebsite",
-"https://facebook.com/gomarkthehouse",
-"https://gomarkthehouse.com/",
-"https://gomarkthehouse.com/get-involved",
-"https://gomarkthehouse.com/mark-s-story",
-"https://gomarkthehouse.com/platform"
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/gomarkthewebsite"
+},
+{
+"text": "Get Involved",
+"href": "https://www.gomarkthehouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.gomarkthehouse.com"
+},
+{
+"text": "Mark's Story",
+"href": "https://www.gomarkthehouse.com/mark-s-story"
+},
+{
+"text": "Platform",
+"href": "https://www.gomarkthehouse.com/platform"
+},
+{
+"text": "[image: A top hat patterned after the American flag sits on the top left of an outline of Kansas. Mark Barlow, House District 99 is written inside the outline.]",
+"href": "https://www.gomarkthehouse.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/gomarkthehouse"
+},
+{
+"text": "gomarkthehouse@gmail.com",
+"href": "mailto:gomarkthehouse@gmail.com"
+}
 ]

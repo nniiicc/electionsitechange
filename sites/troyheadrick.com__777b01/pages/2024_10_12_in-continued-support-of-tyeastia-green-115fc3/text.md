@@ -1,19 +1,15 @@
-In Continued Support of Tyeastia Green
-I’m saddened by the fact that we are still needing to broadcast the continued mistreatment of Tyeastia Green, former Director of Burlington’s Office of Racial Equity, Inclusion & Belonging.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / In Continued Support of Tyeastia Green October 12, 2024 I’m saddened by the fact that we are still needing to broadcast the continued mistreatment of Tyeastia Green, former Director of Burlington’s Office of Racial Equity, Inclusion & Belonging.
 I first attempted to draw attention to this mistreatment in August, 2023 with a blog post in support for Tyeastia’s ally and my dear friend Ferene Paris.
 Below is my open letter to the Mayor and City Councilors urging them to commit to finding resolution to Ms.
 Green’s valid request for restitution.
 I hope you will engage in your own methods for encouraging our city to repair the harm we’ve caused.
-In Continued Support of Tyeastia Green
-October 12, 2024
-Dear Mayor Mulvaney-Stanak and Burlington City Councilors,
-I write today to join the recent collection of voices urging you to re-engage in good faith with Tyeastia Green, former Director of Burlington’s Office of Racial Equity, Inclusion & Belonging, and to acknowledge her response to the City’s initiation and invitation to negotiations of a potential settlement.
+In Continued Support of Tyeastia Green October 12, 2024 Dear Mayor Mulvaney-Stanak and Burlington City Councilors, I write today to join the recent collection of voices urging you to re-engage in good faith with Tyeastia Green, former Director of Burlington’s Office of Racial Equity, Inclusion & Belonging, and to acknowledge her response to the City’s initiation and invitation to negotiations of a potential settlement.
 I’m of the clear belief that when we initiate negotiations, to include potential monetary reparations, we are then obligated to remain engaged with those negotiations.
 As someone who has been trained and certified in and long committed to engaging with conflict mediation from a commitment to restorative practices, I worry that the administration’s use of that term, at least in this instance, is falling into common traps that actually misuse the concept.
 In my roles as a student affairs professional at the University of Vermont as well as that of a state legislator, I consistently encounter processes in which a stated commitment to restorative practices is used, at best, superficially or trivially and, at worst, from a weaponized intention.
 I’ll assume best intentions with my engagement of this conflict.
 To state it succinctly, restitution and reparations are restorative.
-While my understanding of the administration’s intent is limited to how it has been described by the recent Seven Days article, I fear that we have fallen into the trap in which restorative processes and resolutions are conceived of and defined as separate from or, possibly, incongruent to conversations that include monetary restitution.
+While my understanding of the administration’s intent is limited to how it has been described by the recent Seven Days article , I fear that we have fallen into the trap in which restorative processes and resolutions are conceived of and defined as separate from or, possibly, incongruent to conversations that include monetary restitution.
 This preconceives the process for any sort of restorative engagement.
 To be clear, the core tenets of any restorative process ask, essentially, three questions: what were we thinking to arrive at this moment, what have we thought about since the conflict, and what needs to happen that will allow us to begin to repair the harm we have caused?
 Often times, monetary compensation to repair the harm caused to a person’s professional reputation will and should be named as a valid component of any resolution.
@@ -35,5 +31,4 @@ I am saddened to learn that the former Mayor’s treatment of one of his Directo
 Regardless, the request for restitution is so clearly valid and reparations are so clearly warranted.
 Mayor and Councilors, I urge you to 1) acknowledge the harm caused to Tyeastia Green’s professional reputation by the City of Burlington, 2) provide fair monetary reimbursement to accommodate the resulting impact, and 3) reimburse Ms.
 Green for any and all costs and legal fees associated with her response to the neglectful inaction of the City of Burlington to date.
-Respectfully,
-Troy Headrick
+Respectfully, Troy Headrick < A Disturbing Decision by UVM Administration > The Pitfall of the Scarcity Mindset Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

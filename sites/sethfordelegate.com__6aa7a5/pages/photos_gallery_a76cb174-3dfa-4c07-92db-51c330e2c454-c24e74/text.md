@@ -1,0 +1,4 @@
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute South River High Storm Damage We all know about the tornado that damaged South River High and some homes in the surrounding area.
+I was on site immediately after to help coordinate with BGE and MEMA.
+I also immediately reached out to the insurance commissioner to make sure they would have reps at the Southern Dist Police station to help with anyone needing to file claims.
+Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

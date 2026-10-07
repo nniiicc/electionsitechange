@@ -1,7 +1,4 @@
-Embedded Files
-Meet Heather
-A life-long Minnesotan committed to serving our community
-Heather was born and raised in a small town in central Minnesota, much like her current home of Vadnais Heights, it was a community where neighbors look out for one another, celebrate together, and grieve together.
+Search this site Embedded Files Skip to main content Skip to navigation DONATE Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate More Home Meet Heather Priorities Contact Endorsements Donate Meet Heather A life-long Minnesotan committed to serving our community Heather was born and raised in a small town in central Minnesota, much like her current home of Vadnais Heights, it was a community where neighbors look out for one another, celebrate together, and grieve together.
 The daughter of a Catholic preschool teacher and a business manager, and the granddaughter of a Navy veteran and Iowa farmers, she grew up on stories of hard work and sacrifice to support family and community.
 She attended Minnesota State University Moorhead, majoring in Mass Communication, and began a 14-year career in radio broadcasting.
 Later, she earned her teaching license and a master’s degree in Education from the College of Saint Scholastica.
@@ -21,5 +18,4 @@ How can I help?
 Senator Gustafson serves as Vice Chair of the Education Finance Committee and the State Local Government Committee.
 She also serves on Agriculture and Rural Development, Veterans Committee, and Jobs and Economic Development.
 If you or your family need assistance, please don't hesitate to reach out.
-Google Sites
-Report abuse
+Contact us Get involoved VOTING INFORMATION HERE DONATE Media/press photos Prepared and paid for by Friends to Elect Heather Henry Gustafson, PO Box 10923, White Bear Lake, MN 55110 Google Sites Report abuse Google Sites Report abuse

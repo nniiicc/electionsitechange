@@ -1,12 +1,50 @@
 [
-"http://facebook.com/TerryWilsonPage",
-"https://terrywilsonfortexas.com/",
-"https://terrywilsonfortexas.com/articles",
-"https://terrywilsonfortexas.com/bio",
-"https://terrywilsonfortexas.com/donate",
-"https://terrywilsonfortexas.com/endorsements2024",
-"https://terrywilsonfortexas.com/issues",
-"https://terrywilsonfortexas.com/privacy",
-"https://terrywilsonfortexas.com/take-action",
-"https://terrywilsonfortexas.com/terms"
+{
+"text": "About",
+"href": "https://www.terrywilsonfortexas.com/bio"
+},
+{
+"text": "Articles",
+"href": "https://www.terrywilsonfortexas.com/articles"
+},
+{
+"text": "Donate",
+"href": "https://www.terrywilsonfortexas.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.terrywilsonfortexas.com/endorsements2024"
+},
+{
+"text": "Home",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.terrywilsonfortexas.com/issues"
+},
+{
+"text": "Privacy Policies",
+"href": "https://www.terrywilsonfortexas.com/privacy"
+},
+{
+"text": "Take Action",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.terrywilsonfortexas.com/terms"
+},
+{
+"text": "[image: Terry Wilson]",
+"href": "https://www.terrywilsonfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/TerryWilsonPage"
+},
+{
+"text": "volunteering",
+"href": "https://www.terrywilsonfortexas.com/take-action"
+}
 ]

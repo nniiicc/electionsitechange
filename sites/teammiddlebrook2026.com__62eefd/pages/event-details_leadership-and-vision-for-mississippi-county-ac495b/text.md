@@ -1,7 +1,4 @@
-TeamMiddlebrook2026
-TeamMiddlebrook2026
-Mon, Dec 29
-Osceola Performing Arts Center
-Enjoy an evening of inspiring talks from local leaders focusing on Mississippi County's future.
-Dec 29, 2025, 6:11 PM – 8:11 PM
-Osceola Performing Arts Center, Osceola, AR 72370, USA
+top of page TeamMiddlebrook2026 Join the Campaign [ + ] TeamMiddlebrook2026 Home Welcome Event Details Blog Feed Donate My Subscriptions Events Blog Groups Notifications Members Leadership and Vision for Mississippi County Mon, Dec 29 | Osceola Performing Arts Center Enjoy an evening of inspiring talks from local leaders focusing on Mississippi County's future.
+Tickets are not on sale See other events Time & Location Dec 29, 2025, 6:11 PM – 8:11 PM Osceola Performing Arts Center, Osceola, AR 72370, USA About the event Empowering talks for a brighter future.
+Show More Share this event TeamMiddlebrook2026 Phone - 870.740.4356 Email- TeamMiddlebrook2026@gmail.com ​ Michael Middlebrook Privacy Policy Accessibility Statement Terms & Conditions Refund Policy © # by TeamMiddlebrook2026.
+Powered and secured by Wix bottom of page

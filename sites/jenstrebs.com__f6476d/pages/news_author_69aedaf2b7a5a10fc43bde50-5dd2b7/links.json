@@ -1,24 +1,118 @@
 [
-"http://twitter.com/jenstrebs",
-"https://bsky.app/profile/jenstrebs.bsky.social",
-"https://facebook.com/jenstrebs",
-"https://instagram.com/jenstrebs",
-"https://jenstrebs.com/",
-"https://jenstrebs.com/about-jen",
-"https://jenstrebs.com/cart",
-"https://jenstrebs.com/endorsements",
-"https://jenstrebs.com/issues",
-"https://jenstrebs.com/news",
-"https://jenstrebs.com/news/2026/6/12/county-opens-new-8-million-homeless-shelter-in-former-hotel",
-"https://jenstrebs.com/news/2026/6/12/homelessness-5-years-from-now-kalamazoo-leaders-share-visions",
-"https://jenstrebs.com/news/2026/6/12/kalamazoo-county-efforts-on-housing-crisis-paying-off-more-still-needed",
-"https://jenstrebs.com/news/2026/6/12/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback",
-"https://jenstrebs.com/news/2026/6/12/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township",
-"https://jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability",
-"https://jenstrebs.com/updates",
-"https://mlive.com/news/kalamazoo/2026/06/homelessness-5-years-from-now-kalamazoo-leaders-share-visions.html",
-"https://publicmedianet.org/news/health/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township",
-"https://secure.actblue.com/donate/strebs4mi",
-"https://wincountry.com/2026/06/08/937432",
-"https://woodtv.com/video/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback/11851215"
+{
+"text": "0",
+"href": "https://www.jenstrebs.com/cart"
+},
+{
+"text": "About Jen",
+"href": "https://www.jenstrebs.com/about-jen"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/strebs4mi"
+},
+{
+"text": "County opens new $8 million homeless shelter in former hotel",
+"href": "https://wincountry.com/2026/06/08/937432/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenstrebs.com/endorsements"
+},
+{
+"text": "Homelessness 5 years from now: Kalamazoo leaders share visions",
+"href": "https://www.mlive.com/news/kalamazoo/2026/06/homelessness-5-years-from-now-kalamazoo-leaders-share-visions.html"
+},
+{
+"text": "Issues",
+"href": "https://www.jenstrebs.com/issues"
+},
+{
+"text": "Kalamazoo County efforts on housing crisis paying off, more still needed",
+"href": "https://wincountry.com/2026/06/08/937432/"
+},
+{
+"text": "Kalamazoo County voters to decide 8-year childcare millage addressing affordability",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "News",
+"href": "https://www.jenstrebs.com/news"
+},
+{
+"text": "Plan to reduce road deaths by removing trees draws pushback",
+"href": "https://www.woodtv.com/video/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback/11851215/"
+},
+{
+"text": "Read More",
+"href": "https://publicmedianet.org/news/health/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township/"
+},
+{
+"text": "Read More",
+"href": "https://wincountry.com/2026/06/08/937432/"
+},
+{
+"text": "Read More",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "Read More",
+"href": "https://www.mlive.com/news/kalamazoo/2026/06/homelessness-5-years-from-now-kalamazoo-leaders-share-visions.html"
+},
+{
+"text": "Read More",
+"href": "https://www.woodtv.com/video/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback/11851215/"
+},
+{
+"text": "Rx Kids Expands to Galesburg, Oshtemo Township, and Wakeshma Township",
+"href": "https://publicmedianet.org/news/health/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township/"
+},
+{
+"text": "Text Opt-In",
+"href": "https://www.jenstrebs.com/updates"
+},
+{
+"text": "[image: County opens new $8 million homeless shelter in former hotel]",
+"href": "https://www.jenstrebs.com/news/2026/6/12/county-opens-new-8-million-homeless-shelter-in-former-hotel"
+},
+{
+"text": "[image: Homelessness 5 years from now: Kalamazoo leaders share visions]",
+"href": "https://www.jenstrebs.com/news/2026/6/12/homelessness-5-years-from-now-kalamazoo-leaders-share-visions"
+},
+{
+"text": "[image: Jen Strebs]",
+"href": "https://www.jenstrebs.com/"
+},
+{
+"text": "[image: Kalamazoo County efforts on housing crisis paying off, more still needed]",
+"href": "https://www.jenstrebs.com/news/2026/6/12/kalamazoo-county-efforts-on-housing-crisis-paying-off-more-still-needed"
+},
+{
+"text": "[image: Kalamazoo County voters to decide 8-year childcare millage addressing affordability]",
+"href": "https://www.jenstrebs.com/news/2026/6/18/kalamazoo-county-voters-to-decide-8-year-childcare-millage-addressing-affordability"
+},
+{
+"text": "[image: Plan to reduce road deaths by removing trees draws pushback]",
+"href": "https://www.jenstrebs.com/news/2026/6/12/plan-to-reduce-road-deaths-by-removing-trees-draws-pushback"
+},
+{
+"text": "[image: Rx Kids Expands to Galesburg, Oshtemo Township, and Wakeshma Township]",
+"href": "https://www.jenstrebs.com/news/2026/6/12/rx-kids-expands-to-galesburg-oshtemo-township-and-wakeshma-township"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jenstrebs.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/jenstrebs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jenstrebs/"
+}
 ]

@@ -1,21 +1,21 @@
-by Jay Cincotti | Jun 2, 2026 | 8th Congressional District, Affordable Healthcare, News & Updates
-Cites challenges at meeting with Columbia-Savin Hill constituentsBy Gage Vieno, Special to the Reporter JUNE 2, 2026 Congressman Steve Lynch told members of the Columbia-Savin Hill Civic Association on Monday this week that proposed federal Medicaid cuts and the...
-by Jay Cincotti | Feb 19, 2026 | 8th Congressional District, Affordable Healthcare, News & Updates
-State representative John Rogers of Norwood and Senator Mike Rush along with other legislators are advocating for Massachusetts to use eminent domainto take over the site and facilities of Norwood Hospital which is owned by the bankrupt Steward Health...
-by Jay Cincotti | Feb 21, 2025 | 8th Congressional District, Affordable Healthcare, News & Updates, Veterans
-By adamg on Fri, 02/21/2025 – 2:26pm (Universal Hub) US Rep.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals by Jay Cincotti | Jun 2, 2026 | 8th Congressional District , Affordable Healthcare , News & Updates Cites challenges at meeting with Columbia-Savin Hill constituentsBy Gage Vieno, Special to the Reporter JUNE 2, 2026 Congressman Steve Lynch told members of the Columbia-Savin Hill Civic Association on Monday this week that proposed federal Medicaid cuts and the...
+Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital by Jay Cincotti | Feb 19, 2026 | 8th Congressional District , Affordable Healthcare , News & Updates State representative John Rogers of Norwood and Senator Mike Rush along with other legislators are advocating for Massachusetts to use eminent domainto take over the site and facilities of Norwood Hospital which is owned by the bankrupt Steward Health...
+Outside West Roxbury VA hospital, Lynch vows to fight White House wacko’s bid to destroy VA, Ukraine by Jay Cincotti | Feb 21, 2025 | 8th Congressional District , Affordable Healthcare , News & Updates , Veterans By adamg on Fri, 02/21/2025 – 2:26pm (Universal Hub) US Rep.
 Stephen Lynch (D-7th) joined VA and other government workers outside the VA Medical Center in West Roxbury today to denounce the Musk administration’s moves to demolish the VA system, which...
-by Jay Cincotti | Aug 20, 2024 | 8th Congressional District, Affordable Healthcare, News & Updates
-The Dorchester Reporter By Bill ForryAugust 19, 2024 Dorchester’s two representatives in Congress are calling on Gov.
+Lynch, Pressley call on Healey to prevent Carney Hospital’s closure by Jay Cincotti | Aug 20, 2024 | 8th Congressional District , Affordable Healthcare , News & Updates The Dorchester Reporter By Bill ForryAugust 19, 2024 Dorchester’s two representatives in Congress are calling on Gov.
 Maura Healey to intervene and prevent the closure of Carney Hospital.
 U.S.
 Reps.
 Stephen Lynch and Ayanna Pressley issued a joint statement on...
-by Jay Cincotti | Jan 26, 2024 | 8th Congressional District, Affordable Healthcare, News & Updates
-Jan 26, 2024, WBZ 1040 News Radio BOSTON (WBZ NewsRadio) — Steward Health Care, the for-profit health care network, wants to “exit the health care industry in Massachusetts,” according to Congressman Stephen Lynch.
+Rep.
+Stephen Lynch: Steward Health Care Wants Out Of Massachusetts by Jay Cincotti | Jan 26, 2024 | 8th Congressional District , Affordable Healthcare , News & Updates Jan 26, 2024, WBZ 1040 News Radio BOSTON (WBZ NewsRadio) — Steward Health Care, the for-profit health care network, wants to “exit the health care industry in Massachusetts,” according to Congressman Stephen Lynch.
 The Massachusetts congressional...
-by Sam Dallaire | May 21, 2021 | 8th Congressional District, Affordable Healthcare, Investing in Education, Jobs & Economic Opportunity, News & Updates
-Boston Herald By Sean Phillip Cotter UMass-Boston is looking to use some federal money to give its nursing school a home in what proponents say could be a big boost to the seaside school.
+UMass-Boston eyes nursing school under Lynch proposal by Sam Dallaire | May 21, 2021 | 8th Congressional District , Affordable Healthcare , Investing in Education , Jobs & Economic Opportunity , News & Updates Boston Herald By Sean Phillip Cotter UMass-Boston is looking to use some federal money to give its nursing school a home in what proponents say could be a big boost to the seaside school.
 U.S.
 Rep.
-Stephen Lynch announced at a press conference at the Dorchester campus...
+Stephen Lynch announced at a press conference at the Dorchester campus... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

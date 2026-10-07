@@ -1,24 +1,118 @@
 [
-"https://facebook.com/collins4senator",
-"https://instagram.com/susancollinsforsenate",
-"https://maine.gov/portal/government/edemocracy/voter_lookup.php",
-"https://maine.gov/sos/elections-voting/absentee-voting",
-"https://registertovote.sos.maine.gov/",
-"https://secure.winred.com/susan-collins/donate-contributebutton-2026",
-"https://secure.winred.com/susan-collins/moose-wink",
-"https://susancollins.com/",
-"https://susancollins.com/about",
-"https://susancollins.com/faq",
-"https://susancollins.com/get-involved",
-"https://susancollins.com/get-involved/campaign-chairs",
-"https://susancollins.com/get-involved/coalitions",
-"https://susancollins.com/media-kit",
-"https://susancollins.com/news",
-"https://susancollins.com/privacy-policy",
-"https://susancollins.com/store",
-"https://susancollins.com/terms-and-conditions",
-"https://susancollins.com/track-record",
-"https://susancollins.com/vote",
-"https://x.com/SenSusanCollins",
-"https://youtube.com/@susancollins4senator"
+{
+"text": "About",
+"href": "https://susancollins.com/about/"
+},
+{
+"text": "Absentee / Mail-in VotingRequest by October 29, 5 PMAny registered voter can request an absentee ballot to fill out at home. Ballots can be returned via postal mail, deposited in a municipal secure ballot drop box, or returned in person to the local clerk's office.",
+"href": "https://www.maine.gov/sos/elections-voting/absentee-voting"
+},
+{
+"text": "Campaign Chairs",
+"href": "https://susancollins.com/get-involved/campaign-chairs/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/susan-collins/donate-contributebutton-2026"
+},
+{
+"text": "FAQs",
+"href": "https://susancollins.com/faq/"
+},
+{
+"text": "FIND YOUR POLLING LOCATION",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Get Involved",
+"href": "https://susancollins.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://susancollins.com/"
+},
+{
+"text": "In Person on Election DayTuesday, November 3Go to your assigned polling place. Not sure where it is? Look it up here.",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Join a Coalition",
+"href": "https://susancollins.com/get-involved/coalitions/"
+},
+{
+"text": "Media Kit",
+"href": "https://susancollins.com/media-kit/"
+},
+{
+"text": "News",
+"href": "https://susancollins.com/news/"
+},
+{
+"text": "October 13thDeadline to Register to Vote Online or By Mail",
+"href": "https://registertovote.sos.maine.gov/"
+},
+{
+"text": "October 29thMail In Ballot Application Deadline at 5pmEarly In-Person Voting Ends",
+"href": "https://registertovote.sos.maine.gov/"
+},
+{
+"text": "October 5thEarly In-Person Voting Starts",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "Privacy Policy",
+"href": "https://susancollins.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://susancollins.com/store/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://susancollins.com/terms-and-conditions/"
+},
+{
+"text": "Track Record",
+"href": "https://susancollins.com/track-record/"
+},
+{
+"text": "Vote",
+"href": "https://susancollins.com/vote/"
+},
+{
+"text": "[image: Collins for Senator]",
+"href": "https://susancollins.com"
+},
+{
+"text": "[image: TV Starter 3.0]",
+"href": "https://secure.winred.com/susan-collins/moose-wink"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/collins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/susancollinsforsenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@susancollins4senator"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenSusanCollins"
+},
+{
+"text": "polling place",
+"href": "https://www.maine.gov/portal/government/edemocracy/voter_lookup.php"
+},
+{
+"text": "register online →",
+"href": "https://registertovote.sos.maine.gov/"
+},
+{
+"text": "register to vote",
+"href": "https://registertovote.sos.maine.gov/"
+}
 ]

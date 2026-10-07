@@ -1,10 +1,9 @@
 {
  "description": "Support Sam Low&#39;s campaign by donating today! Your contributions help him continue representing you in Olympia.",
  "final_url": "https://electsamlow.com/donate-today",
- "paid_for_by": "Paid for by Friends for Sam Low&nbsp; 9010 Market Pl, PMB# 341 Lake Stevens, WA 98258 Contact Sam Donate Today Powered by This website uses cookies",
+ "fingerprint": "a6822e25fdf041021e824b8c84b1b7586df6db3e",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends for Sam Low 9010 Market Pl, PMB# 341 Lake Stevens, WA 98258 Contact Sam Donate Today Powered by",
  "title": "Donate Today",
- "years_mentioned": [
-  "2022",
-  "2026"
- ]
+ "years_mentioned": []
 }

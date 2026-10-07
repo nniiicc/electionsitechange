@@ -1,11 +1,50 @@
 [
-"https://delongfornevada.com/",
-"https://delongfornevada.com/about",
-"https://delongfornevada.com/contact",
-"https://delongfornevada.com/events",
-"https://delongfornevada.com/issues",
-"https://delongfornevada.com/news",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser",
-"https://secure.winred.com/delongfornevada/donate",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.delongfornevada.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.delongfornevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/delongfornevada/donate"
+},
+{
+"text": "Events",
+"href": "https://www.delongfornevada.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delongfornevada.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "See other events",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: DeLongGE-1.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: DelongGE-3.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser"
+}
 ]

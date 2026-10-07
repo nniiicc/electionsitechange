@@ -1,11 +1,38 @@
 [
-"http://twitter.com/RepRarick",
-"https://facebook.com/Jason-Rarick-for-Senate-513735589123338?eid=ARBV2_EyzNMYMHTb0eKZKzUhNy_o4HY5iP-XkFk5Lnneadfrx_aNw07LIFF4qwU4w8puJ6wqpGrUEKmL",
-"https://jasonrarick.com/",
-"https://jasonrarick.com/contact",
-"https://jasonrarick.com/copy-of-meet-jason",
-"https://jasonrarick.com/donate",
-"https://jasonrarick.com/endorsements-awards",
-"https://jasonrarick.com/photo-gallery",
-"https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx"
+{
+"text": "CONTACT",
+"href": "https://www.jasonrarick.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://www.jasonrarick.com/donate"
+},
+{
+"text": "ENDORSEMENTS & AWARDS",
+"href": "https://www.jasonrarick.com/endorsements-awards"
+},
+{
+"text": "HOME",
+"href": "https://www.jasonrarick.com"
+},
+{
+"text": "MEET JASON",
+"href": "https://www.jasonrarick.com/copy-of-meet-jason"
+},
+{
+"text": "PHOTO GALLERY",
+"href": "https://www.jasonrarick.com/photo-gallery"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/Jason-Rarick-for-Senate-513735589123338/?eid=ARBV2_EyzNMYMHTb0eKZKzUhNy_o4HY5iP-XkFk5Lnneadfrx_aNw07LIFF4qwU4w8puJ6wqpGrUEKmL"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "http://www.twitter.com/RepRarick"
+},
+{
+"text": "[image][image][image]",
+"href": "https://mnvotes.sos.state.mn.us/VoterRegistration/VoterRegistrationMain.aspx"
+}
 ]

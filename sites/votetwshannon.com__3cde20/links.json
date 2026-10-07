@@ -1,14 +1,66 @@
 [
-"https://facebook.com/twshannon",
-"https://instagram.com/twshannon",
-"https://secure.anedot.com/friends-of-t-w-shannon/1a65d171-7a11-4713-be57-d3e0d2c9d584",
-"https://truthsocial.com/@twshannon",
-"https://votetwshannon.com/",
-"https://votetwshannon.com/about",
-"https://votetwshannon.com/contact-us",
-"https://votetwshannon.com/home",
-"https://votetwshannon.com/media",
-"https://votetwshannon.com/privacy-policy",
-"https://votetwshannon.com/terms-and-conditions",
-"https://x.com/TWShannon"
+{
+"text": "CONTACT US",
+"href": "https://votetwshannon.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-t-w-shannon/1a65d171-7a11-4713-be57-d3e0d2c9d584"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.anedot.com/friends-of-t-w-shannon/1a65d171-7a11-4713-be57-d3e0d2c9d584"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/twshannon/"
+},
+{
+"text": "HOME",
+"href": "https://votetwshannon.com/home"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/twshannon/"
+},
+{
+"text": "JOIN THE FIGHT",
+"href": "https://votetwshannon.com/#sign-up"
+},
+{
+"text": "LEARN MORE",
+"href": "https://votetwshannon.com/about"
+},
+{
+"text": "MEDIA",
+"href": "https://votetwshannon.com/media/"
+},
+{
+"text": "MEET T.W.",
+"href": "https://votetwshannon.com/about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votetwshannon.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votetwshannon.com/terms-and-conditions/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/TWShannon"
+},
+{
+"text": "[image]",
+"href": "https://votetwshannon.com"
+},
+{
+"text": "[image]",
+"href": "https://votetwshannon.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@twshannon"
+}
 ]

@@ -1,2 +1,2 @@
-Endorsements ENDORSEMENTS Looking to endorse Victoria Martz in the 2026 election?
-Email us at [email protected]
+Skip to content Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer Vote Victoria Martz Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer Endorsements ENDORSEMENTS Looking to endorse Victoria Martz in the 2026 election?
+Email us at [email protected] Menu Home About the Candidate Policies Endorsements Media Donate & Merch Info Voting Info Contact & Volunteer External-link-alt Facebook Instagram Tiktok Reddit-square Donate via act blue Copyright © # Vote Victoria Martz Home About the Candidate Donate & Merch Info Voting Info Contact & Volunteer Paid for by Friends of Victoria Martz

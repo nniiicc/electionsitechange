@@ -1,9 +1,11 @@
 {
  "description": "Explore Paul Sand&#39;s photo gallery showcasing stunning architectural, business, and government activities photography.",
  "final_url": "https://paulsand.org/gallery",
- "paid_for_by": null,
+ "fingerprint": "f846b7cdc4bdbbbad09dfa4649a2dea3e47bd847",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Gallery | Paul Sand",
  "years_mentioned": [
-  "2026"
+  "2025"
  ]
 }

@@ -1,13 +1,46 @@
 [
-"https://douglasforga.com/",
-"https://douglasforga.com/accessibility-statement",
-"https://douglasforga.com/get-involved",
-"https://douglasforga.com/meet-demetrius",
-"https://douglasforga.com/newsandpr",
-"https://douglasforga.com/platform",
-"https://douglasforga.com/privacy-policy",
-"https://facebook.com/repdouglas",
-"https://instagram.com/demetrius.douglas.581?igsh=bDl1azVnOTY3eTVy",
-"https://linkedin.com/in/demetrius-douglas-b7260b76",
-"https://x.com/rep_douglas"
+{
+"text": "Accessibility Statement",
+"href": "https://www.douglasforga.com/accessibility-statement"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.douglasforga.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.douglasforga.com"
+},
+{
+"text": "MEET DEMETRIUS",
+"href": "https://www.douglasforga.com/meet-demetrius"
+},
+{
+"text": "NEWS & PR",
+"href": "https://www.douglasforga.com/newsandpr"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.douglasforga.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.douglasforga.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/repdouglas/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/demetrius.douglas.581?igsh=bDl1azVnOTY3eTVy"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/demetrius-douglas-b7260b76/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/rep_douglas"
+}
 ]

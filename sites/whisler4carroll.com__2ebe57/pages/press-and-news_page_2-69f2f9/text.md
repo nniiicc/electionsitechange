@@ -1,14 +1,11 @@
-Press Releases & News
-My Responses to the Carroll County Times Questionnaire
-1) Why are you running for the Board of Education? – Is there a particular issue that motivates you to serve on the board of education?
-I am running to…
-High School Health Curriculum Opt-Out Provision
-Listen to this video from a Carroll County School board meeting as I discuss the High School Health Curriculum Opt-out Provision
-My Responses to the Capital News Service Questionnaire
-Campaign email: steve@whisler4boe.com Website: www.whisler4boe.com Facebook: www.facebook.com/whisler4boe Age: 54 Employment: A major health care provider in the mid-Atlantic; Military Liaison & Field Services Manager Education: Troy State University; Masters of Science in Management Why are you…
-Flag Policy in Schools
-Listen to my talk before the school board about flags in schools.
-2022 Carroll County Board of Education Candidate Profile
-Courtesy of the Carroll County Community Media Center Play Video
-Carroll County Observer Interview
-In this livestreamed, 30-minute interview with the Carroll County Observer, I have the opportunity to speak on a large number of topics that are central to our children and their…
+Skip to content Home Steve Events Press and News Endorsements DONATE Press Releases & News My Responses to the Carroll County Times Questionnaire July 9, 2022 1) Why are you running for the Board of Education? – Is there a particular issue that motivates you to serve on the board of education?
+I am running to… Read More about My Responses to the Carroll County Times Questionnaire High School Health Curriculum Opt-Out Provision June 10, 2022 Listen to this video from a Carroll County School board meeting as I discuss the High School Health Curriculum Opt-out Provision Read More about High School Health Curriculum Opt-Out Provision My Responses to the Capital News Service Questionnaire June 4, 2022 Campaign email: steve@whisler4boe.com Website: www.whisler4boe.com Facebook: www.facebook.com/whisler4boe Age: 54 Employment: A major health care provider in the mid-Atlantic; Military Liaison & Field Services Manager Education: Troy State University; Masters of Science in Management Why are you… Read More about My Responses to the Capital News Service Questionnaire Flag Policy in Schools May 11, 2022 Listen to my talk before the school board about flags in schools.
+Read More about Flag Policy in Schools 2022 Carroll County Board of Education Candidate Profile April 19, 2022 Courtesy of the Carroll County Community Media Center Play Video Read More about 2022 Carroll County Board of Education Candidate Profile Carroll County Observer Interview March 22, 2022 In this livestreamed, 30-minute interview with the Carroll County Observer, I have the opportunity to speak on a large number of topics that are central to our children and their… Read More about Carroll County Observer Interview « Previous 1 2 News History April 2026 (1) November 2025 (1) March 2025 (1) January 2024 (1) November 2022 (1) September 2022 (1) August 2022 (1) July 2022 (2) June 2022 (2) May 2022 (1) April 2022 (1) March 2022 (1) Get In Touch!
+410.963.7066 410.963.7066 6766 Ridge Road, Marriottsville, MD 21104 6766 Ridge Road Marriottsville, MD 21104 steve@Whisler4Carroll.com steve@Whisler4Carroll.com Receive Updates Keep In Touch Name (Required) First Last Email (Required) Phone Consent I have read and agree to the Terms of Service and Privacy Policy By providing my mobile number I consent to receive periodic text messages from Friends of Steve Whisler.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms of Service and Privacy Policies.
+Keep In Touch Click Here to Leave Your Information Join Us On Social Media Additional Resources Privacy Policy Terms of Service Authorized by: Friends of Steve Whisler Joe Tier, Treasurer Website Design and Hosting by Technolegs © # Friends of Steve Whisler; Joe Tier, Treasurer - All Rights Reserved.
+Scroll To Top

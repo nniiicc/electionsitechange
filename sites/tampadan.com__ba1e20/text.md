@@ -1,17 +1,26 @@
-Defending the American Dream for Every Generation
-A new generation of conservative leadership — ready to fight for Tampa Bay families and take back what belongs to the people.
-Meet Dan Weldon
-A New Generation of Leadership for Tampa
-Dan Weldon is a Tampa native who learned early that fighting for what’s right often means taking on powerful people.
+Skip to content Find your voting location here → Donate Defending the American Dream for Every Generation A new generation of conservative leadership — ready to fight for Tampa Bay families and take back what belongs to the people.
+Join the Krewe Meet Dan Meet Dan Weldon A New Generation of Leadership for Tampa Dan Weldon is a Tampa native who learned early that fighting for what’s right often means taking on powerful people.
 That instinct followed him to the University of Florida, where he walked on to the football team and played linebacker for the Gators — learning what discipline, loyalty, and toughness really mean.
 On campus, Dan stepped into the fight for conservative values.
 He founded a conservative student organization and built it into one of the largest chapters in the country, then was elected statewide chairman of the College Republicans of Florida with more than two-thirds of the vote.
 In 2019, he was recognized at the White House for his work defending free speech on college campuses.
 He graduated with honors from the University of Florida Levin College of Law, began his career as a prosecutor, and today works as a litigation attorney representing people who are too often outmatched by powerful systems.
 Dan and his wife, Theresa, live in Tampa.
-Where Dan Stands
-The Issues
-A direct, honest campaign built on real conversations with voters — here’s what Dan is fighting for.
-Join the Krewe
-Be Part of the Movement
-Sign up for updates and help take back the ship — starting right here in Tampa.
+Tampa Native Former Prosecutor Former Gators Linebacker UF Law, Honors Grad Conservative Activist Where Dan Stands The Issues A direct, honest campaign built on real conversations with voters — here’s what Dan is fighting for. ← 01 Independence Over Career Politics Dan’s generation has watched career politicians promise change and deliver nothing.
+He believes leadership means independence — telling the truth, challenging the system, and refusing to trade convictions for a seat at the table.
+02 Affordability Is the Breaking Point Housing, groceries, insurance, and energy costs are squeezing families and shutting young people out of the life they were promised.
+Fixing it means standing up to the special interests that profit from higher prices and fewer choices.
+03 A Campaign Built for This Moment This campaign won’t run on political theater or talking points.
+It will be direct, honest, and consistent — built around real conversations with voters, and trust earned by showing up and standing your ground.
+04 Take Back the Ship Dan’s vision is simple: put people first by returning power to those who work, build, and raise families here.
+Government should serve the people, not itself — starting right here in Tampa. → Join the Krewe Be Part of the Movement Sign up for updates and help take back the ship — starting right here in Tampa.
+First Name (Required) Last Name (Required) Email (Required) Phone Number (Required) Opportunities I would like to volunteer Request a yard sign Address (Required) Street Address Address Line 2 City State / Province / Region ZIP / Postal Code Afghanistan Åland Islands Albania Algeria American Samoa Andorra Angola Anguilla Antarctica Antigua and Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Sint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil British Indian Ocean Territory Brunei Darussalam Bulgaria Burkina Faso Burundi Cabo Verde Cambodia Cameroon Canada Cayman Islands Central African Republic Chad Chile China Christmas Island Cocos Islands Colombia Comoros Congo Congo, Democratic Republic of the Cook Islands Costa Rica Côte d'Ivoire Croatia Cuba Curaçao Cyprus Czechia Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Eswatini Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia French Southern Territories Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guinea-Bissau Guyana Haiti Heard Island and McDonald Islands Holy See Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey Jordan Kazakhstan Kenya Kiribati Korea, Democratic People's Republic of Korea, Republic of Kuwait Kyrgyzstan Lao People's Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macao Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Micronesia Moldova Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Macedonia Northern Mariana Islands Norway Oman Pakistan Palau Palestine, State of Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Puerto Rico Qatar Réunion Romania Russian Federation Rwanda Saint Barthélemy Saint Helena, Ascension and Tristan da Cunha Saint Kitts and Nevis Saint Lucia Saint Martin Saint Pierre and Miquelon Saint Vincent and the Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Sweden Switzerland Syria Arab Republic Taiwan Tajikistan Tanzania, the United Republic of Thailand Timor-Leste Togo Tokelau Tonga Trinidad and Tobago Tunisia Türkiye Turkmenistan Turks and Caicos Islands Tuvalu Uganda Ukraine United Arab Emirates United Kingdom United States Uruguay US Minor Outlying Islands Uzbekistan Vanuatu Venezuela Viet Nam Virgin Islands, British Virgin Islands, U.S.
+Wallis and Futuna Western Sahara Yemen Zambia Zimbabwe Country Message Consent By checking this box, I consent to receive recurring email and SMS messages from Dan Weldon for Florida House at the contact info provided.
+Message and data rates may apply.
+Reply STOP to opt out.
+View our Terms & Conditions and Privacy Policy here.
+Submit “ I’m Dan Weldon, and I’m running for Florida’s State House because the American Dream is under attack.
+For generations, that dream meant something real — if you worked hard and took responsibility for your family, you could build a life you were proud of.
+To save the American Dream, a new generation must rise.
+Dan Weldon Donate Paid by Dan Weldon, Republican, for Florida House District 64 © # Dan Weldon for Florida House.
+Privacy Policy

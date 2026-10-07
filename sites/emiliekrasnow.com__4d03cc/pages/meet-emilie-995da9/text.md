@@ -1,5 +1,4 @@
-Meet Emilie
-I’ve always felt fortunate to have spent my life here in Vermont.
+0 Skip to Content Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Open Menu Close Menu Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Open Menu Close Menu Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Meet Emilie I’ve always felt fortunate to have spent my life here in Vermont.
 I grew up in Charlotte, then moved to South Burlington in 2005 and have called it home ever since.
 I learned the importance of connecting with neighbors from door knocking with my dad, Gerry Krasnow, when he ran for Vermont legislature in 1994.
 His commitment to public service is what inspired me to follow in his footsteps and serve in Montpelier.
@@ -14,3 +13,5 @@ This job requires working with and listening to people who have very different p
 I’m honored to be the one to bring these varied perspectives of my South Burlington neighbors to Montpelier.
 If you see me out walking my rescue dog Ben, stop and say hello!
 I care about what matters to you and the best way to learn is to have a conversation.
+Donate Paid for by Emilie Krasnow for South Burlington PO Box 2142, South Burlington, VT 05407.
+Ann Pugh, Treasurer

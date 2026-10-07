@@ -1,20 +1,90 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=General+Election+Day+2026&dates=20261103T150000Z%2F20261104T040000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day+2026&dates=20260602T140000Z%2F20260603T030000Z",
-"https://conservativetoolbox.com/",
-"https://facebook.com/people/Peter-Soule-for-Congress/61588725792340",
-"https://souleforcongress.com/",
-"https://souleforcongress.com/about",
-"https://souleforcongress.com/cart",
-"https://souleforcongress.com/common-sense-vs-big-tent",
-"https://souleforcongress.com/contact",
-"https://souleforcongress.com/donate",
-"https://souleforcongress.com/endorsements",
-"https://souleforcongress.com/events",
-"https://souleforcongress.com/events/event-four-z3c5n-w86ed",
-"https://souleforcongress.com/events/event-four-z3c5n-w86ed?format=ical",
-"https://souleforcongress.com/events/event-three-pzmtp-6gmd7",
-"https://souleforcongress.com/events/event-three-pzmtp-6gmd7?format=ical",
-"https://souleforcongress.com/issues",
-"https://souleforcongress.com/privacy-policy"
+{
+"text": "0",
+"href": "https://souleforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://souleforcongress.com/about"
+},
+{
+"text": "Common Sense vs Big Tent",
+"href": "https://souleforcongress.com/common-sense-vs-big-tent"
+},
+{
+"text": "Conservative Toolbox",
+"href": "https://conservativetoolbox.com"
+},
+{
+"text": "Contact",
+"href": "https://souleforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://souleforcongress.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://souleforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://souleforcongress.com/events"
+},
+{
+"text": "General Election Day 2026",
+"href": "https://souleforcongress.com/events/event-four-z3c5n-w86ed"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=General+Election+Day+2026&dates=20261103T150000Z%2F20261104T040000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day+2026&dates=20260602T140000Z%2F20260603T030000Z"
+},
+{
+"text": "ICS",
+"href": "https://souleforcongress.com/events/event-four-z3c5n-w86ed?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://souleforcongress.com/events/event-three-pzmtp-6gmd7?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://souleforcongress.com/issues"
+},
+{
+"text": "Peter Soule for Congress",
+"href": "https://souleforcongress.com/"
+},
+{
+"text": "Primary Election Day 2026",
+"href": "https://souleforcongress.com/events/event-three-pzmtp-6gmd7"
+},
+{
+"text": "Privacy Policy/Terms and Conditions",
+"href": "https://souleforcongress.com/privacy-policy"
+},
+{
+"text": "View Event →",
+"href": "https://souleforcongress.com/events/event-four-z3c5n-w86ed"
+},
+{
+"text": "View Event →",
+"href": "https://souleforcongress.com/events/event-three-pzmtp-6gmd7"
+},
+{
+"text": "[image: General Election Day 2026]",
+"href": "https://souleforcongress.com/events/event-four-z3c5n-w86ed"
+},
+{
+"text": "[image: Primary Election Day 2026]",
+"href": "https://souleforcongress.com/events/event-three-pzmtp-6gmd7"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Peter-Soule-for-Congress/61588725792340/"
+}
 ]

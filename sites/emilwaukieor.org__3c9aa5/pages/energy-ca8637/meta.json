@@ -1,15 +1,21 @@
 {
  "description": "",
  "final_url": "https://emilwaukieor.org/energy",
- "paid_for_by": null,
+ "fingerprint": "01984562d24f8a994544aeca5e8b133f6a6b8816",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Energy",
  "years_mentioned": [
+  "1997",
+  "2008",
   "2016",
   "2017",
   "2018",
   "2019",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2030",
+  "2035"
  ]
 }

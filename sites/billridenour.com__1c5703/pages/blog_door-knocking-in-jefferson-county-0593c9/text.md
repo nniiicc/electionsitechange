@@ -1,5 +1,4 @@
-Door-knocking in Jefferson County
-I spend most of my days traveling around our beautiful county talking on the doorstep, the porch, or the living room or kitchen of the People of our District.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Door-knocking in Jefferson County Aug 25 Written By Amanda Ridenour I spend most of my days traveling around our beautiful county talking on the doorstep, the porch, or the living room or kitchen of the People of our District.
 It is the only part of being a politician that I like.
 Friday was a typically great day.
 It is difficult to express the amount of elation I experience after the vast majority of these discussions.
@@ -7,5 +6,6 @@ Talking to these great folks and understanding their deep concern for country, o
 I thank God for the opportunity to serve these wonderful People.
 It inspires a tremendous awe in me and a true sense of Joy.
 Thank you to the People of Jefferson County for allowing me to serve you.
-Montani Semper Liberi,
-Bill Ridenour
+Montani Semper Liberi, Bill Ridenour Amanda Ridenour Previous Previous The 2026 Legislative Session – Major events #1 – The Tax Cut Next Next Update on the 2024 Regular Session - Nothing meaningful accomplished Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

@@ -1,24 +1,106 @@
 [
-"https://act.peggyflanagan.com/survey/volunteer",
-"https://bsky.app/profile/peggyflanagan.bsky.social",
-"https://congress.gov/bill/115th-congress/senate-bill/3216/text?s=4&r=2&q=%7B%22search%22%3A%22Justice+for+Native+Survivors+of+Sexual+Violence+Act%22%7D",
-"https://congress.gov/bill/117th-congress/house-bill/5/text",
-"https://congress.gov/bill/118th-congress/senate-bill/5078?overview=closed",
-"https://congress.gov/bill/118th-congress/senate-bill/701?q=%7B%22search%22%3A%22Women%E2%80%99s+Health+Protection+Act%22%7D&r=5&s=5",
-"https://congress.gov/bill/119th-congress/senate-bill/1277?q=%7B%22search%22%3A%22Individuals+with+Disabilities+Education+Act%22%7D&s=7&r=8",
-"https://congress.gov/bill/119th-congress/senate-bill/2523?q=%7B%22search%22%3A%22john+lewis+voting+rights+act%22%7D&s=1&r=2",
-"https://congress.gov/bill/119th-congress/senate-bill/852?q=%7B%22search%22%3A%22Richard+L.+Trumka+Protecting+the+Right+to+Organize+Act%22%7D&s=9&r=2",
-"https://facebook.com/people/Peggy-Flanagan/61573651403308",
-"https://instagram.com/peggyflanagan?igsh=c2VvYmQ2OG0zaDhw",
-"https://peggyflanagan.com/",
-"https://peggyflanagan.com/endorsements",
-"https://peggyflanagan.com/priorities",
-"https://peggyflanagan.com/privacy",
-"https://peggyflanagan.com/volunteer",
-"https://revisor.mn.gov/bills/93/2023/0/HF/1?body=house",
-"https://secure.actblue.com/donate/pf-popup",
-"https://secure.actblue.com/donate/pf-web",
-"https://secure.actblue.com/donate/pf-web?express_lane=true&amount=25",
-"https://store.peggyflanagan.com/",
-"https://threads.net/@peggyflanagan?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+{
+"text": "Contact Us",
+"href": "mailto:info@peggyflanagan.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pf-web"
+},
+{
+"text": "Donate $ 25",
+"href": "https://secure.actblue.com/donate/pf-web?express_lane=true&amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://peggyflanagan.com/endorsements/"
+},
+{
+"text": "Equality Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5/text"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Peggy-Flanagan/61573651403308/"
+},
+{
+"text": "Individuals with Disabilities Education Act.",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/1277?q=%7B%22search%22%3A%22Individuals+with+Disabilities+Education+Act%22%7D&s=7&r=8"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/peggyflanagan?igsh=c2VvYmQ2OG0zaDhw"
+},
+{
+"text": "John Lewis Voting Rights Act",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/2523?q=%7B%22search%22%3A%22john+lewis+voting+rights+act%22%7D&s=1&r=2"
+},
+{
+"text": "Justice for Native Survivors of Sexual Violence Act.",
+"href": "https://www.congress.gov/bill/115th-congress/senate-bill/3216/text?s=4&r=2&q=%7B%22search%22%3A%22Justice+for+Native+Survivors+of+Sexual+Violence+Act%22%7D"
+},
+{
+"text": "PITCH IN TODAY:",
+"href": "https://secure.actblue.com/donate/pf-popup"
+},
+{
+"text": "Priorities",
+"href": "https://peggyflanagan.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://peggyflanagan.com/privacy/"
+},
+{
+"text": "Protect Reproductive Options Act",
+"href": "https://www.revisor.mn.gov/bills/93/2023/0/HF/1/?body=house"
+},
+{
+"text": "Store",
+"href": "https://store.peggyflanagan.com/"
+},
+{
+"text": "The Homes Act",
+"href": "https://www.congress.gov/bill/118th-congress/senate-bill/5078?overview=closed"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.net/@peggyflanagan?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+},
+{
+"text": "Volunteer",
+"href": "https://act.peggyflanagan.com/survey/volunteer/"
+},
+{
+"text": "Women’s Health Protection Act",
+"href": "https://www.congress.gov/bill/118th-congress/senate-bill/701?q=%7B%22search%22%3A%22Women%E2%80%99s+Health+Protection+Act%22%7D&r=5&s=5"
+},
+{
+"text": "[image]",
+"href": "https://peggyflanagan.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/peggyflanagan.bsky.social"
+},
+{
+"text": "info@peggyflanagan.com",
+"href": "mailto:info@peggyflanagan.com"
+},
+{
+"text": "making a contribution",
+"href": "https://secure.actblue.com/donate/pf-web"
+},
+{
+"text": "pass the PRO Act",
+"href": "https://www.congress.gov/bill/119th-congress/senate-bill/852?q=%7B%22search%22%3A%22Richard+L.+Trumka+Protecting+the+Right+to+Organize+Act%22%7D&s=9&r=2"
+},
+{
+"text": "press@peggyflanagan.com",
+"href": "mailto:press@peggyflanagan.com"
+},
+{
+"text": "signing up to volunteer today",
+"href": "https://peggyflanagan.com/volunteer/"
+}
 ]

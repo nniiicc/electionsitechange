@@ -1,25 +1,18 @@
 Vote Stephanie Thomas by Tues.
 Nov 3!
 Stephanie Thomas para Secretaria de Estado!
-Signed in as:
-filler@godaddy.com
+Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE More Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Account My Account Sign out Sign In My Account resounding support for stephanie!
 Stephanie is grateful for the groundswell of support she has received from statewide and community leaders.
-Find Stephanie Thomas on the Democrat Party line on your 2026 ballot!
-Find Stephanie Thomas on the Independent Party line on your 2026 ballot!
-Find Stephanie Thomas on the Working Families Party line on your 2026 ballot!
-"Stephanie Thomas has committed to governing with gun sense as a priority."
-"It's because she's transparent and she explains thing to you!"
-"Because Stephanie is a champion of democracy."
-"Because she is a uniter!
-She brings everyone together."
-"Because Donald Trump is attacking our elections, and Stephanie Thomas is our first line of defense."
-"Stephanie Thomas is authentic, smart, and very much so dedicated to the people."
-"Because she cares and works really hard to protect our elections."
-Stephanie is such a straight shooter, so knowledgeable, her background is so solid."
-"We have safe, free, and fair elections because of Stephanie Thomas."
-"There's no one I would rather have as the Secretary of the State than Stephanie Thomas!"
-"Stephanie Thomas is such an amazing civic servant!"
-"Stephanie
+ENDORSEMENTS from organizations Connecticut Democrats The Independent Party of Connecticut The Independent Party of Connecticut Find Stephanie Thomas on the Democrat Party line on your 2026 ballot!
+The Independent Party of Connecticut The Independent Party of Connecticut The Independent Party of Connecticut Find Stephanie Thomas on the Independent Party line on your 2026 ballot!
+Working Families Party The Independent Party of Connecticut Connecticut Hispanic Democratic Caucus Find Stephanie Thomas on the Working Families Party line on your 2026 ballot!
+Connecticut Hispanic Democratic Caucus Connecticut Hispanic Democratic Caucus AFL-CIO CT Connecticut State Building Trades Council AFSCME COUNCIL 4 AFSCME COUNCIL 4 AFSCME COUNCIL 4 CEA AFSCME COUNCIL 4 AFSCME COUNCIL 4 AFT CT AFSCME COUNCIL 4 EMILYs List EMILYs List EMILYs List Planned Parenthood CT Reproductive Equity Now Uniformed Professional Fire Fighters Association Uniformed Professional Fire Fighters Association Uniformed Professional Fire Fighters Association International Brotherhood of Teamsters Uniformed Professional Fire Fighters Association Uniformed Professional Fire Fighters Association CT Laborers' District Council Uniformed Professional Fire Fighters Association Connecticut citizen action group Connecticut citizen action group national organization for women - CT Chapter Connecticut citizen action group national organization for women - CT Chapter national organization for women - CT Chapter national organization for women - CT Chapter Connecticut citizen action group national organization for women - CT Chapter national organization for women - CT Chapter Connecticut League of Conversation Voters Connecticut League of Conversation Voters sierra club Connecticut League of Conversation Voters College Democrats of Connecticut Congressman Jim Himes (CT-04) - Sec.
+Thomas' home district Congressman Jim Himes (CT-04) - Sec.
+Thomas' home district AWARDS and distinctions Moms Demand Action Candidate of Distinction "Stephanie Thomas has committed to governing with gun sense as a priority." endorsements from the people "It's because she's transparent and she explains thing to you!" "Because Stephanie is a champion of democracy." "Because she is a uniter!
+She brings everyone together." "Because Donald Trump is attacking our elections, and Stephanie Thomas is our first line of defense." "Stephanie Thomas is authentic, smart, and very much so dedicated to the people." "Because she cares and works really hard to protect our elections." Stephanie is such a straight shooter, so knowledgeable, her background is so solid." "We have safe, free, and fair elections because of Stephanie Thomas." "There's no one I would rather have as the Secretary of the State than Stephanie Thomas!" "Stephanie is really the embodiment of leadership." "Stephanie Thomas is such an amazing civic servant!" "Stephanie saved my place on the voter rolls - and that was even before she became Secretary of the State!" "Because she is a strong, intelligent woman who is fighting for our right to vote." "Because she's the best!
+She's smart, she's REALLY good at what she does, she has the right values, and we need her for Connecticut!" Support for stephanie continues to grow!
+Check back every day, as we are adding new endorsements from people and organizations!
 Paid for by Stephanie Thomas for CT.
 Alan Shinbaum, Treasurer.
 Approved by Stephanie Thomas.
+Home About Stephanie Accomplishments Endorsements Priorities Voting Info ESPAÑOL News & Press Room Volunteer CONTACT DONATE Powered by

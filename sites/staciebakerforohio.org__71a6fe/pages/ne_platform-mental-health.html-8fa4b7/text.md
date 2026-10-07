@@ -1,20 +1,17 @@
-El Problema
-Ohio ocupa el puesto 29 a nivel nacional en acceso a salud mental, lo que significa que más de la mitad del país hace mejor trabajo para brindar a los residentes la atención que necesitan.
+Baker को लागि Ohio Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate EN ES SO NE Sobre Mí कार्यक्रम समर्थन Announcements इभेन्टहरू सहभागी हुनुस् स्वयंसेवक यार्ड साइन सम्पर्क Donate ← कार्यक्रममा फर्कनुस् प्राथमिकता 03 Financiando la Salud Mental y Servicios Sociales El acceso a la atención de salud mental y el tratamiento de adicciones nunca debe depender de tu código postal o tus ingresos.
+Stacie Baker luchará por llevar recursos reales a cada comunidad del Distrito 3.
+29.° Posición de Ohio en el acceso nacional a salud mental +40% Aumento en llamadas de crisis de salud mental en el Condado Franklin Crisis La epidemia de opioides continúa en las comunidades del Distrito 3 El Problema Ohio ocupa el puesto 29 a nivel nacional en acceso a salud mental, lo que significa que más de la mitad del país hace mejor trabajo para brindar a los residentes la atención que necesitan.
 En el Condado Franklin, las llamadas de crisis aumentaron en más del 40 por ciento, poniendo a prueba a los primeros respondedores que a menudo son el único recurso de salud mental disponible a las 2 a.m. en un barrio residencial.
 La crisis de opioides continúa devastando comunidades en todo el Distrito 3.
 Demasiadas familias han perdido a alguien.
 Demasiadas personas que quieren ayuda no pueden encontrar una cama de tratamiento disponible o un terapeuta que acepte Medicaid.
 El resultado es enfermedad sin tratar, salas de emergencias saturadas y un ciclo de crisis que cuesta a las comunidades mucho más de lo que costaría la prevención y el tratamiento.
-Stacie को प्रतिबद्धता
-- Dedicado a financiamiento adecuado para salud y servicios sociales: el aumento actual del presupuesto estatal es insuficiente y Stacie luchará para cambiarlo
-- Garantizar que todos los habitantes de Ohio puedan acceder a apoyo de salud mental cuando lo necesiten, independientemente de sus ingresos o código postal
-- Luchar por el financiamiento adecuado para que ningún habitante de Ohio sea rechazado del tratamiento por falta de camas disponibles, proveedores o aceptación de Medicaid
-- Apoyar programas de salud mental para primeros respondedores, la FOP respaldó a Stacie porque está con las personas en la primera línea de cada crisis comunitaria
-- Garantizar que los servicios de intervención en crisis, incluidos los equipos móviles de salud mental, lleguen a cada vecindario, urbano, suburbano y rural
-- Invertir en intervención temprana y atención comunitaria para reducir el costo a largo plazo de las enfermedades no tratadas en familias, empleadores y sistemas de seguridad pública
-सामुदायिक समस्या, राजनीतिक होइन
-Stacie Baker ha dedicado 15 años al servicio del Condado Franklin y 9 años en el Concejo Municipal de Reynoldsburg.
+Stacie को प्रतिबद्धता Dedicado a financiamiento adecuado para salud y servicios sociales : el aumento actual del presupuesto estatal es insuficiente y Stacie luchará para cambiarlo Garantizar que todos los habitantes de Ohio puedan acceder a apoyo de salud mental cuando lo necesiten , independientemente de sus ingresos o código postal Luchar por el financiamiento adecuado para que ningún habitante de Ohio sea rechazado del tratamiento por falta de camas disponibles, proveedores o aceptación de Medicaid Apoyar programas de salud mental para primeros respondedores, la FOP respaldó a Stacie porque está con las personas en la primera línea de cada crisis comunitaria Garantizar que los servicios de intervención en crisis, incluidos los equipos móviles de salud mental, lleguen a cada vecindario, urbano, suburbano y rural Invertir en intervención temprana y atención comunitaria para reducir el costo a largo plazo de las enfermedades no tratadas en familias, empleadores y sistemas de seguridad pública सामुदायिक समस्या, राजनीतिक होइन Stacie Baker ha dedicado 15 años al servicio del Condado Franklin y 9 años en el Concejo Municipal de Reynoldsburg.
 Ha visto de primera mano cómo la enfermedad mental no tratada y la adicción repercuten en familias y vecindarios, afectando escuelas, pequeñas empresas y seguridad pública.
 El actual aumento del presupuesto estatal para salud mental y servicios sociales suena bien en papel.
 No es suficiente.
 En el Senado de Ohio, Stacie luchará por un financiamiento que realmente coincida con la escala de la necesidad, no el mínimo que permite a los políticos marcar una casilla y seguir adelante.
+"El aumento presupuestario del estado para la salud mental suena como progreso.
+No es suficiente.
+Lucharé por un financiamiento que realmente coincida con lo que las familias de Ohio necesitan." Stacie Baker समर्थित Ohio Democratic Party Franklin County Democratic Party Sheet Metal Workers Local Union #24 AFSCME Ohio Council 8 AFSCME Retiree Chapter 1184 Ohio Federation of Teachers OCSEA / AFSCME Local 11 Ohio AFL-CIO Central Ohio Labor Council Columbus/Central Ohio Building & Construction Trades Council Brotherhood of Locomotive Engineers and Trainmen (Ohio State Legislative Board) Ohio Environmental Council Action Committee Hilliard Democrats Baptist Ministerial Alliance of Greater Columbus नोभेम्बर ३ मा Stacie को साथ दिनुस् आम चुनावमा हरेक मत डिस्ट्रिक्ट ३ को स्वास्थ्य र मर्यादाको लागि मत हो। अहिले दान गर्नुस् सहभागी हुनुस् Pagado por Citizens For Baker • © # Todos los Derechos Reservados • P.O.
+Box, Reynoldsburg, OH 43068

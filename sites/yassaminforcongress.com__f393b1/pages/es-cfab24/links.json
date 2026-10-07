@@ -1,26 +1,114 @@
 [
-"https://facebook.com/yassaminansari",
-"https://instagram.com/yassaminansari",
-"https://kineticstrategies.us/",
-"https://secure.actblue.com/donate/yassaminansari_web",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=10",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=100",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=25",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=250",
-"https://secure.actblue.com/donate/yassaminansari_web?amount=50",
-"https://twitter.com/yassaminansari",
-"https://yassaminforcongress.com/",
-"https://yassaminforcongress.com/es",
-"https://yassaminforcongress.com/es/about",
-"https://yassaminforcongress.com/es/contact",
-"https://yassaminforcongress.com/es/endorsements",
-"https://yassaminforcongress.com/es/media",
-"https://yassaminforcongress.com/es/news",
-"https://yassaminforcongress.com/es/news/ansari-calls-for-miller-to-be-investigated-and-prosecuted-for-illegal-push-to-end-birthright-citizenship",
-"https://yassaminforcongress.com/es/news/congresswomen-rashida-tlaib-yassamin-ansari-denounce-immoral-iran-war",
-"https://yassaminforcongress.com/es/news/rep-ansari-says-send-trump-to-prison-as-he-dismisses-family-concerns-over-uss-lincolns-record-length-deployment-saying-not-nearly-long-enough",
-"https://yassaminforcongress.com/es/news/yassamin-ansari-calls-for-closure-of-texas-ice-detention-center-after-oversight-visit",
-"https://yassaminforcongress.com/es/privacy-policy",
-"https://yassaminforcongress.com/es?page_id=944",
-"https://yassaminforcongress.myshopify.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/yassaminansari_web?amount=50"
+},
+{
+"text": "About Yassamin",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "Ansari Calls for Miller to Be ‘Investigated and Prosecuted’ for Illegal Push to End Birthright Citizenship",
+"href": "https://yassaminforcongress.com/es/news/ansari-calls-for-miller-to-be-investigated-and-prosecuted-for-illegal-push-to-end-birthright-citizenship/"
+},
+{
+"text": "Congresswomen Rashida Tlaib, Yassamin Ansari denounce ‘immoral’ Iran war",
+"href": "https://yassaminforcongress.com/es/news/congresswomen-rashida-tlaib-yassamin-ansari-denounce-immoral-iran-war/"
+},
+{
+"text": "Contact",
+"href": "https://yassaminforcongress.com/es/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Endorsements",
+"href": "https://yassaminforcongress.com/es/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/yassaminansari/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/yassaminansari/"
+},
+{
+"text": "Issues & Policy",
+"href": "https://yassaminforcongress.com/es/?page_id=944"
+},
+{
+"text": "Kinetic Strategies",
+"href": "https://kineticstrategies.us"
+},
+{
+"text": "Leer Más",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "Media",
+"href": "https://yassaminforcongress.com/es/media/"
+},
+{
+"text": "Meet Yass",
+"href": "https://yassaminforcongress.com/es/about/"
+},
+{
+"text": "News & Press",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "Noticias",
+"href": "https://yassaminforcongress.com/es/news/"
+},
+{
+"text": "OTRO",
+"href": "https://secure.actblue.com/donate/yassaminansari_web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://yassaminforcongress.com/es/privacy-policy/"
+},
+{
+"text": "Rep. Ansari Says “Send Trump to Prison” as He Dismisses Family Concerns Over USS Lincoln’s Record-Length Deployment, Saying “Not Nearly Long Enough”",
+"href": "https://yassaminforcongress.com/es/news/rep-ansari-says-send-trump-to-prison-as-he-dismisses-family-concerns-over-uss-lincolns-record-length-deployment-saying-not-nearly-long-enough/"
+},
+{
+"text": "Shop",
+"href": "https://yassaminforcongress.myshopify.com/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/yassaminansari"
+},
+{
+"text": "Yassamin Ansari calls for closure of Texas ICE detention center after oversight visit",
+"href": "https://yassaminforcongress.com/es/news/yassamin-ansari-calls-for-closure-of-texas-ice-detention-center-after-oversight-visit/"
+},
+{
+"text": "[image: en_US]English",
+"href": "https://yassaminforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://yassaminforcongress.com/es"
+}
 ]

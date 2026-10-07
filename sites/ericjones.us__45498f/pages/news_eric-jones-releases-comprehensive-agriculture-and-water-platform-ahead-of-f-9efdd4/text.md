@@ -1,7 +1,4 @@
-Eric Jones Releases Comprehensive Agriculture and Water Platform Ahead of Farm Bureau Forum
-Press Release
-Plan covers water security, flood protection, farm workforce, wine and specialty crop policy, and trade
-NAPA, CA — Today Eric Jones, Democratic candidate for California's 4th Congressional District, released a comprehensive agriculture and water platform.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Eric Jones Releases Comprehensive Agriculture and Water Platform Ahead of Farm Bureau Forum Aug 25 Written By David Tierney Press Release Plan covers water security, flood protection, farm workforce, wine and specialty crop policy, and trade NAPA, CA — Today Eric Jones, Democratic candidate for California's 4th Congressional District, released a comprehensive agriculture and water platform.
 The platform covers six distinct policy areas that are central to the lives of farmers, growers, and rural communities in the nine-county district.
 The platform’s release coincides with the Yuba-Sutter Farm Bureau forum, where Jones and Congressman Mike Thompson will appear today.
 “I grew up in a rural town.
@@ -10,8 +7,7 @@ It decides whether your kids can build a life on the same land you did.
 The people in this district, in these counties, know what they need.
 They’ve engineered the fixes.
 They’re just waiting on Washington to fund them,” Jones said.
-The platform covers six areas:
-Secure Our Water addresses the water projects the district has been waiting on, including Sites Reservoir in Colusa County.
+The platform covers six areas: Secure Our Water addresses the water projects the district has been waiting on, including Sites Reservoir in Colusa County.
 Jones called out the State Water Resources Control Board's proposed permit condition that would tie Sites' diversion to Delta outflow levels, a condition water managers say would undermine the reservoir's financial viability.
 Jones pledged to fight the condition and push for full federal funding for the project.
 The platform also covers the ARC Spillway at New Bullards Bar, Sutter Bypass levees, and Lake Berryessa and Clear Lake infrastructure.
@@ -30,8 +26,8 @@ That's what happens when a region has nobody in the room.
 These are our neighbors.
 This is what we make.
 It's long past time our representative in Washington fought for it,” Jones said.
-The full platform is available at https://www.ericjones.us/priorities.
+The full platform is available at https://www.ericjones.us/priorities .
 Jones takes no corporate PAC, special interest, or foreign money.
 He is running against 14-term incumbent Congressman Mike Thompson in California's newly redrawn 4th Congressional District, which spans nine counties from Sonoma and Napa in the west to Sutter, Yuba, and Colusa in the Sacramento Valley.
-Contact:press@ericjones.us, (650) 245-2114
-###
+Contact: press@ericjones.us , (650) 245-2114 ### David Tierney Next Next Eric Jones Accepts KCRA Debate Invitation, Calls on Thompson to Do the Same Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

@@ -1,16 +1,62 @@
 [
-"http://facebook.com/citizensforjeffmartin",
-"http://google.com/calendar/event?action=TEMPLATE&text=No+Excuse+Early+Voting&dates=20261020T130000Z%2F20261103T000000Z",
-"http://instagram.com/citizensforjeffmartin",
-"http://youtube.com/@citizensforjeffmartin",
-"https://citizensforjeffmartin.com/",
-"https://citizensforjeffmartin.com/calendar",
-"https://citizensforjeffmartin.com/cart",
-"https://citizensforjeffmartin.com/donate",
-"https://citizensforjeffmartin.com/events",
-"https://citizensforjeffmartin.com/events/early-voting-begins?format=ical",
-"https://citizensforjeffmartin.com/events/election-day",
-"https://citizensforjeffmartin.com/events/sign-blitz",
-"https://citizensforjeffmartin.com/getinvolved",
-"https://citizensforjeffmartin.com/meet"
+{
+"text": "0",
+"href": "https://www.citizensforjeffmartin.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.citizensforjeffmartin.com/events"
+},
+{
+"text": "Calendar",
+"href": "https://www.citizensforjeffmartin.com/calendar"
+},
+{
+"text": "Donate",
+"href": "https://www.citizensforjeffmartin.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.citizensforjeffmartin.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=No+Excuse+Early+Voting&dates=20261020T130000Z%2F20261103T000000Z"
+},
+{
+"text": "Home",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.citizensforjeffmartin.com/events/early-voting-begins?format=ical"
+},
+{
+"text": "Meet Jeff",
+"href": "https://www.citizensforjeffmartin.com/meet"
+},
+{
+"text": "Next Next November 3 Election Day",
+"href": "https://www.citizensforjeffmartin.com/events/election-day"
+},
+{
+"text": "Previous Previous October 3 Sign Blitz",
+"href": "https://www.citizensforjeffmartin.com/events/sign-blitz"
+},
+{
+"text": "[image: Jeff Martin for Missouri House District 30]",
+"href": "https://www.citizensforjeffmartin.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/citizensforjeffmartin"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/@citizensforjeffmartin"
+}
 ]

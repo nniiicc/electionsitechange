@@ -1,5 +1,4 @@
-Hamilton receives award for work expanding Hoosier trails (2021)
-April 30, 2021 – This week State Rep.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Hamilton receives award for work expanding Hoosier trails (2021) Apr 30 Written By Carey Hamilton April 30, 2021 – This week State Rep.
 Carey Hamilton (D-Indianapolis) received the 2021 Indiana Greenways Award for Outstanding Public Official, honoring her work in the General Assembly to advance trail access for all Hoosiers.
 The Greenways Foundation recognized Hamilton for spearheading the launch of the bipartisan, bicameral Indiana Legislative Trails Caucus.
 The caucus, which she serves as a co-chair on, aims to develop legislative priorities to help grow, connect and maintain Indiana’s network of trails and greenways.
@@ -11,6 +10,6 @@ And today, with significant new trails funding in the recently passed biennial b
 On a personal note, as a life-long runner, biker, hiker, walker and trail user, this work is particularly rewarding.
 “I'm thankful to the Greenways Foundation for all they do, and will continue to advocate alongside them.
 Their work in our Hoosier communities is so important to grow support for trails across the state.
-Their work has been especially valuable to me and my colleagues in the Indiana Legislative Trails Caucus this past year.”
-The Greenways Foundation is a statewide charitable trust that works to raise funds and support for the development, enhancement and operation of Indiana's greenways and trails.
+Their work has been especially valuable to me and my colleagues in the Indiana Legislative Trails Caucus this past year.” The Greenways Foundation is a statewide charitable trust that works to raise funds and support for the development, enhancement and operation of Indiana's greenways and trails.
 Their annual awards celebrate individuals, governments, public officials and corporations who demonstrate outstanding success in advocating for the growing Hoosier trail network.
+Our Environment Carey Hamilton Previous Previous Hamilton Urges Lawmakers to Slow Down Redistricting, Strengthen Democracy with Fair Maps Next Next Hamilton advocates for redistricting reform on the House floor (2021) Paid for and authorized by the Committee to Elect Carey Hamilton

@@ -1,12 +1,46 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/profile.php?id=61578472856305",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://street4hd28.me/",
-"https://street4hd28.me/about",
-"https://street4hd28.me/advocacy",
-"https://street4hd28.me/in-the-news",
-"https://street4hd28.me/personal-endorsements"
+{
+"text": "About",
+"href": "https://street4hd28.me/about"
+},
+{
+"text": "Advocacy",
+"href": "https://street4hd28.me/advocacy"
+},
+{
+"text": "Donate $5.00 via clean elections",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Home",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "In The News",
+"href": "https://street4hd28.me/in-the-news"
+},
+{
+"text": "Personal Endorsements",
+"href": "https://street4hd28.me/personal-endorsements"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://street4hd28.me/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578472856305"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

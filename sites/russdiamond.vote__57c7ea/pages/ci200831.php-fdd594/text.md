@@ -1,4 +1,4 @@
-There's a slight chill in the air and fall is just around the corner.
+Home Donate Blog News About Connect It's Time to Put PA on the Right Track There's a slight chill in the air and fall is just around the corner.
 But instead of my usual cheerful anticipation of football season, pumpkin spice everything, and tumbling leaves, I am in disbelief that both spring and summer are mostly behind us and were completely ruined by the ridiculous and data-free edicts of Tom Wolf and Rachel Levine.
 September and October bring a return to session in Harrisburg for the General Assembly, and while we will certainly be focusing on making sure the upcoming election runs smoothly and securely as well as moving a bill to allow parents and spectators at school sports events, I will be putting my efforts behind five pieces of legislation which are critical to protecting the rights of all Pennsylvanians.
 House Resolution 836 is the concurrent resolution to terminate Tom Wolf's COVID-19 disaster emergency.
@@ -25,4 +25,5 @@ Six months is a long time.
 Too long.
 It's time to put Pennsylvania on the right track.
 I will continue to fight tooth and nail for your freedom.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

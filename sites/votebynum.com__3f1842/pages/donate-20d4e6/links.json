@@ -1,17 +1,70 @@
 [
-"https://facebook.com/votebynum",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/votebynum",
-"https://secure.anedot.com/votebynum/donate",
-"https://votebynum.com/",
-"https://votebynum.com/about-me",
-"https://votebynum.com/contact",
-"https://votebynum.com/donate",
-"https://votebynum.com/m/account",
-"https://votebynum.com/m/create-account",
-"https://votebynum.com/memberships%2Fassociations",
-"https://votebynum.com/platform",
-"https://votebynum.com/privacy-policy",
-"https://votebynum.com/the-gift-of-art",
-"https://x.com/votebynum"
+{
+"text": "About Me",
+"href": "https://votebynum.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://votebynum.com/contact"
+},
+{
+"text": "Create Account",
+"href": "https://votebynum.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://votebynum.com/donate"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.anedot.com/votebynum/donate"
+},
+{
+"text": "Home",
+"href": "https://votebynum.com/"
+},
+{
+"text": "Memberships/Associations",
+"href": "https://votebynum.com/memberships%2Fassociations"
+},
+{
+"text": "My Account",
+"href": "https://votebynum.com/m/account"
+},
+{
+"text": "Platform",
+"href": "https://votebynum.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votebynum.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://votebynum.com/m/account"
+},
+{
+"text": "The Gift of Art",
+"href": "https://votebynum.com/the-gift-of-art"
+},
+{
+"text": "[image: VoteBynum]",
+"href": "https://votebynum.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votebynum"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebynum"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/votebynum"
+}
 ]

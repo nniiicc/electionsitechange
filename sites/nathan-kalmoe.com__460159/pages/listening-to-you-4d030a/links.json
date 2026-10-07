@@ -1,23 +1,98 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://blackearthlibrary.org/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfKcx7CHE3we9CIBoqWNDXeJrm8rUZ7_Vvjd9JfrFH3thstIA/viewform?usp=header",
-"https://google.com/aclk?sa=L&pf=1&ai=DChsSEwiZ6uG-9cqWAxXojMIIHY1YABkYACICCAEQABoCamY&co=1&ase=2&cid=CAASugHkaH1Y-1IU0usuQS0qLwlnb5QwaPihOOFOlNbzfnp_Dt7R4BDBcZB2f13rIaglcQtlaDzmW9u9TmjVaG3HwJPuKIhdx7jERDZ2hNvlDZrJty3FaEWmdKxGHStfVAFzReRTL8Lpj50smx0Dbx3VTmKQCjD1VcVFhLeZbGfBGMCVpHHrJvaBm1H6MeGQBQj9pT65odOO7PneO3hTfmvTBHNnYWURfKkEgDOBDXblnax2Ox1giWmFqrG1iPE&cce=2&category=acrcp_v1_32&sig=AOD64_1epBDY5fpN_Xqurp_80-74yF3czQ&nis=4&adurl=https%3A%2F%2Fwww.madisonpubliclibrary.org%2Flocations%2Falicia-ashman-library%3Fgad_source%3D1%26gad_campaignid%3D17762975651%26gbraid%3D0AAAAACUV-dKtbJ0aXKsCwS0Z3Bm4bKw_g%26gclid%3DCjwKCAjwzNTUBhAjEiwA7zcvWui2eNeImsjRFEF4GqSwXjWoRcGQorm1qpzcbVlDsU89gF6MuNa7jBoCUN0QAvD_BwE&ved=2ahUKEwik5Nm-9cqWAxXi0cMFHXn_OuAQ0Qx6BAgtEAs",
-"https://google.com/search?q=mazomanie+free+library&oq=Mazomanie+Free+Library&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyEwgBEC4YrwEYxwEYkQIYgAQYigUyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQcyOTZqMGo5qAIGsAIB8QW0p079smA6_A&sourceid=chrome&ie=UTF-8",
-"https://madisonpubliclibrary.org/locations/meadowridge-library",
-"https://midlibrary.org/",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://rgpl.org/home",
-"https://veronapubliclibrary.org/",
-"https://waunakeepubliclibrary.org/"
+{
+"text": "Black Earth Public Library",
+"href": "https://www.blackearthlibrary.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Cross Plains: Rosemary Garfoot Public Library",
+"href": "https://www.rgpl.org/home"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Mazomanie Free Library",
+"href": "https://www.google.com/search?q=mazomanie+free+library&oq=Mazomanie+Free+Library&gs_lcrp=EgZjaHJvbWUqEAgAEAAYkQIY4wIYgAQYigUyEAgAEAAYkQIY4wIYgAQYigUyEwgBEC4YrwEYxwEYkQIYgAQYigUyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyDQgIEAAYhgMYgAQYigUyDQgJEAAYhgMYgAQYigXSAQcyOTZqMGo5qAIGsAIB8QW0p079smA6_A&sourceid=chrome&ie=UTF-8#:~:text=Mazomanie%20Free%20Library%3A%20Library,www.mazolibrary.org%20%E2%80%BA%20..."
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "Middleton Public Library",
+"href": "https://www.midlibrary.org/"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "SW Madison: Meadowbridge Public Library",
+"href": "https://www.madisonpubliclibrary.org/locations/meadowridge-library"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "Tell Nathan here!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfKcx7CHE3we9CIBoqWNDXeJrm8rUZ7_Vvjd9JfrFH3thstIA/viewform?usp=header"
+},
+{
+"text": "Verona Public Library",
+"href": "https://www.veronapubliclibrary.org/"
+},
+{
+"text": "W. Madison: Alicia Ashman Public Library",
+"href": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiZ6uG-9cqWAxXojMIIHY1YABkYACICCAEQABoCamY&co=1&ase=2&cid=CAASugHkaH1Y-1IU0usuQS0qLwlnb5QwaPihOOFOlNbzfnp_Dt7R4BDBcZB2f13rIaglcQtlaDzmW9u9TmjVaG3HwJPuKIhdx7jERDZ2hNvlDZrJty3FaEWmdKxGHStfVAFzReRTL8Lpj50smx0Dbx3VTmKQCjD1VcVFhLeZbGfBGMCVpHHrJvaBm1H6MeGQBQj9pT65odOO7PneO3hTfmvTBHNnYWURfKkEgDOBDXblnax2Ox1giWmFqrG1iPE&cce=2&category=acrcp_v1_32&sig=AOD64_1epBDY5fpN_Xqurp_80-74yF3czQ&q=&nis=4&adurl=https%3A%2F%2Fwww.madisonpubliclibrary.org%2Flocations%2Falicia-ashman-library%3Fgad_source%3D1%26gad_campaignid%3D17762975651%26gbraid%3D0AAAAACUV-dKtbJ0aXKsCwS0Z3Bm4bKw_g%26gclid%3DCjwKCAjwzNTUBhAjEiwA7zcvWui2eNeImsjRFEF4GqSwXjWoRcGQorm1qpzcbVlDsU89gF6MuNa7jBoCUN0QAvD_BwE&ved=2ahUKEwik5Nm-9cqWAxXi0cMFHXn_OuAQ0Qx6BAgtEAs"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "Waunakee Public Library",
+"href": "https://www.waunakeepubliclibrary.org/"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+}
 ]

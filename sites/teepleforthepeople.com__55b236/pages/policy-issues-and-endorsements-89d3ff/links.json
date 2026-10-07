@@ -1,12 +1,78 @@
 [
-"http://teepleforthepeople.com/",
-"http://teepleforthepeople.com/about",
-"http://teepleforthepeople.com/contact",
-"http://teepleforthepeople.com/news",
-"http://teepleforthepeople.com/policy-issues-and-endorsements",
-"http://teepleforthepeople.com/volunteer-sign-ups",
-"https://cv4a.org/news-media/concerned-veterans-for-america-endorses-rep-james-teeple-for-re-election-to-south-carolina-house",
-"https://facebook.com/JamesTforSC",
-"https://secure.winred.com/james-teeple-for-state-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://teepleforthepeople.com/events"
+{
+"text": "About",
+"href": "http://teepleforthepeople.com/about/"
+},
+{
+"text": "Contact",
+"href": "http://teepleforthepeople.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/james-teeple-for-state-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate via WinRed",
+"href": "https://secure.winred.com/james-teeple-for-state-house/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "http://teepleforthepeople.com/policy-issues-and-endorsements/#endorsements"
+},
+{
+"text": "Events",
+"href": "https://teepleforthepeople.com/events/"
+},
+{
+"text": "Facebook: JamesTforSC",
+"href": "https://www.facebook.com/JamesTforSC/"
+},
+{
+"text": "Home",
+"href": "http://teepleforthepeople.com/"
+},
+{
+"text": "In the News",
+"href": "http://teepleforthepeople.com/news/"
+},
+{
+"text": "In the News & Events",
+"href": "http://teepleforthepeople.com/news/"
+},
+{
+"text": "Issues",
+"href": "http://teepleforthepeople.com/policy-issues-and-endorsements/"
+},
+{
+"text": "Issues & Endorsements",
+"href": "http://teepleforthepeople.com/policy-issues-and-endorsements/"
+},
+{
+"text": "Meet James",
+"href": "http://teepleforthepeople.com/about/"
+},
+{
+"text": "On the Issues",
+"href": "http://teepleforthepeople.com/policy-issues-and-endorsements/"
+},
+{
+"text": "Request a yard sign",
+"href": "http://teepleforthepeople.com/volunteer-sign-ups/"
+},
+{
+"text": "Volunteer",
+"href": "http://teepleforthepeople.com/volunteer-sign-ups/"
+},
+{
+"text": "Why He Ran",
+"href": "http://teepleforthepeople.com/about/#why"
+},
+{
+"text": "[image: Concerned Veterans for America endorsement]Concerned Veterans for America",
+"href": "https://cv4a.org/news-media/concerned-veterans-for-america-endorses-rep-james-teeple-for-re-election-to-south-carolina-house/"
+},
+{
+"text": "[image: James Teeple — State House — Christian. Conservative. Veteran.]",
+"href": "http://teepleforthepeople.com/"
+}
 ]

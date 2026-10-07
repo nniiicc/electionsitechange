@@ -1,15 +1,13 @@
-Wonewoc, WI – Recent news of well contamination in Northern Juneau County has left some residents concerned about the quality…
-Wonewoc, WI – Despite a compressed timeframe, Tony Kurtz announced that his campaign had collected over 1,000 signatures in two weeks – over five times the amount required.
-Reedsburg Times-Press Outgoing state Rep.
-Ed Brooks will take on a new role in the fall election, as campaign treasurer…
-Wonewoc, WI – Rep.
+Skip to content Kurtz For Assembly Vote Tony Kurtz on November 6th!
+Home About Tony Issues News Contact Contribute News Tony Kurtz Supports Bi-partisan Solution for Contaminated Wells July 18, 2018 kurtzforassembly Wonewoc, WI – Recent news of well contamination in Northern Juneau County has left some residents concerned about the quality… Continue Reading → Kurtz Collects More than 1,000 Signatures in Two Weeks June 4, 2018 kurtzforassembly Wonewoc, WI – Despite a compressed timeframe, Tony Kurtz announced that his campaign had collected over 1,000 signatures in two weeks – over five times the amount required.
+Continue Reading → Ed Brooks joins staff of Republican candidate seeking his seat May 31, 2018 kurtzforassembly Reedsburg Times-Press Outgoing state Rep.
+Ed Brooks will take on a new role in the fall election, as campaign treasurer… Continue Reading → Rep.
+Ed Brooks to Serve as Tony Kurtz’s Campaign Treasurer May 29, 2018 kurtzforassembly Wonewoc, WI – Rep.
 Ed Brooks will be giving his time as well as his endorsement to Tony Kurtz’s campaign for the State Assembly this year.
 The outgoing representative announced this week that he will be serving as the campaign’s treasurer.
-WRJC Juneau County organic farmer Tony Kurtz announced on Tuesday that he is running to represent the 50th Assembly district.…
-Juneau County Star-Times With Republican Incumbent Ed Brooks’ recent decision to not seek a sixth term as state representative for…
-La Crosse Tribune A former 3rd District Congressional candidate is running to replace retiring state Rep.
-Ed Brooks in the…
-WIZM Kurtz announced his bid to run for office in the 50th Assembly District.
-This comes on the heels of…
-Wonewoc, WI – Juneau County organic farmer Tony Kurtz announced on Tuesday that he is running to represent the 50th Assembly district.
+Continue Reading → Wonewoc’s Tony Kurtz Announces Plans to Run for 50th Assembly District May 21, 2018 kurtzforassembly WRJC Juneau County organic farmer Tony Kurtz announced on Tuesday that he is running to represent the 50th Assembly district.… Continue Reading → Tony Kurtz announces Assembly bid kurtzforassembly Juneau County Star-Times With Republican Incumbent Ed Brooks’ recent decision to not seek a sixth term as state representative for… Continue Reading → Tony Kurtz, former Ron Kind challenger, running for Wisconsin Assembly kurtzforassembly La Crosse Tribune A former 3rd District Congressional candidate is running to replace retiring state Rep.
+Ed Brooks in the… Continue Reading → Former Kind opponent jumps into GOP assembly race May 16, 2018 kurtzforassembly WIZM Kurtz announced his bid to run for office in the 50th Assembly District.
+This comes on the heels of… Continue Reading → Organic Farmer, 20 Year Army Veteran Tony Kurtz Announces Run for Assembly May 15, 2018 kurtzforassembly Wonewoc, WI – Juneau County organic farmer Tony Kurtz announced on Tuesday that he is running to represent the 50th Assembly district.
 Kurtz entered the race following fellow Republican Ed Brooks’s retirement from the seat.
+Continue Reading → Search for: Twitter Recent Posts Tony Kurtz Supports Bi-partisan Solution for Contaminated Wells Kurtz Collects More than 1,000 Signatures in Two Weeks Ed Brooks joins staff of Republican candidate seeking his seat Follow Tony Contact Tony Email Kurtzforassembly@gmail.com Address PO Box 23, Wonewoc, WI 53968 Get Tony’s Newsletter Sign up to receive timely, useful information in your inbox.
+Paid for by Kurtz For Assembly

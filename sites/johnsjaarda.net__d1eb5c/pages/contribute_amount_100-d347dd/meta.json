@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://www.johnsjaarda.net/contribute?amount=100",
- "paid_for_by": null,
+ "fingerprint": "39b695951664f175d2e485679cb6eecb32dba037",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

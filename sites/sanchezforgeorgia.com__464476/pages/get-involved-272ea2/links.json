@@ -1,118 +1,714 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rep.+Sanchez+&dates=20260412T160000Z%2F20260412T190000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Gabriel%27s+Birthday+Fundraiser&dates=20260425T230000Z%2F20260426T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet&dates=20260411T173000Z%2F20260411T193000Z&location=2264+Atlanta+Road+Southeast%2C+Smyrna%2C+GA%2C+30080%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez&dates=20260421T220000Z%2F20260422T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez&dates=20260428T220000Z%2F20260429T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260505T220000Z%2F20260506T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260512T220000Z%2F20260513T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260519T220000Z%2F20260519T230000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260502T170000Z%2F20260502T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260516T170000Z%2F20260516T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260425T170000Z%2F20260425T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260509T170000Z%2F20260509T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260418T140000Z%2F20260418T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260425T140000Z%2F20260425T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260502T140000Z%2F20260502T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260516T140000Z%2F20260516T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21+&dates=20260509T140000Z%2F20260509T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260426T160000Z%2F20260426T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260510T160000Z%2F20260510T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260517T160000Z%2F20260517T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260503T160000Z%2F20260503T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260503T190000Z%2F20260503T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260510T190000Z%2F20260510T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260517T190000Z%2F20260517T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21+&dates=20260419T190000Z%2F20260419T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Sunday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260419T160000Z%2F20260419T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260416T210000Z%2F20260416T233000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260423T210000Z%2F20260423T233000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260507T210000Z%2F20260507T230000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21+&dates=20260514T210000Z%2F20260514T230000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States",
-"http://maps.google.com/?q=1839+Turpin+Road+Smyrna%2C+GA%2C+30080+United+States",
-"http://maps.google.com/?q=2264+Atlanta+Road+Southeast+Smyrna%2C+GA%2C+30080+United+States",
-"http://maps.google.com/?q=2270+Benson+Poole+Road+Southeast+Smyrna%2C+GA%2C+30082+United+States",
-"https://actionnetwork.org/events/meet-greet-at-smyrna-coffee-4",
-"https://actionnetwork.org/forms/get-a-yard-sign-3",
-"https://actionnetwork.org/forms/volunteer-for-representative-gabriel-sanchezs-office",
-"https://bsky.app/profile/sanchez4georgia.bsky.social",
-"https://committee-to-elect-gabriel-sanchez.solidarity.tech/canvass-with-gabriel-sanchez",
-"https://connect.thecg.us/contact/gabriel-sanchez",
-"https://facebook.com/sanchezforgeorgia",
-"https://instagram.com/sanchez4georgia",
-"https://sanchezforgeorgia.com/",
-"https://sanchezforgeorgia.com/about",
-"https://sanchezforgeorgia.com/canvass",
-"https://sanchezforgeorgia.com/cart",
-"https://sanchezforgeorgia.com/endorsements",
-"https://sanchezforgeorgia.com/events",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april11-5laza?format=ical",
-"https://sanchezforgeorgia.com/events/canvassing-april12",
-"https://sanchezforgeorgia.com/events/canvassing-april12?format=ical",
-"https://sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696",
-"https://sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696?format=ical",
-"https://sanchezforgeorgia.com/events/gabriels-birthday-fundraiser",
-"https://sanchezforgeorgia.com/events/gabriels-birthday-fundraiser?format=ical",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw?format=ical",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2?format=ical",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph?format=ical",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8?format=ical",
-"https://sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez?format=ical",
-"https://sanchezforgeorgia.com/get-involved",
-"https://sanchezforgeorgia.com/meetandgreet",
-"https://sanchezforgeorgia.com/our-vision",
-"https://sanchezforgeorgia.com/our-work",
-"https://sanchezforgeorgia.com/press-releases",
-"https://sanchezforgeorgia.com/vote",
-"https://secure.actblue.com/donate/gabebday",
-"https://tiktok.com/@sanchez4georgia",
-"https://twitter.com/sanchez4georgia"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1839+turpin+road+smyrna%2C+ga%2C+30080+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2264+atlanta+road+southeast+smyrna%2C+ga%2C+30080+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2270+benson+poole+road+southeast+smyrna%2C+ga%2C+30082+united+states"
+},
+{
+"text": "0",
+"href": "https://www.sanchezforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.sanchezforgeorgia.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.sanchezforgeorgia.com/"
+},
+{
+"text": "Canvass",
+"href": "https://sanchezforgeorgia.com/canvass"
+},
+{
+"text": "Canvass with Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april12"
+},
+{
+"text": "Contact Form",
+"href": "https://connect.thecg.us/contact/gabriel-sanchez"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sanchezforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.sanchezforgeorgia.com/events"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.sanchezforgeorgia.com/get-involved"
+},
+{
+"text": "Gabriel's Birthday Fundraiser",
+"href": "https://www.sanchezforgeorgia.com/events/gabriels-birthday-fundraiser"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://actionnetwork.org/forms/get-a-yard-sign-3/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+Rep.+Sanchez+&dates=20260412T160000Z%2F20260412T190000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Gabriel%27s+Birthday+Fundraiser&dates=20260425T230000Z%2F20260426T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+%26amp%3B+Greet&dates=20260411T173000Z%2F20260411T193000Z&location=2264+Atlanta+Road+Southeast%2C+Smyrna%2C+GA%2C+30080%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez&dates=20260421T220000Z%2F20260422T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez&dates=20260428T220000Z%2F20260429T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260505T220000Z%2F20260506T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260512T220000Z%2F20260513T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebanking+for+Rep.+Sanchez+&dates=20260519T220000Z%2F20260519T230000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260502T170000Z%2F20260502T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260516T170000Z%2F20260516T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260425T170000Z%2F20260425T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260509T170000Z%2F20260509T200000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260418T140000Z%2F20260418T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260425T140000Z%2F20260425T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260502T140000Z%2F20260502T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260516T140000Z%2F20260516T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Saturday+Morning+Canvass+with+Rep.+Sanchez%21+&dates=20260509T140000Z%2F20260509T170000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260426T160000Z%2F20260426T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260510T160000Z%2F20260510T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21&dates=20260517T160000Z%2F20260517T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Afternoon+Canvass+with+Rep.+Sanchez%21+&dates=20260503T160000Z%2F20260503T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260503T190000Z%2F20260503T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260510T190000Z%2F20260510T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260517T190000Z%2F20260517T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Evening+Canvass+with+Rep.+Sanchez%21+&dates=20260419T190000Z%2F20260419T220000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Sunday+Morning+Canvass+with+Rep.+Sanchez%21&dates=20260419T160000Z%2F20260419T190000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260416T210000Z%2F20260416T233000Z&location=1839+Turpin+Road%2C+Smyrna%2C+GA%2C+30080%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260423T210000Z%2F20260423T233000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21&dates=20260507T210000Z%2F20260507T230000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Thursday+Evening+Canvass+with+Rep.+Sanchez%21+&dates=20260514T210000Z%2F20260514T230000Z&location=2270+Benson+Poole+Road+Southeast%2C+Smyrna%2C+GA%2C+30082%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/gabriels-birthday-fundraiser?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez?format=ical"
+},
+{
+"text": "Info on Voting﻿",
+"href": "https://www.sanchezforgeorgia.com/vote"
+},
+{
+"text": "Issues",
+"href": "https://www.sanchezforgeorgia.com/our-vision"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696"
+},
+{
+"text": "Meet & Greet",
+"href": "https://www.sanchezforgeorgia.com/meetandgreet"
+},
+{
+"text": "Our Work",
+"href": "https://www.sanchezforgeorgia.com/our-work"
+},
+{
+"text": "Phonebanking for Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez"
+},
+{
+"text": "Phonebanking for Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8"
+},
+{
+"text": "Phonebanking for Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph"
+},
+{
+"text": "Phonebanking for Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2"
+},
+{
+"text": "Phonebanking for Rep. Sanchez",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw"
+},
+{
+"text": "Press Releases",
+"href": "https://www.sanchezforgeorgia.com/press-releases"
+},
+{
+"text": "RSVP Here",
+"href": "https://actionnetwork.org/events/meet-greet-at-smyrna-coffee-4"
+},
+{
+"text": "RSVP today!",
+"href": "https://secure.actblue.com/donate/gabebday"
+},
+{
+"text": "Saturday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d"
+},
+{
+"text": "Saturday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6"
+},
+{
+"text": "Saturday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9"
+},
+{
+"text": "Saturday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb"
+},
+{
+"text": "Saturday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza"
+},
+{
+"text": "Saturday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7"
+},
+{
+"text": "Saturday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs"
+},
+{
+"text": "Saturday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn"
+},
+{
+"text": "Saturday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp"
+},
+{
+"text": "Sunday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5"
+},
+{
+"text": "Sunday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm"
+},
+{
+"text": "Sunday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5"
+},
+{
+"text": "Sunday Afternoon Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k"
+},
+{
+"text": "Sunday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl"
+},
+{
+"text": "Sunday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz"
+},
+{
+"text": "Sunday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr"
+},
+{
+"text": "Sunday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr"
+},
+{
+"text": "Sunday Morning Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989"
+},
+{
+"text": "Thursday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39"
+},
+{
+"text": "Thursday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf"
+},
+{
+"text": "Thursday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd"
+},
+{
+"text": "Thursday Evening Canvass with Rep. Sanchez!",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april12"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/gabriels-birthday-fundraiser"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2"
+},
+{
+"text": "View Event →",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw"
+},
+{
+"text": "Volunteer",
+"href": "https://actionnetwork.org/forms/volunteer-for-representative-gabriel-sanchezs-office"
+},
+{
+"text": "Volunteer",
+"href": "https://committee-to-elect-gabriel-sanchez.solidarity.tech/canvass-with-gabriel-sanchez"
+},
+{
+"text": "Vote",
+"href": "https://www.sanchezforgeorgia.com/vote"
+},
+{
+"text": "[image: Canvass with Rep. Sanchez ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april12"
+},
+{
+"text": "[image: Gabriel Sanchez for Georgia HD 42]",
+"href": "https://www.sanchezforgeorgia.com/"
+},
+{
+"text": "[image: Gabriel's Birthday Fundraiser]",
+"href": "https://www.sanchezforgeorgia.com/events/gabriels-birthday-fundraiser"
+},
+{
+"text": "[image: Meet &amp; Greet]",
+"href": "https://www.sanchezforgeorgia.com/events/g4fq9thnmyzu2lqwf22hn5nimud696"
+},
+{
+"text": "[image: Phonebanking for Rep. Sanchez ]",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph"
+},
+{
+"text": "[image: Phonebanking for Rep. Sanchez ]",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2"
+},
+{
+"text": "[image: Phonebanking for Rep. Sanchez ]",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8-jhbph-4cjt2-eayzw"
+},
+{
+"text": "[image: Phonebanking for Rep. Sanchez]",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez"
+},
+{
+"text": "[image: Phonebanking for Rep. Sanchez]",
+"href": "https://www.sanchezforgeorgia.com/events/phonebanking-for-rep-sanchez-l6mt8"
+},
+{
+"text": "[image: Saturday Afternoon Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7-4e59d"
+},
+{
+"text": "[image: Saturday Afternoon Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9"
+},
+{
+"text": "[image: Saturday Afternoon Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6"
+},
+{
+"text": "[image: Saturday Afternoon Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-8mdr6-3m7l9-ynneb"
+},
+{
+"text": "[image: Saturday Morning Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn"
+},
+{
+"text": "[image: Saturday Morning Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza"
+},
+{
+"text": "[image: Saturday Morning Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-epmc7"
+},
+{
+"text": "[image: Saturday Morning Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs"
+},
+{
+"text": "[image: Saturday Morning Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-t23cs-peryn-skrpp"
+},
+{
+"text": "[image: Sunday Afternoon Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm"
+},
+{
+"text": "[image: Sunday Afternoon Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5"
+},
+{
+"text": "[image: Sunday Afternoon Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5"
+},
+{
+"text": "[image: Sunday Afternoon Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-sbg2k"
+},
+{
+"text": "[image: Sunday Evening Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-g7zbl"
+},
+{
+"text": "[image: Sunday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz"
+},
+{
+"text": "[image: Sunday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr"
+},
+{
+"text": "[image: Sunday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-pf4c5-zxczr-fncsr"
+},
+{
+"text": "[image: Sunday Morning Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989"
+},
+{
+"text": "[image: Thursday Evening Canvass with Rep. Sanchez! ]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd-65emy"
+},
+{
+"text": "[image: Thursday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39"
+},
+{
+"text": "[image: Thursday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-93b39-jnhmf"
+},
+{
+"text": "[image: Thursday Evening Canvass with Rep. Sanchez!]",
+"href": "https://www.sanchezforgeorgia.com/events/canvassing-april11-5laza-xj989-k8dy5-ebwwm-35waz-6yjhd"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sanchez4georgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sanchez4georgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sanchezforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sanchez4georgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sanchez4georgia"
+}
 ]

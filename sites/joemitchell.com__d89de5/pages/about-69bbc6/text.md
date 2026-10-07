@@ -1,6 +1,4 @@
-Joe Mitchell For Congress
-Meet Joe
-Born and raised in a small town just south of Cedar Rapids, Joe Mitchell has spent his entire life in Iowa.
+Meet Joe Issues News Issues Volunteer    Donate Donate Joe Mitchell For Congress Meet Joe Born and raised in a small town just south of Cedar Rapids, Joe Mitchell has spent his entire life in Iowa.
 His parents are self made, small business owners and taught him the value of hard work, strong families, and looking out for your neighbors.
 These values continue with him today.
 As a developer focused on workforce housing, Joe provides working-class Iowans critical access to housing through his projects throughout rural Iowa.
@@ -18,11 +16,22 @@ He supports term limits for members of Congress, banning congressional stock tra
 He is willing to challenge the status quo because he’s not a career politician and doesn’t seek the approval of the political establishment.
 Joe is committed to tackling the issues that matter most to Iowans: lowering costs, expanding homeownership, supporting small businesses, strengthening rural communities, and restoring trust in government.
 He believes the American Dream can once again be attainable to the next generation, but only if we make serious changes.
-Medium length section heading goes here
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Tagline Medium length section heading goes here Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse varius enim in eros elementum tristique.
 Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
-Medium length section heading goes here
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Tagline Medium length section heading goes here Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse varius enim in eros elementum tristique.
 Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+Get Involved Iowa needs your help.
+Join Joe's Team!
+Email Zip Code By providing your phone number and checking this box, you are consenting to receive text messages to that number from Joe Mitchell for Congress.
+Message frequency varies.
+Message and data rates may apply.
+Donations may be solicited.
+Text HELP for help.
+Text STOP to unsubscribe.
+See our Privacy Policy Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+VOLUNTEER Meet Joe Issues Privacy Policy Paid for by Joe Mitchell for Congress Privacy Policy Terms of Service Cookies Settings

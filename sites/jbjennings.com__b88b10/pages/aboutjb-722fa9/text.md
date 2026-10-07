@@ -1,6 +1,8 @@
-Senator J.B.
-Jennings: A Trusted and Dependable Leader for Maryland
-Senator J.B.
+0 Skip to Content Legislation Newsletter Meet J.B.
+Services Contact Constituent Corner Rockfield Manor Donate Open Menu Close Menu Legislation Newsletter Meet J.B.
+Services Contact Constituent Corner Rockfield Manor Donate Open Menu Close Menu Legislation Newsletter Meet J.B.
+Services Contact Constituent Corner Rockfield Manor Donate Senator J.B.
+Jennings: A Trusted and Dependable Leader for Maryland Senator J.B.
 Jennings grew up in Baltimore County, where he attended Baltimore County Public Schools.
 From an early age, he demonstrated his dependability and commitment to service by becoming a volunteer firefighter and EMT with the Jacksonville Volunteer Fire Company (Station 47) at just 16 years old.
 After graduating from Dulaney High School, J.B. pursued a Bachelor’s Degree in Business Administration at the University of Baltimore, further solidifying his strong work ethic and dedication to personal growth.
@@ -22,10 +24,13 @@ Through his service in the Senate, the Maryland Air National Guard, and his loca
 Jennings has earned a reputation as a dependable, principled, and trustworthy leader.
 Beyond his legislative and military duties, J.B. is a trusted leader in the private sector.
 He is the President and CEO of a cyber-intelligence company and a customer service manager for a government cyber-security contractor, further demonstrating his ability to manage complex challenges with integrity and skill.
-At home in Joppa, Maryland, J.B. and his wife Michelle raise their two children, J.W.
-(b. 2013) and Kate (b. 2015), on their family farm.
+At home in Joppa, Maryland, J.B. and his wife Michelle raise their two children, J.W. (b.
+2013) and Kate (b.
+2015), on their family farm.
 Together, they uphold values of hard work, honesty, and community service.
 Michelle manages the farm, boarding horses and caring for various animals, while J.B. continues his commitment to Maryland families and communities.
 Through his service in the Senate, the Air National Guard, and his local business, J.B.
 Jennings has earned a reputation as a dependable, principled, and trustworthy leader.
 His diverse experience in public service, business, and the military enables him to deliver results for the citizens of Maryland, always guided by his steadfast dedication to their well-being.
+Mail can be sent to: Office of Senator J.B.
+Jennings 323 James Senate Office Building Annapolis, MD, 21401 Email : JB.Jennings@senate.maryland.gov Follow me on Social Media: Facebook ‍ ‍ Instagram ‍ ‍ Threads ‍ ‍ X Subscribe to my newsletter

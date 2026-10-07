@@ -1,5 +1,4 @@
-2024 - Education Policy
-A wise boss I had many years ago put words to a philosophy for education that I still believe to this day.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - Education Policy Jul 24 Written By John Bartlett for IN State Rep Dist 33 A wise boss I had many years ago put words to a philosophy for education that I still believe to this day.
 You don’t get an education to learn how to do this or that.
 You get an education to solve problems through critical thinking.
 When I first ran in 2022, the General Assembly attacked education with HB 1134, and the Republican SUPERMAJORITY has continued its assault on public education.
@@ -23,3 +22,4 @@ Teachers are not paid enough to stay in the profession.
 They have purchased their own teaching supplies for decades from their own funds rather than expensed funds.
 They are expected to meet standards to meet test scores rather than focus on teaching the skills to students needed in life.
 To simply state things, these unproductive policies need to be stopped and funding needs to be restored to our public schools so that we can produce an educated population needed to attract businesses to our rural areas again.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Agriculture Next Next 2024 - Economic Development for Rural Indiana Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

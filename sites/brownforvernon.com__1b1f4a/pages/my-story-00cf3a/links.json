@@ -1,12 +1,46 @@
 [
-"https://brownforvernon.com/",
-"https://brownforvernon.com/accomplishments",
-"https://brownforvernon.com/cart",
-"https://brownforvernon.com/contact",
-"https://brownforvernon.com/home",
-"https://brownforvernon.com/my-story",
-"https://brownforvernon.com/my-vision",
-"https://brownforvernon.com/support",
-"https://facebook.com/BrownForVernon",
-"https://twitter.com/BrownforVernon"
+{
+"text": "0",
+"href": "https://www.brownforvernon.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.brownforvernon.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.brownforvernon.com/"
+},
+{
+"text": "Home",
+"href": "https://www.brownforvernon.com/home"
+},
+{
+"text": "Kevin Brown for Vernon",
+"href": "https://www.brownforvernon.com/"
+},
+{
+"text": "My Accomplishments",
+"href": "https://www.brownforvernon.com/accomplishments"
+},
+{
+"text": "My Story",
+"href": "https://www.brownforvernon.com/my-story"
+},
+{
+"text": "My Vision",
+"href": "https://www.brownforvernon.com/my-vision"
+},
+{
+"text": "Support Kevin",
+"href": "https://www.brownforvernon.com/support"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BrownforVernon"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BrownForVernon"
+}
 ]

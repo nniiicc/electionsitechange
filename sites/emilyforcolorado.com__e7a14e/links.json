@@ -1,15 +1,62 @@
 [
-"https://emilyforcolorado.com/",
-"https://emilyforcolorado.com/privacy-policy",
-"https://facebook.com/EmilyForColorado",
-"https://instagram.com/emilyforcolorado",
-"https://linkedin.com/in/emilysirota",
-"https://secure.actblue.com/donate/emily-sirota-launch",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=10",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=100",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=25",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=250",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=32",
-"https://secure.actblue.com/donate/emily-sirota-launch?amount=50",
-"https://twitter.com/EmilyForCO"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=32"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/EmilyForColorado/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/emilyforcolorado"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/emilyforcolorado/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/emilysirota/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/emily-sirota-launch"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://emilyforcolorado.com/privacy-policy/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/EmilyForCO"
+},
+{
+"text": "[image: Emily Sirota for Colorado Senate]",
+"href": "https://emilyforcolorado.com/"
+}
 ]

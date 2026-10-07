@@ -1,20 +1,98 @@
 [
-"https://elizabethfiedler.com/",
-"https://elizabethfiedler.com/about",
-"https://elizabethfiedler.com/issues",
-"https://elizabethfiedler.com/news",
-"https://elizabethfiedler.com/our-district",
-"https://elizabethfiedler.com/southphillyvotes",
-"https://facebook.com/Fiedler4Philly",
-"https://instagram.com/eliz_fiedler",
-"https://mobilize.us/fiedlerforphilly",
-"https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1",
-"https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=15",
-"https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=20",
-"https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=35",
-"https://secure.ngpvan.com/9oIlbILSbU6ZwUxrFXfEcw2",
-"https://secure.ngpvan.com/ii_guiEJJE-7pJfOURmHOA2",
-"https://techforcampaigns.org/",
-"https://twitter.com/Fiedler4Philly",
-"https://youtube.com/channel/UCwHvnRoS4zFM1J0V2e7FTlg"
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=15"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=20"
+},
+{
+"text": "$35",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1?amount=35"
+},
+{
+"text": "Contact",
+"href": "https://secure.ngpvan.com/ii_guiEJJE-7pJfOURmHOA2"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1"
+},
+{
+"text": "Elizabeth Fiedler",
+"href": "https://elizabethfiedler.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Fiedler4Philly"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/fiedlerforphilly/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/eliz_fiedler/"
+},
+{
+"text": "Issues",
+"href": "https://elizabethfiedler.com/issues/"
+},
+{
+"text": "Mail",
+"href": "https://secure.ngpvan.com/9oIlbILSbU6ZwUxrFXfEcw2"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://elizabethfiedler.com/about/"
+},
+{
+"text": "News",
+"href": "https://elizabethfiedler.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1"
+},
+{
+"text": "Our District",
+"href": "https://elizabethfiedler.com/our-district/"
+},
+{
+"text": "Read More",
+"href": "https://elizabethfiedler.com/issues/#climate-economy"
+},
+{
+"text": "Read More",
+"href": "https://elizabethfiedler.com/issues/#schools"
+},
+{
+"text": "Read More",
+"href": "https://elizabethfiedler.com/issues/#workers-rights"
+},
+{
+"text": "South Philly Voter Project",
+"href": "https://elizabethfiedler.com/southphillyvotes/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Fiedler4Philly"
+},
+{
+"text": "View all issues →",
+"href": "https://elizabethfiedler.com/issues/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCwHvnRoS4zFM1J0V2e7FTlg"
+},
+{
+"text": "[image: Elizabeth Fiedler]",
+"href": "https://elizabethfiedler.com/"
+}
 ]

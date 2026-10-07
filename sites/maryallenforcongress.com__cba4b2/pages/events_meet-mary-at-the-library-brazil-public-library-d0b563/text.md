@@ -1,11 +1,5 @@
-Back to All Events
-Mary wants to listen!
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Meet Mary at the Library - Brazil Public Library Wednesday, April 29, 2026 5:00 PM 6:30 PM Brazil Public Library 204 North Walnut Street Brazil, IN, 47834 United States (map) Google Calendar ICS Mary wants to listen!
 Join us and bring your friends.
 Open to anyone who wants to talk.
-Previous
-Previous
-April 28
-(Decaf) Coffee with a Candidate-Loogootee
-Next
-Next
-May 1
+Source: https://www.mobilize.us/maryallenforcongress/event/938177/ Previous Previous April 28 (Decaf) Coffee with a Candidate-Loogootee Next Next May 1 Vanderburgh County Canvassing - Phonebanking is also an option.
+REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

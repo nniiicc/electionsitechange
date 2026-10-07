@@ -1,14 +1,6 @@
-Rep.
-Greg Nance
-is delivering for Kitsap
-He is working across the aisle in Olympia to expand affordable childcare,
-build our healthcare workforce,
-and Fix our Ferries
-Greg is working for working families
-“Rep.
-Greg Nance has made a remarkable impact in his inaugural term, earning him the Freshman Legislator of the Year Award.”
-— Children’s Campaign Fund
-“Greg has proven to be a solid choice for the state legislature.
-He brings a positive energy to the delegation, and in his first year delivered on his key promises to focus attention on the ferry system and children’s behavioral health, and to represent the diverse interests of people throughout the legislative district.”
-— Kitsap County Commissioner
-Christine Rolfes
+0 Skip to Content Home Meet Greg Priorities Endorsements Volunteer Donate Open Menu Close Menu Open Menu Close Menu Home Meet Greg Priorities Endorsements Volunteer Donate Home Meet Greg Priorities Endorsements Volunteer Donate Rep.
+Greg Nance is delivering for Kitsap He is working across the aisle in Olympia to expand affordable childcare, build our healthcare workforce, and Fix our Ferries Greg is working for working families “Rep.
+Greg Nance has made a remarkable impact in his inaugural term, earning him the Freshman Legislator of the Year Award .” — Children’s Campaign Fund “Greg has proven to be a solid choice for the state legislature.
+He brings a positive energy to the delegation, and in his first year delivered on his key promises to focus attention on the ferry system and children’s behavioral health, and to represent the diverse interests of people throughout the legislative district.” — Kitsap County Commissioner Christine Rolfes ENDORSED BY VIEW ALL ENDORSEMENTS We’re 100% people powered and count on grassroots support.
+Sign up for our newsletter and stay connected!
+Join us! team@electgregnance.com Paid for by Greg Nance for Kitsap, PO Box 11276, Bainbridge Island, WA 98110

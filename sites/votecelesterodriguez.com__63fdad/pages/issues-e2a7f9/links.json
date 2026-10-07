@@ -1,15 +1,78 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/CelesteforCityCouncil",
-"https://instagram.com/votecelesterodriguez",
-"https://secure.actblue.com/donate/celeste-rodriguez-1",
-"https://votecelesterodriguez.com/",
-"https://votecelesterodriguez.com/events",
-"https://votecelesterodriguez.com/issues/education",
-"https://votecelesterodriguez.com/issues/environmental-equity",
-"https://votecelesterodriguez.com/issues/family-stability-maternal-health-and-childcare",
-"https://votecelesterodriguez.com/issues/issue-1",
-"https://votecelesterodriguez.com/issues/issue-2",
-"https://votecelesterodriguez.com/news",
-"https://votecelesterodriguez.com/privacy-policy"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/celeste-rodriguez-1"
+},
+{
+"text": "Economic Opportunity for All",
+"href": "https://www.votecelesterodriguez.com/issues/issue-1"
+},
+{
+"text": "Education and Safe Learning Environments",
+"href": "https://www.votecelesterodriguez.com/issues/education"
+},
+{
+"text": "Environmental Equity",
+"href": "https://www.votecelesterodriguez.com/issues/environmental-equity"
+},
+{
+"text": "Events",
+"href": "https://www.votecelesterodriguez.com/events"
+},
+{
+"text": "Family Stability, Maternal Health, and Childcare",
+"href": "https://www.votecelesterodriguez.com/issues/family-stability-maternal-health-and-childcare"
+},
+{
+"text": "Homelessness and Affordable Housing",
+"href": "https://www.votecelesterodriguez.com/issues/issue-2"
+},
+{
+"text": "News",
+"href": "https://www.votecelesterodriguez.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votecelesterodriguez.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View more",
+"href": "https://www.votecelesterodriguez.com/issues/education"
+},
+{
+"text": "View more",
+"href": "https://www.votecelesterodriguez.com/issues/environmental-equity"
+},
+{
+"text": "View more",
+"href": "https://www.votecelesterodriguez.com/issues/family-stability-maternal-health-and-childcare"
+},
+{
+"text": "View more",
+"href": "https://www.votecelesterodriguez.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.votecelesterodriguez.com/issues/issue-2"
+},
+{
+"text": "[image: Re-Elect Celeste Rodriguez for Assembly]",
+"href": "https://www.votecelesterodriguez.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CelesteforCityCouncil/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votecelesterodriguez"
+},
+{
+"text": "celeste@votecelesterodriguez.com",
+"href": "mailto:celeste@votecelesterodriguez.com"
+}
 ]

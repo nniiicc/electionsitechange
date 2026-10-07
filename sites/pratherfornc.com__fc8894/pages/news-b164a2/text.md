@@ -1,5 +1,5 @@
-News Democratic state lawmakers push proposals to lower cost of living in NC NC Newsline April 27, 2026
-News Rep.
-Lindsey Prather files for reelection to represent Buncombe County ABC 13 News December 1, 2025
-News Opinion: Political violence has grown in past two years since Jan. 6 attack on Capitol The Citizen-Times July 6, 2025
-News NC Democrats propose bill to halt private school voucher expansions Cardinal & Pine July 3, 2024
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu News News Democratic state lawmakers push proposals to lower cost of living in NC NC Newsline April 27, 2026 News What are data centers?
+Here’s how they could affect your power bill February 16, 2026 News Rep.
+Lindsey Prather files for reelection to represent Buncombe County ABC 13 News December 1, 2025 News Why was Warren Wilson omitted from NC Helene bill’s aid to colleges?
+July 22, 2025 News Local elected officials reflect on increase in political violence Mountain Xpress July 16, 2025 News Opinion: Political violence has grown in past two years since Jan.
+6 attack on Capitol The Citizen-Times July 6, 2025 News Southern Baptist Convention passes resolution opposing IVF July 3, 2024 News Dems seek public records access amendment The Daily Advance July 3, 2024 News NC Democrats propose bill to halt private school voucher expansions Cardinal & Pine July 3, 2024 1 2 3 Next PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

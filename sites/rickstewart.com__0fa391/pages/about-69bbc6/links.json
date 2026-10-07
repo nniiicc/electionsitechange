@@ -1,32 +1,126 @@
 [
-"http://andover.edu/",
-"http://cityofpostville.com/",
-"http://eicc.edu/about-eicc/colleges-and-centers/clinton-community-college.aspx",
-"http://iastate.edu/",
-"http://maquoketaia.com/",
-"http://menlo.edu/",
-"https://facebook.com/IowaRick",
-"https://funeralinnovations.com/obituary/96450/Buddy-Olson-of-Maquoketa-Iowa",
-"https://goo.gl/maps/F8sbYyQdXTpeHL2QA",
-"https://rickstewart.com/",
-"https://rickstewart.com/2nd-amendment",
-"https://rickstewart.com/about",
-"https://rickstewart.com/clean-iowa",
-"https://rickstewart.com/contact",
-"https://rickstewart.com/drug-war",
-"https://rickstewart.com/education",
-"https://rickstewart.com/eminent-domain",
-"https://rickstewart.com/ethanol",
-"https://rickstewart.com/issues",
-"https://rickstewart.com/local-control-of-local-issues",
-"https://rickstewart.com/mental-health",
-"https://rickstewart.com/national-guard",
-"https://rickstewart.com/news",
-"https://rickstewart.com/obscene-books",
-"https://rickstewart.com/occupational-licensing",
-"https://rickstewart.com/ranked-choice-voting",
-"https://rickstewart.com/volunteer",
-"https://secure.anedot.com/rick-stewart-governor/rick-stewart-for-iowa-governor-c4351e087d6b4dead181a",
-"https://twitter.com/rickstewart",
-"https://zazzle.com/mbr/238519628130008323/collections"
+{
+"text": "2nd Amendment",
+"href": "https://www.rickstewart.com/2nd-amendment/"
+},
+{
+"text": "About",
+"href": "https://www.rickstewart.com/about/"
+},
+{
+"text": "Buddy",
+"href": "https://funeralinnovations.com/obituary/96450/Buddy-Olson-of-Maquoketa-Iowa/"
+},
+{
+"text": "Clean Iowa",
+"href": "https://www.rickstewart.com/clean-iowa/"
+},
+{
+"text": "Clinton Community College",
+"href": "http://www.eicc.edu/about-eicc/colleges-and-centers/clinton-community-college.aspx"
+},
+{
+"text": "Contact",
+"href": "https://www.rickstewart.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/rick-stewart-governor/rick-stewart-for-iowa-governor-c4351e087d6b4dead181a"
+},
+{
+"text": "Education",
+"href": "https://www.rickstewart.com/education/"
+},
+{
+"text": "Eminent Domain",
+"href": "https://www.rickstewart.com/eminent-domain/"
+},
+{
+"text": "End the Drug War",
+"href": "https://www.rickstewart.com/drug-war/"
+},
+{
+"text": "Ethanol",
+"href": "https://www.rickstewart.com/ethanol/"
+},
+{
+"text": "Home",
+"href": "https://www.rickstewart.com/"
+},
+{
+"text": "Iowa State University",
+"href": "http://www.iastate.edu/"
+},
+{
+"text": "Issues",
+"href": "https://www.rickstewart.com/issues/"
+},
+{
+"text": "Local control of local issues",
+"href": "https://www.rickstewart.com/local-control-of-local-issues/"
+},
+{
+"text": "Maquoketa",
+"href": "http://www.maquoketaia.com/"
+},
+{
+"text": "Menlo College",
+"href": "http://www.menlo.edu/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.rickstewart.com/mental-health/"
+},
+{
+"text": "National Guard",
+"href": "https://www.rickstewart.com/national-guard/"
+},
+{
+"text": "News",
+"href": "https://www.rickstewart.com/news/"
+},
+{
+"text": "Obscene books",
+"href": "https://www.rickstewart.com/obscene-books/"
+},
+{
+"text": "Occupational licensing",
+"href": "https://www.rickstewart.com/occupational-licensing/"
+},
+{
+"text": "Phillips Academy",
+"href": "http://www.andover.edu/"
+},
+{
+"text": "Postville",
+"href": "http://www.cityofpostville.com/"
+},
+{
+"text": "Ranked Choice Voting",
+"href": "https://www.rickstewart.com/ranked-choice-voting/"
+},
+{
+"text": "Rick Stewart",
+"href": "https://goo.gl/maps/F8sbYyQdXTpeHL2QA"
+},
+{
+"text": "Store",
+"href": "https://www.zazzle.com/mbr/238519628130008323/collections"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rickstewart.com/volunteer/"
+},
+{
+"text": "[image: rS Logo]",
+"href": "https://www.rickstewart.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/rickstewart"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IowaRick"
+}
 ]

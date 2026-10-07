@@ -1,6 +1,4 @@
-Lawrence Journal World Primary Voter Guide
-These answers were submitted to the Lawrence Journal World in response to their candidate questionnaire:
-Please tell us about your education and career.
+0 Skip to Content Meet Suzanne Issues Get Involved News Newsletter DONATE Open Menu Close Menu Open Menu Close Menu Meet Suzanne Issues Get Involved News Newsletter DONATE Meet Suzanne Issues Get Involved News Newsletter DONATE Lawrence Journal World Primary Voter Guide Blog Jul 17 Written By Suzanne Wikle These answers were submitted to the Lawrence Journal World in response to their candidate questionnaire: Please tell us about your education and career.
 If you are currently working, please tell us with what company or organization, and what position you hold.
 My career has been dedicated to advancing progressive policies that aim to ensure everyone has affordable health care, a strong education, and that our economy works for everyday people over corporations and the wealthy.
 I currently serve as the State Representative for House District 10.
@@ -27,10 +25,9 @@ I will not support a reduction in those 20 mills because it would be a direct cu
 For my property, a total of 128.22 mills are levied for property tax.
 This means that 108.22 out of the total 128.22 are from local taxing entities and not directly within the state’s control.
 What the state can do is incentivize local governments to keep property taxes in check.
-Here are actions I support at the state level to help or incentivize local entities to reduce property taxes:
-- Restore state general fund transfers to local governments.
+Here are actions I support at the state level to help or incentivize local entities to reduce property taxes: Restore state general fund transfers to local governments.
 These were largely eliminated during the Brownback budget crises, creating a cost-shift to local governments.
-- Fully fund special education.
+Fully fund special education.
 When the state doesn’t fulfill our obligation, local school districts are left with no option but to use local dollars to backfill the missing state dollars.
 Those local dollars come from property taxes.
 The “three legged stool” of property, income, and sales tax has historically worked well for Kansas (except during the Brownback tax experiment).
@@ -77,8 +74,7 @@ I often hear the argument that data centers provide good jobs for construction t
 Off-year redistricting was another national debate topic that was also considered by the state legislature this past year.
 What is your stance on off-cycle redistricting efforts?
 (A note - technically it was not actually considered by the legislature.
-There was an effort by Republican leadership to call a special session in 2025 to redistrict the four Congressional House seats in Kansas, but the Speaker of the House and the Senate President could not get the needed support from their members to convene a special session.)
-I heard from hundreds of constituents about off-cycle redistricting last summer.
+There was an effort by Republican leadership to call a special session in 2025 to redistrict the four Congressional House seats in Kansas, but the Speaker of the House and the Senate President could not get the needed support from their members to convene a special session.) I heard from hundreds of constituents about off-cycle redistricting last summer.
 As I told those constituents, I do not support off-cycle redistricting.
 This is yet another example of the attack on democracy by Republicans.
 Since the redistricting effort started in Texas last year, we’ve also seen the gutting of the Voting Rights Act by SCOTUS, which is making the implications of redistricting even worse.
@@ -92,3 +88,6 @@ I ran for office to put people and families at the forefront and do what’s bes
 And, that’s exactly what I have done.
 I had a successful first term - forcing a vote on Medicaid expansion to get Republicans on record, sponsoring a bipartisan bill to increase narcan availability and save costs for organizations, consistently pushing back against extremism and standing up for human rights for all.
 If voters re-elect me in 2027 I will continue the work I’ve done, and as the state faces a looming budget crisis, I will be a fierce advocate and voice to ensure we are not short-changing our kids and families.
+Blog Suzanne Wikle Next Next Office of Early Childhood Opening remarks Paid for by Suzanne Wikle for Kansas.
+Allison Marker, treasurer.
+Meet Suzanne Issues Get Involved DONATE

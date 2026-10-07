@@ -1,170 +1,29 @@
-An Update from the Alabama State House for the Week of March 9, 2026 - March 13, 2026
-ALABAMA HOUSE APPROVES RECORD $10.4 BILLION ETF BUDGET
-• The Alabama House approved on Tuesday a record $10.4 billion Education Trust Fund
-budget for Fiscal Year 2027 that allocates funding for the state’s K-12 public schools,
-community colleges, and four-year universities.
-• Sponsored by House Ways and Means Education Chairman Danny Garrett (R -
-Trussville), the proposed ETF is roughly $570 million, or 5.7%, higher than the
-FY2026 spending plan.
-• The budget includes a 2% cost-of-living pay raise for public school teachers, support
-staff, and administrators, which is their first salary increase in three years.
-• Funding for the Public Education Employees’ Health Insurance Program, known by the
-acronym of PEEHIP, would be increased by $180 million under the House-approved
-version in order to help resolve a looming $380 million increase in premium costs.
-• Garrett explained that PEEHIP currently has roughly $2.7 billion in reserves be-
-ing held in its reserves that could be tapped to fund the balance, or the program’s
-governing board has the option of increasing premiums and co-pays to help re-
-solve the balance.
-• The PEEHIP premium for comprehensive health insurance coverage for individu-
-als is currently just $30 a month while family coverage with no spouse is $156
-monthly, and married with spouse is $273.
-• The CHOOSE Act, Alabama’s new and expanding school choice program, will receive
-a 38% increase provided by the CHOOSE Act Fund and transfers, as participating in
-the program widens to more students.• The CHOOSE Act received $180 million in FY2026 but would increase to $251.2
-million under the House budget.
-• The Alabama Reading Initiative, which funds the Literacy Act previously passed by
-legislators in order to ensure students are reading at or above grade level by the end of
-third grade, would receive level funding.
-• The Alabama Math, Science, and Technology Initiative, which was created to improve
-math and science teaching and outcomes statewide, would receive a $23 million, or
-17%, increase.
-• Public colleges and universities would receive a $107 million, or 5.8%, increase taking
-them to $1.8 billion overall.
-• A separate supplemental budget, which consists of collected revenues over and above
-the amount budget in the previous fiscal year, was also passed and included approxi-
-mately $275 million for public higher education institutions, $570 million for the Al-
-abama State Department of Education, and $150 million in grant money for career and
-technical education programs.
-• The ETF now goes to the Senate for consideration.
-SCHOOL PRAYER/PLEDGE CONSTITUTIONAL AMENDMENT
-The Alabama House on Tuesday approved a proposed constitutional amendment by State
-Rep.
-Reed Ingram (R - Pike Road) that requires public schools to allow voluntary
-student-led prayer and the Pledge of Allegiance at the start of the school day.
-If passed by the Senate and ratified by voters on the November ballot, the amendment
-would require schools to have students recite the Pledge of Allegiance at the start of each
-school day and also allow for a student-led prayer.
-Students would have the opportunity to opt out of either or both activities, and local
-school systems would promulgate rules outlining how the prayer period would work,
-which includes setting time limits on the length of prayers
-The constitutional amendment supplements a 2019 law previously passed by House
-Speaker Nathaniel Ledbetter (R - Rainsville) that requires school days to begin with the
-Pledge of Allegiance and allows Bible study electives in grades 6 to 12.
-The bill, which passed by a 94 - 3 margin with six abstentions, now goes to the Senate for
-consideration.MAKING HOME PURCHASES EASIER FOR DISABLED VETERANS
-• The Alabama Senate awarded final passage on Tuesday to legislation by State Rep.
-Kenneth Paschal (R-Pelham) that allows veterans with full disabilities to exempt ad
-valorem taxes from debt-to-income ratios when purchasing a home.
-• Veterans with 100% permanent disabilities are currently provided with an full
-exemption from property taxes on their homes, and this legislation allows them to
-claim the exemption when a home is under contract but before they have taken
-ownership.
-• Allowing the preliminary application ensures that potential ad valorem taxes due
-will not be included in debt-to-income ratio calculations when applying for a loan
-or home mortgage.
-• Paschal, who serves as vice chair of the House Military & Veterans Affairs Committee,
-tpraised his colleague, Rep.
-Jennifer Fidler (R - Silverhill), who approached him about
-the issue on behalf of a constituent and worked with Paschal to pass the legislation.
-• The bill now goes to Gov.
+0 Skip to Content About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate Open Menu Close Menu About Issues News Contact Updates Donate An Update from the Alabama State House for the Week of March 9, 2026 - March 13, 2026 Mar 9 Written By Sutton Richardson ALABAMA HOUSE APPROVES RECORD $10.4 BILLION ETF BUDGET • The Alabama House approved on Tuesday a record $10.4 billion Education Trust Fund budget for Fiscal Year 2027 that allocates funding for the state’s K-12 public schools, community colleges, and four-year universities. • Sponsored by House Ways and Means Education Chairman Danny Garrett (R - Trussville), the proposed ETF is roughly $570 million, or 5.7%, higher than the FY2026 spending plan. • The budget includes a 2% cost-of-living pay raise for public school teachers, support staff, and administrators, which is their first salary increase in three years. • Funding for the Public Education Employees’ Health Insurance Program, known by the acronym of PEEHIP, would be increased by $180 million under the House-approved version in order to help resolve a looming $380 million increase in premium costs. • Garrett explained that PEEHIP currently has roughly $2.7 billion in reserves be- ing held in its reserves that could be tapped to fund the balance, or the program’s governing board has the option of increasing premiums and co-pays to help re- solve the balance. • The PEEHIP premium for comprehensive health insurance coverage for individu- als is currently just $30 a month while family coverage with no spouse is $156 monthly, and married with spouse is $273. • The CHOOSE Act, Alabama’s new and expanding school choice program, will receive a 38% increase provided by the CHOOSE Act Fund and transfers, as participating in the program widens to more students.• The CHOOSE Act received $180 million in FY2026 but would increase to $251.2 million under the House budget. • The Alabama Reading Initiative, which funds the Literacy Act previously passed by legislators in order to ensure students are reading at or above grade level by the end of third grade, would receive level funding. • The Alabama Math, Science, and Technology Initiative, which was created to improve math and science teaching and outcomes statewide, would receive a $23 million, or 17%, increase. • Public colleges and universities would receive a $107 million, or 5.8%, increase taking them to $1.8 billion overall. • A separate supplemental budget, which consists of collected revenues over and above the amount budget in the previous fiscal year, was also passed and included approxi- mately $275 million for public higher education institutions, $570 million for the Al- abama State Department of Education, and $150 million in grant money for career and technical education programs. • The ETF now goes to the Senate for consideration.
+SCHOOL PRAYER/PLEDGE CONSTITUTIONAL AMENDMENT The Alabama House on Tuesday approved a proposed constitutional amendment by State Rep.
+Reed Ingram (R - Pike Road) that requires public schools to allow voluntary student-led prayer and the Pledge of Allegiance at the start of the school day.
+If passed by the Senate and ratified by voters on the November ballot, the amendment would require schools to have students recite the Pledge of Allegiance at the start of each school day and also allow for a student-led prayer.
+Students would have the opportunity to opt out of either or both activities, and local school systems would promulgate rules outlining how the prayer period would work, which includes setting time limits on the length of prayers The constitutional amendment supplements a 2019 law previously passed by House Speaker Nathaniel Ledbetter (R - Rainsville) that requires school days to begin with the Pledge of Allegiance and allows Bible study electives in grades 6 to 12.
+The bill, which passed by a 94 - 3 margin with six abstentions, now goes to the Senate for consideration.
+MAKING HOME PURCHASES EASIER FOR DISABLED VETERANS • The Alabama Senate awarded final passage on Tuesday to legislation by State Rep.
+Kenneth Paschal (R-Pelham) that allows veterans with full disabilities to exempt ad valorem taxes from debt-to-income ratios when purchasing a home. • Veterans with 100% permanent disabilities are currently provided with an full exemption from property taxes on their homes, and this legislation allows them to claim the exemption when a home is under contract but before they have taken ownership. • Allowing the preliminary application ensures that potential ad valorem taxes due will not be included in debt-to-income ratio calculations when applying for a loan or home mortgage. • Paschal, who serves as vice chair of the House Military & Veterans Affairs Committee, tpraised his colleague, Rep.
+Jennifer Fidler (R - Silverhill), who approached him about the issue on behalf of a constituent and worked with Paschal to pass the legislation. • The bill now goes to Gov.
 Kay Ivey for signature.
-BANNING FOREIGN NATIONAL CONTRIBUTIONS IN ELECTIONS
-• The Alabama Legislature transmitted to Gov.
-Kay Ivey on Tuesday a measure by State
-Rep.
-James Lomax (R - Huntsville) that prohibits foreign nationals from contributing to
-political parties or campaigns.
-• Lomax’s bill mirrors federal legislation already on the books and brings Alabama
-into compliance with the same ban that is in place in federal elections.
-• Following the bill’s initial passage in the Alabama House, Lomax released a statement
-that read:
-Elections should be decided by the people who live, work, and raise their families
-in this state – not by foreign entities with ulterior financial or political motives.
-A
-2024 report found that a single foreign billionaire spent close to $100 million on
-state ballot campaigns to push an agenda across the country.
-This is beyond
-alarming, and I am proud to have passed legislation that slams the door shut on
-international dark-money groups seeking to bring their views to our great state.
-• The bill now awaits Gov.
+BANNING FOREIGN NATIONAL CONTRIBUTIONS IN ELECTIONS • The Alabama Legislature transmitted to Gov.
+Kay Ivey on Tuesday a measure by State Rep.
+James Lomax (R - Huntsville) that prohibits foreign nationals from contributing to political parties or campaigns. • Lomax’s bill mirrors federal legislation already on the books and brings Alabama into compliance with the same ban that is in place in federal elections. • Following the bill’s initial passage in the Alabama House, Lomax released a statement that read: Elections should be decided by the people who live, work, and raise their families in this state – not by foreign entities with ulterior financial or political motives.
+A 2024 report found that a single foreign billionaire spent close to $100 million on state ballot campaigns to push an agenda across the country.
+This is beyond alarming, and I am proud to have passed legislation that slams the door shut on international dark-money groups seeking to bring their views to our great state. • The bill now awaits Gov.
 Ivey’s review and signature.
-ADDRESSING BUS DRIVER AND LAW ENFORCEMENT SHORTAGES
-• The Alabama Legislature awarded final passage on Thursday to a measuresponsored by
-Rep.
-Kenneth Paschal (R-Pelham) that allows certain public retirees to fill critical
-school bus driver and public safety roles without losing retirement benefits.
-• HB138 combines two bills — Paschal’s measure focusing on bus driver shortages and
-Sen.
-Chris Elliott’s legislation focusing on public safety and prosecution workforce
-gaps.
-The consolidated bill addresses statewide staffing challenges while protecting the
-fiscal integrity of the Retirement Systems of Alabama.
-• Originally aimed at helping school systems with persistent bus driver shortages, HB138
-allows eligible retirees in the Employees’ Retirement System (ERS) and Teachers’ Re-
-tirement System (TRS) to return as full-time school bus drivers while continuing to re-
-ceive retirement benefits, subject to existing earnings limits.
-Many districts have re-
-ported delayed routes and longer travel times due to staffing shortages.
-• Senate amendments expanded HB138 to include public safety and legal roles, such as
-school resource officers, municipal and state police officers, sheriff’s deputies, correc-
-tional officers, and assistant district attorneys.
-• Key positions under HB138:
-• School bus drivers
-• School resource officers
-• Sheriff’s deputies
-• Municipal and state police officers
-• Correctional officers
-• Police officers at state colleges and universities
-• Assistant district attorneys
-• Retirement safeguards:
-• Existing earnings limits remain in effect with limited exceptions (e.g. - up to
-$52,000 for certain positions)
-• Retirees do not accrue additional benefits while reemployed
-• Must meet all certification and qualification requirements
-• Applies only to individuals already retired from ERS or TRS
-• Sunset date: Dec. 31, 2032
-• HB138 now heads to the governor for consideration.
-REQUIRING CDL DRIVERS TO BE ENGLISH PROFICIENT
-• Surrounded by members of the Alabama Law Enforcement Agency and the trucking
-industry, Gov.
+ADDRESSING BUS DRIVER AND LAW ENFORCEMENT SHORTAGES • The Alabama Legislature awarded final passage on Thursday to a measuresponsored by Rep.
+Kenneth Paschal (R-Pelham) that allows certain public retirees to fill critical school bus driver and public safety roles without losing retirement benefits. • HB138 combines two bills — Paschal’s measure focusing on bus driver shortages and Sen.
+Chris Elliott’s legislation focusing on public safety and prosecution workforce gaps.
+The consolidated bill addresses statewide staffing challenges while protecting the fiscal integrity of the Retirement Systems of Alabama. • Originally aimed at helping school systems with persistent bus driver shortages, HB138 allows eligible retirees in the Employees’ Retirement System (ERS) and Teachers’ Re- tirement System (TRS) to return as full-time school bus drivers while continuing to re- ceive retirement benefits, subject to existing earnings limits.
+Many districts have re- ported delayed routes and longer travel times due to staffing shortages. • Senate amendments expanded HB138 to include public safety and legal roles, such as school resource officers, municipal and state police officers, sheriff’s deputies, correc- tional officers, and assistant district attorneys. • Key positions under HB138: • School bus drivers • School resource officers • Sheriff’s deputies • Municipal and state police officers • Correctional officers • Police officers at state colleges and universities • Assistant district attorneys • Retirement safeguards: • Existing earnings limits remain in effect with limited exceptions (e.g. - up to $52,000 for certain positions) • Retirees do not accrue additional benefits while reemployed • Must meet all certification and qualification requirements • Applies only to individuals already retired from ERS or TRS • Sunset date: Dec.
+31, 2032 • HB138 now heads to the governor for consideration.
+REQUIRING CDL DRIVERS TO BE ENGLISH PROFICIENT • Surrounded by members of the Alabama Law Enforcement Agency and the trucking industry, Gov.
 Kay Ivey signed into law on Wednesday a Senate bill carried by StateRep.
-Steve Clouse (R - Ozark) that requires trucker drivers with a commercial drivers
-license to be proficient in the English language.
-• The legislation brings Alabama into accordance with already established federal
-requirements.
-• Major traffic accidents and fatalities have been prompted by drivers from other
-countries being unable to read road signs and other warnings written in English.
-• Under the provisions of the bill, a driver who is not proficient in English and receives a
-traffic citation would face a $1,000 fine for the operator and $2,000 for the driver.
-Those fines are doubled on subsequent violations.
-• In addition to the language proficiency requirement, SB242 allows for the impoundment
-of vehicles being operated by violators, and it creates the Class D felony crimes of
-presenting a false foreign commercial license and operating a commercial motor vehicle
-without proper documentation.
-PROTECTING ALABAMIANS FROM DOXING
-• The Alabama House approved on Tuesday a bill by State Rep.
-Donna Givens (R -
-Loxley) that broadens the definition of what is considered “doxing” and increases the
-penalty for committing the act in some cases.
-• Doxing occurs when someone finds personal or identifying information about an
-individual and publishes it online with malicious intent, often with the idea of
-promoting harassment or harm.
-• Personal or identifying information could include home or work addresses,
-photos of an individual or their family, or other personal information about an
-individual or their family.
-• Current law requires the target of doxxing to actually experience harassment or harm,
-or, in the cases of first responders, law enforcement officers, and public servants, who
-are covered by a specific area of the doxing statute, prevented from carrying out their
-duties.
-• Givens’ legislation would remove the requirement of actual harassment and make the
-simple dissemination of information with harmful intent a violation under the law.
-• Penalties against doxing would also be increased under the measure, and multiple
-violations would carry significantly harsher punishments.• The simple publishing of doxing information would be considered a Class A
-misdemeanor, which is punishable by up to one year in jail and a fine of up to
-$6,000.
-• Doxing that results in actual harassment of an individual would be a Class C
-felony, which carries a maximum sentence of 10 years and a fine of up to
-$15,000.
-• Repeat offenses would result in a Class B felony, punishable by a maximum
-sentence of 20 years and a fine of up to $30,000.
-• The bill now goes to the Senate for consideration.
+Steve Clouse (R - Ozark) that requires trucker drivers with a commercial drivers license to be proficient in the English language. • The legislation brings Alabama into accordance with already established federal requirements. • Major traffic accidents and fatalities have been prompted by drivers from other countries being unable to read road signs and other warnings written in English. • Under the provisions of the bill, a driver who is not proficient in English and receives a traffic citation would face a $1,000 fine for the operator and $2,000 for the driver.
+Those fines are doubled on subsequent violations. • In addition to the language proficiency requirement, SB242 allows for the impoundment of vehicles being operated by violators, and it creates the Class D felony crimes of presenting a false foreign commercial license and operating a commercial motor vehicle without proper documentation.
+PROTECTING ALABAMIANS FROM DOXING • The Alabama House approved on Tuesday a bill by State Rep.
+Donna Givens (R - Loxley) that broadens the definition of what is considered “doxing” and increases the penalty for committing the act in some cases. • Doxing occurs when someone finds personal or identifying information about an individual and publishes it online with malicious intent, often with the idea of promoting harassment or harm. • Personal or identifying information could include home or work addresses, photos of an individual or their family, or other personal information about an individual or their family. • Current law requires the target of doxxing to actually experience harassment or harm, or, in the cases of first responders, law enforcement officers, and public servants, who are covered by a specific area of the doxing statute, prevented from carrying out their duties. • Givens’ legislation would remove the requirement of actual harassment and make the simple dissemination of information with harmful intent a violation under the law. • Penalties against doxing would also be increased under the measure, and multiple violations would carry significantly harsher punishments.• The simple publishing of doxing information would be considered a Class A misdemeanor, which is punishable by up to one year in jail and a fine of up to $6,000. • Doxing that results in actual harassment of an individual would be a Class C felony, which carries a maximum sentence of 10 years and a fine of up to $15,000. • Repeat offenses would result in a Class B felony, punishable by a maximum sentence of 20 years and a fine of up to $30,000. • The bill now goes to the Senate for consideration.
+Sutton Richardson Previous Previous An Update from the Alabama State House for the Week of March 16, 2026 - March 20, 2026 Next Next An Update from the Alabama State House for the Week of March 2, 2026 - March 6, 2026 205-612-2433 susandubose2@gmail.com Privacy Policy Terms & Conditions Paid for by the Committee to Elect Susan DuBose 5378 Greystone Way Hoover, AL 35242

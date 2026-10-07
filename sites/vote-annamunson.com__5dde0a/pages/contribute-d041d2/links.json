@@ -1,16 +1,70 @@
 [
-"https://facebook.com/Annaforsalemhd19",
-"https://instagram.com/voteannamunson",
-"https://instagram.com/wix",
-"https://secure.anedot.com/munson-leadership-pac/donate",
-"https://twitter.com/wix",
-"https://vote-annamunson.com/",
-"https://vote-annamunson.com/contact",
-"https://vote-annamunson.com/contribute",
-"https://vote-annamunson.com/endorsements",
-"https://vote-annamunson.com/events",
-"https://vote-annamunson.com/issues",
-"https://vote-annamunson.com/privacy-policy",
-"https://vote-annamunson.com/termsconditions",
-"https://youtube.com/user/Wix"
+{
+"text": "Click to Contribute via Card or Bank",
+"href": "https://secure.anedot.com/munson-leadership-pac/donate"
+},
+{
+"text": "Click to Volunteer",
+"href": "https://www.vote-annamunson.com/contact"
+},
+{
+"text": "Contact/Volunteer",
+"href": "https://www.vote-annamunson.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.vote-annamunson.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.vote-annamunson.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.vote-annamunson.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.vote-annamunson.com"
+},
+{
+"text": "Issues",
+"href": "https://www.vote-annamunson.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vote-annamunson.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vote-annamunson.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vote-annamunson.com/termsconditions"
+},
+{
+"text": "VoteAnnaMunson@gmail.com",
+"href": "mailto:VoteAnnaMunson@gmail.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Annaforsalemhd19"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/wix/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteannamunson"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/user/Wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+}
 ]

@@ -1,33 +1,178 @@
 [
-"http://tiktok.com/@votebaumgartner",
-"https://co.adams.wa.gov/DocumentCenter/View/2591/ballot-drop-box-info-english-8-4-2026",
-"https://columbiaco.com/264/Ballot-Resources",
-"https://facebook.com/VoteBaumgartner",
-"https://facebook.com/scrld/posts/ballot-drop-box-locations-in-stevens-county-dont-forget-to-vote-%EF%B8%8F%EF%B8%8F-vote%EF%B8%8F/1384320483729561",
-"https://ferry-county.com/departments/auditor",
-"https://franklincountywa.gov/215/Ballot-Drop-Box-Locations",
-"https://garfieldcountywa.gov/auditor/page/voter-info-registration",
-"https://instagram.com/votebaumgartner",
-"https://lincolncountywa.com/312/Current-Future-Elections",
-"https://pendoreille.gov/auditor/page/voter-information",
-"https://secure.anedot.com/vote-baumgartner-for-congress-campaign/onlinedonation",
-"https://spokanecounty.gov/187/Ballot-Drop-Box-Locations",
-"https://twitter.com/VoteBaumgartner",
-"https://union-bulletin.com/ballot-drop-box-locations/article_cfe92f0e-b7b1-11e9-850e-3755147179f9.html",
-"https://votebaumgartner.com/",
-"https://votebaumgartner.com/about",
-"https://votebaumgartner.com/about-1",
-"https://votebaumgartner.com/about-1-10",
-"https://votebaumgartner.com/about2",
-"https://votebaumgartner.com/events-1",
-"https://votebaumgartner.com/get-involved",
-"https://votebaumgartner.com/home",
-"https://votebaumgartner.com/in-congress",
-"https://votebaumgartner.com/news",
-"https://votebaumgartner.com/privacy-policy",
-"https://votebaumgartner.com/store",
-"https://votebaumgartner.com/supporters",
-"https://voter.votewa.gov/portal2023/login.aspx",
-"https://whitmancounty.gov/169/Election-Information",
-"https://youtube.com/VoteBaumgartner"
+{
+"text": "About",
+"href": "https://www.votebaumgartner.com/about2"
+},
+{
+"text": "About Michael",
+"href": "https://www.votebaumgartner.com/about"
+},
+{
+"text": "Adams",
+"href": "https://www.co.adams.wa.gov/DocumentCenter/View/2591/ballot-drop-box-info-english-8-4-2026"
+},
+{
+"text": "Asotin",
+"href": "https://voter.votewa.gov/portal2023/login.aspx"
+},
+{
+"text": "Blogs",
+"href": "https://www.votebaumgartner.com/about-1"
+},
+{
+"text": "Columbia",
+"href": "https://www.columbiaco.com/264/Ballot-Resources"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/vote-baumgartner-for-congress-campaign/onlinedonation"
+},
+{
+"text": "Dropbox Information",
+"href": "https://www.votebaumgartner.com/about-1-10"
+},
+{
+"text": "Events",
+"href": "https://www.votebaumgartner.com/events-1"
+},
+{
+"text": "Ferry",
+"href": "https://www.ferry-county.com/departments/auditor/"
+},
+{
+"text": "Franklin",
+"href": "https://www.franklincountywa.gov/215/Ballot-Drop-Box-Locations"
+},
+{
+"text": "Garfield",
+"href": "https://www.garfieldcountywa.gov/auditor/page/voter-info-registration"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votebaumgartner.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votebaumgartner.com"
+},
+{
+"text": "Home",
+"href": "https://www.votebaumgartner.com/about-1-10"
+},
+{
+"text": "Issues",
+"href": "https://www.votebaumgartner.com/in-congress"
+},
+{
+"text": "Lincoln",
+"href": "https://www.lincolncountywa.com/312/Current-Future-Elections"
+},
+{
+"text": "News",
+"href": "https://www.votebaumgartner.com/news"
+},
+{
+"text": "Pend Oreille",
+"href": "https://www.pendoreille.gov/auditor/page/voter-information"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebaumgartner.com/privacy-policy"
+},
+{
+"text": "Spokane",
+"href": "https://www.spokanecounty.gov/187/Ballot-Drop-Box-Locations"
+},
+{
+"text": "Stevens",
+"href": "https://www.facebook.com/scrld/posts/ballot-drop-box-locations-in-stevens-county-dont-forget-to-vote-%EF%B8%8F%EF%B8%8F-vote%EF%B8%8F/1384320483729561/"
+},
+{
+"text": "Store",
+"href": "https://www.votebaumgartner.com/store"
+},
+{
+"text": "Supporters",
+"href": "https://www.votebaumgartner.com/supporters"
+},
+{
+"text": "Walla Walla",
+"href": "https://www.union-bulletin.com/ballot-drop-box-locations/article_cfe92f0e-b7b1-11e9-850e-3755147179f9.html"
+},
+{
+"text": "Whitman",
+"href": "https://www.whitmancounty.gov/169/Election-Information"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteBaumgartner"
+},
+{
+"text": "[image: Filling Checklist Form]",
+"href": "https://voter.votewa.gov/portal2023/login.aspx"
+},
+{
+"text": "[image: Filling Checklist Form]",
+"href": "https://www.pendoreille.gov/auditor/page/voter-information"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votebaumgartner"
+},
+{
+"text": "[image: Logo for Michael Baumgartner for Congress]",
+"href": "https://www.votebaumgartner.com/home"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@votebaumgartner"
+},
+{
+"text": "[image: Voting Ballot Box]",
+"href": "https://www.facebook.com/scrld/posts/ballot-drop-box-locations-in-stevens-county-dont-forget-to-vote-%EF%B8%8F%EF%B8%8F-vote%EF%B8%8F/1384320483729561/"
+},
+{
+"text": "[image: Voting Ballot Box]",
+"href": "https://www.ferry-county.com/departments/auditor/"
+},
+{
+"text": "[image: Voting Ballot Submission]",
+"href": "https://www.garfieldcountywa.gov/auditor/page/voter-info-registration"
+},
+{
+"text": "[image: Voting Ballot Submission]",
+"href": "https://www.whitmancounty.gov/169/Election-Information"
+},
+{
+"text": "[image: Voting Box Display]",
+"href": "https://www.co.adams.wa.gov/DocumentCenter/View/2591/ballot-drop-box-info-english-8-4-2026"
+},
+{
+"text": "[image: Voting Box Display]",
+"href": "https://www.lincolncountywa.com/312/Current-Future-Elections"
+},
+{
+"text": "[image: Voting Concept Scene]",
+"href": "https://www.franklincountywa.gov/215/Ballot-Drop-Box-Locations"
+},
+{
+"text": "[image: Voting Concept Scene]",
+"href": "https://www.union-bulletin.com/ballot-drop-box-locations/article_cfe92f0e-b7b1-11e9-850e-3755147179f9.html"
+},
+{
+"text": "[image: X ]",
+"href": "https://twitter.com/VoteBaumgartner"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/VoteBaumgartner"
+},
+{
+"text": "[image]",
+"href": "https://www.columbiaco.com/264/Ballot-Resources"
+},
+{
+"text": "[image]",
+"href": "https://www.spokanecounty.gov/187/Ballot-Drop-Box-Locations"
+}
 ]

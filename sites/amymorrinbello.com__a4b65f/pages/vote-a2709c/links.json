@@ -1,12 +1,50 @@
 [
-"https://amymorrinbello.com/",
-"https://amymorrinbello.com/endorsements-1",
-"https://amymorrinbello.com/get-involved",
-"https://amymorrinbello.com/news-1",
-"https://amymorrinbello.com/vote",
-"https://facebook.com/amyforstaterep",
-"https://instagram.com/amymorrinbello?hl=en",
-"https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
-"https://portal.ct.gov/SOTS/Common-Elements/V5-Template---Redesign/Elections--Voting--Home-Page",
-"https://portaldir.ct.gov/sots/lookup.aspx"
+{
+"text": "Amy for State Rep",
+"href": "https://www.amymorrinbello.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amymorrinbello.com/endorsements-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.amymorrinbello.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.amymorrinbello.com"
+},
+{
+"text": "News & Updates",
+"href": "https://www.amymorrinbello.com/news-1"
+},
+{
+"text": "Voting Information",
+"href": "https://www.amymorrinbello.com/vote"
+},
+{
+"text": "[image: 124010.png]",
+"href": "https://www.facebook.com/amyforstaterep"
+},
+{
+"text": "[image: download.jpg]",
+"href": "https://www.instagram.com/amymorrinbello/?hl=en"
+},
+{
+"text": "[image: download.png]",
+"href": "mailto:amymorrinbello@gmail.com"
+},
+{
+"text": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do",
+"href": "https://oabr-sots.ct.gov/OABR/absenteeBallotReqPortalHome.do"
+},
+{
+"text": "https://portaldir.ct.gov/sots/lookup.aspx.",
+"href": "https://portaldir.ct.gov/sots/lookup.aspx"
+},
+{
+"text": "website.",
+"href": "https://portal.ct.gov/SOTS/Common-Elements/V5-Template---Redesign/Elections--Voting--Home-Page"
+}
 ]

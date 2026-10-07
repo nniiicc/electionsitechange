@@ -1,11 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61579387427880",
-"https://facebook.com/wix",
-"https://joelmaceformo.com/",
-"https://joelmaceformo.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf",
-"https://joelmaceformo.com/terms",
-"https://linkedin.com/company/wix-com",
-"https://secure.anedot.com/joel-mace-for-mo/donate",
-"https://twitter.com/wix",
-"https://wix.com/"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/joel-mace-for-mo/donate"
+},
+{
+"text": "DOWNLOAD MY FULL RESUME",
+"href": "https://www.joelmaceformo.com/_files/ugd/84770f_a594f88e0dd34b7ca253388dd6f4c9bb.pdf"
+},
+{
+"text": "EMAIL",
+"href": "mailto:JoelMaceForMO@gmail.com?subject=I+visited+your+website..."
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/profile.php?id=61579387427880"
+},
+{
+"text": "HOME",
+"href": "https://www.joelmaceformo.com"
+},
+{
+"text": "SUPPORT JOEL MACE!",
+"href": "https://secure.anedot.com/joel-mace-for-mo/donate"
+},
+{
+"text": "TERMS",
+"href": "https://www.joelmaceformo.com/terms"
+},
+{
+"text": "View terms of use",
+"href": "https://www.joelmaceformo.com/terms"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Mace-Logo-Web.png]",
+"href": "https://secure.anedot.com/joel-mace-for-mo/donate"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

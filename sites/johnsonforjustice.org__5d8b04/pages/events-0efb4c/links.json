@@ -1,9 +1,58 @@
 [
-"https://facebook.com/NDSCJohnson",
-"https://johnsonforjustice.org/",
-"https://johnsonforjustice.org/career",
-"https://johnsonforjustice.org/contact",
-"https://johnsonforjustice.org/contribute",
-"https://johnsonforjustice.org/faq",
-"https://johnsonforjustice.org/personal-life"
+{
+"text": "Career",
+"href": "https://johnsonforjustice.org/career/"
+},
+{
+"text": "Contact",
+"href": "https://johnsonforjustice.org/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://johnsonforjustice.org/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://johnsonforjustice.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://johnsonforjustice.org/contribute/"
+},
+{
+"text": "Facebook page",
+"href": "https://facebook.com/NDSCJohnson"
+},
+{
+"text": "Home",
+"href": "https://johnsonforjustice.org/"
+},
+{
+"text": "Johnson for Justice",
+"href": "https://johnsonforjustice.org/"
+},
+{
+"text": "Learn More",
+"href": "https://johnsonforjustice.org/faq/"
+},
+{
+"text": "Personal Life",
+"href": "https://johnsonforjustice.org/personal-life/"
+},
+{
+"text": "[image: Johnson for Justice]",
+"href": "https://johnsonforjustice.org/"
+},
+{
+"text": "[image: facebook]",
+"href": "https://facebook.com/NDSCJohnson"
+},
+{
+"text": "[image: logo]",
+"href": "https://johnsonforjustice.org/"
+},
+{
+"text": "contacting me",
+"href": "https://johnsonforjustice.org/contact/"
+}
 ]

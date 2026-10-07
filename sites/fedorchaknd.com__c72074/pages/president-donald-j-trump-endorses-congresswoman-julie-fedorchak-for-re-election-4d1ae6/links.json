@@ -1,12 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61556784566466",
-"https://fedorchak.house.gov/",
-"https://fedorchaknd.com/",
-"https://fedorchaknd.com/about",
-"https://fedorchaknd.com/get-involved",
-"https://fedorchaknd.com/leadership",
-"https://fedorchaknd.com/news",
-"https://truthsocial.com/@realDonaldTrump/posts/115057224848483899",
-"https://twitter.com/julie4nd",
-"https://youtube.com/@JulieFedorchakforUSCongress"
+{
+"text": "About",
+"href": "https://fedorchaknd.com/about/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/julie4nd"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=61556784566466"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@JulieFedorchakforUSCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://fedorchaknd.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://fedorchaknd.com/"
+},
+{
+"text": "Issues",
+"href": "https://fedorchaknd.com/#issues"
+},
+{
+"text": "Julie Fedorchak for Congress",
+"href": "https://www.facebook.com/profile.php?id=61556784566466"
+},
+{
+"text": "Leadership",
+"href": "https://fedorchaknd.com/leadership/"
+},
+{
+"text": "News",
+"href": "https://fedorchaknd.com/news/"
+},
+{
+"text": "[image]",
+"href": "https://fedorchaknd.com/"
+},
+{
+"text": "official endorsement",
+"href": "https://truthsocial.com/@realDonaldTrump/posts/115057224848483899"
+},
+{
+"text": "please click here.",
+"href": "https://fedorchak.house.gov/"
+}
 ]

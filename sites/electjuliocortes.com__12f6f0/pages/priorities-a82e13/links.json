@@ -1,14 +1,50 @@
 [
-"https://electjuliocortes.com/",
-"https://electjuliocortes.com/contact",
-"https://electjuliocortes.com/endorsements",
-"https://electjuliocortes.com/events",
-"https://electjuliocortes.com/priorities",
-"https://electjuliocortes.com/priorities/economy",
-"https://electjuliocortes.com/priorities/homelessness",
-"https://electjuliocortes.com/priorities/housing",
-"https://electjuliocortes.com/priorities/public-safety",
-"https://facebook.com/Julio-Cortes-for-State-Rep-100712372551452",
-"https://instagram.com/ElectJulioCortes",
-"https://secure.actblue.com/donate/juliocortes"
+{
+"text": "Contact",
+"href": "https://electjuliocortes.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/juliocortes"
+},
+{
+"text": "Economy",
+"href": "https://electjuliocortes.com/priorities/economy/"
+},
+{
+"text": "Endorsements",
+"href": "https://electjuliocortes.com/endorsements/"
+},
+{
+"text": "Homelessness",
+"href": "https://electjuliocortes.com/priorities/homelessness/"
+},
+{
+"text": "Housing",
+"href": "https://electjuliocortes.com/priorities/housing/"
+},
+{
+"text": "Priorities",
+"href": "https://electjuliocortes.com/priorities/"
+},
+{
+"text": "Public Safety",
+"href": "https://electjuliocortes.com/priorities/public-safety/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://electjuliocortes.com/events/"
+},
+{
+"text": "[image: Re-Elect Julio Cortes]",
+"href": "https://electjuliocortes.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/Julio-Cortes-for-State-Rep-100712372551452"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/ElectJulioCortes/"
+}
 ]

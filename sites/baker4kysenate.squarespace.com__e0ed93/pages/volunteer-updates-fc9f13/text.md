@@ -1,2 +1,4 @@
-Upcoming Volunteer Opportunities JOIN US ON THE CAMPAIGN TRAIL Sign Up to Canvass for Joshua Today!
-Bracken County: 9/16, 9/19 South Campbell County: 9/23, 9/26, 9/30, 10/3 River Cities - GOTV: 10/7, 10/10, 10/14, 10/17, 10/21, 10/24, 10/28, 10/31
+0 Skip to Content Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Upcoming Volunteer Opportunities JOIN US ON THE CAMPAIGN TRAIL Sign Up to Canvass for Joshua Today!
+Bracken County: 9/16, 9/19 South Campbell County: 9/23, 9/26, 9/30, 10/3 River Cities - GOTV: 10/7, 10/10, 10/14, 10/17, 10/21, 10/24, 10/28, 10/31 ENDORSMENT HIGHLIGHTS Visit ActBlue Donate "Power should be held in a glass cage, contained and transparent.” - unknown *#% Human Made.
+Paid for by Joshua Baker for Kentucky State Senate Campaign Committee through Donations from Generous Neighbors like You!
+Follow Us For the most up-to-date campaign news, follow on socials!

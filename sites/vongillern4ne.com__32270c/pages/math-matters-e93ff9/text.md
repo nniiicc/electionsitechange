@@ -1,4 +1,4 @@
-Full disclosure: I struggled with math throughout my early education.
+Skip to content Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs Home Biography The Issues The Facts Blog News FAQs CONTRIBUTE SHARE THIS POST: Facebook LinkedIn X Email Math Matters Full disclosure: I struggled with math throughout my early education.
 The normal course of math in high school (way, way back in the seventies) was ninth-grade algebra, followed by tenth-grade geometry.
 As a junior, you took advanced algebra, and as a senior, pre-calculus.
 Well, that didn’t turn out to be the path for me.
@@ -23,10 +23,23 @@ It is often heartbreaking to realize that we cannot do all things for all people
 Measuring return on investment, or “ROI,” is a metric I use to determine how resources should be utilized.
 If an investment of time, money, or energy does not provide a greater return at some future date, then it may not be the wisest path.
 That thought process is not always popular with those who believe government should be the answer to all of our problems and somehow believe that we have unlimited resources to do so.
-I believe in the proverb that says, “It is better to teach a man to fish than to give a man a fish.”
-As we head into the next legislative session in January, the state budget will be top of mind and will require a tremendous amount of our time and energy to balance.
+I believe in the proverb that says, “It is better to teach a man to fish than to give a man a fish.” As we head into the next legislative session in January, the state budget will be top of mind and will require a tremendous amount of our time and energy to balance.
 We will be faced with tough decisions about how and where to spend limited resources.
 We’ll be encouraged by some to raise taxes so that we can continue doing things “like we always have.” Some will want to give away fish to people who are able to fish on their own.
 I ask that you reach out and share your thoughts on where the ROI is greatest in our state’s spending of your hard-earned tax dollars and whether we should continue the tax cuts as scheduled or return to tax rates that leave us less competitive with our neighboring states.
-Share your thoughts with me by emailing my legislative address, brad.vongillern@leg.ne.gov, and I’ll be happy to discuss this important topic with you.
+Share your thoughts with me by emailing my legislative address, brad.vongillern@leg.ne.gov , and I’ll be happy to discuss this important topic with you.
 As always, thank you for reading.
+VOLUNTEER DONATE Contact STAY INFORMED!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+Subscribe Paid for by: von Gillern for Nebraska 18370 Honeysuckle Drive Elkhorn, NE 68022 www.vongillern4ne.com Facebook Copyright © # von Gillern for Nebraska.
+All rights reserved PRIVACY POLICY | TERMS & CONDITIONS Scroll Up JOIN THE TEAM!
+You agree to receive text messages from Brad Von Gillern.
+Message & data rates may apply.
+Message frequency varies.
+Donations may be solicited.
+Reply STOP to opt-out, reply HELP for help.
+JOIN

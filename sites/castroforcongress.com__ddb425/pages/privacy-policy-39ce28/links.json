@@ -1,6 +1,18 @@
 [
-"http://web.archive.org/web/20260321233029/mailto:CASTRO FOR CONGRESS",
-"http://web.archive.org/web/20260321233029/mailto:info@castroforcongress.com",
-"http://web.archive.org/web/20260321233029/mailto:info@joaquincastro.com",
-"https://castroforcongress.com/"
+{
+"text": "Castro for Congress",
+"href": "https://castroforcongress.com/"
+},
+{
+"text": "contact us by e-mail",
+"href": "http://web.archive.org/web/20260321233029/mailto:info@castroforcongress.com"
+},
+{
+"text": "email us",
+"href": "http://web.archive.org/web/20260321233029/mailto:CASTRO%20FOR%20CONGRESS"
+},
+{
+"text": "info@joaquincastro.com",
+"href": "http://web.archive.org/web/20260321233029/mailto:info@joaquincastro.com"
+}
 ]

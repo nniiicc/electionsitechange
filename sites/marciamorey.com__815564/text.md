@@ -1,4 +1,4 @@
-Marcia Morey is a lifelong progressive leader and champion for justice.
+0 Skip to Content Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Open Menu Close Menu Meet Marcia Issues Endorsements Events Join Us DONATE Marcia Morey is a lifelong progressive leader and champion for justice.
 She is a Democratic member of the North Carolina House of Representatives and has been proudly representing District 30 in Durham County since her appointment in 2017.
 Extreme Republican policies have dominated the state for over a decade – prioritizing private schools over public schools, millionaires over the middle class, and profit over people.
 Gerrymandered maps and voter suppression discourages political participation.
@@ -14,3 +14,4 @@ Both parents were active in their community and taught her the importance of giv
 Her father was a World War II and Korean War veteran, attorney, and city councilman.
 Marcia is committed to carrying out that mission in the place she has called home for the past 25 years.
 When she isn’t debating on the House floor, you can find her at a protest with a sign in hand.
+Marcia Morey Campaign PO Box 61030 Durham, NC 27715 campaign@marciamorey.com Follow Facebook Instagram X

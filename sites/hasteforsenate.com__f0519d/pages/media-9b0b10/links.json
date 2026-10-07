@@ -1,28 +1,126 @@
 [
-"https://facebook.com/JohnHasteStateSenate",
-"https://hasteforsenate.com/",
-"https://hasteforsenate.com/contact",
-"https://hasteforsenate.com/media",
-"https://hasteforsenate.com/privacy-policy",
-"https://hasteforsenate.com/terms-and-conditions",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/260975-John-Haste-Mailer-2_5.pdf",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/261059-John-Haste-Mailer-3_1.pdf",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404654.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404679.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404786.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404848.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404859.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404941.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7404984.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405178.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405246.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405287.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405342.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405383.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405407.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405555.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405585.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/A7405703.webp",
-"https://hasteforsenate.com/wp-content/uploads/2026/05/HB260892-John-Haste-Second-Mailer-041626-v4-2.pdf",
-"https://secure.anedot.com/johhaste/donate"
+{
+"text": "260975 John Haste Mailer 2_5",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/260975-John-Haste-Mailer-2_5.pdf"
+},
+{
+"text": "261059 John Haste Mailer 3_1",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/261059-John-Haste-Mailer-3_1.pdf"
+},
+{
+"text": "CONTACT",
+"href": "https://hasteforsenate.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/johhaste/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JohnHasteStateSenate/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://hasteforsenate.com/contact/"
+},
+{
+"text": "HB260892 John Haste Second Mailer 041626-v4 (2)",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/HB260892-John-Haste-Second-Mailer-041626-v4-2.pdf"
+},
+{
+"text": "HOME",
+"href": "https://hasteforsenate.com/"
+},
+{
+"text": "MEET JOHN",
+"href": "https://hasteforsenate.com/#meet"
+},
+{
+"text": "Media",
+"href": "https://hasteforsenate.com/media/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://hasteforsenate.com/privacy-policy/"
+},
+{
+"text": "RESULTS",
+"href": "https://hasteforsenate.com/#results"
+},
+{
+"text": "Re-Elect John Haste for State Senate",
+"href": "https://hasteforsenate.com/privacy-policy/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://hasteforsenate.com/terms-and-conditions/"
+},
+{
+"text": "[image]",
+"href": "https://hasteforsenate.com"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404654.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404679.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404786.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404848.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404859.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404941.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7404984.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405178.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405246.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405287.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405342.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405383.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405407.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405555.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405585.webp"
+},
+{
+"text": "[no text]",
+"href": "https://hasteforsenate.com/wp-content/uploads/2026/05/A7405703.webp"
+}
 ]

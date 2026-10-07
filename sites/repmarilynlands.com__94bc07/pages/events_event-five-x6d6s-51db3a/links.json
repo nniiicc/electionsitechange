@@ -1,23 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Last+day+to+hand-deliver+an+absentee+ballot&dates=20241104T230000Z%2F20250108T013000Z",
-"https://actionnetwork.org/forms/d702679171a1974fa32c2638467572656168871e",
-"https://facebook.com/RepMarilynLands",
-"https://instagram.com/repmarilynlands",
-"https://repmarilynlands.com/",
-"https://repmarilynlands.com/about",
-"https://repmarilynlands.com/about-1",
-"https://repmarilynlands.com/cart",
-"https://repmarilynlands.com/constituent-resources",
-"https://repmarilynlands.com/contact",
-"https://repmarilynlands.com/events",
-"https://repmarilynlands.com/events/event-election-day",
-"https://repmarilynlands.com/events/event-five-x6d6s?format=ical",
-"https://repmarilynlands.com/events/event-four-yrlxk",
-"https://repmarilynlands.com/home",
-"https://repmarilynlands.com/issues",
-"https://repmarilynlands.com/legislative-news",
-"https://repmarilynlands.com/newsmedia",
-"https://sos.alabama.gov/alabama-votes/voter/absentee-voting",
-"https://tektite.digital/",
-"https://x.com/repmarilynlands"
+{
+"text": "0",
+"href": "https://www.repmarilynlands.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.repmarilynlands.com/about"
+},
+{
+"text": "Back",
+"href": "https://www.repmarilynlands.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.repmarilynlands.com/events"
+},
+{
+"text": "Clete Wetli",
+"href": "mailto:decaturclete@gmai.com"
+},
+{
+"text": "Constituent Resources",
+"href": "https://www.repmarilynlands.com/constituent-resources"
+},
+{
+"text": "Contact",
+"href": "https://www.repmarilynlands.com/contact"
+},
+{
+"text": "Contact Rep. Lands",
+"href": "https://www.repmarilynlands.com/contact"
+},
+{
+"text": "Events",
+"href": "https://www.repmarilynlands.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.repmarilynlands.com/about-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Last+day+to+hand-deliver+an+absentee+ballot&dates=20241104T230000Z%2F20250108T013000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.repmarilynlands.com/events/event-five-x6d6s?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.repmarilynlands.com/issues"
+},
+{
+"text": "Legislative News",
+"href": "https://www.repmarilynlands.com/legislative-news"
+},
+{
+"text": "More information here.",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
+},
+{
+"text": "News & Media",
+"href": "https://www.repmarilynlands.com/newsmedia"
+},
+{
+"text": "News/Media",
+"href": "https://www.repmarilynlands.com/newsmedia"
+},
+{
+"text": "Newsletter",
+"href": "https://actionnetwork.org/forms/d702679171a1974fa32c2638467572656168871e"
+},
+{
+"text": "Next Next November 5 Election Day",
+"href": "https://www.repmarilynlands.com/events/event-election-day"
+},
+{
+"text": "Previous Previous October 31 Last day to apply for an absentee ballot in person",
+"href": "https://www.repmarilynlands.com/events/event-four-yrlxk"
+},
+{
+"text": "Tektite.Digital",
+"href": "https://tektite.digital"
+},
+{
+"text": "[image: Rep. Marilyn Lands]",
+"href": "https://www.repmarilynlands.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.repmarilynlands.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepMarilynLands/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repmarilynlands/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/repmarilynlands"
+}
 ]

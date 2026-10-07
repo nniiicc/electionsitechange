@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Walk+with+Joe+in+the+North+Ridgeville+Corn+Festival+Parade&dates=20260809T170000Z%2F20260809T190000Z&location=7565+Avon+Belden+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States",
-"http://maps.google.com/?q=7565+Avon+Belden+Road+North+Ridgeville%2C+Ohio%2C+44039+United+States",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/corn-festival-parade?format=ical",
-"https://joemillerforohio.com/events-1/second-saturdays",
-"https://joemillerforohio.com/events-1/walkingwednesday",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://mobilize.us/joemillerforstatesenate/event/993965",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=7565+avon+belden+road+north+ridgeville%2C+ohio%2C+44039+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Walk+with+Joe+in+the+North+Ridgeville+Corn+Festival+Parade&dates=20260809T170000Z%2F20260809T190000Z&location=7565+Avon+Belden+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/corn-festival-parade?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next August 12 Join Team Joe Miller at Walking on Wednesday",
+"href": "https://www.joemillerforohio.com/events-1/walkingwednesday"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous August 8 Join Team Joe Miller at Second Saturdays in Lorain!",
+"href": "https://www.joemillerforohio.com/events-1/second-saturdays"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+},
+{
+"text": "https://www.mobilize.us/joemillerforstatesenate/event/993965/",
+"href": "https://www.mobilize.us/joemillerforstatesenate/event/993965/"
+}
 ]

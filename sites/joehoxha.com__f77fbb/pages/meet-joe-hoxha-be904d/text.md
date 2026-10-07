@@ -1,5 +1,4 @@
-Meet Joe Hoxha
-I was born in post-communist Albania, I immigrated to the United States with my family at 3 and a half years old back in 1996.
+Skip to content MEET JOE HOXHA Parental Rights and Education Crime Epidemic CT’s Failing Economy Election Integrity CONTACT ME MEET JOE HOXHA Parental Rights and Education Crime Epidemic CT’s Failing Economy Election Integrity CONTACT ME Meet Joe Hoxha I was born in post-communist Albania, I immigrated to the United States with my family at 3 and a half years old back in 1996.
 My family left behind a tumultuous country in Eastern Europe with uncertainty as it’s best promise.
 Seeking a shot at the American dream my family settled in Bristol, Connecticut where my parents first worked minimum wage jobs until finding good paying work in the city’s manufacturing sector.
 Growing up in a working-class household in Bristol’s West End neighborhood I learned the value of hard work very early on.
@@ -16,3 +15,6 @@ Nevertheless, I have never put the brakes on my passion which is my commitment t
 I am proud to be a Republican candidate for the 78th State Rep district currently held by longtime Republican State Rep Whitt Betts.
 Whitt has done a terrific job over the years representing the good people of Plymouth and Bristol and I plan to continue the strong conservative legacy of the 78th.
 I believe that this state is at a crossroads, either we go down the path of ruin or we usher in a new era in Connecticut politics, that will undo the damage of single party rule for decades and put Connecticut on the right path again.
+Paid for by Joe for the 78th, Scott Cleary, Treasurer.
+Approved by Joe Hoxha.
+Copyright © # Joe for the 78th Email: Joe@JoeHoxha.com

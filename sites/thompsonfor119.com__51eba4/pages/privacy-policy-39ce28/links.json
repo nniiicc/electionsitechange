@@ -1,9 +1,42 @@
 [
-"http://google.com/analytics/terms/us.html",
-"https://mostlyserious.io/",
-"https://policies.google.com/privacy",
-"https://tools.google.com/dlpage/gaoptout",
-"https://upballot.com/",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "Mostly Serious",
+"href": "https://www.mostlyserious.io"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "http://www.google.com/analytic...",
+"href": "http://www.google.com/analytics/terms/us.html"
+},
+{
+"text": "https://policies.google.com/privacy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "info@upballot.com",
+"href": "mailto:info@upballot.com"
+},
+{
+"text": "www.upballot.com",
+"href": "https://www.upballot.com"
+}
 ]

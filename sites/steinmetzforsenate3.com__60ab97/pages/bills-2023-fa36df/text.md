@@ -1,43 +1,29 @@
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Skip to content Wyoming Senator Cheri Steinmetz SD3 Menu Home Bio News Calendar Sponsor/Co-sponsor Bills + BILLS 2026 Bills 2025 Bills 2024 Bills 2023 Bills 2022 Bills 2021 Bills 2020 Bills 2019 Bills 2018 Bills 2017 Position on the Issues Articles of Interest Endorsements Wyoming Senator Cheri Steinmetz SD3 | News | Bills | Bills 2023 Bills 2023 Published on: January 11, 2023 March 7, 2024 by Admin &nbsp Category: Bills , Legislation The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to the legislative session.
-The guidebook can be viewed here: https://www.wyoleg.gov/docs/CitizenGuidebook.pdf.
-Sponsored / Co-Sponsored Bills:
-Sponsored and co-sponsored bills are posted here under the Sponsored Bills Tab for the 2023 General Session.
+The guidebook can be viewed here: https://www.wyoleg.gov/docs/CitizenGuidebook.pdf .
+Sponsored / Co-Sponsored Bills: Sponsored and co-sponsored bills are posted here under the Sponsored Bills Tab for the 2023 General Session.
 I appreciate your input on Legislative issues as your Representative: If there are bills during the Budget Sessions that are important to you, please let me know your thoughts and/or concerns.
-Contact me
-Learn more about Cheri’s Sponsored Bills and Committees:
-Senate District 03: Senator Cheri Steinmetz
-Check in here for updates about the session and any news from the Wyoming Legislative Majority.
-More information will also be available on Twitter at www.twitter.com/wyolegmajority and on our blog at wyolegmajority.blogspot.com.
-The Wyoming Legislature’s website is also a great resource for schedules, bill status and legislator contact information and can be found at www.wyoleg.gov
-Mon 1/16/2023
-..Senator Steinmetz has sponsored the following senate files:
-SF0103 Sales tax exemption-state legislators which allows state legislators on official business to be exempt from lodging tax.
+Contact me Learn more about Cheri’s Sponsored Bills and Committees: Senate District 03: Senator Cheri Steinmetz Check in here for updates about the session and any news from the Wyoming Legislative Majority.
+More information will also be available on Twitter at www.twitter.com/wyolegmajorit y and on our blog at wyolegmajority.blogspot.com .
+The Wyoming Legislature’s website is also a great resource for schedules, bill status and legislator contact information and can be found at www.wyoleg.gov Mon 1/16/2023 ..Senator Steinmetz has sponsored the following senate files: SF0103 Sales tax exemption-state legislators which allows state legislators on official business to be exempt from lodging tax.
 This file is designed to offset the need to increase legislative per diem in response to the increase in lodging tax.
 SF0104 Property tax-mill levy adjustment which caps the property tax mill levy for counties, cities and school districts at the rate of the previous year plus inflation.
 SF0105 Utilities-point of consumption and allocation agreements is a senate file designed to protect certificated service areas for public utilities and provide for a cooperative agreement process in order to keep rates stable and service reliable.
-SF0137 Subdivisions-fencing requirements. – planning and zoning; requiring subdividers to construct and pay costs for perimeter fences as specified; specifying requirements for perimeter fences for subdivisions; specifying financial responsibility for maintaining perimeter fences; requiring the inclusion of perimeter fence information in subdivision permit applications; repealing conflicting provisions.
-…see details
-SF0143 Wyoming freedom scholarship act-2. – creating the Wyoming Freedom Scholarship Act; authorizing education savings accounts; specifying legal proceedings; creating an account; providing for a transfer of funds to the account; providing for the use and administration of education savings accounts for education; providing powers and duties of the state treasurer; providing rulemaking authority; specifying that a qualified school is not an agent of the state or federal government; establishing an oversight committee; making conforming amendments; authorizing a temporary committee as specified; providing an appropriation.
-…see details
-SF0177 Specifying additional beneficial uses of water. – Promoting obscenity-educational exception repeal. – relating to crimes and offenses; repealing an educational and library exception to the offense of promoting obscenity.
-…see details
-..January 10, 2023
-Senator Steinmetz has sponsored the following senate files:
-SF0103 Sales tax exemption-state legislators which allows state legislators on official business to be exempt from lodging tax.
+SF0137 Subdivisions-fencing requirements. – planning and zoning; requiring subdividers to construct and pay costs for perimeter fences as specified; specifying requirements for perimeter fences for subdivisions; specifying financial responsibility for maintaining perimeter fences; requiring the inclusion of perimeter fence information in subdivision permit applications; repealing conflicting provisions. … see details SF0143 Wyoming freedom scholarship act-2. – creating the Wyoming Freedom Scholarship Act; authorizing education savings accounts; specifying legal proceedings; creating an account; providing for a transfer of funds to the account; providing for the use and administration of education savings accounts for education; providing powers and duties of the state treasurer; providing rulemaking authority; specifying that a qualified school is not an agent of the state or federal government; establishing an oversight committee; making conforming amendments; authorizing a temporary committee as specified; providing an appropriation. … see details SF0177 Specifying additional beneficial uses of water. – Promoting obscenity-educational exception repeal. – relating to crimes and offenses; repealing an educational and library exception to the offense of promoting obscenity. … see details ..January 10, 2023 Senator Steinmetz has sponsored the following senate files: SF0103 Sales tax exemption-state legislators which allows state legislators on official business to be exempt from lodging tax.
 This file is designed to offset the need to increase legislative per diem in response to the increase in lodging tax.
 SF0104 Property tax-mill levy adjustment which caps the property tax mill levy for counties, cities and school districts at the rate of the previous year plus inflation.
-SF0105 Utilities-point of consumption and allocation agreements is a senate file designed to protect certificated service areas for public utilities and provide for a cooperative agreement process in order to keep rates stable and service reliable.
-…see details
-SF0137 Subdivisions-fencing requirements. – planning and zoning; requiring subdividers to construct and pay costs for perimeter fences as specified; specifying requirements for perimeter fences for subdivisions; specifying financial responsibility for maintaining perimeter fences; requiring the inclusion of perimeter fence information in subdivision permit applications; repealing conflicting provisions.
-…see details
-SF0143 Wyoming freedom scholarship act-2. – creating the Wyoming Freedom Scholarship Act; authorizing education savings accounts; specifying legal proceedings; creating an account; providing for a transfer of funds to the account; providing for the use and administration of education savings accounts for education; providing powers and duties of the state treasurer; providing rulemaking authority; specifying that a qualified school is not an agent of the state or federal government; establishing an oversight committee; making conforming amendments; authorizing a temporary committee as specified; providing an appropriation.
-…see details
-SF0177 Specifying additional beneficial uses of water. – Promoting obscenity-educational exception repeal. – relating to crimes and offenses; repealing an educational and library exception to the offense of promoting obscenity.
-…see detailstails
-Lingle-Fort Laramie High School Student Council and their sponsor Erin Estes – the workings of the legislature and policy issues.
-From Senator Cheri Steinmetz, Representative Scott Smith, and Representative Allen Slagle.
-Legislative updates:
-Like this:
-Like Loading...
+SF0105 Utilities-point of consumption and allocation agreements is a senate file designed to protect certificated service areas for public utilities and provide for a cooperative agreement process in order to keep rates stable and service reliable. … see details SF0137 Subdivisions-fencing requirements. – planning and zoning; requiring subdividers to construct and pay costs for perimeter fences as specified; specifying requirements for perimeter fences for subdivisions; specifying financial responsibility for maintaining perimeter fences; requiring the inclusion of perimeter fence information in subdivision permit applications; repealing conflicting provisions. … see details SF0143 Wyoming freedom scholarship act-2. – creating the Wyoming Freedom Scholarship Act; authorizing education savings accounts; specifying legal proceedings; creating an account; providing for a transfer of funds to the account; providing for the use and administration of education savings accounts for education; providing powers and duties of the state treasurer; providing rulemaking authority; specifying that a qualified school is not an agent of the state or federal government; establishing an oversight committee; making conforming amendments; authorizing a temporary committee as specified; providing an appropriation. … see details SF0177 Specifying additional beneficial uses of water. – Promoting obscenity-educational exception repeal. – relating to crimes and offenses; repealing an educational and library exception to the offense of promoting obscenity. … see details tails Lingle-Fort Laramie High School Student Council and their sponsor Erin Estes – the workings of the legislature and policy issues.
+SESSION WRAPS UP DRAFT BILL SUMMARY 2023 WYOMING LEGISLATURE GENERAL SESSION (FINAL) Legislative Overview and Accomplishments From Senator Cheri Steinmetz, Representative Scott Smith, and Representative Allen Slagle.
+Legislative updates: Jan.
+16, 2023 – GENERAL SESSION – Legislative update (1) Jan.
+23, 2023 – GENERAL SESSION – Legislative update (2) Feb.
+06, 2023 – GENERAL SESSION – Legislative update (3) Feb.
+13, 2023 – GENERAL SESSION – Legislative update (4) Feb.
+20, 2023 – GENERAL SESSION – Legislative update (5) Feb.
+27, 2023 – GENERAL SESSION – Legislative update (6) <span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span> Share this: Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on X (Opens in new window) X Like this: Like Loading...
+Article Information Last Modified on March 7, 2024 This entry was posted in Bills , Legislation Bookmark this article Bills 2023 Post navigation More Articles Public Participation Bills 2024 Search for: News BILLS 2026 Bills and Status Bills 2025 Bills 2024 Bills 2023 Address Cheri Steinmetz P.O.
+Box 101 Lingle, WY 82223 307-534-5342 Email Contact Wyoming Larger government equals less individual freedom and prosperity.
+We must address the structural budget deficit without increasing taxes.
+Select Menu Home Donate Contact Committees 2026 - Senate Corporations, Elections & Political Subdivisions 2026 - Senate Labor, Health & Social Services "Paid for by the Committee to Elect Steinmetz for Senate" © # Cheri Steinmetz Senate District 3.
+All rights reserved. %d

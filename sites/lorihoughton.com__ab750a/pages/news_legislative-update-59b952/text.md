@@ -1,4 +1,4 @@
-| We are heading into crossover at the State House — the mid-session deadline for bills to leave either the House or Senate.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources Legislative Update 3/8/2026 0 Comments We are heading into crossover at the State House — the mid-session deadline for bills to leave either the House or Senate.
 The education committees have been given additional time this year because of the scope and complexity of their work.
 I was recently asked why we haven’t moved as many bills by this session as in previous years.
 I don’t track the number of bills closely enough to know whether that’s entirely true, but I do know that the issues we are working on this year are particularly challenging.
@@ -21,7 +21,7 @@ RADs will allow towns in a region to work together to ensure that we have a cons
 This ensures that property taxes are spread fairly across the state and that there are fewer swings in individual taxpayers’ bills from year to year.
 A different (and higher) property tax rate on second homes will support our public schools while reducing property taxes on homesteads, businesses, apartments, and seasonal camps.
 Tax Credits and Free Filing Assistance: Last year, lawmakers expanded Vermont's Earned Income Tax Credit and Child Tax Credit, which offers tax credits up to $400 for low-wage earners, and up to $1000/child under 7.
-Vermonters may be eligible for a credit on property taxes when filing your homestead declaration.
+Vermonters may be eligible for a credit on property taxes when filing your homestead declaration .
 Vermont has volunteer tax preparers all over the state, ready to assist.
 Go to TaxCreditsVT.org for more information about Vermont's anti-poverty tax credits and how to file for them.
 YOU’RE INVITED TO OUR COMMUNITY CONVERSATION SERIES Your Essex House delegation is excited to invite you to our community conversations, a monthly forum for updates on bills, committee work, and caucus activities.
@@ -33,4 +33,6 @@ Karen Dolan, Chittenden 22 [email protected] Rep.
 Lori Houghton, Chittenden 22, [email protected] Rep.
 Leonora Dodge, Chittenden 23, [email protected] Rep.
 Rey Garofano, Chittenden 23, [email protected] Rep.
-Alyssa Black, Chittenden 24, [email protected] |
+Alyssa Black, Chittenden 24, [email protected] ​ 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

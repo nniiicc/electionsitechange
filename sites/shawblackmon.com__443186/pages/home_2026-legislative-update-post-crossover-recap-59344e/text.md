@@ -1,9 +1,10 @@
-Last week, the House returned to the Gold Dome on Monday, March 9, following a long legislative day the friday before that stretched into the early hours of Saturday morning.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+Home / 2026 Legislative Update - Post Crossover Recap 22 Mar Sunday, 1:55 PM · 2026 2026 Legislative Update - Post Crossover Recap Last week, the House returned to the Gold Dome on Monday, March 9, following a long legislative day the friday before that stretched into the early hours of Saturday morning.
 By the end of the week, the Georgia General Assembly reached Legislative Day 31, meaning that only nine legislative days remain in the 2026 legislative session.
 Following a very busy Crossover Day, the House turned its attention to reviewing Senate bills that our counterparts passed out of their chamber, with some of those measures reaching the House floor for a vote.
 As we move closer to Sine Die on April 2, my House colleagues and I have continued working diligently during this ninth week of the legislative session to pass several measures, most importantly the Fiscal Year 2027 (FY 2027) budget.
 Below, I will highlight several key components of the House’s version of the FY 2027 budget, as well as other important pieces of legislation that the House passed this week.
-My colleagues and I hit a major milestone in our legislative work this week with the bipartisan passage of the FY 2027 budget.
+My colleagues and I hit a major milestone in our legislative work this week with the bipartisan passage of the FY 2027 budget .
 Passing a balanced budget is the General Assembly’s sole constitutional responsibility, and the FY 2027 budget appropriates funding for state operations for the upcoming fiscal year, beginning July 1, 2026.
 House Bill 974, the House’s version of the FY 2027 budget, is set by a revenue estimate of $38.5 billion, an increase of $738 million, or 1.95 percent, over the Fiscal Year 2026 (FY 2026) budget.
 HB 974 makes significant investments in education, including fully funding the Quality Basic Education (QBE) program at a total of $14.9 billion in state funds, providing $5.5 million for the Special Needs Scholarship and allocating more than $60 million to a statewide literacy initiative.
@@ -140,49 +141,46 @@ The bill would give the Board of Funeral Services the authority to subpoena indi
 It would also expand the board to seven members, ensuring a mix of industry expertise with three licensed funeral directors, three licensed embalmers and one member with no connection to the industry, while also allowing an individual who is both a licensed embalmer and funeral director to serve on the board.
 Additionally, SB 239 would raise the standards for licensure by requiring both embalmers and funeral directors to hold an associate’s degree, obtain a passing score on an examination approved by the board and complete 3,120 hours of apprenticeship training under the direct supervision of a licensed embalmer.
 The legislation would also prohibit holding both a license as an embalmer and as a funeral director simultaneously, which would help to further professionalize the field and safeguard the public by ensuring oversight and penalties for misconduct.
-As we quickly approach our final day of session, or Sine Die, on Thursday, April 2, we encourage you to stay apprised of upcoming House floor sessions, committee and subcommittee meetings on the House website: https://www.legis.ga.gov/schedule/house.
+As we quickly approach our final day of session, or Sine Die, on Thursday, April 2, we encourage you to stay apprised of upcoming House floor sessions, committee and subcommittee meetings on the House website: https://www.legis.ga.gov/schedule/house .
 You may follow the official House social media accounts on X at @GaHouseHub, on Instagram at @gahouseofrepresentatives and on Facebook for important updates during the final weeks of session.
 We welcome your questions, comments and input as the 2026 legislative session reaches its final stretch as your feedback allows us to work toward legislative solutions impacting our community and state.
-Notable Legislation Passed During Crossover Day:
-- House Bill 1000 - unanimously passed, returns money to hardworking Georgians and puts dollars directly back into the pockets of families across the state.
+Notable Legislation Passed During Crossover Day: House Bill 1000 - unanimously passed, returns money to hardworking Georgians and puts dollars directly back into the pockets of families across the state.
 As part of Gov.
 Kemp’s priorities funded in the AFY 2026 budget, this one-time income tax refund would be available to qualified taxpayers who filed individual income tax returns for both the 2024 and 2025 tax years by the applicable filing deadlines, including any granted extensions.
-- House Bill 1402 - passed overwhelmingly with bipartisan support and requires all public-school students in pre-K through third grade to receive annual vision and hearing screenings at school.
-- House Bill 1413 - passed with bipartisan support and would establish the Dedicating Resources to Educationally Advance More Students (DREAMS) Scholarship, a need-based scholarship program administered by the Georgia Student Finance Authority.
+House Bill 1402 - passed overwhelmingly with bipartisan support and requires all public-school students in pre-K through third grade to receive annual vision and hearing screenings at school.
+House Bill 1413 - passed with bipartisan support and would establish the Dedicating Resources to Educationally Advance More Students (DREAMS) Scholarship, a need-based scholarship program administered by the Georgia Student Finance Authority.
 With $325 million appropriated for state-matching funds to support the need-based DREAMS scholarship program already included in the AFY 2026 budget, this scholarship would provide up to $3,000 per academic year, with a duration maximum of up to eight semesters or 12 quarters, to eligible undergraduate students enrolled in institutions within the University System of Georgia or the Technical College System of Georgia who demonstrate unmet financial need.
-- House Bill 1187, also known as Trey’s Law, which would prohibit the enforcement of any nondisclosure agreements (NDAs) or confidentiality agreements that seek to silence victims of childhood sexual abuse, passed out of the House.
+House Bill 1187, also known as Trey’s Law, which would prohibit the enforcement of any nondisclosure agreements (NDAs) or confidentiality agreements that seek to silence victims of childhood sexual abuse, passed out of the House.
 The bill would void NDAs—including employment agreements, settlement agreements and other contracts—in situations where these agreements would prevent someone from discussing an act of childhood sexual abuse and any related facts about the abuse.
-- House Bill 1290, legislation aimed at strengthening protections for some of Georgia’s most vulnerable citizens—older adults and individuals with disabilities.
+House Bill 1290, legislation aimed at strengthening protections for some of Georgia’s most vulnerable citizens—older adults and individuals with disabilities.
 The bill passed the House unanimously and would revise the definition of sexual abuse as it relates to older adults by clarifying that the offense occurs when conduct is committed without consent, rather than requiring proof of coercion, while also ensuring that serious sexual offenders are properly classified and monitored.
-- House Bill 1283, also known as the Family Justice Center Act, passed unanimously.
+House Bill 1283, also known as the Family Justice Center Act, passed unanimously.
 The legislation would authorize the creation of Family Justice Centers—multiagency facilities that would provide coordinated services to victims of family violence, sexual assault, child abuse, elder abuse, human trafficking and related crimes.
-- House Bill 1230, passed with bipartisan support in an effort to strengthen security at Georgia’s correctional facilities by addressing unauthorized drone activity.
+House Bill 1230, passed with bipartisan support in an effort to strengthen security at Georgia’s correctional facilities by addressing unauthorized drone activity.
 HB 1230 would prohibit the operation of unmanned aircraft systems over these facilities, and it would be illegal to allow another individual to do so from one’s property.
-- House Bill 1138, or the Increasing Access to Contraceptives Act, was passed with bipartisan support.
+House Bill 1138, or the Increasing Access to Contraceptives Act, was passed with bipartisan support.
 HB 1138 would increase access to contraception by making various birth control methods more readily available and financially accessible through a pharmacy.
-- HB 1118 would build upon legislation passed during the 2024 legislative session—House Bill 1010—which expanded paid parental leave for state employees.
+HB 1118 would build upon legislation passed during the 2024 legislative session—House Bill 1010—which expanded paid parental leave for state employees.
 HB 1118 would continue the House’s work to support working families by ensuring new mothers have meaningful time to recuperate following birth and care for their newborn.
 The bill would provide eligible state employees with 120 hours of paid maternal birth leave to be used within the first three weeks following birth.
-- House Bill 1045, also known as the You Are Not Alone Awareness Act.
+House Bill 1045, also known as the You Are Not Alone Awareness Act.
 HB 1045 would require any local school system or public school that issues student identification badges to students in grades six through 12 to include the following message on badges: “9-8-8—You are not alone.
 Anyone experiencing a suicidal crisis, emotional distress or challenges with substance abuse should call or text 9-8-8.
-The hotline is available 24 hours a day, seven days a week, 365 days a year.”
-- House Bill 1114, requires the State Board of Education to adopt age-appropriate financial literacy standards for students in kindergarten through grade 12.
+The hotline is available 24 hours a day, seven days a week, 365 days a year.” House Bill 1114, requires the State Board of Education to adopt age-appropriate financial literacy standards for students in kindergarten through grade 12.
 Under the legislation, students in grades nine through 12 would receive instruction in personal budgeting and money management; banking, credit and debt; saving and investing principles; risk assessment and long-term financial planning; digital finance, fraud prevention and consumer protection; as well as the risks associated with gambling and an overview of the state’s gambling laws.
-- HB 1112 would establish a standardized cash-rounding system for purchases made using legal tender, requiring that the total cost of goods and services—including sales tax and any other applicable taxes—be rounded to the nearest five cents.
+HB 1112 would establish a standardized cash-rounding system for purchases made using legal tender, requiring that the total cost of goods and services—including sales tax and any other applicable taxes—be rounded to the nearest five cents.
 Under the bill, totals ending in one, two, six or seven cents would be rounded down to the nearest five cents, while totals ending in three, four, eight or nine cents would be rounded up to the nearest five cents.
 These rounding adjustments would not affect the actual sales price of a purchase or the calculation of any taxes owed.
-- House Bill 1122 passed with bipartisan support, which would address peripheral artery disease (PAD) and expand access to preventative vascular care.
+House Bill 1122 passed with bipartisan support, which would address peripheral artery disease (PAD) and expand access to preventative vascular care.
 HB 1122 would expand access to screening PAD, a serious circulatory condition that affects blood flow to the lower extremities and can lead to amputations if left undetected.
 The bill would require insurance coverage for PAD screenings for at-risk individuals between the ages of 50 and 64, helping ensure more Georgians have access to early detection and preventative care.
-- House Resolution 1000, setting the stage for Georgia’s voters to consider a constitutional amendment that would support the state’s timber industry.
+House Resolution 1000, setting the stage for Georgia’s voters to consider a constitutional amendment that would support the state’s timber industry.
 The resolution comes at a necessary time, as the state continues to rebuild in the wake of Hurricane Helene and recent impacts of several pulp and paper mill closures in the Southeast.
 HR 1000 would allow standing timber to be assessed at a zero percent ad valorem tax, provided the timberland is placed under a qualifying-use covenant.
-- House Bill 668, a measure designed to strengthen protections for service dogs and the Georgians who rely on them.
+House Bill 668, a measure designed to strengthen protections for service dogs and the Georgians who rely on them.
 HB 668 would update state law to formally recognize service dogs and establish criminal penalties and fines for individuals who interfere with or cause physical harm to a service dog, while also extending protections to their trainers and owners.
 It is an honor to serve you in the State House and I encourage you to share your thoughts on how I can best support our district and what matters most to you and your family, as your input is invaluable.
 My top priority is to continue working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective government.
-In service,
-Rep.
-Shaw Blackmon
-House District 146
+In service, Rep.
+Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

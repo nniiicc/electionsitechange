@@ -1,21 +1,3 @@
-top of page
-Donate
-The Foundation
-BBQ
-The Blueprint
-Education
-Housing
-Healthcare
-Transportation
-Animal Welfare
-My Team
-News
-Events
-Get Involved
-Contact
-More
-Use tab to navigate through the menu items.
-CruzNYC
-EVENTS
-Join My Journey
-bottom of page
+top of page Donate The Foundation BBQ The Blueprint Education Housing Healthcare Transportation Animal Welfare My Team News Events Get Involved Contact More Use tab to navigate through the menu items.
+CruzNYC EVENTS Join My Journey The Full Circle: Join the Movement Donate to WIN VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+The Foundation BBQ The Blueprint Events Get Involved Contact Paid for by Friends of Ruben Cruz ESSENTIAL LINKS - Click Below Unemployment Insurance Free Meals Domestic Violence Assistance Elder Abuse Office of Victiim Services NYC Well Apply for SNAP CITYMEALS for Seniors Food Bank Check Your DEED MTA Maps Home Energy Assistance Program Property Tax Benefits A S P C A Services Hotline Community Board 5 Community Board 8 Community Board 9 Community Board 10 bottom of page

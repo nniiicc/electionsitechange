@@ -1,5 +1,4 @@
-Privacy Policy
-Terms & Conditions Francis for Georgia, is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Home Privacy Policy Privacy Policy Opt-In More Home Privacy Policy Privacy Policy Opt-In Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Francis For Georgia, House of Representatives District 115 Home Privacy Policy Privacy Policy Opt-In Privacy Policy Terms & Conditions Francis for Georgia, is offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “STOP” to any mobile message from Us in order to opt out of the Program.
 User Opt In: The Program allows users to receive SMS/MMS mobile messages by users affirmatively opting into the Program.
 Regardless of the opt-in method you utilized to join the Program, regardless of the opt-in method you utilized to join the Program, you agree that these Terms apply to your participation in the Program.
@@ -50,5 +49,4 @@ We reserve the right to change these Terms from time to time.
 Any updates to these Terms shall be communicated to you.
 You acknowledge your responsibility to review these Terms from time to time and to be aware of any such changes.
 By continuing to participate in the Program after any such changes, you accept these Terms, as modified.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Francis For Georgia Copyright © # Francis For Georgia - All Rights Reserved.

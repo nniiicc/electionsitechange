@@ -1,4 +1,4 @@
-June 12, 2025 – RALEIGH, N.C. — The North Carolina Department of Disabled American Veterans (DAV) recognized Representative James Roberson as the 2025 Legislator of the Year recipient at their Convention Banquet.
+Skip to content About James Issues News District 39 About James Issues News District 39 Donate June 18, 2025 State Representative James Roberson Honored with Prestigious “Legislator of the Year” Award by Disabled American Veterans (DAV) June 12, 2025 – RALEIGH, N.C. — The North Carolina Department of Disabled American Veterans (DAV) recognized Representative James Roberson as the 2025 Legislator of the Year recipie nt at their Convention Banquet.
 The award highlights his ongoing commitment to supporting veterans across the state, especially those living with disabilities.
 “I am deeply grateful and honored to receive this award from the North Carolina DAV.
-Their dedication is truly inspiring, and I look forward to continuing my collaboration with them to accomplish even more for our disabled veterans across the state.”
+Their dedication is truly inspiring, and I look forward to continuing my collaboration with them to accomplish even more for our disabled veterans across the state.” Paid for by Roberson for North Carolina Facebook-f

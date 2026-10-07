@@ -1,7 +1,1 @@
-Issues
-Get Involved
-Endorsements
-About
-Contact
-Donate
-Previous Endorsements
+Issues Get Involved Endorsements About Contact Donate Previous Endorsements Contribute Donate Volunteer Discover Meet Demond Issues Endorsements Connect Facebook Instagram Quick Links Contact Privacy Policy © 2026 Demond Meeks For NYS Assembly

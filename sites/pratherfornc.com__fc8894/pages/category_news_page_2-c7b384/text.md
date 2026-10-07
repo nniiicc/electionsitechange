@@ -1,3 +1,16 @@
-NC District 115: Redistricting sparks stiff competition, battle over representation
-ASHEVILLE, N.C.
-(WLOS) — Buncombe County has one of the most competitive state House district seats in North Carolina — District 115 — as a result of Republicans, once again, passing new voting maps.
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu Category News News NC District 115: Redistricting sparks stiff competition, battle over representation ASHEVILLE, N.C.
+(WLOS) — Buncombe County has one of the most competitive state House district seats in North Carolina — District 115 — as a result of Republicans, once again, passing new voting maps. elijah January 24, 2024 News Special Redistricting Update from Rep.
+Lindsey Prather hank you to everyone who has reached out to me over the last few days to offer their support following the passage of the new NC House maps. tenaeturner October 31, 2023 News A long-awaited budget bill passes and casinos strike out A high-drama week at the North Carolina legislature brought quick action on an overdue state budget, following a decision by Republican leaders to drop a proposal to add four new casinos in rural counties.
+Rep.
+Lindsey Prather, D-Buncombe, shares her… elijah September 22, 2023 News Asheville-area Democratic leaders call out state GOP on threats to public education ASHEVILLE – With one week before Asheville and Buncombe County teachers go back to work and two weeks before students are back in the classroom, the state still hasn’t passed a budget, holding school funding in the wings.
+That and… elijah August 15, 2023 News Gov.
+Cooper says WNC schools will lose $8 million with GOP school voucher bill ASHEVILLE – Democratic Gov.
+Roy Cooper led a roundtable discussion with local educational leaders at Asheville-Buncombe Technical Community College June 30 to discuss how education bills will impact local school districts and touting his state budget proposal that includes funding… elijah June 30, 2023 News Legislators visit public school that sets up newcomer students and families for success When Lindsey Prather was a teacher in Buncombe County Schools, she saw dozens of flags hanging around one of the district’s most diverse schools.
+The school housed a Newcomers Center, where students of immigrant and refugee families spent a semester… elijah May 24, 2023 News WNC lawmakers brace business community for polarizing session Asheville’s business community seems to like its coffee with a side of politics.
+Dozens of business professionals joined elected officials over breakfast April 21 for the twice-yearly Legislative Update hosted by the Asheville Area Chamber of Commerce.
+The event featured… elijah April 28, 2023 News How Buncombe’s newly elected N.C.
+House members are settling into office Newly elected Rep.
+Lindsey Prather had expected to wrestle with tough questions upon her arrival at the N.C.
+General Assembly in Raleigh.
+After all, the Buncombe County Democrat had promised her constituents that she’d work on big issues such as… elijah February 10, 2023 News State, local leaders react after county’s biggest renter stops accepting rental assistance BUNCOMBE COUNTY, N.C.
+(WLOS) — Buncombe County’s largest renter has made a significant decision that could affect whether vulnerable residents will have access to affordable housing. elijah February 7, 2023 News Western legislators weigh in on upcoming General Assembly session North Carolina’s General Assembly convened last Wednesday, beginning a new session with new dynamics that will come into play as members seek to resolve a host of long-lingering issues. elijah January 18, 2023 Prev 1 2 3 Next PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

@@ -1,4 +1,5 @@
-While politicians in Washington have been fueling inflation and driving up prices on everything including gas prices to more than $5 per gallon nationwide, Republicans in New Hampshire have been working hard to put money back into the pockets of Granite State families.
+denise@denisericciardi.org Facebook Instagram Facebook Instagram HOME BIO EVENTS PHOTO GALLERY MAILING LIST ARCHIVE 2026 PRIORITIES VOLUNTEER NEWS ENDORSEMENTS Sen.
+Ricciardi’s Work For Towns Deserves Our Support DONATE Select Page Republicans Delivered a Half-Billion Dollars in NH Tax Relief Jun 28, 2022 While politicians in Washington have been fueling inflation and driving up prices on everything including gas prices to more than $5 per gallon nationwide, Republicans in New Hampshire have been working hard to put money back into the pockets of Granite State families.
 Our Democratic colleagues argue that we need to increase government revenues with more taxes and fees and higher tax rates.
 If we “make businesses pay their fair share” they argue we can use that extra tax revenue to lower property taxes.
 Republicans have a different approach.
@@ -34,6 +35,6 @@ This money will help cities and towns access safe, clean, and reliable drinking 
 In fact, all of these programs should ease the burden on local homeowners and businesses.
 And don’t forget that we’re delivering $100 million in direct property tax relief starting July 1 with a cut in the Statewide Property Tax.
 When we lower tax rates, we make the Granite State a better foundation on which to build a business.
-That means more money in your pocket, more money coming into the state, and a half-billion in property tax relief across every community in New Hampshire.
-—
-This op-ed appeared in the Union Leader
+That means more money in your pocket, more money coming into the state, and a half-billion in property tax relief across every community in New Hampshire. — This op-ed appeared in the Union Leader SEARCH OUR SITE Search for: Click on the titles to read the full article and reveal the sharing icons.
+Recent Posts Bedford Safety Complex Open House October 6, 2026 The Cure Café October 5, 2026 Childrens Environmental Health Day on October 8 October 5, 2026 Dedication of McDonald Fire Station in New Boston October 5, 2026 Friends of the Greenfield Community Meetinghouse Hold 7th Annual Oktoberfest October 1, 2026 Sen.
+Ricciardi Unveils Plan for Reducing High Property Taxes September 30, 2026 New Hampshire-Greece Trade Council Ceremonial Signing at 47th Glendi September 29, 2026 Senator Ricciardi Visits Jaffrey Select Board to Discuss Recent Legislation, Town Concerns September 29, 2026 Ricciardi is ‘Our Own Erin Brockovich’ September 25, 2026 This is How We Lower Property Taxes Without an Income Tax September 25, 2026 Glendi 2026 and SB 526 September 23, 2026 Ricciardi Named Legislator of the Year by the New England Water Works Association September 16, 2026 Facebook Instagram Copyright © #-26 Paid for by Denise Ricciardi for New Hampshire Senate District 9 • William Donovan, Treasurer, 10 Golden Dr., Bedford, NH 03110

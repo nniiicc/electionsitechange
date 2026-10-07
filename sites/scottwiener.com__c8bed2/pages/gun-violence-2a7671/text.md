@@ -1,6 +1,20 @@
-< RETURN TO ISSUES PAGE
-ISSUES
-GUN VIOLENCE
-ENDING GUN VIOLENCE IN EVERY COMMUNITY
-In Congress, Scott will work to:
-RETURN TO ISSUES PAGE
+Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE < RETURN TO ISSUES PAGE ISSUES GUN VIOLENCE ENDING GUN VIOLENCE IN EVERY COMMUNITY Scott has fought to get guns off our streets and out of our schools.
+He fought for years and authored the bill that successfully pressured Cow Palace to ban gun shows, standing up against the NRA until the job was done.
+He was a strong supporter of the Gun Violence Prevention and School Safety Act, which taxes the gun industry to fund violence intervention and school safety programs statewide.
+And he’s long advocated for banning assault weapons, backing California’s nation-leading ban and pushing for the same protections at the federal level. ‍ Scott will work with urgency to support meaningful gun safety laws because he knows lives are at stake.
+California has the strongest gun safety laws in the country, and if the state’s gun death rate had been matched nationally over the past decade, nearly 140,000 lives would have been saved and hundreds of thousands of gunshot injuries prevented.
+Yet, Congress has failed to act on even the most modest, broadly popular reforms, leaving families across the country waiting for a federal government that treats this crisis with urgency.
+Scott believes it’s long past time Washington caught up to California, and he’s ready to join that fight.
+In Congress, Scott will work to: Pass Ethan's Law, establishing federal safe gun storage requirements, and holding negligent gun owners accountable when unsecured firearms fall into the hands of children or other unauthorized users Pass a federal Assault Weapons Ban modeled on California's law, taking high-capacity, military-style weapons off the market nationwide Expand and strengthen federal background checks, closing loopholes that let prohibited buyers acquire guns with no questions asked — including closing the "Charleston loophole" so officials have the time they need to complete a check before a sale can proceed by default Expand Extreme Risk Protection Order (red flag) laws nationally, with federal funding and incentives to help every state adopt and enforce these proven tools for preventing suicide and mass shootings Scale gun violence prevention and community intervention programs nationally, building on the CalVIP model — which has prevented more than 30,000 incidents of gun violence since 2019 — while investing in the mental health services and school safety infrastructure that go hand-in-hand with prevention Secure robust federal funding for gun violence research — at least $100 million annually — to better understand the causes of gun violence and identify solutions that work Hold the gun industry accountable by repealing PLCAA's special legal protections for bad actors and directing the ATF to prioritize fighting gun crime and trafficking, rather than deprioritizing enforcement under industry pressure Disarm domestic abusers by closing gaps that allow people under final domestic violence restraining orders to retain access to firearms Oppose national concealed carry reciprocity, which would gut California's and every other state's gun laws by forcing them to honor out-of-state permits — even for carriers with no training or background check Oppose efforts to bring more guns into K-12 schools, including proposals to arm teachers or use federal funds for that purpose, outside of trained law enforcement and security personnel RETURN TO ISSUES PAGE STAY UPDATED Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Scott Wiener for Congress at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy . info@scottwiener.com 415-690-7280 Paid for by Scott Wiener for Congress.
+More Information Privacy Policy

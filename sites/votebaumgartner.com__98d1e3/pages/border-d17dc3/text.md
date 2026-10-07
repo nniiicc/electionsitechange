@@ -1,8 +1,4 @@
-top of page
-Border Security - Restoring Law & Order
-Results:
-Under the Republican House majority, illegal border crossings have plummeted by 96% nationwide.
+top of page Home About Issues News Events Dropbox Information Get Involved Supporters Store Blogs More Use tab to navigate through the menu items.
+DONATE Border Security - Restoring Law & Order Results : Under the Republican House majority, illegal border crossings have plummeted by #% nationwide.
 We stopped the "catch and release" madness and fully funded the completion of the border wall.
-Action:
-Michael voted to fund the border wall and increased border patrol, and passed the Laken Riley Act to ensure that dangerous illegal criminals are off our streets for good.
-bottom of page
+Action: Michael voted to fund the border wall and increased border patrol, and passed the Laken Riley Act to ensure that dangerous illegal criminals are off our streets for good.​ Home About Michael News Events Get Involved Supporters Privacy Policy Blogs Michael Baumgartner REPUBLICAN FOR CONGRESS, 5TH DISTRICT PAID FOR BY VOTE BAUMGARTNER FOR CONGRESS PO Box 8508, Spokane, WA 99203 SUBSCRIBE Thanks for submitting! bottom of page

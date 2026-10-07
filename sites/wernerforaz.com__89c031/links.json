@@ -1,19 +1,90 @@
 [
-"https://facebook.com/carinewerneraz",
-"https://instagram.com/CarineWerner",
-"https://secure.winred.com/werner-for-az/donate-today",
-"https://secure.winred.com/werner-for-az/donate-today?amount=100",
-"https://secure.winred.com/werner-for-az/donate-today?amount=25",
-"https://secure.winred.com/werner-for-az/donate-today?amount=250",
-"https://secure.winred.com/werner-for-az/donate-today?amount=50",
-"https://wernerforaz.com/",
-"https://wernerforaz.com/accomplish",
-"https://wernerforaz.com/cart",
-"https://wernerforaz.com/home",
-"https://wernerforaz.com/media",
-"https://wernerforaz.com/news",
-"https://wernerforaz.com/priorities",
-"https://wernerforaz.com/volunteer",
-"https://wernerforaz.com/yard-sign",
-"https://x.com/CarineWerner"
+{
+"text": "$100",
+"href": "https://secure.winred.com/werner-for-az/donate-today?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/werner-for-az/donate-today?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/werner-for-az/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/werner-for-az/donate-today?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.wernerforaz.com/cart"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.wernerforaz.com/accomplish"
+},
+{
+"text": "CARINE’S PRIORITIES",
+"href": "https://www.wernerforaz.com/priorities"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/werner-for-az/donate-today"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.wernerforaz.com/volunteer"
+},
+{
+"text": "Media Kit",
+"href": "https://www.wernerforaz.com/media"
+},
+{
+"text": "Meet Carine",
+"href": "https://www.wernerforaz.com/home#carine"
+},
+{
+"text": "News",
+"href": "https://www.wernerforaz.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/werner-for-az/donate-today"
+},
+{
+"text": "Priorities",
+"href": "https://www.wernerforaz.com/priorities"
+},
+{
+"text": "Request a yard sign!",
+"href": "https://www.wernerforaz.com/yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wernerforaz.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "mailto:carine@wernerforaz.com?subject=I+want+to+Volunteer&body=Enter+your+information+below%21Name%3APhone%3AAddress%3AHow+I+can+help+%5Bknock+doors%2C+make+calls%2C+write+letters%5D%3A"
+},
+{
+"text": "[image: Carine Werner for State Senate]",
+"href": "https://www.wernerforaz.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.wernerforaz.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/carinewerneraz"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/CarineWerner"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CarineWerner"
+}
 ]

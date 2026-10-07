@@ -1,11 +1,38 @@
 [
-"http://facebook.com/wix",
-"http://instagram.com/wix",
-"http://twitter.com/wix",
-"http://youtube.com/user/Wix",
-"https://chattfornebraska.com/",
-"https://chattfornebraska.com/about-cindy",
-"https://chattfornebraska.com/donate",
-"https://chattfornebraska.com/get-involved",
-"https://linkedin.com/company/wix-com"
+{
+"text": "ABOUT CINDY",
+"href": "https://www.chattfornebraska.com/about-cindy"
+},
+{
+"text": "DONATE",
+"href": "https://www.chattfornebraska.com/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.chattfornebraska.com/get-involved"
+},
+{
+"text": "[image: Untitled design-7 (1).png]",
+"href": "https://www.chattfornebraska.com"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/user/Wix"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/company/wix-com"
+}
 ]

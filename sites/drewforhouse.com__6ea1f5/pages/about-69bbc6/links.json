@@ -1,21 +1,86 @@
 [
-"https://donate.stripe.com/8wM9DgbBC0HA01y000",
-"https://drewforhouse.com/",
-"https://drewforhouse.com/about",
-"https://drewforhouse.com/contact",
-"https://drewforhouse.com/endorsements",
-"https://drewforhouse.com/issues",
-"https://drewforhouse.com/volunteer",
-"https://facebook.com/profile.php?id=61555679972514",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF0026&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1300&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1782&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF1784&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF2413&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3115&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3130&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3237&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3255&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3256&ssn=0&y=2025",
-"https://revisor.mn.gov/bills/bill.php?b=House&f=HF3271&ssn=0&y=2025"
+{
+"text": "About Drew",
+"href": "https://drewforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://drewforhouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/8wM9DgbBC0HA01y000"
+},
+{
+"text": "Donate Today!",
+"href": "https://donate.stripe.com/8wM9DgbBC0HA01y000"
+},
+{
+"text": "Endorsements",
+"href": "https://drewforhouse.com/endorsements/"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF0026&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1300&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1782&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF1784&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF2413&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3115&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3130&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3237&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3255&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3256&ssn=0&y=2025"
+},
+{
+"text": "See the full bill!",
+"href": "https://www.revisor.mn.gov/bills/bill.php?b=House&f=HF3271&ssn=0&y=2025"
+},
+{
+"text": "The Issues",
+"href": "https://drewforhouse.com/issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://drewforhouse.com/volunteer/"
+},
+{
+"text": "[image: Drew Roach for State Rep - 58B]",
+"href": "https://drewforhouse.com/"
+},
+{
+"text": "[image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B] [image: Drew Roach for State Rep - 58B]",
+"href": "https://drewforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61555679972514"
+}
 ]

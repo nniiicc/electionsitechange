@@ -1,7 +1,11 @@
 {
  "description": "About Alex Armstrong",
  "final_url": "https://www.armstrongforct.com/about-alex",
+ "fingerprint": "80924e1331cc54f30702378d2537d25d72ed8c7a",
+ "format": 3,
  "paid_for_by": "Paid for by Armstrong 2026, Meghan Brennan, Treasurer",
- "title": "About Alex Armstrong \u2014 Alex Armstrong for State Representative",
- "years_mentioned": []
+ "title": "About Alex Armstrong — Alex Armstrong for State Representative",
+ "years_mentioned": [
+  "2026"
+ ]
 }

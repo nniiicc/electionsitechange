@@ -1,5 +1,4 @@
-Third-Party Services
-Third-Party ServicesText opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Third-Party Services Third-Party ServicesText opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
 Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices or content of such third parties.

@@ -1,6 +1,26 @@
 [
-"https://lynnafendoulis.com/",
-"https://lynnafendoulis.com/news",
-"https://lynnafendoulis.com/privacy",
-"https://lynnafendoulis.com/volunteer"
+{
+"text": "Home",
+"href": "https://lynnafendoulis.com/"
+},
+{
+"text": "LYNN AFENDOULIS FOR STATE REPRESENTATIVE",
+"href": "https://lynnafendoulis.com/"
+},
+{
+"text": "News",
+"href": "https://lynnafendoulis.com/news/"
+},
+{
+"text": "Privacy",
+"href": "https://lynnafendoulis.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://lynnafendoulis.com/volunteer"
+},
+{
+"text": "← Home",
+"href": "https://lynnafendoulis.com/"
+}
 ]

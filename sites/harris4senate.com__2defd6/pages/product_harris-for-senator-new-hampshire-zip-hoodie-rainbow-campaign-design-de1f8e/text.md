@@ -1,18 +1,14 @@
-Description
-This full-zip hoodie carries a bold, rainbow-hued campaign vibe that reads like wearable street art.
+Skip to content Harris 4 Senate Phone: 603-988-4203 About The 9 Solutions The Answers The What The When The Where The Why The How Merch 4 Senate Join 4 Change Vote 4 Change Find Tim 0 Home / Uncategorized / Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design $ 58.70 – $ 69.08 Price range: $58.70 through $69.08 This full-zip hoodie carries a bold, rainbow-hued campaign vibe that reads like wearable street art.
+The front chest shows a compact, colorful square graphic while the back features a larger circular seal-style print — both vibrant against the black fabric.
+It’s a mid-weight, classic-fit sweatshirt that layers easily over tees and hoodies.
+Practical details —… Colors Choose an option Black Sizes Choose an option S M L XL 2XL 3XL Clear Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design quantity Add to cart Category: Uncategorized Description Additional information Reviews (0) Description This full-zip hoodie carries a bold, rainbow-hued campaign vibe that reads like wearable street art.
 The front chest shows a compact, colorful square graphic while the back features a larger circular seal-style print — both vibrant against the black fabric.
 It’s a mid-weight, classic-fit sweatshirt that layers easily over tees and hoodies.
 Practical details — metal zipper, roomy pouch pockets, adjustable drawstring hood and cuffed sleeves — make it a real go-to for chilly rallies, late-night walks, or everyday wear while showing clear visual support.
 The mixed cotton/poly blend gives soft comfort with durable structure; embroidery is available on the left chest for a refined touch or to add a subtle texture contrast to the printed artwork.
-Product features
-– 50/50 cotton-poly mid-weight (8 oz/yd²) for comfort and durability
-– Full metal zipper and adjustable hood with drawstring
-– Large front pockets with ample storage
-– Vibrant DTG back print with DTF wrist-print detailing; embroidery option on left chest
-– Tubular knit (no side seams) and classic fit; runs true to size
-Care instructions
-– Machine wash: warm (max 40C or 105F)
-– Non-chlorine: bleach as needed
-– Tumble dry: medium
-– Iron, steam or dry: low heat
-– Do not dryclean
+Product features – 50/50 cotton-poly mid-weight (8 oz/yd²) for comfort and durability – Full metal zipper and adjustable hood with drawstring – Large front pockets with ample storage – Vibrant DTG back print with DTF wrist-print detailing; embroidery option on left chest – Tubular knit (no side seams) and classic fit; runs true to size Care instructions – Machine wash: warm (max 40C or 105F) – Non-chlorine: bleach as needed – Tumble dry: medium – Iron, steam or dry: low heat – Do not dryclean Additional information Weight N/A Reviews There are no reviews yet.
+Be the first to review “Harris for Senator New Hampshire Zip Hoodie — Rainbow Campaign Design” Cancel reply Your email address will not be published.
+Required fields are marked * Your rating * Rate… Perfect Good Average Not that bad Very poor Your review * Name * Email * Save my name, email, and website in this browser for the next time I comment.
+Related products 15oz Black Mug — Rainbow ‘HARRIS’ Design with “The Only Action Is Action” Slogan $ 14.33 Select options Act 4 Harris Senate Ceramic Ornament — Rainbow QR Campaign Holiday Decoration $ 10.37 Select options Campfire Graphic Tee — “Be the FIRE!” Motivational Political Campaign T‑Shirt $ 30.60 – $ 43.22 Price range: $30.60 through $43.22 Select options Crewneck Sweatshirt — “How do you VOTE?!” Independent Buffalo with Rainbow Harris Back Print $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Crewneck Sweatshirt — “How Do You Vote?” Independent Buffalo with Harris Rainbow Campaign Design $ 62.18 – $ 72.97 Price range: $62.18 through $72.97 Select options Harris 4 Senate Your cart (items: 0) Products in cart Product Details Total Available on backorder Previous price: Discounted price: Save − ＋ Remove item Save Subtotal $0.00 Shipping and discounts calculated at checkout.
+View my cart Go to checkout Your cart is currently empty!
+Start shopping Notifications

@@ -1,13 +1,78 @@
 [
-"https://stephaniemackvt.com/",
-"https://stephaniemackvt.com/about",
-"https://stephaniemackvt.com/blog",
-"https://stephaniemackvt.com/category/campaign-shop",
-"https://stephaniemackvt.com/event-details/america250-for-essex-reading-of-the-declaration-of-indepenence",
-"https://stephaniemackvt.com/event-details/essex-junction-family-fun-day",
-"https://stephaniemackvt.com/event-details/join-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint",
-"https://stephaniemackvt.com/event-details/key4women",
-"https://stephaniemackvt.com/event-details/live-stream-the-ufc-fight-with-friends-of-stephanie-mack",
-"https://stephaniemackvt.com/event-details/meet-mingle-your-senate-candidate-ashley-bartley",
-"https://stephaniemackvt.com/event-list"
+{
+"text": "About",
+"href": "https://www.stephaniemackvt.com/about"
+},
+{
+"text": "America250 for Essex: Reading of the Declaration of Indepenence",
+"href": "https://www.stephaniemackvt.com/event-details/america250-for-essex-reading-of-the-declaration-of-indepenence"
+},
+{
+"text": "Blog",
+"href": "https://www.stephaniemackvt.com/blog"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/america250-for-essex-reading-of-the-declaration-of-indepenence"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/essex-junction-family-fun-day"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/join-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/key4women"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/live-stream-the-ufc-fight-with-friends-of-stephanie-mack"
+},
+{
+"text": "Details",
+"href": "https://www.stephaniemackvt.com/event-details/meet-mingle-your-senate-candidate-ashley-bartley"
+},
+{
+"text": "Donate",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Essex & Junction Family Fun Day!",
+"href": "https://www.stephaniemackvt.com/event-details/essex-junction-family-fun-day"
+},
+{
+"text": "Events",
+"href": "https://www.stephaniemackvt.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.stephaniemackvt.com"
+},
+{
+"text": "Join Stephanie Mack at Shelbune-Charlotte Community Wood Pallet Paint",
+"href": "https://www.stephaniemackvt.com/event-details/join-stephanie-mack-at-shelbune-charlotte-community-wood-pallet-paint"
+},
+{
+"text": "Key4Women",
+"href": "https://www.stephaniemackvt.com/event-details/key4women"
+},
+{
+"text": "Live Stream the UFC Fight with friends of Stephanie Mack",
+"href": "https://www.stephaniemackvt.com/event-details/live-stream-the-ufc-fight-with-friends-of-stephanie-mack"
+},
+{
+"text": "Meet & Mingle your Senate Candidate Ashley Bartley",
+"href": "https://www.stephaniemackvt.com/event-details/meet-mingle-your-senate-candidate-ashley-bartley"
+},
+{
+"text": "Merch",
+"href": "https://www.stephaniemackvt.com/category/campaign-shop"
+},
+{
+"text": "VT HOUSE • CHITTENDEN 24",
+"href": "https://www.stephaniemackvt.com"
+}
 ]

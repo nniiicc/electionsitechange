@@ -1,11 +1,42 @@
 [
-"https://craigriedelforohio.com/",
-"https://craigriedelforohio.com/contact",
-"https://craigriedelforohio.com/donate",
-"https://craigriedelforohio.com/endorsements",
-"https://craigriedelforohio.com/issues",
-"https://craigriedelforohio.com/media",
-"https://craigriedelforohio.com/meet-craig",
-"https://instagram.com/craig_riedel",
-"https://x.com/craig_riedel"
+{
+"text": "Contact",
+"href": "https://craigriedelforohio.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://craigriedelforohio.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://craigriedelforohio.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://craigriedelforohio.com/"
+},
+{
+"text": "Media",
+"href": "https://craigriedelforohio.com/media/"
+},
+{
+"text": "Meet Craig",
+"href": "https://craigriedelforohio.com/meet-craig/"
+},
+{
+"text": "On the Issues",
+"href": "https://craigriedelforohio.com/issues/"
+},
+{
+"text": "[image: Craig Riedel for State Senate]",
+"href": "https://craigriedelforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/craig_riedel/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/craig_riedel"
+}
 ]

@@ -1,10 +1,1 @@
-Press Kit
-Facebook
-Home
-About
-Facebook Feed
-Get Involved
-Contact
-Donate
-Select Page
-[custom-facebook-feed feed=1]
+Press Kit Facebook Home About Facebook Feed Get Involved Contact Donate Select Page [custom-facebook-feed feed=1] Facebook Designed by Elegant Themes | Powered by WordPress Authorized and Paid for by Brenda Stanley for State Senate 2026

@@ -1,16 +1,62 @@
 [
-"http://aboutads.info/",
-"https://facebook.com/tylerkdeanforky",
-"https://google.com/policies/privacy/partners",
-"https://instagram.com/tylerdeanforky",
-"https://secure.actblue.com/donate/tyler-dean-1website",
-"https://tools.google.com/dlpage/gaoptout",
-"https://tylerkdean.com/",
-"https://tylerkdean.com/about",
-"https://tylerkdean.com/accessibility",
-"https://tylerkdean.com/join-tyler",
-"https://tylerkdean.com/priorities",
-"https://tylerkdean.com/privacy-policy",
-"https://tylerkdean.com/site-map",
-"https://tylerkdean.com/terms-of-service"
+{
+"text": "Accessibility Statement",
+"href": "https://tylerkdean.com/accessibility/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tyler-dean-1website"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/tylerkdeanforky"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/tylerdeanforky/"
+},
+{
+"text": "Join Tyler",
+"href": "https://tylerkdean.com/join-tyler/"
+},
+{
+"text": "Meet Tyler",
+"href": "https://tylerkdean.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://tylerkdean.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tylerkdean.com/privacy-policy/"
+},
+{
+"text": "Site Map",
+"href": "https://tylerkdean.com/site-map/"
+},
+{
+"text": "Terms of Service",
+"href": "https://tylerkdean.com/terms-of-service/"
+},
+{
+"text": "[image]",
+"href": "https://tylerkdean.com"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout/",
+"href": "https://tools.google.com/dlpage/gaoptout/"
+},
+{
+"text": "https://www.google.com/policies/privacy/partners/",
+"href": "https://www.google.com/policies/privacy/partners/"
+},
+{
+"text": "tkd@tylerkdean.com",
+"href": "mailto:tkd@tylerkdean.com"
+},
+{
+"text": "www.aboutads.info",
+"href": "http://www.aboutads.info/"
+}
 ]

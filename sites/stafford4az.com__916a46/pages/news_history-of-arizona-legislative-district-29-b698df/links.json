@@ -1,34 +1,146 @@
 [
-"https://azleg.gov/findmylegislator",
-"https://ballotpedia.org/Arizona_Creation_of_a_Redistricting_Commission,_Proposition_106_(2000)",
-"https://ballotpedia.org/Arizona_State_Senate_District_29",
-"https://bsky.app/profile/stafford4az.bsky.social",
-"https://en.wikipedia.org/wiki/Arizona%27s_29th_legislative_district",
-"https://en.wikipedia.org/wiki/Mart%C3%ADn_Quezada",
-"https://facebook.com/Stafford4AZ",
-"https://instagram.com/stafford4az",
-"https://irc.az.gov/",
-"https://stafford4az.com/",
-"https://stafford4az.com/about",
-"https://stafford4az.com/contact",
-"https://stafford4az.com/endorsements",
-"https://stafford4az.com/es",
-"https://stafford4az.com/get-involved",
-"https://stafford4az.com/ld29",
-"https://stafford4az.com/ld29/el-mirage",
-"https://stafford4az.com/ld29/glendale",
-"https://stafford4az.com/ld29/goodyear",
-"https://stafford4az.com/ld29/litchfield-park",
-"https://stafford4az.com/ld29/surprise",
-"https://stafford4az.com/ld29/wittmann",
-"https://stafford4az.com/news",
-"https://stafford4az.com/news/how-to-vote-in-ld29-2026",
-"https://stafford4az.com/platform",
-"https://stafford4az.com/privacy",
-"https://stafford4az.com/terms",
-"https://stafford4az.com/transparency",
-"https://stafford4az.com/voter-resources",
-"https://stafford4az.com/who-is-my-state-senator",
-"https://x.com/stafford4az",
-"https://youtube.com/@Stafford4AZ"
+{
+"text": "About",
+"href": "https://stafford4az.com/about"
+},
+{
+"text": "Am I in LD29?",
+"href": "https://www.azleg.gov/findmylegislator/"
+},
+{
+"text": "Arizona Independent Redistricting Commission",
+"href": "https://irc.az.gov/"
+},
+{
+"text": "Ballotpedia: Arizona Proposition 106 (2000)",
+"href": "https://ballotpedia.org/Arizona_Creation_of_a_Redistricting_Commission,_Proposition_106_(2000)"
+},
+{
+"text": "Ballotpedia: Arizona State Senate District 29",
+"href": "https://ballotpedia.org/Arizona_State_Senate_District_29"
+},
+{
+"text": "Contact",
+"href": "https://stafford4az.com/contact"
+},
+{
+"text": "El Mirage",
+"href": "https://stafford4az.com/ld29/el-mirage"
+},
+{
+"text": "En Español",
+"href": "https://stafford4az.com/es"
+},
+{
+"text": "Endorsements",
+"href": "https://stafford4az.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://stafford4az.com/get-involved"
+},
+{
+"text": "Glendale",
+"href": "https://stafford4az.com/ld29/glendale"
+},
+{
+"text": "Goodyear",
+"href": "https://stafford4az.com/ld29/goodyear"
+},
+{
+"text": "Home",
+"href": "https://stafford4az.com/"
+},
+{
+"text": "LD29 guide",
+"href": "https://stafford4az.com/ld29"
+},
+{
+"text": "Litchfield Park",
+"href": "https://stafford4az.com/ld29/litchfield-park"
+},
+{
+"text": "Look up your address",
+"href": "https://www.azleg.gov/findmylegislator/"
+},
+{
+"text": "News",
+"href": "https://stafford4az.com/news"
+},
+{
+"text": "Platform",
+"href": "https://stafford4az.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://stafford4az.com/privacy"
+},
+{
+"text": "Read Eric's Platform",
+"href": "https://stafford4az.com/platform"
+},
+{
+"text": "Surprise",
+"href": "https://stafford4az.com/ld29/surprise"
+},
+{
+"text": "Terms of Service",
+"href": "https://stafford4az.com/terms"
+},
+{
+"text": "Transparency",
+"href": "https://stafford4az.com/transparency"
+},
+{
+"text": "Voter Resources",
+"href": "https://stafford4az.com/voter-resources"
+},
+{
+"text": "Who Is My State Senator?",
+"href": "https://stafford4az.com/who-is-my-state-senator"
+},
+{
+"text": "Wikipedia: Arizona’s 29th legislative district",
+"href": "https://en.wikipedia.org/wiki/Arizona%27s_29th_legislative_district"
+},
+{
+"text": "Wikipedia: Martín Quezada",
+"href": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Quezada"
+},
+{
+"text": "Wittmann",
+"href": "https://stafford4az.com/ld29/wittmann"
+},
+{
+"text": "Wittmann and Morristown",
+"href": "https://stafford4az.com/ld29/wittmann"
+},
+{
+"text": "[image: Eric Stafford Logo]",
+"href": "https://stafford4az.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/stafford4az.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Stafford4AZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/stafford4az"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Stafford4AZ"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/stafford4az"
+},
+{
+"text": "how to vote in 2026",
+"href": "https://stafford4az.com/news/how-to-vote-in-ld29-2026"
+}
 ]

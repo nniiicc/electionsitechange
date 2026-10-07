@@ -1,4 +1,4 @@
-Meet Delegate Marvin E.
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved About Marvin Home / About Marvin Meet Delegate Marvin E.
 Holmes, Jr.
 If you live in Prince George’s County District 23B, you have likely to have heard of Delegate Marvin E.
 Holmes, Jr who has been a member of the Maryland House of Delegates for almost 20 years.
@@ -16,26 +16,14 @@ Nebo African Methodist Episcopal Church.
 Delegate Holmes is an avid reader and enjoys walking nature trails, sports, hunting and fishing and helping people find the perfect home especially when affordability is an issue across the nation.
 He is married to Maggie and they have four lovely grown daughters and his grandchildren are the joys of his life.
 His leadership has been making a significant difference for the past two decades and can be visually seen when you drive around the community or just take a quick glimpse below at some of the committee appointments and you will easily see his talent and skills in action.
-Leadership Appointments:
-- Delegate Holmes was appointed as Chair of the Fire and Emergency Services Coalition in January 2018 at the request of the professional firefighters, the volunteer firefighters and the emergency medical services teams across the state of Maryland.
-- He serves in this capacity simultaneously as being Chair of the Housing and Real Property Subcommittee and
-- Chair of the Affordable Housing Committee within the Maryland Legislative Black Caucus, and is,
-- Vice Chair of Rules and Executive Nominations Committee.
-He also is currently a member of,
-- Joint Committee on Administrative, Executive and Legislative Review (AELR) Committee,
-- The Land Use & Ethics Subcommittee; and the.
-- The Maryland Veterans Caucus
-He has previously served as the.
-- Chair, Democratic Party Caucus,
-- Deputy Majority Whip
-- Chair of Natural Resources Subcommittee
-- Motor Vehicles & Transportation Subcommittee,
-- Co-Chair, Housing for Individuals with Disabilities Work Group,
-- Member, Governor’s Commission on Housing Policy,
-- Task Force on Business-Owner Compensation in Condemnation Proceedings,
-- Task Force on Minority Participation in the Environmental Community,
-- ask Force to Study Rent Stabilization for the Elderly in Prince George’s County,
-- Task Force to Improve Child Support Compliance in Prince George’s County,
-- Metropolitan Washington Air Quality Committee,
-- Member, Task Force to Study Locations in Prince George’s County Best Suited for Use by State Agencies,
-- Task Force to Study the Impact of Adjunct Faculty on Graduation Rates at Historically Black Institutions
+Leadership Appointments: Delegate Holmes was appointed as Chair of the Fire and Emergency Services Coalition in January 2018 at the request of the professional firefighters, the volunteer firefighters and the emergency medical services teams across the state of Maryland.
+He serves in this capacity simultaneously as being Chair of the Housing and Real Property Subcommittee and Chair of the Affordable Housing Committee within the Maryland Legislative Black Caucus, and is, Vice Chair of Rules and Executive Nominations Committee.
+He also is currently a member of, Joint Committee on Administrative, Executive and Legislative Review (AELR) Committee, The Land Use & Ethics Subcommittee; and the.
+The Maryland Veterans Caucus He has previously served as the.
+Chair, Democratic Party Caucus, Deputy Majority Whip Chair of Natural Resources Subcommittee Motor Vehicles & Transportation Subcommittee, Co-Chair, Housing for Individuals with Disabilities Work Group, Member, Governor’s Commission on Housing Policy, Task Force on Business-Owner Compensation in Condemnation Proceedings, Task Force on Minority Participation in the Environmental Community, ask Force to Study Rent Stabilization for the Elderly in Prince George’s County, Task Force to Improve Child Support Compliance in Prince George’s County, Metropolitan Washington Air Quality Committee, Member, Task Force to Study Locations in Prince George’s County Best Suited for Use by State Agencies, Task Force to Study the Impact of Adjunct Faculty on Graduation Rates at Historically Black Institutions Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 Stakeholder roundtable – Part ii March 3, 2022 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

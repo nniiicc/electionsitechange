@@ -1,9 +1,38 @@
 [
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Fvolunteer%2F&t=Volunteer",
-"https://michaelguest.ms/",
-"https://michaelguest.ms/about-michael",
-"https://michaelguest.ms/category/news",
-"https://michaelguest.ms/donate",
-"https://michaelguest.ms/volunteer",
-"https://x.com/intent/tweet?text=Volunteer&url=https%3A%2F%2Fmichaelguest.ms%2Fvolunteer%2F"
+{
+"text": "About Michael",
+"href": "https://michaelguest.ms/about-michael/"
+},
+{
+"text": "Donate",
+"href": "https://michaelguest.ms/donate"
+},
+{
+"text": "Donate",
+"href": "https://michaelguest.ms/donate/"
+},
+{
+"text": "Home",
+"href": "https://michaelguest.ms/"
+},
+{
+"text": "News",
+"href": "https://michaelguest.ms/category/news/"
+},
+{
+"text": "Volunteer",
+"href": "https://michaelguest.ms/volunteer/"
+},
+{
+"text": "[image: Michael Guest for U.S. Congress]",
+"href": "https://michaelguest.ms"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmichaelguest.ms%2Fvolunteer%2F&t=Volunteer"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=Volunteer&url=https%3A%2F%2Fmichaelguest.ms%2Fvolunteer%2F"
+}
 ]

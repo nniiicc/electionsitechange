@@ -1,9 +1,13 @@
-The Bedford Citizen
-State Representative Ken Gordon made an impromptu visit to striking workers at the Bedford Stop and Shop on Saturday.
-He delivered munchkins, and spent time listening to the workers’ concerns before posting the following remarks on his Twitter feed:
-With workers from Stop and Shop in Bedford.
+Get Involved/Donate Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Home About Ken Gordon Leadership Issues In the News Recent Press Rappin’ with the Rep Newsletter Support Ken Recipes Archive of: April 2019 Rep Gordon Visits Striking Workers at Bedford Stop and Shop April 18, 2019 repkengordon2016 Uncategorized Comments are Closed The Bedford Citizen State Representative Ken Gordon made an impromptu visit to striking workers at the Bedford Stop and Shop on Saturday.
+He delivered munchkins, and spent time listening to the workers’ concerns before posting the following remarks on his Twitter feed: With workers from Stop and Shop in Bedford.
 I heard from those who were asked to forego health care for their families, vacation time and other benefits, all while their employer offers stock buybacks.
 This is not right.
 It’s the employees who draw us to the store — people like Dave in the butcher section who has been helpful to us since my wife moved to town.
 Those in produce who can explain the difference between coriander and parsley.
 If you ignore the value of your people, you lose.
+Read Full Article Recent Posts Rep.
+Ken Gordon Seeking Interns for Summer 2026 Marcelo Gomes Da Silva and The Burlington ICE Facility Rep.
+Ken Gordon Seeks Summer 2025 State House Interns Rep.
+Ken Gordon Seeks Summer 2024 State House Interns Massachusetts Legislature’s FY24 Budget includes Rep.
+Ken Gordon’s priority legislation and funding for Bedford and Burlington Archives March 2026 June 2025 February 2025 February 2024 August 2023 May 2023 March 2023 November 2022 September 2022 August 2022 July 2022 April 2022 March 2022 December 2021 November 2021 August 2021 July 2021 June 2021 May 2021 March 2021 February 2021 January 2021 December 2020 November 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 April 2019 March 2019 February 2019 January 2019 November 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 October 2017 March 2017 October 2016 September 2016 July 2016 June 2016 Categories Community Traffic Control Uncategorized Paid for by the Committee to (re) Elect Ken Gordon ©# × × How much would you like to donate?
+Donate Now

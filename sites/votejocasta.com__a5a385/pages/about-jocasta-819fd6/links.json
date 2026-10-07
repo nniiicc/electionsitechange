@@ -1,11 +1,46 @@
 [
-"http://facebook.com/votejocasta",
-"https://secure.actblue.com/donate/jocastaforwi",
-"https://votejocasta.com/",
-"https://votejocasta.com/about-jocasta",
-"https://votejocasta.com/cart",
-"https://votejocasta.com/endorsements",
-"https://votejocasta.com/issues",
-"https://votejocasta.com/privacy-policy",
-"https://votejocasta.com/signatures"
+{
+"text": "0",
+"href": "https://www.votejocasta.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votejocasta.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jocastaforwi"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejocasta.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.votejocasta.com/issues"
+},
+{
+"text": "Meet JoCasta",
+"href": "https://www.votejocasta.com/about-jocasta"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejocasta.com/privacy-policy"
+},
+{
+"text": "Signatures",
+"href": "https://www.votejocasta.com/signatures"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejocasta.com/#volunteer"
+},
+{
+"text": "[image: JoCasta Zamarripa for Wisconsin Secretary of State]",
+"href": "https://www.votejocasta.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/votejocasta"
+}
 ]

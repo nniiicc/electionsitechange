@@ -1,4 +1,4 @@
-My name is Mathewos Samson, and I'm a community organizer, democratic socialist, and lifelong Atlantan.
+ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE ABOUT ENDORSEMENTS PLATFORM GET INVOLVED UPCOMING EVENTS VOLUNTEER PLEDGE TO SUPPORT MEET AN ORGANIZER CONTACT US DONATE CONTRIBUTE I'm Mathewos Samson My name is Mathewos Samson, and I'm a community organizer, democratic socialist, and lifelong Atlantan.
 I'm running for Georgia House District 58 because Georgia has become unaffordable for regular working people like you and me.
 Housing, utilities, and the overall cost of living are through the roof, and our politicians are too beholden to corporate donors to stand up for us in the face of this crisis.
 It’s time to bring working people who reject the bribes of developers and billionaires into the state capitol, with no corporate strings attached.
@@ -27,5 +27,20 @@ I've been a voice at Atlanta City Hall for public transit expansion, affordable 
 We all know our economic system is rigged for corporations and the wealthy.
 We need a radically new system that guarantees working people the dignity, respect, and basic fundamentals of living that we know we all deserve.
 We deserve a say in our government, not another corporate Democrat that plays nice within the systems that harm us.
-That's why I'm a democratic socialist, that's why I'm running for State House District 58, that’s why I’m refusing all corporate, developer, and billionaire money, and that’s why I’m advocating for concrete policies that would improve the lives of everyday Georgians: because I believe our society should work for working people, not just the billionaires.
+That's why I'm a democratic socialist, that's why I'm running for State House District 58 , that’s why I’m refusing all corporate, developer, and billionaire money, and that’s why I’m advocating for concrete policies that would improve the lives of everyday Georgians: because I believe our society should work for working people, not just the billionaires.
 Please join me in the fight to build a better future for all of us.
+English Get Notifications Reach Mathewos: info@samsonforgeorgia.com or 404-254-2424 Paid for by Samson for Georgia Made in Solidarity Tech Stay Connected Get instant updates delivered to your device.
+One More Step!
+Your browser will ask for permission.
+Tap Allow to finish signing up.
+Show Permission Tap "Allow" in the popup to enable notifications Allow notifications?
+Allow Install the App To get notifications on iPhone: 1 Tap in the bottom toolbar 2 Tap Share then scroll down 3 Select Add to Home Screen 4 Open the app & tap Subscribe 1 Press in the URL bar 2 Select Add to Home Screen 3 Open the app & tap Subscribe 1 Tap in the address bar 2 Scroll down and tap Add to Home Screen 3 Open the app & tap Subscribe Update Required Push notifications require iOS 16.4 or later.
+Go to Settings → General → Software Update to update your iPhone.
+Add to Home Screen Tap the share icon below, then "Add to Home Screen" to get notifications.
+Copy Link Push notifications are not supported in this browser.
+Try Chrome, Firefox, Safari, or Edge.
+You're already subscribed!
+Notifications are currently blocked for this site.
+Refresh Page Enable Notifications Enabling...
+You're subscribed! 🎉 Something went wrong.
+Please try again.

@@ -1,7 +1,7 @@
-YOUR CAPITOL
-Election Integrity & Government You Can Trust
-Chuck takes election integrity seriously.
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get in touch 555-555-5555 mymail@mailservice.com Contact us Contact Chuck YARD SIGN HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Get a Yardsign Click image for update...
+YOUR CAPITOL Election Integrity & Government You Can Trust Chuck takes election integrity seriously.
 He worked with colleagues on measures to improve Georgia’s election security law and has continued supporting further safeguards, including visible ballot watermarks and more secure ballot-handling procedures — so that every legal vote is counted accurately and Georgians can trust the results.
 The results speak for themselves: Georgia has set turnout records in every election since, including a historic 5.29 million voters in 2024 — proof that a secure system and a high-turnout system are the same system.
 As a senior member of the House, Chuck has developed a reputation for getting the work done for Georgians and for being a lead sponsor of multiple Constitutional Amendments with bipartisan support, including HR 1243 (Next Generation 9-1-1), HR 598 (creating Georgia’s independent Tax Court), and HR 1022 (giving local communities the option to cap property tax increases at inflation).
 Working across eight House committees means Chuck knows how to work with all members in the House and Senate to get things done at the Capitol, not just talk about it.
+HOME MEET CHUCK PRIORITIES GET CONNECTED UPDATES CONTRIBUTE NEWSLETTERS Paid for by Martin for Georgia © # Share by:

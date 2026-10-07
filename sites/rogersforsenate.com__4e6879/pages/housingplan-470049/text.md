@@ -1,13 +1,10 @@
-UNLOCK HOMEOWNERSHIP
-UNLOCKING HOMEOWNERSHIP FOR FAMILIES & REBUILDING THE AMERICAN DREAM
-- Expands 529 plans to cover college, vocational training, and first-time home down payments
-- Allows families to open and contribute to a 529 at any time, for any purpose, with tax-free savings
-- Eliminates transfer fees and ensures 529 funds don’t count against PMI eligibility
-- Helps cover the first year of property taxes
-- Helps families build credit for timely rent payments, lowering future interest rates
-- Allows Americans to defer student loans while saving for a home down payment, with dollar-for-dollar contribution
-- Breaks down barriers to homeownership by rolling back overregulation that drove housing costs up with no real benefit
-- Partners with states to cut red tape, reduce government interference, and expand access to homeownership for young families
-- Incentivizes new home construction with residential housing zones where 100% of new construction is tax free
-- Replaces empty-lot zoning with residential housing zones where 100% of new construction is tax-free
-- Sparks new business growth and connects young men and women with good-paying jobs
+0 Skip to Content MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE Open Menu Close Menu MEET MIKE NEWS HOUSING PLAN HEALTHCARE PLAN FAMILY OF SERVICE HOW TO VOTE VOLUNTEER CONTACT MERCH DONATE VIA BITPAY DONATE UNLOCK HOMEOWNERSHIP UNLOCKING HOMEOWNERSHIP FOR FAMILIES & REBUILDING THE AMERICAN DREAM 1.
+ASSISTS WITH DOWNPAYMENTS BY EXPANDING 529 PLANS TO HOUSING Expands 529 plans to cover college, vocational training, and first-time home down payments Allows families to open and contribute to a 529 at any time, for any purpose, with tax-free savings Eliminates transfer fees and ensures 529 funds don’t count against PMI eligibility Helps cover the first year of property taxes 2.
+LOWERS INTEREST RATES BY ALLOWING FAMILIES TO BUILD CREDIT FOR TIMELY PAYMENTS Helps families build credit for timely rent payments, lowering future interest rates Allows Americans to defer student loans while saving for a home down payment, with dollar-for-dollar contribution 3.
+BRINGS DOWN PURCHASE PRICES BY ENDING EXCESSIVE DEMOCRAT REGULATIONS Breaks down barriers to homeownership by rolling back overregulation that drove housing costs up with no real benefit Partners with states to cut red tape, reduce government interference, and expand access to homeownership for young families 4.
+ENCOURAGES NEW HOMEBUILDING BY ADDING INCENTIVES FOR HOMEBUILDERS Incentivizes new home construction with residential housing zones where 100% of new construction is tax free Replaces empty-lot zoning with residential housing zones where 100% of new construction is tax-free Sparks new business growth and connects young men and women with good-paying jobs CALL US: MEET MIKE ‍ ‍ HOUSING PLAN ‍ ‍ NEWS ‍ ‍ WHAT MICHIGANDERS NEED TO KNOW ‍ FAMILY OF SERVICE ‍ ‍ VOLUNTEER ‍ ‍ CONTACT ‍ ‍ MERCH ‍ ‍ DONATE CALL US: 313-989-0126 P.O.
+Box 132 St.
+Joseph, MI 49085 Mike Rogers is a former member of the U.S.
+Army.
+Use of military rank, job titles, and photographs in uniform does not imply endorsement of the United States Army or the Department of Defense.
+Paid for by Rogers for Senate © # Rogers for Senate Privacy Policy | Notice at Collection of Personal Information | Do Not Sell My Personal Information

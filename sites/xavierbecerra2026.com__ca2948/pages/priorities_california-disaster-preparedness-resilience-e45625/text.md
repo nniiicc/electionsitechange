@@ -1,5 +1,6 @@
-California Disaster Preparedness & Resilience
-Protect People.
+Contribute Now This is a break-glass moment – for our families, our neighbors, and folks all across our great state.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Contribute Volunteer About Bio Endorsements Issues Health Care Fighting Donald Trump Housing Economy & Affordability Energy & Utilities Disaster Preparedness Artificial Intelligence Homelessness Film Industry Power Hour Wildfires Take Action News Room Store Volunteer Contribute California Disaster Preparedness & Resilience Protect People.
 Prevent Harm.
 Recover Fairly and Fast.
 California faces worsening wildfires, floods, heat waves, and the ever-present risk of major earthquakes.
@@ -12,3 +13,5 @@ When disasters do occur, my administration will make sure recovery is fast, fair
 I will protect renters and homeowners from displacement, cut red tape so people can access aid quickly, and ensure assistance reaches workers and small businesses.
 We will rebuild smarter—making homes and infrastructure safer and more resilient—while holding utilities and public agencies accountable for reducing risk.
 California can lead the nation by proving that disaster preparedness is not just about infrastructure, but about dignity, equity, and keeping people in their homes and communities.
+Up Next Take Action Contribute Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other OR Volunteer About Issues Take Action News Room Store Privacy Policy Paid for by Becerra for Governor 2026

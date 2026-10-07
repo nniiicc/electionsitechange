@@ -1,23 +1,86 @@
 [
-"https://bradlander.substack.com/",
-"https://bradlanderforcongress.com/",
-"https://bradlanderforcongress.com/endorsements",
-"https://bradlanderforcongress.com/issues",
-"https://bsky.app/profile/bradlander.bsky.social",
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSf-3ez9Rk003xNxQD3SI395bGCpW_N-aFJcPRdEMfi_d41qNw/viewform",
-"https://facebook.com/bradlander",
-"https://instagram.com/brad.lander",
-"https://nyccfb.info/media/blog/nyc-says-no-dark-money-elections",
-"https://nytimes.com/2012/04/01/nyregion/for-some-new-yorkers-a-grand-experiment-in-participatory-budgeting.html",
-"https://nytimes.com/2016/10/28/nyregion/freelancers-city-council-wage-theft.html",
-"https://nytimes.com/2020/12/17/nyregion/nyc-fast-food-workers-job-security.html",
-"https://nytimes.com/2021/06/08/opinion/brad-lander-comptroller.html",
-"https://nytimes.com/2024/06/20/nyregion/brooklyn-middle-schools-integration.html",
-"https://secure.actblue.com/donate/bl4cweb",
-"https://store.landerfornyc.com/",
-"https://threads.net/@brad.lander",
-"https://tiktok.com/@bradlandernyc",
-"https://x.com/bradlander",
-"https://youtube.com/@landerfornyc"
+{
+"text": "Apply for a Role",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf-3ez9Rk003xNxQD3SI395bGCpW_N-aFJcPRdEMfi_d41qNw/viewform"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bl4cweb"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bradlanderforcongress.com/endorsements"
+},
+{
+"text": "Independent Expenditure Disclosure Act",
+"href": "https://www.nyccfb.info/media/blog/nyc-says-no-dark-money-elections"
+},
+{
+"text": "Issues",
+"href": "https://www.bradlanderforcongress.com/issues"
+},
+{
+"text": "New York Times",
+"href": "https://www.nytimes.com/2021/06/08/opinion/brad-lander-comptroller.html"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Shop",
+"href": "https://store.landerfornyc.com/"
+},
+{
+"text": "[image: Brad Lander for Congress]",
+"href": "https://www.bradlanderforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bradlander.substack.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bradlander.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bradlander"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brad.lander"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@brad.lander"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bradlandernyc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@landerfornyc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bradlander"
+},
+{
+"text": "participatory budgeting",
+"href": "https://www.nytimes.com/2012/04/01/nyregion/for-some-new-yorkers-a-grand-experiment-in-participatory-budgeting.html"
+},
+{
+"text": "protect freelancers",
+"href": "https://www.nytimes.com/2016/10/28/nyregion/freelancers-city-council-wage-theft.html"
+},
+{
+"text": "shield fast-food and retail workers",
+"href": "https://www.nytimes.com/2020/12/17/nyregion/nyc-fast-food-workers-job-security.html"
+},
+{
+"text": "successful effort to desegregate the middle schools of Brooklyn’s District 15",
+"href": "https://www.nytimes.com/2024/06/20/nyregion/brooklyn-middle-schools-integration.html"
+}
 ]

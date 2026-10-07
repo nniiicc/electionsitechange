@@ -1,10 +1,5 @@
-Back to All Events
-Join the Megan Coy campaign for our weekly phonebank!
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Virtual Phonebank for Megan Coy Wednesday, July 15, 2026 6:00 PM 7:00 PM Online (map) Google Calendar ICS Join the Megan Coy campaign for our weekly phonebank!
 We are looking to recruit volunteers for our canvassing, and we need your help to reach these potential volunteers.
 Please join us every Wednesday from 6pm to 7pm to reach these voters.
 These will be virtual, so access to a computer and telephone is required for participation.
-Starting July 15th and reoccurring every Wednesday
-You can sign up here: https://docs.google.com/forms/d/e/1FAIpQLSeW_TR_CgtzOeDnC83k1Sh7cHb0p1_jRMgfr21ZXT3Rh57rKg/viewform?usp=header
-Next
-Next
-July 18
+Starting July 15th and reoccurring every Wednesday You can sign up here: https://docs.google.com/forms/d/e/1FAIpQLSeW_TR_CgtzOeDnC83k1Sh7cHb0p1_jRMgfr21ZXT3Rh57rKg/viewform?usp=header Next Next July 18 North Royalton/Broadview Heights Canvass Launch Paid for by Friends of Megan Coy

@@ -1,5 +1,4 @@
-MEET DAVID
-David Taylor is a rock-ribbed conservative and family man who has been married to his wife, Charity, for 27 years and has raised three daughters in Clermont County, Ohio.
+HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US HOME MEET DAVID VOTE FOR DAVID ON THE ISSUES CRYPTOCURRENCY VOLUNTEER UPDATES DONATE CONTACT US MENU MENU MENU MEET DAVID MEET DAVID David Taylor is a rock-ribbed conservative and family man who has been married to his wife, Charity, for 27 years and has raised three daughters in Clermont County, Ohio.
 A businessman, David employs two dozen hardworking people in our community and runs Sardinia Ready Mix, Inc.
 Hard work was instilled in David from a young age.
 He took inspiration from his grandfather, Jim Sauls, who moved from the coal mines of Logan, WV to Ohio in search of a better life.
@@ -15,3 +14,10 @@ A political outsider, David comes from the world of business where you either do
 David knows we don’t need any more career politicians looking for another title on their obituary.
 We need people with real world experience who can get the job done.
 David will work to secure the border, cut taxes, and put hardworking families first.
+Paid for by Dave Taylor for Congress.
+Privacy Policy By providing your telephone number, you consent to receive calls and text messages.
+Msg & data rates may apply.
+Msg frequency may vary.
+Messaging may include requests for donations.
+Reply “STOP” to opt-out & “HELP” for help.
+View Privacy Policy for more info.

@@ -1,4 +1,7 @@
-“From the Panhandle of Western Oklahoma to the woods of Northeast Oklahoma, Oklahoma is Trump Country.
-I’m excited President Trump and the Trump Campaign will be making a stop in Tulsa- it’s sure to be a campaign rally Oklahomans won’t want to miss,” said Lucas.
+Skip to content Frank Lucas ☰ About Frank Issues The Latest Press Packet Contact Donate X About Frank Issues The Latest Press Packet Contact Donate June 18, 2020 Frank Lucas Welcomes President Trump to Oklahoma “From the Panhandle of Western Oklahoma to the woods of Northeast Oklahoma, Oklahoma is Trump Country.
+I’m excited President Trump and the Trump Campaign will be making a stop in Tulsa- it’s sure to be a campaign rally Oklahomans won’t want to miss,” said Lucas .
 President Trump’s re-election campaign announced that Trump 2020 Senior Advisor Lara Trump, Trump 2020 Campaign Manager Brad Parscale, and National Chair of Trump Victory Finance Committee and Trump 2020 Senior Advisor Kimberly Guilfoyle will lead a group of over 50 surrogates, including Congressman Frank Lucas, to campaign on behalf of President Trump in Oklahoma on Saturday, June 20, 2020 at the Make America Great Again Rally.
-###
+### Share Post navigation Lucas presses USDA to clarify federal funding disparities for cattle producers President Trump Endorses Frank Lucas for Congress Latest News Frank Lucas Endorses President Trump Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’ Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason President Trump Endorses Frank Lucas for Congress Frank Lucas Welcomes President Trump to Oklahoma Lucas presses USDA to clarify federal funding disparities for cattle producers Chip In Today! $25 $50 $100 $150 Other Newsletter Sign Up to Receive Email Updates!
+Email * Phone Zip Code About Frank Issues The Latest Contact Donate PAID FOR BY LUCAS FOR CONGRESS CONTACT TEAM LUCAS TODAY!
+Phone: 405.509.3505 Mail: Lucas for Congress P.O.
+Box 1726 Oklahoma City, OK 73101-1726 Copyright © #

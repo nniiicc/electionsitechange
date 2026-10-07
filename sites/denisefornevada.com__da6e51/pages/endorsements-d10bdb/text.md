@@ -1,33 +1,10 @@
-Governor
-"Denise is deeply devoted to public service and to the Henderson community.
+About Endorsements Issues Volunteer Donate ☰ About Endorsements Issues Volunteer Donate Endorsements Governor Joe Lombardo "Denise is deeply devoted to public service and to the Henderson community.
 Her commitment is evident in her years of volunteer service and is exactly the kind of leader we need in Carson City.
-She is a strong advocate for protecting Nevada's values, school choice, and small businesses, and I am proud to endorse her for State Assembly."
-Lieutenant Governor
-Stavros Anthony
-Assemblywoman
-Rebecca Edgeworth
-Danielle Gallant
-Lisa Cole
-Denise is proud to have earned the trust of organizations representing law enforcement, firefighters, educators, small businesses, and conservative leaders across Nevada.
-Clark County Education Association
-The Assembly Republican Caucus
-Western Way Action
-Log Cabin Republicans of Nevada
-Henderson Chamber of Commerce
-Vegas Chamber of Commerce
-Professional Fire Fighters of Nevada
-Nevada Firearms Coalition PAC
-Nevada Police Union
-Public Safety Alliance of Nevada
-Las Vegas Police Protective Association
-Las Vegas Police Managers and Supervisors Association
-Las Vegas Peace Officers Association
-Las Vegas Peace Officers Supervisory Association
-North Las Vegas Police Officers Association
-Police Officers Association of Clark County School District
-Reno Police Protective Association
-Sparks Police Protective Association
-Washoe County Sheriff's Deputies Association
-Washoe County School Police Officers Association
-Carson City Sheriff's Supervisory Association
-Douglas County Sheriff's Protective Association
+She is a strong advocate for protecting Nevada's values, school choice, and small businesses, and I am proud to endorse her for State Assembly." Elected Officials Lieutenant Governor Stavros Anthony Assemblywoman Rebecca Edgeworth Assemblywoman Danielle Gallant Assemblywoman Lisa Cole Organizations Denise is proud to have earned the trust of organizations representing law enforcement, firefighters, educators, small businesses, and conservative leaders across Nevada.
+Clark County Education Association The Assembly Republican Caucus Western Way Action Log Cabin Republicans of Nevada Henderson Chamber of Commerce Vegas Chamber of Commerce Professional Fire Fighters of Nevada Nevada Firearms Coalition PAC Nevada Police Union Public Safety Alliance of Nevada Las Vegas Police Protective Association Las Vegas Police Managers and Supervisors Association Las Vegas Peace Officers Association Las Vegas Peace Officers Supervisory Association North Las Vegas Police Officers Association Police Officers Association of Clark County School District Reno Police Protective Association Sparks Police Protective Association Washoe County Sheriff's Deputies Association Washoe County School Police Officers Association Carson City Sheriff's Supervisory Association Douglas County Sheriff's Protective Association We're Grateful for Your Contributions!
+Add your name to the list of Nevadans backing Denise.
+Every contribution helps us reach more voters and win this seat. $50 $100 $250 $500 $1000 Other About Endorsements Issues Volunteer DeniseForNevada.com Donate Now → Paid for and approved by Denise for Nevada.
+DeniseForNevada.com · PO Box 751271, Las Vegas, NV 89136 By providing your phone number, you consent to receive periodic text messages.
+Message and data rates may apply.
+Text STOP to opt out.
+Privacy Policy · Terms & Conditions · Designed by Gorai Strategies

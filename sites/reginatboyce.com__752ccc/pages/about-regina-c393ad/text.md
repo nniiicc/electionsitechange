@@ -1,7 +1,10 @@
-Dedicated Legislator
-Regina T.
+Home About Regina!
+Record of Service In The News District 43A Scholarship Events Donate!
+Home About Regina!
+Record of Service In The News District 43A Scholarship Events Donate!
+Democrat for Delegate, District 43 About Regina Dedicated Legislator Regina T.
 Boyce was elected for her first term in 2018, as one of three delegates in District 43.
-She was sworn into office on January 9, 2019, and was assigned to the House Environment and Transportation Committee, where she has remained since.
+She was sworn into office on January 9, 2019, and was assigned to the House Environment and Transportation Committee , where she has remained since.
 Regina was initially assigned to the Environment and the Natural Resources, Agriculture, and Open Spaces Subcommittees.
 She was also assigned to the Motor Vehicle and Transportation Subcommittee from 2020 to 2023.
 In 2022, Regina won re-election in the redistricted 43rd District, now known as District 43A.
@@ -16,7 +19,7 @@ She has served on the taskforce for Reconciliation and Equity (2020); the Redeve
 She is also a member of the Oyster Advisory Commission, (2023 - Present); the Council of State Governments’ East Energy and Environment Committee (2023 - Present); the Maryland Parks and Recreation Commission (2023 - Present); the Just Transition Employment and Retraining Working Group (2024), the Harry R.
 Hughes Center for Agro-Ecology Board of Directors (2024 - Present); and the National Conference of State Legislatures’ Natural Resources & Infrastructure Committee (2024 - Present).
 Delegate Boyce works tirelessly serving Maryland, Baltimore City, and District 43A by attending events and community meetings, distributing over $60,000 a year in college scholarships for district students, securing a collective $10+ million in capital investments and improvements in the 43rd District, and ensuring that she keeps her campaign promise of supporting our families and investing in our city to secure a promising future that we can all enjoy together.
-You can view Regina’s record of service here.
+You can view Regina’s record of service here .
 Caribbean heritage, D.C. born, Baltimore home.
 Regina was born in Washington, D.C. to Caribbean parents who emigrated to the United States from Jamaica and Barbados.
 She graduated as a scholar athlete from Woodlawn High School in 1994, and then attended Catonsville Community College where she played soccer and lacrosse.
@@ -44,3 +47,5 @@ Regina loves to eat, and makes her way around the district with family and frien
 Paul, York Road, Harford Road, North Avenue and the Avenue in Hampden.
 There is so much to do in District 43A, and Regina loves all of it.
 She hopes to see you out and about in the district!
+By Authority of Friends of Regina T.
+Boyce, Cailin McGough, Treasurer Annapolis: 6 Bladen Street, Room 304, Annapolis, MD 21401 (410) 841-3476 • regina.boyce@house.maryland.gov Interim Contact: (410) 889-3376 • regina@reginatboyce.com

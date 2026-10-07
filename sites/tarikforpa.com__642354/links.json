@@ -1,18 +1,66 @@
 [
-"https://bsky.app/profile/tarikforpa.bsky.social",
-"https://facebook.com/TarikForPA",
-"https://instagram.com/p/DX0AxnHD1tU",
-"https://instagram.com/p/DY950AfghQm",
-"https://instagram.com/p/DYc5DKovnWK",
-"https://instagram.com/p/DZLxOJ1gmFm",
-"https://instagram.com/tarikforpa",
-"https://secure.actblue.com/donate/tarikforpa",
-"https://secure.actblue.com/donate/tarikkhanwebsite",
-"https://tarikforpa.com/",
-"https://tarikforpa.com/cart",
-"https://vote.pa.gov/mailballot",
-"https://vote.pa.gov/pollingplace",
-"https://vote.pa.gov/register",
-"https://vote.pa.gov/status",
-"https://x.com/TarikforPA"
+{
+"text": "0",
+"href": "https://www.tarikforpa.com/cart"
+},
+{
+"text": "Check/Update Registration",
+"href": "https://vote.pa.gov/status"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tarikkhanwebsite"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tarikforpa"
+},
+{
+"text": "Find your Polling Place",
+"href": "https://vote.pa.gov/pollingplace"
+},
+{
+"text": "Register to Vote",
+"href": "https://vote.pa.gov/register"
+},
+{
+"text": "Request to Vote by Mail",
+"href": "https://vote.pa.gov/mailballot"
+},
+{
+"text": "[image: Congratulations to two extraordinary candidates and public servants on their hard-earned primary victories! 🎉🎉 Bob Brooks, who will take on Congressman Ryan Mackenzie this fall, and Megan Griffin-Shelley, who was just declared the winner in Pennsy][image: Congratulations to two extraordinary candidates and public servants on their hard-earned primary victories! 🎉🎉 Bob Brooks, who will take on Congressman Ryan Mackenzie this fall, and Megan Griffin-Shelley, who was just declared the winner in Pennsy]",
+"href": "https://www.instagram.com/p/DY950AfghQm/"
+},
+{
+"text": "[image: Knocking doors with Michael Anderson, of &ldquo;Michael&rsquo;s Law&rdquo; fame for Megan Griffin-Shelley!!][image: Knocking doors with Michael Anderson, of &ldquo;Michael&rsquo;s Law&rdquo; fame for Megan Griffin-Shelley!!]",
+"href": "https://www.instagram.com/p/DYc5DKovnWK/"
+},
+{
+"text": "[image: Standing with the Sisters of St. Joseph today in prayer and purpose, supporting immigrants, refugees, and asylum seekers with dignity and compassion. #WeWillStandWithYou][image: Standing with the Sisters of St. Joseph today in prayer and purpose, supporting immigrants, refugees, and asylum seekers with dignity and compassion. #WeWillStandWithYou]",
+"href": "https://www.instagram.com/p/DX0AxnHD1tU/"
+},
+{
+"text": "[image: State Rep. Tarik Khan]",
+"href": "https://www.tarikforpa.com/"
+},
+{
+"text": "[image: Welcome to Philadelphia, Netroots Nation 2026! Wishing everyone a productive and successful convention. #NN26 #netrootsnation][image: Welcome to Philadelphia, Netroots Nation 2026! Wishing everyone a productive and successful convention. #NN26 #netrootsnation]",
+"href": "https://www.instagram.com/p/DZLxOJ1gmFm/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/tarikforpa.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/TarikForPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tarikforpa"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/TarikforPA"
+}
 ]

@@ -1,31 +1,142 @@
 [
-"http://volunteer/",
-"https://cfequality.org/",
-"https://dlcc.org/",
-"https://facebook.com/josh4texas",
-"https://houstonblackdems.org/",
-"https://instagram.com/votejosh4texas",
-"https://josh4texas.bbimerch.com/",
-"https://josh4texas.com/",
-"https://josh4texas.com/contact",
-"https://josh4texas.com/issues",
-"https://josh4texas.com/meet-josh",
-"https://josh4texas.com/privacy-policy",
-"https://josh4texas.com/terms",
-"https://josh4texas.com/volunteer",
-"https://josh4texas.com/wp-content/uploads/2026/04/HD133.png",
-"https://mobilize.us/josh4texas",
-"https://plannedparenthoodaction.org/planned-parenthood-texas-votes",
-"https://secularhouston.org/",
-"https://secure.actblue.com/donate/jwwebsite",
-"https://secure.actblue.com/donate/jwwebsite&amount=10",
-"https://secure.actblue.com/donate/jwwebsite&amount=133",
-"https://secure.actblue.com/donate/jwwebsite&amount=25",
-"https://secure.actblue.com/donate/jwwebsite&amount=250",
-"https://secure.actblue.com/donate/jwwebsite&amount=50",
-"https://teachersunify.org/",
-"https://texasaflcio.org/",
-"https://theoathofoffice.org/",
-"https://tiktok.com/@josh4texas",
-"https://x.com/voteJosh4texas"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jwwebsite&amount=10"
+},
+{
+"text": "$133",
+"href": "https://secure.actblue.com/donate/jwwebsite&amount=133"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jwwebsite&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jwwebsite&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jwwebsite&amount=50"
+},
+{
+"text": "About Josh",
+"href": "https://josh4texas.com/meet-josh/"
+},
+{
+"text": "Coalition",
+"href": "https://josh4texas.com/volunteer/#coalition"
+},
+{
+"text": "Contact Us",
+"href": "https://josh4texas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jwwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/josh4texas/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/josh4texas"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://volunteer"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://josh4texas.com/volunteer"
+},
+{
+"text": "Get Involved",
+"href": "https://josh4texas.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votejosh4texas/"
+},
+{
+"text": "Internships",
+"href": "https://josh4texas.com/volunteer/#intern"
+},
+{
+"text": "Issues",
+"href": "https://josh4texas.com/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://josh4texas.com/issues/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/jwwebsite"
+},
+{
+"text": "Privacy Policy",
+"href": "https://josh4texas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://josh4texas.bbimerch.com/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://josh4texas.com/terms"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@josh4texas"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/voteJosh4texas"
+},
+{
+"text": "Volunteer",
+"href": "https://josh4texas.com/volunteer/#volunteer"
+},
+{
+"text": "[image: Center for Freethought Equality] Center for Freethought Equality",
+"href": "https://www.cfequality.org/"
+},
+{
+"text": "[image: Democratic Legislative Campaign Committee (DLCC)] Democratic Legislative Campaign Committee",
+"href": "https://www.dlcc.org/"
+},
+{
+"text": "[image: Houston Black American Democrats] Houston Black American Democrats",
+"href": "https://houstonblackdems.org/"
+},
+{
+"text": "[image: Josh Wallenstein for HD133]",
+"href": "https://josh4texas.com/"
+},
+{
+"text": "[image: Map of Texas State House District 133]",
+"href": "https://josh4texas.com/wp-content/uploads/2026/04/HD133.png"
+},
+{
+"text": "[image: Secular Houston PAC] Planned Parenthood Texas Votes",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes"
+},
+{
+"text": "[image: Secular Houston PAC] Secular Houston",
+"href": "https://secularhouston.org/"
+},
+{
+"text": "[image: Teachers Unify to End Gun Violence] Teachers Unify to End Gun Violence",
+"href": "https://www.teachersunify.org/"
+},
+{
+"text": "[image: Texas AFL-CIO] Texas AFL-CIO Committee on Public Education (COPE)",
+"href": "https://texasaflcio.org/"
+},
+{
+"text": "[image: The Oath of Office] The Oath of Office",
+"href": "https://www.theoathofoffice.org/"
+}
 ]

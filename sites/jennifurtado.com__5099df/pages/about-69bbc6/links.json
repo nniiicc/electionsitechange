@@ -1,8 +1,34 @@
 [
-"https://facebook.com/jenniforstaterep",
-"https://jennifurtado.com/",
-"https://jennifurtado.com/about",
-"https://jennifurtado.com/copy-of-issues",
-"https://jennifurtado.com/issues",
-"https://secure.actblue.com/donate/jennifurtado"
+{
+"text": "ABOUT",
+"href": "https://www.jennifurtado.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jennifurtado"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jennifurtado.com/copy-of-issues"
+},
+{
+"text": "HOME",
+"href": "https://www.jennifurtado.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jennifurtado.com/issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jenniforstaterep/"
+},
+{
+"text": "[no text]",
+"href": "https://www.jennifurtado.com/about"
+},
+{
+"text": "jenni.a.furtado@gmail.com",
+"href": "mailto:jenni.a.furtado@gmail.com"
+}
 ]

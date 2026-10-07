@@ -1,14 +1,20 @@
-Delaware’s Voice in Congress
-Sarah Will Keep Us Moving Forward
-Congresswoman Sarah McBride proudly represents Delaware’s at-large congressional district.
+Invest in Our Mission Dontate now to support Sarah’s bold agenda that benefits workers and families. $10 $25 $100 $250 $500 Other amount Close Facebook Twitter Instagram TikTok Sarah McBride for Congress Menu Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Delaware’s Voice in Congress First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Sarah Will Keep Us Moving Forward Congresswoman Sarah McBride proudly represents Delaware’s at-large congressional district.
 In Congress, Sarah supports a bold agenda that benefits workers and families through policies like expanding health care access and bringing down costs, investing in an economy that benefits workers and families, reforming our criminal justice system, and more.
-The Latest
-- McBride Campaign Releases New Ad in Defense of Social Security and Medicare Press Release Sarah McBride will always stand up for the promises made to workers after a lifetime of hard work Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her third ad …
-- McBride Campaign Releases New Broadcast Ad of Workers Across Delaware Making the Case for McBride Press Release Working people across Delaware stand with Sarah for Congress Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her second broadcast ad for the General Election.
-The ad highlights working …
-- Sarah McBride Releases First TV Ad of General Election for Delaware’s At-Large Congressional Seat Press Release “Respect” reflects Sarah McBride’s belief that government should work for all of us Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her first television ad of the 2024 general …
-- Biden congratulates McBride: ‘Beau’s looking down from heaven’ In the News
-- Lawmaker Sarah McBride on the Privilege—and Pressure—of Making Political History In the News
-- USA Today: Meet Sarah McBride In the News
-- Del.
-State Senator Sarah McBride advances to Nov. ticket with landslide Primary win In the News
+Learn More Get Involved Join Our Movement Sign Up Contribute to Our Cause Donate Take Action With Us Volunteer Sarah’s Priorities Making Life More Affordable Care Economy Healthcare Voting Rights and American Democracy Additional Priorities The Latest McBride Campaign Releases New Ad in Defense of Social Security and Medicare Press Release October 15, 2024 Sarah McBride will always stand up for the promises made to workers after a lifetime of hard work Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her third ad … McBride Campaign Releases New Broadcast Ad of Workers Across Delaware Making the Case for McBride Press Release September 26, 2024 Working people across Delaware stand with Sarah for Congress Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her second broadcast ad for the General Election.
+The ad highlights working … Sarah McBride Releases First TV Ad of General Election for Delaware’s At-Large Congressional Seat Press Release September 23, 2024 “Respect” reflects Sarah McBride’s belief that government should work for all of us Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her first television ad of the 2024 general … Biden congratulates McBride: ‘Beau’s looking down from heaven’ In the News September 13, 2024 The Hill Lawmaker Sarah McBride on the Privilege—and Pressure—of Making Political History In the News September 12, 2024 Elle USA Today: Meet Sarah McBride In the News September 11, 2024 USA Today Del.
+State Senator Sarah McBride advances to Nov. ticket with landslide Primary win In the News September 11, 2024 WMDT Connect with us: Facebook Twitter Instagram TikTok More News Get Involved Sign up here to get the latest information on the campaign and how to get involved.
+First name Email address Zip code Mobile number By providing your mobile number, you consent to receive voter contact, donation asks, and informational messages from McBride for Delaware.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Text HELP for help.
+Privacy Policy and Terms .
+Submit Chip in today Contribute to our cause by making a donation to our campaign. $# $# $# $# $# Other amount Sarah McBride for Congress Home Meet Sarah Priorities Care Economy Climate Change Criminal Justice Reform Delaware’s Agriculture Economy Education and Workforce Development Gun Violence Healthcare Immigration Making Life More Affordable Reproductive Health Care Science & Technology Veterans Voting Rights and American Democracy Workers’ Rights & Strong Unions Results Endorsements News Volunteer Store Donate Follow Us: Facebook Twitter Instagram TikTok Donate By Mail McBride for Delaware P.O.
+Box 1904 Wilmington, DE 19899 Paid for by McBride for Delaware, Inc.
+Contact Privacy Policy Made with Middle Seat

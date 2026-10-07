@@ -1,6 +1,5 @@
-Signed in as:
-filler@godaddy.com
-I grew up in Beaverton, Oregon where I graduated from Sunset High School and lettered on the varsity basketball team.
+Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Home Values About News Contact Us Donate More Home Values About News Contact Us Donate Signed in as: filler@godaddy.com Home Values About News Contact Us Donate Account My Account Sign out Sign In My Account E.
+Werner Reschke Biography I grew up in Beaverton, Oregon where I graduated from Sunset High School and lettered on the varsity basketball team.
 I graduated from Oregon State University with cum laude honors, earning a Bachelor of Arts degree in Business Administration with emphasis on International Business and Marketing, and minors in German and Economics.
 I married my college sweetheart, the woman of my dreams.
 My wife and I have been married for over 30 years (hard to tell because of how young we look!).
@@ -8,8 +7,7 @@ We have one son, who graduated from Crosspoint Christian School (formerly, Hosan
 My wife, who grew up in Klamath County, and I returned to live in Klamath County in 2001 to raise our son.
 Before I joined the legislature we were small business owners.
 We currently enjoy the simple life of country living on our small farm.
-Life in South & Central Oregon
-Gin & I attend Calvary Chapel Church in Klamath Falls.
+Life in South & Central Oregon Gin & I attend Calvary Chapel Church in Klamath Falls.
 I served for over three years on the Klamath County Chamber of Commerce Board of Directors.
 For nearly 20 years I owned and operated a web development company.
 Before that I worked in management, marketing and customer support, for three Fortune 500 companies in Portland (Xerox, Tektronix and Georgia-Pacific).
@@ -19,3 +17,7 @@ As a small business owner, and as a legislator, I have seen first hand the negat
 I understand in order to thrive, businesses must keep costs to a minimum.
 I understand for families to do well, they need to keep more of what they earn.
 Unfortunately our State government continues to add undue burdens to all businesses and families, but especially for those who live in rural areas.
+Contact Us Privacy Policy Donate Paid for by Werner For Oregon.
+PAC ID 17892.
+Copyright © # Werner For Oregon - All Rights Reserved.
+Powered by

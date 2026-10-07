@@ -1,7 +1,9 @@
 {
  "description": "Join Griffith for Kentucky&#39;s campaign to vote for a better future. Stay informed about Kentucky elections and make your voice heard!",
  "final_url": "https://griffith4ky.com/",
- "paid_for_by": null,
+ "fingerprint": "6fdc77edfdd7dbb224f0d4ae9871f42d4a09b108",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Griffith for Kentucky",
  "years_mentioned": []
 }

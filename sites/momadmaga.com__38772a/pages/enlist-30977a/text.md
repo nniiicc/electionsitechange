@@ -1,5 +1,7 @@
-top of page
-JOIN PBIII’S UNITED STATES CONGRESSIONAL CAMPAIGN AGAINST SOCIALISM
-On behalf of Missouri Patriots, I want to thank you in advance for your enlistment in our valiant cause!
+top of page The Mission Take Action About Endorsements Enlist Donate Menu Close JOIN PBIII’S UNITED STATES CONGRESSIONAL CAMPAIGN AGAINST SOCIALISM On behalf of Missouri Patriots, I want to thank you in advance for your enlistment in our valiant cause!
 We request you completely fill out the following form, which allows us to effectively deploy your talent towards our election efforts and vet applicants to identify Democrat Socialist seeking to infiltrate our Patriot cause.
-bottom of page
+Your Information First name (Required) Last name (Required) Email (Required) Phone Home Address Address Country/Region (Required) Address (Required) City (Required) Zip / Postal code (Required) How would you like to help?
+Enlistment Duties (Required) Phone Banking Letter Writing Social Media Posting Content Creation Door Knocking Sign Placement Poll Worker Campaign Donor Fundraiser Please select each campaign duty you seek to perform on behalf of Missouri Patriots.
+Missouri Patriot Credentials (Required) Republican Conservative Patriot MAGA Prolife Constitutionalist 2A Supporter Limited Government School Choice Border Security Support Law Enforcement and First Responders Support United States Armed Forces Capitalist Hate Socialism Love America Endorse Paul Berry III For United States Congress Please check the following to declare your support for Missouri Patriot beliefs and your ENDORSMENT of Paul Berry III for United States Congress.
+Submit MISSOURI MAD MAGA INFO@MOMADMAGA.com DONATE BROKEN ARROW!
+Paid For By Berry For USA © # by Berry for USA The Mission Take Action About Endorsements Enlist Donate bottom of page

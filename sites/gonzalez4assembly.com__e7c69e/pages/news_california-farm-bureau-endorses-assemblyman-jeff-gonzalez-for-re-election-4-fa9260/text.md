@@ -1,7 +1,7 @@
-CAL FIRE Local 2881 Endorses Assemblyman Jeff Gonzalez for Re-Election
-INDIO, CA — The Gonzalez for Assembly campaign announced today that CAL FIRE Local 2881, the statewide organization representing California’s professional firefighters, has endorsed Assemblyman Jeff Gonzalez for re-election in Assembly District 36.
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE CAL FIRE Local 2881 Endorses Assemblyman Jeff Gonzalez for Re-Election May 1 Written By Frank Hill INDIO, CA — The Gonzalez for Assembly campaign announced today that CAL FIRE Local 2881 , the statewide organization representing California’s professional firefighters, has endorsed Assemblyman Jeff Gonzalez for re-election in Assembly District 36.
 The endorsement adds to growing support from public safety leaders who recognize Gonzalez’s commitment to wildfire prevention, emergency preparedness, and ensuring firefighters have the resources they need to protect communities across California.
 “Our firefighters put their lives on the line every day to keep our communities safe.
 I’m honored to have the support of CAL FIRE Local 2881 and will continue fighting to ensure they have the tools, resources, and support they need to do their jobs,” said Gonzalez.
-For more information about Assemblyman Jeff Gonzalez’s campaign, visit: www.Gonzalez4Assembly.com.
-###
+For more information about Assemblyman Jeff Gonzalez’s campaign, visit: www.Gonzalez4Assembly.com .
+### Frank Hill Previous Previous Blythe Vice Mayor Johnny Rodriguez Endorses Assemblyman Jeff Gonzalez for Re-Election Next Next San Bernardino County Sheriff Shannon Dicus Endorses Assemblyman Jeff Gonzalez for Re-Election MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

@@ -1,13 +1,50 @@
 [
-"https://angelaromero.com/",
-"https://angelaromero.com/about-me",
-"https://angelaromero.com/get-involved",
-"https://angelaromero.com/issues",
-"https://angelaromero.com/our-district",
-"https://angelaromero.us12.list-manage.com/subscribe?u=1c6bc6eea7452e7a65c4d80b0&id=0b68533e18",
-"https://facebook.com/RepAngelaRomero",
-"https://house.utleg.gov/rep/ROMERAY",
-"https://instagram.com/repangelaromero",
-"https://secure.actblue.com/donate/repromerobirthday2024",
-"https://twitter.com/RepAngelaRomero"
+{
+"text": "About Me",
+"href": "https://www.angelaromero.com/about-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/repromerobirthday2024"
+},
+{
+"text": "Get Involved",
+"href": "https://www.angelaromero.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.angelaromero.com"
+},
+{
+"text": "Issues",
+"href": "https://www.angelaromero.com/issues"
+},
+{
+"text": "Legislative Website",
+"href": "https://house.utleg.gov/rep/ROMERAY/"
+},
+{
+"text": "Our District",
+"href": "https://www.angelaromero.com/our-district"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://angelaromero.us12.list-manage.com/subscribe?u=1c6bc6eea7452e7a65c4d80b0&id=0b68533e18"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepAngelaRomero"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repangelaromero/"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/RepAngelaRomero"
+},
+{
+"text": "angela@angelaromero.com",
+"href": "mailto:angelaromero@le.utah.gov"
+}
 ]

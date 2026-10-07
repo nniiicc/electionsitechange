@@ -1,7 +1,4 @@
-Protecting Democracy
-Updated: Mar 22
-Preserving What We Share
-One of my earliest memories is going with my mom to vote.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Protecting Democracy Jun 2, 2025 2 min read Updated: Mar 22 Preserving What We Share One of my earliest memories is going with my mom to vote.
 Back then, voting booths had these big, heavy curtains.
 I remember stepping in beside her and helping pull that big, ugly curtain closed behind us.
 It felt like we were entering a secret space where something important was about to happen.
@@ -48,4 +45,4 @@ That we are called to build systems that reflect justice and love.
 Democracy should be one of those systems.
 So let’s fix what’s broken and protect what we share, because if we can’t trust our elections, nothing else works.
 Because your vote matters.
-And it always should.
+And it always should. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

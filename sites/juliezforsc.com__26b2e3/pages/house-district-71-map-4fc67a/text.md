@@ -1,4 +1,1 @@
-Skip navigation menu
-Community member, Mother, fighter
-House District 71 Map
-To see a more interactive district map and zoom in to the street level visit:
+Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter House District 71 Map About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter House District 71 Map To see a more interactive district map and zoom in to the street level visit: https://www.scstatehouse.gov/maps/house/HD71.pdf Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.

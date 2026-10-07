@@ -1,4 +1,4 @@
-Hi I’m Brad Magg, let me introduce myself!
+top of page Home Meet Brad The Issues The District Voter Resources DONATE Hi I’m Brad Magg, let me introduce myself!
 I’ve been proud to serve on the Colfax City Council since 2009, and I’ve spent my entire life here in Jasper County.
 I’m the owner of Goldie’s Ice Cream Shoppe in Prairie City, co-owner of Spring City Pharmacy in Colfax, and I also run three stands at the Iowa State Fair — and yes, I camp there every night of the Fair.
 I started my first catering business at 14 years old, right here in Jasper County.
@@ -15,3 +15,6 @@ That’s the approach I would bring to Des Moines.
 If elected, my focus will be simple: put Jasper County first.
 Please feel free to reach out.
 I’d love the opportunity to visit with you, hear your concerns, and talk about how we can move our district forward together!
+GET INVOLVED!
+CONTRIBUTE VOLUNTEER CONTACT © PAID FOR BY BRAD MAGG FOR IOWA.
+Powered and secured by Wix bottom of page

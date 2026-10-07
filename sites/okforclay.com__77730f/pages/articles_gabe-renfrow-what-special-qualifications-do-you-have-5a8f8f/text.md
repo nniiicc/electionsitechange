@@ -1,10 +1,12 @@
-Gabe Renfrow has been a healthcare worker for the past 17 years with Hillcrest Healthcare System.
+Facebook Twitter Instagram Re-Elect Clay on Nov.
+3rd!
+Meet Clay Core Principles Core Issues Contact Clay Donate Select Page Gabe Renfrow | What Special Qualifications Do You Have?
+Jul 25, 2022 | Gabe Renfrow Gabe Renfrow has been a healthcare worker for the past 17 years with Hillcrest Healthcare System.
 In 2016, he switched parties from Democrat to Republican and became a Trump supporter.
 He says that he is also a staunch believer in the U.S.
 Constitution.
 He’s been a fighter his entire life and now he’s ready to take our fight for life and liberty to the State Capitol.
-Quoting himself on a mailer, Gabe says, “If I have anything to do with it, we’ll have election integrity in Oklahoma, illegal immigration will come to a stop, and the manipulation of the pandemic by our government to force mandates and loss of freedom on us will cease.”
-Gabe Renfrow says he will be a conservative fighter for District 66.
+Quoting himself on a mailer, Gabe says, “If I have anything to do with it, we’ll have election integrity in Oklahoma, illegal immigration will come to a stop, and the manipulation of the pandemic by our government to force mandates and loss of freedom on us will cease.” Gabe Renfrow says he will be a conservative fighter for District 66.
 I’m Gabe Renfrow.
 I Grew up in southeastern Oklahoma around McAllister.
 I went to Northeastern State University and got a bachelor’s degree there.
@@ -47,3 +49,5 @@ The con would be that, yes, it does take money away from public schools.
 But do those public schools need to get that money for children that they’re not actually educating?
 Do you think state revenues should follow the student?
 Gabe’s answer, “Yes”.
+Search for: OkforClay@gmail.com Authorized and Paid for by Friends of Clay Staires for Representative 2026 Facebook Twitter Instagram © # OK for Clay.
+All rights reserved. | Sitemap | Privacy Policy Meet Clay Core Principles Core Issues Contact Clay Donate

@@ -1,6 +1,4 @@
-Why I'm Running
-We need to open opportunities for our young people to stay in the area
-Rural Minnesota turns out the best workforce in the country.
+Home Issues Why I'm Running Get Informed Gallery Contact Donate Why I'm Running﻿ We need to open opportunities for our young people to stay in the area Rural Minnesota turns out the best workforce in the country.
 We need to create a friendly work environment, allow existing business to expand, and new business to spring up.
 We need to open opportunities for our young people to stay in the area.
 My concern for family, and desire to see all of them raise their own families in rural Minnesota, has given me a passion to see an economically stable and morally secure Minnesota.
@@ -18,3 +16,4 @@ We need to work with industries, providing the services in an open and free mark
 Competition always drives down prices.
 I look forward to the opportunity to restore growth and economic vitality to our region of Minnesota.
 I’m convinced that this can be accomplished with renewed leadership in our State Senate, along with a renewed sense of commitment to the hard working people of this Senate District.
+Prepared and paid for by the Committee to Elect Steve Green Scripts - Get Informed - Contact - Donate ﻿

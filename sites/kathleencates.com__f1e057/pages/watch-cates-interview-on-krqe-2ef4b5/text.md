@@ -1,7 +1,5 @@
-Bill aims to address juvenile’s criminal records and potential gun ownership as adults
-House Bill 25, introduced by Rep.
-Kathleen Cates, can help prevent repeat violence:
-“A bill pre-filed for the 30-day session aims to address people who commit gun crimes as kids from owning firearms soon after as adults.
+Home Issues Background Events Kool Things Endorsed Posts Contact DONATE Follow Follow Follow Watch Cates Interview on KRQE 8 Jan 2026 | News Bill aims to address juvenile’s criminal records and potential gun ownership as adults House Bill 25, introduced by Rep.
+Kathleen Cates, can help prevent repeat violence : “A bill pre-filed for the 30-day session aims to address people who commit gun crimes as kids from owning firearms soon after as adults.
 Kids who commit felony-level crimes serve their sentence.
 But with their juvenile records sealed, they are still able to own a gun as an adult.
 House Bill 25, introduced by Rep.
@@ -14,4 +12,5 @@ If passed, it would make it illegal for kids who commit crimes with guns to have
 Juvenile records would remain sealed from the public, but their criminal history would be available to law enforcement and legal gun vendors.
 “It still allows juveniles to make better decisions once their sentence is served, and keep their records private.
 It’s just that if they continue this behavior into adulthood, we’re saying they cannot legally own or possess a gun,” said Rep.
-Cates.” More
+Cates.” More ← Previous Next → © #, KM Cates Archive of legislation FAQs Post Categories NM House District 44?
+Contact Photos DONATE Paid for by Vote for Kathleen

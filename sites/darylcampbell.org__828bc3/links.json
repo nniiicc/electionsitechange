@@ -1,15 +1,82 @@
 [
-"https://browardcountyvotes.ballottrax.net/voter",
-"https://browardvotes.gov/",
-"https://browardvotes.gov/Voter-Information/Vote-By-Mail-Voting",
-"https://darylcampbell.org/",
-"https://darylcampbell.org/?page_id=1135",
-"https://darylcampbell.org/?page_id=1137",
-"https://darylcampbell.org/impact",
-"https://darylcampbell.org/join-daryl-campbell",
-"https://darylcampbell.org/media",
-"https://darylcampbell.org/meet-fl-state-rep-daryl-campbell",
-"https://facebook.com/daryl.campbell.777",
-"https://instagram.com/daryl.unplugged",
-"https://secure.anedot.com/daryl-campbell-for-state-representative/donate"
+{
+"text": "Check Voter Status",
+"href": "https://www.browardvotes.gov/Voter-Information/Vote-By-Mail-Voting"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/daryl-campbell-for-state-representative/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/daryl-campbell-for-state-representative/donate"
+},
+{
+"text": "FL State Representative Daryl Campbell",
+"href": "https://darylcampbell.org/"
+},
+{
+"text": "Find Voting Location",
+"href": "https://browardvotes.gov"
+},
+{
+"text": "General Resources",
+"href": "https://browardvotes.gov"
+},
+{
+"text": "Home",
+"href": "https://darylcampbell.org/"
+},
+{
+"text": "Impact",
+"href": "https://darylcampbell.org/impact/"
+},
+{
+"text": "JOIN US",
+"href": "https://darylcampbell.org/?page_id=1137"
+},
+{
+"text": "Join Us",
+"href": "https://darylcampbell.org/join-daryl-campbell/"
+},
+{
+"text": "Join Us FL Rep Daryl Campbell",
+"href": "https://darylcampbell.org/join-daryl-campbell/"
+},
+{
+"text": "Media",
+"href": "https://darylcampbell.org/media/"
+},
+{
+"text": "Meet Daryl",
+"href": "https://darylcampbell.org/meet-fl-state-rep-daryl-campbell/"
+},
+{
+"text": "Meet District 99 Rep Daryl Campbell",
+"href": "https://darylcampbell.org/meet-fl-state-rep-daryl-campbell/"
+},
+{
+"text": "Read More",
+"href": "https://darylcampbell.org/?page_id=1135"
+},
+{
+"text": "Request Ballot",
+"href": "https://www.browardvotes.gov/Voter-Information/Vote-By-Mail-Voting"
+},
+{
+"text": "Track Ballot",
+"href": "https://browardcountyvotes.ballottrax.net/voter/"
+},
+{
+"text": "[image: Daryl Campbell FL State House Representative ]",
+"href": "https://darylcampbell.org/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/daryl.unplugged"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/daryl.campbell.777"
+}
 ]

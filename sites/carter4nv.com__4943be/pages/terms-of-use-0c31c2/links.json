@@ -1,13 +1,46 @@
 [
-"https://carter4nv.com/",
-"https://carter4nv.com/about",
-"https://carter4nv.com/es/terminos-de-uso",
-"https://carter4nv.com/issues",
-"https://carter4nv.com/media",
-"https://carter4nv.com/privacy-policy",
-"https://carter4nv.com/terms-of-use",
-"https://carterfornv.com/",
-"https://facebook.com/Max4ad12",
-"https://secure.actblue.com/donate/linda-for-nevada-1",
-"https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+{
+"text": "About",
+"href": "https://www.carter4nv.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-for-nevada-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/the-committee-to-elect-max-e--carter-ii-1"
+},
+{
+"text": "Español",
+"href": "https://www.carter4nv.com/es/terminos-de-uso"
+},
+{
+"text": "Issues",
+"href": "https://www.carter4nv.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.carter4nv.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.carter4nv.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.carter4nv.com/terms-of-use"
+},
+{
+"text": "[image]",
+"href": "https://www.carter4nv.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/Max4ad12"
+},
+{
+"text": "carterfornv.com",
+"href": "https://carterfornv.com/"
+}
 ]

@@ -1,30 +1,114 @@
 [
-"https://facebook.com/GregSchwartz4StateRep",
-"https://gregschwartz.org/",
-"https://gregschwartz.org/about",
-"https://gregschwartz.org/contact",
-"https://gregschwartz.org/copy-of-issue-page",
-"https://gregschwartz.org/district",
-"https://gregschwartz.org/education",
-"https://gregschwartz.org/health",
-"https://gregschwartz.org/housing",
-"https://gregschwartz.org/immigration",
-"https://gregschwartz.org/legislation",
-"https://gregschwartz.org/news",
-"https://gregschwartz.org/public-safety",
-"https://gregschwartz.org/services",
-"https://instagram.com/gregforma12",
-"https://malegislature.gov/Bills/194/H1013",
-"https://malegislature.gov/Bills/194/H1014",
-"https://malegislature.gov/Bills/194/H1046",
-"https://malegislature.gov/Bills/194/H2427",
-"https://malegislature.gov/Bills/194/H2450",
-"https://malegislature.gov/Bills/194/H3206",
-"https://malegislature.gov/Bills/194/H3539",
-"https://malegislature.gov/Bills/194/H3547",
-"https://malegislature.gov/Bills/194/H3564",
-"https://malegislature.gov/Bills/194/H965",
-"https://malegislature.gov/Legislators/Profile/G_S1/194/Bills/Cosponsored",
-"https://malegislature.gov/Legislators/Profile/G_S1/194/Bills/Sponsored",
-"https://secure.actblue.com/donate/greg-schwartz3"
+{
+"text": "About",
+"href": "https://www.gregschwartz.org/about"
+},
+{
+"text": "All Co-Sponsored Bills",
+"href": "https://malegislature.gov/Legislators/Profile/G_S1/194/Bills/Cosponsored"
+},
+{
+"text": "All Sponsored Bills",
+"href": "https://malegislature.gov/Legislators/Profile/G_S1/194/Bills/Sponsored"
+},
+{
+"text": "Contact",
+"href": "https://www.gregschwartz.org/contact"
+},
+{
+"text": "District",
+"href": "https://www.gregschwartz.org/district"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/greg-schwartz3"
+},
+{
+"text": "Education",
+"href": "https://www.gregschwartz.org/education"
+},
+{
+"text": "Environment",
+"href": "https://www.gregschwartz.org/copy-of-issue-page"
+},
+{
+"text": "H.1013",
+"href": "https://malegislature.gov/Bills/194/H1013"
+},
+{
+"text": "H.1014",
+"href": "https://malegislature.gov/Bills/194/H1014"
+},
+{
+"text": "H.1046",
+"href": "https://malegislature.gov/Bills/194/H1046"
+},
+{
+"text": "H.2427",
+"href": "https://malegislature.gov/Bills/194/H2427"
+},
+{
+"text": "H.2450",
+"href": "https://malegislature.gov/Bills/194/H2450"
+},
+{
+"text": "H.3206",
+"href": "https://malegislature.gov/Bills/194/H3206"
+},
+{
+"text": "H.3539",
+"href": "https://malegislature.gov/Bills/194/H3539"
+},
+{
+"text": "H.3547",
+"href": "https://malegislature.gov/Bills/194/H3547"
+},
+{
+"text": "H.3564",
+"href": "https://malegislature.gov/Bills/194/H3564"
+},
+{
+"text": "H.965",
+"href": "https://malegislature.gov/Bills/194/H965"
+},
+{
+"text": "Health",
+"href": "https://www.gregschwartz.org/health"
+},
+{
+"text": "Home",
+"href": "https://www.gregschwartz.org"
+},
+{
+"text": "Housing",
+"href": "https://www.gregschwartz.org/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.gregschwartz.org/immigration"
+},
+{
+"text": "Legislation",
+"href": "https://www.gregschwartz.org/legislation"
+},
+{
+"text": "News",
+"href": "https://www.gregschwartz.org/news"
+},
+{
+"text": "Public Safety",
+"href": "https://www.gregschwartz.org/public-safety"
+},
+{
+"text": "Services",
+"href": "https://www.gregschwartz.org/services"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GregSchwartz4StateRep"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/gregforma12"
+}
 ]

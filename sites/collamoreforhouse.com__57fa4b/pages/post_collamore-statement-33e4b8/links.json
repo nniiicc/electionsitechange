@@ -1,12 +1,74 @@
 [
-"http://facebook.com/collamoreforhouse",
-"http://instagram.com/collamoreforhouse",
-"https://collamoreforhouse.com/",
-"https://collamoreforhouse.com/blank-10",
-"https://collamoreforhouse.com/blog",
-"https://collamoreforhouse.com/event-list",
-"https://collamoreforhouse.com/post/clean-elections-apology",
-"https://collamoreforhouse.com/post/how-to-help",
-"https://collamoreforhouse.com/post/letters-to-the-editor",
-"https://paypal.com/ncp/payment/HLRL7AJLNLXR8"
+{
+"text": "All Posts",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Clean Elections Apology",
+"href": "https://www.collamoreforhouse.com/post/clean-elections-apology"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "Events",
+"href": "https://www.collamoreforhouse.com/event-list"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.collamoreforhouse.com/blank-10"
+},
+{
+"text": "Home",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "How to help!",
+"href": "https://www.collamoreforhouse.com/post/how-to-help"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.collamoreforhouse.com/post/letters-to-the-editor"
+},
+{
+"text": "See All",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "[image: Clint-Collamore-logo]",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "[image: How to help!]",
+"href": "https://www.collamoreforhouse.com/post/how-to-help"
+},
+{
+"text": "[image: Letters to the Editor]",
+"href": "https://www.collamoreforhouse.com/post/letters-to-the-editor"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.collamoreforhouse.com/post/clean-elections-apology"
+},
+{
+"text": "[no text]",
+"href": "mailto:collamoreforhouse@gmail.com?subject=CC"
+}
 ]

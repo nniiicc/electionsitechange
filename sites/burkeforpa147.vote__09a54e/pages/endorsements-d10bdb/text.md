@@ -1,68 +1,10 @@
-US Congresswoman- Pennsylvania's Fourth District
-314 Action - Nationwide organization working to elect scientists
-Pennsylvania State Education Association Political Action Committee for Education (PSEA-PACE)
-Philadelphia Federation of Teachers
-Pennsylvania AFL-CIO
-SEIU Pennsylvania State Council
-Pennsylvania Association of Staff Nurses & Allied Professionals
-International Union of Operating Engineers Local 542
-Bricklayers and Allied Craftworkers Local 1PA/DE
-Sheet Metal Workers' Local Union 19
-International Brotherhood of Teamsters Local 77
-Southeast Pennsylvania Community Action Program (CAP) Council, UAW
-Region 9
-Represent PA
-Kennedy Democrats
-Tri-County Democrats
-Indivisible of MontCo
-Committee to Protect Health Care
-Conservation Voters of PA
-Planned Parenthood Pennsylvania PAC
-Pennsylvania National Organization for Women
-Vote Mama PAC
-Reproductive Freedom for All
-Moms Fed Up
-Pennsylvania Voters for Animals
-The National Democratic Redistricting Committee 2026 Democracy Defender
-2026 Moms Demand Action Gun Sense Candidate distinction
-Mental Health Now Candidate distinction
-Senator Maria Collett, 12th District
-Senator Amanda Cappelletti, 17th District
-House Majority Leader Representative Matt Bradford, 70th district
-Representative Greg Scott, 54th district
-Representative Liz Hanbidge, 61st district
-Representative Joseph Ciresi, 146th district
-Representative Mary Jo Daley, 148th district
-Representative Joe Webster, 150th district
-Representative Melissa Cerrato, 151st district
-Representative Tarik Khan, 194th district
-Jamila Winder, Montgomery County Commissioner
-Neil Makhija, Montgomery County Commissioner
-Jason Salus, Montgomery County Treasurer
-Sean Kilkenny, Montgomery County Sheriff
-Lori Schreiber, Montgomery County Clerk of Courts
-Noah Marlier, Montgomery County Prothonotary
-Andrea Baptiste, Montgomery County Jury Commissioner
-Supervisor Marla Hexter, Lower Frederick Township
-Supervisor Marybeth Morrell, Lower Salford Township
-Supervisor Russell Alderfer, Lower Salford Township
-Supervisor Russel Oister, New Hanover Township
-Commissioner Elwood Taylor, Upper Pottsgrove
-Commissioner Al Leach, Upper Pottsgrove
-Bob Harvie, Bucks County Commissioner
-“It’s important that a politician understand the needs of their district and represent all of their constituents fairly.
+Home Endorsements PA 147 Priorities Voting Volunteer More Home Endorsements PA 147 Priorities Voting Volunteer Donate Home Endorsements PA 147 Priorities Voting Volunteer Donate Supported By Madeleine Dean US Congresswoman- Pennsylvania's Fourth District Endorsements 314 Action - Nationwide organization working to elect scientists Pennsylvania State Education Association Political Action Committee for Education (PSEA-PACE) Philadelphia Federation of Teachers Pennsylvania AFL-CIO SEIU Pennsylvania State Council Pennsylvania Association of Staff Nurses & Allied Professionals International Union of Operating Engineers Local 542 Bricklayers and Allied Craftworkers Local 1PA/DE Sheet Metal Workers' Local Union 19 International Brotherhood of Teamsters Local 77 Southeast Pennsylvania Community Action Program (CAP) Council, UAW Region 9 Represent PA Kennedy Democrats Tri-County Democrats Indivisible of MontCo Committee to Protect Health Care Conservation Voters of PA Planned Parenthood Pennsylvania PAC Pennsylvania National Organization for Women Vote Mama PAC Reproductive Freedom for All Moms Fed Up Pennsylvania Voters for Animals The National Democratic Redistricting Committee 2026 Democracy Defender 2026 Moms Demand Action Gun Sense Candidate distinction Mental Health Now Candidate distinction Senator Maria Collett, 12th District Senator Amanda Cappelletti, 17th District House Majority Leader Representative Matt Bradford, 70th district Representative Greg Scott, 54th district Representative Liz Hanbidge, 61st district Representative Joseph Ciresi, 146th district Representative Mary Jo Daley, 148th district Representative Joe Webster, 150th district Representative Melissa Cerrato, 151st district Representative Tarik Khan, 194th district Jamila Winder, Montgomery County Commissioner Neil Makhija, Montgomery County Commissioner Jason Salus, Montgomery County Treasurer Sean Kilkenny, Montgomery County Sheriff Lori Schreiber, Montgomery County Clerk of Courts Noah Marlier, Montgomery County Prothonotary Andrea Baptiste, Montgomery County Jury Commissioner Supervisor Marla Hexter, Lower Frederick Township Supervisor Marybeth Morrell, Lower Salford Township Supervisor Russell Alderfer, Lower Salford Township Supervisor Russel Oister, New Hanover Township Commissioner Elwood Taylor, Upper Pottsgrove Commissioner Al Leach, Upper Pottsgrove Bob Harvie, Bucks County Commissioner Working with Margaret “It’s important that a politician understand the needs of their district and represent all of their constituents fairly.
 I remember Margaret when she was a team facilitator at Merck.
 She was able to bring together scientists and business people with very different perspectives and convince us to collaborate in a new way to be more effective and to benefit the entire organization.
-I think Margaret’s ability to listen to and understand different perspectives will make her an effective legislator in Harrisburg; one who will work hard to benefit all the people who live in our state house district.”
--Kati Abraham, Harleysville (State House District 147)
-“As a consultant at Merck, Margaret was focused on training product development team leaders and other team members to assist them in running their programs more efficiently to manage timelines and costs.
+I think Margaret’s ability to listen to and understand different perspectives will make her an effective legislator in Harrisburg; one who will work hard to benefit all the people who live in our state house district.” -Kati Abraham, Harleysville (State House District 147) “As a consultant at Merck, Margaret was focused on training product development team leaders and other team members to assist them in running their programs more efficiently to manage timelines and costs.
 She was always available to discuss challenges and offer advice.
 Margaret used her dual business and science backgrounds to help scientists become better leaders.
-If elected, I’m confident she will be equally available and helpful to her constituents.”
--JB, former product development leader at Merck
-“I have firsthand knowledge of Margaret’s advocacy and collaborative approach to support her child with disabilities in achieving HIS goals.
+If elected, I’m confident she will be equally available and helpful to her constituents.” -JB, former product development leader at Merck “I have firsthand knowledge of Margaret’s advocacy and collaborative approach to support her child with disabilities in achieving HIS goals.
 I am confident that she will bring same approach when working for her constituents.” N.
-B. - Educator and Father of children who have disabilities
-Learn more about the fight to flip PA 147.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+B. - Educator and Father of children who have disabilities Donate join the team Learn more about the fight to flip PA 147.
+Email Sign up Paid for by Friends of Margaret Burke

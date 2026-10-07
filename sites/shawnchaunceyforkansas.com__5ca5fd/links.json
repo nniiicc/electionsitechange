@@ -1,13 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61559425075317",
-"https://secure.winred.com/shawnchaunceyforkansas/donate-today",
-"https://shawnchaunceyforkansas.com/",
-"https://shawnchaunceyforkansas.com/admin/login",
-"https://shawnchaunceyforkansas.com/get-involved",
-"https://shawnchaunceyforkansas.com/issues/1",
-"https://shawnchaunceyforkansas.com/issues/3",
-"https://shawnchaunceyforkansas.com/issues/6",
-"https://shawnchaunceyforkansas.com/issues/7",
-"https://shawnchaunceyforkansas.com/newsletter",
-"https://shawnchaunceyforkansas.com/privacy-policy"
+{
+"text": "Admin login",
+"href": "https://shawnchaunceyforkansas.com/admin/login"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/shawnchaunceyforkansas/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://shawnchaunceyforkansas.com/get-involved"
+},
+{
+"text": "Get Weekly Updates",
+"href": "https://shawnchaunceyforkansas.com/newsletter"
+},
+{
+"text": "Home",
+"href": "https://shawnchaunceyforkansas.com/"
+},
+{
+"text": "Join",
+"href": "https://shawnchaunceyforkansas.com/get-involved"
+},
+{
+"text": "Join the campaign",
+"href": "https://secure.winred.com/shawnchaunceyforkansas/donate-today"
+},
+{
+"text": "Newsletter",
+"href": "https://shawnchaunceyforkansas.com/newsletter"
+},
+{
+"text": "Privacy policy",
+"href": "https://shawnchaunceyforkansas.com/privacy-policy"
+},
+{
+"text": "Read the full plan",
+"href": "https://shawnchaunceyforkansas.com/issues/1"
+},
+{
+"text": "Read the full plan",
+"href": "https://shawnchaunceyforkansas.com/issues/3"
+},
+{
+"text": "Read the full plan",
+"href": "https://shawnchaunceyforkansas.com/issues/6"
+},
+{
+"text": "Read the full plan",
+"href": "https://shawnchaunceyforkansas.com/issues/7"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.winred.com/shawnchaunceyforkansas/donate-today"
+},
+{
+"text": "[image: District 65 logo]",
+"href": "https://shawnchaunceyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61559425075317"
+}
 ]

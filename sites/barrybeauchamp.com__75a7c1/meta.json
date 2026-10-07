@@ -1,10 +1,15 @@
 {
- "description": "Join Barry Beauchamp's campaign as he runs for State Delegate to represent our community\u2019s values and priorities in Maryland's district 38B.",
+ "description": "Join Barry Beauchamp's campaign as he runs for State Delegate to represent our community’s values and priorities in Maryland's district 38B.",
  "final_url": "https://www.barrybeauchamp.com/",
- "paid_for_by": null,
+ "fingerprint": "26237bb7f0e9b0c689fafbdc033674feecc61e3d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Friends of Barry S Beauchamp, Rebecca Tittermary, Treasurer | political campaign",
  "years_mentioned": [
+  "1985",
+  "1987",
   "2022",
-  "2024"
+  "2024",
+  "2035"
  ]
 }

@@ -1,51 +1,15 @@
-I believe that healthcare is a human right.
+Home About Me Priority Issues Experience Media Press Questionnaires Donate Contact Home About Me Priority Issues Experience Media Press Questionnaires Donate Contact I believe that healthcare is a human right.
 As a legislator, I have prioritized policies that increase the affordability and availability of healthcare services, expand access to care and address systemic barriers experienced by our rural and remote communities.
-Key areas of focus include:
-- Addressing our healthcare provider shortage and increasing the availability and use of tele-health options
-- Continuing to increase access and resources for mental health care and reproductive care services
-- Addressing the transportation inequality faced by rural area residents when accessing care in urban areas
-- Building our healthcare workforce capacity
-- Increasing access to long-term care facilities, resources, and support for family caregivers
-I believe that if we are to sustain life on Earth we must protect its natural resources.
+Key areas of focus include: Addressing our healthcare provider shortage and increasing the availability and use of tele-health options Continuing to increase access and resources for mental health care and reproductive care services Addressing the transportation inequality faced by rural area residents when accessing care in urban areas Building our healthcare workforce capacity ​Increasing access to long-term care facilities, resources, and support for family caregivers​​​ I believe that if we are to sustain life on Earth we must protect its natural resources.
 Not only do healthy and abundant natural resources ensure the availability of clean air, pure water, living oceans, and fertile lands for agriculture, they are required if we are to maintain a functional economy and society and mitigate the impacts of climate change.
-To protect our natural resources for the generations to come we must:
-- Implement policies that reinforce and support the public trust doctrine
-- Restore water to streams and traditional and customary uses
-- Preserve and protect native ecosystems, biodiversity, and endangered species
-- Support place-based, community led ‘aina stewardship efforts
-- Protect conservation and agricultural lands
-- Prioritize the control and prevention of invasive species
-- Ensure resources are used sustainably and responsibly to maximize regeneration and minimize harm
-I firmly believe that the State has an obligation to provide the highest quality of public education to our youth.
+To protect our natural resources for the generations to come we must: Implement policies that reinforce and support the public trust doctrine Restore water to streams and traditional and customary uses Preserve and protect native ecosystems, biodiversity, and endangered species Support place-based, community led ‘aina stewardship efforts Protect conservation and agricultural lands Prioritize the control and prevention of invasive species Ensure resources are used sustainably and responsibly to maximize regeneration and minimize harm I firmly believe that the State has an obligation to provide the highest quality of public education to our youth.
 And this means not only a place to learn core academics, but an environment that focuses on meeting the needs of the whole child.
 The public school experience should foster critical thinking, compassion, and awareness of the world.
 Developing our children as people necessitates offering them the opportunity to be creative, develop social skills, and be exposed to the arts, gardening, civic literacy, and native and cultural history and practice.
-Areas of focus include:
-- Improving incentives and compensation to recruit and retain teachers and other key staff
-- Improving campus conditions by addressing the severe backlog of delayed maintenance repairs
-- Completing campus expansion projects to alleviate overcrowding
-- Increasing access to mental health resources on school campuses
-- Providing universal free school meals in public schools
-- Promoting early-college and debt-free college programs
-Hawaii consistently ranks among the most expensive places to live in the United States.
+Areas of focus include: Improving incentives and compensation to recruit and retain teachers and other key staff ​ ​ Improving campus conditions by addressing the severe backlog of delayed maintenance repairs Completing campus expansion projects to alleviate overcrowding Increasing access to mental health resources on school campuses ​ Providing universal free school meals in public schools Promoting early-college and debt-free college programs Hawaii consistently ranks among the most expensive places to live in the United States.
 For many local families, including my own, the high cost of living results in financial instability, which impacts economic growth, workforce productivity, health and wellness, the overall quality of life experienced, and the ability to continue living in Hawai’i.
-To relieve the cost of living burdens experienced by our local families we must prioritize:
-- Establishing a working families tax credit to help families meet their living expenses
-- Expanding support services (long-term care support, child care support, utility cost relief, and SNAP benefits)
-- Diversifying our economy to reduce our dependence on imported goods and tourism
-- Growing local food systems by providing resources and incentives to local farmers, supporting farmers markets, food hubs and farm-to-school programs
-- Continuing to push for a living wage
-- Increasing access to affordable housing for local residents by curbing foreign investment speculation, strengthening renters rights, and investing in initiatives that preserve our housing supply for our residents (community land trusts, down payment assistance programs, financial literacy programs)
-I have long been an advocate for addressing and mitigating the impacts of climate change.
+To relieve the cost of living burdens experienced by our local families we must prioritize: Establishing a working families tax credit to help families meet their living expenses Expanding support services (long-term care support, child care support, utility cost relief, and SNAP benefits) Diversifying our economy to reduce our dependence on imported goods and tourism Growing local food systems by providing resources and incentives to local farmers, supporting farmers markets, food hubs and farm-to-school programs Continuing to push for a living wage Increasing access to affordable housing for local residents by curbing foreign investment speculation, strengthening renters rights, and investing in initiatives that preserve our housing supply for our residents (community land trusts, down payment assistance programs, financial literacy programs) I have long been an advocate for addressing and mitigating the impacts of climate change.
 Houses are falling into the ocean, 2023 was the hottest year on record globally, we are experiencing droughts, fires, and flooding with greater severity and frequency than ever before.
 And we are not prepared.
 We must take urgent action to both prevent and reduce the severity of climate change as well as prepare for its impacts.
-Areas of focus include:
-- Supporting the protection and restoration of native forests and wetlands to increase aquifer recharge, capture floodwater, and sequester carbon
-- Supporting our state's carbon neutrality and 100% renewable energy goals
-- Requiring climate considerations in land use planning and determining a carrying capacity for our islands
-- Limiting new development in the sea level exposure areas, relocating critical infrastructure, and planning and implementing shoreline retreat
-- Requiring shelters to be retrofitted to meet hurricane grade standards and new government buildings to be built to such standards
-- Supporting resilience hubs and supply storage to service communities in the event that resources become limited
-- Allocating resources for pre-disaster planning and preparation and post-disaster recovery
-- Increasing the implementation of community supported and culturally appropriate renewable energy projects
+Areas of focus include: Supporting the protection and restoration of native forests and wetlands to increase aquifer recharge, capture floodwater, and sequester carbon Supporting our state's carbon neutrality and 100% renewable energy goals Requiring climate considerations in land use planning and determining a carrying capacity for our islands Limiting new development in the sea level exposure areas, relocating critical infrastructure, and planning and implementing shoreline retreat Requiring shelters to be retrofitted to meet hurricane grade standards and new government buildings to be built to such standards Supporting resilience hubs and supply storage to service communities in the event that resources become limited Allocating resources for pre-disaster planning and preparation and post-disaster recovery Increasing the implementation of community supported and culturally appropriate renewable energy projects Proudly powered by Weebly

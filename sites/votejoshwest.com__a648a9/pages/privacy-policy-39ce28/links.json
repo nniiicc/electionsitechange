@@ -1,9 +1,46 @@
 [
-"https://joshwest.flywheelsites.com/contact",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://secure.anedot.com/friends-of-josh-west/general-fund-c543d4916b2f21b27621e",
-"https://votejoshwest.com/",
-"https://votejoshwest.com/contact",
-"https://votejoshwest.com/issues",
-"https://votejoshwest.com/privacy-policy"
+{
+"text": "ACCOMPLISHMENTS",
+"href": "https://votejoshwest.com#accomplishments"
+},
+{
+"text": "CONTACT US",
+"href": "https://votejoshwest.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-josh-west/general-fund-c543d4916b2f21b27621e"
+},
+{
+"text": "HOME",
+"href": "https://votejoshwest.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://votejoshwest.com/issues/"
+},
+{
+"text": "MEET JOSH",
+"href": "https://votejoshwest.com#meet"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://votejoshwest.com/privacy-policy/"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://votejoshwest.com#take-action"
+},
+{
+"text": "[image]",
+"href": "https://votejoshwest.com"
+},
+{
+"text": "please contact us.",
+"href": "https://joshwest.flywheelsites.com/contact/"
+}
 ]

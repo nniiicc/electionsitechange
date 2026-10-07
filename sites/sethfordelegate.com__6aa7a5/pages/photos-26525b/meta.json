@@ -1,11 +1,19 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.sethfordelegate.com/photos",
- "paid_for_by": null,
+ "fingerprint": "cf0b7cd70506f8fadb169a2fdc1423649ea2de73",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
  "years_mentioned": [
+  "2014",
   "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
   "2020",
+  "2021",
   "2022"
  ]
 }

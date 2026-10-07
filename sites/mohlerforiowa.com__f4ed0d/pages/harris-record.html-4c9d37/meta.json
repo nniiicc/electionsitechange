@@ -1,9 +1,12 @@
 {
  "description": "The case file on Austin Harris: every vote, every donor, every dollar, verified against official records. Opposition research, published for the voters who own it.",
  "final_url": "https://mohlerforiowa.com/harris-record.html",
- "paid_for_by": "Paid for by Mohler for Iowa &middot; mohlerforiowa",
+ "fingerprint": "00ff189e366ea5845cdaa2794dccdb87831d1480",
+ "format": 3,
+ "paid_for_by": "Paid for by Mohler for Iowa · mohlerforiowa",
  "title": "The Harris File: HD-26 Case File | Mohler for Iowa",
  "years_mentioned": [
+  "1995",
   "2014",
   "2015",
   "2016",

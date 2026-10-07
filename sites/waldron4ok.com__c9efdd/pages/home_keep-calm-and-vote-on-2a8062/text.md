@@ -1,4 +1,4 @@
-America is the world’s greatest democracy.
+HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT HOME / Keep Calm and Vote On 18 Oct Tuesday, 6:49 PM · 2022 Keep Calm and Vote On America is the world’s greatest democracy.
 That means every citizen has the right to participate in the decision-making process.
 Voting is the most important way we do that.
 By choosing our leaders and supporting ballot initiatives we express what we want as a people.
@@ -13,3 +13,5 @@ So, keep calm and vote on.
 Just like our first citizens, you have the power to determine the future of our state and our nation.
 So, the next time someone starts yelling and being divisive, just smile and make a plan to vote on Election Day.
 And I’ll see you at the polls.
+John Waldron for Oklahoma 2020.
+Powered by CampaignPartner.com - Political Websites HOME ABOUT JOHN VOLUNTEER CONTRIBUTE EVENTS VOTING INFO CONTACT Close Menu

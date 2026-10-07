@@ -1,4 +1,4 @@
-Allow me to introduce myself – I'm Steven Kesselring, and I'm excited to announce my candidacy for State Representative for district 18 ward 12 in Manchetser.
+Home Meet Steven ISSUES Donate Events Home Meet Steven ISSUES Donate Events More Home Meet Steven ISSUES Donate Events Home Meet Steven ISSUES Donate Events Greetings, neighbors of District 18 in Manchester Allow me to introduce myself – I'm Steven Kesselring , and I'm excited to announce my candidacy for State Representative for district 18 ward 12 in Manchetser.
 Having called Manchester home for nearly two decades, I've had the privilege of witnessing the growth and changes that have shaped our lives.
 These experiences have fueled my desire to step up and serve our community in a new capacity.
 For years, I've dedicated myself to building businesses here in New Hampshire, pouring my energy into contributing positively to our state's economy and community.
@@ -16,14 +16,8 @@ Instead, I'm asking for your support in spreading the word about our campaign.
 Whether it's displaying a yard sign, distributing flyers, or simply sharing our message with friends and family, every bit counts.
 In the coming months, my family and I plan to knock on every door in our district to introduce ourselves personally.
 However, I would also be honored to arrange a special visit to meet you face-to-face.
-Just send a request, and I'll promptly reach out to schedule a convenient time.
-For direct contact, you can also email me at contact@stevenkesselring.com
-Thank you for considering me as your candidate for State Representative.
+Just send a request , and I'll promptly reach out to schedule a convenient time.
+For direct contact, you can also email me at contact@stevenkesselring.com Thank you for considering me as your candidate for State Representative.
 Together, we can make a difference right here in Manchester and ensure our concerns are represented in Concord.
 I look forward to meeting each of you and working together to build a stronger, more prosperous community.
-Warm regards,
-Steven Kesselring
-Republican Candidate for State Representative, District 18
-Paid for by Steven Kesselring for State Rep
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Warm regards, Steven Kesselring Republican Candidate for State Representative, District 18 Home Privacy Policy Terms and Conditions Press Release Events Paid for by Steven Kesselring for State Rep Powered by

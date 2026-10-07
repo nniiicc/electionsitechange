@@ -1,15 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvassing+Kickoff+Meeting&dates=20260809T180000Z%2F20260809T193000Z&location=York+Township%2C+PA",
-"http://maps.google.com/?q=+York+Township%2C+PA",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/canvassing-kickoff-meeting?format=ical",
-"https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic",
-"https://barnesforpa93.com/events/red-lion-street-fair",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://squarespace.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+york+township%2C+pa+"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvassing+Kickoff+Meeting&dates=20260809T180000Z%2F20260809T193000Z&location=York+Township%2C+PA"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/canvassing-kickoff-meeting?format=ical"
+},
+{
+"text": "Next Next August 12 Penn Ag Democrats Summer Picnic",
+"href": "https://barnesforpa93.com/events/penn-ag-democrats-summer-picnic"
+},
+{
+"text": "Previous Previous August 8 Red Lion Street Fair",
+"href": "https://barnesforpa93.com/events/red-lion-street-fair"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+},
+{
+"text": "barnesforpa93@gmail.com",
+"href": "mailto:barnesforpa93@gmail.com"
+}
 ]

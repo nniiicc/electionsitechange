@@ -1,10 +1,42 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScyfusAH9Kk2zCFfn058cUyNNnsrxZgXihoeNEVjQ5ELecyMw/viewform",
-"https://facebook.com/WinnForNC",
-"https://instagram.com/winnfornc",
-"https://mobilize.us/winndeckerfornc",
-"https://secure.actblue.com/donate/winn4nc",
-"https://secure.actblue.com/donate/winn4nc?amount=10",
-"https://winn4nc.com/",
-"https://winn4nc.com/media"
+{
+"text": "$ 10 $ 50 $ 100 $ 250 $ 500 OTHER",
+"href": "https://secure.actblue.com/donate/winn4nc?amount=10"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/winn4nc"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WinnForNC"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/winnfornc"
+},
+{
+"text": "Issues",
+"href": "https://winn4nc.com/#issues"
+},
+{
+"text": "Media",
+"href": "https://winn4nc.com/media/"
+},
+{
+"text": "Meet Winn",
+"href": "https://winn4nc.com/#meet"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mobilize.us/winndeckerfornc/"
+},
+{
+"text": "Yard Signs",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScyfusAH9Kk2zCFfn058cUyNNnsrxZgXihoeNEVjQ5ELecyMw/viewform"
+},
+{
+"text": "[image]",
+"href": "https://winn4nc.com"
+}
 ]

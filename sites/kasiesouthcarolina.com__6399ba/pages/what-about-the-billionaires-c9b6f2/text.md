@@ -1,3 +1,4 @@
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now What about the Billionaires?
 Don’t hate the players.
 Hate the game.
 What’s a campaign cycle without good old-fashioned class warfare?
@@ -9,18 +10,15 @@ Stop spending.
 Stop spending and you won’t have to tax more.
 Except these taxes aren’t about generating revenue for the state.
 They’re about punishing the wealthy for being wealthy.
-It’s politically expedient to blame the rich, tax them, and claim they’re not paying their “fair share.”
-It’s convenient.
+It’s politically expedient to blame the rich, tax them, and claim they’re not paying their “fair share.” It’s convenient.
 That’s why politicians do it.
 It’s not economically sound.
 It’s not even true in most cases.
 It’s just a convenient way to shift the spotlight from the real problem: government overspending.
-At happy hour recently with some of my favorite people in the world, both moms, both entrepreneurs, both writers, one of them asked me, “What about the billionaires?”
-Is it fair, she wanted to know, that people like Elon Musk and Jeff Bezos have amassed so much wealth on the backs of workers they underpay, lay off, and otherwise take for granted?
+At happy hour recently with some of my favorite people in the world, both moms, both entrepreneurs, both writers, one of them asked me, “What about the billionaires?” Is it fair, she wanted to know, that people like Elon Musk and Jeff Bezos have amassed so much wealth on the backs of workers they underpay, lay off, and otherwise take for granted?
 Shouldn’t billionaires pay their fair share?
-Actually, they pay more than their fair share (link).
-“At the federal level, the top 10 percent of income earners pay more than 60 percent of all taxes and 72 percent of income taxes, shares that have been increasing over time (resource).”
-More importantly: billionaires create value.
+Actually, they pay more than their fair share ( link ).
+“At the federal level, the top 10 percent of income earners pay more than 60 percent of all taxes and 72 percent of income taxes, shares that have been increasing over time ( resource ).” More importantly: billionaires create value.
 Amazon is valuable.
 An online marketplace that sells just about everything, delivers it to you quickly, and accepts returns without complaint?
 It’s borderline miraculous.
@@ -44,7 +42,7 @@ Markets offer us choices, competition forces companies to evolve and respond to 
 Those strategic choices and the leadership that makes them will generate and accumulate wealth.
 Wealth is not a finite commodity.
 There is endless opportunity in markets when innovation is allowed to flourish.
-These are infinite games, as Simon Sinek would say, wherein there are no boundaries or set players.
+These are infinite games, as Simon Sinek would say , wherein there are no boundaries or set players.
 Anyone can participate.
 Create value and prosperity will follow.
 So let the billionaires get paid what they’re worth.
@@ -63,8 +61,7 @@ Upgrade your home with green technology.
 Pay your parents’ medical bills.
 The tax code is overwrought with programs designed to get citizens and businesses to do what the politicians want them to do.
 It’s both carrot and stick.
-It’s a political tool to “enact policy” and “promote the general welfare.”
-It’s also how the government picks winners and losers.
+It’s a political tool to “enact policy” and “promote the general welfare.” It’s also how the government picks winners and losers.
 Certain industries (green energy) thrive under certain regimes (the Biden administration) and others (rare earth minerals, fossil fuels) thrive under the next regime (Trump 2.0).
 Add to that Treasury Secretary Bessant’s recent “investments” of taxpayer money into strategic industries (favorite companies) and you have the ultimate political puppet show.
 The seesaw of economic policy with the tax code as the primary fulcrum is worse than uncertainty.
@@ -125,7 +122,7 @@ Get the fresh blood, uncontaminated by the party machinery, into office.
 Let those willing citizens steer the ship.
 They won’t all be star players.
 But they’re willing to come off the bench.
-Find the full list of candidates in South Carolina here.
+Find the full list of candidates in South Carolina here .
 We heard Trump say he would drain the swamp.
 In South Carolina, it’s time to clean house.
 Find the candidates who tell the truth.
@@ -136,3 +133,18 @@ So let’s do something about it.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+5 Responses David says: April 12, 2026 at 11:25 pm This is dumb.
+How are you going to represent a body of people who are not billionaires with this attitude?
+Reply kasiesc says: April 13, 2026 at 3:53 pm Thanks for reading, David.
+I plan to reduce government spending and hold people accountable for taking taxpayers for a ride.
+I think that will be pretty good work, representative of folks that are sick of being looted.
+Cheers! -KW Reply Forrest says: April 15, 2026 at 12:40 am Good answer.
+The socialists are always looking for someone to target and steel from.
+They selfishly want other peoples earnings to fund what they want.
+Almost everyone is being skinned to provide a source of funding for the outrageous spending.
+Many people, hurting, are trying to point to some other source of government taking instead of focusing on the real problem of overspending.
+Reply kasiesc says: April 15, 2026 at 1:28 pm Thanks for reading!
+I look forward to working on the “spend less” strategy of addressing the national debt.
+Reply Pingback: We Can't Tax Our Way Out of This - Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

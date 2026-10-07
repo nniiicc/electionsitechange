@@ -1,13 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61586313816557",
-"https://jessforcongress.com/",
-"https://jessforcongress.com/endorsements",
-"https://jessforcongress.com/events",
-"https://jessforcongress.com/media-kit",
-"https://jessforcongress.com/results-for-philadelphia",
-"https://jessforcongress.com/volunteer",
-"https://pa.gov/agencies/vote/voter-registration",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx",
-"https://r.search.yahoo.com/_ylt=AwriglMbwOVp3gIAyGFXNyoA;_ylu=Y29sbwNiZjEEcG9zAzQEdnRpZAMEc2VjA3Ny/RV=2/RE=1777874203/RO=10/RU=https%3a%2f%2fwww.instagram.com%2fjessicaarriaga4philly%2f/RK=2/RS=eOyFb15Szj_nOQ4YXqSYhmxEdB8-",
-"https://secure.anedot.com/jessica-arriaga-for-congress/donate"
+{
+"text": "Check Voter Status",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jessica-arriaga-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://jessforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://jessforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61586313816557"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pa.gov/agencies/vote/voter-registration"
+},
+{
+"text": "Home",
+"href": "https://jessforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://r.search.yahoo.com/_ylt=AwriglMbwOVp3gIAyGFXNyoA;_ylu=Y29sbwNiZjEEcG9zAzQEdnRpZAMEc2VjA3Ny/RV=2/RE=1777874203/RO=10/RU=https%3a%2f%2fwww.instagram.com%2fjessicaarriaga4philly%2f/RK=2/RS=eOyFb15Szj_nOQ4YXqSYhmxEdB8-"
+},
+{
+"text": "Media Kit",
+"href": "https://jessforcongress.com/media-kit/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pa.gov/agencies/vote/voter-registration"
+},
+{
+"text": "Results for Philadelphia",
+"href": "https://jessforcongress.com/results-for-philadelphia/"
+},
+{
+"text": "Return to shop",
+"href": "https://jessforcongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://jessforcongress.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://jessforcongress.com"
+}
 ]

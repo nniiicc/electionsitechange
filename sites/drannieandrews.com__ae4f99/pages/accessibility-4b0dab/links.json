@@ -1,29 +1,182 @@
 [
-"https://apolloartistry.com/",
-"https://drannieandrews.com/",
-"https://drannieandrews.com/about",
-"https://drannieandrews.com/accessibility",
-"https://drannieandrews.com/bluesky",
-"https://drannieandrews.com/cdn-cgi/l/email-protection",
-"https://drannieandrews.com/events",
-"https://drannieandrews.com/facebook",
-"https://drannieandrews.com/get-involved",
-"https://drannieandrews.com/instagram",
-"https://drannieandrews.com/media",
-"https://drannieandrews.com/news",
-"https://drannieandrews.com/platform",
-"https://drannieandrews.com/privacy-policy",
-"https://drannieandrews.com/store",
-"https://drannieandrews.com/threads",
-"https://drannieandrews.com/tiktok",
-"https://drannieandrews.com/twitter",
-"https://drannieandrews.com/vote",
-"https://drannieandrews.com/youtube",
-"https://secure.actblue.com/donate/loc_website",
-"https://secure.actblue.com/donate/loc_website?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/loc_website?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/loc_website?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/loc_website?amount=35&express_lane=true",
-"https://secure.actblue.com/donate/loc_website?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/loc_website?amount=50&express_lane=true"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=35&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=5&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/loc_website?amount=50&express_lane=true"
+},
+{
+"text": "Accessibility",
+"href": "https://drannieandrews.com/accessibility"
+},
+{
+"text": "By submitting this form and signing up for texts, you consent to receive voter contact, donation asks, and informational messages from Dr. Annie Andrews for Senate. Msg & data rates may apply. Msg frequency varies. Unsubscribe at any time by replying STOP. Text START to opt in. Text HELP for help or email [email protected]. All information collected as part of SMS opt in will not be sold/rented/shared.",
+"href": "https://drannieandrews.com/privacy-policy"
+},
+{
+"text": "Contact",
+"href": "mailto:info@drannieandrews.com"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/loc_website"
+},
+{
+"text": "Events",
+"href": "https://drannieandrews.com/events"
+},
+{
+"text": "Events",
+"href": "https://drannieandrews.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://drannieandrews.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://drannieandrews.com"
+},
+{
+"text": "Instagram",
+"href": "https://drannieandrews.com/instagram"
+},
+{
+"text": "Media",
+"href": "https://drannieandrews.com/media"
+},
+{
+"text": "Meet Annie",
+"href": "https://drannieandrews.com/about"
+},
+{
+"text": "Meet Annie",
+"href": "https://drannieandrews.com/about/"
+},
+{
+"text": "News",
+"href": "https://drannieandrews.com/news"
+},
+{
+"text": "News",
+"href": "https://drannieandrews.com/news/"
+},
+{
+"text": "Other Amount Other Amount",
+"href": "https://secure.actblue.com/donate/loc_website"
+},
+{
+"text": "Other Amount... Other Amount...",
+"href": "https://secure.actblue.com/donate/loc_website"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Press Inquiry",
+"href": "mailto:press@drannieandrews.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://drannieandrews.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://drannieandrews.com/store"
+},
+{
+"text": "Threads",
+"href": "https://drannieandrews.com/threads"
+},
+{
+"text": "Tiktok",
+"href": "https://drannieandrews.com/tiktok"
+},
+{
+"text": "Volunteer Volunteer",
+"href": "https://drannieandrews.com/get-involved"
+},
+{
+"text": "Vote",
+"href": "https://drannieandrews.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://drannieandrews.com/vote/"
+},
+{
+"text": "Why I'm Running",
+"href": "https://drannieandrews.com/platform"
+},
+{
+"text": "Why I’m Running",
+"href": "https://drannieandrews.com/platform/"
+},
+{
+"text": "X-twitter",
+"href": "https://drannieandrews.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://drannieandrews.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@drannieandrews.com"
+},
+{
+"text": "[image]",
+"href": "https://drannieandrews.com"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/bluesky"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/facebook"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/instagram"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/threads"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/tiktok"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/twitter"
+},
+{
+"text": "[no text]",
+"href": "https://drannieandrews.com/youtube"
+}
 ]

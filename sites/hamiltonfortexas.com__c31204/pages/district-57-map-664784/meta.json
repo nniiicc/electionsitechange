@@ -1,7 +1,9 @@
 {
  "description": "Map of Texas House District 57",
  "final_url": "https://www.hamiltonfortexas.com/district-57-map",
- "paid_for_by": null,
+ "fingerprint": "be7cda3c377bbd29ed669320d4993d98aa4d9e75",
+ "format": 3,
+ "paid_for_by": "",
  "title": "District 57 Map",
  "years_mentioned": [
   "2020",

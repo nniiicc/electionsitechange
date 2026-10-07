@@ -1,28 +1,110 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Night&dates=20260420T223000Z%2F20260421T013000Z&location=8245+High+Pointe+Drive%2C+Newburgh%2C+IN%2C+47630%2C+United+States",
-"http://maps.google.com/?q=8245+High+Pointe+Drive+Newburgh%2C+IN%2C+47630+United+States",
-"https://bsky.app/profile/maryallen4congress.bsky.social",
-"https://facebook.com/share/1Chr644Ucy",
-"https://indianavoters.in.gov/",
-"https://instagram.com/maryallenforcongress",
-"https://maryallenforcongress.com/",
-"https://maryallenforcongress.com/cart",
-"https://maryallenforcongress.com/events",
-"https://maryallenforcongress.com/events/knox-canvassing",
-"https://maryallenforcongress.com/events/meet-mary-at-the-library-owen-co",
-"https://maryallenforcongress.com/events/trivia-night?format=ical",
-"https://maryallenforcongress.com/eventsvolunteer",
-"https://maryallenforcongress.com/knowyourvote",
-"https://maryallenforcongress.com/meetmary",
-"https://maryallenforcongress.com/press-releases-1",
-"https://maryallenforcongress.com/priorities",
-"https://secure.actblue.com/donate/mary-allen-1",
-"https://secure.actblue.com/donate/marymerch",
-"https://secure.ngpvan.com/nsziOJ9h4Ueq4u2mFDoNAg2",
-"https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2",
-"https://secure.ngpvan.com/ur35uB3SbEiDBG5oH3_GWA2",
-"https://take-bac-congress.us/",
-"https://threads.net/maryallenforcongress",
-"https://tiktok.com/@maryallen4congress",
-"https://youtube.com/@MaryAllenForCongress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=8245+high+pointe+drive+newburgh%2C+in%2C+47630+united+states"
+},
+{
+"text": "0",
+"href": "https://www.maryallenforcongress.com/cart"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Night&dates=20260420T223000Z%2F20260421T013000Z&location=8245+High+Pointe+Drive%2C+Newburgh%2C+IN%2C+47630%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.maryallenforcongress.com/events/trivia-night?format=ical"
+},
+{
+"text": "Know Your Vote",
+"href": "https://www.maryallenforcongress.com/knowyourvote"
+},
+{
+"text": "Learn More",
+"href": "https://www.take-bac-congress.us/"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.maryallenforcongress.com/meetmary"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/marymerch"
+},
+{
+"text": "Next Next April 25 Meet Mary at the Library - Owen Co",
+"href": "https://www.maryallenforcongress.com/events/meet-mary-at-the-library-owen-co"
+},
+{
+"text": "Press Releases",
+"href": "https://www.maryallenforcongress.com/press-releases-1"
+},
+{
+"text": "Previous Previous April 18 Knox County Canvassing - Phonebanking is also an option.",
+"href": "https://www.maryallenforcongress.com/events/knox-canvassing"
+},
+{
+"text": "Priorities",
+"href": "https://www.maryallenforcongress.com/priorities"
+},
+{
+"text": "Register",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Sign up",
+"href": "https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2"
+},
+{
+"text": "[image: Mary Allen for Congress]",
+"href": "https://www.maryallenforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maryallen4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Chr644Ucy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maryallen4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaryAllenForCongress/videos"
+},
+{
+"text": "https://secure.ngpvan.com/ur35uB3SbEiDBG5oH3_GWA2",
+"href": "https://secure.ngpvan.com/ur35uB3SbEiDBG5oH3_GWA2"
+},
+{
+"text": "mary@maryallenforcongress.com",
+"href": "mailto:mary@maryallenforcongress.com"
+}
 ]

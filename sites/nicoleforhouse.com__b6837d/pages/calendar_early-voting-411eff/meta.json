@@ -1,7 +1,11 @@
 {
  "description": "Early voting is now open in Rapid City!",
  "final_url": "https://www.nicoleforhouse.com/calendar/early-voting",
- "paid_for_by": null,
- "title": "Early Voting \u2014 nicoleforhouse.com",
- "years_mentioned": []
+ "fingerprint": "0e5e9c591010499092260eca375f09d51c82c1b5",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Early Voting — nicoleforhouse.com",
+ "years_mentioned": [
+  "2024"
+ ]
 }

@@ -1,29 +1,13 @@
-Our district is the heart of Chicago’s LGBTQ+ community, and I have always been an outspoken advocate for their rights.
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate LGBTQ+ rights Home LGBTQ+ rights Our district is the heart of Chicago’s LGBTQ+ community, and I have always been an outspoken advocate for their rights.
 At the height of the HIV/AIDS epidemic, I was fighting to fund treatments and medications—including protease inhibitors and access to clean syringes.
 That funding led to a significant drop in transmission rates and ultimately saved lives.
-I worked to prevent gender- and sexual identity-based discrimination, secured millions in HIV/AIDS prevention funding, strengthened Illinois’ hate crime laws, protected access to gender-affirming care, modernized inclusive language on birth and marriage certificates, and expanded adoption protections for same-sex couples..
+I worked to prevent gender- and sexual identity-based discrimination , secured millions in HIV/AIDS prevention funding, strengthened Illinois’ hate crime laws, protected access to gender-affirming care, modernized inclusive language on birth and marriage certificates, and expanded adoption protections for same-sex couples..
 Immediately after Trump was re-elected last year, I reached out to the social service providers in the 6th district because I knew how this movie would play out.
-It was clear that to protect the most vulnerable among us, they needed our support:
-- I learned that if Howard Brown Health could find new capital funding, they’d be able to devote more resources to direct services for LGBTQ+ folks who need their health care.
+It was clear that to protect the most vulnerable among us, they needed our support: I learned that if Howard Brown Health could find new capital funding, they’d be able to devote more resources to direct services for LGBTQ+ folks who need their health care.
 So I fought to get them a $500k capital grant—on top of millions of dollars I had previously secured in recent years.
-- I secured new funding for the Center on Halsted to maintain its services and funding for Nourishing Hope.
+I secured new funding for the Center on Halsted to maintain its services and funding for Nourishing Hope.
 In 2025, I passed legislation to update Illinois’ property laws with gender-neutral language, ensuring same-sex couples do not face barriers to acquiring or transferring property.
 Illinois has some of the strongest legal protections in the country for our LGBTQ+ community, but we cannot rest.
 The transgender community is under attack by the Trump administration, and I stand ready to fight back.
-Awards:
-2025: Center on Halsted – Community Spirit Award
-2024: LAGBAC, Chicago’s LGBTQIA+ Bar Association – Advocate Award
-2023: Health Care Council of Illinois – Legislator of the Year Award
-2011: Oak Park Area Lesbian and Gay Association – For Work on Illinois Civil Unions Law
-2009: Center On Halsted – Human First Award
-2007: AIDSCare – Community Leadership Award
-2006: Families and Children’s AIDS Network – Advocacy Award
-2006: Gay Games VII – 100 Champions
-2005: NAMES Project Foundation, AIDS Memorial Quilt – Hopeful Spirit Award
-2004: Equality Illinois – Distinguished Legislature Award
-2003: AIDS Foundation of Chicago – Leadership and Vision in the Fight Against AIDS
-2003: AIDS Legal Council – Advocate of the Year
-2003: Howard Brown – Friend for Life Award
-2001: Chicago Gay and Lesbian Hall of Fame – Inductee as Friend of the Community
-2001: Equality Illinois – Distinguished Legislator Award
-2000: AIDS Foundation of Chicago – In Recognition of leadership and vision in the fight against AIDS
+Awards: 2025: Center on Halsted – Community Spirit Award 2024: LAGBAC, Chicago’s LGBTQIA+ Bar Association – Advocate Award 2023: Health Care Council of Illinois – Legislator of the Year Award 2011: Oak Park Area Lesbian and Gay Association – For Work on Illinois Civil Unions Law 2009: Center On Halsted – Human First Award 2007: AIDSCare – Community Leadership Award 2006: Families and Children’s AIDS Network – Advocacy Award 2006: Gay Games VII – 100 Champions 2005: NAMES Project Foundation, AIDS Memorial Quilt – Hopeful Spirit Award 2004: ​​Equality Illinois – Distinguished Legislature Award 2003: AIDS Foundation of Chicago – Leadership and Vision in the Fight Against AIDS 2003: AIDS Legal Council – Advocate of the Year 2003: Howard Brown – Friend for Life Award 2001: Chicago Gay and Lesbian Hall of Fame – Inductee as Friend of the Community 2001: Equality Illinois – Distinguished Legislator Award 2000: AIDS Foundation of Chicago – In Recognition of leadership and vision in the fight against AIDS Latest News Oops, category not found.
+Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

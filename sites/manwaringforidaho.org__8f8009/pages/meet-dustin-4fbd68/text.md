@@ -1,4 +1,4 @@
-Dustin W.
+Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Home Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Issues News Volunteer Donate Meet Dustin Bio Wikipedia Bio Contact Media 2021-2022 Committee Assignments (Copy) 2017-2018 Committee Assignments Dustin W.
 Manwaring, raised in Blackfoot, Idaho, has lived and practiced law in Pocatello as a business and intellectual property attorney since 2010.
 Manwaring has strong Idaho roots, returning to the “Gem State” after attending undergraduate at University of Utah and law school at Drake University in Iowa.
 During law school, Manwaring served as a law clerk for the U.S.
@@ -17,4 +17,4 @@ Manwaring received the 2017 Idaho Young Republican Elected Official of the Year 
 He was selected to travel to New Zealand in 2018 with the American Council of Young Political Leaders as a rising leader to help foster mutual understanding, respect, and friendships among the next generation of leaders.
 In 2016, Manwaring was first elected as the only Republican state representative in the 29th legislative district, representing the City of Pocatello and surrounding area in the Idaho House of Representatives.
 Manwaring served on the Business, State Affairs, and Local Government committees.
-Dustin Manwaring is "Ready to Lead!"
+Dustin Manwaring is "Ready to Lead!" Back to Top (208) 252-5295 dustin@manwaringforidaho.org Paid for by Manwaring for Idaho

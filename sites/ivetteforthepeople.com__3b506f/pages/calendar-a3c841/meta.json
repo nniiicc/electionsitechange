@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the Iowa election calendar and join Ivette for the People in upcoming events!",
  "final_url": "https://ivetteforthepeople.com/calendar",
- "paid_for_by": "Paid For By Ivette For The People Campaign This website uses cookies",
+ "fingerprint": "8a0a3c597b339835eb4a70fd684597482614d7e0",
+ "format": 3,
+ "paid_for_by": "Paid For By Ivette For The People Campaign",
  "title": "Calendar",
  "years_mentioned": [
   "2026"

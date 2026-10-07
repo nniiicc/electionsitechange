@@ -1,5 +1,4 @@
-For immediate release: May 3, 2021
-BOSTON – Representative Mark J.
+Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services Facebook Twitter Home Meet Mark Our District Latest News Contact Contact Mark Request a Meeting Invite Mark Constituent Services House Passes FY22 ; Cusack Secures $62 Million in Local Aid for Braintree, Holbrook & Randolph For immediate release: May 3, 2021 BOSTON – Representative Mark J.
 Cusack (D-Braintree) joined his colleagues in the Massachusetts House of Representatives to pass its Fiscal Year 2022 (FY22) budget.
 This budget responsibly responds to the needs of residents and makes investments that set the state on a path toward economic recovery after the COVID-19 pandemic.
 Funded at $47.716 billion, the House’s FY22 budget continues its strong commitment to cities and towns, and includes significant investments in education, supportive services for vulnerable populations, and workforce and economic development, among other priorities.
@@ -19,8 +18,7 @@ Holbrook’s total comes to $1,621,641, an increase of $54,838.
 Public schools in the district will see an increase in Chapter 70 funding through the SOA, seen by Braintree’s total state education funding increasing from the previous budget to $18,459,141 in FY22, Randolph’s to $20,664,953 and Holbrook’s to $8,776,288.
 The Special Needs Circuit Breaker is funded at $367 million for FY22, an almost $20 million increase from the previous FY21 budget.
 “The increase in local aid will help each town fund education, public safety, veterans’ services, our public works operation and many other areas that are crucial to continuing to improve our quality of life throughout these unprecedented times,” said Representative Cusack.
-“The increase in education funding will assist the schools in providing the education and resources our students, teachers and staff need to excel.”
-Reflecting the Legislature’s strong commitment to providing access to care and treatment for individuals with a substance use disorder, the budget allocates $160 million for the Bureau of Substance Addiction Services, including support for the MA-Access to Recovery program and targeted investments in five additional recovery centers.
+“The increase in education funding will assist the schools in providing the education and resources our students, teachers and staff need to excel.” Reflecting the Legislature’s strong commitment to providing access to care and treatment for individuals with a substance use disorder, the budget allocates $160 million for the Bureau of Substance Addiction Services, including support for the MA-Access to Recovery program and targeted investments in five additional recovery centers.
 The budget also provides funding for low-threshold housing for people experiencing homelessness, mental health disorders and at risk for HIV; outpatient and mobile services for persons with disabilities; and treatment at correctional facilities.
 Representative Cusack was successful in securing an amendment of $150,000 to be put towards Braintree’s Community Partnership on Substance Abuse.
 The money will be used to help the Substance Abuse Prevention Coordinator and the Lead Stakeholders continue their work in educating the community of Braintree on the dangers of substance abuse and how to prevent it.
@@ -28,10 +26,10 @@ Furthering the fight against this ever-growing epidemic, Rep.
 Cusack was also able to secure $200,000 for One Life at a Time, Inc. located in Braintree.
 This money will help One Life at a Time continue their amazing work helping individuals throughout recovery and start new beginnings.
 “The Community Partnership on Substance Abuse have been doing a tremendous job in our town to battle the epidemic that is substance abuse,” said Representative Cusack.
-“It is my hope that with this additional funding from the budget that the Partnership can reach even more citizens who need our help and additionally educate the youth of Braintree.”
-Cusack was also able to secure $100,000 to increase public safety in Braintree, $50,000 to increase public safety in Randolph and $50,000 to increase public safety in Holbrook.
+“It is my hope that with this additional funding from the budget that the Partnership can reach even more citizens who need our help and additionally educate the youth of Braintree.” Cusack was also able to secure $100,000 to increase public safety in Braintree, $50,000 to increase public safety in Randolph and $50,000 to increase public safety in Holbrook.
 “I am extremely proud of the job that all the men and women serving in Braintree, Randolph and Holbrook’s public safety departments do on behalf of our citizens every day.
 I look forward to continue to work with each department to put this money to where it will be needed the most to protect our district and residents,” said Representative Cusack.
 Speaker Mariano and the House Ways & Means Committee introduced their FY22 budget on April 14, 2021, following a review of the Governor’s proposal and a series of budget hearings.
 After three days of debate and over a thousand proposed amendments, the budget passed by the House of Representatives 160-0 and now goes to the Senate.
-###
+### Newsroom Press Releases Previous House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Related Posts ...
+House Passes Fiscal Year 2019 Supplemental Budget; Cusack Secures $200,000 for Traffic Mitigation in Braintree Newsroom , Press Releases House and Senate Pass FY20 Budget; Cusack Secures $400,000 directed towards improvements in Braintree Newsroom , Press Releases Cusack Secures Road Funding for Braintree Newsroom , Press Releases Take Action Donate Join Mark’s Team Stay Informed Facebook Twitter 2020 - Paid for by the Committee to Elect Mark Cusack 74 Brow Avenue Braintree MA 02184

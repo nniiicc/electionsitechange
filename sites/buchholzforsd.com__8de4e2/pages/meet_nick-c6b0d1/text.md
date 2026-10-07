@@ -1,5 +1,4 @@
-Meet Nick
-I was born and raised in Yankton, South Dakota, where I graduated from high school.
+Meet Nick News Volunteer Contribute Meet Nick I was born and raised in Yankton, South Dakota, where I graduated from high school.
 Afterward, I attended university and flight school in Iowa, beginning a career that would take me across the country and around the world.
 While I’ve lived in many places along the way, South Dakota has always been—and will always be—home.
 After completing flight school, I married my wife, Kimberly, whose kindness and strength have been a constant foundation for our family.
@@ -16,3 +15,4 @@ Living here has reinforced the values we share with our neighbors—faith, hard 
 It’s this strong sense of community and trust that inspired me to run for the District 25 State House of Representatives.
 I believe in giving back to a place that has given so much to my family, and in serving when others may not have the opportunity to do so.
 If elected, I will bring honest, conservative leadership to Pierre and work every day to represent the people of District 25 with integrity.
+Endorsements Yard Signs Events Contact Paid For by Nick Buchholz for South Dakota House Powered by CampaignPartner.com - Political Websites Home Meet Nick Endorsements Contribute Volunteer News Yard Signs Events Contact Close Menu

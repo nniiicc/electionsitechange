@@ -1,7 +1,11 @@
 {
  "description": "The Anoka County Fair runs July 21-26th 2026",
  "final_url": "https://www.walkerforward.com/events/anoka-county-fair-2026",
+ "fingerprint": "085b13a73f25e5e25a008d8410ec5b936a8815c6",
+ "format": 3,
  "paid_for_by": "Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward",
- "title": "Anoka County Fair \u2014 Walker Forward",
- "years_mentioned": []
+ "title": "Anoka County Fair — Walker Forward",
+ "years_mentioned": [
+  "2026"
+ ]
 }

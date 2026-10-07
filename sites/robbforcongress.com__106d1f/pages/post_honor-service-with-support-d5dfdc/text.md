@@ -1,6 +1,4 @@
-Honor Service with Support
-Keep Our Promise to Veterans
-When someone signs up to serve, they’re making a commitment to this country.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Honor Service with Support Mar 22 2 min read Keep Our Promise to Veterans When someone signs up to serve, they’re making a commitment to this country.
 They’re putting their life on hold.
 They’re accepting risk most of us will never face.
 They’re stepping into something bigger than themselves.
@@ -12,11 +10,7 @@ Fighting to access mental health care.Fighting to find stable housing.
 Fighting to translate their skills into a job that pays the bills.
 That shouldn’t be the system.
 Veterans shouldn’t have to fight the system they served.
-Here’s what needs to change:
-- Health care through the VA should be accessible, timely, and reliable, especially for mental health and PTSD
-- No veteran should be without housing or stuck navigating a system that’s too complicated to use
-- And transitioning to civilian life should come with real support, including job training and pathways into good-paying work
-This isn’t complicated.
+Here’s what needs to change: Health care through the VA should be accessible, timely, and reliable, especially for mental health and PTSD No veteran should be without housing or stuck navigating a system that’s too complicated to use And transitioning to civilian life should come with real support, including job training and pathways into good-paying work This isn’t complicated.
 If we can train and equip people to serve in complex, high-stakes environments, we can make sure they get the care and support they need when they come home.
 Right now, the problem isn’t a lack of gratitude.
 It’s a system that too often makes veterans prove, over and over again, that they deserve help.
@@ -32,4 +26,4 @@ Because service doesn’t end when someone takes off the uniform.
 And neither should our commitment to them.
 This is about dignity.
 It’s about keeping a promise.
-And it’s about making sure that when someone steps forward to serve, they know this country will stand behind them when they come home.
+And it’s about making sure that when someone steps forward to serve, they know this country will stand behind them when they come home. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

@@ -1,35 +1,26 @@
-Hartford, South Dakota, November 12, 2025–Incumbent State Senator Joy Hohn of rural Hartford today announced she is seeking re-election to a second term representing District 9, which includes northwestern Sioux Falls, Hartford and Wall Lake.
+Home About Platform Media News Posts Volunteer Yard Signs Contact Follow Contribute Follow Home About Platform Media News Posts Volunteer Yard Signs Contact Joy Hohn Announces Re-election Campaign for District 9 Senate Nov 12, 2025 Hartford, South Dakota, November 12, 2025 –Incumbent State Senator Joy Hohn of rural Hartford today announced she is seeking re-election to a second term representing District 9, which includes northwestern Sioux Falls, Hartford and Wall Lake.
 “It’s been a true honor to serve District 9 as your State Senator and to meet so many of you across our communities—an experience that has deepened my understanding of both the challenges and opportunities facing South Dakota,” said Hohn.
 “As we look ahead to the next session, property tax reform, prison policy, and preservation of our energy and natural resources will be front-and-center,” Hohn added.
-“Experience, integrity, and faith-based leadership matter now more than ever—and I’m seeking re-election to continue advocating for our families, our freedoms, and our future.”
-Hohn, a charter pilot and farmer, was first elected in 2024 as a Conservative Republican.
+“Experience, integrity, and faith-based leadership matter now more than ever—and I’m seeking re-election to continue advocating for our families, our freedoms, and our future.” Hohn, a charter pilot and farmer, was first elected in 2024 as a Conservative Republican.
 She won the primary with 74% of the vote—the largest margin of victory among the 2024 legislative races—and was uncontested in the general election, attributed largely to her grassroots campaign and strong advocacy for property rights and limited government.
 “As your Senator, I have taken this responsibility seriously.
 I know the votes I cast affect today and shape the future,” Hohn continued.
 “This past session, we saw tremendous wins that grew out of the grassroots movement in the 2024 primaries.
-We protected property rights by passing HB 1052 (prohibiting eminent domain for carbon-dioxide pipelines); defended taxpayers by helping defeat SB 177 (which proposed sales-tax rebates for data centers); and stood strong for family values, as recognized by Family Voice Action’s 2025 Scorecard.”
-In her first year in office, Hohn’s work extended beyond property rights.
-As a freshman senator, she sponsored SB 115, closing a loophole in South Dakota’s sexual-contact laws by adding “family members” under “position of authority.”
-Her Senate committee assignments include Commerce & Energy, Military & Veterans’ Affairs, and Transportation, and she serves as Vice Chair of the Taxation Committee.
+We protected property rights by passing HB 1052 (prohibiting eminent domain for carbon-dioxide pipelines); defended taxpayers by helping defeat SB 177 (which proposed sales-tax rebates for data centers); and stood strong for family values, as recognized by Family Voice Action’s 2025 Scorecard .” In her first year in office, Hohn’s work extended beyond property rights.
+As a freshman senator, she sponsored SB 115 , closing a loophole in South Dakota’s sexual-contact laws by adding “family members” under “position of authority.” Her Senate committee assignments include Commerce & Energy, Military & Veterans’ Affairs, and Transportation, and she serves as Vice Chair of the Taxation Committee.
 Following the 2025 session, Hohn was one of seven senators appointed by Governor Larry Rhoden to the Project Prison Reset Task Force charged with evaluating and recommending plans for a new prison facility, where she became an active member, strong voice for transparency and advocate for bi-partisan, well-informed, community-based solutions.
 “Not every issue has been easy,” added Hohn.
 “My goal has always been to represent the voices and values of our district while keeping the broader good of our state in view.
-I’ve worked across party lines, asked hard questions, dug deep into the issues, and held leadership accountable—because real leadership means listening, learning, and serving people, not politics.”
-As a result of her leadership and commitment to accountability, Hohn was later appointed to the Correctional Rehabilitation Task Force to study and make recommendations for early intervention to decrease incarceration, reduce recidivism and increase rehabilitation.
+I’ve worked across party lines, asked hard questions, dug deep into the issues, and held leadership accountable—because real leadership means listening, learning, and serving people, not politics.” As a result of her leadership and commitment to accountability, Hohn was later appointed to the Correctional Rehabilitation Task Force to study and make recommendations for early intervention to decrease incarceration, reduce recidivism and increase rehabilitation.
 Hohn has become an active and vocal advocate for at-risk youth programs and faith-based rehabilitation, including raising awareness and volunteerism for Brighter Transitions and Falls Academy (formerly West Farm) and prioritized engagement with the schools throughout her district.
-Senator Hohn will host a Community Meet & Greet on Monday November 17 from 5:30 – 7:00pm in the Bluestem Room at the Prairie West Library Branch located at 7630 W. 26th Street, Sioux Falls, SD 57106.
+Senator Hohn will host a Community Meet & Greet on Monday November 17 from 5:30 – 7:00pm in the Bluestem Room at the Prairie West Library Branch located at 7630 W.
+26 th Street, Sioux Falls, SD 57106.
 All are welcome and refreshments will be served.
 “As we move ahead, I’m once again relying on the trust, prayers, and support of those who believe in servant leadership, accountability, and doing what’s right, even when it’s hard,” concluded Hohn.
-“Together, we can continue the work we’ve started and keep South Dakota moving forward—with faith, courage, and conviction.”
-Hohn, a lifelong resident of Minnehaha County and graduate of West Central High School, grew up on a farm outside of Hartford where she continues to farm with her husband and family raising corn, soybeans, cattle, and buffalo.
-###
-Contact:
-Joy Hohn
-State Senate–District 9
-[email protected]
-605-212-9256
-About Senator Joy Hohn
-Senator Joy Hohn represents South Dakota’s District 9 in the State Legislature.
+“Together, we can continue the work we’ve started and keep South Dakota moving forward—with faith, courage, and conviction.” Hohn, a lifelong resident of Minnehaha County and graduate of West Central High School, grew up on a farm outside of Hartford where she continues to farm with her husband and family raising corn, soybeans, cattle, and buffalo.
+### Contact: Joy Hohn State Senate–District 9 [email protected] 605-212-9256 About Senator Joy Hohn Senator Joy Hohn represents South Dakota’s District 9 in the State Legislature.
 First elected in 2024, she serves on the Commerce & Energy, Military & Veterans’ Affairs, and Transportation Committees, and is Vice Chair of the Taxation Committee.
 A lifelong resident of Minnehaha County, Hohn continues her family’s farming operation near Hartford and is the first female airline pilot from South Dakota, with more than 13,000 hours of flight experience over her 40-year aviation career.
 She holds a Bachelor of Arts in Aviation and Business Administration from Augustana College.
+Click image to download file.
+Download Bio Search Search Recent Posts State Senator Joy Hohn Wins Re-Election to Second Term Mud Pie Memories and A Mom’s Motivation A Mother’s Journey of Hope & Resilience Flight Captain & Cart Driver Let’s Bring Back Balance Contact Information for Media: [email protected] (605) 212-9256 Integrity • Trust • Tenacity Follow Contribute Subscribe Δ Subscribe Paid for by Friends of Joy Hohn Privacy Policy

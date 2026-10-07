@@ -1,5 +1,4 @@
-Skip navigation menu
-I know working for a living.
+Skip navigation menu About Issues News Volunteer Contact Donate our next representative About Jeremy About Issues News Volunteer Contact Donate our next representative About Jeremy I know working for a living.
 Not a single current legislator punches a clock that isn't their own.
 I know the grind.
 I have worked as a substitute teacher in Lexington 1 schools, helped businesses navigate the COVID pandemic, worked for the state Medicaid program, and currently work as a claims examiner.
@@ -17,4 +16,4 @@ From the Senate refusing to conform the state tax code to the latest federal tax
 Very few members of the Legislature currently punch a clock.
 It is time to change that.
 We need our lawmakers to understand what it means to be working class in South Carolina, and for that to be central to our decision making.
-This community is the backbone of South Carolina, and I want to help build our future together!
+This community is the backbone of South Carolina, and I want to help build our future together! jeremyjonesforsc@gmail.com Powered by RUN! website builder Paid for by Jeremy Jones for SC You need to enable JavaScript to run this app.

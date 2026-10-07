@@ -1,20 +1,7 @@
-Our Precious Democracy
-Reproductive Freedom
-- Reproductive Freedom for All (formerly NARAL)
-- Karen Cox’s Story
-- The Constitutional Right to Reproductive Anatomy: Realizing the Promise of the 14th Amendment
-- 19 Republican state attorneys general, demand that the Biden administration allow states with abortion bans to obtain the private medical records of patients seeking legal health care in other states.
-Gun Safety
-Healthcare
-- Medical Debt Legislation
-- FACT SHEET: The Republican Agenda: Repealing the Affordable Care Act and Slashing Medicaid
-- Expecting the Unexpected – 193000 Women Live in Maternity Deserts Across Pennsylvania
-- Financial Health Worsens at PA Hospitals Yet Some in Harrisburg Region Show Big Profits
-- Three Million Fewer Children Are Covered by Medicaid: CHIP Enrollment Isn’t Growing Much
-Imigration Reform
-- How Undocumented Immigrants Pay Taxes and Contribute to the US Tax Base
-- At Its 10th Anniversary, DACA Faces a Tenuous Future Despite Societal Benefits
-- WAS THE 1965 IMMIGRATION ACT A FAILURE?
-- Activism on Immigration by U.S.
-States Is Back, with New Tactics and Different Targets
-Public Education
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Resources Our Precious Democracy Register to vote, change party affiliation, obtain mail-in ballots, etc.
+The Constitution of the United States of America Republicans Fighting Democracy John Joyce’s Democracy Record January 6th Hearings Capitol Hill Stunner: 2023 Led to Fewest Bills in Decades Reproductive Freedom Reproductive Freedom for All (formerly NARAL) Karen Cox’s Story The Constitutional Right to Reproductive Anatomy: Realizing the Promise of the 14th Amendment 19 Republican state attorneys general, demand that the Biden administration allow states with abortion bans to obtain the private medical records of patients seeking legal health care in other states.
+Gun Safety Ceasefire PA US Gun Violence in 2023 Guntown (humorous 3 minute video) American Academy of Pediatrics: Trends and Disparities in Firearm Deaths Among Children TERROR ON REPEAT: A rare look at the devastation caused by AR-15 shootings Moms Demand Action Center for Gun Violence Solutions, Johns Hopkins, Bloomberg School of Public Health Healthcare Sign up for the Affordable Healthcare Act (Obamacare) coverage until January 15th 2024 HERE 12 Ways the GOP Sabotaged Obamacare Medical Debt Legislation FACT SHEET: The Republican Agenda: Repealing the Affordable Care Act and Slashing Medicaid Expecting the Unexpected – 193000 Women Live in Maternity Deserts Across Pennsylvania Financial Health Worsens at PA Hospitals Yet Some in Harrisburg Region Show Big Profits Three Million Fewer Children Are Covered by Medicaid: CHIP Enrollment Isn’t Growing Much Imigration Reform How Undocumented Immigrants Pay Taxes and Contribute to the US Tax Base At Its 10th Anniversary, DACA Faces a Tenuous Future Despite Societal Benefits WAS THE 1965 IMMIGRATION ACT A FAILURE?
+Activism on Immigration by U.S.
+States Is Back, with New Tactics and Different Targets Public Education US Department of Education The Sexuality Information and Education Council of the United States National Education Association – Advocating for Change – Topic: Vouchers Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Subscribe

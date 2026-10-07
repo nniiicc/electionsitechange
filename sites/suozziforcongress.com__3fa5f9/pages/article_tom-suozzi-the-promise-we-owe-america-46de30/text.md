@@ -1,9 +1,11 @@
-Tom Suozzi: The promise we owe America
-August 10, 2026
-Publication: LI Herald
-By: Tom R.
-Suozzi
-People are tired of politics that feel like shouting matches.
+Skip to content Home About Tom American Affordability Plan Endorsements Accomplishments Media Tom in the News Join Us!
+Contribute Contact Contribute Volunteer Join Us Lawn Sign Facebook Instagram Twitter Logo Home About Tom American Affordability Plan Endorsements Accomplishments Media Tom in the News Join Us!
+Contribute Contact Facebook Instagram Twitter Logo Request a Sign!
+TODAY is Election Day.
+VOTE!
+Thank you for your support!
+Tom Suozzi: The promise we owe America August 10, 2026 Publication: LI Herald By: Tom R.
+Suozzi People are tired of politics that feel like shouting matches.
 They are tired of being told they must choose between two extremes.
 And they are especially tired of hearing politicians argue over ideology while the cost of groceries, housing, health care, gas and essentials they buy every day are going up.
 Rep.
@@ -14,8 +16,7 @@ We didn’t win by lecturing people.
 We won by listening to them, showing them respect no matter their voter registration, and focusing on the problems they deal with every day.
 The Promise to America isn’t a complicated pledge.
 It’s a common-sense commitment to a fair economy, lower costs, secure borders, safe communities, fiscal responsibility, effective government, free speech, patriotism, and respect for people who may see things differently.
-It’s a declaration of values from common-sense Democrats:
-We are capitalist, not socialist.
+It’s a declaration of values from common-sense Democrats: We are capitalist, not socialist.
 We want safety, not lawlessness.
 We are responsible, not reckless.
 We believe government should solve problems, not create them.
@@ -56,3 +57,7 @@ That is who Democrats must fight for.
 That is how we restore trust.
 And that is the promise we owe America.
 Tom Suozzi represents the 3rd Congressional District.
+Original Article Back to News Page Recent Articles Police, firefighter unions back Dem NY Rep.
+Tom Suozzi — after Trump-linked Super PAC spends $8M on attack ads October 4, 2026 Suozzi launches reelection bid as LiPetri heads to GOP midterm convention September 9, 2026 Rep.
+Suozzi kicks off re-election bid with bipartisan support from mayors September 8, 2026 Tom Suozzi makes affordability the centerpiece of his case for reelection September 1, 2026 Rep.
+Tom Suozzi: Democrats Must Reject the DSA September 1, 2026 Suozzi, Gillen stand with Israel, as debate rages among Democrats July 28, 2026 Contribute Paid for by Suozzi for Congress PO Box 669, Glen Cove, NY 11542 Contribute Site by InterCreative Media Privacy Policy Scroll to Top

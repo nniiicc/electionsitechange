@@ -1,12 +1,50 @@
 [
-"https://facebook.com/ForestalforSenate",
-"https://kerryforestal.com/",
-"https://kerryforestal.com/cart",
-"https://kerryforestal.com/meet-kerry",
-"https://kerryforestal.com/priorities",
-"https://kerryforestal.com/privacy-policy",
-"https://kerryforestal.com/sms-terms",
-"https://kerryforestal.com/volunteer",
-"https://kerryforestal.com/yard-sign",
-"https://secure.actblue.com/donate/forestal"
+{
+"text": "0",
+"href": "https://www.kerryforestal.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/forestal"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.kerryforestal.com/yard-sign"
+},
+{
+"text": "Home",
+"href": "https://www.kerryforestal.com/"
+},
+{
+"text": "Meet Kerry",
+"href": "https://www.kerryforestal.com/meet-kerry"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.kerryforestal.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.kerryforestal.com/priorities"
+},
+{
+"text": "SMS TERMS & CONDITIONS",
+"href": "https://www.kerryforestal.com/sms-terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kerryforestal.com/volunteer"
+},
+{
+"text": "[image: Kerry Forestal for State Senate]",
+"href": "https://www.kerryforestal.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ForestalforSenate"
+},
+{
+"text": "chip in",
+"href": "https://secure.actblue.com/donate/forestal"
+}
 ]

@@ -1,43 +1,29 @@
-Geothermal energy incentivized in MD but not widely used at homes
-(Daily Record, July 6, 2026)
-Workers drill for a residential geothermal well.
-(Depositphotos)
-(This article was published in The Maryland Daily Record on July 6, 2026.
-To access the article directly from The Maryland Daily Record, go to https://thedailyrecord.com/2026/07/06/geothermal-energy-maryland/)
-Key takeaways:
-- Gov.
-Wes Moore funds geothermal upgrades in Maryland counties
-- Towson University plans geothermal well by 2027
-- Maryland law mandates geothermal energy credit carveout
-- Geothermal not used widely in Maryland residences, likely due to high installation costs
-Maryland is investing in geothermal energy, which can range from powering individual homes to helping with large-scale projects like data centers, but the renewable resource isn’t being widely used in the state residentially.
-Gov.
-Wes Moore, a Democrat, has announced in recent months funding for geothermal upgrades for schools in Montgomery, Prince George’s and Worcester counties.
-And Towson University is in the midst of a project to revamp the building housing its College of Fine Arts & Communication with a geothermal well, with plans to finish by 2027.
-In the winter, geothermal heat pumps work by concentrating natural heat from the ground and, with a series of pipes, transferring it into buildings through circulated fluid.
+top of page Home Precinct Official Information About Newsroom Resources/Scholarship Power in the Park Immigration Resources Delegate Scholarship Legislation Events More Use tab to navigate through the menu items.
+DONATE SUBSCRIBE Geothermal energy incentivized in MD but not widely used at homes by Hannah Gaskill (Daily Record, July 6, 2026) ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Workers drill for a residential geothermal well.
+(Depositphotos) ​ ​ ​ ​ ​ ​ ​ ​ (This article was published in The Maryland Daily Record on July 6, 2026.
+To access the article directly from The Maryland Daily Record, go to https://thedailyrecord.com/2026/07/06/geothermal-energy-maryland/) Key takeaways: Gov.
+Wes Moore funds geothermal upgrades in Maryland counties Towson University plans geothermal well by 2027 Maryland law mandates geothermal energy credit carveout Geothermal not used widely in Maryland residences, likely due to high installation costs Maryland is investing in geothermal energy, which can range from powering individual homes to helping with large-scale projects like data centers , but the renewable resource isn’t being widely used in the state residentially. ​ Gov.
+Wes Moore, a Democrat, has announced in recent months funding for geothermal upgrades for schools in Montgomery , Prince George’s and Worcester counties.
+And Towson University is in the midst of a project to revamp the building housing its College of Fine Arts & Communication with a geothermal well, with plans to finish by 2027. ​ In the winter, geothermal heat pumps work by concentrating natural heat from the ground and, with a series of pipes, transferring it into buildings through circulated fluid.
 The same system is used to suck heat from indoor spaces and put it into the ground in the summer.
 “Geothermal heating and cooling systems are having this kind of quiet moment because they’re this renewable technology that’s 24/7 — so nonintermittent — and, while it does have all sorts of really important environmental safety and climate benefits, really its key contribution is its affordability aspects,” said Michael Daley, senior vice president of policy and regulatory affairs at Carbon Solutions Group.
-The Chicago-based firm partners with installers in Maryland to get customers set up with renewable energy and advocates for solar and geothermal policies before the General Assembly.
-Daley said geothermal heating and cooling systems temper usage on peak energy demand days, saving both system owners and their neighbors money because less energy is being used overall.
-Geothermal projects can “scale pretty much as big as you can go,” he said, and that there are “limited cases” of it being used in data center projects.
-According to the U.S.
-Department of Energy‘s website, geothermal energy has the “potential to reduce data center peak cooling demand and energy costs” and can avoid the need to build additional power plants.
-However, only between 1,000 and 7,600 homes in Maryland use geothermal energy, according to the National Laboratory of the Rockies 2025 Geothermal Market Report.
+The Chicago-based firm partners with installers in Maryland to get customers set up with renewable energy and advocates for solar and geothermal policies before the General Assembly. ​ ​ Daley said geothermal heating and cooling systems temper usage on peak energy demand days, saving both system owners and their neighbors money because less energy is being used overall.
+Geothermal projects can “scale pretty much as big as you can go,” he said, and that there are “limited cases” of it being used in data center projects. ​ According to the U.S.
+Department of Energy ‘s website, geothermal energy has the “potential to reduce data center peak cooling demand and energy costs” and can avoid the need to build additional power plants. ​ However, only between 1,000 and 7,600 homes in Maryland use geothermal energy, according to the National Laboratory of the Rockies 2025 Geothermal Market Report.
 Geothermal was pioneered in rural areas, where natural gas infrastructures are limited, and many people hesitate to install systems because of the high setup costs of drilling and labor.
-According to the University of Maryland Energy Extension research, geothermal systems cost between $17,500 to $37,500 to install.
-And the necessary land space to drill and insert these systems residentially isn’t available to every Marylander.
+According to the University of Maryland Energy Extension research, geothermal systems cost between $17,500 to $37,500 to install. ​ And the necessary land space to drill and insert these systems residentially isn’t available to every Marylander.
 “Really, I think historically, you only saw geothermal deployment from high-income individuals or things like U.S.
-Army bases, hospitals, public buildings, like schools — essentially, companies or folks that are well-capitalized,” Daley said.
-But recent state law could start to change that.
+Army bases, hospitals, public buildings, like schools — essentially, companies or folks that are well-capitalized,” Daley said. ​ ​ But recent state law could start to change that.
 In 2021, the General Assembly passed legislation, sponsored by House Economic Matters Committee Vice Chair Lorig Charkoudian, D-Montgomery, that created a renewable energy credit carveout for geothermal systems as an addition to existing energy law.
 As a result, the required minimum percentage of retail electricity that must come from geothermal systems began at 0.05%, and will grow to 1% by 2028.
 The legislation also requires that at least a quarter of the geothermal carveout be derived from being placed in low- or moderate-income housing, or communal spaces and institutions that primarily serve low- and moderate-income people and families.
-In her 2021 testimony, Charkoudian called that part of the law “imperative,” as those communities “have been most impacted by environmental injustice” and “environmental health issues.”
-The policy is catching on.
+In her 2021 testimony, Charkoudian called that part of the law “imperative,” as those communities “have been most impacted by environmental injustice” and “environmental health issues.” The policy is catching on.
 Virginia passed a similar law during its last legislative session.
-Daley said that Charkoudian’s legislation made Maryland “the leader on this technology” and has paved the way “to really create this technology that historically was quite expensive.”
-Charkoudian also sponsored the Working for Accessible Renewable Maryland Thermal Heat, or WARMTH, Act, which passed in 2024.
+Daley said that Charkoudian’s legislation made Maryland “the leader on this technology” and has paved the way “to really create this technology that historically was quite expensive.” Charkoudian also sponsored the Working for Accessible Renewable Maryland Thermal Heat, or WARMTH, Act, which passed in 2024.
 Under that legislation, electric, gas and water companies can own, manage and recover costs for thermal energy network systems in communities if those projects are approved by the regulatory Maryland Public Service Commission.
 In favorable testimony submitted for the 2024 bill, David S.
 Lapp of the Office of the People’s Counsel, an independent state agency that advocates for residential utility customers, said Charkoudian’s legislation would help Maryland reach its greenhouse-gas-reduction goals by decreasing the consumption of fossil fuels, boosting energy efficiency and reducing or delaying the need for new electric infrastructure.
 “Maryland needs innovative approaches to facilitate a cost-effective transition away from reliance on fossil-gas,” Lapp wrote.
+MAKE A CHANGE Support Lorig!
+DONATE VOLUNTEER GET THE LATEST FROM LORIG Home About Lorig Newsroom Get Involved Events Contact Mailing Address: P.O.
+Box 11281 Takoma Park, MD 20913 Email: friendsoflorig@gmail.com ​ Paid for by Friends of Lorig Charkoudian: Jill Feasley, Treasurer; Tebabu Assefa, Chair bottom of page

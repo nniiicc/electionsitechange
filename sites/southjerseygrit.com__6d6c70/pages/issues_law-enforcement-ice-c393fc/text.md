@@ -1,41 +1,11 @@
-Home ❭ Issues ❭ Law Enforcement & ICE
-Law Enforcement & ICE
-- MANDITORY POLICE CAMERAS
-- NO EXCEPTIONS
-- Failure to comply WILL result in swift Fines and Felony Charges for evidence tampering.
-- Any and All interactions with public MUST be recorded
-- POLICE can be held accountable for actions by going rogue of their duties
-- MAJOR POLICE REFORM
-- 2 Years of Local legal training
-- 1 Year of Deescalation training
-- 1-2 Years of Deescalation combat training
-- 1 Full Year of intense Combat training
-- Clean criminal History
-- If prior Law Enforcement – Clean complaint record.
-- High-Level Whistle Blower Protection
-- Bad-Blue Bounty Program that offers large rewards for getting a corrupt cop fired
-- Flip Gang and Thug scare slogan of Snitches get Stitches to Snitches get Riches.
-- Police should have a duty to serve and Protect
-- Should they fail at this, they should be charged with Military level Desertion charges.
-(i.e.
-They run from a school shooting)
-- Pass a Murder by Desertion Law that carries Potential life in prison for failing to act in school shootings scenarios.
-- Mandatory National School shooting training across any agencies responding to one
-- When multiple agencies respond to a school shooting, they often have different trainings on how to handle them
-- We need Unified National Training to prevent this.
-- ABOLISH, PROSECUTE, REPLACE ICE
-- Abolish and prosecute self-explainatory
-- Replace ICE with American Defense Unit (ADU)
-- ADU must have:
-- 2 years of Federal legal training
-- 2 Years of Local legal training
-- 1 Year of Deescalation training
-- 1-2 Years of Deescalation combat training
-- 1 Year of Combat training
-- Clean criminal History
-- If prior Law Enforcement – Clean complaint record.
-- Arrest offenders not a people
-- Whether it be immigrants, protests, white, black, POC, Trans, Gay or straight on any issue.
+Meet Ramon Issues News Events Volunteer Contribute Home ❭ Issues ❭ Law Enforcement & ICE Law Enforcement & ICE MANDITORY POLICE CAMERAS NO EXCEPTIONS Failure to comply WILL result in swift Fines and Felony Charges for evidence tampering.
+Any and All interactions with public MUST be recorded POLICE can be held accountable for actions by going rogue of their duties MAJOR POLICE REFORM 2 Years of Local legal training 1 Year of Deescalation training 1-2 Years of Deescalation combat training 1 Full Year of intense Combat training Clean criminal History If prior Law Enforcement – Clean complaint record.
+High-Level Whistle Blower Protection Bad-Blue Bounty Program that offers large rewards for getting a corrupt cop fired Flip Gang and Thug scare slogan of Snitches get Stitches to Snitches get Riches.
+Police should have a duty to serve and Protect Should they fail at this, they should be charged with Military level Desertion charges. (i.e.
+They run from a school shooting) Pass a Murder by Desertion Law that carries Potential life in prison for failing to act in school shootings scenarios.
+Mandatory National School shooting training across any agencies responding to one When multiple agencies respond to a school shooting, they often have different trainings on how to handle them We need Unified National Training to prevent this.
+ABOLISH, PROSECUTE, REPLACE ICE Abolish and prosecute self-explainatory Replace ICE with American Defense Unit (ADU) ADU must have: 2 years of Federal legal training 2 Years of Local legal training 1 Year of Deescalation training 1-2 Years of Deescalation combat training 1 Year of Combat training Clean criminal History If prior Law Enforcement – Clean complaint record.
+Arrest offenders not a people Whether it be immigrants, protests, white, black, POC, Trans, Gay or straight on any issue.
 We should punish offenders of crimes, not a collective.
-- Collective punishment used to be a war crime.
-- These groups are not monoliths and what one terrible person does, should not be an excuse to target all people identifying in that community of shared non-changeable traits.
+Collective punishment used to be a war crime.
+These groups are not monoliths and what one terrible person does, should not be an excuse to target all people identifying in that community of shared non-changeable traits. « Previous: General Social Agenda Items Next: Foreign Policy » Voter Information Yard Signs Events Photos Contact Privacy Policy Committee to Elect Ramon Mora Jr Powered by CampaignPartner.com - Political Campaign Websites Home Meet Ramon Issues Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,21 +1,13 @@
-Jane Fonda Climate PAC Endorses Ed Markey for Senate
-Group founded by the Academy Award-winning actor and climate activist backs Markey as a champion who isn’t afraid to hold the fossil fuel industry accountable
-July 2, 2026
-FOR IMMEDIATE RELEASE
-Thursday, July 2, 2026
-Media Contact:
-Jonathan Ng
-Communications Director
-jonathan@edmarkey.org
-BOSTON, Mass. – The Jane Fonda Climate PAC today endorsed Senator Ed Markey for re-election to the Senate, putting one of the country’s most prominent climate organizations behind a legislator it has called "the blueprint for a climate-forward leader” with one of the most prolific environmental records in congressional history.
-“When I was arrested on the steps of the Capitol, I did it because I could not stand the thought of leaving my grandchildren a planet on fire while too many elected leaders looked away,” said Academy Award-winning actor and activist Jane Fonda.
+English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate Jane Fonda Climate PAC Endorses Ed Markey for Senate Group founded by the Academy Award-winning actor and climate activist backs Markey as a champion who isn’t afraid to hold the fossil fuel industry accountable July 2, 2026 FOR IMMEDIATE RELEASE Thursday, July 2, 2026 Media Contact: Jonathan Ng Communications Director jonathan@edmarkey.org BOSTON, Mass. – The Jane Fonda Climate PAC today endorsed Senator Ed Markey for re-election to the Senate, putting one of the country’s most prominent climate organizations behind a legislator it has called "the blueprint for a climate-forward leader” with one of the most prolific environmental records in congressional history.
+“When I was arrested on the steps of the Capitol, I did it because I could not stand the thought of leaving my grandchildren a planet on fire while too many elected leaders looked away,” said Academy Award-winning actor and activist Jane Fonda .
 “But protest alone is not enough – we have to elect leaders who treat the climate crisis like the existential emergency it is.
 Senator Ed Markey is one of those rare and proven leaders who has delivered results.
 Ed has been fighting for clean air and clean water since the very beginning, never backing down from climate deniers and always holding the fossil fuel companies poisoning our air, our water, and our future accountable.
-Ed co-authored the Green New Deal, the national roadmap for a clean energy revolution, and he is working tirelessly every day to make sure our children and grandchildren inherit a livable planet.”
-Senator Markey thanked Jane Fonda and the Jane Fonda Climate PAC, which works to elect climate champions and defeat candidates bankrolled by the fossil fuel industry, for this crucial endorsement:
-“The planet is running a fever, and there are no emergency rooms for planets,” said Senator Ed Markey.
+Ed co-authored the Green New Deal, the national roadmap for a clean energy revolution, and he is working tirelessly every day to make sure our children and grandchildren inherit a livable planet.” Senator Markey thanked Jane Fonda and the Jane Fonda Climate PAC, which works to elect climate champions and defeat candidates bankrolled by the fossil fuel industry, for this crucial endorsement: “The planet is running a fever, and there are no emergency rooms for planets,” said Senator Ed Markey .
 “I am grateful to have Jane Fonda in this fight, honored to earn her endorsement, and inspired by the young people she has stood with who have made clear that a livable planet is not optional – it is their future.
 I will keep being the cop on the beat in the Senate, holding Big Oil accountable, fighting Donald Trump’s rollbacks of environmental protections, and making polluters pay for the damage they have caused in our communities.
 And we will keep fighting for the Green New Deal’s clean energy revolution to create union jobs, cut utility bills, and make life more affordable for families across Massachusetts.
-With Jane and this movement at our backs, we are going to fight forward – and we are going to win.”
+With Jane and this movement at our backs, we are going to fight forward – and we are going to win.” Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Gear Up for the Campaign Jobs & Justice T-Shirt $30.00 Green New Deal Tote $30.00 Comeback T-Shirt $30.00 Green New Deal Hat $30.00 Shop Our Store Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.

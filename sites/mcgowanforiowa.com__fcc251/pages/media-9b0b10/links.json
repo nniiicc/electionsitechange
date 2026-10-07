@@ -1,35 +1,146 @@
 [
-"https://desmoinesregister.com/picture-gallery/news/politics/elections/2026/08/17/2026-des-moines-register-soapbox-chris-mcgowan-iowa-state-fair/91334632007",
-"https://desmoinesregister.com/story/news/politics/elections/2026/08/17/chris-mcgowan-register-political-soapbox-iowa-state-fair-2026/91248320007?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116035p119050l004450c119050e005550v116035d--46--b--46--&gca-ft=185&gca-ds=sophi",
-"https://facebook.com/profile.php?id=61577314967973",
-"https://iheart.com/podcast/669-vintage-voorhees-27091316/episode/iowa-congressional-candidate-chris-mcgowan-282881949",
-"https://instagram.com/mcgowan.for.iowa",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/2026+Campaign+Leadership+Team.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/2026+McGowan+for+Iowa+-+Press+Release.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/MCGOWAN+HEAD+SHOT-57982c9f.JPG",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+10-16-2025+Jim+Jordan+Press+Release+A-83-.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+11-12-2025+Robert+O-Neill.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+January+2026+Press+Release_23_.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-11-17-2025+Tom+Emmer+Press+Release.pdf",
-"https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-12-15-2025+Scalise+Press+Release.pdf",
-"https://kcci.com/article/sioux-city-republican-chris-mcgowan-launches-campaign-for-iowas-4th-congressional-district/65211472",
-"https://kscj.com/2025/06/25/mcgowan-announces-run-for-4th-district-congressional-seat",
-"https://ktiv.com/2025/06/25/live-sioux-city-native-chris-mcgowan-announcing-run-iowa-4th-congressional-district",
-"https://ktiv.com/2026/08/11/republican-candidate-outlines-key-issues-november-election-approaches",
-"https://ktiv.com/2026/08/28/ktiv-host-debate-sept-30-between-candidates-iowas-4th-congressional-district",
-"https://mcgowanforiowa.com/",
-"https://mcgowanforiowa.com/about",
-"https://mcgowanforiowa.com/contact",
-"https://mcgowanforiowa.com/endorsements",
-"https://mcgowanforiowa.com/media",
-"https://mcgowanforiowa.com/privacy-policy",
-"https://mcgowanforiowa.com/snapshots",
-"https://mcgowanforiowa.com/vision",
-"https://secure.winred.com/mcgowan-for-iowa/webdonate-today",
-"https://stormlakeradio.com/state-news/moment-of-comity-between-candidates-in-iowas-4th-congressional-district",
-"https://twitter.com/McGowanForIowa",
-"https://who13.com/news/politics/iowa-politics/meet-chris-mcgowan-republican-candidate-for-iowas-4th-congressional-district",
-"https://woc1420.iheart.com/featured/simon-conway/content/2026-06-08-92-simon-conway-chris-mcgowan-682026-the-simon-conway-show",
-"https://woc1420.iheart.com/featured/simon-conway/content/2026-09-01-92-simon-conway-chris-mcgowen-912026-the-simon-conway-show",
-"https://youtube.com/watch?v=TLw6hDf3HWw&t=1s"
+{
+"text": "ABOUT",
+"href": "https://www.mcgowanforiowa.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/mcgowan-for-iowa/webdonate-today"
+},
+{
+"text": "Download Photo",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/MCGOWAN+HEAD+SHOT-57982c9f.JPG"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mcgowanforiowa.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.mcgowanforiowa.com/"
+},
+{
+"text": "JOIN US",
+"href": "https://www.mcgowanforiowa.com/contact"
+},
+{
+"text": "MEDIA",
+"href": "https://www.mcgowanforiowa.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mcgowanforiowa.com/privacy-policy"
+},
+{
+"text": "SNAPSHOTS",
+"href": "https://www.mcgowanforiowa.com/snapshots"
+},
+{
+"text": "VISION",
+"href": "https://www.mcgowanforiowa.com/vision"
+},
+{
+"text": "[image: McGowan Adds Endorsement from Decorated Veteran Former Navy SEAL Robert O’Neill Supports Chris McGowan]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+11-12-2025+Robert+O-Neill.pdf"
+},
+{
+"text": "[image: McGowan Adds Terry E. Branstad Endorsement & Announces over $500k in Fundraising]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+January+2026+Press+Release_23_.pdf"
+},
+{
+"text": "[image: McGowan Head Shot]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/MCGOWAN+HEAD+SHOT-57982c9f.JPG"
+},
+{
+"text": "[image: McGowan Logo]",
+"href": "https://www.mcgowanforiowa.com/"
+},
+{
+"text": "[image: McGowan Secures Major Political Endorsement House Majority Leader Steve Scalise]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-12-15-2025+Scalise+Press+Release.pdf"
+},
+{
+"text": "[image: McGowan Secures Major Political Endorsement House Majority Whip Tom Emmer Backs McGowan for Iowa’s 4th District]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-11-17-2025+Tom+Emmer+Press+Release.pdf"
+},
+{
+"text": "[image: McGowan Secures Major Political Endorsement U.S. House Judiciary Committee Chairman, Jim Jordan, Supports McGowan]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/McGowan+for+Iowa+-+10-16-2025+Jim+Jordan+Press+Release+A-83-.pdf"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/2026+Campaign+Leadership+Team.pdf"
+},
+{
+"text": "[image]",
+"href": "https://irp.cdn-website.com/a2163ddd/files/uploaded/2026+McGowan+for+Iowa+-+Press+Release.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.mcgowanforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/McGowanForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577314967973"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcgowan.for.iowa/"
+},
+{
+"text": "https://kscj.com/2025/06/25/mcgowan-announces-run-for-4th-district-congressional-seat/",
+"href": "https://kscj.com/2025/06/25/mcgowan-announces-run-for-4th-district-congressional-seat/"
+},
+{
+"text": "https://stormlakeradio.com/state-news/moment-of-comity-between-candidates-in-iowas-4th-congressional-district/",
+"href": "https://stormlakeradio.com/state-news/moment-of-comity-between-candidates-in-iowas-4th-congressional-district/"
+},
+{
+"text": "https://who13.com/news/politics/iowa-politics/meet-chris-mcgowan-republican-candidate-for-iowas-4th-congressional-district/",
+"href": "https://who13.com/news/politics/iowa-politics/meet-chris-mcgowan-republican-candidate-for-iowas-4th-congressional-district/"
+},
+{
+"text": "https://woc1420.iheart.com/featured/simon-conway/content/2026-06-08-92-simon-conway-chris-mcgowan-682026-the-simon-conway-show/",
+"href": "https://woc1420.iheart.com/featured/simon-conway/content/2026-06-08-92-simon-conway-chris-mcgowan-682026-the-simon-conway-show/"
+},
+{
+"text": "https://woc1420.iheart.com/featured/simon-conway/content/2026-09-01-92-simon-conway-chris-mcgowen-912026-the-simon-conway-show/",
+"href": "https://woc1420.iheart.com/featured/simon-conway/content/2026-09-01-92-simon-conway-chris-mcgowen-912026-the-simon-conway-show/"
+},
+{
+"text": "https://www.desmoinesregister.com/picture-gallery/news/politics/elections/2026/08/17/2026-des-moines-register-soapbox-chris-mcgowan-iowa-state-fair/91334632007/",
+"href": "https://www.desmoinesregister.com/picture-gallery/news/politics/elections/2026/08/17/2026-des-moines-register-soapbox-chris-mcgowan-iowa-state-fair/91334632007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/17/chris-mcgowan-register-political-soapbox-iowa-state-fair-2026/91248320007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116035p119050l004450c119050e005550v116035d--46--b--46--&gca-ft=185&gca-ds=sophi",
+"href": "https://www.desmoinesregister.com/story/news/politics/elections/2026/08/17/chris-mcgowan-register-political-soapbox-iowa-state-fair-2026/91248320007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z116035p119050l004450c119050e005550v116035d--46--b--46--&gca-ft=185&gca-ds=sophi"
+},
+{
+"text": "https://www.kcci.com/article/sioux-city-republican-chris-mcgowan-launches-campaign-for-iowas-4th-congressional-district/65211472",
+"href": "https://www.kcci.com/article/sioux-city-republican-chris-mcgowan-launches-campaign-for-iowas-4th-congressional-district/65211472"
+},
+{
+"text": "https://www.ktiv.com/2025/06/25/live-sioux-city-native-chris-mcgowan-announcing-run-iowa-4th-congressional-district/",
+"href": "https://www.ktiv.com/2025/06/25/live-sioux-city-native-chris-mcgowan-announcing-run-iowa-4th-congressional-district/"
+},
+{
+"text": "https://www.ktiv.com/2026/08/11/republican-candidate-outlines-key-issues-november-election-approaches/",
+"href": "https://www.ktiv.com/2026/08/11/republican-candidate-outlines-key-issues-november-election-approaches/"
+},
+{
+"text": "https://www.ktiv.com/2026/08/28/ktiv-host-debate-sept-30-between-candidates-iowas-4th-congressional-district/",
+"href": "https://www.ktiv.com/2026/08/28/ktiv-host-debate-sept-30-between-candidates-iowas-4th-congressional-district/"
+},
+{
+"text": "https://www.youtube.com/watch?v=TLw6hDf3HWw&t=1s",
+"href": "https://www.youtube.com/watch?v=TLw6hDf3HWw&t=1s"
+},
+{
+"text": "ttps://www.iheart.com/podcast/669-vintage-voorhees-27091316/episode/iowa-congressional-candidate-chris-mcgowan-282881949/",
+"href": "https://www.iheart.com/podcast/669-vintage-voorhees-27091316/episode/iowa-congressional-candidate-chris-mcgowan-282881949/"
+}
 ]

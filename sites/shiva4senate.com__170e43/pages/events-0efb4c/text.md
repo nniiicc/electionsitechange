@@ -1,13 +1,5 @@
-Campaign Events
--
-08October
-- Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 11:00 am – 12:00 pm ( EST )11:00 am
-- Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 8:00 pm – 9:00 pm ( EST )8:00 pm
--
-10October
-- Join SHIVA 4 SENATE to distribute flyers on Saturday, October 10, 2026 from 9:00 am to 5:00 pm EST.
-Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign. 9:00 am – 5:00 pm ( EST )9:00 am
--
-11October
-- Join SHIVA 4 SENATE to distribute flyers on Sunday, October 11, 2026 from 10:00 am to 3:00 pm EST.
-Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign. 10:00 am – 3:00 pm ( EST )10:00 am
+Toggle navigation Vote Independent Home I’ll Vote For Dr.SHIVA Take Action Volunteer Free Downloads Shop Forgot About Dr.SHIVA About Issues Contact Campaign Interview SHIVA 0 items in cart Donate Campaign Events 08 October Truth Freedom Health® Open House/Orientation – Thursday, October 8, 2026 at 11 AM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 11:00 am – 12:00 pm ( EST ) 11:00 am Truth Freedom Health® Open House/Orientation – Thursday, October 8, 2026 at 8 PM EST Register to attend the Truth Freedom Health® Open House/Orientation this Thursday at 8 pm EST 8:00 pm – 9:00 pm ( EST ) 8:00 pm 10 October SHIVA 4 SENATE Flyer Distribution – Saturday, October 10, 2026 – 9 am to 5 pm EST Join SHIVA 4 SENATE to distribute flyers on Saturday, October 10, 2026 from 9:00 am to 5:00 pm EST.
+Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign.
+9:00 am – 5:00 pm ( EST ) 9:00 am 11 October SHIVA 4 SENATE Flyer Distribution – Sunday, October 11, 2026 – 10 am to 3 pm EST Join SHIVA 4 SENATE to distribute flyers on Sunday, October 11, 2026 from 10:00 am to 3:00 pm EST.
+Join us in educating the people of Massachusetts about the SHIVA 4 SENATE campaign.
+10:00 am – 3:00 pm ( EST ) 10:00 am RECENT EVENTS SHIVA 4 SENATE Flyer Distribution – Sunday, October 4, 2026 – 10 am to 3 pm EST October 4, 2026 at 10:00 am Event Details SHIVA 4 SENATE Flyer Distribution – Saturday, October 3, 2026 – 9 am to 5 pm EST October 3, 2026 at 9:00 am Event Details Truth Freedom Health® Open House/Orientation – Thursday, October 1, 2026 at 8 PM EST October 1, 2026 at 8:00 pm Event Details Truth Freedom Health® Open House/Orientation – Thursday, October 1, 2026 at 11 AM EST October 1, 2026 at 11:00 am Event Details PAID FOR BY SHIVA 4 SENATE © #, SHIVA 4 SENATE | All Rights Reserved | Privacy Policy | Terms & Conditions | Feedback

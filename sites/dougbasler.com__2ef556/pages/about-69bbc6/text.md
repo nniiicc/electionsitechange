@@ -1,15 +1,9 @@
-Candidate Statement
-Elected Experience
-Former King County Republican Party Vice Chairman; former Eastside Republican Club President and current Vice President; longtime Republican Precinct Committee Officer; candidate for U.S.
+Home About Socialism Revealed Photos Media RSVP Candidate Statement Elected Experience Former King County Republican Party Vice Chairman; former Eastside Republican Club President and current Vice President; longtime Republican Precinct Committee Officer; candidate for U.S.
 Congress.
-Other Professional Experience
-Founder and President of Prologue Digital Inc., a Washington advertising and video production company; media and marketing professional since 1990; longtime sales trainer and small business owner.
-Education
-Attended Multnomah University; continuing education through more than three decades of business, media, advertising, sales training, and leadership experience.
-Community Service
-Worked with rescue missions, Union Gospel Mission, and the Salvation Army on homelessness outreach; worked closely with at-risk youth; former youth pastor, worship pastor, and longtime church volunteer.
-Statement
-I’m running for Congress because Washington families deserve more than another political revolution.
+Other Professional Experience Founder and President of Prologue Digital Inc., a Washington advertising and video production company; media and marketing professional since 1990; longtime sales trainer and small business owner.
+Education Attended Multnomah University; continuing education through more than three decades of business, media, advertising, sales training, and leadership experience.
+Community Service Worked with rescue missions, Union Gospel Mission, and the Salvation Army on homelessness outreach; worked closely with at-risk youth; former youth pastor, worship pastor, and longtime church volunteer.
+Statement I’m running for Congress because Washington families deserve more than another political revolution.
 We need an opportunity revolution.
 The Seattle area helped build some of the greatest companies in the world — Boeing, Microsoft, Starbucks, Amazon, Costco, and many more.
 We became known as a place where ideas could grow, workers could prosper, and families could build a better future.
@@ -26,3 +20,4 @@ Our problems are real, but we will not solve them by tearing each other apart.
 I will be a voice of common sense, moderation, and practical solutions in a highly charged political environment.
 I believe in safer communities, stronger families, lower costs, responsible government, and an economy where everyone has the opportunity to work, build, serve, and thrive.
 I’m Doug Basler, and I would be honored to earn your vote.
+DONATE

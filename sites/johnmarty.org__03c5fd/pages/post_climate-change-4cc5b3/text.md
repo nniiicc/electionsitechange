@@ -1,3 +1,5 @@
+Meet John The Issues ISSUES Education The Economy Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Economic Justice Climate Change Healthcare Get Involved Contribute Volunteer Learn More Accomplishments Testimonials Endorsements News Testimonials Endorsements Volunteer Contribute Volunteer Contribute  Back to The Issues Climate Change Senator Marty has been leading the fight against climate change in the Minnesota Senate.
+Because it is the biggest single threat to the future of society, John continues pushing for legislation to put a price on greenhouse gas emissions, to strengthen our use of renewable energy in every sector of the economy, and to keep fossil fuels in the ground.
 Senator Marty has been leading the fight for a quick transition to a clean energy economy.
 We are in a downward spiral on climate, where human-generated impacts on the climate are causing more frequent and severe tornados, hurricanes, droughts, flooding, and fires.
 Despite the destruction, we continue pumping greenhouse gases into the atmosphere, making the problem worse.
@@ -7,11 +9,7 @@ We have limited time to stop our greenhouse gas emissions, yet Minnesota effecti
 John seeks to establish and implement a plan to transition to a 100 percent renewable energy future that bringing Minnesota’s entire economy – not just the electric sector – to net-zero greenhouse gas emissions.
 Although Minnesota has not treated climate change with the urgency needed, it is ahead of most other states on the issue.
 Unfortunately, in the big picture, the Trump administration has mocked concerns about climate change.
-They are pushing for a radical increase in fossil fuel production, overwhelming any state policies on climate.
-“Whether we and our politicians know it or not, Nature is party to all our deals and decisions, and she has more votes, a longer memory, and a sterner sense of justice than we do.”
-– Wendell Berry
-Climate Change is an Existential Threat to our Grandchildren and All of Humanity
-This is serious business.
+They are pushing for a radical increase in fossil fuel production, overwhelming any state policies on climate. ‍ “Whether we and our politicians know it or not, Nature is party to all our deals and decisions, and she has more votes, a longer memory, and a sterner sense of justice than we do.” – Wendell Berry Climate Change is an Existential Threat to our Grandchildren and All of Humanity This is serious business.
 Instead of increasing fossil fuel consumption we need to be shutting down fossil fuel infrastructure before its projected end-of-life.
 We need huge changes throughout our economy – including agriculture and manufacturing.
 Our transportation system must be dramatically changed and building design & heating and cooling as well.
@@ -24,8 +22,21 @@ Eight years ago, a report published by the National Academy of Sciences estimate
 That’s far worse than the 2° rise that the Paris Climate Accords committed to preventing.
 It’s worse even than the catastrophic impacts that the report said a 3° rise would trigger.
 The report described a 5° increase as “beyond catastrophic” because it threatens the very existence of humanity.
-One of the scientists involved said:
-“To put [it] in perspective, how many of us would choose to buckle our grandchildren to an airplane seat if we knew there was as much as a 1-in-20 chance of the plane crashing?
-With climate change that can pose existential threats, we have already put them in that plane.”
-There is no issue more critical to the long-term survival of humanity.
+One of the scientists involved said: “To put [it] in perspective, how many of us would choose to buckle our grandchildren to an airplane seat if we knew there was as much as a 1-in-20 chance of the plane crashing?
+With climate change that can pose existential threats, we have already put them in that plane.” There is no issue more critical to the long-term survival of humanity.
 That’s why Senator Marty is fighting against the Trump administration’s dangerous energy policies and pushing for an economy-wide transition to a 100% renewable energy future in the next two decades.
+Explore More Issues Browse all issues Education Read more  The Economy Read more  Government Ethics Read more  The latest from John Follow the campaign Bluesky and Instagram No money from special interests.
+None.
+John’s campaign is powered only by small individual donors and volunteers.
+That means: no special interest money.
+No PAC money.
+No lobbyist money.
+No contributions over $# per person.
+This makes your contribution especially important.
+Contribute By donating, you are confirming the following statements are true and accurate: 1) You are not a foreign national who lacks permanent residence in the United States.
+2) This contribution is made from your own funds, and not those of another.
+3) You are not a registered lobbyist.
+4) This contribution is not made from the funds of a corporation, a labor organization, or a political action committee.
+5) This contribution is made from an account or card for which you have the legal obligation to pay, and is not made using a corporate, business, or another person’s account or card.
+Member of the Minnesota State Senate.
+Menu Home Meet John The Issues Volunteer Contribute Contact The Issues Healthcare The Economy Economic Justice Climate Change Government Ethics and Campaign Fiance Reform Reproductive Rights Domestic Violence Transportation Education Copyright © # Senator John Marty | Prepared and Paid for by the Senator John Marty Volunteer Committee.

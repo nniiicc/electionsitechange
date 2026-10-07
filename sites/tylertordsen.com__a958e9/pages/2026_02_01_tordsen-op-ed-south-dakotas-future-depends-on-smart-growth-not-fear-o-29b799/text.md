@@ -1,5 +1,4 @@
-“We’ve earned the right to be selective in supporting the right projects that are mutually beneficial for all.”
-South Dakotans are right to care deeply about the future of our communities.
+Skip to content TYLER TORDSEN DISTRICT 14 HOUSE Menu + × expanded collapsed HOME ABOUT EFFECTIVE LEADERSHIP VOTE CONTACT DONATE BLOG Tordsen Op-Ed: South Dakota’s Future Depends on Smart Growth—Not Fear of It Posted by ttordsen February 1, 2026 February 1, 2026 Posted in BLOG “We’ve earned the right to be selective in supporting the right projects that are mutually beneficial for all.” South Dakotans are right to care deeply about the future of our communities.
 We value self-reliance, common sense, and stewardship of our land, tax dollars, and way of life.
 Lately, I’ve grown increasingly concerned by the rising anti-growth sentiment across our state.
 Too often, it’s fueled not by facts, but by misinformation and a growing distrust of government.
@@ -43,3 +42,7 @@ More importantly, we create real opportunities for our children and grandchildre
 We must commit to doing a better job of working together in shaping South Dakota’s priorities and issues.
 We now live in the most digitally connected era in history, and each carry some responsibility for educating ourselves on what’s before us.
 By working more closely with our neighbors, communicating honestly, and choosing to seek progress over paralysis, I know we can keep South Dakota the best place to live, work, and raise a family.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Posted by ttordsen February 1, 2026 February 1, 2026 Posted in BLOG Post navigation Previous Post Previous post: Tordsen Announces Candidacy for SD District 14 House Leave a Reply Cancel reply PAID FOR BY TYLER TORDSEN FOR SD ABOUT TYLER CONTACT VOTING INFORMATION EFFECTIVE LEADERSHIP BLOG TYLER TORDSEN , Discover more from TYLER TORDSEN Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

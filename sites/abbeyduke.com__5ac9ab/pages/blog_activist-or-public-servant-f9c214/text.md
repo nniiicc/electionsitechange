@@ -1,6 +1,4 @@
-Activists And Public Servants
-Why I do not support the Priestly/Cole Amendment
-Passing bills in the legislature is difficult – and it should be.
+0 Skip to Content Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Open Menu Close Menu Home About Blog Contact Donate Activists And Public Servants Mar 30 Written By Abbey Duke Why I do not support the Priestly/Cole Amendment Passing bills in the legislature is difficult – and it should be.
 Our job is to make decisions that deeply affect our fellow citizens: to levy taxes; to pass laws and regulations; and to fund the government.
 That is a serious job that takes an extraordinary amount of work and care.
 We need to make sure that laws passed don’t do harm, and we need to be careful to understand all points of view, the potential impacts and the real world consequences.
@@ -16,8 +14,7 @@ But it is how I see some issues play out in the statehouse.
 Last week, a bill came to the House floor that shows this dynamic.
 The bill had already gone through a comprehensive vetting process in committee and had bipartisan support.
 However, when it came to the floor it attracted a floor amendment – one that highlighted activist tactics as well as the influence of liberal lobbying groups.
-Amendment on H.933: The Miscellaneous Tax Bill
-H.933 is an excellent bill that the House Ways and Means Committee spent months working on.
+Amendment on H.933: The Miscellaneous Tax Bill H.933 is an excellent bill that the House Ways and Means Committee spent months working on.
 It includes a variety of tax policy updates, expands research and development tax credits for small businesses and aligns Vermont tax policy with federal tax policy.
 However, there was a last minute floor amendment introduced that would have increased taxes on people who earn more than $500,000 a year.
 I understand why people like that idea.
@@ -30,8 +27,7 @@ These action alerts frame the issue as black and white: you either support taxin
 As I expect everyone can imagine, the issue is a whole lot more complicated than that.
 To avoid a messy debate on the House floor, the sponsors of the amendment and the House leadership agreed to pull the amendment and it will be considered later in the session by the Ways and Means Committee.
 I was planning to vote no on the amendment.
-I very much support progressive taxation, however, I will only support a proposal to raise taxes if:
-The policy has been properly vetted by a committee to understand impacts.
+I very much support progressive taxation, however, I will only support a proposal to raise taxes if: The policy has been properly vetted by a committee to understand impacts.
 Only about 3,600 Vermont tax returns report an income of over $500,000.
 That is not very many people.
 What if just a small number of them move out of state as a result?
@@ -53,3 +49,4 @@ There is an opportunity (and political) cost to pursuing legislation that we kno
 The reality is that the sponsors and advocates of this amendment pushed it forward as a political statement.
 They knew that it had no chance of success They sent out action alerts and got some news stories.
 They also lost some credibility from me.
+Abbey Duke Previous Previous Update on Amendment Next Next Mid Session Report Donate Contact aduke@leg.state.vt.us Paid for by Abbey Duke for Vermont 82 Village Green Burlington, VT 05408 Private Policy

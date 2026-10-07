@@ -1,5 +1,4 @@
-- M E E T Amy Parks
-- A Call to Serve I’m confident that I’m exactly where I’m meant to be.
+Home Endorsements Meet Amy Issues Volunteer Opportunities … Home Endorsements Meet Amy Issues Volunteer Opportunities Donate Home Endorsements Meet Amy Issues Volunteer Opportunities … Home Endorsements Meet Amy Issues Volunteer Opportunities Donate M E E T Amy Parks A Call to Serve I’m confident that I’m exactly where I’m meant to be.
 Every job I’ve had has shared one common thread: people.
 Whether I’m building a brand for an entrepreneur, supporting a candidate in an election, or helping a communications team manage a public crisis, my work as a communications professional has centered on serving others.
 I have lived in Loveland for 15 years where I’ve built a life and raised three children.
@@ -12,7 +11,7 @@ I was born and raised in Hawaii, where my father was stationed in the Air Force.
 Post service, he remained in Hawaii, working as a building contractor and pastor, and together, my parents raised a family.
 The youngest of three, I spent most of my childhood and young adult life on the Big Island where I was immersed in a very culturally diverse environment.
 I look back on my childhood with gratitude, knowing that it laid the foundation of understanding, empathy, and compassion for others.
-- Shaped by Experience Many experiences in my life prepared me for the call to serve.
+Shaped by Experience Many experiences in my life prepared me for the call to serve.
 In 2008, my three-year-old daughter was diagnosed with Type 1 Diabetes.
 I became her caregiver and advocate, navigating the red tape of the healthcare and insurance industries.
 In 2011, my youngest son surprised us: He was born with Down Syndrome.

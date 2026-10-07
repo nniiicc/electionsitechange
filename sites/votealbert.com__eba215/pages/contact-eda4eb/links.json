@@ -1,12 +1,46 @@
 [
-"https://facebook.com/votealbert",
-"https://firstprinciplesrevisited.substack.com/",
-"https://linkedin.com/in/thomas-albert-19587739",
-"https://secure.squarespace.com/commerce/donate?donatePageId=565cf7bce4b089b02b9c2c9c",
-"https://votealbert.com/",
-"https://votealbert.com/about",
-"https://votealbert.com/contact",
-"https://votealbert.com/new-page",
-"https://votealbert.com/platform",
-"https://votealbert.com/votes"
+{
+"text": "About",
+"href": "https://www.votealbert.com/about"
+},
+{
+"text": "District Map",
+"href": "https://www.votealbert.com/new-page"
+},
+{
+"text": "Donate",
+"href": "https://secure.squarespace.com/commerce/donate?donatePageId=565cf7bce4b089b02b9c2c9c"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votealbert.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.votealbert.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.votealbert.com/platform"
+},
+{
+"text": "Votes",
+"href": "https://www.votealbert.com/votes"
+},
+{
+"text": "[image: Thomas Albert for State Senate]",
+"href": "https://www.votealbert.com/"
+},
+{
+"text": "[no text]",
+"href": "https://firstprinciplesrevisited.substack.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votealbert"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/thomas-albert-19587739"
+}
 ]

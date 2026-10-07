@@ -1,49 +1,35 @@
-About Tom
-New York State Senator Tom O’Mara
-Representing the state’s 58th Senate District, a district spanning the Southern Tier and Finger Lakes
-regions which he has represented since first being elected to the
-New York State Senate on November 2, 2010.
-Senator O’Mara’s record is one of achievement and experience,
-building foundations — and always fighting for us.
+top of page About Support Us News Contact Donate More...
+Use tab to navigate through the menu items.
+DONATE About Tom New York State Senator Tom O’Mara Representing the state’s 58th Senate District, a district spanning the Southern Tier and Finger Lakes regions which he has represented since first being elected to the New York State Senate on November 2, 2010. ​Senator O’Mara’s record is one of achievement and experience, building foundations — and always fighting for us.
 “I was born and raised, and have spent my life right here in the Southern Tier and Finger Lakes,” Tom says.
 “I’m proud that so many of us have worked together to weather the storms, to put down foundations for a stronger and safer future, and to never stop fighting for more effective government.
 We’ve come a long way and I look forward to the opportunities we’re going to have to secure even more success in the years ahead.
-As always, thank all of you for your ongoing encouragement, participation and support.”
-Following redistricting for the November 2022 elections, the 58th Senate District will be comprised of all of Chemung, Schuyler, Seneca, Steuben, Tioga, and Yates counties, and a portion of Allegany County (specifically the towns of Alfred, Almond, Amity, Andover, Birdsall, Burns, Grove, Independence, Scio, Ward, Wellsville, and Willing.
-Senator O’Mara has worked diligently to help build the state-local partnerships which have been established across the region — through the Southern Tier and Finger Lakes Regional Economic Development Councils (REDCs), on which he serves as a member, and in many other ways — that are implementing short- and long-term blueprints and strategies to create jobs and strengthen communities.
-These state-local partnerships have promoted job creation and provided badly needed workforce development programs.
+As always, thank all of you for your ongoing encouragement, participation and support.” Our Mission Following redistricting for the November 2022 elections, the 58th Senate District will be comprised of all of Chemung, Schuyler, Seneca, Steuben, Tioga, and Yates counties, and a portion of Allegany County (specifically the towns of Alfred, Almond, Amity, Andover, Birdsall, Burns, Grove, Independence, Scio, Ward, Wellsville, and Willing. ​ Senator O’Mara has worked diligently to help build the state-local partnerships which have been established across the region — through the Southern Tier and Finger Lakes Regional Economic Development Councils (REDCs), on which he serves as a member, and in many other ways — that are implementing short- and long-term blueprints and strategies to create jobs and strengthen communities. ​ These state-local partnerships have promoted job creation and provided badly needed workforce development programs.
 They’ve strengthened area schools and enhanced the environment.
-They’ve improved local roads and bridges.
-Abraham Lincoln once said, “I do the very best I know how, the very best I can.”
-Senator O’Mara is proud of the partnerships he’s developed with mayors, town supervisors, county executives and managers, highway superintendents and work crews, educators, business leaders, family farmers, wine producers and grape growers, and concerned citizens from every walk of life to understand the challenges and advance worthwhile community initiatives to address them.
+They’ve improved local roads and bridges. ​ Abraham Lincoln once said, “I do the very best I know how, the very best I can.” Senator O’Mara is proud of the partnerships he’s developed with mayors, town supervisors, county executives and managers, highway superintendents and work crews, educators, business leaders, family farmers, wine producers and grape growers, and concerned citizens from every walk of life to understand the challenges and advance worthwhile community initiatives to address them.
 He’s reached out across our cities, towns and villages to do some good and to get things done.
-He’s worked with countless area leaders to identify the 58th District’s common goals, build on our strengths and develop strategies to shore up our weaknesses.
-But the work is far from done.
+He’s worked with countless area leaders to identify the 58th District’s common goals, build on our strengths and develop strategies to shore up our weaknesses. ​ ​ But the work is far from done.
 Senator O’Mara presently serves as the ranking Republican member of the Senate Finance Committee, and of the Senate Investigations and Government Operations Committee.
 For the legislative sessions 2015 through 2018, Senator O’Mara served as Chairman of the Senate Standing Committee on Environmental Conservation, one of the Legislature’s key committees.
 In addition to his ranking positions, he also serves as a member on the following committees: Codes; Energy and Telecommunications; Insurance; Judiciary; and Rules.
-He has also served as one of five state senators on the joint, bipartisan, 10-member Legislative Commission on the Development of Rural Resources, and as a member of the following Senate Task Forces: Heroin and Opioid Addiction; Lyme and Tick-borne Diseases; and Workforce Development.
-Prior to his Senate election, he represented the 137th Assembly District comprising Chemung and Schuyler counties as well as part of Tioga County for three consecutive, two-year terms.
+He has also served as one of five state senators on the joint, bipartisan, 10-member Legislative Commission on the Development of Rural Resources, and as a member of the following Senate Task Forces: Heroin and Opioid Addiction; Lyme and Tick-borne Diseases; and Workforce Development. ​ Prior to his Senate election, he represented the 137th Assembly District comprising Chemung and Schuyler counties as well as part of Tioga County for three consecutive, two-year terms.
 He was named Assistant Minority Leader Pro Tempore for the 2010 legislative session, the third-highest ranking position in the Assembly Republican legislative conference.
 In addition to his leadership role, he also served as a member of the Assembly Committees on Ways and Means, Energy, Banks, Ethics and Guidance, Judiciary and Tourism.
-As the ranking member on the Assembly Energy Committee, he worked to provide lower cost, more competitively priced energy for residents and businesses in New York State, while encouraging conservation efforts and fostering the use of renewable and clean energy.
-Senator O’Mara has stood as a commonsense, clear and strong voice in Albany on behalf of his constituents in the Southern Tier and Finger Lakes regions.
-He has been outspoken in opposition to out-of-control spending in Albany and a strong advocate for cutting waste in government, particularly in the state’s $70-billion-plus system of Medicaid where he has championed better ways to manage care, improve disease management and utilize cutting-edge data mining technology to potentially save billions of taxpayer dollars that are being lost to waste, fraud and abuse.
-Throughout his public service, Senator O’Mara has been guided by a long-held belief: Government does not create jobs, business does.
-That’s why he’s focused on developing public policies and strategies that allow state government to improve the economic climate for doing business in New York by opposing tax increases, and reducing state spending, mandates, overregulation and oppressive property taxes.
-In the Senate he has been at the forefront of efforts to revitalize Upstate New York’s manufacturing sector.
-A former Chemung County District Attorney, Senator O’Mara has also served as Chemung County Attorney and as an Assistant District Attorney in both Manhattan and Chemung County.
+As the ranking member on the Assembly Energy Committee, he worked to provide lower cost, more competitively priced energy for residents and businesses in New York State, while encouraging conservation efforts and fostering the use of renewable and clean energy. ​ Senator O’Mara has stood as a commonsense, clear and strong voice in Albany on behalf of his constituents in the Southern Tier and Finger Lakes regions.
+He has been outspoken in opposition to out-of-control spending in Albany and a strong advocate for cutting waste in government, particularly in the state’s $70-billion-plus system of Medicaid where he has championed better ways to manage care, improve disease management and utilize cutting-edge data mining technology to potentially save billions of taxpayer dollars that are being lost to waste, fraud and abuse. ​ Throughout his public service, Senator O’Mara has been guided by a long-held belief: Government does not create jobs, business does.
+That’s why he’s focused on developing public policies and strategies that allow state government to improve the economic climate for doing business in New York by opposing tax increases, and reducing state spending, mandates, overregulation and oppressive property taxes. ​ In the Senate he has been at the forefront of efforts to revitalize Upstate New York’s manufacturing sector. ​ A former Chemung County District Attorney, Senator O’Mara has also served as Chemung County Attorney and as an Assistant District Attorney in both Manhattan and Chemung County.
 He holds a Juris Doctorate from the Syracuse University College of Law and a B.A. from the Catholic University of America, and is presently a member of the Barclay Damon LLP law firm.
-He was formerly a partner in the Davidson & O’Mara, PC law firm in Elmira.
-Active in his community, Senator O’Mara has served as counsel to the Chemung County Industrial Development Agency and St.
+He was formerly a partner in the Davidson & O’Mara, PC law firm in Elmira. ​ Active in his community, Senator O’Mara has served as counsel to the Chemung County Industrial Development Agency and St.
 Joseph’s Hospital (Elmira).
 His focus is on improving the business climate in New York State and fostering economic growth throughout the Southern Tier and Finger Lakes regions.
 He serves as a member of the Southern Tier Regional Economic Development Council (REDC), and has been a member of the Southern Tier Economic Growth (STEG) Board of Directors and the Schuyler County Partnership for Economic Development (SCOPED).
 He is a former Director and Secretary of St.
 Joseph’s Hospital, a Trustee of the Horseheads Free Library, and a Board Member of the Wings of Eagles (formerly National Warplane Museum).
 He was the 2001/2002 Chairman of the American Red Cross Chemung/Schuyler Chapter and a Director there for seven years.
-He was a member of the New York State Judicial Screening Committee for Chemung County and a member of Chemung County Executive Tom Santulli’s Southern Tier Organization to Reform Medicaid (STORM).
-An avid outdoorsman who enjoys fishing, camping, skiing, and snowmobiling, Senator O’Mara is a lifetime member of the National Rifle Association (NRA), and a member of the Sons of the American Legion and the Shooters Committee on Public Education (SCOPE), as well as the Farm Bureau of New York/Chemung County, Ancient Order of Hibernians- Elmira, and Montour Falls Moose.
-Senator O’Mara is a native of Chemung County, born and raised in Horseheads.
+He was a member of the New York State Judicial Screening Committee for Chemung County and a member of Chemung County Executive Tom Santulli’s Southern Tier Organization to Reform Medicaid (STORM). ​ An avid outdoorsman who enjoys fishing, camping, skiing, and snowmobiling, Senator O’Mara is a lifetime member of the National Rifle Association (NRA), and a member of the Sons of the American Legion and the Shooters Committee on Public Education (SCOPE), as well as the Farm Bureau of New York/Chemung County, Ancient Order of Hibernians- Elmira, and Montour Falls Moose. ​ Senator O’Mara is a native of Chemung County, born and raised in Horseheads.
 He and his wife Marilyn currently reside in Big Flats.
 They have three children.
+We Need Your Support Today!
+Donate “The future cannot be predicted, but we can build a foundation for it and influence its development.” Email : omaraforsenate@gmail.com Get Email Updates Enter your email here Sign Up!
+Thanks for submitting!
+FRIENDS OF TOM O’MARA - PO Box 428, Elmira, NY 14902 Quick Links About Support Us News Events Contact © # O'Mara for Senate -- NYS Senate Republican Campaign Committee bottom of page

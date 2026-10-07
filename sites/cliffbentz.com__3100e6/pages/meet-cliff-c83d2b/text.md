@@ -1,4 +1,4 @@
-Cliff Bentz is a third generation Oregonian, raised on his family’s cattle ranches in Harney County.
+Home Meet Cliff About Endorsements Media Issues Volunteer Contact Menu Home Meet Cliff About Endorsements Media Issues Volunteer Contact Donate Meet Cliff Cliff Bentz is a third generation Oregonian, raised on his family’s cattle ranches in Harney County.
 He attended Whitehorse Ranch and Pine Creek Grade Schools.
 At age 14, he was sent to live with an aunt and uncle so that he could attend Regis High School (a Catholic parochial school) near Salem, Oregon.
 While at Regis he lettered in basketball and track, served as ASB president and as a delegate to Boy’s State.
@@ -20,4 +20,8 @@ He resigned from the House in 2018 when appointed to take Senator Ferrioli’s O
 While in the House, he served on the Revenue, Transportation, Energy and Environment, Legislative Counsel, and joint tax credits committees, and as a member and chair of the Legislative Council on River governance, the Oregon Hunger Task Force, and other committees and work groups.
 While in the Senate, he served on the Finance and Revenue, Judiciary, Energy, and tax credits committees among others.
 He resigned from the Oregon Senate effective January 2nd, 2020, to campaign full time for the Oregon Congressional District 2 seat now held by Congressman Greg Walden.
-Watch the latest television ads and see all videos released by the campaign here.
+Watch the latest television ads and see all videos released by the campaign here .
+Sign Up For Udpates Name Email Sign Up Donate Today We count on people like you to chip in and make sure we can win. $25 $50 $100 $250 $500 Other CONTACT US P.O.
+Box 1048, Ontario, OR 97914 Thank you for visiting my campaign website.
+If your intention was to visit my official website please click here.
+PAGES Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy Menu Home Donate Contact Issues Media Meet Cliff Endorsements Volunteer Privacy Policy FOLLOW US Facebook Paid for by Cliff Bentz for Congress

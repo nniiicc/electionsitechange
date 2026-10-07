@@ -1,27 +1,106 @@
 [
-"https://facebook.com/lawler4ny",
-"https://instagram.com/lawler4ny",
-"https://lawlerforcongress.com/",
-"https://lawlerforcongress.com/about",
-"https://lawlerforcongress.com/accessibility",
-"https://lawlerforcongress.com/cdn-cgi/l/email-protection",
-"https://lawlerforcongress.com/endorsements",
-"https://lawlerforcongress.com/issues",
-"https://lawlerforcongress.com/news",
-"https://lawlerforcongress.com/privacy",
-"https://lawlerforcongress.com/sign",
-"https://lawlerforcongress.com/terms",
-"https://lawlerforcongress.com/volunteer",
-"https://lawlerforcongress.com/vote",
-"https://links.lawler4congress.com/els/v4/a91v6s_bk94qiz4fcdlsn/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7mfm96I_fr6qx6Glz9ZWfw2p-Z9qmM5Hbtq7StdIWB_SeZHuJkclC5wxfoh2wBg2sZAos8HGJJF-2VaJ7lMknIKwGGJGkaItt-PxT1tROfHp1cD3Iku1Td1EOWORm_p_Ml_86h4YKXv2ddqRyvltNG-G3CESVxLBFq4Z0AqnMeKirVBlpmDWvy67PCQC2ymteEQloQ9DKk3JPDfqLVMkOqvWmrH6yNBRmnJD8YBTXpncAFTIboV_KMLUuVTI0EtOYuyCeUHxCz-5jE6gmNoJsF5scyBXt_12cqA=",
-"https://links.lawler4congress.com/els/v4/h4b4oetplfn97qycbnvzm/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7p7_7Gx8hCLyXJsvVo0y____Moj9uJ9SZgpbnC0_kIWRFeLZRVgG5PU3FGFjHtlABSiy7IAyBR9DAsr8luPKuMlmLd9ey-VPhCuUF4i_ASTG95ko0k007po7-SWXujjsjqzciNI-N-_eu8V09Sx-XjrgtgbaPp9PNWC3fBtXu9tlG118MjyJXk3QYy0AA40d6o5fmF-WlSoIjswCxeMcNd2VjkAOzRTdYk12Uj9yWEkUQW5_XQhc-m2jw-89J3SYXY418YbYZM5yAQqad2Y6xNNixN1yv0H5R7W-NAhZvJkjtzhJ1RfwCSPP",
-"https://links.lawler4congress.com/els/v4/hogcmz8y7aormxeho9a8s/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7p2yseSACYS_MBNLTo2Sj0nwBOIXqOAM_zF929dPJM6TTUH1DaNrJqhmDMUXaHYxPdu-gJCAnYUkjr2qscEmSQlE1iVvc11zCD83WqCfyY7tS49tQ1r6T_OQUT1QNi_kMy3X-_jJhzNxaX45xzIOH__vGdv99lllFcYHi3JrsPCj0DQ2P4QxqNGtW20e4Y-V4s_evsEEekq1sh_mLjVw1WV09tqQ7aKpHgtXE4yk_f0he5HokMYg1ApLfGd5rJEKkWW4sCL0UzgBRoAQB-eDd1Px-A8rq0k=",
-"https://links.lawler4congress.com/els/v4/ifss1tex_ffi5aro-lrpd/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7oPr3YXWsBdFLBto0RirQNVBGQ46kQdSisPNSGLdfUax2rhcDITncYuJzh4dPHG-n8DwlNSybgr3DjXl6ewm3zUz9Od6LMSunhXchwg8mtftV_ORwznVfVsjhABsOIis4Ee340oydto0MYeA79hxFIXI-kD2r1Spd5E1S1vvffH6xp9PXXg44zKIk-171kvCsSx-q5I7jjC-LgxpoIaTlt5AEpv_nH9-3xJtNfwhgcIt8yldoRmFeE4PpQN2MuRt",
-"https://links.lawler4congress.com/els/v4/iv6qnz2nkuom7vxv5mcbc/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7ih_tSaAD09dz7S5MgHML2pA5wK1k-tmNcBcKb6Q6b3cnyBLNpVInVPAltOcg0To9ifiGNBT4De0X5pdGzwRKbDpxmmBiD3ssSATfjM4OvosjFvD1KnYwsKBvZbD7I4IMpKBhKSr8pgqN6SdOEQdeU3LB7gizOCH2wx-k2cyq2WVY71DBsoT2x6jmw==",
-"https://links.lawler4congress.com/els/v4/mo7zs6qagd3imj6oqqstx/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7kcc5Yek1U3GnKW1oTdNJywqMP9FfrspyyiTykDFQcJ0nGogJT2gjCytGLQblQWHNQLwN1vTMNk0x2ezVs2RSFuHPwxZHuaoiKb1C-lMC3oImjJPouj-KK5Ug_SVVdq2ioz2yLrgnLEOlKiQZTTfiDwSYvpQOf_7czqdj12rZBEgpxZlDGnLzz0g9NrkL2u0BITe343dH3af6GTgxNVHZIyd5iAAYtqNeMoILrATla5riAABS8B3DxM=",
-"https://links.lawler4congress.com/els/v4/p83x7o2owl0izsy1eyd-z/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7jcYxRdJdbQ1wOg78a-YX9F_8fScHgyicmh9bWiljDZTgBR2xQcspUc_juRSL4k3TDf0nwQfT-08qEdVSGpA6DzJQt09QDh9dPuOJ5RfYbA415UXJChs3Gp8spOjBAnY6PatnBnWXcBLgeb_0JVgTg6uFP523Emi9jgDagfMJBkdFZI66ANaQT-b2__phUnSo2yWCiEE-9GqJ_uXUnztu1nQm017Syx_NYaxBdR0ARJNGowdjA==",
-"https://links.lawler4congress.com/els/v4/x_y6ylnybarld-351ifav/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7hNJNBs4Q4TZvB69Yngar7rENdCJmV_TfRHvK9UgTyfpAX6L4_av7NbERmZIrtjLQgJynemuxPt0AIFQ3hyVxxSwx08EI7KaeUP8DneA7sOY2k98537ozwwbe-vy_YqWlqaiObNLR-uj2boZ-LkG57eDMXmHi_Nyo-MMqS4OLf199E9U_LsDmb1DtrogNoIIS7NZQ0rnFDZurEpC",
-"https://secure.winred.com/lawler-for-congress/donate-today",
-"https://secure.winred.com/lawler-for-congress/storefront",
-"https://twitter.com/lawler4ny"
+{
+"text": "About",
+"href": "https://www.lawlerforcongress.com/about/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.lawlerforcongress.com/accessibility/"
+},
+{
+"text": "Days later, she told MS NOW’s Morning Joe",
+"href": "https://links.lawler4congress.com/els/v4/a91v6s_bk94qiz4fcdlsn/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7mfm96I_fr6qx6Glz9ZWfw2p-Z9qmM5Hbtq7StdIWB_SeZHuJkclC5wxfoh2wBg2sZAos8HGJJF-2VaJ7lMknIKwGGJGkaItt-PxT1tROfHp1cD3Iku1Td1EOWORm_p_Ml_86h4YKXv2ddqRyvltNG-G3CESVxLBFq4Z0AqnMeKirVBlpmDWvy67PCQC2ymteEQloQ9DKk3JPDfqLVMkOqvWmrH6yNBRmnJD8YBTXpncAFTIboV_KMLUuVTI0EtOYuyCeUHxCz-5jE6gmNoJsF5scyBXt_12cqA="
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lawler-for-congress/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lawlerforcongress.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.lawlerforcongress.com/issues/"
+},
+{
+"text": "Lawler also asked Conley what she does for the two artificial intelligence companies that have paid her $328,283 in salary and consulting fees since January 2025",
+"href": "https://links.lawler4congress.com/els/v4/p83x7o2owl0izsy1eyd-z/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7jcYxRdJdbQ1wOg78a-YX9F_8fScHgyicmh9bWiljDZTgBR2xQcspUc_juRSL4k3TDf0nwQfT-08qEdVSGpA6DzJQt09QDh9dPuOJ5RfYbA415UXJChs3Gp8spOjBAnY6PatnBnWXcBLgeb_0JVgTg6uFP523Emi9jgDagfMJBkdFZI66ANaQT-b2__phUnSo2yWCiEE-9GqJ_uXUnztu1nQm017Syx_NYaxBdR0ARJNGowdjA=="
+},
+{
+"text": "News",
+"href": "https://www.lawlerforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lawlerforcongress.com/privacy/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/lawler-for-congress/storefront"
+},
+{
+"text": "Signs",
+"href": "https://www.lawlerforcongress.com/sign/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.lawlerforcongress.com/terms/"
+},
+{
+"text": "The PIX11 debate on October 14 is the only other televised debate Conley has accepted",
+"href": "https://links.lawler4congress.com/els/v4/mo7zs6qagd3imj6oqqstx/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7kcc5Yek1U3GnKW1oTdNJywqMP9FfrspyyiTykDFQcJ0nGogJT2gjCytGLQblQWHNQLwN1vTMNk0x2ezVs2RSFuHPwxZHuaoiKb1C-lMC3oImjJPouj-KK5Ug_SVVdq2ioz2yLrgnLEOlKiQZTTfiDwSYvpQOf_7czqdj12rZBEgpxZlDGnLzz0g9NrkL2u0BITe343dH3af6GTgxNVHZIyd5iAAYtqNeMoILrATla5riAABS8B3DxM="
+},
+{
+"text": "The nonpartisan Bridge Grades report card gives Lawler a 99.2 out of 100 for bipartisanship",
+"href": "https://links.lawler4congress.com/els/v4/iv6qnz2nkuom7vxv5mcbc/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7ih_tSaAD09dz7S5MgHML2pA5wK1k-tmNcBcKb6Q6b3cnyBLNpVInVPAltOcg0To9ifiGNBT4De0X5pdGzwRKbDpxmmBiD3ssSATfjM4OvosjFvD1KnYwsKBvZbD7I4IMpKBhKSr8pgqN6SdOEQdeU3LB7gizOCH2wx-k2cyq2WVY71DBsoT2x6jmw=="
+},
+{
+"text": "Volunteer",
+"href": "https://www.lawlerforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://www.lawlerforcongress.com/vote/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:mike@lawlerforcongress.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/lawler4ny"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/lawler4ny"
+},
+{
+"text": "[image: Mike Lawler for Congress logo]",
+"href": "https://www.lawlerforcongress.com/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/lawler4ny"
+},
+{
+"text": "first of only two televised debates Conley has agreed",
+"href": "https://links.lawler4congress.com/els/v4/ifss1tex_ffi5aro-lrpd/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7oPr3YXWsBdFLBto0RirQNVBGQ46kQdSisPNSGLdfUax2rhcDITncYuJzh4dPHG-n8DwlNSybgr3DjXl6ewm3zUz9Od6LMSunhXchwg8mtftV_ORwznVfVsjhABsOIis4Ee340oydto0MYeA79hxFIXI-kD2r1Spd5E1S1vvffH6xp9PXXg44zKIk-171kvCsSx-q5I7jjC-LgxpoIaTlt5AEpv_nH9-3xJtNfwhgcIt8yldoRmFeE4PpQN2MuRt"
+},
+{
+"text": "moderated by News 12 senior political reporter Tara Rosenblum and built largely on questions from viewers",
+"href": "https://links.lawler4congress.com/els/v4/h4b4oetplfn97qycbnvzm/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7p7_7Gx8hCLyXJsvVo0y____Moj9uJ9SZgpbnC0_kIWRFeLZRVgG5PU3FGFjHtlABSiy7IAyBR9DAsr8luPKuMlmLd9ey-VPhCuUF4i_ASTG95ko0k007po7-SWXujjsjqzciNI-N-_eu8V09Sx-XjrgtgbaPp9PNWC3fBtXu9tlG118MjyJXk3QYy0AA40d6o5fmF-WlSoIjswCxeMcNd2VjkAOzRTdYk12Uj9yWEkUQW5_XQhc-m2jw-89J3SYXY418YbYZM5yAQqad2Y6xNNixN1yv0H5R7W-NAhZvJkjtzhJ1RfwCSPP"
+},
+{
+"text": "tonight’s News 12 debate",
+"href": "https://links.lawler4congress.com/els/v4/hogcmz8y7aormxeho9a8s/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7p2yseSACYS_MBNLTo2Sj0nwBOIXqOAM_zF929dPJM6TTUH1DaNrJqhmDMUXaHYxPdu-gJCAnYUkjr2qscEmSQlE1iVvc11zCD83WqCfyY7tS49tQ1r6T_OQUT1QNi_kMy3X-_jJhzNxaX45xzIOH__vGdv99lllFcYHi3JrsPCj0DQ2P4QxqNGtW20e4Y-V4s_evsEEekq1sh_mLjVw1WV09tqQ7aKpHgtXE4yk_f0he5HokMYg1ApLfGd5rJEKkWW4sCL0UzgBRoAQB-eDd1Px-A8rq0k="
+},
+{
+"text": "turned down invitations from CNN’s State of the Union and NBC’s Meet the Press",
+"href": "https://links.lawler4congress.com/els/v4/x_y6ylnybarld-351ifav/Y4_E_ZgFykUwuN8GZW7TsVNnkCwcDTMTXIyuPeHcJZH1x2qCWeQZkS5JWbWcweDl5WBt/jsC_dHkKw9UgYRw7XLiYZYJWiauQzWwtE09yBuAW7hNJNBs4Q4TZvB69Yngar7rENdCJmV_TfRHvK9UgTyfpAX6L4_av7NbERmZIrtjLQgJynemuxPt0AIFQ3hyVxxSwx08EI7KaeUP8DneA7sOY2k98537ozwwbe-vy_YqWlqaiObNLR-uj2boZ-LkG57eDMXmHi_Nyo-MMqS4OLf199E9U_LsDmb1DtrogNoIIS7NZQ0rnFDZurEpC"
+}
 ]

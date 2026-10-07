@@ -1,18 +1,74 @@
 [
-"http://creativecourteast.com/",
-"https://edbutler.org/",
-"https://edbutler.org/about",
-"https://edbutler.org/connect",
-"https://edbutler.org/contact",
-"https://edbutler.org/events",
-"https://edbutler.org/gallery",
-"https://edbutler.org/initiatives",
-"https://edbutler.org/m/account",
-"https://edbutler.org/m/create-account",
-"https://edbutler.org/m/orders",
-"https://edbutler.org/shop",
-"https://edbutler.org/terms-and-conditions",
-"https://edbutler.org/volunteer",
-"https://edbutler.org/voters-1",
-"https://godaddy.com/websites/website-builder?isc=pwugc"
+{
+"text": "About",
+"href": "https://edbutler.org/about"
+},
+{
+"text": "Connect",
+"href": "https://edbutler.org/connect"
+},
+{
+"text": "Contact",
+"href": "https://edbutler.org/contact"
+},
+{
+"text": "Create Account",
+"href": "https://edbutler.org/m/create-account"
+},
+{
+"text": "Events",
+"href": "https://edbutler.org/events"
+},
+{
+"text": "Gallery",
+"href": "https://edbutler.org/gallery"
+},
+{
+"text": "Home",
+"href": "https://edbutler.org/"
+},
+{
+"text": "Initiatives",
+"href": "https://edbutler.org/initiatives"
+},
+{
+"text": "My Account",
+"href": "https://edbutler.org/m/account"
+},
+{
+"text": "Orders",
+"href": "https://edbutler.org/m/orders"
+},
+{
+"text": "RepublicanRepublicanRepublicanRepublican",
+"href": "https://edbutler.org/"
+},
+{
+"text": "Shop",
+"href": "https://edbutler.org/shop"
+},
+{
+"text": "Sign In",
+"href": "https://edbutler.org/m/account"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://edbutler.org/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://edbutler.org/volunteer"
+},
+{
+"text": "Voters",
+"href": "https://edbutler.org/voters-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "www.creativecourteast.com",
+"href": "http://www.creativecourteast.com"
+}
 ]

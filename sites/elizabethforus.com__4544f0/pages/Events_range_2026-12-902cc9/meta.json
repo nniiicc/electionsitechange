@@ -1,7 +1,11 @@
 {
  "description": "Elizabeth Kirtley Campaign Events",
  "final_url": "https://www.elizabethforus.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "f724b55412c621e3b633ea9c6ff19c2e69aa2293",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Elizabeth Kirtley Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

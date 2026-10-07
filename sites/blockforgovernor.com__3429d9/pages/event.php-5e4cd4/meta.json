@@ -1,7 +1,12 @@
 {
  "description": "See upcoming and past campaign appearances for Ken Block for Governor.",
  "final_url": "https://www.blockforgovernor.com/event.php",
- "paid_for_by": null,
+ "fingerprint": "8857df8625e1483af1c94cfbec9ae9abe3fbc578",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Appearances | Ken Block for Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000",
+  "2026"
+ ]
 }

@@ -1,15 +1,16 @@
-Business & Filings
-What Business and Commercial Services files
-Domestic and foreign business corporations, nonprofit corporations, professional corporations, limited partnerships, LLPs, LLLPs, and limited liability companies are formed or qualified by filing with this division.
+Skip to main content THE PEOPLE RULE Kelly Grappe for Arkansas Secretary of State The People Rule. · Arkansas Meet Kelly ▾ My Plan ▾ The Office ▾ The People's Voice ▾ From the Road ▾ Get Involved ▾ Search Vote / Register Volunteer Events Donate Events Donate Menu Close Vote / Register Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements My Plan My Plan Restore Trust The People's Constitutional Voice Support All 75 Counties Transparency Election Processes A More Engaged Arkansas Business Services The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing From the Road From the Road Press Coverage Events Across Arkansas Invite Kelly Listening Sessions Get Involved Power of 5 Volunteer Host Kelly Stay connected Start a Local Team Donate Register / Check Registration Volunteer Events Donate Search Home Business & Filings, overview.
+The Office / Business & Filings Understanding the Office Business & Filings Business and Commercial Services is Arkansas’s starting point for people who form or transact business in the state, whether they are based here or elsewhere.
+Several filing desks sit under one division so a name search, an entity filing, and a later annual report live in the same system.
+Back to The Office What Business and Commercial Services files Domestic and foreign business corporations, nonprofit corporations, professional corporations, limited partnerships, LLPs, LLLPs, and limited liability companies are formed or qualified by filing with this division.
 Filers can search whether a company name is available, then file articles, amendments, mergers, or dissolutions.
 The office publishes that most filings complete within two business days of receipt; the effective date is the date BCS receives the document unless the filing sets a later date.
 Corporations and LLCs file annual reports and pay franchise tax to the Secretary of State—online, by mail, or in person in Little Rock or Fayetteville.
 The division records Uniform Commercial Code financing statements and other lien documents, and registers trademarks and service marks.
 Other filings assigned to this office include commercial registered agents, cooperatives, international student-exchange organizations, and related commercial records.
-How to use the office
-The public business-entity search lets lenders, partners, and neighbors check what was filed.
+How to use the office The public business-entity search lets lenders, partners, and neighbors check what was filed.
 Counter service is at the Victory Building, 1401 W.
 Capitol Avenue, Suite 250, Little Rock, and at 300 North College, Suite 201F, Fayetteville.
 Notary commissions, eNotary, and apostilles are also housed in this division; those duties are described on the Notaries page.
-Next step
-Why it matters & what Kelly brings
+Next step Why it matters & what Kelly brings Kelly Grappe for Arkansas Secretary of State Kelly Grappe is running for Arkansas Secretary of State to restore trust in our systems, protect the people’s constitutional voice, and make this office work for the people it belongs to.
+Volunteer with Kelly → Contact the campaign Meet Kelly Meet Kelly Professional experience Why I'm Running Kelly Across Arkansas Community & Civic Work Campaign Videos Campaign Photos Endorsements The People's Voice Learn How Direct Democracy Works The People's Voice hub Kelly's petition organizing The Office What the Office Does Elections Business & Filings Notaries Transparency & Records Capitol & Public Safety Why This Race Matters Explainers From the Road From the Road Press Coverage Kelly’s Substack Events Across Arkansas Invite Kelly Host a gathering Listening sessions Get involved Power of 5 Stay connected Volunteer Host Kelly Start a Local Team Represent at local events Donate Español Legal Contact Privacy Accessibility Terms of use Disclaimer Español Paid for by the Committee to Elect Kelly Grappe · kellygrappe.com © 2026 Kelly Grappe for Arkansas Secretary of State .
+All rights reserved.

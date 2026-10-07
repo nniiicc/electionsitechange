@@ -1,7 +1,26 @@
 [
-"https://voteriepe.com/about-merv",
-"https://voteriepe.com/accomplishments",
-"https://voteriepe.com/contact-merv",
-"https://voteriepe.com/media-1",
-"https://voteriepe.com/on-the-issues"
+{
+"text": "About Merv",
+"href": "https://voteriepe.com/about-merv"
+},
+{
+"text": "Accomplishments",
+"href": "https://voteriepe.com/accomplishments"
+},
+{
+"text": "Contact Merv",
+"href": "https://voteriepe.com/contact-merv"
+},
+{
+"text": "Media",
+"href": "https://voteriepe.com/media-1"
+},
+{
+"text": "On the Issues",
+"href": "https://voteriepe.com/on-the-issues"
+},
+{
+"text": "[image]",
+"href": "https://voteriepe.com/about-merv"
+}
 ]

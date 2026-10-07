@@ -1,16 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61582422245043",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/vdavis4kansas",
-"https://myvoteinfo.voteks.org/voterview",
-"https://sos.ks.gov/elections/election-faq.html",
-"https://sos.ks.gov/elections/military-overseas-citizens.html",
-"https://sos.ks.gov/forms/elections/AV1.pdf",
-"https://velmadavis.com/",
-"https://velmadavis.com/about",
-"https://velmadavis.com/contact",
-"https://velmadavis.com/donate",
-"https://velmadavis.com/privacy-policy",
-"https://velmadavis.com/terms-of-use",
-"https://velmadavis.com/voting"
+{
+"text": "About",
+"href": "https://velmadavis.com/about"
+},
+{
+"text": "Check your voter registration",
+"href": "https://myvoteinfo.voteks.org/voterview"
+},
+{
+"text": "Contact",
+"href": "https://velmadavis.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://velmadavis.com/donate"
+},
+{
+"text": "Find my polling place",
+"href": "https://myvoteinfo.voteks.org/voterview"
+},
+{
+"text": "Home",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Kansas Voting FAQs",
+"href": "https://sos.ks.gov/elections/election-faq.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://velmadavis.com/privacy-policy"
+},
+{
+"text": "Terms of Use",
+"href": "https://velmadavis.com/terms-of-use"
+},
+{
+"text": "Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Voting",
+"href": "https://velmadavis.com/voting"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582422245043"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vdavis4kansas/"
+},
+{
+"text": "apply for an advance ballot",
+"href": "https://sos.ks.gov/forms/elections/AV1.pdf"
+},
+{
+"text": "military & overseas voting",
+"href": "https://sos.ks.gov/elections/military-overseas-citizens.html"
+}
 ]

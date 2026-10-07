@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/government/",
- "paid_for_by": null,
+ "fingerprint": "0cde92e6d8bd4e9bcd2d3fa4761a24dd90e22b45",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Government",
  "years_mentioned": [
+  "2005",
   "2010",
+  "2014",
+  "2015",
   "2018",
   "2020",
   "2026"

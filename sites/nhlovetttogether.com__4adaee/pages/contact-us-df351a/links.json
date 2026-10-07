@@ -1,12 +1,54 @@
 [
-"https://facebook.com/lovettfornh",
-"https://instagram.com/@rorylovett4nh",
-"https://nhlovetttogether.com/",
-"https://nhlovetttogether.com/about",
-"https://nhlovetttogether.com/contact-us",
-"https://nhlovetttogether.com/donate",
-"https://nhlovetttogether.com/get-involved",
-"https://nhlovetttogether.com/get-involved/events",
-"https://secure.actblue.com/donate/lovettfornh",
-"https://youtube.com/@lovettfornh"
+{
+"text": "About",
+"href": "https://www.nhlovetttogether.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.nhlovetttogether.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lovettfornh"
+},
+{
+"text": "Donate",
+"href": "https://www.nhlovetttogether.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://www.nhlovetttogether.com/get-involved/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nhlovetttogether.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.nhlovetttogether.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lovettfornh"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/@rorylovett4nh"
+},
+{
+"text": "[no text]",
+"href": "https://www.nhlovetttogether.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@lovettfornh"
+},
+{
+"text": "[no text]",
+"href": "mailto:lovettfornh@gmail.com"
+},
+{
+"text": "[no text]",
+"href": "tel:6032299281"
+}
 ]

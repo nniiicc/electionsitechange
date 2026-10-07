@@ -1,40 +1,214 @@
 [
-"http://benwest.us/terms-and-conditions",
-"https://accessibility-helper.co.il/",
-"https://angela4oregon.com/",
-"https://angela4oregon.com/about",
-"https://angela4oregon.com/angela-plowhead-launches-campaign-for-oregon-senate-district-10-pledges-to-restore-accountability-and-common-sense-leadership",
-"https://angela4oregon.com/communitysupport",
-"https://angela4oregon.com/contact-page",
-"https://angela4oregon.com/deb-patterson-sponsored-the-bill-that-broke-marion-countys-waste-system",
-"https://angela4oregon.com/donation-form",
-"https://angela4oregon.com/event-sign-up",
-"https://angela4oregon.com/press",
-"https://angela4oregon.com/priorities",
-"https://angela4oregon.com/privacypolicy",
-"https://angela4oregon.com/product/angela-plowhead-campaign-accent-mug-red-interior-handle",
-"https://angela4oregon.com/product/car-magnet",
-"https://angela4oregon.com/product/lets-fix-this-spiral-notebook",
-"https://angela4oregon.com/product/t-shirt-lets-fix-this",
-"https://angela4oregon.com/product/tote-bag-lets-fix-this-angela-plowhead",
-"https://angela4oregon.com/request-yard-sign",
-"https://angela4oregon.com/share-your-story",
-"https://angela4oregon.com/shop",
-"https://angela4oregon.com/srp_review_posts/cindy-loren-2",
-"https://angela4oregon.com/srp_review_posts/jamie-barclay-2",
-"https://angela4oregon.com/srp_review_posts/jubilee4america",
-"https://angela4oregon.com/srp_review_posts/jubilee4america-2",
-"https://angela4oregon.com/srp_review_posts/jubilee4america-3",
-"https://angela4oregon.com/srp_review_posts/mike-slagle",
-"https://angela4oregon.com/terms-and-conditions",
-"https://angela4oregon.com/volunteer-sign-up",
-"https://angela4oregon.com/why-the-cost-of-living-changes-at-state-borders-and-why-oregon-cant-ignore-it-anymore",
-"https://burnettmediagroup.com/",
-"https://facebook.com/angela4oregon",
-"https://hapigood.com/",
-"https://hapigood.com/service/angela-plowhead",
-"https://hostdoodle.com/",
-"https://instagram.com/angelafororegon",
-"https://secure.anedot.com/angelafororegon/donate",
-"https://x.com/angelafororegon"
+{
+"text": "About",
+"href": "https://angela4oregon.com/about/"
+},
+{
+"text": "Accessibility by WAH",
+"href": "https://accessibility-helper.co.il/"
+},
+{
+"text": "Angela Plowhead Launches Campaign for Oregon Senate District 10, Pledges to Restore Accountability and Common-Sense Leadership",
+"href": "https://angela4oregon.com/angela-plowhead-launches-campaign-for-oregon-senate-district-10-pledges-to-restore-accountability-and-common-sense-leadership/"
+},
+{
+"text": "Burnett Media Group",
+"href": "https://www.burnettmediagroup.com/"
+},
+{
+"text": "By Angela Plowhead - Oregon State Senate CandidateOregonians don’t experienc...",
+"href": "https://angela4oregon.com/why-the-cost-of-living-changes-at-state-borders-and-why-oregon-cant-ignore-it-anymore/"
+},
+{
+"text": "Contact",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contact Angela",
+"href": "https://angela4oregon.com/contact-page/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/angelafororegon/donate"
+},
+{
+"text": "Deb Patterson Sponsored the Bill That Broke Marion County’...",
+"href": "https://angela4oregon.com/deb-patterson-sponsored-the-bill-that-broke-marion-countys-waste-system/"
+},
+{
+"text": "Donate",
+"href": "https://angela4oregon.com/donation-form/"
+},
+{
+"text": "Email:Communications@angela4oregon.com",
+"href": "mailto:Communications@angela4oregon.com"
+},
+{
+"text": "Event Sign-Up",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "Events",
+"href": "https://angela4oregon.com/event-sign-up/"
+},
+{
+"text": "FOR IMMEDIATE RELEASEApril 8, 2025Salem, OR Dr. Angela Plowhead, U.S. Air Force veteran, clinical psychologist, and small business owner, has announced her candidacy for Oregon State Senate District 10. Running to b...",
+"href": "https://angela4oregon.com/angela-plowhead-launches-campaign-for-oregon-senate-district-10-pledges-to-restore-accountability-and-common-sense-leadership/"
+},
+{
+"text": "Go to shop",
+"href": "https://angela4oregon.com/shop"
+},
+{
+"text": "Hostdoodle",
+"href": "https://www.hostdoodle.com"
+},
+{
+"text": "More",
+"href": "https://angela4oregon.com/communitysupport/"
+},
+{
+"text": "More",
+"href": "https://angela4oregon.com/press/"
+},
+{
+"text": "News",
+"href": "https://angela4oregon.com/press/"
+},
+{
+"text": "Priorities",
+"href": "https://angela4oregon.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://angela4oregon.com/privacypolicy/"
+},
+{
+"text": "Published on SalemReporter.com Nearly a year after Senator Deb Patterson’...",
+"href": "https://angela4oregon.com/deb-patterson-sponsored-the-bill-that-broke-marion-countys-waste-system/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/priorities/#is1"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/priorities/#is2"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/priorities/#is3"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/cindy-loren-2/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/jamie-barclay-2/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/jubilee4america-2/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/jubilee4america-3/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/jubilee4america/"
+},
+{
+"text": "Read more",
+"href": "https://angela4oregon.com/srp_review_posts/mike-slagle/"
+},
+{
+"text": "Share Your Story",
+"href": "https://angela4oregon.com/share-your-story/"
+},
+{
+"text": "Share your experience",
+"href": "https://hapigood.com/service/angela-plowhead/"
+},
+{
+"text": "Shop",
+"href": "https://angela4oregon.com/shop/"
+},
+{
+"text": "Site:www.Angela4Oregon.com",
+"href": "https://www.angela4oregon.com"
+},
+{
+"text": "Support",
+"href": "https://angela4oregon.com/communitysupport/"
+},
+{
+"text": "Terms and Conditions",
+"href": "http://benwest.us/terms-and-conditions/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://angela4oregon.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://angela4oregon.com/volunteer-sign-up/"
+},
+{
+"text": "Why the Cost of Living Changes at State Borders — and Why ...",
+"href": "https://angela4oregon.com/why-the-cost-of-living-changes-at-state-borders-and-why-oregon-cant-ignore-it-anymore/"
+},
+{
+"text": "Yard Sign",
+"href": "https://angela4oregon.com/request-yard-sign/"
+},
+{
+"text": "[image: Angela Plowhead Campaign Accent Mug — Red Interior & Handle]Angela Plowhead Campaign Accent Mug — Red Interior & Handle $15.56 – $17.28Price range: $15.56 through $17.28",
+"href": "https://angela4oregon.com/product/angela-plowhead-campaign-accent-mug-red-interior-handle/"
+},
+{
+"text": "[image: Car Magnet]Car Magnet $3.90 – $5.14Price range: $3.90 through $5.14",
+"href": "https://angela4oregon.com/product/car-magnet/"
+},
+{
+"text": "[image: Let's Fix This Spiral Notebook]Let’s Fix This Spiral Notebook $10.36",
+"href": "https://angela4oregon.com/product/lets-fix-this-spiral-notebook/"
+},
+{
+"text": "[image: T-Shirt — \"Let’s Fix This\"]T-Shirt — “Let’s Fix This” $15.51 – $22.08Price range: $15.51 through $22.08",
+"href": "https://angela4oregon.com/product/t-shirt-lets-fix-this/"
+},
+{
+"text": "[image: Tote Bag — “Let’s Fix This” Angela Plowhead]Tote Bag — “Let’s Fix This” Angela Plowhead $15.48 – $21.11Price range: $15.48 through $21.11",
+"href": "https://angela4oregon.com/product/tote-bag-lets-fix-this-angela-plowhead/"
+},
+{
+"text": "[image: logo]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[image]",
+"href": "https://angela4oregon.com"
+},
+{
+"text": "[no text]",
+"href": "https://angela4oregon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://hapigood.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/angela4oregon"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/angelafororegon/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/angelafororegon"
+}
 ]

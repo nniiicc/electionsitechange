@@ -1,6 +1,8 @@
-On April 23, 2026, Lee attended a job fair for members of the African community living in the Beltsville, MD area.
+Skip to content Havis For Senate Menu Close Donate Testimonials Issues News Events Open menu Lincoln Day Dinner with Cong.
+Jim Jordan Contact Us Open menu Join the team African Job Fair in Beltsville On April 23, 2026, Lee attended a job fair for members of the African community living in the Beltsville, MD area.
 At this event, he met a number of the local African-American citizens who were interested in discussing Republican campaign activities.
-Lee also met other Maryland Republican candidates at this event, such as Jesse Peed and Jonathan White, running for seats in the Prince George’s County Council.
-In addition, he spoke with John Myrick, Republican candidate for Maryland Governor.
+Lee also met other Maryland Republican candidates at this event, such as Jesse Peed and Jonathan White , running for seats in the Prince George’s County Council.
+In addition, he spoke with John Myrick , Republican candidate for Maryland Governor.
 A local Prince George’s County citizen, John spoke with Lee about issues of particular interest to the local county community, and how they might communicate further during this campaign season.
-John Myrick, Republican candidate for Maryland Governor (left), and Lee Havis (right)
+John Myrick, Republican candidate for Maryland Governor (left), and Lee Havis (right) Published May 7, 2026 By Lee Havis Categorized as news Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Δ Post navigation Previous post No to Speed Cameras Next post Candidate Forum in Laurel Archives Select Month August 2026 July 2026 May 2026 April 2026 October 2022 September 2022 August 2022 May 2022 December 2018 October 2018 September 2018 August 2018 July 2018 June 2018 April 2018 March 2018 January 2018 September 2017 July 2017 Search Search X Facebook LinkedIn Mail HAVIS FOR SENATE • Lee Havis, Republican Candidate, LD 21 • Maryland State Senate • lee@havisforsenate.com by authority, Havis for Senate, Glenn Davis, Treasurer Privacy Policy

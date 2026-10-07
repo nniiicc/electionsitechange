@@ -1,5 +1,4 @@
-Privacy Policy
-Friends of Lisa Kaul ("LK4D," "we" or "us") operates https://www.lisa4ny.org ("Site").
+Skip to main content Privacy Policy Friends of Lisa Kaul ("LK4D," "we" or "us") operates https://www.lisa4ny.org ("Site").
 We respect your privacy.
 Our policy is simple.
 We do not sell, rent or share your information.
@@ -25,21 +24,15 @@ In addition, we use information collected online through cookies, web beacons an
 We also use this information to help diagnose technical and service problems, administer our Site, identify users of our Site, and gather demographic information about our Site visitors and customers.
 We use clickstream data to determine how much time users spend on web pages of our Site, how users navigate through our Site, and how we may tailor our Site to better meet the needs of our Site visitors.
 We do not respond to browser-initiated Do Not Track signals, as the internet industry is currently still working on Do Not Track standards, implementations, and solutions.
-Analytics
-Your Options
-We offer you certain choices about how we communicate with you and what information we collect from you.
+Analytics Your Options We offer you certain choices about how we communicate with you and what information we collect from you.
 Visitors may contact us at info@lisa4ny.org, providing us with your relevant contact information (phone number/s) and we will remove your information from our database.
 Visitors to the Site or who contact us offline or by phone or text who do not agree with this Privacy Policy should not use the Site.
-Data Protection Laws
-Our Website is intended for use by individuals located in the United States.
-Links To Other Websites
-Our Site may contain links to other websites for your convenience and information.
+Data Protection Laws Our Website is intended for use by individuals located in the United States.
+Links To Other Websites Our Site may contain links to other websites for your convenience and information.
 These websites may be operated by companies not affiliated with LK4D.
 Linked websites typically have their own privacy policies or notices, which we strongly suggest you review if you visit any linked websites.
 We are not responsible for the content of any websites that are not affiliated with LK4D, any use of those websites, or the privacy practices of those websites.
-Updates To Our Privacy Policy
-This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
+Updates To Our Privacy Policy This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
 We suggest that you periodically review the Privacy Policy for amendments.
-How To Contact Us
-If you have any questions about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at info@lisa4ny.org.
-This Privacy Policy ("Privacy Policy") is effective as of 3/11/2023
+How To Contact Us If you have any questions about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at info@lisa4ny.org.
+This Privacy Policy ("Privacy Policy") is effective as of 3/11/2023 Press Kit Privacy Policy Paid for by Friends of Lisa Kaul 4 NYS

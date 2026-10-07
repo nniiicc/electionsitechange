@@ -1,4 +1,4 @@
-POSTERS & OUTREACH MATERIAL
-Help us spread the word about Joe.
+0 Skip to Content Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE POSTERS & OUTREACH MATERIAL Help us spread the word about Joe.
 Click to download posters and other outreach materials to share with your friends, family, neighbors and coworkers.
-Classic PosterProgram Points PosterOutreach MaterialSave the planet from Capitalism PosterWe Have the Means, We Need the Power PosterStop the Right-wing Assault Poster
+Classic Poster EN | PT Program Points Poster Outreach Material EN | PT | Kreyòl | ZH Save the planet from Capitalism Poster We Have the Means, We Need the Power Poster Stop the Right-wing Assault Poster Contact Us Privacy Policy For press inquiries, please contact press@tache4ma.com Press Kit PAID FOR BY JOE TACHE FOR SENATE ©# Joe Tache for Senate.
+All rights reserved.

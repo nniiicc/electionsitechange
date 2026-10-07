@@ -1,10 +1,42 @@
 [
-"https://facebook.com/RepTomHartnett",
-"https://instagram.com/hartnettfor110",
-"https://votehartnett.com/",
-"https://votehartnett.com/about",
-"https://votehartnett.com/donate",
-"https://votehartnett.com/issues",
-"https://votehartnett.com/privacy-policy",
-"https://x.com/hartnettfor110"
+{
+"text": "About",
+"href": "https://www.votehartnett.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.votehartnett.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votehartnett.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votehartnett.com/issues"
+},
+{
+"text": "Paid for by Tom Harnett for 110",
+"href": "https://www.votehartnett.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votehartnett.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepTomHartnett"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/hartnettfor110/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/hartnettfor110"
+},
+{
+"text": "hartnettfor110@gmail.com",
+"href": "mailto:hartnettfor110@gmail.com"
+}
 ]

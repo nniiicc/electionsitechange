@@ -1,8 +1,5 @@
-A PRINCIPLED Leader
-With Volusia County VALUES
-Fighting for Affordability
-Taking Action to Reduce Gas and Grocery Costs
-Fighting for Better Public Schools
-Webster knows that for our children to succeed they need a world-class education system and the best teachers.
-Improving Our Quality of Life in Volusia County
-Webster wants to make Volusia County an even better place to live, work and raise a family.
+Donate Principled &starf; Experienced &starf; Fighting for Us Webster Barnaby has spent the better part of 30 years contributing to and fighting for our community.
+As a former Deltona City Commissioner, Board Member of Trinity Christian Academy, and former President of Southwest Volusia Republican Club as well as a business leader with decades of experience, we can trust that Webster Barnaby has the right skills to represent us in Tallahassee and stand up for our values.
+“From fighting against inflation to protecting the unborn and defending our second amendment rights, I will always deliver the conservative victories that matter for Volusia families. ” -Webster Barnaby A PRINCIPLED Leader With Volusia County VALUES Fighting for Affordability Taking Action to Reduce Gas and Grocery Costs Fighting for Better Public Schools Webster knows that for our children to succeed they need a world-class education system and the best teachers.
+Improving Our Quality of Life in Volusia County Webster wants to make Volusia County an even better place to live, work and raise a family.
+Follow on Facebook Donate Today Keep Up with the Campaign Sign Up Paid by Webster Barnaby, Republican, for State Representative

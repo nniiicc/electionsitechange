@@ -1,12 +1,50 @@
 [
-"https://bethbosworthformaine.com/",
-"https://bethbosworthformaine.com/about",
-"https://bethbosworthformaine.com/contact",
-"https://bethbosworthformaine.com/donate",
-"https://bethbosworthformaine.com/endorsements",
-"https://bethbosworthformaine.com/events",
-"https://bethbosworthformaine.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com//profile.php?id=61586404321912",
-"https://instagram.com/bethbosworthmaine"
+{
+"text": "About",
+"href": "https://www.bethbosworthformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bethbosworthformaine.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.bethbosworthformaine.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethbosworthformaine.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethbosworthformaine.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.bethbosworthformaine.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bethbosworthformaine.com/volunteer"
+},
+{
+"text": "[image: Beth Bosworth for Maine Senate]",
+"href": "https://www.bethbosworthformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com//profile.php?id=61586404321912"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bethbosworthmaine/"
+},
+{
+"text": "bethbosworthformaine@gmail.com",
+"href": "mailto:bethbosworthformaine@gmail.com"
+}
 ]

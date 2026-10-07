@@ -1,34 +1,130 @@
 [
-"https://facebook.com/representativejamesoday",
-"https://repjimoday.com/",
-"https://repjimoday.com/2008",
-"https://repjimoday.com/2011-2012",
-"https://repjimoday.com/2013-2014",
-"https://repjimoday.com/2015-2016",
-"https://repjimoday.com/2017",
-"https://repjimoday.com/2018",
-"https://repjimoday.com/2019",
-"https://repjimoday.com/2021",
-"https://repjimoday.com/2021-1",
-"https://repjimoday.com/2022",
-"https://repjimoday.com/2023",
-"https://repjimoday.com/2024",
-"https://repjimoday.com/2025",
-"https://repjimoday.com/2026",
-"https://repjimoday.com/constituent-services",
-"https://repjimoday.com/contact",
-"https://repjimoday.com/contact-us",
-"https://repjimoday.com/gallery",
-"https://repjimoday.com/interviews",
-"https://repjimoday.com/issues-1",
-"https://repjimoday.com/meet-jim",
-"https://repjimoday.com/meet-the-staff",
-"https://repjimoday.com/newsroom",
-"https://repjimoday.com/newsroom-1",
-"https://repjimoday.com/press-releases",
-"https://repjimoday.com/s-projects-basic",
-"https://repjimoday.com/s-projects-side-by-side",
-"https://repjimoday.com/stay-connected",
-"https://repjimoday.com/the-district",
-"https://twitter.com/RepJimODay"
+{
+"text": "2009-2010",
+"href": "https://www.repjimoday.com/2008"
+},
+{
+"text": "2011-2012",
+"href": "https://www.repjimoday.com/2011-2012"
+},
+{
+"text": "2013-2014",
+"href": "https://www.repjimoday.com/2013-2014"
+},
+{
+"text": "2015-2016",
+"href": "https://www.repjimoday.com/2015-2016"
+},
+{
+"text": "2017",
+"href": "https://www.repjimoday.com/2017"
+},
+{
+"text": "2018",
+"href": "https://www.repjimoday.com/2018"
+},
+{
+"text": "2019",
+"href": "https://www.repjimoday.com/2019"
+},
+{
+"text": "2020",
+"href": "https://www.repjimoday.com/2021"
+},
+{
+"text": "2021",
+"href": "https://www.repjimoday.com/2021-1"
+},
+{
+"text": "2022",
+"href": "https://www.repjimoday.com/2022"
+},
+{
+"text": "2023",
+"href": "https://www.repjimoday.com/2023"
+},
+{
+"text": "2024",
+"href": "https://www.repjimoday.com/2024"
+},
+{
+"text": "2025",
+"href": "https://www.repjimoday.com/2025"
+},
+{
+"text": "2026",
+"href": "https://www.repjimoday.com/2026"
+},
+{
+"text": "ADVOCACY",
+"href": "https://www.repjimoday.com/s-projects-basic"
+},
+{
+"text": "CONSTITUENT SERVICES",
+"href": "https://www.repjimoday.com/constituent-services"
+},
+{
+"text": "CONTACT",
+"href": "https://www.repjimoday.com/contact"
+},
+{
+"text": "CONTACT US",
+"href": "https://www.repjimoday.com/contact-us"
+},
+{
+"text": "GALLERY",
+"href": "https://www.repjimoday.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.repjimoday.com"
+},
+{
+"text": "ISSUES & POLICIES",
+"href": "https://www.repjimoday.com/issues-1"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.repjimoday.com/s-projects-side-by-side"
+},
+{
+"text": "MEET JIM",
+"href": "https://www.repjimoday.com/meet-jim"
+},
+{
+"text": "MEET THE STAFF",
+"href": "https://www.repjimoday.com/meet-the-staff"
+},
+{
+"text": "NEWS",
+"href": "https://www.repjimoday.com/newsroom"
+},
+{
+"text": "NEWSROOM",
+"href": "https://www.repjimoday.com/newsroom-1"
+},
+{
+"text": "PRESS RELEASES",
+"href": "https://www.repjimoday.com/press-releases"
+},
+{
+"text": "STAY CONNECTED",
+"href": "https://www.repjimoday.com/stay-connected"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.repjimoday.com/the-district"
+},
+{
+"text": "VIDEOS",
+"href": "https://www.repjimoday.com/interviews"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/representativejamesoday/"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://twitter.com/RepJimODay"
+}
 ]

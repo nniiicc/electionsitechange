@@ -1,8 +1,26 @@
 [
-"https://facebook.com/michelegrimforohio",
-"https://instagram.com/michelegrim",
-"https://michelegrim.com/",
-"https://michelegrim.com/cart",
-"https://michelegrim.com/meet",
-"https://secure.actblue.com/donate/micheleforohio"
+{
+"text": "0",
+"href": "https://www.michelegrim.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.michelegrim.com/meet"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/micheleforohio"
+},
+{
+"text": "MICHELE GRIM FOR OHIO",
+"href": "https://www.michelegrim.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/michelegrimforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/michelegrim/"
+}
 ]

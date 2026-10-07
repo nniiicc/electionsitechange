@@ -1,6 +1,4 @@
-Your name believes in
-Supporting Women’s Rights and Women’s Health
-As a candidate and as a former legislator I have firmly supported women’s freedom to make choices about reproductive care with their doctors, and I have consistently supported funding and access to a full range of reproductive health care for women of all ages including contraception.
+Skip navigation menu Meet Fred Issues New Northwoods Endorsements Volunteer MERCH Donate Meet Fred Issues New Northwoods Endorsements Volunteer MERCH Donate Putting the Reins on Data Centers Making Artificial Intelligence Work For Us Supporting Women’s Rights and Women’s Health Border Safety and Immigration Our Constitution and the Rule of Law Health Care for Everyone Your name believes in Supporting Women’s Rights and Women’s Health As a candidate and as a former legislator I have firmly supported women’s freedom to make choices about reproductive care with their doctors, and I have consistently supported funding and access to a full range of reproductive health care for women of all ages including contraception.
 Access to health care is one of the best determinants of long term health and lower long-term health care expenses.
 However, far too many women today lack access to adequate reproductive health care, and even the basic health care they need.
 Maternal mortality and related complications and infant mortality in the U.S. are far higher (>23%) than those in similarly large and developed countries.
@@ -14,12 +12,10 @@ Recent actions by the FDA and state courts to ban or limit use of mifepristone w
 Health outcomes for women are continuing to get worse under the Trump Administration.
 The massive cuts to Medicaid funding in 2027 are likely to dramatically limit access to health care and maternal care for low income women, and further worsen health care outcomes for women of all ages.
 The impacts of Medicaid cuts will affect northern Wisconsin especially hard as our region already suffers from sparsity of health care providers and because a higher proportion of northern Wisconsin residents currently rely on Medicaid for basic care.
-In Congress I will support:
-- Passage of the Women’s Health Protection Act, creating a new legal protection for the right to provide and access abortion, free from medically unnecessary restrictions and bans.
-- Codifying a right to sell and distribute mifepristone and other abortion medications in interstate commerce.
-- Ensuring access and adequate funding for preventative health, maternal care, pre-natal and post-natal care, for women of all ages and incomes.
-- Requiring states receiving federal funds to guarantee to provide medically indicated care to all women before, during, and after pregnancy.
-- Immediately restoring funding for Affordable Care Act Tax Credits
-- Immediately restoring funding for Medicaid to ensure women in need of financial assistance retain access to basic care.
-- Expanding Medicare services to cover more of women’s unique health care needs
-- Establishing a viable and comprehensive public option for health care available for reasonable cost to all Americans.
+In Congress I will support: Passage of the Women’s Health Protection Act, creating a new legal protection for the right to provide and access abortion, free from medically unnecessary restrictions and bans.
+Codifying a right to sell and distribute mifepristone and other abortion medications in interstate commerce.
+Ensuring access and adequate funding for preventative health, maternal care, pre-natal and post-natal care, for women of all ages and incomes.
+Requiring states receiving federal funds to guarantee to provide medically indicated care to all women before, during, and after pregnancy.
+Immediately restoring funding for Affordable Care Act Tax Credits Immediately restoring funding for Medicaid to ensure women in need of financial assistance retain access to basic care.
+Expanding Medicare services to cover more of women’s unique health care needs Establishing a viable and comprehensive public option for health care available for reasonable cost to all Americans.
+Request a Yard Sign Events Media Contact Privacy Policy info@clarkforwi.com Powered by RUN! website builder Paid for by Fred Clark for Wisconsin PO Box 385, Washburn, WI 54891 You need to enable JavaScript to run this app.

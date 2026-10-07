@@ -1,7 +1,3 @@
-| Event Start Date: April 15, 2026 | Event End Date: April 15, 2026 | Event Venue: Schweitzer Brentwood Branch Library |
-Join Cecil Ince, candidate for Missouri State Senate District 30, for a Town Hall Meeting on Missouri Tax Reform!
-* Share your thoughts on Missouri’s tax system and how it affects you
-* Hear Cecil’s plan for tax reform and reduced government spending
-* Engage in open discussion with Cecil and fellow community members
-* Learn about the impact of taxes on local businesses, education, and healthcare
-We hope to see you there!
+Skip to content Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us Cecil Ince for Missouri State Senate Vote November 3rd Event Start Date: April 15, 2026 Event End Date: April 15, 2026 Event Venue: Schweitzer Brentwood Branch Library Join Cecil Ince, candidate for Missouri State Senate District 30, for a Town Hall Meeting on Missouri Tax Reform! * Share your thoughts on Missouri’s tax system and how it affects you * Hear Cecil’s plan for tax reform and reduced government spending * Engage in open discussion with Cecil and fellow community members * Learn about the impact of taxes on local businesses, education, and healthcare We hope to see you there!
+PAID FOR BY THE COMMITTEE TO ELECT CECIL INCE Toggle Statistics Statistics Toggle Google Analytics Google Analytics Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.
+Service URL: policies.google.com (opens in a new window) Accept All Close Save and Close Powered by (opens in a new window) Home Candidate Bio Platform Issues Donate Volunteer Campaign Calendar In the News Endorsements Adopt-a-street Links Contact Us

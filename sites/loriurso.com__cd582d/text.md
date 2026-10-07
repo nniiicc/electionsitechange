@@ -1,4 +1,4 @@
-Lori Urso is a Democrat representing District 8 (Pawtucket) in the Rhode Island State Senate.
+A Strong Voice in the Senate for Pawtucket Proudly and responsibly serving the people of District 8, the City of Pawtucket and the State of Rhode Island ENDORSed by: Meet Senator Urso About Lori Lori Urso is a Democrat representing District 8 (Pawtucket) in the Rhode Island State Senate.
 She was elected in November 2024.
 In her first year, Senator Urso passed legislation that amended the state’s Fair Employment Practices Act to require workplace accommodations for women during the menopause transition, making Rhode Island the first in the nation to enshrine these protections into law.
 That bill quickly became model legislation in numerous states and was passed as an ordinance by the Philadelphia City Council.
@@ -16,45 +16,18 @@ She was awarded a Lifetime Achievement Award from the U.S.
 Environmental Protection Agency Region 1 in 2008 for her efforts in fisheries restoration, and the improvement of recreational access to the rivers.
 She holds a Master of Public Administration from the University of Rhode Island, and a Bachelor of Arts in Biology from Rutgers University.
 She was a 2013 Rhode Island Foundation Leadership Fellow, and served on the Westerly Town Council from 2000-2002.
-- Primary and home care
-- Artificial Intelligence safety and privacy
-- Animal welfare, and increasing penalties for abusers
-- Improved accessibility for the mobility impaired
-- Women's health, and issues for working women
-- Main Street revitalization, downtown development and tourism
-- Early educator workforce stability
-- Housing supply and affordability
-- Mental health and opioid crisis
-- Multilingual and dual-language learning
-- Support for Veterans
-- Age-friendly Pawtucket
-- Secretary, Senate Committee on Health and Human Services
-- Senate Committee on Artificial Intelligence and Emerging Technologies
-- Senate Committee on Environment and Agriculture
-Please share your questions or concerns using the form below.
-You can also reach Senator Urso via email or phone:
-- sen-urso@rilegislature.gov
-- 401-276-5567
-Senate Bills 2151 (ENACTED), 2397, and 2610
-Senator Urso has introduced three bills this session that would make Rhode Island a safer place for our furry friends.
+Key Priorities Primary and home care Artificial Intelligence safety and privacy Animal welfare, and increasing penalties for abusers Improved accessibility for the mobility impaired Women's health, and issues for working women Main Street revitalization, downtown development and tourism Early educator workforce stability Housing supply and affordability Mental health and opioid crisis Multilingual and dual-language learning Support for Veterans Age-friendly Pawtucket Committee Assignments Secretary, Senate Committee on Health and Human Services Senate Committee on Artificial Intelligence and Emerging Technologies Senate Committee on Environment and Agriculture Get in Touch Please share your questions or concerns using the form below.
+You can also reach Senator Urso via email or phone: sen-urso@rilegislature.gov 401-276-5567 legislation SenATOR Urso Is working on IN 2026 Animal Welfare Package Senate Bills 2151 (ENACTED), 2397 , and 2610 Senator Urso has introduced three bills this session that would make Rhode Island a safer place for our furry friends.
 The bills will allow animal control officers to take immediate possession of neglected or abused animals, increase the abysmally low penalties for those who abuse dogs, and allow pet owners to seek damages if a caretaker harms or kills their pet due to malpractice or neglect.
-Senate Bills 2195 and 2197 (BOTH ENACTED)
-Artificial Intelligence (AI) chatbots are powerful tools that can
-have concerning impacts.
-These bills, which are part of the
-Senate Health Care Package, would require safety features on
-chatbots to flag suicidal ideation or harmful intentions, and
-ensure proper consent for AI use in mental health practice.
-Senate Bill 2178 (ENACTED)
-Mobility-impaired Rhode Islanders with adaptive vehicles deal with the unnecessary inconvenience of temporary "hang tags" for parking.
-This bill
-will create a permanent registration plate for adaptive vehicles, eliminating
-the need for a hang tag, to make parking, and life, a little easier.
-Senate Funding Resolution 2676 (ENACTED)
-This resolution would secure $150,000 for the second year of the Main Street Rhode Island Program - established in 2025 through Senator Urso's legislation.
+Artificial Intelligence and Mental Health Senate Bills 2195 and 2197 (BOTH ENACTED) Artificial Intelligence (AI) chatbots are powerful tools that can have concerning impacts.
+These bills, which are part of the Senate Health Care Package, would require safety features on chatbots to flag suicidal ideation or harmful intentions, and ensure proper consent for AI use in mental health practice.
+Adaptive Vehicle Registration Plates Senate Bill 2178 (ENACTED) Mobility-impaired Rhode Islanders with adaptive vehicles deal with the unnecessary inconvenience of temporary "hang tags" for parking.
+This bill will create a permanent registration plate for adaptive vehicles, eliminating the need for a hang tag, to make parking, and life, a little easier.
+Main Street Revitalization Senate Funding Resolution 2676 (ENACTED) This resolution would secure $150,000 for the second year of the Main Street Rhode Island Program - established in 2025 through Senator Urso's legislation.
 The program supports community based revitalization efforts in downtown corridors in our state, including here in Pawtucket.
-Senate Bill 2116 (ENACTED)
-PASSED - Senator Urso's bill to allow Certified Foot Care Nurses to provide routine foot care in the home was signed into law by Governor McKee on April 29, making preventative care more accessible to Rhode Islanders.
-Add your email to Senator Urso's newsletter list.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+In-Home Routine Foot Care Senate Bill 2116 (ENACTED) PASSED - Senator Urso's bill to allow Certified Foot Care Nurses to provide routine foot care in the home was signed into law by Governor McKee on April 29, making preventative care more accessible to Rhode Islanders.
+Subscribe Email Sign up Add your email to Senator Urso's newsletter list.
+Contact Senator Urso Let's talk about what's important to the residents of District 8 and Pawtucket.
+Name Email* Best way to contact you: Attach Files Attachments (0) SEND This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Senator Lori Urso - District 8, Pawtucket Follow Along Paid for by Lori Urso for Pawtucket - All Rights Reserved.
+Powered by

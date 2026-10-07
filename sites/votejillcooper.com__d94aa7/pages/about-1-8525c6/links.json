@@ -1,6 +1,18 @@
 [
-"https://facebook.com/votejillcooper",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today",
-"https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=5",
-"https://votejillcooper.com/"
+{
+"text": "KEEP JILL FIGHTING FOR US IN HARRISBURG. DONATE NOW!",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today"
+},
+{
+"text": "PENNSYLVANIA'S 55TH LEGISLATIVE DISTRICT",
+"href": "https://secure.winred.com/friends-of-jill-cooper/donate-today?amount=5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/votejillcooper"
+},
+{
+"text": "[image: Logo_Transparent.png]",
+"href": "https://www.votejillcooper.com"
+}
 ]

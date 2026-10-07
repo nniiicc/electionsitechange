@@ -1,4 +1,5 @@
-I would like to take a few minutes to introduce myself.
+Home Volunteer Contact Contribute Endorsements Photos Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Need Voting Information?
+Register & Find Your Polling Location Click Here for Information I would like to take a few minutes to introduce myself.
 My name is Brian Lawson.
 I was born and raised in Spartanburg, SC and graduated from Paul M.
 Dorman High School.
@@ -18,3 +19,5 @@ I served as President of the South Carolina Ambulance Provider's Association, wh
 I then served on their board for four years, representing the private ambulance providers in South Carolina.
 If you choose to re-elect me to represent you in Columbia, I will continue working closely with Senator Peeler and Representative Moss, along with other Representatives and Senators, whom I have formed good working relationships with, to tackle the issues that are important to all the people of South Carolina House District 30, and to the people of the counties I serve.
 If you live in SC House District 30, feel free to fill out the contact form or call me directly on my cell phone at 864-809-3501 to discuss matters of importance to you.
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Voter Information Volunteer Contribute Contact Endorsements Photos Privacy Policy paid for by Lawson for SC House Seat 30 Powered by CampaignPartner.com - Political Websites Home Contribute Volunteer Contact Voter Information Endorsements Photos Privacy Policy Close Menu

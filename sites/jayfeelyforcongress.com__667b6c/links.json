@@ -1,13 +1,50 @@
 [
-"https://jayfeelyforcongress.com/",
-"https://jayfeelyforcongress.com/cart",
-"https://jayfeelyforcongress.com/contact",
-"https://jayfeelyforcongress.com/issues",
-"https://jayfeelyforcongress.com/media-kit",
-"https://jayfeelyforcongress.com/meet-jay",
-"https://jayfeelyforcongress.com/news",
-"https://jayfeelyforcongress.com/podcasts",
-"https://secure.winred.com/feely-for-congress/donate",
-"https://x.com/jayfeely",
-"https://youtube.com/channel/UC0nIMFhA6Htn8MmsrKm7i2w"
+{
+"text": "0",
+"href": "https://www.jayfeelyforcongress.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.jayfeelyforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/feely-for-congress/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.jayfeelyforcongress.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.jayfeelyforcongress.com/meet-jay"
+},
+{
+"text": "MEDIA",
+"href": "https://www.jayfeelyforcongress.com/media-kit"
+},
+{
+"text": "Meet Jay",
+"href": "https://www.jayfeelyforcongress.com/meet-jay"
+},
+{
+"text": "News",
+"href": "https://www.jayfeelyforcongress.com/news"
+},
+{
+"text": "PODCASTS",
+"href": "https://www.jayfeelyforcongress.com/podcasts"
+},
+{
+"text": "[image: Jay Feely for Congress]",
+"href": "https://www.jayfeelyforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC0nIMFhA6Htn8MmsrKm7i2w"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jayfeely"
+}
 ]

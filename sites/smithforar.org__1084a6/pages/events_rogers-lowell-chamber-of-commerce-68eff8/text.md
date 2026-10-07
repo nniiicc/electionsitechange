@@ -1,11 +1,4 @@
-Back to All Events
-Hob Nob at Joint Benton County Business After Hours provides regional businesses and entrepreneurs with the opportunity to connect face-to-face with local legislative candidates.
+Skip to Content Open Menu Close Menu Home About Issues Events Donate Store Get Involved 0 0 Home About Issues Events Donate Store Get Involved 0 0 Open Menu Close Menu Home About Issues Events Donate Store Get Involved Back to All Events Rogers-Lowell Chamber of Commerce Hob Nob at Joint Business After Hours Thursday, February 5, 2026 5:00 PM 7:00 PM NW Arkansas Community College: Walmart Auditorium at Shewmaker Center for Workforce Technologies 1000 SE Eagle Way Bentonville, AR 72712 United States (map) Google Calendar ICS Hob Nob at Joint Benton County Business After Hours provides regional businesses and entrepreneurs with the opportunity to connect face-to-face with local legislative candidates.
 No registration required to come talk to me and other local candidates about the issues that matter to you and your business.
 Hope to see you there!
-Previous
-Previous
-January 31
-Stronger Together: Districts 10 & 13 Campaign Kickoff
-Next
-Next
-March 3
+Source: https://www.rogerslowell.com/events/2026/02/05/business-connect-events/hob-nob-at-joint-business-after-hours/ Previous Previous January 31 Stronger Together: Districts 10 & 13 Campaign Kickoff Next Next March 3 Primary and Nonpartisan Election Day Paid for By Mitchell Smith For AR 13

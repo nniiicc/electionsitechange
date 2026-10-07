@@ -1,19 +1,122 @@
 [
-"https://bsky.app/profile/paulbarringer.com",
-"https://facebook.com/paulbarringernc",
-"https://instagram.com/paulbarringernc",
-"https://paulbarringer.com/",
-"https://paulbarringer.com/about",
-"https://paulbarringer.com/endorsements",
-"https://paulbarringer.com/events",
-"https://paulbarringer.com/media",
-"https://paulbarringer.com/priorities",
-"https://paulbarringer.com/privacy",
-"https://paulbarringer.com/volunteer",
-"https://secure.actblue.com/donate/paulbarringer",
-"https://threads.com/@paulbarringernc",
-"https://tiktok.com/@paulbarringernc",
-"https://x.com/PaulBarringerNC",
-"https://xpslane.com/",
-"https://youtube.com/@PaulBarringerforCongress"
+{
+"text": "About",
+"href": "https://paulbarringer.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/paulbarringer"
+},
+{
+"text": "Endorsements",
+"href": "https://paulbarringer.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://paulbarringer.com/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Home",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "Media",
+"href": "https://paulbarringer.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://paulbarringer.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://paulbarringer.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://paulbarringer.com/volunteer"
+},
+{
+"text": "[image: Paul Barringer Democrat for Congress]",
+"href": "https://paulbarringer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/paulbarringer.com"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#agriculture"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#conservation"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#education"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#fiscalpolicy"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#foreignpolicy"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#gunrights"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#healthcare"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#immigration"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#police"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#reproductive"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#tariffs"
+},
+{
+"text": "[no text]",
+"href": "https://paulbarringer.com/priorities#veterans"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/paulbarringernc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@paulbarringernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@PaulBarringerforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PaulBarringerNC"
+}
 ]

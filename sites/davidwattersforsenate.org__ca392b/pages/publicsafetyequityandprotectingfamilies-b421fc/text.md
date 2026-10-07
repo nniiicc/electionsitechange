@@ -1,5 +1,4 @@
-Public Safety, Equity, and Protecting Families
-New Hampshire must be an opportunity state where all are welcome in our safe communities and have the freedom to live their lives.
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Public Safety, Equity, and Protecting Families New Hampshire must be an opportunity state where all are welcome in our safe communities and have the freedom to live their lives.
 Senator Watters will always fight for women's reproductive rights.
 He strongly supports LGBTQ+ equality, having worked to pass marriage equality, and establish gender identity as a recognized and protected right, as well as bills to enable the LGBTQ+ community to have appropriate recognition on driver’s licenses and birth certificates.
 Welcoming communities means opportunity for our more recent arrivals, such as the vibrant Indonesian community in Somersworth and Dover.
@@ -10,3 +9,6 @@ He also supports increases in funding for substance use disorders, mental health
 Senator Watters introduced legislation to repeal the so-called “divisive concepts” language enacted in the 2021 budget, provisions which handcuff classroom education and subject teachers to legal action.
 As a member of the New England Commission on Education in Prison, Senator Watters works in collaboration with correction officials, educators, and legislators from across the region to increase opportunities for education and job training for incarcerated individuals, including after their release.
 His amendment to the Capital Budget provided funding for the building of a trades education facility, including woodworking, at the New Hampshire Women’s Prison.
+Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

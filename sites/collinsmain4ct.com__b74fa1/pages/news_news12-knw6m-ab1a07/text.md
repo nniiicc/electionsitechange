@@ -1,4 +1,3 @@
-News 12 Connecticut: Recapping the 146th State House District Race
-News 12 Staff • Nov 9, 2024 at 7:48 PM • Updated 21 hr ago
-There were several new state leaders that were elected in the 2024 Elections.
-(Scroll down to the second video to watch State Representative-Elect Collins Main’s interview.)
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting News 12 Connecticut: Recapping the 146th State House District Race Nov 9 Written By Miles Halpine News 12 Staff • Nov 9, 2024 at 7:48 PM • Updated #ago There were several new state leaders that were elected in the 2024 Elections.
+(Scroll down to the second video to watch State Representative-Elect Collins Main’s interview.) Miles Halpine Previous Previous The Stamford Current: Collins Main, Stamford Delegation Obtain Funding for Pacific House Next Next Stamford Advocate op-ed: Eilish Collins Main (opinion): My pledge to the 146th Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the latest John Lemondes news and developments in the New York Assembly, advocating for Cayuga County farmers and community interests.",
  "final_url": "https://johnlemondes.com/in-the-news",
- "paid_for_by": null,
+ "fingerprint": "f39c97e316e4b44eb55d33c4b483510919fdf34d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "In The News",
  "years_mentioned": []
 }

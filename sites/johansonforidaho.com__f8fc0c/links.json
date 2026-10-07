@@ -1,9 +1,34 @@
 [
-"https://johansonforidaho.com/",
-"https://johansonforidaho.com/about",
-"https://johansonforidaho.com/cart",
-"https://johansonforidaho.com/contact",
-"https://johansonforidaho.com/the-issues",
-"https://squarespace.com/",
-"https://x.com/Johanson4Idaho"
+{
+"text": "0",
+"href": "https://www.johansonforidaho.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.johansonforidaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.johansonforidaho.com/contact"
+},
+{
+"text": "Johanson for Idaho",
+"href": "https://www.johansonforidaho.com/"
+},
+{
+"text": "Learn More",
+"href": "https://www.johansonforidaho.com/about"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.johansonforidaho.com/the-issues"
+},
+{
+"text": "View Updates",
+"href": "https://x.com/Johanson4Idaho"
+}
 ]

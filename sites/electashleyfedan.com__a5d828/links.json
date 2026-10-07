@@ -1,9 +1,42 @@
 [
-"https://electashleyfedan.com/",
-"https://electashleyfedan.com/about",
-"https://electashleyfedan.com/endorse",
-"https://electashleyfedan.com/endorsements",
-"https://electashleyfedan.com/get-involved",
-"https://electashleyfedan.com/priorities",
-"https://secure.actblue.com/donate/ashleyfedan"
+{
+"text": "About",
+"href": "https://electashleyfedan.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleyfedan"
+},
+{
+"text": "Endorse Ashley",
+"href": "https://electashleyfedan.com/endorse"
+},
+{
+"text": "Endorsements",
+"href": "https://electashleyfedan.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://electashleyfedan.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://electashleyfedan.com/"
+},
+{
+"text": "More Endorsements",
+"href": "https://electashleyfedan.com/endorsements"
+},
+{
+"text": "Priorities",
+"href": "https://electashleyfedan.com/priorities/"
+},
+{
+"text": "Read More",
+"href": "https://electashleyfedan.com/about"
+},
+{
+"text": "[image: Ashley Fedan]",
+"href": "https://electashleyfedan.com/"
+}
 ]

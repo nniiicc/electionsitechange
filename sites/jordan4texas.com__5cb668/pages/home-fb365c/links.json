@@ -1,23 +1,130 @@
 [
-"https://bsky.app/profile/jordan4texas.bsky.social",
-"https://facebook.com/profile.php?id=61571719114849",
-"https://instagram.com/jordan4texas",
-"https://instagram.com/p/DZDfSgKHGKx",
-"https://instagram.com/p/DZIXTYvHB4w",
-"https://instagram.com/p/DZYLJN9mR_f",
-"https://instagram.com/p/DZaUlXMDXPZ",
-"https://jordan4texas.com/",
-"https://jordan4texas.com/about",
-"https://jordan4texas.com/cart",
-"https://jordan4texas.com/endorsements",
-"https://jordan4texas.com/home",
-"https://jordan4texas.com/priorities",
-"https://jordan4texas.com/volunteer",
-"https://secure.actblue.com/donate/jordanwheatley",
-"https://secure.actblue.com/donate/jordanwheatley?amount=10",
-"https://secure.actblue.com/donate/jordanwheatley?amount=100",
-"https://secure.actblue.com/donate/jordanwheatley?amount=25",
-"https://secure.actblue.com/donate/jordanwheatley?amount=5",
-"https://secure.actblue.com/donate/jordanwheatley?amount=50",
-"https://x.com/Jordan4Tx"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jordanwheatley?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jordanwheatley?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jordanwheatley?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/jordanwheatley?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jordanwheatley?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.jordan4texas.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.jordan4texas.com/volunteer"
+},
+{
+"text": "Contact@Jordan4Texas.co",
+"href": "mailto:Contact@Jordan4Texas.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jordanwheatley"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jordanwheatley"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jordan4texas.com/endorsements"
+},
+{
+"text": "Get Involved!",
+"href": "https://www.jordan4texas.com/volunteer"
+},
+{
+"text": "Investing in Our Potential",
+"href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "JOrdan’s Priorities",
+"href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "Join!",
+"href": "https://www.jordan4texas.com/volunteer"
+},
+{
+"text": "Jordan's Priorities",
+"href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "Learn more",
+"href": "https://www.jordan4texas.com/about"
+},
+{
+"text": "Leveling the Playing Field",
+"href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "Meet Jordan",
+"href": "https://www.jordan4texas.com/about"
+},
+{
+"text": "Standing Up to Bullies",
+"href": "https://www.jordan4texas.com/priorities"
+},
+{
+"text": "[image: Conversations with our neighbors are how we flip Texas House District 67! Huge thanks to plesafortexas for having me speak yesterday. The energy in that room was incredible, and the takeaway from voters was loud and clear: people are deeply worried ][image: Conversations with our neighbors are how we flip Texas House District 67! Huge thanks to plesafortexas for having me speak yesterday. The energy in that room was incredible, and the takeaway from voters was loud and clear: people are deeply worried ]",
+"href": "https://www.instagram.com/p/DZYLJN9mR_f/"
+},
+{
+"text": "[image: Jordan Wheatley for State Representative District 67]",
+"href": "https://www.jordan4texas.com/"
+},
+{
+"text": "[image: To the LGBTQ+ community: Pride is an opportunity to honor the courage, resilience, and history of our ongoing fight for equality. Our community is often used as a scapegoat for the issues we face in this state and in this country. Let&rsquo;s be rea][image: To the LGBTQ+ community: Pride is an opportunity to honor the courage, resilience, and history of our ongoing fight for equality. Our community is often used as a scapegoat for the issues we face in this state and in this country. Let&rsquo;s be rea]",
+"href": "https://www.instagram.com/p/DZDfSgKHGKx/"
+},
+{
+"text": "[image: We had an AMAZING time at McKinney Pride this past weekend! It was thoughtfully organized and had a huge turnout. It was a great reminder that LOVE will always win over hate. #pride🌈 #mckinney #hd67 #weekendvibes][image: We had an AMAZING time at McKinney Pride this past weekend! It was thoughtfully organized and had a huge turnout. It was a great reminder that LOVE will always win over hate. #pride🌈 #mckinney #hd67 #weekendvibes]",
+"href": "https://www.instagram.com/p/DZaUlXMDXPZ/"
+},
+{
+"text": "[image: We just officially landed on the national radar! My race for the Texas House was just given a Target Race designation by the @dlcc 🚀 What does that mean? It means they see the incredible energy we&rsquo;re building right here in our community, and ][image: We just officially landed on the national radar! My race for the Texas House was just given a Target Race designation by the @dlcc 🚀 What does that mean? It means they see the incredible energy we&rsquo;re building right here in our community, and ]",
+"href": "https://www.instagram.com/p/DZIXTYvHB4w/"
+},
+{
+"text": "[image]",
+"href": "https://www.jordan4texas.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jordan4texas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61571719114849"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jordan4texas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Jordan4Tx"
+},
+{
+"text": "[no text]",
+"href": "mailto:contact@jordan4texas.com"
+},
+{
+"text": "m",
+"href": "mailto:Contact@Jordan4Texas.com"
+}
 ]

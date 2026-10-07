@@ -1,15 +1,12 @@
-PRESS RELEASE
-California Teachers Association Endorses Fresno County Supervisor Brian Pacheco For Assembly
-310,000 Educators Stand Behind Pacheco for State Assembly District 27
-The California Teachers Association (CTA), made up of 310,000 members, have announced their endorsement of Fresno County Supervisor Brian Pacheco in his race for Assembly District 27.
+Skip navigation menu Meet Brian Issues Endorsements News Media Get Involved Donate Meet Brian Issues Endorsements News Media Get Involved Donate PRESS RELEASE California YIMBY Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE Peace Officers Research Association of California Endorses Brian Pacheco For Assembly PRESS RELEASE Sheet Metal Workers’ Local 104 Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE California Teachers Association Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE Madera County Young Democrats Endorse Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE North Valley Labor Federation Endorses Fresno County Supervisor Brian Pacheco For Assembly PRESS RELEASE AFL-CIO Endorses Fresno County Supervisor Brian Pacheco PRESS RELEASE Fresno County Supervisor Brian Pacheco Secures Endorsement from Fresno Deputy Sheriff's Association May 7 2026 PRESS RELEASE California Teachers Association Endorses Fresno County Supervisor Brian Pacheco For Assembly 310,000 Educators Stand Behind Pacheco for State Assembly District 27 The California Teachers Association (CTA), made up of 310,000 members, have announced their endorsement of Fresno County Supervisor Brian Pacheco in his race for Assembly District 27.
 CTA’s endorsement underscores Pacheco’s long-standing work in education and public schools.
 Before holding county office, Pacheco spent 12 years on the Kerman Unified School District Board of Trustees and served as board president.
 “Brian Pacheco has proven his commitment to students and teachers.
 As we continue to fight for the schools every student deserves, it’s vital to work with leaders who understand what it takes to run schools effectively,” said David B.
 Goldberg, CTA President.
-“The California Teachers Association is proud to recommend him and collaborate to ensure students succeed and educators have the resources to support them.”
-“I’m grateful for the California Teachers Association’s endorsement,” said Supervisor Pacheco.
+“The California Teachers Association is proud to recommend him and collaborate to ensure students succeed and educators have the resources to support them.” “I’m grateful for the California Teachers Association’s endorsement,” said Supervisor Pacheco.
 “Education is very important to me, and supporting the staff that make our schools better is of the utmost importance.
-I'm committed to working with CTA’s education leaders to ensure our county prioritizes the resources and respect our educators deserve."
-This endorsement adds significant momentum to Pacheco’s campaign, signaling strong backing from educators in California.
+I'm committed to working with CTA’s education leaders to ensure our county prioritizes the resources and respect our educators deserve." This endorsement adds significant momentum to Pacheco’s campaign, signaling strong backing from educators in California.
 Pacheco has already earned the support of Assembly Speaker Robert Rivas, Assemblymember Esmeralda Soria, and Congressmen Jim Costa and Adam Gray, along with key labor endorsements including the Fresno Deputy Sheriff’s Association and the California Federation of Labor Unions.
+Privacy Policy Have a question, want to get involved, or interested in endorsing the campaign?
+Please contact info@pachecoforca.com Checks may be mailed to: Brian Pacheco for Assembly 2026 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Powered by RUN! website builder Paid for by Pacheco for Assembly 2026 FPPC# 1485456 You need to enable JavaScript to run this app.

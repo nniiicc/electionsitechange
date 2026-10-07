@@ -1,17 +1,98 @@
 [
-"https://halefortexas.com/about.html",
-"https://halefortexas.com/es/about.html",
-"https://halefortexas.com/vi/about.html",
-"https://halefortexas.com/zh/44.html",
-"https://halefortexas.com/zh/about.html",
-"https://halefortexas.com/zh/endorsements.html",
-"https://halefortexas.com/zh/index.html",
-"https://halefortexas.com/zh/merchandise.html",
-"https://halefortexas.com/zh/privacy.html",
-"https://halefortexas.com/zh/social.html",
-"https://halefortexas.com/zh/volunteer.html",
-"https://instagram.com/HaleForTexas",
-"https://linkedin.com/in/alexanderbhale",
-"https://secure.winred.com/alexander-hale-for-congress/donate",
-"https://x.com/HaleForTexas"
+{
+"text": "44",
+"href": "https://www.halefortexas.com/zh/44.html"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/about.html"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/about.html"
+},
+{
+"text": "HALE 为德州",
+"href": "https://www.halefortexas.com/zh/index.html"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/alexanderbhale/"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/about.html"
+},
+{
+"text": "ig",
+"href": "https://instagram.com/HaleForTexas"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/about.html"
+},
+{
+"text": "举办活动",
+"href": "https://www.halefortexas.com/zh/volunteer.html"
+},
+{
+"text": "优先事项",
+"href": "https://www.halefortexas.com/zh/index.html#issues"
+},
+{
+"text": "加入团队",
+"href": "https://www.halefortexas.com/zh/volunteer.html"
+},
+{
+"text": "商店",
+"href": "https://www.halefortexas.com/zh/merchandise.html"
+},
+{
+"text": "志愿者",
+"href": "https://www.halefortexas.com/zh/volunteer.html"
+},
+{
+"text": "捐款",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "捐款",
+"href": "https://www.halefortexas.com/zh/index.html#donate"
+},
+{
+"text": "支持竞选活动",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "支持者",
+"href": "https://www.halefortexas.com/zh/endorsements.html"
+},
+{
+"text": "新闻",
+"href": "https://www.halefortexas.com/zh/index.html#news"
+},
+{
+"text": "社交媒体",
+"href": "https://www.halefortexas.com/zh/social.html"
+},
+{
+"text": "草坪标牌",
+"href": "https://www.halefortexas.com/zh/volunteer.html"
+},
+{
+"text": "认识Alexander",
+"href": "https://www.halefortexas.com/zh/about.html"
+},
+{
+"text": "隐私政策",
+"href": "https://www.halefortexas.com/zh/privacy.html"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/HaleForTexas"
+}
 ]

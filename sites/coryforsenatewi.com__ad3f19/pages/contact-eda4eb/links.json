@@ -1,9 +1,38 @@
 [
-"http://facebook.com/cory4senate",
-"https://coryforsenatewi.com/",
-"https://coryforsenatewi.com/cart",
-"https://coryforsenatewi.com/contact",
-"https://coryforsenatewi.com/home",
-"https://coryforsenatewi.com/yard-signs",
-"https://secure.winred.com/cory-for-senate/donate"
+{
+"text": "0",
+"href": "https://www.coryforsenatewi.com/cart"
+},
+{
+"text": "About",
+"href": "https://coryforsenatewi.com/home/#about"
+},
+{
+"text": "Contact",
+"href": "https://www.coryforsenatewi.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cory-for-senate/donate"
+},
+{
+"text": "Issues",
+"href": "https://coryforsenatewi.com/home/#issues"
+},
+{
+"text": "News",
+"href": "https://coryforsenatewi.com/home/#news"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.coryforsenatewi.com/yard-signs"
+},
+{
+"text": "[image: Cory for Senate | Wisconsin State Senate]",
+"href": "https://www.coryforsenatewi.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/cory4senate"
+}
 ]

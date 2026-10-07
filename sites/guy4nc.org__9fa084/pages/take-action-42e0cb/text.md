@@ -1,3 +1,3 @@
-Our campaign is bringing a voice of liberty-focused solutions for critical issues facing families in our district.
-Volunteering on a campaign is a great way to make a valuable contribution to the liberty.
-Register to vote, request an absentee ballot, find your polling station and much more.
+Skip to content 919-213-9099 Facebook-f Twitter Envelope Meet Meet the Candidate US House District 4 People Not Politics News News Events Priorities Stronger Economy Smarter Education Cost-effective Healthcare Expanded Housing Market Restorative Justice Electoral Reform — Independent Voters Electoral Reform — Instant Runoff Voting Cost-effective Conservation Defend The Guard Take Action Donate Volunteer When & Where to Vote Donate Go Enter Keyword Take Action Contribute Our campaign is bringing a voice of liberty-focused solutions for critical issues facing families in our district.
+Volunteer Volunteering on a campaign is a great way to make a valuable contribution to the liberty.
+Voter Resources Register to vote, request an absentee ballot, find your polling station and much more.

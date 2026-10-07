@@ -1,11 +1,4 @@
-Back to All Events
-We’re having music at the Doss Barn to support Mary Allen for US Congress.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Doss Barn Concert Saturday, May 30, 2026 6:00 PM 10:00 PM Google Calendar ICS We’re having music at the Doss Barn to support Mary Allen for US Congress.
 Chat with Mary at 6 PM, Music starts at 7 PM.
 Reservations required through the link below.
-Previous
-Previous
-May 28
-Party in the Park- Jasper
-Next
-Next
-June 15
+Source: https://secure.ngpvan.com/In6YTCbuxkywNExhv-ry4Q2 Previous Previous May 28 Party in the Park- Jasper Next Next June 15 Virtual phone bank training (Every 4 wks) REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

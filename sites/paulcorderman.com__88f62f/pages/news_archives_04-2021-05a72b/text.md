@@ -1,4 +1,4 @@
-| ANNAPOLIS — Hagerstown is one signature away from starting a nearly $60 million process for a new multipurpose sports facility.
+Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact 2026 Legislative Agenda 2025 End of Session Letter Maryland General Assembly passes Hagerstown stadium bill 4/12/2021 0 Comments ANNAPOLIS — Hagerstown is one signature away from starting a nearly $60 million process for a new multipurpose sports facility.
 On Monday, a bill that would allow the Maryland Stadium Authority to serve as project manager for a new facility proposed for Baltimore Street and Summit Avenue cleared its last hurdle in the Maryland General Assembly.
 The authority can also issue up to $59.5 million in bonds to finance the acquisition, design, construction and related construction expenses.
 The bill will now been sent to Gov.
@@ -27,6 +27,8 @@ Hagerstown City Councilman Kristin Aleshire said the approval was "great" for th
 He said the city has made it clear that the venture will be treated like any other private development built in the city.
 Hagerstown Mayor Emily Keller said the cost of a new stadium has prohibited progress for a long time, with the "mindset it can't fall on the taxpayer." "I applaud the creative solution to fund the project," she said, adding she was glad to have Bowen at the helm of the local ownership to "provide the best path forward we have ever had.
 It's comforting that someone who cares about Hagerstown is the driving force." Keller said anything that spurs economic development locally is a win.
-Maryland State House and USA Today Network reporter Madeleine O'Neill contributed to this story. | Archives Paid for by Friends of Paul Corderman, treasurer Michael Weiss |
-| Mailing Address P.O.
-Box 3716 Hagerstown, MD 21742 | Telephone District Office Phone 240-313-3929 | |
+Maryland State House and USA Today Network reporter Madeleine O'Neill contributed to this story.
+0 Comments A rchives February 2026 September 2025 May 2025 April 2025 February 2025 December 2024 April 2024 March 2024 April 2023 May 2021 April 2021 February 2021 September 2020 August 2020 December 2017 March 2016 February 2016 RSS Feed Paid for by Friends of Paul Corderman, treasurer Michael Weiss Contact the Office of Senator Paul D.
+Corderman!
+Mailing Address P.O.
+Box 3716 ​Hagerstown, MD 21742 Telephone District Office Phone 240-313-3929 Email [email protected]

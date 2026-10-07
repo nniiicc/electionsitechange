@@ -1,7 +1,6 @@
-For years I have been writing, seeking political office, and attempting to enlighten the people of the Commonwealth of Kentucky and the United States that the Gods of Abraham, the Old and New Testaments, and the other communications identifying the Hebrew tribe as God’s Chosen People are untruths.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact The Old and New Testament are Basically Untruths / Blog Post / By Billy Ray Wilson For years I have been writing, seeking political office, and attempting to enlighten the people of the Commonwealth of Kentucky and the United States that the Gods of Abraham, the Old and New Testaments, and the other communications identifying the Hebrew tribe as God’s Chosen People are untruths.
 Today is no different, but the continued war activities in Iran and the Middle East demand we address the truth again.
-So here we go:
-Years past, I quoted and provided a copy of World Book Encyclopedia’s definition of Semite, and from the subject page, we learned the Hebrew tribesmen (of which there were many Arab or other homo species residing in the Arab country of Mesopotamia) began a quest to establish one god in Mesopotamia and the known land areas identified by the Mesopotamian government.
+So here we go: Years past, I quoted and provided a copy of World Book Encyclopedia’s definition of Semite, and from the subject page, we learned the Hebrew tribesmen (of which there were many Arab or other homo species residing in the Arab country of Mesopotamia) began a quest to establish one god in Mesopotamia and the known land areas identified by the Mesopotamian government.
 Alas, over the centuries they were successful, especially outside of Mesopotamia, in the land known as Persia.
 The Hebrews not only established the God of Abraham, but under the governance of the God of Abraham was not one, but three religions: Judaism, Christianity, and Islam.
 The identified exception of Persia is of great importance, as Persia, known today as Iran, was the breeding ground for thousands of Hebrews residing in a foreign country outside of Mesopotamia.
@@ -22,9 +21,8 @@ Naturally, with the investors’ bias and the Zionist community in the internati
 The clergy continued in power longer than expected; however, alas, the Zionists in the United States elected a Zionist and/or a non-US citizen as the Chief Executive of the United States, and the Republican Party has allowed said convicted felon to take the international community to the brink of World War III.
 Before the censors delete me, I suggest you read my blog at https://billyraywilson.com/ to learn the truth, and in the November 2026 National Election, write in my name, Billy Ray Wilson, for the US House of Representatives, Kentucky’s Fifth US Congressional District.
 I am an Independent, Atheist, and, above all, a loyal, proud Defender of the US Constitution.
-Thank you,
-Billy Ray Wilson
-Defender of the U.S.
-Constitution
-Write-In Candidate for U.S.
-House of Representatives
+Thank you, Billy Ray Wilson Defender of the U.S.
+Constitution Write-In Candidate for U.S.
+House of Representatives ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

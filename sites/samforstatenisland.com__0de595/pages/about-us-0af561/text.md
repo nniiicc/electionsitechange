@@ -1,18 +1,6 @@
-Sam has advocated for the issues that concern Staten Island families for his entire life
-Sam Pirozzolo is a successful businessman and native Staten Islander.
+Skip to content Home About Sam On The Issues News Contact Us Volunteer Donate Search for: Search Sam has advocated for the issues that concern Staten Island families for his entire life Sam Pirozzolo is a successful businessman and native Staten Islander.
 As a husband, and father, Sam has advocated for the issues that concern Staten Island families for his entire life.
-- Reform the No Bail Laws
-- Support The NYPD
-- End Government Overreach
-- Parental Rights Advocate
-- Fair Property Taxes
-- MTA Fare Reform
-- Small Business Support
-- Strong Leadership
-33 Years
-7 +
-12 +
-Sam Pirozzolo was elected to represent Staten Island’s West Shore in the New York State Assembly on November 8, 2022.
+Reform the No Bail Laws Support The NYPD End Government Overreach Parental Rights Advocate Fair Property Taxes MTA Fare Reform Small Business Support Strong Leadership 33 Years Small Business Owner 7 + Former president of Community Education Council 31 12 + Vice President of the New York City Parents Union Sam Pirozzolo was elected to represent Staten Island’s West Shore in the New York State Assembly on November 8, 2022.
 A devoted husband and father, successful businessman, and lifelong Staten Islander, he has spent his entire life advocating for Staten Island’s working families and continues to build on that record in Albany.
 In just his first term, Sam earned a reputation as a no-nonsense representative who has been outspoken on the issues that matter most to his more than 150,000 constituents.
 From the out-of-control cost of living that is forcing families to make difficult decisions to the unprecedented migrant crisis that jeopardizes public safety, Sam does not back down when fighting for us.
@@ -20,3 +8,6 @@ A strong and unapologetic advocate for our students, first responders, veterans,
 He has also been outspoken against the placement of migrant shelters and battery storage sites in our community, both of which critically jeopardize public safety and public health.
 Sam has operated his family-owned optical practice for more than three decades and runs his government office a lot like his business – where everyone is welcome and treated like family.
 Before his election to the State Assembly, Sam served in a number of roles, including as Vice President of the New York City Parents Union and President of Community Education Council 31 on Staten Island.
+Native Staten Islander Sam has advocated for the issues that concern Staten Island families for his entire life Quality Education Sam has been recognized as an education advocate, looking to reform and build our education system in New York State to ensure our children receive the most advanced and competitive education in the world Native Staten Islander Sam has advocated for the issues that concern Staten Island families for his entire life Quality Education Sam has been recognized as an education advocate, looking to reform and build our education system in New York State to ensure our children receive the most advanced and competitive education in the world Become a Volunteer Sign up to join Team Sam as a volunteer!
+Join us Now Opioid-plagued Staten Island wrongly cut out of $1.5B settlement fund: pol Assemblymember Pirozzolo talks alleviating traffic and a new approach to bail reform with SILive Proposed legislation would ban construction of lithium-ion battery storage sites on Staten Island Join Our List Copyright © # Sam Pirozzolo for Assembly , All Rights Reserved.
+Paid for By Sam Pirozzolo for Assembly 2026 Designed and Maintained by Politika

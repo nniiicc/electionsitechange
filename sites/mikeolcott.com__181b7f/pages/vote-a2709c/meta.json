@@ -1,7 +1,13 @@
 {
  "description": "Find polling locations and voting times in HD60 for the March 5 Republican primary. HD60 consists of Parker, Palo Pinto and Stephens counties.",
  "final_url": "https://mikeolcott.com/vote/",
- "paid_for_by": "paid for by Mike Olcott Campaign | PO Box 247, Aledo, TX 76008 | Ed Huddleston, Treasurer Follow Follow",
+ "fingerprint": "41015d926745b9dec060c42e4bcd34e936e20ea3",
+ "format": 3,
+ "paid_for_by": "paid for by Mike Olcott Campaign",
  "title": "Vote - Mike Olcott for Texas House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022",
+  "2024",
+  "2026"
+ ]
 }

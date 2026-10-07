@@ -1,9 +1,3 @@
-Sandra Loomis for Alaska House District 30
-Always standing up for worker rights and working families of Alaska!
-Skip navigation menu
-Sandra Loomis for Alaska House District 30
-Always standing up for worker rights and working families of Alaska!
-Jeff King, Four time Iditarod Champion
-Paul Roderick Owner
-Talkeetna Air Taxi
-Talkeetna Air Taxi
+Skip navigation menu Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate Sandra Loomis for Alaska House About Issues News Events Get Involved Contact Endorsements Donate Sandra Loomis for Alaska House District 30 Always standing up for worker rights and working families of Alaska!
+Endorsed by : Alaska AFL-CIO Jeff King, Four time Iditarod Champion Paul Roderick Owner Talkeetna Air Taxi The Alaska Center Steve Charles, Willow Resident & Community Volunteer Joelle Hall, President, AFL-CIO Committed to policies that strengthen mental health care in Alaska.
+Privacy Policy Sandra@sandraforalaska.com Powered by RUN! website builder Paid for by Sandra Loomis for House PO Box 1146, Talkeetna, AK 99676 You need to enable JavaScript to run this app.

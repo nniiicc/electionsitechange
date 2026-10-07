@@ -1,24 +1,154 @@
 [
-"https://darrylblock.com/",
-"https://darrylblock.com/accessibility-statement",
-"https://darrylblock.com/accessibility-statement-1",
-"https://darrylblock.com/canvassing-challenge",
-"https://darrylblock.com/contact",
-"https://darrylblock.com/endorsements",
-"https://darrylblock.com/events",
-"https://darrylblock.com/meet-darryl",
-"https://darrylblock.com/privacy-policy",
-"https://darrylblock.com/volunteer",
-"https://facebook.com/DarrylBlockFL",
-"https://instagram.com/blockfor36",
-"https://linkedin.com/in/theresakinter",
-"https://lp.constantcontactpages.com/sl/VRoRWMZ",
-"https://registertovoteflorida.gov/home",
-"https://registration.dos.fl.gov/CheckVoterStatus",
-"https://secure.actblue.com/donate/blockyardsign",
-"https://secure.actblue.com/donate/db-web",
-"https://tiktok.com/@blockfor36",
-"https://voteseminole.gov/how-to-vote/vote-by-mail",
-"https://yallvote.org/",
-"https://youtube.com/@BlockFor36"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "$15",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.darrylblock.com/accessibility-statement-1"
+},
+{
+"text": "CONTACT",
+"href": "https://www.darrylblock.com/contact"
+},
+{
+"text": "Clover’s Creative Strategy & Design",
+"href": "https://www.linkedin.com/in/theresakinter/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.darrylblock.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.darrylblock.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.darrylblock.com/events"
+},
+{
+"text": "MAKE A DONATION",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "MEET DARRYL",
+"href": "https://www.darrylblock.com/meet-darryl"
+},
+{
+"text": "NEWSLETTER",
+"href": "https://lp.constantcontactpages.com/sl/VRoRWMZ"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/db-web"
+},
+{
+"text": "PLAY NOW",
+"href": "https://www.darrylblock.com/canvassing-challenge"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.darrylblock.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "SHOW SUPPORT",
+"href": "https://secure.actblue.com/donate/blockyardsign"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.darrylblock.com/accessibility-statement"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.darrylblock.com/accessibility-statement"
+},
+{
+"text": "UPCOMING EVENTS",
+"href": "https://www.darrylblock.com/events"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.darrylblock.com/volunteer"
+},
+{
+"text": "Vote by Mail",
+"href": "https://voteseminole.gov/how-to-vote/vote-by-mail/"
+},
+{
+"text": "[image: DARRYL-BLOCK-LOGO-WHITE.png]",
+"href": "https://www.darrylblock.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DarrylBlockFL"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/blockfor36/"
+},
+{
+"text": "[image: TikTok-Icon]",
+"href": "https://www.tiktok.com/@blockfor36"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@blockfor36"
+},
+{
+"text": "[image: Youtube-Icon]",
+"href": "https://www.youtube.com/@BlockFor36"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@BlockFor36"
+},
+{
+"text": "[image: facebook-icon]",
+"href": "https://www.facebook.com/DarrylBlockFL"
+},
+{
+"text": "[image: instagram-icon]",
+"href": "https://www.instagram.com/blockfor36/"
+},
+{
+"text": "[image]",
+"href": "https://www.yallvote.org/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/blockyardsign"
+},
+{
+"text": "check registration",
+"href": "https://registration.dos.fl.gov/CheckVoterStatus"
+},
+{
+"text": "where to vote",
+"href": "https://registration.dos.fl.gov/CheckVoterStatus"
+}
 ]

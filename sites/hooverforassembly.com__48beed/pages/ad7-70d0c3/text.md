@@ -1,14 +1,2 @@
-CALIFORNIA’S 7TH ASSEMBLY DISTRICT
-California’s 7th Assembly District is located in northeast Sacramento County and includes the communities of:
-Citrus Heights
-Folsom
-Rancho Cordova
-Carmichael
-Orangevale
-Fair Oaks
-North Highlands
-Foothill Farms
-Rosemont
-Gold River
-Mather
-McClellan Park
+Skip to Content Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT 0 0 DONATE Open Menu Close Menu ABOUT ISSUES ENDORSEMENTS AD 7 MEDIA PODCAST NEWS YARD SIGN VOLUNTEER EVENTS CONTACT DONATE CALIFORNIA’S 7TH ASSEMBLY DISTRICT California’s 7th Assembly District is located in northeast Sacramento County and includes the communities of: Citrus Heights Folsom Rancho Cordova Carmichael Orangevale Fair Oaks North Highlands Foothill Farms Rosemont Gold River Mather McClellan Park ABOUT | ISSUES | ENDORSEMENTS | AD 7 | MEDIA | PODCAST | NEWS | YARD SIGN | | VOLUNTEER | CONTACT CONTRIBUTE Paid for by Hoover for Assembly 2026 ID# 1476883 P.O.
+Box 850, Wilton, CA 95693 Privacy Policy

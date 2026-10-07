@@ -1,18 +1,94 @@
 [
-"https://docs.google.com/document/d/1DQdcONF7A9UvYBbVkWjShwOyH3Kk_pwe1Oqe_zQGNrY/edit?usp=sharing",
-"https://mobilize.us/cadems/event/1025581",
-"https://mobilize.us/cadems/event/1028818",
-"https://mobilize.us/cadems?q=el+dorado+county",
-"https://mobilize.us/cadems?q=placer+county",
-"https://nevaparkerforassembly.com/",
-"https://nevaparkerforassembly.com/about-asembly-district-5",
-"https://nevaparkerforassembly.com/about-neva",
-"https://nevaparkerforassembly.com/blog",
-"https://nevaparkerforassembly.com/donate",
-"https://nevaparkerforassembly.com/endorsements",
-"https://nevaparkerforassembly.com/issues",
-"https://nevaparkerforassembly.com/volunteerandevents",
-"https://nevaparkerforassembly.com/youthfornevainternship",
-"https://secure.actblue.com/donate/ad5yard",
-"https://secure.actblue.com/donate/teamneva_shirt"
+{
+"text": "DONATE",
+"href": "https://www.nevaparkerforassembly.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.nevaparkerforassembly.com/endorsements"
+},
+{
+"text": "El Dorado County Mobilize.com Events",
+"href": "https://www.mobilize.us/cadems/?q=el+dorado+county"
+},
+{
+"text": "GET YOUR TEAM NEVA T-SHIRT",
+"href": "https://secure.actblue.com/donate/teamneva_shirt"
+},
+{
+"text": "GET YOUR TEAM NEVA T-SHIRT HERE",
+"href": "https://secure.actblue.com/donate/teamneva_shirt"
+},
+{
+"text": "GET YOUR YARD SIGN",
+"href": "https://secure.actblue.com/donate/ad5yard"
+},
+{
+"text": "GET YOUR YARD SIGN HERE",
+"href": "https://secure.actblue.com/donate/ad5yard"
+},
+{
+"text": "Get Out the Vote - El Dorado Hills & Cameron Park",
+"href": "https://www.mobilize.us/cadems/event/1028818/"
+},
+{
+"text": "Get Out the Vote - Picnic & canvass - Placerville",
+"href": "https://www.mobilize.us/cadems/event/1025581/"
+},
+{
+"text": "HOME",
+"href": "https://www.nevaparkerforassembly.com"
+},
+{
+"text": "INTERNSHIP",
+"href": "https://www.nevaparkerforassembly.com/youthfornevainternship"
+},
+{
+"text": "ISSUES",
+"href": "https://www.nevaparkerforassembly.com/issues"
+},
+{
+"text": "MEET NEVA",
+"href": "https://www.nevaparkerforassembly.com/about-neva"
+},
+{
+"text": "NEWS",
+"href": "https://www.nevaparkerforassembly.com/blog"
+},
+{
+"text": "Placer County Mobilize.com Events",
+"href": "https://www.mobilize.us/cadems/?q=placer+county"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.mobilize.us/cadems/?q=el+dorado+county"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.mobilize.us/cadems/?q=placer+county"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.mobilize.us/cadems/event/1025581/"
+},
+{
+"text": "SIGN UP",
+"href": "https://www.mobilize.us/cadems/event/1028818/"
+},
+{
+"text": "THE DISTRICT",
+"href": "https://www.nevaparkerforassembly.com/about-asembly-district-5"
+},
+{
+"text": "VOLUNTEER & EVENTS",
+"href": "https://www.nevaparkerforassembly.com/volunteerandevents"
+},
+{
+"text": "https://docs.google.com/document/d/1DQdcONF7A9UvYBbVkWjShwOyH3Kk_pwe1Oqe_zQGNrY/edit?usp=sharing",
+"href": "https://docs.google.com/document/d/1DQdcONF7A9UvYBbVkWjShwOyH3Kk_pwe1Oqe_zQGNrY/edit?usp=sharing"
+},
+{
+"text": "volunteer@nevaparkerforassembly.com",
+"href": "mailto:volunteer@nevaparkerforassembly.com?subject=Information+on+volunteering+for+the+Neva+Parker+for+Assembly+Campaign"
+}
 ]

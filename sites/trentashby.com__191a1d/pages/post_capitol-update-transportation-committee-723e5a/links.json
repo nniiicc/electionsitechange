@@ -1,13 +1,54 @@
 [
-"https://facebook.com/RepTrentAshby",
-"https://trentashby.com/",
-"https://trentashby.com/blog",
-"https://trentashby.com/donate",
-"https://trentashby.com/endorsements",
-"https://trentashby.com/getinvolved",
-"https://trentashby.com/meet-trent",
-"https://trentashby.com/post/capitol-update-defense-veterans-affairs-committee",
-"https://trentashby.com/post/capitol-update-environmental-regulation-committee",
-"https://trentashby.com/post/capitol-update-house-committee-on-elections",
-"https://trentashby.com/privacy-policy"
+{
+"text": "All Posts",
+"href": "https://www.trentashby.com/blog"
+},
+{
+"text": "Capitol Update: Defense & Veterans' Affairs Committee",
+"href": "https://www.trentashby.com/post/capitol-update-defense-veterans-affairs-committee"
+},
+{
+"text": "Capitol Update: Environmental Regulation Committee",
+"href": "https://www.trentashby.com/post/capitol-update-environmental-regulation-committee"
+},
+{
+"text": "Capitol Update: House Committee on Elections",
+"href": "https://www.trentashby.com/post/capitol-update-house-committee-on-elections"
+},
+{
+"text": "DONATE",
+"href": "https://www.trentashby.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.trentashby.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.trentashby.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.trentashby.com"
+},
+{
+"text": "MEET TRENT",
+"href": "https://www.trentashby.com/meet-trent"
+},
+{
+"text": "PRESS ROOM",
+"href": "https://www.trentashby.com/blog"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.trentashby.com/privacy-policy"
+},
+{
+"text": "See All",
+"href": "https://www.trentashby.com/blog"
+},
+{
+"text": "https://www.facebook.com/RepTrentAshby/",
+"href": "https://www.facebook.com/RepTrentAshby/"
+}
 ]

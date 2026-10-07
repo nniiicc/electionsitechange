@@ -1,10 +1,38 @@
 [
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0",
-"https://wilsonwv.com/",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2017&sessiontype=1X&btype=bill&hsemem=Wilson",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2017&sessiontype=RS&btype=bill&hsemem=Wilson",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2018&sessiontype=RS&btype=bill&hsemem=Wilson",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2019&sessiontype=1X&btype=bill&hsemem=Wilson",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2019&sessiontype=RS&btype=bill&hsemem=Wilson",
-"https://wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2020&sessiontype=RS&btype=bill&hsemem=Wilson"
+{
+"text": "2017 First Special Session",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2017&sessiontype=1X&btype=bill&hsemem=Wilson"
+},
+{
+"text": "2017 Regular Session — all sponsorships",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2017&sessiontype=RS&btype=bill&hsemem=Wilson"
+},
+{
+"text": "2018 Regular Session — all sponsorships",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2018&sessiontype=RS&btype=bill&hsemem=Wilson"
+},
+{
+"text": "2019 First Special Session",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2019&sessiontype=1X&btype=bill&hsemem=Wilson"
+},
+{
+"text": "2019 Regular Session — all sponsorships",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2019&sessiontype=RS&btype=bill&hsemem=Wilson"
+},
+{
+"text": "2020 Regular Session — all sponsorships",
+"href": "https://www.wvlegislature.gov/Bill_Status/bills_sponsors.cfm?year=2020&sessiontype=RS&btype=bill&hsemem=Wilson"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0"
+},
+{
+"text": "Wilson for U.S. Senate",
+"href": "https://wilsonwv.com/"
+},
+{
+"text": "← Campaign Home",
+"href": "https://wilsonwv.com/"
+}
 ]

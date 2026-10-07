@@ -1,29 +1,16 @@
-Category: Important Issues
-I pledge to support K-12 students and teachers
-Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
-You will also…
-View More I pledge to support K-12 students and teachers
-Unwavering support for K-12 Education.
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for…
-View More Unwavering support for K-12 Education.
-My commitment to the students and teachers will be unwavering.
-“As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for…
-View More My commitment to the students and teachers will be unwavering.
-If the discussion for education must focus around one word, let that word be AND, not OR.
-K-12 Education: AND, not OR.
+Skip to content Wednesday, October 07, 2026 Lauren Nelson for Senate P.O.
+Box 359, Yankton, SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Home About Lauren Posts Critical Issues Important Issues RL21 Education News Videos Platform Contact Search … Category: Important Issues Important Issues Videos I am on a mission for the people and families of District 18 Editor October 30, 2024 View More I am on a mission for the people and families of District 18 Education Important Issues Videos I pledge to support K-12 students and teachers Editor October 16, 2024 Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
+You will also… View More I pledge to support K-12 students and teachers Education Important Issues Videos Unwavering support for K-12 Education.
+Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More Unwavering support for K-12 Education.
+Education Important Issues Videos My commitment to the students and teachers will be unwavering.
+Editor October 16, 2024 “As your next state senator for District 18, my commitment to the students and teachers will be unwavering.” Vote Lauren Nelson, your NEW CHOICE for… View More My commitment to the students and teachers will be unwavering.
+Education Important Issues Videos If the discussion for education must focus around one word, let that word be AND, not OR.
+Editor October 16, 2024 K-12 Education: AND, not OR.
 View More If the discussion for education must focus around one word, let that word be AND, not OR.
-Supporting Agriculture
-Lowering Taxes
-K-12 Students & Teachers are a Priority
-Let’s Use This Money for K-12 Education
-I pledge to listen & engage the people of District 18
-Out in the community, I hear over and over that the people running our government are out of touch with the struggles the average family…
-View More I pledge to listen & engage the people of District 18
-I pledge to protect our right to keep and bear arms.
-I will defend the Second Amendment because it’s not just for hunting — it’s how our nation was freed from tyranny!
-When I look around…
-View More I pledge to protect our right to keep and bear arms.
-I pledge to stand strong for Life.
-Every child deserves to be safe and loved — and our state law should reflect that!
-I will ALWAYS vote to defend the unborn here…
-View More I pledge to stand strong for Life.
+Important Issues Videos Supporting Agriculture Editor September 26, 2024 View More Supporting Agriculture Important Issues Videos Lowering Taxes Editor September 26, 2024 View More Lowering Taxes Education Important Issues Videos K-12 Students & Teachers are a Priority Editor September 26, 2024 View More K-12 Students & Teachers are a Priority Education Important Issues Videos Let’s Use This Money for K-12 Education Editor September 26, 2024 View More Let’s Use This Money for K-12 Education Important Issues Platform Videos I pledge to listen & engage the people of District 18 Editor May 26, 2024 Out in the community, I hear over and over that the people running our government are out of touch with the struggles the average family… View More I pledge to listen & engage the people of District 18 Important Issues Platform I pledge to protect our right to keep and bear arms.
+Editor May 26, 2024 I will defend the Second Amendment because it’s not just for hunting — it’s how our nation was freed from tyranny!
+When I look around… View More I pledge to protect our right to keep and bear arms.
+Important Issues Platform Videos I pledge to stand strong for Life.
+Editor May 26, 2024 Every child deserves to be safe and loved — and our state law should reflect that!
+I will ALWAYS vote to defend the unborn here… View More I pledge to stand strong for Life.
+Search Search You Need to Know 2026 Yankton GOP Forums April 29, 2026 Legislaive Update February 13, 2026 November 2025 Legislative Newsletter October 15, 2025 FaceBook Lauren Nelson For Senate PO Box 359 Yankton SD 57078 605-661-5876 LaurenNelson4Senate@gmail.com Paid for by: Lauren Nelson for Senate Lauren Nelson for Senate | Designed by: Theme Freesia | WordPress | © Copyright All right reserved Top

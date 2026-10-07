@@ -1,12 +1,8 @@
-Come enjoy the park & invest in Amanda’s campaign for a more equitable Minnesota.
-Please RSVP via Facebook
-Campaign event
-· West Lake Park
-- Date
-- Time
-- 5:00 pm – 7:00 pm CDT (Central time)
-- Format
-- In person
-Where
-Sign up
-Share
+Skip to main content Amanda Matchett MN House 32A Home About Issues Endorsements Events Volunteer ♥ Donate Home About Issues Endorsements Events Volunteer Donate Meet Amanda Home Events More Perfect Union Fundraiser Campaign event More Perfect Union Fundraiser Tuesday, July 14, 2026 at 5:00 pm · West Lake Park Expand Date Tuesday, July 14, 2026 Time 5:00 pm – 7:00 pm CDT (Central time) Format In person Where West Lake Park 11903 South Lake Boulevard Northeast, Blaine, MN 55449 Get directions Sign up RSVP so the team knows to expect you.
+Details on Facebook Opens on facebook.com Share Copy link Share Come enjoy the park & invest in Amanda’s campaign for a more equitable Minnesota.
+Please RSVP via Facebook ← Family Affordability Summit: Let’s Make Minnesota Affordable for Families Music Trivia: Across the Millenia → Stay Connected Be Part of the Campaign Be the first to hear about events, policy positions, and ways to help.
+Volunteer, donate, or invite Amanda to your neighborhood.
+Every action helps build a stronger District 32A.
+Leave this field empty Email address Sign Up We send campaign updates and event invitations.
+Unsubscribe any time. ♥ Donate Volunteer Meet Amanda DFL-endorsed candidate for Minnesota House District 32A: Blaine, Ham Lake, and Columbus.
+Campaign About Amanda Issues Endorsements Events Volunteer Press Get Involved Volunteer Donate Meet Amanda Events Contact info@matchett4minnesota.com Contact form Prepared and paid for by Amanda Matchett for Minnesota PO Box 490251, Blaine, MN 55449 info@matchett4minnesota.com Privacy Policy Accessibility © # Matchett for Minnesota

@@ -1,21 +1,90 @@
 [
-"https://elijahforcongress.com/about.html",
-"https://elijahforcongress.com/contact.html",
-"https://elijahforcongress.com/endorsements.html",
-"https://elijahforcongress.com/index.html",
-"https://elijahforcongress.com/issues.html",
-"https://elijahforcongress.com/news.html",
-"https://elijahforcongress.com/privacy.html",
-"https://elijahforcongress.com/terms.html",
-"https://elijahforcongress.com/volunteer.html",
-"https://elijahforcongress.com/vote.html",
-"https://registration.dos.fl.gov/",
-"https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund",
-"https://volusiaelections.gov/",
-"https://volusiaelections.gov/elections/early-voting.stml",
-"https://voterfocus.com/PrecinctFinder/addressSearch?county=VOL",
-"https://voteseminole.gov/",
-"https://voteseminole.gov/how-to-vote",
-"https://voteseminole.gov/how-to-vote/early-voting",
-"https://voteseminole.gov/how-to-vote/vote-by-mail"
+{
+"text": "About",
+"href": "https://elijahforcongress.com/about.html"
+},
+{
+"text": "Check your registration status",
+"href": "https://registration.dos.fl.gov/"
+},
+{
+"text": "Contact",
+"href": "https://elijahforcongress.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ryan-elijah-for-congress/general-election-fund"
+},
+{
+"text": "Endorsements",
+"href": "https://elijahforcongress.com/endorsements.html"
+},
+{
+"text": "Issues",
+"href": "https://elijahforcongress.com/issues.html"
+},
+{
+"text": "Join the Team",
+"href": "https://elijahforcongress.com/index.html#signup"
+},
+{
+"text": "News",
+"href": "https://elijahforcongress.com/news.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://elijahforcongress.com/privacy.html"
+},
+{
+"text": "Seminole",
+"href": "https://voteseminole.gov/how-to-vote/"
+},
+{
+"text": "Seminole",
+"href": "https://voteseminole.gov/how-to-vote/early-voting/"
+},
+{
+"text": "Seminole",
+"href": "https://voteseminole.gov/how-to-vote/vote-by-mail/"
+},
+{
+"text": "Team@ElijahForCongress.com",
+"href": "mailto:Team@ElijahForCongress.com"
+},
+{
+"text": "Volunteer",
+"href": "https://elijahforcongress.com/volunteer.html"
+},
+{
+"text": "Volusia",
+"href": "https://www.volusiaelections.gov"
+},
+{
+"text": "Volusia",
+"href": "https://www.volusiaelections.gov/elections/early-voting.stml"
+},
+{
+"text": "Volusia",
+"href": "https://www.voterfocus.com/PrecinctFinder/addressSearch?county=VOL"
+},
+{
+"text": "Vote",
+"href": "https://elijahforcongress.com/vote.html"
+},
+{
+"text": "Website Terms of Use",
+"href": "https://elijahforcongress.com/terms.html"
+},
+{
+"text": "[image: Ryan Elijah for Congress]",
+"href": "https://elijahforcongress.com/index.html"
+},
+{
+"text": "volusiaelections.gov",
+"href": "https://www.volusiaelections.gov"
+},
+{
+"text": "voteseminole.gov",
+"href": "https://voteseminole.gov"
+}
 ]

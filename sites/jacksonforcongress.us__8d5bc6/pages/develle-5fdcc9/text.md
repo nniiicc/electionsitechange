@@ -1,11 +1,9 @@
-Meet DeVelle Jackson
-Of The People.
+Home Donate Meet DeVelle Platform Win Every Vote Library News Contact Meet DeVelle Jackson Of The People.
 For The Whole People.
 Born in Minnesota, DeVelle Jackson enters this race having made his own way, learned to question what others overlook, and developed the tenacity to stay with difficult problems until he understands what they require.
 That discipline was forged through commercial construction work, education, community service, and a life lived across different communities.
 He turned hardship into advancement, responsibility into leadership, and hard-earned perspective into independent judgment.
-All without losing sight of the whole.
-He is at his strongest when ideas must be tested aloud.
+All without losing sight of the whole. ﻿ He is at his strongest when ideas must be tested aloud.
 He finds what politics obscures and he gives voice to what the people already know deserves to be heard.
 Rooted in Minnesota.
 I am a candidate for the United States House of Representatives in Minnesota’s 5th Congressional District, but my path to public office did not begin inside a political party or professional campaign organization.
@@ -26,8 +24,7 @@ Plans matter.
 Details matter.
 People must be able to rely on one another.
 Problems must be identified honestly, competing priorities must be reconciled, and the work must keep moving.
-Ultimately, the results must stand on their own.
-I believe public service should demand those same exacting standards of preparation, accountability, sound judgment, and results people can depend on.
+Ultimately, the results must stand on their own. ﻿ I believe public service should demand those same exacting standards of preparation, accountability, sound judgment, and results people can depend on.
 People who work hard and carry real responsibilities also deserve a government serious about the work entrusted to it.
 Called to Serve.
 My commitment to service developed through my faith, my community, and years of involvement with institutions dedicated to the public good.
@@ -66,13 +63,9 @@ Minnesota’s 5th District deserves a representative who will listen seriously, 
 I believe public office is a trust, not a possession.
 It demands preparation, judgment, humility, courage, and direct accountability to the people.
 That is the standard I am prepared to meet.
-With Atlanta Mayor Andre Dickens and fellow volunteers at the Beloved Community International Expo at The King Center
-Photo courtesy of DeVelle Jackson.
-Working in field engineering at Phipps Plaza in Atlanta during construction of the Nobu Hotel & Restaurant.
-Photo courtesy of DeVelle Jackson.
-At the University of Minnesota, closing one chapter of preparation and stepping forward into another.
-Photo by Radhika Ajmera.
-Looking skyward from downtown Minneapolis, in the heart of Minnesota’s Fifth District.
-Photo by DeVelle Jackson.
-Opening Day at Target Field in downtown Minneapolis, as Minnesota gathers around one of its enduring traditions..
-Photo by Wilson-Fam, licensed under CC BY 2.0, via Wikimedia Commons.
+With Atlanta Mayor Andre Dickens and fellow volunteers at the Beloved Community International Expo at The King Center ﻿ Photo courtesy of DeVelle Jackson.
+Working in field engineering at Phipps Plaza in Atlanta during construction of the Nobu Hotel & Restaurant. ﻿ Photo courtesy of DeVelle Jackson. ﻿ At the University of Minnesota, closing one chapter of preparation and stepping forward into another. ﻿ Photo by Radhika Ajmera.
+Looking skyward from downtown Minneapolis, in the heart of Minnesota’s Fifth District. ﻿ Photo by DeVelle Jackson.
+Opening Day at Target Field in downtown Minneapolis, as Minnesota gathers around one of its enduring traditions.. ﻿ Photo by Wilson-Fam, licensed under CC BY 2.0, via Wikimedia Commons.
+Paid for by Jackson For Congress 2026. info@jacksonforcongress.us © # Jackson For Congress 2026.
+All rights reserved. ﻿ Privacy Policy | Contact | Donate | Volunteer | Register to Vote ﻿ Share & Follow:

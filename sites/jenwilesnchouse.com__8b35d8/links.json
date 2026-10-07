@@ -1,15 +1,74 @@
 [
-"http://secure.actblue.com/donate/jen-wiles-nc",
-"http://secure.actblue.com/donate/wilescommunityfridge",
-"https://facebook.com/jenwilesnchouse",
-"https://instagram.com/jenwilesnchouse",
-"https://jenwilesnchouse.com/",
-"https://jenwilesnchouse.com/about",
-"https://jenwilesnchouse.com/contact",
-"https://jenwilesnchouse.com/endorsements",
-"https://jenwilesnchouse.com/priorities",
-"https://jenwilesnchouse.com/privacy-policy",
-"https://jenwilesnchouse.com/terms-and-conditions",
-"https://threads.com/@jenwilesnchouse",
-"https://tiktok.com/@jenwilesnchouse"
+{
+"text": "About",
+"href": "https://www.jenwilesnchouse.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.jenwilesnchouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.jenwilesnchouse.com/contact"
+},
+{
+"text": "Contribute today",
+"href": "http://secure.actblue.com/donate/jen-wiles-nc"
+},
+{
+"text": "Contribute today",
+"href": "http://secure.actblue.com/donate/wilescommunityfridge"
+},
+{
+"text": "Donate",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jenwilesnchouse.com/endorsements"
+},
+{
+"text": "FOR NC HOUSE 75",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Jen Wiles",
+"href": "https://www.jenwilesnchouse.com"
+},
+{
+"text": "Learn more about Jen's priorities",
+"href": "https://www.jenwilesnchouse.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.jenwilesnchouse.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jenwilesnchouse.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jenwilesnchouse.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jenwilesnchouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jenwilesnchouse/"
+},
+{
+"text": "[image: Threads ]",
+"href": "https://www.threads.com/@jenwilesnchouse"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jenwilesnchouse"
+}
 ]

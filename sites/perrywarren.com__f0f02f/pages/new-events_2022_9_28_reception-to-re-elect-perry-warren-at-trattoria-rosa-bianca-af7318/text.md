@@ -1,21 +1,4 @@
-Join us for a Reception to Re-Elect
-State Representative Perry Warren
-Wednesday, September 28, 2022
-5:30-7:30 pm
-Trattoria Rosa Bianca
-94 South Main Street
-Yardley, PA
-Back to All Events
-Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca
-Join us for a Reception to Re-Elect
-State Representative Perry Warren
-Wednesday, September 28, 2022
-5:30-7:30 pm
-Trattoria Rosa Bianca
-94 South Main Street
-Yardley, PA
-Earlier Event: June 12
-Garden Party with Perry
-Later Event: October 28
-Final Campaign Fundraiser!
-Happy Hour to Re-Elect Perry Warren
+Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Keep Perry in Harrisburg!
+Meet Perry Events Home Issues CONTRIBUTE Endorsements Join Our Team Fellows/Interns How-To Register to Vote Vote By Mail Back to All Events Reception to Re-Elect Perry Warren at Trattoria Rosa Bianca Wednesday, September 28, 2022 5:30 PM 7:30 PM 17:30 19:30 Tratorria Rosa Bianca 94 South Main Street Yardley, PA, 19067 United States (map) Google Calendar ICS Join us for a Reception to Re-Elect State Representative Perry Warren Wednesday, September 28, 2022 5:30-7:30 pm Trattoria Rosa Bianca 94 South Main Street Yardley, PA Click here to RSVP and Contribute Earlier Event: June 12 Garden Party with Perry Later Event: October 28 Final Campaign Fundraiser!
+Happy Hour to Re-Elect Perry Warren Back to Top perry@perrywarren.com Paid for by Perry Warren for State Representative

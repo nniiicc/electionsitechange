@@ -1,10 +1,3 @@
-The 9th Legislative District (in white above) is one of the geographically largest in our state including counties:
-- Adams
-- Asotin
-- Columbia
-- Garfield
-- Lincoln
-- Spokane
-- Whitman
-We are home to world-class academics, agriculture and business.
+0 Skip to Content Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Open Menu Close Menu Priorities News Meet Mary Gallery District Endorsements Contact Donate Our 9th Legislative District The 9th Legislative District (in white above) is one of the geographically largest in our state including counties: Adams Asotin Columbia Garfield Lincoln Spokane Whitman We are home to world-class academics, agriculture and business.
 Most of all, we are home to Americans from all walks of life who look out for each other, join together as communities where we wave at each other on the street, cheer for our kids, help each other through trying times and celebrate our successes.
+Committee to Elect Mary Dye Republican for Washington State Representative District 9, Position 1 PO Box 336 Pomeroy, WA 99347 electmarydye@gmail.com Meet Mary Priorities District News Gallery

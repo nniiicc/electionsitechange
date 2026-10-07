@@ -1,6 +1,5 @@
-Meet Representative Jim Haadsma
-Working Hard for Michigan’s Future
-Jim Haadsma is a native of Muskegon who has called Battle Creek home since 1994.
+Skip to content Jim Haadsma | MI State House District 44 Jim Haadsma is running for State Representative in MI House District 44.
+Primary Menu Meet Jim Priorities Endorsements Get Involved Join our Events Donate Meet Representative Jim Haadsma Working Hard for Michigan’s Future Jim Haadsma is a native of Muskegon who has called Battle Creek home since 1994.
 He opened the local office for McCroskey Law, a local law firm based in Muskegon.
 As a partner at the fund and after opening the local office, Jim specializes in labor relations and workers’ compensation.
 For 38 years, Jim has always fought for hardworking people and their families to ensure they are treated fairly and are given equal opportunities.
@@ -16,3 +15,6 @@ Prior to running for office, Jim served as a member of the Calhoun County Board 
 He has also served as a board member for the Art Center of Battle Creek, the Southern Michigan Urban League, the Kiwanis Club of Battle Creek as president, and Battle Creek Pride.
 Jim currently serves on the board of the Haven, a not-for-profit homeless shelter, and the Salvation Army Battle Creek Corps.
 He is a lifetime member of the Battle Creek NAACP, the Southwestern Michigan Urban League, and the Albion NAACP.
+Meet Jim Priorities Endorsements Get Involved Join Our Events Donate info@haadsmaformichigan.com 146 S.
+Lincoln Blvd., Battle Creek, MI 49015 Paid for by Committee to Elect Jim Haadsma | 146 S Lincoln Blvd, Battle Creek, MI 49015 Powered by Tech for Campaigns Loading Comments...
+You must be logged in to post a comment.

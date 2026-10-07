@@ -1,4 +1,4 @@
-About Theo Angelis
+Home About Endorsements All Endorsements Endorse Theo News Donate Home About Endorsements All Endorsements Endorse Theo News Donate About Theo Angelis Theo Angelis has spent his career standing up for the rule of law, protecting the rights of individuals, and ensuring our courts remain fair, independent, and accessible to all Washingtonians.
 Appointed to the Washington State Supreme Court in March 2026, Theo brings more than 25 years of legal experience as a respected appellate advocate, legal scholar, and public interest lawyer.
 Throughout his career, he has handled complex litigation and appellate cases involving constitutional issues, intellectual property, and federal and state law, earning recognition across the legal community for his rigorous legal analysis and commitment to justice.
 In addition to his legal practice, Theo has dedicated significant time to public service and pro bono advocacy.
@@ -10,3 +10,4 @@ He earned his law degree from Yale Law School and clerked for the U.S.
 Court of Appeals for the D.C.
 Circuit before beginning his legal career.
 Theo lives in Seattle with his family and is honored to serve the people of Washington on the state’s highest court.
+Paid for by Theo Angelis for Justice PO Box 27113, Seattle, WA 98165

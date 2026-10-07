@@ -1,6 +1,4 @@
-PRIORITIES • Protect Our Future • Policy to
-Protect Our Land and Family Farms
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Protect Our Future • Policy to Protect Our Land and Family Farms Why I believe this — and how I’ll fight for it.
 I grew up in an agricultural town, so I know a family farm is more than a business — it’s a family’s whole life, built over generations, and it’s the heart and soul of this district.
 The people who work this land feed the country and hold our communities together.
 But right now, that way of life is being bought out from under them.
@@ -16,8 +14,7 @@ And this was never just about wine — it’s the same squeeze on family orchard
 It’s spreading, and it’s heading deeper into the Sacramento Valley — Yolo, Colusa, Sutter, Yuba — unless we stop it.
 Our own representative has watched it happen and done nothing.
 I won’t.
-Here’s what I’ll do — and why
-Break the corporate stranglehold on agriculture.
+Here’s what I’ll do — and why Break the corporate stranglehold on agriculture.
 The heart of this is consolidation — a handful of giant corporations controlling more of our food, our land, and our markets every year.
 I’ll fight to enforce real antitrust law in agriculture, break up the monopolies that squeeze family farms on both ends — what they pay for supplies and what they get for their crop — and stop writing regulations that are pocket change for the giants and ruinous for the small.
 When the rules stop being rigged for the biggest players, a family farm can actually compete again.
@@ -40,8 +37,7 @@ It’s proof farmers and the environment were never really enemies.
 And keep our open country open.
 The working land and wild spaces of this district are part of what makes it worth calling home.
 I’ll fight to conserve the open land and natural beauty our kids should inherit — so the next generation grows up with the same room to roam, clean air, and living landscapes we did.
-What this means for Our District
-Family farms and vineyards are the heart and soul of this district — from the vineyards of Napa and Sonoma to the orchards and row crops of the Sacramento Valley.
+What this means for Our District Family farms and vineyards are the heart and soul of this district — from the vineyards of Napa and Sonoma to the orchards and row crops of the Sacramento Valley.
 The small growers, the family wineries, the people who’ve worked this land for generations: they are what makes this place great.
 And every level of the establishment is letting them get crushed.
 It’s happening on purpose.
@@ -55,10 +51,9 @@ That has to end.
 We need someone who actually favors small ag, who knows how much it matters to this district, and who isn’t beholden to the big businesses that bend the rules against it.
 I don’t take a dime of their money — so I can be that someone.
 I’ll answer to the family fighting to hold onto the farm, and take on the establishment at every level, local, state, and federal, that’s been rigging the rules against the very people who are the heart and soul of this district.
-The bottom line
-Land is legacy.
+The bottom line Land is legacy.
 A farm passed down through generations, open country your kids can grow up in, food grown by people who actually live here — that’s what makes this district what it is, and it’s worth fighting for.
 Stand up to the corporate consolidation, keep our farmland in local hands, invest in farming that heals the land instead of depleting it, and we hand our children a district that’s still theirs.
 Let’s keep it that way.
-SOURCES
-- Federal farm program payments have long been concentrated among the largest operations: GAO — “Farm Programs: Direct Payments Should Be Reconsidered,” GAO-12-640
+All Policies Next Policy Return to Top SOURCES Federal farm program payments have long been concentrated among the largest operations: GAO — “Farm Programs: Direct Payments Should Be Reconsidered,” GAO-12-640 Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

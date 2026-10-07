@@ -1,23 +1,3 @@
-About
-Pattie
-Issues
-Get Involved
-Events
-Donate Now
-Home
-About Pattie
-Issues
-Get Involved
-Events
-Donate Now
-GET INVOLVED
-See how you can support Pattie’s campaign today.
-Volunteer for Pattie’s campaign
-Reach Out
-Make a
-donation
-Donate now
-Attend an event near you
-View Events
-Register to vote in Missouri
-Visit Site
+About Pattie Issues Get Involved Events Donate Now Home About Pattie Issues Get Involved Events Donate Now GET INVOLVED See how you can support Pattie’s campaign today.
+Volunteer for Pattie’s campaign Reach Out Make a donation Donate now Attend an event near you View Events Register to vote in Missouri Visit Site Support Pattie Mansur’s Campaign for Missouri Donate Now Pattie Mansur 4 Missouri P.O.
+Box 8470, Kansas City, MO 64114 tel:816-674-2745 | pattie4missouri@gmail.com Susan Stanton, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

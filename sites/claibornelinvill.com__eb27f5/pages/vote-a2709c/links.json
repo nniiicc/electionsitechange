@@ -1,22 +1,90 @@
 [
-"http://vote411.org/",
-"https://claibornelinvill.com/",
-"https://claibornelinvill.com/-platform",
-"https://claibornelinvill.com/about-claiborne-linvill",
-"https://claibornelinvill.com/contact-us",
-"https://claibornelinvill.com/cookies",
-"https://claibornelinvill.com/news-press",
-"https://claibornelinvill.com/privacypolicy",
-"https://claibornelinvill.com/support",
-"https://claibornelinvill.com/support-us",
-"https://claibornelinvill.com/vote",
-"https://facebook.com/LinvillforSCHouse3",
-"https://instagram.com/ClaiborneLinvill",
-"https://pickensscelections.gov/absentee-voting",
-"https://scstatehouse.gov/legislatorssearch.php",
-"https://scvotes.gov/",
-"https://secure.actblue.com/donate/claiborne-linvill-1",
-"https://southcarolinavoterguide.com/",
-"https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace",
-"https://winwithaline.com/"
+{
+"text": "Contact",
+"href": "https://www.claibornelinvill.com/contact-us"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/claiborne-linvill-1"
+},
+{
+"text": "Cookie Policy",
+"href": "https://www.claibornelinvill.com/cookies"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/claiborne-linvill-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LinvillforSCHouse3"
+},
+{
+"text": "Find your district here",
+"href": "https://www.scstatehouse.gov/legislatorssearch.php"
+},
+{
+"text": "Find your voting location here",
+"href": "https://vrems.scvotes.sc.gov/Voter/Login?PageMode=PollingPlace"
+},
+{
+"text": "Ideas",
+"href": "https://www.claibornelinvill.com/-platform"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ClaiborneLinvill"
+},
+{
+"text": "Meet Claiborne",
+"href": "https://www.claibornelinvill.com/about-claiborne-linvill"
+},
+{
+"text": "News & Events",
+"href": "https://www.claibornelinvill.com/news-press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.claibornelinvill.com/privacypolicy"
+},
+{
+"text": "Support",
+"href": "https://www.claibornelinvill.com/support"
+},
+{
+"text": "Support",
+"href": "https://www.claibornelinvill.com/support-us"
+},
+{
+"text": "Vote",
+"href": "https://www.claibornelinvill.com/vote"
+},
+{
+"text": "[image: Claiborne Linvill for SC House District 3]",
+"href": "https://www.claibornelinvill.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.claibornelinvill.com/-platform"
+},
+{
+"text": "follow directions here",
+"href": "https://pickensscelections.gov/absentee-voting/"
+},
+{
+"text": "site by ALINE, A Marketing Company",
+"href": "https://www.winwithaline.com/"
+},
+{
+"text": "www.scvotes.gov",
+"href": "https://www.scvotes.gov"
+},
+{
+"text": "www.southcarolinavoterguide.com",
+"href": "https://www.southcarolinavoterguide.com/"
+},
+{
+"text": "www.vote411.org",
+"href": "http://www.vote411.org"
+}
 ]

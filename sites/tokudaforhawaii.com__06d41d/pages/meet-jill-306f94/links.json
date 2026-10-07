@@ -1,16 +1,62 @@
 [
-"https://facebook.com/TokudaForHawaii",
-"https://instagram.com/jilltokuda",
-"https://instagram.com/tokudaforhawaii",
-"https://secure.actblue.com/donate/tokudawebsite",
-"https://secure.actblue.com/donate/tokudawebsite2024",
-"https://secure.ngpvan.com/7DZ6ho40rkCHTROuQkVfQA2",
-"https://secure.ngpvan.com/LL1lMCbNlEKLh1CSGyxcTw2",
-"https://tokudaforhawaii.com/",
-"https://tokudaforhawaii.com/author/aveda_3skt1g",
-"https://tokudaforhawaii.com/issues",
-"https://tokudaforhawaii.com/meet-jill",
-"https://tokudaforhawaii.com/privacy-policy",
-"https://x.com/jilltokuda",
-"https://x.com/tokudaforhawaii"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tokudawebsite"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tokudawebsite2024"
+},
+{
+"text": "ISSUES",
+"href": "https://www.tokudaforhawaii.com/issues/"
+},
+{
+"text": "MEET JILL",
+"href": "https://www.tokudaforhawaii.com/meet-jill/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tokudaforhawaii.com/privacy-policy/"
+},
+{
+"text": "REQUEST A SIGN",
+"href": "https://secure.ngpvan.com/7DZ6ho40rkCHTROuQkVfQA2"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://secure.ngpvan.com/LL1lMCbNlEKLh1CSGyxcTw2"
+},
+{
+"text": "[image: Jill Tokuda Logo]",
+"href": "https://www.tokudaforhawaii.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/TokudaForHawaii/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/jilltokuda/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/tokudaforhawaii"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/jilltokuda"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/tokudaforhawaii"
+},
+{
+"text": "aveda_3skt1g",
+"href": "https://www.tokudaforhawaii.com/author/aveda_3skt1g/"
+},
+{
+"text": "info@tokudaforhawaii.com",
+"href": "mailto:info@tokudaforhawaii.com"
+}
 ]

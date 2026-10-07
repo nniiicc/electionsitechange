@@ -1,76 +1,338 @@
 [
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/2019/02",
-"https://bucyfortexas.com/2019/03",
-"https://bucyfortexas.com/2019/04",
-"https://bucyfortexas.com/2019/05",
-"https://bucyfortexas.com/2019/06",
-"https://bucyfortexas.com/2019/07",
-"https://bucyfortexas.com/2019/08",
-"https://bucyfortexas.com/2019/09",
-"https://bucyfortexas.com/2019/10",
-"https://bucyfortexas.com/2019/11",
-"https://bucyfortexas.com/2019/12",
-"https://bucyfortexas.com/2020/01",
-"https://bucyfortexas.com/2020/02",
-"https://bucyfortexas.com/2020/03",
-"https://bucyfortexas.com/2020/04",
-"https://bucyfortexas.com/2020/07",
-"https://bucyfortexas.com/2020/09",
-"https://bucyfortexas.com/2020/10",
-"https://bucyfortexas.com/2020/11",
-"https://bucyfortexas.com/2021/06",
-"https://bucyfortexas.com/2021/07",
-"https://bucyfortexas.com/2021/12",
-"https://bucyfortexas.com/2022/01",
-"https://bucyfortexas.com/2022/05",
-"https://bucyfortexas.com/2022/06",
-"https://bucyfortexas.com/2022/08",
-"https://bucyfortexas.com/2022/09",
-"https://bucyfortexas.com/2022/10",
-"https://bucyfortexas.com/2022/11",
-"https://bucyfortexas.com/2023/04",
-"https://bucyfortexas.com/2023/05",
-"https://bucyfortexas.com/2023/06",
-"https://bucyfortexas.com/2023/07",
-"https://bucyfortexas.com/2023/08",
-"https://bucyfortexas.com/2023/09",
-"https://bucyfortexas.com/2024/05",
-"https://bucyfortexas.com/2025/01",
-"https://bucyfortexas.com/2025/06",
-"https://bucyfortexas.com/2025/07",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/author/allison-heinrich",
-"https://bucyfortexas.com/category/awards",
-"https://bucyfortexas.com/category/bucy-bulletin",
-"https://bucyfortexas.com/category/events",
-"https://bucyfortexas.com/category/press-releases",
-"https://bucyfortexas.com/category/priorities",
-"https://bucyfortexas.com/category/single-post",
-"https://bucyfortexas.com/category/town-hall",
-"https://bucyfortexas.com/category/voting-information",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/events/safe-texas-town-hall",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/town-hall/constitutional-amendment-town-hall",
-"https://bucyfortexas.com/town-hall/join-us-for-a-legislative-town-hall",
-"https://bucyfortexas.com/town-hall/join-us-for-a-town-hall",
-"https://bucyfortexas.com/vote",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://secure.actblue.com/donate/john-bucy",
-"https://techforcampaigns.org/",
-"https://twitter.com/BucyForTexas"
+{
+"text": "April 2019",
+"href": "https://bucyfortexas.com/2019/04/"
+},
+{
+"text": "April 2020",
+"href": "https://bucyfortexas.com/2020/04/"
+},
+{
+"text": "April 2023",
+"href": "https://bucyfortexas.com/2023/04/"
+},
+{
+"text": "August 2019",
+"href": "https://bucyfortexas.com/2019/08/"
+},
+{
+"text": "August 2022",
+"href": "https://bucyfortexas.com/2022/08/"
+},
+{
+"text": "August 2023",
+"href": "https://bucyfortexas.com/2023/08/"
+},
+{
+"text": "Awards",
+"href": "https://bucyfortexas.com/category/awards/"
+},
+{
+"text": "Bucy Bulletin",
+"href": "https://bucyfortexas.com/category/bucy-bulletin/"
+},
+{
+"text": "Constitutional Amendment Town Hall",
+"href": "https://bucyfortexas.com/town-hall/constitutional-amendment-town-hall/"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "December 2019",
+"href": "https://bucyfortexas.com/2019/12/"
+},
+{
+"text": "December 2021",
+"href": "https://bucyfortexas.com/2021/12/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Events",
+"href": "https://bucyfortexas.com/category/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "February 2019",
+"href": "https://bucyfortexas.com/2019/02/"
+},
+{
+"text": "February 2020",
+"href": "https://bucyfortexas.com/2020/02/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "January 2020",
+"href": "https://bucyfortexas.com/2020/01/"
+},
+{
+"text": "January 2022",
+"href": "https://bucyfortexas.com/2022/01/"
+},
+{
+"text": "January 2025",
+"href": "https://bucyfortexas.com/2025/01/"
+},
+{
+"text": "John Bucy Campaign",
+"href": "https://bucyfortexas.com/author/allison-heinrich/"
+},
+{
+"text": "Join us for a Legislative Town Hall",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-legislative-town-hall/"
+},
+{
+"text": "Join us for a Town Hall",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-town-hall/"
+},
+{
+"text": "July 2019",
+"href": "https://bucyfortexas.com/2019/07/"
+},
+{
+"text": "July 2020",
+"href": "https://bucyfortexas.com/2020/07/"
+},
+{
+"text": "July 2021",
+"href": "https://bucyfortexas.com/2021/07/"
+},
+{
+"text": "July 2023",
+"href": "https://bucyfortexas.com/2023/07/"
+},
+{
+"text": "July 2025",
+"href": "https://bucyfortexas.com/2025/07/"
+},
+{
+"text": "June 13, 2019April 23, 2020",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-legislative-town-hall/"
+},
+{
+"text": "June 2019",
+"href": "https://bucyfortexas.com/2019/06/"
+},
+{
+"text": "June 2021",
+"href": "https://bucyfortexas.com/2021/06/"
+},
+{
+"text": "June 2022",
+"href": "https://bucyfortexas.com/2022/06/"
+},
+{
+"text": "June 2023",
+"href": "https://bucyfortexas.com/2023/06/"
+},
+{
+"text": "June 2025",
+"href": "https://bucyfortexas.com/2025/06/"
+},
+{
+"text": "June 9, 2022June 9, 2022",
+"href": "https://bucyfortexas.com/events/safe-texas-town-hall/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "March 2019",
+"href": "https://bucyfortexas.com/2019/03/"
+},
+{
+"text": "March 2020",
+"href": "https://bucyfortexas.com/2020/03/"
+},
+{
+"text": "March 29, 2019April 23, 2020",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-town-hall/"
+},
+{
+"text": "May 2019",
+"href": "https://bucyfortexas.com/2019/05/"
+},
+{
+"text": "May 2022",
+"href": "https://bucyfortexas.com/2022/05/"
+},
+{
+"text": "May 2023",
+"href": "https://bucyfortexas.com/2023/05/"
+},
+{
+"text": "May 2024",
+"href": "https://bucyfortexas.com/2024/05/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "November 2019",
+"href": "https://bucyfortexas.com/2019/11/"
+},
+{
+"text": "November 2020",
+"href": "https://bucyfortexas.com/2020/11/"
+},
+{
+"text": "November 2022",
+"href": "https://bucyfortexas.com/2022/11/"
+},
+{
+"text": "October 2019",
+"href": "https://bucyfortexas.com/2019/10/"
+},
+{
+"text": "October 2020",
+"href": "https://bucyfortexas.com/2020/10/"
+},
+{
+"text": "October 2022",
+"href": "https://bucyfortexas.com/2022/10/"
+},
+{
+"text": "Press Releases",
+"href": "https://bucyfortexas.com/category/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/category/priorities/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "Safe Texas Town Hall",
+"href": "https://bucyfortexas.com/events/safe-texas-town-hall/"
+},
+{
+"text": "September 19, 2019April 23, 2020",
+"href": "https://bucyfortexas.com/town-hall/constitutional-amendment-town-hall/"
+},
+{
+"text": "September 2019",
+"href": "https://bucyfortexas.com/2019/09/"
+},
+{
+"text": "September 2020",
+"href": "https://bucyfortexas.com/2020/09/"
+},
+{
+"text": "September 2022",
+"href": "https://bucyfortexas.com/2022/09/"
+},
+{
+"text": "September 2023",
+"href": "https://bucyfortexas.com/2023/09/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Town Hall",
+"href": "https://bucyfortexas.com/category/town-hall/"
+},
+{
+"text": "Uncategorized",
+"href": "https://bucyfortexas.com/category/single-post/"
+},
+{
+"text": "Voting Information",
+"href": "https://bucyfortexas.com/category/voting-information/"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "[image: Constitutional Amendment Town Hall]",
+"href": "https://bucyfortexas.com/town-hall/constitutional-amendment-town-hall/"
+},
+{
+"text": "[image: Join us for a Legislative Town Hall]",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-legislative-town-hall/"
+},
+{
+"text": "[image: Join us for a Town Hall]",
+"href": "https://bucyfortexas.com/town-hall/join-us-for-a-town-hall/"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "[image: Safe Texas Town Hall]",
+"href": "https://bucyfortexas.com/events/safe-texas-town-hall/"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+}
 ]

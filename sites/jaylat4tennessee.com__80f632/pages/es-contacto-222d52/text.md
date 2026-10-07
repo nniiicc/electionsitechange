@@ -1,12 +1,4 @@
-Contáctanos
-Escríbeme sobre lo que sea.
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate CERRAR Inicio Sobre Jayla Temas Voluntarios Contacto Donar English Contáctanos Escríbeme sobre lo que sea.
 Quiero que tengas voz.
 Si tienes ideas, preguntas o preocupaciones, no dudes en comunicarte conmigo.
-Jayla@jaylat4tennessee.com
-(615) 994-0200
-Districto 55
-Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch
-Pagado por Friends of Jayla Thomas Committee
-Ryan Paradis, Tesorero
-jayla@jaylat4tennessee.com
-(615) 994-0200
+Jayla@jaylat4tennessee.com (615) 994-0200 Jaylat4tennessee Preguntas frecuentes | Política de privacidad | Términos y condiciones Donar UBICACIÓn Districto 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Pagado por Friends of Jayla Thomas Committee Ryan Paradis, Tesorero Contacto jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

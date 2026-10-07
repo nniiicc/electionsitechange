@@ -1,3 +1,5 @@
-| The American Society of Pension Professionals & Actuaries (ASPPA) published a feature on Maine's MERIT program, highlighting the state's efforts to expand access to workplace retirement savings — an initiative Senator Bailey has been involved in championing.
+SENATOR DONNA BAILEY Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5 Down East, Retirement Savings Have More MERIT 6/13/2026 0 Comments The American Society of Pension Professionals & Actuaries (ASPPA) published a feature on Maine's MERIT program, highlighting the state's efforts to expand access to workplace retirement savings — an initiative Senator Bailey has been involved in championing.
 The article explored how Maine's approach to retirement security, rooted in expanding access for workers without employer-sponsored plans, has drawn national attention.
-ASPPA noted Maine as a model for other states looking to close the retirement savings gap for low- and middle-income workers. | Blog Latest News Archives Categories |
+ASPPA noted Maine as a model for other states looking to close the retirement savings gap for low- and middle-income workers.
+READ MORE 0 Comments Leave a Reply.
+Blog Latest News Archives June 2026 February 2024 December 2023 June 2022 October 2020 September 2020 August 2020 June 2018 Categories All RSS Feed donate $5 207-284-9962 [email protected] Paid for and authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5

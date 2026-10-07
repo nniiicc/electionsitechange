@@ -1,14 +1,50 @@
 [
-"http://dubnikforhouse.com/",
-"https://dubnikforhouse.com/",
-"https://dubnikforhouse.com/2026-election-info",
-"https://dubnikforhouse.com/about",
-"https://dubnikforhouse.com/awards-endorsements",
-"https://dubnikforhouse.com/conoce-a-matt",
-"https://dubnikforhouse.com/contact",
-"https://dubnikforhouse.com/priorities",
-"https://dubnikforhouse.com/scorecard",
-"https://facebook.com/DubnikforHouse",
-"https://mvp.sos.ga.gov/s",
-"https://x.com/mdubnik"
+{
+"text": "Awards-Endorsements",
+"href": "https://www.dubnikforhouse.com/awards-endorsements/"
+},
+{
+"text": "Contact",
+"href": "https://www.dubnikforhouse.com/contact/"
+},
+{
+"text": "En Espanol",
+"href": "https://www.dubnikforhouse.com/conoce-a-matt/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/DubnikforHouse/"
+},
+{
+"text": "Home",
+"href": "http://www.dubnikforhouse.com"
+},
+{
+"text": "Meet Matt",
+"href": "https://www.dubnikforhouse.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://www.dubnikforhouse.com/priorities/"
+},
+{
+"text": "Scorecard",
+"href": "https://www.dubnikforhouse.com/scorecard/"
+},
+{
+"text": "Voter Guide",
+"href": "https://www.dubnikforhouse.com/2026-election-info/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/mdubnik"
+},
+{
+"text": "[image]",
+"href": "https://www.dubnikforhouse.com"
+},
+{
+"text": "visit this link",
+"href": "https://mvp.sos.ga.gov/s/"
+}
 ]

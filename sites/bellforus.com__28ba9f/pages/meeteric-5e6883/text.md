@@ -1,6 +1,5 @@
-Meet Eric
-New Leadership Delivering Results for Our Community
-Eric is a fifth-generation Atlanta native raised in Clayton County and a graduate of Morehouse College and earned a master's in international business at Georgia State University; in his younger years, he attended Brown Elementary, Rivers Edge Elementary, Mundy’s Mill Middle, and Mundy’s Mill High Schools.
+top of page Donate Representative Eric Bell GEORGIA HOUSE DISTRICT 75 Donate HOME HELP BLOG MEET ERIC PLATFORM More Use tab to navigate through the menu items.
+Meet Eric New Leadership Delivering Results for Our Community Eric is a fifth-generation Atlanta native raised in Clayton County and a graduate of Morehouse College and earned a master's in international business at Georgia State University ; in his younger years, he attended Brown Elementary, Rivers Edge Elementary, Mundy’s Mill Middle, and Mundy’s Mill High Schools.
 He had shown a strong love for scholarship, stewardship, and leadership at all institutions.
 Bell graduated top 10 from Mundy’s Mill High School, class of 2009.
 As a youth, he was a member of the Elite Scholars (now Elite Scholars Academy), Clayton County Youth Commissioners, Student Government Association, Presidential Scholar, National Honors Society, and Omicron Delta Epsilon (International Economics Honor Society).
@@ -21,4 +20,7 @@ He also worked in the office of Senator Lester Jackson in the 2017 Georgia Legis
 Currently, he is the Government Affairs Coordinator at Hartsfield-Jackson Atlanta International Airport.
 He works with local, state, and federal policymakers to ensure that the Atlanta Airport remains passenger-friendly and the most efficient airport globally.
 For professional and leadership, he participated in programs offered by the Clayton, South Fulton, Atlanta, and Airport Chambers of Commerce, the Regional Leadership Institute sponsored by the Atlanta Regional Commission, and the New Leaders Council.
-Outside of work, Eric is an activist, advocate, and creative that enjoys community organizing and event curation.
+Outside of work, Eric is an activist, advocate, and creative that enjoys community organizing and event curation. ​ ​ ​ JOIN THE CAMPAIGN!
+Success!
+Message received.
+Send Register to VOTE!! bottom of page

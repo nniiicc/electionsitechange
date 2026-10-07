@@ -1,6 +1,18 @@
 [
-"https://facebook.com/profile.php?id=61575701592159",
-"https://rockeyforohio.com/",
-"https://rockeyforohio.com/about-patti",
-"https://rockeyforohio.com/on-the-issues"
+{
+"text": "About Patti",
+"href": "https://rockeyforohio.com/about-patti"
+},
+{
+"text": "Home",
+"href": "https://rockeyforohio.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://rockeyforohio.com/on-the-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61575701592159"
+}
 ]

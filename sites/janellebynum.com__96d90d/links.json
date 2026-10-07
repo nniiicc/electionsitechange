@@ -1,18 +1,78 @@
 [
-"http://facebook.com/janelle.bynum",
-"https://designedtorun.com/",
-"https://instagram.com/bynum4thewin",
-"https://janellebynum.com/",
-"https://janellebynum.com/issues",
-"https://janellebynum.com/media-center",
-"https://janellebynum.com/meet-janelle",
-"https://janellebynum.com/press",
-"https://janellebynum.com/privacy-policy",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=10",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=250",
-"https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=50",
-"https://twitter.com/bynum4thewin"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true&amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true"
+},
+{
+"text": "Issues",
+"href": "https://www.janellebynum.com/issues"
+},
+{
+"text": "Media Center",
+"href": "https://www.janellebynum.com/media-center"
+},
+{
+"text": "Meet Janelle",
+"href": "https://www.janellebynum.com/meet-janelle"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jsb-website?express_lane=true"
+},
+{
+"text": "Press",
+"href": "https://www.janellebynum.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janellebynum.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Support Janelle Bynum for Congress]",
+"href": "https://www.janellebynum.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/janelle.bynum"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bynum4thewin"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bynum4thewin"
+},
+{
+"text": "info@janellebynum.com",
+"href": "mailto:info@janellebynum.com"
+},
+{
+"text": "press@janellebynum.com",
+"href": "mailto:press@janellebynum.com"
+}
 ]

@@ -1,31 +1,130 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Volunteer+Summit&dates=20260627T150000Z%2F20260627T170000Z",
-"https://act.campaigndeputy.com/volunteersummit",
-"https://allisonmitchellfortexas.com/",
-"https://allisonmitchellfortexas.com/about",
-"https://allisonmitchellfortexas.com/about-allison",
-"https://allisonmitchellfortexas.com/cart",
-"https://allisonmitchellfortexas.com/contact",
-"https://allisonmitchellfortexas.com/donate",
-"https://allisonmitchellfortexas.com/endorsement",
-"https://allisonmitchellfortexas.com/events",
-"https://allisonmitchellfortexas.com/events/meet-and-greet-preston-hollow",
-"https://allisonmitchellfortexas.com/events/save-the-date-general-election-kickoff",
-"https://allisonmitchellfortexas.com/events/volunteer-summit?format=ical",
-"https://allisonmitchellfortexas.com/house-district-108",
-"https://allisonmitchellfortexas.com/in-the-news",
-"https://allisonmitchellfortexas.com/meet-allison",
-"https://allisonmitchellfortexas.com/s/PrivacyPolicy.pdf",
-"https://allisonmitchellfortexas.com/show-your-support",
-"https://allisonmitchellfortexas.com/theissues",
-"https://allisonmitchellfortexas.com/volunteer",
-"https://allisonmitchellfortexas.com/voter-information",
-"https://allisonmitchellfortexas.com/voting",
-"https://allisonmitchellfortexas.com/yard-sign",
-"https://facebook.com/allisonmitchellfortexas",
-"https://instagram.com/allisonmitchellfortexas",
-"https://secure.actblue.com/donate/allison-mitchell-1",
-"https://secure.actblue.com/donate/allisonmitchell",
-"https://tiktok.com/@allisonmitchellfortexas",
-"https://youtube.com/@AllisonMitchellForTexas"
+{
+"text": "0",
+"href": "https://www.allisonmitchellfortexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.allisonmitchellfortexas.com/about"
+},
+{
+"text": "About Allison",
+"href": "https://www.allisonmitchellfortexas.com/about-allison"
+},
+{
+"text": "Back",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.allisonmitchellfortexas.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.allisonmitchellfortexas.com/contact"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/allisonmitchell"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/allison-mitchell-1"
+},
+{
+"text": "Donate",
+"href": "https://www.allisonmitchellfortexas.com/donate"
+},
+{
+"text": "Endorsement",
+"href": "https://www.allisonmitchellfortexas.com/endorsement"
+},
+{
+"text": "Events",
+"href": "https://www.allisonmitchellfortexas.com/events"
+},
+{
+"text": "Folder: Meet Allison",
+"href": "https://www.allisonmitchellfortexas.com/meet-allison"
+},
+{
+"text": "Folder: Show Your Support",
+"href": "https://www.allisonmitchellfortexas.com/show-your-support"
+},
+{
+"text": "Folder: Voter Information",
+"href": "https://www.allisonmitchellfortexas.com/voter-information"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Volunteer+Summit&dates=20260627T150000Z%2F20260627T170000Z"
+},
+{
+"text": "Home",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "House District 108",
+"href": "https://www.allisonmitchellfortexas.com/house-district-108"
+},
+{
+"text": "ICS",
+"href": "https://www.allisonmitchellfortexas.com/events/volunteer-summit?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://www.allisonmitchellfortexas.com/in-the-news"
+},
+{
+"text": "Next Next September 2 Meet and Greet: Preston Hollow",
+"href": "https://www.allisonmitchellfortexas.com/events/meet-and-greet-preston-hollow"
+},
+{
+"text": "Previous Previous June 4 General Election Kickoff",
+"href": "https://www.allisonmitchellfortexas.com/events/save-the-date-general-election-kickoff"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.allisonmitchellfortexas.com/s/PrivacyPolicy.pdf"
+},
+{
+"text": "RSVP TO JOIN OUR SUMMIT",
+"href": "https://act.campaigndeputy.com/volunteersummit"
+},
+{
+"text": "The Issues",
+"href": "https://www.allisonmitchellfortexas.com/theissues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.allisonmitchellfortexas.com/volunteer"
+},
+{
+"text": "Voting",
+"href": "https://www.allisonmitchellfortexas.com/voting"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.allisonmitchellfortexas.com/yard-sign"
+},
+{
+"text": "[image: Allison Mitchell for Texas House]",
+"href": "https://www.allisonmitchellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@allisonmitchellfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AllisonMitchellForTexas"
+}
 ]

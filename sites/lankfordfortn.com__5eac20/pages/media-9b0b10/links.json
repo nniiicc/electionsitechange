@@ -1,7 +1,22 @@
 [
-"https://lankfordfortn.com/",
-"https://lankfordfortn.com/donate",
-"https://lankfordfortn.com/media",
-"https://lankfordfortn.com/meet-michael",
-"https://lankfordfortn.com/request-a-sign"
+{
+"text": "DONATE",
+"href": "https://www.lankfordfortn.com/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.lankfordfortn.com"
+},
+{
+"text": "MEDIA",
+"href": "https://www.lankfordfortn.com/media"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.lankfordfortn.com/meet-michael"
+},
+{
+"text": "REQUEST A SIGN",
+"href": "https://www.lankfordfortn.com/request-a-sign"
+}
 ]

@@ -1,6 +1,8 @@
-Sign in to your account to access your profile, history, and any private pages you've been granted access to.
-Not a member?
+Home Issues About Endorsements More Home Issues About Endorsements Home Issues About Endorsements Let's work together and bring meaningful change to PA!
+Let's work together and bring meaningful change to PA!
+Let's work together and bring meaningful change to PA!
+Account sign in Sign in to your account to access your profile, history, and any private pages you've been granted access to.
+Sign in Reset password Not a member?
 Create account.
-Copyright © 2022 Jackie Baker for PA - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Home Issues About Endorsements Gallery Jackie Baker for PA Senate Copyright © # Jackie Baker for PA - All Rights Reserved.
+EVENTS learnMore

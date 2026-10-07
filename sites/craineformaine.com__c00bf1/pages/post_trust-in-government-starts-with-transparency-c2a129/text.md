@@ -1,5 +1,5 @@
-Trust in Government Starts with Transparency
-Most people, regardless of political affiliation, agree on at least one thing: government should be transparent.
+top of page Jantzen Craine HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+DONATE All Posts Op-Ed In The Weeds (VLOG) Throwback Thursday Songs and Reflection Search Trust in Government Starts with Transparency Jantzen Craine Mar 20 3 min read Most people, regardless of political affiliation, agree on at least one thing: government should be transparent.
 It is one of those rare ideas that brings nearly everyone together.
 Ask ten people what they want from government, and you will get ten different answers.
 Ask those same ten people if they want transparency, and suddenly you have a unanimous vote.
@@ -13,8 +13,7 @@ Meetings are posted.
 Documents are filed.
 Legal boxes are checked.
 Somewhere, buried three clicks deep on a website, there is probably a PDF that technically answers your question… assuming you know exactly what you are looking for and have a free afternoon to find it.
-On paper, everything may be “public.”
-But that does not always mean it is clear.
+On paper, everything may be “public.” But that does not always mean it is clear.
 There is a difference between making information available and making it understandable.
 There is a difference between compliance and communication.
 True transparency is not about doing the minimum required to avoid criticism.
@@ -60,3 +59,10 @@ That includes being open, being clear, and being willing to be held accountable.
 Transparency is not a slogan.
 It is a discipline.
 And if we practice it well enough, maybe someday finding information from the government will not feel like a scavenger hunt.
+Recent Posts See All When Energy Policy Costs Maine Jobs Why the Middle East Will Never Truly Be at Peace Is Social Media Addictive — or Are We?
+HOME MEET JANTZEN VALUES GET INVOLVED MERCH BLOG More Use tab to navigate through the menu items.
+JOIN THE CONVERSATION: Committed to accessibility for all.
+Read our Accessibility Statement.
+By visiting this website, you agree to our Privacy Policy and Terms and Conditions .
+Terms & Conditions Privacy Policy Accessibility Statement © # by Craine for Maine.
+All Rights Reserved. bottom of page

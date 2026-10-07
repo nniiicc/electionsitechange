@@ -1,38 +1,13 @@
-endorsements
-Megan is honored to have the official endorsements of trusted community leaders and organizations.
-Former congresswoman
-allyson Y. schwartz
-I'm proud to support Megan.
+0 Skip to Content Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Get Involved ⌄ Donate Volunteer Voter Resources Contact Open Menu Close Menu Meet Megan The District Key Issues Endorsements News Events Folder: Get Involved ⌄ Back Donate Volunteer Voter Resources Contact endorsements Megan is honored to have the official endorsements of trusted community leaders and organizations.
+Former congresswoman allyson Y. schwartz I'm proud to support Megan.
 She represents the next generation of strong, effective leadership.
 She brings experience, a deep commitment to her community, and the ability to turn ideas into action.
 I encourage voters to support her!
-State Representative
-Mary jo Daley
-I've watched Megan grow as a leader, from her work as a committee person supporting Democratic candidates to her commitment to advancing women's leadership.
+State Representative Mary jo Daley I've watched Megan grow as a leader, from her work as a committee person supporting Democratic candidates to her commitment to advancing women's leadership.
 Megan is prepared to lead with the experience, determination, and energy necessary to continue advancing the causes that inspired me to run in the first place.
-All endorsements
-Former Congresswoman Allyson Y.
-Schwartz
-Philadelphia and Montgomery Counties
-State Senator Maria Collett
-12th District, Montgomery County
-State Representative Mary Jo Daley
-148th District, Montgomery County
-State Representative Joe Ciresi
-146th District, Montgomery County
-State Representative Roni Green
-190th District, Philadelphia County
-State Representative Nancy Guenst
-152nd District, Montgomery County
-State Representative Tarik Khan
-194th District, Philadelphia Count
-State Representative Steve Malagari
-53rd District, Montgomery County
-State Representative Ben Sanchez
-153rd District, Montgomery County
-State Representative Joe Webster
-150th District, Montgomery County
-Whitemarsh Township Supervisor Beth Moy
-Vice-Chair
-Narberth Borough Council Member Cyndi Rickards
-Vice-President
+“Megan understands how state government functions and has already helped countless people navigate it.
+She has been doing the work, showing up for constituents, and delivering results.
+I know she will be an excellent state representative.” Maria Collett State Senator, 12th District “Megan has already been doing the job behind the scenes, and she's ready to step into this role and serve the 148th with integrity.” Nancy Guenst State Representative, 152nd District “Megan has the experience, temperament, and dedication to be an outstanding state representative, and I'm proud to endorse her.” Ben Sanchez State Representative, 153rd District “Megan shows up for people, and through her fundraising prowess, she's proven she can help grow the House and flip the Senate.
+I am confident she will make Lower Merion, Narberth, and Whitemarsh proud.” Tarik Khan State Representative, 194th District “She'll do the work, help deliver meaningful change for Pennsylvania families, and help us grow our majority in the House.
+That's why I'm proud to support Megan Griffin-Shelley.” Roni Green State Representative, 190th District All endorsements Former Congresswoman Allyson Y.
+Schwartz Philadelphia and Montgomery Counties State Senator Maria Collett 12th District, Montgomery County State Representative Mary Jo Daley 148th District, Montgomery County State Representative Joe Ciresi 146th District, Montgomery County State Representative Roni Green 190th District, Philadelphia County State Representative Nancy Guenst 152nd District, Montgomery County State Representative Tarik Khan 194th District, Philadelphia Count State Representative Steve Malagari 53rd District, Montgomery County State Representative Ben Sanchez 153rd District, Montgomery County State Representative Joe Webster 150th District, Montgomery County Whitemarsh Township Supervisor Beth Moy Vice-Chair Narberth Borough Council Member Cyndi Rickards Vice-President Megan griffin-shelley for pa state rep Donate Get Connected Paid for by Friends of Megan GS

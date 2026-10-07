@@ -1,4 +1,3 @@
-MEDIA CONTACT
-Our communications team is available to assist journalists, bloggers, and media professionals with timely updates, official resources, and opportunities to connect directly with Darlene.
-Email: media@darlenebreaux.com
-Media Contact Number: 832-558-1352
+Follow Follow Follow Follow Home About Priorities Endorsements Media Press Releases In the News Media Contact Donation Contact Volunteer Donate Donate Home About Priorities Endorsements Media Press Releases In the News Media Contact Donation Contact Volunteer MEDIA CONTACT Our communications team is available to assist journalists, bloggers, and media professionals with timely updates, official resources, and opportunities to connect directly with Darlene.
+Email: media@darlenebreaux.com Media Contact Number: 832-558-1352 Name Email Address Message Submit Contact Us  346-733-3228  P.O.
+Box 956 Alief Texas 77411  campaign@darlenebreaux.com Social Account Follow Follow Follow Follow © Copyright # | All Rights Reserved

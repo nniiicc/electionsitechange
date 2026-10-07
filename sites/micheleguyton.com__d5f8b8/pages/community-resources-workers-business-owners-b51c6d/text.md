@@ -1,11 +1,11 @@
-Baltimore County Career Centers
-Learn new job skills and schedule resume consultations at Hunt Valley and Liberty Center.
-Workers can schedule an appointment with a Career Consultant online
-Call 410-887-7940 and press "0" for the Hunt Valley site.
-Baltimore County Help for Businesses
-The Department of Economic Development and Workforce Development has many local, state and federal resources available for your business.
-Kennedy Krieger Institutes Neurodiversity at Work programs helps individuals with disabilities obtain and maintain meaningful employment and community engagement.
-State of Maryland Commerce Resources
-Maryland's Department of Commerce has a Business Express website to assist owners as they start, manage and grow their businesses.
-US Small Business Administration Support
-Visit the SBA Business Guide and see available funding resources for your small business.
+0 Skip to Content Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Get Involved August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Open Menu Close Menu Home Meet Michele Newsletters & Updates 2026 Scholarship Legislation Community Resources Contact Contribute Folder: Get Involved Back August 22 - Day of Action (Door Knocking) September 19 - Day of Action (Door Knocking) Request a Yard Sign Baltimore County Career Centers Learn new job skills and schedule resume consultations at Hunt Valley and Liberty Center.
+Workers can schedule an appointment with a Career Consultant online Call 410-887-7940 and press "0" for the Hunt Valley site.
+Job Boards Find a job or have your company's jobs posted on the Baltimore County and State of Maryland's Job Boards.
+Baltimore County Help for Businesses The Department of Economic Development and Workforce Development has many local, state and federal resources available for your business.
+Kennedy Krieger Institutes Neurodiversity at Work programs helps individuals with disabilities obtain and maintain meaningful employment and community engagement .
+State of Maryland Commerce Resources Maryland's Department of Commerce has a Business Express website to assist owners as they start, manage and grow their businesses.
+The American Job Center provides a variety of services from job training services, resume building, assistance transitioning to a new field, to computer labs and digital literacy assistance .
+US Small Business Administration Support Visit the SBA Business Guide and see available funding resources for your small business.
+Maryland$aves Maryland$aves will help your small business offer easy and affordable retirement benefits to your employees.
+Are You in District 42B?
+Get Your District Info View District Map By Authority: Michele Guyton for Baltimore County | Manda Simon, Treasurer

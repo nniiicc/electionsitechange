@@ -1,57 +1,246 @@
 [
-"http://facebook.com/jimmygomezca",
-"http://instagram.com/jimmygomezca",
-"http://twitter.com/jimmygomezca",
-"http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg",
-"https://congress.gov/bill/117th-congress/house-bill/1280",
-"https://congress.gov/bill/117th-congress/house-bill/5011",
-"https://congress.gov/bill/118th-congress/house-bill/11/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/1118/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/15/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/16/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/20/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/2676",
-"https://congress.gov/bill/118th-congress/house-bill/2760/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/2847/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/3183",
-"https://congress.gov/bill/118th-congress/house-bill/3194/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/3421/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/3850/cosponsors?s=6&r=3&q=%7B%22search%22%3A%22Transgender%22%7D",
-"https://congress.gov/bill/118th-congress/house-bill/3899/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/3967/text",
-"https://congress.gov/bill/118th-congress/house-bill/4121/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/418",
-"https://congress.gov/bill/118th-congress/house-bill/4268/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/4285",
-"https://congress.gov/bill/118th-congress/house-bill/4907/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/5433/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/5560/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/5601/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/6063/cosponsors",
-"https://congress.gov/bill/118th-congress/house-bill/6721",
-"https://congress.gov/bill/118th-congress/house-bill/782/cosponsors",
-"https://congress.gov/bill/118th-congress/house-concurrent-resolution/37/cosponsors",
-"https://congress.gov/bill/118th-congress/house-joint-resolution/13/cosponsors",
-"https://congress.gov/bill/118th-congress/house-resolution/269/cosponsors",
-"https://congress.gov/bill/118th-congress/house-resolution/319",
-"https://govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf",
-"https://govinfo.gov/content/pkg/PLAW-117publ2/pdf/PLAW-117publ2.pdf",
-"https://jimmygomezforcongress.com/",
-"https://jimmygomezforcongress.com/bio",
-"https://jimmygomezforcongress.com/bio/photos",
-"https://jimmygomezforcongress.com/donate",
-"https://jimmygomezforcongress.com/endorsements",
-"https://jimmygomezforcongress.com/get-involved",
-"https://jimmygomezforcongress.com/issues",
-"https://jimmygomezforcongress.com/media",
-"https://jimmygomezforcongress.com/privacy-policy",
-"https://jimmygomezforcongress.com/progressive-record",
-"https://jimmygomezforcongress.com/the-latest",
-"https://jimmygomezforcongress.com/the-latest/campaign-updates",
-"https://jimmygomezforcongress.com/the-latest/in-the-news",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5",
-"https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50",
-"https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/contribute/page/jimmygomezforcongress?amount=50"
+},
+{
+"text": "213-557-1348",
+"href": "tel:213-557-1348"
+},
+{
+"text": "Affordable Housing Equity Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/418"
+},
+{
+"text": "American Dream and Promise Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/16/cosponsors"
+},
+{
+"text": "American Family Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3899/cosponsors"
+},
+{
+"text": "Bio",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://jimmygomezforcongress.com/the-latest/campaign-updates/"
+},
+{
+"text": "Child Care Stabilization Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5433/cosponsors"
+},
+{
+"text": "Choose Medicare Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/5011"
+},
+{
+"text": "Citizenship Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3194/cosponsors"
+},
+{
+"text": "Climate Emergency Resolution",
+"href": "https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/37/cosponsors"
+},
+{
+"text": "DISCLOSE Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/1118/cosponsors"
+},
+{
+"text": "Dignity for Detained Immigrants Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2760/cosponsors"
+},
+{
+"text": "Donate Now",
+"href": "https://jimmygomezforcongress.com/donate"
+},
+{
+"text": "EATS Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3183"
+},
+{
+"text": "Empowering Striking Workers Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6063/cosponsors"
+},
+{
+"text": "End Junk Fees for Renters Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4907/cosponsors"
+},
+{
+"text": "Ending Qualified Immunity Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2847/cosponsors"
+},
+{
+"text": "Ensuring Women’s Right to Reproductive Freedom Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/782/cosponsors"
+},
+{
+"text": "Equality Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/15/cosponsors"
+},
+{
+"text": "For the 99.5% Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/2676"
+},
+{
+"text": "Freedom to Vote Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/11/cosponsors"
+},
+{
+"text": "George Floyd Justice in Policing Act",
+"href": "https://www.congress.gov/bill/117th-congress/house-bill/1280#:~:text=It%20establishes%20a%20framework%20to,%2C%20chokeholds%2C%20and%20carotid%20holds."
+},
+{
+"text": "Get Involved",
+"href": "https://jimmygomezforcongress.com/get-involved"
+},
+{
+"text": "Get Updates",
+"href": "https://secure.ngpvan.com/h8JFTbDST0uElbEuE0tixQ2"
+},
+{
+"text": "Green New Deal",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/319"
+},
+{
+"text": "In the News",
+"href": "https://jimmygomezforcongress.com/the-latest/in-the-news/"
+},
+{
+"text": "MORE Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5601/cosponsors"
+},
+{
+"text": "Media",
+"href": "https://jimmygomezforcongress.com/media"
+},
+{
+"text": "Medicare for All Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3421/cosponsors"
+},
+{
+"text": "Meet Jimmy",
+"href": "https://jimmygomezforcongress.com/bio/"
+},
+{
+"text": "On The Issues",
+"href": "https://jimmygomezforcongress.com/issues/"
+},
+{
+"text": "Photos",
+"href": "https://jimmygomezforcongress.com/bio/photos/"
+},
+{
+"text": "Pride in Mental Health Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3850/cosponsors?s=6&r=3&q=%7B%22search%22%3A%22Transgender%22%7D"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jimmygomezforcongress.com/privacy-policy"
+},
+{
+"text": "Progressive Record",
+"href": "https://jimmygomezforcongress.com/progressive-record/"
+},
+{
+"text": "Protect Vulnerable Immigrant Youth Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4285"
+},
+{
+"text": "Protecting the Right to Organize (PRO) Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/20/cosponsors"
+},
+{
+"text": "Rent Relief Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/6721"
+},
+{
+"text": "Reproductive Health Travel Fund Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4268/cosponsors"
+},
+{
+"text": "Reuniting Families Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/5560/cosponsors"
+},
+{
+"text": "Right to Contraception Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/4121/cosponsors"
+},
+{
+"text": "Student Loan Tax Relief Act",
+"href": "https://www.congress.gov/bill/118th-congress/house-bill/3967/text"
+},
+{
+"text": "Supporters",
+"href": "https://jimmygomezforcongress.com/endorsements/"
+},
+{
+"text": "The Latest",
+"href": "https://jimmygomezforcongress.com/the-latest/"
+},
+{
+"text": "Transgender Bill of Rights",
+"href": "https://www.congress.gov/bill/118th-congress/house-resolution/269/cosponsors"
+},
+{
+"text": "Used Clean Vehicle Tax Credit",
+"href": "https://www.govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf#page=146"
+},
+{
+"text": "[image]",
+"href": "https://jimmygomezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/jimmygomezca"
+},
+{
+"text": "[no text]",
+"href": "http://youtube.com/channel/UC3CATll2ZF0-nBwFU1db-xg"
+},
+{
+"text": "[no text]",
+"href": "mailto:?subject=On+The+Issues+-+Jimmy+Gomez+for+Congress&body=https%3A%2F%2Fjimmygomezforcongress.com%2Fissues%2F"
+},
+{
+"text": "constitutional amendment",
+"href": "https://www.congress.gov/bill/118th-congress/house-joint-resolution/13/cosponsors"
+},
+{
+"text": "existing homes",
+"href": "https://www.govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf#page=125"
+},
+{
+"text": "info@jimmygomezforcongress.com",
+"href": "mailto:info@jimmygomezforcongress.com"
+},
+{
+"text": "new",
+"href": "https://www.govinfo.gov/content/pkg/PLAW-117publ169/pdf/PLAW-117publ169.pdf#page=136"
+},
+{
+"text": "student loan debt relief tax free",
+"href": "https://www.govinfo.gov/content/pkg/PLAW-117publ2/pdf/PLAW-117publ2.pdf#page=183"
+}
 ]

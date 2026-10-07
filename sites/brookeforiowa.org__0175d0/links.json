@@ -1,15 +1,58 @@
 [
-"https://brookeforiowa.org/about-1",
-"https://brookeforiowa.org/contact",
-"https://brookeforiowa.org/contribute",
-"https://brookeforiowa.org/home",
-"https://brookeforiowa.org/privacy-policy",
-"https://brookeforiowa.org/request-a-yard-sign",
-"https://facebook.com/Brookeforiowa",
-"https://instagram.com/brooke_boden_iowa_house_",
-"https://secure.anedot.com/brooke-boden-for-iowa-house/donate",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
-"https://sos.iowa.gov/elections/voterinformation/voterregistration.html",
-"https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://x.com/BrookeforIowa"
+{
+"text": "ABOUT",
+"href": "https://brookeforiowa.org/about-1"
+},
+{
+"text": "Brooke Boden for Iowa HouseBrooke Boden for Iowa HouseBrooke Boden for Iowa HouseBrooke Boden for Iowa House",
+"href": "https://brookeforiowa.org/home"
+},
+{
+"text": "CONTACT",
+"href": "https://brookeforiowa.org/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://brookeforiowa.org/contribute"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/brooke-boden-for-iowa-house/donate"
+},
+{
+"text": "Find your polling place",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "HOME",
+"href": "https://brookeforiowa.org/home"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://brookeforiowa.org/privacy-policy"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://brookeforiowa.org/request-a-yard-sign"
+},
+{
+"text": "Register to vote",
+"href": "https://sos.iowa.gov/elections/voterinformation/voterregistration.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Brookeforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/brooke_boden_iowa_house_/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/BrookeforIowa"
+},
+{
+"text": "request an absentee ballot",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+}
 ]

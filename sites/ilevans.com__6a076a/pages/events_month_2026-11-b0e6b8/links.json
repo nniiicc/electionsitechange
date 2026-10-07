@@ -1,17 +1,90 @@
 [
-"https://ilevans.com/",
-"https://ilevans.com/about-marcus-evans",
-"https://ilevans.com/contact",
-"https://ilevans.com/donate",
-"https://ilevans.com/events/2026-11-01",
-"https://ilevans.com/events/list?tribe-bar-date=2026-11-01",
-"https://ilevans.com/events/month",
-"https://ilevans.com/events/month/2026-10",
-"https://ilevans.com/events/month/2026-11",
-"https://ilevans.com/events/month/2026-11?ical=1",
-"https://ilevans.com/events/month/2026-12",
-"https://ilevans.com/get-a-yard-sign",
-"https://ilevans.com/latest-news",
-"https://ilevans.com/thank-you-district-33",
-"https://ilevans.com/volunteer"
+{
+"text": "#ago",
+"href": "https://www.ilevans.com/events/month/"
+},
+{
+"text": "773.800.9216",
+"href": "tel:773.800.9216"
+},
+{
+"text": "Contact",
+"href": "https://www.ilevans.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://www.ilevans.com/events/2026-11-01/"
+},
+{
+"text": "Dec",
+"href": "https://www.ilevans.com/events/month/2026-12/"
+},
+{
+"text": "Donate",
+"href": "https://www.ilevans.com/donate/"
+},
+{
+"text": "Export Events",
+"href": "https://www.ilevans.com/events/month/2026-11/?ical=1"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.ilevans.com/get-a-yard-sign/"
+},
+{
+"text": "Home",
+"href": "https://www.ilevans.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.ilevans.com/latest-news/"
+},
+{
+"text": "List",
+"href": "https://www.ilevans.com/events/list/?tribe-bar-date=%23"
+},
+{
+"text": "Marcus Evans for State Rep",
+"href": "https://www.ilevans.com"
+},
+{
+"text": "Meet Marcus",
+"href": "https://www.ilevans.com/about-marcus-evans/"
+},
+{
+"text": "Month",
+"href": "https://www.ilevans.com/events/month/2026-11/"
+},
+{
+"text": "Oct",
+"href": "https://www.ilevans.com/events/month/2026-10/"
+},
+{
+"text": "Thank You District 33!",
+"href": "https://www.ilevans.com/thank-you-district-33/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ilevans.com/volunteer/"
+},
+{
+"text": "[image: Marcus Evans for State Rep]",
+"href": "https://www.ilevans.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.ilevans.com/thank-you-district-33/"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://www.ilevans.com/events/month/2026-12/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://www.ilevans.com/events/month/2026-10/"
+},
+{
+"text": "marcus@ilevans.com",
+"href": "mailto:marcus@ilevans.com"
+}
 ]

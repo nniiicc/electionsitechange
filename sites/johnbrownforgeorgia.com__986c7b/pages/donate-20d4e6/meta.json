@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.johnbrownforgeorgia.com/donate",
- "paid_for_by": null,
- "title": "Donate \u2014 John Brown for Georgia 2026",
- "years_mentioned": []
+ "fingerprint": "85b1fa90af3f666fb9e8c35ba0cf5e8c13a24bf3",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Donate — John Brown for Georgia 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

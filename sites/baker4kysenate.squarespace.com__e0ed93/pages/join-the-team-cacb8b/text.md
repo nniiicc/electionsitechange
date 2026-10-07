@@ -1,5 +1,3 @@
-Join the Team
-General Campaigning: Phone Banking, Door Knocking, Yard Signage Distribution, et cetera
-Event Support: Set Up & Break Down of Events, Attending Booths, Distributing Materials during Events
-Artistic Help: Offer your unique skills on an as needed basis
-Administrative & Communication Support: Social Media Monitoring, File Organization, Pre & Post-Event Communication Support
+0 Skip to Content Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Join the Team General Campaigning : Phone Banking, Door Knocking, Yard Signage Distribution, et cetera Event Support : Set Up & Break Down of Events, Attending Booths, Distributing Materials during Events Artistic Help : Offer your unique skills on an as needed basis Administrative & Communication Support : Social Media Monitoring, File Organization, Pre & Post-Event Communication Support ENDORSMENT HIGHLIGHTS Visit ActBlue Donate "Power should be held in a glass cage, contained and transparent.” - unknown *#% Human Made.
+Paid for by Joshua Baker for Kentucky State Senate Campaign Committee through Donations from Generous Neighbors like You!
+Follow Us For the most up-to-date campaign news, follow on socials!

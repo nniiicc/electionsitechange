@@ -1,7 +1,9 @@
 {
  "description": "Stay informed on the latest news and updates from the New York State Assembly, including initiatives in Schenectady, Amsterdam, and Rotterdam.",
  "final_url": "https://angelosantabarbara.com/",
- "paid_for_by": null,
+ "fingerprint": "81f443cc3b6d94cbbe0fe3e62936a70e0424444a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Schenectady, Amsterdam, Rotterdam - New York State Assembly Updates",
  "years_mentioned": []
 }

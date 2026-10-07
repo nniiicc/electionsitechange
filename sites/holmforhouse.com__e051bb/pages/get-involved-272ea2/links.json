@@ -1,6 +1,30 @@
 [
-"https://holmforhouse.com/",
-"https://holmforhouse.com/about",
-"https://holmforhouse.com/contact",
-"https://holmforhouse.com/get-involved"
+{
+"text": "- FOR MN HOUSE -",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "About",
+"href": "https://www.holmforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.holmforhouse.com/contact"
+},
+{
+"text": "Get Involved",
+"href": "https://www.holmforhouse.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "Steve Holm",
+"href": "https://www.holmforhouse.com"
+},
+{
+"text": "[image: White MN Star - No Background]",
+"href": "https://www.holmforhouse.com"
+}
 ]

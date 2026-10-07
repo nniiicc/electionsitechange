@@ -1,7 +1,4 @@
-Donate
-"*" indicates required fields
-Join Team Driscoll
-Jeanine Driscoll is a champion for Nassau County taxpayers.
+Skip to content Facebook X-twitter Instagram DONATE Meet Jeanine Driscoll Get Involved Volunteer Request a Lawn Sign Contact Meet Jeanine Driscoll Get Involved Volunteer Request a Lawn Sign Contact Donate GET INVOLVED " * " indicates required fields Join Team Driscoll Donate Get Involved Jeanine Driscoll is a champion for Nassau County taxpayers.
 As Hempstead Town Receiver of Taxes, Jeanine has helped local homeowners save millions on their property tax bills through exemptions on their county, town, and school district taxes and helped them lower their assessments.
 Jeanine is running for Congress to build upon her record of protecting Nassau taxpayers.
 She will continue fighting to lower the tax burden by restoring the full State and Local Tax (SALT) Deduction and providing additional relief for Nassau County families and seniors.
@@ -10,3 +7,4 @@ Instead of delivering the help Nassau families need, her opponent voted against 
 Her opponent also voted against records funding to secure the border and prevent another migrant crisis.
 Jeanine Driscoll is a trusted voice for New York’s 4th Congressional District.
 As Receiver of Taxes in America’s largest town, she currently serves over 95% of the district and was overwhelmingly re-elected in 2023.
+Stay Connected " * " indicates required fields PAID FOR BY DRISCOLL FOR CONGRESS Privacy Policy Facebook X-twitter Instagram

@@ -1,11 +1,7 @@
-FOR IMMEDIATE RELEASE
-July 8, 2022
-Somers Reelection Campaign Qualifies for Citizens Election Program
-Campaign Prepared to Highlight Record of Delivering Results and Challenging the Status Quo
-GROTON — State Senator Heather Somers of Groton announced Friday her campaign has reached the qualifying threshold to participate in the Citizens Election Program (CEP) for the 2022 election.
+Home About Heather Issues & Record News Donate SMS Opt-In Somers Reelection Campaign Qualifies for Citizens Election Program Posted on August 26, 2022 by Heather Somers FOR IMMEDIATE RELEASE July 8, 2022 Somers Reelection Campaign Qualifies for Citizens Election Program Campaign Prepared to Highlight Record of Delivering Results and Challenging the Status Quo GROTON — State Senator Heather Somers of Groton announced Friday her campaign has reached the qualifying threshold to participate in the Citizens Election Program (CEP) for the 2022 election.
 “The skyrocketing cost of living has become nearly impossible to bear for too many hardworking families in eastern Connecticut who face rising prices on everything from gas to groceries,” Somers said.
 “At the same time, our state’s out-of-control energy costs and punitive business and tax climate are hitting our small businesses with enormous challenges.
-I am laser focused on delivering results for our communities that provide direct relief from these challenges and foster greater economic opportunity for all by upending the broken status quo.”
-“I’m thankful and humbled by the hundreds of supporters who have rallied behind my campaign and helped ensure we’ll have the resources needed to share my record and vision with the voters,” Somers continued.
-“I look forward to building on my track record of results and fighting with an independent and balanced voice for a stronger, more prosperous Connecticut.”
-###
+I am laser focused on delivering results for our communities that provide direct relief from these challenges and foster greater economic opportunity for all by upending the broken status quo.” “I’m thankful and humbled by the hundreds of supporters who have rallied behind my campaign and helped ensure we’ll have the resources needed to share my record and vision with the voters,” Somers continued.
+“I look forward to building on my track record of results and fighting with an independent and balanced voice for a stronger, more prosperous Connecticut.” ### Delivering Results.
+Challenging the Status Quo.
+Paid for by Somers for Senate, Constantine Antipas Treasurer, Approved by Heather Somers

@@ -1,7 +1,4 @@
-What the Public Record Shows
-News Article
-What the Public Record Shows
-The following summary is based entirely on official Washington State legislative, agency and budget documents.
+Facebook Mail Home Connect Volunteer Priorities Endorsements About Mike News & Updates Connect Menu Menu What the Public Record Shows News Article What the Public Record Shows The following summary is based entirely on official Washington State legislative, agency and budget documents.
 Each source is linked so readers can review the record directly.
-HB 2625
-A campaign mailer characterizes…
+HB 2625 A campaign mailer characterizes… July 27, 2026 https://www.votemikesteele.com/wp-content/uploads/2026/05/mike-microphone-e1785258232236.jpg 700 1365 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-07-27 16:10:42 2026-07-28 17:04:02 What the Public Record Shows Pages About Mike Connect Endorsements Home News & Updates Priorities Volunteer Categories News Article Press Release Archive July 2026 May 2026 Connect with Mike Steele Citizens to Elect Mike Steele P.O.
+Box 1072 Chelan, WA 98816 Learn More Priorities Endorsements About Mike News & Updates Connect Paid for by Citizens to Elect Mike Steele (R) State Representative Priorities Endorsements About Mike News & Updates Connect Scroll to top

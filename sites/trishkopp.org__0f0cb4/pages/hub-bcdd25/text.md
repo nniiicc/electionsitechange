@@ -1,13 +1,3 @@
-Trish Kopp
-Hub
-Everything in one place.
+Skip to content About Get Involved Priorities Endorsements Updates Contact Donate About Get Involved Priorities Endorsements Updates Contact Donate Trish Kopp Hub Everything in one place.
 Find events, volunteer, explore the issues, get voting information, donate, read the latest updates, learn more about Trish, or pledge to vote.
-Contact
-Trish Kopp
-trishkopp@trishkopp.org
-For Press Inquiries
-press@trishkopp.org
-For General Inquiries
-campaign@trishkopp.org
-Our District
-State Assembly District 7
+Explore I Pledge to Vote → About → Attend an Event → Priorities → Updates → Volunteer → Voting Hub → Donate → Contact Trish Kopp trishkopp@trishkopp.org For Press Inquiries press@trishkopp.org For General Inquiries campaign@trishkopp.org Our District State Assembly District 7

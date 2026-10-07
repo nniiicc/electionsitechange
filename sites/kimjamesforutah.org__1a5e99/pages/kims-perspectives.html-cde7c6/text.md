@@ -1,6 +1,5 @@
-Vote Kim James for Faithful Leadership
-Utah needs leaders who will faithfully represent its people.
-| | Kim's Perspectives* CARING FOR PEOPLE The only reason to be elected is to be a public servant who cares about people.
+KIM JAMES FOR UTAH HOUSE DISTRICT 8 HOME ABOUT KIM About Kim James Kim's Perspectives Kim's Opposition HD8 MAP DONATE VOLUNTEER & CONTACT Volunteer & Vote Contact Us ​Vote Kim James for Faithful Leadership Utah needs leaders who will faithfully represent its people.
+Kim's Perspectives* CARING FOR PEOPLE The only reason to be elected is to be a public servant who cares about people.
 That means listening to the people, anticipating and responding to their needs, and shaping government to improve their lives.
 A public servant respects the people's opinions and voting rights, and allows them to raise concerns through citizen initiatives and judicial decisions, as indicated in the Utah Constitution.
 In recent times, we've seen the majority in Utah's Legislature lean more toward protecting their own interests and power than respecting the will of the people.
@@ -11,14 +10,14 @@ HAVING A WIDE VIEW Over four decades of serving congregations and communities an
 Her experience ranges from big cities to small towns, from agriculture to academia, from poverty to prosperity, from the happiness of 70th wedding anniversaries to the grief of divorce and death, from the celebrations of graduations and newborn babies to the agony of mental illness in families, from the horrors of homelessness to the joy of new homes.
 Because we are not all cut from the same cookie cutter, Kim believes that government should be flexible.
 All the state's residents deserve dignity, respect, and positive opportunities.
-IT'S TIME FOR A DIFFERENCE!
+IT'S TIME FOR A D IFFERENCE!
 Some folks think that R is the only letter in the alphabet that counts.
 Kim thinks that D is an important letter also.
-Decent--Let's offer respect, value, and Dignity to every person.
-Dynamic--Let's embrace the future for ourselves and our children.
-Down-to-earth--Let's focus on the basics we all need: jobs with living wages, healthcare, education, affordable housing, and a hospitable environment.
-Dependable, Dedicated, and Determined--Let's elect leaders who can be trusted to serve the public good.
-Let's vote D for Democrats!
+D ecent--Let's offer respect, value, and D ignity to every person.
+D ynamic--Let's embrace the future for ourselves and our children.
+D own-to-earth--Let's focus on the basics we all need: jobs with living wages, healthcare, education, affordable housing, and a hospitable environment.
+D ependable, D edicated, and D etermined--Let's elect leaders who can be trusted to serve the public good.
+Let's vote D for D emocrats!
 THE ENVIRONMENT Kim grew up in northwestern Montana, in the mountain valley town of Libby.
 During her childhood, a dam was built there on the Kootenai River, as the community and larger governmental agencies dealt with concerns around water, flood control, and power generation.
 Growing up in Libby, Kim was also surrounded by concerns about public lands, as the U.S.
@@ -99,10 +98,11 @@ The number one reason why some choose abortion is because they can't financially
 Kim has seen the emotional and physical suffering that can happen when children are born into untenable circumstances.
 In other cases, abortion is medically necessary.
 In emergencies, there isn't time for doctors to second guess legal details and consequences.
-Women and their doctors should be trusted to make the best choices without governmental interference and overreach.
+W omen and their doctors should be trusted to make the best choices without governmental interference and overreach.
 INDEPENDENT BRANCHES OF GOVERNMENT Kim believes that we have three separate branches of government in order to keep everything checked and balanced.
 When the judiciary rules against the Legislature, that isn't a bad thing.
 That's the judges doing their constitutional duty.
-Since most of us aren't able to track judges closely, it helps to use the reviews of the Judicial Performance Evaluation Commission.
+Since most of us aren't able to track judges closely, it helps to use the reviews of the Judicial Performance Evaluation Commission .
 It's essential that the Legislature and Governor not interfere with the independent decisions of the courts. *Kim is always learning and growing and invites conversation.
-If you would like to help her become more wise, please use the CONTACT FORM. |
+If you would like to help her become more wise, please use the CONTACT FORM .
+Proudly powered by Weebly HOME ABOUT KIM About Kim James Kim's Perspectives Kim's Opposition HD8 MAP DONATE VOLUNTEER & CONTACT Volunteer & Vote Contact Us

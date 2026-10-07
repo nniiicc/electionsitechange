@@ -1,3 +1,10 @@
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 3 Childcare Isn’t Just a Family Issue.
+It’s an Economic Issue.
+30-second overview From the published campaign article When parents in MI-89 cannot find or afford reliable childcare, it is not only a private hardship.
+It is a drag on local businesses, workforce participation, family budgets, and the broader West Michigan economy.
+Local context and documented position The original explanation below contains the campaign’s position and local context.
+Campaign statements express positions; linked records and reports provide their own evidence.
+Sources and records www.house.mi.gov — official document or government source. www.michamber.com — linked reporting or reference. joemoss.com — candidate campaign source. www.nmececd.org — linked reporting or reference. dcf.vermont.gov — linked reporting or reference. legislature.vermont.gov — linked reporting or reference. www.michigan.gov — official document or government source. www.michigan.gov — official document or government source.
 When parents in MI-89 cannot find or afford reliable childcare, it is not only a private hardship.
 It is a drag on local businesses, workforce participation, family budgets, and the broader West Michigan economy.
 District 89 includes parts of Kent, Ottawa, and Muskegon counties, not all three counties.
@@ -5,22 +12,19 @@ The official district map distinguishes its boundaries from the wider regional e
 A 2023 childcare economic-impact report estimates Michigan’s annual losses at $2.9 billion; that is a statewide estimate, not a measured loss for District 89.
 This is not abstract.
 It affects teachers, nurses, factory workers, small-business owners, and the next generation of talent that West Michigan needs to grow.
-The Local Reality
-West Michigan families face a double bind: high costs and low supply.
+The Local Reality West Michigan families face a double bind: high costs and low supply.
 Waiting lists stretch for months or years.
 Providers struggle with thin margins, low wages for early educators, and high turnover.
 When pandemic-era federal supports ended, many programs faced pressure to raise prices or close seats.
 The result is predictable: fewer parents fully participating in the workforce, constrained business growth, and families stretched thin.
 Housing shortages and childcare shortages compound each other.
 Families who cannot find care near home or work face longer commutes or decide one parent must stay home—reducing household income just as housing costs remain elevated.
-A Contrast in Approaches
-The campaign homepage reviewed on September 25, 2026 emphasizes parental rights, local control, and reducing government.
+A Contrast in Approaches The campaign homepage reviewed on September 25, 2026 emphasizes parental rights, local control, and reducing government.
 That page did not provide a detailed childcare supply or affordability proposal.
 This describes the page reviewed, not every statement Moss may have made.
 Practical solutions do not require government to raise children.
 They require treating accessible, quality childcare as essential infrastructure—like roads or broadband—that enables parents to work and businesses to thrive.
-What Other States Are Doing—and the Economic Payoff
-Other states have changed how they fund childcare and support providers.
+What Other States Are Doing—and the Economic Payoff Other states have changed how they fund childcare and support providers.
 Program design, participation, and long-term economic effects are different kinds of evidence.
 New Mexico removed income limits for its child care assistance program on November 1, 2025.
 Its financing includes dedicated state funds.
@@ -34,14 +38,15 @@ These are participation and savings figures, not a demonstrated financial return
 The program does not create childcare openings by itself.
 These programs use different funding mechanisms and serve different populations.
 Their results need to be assessed separately, with attention to the period measured, who participated, and whether a reported outcome can be attributed to the policy.
-A Practical Path for MI-89
-West Michigan does not need to copy any single model wholesale.
+A Practical Path for MI-89 West Michigan does not need to copy any single model wholesale.
 It can build on what is already working locally—Tri-Share, county-level task forces, and partnerships between businesses, providers, and community organizations—while learning from states that have treated childcare as economic infrastructure with documented returns.
-Priorities that align with both family well-being and economic strength include:
-- Expanding successful cost-sharing and subsidy approaches so more middle-income working families benefit.
-- Raising reimbursement rates so providers can pay competitive wages and stay open.
-- Supporting smaller, flexible options (home-based care, microcenters) with practical licensing that maintains safety without unnecessary barriers.
-- Encouraging employer partnerships and local innovation while providing the stable public investment needed for scale.
+Priorities that align with both family well-being and economic strength include: Expanding successful cost-sharing and subsidy approaches so more middle-income working families benefit.
+Raising reimbursement rates so providers can pay competitive wages and stay open.
+Supporting smaller, flexible options (home-based care, microcenters) with practical licensing that maintains safety without unnecessary barriers.
+Encouraging employer partnerships and local innovation while providing the stable public investment needed for scale.
 Parents should remain the primary decision-makers for their children.
 Policy discussions must account for families choosing paid care, relatives providing care, and parents who stay home.
-Public funding, provider wages, safety standards, and affordable fees create real tradeoffs.
+Public funding, provider wages, safety standards, and affordable fees create real tradeoffs. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading Affordability & Housing How does Michigan policy affect household costs?
+Why is it so hard to buy a home in Allendale and Ottawa County?
+Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+All rights reserved.

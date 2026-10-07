@@ -1,7 +1,9 @@
 {
  "description": "Manage Freebies on Maxwell for Congress. The official campaign website for Christian Maxwell, running for Congressional.",
  "final_url": "https://christianmaxwellforcongress.com/ManageFreebies",
- "paid_for_by": null,
+ "fingerprint": "1a45aaf9e1d233281946dbf53c7399f2abe5884c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Manage Freebies | Maxwell for Congress",
  "years_mentioned": []
 }

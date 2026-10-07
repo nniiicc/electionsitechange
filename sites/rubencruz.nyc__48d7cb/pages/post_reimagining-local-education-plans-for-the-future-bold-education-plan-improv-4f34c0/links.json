@@ -1,43 +1,210 @@
 [
-"https://a069-access.nyc.gov/accesshra",
-"https://a810-bisweb.nyc.gov/bisweb/bispi00.jsp",
-"https://aspca.org/animal-protection/covid-19",
-"https://ballotpedia.org/Ruben_Cruz_II",
-"https://buy.stripe.com/28E14ofueeGv2sQeui5Vu01",
-"https://citymeals.org/get-meals",
-"https://facebook.com/profile.php?id=61563576875230",
-"https://foodbanknyc.org/get-help",
-"https://instagram.com/rubencruzpublicservant",
-"https://linkedin.com/in/rubendariocruz",
-"https://mta.info/maps",
-"https://ny.gov/services/unemployment-0",
-"https://nyc.gov/site/finance/property/property-tax-benefits.page",
-"https://nyc.gov/site/queenscb10/index.page",
-"https://nyc.gov/site/queenscb5/index.page",
-"https://nyc.gov/site/queenscb8/index.page",
-"https://nyc.gov/site/queenscb9/index.page",
-"https://nycwell.cityofnewyork.us/en",
-"https://opdv.ny.gov/help/dvhotlines.html",
-"https://opt-osfns.org/schoolfoodny/meals/default.aspx",
-"https://otda.ny.gov/programs/heap",
-"https://ovs.ny.gov/",
-"https://rubencruz.nyc/",
-"https://rubencruz.nyc/about",
-"https://rubencruz.nyc/animal-welfare",
-"https://rubencruz.nyc/contact",
-"https://rubencruz.nyc/education",
-"https://rubencruz.nyc/events-1",
-"https://rubencruz.nyc/get-involved",
-"https://rubencruz.nyc/healthcare",
-"https://rubencruz.nyc/housing",
-"https://rubencruz.nyc/my-team",
-"https://rubencruz.nyc/news",
-"https://rubencruz.nyc/platform",
-"https://rubencruz.nyc/post/animal-welfare-in-queens-policies-shaping-our-community",
-"https://rubencruz.nyc/post/cruznyc-community-efforts-building-stronger-communities-together",
-"https://rubencruz.nyc/post/transforming-local-education-essential-education-reform-strategies",
-"https://rubencruz.nyc/profile/jurukan/profile",
-"https://rubencruz.nyc/transportation",
-"https://secure.winred.com/friends-of-ruben-cruz/donate-today?exitintent=true",
-"https://youtube.com/@rubencruzpublicservant"
+{
+"text": "A S P C A Services Hotline",
+"href": "https://www.aspca.org/animal-protection/covid-19"
+},
+{
+"text": "All Articles",
+"href": "https://www.rubencruz.nyc/news"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.rubencruz.nyc/animal-welfare"
+},
+{
+"text": "Animal Welfare in Queens: Policies Shaping Our Community",
+"href": "https://www.rubencruz.nyc/post/animal-welfare-in-queens-policies-shaping-our-community"
+},
+{
+"text": "Apply for SNAP",
+"href": "https://a069-access.nyc.gov/accesshra/"
+},
+{
+"text": "BBQ",
+"href": "https://www.rubencruz.nyc/about"
+},
+{
+"text": "CITYMEALS for Seniors",
+"href": "https://www.citymeals.org/get-meals"
+},
+{
+"text": "Check Your DEED",
+"href": "https://a810-bisweb.nyc.gov/bisweb/bispi00.jsp"
+},
+{
+"text": "Community Board 10",
+"href": "https://www.nyc.gov/site/queenscb10/index.page"
+},
+{
+"text": "Community Board 5",
+"href": "https://www.nyc.gov/site/queenscb5/index.page"
+},
+{
+"text": "Community Board 8",
+"href": "https://www.nyc.gov/site/queenscb8/index.page"
+},
+{
+"text": "Community Board 9",
+"href": "https://www.nyc.gov/site/queenscb9/index.page"
+},
+{
+"text": "Contact",
+"href": "https://www.rubencruz.nyc/contact"
+},
+{
+"text": "CruzNYC Community Efforts: Building Stronger Communities Together",
+"href": "https://www.rubencruz.nyc/post/cruznyc-community-efforts-building-stronger-communities-together"
+},
+{
+"text": "Domestic Violence Assistance",
+"href": "https://opdv.ny.gov/help/dvhotlines.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-ruben-cruz/donate-today?exitintent=true"
+},
+{
+"text": "Donate to WIN",
+"href": "https://buy.stripe.com/28E14ofueeGv2sQeui5Vu01"
+},
+{
+"text": "Education",
+"href": "https://www.rubencruz.nyc/education"
+},
+{
+"text": "Elder Abuse Office of Victiim Services",
+"href": "https://ovs.ny.gov/"
+},
+{
+"text": "Events",
+"href": "https://www.rubencruz.nyc/events-1"
+},
+{
+"text": "Food Bank",
+"href": "https://www.foodbanknyc.org/get-help/"
+},
+{
+"text": "Free Meals",
+"href": "https://www.opt-osfns.org/schoolfoodny/meals/default.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rubencruz.nyc/get-involved"
+},
+{
+"text": "Healthcare",
+"href": "https://www.rubencruz.nyc/healthcare"
+},
+{
+"text": "Home Energy Assistance Program",
+"href": "https://otda.ny.gov/programs/heap/#overview"
+},
+{
+"text": "Housing",
+"href": "https://www.rubencruz.nyc/housing"
+},
+{
+"text": "MTA Maps",
+"href": "https://www.mta.info/maps#@40.7032147,-73.959511,13z"
+},
+{
+"text": "My Team",
+"href": "https://www.rubencruz.nyc/my-team"
+},
+{
+"text": "NYC Well",
+"href": "https://nycwell.cityofnewyork.us/en/"
+},
+{
+"text": "News",
+"href": "https://www.rubencruz.nyc/news"
+},
+{
+"text": "Property Tax Benefits",
+"href": "https://www.nyc.gov/site/finance/property/property-tax-benefits.page"
+},
+{
+"text": "Ruben Cruz",
+"href": "https://www.rubencruz.nyc/profile/jurukan/profile"
+},
+{
+"text": "See All",
+"href": "https://www.rubencruz.nyc/news"
+},
+{
+"text": "The Blueprint",
+"href": "https://www.rubencruz.nyc/platform"
+},
+{
+"text": "The Foundation",
+"href": "https://www.rubencruz.nyc"
+},
+{
+"text": "Transforming Local Education: Essential Education Reform Strategies",
+"href": "https://www.rubencruz.nyc/post/transforming-local-education-essential-education-reform-strategies"
+},
+{
+"text": "Transportation",
+"href": "https://www.rubencruz.nyc/transportation"
+},
+{
+"text": "Unemployment Insurance",
+"href": "https://www.ny.gov/services/unemployment-0"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.rubencruz.nyc/get-involved"
+},
+{
+"text": "[image: Animal Welfare in Queens: Policies Shaping Our Community]",
+"href": "https://www.rubencruz.nyc/post/animal-welfare-in-queens-policies-shaping-our-community"
+},
+{
+"text": "[image: Ballotpedia Share Icon]",
+"href": "https://ballotpedia.org/Ruben_Cruz_II#Campaign_themes"
+},
+{
+"text": "[image: CHoursecolorpts]",
+"href": "https://www.rubencruz.nyc/my-team"
+},
+{
+"text": "[image: CruzNYC Community Efforts: Building Stronger Communities Together]",
+"href": "https://www.rubencruz.nyc/post/cruznyc-community-efforts-building-stronger-communities-together"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61563576875230"
+},
+{
+"text": "[image: Full RDC Logo]",
+"href": "https://www.rubencruz.nyc"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rubencruzpublicservant"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/rubendariocruz/"
+},
+{
+"text": "[image: RUBRE CRUZ LOGO DESIGN ]",
+"href": "https://www.rubencruz.nyc"
+},
+{
+"text": "[image: Sea Horse]",
+"href": "https://www.rubencruz.nyc/my-team"
+},
+{
+"text": "[image: Semi Transparent RDC Logo]",
+"href": "https://www.rubencruz.nyc"
+},
+{
+"text": "[image: StateAssembly38Logo]",
+"href": "https://www.rubencruz.nyc"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@rubencruzpublicservant"
+}
 ]

@@ -1,5 +1,4 @@
-The Amazingly Expanding New Mexico State Budget
-New Mexico has a strange business plan.
+Home Meet Bob Issues News Volunteer Contribute Contact Yard Signs 8 Apr Wednesday, 8:13 AM · 2026 The Amazingly Expanding New Mexico State Budget New Mexico has a strange business plan.
 The state takes more and more money from its citizens while not improving services.
 In the last eight years the states budget has increased by about 80%.
 Do you feel like you are getting 80% better service from the state?
@@ -59,15 +58,14 @@ Although it is smart management to maintain a “rainy day” fund for future co
 We often hear it said that we’re a poor state.
 We are not.
 But, we are a poorly managed state.
-Information for this article was derived from the state legislature at https://www.NMLegis.gov, the State Investment Council at https://www.sic.state.nm.us, and The Rio Grande Foundation at https://riograndefoundation.org.
-"But I’ve Always Been a Democrat”
-As I speak with people around the district I here this comment.
+Information for this article was derived from the state legislature at https://www.NMLegis.gov , the State Investment Council at https://www.sic.state.nm.us , and The Rio Grande Foundation at https://riograndefoundation.org .
+12 Jan Monday, 9:10 AM · 2026 "But I’ve Always Been a Democrat” As I speak with people around the district I here this comment.
 I have two answers.
-- You don’t have to vote for someone just because of that candidate’s party.
+You don’t have to vote for someone just because of that candidate’s party.
 In fact, the party should not be your first consideration.
 It’s more important to understand who the candidate is and what they stand for.
 If a particular candidate doesn’t share your values and beliefs, then you shouldn’t support them.
-- You may be registered as a Democrat, but what does that mean?
+You may be registered as a Democrat, but what does that mean?
 Do you really support soft-on-crime policies?
 Do you believe illegal immigrants from other countries who assault, rape, and murder our citizens should be released from custody?
 Are you okay with a party that believes they have a basic right to take your money but not to spend it wisely?
@@ -78,16 +76,15 @@ In that time we’ve managed to sink to the bottom of the list of states for goo
 This isn’t your parent’s and grandparent’s Democrat party.
 This is the party of ruin for this state.
 So, as you consider who to vote for, consider which candidate has your best interest in mind.
-If you’ve had enough of Democrat control of our state, you can change your voter registration here.
-your news summary here.
-How Should We Approach Crime in New Mexico?
+If you’ve had enough of Democrat control of our state, you can change your voter registration here . your news summary here.
+12 Jan Monday, 9:07 AM · 2026 How Should We Approach Crime in New Mexico?
 Crime.
 When I speak with people in my district here in Albuquerque they tell me it is their number one concern.
 It’s true that this city has an incredible and unacceptable level of crime, especially violent crime.
 Many just don’t feel safe.
 But, this isn’t just an Albuquerque problem.
 Crime is a New Mexico problem.
-As the Legislative Finance Committee reported, this state has levels of crime that far exceed the national average.
+As the Legislative Finance Committee reported , this state has levels of crime that far exceed the national average.
 Why?
 There is no simple answer to this question.
 The problem is the result of several closely related issues.
@@ -97,12 +94,11 @@ Our legislature needs to take positive action to hold both the criminals and the
 This applies to juvenile crime as well.
 Currently, if a juvenile commits a crime the law makes prosecution very difficult.
 Older criminals know this and use young people, making those juveniles a sort of junior criminal-in-training.
-Necessary Actions
-- Repeal the New Mexico constitutional amendment (cashless bail) that hampers a judge’s ability to keep criminals locked up.
-- Properly staff and empower law enforcement agencies.
+Necessary Actions Repeal the New Mexico constitutional amendment (cashless bail) that hampers a judge’s ability to keep criminals locked up.
+Properly staff and empower law enforcement agencies.
 That also means partnering with the federal government to arrest and deport criminal aliens.
-- Strengthen laws relating to juvenile crime.
-- Continue work on diversion programs, but not at the expense of these other priorities.
+Strengthen laws relating to juvenile crime.
+Continue work on diversion programs, but not at the expense of these other priorities.
 These approaches are important, but are just one part of the equation.
 One of the contributors to crime is unemployment.
 Studies have shown that there is a definite correlation between unemployment and crime, and that brings us to our state’s finance and budget policies.
@@ -115,11 +111,10 @@ Essentially you pay tax multiple times for a single product or service.
 The legislature should abolish the GRT in favor of a straight sales tax.
 A significant reduction or better yet elimination of the income tax would also provide an incentive for companies to move to New Mexico.
 These steps would make New Mexico more business friendly resulting in more, better paying jobs.
-Necessary Actions
-- Eliminate the Gross Receipts Tax in favor of a straight sales take on the final product or service.
-- Eliminate the state income tax.
+Necessary Actions Eliminate the Gross Receipts Tax in favor of a straight sales take on the final product or service.
+Eliminate the state income tax.
 Education also plays a role in the crime equation.
-New Mexico has consistently been rated as the worst in the nation for educational accomplishment.
+New Mexico has consistently been rated as the worst in the nation for educational accomplishment .
 The result is often young adults who are not ready to contribute to the working world.
 Instead they are stuck in low-paying jobs or are unemployable.
 Crime becomes the alternative.
@@ -127,29 +122,27 @@ Studies clearly show there is a positive correlation between educational success
 The state continually throws money at our schools, apparently with no expectation of positive results.
 We must start holding our schools and administrators responsible for the dismal return on that investment.
 A good place to start is with reading.
-New Mexico has the lowest literacy rate in the nation.
+New Mexico has the lowest literacy rate in the nation .
 It’s hard to find a good job if you can’t read.
-Necessary Actions
-- Direct schools to concentrate on basic skills.
-- Allow parents to decide what school is the best choice for their children.
-- Give authority to the local school districts who know what’s best for their communities.
-- Opt in to the new federal program to provide tax credits to many families allowing them to select the best education source for their children.
-- Strengthen commitment to vocation training to provide marketable skills.
+Necessary Actions Direct schools to concentrate on basic skills.
+Allow parents to decide what school is the best choice for their children.
+Give authority to the local school districts who know what’s best for their communities.
+Opt in to the new federal program to provide tax credits to many families allowing them to select the best education source for their children.
+Strengthen commitment to vocation training to provide marketable skills.
 There isn’t a single answer to reducing crime in our state.
 We must approach this issue from several angles and make crime a much more difficult and less desirable choice.
 Add your news summary here.
-Bob Mason Announces Candidacy for the New Mexico House Seat in District 21
-With the 2026 election year just around the corner, Bob Mason has declared his candidacy for the New Mexico House seat in District 21.
+15 Dec Monday, 8:00 AM · 2025 Bob Mason Announces Candidacy for the New Mexico House Seat in District 21 With the 2026 election year just around the corner, Bob Mason has declared his candidacy for the New Mexico House seat in District 21.
 There are many issues which are energizing his run for office.
-Some of his main concerns are,
-- District 21 does not have sufficient representation in New Mexico government.
+Some of his main concerns are, District 21 does not have sufficient representation in New Mexico government.
 The incumbent ignores correspondence and seems more interested in spending taxpayer’s money than in supporting legislation that would benefit the people and businesses in the district.
-- New Mexico is a wealthy state, or at least it has a very wealthy government.
+New Mexico is a wealthy state, or at least it has a very wealthy government.
 Even though the state has various funds that equal more than $66 billion dollars, legislators like the district’s incumbent refuse to even consider reducing the tax burden on citizens.
 Instead they continually increase the state’s expenditures.
-- Even though everyone seems concerned about a rise in crime and declining public safety, the state government’s only approach seems to be restricting the rights of the law abiding while coddling the criminals.
-- The legislature seems unable or unwilling to exercise its constitutional responsibility to represent the citizens of the state by reigning in the governor’s abuse of power.
+Even though everyone seems concerned about a rise in crime and declining public safety, the state government’s only approach seems to be restricting the rights of the law abiding while coddling the criminals.
+The legislature seems unable or unwilling to exercise its constitutional responsibility to represent the citizens of the state by reigning in the governor’s abuse of power.
 During the pandemic the governor issued several decrees that worked to damage and even destroy small business in the state and keep children out of school.
 Overall, it seems like the state’s legislature is more beholden to the teacher’s union and the trial lawyers than to the citizens of the state.
 Although these are the issues that concern Bob, he is asking residents of District 21 what issues are important to them by completing a short survey.
-The survey is available here.
+The survey is available here .
+Read more Voter Information Endorsements Yard Signs Photos Contact Paid for by the Committee to Elect Bob Mason Powered by CampaignPartner.com - Political Websites Home Meet Bob Issues Endorsements Contribute Volunteer News Yard Signs Contact Voter Information Close Menu

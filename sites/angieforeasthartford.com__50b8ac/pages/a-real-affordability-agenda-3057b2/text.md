@@ -1,16 +1,18 @@
-A REAL AFFORDABILITY AGENDA
-Connecticut families face some of the highest energy costs in the nation while corporate profits soar, clear evidence that our affordability crisis is the result of policy choices, not inevitability.
+top of page About Platform A Real Affordability Agenda Healthcare for All Protect & Strengthen Public Education Working Families, Labor & Fair Wages Tax Fairness & Community Investment Protecting Rights & Democracy A Real Affordability Agenda Healthcare for All Protect & Strengthen Public Education Working Families, Labor & Fair Wages Tax Fairness & Community Investment Protecting Rights & Democracy Endorsements Engage Menu Close About Platform A Real Affordability Agenda Healthcare for All Protect & Strengthen Public Education Working Families, Labor & Fair Wages Tax Fairness & Community Investment Protecting Rights & Democracy A Real Affordability Agenda Healthcare for All Protect & Strengthen Public Education Working Families, Labor & Fair Wages Tax Fairness & Community Investment Protecting Rights & Democracy Endorsements Engage Menu Close A REAL AFFORDABILITY AGENDA Connecticut families face some of the highest energy costs in the nation while corporate profits soar, clear evidence that our affordability crisis is the result of policy choices, not inevitability .
 For too long, decisions have prioritized extreme wealth and corporate interests over working people.
 The Real Affordability Agenda charts a different path: lowering costs by expanding child care, creating a child tax credit, advancing a public healthcare option, building more housing, and holding energy companies accountable.
 This isn’t abstract, it’s already working in states like Massachusetts and New Mexico.
-With the right policies, we can rein in costs, expand opportunity, and build an economy that works for everyone:
-- Make housing affordable and stable: Enact just-cause eviction protections for all tenants, cap excessive rent increases, support tenant unions, and give renters the first chance to buy their homes.
+With the right policies, we can rein in costs, expand opportunity, and build an economy that works for everyone: Make housing affordable and stable: Enact just-cause eviction protections for all tenants, cap excessive rent increases, support tenant unions, and give renters the first chance to buy their homes.
 Expand housing options, increase subsidies, and tackle zoning barriers that drive up costs.
-- Lower the cost of homeownership: Invest in repair and improvement programs, prioritize housing for veterans, and empower municipalities to expand access and affordability.
-- Take on energy costs: Break up utility monopolies, create a public power option, and allow towns to build or buy their own systems.
+Lower the cost of homeownership: Invest in repair and improvement programs, prioritize housing for veterans, and empower municipalities to expand access and affordability.
+Take on energy costs: Break up utility monopolies, create a public power option, and allow towns to build or buy their own systems.
 Lower rates by capping profits, banning ratepayer-funded executive bonuses, and worker pay.
-- Build a cheaper, cleaner energy system: Expand solar, microgrids, and heat pumps, modernize infrastructure, and transition off costly fossil fuels.
-- Make childcare affordable: Establish universal childcare with caps tied to income, expanded free access for lower-income families, and full funding for Care4Kids to eliminate waitlists.
-- Support families with direct financial relief: Enact a permanent, inflation-indexed, fully refundable Child Tax Credit to reduce child poverty and support working families.
-- Put money back in workers’ pockets: Raise wages to a minimum wage that’s truly a living wage, end subminimum wages, and strengthen the right to organize.
-- Restore fair taxes: Tax extreme wealth, close corporate loopholes, and reinvest in housing, energy, food access, and family affordability.
+Build a cheaper, cleaner energy system: Expand solar, microgrids, and heat pumps, modernize infrastructure, and transition off costly fossil fuels.
+Make childcare affordable: Establish universal childcare with caps tied to income, expanded free access for lower-income families, and full funding for Care4Kids to eliminate waitlists.
+Support families with direct financial relief: Enact a permanent, inflation-indexed, fully refundable Child Tax Credit to reduce child poverty and support working families.
+Put money back in workers’ pockets: Raise wages to a minimum wage that’s truly a living wage, end subminimum wages, and strengthen the right to organize.
+Restore fair taxes: Tax extreme wealth, close corporate loopholes, and reinvest in housing, energy, food access, and family affordability.
+ANGIE FOR EAST HARTFORD LEGAL PAGES Terms & Conditions Privacy Policy FOLLOW US Facebook Instagram LinkedIn © # BY ANGIE FOR EAST HARTFORD.
+PAID FOR BY ANGIE FOR EAST HARTFORD, SIDNEY SODERHOLM, TREASURER.
+APPROVED BY ANGIE PARKINSON.
+Terms & Conditions Privacy Policy About Platform A Real Affordability Agenda Healthcare for All Protect & Strengthen Public Education Working Families, Labor & Fair Wages Tax Fairness & Community Investment Protecting Rights & Democracy Endorsements Engage bottom of page

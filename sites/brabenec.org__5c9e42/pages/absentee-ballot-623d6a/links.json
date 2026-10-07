@@ -1,26 +1,162 @@
 [
-"http://fvap.gov/",
-"http://ntsdata.net/orangeboe/absenteestatuscheck.aspx",
-"https://absenteeballot.elections.ny.gov/",
-"https://absenteeballot.elections.ny.gov/home/accessible",
-"https://brabenec.org/",
-"https://brabenec.org/about",
-"https://brabenec.org/absentee-ballot",
-"https://brabenec.org/contact",
-"https://brabenec.org/donate",
-"https://brabenec.org/events",
-"https://brabenec.org/imunify-bot-check",
-"https://brabenec.org/issues",
-"https://brabenec.org/privacy-policy",
-"https://brabenec.org/register-to-vote",
-"https://brabenec.org/request-lawn-sign",
-"https://brabenec.org/volunteer",
-"https://elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-English.pdf",
-"https://elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-Spanish.pdf",
-"https://facebook.com/KarlBrabenec",
-"https://instagram.com/karl4ny",
-"https://orangecountygov.com/DocumentCenter/View/16898",
-"https://orangecountygov.com/DocumentCenter/View/22115",
-"https://secure.anedot.com/karl4ny/donate",
-"https://x.com/KarlBrabenec"
+{
+"text": "845-428-9884",
+"href": "tel:8454289884"
+},
+{
+"text": "About",
+"href": "https://brabenec.org/about/"
+},
+{
+"text": "Absentee Ballot",
+"href": "https://brabenec.org/absentee-ballot/"
+},
+{
+"text": "Absentee Ballot Application",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "Absentee Ballot Application (en espanol)",
+"href": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-Spanish.pdf"
+},
+{
+"text": "Absentee Ballot Application - Ballot Pickup Policy",
+"href": "https://www.orangecountygov.com/DocumentCenter/View/16898"
+},
+{
+"text": "Absentee Ballot Application - English",
+"href": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-English.pdf"
+},
+{
+"text": "Absentee Ballot Application - Spanish",
+"href": "https://www.elections.ny.gov/NYSBOE/download/voting/AbsenteeBallot-Spanish.pdf"
+},
+{
+"text": "Accessible Electronic Ballot Application Portal",
+"href": "https://absenteeballot.elections.ny.gov/home/accessible"
+},
+{
+"text": "Accessible Electronic Ballot Application Portal Instructions",
+"href": "https://www.orangecountygov.com/DocumentCenter/View/22115"
+},
+{
+"text": "Agriculture",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-8"
+},
+{
+"text": "Contact",
+"href": "https://brabenec.org/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://brabenec.org/donate/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/karl4ny/donate"
+},
+{
+"text": "Donate",
+"href": "https://brabenec.org/donate/"
+},
+{
+"text": "Economic Development",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-3"
+},
+{
+"text": "Electronic Absentee Ballot Request Portal",
+"href": "https://absenteeballot.elections.ny.gov/"
+},
+{
+"text": "Ethics Reform",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-4"
+},
+{
+"text": "Events",
+"href": "https://brabenec.org/events/"
+},
+{
+"text": "Home",
+"href": "https://brabenec.org/"
+},
+{
+"text": "Infrastructure",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-6"
+},
+{
+"text": "Issues",
+"href": "https://brabenec.org/issues/"
+},
+{
+"text": "Military/Federal Absentee Form",
+"href": "http://www.fvap.gov/"
+},
+{
+"text": "My Absentee Ballot Status",
+"href": "http://www.ntsdata.net/orangeboe/absenteestatuscheck.aspx"
+},
+{
+"text": "Opioid Epidemic",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-2"
+},
+{
+"text": "PRIVACY STATEMENT",
+"href": "https://brabenec.org/privacy-policy/"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-7"
+},
+{
+"text": "Protecting the Environment",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-5"
+},
+{
+"text": "REQUEST LAWN SIGN",
+"href": "https://brabenec.org/request-lawn-sign/"
+},
+{
+"text": "Register to Vote",
+"href": "https://brabenec.org/register-to-vote/"
+},
+{
+"text": "Support",
+"href": "https://brabenec.org/donate/"
+},
+{
+"text": "Taxes and Spending",
+"href": "https://brabenec.org/issues/#pp-tab-61a1d4783da71-1"
+},
+{
+"text": "Volunteer",
+"href": "https://brabenec.org/volunteer/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://brabenec.org/"
+},
+{
+"text": "[image: Logo_2]",
+"href": "https://brabenec.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KarlBrabenec"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karl4ny/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/KarlBrabenec"
+},
+{
+"text": "imunify-bot-check",
+"href": "https://brabenec.org/imunify-bot-check"
+},
+{
+"text": "info@brabenec.org",
+"href": "mailto:info@brabenec.org"
+}
 ]

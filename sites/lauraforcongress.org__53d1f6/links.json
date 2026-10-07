@@ -1,9 +1,54 @@
 [
-"https://facebook.com/laurafriedmanca",
-"https://instagram.com/laurafriedmanca",
-"https://lauraforcongress.org/",
-"https://lauraforcongress.org/privacy-policy",
-"https://lauraforcongress.org/sign",
-"https://secure.actblue.com/donate/laura-friedman-for-congress-1",
-"https://twitter.com/LauraFriedmanCA"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/laura-friedman-for-congress-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "GET A YARD SIGN",
+"href": "https://lauraforcongress.org/sign"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "HOME",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "MEET LAURA",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.lauraforcongress.org/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.lauraforcongress.org"
+},
+{
+"text": "[image: Facebook ]",
+"href": "https://www.facebook.com/laurafriedmanca"
+},
+{
+"text": "[image: Instagram ]",
+"href": "https://www.instagram.com/laurafriedmanca/"
+},
+{
+"text": "[image: Twitter ]",
+"href": "https://twitter.com/LauraFriedmanCA"
+},
+{
+"text": "adam@lauraforcongress.org",
+"href": "mailto:adam@lauraforcongress.org"
+},
+{
+"text": "info@lauraforcongress.org",
+"href": "mailto:info@lauraforcongress.org"
+}
 ]

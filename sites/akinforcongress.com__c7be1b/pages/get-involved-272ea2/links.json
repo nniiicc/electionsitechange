@@ -1,14 +1,58 @@
 [
-"https://akinforcongress.com/",
-"https://akinforcongress.com/about",
-"https://akinforcongress.com/cart",
-"https://akinforcongress.com/contact",
-"https://akinforcongress.com/get-involved",
-"https://akinforcongress.com/issues",
-"https://akinforcongress.com/privacy-policy",
-"https://akinforcongress.com/sms-terms-conditions",
-"https://facebook.com/akinforcongress",
-"https://instagram.com/akinforcongress",
-"https://secure.winred.com/akin-for-congress/website-main",
-"https://x.com/AmmieAkin_AL"
+{
+"text": "0",
+"href": "https://www.akinforcongress.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.akinforcongress.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.akinforcongress.com/contact"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/akin-for-congress/website-main"
+},
+{
+"text": "Get Involved",
+"href": "https://www.akinforcongress.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.akinforcongress.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.akinforcongress.com/privacy-policy"
+},
+{
+"text": "SMS Terms & Conditions",
+"href": "https://www.akinforcongress.com/sms-terms-conditions"
+},
+{
+"text": "View Privacy Policy",
+"href": "https://www.akinforcongress.com/privacy-policy"
+},
+{
+"text": "[image: Ammie Akin For Congress]",
+"href": "https://www.akinforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/akinforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/akinforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AmmieAkin_AL"
+},
+{
+"text": "info@akinforcongress.com",
+"href": "mailto:info@akinforcongress.com"
+}
 ]

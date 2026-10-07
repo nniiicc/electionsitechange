@@ -1,17 +1,66 @@
 [
-"https://herzigforcongress.com/",
-"https://herzigforcongress.com/about-hillary",
-"https://herzigforcongress.com/blank",
-"https://herzigforcongress.com/blank-1",
-"https://herzigforcongress.com/blank-2",
-"https://herzigforcongress.com/blank-3",
-"https://herzigforcongress.com/donate",
-"https://herzigforcongress.com/event-details/6th-district-town-hall",
-"https://herzigforcongress.com/event-details/meet-hillary-candidate-for-u-s-house-representatives-nj-6",
-"https://herzigforcongress.com/event-details/turning-the-tide-in-district-6",
-"https://herzigforcongress.com/event-list",
-"https://herzigforcongress.com/get-involved",
-"https://herzigforcongress.com/items",
-"https://herzigforcongress.com/subscribe",
-"https://wix.com/"
+{
+"text": "6th District Town Hall",
+"href": "https://www.herzigforcongress.com/event-details/6th-district-town-hall"
+},
+{
+"text": "About Hillary",
+"href": "https://www.herzigforcongress.com/about-hillary"
+},
+{
+"text": "Buy Tickets",
+"href": "https://www.herzigforcongress.com/event-details/meet-hillary-candidate-for-u-s-house-representatives-nj-6"
+},
+{
+"text": "Details",
+"href": "https://www.herzigforcongress.com/event-details/turning-the-tide-in-district-6"
+},
+{
+"text": "Donate",
+"href": "https://www.herzigforcongress.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.herzigforcongress.com/event-list"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.herzigforcongress.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.herzigforcongress.com"
+},
+{
+"text": "Join",
+"href": "https://www.herzigforcongress.com/donate"
+},
+{
+"text": "Meet Hillary - Candidate for U.S House Representatives NJ-6",
+"href": "https://www.herzigforcongress.com/event-details/meet-hillary-candidate-for-u-s-house-representatives-nj-6"
+},
+{
+"text": "RSVP",
+"href": "https://www.herzigforcongress.com/event-details/6th-district-town-hall"
+},
+{
+"text": "Subscribe",
+"href": "https://www.herzigforcongress.com/subscribe"
+},
+{
+"text": "Turning The Tide In District 6",
+"href": "https://www.herzigforcongress.com/event-details/turning-the-tide-in-district-6"
+},
+{
+"text": "Watch Videos",
+"href": "https://www.herzigforcongress.com/items"
+},
+{
+"text": "Welcome",
+"href": "https://www.herzigforcongress.com"
+},
+{
+"text": "[image: Herzig for Congress Logo]",
+"href": "https://www.herzigforcongress.com"
+}
 ]

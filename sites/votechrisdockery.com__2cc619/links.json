@@ -1,6 +1,46 @@
 [
-"https://facebook.com/votedockery",
-"https://secure.anedot.com/dockeryforhouse/donate-now",
-"https://votechrisdockery.com/",
-"https://votechrisdockery.com/privacy"
+{
+"text": "$#",
+"href": "https://secure.anedot.com/dockeryforhouse/donate-now"
+},
+{
+"text": "About",
+"href": "https://www.votechrisdockery.com/#About"
+},
+{
+"text": "DONATE →",
+"href": "https://secure.anedot.com/dockeryforhouse/donate-now"
+},
+{
+"text": "Home",
+"href": "https://www.votechrisdockery.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votechrisdockery.com/#Issues"
+},
+{
+"text": "Other →",
+"href": "https://secure.anedot.com/dockeryforhouse/donate-now"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votechrisdockery.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votechrisdockery.com/#Volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votedockery"
+},
+{
+"text": "[no text]",
+"href": "mailto:chris@votechrisdockery.com"
+},
+{
+"text": "[no text]",
+"href": "tel:(706)%20265-0804"
+}
 ]

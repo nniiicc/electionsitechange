@@ -1,14 +1,62 @@
 [
-"http://lisawillner.com/",
-"https://donate.stripe.com/3cIfZhghkdVG4aafpi3gk00",
-"https://facebook.com/lisaforkyhouse",
-"https://forms.gle/jhaDRDnko9NkQ4sPA",
-"https://forms.gle/rqkQjFbJe1wKHgZJ7",
-"https://forms.gle/saJQRQdN2fdabzvq6",
-"https://forms.gle/xYUN2DDEaTCJueWBA",
-"https://lisawillner.com/",
-"https://lisawillner.com/about",
-"https://lisawillner.com/contact",
-"https://lisawillner.com/leadership",
-"https://lisawillner.com/privacy"
+{
+"text": "2026 Session Survey",
+"href": "https://forms.gle/saJQRQdN2fdabzvq6"
+},
+{
+"text": "502-564-8100",
+"href": "tel:5025648100"
+},
+{
+"text": "502-599-7289",
+"href": "tel:5025997289"
+},
+{
+"text": "About",
+"href": "https://lisawillner.com/about"
+},
+{
+"text": "Contact",
+"href": "https://lisawillner.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.stripe.com/3cIfZhghkdVG4aafpi3gk00"
+},
+{
+"text": "Lisa's Leadership",
+"href": "https://lisawillner.com/leadership"
+},
+{
+"text": "LisaWillner.com",
+"href": "http://lisawillner.com"
+},
+{
+"text": "Privacy",
+"href": "https://lisawillner.com/privacy"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://forms.gle/jhaDRDnko9NkQ4sPA"
+},
+{
+"text": "Request Your Free Yard Sign",
+"href": "https://forms.gle/rqkQjFbJe1wKHgZJ7"
+},
+{
+"text": "Volunteer",
+"href": "https://forms.gle/xYUN2DDEaTCJueWBA"
+},
+{
+"text": "[image: Lisa Willner for KY House logo]",
+"href": "https://lisawillner.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/lisaforkyhouse"
+},
+{
+"text": "lisaforkyhouse@gmail.com",
+"href": "mailto:lisaforkyhouse@gmail.com"
+}
 ]

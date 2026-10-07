@@ -1,16 +1,62 @@
 [
-"http://secure.actblue.com/donate/friends-of-nikki-rivera-1",
-"https://facebook.com/nikkiriveraforpa",
-"https://instagram.com/nikkiriveraforpa",
-"https://mobilize.us/mobilize/event/937944",
-"https://nikkiriveraforpa.com/",
-"https://nikkiriveraforpa.com/about",
-"https://nikkiriveraforpa.com/contact",
-"https://nikkiriveraforpa.com/get-involved",
-"https://nikkiriveraforpa.com/hd96",
-"https://nikkiriveraforpa.com/news",
-"https://nikkiriveraforpa.com/vision",
-"https://nikkiriveraforpa.com/vote",
-"https://wix.com/",
-"https://x.com/PAHDCC"
+{
+"text": "About",
+"href": "https://www.nikkiriveraforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.nikkiriveraforpa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "http://secure.actblue.com/donate/friends-of-nikki-rivera-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nikkiriveraforpa.com/get-involved"
+},
+{
+"text": "HD 96",
+"href": "https://www.nikkiriveraforpa.com/hd96"
+},
+{
+"text": "News",
+"href": "https://www.nikkiriveraforpa.com/news"
+},
+{
+"text": "Sign up to Canvass!",
+"href": "https://www.mobilize.us/mobilize/event/937944/"
+},
+{
+"text": "Vision",
+"href": "https://www.nikkiriveraforpa.com/vision"
+},
+{
+"text": "Vote",
+"href": "https://www.nikkiriveraforpa.com/vote"
+},
+{
+"text": "Wix.",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/nikkiriveraforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/nikkiriveraforpa/"
+},
+{
+"text": "[image: Nikki Rivera for PA logo]",
+"href": "https://www.nikkiriveraforpa.com"
+},
+{
+"text": "[image]",
+"href": "https://x.com/PAHDCC"
+},
+{
+"text": "info@nikkiriveraforpa.com",
+"href": "mailto:info@nikkiriverforpa.com?subject=Inquiry+for+Nikki+Rivera+for+PA"
+}
 ]

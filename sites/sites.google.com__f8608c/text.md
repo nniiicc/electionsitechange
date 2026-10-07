@@ -1,5 +1,2 @@
-SELINA BLISS FOR AZ STATE HOUSE - LD1
-Selina Bliss serves in the Arizona State House of Representatives as a strong conservative voice for Arizona
-- Lifelong Conservative Republican
-- Yavapai County and Legislative District 1 Resident since 1971
-- Proven leadership abilities demonstrated locally, statewide, and nationally
+Search this site Embedded Files Skip to main content Skip to navigation SelinaBliss.com Home Bio Photos Endorsements Donate Contact me SelinaBliss.com Home Bio Photos Endorsements Donate Contact me More Home Bio Photos Endorsements Donate Contact me SELINA BLISS FOR AZ STATE HOUSE - LD1 Selina Bliss serves in the Arizona State House of Representatives as a strong conservative voice for Arizona Lifelong Conservative Republican Yavapai County and Legislative District 1 Resident since 1971 Proven leadership abilities demonstrated locally, statewide, and nationally Contact me about how I can best represent you in the Arizona House of Representatives!
+Contact at SelinaSBliss@gmail.com or SBliss@azleg.gov Google Sites Report abuse Google Sites Report abuse

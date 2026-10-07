@@ -1,16 +1,74 @@
 [
-"https://facebook.com/VoteLaurel",
-"https://secure.winred.com/laurel-lee-for-congress-inc/donate-today",
-"https://vimeo.com/718571394/c1265cda47?share=copy&fl=cl&fe=ci",
-"https://votelaurel.com/",
-"https://votelaurel.com/downloads/laurel-lee-photos.zip",
-"https://votelaurel.com/media-assets",
-"https://votelaurel.com/privacy-policy",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3368.jpg",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3368crcopy.jpg",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3514.jpg",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3514cr.jpg",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3538.jpg",
-"https://votelaurel.com/wp-content/uploads/2026/04/B60A3538crcopy.jpg",
-"https://x.com/vote_laurel"
+{
+"text": "About Laurel",
+"href": "https://votelaurel.com/#about-laurel-lee"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/laurel-lee-for-congress-inc/donate-today"
+},
+{
+"text": "Download Entire Gallery",
+"href": "https://votelaurel.com/downloads/laurel-lee-photos.zip"
+},
+{
+"text": "Download Video",
+"href": "https://vimeo.com/718571394/c1265cda47?share=copy&fl=cl&fe=ci"
+},
+{
+"text": "Gallery",
+"href": "https://votelaurel.com/#gallery"
+},
+{
+"text": "Join Team Lee",
+"href": "https://votelaurel.com/#signup-box"
+},
+{
+"text": "Laurel’s Record",
+"href": "https://votelaurel.com/#laurels-record"
+},
+{
+"text": "Media Assets",
+"href": "https://votelaurel.com/media-assets"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votelaurel.com/privacy-policy"
+},
+{
+"text": "[image: laurel-lee-logo][image: laurel-lee-logo][image: laurel-lee-logo][image: laurel-lee-logo]",
+"href": "https://votelaurel.com"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3368.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3368crcopy.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3514.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3514cr.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3538.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://votelaurel.com/wp-content/uploads/2026/04/B60A3538crcopy.jpg"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VoteLaurel"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/vote_laurel"
+}
 ]

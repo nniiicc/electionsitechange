@@ -1,7 +1,9 @@
 {
  "description": "BellForUs.com is an one-stop for everything community oriented from political meetings, protests to positive vibes. Dive-in to get involved, find community resources, REGISTER TO VOTE, and even SHOP!",
  "final_url": "https://www.bellforus.com/",
- "paid_for_by": null,
+ "fingerprint": "5d8013a9fae509651cc420ad6e0d8c278eb2a119",
+ "format": 3,
+ "paid_for_by": "",
  "title": "BellForUs | Community",
  "years_mentioned": []
 }

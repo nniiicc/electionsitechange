@@ -1,4 +1,4 @@
-Elizabeth ‘Lilly’ Fuchs is a lifelong St.
+About Elizabeth 'Lilly' Issues Get Involved Events Donate Now Home About Elizabeth 'Lilly' Issues Get Involved Events Donate Now About Elizabeth 'Lilly' Fuchs Elizabeth ‘Lilly’ Fuchs is a lifelong St.
 Louisan with more than 20 years of dedicated community service.
 The roots of her family tree are woven deeply under the city’s cobblestone streets.
 On her father’s side, her ancestors were farmers and stonemasons.
@@ -69,4 +69,5 @@ She is a proven champion of equality and was awarded this honor by the Advocate 
 When elected, Lilly will continue to be a champion for issues the matter to the voters and residents of House District 80.
 Vote Lilly for the ‘Lou!
 HD 80!
-August 6, 2024
+August 6, 2024 Donate Now Make a Donation Volunteer Now Get Campaign Updates Support Elizabeth 'Lilly' Fuchs’s Campaign for Missouri Donate Now Friends for Fuchs 4228A Wyoming Street, St.
+Louis, Missouri 63116 tel:314-323-0584 | lillyforthelou@gmail.com Bethany Berger, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

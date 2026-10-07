@@ -1,4 +1,4 @@
-Leila Namvar is a working mom, labor leader, and devoted public servant.
+Skip navigation menu Meet Leila Issues Endorsements Media Donate Meet Leila Meet Leila Issues Endorsements Media Donate Meet Leila Leila Namvar is a working mom, labor leader, and devoted public servant.
 In the State Assembly, Leila will fight for working families like hers.
 Because everyone, no matter where they come from or what they’ve been through, deserves a fair shot at the American dream.
 Leila has spent years standing shoulder to shoulder with workers — fighting for better wages, safer working conditions, and affordable healthcare.
@@ -10,7 +10,8 @@ Despite these challenges, Leila was able to turn her hardship into strength — 
 Since 2005, she has worked with the City of Indio, starting as a Planning Technician and rising to become a Public Arts Program Analyst.
 She has helped shape strategic plans, manage city budgets, and bring more voices into the civic process.
 Her focus has always been on building trust, creating space for community input, and making government more transparent and responsive.
-Leila is running for State Assembly because she knows what it feels like to struggle.
+Leila is running for State Assembly because she knows what it feels like to struggle .
 She’s lived the reality that so many families across Riverside and San Bernardino Counties are facing today: rising costs, housing insecurity, limited access to healthcare and education, and the growing gap between the rich and everyone else.
 In the State Assembly, Leila will fight for working families like hers by taking on corporate greed, advocating for affordable housing, pushing for good-paying jobs, and working to expand access to education and quality healthcare.
 Because everyone, no matter where they come from or what they’ve been through, deserves a fair shot at the American dream.
+Powered by RUN! website builder PAID FOR BY LEILA NAMVAR FOR ASSEMBLY 2026 | FPPC # - 1484350 1700 Tribute Road, Suite 201 Sacramento, CA 95815 info@leilanamvar.com You need to enable JavaScript to run this app.

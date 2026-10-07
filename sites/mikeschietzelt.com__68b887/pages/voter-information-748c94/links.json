@@ -1,54 +1,246 @@
 [
-"https://facebook.com/Mikefor35",
-"https://instagram.com/mikefor35",
-"https://mikeschietzelt.com/",
-"https://mikeschietzelt.com/author/miams",
-"https://mikeschietzelt.com/contact-us",
-"https://mikeschietzelt.com/issues",
-"https://mikeschietzelt.com/privacy-policy",
-"https://mikeschietzelt.com/voter-information",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-02_0.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-03_0.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-04_0.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-06_0.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_09-01.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_10-01.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_14-01.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_14-02.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-03.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-05.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-07.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-09.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-18.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-19.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-22.pdf",
-"https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-23.pdf",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://s3.amazonaws.com/dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_06W.pdf",
-"https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2026-09/JoynerPark.pdf",
-"https://secure.anedot.com/mike-schietzelt-for-nc/2026",
-"https://twitter.com/mikefor35",
-"https://vimeo.com/user215237834",
-"https://vt.ncsbe.gov/RegLkup",
-"https://wake.gov/departments-government/board-elections/election-information/2026-general-election",
-"https://wakevotes.org/",
-"https://wakevotes.org/ballot?style=B0037&precinct=02-02",
-"https://wakevotes.org/ballot?style=B0037&precinct=19-22",
-"https://wakevotes.org/ballot?style=B0037&precinct=19-23",
-"https://wakevotes.org/ballot?style=B0038&precinct=02-03",
-"https://wakevotes.org/ballot?style=B0038&precinct=02-04",
-"https://wakevotes.org/ballot?style=B0038&precinct=14-01",
-"https://wakevotes.org/ballot?style=B0038&precinct=14-02",
-"https://wakevotes.org/ballot?style=B0039",
-"https://wakevotes.org/ballot?style=B0040",
-"https://wakevotes.org/ballot?style=B0040&precinct=02-06",
-"https://wakevotes.org/ballot?style=B0083&precinct=09-01",
-"https://wakevotes.org/ballot?style=B0083&precinct=19-09",
-"https://wakevotes.org/ballot?style=B0087&precinct=10-01",
-"https://wakevotes.org/ballot?style=B0087&precinct=19-18",
-"https://wakevotes.org/ballot?style=B0087&precinct=19-24",
-"https://wakevotes.org/ballot?style=B0087&precinct=19-25",
-"https://wakevotes.org/ballot?style=B0150&precinct=19-03",
-"https://wakevotes.org/ballot?style=B0150&precinct=19-05",
-"https://wakevotes.org/ballot?style=B0150&precinct=19-07"
+{
+"text": "/",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=02-04"
+},
+{
+"text": "B0038",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=02-04"
+},
+{
+"text": "B0039",
+"href": "https://wakevotes.org/ballot?style=B0039"
+},
+{
+"text": "Ballot",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=02-04"
+},
+{
+"text": "Ballot",
+"href": "https://wakevotes.org/ballot?style=B0039"
+},
+{
+"text": "Ballot B0037",
+"href": "https://wakevotes.org/ballot?style=B0037&precinct=02-02"
+},
+{
+"text": "Ballot B0037",
+"href": "https://wakevotes.org/ballot?style=B0037&precinct=19-22"
+},
+{
+"text": "Ballot B0037",
+"href": "https://wakevotes.org/ballot?style=B0037&precinct=19-23"
+},
+{
+"text": "Ballot B0038",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=02-03"
+},
+{
+"text": "Ballot B0038",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=14-01"
+},
+{
+"text": "Ballot B0038",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=14-02"
+},
+{
+"text": "Ballot B0040",
+"href": "https://wakevotes.org/ballot?style=B0040"
+},
+{
+"text": "Ballot B0040",
+"href": "https://wakevotes.org/ballot?style=B0040&precinct=02-06"
+},
+{
+"text": "Ballot B0083",
+"href": "https://wakevotes.org/ballot?style=B0083&precinct=09-01"
+},
+{
+"text": "Ballot B0083",
+"href": "https://wakevotes.org/ballot?style=B0083&precinct=19-09"
+},
+{
+"text": "Ballot B0087",
+"href": "https://wakevotes.org/ballot?style=B0087&precinct=10-01"
+},
+{
+"text": "Ballot B0087",
+"href": "https://wakevotes.org/ballot?style=B0087&precinct=19-18"
+},
+{
+"text": "Ballot B0087",
+"href": "https://wakevotes.org/ballot?style=B0087&precinct=19-24"
+},
+{
+"text": "Ballot B0087",
+"href": "https://wakevotes.org/ballot?style=B0087&precinct=19-25"
+},
+{
+"text": "Ballot B0150",
+"href": "https://wakevotes.org/ballot?style=B0150&precinct=19-03"
+},
+{
+"text": "Ballot B0150",
+"href": "https://wakevotes.org/ballot?style=B0150&precinct=19-05"
+},
+{
+"text": "Ballot B0150",
+"href": "https://wakevotes.org/ballot?style=B0150&precinct=19-07"
+},
+{
+"text": "Contact Us",
+"href": "https://mikeschietzelt.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mike-schietzelt-for-nc/2026"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Mikefor35"
+},
+{
+"text": "HERE",
+"href": "https://www.wake.gov/departments-government/board-elections/election-information/2026-general-election"
+},
+{
+"text": "Home",
+"href": "https://mikeschietzelt.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mikefor35"
+},
+{
+"text": "Issues",
+"href": "https://mikeschietzelt.com/issues/"
+},
+{
+"text": "Joyner Park Community Center",
+"href": "https://s3.us-west-1.amazonaws.com/wakegov.com.if-us-west-1/s3fs-public/documents/2026-09/JoynerPark.pdf"
+},
+{
+"text": "Look up your polling location",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "Precinct 02-02",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-02_0.pdf"
+},
+{
+"text": "Precinct 02-03",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-03_0.pdf"
+},
+{
+"text": "Precinct 02-04",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-04_0.pdf"
+},
+{
+"text": "Precinct 02-06",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_02-06_0.pdf"
+},
+{
+"text": "Precinct 09-01",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_09-01.pdf"
+},
+{
+"text": "Precinct 10-01",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_10-01.pdf"
+},
+{
+"text": "Precinct 14-01",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_14-01.pdf"
+},
+{
+"text": "Precinct 14-02",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_14-02.pdf"
+},
+{
+"text": "Precinct 19-03",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-03.pdf"
+},
+{
+"text": "Precinct 19-05",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-05.pdf"
+},
+{
+"text": "Precinct 19-07",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-07.pdf"
+},
+{
+"text": "Precinct 19-09",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-09.pdf"
+},
+{
+"text": "Precinct 19-18",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-18.pdf"
+},
+{
+"text": "Precinct 19-22",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-19.pdf"
+},
+{
+"text": "Precinct 19-23",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-22.pdf"
+},
+{
+"text": "Precinct 19-24",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-23.pdf"
+},
+{
+"text": "Precinct 19-25",
+"href": "https://mikeschietzelt.com/wp-content/uploads/2024/10/precinct_19-23.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://mikeschietzelt.com/privacy-policy/"
+},
+{
+"text": "Register",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "Vimeo",
+"href": "https://vimeo.com/user215237834"
+},
+{
+"text": "Volunteer",
+"href": "https://mikeschietzelt.com/#Volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://mikeschietzelt.com/voter-information/"
+},
+{
+"text": "Voter Registration Form",
+"href": "https://s3.amazonaws.com/dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_06W.pdf"
+},
+{
+"text": "X",
+"href": "https://twitter.com/mikefor35"
+},
+{
+"text": "[image: Mike Schietzelt For NC House District 35 Logo] [image: Mike Schietzelt For NC House District 35 Logo]",
+"href": "https://mikeschietzelt.com/"
+},
+{
+"text": "[no text]",
+"href": "https://wakevotes.org/ballot?style=B0038&precinct=02-04"
+},
+{
+"text": "miams",
+"href": "https://mikeschietzelt.com/author/miams/"
+},
+{
+"text": "sample ballot",
+"href": "https://wakevotes.org/"
+},
+{
+"text": "voter details",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+},
+{
+"text": "voter registration",
+"href": "https://vt.ncsbe.gov/RegLkup/"
+}
 ]

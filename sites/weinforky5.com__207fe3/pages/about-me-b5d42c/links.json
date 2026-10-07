@@ -1,19 +1,102 @@
 [
-"http://tiktok.com/@weinforky5",
-"http://x.com/weinforky5",
-"https://bsky.app/profile/weinforky5.bsky.social",
-"https://facebook.com/61585167021531",
-"https://instagram.com/weinforky5",
-"https://weinforky5.com/",
-"https://weinforky5.com/about-me",
-"https://weinforky5.com/donate",
-"https://weinforky5.com/futures",
-"https://weinforky5.com/healthcare",
-"https://weinforky5.com/integrity",
-"https://weinforky5.com/jobs",
-"https://weinforky5.com/resources",
-"https://weinforky5.com/security",
-"https://weinforky5.com/wealth",
-"https://wix.com/",
-"https://youtube.com/@weinforky5"
+{
+"text": "About Me",
+"href": "https://www.weinforky5.com/about-me"
+},
+{
+"text": "Back to Home",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Beliefs",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Connect with Me",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Donate",
+"href": "https://www.weinforky5.com/donate"
+},
+{
+"text": "Futures",
+"href": "https://www.weinforky5.com/futures"
+},
+{
+"text": "Healthcare",
+"href": "https://www.weinforky5.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Integrity",
+"href": "https://www.weinforky5.com/integrity"
+},
+{
+"text": "Jobs",
+"href": "https://www.weinforky5.com/jobs"
+},
+{
+"text": "Policies",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Resources",
+"href": "https://www.weinforky5.com/resources"
+},
+{
+"text": "Security",
+"href": "https://www.weinforky5.com/security"
+},
+{
+"text": "Wealth",
+"href": "https://www.weinforky5.com/wealth"
+},
+{
+"text": "Welcome",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/61585167021531"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/weinforky5/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@weinforky5"
+},
+{
+"text": "[image: X ]",
+"href": "http://x.com/weinforky5"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@weinforky5"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/weinforky5.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "https://www.weinforky5.com/",
+"href": "https://www.weinforky5.com"
+},
+{
+"text": "mikelforky5",
+"href": "https://www.weinforky5.com"
+}
 ]

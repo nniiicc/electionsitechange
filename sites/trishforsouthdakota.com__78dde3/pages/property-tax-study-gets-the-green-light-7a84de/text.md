@@ -1,7 +1,5 @@
-SD Property Tax Study
-Gets a Green Light
-At a meeting on May 16th in Pierre, the Executive Board and the Legislative Research Council approved the “Property Tax Structure and Tax Burden Study” that was proposed last March.
-The study will take place over the summer with the first meeting scheduled for June 27th in Pierre.
+Home Take Action Contribute Volunteer Contact Articles SD Property Tax Reform Legislative Background About Trish Blog Bio On the Issues Privacy Policy Get in touch 555-555-5555 mymail@mailservice.com SD Property Tax Study Trish Ladner • June 2, 2022 Gets a Green Light At a meeting on May 16 th in Pierre, the Executive Board and the Legislative Research Council approved the “Property Tax Structure and Tax Burden Study” that was proposed last March.
+The study will take place over the summer with the first meeting scheduled for June 27 th in Pierre.
 Trish Ladner was appointed the Committee Chair and Senator Mary Duvall as Vice-Chair.
 West River committee members include Representatives Kirk Chaffee, Oran Lesmeister, Tim Goodwin, Mike Derby, and Senators Jessica Castleberry, and Gary Cammack.
 East River committee members include, Representatives Lance Koth, Larry Tidemann, Mike Weisgram and Senators, Casey Crabtree, Jack Kolbeck, Reynold Nesiba, and Larry Zikmund.
@@ -12,4 +10,4 @@ All meetings will be open to the public to attend in person or via “Teams”.
 If you’d like to attend remotely via “Teams” you will need to call and register with the Legislative Research Council (605.773.3251), in order to be invited to attend the forum.
 Property taxes are a primary concern of South Dakotans across the state.
 We are receiving many letters and e-mails asking us as legislators to find a solution to their property tax increases.
-A gentleman from Harrisburg, South Dakota closed his letter by saying, “Please don’t let legislative law penalize us long-standing residents and property owners because of the area’s growth!” The study group is looking forward to working together to consider the means by which the total property tax burden of South Dakotans can be addressed.
+A gentleman from Harrisburg, South Dakota closed his letter by saying, “Please don’t let legislative law penalize us long-standing residents and property owners because of the area’s growth!” The study group is looking forward to working together to consider the means by which the total property tax burden of South Dakotans can be addressed. < Older Post Newer Post > Privacy Policy Paid for by Trish For South Dakota Share by:

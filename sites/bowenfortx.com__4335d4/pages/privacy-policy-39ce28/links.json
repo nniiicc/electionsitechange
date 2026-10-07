@@ -1,10 +1,34 @@
 [
-"http://x.com/sbwnhtx",
-"https://bowenfortx.com/",
-"https://bowenfortx.com/endorsements",
-"https://bowenfortx.com/issues",
-"https://bowenfortx.com/meet-scott",
-"https://bowenfortx.com/privacy-policy",
-"https://facebook.com/bowenfortexas",
-"https://secure.winred.com/bowen-for-texas/contribute"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/bowen-for-texas/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://bowenfortx.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/bowenfortexas"
+},
+{
+"text": "Issues",
+"href": "https://bowenfortx.com/issues/"
+},
+{
+"text": "Meet Scott",
+"href": "https://bowenfortx.com/meet-scott/"
+},
+{
+"text": "Read Our Privacy Policy",
+"href": "https://bowenfortx.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "http://x.com/sbwnhtx"
+},
+{
+"text": "[image]",
+"href": "https://bowenfortx.com/"
+}
 ]

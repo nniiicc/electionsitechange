@@ -1,7 +1,4 @@
-LEGISLATIVE SESSION
-March 25, 2026
-Dear Friends and Neighbors,
-It was a privilege to serve House District 21 for my tenth year at the Roundhouse in Santa Fe during the recently concluded 2026 Legislative Session.
+Home About District 21 In the News Endorsers Legislative Session Capital Outlay Contact Contribute Home About District 21 In the News Endorsers Legislative Session Capital Outlay Contact Contribute LEGISLATIVE SESSION March 25, 2026 Dear Friends and Neighbors, It was a privilege to serve House District 21 for my tenth year at the Roundhouse in Santa Fe during the recently concluded 2026 Legislative Session.
 My colleagues and I focused on advancing priorities important to our community, including access to healthcare and housing, strengthening public education, expanding childcare, and improving public safety.
 I remain committed to delivering practical solutions that improve affordability, protect our communities, and move New Mexico forward.
 This session, I worked to secure funding for several important projects in our district, including school improvements at Apache, Hawthorne, McCollum, Tomasita, Sandia Base, Grant, Hayes, Jackson, Kennedy, and Manzano; public safety technology and equipment for the Albuquerque Police Department and Bernalillo County; park improvements at Daniel Webster Park and Mile High Little League; and construction support for the Albuquerque Young Adult Shelter.
@@ -15,5 +12,7 @@ I welcome your thoughts and encourage you to contact me at (505) 974-9408 or Deb
 You can also track legislation and stay informed at www.nmlegis.gov.
 Thank you for the opportunity to serve you.
 I look forward to continuing our work together on behalf of House District 21 and all New Mexicans.
-Sincerely,
-Debbie Sariñana NM State Representative, District 21
+Sincerely, Debbie Sariñana NM State Representative, District 21 CONTRIBUTE Copyright #.
+Debbie Sariñana for HD21.
+Ella Sharp, Treasurer.
+Website Design | BGC

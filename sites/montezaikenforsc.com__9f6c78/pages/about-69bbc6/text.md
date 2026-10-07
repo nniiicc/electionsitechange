@@ -1,4 +1,4 @@
-Who is Montez?
+Skip to Content Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers ( 0 ) Cart ( 0 ) Open Menu Close Menu Home Montez’s Priorities About Contact Fundraising Donate Store Disclaimers Who is Montez?
 Montez Aiken is a native resident of Dorchester County with strong ties to Berkeley County who has dedicated his life to public service and education.
 After graduating from Summerville High School, he earned a Bachelor of Music in Music Education from the University of South Carolina.
 His early career as a public school teacher in both rural and urban areas gave him a clear understanding of the daily challenges faced by students and educators.
@@ -14,3 +14,5 @@ He is also an active member of several community and fraternal organizations, in
 He also maintains strong bonds with his community as a Prince Hall Mason and Shriner.
 Now retired from the police department, Montez is running for the South Carolina House of Representatives, District 102.
 Montez Aiken will combine his years of service, his ability to truly listen, and his drive for teamwork to be the bold leader our state needs to fight for our future and be a powerful voice for every citizen at the state capitol.
+Paid for by Montez Aiken for South Carolina.
+Privacy, Terms, and Conditions: https://www.montezaikenforsc.com/privacy

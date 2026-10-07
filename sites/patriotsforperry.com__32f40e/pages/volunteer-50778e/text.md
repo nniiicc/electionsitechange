@@ -1,21 +1,3 @@
-Skip to main content
-Scroll Top
-Menu
-About
-Issues
-Endorsements
-Voting
-Contact
-Volunteer
-Donate
-Menu
-About
-Issues
-Endorsements
-Voting
-Contact
-Volunteer
-Donate
-Volunteer
-Loading…
-Loading...
+Skip to main content Scroll Top Menu About Issues Endorsements Voting Contact Volunteer Donate Menu About Issues Endorsements Voting Contact Volunteer Donate Volunteer Loading… Loading...
+Get Campaign Updates Submit Neither military info nor photographs of Scott in uniform imply endorsement of Patriots for Perry by the Department of Defense or its particular military departments.
+Facebook X-twitter Youtube Instagram Paid for by Patriots for Perry SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS DESIGN BY IGNITE STRATEGIES

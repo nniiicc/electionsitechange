@@ -1,4 +1,7 @@
-I am proud to call this state home.
+0 Skip to Content Home Issues About Events News Contact Donate!
+Get Involved Open Menu Close Menu Home Issues About Events News Contact Donate!
+Get Involved Open Menu Close Menu Home Issues About Events News Contact Donate!
+Get Involved I am proud to call this state home.
 I was born in southwest Minnesota, raised in the Twin Cities, attended college in Moorhead and now am living in the Brainerd Lakes Area.
 In college, I discovered a true passion for economics—a field that continues to shape my perspective on growth, opportunity, and community.
 With over 20 years of experience in property management, I built a career centered on problem-solving, organization, and serving people.
@@ -11,3 +14,4 @@ A passionate advocate for healthy living and sustainability, I am also a plant-b
 As a hydroponic gardener, I am invested in innovative, local food solutions.
 In my free time, I enjoy skiing, kayaking, and a wide variety of sports—and remain a lifelong fan of the Minnesota Vikings and Golden Gophers!
 Grounded in Minnesota values and driven by real-world experience, I am committed to building a stronger future for the community I proudly call home.
+Prepared and Paid for by the MM For MN Committee ,PO Box 64, Garrison, MN 56450

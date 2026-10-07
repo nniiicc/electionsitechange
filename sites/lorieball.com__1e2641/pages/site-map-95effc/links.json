@@ -1,14 +1,82 @@
 [
-"https://facebook.com/profile.php?id=100076675947086",
-"https://lorieball.com/",
-"https://lorieball.com/accessibility",
-"https://lorieball.com/contact",
-"https://lorieball.com/donate",
-"https://lorieball.com/issues",
-"https://lorieball.com/privacy",
-"https://lorieball.com/sign-request",
-"https://lorieball.com/site-map",
-"https://lorieball.com/terms",
-"https://salemnhrepublicans.org/",
-"https://trexot.com/"
+{
+"text": "Accessibility",
+"href": "https://lorieball.com/accessibility"
+},
+{
+"text": "Accessibility",
+"href": "https://lorieball.com/accessibility/"
+},
+{
+"text": "Contact Lorie",
+"href": "https://lorieball.com/contact"
+},
+{
+"text": "Contact Lorie",
+"href": "https://lorieball.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://lorieball.com/donate"
+},
+{
+"text": "Donate",
+"href": "https://lorieball.com/donate/"
+},
+{
+"text": "Meet Lorie",
+"href": "https://lorieball.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://lorieball.com/issues"
+},
+{
+"text": "On the issues",
+"href": "https://lorieball.com/issues/"
+},
+{
+"text": "Privacy",
+"href": "https://lorieball.com/privacy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lorieball.com/privacy"
+},
+{
+"text": "Request a Sign",
+"href": "https://lorieball.com/sign-request"
+},
+{
+"text": "Request a sign",
+"href": "https://lorieball.com/sign-request/"
+},
+{
+"text": "Site Map",
+"href": "https://lorieball.com/site-map/"
+},
+{
+"text": "Terms",
+"href": "https://lorieball.com/terms/"
+},
+{
+"text": "Terms of Use",
+"href": "https://lorieball.com/terms"
+},
+{
+"text": "Trexot Digital",
+"href": "https://trexot.com"
+},
+{
+"text": "[image]",
+"href": "https://lorieball.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100076675947086"
+},
+{
+"text": "https://salemnhrepublicans.org/",
+"href": "https://salemnhrepublicans.org/"
+}
 ]

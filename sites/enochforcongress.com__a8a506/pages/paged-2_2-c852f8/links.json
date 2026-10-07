@@ -1,51 +1,338 @@
 [
-"https://campaignhq.app/volunteer",
-"https://enochforcongress.com/",
-"https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans",
-"https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment",
-"https://enochforcongress.com/2024/01/06/thats-racist",
-"https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care",
-"https://enochforcongress.com/2026/02/02/why-im-running-again",
-"https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people",
-"https://enochforcongress.com/about-ohios-8th-congressional-district",
-"https://enochforcongress.com/bio",
-"https://enochforcongress.com/blog",
-"https://enochforcongress.com/check-your-voter-registration",
-"https://enochforcongress.com/community-survey",
-"https://enochforcongress.com/contact",
-"https://enochforcongress.com/donate-now",
-"https://enochforcongress.com/endorsements",
-"https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such",
-"https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting",
-"https://enochforcongress.com/events",
-"https://enochforcongress.com/issue",
-"https://enochforcongress.com/issue/a-secure-and-prosperous-future/%20",
-"https://enochforcongress.com/issue/advancing-technology-responsibly",
-"https://enochforcongress.com/issue/climate-change-the-environment",
-"https://enochforcongress.com/issue/end-mass-incarceration",
-"https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing",
-"https://enochforcongress.com/issue/promoting-public-education",
-"https://enochforcongress.com/issue/reducing-rising-healthcare-costs",
-"https://enochforcongress.com/issue/reimagining-work-and-opportunity",
-"https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy",
-"https://enochforcongress.com/issue/social-security",
-"https://enochforcongress.com/paged-2/2?add-to-cart=2749",
-"https://enochforcongress.com/paged-2/2?add-to-cart=442",
-"https://enochforcongress.com/product/bumper-sticker",
-"https://enochforcongress.com/product/campaign-button",
-"https://enochforcongress.com/product/free-yard-sign",
-"https://enochforcongress.com/product/large-sign",
-"https://enochforcongress.com/product/purple-cap",
-"https://enochforcongress.com/project/farmers-union",
-"https://enochforcongress.com/shop",
-"https://enochforcongress.com/volunteer",
-"https://enochforcongress.com/volunteer-portal",
-"https://enochforcongress.com/voting-in-2026",
-"https://facebook.com/1DocEnoch",
-"https://instagram.com/doc.enoch",
-"https://linkedin.com/in/dr-vanessa-enoch",
-"https://olvr.ohiosos.gov/",
-"https://pinterest.com/EnochforCongress",
-"https://secure.actblue.com/donate/elect-enoch2026",
-"https://twitter.com/DrVEnoch"
+{
+"text": "1",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "A SECURE AND PROSPEROUS FUTURE FOR EVERYONE",
+"href": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/%20"
+},
+{
+"text": "About",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Add to cart",
+"href": "https://enochforcongress.com/paged-2/2/?add-to-cart=2749"
+},
+{
+"text": "Add to cart",
+"href": "https://enochforcongress.com/paged-2/2/?add-to-cart=442"
+},
+{
+"text": "Advancing Technology Responsibly",
+"href": "https://enochforcongress.com/issue/advancing-technology-responsibly"
+},
+{
+"text": "Become a volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Biography",
+"href": "https://enochforcongress.com/bio/"
+},
+{
+"text": "Blog",
+"href": "https://enochforcongress.com/blog/"
+},
+{
+"text": "Check your Registration!",
+"href": "https://enochforcongress.com/check-your-voter-registration/"
+},
+{
+"text": "Climate Change",
+"href": "https://enochforcongress.com/issue/climate-change-the-environment/"
+},
+{
+"text": "Contact",
+"href": "https://enochforcongress.com/contact/"
+},
+{
+"text": "DONATEMake a contribution",
+"href": "https://secure.actblue.com/donate/elect-enoch2026"
+},
+{
+"text": "Donate",
+"href": "https://enochforcongress.com/donate-now/"
+},
+{
+"text": "Endorsements",
+"href": "https://enochforcongress.com/endorsements/"
+},
+{
+"text": "Enoch Advocates for Veterans in Need￼",
+"href": "https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans/"
+},
+{
+"text": "Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/1DocEnoch/"
+},
+{
+"text": "Gun violence is a tragedy in America, and a national embarrassment.",
+"href": "https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment/"
+},
+{
+"text": "Home",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "Homes and communities as foundations for wellbeing",
+"href": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/"
+},
+{
+"text": "I will fight every day for a woman’s right to safe, accessible, and affordable reproductive care",
+"href": "https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/doc.enoch/"
+},
+{
+"text": "Investing in health for shared prosperity",
+"href": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"
+},
+{
+"text": "Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/dr-vanessa-enoch/"
+},
+{
+"text": "October Meet & Greet with Dr. Vanessa Enoch @ Major Minor Books and Such",
+"href": "https://enochforcongress.com/event/october-meet-greet-with-dr-vanessa-enoch-major-minor-books-and-such/"
+},
+{
+"text": "October Wooster Corridor Democrats Meeting",
+"href": "https://enochforcongress.com/event/october-wooster-corridor-democrats-meeting/"
+},
+{
+"text": "Ohio’s 8th Congressional District",
+"href": "https://enochforcongress.com/about-ohios-8th-congressional-district/"
+},
+{
+"text": "Order a Yard Sign",
+"href": "https://enochforcongress.com/product/free-yard-sign/"
+},
+{
+"text": "PUBLIC EDUCATION",
+"href": "https://enochforcongress.com/issue/promoting-public-education/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/EnochforCongress/"
+},
+{
+"text": "Read More about Enoch Advocates for Veterans in Need￼",
+"href": "https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans/"
+},
+{
+"text": "Read More about Gun violence is a tragedy in America, and a national embarrassment.",
+"href": "https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment/"
+},
+{
+"text": "Read More about I will fight every day for a woman’s right to safe, accessible, and affordable reproductive care",
+"href": "https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care/"
+},
+{
+"text": "Read More about That’s Racist!",
+"href": "https://enochforcongress.com/2024/01/06/thats-racist/"
+},
+{
+"text": "Read More about War Requires the Voice of the People",
+"href": "https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people/"
+},
+{
+"text": "Read More about Why I’m Running Again…",
+"href": "https://enochforcongress.com/2026/02/02/why-im-running-again/"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Reimagining work and opportunity",
+"href": "https://enochforcongress.com/issue/reimagining-work-and-opportunity/"
+},
+{
+"text": "Restoring trust and integrity in our democracy and economy",
+"href": "https://enochforcongress.com/issue/restoring-trust-and-integrity-in-our-democracy-and-economy/"
+},
+{
+"text": "Save our Planet",
+"href": "https://enochforcongress.com/issue/climate-change-the-environment/"
+},
+{
+"text": "Select options",
+"href": "https://enochforcongress.com/product/campaign-button/"
+},
+{
+"text": "Select options",
+"href": "https://enochforcongress.com/product/purple-cap/"
+},
+{
+"text": "Share Your Opinion",
+"href": "https://enochforcongress.com/community-survey/"
+},
+{
+"text": "Shop",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Shop all Swag",
+"href": "https://enochforcongress.com/shop/"
+},
+{
+"text": "Social Security",
+"href": "https://enochforcongress.com/issue/social-security/"
+},
+{
+"text": "That’s Racist!",
+"href": "https://enochforcongress.com/2024/01/06/thats-racist/"
+},
+{
+"text": "The Opioid Crisis",
+"href": "https://enochforcongress.com/issue/end-mass-incarceration/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/DrVEnoch"
+},
+{
+"text": "Upcoming Events",
+"href": "https://enochforcongress.com/events/"
+},
+{
+"text": "VOLUNTEERGet involved with the campaign",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "View all Issues",
+"href": "https://enochforcongress.com/issue/"
+},
+{
+"text": "Volunteer",
+"href": "https://campaignhq.app/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "Volunteer Portal",
+"href": "https://enochforcongress.com/volunteer-portal/"
+},
+{
+"text": "Voting in 2026",
+"href": "https://enochforcongress.com/voting-in-2026/"
+},
+{
+"text": "War Requires the Voice of the People",
+"href": "https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people/"
+},
+{
+"text": "Why I’m Running Again…",
+"href": "https://enochforcongress.com/2026/02/02/why-im-running-again/"
+},
+{
+"text": "[image: Abortion Rights]",
+"href": "https://enochforcongress.com/2024/08/01/i-will-fight-every-day-for-a-womans-right-to-safe-accessible-and-affordable-reproductive-care/"
+},
+{
+"text": "[image: Bumper Sticker]Bumper Sticker $5.00",
+"href": "https://enochforcongress.com/product/bumper-sticker/"
+},
+{
+"text": "[image: Campaign Button]Campaign Button $5.00",
+"href": "https://enochforcongress.com/product/campaign-button/"
+},
+{
+"text": "[image: Dr. Vanessa Enoch pictured center] Farmers Union",
+"href": "https://enochforcongress.com/project/farmers-union/"
+},
+{
+"text": "[image: Enoch 007]",
+"href": "https://enochforcongress.com/2026/02/02/why-im-running-again/"
+},
+{
+"text": "[image: Harrison_OH]",
+"href": "https://enochforcongress.com/2024/01/06/thats-racist/"
+},
+{
+"text": "[image: Large Yard Sign]Large Yard Sign $35.00",
+"href": "https://enochforcongress.com/product/large-sign/"
+},
+{
+"text": "[image: T-Shirt]T-Shirt $20.00 – $21.00Price range: $20.00 through $21.00",
+"href": "https://enochforcongress.com/product/purple-cap/"
+},
+{
+"text": "[image: Vanessa Enoch for Congress]",
+"href": "https://enochforcongress.com/"
+},
+{
+"text": "[image: When Congressman Warren Davidson called war heroes who faithfully served our country, \"moochers and pretenders\", Vanessa Enoch came to their aid. ]",
+"href": "https://enochforcongress.com/2022/09/11/enoch_advocates_for_veterans/"
+},
+{
+"text": "[image: ak-47]",
+"href": "https://enochforcongress.com/2022/09/11/gun-violence-is-a-tragedy-in-america-and-a-national-embarrassment/"
+},
+{
+"text": "[image: national Security]",
+"href": "https://enochforcongress.com/2026/03/08/war-requires-the-voice-of-the-people/"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/issue/advancing-technology-responsibly"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/issue/homes-and-communities-as-foundations-for-wellbeing/"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/issue/promoting-public-education/"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/issue/social-security/"
+},
+{
+"text": "[no text]",
+"href": "https://enochforcongress.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/elect-enoch2026"
+},
+{
+"text": "dr.enoch@enochforcongress.com",
+"href": "mailto:dr.enoch@enochforcongress.com"
+},
+{
+"text": "view plan",
+"href": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/%20"
+},
+{
+"text": "view plan",
+"href": "https://enochforcongress.com/issue/end-mass-incarceration/"
+},
+{
+"text": "view plan",
+"href": "https://enochforcongress.com/issue/reimagining-work-and-opportunity/"
+},
+{
+"text": "« Previous",
+"href": "https://enochforcongress.com/"
+}
 ]

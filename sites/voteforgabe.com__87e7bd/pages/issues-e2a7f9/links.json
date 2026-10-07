@@ -1,11 +1,50 @@
 [
-"https://facebook.com/profile.php?id=100085964495184",
-"https://ikjweb.com/",
-"https://secure.actblue.com/donate/vote-for-gabe",
-"https://voteforgabe.com/",
-"https://voteforgabe.com/about",
-"https://voteforgabe.com/action",
-"https://voteforgabe.com/contact-me",
-"https://voteforgabe.com/endorsements",
-"https://voteforgabe.com/issues"
+{
+"text": "Contact Us",
+"href": "https://voteforgabe.com/contact-me/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vote-for-gabe"
+},
+{
+"text": "Endorsements",
+"href": "https://voteforgabe.com/endorsements/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/profile.php?id=100085964495184"
+},
+{
+"text": "Home",
+"href": "https://voteforgabe.com/"
+},
+{
+"text": "IKJ Web",
+"href": "https://ikjweb.com"
+},
+{
+"text": "Issues",
+"href": "https://voteforgabe.com/issues/"
+},
+{
+"text": "Meet Gabe",
+"href": "https://voteforgabe.com/about/"
+},
+{
+"text": "Take Action",
+"href": "https://voteforgabe.com/action/"
+},
+{
+"text": "[image: Gabe Okoye for Georgia House District 102]",
+"href": "https://voteforgabe.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100085964495184"
+},
+{
+"text": "contribute",
+"href": "https://secure.actblue.com/donate/vote-for-gabe"
+}
 ]

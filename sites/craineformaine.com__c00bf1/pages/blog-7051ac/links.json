@@ -1,28 +1,122 @@
 [
-"http://facebook.com/jantzencraineME",
-"http://instagram.com/jantzencraine",
-"http://threads.com/jantzencraine",
-"http://x.com/jantzencraine",
-"http://youtube.com/@jantzencraine",
-"https://jantzencraine.com/",
-"https://jantzencraine.com/accessibility-statement",
-"https://jantzencraine.com/blog",
-"https://jantzencraine.com/blog/categories/in-the-weeds-vlog",
-"https://jantzencraine.com/blog/categories/op-ed",
-"https://jantzencraine.com/blog/categories/songs-and-reflection",
-"https://jantzencraine.com/blog/categories/throwback-thursday",
-"https://jantzencraine.com/category/all-products",
-"https://jantzencraine.com/get-involved",
-"https://jantzencraine.com/meet-jantzen",
-"https://jantzencraine.com/post/is-social-media-addictive-or-are-we",
-"https://jantzencraine.com/post/love-is-more-than-a-feeling-what-valentine-s-day-still-gets-right",
-"https://jantzencraine.com/post/more-than-a-game-what-the-super-bowl-still-gets-right-about-america",
-"https://jantzencraine.com/post/trust-in-government-starts-with-transparency",
-"https://jantzencraine.com/post/when-energy-policy-costs-maine-jobs",
-"https://jantzencraine.com/post/why-the-middle-east-will-never-truly-be-at-peace",
-"https://jantzencraine.com/privacy-policy",
-"https://jantzencraine.com/terms-and-conditions",
-"https://jantzencraine.com/values",
-"https://linkedin.com/in/jantzencraine",
-"https://secure.winred.com/jantzen-craine/donate-today"
+{
+"text": "Accessibility Statement",
+"href": "https://www.jantzencraine.com/accessibility-statement"
+},
+{
+"text": "All Posts",
+"href": "https://www.jantzencraine.com/blog"
+},
+{
+"text": "BLOG",
+"href": "https://www.jantzencraine.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jantzen-craine/donate-today"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jantzencraine.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jantzencraine.com"
+},
+{
+"text": "In The Weeds (VLOG)",
+"href": "https://www.jantzencraine.com/blog/categories/in-the-weeds-vlog"
+},
+{
+"text": "Is Social Media Addictive — or Are We?",
+"href": "https://www.jantzencraine.com/post/is-social-media-addictive-or-are-we"
+},
+{
+"text": "Jantzen Craine",
+"href": "https://www.jantzencraine.com"
+},
+{
+"text": "Love Is More Than a Feeling: What Valentine’s Day Still Gets Right",
+"href": "https://www.jantzencraine.com/post/love-is-more-than-a-feeling-what-valentine-s-day-still-gets-right"
+},
+{
+"text": "MEET JANTZEN",
+"href": "https://www.jantzencraine.com/meet-jantzen"
+},
+{
+"text": "MERCH",
+"href": "https://www.jantzencraine.com/category/all-products"
+},
+{
+"text": "More Than a Game: What the Super Bowl Still Gets Right About America",
+"href": "https://www.jantzencraine.com/post/more-than-a-game-what-the-super-bowl-still-gets-right-about-america"
+},
+{
+"text": "Op-Ed",
+"href": "https://www.jantzencraine.com/blog/categories/op-ed"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jantzencraine.com/privacy-policy"
+},
+{
+"text": "Read our Accessibility Statement.",
+"href": "https://www.jantzencraine.com/accessibility-statement"
+},
+{
+"text": "Songs and Reflection",
+"href": "https://www.jantzencraine.com/blog/categories/songs-and-reflection"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jantzencraine.com/terms-and-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.jantzencraine.com/terms-and-conditions"
+},
+{
+"text": "Throwback Thursday",
+"href": "https://www.jantzencraine.com/blog/categories/throwback-thursday"
+},
+{
+"text": "Trust in Government Starts with Transparency",
+"href": "https://www.jantzencraine.com/post/trust-in-government-starts-with-transparency"
+},
+{
+"text": "VALUES",
+"href": "https://www.jantzencraine.com/values"
+},
+{
+"text": "When Energy Policy Costs Maine Jobs",
+"href": "https://www.jantzencraine.com/post/when-energy-policy-costs-maine-jobs"
+},
+{
+"text": "Why the Middle East Will Never Truly Be at Peace",
+"href": "https://www.jantzencraine.com/post/why-the-middle-east-will-never-truly-be-at-peace"
+},
+{
+"text": "[image: Threads ]",
+"href": "http://threads.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/jantzencraineME"
+},
+{
+"text": "[image]",
+"href": "http://www.x.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/@jantzencraine"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/jantzencraine"
+}
 ]

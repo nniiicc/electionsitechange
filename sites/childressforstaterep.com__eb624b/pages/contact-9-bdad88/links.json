@@ -1,9 +1,30 @@
 [
-"https://childressforstaterep.com/",
-"https://childressforstaterep.com/about-7",
-"https://childressforstaterep.com/contact-8",
-"https://childressforstaterep.com/contact-9",
-"https://childressforstaterep.com/general-5",
-"https://instagram.com/wix",
-"https://secure.winred.com/childress-for-state-rep-e779e3df/donate-today"
+{
+"text": "About",
+"href": "https://www.childressforstaterep.com/about-7"
+},
+{
+"text": "Contact",
+"href": "https://www.childressforstaterep.com/contact-8"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/childress-for-state-rep-e779e3df/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.childressforstaterep.com"
+},
+{
+"text": "Join The Team!",
+"href": "https://www.childressforstaterep.com/contact-9"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.childressforstaterep.com/general-5"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.instagram.com/wix"
+}
 ]

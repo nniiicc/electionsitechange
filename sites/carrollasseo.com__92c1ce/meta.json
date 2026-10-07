@@ -1,7 +1,11 @@
 {
  "description": "Carroll is running to represent all of us. Join the campaign that's focused on bettering the lives of every Oklahoman.",
  "final_url": "https://www.carrollasseo.com/",
+ "fingerprint": "11198577dfa4a6972ca38be4d8ad1f6e8cafdb0b",
+ "format": 3,
  "paid_for_by": "paid for by Asseo for House 2026",
  "title": "Carroll Asseo for House",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

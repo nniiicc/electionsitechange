@@ -1,10 +1,50 @@
 [
-"https://abejonesfornchouse.com/",
-"https://abejonesfornchouse.com/contact",
-"https://abejonesfornchouse.com/donate",
-"https://abejonesfornchouse.com/endorsements",
-"https://abejonesfornchouse.com/issues",
-"https://abejonesfornchouse.com/meet-abe",
-"https://abejonesfornchouse.com/volunteer",
-"https://facebook.com/abejonesfornchouse"
+{
+"text": "Contact",
+"href": "https://abejonesfornchouse.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://abejonesfornchouse.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://abejonesfornchouse.com/endorsements/"
+},
+{
+"text": "Facebook-f",
+"href": "https://facebook.com/abejonesfornchouse"
+},
+{
+"text": "Home",
+"href": "https://abejonesfornchouse.com/"
+},
+{
+"text": "Learn More",
+"href": "https://abejonesfornchouse.com/meet-abe/"
+},
+{
+"text": "Meet Abe",
+"href": "https://abejonesfornchouse.com/meet-abe/"
+},
+{
+"text": "Read More",
+"href": "https://abejonesfornchouse.com/issues/#affordablehousing"
+},
+{
+"text": "Read More",
+"href": "https://abejonesfornchouse.com/issues/#criminaljustice"
+},
+{
+"text": "Read More",
+"href": "https://abejonesfornchouse.com/issues/#vocationaleducation"
+},
+{
+"text": "Read More",
+"href": "https://abejonesfornchouse.com/meet-abe/"
+},
+{
+"text": "Volunteer",
+"href": "https://abejonesfornchouse.com/volunteer/"
+}
 ]

@@ -1,22 +1,7 @@
-meet Rob Laclair
-A native Vermonter and former Vermont House of Representative
-About Rob
-Public Service
-Vermont House of Representatives (2014–2022)
-- Served 8 consecutive years representing Barre town
-- Assistant Minority Leader (2018-2022)
-- House Government Operations Committee — Vice-Chair, Ranking Member
-- Appointed to Joint Legislative Committee
-Barre Town & Community Leadership
-- Barre Town Selectboard — Vice Chair
-- U-32 School Board — Board Member
-- Washington Central Supervisory Union Representative — Chair
-- Our House (Barre) — Board Member
-- Middlesex Volunteer Fire Department — President, Captain, Interior Firefighter
-Business Experience
-- UPS — Center Manager (18 years in management, 24 years total)
-- Local Business Owner — Worcester Outback, LBJ's Grocery & various other Vermont-based endeavors
-A lifelong Vermont resident, Rob was born in Montpelier and graduated from U-32 High School.
+0 Skip to Content Platform About Photos Events Donate Contact Open Menu Close Menu Platform About Photos Events Donate Contact Open Menu Close Menu Platform About Photos Events Donate Contact meet Rob Laclair A native Vermonter and former Vermont House of Representative About Rob “ I stepped away from the legislature in 2022 after nearly a decade of service.
+But I never stopped serving.
+From volunteer firefighting to school board work, my community has always been my priority.
+Now I’m ready to return to the state level and fight for Washington County. ” — Robert LaClair Public Service Vermont House of Representatives (2014–2022) Served 8 consecutive years representing Barre town Assistant Minority Leader (2018-2022) House Government Operations Committee — Vice-Chair, Ranking Member Appointed to Joint Legislative Committee Barre Town & Community Leadership Barre Town Selectboard — Vice Chair U-32 School Board — Board Member Washington Central Supervisory Union Representative — Chair Our House (Barre) — Board Member Middlesex Volunteer Fire Department — President, Captain, Interior Firefighter Business Experience UPS — Center Manager (18 years in management, 24 years total) Local Business Owner — Worcester Outback, LBJ's Grocery & various other Vermont-based endeavors A lifelong Vermont resident, Rob was born in Montpelier and graduated from U-32 High School.
 He put down roots in Montpelier in 2024, where he continues to live and serve his community today.
 Eight years in the Vermont House taught Rob one thing clearly: when government removes choices, Vermonters lose.
-Now he's returning to the legislature—not just to serve, but to restore the power of decision-making back to the people of Washington County.
+Now he's returning to the legislature—not just to serve, but to restore the power of decision-making back to the people of Washington County. get in contact Rob laclair for Vt senate Paid for by Rob LaClair Made in Vermont by Kenneth Sekuterski Register to vote Location 6451 VT Rte 12 Berlin, VT 05602 Contact roblaclair.vtsenate@gmail.com (802) 371-9373 Facebook

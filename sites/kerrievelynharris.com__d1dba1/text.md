@@ -1,9 +1,6 @@
-Representing the people
-My life story echoes millions of others who feel called to service to improve our communities for the next generation.
+Kerri Evelyn Harris Cart 0 Issues Meet Kerri Donate Products Social Feed Inquiries Back Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Cart 0 Issues Our gun violence reduction plan Our Criminal Justice Agenda Our financial agenda Our foreign affairs agenda Our Environmental Justice Agenda Our military and veterans agenda Our Agricultural and Rural Economy Our Education Agenda Our Economic Agenda Our Human Rights and Equity our good government agenda Our Health Agenda Meet Kerri Donate Products Social Feed Inquiries Kerri Evelyn Harris Scroll A Voice for change We Must Push Past Fear To Create The Change We Want And Need; Our Unity Will Be Our Greatest Resistance Representing the people My life story echoes millions of others who feel called to service to improve our communities for the next generation.
 Together, we can make a difference because common beliefs remind us that we are all sisters and brothers.
 We need to lift each other so that all of our communities can thrive.
 As your State Representative of The 32nd District, I understand families need a champion who understands their needs and will work to address those needs.
 Together, we will work to pass laws that have a real and positive impact on the lives of our communities.
-Stand together
-Empowering By Example
-Let’s get social
+Visit Kerrifordelaware.com Stand together Empowering By Example Learn More about Kerri Let’s get social Get in touch Inquire about interviews, appearances, and more A Voice For Change About Our Food Eat Together New Page Eat Together (Copy) Website created and designed by Michael Payan

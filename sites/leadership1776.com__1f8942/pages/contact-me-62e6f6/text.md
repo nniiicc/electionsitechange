@@ -1,12 +1,8 @@
-E-mail: leadership1776@yahoo.com
-Cell: 313.550.8922
-Volunteers:
-I'm looking for volunteers to help distribute door fliers around the District.
-Donations:
-I'm not actively looking for campaign donations.
+Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Leadership for America Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City More Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City Home POVERTY Stream-Line Congress: Single-Rate Tax System Department Consolidation Mental Illness China/Covid-19 Community Disaster Plans Space Program OP-EDs CONTACT ME Foreign Policy Campaign Expenses USTPM CANDIDATES How to Fix a City Contact INFO Chris Dardzinski E-mail: leadership1776@yahoo.com Cell: 313.550.8922 Volunteers: I'm looking for volunteers to help distribute door fliers around the District.
+Donations: I'm not actively looking for campaign donations.
 I believe it is incumbent on the voters to research all candidates for each office, and educate themselves.
 The same way I believe all candidates should have detailed plans on precisely what they intend to be Leaders on.
 Any donations would cover door fliers, signs, ZOOM meetings, and basics like that.
-If you think my Ideas and leadership approach is worth a donation, then do as follows:
-Checks payable to: Chris Dardzinski. in the memo put: Campaign committee
-Mail to: 1359 Chandler Ave., Lincoln Park, MI. 48146-209
+If you think my Ideas and leadership approach is worth a donation, then do as follows: Checks payable to: Chris Dardzinski. in the memo put: Campaign committee Mail to: 1359 Chandler Ave., Lincoln Park, MI.
+48146-209 Copyright © # Leadership for America - All Rights Reserved.
+Powered by

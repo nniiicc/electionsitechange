@@ -1,8 +1,50 @@
 [
-"https://bsky.app/profile/sethmcmillan.bsky.social",
-"https://cumberlandclear.org/",
-"https://designedtorun.com/",
-"https://electmcmillan.com/",
-"https://facebook.com/people/Seth-McMillan-for-TN-House-District-38/61587090922711",
-"https://secure.actblue.com/donate/seth-mcmillan"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "Learn more",
+"href": "https://www.cumberlandclear.org/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/seth-mcmillan"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.electmcmillan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sethmcmillan.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/people/Seth-McMillan-for-TN-House-District-38/61587090922711/"
+}
 ]

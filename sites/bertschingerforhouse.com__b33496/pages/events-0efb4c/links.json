@@ -1,12 +1,46 @@
 [
-"https://bertschingerforhouse.com/",
-"https://bertschingerforhouse.com/events",
-"https://bertschingerforhouse.com/photos",
-"https://bertschingerforhouse.com/updates",
-"https://bertschingerforhouse.com/values-and-issues",
-"https://facebook.com/profile.php?id=61584790031791",
-"https://mailerlite.com/",
-"https://preview.mailerlite.io/forms/2001811/177479700590888856/share",
-"https://secure.psqimpact.com/donate/sara-bertschinger-for-house/donate",
-"https://youtube.com/@sarabertschingerforhouse?si=0ykh5UyWEJAwbEXB"
+{
+"text": "Donate",
+"href": "https://secure.psqimpact.com/donate/sara-bertschinger-for-house/donate"
+},
+{
+"text": "Events",
+"href": "https://bertschingerforhouse.com/events"
+},
+{
+"text": "Join the Team",
+"href": "https://preview.mailerlite.io/forms/2001811/177479700590888856/share"
+},
+{
+"text": "Photos",
+"href": "https://bertschingerforhouse.com/photos"
+},
+{
+"text": "Updates",
+"href": "https://bertschingerforhouse.com/updates"
+},
+{
+"text": "Values and Issues",
+"href": "https://bertschingerforhouse.com/values-and-issues"
+},
+{
+"text": "[image: Created with MailerLite]",
+"href": "https://www.mailerlite.com"
+},
+{
+"text": "[image: email]",
+"href": "mailto:sarabformnhouse@gmail.com"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584790031791"
+},
+{
+"text": "[image: youtube]",
+"href": "https://youtube.com/@sarabertschingerforhouse?si=0ykh5UyWEJAwbEXB"
+},
+{
+"text": "[image]",
+"href": "https://bertschingerforhouse.com/"
+}
 ]

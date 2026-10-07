@@ -1,30 +1,146 @@
 [
-"http://addtoany.com/add_to/email?linkurl=https%3A%2F%2Fnicolemalliotakis.com%2Fsharelines%2Fschiff-money-will-taint-the-house-impeachment-vote%2F&linkname=Schiff+Money+Will+Taint+the+House+Impeachment+Vote",
-"http://electoralmedia.com/",
-"https://facebook.com/nmalliotakis",
-"https://instagram.com/nmalliotakis",
-"https://newsmax.com/nicolemalliotakis/schiff-campaign-funds-money/2019/11/21/id/942762",
-"https://nicolemalliotakis.com/",
-"https://nicolemalliotakis.com/?page_id=12061",
-"https://nicolemalliotakis.com/accomplishments-2",
-"https://nicolemalliotakis.com/contact",
-"https://nicolemalliotakis.com/endorsements",
-"https://nicolemalliotakis.com/get-involved",
-"https://nicolemalliotakis.com/get-involved-2",
-"https://nicolemalliotakis.com/media",
-"https://nicolemalliotakis.com/meet-nicole",
-"https://nicolemalliotakis.com/news",
-"https://nicolemalliotakis.com/op-eds",
-"https://nicolemalliotakis.com/privacy-policy",
-"https://nicolemalliotakis.com/request-a-sign",
-"https://nicolemalliotakis.com/sharelines/malliotakis-takes-aim-at-rep-rose-over-delayed-north-american-trade-deal",
-"https://nicolemalliotakis.com/sharelines/the-10-most-vulnerable-house-members-in-2020-democrats-dominate",
-"https://nicolemalliotakis.com/stay-informed",
-"https://nicolemalliotakis.com/the-issues",
-"https://nicolemalliotakis.com/watch",
-"https://secure.winred.com/nicolemalliotakis/donate",
-"https://secure.winred.com/nicolemalliotakis/donate?amount=10",
-"https://secure.winred.com/nicolemalliotakis/donate?amount=25",
-"https://secure.winred.com/nicolemalliotakis/donate?amount=50",
-"https://twitter.com/nmalliotakis"
+{
+"text": "$10",
+"href": "https://secure.winred.com/nicolemalliotakis/donate/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/nicolemalliotakis/donate/?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/nicolemalliotakis/donate/?amount=50"
+},
+{
+"text": "Accomplishments",
+"href": "https://nicolemalliotakis.com/accomplishments-2/"
+},
+{
+"text": "Assemblywoman Nicole Malliotakis",
+"href": "https://nicolemalliotakis.com/?page_id=12061"
+},
+{
+"text": "COPYRIGHT © #",
+"href": "https://nicolemalliotakis.com"
+},
+{
+"text": "Contact Us",
+"href": "https://nicolemalliotakis.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/nicolemalliotakis/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://nicolemalliotakis.com/endorsements/"
+},
+{
+"text": "In the News",
+"href": "https://nicolemalliotakis.com/media/"
+},
+{
+"text": "Meet Nicole",
+"href": "https://nicolemalliotakis.com/meet-nicole/"
+},
+{
+"text": "NEXT ARTICLEMalliotakis takes aim at Rep. Rose over delayed North American trade deal",
+"href": "https://nicolemalliotakis.com/sharelines/malliotakis-takes-aim-at-rep-rose-over-delayed-north-american-trade-deal/"
+},
+{
+"text": "Op-Ed",
+"href": "https://www.newsmax.com/nicolemalliotakis/schiff-campaign-funds-money/2019/11/21/id/942762/"
+},
+{
+"text": "Op-Eds",
+"href": "https://nicolemalliotakis.com/op-eds/"
+},
+{
+"text": "PREVIOUS ARTICLEThe 10 most vulnerable House members in 2020: Democrats dominate",
+"href": "https://nicolemalliotakis.com/sharelines/the-10-most-vulnerable-house-members-in-2020-democrats-dominate/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://nicolemalliotakis.com/privacy-policy/"
+},
+{
+"text": "Paid for by Nicole for New York",
+"href": "https://nicolemalliotakis.com"
+},
+{
+"text": "Press Releases",
+"href": "https://nicolemalliotakis.com/news/"
+},
+{
+"text": "Request a Sign",
+"href": "https://nicolemalliotakis.com/request-a-sign/"
+},
+{
+"text": "Stay Informed",
+"href": "https://nicolemalliotakis.com/stay-informed/"
+},
+{
+"text": "Take Action",
+"href": "https://nicolemalliotakis.com/get-involved-2/"
+},
+{
+"text": "The Issues",
+"href": "https://nicolemalliotakis.com/the-issues/"
+},
+{
+"text": "Volunteer",
+"href": "https://nicolemalliotakis.com/get-involved-2/"
+},
+{
+"text": "Watch",
+"href": "https://nicolemalliotakis.com/watch/"
+},
+{
+"text": "[image: The Official Website of the Nicole Malliotakis for Congress (NY-11). A \"tireless\" and \"fearless\" leader who fights for us.]",
+"href": "https://nicolemalliotakis.com"
+},
+{
+"text": "[image: electoralmedia®]",
+"href": "http://electoralmedia.com"
+},
+{
+"text": "[image]",
+"href": "https://www.newsmax.com/nicolemalliotakis/schiff-campaign-funds-money/2019/11/21/id/942762/"
+},
+{
+"text": "[no text]",
+"href": "https://nicolemalliotakis.com/?page_id=12061"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://facebook.com/nmalliotakis"
+},
+{
+"text": "[tooltip: instagram]",
+"href": "https://www.instagram.com/nmalliotakis"
+},
+{
+"text": "[tooltip: mail]",
+"href": "http://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fnicolemalliotakis.com%2Fsharelines%2Fschiff-money-will-taint-the-house-impeachment-vote%2F&linkname=Schiff+Money+Will+Taint+the+House+Impeachment+Vote"
+},
+{
+"text": "[tooltip: twitter]",
+"href": "https://twitter.com/nmalliotakis"
+},
+{
+"text": "donate now",
+"href": "https://secure.winred.com/nicolemalliotakis/donate"
+},
+{
+"text": "donate now",
+"href": "https://secure.winred.com/nicolemalliotakis/donate/"
+},
+{
+"text": "get involved",
+"href": "https://nicolemalliotakis.com/get-involved/"
+},
+{
+"text": "other",
+"href": "https://secure.winred.com/nicolemalliotakis/donate/"
+}
 ]

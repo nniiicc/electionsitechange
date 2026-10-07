@@ -1,6 +1,5 @@
-Dr.
-Ray Callas
-Ray Callas, M.D., is a lifelong Texan who has spent most of his life living on the coast, serving his communities and finding ways to fight for the values that he was raised with.
+0 Skip to Content Home Meet Ray Press Endorsements Get Involved Donate Now Open Menu Close Menu Home Meet Ray Press Endorsements Get Involved Donate Now Open Menu Close Menu Home Meet Ray Press Endorsements Get Involved Donate Now Dr.
+Ray Callas Ray Callas, M.D., is a lifelong Texan who has spent most of his life living on the coast, serving his communities and finding ways to fight for the values that he was raised with.
 From his military service in Operation Desert Storm to his advocacy efforts in Austin, Dr.
 Callas has always run toward challenges to help his fellow Texans and Americans.
 It’s a call to service he continues to answer to this day.
@@ -27,4 +26,4 @@ Callas is a longtime advocate for the Jefferson County Medical Society, a gradua
 He is also a proud member of the Jefferson County Republican Party, a delegate to the Republican Party of Texas state convention and a former Republican National Committee member.
 Most important to him are his faith and his family.
 Dr.
-Callas lives in Beaumont with his wife, Lisa, and their daughters Emerie, MacKenna, and Raygan.
+Callas lives in Beaumont with his wife, Lisa, and their daughters Emerie, MacKenna, and Raygan. campaign@raycallasfortexas.com Privacy Policy Paid Pol Ad by Ray Callas Campaign

@@ -1,7 +1,8 @@
-Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page Re-emergence of Nuclear Power Dec 17, 2024 Nuclear power is on the cusp of a re-emergence as a major supplier of energy in the US.
 Microsoft has expressed a desire to purchase energy produced by the Constellation, “Three Mile Island” facility in a 20-year agreement to support its data centers which consume a vast amount of energy.
 “If approved to come back online, Three Mile Island is expected to restart in 2028 and extend operations until at least 2054.
-With its anticipated reopening, the facility is also set to be renamed the Crane Clean Energy Center.”
-Microsoft has likely concluded that the fastest path to securing a large source of energy is to contract a restart of an existing facility rather than pound its way through an antiquated Nuclear Regulatory Commission (NRC).
+With its anticipated reopening, the facility is also set to be renamed the Crane Clean Energy Center.” Microsoft has likely concluded that the fastest path to securing a large source of energy is to contract a restart of an existing facility rather than pound its way through an antiquated Nuclear Regulatory Commission (NRC).
 Let us hope that this is a precursor to accelerated availability of a cheap and reliable source of clean, renewable energy for Granite Staters as we explore a long-term energy plan for our future.
-DC residents can now power homes with 100% nuclear energy – Washington Examiner
+DC residents can now power homes with 100% nuclear energy – Washington Examiner SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

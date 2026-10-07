@@ -1,7 +1,6 @@
-AL ROJAS FOR SENATE 21, NEVADA
-At a the reopening of Marianas on Eastern and Bonanaza
-With Mark Robertson and Ted Cruz.
-Supporting Mark Robertson at La Bonita
-Supporting Mark Robertson for Congress District 1
-Have a WordPress.com account?
+Skip to content AL ROJAS FOR SENATE 21, NEVADA Community Engagement About Al Rojas Contact /Volunteer Endorsements Home Page Community Engagement At a the reopening of Marianas on Eastern and Bonanaza With Mark Robertson and Ted Cruz.
+Supporting Mark Robertson at La Bonita Supporting Mark Robertson for Congress District 1 AL ROJAS FOR SENATE 21, NEVADA Al Rojas for Senate 21, Nevada Pages Community Engagement About Al Rojas Contact /Volunteer Endorsements Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Subscribe Subscribed AL ROJAS FOR SENATE 21, NEVADA Sign me up Have a WordPress.com account?
 Log in now.
+AL ROJAS FOR SENATE 21, NEVADA Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

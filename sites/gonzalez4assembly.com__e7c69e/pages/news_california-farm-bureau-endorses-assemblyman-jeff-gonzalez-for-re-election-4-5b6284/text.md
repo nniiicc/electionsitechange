@@ -1,11 +1,10 @@
-Gonzalez Campaign Launches "Goal!" Ad Across Coachella and Imperial Valleys
-SACRAMENTO — Assemblyman Jeff Gonzalez's campaign today launched "Goal!," a new ad now airing across the 36th Assembly District in both English and Spanish.
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Gonzalez Campaign Launches "Goal!" Ad Across Coachella and Imperial Valleys Sep 17 Written By Frank Hill SACRAMENTO — Assemblyman Jeff Gonzalez's campaign today launched "Goal!," a new ad now airing across the 36th Assembly District in both English and Spanish.
 The spot is running on broadcast television in the Palm Springs and Yuma-El Centro media markets, and on connected TV, streaming platforms, and digital channels reaching voters across the 36th Assembly district.
 As Gonzalez speaks about his priorities, a pair of commentators call each one like a goal: making gas and groceries more affordable, cutting red tape, improving healthcare, and voting for good ideas no matter which party they come from.
 "Some goals get celebrated more than others.
 I've only ever had one, helping the people of Southern California," Gonzalez said.
-"Jeff Gonzalez has scored real wins for the families of this district, and this ad tells that story in a way that's fun and easy to understand," said campaign consultant Duane Dichiara.
-"Voters throughout the district will see it on TV, on their phones, and on the streaming services they use every day."
-"Goal!" is the first in a series of ads the campaign will release ahead of the November 3 general election.
-Watch the ad HERE.
-###
+"Jeff Gonzalez has scored real wins for the families of this district, and this ad tells that story in a way that's fun and easy to understand," said campaign consultant Duane Dichiara .
+"Voters throughout the district will see it on TV, on their phones, and on the streaming services they use every day." "Goal!" is the first in a series of ads the campaign will release ahead of the November 3 general election.
+Watch the ad HERE .
+### Frank Hill Previous Previous California Medical Association Political Action Committee Endorses Assemblyman Jeff Gonzalez for Reelection Next Next ICYMI: Jeff Gonzalez Launches 2026 Reelection Campaign in Indio MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

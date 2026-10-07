@@ -1,5 +1,4 @@
-School Safety & Gun Violence
-Hunting and sports shooting are cherished traditions in Minnesota, but gun violence doesn’t have to be part of that tradition.
+0 Skip to Content Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE Open Menu Close Menu Open Menu Close Menu Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE Home Meet Robert Issues Legislative Work Coffee Hours Endorsements Get Involved Voting DONATE School Safety & Gun Violence Hunting and sports shooting are cherished traditions in Minnesota, but gun violence doesn’t have to be part of that tradition.
 We can build on the significant life-saving gun legislation we have achieved in Minnesota.
 Criminal background checks for all gun purchases and Extreme Risk Protection Orders (Red Flag laws), have been signed into law.
 They have saved lives.
@@ -10,8 +9,7 @@ The Legislature passed gun bills supported by a majority of Minnesotans.
 We have more work to do.
 Today Gun Violence is the leading cause of death for children and adolescents in the United States.
 Our youngest Americans, 1 to 19.
-For five years in a row.…
-In Minnesota we are not immune from the deaths, injury and trauma of gun violence.
+For five years in a row.… In Minnesota we are not immune from the deaths, injury and trauma of gun violence.
 We should choose not to tolerate it.
 We should treat gun violence as the public health crisis it is.
 When our children have been afflicted from maladies in the past we have acted.
@@ -21,3 +19,4 @@ The Office of Gun Violence Prevention- (HF3668) - to be placed in the Minnesota 
 Working on the issue from a prevention perspective, this agency would bring together researchers, medical professionals, educators, law enforcement, and community leaders to reduce injuries and save lives.
 We cannot solve what we refuse to study.
 This office would provide the research, as the Department of Health does for any other public health challenge, utilize the data to discern the most effective policies to reduce harm.
+Prepared and Paid for by the Robert Bierman for MN House Committee PO Box 240574, Apple Valley, MN, 55124 Contact: GetInvolved@ElectRobertBierman.com

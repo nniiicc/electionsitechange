@@ -1,4 +1,8 @@
-Eliminate the income tax and the FICA tax while making the self-employment (SECA) tax the only income tax, and add an x percent VAT.
+Skip to content Donate Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Allen Buckley for U.S.
+Senate Let's buck the system!
+Donate Donate About Me Ballot Access Home Media Inquires Participate Press Releases Why Vote For Me All Solutions and Positions Environmental Protection Fix the Finances Immigration Reform Proposal Reduce Healthcare Costs Rein in the Executive Branch Tax Proposal in One Paragraph By Allen Buckley for U.S.
+Senate / February 9, 2026 Eliminate the income tax and the FICA tax while making the self-employment (SECA) tax the only income tax, and add an x percent VAT.
 Wages and salaries would be subject to the SECA tax, as would most other income except as noted below.
 The SECA rate would x up to $100,000 of net income and 2x on net income in excess of $100,000.
 The x/2x percent rate is flexible, and it would be adjusted to balance the budget in non-recession (or worse) years.
@@ -16,3 +20,5 @@ The proposal is progressive because it grants poverty, housing, charitable, reti
 Everyone would pay the VAT, but the FICA/SECA tax would be paid only by the upper half of the middle class and above.
 Everyone would feel government spending, and everyone would pitch in to help solve the nation’s financial problems.
 A reasonable deficit could be run during an emergency situation or a significant recession or financial depression.
+Previous Why the National Debt is Our Nation’s Greatest Problem Next Summary of the Financial Sanity Act of 2027 Donate Home Why Vote For Me About Me Ballot Access Media Inquires Participate What is a Libertarian?
+Press Releases Authorized by Buckley 2026 LLC Scroll to Top

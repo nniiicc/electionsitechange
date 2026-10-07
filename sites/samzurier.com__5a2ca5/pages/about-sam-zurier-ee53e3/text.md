@@ -1,4 +1,4 @@
-I grew up on the East Side of Providence, moving there from Pawtucket with my family when I was six years old.
+Home About Bio Public Service Record Projects 2022-23 District Letters 2024 District Letters 2025 District Letters 2026 District Letters Legislation State Legislation State Issues DONATE Join My Email List Select Page About Sam I grew up on the East Side of Providence, moving there from Pawtucket with my family when I was six years old.
 I attended Henry Barnard Elementary School, Moses Brown Middle School and Classical High School, where I graduated in 1976.
 I continued my education at Yale University, Oxford University (which I attended on a Rhodes Scholarship) and Yale Law School, graduating in 1986.
 During 1986-88, I clerked for two Federal judges in Boston, Rya Zobel of the United States District Court and Stephen Breyer, then of the First Circuit Court of Appeals.
@@ -29,10 +29,11 @@ During my time on the Council, I worked on a variety of issues, with a focus on 
 I completed my second (and final) term of office at the end of 2018.
 I was first elected to the Rhode Island Senate in 2021.
 I serve on the Finance, Education, Oversight and Artificial Intelligence Committees.
-You can read a summary of my record of public service by clicking here.
+You can read a summary of my record of public service by clicking here .
 I live on Grotto Avenue with my wife Lauren.
 Lauren is a prosecutor, handling criminal appeals for the United States Attorney’s office.
 We have three children: Rachel, Hannah and Joseph.
 Rachel is now employed at the Bryant Park Corporation in New York City.
 Hannah lives in New York City, and is working at a startup developing cultured meat.
 Joe is working in finance in San Francisco.
+Sam, Rachel, Joe, Hannah and Lauren celebrating the 2018 Red Sox World Championship Friends of Sam Zurier 330 Grotto Avenue Providence, RI 02906 Join My Email List [ctct form="3808" show_title="false"] © Copyright # Paid for and Authorized by Friends of Sam Zurier, Sam Zurier, Treasurer.

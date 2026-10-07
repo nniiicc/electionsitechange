@@ -1,4 +1,8 @@
-This week, Emerge launched Faces of NAM (#SayNAM) featuring Emerge alumnae across the country.
+Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate Home About Meet Naquetta On the Issues Legislation HD40 2024 Campaign Video Photo Gallery News Constituent Corner Contact Me How Can We Help?
+Nominate a Neighbor In the Community Donate October 25, 2021 Morgan Anker Faces of the New American Majority: Rep.
+Naquetta Ricks Morgan Anker October 25, 2021 Faces of the New American Majority: Rep.
+Naquetta Ricks Morgan Anker October 25, 2021 This week, Emerge launched Faces of NAM (#SayNAM) featuring Emerge alumnae across the country.
 Colorado State Rep.
 Naquetta Ricks, a Democrat who represents the diverse community of Aurora, shared her story on what it was like to represent the New American Majority.
 Below, read Emerge’s interview with Rep.
@@ -47,3 +51,5 @@ Ricks: We are currently in the interim at the State Legislature, but I’m keepi
 In 2022, I am prioritizing legislation that builds on some of the bills I sponsored the last session, including opportunities and protections for immigrants, consumers’ rights and protections, and fighting the overreach of HOAs.
 I am also continuing to fight for the long-term sustainability of immigrant-, Black-, and women-owned small businesses.
 Through my work at the legislature and as the President of the African Chamber of Commerce Colorado, I am helping these businesses recover from the devastation of the pandemic by providing access to capital, consulting, and technical support.
+Source: https://emergeamerica.org/faces-of-nam-rep-naquetta-ricks/ Newer Post Liberia Native Finds Her Footing as New Colorado Lawmaker Older Post Representative Ricks speaks at Denver's March for Citizenship on September 25, 2021 Back to Top Sign up for my newsletter!
+Paid for by Naquetta Ricks for Colorado

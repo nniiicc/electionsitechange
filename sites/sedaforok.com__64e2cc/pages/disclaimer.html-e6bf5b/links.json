@@ -1,12 +1,50 @@
 [
-"https://facebook.com/SedaforOK91",
-"https://form.jotform.com/251755509859169",
-"https://okvoterportal.okelections.gov/",
-"https://secure.winred.com/elect-roberto-seda-for-ok-house-district-91/donate-today",
-"https://sedaforok.com/disclaimer.html",
-"https://sedaforok.com/index.html",
-"https://sedaforok.com/issues.html",
-"https://sedaforok.com/meet-roberto.html",
-"https://sedaforok.com/privacy-policy.html",
-"https://sedaforok.com/terms-of-use.html"
+{
+"text": "Disclaimer",
+"href": "https://www.sedaforok.com/disclaimer.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/elect-roberto-seda-for-ok-house-district-91/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SedaforOK91/"
+},
+{
+"text": "Find My Polling Location",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "Home",
+"href": "https://www.sedaforok.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.sedaforok.com/issues.html"
+},
+{
+"text": "Meet Roberto",
+"href": "https://www.sedaforok.com/meet-roberto.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sedaforok.com/privacy-policy.html"
+},
+{
+"text": "Support",
+"href": "https://form.jotform.com/251755509859169"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.sedaforok.com/terms-of-use.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SedaforOK91/"
+},
+{
+"text": "sedaforok@gmail.com",
+"href": "mailto:sedaforok@gmail.com"
+}
 ]

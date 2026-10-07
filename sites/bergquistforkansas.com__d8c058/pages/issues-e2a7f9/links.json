@@ -1,15 +1,58 @@
 [
-"http://kansaschamber.org/",
-"http://voteprolife.net/",
-"https://bergquistforkansas.com/",
-"https://bergquistforkansas.com/91st-district",
-"https://bergquistforkansas.com/donate",
-"https://bergquistforkansas.com/issues",
-"https://bergquistforkansas.com/meet-emil",
-"https://bergquistforkansas.com/news",
-"https://bergquistforkansas.com/volunteer",
-"https://facebook.com/RepresentativeEmilBergquist",
-"https://familypolicyalliance.com/kansas",
-"https://kfb.org/Kansas-Farm-Bureau",
-"https://sckrealtors.com/"
+{
+"text": "District Map",
+"href": "https://bergquistforkansas.com/91st-district/"
+},
+{
+"text": "Donate",
+"href": "https://bergquistforkansas.com/donate/"
+},
+{
+"text": "Family Policy Alliance of Kansas",
+"href": "https://familypolicyalliance.com/kansas/"
+},
+{
+"text": "Issues",
+"href": "https://bergquistforkansas.com/issues/"
+},
+{
+"text": "Kansans for Life",
+"href": "http://www.voteprolife.net/"
+},
+{
+"text": "Kansas Chamber of Commerce",
+"href": "http://www.kansaschamber.org/"
+},
+{
+"text": "Kansas Farm Bureau",
+"href": "https://www.kfb.org/Kansas-Farm-Bureau"
+},
+{
+"text": "Meet Emil",
+"href": "https://bergquistforkansas.com/meet-emil/"
+},
+{
+"text": "News",
+"href": "https://bergquistforkansas.com/news/"
+},
+{
+"text": "Realtors of South Central Kansas PAC",
+"href": "https://www.sckrealtors.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://bergquistforkansas.com/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://bergquistforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepresentativeEmilBergquist/"
+},
+{
+"text": "[no text]",
+"href": "mailto:emil@bergquistforkansas.com?subject=Email+from+Bergquistforkansas.com"
+}
 ]

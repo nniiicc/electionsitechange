@@ -1,5 +1,4 @@
-Meet Brian
-Brian Hardin comes from a fourth-generation Scotts Bluff County farm family where he learned the value of skinned knuckles and long days.
+Home About Get Involved Legislative District 48 DONATE NOW Privacy Policy Select Page Meet Brian Brian Hardin comes from a fourth-generation Scotts Bluff County farm family where he learned the value of skinned knuckles and long days.
 He graduated from Gering High School.
 He then earned a bachelor’s degree from Chadron State College and a master’s degree from Denver Seminary.
 A consistent theme throughout his life is leadership.
@@ -24,8 +23,7 @@ They leave and don’t come back.
 Nebraska is bleeding its future.
 We must create the conditions that encourage the next generation to invest their lives… here.
 They need career options that allow them to buy a home and plan a future.
-Let’s build THAT!”
-Brian has remained committed to the well-being of the people in Scotts Bluff, Banner, and Kimball counties.
+Let’s build THAT!” Brian has remained committed to the well-being of the people in Scotts Bluff, Banner, and Kimball counties.
 He firmly believes personal liberty can thrive only when government is limited and responsive to local needs.
 He wants to hear from you, your concerns, your vision, your hopes for our corner of Nebraska.
 It has been his honor to represent District 48.

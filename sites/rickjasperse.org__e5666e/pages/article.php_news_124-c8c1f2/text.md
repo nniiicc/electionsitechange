@@ -1,4 +1,5 @@
-[February 20, 2023] | The Georgia House of Representatives kicked off the fifth week of the 2023 legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK MR.
+LOUIS GRAZIANO HONORED [ February 20, 2023 ] | The Georgia House of Representatives kicked off the fifth week of the 2023 legislative session.
 It has been great to see so many folks in the State Capitol this year.
 Since Covid occurred, this is the busiest the building has been.
 Important this week to be talked about in committee will be Online Sports Gambling, Increased Truck Weights, and a number of Healthcare bills.
@@ -28,3 +29,4 @@ Has the building been crowded!
 As your representative, it is extremely important for me to hear which issues are significant to you and your family.
 If you find yourself in Atlanta during the legislative session, please feel free to schedule a visit to my Capitol office or call my Capitol office at 404-656-7153, or email me at rick.jasperse@house.ga.gov.
 As always, thank you for allowing me to serve as your State Representative.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

@@ -1,16 +1,66 @@
 [
-"https://electsarahannan.com/",
-"https://electsarahannan.com/contact",
-"https://electsarahannan.com/on-the-issues",
-"https://electsarahannan.com/privacy-policy",
-"https://electsarahannan.com/volunteer",
-"https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ADVENTURE-e1520924158742.jpg",
-"https://electsarahannan.com/wp-content/uploads/2018/03/SARA-JDHS-GRADUATION.jpg",
-"https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ON-ICE.jpg",
-"https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ON-THE-WATER.jpg",
-"https://electsarahannan.com/wp-content/uploads/2018/03/SARA-WITH-FAMILY.jpg",
-"https://electsarahannan.com/wp-content/uploads/2018/03/YOUNG-SARA-ON-THE-WATER.jpg",
-"https://facebook.com/electsarahannan",
-"https://secure.actblue.com/donate/sara-hannan-for-state-house-1",
-"https://voterregistration.alaska.gov/"
+{
+"text": "Contact",
+"href": "https://electsarahannan.com/contact/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/sara-hannan-for-state-house-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electsarahannan"
+},
+{
+"text": "Follow Sara",
+"href": "https://www.facebook.com/electsarahannan/"
+},
+{
+"text": "Meet Sara",
+"href": "https://electsarahannan.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://electsarahannan.com/on-the-issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://electsarahannan.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterregistration.alaska.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://electsarahannan.com/volunteer/"
+},
+{
+"text": "[image: Elect Sara Hannan]",
+"href": "https://electsarahannan.com/"
+},
+{
+"text": "[image: Sara Hannan on Gastineau Channel]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/YOUNG-SARA-ON-THE-WATER.jpg"
+},
+{
+"text": "[image: Sara Hannan on Mendenhall Lake with Mendenhall Glacier]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ON-ICE.jpg"
+},
+{
+"text": "[image: Sara Hannan with a haul of crab and shrimp]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ON-THE-WATER.jpg"
+},
+{
+"text": "[image: Sara at Juneau-Douglas High School celebration]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/SARA-JDHS-GRADUATION.jpg"
+},
+{
+"text": "[image: Sara at Machu Picchu]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/SARA-ADVENTURE-e1520924158742.jpg"
+},
+{
+"text": "[image: Sara spending Christmas with family in Craig]",
+"href": "https://electsarahannan.com/wp-content/uploads/2018/03/SARA-WITH-FAMILY.jpg"
+}
 ]

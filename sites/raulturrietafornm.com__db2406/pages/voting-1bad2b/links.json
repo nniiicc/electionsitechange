@@ -1,18 +1,70 @@
 [
-"http://nmvote.org/",
-"https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3Dl25VzQJ1Rqv0phUxAIl0zCuVwL6IIWrtTTaGMn5mhiA%26code_challenge_method%3DS256",
-"https://biogeocreations.com/",
-"https://grantcountynm.gov/DocumentCenter/View/2611/Early-Voting-Information-2026-General-Election",
-"https://portal1.sos.nm.gov/OVR/(S(dgyfse4webn0o5zm0soeb3rr))/WebPages/AbsenteeApplication.aspx",
-"https://raulturrietafornm.com/",
-"https://raulturrietafornm.com/about-1",
-"https://raulturrietafornm.com/about-raul",
-"https://raulturrietafornm.com/cart",
-"https://raulturrietafornm.com/contact",
-"https://raulturrietafornm.com/endorsements",
-"https://raulturrietafornm.com/get-involved",
-"https://raulturrietafornm.com/priorities",
-"https://raulturrietafornm.com/priorities-1",
-"https://raulturrietafornm.com/voting",
-"https://secure.numero.ai/contribute/Raul-Turrieta-for-NM"
+{
+"text": "0",
+"href": "https://www.raulturrietafornm.com/cart"
+},
+{
+"text": "About Raul",
+"href": "https://www.raulturrietafornm.com/about-raul"
+},
+{
+"text": "BGC",
+"href": "https://www.biogeocreations.com/"
+},
+{
+"text": "Back",
+"href": "https://www.raulturrietafornm.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/Raul-Turrieta-for-NM"
+},
+{
+"text": "Click here to track the status of your absentee ballot.",
+"href": "https://app.enhancedvoting.com/login/Voter/Account/Login2?returnUrl=%2Flogin%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dcore.voter.frontend%26scope%3Dopenid%2520profile%2520offline_access%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fapp.enhancedvoting.com%252Fvoter%252Fapi%252Fauth%252Fcallback%26acr_values%3Dusertype%253AVoter%2520voterLoginMode%253Alight%2520shortName%253Anewmexico%26code_challenge%3Dl25VzQJ1Rqv0phUxAIl0zCuVwL6IIWrtTTaGMn5mhiA%26code_challenge_method%3DS256"
+},
+{
+"text": "Contact",
+"href": "https://www.raulturrietafornm.com/contact"
+},
+{
+"text": "District 39",
+"href": "https://www.raulturrietafornm.com/priorities-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.raulturrietafornm.com/endorsements"
+},
+{
+"text": "Folder: About",
+"href": "https://www.raulturrietafornm.com/about-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.raulturrietafornm.com/get-involved"
+},
+{
+"text": "HERE",
+"href": "https://grantcountynm.gov/DocumentCenter/View/2611/Early-Voting-Information-2026-General-Election?bidId="
+},
+{
+"text": "NMVOTE.ORG",
+"href": "http://nmvote.org"
+},
+{
+"text": "Priorities",
+"href": "https://www.raulturrietafornm.com/priorities"
+},
+{
+"text": "Voting",
+"href": "https://www.raulturrietafornm.com/voting"
+},
+{
+"text": "You can request a ballot anytime between today and October 20.",
+"href": "https://portal1.sos.nm.gov/OVR/(S(dgyfse4webn0o5zm0soeb3rr))/WebPages/AbsenteeApplication.aspx"
+},
+{
+"text": "[image: Raul Turrietta for New Mexico]",
+"href": "https://www.raulturrietafornm.com/"
+}
 ]

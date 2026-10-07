@@ -1,5 +1,4 @@
-Who I Am
-Chris Ford has dedicated his life to service to Minnesotans.
+0 Skip to Content About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Open Menu Close Menu About Priorities Endorsements Get Involved Donate Events Host a Yard Sign Who I Am Chris Ford has dedicated his life to service to Minnesotans.
 He served as a firefighter for 21 years, including 13 years as Captain in Rochester.
 He works as a paraprofessional at Blaine High School, helping to educate our kids.
 He supports our community as a Park Board member and member of the Neighborhood Traffic Commission.
@@ -11,7 +10,8 @@ Chris Ford is running for State Senate to be our trusted public servant in Saint
 Our community has trusted Chris Ford to protect us, to educate our kids and to represent our communities for decades.
 And Chris Ford has already delivered.
 We can trust him to serve us and to deliver safer communities, lower costs, better schools and health care.
-Contact us
-Interested in working together?
+Contact us Interested in working together?
 Fill out some info and we will be in touch shortly.
 We can’t wait to hear from you!
+Chris Ford for MN Prepared and paid for by the Chris Ford for MN committee.
+PO Box 490021, 10611 Baltimore St NE STE 100, Blaine, MN 55449.

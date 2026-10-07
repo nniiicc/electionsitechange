@@ -1,32 +1,126 @@
 [
-"http://squarespace.com/",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0229&GA=114",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0772&GA=112",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0895&GA=112",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1368&GA=112",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1402&GA=112",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1874&GA=114",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2017&GA=113",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2077&GA=112",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2560&GA=114",
-"http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2649&GA=112",
-"https://langan4tn.com/",
-"https://langan4tn.com/about-me",
-"https://langan4tn.com/accomplish",
-"https://langan4tn.com/cart",
-"https://langan4tn.com/new-page",
-"https://langan4tn.com/themenu",
-"https://langan4tn.com/volunteer",
-"https://langan4tn.com/yard-signs",
-"https://secure.actblue.com/donate/langan4tn",
-"https://thecentersquare.com/tennessee/article_c6b84b7a-d87f-11ed-95c0-0ba953e0af96.html",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0344",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0899&GA=110",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1830&GA=109",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0363&GA=110",
-"https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1221&GA=110",
-"https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1120&GA=112",
-"https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1400&GA=112",
-"https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1413&GA=114",
-"https://wapp.capitol.tn.gov/apps/schedule/Default.aspx?type=senate"
+{
+"text": "*SB1413",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1413&GA=114"
+},
+{
+"text": "0",
+"href": "https://www.langan4tn.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.langan4tn.com/about-me"
+},
+{
+"text": "Are They Working for You?",
+"href": "https://www.langan4tn.com/themenu"
+},
+{
+"text": "Article",
+"href": "https://www.thecentersquare.com/tennessee/article_c6b84b7a-d87f-11ed-95c0-0ba953e0af96.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/langan4tn"
+},
+{
+"text": "Get Involved",
+"href": "https://www.langan4tn.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "Inside Tennessee - Round Table with the Candidates",
+"href": "https://www.langan4tn.com/new-page"
+},
+{
+"text": "Langan for Tennessee",
+"href": "https://www.langan4tn.com/"
+},
+{
+"text": "SB 0229",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0229&GA=114"
+},
+{
+"text": "SB 0772",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0772&GA=112"
+},
+{
+"text": "SB 0895",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0895&GA=112"
+},
+{
+"text": "SB 1368",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1368&GA=112"
+},
+{
+"text": "SB 1402",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1402&GA=112"
+},
+{
+"text": "SB 1874",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1874&GA=114"
+},
+{
+"text": "SB 2017",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2017&GA=113"
+},
+{
+"text": "SB 2077",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2077&GA=112"
+},
+{
+"text": "SB 2649",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2649&GA=112"
+},
+{
+"text": "SB0344",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0344"
+},
+{
+"text": "SB0363",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0363&GA=110"
+},
+{
+"text": "SB0899",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0899&GA=110"
+},
+{
+"text": "SB1120",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1120&GA=112"
+},
+{
+"text": "SB1221",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1221&GA=110"
+},
+{
+"text": "SB1400",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1400&GA=112"
+},
+{
+"text": "SB1830",
+"href": "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB1830&GA=109"
+},
+{
+"text": "SB2560",
+"href": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB2560&GA=114"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Watch",
+"href": "https://wapp.capitol.tn.gov/apps/schedule/Default.aspx?type=senate"
+},
+{
+"text": "What I Hope to Accomplish",
+"href": "https://www.langan4tn.com/accomplish"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.langan4tn.com/yard-signs"
+}
 ]

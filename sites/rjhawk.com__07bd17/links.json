@@ -1,10 +1,54 @@
 [
-"https://facebook.com/HawkForStateRep",
-"https://facebook.com/RepRJHawk",
-"https://instagram.com/rj__hawk_",
-"https://linkedin.com/in/rj-hawk-5182031a",
-"https://politics.raisethemoney.com/en/rhawk",
-"https://rjhawk.com/",
-"https://rjhawk.com/volunteer",
-"https://x.com/RJHawk"
+{
+"text": "ABOUT",
+"href": "https://www.rjhawk.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.rjhawk.com"
+},
+{
+"text": "CONTACT ME",
+"href": "https://www.rjhawk.com"
+},
+{
+"text": "DONATE",
+"href": "https://politics.raisethemoney.com/en/rhawk"
+},
+{
+"text": "RJHawkStRep@gmail.com",
+"href": "mailto:RJHawkStRep@gmail.com"
+},
+{
+"text": "THE ISSUES",
+"href": "https://www.rjhawk.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.rjhawk.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.rjhawk.com/volunteer"
+},
+{
+"text": "[image: social icons-01.png]",
+"href": "https://x.com/RJHawk"
+},
+{
+"text": "[image: social icons-02.png]",
+"href": "https://www.instagram.com/rj__hawk_/"
+},
+{
+"text": "[image: social icons-03.png]",
+"href": "https://www.facebook.com/HawkForStateRep"
+},
+{
+"text": "[image: social icons-03.png]",
+"href": "https://www.facebook.com/RepRJHawk"
+},
+{
+"text": "[image: social icons-04.png]",
+"href": "https://www.linkedin.com/in/rj-hawk-5182031a/"
+}
 ]

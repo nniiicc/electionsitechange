@@ -1,13 +1,46 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://facebook.com/georgpickupforiowa",
-"https://instagram.com/pickupiowahouse70",
-"https://pickupforiowa.com/",
-"https://pickupforiowa.com/about",
-"https://pickupforiowa.com/endorsements",
-"https://pickupforiowa.com/join-us",
-"https://secure.actblue.com/donate/george-pickup-1",
-"https://sos.iowa.gov/voters/absentee-voting",
-"https://tiktok.com/@pickupforiowa70"
+{
+"text": "About",
+"href": "https://www.pickupforiowa.com/about"
+},
+{
+"text": "Check Now",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "Details",
+"href": "https://sos.iowa.gov/voters/absentee-voting"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/george-pickup-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.pickupforiowa.com/endorsements"
+},
+{
+"text": "Join Us",
+"href": "https://www.pickupforiowa.com/join-us"
+},
+{
+"text": "Search",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/georgpickupforiowa"
+},
+{
+"text": "[image: George Pickup for Iowa campaign logo]",
+"href": "https://www.pickupforiowa.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/pickupiowahouse70/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@pickupforiowa70"
+}
 ]

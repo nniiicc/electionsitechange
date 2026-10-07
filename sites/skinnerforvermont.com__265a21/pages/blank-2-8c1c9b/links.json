@@ -1,8 +1,26 @@
 [
-"https://janooforvt.com/",
-"https://janooforvt.solidarity.tech/south-hero-town-hall-with-friends",
-"https://skinnerforvermont.com/",
-"https://skinnerforvermont.com/blank",
-"https://skinnerforvermont.com/blank-1",
-"https://skinnerforvermont.com/blank-2"
+{
+"text": "About",
+"href": "https://www.skinnerforvermont.com/blank"
+},
+{
+"text": "Events",
+"href": "https://www.skinnerforvermont.com/blank-2"
+},
+{
+"text": "Home",
+"href": "https://www.skinnerforvermont.com"
+},
+{
+"text": "Issues and Ideas",
+"href": "https://www.skinnerforvermont.com/blank-1"
+},
+{
+"text": "RSVP here",
+"href": "https://janooforvt.solidarity.tech/south-hero-town-hall-with-friends"
+},
+{
+"text": "www.janooforvt.com.",
+"href": "https://janooforvt.com/"
+}
 ]

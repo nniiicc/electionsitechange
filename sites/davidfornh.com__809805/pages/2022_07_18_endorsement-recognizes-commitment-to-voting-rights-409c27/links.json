@@ -1,9 +1,34 @@
 [
-"https://davidfornh.com/",
-"https://davidfornh.com/david",
-"https://davidfornh.com/get-involved",
-"https://davidfornh.com/news",
-"https://davidfornh.com/priorities",
-"https://docs.google.com/forms/d/e/1FAIpQLSdBdFmNFFIprTH9O4Skrben48_T31mLAd3MqLb9ItMdVMz5sw/viewform?usp=sf_link",
-"https://secure.actblue.com/donate/reppaige26"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/reppaige26"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davidfornh.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.davidfornh.com/"
+},
+{
+"text": "Meet David",
+"href": "https://www.davidfornh.com/david/"
+},
+{
+"text": "News",
+"href": "https://www.davidfornh.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://www.davidfornh.com/priorities/"
+},
+{
+"text": "Volunteer Sign-Up",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdBdFmNFFIprTH9O4Skrben48_T31mLAd3MqLb9ItMdVMz5sw/viewform?usp=sf_link"
+},
+{
+"text": "[image]",
+"href": "https://www.davidfornh.com"
+}
 ]

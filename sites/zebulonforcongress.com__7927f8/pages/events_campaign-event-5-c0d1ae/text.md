@@ -1,12 +1,3 @@
-Back to All Events
-Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
+0 Skip to Content No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu No Party Just People Home My Story Where I Stand Statements Transparency Contact Us Events Donate Open Menu Close Menu Home My Story Where I Stand Statements Transparency Contact Us Events Donate Back to All Events Candidate Forum Saturday, March 21, 2026 2:00 PM 4:00 PM Northern Michigan University Northern Center Ballroom Marquette MI (map) Google Calendar ICS Join us at a Meet the Candidates forum to hear from those seeking to represent our district.
 This is an opportunity to learn more about Zebulon Featherly’s positions on the issues affecting Northern Michigan, ask questions, and participate in an open discussion about the future of our region.
-“Meet the people who want to represent you in Washington, DC
-Sponsored by Lake Superior Region Indivisible
-Previous
-Previous
-March 19
-Candidate Forum
-Next
-Next
-April 1
+“Meet the people who want to represent you in Washington, DC Sponsored by Lake Superior Region Indivisible Previous Previous March 19 Candidate Forum Next Next April 1 Candidate Forum

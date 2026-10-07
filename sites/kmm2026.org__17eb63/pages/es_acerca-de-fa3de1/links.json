@@ -1,38 +1,154 @@
 [
-"https://coniferousforest.com/shortleaf-pine.htm",
-"https://discord.com/login",
-"https://environmentamerica.org/texas/articles/data-center-moratorium-now",
-"https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows",
-"https://ewg.org/foodscores/8694-article-california-bill-would-ban-toxic-forever-chemical-pesticides-contaminating-nearly-state-grown-non-organic-produce",
-"https://feeds.texastribune.org/link/16799/17489722/ken-paxton-third-quarter-fundraising-texas-senate-race-2026",
-"https://feeds.texastribune.org/link/16799/17489834/vote-2",
-"https://fire-information-tfsgis.hub.arcgis.com/pages/historical-fire-statistics",
-"https://greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school",
-"https://greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade",
-"https://hoodline.com/2025/07/texas-governor-greg-abbott-renews-and-expands-drought-disaster-proclamation-amid-persistent-severe-conditions",
-"https://instagram.com/kevinmccormick2026",
-"https://kmm2026.org/",
-"https://kmm2026.org/documents/hurricane-harvey-5b-sap-amend18.pdf",
-"https://kmm2026.org/es",
-"https://kmm2026.org/es/acerca-de",
-"https://kmm2026.org/es/campana-2026",
-"https://kmm2026.org/es/contacto",
-"https://kmm2026.org/es/dona-ahora",
-"https://kmm2026.org/es/mi-tarjetas",
-"https://kmm2026.org/es/problemas-2026",
-"https://kmm2026.org/kmm2026.org/contact",
-"https://reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica",
-"https://reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols",
-"https://secure.facebook.com/login",
-"https://texasfarmbureau.org/citrus-harvest-set-to-begin-after-hot-dry-summer",
-"https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief",
-"https://texasfarmbureau.org/invasive-pests-threaten-texas-agriculture",
-"https://texastribune.org/2023/01/03/texas-climate-change-food-insecurity",
-"https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs",
-"https://usrtk.org/covid-19-origins/origin-of-sars-cov-2-gain-of-function-readings",
-"https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity",
-"https://wildflower.org/plants/result.php?id_plant=PRGL2",
-"https://wildflower.org/plants/result.php?id_plant=VAFA",
-"https://x.com/signin",
-"https://youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+{
+"text": "Acerca de",
+"href": "https://www.kmm2026.org/es/acerca-de"
+},
+{
+"text": "Campaña 2026",
+"href": "https://www.kmm2026.org/es/campana-2026"
+},
+{
+"text": "Centro de Flores Silvestres Lady Bird Johnson",
+"href": "https://www.wildflower.org/plants/result.php?id_plant=VAFA"
+},
+{
+"text": "Contacto",
+"href": "https://www.kmm2026.org/es/contacto"
+},
+{
+"text": "Data center moratorium now",
+"href": "https://environmentamerica.org/texas/articles/data-center-moratorium-now/"
+},
+{
+"text": "Dona ahora",
+"href": "https://www.kmm2026.org/es/dona-ahora"
+},
+{
+"text": "FOI documents on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-documents-on-origins-of-sars-cov-2-risks-of-gain-of-function-research-and-biosafety-labs/"
+},
+{
+"text": "FOI lawsuits on origins of Covid-19, gain-of-function research and biolabs",
+"href": "https://usrtk.org/covid-19-origins/foi-litigation-on-origins-of-sars-cov-2-gain-of-function-2/"
+},
+{
+"text": "Farmers call for federal diesel price relief",
+"href": "https://texasfarmbureau.org/farmers-call-for-federal-diesel-price-relief/"
+},
+{
+"text": "Formulario de contacto",
+"href": "https://www.kmm2026.org/kmm2026.org/contact"
+},
+{
+"text": "Hormone-disrupting chemical mixtures linked to excess childhood weight",
+"href": "https://usrtk.org/healthwire/hormone-disrupting-pfas-chemical-mixtures-linked-to-childhood-obesity/"
+},
+{
+"text": "Inicio",
+"href": "https://www.kmm2026.org/es/"
+},
+{
+"text": "Mi Tarjetas",
+"href": "https://www.kmm2026.org/es/mi-tarjetas"
+},
+{
+"text": "Para Pacientes y Médicos Nacidos en el Extranjero, el Miedo a las Políticas Migratorias Se Convierte en una Barrera para Acceder a la Atención Médica",
+"href": "https://www.reportingtexas.com/para-pacientes-y-medicos-nacidos-en-el-extranjero-el-miedo-a-las-politicas-migratorias-se-convierte-en-una-barrera-para-acceder-a-la-atencion-medica/"
+},
+{
+"text": "Political Influencer Piker Challenges UT Free Speech Policy and Security Protocols",
+"href": "https://www.reportingtexas.com/political-influencer-piker-challenges-ut-free-speech-policy-and-security-protocols/"
+},
+{
+"text": "Principal",
+"href": "https://www.kmm2026.org/es/"
+},
+{
+"text": "Problemas - 2026",
+"href": "https://www.kmm2026.org/es/problemas-2026"
+},
+{
+"text": "RELEASE: Gas power plant proposals surging, new interactive map shows",
+"href": "https://environmentamerica.org/texas/media-center/release-gas-power-plant-proposals-surging-new-interactive-map-shows/"
+},
+{
+"text": "Reflections on academic tenure prompted by events at The New School",
+"href": "https://www.greensocialthought.org/labor-economics/reflections-on-academic-tenure-prompted-by-events-at-the-new-school/"
+},
+{
+"text": "Smokehouse Creek",
+"href": "https://fire-information-tfsgis.hub.arcgis.com/pages/historical-fire-statistics"
+},
+{
+"text": "Students discuss ag issues during 2026 SOFA Challenge",
+"href": "https://texasfarmbureau.org/students-discuss-ag-issues-during-2026-sofa-challenge/"
+},
+{
+"text": "Texas comptroller investigating spending in Austin ISD, other districts",
+"href": "https://feeds.texastribune.org/link/16799/17490892/texas-school-district-spending-review"
+},
+{
+"text": "Texas governor 2026: Who is running and what to know",
+"href": "https://feeds.texastribune.org/link/16799/17490893/texas-governor-2026-guide-abbott-hinojosa"
+},
+{
+"text": "Trump signs order that expands access to tax-exempt diesel",
+"href": "https://texasfarmbureau.org/trump-signs-order-that-expands-access-to-tax-exempt-diesel/"
+},
+{
+"text": "U.S. Steps Up Pressure on Uruguay to Expel Cuban Medical Brigade",
+"href": "https://www.greensocialthought.org/thinking-politically/u-s-steps-up-pressure-on-uruguay-to-expel-cuban-medical-brigade/"
+},
+{
+"text": "[image: acacia farnesiana]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://discord.com/login"
+},
+{
+"text": "[no text]",
+"href": "https://secure.facebook.com/login/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kevinmccormick2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.kmm2026.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCfE_fNtURgx6YExJUJkG-TA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/signin"
+},
+{
+"text": "enfrenta mayores dificultades",
+"href": "https://www.texastribune.org/2023/01/03/texas-climate-change-food-insecurity/"
+},
+{
+"text": "hacia todo",
+"href": "https://www.ewg.org/foodscores/8694-article-california-bill-would-ban-toxic-forever-chemical-pesticides-contaminating-nearly-state-grown-non-organic-produce/"
+},
+{
+"text": "huracán Harvey",
+"href": "https://www.kmm2026.org/documents/hurricane-harvey-5b-sap-amend18.pdf"
+},
+{
+"text": "pino de hoja corta",
+"href": "https://www.coniferousforest.com/shortleaf-pine.htm"
+},
+{
+"text": "proclamación de desastre por sequía",
+"href": "https://hoodline.com/2025/07/texas-governor-greg-abbott-renews-and-expands-drought-disaster-proclamation-amid-persistent-severe-conditions/"
+},
+{
+"text": "árbol de mezquite dulce",
+"href": "https://www.wildflower.org/plants/result.php?id_plant=PRGL2"
+}
 ]

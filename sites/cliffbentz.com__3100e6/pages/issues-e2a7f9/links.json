@@ -1,30 +1,226 @@
 [
-"https://bentz.house.gov/",
-"https://cliffbentz.com/",
-"https://cliffbentz.com/2023/06/america-first",
-"https://cliffbentz.com/2023/06/cap-and-trade",
-"https://cliffbentz.com/2023/06/economy",
-"https://cliffbentz.com/2023/06/environment",
-"https://cliffbentz.com/2023/06/fire-federal-forest-management",
-"https://cliffbentz.com/2023/06/healthcare",
-"https://cliffbentz.com/2023/06/life",
-"https://cliffbentz.com/2023/06/reduce-regulation-lower-taxes",
-"https://cliffbentz.com/2023/06/secure-our-borders",
-"https://cliffbentz.com/2023/06/the-second-amendment",
-"https://cliffbentz.com/2023/06/trade",
-"https://cliffbentz.com/2023/06/water",
-"https://cliffbentz.com/contact",
-"https://cliffbentz.com/endorsements",
-"https://cliffbentz.com/issues",
-"https://cliffbentz.com/media",
-"https://cliffbentz.com/meet-cliff",
-"https://cliffbentz.com/privacy-policy",
-"https://cliffbentz.com/volunteer",
-"https://facebook.com/bentzfororegon",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=100",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=25",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=250",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=50",
-"https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C250%2C3500&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "About",
+"href": "https://cliffbentz.com/meet-cliff/"
+},
+{
+"text": "America First",
+"href": "https://cliffbentz.com/2023/06/america-first/"
+},
+{
+"text": "Cap and Trade",
+"href": "https://cliffbentz.com/2023/06/cap-and-trade/"
+},
+{
+"text": "Contact",
+"href": "https://cliffbentz.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "Economy",
+"href": "https://cliffbentz.com/2023/06/economy/"
+},
+{
+"text": "Endorsements",
+"href": "https://cliffbentz.com/endorsements/"
+},
+{
+"text": "Environment",
+"href": "https://cliffbentz.com/2023/06/environment/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bentzfororegon/"
+},
+{
+"text": "Fire & Federal Forest Management",
+"href": "https://cliffbentz.com/2023/06/fire-federal-forest-management/"
+},
+{
+"text": "Healthcare",
+"href": "https://cliffbentz.com/2023/06/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://cliffbentz.com/"
+},
+{
+"text": "Issues",
+"href": "https://cliffbentz.com/issues/"
+},
+{
+"text": "Life",
+"href": "https://cliffbentz.com/2023/06/life/"
+},
+{
+"text": "Media",
+"href": "https://cliffbentz.com/media/"
+},
+{
+"text": "Meet Cliff",
+"href": "https://cliffbentz.com/meet-cliff/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/cliff-bentz-for-congress/slug?amounts=25%2C50%2C100%2C500%2C3500&amount=500"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cliffbentz.com/privacy-policy/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/america-first/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/cap-and-trade/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/economy/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/environment/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/fire-federal-forest-management/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/healthcare/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/life/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/reduce-regulation-lower-taxes/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/secure-our-borders/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/the-second-amendment/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/trade/"
+},
+{
+"text": "Read More »",
+"href": "https://cliffbentz.com/2023/06/water/"
+},
+{
+"text": "Reduce Regulation, Lower Taxes",
+"href": "https://cliffbentz.com/2023/06/reduce-regulation-lower-taxes/"
+},
+{
+"text": "Secure our Borders",
+"href": "https://cliffbentz.com/2023/06/secure-our-borders/"
+},
+{
+"text": "The Second Amendment",
+"href": "https://cliffbentz.com/2023/06/the-second-amendment/"
+},
+{
+"text": "Trade",
+"href": "https://cliffbentz.com/2023/06/trade/"
+},
+{
+"text": "Volunteer",
+"href": "https://cliffbentz.com/volunteer/"
+},
+{
+"text": "Water",
+"href": "https://cliffbentz.com/2023/06/water/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/america-first/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/cap-and-trade/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/economy/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/environment/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/fire-federal-forest-management/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/healthcare/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/life/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/reduce-regulation-lower-taxes/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/secure-our-borders/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/the-second-amendment/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/trade/"
+},
+{
+"text": "[image]",
+"href": "https://cliffbentz.com/2023/06/water/"
+},
+{
+"text": "click here.",
+"href": "https://bentz.house.gov/"
+}
 ]

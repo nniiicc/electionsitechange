@@ -1,11 +1,50 @@
 [
-"https://boutinforbarre.com/",
-"https://boutinforbarre.com/about",
-"https://boutinforbarre.com/boutin-beat",
-"https://boutinforbarre.com/contact-me",
-"https://boutinforbarre.com/donate",
-"https://boutinforbarre.com/issues",
-"https://boutinforbarre.com/voting-record",
-"https://facebook.com/boutinforbarre",
-"https://secure.winred.com/boutin-for-barre/donate"
+{
+"text": "About",
+"href": "https://boutinforbarre.com/about"
+},
+{
+"text": "Boutin Beat",
+"href": "https://boutinforbarre.com/boutin-beat"
+},
+{
+"text": "Contact",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Contact Me",
+"href": "https://boutinforbarre.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://boutinforbarre.com/donate"
+},
+{
+"text": "Donate Securely Through WinRed",
+"href": "https://secure.winred.com/boutin-for-barre/donate"
+},
+{
+"text": "Home",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "Issues",
+"href": "https://boutinforbarre.com/issues"
+},
+{
+"text": "Voting Record",
+"href": "https://boutinforbarre.com/voting-record"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/boutin-for-barre/donate"
+},
+{
+"text": "[no text]",
+"href": "https://boutinforbarre.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/boutinforbarre"
+}
 ]

@@ -1,6 +1,7 @@
-Protecting Our Environment
-Lindsey knows our world is changing and if we don’t act now, we will all suffer irreparable harm.
+About Lindsey Issues News Events Contact Donate Select Page Protecting Our Environment Lindsey knows our world is changing and if we don’t act now, we will all suffer irreparable harm.
 As a member of the Green Caucus, Lindsey helped pass Illinois’ landmark Clean Energy Jobs law – the Climate and Equitable Jobs Act, which puts the state on a path to 100% clean energy by 2050.
 This nation-leading climate action bill puts a timeline on decarbonization, holds utility companies accountable, protects consumers, accelerates green jobs and creates “just transitions” for our communities historically reliant on the coal industry.
 She knows we can combat climate change and reduce our dependence on foreign energy sources while creating good-paying jobs in renewable energy and clean technology.
 In addition to supporting or cosponsor a multitude of environmental bills lead by the Illinois Environmental Council and the Sierra Club, Lindsey is proud to have led the passage of a bill to enact a water quality and affordability study in Illinois along with local work to fund and transform the Dunning Read Conservation area into a usable and sustainable park.
+Contact Us Email: lapointefor19@gmail.com Mail: PO Box 30161 Chicago, IL 60630 Phone: (847) 794-8816 Quick Links Home Donate Volunteer Yard Sign Stay Connected Follow Follow Paid for by Friends of LaPointe.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.

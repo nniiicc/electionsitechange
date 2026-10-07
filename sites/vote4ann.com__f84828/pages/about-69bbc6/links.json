@@ -1,6 +1,22 @@
 [
-"https://secure.winred.com/friends-of-ann-flood/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://vote4ann.com/",
-"https://vote4ann.com/about",
-"https://vote4ann.com/cart"
+{
+"text": "0",
+"href": "https://www.vote4ann.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.vote4ann.com/about"
+},
+{
+"text": "Ann Flood | State Representative",
+"href": "https://www.vote4ann.com/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/friends-of-ann-flood/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Home",
+"href": "https://www.vote4ann.com/"
+}
 ]

@@ -1,4 +1,4 @@
-Ready to roll for Nevada.
+0 Skip to Content About Issues Endorsements Contact DONATE NOW Open Menu Close Menu About Issues Endorsements Contact DONATE NOW Open Menu Close Menu About Issues Endorsements Contact DONATE NOW Ready to roll for Nevada.
 Northern nevada deserves a strong voice.
 I’m Chrystal Roll, and I’m running for State Senate District 16.
 Twenty years ago, my family and I chose Northern Nevada as our home.
@@ -12,8 +12,9 @@ It’s time we had a voice in Carson City that reflects those values and someone
 I know Northern Nevada.
 I listen to Northern Nevada.
 And I’m ready to fight for Northern Nevada.
-This campaign is people-powered.
+Learn more This campaign is people-powered.
 Give Today!
-Contact Me
-Interested in getting involved with the campaign?
+Donate Here Contact Me Interested in getting involved with the campaign?
 Give us your contact information and we will be in touch soon!
+ChRystal roll for Nevada Mailing Address: 1894 EAST WILLIAM ST.
+SUITE 4-136 CARSON CITY, NV 89701 PRIVACY POLICY Contact: chrystalroll4nevada@gmail.com (775) 234-5239

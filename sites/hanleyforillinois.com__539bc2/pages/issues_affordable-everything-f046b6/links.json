@@ -1,10 +1,38 @@
 [
-"http://elections.il.gov/",
-"https://designedtorun.com/",
-"https://hanleyforillinois.com/",
-"https://hanleyforillinois.com/endorsements",
-"https://instagram.com/patrickrocquehanley",
-"https://secure.actblue.com/donate/hanleyforillinois",
-"https://tiktok.com/@patrickrocquehanley",
-"https://youtube.com/@HanleyforIllinois"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Endorsements!",
+"href": "https://www.hanleyforillinois.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.hanleyforillinois.com/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Patrick Hanley - building the next generation of Democratic leadership]",
+"href": "https://www.hanleyforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HanleyforIllinois"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

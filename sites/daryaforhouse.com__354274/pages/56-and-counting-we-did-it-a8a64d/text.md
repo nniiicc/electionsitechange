@@ -1,3 +1,4 @@
+Skip to content About Issues Endorsements Get Involved Contact RSVP News Donate About Issues Endorsements Get Involved Contact RSVP News Donate Back to News November 10, 2022 Announcement 56% and counting, we did it!
 I am rarely speechless, but here I am, struggling to find the right words to describe how I feel.
 I’m so honored to have earned your support.
 We are calling it: we have won and made history!
@@ -7,12 +8,12 @@ None of it would be possible without you.
 Thank you for believing in me and in this vision.
 Thank you for donating, door knocking, phone banking, text banking, hosting events, sign waving, and telling your friends about me.
 Thank you for spending last night with me, in community, celebrating all we have accomplished together.
-I’m proud that this campaign started and ended in Lake City — big thank you to the HeartSpace for hosting us and my friend Jorge Zasimczuk for taking photos and our amazing entertainment for the night Without a Doubt!
+I’m proud that this campaign started and ended in Lake City — big thank you to the HeartSpace for hosting us and my friend Jorge Zasimczuk for taking photos and our amazing entertainment for the night Without a Doubt !
 And a huge thank you to my campaign team for putting in the long hours, getting out of your comfort zones, and putting your energy into this mission.
 We are a unionized, young, diverse team that reflects the representation we want to see.
 Thank you to the core team Sunshine Cheng (Campaign Manager), Emma Huebler (Field Manager), Cilia Jurdy (communications), Ava Klein (social media), Makeda Beck (events), Sophia Lee (technology and design), Jess Schnitzer (research), Erin Phillips (intern), and Rahul Sharma (intern).
-Thank you to our consultants at Progressive Strategies NW, Ben Anderstone, Nathan Winch, and Nic van Putten.
-Thank you to our fundraising team at TWC Collective, Tiffany Wilk Chang and Olivia Sarriugarte.
+Thank you to our consultants at Progressive Strategies NW , Ben Anderstone, Nathan Winch, and Nic van Putten.
+Thank you to our fundraising team at TWC Collective , Tiffany Wilk Chang and Olivia Sarriugarte.
 These folks are the backbone of this campaign.
 As I reflect on this moment, I’m thinking about my family and the brave Iranian women fighting, giving their lives for the right to choose what they do with their bodies and the chance to be heard.
 And I think about the brave Iranian women in my family that fled Iran so that their children and future generations could have opportunities they never thought possible.
@@ -25,9 +26,7 @@ And big thank you to my partner, Tyler, who has been there every step of the way
 As of right now, we have 56.6% of the vote and I’m so grateful for all 18,763 votes of confidence.
 We have a few more days of counting ahead of us, but we hope, just like with the primary, that the numbers will only get better — yes, I’m knocking on wood still.
 I’m honored to be your next state Representative.
-See you in Olympia,
-Darya
-Representative-Elect of the 46th Legislative District, Position 2
-P.S.
+See you in Olympia, Darya Representative-Elect of the 46th Legislative District, Position 2 P.S.
 We still need to raise $3,000 to tie up loose ends.
 Can you chip in one last time to help us end strong?
+Donate Now Get Involved — Paid for by Friends of Darya Farivar — PO Box 20664 Seattle, WA 98102 Facebook X-twitter Linkedin-in Accessibility Statement

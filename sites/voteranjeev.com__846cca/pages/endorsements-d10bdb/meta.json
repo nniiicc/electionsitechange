@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.voteranjeev.com/endorsements",
- "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 \u00a9 Copyright 2025",
- "title": "Endorsements \u2014 Vote Ranjeev",
+ "fingerprint": "61b52175ec700129d2fdd809d6725008e418287f",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #",
+ "title": "Endorsements — Vote Ranjeev",
  "years_mentioned": [
   "2018",
   "2020",
-  "2022"
+  "2022",
+  "2025"
  ]
 }

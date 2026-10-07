@@ -1,8 +1,2 @@
-top of page
-WATCH: STEPHEN ACORN FOR GEORGIA STATE HOUSE
-FAMILY MAN | BUSINESSMAN | STATESMAN
-STEPHEN'S STANCES
-- Thriving Economic Environment in District 137 and Georgia
-- Tough on Illegal Immigration and Bolster Legal Immigration
-- Quality Education and School Choice
-bottom of page
+top of page Home About Issues Join Donate More Use tab to navigate through the menu items.
+WATCH: STEPHEN ACORN FOR GEORGIA STATE HOUSE FAMILY MAN | BUSINESSMAN | STATESMAN STEPHEN'S STANCES - Thriving Economic Environment in District 137 and Georgia - Tough on Illegal Immigration and Bolster Legal Immigration - Quality Education and School Choice MAP OF DISTRICT 137 KEEP UP WITH ACORN FOR GEORGIA ​​ DONATE ​​ JOIN Home About Issues Join Donate bottom of page

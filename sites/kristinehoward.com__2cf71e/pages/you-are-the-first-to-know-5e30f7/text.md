@@ -1,4 +1,4 @@
-| Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
+Meet Kristine Endorsements News & Events Get Involved Select Page You are the first to know… by Kristine Howard | Mar 17, 2023 | News | 0 comments Greetings, Last week, I filed nominating petitions to run for judge of the Chester County Court of Common Pleas.
 It was not an easy decision because I truly love my job as State Representative.
 However, my work in the legislature combined with my legal education and my career focus on child welfare have led me to believe I can bring a unique perspective to the court and directly impact the lives of children and their families.
 If I am successful, I will vacate my seat in the Pennsylvania House late this year.
@@ -31,4 +31,10 @@ I think it is better to let the Democratic voters choose who they want to be the
 I look forward to sharing more about me and my candidacy throughout the next eight weeks.
 In the meantime, there are big things happening in Harrisburg with our new Democratic majority in the House.
 I will be keeping in touch with information and opinions.
-Thanks for reading, Kristine Feel free to share or post this message. |
+Thanks for reading, Kristine Feel free to share or post this message.
+Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

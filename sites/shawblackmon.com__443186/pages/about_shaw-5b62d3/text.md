@@ -1,5 +1,5 @@
-About Shaw
-Shaw Blackmon was raised in Houston County, upon graduating from Warner Robins High School, he attended the University of Georgia where he completed his degree in Management Information Systems.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+About Shaw Shaw Blackmon was raised in Houston County, upon graduating from Warner Robins High School, he attended the University of Georgia where he completed his degree in Management Information Systems.
 After college, Shaw moved back to Houston County and began his career working for a small business.
 He continues to live in Warner Robins with his wife, Whitney, and three children- Ges, Cort and Beckett.
 Shaw has a longstanding role in the community beyond his business initiatives.
@@ -9,6 +9,9 @@ Shaw has done foundation work at Central Georgia Technical College and for the H
 As a member of the Technical College System of Georgia State Board, he has worked to provide Georgia with a seamless approach to education by improving transferability between the technical college and the University system, as well as enhancing dual-enrollment opportunities with the Department of Education.
 Through continued outreach, Shaw has been involved in the effort to bring investment back to Houston County.
 This includes funding for the Veteran’s Training Center, a joint project between the Technical College System and University system, and the Health Science facility on the primary campus of Central Georgia Technical College.
-Shaw was elected to the 146th District in 2015 and serves on Governmental Affairs, Insurance, Rules, Small Business Development, Special Rules and Technology & Infrastructure Innovation Committees.
+Shaw was elected to the 146 th District in 2015 and serves on Governmental Affairs, Insurance, Rules, Small Business Development, Special Rules and Technology & Infrastructure Innovation Committees.
 He also serves as Chair of the Ways & Means Committee as well as Ex-Officio on the Appropriations Committee.
 He will continue to focus on the issues near to his heart and his background – strengthening our defense community, enhancing education, and pushing for simple, smart, and effective government that stays out of your way so that Houston County will continue to grow and thrive for future generations.
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

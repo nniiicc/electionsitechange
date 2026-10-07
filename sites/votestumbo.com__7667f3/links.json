@@ -1,13 +1,66 @@
 [
-"https://facebook.com/votestumbo",
-"https://instagram.com/votestumbo",
-"https://secure.winred.com/david-stumbo-for-attorney-general/donate",
-"https://votestumbo.com/",
-"https://votestumbo.com/about-david",
-"https://votestumbo.com/campaign-updates",
-"https://votestumbo.com/endorsements",
-"https://votestumbo.com/join-the-fight",
-"https://votestumbo.com/media",
-"https://x.com/votestumbo",
-"https://youtube.com/@votestumbo"
+{
+"text": "About David",
+"href": "https://votestumbo.com/about-david/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://votestumbo.com/campaign-updates/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/david-stumbo-for-attorney-general/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://votestumbo.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/votestumbo"
+},
+{
+"text": "Home",
+"href": "https://votestumbo.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/votestumbo"
+},
+{
+"text": "Join the Fight",
+"href": "https://votestumbo.com/join-the-fight/"
+},
+{
+"text": "Media",
+"href": "https://votestumbo.com/media/"
+},
+{
+"text": "Read more",
+"href": "https://votestumbo.com/campaign-updates/"
+},
+{
+"text": "X",
+"href": "https://x.com/votestumbo"
+},
+{
+"text": "YouTube",
+"href": "https://youtube.com/@votestumbo"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votestumbo"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votestumbo"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votestumbo"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@votestumbo"
+}
 ]

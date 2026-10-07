@@ -1,20 +1,16 @@
-Friends of Nicole Poore Accessibility Statement
-Updated: June 2024
-General
-Friends of Nicole Poore strives to ensure that its services are accessible to people with disabilities.
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter Accessibility Home Accessibility Friends of Nicole Poore Accessibility Statement Updated: June 2024 General Friends of Nicole Poore strives to ensure that its services are accessible to people with disabilities.
 Friends of Nicole Poore has invested a significant amount of resources to help ensure that its website is made easier to use and more accessible for people with disabilities, with the strong belief that website accessibility efforts assist all users and that every person has the right to live with dignity, equality, comfort and independence.
-Accessibility on nicolepoore.com
-nicolepoore.com makes UserWay’s Web Accessibility Widget available which is powered by a dedicated accessibility server.
+Accessibility on nicolepoore.com nicolepoore.com makes UserWay’s Web Accessibility Widget available which is powered by a dedicated accessibility server.
 The software allows nicolepoore.com to improve its compliance with the Web Content Accessibility Guidelines (WCAG 2.1).
-Enabling the Accessibility Menu
-The nicolepoore.com accessibility menu can be enabled by clicking the accessibility menu icon that appears on the corner of the page.
+Enabling the Accessibility Menu The nicolepoore.com accessibility menu can be enabled by clicking the accessibility menu icon that appears on the corner of the page.
 After triggering the accessibility menu, please wait a moment for the accessibility menu to load in its entirety.
-Disclaimer
-Friends of Nicole Poore continues its efforts to constantly improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible and unhindered use also for those of us with disabilities.
+Disclaimer Friends of Nicole Poore continues its efforts to constantly improve the accessibility of its site and services in the belief that it is our collective moral obligation to allow seamless, accessible and unhindered use also for those of us with disabilities.
 In an ongoing effort to continually improve and remediate accessibility issues, we also regularly scan nicolepoore.com with UserWay’s Accessibility Scanner to identify and fix every possible accessibility barrier on our site.
 Despite our efforts to make all pages and content on nicolepoore.com fully accessible, some content may not have yet been fully adapted to the strictest accessibility standards.
 This may be a result of not having found or identified the most appropriate technological solution.
-Here For You
-If you are experiencing difficulty with any content on nicolepoore.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
-Contact Us
-If you wish to report an accessibility issue, have any questions or need assistance, please contact Friends of Nicole Poore Customer Support as follows:
+Here For You If you are experiencing difficulty with any content on nicolepoore.com or require assistance with any part of our site, please contact us during normal business hours as detailed below and we will be happy to assist.
+Contact Us If you wish to report an accessibility issue, have any questions or need assistance, please contact Friends of Nicole Poore Customer Support as follows: Email: nicolepoore.campaign@gmail.com Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

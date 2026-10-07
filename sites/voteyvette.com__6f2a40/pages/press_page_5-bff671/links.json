@@ -1,36 +1,250 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/brooklyn-lawmaker-on-the-move-may-4-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-april-29-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-11-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-12-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-7-2020",
-"https://voteyvette.com/press/congresswoman-yvette-d-clarke-joins-community-to-covid-19-food-program",
-"https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements",
-"https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/4",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/7",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/rep-clarke-seeks-payroll-protections-for-digital-journalists",
-"https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response-2",
-"https://voteyvette.com/press/u-s-reps-seek-aid-for-small-grocers",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "4",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "7",
+"href": "https://voteyvette.com/press/page/7/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Brooklyn Lawmaker on the Move May 4, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmaker-on-the-move-may-4-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move April 29, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-april-29-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 11, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-11-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 12, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-12-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 13, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move May 7, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-7-2020/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Congresswoman Yvette D. Clarke joins community to COVID-19 food program",
+"href": "https://voteyvette.com/press/congresswoman-yvette-d-clarke-joins-community-to-covid-19-food-program/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Fighting for Immigrants on the Front Lines: NYIC Endorsements",
+"href": "https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House Democrats outline immigration priorities for next coronavirus relief measure",
+"href": "https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmaker-on-the-move-may-4-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-april-29-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-11-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-12-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-7-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/congresswoman-yvette-d-clarke-joins-community-to-covid-19-food-program/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-clarke-seeks-payroll-protections-for-digital-journalists/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/u-s-reps-seek-aid-for-small-grocers/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Clarke Seeks Payroll Protections for Digital Journalists",
+"href": "https://voteyvette.com/press/rep-clarke-seeks-payroll-protections-for-digital-journalists/"
+},
+{
+"text": "Rep. Yvette Clarke, Sen. Wyden lead letter to prevent AI bias in COVID-19 response",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response-2/"
+},
+{
+"text": "U.S. reps seek aid for small grocers",
+"href": "https://voteyvette.com/press/u-s-reps-seek-aid-for-small-grocers/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmaker-on-the-move-may-4-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-april-29-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-11-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-12-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-13-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-may-7-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/congresswoman-yvette-d-clarke-joins-community-to-covid-19-food-program/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-clarke-seeks-payroll-protections-for-digital-journalists/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-sen-wyden-lead-letter-to-prevent-ai-bias-in-covid-19-response-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/u-s-reps-seek-aid-for-small-grocers/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/6/"
+}
 ]

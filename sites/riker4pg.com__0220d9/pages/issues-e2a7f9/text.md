@@ -1,6 +1,4 @@
-MICHAEL RIKER for MARYLAND HOUSE OF DELEGATES DISTRICT 23
-Issues
-Prince George’s County, Maryland, is a community rich in culture and diversity.
+Meet MICHAEL Issues My Plan News Volunteer Contribute MICHAEL RIKER for MARYLAND HOUSE OF DELEGATES DISTRICT 23 Issues Prince George’s County, Maryland, is a community rich in culture and diversity.
 Yet, amid the suburban growth and the hustle of everyday life, a deep frustration simmers among residents—stemming from the feeling of being unheard and overlooked by the very leaders they elected to represent them.
 As the election draws near, it’s crucial to examine the pressing issues that demand urgent attention and ask why our voices seem to go unheard.
 At the forefront is the issue of self-serving politicians.
@@ -27,41 +25,11 @@ This disparity is not just inconvenient; it highlights a governance model that p
 As we approach the upcoming election season it is imperative that the citizens of Prince George’s County make their voices heard within the State.
 Voting is not just a right; it is a powerful tool for change.
 We must demand accountability from our leaders and elect officials who are genuinely committed to addressing the issues that matter to us.
-We need representatives who will focus on reducing crime, managing property taxes responsibly, managing our schools correctly, and improving infrastructure and NO NEW TAXES or FEES.
+We need representatives who will focus on reducing crime, managing property taxes responsibly, managing our schools correctly, and improving infrastructure and NO NEW TAXES or FEES .
 It is time to break the cycle of self-serving politics and build a government that listens to and acts on the concerns of its constituents.
 We need COMMON SENSE in our State and County.
 The future of Prince George’s County and the state depend on our collective effort to hold our leaders accountable and push for meaningful change.
 We must engage in the political process, stay informed, and vote for candidates with a proven track record of service and integrity.
 Prince George’s County and the State of Maryland are communities full of potential.
 Let’s ensure that our voices are not only heard but also acted upon with COMMON SENSE AND NO MORE TAXES.
-Here’s a full breakdown of the new or increased taxes and fees in Maryland
-- $497 Million in new sales taxes on B2B data and IT services
-- $367 Million in capital gains tax increases
-- $344 million from income tax increases
-- $150 million + from increasing the vehicle sales tax (excise tax) from 6% to 6.5%
-- $80 million from DOUBLING vehicle title fees to $200 Max
-- $51 million from increasing vehicle registration fees
-- $47 million from new tax on short term vehicle rentals 3.5%
-- $39 million from raising sales tax on cannabis 12%
-- $32 million from tax on sports betting 20%
-- $21 million from eliminating some sales tax exemptions
-- $9 million from increased fees for historic vehicle plates
-- $ees9 million from new tax on vending machine purchases 6%
-PLUS
-- New $5 fee on every tire purchased and 25% increase in the tire recycling fee
-- Increased fishing license fees
-- New Unemployment insurance fee
-- New rental property lead registration fee
-- Increased Security Agent fee
-- Alter weights and measures registration and process fees
-- Increased surface mining fees
-- Increases voluntary cleanup program fees
-- Increases fees for certification of nurseries licensing of plant brokers and dealers, and inspection of nursery stock
-- Increases horse establishment license renewal fee
-- Increases wholesale seedsman permit fee
-- Increases various Maryland Department of the Environment fees
-- Increases filing fee for foreclosures
-- New occupational licensing background check fee
-- Increasing dealer and titling fees for boats
-- New registration fee on rental fleet vehicles
-- VEIP for $20 to $30
+Here’s a full breakdown of the new or increased taxes and fees in Maryland $497 Million in new sales taxes on B2B data and IT services $367 Million in capital gains tax increases $344 million from income tax increases $150 million + from increasing the vehicle sales tax (excise tax) from 6% to 6.5% $80 million from DOUBLING vehicle title fees to $200 Max $51 million from increasing vehicle registration fees $47 million from new tax on short term vehicle rentals 3.5% $39 million from raising sales tax on cannabis 12% $32 million from tax on sports betting 20% $21 million from eliminating some sales tax exemptions $9 million from increased fees for historic vehicle plates $ees9 million from new tax on vending machine purchases 6% PLUS New $5 fee on every tire purchased and 25% increase in the tire recycling fee Increased fishing license fees New Unemployment insurance fee New rental property lead registration fee Increased Security Agent fee Alter weights and measures registration and process fees Increased surface mining fees Increases voluntary cleanup program fees Increases fees for certification of nurseries licensing of plant brokers and dealers, and inspection of nursery stock Increases horse establishment license renewal fee Increases wholesale seedsman permit fee Increases various Maryland Department of the Environment fees Increases filing fee for foreclosures New occupational licensing background check fee Increasing dealer and titling fees for boats New registration fee on rental fleet vehicles VEIP for $20 to $30 Yard Signs Events Photos Contact FRIENDS OF MICHAEL RIKER R.Riker - Treasure Powered by CampaignPartner.com - Political Campaign Websites Home Meet MICHAEL Issues Contribute Volunteer News Yard Signs Events Contact Close Menu

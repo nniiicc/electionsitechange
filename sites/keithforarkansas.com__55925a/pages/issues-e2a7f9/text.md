@@ -1,32 +1,13 @@
-The Issues
-REPRESENTATIVE KEITH BROOKS
-Education
-In 2023, Representative Keith Brooks championed the largest single investment in K-12 education in the history of our state!
-Historic Increase in Starting Teacher Pay
-Act 237 of 2023 increased starting teacher pay to the 4th highest in the country, and is considered 1st in the US when factoring in cost of living in Arkansas
-Teacher Scholarship Programs
-Act 237 of 2023 established the Arkansas Teacher Academy Scholarship Fund that provides up to $5,000 per semester for students enrolled at a post-secondary institution in a degree program that leads to teacher licensure
-Increased Investment in Students
-In 2023, Rep.
-Brooks supported Act 744 which increased spending per student by 2.77%
-Dual Track Diplomas
-Students now have access to an alternative career-focused pathway with a “dual-track” diploma developed by the State Board of Education.
-“Dual-track” diplomas will be treated with the same recognition as conventional diplomas
-Co-Sponsored Historic Tax Cuts
-Brooks voted to slash the individual income tax rate from 5.5% to 3.9 percent during his time at the Capitol.
+Issues Contact Donate Issues Contact Donate The Issues REPRESENTATIVE KEITH BROOKS EDUCATION TAX CUTS PUBLIC SAFETY Education In 2023, Representative Keith Brooks championed the largest single investment in K-12 education in the history of our state!
+Historic Increase in Starting Teacher Pay Act 237 of 2023 increased starting teacher pay to the 4th highest in the country, and is considered 1st in the US when factoring in cost of living in Arkansas Teacher Scholarship Programs Act 237 of 2023 established the Arkansas Teacher Academy Scholarship Fund that provides up to $5,000 per semester for students enrolled at a post-secondary institution in a degree program that leads to teacher licensure Increased Investment in Students In 2023, Rep.
+Brooks supported Act 744 which increased spending per student by 2.77% Dual Track Diplomas Students now have access to an alternative career-focused pathway with a “dual-track” diploma developed by the State Board of Education.
+“Dual-track” diplomas will be treated with the same recognition as conventional diplomas Co-Sponsored Historic Tax Cuts Brooks voted to slash the individual income tax rate from 5.5% to 3.9 percent during his time at the Capitol.
 He also voted to cut the corporate income tax rate from 4.8 percent to 4.3 percent, saving AR taxpayers over half a billion dollars this year alone.
-(HB 1002, 2022; SB 8, 2023; HB 1001, 2024)
-Co-Sponsored an Increase in the Homestead Property Tax Credit
-Keith helped Arkansas homeowners by increasing the Homestead Property tax credit from $425 to $500, saving a collective $46 million in calendar year 2025 and on.
-(HB 1002, 2024)
-Stopped Local Governments from Enacting an Income Tax
-Keith fought to stop cities and counties from imposing a local-level income tax on their citizens, preempting the ability of local governments to take advantage of hardworking Arkansans.
-(HB 1026/Act 96, 2023)
-Sponsored Tax Credit Increase for Philanthropic Investment in AR Kids Program
-Brooks championed an increase in the PIAK scholarship program directly benefitting the education options for children from low-income families and those with special needs (Act 237 of 2023).
-Tax Cuts
-Rep.
-Keith Brooks has supported over $1 Billion in Tax Cuts for families in District 78 and across the state
-Public Safety
-In 2023, Representative Keith Brooks co-sponsored the PROTECT ARKANSAS ACT, taking violent criminals off our streets
-The PROTECT ARKANSAS ACT:
+(HB 1002, 2022; SB 8, 2023; HB 1001, 2024) Co-Sponsored an Increase in the Homestead Property Tax Credit Keith helped Arkansas homeowners by increasing the Homestead Property tax credit from $425 to $500, saving a collective $46 million in calendar year 2025 and on.
+(HB 1002, 2024) Stopped Local Governments from Enacting an Income Tax Keith fought to stop cities and counties from imposing a local-level income tax on their citizens, preempting the ability of local governments to take advantage of hardworking Arkansans.
+(HB 1026/Act 96, 2023) Sponsored Tax Credit Increase for Philanthropic Investment in AR Kids Program Brooks championed an increase in the PIAK scholarship program directly benefitting the education options for children from low-income families and those with special needs (Act 237 of 2023).
+Tax Cuts Rep.
+Keith Brooks has supported over $1 Billion in Tax Cuts for families in District 78 and across the state Public Safety In 2023, Representative Keith Brooks co-sponsored the PROTECT ARKANSAS ACT, taking violent criminals off our streets The PROTECT ARKANSAS ACT: Ensures criminals who commit new serious offenses do 100% of their sentence Enhances protections for victims of sex offenders Increases penalties for dangerously fleeing and putting officers and citizens at risk Issues Contact Donate Keith Brooks is a native Arkansan and the owner of an insurance agency in Saline County.
+He is a graduate of Harding University in Searcy, where he also received his Masters in Business Administration (MBA).
+He and his wife, Jenny, have three beautiful children.
+Paid for by Keith For Arkansas

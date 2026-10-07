@@ -1,6 +1,4 @@
-Rachel Gross believes in
-Safe Nurse Staffing Standards
-As a nurse, I have spent decades making critical decisions when people are at their most vulnerable.
+Skip navigation menu About Volunteer Issues Events Endorsements Contact Donate About Volunteer Issues Events Endorsements Contact Donate Safe Nurse Staffing Standards HB 4141 - Restricting Cell Phones in Schools Rural Homeownership & Housing Stability Rural Rental Housing Relief Mental Health & Youth Wellness Rachel Gross believes in Safe Nurse Staffing Standards As a nurse, I have spent decades making critical decisions when people are at their most vulnerable.
 Those decisions are grounded in evidence, careful assessment, and accountability.
 Michigan’s healthcare policies should meet that same standard.
 Mandatory overtime and unsafe patient ratios place patients at risk, exhaust nurses, and drive up healthcare costs for everyone.
@@ -15,3 +13,4 @@ Money currently spent reacting to staffing crises or lobbying against reform cou
 As a legislator, I will advocate for healthcare policies that protect patients, respect nurses, and use healthcare dollars wisely.
 Listening to nurses, patients, and rural communities across the 78th District will guide these decisions, just as listening to patients guides good nursing care.
 Evidence‑based staffing is not just safer, it is smarter and more sustainable.
+Gallery Contact: info@votegross.com Powered by RUN! website builder Paid for by the Committee to Elect Rachel Gross 7434 Juniper Ln, Portland, MI 48875 You need to enable JavaScript to run this app.

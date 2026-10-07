@@ -1,4 +1,3 @@
-Friends,
-I am fighting in Annapolis to ensure you have a better place to live, work, and entertain; but I cannot do it without you.
+EN Translate: Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy More Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy EN Welcome About Kent Contact Us Donate Legislative Updates Upcoming Events Scholarships Privacy Help Our Cause Friends, I am fighting in Annapolis to ensure you have a better place to live, work, and entertain; but I cannot do it without you.
 That's why I'm asking that you consider donating to my campaign to ensure we reach every voter in District 25 and let them know of the great work we are doing.
-Delegate Kent Roberson
+Delegate Kent Roberson Donate By Authority of Friends of Kent Roberson, Latesha Jackson, Treasurer Powered by Donate

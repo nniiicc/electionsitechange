@@ -1,9 +1,38 @@
 [
-"https://facebook.com/ryanstuckey.rd41",
-"https://instagram.com/ryanstuckey.rd41",
-"https://ryanstuckey.com/",
-"https://ryanstuckey.com/cart",
-"https://ryanstuckey.com/contact",
-"https://ryanstuckey.com/privacy-policy-1",
-"https://secure.actblue.com/donate/ryan-stuckey-1"
+{
+"text": "0",
+"href": "https://ryanstuckey.com/cart"
+},
+{
+"text": "Back",
+"href": "https://ryanstuckey.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://ryanstuckey.com/contact"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/ryan-stuckey-1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ryanstuckey.com/privacy-policy-1"
+},
+{
+"text": "[image: Friends of Ryan Stuckey]",
+"href": "https://ryanstuckey.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ryanstuckey.rd41/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ryanstuckey.rd41/"
+},
+{
+"text": "hello@ryanstuckey.com",
+"href": "mailto:hello@ryanstuckey.com"
+}
 ]

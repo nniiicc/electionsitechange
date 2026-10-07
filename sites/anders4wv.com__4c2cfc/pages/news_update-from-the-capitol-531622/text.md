@@ -1,2 +1,2 @@
-Update from the Capitol Mar 13 Written By ₿ Voted NO three times, twice as the only no vote..
-Federal fingerprint database and more corporate money buying ₿
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Update from the Capitol Mar 13 Written By ₿ Voted NO three times, twice as the only no vote..
+Federal fingerprint database and more corporate money buying ₿ Previous Previous Health Committee Next Next Monday Morning Update anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

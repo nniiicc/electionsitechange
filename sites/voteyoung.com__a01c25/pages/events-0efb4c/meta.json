@@ -1,7 +1,11 @@
 {
  "description": "Discover upcoming events with Marty Young for Congress in PA-06! Town halls, rallies, meet-and-greets, and more across Chester and Berks Counties!",
  "final_url": "https://www.voteyoung.com/events",
+ "fingerprint": "ad8a335af71cd303bf07281f7431b7120f063a66",
+ "format": 3,
  "paid_for_by": "PAID FOR BY MARTY YOUNG FOR CONGRESS P",
  "title": "Check out our Marty Young for Congress upcoming events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

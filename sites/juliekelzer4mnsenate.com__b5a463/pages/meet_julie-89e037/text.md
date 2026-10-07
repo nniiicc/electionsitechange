@@ -1,5 +1,4 @@
-Meet Julie
-I would love the opportunity to represent all people in our district at our State Capitol.
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Meet Julie I would love the opportunity to represent all people in our district at our State Capitol.
 We should all feel that our voices are heard by our representatives.
 I believe, while we might not always get everything we want, we can work together to make things better for our community.
 I know all too well how hard it is to get by.
@@ -29,3 +28,4 @@ These are a few of the many reasons why I’ve decided to run.
 It’s time we have a representative who works and fights for what is important in our daily lives.
 I know too well how hard it is to get by.
 I'm running for Senate District 17 to do something about it.
+Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

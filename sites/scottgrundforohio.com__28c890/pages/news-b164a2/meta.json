@@ -1,7 +1,11 @@
 {
  "description": "Scott Grund in the News",
  "final_url": "https://scottgrundforohio.com/news",
+ "fingerprint": "8b8b27d4003b4540beb02a1fa3168a1819323a7c",
+ "format": 3,
  "paid_for_by": "Paid for by Scott Grund For Ohio Committee Powered by CampaignPartner",
  "title": "NEWS!!",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

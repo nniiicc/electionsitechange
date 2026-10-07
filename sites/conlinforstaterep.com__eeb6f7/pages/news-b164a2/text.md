@@ -1,38 +1,5 @@
-Home
-About Jennifer
-Accomplishments
-Priorities
-Events
-News
-Endorsements
-More
-June 16, 2026
-April 23, 2026
-May 14, 2025
-April 29, 2025
-November 11, 2024
-November 06, 2024
-November 03, 2024
-October 31, 2024
-October 20, 2024
-October 04, 2024
-August 07, 2024
-July 24, 2024
-June 30, 2024
-June 28, 2024
-June 20, 2024
-June 14, 2024
-June 12, 2024
-June 11, 2024
-June 10, 2024
-May 14, 2024
-May 8, 2024
-February 7, 2024
-February 20, 2023
-May 20, 2023
-February 20, 2023
-October 9, 2022
-October 1, 2022
-July 25, 2022
-April 20, 2022
-March 16, 2022
+top of page Home About Jennifer Accomplishments Priorities Infrastructure Environment Public Health Education Economy Events News Endorsements More Use tab to navigate through the menu items.
+Get Involved Donate News MI House Dems Conlin Introduces Bill to Increase Healthcare Affordability, Cap Insulin Prices June 16, 2026 Read MI House Dems Tsernoglou, Legislators Announce Legislation to Regulate Toxic PFAS “Forever Chemicals,” Promote a Healthier Michigan April 23, 2026 Read MI House Dems Conlin Applauds Waterloo, Pinckney Recreation Area Investments May 14, 2025 Read MI House Dems Conlin Helps Secure Grant to Support Health Care for Uninsured April 29, 2025 Read Michigan Advance Protesters wave Nazi flags outside performance of ‘The Diary of Anne Frank’ in Howell November 11, 2024 Read The Michigan Daily Jennifer Conlin wins reelection to Michigan State House District 48 November 06, 2024 Read Michigan Advance Whitmer optimistic that ‘competitive’ state House races will keep Dems in majority November 03, 2024 Read The Michigan Daily Meet the Candidates: Q&A with candidates for Michigan’s 48th state House District October 31, 2024 Read The Washington Post Opinion | Kamala Harris's closing argument: Donald Trump's own words October 20, 2024 Read MLive 3 vying for Michigan House seat in swing district from Ann Arbor to Howell October 04, 2024 Read WHMI 93.5 August 6th Primary Election Results August 07, 2024 Read Michigan Advance Harris campaign, civil rights group condemn white supremacist march in Howell July 24, 2024 Read Livingston Daily Here's how local State House candidates answered the big questions June 30, 2024 Read MI House Democrats Conlin on Final Budget Passage June 28, 2024 Read MI House Democrats House Dems Pass Legislation for Veterans’ Mental Health June 20, 2024 Read Bridge Michigan Will Michigan bar bump stocks after Supreme Court rejects federal ban?
+June 14, 2024 Read Michigan Advance Tate takes stock of Democratic legislative achievements, seeks compromise where possible June 12, 2024 Read MI House Democrats House Dems Move Bills to Support Veterans June 11, 2024 Read The Washington Post Tech workers use corporate advertising tricks to turn out Democratic voters June 10, 2024 Read MI House Democrats Conlin’s Committee Hears Testimony on Veterans’ Mental Health Package May 14, 2024 Read MI House Democrats Conlin on Passage of People-Focused House Budget May 8, 2024 Read MI House Democrats Conlin Resolution Declares February as American Heart Month February 7, 2024 Read Bridge Michigan Opinion | Michigan’s clean energy law will lower bills, boost reliability February 20, 2023 Read The Detroit News Whitmer signs bill extending tuition assistance to National Guard family members May 20, 2023 Read Bridge Michigan Opinion | Oxford inspired me to seek office.
+MSU must inspire gun reform February 20, 2023 Read Detroit Free Press Editorial Board Endorsements: Give Democrats a chance to lead Michigan Legislature October 9, 2022 Read MLIVE This could be one of Michigan’s closest state House races in 2022 election October 1, 2022 Read The Sun Times News Candidate Q&A: Jennifer Conlin, State Rep District 48 July 25, 2022 Read Livingston Daily Redrawn boundaries mean contested legislative elections.
+Here are the candidates in Livingston County April 20, 2022 Read MLIVE 3 vying for new Ann Arbor-area seat in Michigan House March 16, 2022 Read Privacy Policy Donate info@conlinforstaterep.com 734 - 904 - 6389 bottom of page

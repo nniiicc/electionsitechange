@@ -1,13 +1,2 @@
-top of page
-Memorial Day in Pequot Lakes
-2026 DFL Convention
-2026 DFL Convention
-Erik Osberg
-Detroit Lakes Indivisible
-Registered Candidate 2026
-Dan & Cat Mitchell
-Nicky Hardy - MN House 6B Candidate
-Ready to join the Capitol
-Prepared and paid for by Dan Mitchell for Minnesota House 5A
-PO Box 35, Pequot Lakes, MN 56472
-bottom of page
+top of page Don't Rage - Engage !
+Donate Home About Priorities Gallery The Network Memorial Day in Pequot Lakes press to zoom 2026 DFL Convention press to zoom 2026 DFL Convention press to zoom Erik Osberg press to zoom Detroit Lakes Indivisible press to zoom Registered Candidate 2026 press to zoom Dan & Cat Mitchell press to zoom Nicky Hardy - MN House 6B Candidate press to zoom Ready to join the Capitol press to zoom Show More Email I want to hear from you: Dan4MNHouse@outlook.com Follow me Prepared and paid for by Dan Mitchell for Minnesota House 5A PO Box 35, Pequot Lakes, MN 56472 bottom of page

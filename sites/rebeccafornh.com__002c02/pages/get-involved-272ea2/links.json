@@ -1,12 +1,46 @@
 [
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSdfKhK2MJka7XDuNzuNWHLGKSopoWre_nd2CFYADvF43PMzYQ/viewform?usp=publish-editor",
-"https://facebook.com/profile.php?id=61583707686254",
-"https://instagram.com/rebeccafornh",
-"https://rebeccafornh.com/",
-"https://rebeccafornh.com/about",
-"https://rebeccafornh.com/endorsements",
-"https://rebeccafornh.com/news",
-"https://rebeccafornh.com/our-priorities",
-"https://secure.actblue.com/donate/rebecca-harned-nh"
+{
+"text": "About",
+"href": "https://www.rebeccafornh.com/about"
+},
+{
+"text": "Endorsements",
+"href": "https://www.rebeccafornh.com/endorsements"
+},
+{
+"text": "Invest",
+"href": "https://secure.actblue.com/donate/rebecca-harned-nh"
+},
+{
+"text": "Join Us",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdfKhK2MJka7XDuNzuNWHLGKSopoWre_nd2CFYADvF43PMzYQ/viewform?usp=publish-editor"
+},
+{
+"text": "News",
+"href": "https://www.rebeccafornh.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.rebeccafornh.com/our-priorities"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Rebecca Harned for New Hampshire State Senate]",
+"href": "https://www.rebeccafornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61583707686254"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/rebeccafornh/"
+},
+{
+"text": "emma@rebeccafornh.com",
+"href": "mailto:emma@rebeccafornh.com"
+}
 ]

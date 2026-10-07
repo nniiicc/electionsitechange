@@ -1,9 +1,34 @@
 [
-"https://secure.winred.com/vancil-for-congress/donate-today?exitintent=true",
-"https://vancilforcongress.com/",
-"https://vancilforcongress.com/about-dillan",
-"https://vancilforcongress.com/cart",
-"https://vancilforcongress.com/privacy-policy",
-"https://vancilforcongress.com/request-a-yard-sign",
-"https://vancilforcongress.com/volunteer"
+{
+"text": "0",
+"href": "https://www.vancilforcongress.com/cart"
+},
+{
+"text": "About Dillan",
+"href": "https://www.vancilforcongress.com/about-dillan"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vancil-for-congress/donate-today?exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://www.vancilforcongress.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vancilforcongress.com/privacy-policy"
+},
+{
+"text": "Request A Yard Sign",
+"href": "https://www.vancilforcongress.com/request-a-yard-sign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vancilforcongress.com/volunteer"
+},
+{
+"text": "[image: Vancil For Congress]",
+"href": "https://www.vancilforcongress.com/"
+}
 ]

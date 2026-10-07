@@ -1,4 +1,4 @@
-For the past 28 years, Senator Scott Wiener has worked day and night for San Franciscans, never giving up until the job is done.
+Home Meet Scott 認識威善高 Priorities ENDORSEMENTS ENDORSEMENTS Scott's MAGA Fan Club News MEDIA Volunteer SHOP DONATE MEET SCOTT For the past 28 years, Senator Scott Wiener has worked day and night for San Franciscans, never giving up until the job is done.
 As a State Senator, member of the Board of Supervisors, Deputy City Attorney, and longtime community leader, he has championed progressive policies – including authoring and passing more than 100 state laws – to improve affordability and make San Franciscans safer, happier, healthier, and more secure.
 Scott has never shied away from tough, important issues even at personal cost.
 He took on a broken status quo to help build a statewide and national pro-housing movement, despite a tidal wave of personal attacks.
@@ -9,4 +9,16 @@ He focused extensively on housing and public transportation, authoring laws to e
 Senator Wiener grew up in New Jersey, the son of a small business owner and a public school teacher, and attended public schools.
 He received a bachelor’s degree from Duke University and a law degree from Harvard Law School.
 He spent a year in Chile on a Fulbright Scholarship doing historical research.
-He has lived in San Francisco’s Castro neighborhood since 1997.
+He has lived in San Francisco’s Castro neighborhood since 1997. ‍ STAY UPDATED Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, event reminders) from Scott Wiener for Congress at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy . info@scottwiener.com 415-690-7280 Paid for by Scott Wiener for Congress.
+More Information Privacy Policy

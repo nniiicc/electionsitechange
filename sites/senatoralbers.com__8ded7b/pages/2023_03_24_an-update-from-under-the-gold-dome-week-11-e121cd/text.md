@@ -1,6 +1,4 @@
-An Update From Under the Gold Dome: Week 11
-Friday, March 24, 2023
-There is only one week left in the 2023 Legislative Session as we close out Week 11.
+Senator John Albers Bio Resources News Contact Campaign Donate << Back An Update From Under the Gold Dome: Week 11 Friday, March 24, 2023 There is only one week left in the 2023 Legislative Session as we close out Week 11.
 With Sine Die on March 29, the Senate has wasted no time vetting House bills in Senate Committees and passing them upon the Senate floor.
 This week, the Senate has successfully passed 30 House Bills.
 I am delighted to bring you an update on a few bills of note that received final passage this week.
@@ -25,8 +23,7 @@ The Senate Committee on Public Safety will continue to meet and vet House Bills 
 With Sine Die quickly approaching, the Senate body will continue to work diligently.
 As always, if I can ever be of assistance to you, please do not hesitate to reach out.
 It is an honor to serve you here in Atlanta.
-# # # #
-Sen.
+# # # # Sen.
 John Albers serves as Chairman of the Senate Committee on Public Safety.
-He represents the 56th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
-He may be reached at his office at 404.463.8055 or by email at [email protected]
+He represents the 56 th Senate District which includes portions of Cherokee, Cobb and North Fulton counties.
+He may be reached at his office at 404.463.8055 or by email at [email protected] Senator John Albers GA DISTRICT 56 Privacy Policy

@@ -1,4 +1,4 @@
-Tom Barrett is in his first term as the U.S.
+0 Skip to Content About 7th District Endorse Tom Volunteer Yard Signs Store Donate Open Menu Close Menu About 7th District Endorse Tom Volunteer Yard Signs Store Donate Open Menu Close Menu About 7th District Endorse Tom Volunteer Yard Signs Store Donate Tom Barrett is in his first term as the U.S.
 Representative for Michigan’s 7th Congressional District.
 He was born and raised in Michigan and learned the value of hard work and the importance of family by watching his dad work two jobs while his mom stayed home to raise him and his six siblings.
 As Tom was finishing high school, he decided to join the United States Army and serve his country.
@@ -11,10 +11,10 @@ He serves on the House Transportation & Infrastructure Committee, the House Vete
 Tom attended Western Michigan University on the Montgomery GI Bill and graduated with honors in 2007.
 He lives in Charlotte with his wife, Ashley, and their four young children, Patrick, Eleanora, Gwendolyn, and Louis.
 Michigan’s 7th Congressional District includes all of Ingham, Clinton, Shiawassee, and Livingston Counties, most of Eaton County, and portions of Oakland and Genesee Counties.
-Sign Up For Text Messages
-By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Tom Barrett for Congress at the number provided, including messages sent by autodialer.
+B-Roll Video Sign Up For Text Messages By providing your phone number and checking the box, you are consenting to receive polling and voting text messages (such as election reminders and opinion polls) and public service announcement text messages (such as legislative updates, member updates, and voter education) from Tom Barrett for Congress at the number provided, including messages sent by autodialer.
 Message frequency varies.
 Message and data rates may apply.
 Reply HELP for help.
 Reply STOP to unsubscribe.
-See our Privacy Policy| Terms and Conditions.
+See our Privacy Policy | Terms and Conditions .
+Photos and statements used do not imply endorsement by the Department of Defense or Department of the Army

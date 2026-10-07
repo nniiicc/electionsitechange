@@ -1,6 +1,6 @@
+Skip to content Meet Banks Solutions News Contribute Volunteer × Meet Banks Solutions News Contribute Volunteer Food Insecurity, What is the Solution?
 I asked a classroom of 3rd graders “Where does your food come from?” Molly, an ambitious 9-year-old, blurted out “That’s easy.
-Publix!”
-Molly as well as many of us connect Publix with food which is a common misconception.
+Publix!” Molly as well as many of us connect Publix with food which is a common misconception.
 We have become so far removed from our food that we have forgotten that food comes from farms.
 Truth be told, food comes from greenhouses, warehouses and even laboratories now.
 Traditional farm fields and pastures have been eliminated from the picture almost entirely.
@@ -44,9 +44,23 @@ Next time you are in a Publix be reminded most of the foods are planted, picked,
 On March 19, 2024, we have a chance to celebrate National AG Day to honor the ones who produce our food, keep us cool and keep us with plenty of oxygen.
 In association with the City of Groveland and Keep Lake Beautiful, we are bringing awareness to this day.
 Farms in South Lake County will display yard signs to bring awareness to Farmers.
-Banks Helfrich
-Candidate for Florida House,
-District 25
-As a native Floridian, I love this state.
+Also check out my article at the Clermont Sun.
+Banks Helfrich Candidate for Florida House, District 25 As a native Floridian, I love this state.
 As a resident of South Lake County, I love farming and teaching sustainability to this community.
 As a Candidate for State House, I love finding solutions to the issues of our time.
+I'm With Banks!
+Name (Required) First Name Last Name Email (Required) Enter Email Confirm Email Keep me up to date!
+The News Being a Patriot Wearing an American flag pin does not make us a patriot; it does show patriotism though.
+Wearing a farmer’s hat with the stars and stripes on the underside does not make us a patriot.
+Going to a ribbon cutting event and welcoming a new business into our city makes us a patriot.
+Chanting USA shows… Read More → What to Do About Property Insurance?
+As homeowners in Florida, we have two choices for property insurance – to be or not to be.
+If our home is paid off, we are not required to hold insurance on it.
+Many opt for this approach because of the skyrocketing cost of insurance.
+Most of us though are on the other side of ownership.… Read More → Taxes or Services So, you want to cut property taxes?
+What a fantastic idea!
+Wait, what exactly do property taxes pay for?
+Roughly half of property taxes pay for education, and the rest covers roads, police, fire, libraries, waste management, parks and trails.
+So, by cutting property taxes, we would be cutting these services, right?
+This November the… Read More → Quick Links Meet Banks Issues News Volunteer Contribute Issues Lowering Property Insurance Decreasing Traffic Congestion Supporting First Responders Curbing Excessive Development Lowering Grocery Costs Take Action Contribute Volunteer © # PAID by BANKS Helfrich, Democrat, Florida House of Representatives, District 25.
+All Rights Reserved. | Sitemap

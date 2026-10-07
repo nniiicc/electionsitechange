@@ -1,7 +1,5 @@
-About
-Clayton A.
-Cuteri
-Write-In Candidate for U.S.
+Issues Blog About Get Involved Write Me In Donate Donate About Clayton A.
+Cuteri Write-In Candidate for U.S.
 House of Representatives, District 1 (South Carolina).
 Secretary General, American Congress Party.
 Who Is Clayton?
@@ -19,8 +17,7 @@ Small businesses crushed, lives suspended, and nobody in charge asked for permis
 Clayton realized that avoiding politics was not virtue.
 It was surrender, handing power to people willing to poison the food supply, send other people's children to war, and let insurance companies abandon entire coastlines.
 He is running because the Americans who feel abandoned by both parties deserve a representative who actually lives their problems, not one who fundraises off them.
-Career Before Politics
-Before running for Congress, Clayton built a career as a software engineer, rising to Vice President of Engineering & AI at Amara Social, a social media company that builds on top of AI.
+Career Before Politics Before running for Congress, Clayton built a career as a software engineer, rising to Vice President of Engineering & AI at Amara Social, a social media company that builds on top of AI.
 He then left to start his own companies and today operates multiple businesses across media, technology, and consumer brands.
 Five years ago he launched the podcast "Traveling to Consciousness," which grew into a media platform reaching 30 to 100 million views per month across Instagram, YouTube, and Facebook, with more than 729,000 followers combined.
 That audience is now the foundation of this campaign.
@@ -29,8 +26,7 @@ Navy on military drones and on communications, software, and networking systems.
 That work is one of the reasons District 1's military economy (Joint Base Charleston, MCAS Beaufort, and Parris Island) is a priority for this campaign.
 He is running without corporate PAC money and without needing this job to support his family.
 Aboard USS Yorktown (CV-10).
-Home in District 1
-After years of moving across the country, the Lowcountry was the place that felt like home.
+Home in District 1 After years of moving across the country, the Lowcountry was the place that felt like home.
 Clayton lives in Mount Pleasant, but this campaign is for the whole district: from Hilton Head, Bluffton, and Beaufort through Walterboro and Ridgeland, up through Summerville, Goose Creek, and Moncks Corner, and across Charleston, Mount Pleasant, and North Charleston.
 The marshes, the harbor, the ACE Basin, the communities that people have built here: this is worth protecting.
 What pushed Clayton from commentary to candidacy was watching District 1 get hollowed out in real time.
@@ -38,18 +34,25 @@ Kids who grew up in Mount Pleasant and Bluffton cannot afford starter homes.
 Retirees on Hilton Head and Edisto are being taxed out of houses they paid off decades ago.
 Families across Charleston, Berkeley, Dorchester, Beaufort, Colleton, and Jasper counties pay $5,000 or more a year in insurance, and carriers are still leaving the market.
 Both parties have had years to fix this, and both have failed.
-The American Congress Party
-Clayton serves as Secretary General of the American Congress Party, a national third-party organization building a structural alternative to the Republican-Democrat duopoly.
+The American Congress Party Clayton serves as Secretary General of the American Congress Party, a national third-party organization building a structural alternative to the Republican-Democrat duopoly.
 The ACP is a real party with a real platform, built for the Americans who deserve representation.
 South Carolina is one of the first states where ACP candidates are running for federal office, and the party is growing every day.
-Asia Icon Global Leader of the Year, 2024
-In 2024, Clayton was recognized as the Asia Icon Global Leader of the Year for his work in consciousness, media, and political advocacy.
+Learn more at americancongressparty.com Asia Icon Global Leader of the Year, 2024 In 2024, Clayton was recognized as the Asia Icon Global Leader of the Year for his work in consciousness, media, and political advocacy.
 The award ceremony brought international press coverage from BBC News, Al Jazeera, Sky News, and other global outlets.
 This recognition reflects the reach of Clayton's message beyond American borders and his ability to connect with audiences worldwide on issues of personal freedom, government accountability, and systemic reform.
-The 13-Policy Platform
-Clayton is a published author and is currently writing his political manifesto, which outlines the 13-policy platform at the center of this campaign.
+The 13-Policy Platform Clayton is a published author and is currently writing his political manifesto, which outlines the 13-policy platform at the center of this campaign.
 The platform covers everything from free food and medication to ending the Federal Reserve, eliminating the federal income tax, and redirecting war spending toward American communities.
 Every policy is backed by real numbers, real history, and real proposals.
 No slogans, no empty promises.
-Ready to Support Clayton?
+See the Full Platform Ready to Support Clayton?
 Whether you volunteer, donate, or simply write his name on the ballot, every action builds the movement.
+How to Write Me In Get Involved Clayton A.
+Cuteri, Write-In Candidate for U.S.
+House of Representatives, District 1 (South Carolina).
+American Congress Party.
+Write in: C-U-T-E-R-I November 3, 2026.
+General election only.
+Explore Home District 1 Problems Priorities How to Write Me In Blog More About Get Involved Events Endorsements Donate Media Privacy Policy Accessibility Connect American Congress Party info@writeincuteri.com Follow Clayton Paid for by Cuteri for Americans (FEC ID C00947259).
+Contributions to Cuteri for Americans are not tax deductible.
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation, and employer of individuals whose contributions exceed $200 in an election cycle. © 2026 Cuteri for Americans.
+All rights reserved.

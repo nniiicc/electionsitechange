@@ -1,6 +1,5 @@
-Two Weeks In: An Annapolis Update | Redistricting and the Budget
-Dear Neighbor,
-We are officially two weeks into the 2026 Maryland General Assembly session, and I wanted to share an update on how things are going in Annapolis and what we have been working on so far.
+top of page Home Legislation Contribute Scholarships Video Newsletter Endorsements Media Get involved!
+Contact All Posts Search Two Weeks In: An Annapolis Update | Redistricting and the Budget Teresa Woorman Jan 27 9 min read Dear Neighbor, We are officially two weeks into the 2026 Maryland General Assembly session, and I wanted to share an update on how things are going in Annapolis and what we have been working on so far.
 This session began with a historic moment for the Maryland House of Delegates.
 We have a new Speaker, Joseline Peña-Melnyk, who is not only an extraordinary leader but also my longtime friend, mentor and former committee chair.
 Watching her step into this role has been deeply meaningful to me, both personally and professionally.
@@ -12,15 +11,12 @@ I am also proud to be continuing my work on the newly reorganized Health Committ
 Last session, I served on the Health and Government Operations Committee, and health policy remains at the core of why I came to Annapolis.
 This year, I am serving on three subcommittees: Elder and Long-Term Care, Maternal, Infant and Child Health, and Public Health and Minority Health Disparities subcommittees.
 These issues come up constantly when I am visiting with constituents in the district, from caring for aging loved ones to addressing longstanding health disparities.
-Please allow me to share my perspective on three important issues that have generated a lot of questions and concern from constituents:
-Why I’m Voting Yes on Redistricting and Why We Need to Act Now
-Over the past several months, many of you have reached out asking where I stand on mid-cycle congressional redistricting and why this moment feels different.
+Please allow me to share my perspective on three important issues that have generated a lot of questions and concern from constituents: Why I’m Voting Yes on Redistricting and Why We Need to Act Now Over the past several months, many of you have reached out asking where I stand on mid-cycle congressional redistricting and why this moment feels different.
 I was proud to come out in support of redistricting early, before this conversation became mainstream, because I believed then, as I do now, that failing to act carries real and serious risks for Maryland and for our democracy.
 I am also excited to report that there is real movement on this issue.
 The bill had its hearing today in the House Rules and Executive Nominations Committee and is expected to advance out of committee and reach the House floor later this week.
 When it does, I will be a very enthusiastic YES vote.
-You can see the bill information here: https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0488/?ys=2026rs
-When House leadership asked last year whether I would support moving forward on redistricting, I quickly responded yes.
+You can see the bill information here: https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0488/?ys=2026rs When House leadership asked last year whether I would support moving forward on redistricting, I quickly responded yes.
 I did so after closely following what is happening across the country and considering what is at stake in the 2026 elections.
 Red states, after direct pressure from President Trump and his allies, have already moved aggressively to redraw congressional maps mid-decade.
 Texas, Missouri, North Carolina, Utah, and others have openly stated that their goal is to manufacture additional Republican seats, in some cases dismantling minority districts that were protected by the Voting Rights Act.
@@ -61,8 +57,7 @@ If you have thoughts you want to share, please reply directly to this email.
 I read those messages, and your perspective matters to me.
 As always, I value your engagement and your voice.
 These decisions affect every Marylander, and they are stronger when you are part of them.
-Standing Against Hate in Our Community
-Last week, anti-Muslim and anti-Palestinian graffiti was discovered on the exterior of Walt Whitman High School in Bethesda.
+Standing Against Hate in Our Community Last week, anti-Muslim and anti-Palestinian graffiti was discovered on the exterior of Walt Whitman High School in Bethesda.
 While it was quickly removed, the harm it caused to students and families is real.
 This is unacceptable.
 Hate-filled language that targets Muslims and Palestinians, or any community, is threatening, dehumanizing, and has no place in our schools or our community.
@@ -72,8 +67,7 @@ I’m also grateful to the many community leaders across our county who spoke ou
 Montgomery County is better than this.
 We all must condemn hate clearly and consistently, support the students and families who are hurt, and ensure our schools remain places where every child knows they belong.
 There is no place for Islamophobia, antisemitism, racism, or hate of any kind in our classrooms, our neighborhoods, or our county.
-Budget Update: The Reality We’re Facing and What It Means Locally
-Last week, we received the Governor’s proposed budget, so now its up to the legislature to begin making changes where necessary.
+Budget Update: The Reality We’re Facing and What It Means Locally Last week, we received the Governor’s proposed budget, so now its up to the legislature to begin making changes where necessary.
 Unlike the federal government, Maryland is constitutionally required to pass a balanced budget every year.
 That requirement means we must confront fiscal challenges head on and make responsible decisions about spending and priorities.
 This year’s budget is shaped heavily by federal actions that have hit Maryland particularly hard.
@@ -88,43 +82,29 @@ This year is about tightening our belts, not raising taxes, and being clear abou
 Over the coming weeks, the General Assembly will review the Governor’s proposal, identify savings, strengthen accountability, and make adjustments to protect essential services while keeping our state affordable and sustainable.
 Even in a tight year, we are continuing to invest in our communities.
 The Capital Improvement Program provides $105.359 million for Montgomery County.
-Allocations for communities and organizations within District 16 include:
-- Carderock Springs Water Main Replacement – $8,125,000
-- Glen Echo Park Spanish Ballroom Renovation – $1,000,000
-- Suburban Hospital Emergency Department Expansion – $1,000,000
-- Bethesda Arts and Entertainment District Inc.
-Public Art Improvements and Projects – $100,000
-Thank you, as always, for staying engaged and for trusting me to represent you in Annapolis.
-Warmly,
-Delegate Teresa Woorman, District 16
-Sign up for my newsletter: https://forms.gle/woDZTLrxyhc23ZDa7
-Meet the Team!
-Karen Gottlieb(Chief of Staff):
-Karen is back for her second Legislative Session serving as Chief of Staff for Delegate Teresa Woorman, where she plays a vital role in driving strategic initiatives, enhancing organizational efficiency, and ensuring seamless coordination across the team.
+Allocations for communities and organizations within District 16 include: Carderock Springs Water Main Replacement – $8,125,000 Glen Echo Park Spanish Ballroom Renovation – $1,000,000 Suburban Hospital Emergency Department Expansion – $1,000,000 Bethesda Arts and Entertainment District Inc.
+Public Art Improvements and Projects – $100,000 Thank you, as always, for staying engaged and for trusting me to represent you in Annapolis.
+Warmly, Delegate Teresa Woorman, District 16 Sign up for my newsletter: https://forms.gle/woDZTLrxyhc23ZDa7 Meet the Team!
+Karen Gottlieb(Chief of Staff): Karen is back for her second Legislative Session serving as Chief of Staff for Delegate Teresa Woorman, where she plays a vital role in driving strategic initiatives, enhancing organizational efficiency, and ensuring seamless coordination across the team.
 Prior to joining Delegate Woorman’s staff, Karen was an office fellow in the Montgomery County Executive’s Office.
 There, she worked directly with the Director of Economic and Business Development to attract businesses to Montgomery County.
 Karen holds a Master’s degree in Marketing Analytics and dual Bachelor’s degrees in Economics and Public Policy from the University of Maryland, College Park.
 A Montgomery County native, Karen attended Quince Orchard High School, where she was a cheerleader and an active community member.
 Outside of work, Karen continues her involvement in the community as a cheerleading coach at a Montgomery County gym.
 She enjoys watching movies, reading, and spending time with her family, especially her two cats.
-David Chisom (Deputy Chief of Staff) (not pictured):
-David joins Delegate Woorman’s team from his most recent role as the Legislative Writer in the Veteran’s Health Administration within the Department of Veterans Affairs (VA).
+David Chisom (Deputy Chief of Staff) (not pictured): David joins Delegate Woorman’s team from his most recent role as the Legislative Writer in the Veteran’s Health Administration within the Department of Veterans Affairs (VA).
 He also brings a wealth of practical knowledge from serving as a Project Manager whose team advocated for the inclusion of underserved small businesses within federal contracting.
 Prior to working in the public sector, David’s community involvement through financial institutions, saved at-risk businesses from loan default in the Washington DC area.
 Away from the office, David enjoys trivia nights, gardening, and time spent with family.
-Natalie Prieto (Legislative intern):
-This legislative session is Natalie’s second term serving as a legislative intern in Delegate Woorman’s office.
+Natalie Prieto (Legislative intern): This legislative session is Natalie’s second term serving as a legislative intern in Delegate Woorman’s office.
 Natalie is from Long Island, New York, and is currently a Public Health Science intern at the University of Maryland.
 After graduating from the University of Maryland, she plans to attend law school in the fall of 2026.
 This session, Natalie will continue supporting the office through legislative research, constituent services, and daily operations.
-Jenna Linthicum (Legislative intern):
-Jenna is a senior at the University of Maryland completing a dual degree in public policy and communications on the public relations track.
+Jenna Linthicum (Legislative intern): Jenna is a senior at the University of Maryland completing a dual degree in public policy and communications on the public relations track.
 She has developed an interest in achieving affordable solutions, with a growing focus on healthcare accessibility and quality of care.
 Outside of the classroom, Jenna enjoys reading, staying active, thrifting, and exploring new places.
-In this session, she hopes to learn more about the legislative process in action and how small scale changes can directly help our communities.
-Health Committee Update
-AHEAD Model Briefing
-The Health Committee held a briefing on January 21st, 2026 to discuss the Achieving Healthcare Efficiency through Accountable Design (AHEAD) Model which was developed by the Center for Medicare & Medicaid Innovation (CMMI) to reduce healthcare costs and improve outcomes.
+In this session, she hopes to learn more about the legisla tive process in action and how small scale changes can directly help our communities.
+Health Committee Update AHEAD Model Briefing The Health Committee held a briefing on January 21st, 2026 to discuss the Achieving Healthcare Efficiency through Accountable Design (AHEAD) Model which was developed by the Center for Medicare & Medicaid Innovation (CMMI) to reduce healthcare costs and improve outcomes.
 This model aims to maintain hospital budgets to better coordinate care, expand access and delivery, and increase choice and competition to establish clear health improvement goals.
 By January 2027, Maryland will be required to select their choice and competition policies, which will determine the focus area for the state.
 AHEAD is currently in the implementation period, aiming to reach their all-payer growth and primary care investment targets before 2027.
@@ -132,8 +112,8 @@ The committee plans to proportionately meet the needs of each county, depending 
 This is a major transformation where it is difficult to determine how cost shifting will work.
 AHEAD provides the opportunity to develop more primary care centers, measure disease and mental health conditions more closely, and monitor the number of healthy days Marylanders have.
 However, hospitals will be confronted with a total reduction of $870 million from public payers, signaling uncertainty in how the rest of the revenue will be raised.
-The Consumer Health Information Hub Briefing
-The Health Committee also held a briefing on the Consumer Health Information Hub (HB1082, 2022) which was presented by the Maryland Consumer Health Information Hub from the University of Maryland School of Public Health.
+The Consumer Health Information Hub Briefing The Health Committee also held a briefing on the Consumer Health Information Hub (HB1082, 2022) which was presented by the Maryland Consumer Health Information Hub from the University of Maryland School of Public Health.
 During the briefing, members outlined goals to advance health literacy, promote the use of plain language, and expand language access in Maryland so that public health communications are easily understood by all residents.
 Improving the clarity and accessibility of health information will allow for more effective communication and stronger public engagement around important public health issues.
 Health literacy will allow for individuals to be able to find information, understand and use it and then eventually make informed decisions for themselves and others.
+Recent Posts See All Important Community Notice: PFAS Contamination Advisory in Montgomery County 2026 End of Session Letter Crossover Update: My Bills Head to the Senate Contact: teresa@teresawoorman.com By Authority: Teresa Woorman for Maryland; Matthew Woorman, Treasurer bottom of page

@@ -1,7 +1,9 @@
 {
  "description": "Campaign site for John Loughlin, a political candidate in RI, running for Lieutenant Governor of Rhode Island.",
  "final_url": "https://www.loughlin4ri.com/",
- "paid_for_by": null,
+ "fingerprint": "2680be32af284193e54054308abf957093e08708",
+ "format": 3,
+ "paid_for_by": "",
  "title": "John Loughlin for Rhode Island Lieutenant Governor | RI Politics",
  "years_mentioned": []
 }

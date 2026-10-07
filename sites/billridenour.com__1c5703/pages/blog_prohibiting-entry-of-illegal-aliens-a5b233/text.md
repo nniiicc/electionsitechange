@@ -1,5 +1,4 @@
-Prohibiting Entry of Illegal Aliens
-As I mentioned in my House Bill 3137 Prohibiting Illegal Alien Human Smuggling, illegal immigration is a critical threat to our country.
+0 Skip to Content About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Campaign Resources Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Voter Info Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Legislation My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Open Menu Close Menu About Bill Folder: Campaign Resources Back Campaign Positions Campaign Flyer Debates Opposition to MARL Public Comment Steps to Deal with Powerline Personnel Folder: Voter Info Back Register to Vote Find Polling Place Sample Ballot - District 100 Jefferson County Polling Places WV Voter Map Map of District 100 WV Motor Vehicle Tax Adjustment Form Folder: Legislation Back My Bills My Recent Sponsored Legislation Search Bills and Resolutions Sponsored Blog Contact Donate Prohibiting Entry of Illegal Aliens Jan 4 Written By Amanda Ridenour As I mentioned in my House Bill 3137 Prohibiting Illegal Alien Human Smuggling, illegal immigration is a critical threat to our country.
 No single solution will stop this scourge.
 Because the Biden regime is engaged in undermining our border and our immigration system, we need to use as many tools as we can derive.
 My bill to Prohibit Entry of Illegal Aliens into West Virginia parallels Texas Senate Bill 4, in which Texas will charge illegal aliens with a state misdemeanor.
@@ -7,5 +6,7 @@ If the illegal alien agrees to return to Mexico, the charges will be dropped.
 If they return, then the illegal alien will be charged with a felony.
 My bill has some necessary adaptations, given we are not on the border, but it accomplishes a similar purpose.
 It will complement what the federal government should be doing, and under a sane federal government will do correctly in the future.
-The bill is posted on my website here.
-MONTANI SEMPER LIBERI
+The bill is posted on my website here .
+MONTANI SEMPER LIBERI Amanda Ridenour Previous Previous Update on the 2024 Regular Session - Nothing meaningful accomplished Next Next The Anti-Terrorism Act Bill Ridenour for West Virginia | Paid for by the Bill Ridenour for West Virginia Campaign.
+Jim Ruland, Treasurer.
+Home About Bill Campaign Positions Legislation Blog Contact

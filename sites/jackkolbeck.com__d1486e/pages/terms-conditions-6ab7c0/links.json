@@ -1,6 +1,18 @@
 [
-"https://jackkolbeck.com/",
-"https://jackkolbeck.com/cart",
-"https://jackkolbeck.com/privacy-policy",
-"https://jackkolbeck.com/terms-conditions"
+{
+"text": "0",
+"href": "https://www.jackkolbeck.com/cart"
+},
+{
+"text": "Jack Kolbeck for House",
+"href": "https://www.jackkolbeck.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jackkolbeck.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jackkolbeck.com/terms-conditions"
+}
 ]

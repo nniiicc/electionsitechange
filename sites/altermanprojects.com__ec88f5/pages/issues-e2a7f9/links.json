@@ -1,24 +1,102 @@
 [
-"https://altermanprojects.com/about-mikhail",
-"https://altermanprojects.com/contact",
-"https://altermanprojects.com/home",
-"https://altermanprojects.com/issues",
-"https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2015/cafr-stats_2015.pdf",
-"https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2024/Statistical%20Section.pdf",
-"https://busfin.osu.edu/sites/default/files/documents/quarterly_update_2025_12.pdf",
-"https://dailywire.com/news/inside-ohios-home-health-empire-7-buildings-288-medicaid-companies-250-million",
-"https://dailywire.com/news/the-millionaire-welfare-kings-behind-a-quality-medicaid-empire",
-"https://thecentersquare.com/issues/accountability/article_30393557-1f30-46f3-a840-a9629c290344.html",
-"https://thecentersquare.com/national/article_4a4eb850-03d5-4c1b-9a1c-9c80bc209cfe.html",
-"https://thecentersquare.com/national/article_a35d8d77-4425-4983-9b00-44af803ea92e.html",
-"https://thecentersquare.com/ohio/article_41d00a5c-8ca0-4f53-a2b7-adba62501fe3.html",
-"https://thecentersquare.com/ohio/article_e1a39ea2-735a-4b3a-a0cb-17b7c3325e00.html",
-"https://theohiopressnetwork.com/news/ohio/federal-report-ohios-obamacare-enrollment-drop-driven-by-removal-of-improper-and-phantom-sign-ups/article_dec85778-b8f1-4938-8dd5-2c6f120c301e.html",
-"https://theohiopressnetwork.com/news/ohio/former-powell-couple-indicted-in-9-3m-ohio-medicaid-fraud-now-believed-to-be-in/article_db25214b-5268-43e2-9d52-c86725dc56d2.html",
-"https://theohiopressnetwork.com/news/us/state-finds-1m-in-taxpayer-funded-childcare-overpayments/article_88a35ae7-f1a7-5599-ad9d-abf5a8ce6e9b.html",
-"https://thepostmillennial.com/revealed-massive-fraud-in-taxpayer-funded-ohio-home-health-aide-industry",
-"https://x.com/lukerosiak/status/2051763820549308752",
-"https://x.com/mikedovilla/status/2053863346856771688",
-"https://youtu.be/5jkNMPttxio?t=26",
-"https://youtube.com/watch?v=2cChmdNe11Y&t=238s"
+{
+"text": "About Mikhail",
+"href": "https://www.altermanprojects.com/about-mikhail"
+},
+{
+"text": "Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Contact",
+"href": "https://www.altermanprojects.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.altermanprojects.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "[image]Citizens With Mikhail Alterman",
+"href": "https://www.altermanprojects.com/home"
+},
+{
+"text": "https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2015/cafr-stats_2015.pdf",
+"href": "https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2015/cafr-stats_2015.pdf"
+},
+{
+"text": "https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2024/Statistical%20Section.pdf",
+"href": "https://archives.obm.ohio.gov/Files/State_Accounting/Financial_Reporting/Comprehensive_Annual_Financial_Report/2024/Statistical%20Section.pdf"
+},
+{
+"text": "https://busfin.osu.edu/sites/default/files/documents/quarterly_update_2025_12.pdf",
+"href": "https://busfin.osu.edu/sites/default/files/documents/quarterly_update_2025_12.pdf"
+},
+{
+"text": "https://thepostmillennial.com/revealed-massive-fraud-in-taxpayer-funded-ohio-home-health-aide-industry?utm_campaign=64466",
+"href": "https://thepostmillennial.com/revealed-massive-fraud-in-taxpayer-funded-ohio-home-health-aide-industry"
+},
+{
+"text": "https://www.dailywire.com/news/inside-ohios-home-health-empire-7-buildings-288-medicaid-companies-250-million",
+"href": "https://www.dailywire.com/news/inside-ohios-home-health-empire-7-buildings-288-medicaid-companies-250-million"
+},
+{
+"text": "https://www.dailywire.com/news/the-millionaire-welfare-kings-behind-a-quality-medicaid-empire",
+"href": "https://www.dailywire.com/news/the-millionaire-welfare-kings-behind-a-quality-medicaid-empire"
+},
+{
+"text": "https://www.thecentersquare.com/issues/accountability/article_30393557-1f30-46f3-a840-a9629c290344.html",
+"href": "https://www.thecentersquare.com/issues/accountability/article_30393557-1f30-46f3-a840-a9629c290344.html"
+},
+{
+"text": "https://www.thecentersquare.com/national/article_4a4eb850-03d5-4c1b-9a1c-9c80bc209cfe.html",
+"href": "https://www.thecentersquare.com/national/article_4a4eb850-03d5-4c1b-9a1c-9c80bc209cfe.html"
+},
+{
+"text": "https://www.thecentersquare.com/national/article_a35d8d77-4425-4983-9b00-44af803ea92e.html",
+"href": "https://www.thecentersquare.com/national/article_a35d8d77-4425-4983-9b00-44af803ea92e.html"
+},
+{
+"text": "https://www.thecentersquare.com/ohio/article_41d00a5c-8ca0-4f53-a2b7-adba62501fe3.html",
+"href": "https://www.thecentersquare.com/ohio/article_41d00a5c-8ca0-4f53-a2b7-adba62501fe3.html"
+},
+{
+"text": "https://www.thecentersquare.com/ohio/article_e1a39ea2-735a-4b3a-a0cb-17b7c3325e00.html",
+"href": "https://www.thecentersquare.com/ohio/article_e1a39ea2-735a-4b3a-a0cb-17b7c3325e00.html"
+},
+{
+"text": "https://www.theohiopressnetwork.com/news/ohio/federal-report-ohios-obamacare-enrollment-drop-driven-by-removal-of-improper-and-phantom-sign-ups/article_dec85778-b8f1-4938-8dd5-2c6f120c301e.html",
+"href": "https://www.theohiopressnetwork.com/news/ohio/federal-report-ohios-obamacare-enrollment-drop-driven-by-removal-of-improper-and-phantom-sign-ups/article_dec85778-b8f1-4938-8dd5-2c6f120c301e.html"
+},
+{
+"text": "https://www.theohiopressnetwork.com/news/ohio/former-powell-couple-indicted-in-9-3m-ohio-medicaid-fraud-now-believed-to-be-in/article_db25214b-5268-43e2-9d52-c86725dc56d2.html",
+"href": "https://www.theohiopressnetwork.com/news/ohio/former-powell-couple-indicted-in-9-3m-ohio-medicaid-fraud-now-believed-to-be-in/article_db25214b-5268-43e2-9d52-c86725dc56d2.html"
+},
+{
+"text": "https://www.theohiopressnetwork.com/news/us/state-finds-#m-in-taxpayer-funded-childcare-overpayments/article_88a35ae7-f1a7-5599-ad#d-abf5a8ce6e9b.html",
+"href": "https://www.theohiopressnetwork.com/news/us/state-finds-1m-in-taxpayer-funded-childcare-overpayments/article_88a35ae7-f1a7-5599-ad9d-abf5a8ce6e9b.html"
+},
+{
+"text": "https://www.youtube.com/watch?v=2cChmdNe11Y&t=238s",
+"href": "https://www.youtube.com/watch?v=2cChmdNe11Y&t=238s"
+},
+{
+"text": "https://x.com/lukerosiak/status/2051763820549308752",
+"href": "https://x.com/lukerosiak/status/2051763820549308752"
+},
+{
+"text": "https://x.com/mikedovilla/status/2053863346856771688",
+"href": "https://x.com/mikedovilla/status/2053863346856771688"
+},
+{
+"text": "https://youtu.be/5jkNMPttxio?t=26",
+"href": "https://youtu.be/5jkNMPttxio?t=26"
+}
 ]

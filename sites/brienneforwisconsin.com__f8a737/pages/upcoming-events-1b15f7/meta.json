@@ -1,7 +1,11 @@
 {
  "description": "Join Brienne Brown&#39;s campaign events across Wisconsin for political fundraisers and community engagement. Discover upcoming Wisconsin Assembly events!",
  "final_url": "https://brienneforwisconsin.com/upcoming-events",
- "paid_for_by": null,
+ "fingerprint": "94fa6ee67faaabd2da06e6473386499a120c04ca",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Upcoming Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

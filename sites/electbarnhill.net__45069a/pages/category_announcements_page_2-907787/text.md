@@ -1,4 +1,12 @@
-FOR IMMEDIATE RELEASESeptember 26, 2024 Las Vegas, NV – Brad Lee Barnhill, conservative candidate for Nevada Senate District 6, has filed a motion to intervene in a lawsuit filed
-Jun 18
-These resources should help you contact news outlets and submit your stories to local media outlets in Clark County.
-One of the most effective ways to support Brad Barnhill’s
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Category: Announcements electbarnhill Comment 1 Brad Lee Barnhill Announces Candidacy for Nevada Secretary of State as #YourIndependentVoice FOR IMMEDIATE RELEASEFebruary 27, 2026Las Vegas, Nevada Independent American Party Candidate Brings Decades of Tech and Legal Expertise to Restore Trust, Efficiency, and Consensus in State Government Las Vegas, electbarnhill 0 Comment Brad Lee Barnhill, Nevada Senate Candidate, Intervenes in Election Integrity Lawsuit in Clark County FOR IMMEDIATE RELEASESeptember 26, 2024 Las Vegas, NV – Brad Lee Barnhill, conservative candidate for Nevada Senate District 6, has filed a motion to intervene in a lawsuit filed Jun 18 electbarnhill 0 Comment Contact News Outlets – Spread the Word for Brad Barnhill’s Campaign These resources should help you contact news outlets and submit your stories to local media outlets in Clark County.
+One of the most effective ways to support Brad Barnhill’s Posts pagination Previous page Page 1 Page 2 More Commentary What Nevada Secretary of State Candidates Owe Voters (October 2, 2026) Supreme Court Lets States Use Federal Citizenship Database for Voter Rolls: What It Means for Nevada (September 26, 2026) How to Check Nevada Voter Registration Status (September 22, 2026) Question 7 Nevada Voter ID: What Comes Next (September 22, 2026) Stop Voting Against Someone.
+Vote For Someone.
+(September 18, 2026) You’re Not Undecided.
+You’re Unrepresented.
+(September 16, 2026) Voter ID Is Coming.
+Let’s Talk About Making It Actually Work For People.
+(September 12, 2026) What an Independent Secretary of State Can Accomplish Under a Democratic-Controlled Legislature (September 12, 2026) The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning (August 17, 2026) Independents Are the Plurality — And Nevada’s Voter Data Should Stay in Nevada’s Hands (August 16, 2026) footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Results, Not Noise.
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
+Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

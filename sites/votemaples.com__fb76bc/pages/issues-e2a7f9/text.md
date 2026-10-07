@@ -1,31 +1,25 @@
-The Maples Plan for Florida Families
-Jon Maples is a community leader who believes government should work for the people, not the other way around.
+Skip to main content Skip to footer Opens in a new tab Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Home Meet Jon Issues FAQ District 87 Neighbors for Jon Media News Events Articles Contact Donate The Maples Plan for Florida Families Jon Maples is a community leader who believes government should work for the people, not the other way around.
 A strong advocate for families, taxpayers and common-sense solutions, Jon is running for Florida House because he understands the challenges facing Palm Beach County residents.
 Rising costs, soaring insurance premiums, traffic congestion, rapid growth, and concerns about public safety have made it harder for many families to achieve the quality of life they deserve.
 As our next Representative, Jon will fight to make Florida more affordable, keep neighborhoods safe, protect parental rights in education, support small businesses, and ensure growth is managed responsibly so that our community’s unique character and quality of life are preserved for future generations.
-Affordability and Cost of Living
-- Cut wasteful government spending
-- Protect taxpayers from unnecessary financial burdens
-- Support policies that create new jobs
-- Create conditions that help families build long-term financial stability
-Public Safety and Safe Neighborhoods
-- Jail and prosecute violent criminals
-- Expand programs to detect and eliminate human trafficking
-- Enhance penalties for organized criminal enterprises
-- Invest in disaster preparedness and recovery efforts
-Protecting Parental Rights in Education
-- Encourage parental involvement in education
-- Protect school choice for Florida families
-- Support higher academic standards
-- Promote workforce development and technical schools
-- Protect schools as safe learning environments
-Job Creation and Small Business Growth
-- Cut taxes on small businesses and job creators
-- Slash burdensome red tape and bureaucracy
-- Invest in workforce development and vocational education
-- Support businesses that want to invest in Florida and Palm Beach County
-Infrastructure and Responsible Growth
-- Infrastructure planning that keeps pace with growth
-- Responsible development that pays its own way
-- Protections for local waterways and public resources
-- Preserve the quality of life that makes Palm Beach County such a wonderful place to live
+Donate Affordability and Cost of Living Families throughout Palm Beach County are feeling the pressure of rising costs.
+Property insurance premiums continue to strain household budgets, property values have increased taxes and assessments, and residents are paying more for everything, from gas to groceries.
+Cut wasteful government spending Protect taxpayers from unnecessary financial burdens Support policies that create new jobs Create conditions that help families build long-term financial stability Palm Beach County has long been one of Florida's most desirable places to live.
+We must ensure that rising costs do not make it unaffordable for teachers, first responders, young families, and retirees.
+Public Safety and Safe Neighborhoods House District 87 is a wonderful place to raise a family because of the dedication of our law enforcement officers, firefighters, and first responders.
+We must continue to support the front-line heroes who protect our neighborhoods and make sure they have the resources they need to keep us safe.
+Jail and prosecute violent criminals Expand programs to detect and eliminate human trafficking Enhance penalties for organized criminal enterprises Invest in disaster preparedness and recovery efforts Every resident deserves to feel safe in their home, neighborhood, school, and workplace.
+I will work with our first responders to make that so.
+Protecting Parental Rights in Education There is no one-size-fits-all solution for raising children.
+Every child is different and parents know their children best.
+The best way to improve educational outcomes for Florida's students is by empowering parents and giving them a full menu of options to identify the education pathway for their children.
+Encourage parental involvement in education Protect school choice for Florida families Support higher academic standards Promote workforce development and technical schools Protect schools as safe learning environments By embracing school choice, insisting on high academic standards, and ensuring all graduates are college or career ready, Florida will be more prosperous and prepared for the future.
+Job Creation and Small Business Growth Small businesses are the backbone of the American economy and the heartbeat of Palm Beach County.
+From family-owned restaurants and retail shops to professional service firms, contractors, and entrepreneurs, small business owners create jobs, invest in our community, and drive economic growth.
+Cut taxes on small businesses and job creators Slash burdensome red tape and bureaucracy Invest in workforce development and vocational education Support businesses that want to invest in Florida and Palm Beach County By supporting job creation and encouraging investment, we can ensure that future generations have access to good-paying careers and the opportunity to build prosperous lives in our community.
+Infrastructure and Responsible Growth Our community continues to attract new residents and businesses because people want what we have: safe neighborhoods, beautiful beaches, a thriving economy, and an exceptional quality of life.
+The same growth that brings opportunity can also create challenges if not handled thoughtfully.
+Infrastructure planning that keeps pace with growth Responsible development that pays its own way Protections for local waterways and public resources Preserve the quality of life that makes Palm Beach County such a wonderful place to live Our goal on infrastructure and growth should be simple: protect what makes Palm Beach County special while preparing responsibly for the future.
+A Platform Focused on Florida Families The Maples Plan is centered on protecting our high quality of life and ensuring Florida remains a place where future generations can live, work, raise families, and build futures.
+From affordability and public safety to education, infrastructure, and job growth, Jon Maples remains focused on the common-sense solutions that make life better across District 87.
+Donate Contact Terms & Conditions Privacy Policy Paid by Jon Maples, Republican, for State House, District 87.

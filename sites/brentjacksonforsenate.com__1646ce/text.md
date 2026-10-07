@@ -1,7 +1,5 @@
-Join Brent
-Meet Brent
-Brent Jackson is Founder, President, and CEO of Jackson Farming Company, Inc. in Autryville, North Carolina.
+Skip to content Meet Brent Endorsements Issues (opens in a new tab) (opens in a new tab) Donate (opens in a new tab) Brent Jackson NC Senate Join Brent First Name Last Name * Email * Phone *Not Required JOIN Quick Donate $10 (opens in a new tab) $25 (opens in a new tab) $50 (opens in a new tab) Meet Brent Brent Jackson is Founder, President, and CEO of Jackson Farming Company, Inc. in Autryville, North Carolina.
 Under his leadership, the company maintains thousands of acres of farmland and the wide distribution of its produce to a variety of retailers.
 In addition to thirty years in farming, Jackson has contributed much to his community and industry through his involvement in civic and trade organizations.
 Jackson has used his agriculture experience to protect North Carolina’s top industry as chair of the Senate Agriculture, Environment and Natural Resources Committee, and now as chair of the Senate Appropriations Committee.
-READ MORE
+READ MORE On the Issues Education Agriculture Jobs Coronavirus Healthcare 2nd Amendment PAID FOR BY BRENT JACKSON FOR SENATE Privacy Policy Meet Brent Endorsements Issues

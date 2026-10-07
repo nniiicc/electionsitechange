@@ -1,7 +1,9 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.kriswilliamsforiowa.com/news/letter-to-the-editor-4062026",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "65001aed3b568b981889496c55598995e56a97c4",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Letter To The Editor 4/06/2026",
  "years_mentioned": [
   "2026"

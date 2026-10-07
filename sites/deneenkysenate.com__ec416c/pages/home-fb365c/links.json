@@ -1,11 +1,54 @@
 [
-"http://meridianpursuit.com/",
-"https://apps.legislature.ky.gov/record/IndividualSponsorPages/488.html",
-"https://deneenkysenate.com/",
-"https://deneenkysenate.com/contribute",
-"https://deneenkysenate.com/contributefbb38ad5",
-"https://deneenkysenate.com/home",
-"https://dp-cdn.multiscreensite.com/d_gallery/firstImages/a_City_skyline_1600_754_d.jpg",
-"https://facebook.com/deneenkysenate",
-"https://twitter.com/@MatthewDeneen1"
+{
+"text": "Button",
+"href": "https://dp-cdn.multiscreensite.com/d_gallery/firstImages/a_City_skyline_1600_754_d.jpg"
+},
+{
+"text": "CONTACT",
+"href": "mailto:matthew.deneen@lrc.ky.gov"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.deneenkysenate.com/contribute"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.deneenkysenate.com/contributefbb38ad5"
+},
+{
+"text": "DONATE",
+"href": "https://www.deneenkysenate.com/contribute"
+},
+{
+"text": "Email Us",
+"href": "mailto:DeneenKYStateSenate@gmail.com"
+},
+{
+"text": "Meridian Pursuit",
+"href": "http://www.meridianpursuit.com"
+},
+{
+"text": "SEE SPONSORED BILLS",
+"href": "https://apps.legislature.ky.gov/record/IndividualSponsorPages/488.html"
+},
+{
+"text": "[image]",
+"href": "https://www.deneenkysenate.com/"
+},
+{
+"text": "[image]Strong Values. Proven Leadership.Matt Deneen is a voice for Kentucky families, defending our freedoms in Frankfort.",
+"href": "https://www.deneenkysenate.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/@MatthewDeneen1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/deneenkysenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:matthew.deneen@lrc.ky.gov"
+}
 ]

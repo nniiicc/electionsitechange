@@ -1,6 +1,5 @@
-Speaking at Friendship Baptist Church
-Zyon Khalifa speaks at Friendship Baptist Church, sharing his vision for leadership grounded in service, unity, and a commitment to the people.
+Skip to Content Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact ( 0 ) Cart ( 0 ) Donate Open Menu Close Menu Debate Meet Zyon Khalifa Zyon's Messages Platform Events Campaign Merch Volunteer Contact Donate Speeches , • 3/29/26 Speaking at Friendship Baptist Church Zyon Khalifa speaks at Friendship Baptist Church, sharing his vision for leadership grounded in service, unity, and a commitment to the people.
 As a candidate for Congress in South Carolina’s 2nd District, he outlines a platform focused on addressing real community needs, while emphasizing the importance of faith, compassion, and collective responsibility.
 This message goes beyond politics, highlighting the role of leadership in uplifting communities, strengthening families, and creating opportunities for all.
 Through connection and purpose, this campaign is about building a future that reflects the values of the people it serves.
-Previous
+Previous New Times Require New Leadership You Might Also Like No Kings Rally Speaking at Mount Anna Baptist Church Meet Zyon Khalifa Platform Volunteer Privacy Policy

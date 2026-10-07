@@ -1,1 +1,4 @@
-Back to All Events Election Night Watch Party at Town Hall Collaborative Tuesday, June 30, 2026 6:30 PM 10:00 PM Town Hall Collaborative 525 Santa Fe Drive Denver, Colorado, 80204 United States (map) Google Calendar ICS
+0 Skip to Content Home About Iris in the Press Endorsements Volunteer DONATE Open Menu Close Menu DONATE Home About Iris in the Press Endorsements Volunteer Open Menu Close Menu Home About Iris in the Press Endorsements Volunteer DONATE Back to All Events Election Night Watch Party at Town Hall Collaborative Tuesday, June 30, 2026 6:30 PM 10:00 PM Town Hall Collaborative 525 Santa Fe Drive Denver, Colorado, 80204 United States (map) Google Calendar ICS Previous Previous June 30 Joint Canvass for Iris Halpern for House District 6, Julie Gonzales for U.S.
+Senate, and David Seligman for Attorney General Congress Park/Cheesman Park/Capitol Hill Neighborhoods Paid for by Iris4Colorado.
+Registered Agent Iris Halpern.
+Phone: (303) 351-1162 PO Box 6071 Denver, CO 80206 Iris.halpern@iris4colorado.com PRIVACY POLICY TERMS & CONDITIONS

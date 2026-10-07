@@ -1,6 +1,4 @@
-Vote For Papan
-Jul 14, 2022
-Updated: Sep 17, 2022
-Editor,
-As a 20-year resident of San Bruno, I know the best candidate to represent our community in the state Assembly is San Mateo Deputy Mayor Diane Papan.
+top of page HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items.
+DONATE All Posts Search Vote For Papan Jul 14, 2022 1 min read Updated: Sep 17, 2022 Editor, As a 20-year resident of San Bruno, I know the best candidate to represent our community in the state Assembly is San Mateo Deputy Mayor Diane Papan.
 Diane has been a community and public servant all of her life volunteering her time in numerous community efforts including providing new clothing and scholarships to kids as a director of a nonprofit.
+Read more Recent Posts See All San Mateo Deputy Mayor Diane Papan Decisively Wins June Primary By A 2:1 Margin Papan Takes On Tough Issues Vote Diane Papan For State Assembly HOME MEET DIANE PRIORITIES DIANE'S STORY NEWS ENDORSEMENTS VIDEOS EVENTS GALLERY JOIN More Use tab to navigate through the menu items. © PAPAN FOR ASSEMBLY # 5445 Madison Ave Sacramento CA 95841 | FPPC ID 1477408 Join Team Papan bottom of page

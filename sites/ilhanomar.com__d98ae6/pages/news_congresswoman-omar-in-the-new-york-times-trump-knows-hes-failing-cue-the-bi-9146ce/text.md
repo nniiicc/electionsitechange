@@ -1,11 +1,10 @@
-Congresswoman Omar in the New York Times: Trump Knows He’s Failing.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share News Congresswoman Omar in the New York Times: Trump Knows He’s Failing.
 Cue the Bigotry.
-Read the op-ed in the New York Times.
-On Tuesday, President Trump called my friends and me “garbage.”
-This comment was only the latest in a series of remarks and Truth Social posts in which the president has demonized and spread conspiracy theories about the Somali community and about me personally.
+December 4, 2025 Read the op-ed in the New York Times.
+On Tuesday, President Trump called my friends and me “garbage.” This comment was only the latest in a series of remarks and Truth Social posts in which the president has demonized and spread conspiracy theories about the Somali community and about me personally.
 For years, the president has spewed hate speech in an effort to gin up contempt against me.
 He reaches for the same playbook of racism, xenophobia, Islamophobia and division again and again.
-At one 2019 rally, he egged on his crowd until it chanted “send her back” when he said my name.
+At one 2019 rally, he egged on his crowd until it chanted “send her back” when he said my name .
 Mr.
 Trump denigrates not only Somalis but so many other immigrants, too, particularly those who are Black and Muslim.
 While he has consistently tried to vilify newcomers, we will not let him silence us.
@@ -15,8 +14,7 @@ Over 90 percent of Somalis living in my home state, Minnesota, are American citi
 Some even supported Mr.
 Trump at the ballot box.
 “I don’t want them in our country,” the president said this week.
-“Let them go back to where they came from.”
-Somali Americans remain resilient against the onslaught of attacks from the White House.
+“Let them go back to where they came from.” Somali Americans remain resilient against the onslaught of attacks from the White House.
 But I am deeply worried about the ramifications of these tirades.
 When Mr.
 Trump maligns me, it increases the number of death threats that my family, staff members and I receive.
@@ -44,3 +42,4 @@ We will not let Mr.
 Trump intimidate or debilitate us.
 We are not afraid.
 After all, Minnesotans not only welcome refugees, they also sent one to Congress.
+Back to all news Join Our Campaign ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

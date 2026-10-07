@@ -1,8 +1,30 @@
 [
-"https://facebook.com/ted4nh",
-"https://secure.winred.com/committee-to-elect-ted-trost-64c57367/donate-today",
-"https://ted4nh.com/",
-"https://ted4nh.com/About-me",
-"https://ted4nh.com/Get-Involved",
-"https://x.com/tedtrost"
+{
+"text": "About Me",
+"href": "https://ted4nh.com/About-me/"
+},
+{
+"text": "Donate to help send me to Concord!",
+"href": "https://secure.winred.com/committee-to-elect-ted-trost-64c57367/donate-today"
+},
+{
+"text": "Get Involved",
+"href": "https://ted4nh.com/Get-Involved/"
+},
+{
+"text": "Home",
+"href": "https://ted4nh.com/"
+},
+{
+"text": "Learn More About Me",
+"href": "https://ted4nh.com/About-me/"
+},
+{
+"text": "[tooltip: Go to My Facebook Page]",
+"href": "https://www.facebook.com/ted4nh/"
+},
+{
+"text": "[tooltip: Go to my X.com page]",
+"href": "https://x.com/tedtrost"
+}
 ]

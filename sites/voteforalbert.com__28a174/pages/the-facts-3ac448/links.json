@@ -1,22 +1,142 @@
 [
-"https://secure.winred.com/albert-sommers/donate-today",
-"https://secure.winred.com/albert-sommers/donate-today?amount=100",
-"https://secure.winred.com/albert-sommers/donate-today?amount=250",
-"https://secure.winred.com/albert-sommers/donate-today?amount=50",
-"https://secure.winred.com/albert-sommers/donate-today?amount=500",
-"https://voteforalbert.com/",
-"https://voteforalbert.com/about",
-"https://voteforalbert.com/cart",
-"https://voteforalbert.com/contact",
-"https://voteforalbert.com/home",
-"https://voteforalbert.com/issues",
-"https://voteforalbert.com/issues-1",
-"https://voteforalbert.com/the-facts",
-"https://voteforalbert.com/why-run",
-"https://wyoleg.gov/Legislation/2022/SF0051",
-"https://wyoleg.gov/Legislation/2023/HB0116",
-"https://wyoleg.gov/Legislation/2023/SF0133",
-"https://wyoleg.gov/Legislation/2024/HB0092",
-"https://wyoleg.gov/Legislation/2024/SF0009",
-"https://wyoleg.gov/Legislation/2024/SF0077"
+{
+"text": "$100",
+"href": "https://secure.winred.com/albert-sommers/donate-today?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/albert-sommers/donate-today?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/albert-sommers/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/albert-sommers/donate-today?amount=500"
+},
+{
+"text": "-",
+"href": "https://wyoleg.gov/Legislation/2022/SF0051"
+},
+{
+"text": "0",
+"href": "https://www.voteforalbert.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteforalbert.com/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.voteforalbert.com/issues/#agriculture"
+},
+{
+"text": "All Issues",
+"href": "https://www.voteforalbert.com/issues"
+},
+{
+"text": "Back",
+"href": "https://www.voteforalbert.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.voteforalbert.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/albert-sommers/donate-today"
+},
+{
+"text": "Education",
+"href": "https://www.voteforalbert.com/issues/#education"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.voteforalbert.com/issues-1"
+},
+{
+"text": "HB0092",
+"href": "https://wyoleg.gov/Legislation/2024/HB0092"
+},
+{
+"text": "HB0116",
+"href": "https://wyoleg.gov/Legislation/2023/HB0116"
+},
+{
+"text": "Home",
+"href": "https://www.voteforalbert.com/"
+},
+{
+"text": "Home",
+"href": "https://www.voteforalbert.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.voteforalbert.com/issues"
+},
+{
+"text": "Minerals",
+"href": "https://www.voteforalbert.com/issues/#minerals"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/albert-sommers/donate-today"
+},
+{
+"text": "Pro-Life",
+"href": "https://www.voteforalbert.com/issues/#prolife"
+},
+{
+"text": "Protect Girls' Sports",
+"href": "https://www.voteforalbert.com/issues/#sports"
+},
+{
+"text": "Public Lands",
+"href": "https://www.voteforalbert.com/issues/#public-lands"
+},
+{
+"text": "SF0009",
+"href": "https://wyoleg.gov/Legislation/2024/SF0009"
+},
+{
+"text": "SF0077",
+"href": "https://wyoleg.gov/Legislation/2024/SF0077"
+},
+{
+"text": "SF0133",
+"href": "https://wyoleg.gov/Legislation/2023/SF0133"
+},
+{
+"text": "Second Amendment",
+"href": "https://www.voteforalbert.com/issues/#2a"
+},
+{
+"text": "The Facts",
+"href": "https://www.voteforalbert.com/the-facts"
+},
+{
+"text": "VoteForAlbert.com",
+"href": "https://www.voteforalbert.com/"
+},
+{
+"text": "Voter Integrity",
+"href": "https://www.voteforalbert.com/issues/#voter-integrity"
+},
+{
+"text": "Water",
+"href": "https://www.voteforalbert.com/issues/#water"
+},
+{
+"text": "Why Run?",
+"href": "https://www.voteforalbert.com/why-run"
+},
+{
+"text": "[image: Albert Sommers for State House District 20]",
+"href": "https://www.voteforalbert.com/"
+},
+{
+"text": "albert@albertsommers.com",
+"href": "mailto:albert@albertsommers.com"
+}
 ]

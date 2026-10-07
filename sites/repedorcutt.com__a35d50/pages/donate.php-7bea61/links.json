@@ -1,15 +1,58 @@
 [
-"http://lewiscountytribune.com/chehalis.html",
-"http://lewiscountytribune.com/toledo.html",
-"http://repedorcutt.com/achievements.php",
-"http://repedorcutt.com/calendar.php",
-"http://repedorcutt.com/contact.php",
-"http://repedorcutt.com/docs/contribution_form_2014.doc",
-"http://repedorcutt.com/donate.php",
-"http://repedorcutt.com/get-involved.php",
-"http://repedorcutt.com/index.php",
-"http://repedorcutt.com/issues.php",
-"http://repedorcutt.com/meet-ed.php",
-"http://repedorcutt.com/news.php",
-"http://wei.secstate.wa.gov/osos/en/voterinformation/Pages/RegistertoVote.aspx"
+{
+"text": "Achievements",
+"href": "http://www.repedorcutt.com/achievements.php"
+},
+{
+"text": "Calendar",
+"href": "http://www.repedorcutt.com/calendar.php"
+},
+{
+"text": "Contact",
+"href": "http://www.repedorcutt.com/contact.php"
+},
+{
+"text": "Donate",
+"href": "http://www.repedorcutt.com/donate.php"
+},
+{
+"text": "ElectEdOrcutt@kalama.com",
+"href": "mailto:ElectEdOrcutt@kalama.com"
+},
+{
+"text": "Get Involved",
+"href": "http://www.repedorcutt.com/get-involved.php"
+},
+{
+"text": "Home",
+"href": "http://www.repedorcutt.com/index.php"
+},
+{
+"text": "Issues",
+"href": "http://www.repedorcutt.com/issues.php"
+},
+{
+"text": "Meet Ed",
+"href": "http://www.repedorcutt.com/meet-ed.php"
+},
+{
+"text": "News",
+"href": "http://www.repedorcutt.com/news.php"
+},
+{
+"text": "Register toVote",
+"href": "http://wei.secstate.wa.gov/osos/en/voterinformation/Pages/RegistertoVote.aspx"
+},
+{
+"text": "Rural Areas Seek Broadband",
+"href": "http://www.lewiscountytribune.com/chehalis.html"
+},
+{
+"text": "Volunteers Share Love for Toledo",
+"href": "http://www.lewiscountytribune.com/toledo.html"
+},
+{
+"text": "here",
+"href": "http://www.repedorcutt.com/docs/contribution_form_2014.doc"
+}
 ]

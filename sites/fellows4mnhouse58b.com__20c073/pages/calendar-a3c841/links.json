@@ -1,83 +1,514 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Candidates+in+the+Park%21&dates=20260709T220000Z%2F20260710T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fellows+Campaign+Action+Night%21&dates=20260618T231500Z%2F20260619T001500Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Happy+Father%27s+Day%21&dates=20260621T050000Z%2F20260621T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260613T153000Z%2F20260613T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260614T180000Z%2F20260614T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260620T153000Z%2F20260620T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260624T230000Z%2F20260625T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260627T153000Z%2F20260627T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260628T180000Z%2F20260628T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260705T180000Z%2F20260705T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260708T220000Z%2F20260709T000000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260711T153000Z%2F20260711T173000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260712T180000Z%2F20260712T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260718T150000Z%2F20260718T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260719T180000Z%2F20260719T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260725T150000Z%2F20260725T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260726T180000Z%2F20260726T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260801T150000Z%2F20260801T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260802T180000Z%2F20260802T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260808T150000Z%2F20260808T170000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260809T180000Z%2F20260809T200000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Listening+Session%3A+Fellows+and+Legvold%21&dates=20260701T220000Z%2F20260702T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rambling+River+Pavilion&dates=20260610T220000Z%2F20260611T010000Z",
-"http://maps.google.com/?q=Farmington+Library",
-"https://docs.google.com/forms/d/e/1FAIpQLSfHtGUDVDnpMpqvHvvbb0ZpniumMhu52NyP_x52nXZi0vUXOw/viewform?usp=header",
-"https://facebook.com/EdFellowsForMNHouse58B",
-"https://facebook.com/events/1026946353194281?rdid=Cw8m7ekZMAHmcLBh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DSmBWEuHk%2F",
-"https://fellows4mnhouse58b.com/",
-"https://fellows4mnhouse58b.com/calendar/actionnight418",
-"https://fellows4mnhouse58b.com/calendar/actionnight418?format=ical",
-"https://fellows4mnhouse58b.com/calendar/candidates-in-the-park",
-"https://fellows4mnhouse58b.com/calendar/candidates-in-the-park?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass620",
-"https://fellows4mnhouse58b.com/calendar/canvass620?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass624",
-"https://fellows4mnhouse58b.com/calendar/canvass624?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass627",
-"https://fellows4mnhouse58b.com/calendar/canvass627?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628-wmp8j?format=ical",
-"https://fellows4mnhouse58b.com/calendar/canvass628?format=ical",
-"https://fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy",
-"https://fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n",
-"https://fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n?format=ical",
-"https://fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy?format=ical",
-"https://fellows4mnhouse58b.com/calendar/happy-fathers-day",
-"https://fellows4mnhouse58b.com/calendar/happy-fathers-day?format=ical",
-"https://fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold",
-"https://fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold?format=ical",
-"https://fellows4mnhouse58b.com/calendar/rambling-river-pavilion",
-"https://fellows4mnhouse58b.com/calendar/rambling-river-pavilion?format=ical",
-"https://fellows4mnhouse58b.com/cart",
-"https://fellows4mnhouse58b.com/contact",
-"https://fellows4mnhouse58b.com/gallery-1-1",
-"https://fellows4mnhouse58b.com/getinvolved",
-"https://fellows4mnhouse58b.com/meeted",
-"https://fellows4mnhouse58b.com/priorities",
-"https://secure.actblue.com/donate/fellows4mnhouse58b"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=farmington+library"
+},
+{
+"text": "0",
+"href": "https://www.fellows4mnhouse58b.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.fellows4mnhouse58b.com/meeted"
+},
+{
+"text": "Candidates in the Park!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/candidates-in-the-park"
+},
+{
+"text": "Contact",
+"href": "https://www.fellows4mnhouse58b.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fellows4mnhouse58b"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fellows4mnhouse58b.com/gallery-1-1"
+},
+{
+"text": "Fellows Campaign Action Night!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/actionnight418"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fellows4mnhouse58b.com/getinvolved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Candidates+in+the+Park%21&dates=20260709T220000Z%2F20260710T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fellows+Campaign+Action+Night%21&dates=20260618T231500Z%2F20260619T001500Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Happy+Father%27s+Day%21&dates=20260621T050000Z%2F20260621T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260613T153000Z%2F20260613T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260614T180000Z%2F20260614T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260620T153000Z%2F20260620T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260624T230000Z%2F20260625T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us%21&dates=20260627T153000Z%2F20260627T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260628T180000Z%2F20260628T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260705T180000Z%2F20260705T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260708T220000Z%2F20260709T000000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260711T153000Z%2F20260711T173000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260712T180000Z%2F20260712T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260718T150000Z%2F20260718T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260719T180000Z%2F20260719T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260725T150000Z%2F20260725T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260726T180000Z%2F20260726T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260801T150000Z%2F20260801T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260802T180000Z%2F20260802T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260808T150000Z%2F20260808T170000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Knock+Doors+with+Us&dates=20260809T180000Z%2F20260809T200000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Listening+Session%3A+Fellows+and+Legvold%21&dates=20260701T220000Z%2F20260702T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rambling+River+Pavilion&dates=20260610T220000Z%2F20260611T010000Z"
+},
+{
+"text": "Happy Father's Day!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/happy-fathers-day"
+},
+{
+"text": "Home",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/actionnight418?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/candidates-in-the-park?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass620?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass624?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass627?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/happy-fathers-day?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.fellows4mnhouse58b.com/calendar/rambling-river-pavilion?format=ical"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc"
+},
+{
+"text": "Knock Doors with Us",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw"
+},
+{
+"text": "Knock Doors with Us!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass620"
+},
+{
+"text": "Knock Doors with Us!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass624"
+},
+{
+"text": "Knock Doors with Us!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass627"
+},
+{
+"text": "Knock Doors with Us!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy"
+},
+{
+"text": "Knock Doors with Us!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n"
+},
+{
+"text": "Listening Session: Fellows and Legvold!",
+"href": "https://www.fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold"
+},
+{
+"text": "Priorities",
+"href": "https://www.fellows4mnhouse58b.com/priorities"
+},
+{
+"text": "Rambling River Pavilion",
+"href": "https://www.fellows4mnhouse58b.com/calendar/rambling-river-pavilion"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/actionnight418"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/candidates-in-the-park"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass620"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass624"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass627"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/happy-fathers-day"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold"
+},
+{
+"text": "View Event →",
+"href": "https://www.fellows4mnhouse58b.com/calendar/rambling-river-pavilion"
+},
+{
+"text": "[image: Candidates in the Park!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/candidates-in-the-park"
+},
+{
+"text": "[image: Fellows Campaign Action Night!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/actionnight418"
+},
+{
+"text": "[image: Fellows for District 58B ]",
+"href": "https://www.fellows4mnhouse58b.com/"
+},
+{
+"text": "[image: Happy Father's Day!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/happy-fathers-day"
+},
+{
+"text": "[image: Knock Doors with Us!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass620"
+},
+{
+"text": "[image: Knock Doors with Us!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass624"
+},
+{
+"text": "[image: Knock Doors with Us!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass627"
+},
+{
+"text": "[image: Knock Doors with Us!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy"
+},
+{
+"text": "[image: Knock Doors with Us!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/event-one-rg2bh-mx2wm-n4gdy-8ky2n"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc"
+},
+{
+"text": "[image: Knock Doors with Us]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/canvass628-wmp8j-r6ald-sjrc4-rtle7-cdd8l-lshph-p7jx8-9lz6e-lref5-e4hht-md6tc-kl9bw"
+},
+{
+"text": "[image: Listening Session: Fellows and Legvold!]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/listening-session-fellows-and-legvold"
+},
+{
+"text": "[image: Rambling River Pavilion]",
+"href": "https://www.fellows4mnhouse58b.com/calendar/rambling-river-pavilion"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EdFellowsForMNHouse58B"
+},
+{
+"text": "here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfHtGUDVDnpMpqvHvvbb0ZpniumMhu52NyP_x52nXZi0vUXOw/viewform?usp=header"
+},
+{
+"text": "here",
+"href": "https://www.facebook.com/events/1026946353194281/?rdid=Cw8m7ekZMAHmcLBh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1DSmBWEuHk%2F"
+}
 ]

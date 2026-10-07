@@ -1,5 +1,4 @@
-Meet Rhonda
-Rhonda Shader is a results-driven leader with a proven record of fixing problems, protecting taxpayers, and strengthening her community.
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE Meet Rhonda Rhonda Shader is a results-driven leader with a proven record of fixing problems, protecting taxpayers, and strengthening her community.
 First elected to the Placentia City Council in 2016 and serving two terms as Mayor, Rhonda didn’t just talk about reform, she delivered it.
 She launched Placentia’s first-ever independent Fire Department, cut wasteful spending, improved emergency response, and saved the city over $28 million, all while safeguarding a critical public service for residents.
 A champion for fiscal responsibility, Rhonda implemented common-sense budgeting and long-term financial planning that set a new standard for accountability and transparency.
@@ -18,3 +17,4 @@ She holds a Bachelor’s Degree in Management from the University of Phoenix and
 Rhonda lives in Placentia with her husband of 25 years, Frank.
 They are proud parents of two adult children and loving grandparents to their granddaughter.
 With a track record of bold reforms, real results, and unmatched integrity, Rhonda Shader is the proven leader Californians can count on.
+DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

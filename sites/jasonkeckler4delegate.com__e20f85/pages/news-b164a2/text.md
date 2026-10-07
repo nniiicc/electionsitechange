@@ -1,21 +1,6 @@
-Campaign Highlights
-Follow Jason’s journey with the campaign through local news and happenings.
-News & Updates
-8-6-25 Jason files paperwork to run as a Republican candidate for MD House Delegates in District 4.
-Wheels in Motion
-Retired Frederick police officer to run for MD State Delegate
-District 4 candidates form new GOP team
-WFMD Interview
-The Last of the Good Ole
-Boys Podcast
-Keckler focuses on public safety, affordability, in District 4 delegate race.
-Firefighters Endorse Keckler
-Fraternal Order of Police
-Endorse Keckler
-Sign Distribution - on the Campaign Trail
-Sign Distribution
-Sign Distribution
-Team Photo Leading into the Primary
-Thank you for your support — on to the General Election
-John’s House Podcast
-The Bunkroom Chats Podcast
+0 Skip to Content Jason Keckler for Maryland Meet Jason Issues Take Action Connect News Events Donate Open Menu Close Menu Jason Keckler for Maryland Meet Jason Issues Take Action Connect News Events Donate Open Menu Close Menu Meet Jason Issues Take Action Connect News Events Donate Campaign Highlights Follow Jason’s journey with the campaign through local news and happenings.
+News & Updates 8-6-25 Jason files paperwork to run as a Republican candidate for MD House Delegates in District 4.
+Wheels in Motion Retired Frederick police officer to run for MD State Delegate Read Article District 4 candidates form new GOP team Read Article WFMD Interview Listen Now The Last of the Good Ole Boys Podcast Listen Now Keckler focuses on public safety, affordability, in District 4 delegate race.
+Read Article Firefighters Endorse Keckler View Post Fraternal Order of Police Endorse Keckler View Post Sign Distribution - on the Campaign Trail View Post Sign Distribution View Post Sign Distribution View Post Team Photo Leading into the Primary View Post Thank you for your support — on to the General Election View Post John’s House Podcast Listen Now The Bunkroom Chats Podcast Listen Now Learn More Meet Jason Issues Take Action Connect News Events Home Follow LinkedIn Facebook Jason Keckler for Maryland P.O.
+Box.
+13 Walkersville, MD 21793 By Authority Friends of Jason Keckler; Crystal Keckler, Treasurer Site Development by Create-a-Pulse Marketing

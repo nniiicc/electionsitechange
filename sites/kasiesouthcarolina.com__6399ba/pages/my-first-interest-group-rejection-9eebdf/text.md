@@ -1,15 +1,13 @@
-One of the recommendations I make to my students as they’re graduating and looking for jobs is to join the professional organizations that are relevant to their employment.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now My First Interest Group Rejection One of the recommendations I make to my students as they’re graduating and looking for jobs is to join the professional organizations that are relevant to their employment.
 I was a member of the Association of Talent Development when I was a corporate trainer and the South Carolina Writers Association when I published my novels.
 Professional organizations offer professional development, networking, and other advantages to your career.
 And some are engaged in political advocacy.
 Since filing for office in March, I have received a dozen surveys from various groups asking for my opinion on a range of issues.
 These are special interest groups built to focus on the education and advocacy of specific issues.
-Some are watch dogs, or non-partisan groups that want to reform our systems for equal access:
-- The League of Women Voters asked me about my willingness to protect voter access.
-- Better Ballot SC asked about my willingness to advance ballot reform in the manner of instant runoff voting.
-Some other organizations have very specific political agendas:
-- Moms Demand Action asked me about my willingness to support legislation limiting access to firearms.
-- STARRS (Stand Together Against Racism and Radicalism in the Services) asked if I would support or oppose DEI programs.
+Some are watch dogs, or non-partisan groups that want to reform our systems for equal access: The League of Women Voters asked me about my willingness to protect voter access.
+Better Ballot SC asked about my willingness to advance ballot reform in the manner of instant runoff voting.
+Kasie speaking at DKG Legislative Day in October 2025 Some other organizations have very specific political agendas: Moms Demand Action asked me about my willingness to support legislation limiting access to firearms.
+STARRS (Stand Together Against Racism and Radicalism in the Services) asked if I would support or oppose DEI programs.
 Some other organizations are the professional associations I mentioned above, and the South Carolina REALTORS candidate screening committee was one of those.
 I completed a survey for them and when they didn’t invite me for an interview, I reached out and requested one.
 It did not go well.
@@ -26,9 +24,7 @@ This is government intervention that distorts the market.
 If the loans purchased by Fannie Mae and Freddie Mac default – meaning the homeowner can’t pay – the Treasury makes the payment so the lender doesn’t lose money.
 If that sounds like taxpayers funding banks, that’s because it is.
 And now, with the inventory problem spawned by decades of underbuilding and the 2020 supply chain disruptions, local regulations limiting multi-family home development, and the burdensome requirements of economic impact legislation, we have a housing shortage.
-Add to that the interest rates that are higher than anyone wants them to be, and strict lending regulations that want to ensure only people who can pay back the loan are given one, and it’s hard to sell houses.
-(US Chamber of Commerce Analysis resource.)
-Would I support legislation that makes it easier for first-time home buyers?
+Add to that the interest rates that are higher than anyone wants them to be, and strict lending regulations that want to ensure only people who can pay back the loan are given one, and it’s hard to sell houses. ( US Chamber of Commerce Analysis resource. ) Would I support legislation that makes it easier for first-time home buyers?
 First time homebuyers need three things: 1) a down payment, 2) a budget, and 3) a right-sized property they can afford.
 I support reducing the national debt so that we stop the erosion of our currency and make it easier for new home buyers to save.
 I support reducing taxes on social security and encouraging tax-deferred savings accounts so that workers can save their money toward big investments like education and home ownership.
@@ -90,3 +86,13 @@ So let’s do something about it.
 Ready to get in the game?
 We could use your help.
 Complete the form below.
+3 Responses Ralph C Goodman says: May 19, 2026 at 1:21 pm If elected to the Senate would you become a trump lackey.
+I am 85 and have voted for most Republicans since I could vote but I am NOT a trump supporter.
+Reply kasiesc says: May 23, 2026 at 2:04 pm Hi, Ralph.
+While I think there have been some good policies in this administration, I am not a blind supporter of any individual politician.
+I will work for what’s best for South Carolina.
+I promise to stand up for what’s right, honest, and best for our country, always.
+Thanks for visiting my page and I hope to earn your support.
+Kasie Reply Pingback: We Cannot Replace Senator Graham - Kasie South Carolina Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

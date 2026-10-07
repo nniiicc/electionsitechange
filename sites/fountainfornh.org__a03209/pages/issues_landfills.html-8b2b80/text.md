@@ -1,3 +1,4 @@
+Home Candidate Issues For the people of Coös County & Northern Grafton County Speaking out on landfills ...
 We all generate trash, and we all need safe, affordable places to put it.
 But because of legitimate concerns about leachate, PFAS, methane, and other landfill gases, New Hampshire needs stronger and more effective oversight of how landfills are managed today.
 NH DES has been clear — and correct — that burying trash is the least preferable option, after reduction, recycling, incineration, and other waste management strategies.
@@ -15,4 +16,7 @@ New Hampshire needs clear, enforceable criteria in law for when and how a new la
 This issue is too complex, and the consequences too long lasting, to ignore.
 I will work with fellow legislators and environmental professionals to establish the right criteria for all existing and potential landfills in New Hampshire.
 This is a bipartisan problem that requires a bipartisan solution.
-And I encourage residents to review recent reporting on the Bethlehem landfill — a reminder of what happens when oversight falls short and why proper management is not optional
+And I encourage residents to review recent reporting on the Bethlehem landfill — a reminder of what happens when oversight falls short and why proper management is not optional State Says Casella Fell Short On Preventing Major Landfill Leachate Spill In Bethlehem, N.H. | New Hampshire Public Radio (nhpr.org) Proposed Dalton landfill denied by DES Activists have blocked the Dalton Landfill.
+Why are they still fighting the deal?
+Lawsuit over the Landfill Denial is in the hands of a Judge!
+Back to top DONATE Paid for by Cathleen Fountain For NH Cathleen Fountain, Candidate 8 Rooney Rd, Dalton, NH (603) 998-8358

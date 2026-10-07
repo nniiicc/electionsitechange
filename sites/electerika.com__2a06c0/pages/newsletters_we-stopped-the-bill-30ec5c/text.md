@@ -1,6 +1,8 @@
-We Stopped the Bill.
-We Stopped
-the Bill.
+Skip to main content Fighting for you.
+Join the movement.
+Donate Volunteer Democratic Primary · Sept 1, 2026 Meet Erika Platform Newsletter Donate Meet Erika Platform Newsletter Endorsements Get Involved Donate Newsletter · July 1, 2026 We Stopped the Bill.
+The utilities wrote the first draft.
+Because the process was finally visible, we stopped it and rewrote it. ͏‌ ͏‌ ͏‌ ͏‌ ͏‌ The Energy Bill · Campaign Update We Stopped the Bill.
 The utilities wrote the first draft.
 Because every vote is now public, we rewrote it.
 For-profit utility companies have been getting away with driving up your energy bills for years.
@@ -14,7 +16,7 @@ Once the decisions are made, a bill moves through the legislature so fast that e
 That is how it has always worked.
 Until we made every vote public.
 That's why I led the campaign for transparency and why our win for transparency has completely shifted what is possible on Beacon Hill.
-Last fall, an energy bill emerged on Beacon Hill that read like the utilities wrote it themselves.
+We Stopped the Bill Last fall, an energy bill emerged on Beacon Hill that read like the utilities wrote it themselves.
 It pulled back our climate commitments at the very moment the federal government abandoned its own, taxed ratepayers to build new pipelines, and handed Eversource and National Grid more of what they wanted.
 With Washington actively hostile to climate action, the responsibility falls squarely on states like ours, and this bill chose retreat.
 It was publicly supported by the most powerful lawmakers in the building, and in the old days it would have become law before anyone outside the State House had read it.
@@ -22,7 +24,7 @@ Instead, something happened that I have never seen in my nearly 10 years working
 Because the process was finally visible, climate justice activists across the state sounded the alarm while the bill was still moving.
 A core caucus of legislators unwilling to accept this broken status quo pushed on the inside.
 And we stopped this bill in the middle of the rapid legislative process.
-Stopping it was only the beginning.
+What We Won Stopping it was only the beginning.
 Alongside allies and activists, I have been working to transform that first draft into a bill we can be proud of, which means removing every poison pill that hands the utilities more profits with no guardrails to lower energy bills for the rest of us.
 On the House floor, I filed an amendment to strike a one billion dollar cut to Mass Save, the program that returns three dollars in savings for every dollar invested.
 A family that insulates their home pays less every month for as long as they live there.
@@ -35,18 +37,24 @@ The public's right to vote on new nuclear plants is preserved.
 Our climate commitments remain intact.
 And the gas pipeline program that has quietly cost ratepayers $6.2 billion, buried inside those delivery charges you have been paying for a decade, is finally being wound down.
 This bill has improved in a direction far better than we could have imagined when the first draft was being rushed through the legislature, and I am so grateful for the work all of us have put in to make that possible.
-The work is not done.
+The Work Ahead The work is not done.
 The House and Senate versions now go to a conference committee, and every provision stays on the table until the final bill is signed.
 Starting next week, I will share a multipart newsletter series on what is at stake for lowering our energy bills and confronting the climate crisis, and what we can all do about it.
-We are less than two months from election day, and this campaign runs on people, not utility money.
+How You Can Help We are less than two months from election day, and this campaign runs on people, not utility money.
 If you can, please chip in $10 or $25 today to keep us knocking doors across Somerville, Cambridge, Medford, and Winchester.
-Follow on Instagram · Follow on Bluesky
-Wishing you and your family a joyful and safe Fourth of July weekend.
-With gratitude,
-Erika Uyterhoeven
-State Representative, 27th Middlesex
-Candidate, State Senate, 2nd Middlesex District
-Facebook · Instagram · Bluesky
-Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA
-Contributions are not tax-deductible · $1,000 max per individual per calendar year
-Unsubscribe | Manage Preferences
+Chip In Today → Follow on Instagram · Follow on Bluesky Wishing you and your family a joyful and safe Fourth of July weekend.
+With gratitude, Erika Uyterhoeven State Representative, 27th Middlesex Candidate, State Senate, 2nd Middlesex District Facebook · Instagram · Bluesky Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year Unsubscribe | Manage Preferences ← All Newsletters Stay Connected Get the next one in your inbox.
+Subscribe to Erika's newsletter.
+Donate Now Volunteer Fighting for you in Somerville, Medford, Cambridge, and Winchester.
+Learn Meet Erika Platform Endorsements Newsletters Act Volunteer Donate Vote Press Endorse Erika Instagram Call or text Erika: (857) 264-1096 Email: erika@electerika.com Paid for by Committee to Elect Erika Uyterhoeven · Somerville, MA Contributions are not tax-deductible · $1,000 max per individual per calendar year · Privacy Policy × Join the movement Your rent.
+Your energy bill.
+Your kids' school.
+Know what's really happening.
+Every week I break down the contracts, the votes, and the deals that affect your life, and who is responsible.
+Two emails.
+No press releases.
+Count me in ✓ You're in.
+Welcome to the fight.
+No spam.
+Unsubscribe anytime.
+We never share your email.

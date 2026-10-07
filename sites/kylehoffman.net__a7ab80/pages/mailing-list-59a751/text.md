@@ -1,3 +1,3 @@
-Donate
-Contact Us
-Share by:
+Home About Kyle Principles Achievements Mailing List Donate Get in touch 555-555-5555 mymail@mailservice.com Donate Home About Kyle Principles Achievements Mailing List Donate Sign up to receive news and updates Name Email Phone Business Name Address City State Zip Comments Thank you for joining Kyle Hoffman's mailing list.
+Oops, there was an error sending your submission.
+Please try again later Donate Contact Us Representative Kyle Hoffman Kansas House of Representatives, District 116 Paid for by Hoffman for State Representative — Stephen Hokanson, Treasurer District office: 1318 Avenue T • Coldwater, KS 67029 • 620-582-2217 Topeka office: Kansas Capital Building, Rm 481-W • Topeka, KS 66612 • 785-296-7643 Share by:

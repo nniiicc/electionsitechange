@@ -1,5 +1,4 @@
-END OF SESSION REPORT
-As I look back on my time this session.
+0 Skip to Content Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home About Me My Story Core Issues Events Thoughts + Updates Services Open Menu Close Menu Home Folder: About Me Back My Story Core Issues Events Thoughts + Updates Services END OF SESSION REPORT As I look back on my time this session.
 I’m humbled to have this opportunity to represent the community during this transitional time.
 I want to take a moment to say thank you for all your feedback, thoughts, and encouragement, kindness, and wisdom.
 It helped make this first session easier to understand more specifically what our community’s values and needs are.
@@ -15,8 +14,8 @@ So this will need analysis from the Joint Fiscal Office to better understand wha
 The foundation formula is designed to balance spending throughout the state to achieve educational equity while considering cost factors like rurality and special educational needs.
 We also have a State Constitutional mandate to deliver an evidence based, equitable education for each and every student in Vermont regardless of their means, ability, or location.
 I look forward to the conferees crafting a bill that does just that, by keeping support for our public schools with a funding structure that crafts and implements the creative, hands-on, exploratory education Vermont’s students are craving.
-HOW WE GOT HERE
-The House passed H. 454 our version of the education bill, with very diligent work on the part of all committees, we crafted a bill that aims to balance property taxes with student, family, and community needs.
+HOW WE GOT HERE The House passed H.
+454 our version of the education bill, with very diligent work on the part of all committees, we crafted a bill that aims to balance property taxes with student, family, and community needs.
 Our bill proposes a predictable foundation formula to help stabilize the tax system.
 It also offers important provisions for community input regarding small schools.
 It seeks to find community driven solutions that encourage lifelong learning, community care, and local vibrancy.
@@ -26,9 +25,7 @@ These issues have a long way to go both in the coming sessions to create and int
 Vermont is a particular state with families that live in very rural areas.
 We need to build a responsive system that ensures they get a fair education too.
 Every young person deserves an education that sets them up for a thriving future and I believe we will get there.
-COMMERCE AND ECONOMIC DEVELOPMENT COMMITTEE HIGHLIGHTS
-CAREER TECHNICAL EDUCATION (CTE) + ADULT EDUCATION
-The Commerce and Economic Development Committee took a close look at Career Technical Education.
+COMMERCE AND ECONOMIC DEVELOPMENT COMMITTEE HIGHLIGHTS CAREER TECHNICAL EDUCATION (CTE) + ADULT EDUCATION The Commerce and Economic Development Committee took a close look at Career Technical Education .
 We’re working to improve access to these programs while reducing competition for funding and resources between sending schools and CTE centers.
 As we continue to work on the State’s comprehensive education transformation, we are looking at the Governor’s proposal for a single CTE district that would oversee the statewide CTE centers.
 There continue to be challenges in integrating CTE into the education transformation plan.
@@ -48,10 +45,10 @@ CTE is a valuable teaching style that combines hands-on learning and academic st
 CTE can be employed throughout our education system.
 Not just for the trades like construction or advanced manufacturing but also for the medical professionals, accountants, computer programmers and educators that our state so desperately needs.
 I believe that this will unify the education system, diminish needless stigma, while allowing us to reach the scale we need to stabilize the property tax system.
-DATA PRIVACY + ONLINE PROTECTION
-Trigger Warning: this sections makes reference to self harm and sexual violence.
+DATA PRIVACY + ONLINE PROTECTION Trigger Warning : this sections makes reference to self harm and sexual violence.
 Please take care when reading.
-In one of my proudest moments my committee, Commerce and Economic Development worked on and successfully passed S. 69 the Age Appropriate Design Code which protects young people online by limiting the predatory, addictive design features that keep our youth’s attention on their devices, leading them to a relentless on slot of dangerous content.
+In one of my proudest moments my committee, Commerce and Economic Development worked on and successfully passed S.
+69 the Age Appropriate Design Code which protects young people online by limiting the predatory, addictive design features that keep our youth’s attention on their devices, leading them to a relentless on slot of dangerous content.
 Online platforms and services use additive design tactics seen in the gambling industry to keep kids hooked on their screens.
 These addictive design features feed their brains with an unceasing stream of sexually explicit material, self harm content, and abject violence even when they are searching for positive uplifting content.
 Instant recommendation and friend requests have led young people into the arms of predators resulting in real world instances of bullying, rape, and suicide.
@@ -69,18 +66,17 @@ Our young people are left with weak protections that shifts the blame on to care
 We know the harms that are being caused by this underregulated online industry.
 In our work as a body we strive to ensure our young people have the brightest future possible.
 All that work is for not if our kids are lured into attention robbing practices designed to erode their motivation and imagination.
-S. 69 is currently on the Governor’s desk awaiting signature.
+S.
+69 is currently on the Governor’s desk awaiting signature.
 The lobbyist are working to the last minute to get him to not sign it.
 If this issue is important to you, be sure to let him know.
-ONE MORE THING
-Also as adult users of the internet we are all one careless or curious click away from having our most personal information available to malevolent actors.
+ONE MORE THING Also as adult users of the internet we are all one careless or curious click away from having our most personal information available to malevolent actors.
 The Commerce Committee continues work to strengthen our state’s privacy protections for all citizens while maintaining smooth business function, particularly for our small businesses.
 Our goal is to ensure that our private information stays private and is not available to data brokers to bundle for sale to just any interested entity.
 For example, in less than 5 minutes and for under a dollar, a committee member was able to access the detailed personal information of another committee member.
 These implications are alarming if this information were to be in the hands of a malicious actor.
 We have a duty to protect Vermont.
-TRADE
-The Committee was joined by the delegation from Quebec for Tourism Economy Day earlier this session to talk about how tariffs and negative rhetoric coming out of Washington are affecting trade of our Vermont businesses with our Canadian partners.
+TRADE The Committee was joined by the delegation from Quebec for Tourism Economy Day earlier this session to talk about how tariffs and negative rhetoric coming out of Washington are affecting trade of our Vermont businesses with our Canadian partners.
 While the tariffs are paused, we heard that the uncertainty and disrespectful sentiments alone coming from the federal administration has caused real economic and community harm.
 Beyond trade we’re talking about the real relationships, friendships and family that are affected by this negative landscape.
 Tourism Day showed that we are committed to repairing and strengthening our relationship with our neighbors to the north.
@@ -94,9 +90,7 @@ Tottori is the most rural and one of the least populated areas of Japan.
 There is a lot we can learn from one another about sustaining rural economies.
 While Vermont does have an International Business Office, we do not have a formal sister city program at the state level.
 A taskforce has been appointed to create a formal framework to nurture our international relationships and cultural exchange through formalized sister city program.
-ADDITIONAL WORK THIS SESSION
-HOUSING, WORKFORCE DEVELOPMENT + HOUSING
-As we work to grow and strengthen our community we find ourselves facing strong headwinds in the housing sector.
+ADDITIONAL WORK THIS SESSION HOUSING, WORKFORCE DEVELOPMENT + HOUSING As we work to grow and strengthen our community we find ourselves facing strong headwinds in the housing sector.
 We’re at the point where we need hosing to build housing.
 This session, in the legislature, we worked to place Vermont on track to face these challenges and come out stronger.
 We passed S.127, a bill that supports our current housing programs and will enable us to develop and repair the infrastructure we need in order to build the critical housing we so desperately need.
@@ -107,10 +101,11 @@ This bill includes continued support for small business development.
 The bill also outlines the duties of the commissioner of the Dept of Labor and the Executive Director of the Office of Workforce Strategy and Development.
 With the goals of aligning Vermonts workforce training programs.
 This will also identify the areas of overlap and give Vermonters a betters understanding of the available opportunities.
-We worked hard to pass healthcare reform bills aimed at creating a more efficient delivery system by modernizing technology and rule making as well as rebalancing hospital finance by allowing more flexibility in how the Green Mountain Care Board can adjust hospital budgets with S. 63 and insurance with S. 30.
+We worked hard to pass healthcare reform bills aimed at creating a more efficient delivery system by modernizing technology and rule making as well as rebalancing hospital finance by allowing more flexibility in how the Green Mountain Care Board can adjust hospital budgets with S.
+63 and insurance with S.
+30 .
 These changes have the goal of returning more healthcare value to Vermonters.
-GOING FORWARD
-I had the privilege to learn a great deal this session.
+GOING FORWARD I had the privilege to learn a great deal this session.
 Getting to experience law making first hand is something that I’ll never forget.
 Having a deeper understanding of what it takes to get traction for any idea let alone a good idea has made me have a greater appreciation for all the folks in the community who are so committed to ensuring Vermont’s future.
 Going forward I am redoubling my efforts on rural public safety.
@@ -131,6 +126,7 @@ It is critical that the small business community is supported as we move forward
 With the shifts coming from the federal government, I’m looking out for how we come into our power as Vermonters.
 I’m looking for a way to invest in us so that we come out stronger on the other side.
 It is an honor to serve you.
-In Service and Gratitude,
-Rep.
-Emily Carris Duncan
+In Service and Gratitude, Rep.
+Emily Carris Duncan Donate Wilmington.
+Whitingham.
+Halifax

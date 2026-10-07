@@ -1,7 +1,5 @@
-Prioritizing the needs of
-everyday Ohioans
-We share a lot more in common than partisan politics would have us believe.
-- Serving as a precinct election official has been one of the most rewarding and illuminating experiences of my life.
+0 Skip to Content Priorities About Volunteer Contact DONATE Open Menu Close Menu Priorities About Volunteer Contact DONATE Open Menu Close Menu Priorities About Volunteer Contact DONATE Prioritizing the needs of everyday Ohioans We share a lot more in common than partisan politics would have us believe.
+Protecting the Integrity of Voting Systems Serving as a precinct election official has been one of the most rewarding and illuminating experiences of my life.
 I have seen first-hand the sanctity with which our boards of elections execute free and fair elections.
 It can be a source of pride for all of us.
 However, when we empower elected officials and not citizens to draw the state’s electoral maps, politicians are essentially choosing their voters.
@@ -9,7 +7,7 @@ Partial voting districts are not a true representation of an area, leading the v
 For example, this district I want to represent—District 31—includes five counties that span northeast to southeast Ohio, including part of Appalachia.
 It slices two of the counties into different districts and excludes contiguous, neighboring counties.
 As your next State Senator, I will prioritize impartial, citizen-led voting districts.
-- For the past 30 years, the elected majority in the Ohio Statehouse has favored a “business-friendly” tax policy—incentives, loopholes and abatements for corporations, as well as tax breaks for the wealthiest among us.
+Fair & Accountable Taxation For the past 30 years, the elected majority in the Ohio Statehouse has favored a “business-friendly” tax policy—incentives, loopholes and abatements for corporations, as well as tax breaks for the wealthiest among us.
 This policy has resulted in Ohio losing out on billions of tax revenue annually, causing the share of everyday Ohioans’ taxes to increase and our communities scrambling to find funding.
 When the state’s share of paying for local government services and infrastructure is low, the burden falls on local municipalities and citizens to cover the costs.
 As a result, public schools, libraries, children’s services, health departments and other community service organizations are left with no choice but to pass levies to make up the lack of state funding.
@@ -23,7 +21,7 @@ And while they are essential to our daily lives, taxes don’t have to be so one
 INCOME TAXES Ohio is compounding its lack of tax revenue with a recent policy change to a flat tax of 2.75% for all Ohioans.
 Prior to this change, Ohio had a progressive income tax.
 As your next State Senator, I will prioritize closing the corporate loopholes that increase taxes on everyday Ohioans and leave our local communities under-supported and underfunded.
-- Strong public schools are the foundation of strong communities.
+Strengthening & Investing in Public Schools Strong public schools are the foundation of strong communities.
 Equal access to schools that inspire a love of learning while developing the strategic thinking and social skills needed to become good neighbors and citizens is crucial to a thriving democratic society.
 However, many districts are financially struggling, impacting their ability to provide high-quality education to our students in a safe environment.
 That’s not fair to our kids or educators.
@@ -37,7 +35,7 @@ The statehouse budget fell incredibly short, just $250 million and leaving distr
 Additionally, other sources of funding for public education are being shortchanged, most notably from corporations building pipelines through our communities who promised money to local districts and haven’t followed through.
 And last year’s House Bill 335 dealt yet another blow to school funding by eliminating inside (unvoted) millage to go to public schools, increasing the need for voted levies.
 As your next State Senator, I will prioritize adequately funding the true cost of educating each student in our district, and I will hold corporations accountable for the taxes they owe.
-- The state of our economy is a lot more nuanced than what the S&P and DOW tell us each day.
+Affordable, High-Quality Health Care, Dependent Care & Housing The state of our economy is a lot more nuanced than what the S&P and DOW tell us each day.
 How everyday people are doing in their everyday lives is a much better indicator of whether an economy is working for the majority.
 Can they afford the basics—food, utilities, healthcare, housing, dependent care, transportation?
 Can they find gainful employment without even one of those basics?
@@ -51,7 +49,7 @@ As your next State Senator, I will prioritize statewide initiatives that increas
 DEPENDENT CARE Our rural district faces a shortage of options for adequate dependent care that is safe, reliable, and affordable.
 This leaves so many of us in the position of choosing between employment opportunities for ourselves and providing care for our loved ones, whether they are our children, our elders or both.
 As your next State Senator, I will prioritize policies that support dependent caregivers and strengthen the quality and affordability of caregiver providers.
-- Independent, family farms have defined our area and its way of life since before voting districts even existed.
+Supporting & Preserving the Heritage of Local, Family Farms Independent, family farms have defined our area and its way of life since before voting districts even existed.
 We are incredibly fortunate to have miles and miles of prime farmland with some of the richest soil in the country.
 We are also incredibly fortunate to have generations of hard-working people who are dedicated to sustaining our civilization.
 Today’s farmers face an ever-changing landscape of challenges.
@@ -65,5 +63,8 @@ We deserve elected leaders who will put party politics aside to make our lives a
 This is what I’ve been hearing from Ohioans across our district, whether they live in the more rural parts or the small cities and towns within them.
 Thirty years of Statehouse policy that favors corporations is not trickling down to us, and we need more voices to call it out.
 We need leaders who will prioritize policy that benefits the common good.
-Honesty, Integrity, Straight Talk
-I believe in doing things differently—with community at the center of it all.
+Honesty, Integrity, Straight Talk I believe in doing things differently—with community at the center of it all.
+Voters should choose their representatives, not the other way around Our farmers need a leader who will support and preserve the future of family farming in Ohio Our kids, educators, and communities deserve fully funded public schools without higher property taxes Strong local economies depend on access to safe, affordable, high-quality childcare Ohioans should be able to rely on state leaders to ensure access to quality, affordable healthcare Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Receive Campaign Updates First Name Last Name Email Address Sign Up Thank you!
+Laura@SirotForOhio.org ‍ ‍ Paid for by Laura Sirot for Ohio

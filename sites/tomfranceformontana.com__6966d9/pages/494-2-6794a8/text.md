@@ -1,12 +1,9 @@
-The job description of a legislator involves two fundamental elements.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate notes of a freshman legislator By Tom France / December 23, 2020 The job description of a legislator involves two fundamental elements.
 The first is about crafting legislation, debating bills and finally voting, yea or nay.
 The second and equally important element concerns representing voters, listening to their concerns and educating them on the issues of the day.
 One of the most important issues confronting the 2021 Legislature is how we will meet during a pandemic.
 I drafted this op-ed for the Missoula County Democratic legislative caucus to explain our deep concerns with how the Republican majority is ignoring the best scientific advice on how to keep legislators, state employees and citizen safe during the legislative session.
-Missoula Democratic Legislative Delegation Op-ed
-12/23/20
-MONTANANS NEED COVID-19 SAFEGUARDS AT THE 202A LEGISLATURE
-As Democratic members of the Montana House of Representatives and the Montana Senate, we have all been working hard to prepare for the upcoming legislative session that will convene in Helena on January 4 2021.
+Missoula Democratic Legislative Delegation Op-ed 12/23/20 MONTANANS NEED COVID-19 SAFEGUARDS AT THE 202A LEGISLATURE As Democratic members of the Montana House of Representatives and the Montana Senate, we have all been working hard to prepare for the upcoming legislative session that will convene in Helena on January 4 2021.
 This preparation, however, has been warped by some Republican legislators that are pushing to turn the Legislature into a COVID-19 super spreader event.
 We see no reason other than partisan politicking why the Legislature needs to risk the well-being of our communities’ businesses and Montana citizens who want to participate in their government.
 Across the state, Montanans want a robust economy and good, high paying jobs.
@@ -25,15 +22,8 @@ With vaccines becoming available soon, why are Republicans needlessly risking th
 Partisan politics aside, masking and social distancing are not heavy burdens but simply steps to limits a disease that has hurt businesses across the state, sickened 77000 of our fellow citizens and killed 865 Montanans.
 Establishing masking and social distancing requirements are responsible steps to take even as we exercise our freedom to assemble for the 2021 Montana Legislative session Democrats will continue to work for a safe environment in the Capitol building that protects Montanans and keeps our economy open.
 Senator Bryce Bennett, SD 50 Rep.
-Willis Curdy, HD 98
-Senator-elect Ellie Boldman, SD 45 Rep.-elect Tom France, HD 94
-Senator Shane Morigeau, SD 48 Rep.
-Connie Keogh, HD 91
-Senator-elect Shannon O’Brien, SD 46 Rep.
-Marilyn Marler, HD 90
-Senator Diane Sands, SD 49 Rep.
-Andrea Olsen, HD 100
-Rep.
-Katie Sullivan, HD 89
-Rep.-elect Danny Tenenbaum, HD 95
-Rep.-elect Mark Thane, HD 95
+Willis Curdy, HD 98 Senator-elect Ellie Boldman, SD 45 Rep.-elect Tom France, HD 94 Senator Shane Morigeau, SD 48 Rep.
+Connie Keogh, HD 91 Senator-elect Shannon O’Brien, SD 46 Rep.
+Marilyn Marler, HD 90 Senator Diane Sands, SD 49 Rep.
+Andrea Olsen, HD 100 Rep.
+Katie Sullivan, HD 89 Rep.-elect Danny Tenenbaum, HD 95 Rep.-elect Mark Thane, HD 95 ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

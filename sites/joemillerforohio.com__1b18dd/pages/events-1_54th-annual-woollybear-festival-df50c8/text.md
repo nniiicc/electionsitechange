@@ -1,9 +1,1 @@
-Back to All Events
-54th Annual Woollybear Festival
-Previous
-Previous
-October 3
-Avon Arbor Day Celebration
-Next
-Next
-October 5
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events 54th Annual Woollybear Festival Sunday, October 4, 2026 9:00 AM 10:00 AM Victory Park 687 Main Street Vermilion, OH 44089 United States (map) Google Calendar ICS 54th Annual Woollybear Festival Previous Previous October 3 Avon Arbor Day Celebration Next Next October 5 Town Hall on Data Centers with Representative Rader DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

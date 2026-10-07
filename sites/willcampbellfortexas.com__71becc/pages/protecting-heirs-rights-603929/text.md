@@ -1,387 +1,129 @@
-Texas Heirs' Protection and Probate Accountability Act
-Estates Code & Property Code Amendments · 90th Legislature (2027)
-Reforms provisional will admission, heirs'-property determinations, automatic lis pendens protection,
-sale-order safeguards, fiduciary fee caps, affiliated-business disclosures, probate real estate listing
-transparency, direct closing-document delivery to heirs, automatic judicial escalation for delinquent
-filings, and protective venue transfer for structurally conflicted probate courts.
-By: ____________________
-H.B.
-No. _____
-A BILL TO BE ENTITLED AN ACT
-relating to protections for heirs and devisees, administration of decedents' estates,
-contested probate proceedings, sales of estate real property, judicial assignment and transfer in
-certain probate matters, accountability of court-appointed fiduciaries, mandatory reporting of probate
-real estate listing activity, direct disclosure of closing documents to heirs, and related matters
-involving probate courts.
-BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
-SECTION 1.
-This Act may be cited as the Texas Heirs' Protection
-and Probate Accountability Act.
+0 Skip to Content About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Solutions Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Proposed Laws AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Open Menu Close Menu About Will Folder: Solutions Back Relief for Sand Branch and Seagoville End Property Taxes TPTRP Constitutional Amendment Breakdown Holding AI Companies Accountable Restricting ALPR Cameras Protecting First Responders Securing Texas Elections and Closed Primaries Protecting Truth and Identity Prohibiting the Kill Switch in Texas Solving For Energy, Water, and Data Centers.
+TPTRP Freeing Business - Reducing Taxes Ending Birth Tourism Protecting Heirs Rights Enforcing Parental Rights and Local Accountability Female First Responder Cancer Protections Ending Corruption in Guardianship Cases Folder: Proposed Laws Back AI Accountability Act TPTRP Constitutional Amendment TPTRP The Sales and Use Tax Act TPTRP Tax Abolition and Conformity Act TPTRP Remote Seller and Foreign Entity Act TPTRP The TLES Act TPTRP Bond Management Act TPTRP The Fund System Act TPTRP Transition Board Act Water for Sand Branch Act The Protecting Truth and Identity Act Texas Data Center Transparency and Standards Act Texas Distributed Power Generation Act Texas Energy and Intelligence Infrastructure Security Board Act Prohibiting The Kill Switch in Texas Birth Tourism Criminalization Act Protecting Heirs' Rights Family First Guardianship Accountability Protecting First Responders Texas Election Integrity and Party Association Act HJR For Electing SOS Enforcing Parental Rights and Child Protections Protecting Texans From Surveillance Female First Responder Cancer Coverage Releases Volunteer Data CONTRIBUTE Texas Heirs' Protection and Probate Accountability Act Estates Code & Property Code Amendments · 90th Legislature (2027) Reforms provisional will admission, heirs'-property determinations, automatic lis pendens protection, sale-order safeguards, fiduciary fee caps, affiliated-business disclosures, probate real estate listing transparency, direct closing-document delivery to heirs, automatic judicial escalation for delinquent filings, and protective venue transfer for structurally conflicted probate courts.
+Legislative Draft — v5 July 2026 Rep.
+Will Campbell — HD 109 ✎ 22 New Provisions Added 🖶 Print / Save PDF Table of Contents CHAPTER 258A.
+PROVISIONAL PROBATE OF CERTAIN SELF-PROVED WIL SUBCHAPTER A.
+GENERAL PROVISIONS Sec.
+258A.001. ✎ Definitions Sec.
+258A.002. ✎ Applicability Sec.
+258A.003. ✎ Mandatory Provisional Admission Of Certain Self-Proved Wills Sec.
+258A.004. ✎ Limited Letters Testamentary Sec.
+258A.005. ✎ Successor Executor Rule Sec.
+258A.006. ✎ Threshold Standing Hearing For Pre-Admission Contests Sec.
+258A.007. ✎ Contestant Bond For Asset-Freeze Relief Sec.
+23A.0035. ✎ Deadline To Determine Heirs' Property Status Sec.
+12.00715. ✎ Automatic Lis Pendens Effect In Certain Probate And Trust Proceedings Sec.
+356.0015. ✎ Notice, Citation, And Waiver Findings Required Before Certain Sale Orders Sec.
+53.104. ✎ Itemized Vouchers; Notice; Fee Cap For Certain Court-Appointed Attorneys SUBCHAPTER H.
+AFFILIATED BUSINESS DISCLOSURES FOR COURT-APPO Sec.
+351.351. ✎ Disclosure Required Sec.
+351.352. ✎ Affiliated Business Interest Sec.
+351.353. ✎ Removal; Disqualification SUBCHAPTER I.
+PUBLIC REPORTING OF PROBATE REAL ESTATE LISTIN Sec.
+351.371. ✎ Definitions Sec.
+351.372. ✎ Mandatory Disclosure Of Listing Engagement Sec.
+351.373. ✎ Statewide Probate Real Estate Listing Registry Sec.
+351.374. ✎ Rebuttable Presumption Of Conflict At Reporting Threshold Sec.
+351.375. ✎ Enforcement; Failure To Report Sec.
+356.560. ✎ Direct Delivery Of Closing Documents To Heirs Sec.
+359.0515. ✎ Automatic Escalation On Verified Notice Of Filing Failure SUBCHAPTER A.
+TRANSFER OF CONTESTED PROBATE MATTERS [AND CER Sec.
+32.010. ✎ Protective Transfer Of Certain Contested Probate Proceedings By: ____________________ H.B.
+No. _____ A BILL TO BE ENTITLED AN ACT relating to protections for heirs and devisees, administration of decedents' estates, contested probate proceedings, sales of estate real property, judicial assignment and transfer in certain probate matters, accountability of court-appointed fiduciaries, mandatory reporting of probate real estate listing activity, direct disclosure of closing documents to heirs, and related matters involving probate courts.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS: SECTION 1.
+This Act may be cited as the Texas Heirs' Protection and Probate Accountability Act.
 SECTION 2.
-Subtitle E, Title 2, Estates Code, is amended by
-adding Chapter 258A to read as follows:
-CHAPTER 258A.
-PROVISIONAL PROBATE OF CERTAIN SELF-PROVED WILLS
-SUBCHAPTER A.
-GENERAL PROVISIONS
-Sec. 258A.001.
+Subtitle E, Title 2, Estates Code, is amended by adding Chapter 258A to read as follows: CHAPTER 258A.
+PROVISIONAL PROBATE OF CERTAIN SELF-PROVED WILLS SUBCHAPTER A.
+GENERAL PROVISIONS ✎ New Provision — Adds Section 258A.001 to the Texas statutes Sec.
+258A.001.
 DEFINITIONS.
-In this chapter:
-(a)"Provisional admission" means the temporary admission
-of a self-proved will to probate pending final adjudication of a timely contest.
-(b)"Successor executor" means a person named in a will to
-serve if a prior named executor does not qualify, declines to serve, dies, resigns, or is removed.
-Sec. 258A.002.
+In this chapter: (a) "Provisional admission" means the temporary admission of a self-proved will to probate pending final adjudication of a timely contest. (b) "Successor executor" means a person named in a will to serve if a prior named executor does not qualify, declines to serve, dies, resigns, or is removed. ✎ New Provision — Adds Section 258A.002 to the Texas statutes Sec.
+258A.002.
 APPLICABILITY.
-This chapter applies only to a written will that:
-(a)is self-proved under applicable law; and
-(b)is filed for probate not later than the fourth
-anniversary of the testator's death, unless another law authorizes probate after that date.
-Sec. 258A.003.
-MANDATORY PROVISIONAL ADMISSION OF CERTAIN SELF-PROVED WILLS.
-(a) Except as provided by Subsection (b), the court shall provisionally admit a will
-described by Section 258A.002 to probate not later than the 45th day after the date the application is
-filed.
-(b)The court may decline to provisionally admit a will
-under this section only if, before the 45th day after the date the application is filed, a contestant
-files a verified pleading alleging with specific facts that:
-(1)the will is forged; or
-(2)the will fails to satisfy testamentary formalities
-required by law.
-(c)A pleading that alleges only undue influence, lack of
-capacity, mistake, revocation, or similar grounds does not prevent provisional admission under this
-section but may be litigated after provisional admission.
-Sec. 258A.004.
-LIMITED LETTERS TESTAMENTARY.
-(a) On provisional admission of a will under this chapter, the court shall issue
-limited letters testamentary to the named executor or, if that executor does not qualify, to the next
-qualified successor executor named in the will.
-(b)Limited letters testamentary issued under this section
-authorize only actions reasonably necessary to:
-(1)preserve estate property;
-(2)pay ad valorem taxes, insurance premiums, utility
-charges, payroll obligations, and other obligations necessary to prevent waste or interruption of a
-closely held business;
-(3)collect rents, dividends, accounts receivable, and
-other income;
-(4)defend or prosecute claims to preserve estate rights;
-and
-(5)record notices, including a lis pendens or similar
-notice authorized by law, to preserve title to disputed estate real property.
-(c)A court may expand the authority granted under this
-section only on written findings of necessity.
-Sec. 258A.005.
+This chapter applies only to a written will that: (a) is self-proved under applicable law; and (b) is filed for probate not later than the fourth anniversary of the testator's death, unless another law authorizes probate after that date. ✎ New Provision — Adds Section 258A.003 to the Texas statutes Sec.
+258A.003.
+MANDATORY PROVISIONAL ADMISSION OF CERTAIN SELF-PROVED WILLS. (a) Except as provided by Subsection (b), the court shall provisionally admit a will described by Section 258A.002 to probate not later than the 45th day after the date the application is filed. (b) The court may decline to provisionally admit a will under this section only if, before the 45th day after the date the application is filed, a contestant files a verified pleading alleging with specific facts that: (1) the will is forged; or (2) the will fails to satisfy testamentary formalities required by law. (c) A pleading that alleges only undue influence, lack of capacity, mistake, revocation, or similar grounds does not prevent provisional admission under this section but may be litigated after provisional admission. ✎ New Provision — Adds Section 258A.004 to the Texas statutes Sec.
+258A.004.
+LIMITED LETTERS TESTAMENTARY. (a) On provisional admission of a will under this chapter, the court shall issue limited letters testamentary to the named executor or, if that executor does not qualify, to the next qualified successor executor named in the will. (b) Limited letters testamentary issued under this section authorize only actions reasonably necessary to: (1) preserve estate property; (2) pay ad valorem taxes, insurance premiums, utility charges, payroll obligations, and other obligations necessary to prevent waste or interruption of a closely held business; (3) collect rents, dividends, accounts receivable, and other income; (4) defend or prosecute claims to preserve estate rights; and (5) record notices, including a lis pendens or similar notice authorized by law, to preserve title to disputed estate real property. (c) A court may expand the authority granted under this section only on written findings of necessity. ✎ New Provision — Adds Section 258A.005 to the Texas statutes Sec.
+258A.005.
 SUCCESSOR EXECUTOR RULE.
-Before appointing an administrator or other court-selected fiduciary to exercise
-authority otherwise granted by a will, the court shall exhaust, in the order stated in the will, each
-qualified successor executor named in the will.
-Sec. 258A.006.
-THRESHOLD STANDING HEARING FOR PRE-ADMISSION CONTESTS.
-(a) A person who files a contest before final probate of a will provisionally
-admitted under this chapter is entitled to a threshold standing hearing not later than the 21st day
-after the date the contest is filed.
-(b)At the hearing, the contestant must establish by sworn
-evidence a pecuniary interest that would be adversely affected by admission of the will.
-(c)If the contestant fails to establish standing under
-this section, the court shall dismiss the contest.
-Sec. 258A.007.
-CONTESTANT BOND FOR ASSET-FREEZE RELIEF.
-(a) A contestant seeking relief that would stay, freeze, or materially restrict the
-provisional administration of an estate or the use, preservation, lease, operation, or transfer of
-estate property must post a bond.
-(b)The bond must be in an amount equal to the greater of:
-(1)$25,000; or
-(2)two percent of the gross appraised value of the estate,
-as determined under Subsection (c).
-(c)For purposes of this section, the gross appraised
-value of the estate shall be based on:
-(1)the inventory and appraisement, if filed;
-(2)a sworn appraisal filed with the court; or
-(3)if neither is available, a reasonable estimate
-supported by affidavit and documentary evidence.
-(d)On motion and evidence of projected carrying costs,
-taxes, insurance, payroll, contractual default exposure, or business-operating losses, the court shall
-increase the bond in an amount sufficient to secure against probable damage from the requested relief.
+Before appointing an administrator or other court-selected fiduciary to exercise authority otherwise granted by a will, the court shall exhaust, in the order stated in the will, each qualified successor executor named in the will. ✎ New Provision — Adds Section 258A.006 to the Texas statutes Sec.
+258A.006.
+THRESHOLD STANDING HEARING FOR PRE-ADMISSION CONTESTS. (a) A person who files a contest before final probate of a will provisionally admitted under this chapter is entitled to a threshold standing hearing not later than the 21st day after the date the contest is filed. (b) At the hearing, the contestant must establish by sworn evidence a pecuniary interest that would be adversely affected by admission of the will. (c) If the contestant fails to establish standing under this section, the court shall dismiss the contest. ✎ New Provision — Adds Section 258A.007 to the Texas statutes Sec.
+258A.007.
+CONTESTANT BOND FOR ASSET-FREEZE RELIEF. (a) A contestant seeking relief that would stay, freeze, or materially restrict the provisional administration of an estate or the use, preservation, lease, operation, or transfer of estate property must post a bond. (b) The bond must be in an amount equal to the greater of: (1) $25,000; or (2) two percent of the gross appraised value of the estate, as determined under Subsection (c). (c) For purposes of this section, the gross appraised value of the estate shall be based on: (1) the inventory and appraisement, if filed; (2) a sworn appraisal filed with the court; or (3) if neither is available, a reasonable estimate supported by affidavit and documentary evidence. (d) On motion and evidence of projected carrying costs, taxes, insurance, payroll, contractual default exposure, or business-operating losses, the court shall increase the bond in an amount sufficient to secure against probable damage from the requested relief.
 SECTION 3.
-Chapter 23A, Property Code, is amended by adding
-Section 23A.0035 to read as follows:
-Sec. 23A.0035.
-DEADLINE TO DETERMINE HEIRS' PROPERTY STATUS.
-(a) If a party files a motion asserting that real property is heirs' property, the
-court shall set the motion for submission or hearing not later than the 20th day after the date the
-motion is filed.
-(b)The court shall sign a written order determining
-whether the property is heirs' property not later than the 10th day after the date of submission or
-hearing.
-(c)If the court determines that the property is heirs'
-property, the court shall proceed in accordance with this chapter.
-(d)Failure to comply with this section constitutes a
-failure to perform a ministerial duty for purposes of mandamus relief.
+Chapter 23A, Property Code, is amended by adding Section 23A.0035 to read as follows: ✎ New Provision — Adds Section 23A.0035 to the Texas statutes Sec.
+23A.0035.
+DEADLINE TO DETERMINE HEIRS' PROPERTY STATUS. (a) If a party files a motion asserting that real property is heirs' property, the court shall set the motion for submission or hearing not later than the 20th day after the date the motion is filed. (b) The court shall sign a written order determining whether the property is heirs' property not later than the 10th day after the date of submission or hearing. (c) If the court determines that the property is heirs' property, the court shall proceed in accordance with this chapter. (d) Failure to comply with this section constitutes a failure to perform a ministerial duty for purposes of mandamus relief.
 SECTION 4.
-Chapter 12, Property Code, is amended by adding
-Section 12.00715 to read as follows:
-Sec. 12.00715.
-AUTOMATIC LIS PENDENS EFFECT IN CERTAIN PROBATE AND TRUST PROCEEDINGS.
-(a) In a probate or trust proceeding involving a pleaded dispute over title to real
-property, beneficial ownership of real property, testamentary authority affecting identified real
-property, or alleged fiduciary misconduct affecting identified real property, a statutory lis pendens
-effect arises on the filing of the pleading and the recording of a short-form notice by the clerk.
-(b)Not later than the third business day after the date a
-qualifying pleading is filed, the clerk shall record in the real property records of each county in
-which the identified property is located a short-form notice containing:
-(1)the style and cause number of the proceeding;
-(2)the court in which the proceeding is pending;
-(3)the names of the principal parties;
-(4)a legal description or other sufficient identification
-of the property; and
-(5)a statement that the proceeding involves a claim
-described by Subsection (a).
-(c)A notice recorded under this section has the same
-force and effect as a notice of lis pendens recorded under Section 12.007.
-(d)A court may not expunge or cancel a notice recorded
-under this section unless the court makes written findings that:
-(1)the claimant failed to show the probable validity of
-the real-property claim; and
-(2)expunction or cancellation will not create a
-substantial risk of irreparable loss of unique family property.
+Chapter 12, Property Code, is amended by adding Section 12.00715 to read as follows: ✎ New Provision — Adds Section 12.00715 to the Texas statutes Sec.
+12.00715.
+AUTOMATIC LIS PENDENS EFFECT IN CERTAIN PROBATE AND TRUST PROCEEDINGS. (a) In a probate or trust proceeding involving a pleaded dispute over title to real property, beneficial ownership of real property, testamentary authority affecting identified real property, or alleged fiduciary misconduct affecting identified real property, a statutory lis pendens effect arises on the filing of the pleading and the recording of a short-form notice by the clerk. (b) Not later than the third business day after the date a qualifying pleading is filed, the clerk shall record in the real property records of each county in which the identified property is located a short-form notice containing: (1) the style and cause number of the proceeding; (2) the court in which the proceeding is pending; (3) the names of the principal parties; (4) a legal description or other sufficient identification of the property; and (5) a statement that the proceeding involves a claim described by Subsection (a). (c) A notice recorded under this section has the same force and effect as a notice of lis pendens recorded under Section 12.007. (d) A court may not expunge or cancel a notice recorded under this section unless the court makes written findings that: (1) the claimant failed to show the probable validity of the real-property claim; and (2) expunction or cancellation will not create a substantial risk of irreparable loss of unique family property.
 SECTION 5.
-Subchapter A, Chapter 356, Estates Code, is amended
-by adding Section 356.0015 to read as follows:
-Sec. 356.0015.
-NOTICE, CITATION, AND WAIVER FINDINGS REQUIRED BEFORE CERTAIN SALE ORDERS.
-(a) In this section, "disputed estate real property" means estate real property that
-is the subject of a pending dispute involving title, beneficial ownership, testamentary authority,
-heirship-property status, or notice compliance.
-(b)Before signing an order authorizing the sale of
-disputed estate real property, the court shall make a written finding that all notices, citations,
-returns, and waivers required by law and applicable to the pending dispute are on file with the clerk.
-(c)Before confirming a reported sale of disputed estate
-real property, the court shall make a written finding that:
-(1)the finding required by Subsection (b) remains true;
-and
-(2)no unresolved motion concerning heirship-property
-status, title preservation, or required notice compliance remains pending.
+Subchapter A, Chapter 356, Estates Code, is amended by adding Section 356.0015 to read as follows: ✎ New Provision — Adds Section 356.0015 to the Texas statutes Sec.
+356.0015.
+NOTICE, CITATION, AND WAIVER FINDINGS REQUIRED BEFORE CERTAIN SALE ORDERS. (a) In this section, "disputed estate real property" means estate real property that is the subject of a pending dispute involving title, beneficial ownership, testamentary authority, heirship-property status, or notice compliance. (b) Before signing an order authorizing the sale of disputed estate real property, the court shall make a written finding that all notices, citations, returns, and waivers required by law and applicable to the pending dispute are on file with the clerk. (c) Before confirming a reported sale of disputed estate real property, the court shall make a written finding that: (1) the finding required by Subsection (b) remains true; and (2) no unresolved motion concerning heirship-property status, title preservation, or required notice compliance remains pending.
 SECTION 6.
-Chapter 53, Estates Code, is amended by adding
-Section 53.104 to read as follows:
-Sec. 53.104.
-ITEMIZED VOUCHERS; NOTICE; FEE CAP FOR CERTAIN COURT-APPOINTED ATTORNEYS.
-(a) A court-appointed attorney seeking payment from an estate must file an itemized
-voucher and serve a copy on each interested person or the person's attorney of record.
-(b)The court may not order payment earlier than the 30th
-day after the date service is completed, unless each interested person entitled to service waives the
-delay in writing.
-(c)Except on written findings of extraordinary
-complexity, the total compensation awarded to a court-appointed attorney under this chapter may not
-exceed the lesser of:
-(1)three percent of the gross appraised value of the
-estate; or
-(2)$25,000.
+Chapter 53, Estates Code, is amended by adding Section 53.104 to read as follows: ✎ New Provision — Adds Section 53.104 to the Texas statutes Sec.
+53.104.
+ITEMIZED VOUCHERS; NOTICE; FEE CAP FOR CERTAIN COURT-APPOINTED ATTORNEYS. (a) A court-appointed attorney seeking payment from an estate must file an itemized voucher and serve a copy on each interested person or the person's attorney of record. (b) The court may not order payment earlier than the 30th day after the date service is completed, unless each interested person entitled to service waives the delay in writing. (c) Except on written findings of extraordinary complexity, the total compensation awarded to a court-appointed attorney under this chapter may not exceed the lesser of: (1) three percent of the gross appraised value of the estate; or (2) $25,000.
 SECTION 7.
-Chapter 351, Estates Code, is amended by adding
-Subchapter H to read as follows:
-SUBCHAPTER H.
-AFFILIATED BUSINESS DISCLOSURES FOR COURT-APPOINTED FIDUCIARIES
-Sec. 351.351.
+Chapter 351, Estates Code, is amended by adding Subchapter H to read as follows: SUBCHAPTER H.
+AFFILIATED BUSINESS DISCLOSURES FOR COURT-APPOINTED FIDUCIARIES ✎ New Provision — Adds Section 351.351 to the Texas statutes Sec.
+351.351.
 DISCLOSURE REQUIRED.
-A court-appointed personal representative, temporary administrator, receiver,
-attorney ad litem, guardian ad litem, or other court-appointed fiduciary shall file with the clerk, not
-later than the 10th day after the date of appointment, a sworn disclosure of any affiliated business
-interest.
-Sec. 351.352.
+A court-appointed personal representative, temporary administrator, receiver, attorney ad litem, guardian ad litem, or other court-appointed fiduciary shall file with the clerk, not later than the 10th day after the date of appointment, a sworn disclosure of any affiliated business interest. ✎ New Provision — Adds Section 351.352 to the Texas statutes Sec.
+351.352.
 AFFILIATED BUSINESS INTEREST.
-In this subchapter, "affiliated business interest" means a direct or indirect
-ownership interest, compensation arrangement, referral-fee arrangement, profit-sharing arrangement, or
-management role in a title company, real estate brokerage, auction company, appraisal business,
-property-management company, or similar business that may derive income from an estate transaction.
-Sec. 351.353.
+In this subchapter, "affiliated business interest" means a direct or indirect ownership interest, compensation arrangement, referral-fee arrangement, profit-sharing arrangement, or management role in a title company, real estate brokerage, auction company, appraisal business, property-management company, or similar business that may derive income from an estate transaction. ✎ New Provision — Adds Section 351.353 to the Texas statutes Sec.
+351.353.
 REMOVAL; DISQUALIFICATION.
-Failure to comply with this subchapter is grounds for removal, surcharge, fee
-forfeiture, or other appropriate relief.
-A court-appointed fiduciary who has a direct financial interest
-in an entity participating in an estate transaction is disqualified unless:
-(1)each adult interested person gives written informed
-consent; and
-(2)the court makes written findings that the appointment
-remains necessary and fair.
+Failure to comply with this subchapter is grounds for removal, surcharge, fee forfeiture, or other appropriate relief.
+A court-appointed fiduciary who has a direct financial interest in an entity participating in an estate transaction is disqualified unless: (1) each adult interested person gives written informed consent; and (2) the court makes written findings that the appointment remains necessary and fair.
 SECTION 8.
-Chapter 351, Estates Code, is amended by adding
-Subchapter I to read as follows:
-SUBCHAPTER I.
-PUBLIC REPORTING OF PROBATE REAL ESTATE LISTING ACTIVITY
-Sec. 351.371.
+Chapter 351, Estates Code, is amended by adding Subchapter I to read as follows: SUBCHAPTER I.
+PUBLIC REPORTING OF PROBATE REAL ESTATE LISTING ACTIVITY ✎ New Provision — Adds Section 351.371 to the Texas statutes Sec.
+351.371.
 DEFINITIONS.
-In this subchapter:
-(1)"Listing professional" means a licensed real estate
-broker, salesperson, or brokerage that is engaged, retained, or referred by a court-appointed fiduciary,
-or by an attorney representing a court-appointed fiduciary, to list, market, or sell estate real
-property.
-(2)"Probate real estate listing" means an engagement of a
-listing professional to list, market, or sell real property that is subject to sale under Chapter 356 or
-a comparable trust or guardianship sale proceeding.
-(3)"Reporting county" means a county in which a statutory
-probate court, county court at law exercising probate jurisdiction, or constitutional county court
-exercising probate jurisdiction is located.
-Sec. 351.372.
-MANDATORY DISCLOSURE OF LISTING ENGAGEMENT.
-(a) Not later than the 10th day after the date a court-appointed fiduciary engages a
-listing professional for a probate real estate listing, the fiduciary shall file with the clerk a sworn
-disclosure identifying:
-(1)the name, license number, and brokerage affiliation of
-the listing professional;
-(2)the relationship, if any, between the listing
-professional and the fiduciary, the fiduciary's attorney, or the court, including any prior business,
-family, or financial relationship;
-(3)the method by which the listing professional was
-selected, including whether the engagement was competitively solicited; and
-(4)the commission rate or fee arrangement for the listing.
-(b)The clerk shall forward each disclosure filed under
-this section to the office of court administration for inclusion in the registry established under
-Section 351.373.
-Sec. 351.373.
-STATEWIDE PROBATE REAL ESTATE LISTING REGISTRY.
-(a) The Office of Court Administration of the Texas Judicial System shall establish
-and maintain a public, searchable electronic registry of probate real estate listing disclosures filed
-under Section 351.372.
-(b)The registry must be organized to allow the public to
-search and sort disclosures by:
-(1)reporting county;
-(2)listing professional and brokerage;
-(3)court-appointed fiduciary; and
-(4)calendar year.
-(c)The registry must display, for each listing
-professional, a running count of the number of probate real estate listings received in each reporting
-county during the preceding 24 months.
-(d)The Office of Court Administration shall publish the
-registry data in a downloadable, machine-readable format and update the registry not less than
-quarterly.
-(e)The Office of Court Administration may adopt rules
-necessary to implement this section, including rules to standardize disclosure forms across counties.
-Sec. 351.374.
-REBUTTABLE PRESUMPTION OF CONFLICT AT REPORTING THRESHOLD.
-(a) If the registry maintained under Section 351.373 shows that a listing
-professional has received more than ten probate real estate listings in a single reporting county within
-the preceding 24 months, a rebuttable presumption arises that continued engagement of that listing
-professional by the same fiduciary, the same attorney ad litem, or the same court presents a conflict of
-interest requiring disclosure and heightened scrutiny under Subchapter H.
-(b)The presumption under Subsection (a) may be rebutted
-by a sworn showing that the engagement was competitively solicited, that the fee arrangement is at or
-below prevailing market rates, and that no undisclosed relationship exists between the listing
-professional and the fiduciary, the fiduciary's attorney, or the court.
-(c)A presumption arising under this section does not
-itself disqualify a listing professional or a fiduciary.
-It shifts the burden of production on the
-question of conflict of interest in a removal, surcharge, or fee-forfeiture proceeding brought under
-this title.
-Sec. 351.375.
-ENFORCEMENT; FAILURE TO REPORT.
-(a) A court-appointed fiduciary who fails to file a disclosure required by Section
-351.372 is subject to removal, surcharge, and fee forfeiture under Section 351.353.
-(b)A clerk's failure to forward a disclosure to the
-Office of Court Administration does not excuse a fiduciary's independent obligation to file the
-disclosure with the clerk within the time required by Section 351.372.
-(c)Any interested person may file a written complaint
-with the Office of Court Administration alleging a failure to comply with this subchapter.
-The Office of
-Court Administration shall refer a substantiated complaint to the presiding judge of the applicable
-statutory probate court region.
+In this subchapter: (1) "Listing professional" means a licensed real estate broker, salesperson, or brokerage that is engaged, retained, or referred by a court-appointed fiduciary, or by an attorney representing a court-appointed fiduciary, to list, market, or sell estate real property.
+(2) "Probate real estate listing" means an engagement of a listing professional to list, market, or sell real property that is subject to sale under Chapter 356 or a comparable trust or guardianship sale proceeding.
+(3) "Reporting county" means a county in which a statutory probate court, county court at law exercising probate jurisdiction, or constitutional county court exercising probate jurisdiction is located. ✎ New Provision — Adds Section 351.372 to the Texas statutes Sec.
+351.372.
+MANDATORY DISCLOSURE OF LISTING ENGAGEMENT. (a) Not later than the 10th day after the date a court-appointed fiduciary engages a listing professional for a probate real estate listing, the fiduciary shall file with the clerk a sworn disclosure identifying: (1) the name, license number, and brokerage affiliation of the listing professional; (2) the relationship, if any, between the listing professional and the fiduciary, the fiduciary's attorney, or the court, including any prior business, family, or financial relationship; (3) the method by which the listing professional was selected, including whether the engagement was competitively solicited; and (4) the commission rate or fee arrangement for the listing. (b) The clerk shall forward each disclosure filed under this section to the office of court administration for inclusion in the registry established under Section 351.373. ✎ New Provision — Adds Section 351.373 to the Texas statutes Sec.
+351.373.
+STATEWIDE PROBATE REAL ESTATE LISTING REGISTRY. (a) The Office of Court Administration of the Texas Judicial System shall establish and maintain a public, searchable electronic registry of probate real estate listing disclosures filed under Section 351.372. (b) The registry must be organized to allow the public to search and sort disclosures by: (1) reporting county; (2) listing professional and brokerage; (3) court-appointed fiduciary; and (4) calendar year. (c) The registry must display, for each listing professional, a running count of the number of probate real estate listings received in each reporting county during the preceding 24 months. (d) The Office of Court Administration shall publish the registry data in a downloadable, machine-readable format and update the registry not less than quarterly. (e) The Office of Court Administration may adopt rules necessary to implement this section, including rules to standardize disclosure forms across counties. ✎ New Provision — Adds Section 351.374 to the Texas statutes Sec.
+351.374.
+REBUTTABLE PRESUMPTION OF CONFLICT AT REPORTING THRESHOLD. (a) If the registry maintained under Section 351.373 shows that a listing professional has received more than ten probate real estate listings in a single reporting county within the preceding 24 months, a rebuttable presumption arises that continued engagement of that listing professional by the same fiduciary, the same attorney ad litem, or the same court presents a conflict of interest requiring disclosure and heightened scrutiny under Subchapter H. (b) The presumption under Subsection (a) may be rebutted by a sworn showing that the engagement was competitively solicited, that the fee arrangement is at or below prevailing market rates, and that no undisclosed relationship exists between the listing professional and the fiduciary, the fiduciary's attorney, or the court. (c) A presumption arising under this section does not itself disqualify a listing professional or a fiduciary.
+It shifts the burden of production on the question of conflict of interest in a removal, surcharge, or fee-forfeiture proceeding brought under this title. ✎ New Provision — Adds Section 351.375 to the Texas statutes Sec.
+351.375.
+ENFORCEMENT; FAILURE TO REPORT. (a) A court-appointed fiduciary who fails to file a disclosure required by Section 351.372 is subject to removal, surcharge, and fee forfeiture under Section 351.353. (b) A clerk's failure to forward a disclosure to the Office of Court Administration does not excuse a fiduciary's independent obligation to file the disclosure with the clerk within the time required by Section 351.372. (c) Any interested person may file a written complaint with the Office of Court Administration alleging a failure to comply with this subchapter.
+The Office of Court Administration shall refer a substantiated complaint to the presiding judge of the applicable statutory probate court region.
 SECTION 9.
-Chapter 356, Estates Code, is amended by adding
-Section 356.560 to read as follows:
-Sec. 356.560.
-DIRECT DELIVERY OF CLOSING DOCUMENTS TO HEIRS.
-(a) In this section, "closing agent" means the title insurance company, title
-insurance agent, or attorney acting as escrow or settlement agent for the sale of estate real property
-under this chapter.
-(b)Not later than the date of closing, a closing agent
-shall deliver, by certified mail or a commercially available service providing verified delivery
-confirmation, a true and correct copy of the closing disclosure or settlement statement and any wire
-transfer confirmation reflecting disbursement of sale proceeds to each heir or devisee of record who is
-not otherwise a signing party to the closing.
-(c)The court-appointed fiduciary shall provide the
-closing agent, not later than the 10th day before the scheduled closing date, with the name and last
-known mailing address of each heir or devisee of record entitled to delivery under Subsection (b).
-(d)A closing agent's compliance with Subsection (b) does
-not relieve a court-appointed fiduciary of any accounting or reporting duty otherwise required under
-this code.
-(e)A closing agent who knowingly fails to comply with
-Subsection (b) is subject to referral to the Texas Department of Insurance for investigation under
-applicable title insurance regulations.
-Failure to comply with this section does not affect the validity
-of a closing or the title conveyed.
+Chapter 356, Estates Code, is amended by adding Section 356.560 to read as follows: ✎ New Provision — Adds Section 356.560 to the Texas statutes Sec.
+356.560.
+DIRECT DELIVERY OF CLOSING DOCUMENTS TO HEIRS. (a) In this section, "closing agent" means the title insurance company, title insurance agent, or attorney acting as escrow or settlement agent for the sale of estate real property under this chapter. (b) Not later than the date of closing, a closing agent shall deliver, by certified mail or a commercially available service providing verified delivery confirmation, a true and correct copy of the closing disclosure or settlement statement and any wire transfer confirmation reflecting disbursement of sale proceeds to each heir or devisee of record who is not otherwise a signing party to the closing. (c) The court-appointed fiduciary shall provide the closing agent, not later than the 10th day before the scheduled closing date, with the name and last known mailing address of each heir or devisee of record entitled to delivery under Subsection (b). (d) A closing agent's compliance with Subsection (b) does not relieve a court-appointed fiduciary of any accounting or reporting duty otherwise required under this code. (e) A closing agent who knowingly fails to comply with Subsection (b) is subject to referral to the Texas Department of Insurance for investigation under applicable title insurance regulations.
+Failure to comply with this section does not affect the validity of a closing or the title conveyed.
 SECTION 10.
-Subchapter B, Chapter 359, Estates Code, is amended
-by adding Section 359.0515 to read as follows:
-Sec. 359.0515.
-AUTOMATIC ESCALATION ON VERIFIED NOTICE OF FILING FAILURE.
-(a) This section applies to a dependent administration in which a personal
-representative has failed to timely file:
-(1)an annual account required under this chapter; or
-(2)a report of sale required under Section 356.551.
-(b)An interested person may file a verified notice with
-the clerk stating that a filing described by Subsection (a) is more than 30 days past due.
-(c)Not later than the third business day after a verified
-notice is filed under Subsection (b), the clerk shall transmit the notice and the case file to the
-presiding judge of the administrative judicial region in which the court is located.
-(d)On receipt of a notice under Subsection (c),
-jurisdiction over the dependent administration automatically transfers to the presiding judge of the
-administrative judicial region for review, and the appointing court may take no further action in the
-administration except to preserve estate property, pending the presiding judge's determination under
-Subsection (e).
-(e)Not later than the 15th day after the date the
-presiding judge receives a notice under this section, the presiding judge shall:
-(1)confirm that the required filing remains delinquent
-and, if so, assign the administration to another statutory probate court, county court at law exercising
-probate jurisdiction, or qualified visiting judge for review of the delinquency and any related relief,
-including removal or surcharge; or
-(2)return the administration to the appointing court on a
-finding that the required filing has been made or that no delinquency exists.
-(f)A transfer under this section is not a finding of
-misconduct by the appointing judge and does not itself support a claim under Section 351.354.
-(g)The Office of Court Administration shall adopt forms
-to implement the verified notice required by this section.
+Subchapter B, Chapter 359, Estates Code, is amended by adding Section 359.0515 to read as follows: ✎ New Provision — Adds Section 359.0515 to the Texas statutes Sec.
+359.0515.
+AUTOMATIC ESCALATION ON VERIFIED NOTICE OF FILING FAILURE. (a) This section applies to a dependent administration in which a personal representative has failed to timely file: (1) an annual account required under this chapter; or (2) a report of sale required under Section 356.551. (b) An interested person may file a verified notice with the clerk stating that a filing described by Subsection (a) is more than 30 days past due. (c) Not later than the third business day after a verified notice is filed under Subsection (b), the clerk shall transmit the notice and the case file to the presiding judge of the administrative judicial region in which the court is located. (d) On receipt of a notice under Subsection (c), jurisdiction over the dependent administration automatically transfers to the presiding judge of the administrative judicial region for review, and the appointing court may take no further action in the administration except to preserve estate property, pending the presiding judge's determination under Subsection (e). (e) Not later than the 15th day after the date the presiding judge receives a notice under this section, the presiding judge shall: (1) confirm that the required filing remains delinquent and, if so, assign the administration to another statutory probate court, county court at law exercising probate jurisdiction, or qualified visiting judge for review of the delinquency and any related relief, including removal or surcharge; or (2) return the administration to the appointing court on a finding that the required filing has been made or that no delinquency exists. (f) A transfer under this section is not a finding of misconduct by the appointing judge and does not itself support a claim under Section 351.354. (g) The Office of Court Administration shall adopt forms to implement the verified notice required by this section.
 SECTION 11.
-Section 25.00255, Government Code, is amended by
-adding Subsection (m) to read as follows:
-(m)The legislature finds that, in a contested probate
-proceeding pending in a statutory probate court, recusal of an individual judge may be insufficient to
-protect the rights of heirs and devisees if a sworn motion establishes structural conflict or
-closed-network bias affecting the fair administration of the proceeding.
-The legislature intends by
-separate substantive law to authorize transfer of a contested probate matter to another statutory
-probate court when necessary to ensure impartial adjudication.
+Section 25.00255, Government Code, is amended by adding Subsection (m) to read as follows: (m) The legislature finds that, in a contested probate proceeding pending in a statutory probate court, recusal of an individual judge may be insufficient to protect the rights of heirs and devisees if a sworn motion establishes structural conflict or closed-network bias affecting the fair administration of the proceeding.
+The legislature intends by separate substantive law to authorize transfer of a contested probate matter to another statutory probate court when necessary to ensure impartial adjudication.
 SECTION 12.
-The heading to Subchapter A, Chapter 32, Estates
-Code, is amended to read as follows:
-SUBCHAPTER A.
-TRANSFER OF CONTESTED PROBATE MATTERS [AND CERTAIN PROTECTIVE TRANSFERS]
-SECTION 13.
-Chapter 32, Estates Code, is amended by adding
-Section 32.010 to read as follows:
-Sec. 32.010.
-PROTECTIVE TRANSFER OF CERTAIN CONTESTED PROBATE PROCEEDINGS.
-(a) A party to a contested probate proceeding pending in a statutory probate court
-may file with the presiding judge of the administrative judicial region a verified petition requesting
-transfer of the contested matter or, if necessary for effective relief, the entire proceeding to a
-statutory probate court in an adjacent county.
-(b)The petition must allege at least two indicators of
-structural conflict or closed-network bias prescribed by law.
-(c)The presiding judge shall rule on the petition not
-later than the 30th day after the date the petition is filed.
-(d)If the presiding judge grants the petition, the
-presiding judge shall assign the contested matter or proceeding to a statutory probate court in an
-adjacent county.
+The heading to Subchapter A, Chapter 32, Estates Code, is amended to read as follows: SUBCHAPTER A.
+TRANSFER OF CONTESTED PROBATE MATTERS [AND CERTAIN PROTECTIVE TRANSFERS] SECTION 13.
+Chapter 32, Estates Code, is amended by adding Section 32.010 to read as follows: ✎ New Provision — Adds Section 32.010 to the Texas statutes Sec.
+32.010.
+PROTECTIVE TRANSFER OF CERTAIN CONTESTED PROBATE PROCEEDINGS. (a) A party to a contested probate proceeding pending in a statutory probate court may file with the presiding judge of the administrative judicial region a verified petition requesting transfer of the contested matter or, if necessary for effective relief, the entire proceeding to a statutory probate court in an adjacent county. (b) The petition must allege at least two indicators of structural conflict or closed-network bias prescribed by law. (c) The presiding judge shall rule on the petition not later than the 30th day after the date the petition is filed. (d) If the presiding judge grants the petition, the presiding judge shall assign the contested matter or proceeding to a statutory probate court in an adjacent county.
 SECTION 14.
-Section 22.018, Estates Code, is amended by adding
-Subsection (c) to read as follows:
-(c)For purposes of a contest filed before final probate
-of a will provisionally admitted under Chapter 258A, an interested person must satisfy the standing
-requirements of Section 258A.006.
+Section 22.018, Estates Code, is amended by adding Subsection (c) to read as follows: (c) For purposes of a contest filed before final probate of a will provisionally admitted under Chapter 258A, an interested person must satisfy the standing requirements of Section 258A.006.
 SECTION 15.
-The changes in law made by this Act apply only to
-an application for probate, contest, motion, sale application, fee application, listing engagement, or
-appointment made on or after the effective date of this Act, except that Section 356.0015, Estates Code,
-as added by this Act, applies to any sale order or sale confirmation signed on or after the effective
-date of this Act regardless of when the estate proceeding commenced.
+The changes in law made by this Act apply only to an application for probate, contest, motion, sale application, fee application, listing engagement, or appointment made on or after the effective date of this Act, except that Section 356.0015, Estates Code, as added by this Act, applies to any sale order or sale confirmation signed on or after the effective date of this Act regardless of when the estate proceeding commenced.
 SECTION 16.
 This Act takes effect September 1, 2027.
+South Grand Prairie Cedar Hill East De Soto Lancaster North Glenn Heights Texas House of Representatives District 109 Hutchins Wilmer Seagoville Combine North Ferris South Dallas CONTRIBUTE Official campaign website Cedar Hill, TX 75104 817-313-2927 communication@willcampbellfortexas.com Made with Squarespace Will Campbell for Texas

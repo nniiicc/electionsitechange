@@ -1,31 +1,19 @@
-Climate Action RI called the veto “deeply disappointing” and urged the General Assembly to override it.
-See more here:
-R.I.
-Governor Dan McKee vetoes bill requiring energy reports for big buildings
-The Boston Globe, June 25, 2026
-The intent of the proposed law is to enable the public to access and analyze data and advocate for safety improvements.
-See more here:
-Rhode Island Legislators Pass Bill To Make Crash Data Public
-Across Rhode Island, June 11, 2026
-The Department of Transportation refuses to release traffic accident data, but the Providence Streets Coalition says 42 other states make such information public.
-See more here:
-R.I. advocates backing separate bill to make crash data public
-The Boston Globe, January 27, 2026
-Senator Kallman has introduced two bills as part of the #FairShareAgenda, aimed at making the wealthy pay their fair share of taxes, and supporting the infrastructure that helps Rhode Islanders thrive.
-See more here:
-Rhode Island Debates Taxing the Rich
-The Boston Globe, January 23, 2026
-Tax-the-rich advocates unveil ambitious bill package.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Blog Homepage Blog By Meghan Kallman July 7, 2026 R.I.
+Governor Vetoes State Sen.
+Kallman’s Energy Reports Bill Climate Action RI called the veto “deeply disappointing” and urged the General Assembly to override it.
+See more here: R.I.
+Governor Dan McKee vetoes bill requiring energy reports for big buildings The Boston Globe, June 25, 2026 By Meghan Kallman July 6, 2026 Senator Kallman’s Public Crash Data Bill Becomes Law The intent of the proposed law is to enable the public to access and analyze data and advocate for safety improvements.
+See more here: Rhode Island Legislators Pass Bill To Make Crash Data Public Across Rhode Island, June 11, 2026 By Meghan Kallman January 27, 2026 Kallman Introduces Bill to Make Crash Data Public The Department of Transportation refuses to release traffic accident data, but the Providence Streets Coalition says 42 other states make such information public.
+See more here: R.I. advocates backing separate bill to make crash data public The Boston Globe, January 27, 2026 By Meghan Kallman January 27, 2026 Senator Kallman introduces bills in #FairShareAgenda Senator Kallman has introduced two bills as part of the #FairShareAgenda, aimed at making the wealthy pay their fair share of taxes, and supporting the infrastructure that helps Rhode Islanders thrive.
+See more here: Rhode Island Debates Taxing the Rich The Boston Globe, January 23, 2026 Tax-the-rich advocates unveil ambitious bill package.
 Could it pass?
-The Providence Journal, January 22, 2026
-Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system
-By Sen.
+The Providence Journal, January 22, 2026 By Meghan Kallman April 7, 2025 Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system Keep ICE out of R.I. courthouses and end the chilling effect taking hold of our justice system By Sen.
 Meghan Kallman and Rep.
 Jose Batista.
-The Boston Globe, March 27, 2025
+The Boston Globe, March 27, 2025 By Meghan Kallman February 26, 2025 Should Rhode Island legalize physician-assisted death?
+Should Rhode Island legalize physician-assisted death?
+The “medical aid in dying” bill would allow terminally ill people to die peacefully with the help of medication. by Dave Fallon February 19, 2025 The Public’s Radio By Meghan Kallman February 6, 2025 Pair of Rhode Island senators pitch gas tax fix, rideshare fee to shore up RIPTA’s finances Pair of Rhode Island senators pitch gas tax fix, rideshare fee to shore up RIPTA’s finances News From the States February 5, 2025 By Meghan Kallman February 6, 2025 RI Senate rejects resolution congratulating Trump on his ‘historic victory.’ Here’s why RI Senate rejects resolution congratulating Trump on his ‘historic victory.’ Here’s why The Providence Journal January 28, 2025 By Meghan Kallman July 26, 2024 Senate Approves Building Decarbonization Act Senate Approves Building Decarbonization Ac t June 12, 2024 By Meghan Kallman July 26, 2024 This new law creates a state-sponsored retirement fund for Rhode Islanders.
 This new law creates a state-sponsored retirement fund for Rhode Islanders.
 Here’s what to know.
-Kathy Gregg
-The Providence Journal
-July 17, 2024
-© Paid for by Friends of Meghan Kallman 2023
+Kathy Gregg The Providence Journal July 17, 2024 Posts navigation 1 2 … 7 Search Search for: Search October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

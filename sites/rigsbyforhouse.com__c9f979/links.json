@@ -1,7 +1,30 @@
 [
-"https://rigsbyforhouse.com/",
-"https://rigsbyforhouse.com/about",
-"https://rigsbyforhouse.com/contact",
-"https://rigsbyforhouse.com/privacy-policy",
-"https://secure.anedot.com/rigsby-for-house/donate2026"
+{
+"text": "About",
+"href": "https://www.rigsbyforhouse.com/about"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/rigsby-for-house/donate2026"
+},
+{
+"text": "Contact",
+"href": "https://www.rigsbyforhouse.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.rigsbyforhouse.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rigsbyforhouse.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.rigsbyforhouse.com/about"
+},
+{
+"text": "[image: Rigsby Logo (1).png]",
+"href": "https://www.rigsbyforhouse.com"
+}
 ]

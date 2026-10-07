@@ -1,4 +1,4 @@
-Born in Houston, Texas, Sharon Cooper is proud to have called Georgia home for over 40 years.
+Skip to content Menu Sharon Cooper for State House Georgia House District 45 - East Cobb Facebook Instagram About Priorities Contact Donate Resources Close Menu About About Born in Houston, Texas, Sharon Cooper is proud to have called Georgia home for over 40 years.
 After teaching nursing for several years in Atlanta, she met Dr.
 Tom Cooper — they married in 1980 and purchased their first home together in East Cobb.
 Dr.
@@ -28,4 +28,10 @@ Senator Zell Miller often called her the little legislator that tells it like it
 Among her many honors, the Atlanta Business Chronicle named Sharon as one of Atlanta’s Women of Influence in 2021.
 She has a strong and trusted reputation for bringing together groups with opposing ideas, and facilitating a balanced approach and solutions to difficult situations – often without the need for legislation.
 CLICK HERE for Rep.
-Cooper’s most recent legislation & Committee Assignments
+Cooper’s most recent legislation & Committee Assignments 1 Comment Opinion: Ticket-splitting becomes a key to GOP survival in Georgia September 4, 2020 @ 3:15 pm […] Metro Atlanta will likely decide the matter.
+Two of the most vulnerable Republicans are state Reps.
+Sharon Cooper of Marietta and Deborah Silcox of Sandy […] Log in to Reply Leave a Reply Cancel reply You must be logged in to post a comment.
+Let’s Stay in Touch!
+Leave this field empty if you're human: Paid for by Sharon Cooper for State House Back To Top Sharon Cooper for State House About Priorities Contact Donate Resources © # Sharon Cooper for State House.
+All Rights Reserved.
+Site Designed by ImageCreation.com

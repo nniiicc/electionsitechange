@@ -1,24 +1,7 @@
-Local and National Organizations:
-State Senators:
-State Representatives:
-Representatives Not Pictured:
-Speaker of the House Alec Garnett
-Majority Leader Daneya Esgar
-Representative Meg Froleich
-Representative Tom Sullivan
-Representative Karen McCormick
-Representative Judy Ambile
-Representative Chris Kennedy
-Representative Marc Snyder
-Representative Donald Valdez
-Representative Dylan Roberts
-Representative Kerry Tipper
-Representative Lindsey Daughtery
-Representative Matt Grey
-Representative Shannon Bird
-Adams County Leaders:
-Adams County Leaders Not Pictured:
-Lori Goldstein, Adams 12 Five Star School Board President, District 1
-Laura Mitchell, Adams 12 Five Star School Board Vice President, District 5
-Amira Assad-Lucas, Adams 12 Five Star School Board Director, District 4
-Jamey Lockley, Adams 12 Five Star School Board Secretary, District 2
+0 Skip to Content About | About Endorsements Media Kit Photo Gallery The Issues | Cost Of Living Education Health Care Public Safety My Values En español Contribute Today!
+Open Menu Close Menu About | About Endorsements Media Kit Photo Gallery The Issues | Cost Of Living Education Health Care Public Safety My Values En español Contribute Today!
+Open Menu Close Menu Folder: About | Back About Endorsements Media Kit Photo Gallery Folder: The Issues | Back Cost Of Living Education Health Care Public Safety My Values En español Contribute Today!
+Local and National Organizations: Governor Jared Polis State Senators: State Representatives: Representatives Not Pictured: Speaker of the House Alec Garnett Majority Leader Daneya Esgar Representative Meg Froleich Representative Tom Sullivan Representative Karen McCormick Representative Judy Ambile Representative Chris Kennedy Representative Marc Snyder Representative Donald Valdez Representative Dylan Roberts Representative Kerry Tipper Representative Lindsey Daughtery Representative Matt Grey Representative Shannon Bird Adams County Leaders: Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Adams County Leaders Not Pictured: Lori Goldstein, Adams 12 Five Star School Board President, District 1 Laura Mitchell, Adams 12 Five Star School Board Vice President, District 5 Amira Assad-Lucas, Adams 12 Five Star School Board Director, District 4 Jamey Lockley, Adams 12 Five Star School Board Secretary, District 2 Kyle Mullica for SD 24 Legislative Office: kyle.mullica.house@state.co.us Campaign: kyle@kylemullica.com Made with Squarespace Paid for by Kyle Mullica for SD 24; Registered Agent: Jesse Braughton Media head shot .
+Follow: Twitter Facebook Take Action!
+Sign up to volunteer!
+Contribute today!

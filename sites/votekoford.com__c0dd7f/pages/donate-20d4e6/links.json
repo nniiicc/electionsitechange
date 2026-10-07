@@ -1,4 +1,10 @@
 [
-"https://buy.stripe.com/dRm28seVK9FR7sxamZ4Ja01",
-"https://votekoford.com/cart"
+{
+"text": "0",
+"href": "https://www.votekoford.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://buy.stripe.com/dRm28seVK9FR7sxamZ4Ja01"
+}
 ]

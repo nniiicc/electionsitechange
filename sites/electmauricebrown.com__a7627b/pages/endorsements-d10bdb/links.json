@@ -1,50 +1,210 @@
 [
-"http://1199seiu.org/",
-"https://actionnetwork.org/campaigns/affordability-slate",
-"https://bsky.app/profile/mobreezy213.bsky.social",
-"https://citizenactionny.org/",
-"https://cseany.org/",
-"https://electmauricebrown.com/",
-"https://electmauricebrown.com/about",
-"https://electmauricebrown.com/bernie-sanders-endorsement-maurice-brown",
-"https://electmauricebrown.com/blog",
-"https://electmauricebrown.com/cart",
-"https://electmauricebrown.com/donate",
-"https://electmauricebrown.com/endorsements",
-"https://electmauricebrown.com/faqs",
-"https://electmauricebrown.com/funfaqs",
-"https://electmauricebrown.com/get-involved",
-"https://electmauricebrown.com/get-to-know-jo-bennett-a-fresh-voice-for-local-government",
-"https://electmauricebrown.com/local-voices-supporting-maurice-brown",
-"https://electmauricebrown.com/meet-ellen-block-building-our-future-together",
-"https://electmauricebrown.com/press-clips",
-"https://electmauricebrown.com/priorities",
-"https://electmauricebrown.com/rachelmay",
-"https://electmauricebrown.com/vote",
-"https://facebook.com/NodesiaforCountyLegislator",
-"https://facebook.com/electmauricebrown",
-"https://facebook.com/indivisibleononcty",
-"https://instagram.com/electmauricebrown",
-"https://instagram.com/p/DYfsFMgEYaI?igsh=MzRlODBiNWFlZA%3D%3D",
-"https://instagram.com/syrcollegedems",
-"https://iupat.org/",
-"https://linkedin.com/in/alexandermarion",
-"https://linkedin.com/in/clemmie-l-harris-phd-58b59013",
-"https://linkedin.com/in/hanahehrenreich",
-"https://nicolewatts.us/",
-"https://nyic.org/",
-"https://nylcv.org/",
-"https://nypan.org/",
-"https://plannedparenthoodaction.org/planned-parenthood-empire-state-votes",
-"https://progressivevictory.win/",
-"https://secure.actblue.com/donate/mbforsyracuse",
-"https://secure.actblue.com/donate/mbinthegeneral",
-"https://sierraclub.org/",
-"https://streetspac.org/2026_nys_primary_endorsements",
-"https://syracusedsa.org/",
-"https://tenantbloc.org/statewide-tenant-movement-endorses-upstate-tenant-champions-to-expand-rent-stabilization",
-"https://ualocal81.org/",
-"https://uaw.org/regions/uaw-region-9",
-"https://workingfamilies.org/state/new-york",
-"https://x.com/ZephyrTeachout/status/2064798543206867144"
+{
+"text": "0",
+"href": "https://www.electmauricebrown.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electmauricebrown.com/about"
+},
+{
+"text": "About Mo",
+"href": "https://www.electmauricebrown.com/about"
+},
+{
+"text": "Campaign Blog",
+"href": "https://www.electmauricebrown.com/blog"
+},
+{
+"text": "Candidate for Onondaga County Legislature: Jo Bennett",
+"href": "https://www.electmauricebrown.com/get-to-know-jo-bennett-a-fresh-voice-for-local-government"
+},
+{
+"text": "Citizens Action of NY",
+"href": "https://citizenactionny.org"
+},
+{
+"text": "Civil Service Employees Association",
+"href": "https://cseany.org/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mbinthegeneral"
+},
+{
+"text": "Donate",
+"href": "https://www.electmauricebrown.com/donate"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/mbforsyracuse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electmauricebrown.com/endorsements"
+},
+{
+"text": "FAQs",
+"href": "https://www.electmauricebrown.com/faqs"
+},
+{
+"text": "Former Candidate for Congress: Clemmie Harris",
+"href": "https://www.linkedin.com/in/clemmie-l-harris-phd-58b59013"
+},
+{
+"text": "Former Candidate for Governor: Zephyr Teachout",
+"href": "https://x.com/ZephyrTeachout/status/2064798543206867144"
+},
+{
+"text": "Fun FAQs",
+"href": "https://www.electmauricebrown.com/funfaqs"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electmauricebrown.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electmauricebrown.com/"
+},
+{
+"text": "IUPAT DC4",
+"href": "https://www.iupat.org/"
+},
+{
+"text": "Indivisible Onondaga County",
+"href": "https://www.facebook.com/indivisibleononcty/"
+},
+{
+"text": "Local Voices",
+"href": "https://www.electmauricebrown.com/local-voices-supporting-maurice-brown"
+},
+{
+"text": "New York Immigration Coalition",
+"href": "https://www.nyic.org/"
+},
+{
+"text": "New York League of Conservation Voters",
+"href": "https://www.nylcv.org/"
+},
+{
+"text": "New York Progressive Action Network",
+"href": "https://nypan.org/"
+},
+{
+"text": "New York State Senator: Rachel May",
+"href": "https://www.electmauricebrown.com/rachelmay"
+},
+{
+"text": "New York Working Families Party",
+"href": "https://workingfamilies.org/state/new-york/"
+},
+{
+"text": "Onondaga County Legislature: Chairwoman, Nicole Watts",
+"href": "https://www.nicolewatts.us/"
+},
+{
+"text": "Onondaga County Legislature: Majority Leader, Nodesia Hernandez",
+"href": "https://www.facebook.com/NodesiaforCountyLegislator/"
+},
+{
+"text": "Planned Parenthood Empire State Votes PAC",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-empire-state-votes"
+},
+{
+"text": "Plumbers and Steamfitters Local 81",
+"href": "https://ualocal81.org/"
+},
+{
+"text": "Press Clips",
+"href": "https://www.electmauricebrown.com/press-clips"
+},
+{
+"text": "Priorities",
+"href": "https://www.electmauricebrown.com/priorities"
+},
+{
+"text": "Progressive Victory",
+"href": "https://www.progressivevictory.win/"
+},
+{
+"text": "Progressive Voter Network",
+"href": "https://www.instagram.com/p/DYfsFMgEYaI/?igsh=MzRlODBiNWFlZA%3D%3D"
+},
+{
+"text": "Read More of the local voices that are supporting this campaign!",
+"href": "https://www.electmauricebrown.com/local-voices-supporting-maurice-brown"
+},
+{
+"text": "SEIU 1199",
+"href": "http://www.1199seiu.org/"
+},
+{
+"text": "SU College Democrats",
+"href": "https://www.instagram.com/syrcollegedems/"
+},
+{
+"text": "Sierra Club",
+"href": "https://www.sierraclub.org/"
+},
+{
+"text": "StreetsPAC",
+"href": "https://www.streetspac.org/2026_nys_primary_endorsements#mauricebrown"
+},
+{
+"text": "Syracuse City Auditor: Alex Marion",
+"href": "https://www.linkedin.com/in/alexandermarion"
+},
+{
+"text": "Syracuse Common Councilor: Hanah Ehrenreich",
+"href": "https://www.linkedin.com/in/hanahehrenreich"
+},
+{
+"text": "Syracuse DSA",
+"href": "https://www.syracusedsa.org/"
+},
+{
+"text": "TenantBloc",
+"href": "https://tenantbloc.org/statewide-tenant-movement-endorses-upstate-tenant-champions-to-expand-rent-stabilization/"
+},
+{
+"text": "United Auto Workers, Region 9",
+"href": "https://uaw.org/regions/uaw-region-9/"
+},
+{
+"text": "United States Senator Bernie Sanders",
+"href": "https://www.electmauricebrown.com/bernie-sanders-endorsement-maurice-brown"
+},
+{
+"text": "Voter Info",
+"href": "https://www.electmauricebrown.com/vote"
+},
+{
+"text": "[image: Elect Maurice Brown]",
+"href": "https://www.electmauricebrown.com/"
+},
+{
+"text": "[image: Promotional poster featuring Maurice Brown, a young Black man, candidate for state assembly, wearing a blue polo shirt, with a quote about community needs, and a photo inset of Philip Prehn, a retired community organizer from CNY, holding a snack in an outdoor dining area.]",
+"href": "https://www.electmauricebrown.com/meet-ellen-block-building-our-future-together"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/mobreezy213.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electmauricebrown"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electmauricebrown"
+},
+{
+"text": "[no text]",
+"href": "mailto:Maurice@ElectMauriceBrown.com"
+},
+{
+"text": "volunteer",
+"href": "https://actionnetwork.org/campaigns/affordability-slate/"
+}
 ]

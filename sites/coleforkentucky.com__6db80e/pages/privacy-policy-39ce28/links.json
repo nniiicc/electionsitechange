@@ -1,7 +1,34 @@
 [
-"http://coleforkentucky.com/",
-"https://coleforkentucky.com/",
-"https://coleforkentucky.com/privacy-policy",
-"https://facebook.com/profile.php?id=61578160230685",
-"https://x.com/KYColeTrain"
+{
+"text": "Home",
+"href": "https://www.coleforkentucky.com"
+},
+{
+"text": "Privacy Policy - Terms of Service - Accessibility Statement",
+"href": "https://www.coleforkentucky.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61578160230685"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/KYColeTrain"
+},
+{
+"text": "coleforkentucky@proton.me",
+"href": "mailto:coleforkentucky@proton.me"
+},
+{
+"text": "coleforkentucky@proton.me",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.coleforkentucky.com",
+"href": "http://www.coleforkentucky.com"
+},
+{
+"text": "© # Paid for by Cole Cuzick for State Representative",
+"href": "mailto:info@mysite.com"
+}
 ]

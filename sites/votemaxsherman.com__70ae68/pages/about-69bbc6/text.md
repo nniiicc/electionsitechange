@@ -1,3 +1,6 @@
+0 Skip to Content Home About Issues Endorsements Volunteer Contact Donate Today!
+Open Menu Close Menu Home About Issues Endorsements Volunteer Contact Donate Today!
+Open Menu Close Menu Home About Issues Endorsements Volunteer Contact Donate Today!
 Teacher.
 Farmer.
 Neighbor.
@@ -20,7 +23,7 @@ I have watched our state drift away from the values that once made it a great pl
 Families are struggling under higher taxes, rising costs, and schools that have lost focus on the basics.
 Our farming, fishing, and timber jobs are under pressure and our roads are aging despite the tax dollars we send off to Salem, never to be seen again.
 The North Coast is tired of being treated like an afterthought—and no one has forgotten us more than the man we sent to Salem.
-State Representative Cyrus Javadi asked for our trust, then went on to cast the deciding vote for Tina Kotek’s $4.3 billion gas tax and switch parties, abandoning North Coast voters, along with nearly all of his values and beliefs as well.
+State Representative Cyrus Javadi asked for our trust, then went on to cast the deciding vote for Tina Kotek’s $4.3 billion gas tax and switch parties , abandoning North Coast voters, along with nearly all of his values and beliefs as well.
 Cyrus Javadi broke his promise to us, then left us out to dry.
 Speaking out against that kind of betrayal is not a slogan for me, and I refused to sit on the sidelines.
 I gathered signatures to put the disastrous gas tax on the ballot, and when Salem tried to move the vote off the November ballot, I joined the lawsuit as the Tillamook County plaintiff so voters would still have a say.
@@ -31,3 +34,4 @@ If elected, I will donate my legislative salary to charities and community organ
 I’ve been a Republican my whole life, and we may not agree on every issue—but you can always count on me to stick to my values and my promises to you, the voter.
 I won’t change my positions when the political winds shift.
 I’ll keep my word, and I will always put the North Coast first.
+Paid for by Max Sherman for Oregon, PAC ID 24510 Privacy Policy

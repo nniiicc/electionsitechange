@@ -1,13 +1,5 @@
-Russell Bedsole
-205-229-6021
-Connect by Mail
-417 Sterling Park Circle
-Alabaster, AL 35007
-Or complete the form below:
-- This field is for validation purposes and should be left unchanged.
-Skip to content
-Russell Bedsole
-205-229-6021
-Connect by Mail
-Or complete the form below:
-Campaign for State Representative District 49
+Skip to content Russell Bedsole Campaign for State Representative District 49 Issues Endorsements Bio Connect Give Russell Bedsole 205-229-6021 Connect by Mail 417 Sterling Park Circle Alabaster, AL 35007 Donate Online Or complete the form below: Name * First Last Email * Phone (optional) Address (optional) Street Address Address Line 2 City Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific State ZIP Code I am interested in Walking door to door.
+Hosting a fundraiser.
+Make phone calls.
+Additional Comments Consent * I agree to the privacy policy . * PAID FOR BY COMMITTEE TO ELECT RUSSELL BEDSOLE 417 STERLING PARK CIRCLE ALABASTER AL 35007 WEBSITE BY BRIANTICS, INC.

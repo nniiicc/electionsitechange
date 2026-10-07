@@ -1,5 +1,4 @@
-What’s my “Why?” Part 1: I’m the luckiest girl in the world…
-This post originally appeared on Dead Dillo.
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 What’s my “Why?” Part 1: I’m the luckiest girl in the world… This post originally appeared on Dead Dillo .
 I worked a good long while, I saved up some money, and now I am retired.
 Just about every morning of my life I get up out of my soft bed in my air-conditioned house, I put on my red hi-tops and whatever other comfortable clothes I am going to wear for the day, I kiss my sweet husband, I pet my doggies, and I go to Whataburger.
 I fill up my super-cool stainless steel Whatacup with mostly ice and some Diet Coke, I order a Jalapeno Cheddar Biscuit with sausage, I say “Hi” to all my Whatafriends, and I head to my corner booth where there is a plug.
@@ -11,8 +10,7 @@ Closer to home there are people wandering the streets fighting their own mental 
 There are women in despair because they don’t know how to leave their abusive husbands – especially now that they are pregnant again.
 The list goes on and on of people who are living a nightmare while I am living the dream.
 This bothers me.
-Maybe it bothers you too or maybe I am a weirdo.
-(“Why not both?” you may be thinking…) Why am I so lucky?
+Maybe it bothers you too or maybe I am a weirdo. (“Why not both?” you may be thinking…) Why am I so lucky?
 Maybe it’s because they are lazier than I am?
 I like to work, and I am a hard worker, and I do think that helped me have a great life, but I know plenty of people who work/worked much harder than I ever have who do not have nearly as great a life as I do.
 Is it because I am a better person?
@@ -46,10 +44,8 @@ I think quite a lot about politics these days.
 Some of you know I even went as far as to apply to the LBJ Women’s Campaign School which I am in the middle of completing right now.
 During the first week of campaign school one of the main things we talked about is “What is your ‘Why?’” What has gotten you up off the couch and moving?
 What is going to keep you motivated when things get hard and you are tired?
-I heard lots of inspiring stories from other people about their various “Whys.” I thought all week about my “Why.”
-One of the problems with me being a politician is that I have a hard time explaining my “why” in a way that is moving and inspiring.
-I tend to take too many words to explain it, it doesn’t fit very well on meme, or a sticker, or even one of those big, glossy postcards you get during campaign season, but I’ll take a swing at explaining at least part of it here…
-I think we over-romanticize struggling – especially struggling for other people.
+I heard lots of inspiring stories from other people about their various “Whys.” I thought all week about my “Why.” One of the problems with me being a politician is that I have a hard time explaining my “why” in a way that is moving and inspiring.
+I tend to take too many words to explain it, it doesn’t fit very well on meme, or a sticker, or even one of those big, glossy postcards you get during campaign season, but I’ll take a swing at explaining at least part of it here… I think we over-romanticize struggling – especially struggling for other people.
 I think struggling is kind of like fire: a little bit, under controlled conditions, is good and useful, but too much is dangerous and bad.
 I think a little bit of a struggle – working hard, figuring out things for yourself, walking through the unavoidable tragedies of life – is fine, even good.
 But, like fire, too much struggle is bad for people, it causes damage, sometimes irreparable harm.
@@ -84,3 +80,4 @@ I think politics and the government has a role in that.
 That’s part of my “why” – but far from all of it!
 Ha!
 If you have suggestions for how I can squeeze that into button, a bumper sticker, or an Instagram post, I would love to hear them!
+Tagged Investing in the common good – especially public school Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

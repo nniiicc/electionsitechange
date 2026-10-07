@@ -1,25 +1,118 @@
 [
-"https://facebook.com/VoteMalagari",
-"https://instagram.com/steve_malagari",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx?lang=EN-US",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://pavoterservices.pa.gov/pages/pollingplaceinfo.aspx",
-"https://secure.actblue.com/donate/malagari-2022",
-"https://techforcampaigns.org/",
-"https://twitter.com/Steve_Malagari",
-"https://vote.pa.gov/Voting-in-PA/Pages/Early-Voting.aspx",
-"https://vote411.org/ballot",
-"https://votemalagari.com/",
-"https://votemalagari.com/about",
-"https://votemalagari.com/endorsements",
-"https://votemalagari.com/get-involved",
-"https://votemalagari.com/priorities",
-"https://votemalagari.com/vote",
-"https://votespa.com/Register-to-Vote/Pages/How-to-Register-to-Vote.aspx",
-"https://votespa.com/Resources/Pages/Contact-Your-Election-Officials.aspx",
-"https://votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://votespa.com/Voting-in-PA/Pages/Military-and-Overseas-Voters.aspx"
+{
+"text": "Check Your Registration",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationStatus.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/malagari-2022"
+},
+{
+"text": "Endorsements",
+"href": "https://votemalagari.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteMalagari"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Get Involved",
+"href": "https://votemalagari.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/steve_malagari/"
+},
+{
+"text": "Learn more",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx#absentee"
+},
+{
+"text": "Meet Steve",
+"href": "https://votemalagari.com/about/"
+},
+{
+"text": "Pennsylvania Voter Service page",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx?lang=EN-US"
+},
+{
+"text": "Priorities",
+"href": "https://votemalagari.com/priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Steve Malagari",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Steve_Malagari"
+},
+{
+"text": "Vote Early",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Early-Voting.aspx"
+},
+{
+"text": "Vote by Mail",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "Vote411",
+"href": "https://www.vote411.org/ballot"
+},
+{
+"text": "Voting Information",
+"href": "https://votemalagari.com/vote/"
+},
+{
+"text": "[image: Steve Malagari logo]",
+"href": "https://votemalagari.com/"
+},
+{
+"text": "apply for a mail-in ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin"
+},
+{
+"text": "apply for an emergency absentee ballot",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx#emergency%20absentee"
+},
+{
+"text": "county election office",
+"href": "https://www.votespa.com/Resources/Pages/Contact-Your-Election-Officials.aspx"
+},
+{
+"text": "here",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "info@votemalagari.com",
+"href": "mailto:info@votemalagari.com"
+},
+{
+"text": "information for military and overseas voters web page",
+"href": "https://www.votespa.com/Voting-in-PA/Pages/Military-and-Overseas-Voters.aspx"
+},
+{
+"text": "polling place here",
+"href": "https://www.pavoterservices.pa.gov/pages/pollingplaceinfo.aspx"
+},
+{
+"text": "register to vote",
+"href": "https://www.votespa.com/Register-to-Vote/Pages/How-to-Register-to-Vote.aspx"
+}
 ]

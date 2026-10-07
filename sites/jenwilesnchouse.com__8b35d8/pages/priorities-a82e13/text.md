@@ -1,12 +1,2 @@
-top of page
-Priorities
-While this campaign is rooted in
-economic justice for ALL North Carolinians,
-it is—and always will be—
-committed to justice in every form:
-social, environmental, political, and global
-bottom of page
-economic justice for ALL North Carolinians,
-it is—and always will be—
-committed to justice in every form:
-social, environmental, political, and global
+top of page Jen Wiles FOR NC HOUSE 75 About Priorities Endorsements Contact More Use tab to navigate through the menu items.
+Donate Get Involved Priorities Read the full People-Powered Tax Plan Check out The People-Powered Plan for Lowering Energy Bills and Cleaner Air Data Center Accountability Plan (Created by Andy Bowline for Senate) The North Carolina Responsible Cannabis Plan Review and sign on to The Forsyth County Framework for Community Safety and Economic Stability While this campaign is rooted in economic justice for ALL North Carolinians, it is—and always will be— committed to justice in every form: social, environmental, political, and global FOLLOW JEN ON SOCIAL MEDIA Paid for by Jen Wiles Terms & Conditions Privacy Policy - FOR NC HOUSE 75 - bottom of page

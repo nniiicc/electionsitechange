@@ -1,42 +1,238 @@
 [
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change",
-"https://addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change",
-"https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change",
-"https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued",
-"https://addtoany.com/share",
-"https://alidiengvt.com/",
-"https://alidiengvt.com/author/steve/page/2",
-"https://alidiengvt.com/blog",
-"https://alidiengvt.com/burlington-citywide-reappraisal-project-update",
-"https://alidiengvt.com/category/ali",
-"https://alidiengvt.com/category/blog",
-"https://alidiengvt.com/category/new-north-end",
-"https://alidiengvt.com/downloads/RESOLUTION-Parks-Arts-and-Cutlure-Committee-To-Create-A-Dog-Task-Force.pdf",
-"https://alidiengvt.com/happy-spring",
-"https://alidiengvt.com/lets-work-together",
-"https://alidiengvt.com/media",
-"https://alidiengvt.com/open-burning-and-outside-fires",
-"https://alidiengvt.com/organize-for-long-term-change",
-"https://alidiengvt.com/our-priorities",
-"https://alidiengvt.com/volunteer",
-"https://alidiengvt.com/vote/media",
-"https://alidiengvt.com/vote/our-priorities",
-"https://alidiengvt.com/vote/volunteer",
-"https://alidiengvt.com/young-vermonters-new-americans-must-feel-welcome-valued",
-"https://champlainhosting.com/",
-"https://secure.actblue.com/donate/ali-dieng-1"
+{
+"text": "Ali",
+"href": "https://alidiengvt.com/category/ali/"
+},
+{
+"text": "Ali Dieng",
+"href": "https://alidiengvt.com/"
+},
+{
+"text": "August 24, 2020January 6, 2021",
+"href": "https://alidiengvt.com/lets-work-together/"
+},
+{
+"text": "Blog",
+"href": "https://alidiengvt.com/blog/"
+},
+{
+"text": "Burlington Citywide Reappraisal Project Update",
+"href": "https://alidiengvt.com/burlington-citywide-reappraisal-project-update/"
+},
+{
+"text": "Call to protestors to pause the protest and organize for long-term systemic change",
+"href": "https://alidiengvt.com/organize-for-long-term-change/"
+},
+{
+"text": "Champlain Hosting",
+"href": "https://www.champlainhosting.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ali-dieng-1"
+},
+{
+"text": "Get Involved",
+"href": "https://alidiengvt.com/volunteer/"
+},
+{
+"text": "Happy Spring",
+"href": "https://alidiengvt.com/happy-spring/"
+},
+{
+"text": "Home",
+"href": "https://alidiengvt.com/"
+},
+{
+"text": "Let’s Work Together",
+"href": "https://alidiengvt.com/lets-work-together/"
+},
+{
+"text": "March 17, 2021March 17, 2021",
+"href": "https://alidiengvt.com/burlington-citywide-reappraisal-project-update/"
+},
+{
+"text": "March 24, 2021",
+"href": "https://alidiengvt.com/happy-spring/"
+},
+{
+"text": "May 26, 2021May 26, 2021",
+"href": "https://alidiengvt.com/young-vermonters-new-americans-must-feel-welcome-valued/"
+},
+{
+"text": "Media",
+"href": "https://alidiengvt.com/media/"
+},
+{
+"text": "Media",
+"href": "https://alidiengvt.com/vote/media/"
+},
+{
+"text": "New North End",
+"href": "https://alidiengvt.com/category/new-north-end/"
+},
+{
+"text": "November 3, 2020January 6, 2021",
+"href": "https://alidiengvt.com/open-burning-and-outside-fires/"
+},
+{
+"text": "Open Burning and Outside Fires",
+"href": "https://alidiengvt.com/open-burning-and-outside-fires/"
+},
+{
+"text": "Our Priorities",
+"href": "https://alidiengvt.com/our-priorities/"
+},
+{
+"text": "Parks Arts and Cutlure Committee To Create A Dog Task Force",
+"href": "https://alidiengvt.com/downloads/RESOLUTION-Parks-Arts-and-Cutlure-Committee-To-Create-A-Dog-Task-Force.pdf"
+},
+{
+"text": "Priorities",
+"href": "https://alidiengvt.com/vote/our-priorities/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/burlington-citywide-reappraisal-project-update/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/happy-spring/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/lets-work-together/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/open-burning-and-outside-fires/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/organize-for-long-term-change/"
+},
+{
+"text": "Read More …",
+"href": "https://alidiengvt.com/young-vermonters-new-americans-must-feel-welcome-valued/"
+},
+{
+"text": "September 10, 2020January 6, 2021",
+"href": "https://alidiengvt.com/organize-for-long-term-change/"
+},
+{
+"text": "Volunteer",
+"href": "https://alidiengvt.com/vote/volunteer/"
+},
+{
+"text": "Young Vermonters & New Americans Must Feel Welcome & Valued",
+"href": "https://alidiengvt.com/young-vermonters-new-americans-must-feel-welcome-valued/"
+},
+{
+"text": "[image: Burlington VT Open Fires and Outdoor Burning Memo]",
+"href": "https://alidiengvt.com/open-burning-and-outside-fires/"
+},
+{
+"text": "[image: Front Porch Forum - Winter]",
+"href": "https://alidiengvt.com/burlington-citywide-reappraisal-project-update/"
+},
+{
+"text": "[image: Front Porch Forum]",
+"href": "https://alidiengvt.com/happy-spring/"
+},
+{
+"text": "[image: Protest at Battery Park against Police brutality]",
+"href": "https://alidiengvt.com/organize-for-long-term-change/"
+},
+{
+"text": "[image: Three hands]",
+"href": "https://alidiengvt.com/lets-work-together/"
+},
+{
+"text": "[image: Young Vermonters and New Americans]",
+"href": "https://alidiengvt.com/young-vermonters-new-americans-must-feel-welcome-valued/"
+},
+{
+"text": "[no text]",
+"href": "https://www.addtoany.com/share"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change"
+},
+{
+"text": "[tooltip: Email]",
+"href": "https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fburlington-citywide-reappraisal-project-update%2F&linkname=Burlington+Citywide+Reappraisal+Project+Update"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fhappy-spring%2F&linkname=Happy+Spring"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Flets-work-together%2F&linkname=Let%E2%80%99s+Work+Together"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fopen-burning-and-outside-fires%2F&linkname=Open+Burning+and+Outside+Fires"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Forganize-for-long-term-change%2F&linkname=Call+to+protestors+to+pause+the+protest+and+organize+for+long-term+systemic+change"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Falidiengvt.com%2Fyoung-vermonters-new-americans-must-feel-welcome-valued%2F&linkname=Young+Vermonters+%26+New+Americans+Must+Feel+Welcome+%26+Valued"
+},
+{
+"text": "blog",
+"href": "https://alidiengvt.com/category/blog/"
+},
+{
+"text": "← Older posts",
+"href": "https://alidiengvt.com/author/steve/page/2/"
+}
 ]

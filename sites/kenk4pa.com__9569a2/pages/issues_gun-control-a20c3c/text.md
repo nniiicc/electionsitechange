@@ -1,11 +1,11 @@
-On The Issues
-Gun Control
-In Depth
-This speech was delivered by Mr.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Gun Control In Brief 9 Gun control kills.
+9 The Pennsylvania Constitution mandates, “The right of the Citizen to bear arms for the defense of themselves and the State shall not be questioned. ” 9 Passing more gun control laws would not help.
+Criminals don’t care about breaking a law.
+9 Facts show that supporting the right to keep and bear arms reduces crime and homicides.
+9 Handguns are a girl’s best friend.
+In Depth This speech was delivered by Mr.
 Krawchuk to the Educational Testing Service Toastmasters.
-Gunning for a Solution
-“A well-regulated militia, being necessary to the security of a free State, the right of the people to keep and bear arms shall not be infringed.”
-So says the infamous Second Amendment to the Constitution for the United States of America.
+Gunning for a Solution “A well-regulated militia, being necessary to the security of a free State, the right of the people to keep and bear arms shall not be infringed.” So says the infamous Second Amendment to the Constitution for the United States of America.
 But the same Constitution promises to “promote the general welfare” and “ensure domestic tranquility”.
 Do you think that the 193 million privately-owned firearms promote the general welfare and insure domestic tranquility?
 The Pennsylvania Constitution goes even further.
@@ -29,10 +29,10 @@ Both sides readily agree that these are facts.
 So it’s not so much the facts about guns where the disagreement comes in; it’s how each group puts a certain emphasis on the facts; how they spin the facts if you will.
 For example, in 1995 there were 185 fatal firearm accidents among children.
 Gun advocates point out that it’s down by almost 2/3 from the high-water mark of the 1970’s.
-But gun control advocates point out that it’s ONE HUNDRED EIGHTY-FIVE DEAD CHILDREN! 370 grieving parents.
+But gun control advocates point out that it’s ONE HUNDRED EIGHTY-FIVE DEAD CHILDREN!
+370 grieving parents.
 Do you see what I mean?
-Same facts, different spins
-Another example: Gun advocates prove that Americans use guns defensively 2.5 million times a year, preventing many more murders, rapes, and robberies than if they were unarmed.
+Same facts, different spins Another example: Gun advocates prove that Americans use guns defensively 2.5 million times a year, preventing many more murders, rapes, and robberies than if they were unarmed.
 The gun control advocates agree but counter that with a gun in the home, you’re 3 times more likely to have a homicide, 5 times more likely to have a suicide, and a whopping 43 times more likely to kill a friend than to kill in self-defense.
 All these numbers come from the same facts.
 Each side sat up late at night spinning their numbers in just the right way to promote their agendas.
@@ -50,9 +50,9 @@ Do you think they cared?
 More laws would only impact law-abiding citizens — because they abide by the law — and not the criminals — because they don’t.
 So what, then, do we do about guns?
 The best programmer I ever met once told me a fundamental truth, useful not only in programming but also useful in life.
-He said, “More important than solving the problem correctly is to solve the correct problem.”
-So when it comes to guns, what’s the problem that we’re solving here?
-Do you know what problem I’d like to solve? 40,000 people die every year from firearms.
+He said, “More important than solving the problem correctly is to solve the correct problem.” So when it comes to guns, what’s the problem that we’re solving here?
+Do you know what problem I’d like to solve?
+40,000 people die every year from firearms.
 THAT is the problem to be solved.
 To my mind, all our actions must be aimed at reducing the number of deaths as best we can.
 And who could disagree?
@@ -82,10 +82,10 @@ Statistics can be very cold.
 So let’s take a look at what happens in real situations with real people.
 Let’s look at a few school shootings, for example.
 In Pearl Mississippi in 1997, 2 students were killed by a fellow student.
-But the vice principal ran out to his car for his gun, then held the killer at bay for 5 minutes until the police arrived.
-If he hadn’t stepped forward, how many more people would have been killed in those 5 minutes?
-In 1998, a little closer to home in Edinboro Pennsylvania, only 1 student was killed because a neighboring merchant with a shotgun held the killer at bay for 11 minutes until the police arrived.
-How many more people could have been killed in those 11 minutes?
+But the vice principal ran out to his car for his gun, then held the killer at bay for # minutes until the police arrived.
+If he hadn’t stepped forward, how many more people would have been killed in those # minutes?
+In 1998, a little closer to home in Edinboro Pennsylvania, only 1 student was killed because a neighboring merchant with a shotgun held the killer at bay for # minutes until the police arrived.
+How many more people could have been killed in those # minutes?
 This year, in Littleton Colorado, there was no one there to stop them.
 Thirteen were killed.
 Fellow Toastmasters, I cannot escape the truth.
@@ -94,3 +94,4 @@ No matter how you spin them, the facts are clear.
 No matter whether you look at statistics or individual disasters, the answer is clear.
 If the problem you’re solving is to save as many innocent lives as possible, there is one incontrovertible, inescapable conclusion: gun control kills.
 And if you disagree, if your goal is NOT to save as many innocent lives as possible, then I have to ask you: What problem are YOU solving?
+Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

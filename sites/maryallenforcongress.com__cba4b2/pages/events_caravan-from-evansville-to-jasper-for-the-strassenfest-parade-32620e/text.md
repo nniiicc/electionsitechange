@@ -1,14 +1,6 @@
-Back to All Events
-We will caravan from Haynie's Corner (Mary's neighborhood) to Jasper to march in the Strassenfest Parade.
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Caravan from Evansville to Jasper for the Strassenfest parade Sunday, August 2, 2026 9:15 AM 9:30 AM Woods and Woods 808 Southeast 3rd Street Evansville, Indiana, 47713 United States (map) Google Calendar ICS We will caravan from Haynie's Corner (Mary's neighborhood) to Jasper to march in the Strassenfest Parade.
 Line up in the parking lot and be ready to leave at 9:30 a.m, on the dot!
 Be sure to wear your Mary Allen t-shirt.
-If you don't have one, order one at https://secure.actblue.com/donate/marymerch
-If you want to decorate your car and want some inspiration, we are hosting a car decoration meetup time and location.
+If you don't have one, order one at https://secure.actblue.com/donate/marymerch If you want to decorate your car and want some inspiration, we are hosting a car decoration meetup time and location.
 Click the link below for more details and to sign up for the caravan.
-Previous
-Previous
-July 21
-Work the gate at the Vanderburgh County Fair
-Next
-Next
-August 2
+Source: http://mobilize.us/maryallenforcongress/event/994004/ Previous Previous July 21 Work the gate at the Vanderburgh County Fair Next Next August 2 Strassenfest parade REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

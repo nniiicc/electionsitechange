@@ -1,14 +1,9 @@
-Image 1 of 6
-Image 2 of 6
-Image 3 of 6
-Image 4 of 6
-Image 5 of 6
-Image 6 of 6
-$26.00
+0 Skip to Content Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Volunteer Volunteer Newsletter Media Endorsements NEWS ARTICLES Interviews Newsroom Merch Supporter Merch Assert Your Independence ESPANOL Inicio Políticas Boletín Voluntariado Donate Open Menu Close Menu Policies Events Folder: Volunteer Back Volunteer Newsletter Folder: Media Back Endorsements NEWS ARTICLES Interviews Newsroom Folder: Merch Back Supporter Merch Assert Your Independence Folder: ESPANOL Back Inicio Políticas Boletín Voluntariado Donate Assert Your Independence › Red White & Independent Tote Image 1 of 6 Image 2 of 6 Image 3 of 6 Image 4 of 6 Image 5 of 6 Image 6 of 6 Red White & Independent Tote $26.00 Available in 3 sizes to add both functionality and style, these custom-printed tote bags come with multiple handle colors to match your designs.
+Made with spun polyester, these bags feature double-stitched seams, cotton webbing straps, and nonwoven laminate lining for high-end durability.
+Your all-over print is created with dye sublimation for high-end visuals. .: Made with 100% polyester, a medium-weight fabric (6.49 oz/yd² (200 g/m²)) that is highly durable and perfect for everyday use. .: 4 color handle options .: All tote bags come with a non-woven laminate inside, cotton handle, and are available in 3 sizes (1x large storage compartment) so that you can match your customers' needs. .: Please note: Size tolerance ±0.75" (1.9 cm) Size: Select Size 16" × 16'' 13" × 13'' 18" × 18'' Color: Select Color White Beige Red Navy Add To Cart Added!
 Available in 3 sizes to add both functionality and style, these custom-printed tote bags come with multiple handle colors to match your designs.
 Made with spun polyester, these bags feature double-stitched seams, cotton webbing straps, and nonwoven laminate lining for high-end durability.
-Your all-over print is created with dye sublimation for high-end visuals.
-.: Made with 100% polyester, a medium-weight fabric (6.49 oz/yd² (200 g/m²)) that is highly durable and perfect for everyday use.
-.: 4 color handle options
-.: All tote bags come with a non-woven laminate inside, cotton handle, and are available in 3 sizes (1x large storage compartment) so that you can match your customers' needs.
-.: Please note: Size tolerance ±0.75" (1.9 cm)
+Your all-over print is created with dye sublimation for high-end visuals. .: Made with 100% polyester, a medium-weight fabric (6.49 oz/yd² (200 g/m²)) that is highly durable and perfect for everyday use. .: 4 color handle options .: All tote bags come with a non-woven laminate inside, cotton handle, and are available in 3 sizes (1x large storage compartment) so that you can match your customers' needs. .: Please note: Size tolerance ±0.75" (1.9 cm) Mailing Address PO Box 8912 | Boise ID 83707 Garden City Office 5181 N Glenwood St | Garden City, ID 83714 Hours: Monday - Friday | 10am - 6pm Nampa Office 2205 N.
+Cassia St. | Nampa, ID 83651 Hours: Tuesday & Thursday | 12pm - 2pm Wednesday | 3pm-6:30pm Friday | 12pm-5pm Idaho Falls Office 1320 S Holmes Ave. | Idaho Falls Hours: Monday - Friday | 10am - 5pm Phone : (208) 495 - 4366 Contact US Privacy Policy Press Inquiry ‍ ‍ ‍ Paid for by Todd Achilles for Idaho / J.
+Patrick Riceci, Treasurer Todd Achilles was a member of the United States Army.
+The use of his military rank, positions, and photographs in uniform does not imply any endorsement by the Army, the Department of Defense, or any other branch of the United States Government.

@@ -1,23 +1,18 @@
-Política de privacidad
-AVISO DE IDIOMA
-Aviso: Esta es una traducción de cortesía al español, ofrecida únicamente para facilitar su comprensión.
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate CERRAR Inicio Sobre Jayla Temas Voluntarios Contacto Donar English Política de privacidad AVISO DE IDIOMA Aviso: Esta es una traducción de cortesía al español, ofrecida únicamente para facilitar su comprensión.
 La versión en inglés de esta Política de Privacidad es la única versión vinculante.
-En caso de cualquier discrepancia, diferencia de interpretación o conflicto entre ambas versiones, prevalecerá la versión en inglés.
-Puede consultarla en: jaylat4tennessee.com/privacy-policy
-Notice: This is a courtesy Spanish translation provided for convenience only.
+En caso de cualquier discrepancia, diferencia de interpretación o conflicto entre ambas versiones, prevalecerá la versión en inglés .
+Puede consultarla en: jaylat4tennessee.com/privacy-policy Notice: This is a courtesy Spanish translation provided for convenience only.
 The English version of this Privacy Policy is the sole binding version.
-In the event of any discrepancy, difference in interpretation, or conflict between the two versions, the English version shall govern.
-Introducción
-Bienvenido al sitio web oficial o aplicación móvil (los Sitios) del Friends of Jayla Thomas Committee.
+In the event of any discrepancy, difference in interpretation, or conflict between the two versions, the English version shall govern .
+Introducción Bienvenido al sitio web oficial o aplicación móvil (los Sitios) del Friends of Jayla Thomas Committee .
 Esta Política de Privacidad describe nuestras prácticas de recopilación, uso y divulgación de la información que usted nos proporciona cuando utiliza nuestro Sitio y otras aplicaciones móviles del Friends of Jayla Thomas Committee que muestran esta política (los Sitios).
 Al usar estos Sitios, usted acepta que su uso de los Sitios se rige por esta Política de Privacidad y por nuestros Términos de Servicio.
 De vez en cuando podemos actualizar esta Política de Privacidad.
 Le recomendamos revisar este Sitio periódicamente para ver si hay actualizaciones.
 Le informaremos de los cambios realizados indicando en la Política la fecha de su última actualización.
 Su uso continuado del Sitio confirma su aceptación de cualquier cambio que hagamos a esta Política de Privacidad.
-Tenga en cuenta la distinción entre nuestras prácticas de privacidad relacionadas con su visita al Sitio y nuestros Términos de Servicio.
-Información que recopilamos y cómo la recopilamos
-Información voluntaria: Podemos recopilar información personal que usted nos proporciona voluntariamente, incluyendo su nombre, dirección de correo electrónico, dirección postal, número de teléfono, número de celular y ubicación geográfica.
+Tenga en cuenta la distinción entre nuestras prácticas de privacidad relacionadas con su visita al Sitio y nuestros Términos de Servicio .
+Información que recopilamos y cómo la recopilamos Información voluntaria: Podemos recopilar información personal que usted nos proporciona voluntariamente, incluyendo su nombre, dirección de correo electrónico, dirección postal, número de teléfono, número de celular y ubicación geográfica.
 Usted puede proporcionar esta información cuando solicita información, se registra, realiza una compra, nos envía un correo electrónico, se suscribe para recibir actualizaciones por correo o mensaje de texto, se conecta a través de una red social, llena un formulario o para otros fines.
 También podemos recopilar información demográfica como género, fecha de nacimiento, ocupación, nombre del empleador y código postal.
 Cuando esta información está vinculada a información de identificación personal, se tratará como información personal voluntaria.
@@ -36,17 +31,12 @@ También podemos usar su información no identificable personalmente para mejora
 Todos los usuarios del Sitio permanecen anónimos a menos que elijan darnos su información personal.
 Usted puede optar por no permitirnos recopilar y usar estos datos no identificables personalmente como parte de nuestro Servicio, siguiendo los procedimientos de exclusión (Opt Out) que se describen más adelante.
 Datos de consentimiento para mensajes de texto: No compartiremos ni venderemos sus datos de consentimiento para mensajes de texto, su consentimiento, ni la información personal relacionada, con ningún tercero, salvo que la ley lo exija.
-Cookies y otras tecnologías
-Generalidades: Podemos usar cookies y otras tecnologías para obtener ciertos tipos de información cuando su navegador accede al Sitio o visita un sitio web de nuestra red.
+Cookies y otras tecnologías Generalidades: Podemos usar cookies y otras tecnologías para obtener ciertos tipos de información cuando su navegador accede al Sitio o visita un sitio web de nuestra red.
 Las "cookies" son pequeños fragmentos de información que su navegador almacena a solicitud de un sitio web.
 Las cookies nos ayudan a mejorar su experiencia en nuestros Sitios; sin embargo, si desea bloquearlas, borrarlas o ser advertido de su uso, consulte el apartado siguiente titulado "Desactivar las cookies" o al fabricante de su navegador.
 Cuando ve un video en nuestros Sitios, un tercero también puede instalar una "cookie flash" en su computadora.
 Dado que eliminar y rechazar las cookies del navegador puede no eliminar ni rechazar las cookies flash, también deberá visitar www.adobe.com/products/flashplayer/security para eliminarlas o desactivarlas.
 Rechazar o eliminar cookies del navegador o cookies flash puede afectar ciertas funciones de nuestros Sitios.
-Este sitio web utiliza proveedores externos como Google para ayudar a analizar cómo los usuarios usan el sitio.
-Por ejemplo, Google Analytics usa cookies para recopilar información estándar de registro de internet e información sobre el comportamiento de los visitantes de forma anónima.
-La información generada por la cookie sobre su uso del sitio web (incluida la dirección IP) se transmite a Google.
-Esta información se usa luego para evaluar el uso del sitio web por parte de los visitantes y elaborar informes estadísticos sobre la actividad del sitio para el Friends of Jayla Thomas Committee.
 Google Analytics recopila información de forma anónima.
 Google no asociará su dirección IP con ningún otro dato en su poder.
 Ni el Friends of Jayla Thomas Committee ni Google vincularán, ni intentarán vincular, una dirección IP con la identidad de un usuario.
@@ -63,10 +53,9 @@ La cookie persistente también permite al Friends of Jayla Thomas Committee rast
 La cookie persistente se elimina cuando usted desmarca la casilla "recordarme".
 Desactivar las cookies: La sección de "Ayuda" en la barra de herramientas de la mayoría de los navegadores le indicará cómo evitar que su navegador acepte cookies, cómo hacer que el navegador le notifique cuando reciba cookies y cómo desactivarlas por completo.
 Tenga en cuenta que si rechaza o bloquea las cookies, esto puede afectar su capacidad de disfrutar de toda la funcionalidad y experiencia de nuestro Sitio.
-Balizas web (web beacons): Las páginas de nuestro Sitio [y nuestros correos electrónicos] pueden contener pequeños archivos electrónicos conocidos como balizas web (también llamados clear gifs, etiquetas de píxel o gifs de un solo píxel) que permiten al Friends of Jayla Thomas Committee, por ejemplo, contar los usuarios que han visitado esas páginas o [abierto un correo electrónico] y obtener otras estadísticas relacionadas del sitio web (por ejemplo, registrar la popularidad de cierto contenido y verificar la integridad del sistema y del servidor).
-Uso y divulgación de la información
-Uso de la información personal: Si recibimos su información personal, solo la usaremos para los fines descritos en el punto donde se recopila o según se describa de otro modo en esta Política de Privacidad.
-Podemos compartir esta información fuera del Friends of Jayla Thomas Committee si (1) usted nos autoriza a hacerlo; (2) es necesario para permitir que nuestros proveedores de servicios o agentes nos presten productos o servicios; (3) es necesario para proporcionarle nuestros productos o servicios (y para contactarlo cuando sea necesario); (4) sujeto a las restricciones contractuales o legales aplicables, se divulga a entidades que realizan servicios de marketing en nuestro nombre o a otras entidades con las que tengamos acuerdos conjuntos de marketing; (5) sujeto a las restricciones contractuales o legales aplicables, es necesario en relación con la venta de la totalidad o sustancialmente la totalidad de los activos del Friends of Jayla Thomas Committee; (6) es necesario en relación con otros fines comerciales, incluyendo, sin limitación, responder a sus consultas o solicitudes de información o servicios, atención al cliente, calidad del servicio, gestión y operación del negocio, evaluación de riesgos, seguridad, prevención y detección de fraude y delitos, monitoreo, investigación y análisis, marketing, preferencias y tendencias de compra de los clientes, resolución de disputas, verificación de crédito y cobro de deudas; (7) es necesario divulgarla para proteger o defender nuestros derechos o propiedad o los de nuestros usuarios; (8) es necesario divulgarla para proteger la seguridad personal de nuestros usuarios o del público; (9) es necesario proporcionarla a nuestros abogados, contadores, reguladores, auditores u otros asesores; o (10) de cualquier otro modo exigido o permitido por la ley, o requerido para cumplir con un proceso legal notificado a nosotros, a nuestros agentes, representantes o afiliados.
+Balizas web (web beacons): Las páginas de nuestro Sitio [y nuestros correos electrónicos] pueden contener pequeños archivos electrónicos conocidos como balizas web (también llamados clear gifs, etiquetas de píxel o gifs de un solo píxel) que permiten al Friends of Jayla Thomas Committee , por ejemplo, contar los usuarios que han visitado esas páginas o [abierto un correo electrónico] y obtener otras estadísticas relacionadas del sitio web (por ejemplo, registrar la popularidad de cierto contenido y verificar la integridad del sistema y del servidor).
+Uso y divulgación de la información Uso de la información personal: Si recibimos su información personal, solo la usaremos para los fines descritos en el punto donde se recopila o según se describa de otro modo en esta Política de Privacidad.
+Podemos compartir esta información fuera del Friends of Jayla Thomas Committee si (1) usted nos autoriza a hacerlo; (2) es necesario para permitir que nuestros proveedores de servicios o agentes nos presten productos o servicios; (3) es necesario para proporcionarle nuestros productos o servicios (y para contactarlo cuando sea necesario); (4) sujeto a las restricciones contractuales o legales aplicables, se divulga a entidades que realizan servicios de marketing en nuestro nombre o a otras entidades con las que tengamos acuerdos conjuntos de marketing; (5) sujeto a las restricciones contractuales o legales aplicables, es necesario en relación con la venta de la totalidad o sustancialmente la totalidad de los activos del Friends of Jayla Thomas Committee ; (6) es necesario en relación con otros fines comerciales, incluyendo, sin limitación, responder a sus consultas o solicitudes de información o servicios, atención al cliente, calidad del servicio, gestión y operación del negocio, evaluación de riesgos, seguridad, prevención y detección de fraude y delitos, monitoreo, investigación y análisis, marketing, preferencias y tendencias de compra de los clientes, resolución de disputas, verificación de crédito y cobro de deudas; (7) es necesario divulgarla para proteger o defender nuestros derechos o propiedad o los de nuestros usuarios; (8) es necesario divulgarla para proteger la seguridad personal de nuestros usuarios o del público; (9) es necesario proporcionarla a nuestros abogados, contadores, reguladores, auditores u otros asesores; o (10) de cualquier otro modo exigido o permitido por la ley, o requerido para cumplir con un proceso legal notificado a nosotros, a nuestros agentes, representantes o afiliados.
 También podemos agregar su información personal con la de otras personas y divulgar dicha información en forma agregada para fines de marketing y promoción, de manera que no lo identifique individualmente.
 Uso de información no identificable personalmente: El Friends of Jayla Thomas Committee o nuestros proveedores de servicios o agentes pueden usar información no identificable personalmente como parte de los Servicios para adaptar mejor los anuncios y otros contenidos, con el fin de crear una experiencia más relevante para cada persona que visita el Sitio o navega en internet.
 Esta información también puede usarse para predecir respuestas a los anuncios, ayudar a determinar qué anuncios funcionan mejor y qué contenido es más apropiado para distintas personas, medir y optimizar la eficacia de los anuncios, y proporcionar informes agregados a nuestros proveedores de servicios o agentes y para nuestros fines internos y los suyos.
@@ -82,8 +71,7 @@ A través de estas promociones, puede optar por participar en actividades como c
 En relación con cualquier concurso u otra promoción que podamos ofrecer a través de nuestro Sitio, usamos la información que usted proporciona para administrarlos.
 Sujeto a las restricciones contractuales o legales aplicables, también podemos usar la información para comunicarnos con usted, o con las demás personas que usted seleccione, sobre nuestros productos y servicios; o nuestros proveedores de servicios, agentes o socios pueden usar dicha información para comunicarse con usted sobre los concursos y promociones o sus productos y servicios.
 Si elige participar en estas promociones, y es elegible para hacerlo, podemos solicitarle información como su nombre, dirección de correo electrónico, fecha de nacimiento y número de teléfono.
-Funciones de terceros
-Enlaces de terceros: Para su conveniencia, podemos incluir u ofrecer ofertas, productos o servicios de terceros en nuestro Sitio.
+Funciones de terceros Enlaces de terceros: Para su conveniencia, podemos incluir u ofrecer ofertas, productos o servicios de terceros en nuestro Sitio.
 Los proveedores externos pueden usar cookies u otras tecnologías para mostrar anuncios en otros sitios web con base en su visita a este Sitio y a otros sitios de internet.
 No podemos ser responsables de las prácticas de privacidad de sitios o páginas que no estén bajo nuestro control, y no respaldamos ninguno de esos sitios o páginas, ni los servicios o productos descritos u ofrecidos en ellos, ni el contenido que contengan.
 No obstante, buscamos proteger la integridad de nuestro Sitio y agradecemos cualquier comentario sobre esos sitios web.
@@ -96,11 +84,10 @@ Aunque podemos tomar ciertas precauciones para proteger a quienes usan estas ár
 La información que publique puede ser recopilada y usada por personas que usted no conoce.
 No podemos garantizar la privacidad y seguridad de estas áreas y, por lo tanto, no somos responsables de la información que usted decida publicar.
 El uso de estas funciones es enteramente bajo su propio riesgo.
-Suscripciones por correo electrónico
-Correo electrónico: Agradecemos sus preguntas y comentarios sobre nuestro Sitio y servicios, y recibimos con gusto sus correos electrónicos y preguntas enviados a través de nuestro Sitio.
+Suscripciones por correo electrónico Correo electrónico: Agradecemos sus preguntas y comentarios sobre nuestro Sitio y servicios, y recibimos con gusto sus correos electrónicos y preguntas enviados a través de nuestro Sitio.
 Compartiremos sus mensajes con las personas dentro de nuestra organización que estén más capacitadas para atender los temas que plantee.
 Podemos archivar su mensaje por un periodo de tiempo o descartarlo, pero su dirección de correo electrónico y su mensaje solo se usarán de acuerdo con esta Política de Privacidad.
-Envío de su correo electrónico: Enviar su dirección en cualquier parte del Sitio puede resultar en que su correo electrónico se agregue a la lista de correo del Friends of Jayla Thomas Committee.
+Envío de su correo electrónico: Enviar su dirección en cualquier parte del Sitio puede resultar en que su correo electrónico se agregue a la lista de correo del Friends of Jayla Thomas Committee .
 Usted puede darse de baja de los correos del Friends of Jayla Thomas Committee en cualquier momento mediante el enlace "unsubscribe" (cancelar suscripción) incluido en cada correo.
 Su dirección será eliminada de nuestra lista de marketing.
 Le pedimos un plazo razonable para atender su solicitud, ya que algunas campañas pueden estar ya en proceso.
@@ -108,49 +95,31 @@ Recomendar el Sitio a un amigo: Si usted decide usar alguna función que permita
 El Sitio puede enviar automáticamente a esa persona un correo único invitándola a visitar los Sitios o proporcionarle la información que usted haya solicitado.
 El Friends of Jayla Thomas Committee almacenará y usará esta información de acuerdo con esta Política de Privacidad.
 Su amigo puede contactar al Friends of Jayla Thomas Committee para solicitar la eliminación de esta información de nuestras bases de datos.
-Seguridad
-Empleamos y mantenemos tecnología y medidas de seguridad diseñadas para proteger su información personal.
+Seguridad Empleamos y mantenemos tecnología y medidas de seguridad diseñadas para proteger su información personal.
 Sin embargo, ninguna transmisión de datos por internet puede garantizarse como 100 por ciento segura.
 Por ello, aunque nos esforzamos por proteger su información, no podemos asegurar ni garantizar la seguridad de ninguna información que usted nos transmita o reciba de nosotros.
-Exclusión (Opt out)
-Generalidades: Podemos usar información no identificable personalmente para ofrecer publicidad y contenido más relevantes.
+Exclusión (Opt out) Generalidades: Podemos usar información no identificable personalmente para ofrecer publicidad y contenido más relevantes.
 Si desea impedir que este Sitio recopile ciertos tipos de información que permiten personalizar los anuncios y mensajes que usted recibe, haga clic aquí.
 Si opta por excluirse de este tipo de publicidad, instalaremos una cookie en su navegador para indicar que no debemos recopilar datos para personalizar la publicidad dirigida a ese navegador.
 Si borra sus cookies, instala un navegador nuevo o usa otra computadora, es posible que deba volver a esta página para excluirse.
-También puede visitar el sitio de la Digital Advertising Alliance, en www.aboutads.info/choices, para excluirse de la publicidad basada en intereses de otros terceros que usan cookies.
-Sus derechos de privacidad en Tennessee
-Conforme a la ley de Tennessee, los residentes de Tennessee tienen derecho a solicitar por escrito a las empresas con las que mantienen una relación comercial establecida: (a) una lista de las categorías de información personal —como nombre, correo electrónico y dirección postal— y el tipo de servicios prestados al cliente, que la empresa haya divulgado a terceros (incluidas filiales que sean entidades legales separadas) durante el año calendario inmediatamente anterior para fines de marketing directo de dichos terceros; y (b) los nombres y direcciones de todos esos terceros.
-Para solicitar la información anterior, escríbanos a (indicando la referencia "Tennessee Disclosure Information"): info@jaylat4tennessee.com
-Responderemos a dichas solicitudes de acceso a la información dentro de los 30 días siguientes a su recepción en el correo electrónico o dirección postal indicados arriba.
+También puede visitar el sitio de la Digital Advertising Alliance, en www.aboutads.info/choices , para excluirse de la publicidad basada en intereses de otros terceros que usan cookies.
+Sus derechos de privacidad en Tennessee Conforme a la ley de Tennessee, los residentes de Tennessee tienen derecho a solicitar por escrito a las empresas con las que mantienen una relación comercial establecida: (a) una lista de las categorías de información personal —como nombre, correo electrónico y dirección postal— y el tipo de servicios prestados al cliente, que la empresa haya divulgado a terceros (incluidas filiales que sean entidades legales separadas) durante el año calendario inmediatamente anterior para fines de marketing directo de dichos terceros; y (b) los nombres y direcciones de todos esos terceros.
+Para solicitar la información anterior, escríbanos a (indicando la referencia "Tennessee Disclosure Information"): info@jaylat4tennessee.com Responderemos a dichas solicitudes de acceso a la información dentro de los 30 días siguientes a su recepción en el correo electrónico o dirección postal indicados arriba.
 Si recibimos su solicitud en un correo o dirección distintos, responderemos dentro de un plazo razonable, que no excederá los 150 días desde la fecha de recepción.
 Tenga en cuenta que solo estamos obligados a responder a cada cliente una vez por año calendario.
-Menores de edad
-Recomendamos enfáticamente a los padres y tutores que supervisen y monitoreen con regularidad las actividades en línea de sus hijos.
+Menores de edad Recomendamos enfáticamente a los padres y tutores que supervisen y monitoreen con regularidad las actividades en línea de sus hijos.
 No recopilamos a sabiendas información personal de menores de 13 años.
-Donaciones
-Cuando usted realiza una contribución al Friends of Jayla Thomas Committee, la ley estatal aplicable nos exige obtener la siguiente información: nombre, dirección postal, empleador, ocupación y monto de la contribución.
+Donaciones Cuando usted realiza una contribución al Friends of Jayla Thomas Committee , la ley estatal aplicable nos exige obtener la siguiente información: nombre, dirección postal, empleador, ocupación y monto de la contribución.
 La ley estatal también puede exigirnos reportar esta información a la autoridad electoral estatal correspondiente si las contribuciones de una persona superan en conjunto ciertos límites dentro de un mismo año calendario.
 Cualquier información de tarjeta de crédito que se proporcione se usa únicamente para procesar su donación de inmediato.
-Todas las contribuciones realizadas en el Sitio se consideran definitivas, salvo que la donación no cumpla con la ley y/o los reglamentos electorales estatales.
-Todas las compras en la tienda en línea se consideran contribuciones al Friends of Jayla Thomas Committee.
-Declaración especial para solicitantes de empleo
-Cualquier información personal que usted nos proporcione al postularse a un puesto de trabajo con el Friends of Jayla Thomas Committee se usará únicamente para considerar y dar trámite a su solicitud.
+Todas las contribuciones realizadas en el Sitio se consideran definitivas, salvo que la donación no cumpla con la ley y/o los reglamentos electorales estatales .
+Todas las compras en la tienda en línea se consideran contribuciones al Friends of Jayla Thomas Committee .
+Declaración especial para solicitantes de empleo Cualquier información personal que usted nos proporcione al postularse a un puesto de trabajo con el Friends of Jayla Thomas Committee se usará únicamente para considerar y dar trámite a su solicitud.
 Podemos conservar su información personal por un periodo de tiempo, pero solo durante el tiempo necesario para dichos fines o según lo exija la ley.
 Podemos divulgar su información personal a nuestros agentes con el fin de evaluar sus calificaciones para el puesto al que se postuló, para otros puestos disponibles, o según lo exija la ley.
 También podemos divulgar su información personal a terceros contratados por nosotros para recopilar, mantener y analizar candidatos a puestos de trabajo, o según lo exija la ley.
-Si visita nuestro Sitio desde fuera de Estados Unidos
-Si visita nuestro Sitio desde fuera de los Estados Unidos de América, tenga en cuenta que su información puede transferirse, almacenarse o procesarse en Estados Unidos, donde se encuentran nuestros servidores y opera nuestra base de datos central.
+Si visita nuestro Sitio desde fuera de Estados Unidos Si visita nuestro Sitio desde fuera de los Estados Unidos de América, tenga en cuenta que su información puede transferirse, almacenarse o procesarse en Estados Unidos, donde se encuentran nuestros servidores y opera nuestra base de datos central.
 Las leyes de protección de datos y otras leyes de Estados Unidos y de otros países podrían no ser tan amplias como las de su país, pero le aseguramos que tomamos medidas para proteger su privacidad.
 Al usar nuestro Sitio, usted entiende que su información puede transferirse a nuestras instalaciones y a aquellos terceros con quienes la compartimos, según se describe en esta Política de Privacidad.
-Contáctenos
-Si tiene preguntas sobre nuestra Política de Privacidad, contáctenos en info@jaylat4tennessee.com
-Todas las categorías anteriores excluyen los datos de consentimiento y la aceptación para mensajes de texto; esta información no se compartirá con ningún tercero.
-Jaylat4tennessee
-UBICACIÓn
-Districto 55
-Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch
-Pagado por Friends of Jayla Thomas Committee
-Ryan Paradis, Tesorero
-Contacto
-jayla@jaylat4tennessee.com
-(615) 994-0200
+Contáctenos Si tiene preguntas sobre nuestra Política de Privacidad, contáctenos en info@jaylat4tennessee.com Todas las categorías anteriores excluyen los datos de consentimiento y la aceptación para mensajes de texto; esta información no se compartirá con ningún tercero.
+Jaylat4tennessee Preguntas frecuentes | Política de privacidad | Términos y condiciones Donar UBICACIÓn Districto 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Pagado por Friends of Jayla Thomas Committee Ryan Paradis, Tesorero Contacto jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

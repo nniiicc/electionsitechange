@@ -1,13 +1,8 @@
-State Senator Brandon Wipf Announces Campaign to Continue Serving District 22
-FOR IMMEDIATE RELEASE: December 1, 2025
-MEDIA CONTACT: Senator Wipf | 605-350-1978
-State Senator Brandon Wipf Announces Campaign to Continue Serving District 22
-HURON, S.D. – Today, State Senator Brandon Wipf announced his campaign to continue serving District 22 in the South Dakota State Senate.
+0 Skip to Content Home About Issues Take Action Press DONATE Open Menu Close Menu Home About Issues Take Action Press DONATE Open Menu Close Menu Home About Issues Take Action Press DONATE State Senator Brandon Wipf Announces Campaign to Continue Serving District 22 Dec 1 Written By Benjamin Koisti FOR IMMEDIATE RELEASE: December 1, 2025 MEDIA CONTACT: Senator Wipf | 605-350-1978 State Senator Brandon Wipf Announces Campaign to Continue Serving District 22 HURON, S.D. – Today, State Senator Brandon Wipf announced his campaign to continue serving District 22 in the South Dakota State Senate.
 Wipf was appointed by Governor Rhoden earlier this year, following the resignation of former Senator David Wheeler, who was appointed to the Third Judicial Circuit Court.
 “Serving in the State Senate has already been a tremendous honor,” Wipf said.
 “In the short time since my appointment, I have had the privilege of meeting with so many constituents across District 22 who are deeply invested in South Dakota’s future.
-Their perspective and passion have strengthened my determination to continue serving them.”
-Wipf has been a strong advocate for South Dakota agriculture at both the state and national levels.
+Their perspective and passion have strengthened my determination to continue serving them.” Wipf has been a strong advocate for South Dakota agriculture at both the state and national levels.
 After serving on the South Dakota Soybean Association board, he was elected to the American Soybean Association in 2017, where he became known as a steady, effective leader, representing producers in national media, testifying before Congress, and working internationally to advance U.S. agricultural trade.
 He also played a key leadership role in Commodity Classic, one of the nation’s premier farmer-led trade shows, helping grow its reach and impact.
 Across the industry, Wipf is recognized as a coalition builder who brings people together to deliver results.
@@ -18,5 +13,6 @@ He lives in rural Huron with his wife, Mandy, an engineer and U.S.
 Air Force veteran.
 District 22 includes Beadle, Clark, and Spink counties.
 Absentee voting begins on April 17, 2026, and the Republican Primary Election is on June 2, 2026.
-For more information about Brandon’s campaign, please visit BrandonWipf.com or connect with his campaign on Facebook.
-###
+For more information about Brandon’s campaign, please visit BrandonWipf.com or connect with his campaign on Facebook .
+### Benjamin Koisti Previous Previous Senator Wipf Appointed to Legislative Committees Ahead of 2026 Legislative Session DONATE PRIVACY POLICY PAID FOR BY WIPF FOR THE SENATE 40396 S.
+SHORE RD, HURON, SD 57350

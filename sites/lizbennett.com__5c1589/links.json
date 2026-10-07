@@ -1,11 +1,50 @@
 [
-"https://actionnetwork.org/forms/subscribe-liz-bennett",
-"https://facebook.com/LizBennettIowa",
-"https://instagram.com/replizbennett",
-"https://lizbennett.com/",
-"https://lizbennett.com/endorsers",
-"https://lizbennett.com/video",
-"https://secure.actblue.com/donate/runliz",
-"https://senate.iowa.gov/senator/bennett/recent-newsletters",
-"https://twitter.com/lizbennettiowa"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/runliz"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/runliz"
+},
+{
+"text": "Email Signup",
+"href": "https://actionnetwork.org/forms/subscribe-liz-bennett/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lizbennett.com/endorsers"
+},
+{
+"text": "Home",
+"href": "https://www.lizbennett.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.senate.iowa.gov/senator/bennett/recent-newsletters/"
+},
+{
+"text": "Video",
+"href": "https://www.lizbennett.com/video"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LizBennettIowa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://instagram.com/replizbennett"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/lizbennettiowa"
+},
+{
+"text": "here.",
+"href": "https://www.lizbennett.com/endorsers"
+},
+{
+"text": "passionate advocacy",
+"href": "https://www.lizbennett.com/video"
+}
 ]

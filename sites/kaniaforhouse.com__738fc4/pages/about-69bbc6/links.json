@@ -1,8 +1,34 @@
 [
-"https://kaniaforhouse.com/",
-"https://kaniaforhouse.com/about",
-"https://kaniaforhouse.com/in-the-news",
-"https://kaniaforhouse.com/issues",
-"https://northwoodspro.com/",
-"https://secure.actblue.com/donate/aaron-kania-1"
+{
+"text": "About",
+"href": "https://kaniaforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "https://kaniaforhouse.com/#contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/aaron-kania-1"
+},
+{
+"text": "In the News",
+"href": "https://kaniaforhouse.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://kaniaforhouse.com/issues"
+},
+{
+"text": "Northwoods Professional Group, LLC",
+"href": "https://northwoodspro.com"
+},
+{
+"text": "Schedule",
+"href": "https://kaniaforhouse.com/#schedule"
+},
+{
+"text": "[image: Kania for House]",
+"href": "https://kaniaforhouse.com/"
+}
 ]

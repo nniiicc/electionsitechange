@@ -1,41 +1,162 @@
 [
-"http://iowaalmanac.weebly.com/",
-"https://attheiowafarmtable.substack.com/",
-"https://capitolweek.khoifm.org/",
-"https://facebook.com/LevinforIowa",
-"https://iheart.com/podcast/105-stuff-you-should-know-26940277?pname=stuffyoushouldknow.com&sc=dnsredirect",
-"https://instagram.com/levinforiowa",
-"https://iupress.org/9780253041531/god-land",
-"https://kcrw.com/shows/left-right-center/about?srsltid=AU7gw4Vl43osjIkLlc-H-5w8dmyb5dUGnbjVz6pDp5EzneIDFA0v1imq",
-"https://levinforiowa.com/",
-"https://levinforiowa.com/areas-of-focus",
-"https://levinforiowa.com/cart",
-"https://levinforiowa.com/endorsements",
-"https://levinforiowa.com/espanol/francais/swahili",
-"https://levinforiowa.com/get-involved",
-"https://levinforiowa.com/media-recommendations",
-"https://levinforiowa.com/press",
-"https://milkweed.org/book/braiding-sweetgrass",
-"https://npr.org/podcasts/510289/planet-money",
-"https://npr.org/podcasts/510333/throughline",
-"https://octaviabutler.com/kindred",
-"https://open.spotify.com/show/6oDp20HsrLzw7h1i9OBift",
-"https://penguinrandomhouse.com/books/190696/the-warmth-of-other-suns-by-isabel-wilkerson",
-"https://penguinrandomhouse.com/books/547943/this-is-all-i-got-by-lauren-sandler",
-"https://penguinrandomhouse.com/books/567281/where-the-crawdads-sing-by-delia-owens",
-"https://penguinrandomhouse.com/books/577021/i-want-you-to-know-were-still-here-by-esther-safran-foer",
-"https://penguinrandomhouse.com/books/653196/caste-oprahs-book-club-by-isabel-wilkerson",
-"https://persuasion.community/p/how-not-to-change-minds",
-"https://rainbowrowell.com/pumpkinheads",
-"https://roxanegay.com/books/not-that-bad",
-"https://secure.actblue.com/entity/fundraisers/122826",
-"https://theallusionist.org/",
-"https://thebloggess.com/",
-"https://thepodcastcollaborative.com/view/podcast_discovery_database/entry/46992",
-"https://threeruralwhiteguys.com/",
-"https://twitter.com/LevinforIowa",
-"https://ursulakleguin.com/novels",
-"https://us.macmillan.com/books/9781250143785/wordsonthemove",
-"https://us.macmillan.com/books/9781626720879/pashmina",
-"https://youtube.com/watch?v=AvLq0DOno6Y"
+{
+"text": "0",
+"href": "https://www.levinforiowa.com/cart"
+},
+{
+"text": "Areas of Focus",
+"href": "https://www.levinforiowa.com/areas-of-focus"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/entity/fundraisers/122826"
+},
+{
+"text": "Endorsements",
+"href": "https://www.levinforiowa.com/endorsements"
+},
+{
+"text": "Español/Français/Swahili",
+"href": "https://www.levinforiowa.com/espanol/francais/swahili"
+},
+{
+"text": "Get Involved",
+"href": "https://www.levinforiowa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.levinforiowa.com/"
+},
+{
+"text": "Media Recommendations",
+"href": "https://www.levinforiowa.com/media-recommendations"
+},
+{
+"text": "Press",
+"href": "https://www.levinforiowa.com/press"
+},
+{
+"text": "[image: At the Iowa Farm Table - Iowa Food System Coalition]",
+"href": "https://attheiowafarmtable.substack.com/"
+},
+{
+"text": "[image: BraidingSweetgrass.jpg]",
+"href": "https://milkweed.org/book/braiding-sweetgrass"
+},
+{
+"text": "[image: Broken.png]",
+"href": "https://thebloggess.com"
+},
+{
+"text": "[image: Canary in a Cornfield - The Harkin Institute]",
+"href": "https://thepodcastcollaborative.com/view/podcast_discovery_database/entry/46992/"
+},
+{
+"text": "[image: Capitol Week - KHOI]",
+"href": "https://capitolweek.khoifm.org/"
+},
+{
+"text": "[image: God Land.jpg]",
+"href": "https://iupress.org/9780253041531/god-land/"
+},
+{
+"text": "[image: Iowa Almanac]",
+"href": "http://iowaalmanac.weebly.com"
+},
+{
+"text": "[image: Iowa Civil Rights History - North Iowa Local]",
+"href": "https://open.spotify.com/show/6oDp20HsrLzw7h1i9OBift"
+},
+{
+"text": "[image: Kindred.jpg]",
+"href": "https://www.octaviabutler.com/kindred"
+},
+{
+"text": "[image: LRC.webp]",
+"href": "https://www.kcrw.com/shows/left-right-center/about?srsltid=AU7gw4Vl43osjIkLlc-H-5w8dmyb5dUGnbjVz6pDp5EzneIDFA0v1imq"
+},
+{
+"text": "[image: Pashmina.jpg]",
+"href": "https://us.macmillan.com/books/9781626720879/pashmina"
+},
+{
+"text": "[image: Planet Money from NPR]",
+"href": "https://www.npr.org/podcasts/510289/planet-money"
+},
+{
+"text": "[image: Pumpkinheads.jpg]",
+"href": "https://www.rainbowrowell.com/pumpkinheads"
+},
+{
+"text": "[image: Representative Elinor A. Levin - Iowa House District 89]",
+"href": "https://www.levinforiowa.com/"
+},
+{
+"text": "[image: Stuff You Should Know]",
+"href": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/?pname=stuffyoushouldknow.com&sc=dnsredirect"
+},
+{
+"text": "[image: The Allusionist]",
+"href": "https://www.theallusionist.org"
+},
+{
+"text": "[image: The Good Fight by Persuasion]",
+"href": "https://www.persuasion.community/p/how-not-to-change-minds"
+},
+{
+"text": "[image: Three Rural White Guys - SE Iowa Locals]",
+"href": "https://threeruralwhiteguys.com"
+},
+{
+"text": "[image: Throughline by NPR]",
+"href": "https://www.npr.org/podcasts/510333/throughline"
+},
+{
+"text": "[image: all i got.jpg]",
+"href": "https://www.penguinrandomhouse.com/books/547943/this-is-all-i-got-by-lauren-sandler/"
+},
+{
+"text": "[image: caste.jpg]",
+"href": "https://www.penguinrandomhouse.com/books/653196/caste-oprahs-book-club-by-isabel-wilkerson/"
+},
+{
+"text": "[image: crawdads.jpg]",
+"href": "https://www.penguinrandomhouse.com/books/567281/where-the-crawdads-sing-by-delia-owens/"
+},
+{
+"text": "[image: not-that-bad-roxane-gay.jpg]",
+"href": "https://roxanegay.com/books/not-that-bad/"
+},
+{
+"text": "[image: still here.jpg]",
+"href": "https://www.penguinrandomhouse.com/books/577021/i-want-you-to-know-were-still-here-by-esther-safran-foer/"
+},
+{
+"text": "[image: tehanu-saga.jpg]",
+"href": "https://www.ursulakleguin.com/novels"
+},
+{
+"text": "[image: warmth suns.jpg]",
+"href": "https://www.penguinrandomhouse.com/books/190696/the-warmth-of-other-suns-by-isabel-wilkerson/"
+},
+{
+"text": "[image: words move.jpg]",
+"href": "https://us.macmillan.com/books/9781250143785/wordsonthemove"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LevinforIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LevinforIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/levinforiowa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/watch?v=AvLq0DOno6Y"
+}
 ]

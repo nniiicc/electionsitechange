@@ -1,8 +1,10 @@
 {
  "description": "Latest news, press releases, and campaign updates from Greg Sharpe's race for Missouri State Senate, District 18.",
  "final_url": "https://sharpeformissouri.com/news",
- "paid_for_by": "Paid for by Sharpe for Missouri \u00b7 Barb Wilson, Treasurer \u00a9 2026 Sharpe for Missouri",
- "title": "News & Updates \u00b7 Greg Sharpe for Missouri State Senate",
+ "fingerprint": "ca47ada704d6df593383586d60b387234c28c9ff",
+ "format": 3,
+ "paid_for_by": "Paid for by Sharpe for Missouri · Barb Wilson, Treasurer © # Sharpe for Missouri",
+ "title": "News & Updates · Greg Sharpe for Missouri State Senate",
  "years_mentioned": [
   "2019",
   "2026"

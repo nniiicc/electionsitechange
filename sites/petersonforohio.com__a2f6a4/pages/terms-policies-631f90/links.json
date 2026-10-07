@@ -1,11 +1,42 @@
 [
-"https://facebook.com/BobPetersonOH",
-"https://peterson.revv.co/support",
-"https://petersonforohio.com/",
-"https://petersonforohio.com/about",
-"https://petersonforohio.com/connect",
-"https://petersonforohio.com/issues",
-"https://petersonforohio.com/news",
-"https://petersonforohio.com/search",
-"https://petersonforohio.com/terms-policies"
+{
+"text": "About",
+"href": "https://www.petersonforohio.com/about"
+},
+{
+"text": "Connect",
+"href": "https://www.petersonforohio.com/connect"
+},
+{
+"text": "Donate",
+"href": "https://peterson.revv.co/support"
+},
+{
+"text": "Home",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.petersonforohio.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.petersonforohio.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.petersonforohio.com/terms-policies"
+},
+{
+"text": "[image: Bob Peterson]",
+"href": "https://www.petersonforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BobPetersonOH"
+},
+{
+"text": "[no text]",
+"href": "https://www.petersonforohio.com/search"
+}
 ]

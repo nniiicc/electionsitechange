@@ -1,7 +1,11 @@
 {
  "description": "Join Allen Caruso at his next event!",
  "final_url": "https://carusoforassembly.com/events",
- "paid_for_by": null,
- "title": "EVENTS \u2014 ALLEN CARUSO",
- "years_mentioned": []
+ "fingerprint": "bc5ae0d7a5463aa781fda63d5b008b858cbe4a5e",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "EVENTS — ALLEN CARUSO",
+ "years_mentioned": [
+  "2026"
+ ]
 }

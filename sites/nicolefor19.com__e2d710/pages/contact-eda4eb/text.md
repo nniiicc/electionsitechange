@@ -1,25 +1,3 @@
-0
-Skip to Content
-Home
-About
-Platform
-Endorsements
-Canvass
-Volunteer
-Open Menu
-Close Menu
-Home
-About
-Platform
-Endorsements
-Canvass
-Volunteer
-Open Menu
-Close Menu
-Home
-About
-Platform
-Endorsements
-Canvass
-Volunteer
-Contact
+0 Skip to Content Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer Open Menu Close Menu Home About Platform Endorsements Canvass Volunteer Contact House District 19 includes the communities of Highland Heights, Mayfield Heights, Hunting Valley, Moreland Hills, Pepper Pike, Chagrin Falls, Bentleyville, Solon, Glenwillow, Oakwood, Walton Hills, Valley View, Brecksville, Newburgh Heights, Independence, Seven Hills, Brooklyn Heights, Cuyahoga Heights, and Cleveland Ward 4 precincts A, G, M, N, O, and Q.
+Contact PAID FOR BY FRIENDS OF NICOLE SIGURDSON ©# Friends of Nicole Sigurdson.
+All rights reserved.

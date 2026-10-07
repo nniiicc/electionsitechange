@@ -1,13 +1,11 @@
-Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary
-By Brianna Gurciullo, Staff Writer
-August 6, 2024
-STAMFORD — Registered Democrats have a choice between incumbent David Michel and newcomer Eilish Collins Main in the 146th state House District’s Democratic primary.
-Members of the Stamford Democratic City Committee endorsed Collins Main earlier this year over Michel, who has represented the 146th District since 2019.
+0 Skip to Content Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Open Menu Close Menu Home About Donate News Volunteer Voting Stamford Advocate: Stamford Democrats to decide between David Michel and Eilish Collins Main in 146th CT House District primary Aug 6 Written By Miles Halpine By Brianna Gurciullo, Staff Writer August 6, 2024 Eilish Collins Main is running in the Aug.
+13, 2024 Democratic primary in the 146th state House District, which includes part of Stamford.
+Contributed photo / Katharine Calderwood STAMFORD — Registered Democrats have a choice between incumbent David Michel and newcomer Eilish Collins Main in the 146th state House District’s Democratic primary.
+Members of the Stamford Democratic City Committee endorsed Collins Main earlier this year over Michel , who has represented the 146th District since 2019.
 Michel collected signatures from Democratic voters in the district — which extends from downtown to the South End and Shippan — to force a primary election.
 The Stamford Advocate sent the below questions to the candidates.
 Responses have been edited for length and clarity.
-David Michel
-What are some specific steps you believe the General Assembly could take that would help those struggling with the cost of living in Stamford?
+David Michel What are some specific steps you believe the General Assembly could take that would help those struggling with the cost of living in Stamford?
 We should have a cap on increasing rents after seeing extraordinary rent hikes in my district, as well as expand “just cause” for evictions from 62 years old and up to everyone.
 We should also stop incentivizing developers to build whatever they want.
 We need to build real affordable housing as homelessness in Fairfield County is on the rise and one-third of our new homeless are our elderly and retirees and another third are children from low-income households.
@@ -31,8 +29,7 @@ Charter schools are quasi-private entities and they do not have the same level o
 Charter schools usually reach high levels of excellence.
 I am not against our existing charter school, but I have concerns about spending education funding for new charter schools.
 We should use the funding to elevate all our students in our public schools.
-Eilish Collins Main
-What are some specific steps you believe the General Assembly could take that would help those struggling with the cost of living in Stamford?
+Eilish Collins Main What are some specific steps you believe the General Assembly could take that would help those struggling with the cost of living in Stamford?
 Affordability is one of my three priorities in this campaign.
 When it comes to ways that the General Assembly can take action to address the cost of living crisis, I think there is more that can be done around public transportation investments, small businesses and child care.
 Since we don’t have endless appropriations available, it is important to use the money allotted in an effective and efficient manner.
@@ -57,10 +54,8 @@ From canvassing, that has often been where my policy proposals connect with thei
 Education is another one of my three campaign priorities.
 As the sister of a Stamford educator and a Stamford school counselor, I am well aware of what the school district is currently facing ahead of the 2024-25 academic year.
 During such an important time in the city and state, students must be able to learn with the proper materials and without hindrance, and educators must be able to easily access the resources they need to thrive in the classroom and beyond.
-School choice can provide diverse educational opportunities for students, but it is crucial that we continue to invest in our public schools to ensure every child has access to high-quality education.
-brianna.gurciullo@hearstmediact.com
-Aug 6, 2024
-REPORTER
-Brianna Gurciullo covers local government and politics for the Stamford Advocate.
+School choice can provide diverse educational opportunities for students, but it is crucial that we continue to invest in our public schools to ensure every child has access to high-quality education. brianna.gurciullo@hearstmediact.com Aug 6, 2024 Brianna Gurciullo REPORTER Brianna Gurciullo covers local government and politics for the Stamford Advocate.
 A Meriden native, Brianna came to the Advocate after four years at POLITICO, where she wrote about federal transportation policy.
 She is always looking for a dog or cat to befriend when she is not working -- and sometimes when she is working, as evidenced by her photo.
+Miles Halpine Previous Previous Stamford Advocate letter to the editor: I strongly support Eilish Collins Main Next Next Stamford Advocate Op-Ed: Why I’m running Privacy Policy Paid for by Eilish Collins Main for CT, Christopher Brown, Treasurer.
+Approved by Eilish Collins Main.

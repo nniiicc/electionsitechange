@@ -1,4 +1,4 @@
-On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
+Home Legislative News Donate Select Page Legislative News: January 15, 2024 by buckneradmin | Jan 15, 2024 | Legislative News | 0 comments On Tuesday, January 16, I returned to the State Capitol to begin “budget week.” Each year, the Georgia General Assembly is tasked with one constitutional obligation which is to pass a balanced budget.
 The second week of the legislative session is historically devoted to joint House and Senate Appropriations Committee hearings to begin the state budget process.
 To kick-off budget week, Governor Brian Kemp presented his formal recommendations to the joint committee for the current and upcoming fiscal year budgets, and the governor’s proposal will ultimately be incorporated into legislation that will guide how our state allocates its spending.
 As we start the state budget process, we will begin drafting two budget bills.
@@ -7,30 +7,11 @@ Based on updated revenue estimates, the AFY 2024 budget will include approximate
 This adjustment brings the total appropriation for the Fiscal Year 2024 budget to $37.51 billion.
 The second bill, the Fiscal Year 2025 (FY 2025) budget, will determine state spending for the upcoming fiscal year beginning on July 1, 2024, and ending on June 30, 2025.
 This FY 2025 budget is set at a revenue estimate of $36 billion.
-Highlights from the Governor’s proposed budget:
-- $1.5 billion investment in the AFY 2024 budget for the Georgia Department of Transportation to maintain our roadways, accelerate construction on “shovel-ready” projects, and expedite existing projects
-- $250 million for the Georgia Environmental Financing Authority’s Georgia Fund to support critical water and wastewater infrastructure development through low-interest loans to local communities across the state
-- $250 million in additional funds for economic development grants provided through the Regional Economic Business Assistance (REBA) grant program and OneGeorgia Authority.
-This funding would support economic development projects, promote investment in Georgia businesses, expand grant opportunities for rural site development, as well as provide further grant opportunities to address workforce housing in our rural communities
-- $1 billion investment in the state’s retirement, risk and health portfolios.
-This includes a $500 million investment in the Employees’ Retirement System to provide greater flexibility in establishing cost-of-living adjustments for state retirees
-- $244 million to K-12 schools for teacher’s health insurance without requiring reductions in coverage or further increases in their out-of-pocket costs
-- $306 million in the AFY 2024 budget to provide a $1,000 pay supplement, as well as $630 million in FY 2025 to provide a four percent cost-of-living adjustment to state employees; K-12 teachers and other certified employees would see a $2,500 salary increase under the governor’s plan
-- $205 million to update the public transportation formula to provide significantly more state support for school transportation needs
-- $11 million for K-12 literacy initiatives, including regional literacy coaches and screeners for K-3 students to ensure that our young learners are able to read on grade level
-- $104 million in FY 2025 to establish a new, annual school security grant program
-This FY 2025 budget proposal would provide local schools with a combined total of more than $1.4 billion in additional funding to meet growth needs, bolster teacher pay, maintain quality health and retirement benefits and improve safety.
+Highlights from the Governor’s proposed budget: $1.5 billion investment in the AFY 2024 budget for the Georgia Department of Transportation to maintain our roadways, accelerate construction on “shovel-ready” projects, and expedite existing projects $250 million for the Georgia Environmental Financing Authority’s Georgia Fund to support critical water and wastewater infrastructure development through low-interest loans to local communities across the state $250 million in additional funds for economic development grants provided through the Regional Economic Business Assistance (REBA) grant program and OneGeorgia Authority.
+This funding would support economic development projects, promote investment in Georgia businesses, expand grant opportunities for rural site development, as well as provide further grant opportunities to address workforce housing in our rural communities $1 billion investment in the state’s retirement, risk and health portfolios.
+This includes a $500 million investment in the Employees’ Retirement System to provide greater flexibility in establishing cost-of-living adjustments for state retirees $244 million to K-12 schools for teacher’s health insurance without requiring reductions in coverage or further increases in their out-of-pocket costs $306 million in the AFY 2024 budget to provide a $1,000 pay supplement, as well as $630 million in FY 2025 to provide a four percent cost-of-living adjustment to state employees; K-12 teachers and other certified employees would see a $2,500 salary increase under the governor’s plan $205 million to update the public transportation formula to provide significantly more state support for school transportation needs $11 million for K-12 literacy initiatives, including regional literacy coaches and screeners for K-3 students to ensure that our young learners are able to read on grade level $104 million in FY 2025 to establish a new, annual school security grant program This FY 2025 budget proposal would provide local schools with a combined total of more than $1.4 billion in additional funding to meet growth needs, bolster teacher pay, maintain quality health and retirement benefits and improve safety.
 A few other noteworthy items in Gov.
-Kemp’s AFY 2024 and FY 2025 budget proposal include:
-- $1 million to expand access to mental health services for Georgia’s military service members, veterans and their families
-- $205 million for the Department of Behavioral Health and Developmental Disabilities and other entities that address mental health in our state
-- $9 million for a new behavioral health crisis center
-- $4 million for the Safe Harbor for Sexually Exploited Children Fund Commission for rehabilitation of victims of sex trafficking
-- $1 million to expand the maternal health pilot program in rural communities
-- $42 billion to provide a $3,000 salary increase for select POST certified law enforcement officers
-- $3 million for equipment and vehicles to implement the Georgia Electric Vehicle Charging Program
-- $10 million to begin reducing the pre-K classroom size from 22 to 20 students
-In addition to hearing from Gov.
+Kemp’s AFY 2024 and FY 2025 budget proposal include: $1 million to expand access to mental health services for Georgia’s military service members, veterans and their families $205 million for the Department of Behavioral Health and Developmental Disabilities and other entities that address mental health in our state $9 million for a new behavioral health crisis center $4 million for the Safe Harbor for Sexually Exploited Children Fund Commission for rehabilitation of victims of sex trafficking $1 million to expand the maternal health pilot program in rural communities $42 billion to provide a $3,000 salary increase for select POST certified law enforcement officers $3 million for equipment and vehicles to implement the Georgia Electric Vehicle Charging Program $10 million to begin reducing the pre-K classroom size from 22 to 20 students In addition to hearing from Gov.
 Kemp during budget week, we also had the opportunity to hear from state agency leaders and department heads, each outlining and advocating for their budgetary needs for the remainder of the fiscal year and the upcoming fiscal year.
 We also heard from Georgia’s fiscal economist who provided a comprehensive overview of Georgia’s economic forecast for this year.
 The important presentations will assist us as we begin the next phase of the state budget process and work to ensure that we create budgets that meet the diverse needs of our state and its citizens.
@@ -41,9 +22,6 @@ After each budget bill is voted on and passed out of the House, these bills will
 There will likely be changes to the governor’s original proposal as the House and Senate continue to work through the budget process, and I will keep you updated as these bills are voted on and finalized.
 We will reconvene for legislative day six of the session on Monday, January 22.
 We expect to have another busy week ahead as the pace of the session continues to pick up and as House committees begin to meet more frequently to consider legislation.
-Under the Gold Dome
-| |
-| |
-| Rep.
+Under the Gold Dome Rep.
 Debbie Buckner, a Junction City Democrat, makes the case for eliminating the state sales tax on period products at a press conference held Thursday.
-Jill Nolin/Georgia Recorder You can read about it here |
+Jill Nolin/Georgia Recorder You can read about it here Search Search Recent Posts Legislative News: April 22, 2023 Legislative News: March 18, 2024 Legislative News: March 11, 2024 Legislative News: March 4, 2024 Legislative News: February 19, 2024 Facebook X Instagram Website Built in Georgia by Juniperus

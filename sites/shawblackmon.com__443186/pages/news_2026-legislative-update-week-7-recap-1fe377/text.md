@@ -1,8 +1,9 @@
-Last Monday, my House colleagues and I returned to the Georgia State Capitol to begin the seventh week of the 2026 legislative session.
+About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+News / 2026 Legislative Update - Week 7 Recap 6 Mar Friday, 11:57 AM · 2026 2026 Legislative Update - Week 7 Recap Last Monday, my House colleagues and I returned to the Georgia State Capitol to begin the seventh week of the 2026 legislative session.
 Monday was dedicated to our first committee workday of the session, where many long hours were spent in committee and subcommittee meetings carefully reviewing, debating and advancing legislation so that eligible bills can be placed on a Rules Calendar and considered by the full House.
 These workdays are critical to ensuring proposed legislation is thoroughly vetted before reaching the House floor.
 By the end of the week, we reached Legislative Day 25 and are now just two legislative days away from Crossover Day—the key deadline for bills and resolutions to pass out of their chamber of origin in order to remain eligible for final passage before the General Assembly adjourns Sine Die on April 2.
-Perhaps the most notable action that the House took this week was giving final passage to House Bill 973, the Amended Fiscal Year 2026 (AFY 2026) budget—fulfilling our constitutional obligation of passing balanced budgets—through the adoption of a conference committee report.
+Perhaps the most notable action that the House took this week was giving final passage to House Bill 973, the Amended Fiscal Year 2026 (AFY 2026) budget—fulfilling our constitutional obligation of passing balanced budgets— through the adoption of a conference committee report.
 HB 973 is set by a revised revenue estimate of $43.6 billion and includes $4.5 billion in unrestricted surplus funds, along with $145 million in lottery surplus funds, for a total infusion of $5.9 billion—representing a 15.6 percent increase over the original Fiscal Year 2026 (FY 2026) budget.
 The AFY 2026 budget seeks to prioritize taxpayer relief, major investments in the state’s prison system, expanded mental health services and transportation infrastructure improvements.
 Key allocations include $850 million for the Homeowner Tax Relief Grant program, more than $400 million to construct a new state mental health hospital and more than $2 billion for various transportation initiatives across the state.
@@ -20,7 +21,7 @@ The General Assembly’s final version of the amended budget also appropriates $
 After we voted to adopt the conference committee report on the amended budget, HB 973 was immediately transmitted to the governor’s desk for consideration, signifying the timeliness of these investments for our state and its citizens.
 I was proud to work alongside my colleagues on this budget that reflects many long hours of collaboration to prioritize responsible, targeted investments that strengthen Georgia’s economy, support the state’s healthcare system, invest in workforce development and address critical priorities for all Georgia families.
 Last Tuesday, our work centered on strengthening our state’s education system and supporting Georgia’s students and teachers, with several key education measures taking priority.
-Among them was a House priority for this session—House Bill 1193, the Georgia Early Literacy Act of 2026—which passed the House overwhelmingly with bipartisan support.
+Among them was a House priority for this session —House Bill 1193, the Georgia Early Literacy Act of 2026— which passed the House overwhelmingly with bipartisan support.
 HB 1193 would promote and advance comprehensive early literacy and reading education efforts across grades K-3.
 Specifically, the legislation would provide Quality Basic Education (QBE) funding for school-based literacy coaches in all Georgia public schools that serve students in kindergarten through third grade—impacting more than 1,000 schools statewide.
 School-based literacy coaches would be certified teachers or professionals holding a literacy coaching endorsement from the Georgia Professional Standards Commission.
@@ -37,7 +38,7 @@ Currently, a majority of Georgia’s third graders are not reading on grade leve
 HB 1193 represents a major milestone in the House’s efforts to address this challenge and strengthen literacy outcomes in our public schools.
 The Georgia House recognizes that reading proficiency is foundational to success across all academic subjects and is a key determinant of students’ future academic and professional achievements.
 The Georgia Early Literacy Act would make substantial strides toward ensuring that Georgia’s students are equipped for lifelong success.
-In addition to prioritizing literacy, the House also focused on strengthening mathematics education in Georgia with the unanimous passage of House Bill 1030, the Math Matters Act, marking the first step in a bipartisan effort to improve student outcomes in math.
+In addition to prioritizing literacy, the House also focused on strengthening mathematics education in Georgia with the unanimous passage of House Bill 1030, the Math Matters Act , marking the first step in a bipartisan effort to improve student outcomes in math.
 The bill would expand advanced learning opportunities, increase core instructional time and improve teacher preparation by guaranteeing access to advanced math for students who are ready.
 Specifically, by the start of the 2027–2028 school year, seventh-grade students who score at the “distinguished learner” level on the statewide math assessment would be automatically placed on a pathway to take eighth-grade math alongside Algebra I and begin geometry as early as ninth grade.
 Importantly, local school systems would be required to provide a process for parents to opt their child out of automatic advanced math placement or request placement for students who score “proficient learner” at the end of grades seven, eight or nine—provided the student meets local eligibility requirements, such as their math grade point average or demonstrated academic growth.
@@ -96,10 +97,9 @@ HB 1344 would also create the Georgia Storm Damage Mitigation Program Act, which
 The legislation would also formalize the use of excluded drivers in auto insurance policies—defined as individuals expressly designated as not covered under a motor vehicle insurance policy—by requiring insurers to report such excluded drivers to the Georgia Department of Revenue, directing law enforcement to cite excluded drivers without valid coverage and creating misdemeanor penalties for vehicle owners who knowingly allow excluded, uninsured individuals to operate their vehicles.
 HB 1344 would also increase uninsured motorist lapses and restoration fees, raise penalties for gaps in required auto insurance coverage, escalate fees for repeat violations within five years and increase collection amounts retained by county tax commissioners.
 HB 1344 seeks to provide stronger consumer protections, increase accountability in the insurance industry and support Georgians recovering from catastrophic events.
-For additional information regarding legislation passed by both the House and Senate - click on this link.
+For additional information regarding legislation passed by both the House and Senate - click on this link .
 It is an honor to serve you in the State House and I encourage you to share your thoughts on how I can best support our district and what matters most to you and your family, as your input is invaluable.
 My top priority is to continue working diligently on behalf of your family, our district and the state to create and implement simple, smart and effective government.
-In service,
-Rep.
-Shaw Blackmon
-House District 146
+In service, Rep.
+Shaw Blackmon House District 146 View Our Privacy Policy Paid for by Friends of Shaw Blackmon Powered by CampaignPartner.com - Political Websites About Shaw Committee Service On the Issues District Local Government Constituent Services Voter Information Government Contacts Gallery News Contribute Contact View our privacy policy.
+View Our Privacy Policy Close Menu

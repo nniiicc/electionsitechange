@@ -1,3 +1,3 @@
-Former U.S.
-Department of Agriculture official Kailee Buller will run for the Republican nomination in New York’s 22nd Congressional District, she announced Thursday.
-https://spectrumlocalnews.com/nys/central-ny/politics/2026/03/05/former-department-of-agriculture-official-to-run-for-cny-u-s–house-seat
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate Former Department of Agriculture official to run for CNY U.S.
+House seat Jul 7, 2026 Back to Blog Former U.S.
+Department of Agriculture official Kailee Buller will run for the Republican nomination in New York’s 22nd Congressional District, she announced Thursday. https://spectrumlocalnews.com/nys/central-ny/politics/2026/03/05/former-department-of-agriculture-official-to-run-for-cny-u-s–house-seat Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

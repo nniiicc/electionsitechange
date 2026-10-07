@@ -1,15 +1,27 @@
 {
  "description": "Dear Friend: Every bill only has one sponsor but no bill is the responsibility of a single person. Each member of the House of Delegates gets their chance to put an imprint on every bill we consider...",
  "final_url": "https://www.marckorman.com/latest-news/archives/02-2025",
- "paid_for_by": null,
+ "fingerprint": "c4b5e86f519e5864ef00e9f423a23b814f540c53",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Blog Archives - MARC KORMAN",
  "years_mentioned": [
+  "1952",
+  "1956",
+  "2013",
+  "2014",
   "2015",
+  "2016",
+  "2017",
   "2018",
   "2019",
   "2020",
+  "2021",
+  "2022",
   "2023",
   "2024",
-  "2025"
+  "2025",
+  "2026",
+  "2030"
  ]
 }

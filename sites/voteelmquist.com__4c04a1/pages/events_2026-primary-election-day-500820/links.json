@@ -1,22 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T120000Z%2F20260812T010000Z",
-"http://maps.google.com/?q=Your+Polling+Place%21",
-"https://facebook.com/profile.php?id=61582579073857",
-"https://pollfinder.sos.mn.gov/",
-"https://secure.actblue.com/donate/aisha-elmquist-1",
-"https://voteelmquist.com/",
-"https://voteelmquist.com/cart",
-"https://voteelmquist.com/contact",
-"https://voteelmquist.com/endorsements",
-"https://voteelmquist.com/events",
-"https://voteelmquist.com/events/2026-primary-election-day?format=ical",
-"https://voteelmquist.com/events/primary-day-phonebank",
-"https://voteelmquist.com/events/primary-gotv-phonebank",
-"https://voteelmquist.com/meet",
-"https://voteelmquist.com/priorities",
-"https://voteelmquist.com/resources",
-"https://voteelmquist.com/take-action",
-"https://voteelmquist.com/volunteer",
-"https://voteelmquist.com/volunteer-1",
-"https://voteelmquist.com/voting-info"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=your+polling+place%21"
+},
+{
+"text": "0",
+"href": "https://www.voteelmquist.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.voteelmquist.com/meet"
+},
+{
+"text": "Back",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/aisha-elmquist-1"
+},
+{
+"text": "Contact",
+"href": "https://www.voteelmquist.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voteelmquist.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.voteelmquist.com/events"
+},
+{
+"text": "Find your polling location.",
+"href": "https://pollfinder.sos.mn.gov/"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.voteelmquist.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Primary+Election+Day&dates=20260811T120000Z%2F20260812T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.voteelmquist.com/events/2026-primary-election-day?format=ical"
+},
+{
+"text": "Immigration and Community Resources",
+"href": "https://www.voteelmquist.com/resources"
+},
+{
+"text": "Next Next August 11 Primary Day Phonebank",
+"href": "https://www.voteelmquist.com/events/primary-day-phonebank"
+},
+{
+"text": "Previous Previous August 10 Primary GOTV Phonebank",
+"href": "https://www.voteelmquist.com/events/primary-gotv-phonebank"
+},
+{
+"text": "Priorities",
+"href": "https://www.voteelmquist.com/priorities"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://www.voteelmquist.com/volunteer-1"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteelmquist.com/volunteer"
+},
+{
+"text": "Voting Info",
+"href": "https://www.voteelmquist.com/voting-info"
+},
+{
+"text": "[image: Elmquist for House]",
+"href": "https://www.voteelmquist.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582579073857"
+}
 ]

@@ -1,17 +1,62 @@
 [
-"https://chesco.org/4758/Ballot-Drop-Off-Locations",
-"https://facebook.com/samforpa",
-"https://instagram.com/samforpa",
-"https://pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx",
-"https://pavoterservices.pa.gov/onlineabsenteeapplication",
-"https://pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx",
-"https://samforpa.com/",
-"https://samforpa.com/contact-us",
-"https://samforpa.com/election-information",
-"https://samforpa.com/meet-samantha",
-"https://samforpa.com/priorities",
-"https://samforpa.com/privacy-policy-1",
-"https://samforpa.com/terms-conditions",
-"https://secure.anedot.com/samforpa/donate",
-"https://x.com/samanthaforpa"
+{
+"text": "Contact Us",
+"href": "https://www.samforpa.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/samforpa/donate"
+},
+{
+"text": "Election Information",
+"href": "https://www.samforpa.com/election-information"
+},
+{
+"text": "Find A Mail-In Ballot Drop Box",
+"href": "https://www.chesco.org/4758/Ballot-Drop-Off-Locations"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://www.pavoterservices.pa.gov/Pages/PollingPlaceInfo.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.samforpa.com"
+},
+{
+"text": "Meet Samantha",
+"href": "https://www.samforpa.com/meet-samantha"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.samforpa.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.samforpa.com/privacy-policy-1"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.pavoterservices.pa.gov/pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request A Mail-In Ballot",
+"href": "https://www.pavoterservices.pa.gov/onlineabsenteeapplication/#/OnlineMailInBegin"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.samforpa.com/terms-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/samforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/samforpa"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/samanthaforpa"
+}
 ]

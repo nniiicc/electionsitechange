@@ -1,5 +1,4 @@
-Issues that matters
-Kristen has spent decades working within the legislative process as a citizen advocate and elected representative.
+0 Skip to Content Kristen Chevrier For Utah State House 54 Home Issues Endorsements Open Menu Close Menu Kristen Chevrier For Utah State House 54 Home Issues Endorsements Open Menu Close Menu Home Issues Endorsements Issues that matters Kristen has spent decades working within the legislative process as a citizen advocate and elected representative.
 At the November 23rd, 2024 GOP LLC training session, Kristen shares her insights on how to effectively engage elected officials.
 Election Integrity.
 There is nothing more critical to the preservation of our Republican form of government than the integrity of the vote.
@@ -27,10 +26,6 @@ Public money comes from individual Utahns who work hard.
 Both their ability to spend their own paychecks and their contribution of tax dollars should be treated with the utmost care and respect.
 Kristen played a key role in the 2020 Utah Tax Referendum, supervising a large portion of the highly successful Utah County signature collection effort.
 The successful effort pushed the legislature to repeal the tax bill.
-They said it couldn’t be done.
-https://www.sltrib.com/news/politics/2019/12/16/bipartisan-utah-group/
-We did it.
-Immigration.
+They said it couldn’t be done. https://www.sltrib.com/news/politics/2019/12/16/bipartisan-utah-group/ We did it. https://www.deseret.com/utah/2020/1/28/21111970/tax-reform-repeal-referendum-qualifies-for-november-ballot/ Immigration.
 In 2011, there was an attempt to change the Party Platform’s Immigration plank to be more accommodating to illegal immigration via “The Utah Compact.” Kristen was instrumental in pushing back against and defeating that change and preserving our current plank.
-As a child of an immigrant, Kristen believes all immigration should be through legal means and that our system needs to be adjusted to be more accommodating to legal immigrants.
-https://mannkindperspectives.blogspot.com/2013/05/the-utah-compact-one-manns-analysis.html#more
+As a child of an immigrant, Kristen believes all immigration should be through legal means and that our system needs to be adjusted to be more accommodating to legal immigrants. https://mannkindperspectives.blogspot.com/2013/05/the-utah-compact-one-manns-analysis.html#more Kristen@KristenForUtah.com (801) 477-7285 Privacy Policy

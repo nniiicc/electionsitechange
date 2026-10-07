@@ -1,5 +1,7 @@
-POLITICAL DISCLAIMER
-This website is authorized by and paid for by Lindsay “Rubia” Garcia for Congress, the principal campaign committee for the election of Rubia Garcia to the United States House of Representatives, Louisiana's 6th Congressional District.
+top of page Home Meet Rubia *NEW* 2026 LA District 6 Map Get Involved Use tab to navigate through the menu items.
+Donate Click the map below to view our Interactive District 6 U.S.
+House map.
+Click Either Graphic to Learn More POLITICAL DISCLAIMER This website is authorized by and paid for by Lindsay “Rubia” Garcia for Congress, the principal campaign committee for the election of Rubia Garcia to the United States House of Representatives, Louisiana's 6th Congressional District.
 Due to the U.S.
 Supreme Court's decision in Louisiana v.
 Callais, Louisiana's 2026 closed-party primary elections for U.S.
@@ -12,14 +14,10 @@ Because the primary and general elections are considered separate elections unde
 Contributions from corporations, labor organizations, national banks, and foreign nationals are prohibited.
 Federal law requires political committees to use best efforts to collect and report the full name, mailing address, occupation, and employer of each individual whose contributions aggregate in excess of $200 in an election cycle.
 Any political advertising appearing on this website is paid for by Rubia Garcia for Congress in accordance with federal law and the regulations of the Federal Election Commission.
-WEBSITE DISCLAIMER
-This website and its contents are provided "as is" without warranty of any kind, expressed or implied.
+WEBSITE DISCLAIMER This website and its contents are provided "as is" without warranty of any kind, expressed or implied.
 Information contained on this website may be updated at any time without notice.
 The content on this website is not intended to be and should not be interpreted or used as legal, financial, medical, or other professional advice.
 Questions about contributions or reporting?
-Contact the Federal Election Commission at (202) 694-1100 or visit www.fec.gov
-Campaign Address:
-P.O.
-Box 91
-Walker, Louisiana, 70785
-(225) 308-1050
+Contact the Federal Election Commission at (202) 694-1100 or visit www.fec.gov © # Paid for and Authorized by Lindsay Rubia Garcia For Congress.
+Privacy Policy Accessibility Statement Do Not Sell My Personal Information Campaign Address: P.O.
+Box 91 Walker, Louisiana, 70785 contact@rubiagarcia.com (225) 308-1050 bottom of page

@@ -1,5 +1,4 @@
-Meet Amy
-My husband and I fell in love with the 48th District when we moved to Kirkland in 2005 and have been proud to call it home ever since.
+0 Skip to Content HOME ABOUT ENDORSEMENTS LEADERSHIP IN ACTION ISSUES ACCOMPLISHMENTS GET INVOLVED Join our Team Internship Application Canvassing Sign-Up Contact Amy DONATE Open Menu Close Menu HOME ABOUT ENDORSEMENTS LEADERSHIP IN ACTION ISSUES ACCOMPLISHMENTS GET INVOLVED Join our Team Internship Application Canvassing Sign-Up Contact Amy DONATE Open Menu Close Menu HOME ABOUT ENDORSEMENTS Folder: LEADERSHIP IN ACTION Back ISSUES ACCOMPLISHMENTS Folder: GET INVOLVED Back Join our Team Internship Application Canvassing Sign-Up Contact Amy DONATE Meet Amy My husband and I fell in love with the 48th District when we moved to Kirkland in 2005 and have been proud to call it home ever since.
 Elected to the Kirkland City Council in 2009, I was selected by my colleagues to serve as Mayor in 2014.
 I was elected to the State Legislature in 2018, motivated by my belief that true leadership involves listening to diverse perspectives and creating policies that consider all viewpoints.
 I grew up in Oregon and had the opportunity to study abroad in Australia, graduating from the University of Queensland Law School.
@@ -18,3 +17,5 @@ I’ve been proud to support local organizations, organize community events like
 I’m running for reelection because I believe in this community, and I’ll keep working to make sure it’s a place where everyone has the opportunity to thrive.
 Amy welcomes conversations about what matters most to you.
 Feel free to reach out at Amy@AmyWalen.com.
+Stay in Touch!
+Newsletter Sign Up amy@ amywalen .com Paid For By Amy Walen for State House - PO Box 9100, Seattle, WA 98109

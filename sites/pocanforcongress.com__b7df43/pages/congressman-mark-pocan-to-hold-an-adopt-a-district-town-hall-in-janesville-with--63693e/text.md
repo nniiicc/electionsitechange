@@ -1,11 +1,7 @@
-Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday
-MADISON – Congressman Mark Pocan & candidate Randy Bryce will hold a public town hall forum Saturday, April 7th at 1pm at the UAW Building.
+Meet Mark News Contact Nomination Papers Join The Team Get Involved Contribute Menu Menu Link to Facebook Link to X Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday April 5, 2018 MADISON – Congressman Mark Pocan & candidate Randy Bryce will hold a public town hall forum Saturday, April 7 th at 1pm at the UAW Building.
 The event is being held in conjunction with students with March For Our Lives.
 The event is listed on www.TownHallProject.com and is open to the media and the public.
 While Speaker Paul Ryan continues to refuse to hold public town hall forums in his own district, Congressman Mark Pocan (WI-02) has held a series of town halls in Mr.
 Ryan’s district.
 Pocan is pleased that Ryan’s opponent, Randy Bryce, will join him at this town hall.
-- WHAT: Adopt-a-District Town Hall Forum with Congressman Mark Pocan & Candidate Randy Bryce
-- WHEN: Saturday, April 7th @ 1pm
-- WHERE: United Auto Workers Building, 1795 Lafayette Street, Janesville, WI 53546
-RSVP’s are encouraged via Facebook but not required: register here
+WHAT: Adopt-a-District Town Hall Forum with Congressman Mark Pocan & Candidate Randy Bryce WHEN: Saturday, April 7 th @ 1pm WHERE: United Auto Workers Building, 1795 Lafayette Street, Janesville, WI 53546 RSVP’s are encouraged via Facebook but not required: register here Share this entry Share on Facebook Share on X Share on WhatsApp Share on Pinterest Share on LinkedIn Share by Mail https://pocanforcongress.com/wp-content/uploads/2018/10/Sauk-Dems-brunch-1.jpg 3456 4608 pocanforcongress_4ucyjp https://pocanforcongress.com/wp-content/uploads/2022/10/Mark-Pocan_word-bubble-logo_round-corners_500x500-px.png pocanforcongress_4ucyjp 2018-04-05 18:16:06 2018-10-07 18:23:06 Congressman Mark Pocan to hold an Adopt-a-District Town Hall in Janesville with Candidate Randy Bryce at 1pm Saturday Contact the Campaign Mark Pocan for Congress PO Box 327 Madison, WI 53701 (608) 286-1073 [email protected] Follow Mark on Facebook Get Email Updates Paid for by Mark Pocan for Congress | Privacy Policy Link to Facebook Link to X Scroll to top Scroll to top

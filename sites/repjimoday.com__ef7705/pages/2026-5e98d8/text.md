@@ -1,7 +1,3 @@
-State Representative for the 14th Worcester district of Massachusetts
-HOME
-ISSUES & POLICIES
-GALLERY
-NEWSROOM
-CONTACT
-More
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+Disability Policy Consortium advocacy day Meeting with Brandeis students about Raise the Age Anna Maria college social work students for NASW LEAD Day at the State House The Center for Living & Working, Elder Services of Worcester Area, and Easterseals 20th Annual Central Massachusetts roundtable Mercy Centre Visit Colonel Henry Knox Worcester Commemoration Speaking at Friendly House's Legislative Breakfast Brandeis Students legislative action day St.
+Patrick's Day Parade in Worcester Speaking at NASW's LEAD Day Social Work Appreciation Month Legislative Briefing with the Mind the Gap Coalition bottom of page

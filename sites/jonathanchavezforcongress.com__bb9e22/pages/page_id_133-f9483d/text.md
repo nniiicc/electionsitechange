@@ -1,4 +1,6 @@
-Mon – Fri 9:00 -17:00
-jchavez@chavezforcongress.com
-Navigating life’s intricate fabric, choices unfold paths to the extraordinary, demanding creativity, curiosity, and courage for a truly fulfilling journey.
+Skip to content Mon – Fri 9:00 -17:00 jchavez@chavezforcongress.com Twitter Instagram WhatsApp Log in Jonathan Chavez for Congress Home Meet Jonathan Donate Issues Get Involved Events Contact News Donate Donate Donate Navigating life’s intricate fabric, choices unfold paths to the extraordinary, demanding creativity, curiosity, and courage for a truly fulfilling journey.
 Create anything.
+Donate Jonathan Chavez for Congress God Bless America, Again… Contact Info jchavez@chavezforcongress.com Twitter Instagram WhatsApp Popular Link Donation Join Page Volunteering Events Recent News Paid for by Jonathan Chavez for Congress.
+Scroll To Top Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

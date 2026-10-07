@@ -1,18 +1,66 @@
 [
-"http://poliengine.com/",
-"https://facebook.com/profile.php?id=61572220574896",
-"https://facebook.com/share/p/1DELsDhgN8",
-"https://instagram.com/petekaras_wi_sos",
-"https://petekaras.com/",
-"https://petekaras.com/about-pete",
-"https://petekaras.com/contact",
-"https://petekaras.com/donate",
-"https://petekaras.com/endorse-pete-karas-for-secretary-of-state",
-"https://petekaras.com/home",
-"https://petekaras.com/location-and-contact",
-"https://petekaras.com/news-campaign-updates",
-"https://petekaras.com/platform",
-"https://petekaras.com/store/cart",
-"https://petekaras.com/volunteer",
-"https://x.com/petekaras?s=21"
+{
+"text": "About Pete",
+"href": "https://petekaras.com/about-pete"
+},
+{
+"text": "Contact",
+"href": "https://petekaras.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://petekaras.com/donate"
+},
+{
+"text": "Endorse Pete!",
+"href": "https://petekaras.com/endorse-pete-karas-for-secretary-of-state"
+},
+{
+"text": "Facebook post",
+"href": "https://www.facebook.com/share/p/1DELsDhgN8/"
+},
+{
+"text": "Home",
+"href": "https://petekaras.com/home"
+},
+{
+"text": "Join the Movement",
+"href": "https://petekaras.com/location-and-contact"
+},
+{
+"text": "News",
+"href": "https://petekaras.com/news-campaign-updates"
+},
+{
+"text": "Pete Karas' Platform",
+"href": "https://petekaras.com/platform"
+},
+{
+"text": "PoliEngine",
+"href": "http://www.poliengine.com"
+},
+{
+"text": "Volunteer",
+"href": "https://petekaras.com/volunteer"
+},
+{
+"text": "[image: Pete for Secretary of State]",
+"href": "https://petekaras.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61572220574896"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/petekaras_wi_sos/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/petekaras?s=21"
+},
+{
+"text": "[tooltip: Cart]",
+"href": "https://petekaras.com/store/cart"
+}
 ]

@@ -1,4 +1,4 @@
-Who is Rhetta?
+Skip to content Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Facebook Instagram Twitter DONATE Facebook Instagram Twitter Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media Menu Home Issues Voting Information Meet Rhetta About The District Volunteer Endorsements Contact Media DONATE VOLUNTEER Who is Rhetta?
 Representative Bowers was elected to serve House District 113 in the Texas House of Representatives on November 8, 2018.
 She made history elected as the first African American to represent this district.
 House District 113 includes parts of Rowlett, Garland, and Mesquite.
@@ -38,6 +38,12 @@ Representative Bowers is a Co-founder and four-time Co-chair of the Dallas Women
 During the 86th Legislative Session, Bowers served on the House Committees for Corrections, Juvenile Justice & Family Issues and Local and Consent Calendars.
 Representative Bowers champions women and children’s rights, juvenile justice issues, working towards eliminating the school to prison pipeline, and uplifting marginalized communities on every level of government.
 Bowers is celebrated across the State of Texas for authoring House Bill 3435, which declares March 1st of every year as “Texas Girls in STEM Day,” designated to highlight women in STEM and encourage and expose young girls along with our local school districts and organizations to embrace and enter fields relating to science, engineering, technology, math and the arts.
-As a champion among us, Representative Bowers has been honored by several organizations including but not limited to the following as the recipient of the 2019 Bands of Hope “Trailblazer Award”, The Afiya Center’s “Legislative Achievement Award”, Texas Southern University’s “Distinguished Alumna of the Year”, Greater North Dallas Business and Professional Women’s Club “Woman of the Year,” and named the Texas Legislative Black Caucus 2019 “Freshman of the Year.”
-Though she is a proud native Houstonian, Representative Bowers has resided in Rowlett with her husband MSG (ret.) John P.
+As a champion among us, Representative Bowers has been honored by several organizations including but not limited to the following as the recipient of the 2019 Bands of Hope “Trailblazer Award”, The Afiya Center’s “Legislative Achievement Award”, Texas Southern University’s “Distinguished Alumna of the Year”, Greater North Dallas Business and Professional Women’s Club “Woman of the Year,” and named the Texas Legislative Black Caucus 2019 “Freshman of the Year.” Though she is a proud native Houstonian, Representative Bowers has resided in Rowlett with her husband MSG (ret.) John P.
 Bowers, Jr. and their 2 children for nearly 20 years and proudly calls House District 113 home.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Join Our Campaign There are amazing opportunities to help your community when you join the Rhetta A.
+Bowers for HD113 team.
+Help your community.
+Email Join Now Email Join Now ISSUES VOTE ABOUT Facebook Instagram Twitter Copyright ©# | Political advertising paid for by the Rhetta Andrews Bowers Campaign Go to Top

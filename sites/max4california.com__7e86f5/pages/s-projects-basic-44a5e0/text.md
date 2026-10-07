@@ -1,12 +1,1 @@
-MAX HSIA
-FOR STATE ASSEMBLY
-DISTRICT 24
-Home
-About
-Events
-Volunteer
-Contact
-Endorsements
-Community Outreach
-NEWS
-Campaign Activities
+top of page MAX HSIA FOR STATE ASSEMBLY DISTRICT 24 Help Max Win SUBSCRIBE Home About Events Volunteer Contact Endorsements Community Outreach NEWS Campaign Activities Community Outreach William Lam Milpitas Councilmember SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail Home About Me News Events Get Involved Contact MAX HSIA FOR STATE ASSEMBLY D24 Paid for by Max Hsia for Assembly 2026 Terms & Conditions bottom of page

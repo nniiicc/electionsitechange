@@ -1,10 +1,8 @@
-“Shannon Kessler Endorsed by Monterey County Republican Assembly”
-FOR IMMEDIATE RELEASE
-Contact: Adriana Gonzalez at info@kesslerforca.com
-(Arroyo Grande, CA) — Shannon Kessler, candidate for California’s 30th Assembly District, has received the endorsement of the Monterey County Republican Assembly (MCRA) following the organization’s evaluation of candidates based on leadership, community involvement, and approach to public service.
-The Monterey County Republican Assembly is a local chapter of the California Republican Assembly and supports candidates it believes demonstrate sound judgment, fiscal responsibility, and respect for individual rights.
-“[Shannon has] demonstrated a commitment to limited government, fiscal responsibility, and the protection of individual liberties. [Her] records reflect a dedication to principles that have long guided the California Republican Assembly,” said Margo Ivester, President of the MCRA.
+top of page Shannon Kessler CA Assembly — District 30 Support the campaign Vote About Priorities Endorsements Support Join the Team Events Endorse Shannon News Blog All Posts Press Releases Campaign Updates Announcements Search “Shannon Kessler Endorsed by Monterey County Republican Assembly” Adriana Gonzalez Feb 24 1 min read FOR IMMEDIATE RELEASE Contact: Adriana Gonzalez at info@kesslerforca.com (Arroyo Grande, CA) — Shannon Kessler, candidate for California’s 30th Assembly District, has received the endorsement of the Monterey County Republican Assembly (MCRA) following the organization’s evaluation of candidates based on leadership, community involvement, and approach to public service.
+The Monterey County Republican Assembly is a local chapter of the California Republican Assembly and supports candidates it believes demonstrate sound judgment, fiscal responsibility, and respect for individual rights. “[Shannon has] demonstrated a commitment to limited government, fiscal responsibility, and the protection of individual liberties. [Her] records reflect a dedication to principles that have long guided the California Republican Assembly,” said Margo Ivester, President of the MCRA.
 Kessler is a longtime Central Coast resident, small business owner, and community advocate.
 Her campaign focuses on strengthening local communities, supporting families and small businesses, and ensuring state policies reflect the needs and priorities of the people they impact.
 Throughout her campaign, Kessler has focused on bringing a clear, community-centered perspective to state government and advocating for solutions that reflect local priorities.
-###
+### Press Releases Recent Posts See All “Kessler Wins Major Endorsement” California Republican Party “Central Coast County Republican Parties Officially Endorse Shannon Kessler for Assembly, 30th District” Women Leaders Endorse Shannon Kessler for Assembly PO Box 160 Arroyo Grande, CA 93421 Paid for by Shannon Kessler for Assembly 2026, FPPC ID #1483111.
+Privacy Policy kesslerforca@gmail.com Kessler For California D istrict 30 © # by Kessler For California District 30.
+Powered and secured by Wix bottom of page

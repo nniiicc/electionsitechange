@@ -1,7 +1,34 @@
 [
-"https://kaley4nh.com/about-kaley",
-"https://kaley4nh.com/contact",
-"https://kaley4nh.com/donate",
-"https://kaley4nh.com/events",
-"https://kaley4nh.com/home"
+{
+"text": "About Kaley",
+"href": "https://www.kaley4nh.com/about-kaley"
+},
+{
+"text": "Contact",
+"href": "https://www.kaley4nh.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.kaley4nh.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.kaley4nh.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "Kaley Dvorak for State Rep",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "[image]",
+"href": "https://www.kaley4nh.com/home"
+},
+{
+"text": "[image]Kaley Dvorak for State Rep",
+"href": "https://www.kaley4nh.com/home"
+}
 ]

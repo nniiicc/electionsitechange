@@ -1,35 +1,150 @@
 [
-"https://bcom.solutions/",
-"https://bsky.app/profile/jameswalkinshaw.bsky.social",
-"https://elections.virginia.gov/",
-"https://elections.virginia.gov/casting-a-ballot/polling-place-lookup",
-"https://facebook.com/JamesWalkinshawVA",
-"https://fairfaxcounty.gov/elections/early-voting",
-"https://fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Full.pdf",
-"https://fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Herndon_Full.pdf",
-"https://fairfaxva.gov/Government/Elections/How-To-Vote/City-Polling-Locations",
-"https://fairfaxva.gov/files/assets/city/v/1/elections/documents/sample-ballots/sample-ballot-nov2026-full.pdf",
-"https://instagram.com/james_walkinshaw",
-"https://jameswalkinshaw.org/",
-"https://jameswalkinshaw.org/about",
-"https://jameswalkinshaw.org/contact",
-"https://jameswalkinshaw.org/endorsements",
-"https://jameswalkinshaw.org/priorities",
-"https://jameswalkinshaw.org/vote",
-"https://restorevoteva.org/",
-"https://secure.actblue.com/donate/james-walkinshaw",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=25&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=250&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=5&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=50&refcode=website",
-"https://secure.actblue.com/donate/james-walkinshaw&amount=500&refcode=website",
-"https://threads.com/@james_walkinshaw",
-"https://tiktok.com/@james.r.walkinshaw",
-"https://va4reprofreedom.org/",
-"https://vaformarriageequality.com/",
-"https://vote.elections.virginia.gov/Registration/DmvLookup",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee",
-"https://vote.elections.virginia.gov/VoterInformation/Lookup/status",
-"https://x.com/JamesWalkinshaw",
-"https://youtube.com/@JamesWalkinshawVA"
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=25&refcode=website"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=250&refcode=website"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=5&refcode=website"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=50&refcode=website"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/james-walkinshaw&amount=500&refcode=website"
+},
+{
+"text": "Check Your Registration & Find Your District",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/status"
+},
+{
+"text": "Check or Update Your Registration",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/status"
+},
+{
+"text": "Contact",
+"href": "https://jameswalkinshaw.org/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://jameswalkinshaw.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/james-walkinshaw"
+},
+{
+"text": "Endorsements",
+"href": "https://jameswalkinshaw.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JamesWalkinshawVA/"
+},
+{
+"text": "Find Early Voting Hours & Locations Location in Fairfax City",
+"href": "https://www.fairfaxva.gov/Government/Elections/How-To-Vote/City-Polling-Locations"
+},
+{
+"text": "Find Early Voting Hours & Locations in Fairfax County",
+"href": "https://www.fairfaxcounty.gov/elections/early-voting"
+},
+{
+"text": "Find your Polling Location",
+"href": "https://www.elections.virginia.gov/casting-a-ballot/polling-place-lookup/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/james_walkinshaw/"
+},
+{
+"text": "Learn more about the Marriage Equality Amendment",
+"href": "https://www.vaformarriageequality.com/"
+},
+{
+"text": "Learn more about the Reproductive Freedom Amendment",
+"href": "https://va4reprofreedom.org/"
+},
+{
+"text": "Learn more about the Voting Rights Restoration Amendment",
+"href": "https://restorevoteva.org/"
+},
+{
+"text": "Meet James",
+"href": "https://jameswalkinshaw.org/about/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/james-walkinshaw"
+},
+{
+"text": "Priorities",
+"href": "https://jameswalkinshaw.org/priorities/"
+},
+{
+"text": "Register to Vote in Virginia",
+"href": "https://vote.elections.virginia.gov/Registration/DmvLookup"
+},
+{
+"text": "Request a Mail-In Ballot",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@james_walkinshaw"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@james.r.walkinshaw"
+},
+{
+"text": "Track Your Ballot",
+"href": "https://vote.elections.virginia.gov/VoterInformation/Lookup/absentee"
+},
+{
+"text": "View the Fairfax City Sample Ballot",
+"href": "https://www.fairfaxva.gov/files/assets/city/v/1/elections/documents/sample-ballots/sample-ballot-nov2026-full.pdf"
+},
+{
+"text": "View the Fairfax County Sample Ballot",
+"href": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Full.pdf"
+},
+{
+"text": "View the Town of Herndon Sample Ballot",
+"href": "https://www.fairfaxcounty.gov/elections/sites/elections/files/Assets/Documents/PDF/2026_November_11thCD_Herndon_Full.pdf"
+},
+{
+"text": "Virginia Department of Elections",
+"href": "https://www.elections.virginia.gov/"
+},
+{
+"text": "Vote",
+"href": "https://jameswalkinshaw.org/vote/"
+},
+{
+"text": "Website built by BCom",
+"href": "https://bcom.solutions"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JamesWalkinshaw"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@JamesWalkinshawVA"
+},
+{
+"text": "[image]",
+"href": "https://jameswalkinshaw.org"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jameswalkinshaw.bsky.social"
+}
 ]

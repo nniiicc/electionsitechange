@@ -1,5 +1,3 @@
-Home ❭ On the Issues ❭ Jobs
-Jobs
-I will work with local business owners to develop legislation that provides incentives for business owners to grow, and provide career long term jobs.
+Home About Seth On the Issues My Priorities News Events Photo Gallery Contact Endorsements Volunteer Voter Information Contribute Home ❭ On the Issues ❭ Jobs Jobs I will work with local business owners to develop legislation that provides incentives for business owners to grow, and provide career long term jobs.
 I will also work with the Board of Education to develop job training programs for our high school and community college students.
-I will fight to reduce the burden of government on our local business owners.
+I will fight to reduce the burden of government on our local business owners. « Previous: Health Care Next: Education » Home About Seth On the Issues My Priorities Endorsements Contact Events Copyright @ Seth for Delegate Citizens to Elect Seth Howard Authority: James Appel, Treasurer Powered by CampaignPartner.com - Political Campaign Websites Home About Seth On the Issues My Priorities Endorsements Events Contact Volunteer Close Menu

@@ -1,4 +1,5 @@
-The dismal financial future of our state continues to come into focus.
+endorsements about issues events blog contact menu endorsements about issues events contact blog MD Taxpayer Cost Tracker Maryland Taxpayer Cost Tracker The Road to Financial Ruin!
+02/23/2025 The dismal financial future of our state continues to come into focus.
 There are no shortages of bad bills in Annapolis that are leading us into financial ruin.
 The latest egregious attempt at hijacking a great Republican concept is against our President Donald J.
 Trump.
@@ -31,4 +32,4 @@ We have a strong bench of Republican candidates who are offering solutions to br
 Until that time, we are counting on you to place this current bunch on notice!
 Please contact the Economic Matters Chair Delegate C.T.
 Wilson, and the committee members found online here and ask them to vote no on HB1400 Titled, No Tax on Tips Act!
-The hearing is March 4th at 1pm.
+The hearing is March 4th at 1pm. back Authority: Friends of Glen Geelhaar, Brianna Geelhaar Treasurer Authority: Friends of Glen Geelhaar, Brianna Geelhaar Treasurer

@@ -1,6 +1,5 @@
-A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.
-Paid for by Friends of Dan Swanson
-Lieutenant Colonel (retired) Daniel M.
+Skip to content DAN SWANSON A CONSERVATIVE CHAMPION PROUDLY SERVING DISTRICT 71 Volunteer About Issues News District Donate Volunteer About Issues News District Donate Facebook Envelope A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website ( www.elections.il.gov ) or for purchase from the State Board of Elections, Springfield, Illinois.
+Paid for by Friends of Dan Swanson DAN SWANSON A CONSERVATIVE CHAMPION PROUDLY SERVING DISTRICT 71 Lieutenant Colonel (retired) Daniel M.
 Swanson was born on July 30, 1959, in Woodhull, IL.
 He graduated from Al Wood Community Schools in May 1977, Black Hawk East in June 1986 and Western Illinois University in August 1994 with a Bachelor of Arts Degree, Board of Governors.
 He enlisted in the Illinois Army National Guard on August 11, 1977 as a 63B Generator and Wheel Vehicle Mechanic.
@@ -28,3 +27,4 @@ They live in Marion, Iowa.
 Matthew is employed by Barman Seed and Sarah teaches Pre-K special needs children.
 Matt and Sarah have a daughter, Sadie Marie.
 They live near Andover, Illinois.
+Privacy Policy PAID FOR BY XXXX

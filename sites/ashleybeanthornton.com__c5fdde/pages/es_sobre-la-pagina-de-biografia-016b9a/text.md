@@ -1,8 +1,7 @@
-¿Quién es Ashley Bean? ¿Thornton?
+Ir al contenido Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Ashley Bean Thornton para el Distrito 56 de la Cámara de Representantes de Texas Página Bio de ABT ¿Quién es Ashley Bean? ¿Thornton?
 Maestro.
 Trabajador.
-Conector Comunitario.
-¿Quién soy yo y por qué estoy corriendo?
+Conector Comunitario. ¿Quién soy yo y por qué estoy corriendo?
 He sido maestro, capacitador corporativo y trabajé en Baylor durante 20 años haciendo de todo, desde capacitación hasta planificación estratégica, mejora de procesos y divulgación comunitaria.
 Ya estoy jubilada.
 Mi esposo, Craig, y yo hemos estado felizmente casados por más de 40 años.
@@ -18,8 +17,7 @@ Podemos hacer un viaje de vez en cuando.
 Estamos viviendo nuestro sueño americano.
 Me postulo para un cargo porque creo que todos estamos mejor cuando ese tipo de vida buena y segura está al alcance de más personas.
 Creo que grandes escuelas públicas, políticas económicas que apoyan a las familias trabajadoras y un compromiso para trabajar juntos hacen que eso sea más probable.
-Vida y carrera
-Mi papá estaba en el negocio de la construcción pesada — carreteras y puentes, ese tipo de cosas.
+Vida y carrera Mi papá estaba en el negocio de la construcción pesada — carreteras y puentes, ese tipo de cosas.
 Mi mamá era maestra de inglés y bibliotecaria de secundaria.
 Nos mudamos mucho cuando era pequeño antes de establecernos finalmente en Baytown, Texas.
 Mi siguiente parada fue Baylor, donde conocí a mi esposo, Craig.
@@ -36,8 +34,7 @@ Después de Baylor, regresé a la educación pública y trabajé para Transforma
 Hines.
 Me jubilé en 2023, más o menos en la misma época en que mi esposo se jubiló después de una carrera como profesor de matemáticas en la escuela secundaria.
 A lo largo de mi carrera en educación, negocios y trabajo comunitario, he dedicado mi trayectoria a ayudar a las personas a resolver problemas, mejorar sistemas y construir organizaciones más sólidas.
-Participación comunitaria
-Una de mis grandes alegrías desde que me mudé a Waco ha sido participar en la comunidad.
+Participación comunitaria Una de mis grandes alegrías desde que me mudé a Waco ha sido participar en la comunidad.
 A lo largo de los años, he formado parte de la junta directiva de la Economic Opportunities Advancement Corporation (EOAC) y de la Junta Consultiva de Tránsito de Waco.
 Ayudé a facilitar el programa Leadership Plenty y un Círculo de Líderes para la Fundación Waco.
 También me desempeñé como presidente del Comité Directivo de Soluciones para la Pobreza de la Ciudad de Waco.
@@ -50,4 +47,5 @@ Junto con otro grupo de amigos, ayudé a lanzar McLennan County Talks.
 En 2025, organizamos más de 20 conversaciones comunitarias no partidistas sobre temas que afectan a nuestra comunidad, como escuelas públicas, atención médica, pequeñas empresas, bienestar animal y nuestro suministro de agua local, ¡solo por nombrar algunos!.
 Me encanta servir a esta comunidad.
 Como alguien que se mudó mucho cuando era joven, atesoro tener un lugar a donde llamar hogar.
-Me entusiasma la oportunidad de servir a nuestra comunidad de una nueva manera: como su representante en la Cámara de Representantes de Texas.
+Me entusiasma la oportunidad de servir a nuestra comunidad de una nueva manera: como su representante en la Cámara de Representantes de Texas. Únete a la campaña Donar Suscríbete al boletín informativo Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Facebook Instagram Info@AshleyBeanThornton.com Publicidad política pagada por ABT para TEX.
+4300 W Waco Drive, Suite 2B, Apartado postal 193 • Waco, Texas 76710 © #-# Campaña Thornton for Texas Términos del servicio | Política de privacidad | Descargo de responsabilidad | Sitio web creado por Mariposa de los medios digitales

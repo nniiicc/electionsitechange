@@ -1,14 +1,54 @@
 [
-"http://instagram.com/melaniemillerforohio",
-"https://facebook.com/MelanieMillerforOhio",
-"https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.melaniemillerforohio.com%2Fmeet-melanie&t=Meet+Melanie",
-"https://melaniemillerforohio.com/",
-"https://melaniemillerforohio.com/contact",
-"https://melaniemillerforohio.com/endorsements",
-"https://melaniemillerforohio.com/guiding-principles",
-"https://melaniemillerforohio.com/media",
-"https://melaniemillerforohio.com/meet-melanie",
-"https://melaniemillerforohio.com/surveys/contact-melanie",
-"https://melaniemillerforohio.com/volunteer",
-"https://secure.winred.com/committee-to-elect-melanie-miller/donate-today"
+{
+"text": "Contact",
+"href": "https://www.melaniemillerforohio.com/surveys/contact-melanie"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/committee-to-elect-melanie-miller/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.melaniemillerforohio.com/endorsements"
+},
+{
+"text": "Guiding Principles",
+"href": "https://www.melaniemillerforohio.com/guiding-principles"
+},
+{
+"text": "JOIN OUR TEAM!",
+"href": "https://www.melaniemillerforohio.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.melaniemillerforohio.com/media"
+},
+{
+"text": "Meet Melanie",
+"href": "https://www.melaniemillerforohio.com/meet-melanie"
+},
+{
+"text": "Melanie Miller for Ohio House",
+"href": "https://www.melaniemillerforohio.com/"
+},
+{
+"text": "Share",
+"href": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.melaniemillerforohio.com%2Fmeet-melanie&t=Meet+Melanie"
+},
+{
+"text": "Volunteer",
+"href": "https://www.melaniemillerforohio.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MelanieMillerforOhio/"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.instagram.com/melaniemillerforohio"
+},
+{
+"text": "[image: Melanie Miller]",
+"href": "https://www.melaniemillerforohio.com/"
+}
 ]

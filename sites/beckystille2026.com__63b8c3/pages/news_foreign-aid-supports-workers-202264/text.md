@@ -1,5 +1,4 @@
-news update
-Foreign Aid Supports Workers in Nebraska's 3rd District.
-The University of Nebraska receives $19 million in USAID funding to modernize irrigation systems and improve local production of mechanical farm production globally. - usaidstopwork.com
-American farmers supply more than $2 billion annually in agricultural products to humanitarian aid. - Aurora News-Register
-More than 20% of all jobs in Nebraska are directly tied to agriculture and global commerce. - Omaha World Herald.
+Skip navigation menu Home About Issues Volunteer Contact Share Your Vision Donate Home About Issues Volunteer Contact Share Your Vision Donate FEATURED NEWS Becky will visit every county in Nebraska's 3rd Congressional district in summer 2025. news update Foreign Aid Supports Workers in Nebraska's 3rd District.
+May 18 2026 news update Foreign Aid Supports Workers in Nebraska's 3rd District.
+The University of Nebraska receives $19 million in USAID funding to modernize irrigation systems and improve local production of mechanical farm production globally. - usaidstopwork.com American farmers supply more than $2 billion annually in agricultural products to humanitarian aid. - Aurora News-Register More than 20% of all jobs in Nebraska are directly tied to agriculture and global commerce. - Omaha World Herald. aidonthehill.org/resources usaidstopwork.com/agricultural-impact Privacy Policy Becky Stille Campaign HQ | 480 Golf Road, South Sioux City, NE 68876 For Media Inquiries or More Information: info@beckystille2026.com Powered by RUN! website builder Paid for by Becky Stille for U.S.
+Congress You need to enable JavaScript to run this app.

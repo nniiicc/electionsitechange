@@ -1,11 +1,15 @@
 {
  "description": "The official website of Ned Lamont's campaign for Connecticut Governor.",
  "final_url": "https://www.nedlamont.com/accomplishments/",
+ "fingerprint": "ff6d95eb627c2188a42e992d4df13749eea66c39",
+ "format": 3,
  "paid_for_by": "Paid for by Ned for CT",
- "title": "Governor Ned Lamont's AccomplishmentsFacebookXInstagramBlueskyTikTok",
+ "title": "Governor Ned Lamont's Accomplishments",
  "years_mentioned": [
   "2025",
   "2026",
-  "2028"
+  "2028",
+  "2030",
+  "2040"
  ]
 }

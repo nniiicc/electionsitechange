@@ -1,7 +1,46 @@
 [
-"https://erinfornebraska.com/",
-"https://erinfornebraska.com/endorsements",
-"https://erinfornebraska.com/issues",
-"https://erinfornebraska.com/privacy-policy",
-"https://secure.actblue.com/donate/erinfornebraska"
+{
+"text": "Affordable Housing",
+"href": "https://erinfornebraska.com/issues/#housing"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/erinfornebraska"
+},
+{
+"text": "Economic Security",
+"href": "https://erinfornebraska.com/issues/#economy"
+},
+{
+"text": "Endorsements",
+"href": "https://erinfornebraska.com/endorsements/"
+},
+{
+"text": "Key Issues",
+"href": "https://erinfornebraska.com/issues"
+},
+{
+"text": "Meet Erin",
+"href": "https://erinfornebraska.com/#meet-erin"
+},
+{
+"text": "Privacy Policy",
+"href": "https://erinfornebraska.com/privacy-policy/"
+},
+{
+"text": "Protecting Our Rights",
+"href": "https://erinfornebraska.com/issues/#rights"
+},
+{
+"text": "Public Schools",
+"href": "https://erinfornebraska.com/issues/#schools"
+},
+{
+"text": "Send A Message",
+"href": "https://erinfornebraska.com/#contact-erin"
+},
+{
+"text": "[image]",
+"href": "https://erinfornebraska.com/"
+}
 ]

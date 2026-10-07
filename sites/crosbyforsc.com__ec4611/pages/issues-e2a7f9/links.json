@@ -1,24 +1,134 @@
 [
-"https://bonfire.com/store/katie-crosby-for-sc-house-44",
-"https://bsky.app/profile/crosbyforsc.bsky.social",
-"https://crosbyforsc.com/",
-"https://crosbyforsc.com/about",
-"https://crosbyforsc.com/contact",
-"https://crosbyforsc.com/events",
-"https://crosbyforsc.com/issues",
-"https://crosbyforsc.com/platform",
-"https://crosbyforsc.com/privacy-policy",
-"https://crosbyforsc.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/crosbyforsc",
-"https://instagram.com/crosbyforsc",
-"https://scvotes.gov/",
-"https://secure.actblue.com/donate/kc44web",
-"https://secure.actblue.com/donate/kc44web?amount=10",
-"https://secure.actblue.com/donate/kc44web?amount=100",
-"https://secure.actblue.com/donate/kc44web?amount=25",
-"https://secure.actblue.com/donate/kc44web?amount=250",
-"https://secure.actblue.com/donate/kc44web?amount=50",
-"https://threads.net/@crosbyforsc",
-"https://x.com/crosbyforsc"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kc44web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kc44web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kc44web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/kc44web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kc44web?amount=50"
+},
+{
+"text": "Building Stability. Creating Opportunity",
+"href": "https://www.crosbyforsc.com/issues"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Contact",
+"href": "https://www.crosbyforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kc44web"
+},
+{
+"text": "Early voting locations",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Events",
+"href": "https://www.crosbyforsc.com/events"
+},
+{
+"text": "Healthy Families. Strong Communities.",
+"href": "https://www.crosbyforsc.com/issues"
+},
+{
+"text": "Learn More",
+"href": "https://www.crosbyforsc.com/issues"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.crosbyforsc.com/about"
+},
+{
+"text": "Messaging Terms & Conditions",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/kc44web"
+},
+{
+"text": "Platform",
+"href": "https://www.crosbyforsc.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.crosbyforsc.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://scvotes.gov/"
+},
+{
+"text": "Smart Growth. Safe Roads.",
+"href": "https://www.crosbyforsc.com/issues"
+},
+{
+"text": "Strong Schools. Bright Futures",
+"href": "https://www.crosbyforsc.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.crosbyforsc.com/volunteer"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.crosbyforsc.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.bonfire.com/store/katie-crosby-for-sc-house-44/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/crosbyforsc.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@crosbyforsc"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/crosbyforsc"
+},
+{
+"text": "info@CrosbyForSC.com",
+"href": "mailto:info@CrosbyForSC.com"
+}
 ]

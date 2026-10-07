@@ -1,3 +1,4 @@
-Months after winning the Primary Election, Robb Tucker was sworn in to office as District 2 Supervisor on Monday, Jan. 6, alongside his colleagues District 1 Supervisor Heidi Hall and District 5 Supervisor Hardy Bullock.
+Skip to content Home About Platform Endorsements News and Events Gallery Contact DONATE CAMPAIGN NEWS LATEST UPDATES Getting to know District 2 Supervisor Robb Tucker Months after winning the Primary Election, Robb Tucker was sworn in to office as District 2 Supervisor on Monday, Jan.
+6, alongside his colleagues District 1 Supervisor Heidi Hall and District 5 Supervisor Hardy Bullock.
 Tucker will be replacing Ed Scofield who held the post for 16 years.
-Tucker will be the youngest member on…
+Tucker will be the youngest member on… « Previous 1 2 3 TAKE ACTION DONATE Quickly & Securely Online JOIN ROBB Endorse | Volunteer | Yard Sign LATEST NEWS Fundraising Reception – October 8th Fundraising Reception – September 24th Fundraising Reception – August 20th Fundraising Reception – August 30th Robb Tucker Condemns Ami Bera’s Comments on the Rise of Socialism Fundraising Reception – July 17th All News DONATE JOIN ROBB Paid for by Robb Tucker for Congress Privacy Policy | Terms of Use Scroll To Top

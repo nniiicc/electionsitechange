@@ -1,5 +1,3 @@
-Americans for Prosperity Tennessee Endorsement
-I am excited to announce that on Monday, May 13, Americans for Prosperity Tennessee Action formally announced its official endorsement of Aron Maberry as a State Representative, one of only seven in the state.
+Toggle navigation Meet Aron Maberry Why I’m Running On the Issues “In The News” Events Posts Request A Sign Media Contribute May 2024 May 14, 2024 Americans for Prosperity Tennessee Endorsement I am excited to announce that on Monday, May 13, Americans for Prosperity Tennessee Action formally announced its official endorsement of Aron Maberry as a State Representative, one of only seven in the state.
 “We are thrilled to announce our support for these policy champions.
-There are several open seats in the state legislature, and we are ready to hit …
-Continue reading
+There are several open seats in the state legislature, and we are ready to hit … Continue reading About Aron Media Support the campaign Contribute PAID FOR BY ARON MABERRY FOR STATE REPRESENTATIVE Elizabeth Maberry – Campaign Treasurer

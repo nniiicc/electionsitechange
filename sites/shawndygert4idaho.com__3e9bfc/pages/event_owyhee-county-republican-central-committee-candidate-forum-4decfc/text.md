@@ -1,15 +1,6 @@
-- This event has passed.
-Owyhee County Republican Central Committee Candidate Forum
-April 30, 2024 @ 6:00 pm - 8:00 pm
-Candidate Forum Rimrock High School- 7pm Rimrock HS Auditorium 39678 Hwy 78 Bruneau, ID
-Skip to content
-Owyhee County Republican Central Committee Candidate Forum
-April 30, 2024 @ 6:00 pm - 8:00 pm
-Candidate Forum Rimrock High School- 7pm Rimrock HS Auditorium 39678 Hwy 78 Bruneau, ID
-Details
-Venue
-Go to Top
-- Date: April 30, 2024
--
-Time:
-6:00 pm - 8:00 pm
+Skip to content Shawn Dygert 4 Idaho Candidate for Idaho State House, District 23B Home About Issues Events Supporters Accomplishments Contact DONATE Facebook page opens in new window Instagram page opens in new window X page opens in new window close Home About Issues Events Supporters Accomplishments Contact « All Events This event has passed.
+Owyhee County Republican Central Committee Candidate Forum April 30, 2024 @ 6:00 pm - 8:00 pm « Nampa Chamber of Commerce Candidate Forum Meet Shawn Dygert at Extreme Pizza in Melba! » Candidate Forum Rimrock High School- 7pm Rimrock HS Auditorium 39678 Hwy 78 Bruneau, ID Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: April 30, 2024 Time: 6:00 pm - 8:00 pm Venue Owyhee County Republican Central Committee 39678 Hwy 78 Bruneau , Idaho + Google Map « Nampa Chamber of Commerce Candidate Forum Meet Shawn Dygert at Extreme Pizza in Melba! » DONATE TO THE CAMPAIGN Your contribution makes a real impact in supporting Shawn Dygert’s campaign for strong conservative leadership.
+Donate today to champion local values, preserve essential rights, and build a thriving future for District 23B.
+Together, we can make a difference!
+DONATE ONLINE Facebook Instagram Twitter Copyright #, all rights reserved.
+Paid for by Shawn Dygert 4 Idaho – Brenda Richards, Treasurer Go to Top

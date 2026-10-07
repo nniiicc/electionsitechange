@@ -1,6 +1,3 @@
 Help me get my name out to Voters!
 Consider donating today!
-Address: 8041 Clarkson Rd, Rapid City, SD 57702
-Phone: 605-389-7345
-Email: Curt.Massie@sdlegislature.gov
-Web: www.curtmassie.com
+Menu Home Taxpayers Businesses Agriculture News About Curt More About Curt Contact Curt District 33 Map Contact Curt First Name (required) Last Name (required) Email (required) Subject (required) * Message (required) Get in Touch Address: 8041 Clarkson Rd, Rapid City, SD 57702 Phone: 605-389-7345 Email: Curt.Massie@sdlegislature.gov Web: www.curtmassie.com Taxpayers Businesses Agriculture Contact Curt District 33 Map Phone: 605-389-7345 Email: Curt.Massie@sdlegislature.gov Address: 8041 Clarkson Rd, Rapid City, SD 57702 Copyright # by Curt Massie for SD, All Right Reserved - Paid for by Curt Massie for SD

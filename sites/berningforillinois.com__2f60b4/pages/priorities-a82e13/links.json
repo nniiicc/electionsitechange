@@ -1,12 +1,50 @@
 [
-"https://berningforillinois.com/",
-"https://berningforillinois.com/about-joe",
-"https://berningforillinois.com/calendar",
-"https://berningforillinois.com/contact",
-"https://berningforillinois.com/district",
-"https://berningforillinois.com/donate",
-"https://berningforillinois.com/endorsements",
-"https://berningforillinois.com/priorities",
-"https://img1.wsimg.com/blobby/go/c6dd4b00-8fab-4044-8a17-6f63782172e1/Berning%20Walkcard-ganged.pdf",
-"https://secure.actblue.com/donate/joseph--joe--berning-1"
+{
+"text": "About Joe",
+"href": "https://berningforillinois.com/about-joe"
+},
+{
+"text": "Act Blue Donation - Click here",
+"href": "https://secure.actblue.com/donate/joseph--joe--berning-1"
+},
+{
+"text": "Calendar",
+"href": "https://berningforillinois.com/calendar"
+},
+{
+"text": "Contact",
+"href": "https://berningforillinois.com/contact"
+},
+{
+"text": "District",
+"href": "https://berningforillinois.com/district"
+},
+{
+"text": "Donate",
+"href": "https://berningforillinois.com/donate"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/c6dd4b00-8fab-4044-8a17-6f63782172e1/Berning%20Walkcard-ganged.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://berningforillinois.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://berningforillinois.com/"
+},
+{
+"text": "Priorities",
+"href": "https://berningforillinois.com/priorities"
+},
+{
+"text": "[image: BerningforIllinois]",
+"href": "https://berningforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/c6dd4b00-8fab-4044-8a17-6f63782172e1/Berning%20Walkcard-ganged.pdf"
+}
 ]

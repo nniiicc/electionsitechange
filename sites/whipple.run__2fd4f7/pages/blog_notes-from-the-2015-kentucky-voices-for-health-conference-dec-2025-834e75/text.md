@@ -1,5 +1,4 @@
-Notes from the 2015 Kentucky Voices for Health Conference, dec 2025
-On Tuesday the 9th I got up early and headed to Lexington to attend the 2025 KVH Conference.
+0 Skip to Content The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu The 10th District Project My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Open Menu Close Menu My Vision Labor Be Informed Updates Videos Endorsements Contact John Donate Notes from the 2015 Kentucky Voices for Health Conference, dec 2025 Dec 17 Written By JOHN WHIPPLE On Tuesday the 9th I got up early and headed to Lexington to attend the 2025 KVH Conference.
 This was powerful.
 It should have been PACKED with those serving as our legislators.
 They need to know this information from non-partisan professionals.
@@ -27,3 +26,5 @@ This is a PDF which outlines the changes HR1 will make on Medicaid in Kentucky.
 I hope that this information helps you understand the problem a little better.
 Please donate and help me get elected so that I can be a voice for health care in Kentucky.
 I believe that health care is a right and no one should be denied access.
+JOHN WHIPPLE https://whipple.run Previous Previous Comments on the reaction to the death of Renee Good.
+This site built and maintained by the Campaign for John Whipple Made with Squarespace by Gravel Road Strategies Donate to the Campaign

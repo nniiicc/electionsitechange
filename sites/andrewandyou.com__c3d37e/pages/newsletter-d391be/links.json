@@ -1,51 +1,206 @@
 [
-"https://andrewandyou.com/",
-"https://andrewandyou.com/about-andrew",
-"https://andrewandyou.com/get-involved",
-"https://andrewandyou.com/in-the-news",
-"https://andrewandyou.com/issues",
-"https://andrewandyou.com/newsletter",
-"https://andrewandyou.com/privacy-policy",
-"https://facebook.com/ANDREWforALABAMA",
-"https://mailchi.mp/03ee80d10384/welcome-to-senator-andrew-jones-new-monthly-newsletter-2706669",
-"https://mailchi.mp/05f73b086ccf/welcome-to-senator-andrew-jones-new-monthly-newsletter-13527438",
-"https://mailchi.mp/2141bc6c3674/welcome-to-senator-andrew-jones-new-monthly-newsletter-14190356",
-"https://mailchi.mp/32756ffd7928/welcome-to-senator-andrew-jones-new-monthly-newsletter-13818686",
-"https://mailchi.mp/33a713eb22c9/welcome-to-senator-andrew-jones-new-monthly-newsletter-13668821",
-"https://mailchi.mp/36fd82ce84eb/welcome-to-senator-andrew-jones-new-monthly-newsletter-1061629",
-"https://mailchi.mp/39ec4703472d/welcome-to-senator-andrew-jones-new-monthly-newsletter-14192041",
-"https://mailchi.mp/3e4e2bccbc61/welcome-to-senator-andrew-jones-new-monthly-newsletter-2873034",
-"https://mailchi.mp/3f55491139da/welcome-to-senator-andrew-jones-new-monthly-newsletter-13844914",
-"https://mailchi.mp/42937c29e509/senate-10-race-heats-up-14200129",
-"https://mailchi.mp/43b0e37b6d98/welcome-to-senator-andrew-jones-new-monthly-newsletter-13831774",
-"https://mailchi.mp/4c12fdf31539/welcome-to-senator-andrew-jones-new-monthly-newsletter-14188335",
-"https://mailchi.mp/4eade0c653f7/welcome-to-senator-andrew-jones-new-monthly-newsletter-13871970",
-"https://mailchi.mp/524e6b6daea4/welcome-to-senator-andrew-jones-new-monthly-newsletter-669621",
-"https://mailchi.mp/5cd2c96f510f/welcome-to-senator-andrew-jones-new-monthly-newsletter-2790150",
-"https://mailchi.mp/629aa201454b/welcome-to-senator-andrew-jones-new-monthly-newsletter-14182932",
-"https://mailchi.mp/81477d77b88b/welcome-to-senator-andrew-jones-new-monthly-newsletter-13854658",
-"https://mailchi.mp/831cd88ca49b/welcome-to-senator-andrew-jones-new-monthly-newsletter-3083470",
-"https://mailchi.mp/88c78c3c9033/welcome-to-senator-andrew-jones-new-monthly-newsletter-13838002",
-"https://mailchi.mp/8a7881041626/welcome-to-senator-andrew-jones-new-monthly-newsletter-14198027",
-"https://mailchi.mp/8ca5a54c10cf/welcome-to-senator-andrew-jones-new-monthly-newsletter-13399570",
-"https://mailchi.mp/999c79afddbf/welcome-to-senator-andrew-jones-new-monthly-newsletter-2567121",
-"https://mailchi.mp/9d961691c8ec/welcome-to-senator-andrew-jones-new-monthly-newsletter-13659549",
-"https://mailchi.mp/9f6f68f1271f/welcome-to-senator-andrew-jones-new-monthly-newsletter-2370833",
-"https://mailchi.mp/a15a84a4f079/welcome-to-senator-andrew-jones-new-monthly-newsletter-14175031",
-"https://mailchi.mp/a3ec394f74b5/welcome-to-senator-andrew-jones-new-monthly-newsletter-651845",
-"https://mailchi.mp/a987ff30848e/welcome-to-senator-andrew-jones-new-monthly-newsletter-13679393",
-"https://mailchi.mp/a9d178e856b5/welcome-to-senator-andrew-jones-new-monthly-newsletter-13605350",
-"https://mailchi.mp/b5fe6004519a/welcome-to-senator-andrew-jones-new-monthly-newsletter-5197586",
-"https://mailchi.mp/b60dd028af5d/welcome-to-senator-andrew-jones-new-monthly-newsletter-14201951",
-"https://mailchi.mp/bad786112d61/welcome-to-senator-andrew-jones-new-monthly-newsletter-2696057",
-"https://mailchi.mp/bc1ac775e646/welcome-to-senator-andrew-jones-new-monthly-newsletter-13862850",
-"https://mailchi.mp/c2dab88db391/welcome-to-senator-andrew-jones-new-monthly-newsletter-14196020",
-"https://mailchi.mp/cc06d92dc912/welcome-to-senator-andrew-jones-new-monthly-newsletter-5278866",
-"https://mailchi.mp/cd610edbbd71/welcome-to-senator-andrew-jones-new-monthly-newsletter-13415686",
-"https://mailchi.mp/cd90f4b61dd7/welcome-to-senator-andrew-jones-new-monthly-newsletter-14180331",
-"https://mailchi.mp/f2e0d529c129/welcome-to-senator-andrew-jones-new-monthly-newsletter-14194752",
-"https://mailchi.mp/f3649731f2ab/welcome-to-senator-andrew-jones-new-monthly-newsletter",
-"https://mailchi.mp/f7eca29b11eb/welcome-to-senator-andrew-jones-new-monthly-newsletter-14185772",
-"https://us17.campaign-archive.com/?u=c1e3a830bfa40c2510b40d7b2&id=814d2dff7f",
-"https://us17.campaign-archive.com/?u=c1e3a830bfa40c2510b40d7b2&id=fc7048e306"
+{
+"text": "About Andrew",
+"href": "https://andrewandyou.com/about-andrew"
+},
+{
+"text": "Andrew & YouAndrew & YouAndrew & YouAndrew & You",
+"href": "https://andrewandyou.com/"
+},
+{
+"text": "Donate",
+"href": "https://andrewandyou.com/get-involved"
+},
+{
+"text": "Get Involved",
+"href": "https://andrewandyou.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://andrewandyou.com/"
+},
+{
+"text": "In The News",
+"href": "https://andrewandyou.com/in-the-news"
+},
+{
+"text": "Issues",
+"href": "https://andrewandyou.com/issues"
+},
+{
+"text": "Newsletter",
+"href": "https://andrewandyou.com/newsletter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://andrewandyou.com/privacy-policy"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/03ee80d10384/welcome-to-senator-andrew-jones-new-monthly-newsletter-2706669"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/05f73b086ccf/welcome-to-senator-andrew-jones-new-monthly-newsletter-13527438"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/2141bc6c3674/welcome-to-senator-andrew-jones-new-monthly-newsletter-14190356"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/32756ffd7928/welcome-to-senator-andrew-jones-new-monthly-newsletter-13818686"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/33a713eb22c9/welcome-to-senator-andrew-jones-new-monthly-newsletter-13668821"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/36fd82ce84eb/welcome-to-senator-andrew-jones-new-monthly-newsletter-1061629"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/39ec4703472d/welcome-to-senator-andrew-jones-new-monthly-newsletter-14192041"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/3e4e2bccbc61/welcome-to-senator-andrew-jones-new-monthly-newsletter-2873034"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/3f55491139da/welcome-to-senator-andrew-jones-new-monthly-newsletter-13844914"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/42937c29e509/senate-10-race-heats-up-14200129"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/43b0e37b6d98/welcome-to-senator-andrew-jones-new-monthly-newsletter-13831774"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/4c12fdf31539/welcome-to-senator-andrew-jones-new-monthly-newsletter-14188335"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/4eade0c653f7/welcome-to-senator-andrew-jones-new-monthly-newsletter-13871970"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/524e6b6daea4/welcome-to-senator-andrew-jones-new-monthly-newsletter-669621"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/5cd2c96f510f/welcome-to-senator-andrew-jones-new-monthly-newsletter-2790150"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/629aa201454b/welcome-to-senator-andrew-jones-new-monthly-newsletter-14182932"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/81477d77b88b/welcome-to-senator-andrew-jones-new-monthly-newsletter-13854658"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/831cd88ca49b/welcome-to-senator-andrew-jones-new-monthly-newsletter-3083470"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/88c78c3c9033/welcome-to-senator-andrew-jones-new-monthly-newsletter-13838002"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/8a7881041626/welcome-to-senator-andrew-jones-new-monthly-newsletter-14198027"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/8ca5a54c10cf/welcome-to-senator-andrew-jones-new-monthly-newsletter-13399570"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/999c79afddbf/welcome-to-senator-andrew-jones-new-monthly-newsletter-2567121"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/9d961691c8ec/welcome-to-senator-andrew-jones-new-monthly-newsletter-13659549"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/9f6f68f1271f/welcome-to-senator-andrew-jones-new-monthly-newsletter-2370833"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/a15a84a4f079/welcome-to-senator-andrew-jones-new-monthly-newsletter-14175031"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/a3ec394f74b5/welcome-to-senator-andrew-jones-new-monthly-newsletter-651845"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/a987ff30848e/welcome-to-senator-andrew-jones-new-monthly-newsletter-13679393"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/a9d178e856b5/welcome-to-senator-andrew-jones-new-monthly-newsletter-13605350"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/b5fe6004519a/welcome-to-senator-andrew-jones-new-monthly-newsletter-5197586"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/b60dd028af5d/welcome-to-senator-andrew-jones-new-monthly-newsletter-14201951"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/bad786112d61/welcome-to-senator-andrew-jones-new-monthly-newsletter-2696057"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/bc1ac775e646/welcome-to-senator-andrew-jones-new-monthly-newsletter-13862850"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/c2dab88db391/welcome-to-senator-andrew-jones-new-monthly-newsletter-14196020"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/cc06d92dc912/welcome-to-senator-andrew-jones-new-monthly-newsletter-5278866"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/cd610edbbd71/welcome-to-senator-andrew-jones-new-monthly-newsletter-13415686"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/cd90f4b61dd7/welcome-to-senator-andrew-jones-new-monthly-newsletter-14180331"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/f2e0d529c129/welcome-to-senator-andrew-jones-new-monthly-newsletter-14194752"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/f3649731f2ab/welcome-to-senator-andrew-jones-new-monthly-newsletter"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://mailchi.mp/f7eca29b11eb/welcome-to-senator-andrew-jones-new-monthly-newsletter-14185772"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://us17.campaign-archive.com/?u=c1e3a830bfa40c2510b40d7b2&id=814d2dff7f"
+},
+{
+"text": "Read the Newsletter",
+"href": "https://us17.campaign-archive.com/?u=c1e3a830bfa40c2510b40d7b2&id=fc7048e306"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ANDREWforALABAMA/"
+}
 ]

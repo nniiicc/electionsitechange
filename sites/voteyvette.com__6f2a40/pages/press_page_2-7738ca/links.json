@@ -1,34 +1,242 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/around-brooklyn-one-bedroom-co-op-selling-for-368k",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-2-2020",
-"https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-4-2020",
-"https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability",
-"https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote",
-"https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote-2",
-"https://voteyvette.com/press/george-floyd-brooklyn-memorial-draws-thousands",
-"https://voteyvette.com/press/house-democrats-join-gop-in-going-after-tiktok",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/4",
-"https://voteyvette.com/press/page/5",
-"https://voteyvette.com/press/page/8",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/pols-call-for-officer-filmed-shoving-young-woman-during-george-floyd-protest-to-be-fired",
-"https://voteyvette.com/press/rep-clarke-violence-against-and-hatred-of-black-americans-is-morally-reprehensible",
-"https://voteyvette.com/press/rep-yvette-clarke-d-ny-nypd-officers-who-drove-through-protesters-should-be-charged",
-"https://voteyvette.com/press/watch-li-cop-who-violently-shoved-woman-at-protest-faces-lawsuit",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "4",
+"href": "https://voteyvette.com/press/page/4/"
+},
+{
+"text": "5",
+"href": "https://voteyvette.com/press/page/5/"
+},
+{
+"text": "8",
+"href": "https://voteyvette.com/press/page/8/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Around Brooklyn: One-bedroom co-op selling for $368K",
+"href": "https://voteyvette.com/press/around-brooklyn-one-bedroom-co-op-selling-for-368k/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move June 2, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-2-2020/"
+},
+{
+"text": "Brooklyn Lawmakers on the Move June 4, 2020",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-4-2020/"
+},
+{
+"text": "Central Brooklyn Lawmakers Demand More Police Accountability",
+"href": "https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Congresswoman Clarke calls on constituents to vote",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote-2/"
+},
+{
+"text": "Congresswoman Clarke calls on constituents to vote",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "George Floyd Brooklyn Memorial Draws Thousands",
+"href": "https://voteyvette.com/press/george-floyd-brooklyn-memorial-draws-thousands/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House Democrats join GOP in going after TikTok",
+"href": "https://voteyvette.com/press/house-democrats-join-gop-in-going-after-tiktok/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/around-brooklyn-one-bedroom-co-op-selling-for-368k/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-2-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-4-2020/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/george-floyd-brooklyn-memorial-draws-thousands/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-democrats-join-gop-in-going-after-tiktok/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/pols-call-for-officer-filmed-shoving-young-woman-during-george-floyd-protest-to-be-fired/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-clarke-violence-against-and-hatred-of-black-americans-is-morally-reprehensible/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-d-ny-nypd-officers-who-drove-through-protesters-should-be-charged/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/watch-li-cop-who-violently-shoved-woman-at-protest-faces-lawsuit/"
+},
+{
+"text": "Pols call for officer filmed shoving young woman during George Floyd protest to be fired",
+"href": "https://voteyvette.com/press/pols-call-for-officer-filmed-shoving-young-woman-during-george-floyd-protest-to-be-fired/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "Rep. Clarke: Violence against and hatred of black Americans is morally reprehensible",
+"href": "https://voteyvette.com/press/rep-clarke-violence-against-and-hatred-of-black-americans-is-morally-reprehensible/"
+},
+{
+"text": "Rep. Yvette Clarke D-NY: NYPD Officers who Drove Through Protesters Should Be Charged",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-d-ny-nypd-officers-who-drove-through-protesters-should-be-charged/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "WATCH: LI Cop Who Violently Shoved Woman At Protest Faces Lawsuit",
+"href": "https://voteyvette.com/press/watch-li-cop-who-violently-shoved-woman-at-protest-faces-lawsuit/"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/around-brooklyn-one-bedroom-co-op-selling-for-368k/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-2-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/brooklyn-lawmakers-on-the-move-june-4-2020/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/congresswoman-clarke-calls-on-constituents-to-vote/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/george-floyd-brooklyn-memorial-draws-thousands/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-democrats-join-gop-in-going-after-tiktok/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/pols-call-for-officer-filmed-shoving-young-woman-during-george-floyd-protest-to-be-fired/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-clarke-violence-against-and-hatred-of-black-americans-is-morally-reprehensible/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/rep-yvette-clarke-d-ny-nypd-officers-who-drove-through-protesters-should-be-charged/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/watch-li-cop-who-violently-shoved-woman-at-protest-faces-lawsuit/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/3/"
+}
 ]

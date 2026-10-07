@@ -1,5 +1,4 @@
-Deb Haaland lanza su campaña para gobernadora de Nuevo México
-Presione soltar
-Haaland se enfoca en el costo de vida y la seguridad en su video de lanzamiento.
+Contribuye a una campaña para todos en Nuevo México La gente de Nuevo México enfrenta desafíos difíciles, y Deb Haaland es la líder que necesitamos para desafiar el status quo y llevarnos hacia un futuro donde todos podamos prosperar. ¡Haz lo que puedas hoy para ayudarnos a ganar! $10 $25 $100 $250 $500 Otra cantidad cerrarse English Facebook Instagram X TikTok Bluesky YouTube Deb Haaland por Nuevo México menú Inicio Conoce a Deb Prioridades Noticias Eventos Tienda Contribuye Archivo de Presione soltar Deb Haaland lanza su campaña para gobernadora de Nuevo México Presione soltar 2025-02-11 Haaland se enfoca en el costo de vida y la seguridad en su video de lanzamiento.
 Albuquerque, NM – Hoy, Deb Haaland lanzó su campaña para gobernadora de Nuevo México.
-En un video de lanzamiento, Haaland …
+En un video de lanzamiento, Haaland … Únete a la campaña Email * Código postal * ¡Regístrate!
+Conecta con nosotros: Facebook Instagram X TikTok Bluesky YouTube Contribuir ¡Haz lo que puedas hoy para ayudarnos a ganar! $10 $25 $100 $250 $500 Otra cantidad Deb Haaland por Nuevo México Home Noticias Conoce a Deb Prioridades Síguela Facebook Instagram X TikTok Bluesky YouTube Contribuir Por Correo Deb for New Mexico PO Box 25024 Albuquerque, NM 87125 Paid for and Authorized by Deb for New Mexico Contacto Política de Privacidad Hecho con Middle Seat

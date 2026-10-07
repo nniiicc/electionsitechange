@@ -1,17 +1,90 @@
 [
-"http://electmelville.com/",
-"https://designedtorun.com/",
-"https://electmelville.com/",
-"https://electmelville.com/about",
-"https://electmelville.com/contact",
-"https://electmelville.com/district",
-"https://electmelville.com/donate",
-"https://electmelville.com/events",
-"https://electmelville.com/news",
-"https://electmelville.com/priorities",
-"https://electmelville.com/tm-website-terms-and-conditions.pdf",
-"https://electmelville.com/volunteer",
-"https://facebook.com/profile.php?id=61588205559945",
-"https://instagram.com/electmelville",
-"https://youtube.com/@ElectMelville/shorts"
+{
+"text": "About",
+"href": "https://www.electmelville.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electmelville.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.electmelville.com/district"
+},
+{
+"text": "Donate",
+"href": "https://www.electmelville.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.electmelville.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61588205559945"
+},
+{
+"text": "Home",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/electmelville"
+},
+{
+"text": "Lucy@Electmelville.com",
+"href": "mailto:Lucy@Electmelville.com"
+},
+{
+"text": "News",
+"href": "https://www.electmelville.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.electmelville.com/priorities"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.electmelville.com/tm-website-terms-and-conditions.pdf"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Tom Melville Calls for Six Debates Across the 9th Norfolk District",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electmelville.com/volunteer"
+},
+{
+"text": "Wrentham - 9th Norfolk State Rep Public Forum Recording Released",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "[image: Elect Tom Melville to MA House 9th Norfolk District]",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588205559945"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electmelville"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectMelville/shorts"
+},
+{
+"text": "electmelville.com",
+"href": "http://electmelville.com"
+},
+{
+"text": "tom@electmelville.com",
+"href": "mailto:tom@electmelville.com"
+}
 ]

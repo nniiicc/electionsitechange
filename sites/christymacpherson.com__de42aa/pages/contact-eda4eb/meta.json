@@ -1,7 +1,9 @@
 {
- "description": "Get in touch with Christy MacPherson\u2019s campaign. Send a message, ask a question, or find out how to get involved in Senate District 14.",
+ "description": "Get in touch with Christy MacPherson’s campaign. Send a message, ask a question, or find out how to get involved in Senate District 14.",
  "final_url": "https://www.christymacpherson.com/contact",
- "paid_for_by": null,
+ "fingerprint": "5dd03e6e8f3459d5b8fe9c6c2d5e881c0f7f6fc6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contact | Christy MacPherson",
  "years_mentioned": []
 }

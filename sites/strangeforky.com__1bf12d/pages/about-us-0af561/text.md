@@ -1,4 +1,4 @@
-Born and raised in Villa Hills, Melissa is a lifelong northern Kentuckian with deep roots in this community.
+Home About Us Issues Donate Contact About Us Born and raised in Villa Hills, Melissa is a lifelong northern Kentuckian with deep roots in this community.
 She has been blessed with a high-quality Kentucky private and public school education, attending St.
 Joseph Crescent Springs, Villa Madonna Academy, and Dixie Heights High School.
 She earned her bachelor’s degree in International Studies with a focus on Economics and Political Science at Northern Kentucky University and completed a master’s degree in Business Administration at Thomas More University while working full-time.
@@ -10,5 +10,6 @@ Melissa knows that to be successful, it is critical to understand the needs of t
 A good leader must also be able to unite different kinds of people towards a common goal.
 She firmly believes that these fundamental concepts are badly needed in today’s politics and government.
 We need government officials who will truly listen to and faithfully represent the voices of their customers– their constituents– and have a strong desire to work hard for the good of all Americans.
-We need legislators who will put people over politics.
-PO Box 17065 Lakeside Park, KY 41017
+We need legislators who will put people over politics .
+Would you like to become one of our donors?
+Donate Paid for by Citizens for Melissa Strange DONATE BY MAIL PO Box 17065 Lakeside Park, KY 41017 Privacy Policy Home About Us Donation Issues Contact Facebook X Instagram

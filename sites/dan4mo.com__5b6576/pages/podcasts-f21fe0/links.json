@@ -1,33 +1,130 @@
 [
-"https://bsky.app/profile/dan4mo.bsky.social",
-"https://buzzsprout.com/2465711/episodes/17434546",
-"https://dan4mo.com/",
-"https://dan4mo.com/blog",
-"https://dan4mo.com/events",
-"https://dan4mo.com/faq",
-"https://dan4mo.com/get-involved",
-"https://dan4mo.com/meet-dan",
-"https://dan4mo.com/nufsaid",
-"https://dan4mo.com/podcasts",
-"https://dan4mo.com/privacy-policy",
-"https://dan4mo.com/values",
-"https://facebook.com/dan4mo",
-"https://frontlineprogressive.com/",
-"https://hermesauslander.com/podcast/episode/83a4cfd7/368-pompous-political-perspectives-w-dan-schafer",
-"https://leantotheleft.net/",
-"https://podcasts.apple.com/us/podcast/280-the-missouri-progressives-political-vision-with/id1494737668?i=1000713919187",
-"https://podcasts.apple.com/us/podcast/dan-schaefer-democrat-running-in-state-of-missouri/id1107273716?i=1000723951206",
-"https://podcasts.apple.com/us/podcast/democrat-house-candidate-dan-schaeffer-talks-the/id1781969049?i=1000740454068",
-"https://podcasts.apple.com/us/podcast/kitchen-table-over-culture-wars-dan-schaefer-on-fixing/id1784808364?i=1000737953828",
-"https://podcasts.apple.com/us/podcast/mark-mansour-and-dan-schaefer-a-conversation/id1818419925?i=1000727623652",
-"https://podcasts.apple.com/us/podcast/missouri-is-rigged-dan-schaefer-on-his-campaign-redistricting/id1784808364?i=1000770326546",
-"https://podcasts.apple.com/us/podcast/transfomer-progressive-disruptor-meet-dan-schaefer/id1662390673?i=1000729336103",
-"https://reddit.com/user/Dan4MO",
-"https://riverside.fm/shared/exported-clip/27e25a7969c5d7617e8e",
-"https://rumble.com/v74t67k-reproductive-rights-public-schools-and-the-working-class-dan-schaefer-retur.html",
-"https://secure.actblue.com/donate/take-back-our-power",
-"https://tiktok.com/@dan4mo",
-"https://youtu.be/SUUdUVAc2QQ",
-"https://youtube.com/@dan4mo",
-"https://youtube.com/watch?v=vaKOQC7_5-s"
+{
+"text": "'Nuf Said",
+"href": "https://www.dan4mo.com/nufsaid"
+},
+{
+"text": "Blog",
+"href": "https://www.dan4mo.com/blog"
+},
+{
+"text": "Contact Us",
+"href": "https://www.dan4mo.com/get-involved"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/take-back-our-power"
+},
+{
+"text": "Events",
+"href": "https://www.dan4mo.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.dan4mo.com/faq"
+},
+{
+"text": "Home",
+"href": "https://www.dan4mo.com"
+},
+{
+"text": "Lean to the Left",
+"href": "https://leantotheleft.net/"
+},
+{
+"text": "Mail",
+"href": "mailto:dan@dan4mo.com?subject=Email+sent+from+web+page"
+},
+{
+"text": "Meet Dan",
+"href": "https://www.dan4mo.com/meet-dan"
+},
+{
+"text": "Podcasts",
+"href": "https://www.dan4mo.com/podcasts"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.dan4mo.com/privacy-policy"
+},
+{
+"text": "Values",
+"href": "https://www.dan4mo.com/values"
+},
+{
+"text": "[image: 3rdeyeopened.webp]",
+"href": "https://podcasts.apple.com/us/podcast/transfomer-progressive-disruptor-meet-dan-schaefer/id1662390673?i=1000729336103"
+},
+{
+"text": "[image: Blue Sky]",
+"href": "https://bsky.app/profile/dan4mo.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/dan4mo"
+},
+{
+"text": "[image: Fractured-Politics.webp]",
+"href": "https://podcasts.apple.com/us/podcast/mark-mansour-and-dan-schaefer-a-conversation/id1818419925?i=1000727623652"
+},
+{
+"text": "[image: Frontline Progressive]",
+"href": "https://www.frontlineprogressive.com"
+},
+{
+"text": "[image: Reddit]",
+"href": "https://www.reddit.com/user/Dan4MO/"
+},
+{
+"text": "[image: Third-Eye-Opened-1.png]",
+"href": "https://rumble.com/v74t67k-reproductive-rights-public-schools-and-the-working-class-dan-schaefer-retur.html"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@dan4mo"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@dan4mo"
+},
+{
+"text": "[image: billy-dees.webp]",
+"href": "https://podcasts.apple.com/us/podcast/dan-schaefer-democrat-running-in-state-of-missouri/id1107273716?i=1000723951206"
+},
+{
+"text": "[image: coffee-with-bearded-bad-dad.jpg]",
+"href": "https://youtu.be/SUUdUVAc2QQ"
+},
+{
+"text": "[image: lean-to-the-left-podcast.png]",
+"href": "https://www.youtube.com/watch?v=vaKOQC7_5-s"
+},
+{
+"text": "[image: middle-ground-logo.webp]",
+"href": "https://riverside.fm/shared/exported-clip/27e25a7969c5d7617e8e"
+},
+{
+"text": "[image: middle-ground-mic.jpeg]",
+"href": "https://www.buzzsprout.com/2465711/episodes/17434546"
+},
+{
+"text": "[image: politically-high-tech.webp]",
+"href": "https://podcasts.apple.com/us/podcast/280-the-missouri-progressives-political-vision-with/id1494737668?i=1000713919187"
+},
+{
+"text": "[image: scuttlebutt-podcast.jpeg]",
+"href": "https://www.hermesauslander.com/podcast/episode/83a4cfd7/368-pompous-political-perspectives-w-dan-schafer"
+},
+{
+"text": "[image: shades-of-jade-podcast.webp]",
+"href": "https://podcasts.apple.com/us/podcast/kitchen-table-over-culture-wars-dan-schaefer-on-fixing/id1784808364?i=1000737953828"
+},
+{
+"text": "[image: shades-of-jade-podcast.webp]",
+"href": "https://podcasts.apple.com/us/podcast/missouri-is-rigged-dan-schaefer-on-his-campaign-redistricting/id1784808364?i=1000770326546"
+},
+{
+"text": "[image: the-patriot-party.webp]",
+"href": "https://podcasts.apple.com/us/podcast/democrat-house-candidate-dan-schaeffer-talks-the/id1781969049?i=1000740454068"
+}
 ]

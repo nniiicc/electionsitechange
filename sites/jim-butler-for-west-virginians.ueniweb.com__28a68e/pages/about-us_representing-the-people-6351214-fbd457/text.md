@@ -1,7 +1,2 @@
-About Me
-Representing The People
-In a political environment where every politician running for office promises to represent the people, Jim Butler has a documented record of doing so.
-Get In Touch
-Give us a call
-Office location
-Send us an email
+Welcome How I Serve The Community Biography What My Voters Say Gallery Where To Find Me Get In Touch Follow Me 0 About Me Representing The People In a political environment where every politician running for office promises to represent the people, Jim Butler has a documented record of doing so.
+Get In Touch Give us a call (304) 675-3984 Office location 280 Two Mile Road, Gallipolis Ferry, West Virginia, 25515 Send us an email [email protected] Merchant Policies Legal Notice powered by

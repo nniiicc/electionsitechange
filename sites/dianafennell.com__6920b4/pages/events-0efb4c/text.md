@@ -1,105 +1,37 @@
-Pre-Session Mixer
-Date & Time
-Monday, January 12, 2026
-6:00 PM – 7:00 PM
-Location
-Harry Browne’s
-66 State Circle
-Annapolis, MD 21401
-Special Guest
-The Honorable Joseline Peña-Melnyk
-Speaker of the House, Maryland House of Delegates
-About the Event
-Please join Diana Fennell, Assistant Speaker Pro Tem, Member of the Economic Matters Committee, and Chair of the Prince George’s County Affairs Subcommittee, for a Pre-Session Mixer focused on community, conversation, and continued service to District 47A.
+0 Skip to Content Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Office Contact Scholarship End of Session Letter 2026 Media Campaign Friends of Diana Fennell Donate Endorsements & Supporters Friends and Neighbors Get Involved Open Menu Close Menu Home About Legislative Achievements Priorities Folder: Office Back Contact Scholarship End of Session Letter 2026 Media Folder: Campaign Friends of Diana Fennell Back Donate Endorsements & Supporters Friends and Neighbors Get Involved Jan 12 Pre-Session Mixer Monday, January 12, 2026 6:00 PM 7:00 PM Friends of Diana Fennell (map) Google Calendar ICS Date & Time Monday, January 12, 2026 6:00 PM – 7:00 PM Location Harry Browne’s 66 State Circle Annapolis, MD 21401 Special Guest The Honorable Joseline Peña-Melnyk Speaker of the House, Maryland House of Delegates About the Event Please join Diana Fennell , Assistant Speaker Pro Tem, Member of the Economic Matters Committee, and Chair of the Prince George’s County Affairs Subcommittee, for a Pre-Session Mixer focused on community, conversation, and continued service to District 47A.
 This gathering is an opportunity to support Delegate Fennell as she prepares for the upcoming legislative session and continues advocating for the priorities that matter most to Prince George’s County families and neighborhoods.
 We are honored to welcome Speaker Joseline Peña-Melnyk as our special guest for the evening.
-Contribution Levels
-- $1,000 – Champion
-- $500 – Friend
-- $250 – Supporter
-- $100 – Attendee
-Your contribution helps ensure strong, effective representation in the Maryland House of Delegates.
-RSVP and Contributions
-Please RSVP by scanning the QR code on the flyer or contribute online via ActBlue.
-Checks may be made payable to:
-Friends of Diana Fennell
-PO Box 514
-Bladensburg, MD 20710
-RSVP questions: friends@dianafennell.com
-Disclaimer
-Paid for by Friends of Diana Fennell for State Delegate.
+Contribution Levels $1,000 – Champion $500 – Friend $250 – Supporter $100 – Attendee Your contribution helps ensure strong, effective representation in the Maryland House of Delegates.
+RSVP and Contributions Please RSVP by scanning the QR code on the flyer or contribute online via ActBlue .
+Checks may be made payable to: Friends of Diana Fennell PO Box 514 Bladensburg, MD 20710 RSVP questions: friends@dianafennell.com Disclaimer Paid for by Friends of Diana Fennell for State Delegate.
 Contributions are subject to Maryland election law and are not tax-deductible for federal income tax purposes.
 Corporate contributions are prohibited.
 Maryland law requires reporting the name, address, occupation, and employer of any individual whose cumulative contributions exceed $500 in an election cycle.
-For additional information or to RSVP directly, please contact Friends of Diana Fennell at
-Friends@dianafennell.com
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
-Autumn Fundraiser – Delegate Diana Fennell
-Date & Time:
-Thursday, October 9th, 2025
-6:00 PM – 8:00 PM
-Location:
-Three Brothers Italian Restaurant
-4521 Kenilworth Avenue
-Bladensburg, MD 20710
-Special Guest:
-The Honorable Adrienne A.
-Jones
-Speaker of the House, Maryland House of Delegates
-About the Event
-Please join Delegate Diana Fennell, Assistant Speaker Pro Tem and Chair of Prince George’s County Affairs, for an evening of community, conversation, and commitment to the future of District 47A.
+RSVP HERE For additional information or to RSVP directly, please contact Friends of Diana Fennell at Friends@dianafennell.com Authorized by Friends of Diana Fennell, Treasurer Janet Lucas View Event → Dec 17 District 47 Holiday Party Wednesday, December 17, 2025 6:00 PM 9:00 PM Mexico Lindo (map) Google Calendar ICS View Event → Oct 9 Autumn Fundraiser – Delegate Diana Fennell Thursday, October 9, 2025 6:00 PM 8:00 PM Friends of Diana Fennell (map) Google Calendar ICS Date & Time: Thursday, October 9th, 2025 6:00 PM – 8:00 PM Location: Three Brothers Italian Restaurant 4521 Kenilworth Avenue Bladensburg, MD 20710 Special Guest: The Honorable Adrienne A.
+Jones Speaker of the House, Maryland House of Delegates About the Event Please join Delegate Diana Fennell , Assistant Speaker Pro Tem and Chair of Prince George’s County Affairs, for an evening of community, conversation, and commitment to the future of District 47A.
 This Autumn Fundraiser is an opportunity to stand with Delegate Fennell as she continues her service in the Maryland House of Delegates, delivering on the priorities that matter most to our families and neighborhoods.
 We are honored to welcome Speaker Adrienne A.
 Jones as our special guest for the evening.
-Contribution Levels
-- $1,000 – Champion
-- $500 – Supporter
-- $250 – Friend
-- $47 – Constituent
-Your contribution reserves your place at this important event and provides critical resources to ensure strong, effective representation for Prince George’s County.
-RSVP and Contributions
-To RSVP, please scan the QR code on the flyer, contribute online through ActBlue, or make checks payable to:
-Friends of Diana Fennell
-PO Box 514
-Bladensburg, MD 20710
-Contribute Online
-Disclaimer
-Paid for by Friends of Diana Fennell for State Delegate.
+Contribution Levels $1,000 – Champion $500 – Supporter $250 – Friend $47 – Constituent Your contribution reserves your place at this important event and provides critical resources to ensure strong, effective representation for Prince George’s County.
+RSVP and Contributions To RSVP, please scan the QR code on the flyer, contribute online through ActBlue, or make checks payable to: Friends of Diana Fennell PO Box 514 Bladensburg, MD 20710 Contribute Online Disclaimer Paid for by Friends of Diana Fennell for State Delegate.
 Contributions are subject to Maryland election law and are not tax-deductible for federal income tax purposes.
 Corporate contributions are prohibited.
 Maryland law requires reporting the name, address, occupation, and employer of any individual whose cumulative contributions exceed $500 in an election cycle.
-For additional information or to RSVP directly, please contact Friends of Diana Fennell at
-Friends@dianafennell.com
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
-Support of Delegate Diana Fennell
-Join Us in Support of Delegate Diana Fennell
-You are cordially invited to a special reception in support of Delegate Diana Fennell, a dedicated advocate for Maryland’s 47A District, as she continues her work on behalf of our community.
-We are honored to be joined by distinguished special guests:
-Maryland State Treasurer Dereck E.
-Davis
-Civil Rights Attorney Ben Crump
-Date: Wednesday, June 11, 2025
-Time: 6:00 PM – 8:00 PM
-Location: Station 202
-5820 Landover Road, Hyattsville, MD 20784
-Support levels:
-$2,000 Champion | $1,000 Supporter | $500 Friend | $250 Guest
-RSVP Here: secure.actblue.com/donate/dianafennelljun112025event
-For additional information or to RSVP directly, please contact Jeremiah Pope at
-DianaFennellEvent@jpopeconsulting.com
-This event is an opportunity to stand with a proven leader and help ensure Delegate Fennell has the support she needs to continue making a difference in Annapolis.
-Authorized by Friends of Diana Fennell, Treasurer Janet Lucas
-Support Delegate Diana Fennell Fundraiser
-Hello Friends,
-I’m excited to invite you to the upcoming Autumn Fundraiser hosted by Friends of Diana Fennell!
+RSVP HERE For additional information or to RSVP directly, please contact Friends of Diana Fennell at Friends@dianafennell.com Authorized by Friends of Diana Fennell, Treasurer Janet Lucas View Event → Sep 27 District 47 Annual Cookout Saturday, September 27, 2025 12:00 PM 1:00 PM Bladenburg Water Front Park (map) Google Calendar ICS View Event → Aug 2 Delegate Diana Fennell and Wanda Durant Community Giveback Saturday, August 2, 2025 11:00 AM 5:00 PM Bladenburg Water Front Park (map) Google Calendar ICS View Event → Jun 11 Support of Delegate Diana Fennell Wednesday, June 11, 2025 6:00 PM 8:00 PM Friends of Diana Fennell (map) Google Calendar ICS Join Us in Support of Delegate Diana Fennell You are cordially invited to a special reception in support of Delegate Diana Fennell , a dedicated advocate for Maryland’s 47A District, as she continues her work on behalf of our community.
+We are honored to be joined by distinguished special guests: Maryland State Treasurer Dereck E.
+Davis Civil Rights Attorney Ben Crump Date: Wednesday, June 11, 2025 Time: 6:00 PM – 8:00 PM Location: Station 202 5820 Landover Road, Hyattsville, MD 20784 Support levels: $2,000 Champion | $1,000 Supporter | $500 Friend | $250 Guest RSVP Here: secure.actblue.com/donate/dianafennelljun112025event RSVP HERE For additional information or to RSVP directly, please contact Jeremiah Pope at DianaFennellEvent@jpopeconsulting.com This event is an opportunity to stand with a proven leader and help ensure Delegate Fennell has the support she needs to continue making a difference in Annapolis.
+Authorized by Friends of Diana Fennell, Treasurer Janet Lucas View Event → Oct 10 Support Delegate Diana Fennell Fundraiser Thursday, October 10, 2024 6:00 PM 8:00 PM Station 202 Resturant & Bar (map) Google Calendar ICS Hello Friends, I’m excited to invite you to the upcoming Autumn Fundraiser hosted by Friends of Diana Fennell!
 Save the date for Thursday, October 10th, 2024, from 6 PM to 8 PM at Station 202 Restaurant & Bar 5820 Landover Rd, Hyattsville, MD 20784.
 We’ll be joined by Special Guest, The Honorable Adrienne A.
 Jones, Speaker of the Maryland House of Delegates.
 This will be a wonderful evening filled with camaraderie and engagement as we continue our efforts to support Delegate Fennell’s work on behalf of our community.
-There are various sponsorship levels available, and constituents who wish to attend can purchase tickets for $47
-Your presence and support mean the world to us.
+There are various sponsorship levels available, and constituents who wish to attend can purchase tickets for $47 Your presence and support mean the world to us.
 We hope to see you there!
-Please RSVP to Jeremiah Pope at
-dianafennellevent@jpopeconsulting.com, or scan the QR code on the flyer attached.
-Sincerely,
-Diana Fennell
+Please RSVP to Jeremiah Pope at dianafennellevent@jpopeconsulting.com , or scan the QR code on the flyer attached.
+Sincerely, Diana Fennell RSVP AND SUPPORT View Event → Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe to receive timely updates, news, and announcements from the office of Delegate Diana M.
+Fennell.
+First Name Last Name Email Address Sign Up Thank you!
+About Contact Events Photos Friends of Diana Fennell PO BOX 514 Bladensburg, MD 20710 info@dianafennell.com (301) 615-2845‬ ©# MADE WITH CLOUD 9 BRAND, LLC.
+FOLLOW SOCIAL MEDIA

@@ -1,14 +1,1 @@
-Endorsements
-Planned Parenthood Advocates of Michigan
-Michigan Professional Fire Fighters Union
-AFSCME Michigan 925
-United Steelworkers District 1
-Lenawee County Democratic Party
-Equality Michigan Action Network
-MDP Progressive Caucus
-Monroe County Democratic Party
-UA Plumbers and Pipe Fitters Local 671
-MI Rural PAC
-Michigan Association For Justice
-MI List
-Congressional District 5 Democratic Party
+0 Skip to Content Deandre Barnes for Michigan Senate Home About Issues Endorsements Donate Events Get Involved Open Menu Close Menu Deandre Barnes for Michigan Senate Home About Issues Endorsements Donate Events Get Involved Open Menu Close Menu Home About Issues Endorsements Donate Events Get Involved Endorsements Planned Parenthood Advocates of Michigan Michigan Professional Fire Fighters Union AFSCME Michigan 925 United Steelworkers District 1 Lenawee County Democratic Party Equality Michigan Action Network MDP Progressive Caucus Monroe County Democratic Party UA Plumbers and Pipe Fitters Local 671 MI Rural PAC Michigan Association For Justice MI List Congressional District 5 Democratic Party Deandre Barnes for Michigan State Senate Paid for by the Committee To Elect Deandre Barnes Made with Squarespace Location 4814 Sycamore Road Newport, MI 48166 Contact committeetoelectdeandrebarnes@gmail.com

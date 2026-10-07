@@ -1,10 +1,54 @@
 [
-"https://prolife-idaho.com/",
-"https://prolife-idaho.com/about-pro-life",
-"https://prolife-idaho.com/contact",
-"https://prolife-idaho.com/idaho-politicians-murder",
-"https://prolife-idaho.com/issues",
-"https://prolife-idaho.com/more-about-us",
-"https://prolife-idaho.com/more-on-the-platform",
-"https://prolife-idaho.com/resources.php"
+{
+"text": "208-365-4262",
+"href": "tel:+12083654262"
+},
+{
+"text": "208-869-2619",
+"href": "tel:+12088692619"
+},
+{
+"text": "208-995-1720",
+"href": "tel:+12089951720"
+},
+{
+"text": "About",
+"href": "https://www.prolife-idaho.com/about-pro-life"
+},
+{
+"text": "About Us",
+"href": "https://www.prolife-idaho.com/more-about-us"
+},
+{
+"text": "Contact",
+"href": "https://www.prolife-idaho.com/contact"
+},
+{
+"text": "Idaho Politicians & Murder",
+"href": "https://www.prolife-idaho.com/idaho-politicians-murder"
+},
+{
+"text": "On The Platform",
+"href": "https://www.prolife-idaho.com/more-on-the-platform"
+},
+{
+"text": "ProLife Idaho",
+"href": "https://www.prolife-idaho.com/"
+},
+{
+"text": "Reset",
+"href": "javascript:form_reset('contact_page');"
+},
+{
+"text": "Resources",
+"href": "https://www.prolife-idaho.com/resources.php"
+},
+{
+"text": "Submit",
+"href": "javascript:form_submit('contact_page');"
+},
+{
+"text": "The Issues",
+"href": "https://www.prolife-idaho.com/issues"
+}
 ]

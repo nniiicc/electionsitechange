@@ -1,5 +1,14 @@
 [
-"https://facebook.com/LegSteveStern",
-"https://secure.actblue.com/donate/steve-stern-1",
-"https://twitter.com/stevesternny"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/steve-stern-1"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/LegSteveStern/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/stevesternny"
+}
 ]

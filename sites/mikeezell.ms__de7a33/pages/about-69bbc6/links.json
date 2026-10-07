@@ -1,12 +1,62 @@
 [
-"https://facebook.com/MikeEzellMS",
-"https://instagram.com/MikeEzellMS",
-"https://mikeezell.ms/",
-"https://mikeezell.ms/about",
-"https://mikeezell.ms/home",
-"https://mikeezell.ms/privacy-policy",
-"https://mikeezell.ms/yard-sign",
-"https://secure.winred.com/mike-ezell/donate",
-"https://secure.winred.com/mike-ezell/donate?amount=10",
-"https://twitter.com/MikeEzellMS"
+{
+"text": "About",
+"href": "https://www.mikeezell.ms/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-ezell/donate"
+},
+{
+"text": "Home",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "Issues",
+"href": "https://www.mikeezell.ms/home#Issues"
+},
+{
+"text": "KEEP SOUTH MISSISSIPPI RED! CHIP IN $10 TODAY!",
+"href": "https://secure.winred.com/mike-ezell/donate?amount=10"
+},
+{
+"text": "News",
+"href": "https://www.mikeezell.ms/home#News"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mikeezell.ms/privacy-policy"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.mikeezell.ms/yard-sign"
+},
+{
+"text": "[image: Trump Endorsed Mike Ezell for Congress]",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "[image]",
+"href": "https://www.mikeezell.ms/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeEzellMS"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@mikeezell.ms"
+}
 ]

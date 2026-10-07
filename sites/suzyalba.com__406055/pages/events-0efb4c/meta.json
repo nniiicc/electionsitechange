@@ -1,7 +1,9 @@
 {
  "description": "Find Suzy Alba's upcoming campaign events across Smithfield and Glocester.",
  "final_url": "https://www.suzyalba.com/events/",
- "paid_for_by": null,
+ "fingerprint": "a719af3ec79e9743a086e7f58f650b8f42adb136",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Upcoming Events | Suzy Alba for District 53",
  "years_mentioned": []
 }

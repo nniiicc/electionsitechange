@@ -1,10 +1,38 @@
 [
-"https://facebook.com/lorenzforohio",
-"https://instagram.com/repbrianlorenz",
-"https://lorenzforohio.com/",
-"https://lorenzforohio.com/cart",
-"https://lorenzforohio.com/contact",
-"https://lorenzforohio.com/privacy-policy",
-"https://secure.winred.com/lorenz-for-ohio/donate",
-"https://twitter.com/lorenzforohio"
+{
+"text": "0",
+"href": "https://lorenzforohio.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://lorenzforohio.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lorenz-for-ohio/donate"
+},
+{
+"text": "Home",
+"href": "https://lorenzforohio.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lorenzforohio.com/privacy-policy"
+},
+{
+"text": "[image: LorenzForOhio]",
+"href": "https://lorenzforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lorenzforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lorenzforohio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/repbrianlorenz/"
+}
 ]

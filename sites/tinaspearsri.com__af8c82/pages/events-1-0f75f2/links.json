@@ -1,17 +1,66 @@
 [
-"https://facebook.com/TinaSpears4RI",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-2026-10-10-10-00&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/tinaspearsri",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-2026-10-10-10-00",
-"https://secure.actblue.com/donate/tinaspearsforriw",
-"https://tinaspearsri.com/",
-"https://tinaspearsri.com/about",
-"https://tinaspearsri.com/contact",
-"https://tinaspearsri.com/disclaimer",
-"https://tinaspearsri.com/events-1",
-"https://tinaspearsri.com/events/tea-with-tina-2026-10-10-10-00",
-"https://tinaspearsri.com/team-4",
-"https://tinaspearsri.com/volunteer",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-2026-10-10-10-00&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://wix.com/"
+{
+"text": "About",
+"href": "https://www.tinaspearsri.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.tinaspearsri.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/tinaspearsforriw"
+},
+{
+"text": "Events",
+"href": "https://www.tinaspearsri.com/events-1"
+},
+{
+"text": "Learn more",
+"href": "https://www.tinaspearsri.com/events/tea-with-tina-2026-10-10-10-00"
+},
+{
+"text": "Priorities",
+"href": "https://www.tinaspearsri.com/team-4"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.tinaspearsri.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.tinaspearsri.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TinaSpears4RI"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/tinaspearsri/"
+},
+{
+"text": "[image: Tina_F_logo_edited_edited.png]",
+"href": "https://www.tinaspearsri.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-%23-10-00&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-%23-10-00&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.tinaspearsri.com%2Fevents%2Ftea-with-tina-%23-10-00"
+},
+{
+"text": "here",
+"href": "https://www.tinaspearsri.com/disclaimer"
+}
 ]

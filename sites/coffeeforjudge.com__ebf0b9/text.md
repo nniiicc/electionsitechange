@@ -1,13 +1,9 @@
-Vote in the Republican Primary
-March 3, 2026
-About Brent Coffee
-Brent Michael Coffee is a native of Pampa, Texas where he attended public schools.
+Skip to main content Vote in the Republican Primary March 3, 2026 Donate About Brent Coffee Brent Michael Coffee is a native of Pampa, Texas where he attended public schools.
 Brent then attended Lubbock Christian University on a partial athletic scholarship.
 Upon graduation, Brent moved to Washington DC to intern in the office of the U.S.
 House of Representatives for the Republican Majority Leader, Republican Tom DeLay of Texas.
 After his internship in Congress, Brent studied in the master’s program at Franciscan University of Steubenville.
-He then attended law school at Ave Maria School of Law, which was established in 1999 and is known as a law school with “a more conservative religious orientation.”
-Robert Bork, a U.S.
+He then attended law school at Ave Maria School of Law, which was established in 1999 and is known as a law school with “a more conservative religious orientation.” Robert Bork, a U.S.
 Court of Appeals Judge for the D.C.
 Circuit (and nominated to the U.S.
 Supreme Court by President Reagan), was an early faculty member of the law school.
@@ -23,6 +19,5 @@ Following College, Brent worked for U.S.
 House Majority Leader Tom DeLay of Texas as an intern.
 Brent with President Reagan’s Attorney General, the Honorable Ed Meese.
 Brent Coffee campaigning with Governor Abbott in 2014.
-Brent Coffee with Chuck Norris
-Paid Pol.
+Brent Coffee with Chuck Norris Paid Pol.
 Ad paid by Brent Coffee Campaign

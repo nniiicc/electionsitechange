@@ -1,13 +1,7 @@
-“As your representative in Congress, I believe quality healthcare is an essential aspect of human dignity.
-I am proud to have passed legislation to improve mental health and support policies that put patients and their needs first.” – María Elvira Salazar
-Here are some of my key accomplishments:
-Secured $7.65 Million for Mt.
-Sinai Medical Hospital: Enhanced the hospital’s ability to serve vulnerable populations during disasters by funding resiliency improvements to protect against storm surge, flooding, and other severe weather impacts.
-$3.13 Million for FIU Precision Medicine Initiative: Advances cutting-edge cancer research by funding equipment for imaging and personalized treatment development.
-$2.5 Million for Banyan Community Health Center Expansion: Expanded healthcare services at the Little Havana Campus, providing comprehensive care to over 20,000 underserved patients annually.
-$1 Million for Nicklaus Children’s Mental Health Facility Expansion: Doubled the capacity of the pediatric mental health facility to address the growing needs of children requiring mental health services.
-Protected Children and Families from Online Harm: Passed legislation addressing AI-driven exploitation that directly impacts mental health, safety, and well-being of children and families.
-$450,000 for Nicklaus Children’s Pharmacogenomic Testing Program: Funded the creation of a program to reduce adverse drug reactions in pediatric patients by using genetic testing to tailor treatments.
+En Español Follow on social media: En Español Donate Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store En Español Donate Healthcare Healthcare ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page “As your representative in Congress, I believe quality healthcare is an essential aspect of human dignity.
+I am proud to have passed legislation to improve mental health and support policies that put patients and their needs first.” – María Elvira Salazar Here are some of my key accomplishments: Secured $7.65 Million for Mt.
+Sinai Medical Hospital: Enhanced the hospital’s ability to serve vulnerable populations during disasters by funding resiliency improvements to protect against storm surge, flooding, and other severe weather impacts. $3.13 Million for FIU Precision Medicine Initiative: Advances cutting-edge cancer research by funding equipment for imaging and personalized treatment development. $2.5 Million for Banyan Community Health Center Expansion: Expanded healthcare services at the Little Havana Campus, providing comprehensive care to over 20,000 underserved patients annually. $1 Million for Nicklaus Children’s Mental Health Facility Expansion: Doubled the capacity of the pediatric mental health facility to address the growing needs of children requiring mental health services.
+Protected Children and Families from Online Harm: Passed legislation addressing AI-driven exploitation that directly impacts mental health, safety, and well-being of children and families. $450,000 for Nicklaus Children’s Pharmacogenomic Testing Program: Funded the creation of a program to reduce adverse drug reactions in pediatric patients by using genetic testing to tailor treatments.
 Leader on Mental Health Treatment: Co-introduced and passed the Summer Barrow Prevention, Treatment, and Recovery Act, funding mental health services, overdose prevention, and more, signed into law in December 2022.
 Supported the Give Kids a Chance Act of 2023: Authorized the FDA to study pediatric cancer treatments, improving care for children with cancer.
 Secured Humanitarian Parole for Children Needing Medical Treatment: Facilitated advanced humanitarian parole for children of many constituents with serious illnesses from communist regimes, enabling them to receive life-saving treatment in Miami.
@@ -15,3 +9,13 @@ Improving Global Health Outcomes for Mothers and Infants: Lead efforts to pass t
 Introduced Legislation to Expand Home Infusions for Medicare Patients with Rare Genetic Disease: Introduced the John W.
 Walsh Alpha-1 Home Infusion Act.
 This bill will allow Medicare beneficiaries with alpha-1 antitrypsin deficiency to receive essential treatments at home, reducing healthcare costs and enhancing their quality of life.
+ISSUES: Small Business & the Economy Environment Healthcare Infrastructure Public Safety Seniors Fight Against Socialism Main Page Bio Issues Small Business and the Economy Healthcare Protecting the Environment and our Natural Resources Public Safety Infrastructure Fighting Socialism How to Vote Vote-by-Mail Early Voting Voting on Election Day Get Involved Request a Yard Sign Become a Volunteer News Online Store Donate Email Address * Phone Number By providing your cell phone number and checking the opt-in box, you are consenting to receive texts, including autodialed and automated texts, to that number with campaign notifications from Salazar for Congress.
+Recurring messages, msg&data rates may apply.
+Text JOIN to 46856.
+Text HELP for help.
+At any time, text STOP to cancel.
+SMS opt-in consent and data will not be shared with third parties.
+See privacy policy and terms and conditions here.
+Consent I would like to receive text message updates. Δ This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow on social media: © # Maria Elvira Salazar for Congress PO Box 3725 West Flagler St.
+#281 Miami, FL 33134 General Information: +1 (305) 338-3586 Contributions: +1 (305) 713-4327 Email: info@salazar27.com Press: press@salazar27.com PRIVACY POLICY Paid for by Salazar for Congress

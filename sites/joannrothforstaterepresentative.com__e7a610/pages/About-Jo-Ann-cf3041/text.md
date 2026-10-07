@@ -1,4 +1,4 @@
-My name is Jo Ann Roth.
+About Jo Ann Issues In Person On Video Donate about Jo Ann My name is Jo Ann Roth.
 I am a candidate for State Representative, 113th District which is located in central Kansas; parts of Barton, Pawnee, and all of Rice, Stafford and Rush Counties.
 A little about my reasons for seeking public office, I was married to Kent Roth in 1979.
 After experiencing infertility issues, my husband and I adopted two (2) children, now adults.
@@ -42,4 +42,5 @@ Abraham Lincoln in his first inaugural address, about a month before Southern tr
 Whoever rejects it, does of necessity, fly to anarchy or despotism.” My modern day translation of President Lincoln’s quote is ---Beware of Politicians who claim Majority Rule as a value, but only when they are in the majority.
 I am asking you to make a sacrifice to defend Democracy by volunteering to support my campaign and making a contribution to help me win election to the Kansas House.
 Most importantly, please do remember to Vote Roth and encourage at least three (3) of your friends to do same.
-Thank you for your attention and may God bless and keep safe the brave men and women fighting for Democracy around the World.
+Thank you for your attention and may God bless and keep safe the brave men and women fighting for Democracy around the World. © # joannrothforstaterepresentative.com Follow us on Facebook and Donate Using ActBlue Contact JoAnn at (620) 282-4054 or by email joannroth@embarqmail.com © # Paid for by Jo Ann Roth for State Representative, Kent Roth, Treasurer.
+10 North Main, Ellinwood KS 67526 joannrothforstaterepresentative.com

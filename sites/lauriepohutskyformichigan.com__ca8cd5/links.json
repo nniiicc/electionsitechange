@@ -1,12 +1,42 @@
 [
-"https://facebook.com/lauriepohutskyhd19",
-"https://instagram.com/lauriepohutsky?hl=en",
-"https://lauriepohutskyformichigan.com/",
-"https://lauriepohutskyformichigan.com/about-laurie.html",
-"https://lauriepohutskyformichigan.com/cdn-cgi/l/email-protection",
-"https://lauriepohutskyformichigan.com/contact.html",
-"https://lauriepohutskyformichigan.com/home.html",
-"https://lauriepohutskyformichigan.com/issues.html",
-"https://secure.actblue.com/donate/lp26",
-"https://twitter.com/lpohutsky19"
+{
+"text": "About Laurie",
+"href": "https://www.lauriepohutskyformichigan.com/about-laurie.html"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriepohutskyformichigan.com/contact.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/lp26"
+},
+{
+"text": "Home",
+"href": "https://www.lauriepohutskyformichigan.com/home.html"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriepohutskyformichigan.com/issues.html"
+},
+{
+"text": "[image: LAURIE POHUTSKY]",
+"href": "https://www.lauriepohutskyformichigan.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/lpohutsky19"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/lauriepohutskyhd19/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauriepohutsky/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "mailto:lauriepohutsky@gmail.com"
+}
 ]

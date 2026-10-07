@@ -1,7 +1,9 @@
 {
  "description": "Support John Lemondes&#39; campaign with your financial contribution. Donate now to ensure he continues to represent your interests!",
  "final_url": "https://johnlemondes.com/contribute",
- "paid_for_by": null,
+ "fingerprint": "f10267f3f6793b229d06566d105bbff75f815bed",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

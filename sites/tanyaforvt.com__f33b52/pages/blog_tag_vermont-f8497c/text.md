@@ -1,7 +1,4 @@
-News and Updates
-Categories
-The Investments We Need for Public Safety
-I have had the opportunity to connect with dozens of constituents, small business owners, and justice professionals about public safety in our community and what keeps inspiring me to do this work - despite all the divisiveness that paints us as on opposite sides of these issues - is that we agree on far more than we disagree on.
+0 Skip to Content Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now Open Menu Close Menu Meet Tanya Platform Endorsements Get Involved Updates Contact Donate Now News and Updates Categories Democracy Education Housing Lawsuit Safety Session Preview Taxes Town Meeting Day Report Uncategorized Safety 7/23/24 Safety 7/23/24 The Investments We Need for Public Safety https://youtu.be/8FZ8-w-8mgU?si=Lvu3F6FNIuEqCVBh I have had the opportunity to connect with dozens of constituents, small business owners, and justice professionals about public safety in our community and what keeps inspiring me to do this work - despite all the divisiveness that paints us as on opposite sides of these issues - is that we agree on far more than we disagree on.
 We agree that we need to do so much better addressing the issues that drive crime in the first place; affordable housing, mental health services, substance use disorder treatment, and accessible educational opportunities just to name a few.
 We also agree that if we want to talk about accountability, we have to clear the backlog in the judicial system.
 No one - not the businesses, not the people who have committed crimes, not the people working in public safety - is better off when cases take years to get in front of a judge.
@@ -14,3 +11,4 @@ As a senator I don't have any influence over the policing and safety decisions m
 That's where those decisions are made.
 My goal is to work in partnership with local leaders while making sure that the policy the senate sets spends taxpayer money as wisely as possible, while also making sure that the outcomes actually do what we say we want them to.
 We are all working toward the goal of keeping crime from occurring in the first place, and if it does, making sure that those involved have timely accountability and steps forward that restore trust and opportunities for everyone’s future.
+Read More Tanya Vyhovsky for Chittenden Central Senate PO Box 8376 Essex VT 05451 Paid for by Tanya V for VT

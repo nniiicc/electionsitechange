@@ -1,10 +1,3 @@
-Sep
-4
-Meet & Greet - Sept 4
-MEET & GREET WITH MISTY NAGATA CLUETT
-Chicken in a Barrel BBQ – Waimea
-9400 Kaumualiʻi Hwy, Waimea, HI 96796
-Come talk story, ask questions, and hear Misty’s vision for Kauaʻi and Hawaiʻi.
+0 Skip to Content Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Open Menu Close Menu Home Meet Misty Priorities FAQ Events Get Involved Donate Contact Downloads Sep 4 Meet & Greet - Sept 4 Friday, September 4, 2026 5:00 PM 6:30 PM Google Calendar ICS MEET & GREET WITH MISTY NAGATA CLUETT Chicken in a Barrel BBQ – Waimea 9400 Kaumualiʻi Hwy, Waimea, HI 96796 Come talk story, ask questions, and hear Misty’s vision for Kauaʻi and Hawaiʻi.
 All are welcome.
-Aug
-21
+View Event → Aug 21 BBQ Fundraiser Friday, August 21, 2026 4:00 PM 6:00 PM Google Calendar ICS View Event →

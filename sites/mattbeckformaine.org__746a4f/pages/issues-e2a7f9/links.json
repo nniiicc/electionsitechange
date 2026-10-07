@@ -1,16 +1,66 @@
 [
-"http://squarespace.com/",
-"https://docs.google.com/spreadsheets/d/1klVMCaBAcpf8oNGwh3HKbhQIzhaLTCBYNG6lw1y35OQ/edit",
-"https://facebook.com/mattbeckformaine",
-"https://instagram.com/mattbeckformaine",
-"https://mattbeckformaine.org/",
-"https://mattbeckformaine.org/about",
-"https://mattbeckformaine.org/cart",
-"https://mattbeckformaine.org/contact",
-"https://mattbeckformaine.org/issues",
-"https://mattbeckformaine.org/join-us",
-"https://mattbeckformaine.org/press",
-"https://mattbeckformaine.org/support",
-"https://mattbeckformaine.org/vote",
-"https://secure.actblue.com/donate/mattbeckformaine"
+{
+"text": "0",
+"href": "https://www.mattbeckformaine.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.mattbeckformaine.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mattbeckformaine.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mattbeckformaine"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/mattbeckformaine/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mattbeckformaine/"
+},
+{
+"text": "Issues",
+"href": "https://www.mattbeckformaine.org/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.mattbeckformaine.org/join-us"
+},
+{
+"text": "Press",
+"href": "https://www.mattbeckformaine.org/press"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "Support",
+"href": "https://www.mattbeckformaine.org/support"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/spreadsheets/d/1klVMCaBAcpf8oNGwh3HKbhQIzhaLTCBYNG6lw1y35OQ/edit#gid=921133481"
+},
+{
+"text": "Vote",
+"href": "https://www.mattbeckformaine.org/vote"
+},
+{
+"text": "[image: Beck Campaign]",
+"href": "https://www.mattbeckformaine.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/mattbeckformaine/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mattbeckformaine/"
+}
 ]

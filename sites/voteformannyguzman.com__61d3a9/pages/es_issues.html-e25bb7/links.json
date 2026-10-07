@@ -1,10 +1,46 @@
 [
-"https://voteformannyguzman.com/cdn-cgi/l/email-protection",
-"https://voteformannyguzman.com/es/about.html",
-"https://voteformannyguzman.com/es/contact.html",
-"https://voteformannyguzman.com/es/donate.html",
-"https://voteformannyguzman.com/es/issues.html",
-"https://voteformannyguzman.com/es/volunteer.html",
-"https://voteformannyguzman.com/index.html",
-"https://voteformannyguzman.com/issues.html"
+{
+"text": "Contacto",
+"href": "https://voteformannyguzman.com/es/contact.html"
+},
+{
+"text": "Contáctanos",
+"href": "https://voteformannyguzman.com/es/contact.html"
+},
+{
+"text": "Donar",
+"href": "https://voteformannyguzman.com/es/donate.html"
+},
+{
+"text": "EN",
+"href": "https://voteformannyguzman.com/issues.html"
+},
+{
+"text": "Inicio",
+"href": "https://voteformannyguzman.com/index.html"
+},
+{
+"text": "Inscríbete",
+"href": "https://voteformannyguzman.com/es/volunteer.html"
+},
+{
+"text": "MANNY GUZMAN",
+"href": "https://voteformannyguzman.com/index.html"
+},
+{
+"text": "Sobre Manny",
+"href": "https://voteformannyguzman.com/es/about.html"
+},
+{
+"text": "Temas",
+"href": "https://voteformannyguzman.com/es/issues.html"
+},
+{
+"text": "Voluntariado",
+"href": "https://voteformannyguzman.com/es/volunteer.html"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@voteformannyguzman.com"
+}
 ]

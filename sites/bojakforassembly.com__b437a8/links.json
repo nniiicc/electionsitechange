@@ -1,19 +1,86 @@
 [
-"https://bojakforassembly.com/",
-"https://bojakforassembly.com/cart",
-"https://bojakforassembly.com/endorsements",
-"https://bojakforassembly.com/events",
-"https://bojakforassembly.com/meet-adam-bojak",
-"https://bojakforassembly.com/news",
-"https://bojakforassembly.com/platform-policy",
-"https://bojakforassembly.com/privacy-policy",
-"https://bojakforassembly.com/volunteer",
-"https://bsky.app/profile/bojak4assembly.bsky.social",
-"https://facebook.com/share/1CXnZq9k81?mibextid=wwXIfr",
-"https://instagram.com/bojakforassembly",
-"https://secure.actblue.com/donate/bojak2026",
-"https://secure.actblue.com/donate/bojak2026?amount=10",
-"https://secure.actblue.com/donate/bojak2026?amount=100",
-"https://secure.actblue.com/donate/bojak2026?amount=25",
-"https://x.com/bojak4assembly"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/bojak2026?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/bojak2026?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/bojak2026?amount=25"
+},
+{
+"text": "0",
+"href": "https://www.bojakforassembly.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bojak2026"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.bojakforassembly.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.bojakforassembly.com/events"
+},
+{
+"text": "MEET ADAM",
+"href": "https://www.bojakforassembly.com/meet-adam-bojak"
+},
+{
+"text": "NEWS",
+"href": "https://www.bojakforassembly.com/news"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/bojak2026"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.bojakforassembly.com/platform-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bojakforassembly.com/privacy-policy"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.bojakforassembly.com/privacy-policy"
+},
+{
+"text": "Read Our Platform",
+"href": "https://www.bojakforassembly.com/platform-policy"
+},
+{
+"text": "See all Endorsements",
+"href": "https://www.bojakforassembly.com/endorsements"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.bojakforassembly.com/volunteer"
+},
+{
+"text": "[image: Bojak for Assembly]",
+"href": "https://www.bojakforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/bojak4assembly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1CXnZq9k81/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bojakforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bojak4assembly"
+}
 ]

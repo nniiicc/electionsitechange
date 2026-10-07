@@ -1,5 +1,4 @@
-Richard's Story
-I was born and raised in the north end of Providence, the son of first-generation Italian Americans who worked the textile mills and jewelry shops of the city, commonly known as “Mill Rats.” When I was 17, the most important man in my life, my Dad, died suddenly.
+Legislative Recap News & Endorsements Richard’s Story Support Contact Donate Richard's Story I was born and raised in the north end of Providence, the son of first-generation Italian Americans who worked the textile mills and jewelry shops of the city, commonly known as “Mill Rats.” When I was 17, the most important man in my life, my Dad, died suddenly.
 That day I found myself a teenage head of household, with a 14-year old sister and a Mom who was inconsolable.
 I went to work and helped support my family while attending Hope High School during the day.
 Shortly after graduating, I was fortunate enough to secure a seat in the Providence Police Academy, an experience that would shape the rest of my life.
@@ -16,23 +15,9 @@ Perhaps my proudest moment was leading the opposition to a 55,000-panel solar fa
 My children are grown now with families of their own but they still live here in Rhode Island.
 In fact, my son and grandson live here in Johnston.
 You could say, I have deep roots here and a vested interest.
-I am now honored to have the opportunity to take my experience to the State House as your Representative from District 42.
+I am now honored to have the opportunity to take my experience to the State House as your Representative from District 42 .
 There, I represent your interests – the people of Johnston and Cranston – not the SPECIAL INTERESTS that have slowly eaten away at the fabric of our cities, neighborhoods, and the state as a whole.
-With all this in mind, I thank you for your support and the confidence you placed in me as your Republican Representative in the Rhode Island House of Representatives, District 42, and I humbly ask for your re-election vote on or before November 3.
-- 28-year resident of Johnston
-- Currently, the Human Resource Manager, USENTRA Security
-- Retired Providence Police Sergeant
-- 19 years on the Johnston Zoning Board of Review
-- 10 years working with the homeless
-- 5 years as fraud investigator for Providence Housing
-- 20+ years in business / government management
-- Former president of the Jeopardy Management Group
-- Member of the Fraternal Order of Police for 44 years
-- Graduate of Roger Williams University
-- Communicant of St.
-Rocco’s Church
-- Former Acting Chair, Johnston Republican Town Committee
-- Current member of Johnston Republican Town Committee
-- Happily married for 44 years
-- Father of two and grandfather of four
-- Dog dad of a West Highland Terrier
+With all this in mind, I thank you for your support and the confidence you placed in me as your Republican Representative in the Rhode Island House of Representatives, District 42, and I humbly ask for your re-election vote on or before November 3. ​ 28-year resident of Johnston Currently, the Human Resource Manager, USENTRA Security Retired Providence Police Sergeant 19 years on the Johnston Zoning Board of Review 10 years working with the homeless 5 years as fraud investigator for Providence Housing 20+ years in business / government management Former president of the Jeopardy Management Group Member of the Fraternal Order of Police for 44 years Graduate of Roger Williams University Communicant of St.
+Rocco’s Church Former Acting Chair, Johnston Republican Town Committee Current member of Johnston Republican Town Committee Happily married for 44 years Father of two and grandfather of four Dog dad of a West Highland Terrier Your Title Goes Here Phone: 401-903-0314 Office Address: 82 Smith St.
+Room 106 Providence 02908 Legislative Recap News & Endorsements Richard’s Story Support Contact Donate Facebook X Instagram Copyright # All Rights Reserved.
+Paid for and authorized by Friends of Richard Fascia.

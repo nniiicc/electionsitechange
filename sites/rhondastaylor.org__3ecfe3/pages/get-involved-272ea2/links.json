@@ -1,9 +1,38 @@
 [
-"https://facebook.com/rtaylor4house",
-"https://registertovote.sos.ga.gov/GAOLVR/welcome.do",
-"https://rhondastaylor.org/",
-"https://rhondastaylor.org/donate",
-"https://rhondastaylor.org/get-involved",
-"https://rhondastaylor.org/meet-rhonda",
-"https://rhondastaylor.org/pledge"
+{
+"text": "Donate",
+"href": "https://www.rhondastaylor.org/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.rhondastaylor.org/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.rhondastaylor.org"
+},
+{
+"text": "Pledge",
+"href": "https://www.rhondastaylor.org/pledge"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://registertovote.sos.ga.gov/GAOLVR/welcome.do#no-back-button"
+},
+{
+"text": "Rhonda",
+"href": "https://www.rhondastaylor.org/meet-rhonda"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/rtaylor4house/"
+},
+{
+"text": "[image: Twitter Social Icon]",
+"href": "https://www.facebook.com/rtaylor4house/"
+},
+{
+"text": "rtaylor4house@gmail.com",
+"href": "mailto:rtaylor4house@gmail.com"
+}
 ]

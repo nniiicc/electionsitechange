@@ -1,14 +1,70 @@
 [
-"http://powerplaystrategies.com/",
-"https://ayalaforassembly.com/",
-"https://ayalaforassembly.com/about",
-"https://ayalaforassembly.com/endorsements",
-"https://ayalaforassembly.com/get-involved",
-"https://ayalaforassembly.com/issues-2",
-"https://ayalaforassembly.com/privacy-policy",
-"https://ayalaforassembly.com/terms-and-conditions",
-"https://instagram.com/cmdianaayalanyc",
-"https://instagram.com/cmdianaayalanyc?hl=en",
-"https://secure.actblue.com/donate/diana-ayala-1",
-"https://x.com/DianaAyalaNYC"
+{
+"text": "About",
+"href": "https://www.ayalaforassembly.com/about"
+},
+{
+"text": "CONTACT",
+"href": "mailto:info@ayalaforassembly.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/diana-ayala-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ayalaforassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ayalaforassembly.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.ayalaforassembly.com/issues-2"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.ayalaforassembly.com/privacy-policy"
+},
+{
+"text": "Powered by Power Play Strategies",
+"href": "http://www.powerplaystrategies.com"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://www.ayalaforassembly.com/terms-and-conditions"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/cmdianaayalanyc/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/cmdianaayalanyc/?hl=en"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/DianaAyalaNYC"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/DianaAyalaNYC"
+},
+{
+"text": "[no text]",
+"href": "https://www.ayalaforassembly.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.ayalaforassembly.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@ayalaforassembly.com"
+},
+{
+"text": "info@ayalaforassembly.com",
+"href": "mailto:info@ayalaforassembly.com"
+}
 ]

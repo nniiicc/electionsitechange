@@ -1,15 +1,74 @@
 [
-"https://facebook.com/PerryforStateRep?mibextid=wwXIfr&rdid=AjYOdNpM1QxbS0M7&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GC89iWXJb%2F%3Fmibextid%3DwwXIfr",
-"https://form.fillout.com/t/ptw1kNQrSwus",
-"https://instagram.com/votelauraperry?igsh=MWx5Zmd1YjR6empvNQ%3D%3D",
-"https://votelauraperry.com/",
-"https://votelauraperry.com/about",
-"https://votelauraperry.com/about-4",
-"https://votelauraperry.com/contact",
-"https://votelauraperry.com/donate",
-"https://votelauraperry.com/endorsements",
-"https://votelauraperry.com/get-involved",
-"https://votelauraperry.com/lauras-plan",
-"https://votelauraperry.com/privacy-policy",
-"https://x.com/votelauraperry?s=11"
+{
+"text": "About",
+"href": "https://www.votelauraperry.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votelauraperry.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.votelauraperry.com/about-4"
+},
+{
+"text": "Donate",
+"href": "https://www.votelauraperry.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelauraperry.com/endorsements"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.votelauraperry.com"
+},
+{
+"text": "Home",
+"href": "https://www.votelauraperry.com"
+},
+{
+"text": "Home",
+"href": "https://www.votelauraperry.com/endorsements"
+},
+{
+"text": "Laura Perry",
+"href": "https://www.votelauraperry.com"
+},
+{
+"text": "Laura's Plan",
+"href": "https://www.votelauraperry.com/lauras-plan"
+},
+{
+"text": "Laura@VoteLauraPerry.com",
+"href": "mailto:Laura@VoteLauraPerry.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votelauraperry.com/privacy-policy"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://form.fillout.com/t/ptw1kNQrSwus"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votelauraperry.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/PerryforStateRep?mibextid=wwXIfr&rdid=AjYOdNpM1QxbS0M7&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GC89iWXJb%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votelauraperry?igsh=MWx5Zmd1YjR6empvNQ%3D%3D"
+},
+{
+"text": "[image]",
+"href": "https://www.votelauraperry.com"
+},
+{
+"text": "[image]",
+"href": "https://x.com/votelauraperry?s=11"
+}
 ]

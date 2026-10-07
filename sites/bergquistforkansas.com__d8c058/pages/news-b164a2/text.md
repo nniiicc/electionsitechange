@@ -1,4 +1,6 @@
-Working for the 91st District
-It is a privilege to work for the best interests of your families in the 91st District, and I hope to continue the work as our community’s voice in the Kansas House.
-At a time when people are directly impacted by rising prices on everyday goods, Republicans worked to further lower taxes, in addition to increase […]
-Read More
+Meet Emil News Issues District Map Volunteer Donate Latest News Working for the 91st District It is a privilege to work for the best interests of your families in the 91st District, and I hope to continue the work as our community’s voice in the Kansas House.
+At a time when people are directly impacted by rising prices on everyday goods, Republicans worked to further lower taxes, in addition to increase […] Read More We the people… We the people…I am honored for the trust you have placed in me to represent you at the Capitol.
+The past couple of years have been unprecedented times for families and businesses with an aggressive pandemic and statewide mandates and restrictions.
+Just as the pandemic improves and we resume a quality of life with less […] Read More Emil Bergquist Sworn in as Representative for District 91 In Topeka this week, Emil Bergquist was sworn in as Kansas Representative for the 91st District, which includes parts of Kechi, Maize, Park City, Valley Center, and Wichita.
+Emil fills the remainder of the term begun by Rep.
+Greg Lakin, who was appointed chief medical officer for the Kansas Department of Health and Environment by […] Read More Get Updates Right in Your Inbox Leave this field empty if you're human: Meet Emil News Issues District Map Volunteer Donate Sign up to get involved Leave this field empty if you're human: Paid for by Emil Bergquist for District 91, Myron Higerd, Treasurer

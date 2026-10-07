@@ -1,21 +1,114 @@
 [
-"https://anita4newmexico.com/",
-"https://anita4newmexico.com/about",
-"https://anita4newmexico.com/about/about-house-district-70",
-"https://anita4newmexico.com/contact-us",
-"https://anita4newmexico.com/endorsements",
-"https://anita4newmexico.com/news",
-"https://anita4newmexico.com/priorities",
-"https://anita4newmexico.com/privacy-terms",
-"https://anita4newmexico.com/site-map",
-"https://anita4newmexico.com/upcoming-events",
-"https://anita4newmexico.com/volunteer-for-our-campaign",
-"https://anita4newmexico.com/voting",
-"https://anita4newmexico.com/wp-admin",
-"https://anita4newmexico.com/wp-admin/post.php?post=4&action=edit",
-"https://evowebdev.com/",
-"https://facebook.com/anita4newmexico",
-"https://instagram.com/anita_gonzales_for_new_mexico",
-"https://secure.numero.ai/contribute/friendsforanitagonzales",
-"https://twitter.com/anita4nm"
+{
+"text": "About",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About Anita",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About Anita Gonzales",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "About District 70",
+"href": "https://anita4newmexico.com/about/about-house-district-70/"
+},
+{
+"text": "About House District 70",
+"href": "https://anita4newmexico.com/about/about-house-district-70/"
+},
+{
+"text": "Admin",
+"href": "https://anita4newmexico.com/wp-admin"
+},
+{
+"text": "Contact",
+"href": "https://anita4newmexico.com/contact-us/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.numero.ai/contribute/friendsforanitagonzales"
+},
+{
+"text": "Designed and developed by Evo",
+"href": "https://evowebdev.com"
+},
+{
+"text": "Edit This",
+"href": "https://anita4newmexico.com/wp-admin/post.php?post=4&action=edit"
+},
+{
+"text": "Endorsements",
+"href": "https://anita4newmexico.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Home",
+"href": "https://anita4newmexico.com/"
+},
+{
+"text": "Learn More",
+"href": "https://anita4newmexico.com/about/"
+},
+{
+"text": "News",
+"href": "https://anita4newmexico.com/news/"
+},
+{
+"text": "News/Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Priorities",
+"href": "https://anita4newmexico.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://anita4newmexico.com/privacy-terms/"
+},
+{
+"text": "Site Map",
+"href": "https://anita4newmexico.com/site-map/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://anita4newmexico.com/upcoming-events/"
+},
+{
+"text": "Volunteer",
+"href": "https://anita4newmexico.com/volunteer-for-our-campaign/"
+},
+{
+"text": "Voting",
+"href": "https://anita4newmexico.com/voting/"
+},
+{
+"text": "[image: Anita4NewMexico]",
+"href": "https://anita4newmexico.com/"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.numero.ai/contribute/friendsforanitagonzales"
+},
+{
+"text": "[image: Follow us on Instagram]",
+"href": "https://www.instagram.com/anita_gonzales_for_new_mexico/"
+},
+{
+"text": "[image: Follow us on Twitter]",
+"href": "https://twitter.com/anita4nm"
+},
+{
+"text": "[image: Friend us on Facebook]",
+"href": "https://www.facebook.com/anita4newmexico"
+},
+{
+"text": "[image: Volunteer]",
+"href": "https://anita4newmexico.com/volunteer-for-our-campaign/"
+}
 ]

@@ -1,4 +1,4 @@
-For too long, Americans have been caught in a constant battle over truth itself.
+DONATE about issues shop news volunteer Request Yard sign first amendment issue For too long, Americans have been caught in a constant battle over truth itself.
 Government agencies, political operatives, corporate interests, and media institutions have increasingly worked together to shape narratives, suppress dissenting voices, and decide which opinions are acceptable for the public to hear.
 The result has been a country more divided, distrustful, and hostile toward one another than at any point in recent memory.
 When people are denied open access to information and honest debate, fear and manipulation rush in to fill the void.
@@ -18,9 +18,10 @@ Real truth cannot be manufactured or centrally controlled.
 It emerges when free people are allowed to speak honestly and engage openly with one another.
 We are the party of free thought, free speech, and free people.
 We believe in real communication, real transparency, and real accountability.
-That is how we build a real future, not through censorship, manipulation, endless division, or attempts to control what Americans think, know, and believe about the world around them.
-donate »
-I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
-anti-war,
-anti-spending,
-anti-establishment
+That is how we build a real future, not through censorship, manipulation, endless division, or attempts to control what Americans think, know, and believe about the world around them. free speech even if you don't like it. « back to issues donate » I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
+THE AMERICA FIRST CANDIDATE anti-war, anti-spending, anti-establishment PAID FOR BY JEREMY TODD FOR KENTUCKY follow: By submitting your cell phone number you are agreeing to receive periodic text messages from our campaign.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+PO Box 176037, Lakeside Park, Kentucky 41017 SUBMIT thank you!
+COPYRIGHT ©# JEREMY TODD FOR KENTUCKY PRIVACY POLICY | CONTACT US about issues home donate » shop news volunteer Request Yard Sign about issues Shop news volunteer

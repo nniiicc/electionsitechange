@@ -1,41 +1,162 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://linkedin.com/",
-"http://lpcolorado.org/",
-"http://tiktok.com/",
-"http://x.com/",
-"http://youtube.com/",
-"https://dougjones4co.com/",
-"https://dougjones4co.com/blog",
-"https://dougjones4co.com/donate",
-"https://dougjones4co.com/event-details/innovation-and-action-colorados-future-seminar",
-"https://dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15",
-"https://dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15-1",
-"https://dougjones4co.com/event-details/libertarian-family-picnic",
-"https://dougjones4co.com/event-details/uniting-colorado-a-common-ground-rally",
-"https://dougjones4co.com/event-details/volunteer-strategy-meetup-for-doug-jones-campaign",
-"https://dougjones4co.com/event-list",
-"https://dougjones4co.com/notifications",
-"https://dougjones4co.com/post/rebuilding-pride-in-america-why-i-m-running-for-colorado-house-of-representatives",
-"https://dougjones4co.com/post/why-do-people-think-government-sucks",
-"https://dougjones4co.com/volunteer",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Blog",
+"href": "https://www.dougjones4co.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.dougjones4co.com/donate"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/innovation-and-action-colorados-future-seminar"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/league-of-women-voters-candidate-forum-for-house-district-15-1"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/libertarian-family-picnic"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/uniting-colorado-a-common-ground-rally"
+},
+{
+"text": "Details",
+"href": "https://www.dougjones4co.com/event-details/volunteer-strategy-meetup-for-doug-jones-campaign"
+},
+{
+"text": "Events",
+"href": "https://www.dougjones4co.com/event-list"
+},
+{
+"text": "Home",
+"href": "https://www.dougjones4co.com"
+},
+{
+"text": "LIBERTARIAN",
+"href": "http://lpcolorado.org"
+},
+{
+"text": "Notifications",
+"href": "https://www.dougjones4co.com/notifications"
+},
+{
+"text": "Rebuilding Pride in America: Why I’m Running for Colorado House of Representatives",
+"href": "https://www.dougjones4co.com/post/rebuilding-pride-in-america-why-i-m-running-for-colorado-house-of-representatives"
+},
+{
+"text": "Volunteer",
+"href": "https://www.dougjones4co.com/volunteer"
+},
+{
+"text": "Why do people think government sucks?",
+"href": "https://www.dougjones4co.com/post/why-do-people-think-government-sucks"
+},
+{
+"text": "[image: Doug-Jones-for-Colorado-House-15-logo]",
+"href": "http://www.lpcolorado.org"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.tiktok.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.x.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Finnovation-and-action-colorados-future-seminar"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fleague-of-women-voters-candidate-forum-for-house-district-15-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Flibertarian-family-picnic"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Funiting-colorado-a-common-ground-rally"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.dougjones4co.com%2Fevent-details%2Fvolunteer-strategy-meetup-for-doug-jones-campaign"
+}
 ]

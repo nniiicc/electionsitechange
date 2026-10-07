@@ -1,9 +1,12 @@
 {
  "description": "Casey Snider is a Republican candidate for the Utah Legislature in House District 5 in Cache Valley, UT.",
  "final_url": "https://www.caseysnider.com/",
- "paid_for_by": null,
+ "fingerprint": "186dcebe19678bac61f8bab8266707ef6e4df034",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Casey Snider",
  "years_mentioned": [
+  "2013",
   "2016"
  ]
 }

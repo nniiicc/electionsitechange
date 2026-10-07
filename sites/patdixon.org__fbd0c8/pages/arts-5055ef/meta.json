@@ -1,10 +1,17 @@
 {
  "description": "",
  "final_url": "https://patdixon.org/arts/",
- "paid_for_by": null,
+ "fingerprint": "498359461df56e80cc09f1e625709d61373f28cb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Arts",
  "years_mentioned": [
+  "1999",
+  "2002",
+  "2008",
+  "2011",
   "2015",
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,34 +1,166 @@
 [
-"https://facebook.com/share/1XjULbHgvx",
-"https://governor.mo.gov/press-releases/archive/governor-kehoe-signs-three-bills-law",
-"https://jaspercountymo.gov/county-clerk",
-"https://jillforsenate.com/about-3",
-"https://jillforsenate.com/ballot",
-"https://jillforsenate.com/endorse",
-"https://jillforsenate.com/endorsement-donaldson",
-"https://jillforsenate.com/endorsement-hanaway",
-"https://jillforsenate.com/endorsement-mona-pac",
-"https://jillforsenate.com/endorsement-mscfa",
-"https://jillforsenate.com/endorsement-mscff",
-"https://jillforsenate.com/endorsement-wermuth",
-"https://jillforsenate.com/gambling-machines",
-"https://jillforsenate.com/privacy",
-"https://legiscan.com/",
-"https://missourinet.com/2026/04/07/gov-kehoe-signs-three-missouri-bills-into-law",
-"https://mofb.org/carterpac26",
-"https://msta.org/2026-elections",
-"https://ncclerk.org/",
-"https://secure.anedot.com/8871c7b1-ec6c-4864-a4ad-17d8f4e2753a/d96dd0fe-5785-4242-bcc1-4fe6256d47f0",
-"https://senate.mo.gov/",
-"https://senate.mo.gov/23info/pdf-jrnl/DAY47.pdf",
-"https://senate.mo.gov/BillTracking/Bills/BillInformation?billid=66&year=2025",
-"https://senate.mo.gov/Media/NewsDetails?id=1968",
-"https://senate.mo.gov/Media/NewsDetails?id=2132",
-"https://senate.mo.gov/Media/NewsDetails?id=2227",
-"https://senate.mo.gov/Media/NewsDetails?id=2245",
-"https://senate.mo.gov/Media/NewsDetails?id=2253",
-"https://senate.mo.gov/Media/NewsDetails?id=2351",
-"https://senate.mo.gov/Media/NewsDetails?id=2356",
-"https://sos.mo.gov/elections",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "Add your endorsement",
+"href": "https://www.jillforsenate.com/endorse"
+},
+{
+"text": "Chip in to fight back",
+"href": "https://secure.anedot.com/8871c7b1-ec6c-4864-a4ad-17d8f4e2753a/d96dd0fe-5785-4242-bcc1-4fe6256d47f0"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/8871c7b1-ec6c-4864-a4ad-17d8f4e2753a/d96dd0fe-5785-4242-bcc1-4fe6256d47f0"
+},
+{
+"text": "Find your polling place →",
+"href": "https://voteroutreach.sos.mo.gov/portal/"
+},
+{
+"text": "Gas-Station Gambling Machines — April 5, 2023",
+"href": "https://www.jillforsenate.com/gambling-machines"
+},
+{
+"text": "Governor Kehoe bill signing, April 7, 2026",
+"href": "https://governor.mo.gov/press-releases/archive/governor-kehoe-signs-three-bills-law"
+},
+{
+"text": "Jasper County election authority ↗",
+"href": "https://www.jaspercountymo.gov/county-clerk"
+},
+{
+"text": "Join a Citizen Board",
+"href": "https://www.jillforsenate.com/about-3#advisory-board"
+},
+{
+"text": "LegiScan",
+"href": "https://legiscan.com/"
+},
+{
+"text": "Missouri Senate Journal, 47th Day",
+"href": "https://senate.mo.gov/23info/pdf-jrnl/DAY47.pdf"
+},
+{
+"text": "News coverage",
+"href": "https://www.missourinet.com/2026/04/07/gov-kehoe-signs-three-missouri-bills-into-law/"
+},
+{
+"text": "Newton County election authority ↗",
+"href": "https://www.ncclerk.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jillforsenate.com/privacy"
+},
+{
+"text": "Read her statement →",
+"href": "https://www.jillforsenate.com/endorsement-mscff"
+},
+{
+"text": "Read his complete endorsement →",
+"href": "https://www.jillforsenate.com/endorsement-donaldson"
+},
+{
+"text": "Read his complete endorsement →",
+"href": "https://www.jillforsenate.com/endorsement-wermuth"
+},
+{
+"text": "Read the endorsement →",
+"href": "https://www.jillforsenate.com/endorsement-mona-pac"
+},
+{
+"text": "Read the full endorsement →",
+"href": "https://www.jillforsenate.com/endorsement-hanaway"
+},
+{
+"text": "Read the full release →",
+"href": "https://www.jillforsenate.com/endorsement-mscfa"
+},
+{
+"text": "Read the record",
+"href": "https://www.jillforsenate.com/gambling-machines"
+},
+{
+"text": "Read their post →",
+"href": "https://www.facebook.com/share/1XjULbHgvx/"
+},
+{
+"text": "Record your endorsement",
+"href": "https://www.jillforsenate.com/endorse"
+},
+{
+"text": "See MSTA's endorsement list →",
+"href": "https://msta.org/2026-elections"
+},
+{
+"text": "Senate record",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2227"
+},
+{
+"text": "Signed Apr 7",
+"href": "https://governor.mo.gov/press-releases/archive/governor-kehoe-signs-three-bills-law"
+},
+{
+"text": "What's on my ballot?",
+"href": "https://www.jillforsenate.com/ballot"
+},
+{
+"text": "https://mofb.org/carterpac26/",
+"href": "https://mofb.org/carterpac26/"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=1968",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=1968"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2132",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2132"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2227",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2227"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2245",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2245"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2253",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2253"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2351",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2351"
+},
+{
+"text": "https://www.senate.mo.gov/Media/NewsDetails?id=2356",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2356"
+},
+{
+"text": "mofb.org →",
+"href": "https://mofb.org/carterpac26/"
+},
+{
+"text": "senate.mo.gov",
+"href": "https://www.senate.mo.gov/"
+},
+{
+"text": "senate.mo.gov",
+"href": "https://www.senate.mo.gov/Media/NewsDetails?id=2227"
+},
+{
+"text": "senate.mo.gov bill record",
+"href": "https://www.senate.mo.gov/BillTracking/Bills/BillInformation?billid=66&year=2025"
+},
+{
+"text": "sos.mo.gov/elections ↗",
+"href": "https://www.sos.mo.gov/elections"
+},
+{
+"text": "📱 Text a friend now",
+"href": "sms:?body=I%E2%80%99m+voting+Jill+Carter+for+State+Senate+on+Tuesday%2C+November+3+%E2%80%94+and+I+want+you+to+come+with+me.+Polls+are+open+6+AM+to+7+PM.+You+in%3F"
+},
+{
+"text": "🗳 What's on my ballot?",
+"href": "https://www.jillforsenate.com/ballot"
+}
 ]

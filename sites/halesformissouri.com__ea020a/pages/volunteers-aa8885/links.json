@@ -1,25 +1,126 @@
 [
-"http://instagram.com/",
-"http://twitter.com/progression_S",
-"https://facebook.com/progressionstudios",
-"https://halesformissouri.com/",
-"https://halesformissouri.com/about-jeff",
-"https://halesformissouri.com/become-a-volunteer",
-"https://halesformissouri.com/cart",
-"https://halesformissouri.com/checkout",
-"https://halesformissouri.com/get-involved",
-"https://halesformissouri.com/issues",
-"https://halesformissouri.com/meet-christine",
-"https://halesformissouri.com/meet-jessica",
-"https://halesformissouri.com/meet-kevin",
-"https://halesformissouri.com/meet-michael",
-"https://halesformissouri.com/meet-mike",
-"https://halesformissouri.com/meet-sarah",
-"https://halesformissouri.com/my-account",
-"https://halesformissouri.com/privacy",
-"https://halesformissouri.com/shop",
-"https://halesformissouri.com/terms",
-"https://halesformissouri.com/volunteers",
-"https://polikal.progressionstudios.com/become-a-volunteer",
-"https://secure.actblue.com/donate/halesformissouri"
+{
+"text": "About Jeff",
+"href": "https://halesformissouri.com/about-jeff/"
+},
+{
+"text": "Become a Volunteer",
+"href": "https://halesformissouri.com/become-a-volunteer/"
+},
+{
+"text": "Cart",
+"href": "https://halesformissouri.com/cart/"
+},
+{
+"text": "Checkout",
+"href": "https://halesformissouri.com/checkout/"
+},
+{
+"text": "Christine Rose",
+"href": "https://halesformissouri.com/meet-christine/"
+},
+{
+"text": "Contact",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/halesformissouri"
+},
+{
+"text": "Get Involved!",
+"href": "https://halesformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "Issues",
+"href": "https://halesformissouri.com/issues/"
+},
+{
+"text": "Jessica Brown",
+"href": "https://halesformissouri.com/meet-jessica/"
+},
+{
+"text": "Join Our Team",
+"href": "https://polikal.progressionstudios.com/become-a-volunteer/"
+},
+{
+"text": "Kevin Smith",
+"href": "https://halesformissouri.com/meet-kevin/"
+},
+{
+"text": "Michael Slash",
+"href": "https://halesformissouri.com/meet-michael/"
+},
+{
+"text": "Mike Hardstone",
+"href": "https://halesformissouri.com/meet-mike/"
+},
+{
+"text": "My Account",
+"href": "https://halesformissouri.com/my-account/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://halesformissouri.com/privacy/"
+},
+{
+"text": "Sarah Albert",
+"href": "https://halesformissouri.com/meet-sarah/"
+},
+{
+"text": "Shop",
+"href": "https://halesformissouri.com/shop/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://halesformissouri.com/terms/"
+},
+{
+"text": "Volunteers",
+"href": "https://halesformissouri.com/volunteers/"
+},
+{
+"text": "[image: Christine Rose]",
+"href": "https://halesformissouri.com/meet-christine/"
+},
+{
+"text": "[image: Hales for Missouri]",
+"href": "https://halesformissouri.com/"
+},
+{
+"text": "[image: Jessica Brown]",
+"href": "https://halesformissouri.com/meet-jessica/"
+},
+{
+"text": "[image: Kevin Smith]",
+"href": "https://halesformissouri.com/meet-kevin/"
+},
+{
+"text": "[image: Michael Slash]",
+"href": "https://halesformissouri.com/meet-michael/"
+},
+{
+"text": "[image: Mike Hardstone]",
+"href": "https://halesformissouri.com/meet-mike/"
+},
+{
+"text": "[image: Sarah Albert]",
+"href": "https://halesformissouri.com/meet-sarah/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/progression_S"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/progressionstudios/"
+}
 ]

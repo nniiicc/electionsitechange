@@ -1,14 +1,58 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfXaumt8U9OQIh6uI8-qX0jFVAivPx6-3e8S4rQefEwaJvm7Q/viewform",
-"https://facebook.com/thomas.p.sullivan.94",
-"https://instagram.com/sullivanforstateassembly",
-"https://linkedin.com/company/triple-crown-strategies-llc",
-"https://secure.winred.com/sullivan-for-state-assembly/donate-today",
-"https://sullivanforstateassembly.com/",
-"https://sullivanforstateassembly.com/detailed-issues",
-"https://sullivanforstateassembly.com/endorsements",
-"https://sullivanforstateassembly.com/privacy-policy",
-"https://sullivanforstateassembly.com/terms-and-conditions",
-"https://wix.com/",
-"https://x.com/Sully4Assembly"
+{
+"text": "About",
+"href": "https://www.sullivanforstateassembly.com#about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/sullivan-for-state-assembly/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sullivanforstateassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sullivanforstateassembly.com#get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.sullivanforstateassembly.com/detailed-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.sullivanforstateassembly.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.sullivanforstateassembly.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfXaumt8U9OQIh6uI8-qX0jFVAivPx6-3e8S4rQefEwaJvm7Q/viewform"
+},
+{
+"text": "Website Managed by Tripple Crown Strategies LLC",
+"href": "https://www.linkedin.com/company/triple-crown-strategies-llc"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com/"
+},
+{
+"text": "[image: 1_edited.png]",
+"href": "https://www.sullivanforstateassembly.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/thomas.p.sullivan.94/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sullivanforstateassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Sully4Assembly"
+}
 ]

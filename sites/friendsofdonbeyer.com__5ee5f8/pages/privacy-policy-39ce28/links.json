@@ -1,30 +1,126 @@
 [
-"http://networkadvertising.org/managing/opt_out.asp",
-"https://facebook.com/FriendsofDonBeyer",
-"https://friendsofdonbeyer.com/",
-"https://friendsofdonbeyer.com/endorsements",
-"https://friendsofdonbeyer.com/meetdon",
-"https://friendsofdonbeyer.com/news",
-"https://friendsofdonbeyer.com/priorities/economy",
-"https://friendsofdonbeyer.com/priorities/education",
-"https://friendsofdonbeyer.com/priorities/energyandenvironment",
-"https://friendsofdonbeyer.com/priorities/federalworkforce",
-"https://friendsofdonbeyer.com/priorities/foreignpolicy",
-"https://friendsofdonbeyer.com/priorities/gunviolenceprevention",
-"https://friendsofdonbeyer.com/priorities/healthcare",
-"https://friendsofdonbeyer.com/priorities/housing",
-"https://friendsofdonbeyer.com/priorities/immigration",
-"https://friendsofdonbeyer.com/priorities/oversightoftheadministration",
-"https://friendsofdonbeyer.com/priorities/racialjustice",
-"https://friendsofdonbeyer.com/priorities/transportation",
-"https://friendsofdonbeyer.com/priorities/veterans",
-"https://friendsofdonbeyer.com/priorities/womensrights",
-"https://friendsofdonbeyer.com/privacy-policy",
-"https://friendsofdonbeyer.com/votinginformation",
-"https://instagram.com/donbeyerva",
-"https://secure.actblue.com/contribute/page/donb",
-"https://secure.ngpvan.com/wY0IqdS4CUix94ZP6PJXbg2",
-"https://x.com/DonBeyerVA",
-"https://x.com/donbeyerva",
-"https://youtube.com/channel/UCofteRAicAfU8FSfvUZnjnQ"
+{
+"text": "@friendsofdonbeyer.com",
+"href": "mailto:info@friendsofdonbeyer.com"
+},
+{
+"text": "An Equitable Economy",
+"href": "https://www.friendsofdonbeyer.com/priorities/economy"
+},
+{
+"text": "Contact",
+"href": "mailto:don@friendsofdonbeyer.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/contribute/page/donb"
+},
+{
+"text": "Education",
+"href": "https://www.friendsofdonbeyer.com/priorities/education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.friendsofdonbeyer.com/endorsements"
+},
+{
+"text": "Energy & The Environment",
+"href": "https://www.friendsofdonbeyer.com/priorities/energyandenvironment"
+},
+{
+"text": "Federal Workforce",
+"href": "https://www.friendsofdonbeyer.com/priorities/federalworkforce"
+},
+{
+"text": "Foreign Policy",
+"href": "https://www.friendsofdonbeyer.com/priorities/foreignpolicy"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://secure.ngpvan.com/wY0IqdS4CUix94ZP6PJXbg2"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://www.friendsofdonbeyer.com/priorities/gunviolenceprevention"
+},
+{
+"text": "Healthcare",
+"href": "https://www.friendsofdonbeyer.com/priorities/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.friendsofdonbeyer.com"
+},
+{
+"text": "Housing",
+"href": "https://www.friendsofdonbeyer.com/priorities/housing"
+},
+{
+"text": "Immigration",
+"href": "https://www.friendsofdonbeyer.com/priorities/immigration"
+},
+{
+"text": "Meet Don",
+"href": "https://www.friendsofdonbeyer.com/meetdon"
+},
+{
+"text": "Network Advertising Initiative opt out page.",
+"href": "http://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "News",
+"href": "https://www.friendsofdonbeyer.com/news"
+},
+{
+"text": "Oversight of the Administration",
+"href": "https://www.friendsofdonbeyer.com/priorities/oversightoftheadministration"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.friendsofdonbeyer.com/privacy-policy"
+},
+{
+"text": "Racial Justice",
+"href": "https://www.friendsofdonbeyer.com/priorities/racialjustice"
+},
+{
+"text": "Transportation",
+"href": "https://www.friendsofdonbeyer.com/priorities/transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.friendsofdonbeyer.com/priorities/veterans"
+},
+{
+"text": "Voting Information",
+"href": "https://www.friendsofdonbeyer.com/votinginformation"
+},
+{
+"text": "Women's Rights",
+"href": "https://www.friendsofdonbeyer.com/priorities/womensrights"
+},
+{
+"text": "[image: DonBeyer_4c_Logo-removebg-preview.png]",
+"href": "https://www.friendsofdonbeyer.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/FriendsofDonBeyer/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/donbeyerva/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/DonBeyerVA"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/donbeyerva"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/channel/UCofteRAicAfU8FSfvUZnjnQ"
+}
 ]

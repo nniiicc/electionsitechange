@@ -1,15 +1,6 @@
-Statehouse Office:
-Room 149-S
-State Capitol Building
-300 SW 10th Street
-Topeka, KS 66612
-Phone: 785-296-7384
-jim.minnix@house.ks.gov
-Home:
-1213 Jackson
-Scott City, Kansas 67871
-Phone: 620-874-4498
-jimminnix@icloud.com
-Please don’t hesitate to contact me with your questions or to visit about my campaign.
+↓ Home Mobile Menu ↓ Skip to primary content Skip to secondary content Home About Jim News Jim in the News Jim’s Newsletters Legislature Jim in the Legislature Legislative Highlights Policy Resources Resource Links House District 118 Contact Donate Jim Minnix for Kansas House Kansas House District 118 Contact Jim Statehouse Office: Room 149-S State Capitol Building 300 SW 10th Street Topeka, KS 66612 Phone: 785-296-7384 jim.minnix@house.ks.gov Home: 1213 Jackson Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Please don’t hesitate to contact me with your questions or to visit about my campaign.
 You can reach me by phone, email or by completing the form below.
 I look forward to hearing from you.
+Your Name: Your Phone: Your Email: Enter Your Message Below: Please add me to your mailing list Please prove you are human by selecting the house .
+Jim’s Mailing List Subscribe to Jim’s mailing list .
+Minnix for Kansas House Kansas Legislature About the Legislature The Kansas House Find Your Legislator Kansas Legislative Guide Contact Jim 8101 W Road 40 Scott City, Kansas 67871 Phone: 620-874-4498 jimminnix@icloud.com Paid for by Minnix for Kansas House | Perry Nowak, Treasurer ↑

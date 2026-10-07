@@ -1,22 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://fudge4oregon.org/",
-"https://fudge4oregon.org/contact",
-"https://fudge4oregon.org/contribute",
-"https://fudge4oregon.org/contribute?amount=10",
-"https://fudge4oregon.org/contribute?amount=100",
-"https://fudge4oregon.org/contribute?amount=25",
-"https://fudge4oregon.org/contribute?amount=50",
-"https://fudge4oregon.org/district-info-hd-20",
-"https://fudge4oregon.org/events",
-"https://fudge4oregon.org/home",
-"https://fudge4oregon.org/issues",
-"https://fudge4oregon.org/meet_andrew",
-"https://fudge4oregon.org/news",
-"https://fudge4oregon.org/photos",
-"https://fudge4oregon.org/privacy-policy",
-"https://fudge4oregon.org/view-endorsements",
-"https://fudge4oregon.org/volunteer",
-"https://fudge4oregon.org/vote",
-"https://fudge4oregon.org/yard-sign"
+{
+"text": "$#",
+"href": "https://www.fudge4oregon.org/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://www.fudge4oregon.org/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://www.fudge4oregon.org/contribute?amount=25"
+},
+{
+"text": "$#",
+"href": "https://www.fudge4oregon.org/contribute?amount=50"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.fudge4oregon.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.fudge4oregon.org/contribute"
+},
+{
+"text": "District Info (HD 20)",
+"href": "https://www.fudge4oregon.org/district-info-hd-20"
+},
+{
+"text": "Endorsements",
+"href": "https://www.fudge4oregon.org/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.fudge4oregon.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.fudge4oregon.org/home"
+},
+{
+"text": "Issues",
+"href": "https://www.fudge4oregon.org/issues"
+},
+{
+"text": "Meet Andrew",
+"href": "https://www.fudge4oregon.org/meet_andrew"
+},
+{
+"text": "News",
+"href": "https://www.fudge4oregon.org/news"
+},
+{
+"text": "Other",
+"href": "https://www.fudge4oregon.org/contribute"
+},
+{
+"text": "Photos",
+"href": "https://www.fudge4oregon.org/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fudge4oregon.org/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.fudge4oregon.org/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.fudge4oregon.org/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.fudge4oregon.org/yard-sign"
+},
+{
+"text": "[image: Andrew Fudge]",
+"href": "https://www.fudge4oregon.org/"
+}
 ]

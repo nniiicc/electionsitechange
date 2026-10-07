@@ -1,53 +1,21 @@
-About Susan Lynn
-PUBLIC OFFICETennessee State Representative for District 57 serving Wilson County
-TERMS OF SERVICE103rd, 104th, 105th, 106th, 108th, 109th, 110th, 111th, 112th, 113th and 114th General Assemblies.
-LEGISLATIVE COMMITTEES
-Commerce Committee
-Health Committee
-Chairman Finance Ways and Means Committee
-Chairman, Consumer & Human Resources Subcommittee.House Finance, Ways and Means Committee.House Ethics Committee.Joint Fiscal Review Committee.State Workforce Development Board.Greater Nashville Regional Council.Launch Tennessee Board of Directors
-PROFESSIONAL CAREER
-Controller at SRG Assets, Mt.
+Home Links BIO About Susan Lynn PUBLIC OFFICETennessee State Representative for District 57 serving Wilson County TERMS OF SERVICE103rd, 104th, 105th, 106th, 108th, 109th, 110th, 111th, 112th, 113th and 114th General Assemblies.
+LEGISLATIVE COMMITTEES Commerce Committee Health Committee Chairman Finance Ways and Means Committee Chairman, Consumer & Human Resources Subcommittee.House Finance, Ways and Means Committee.House Ethics Committee.Joint Fiscal Review Committee.State Workforce Development Board.Greater Nashville Regional Council.Launch Tennessee Board of Directors PROFESSIONAL CAREER Controller at SRG Assets, Mt.
 Juliet - Financial Analyst Consultant for the largest accounting firm in the United States - VACOFe Simplicity Creative Group - Regulatory Compliance Manager.Fe Small Business Consultant for QuickBooks.Fe Lee Harrison Companies.Fe The Colony Hotel, Palm Beach.Fe Nicklaus Gold Equipment.Fe Scientific Utility Products Corporation.
 EDUCATIONB.S.
 Economics / History, Cum Laude.B.S.
 Accounting (2018).Financial Management Certification.Six Sigma Certification.Lean Certification.Continuous Quality Improvement Certification.
-LOCAL MEMBERSHIPS & INVOLVEMENT
-Mt.
+LOCAL MEMBERSHIPS & INVOLVEMENT Mt.
 Juliet Noon Rotary.Mt.
 Juliet Chamber of Commerce., President, Mt.
 Juliet Republican Women.Wilson County Republican Party.Wilson County Young Republicans.American Legion Ladies Auxiliary.Kids Battle Diabetes.First Baptist Church of Mt.
 Juliet.
-2026 ENDORSEMENTS
-Tennessee Right to Life "A" Rated
-National Federation of Independent Business
-Tennessee Professional Fire Fighters Assn
-Tennessee Realtors Association
-Wilson County Police Benevolent Association
-National Rifle Association A rated
-Stand for Children
-AWARDS
-2006 Friend of Home Schooling Award
-2007 NFIB Champion of Small Business
-2008 NFIB Guardian of Small Business
-2006 Legislator of the year, GNRC
-2006 World Trade Council Essay Award
-2006 Rush Limbaugh Feminazi Resistance Ribbon, The Tennessee Journal
-2010 Eagle Forum Legislator of the year
-2014 TDDA Legislator of the Year
-2016 Legislator of the year, GNRC
-2018 Legislator of the year, GNRC
-2018 Public Safety Advocate, TDAGC
-ENDORSEMENT HISTORY
-* Tennessee Right to Life did not make endorsements but issued a letter of affirmation.
-PAST LEGISLATIVE COMMITTEES
-Chairman, Consumer & Human Resources Subcommittee 108th 109th, 110th.
+2026 ENDORSEMENTS Tennessee Right to Life "A" Rated National Federation of Independent Business Tennessee Professional Fire Fighters Assn Tennessee Realtors Association Wilson County Police Benevolent Association National Rifle Association A rated Stand for Children AWARDS 2006 Friend of Home Schooling Award 2007 NFIB Champion of Small Business 2008 NFIB Guardian of Small Business 2006 Legislator of the year, GNRC 2006 World Trade Council Essay Award 2006 Rush Limbaugh Feminazi Resistance Ribbon, The Tennessee Journal 2010 Eagle Forum Legislator of the year 2014 TDDA Legislator of the Year 2016 Legislator of the year, GNRC 2018 Legislator of the year, GNRC 2018 Public Safety Advocate, TDAGC ENDORSEMENT HISTORY Tennessee Right to Life2018, 2016, 2014, 2012, 2010*, 2008, 2006, 2004, 2002National Federation of Independent Business2018, 2016, 2014, 2012, 2010, 2008, 2006, 2004National Rifle Association A & endorsed2016, 2014, 2012, 2010, 2008, 2006, 2004, 2002Tennessee Chamber of Commerce2008, 2006, 2004Fraternal Order of Police, Lodge 832008, 2006, 2004International Association of Fire Fighters, Local 4144 - 2016, 2014, 2012, 2008TDDA Legislator of the Year - 2014GNRC Legislator of the Year - 2016Tennessee Voters for Animal Protection - 2016Wilson County TEA Party - 2016Mount Juliet Republican Women - 2016Wilson County Republican Party - 2016GNRC Legislator of the Year - 2018Tennessee District Attorney General Conference, Public Safety Advocate 2018 * Tennessee Right to Life did not make endorsements but issued a letter of affirmation.
+PAST LEGISLATIVE COMMITTEES Chairman, Consumer & Human Resources Subcommittee 108th 109th, 110th.
 House Finance, Ways and Means Committee - 109th, 110th.
 House Ethics Committee - 110th.
 Joint Fiscal Review Committee - 109th, 110th.
 State Workforce Development Board - 109th, 110th.
-Regional Greater Nashville Regional Council - 110th.
-Launch Tennessee Board of Directors - 110th.
+Regional Greater Nashville Regional Council - 110th. ​Launch Tennessee Board of Directors - 110th.
 House Insurance and Banking Committee -108th.
 Governor's Education Policy Summit -109th.
 Chairman, House Government Operations Committee 106th.
@@ -56,12 +24,12 @@ House Calendar and Rules Committee - 106th..
 House Commerce Committee 103rd - 106th.
 Small Business Subcommittee 103rd - 106th.
 Budget & Tax Reduction Task Force 103rd - 106th.
-Ethics, Open Government & Election Law Task Force 103rd - 106th.
-susan lynn's story
-A Focus on Freedom and Service
+Ethics, Open Government & Election Law Task Force 103rd - 106th. susan lynn's story A Focus on Freedom and Service Lynn has earned a reputation for being a conservative champion of limited government, states’ rights, capitalism, and our constitutional freedoms.
+She does not consider herself a politician but a public servant first and foremost (read My Mission here).
 Lynn is firmly and unshakably against a state income tax, a loyal supporter of Second Amendment Rights, and firmly committed to upholding the sanctity of life.
 She has consistently supported education in our state and brought many much needed TDOT road projects to our fast-growing district including Mt.
-Juliet Road and Rt. 109.
+Juliet Road and Rt.
+109.
 Lynn served the 57th district from 2002-2010 in the State House.
 In 2009, after the incumbent senator announced her retirement, Susan declared her candidacy for the 17th district State Senate.
 Ten ten months later when the incumbent reversed her decision not to run again, Lynn found herself in an unfortunate primary that she did not want.
@@ -102,6 +70,5 @@ Their daughter is a homemaker and her husband works for Publix Supermarkets - th
 A challenge for her daughter's family is that their eldest son was diagnosed with Juvenile Diabetes (Type 1) at just one year old.
 Rep.
 Lynn and her family work hard to support funding for a cure for Type 1 diabetes.
-###
-NOTE: The American Legislative Exchange Council (ALEC) is the nation's largest nonpartisan, individual membership organization of state legislators, with over 2,000 legislator members from all fifty states, and 85 former members serving in the U.S.
-Congress.
+### NOTE: The American Legislative Exchange Council (ALEC) is the nation's largest nonpartisan, individual membership organization of state legislators, with over 2,000 legislator members from all fifty states, and 85 former members serving in the U.S.
+Congress. friends of susan lynn support this website Capitol office: 425 5th Avenue North, Suite 426, Cordell Hull Bldg., Nashville, TN 37243 | (615) 741-7462 | rep.susan.lynn@capitol.tn.gov

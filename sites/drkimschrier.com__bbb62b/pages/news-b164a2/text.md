@@ -1,4 +1,32 @@
-The Everett Herald: Editorial: Schrier has built a record of success for 8th
-With the Nov. 8 election, Snohomish County welcomes a new congressional district for communities in the county’s east.
+Skip to main content Kim Schrier Donate Menu About Kim Endorsements Accomplishments Issues Economy + Trade Education Environment Gun Safety Healthcare Immigration Veterans Women’s Health Public Safety News Volunteer News The Everett Herald: Editorial: Schrier has built a record of success for 8th With the Nov.
+8 election, Snohomish County welcomes a new congressional district for communities in the county’s east.
 Redistricting redrew the 8th Congressional District’s boundaries, starting ...
-Read more
+Read more SHARE: Tacoma News Tribune: The News Tribune endorses: Our picks for US House and Senate races in WA KIM SCHRIER FOR U.S.
+HOUSE OF REPRESENTATIVES IN WA’S 8TH CONGRESSIONAL DISTRICT During the primary The News Tribune Editorial Board chose the two candidates we believed were ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Definition” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Definition,” highlighting how Matt Larkin is dangerous and out of step ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Walk” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Walk,” highlighting her experience on ride-alongs with police officers and her ...
+Read more SHARE: Seattle Times: With control of Congress at stake, Schrier is a must-win in 8th District Sep.
+30, 2022 – By The Seattle Times editorial board Washington’s 8th Congressional District is a crucial seat in the battle over control of Congress. ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Police” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Police,” highlighting her bipartisan efforts to secure funding for local police ...
+Read more SHARE: Dr.
+Kim Schrier Accepts Debate for Washington’s 8th District WA State Debate Coalition to host WA-08 debate on October 28 at Central Washington University ISSAQUAH, WA – Today, Rep.
+Kim Schrier announced she has ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Hay” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Hay”.
+As the only member of Congress from the Pacific Northwest ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Words” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Words,” highlighting Matt Larkin’s extreme opposition to a woman’s right to ...
+Read more SHARE: Dr.
+Kim Schrier For Congress Releases New Ad “Squeeze” ISSAQUAH, WA – Dr.
+Kim Schrier for Congress has released a new TV ad, “Squeeze,” highlighting what Rep.
+Schrier has done – and will continue ...
+Read more SHARE: 1 2 3 4 5 6 7 8 9 10 11 12 13 Next » About Kim Issues News Media Volunteer Donate Facebook Twitter YouTube PO box 2728 Issaquah WA 98027 ‪(425) 477-9861‬ [email protected] Privacy Policy | Terms of Service Paid for by Dr.
+Kim Schrier for Congress

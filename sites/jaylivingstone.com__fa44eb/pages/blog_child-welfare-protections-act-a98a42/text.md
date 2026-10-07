@@ -1,20 +1,18 @@
-Child Welfare Protections Act
-On October 22, 2025, the Massachusetts House of Representatives passed a bill that I filed, H.4644: An Act enhancing child welfare protections which strengthens oversight, transparency, and accountability within the Commonwealth’s child welfare system.
+0 Skip to Content About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Donate Open Menu Close Menu About Legislative Agenda 8th Suffolk District Endorsements Constituent Resource Center How Can Jay Help?
+Get Involved Blog English Back Donate Child Welfare Protections Act Nov 24 Written By Jay Livingstone On October 22, 2025, the Massachusetts House of Representatives passed a bill that I filed, H.4644: An Act enhancing child welfare protections which strengthens oversight, transparency, and accountability within the Commonwealth’s child welfare system.
 A wide range of provisions were included in this important legislation and I’ve included a breakdown of some of the largest provisions below.
-The House press release can be found here.
-Modernizes the Department of Children and Families’ (DCF) Statutory Reporting
-This legislation makes many improved reporting requirements, including an expansion of the statutory reporting by DCF to include disability and intersectional demographics, breakdowns of 51A reports by reporter role, ADA accommodation and complaint metrics, and refined placement and permanency measures.
+The House press release can be found here .
+I spoke on the House floor urging my colleagues to vote in favor of H.4644. [Photo Credit: malegislature.gov] Modernizes the Department of Children and Families’ (DCF) Statutory Reporting This legislation makes many improved reporting requirements, including an expansion of the statutory reporting by DCF to include disability and intersectional demographics, breakdowns of 51A reports by reporter role, ADA accommodation and complaint metrics, and refined placement and permanency measures.
 It also adds new reporting of youth outcomes as they age out of DCF’s care, with behavioral health boarding, individualized education program counts, attendance, and graduation rates.
-Clarifies the Independence of the Office of the Child Advocate (OCA)
-The bill passed also clarifies the role of the Office of the Child Advocate (OCA) as an independent state agency.
+Clarifies the Independence of the Office of the Child Advocate (OCA) The bill passed also clarifies the role of the Office of the Child Advocate (OCA) as an independent state agency.
 It further expends the OCA’s authority to examine disproportionality, partner with agencies while safeguarding oversight, maintain a public mandated reporter website, and conduct systemwide reviews of DCF.
-Improves Educational Stability for Children in Care
-The bill creates a DCF Education Unit, subject to appropriation, to be led by an Education Director and staffed with Education Specialists tasked with academic monitoring, support, and coordination with school districts.
+Improves Educational Stability for Children in Care The bill creates a DCF Education Unit, subject to appropriation, to be led by an Education Director and staffed with Education Specialists tasked with academic monitoring, support, and coordination with school districts.
 It also requires DCF and the Department of Elementary and Secondary Education (DESE) to establish clear enrollment timelines and record transfer standards for children in DCF custody who move schools.
-Updates the State’s Child Fatality Review Process
-In addition, the bill updates the Child Fatality Review System by transferring the leadership to a co-chairmanship of the OCA and the Department of Public Health (DPH).
+Updates the State’s Child Fatality Review Process In addition, the bill updates the Child Fatality Review System by transferring the leadership to a co-chairmanship of the OCA and the Department of Public Health (DPH).
 It further updates the membership to include the Department of Early Education & Care (EEC) and codifies the structure of local review teams.
-Additional Notifications and Reporting
-Lastly, the bill improves timely notifications to children’s counsel following placement changes, hospitalizations, 51A reports or school disciplinary events.
+Additional Notifications and Reporting Lastly, the bill improves timely notifications to children’s counsel following placement changes, hospitalizations, 51A reports or school disciplinary events.
 It also requires reporting on children who remain in psychiatric care beyond medical necessity, including length of stay and licensure/training requirements for DCF social workers.
 Having passed the House 136-23, the bill now goes back to the State Senate for further consideration.
+Jay Livingstone Previous Previous Archaic Laws Bill Summary Next Next Resources for the Federal Shutdown and Supplemental Nutrition Assistance Program (SNAP) Cuts Blog Contact Donate State Representative Jay Livingstone 8th Suffolk District, MA

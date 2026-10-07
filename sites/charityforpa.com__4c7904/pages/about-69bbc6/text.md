@@ -1,5 +1,4 @@
-Meet Charity Grimm Krupa
-Charity Grimm Krupa was born into a military family with deep generational roots in the Smithfield area.
+Home About Issues Contact Volunteer Donate Get in touch Charity Grimm Krupa Charity Grimm Krupa Home About Issues Contact Volunteer DONATE Meet Charity Grimm Krupa Charity Grimm Krupa was born into a military family with deep generational roots in the Smithfield area.
 While she began her life as an Army baby near Fort Bragg, North Carolina, Charity grew up in a farming family right here in our community.
 Her mom and dad were first-generation college graduates in their families.
 Her mother is a nurse and her father, who served in the Army Special Forces, first became a schoolteacher and then an attorney.
@@ -26,3 +25,8 @@ Together, they are the proud parents of three children – the oldest just start
 They are active members of the Church of Christ in Point Marion.
 Charity is a Penn State graduate who previously served as an Assistant Fayette County Public Defender.
 She is a life member of the National Rifle Association.
+CHARITY IS ENDORSED BY THE PENNSYLVANIA PRO-LIFE FEDERATION THE NATIONAL RIFLE ASSOCIATION FIREARM OWNERS AGAINST CRIME Follow Charity Grimm Krupa Sign Up For Updates newsletter Name: Email: Thank you for contacting us.
+We will get back to you as soon as possible.
+Oops, there was an error sending your message.
+Please try again later.
+Paid For By Charity Grimm Krupa Privacy Policy Powered by Ryvall Share by:

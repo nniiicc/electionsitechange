@@ -1,5 +1,1 @@
-Home // Facebook // Instagram // Donate // Connect
-Bingham for State House 31
-6454 Highway 53, Braselton, GA 30517
-https://binghamforstatehouse.com
-[email protected]
+Home Connect Values Issues About Chad HD31 Donate Donate Home // Facebook // Instagram // Donate // Connect Bingham for State House 31 6454 Highway 53, Braselton, GA 30517 https://binghamforstatehouse.com [email protected] PRIVACY POLICY

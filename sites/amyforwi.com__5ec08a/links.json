@@ -1,22 +1,90 @@
 [
-"https://amyforwi.com/",
-"https://amyforwi.com/cart",
-"https://amyforwi.com/endorsements",
-"https://amyforwi.com/events",
-"https://amyforwi.com/meet-amy",
-"https://amyforwi.com/sign",
-"https://amyforwi.com/volunteer",
-"https://amyforwi.com/why",
-"https://facebook.com/amyforwi",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=a&district=13",
-"https://myvote.wi.gov/en-us",
-"https://robynforwi.com/",
-"https://secure.actblue.com/donate/amy-zimmerman",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=10&express_lane=true",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=100&express_lane=true",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=25&express_lane=true",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=250&express_lane=true",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=5&express_lane=true",
-"https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=50&express_lane=true"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=10&express_lane=true"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=100&express_lane=true"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=25&express_lane=true"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=250&express_lane=true"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=5&express_lane=true"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250&amount=50&express_lane=true"
+},
+{
+"text": "0",
+"href": "https://www.amyforwi.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/amy-zimmerman"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.actblue.com/donate/amy-zimmerman"
+},
+{
+"text": "District Map",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=a&district=13"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amyforwi.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.amyforwi.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.amyforwi.com/"
+},
+{
+"text": "Join The Team",
+"href": "https://www.amyforwi.com/volunteer"
+},
+{
+"text": "Meet Amy",
+"href": "https://www.amyforwi.com/meet-amy"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/amy-zimmerman?amounts=5%2C10%2C25%2C50%2C100%2C250"
+},
+{
+"text": "Register to Vote",
+"href": "https://myvote.wi.gov/en-us/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.amyforwi.com/sign"
+},
+{
+"text": "Robyn Vining",
+"href": "https://www.robynforwi.com/"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.amyforwi.com/why"
+},
+{
+"text": "[image: Amy Zimmerman for Assembly]",
+"href": "https://www.amyforwi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/amyforwi"
+}
 ]

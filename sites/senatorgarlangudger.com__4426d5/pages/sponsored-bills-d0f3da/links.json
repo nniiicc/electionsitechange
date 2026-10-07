@@ -1,24 +1,94 @@
 [
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB25-reenr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB253-enr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB297-enr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SJR92-enr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB12-enr.pdf",
-"https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SJR4-enr.pdf",
-"https://senatorgarlangudger.com/",
-"https://senatorgarlangudger.com/_files/ugd/f41eeb_0d2dc896698e4d6dbe1e8b29548093a3.pdf",
-"https://senatorgarlangudger.com/_files/ugd/f41eeb_ad2a1c6990a04f36a703722d39f2722c.pdf",
-"https://senatorgarlangudger.com/about",
-"https://senatorgarlangudger.com/contact-8",
-"https://senatorgarlangudger.com/credentials",
-"https://senatorgarlangudger.com/cullman",
-"https://senatorgarlangudger.com/district-4-news",
-"https://senatorgarlangudger.com/funding-improvements",
-"https://senatorgarlangudger.com/marion",
-"https://senatorgarlangudger.com/media",
-"https://senatorgarlangudger.com/meet-your-senator",
-"https://senatorgarlangudger.com/privacy-policy",
-"https://senatorgarlangudger.com/sponsored-bills",
-"https://senatorgarlangudger.com/terms-and-conditions",
-"https://senatorgarlangudger.com/winston"
+{
+"text": "About",
+"href": "https://www.senatorgarlangudger.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.senatorgarlangudger.com/contact-8"
+},
+{
+"text": "Credentials",
+"href": "https://www.senatorgarlangudger.com/credentials"
+},
+{
+"text": "Cullman",
+"href": "https://www.senatorgarlangudger.com/cullman"
+},
+{
+"text": "District 4 News",
+"href": "https://www.senatorgarlangudger.com/district-4-news"
+},
+{
+"text": "Funding & Improvements",
+"href": "https://www.senatorgarlangudger.com/funding-improvements"
+},
+{
+"text": "Garlan.Gudger@alsenate.gov",
+"href": "mailto:Garlan.Gudger@alsenate.gov"
+},
+{
+"text": "Home",
+"href": "https://www.senatorgarlangudger.com"
+},
+{
+"text": "LEARN MORE",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB25-reenr.pdf"
+},
+{
+"text": "LEARN MORE",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB253-enr.pdf"
+},
+{
+"text": "LEARN MORE",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB297-enr.pdf"
+},
+{
+"text": "LEARN MORE",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SJR92-enr.pdf"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.senatorgarlangudger.com/_files/ugd/f41eeb_0d2dc896698e4d6dbe1e8b29548093a3.pdf"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.senatorgarlangudger.com/_files/ugd/f41eeb_ad2a1c6990a04f36a703722d39f2722c.pdf"
+},
+{
+"text": "Marion",
+"href": "https://www.senatorgarlangudger.com/marion"
+},
+{
+"text": "Media",
+"href": "https://www.senatorgarlangudger.com/media"
+},
+{
+"text": "Meet Your Senator",
+"href": "https://www.senatorgarlangudger.com/meet-your-senator"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.senatorgarlangudger.com/privacy-policy"
+},
+{
+"text": "Sponsored Bills",
+"href": "https://www.senatorgarlangudger.com/sponsored-bills"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.senatorgarlangudger.com/terms-and-conditions"
+},
+{
+"text": "Winston",
+"href": "https://www.senatorgarlangudger.com/winston"
+},
+{
+"text": "[no text]",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB12-enr.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SJR4-enr.pdf"
+}
 ]

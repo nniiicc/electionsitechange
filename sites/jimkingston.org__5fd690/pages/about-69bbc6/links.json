@@ -1,15 +1,62 @@
 [
-"http://jimkingston.org/vote",
-"https://drive.google.com/file/d/1pZaaAKptcwCg9Ts-RpWV6nlhyveRNxSe/view?usp=sharing",
-"https://facebook.com/JimKingstonGA",
-"https://flickr.com/photos/204248828@N07",
-"https://instagram.com/jimkingstonga",
-"https://jimkingston.org/",
-"https://jimkingston.org/about",
-"https://jimkingston.org/endorsements",
-"https://jimkingston.org/issues",
-"https://jimkingston.org/privacy",
-"https://jimkingston.org/terms",
-"https://secure.anedot.com/friends-of-jim-kingston/donate",
-"https://twitter.com/JimKingstonGA"
+{
+"text": "About",
+"href": "https://www.jimkingston.org/about"
+},
+{
+"text": "Donate Today →",
+"href": "https://secure.anedot.com/friends-of-jim-kingston/donate"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.anedot.com/friends-of-jim-kingston/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jimkingston.org/endorsements"
+},
+{
+"text": "Find Your Voting Location",
+"href": "http://jimkingston.org/vote"
+},
+{
+"text": "Home",
+"href": "https://www.jimkingston.org/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.flickr.com/photos/204248828@N07/"
+},
+{
+"text": "Platform",
+"href": "https://www.jimkingston.org/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jimkingston.org/privacy"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.jimkingston.org/terms"
+},
+{
+"text": "Video Footage",
+"href": "https://drive.google.com/file/d/1pZaaAKptcwCg9Ts-RpWV6nlhyveRNxSe/view?usp=sharing"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JimKingstonGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JimKingstonGA/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jimkingstonga/"
+},
+{
+"text": "chris@jimkingston.org",
+"href": "mailto:chris@jimkingston.org"
+}
 ]

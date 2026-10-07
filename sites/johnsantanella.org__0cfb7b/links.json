@@ -1,5 +1,14 @@
 [
-"http://johnsantanella.org/privacy",
-"https://enfield-ct.gov/DocumentCenter/View/26753/Notice-of-Special-Primary-Democratic",
-"https://johnsantanella.org/"
+{
+"text": "Home",
+"href": "https://www.johnsantanella.org"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.enfield-ct.gov/DocumentCenter/View/26753/Notice-of-Special-Primary-Democratic"
+},
+{
+"text": "View our privacy policy here",
+"href": "http://johnsantanella.org/privacy"
+}
 ]

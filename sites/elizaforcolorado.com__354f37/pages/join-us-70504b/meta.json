@@ -1,7 +1,11 @@
 {
  "description": "Join Us",
  "final_url": "https://www.elizaforcolorado.com/join-us/",
- "paid_for_by": null,
+ "fingerprint": "03c79e49e12f07c288d0f8e785f5824369b238d8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Join Us | Eliza Hamrick for Colorado",
- "years_mentioned": []
+ "years_mentioned": [
+  "2022"
+ ]
 }

@@ -1,6 +1,22 @@
 [
-"https://secure.actblue.com/donate/tim-carpenter-3",
-"https://votetimcarpenter.com/",
-"https://votetimcarpenter.com/about-tim",
-"https://votetimcarpenter.com/general-4"
+{
+"text": "About Tim",
+"href": "https://www.votetimcarpenter.com/about-tim"
+},
+{
+"text": "Contribute Today",
+"href": "https://secure.actblue.com/donate/tim-carpenter-3"
+},
+{
+"text": "Home",
+"href": "https://www.votetimcarpenter.com"
+},
+{
+"text": "Info for Voting",
+"href": "https://www.votetimcarpenter.com/general-4"
+},
+{
+"text": "[image: Vote Tim Carpenter Logo.png]",
+"href": "https://www.votetimcarpenter.com"
+}
 ]

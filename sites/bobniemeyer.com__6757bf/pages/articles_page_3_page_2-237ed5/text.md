@@ -1,23 +1,14 @@
-- Make your Representatives Great Again Fellow Oregonians: We-The-People need Representatives to Represent again!
-Abraham Lincoln on November 19, 1863 said in the conclusion of the Gettysburg Address; “we here highly resolve these dead shall not have died in vain; that the nation, under God, shall…
-- Safety for the People of Tigard “No-One should have to move away to be safe” Safety requires that enough Police be available to protect your property.
-Property includes what you may own, the money you may have, the food you may have purchased for your dinner,…
-- Protect the People from Government The theme of “Protect the People from the Government” has been a success.
-When asked “Why are you running?”, simply pointing this out as a goal, if not the reason for running, has had one important reaction: “Protect the People…
-- 30 Year Tigard Resident and Business Man Runs for the 25th District of the Oregon House of Representatives Tigard-Metzger-Beaverton “Half the job of a Legislator is to protect the People from the Government” The safety of Tigard and protecting our economic future are my highest priorities.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer Articles Make your Representatives Great Again Fellow Oregonians: We-The-People need Representatives to Represent again!
+Abraham Lincoln on November 19, 1863 said in the conclusion of the Gettysburg Address; “we here highly resolve these dead shall not have died in vain; that the nation, under God, shall… Read More… August 27, 2025 Safety for the People of Tigard “No-One should have to move away to be safe” Safety requires that enough Police be available to protect your property.
+Property includes what you may own, the money you may have, the food you may have purchased for your dinner,… Read More… July 10, 2024 Protect the People from Government The theme of “Protect the People from the Government” has been a success.
+When asked “Why are you running?”, simply pointing this out as a goal, if not the reason for running, has had one important reaction: “Protect the People… Read More… July 10, 2024 30 Year Tigard Resident and Business Man Runs for the 25th District of the Oregon House of Representatives Tigard-Metzger-Beaverton “Half the job of a Legislator is to protect the People from the Government” The safety of Tigard and protecting our economic future are my highest priorities.
 Does Tigard want a “Portland Style” way of life?
-I believe that the…
-- Electoral College of the Counties Our Founding Fathers created a system that would prevent small, highly populated areas of the United States of America from turning themselves into something very much like King George and the Government of England in the 1700’s.
-King George and…
-- Dedicated Tax Revenue System Oregon should be limited to three types or sources of revenues for spending on government services.
+I believe that the… Read More… July 10, 2024 Electoral College of the Counties Our Founding Fathers created a system that would prevent small, highly populated areas of the United States of America from turning themselves into something very much like King George and the Government of England in the 1700’s.
+King George and… Read More… July 10, 2024 Dedicated Tax Revenue System Oregon should be limited to three types or sources of revenues for spending on government services.
 Oregon should be limited to two types of spending.
 What is “Dedicated funds”?
-Simply put, any service that the government is responsible for supplying…
-- Independence Contractors for Oregon We-The-People need “Independence Contractors”!
-Abraham Lincoln said in the conclusion of the Gettysburg Address; “that we here highly resolve these dead shall not have died in vain; that the nation, shall have a new birth of freedom, and that government…
-- We need the Judicial Branch of Government on the People’s side Abraham Lincoln said in the conclusion of the Gettysburg Address; “that we here highly resolve these dead shall not have died in vain; that the nation, shall have a new birth of freedom, and that government of the people by…
-- Stop Unusual and Excessive Taxation Stop Toll Roads; Most People do not know that We already pay for Oregon’s roads at the pump.
-As of January 1, 2024, We will pay 40¢ State and 18¢ Federal tax on each and every gallon put in your…
-- School Choice with Vouchers Public Education in Oregon has been destroyed.
+Simply put, any service that the government is responsible for supplying… Read More… July 10, 2024 Independence Contractors for Oregon We-The-People need “Independence Contractors”!
+Abraham Lincoln said in the conclusion of the Gettysburg Address; “that we here highly resolve these dead shall not have died in vain; that the nation, shall have a new birth of freedom, and that government… Read More… July 10, 2024 We need the Judicial Branch of Government on the People’s side Abraham Lincoln said in the conclusion of the Gettysburg Address; “that we here highly resolve these dead shall not have died in vain; that the nation, shall have a new birth of freedom, and that government of the people by… Read More… July 10, 2024 Stop Unusual and Excessive Taxation Stop Toll Roads; Most People do not know that We already pay for Oregon’s roads at the pump.
+As of January 1, 2024, We will pay 40¢ State and 18¢ Federal tax on each and every gallon put in your… Read More… July 10, 2024 School Choice with Vouchers Public Education in Oregon has been destroyed.
 We must use a Voucher system that will allow Parents to decide the type and quality of education they want for their children.
-Vouchers for School Choice, special needs, and Charter Schools are…
+Vouchers for School Choice, special needs, and Charter Schools are… Read More… July 10, 2024 Previous Page 1 2 3 4 Next Page © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign

@@ -1,9 +1,10 @@
-1.
+Skip to content George McDermott Search for: Search Menu Mission Principles Duty Courts Victims Links Docs Campaign Volunteer Search Campaign Candidate Q&A 1.
 Will you vote blindly with the party or will you vote for what is right?
 Answer: No, I will not vote blindly along party lines.
 If elected my duty and obligation to the citizenry is to vote for legislation that the benefits all citizens of the nation, not just corporate insiders and at the direction of lobbyists looking to undermine our Republican form of government.
 2.
-Where do you stand on violence in our country? 2nd amendment issues?
+Where do you stand on violence in our country?
+2nd amendment issues?
 Answer: I believe 80% of all violence this nation is caused by members of the ABA putting criminals back on the street to line their pockets with gold yet they will not ever represent victims’ judges, court personnel, ABA agents, FBI agents, and Justice Department agents all have their members holding stock in private prisons which they must keep full.
 Not with hardened criminals who buy their way out of prison 80% of the time but with average citizens to make mistakes of judgment which wined them in custody of these private prisons.
 The lawyers and prisons win every time conflict of interest 101 but your political leaders will do nothing about it due to lobbyist.
@@ -11,14 +12,12 @@ The lawyers and prisons win every time conflict of interest 101 but your politic
 Where do you stand on corruption in government?
 Answer: This candidate opposes all forms of corruption and local municipal and state as well as federal government.
 All these agents believe they are above the law and have judicial immunity which they do not because when they sign an oath of office public officials renounce their citizenship and become sovereign’s see United States Code, 2011 Edition Title 28 – JUDICIARY AND JUDICIAL PROCEDURE PART IV – JURISDICTION AND VENUE CHAPTER 97 – JURISDICTIONAL IMMUNITIES OF FOREIGN STATES From the U.S.
-Government Printing Office, https://www.gpo.gov
-4.
+Government Printing Office, https://www.gpo.gov 4.
 What should we do about election meddling?
 Answer: Election meddling is actually an act of treason against the Constitution of this great nation all violators should be treated as such.
 Additionally one man one vote is the law of the land as corporate entities no Corporation should be allowed to detonate more money to a campaign than the average citizen.
 Corporations now on America our politicians are judges and our courts.
-I oppose all such activities regarding election meddling
-5.
+I oppose all such activities regarding election meddling 5.
 Economy and taxes?
 Answer: Hot button item since 2000 we went from $1.2 trillion in debt to $27 trillion in debt 70 million Americans lost their homes and businesses to corrupt lawyers and judges using forged documents and phony court proceedings.
 The banks caused our economy to collapse and now are profiteering from it put them out of business if necessary but hold them accountable for treason against our Constitution and economic terrorism against our citizens.
@@ -29,36 +28,24 @@ The lives the social programs save and stabilize speaking as one of a family of 
 We cannot allow our children to starve, be denied medical assistance, to throw people with mental disease out on the streets, while corporate officers defeat our tax system.
 Flying your luxury jets 2% of the wealthiest people in the world control 98% of the wealth they don’t mind enslaving our citizens to make that luxury living they have.
 Social justice and social welfare go hand-in-hand.
-Red Maryland is distributing this survey to all Republican candidates for Congress.
+2018 Red Maryland Congressional Candidate Survey Red Maryland is distributing this survey to all Republican candidates for Congress.
 These candidate surveys will influence the decision-making of Red Maryland editors in issued candidate endorsements during the Republican primary.
 If you choose to participate, your answers will be published in their entirety at RedMaryland.com.
 If you choose not to participate, we will note that we did not receive feedback from you.
 If you have any questions please contact us at redmaryland@gmail.com or 410-205-4875.
 Thank you for your time.
 1.
-Candidate Name
-Candidate Response: George Edward McDermott
-2.
-Candidate Age
-Candidate Response: 72 years plus
-3.
-Office Sought and District
-Candidate Response: United States 4th congressional district as Republican
-4.
-Question Education
-Candidate Response: Graduated New Jersey vo-tech 1962+20 years of legal training fighting the Maryland Mafia leader Sapperstein crime syndicate of Baltimore Maryland in Maryland corrupt judicial system.
+Candidate Name Candidate Response: George Edward McDermott 2.
+Candidate Age Candidate Response: 72 years plus 3.
+Office Sought and District Candidate Response: United States 4th congressional district as Republican 4.
+Question Education Candidate Response: Graduated New Jersey vo-tech 1962+20 years of legal training fighting the Maryland Mafia leader Sapperstein crime syndicate of Baltimore Maryland in Maryland corrupt judicial system.
 Currently 19,000 docket entries 110+ Ct. cases as self represented victim of corruption.
 5.
-Career/Occupation
-Candidate Response: Contractor, Builder Developer & Entrepreneur currently victims rights advocate reporter on Judicial abuse and Court abuse
-6.
-Political Experience
-Candidate Response: 2008 candidate ran for clerk of the court 5 time candidate for U.S.
+Career/Occupation Candidate Response: Contractor, Builder Developer & Entrepreneur currently victims rights advocate reporter on Judicial abuse and Court abuse 6.
+Political Experience Candidate Response: 2008 candidate ran for clerk of the court 5 time candidate for U.S.
 Congress as a Democrat and Republican no support from either party received 69,000 plus Votes in the 2016 General Election campaigns was 95% personally financed no pack money order Republican party financing.
 7.
-Websites/Social Media Accounts
-Candidate Response: GeorgeMcDermott.com, GeorgeMcDermott2016.com, GeorgeMcDermott2014.com, SecretJustice.com, OccupyTheLaw.com, MarylandCourtWatchNews.com, George McDermott 2016 Facebook, George McDermott Facebook, George McDermott twitter, George McDermott YouTube and others
-8.
+Websites/Social Media Accounts Candidate Response: GeorgeMcDermott.com, GeorgeMcDermott2016.com, GeorgeMcDermott2014.com, SecretJustice.com, OccupyTheLaw.com, MarylandCourtWatchNews.com, George McDermott 2016 Facebook, George McDermott Facebook, George McDermott twitter, George McDermott YouTube and others 8.
 Why are you running for office?
 Candidate Response: I am running for office because I was born in the land of the free and the home of the other brave 70 years later I live in the land of the scam in the fraud for the benefit of political insiders corporate criminals protected by the largest Mafia organization world the American Bar Association who with the judges of this nation are committing treason against the Constitution and rule of law and as a citizen of the United States of America not the incorporated entity is my duty to fight to defend the Constitution of the United States against all enemies foreign and domestic.
 Running for U.S.
@@ -67,8 +54,7 @@ My story is posted at SecretJustice.com 1200+ videos which will attest to my rig
 9.
 Who do you consider your political role model, and why?
 Candidate Response: Holding our political leaders and all persons in the US Justice Department all federal agencies Allstate and local jurisdictions and especially our nations state and federal court systems judges and court personnel to their oath of office and loyalty to our organic Constitution.
-We must hold those in office accountable for crimes against society and their sellout to corporate America and political lobbyists working to undermine the integrity of our nation and financially destroy our nation through waste fraud and abuse of taxpayers money, assets, and principles of law
-10.
+We must hold those in office accountable for crimes against society and their sellout to corporate America and political lobbyists working to undermine the integrity of our nation and financially destroy our nation through waste fraud and abuse of taxpayers money, assets, and principles of law 10.
 What is your favorite book about politics and policy, and why?
 Candidate Response: The Federalist papers, the biographies of Thomas Payne, Thomas Jefferson, Patrick Henry, and Adams.
 True leaders who would turn over in their graves if they were to visit the United States today and see the disrespect and treasonous acts of our political and judicial leaders.
@@ -88,15 +74,14 @@ Candidate Response: Number (1) Reinstating citizens United it is ludicrous that 
 Number (2) Holding all political and judicial branches of government to accountability and that they provide honest services to all citizens not just favor corporate insiders and their legal representatives who flagrantly violate their oath of office to protect criminals within the artists branches of government and make the taxpayer paid for their defenses this must stop.
 Number (3) I believe the American Bar Association is the largest stumbling block for the success of the United States living up to potential of our founding fathers, the 81st Congress house on un-American activities declared the national lawyers Guild to be un-American organization whose members would not recognize their oath of office and loyalty to the Constitution because of their affiliations with the communist state of Russia and that its members now American Bar Association members have engaged in war against our Constitution setting aside the rights and liberties of our citizenry to support corporate America over our Constitution and rule of law.
 14.
-What is your position on life issues?
-(abortion, assisted suicide)
-Candidate Response: (A) I believe in a woman’s choice and all Americans’ right to free choice there must be limits the state is not compelled to pay for abortions at will this is a failure of our state and federal legislatures.
+What is your position on life issues? (abortion, assisted suicide) Candidate Response: (A) I believe in a woman’s choice and all Americans’ right to free choice there must be limits the state is not compelled to pay for abortions at will this is a failure of our state and federal legislatures.
 Who are being influenced by lobbyists not by common sense.
 (B) Assisted suicide in instances where patients are considered terminal is a choice of the patient, the doctor, is not the place of the government or our healthcare system to prolong the suffering and pain of victims who can no longer speak for themselves.
 If you check the records now you’ll see that when our elderly go to the hospital’s in your over 80 years old they will do what they can and at hospital to put you down if you want to know the truth call me at 301-996-9577 and I will give you numerous examples of people being euthanized by the hospitals in the belief that they don’t deserve life.
 15.
 What is your position on taxes, spending and the federal deficit?
-Candidate Response: Once again taxes are an area that if you are wealthy and have attorneys you can get away with anything and generally do, if you our middle class or lower class of citizens of this nation the IRS will beat you to death and cause you to hire more attorneys to prevent extortion by threat from IRS agents who know that the lower and middle class citizens don’t have the resources to get justice in our nation’s courts. 97.5 percent of all pro se litigant cases in the United States are dismissed illegally.
+Candidate Response: Once again taxes are an area that if you are wealthy and have attorneys you can get away with anything and generally do, if you our middle class or lower class of citizens of this nation the IRS will beat you to death and cause you to hire more attorneys to prevent extortion by threat from IRS agents who know that the lower and middle class citizens don’t have the resources to get justice in our nation’s courts.
+97.5 percent of all pro se litigant cases in the United States are dismissed illegally.
 Favoring corporate fraud over justice for all.
 16.
 What is your position on gun rights?
@@ -126,21 +111,8 @@ My earlier submission was not complete and this is an amended form.
 Please notify me if there are deficiencies or if I have filled it out incorrectly.
 As a candidate my views are posted at http://secretjustice.com where over 1200 videos show my loyalty to my country, the rule of law, and my fellow citizens.
 I will be in the race until the very end and the last vote is counted in November with or without support of any other political organization and despite the efforts of the state and federal judicial system destroyed by campaign.
-Respectfully submitted
-George Edward McDermott
-Monday, August 30, 2010
-George McDermott
-U.S.
-House of Representatives, District 4
-George McDermott
-District: Maryland’s 4th Congressional District
-Political party: Democrat
-Birthplace: Cheverly Hospital Prince George’s County
-Age: 65
-Residence: Forest Heights Maryland
-Family: Married 46 years three children three grandchildren
-Education: Primary education plus trade school graduate
-Professional experience: builder developer, contractor, entrepreneur, presently creating numerous businesses in Prince George’s County Maryland at one point employing 225 area residents currently a judicial advocate for victims’ rights.
+Respectfully submitted George Edward McDermott 2010 Bio & Position Statements from Gazette.net Monday, August 30, 2010 George McDermott U.S.
+House of Representatives, District 4 George McDermott District: Maryland’s 4th Congressional District Political party: Democrat Birthplace: Cheverly Hospital Prince George’s County Age: 65 Residence: Forest Heights Maryland Family: Married 46 years three children three grandchildren Education: Primary education plus trade school graduate Professional experience: builder developer, contractor, entrepreneur, presently creating numerous businesses in Prince George’s County Maryland at one point employing 225 area residents currently a judicial advocate for victims’ rights.
 See savedme101.com and secretjustice.com.
 Currently reporting for victims’ stories at MdCourtwatch.com and recently appointed to a roundtable at CPS Chronicles worldwide news as a roundtable panelist.
 Community experience: I have been serving the community since 1987 trying to generate jobs, increase the quality of life of a residence and generating family-oriented businesses to serve the community.
@@ -151,16 +123,12 @@ Covering up the crimes of their fellow judicial officers.
 Once again see history at savedme101.com and secretjustice.com.
 Currently reporting for victims’ stories at MdCourtwatch.com.
 Actions speak louder than words.
-Campaign e-mail: GeorgeMcDermott2018@gmail.com
-Campaign phone number: 301-839-5816
-Q.
+Campaign e-mail: GeorgeMcDermott2018@gmail.com Campaign phone number: 301-839-5816 Q.
 What are your top three priorities for the next two years, if elected?
-Answer:
-1.
+Answer: 1.
 Priority number [1] find out the definitive date of the constitutional amendment if any that allows sworn officers of the court and judges the power and authority to falsely imprison citizens of the United States with unsigned orders, steal their property with unsigned orders, overturn recording jury verdicts with unsigned orders.
 And operate in a cloak of secrecy reminiscent of the oppressive days Adolf Hitler’s early years.
-Background @ freeRichardFine.com
-2.
+Background @ freeRichardFine.com 2.
 Priority number [2] propose legislation that would the fraud and injustice in our appellate courts, denying equal access to pro se litigants, denying equal protection under the law to financially disadvantaged, and the use of unsigned orders and secret unverifiable administrative procedures by the courts to cover up the crimes of lower court judges, attorneys, and governmental employees working under color of law and authority to disenfranchise our citizens of our rights.
 Details @ secretjustice.com 224 movies available.
 3.
@@ -197,8 +165,7 @@ Answer: First and foremost a balanced budget amendment would have to be passed a
 Secondly any American corporation that moves overseas should not receive any government assistance whatsoever and be taxed as a foreign corporation.
 The Congress must invest more money in the Justice Department budget to hold white-collar criminals responsible for the frauds they commit against society as corporate CEOs and management teams breaching their fiduciary duty and responsibility to stockholders and victims of the crime the Supreme Court was wrong in its recent ruling in the Enron case gutting the Justice Department’s best tool in saying they could no longer use.
 The federal statute that makes it a crime to deprive another of intangible rights of honest services.
-Washington Post Sunday, July 18, 2010 section [A 5]
-Q.
+Washington Post Sunday, July 18, 2010 section [A 5] Q.
 Has the federal government provided sufficient support for changes caused by BRAC?
 How would you address challenges, if any?
 Answer: The base realignment commission seems to be abandoning a lot of government owned property which will be taken over by private corporations at bargain basement prices.
@@ -236,8 +203,7 @@ Answer: I personally oppose same-sex marriage because I believe it is contrary t
 The ACLU and the American Bar Association have made this an issue because I believe a disproportionate amount of its members are active in the gay community and it’s in their own best self interest.
 Along with the marriage comes a commitment by an employer or provider that contrary to their own personal beliefs they must now support the partners now spouses of these individuals.
 Asked for a constitutional amendment before you force this type of social change in this nation is my answer.
-Let the will of the people speak for once
-Q.
+Let the will of the people speak for once Q.
 What changes, if any, should be made to the No Child Left Behind education law?
 Answer: No Child left behind has been a failure since the onset.
 It is based in fundamental technicalities and unachievable guidelines.
@@ -245,3 +211,6 @@ Which strain the resources of the education system and produce no real result.
 As a child who grew up in the 50s I believe every child who enters his sixth grade should be given a free ability potential test.
 So that the schools can determine along with the parents and the child with greater certainty whether they should continue in a standard education which they do not understand or want to participate in.
 We’ll give them the option to go to a trade school as I did and learned something that they enjoy doing and will maintain and keep their interest in school as well as set them on course for self-sufficiency in the real world.
+Watch more than 1,100 videos by George McDermott documenting collusion and injustice in the courts at SecretJustice.com Opportunity For You To VOLUNTEER And Make A Difference In Your Nation's Future.
+Yes You Can, We All Can, And We All Should Try. © # George McDermott • Powered by Zoinks!
+Graphics Scroll back to top

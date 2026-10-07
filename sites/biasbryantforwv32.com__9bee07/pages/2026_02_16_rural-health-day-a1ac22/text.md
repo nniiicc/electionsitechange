@@ -1,12 +1,9 @@
-Today I attended Rural Health Day at the Capitol to advocate for water quality in the southern coalfields (including District 32’s Boone County).
+Skip to content About Me Recent Updates Donate Rural Health Day Today I attended Rural Health Day at the Capitol to advocate for water quality in the southern coalfields (including District 32’s Boone County).
 According to data from the US Environmental Protection Agency’s Safe Drinking Water Information System, 3 counties in WV ranked highest in percentile ranking for water violations.
 1.
-Wyoming, WV
-2.
-Boone, WV
-3.
-Mercer, WV
-A bill was introduced recently that is supposed to help address these issues.
+Wyoming, WV 2.
+Boone, WV 3.
+Mercer, WV A bill was introduced recently that is supposed to help address these issues.
 Below is my statement from the press conference today where I explain why this bill doesn’t begin to address either the scale or the emergency of the issue the southern 13 coalfield counties face.
 The bill originally sponsored by Delegates Green and Hamilton set to earmark $250 million dollars, which is much closer to a solution than the bill currently under consideration.
 My name is Jennifer Bias Bryant, a candidate for the WV House of Delegates.
@@ -16,8 +13,7 @@ If I seem familiar, it’s probably because I’ve never been able to be quiet w
 Rural health is something near and dear to my heart.
 My husband and I made the decision to come back HOME where he serves our Boone county communities as a primary care doctor.
 As we gather here on Rural Health Day, it’s important to acknowledge that NO amount of investment in local healthcare can save our people from the impacts of contaminated water.
-In southern WV, lately — we’ve had too much water with flooding and at the same time, not enough safe drinking/usable water…
-So, I was encouraged that a group of legislators in the House of Delegates decided that the Water Crisis in the southern counties warrants their attention.
+In southern WV, lately — we’ve had too much water with flooding and at the same time, not enough safe drinking/usable water… So, I was encouraged that a group of legislators in the House of Delegates decided that the Water Crisis in the southern counties warrants their attention.
 Unfortunately, we differ in what we see as an adequate response.
 In this building on Friday, my opponent (the current delegate from the 32nd) — along with Delegates Vance-95, Dean-76, Bridges-71, Ellington-39, Pritt-92, Browning-79, Green-18, Toney-47, Roop-72, and Brooks-90 — introduced HB 5525.
 This bill seeks to create a fund to aid communities facing a water crisis — with an initial investment of $10 million dollars.
@@ -46,6 +42,11 @@ Hospitals need clean water.
 Childcare centers need clean water.
 Schools need clean water.
 Churches need clean water.
-Veterans need CLEAN water,
-Seniors, mothers, and babies NEED clean water.
+Veterans need CLEAN water, Seniors, mothers, and babies NEED clean water.
 West Virginia needs clean water.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Let’s Connect Facebook Facebook Instagram Instagram Link Phone Link Donate Here Mailing Address PO Box 142 Madison, WV 25310 Email BiasBryantforWV32@yahoo.com © #.
+All rights reserved.
+PAID FOR BY THE COMMITTEE TO ELECT JENNIFER BIAS BRYANT Discover more from Jennifer Bias Bryant for WV House 32 Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

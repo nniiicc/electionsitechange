@@ -1,5 +1,2 @@
-Cumpston for House
-As the campaign season gets heated up, we are going to need help writing postcards, knocking doors, and spreading our message.
-If you are interested in geting involved with our campaign, please fill out the form below.
-← Back
-Δ
+Skip to content Cumpston for House About Cody Issues Endorsements Contact Get Involved Donate Get Involved As the campaign season gets heated up, we are going to need help writing postcards, knocking doors, and spreading our message.
+If you are interested in geting involved with our campaign, please fill out the form below. ← Back Thank you for your response. ✨ Name (required) Email (required) Phone Role(s) you’re interested in: Please Choose One Door Knocking Texting Writing Postcards Other (please specify below) Additional Comments Submit Submitting form Δ Cumpston for House Facebook Instagram TikTok About Cody Issues Endorsements Contact Get Involved Donate Paid for by Codycumpston4wv, Treasurer Sherry Johnson

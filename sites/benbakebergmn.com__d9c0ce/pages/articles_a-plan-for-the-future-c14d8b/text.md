@@ -1,6 +1,4 @@
-Legislative Update: Minnesota’s Education Challenges & A Plan for the Future
-Friends,
-This week, the Governor and legislative Democrats took a victory lap over Minnesota’s high school graduation rate, now just under 85 percent for the 2025 class.
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Legislative Update: Minnesota’s Education Challenges & A Plan for the Future Friday, April 10th, 2026 Friends, This week, the Governor and legislative Democrats took a victory lap over Minnesota’s high school graduation rate, now just under 85 percent for the 2025 class.
 We should continue to push for more student success while ensuring the diploma students receive retains its value.
 For that same class, 34.7 percent of students met grade-level standards in math, and just 51.5 percent were proficient in reading.
 Both are record lows.
@@ -40,8 +38,7 @@ I’ll plan to go into more detail on this next week.
 Thank you for continuing to stay engaged through the ups and downs of the legislative session.
 I know it gets frustrating at times, but we need to continue working towards a better future for our great state and the families that call it home.
 Please reach out and share your thoughts and ideas.
-Have a great weekend,
-Please Contact Me
-Please continue to reach out if I can be of any assistance to you.
-You can reach me by phone at 651-296-5185 or by email at rep.ben.bakeberg@house.mn.gov.
+Have a great weekend, Please Contact Me Please continue to reach out if I can be of any assistance to you.
+You can reach me by phone at 651-296-5185 or by email at rep.ben.bakeberg@house.mn.gov .
 Have a great weekend!
+Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

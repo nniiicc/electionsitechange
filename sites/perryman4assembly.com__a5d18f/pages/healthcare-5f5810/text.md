@@ -1,4 +1,4 @@
-As a pediatrician, I’ve had a front-row seat to the many amazing things American health care can do, as well as many of the unique failings and frustrations within it.
+Home Platform Endorsements More Home Platform Endorsements Donate Home Platform Endorsements Donate Affordable Healthcare in Wisconsin Taking Care of Our Families As a pediatrician, I’ve had a front-row seat to the many amazing things American health care can do, as well as many of the unique failings and frustrations within it.
 Some of the strengths include amazing caregivers, cutting-edge technology, elite hospitals and medical schools, and world-class research (unfortunately, now under threat).
 The weaknesses, however, are profound.
 We are the only developed nation that does not provide universal health care for our people.
@@ -22,5 +22,4 @@ There are other possibilities, but the goal would be that all have coverage that
 I have long advocated for a national single-payer health insurance plan, as it makes the most sense ethically and economically.
 Short of that, we as a state need to lead the way.
 I pledge to do all I can to make universal coverage in Wisconsin a reality.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Privacy Policy Terms of Service Paid for by Friends of John Perryman PO Box 5, Williams Bay, WI 53191 Powered by

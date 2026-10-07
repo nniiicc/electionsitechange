@@ -1,16 +1,70 @@
 [
-"https://facebook.com/JimNashForMN",
-"https://jimnashformn.com/",
-"https://jimnashformn.com/event-list",
-"https://jimnashformn.com/home-1",
-"https://jimnashformn.com/home-1-1",
-"https://jimnashformn.com/home-1-1-1",
-"https://jimnashformn.com/privacypolicy",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=1",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=100",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=200",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=25",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=50",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=75",
-"https://secure.winred.com/jim-nash-for-minnesota/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=1"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=200"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?amount=75"
+},
+{
+"text": "(Link to Privacy Policy)",
+"href": "https://www.jimnashformn.com/privacypolicy"
+},
+{
+"text": "ABOUT",
+"href": "https://www.jimnashformn.com/home-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jimnashformn.com/home-1-1"
+},
+{
+"text": "Events",
+"href": "https://www.jimnashformn.com/event-list"
+},
+{
+"text": "HOME",
+"href": "https://www.jimnashformn.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.jimnashformn.com/home-1-1-1"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.jimnashformn.com"
+},
+{
+"text": "SUPPORT",
+"href": "https://secure.winred.com/jim-nash-for-minnesota/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JimNashForMN/"
+},
+{
+"text": "[image]",
+"href": "https://www.jimnashformn.com"
+}
 ]

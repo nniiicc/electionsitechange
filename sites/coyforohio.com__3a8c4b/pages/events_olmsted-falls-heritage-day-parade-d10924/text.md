@@ -1,11 +1,2 @@
-Back to All Events
-Please join Megan Coy and friends for the Olmsted Falls Heritage Days Parade!
-Join us on July 31st at 5:30pm at the Falls-Lenox School Parking lot: 26450 Bagley Rd, Olmsted Falls, OH 44138
-You can sign up here: https://docs.google.com/forms/d/e/1FAIpQLSfjVyOhPpvsTp73lipLTLrrkjP3EnW0PWSBtekMhy8wCXyjbg/viewform?usp=header
-Previous
-Previous
-July 25
-Olmsted Falls Canvass Launch
-Next
-Next
-August 8
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Olmsted Falls Heritage Day Parade Friday, July 31, 2026 5:30 PM 7:30 PM Falls-Lenox School Parking Lot 26450 Bagley Road Olmsted Falls, Ohio, 44138 United States (map) Google Calendar ICS Please join Megan Coy and friends for the Olmsted Falls Heritage Days Parade!
+Join us on July 31st at 5:30pm at the Falls-Lenox School Parking lot: 26450 Bagley Rd, Olmsted Falls, OH 44138 You can sign up here: https://docs.google.com/forms/d/e/1FAIpQLSfjVyOhPpvsTp73lipLTLrrkjP3EnW0PWSBtekMhy8wCXyjbg/viewform?usp=header Previous Previous July 25 Olmsted Falls Canvass Launch Next Next August 8 North Royalton Canvass Launch Paid for by Friends of Megan Coy

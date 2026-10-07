@@ -1,54 +1,42 @@
-February 2023 | Legislative Report
-Updated: May 6, 2024
-Representatives returned to the State Capitol for another productive week of the 2023 legislative session.
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation Search February 2023 | Legislative Report Sheila Jones Feb 13, 2023 5 min read Updated: May 6, 2024 Representatives returned to the State Capitol for another productive week of the 2023 legislative session.
 We met in the House Chamber for four days and reached Legislative Day 20 -- marking the halfway point of the session.
-We only have 20 legislative days left to complete our business, and the “Crossover Day” deadline is rapidly approaching.
+We only have 20 legislative days left to complete our business, and the “ Crossover Day ” deadline is rapidly approaching.
 My colleagues and I voted on many bills on the House floor that aim to better the lives of each and every Georgian, including legislation that would directly serve the citizens in our House district.
-Week of February 13, 2023
-Public Health
-House Bill 129 seeks to improve the maternal health of extremely low-income pregnant women.
-- Would expand the eligibility criteria for Temporary Assistance for Needy Families (TANF) benefits to pregnant women.
-- This federal program provides monthly cash assistance to extremely low-income families with the goal of moving these families toward economic freedom and self-sufficiency.
-- The average TANF household includes three individuals, such as a mom and two children, but this vital program is not currently eligible to pregnant women in Georgia.
+Week of February 13, 2023 Public Health House Bill 129 seeks to improve the maternal health of extremely low-income pregnant women.
+Would expand the eligibility criteria for Temporary Assistance for Needy Families (TANF) benefits to pregnant women.
+This federal program provides monthly cash assistance to extremely low-income families with the goal of moving these families toward economic freedom and self-sufficiency.
+The average TANF household includes three individuals, such as a mom and two children, but this vital program is not currently eligible to pregnant women in Georgia.
 I am glad that the House took a step toward alleviating some of the financial burden for these expectant mothers so that they can focus on their prenatal health.
 House Bill 143 seeks to ensure that CGMs are included as a pharmacy benefit for the state’s Medicaid patients so that those individuals have access to these crucial and lifesaving devices.
-- Would require the Georgia Department of Community Health to cover continuous glucose monitors (CGMs) as a pharmacy benefit through Medicaid.
-- Medicaid recipients would be eligible for this benefit if they have a diabetes mellitus diagnosis and use insulin daily or have a history of problematic hypoglycemia.
-- The patient or caregiver would be required to participate in training for the device, and an in-person or telehealth visit would be required before and after the initial prescription to continually assess the patient’s diabetes treatment plan.
-- CGMs can make it much easier for those living with diabetes or hypoglycemia to better understand their blood sugar patterns and manage their health, but this modern equipment can be extremely expensive without insurance coverage.
-Insurance
-House Bill 85 seeks to encourage better health outcomes for all Georgians, especially those with cancer.
+Would require the Georgia Department of Community Health to cover continuous glucose monitors (CGMs) as a pharmacy benefit through Medicaid.
+Medicaid recipients would be eligible for this benefit if they have a diabetes mellitus diagnosis and use insulin daily or have a history of problematic hypoglycemia.
+The patient or caregiver would be required to participate in training for the device, and an in-person or telehealth visit would be required before and after the initial prescription to continually assess the patient’s diabetes treatment plan.
+CGMs can make it much easier for those living with diabetes or hypoglycemia to better understand their blood sugar patterns and manage their health, but this modern equipment can be extremely expensive without insurance coverage.
+Insurance House Bill 85 seeks to encourage better health outcomes for all Georgians, especially those with cancer.
 This legislation would afford Georgians coverage for this innovative approach to testing and help individuals figure out if treatment would be effective or not, saving them valuable time and money.
-- Would require health insurance benefit policies in Georgia to cover biomarker testing for the diagnosis, treatment, management or ongoing monitoring of a disease or condition, such as cancer.
-- Biomarker testing analyzes a patient’s tissue, blood or other biospecimen to look for genes, proteins and other substances, which are called biomarkers or tumor markers (according to the National Cancer Institute).
-- Each person’s cancer has a unique pattern of biomarkers that can help clarify a diagnosis and even determine the best treatment for an individual.
-- While biomarker testing is most commonly used for cancer, it could soon be used for other conditions, such as Alzheimer’s.
-Education
-House Bill 81 seeks to support our school systems, particularly those in rural areas of our state.
-- Would revise the qualifications and implementation of grant funding opportunities for low-wealth K-12 school systems to help build and maintain their schools.This legislation would update the eligibility criteria for existing project-specific capital outlay grants, which fund school construction and maintenance projects.
-- To be eligible for this grant funding, the local school system would have to be currently, or within the last three years, ranked in the bottom 25 percent of special purpose local option sales tax (SPLOST) collections and in property value.
-- *For local school systems that rank in the bottom 25 percent of SPLOST collections, the system would also have to commit five years of their SPLOST revenues toward the applicable project.
-- To ensure that this funding goes to schools that need it the most, the bill would require that educational facilities be at least 35 years old to receive funding for consolidation projects, and schools systems could only receive these grants every 10 years after their need has been met.
-- With low SPLOST revenues, many school systems in rural Georgia cannot afford to build new facilities on their own, but these grants would help rural school systems upgrade old buildings and aging infrastructure to offer safer learning environments for our students and teachers.
-House Bill 87 or the “Completion Special Schools Act”
-- Would create additional educational pathways for at-risk students to earn their high school diplomas.
-- Would authorize the State Board of Education (BOE) to adopt policies to allow the establishment, funding and operation of “completion special schools.”
-- These completion special schools would allow students who are behind on high school credits, at-risk of dropping out of high school or have already dropped out to enroll in these non-traditional schools to earn their diplomas with greater flexibility through online instruction or night classes.
-- This new educational model would help more Georgia students by increasing the number of completion special schools throughout our state, and it would allow state funding already set aside for these students to flow into the new schools.
-- These new completion schools would also allow students who turn 18 to self-enroll in courses until they are 22 years old.*Would allow the state to appropriate up to $5 million in grant funding in the state budget to get these news schools off the ground (to incentivize the creation of new completion special schools).
-- Would also authorize the state’s three existing alternative education charter schools to transition into this new completion school model before the next school year.
-- If these new completion special schools fail to comply with our state’s requirements, the state could permanently or temporarily dissolve the school.
-- Many school superintendents support this bill as a way to help raise graduation rates across the state and produce a more skilled workforce.
-- I was proud to vote “yes” on this legislation to allow struggling high school students to cross the finish line to earn their high school diplomas.
-Judiciary
-- Would require a personal estate representative to notify all beneficiaries about a will and file such notices with the probate court within a certain timeframe.
-- Includes a citation process if the personal estate representative fails to comply.
-- Would increase the monthly payments for superior court reporters as a contingent expense and travel allowance.
-Judiciary (Non-Civil)
-- Would restrict the disclosure of the home address, date of birth and home phone number of a non-sworn employee of a law enforcement agency if he/she testifies for the prosecution in a criminal case
-- Would allow the disclosure of the employee’s current work location/phone number.
-Governmental Affiars
-- Would increase the public works construction contract value amount from $100,000 or less to $250,000 or less if the contract is exempt from specific contracting and bidding requirements.
-- Would create licensure requirements for advanced practice registered nurses (APRNs)
-- Would define APRNs as persons registered with the Georgia Board of Nursing as a certified nurse midwife, certified nurse practitioner, certified nurse anesthetist, clinical nurse specialist in psychiatric/metal health or a recognized APRN before June 2006.
-- Would make practicing as an APRN without licensure a misdemeanor and allow APRNs and physician assistants to prescribe handicap stickers to patients.
+Would require health insurance benefit policies in Georgia to cover biomarker testing for the diagnosis, treatment, management or ongoing monitoring of a disease or condition, such as cancer.
+Biomarker testing analyzes a patient’s tissue, blood or other biospecimen to look for genes, proteins and other substances, which are called biomarkers or tumor markers (according to the National Cancer Institute).
+Each person’s cancer has a unique pattern of biomarkers that can help clarify a diagnosis and even determine the best treatment for an individual.
+While biomarker testing is most commonly used for cancer, it could soon be used for other conditions, such as Alzheimer’s.
+Education House Bill 81 seeks to support our school systems, particularly those in rural areas of our state.
+Would revise the qualifications and implementation of grant funding opportunities for low-wealth K-12 school systems to help build and maintain their schools.
+This legislation would update the eligibility criteria for existing project-specific capital outlay grants, which fund school construction and maintenance projects.
+To be eligible for this grant funding, the local school system would have to be currently, or within the last three years, ranked in the bottom 25 percent of special purpose local option sales tax (SPLOST) collections and in property value. *For local school systems that rank in the bottom 25 percent of SPLOST collections, the system would also have to commit five years of their SPLOST revenues toward the applicable project.
+To ensure that this funding goes to schools that need it the most, the bill would require that educational facilities be at least 35 years old to receive funding for consolidation projects, and schools systems could only receive these grants every 10 years after their need has been met.
+With low SPLOST revenues, many school systems in rural Georgia cannot afford to build new facilities on their own, but these grants would help rural school systems upgrade old buildings and aging infrastructure to offer safer learning environments for our students and teachers.
+House Bill 87 or the “Completion Special Schools Act” Would create additional educational pathways for at-risk students to earn their high school diplomas.
+Would authorize the State Board of Education (BOE) to adopt policies to allow the establishment, funding and operation of “completion special schools.” These completion special schools would allow students who are behind on high school credits, at-risk of dropping out of high school or have already dropped out to enroll in these non-traditional schools to earn their diplomas with greater flexibility through online instruction or night classes.
+This new educational model would help more Georgia students by increasing the number of completion special schools throughout our state, and it would allow state funding already set aside for these students to flow into the new schools.
+These new completion schools would also allow students who turn 18 to self-enroll in courses until they are 22 years old.*Would allow the state to appropriate up to $5 million in grant funding in the state budget to get these news schools off the ground (to incentivize the creation of new completion special schools).
+Would also authorize the state’s three existing alternative education charter schools to transition into this new completion school model before the next school year.
+If these new completion special schools fail to comply with our state’s requirements, the state could permanently or temporarily dissolve the school.
+Many school superintendents support this bill as a way to help raise graduation rates across the state and produce a more skilled workforce.
+I was proud to vote “yes” on this legislation to allow struggling high school students to cross the finish line to earn their high school diplomas.
+Judiciary House Bill 91 Would require a personal estate representative to notify all beneficiaries about a will and file such notices with the probate court within a certain timeframe.
+Includes a citation process if the personal estate representative fails to comply.
+House Bill 176 Would increase the monthly payments for superior court reporters as a contingent expense and travel allowance.
+Judiciary (Non-Civil) House Bill 139 Would restrict the disclosure of the home address, date of birth and home phone number of a non-sworn employee of a law enforcement agency if he/she testifies for the prosecution in a criminal case Would allow the disclosure of the employee’s current work location/phone number.
+Governmental Affiars House Bill 193 Would increase the public works construction contract value amount from $100,000 or less to $250,000 or less if the contract is exempt from specific contracting and bidding requirements.
+House Bill 215 Would create licensure requirements for advanced practice registered nurses (APRNs) Would define APRNs as persons registered with the Georgia Board of Nursing as a certified nurse midwife, certified nurse practitioner, certified nurse anesthetist, clinical nurse specialist in psychiatric/metal health or a recognized APRN before June 2006.
+Would make practicing as an APRN without licensure a misdemeanor and allow APRNs and physician assistants to prescribe handicap stickers to patients.
+Tags: State Capitol 2023 news Legislation Recent Posts See All 2023 Sponsored/Co-sponsored Georgia Legislation Special Session | 2023 News from the State Capitol | October 2023 Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

@@ -1,4 +1,3 @@
-- This event has passed.
-NBC5 (WPTZ) Gubernatorial Debate
-October 1, 2020 @ 7:00 pm - 8:00 pm
-Governor Scott participates in the third gubernatorial debate hosted by NBC5, live at 7:00 PM.
+Toggle navigation Join the Team Meet Phil Donate « All Events This event has passed.
+NBC5 (WPTZ) Gubernatorial Debate October 1, 2020 @ 7:00 pm - 8:00 pm « VT Digger Gubernatorial Debate WCAX Gubernatorial Debate » Governor Scott participates in the third gubernatorial debate hosted by NBC5, live at 7:00 PM.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 1, 2020 Time: 7:00 pm - 8:00 pm Website: MyNBC5.com « VT Digger Gubernatorial Debate WCAX Gubernatorial Debate » Connect with Phil Paid for by Phil Scott For Vermont PO Box 988 Montpelier, VT 05601 | Privacy Policy | Terms and Conditions Website Designed by Bytes.co × Close

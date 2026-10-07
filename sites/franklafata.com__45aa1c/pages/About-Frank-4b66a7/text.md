@@ -1,3 +1,4 @@
+Frank Lafata Home About Frank The Issues Get Involved Donate Who is Frank Lafata?
 Frank Lafata was born on April 30, 1958, arriving prematurely at just 3 pounds.
 Raised in Rockford, Michigan, he grew up in a hardworking, blue-collar family; his parents, Dorothy and Russell, were union workers, and the March of Dimes helped cover the costly medical care that saved his life.
 A mechanically inclined child, Frank’s early years were shaped by resilience.
@@ -8,3 +9,4 @@ He ran for student council in seventh grade, played football and ran track, and 
 He later lived in Grand Rapids through his 30s and has been married to his wife, Marilee, for 35 years.
 Together they have three children and five grandchildren.
 Listen to Frank's campaign song, Fight Like Hell here!
+Paid for by the committee to elect Frank J Lafata 504 E Pearl Street Greenville, MI 48838 Home About Frank The Issues Get Involved

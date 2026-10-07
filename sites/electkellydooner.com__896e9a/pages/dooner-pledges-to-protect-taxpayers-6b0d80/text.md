@@ -1,4 +1,4 @@
-Taunton, MA …Today on Tax Day Taunton City Councilor and candidate for the State Senate Kelly Dooner announced that she has signed the “No New Taxes Pledge” committing to protect taxpayers.
+Meet Kelly Issues News Volunteer DONATE NOW Dooner Pledges to Protect Taxpayers Taunton, MA … Today on Tax Day Taunton City Councilor and candidate for the State Senate Kelly Dooner announced that she has signed the “No New Taxes Pledge” committing to protect taxpayers.
 “People in Massachusetts pay enough in taxes.
 As the next State Senator, I am going to protect people’s wallets.
 It is time to end our state’s nickname Taxachusetts.
@@ -16,3 +16,12 @@ Dooner is also an elected member of the Taunton Planning Board.
 Dooner is a lifelong resident of Massachusetts.
 She earned her paralegal certificate in applied legal studies at Boston University.
 Dooner has been actively involved in the Massachusetts Young Republicans serving on their Executive Board as the National State Committeewoman and is a member of the New England Young Conservatives.
+Follow Us On Social Media Contact Us OptimizePress Popup Overlay OptimizePress Popup Overlay.
+Contact Kelly Dooner Someone from the campaign will get back to you within 24 hours!
+Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming By clicking this box, providing your phone number above, and pressing the "Submit" button below, you agree to receive automated text messages from Campaign To Elect Kelly Dooner To State Senate including any person or entities using that number.
+By clicking the "Submit" button below, you also agree to our Mobile Messaging TOS and Privacy Policy.
+Consent is not a condition of purchase.
+Message frequency will vary.
+Message and data rates may apply.
+Reply HELP for help or STOP to cancel.
+Close

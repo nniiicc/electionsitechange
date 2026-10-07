@@ -1,4 +1,15 @@
-I have been an advocate in Civil rights and Human rights for many years since I was very young.
+Search this site Embedded Files Skip to main content Skip to navigation kc4boston Home Meet KC On The Issues Contact Us News & Events Volunteer Donate kc4boston Home Meet KC On The Issues Contact Us News & Events Volunteer Donate More Home Meet KC On The Issues Contact Us News & Events Volunteer Donate We need unification in America.
+We need unification & Diversity not division.
+We need unification not gentrification.
+We need unification not segregation.
+We need unification not racial steering.
+We need unification not the wealthiest on one side of the city and poorest on other side of the city.
+We need unity now for all the people I am running for CONGRESS REPRESENTATIVE to work together with communities to bring a REAL CHANGE " I f you see something that is not right, not fair, not just, you have a moral obligation to do something about it " John Lewis Change we can see.
+Change we can feel.
+Change that makes sense for the people.
+Change that matters to the people.
+Change on issues that matters to the communities.
+Real Change, get things done , not the usual empty and failed promises I have been an advocate in Civil rights and Human rights for many years since I was very young.
 Boston is the Capital of Massachusetts, and it belongs to the people of Massachusetts regardless of your race, gender or disabilities.
 I've been an activist in many areas of Civil Rights and have strong advocacy abilities in many issues ranging from: climate change adaptation infrastructure, climate change issues especially for the future generation air pollution health issues, Veteran’s rights and benefits.
 Women rights, children's and father’s rights.
@@ -41,3 +52,6 @@ Where is our help when we need it from the representatives that we elected?
 I am a hard-working person and will work even harder for the people and the communities if I am elected.
 About humanity, the simple truth is that no one should be punished indefinitely for speaking their mind especially when that speech speaks justice.
 Thank you.
+Ready to make a Real Change?
+Let's make the state work for the people again!
+Privacy Policy Google Sites Report abuse Page details Page updated Google Sites Report abuse

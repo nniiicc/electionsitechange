@@ -1,16 +1,66 @@
 [
-"https://facebook.com/Newt4StPeteMayor",
-"https://instagram.com/newt4mayor",
-"https://newthd62.com/",
-"https://newthd62.com/about",
-"https://newthd62.com/accomplishments",
-"https://newthd62.com/connect",
-"https://newthd62.com/contact-us",
-"https://newthd62.com/endorsements",
-"https://newthd62.com/events-news",
-"https://newthd62.com/gallery",
-"https://newthd62.com/platform",
-"https://newthd62.com/privacy-policy",
-"https://newthd62.com/volunteer",
-"https://twitter.com/NEWTFL"
+{
+"text": "About",
+"href": "https://www.newthd62.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.newthd62.com/accomplishments"
+},
+{
+"text": "Connect",
+"href": "https://www.newthd62.com/connect"
+},
+{
+"text": "Contact Us",
+"href": "https://www.newthd62.com/contact-us"
+},
+{
+"text": "Endorsements",
+"href": "https://www.newthd62.com/endorsements"
+},
+{
+"text": "Events & News",
+"href": "https://www.newthd62.com/events-news"
+},
+{
+"text": "Gallery",
+"href": "https://www.newthd62.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.newthd62.com"
+},
+{
+"text": "Newt's Platform",
+"href": "https://www.newthd62.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.newthd62.com/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.newthd62.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Newt4StPeteMayor/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/newt4mayor/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/NEWTFL"
+},
+{
+"text": "[no text]",
+"href": "mailto:newt@newt4mayor.com"
+},
+{
+"text": "newt@newthd62.com",
+"href": "mailto:newt@newthd62.com"
+}
 ]

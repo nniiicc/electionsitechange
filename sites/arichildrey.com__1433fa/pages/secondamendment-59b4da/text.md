@@ -1,21 +1,14 @@
-Platform - The 2nd Amendment
-The 2nd Amendment
-I am a staunch defender of the Second Amendment and the fundamental right of law-abiding Ohioans to keep and bear arms for self-defense, hunting, family protection, and recreational shooting.
+top of page Ari for Ohio Home About News Events Issues Equality Families Education Healthcare Economy Accountability Farms 2nd Amendment Yard Sign Request Contact Vote More Use tab to navigate through the menu items.
+Donate Now Log In Platform - The 2nd Amendment Support Ari's Campaign > The 2nd Amendment I am a staunch defender of the Second Amendment and the fundamental right of law-abiding Ohioans to keep and bear arms for self-defense, hunting, family protection, and recreational shooting.
 The Constitution's promise is clear, and I will always oppose efforts to infringe on that right for responsible citizens.
 At the same time, the framers used the phrase “well-regulated” to recognize that with rights come responsibilities—we must take reasonable, targeted steps to prevent misuse, reduce preventable tragedies, and keep firearms out of dangerous hands while preserving freedoms for the vast majority who use them lawfully and safely.
-To honor both our constitutional rights and our duty to protect communities, I support these common-sense measures:
-Universal Background Checks:
-Require thorough background checks for all firearm sales, including private transactions and gun shows, to close loopholes that allow prohibited persons (felons, domestic abusers, etc.) to obtain guns without scrutiny—while ensuring quick, efficient processes that don't burden law-abiding buyers.
-Safe Storage Requirements:
-Promote and incentivize secure storage of firearms (e.g., locked cabinets, trigger locks) to prevent accidental shootings, especially by children, and unauthorized access—building on what responsible gun owners already do, with education and potential tax incentives for safety devices rather than mandates where possible.
-Voluntary Hunting Safety Courses:
-Expand access to optional, high-quality firearm safety and hunter education programs for youth and new owners, ensuring safe, responsible practices are taught early—particularly important in Ohio's strong hunting tradition.
-Closing Domestic Violence Loopholes:
-Support measures to prevent convicted domestic abusers or those under restraining orders from accessing firearms, ensuring protections for victims while maintaining due process.
-Red Flag Laws (Extreme Risk Protection Orders):
-Permit courts to temporarily remove firearms from individuals credibly shown to pose an imminent risk to themselves or others (e.g., through severe mental health crises or threats), with strong due process protections—including prompt hearings, evidence requirements, and full restoration of rights if no danger is proven.
+To honor both our constitutional rights and our duty to protect communities, I support these common-sense measures: ​ Universal Background Checks: Require thorough background checks for all firearm sales, including private transactions and gun shows, to close loopholes that allow prohibited persons (felons, domestic abusers, etc.) to obtain guns without scrutiny—while ensuring quick, efficient processes that don't burden law-abiding buyers.
+Safe Storage Requirements: Promote and incentivize secure storage of firearms (e.g., locked cabinets, trigger locks) to prevent accidental shootings, especially by children, and unauthorized access—building on what responsible gun owners already do, with education and potential tax incentives for safety devices rather than mandates where possible.
+Voluntary Hunting Safety Courses: Expand access to optional, high-quality firearm safety and hunter education programs for youth and new owners, ensuring safe, responsible practices are taught early—particularly important in Ohio's strong hunting tradition.
+Closing Domestic Violence Loopholes: Support measures to prevent convicted domestic abusers or those under restraining orders from accessing firearms, ensuring protections for victims while maintaining due process.
+Red Flag Laws (Extreme Risk Protection Orders): Permit courts to temporarily remove firearms from individuals credibly shown to pose an imminent risk to themselves or others (e.g., through severe mental health crises or threats), with strong due process protections—including prompt hearings, evidence requirements, and full restoration of rights if no danger is proven.
 This is a narrowly tailored tool focused on prevention, not punishment.
-Addressing Gun Trafficking:
-Strengthen enforcement against illegal straw purchases, gun trafficking rings, and interstate smuggling to stop criminals from acquiring firearms—directing resources toward prosecuting traffickers while protecting legitimate owners and dealers.
-Mental Health Resources and Crisis Intervention:
-Invest in community mental health services, suicide prevention programs, and training for law enforcement in crisis de-escalation to address root causes of gun-related tragedies without broadly restricting rights.
+Addressing Gun Trafficking: Strengthen enforcement against illegal straw purchases, gun trafficking rings, and interstate smuggling to stop criminals from acquiring firearms—directing resources toward prosecuting traffickers while protecting legitimate owners and dealers.
+Mental Health Resources and Crisis Intervention: Invest in community mental health services, suicide prevention programs, and training for law enforcement in crisis de-escalation to address root causes of gun-related tragedies without broadly restricting rights.
+ABOUT ARI > Arienne Childrey: Community leader and advocate bringing common-sense solutions to affordable living, public safety, and equality for Ohio's 84th District.
+Sign up for occasional campaign emails: Email * Yes, sign me up! * Subscribe Now FACEBOOK TWITTER CONTACT > E: ARI4OHIO@GMAIL.COM © # Paid for by Friends of Arienne Childrey. bottom of page

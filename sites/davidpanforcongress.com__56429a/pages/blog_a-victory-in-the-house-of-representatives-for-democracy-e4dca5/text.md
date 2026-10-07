@@ -1,6 +1,4 @@
-A Victory in the House of Representatives for Democracy
-Supporting our allies is essential for protecting American freedom
-By passing bills on military aid to Israel, Ukraine, and Taiwan, and moving to force the sale of TikTok, the House of Representative affirmed its opposition to the global resurgence of terrorism and totalitarian regimes.
+0 Skip to Content Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Donate Open Menu Close Menu Bio Issues Blog Volunteer News Endorsements Internships Contact English Back Donate A Victory in the House of Representatives for Democracy Apr 23 Written By Jesse Whitfield Supporting our allies is essential for protecting American freedom By passing bills on military aid to Israel, Ukraine, and Taiwan, and moving to force the sale of TikTok, the House of Representative affirmed its opposition to the global resurgence of terrorism and totalitarian regimes.
 The bi-partisan passage of the bills shows our two parties can work together to solve our most serious problems, providing a path forward for Congress and the world.
 The stakes could not be higher.
 As Iran threatens to take over the Middle-East, Russia brings war and imperialist expansion back to Europe, and China flaunts its military power in the Indo-Pacific, the U.S. could become increasingly isolated as a liberal democracy.
@@ -18,3 +16,9 @@ Their totalitarian control over subject peoples made it impossible to resist the
 A similar dynamic played out with Japan and its anti-Western attempt to build what they called a Greater East Asia Co-Prosperity Sphere.
 With each incremental victory, Japan extended its reach until the attack on Pearl Harbor.
 If the US wants to prevent another chain of events like the ones leading up to World War II, it needs to act decisively now to defend the nations at the forefront of this new threat to global peace and freedom before such incursions arrive at America’s doorstep.
+Jesse Whitfield Previous Previous New opportunities for our youth Next Next How to Protect Your Retirement Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay in touch The latest from the campaign trail, straight to your inbox.
+First Name Last Name Email Address SUBSCRIBE Thank you!
+Paid for by David Pan for Congress 2026.
+FEC # C00847699 Privacy Policy © # David Pan for Congress 2026

@@ -1,9 +1,2 @@
-October 6, 2026
-| various times
-On-going Canvasses for Wendy Hoy
-Other Events
-Voter Outreach
-October 11, 2026
-District 57 Great Blue Wave Volunteer Effort to GOTV
-9:00 AM - 12:00 PM
-Follow us on the campaign trail!
+Donate Menu Home Meet Candidate Issues Events Endorsements Voting Information Volunteer News Follow us October 7, 2026 | various times On-going Canvasses for Wendy Hoy Links to weekly canvases: Go to https://mobilize.us and search for Wendy Hoy ← Back To Events Other Events Voter Outreach October 11, 2026 District 57 Great Blue Wave Volunteer Effort to GOTV 9:00 AM - 12:00 PM See event info Stay Up To Date Follow us on the campaign trail!
+Email Subscribe Home Meet Candidate Issues Events Endorsements Voting Information Volunteer News Donate Follow us Accessibility Statement Political advertisement paid for and approved by Wendy Hoy, Democrat for Florida Representative District 57 PO Box 136 Oldsmar, FL 34677 Wendy Hoy for Change © #

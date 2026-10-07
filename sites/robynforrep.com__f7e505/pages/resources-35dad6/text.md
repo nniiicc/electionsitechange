@@ -1,10 +1,6 @@
-Resources
-Vote By Mail
-You can request a Vote by Mail ballot online at mailvoting.cookcountyclerkil.gov or download and print an application at www.cookcountyclerkil.gov.
-Early Voting
-Locations & Hours for Early Voting (and Secured Drop Boxes for Vote By Mail) are available here: https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations
-Register To Vote
-Registering to vote has never been easier or more convenient.
+Skip to content Home About Issues Resources Contact Donate Main Menu Home About Issues Resources Contact Donate Resources Vote By Mail You can request a Vote by Mail ballot online at mailvoting.cookcountyclerkil.gov or download and print an application at www.cookcountyclerkil.gov .
+Early Voting Locations & Hours for Early Voting (and Secured Drop Boxes for Vote By Mail) are available here: https://www.cookcountyclerkil.gov/elections/ways-to-vote/early-voting/early-voting-locations Register To Vote Registering to vote has never been easier or more convenient.
 You can register online, in person or you can download registration forms and register through the mail.
 Your election authority is ready to process your registration.
-Visit the Office of the Cook County Clerk’s website to get registered. www.cookcountyclerkil.gov
+Visit the Office of the Cook County Clerk’s website to get registered. www.cookcountyclerkil.gov Email: info@robynforrep.com Phone: 773-896-7847 Campaign Office: PO BOX 6453 Evanston, IL 60204-6453 Home About Contact Donate Privacy Policy Copyright © # Robyn Gabel For State Rep Paid for by Friends of Robyn Gabel.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board's official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

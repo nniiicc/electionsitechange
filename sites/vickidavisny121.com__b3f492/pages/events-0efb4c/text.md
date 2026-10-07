@@ -1,35 +1,3 @@
-Upcoming Events
-Interested in meeting Vicki Davis?
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact Events Upcoming Events Interested in meeting Vicki Davis?
 Find her at one of these upcoming events.
-There are no upcoming events at this time
-Previous events
-May
-17
-3:00 pm - 5:00 pm
-May
-24
-6:00 pm - 8:00 pm
-May
-30
-5:00 pm - 9:00 pm
-Jun
-14
-1:00 pm - 5:00 pm
-Jul
-12
-12:00 pm - 3:00 pm
-Jul
-23
-5:30 pm - 7:30 pm
-Aug
-01
-All day
-Aug
-02
-1:00 pm - 2:00 pm
-Aug
-07
-4:30 pm - 8:00 pm
-Aug
-19
-6:00 pm - 8:00 pm
+There are no upcoming events at this time Previous events May 17 Meet the Candidates – Madison County 3:00 pm - 5:00 pm May 24 Sunday Ice Cream Social – Maywood Depot 6:00 pm - 8:00 pm May 30 DCDC Fundraiser Dinner 5:00 pm - 9:00 pm Jun 14 Rally Around the Flag Community Celebration 1:00 pm - 5:00 pm Jul 12 Otsego County Democratic Committee Picnic 12:00 pm - 3:00 pm Jul 23 Broome Dems Summer Picnic 5:30 pm - 7:30 pm Aug 01 Madison County Fair All day Aug 02 America 250: Celebration Parade 1:00 pm - 2:00 pm Aug 07 Family Community Picnic – Chenango County 4:30 pm - 8:00 pm Aug 19 Binghamton House Party 6:00 pm - 8:00 pm Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

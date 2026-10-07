@@ -1,5 +1,4 @@
-ABOUT MATT
-I am Matt Bunch, and I am proud to be your State Representative in House District 51.
+0 Skip to Content Home About Issues News Contact DONATE Open Menu Close Menu Open Menu Close Menu Home About Issues News Contact DONATE Home About Issues News Contact DONATE ABOUT MATT I am Matt Bunch, and I am proud to be your State Representative in House District 51.
 I have a deep-rooted connection to Oregon.
 Born in Baker in 1959 and raised in Eastern Oregon, my values and work ethic were shaped by the rugged landscapes and tight-knit communities of the state.
 I graduated from Burnt River High School in 1977 and continued my education at Oregon State University, earning my degree in 1982.
@@ -16,3 +15,4 @@ We have three children and four grandchildren.
 Family is a cornerstone of my life, and my dedication to both my family and community reflects my commitment to continue creating a better future for all residents of House District 51.
 I NEED YOUR HELP!
 Can you please pitch in to help me keep working toward safer neighborhoods and defending our communities against statewide problems?
+DONATE HOME ABOUT ISSUES NEWS CONTACT PRIVACY DONATE PAID FOR BY FRIENDS OF MATT BUNCH PAC#23161

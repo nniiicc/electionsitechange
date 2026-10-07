@@ -1,4 +1,4 @@
-Fighter.
+0 Skip to Content About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Open Menu Close Menu About Tatiana Our Platform The Job Endorsements Events Talk to Tati Get Involved Fighter.
 Scholar.
 Visionary.
 Connector.
@@ -22,3 +22,4 @@ She is a proud graduate of Sage Leaders, member of Standing for Democracy, paddl
 Tatiana believes in a future that allows communities to plan long-term, escape a constant state of survival, and build within our community’s vision.
 This future will be hard fought, and she is ready to work.
 Together, united, and grounded in the communities of the 37th LD.
+Paid for by Tatiana for Washington (D) PO Box 27113 • Seattle, WA 98165 (206) 412-1535‬ • hello@tatianaforwa.org

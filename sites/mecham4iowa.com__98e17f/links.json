@@ -1,8 +1,34 @@
 [
-"http://secure.actblue.com/donate/mechamforiowa",
-"http://tiktok.com/@mecham.for.iowa",
-"https://facebook.com/MechamforIowa",
-"https://instagram.com/mechamforiowa",
-"https://mecham4iowa.com/",
-"https://mecham4iowa.com/about-2"
+{
+"text": "About",
+"href": "https://www.mecham4iowa.com/about-2"
+},
+{
+"text": "Connect",
+"href": "https://www.mecham4iowa.com"
+},
+{
+"text": "Donate",
+"href": "http://secure.actblue.com/donate/mechamforiowa"
+},
+{
+"text": "HOME",
+"href": "https://www.mecham4iowa.com"
+},
+{
+"text": "Learn More",
+"href": "https://www.mecham4iowa.com/about-2"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MechamforIowa/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mechamforiowa"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@mecham.for.iowa"
+}
 ]

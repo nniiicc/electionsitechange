@@ -1,7 +1,9 @@
-Contribute
-Thank you for investing in our campaign!
+About Meet John Priorities Facebook Endorsements Photos Contact Volunteer Volunteer Make Endorsement Contribute Contribute Contribute Thank you for investing in our campaign!
 We will receive 100% of all checks sent directly to us at 115 Lynx Street Valley Springs, SD 57068.
 All contributions online will have a 3% service fee.
 Contributions are limited to $1,000 a person.
 Thank you for your generosity!
 We couldn't do this without you!
+Complete your $ 10 contribution: Select Your Information Choose an amount: $1000 $500 $250 $100 $50 $25 $15 $10 Other Amount $ Choose payment method: Credit Card Mail a Contribution First Name * Last Name * Email * Phone Address * Address 2 City/Town * State * Alaska Alabama Arkansas Arizona California Colorado Connecticut District of Columbia Delaware Florida Georgia Hawaii Iowa Idaho Illinois Indiana Kansas Kentucky Louisiana Massachusetts Maine Maryland Michigan Minnesota Missouri Mississippi Montana North Carolina North Dakota Nebraska New Hampshire New Jersey New Mexico Nevada New York Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Virginia Vermont Washington Wisconsin West Virginia Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific American Samoa Micronesia Guam Marshall Islands Northern Mariana Islands Palau Puerto Rico Virgin Islands Zip * Occupation Employer Please add me to your public list of supporters I will put a sign in my yard I will help distribute literature I will talk to my neighbors I will go door-to-door I will write a letter to the Editor I will host a meet & greet Add $ 0.00 to help cover PayPal processing fees?
+Add $ 0.00 to help cover card processing fees?
+Submit Contribution Endorsements Photos Contribute Facebook Contact Privacy Policy Terms And Conditions Sjaarda for SD Powered by CampaignPartner.com - Political Websites Home About Priorities Endorsements Contribute Volunteer Contact Close Menu

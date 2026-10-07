@@ -1,6 +1,2 @@
-Back to All Events
-Get out and VOTE!
-Previous
-Previous
-October 20
-Get out and VOTE!
+0 Skip to Content Home Calendar Meet Jeff Get Involved Donate Open Menu Close Menu Home Calendar Meet Jeff Get Involved Donate Open Menu Close Menu Home Calendar Meet Jeff Get Involved Donate Back to All Events Election Day Tuesday, November 3, 2026 6:00 AM 7:00 PM Google Calendar ICS Get out and VOTE!
+Previous Previous October 20 No Excuse Early Voting PAID FOR BY CITIZENS FOR JEFF MARTIN, BRETT EURITT, TREASURER

@@ -1,7 +1,4 @@
-About John Kroll
-DETERMINED TO MAKE A POSITIVE DIFFERENCE FOR WAUSAU AND MARATHON COUNTY
-I'm Running for Assembly District 85 to Serve You
-I’m John Kroll and I was born in and raised in Necedah, WI population 900.
+top of page HOME ABOUT ISSUES CONNECT Menu Close DONATE About John Kroll DETERMINED TO MAKE A POSITIVE DIFFERENCE FOR WAUSAU AND MARATHON COUNTY I'm Running for Assembly District 85 to Serve You I’m John Kroll and I was born in and raised in Necedah, WI population 900.
 Now, my wife and I are raising our two daughters in Wausau.
 We love Wausau and Marathon County, but everyday costs – childcare, property taxes, utility bills – are through the roof and families can’t keep up.
 Meanwhile big corporations make record profits.
@@ -23,3 +20,5 @@ Meanwhile in Madison, Pat Snyder is part of the problem.
 He’s siding with big corporations and billionaires and leaving hard working Wisconsinites behind.
 This year, we have an opportunity to bring Wisconsin values back to the state legislature, so we can make health care more affordable, bring down costs for working families, and provide the best education opportunities for our kids.
 That’s why I’m running for the Assembly.
+Privacy Policy Back to Top © # - Paid for by Friends of John Kroll, John Kroll, Treasurer.
+HOME ABOUT ISSUES CONNECT bottom of page

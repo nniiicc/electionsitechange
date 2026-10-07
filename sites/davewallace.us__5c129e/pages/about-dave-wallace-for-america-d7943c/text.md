@@ -1,5 +1,4 @@
-ABOUT DAVE
-Businessman.
+Facebook X LinkedIn MENU ABOUT DAVE ABOUT DAVE OUR BELIEFS OUR MISSION OUR GOAL VOLUNTEER ENDORSEMENTS VIDEOS CALENDAR VOTING INFORMATION REQUEST A MAIL IN BALLOT VOTER REGISTRATION REDISTRICTING PRIVACY POLICY ABOUT DAVE Businessman.
 Scientist.
 Marylander.
 Problem Solver.
@@ -19,13 +18,11 @@ He has participated in international forums addressing energy security, economic
 His work has focused on advancing policies that strengthen prosperity, security, and human dignity both at home and abroad.
 As a husband, father, and grandfather, Dave understands that strong families are the foundation of strong communities.
 Married to his wife Barbara for more than three decades, he believes that commitment, faith, personal responsibility, and perseverance remain essential American values.
-Dave’s philosophy is simple:
-Government works best when it empowers people—not politicians.
+Dave’s philosophy is simple: Government works best when it empowers people—not politicians.
 America’s future depends on restoring common sense, strengthening our Constitutional Republic, protecting individual liberty, encouraging free enterprise, and creating opportunity for every citizen willing to work hard and pursue their dreams.
 Dave Wallace has spent his life building, creating, and solving problems.
 He is running for Congress to bring that same real-world experience, practical leadership, and unwavering commitment to the people of Maryland and the nation he loves.
-MY MISSION
-Today, Dave Wallace is running because too many politicians have stopped listening to the American people.
+MY MISSION Today, Dave Wallace is running because too many politicians have stopped listening to the American people.
 Families are struggling under inflation.
 Energy prices remain too high.
 Communities are less safe.
@@ -35,18 +32,7 @@ Working Americans are falling behind.
 And trust in government institutions continues to erode.
 Meanwhile, establishment politicians continue offering slogans, excuses, and division instead of practical solutions.
 Dave Wallace believes Maryland and America need COMMON SENSE leadership again.
-Leadership that supports:
-• Safe communities and respect for law enforcement
-• Strong families and parental rights
-• Affordable energy and lower costs
-• Secure borders and national sovereignty
-• Election integrity and public trust
-• Fiscal discipline and accountability
-• Skilled trades, manufacturing, and vocational education
-• REINDUSTRIALIZING America and restoring economic opportunity
-• Merit, opportunity, and equal justice under law
-• Faith, family, liberty, and the pursuit of happiness
-Dave believes America succeeds when government empowers citizens — not when citizens become dependent upon government.
+Leadership that supports: • Safe communities and respect for law enforcement • Strong families and parental rights • Affordable energy and lower costs • Secure borders and national sovereignty • Election integrity and public trust • Fiscal discipline and accountability • Skilled trades, manufacturing, and vocational education • REINDUSTRIALIZING America and restoring economic opportunity • Merit, opportunity, and equal justice under law • Faith, family, liberty, and the pursuit of happiness Dave believes America succeeds when government empowers citizens — not when citizens become dependent upon government.
 He believes working people deserve to keep more of what they earn.
 He believes America must restore domestic tranquility, public safety, economic strength, and national unity.
 And he believes the people of Maryland deserve representation independent of the political machine that has failed so many communities for so long.
@@ -60,3 +46,8 @@ In Triumph of Life, Liberty, and the Pursuit of Happiness!
 Our movement needs continued support through donations to combat the special-interest, crony money being funneled to establishment politicians.
 I ask you for your generous support to fight for you to Restore America.
 Your donation large or small is most appreciated.
+DONATE Share This Page On Follow Dave on Paid for by Wallace For America Friends Of Wallace TERMS OF SERVICE PRIVACY POLICY CONTACT DAVE 9 Westminster Shopping Center | Suite 105 | Westminster MD 21157 BY ADDING YOUR NAME, YOU BECOME A MEMBER OF WALLACE FOR AMERICA.
+BY THE CHOICE OF COMMUNICATION CHANNELS YOU EITHER CHOOSE/AGREE TO RECEIVE EMAILS OR TEXT MESSAGES OR BOTH.
+MESSAGE AND DATA RATES MAY APPLY.
+MESSAGE FREQUENCY VARIES.
+TEXT STOP TO OPT-OUT OR HELP FOR HELP Facebook X LinkedIn

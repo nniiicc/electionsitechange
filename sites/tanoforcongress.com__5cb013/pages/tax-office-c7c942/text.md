@@ -1,7 +1,4 @@
-Webb County Judge and Tax Assessor clash over press release on recent Tax Office closure
-KGNS News
-08.12.24
-WEBB COUNTY, Tex.
+ABOUT ISSUES NEWS ENDORSEMENTS DONATE Tax Office Webb County Judge and Tax Assessor clash over press release on recent Tax Office closure KGNS News 08.12.24 WEBB COUNTY, Tex.
 (KGNS) - Webb County officials engaged in a heated argument, on Monday, August 12, at a commissioners court meeting over a press release issued by the Webb County Tax-Assessor Collector’s office regarding the recent temporary closure of the tax office.
 The dispute, which lasted nearly 20 minutes, centered on a sentence in the press release that criticized Webb County Judge Tano Tijerina.
 On Tuesday, August 6, the Webb County Tax Office announced that it would close temporarily for training after receiving a non-compliance notice from the Texas Department of Motor Vehicles related to motor vehicle registration and title services.
@@ -15,9 +12,7 @@ When the issue was brought up at the commissioners court meeting on Monday, Augu
 It’s quite disturbing,” Tijerina said.
 Tijerina revealed he was contacted by the state office on Tuesday, August 6, about the non-compliance issues.
 Tijerina said, “It’s disheartening because I find out this whole tax office situation is not in compliance; I had no idea what was going on.
-I asked [the Texas DMV official], ‘How long have we been not in compliance?’ [The Texas DMV official] said: ’2022, 2023, and 2024.’”
-Tijerina directly addressed Barrera: “What you’re saying [in the press release] is just about this year, but what about the last two years when they’ve given you an opportunity?”
-Judge Tijerina then responded to the claims of unsuccessfully securing additional funding, saying, “What does your non-compliance have to do with me?
+I asked [the Texas DMV official], ‘How long have we been not in compliance?’ [The Texas DMV official] said: ’2022, 2023, and 2024.’” Tijerina directly addressed Barrera: “What you’re saying [in the press release] is just about this year, but what about the last two years when they’ve given you an opportunity?” Judge Tijerina then responded to the claims of unsuccessfully securing additional funding, saying, “What does your non-compliance have to do with me?
 That’s the disheartening part.
 When Ms. [Rosie] Cuellar left office, I moved a motion to bring back 13 employees, and you have not asked for any more employees since then.” Rosie Cuellar, the previous tax assessor-collector, was in office from 2018 to 2020.
 Two videos were shown during the meeting.
@@ -31,8 +26,7 @@ It’s a unilateral decision.
 It doesn’t say ‘the court,’ it says ‘Tano Tijerina’ -- that part I’m not going to take lightly,” Tijerina said.
 He also questioned the necessity of the office closure, stating, “The DMV did tell me, after closing remarks, that the office did not have to be closed.
 You closed it all because you wanted to.
-Because of certain people that could have had training, you still could have had the office rotating and moving.”
-Barrera responded to criticism of the closure, saying she was not informed by the state until Tuesday, August 6, and that she was offended by how the Texas DMV handled the situation.
+Because of certain people that could have had training, you still could have had the office rotating and moving.” Barrera responded to criticism of the closure, saying she was not informed by the state until Tuesday, August 6, and that she was offended by how the Texas DMV handled the situation.
 “We sent an email to the person who did the audit and offered certain dates, one in July and one in August.
 It would’ve been a two-day training for us to close and we would have the least impact on the taxpayers because of the time of the month,” Barrera said.
 She also mentioned issues with a former employee and suspected fraud and that the Texas Rangers were notified about the issue.
@@ -44,15 +38,12 @@ I can understand that you’re saying they didn’t follow their own code, but t
 They called him, out of the blue, and we all got notified.
 If they didn’t call you, that’s not our fault.
 That’s definitely not his fault.
-I think his ire is with the press release.”
-Tijerina also addressed the severity of the closure.
+I think his ire is with the press release.” Tijerina also addressed the severity of the closure.
 “This is the first time in history they have shut down an office this size; that was embarrassing,” he said.
-To which Barrera responded, “How do you think I felt?”
-Commissioner for Precinct 1, Jesse Gonzalez, reiterated points about staffing and the press release, noting Barrera’s claims on the support needed for the tax office.
+To which Barrera responded, “How do you think I felt?” Commissioner for Precinct 1, Jesse Gonzalez, reiterated points about staffing and the press release, noting Barrera’s claims on the support needed for the tax office.
 Barrera said, “Back in 1993 when I got elected, we had 34 employees.
 In 2014, 20 years later we had 51.
-So, it was a 66% increase.”
-“So, you’re still trying to blame us?” Tijerina asked.
+So, it was a 66% increase.” “So, you’re still trying to blame us?” Tijerina asked.
 Ultimately, Tijerina emphasized his support for Barrera and her office.
 “I have nothing against you, but for you to do this, it was dirty politics, and I don’t appreciate that,” Tijerina stated.
 Former Webb County Tax Assessor Rosie Cuellar also spoke out, criticizing Barrera’s handling of the situation.
@@ -62,3 +53,4 @@ Barrera to ignore it is unacceptable.
 It shows her incompetence and is a disservice to the public,” Cuellar said.
 The case remains under investigation.
 The tax office has resumed regular operations and is open Monday through Friday from 9 a.m. to 4 p.m.
+PRIVACY POLICY PAID FOR BY TANO TIJERINA FOR CONGRESS Share by:

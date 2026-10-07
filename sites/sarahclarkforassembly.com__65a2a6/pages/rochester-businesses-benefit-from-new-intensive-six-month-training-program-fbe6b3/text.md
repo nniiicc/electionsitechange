@@ -1,4 +1,3 @@
-“Four local businesses are now graduates of a six-month business intensive program, called 10,000 Small Businesses, hosted by Goldman-Sachs.
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate Rochester businesses benefit from new intensive six-month training program February 11, 2022 “Four local businesses are now graduates of a six-month business intensive program, called 10,000 Small Businesses, hosted by Goldman-Sachs.
 All of the businesses were nominated by Assemblywoman Sarah Clark of the 136th district.
-Clark started the partnership in 2021, and looks to continue it in 2022.”
-Rochester businesses benefit from new intensive six-month training program, February 10, 2022 via RochesterFirst
+Clark started the partnership in 2021, and looks to continue it in 2022.” Rochester businesses benefit from new intensive six-month training program , February 10, 2022 via RochesterFirst small business Post navigation Lawmakers Push for $# Billion Toward Universal Child Care Access in NY Expanding Child Care Subsidies Would Lift 84K New Yorkers Out of Poverty, Report Finds Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

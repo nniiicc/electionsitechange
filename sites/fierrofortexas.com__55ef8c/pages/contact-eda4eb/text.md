@@ -1,1 +1,2 @@
-General election: Early Voting on October 19 - October 30, 2026 ELECTION DAY on Tuesday - NOVEMBER 3, 2026
+top of page General election: Early Voting on October 19 - October 30, 2026 ELECTION DAY on Tuesday - NOVEMBER 3, 2026 Meet Martha Get Involved Issues Endorsements Contact DONATE Donate info@fierrofortexas.com Houston, Texas Privacy Policy Accessibility Statement Terms & Conditions Stay up to date Email address * Phone number Yes, I agree to receive marketing emails. * SUBSCRIBE © # by The Fierro for Congress Campaign.
+Powered and secured by Wix bottom of page

@@ -1,23 +1,4 @@
-About
-Priorities
-Get Involved
-Contact
-Moho ʻĀina
-Shop Merch
-Donate
-About
-Priorities
-Get Involved
-Contact
-Moho ʻĀina
-Shop Merch
-Donate
-Get in touch.
+About Priorities Get Involved Contact Moho ʻĀina Shop Merch Donate About Priorities Get Involved Contact Moho ʻĀina Shop Merch Donate Get in touch.
 Reach the campaign by email, phone, or mail.
-We answer.
-aloha@kalehuaforhawaii.com
-(808) 207-2913
-Kalehua for Hawaiʻi
-PO Box 410
-Waiʻanae, HI 96792
-Find us on social.
+We answer. aloha@kalehuaforhawaii.com (808) 207-2913 Kalehua for Hawaiʻi PO Box 410 Waiʻanae, HI 96792 Find us on social. kalehua kaopua Candidate for House District 45.
+Keawaula · Mākaha · Waiʻanae PO Box 410, Waiʻanae HI 96792 aloha@kalehuaforhawaii.com (808) 207-2913 About Priorities Get Involved Contact Donate Paid for by Kalehua for Hawaiʻi · PO Box 410 · Waiʻanae, HI 96792

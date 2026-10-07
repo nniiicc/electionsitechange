@@ -1,5 +1,4 @@
-Meet Houston
-Houston was born and raised in Athens, where he still lives.
+Donate About Issues Volunteer News Endorsements Donate Meet Houston Houston was born and raised in Athens, where he still lives.
 He’s served in the State House since 2019 representing Barrow, Clarke, Jackson, and Oconee counties.
 Professionally, Houston has spent his career helping grow small businesses.
 Today, he works with Carter Engineering, where he's focused on expanding this successful small business in Oconee County.
@@ -14,3 +13,11 @@ He helped craft legislation to rein in rogue district attorneys, like Fani Willi
 Houston and his wife, Gabrielle, attend Athens Church.
 He is an 8th generation northeast Georgian.
 The first Gaines came to Elbert County in the late 1700s; his grandfather, Judge Joseph Gaines, served as a Superior Court Judge in Clarke and Oconee counties.
+JOIN TEAM GAINES First Name (Required) Last Name (Required) Email (Required) Phone Consent By submitting this form and signing up for texts, you consent to receive text messages (GOTV, informational, and political donations may also be solicited) from Gaines for Congress Gaines at the number provided, including messages sent by auto-dialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available in the message).
+Reply HELP for help.
+See Privacy Policy & Terms and Conditions .
+JOIN Media Center Paid for by Gaines for congress PRIVACY POLICY · TERMS AND CONDITIONS About Issues Volunteer News Endorsements Donate

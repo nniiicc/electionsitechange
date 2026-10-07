@@ -1,5 +1,4 @@
-WIll’s Story
-A native of Cameroon, Will Mbah’s parents passed away when he was a young boy.
+0 Skip to Content In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Folder: Issues Back Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate WIll’s Story Will with his wife, Christelle, and two children A native of Cameroon, Will Mbah’s parents passed away when he was a young boy.
 He was raised by his extended family and foster parents.
 Will took an early interest in environmental issues after he saw the impact fossil fuel extraction had on the Niger River Delta and in his own community.
 He pursued a degree in environmental studies at the University of Buea in Cameroon.
@@ -28,3 +27,5 @@ After serving on Somerville City Council for nearly a decade, Will has seen just
 He has seen the will of the people of Somerville and Medford stifled or unnecessarily delayed because of closed-door deliberations at the State House.
 Instead of submitting endless Home Rule petitions to Beacon Hill, Will wants to ensure his constituents are represented directly and proactively at the state level.
 Will lives in West Somerville with his wife Christelle and his two children, Joel and Grace.
+JOIN WILL’S FIGHT TO MAKE Massachusetts A COMMonwealth FOR All Donate Paid for by the Mbah Committee 42A Linden Ave.
+#2, Somerville MA 02143 Get Involved Donate

@@ -1,32 +1,22 @@
-Cracking Down on Wage Theft
-More money is stolen from Kentuckians through wage theft than through all other forms of theft combined.
+Facebook X Instagram Meet Robert Platform Education Labor Strong Communities Housing Wage Theft A Green New Deal for Kentucky Mental Health and Addiction Volunteer Donate Contact Merch Yard Sign Select Page Cracking Down on Wage Theft More money is stolen from Kentuckians through wage theft than through all other forms of theft combined.
 For too long, employers have robbed Kentucky workers without facing any real consequences.
 It’s time to crack down on law-breaking bosses.
-That’s why, if elected, I would introduce the Cracking Down on Wage Theft Act.
+That’s why, if elected, I would introduce the Cracking Down on Wage Theft Act .
 The Cracking Down on Wage Theft Act would close several loopholes in Kentucky’s existing wage theft laws, give workers and courts more power to hold law-breaking bosses accountable, and increase the penalties on repeat offenders.
 Key among these provisions is the Three Strikes policy: employers who have been found to have committed wage theft shall, at the discretion of their employees who had their wages stolen, be subject to a corporate death penalty.
 That means that bosses who have repeatedly shown they cannot be trusted to responsibly run a business in the state of Kentucky will not be allowed to run a business in the state of Kentucky.
 This law would give workers and courts the tools to fight law-breaking bosses, and send those bosses a clear message: follow the law or suffer the consequences.
-The Cracking Down on Wage Theft Act will:
-- Close the loopholes excluding retail, restaurant, hotel, residential care, and in-home companionship workers (repeal 337.285(2)).
-- Allocate funds to double the Department of Workplace Standards’ enforcement staff, and establish a public wage theft restitution fund.
-- Make clear that this is a floor, not a ceiling, and that subdivisions of the state are free to legislate improvements to working conditions.
-- Create an easily-accessible public database of alleged violations of the wage theft and other workplace laws by employer
-- Mandate notice to all of an employer’s employees if the Department of Workplace Standards or a court finds them to have violated workplace laws, with plaintiffs and their counsel having an explicit right to supervise and oversee such notice to ensure compliance.
-- Make it clear that there is individual and strong successor liability to circumvent tactics to avoid payment of stolen wages
-- Empower courts to provide injunctive relief where appropriate (amend 337.385)
-- Provide that in all wage theft actions, the court should require that the employer put up a wage bond in the amount of double the amount of wages stolen, guaranteeing that future wage theft actions are collectible (amend 337.385)
-- Clearly establish associational standing for unions and workers organizations to bring wage theft complaints on behalf of organizational members
-- Establish a cause of action to seek damages and injunctive relief for those harmed by wage theft as an anti-competitive practice, including law-abiding business, workers, and worker organizations in the same industry.
-- Provide for, in cases of retaliation, compensatory damages plus punitive damages in the amount of $20,000 (pegged to the CPI to adjust for inflation) for each instance of retaliation;
-- Reverse the 2024 state law that shortened the statute of limitations (the time period after an instance of wage theft a worker has to bring suit) from five years to three years.
-- Mandate that no wage theft causes of action may be settled privately; all such settlements must be filed as part of an action on the public docket with the court approving the settlement (provide for waiver of filing fees where action is filed along with a stipulated settlement);
-- Switch from a flat liquidated damages process of double damages currently in the statute to one based on time elapsed from violation: 5% a month for the first 12 months, 10% a month for the next 24 months, and then starting in the 37th month, 15%+1% a month past the 36th month.
+The Cracking Down on Wage Theft Act will: Close the loopholes excluding retail, restaurant, hotel, residential care, and in-home companionship workers (repeal 337.285(2)).
+Allocate funds to double the Department of Workplace Standards’ enforcement staff , and establish a public wage theft restitution fund.
+Make clear that this is a floor, not a ceiling , and that subdivisions of the state are free to legislate improvements to working conditions.
+Create an easily-accessible public database of alleged violations of the wage theft and other workplace laws by employer Mandate notice to all of an employer’s employees if the Department of Workplace Standards or a court finds them to have violated workplace laws, with plaintiffs and their counsel having an explicit right to supervise and oversee such notice to ensure compliance.
+Make it clear that there is individual and strong successor liability to circumvent tactics to avoid payment of stolen wages Empower courts to provide injunctive relief where appropriate (amend 337.385) Provide that in all wage theft actions, the court should require that the employer put up a wage bond in the amount of double the amount of wages stolen, guaranteeing that future wage theft actions are collectible (amend 337.385) Clearly establish associational standing for unions and workers organizations to bring wage theft complaints on behalf of organizational members Establish a cause of action to seek damages and injunctive relief for those harmed by wage theft as an anti-competitive practice, including law-abiding business, workers, and worker organizations in the same industry.
+Provide for, in cases of retaliation, compensatory damages plus punitive damages in the amount of $20,000 (pegged to the CPI to adjust for inflation) for each instance of retaliation; Reverse the 2024 state law that shortened the statute of limitations (the time period after an instance of wage theft a worker has to bring suit) from five years to three years.
+Mandate that no wage theft causes of action may be settled privately; all such settlements must be filed as part of an action on the public docket with the court approving the settlement (provide for waiver of filing fees where action is filed along with a stipulated settlement); Switch from a flat liquidated damages process of double damages currently in the statute to one based on time elapsed from violation: 5% a month for the first 12 months, 10% a month for the next 24 months, and then starting in the 37th month, 15%+1% a month past the 36th month.
 This not only disincentivizes employer intransigence, it also limits the liability of employers who quickly rectify an honest mistake.
-- And impose a Three Strikes Policy on Wage Theft: First strike of committing wage theft is the liquidated damages calculation listed above plus posting a wage bond.
+And impose a Three Strikes Policy on Wage Theft: First strike of committing wage theft is the liquidated damages calculation listed above plus posting a wage bond.
 Second strike is double the unpaid wages and liquidated damages calculation listed above plus a wage bond, plus a mandatory 5-year injunction against violating any part of Chapter 337 (Wages and Hours) allowing for continuing court oversight.
 Third strike is triple the unpaid wages and liquidated damages listed above, a commensurate wage bond, and, if requested by the workers bringing suit, the corporate death penalty: The court shall mandate that the employer will be permanently prohibited from owning or operating a business or having employees in the state of Kentucky, with the workers being offered the opportunity to take over the business before any other divestment.
-SUPPORT ROBERT
-Robert is rejecting ALL corporate donations and developer dollars.
-His campaign is sustained by grassroots donors like you.
-If you've saved payment info with ActBlue Express, your donation will go through immediately.
+SUPPORT ROBERT Robert is rejecting ALL corporate donations and developer dollars.
+His campaign is sustained by grassroots donors like you. $# $# $# $# $# Other If you've saved payment info with ActBlue Express, your donation will go through immediately.
+Paid for by the Committee to Elect Robert Bell Designed by Elegant Themes | Powered by WordPress

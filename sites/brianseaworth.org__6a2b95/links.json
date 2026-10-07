@@ -1,9 +1,46 @@
 [
-"https://brianseaworth.org/",
-"https://brianseaworth.org/about",
-"https://brianseaworth.org/blog",
-"https://brianseaworth.org/contact",
-"https://brianseaworth.org/volunteer",
-"https://facebook.com/RepBrianSeaworth",
-"https://famethemes.com/themes/onepress"
+{
+"text": "About",
+"href": "https://brianseaworth.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://brianseaworth.org/blog/"
+},
+{
+"text": "Brian Seaworth",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "Contact",
+"href": "https://brianseaworth.org/#contact"
+},
+{
+"text": "Grades",
+"href": "https://brianseaworth.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://brianseaworth.org/"
+},
+{
+"text": "OnePress",
+"href": "https://www.famethemes.com/themes/onepress"
+},
+{
+"text": "Volunteer",
+"href": "https://brianseaworth.org/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://brianseaworth.org/volunteer/"
+},
+{
+"text": "[tooltip: email]",
+"href": "mailto:brian@brianseaworth.org"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/RepBrianSeaworth"
+}
 ]

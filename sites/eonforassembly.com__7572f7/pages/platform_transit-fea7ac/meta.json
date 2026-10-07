@@ -1,7 +1,11 @@
 {
  "description": "Fix the MTA, make buses fast and free, and build protected bike lanes throughout the district.",
  "final_url": "https://eonforassembly.com/platform/transit",
+ "fingerprint": "ac99ecc9953044c6c72bf3064ba9076f3a326543",
+ "format": 3,
  "paid_for_by": "Paid for by Eon Huntley 2026",
- "title": "Transit \u2013 Eon Huntley for Assembly",
- "years_mentioned": []
+ "title": "Transit – Eon Huntley for Assembly",
+ "years_mentioned": [
+  "2026"
+ ]
 }

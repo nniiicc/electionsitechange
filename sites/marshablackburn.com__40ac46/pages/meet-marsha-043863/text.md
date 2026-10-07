@@ -1,6 +1,4 @@
-Meet Marsha
-Continuing the Fight for Conservative Values
-President Donald Trump is Making America Great Again and ushering in a Golden Age in America, but as he returns power to the states, Tennessee needs a strong conservative governor who will carefully guard Tennessee’s conservative values and ensure our state continues to lead the nation.
+Skip to main content Skip to footer Home Meet Marsha Issues Bell to Bell: No Cell In The News Join Us Join The Team Team Store Donate Meet Marsha Continuing the Fight for Conservative Values President Donald Trump is Making America Great Again and ushering in a Golden Age in America, but as he returns power to the states, Tennessee needs a strong conservative governor who will carefully guard Tennessee’s conservative values and ensure our state continues to lead the nation.
 A strong economy means a strong Tennessee, and Marsha will always fight for freedom, free people, and free markets.
 She’ll continue to lead the fight to keep men out of women’s sports, protecting Tennessee girls.
 And she’ll keep Tennesseans safe by supporting President Trump’s mass deportations and removing ineffective, do-nothing, Soros-funded District Attorneys.
@@ -13,15 +11,21 @@ Her mother often reminded her and her siblings to leave things in better shape t
 The exceptional work ethic that carried her through these experiences became a staple of her career and of her public service.
 Marsha learned that there is no substitute for ringing someone’s doorbell and listening to what they have to say: a lesson—and practice—she holds close to this day.
 She and her husband Chuck have been married for 50 years and have two children and four grandchildren, who call her Marshie and look forward to Sunday lunches together after church.
-Called to Service
-Marsha stepped into public service in 1995 as executive director of the Tennessee Film, Entertainment, and Music Commission, beginning a long-time partnership with the music and entertainment community — a vital part of Tennessee’s culture.
+Called to Service Marsha stepped into public service in 1995 as executive director of the Tennessee Film, Entertainment, and Music Commission, beginning a long-time partnership with the music and entertainment community — a vital part of Tennessee’s culture.
 She was then elected to the Tennessee State Senate in 1998.
 While serving in the Tennessee State Senate, Marsha led a successful statewide grassroots campaign to defeat a proposed state income tax, taking on Democrats and members of her own party.
 While defeating the tax, she quickly became known as a champion of anti-tax and government accountability issues.
-She went on to serve Middle and West Tennessee in Congress, where she continued to stand strongly by her commitment to fiscal common sense and government accountability, repeatedly advocating for fewer regulations and policies that enable businesses to grow.
+T E N N E S S E E V A L U E S F I R S T • T E N N E S S E E V A L U E S A L W A Y S • T E N N E S S E E V A L U E S F I R S T • She went on to serve Middle and West Tennessee in Congress, where she continued to stand strongly by her commitment to fiscal common sense and government accountability, repeatedly advocating for fewer regulations and policies that enable businesses to grow.
 There, she fought Planned Parenthood and stopped the sale of baby body parts.
 She established a reputation as a fighter for Fort Campbell and our troops.
 In 2018, Marsha was the first female Senator elected from the state of Tennessee.
 She fights every day for President Donald Trump’s America First agenda, to keep men out of girls’ sports, hold big tech accountable, defend life, protect American farmland from Communist China, secure our borders, and deport all illegal aliens.
 She’s always fought government overreach, but one of her biggest victories was repealing the COVID-19 vaccine mandate for servicemembers and fighting to have their pay reinstated.
-Leaving things in better shape than you found them
+Leaving things in better shape than you found them Meet Marsha Issues Team Store In the news Join Us Donate Endorse Endorsement Submissions Privacy Policy Marsha Blackburn for Governor PO BOX 336 Brentwood, TN 37024 info@marshablackburn.com Paid for and authorized by Marsha for Governor -- Treasurer Glenn Jacobs Please provide your mobile phone to opt-in to Marsha for Governor’s campaign alerts, updates and news.
+By providing your phone number, you are consenting to receive calls and texts, including automated calls and texts, to that number.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+Reply STOP to cancel.
+Reply HELP for help.
+By law the maximum amount an individual may contribute to Marsha for Governor is $10,600.
+By contributing I confirm that my contribution should first be designated to the 2026 primary election, up to the maximum contribution limit of $5,300; then to the 2026 general election, up to the maximum contribution limit of $5,300.

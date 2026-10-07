@@ -1,35 +1,158 @@
 [
-"http://cvs.co/39EU4aB",
-"https://accelerate.sc.gov/",
-"https://facebook.com/SCHouseGOP",
-"https://facebook.com/popeforhouse47",
-"https://governor.sc.gov/",
-"https://joshethan.com/",
-"https://linkedin.com/in/tommy-pope-94a54232",
-"https://postandcourier.com/columbia/business/bill-to-allow-home-delivery-of-beer-wine-in-sc-advances-amid-pandemics-shopping-changes/article_c0e4ea10-664d-11eb-a292-9fdbdd24d60b.html",
-"https://sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program",
-"https://scdhec.gov/covid19/covid-19-vaccine",
-"https://scstatehouse.gov/index.php",
-"https://tommypope.com/",
-"https://tommypope.com/contact",
-"https://tommypope.com/contact-tommy",
-"https://tommypope.com/district-map",
-"https://tommypope.com/join",
-"https://tommypope.com/legislative-update-budget",
-"https://tommypope.com/legislative-update-for-2021",
-"https://tommypope.com/legislative-update-may-10-2021",
-"https://tommypope.com/legislative-update-may-17-2021",
-"https://tommypope.com/legislative-update-week-3-2021",
-"https://tommypope.com/legislative-update-week-5-2021",
-"https://tommypope.com/legislative-updates",
-"https://tommypope.com/meet-tommy",
-"https://tommypope.com/privacy-policy",
-"https://tommypope.com/support",
-"https://tommypope.com/terms-and-conditions",
-"https://twitter.com/SCHouseGOP",
-"https://twitter.com/tommypopesc?lang=en",
-"https://vaxlocator.dhec.sc.gov/",
-"https://wltx.com/article/news/health/coronavirus/vaccine/south-carolina-vaccination-age-now-set-at-65/101-fee276ad-7ca9-46e0-bc4a-a5a8276c76ca",
-"https://wspa.com/news/candidate-to-lead-dhec-gets-approval-from-panel-of-sc-senators-vote-on-floor-soon",
-"https://youtube.com/user/tommypopeforhouse"
+{
+"text": "Contact Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "District Map",
+"href": "https://tommypope.com/district-map/"
+},
+{
+"text": "Donate",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/SCHouseGOP/"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/popeforhouse47/"
+},
+{
+"text": "Join the Pope Team",
+"href": "https://tommypope.com/join/"
+},
+{
+"text": "Josh Ethan",
+"href": "https://joshethan.com"
+},
+{
+"text": "Legislative Update for 2021",
+"href": "https://tommypope.com/legislative-update-for-2021/"
+},
+{
+"text": "Legislative Update- Budget",
+"href": "https://tommypope.com/legislative-update-budget/"
+},
+{
+"text": "Legislative Update- May 10, 2021",
+"href": "https://tommypope.com/legislative-update-may-10-2021/"
+},
+{
+"text": "Legislative Update- May 17, 2021",
+"href": "https://tommypope.com/legislative-update-may-17-2021/"
+},
+{
+"text": "Legislative Updates",
+"href": "https://tommypope.com/legislative-updates/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/tommy-pope-94a54232/"
+},
+{
+"text": "Meet Tommy",
+"href": "https://tommypope.com/meet-tommy/"
+},
+{
+"text": "NextNext",
+"href": "https://tommypope.com/legislative-update-week-5-2021/"
+},
+{
+"text": "PrevPrevious",
+"href": "https://tommypope.com/legislative-update-week-3-2021/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://tommypope.com/privacy-policy/"
+},
+{
+"text": "Reach Tommy",
+"href": "https://tommypope.com/contact/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-budget/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-for-2021/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-may-10-2021/"
+},
+{
+"text": "Read More »",
+"href": "https://tommypope.com/legislative-update-may-17-2021/"
+},
+{
+"text": "Support",
+"href": "https://tommypope.com/support/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://tommypope.com/terms-and-conditions/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/SCHouseGOP"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/tommypopesc?lang=en"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/user/tommypopeforhouse"
+},
+{
+"text": "[image]",
+"href": "https://tommypope.com"
+},
+{
+"text": "contact me",
+"href": "https://tommypope.com/contact-tommy/"
+},
+{
+"text": "http://cvs.co/39EU4aB",
+"href": "http://cvs.co/39EU4aB"
+},
+{
+"text": "https://accelerate.sc.gov",
+"href": "https://accelerate.sc.gov/"
+},
+{
+"text": "https://governor.sc.gov",
+"href": "https://governor.sc.gov/"
+},
+{
+"text": "https://scdhec.gov/covid19/covid-19-vaccine",
+"href": "https://scdhec.gov/covid19/covid-19-vaccine"
+},
+{
+"text": "https://vaxlocator.dhec.sc.gov",
+"href": "https://vaxlocator.dhec.sc.gov"
+},
+{
+"text": "https://www.postandcourier.com/columbia/business/bill-to-allow-home-delivery-of-beer-wine-in-sc-advances-amid-pandemics-shopping-changes/article_c0e4ea10-664d-11eb-a292-9fdbdd24d60b.html",
+"href": "https://www.postandcourier.com/columbia/business/bill-to-allow-home-delivery-of-beer-wine-in-sc-advances-amid-pandemics-shopping-changes/article_c0e4ea10-664d-11eb-a292-9fdbdd24d60b.html"
+},
+{
+"text": "https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program#section-header-0",
+"href": "https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program#section-header-0"
+},
+{
+"text": "https://www.scstatehouse.gov/index.php",
+"href": "https://www.scstatehouse.gov/index.php"
+},
+{
+"text": "https://www.wltx.com/article/news/health/coronavirus/vaccine/south-carolina-vaccination-age-now-set-at-65/101-fee276ad-7ca9-46e0-bc4a-a5a8276c76ca",
+"href": "https://www.wltx.com/article/news/health/coronavirus/vaccine/south-carolina-vaccination-age-now-set-at-65/101-fee276ad-7ca9-46e0-bc4a-a5a8276c76ca"
+},
+{
+"text": "https://www.wspa.com/news/candidate-to-lead-dhec-gets-approval-from-panel-of-sc-senators-vote-on-floor-soon/",
+"href": "https://www.wspa.com/news/candidate-to-lead-dhec-gets-approval-from-panel-of-sc-senators-vote-on-floor-soon/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.joelazumah.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "d01ab9daff192debc233757c99fb46a83339c39e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

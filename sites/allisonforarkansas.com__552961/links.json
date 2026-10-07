@@ -1,16 +1,86 @@
 [
-"http://rivetersolutions.com/",
-"https://allisonforarkansas.com/",
-"https://allisonforarkansas.com/about-allison",
-"https://allisonforarkansas.com/contact",
-"https://allisonforarkansas.com/issues",
-"https://allisonforarkansas.com/privacy-policy",
-"https://facebook.com/allisonforarkansas",
-"https://goodchange.app/donate/suppo-cd",
-"https://instagram.com/allisonforarkansas",
-"https://momsdemandaction.org/",
-"https://progressivearwomen.org/",
-"https://runforsomething.net/",
-"https://votemama.org/",
-"https://x.com/allisonforar"
+{
+"text": "About",
+"href": "https://allisonforarkansas.com/about-allison/"
+},
+{
+"text": "Contact",
+"href": "https://allisonforarkansas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://goodchange.app/donate/suppo-cd"
+},
+{
+"text": "Endorsed by PAWPAC",
+"href": "https://progressivearwomen.org"
+},
+{
+"text": "Endorsed by Run For Something",
+"href": "https://progressivearwomen.org"
+},
+{
+"text": "Endorsed by Vote Mama",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/allisonforarkansas/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/allisonforarkansas/"
+},
+{
+"text": "Moms Demand Action - Gun Sense Candidate",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "Privacy Policy",
+"href": "https://allisonforarkansas.com/privacy-policy/"
+},
+{
+"text": "Read More About the Issues",
+"href": "https://allisonforarkansas.com/issues"
+},
+{
+"text": "Riveter Solutions",
+"href": "http://www.rivetersolutions.com"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/allisonforar/"
+},
+{
+"text": "[image: logo for the organization vote mama]",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "[image]",
+"href": "https://allisonforarkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "[image]",
+"href": "https://progressivearwomen.org"
+},
+{
+"text": "momsdemandaction.org",
+"href": "https://momsdemandaction.org"
+},
+{
+"text": "progressivearwomen.org",
+"href": "https://progressivearwomen.org"
+},
+{
+"text": "runforsomething.net",
+"href": "https://runforsomething.net"
+},
+{
+"text": "votemama.org",
+"href": "https://www.votemama.org"
+}
 ]

@@ -1,5 +1,4 @@
-About Aisha
-My name is Aisha Gomez.
+0 Skip to Content Home About Aisha Endorsements Join Vision Accomplishments Donate Open Menu Close Menu Home About Aisha Endorsements Join Vision Accomplishments Donate Open Menu Close Menu Home About Aisha Endorsements Join Vision Accomplishments Donate About Aisha My name is Aisha Gomez .
 I’m a Southsider, an organizer, an environmentalist, a public servant, and a mom.
 I’m running for re-election to be you state representative for District 62A because I believe our district deserves a representative that will work, with, and for the community.
 I have a unique lived experience and community connections that will allow me to connect movement work to electoral politics to achieve concrete wins for our community.
@@ -22,5 +21,4 @@ I’ve had neighbors struggle to access healthcare and children deal with the he
 I’ve watched my ten year old son grow quickly, in a world where boys like him don’t have an equal chance at success.
 I’m running because I imagine a world where all people have an equal chance at success.
 I ask for your support so we can create that world, together.
-In community,
-Aisha
+In community, Aisha Home | About Aisha | Join Donate Contact: aishaforhouse@gmail.com Paid for by Neighbors for Aisha Gomez.

@@ -1,6 +1,4 @@
-Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire
-OC Register Voter Guide Questionnaire | May 6, 2026
-Ahead of the June primary election, the Southern California News Group compiled a list of questions to pose to the candidates who wish to represent you.
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire OC Register Voter Guide Questionnaire | May 6, 2026 Ahead of the June primary election, the Southern California News Group compiled a list of questions to pose to the candidates who wish to represent you.
 You can find the full questionnaire below.
 Questionnaires may have been edited for spelling, grammar, length and, in some instances, to remove hate speech and offensive language.
-Continue reading at: OC Register Voter Guide Questionnaire
+Continue reading at: OC Register Voter Guide Questionnaire Share on Facebook 𝕏 Share on X Share on Email DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

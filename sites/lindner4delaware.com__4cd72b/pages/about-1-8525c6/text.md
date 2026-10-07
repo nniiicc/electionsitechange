@@ -1,22 +1,6 @@
-top of page
-Endorsements, Distinctions, and Support
-Honored by the trust and support of our community.
+top of page Home Gregg's Message News & Media Endorsements Events Donate Family Get Involved Voting Contact Privacy Policy More Use tab to navigate through the menu items.
+Endorsements, Distinctions, and Support Honored by the trust and support of our community.
 Gregg is grateful to have the support of the following committees, organizations, and all Delawareans who believe in his commitment to honest leadership, practical solutions, and putting people first.
-Endorsed by the
-Delaware State Education Association
-Endorsed by the
-Delaware 4th Representative District Democratic Committee
-Endorsed by the
-Eastern Sussex Democrats
-Endorsed by
-Delaware Stonewall PAC
-Distinction Award
-Moms Demand Action
-For Gun Sense
-Endorsed by the
-Shore Democrats
-Endorsed by the
-Indivisible Southern Delaware
-Supported by the
-Delaware Democratic Party Pride Caucus
-bottom of page
+Endorsed by the Delaware State Education Association Endorsed by the Delaware 4th Representative District Democratic Committee Endorsed by the Eastern Sussex Democrats Endorsed by Delaware Stonewall PAC Endorsed by Delaware Coalition Against Gun Violence Endorsed by Save Our Sussex PAC Endorsed by the Delaware State AFL-CIO Distinction Award Moms Demand Action For Gun Sense Endorsed by the Shore Democrats Endorsed by the Indivisible Southern Delaware Supported by the Delaware Democratic Party Pride Caucus Endorsed by Trinidad Navarro, Delaware Insurance Commissioner SUBSCRIBE TO OUR NEWSLETTER Get the latest updates SUBSCRIBE Thanks for submitting!
+Home About Me Priorities News & Media Get Involved Donate Contact Voting Privacy Policy Gregg Lindner - DELAWARE DISTRICT 4 - DEMOCRAT © # Paid for by Lindner4Delaware Powered and secured by Wix ​ Lindner4Delaware P.O.
+Box #246 Millsboro, Delaware 19966 ​ Lindner4Delaware@gmail.com T: +1 302 259 8337 ​ bottom of page

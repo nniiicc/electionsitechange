@@ -1,4 +1,3 @@
-Request Information
-Contact Magdalaine
-Complete the form with contract information and Magdalaine will reach out to you as soon as possible.
+0 Skip to Content Meet Magdalaine On the Issues Contact & Yard Sign Donate Open Menu Close Menu Meet Magdalaine On the Issues Contact & Yard Sign Donate Open Menu Close Menu Meet Magdalaine On the Issues Contact & Yard Sign Donate Request Information Contact Magdalaine Complete the form with contract information and Magdalaine will reach out to you as soon as possible.
 Thank you for your interest in this campaign.
+Email: davisforindiana@gmail.com Phone: 574-500-5104 Facebook: Magdalaine Davis for State Representative District 26 Instagram: davis4staterep X/Twitter: davis4staterep Paid for by The Committee to Elect Maggie Davis Social Media ■

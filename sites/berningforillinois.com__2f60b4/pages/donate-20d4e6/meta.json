@@ -1,9 +1,9 @@
 {
  "description": "Support local candidates and donate to Berning for Illinois now! Join our donation campaign to strengthen our community and make a difference.",
  "final_url": "https://berningforillinois.com/donate",
- "paid_for_by": null,
+ "fingerprint": "3f40c8b006222709d1179e2e294eb15aad9793d7",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

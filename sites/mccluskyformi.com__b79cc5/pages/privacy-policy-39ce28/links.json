@@ -1,17 +1,66 @@
 [
-"https://facebook.com/profile.php?id=61577899130009",
-"https://instagram.com/mccluskyformi",
-"https://mccluskyformi.com/",
-"https://mccluskyformi.com/about-joseph",
-"https://mccluskyformi.com/cart",
-"https://mccluskyformi.com/contact",
-"https://mccluskyformi.com/endorsements",
-"https://mccluskyformi.com/espanol",
-"https://mccluskyformi.com/events",
-"https://mccluskyformi.com/media",
-"https://mccluskyformi.com/platform",
-"https://mccluskyformi.com/privacy-policy",
-"https://secure.actblue.com/donate/mccluskywebsite",
-"https://tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1",
-"https://x.com/mccluskyformi"
+{
+"text": "0",
+"href": "https://www.mccluskyformi.com/cart"
+},
+{
+"text": "About Joseph",
+"href": "https://www.mccluskyformi.com/about-joseph"
+},
+{
+"text": "Contact",
+"href": "https://www.mccluskyformi.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mccluskywebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccluskyformi.com/endorsements"
+},
+{
+"text": "Espanol",
+"href": "https://www.mccluskyformi.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "Media",
+"href": "https://www.mccluskyformi.com/media"
+},
+{
+"text": "Platform",
+"href": "https://www.mccluskyformi.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mccluskyformi.com/privacy-policy"
+},
+{
+"text": "[image: Joseph McClusky for State Representative]",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577899130009"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mccluskyformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mccluskyformi"
+}
 ]

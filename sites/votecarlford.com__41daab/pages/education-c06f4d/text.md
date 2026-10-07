@@ -1,4 +1,3 @@
-EDUCATION
-As a father of 4 and grandfather of 7, Carl understands the importance of education in North Carolina.
+Carl Ford Home Meet Carl Issues DONATE Contact Events Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Education Carl Ford Home / Meet Carl / Issues / DONATE / Contact / Events / EDUCATION As a father of 4 and grandfather of 7, Carl understands the importance of education in North Carolina.
 As a member of the House of Representatives and various Education committees, Carl has worked continuously to provide a better education system for current and future generations of students.
-He has served on various education committees and worked with his district on calendar flexibility and getting raises for our teachers and principals.
+He has served on various education committees and worked with his district on calendar flexibility and getting raises for our teachers and principals. “ North Carolina’s future is bright and I will continue to fight for a stronger education system. ” Home / Meet Carl / Issues / DONATE / Contact / Events / Carl Ford Request Yard Signs Volunteer Paid for by the Committee to Elect Carl Ford

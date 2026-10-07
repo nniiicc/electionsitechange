@@ -1,35 +1,210 @@
 [
-"https://50501ga.org/",
-"https://bsky.app/profile/hardenforcongress.bsky.social",
-"https://chris-harden-for-congress.printify.me/",
-"https://chris-harden-for-congress.printify.me/collection/pride-collection",
-"https://chris-harden-for-congress.printify.me/products",
-"https://electharden.com/",
-"https://electharden.com/accessibility-statement",
-"https://electharden.com/events",
-"https://electharden.com/more-about-chris",
-"https://electharden.com/news-media-new",
-"https://electharden.com/privacy-policy",
-"https://electharden.com/shop",
-"https://facebook.com/ChrisHardenforCongress",
-"https://facebook.com/chrishardenforcongress",
-"https://georgia.gov/view-sample-ballot",
-"https://georgiaaflcio.org/",
-"https://gunsensevoter.org/",
-"https://instagram.com/chrishardenforcongress",
-"https://mentalhealthnow.us/",
-"https://momsdemandaction.org/",
-"https://mvp.sos.ga.gov/s",
-"https://reproductivefreedomforall.org/",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=100",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=25",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=5",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=50",
-"https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=500",
-"https://tiktok.com/@chrishardenforcongress",
-"https://ufcw.org/",
-"https://votecommongood.com/candidates-for-common-good-2026",
-"https://x.com/harden4congress",
-"https://youtube.com/@ChrisHardenforCongress"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=5"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true&amount=500"
+},
+{
+"text": "404-480-3155",
+"href": "tel:4044803155"
+},
+{
+"text": "ABOUT CHRIS",
+"href": "https://www.electharden.com/more-about-chris"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.electharden.com/accessibility-statement"
+},
+{
+"text": "Add",
+"href": "https://chris-harden-for-congress.printify.me/collection/pride-collection"
+},
+{
+"text": "CHECK YOUR VOTER STATUS",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "CONTACT US",
+"href": "mailto:info@chrishardenforcongress.com?subject=Website+Inquiry"
+},
+{
+"text": "Contact",
+"href": "mailto:info@chrishardernforcongress.com?subject=Website+Inquiry"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true"
+},
+{
+"text": "Donate",
+"href": "https://www.electharden.com"
+},
+{
+"text": "EVENTS",
+"href": "https://www.electharden.com/events"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "FIND YOUR SAMPLE BALLOT",
+"href": "https://georgia.gov/view-sample-ballot"
+},
+{
+"text": "FIND YOUR VOICE",
+"href": "https://www.electharden.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/chrishardenforcongress"
+},
+{
+"text": "HOME",
+"href": "https://www.electharden.com"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/chrishardenforcongress/"
+},
+{
+"text": "Media Inquiry",
+"href": "mailto:info@chrishardernforcongress.com?subject=Media+Inquiry"
+},
+{
+"text": "NEWS",
+"href": "https://www.electharden.com/news-media-new"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/chris-harden4congress?express_lane=true"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.electharden.com/news-media-new"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.electharden.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electharden.com/privacy-policy"
+},
+{
+"text": "READ MORE",
+"href": "https://www.electharden.com/more-about-chris"
+},
+{
+"text": "SHOP",
+"href": "https://chris-harden-for-congress.printify.me/"
+},
+{
+"text": "Shop",
+"href": "https://www.electharden.com/shop"
+},
+{
+"text": "Shop Now",
+"href": "https://chris-harden-for-congress.printify.me/products"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@chrishardenforcongress"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.electharden.com"
+},
+{
+"text": "WHAT CHRIS HEARS ACROSS THE DISTRICT",
+"href": "https://www.electharden.com/news-media-new"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisHardenforCongress"
+},
+{
+"text": "[image: Bluesky_logo_(black).svg]",
+"href": "https://bsky.app/profile/hardenforcongress.bsky.social"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ChrisHardenforCongress"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/chrishardenforcongress/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@chrishardenforcongress"
+},
+{
+"text": "[image: X]",
+"href": "https://x.com/harden4congress"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@ChrisHardenforCongress"
+},
+{
+"text": "[image]DISTINCTION",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[image]DISTINCTION",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://georgiaaflcio.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://gunsensevoter.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://reproductivefreedomforall.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://www.50501ga.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://www.ufcw.org/"
+},
+{
+"text": "[image]ENDORSEMENT",
+"href": "https://www.votecommongood.com/candidates-for-common-good-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://www.electharden.com/more-about-chris"
+},
+{
+"text": "[no text]",
+"href": "https://www.electharden.com/news-media-new"
+},
+{
+"text": "info@chrishardenforcongress.com",
+"href": "mailto:info@chrishardenforcongress.com?subject=Campaing+Inquiry"
+}
 ]

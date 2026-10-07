@@ -1,16 +1,70 @@
 [
-"https://jaceforcongress.com/",
-"https://jaceforcongress.com/about",
-"https://jaceforcongress.com/endorsements",
-"https://jaceforcongress.com/get-involved",
-"https://jaceforcongress.com/media-kit",
-"https://jaceforcongress.com/news",
-"https://jaceforcongress.com/priorities",
-"https://jaceforcongress.com/privacy-policy",
-"https://secure.anedot.com/jace-victory-fund/contribute",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=100",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=150",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=25",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=5",
-"https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=100"
+},
+{
+"text": "$150",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.jaceforcongress.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jaceforcongress.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jaceforcongress.com/get-involved"
+},
+{
+"text": "HERE",
+"href": "https://www.jaceforcongress.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.jaceforcongress.com/"
+},
+{
+"text": "Media Kit",
+"href": "https://www.jaceforcongress.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.jaceforcongress.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/jace-victory-fund/contribute"
+},
+{
+"text": "Priorities",
+"href": "https://www.jaceforcongress.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jaceforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.jaceforcongress.com/"
+}
 ]

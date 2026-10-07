@@ -1,11 +1,9 @@
-"My wife, daughter and I are pictured here with U.S.
+0 Skip to Content About Bill Issues Endorsements Get Involved Donate Open Menu Close Menu About Bill Issues Endorsements Get Involved Donate Open Menu Close Menu About Bill Issues Endorsements Get Involved Donate "My wife, daughter and I are pictured here with U.S.
 Senator Paul Wellstone from Minnesota.
 Senator Wellstone was one of my professors at Carleton College.
 I drove him around the state of Minnesota as he was running for office and had dinner with his family multiple times at their home.
 He always told me that you have to get involved in government to make a real difference in your community.
-I took that to heart."
-Meet Bill Oemichen
-My wife Mary Anne and I live in the Town of New Glarus.
+I took that to heart." Meet Bill Oemichen My wife Mary Anne and I live in the Town of New Glarus.
 We first moved to the community in 2001 from the Village of Waunakee because we fell in love with the Driftless Region of Wisconsin.
 We found New Glarus to be a special place due to its Swiss Heritage.
 We raised two children, Amy and Will, who attended New Glarus Schools and graduated as Knights.
@@ -24,3 +22,4 @@ I serve on the Board of Green County Leaders, serve as the unpaid chair of the B
 I am also in my 25th year serving as a volunteer Cooperative Weather Observer for the National Weather Service where I report weather readings from my home each day at 7:00 a.m.
 I am a Professor of Practice - Law and Local Government Educator for U.W.-Madison Division of Extension and work closely with county, city, village and town officials across the state to help ensure effective and ethical governance.
 I previously served as President & CEO of Cooperative Network, the largest state-level trade association for member-owned cooperatives in the nation, as Wisconsin Trade & Consumer Protection Administrator, as Preparedness and Emergency Health Care Director at the Wisconsin Department of Health Services, and -- while living in Wisconsin -- I served as Deputy Minnesota Agriculture Commissioner.
+Get Involved Donate billforwisconsinassembly@gmail.com Paid for by Bill for Wisconsin Assembly

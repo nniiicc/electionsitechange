@@ -1,4 +1,4 @@
-I wanted to be a sports writer, that was the job I’d left in Central, S.C. when Charlie and I moved to Charlotte so he could play drums in the rock band Backyard Green.
+Skip to content Home Meet Kasie In Action On the Issues Newsroom Contact The Team Financials Statewide Tour: Upcoming Events X Donate Now The Day the World Stopped Turning I wanted to be a sports writer, that was the job I’d left in Central, S.C. when Charlie and I moved to Charlotte so he could play drums in the rock band Backyard Green.
 I had tried to turn my 1-year of experience into a job in sports media but it was slow going in a market where I knew nobody.
 So I was temping as a marketing assistant for a company called Vehi-Care.
 My first engagement with a real entrepreneurial start-up.
@@ -6,10 +6,8 @@ I basically did all the stuff my boss, a cool guy named Joe who was just five ye
 I was listening to sports talk radio on the way into the office, running late as usual because I was 24 and didn’t do a good job of managing myself, and was probably hungover from whatever we had gotten into the night before.
 I parked, ducked into the building, and seated myself quietly – inconspicuously – at the front desk.
 Not long after I got there, my boss came over.
-“Did you hear?” he asked,
-“Yeah, Michael Jordan is coming back to the NBA,” I said.
-“No, a plane hit the World Trade Center.”
-I leapt up and followed him into the conference room where the entire staff was gathered, not for a meeting like I’d thought when I snuck in, but to watch in horror as a second plane crashed into the second tower.
+“Did you hear?” he asked, “Yeah, Michael Jordan is coming back to the NBA,” I said.
+“No, a plane hit the World Trade Center.” I leapt up and followed him into the conference room where the entire staff was gathered, not for a meeting like I’d thought when I snuck in, but to watch in horror as a second plane crashed into the second tower.
 And we stood, as witnesses, to the live broadcast of thousands of our fellow Americans being burned alive.
 That is my 9/11 memory.
 Everybody has one.
@@ -27,12 +25,11 @@ And for days, we kept vigilance over the TV and waited for more.
 We waited for explanations.
 We listened to the stories.
 We gave blood.
-Then the weekend came and every sports league suspended play.
+Firefighters erect a flag in the rubble of the World Trade Center Then the weekend came and every sports league suspended play.
 Every single one.
 And some of us thought, “We should play and show the terrorists that they can’t beat us!” Because by then we knew it was terrorists.
 And some of us thought, “How could I sit in a stadium and watch a game while they’re digging bodies out of the rubble in New York?” Because by then they were not finding buried survivors.
-I still have the issue of Sports Illustrated with the American flag draped over the empty bleacher seat with the headline, “The Week Sports Stood Still.”
-We were stunned.
+I still have the issue of Sports Illustrated with the American flag draped over the empty bleacher seat with the headline, “The Week Sports Stood Still.” We were stunned.
 Angry.
 Ashamed.
 Scared.
@@ -81,16 +78,14 @@ We blame the other for the badness and protect our own goodness by staying withi
 We pay our taxes.
 Raise our children.
 Build our businesses.
-And when we wonder, “Is this as good as it gets?”
-We remember that once we were attacked.
+And when we wonder, “Is this as good as it gets?” We remember that once we were attacked.
 And then our own government took away our liberties one at the time under the guise of security.
 I think about that Sports Illustrated every now and then.
 I remember how it felt to get it, to see the profound effect that Tuesday morning had on our culture.
 And I wonder how different our world would be now if it had never happened.
 I wonder if our political machinery would be so negative, hateful, and scary if they hadn’t learned how easily fear could cow us.
 I wonder if our national debt would be so gargantuan if we hadn’t decided to solve every problem with defense spending.
-I wonder if Social Security would be as fiercely defended if it were called welfare for senior citizens instead of “security.”
-I think about the families who were forever changed because of 9/11.
+I wonder if Social Security would be as fiercely defended if it were called welfare for senior citizens instead of “security.” I think about the families who were forever changed because of 9/11.
 Not just the attacks, or the aftermath and illnesses that directly correspond to it.
 But the soldiers who signed up in 1999 thinking they’d leverage the military for college tuition and ended up on multiple tours in Afghanistan and Iraq.
 We were forever changed by 9/11 and twenty-five years later we can discuss and debate what it meant, what it did, and whether our nation has ever actually healed from that day.
@@ -105,3 +100,6 @@ And whether they think we ever really get over the kinds of betrayals that scar 
 And then we’ll move on.
 In love for our country, love for the people who inhabit it, and love for liberty and freedom on which it was founded, I hope you all have a blessed and safe September 11th.
 May your hearts be filled with gratitude and your eyes be filled with hope.
+Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ © # Kasie, South Carolina All Rights Reserved.
+Donate | Join the Team | Issues Website development by Amit Dey

@@ -1,10 +1,10 @@
-It’s Disability Pride Month.
+ELIZABETH BAUER Illinois House District 53 Home Issues Positions Events Donate Policy/Proposals On Disability Pride Month: Yes, it’s the fiscal responsibility issue, again July 26, 2026 · Elizabeth Bauer It’s Disability Pride Month.
 With that in mind, here are my key beliefs regarding state-level disability issues.
 I’m not calling these “policy proposals” per se because these are already part of the discussion, just not necessarily visible, and I don’t claim to be an expert on these issues, but the common thread is that the need for Illinois to be fiscally responsible is all the more important with respect to disabled people, because any time state funds are irresponsibly spent elsewhere they can’t be spent on what’s truly needed.
-Disabled people need protection through true guardrails in the assisted suicide bill.
+Disabled people need protection through true guardrails in the assisted suicide bill .
 The lawsuit its opponents have filed is exactly on point; they say that people with severe physical disabilities such as quadriplegia, are so constantly fighting for proper care that, as in Canada, it would be all too easy to abandon the fight.
 The risk is all the greater because in Illinois there is no mandatory evaluation for decision-making capacity, and coercion is narrowly defined to include only the circumstance of an individual coercing the patient, for instance, an heir wanting to avoid spending money on medical care, rather than broader levels of coercion by difficult circumstances.
-Disabled people need a full range of choices in living environments for those needing care.
+Disabled people need a full range of choices in living environments for those needing care .
 For some, that means an aide, whether an “outsider” or a family member; for others, it’s a group home; or in some cases, it’s an institution such as Misericordia in Chicago, which has so far been spared the drive for deinstitutionalization due to recognition of the effectiveness of its care model, with special protective legislation in 2016, or Marklund in the suburbs.
 Also, state-run institutions which are fully dependent on Medicaid are low-quality but Misericordia and Marklund rely on private fundraising to fill the gap to provide quality programs.
 As a result, there is a waitlist at Misericordia equal, in 2024, to about as many residents live at Misericordia, which makes it clear that there are a significant number of disabled individuals denied what they or their caregivers believe to be the best placement for them.
@@ -16,11 +16,13 @@ There is a philosophical argument here, and those who believe that it’s “und
 But there’s a cost to be paid.
 It’s true that adults with cognitive disabilities qualify for Medicaid and that the day programs which will replace sheltered workshops will be funded by Medicaid.
 But unlike “regular” Medicaid benefits, these programs rely on additional fundraising and have wait lists of as long as 5 years, with shorter waits for part-time services — and it will be all the more costly when the sheltered workshops have shut down.
-Families may also turn to caregivers paid by Medicaid, as a sort of “babysitter” while they work, which, again, is costly.
-Again, the law has been passed, but Illinois needs to honestly monitor its impact, rather than cherry-picking data to proclaim success, and properly fund the day programs which will be needed in greater number.
-In fact, fundamentally, Illinois must end the long wait lists for individuals with cognitive disabilities and severe autism.
+Families may also turn to caregivers paid by Medicaid , as a sort of “babysitter” while they work, which, again, is costly.
+Again, the law has been passed, but Illinois needs to honestly monitor its impact , rather than cherry-picking data to proclaim success, and properly fund the day programs which will be needed in greater number .
+In fact, fundamentally, Illinois must end the long wait lists for individuals with cognitive disabilities and severe autism .
 It’s fundamentally inequitable that individuals with physical disabilities qualify for the Medicaid programs that in turn qualify them for home services/personal assistance with only as much wait as the bureaucracy entails, because it’s an entitlement, but individuals waiting for group homes wait years because the whole system depends on government appropriations.
 And because money is limited, it’s all the more important that Illinois must fight against fraud in its Medicaid programs and all related programs, to be sure that the limited money is spent in the right ways and to stretch its dollars as far as possible.
 Whether it’s actual fraud, such as what’s being uncovered in Minnesota, where parents were given kickbacks to enroll their non-autistic children in autism services they never received, or California, where scammers stole Medicare IDs to enroll individuals in hospice programs and billed Medicare without them knowing, or if it’s waste, paying for services that exceed medical necessity or making it easy for patients or providers to find loopholes to be eligible for benefits a program wasn’t designed for, the state has a responsibility to be a good steward of its taxpayers’ money, to stretch it as far as possible towards funding all of these needed services.
 Comment on the image chosen for this post: I try to find relevant photographs for each post but I could not find an image that I was convinced was in the public domain.
-Accordingly, this image was created using AI.
+Accordingly, this image was created using AI. ← All of Elizabeth's commentary and proposals Help send an actuary to Springfield.
+Illinois needs someone who reads the numbers and does the math before spending your money.
+Donate Get Involved This website is maintained and paid for by Citizens for Elizabeth Bauer. bauerfor53.com

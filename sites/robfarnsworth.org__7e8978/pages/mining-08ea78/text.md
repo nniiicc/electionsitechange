@@ -1,4 +1,4 @@
-Mining
-Our mining industry is under assault from every direction.
+Skip to content Toggle Navigation HOME CAMPAIGN DONATE Mining Mining Our mining industry is under assault from every direction.
 These assaults come from foreign nations dumping unlawfully subsidized steel on our shores, the cost of electricity that has skyrocketed in recent years due to renewable energy mandates, a burdensome tax system, and unchecked environmental regulations/lawsuits that overburden our mining industry.
 It is time for lawmakers in Minnesota to fight the special interests that aim to destroy our way of life so the mines of the future can open and current mines can remain competitive on the global market.
+Liberty Medical Freedom Life Jobs Mining Environment/Energy 2nd Amendment Taxes Public Safety State Budget Education Transportation Rob Farnsworth 2025-12-07T01:07:11+00:00 © # | The Committee to Elect Rob Farnsworth | PO Box 902, Hibbing MN 55746 Privacy Policy Page load link

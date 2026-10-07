@@ -1,4 +1,4 @@
-We, as Republican legislators, should be more efficient at raising awareness of what we have accomplished for you, instead of just focusing on the topics that constantly make the news: tax reform, election integrity, and education finance (you can find my recent articles on these topics at www.terrywilsonfortexas.com).
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements August 12, 2019 Jeff Frazier Op-Ed #20 - What You Might Not Have Heard About the 86th Legislature August 12, 2019 Jeff Frazier We, as Republican legislators, should be more efficient at raising awareness of what we have accomplished for you, instead of just focusing on the topics that constantly make the news: tax reform, election integrity, and education finance (you can find my recent articles on these topics at www.terrywilsonfortexas.com).
 While these are clear priorities, I want to take a moment to go over some of the changes you may not have heard about that will help hard working citizens, parents, families, and senior citizens across Texas as they take effect on September 1, 2019.
 School Safety: Following the tragedy of the murders at Santa Fe High School, we produced real reforms that will help provide a safer environment for our students and educators.
 In order to develop best practices for helping students with mental health issues, Mental Health professionals, educators, and researchers at our universities will be forming a new Mental Health Consortium.
@@ -10,8 +10,7 @@ Special thanks to Williamson County DA Shawn Dick’s assistance to the State of
 Transportation: On the local level, Sheriff Chody’s office can now enforce commercial vehicle safety laws, helping keep large trucks off the road if they don’t follow the law.
 Secondly, thanks to an investment of $223.6 Million and moving driver’s licenses under the Department of Motor Vehicles, Texans can expect a reduction in the wait times at driver’s license offices statewide.
 Finally, thanks in part to the efforts of Judge Bill Gravel, and Commissioners Cynthia Long, Valerie Covey, and Russ Boles, we put $31.1 Billion into transportation statewide to help our state and local government build and develop better and safer roads.
-Disaster Relief & Emergency Preparedness: After the devastation of Hurricane Harvey, it was clear that Texans needed not only relief, but better preparation and response times for future disasters as well.
-$2 Billion will be put into grants from the governor’s office, covering everything from Hurricane Harvey to the Central Texas floods of 2018.
+Disaster Relief & Emergency Preparedness: After the devastation of Hurricane Harvey, it was clear that Texans needed not only relief, but better preparation and response times for future disasters as well. $2 Billion will be put into grants from the governor’s office, covering everything from Hurricane Harvey to the Central Texas floods of 2018.
 To help prepare Texas for the future, The Texas Disaster Recovery Task Force will help communities with special assistance when a disaster strikes until long-term recovery has set in.
 A new debris management plan for local communities will also help expedite debris removal following a disaster, one of the biggest hurdles to getting life back to normal.
 Health Care: When it comes to your health, it is essential that you be in charge of how and when you get treated; it is your health, after all.
@@ -23,5 +22,17 @@ Additionally, Medicaid clients will be able to be reimbursed for using ride-shar
 Women’s Health: Women’s health is integral to every part of our society, and it needs to be properly supported.
 Accordingly, we increased funding for women’s health this session by 24.3% over 2018-2019 funding levels.
 In order to support new mothers, The Healthy Texas Women Program will develop a limited postpartum care package to help new moms understand how postpartum depression works and help them though the tough times after their child is born.
-Pregnant and parenting youth in foster care will also receive education in basic parenting as well as services to help preserve and strengthen their family
-Overall, the work done by the Republican lead 86th Legislature supported families, gave better healthcare access and protections to hard working Texans, and helps build a path for a brighter future for our children.
+Pregnant and parenting youth in foster care will also receive education in basic parenting as well as services to help preserve and strengthen their family Overall, the work done by the Republican lead 86th Legislature supported families, gave better healthcare access and protections to hard working Texans, and helps build a path for a brighter future for our children.
+August 12, 2019 Jeff Frazier Jeff Frazier Op-Ed #21 Prop.
+4 Questions and Answers Op-Ed #19 - How HB 3's Education Reforms Affect You Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

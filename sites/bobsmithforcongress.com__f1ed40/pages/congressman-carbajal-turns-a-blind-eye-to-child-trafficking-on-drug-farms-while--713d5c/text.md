@@ -1,13 +1,7 @@
-Congressman Carbajal turns a blind eye to Child Trafficking on Drug Farms While Accepting Their Contributions
-By Bob Smith
-It is imperative that we address the events in Carpinteria and Camarillo this past week with clarity and resolve.
-Here are the verified facts from the ICE raids at Glass House Farms:
-• Federal agents executed criminal search warrants at Glass HouseFarms in Ventura and Santa Barbara counties, rescuing 14 trafficked minors from Mexico
-and Honduras from potential forced labor, exploitation, and trafficking amid a crisis of over 300,000 missing border children.
-California law prohibits those under 21 from cannabis work, with alleged violations uncovered.
-• Glass House Farms, targeted in raids at both Camarillo and Carpinteria, is one of California’s largest cannabis producers: a 5.5 million-square-foot complex producing over 310,000 pounds annually, costing them only $103-$125 per pound to produce.
-Glass House Brands, the parent company, is publicly traded on the stock market under the ticker GLASF.
-• DHS reports multiple arrests that include prior convictions for burglary, rape, kidnapping, DUIs, and child molestation.
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE Congressman Carbajal turns a blind eye to Child Trafficking on Drug Farms While Accepting Their Contributions By Bob Smith It is imperative that we address the events in Carpinteria and Camarillo this past week with clarity and resolve.
+Here are the verified facts from the ICE raids at Glass House Farms: • Federal agents executed criminal search warrants at Glass HouseFarms in Ventura and Santa Barbara counties, rescuing 14 trafficked minors from Mexico and Honduras from potential forced labor, exploitation, and trafficking amid a crisis of over 300,000 missing border children.
+California law prohibits those under 21 from cannabis work, with alleged violations uncovered. • Glass House Farms, targeted in raids at both Camarillo and Carpinteria, is one of California’s largest cannabis producers: a 5.5 million-square-foot complex producing over 310,000 pounds annually, costing them only $103-$125 per pound to produce.
+Glass House Brands, the parent company, is publicly traded on the stock market under the ticker GLASF. • DHS reports multiple arrests that include prior convictions for burglary, rape, kidnapping, DUIs, and child molestation.
 These details demand serious reflection and accountability.
 Rather than supporting law enforcement or the victims, my opponent, Congressman Salud Carbajal, defended the farm, overlooking child labor exploitation.
 Glass House Farms’ leadership contributed $8,800 directly to him from President Graham Farrar, whose farm is now under federal criminal investigation for child labor violations.
@@ -23,3 +17,14 @@ This transcends partisanship; it concerns fundamental right and wrong.
 Our children, laws, and communities merit better.
 Everyone committed to justice, child protection, and combating greed: join me in demanding accountability.
 Together, we can restore integrity and make California a place of reason, safety, and opportunity once more.
+Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

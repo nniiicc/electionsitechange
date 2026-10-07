@@ -1,9 +1,6 @@
-Home
-About
-Issues
-Volunteer
-Yard Sign
-More
+top of page CONTRIBUTE Home About Issues Volunteer Yard Sign More Use tab to navigate through the menu items.
 Thank you for displaying a lawn sign.
 Please fill out the information below and we deliver your sign as we get closer to Election Day.
-Thank you, we've received your request.
+SEND Thank you, we've received your request.
+PAID FOR BY BLUMENCRANZ FOR SENATE © Copyright #.
+All rights reserved. bottom of page

@@ -1,7 +1,11 @@
 {
  "description": "Andrew Gibson Campaign Events",
  "final_url": "https://www.gibsonforcostatehouse36.com/Events?range=2026-10-06",
+ "fingerprint": "b612c686fe965fb904422ba735310754fd41bb9b",
+ "format": 3,
  "paid_for_by": "Paid for by Andrew Gibson Powered by CampaignPartner",
  "title": "Andrew Gibson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

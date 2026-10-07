@@ -1,5 +1,5 @@
-Keeping Our Communities Safe
-Public safety is not a partisan issue.
+top of page HOME ABOUT NEWS DONATE More Use tab to navigate through the menu items.
+All Posts Search Keeping Our Communities Safe Team Atchley Jun 15 2 min read Public safety is not a partisan issue.
 It is a basic expectation of government.
 When you call 911, someone should answer.
 When a crime is committed, there should be consequences.
@@ -24,3 +24,6 @@ The timeframe for combining stolen merchandise has been extended from 90 to 180 
 Tennessee is sending a clear message: we will protect our communities.
 We will hold criminals accountable.
 And we will give law enforcement the tools they need to keep us safe.
+1130 S.
+Fork Dr., Sevierville, TN 37862 team@fredatchley.com Paid for by Fred Atchley for State Representative, Phil Whaley, Treasurer.
+Web design by ZDStephens Company . bottom of page

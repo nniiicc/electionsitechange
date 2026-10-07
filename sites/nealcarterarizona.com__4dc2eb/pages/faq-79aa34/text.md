@@ -1,9 +1,11 @@
-Please reach out if you cannot find an answer to your question.
+Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Neal Carter for State Representative - District 15 Home FAQ More Home FAQ Home FAQ Frequently Asked Questions Please reach out if you cannot find an answer to your question.
+Why is Neal Carter running?
 I am running for office to defend the values of the Constitution: limited government, freedom of religion, freedom of conscience, freedom of speech, economic freedom, freedom to keep and bear arms, etc.
 A smaller government makes for a more free nation.
 The proper role of government is to defend life and liberty, not to guarantee happiness.
 I am running for office because over the past several years I have understood that our country and state are in a crisis, beset by forces that intend to use the power of government to coerce ideologies on us.
 I am known for standing up for what’s right, and I prefer death over dishonor.
+What does Neal Carter believe in?
 1.) Upholding the Constitution.
 That means all the Constitution, including full support of the 2nd Amendment.
 2.) Defending Life.
@@ -16,6 +18,7 @@ Parents raise children, not the government.
 Balance the budget.
 Shrink government and reduce waste.
 Return money to taxpayers.
+Who is Neal Carter?
 Neal Carter is a conservative Republican who believes in the values of the Constitution.
 Faith, family and a free economy are the founding principles that have made Arizona prosper and take its place as the best state to live and work in.
 Neal believes in an Arizona where jobs are plentiful and opportunity reigns.
@@ -34,8 +37,11 @@ Carter holds a Bachelor of Arts degree in English Literature and in French Liter
 In his free time he enjoys playing ‘cello, cruising around in his ’64 Buick named ‘Cassie,’ reading, horse riding and roaming Arizona for opportunities for hiking, shooting, and outdoorsmanship.
 He is married to his lovely wife, Katy, an Arizona native and Gilbert High School graduate, who also enjoys horse riding and roaming Arizona for hiking, and Neal and Katy are proud parents of their one-year-old daughter, Clare.
 Neal is honored to serve as your voice in the legislature, a position he considers to be a sacred trust.
+Do I live in Legislative District 15?
 Legislative District 15, sometimes referred to as LD15, includes all of Queen Creek, most of San Tan Valley, and part of Mesa.
 If you live south of Baseline Road, East of Power Road, North of Arizona Farms Road, and West of State Highway 79, you're very likely in Legislative District 15.
 Reach out to us for confirmation.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Copyright © # Neal Carter for State Representative - District 15.
+All Rights Reserved.
+Authorized by Neal Carter.
+Paid for by Neal Carter for State Representative - District 15.

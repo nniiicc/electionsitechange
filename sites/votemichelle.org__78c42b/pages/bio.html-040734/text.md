@@ -1,5 +1,4 @@
-56th Representative District
-Michelle Mussman was a mom, community volunteer, and PTA parent who, like many area residents, was frustrated with state government’s reputation for debt and dysfunction.
+HOME / ISSUES / ENDORSEMENTS / CAMPAIGN / CONTRIBUTE / CONTACT US MICHELLE MUSSMAN 56th Representative District Michelle Mussman was a mom, community volunteer, and PTA parent who, like many area residents, was frustrated with state government’s reputation for debt and dysfunction.
 Mussman decided to step up and dedicate herself to trying to help her community and state navigate these difficult times.
 Having never run for or held public office before, Mussman didn't set out to run a typical political campaign.
 Instead, she started with a simple concept: that a woman with real life experiences has a lot to offer.
@@ -20,3 +19,7 @@ However, the boundaries for many elected offices changed in the re-map process a
 While I may have been your representative previously, it is possible your address may now fall under a new jurisdiction.
 Click here to see if your boundaries have changed for various elected officers you may be interested in, such as IL House/Senate and Congress!
 The number for my district is 56.
+Copryright © # Friends of Michelle Mussman.
+All Rights Reserved.
+Paid for and authorized by the Friends of Michelle Mussman.
+A copy of our report is (or will be) on file and available for purchase from the State Board of Elections, Springfield, IL.

@@ -1,8 +1,4 @@
-Fong bill to support firefighting drones headed for Senate
-Bakersfield Californian | March 16, 2026
-The U.S.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Fong bill to support firefighting drones headed for Senate Bakersfield Californian | March 16, 2026 The U.S.
 Senate is expected to take up legislation introduced by Rep.
 Vince Fong that, having passed the House of Representatives unanimously, could advance eastern Kern County’s aerospace industry by supporting the use of drones to help fight wildfires.
-The Advanced Capabilities for Emergency Response Operations Act is intended to address what the Bakersfield Republican calls outdated and fragmented communications used to coordinate aerial wildfire responses.
-…
-View Original Publication: Bakersfield Californian
+The Advanced Capabilities for Emergency Response Operations Act is intended to address what the Bakersfield Republican calls outdated and fragmented communications used to coordinate aerial wildfire responses. … View Original Publication: Bakersfield Californian Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

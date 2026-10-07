@@ -1,5 +1,4 @@
-Biography
-My name is Calvin Beaulier.
+Skip to the content VOTE CALVIN BEAULIER New Hampshire State Representative Toggle mobile menu Toggle search field Search for: Welcome Issues About Calvin Contact Donate Welcome Issues About Calvin Contact Donate About Calvin Biography My name is Calvin Beaulier.
 I am a father, husband, and attorney who lives in Littleton, New Hampshire.
 I am one of the N.H.
 State Representatives for Bath, Lisbon, Littleton, Lyman, Monroe, and Sugar Hill (Grafton County District 1).
@@ -18,12 +17,6 @@ I have much to be thankful for in my life.
 I want to give back by listening to, and advocating for, the people of northern Grafton County and New Hampshire.
 It has been the honor of a lifetime to be elected in 2024 to represent my community.
 I will continue to work hard for my constituents and have pledged to attend every legislative session to make sure my community has a voice in Concord.
-Education
-American University
-School of International Service
-B.A.
-International Studies
-Louisiana State University
-Paul M.
-Herbert Law Center
-Doctor of Law (J.D.)/ Diploma of Civil Law (D.C.L.)
+Education American University School of International Service B.A.
+International Studies Louisiana State University Paul M.
+Herbert Law Center Doctor of Law (J.D.)/ Diploma of Civil Law (D.C.L.) X Facebook About Calvin Contact Issues Welcome DONATE TO MY CAMPAIGN VOTE CALVIN BEAULIER — Paid for by Calvin Beaulier Up ↑

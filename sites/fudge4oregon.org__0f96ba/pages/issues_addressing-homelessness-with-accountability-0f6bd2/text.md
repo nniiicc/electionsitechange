@@ -1,7 +1,2 @@
-Addressing Homelessness with Accountability
-Oregon communities are struggling with homelessness, and taxpayers deserve policies that actually work.
-Andrew supports solutions that:
-- Focus on measurable outcomes
-- Prioritize treatment and recovery for those struggling with addiction
-- Ensure public funds are used effectively and transparently
-Compassion must be paired with accountability and results.
+Meet Andrew Issues News Contribute Volunteer Home ❭ Issues ❭ Addressing Homelessness with Accountability Addressing Homelessness with Accountability Oregon communities are struggling with homelessness, and taxpayers deserve policies that actually work.
+Andrew supports solutions that: Focus on measurable outcomes Prioritize treatment and recovery for those struggling with addiction Ensure public funds are used effectively and transparently Compassion must be paired with accountability and results. « Previous: Improving Public School Outcomes Next: Public Safety » Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy © #, paid for by: Fudge 4 Oregon PAC #25068 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Andrew Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information District Info (HD 20) Close Menu

@@ -1,19 +1,78 @@
 [
-"https://ericgisler.com/",
-"https://ericgisler.com/about",
-"https://ericgisler.com/contact",
-"https://ericgisler.com/endorsements",
-"https://ericgisler.com/get-involved",
-"https://ericgisler.com/issues",
-"https://ericgisler.com/post/hb-1076-vote-explainer-obstructing-law-enforcement-with-a-vehicle",
-"https://ericgisler.com/post/hb-328-vote-explainer-expanding-tax-credits-for-private-school-scholarships",
-"https://ericgisler.com/post/why-i-voted-no-property-tax-elimination",
-"https://ericgisler.com/sponsored-legislation",
-"https://ericgisler.com/updates",
-"https://ericgisler.com/voting-record",
-"https://facebook.com/gislerforgeorgia",
-"https://instagram.com/emgisler",
-"https://secure.actblue.com/donate/2026-gisler-main",
-"https://sourcewatch.org/index.php?title=The_American_Federation_for_Children",
-"https://tiktok.com/@ericgisler"
+{
+"text": "About",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "About Eric",
+"href": "https://www.ericgisler.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ericgisler.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/2026-gisler-main"
+},
+{
+"text": "Explainer here",
+"href": "https://www.ericgisler.com/post/hb-1076-vote-explainer-obstructing-law-enforcement-with-a-vehicle"
+},
+{
+"text": "Explainer here",
+"href": "https://www.ericgisler.com/post/hb-328-vote-explainer-expanding-tax-credits-for-private-school-scholarships"
+},
+{
+"text": "Explainer here.",
+"href": "https://www.ericgisler.com/post/why-i-voted-no-property-tax-elimination"
+},
+{
+"text": "Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "SourceWatch",
+"href": "https://www.sourcewatch.org/index.php?title=The_American_Federation_for_Children"
+},
+{
+"text": "Sponsored Legislation",
+"href": "https://www.ericgisler.com/sponsored-legislation"
+},
+{
+"text": "VOTING Record",
+"href": "https://www.ericgisler.com/voting-record"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ericgisler.com/get-involved"
+},
+{
+"text": "[image]",
+"href": "https://www.ericgisler.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/gislerforgeorgia"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/emgisler/"
+},
+{
+"text": "[image]",
+"href": "https://www.tiktok.com/@ericgisler"
+},
+{
+"text": "endorsements",
+"href": "https://www.ericgisler.com/endorsements"
+},
+{
+"text": "issues",
+"href": "https://www.ericgisler.com/issues"
+},
+{
+"text": "updates",
+"href": "https://www.ericgisler.com/updates"
+}
 ]

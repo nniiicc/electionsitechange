@@ -1,2 +1,2 @@
-Get in Touch with Jim
-If you have a question about the campaign or want to leave a message for Jim, use the form below.
+0 Skip to Content Home About Priorities Volunteer Events Endorsements Contact Donate Open Menu Close Menu Home About Priorities Volunteer Events Endorsements Contact Donate Open Menu Close Menu Home About Priorities Volunteer Events Endorsements Contact Donate Get in Touch with Jim If you have a question about the campaign or want to leave a message for Jim, use the form below.
+Prepared and paid for by the Committee for DeMay For House PO Box 10654, White Bear Lake, MN 55110 demayforhouse@gmail.com

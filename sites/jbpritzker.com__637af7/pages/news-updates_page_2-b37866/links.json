@@ -1,34 +1,198 @@
 [
-"https://action.jbpritzker.com/a/teamjb",
-"https://bsky.app/profile/jbpritzker.bsky.social",
-"https://facebook.com/jbpritzker",
-"https://instagram.com/jbpritzker",
-"https://jbpritzker.com/",
-"https://jbpritzker.com/accomplishments",
-"https://jbpritzker.com/cn",
-"https://jbpritzker.com/es",
-"https://jbpritzker.com/es/noticias-y-actualizaciones",
-"https://jbpritzker.com/latest/ahead-of-donald-trumps-visit-new-jb-for-governor-ad-highlights-darren-baileys-loyalty-to-trump",
-"https://jbpritzker.com/latest/darren-bailey-is-a-threat-to-abortion-rights",
-"https://jbpritzker.com/latest/darren-bailey-opposed-cap-on-insulin-costs-for-260000-illinoisans",
-"https://jbpritzker.com/latest/governor-jb-pritzker-christian-mitchell-receive-ifpe-local-4408-endorsement",
-"https://jbpritzker.com/latest/jb-delivered-medical-debt-cancelation-across-the-state",
-"https://jbpritzker.com/latest/jb-delivered-protecting-reproductive-rights",
-"https://jbpritzker.com/latest/jb-delivered-protecting-survivors-of-domestic-violence",
-"https://jbpritzker.com/latest/jb-delivered-taking-on-predatory-pharmacy-benefit-managers",
-"https://jbpritzker.com/latest/jb-for-governor-weekly-round-up-8",
-"https://jbpritzker.com/latest/lt-gubernatorial-candidate-christian-mitchell-and-democratic-party-of-illinois-kick-off-cost-of-maga-press-tour-to-condemn-snap-cuts",
-"https://jbpritzker.com/meet-christian-mitchell",
-"https://jbpritzker.com/meet-jb-pritzker",
-"https://jbpritzker.com/news-updates",
-"https://jbpritzker.com/news-updates/page/19",
-"https://jbpritzker.com/news-updates/page/3",
-"https://jbpritzker.com/news-updates/page/4",
-"https://jbpritzker.com/pl",
-"https://jbpritzker.com/privacy-policy",
-"https://jbpritzker.com/terms-conditions",
-"https://threads.net/@jbpritzker",
-"https://tiktok.com/@teamjb_hq",
-"https://x.com/jbpritzker",
-"https://youtube.com/channel/UCI8FbW3Sm5y_3eP2g8kyXHg"
+{
+"text": "1",
+"href": "https://jbpritzker.com/news-updates/"
+},
+{
+"text": "20",
+"href": "https://jbpritzker.com/news-updates/page/20/"
+},
+{
+"text": "3",
+"href": "https://jbpritzker.com/news-updates/page/3/"
+},
+{
+"text": "4",
+"href": "https://jbpritzker.com/news-updates/page/4/"
+},
+{
+"text": "Accomplishments",
+"href": "https://jbpritzker.com/accomplishments/"
+},
+{
+"text": "Ahead of Donald Trump’s Visit, New JB For Governor Ad Highlights Darren Bailey’s Loyalty to Trump",
+"href": "https://jbpritzker.com/latest/ahead-of-donald-trumps-visit-new-jb-for-governor-ad-highlights-darren-baileys-loyalty-to-trump/"
+},
+{
+"text": "Contact",
+"href": "mailto:hello@jbpritzkercampaign.com"
+},
+{
+"text": "Darren Bailey is a Threat to Abortion Rights",
+"href": "https://jbpritzker.com/latest/darren-bailey-is-a-threat-to-abortion-rights/"
+},
+{
+"text": "Español",
+"href": "https://jbpritzker.com/es/noticias-y-actualizaciones/"
+},
+{
+"text": "Governor JB Pritzker, Christian Mitchell Receive IFPE Local 4408 Endorsement",
+"href": "https://jbpritzker.com/latest/governor-jb-pritzker-christian-mitchell-receive-ifpe-local-4408-endorsement/"
+},
+{
+"text": "JB Delivered: Protecting Reproductive Rights",
+"href": "https://jbpritzker.com/latest/jb-delivered-protecting-reproductive-rights/"
+},
+{
+"text": "JB Delivered: Protecting Survivors of Domestic Violence and Sexual Assault",
+"href": "https://jbpritzker.com/latest/jb-delivered-protecting-survivors-of-domestic-violence/"
+},
+{
+"text": "JB Delivered: Taking on Predatory Pharmacy Benefit Managers",
+"href": "https://jbpritzker.com/latest/jb-delivered-taking-on-predatory-pharmacy-benefit-managers/"
+},
+{
+"text": "JB for Governor Weekly Round-up",
+"href": "https://jbpritzker.com/latest/jb-for-governor-weekly-round-up-8/"
+},
+{
+"text": "Join the team to re-elect JB",
+"href": "https://action.jbpritzker.com/a/teamjb"
+},
+{
+"text": "Lt. Gubernatorial Candidate Christian Mitchell and Democratic Party of Illinois Continue “Cost of MAGA” Press Tour, Slamming Trump’s Cuts to Rural Healthcare",
+"href": "https://jbpritzker.com/latest/lt-gubernatorial-candidate-christian-mitchell-and-democratic-party-of-illinois-continue-cost-of-maga-press-tour-slamming-trumps-cuts-to-rural-healthcare/"
+},
+{
+"text": "Lt. Gubernatorial Candidate Christian Mitchell and Democratic Party of Illinois Kick Off “Cost of MAGA” Press Tour to Condemn SNAP Cuts",
+"href": "https://jbpritzker.com/latest/lt-gubernatorial-candidate-christian-mitchell-and-democratic-party-of-illinois-kick-off-cost-of-maga-press-tour-to-condemn-snap-cuts/"
+},
+{
+"text": "Meet Christian",
+"href": "https://jbpritzker.com/meet-christian-mitchell/"
+},
+{
+"text": "Meet JB",
+"href": "https://jbpritzker.com/meet-jb-pritzker/"
+},
+{
+"text": "Meet JB Pritzker",
+"href": "https://jbpritzker.com/meet-jb-pritzker/"
+},
+{
+"text": "New JB For Governor Ad Highlights Support for Governor JB Pritzker in the Quad Cities, Rockford Areas",
+"href": "https://jbpritzker.com/latest/new-ad-highlights-support-for-jb-pritzker-in-quad-cities-rockford/"
+},
+{
+"text": "News & Updates",
+"href": "https://jbpritzker.com/news-updates/"
+},
+{
+"text": "Polski",
+"href": "https://jbpritzker.com/pl"
+},
+{
+"text": "Privacy Policy",
+"href": "https://jbpritzker.com/privacy-policy/"
+},
+{
+"text": "Sign Up",
+"href": "https://action.jbpritzker.com/a/teamjb"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://jbpritzker.com/terms-conditions/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/ahead-of-donald-trumps-visit-new-jb-for-governor-ad-highlights-darren-baileys-loyalty-to-trump/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/darren-bailey-is-a-threat-to-abortion-rights/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/governor-jb-pritzker-christian-mitchell-receive-ifpe-local-4408-endorsement/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/jb-delivered-protecting-reproductive-rights/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/jb-delivered-protecting-survivors-of-domestic-violence/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/jb-delivered-taking-on-predatory-pharmacy-benefit-managers/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/jb-for-governor-weekly-round-up-8/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/lt-gubernatorial-candidate-christian-mitchell-and-democratic-party-of-illinois-continue-cost-of-maga-press-tour-slamming-trumps-cuts-to-rural-healthcare/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/lt-gubernatorial-candidate-christian-mitchell-and-democratic-party-of-illinois-kick-off-cost-of-maga-press-tour-to-condemn-snap-cuts/"
+},
+{
+"text": "[image: Governor JB Pritzker & lieutenant gubernatorial candidate Christian Mitchell Logo]",
+"href": "https://jbpritzker.com/latest/new-ad-highlights-support-for-jb-pritzker-in-quad-cities-rockford/"
+},
+{
+"text": "[image: JB for Governor]",
+"href": "https://jbpritzker.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jbpritzker.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jbpritzker"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@teamjb_hq"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCI8FbW3Sm5y_3eP2g8kyXHg"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jbpritzker"
+},
+{
+"text": "español",
+"href": "https://jbpritzker.com/es"
+},
+{
+"text": "←",
+"href": "https://jbpritzker.com/news-updates/"
+},
+{
+"text": "→",
+"href": "https://jbpritzker.com/news-updates/page/3/"
+},
+{
+"text": "中文",
+"href": "https://jbpritzker.com/cn"
+}
 ]

@@ -1,14 +1,58 @@
 [
-"http://aboutads.info/choices.",
-"http://aboutads.info/consumers.",
-"http://allaboutcookies.org/",
-"http://optout.aboutads.info/)",
-"http://optout.networkadvertising.org/?c=1%29.",
-"http://youradchoices.com/appchoices.",
-"https://ankermanforstaterep.com/",
-"https://ankermanforstaterep.com/about",
-"https://ankermanforstaterep.com/cart",
-"https://ankermanforstaterep.com/meet-chantelle",
-"https://policies.google.com/privacy?hl=en.",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "0",
+"href": "https://www.ankermanforstaterep.com/cart"
+},
+{
+"text": "By submitting this form, you agree to",
+"href": "https://www.ankermanforstaterep.com/about"
+},
+{
+"text": "Chantelle Ankerman Candidate for Connecticut State Representative",
+"href": "https://www.ankermanforstaterep.com/"
+},
+{
+"text": "Home",
+"href": "https://www.ankermanforstaterep.com/"
+},
+{
+"text": "Meet Chantelle",
+"href": "https://www.ankermanforstaterep.com/meet-chantelle"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ankermanforstaterep.com/about"
+},
+{
+"text": "http://optout.aboutads.info/)",
+"href": "http://optout.aboutads.info/)"
+},
+{
+"text": "http://optout.networkadvertising.org/?c=1).",
+"href": "http://optout.networkadvertising.org/?c=1%29."
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org/"
+},
+{
+"text": "https://policies.google.com/privacy?hl=en.",
+"href": "https://policies.google.com/privacy?hl=en."
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.ankermanforstaterep.com/",
+"href": "https://www.ankermanforstaterep.com/"
+},
+{
+"text": "www.aboutads.info/choices.",
+"href": "http://www.aboutads.info/choices."
+},
+{
+"text": "www.youradchoices.com/appchoices.",
+"href": "http://www.youradchoices.com/appchoices."
+}
 ]

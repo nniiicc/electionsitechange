@@ -1,38 +1,150 @@
 [
-"https://facebook.com/jaclyn.d.ford",
-"https://jaclynforgeorgia.com/",
-"https://jaclynforgeorgia.com/about",
-"https://jaclynforgeorgia.com/contact",
-"https://jaclynforgeorgia.com/district-170-information",
-"https://jaclynforgeorgia.com/endorsements",
-"https://jaclynforgeorgia.com/privacy-policy",
-"https://legis.ga.gov/legislation/70072",
-"https://legis.ga.gov/legislation/70962",
-"https://legis.ga.gov/legislation/71024",
-"https://legis.ga.gov/legislation/72130",
-"https://legis.ga.gov/legislation/72233",
-"https://legis.ga.gov/legislation/72293",
-"https://legis.ga.gov/legislation/72304",
-"https://legis.ga.gov/legislation/72353",
-"https://legis.ga.gov/legislation/72360",
-"https://legis.ga.gov/legislation/72375",
-"https://legis.ga.gov/legislation/72636",
-"https://legis.ga.gov/legislation/72642",
-"https://legis.ga.gov/legislation/72672",
-"https://legis.ga.gov/legislation/72676",
-"https://legis.ga.gov/legislation/72677",
-"https://legis.ga.gov/legislation/72697",
-"https://legis.ga.gov/legislation/72731",
-"https://legis.ga.gov/legislation/72829",
-"https://legis.ga.gov/legislation/72842",
-"https://legis.ga.gov/legislation/72951",
-"https://legis.ga.gov/legislation/73132",
-"https://legis.ga.gov/legislation/73141",
-"https://legis.ga.gov/legislation/73198",
-"https://legis.ga.gov/legislation/73286",
-"https://legis.ga.gov/legislation/73444",
-"https://legis.ga.gov/legislation/73467",
-"https://lp.constantcontactpages.com/sl/78VITF7",
-"https://secure.winred.com/jaclyn-ford-for-georgia-inc/donate-today",
-"https://x.com/jaclyndford"
+{
+"text": "ABOUT JACLYN",
+"href": "https://jaclynforgeorgia.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://jaclynforgeorgia.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jaclyn-ford-for-georgia-inc/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://jaclynforgeorgia.com/endorsements/"
+},
+{
+"text": "HB 1000",
+"href": "https://www.legis.ga.gov/legislation/72293"
+},
+{
+"text": "HB 1009",
+"href": "https://www.legis.ga.gov/legislation/72304"
+},
+{
+"text": "HB 1023",
+"href": "https://www.legis.ga.gov/legislation/72353"
+},
+{
+"text": "HB 1030",
+"href": "https://www.legis.ga.gov/legislation/72360"
+},
+{
+"text": "HB 1045",
+"href": "https://www.legis.ga.gov/legislation/72375"
+},
+{
+"text": "HB 1112",
+"href": "https://www.legis.ga.gov/legislation/72636"
+},
+{
+"text": "HB 1114",
+"href": "https://www.legis.ga.gov/legislation/72642"
+},
+{
+"text": "HB 1118",
+"href": "https://www.legis.ga.gov/legislation/72672"
+},
+{
+"text": "HB 1122",
+"href": "https://www.legis.ga.gov/legislation/72676"
+},
+{
+"text": "HB 1123",
+"href": "https://www.legis.ga.gov/legislation/72677"
+},
+{
+"text": "HB 1138",
+"href": "https://www.legis.ga.gov/legislation/72697"
+},
+{
+"text": "HB 1159",
+"href": "https://www.legis.ga.gov/legislation/72731"
+},
+{
+"text": "HB 1187",
+"href": "https://www.legis.ga.gov/legislation/72829"
+},
+{
+"text": "HB 1193",
+"href": "https://www.legis.ga.gov/legislation/72842"
+},
+{
+"text": "HB 1230",
+"href": "https://www.legis.ga.gov/legislation/72951"
+},
+{
+"text": "HB 1283",
+"href": "https://www.legis.ga.gov/legislation/73132"
+},
+{
+"text": "HB 1290",
+"href": "https://www.legis.ga.gov/legislation/73141"
+},
+{
+"text": "HB 1310",
+"href": "https://www.legis.ga.gov/legislation/73198"
+},
+{
+"text": "HB 1344",
+"href": "https://www.legis.ga.gov/legislation/73286"
+},
+{
+"text": "HB 1402",
+"href": "https://www.legis.ga.gov/legislation/73444"
+},
+{
+"text": "HB 1413",
+"href": "https://www.legis.ga.gov/legislation/73467"
+},
+{
+"text": "HB 340",
+"href": "https://www.legis.ga.gov/legislation/70072"
+},
+{
+"text": "HB 668",
+"href": "https://www.legis.ga.gov/legislation/70962"
+},
+{
+"text": "HB 689",
+"href": "https://www.legis.ga.gov/legislation/71024"
+},
+{
+"text": "HR 1000",
+"href": "https://www.legis.ga.gov/legislation/72130"
+},
+{
+"text": "Home",
+"href": "https://jaclynforgeorgia.com/"
+},
+{
+"text": "House Bill 973",
+"href": "https://www.legis.ga.gov/legislation/72233"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://jaclynforgeorgia.com/privacy-policy"
+},
+{
+"text": "RESOURCES",
+"href": "https://jaclynforgeorgia.com/district-170-information/"
+},
+{
+"text": "[image: Jaclyn Ford - State House]",
+"href": "https://jaclynforgeorgia.com"
+},
+{
+"text": "[no text]",
+"href": "https://lp.constantcontactpages.com/sl/78VITF7"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jaclyn.d.ford"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jaclyndford"
+}
 ]

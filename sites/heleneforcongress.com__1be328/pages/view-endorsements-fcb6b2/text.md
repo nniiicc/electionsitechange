@@ -1,5 +1,4 @@
-Endorsements
-More than 40 years ago, I met a loving, humble, compassionate, and truly extraordinary young woman named Helene Quintal — now Helene Neville.
+Meet Helene Helene Neville Backstory Issues News Volunteer Contribute Contact Helene Neville Professional Summary Home Endorsements More than #ago, I met a loving, humble, compassionate, and truly extraordinary young woman named Helene Quintal — now Helene Neville.
 Over the decades, I have watched her grow into an incredible mother, grandmother, humanitarian, friend, visionary, and one of the bravest and most resilient people I have ever known.
 It is difficult to fully put our friendship into words — you simply had to know her to understand the impact she has on people.
 We first met at work in positions that mainly involved sorting and distributing reports.
@@ -27,10 +26,7 @@ Her strength, perseverance, and faith are a true testament to her character.
 Her mother would be incredibly proud of the woman she has become because Helene carries the very same loving and giving heart.
 Keep rethinking the impossible, my friend.
 I cherish our friendship and pray that God continues to protect and guide you every step of the way.
-Until next time… “Let It Whip!”
-— Leona Cochran
-Leona Cochran
-I have known Helen Neville for 30+ years, and I can say with absolute certainty that she is exactly the kind of leader North Dakota needs in Congress.
+Until next time… “Let It Whip!” — Leona Cochran Leona Cochran I have known Helen Neville for 30+ years, and I can say with absolute certainty that she is exactly the kind of leader North Dakota needs in Congress.
 We first met at the Des Moines YMCA, brought together by a shared enthusiasm for fitness.
 As an endurance runner, Helen knows what it means to go the distance, outlast the toughest challenges, and cross the finish line.
 That same relentless stamina is exactly how she will fight for her constituents—she is simply not someone who gives up.
@@ -38,5 +34,5 @@ Helen’s campaign pledges of compassion, transparency, and people-focused leade
 Having known her for three decades, I have seen firsthand that she is a deeply giving, caring, and wonderful friend who always puts others first.
 Helen has the endurance for the long haul and the heart to truly serve.
 I proudly endorse Helen Neville for Congress.
-Malea Jensen
-Dr.
+Malea Jensen Dr.
+Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Helene Neville Powered by CampaignPartner.com - Political Campaign Websites Home Meet Helene Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

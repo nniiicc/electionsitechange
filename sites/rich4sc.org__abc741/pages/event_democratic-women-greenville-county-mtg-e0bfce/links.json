@@ -1,16 +1,70 @@
 [
-"https://bsky.app/profile/rich4sc.bsky.social",
-"https://facebook.com/Rich4SC",
-"https://google.com/calendar/event?action=TEMPLATE&dates=20261012T173000%2F20261012T193000&text=Democratic+Women+Greenville+County+Mtg&details=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County.&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org",
-"https://greenvilledemocrats.com/who-we-are/dwgc",
-"https://instagram.com/rich4sc",
-"https://maps.google.com/maps?f=q&hl=en&q=3300+Poinsett+Highway+Greenville+SC+United+States",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-12T17%3A30%3A00-04%3A00&enddt=2026-10-12T19%3A30%3A00-04%3A00&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&subject=Democratic+Women+Greenville+County+Mtg&body=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County.",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=2026-10-12T17%3A30%3A00-04%3A00&enddt=2026-10-12T19%3A30%3A00-04%3A00&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&subject=Democratic+Women+Greenville+County+Mtg&body=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County.",
-"https://rich4sc.org/",
-"https://rich4sc.org/about",
-"https://rich4sc.org/blog",
-"https://rich4sc.org/event/eastside-dems-gvl-mtg",
-"https://rich4sc.org/event/november-general-election-candidates-forum",
-"https://rich4sc.org/events"
+{
+"text": "+ Google Map",
+"href": "https://maps.google.com/maps?f=q&hl=en&geocode=&q=3300+Poinsett+Highway+Greenville+SC+United+States"
+},
+{
+"text": "About",
+"href": "https://rich4sc.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://rich4sc.org/blog/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/rich4sc.bsky.social"
+},
+{
+"text": "Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Rich4SC/"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/event?action=TEMPLATE&dates=20261012T173000%2F20261012T193000&text=Democratic+Women+Greenville+County+Mtg&details=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County.&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&trp=false&ctz=America%2FNew_York&sprop=website%3Ahttps%3A%2F%2Frich4sc.org"
+},
+{
+"text": "Home",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rich4sc/"
+},
+{
+"text": "November General Election Candidates Forum »",
+"href": "https://rich4sc.org/event/november-general-election-candidates-forum/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A30%3A00-04%3A00&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&subject=Democratic+Women+Greenville+County+Mtg&body=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County."
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa/?path=%2Fcalendar%2Faction%2Fcompose&rrv=addevent&startdt=%23T17%3A30%3A00-04%3A00&enddt=%23T19%3A30%3A00-04%3A00&location=Younts+Conference+Center%2C+Furman+University%2C+3300+Poinsett+Highway%2C+Greenville%2C+SC%2C+United+States&subject=Democratic+Women+Greenville+County+Mtg&body=Rich+will+be+one+of+the+speakers+at+the+October+meeting+of+the+Democratic+Women+of+Greenville+County."
+},
+{
+"text": "View Venue Website",
+"href": "https://greenvilledemocrats.com/who-we-are/dwgc/"
+},
+{
+"text": "[image]",
+"href": "https://rich4sc.org/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://rich4sc.org/event/democratic-women-greenville-county-mtg/?ical=1"
+},
+{
+"text": "« All Events",
+"href": "https://rich4sc.org/events/"
+},
+{
+"text": "« Eastside Dems GVL Mtg",
+"href": "https://rich4sc.org/event/eastside-dems-gvl-mtg/"
+}
 ]

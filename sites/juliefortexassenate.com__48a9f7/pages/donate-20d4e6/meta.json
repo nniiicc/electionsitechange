@@ -1,9 +1,9 @@
 {
  "description": "Support Julie Dahlberg for Texas Senate campaign by making a donation. Direct contributions welcome via online platforms or cashapp!",
  "final_url": "https://juliefortexassenate.com/donate",
- "paid_for_by": null,
+ "fingerprint": "4ddd60ff5e15149ce1b4f5c8b18c53f9a771cc77",
+ "format": 3,
+ "paid_for_by": "",
  "title": "DONATE",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

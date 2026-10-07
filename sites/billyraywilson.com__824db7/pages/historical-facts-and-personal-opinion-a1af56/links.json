@@ -1,12 +1,46 @@
 [
-"https://billyraywilson.com/",
-"https://billyraywilson.com/about",
-"https://billyraywilson.com/author/hotwire",
-"https://billyraywilson.com/blog",
-"https://billyraywilson.com/books",
-"https://billyraywilson.com/category/blog-post",
-"https://billyraywilson.com/contact",
-"https://billyraywilson.com/mothers-day",
-"https://billyraywilson.com/the-old-and-new-testament-are-basically-untruths",
-"https://billyraywilson.com/wp-content/uploads/2026/05/blog-attachment.pdf"
+{
+"text": "About",
+"href": "https://billyraywilson.com/about/"
+},
+{
+"text": "Billy Ray Wilson",
+"href": "https://billyraywilson.com/author/hotwire/"
+},
+{
+"text": "Blog",
+"href": "https://billyraywilson.com/blog/"
+},
+{
+"text": "Blog Post",
+"href": "https://billyraywilson.com/category/blog-post/"
+},
+{
+"text": "Books",
+"href": "https://billyraywilson.com/books/"
+},
+{
+"text": "Contact",
+"href": "https://billyraywilson.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://billyraywilson.com/the-old-and-new-testament-are-basically-untruths/"
+},
+{
+"text": "[image: Billy Ray Wilson – American Veteran, Author, and Political Candidate]",
+"href": "https://billyraywilson.com/"
+},
+{
+"text": "blog attachment",
+"href": "https://billyraywilson.com/wp-content/uploads/2026/05/blog-attachment.pdf"
+},
+{
+"text": "← Previous Post",
+"href": "https://billyraywilson.com/mothers-day/"
+}
 ]

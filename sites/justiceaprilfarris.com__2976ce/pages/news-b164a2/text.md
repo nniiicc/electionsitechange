@@ -1,6 +1,6 @@
-April L.
+Hit enter to search or ESC to close Home Meet Justice Farris Judicial Philosophy Stay Updated DONATE News Texas Business Court Update: Governor Abbott Appoints Inaugural Appellate and Trial Court Judges Calum Hayes | Featured | No Comments April L.
 Farris of Houston is a Justice on the First Court of Appeals, where she has served since January 2021.
-Previously, she was an Appellate Litigation Partner at Yetter…
-"These highly experienced individuals will serve a vital role in our state’s effort to ensure that the Texas Constitution and state statutes are applied uniformly throughout Texas..."
-The Fifteenth District Court of Appeals held its inaugural oral arguments, including the media fight over access to Texas Department of Public Safety records of the Robb Elementary shooting investigation.
-Proponents say the new appeals court will improve judicial efficiency, place people with business expertise on the bench and allow issues with implications statewide to be heard by judges elected…
+Previously, she was an Appellate Litigation Partner at Yetter… Abbott Appoints Three Judges, including April Farris, to New Fifteenth Court of Appeals With Jurisdiction Over Suits Involving State Calum Hayes | Featured , News | No Comments "These highly experienced individuals will serve a vital role in our state’s effort to ensure that the Texas Constitution and state statutes are applied uniformly throughout Texas..." For the First Time, Texas Court Hears Oral Arguments Calum Hayes | Featured | No Comments The Fifteenth District Court of Appeals held its inaugural oral arguments, including the media fight over access to Texas Department of Public Safety records of the Robb Elementary shooting investigation.
+Abbott appoints first judges to new appeals court for cases involving state government, businesses Calum Hayes | Featured | No Comments Proponents say the new appeals court will improve judicial efficiency, place people with business expertise on the bench and allow issues with implications statewide to be heard by judges elected… For a downloadable high-resolution image, click here .
+Political ad paid for by the Justice April Farris Campaign.
+Contact: JusticeAprilFarris@gmail.com Home Meet Justice Farris Judicial Philosophy Stay Updated DONATE

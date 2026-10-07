@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.proven4oklahoma.com/vote",
- "paid_for_by": null,
+ "fingerprint": "449110ef429f2b7ada8265c20e75218991d4ae45",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

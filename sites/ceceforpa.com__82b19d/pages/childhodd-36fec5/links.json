@@ -1,12 +1,42 @@
 [
-"https://ceceforpa.com/",
-"https://ceceforpa.com/meet-ce-ce",
-"https://ceceforpa.com/platform-issues",
-"https://docs.google.com/forms/d/e/1FAIpQLSdTawezfOr4YZwNYocrh5wJlL3m1Cc_rhvV6UKct-5-jhx-LA/viewform?usp=header",
-"https://docs.google.com/forms/d/e/1FAIpQLSepDPrdRVYbItUxHl_zuJmvlgzHs01nQMKlPPhSZkouhv01nw/viewform?usp=header",
-"https://facebook.com/cece4pa",
-"https://instagram.com/ceceforpa",
-"https://secure.actblue.com/donate/ce-ce-gerlach-1",
-"https://tiktok.com/@ceceforpa?is_from_webapp=1&sender_device=pc",
-"https://youtube.com/@ceceforpa"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ce-ce-gerlach-1"
+},
+{
+"text": "HOME",
+"href": "https://www.ceceforpa.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.ceceforpa.com/platform-issues"
+},
+{
+"text": "MEET CE-CE",
+"href": "https://www.ceceforpa.com/meet-ce-ce"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSepDPrdRVYbItUxHl_zuJmvlgzHs01nQMKlPPhSZkouhv01nw/viewform?usp=header"
+},
+{
+"text": "YARD SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdTawezfOr4YZwNYocrh5wJlL3m1Cc_rhvV6UKct-5-jhx-LA/viewform?usp=header"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/cece4pa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/ceceforpa"
+},
+{
+"text": "[image: TikTok ]",
+"href": "https://www.tiktok.com/@ceceforpa?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@ceceforpa"
+}
 ]

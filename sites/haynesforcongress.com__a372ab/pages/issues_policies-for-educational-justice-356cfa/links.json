@@ -1,15 +1,62 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61586383132511&mibextid=wwXIfr&rdid=hQHuOmsBQHzso4Ke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HZjJQgN9b%2F%3Fmibextid%3DwwXIfr",
-"https://haynesforcongress.com/",
-"https://haynesforcongress.com/WhyImRunning",
-"https://haynesforcongress.com/about",
-"https://haynesforcongress.com/contact",
-"https://haynesforcongress.com/donate",
-"https://haynesforcongress.com/issues",
-"https://haynesforcongress.com/join-the-movement",
-"https://haynesforcongress.com/voter-information",
-"https://instagram.com/haynesforcongress",
-"https://oneswitchboard.com/privacy-policy/haynes-for-congress",
-"https://tiktok.com/@haynesforcongress?lang=en"
+{
+"text": "Contact",
+"href": "https://www.haynesforcongress.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.haynesforcongress.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.haynesforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.haynesforcongress.com/issues"
+},
+{
+"text": "Join the Movement",
+"href": "https://www.haynesforcongress.com/join-the-movement"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://oneswitchboard.com/privacy-policy/haynes-for-congress"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "VOTER INFORMATION",
+"href": "https://www.haynesforcongress.com/join-the-movement"
+},
+{
+"text": "Voter Information",
+"href": "https://www.haynesforcongress.com/voter-information"
+},
+{
+"text": "Who I Am",
+"href": "https://www.haynesforcongress.com/about"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.haynesforcongress.com/WhyImRunning"
+},
+{
+"text": "[image: Haynes for Congress]",
+"href": "https://www.haynesforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61586383132511&mibextid=wwXIfr&rdid=hQHuOmsBQHzso4Ke&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HZjJQgN9b%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/haynesforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@haynesforcongress?lang=en"
+}
 ]

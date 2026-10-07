@@ -1,8 +1,8 @@
-| It wouldn’t be March in Vermont without a messy snowstorm.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources Week 11 Update - Budget, Housing and Gov's Executive Order 3/29/2025 0 Comments It wouldn’t be March in Vermont without a messy snowstorm.
 It was a bit of a messy week in Montpelier as we spent most of our time on the house floor.
-You can track our activity at https://legislature.vermont.gov/.
+You can track our activity at https://legislature.vermont.gov/ .
 We archive all sessions on YouTube which can also be found by following the link above.
-Please reach out to me ([email protected]) or Representative Dolan ([email protected]) at any time.
+Please reach out to me ( [email protected] ) or Representative Dolan ( [email protected] ) at any time.
 We are always happy to answer questions and share perspectives.
 Your engagement helps ensure we are informed about what is important to you.
 YOU’RE INVITED TO OUR COMMUNITY CONVERSATION SERIES Please join your Essex House delegation during the legislative session for "Community Conversations," a monthly forum for updates on bills, committees, caucus activities and more.
@@ -32,4 +32,6 @@ The bill makes it easier to finance housing and related infrastructure, and adds
 The bill provides funding to assist first-time and first-generation homebuyers and contains funding to develop housing that lower income and middle-income Vermonters can afford to rent and buy.
 Thank you for the opportunity to serve our community.
 Rep.
-Lori Houghton |
+Lori Houghton 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

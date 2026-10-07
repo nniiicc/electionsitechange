@@ -1,13 +1,46 @@
 [
-"https://emiliekrasnow.com/",
-"https://emiliekrasnow.com/cart",
-"https://emiliekrasnow.com/endorsements",
-"https://emiliekrasnow.com/get-in-touch",
-"https://emiliekrasnow.com/get-involved",
-"https://emiliekrasnow.com/legislative-priorities",
-"https://emiliekrasnow.com/meet-emilie",
-"https://emiliekrasnow.com/why-i-run",
-"https://facebook.com/emiliekrasnowforsouthburlington",
-"https://instagram.com/emiliekrasnow",
-"https://secure.actblue.com/donate/emilie"
+{
+"text": "0",
+"href": "https://www.emiliekrasnow.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emilie"
+},
+{
+"text": "Endorsements",
+"href": "https://www.emiliekrasnow.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.emiliekrasnow.com/get-involved"
+},
+{
+"text": "Get in Touch",
+"href": "https://www.emiliekrasnow.com/get-in-touch"
+},
+{
+"text": "Legislative Priorities",
+"href": "https://www.emiliekrasnow.com/legislative-priorities"
+},
+{
+"text": "Meet Emilie",
+"href": "https://www.emiliekrasnow.com/meet-emilie"
+},
+{
+"text": "Why I Run",
+"href": "https://www.emiliekrasnow.com/why-i-run"
+},
+{
+"text": "[image: Emilie Krasnow for South Burlington]",
+"href": "https://www.emiliekrasnow.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/emiliekrasnowforsouthburlington"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/emiliekrasnow/"
+}
 ]

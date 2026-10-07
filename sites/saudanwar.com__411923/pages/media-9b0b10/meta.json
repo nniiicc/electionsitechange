@@ -1,7 +1,11 @@
 {
  "description": "Media center for Dr. Saud Anwar's campaign - approved photos, bios, and logos, free for press and partners to use.",
  "final_url": "https://saudanwar.com/media",
+ "fingerprint": "b0c2e54e78d90cb1731e25d4a44069b59da6986c",
+ "format": 3,
  "paid_for_by": "Paid for by Saud Anwar for State Senate 2026",
  "title": "Media Center - Dr. Saud Anwar for State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

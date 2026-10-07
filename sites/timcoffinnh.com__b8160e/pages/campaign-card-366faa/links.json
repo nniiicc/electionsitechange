@@ -1,16 +1,66 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://img1.wsimg.com/blobby/go/ae992a06-eb79-4bda-9ab2-b60a029915e0/TimCoffin_PalmCard.pdf",
-"https://secure.anedot.com/friends-of-tim-coffin/contribute",
-"https://timcoffinnh.com/",
-"https://timcoffinnh.com/about-tim",
-"https://timcoffinnh.com/blog-posts",
-"https://timcoffinnh.com/campaign-card",
-"https://timcoffinnh.com/contact",
-"https://timcoffinnh.com/news-1",
-"https://timcoffinnh.com/on-the-issues",
-"https://timcoffinnh.com/simply-put",
-"https://timcoffinnh.com/videos",
-"https://timcoffinnh.com/volunteer",
-"https://timcoffinnh.com/what-im-hearing"
+{
+"text": "About Tim",
+"href": "https://timcoffinnh.com/about-tim"
+},
+{
+"text": "Blog Posts",
+"href": "https://timcoffinnh.com/blog-posts"
+},
+{
+"text": "Campaign Card",
+"href": "https://timcoffinnh.com/campaign-card"
+},
+{
+"text": "Contact",
+"href": "https://timcoffinnh.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/friends-of-tim-coffin/contribute"
+},
+{
+"text": "Download PDF",
+"href": "https://img1.wsimg.com/blobby/go/ae992a06-eb79-4bda-9ab2-b60a029915e0/TimCoffin_PalmCard.pdf"
+},
+{
+"text": "Home",
+"href": "https://timcoffinnh.com/"
+},
+{
+"text": "News",
+"href": "https://timcoffinnh.com/news-1"
+},
+{
+"text": "On the Issues",
+"href": "https://timcoffinnh.com/on-the-issues"
+},
+{
+"text": "Simply Put",
+"href": "https://timcoffinnh.com/simply-put"
+},
+{
+"text": "Videos",
+"href": "https://timcoffinnh.com/videos"
+},
+{
+"text": "Volunteer",
+"href": "https://timcoffinnh.com/volunteer"
+},
+{
+"text": "What I'm hearing",
+"href": "https://timcoffinnh.com/what-im-hearing"
+},
+{
+"text": "[image]",
+"href": "https://timcoffinnh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://img1.wsimg.com/blobby/go/ae992a06-eb79-4bda-9ab2-b60a029915e0/TimCoffin_PalmCard.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

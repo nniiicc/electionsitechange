@@ -1,38 +1,170 @@
 [
-"https://bsky.app/profile/maurakellerforga.bsky.social",
-"https://facebook.com/MauraKellerforGeorgia",
-"https://feminist.org/",
-"https://instagram.com/maurakellerforgeorgia",
-"https://linkedin.com/in/maura-keller-68581424",
-"https://maurakeller.com/",
-"https://maurakeller.com/about",
-"https://maurakeller.com/cart",
-"https://maurakeller.com/contact",
-"https://maurakeller.com/early-voting",
-"https://maurakeller.com/endorsements",
-"https://maurakeller.com/endorsements/hold-the-line",
-"https://maurakeller.com/endorsements/mental-health-now",
-"https://maurakeller.com/events",
-"https://maurakeller.com/issues",
-"https://maurakeller.com/join",
-"https://maurakeller.com/lawn-signs",
-"https://maurakeller.com/meet",
-"https://maurakeller.com/news",
-"https://maurakeller.com/privacy-policy",
-"https://maurakeller.com/take-action",
-"https://maurakeller.com/volunteer",
-"https://maurakeller.com/yardsigns",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/r/maurakeller",
-"https://secure.actblue.com/donate/mkellerwebsite",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=10",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=100",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=25",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=5",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=50",
-"https://secure.actblue.com/donate/mkellerwebsite?amount=other",
-"https://secure.actblue.com/donate/tshirtsmk",
-"https://tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1",
-"https://x.com/MauraKellerGA",
-"https://youtube.com/@GetMoreWithMaura"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=50"
+},
+{
+"text": "0",
+"href": "https://maurakeller.com/cart"
+},
+{
+"text": "All Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Back",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "Contact",
+"href": "https://maurakeller.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mkellerwebsite"
+},
+{
+"text": "Early Voting",
+"href": "https://maurakeller.com/early-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://maurakeller.com/events"
+},
+{
+"text": "Feminist Majority",
+"href": "https://feminist.org/"
+},
+{
+"text": "Folder: About",
+"href": "https://maurakeller.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://maurakeller.com/take-action"
+},
+{
+"text": "Home",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "Issues",
+"href": "https://maurakeller.com/issues"
+},
+{
+"text": "Join",
+"href": "https://maurakeller.com/join"
+},
+{
+"text": "Learn More",
+"href": "https://feminist.org/"
+},
+{
+"text": "Meet Maura",
+"href": "https://maurakeller.com/meet"
+},
+{
+"text": "News",
+"href": "https://maurakeller.com/news"
+},
+{
+"text": "Next Next Recognized Candidate: Mental Health Now",
+"href": "https://maurakeller.com/endorsements/mental-health-now"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mkellerwebsite?amount=other"
+},
+{
+"text": "Previous Previous Hold the Line",
+"href": "https://maurakeller.com/endorsements/hold-the-line"
+},
+{
+"text": "Privacy Policy/Terms of Service",
+"href": "https://maurakeller.com/privacy-policy"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://maurakeller.com/yardsigns"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/volunteer"
+},
+{
+"text": "[image: Maura Keller]",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maurakellerforga.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MauraKellerforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maurakellerforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/maura-keller-68581424/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/r/maurakeller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GetMoreWithMaura"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MauraKellerGA"
+},
+{
+"text": "lawn signs",
+"href": "https://maurakeller.com/lawn-signs"
+},
+{
+"text": "maura@maurakeller.com",
+"href": "mailto:maura@maurakeller.com"
+},
+{
+"text": "t-shirts",
+"href": "https://secure.actblue.com/donate/tshirtsmk"
+},
+{
+"text": "volunteering",
+"href": "https://maurakeller.com/volunteer"
+}
 ]

@@ -1,8 +1,2 @@
-The bill aims to strengthen data protection for consumers, but reactions vary based on regional priorities, business interests, …
-by Michael
-January 8, 2025
-Grassroots donations power this campaign.
-Thank you for helping us build a movement that answers to people, not …
-January 4, 2025
-Break down complex policies through the real-life experiences of those who stand to be most affected.
-January 1, 2025
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Category: Policy Spotlight Home | Policy Spotlight Policy Spotlight What Local Voices Are Saying About the Privacy Bill The bill aims to strengthen data protection for consumers, but reactions vary based on regional priorities, business interests, … by Michael January 8, 2025 Policy Spotlight We’re Not Backed by Big Money—We’re Backed by You Grassroots donations power this campaign.
+Thank you for helping us build a movement that answers to people, not … by Michael January 4, 2025 Policy Spotlight From Policy to People: How Proposed Laws Impact Daily Life Break down complex policies through the real-life experiences of those who stand to be most affected. by Michael January 1, 2025 Featured Posts Behind the Scenes: A Day in the Life on the Campaign Trail January 9, 2025 What Local Voices Are Saying About the Privacy Bill January 8, 2025 Meet the Volunteers Powering the Movement January 7, 2025 Paid for by Callison for Assembly 2026, FPPC ID #1483879.

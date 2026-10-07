@@ -1,3 +1,3 @@
-Volunteer 〰️ Volunteer 〰️ Our campaign is community-powered.
+0 Skip to Content About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu About Platform Issues Statement on Labor Endorsements Volunteer Contact Donate About Folder: Platform Back Issues Statement on Labor Endorsements Volunteer Contact Donate Volunteer 〰️ Volunteer 〰️ Volunteer 〰️ Our campaign is community - powered .
 Volunteer with us to build a more just future for all Minnesotans.
-Click to VOLUNTEER check out our Facebook for more updates!
+Click to VOLUNTEER check out our Facebook for more updates! don’t miss a thing Sign up to receive news and updates about Leigh for 66A. prepared and paid for by Leigh Finke for Minnesota PO Box 40206, Saint Paul, MN 55104 leighformn@gmail.com

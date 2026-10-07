@@ -1,32 +1,5 @@
-New York State Conservative Party
-House Republican Conference Chair Elise Stefanik
-Senate Minority Leader Rob Ortt
-Assembly Minority Leader Will Barclay
-Assemblyman Angelo Morinello
-Assemblyman Ken Blankenbush
-Assemblyman David DiPietro
-Assemblywoman Marjorie Byrnes
-Oswego County Sheriff Don Hilton
-New York State Rifle & Pistol Association
-National Rifle Association
-Sergeants Benevolent Association of the New York City Police Department
-Cayuga County Deputy Sheriff’s Police Association
-National Federation of Independent Businesses
-American Association for Senior Citizens
-Jefferson County Conservative Party Chairman
-Oswego County Conservative Party
-Wayne GOP Chairman MaryAnne Nicosia – McCarthy
-Orleans County Republican Chairman Skip Draper
-Yates County Republican Committee Chairman Jack Prendergast
-Wyoming Republican Committee Chairwoman Ellen Grant
-Cayuga County Conservative Party
-Wayne County Conservative Party
-Yates County GOP Chairman
-The New York State Law Enforcement Officers Union
-The Police Conference of New York
-CANANDAIGUA GOLD BADGE CLUB
-FINGER LAKES POLICE FEDERATION
-NYS POLICE INVESTIGATORS ASSOCIATION
-Oswego County Conservative Party Chairman Ronald Greenleaf
-Wayne County Conservative Party Chairman Mike Garlock
-Join the growing list of supporters and endorse Claudia Today!
+Donate About Bio Endorsements Accomplishments Issues Media Get Involved Store About Bio Endorsements Accomplishments Issues Media Get Involved Store Donate Endorse Claudia Endorse Claudia!
+President Donald Trump New York State Conservative Party House Republican Conference Chair Elise Stefanik Senate Minority Leader Rob Ortt Assembly Minority Leader Will Barclay Assemblyman Angelo Morinello Assemblyman Mike Norris Assemblyman Mark Walczyk Assemblyman Ken Blankenbush Assemblyman David DiPietro Assemblywoman Marjorie Byrnes Oswego County Sheriff Don Hilton New York State Rifle & Pistol Association National Rifle Association Sergeants Benevolent Association of the New York City Police Department Cayuga County Deputy Sheriff’s Police Association IBEW Local 97 National Federation of Independent Businesses National Right to Life New York Right to Life Susan B.
+Anthony List American Association for Senior Citizens Livingston County GOP Ontario County GOP Oswego County GOP Cayuga County GOP Jefferson County Conservative Party Chairman Oswego County Conservative Party Wayne GOP Chairman MaryAnne Nicosia – McCarthy Orleans County Republican Chairman Skip Draper Seneca County GOP Yates County Republican Committee Chairman Jack Prendergast Wyoming Republican Committee Chairwoman Ellen Grant Cayuga County Conservative Party Wayne County Conservative Party Yates County GOP Chairman The New York State Law Enforcement Officers Union The Police Conference of New York CANANDAIGUA GOLD BADGE CLUB FINGER LAKES POLICE FEDERATION BATAVIA PBA WATERTOWN PBA NYS PARK POLICE PBA MEDINA PBA NYS POLICE INVESTIGATORS ASSOCIATION LOCKPORT PBA GENEVA PBA FULTON PBA Oswego County Conservative Party Chairman Ronald Greenleaf Wayne County Conservative Party Chairman Mike Garlock Members of Congress See all Endorsements Join the growing list of supporters and endorse Claudia Today!
+Name * First Last County * Zip * Phone * Email * Tell us why you're endorsing Claudia Support Upstate New York Businesses!
+Bio Accomplishments Issues News Get Involved Online Store Donate Stay Updated With Our Campaign Email Address * Zip Code PRIVACY POLICY PO Box 378 Victor, NY 14564 ©# | [email protected] Paid for by Claudia Tenney for Congress

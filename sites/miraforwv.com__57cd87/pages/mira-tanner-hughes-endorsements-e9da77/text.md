@@ -1,12 +1,1 @@
-A Future You Can Afford
-Campaign
-HOME
-ABOUT
-PRIORITIES
-ENDORSEMENTS
-GET INVOLVED
-DISTRICT 65
-Connect
-mirath@tuta.com
-(681) 245-7654
-West Virginia House of Delegates District 65
+Mira Tanner-Hughes | WV District 65 Home About Priorities Endorsements Get Involved District 65 Mira Tanner-Hughes | WV District 65 Home About Priorities Endorsements Get Involved District 65 Organizations endorsing Mira Mira Tanner-Hughes A Future You Can Afford Campaign HOME ABOUT PRIORITIES ENDORSEMENTS GET INVOLVED DISTRICT 65 Connect mirath@tuta.com (681) 245-7654 West Virginia House of Delegates District 65 © # District 65 Campaign - A grassroots campaign for West Virginia.

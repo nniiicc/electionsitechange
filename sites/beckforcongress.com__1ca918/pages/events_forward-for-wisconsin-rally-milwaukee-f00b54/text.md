@@ -1,10 +1,5 @@
-Back to All Events
-Hear your candidates for this Fall’s General Election and cheer them on!
+0 Skip to Content About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Press Releases Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Open Menu Close Menu About Issues Events Folder: Press Releases Back Beck Campaign Commits To “Unrig Washington” Beck Campaign Receives Mental Health Now Designation Blue 5th Coalition Launches with 14 Candidates News Volunteer Endorsed Press Kit Video and Radio Ads Merch Contribute Back to All Events Forward for Wisconsin Rally: Milwaukee!
+Wednesday, August 12, 2026 4:30 PM 7:00 PM Turner Hall 1040 North Vel R.
+Phillips Avenue Milwaukee, Wisconsin, 53203 United States (map) Google Calendar ICS Hear your candidates for this Fall’s General Election and cheer them on!
 I’ll be there!
-Previous
-Previous
-August 6
-Beck for Congress Fundraiser
-Next
-Next
-August 15
+Previous Previous August 6 Beck for Congress Fundraiser Next Next August 15 Brookfield Farmer's Market DONATE NOW Contact: andy.beck@beckforcongress.com press@beckforcongress.com info@beckforcongress.com When donating by mail, please make checks payable to: Beck for Congress PO Box 253, West Bend, WI 53095 Authorized and Paid for by Beck for Congress

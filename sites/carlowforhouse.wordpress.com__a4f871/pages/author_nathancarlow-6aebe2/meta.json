@@ -1,10 +1,14 @@
 {
  "description": "Read all of the posts by communicationsdirector on Nathan Carlow for Representative",
  "final_url": "https://carlowforhouse.wordpress.com/author/nathancarlow/",
- "paid_for_by": null,
- "title": "communicationsdirector \u2013 Nathan Carlow for Representative",
+ "fingerprint": "3abd3c0985db3d01d6aaf2a0b830e4f18ad4ed0a",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
+ "title": "communicationsdirector – Nathan Carlow for Representative",
  "years_mentioned": [
+  "2020",
   "2021",
-  "2022"
+  "2022",
+  "2024"
  ]
 }

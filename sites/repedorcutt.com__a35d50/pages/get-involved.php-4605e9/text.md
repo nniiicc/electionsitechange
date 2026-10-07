@@ -1,7 +1,4 @@
-Here are some helpful links!
-| SENATOR JOHN BRAUN, 20TH DISTRICT, REPUBLICAN REPRESENTATIVE RICHARD DEBOLT, 20TH DISTRICT, REPUBLICAN |
-| Click here for a larger view For more information, please visit the Washington State Redistricting Commission's website |
-Featured Content
-More coming soon!
-May 11, 2018 – Rural Areas Seek Broadband
-March 22, 2018 – Volunteers Share Love for Toledo (Click link and scroll to appropriate story)
+Home Meet Ed Issues Achievements Get Involved News Calendar Donate Contact Get Involved Here are some helpful links!
+LINKS SENATOR JOHN BRAUN, 20TH DISTRICT, REPUBLICAN REPRESENTATIVE RICHARD DEBOLT, 20TH DISTRICT, REPUBLICAN COMMUNITY LINKS Newspapers: THE CHRONICLE THE OLYMPIAN THE COLUMBIAN NEWSPAPER THE LONGVIEW DAILY NEWS THE REFLECTOR Counties: THURSTON COUNTY LEWIS COUNTY CLARK COUNTY COWLITZ COUNTY Cities: CITY OF CENTRALIA CITY OF CHEHALIS CITY OF KALAMA CITY OF MORTON CITY OF MOSSYROCK CITY OF NAPAVINE CITY OF ONALASKA CITY OF PACKWOOD CITY OF PE ELL CITY OF RANDLE CITY OF ROCHESTER CITY OF TENINO CITY OF TOLEDO CITY OF VADER CITY OF WINLOCK CITY OF WOODLAND Click here for a larger view For more information, please visit the Washington State Redistricting Commission's website Donate Register to Vote Featured Content More coming soon!
+May 11, 2018 – Rural Areas Seek Broadband March 22, 2018 – Volunteers Share Love for Toledo (Click link and scroll to appropriate story) Send Correspondence To: Committee To Re-Elect Ed Orcutt PO Box 1280 Kalama, Washington 98625 ElectEdOrcutt@kalama.com Keep Ed Orcutt working for us as our State Representative!
+State Representative, 20th Legislative District, Position 2, Republican Paid for by the Committee to Re-Elect Ed Orcutt • © Copyright # • All Rights Reserved

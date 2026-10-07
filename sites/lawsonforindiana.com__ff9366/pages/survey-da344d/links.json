@@ -1,12 +1,50 @@
 [
-"http://facebook.com/LawsonForIndiana",
-"http://instagram.com/LawsonForIN",
-"http://twitter.com/EthanJLawson",
-"https://facebook.com/LawsonForIndiana",
-"https://lawsonforindiana.com/",
-"https://lawsonforindiana.com/priorities",
-"https://lawsonforindiana.com/property-tax",
-"https://lawsonforindiana.com/survey",
-"https://lawsonforindiana.com/vote",
-"https://secure.winred.com/ethan-lawson-for-indiana/donate-today"
+{
+"text": "About Ethan",
+"href": "https://www.lawsonforindiana.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ethan-lawson-for-indiana/donate-today"
+},
+{
+"text": "Priorities",
+"href": "https://www.lawsonforindiana.com/priorities"
+},
+{
+"text": "Property Tax Relief",
+"href": "https://www.lawsonforindiana.com/property-tax"
+},
+{
+"text": "Vote",
+"href": "https://www.lawsonforindiana.com/vote"
+},
+{
+"text": "What's on your mind?",
+"href": "https://www.lawsonforindiana.com/survey"
+},
+{
+"text": "[image: Ethan Lawson for Indiana State Representative]",
+"href": "https://www.lawsonforindiana.com"
+},
+{
+"text": "[image: Facebook | Ethan Lawson]",
+"href": "http://www.facebook.com/LawsonForIndiana"
+},
+{
+"text": "[image: Facebook | Ethan Lawson]",
+"href": "https://www.facebook.com/LawsonForIndiana"
+},
+{
+"text": "[image: Instagram | Ethan Lawson]",
+"href": "http://instagram.com/LawsonForIN"
+},
+{
+"text": "[image: X / Twitter | Ethan Lawson]",
+"href": "http://www.twitter.com/EthanJLawson"
+},
+{
+"text": "[image: X/Twitter | Ethan Lawson]",
+"href": "http://www.twitter.com/EthanJLawson"
+}
 ]

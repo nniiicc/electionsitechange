@@ -1,29 +1,150 @@
 [
-"https://cagop.org/",
-"https://cagop.org/register-to-vote",
-"https://facebook.com/MartinezforAssembly",
-"https://gop.com/",
-"https://instagram.com/martinezforassembly",
-"https://lagop.org/",
-"https://martinezforassembly.org/",
-"https://martinezforassembly.org/2024/07/27/my-thoughts-on-religion-and-government",
-"https://martinezforassembly.org/2024/09/14/ballot-statement-english",
-"https://martinezforassembly.org/2026/10/04/ballot-statement-english",
-"https://martinezforassembly.org/2026/10/04/ballot-statement-english-2",
-"https://martinezforassembly.org/about",
-"https://martinezforassembly.org/contact-me",
-"https://martinezforassembly.org/gallery",
-"https://martinezforassembly.org/get-involved",
-"https://martinezforassembly.org/news",
-"https://martinezforassembly.org/speaking",
-"https://martinezforassembly.org/what-we-do",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/56-Map-2.jpg",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/California_Republican_Party_logo_2024.svg_.png",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/F2019Platform.pdf",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/RNC2024-Platform.pdf",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/Republican_Party_Logo_50x50.png",
-"https://martinezforassembly.org/wp-content/uploads/2024/07/Yes4Jess-Button-2.25b.jpg",
-"https://martinezforassembly.org/wp-content/uploads/2024/09/diverse-voters-at-polls.jpg",
-"https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today",
-"https://x.com/Jessicafor56th"
+{
+"text": "About",
+"href": "https://www.martinezforassembly.org/about"
+},
+{
+"text": "About",
+"href": "https://www.martinezforassembly.org/about/"
+},
+{
+"text": "Ballot Statement – English",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english-2/"
+},
+{
+"text": "Ballot Statement – Spanish",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english/"
+},
+{
+"text": "Ballot Statements",
+"href": "https://www.martinezforassembly.org/2024/09/14/ballot-statement-english/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today"
+},
+{
+"text": "Click to read more.",
+"href": "https://www.martinezforassembly.org/2024/07/27/my-thoughts-on-religion-and-government/"
+},
+{
+"text": "Contact Me",
+"href": "https://www.martinezforassembly.org/contact-me/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/MartinezforAssembly/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.martinezforassembly.org/get-involved/"
+},
+{
+"text": "Gallery",
+"href": "https://www.martinezforassembly.org/gallery/"
+},
+{
+"text": "Give",
+"href": "https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.martinezforassembly.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/martinezforassembly"
+},
+{
+"text": "Mail",
+"href": "mailto:martinezforassembly@gmail.com"
+},
+{
+"text": "Martinez Agenda",
+"href": "https://www.martinezforassembly.org/news/"
+},
+{
+"text": "News",
+"href": "https://www.martinezforassembly.org/news/"
+},
+{
+"text": "Read more: Ballot Statement – English",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english-2/"
+},
+{
+"text": "Read more: Ballot Statement – Spanish",
+"href": "https://www.martinezforassembly.org/2026/10/04/ballot-statement-english/"
+},
+{
+"text": "X",
+"href": "https://x.com/Jessicafor56th"
+},
+{
+"text": "[image: Vote]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/09/diverse-voters-at-polls.jpg"
+},
+{
+"text": "[image]",
+"href": "https://cagop.org/register-to-vote/"
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/56-Map-2.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/California_Republican_Party_logo_2024.svg_.png"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/F2019Platform.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/Republican_Party_Logo_50x50.png"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/Yes4Jess-Button-2.25b.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://cagop.org"
+},
+{
+"text": "[no text]",
+"href": "https://secure.winred.com/jessica-martinez-for-56th-assembly-2024/donate-today"
+},
+{
+"text": "[no text]",
+"href": "https://www.gop.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.lagop.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.martinezforassembly.org/speaking/"
+},
+{
+"text": "[no text]",
+"href": "https://www.martinezforassembly.org/what-we-do/"
+},
+{
+"text": "[no text]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/F2019Platform.pdf"
+},
+{
+"text": "[no text]",
+"href": "https://www.martinezforassembly.org/wp-content/uploads/2024/07/RNC2024-Platform.pdf"
+},
+{
+"text": "martinezforassembly@gmail.com",
+"href": "mailto:office@martinezforassembly.org/"
+}
 ]

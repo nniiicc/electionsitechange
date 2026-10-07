@@ -1,37 +1,202 @@
 [
-"http://addtocalendar.com/atc/google?utz=420&uln=en-US&vjs=1.5&e%5B0%5D%5Bdate_start%5D=10%2F25%2F23+07%3A00&e%5B0%5D%5Bdate_end%5D=10%2F30%2F23+15%3A00&e%5B0%5D%5Btitle%5D=The+Financial+Freedom+Boot+Camp+2024&e%5B0%5D%5Bdescription%5D=This+event+is+free+and+open+to+the+public%3Cbr%3E%3Cbr%3Ehttps%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&e%5B0%5D%5Blocation%5D=8+Street%2C+San+Marcos+London%2C+UK&e%5B0%5D%5Borganizer%5D=Ovatheme",
-"http://addtocalendar.com/atc/ical?utz=420&uln=en-US&vjs=1.5&e%5B0%5D%5Bdate_start%5D=10%2F25%2F23+07%3A00&e%5B0%5D%5Bdate_end%5D=10%2F30%2F23+15%3A00&e%5B0%5D%5Btitle%5D=The+Financial+Freedom+Boot+Camp+2024&e%5B0%5D%5Bdescription%5D=This+event+is+free+and+open+to+the+public%3Cbr%3E%3Cbr%3Ehttps%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&e%5B0%5D%5Blocation%5D=8+Street%2C+San+Marcos+London%2C+UK&e%5B0%5D%5Borganizer%5D=Ovatheme",
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F",
-"https://anbreamccoy.org/",
-"https://anbreamccoy.org/about",
-"https://anbreamccoy.org/contact",
-"https://anbreamccoy.org/event",
-"https://anbreamccoy.org/event/city-innovation-and-technology-meeting",
-"https://anbreamccoy.org/event/events-for-the-public-in-south-east-asia",
-"https://anbreamccoy.org/event/organizing-2024-city-photography-new-contest",
-"https://anbreamccoy.org/event/organizing-city-contest-2025",
-"https://anbreamccoy.org/event/the-financial-freedom-boot-camp-2024",
-"https://anbreamccoy.org/event/the-strategically-build-your-business",
-"https://anbreamccoy.org/event/the-upstairs-room-of-a-art-taminiau",
-"https://anbreamccoy.org/event_category/conference",
-"https://anbreamccoy.org/event_category/health-sports",
-"https://anbreamccoy.org/event_category/museum",
-"https://anbreamccoy.org/event_tag/city",
-"https://anbreamccoy.org/event_tag/culture",
-"https://anbreamccoy.org/event_tag/gimont",
-"https://anbreamccoy.org/event_tag/government",
-"https://anbreamccoy.org/event_tag/museum",
-"https://anbreamccoy.org/events",
-"https://anbreamccoy.org/issues-priorities",
-"https://anbreamccoy.org/news",
-"https://anbreamccoy.org/wp-content/uploads/2023/06/event-02-1024x449.jpg",
-"https://anbreamccoy.org/wp-content/uploads/2023/06/event-03-1024x452.jpg",
-"https://facebook.com/profile.php?id=61575391498327",
-"https://instagram.com/mccoy4delegate",
-"https://linkedin.com/in/anbrea-mccoy-8a14441b9",
-"https://ovatheme.com/",
-"https://pinterest.com/pin/create/button?url=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F",
-"https://secure.anedot.com/friends-of-anbrea-mccoy-/60662819-eb02-4f9d-ae1b-af0ee65758bd",
-"https://twitter.com/share?url=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&text=The+Financial+Freedom+Boot+Camp+2024&hashtags=simplesharebuttons",
-"https://x.com/AnbreaMccoy"
+{
+"text": "+ Google Calendar",
+"href": "http://addtocalendar.com/atc/google?utz=420&uln=en-US&vjs=1.5&e%5B0%5D%5Bdate_start%5D=10%2F25%2F23+07%3A00&e%5B0%5D%5Bdate_end%5D=10%2F30%2F23+15%3A00&e%5B0%5D%5Btimezone%5D=&e%5B0%5D%5Btitle%5D=The+Financial+Freedom+Boot+Camp+2024&e%5B0%5D%5Bdescription%5D=This+event+is+free+and+open+to+the+public%3Cbr%3E%3Cbr%3Ehttps%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&e%5B0%5D%5Blocation%5D=8+Street%2C+San+Marcos+London%2C+UK&e%5B0%5D%5Borganizer%5D=Ovatheme&e%5B0%5D%5Borganizer_email%5D="
+},
+{
+"text": "+ Ical Export",
+"href": "http://addtocalendar.com/atc/ical?utz=420&uln=en-US&vjs=1.5&e%5B0%5D%5Bdate_start%5D=10%2F25%2F23+07%3A00&e%5B0%5D%5Bdate_end%5D=10%2F30%2F23+15%3A00&e%5B0%5D%5Btimezone%5D=&e%5B0%5D%5Btitle%5D=The+Financial+Freedom+Boot+Camp+2024&e%5B0%5D%5Bdescription%5D=This+event+is+free+and+open+to+the+public%3Cbr%3E%3Cbr%3Ehttps%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&e%5B0%5D%5Blocation%5D=8+Street%2C+San+Marcos+London%2C+UK&e%5B0%5D%5Borganizer%5D=Ovatheme&e%5B0%5D%5Borganizer_email%5D="
+},
+{
+"text": "501-487-1807",
+"href": "tel:501-487-1807"
+},
+{
+"text": "About",
+"href": "https://anbreamccoy.org/about/"
+},
+{
+"text": "Cancel reply",
+"href": "https://anbreamccoy.org/event/the-financial-freedom-boot-camp-2024/#respond"
+},
+{
+"text": "City",
+"href": "https://anbreamccoy.org/event_tag/city/"
+},
+{
+"text": "City Innovation And Technology Meeting",
+"href": "https://anbreamccoy.org/event/city-innovation-and-technology-meeting/"
+},
+{
+"text": "Conference",
+"href": "https://anbreamccoy.org/event_category/conference/"
+},
+{
+"text": "Contact",
+"href": "https://anbreamccoy.org/contact/"
+},
+{
+"text": "Culture",
+"href": "https://anbreamccoy.org/event_tag/culture/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/friends-of-anbrea-mccoy-/60662819-eb02-4f9d-ae1b-af0ee65758bd"
+},
+{
+"text": "EVENT",
+"href": "https://anbreamccoy.org/news/"
+},
+{
+"text": "Events",
+"href": "https://anbreamccoy.org/events/"
+},
+{
+"text": "Events for the public in South East Asia",
+"href": "https://anbreamccoy.org/event/events-for-the-public-in-south-east-asia/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61575391498327"
+},
+{
+"text": "Gimont",
+"href": "https://anbreamccoy.org/event_tag/gimont/"
+},
+{
+"text": "Government",
+"href": "https://anbreamccoy.org/event_tag/government/"
+},
+{
+"text": "Health & Sports",
+"href": "https://anbreamccoy.org/event_category/health-sports/"
+},
+{
+"text": "Home",
+"href": "https://anbreamccoy.org/"
+},
+{
+"text": "ISSUES",
+"href": "https://anbreamccoy.org/issues-priorities/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/mccoy4delegate/"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://anbreamccoy.org/issues-priorities/"
+},
+{
+"text": "Join The Movement",
+"href": "https://anbreamccoy.org/contact/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/anbrea-mccoy-8a14441b9/"
+},
+{
+"text": "MEET MCCOY",
+"href": "https://anbreamccoy.org/about/"
+},
+{
+"text": "Mccoy4 delegate@gmail.com",
+"href": "mailto:mccoy4 delegate@gmail.com"
+},
+{
+"text": "Museum",
+"href": "https://anbreamccoy.org/event_category/museum/"
+},
+{
+"text": "Museum",
+"href": "https://anbreamccoy.org/event_tag/museum/"
+},
+{
+"text": "Organizing 2024 city photography new contest",
+"href": "https://anbreamccoy.org/event/organizing-2024-city-photography-new-contest/"
+},
+{
+"text": "Organizing City Contest 2025",
+"href": "https://anbreamccoy.org/event/organizing-city-contest-2025/"
+},
+{
+"text": "Report Issues",
+"href": "https://anbreamccoy.org/contact/"
+},
+{
+"text": "The Strategically Build Your Business",
+"href": "https://anbreamccoy.org/event/the-strategically-build-your-business/"
+},
+{
+"text": "The Upstairs Room of A art Taminiau",
+"href": "https://anbreamccoy.org/event/the-upstairs-room-of-a-art-taminiau/"
+},
+{
+"text": "View Details",
+"href": "https://anbreamccoy.org/event/events-for-the-public-in-south-east-asia/"
+},
+{
+"text": "View Details",
+"href": "https://anbreamccoy.org/event/the-strategically-build-your-business/"
+},
+{
+"text": "WHY I’M RUNNING",
+"href": "https://anbreamccoy.org/about/#why"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/AnbreaMccoy"
+},
+{
+"text": "[image: Anbrea McCoy Delegate] [image: Anbrea McCoy Delegate] [image: Anbrea McCoy Delegate]",
+"href": "https://anbreamccoy.org/"
+},
+{
+"text": "[image: The Financial Freedom Boot Camp 2024]",
+"href": "https://anbreamccoy.org/wp-content/uploads/2023/06/event-02-1024x449.jpg"
+},
+{
+"text": "[image: The Financial Freedom Boot Camp 2024]",
+"href": "https://anbreamccoy.org/wp-content/uploads/2023/06/event-03-1024x452.jpg"
+},
+{
+"text": "[image]",
+"href": "https://anbreamccoy.org/event/events-for-the-public-in-south-east-asia/"
+},
+{
+"text": "[image]",
+"href": "https://anbreamccoy.org/event/organizing-2024-city-photography-new-contest/"
+},
+{
+"text": "[image]",
+"href": "https://anbreamccoy.org/event/organizing-city-contest-2025/"
+},
+{
+"text": "[image]",
+"href": "https://anbreamccoy.org/event/the-strategically-build-your-business/"
+},
+{
+"text": "[image]",
+"href": "https://anbreamccoy.org/event/the-upstairs-room-of-a-art-taminiau/"
+},
+{
+"text": "[no text]",
+"href": "https://anbreamccoy.org/event/"
+},
+{
+"text": "[tooltip: The Financial Freedom Boot Camp 2024]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F"
+},
+{
+"text": "[tooltip: The Financial Freedom Boot Camp 2024]",
+"href": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F"
+},
+{
+"text": "[tooltip: The Financial Freedom Boot Camp 2024]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Fanbreamccoy.org%2Fevent%2Fthe-financial-freedom-boot-camp-2024%2F&text=The+Financial+Freedom+Boot+Camp+2024&hashtags=simplesharebuttons"
+},
+{
+"text": "https://ovatheme.com",
+"href": "https://ovatheme.com"
+}
 ]

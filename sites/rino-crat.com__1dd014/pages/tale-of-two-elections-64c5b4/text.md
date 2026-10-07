@@ -1,15 +1,12 @@
-Tale of Two Elections: CI-132, I-194, Ravalli County, and the Sheep Creek Mine
-The November 2, 2026 election tells a story of Montana citizens’ initiatives running counter to national moneyed interests and partisan political extremism.
+Skip to content Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Get Involved Donate Now Facebook X-twitter Instagram Tale of Two Elections admin September 30, 2026 8:19 am No Comments Tale of Two Elections: CI-132, I-194, Ravalli County, and the Sheep Creek Mine The November 2, 2026 election tells a story of Montana citizens’ initiatives running counter to national moneyed interests and partisan political extremism.
 While the 1972 Montana Constitution is not perfect, it provides for the citizen initiative process, which has resulted in I-194 and CI-132 appearing on this election’s ballot.
 This has effectively created two parallel elections within one election.
 One is driven by national party politics and outside interests; the other reflects Montana’s tradition of making its own laws for the common good of its people.
 The initiative process allows Montanans to accomplish what their elected state government has chosen not to do.
 CI-132 does not fundamentally alter the Montana Constitution.
 It simply ensures that Montana Supreme Court elections remain nonpartisan.
-As supporters explain:
-“CI-132 is a simple initiative that adds one sentence to Montana’s Constitution: ‘Judicial elections in Montana shall remain nonpartisan.’ Montana began electing judges in nonpartisan elections in 1935 in response to the influence of the powerful Copper Kings, who were buying judges to rule in their favor.
-This measure protects that long-standing tradition so we can keep judges accountable to the people’s interests, not deeppocketed political interests.”*
-I-194 limits corporate spending in Montana elections through a different approach than the 1912 Montana Corrupt Practices Act, which remained in force for 98 years before being ruled unconstitutional in 2010.
+As supporters explain: “CI-132 is a simple initiative that adds one sentence to Montana’s Constitution: ‘Judicial elections in Montana shall remain nonpartisan.’ Montana began electing judges in nonpartisan elections in 1935 in response to the influence of the powerful Copper Kings, who were buying judges to rule in their favor.
+This measure protects that long-standing tradition so we can keep judges accountable to the people’s interests, not deeppocketed political interests.”* I-194 limits corporate spending in Montana elections through a different approach than the 1912 Montana Corrupt Practices Act, which remained in force for 98 years before being ruled unconstitutional in 2010.
 From the perspective of a Montana business owner or resident, there is little practical difference between the protections provided by the Corrupt Practices Act and those proposed in I-194.
 It is imperative that both initiatives pass, not only to help safeguard Montana’s future development and quality of life, but also to help ensure the enforcement of the rule of law in Ravalli County’s fight against the proposed Sheep Creek Mine.
 The proposed Sheep Creek Mine, promoted by U.S.
@@ -24,5 +21,6 @@ By the time these legal proceedings occur, CI-132 and I-194 will either be remem
 If both initiatives fail, resulting in judicial elections increasingly influenced by partisan politics and dark money, the odds of the rule of law prevailing over powerful mining interests become far less certain.
 Ravalli County and its residents must act now, not only to oppose the Sheep Creek Mine but also to support I-194 and CI-132 as long-term protections within Montana’s legal and judicial system.
 Call your Ravalli County commissioners and ask them to pass a resolution supporting I-194 and CI-132 before the November election.
-Vote for I-194 and CI-132.
-#I-194 #CI-132 #Sheep Creek mine #Montana election
+Vote for I-194 and CI-132. * https://yeson132.com #I-194 #CI-132 #Sheep Creek mine #Montana election more posts: Why Vote Yes on I-194: The Montana Option September 30, 2026 No Comments Read More » DEQ says no to Sheep Creek Mine Request July 27, 2026 No Comments Read More » RINO-CRAT.COM BY THE ROADSIDE July 21, 2026 No Comments Read More » Home News Articles Volunteer Contact Donate Events Home News Articles Volunteer Contact Donate Events Facebook X-twitter Instagram © # Rino-crat Campaign.
+All rights reserved.
+Read Our Privacy Policy

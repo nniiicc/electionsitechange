@@ -1,3 +1,8 @@
-Donate Thank you for supporting Representative Bruce Williamson as he works to be the voice of Walton County at the State Capitol.
+Skip to content Proudly Serving Georgia House District 115 Menu Meet Bruce At the Capitol In the Community Contact Donate Donate Thank you for supporting Representative Bruce Williamson as he works to be the voice of Walton County at the State Capitol.
 Donations are not accepted while the Legislature is in session.
 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Facebook Facebook Facebook Twitter Website Built with WordPress.com .
+Subscribe Subscribed williamsonforwalton.com Sign me up Have a WordPress.com account?
+Log in now. williamsonforwalton.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

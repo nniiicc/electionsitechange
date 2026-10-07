@@ -1,6 +1,4 @@
-English·Español·Tiếng Việt
-Connect
-district6@dannyfortexas.com
-To contribute by check please mail to:
-4401 Little Road.
-Suite 550-316 Arlington, TX 76016
+Skip to main content -- Days : -- Hours : -- Minutes : -- Seconds until Election Day English Language English Español Tiếng Việt Larger text Danny Minton for Congress District 6 My Story Priorities Endorsements How to Vote Volunteer Connect Donate Menu Danny Minton for Congress District 6 Close Home My Story Priorities Endorsements How to Vote Volunteer Connect Donate English · Español · Tiếng Việt Connect Connect with Me Email Me district6@dannyfortexas.com Facebook Danny for Texas Instagram @dannyfortexas TikTok @dannyfortexas YouTube @Dannyfortexas To contribute by check please mail to: 4401 Little Road.
+Suite 550-316 Arlington, TX 76016 Danny Minton for Congress District 6 Built for Texas My Story Priorities Endorsements How to Vote Volunteer Connect FAQ Donate To contribute by check please mail to: 4401 Little Road.
+Suite 550-316 Arlington, TX 76016 district6@dannyfortexas.com PAID FOR BY DANNY MINTON FOR TEXAS © # Privacy Policy | SMS Terms Vote District 6?
+Donate

@@ -1,7 +1,54 @@
 [
-"http://dvornickdelaware.com/",
-"https://dvornickdelaware.com/about",
-"https://dvornickdelaware.com/donate",
-"https://facebook.com/profile.php?id=61591483527936",
-"https://linkedin.com/in/eugene-s-dvornick-jr"
+{
+"text": "About",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "GET YARD SIGNS",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "Platform",
+"href": "https://www.dvornickdelaware.com/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "Vote!",
+"href": "https://www.dvornickdelaware.com/donate"
+},
+{
+"text": "[image: dvornick-logo-name-art-district.png]",
+"href": "http://www.dvornickdelaware.com"
+},
+{
+"text": "[image: facebook-footer]",
+"href": "https://www.facebook.com/profile.php?id=61591483527936"
+},
+{
+"text": "[image: facebook-header]",
+"href": "https://www.facebook.com/profile.php?id=61591483527936"
+},
+{
+"text": "[image: linkedin-footer]",
+"href": "https://www.linkedin.com/in/eugene-s-dvornick-jr/"
+},
+{
+"text": "[image: linkedin-header]",
+"href": "https://www.linkedin.com/in/eugene-s-dvornick-jr/"
+},
+{
+"text": "[image]",
+"href": "http://www.dvornickdelaware.com"
+}
 ]

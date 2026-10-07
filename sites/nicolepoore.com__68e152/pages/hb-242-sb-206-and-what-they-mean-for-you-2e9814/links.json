@@ -1,57 +1,278 @@
 [
-"http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf",
-"http://elections.delaware.gov/services/voter/absentee/index.shtml",
-"http://elections.delaware.gov/services/voter/placestoregister.shtml",
-"http://elections.delaware.gov/voter/specialneeds.shtml",
-"http://writersblockservices.com/",
-"https://facebook.com/NicolePooreSenate",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F&t=HB+242%2C+SB+206%2C+and+What+They+Mean+For+You",
-"https://ivote.de.gov/voterlogin.aspx",
-"https://linkedin.com/shareArticle?url=https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F&mini=true&title=HB+242%2C+SB+206%2C+and+What+They+Mean+For+You",
-"https://nicolepoore.com/",
-"https://nicolepoore.com/12th-district",
-"https://nicolepoore.com/about-nicole",
-"https://nicolepoore.com/about-senator-poore",
-"https://nicolepoore.com/accessibility",
-"https://nicolepoore.com/author/skendus",
-"https://nicolepoore.com/category/legislation",
-"https://nicolepoore.com/category/legislation/consumer_protection",
-"https://nicolepoore.com/category/legislation/crime",
-"https://nicolepoore.com/category/legislation/crime-and-public-safety",
-"https://nicolepoore.com/category/legislation/eco_policy",
-"https://nicolepoore.com/category/legislation/education",
-"https://nicolepoore.com/category/legislation/energy",
-"https://nicolepoore.com/category/legislation/guns",
-"https://nicolepoore.com/category/legislation/health",
-"https://nicolepoore.com/category/legislation/joint-sunset-committee",
-"https://nicolepoore.com/category/legislation/open_gov",
-"https://nicolepoore.com/category/legislation/social-policy",
-"https://nicolepoore.com/category/news",
-"https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter",
-"https://nicolepoore.com/contact",
-"https://nicolepoore.com/delaware-democrat-values",
-"https://nicolepoore.com/delaware-voting-information",
-"https://nicolepoore.com/donate-2",
-"https://nicolepoore.com/emergency-closure-of-lorewood-grove-road",
-"https://nicolepoore.com/endorsements-2",
-"https://nicolepoore.com/hb-242-sb-206-and-what-they-mean-for-you",
-"https://nicolepoore.com/home",
-"https://nicolepoore.com/legislative-recap-april-2026",
-"https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city",
-"https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly",
-"https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates",
-"https://nicolepoore.com/sb-206-veterans-day-with-the-drba-and-more",
-"https://nicolepoore.com/the-holidays-are-here-in-district-12",
-"https://nicolepoore.com/volunteer",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11272025-1.jpg",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11272025-3.png",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11272025-35.jpg",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11282025-2.jpg",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11282025-4.jpg",
-"https://nicolepoore.com/wp-content/uploads/2025/11/11282025-6.jpg",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001SkuOwtuyeSBh7n1I6Mo_KqjBCEaQB3ffsPxUlxgJAbkDZFdeOWbKh9vPpHA2eSptl1E7VMpD3MzWi616wIv95NxEg2OgR2IyvPXnPken9O_Uoos11wudCyGyEygPZbUhYz4ctRyHhHV66t-Kc9yzSV3tNf2vsMu-dvtF4tEIvnd1WtKba531gw%3D%3D&c=CedNVFUcY0Lg2GO-1BniwmuKqGZbIfMo494oTZ3rx_D5Kx6kwiSaOQ%3D%3D&ch=SuPZpurfblPb0fKnQYz7uP9kLwQgufIa8UitVApVWWApe5TpLCVAEw%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001SkuOwtuyeSBh7n1I6Mo_KqjBCEaQB3ffsPxUlxgJAbkDZFdeOWbKhzguAOcjbHvcL7gaEt1F1QRagjdmKcrlqo4OYm4iCALDTkg2HbrC0B-Ifa1JNZNEykQu_WgHfy-3nOg43-aTDq9aw6J7n0vt6NLEoGSfk76QS2kZfdS-zMy8agMc_ALfKA%3D%3D&c=CedNVFUcY0Lg2GO-1BniwmuKqGZbIfMo494oTZ3rx_D5Kx6kwiSaOQ%3D%3D&ch=SuPZpurfblPb0fKnQYz7uP9kLwQgufIa8UitVApVWWApe5TpLCVAEw%3D%3D",
-"https://twitter.com/NicolePoore12",
-"https://twitter.com/home?status=Reading%3A+https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F",
-"https://youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+{
+"text": "12th District",
+"href": "https://nicolepoore.com/12th-district/"
+},
+{
+"text": "2016 Delaware Election Calendar",
+"href": "http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf"
+},
+{
+"text": "About",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "About Senator Poore",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "Accessibility",
+"href": "https://nicolepoore.com/accessibility/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://nicolepoore.com/accessibility"
+},
+{
+"text": "Business & Economic Development/Policy",
+"href": "https://nicolepoore.com/category/legislation/eco_policy/"
+},
+{
+"text": "Consumer Protection",
+"href": "https://nicolepoore.com/category/legislation/consumer_protection/"
+},
+{
+"text": "Contact",
+"href": "https://nicolepoore.com/contact/"
+},
+{
+"text": "Contact Senator Poore",
+"href": "mailto:info@nicolepoore.com"
+},
+{
+"text": "Crime and Public Safety",
+"href": "https://nicolepoore.com/category/legislation/crime-and-public-safety/"
+},
+{
+"text": "Criminal Law and Courts",
+"href": "https://nicolepoore.com/category/legislation/crime/"
+},
+{
+"text": "Delaware Democrat Values",
+"href": "https://nicolepoore.com/delaware-democrat-values/"
+},
+{
+"text": "Delaware Polling Place Locator",
+"href": "https://ivote.de.gov/voterlogin.aspx"
+},
+{
+"text": "Delaware Voting Information",
+"href": "https://nicolepoore.com/delaware-voting-information/"
+},
+{
+"text": "Donate",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "Education",
+"href": "https://nicolepoore.com/category/legislation/education/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove Road",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove…",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Endorsements",
+"href": "https://nicolepoore.com/endorsements-2/"
+},
+{
+"text": "Energy and Environment",
+"href": "https://nicolepoore.com/category/legislation/energy/"
+},
+{
+"text": "FAQs About Senator Poore",
+"href": "https://nicolepoore.com/about-senator-poore/"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001SkuOwtuyeSBh7n1I6Mo_KqjBCEaQB3ffsPxUlxgJAbkDZFdeOWbKhzguAOcjbHvcL7gaEt1F1QRagjdmKcrlqo4OYm4iCALDTkg2HbrC0B-Ifa1JNZNEykQu_WgHfy-3nOg43-aTDq9aw6J7n0vt6NLEoGSfk76QS2kZfdS-zMy8agMc_ALfKA%3D%3D&c=CedNVFUcY0Lg2GO-1BniwmuKqGZbIfMo494oTZ3rx_D5Kx6kwiSaOQ%3D%3D&ch=SuPZpurfblPb0fKnQYz7uP9kLwQgufIa8UitVApVWWApe5TpLCVAEw%3D%3D"
+},
+{
+"text": "Guns",
+"href": "https://nicolepoore.com/category/legislation/guns/"
+},
+{
+"text": "Health and Social Services",
+"href": "https://nicolepoore.com/category/legislation/health/"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001SkuOwtuyeSBh7n1I6Mo_KqjBCEaQB3ffsPxUlxgJAbkDZFdeOWbKh9vPpHA2eSptl1E7VMpD3MzWi616wIv95NxEg2OgR2IyvPXnPken9O_Uoos11wudCyGyEygPZbUhYz4ctRyHhHV66t-Kc9yzSV3tNf2vsMu-dvtF4tEIvnd1WtKba531gw%3D%3D&c=CedNVFUcY0Lg2GO-1BniwmuKqGZbIfMo494oTZ3rx_D5Kx6kwiSaOQ%3D%3D&ch=SuPZpurfblPb0fKnQYz7uP9kLwQgufIa8UitVApVWWApe5TpLCVAEw%3D%3D"
+},
+{
+"text": "Joint Sunset Committee",
+"href": "https://nicolepoore.com/category/legislation/joint-sunset-committee/"
+},
+{
+"text": "Legislation",
+"href": "https://nicolepoore.com/category/legislation/"
+},
+{
+"text": "Legislative Recap: April 2026",
+"href": "https://nicolepoore.com/legislative-recap-april-2026/"
+},
+{
+"text": "New Air Quality Initiatives Launching in Delaware…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "New Air Quality Initiatives Launching…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "News",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "News/Blog",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "Next",
+"href": "https://nicolepoore.com/the-holidays-are-here-in-district-12/"
+},
+{
+"text": "November 28, 2025",
+"href": "https://nicolepoore.com/hb-242-sb-206-and-what-they-mean-for-you/"
+},
+{
+"text": "One Month Left of the 153rd General…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "One Month Left of the…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "Open Government/Government Operations",
+"href": "https://nicolepoore.com/category/legislation/open_gov/"
+},
+{
+"text": "Prev",
+"href": "https://nicolepoore.com/sb-206-veterans-day-with-the-drba-and-more/"
+},
+{
+"text": "Reflecting on Progress: What’s Next for Us?…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Reflecting on Progress: What’s Next…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Registering to Vote",
+"href": "http://elections.delaware.gov/services/voter/placestoregister.shtml"
+},
+{
+"text": "Senator Poore 12th District Newsletter",
+"href": "https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter/"
+},
+{
+"text": "Social Policy",
+"href": "https://nicolepoore.com/category/legislation/social-policy/"
+},
+{
+"text": "TaxClassificationChallenge@newcastlede.gov",
+"href": "mailto:TaxClassificationChallenge@newcastlede.gov"
+},
+{
+"text": "The Writer's Block",
+"href": "http://writersblockservices.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://nicolepoore.com/volunteer/"
+},
+{
+"text": "Voters with Special Needs",
+"href": "http://elections.delaware.gov/voter/specialneeds.shtml"
+},
+{
+"text": "Voting by Absentee Ballot",
+"href": "http://elections.delaware.gov/services/voter/absentee/index.shtml"
+},
+{
+"text": "[image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District] [image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District]",
+"href": "https://nicolepoore.com/"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11272025-1.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11272025-3.png"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11272025-35.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11282025-2.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11282025-4.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/11/11282025-6.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NicolePoore12"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NicolePooreSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+},
+{
+"text": "[tooltip: Share on Facebook!]",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F&t=HB+242%2C+SB+206%2C+and+What+They+Mean+For+You"
+},
+{
+"text": "[tooltip: Share on Linkedin!]",
+"href": "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F&mini=true&title=HB+242%2C+SB+206%2C+and+What+They+Mean+For+You"
+},
+{
+"text": "[tooltip: Share on Twitter!]",
+"href": "https://twitter.com/home?status=Reading%3A+https%3A%2F%2Fnicolepoore.com%2Fhb-242-sb-206-and-what-they-mean-for-you%2F"
+},
+{
+"text": "admin",
+"href": "https://nicolepoore.com/author/skendus/"
+},
+{
+"text": "axClassificationChallenge@newcastlede.gov",
+"href": "mailto:axClassificationChallenge@newcastlede.gov"
+},
+{
+"text": "info@nicolepoore.com",
+"href": "mailto:info@nicolepoore.com"
+},
+{
+"text": "nicole.poore@delaware.gov",
+"href": "mailto:nicole.poore@delaware.gov"
+}
 ]

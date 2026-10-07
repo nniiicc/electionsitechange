@@ -1,12 +1,46 @@
 [
-"http://facebook.com/aundre4ct",
-"http://instagram.com/aundre4ct",
-"https://aundre4ct.com/",
-"https://aundre4ct.com/aboutaundre",
-"https://aundre4ct.com/get-involved",
-"https://aundre4ct.com/priorities",
-"https://instagram.com/aundre4ct",
-"https://secure.anedot.com/aundre2026/aundre2026",
-"https://twitter.com/aundrebum",
-"https://twitter.com/editorx"
+{
+"text": "About Aundré",
+"href": "https://www.aundre4ct.com/aboutaundre"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/aundre2026/aundre2026"
+},
+{
+"text": "Get Involved",
+"href": "https://www.aundre4ct.com/get-involved"
+},
+{
+"text": "Priorities",
+"href": "https://www.aundre4ct.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://facebook.com/aundre4ct"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://instagram.com/aundre4ct/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/aundre4ct/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/aundrebum"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/editorx"
+},
+{
+"text": "[no text]",
+"href": "https://www.aundre4ct.com"
+},
+{
+"text": "info@aundre4ct.com",
+"href": "mailto:info@cathyosten.com"
+}
 ]

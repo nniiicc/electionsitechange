@@ -1,16 +1,70 @@
 [
-"https://edra4ny.com/",
-"https://edra4ny.com/donate",
-"https://edra4ny.com/events-1",
-"https://edra4ny.com/get-in-touch",
-"https://edra4ny.com/get-involved",
-"https://edra4ny.com/latest-updates",
-"https://edra4ny.com/lawn-sign-request",
-"https://edra4ny.com/meet-ed",
-"https://edra4ny.com/on-the-issues",
-"https://edra4ny.com/volunteer",
-"https://facebook.com/AssemblymanEdRa",
-"https://instagram.com/EdwardRa19",
-"https://wix.com/",
-"https://x.com/EdwardRa19"
+{
+"text": "DONATE",
+"href": "https://www.edra4ny.com/donate"
+},
+{
+"text": "EVENTS",
+"href": "https://www.edra4ny.com/events-1"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.edra4ny.com/get-in-touch"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.edra4ny.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.edra4ny.com/donate"
+},
+{
+"text": "LATEST UPDATES",
+"href": "https://www.edra4ny.com/latest-updates"
+},
+{
+"text": "LAWN SIGN REQUEST",
+"href": "https://www.edra4ny.com/lawn-sign-request"
+},
+{
+"text": "MEET ED",
+"href": "https://www.edra4ny.com/meet-ed"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.edra4ny.com/on-the-issues"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.edra4ny.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.edra4ny.com/volunteer"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image: Ed Rd Logo.png]",
+"href": "https://www.edra4ny.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/AssemblymanEdRa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/EdwardRa19"
+},
+{
+"text": "[image]",
+"href": "https://x.com/EdwardRa19"
+},
+{
+"text": "voteedra@gmail.com",
+"href": "mailto:voteedra@gmail.com"
+}
 ]

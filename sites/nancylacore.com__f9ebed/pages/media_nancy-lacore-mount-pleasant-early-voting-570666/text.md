@@ -1,13 +1,9 @@
-Rear Admiral Nancy Lacore Casts Ballot in Mount Pleasant on First Day of Early Voting, Speaks Out Against Mid-Election Redistricting Effort
-Press Release | May 26, 2026CONTACT:
-Kaylie Haberstroh | kaylie@nancylacore.com | 732-403-1321
-Mount Pleasant, SC — This morning, retired Rear Admiral Nancy Lacore cast her ballot at Mount Pleasant’s early voting location at the Wando Public Library alongside her husband and two of her daughters.
+0 Skip to Content Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Get Involved Host an Event Volunteer Contact Donate Open Menu Close Menu Home About Nancy Priorities Endorsements Media Voting Resources Folder: Get Involved Back Host an Event Volunteer Contact Donate Rear Admiral Nancy Lacore Casts Ballot in Mount Pleasant on First Day of Early Voting, Speaks Out Against Mid-Election Redistricting Effort May 26 Written By Kasey Lacore Press Release | May 26, 2026 CONTACT: Kaylie Haberstroh | kaylie@nancylacore.com ‍ ‍| 732-403-1321 Mount Pleasant, SC — This morning, retired Rear Admiral Nancy Lacore cast her ballot at Mount Pleasant’s early voting location at the Wando Public Library alongside her husband and two of her daughters.
 The photos shared here may be used for reporting with photo credit attributed to the Lacore campaign.
 “This morning, people across this district and across South Carolina are exercising their right to vote and making their voices heard,” Lacore said.
 “Ballots from active-duty military members serving overseas and absentee voters have already been coming in for weeks.
-This is an active election, and thousands more votes will be cast today.”
-“This attempt at redistricting in the middle of an active election breaks with decades of precedent and undermines confidence in our democratic process,” Lacore continued.
+This is an active election, and thousands more votes will be cast today.” “This attempt at redistricting in the middle of an active election breaks with decades of precedent and undermines confidence in our democratic process,” Lacore continued.
 “I spent 35 years in uniform defending the Constitution and the democratic system it upholds.
-And I believe this deeply: district lines should reflect communities — not politics.”
-Lacore and her family joined a long line of voters gathered outside the Wando Public Library ahead of polls opening at 8:30am on the first day of early voting in South Carolina’s June 9 Primary.
-###
+And I believe this deeply: district lines should reflect communities — not politics.” Lacore and her family joined a long line of voters gathered outside the Wando Public Library ahead of polls opening at 8:30am on the first day of early voting in South Carolina’s June 9 Primary.
+### Kasey Lacore Previous Previous Admiral Nancy Lacore Releases “The Lowcountry,” Second Television Ad of SC-01 Democratic Primary Next Next Admiral Nancy Lacore Releases First Television Ad of SC-01 Democratic Primary Support Nancy today! $10 $25 $50 $100 $250 Other For press inquiries, email press@nancylacore.com For all other inquiries, email info@nancylacore.com Checks may be made out to "Nancy Lacore for Congress" and mailed to: PO Box 1006, 1000 Palm Blvd, Isle of Palms, SC 29451-9998 Privacy Policy Terms and Conditions Paid for by Nancy Lacore for Congress Use of military rank, titles, insignia, marks, or photographs in uniform does not imply endorsement by the U.S.
+Navy or the Department of Defense.

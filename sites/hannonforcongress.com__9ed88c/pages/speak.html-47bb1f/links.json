@@ -1,6 +1,26 @@
 [
-"https://hannonforcongress.com/donate.html",
-"https://hannonforcongress.com/index.html",
-"https://hannonforcongress.com/speak.html",
-"https://hannonforcongress.com/volunteer.html"
+{
+"text": "Donate",
+"href": "https://hannonforcongress.com/donate.html"
+},
+{
+"text": "Email instead",
+"href": "mailto:info@hannonforcongress.com"
+},
+{
+"text": "Home",
+"href": "https://hannonforcongress.com/index.html"
+},
+{
+"text": "Invite Dennis",
+"href": "https://hannonforcongress.com/speak.html"
+},
+{
+"text": "Volunteer",
+"href": "https://hannonforcongress.com/volunteer.html"
+},
+{
+"text": "[image: Campaign logo]",
+"href": "https://hannonforcongress.com/index.html"
+}
 ]

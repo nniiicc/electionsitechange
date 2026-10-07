@@ -1,16 +1,6 @@
-Contact
-To get in touch with me, you can either fill out the form below, or email me directly at phoebeforvermont@gmail.com.
+0 Skip to Content Home Meet Phoebe Priorities Get Involved Contact Donate Open Menu Close Menu Home Meet Phoebe Priorities Get Involved Contact Donate Open Menu Close Menu Home Meet Phoebe Priorities Get Involved Contact Donate Contact To get in touch with me, you can either fill out the form below, or email me directly at phoebeforvermont@gmail.com .
 You are also welcome to text/call me at (802) 230-4439 and I will get back to you.
-Lastly, if you want to set up a specific time for me to call you, you can book with this link.
-I look forward to connecting with you! :)
-~Phoebe
-Campaign Team
-Campaign Manager: Tatiana Abatemarco
-Treasurer: Scott Garren
-Volunteering + Events: Shawn Kershaw
-Fundraising: Carol DeVine
-Field Team Lead: Laura Black
-Data Managers: Marc Miller, Fra DeVine
-Jill Of All Trades: Terry Carter
-Plus, a huge thank you to our extensive team of volunteers from all three towns who show up tirelessly to meetings and events,
-offer feedback and support, and continue getting the word out and excitement built surrounding this campaign!
+Lastly, if you want to set up a specific time for me to call you, you can book with this link .
+I look forward to connecting with you! :) ~Phoebe Campaign Team Campaign Manager: Tatiana Abatemarco Treasurer : Scott Garren Volunteering + Events : Shawn Kershaw Fundraising: Carol DeVine Field Team Lead: Laura Black Data Managers: Marc Miller, Fra DeVine Jill Of All Trades: Terry Carter Plus, a huge thank you to our extensive team of volunteers from all three towns who show up tirelessly to meetings and events, offer feedback and support, and continue getting the word out and excitement built surrounding this campaign!
+Join the Movement Let’s work together to create the communities we are excited to be a part of.
+DONATE Paid for and authorized by Phoebe Tucker for Vermont.

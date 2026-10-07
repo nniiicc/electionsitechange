@@ -1,27 +1,142 @@
 [
-"http://glyphdigital.com/",
-"https://cherylyouakim.com/",
-"https://cherylyouakim.com/about",
-"https://cherylyouakim.com/author/clyouakim",
-"https://cherylyouakim.com/blog",
-"https://cherylyouakim.com/blog/page/2",
-"https://cherylyouakim.com/category/blog",
-"https://cherylyouakim.com/donate",
-"https://cherylyouakim.com/endorsements",
-"https://cherylyouakim.com/floor-action-committee-work-constituent-visits",
-"https://cherylyouakim.com/free-park-day-committee-hearings-schoolboards-at-the-capitol",
-"https://cherylyouakim.com/investing-in-our-schools-hold-the-vote",
-"https://cherylyouakim.com/last-week-of-session-upcoming-town-hall",
-"https://cherylyouakim.com/minnesota-values-project-survey-and-constituent-visits-to-the-capitol",
-"https://cherylyouakim.com/news",
-"https://cherylyouakim.com/oig-bill-passes-and-mental-health-month",
-"https://cherylyouakim.com/priorities",
-"https://cherylyouakim.com/privacy-policy",
-"https://cherylyouakim.com/remembering-our-colleague-melissa-hortman",
-"https://cherylyouakim.com/senior-care-facility-visits-bill-up-in-taxes-and-arbor-day",
-"https://cherylyouakim.com/state-of-the-state-and-hcmc-update",
-"https://cherylyouakim.com/step-school-supply-drive-state-laws-in-effect-july-1-and-more",
-"https://cherylyouakim.com/volunteer",
-"https://facebook.com/CLYouakim",
-"https://twitter.com/CLYouakim"
+{
+"text": "ABOUT",
+"href": "https://www.cherylyouakim.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://www.cherylyouakim.com/blog/"
+},
+{
+"text": "Blog",
+"href": "https://www.cherylyouakim.com/category/blog/"
+},
+{
+"text": "COUNT ME IN",
+"href": "https://www.cherylyouakim.com/volunteer/"
+},
+{
+"text": "Cheryl Youakim",
+"href": "https://www.cherylyouakim.com/author/clyouakim/"
+},
+{
+"text": "DONATE",
+"href": "https://www.cherylyouakim.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.cherylyouakim.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/CLYouakim"
+},
+{
+"text": "Floor Action, Committee Work, & Constituent Visits",
+"href": "https://www.cherylyouakim.com/floor-action-committee-work-constituent-visits/"
+},
+{
+"text": "Free Park Day, Committee Hearings, & Schoolboards at the Capitol",
+"href": "https://www.cherylyouakim.com/free-park-day-committee-hearings-schoolboards-at-the-capitol/"
+},
+{
+"text": "Glyph Digital",
+"href": "http://www.glyphdigital.com"
+},
+{
+"text": "HOME",
+"href": "https://www.cherylyouakim.com/"
+},
+{
+"text": "Investing In Our Schools & Hold the Vote",
+"href": "https://www.cherylyouakim.com/investing-in-our-schools-hold-the-vote/"
+},
+{
+"text": "Last Week of Session & Upcoming Town Hall",
+"href": "https://www.cherylyouakim.com/last-week-of-session-upcoming-town-hall/"
+},
+{
+"text": "Minnesota Values Project Survey and Constituent Visits to the Capitol",
+"href": "https://www.cherylyouakim.com/minnesota-values-project-survey-and-constituent-visits-to-the-capitol/"
+},
+{
+"text": "NEWS",
+"href": "https://www.cherylyouakim.com/news/"
+},
+{
+"text": "OIG Bill Passes and Mental Health Month",
+"href": "https://www.cherylyouakim.com/oig-bill-passes-and-mental-health-month/"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.cherylyouakim.com/priorities/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cherylyouakim.com/privacy-policy/"
+},
+{
+"text": "Remembering Our Colleague Melissa Hortman",
+"href": "https://www.cherylyouakim.com/remembering-our-colleague-melissa-hortman/"
+},
+{
+"text": "STEP school supply drive, State laws in effect July 1, and more",
+"href": "https://www.cherylyouakim.com/step-school-supply-drive-state-laws-in-effect-july-1-and-more/"
+},
+{
+"text": "Senior Care Facility Visits, Bill up in Taxes, and Arbor Day",
+"href": "https://www.cherylyouakim.com/senior-care-facility-visits-bill-up-in-taxes-and-arbor-day/"
+},
+{
+"text": "State of the State and HCMC Update",
+"href": "https://www.cherylyouakim.com/state-of-the-state-and-hcmc-update/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/CLYouakim"
+},
+{
+"text": "[image: Free Park Day, Committee Hearings, & Schoolboards at the Capitol][image: Free Park Day, Committee Hearings, & Schoolboards at the Capitol]",
+"href": "https://www.cherylyouakim.com/free-park-day-committee-hearings-schoolboards-at-the-capitol/"
+},
+{
+"text": "[image: Investing In Our Schools & Hold the Vote][image: Investing In Our Schools & Hold the Vote]",
+"href": "https://www.cherylyouakim.com/investing-in-our-schools-hold-the-vote/"
+},
+{
+"text": "[image: Last Week of Session & Upcoming Town Hall][image: Last Week of Session & Upcoming Town Hall]",
+"href": "https://www.cherylyouakim.com/last-week-of-session-upcoming-town-hall/"
+},
+{
+"text": "[image: Minnesota Values Project Survey and Constituent Visits to the Capitol][image: Minnesota Values Project Survey and Constituent Visits to the Capitol]",
+"href": "https://www.cherylyouakim.com/minnesota-values-project-survey-and-constituent-visits-to-the-capitol/"
+},
+{
+"text": "[image: OIG Bill Passes and Mental Health Month][image: OIG Bill Passes and Mental Health Month]",
+"href": "https://www.cherylyouakim.com/oig-bill-passes-and-mental-health-month/"
+},
+{
+"text": "[image: Remembering Our Colleague Melissa Hortman][image: Remembering Our Colleague Melissa Hortman]",
+"href": "https://www.cherylyouakim.com/remembering-our-colleague-melissa-hortman/"
+},
+{
+"text": "[image: STEP school supply drive, State laws in effect July 1, and more]",
+"href": "https://www.cherylyouakim.com/step-school-supply-drive-state-laws-in-effect-july-1-and-more/"
+},
+{
+"text": "[image: Senior Care Facility Visits, Bill up in Taxes, and Arbor Day][image: Senior Care Facility Visits, Bill up in Taxes, and Arbor Day]",
+"href": "https://www.cherylyouakim.com/senior-care-facility-visits-bill-up-in-taxes-and-arbor-day/"
+},
+{
+"text": "[image: State of the State and HCMC Update][image: State of the State and HCMC Update]",
+"href": "https://www.cherylyouakim.com/state-of-the-state-and-hcmc-update/"
+},
+{
+"text": "[image: Youakim for State Representative]",
+"href": "https://www.cherylyouakim.com/"
+},
+{
+"text": "« Older Entries",
+"href": "https://www.cherylyouakim.com/blog/page/2/?et_blog="
+}
 ]

@@ -1,7 +1,12 @@
 {
  "description": "",
  "final_url": "https://mattrinker.org/about.html",
- "paid_for_by": null,
+ "fingerprint": "876f139267b6039e96a35eb524152c79956a2215",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
- "years_mentioned": []
+ "years_mentioned": [
+  "2003",
+  "2009"
+ ]
 }

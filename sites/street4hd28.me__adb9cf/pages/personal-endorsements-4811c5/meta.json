@@ -1,7 +1,9 @@
 {
  "description": "Discover Maine State House endorsements supporting Gordon Street, featuring voices from the Maine AFL-CIO and more. Uniting for positive change.",
  "final_url": "https://street4hd28.me/personal-endorsements",
- "paid_for_by": null,
+ "fingerprint": "97b3b3d4b7e2524d7d9a9731228282368bdb569b",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate",
  "title": "Personal Endorsements",
  "years_mentioned": []
 }

@@ -1,6 +1,5 @@
-MEET LARRY
-Conservative Leadership Delivering Results for Our Community
-Larry Stutts was born at Colbert County Hospital (now Helen Keller Hospital) in Sheffield, Alabama.
+top of page HOME MEET LARRY ISSUES More Use tab to navigate through the menu items.
+Senator Larry Stutts MEET LARRY Conservative Leadership Delivering Results for Our Community Larry Stutts was born at Colbert County Hospital (now Helen Keller Hospital) in Sheffield, Alabama.
 Growing up in Cherokee, Alabama, the son of an accountant and a registered nurse, Larry always enjoyed working on the family farm.
 At home, he was instilled with the core values of honesty, hard work, belief in God, and respect for others.
 These core values define him today.
@@ -50,3 +49,6 @@ As our Senator, Larry has led the fight to reduce the size of government, champi
 Larry has also proven to be an effective legislator in representing the interests of Senate District 6.
 Over the past four years, the region has prospered due to the policies Larry has supported and unemployment in Northwest Alabama is at an all time low.
 On every campaign promise, Larry has delivered in a MAJOR way!
+SEND LARRY A MESSAGE Send Your details were sent successfully!
+REGISTER TO VOTE!
+Funded by Stutts for Senate | PO Box 1014 | Tuscumbia, AL 35674 JOIN LARRY'S CONVERSATION: HOME MEET LARRY ISSUES More Use tab to navigate through the menu items. bottom of page

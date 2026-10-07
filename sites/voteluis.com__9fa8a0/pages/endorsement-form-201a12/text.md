@@ -1,6 +1,3 @@
-Support Luis’ vision with your endorsement…
-This movement is powered by YOU.
+Skip to content Luis Salazar for Florida State House Representative About Policy Donate Volunteer Events Endorsements Instagram Facebook Bluesky Endorsement Form Support Luis’ vision with your endorsement… This movement is powered by YOU.
 With your endorsement, we can create a better future for District 64 and voters everywhere.
-Fill out the form below to join the leaders and organizations that support Luis Salazar for State House District 64:
-Thank you for your endorsement
-Together we will bring fresh voices to Tallahassee and meaningful change to District 64
+Fill out the form below to join the leaders and organizations that support Luis Salazar for State House District 64: First Name Last Name Organization Name If applicable Email Address Phone Briefly provide a brief statement about your support of Luis and his campaign Submit Thank you for your endorsement Together we will bring fresh voices to Tallahassee and meaningful change to District 64 Discover the Man Behind the Campaign Learn More ENDORSE LUIS SALAZAR Instagram Facebook Bluesky

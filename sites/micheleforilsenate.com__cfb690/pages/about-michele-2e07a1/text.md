@@ -1,5 +1,4 @@
-Dear Friends and Neighbors,
-My name is Michele Clark, and I’m proud to call the northwest suburbs of Chicago my lifelong home.
+0 Skip to Content About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Open Menu Close Menu About Michele Donate Issues Endorsements Michele's Blog Videos Contact Us Dear Friends and Neighbors, My name is Michele Clark, and I’m proud to call the northwest suburbs of Chicago my lifelong home.
 I grew up in Kildeer and now live in Algonquin with my husband Daryl, a commercial airline pilot.
 Together, we’ve raised two incredible daughters, Grace and Camryn, who are now pursuing their passions in college—one studying Aerospace Engineering and the other Political Science.
 My deep commitment to faith, family, and country was shaped early on by the example set by my parents.
@@ -24,5 +23,6 @@ I believe in responsible leadership, honest conversations, and practical solutio
 Most of all, I believe in the strength of our communities—and the incredible people who call this place home.
 Thank you for taking the time to get to know me.
 I look forward to earning your trust, your support, and most importantly—your partnership in building a brighter future.
-With gratitude,
-Michele
+With gratitude, Michele Michele For IL Senate Website paid by: Friends of Michele Clark Mailing Address 801 W.
+Algonquin Rd.
+#7203 Algonquin, IL 60102 Contact info@friendsofmicheleclark.com

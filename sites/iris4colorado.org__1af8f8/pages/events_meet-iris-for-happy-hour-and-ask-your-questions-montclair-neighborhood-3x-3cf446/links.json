@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+and+Ask+Your+Questions+-+Hale%2FLowry+Neighborhoods&dates=20260614T170000Z%2F20260614T183000Z&location=1447+Quince+Street%2C+Denver%2C+CO+80220",
-"http://maps.google.com/?q=1447+Quince+Street+Denver%2C+CO+80220",
-"https://facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135",
-"https://instagram.com/Iris4colorado",
-"https://iris4colorado.org/",
-"https://iris4colorado.org/about",
-"https://iris4colorado.org/cart",
-"https://iris4colorado.org/contact",
-"https://iris4colorado.org/endorsements",
-"https://iris4colorado.org/events",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d",
-"https://iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj",
-"https://iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8?format=ical",
-"https://iris4colorado.org/press",
-"https://iris4colorado.org/privacy",
-"https://iris4colorado.org/terms",
-"https://secure.actblue.com/donate/iris-halpern-1"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1447+quince+street+denver%2C+co+80220+"
+},
+{
+"text": "0",
+"href": "https://www.iris4colorado.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.iris4colorado.org/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.iris4colorado.org/events"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/iris-halpern-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.iris4colorado.org/endorsements"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Meet+Iris+for+Coffee+and+Ask+Your+Questions+-+Hale%2FLowry+Neighborhoods&dates=20260614T170000Z%2F20260614T183000Z&location=1447+Quince+Street%2C+Denver%2C+CO+80220"
+},
+{
+"text": "Home",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "ICS",
+"href": "https://www.iris4colorado.org/events/meet-iris-for-happy-hour-and-ask-your-questions-montclair-neighborhood-3xda4-c97k8?format=ical"
+},
+{
+"text": "Iris in the Press",
+"href": "https://www.iris4colorado.org/press"
+},
+{
+"text": "Next Next June 14 Canvass for Iris Congress Park/Cheesman Park/Uptown Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.iris4colorado.org/privacy"
+},
+{
+"text": "Previous Previous June 13 Canvass for Iris Montclair/Lowry/East Colfax Neighborhoods",
+"href": "https://www.iris4colorado.org/events/event-one-rg2bh-mx2wm-3ea3j-mre8t-72rkg-l33x2-29r6x-79l9w-s682d-e5nkj"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.iris4colorado.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.iris4colorado.org/contact"
+},
+{
+"text": "[image: Iris Halpern]",
+"href": "https://www.iris4colorado.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Iris-Halpern-for-House-District-6/61586739056135/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Iris4colorado"
+}
 ]

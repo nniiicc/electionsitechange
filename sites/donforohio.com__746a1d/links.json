@@ -1,17 +1,70 @@
 [
-"https://donforohio.com/",
-"https://donforohio.com/bio",
-"https://donforohio.com/cart",
-"https://donforohio.com/home",
-"https://donforohio.com/map",
-"https://donforohio.com/media",
-"https://donforohio.com/privacypolicy",
-"https://donforohio.com/values",
-"https://donforohio.myshopify.com/",
-"https://facebook.com/profile.php?id=61581963835424",
-"https://instagram.com/donforohio",
-"https://mobilize.us/donleonardforohio",
-"https://secure.actblue.com/donate/donforohio",
-"https://secure.ngpvan.com/aAlW9Hp9EkiMtYiE0OLiVQ2",
-"https://tiktok.com/@donforohio"
+{
+"text": "0",
+"href": "https://donforohio.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/donforohio"
+},
+{
+"text": "Home //",
+"href": "https://donforohio.com/"
+},
+{
+"text": "Media //",
+"href": "https://donforohio.com/media"
+},
+{
+"text": "Meet Don //",
+"href": "https://donforohio.com/bio"
+},
+{
+"text": "Meet the District //",
+"href": "https://donforohio.com/map"
+},
+{
+"text": "Our Values //",
+"href": "https://donforohio.com/values"
+},
+{
+"text": "Privacy Policy",
+"href": "https://donforohio.com/privacypolicy"
+},
+{
+"text": "Read More",
+"href": "https://donforohio.com/bio"
+},
+{
+"text": "Store //",
+"href": "https://donforohio.myshopify.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.ngpvan.com/aAlW9Hp9EkiMtYiE0OLiVQ2"
+},
+{
+"text": "[image: Don Leonard for US Congress]",
+"href": "https://donforohio.com/"
+},
+{
+"text": "[image]",
+"href": "https://donforohio.com/home"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581963835424"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/donforohio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@donforohio"
+},
+{
+"text": "find an event",
+"href": "https://www.mobilize.us/donleonardforohio/"
+}
 ]

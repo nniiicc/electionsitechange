@@ -1,9 +1,3 @@
-Sign up to
-Get Involved
-Our campaign is powered by YOU.
+Skip navigation menu Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Home Meet Nikhil Issues Endorsements Volunteer Events Contact Donate Sign up to Get Involved Our campaign is powered by YOU.
 Please sign up to knock on doors, make phone calls, write postcards, host a house party, or volunteer in any capacity.
-Skip navigation menu
-Sign up to
-Get Involved
-Our campaign is powered by YOU.
-Please sign up to knock on doors, make phone calls, write postcards, host a house party, or volunteer in any capacity.
+Nikhil (far right) marching for voting rights in Selma with John Lewis, Jesse Jackson, and other civil rights leaders First Name First Name Last Name Last Name Email Email Phone Phone Submit Email: info@nikhilgoyal.com If donating by mail, make checks payable to: Nikhil Goyal for Vermont | PO BOX 164 Burlington, VT 05402 Powered by RUN! website builder Paid for by Nikhil Goyal for Vermont You need to enable JavaScript to run this app.

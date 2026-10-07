@@ -1,7 +1,2 @@
-State Representative for the 14th Worcester district of Massachusetts
-HOME
-ISSUES & POLICIES
-GALLERY
-NEWSROOM
-CONTACT
-More
+top of page Jim O Day State Representative for the 14th Worcester district of Massachusetts HOME MEET JIM THE DISTRICT ISSUES & POLICIES LEGISLATION ADVOCACY GALLERY 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2015-2016 2013-2014 2011-2012 2009-2010 NEWSROOM VIDEOS NEWS PRESS RELEASES CONTACT CONSTITUENT SERVICES MEET THE STAFF CONTACT US STAY CONNECTED More Use tab to navigate through the menu items.
+Legislative briefing on Raise the Age Student Opportunity Act Press Conference Participating on one of the panels at The Parenting Journey’s Second Annual Social & Family Justice Institute Genesis Club Breakfast Announcement of a new UMMS and VA Central Western Mass Worcester VA outpatient clinic at UMMS Developmental Disabilities Hearing Speaking during the Constitutional Convention where the Fair Share Amendment passed 147-48 Speaking on the Fair Share Amendment Meals on Wheels bottom of page

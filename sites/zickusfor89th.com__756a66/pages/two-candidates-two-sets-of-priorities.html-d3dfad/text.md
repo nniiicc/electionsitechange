@@ -1,23 +1,16 @@
-← Back to homepage
-Issues That Hit Home · Article 10 · Draft
-Two Candidates.
+Skip to main content MEEGAN ZICKUS FOR THE 89TH Menu Meet Meegan Positions Issues Library Compare Voter Info Get Involved ← Back to homepage Issues That Hit Home · Article 10 · Draft Two Candidates.
 Two Sets of Priorities.
 You Decide.
-30-second overview
-From the published campaign article
-I have spent 10 years serving on the Allendale Public Schools Board of Education.
+30-second overview From the published campaign article I have spent 10 years serving on the Allendale Public Schools Board of Education.
 I have worked as a lawyer and taught bioethics.
 In those roles, I learned that the first step toward a good decision is listening to the people it will affect.
 On the school board, that meant weighing what students needed, what families could afford, and what our community could build together.
 I supported the millage that made Allendale’s first early childhood education building possible.
-Local context and documented position
-The original explanation below contains the campaign’s position and local context.
+Local context and documented position The original explanation below contains the campaign’s position and local context.
 Campaign statements express positions; linked records and reports provide their own evidence.
-Sources and records
-Source: the published campaign statement on this page.
+Sources and records Source: the published campaign statement on this page.
 Further reading is linked below.
-By Meegan Zickus
-I have spent 10 years serving on the Allendale Public Schools Board of Education.
+By Meegan Zickus I have spent 10 years serving on the Allendale Public Schools Board of Education.
 I have worked as a lawyer and taught bioethics.
 In those roles, I learned that the first step toward a good decision is listening to the people it will affect.
 On the school board, that meant weighing what students needed, what families could afford, and what our community could build together.
@@ -40,5 +33,8 @@ Are we planning for growth responsibly?
 Those are the conversations I want to have in Lansing.
 I will listen, work with people who disagree with me, and keep bringing the discussion back to the problems we can solve together.
 Disagreement about policy does not establish bad faith.
-People can have urgent concerns about different issues at the same time; working on shared problems does not make other concerns unimportant.
-Explore all 10 articles in Meegan’s Top 10 List
+People can have urgent concerns about different issues at the same time; working on shared problems does not make other concerns unimportant. ← Back to homepage Explore all 10 articles in Meegan’s Top 10 List Related reading What has happened with Ottawa County legal costs and settlements?
+What Did Ottawa County Taxpayers Get for Their Money?
+Ottawa County families got the bill.
+Browse the Issues Library · Compare candidate positions Zickus for 89th Share an endorsement or story Paid for by Zickus for 89th • 11833 78th Ave, Allendale, MI 49401 © # Zickus for 89th.
+All rights reserved.

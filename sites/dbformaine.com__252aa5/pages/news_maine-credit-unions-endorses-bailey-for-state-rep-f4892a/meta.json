@@ -1,7 +1,16 @@
 {
  "description": "Latest News",
  "final_url": "https://www.dbformaine.com/news/maine-credit-unions-endorses-bailey-for-state-rep",
- "paid_for_by": null,
+ "fingerprint": "75a1e1fc9880064486855f5532c00d19e110468d",
+ "format": 3,
+ "paid_for_by": "authorized by the candidate Home About Results Past Results Videos News Endorsements Volunteer Contact Donate $5",
  "title": "Maine Credit Unions Endorses Bailey for State Rep - SENATOR DONNA BAILEY",
- "years_mentioned": []
+ "years_mentioned": [
+  "2018",
+  "2020",
+  "2022",
+  "2023",
+  "2024",
+  "2026"
+ ]
 }

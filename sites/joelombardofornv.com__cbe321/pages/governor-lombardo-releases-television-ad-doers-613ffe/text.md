@@ -1,14 +1,4 @@
-Governor Lombardo Releases Television Ad "Doers"
-FOR IMMEDIATE RELEASE
-May 13, 2026
-Contact: press@joelombardofornv.com
-LAS VEGAS, NV — Governor Lombardo's campaign released a new television ad titled “Doers,” which will air starting today.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Governor Lombardo Releases Television Ad "Doers" FOR IMMEDIATE RELEASE May 13, 2026 Contact: press@joelombardofornv.com LAS VEGAS, NV — Governor Lombardo's campaign released a new television ad titled “Doers,” which will air starting today.
 The ad highlights that there are doers and there are talkers - and Joe Lombardo is different.
-Governor Lombardo's results-driven leadership has delivered meaningful results for Nevada families, including:
-· Cutting more than 900 burdensome regulations
-· Helping attract 84,000 new jobs
-· Delivering historic education funding
-· Demanding accountability in schools
-· Improving graduation rates
-· Making classrooms safer
-Dedicating $183 million for attainable housing
+Governor Lombardo's results-driven leadership has delivered meaningful results for Nevada families, including: · Cutting more than 900 burdensome regulations · Helping attract 84,000 new jobs · Delivering historic education funding · Demanding accountability in schools · Improving graduation rates · Making classrooms safer Dedicating $183 million for attainable housing You can watch the full ad by clicking on the image above or clicking HERE . ﻿ ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

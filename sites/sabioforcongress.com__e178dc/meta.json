@@ -1,7 +1,11 @@
 {
  "description": "Join our team at Sabio For Congress! Explore our vision for a brighter future and stay tuned for updates on our campaign.",
  "final_url": "https://sabioforcongress.com/",
- "paid_for_by": null,
+ "fingerprint": "665688545ace143e519d411848e0c5a41f7f00e0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Home | Sabio For Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2011"
+ ]
 }

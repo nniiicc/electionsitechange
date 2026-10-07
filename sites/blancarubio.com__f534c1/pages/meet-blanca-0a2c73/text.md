@@ -1,3 +1,5 @@
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Meet Blanca As a former water board member and teacher, Assemblywoman Rubio has seen the inequities our children and families face in our state.
+These realities have motivated her to find thoughtful solutions that address pressing problems facing every Californian.
 Assemblywoman Blanca E.
 Rubio was elected in November 2016 to represent California’s 48th Assembly District, which includes the cities of Azusa, Baldwin Park, Bradbury, Covina, Duarte, El Monte, Glendora, Irwindale, Monrovia, and West Covina, and the San Gabriel Valley unincorporated areas of Los Angeles County, including Charter Oak, Citrus, Mayflower Village, South Monrovia Island, South San Jose Hills, Valinda, Vincent, and West Puente Valley.
 Rubio has been re-elected three times since, running unopposed in 2018 and 2020.
@@ -15,3 +17,4 @@ She was born in Juarez, Mexico, and came to the United States with her parents a
 Her personal experiences have given her a genuine understanding of the everyday struggles and barriers that immigrants and working families continue to face in the United States.
 Assemblywoman Rubio received her Bachelor’s Degree in Business Administration and Master’s Degree in Education with a Multiple Subject Teaching Credential from Azusa Pacific University.
 Blanca is a resident of Baldwin Park and a proud mother of two children.
+Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

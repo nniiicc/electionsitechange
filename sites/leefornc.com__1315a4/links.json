@@ -1,12 +1,62 @@
 [
-"https://leefornc.com/",
-"https://leefornc.com/get-involved",
-"https://leefornc.com/meet-michael",
-"https://leefornc.com/news",
-"https://leefornc.com/priorities",
-"https://leefornc.com/privacy-policy",
-"https://leefornc.com/results",
-"https://leefornc.com/terms",
-"https://secure.anedot.com/michaellee/contribute",
-"https://youtube.com/watch?v=Osu27wPXqZU"
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/michaellee/contribute"
+},
+{
+"text": "Explore Michael's Priorities",
+"href": "https://www.leefornc.com/priorities"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.leefornc.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.leefornc.com"
+},
+{
+"text": "MEET MICHAEL",
+"href": "https://www.leefornc.com/meet-michael"
+},
+{
+"text": "NEWS & MEDIA",
+"href": "https://www.leefornc.com/news"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.leefornc.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.leefornc.com/privacy-policy"
+},
+{
+"text": "RESULTS",
+"href": "https://www.leefornc.com/results"
+},
+{
+"text": "Read the Full Record",
+"href": "https://www.leefornc.com/results"
+},
+{
+"text": "Read the Transcript",
+"href": "https://www.leefornc.com/priorities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.leefornc.com/terms"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.leefornc.com/terms"
+},
+{
+"text": "Watch the Video",
+"href": "https://www.youtube.com/watch?v=Osu27wPXqZU"
+},
+{
+"text": "[image: Lee for NC Senate.png]",
+"href": "https://www.leefornc.com"
+}
 ]

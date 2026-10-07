@@ -1,7 +1,11 @@
 {
  "description": "Todd Schaefer Campaign Events",
  "final_url": "https://www.toddforfl4.com/Events?range=2026-12",
- "paid_for_by": null,
+ "fingerprint": "db318d0a651706bf0d68cc555786b04bdfc32473",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Todd Schaefer Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

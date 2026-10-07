@@ -1,19 +1,11 @@
-About Marquese
-My name is Marquese Kwame Averett, but most people know me as “Skinny.”
-I’m an organizer by training and an activist by passion, and I’ve spent my entire life amplifying the voices of people who are too often ignored, overlooked, or pushed to the margins.
-I come from the belief that leadership starts with listening.
+top of page HOME About Marquese Donate Check your VR Status Connect with us About Marquese My name is Marquese Kwame Averett, but most people know me as “Skinny.” I’m an organizer by training and an activist by passion, and I’ve spent my entire life amplifying the voices of people who are too often ignored, overlooked, or pushed to the margins. ​ I come from the belief that leadership starts with listening.
 Long before I ever considered public office, I was in the community—organizing, advocating, and standing with people who needed someone willing to speak truth to power.
-Wherever there is injustice, that’s where you’ll find me.
-Most recently, I served as the Managing Director of Regional Organizing for Partnership for Southern Equity, where I worked across the South to advance equity, economic justice, and systems that actually work for everyday people.
-That work took me across the country, lending my voice and my skills to the movement for Black lives and to communities fighting for dignity and fairness.
-I’m a proud graduate of Fort Valley State University, where I earned my bachelor’s degree in Political Science.
+Wherever there is injustice, that’s where you’ll find me. ​ Most recently, I served as the Managing Director of Regional Organizing for Partnership for Southern Equity, where I worked across the South to advance equity, economic justice, and systems that actually work for everyday people.
+That work took me across the country, lending my voice and my skills to the movement for Black lives and to communities fighting for dignity and fairness. ​ I’m a proud graduate of Fort Valley State University, where I earned my bachelor’s degree in Political Science.
 Over the years, I’ve been humbled to receive recognition for my work, including the Rainbow PUSH Trailblazer Award, Omega Psi Phi Citizen of the Year, the Firm Grip Achievement Award, and being named twice as one of the 50 Most Influential African Americans in Columbus.
-I don’t see these as personal achievements—they reflect the collective work of community.
-I’m running for State House District 140 because Georgia families deserve leadership that works for them—not just a select few.
-Right now, too many people are being squeezed by the cost of healthcare, by underfunded schools, and by an economy that isn’t creating enough good-paying jobs.
+I don’t see these as personal achievements—they reflect the collective work of community. ​ I’m running for State House District 140 because Georgia families deserve leadership that works for them—not just a select few. ​ Right now, too many people are being squeezed by the cost of healthcare, by underfunded schools, and by an economy that isn’t creating enough good-paying jobs.
 I believe we can do better.
-I believe families in Columbus deserve affordable healthcare, strong public schools, real economic opportunity, and support for the veterans and military families who call this community home.
-As Congressman John Lewis reminded us, “If you see something that is not right, not fair, not just, you have a moral obligation to do something about it.”
-That belief has guided my life, and it’s exactly what I’ll carry with me to the State Capitol.
+I believe families in Columbus deserve affordable healthcare, strong public schools, real economic opportunity, and support for the veterans and military families who call this community home. ​ As Congressman John Lewis reminded us, “If you see something that is not right, not fair, not just, you have a moral obligation to do something about it.” ​ That belief has guided my life, and it’s exactly what I’ll carry with me to the State Capitol.
 I’m running because our families can’t afford to wait.
 District 140 deserves leadership that shows up, listens, and delivers results that change lives.
+DONATE TO MY CAMPAIGN Home About Marquese Campaign Priorities Donate Check you VR Status Connect with us MARQUESE AVERETT For all inquiries: info@marqueseaverett.com Designed by @corithecreative | Paid for by the committee to elect Marquesee Averett bottom of page

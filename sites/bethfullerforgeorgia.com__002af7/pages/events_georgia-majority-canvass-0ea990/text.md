@@ -1,10 +1,3 @@
-Back to All Events
-Mark your calendars for a canvass launch with the Georgia Majority for Gun Safety!
-Sign up below
-Previous
-Previous
-July 31
-North Fulton Dems Canvass Launch
-Next
-Next
-August 5
+0 Skip to Content Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Open Menu Close Menu Meet Beth Get Involved Events Policy Priorities Endorsements Articles Donate Now Back to All Events Georgia Majority Canvass Sunday, August 2, 2026 9:30 AM 11:30 AM Publix at West Paces Ferry 1250 West Paces Ferry Road Northwest Atlanta, Georgia, 30327 United States (map) Google Calendar ICS Mark your calendars for a canvass launch with the Georgia Majority for Gun Safety!
+Sign up below Source: https://secure.ngpvan.com/onNLGgJcT0e5n4hswZHX7w2?emci=31a1f9f5-6980-f111-b337-000d3a1558ce&emdi=d4c6a33b-4081-f111-b337-000d3a1558ce&ceid=567020 Previous Previous July 31 North Fulton Dems Canvass Launch Next Next August 5 Roswell Canvass info@bethfullerforgeorgia.com Paid for by Beth Fuller for Georgia, Inc | P.O.
+Box 566273, Atlanta, GA 31156

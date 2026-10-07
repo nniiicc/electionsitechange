@@ -1,31 +1,7 @@
-top of page
-Endorsements
-Thank you to the following federal, state, and local leaders as well as residents and organizations who currently support Nate 'Gus' Gustafson.
+top of page Home About Endorsements Weekly Newsletters Voting Info Contact Donate More Use tab to navigate through the menu items.
+Endorsements Thank you to the following federal, state, and local leaders as well as residents and organizations who currently support Nate 'Gus' Gustafson.
 Your encouragement means so much.
 Will Martin - Government Reformer and Fmr.
 Lt.
-Governor Candidate
-Vivek Ramaswamy - Entrepreneur and Fmr.
-GOP Presidential Candidate
-WISCONSIN College Republicans
-Natalie Strohmeyer - Winnebago County Register of Deeds
-Jacob Floam - Oshkosh city council member
-Sarah weinberg - outagamie county board of supervisors district 26
-Wisconsin young republicans
-Mark krings - Town of omro Supervisor
-rachael dowling - Winnebago county board of supervisors district 1
-Jim wise - Winnebago county board of supervisors district 8
-Bryan stafford - Winnebago county board of supervisors district 10
-maribeth gabert - Winnebago county board of supervisors district 12
-Steve binder - Winnebago county board of supervisors district 13
-tom swan - Winnebago county board of supervisors district 14
-christian mueller - Winnebago county board of supervisors district 16
-Josh Belville - Winnebago county board of supervisors district 19
-John Hinz - Winnebago county board of supervisors district 21
-conley hanson - Winnebago county board of supervisors district 26
-morris cox - Winnebago county board of supervisors district 27
-ralph harrison - Winnebago county board of supervisors district 31
-Wisconsin conservative digest
-Americans for Prosperity - Wisconsin
-TrAVIS dUCHATSCHEK - tOWN OF nEKIMI sUPERVISOR
-bottom of page
+Governor Candidate Vivek Ramaswamy - Entrepreneur and Fmr.
+GOP Presidential Candidate WISCONSIN College Republicans Natalie Strohmeyer - Winnebago County Register of Deeds Jacob Floam - Oshkosh city council member Sarah weinberg - outagamie county board of supervisors district 26 Wisconsin young republicans Mark krings - Town of omro Supervisor rachael dowling - Winnebago county board of supervisors district 1 Jim wise - Winnebago county board of supervisors district 8 Bryan stafford - Winnebago county board of supervisors district 10 maribeth gabert - Winnebago county board of supervisors district 12 Steve binder - Winnebago county board of supervisors district 13 tom swan - Winnebago county board of supervisors district 14 christian mueller - Winnebago county board of supervisors district 16 Josh Belville - Winnebago county board of supervisors district 19 John Hinz - Winnebago county board of supervisors district 21 conley hanson - Winnebago county board of supervisors district 26 morris cox - Winnebago county board of supervisors district 27 ralph harrison - Winnebago county board of supervisors district 31 Wisconsin conservative digest Americans for Prosperity - Wisconsin TrAVIS dUCHATSCHEK - tOWN OF nEKIMI sUPERVISOR Paid for by Neighbors for Nate Gustafson. ​ bottom of page

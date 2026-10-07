@@ -1,8 +1,26 @@
 [
-"https://ashleyhinson.com/privacy-policy",
-"https://ashleyhinson.com/terms",
-"https://facebook.com/AshleyHinsonIowa",
-"https://instagram.com/hinsonforhouse?hl=en",
-"https://x.com/hinsonashley",
-"https://youtube.com/channel/UCaPhZwEDLgaDU-Q4ehMSvHA"
+{
+"text": "Follow",
+"href": "https://www.facebook.com/AshleyHinsonIowa/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/hinsonforhouse/?hl=en"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/channel/UCaPhZwEDLgaDU-Q4ehMSvHA"
+},
+{
+"text": "Follow",
+"href": "https://x.com/hinsonashley"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ashleyhinson.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://ashleyhinson.com/terms"
+}
 ]

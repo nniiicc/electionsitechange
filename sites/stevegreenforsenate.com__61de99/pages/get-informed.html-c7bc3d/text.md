@@ -1,5 +1,4 @@
-Green: MNsure rate hikes, insurance caps spell trouble for Minnesotans
-ST.
+Home Issues Why I'm Running Get Informed Gallery Contact Donate Get Informed Green: MNsure rate hikes, insurance caps spell trouble for Minnesotans ST.
 PAUL – House Republicans are sounding the alarm over a looming health insurance crisis following Friday’s news that final MNsure rates will rise 50 percent or more for 2017.
 The latest rate increases are on top of hikes of up to 17 percent and 49 percent in the first two years of MNsure premium pricing adjustments.
 More than 75 percent of people who buy health insurance on their own do not receive any financial assistance from MNsure, undermining MNsure’s claims that tax credits will offset massive rate increases.
@@ -7,8 +6,7 @@ More than 75 percent of people who buy health insurance on their own do not rece
 Steve Green, R-Fosston.
 “This program has been an albatross around the state’s neck since the day of its failed launch a few years ago.
 MNsure has caused nothing but heartaches and headaches for many Minnesotans who can’t afford to suffer any longer from Democrats’ broken promises.
-The sooner we can stop funding MNsure and move to something that would actually deliver results, the better.”
-It also was announced Friday that the Minnesota Department of Commerce has approved enrollment caps that will limit Minnesotans’ access to federal financial assistance and ability to find health care coverage.
+The sooner we can stop funding MNsure and move to something that would actually deliver results, the better.” It also was announced Friday that the Minnesota Department of Commerce has approved enrollment caps that will limit Minnesotans’ access to federal financial assistance and ability to find health care coverage.
 Enrollment caps limit the number of new enrollees for certain insurers who sell insurance on the individual market.
 Due to MNsure’s inability to accurately process applications in a timely manner, Minnesotans who attempt to enroll through MNsure could be left without coverage through no fault of their own.
 Those who enroll directly with an insurer typically receive confirmation of coverage immediately.
@@ -50,3 +48,4 @@ Officials who put the people they represent before lobbyists, special interest g
 These are the informed decisions made by those willing to be held accountable.
 This November, elections may hold the future of our country in the balance.
 Change is needed, and not the change that was promised in 2008 & 2012, but real change that starts here, at home.
+Prepared and paid for by the Committee to Elect Steve Green Scripts - Get Informed - Contact - Donate ﻿

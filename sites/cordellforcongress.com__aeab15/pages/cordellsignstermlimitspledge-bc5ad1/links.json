@@ -1,12 +1,46 @@
 [
-"http://instagram.com/cordellcongress",
-"https://cordellforcongress.com/",
-"https://cordellforcongress.com/about",
-"https://cordellforcongress.com/news",
-"https://cordellforcongress.com/platform",
-"https://cordellforcongress.com/privacy-policy",
-"https://cordellforcongress.com/support",
-"https://facebook.com/MistiCordellForCongress",
-"https://secure.anedot.com/cordell-for-congress/donatenow",
-"https://vimeo.com/cordellforcongress"
+{
+"text": "About",
+"href": "https://www.cordellforcongress.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/cordell-for-congress/donatenow"
+},
+{
+"text": "Home",
+"href": "https://www.cordellforcongress.com/"
+},
+{
+"text": "News",
+"href": "https://www.cordellforcongress.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.cordellforcongress.com/privacy-policy"
+},
+{
+"text": "Platform",
+"href": "https://www.cordellforcongress.com/platform"
+},
+{
+"text": "Support",
+"href": "https://www.cordellforcongress.com/support"
+},
+{
+"text": "[image]",
+"href": "https://www.cordellforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/cordellcongress"
+},
+{
+"text": "[no text]",
+"href": "https://vimeo.com/cordellforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MistiCordellForCongress"
+}
 ]

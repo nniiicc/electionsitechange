@@ -1,4 +1,4 @@
-Ask anyone, how they feel and most reply, “fine” or “well.” However, are we “fine” or “well” or even, ok?
+Skip to content Meet Banks Solutions News Contribute Volunteer × Meet Banks Solutions News Contribute Volunteer How I Battled My Mental Health Demons Ask anyone, how they feel and most reply, “fine” or “well.” However, are we “fine” or “well” or even, ok?
 We are all living in a new world of heightened emotions, challenging traumas, and isolated loneliness.
 We know someone dealing with loss, aloneness, and desperation.
 Or, that someone is us.
@@ -51,10 +51,22 @@ What has really changed?
 I battle my inebriated self every Friday around 5 pm.
 Waves of depression disguised as tears fill my eyes at the most unannounced times.
 My heart hurts when I smell homemade bread coming out of the oven.
-However, on the outside I fit better with the world around me and on the inside, well, you’ll have to ask next time you see me.
-Banks Helfrich
-Candidate for Florida House,
-District 25
-As a native Floridian, I love this state.
+However, on the outside I fit better with the world around me and on the inside, well, you’ll have to ask next time you see me. https://www.midfloridanewspapers.com/clermont_news_leader/community/how-i-battled-my-mental-health-demons/article_dec41f42-aa5b-11ee-81f2-f3f4aef12454.html Banks Helfrich Candidate for Florida House, District 25 As a native Floridian, I love this state.
 As a resident of South Lake County, I love farming and teaching sustainability to this community.
 As a Candidate for State House, I love finding solutions to the issues of our time.
+I'm With Banks!
+Name (Required) First Name Last Name Email (Required) Enter Email Confirm Email Keep me up to date!
+The News Being a Patriot Wearing an American flag pin does not make us a patriot; it does show patriotism though.
+Wearing a farmer’s hat with the stars and stripes on the underside does not make us a patriot.
+Going to a ribbon cutting event and welcoming a new business into our city makes us a patriot.
+Chanting USA shows… Read More → What to Do About Property Insurance?
+As homeowners in Florida, we have two choices for property insurance – to be or not to be.
+If our home is paid off, we are not required to hold insurance on it.
+Many opt for this approach because of the skyrocketing cost of insurance.
+Most of us though are on the other side of ownership.… Read More → Taxes or Services So, you want to cut property taxes?
+What a fantastic idea!
+Wait, what exactly do property taxes pay for?
+Roughly half of property taxes pay for education, and the rest covers roads, police, fire, libraries, waste management, parks and trails.
+So, by cutting property taxes, we would be cutting these services, right?
+This November the… Read More → Quick Links Meet Banks Issues News Volunteer Contribute Issues Lowering Property Insurance Decreasing Traffic Congestion Supporting First Responders Curbing Excessive Development Lowering Grocery Costs Take Action Contribute Volunteer © # PAID by BANKS Helfrich, Democrat, Florida House of Representatives, District 25.
+All Rights Reserved. | Sitemap

@@ -1,33 +1,15 @@
-FOR IMMEDIATE RELEASE
-Contact:
-Mike Baker
-campaign@bakerforohio.com
-www.bakerforohio.com
-Mike Baker Announces Campaign for Ohio’s 52nd District State Representative
-Lorain County, OH – Mike Baker, a small business owner, community leader, and lifelong Lorain County resident, is officially announcing his candidacy for Ohio’s 52nd District State Representative.
-Running on a platform of strong schools, workers’ rights, and government transparency, Baker is committed to bringing leadership that listens and works for the people.
+Meet Mike Issues News Volunteer Yard Signs Contribute News / Mike Baker Announces Candidacy for Ohio’s 52nd District State Representative 17 Mar Monday, 6:00 AM · 2025 Mike Baker Announces Candidacy for Ohio’s 52nd District State Representative FOR IMMEDIATE RELEASE Contact: Mike Baker campaign@bakerforohio.com www.bakerforohio.com Mike Baker Announces Campaign for Ohio’s 52nd District State Representative Lorain County, OH – Mike Baker, a small business owner, community leader, and lifelong Lorain County resident, is officially announcing his candidacy for Ohio’s 52nd District State Representative .
+Running on a platform of strong schools, workers’ rights, and government transparency , Baker is committed to bringing leadership that listens and works for the people.
 “As a lifelong resident of Lorain County, I’ve seen firsthand the challenges our families face.
 From underfunded schools to attacks on workers’ rights, it’s clear we need new leadership that truly listens to the people,” said Baker.
 “I’m not a career politician—I’m a small business owner, a community leader, and a father.
-I know what it means to work hard and fight for what’s right, and that’s exactly what I’ll do in Columbus.”
-A Vision for Ohio’s 52nd District
-Baker’s campaign is focused on delivering real results for the community.
-His key priorities include: ✅ Investing in Education & Workforce Development – Ensuring fair school funding, competitive teacher pay, and expanding career training so students are prepared for good-paying jobs.
-✅ Fighting for Workers’ Rights & Strong Unions – Standing against ‘Right to Work’ laws, protecting collective bargaining, and ensuring workers have fair wages and safe workplaces.
-✅ Government Transparency & Accountability – Establishing a public tracker for constituent concerns, holding regular town halls, and keeping voters informed on legislative actions.
-✅ Protecting Individual Rights – Defending women’s reproductive rights, voting rights, and personal freedoms from political overreach.
-A Commitment to the Community
-Baker has spent years giving back to Lorain County, serving as President of the local Little League, holding leadership roles in Scouting BSA, and running First Choice Photography, a business that has supported local schools and sports programs for over 15 years.
+I know what it means to work hard and fight for what’s right, and that’s exactly what I’ll do in Columbus.” A Vision for Ohio’s 52nd District Baker’s campaign is focused on delivering real results for the community.
+His key priorities include: ✅ Investing in Education & Workforce Development – Ensuring fair school funding, competitive teacher pay, and expanding career training so students are prepared for good-paying jobs. ✅ Fighting for Workers’ Rights & Strong Unions – Standing against ‘Right to Work’ laws , protecting collective bargaining , and ensuring workers have fair wages and safe workplaces . ✅ Government Transparency & Accountability – Establishing a public tracker for constituent concerns, holding regular town halls , and keeping voters informed on legislative actions. ✅ Protecting Individual Rights – Defending women’s reproductive rights, voting rights, and personal freedoms from political overreach.
+A Commitment to the Community Baker has spent years giving back to Lorain County, serving as President of the local Little League , holding leadership roles in Scouting BSA , and running First Choice Photography, a business that has supported local schools and sports programs for over 15 years .
 “Public service starts with listening,” Baker continued.
 “That’s why my campaign will be people-powered, grassroots-driven, and focused on real conversations with the voters of Ohio’s 52nd District.
-I want to hear your concerns, your ideas, and your vision for our community.”
-Join the Movement
-Baker invites supporters to join the campaign, volunteer, and stay informed by visiting www.bakerforohio.com and following on social media.
-📍 Website: www.bakerforohio.com
-📧 Email: campaign@bakerforohio.com
-📱 Follow: @bakerforohio on Facebook, Instagram, and Twitter
-About Mike Baker
-Mike Baker is a small business owner, community advocate, and lifelong Lorain County resident running for Ohio’s 52nd District State Representative.
-His campaign is focused on investing in education, supporting workers’ rights, and ensuring government transparency.
-Baker believes in leadership that listens and works for the people—not special interests.
+I want to hear your concerns, your ideas, and your vision for our community.” Join the Movement Baker invites supporters to join the campaign, volunteer, and stay informed by visiting www.bakerforohio.com and following on social media. 📍 Website: www.bakerforohio.com 📧 Email: campaign@bakerforohio.com 📱 Follow: @bakerforohio on Facebook, Instagram, and Twitter About Mike Baker Mike Baker is a small business owner, community advocate, and lifelong Lorain County resident running for Ohio’s 52nd District State Representative .
+His campaign is focused on investing in education, supporting workers’ rights, and ensuring government transparency .
+Baker believes in leadership that listens and works for the people —not special interests.
 ### Paid for by Friends of Mike Baker.
+Voter Information Endorsements Yard Signs Events Photos Contact Friends of Mike Baker Powered by CampaignPartner.com - Political Websites Home Meet Mike Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

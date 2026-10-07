@@ -1,12 +1,74 @@
 [
-"https://buffalofirm.com/",
-"https://rebekahforcolorado.com/",
-"https://rebekahforcolorado.com/cart",
-"https://rebekahforcolorado.com/issues",
-"https://rebekahforcolorado.com/media",
-"https://rebekahforcolorado.com/meet-rebekah",
-"https://rebekahforcolorado.com/privacy-policy",
-"https://rebekahforcolorado.com/serving-the-district",
-"https://rebekahforcolorado.com/volunteer",
-"https://secure.actblue.com/donate/rebekahforcolorado"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "$30",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "$450",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "0",
+"href": "https://www.rebekahforcolorado.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "HD 30",
+"href": "https://www.rebekahforcolorado.com/serving-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.rebekahforcolorado.com/issues"
+},
+{
+"text": "Learn more",
+"href": "https://www.rebekahforcolorado.com/serving-the-district"
+},
+{
+"text": "Media",
+"href": "https://www.rebekahforcolorado.com/media"
+},
+{
+"text": "Meet Rebekah",
+"href": "https://www.rebekahforcolorado.com/meet-rebekah"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/rebekahforcolorado"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rebekahforcolorado.com/privacy-policy"
+},
+{
+"text": "The Buffalo Firm",
+"href": "https://www.buffalofirm.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.rebekahforcolorado.com/volunteer"
+},
+{
+"text": "Volunteer Kit",
+"href": "https://www.rebekahforcolorado.com/volunteer"
+},
+{
+"text": "[image: Rebekah Stewart for Colorado]",
+"href": "https://www.rebekahforcolorado.com/"
+}
 ]

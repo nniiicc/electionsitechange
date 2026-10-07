@@ -1,5 +1,4 @@
-Notice Of Collection Of Personal Information
-In order to enhance your overall user experience, we collect two types of information about our users: Personal Information (“Personal Information”) and Non-Personally Identifiable Information (“Non-Personal Information”).
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Notice Of Collection Of Personal Information In order to enhance your overall user experience, we collect two types of information about our users: Personal Information (“Personal Information”) and Non-Personally Identifiable Information (“Non-Personal Information”).
 Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
 Personal Information: We may collect personal information you voluntarily provide to us including, but not limited to your name, e-mail address, postal address, phone number, mobile number and geographic location.
 You may provide this information when you request information, register, make a purchase or for other purposes.
@@ -23,5 +22,11 @@ We will primarily use your Personal Information to provide our content to you as
 We will also use Personal Information you submit for purposes that include, but are not necessarily limited to, enhancing the operation of our site and our emails, completing transactions as necessary, improving our marketing and promotional efforts, statistically analyzing site use, improving our content offerings, and customizing our site’s content, layout, and services.
 We may use Personal Information to deliver information to you and to contact you regarding administrative notices.
 We may also use Personal Information to resolve disputes, troubleshoot problems and enforce our agreements with you.
-For additional information, please review our Privacy Policy.
-Additionally, you may request that we refrain from selling your personal information here: Do Not Sell My Personal Information.
+For additional information, please review our P rivacy Policy .
+Additionally, you may request that we refrain from selling your personal information here: Do Not Sell My Personal Information .
+Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

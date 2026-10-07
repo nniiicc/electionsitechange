@@ -1,10 +1,4 @@
-Back to All Events
-Join Team Gonzalez for our Campaign Kickoff in Indio!
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Back to All Events Coachella Valley Campaign Kickoff Saturday, September 12, 2026 11:00 AM 1:00 PM Indio Campaign Office 81557 Dr Carreon Blvd Suite B-3 Indio, CA (map) Google Calendar ICS Join Team Gonzalez for our Campaign Kickoff in Indio!
 Grab a yard sign, meet Jeff, enjoy refreshments and get involved.
-Previous
-Previous
-July 18
-Community Coffee in Blythe
-Next
-Next
-September 16
+RSVP: frank@gonzalez4assembly.com Previous Previous July 18 Community Coffee in Blythe Next Next September 16 Rancho Mirage Fundraiser MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

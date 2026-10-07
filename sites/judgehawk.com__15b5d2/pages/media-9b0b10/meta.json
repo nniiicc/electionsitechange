@@ -1,9 +1,14 @@
 {
  "description": "Media from the Hawk for Justice campaign.",
  "final_url": "https://www.judgehawk.com/media",
+ "fingerprint": "2543f229aae24586f3d97c2d3e47998be1a90df2",
+ "format": 3,
  "paid_for_by": "Paid for by Hawk for Justice Campaign Committee P",
  "title": "Media | Hawk for Justice",
  "years_mentioned": [
+  "2004",
+  "2010",
+  "2023",
   "2026"
  ]
 }

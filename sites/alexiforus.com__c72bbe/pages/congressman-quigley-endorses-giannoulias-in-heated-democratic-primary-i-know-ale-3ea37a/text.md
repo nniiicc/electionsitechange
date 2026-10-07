@@ -1,11 +1,9 @@
-Quigley’s endorsement is the ninth Giannoulias has received from a current or former Democratic member of the U.S House or Senate.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute Congressman Quigley endorses Giannoulias in heated Democratic primary: ‘I know Alexi will be a great secretary of state’ Quigley’s endorsement is the ninth Giannoulias has received from a current or former Democratic member of the U.S House or Senate.
 Rep.
 Mike Quigley is opting out of the Chicago mayor’s race, but that’s not stopping him from weighing in on the heated contest to succeed retiring Illinois Secretary of State Jesse White.
 The Northwest Side congressman is endorsing former state Treasurer Alexi Giannoulias, campaign officials told the Chicago Sun-Times.
-In a video announcement, Quigley said Giannoulias, like himself, “is committed to restoring the public’s trust in government.”
-“That’s why when he was state treasurer, he put in tough ethics laws and ended pay-to-play right out of the gate,” Quigley said.
-“I know Alexi will be a great secretary of state, and I hope you’ll join me in supporting him.”
-Quigley’s endorsement is the ninth that Giannoulias has received from a current or former Democratic member of the U.S.
+In a video announcement, Quigley said Giannoulias, like himself, “is committed to restoring the public’s trust in government.” “That’s why when he was state treasurer, he put in tough ethics laws and ended pay-to-play right out of the gate,” Quigley said.
+“I know Alexi will be a great secretary of state, and I hope you’ll join me in supporting him.” Quigley’s endorsement is the ninth that Giannoulias has received from a current or former Democratic member of the U.S.
 House or Senate, including Representatives Jesus “Chuy” Garcia, Raja Krishnamoorthi, Bobby Rush, Jan Schakowsky and Brad Schneider.Former House members Luis Gutierrez and Jerry Costello Sr. and former U.S.
 Sen.
 Carol Moseley Braun are also backing his candidacy.
@@ -37,3 +35,9 @@ Attorney for Central Illinois John Milhiser, who is running on a slate with Ken 
 Late last month, Quigley joined a growing list of politicians announcing they’d be taking a pass on challenging Mayor Lori Lightfoot next year.
 So far, only Ald.
 Ray Lopez (15th) and millionaire businessman Willie Wilson have declared their intention to run for mayor next year.
+Read the article in the Chicago Sun-Times.
+Related Posts Ban the ban, not the book?
+Giannoulias caps return with string of legislative wins, including anti-censorship law Illinois Secretary of State Alexi Giannoulias told the Sun-Times he was “blown away” after reading about book bans across the country.
+“To me, this is a slippery slope, and it goes against what education is about,” he said.
+Keep Reading → Giannoulias Receives Big Democrat Support Several elected state and township officials announce endorsements Keep Reading → Giannoulias Lanza Su Primer Video En Español El Ex Tesorero de Estado Explora Campaña para Secretario de Estado Keep Reading → Contribute to Alexi's Vision Help Alexi in restoring public trust in government and its elected leaders.
+Donate Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

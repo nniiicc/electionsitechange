@@ -1,7 +1,5 @@
-Secretary of State Candidate Senator Kim Hammer Releases Statement on Arkansas’ Rank as #1 in the Nation for Election Integrity
-June 3, 2025
-Benton — State Senator and Secretary of State Candidate Kim Hammer released a statement regarding conservative think tank The Heritage Foundation’s election scorecard which crowned Arkansas best in the country for election safety and security.
+Home Meet Kim Election Security News Volunteer Donate Donate Secretary of State Candidate Senator Kim Hammer Releases Statement on Arkansas’ Rank as #1 in the Nation for Election Integrity June 3, 2025 Benton — State Senator and Secretary of State Candidate Kim Hammer released a statement regarding conservative think tank The Heritage Foundation’s election scorecard which crowned Arkansas best in the country for election safety and security.
 “I’m proud of my legislation which passed this session and made our state #1 in the country for safest elections.
 Our voting systems will only get stronger as we work to ensure the highest confidence in Arkansas’ election integrity.
 “In the analysis, Arkansas scores high on key components such as voter ID implementation, accuracy of voter registration lists, absentee ballot management, restrictions on vote harvesting and trafficking, access of election observers, verification of citizenship, identification for voter assistance, vote counting practices, and more.
-“As your Secretary of State, I will work with the legislature and our partners at the State Board of Elections and in every county to keep our state’s rank at the very top.”
+“As your Secretary of State, I will work with the legislature and our partners at the State Board of Elections and in every county to keep our state’s rank at the very top.” Home Meet Kim Election Security News Volunteer Donate Donate Paid for by Hammer for Secretary of State Privacy Policy | Terms & Conditions

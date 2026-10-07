@@ -1,33 +1,6 @@
-0
-Skip to Content
-Lanny Thomas for Senate
-About Lanny
-Issues
-District 53
-Voting Information
-Endorsements
-Get Involved
-Donate
-Contact
-Open Menu
-Close Menu
-Lanny Thomas for Senate
-About Lanny
-Issues
-District 53
-Voting Information
-Endorsements
-Get Involved
-Donate
-Contact
-Open Menu
-Close Menu
-About Lanny
-Issues
-District 53
-Voting Information
-Endorsements
-Get Involved
-Donate
-Contact
-Contact Lanny.
+0 Skip to Content Lanny Thomas for Senate About Lanny Issues District 53 Voting Information Endorsements Get Involved Donate Contact Open Menu Close Menu Lanny Thomas for Senate About Lanny Issues District 53 Voting Information Endorsements Get Involved Donate Contact Open Menu Close Menu About Lanny Issues District 53 Voting Information Endorsements Get Involved Donate Contact Contact Lanny.
+Elect Lanny Thomas for Senate Home About Issues District 53 Get Involved Donate Contact Media Kit Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Stay Connected Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!

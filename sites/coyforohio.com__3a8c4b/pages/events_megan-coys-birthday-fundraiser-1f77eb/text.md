@@ -1,8 +1,1 @@
-Paid for by Friends of Megan Coy
-Previous
-Previous
-August 30
-Joint Canvass Launch with Megan Coy, Brian Poindexter and Courtney Scheff
-Next
-Next
-September 12
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Megan Coy's Birthday Fundraiser Thursday, September 10, 2026 5:30 PM 7:30 PM Mulligan's Bar and Grille 20880 Royalton Road Strongsville, Ohio, 44149 United States (map) Google Calendar ICS Previous Previous August 30 Joint Canvass Launch with Megan Coy, Brian Poindexter and Courtney Scheff Next Next September 12 North Royalton Canvass with Megan Coy Paid for by Friends of Megan Coy

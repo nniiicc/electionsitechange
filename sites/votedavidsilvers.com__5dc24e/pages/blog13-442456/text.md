@@ -1,8 +1,4 @@
-Genetic counselors now are licensed professionals in Florida, and lives will be saved ANOTHER VIEWPOINT
-South Florida Sun-Sentinel
-July 26, 2021 Monday
-1 Edition
-This legislative session, I had the honor to sponsor and pass the Genetic Counseling Patient Protection Act, which will improve Floridians’ access to critical health care services as well as access to workforce opportunities in a rapidly growing career field.
+Donate Home Meet David Awards Results News Endorsements Join Donate Menu Menu Latest News Genetic counselors now are licensed professionals in Florida, and lives will be saved ANOTHER VIEWPOINT July 26, 2021 / in News / by David Silvers South Florida Sun-Sentinel July 26, 2021 Monday 1 Edition This legislative session, I had the honor to sponsor and pass the Genetic Counseling Patient Protection Act, which will improve Floridians’ access to critical health care services as well as access to workforce opportunities in a rapidly growing career field.
 Genetic counselors are highly trained medical professionals who play an important role in our current era of health care as the demand and complexity of genetic testing continues to grow.
 They provide an invaluable service to families who may be impacted by cancer, hereditary genetic challenges, or any growing number of diseases that are influenced by genetic factors.
 They identify risk levels of individuals and their family members for certain disorders or diseases; communicate appropriate next steps, including whether to perform genetic testing; ensure that the correct genetic tests are ordered; investigate information on the genetic variations present; interpret test results and information about the disorder; analyze inheritance patterns to determine risks of recurrence and review available options with the family.
@@ -22,4 +18,6 @@ Having greater access to licensed genetic counseling will help people get the in
 The Genetic Counseling Patient Protection Act establishes state licensure for those providing genetic counseling services, allowing them to be recognized health care providers in Florida.
 This will not only keep and grow our skilled workforce in the state, it will ensure better access to a critical health care service for Florida’s families.
 I am proud to say that the governor signed this into law this past June, and it went into effect July 1, ushering in a new health care field that hopefully will save and improve many lives.
-David Silvers is the state representative for District 87, which includes parts of Palm Beach County.
+David Silvers is the state representative for District 87, which includes parts of Palm Beach County. https://www.votedavidsilvers.com/wp-content/uploads/2025/06/images.jpg 168 299 David Silvers https://www.votedavidsilvers.com/wp-content/uploads/2025/03/david-silver-logo.png David Silvers 2021-07-26 18:53:33 2025-06-17 17:40:53 Genetic counselors now are licensed professionals in Florida, and lives will be saved ANOTHER VIEWPOINT Home Meet David Awards Results Join Contact PAID BY DAVID SILVERS, DEMOCRAT, FOR STATE SENATE Link to: Time to fix coverage gap for mental health; Insurance policies in Florida can severely limit access to treatment Time to fix coverage gap for mental health; Insurance policies in Florida can...
+Link to: Getting more mental health professionals into our classrooms Another Viewpoint Getting more mental health professionals into our classrooms Another Viewpo...
+Scroll to top Scroll to top

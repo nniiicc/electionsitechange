@@ -1,21 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSf08keA4XOgCXo_fafwIcPQeivJZVNO7yXWMUXtfC-k6d-3vg/viewform?usp=header",
-"https://facebook.com/profile.php?id=61587037391623",
-"https://instagram.com/mcfarlandpepper4district33",
-"https://peppermcfarland.com/",
-"https://peppermcfarland.com/contact",
-"https://peppermcfarland.com/contribute",
-"https://peppermcfarland.com/home",
-"https://peppermcfarland.com/issues",
-"https://peppermcfarland.com/meet_pepper",
-"https://peppermcfarland.com/news",
-"https://peppermcfarland.com/photos",
-"https://peppermcfarland.com/privacy-policy",
-"https://peppermcfarland.com/view-endorsements",
-"https://peppermcfarland.com/volunteer",
-"https://peppermcfarland.com/vote",
-"https://peppermcfarland.com/yard-sign",
-"https://tiktok.com/@pepper4district33",
-"https://youtube.com/@peppermcfarlandHD33"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.peppermcfarland.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.peppermcfarland.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.peppermcfarland.com/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.peppermcfarland.com/home"
+},
+{
+"text": "Letter to the Editor; Daily News Miner",
+"href": "https://www.peppermcfarland.com/news/#letter-to-the-editor-daily-news-miner"
+},
+{
+"text": "Meet PEPPER",
+"href": "https://www.peppermcfarland.com/meet_pepper"
+},
+{
+"text": "Photos",
+"href": "https://www.peppermcfarland.com/photos"
+},
+{
+"text": "Priorities",
+"href": "https://www.peppermcfarland.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.peppermcfarland.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.peppermcfarland.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.peppermcfarland.com/vote"
+},
+{
+"text": "Voter Information",
+"href": "https://www.peppermcfarland.com/vote"
+},
+{
+"text": "What are YOUR priorities?",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf08keA4XOgCXo_fafwIcPQeivJZVNO7yXWMUXtfC-k6d-3vg/viewform?usp=header"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.peppermcfarland.com/yard-sign"
+},
+{
+"text": "[image]",
+"href": "https://www.peppermcfarland.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587037391623"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mcfarlandpepper4district33"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@pepper4district33"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@peppermcfarlandHD33"
+},
+{
+"text": "click here to share your top priorities",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSf08keA4XOgCXo_fafwIcPQeivJZVNO7yXWMUXtfC-k6d-3vg/viewform?usp=header"
+}
 ]

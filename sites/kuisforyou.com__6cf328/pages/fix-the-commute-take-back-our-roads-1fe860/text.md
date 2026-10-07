@@ -1,4 +1,9 @@
-Cut-through traffic, unpredictable commutes, and growing congestion are straining Newtown’s roads.
+Skip to content MICHELLE EMBREE KU FOR NEWTOWN Search About About Michelle Photos Accomplishments A Clear Choice for Newtown Common Sense.
+Real Backbone.
+Get Involved Volunteer!
+Subscribe Contact News Latest Posts Facebook Feed Instagram Feed Newtown Bee: Letters to the Editor Issues Affordable Housing Action Not Talk Strong Schools Healthcare Traffic Regarding Property Taxes Home Fix the Commute.
+Take Back Our Roads.
+August 5, 2026 Cut-through traffic, unpredictable commutes, and growing congestion are straining Newtown’s roads.
 Michelle Embree Ku has a plan to push for I‑84 improvements, secure federal funding, and strengthen coordination on key state routes—delivering real relief for residents and businesses.
 Since announcing my candidacy for the 106th State House seat, I’ve been engaging with Newtown residents to hear their concerns.
 A recurring theme is the pressing issue of traffic—speeding, noise, congestion, and the time wasted navigating our increasingly busy roads.
@@ -37,3 +42,9 @@ Together, we can make a real difference in improving our roads and easing traffi
 Better roads won’t happen by waiting—they’ll happen by fighting for Newtown.
 Vote for Michelle Embree Ku.
 She’s ready to lead with fresh urgency and is focused on practical results.
+Susan Clancy I84 , Newtown , Traffic Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email. Δ Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Brian Hartgraves Treasurer.
+Approved by Michelle Embree Ku.

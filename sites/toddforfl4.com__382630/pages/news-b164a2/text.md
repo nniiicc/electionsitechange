@@ -1,11 +1,2 @@
-News
-Latest updates from the campaign:
-4
-Mar
-FL-04 Candidate Forum Hosted by Indivisible Jax
-March 3rd -
-Indivisible Jax FL-04 Candidate forum:
-24
-Apr
-Todd Schaefer for Congress
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Todd Issues Why Run Independent?
+Volunteer Contact News Latest updates from the campaign: 4 Mar Wednesday, 2:36 PM · 2026 FL-04 Candidate Forum Hosted by Indivisible Jax March 3rd - Indivisible Jax FL-04 Candidate forum: 24 Apr Wednesday, 9:34 PM · 2024 Florida Politics Article Former Navy man Todd Schaefer looks to beat the odds in Northeast Florida. - Florida Politics 04/24/2024 Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

@@ -1,27 +1,2 @@
-Home
-Priorities
-Endorsements
-In the News
-Contact
-Volunteer
-Donate
-REQUEST A YARD SIGN
-Back
-A Healthier Michigan
-A More Affordable Michigan
-A Better Educated Michigan
-A Tighter-Knit Michigan
-Home
-Priorities
-A Healthier Michigan
-A More Affordable Michigan
-A Better Educated Michigan
-A Tighter-Knit Michigan
-Endorsements
-In the News
-Contact
-Volunteer
-Donate
-REQUEST A YARD SIGN
-TRUSTED ORGANIZATIONS
-ADD YOUR NAME TO SHOW YOUR SUPPORT
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN TRUSTED ORGANIZATIONS ADD YOUR NAME TO SHOW YOUR SUPPORT WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

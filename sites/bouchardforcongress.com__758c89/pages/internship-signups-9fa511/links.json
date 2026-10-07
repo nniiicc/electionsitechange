@@ -1,9 +1,54 @@
 [
-"http://patharrigan.com/privacy-policy",
-"https://bouchardforcongress.com/",
-"https://bouchardforcongress.com/privacy-policy",
-"https://facebook.com/share/19usKzuWmt?mibextid=wwXIfr",
-"https://instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy",
-"https://secure.winred.com/friends-of-michael-bouchard-inc/donate",
-"https://x.com/bouchardformi"
+{
+"text": "$10",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/friends-of-michael-bouchard-inc/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bouchardforcongress.com/privacy-policy"
+},
+{
+"text": "[image]",
+"href": "https://www.bouchardforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/19usKzuWmt/?mibextid=wwXIfr"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/bouchardformi?igsh=bWIyOGx5bjczdXVy"
+},
+{
+"text": "[image]",
+"href": "https://x.com/bouchardformi"
+},
+{
+"text": "[no text]",
+"href": "http://www.patharrigan.com/privacy-policy"
+}
 ]

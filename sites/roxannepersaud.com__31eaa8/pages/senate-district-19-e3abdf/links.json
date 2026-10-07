@@ -1,15 +1,70 @@
 [
-"https://facebook.com/SD19SenatorPersaud",
-"https://findmypollsite.vote.nyc/",
-"https://instagram.com/sd19senatorpersaud",
-"https://newyork.redistrictingandyou.org/?districtType=sd&propA=current_2012&propB=sen_specialmastercorrected_20220604&selected=-73.904%2C40.638",
-"https://nycabsentee.com/",
-"https://on.ny.gov/3Ma10OY",
-"https://roxannepersaud.com/",
-"https://roxannepersaud.com/about",
-"https://roxannepersaud.com/contact-us",
-"https://roxannepersaud.com/our-issues",
-"https://roxannepersaud.com/senate-district-19",
-"https://secure.actblue.com/donate/roxanne-persaud",
-"https://twitter.com/SenatorPersaud"
+{
+"text": "About",
+"href": "https://roxannepersaud.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://roxannepersaud.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/roxanne-persaud"
+},
+{
+"text": "Find Your Pollsite",
+"href": "https://findmypollsite.vote.nyc/"
+},
+{
+"text": "Home",
+"href": "https://roxannepersaud.com/"
+},
+{
+"text": "NYC Absentee Ballot Request",
+"href": "https://www.nycabsentee.com/"
+},
+{
+"text": "Our Issues",
+"href": "https://roxannepersaud.com/our-issues/"
+},
+{
+"text": "Register to Vote",
+"href": "https://on.ny.gov/3Ma10OY"
+},
+{
+"text": "Senate District 19",
+"href": "https://roxannepersaud.com/senate-district-19/"
+},
+{
+"text": "Visit Full map",
+"href": "https://newyork.redistrictingandyou.org/?districtType=sd&propA=current_2012&propB=sen_specialmastercorrected_20220604&selected=-73.904%2C40.638#%26map=10.32/40.6573/-73.9129"
+},
+{
+"text": "[image]",
+"href": "https://roxannepersaud.com"
+},
+{
+"text": "[image]",
+"href": "https://roxannepersaud.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SenatorPersaud"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SD19SenatorPersaud/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sd19senatorpersaud/"
+},
+{
+"text": "get registered",
+"href": "https://on.ny.gov/3Ma10OY"
+},
+{
+"text": "info@roxannepersaud.com",
+"href": "mailto: info@roxannepersaud.com"
+}
 ]

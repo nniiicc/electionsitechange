@@ -1,7 +1,6 @@
-by Dale Washburn | Mar 17, 2020 | News
-The Georgia General Assembly convened for an unprecedented special legislative session on Monday, March 16, 2020.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page 2020 Special Legislative Session by Dale Washburn | Mar 17, 2020 | News The Georgia General Assembly convened for an unprecedented special legislative session on Monday, March 16, 2020.
 Governor Brian Kemp signed a public health state of emergency to address the novel coronavirus, COVID-19, in Georgia on Saturday, March 14.
 My colleagues...
-by Dale Washburn | Mar 9, 2020 | News, Uncategorized
-On Monday, March 2, the Georgia House of Representatives returned to the Gold Dome for the eighth week of the 2020 legislative session.
+2020 Legislative Session Week Eight by Dale Washburn | Mar 9, 2020 | News , Uncategorized On Monday, March 2, the Georgia House of Representatives returned to the Gold Dome for the eighth week of the 2020 legislative session.
 More than 40 bills and resolutions were passed on the House floor during the four days that my colleagues and I were in session this...
+Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

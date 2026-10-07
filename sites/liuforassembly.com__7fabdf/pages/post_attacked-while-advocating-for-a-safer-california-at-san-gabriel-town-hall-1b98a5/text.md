@@ -1,6 +1,4 @@
-Attacked While Advocating for a Safer California at San Gabriel Town Hall
-Steve Ally David Got Attacked while He Was Advocating a Safe California inside San Gabriel Town Hall Meeting
-What happened today should be a wake-up call for every single resident in California.
+top of page Home Blog Blog Post Issue Comparison Blog Post Issue Comparison Issues Media Contact Us Endorsements Media Press DONATE Blog Post Issue Comparison Attacked While Advocating for a Safer California at San Gabriel Town Hall Long Liu Office Sep 21 2 min read Steve Ally David Got Attacked while He Was Advocating a Safe California inside San Gabriel Town Hall Meeting What happened today should be a wake-up call for every single resident in California.
 Long David Liu arrived this afternoon to support Steve Hilton’s campaign and advocate for his own run in California’s 49th Assembly District.
 But the moment he stepped out of his car, he was swarmed by a hostile group of protesters waiting for Steve.
 Carrying signs insulting candidates, the party, and supporters, their hostility quickly turned physical and personal when they saw David and his campaign sign.
@@ -18,3 +16,6 @@ Let’s back Steve Hilton and Long David Liu!
 P.S.
 Hey Steve Hilton, it looks like David took a major bullet for you today...
 You definitely owe him a beer!
+Recent Posts See All We Debate.
+You Decide.
+Endorsement from Phillip Chen Affordability 加州第49選區州眾議員競選 davidliucampaign@gmail.com © # 劉朗大衛州眾議員競選委員會。由劉朗大衛競選團隊支付。 bottom of page

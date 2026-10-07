@@ -1,8 +1,42 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://secure.anedot.com/citizens-to-elect-stidham/donate",
-"https://stidhamfortn.com/",
-"https://stidhamfortn.com/contact",
-"https://twitter.com/wix"
+{
+"text": "Approach",
+"href": "https://www.stidhamfortn.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.stidhamfortn.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/citizens-to-elect-stidham/donate"
+},
+{
+"text": "How You Can Help",
+"href": "https://www.stidhamfortn.com/contact"
+},
+{
+"text": "Leadership",
+"href": "https://www.stidhamfortn.com"
+},
+{
+"text": "Service",
+"href": "https://www.stidhamfortn.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: X ]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.stidhamfortn.com"
+}
 ]

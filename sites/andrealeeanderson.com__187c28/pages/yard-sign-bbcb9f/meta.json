@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://andrealeeanderson.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "2bd286041fc92681a1fb1db6a7578e55af62957f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

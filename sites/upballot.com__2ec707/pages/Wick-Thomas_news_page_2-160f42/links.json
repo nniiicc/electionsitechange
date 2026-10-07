@@ -1,21 +1,102 @@
 [
-"https://facebook.com/wickformo",
-"https://instagram.com/wickformo",
-"https://secure.actblue.com/donate/wick4mo",
-"https://twitter.com/wickformo",
-"https://upballot.com/",
-"https://upballot.com/Wick-Thomas",
-"https://upballot.com/Wick-Thomas/about",
-"https://upballot.com/Wick-Thomas/events",
-"https://upballot.com/Wick-Thomas/get-involved",
-"https://upballot.com/Wick-Thomas/issues",
-"https://upballot.com/Wick-Thomas/news",
-"https://upballot.com/Wick-Thomas/news/campaign-kickoff",
-"https://upballot.com/Wick-Thomas/news/campaign-updates-3-29-24",
-"https://upballot.com/Wick-Thomas/news/campaign-updates-4-19-24",
-"https://upballot.com/Wick-Thomas/news/state-rep-candidate-wick-thomas-to-host-paint-sip-fundraiser-in-honor-of-the-independence-ave-truck-eating-bridge",
-"https://upballot.com/Wick-Thomas/news/where-is-district-19",
-"https://upballot.com/Wick-Thomas/news/youth-art-contest",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Wick",
+"href": "https://www.upballot.com/Wick-Thomas/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/wick4mo"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Wick-Thomas/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Wick-Thomas/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Wick-Thomas"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Wick-Thomas/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "Updates",
+"href": "https://www.upballot.com/Wick-Thomas/news/"
+},
+{
+"text": "[image: Wick Thomas Logo]",
+"href": "https://www.upballot.com/Wick-Thomas/"
+},
+{
+"text": "[image] April 19 Campaign Updates 4.19.24 Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/campaign-updates-4-19-24"
+},
+{
+"text": "[image] March 10 Campaign Kickoff! Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/campaign-kickoff"
+},
+{
+"text": "[image] March 18 Youth Art Contest Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/youth-art-contest"
+},
+{
+"text": "[image] March 29 Campaign Updates 3.29.24 Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/campaign-updates-3-29-24"
+},
+{
+"text": "[image] May 20 Where is District 19? Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/where-is-district-19"
+},
+{
+"text": "[image] May 25 State Rep Candidate Wick Thomas To Host Paint & Sip Fundraiser In Honor Of The Independence Ave. \"Truck-Eating Bridge\" Read More",
+"href": "https://www.upballot.com/Wick-Thomas/news/state-rep-candidate-wick-thomas-to-host-paint-sip-fundraiser-in-honor-of-the-independence-ave-truck-eating-bridge"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/wickformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/wickformo"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/wickformo"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/wickformo"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/wickformo"
+},
+{
+"text": "[tooltip: View Twitter Link]",
+"href": "https://www.twitter.com/wickformo"
+},
+{
+"text": "team@wickthomas.org",
+"href": "mailto:team@wickthomas.org"
+},
+{
+"text": "tel:(816) 799-5428",
+"href": "tel:(816)%20799-5428"
+}
 ]

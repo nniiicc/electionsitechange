@@ -1,17 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=DFL+SD27+Monthly+Meeting+&dates=20260909T233000Z%2F20260910T003000Z&location=26140+3rd+Street+East%2C+Zimmerman%2C+Minnesota%2C+55398%2C+United+States",
-"http://maps.google.com/?q=26140+3rd+Street+East+Zimmerman%2C+Minnesota%2C+55398+United+States",
-"https://davenportmn27a.house/",
-"https://davenportmn27a.house/calendar",
-"https://davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3?format=ical",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj",
-"https://davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-2r8pp-z5s6j",
-"https://davenportmn27a.house/campaign-priorities",
-"https://davenportmn27a.house/cart",
-"https://davenportmn27a.house/endorsements",
-"https://davenportmn27a.house/our-district",
-"https://davenportmn27a.house/the-patriot-newspaper-articles",
-"https://davenportmn27a.house/the-patriot-newspaper-articles-1",
-"https://facebook.com/profile.php?id=61586379279340",
-"https://facebook.com/share/16t4hL8CXA"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=26140+3rd+street+east+zimmerman%2C+minnesota%2C+55398+united+states"
+},
+{
+"text": "0",
+"href": "https://www.davenportmn27a.house/cart"
+},
+{
+"text": "About",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Calendar",
+"href": "https://www.davenportmn27a.house/calendar"
+},
+{
+"text": "Campaign Priorities",
+"href": "https://www.davenportmn27a.house/campaign-priorities"
+},
+{
+"text": "Davenport for Minnesota House 27A",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.davenportmn27a.house/endorsements"
+},
+{
+"text": "Facebook Event Link",
+"href": "https://www.facebook.com/share/16t4hL8CXA/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=DFL+SD27+Monthly+Meeting+&dates=20260909T233000Z%2F20260910T003000Z&location=26140+3rd+Street+East%2C+Zimmerman%2C+Minnesota%2C+55398%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.davenportmn27a.house/"
+},
+{
+"text": "ICS",
+"href": "https://www.davenportmn27a.house/calendar/dfl-sd27-monthly-meeting-n44z3?format=ical"
+},
+{
+"text": "Next Next September 11 Big Lake Door Knocking",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj-2r8pp-z5s6j"
+},
+{
+"text": "Our District",
+"href": "https://www.davenportmn27a.house/our-district"
+},
+{
+"text": "Previous Previous September 2 Becker Door Knocking",
+"href": "https://www.davenportmn27a.house/calendar/orrock-door-knocking-fpjgb-hwj2x-p2jkj"
+},
+{
+"text": "The Patriot Newspaper",
+"href": "https://www.davenportmn27a.house/the-patriot-newspaper-articles"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586379279340"
+},
+{
+"text": "[no text]",
+"href": "mailto:vanessa@davenportmn27a.house"
+}
 ]

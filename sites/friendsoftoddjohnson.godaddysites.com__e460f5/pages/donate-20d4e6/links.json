@@ -1,10 +1,38 @@
 [
-"https://c-span.org/video",
-"https://facebook.com/112184198288977",
-"https://friendsoftoddjohnson.godaddysites.com/",
-"https://friendsoftoddjohnson.godaddysites.com/donate",
-"https://friendsoftoddjohnson.godaddysites.com/get-involved",
-"https://friendsoftoddjohnson.godaddysites.com/meet-todd",
-"https://friendsoftoddjohnson.godaddysites.com/the-issues",
-"https://twitter.com/Todd4PA"
+{
+"text": "Donate",
+"href": "https://friendsoftoddjohnson.godaddysites.com/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://friendsoftoddjohnson.godaddysites.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://friendsoftoddjohnson.godaddysites.com/"
+},
+{
+"text": "Meet Todd",
+"href": "https://friendsoftoddjohnson.godaddysites.com/meet-todd"
+},
+{
+"text": "The Issues",
+"href": "https://friendsoftoddjohnson.godaddysites.com/the-issues"
+},
+{
+"text": "Watch Here",
+"href": "https://www.c-span.org/video/?c5030533%2Fuser-clip-todd-johnsons-invocation-save-america-rally-pa="
+},
+{
+"text": "[image: Friends of Todd Johnson]",
+"href": "https://friendsoftoddjohnson.godaddysites.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/112184198288977"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/Todd4PA"
+}
 ]

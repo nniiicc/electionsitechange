@@ -1,3 +1,5 @@
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate Creativity, civility and responsibility – graduation 2011 Giving a diploma to my daughter Natalie, a member of the class of 2011.
 Fellow School Committee members, Ms.
 Sabolinski, Mr.
 Light, members of the faculty, graduates, parents, and honored guests: welcome, congratulations, and greetings.
@@ -14,18 +16,14 @@ I know i speak for all the parents in the room when i say that we dreamed of a d
 Franklin high class of 2011, you graduate in a year of great challenges throughout the world – where unparalleled channels of communication foster freedom uprisings; where our leaders struggle to bring peace among nations; and when the very fabric of the american spirit is tested.
 To meet these challenges, i ask you to consider three words – creativity, civility, & responsibility.
 On creativity, a few years ago i stumbled upon a quote from Oliver Wendell Holmes.
-He said: “Most people go to their graves with their music still inside them.”
-Let me say that again: “Most people go to their graves with their music still inside them.”
-Please don’t be one of them!
+He said: “Most people go to their graves with their music still inside them.” Let me say that again: “Most people go to their graves with their music still inside them.” Please don’t be one of them!
 Be sure to let that music out over the course of your lives.
 Try to be that song that enhances a dramatic scene or brings a smile to others; that painting whose lines, shapes and colors add warmth to a room; that play that stops us in our tracks and makes us think again.
 A few moments ago, Samantha, Dan & Amy shared some wonderful words with us.
 A few weeks ago, Dan’s mother shared an essay he wrote on the impact of music in his life.
-I want to share a few lines from it because it demonstrates the power of creativity and I am certain it will remind you of some of your experiences in music, theater, art, sports, or any of the clubs or activities you’ve enjoyed:
-Dan wrote: “Within the FHS jazz band, i was exposed to the ideas and interpretations of my fellow students.
+I want to share a few lines from it because it demonstrates the power of creativity and I am certain it will remind you of some of your experiences in music, theater, art, sports, or any of the clubs or activities you’ve enjoyed: Dan wrote: “Within the FHS jazz band, i was exposed to the ideas and interpretations of my fellow students.
 I listened to the other players bounce ideas off of each other and consequently respond; I began to feel the music, not just hear the notes and rhythms, but emotionally understand the nuances of every subtlety.
-It allowed for expression and creation unlike anywhere I have ever seen.”
-Thank you Dan for letting the music out.
+It allowed for expression and creation unlike anywhere I have ever seen.” Thank you Dan for letting the music out.
 On civility, it’s unfortunate that we live in a heightened climate of anger, with much finger-pointing and a rush to judgment on the assignment of blame.
 While there is bitterness in america, it is not an accurate reflection of the American spirit.
 America has long been viewed as a miracle, and we can do better simply by showing greater civility and respect for one another.
@@ -45,3 +43,11 @@ If everyone went about their business the way musicians do – where your action
 It’s up to you class of 2011 to take us to that place.
 Let the music out over your next 60, 70 or 80 years of living and never let it be said that the class of 2011 kept the music within.
 Good luck class of 2011 and keep in touch.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Leave a comment Cancel reply Δ Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

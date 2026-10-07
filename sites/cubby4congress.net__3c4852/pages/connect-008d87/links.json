@@ -1,13 +1,50 @@
 [
-"https://cubby4congress.net/build-what-comes-next",
-"https://cubby4congress.net/connect",
-"https://cubby4congress.net/green-party-of-mi-1",
-"https://cubby4congress.net/home",
-"https://cubby4congress.net/meet-cubby",
-"https://cubby4congress.net/us-district-10",
-"https://cubby4congress.net/why-im-running",
-"https://facebook.com/cubby4congress",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "Build What Comes Next",
+"href": "https://cubby4congress.net/build-what-comes-next"
+},
+{
+"text": "Connect",
+"href": "https://cubby4congress.net/connect"
+},
+{
+"text": "Cubby4congress@gmail.com",
+"href": "mailto:Cubby4congress@gmail.com"
+},
+{
+"text": "Green Party of MI",
+"href": "https://cubby4congress.net/green-party-of-mi-1"
+},
+{
+"text": "Home",
+"href": "https://cubby4congress.net/home"
+},
+{
+"text": "Meet Cubby",
+"href": "https://cubby4congress.net/meet-cubby"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "US District 10",
+"href": "https://cubby4congress.net/us-district-10"
+},
+{
+"text": "Why I'm Running",
+"href": "https://cubby4congress.net/why-im-running"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cubby4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

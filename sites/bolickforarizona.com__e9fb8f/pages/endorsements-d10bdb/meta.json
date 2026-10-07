@@ -1,7 +1,9 @@
 {
  "description": "Explore Arizona endorsements for Bolick for Arizona, showcasing broad political support and trusted endorsements from key organizations.",
  "final_url": "https://bolickforarizona.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "382a0147e302effdb4834a8c7714e307ca4fac79",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
  "years_mentioned": []
 }

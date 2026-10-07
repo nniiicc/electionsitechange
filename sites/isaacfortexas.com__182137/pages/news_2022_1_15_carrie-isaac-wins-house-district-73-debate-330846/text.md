@@ -1,5 +1,4 @@
-Carrie Isaac Wins House District 73 Debate
-I’m thrilled to share: I won the debate!
+Home Meet Carrie New Events Issues Endorsements News Contact Contribute Home Meet Carrie New Events Issues Endorsements News Contact Contribute Carrie Isaac Wins House District 73 Debate I’m thrilled to share: I won the debate!
 Comal and Hays counties deserve a true conservative representative who has real solutions and who won't back down from a fight.
 The debate held this week by the Dripping Springs Republicans clearly showed I'm the only candidate with a plan to cut property taxes for all Texans, a track record of fighting liberal gun grabbers, and the courage to defend our freedom unapologetically.
 My opponent's “solution” for skyrocketing property taxes is anything but a solution, it’s actually a tax increase.
@@ -21,3 +20,6 @@ We rent from the government, and this is unacceptable.
 Texas should return the $12 billion surplus to struggling taxpayers so they can actually own their home once once for all.
 If you agree, would you forward this email to a conservative friend to ask them to vote for Carrie Isaac, and chip in $25 today to help me share my property tax plan with more voters?
 Early voting is just over a month away, so acting now is critical to ensure our community is represented by a true conservative.
+Carrie Isaac January 12, 2022 Facebook 0 Twitter 0 Likes Previous No more mandates!
+Carrie Isaac January 14, 2022 Next It's time for real property tax reform Carrie Isaac December 9, 2021 Political ad paid for by Carrie Isaac for Texas.
+13501 Ranch Road 12, #103, Wimberley, TX 78676

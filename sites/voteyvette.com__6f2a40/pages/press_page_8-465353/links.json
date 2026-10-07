@@ -1,35 +1,246 @@
 [
-"http://twitter.com/voteyvette",
-"http://veracitymedia.com/",
-"https://facebook.com/voteyvette",
-"https://instagram.com/voteyvette",
-"https://secure.actblue.com/donate/ydc_donatepage",
-"https://voteyvette.com/",
-"https://voteyvette.com/about-yvette",
-"https://voteyvette.com/community-resources",
-"https://voteyvette.com/endorsements",
-"https://voteyvette.com/get-involved",
-"https://voteyvette.com/issues",
-"https://voteyvette.com/press",
-"https://voteyvette.com/press/around-brooklyn-brooklynites-raise-cash-for-dog-injured-in-crash",
-"https://voteyvette.com/press/clarke-addresses-african-american-role-in-crown-heights-anti-semitic-attacks",
-"https://voteyvette.com/press/clarke-outraged-over-public-charge-rule-decision",
-"https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions-2",
-"https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident",
-"https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident-2",
-"https://voteyvette.com/press/house-members-press-isps-on-covid-19-readiness",
-"https://voteyvette.com/press/key-members-of-congress-sign-letter-committing-to-support-art-and-entertainment-workers",
-"https://voteyvette.com/press/new-york-congress-members-promote-federal-grants-to-combat-anti-semitic-crimes",
-"https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension",
-"https://voteyvette.com/press/page/1",
-"https://voteyvette.com/press/page/10",
-"https://voteyvette.com/press/page/2",
-"https://voteyvette.com/press/page/3",
-"https://voteyvette.com/press/page/5",
-"https://voteyvette.com/press/page/6",
-"https://voteyvette.com/press/page/7",
-"https://voteyvette.com/press/page/9",
-"https://voteyvette.com/press/read-more-here",
-"https://voteyvette.com/press/the-urban-assembly-and-congresswomen-bonnie-watson-coleman-and-yvette-d-clarke-host-inaugural-international-sel-day-briefing",
-"https://voteyvette.com/yvettes-wins"
+{
+"text": "1",
+"href": "https://voteyvette.com/press/page/1/"
+},
+{
+"text": "10",
+"href": "https://voteyvette.com/press/page/10/"
+},
+{
+"text": "2",
+"href": "https://voteyvette.com/press/page/2/"
+},
+{
+"text": "3",
+"href": "https://voteyvette.com/press/page/3/"
+},
+{
+"text": "5",
+"href": "https://voteyvette.com/press/page/5/"
+},
+{
+"text": "6",
+"href": "https://voteyvette.com/press/page/6/"
+},
+{
+"text": "7",
+"href": "https://voteyvette.com/press/page/7/"
+},
+{
+"text": "9",
+"href": "https://voteyvette.com/press/page/9/"
+},
+{
+"text": "About Yvette",
+"href": "https://voteyvette.com/about-yvette/"
+},
+{
+"text": "Around Brooklyn: Brooklynites raise cash for dog injured in crash",
+"href": "https://voteyvette.com/press/around-brooklyn-brooklynites-raise-cash-for-dog-injured-in-crash/"
+},
+{
+"text": "Clarke Addresses African-American Role In Crown Heights Anti-Semitic Attacks",
+"href": "https://voteyvette.com/press/clarke-addresses-african-american-role-in-crown-heights-anti-semitic-attacks/"
+},
+{
+"text": "Clarke leads NY Delegation letter to Census Bureau",
+"href": "https://voteyvette.com/press/read-more-here/"
+},
+{
+"text": "Clarke outraged over public charge rule decision",
+"href": "https://voteyvette.com/press/clarke-outraged-over-public-charge-rule-decision/"
+},
+{
+"text": "Clarke: Practice coronavirus recommended precautions",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions-2/"
+},
+{
+"text": "Community Resources",
+"href": "https://voteyvette.com/community-resources/"
+},
+{
+"text": "Coronavirus Is Making It Even Harder For The Census To Count Every U.S. Resident",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident-2/"
+},
+{
+"text": "Coronavirus Is Making It Even Harder For The Census To Count Every U.S. Resident",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/ydc_donatepage"
+},
+{
+"text": "Endorsements",
+"href": "https://voteyvette.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://voteyvette.com/get-involved/"
+},
+{
+"text": "House Members Press ISPs on COVID-19 Readiness",
+"href": "https://voteyvette.com/press/house-members-press-isps-on-covid-19-readiness/"
+},
+{
+"text": "Issues",
+"href": "https://voteyvette.com/issues/"
+},
+{
+"text": "Key Members of Congress Sign Letter Committing to Support Art and Entertainment Workers",
+"href": "https://voteyvette.com/press/key-members-of-congress-sign-letter-committing-to-support-art-and-entertainment-workers/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/around-brooklyn-brooklynites-raise-cash-for-dog-injured-in-crash/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-addresses-african-american-role-in-crown-heights-anti-semitic-attacks/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-outraged-over-public-charge-rule-decision/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident-2/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/house-members-press-isps-on-covid-19-readiness/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/key-members-of-congress-sign-letter-committing-to-support-art-and-entertainment-workers/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/new-york-congress-members-promote-federal-grants-to-combat-anti-semitic-crimes/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/read-more-here/"
+},
+{
+"text": "LEARN MORE",
+"href": "https://voteyvette.com/press/the-urban-assembly-and-congresswomen-bonnie-watson-coleman-and-yvette-d-clarke-host-inaugural-international-sel-day-briefing/"
+},
+{
+"text": "NY delegation calls for federal tax deadline extension",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension/"
+},
+{
+"text": "New York Congress members promote federal grants to combat anti-Semitic crimes",
+"href": "https://voteyvette.com/press/new-york-congress-members-promote-federal-grants-to-combat-anti-semitic-crimes/"
+},
+{
+"text": "Press",
+"href": "https://voteyvette.com/press/"
+},
+{
+"text": "The Urban Assembly and Congresswomen Bonnie Watson Coleman and Yvette D. Clarke Host Inaugural International SEL Day Briefing",
+"href": "https://voteyvette.com/press/the-urban-assembly-and-congresswomen-bonnie-watson-coleman-and-yvette-d-clarke-host-inaugural-international-sel-day-briefing/"
+},
+{
+"text": "Veracity Media",
+"href": "http://veracitymedia.com"
+},
+{
+"text": "Yvette’s Wins",
+"href": "https://voteyvette.com/yvettes-wins/"
+},
+{
+"text": "[image: Clarke for Congress]",
+"href": "https://voteyvette.com"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/around-brooklyn-brooklynites-raise-cash-for-dog-injured-in-crash/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-addresses-african-american-role-in-crown-heights-anti-semitic-attacks/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-outraged-over-public-charge-rule-decision/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/clarke-practice-coronavirus-recommended-precautions-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident-2/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/coronavirus-is-making-it-even-harder-for-the-census-to-count-every-u-s-resident/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/house-members-press-isps-on-covid-19-readiness/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/key-members-of-congress-sign-letter-committing-to-support-art-and-entertainment-workers/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/new-york-congress-members-promote-federal-grants-to-combat-anti-semitic-crimes/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/ny-delegation-calls-for-federal-tax-deadline-extension/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/read-more-here/"
+},
+{
+"text": "[image: Image]",
+"href": "https://voteyvette.com/press/the-urban-assembly-and-congresswomen-bonnie-watson-coleman-and-yvette-d-clarke-host-inaugural-international-sel-day-briefing/"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/voteyvette"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/voteyvette"
+},
+{
+"text": "info@voteyvette.com",
+"href": "mailto:info@voteyvette.com"
+},
+{
+"text": "press@voteyvette.com",
+"href": "mailto:press@voteyvette.com"
+},
+{
+"text": "←",
+"href": "https://voteyvette.com/press/page/7/"
+},
+{
+"text": "→",
+"href": "https://voteyvette.com/press/page/9/"
+}
 ]

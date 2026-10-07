@@ -1,13 +1,50 @@
 [
-"http://buckforhouse.bsky.social/",
-"https://buckforhouse.com/",
-"https://buckforhouse.com/about",
-"https://buckforhouse.com/cart",
-"https://buckforhouse.com/endorsements",
-"https://buckforhouse.com/issues",
-"https://docs.google.com/forms/u/2/d/e/1FAIpQLSdhZah2uHhoZ0JK3QrgEn3ODqQ1cjII8NiPIflCMIPdIJ8nDQ/viewform",
-"https://facebook.com/buckforhouse",
-"https://instagram.com/buckforhouse",
-"https://mobilize.us/shelleybuckforhouse",
-"https://secure.actblue.com/donate/shelleybuck"
+{
+"text": "0",
+"href": "https://www.buckforhouse.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.buckforhouse.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/shelleybuck"
+},
+{
+"text": "Endorsements",
+"href": "https://www.buckforhouse.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.buckforhouse.com/issues"
+},
+{
+"text": "Learn about the issues Shelley cares about →",
+"href": "https://www.buckforhouse.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/u/2/d/e/1FAIpQLSdhZah2uHhoZ0JK3QrgEn3ODqQ1cjII8NiPIflCMIPdIJ8nDQ/viewform"
+},
+{
+"text": "Volunteer for Shelley →",
+"href": "https://www.mobilize.us/shelleybuckforhouse/"
+},
+{
+"text": "[image: Shelley Buck for House]",
+"href": "https://www.buckforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "http://buckforhouse.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/buckforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/buckforhouse"
+}
 ]

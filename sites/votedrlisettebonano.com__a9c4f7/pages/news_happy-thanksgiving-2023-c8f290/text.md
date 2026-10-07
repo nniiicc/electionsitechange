@@ -1,4 +1,5 @@
-Happy Thanksgiving!
+Vote LT COL Lisette Bonano: Mother, Soldier, Leader!
+Home News & Updates Calendar Endorsements Volunteer Contact Voting Info Donate Back to News & Updates HAPPY THANKSGIVING 2023 11/23/23 • Announcements Happy Thanksgiving!
 The first Thanksgiving was held by the Pilgrims of Plymouth Colony in present-day Massachusetts.
 In search of religious freedom, the Pilgrims had left their home in England for the New World.
 After enduring a difficult first year, they held a feast to thank God for His provisions and blessings.
@@ -24,4 +25,13 @@ Happy Thanksgiving!
 May you see God’s grace and beauty all around you as you count your many blessings.
 Let us join hands with our friends, families, and neighbors to help the less fortunate - not just for this holiday season, but always.
 God loves us all, and He calls on us all to love each other.
-"Give thanks to the Lord, for He is good; His love endures forever." 1 Chronicles 16:34
+"Give thanks to the Lord, for He is good; His love endures forever." 1 Chronicles 16:34 Search News Search Categories Announcements (7) Election Information (2) General (2) In The News (1) News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 View All News Donate Volunteer Contact Follow the Campaign News & Updates What are the Benefits of Government Neutrality in Public Life?
+07/25/26 What are the Benefits of Border Security?
+Protect Communities & More 07/25/26 ENDORSEMENT: MAURA CRUZ LANZ 06/11/24 Upcoming Events General Election 11/03/2026 On November 3, 2026, vote for LTC Lisette Bonano for Florida State House District 67 Election Day # Days # Hours # Minutes # Seconds Thank you for your support!
+Support the Campaign Privacy Terms Paid for by LTC LISETTE BONANO, Republican for Florida State House District 67 10006 Cross Creek Blvd.
+P.O.
+Box #217 Tampa, FL 33647.
+All rights reserved.
+Campaign Websites by Online Candidate × Support the Campaign Donate

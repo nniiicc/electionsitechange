@@ -1,6 +1,30 @@
 [
-"https://votesahara.com/",
-"https://votesahara.com/about",
-"https://votesahara.com/contact",
-"https://votesahara.com/issues"
+{
+"text": "About Sahara",
+"href": "https://www.votesahara.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.votesahara.com/contact/"
+},
+{
+"text": "Contact@VoteSahara.com",
+"href": "mailto:Contact@VoteSahara.com"
+},
+{
+"text": "Home",
+"href": "https://www.votesahara.com/"
+},
+{
+"text": "Info@VoteSahara.com",
+"href": "mailto:verona@voteverona.com"
+},
+{
+"text": "Issues",
+"href": "https://www.votesahara.com/issues/"
+},
+{
+"text": "[image: Vote Sahara]",
+"href": "https://www.votesahara.com/"
+}
 ]

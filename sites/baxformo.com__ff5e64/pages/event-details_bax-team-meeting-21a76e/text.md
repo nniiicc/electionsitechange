@@ -1,8 +1,3 @@
-top of page
-Bax Team Meeting
-Tue, Jun 09
-|https://meet.google.com/msy-mfgi-tdr
-Join Team Bax as we come together to plan, organize, and build momentum for the campaign.
+top of page LOGO GET INVOLVED DONATE Bax Team Meeting Tue, Jun 09 | https://meet.google.com/msy-mfgi-tdr Join Team Bax as we come together to plan, organize, and build momentum for the campaign.
 Whether you're a longtime volunteer or just getting involved, we'd love to have you at the table as we work to bring new leadership to District 61.
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Jun 09, 2026, 6:30 PM – 7:30 PM https://meet.google.com/msy-mfgi-tdr Share this event HOME ABOUT INSTAGRAM FACEBOOK ACCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS Paid for by Citizens for Bax; Treasurer, Rob Overly © # by Sapphire Strategies HOME ABOUT Log In CAMPAIGN NAME EXPERIENCED RESULTS DRIVEN LEADERSHIP 2035 bottom of page

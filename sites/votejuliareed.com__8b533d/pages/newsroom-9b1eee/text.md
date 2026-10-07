@@ -1,40 +1,42 @@
-Read how Julia and other legislators are expressing their concerns about the City of Seattle’s comprehensive plan, and calling for a bolder vision on housing
-From Julia: Seattle City Council should support mayor’s maritime and manufacturing proposal
-Queen Anne & Magnolia News: District 36 legislators cap busy week with town hall
-Queen Anne & Magnolia News: Washington's 2024 Legislative session in full swing
-Washington State’s 36th Legislative District has three elected champions in Olympia for the 2024 legislative session: Senator Noel Frame, Representative Liz Berry, and Representative Julia Reed.
+Home 2026 Endorsements Meet Julia About Julia Legislative Priorities Policy Priorities Endorse Julia 2024 Join our Team Newsroom Privacy Policy Donate Home 2026 Endorsements Meet Julia About Julia Legislative Priorities Policy Priorities Endorse Julia 2024 Join our Team Newsroom Privacy Policy Donate March 19, 2024 Julia Reed From Julia: Seattle City Council should support ...
+Read Julia’s op-ed advocating for protecting our critical maritime industrial lands April 28, 2022 Julia Reed Catch Julia on the "Hacks and Wonks" Podcast On this midweek show, Crystal chats with Julia Reed about her campaign for State Representative in the 36th Legislative District - why she decided to run, how the last legislative session went and her thoughts on addressing issues such as housing affordability and zoning, homelessness, public safety, drug decriminalization, climate change, and COVID response and recovery.
+As always, a full text transcript of the show is available below and at officialhacksandwonks.com .
+Find the host, Crystal, on Twitter at @finchfrii and find Julia at @juliagrantreed .
+March 4, 2022 Julia Reed Publicola: Green Agenda Propels E-Bike Riding ...
+Earlier this year, after Seattle state Sen.
+Reuven Carlyle (D-36) announced he wouldn’t seek re-election to his northwest Seattle seat and Rep.
+Noel Frame (D-36) announced she’d run for the promotion, the musical chairs led first-time candidate Julia Reed, the chair of the 36th District Executive Board, to throw her bike helmet in the ring.
+February 25, 2022 Julia Reed Black History Month and Me: Sharing my family's ...
+February is Black History month, a time to remember the Black artists, inventors, entrepreneurs, political figures, and activists who have shaped American history.
+But for Black people like me, it’s also a time to reflect on the stories of our own families, to acknowledge and honor their striving to create lives of dignity, purpose, safety, and joy.
+Before Black history month wraps up, I wanted to share a little bit of my own story with you.
+February 17, 2022 Julia Reed Julia Reed Announces Early Endorsements of ...
+In the first two weeks of her campaign for the 36th LD House seat, Democrat Julia Reed announces the support of key endorsers at every level of government including County Councilmember Girmay Zahilay, Port Commissioner Ryan Calkins, and Seattle Councilmember Dan Strauss, Colleen Echohawk, and Rep.
+Jamila Taylor.
+Reed, a workforce policy expert and advocate for youth and racial justice, is running for the open 36th LD State House seat.
+Julia Reed March 19, 2024 The Urbanist: Housing Leaders Call Out Seattle’s Bare Minimum Growth Proposal Julia Reed March 19, 2024 Read how Julia and other legislators are expressing their concerns about the City of Seattle’s comprehensive plan, and calling for a bolder vision on housing Source: https://www.theurbanist.org/2024/03/07/housing-leaders-call-out-seattles-bare-minimum-growth-proposal/ Julia Reed March 19, 2024 From Julia: Seattle City Council should support mayor’s maritime and manufacturing proposal Julia Reed March 19, 2024 Read Julia’s op-ed advocating for protecting our critical maritime industrial lands Source: https://www.seattletimes.com/opinion/seattle-city-council-should-support-mayors-maritime-and-manufacturing-proposal/ Julia Reed March 19, 2024 Queen Anne & Magnolia News: District 36 legislators cap busy week with town hall Julia Reed March 19, 2024 Source: https://queenannenews.com/news/2023/jan/18/district-36-legislators-cap-busy-week-with-town-hall/ Julia Reed March 19, 2024 Queen Anne & Magnolia News: Washington's 2024 Legislative session in full swing Julia Reed March 19, 2024 Washington State’s 36th Legislative District has three elected champions in Olympia for the 2024 legislative session: Senator Noel Frame, Representative Liz Berry, and Representative Julia Reed.
 While working on issues for the state and local communities, they also try to remain accessible and accountable to the public.
 On Saturday, the trio hosted a combined Town Hall Event at the Nordic Museum in Ballard.
 Members of the community came out to hear from the legislators and were given an opportunity to ask questions.
 Even though this year’s session is a short one, all three have been busy in Olympia advancing the priorities of our district.
-The Urbanist: What’s in the Transit-Oriented Development Bill the WA House Just Passed
-The Urbanist: State Legislators Push for ‘Year of Housing 2.0’
-Seattle Times: Once curbed in Seattle, tiny apartments poised for big boost from Legislature
-Seattle TImes: Pass tower crane safety bill to prevent another needless tragedy
-Seattle TImes: License Music Therapy Practitioners in WA
-Catch Julia on the "Hacks and Wonks" Podcast
-On this midweek show, Crystal chats with Julia Reed about her campaign for State Representative in the 36th Legislative District - why she decided to run, how the last legislative session went and her thoughts on addressing issues such as housing affordability and zoning, homelessness, public safety, drug decriminalization, climate change, and COVID response and recovery.
-As always, a full text transcript of the show is available below and at officialhacksandwonks.com.
-Find the host, Crystal, on Twitter at @finchfrii and find Julia at @juliagrantreed.
-Julia on Kiro News Radio's Seattle's Morning News with Dave Ross and Colleen O'Brien
-Sharing my Irish-American Seattle story
-Publicola: Green Agenda Propels E-Bike Riding Candidate
-Earlier this year, after Seattle state Sen.
+Source: https://queenannenews.com/news/2024/jan/26/washingtons-2024-legislative-session-in-full-swing/ Julia Reed March 19, 2024 The Urbanist: What’s in the Transit-Oriented Development Bill the WA House Just Passed Julia Reed March 19, 2024 Learn about one of Julia’s major legislative focus areas: increasing transit-oriented development Source: https://www.theurbanist.org/2024/02/19/whats-in-the-transit-oriented-development-bill-the-wa-house-just-passed/ Julia Reed March 19, 2024 The Urbanist: State Legislators Push for ‘Year of Housing 2.0’ Julia Reed March 19, 2024 Learn about the housing advocacy work Julia undertook with her fellow legislators in the 2024 session.
+Even though not all of these bills passed, Julia is ready to keep working on these issues next year!
+Source: https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/ Julia Reed March 19, 2024 Seattle Times: Once curbed in Seattle, tiny apartments poised for big boost from Legislature Julia Reed March 19, 2024 Learn about the promise of Single Room Occupancy housing or co-living, a bill Julia strongly supported in the 2024 session Source: https://www.seattletimes.com/business/real-estate/once-curbed-in-seattle-tiny-apartments-poised-for-big-boost-from-legislature/ Julia Reed March 19, 2024 Seattle TImes: Pass tower crane safety bill to prevent another needless tragedy Julia Reed March 19, 2024 Read Andrea and Henry Wong, the parents of Sarah Pantip Wong, victim of the 2019 South Lake Union crane collapse, talk about why Julia’s 2024 tower crane safety legislation matters to them Source: https://www.seattletimes.com/opinion/pass-tower-crane-safety-bill-to-prevent-another-needless-tragedy/ Julia Reed March 19, 2024 Seattle TImes: License Music Therapy Practitioners in WA Julia Reed March 19, 2024 Read about Julia’s 2023 legislation to license music therapists Source: https://www.seattletimes.com/opinion/music-therapy-heals-license-its-practitioners-in-wa/ Tagged: legislation Julia Reed April 28, 2022 Catch Julia on the "Hacks and Wonks" Podcast Julia Reed April 28, 2022 On this midweek show, Crystal chats with Julia Reed about her campaign for State Representative in the 36th Legislative District - why she decided to run, how the last legislative session went and her thoughts on addressing issues such as housing affordability and zoning, homelessness, public safety, drug decriminalization, climate change, and COVID response and recovery.
+As always, a full text transcript of the show is available below and at officialhacksandwonks.com .
+Find the host, Crystal, on Twitter at @finchfrii and find Julia at @juliagrantreed .
+Source: https://www.officialhacksandwonks.com/listenpodcast/episode/41138b2a/julia-reed-candidate-for-36th-ld-state-representative Julia Reed March 25, 2022 Julia on Kiro News Radio's Seattle's Morning News with Dave Ross and Colleen O'Brien Julia Reed March 25, 2022 Julia Reed March 23, 2022 Sharing my Irish-American Seattle story Julia Reed March 23, 2022 Saint Patrick’s Day has always held a special meaning for my family.
+Over #ago, my family’s Seattle story began when my great-grandmother, Lizzie Marshall, immigrated to Seattle from Ireland with her mother and two sisters, arriving the day before the Great Seattle Fire in 1889.
+Tagged: Family Julia Reed March 4, 2022 Publicola: Green Agenda Propels E-Bike Riding Candidate Julia Reed March 4, 2022 Earlier this year, after Seattle state Sen.
 Reuven Carlyle (D-36) announced he wouldn’t seek re-election to his northwest Seattle seat and Rep.
 Noel Frame (D-36) announced she’d run for the promotion, the musical chairs led first-time candidate Julia Reed, the chair of the 36th District Executive Board, to throw her bike helmet in the ring.
-Black History Month and Me: Sharing my family's story
-February is Black History month, a time to remember the Black artists, inventors, entrepreneurs, political figures, and activists who have shaped American history.
+Source: https://publicola.com/2022/03/03/e-biking-green-running-for-open-36th-district-rep-seat/ Julia Reed February 25, 2022 Black History Month and Me: Sharing my family's story Julia Reed February 25, 2022 February is Black History month, a time to remember the Black artists, inventors, entrepreneurs, political figures, and activists who have shaped American history.
 But for Black people like me, it’s also a time to reflect on the stories of our own families, to acknowledge and honor their striving to create lives of dignity, purpose, safety, and joy.
 Before Black history month wraps up, I wanted to share a little bit of my own story with you.
-Julia Reed Announces Early Endorsements of Zahilay, Calkins, Strauss and Many More
-In the first two weeks of her campaign for the 36th LD House seat, Democrat Julia Reed announces the support of key endorsers at every level of government including County Councilmember Girmay Zahilay, Port Commissioner Ryan Calkins, and Seattle Councilmember Dan Strauss, Colleen Echohawk, and Rep.
+Tagged: About Julia , Family Julia Reed February 17, 2022 Julia Reed Announces Early Endorsements of Zahilay, Calkins, Strauss and Many More Julia Reed February 17, 2022 In the first two weeks of her campaign for the 36th LD House seat, Democrat Julia Reed announces the support of key endorsers at every level of government including County Councilmember Girmay Zahilay, Port Commissioner Ryan Calkins, and Seattle Councilmember Dan Strauss, Colleen Echohawk, and Rep.
 Jamila Taylor.
 Reed, a workforce policy expert and advocate for youth and racial justice, is running for the open 36th LD State House seat.
-Crosscut: Seattle's 2022 election season is already heating up
-By: Melissa Santos
-With Frame running for the Senate, her seat in the state House will open up — and it’s sure to attract some attention….Reed, a Democrat, announced her candidacy for Frame's seat on Feb. 1.
-Previously, Reed worked as a senior policy adviser to former Seattle Mayor Jenny Durkan and as the City of Seattle's regional affairs director
-Seattle Medium features Julia Reed campaign for House of Rep 36th LD
-Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives
-SEATTLE– Julia Reed, a workforce policy expert and advocate for youth and racial justice, has announced that she will seek the open House of Representatives seat in Legislative District 36, representing parts of downtown and NW Seattle.
+Tagged: Press Release , Endorsement Julia Reed February 13, 2022 Crosscut: Seattle's 2022 election season is already heating up Julia Reed February 13, 2022 By: Melissa Santos With Frame running for the Senate, her seat in the state House will open up — and it’s sure to attract some attention….Reed, a Democrat, announced her candidacy for Frame's seat on Feb.
+1.
+Previously, Reed worked as a senior policy adviser to former Seattle Mayor Jenny Durkan and as the City of Seattle's regional affairs director Source: https://crosscut.com/politics/2022/01/seattles-2022-election-season-already-heating Tagged: Media Julia Reed February 1, 2022 Seattle Medium features Julia Reed campaign for House of Rep 36th LD Julia Reed February 1, 2022 Source: https://seattlemedium.com/democrat-julia-reed-to-run-for-open-36th-district-house-seat/ Tagged: Media Julia Reed February 1, 2022 Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives Julia Reed February 1, 2022 SEATTLE– Julia Reed, a workforce policy expert and advocate for youth and racial justice, has announced that she will seek the open House of Representatives seat in Legislative District 36, representing parts of downtown and NW Seattle.
 The incumbent, Noel Frame, has indicated she will run for State Senate.
+Tagged: Press Release Back to Top New Page Paid for by Friends of Julia Reed (D) | 401 2nd Ave S Ste 303 Seattle, WA 98104

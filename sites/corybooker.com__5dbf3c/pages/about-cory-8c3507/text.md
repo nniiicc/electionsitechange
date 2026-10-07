@@ -1,4 +1,4 @@
-The importance of community was impressed on Cory early in life.
+Mobile Menu Overlay Home About Cory Shop Donate Facebook Link Twitter Link Instagram Link YouTube Link Flickr Link An arrow pointing to the right Home About Cory Shop Donate Mobile Menu About Cory Follow Cory Facebook Link Twitter Link Instagram Link YouTube Link Flickr Link The importance of community was impressed on Cory early in life.
 When Cory’s parents decided to move into a neighborhood with great public schools, no one would sell them a home because of the color of their skin.
 A group of volunteer lawyers, who had witnessed acts of violence against peaceful voting rights activists on Bloody Sunday, were inspired to help Black families at home in New Jersey and stepped in to advocate for Cory’s family in their journey to homeownership.
 Cory attended Stanford University on a football scholarship and helped fellow students by working as a peer crisis counselor.
@@ -24,3 +24,9 @@ Cory’s landmark Environmental Justice Act strengthens legal protections agains
 As a tenant lawyer, city councilman, mayor, and now U.S. senator, Cory has spent his life bringing people together to take on the problems we face.
 And what he’s learned is that the support of a loving community can overcome even the most insurmountable challenges.
 His vision for our country is one in which we are measured by our ability to love and to come together to create a more fair and just nation for every New Jerseyan.
+Share this page on Facebook Share this page on Twitter A Tireless fighter for New Jersey Cory is fighting for justice and opportunity for all Americans.
+That’s why we don't accept a dime from federal lobbyists, corporate PACs, or fossil fuel and pharma execs.
+This movement to create a more just, loving nation is powered by grassroots supporters like you.
+Chip in now: Click an amount to start your donation.
+If you’ve saved your information with ActBlue Express, your donation will go through immediately. $5 $10 $20.20 $100 $500 or chip in another amount Home About Cory Shop Facebook Link Twitter Link Instagram Link YouTube Link Flickr Link Privacy Policy Accessibility © #–# Cory Booker for Senate 8 Lombardy St Box 346 Newark, NJ 07102 Contributions or gifts to Cory Booker for Senate are not tax deductible.
+Paid for by Cory Booker for Senate Donate

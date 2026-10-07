@@ -1,5 +1,4 @@
-Why I'm running
-I am running for Congress because I believe in government by the people, for the people.
+Skip to content Christina Bohannan 2026 Meet Christina Priorities News Volunteer Media Kit Donate Why I'm running I am running for Congress because I believe in government by the people, for the people.
 I believe in fighting for our Constitutional freedoms.
 And I believe that people who work hard should get a fair shot – not only to get by, but to get ahead.
 But right now, our political system is broken, and Iowans are paying the price.
@@ -14,8 +13,7 @@ In 2024, thousands of Iowans who voted for President Trump also voted for me.
 Iowans of all parties trust me because of our shared love of country, our mutual disillusionment with the political establishment, and our common belief that good government is about ensuring freedom and opportunity for all, not just the privileged few.
 Because they are tired of the extreme political partisanship that has divided families and communities, and they know that I will be an independent voice for Iowa.
 It is my fervent hope that, when I am in Congress, I can bring people together to make life better for Iowans.
-About me
-Growing up, my family was not at all political.
+About me Growing up, my family was not at all political.
 Around the dinner table, we talked about work to be done and bills to be paid, not about what some politician said on TV.
 I never heard the words “Republican” or “Democrat.” Most of my family didn’t vote.
 But there came a time when I realized that politics mattered to working families like mine.
@@ -36,9 +34,13 @@ Thanks to public schools and dedicated teachers, I got a good education and beca
 I worked my way through high school and college by waiting tables, picking fruit, cleaning homes, and taking just about every job you can imagine.
 I got a degree in Environmental Engineering and worked as an engineer specializing in improving water quality.
 Then I went to law school, where I graduated first in my class.
+Twenty-six years ago, I was given the life-changing opportunity to teach at the University of Iowa College of Law, where I have been ever since.
+It has been the honor of a lifetime to teach Iowa’s sons and daughters about business innovation and economic growth, and about democracy and the rule of law.
+And it has been a joy to have a family and raise my daughter in a place like Iowa, where family and community are deeply-held values.
 I want all Iowans to have the opportunity to get ahead.
 That’s why, in 2020, I took on the political establishment and defeated a 20-year incumbent of my own party to serve in the Iowa House of Representatives.
 There, I fought for our public schools, our farmers and small businesses, clean air and water, and our rights and liberties.
 I stood up to both parties – and worked with both parties – to get things done for hardworking Iowans.
 Now, I am running to do the same in Congress.
-I am running to put Iowa first.
+I am running to put Iowa first .
+Meet Christina Priorities News Volunteer Media Kit Donate Instagram Twitter Facebook Paid for by Christina Bohannan For Congress PO Box 722, Iowa City 52244 Privacy Policy Terms of Service Chip in Today!> Help fund Christina’s campaign to bring Iowa values back to Congress > $5 $25 $100 Other X

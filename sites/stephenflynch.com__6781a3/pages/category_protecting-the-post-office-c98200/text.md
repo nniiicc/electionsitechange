@@ -1,21 +1,22 @@
-by Jay Cincotti | May 14, 2026 | 8th Congressional District, Essential Infrastructure, News & Updates, Protecting the Post Office
-Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that’s now receiving...
-by Sam Dallaire | May 13, 2021 | Jobs & Economic Opportunity, News & Updates, Protecting the Post Office
-Washington, D.C. — This week, U.S.
+Meet Stephen Our Priorities News & Updates Join the Team Donate Select Page ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order by Jay Cincotti | May 14, 2026 | 8th Congressional District , Essential Infrastructure , News & Updates , Protecting the Post Office Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that’s now receiving...
+Reps.
+Lynch, Maloney and Lawrence Introduce Postal Service Improvement Act by Sam Dallaire | May 13, 2021 | Jobs & Economic Opportunity , News & Updates , Protecting the Post Office Washington, D.C. — This week, U.S.
 Representative Stephen F.
 Lynch, Chairman of the Subcommittee on National Security, along with U.S.
 Representative Carolyn B.
 Maloney, Chairwoman of the Committee on Oversight and Reform, and Committee Member U.S.
 Representative...
-by Sam Dallaire | Aug 24, 2020 | 8th Congressional District, COVID-19, Jobs & Economic Opportunity, News & Updates, Protecting the Post Office, Supporting Our Seniors
-Representative Stephen F.
+Stephen Lynch gets into contentious exchange with USPS head DeJoy: ‘What the heck are you doing?’ by Sam Dallaire | Aug 24, 2020 | 8th Congressional District , COVID-19 , Jobs & Economic Opportunity , News & Updates , Protecting the Post Office , Supporting Our Seniors Representative Stephen F.
 Lynch, a longtime South Boston Democrat, got into a contentious back-and-forth with Postmaster General Louis DeJoy on Monday during a hearing on operational changes that have led to mail delays across the country.
 Lynch grilled DeJoy on the...
-by Sam Dallaire | Aug 24, 2020 | 8th Congressional District, COVID-19, Jobs & Economic Opportunity, News & Updates, Protecting the Post Office, Supporting Our Seniors
-“I’m tempted to ask, after 240 years of patriotic service of delivering the mail, how can one person screw this up in just a few weeks?” Boston.Com August 24, 2020 By Christopher Gavin Congressman Stephen Lynch pressed Postmaster...
-by Sam Dallaire | Aug 24, 2020 | 8th Congressional District, COVID-19, Jobs & Economic Opportunity, News & Updates, Protecting the Post Office, Supporting Our Seniors
-CNN August 24, 2020 United States Postal Service Postmaster General Louis DeJoy got into a contentious exchange with Rep.
+Video: Stephen Lynch tears into Postmaster General Louis DeJoy over the recent USPS changes by Sam Dallaire | Aug 24, 2020 | 8th Congressional District , COVID-19 , Jobs & Economic Opportunity , News & Updates , Protecting the Post Office , Supporting Our Seniors “I’m tempted to ask, after 240 years of patriotic service of delivering the mail, how can one person screw this up in just a few weeks?” Boston.Com August 24, 2020 By Christopher Gavin Congressman Stephen Lynch pressed Postmaster...
+Congressman to USPS chief: What the heck are you doing? by Sam Dallaire | Aug 24, 2020 | 8th Congressional District , COVID-19 , Jobs & Economic Opportunity , News & Updates , Protecting the Post Office , Supporting Our Seniors CNN August 24, 2020 United States Postal Service Postmaster General Louis DeJoy got into a contentious exchange with Rep.
 Stephen Lynch (D-MA) over the removal of mail sorting machines.
 Click here to watch video.
-by Sam Dallaire | Aug 18, 2020 | 8th Congressional District, COVID-19, Jobs & Economic Opportunity, News & Updates, Protecting the Post Office, Supporting Our Seniors
-Sorting machines have been removed from Boston’s South Station facility Boston Herald August 18, 2020 By RICK SOBEY BOSTON, MA. – AUGUST 18 Congressman Stephen Lynch speaks at a press conference in support of the United States Postal Service and its employees...
+Massachusetts officials rally to reverse U.S.
+Postal Service changes ahead of mail-in voting: ‘This is a direct attack’ by Sam Dallaire | Aug 18, 2020 | 8th Congressional District , COVID-19 , Jobs & Economic Opportunity , News & Updates , Protecting the Post Office , Supporting Our Seniors Sorting machines have been removed from Boston’s South Station facility Boston Herald August 18, 2020 By RICK SOBEY BOSTON, MA. – AUGUST 18 Congressman Stephen Lynch speaks at a press conference in support of the United States Postal Service and its employees... « Older Entries Search for: Recent Posts Rep.
+Lynch Concerns: Medicaid Cuts, Strain On Hospitals ‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order Congressman Lynch questions U.S. gains in Iran conflict ICE at the World Cup?
+Massachusetts congressman seeks advice from Minnesota Gov.
+Walz Legislators Advocate for State Takeover of Norwood Hospital and Potential Reopening as a Not-For-Profit Hospital Recent Comments Archives June 2026 May 2026 April 2026 March 2026 February 2026 December 2025 October 2025 September 2025 June 2025 May 2025 February 2025 August 2024 May 2024 February 2024 January 2024 December 2023 November 2023 September 2023 March 2023 August 2022 July 2022 June 2022 May 2022 April 2022 March 2022 February 2022 January 2022 December 2021 November 2021 October 2021 September 2021 August 2021 June 2021 May 2021 April 2021 March 2021 February 2021 January 2021 December 2020 November 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 April 2020 March 2020 February 2020 January 2020 December 2019 October 2019 September 2019 August 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 September 2018 April 2018 Categories 8th Congressional District Advancing Equality Affordable Healthcare Combatting Addiction Common Sense Gun Laws COVID-19 Essential Infrastructure Financial Security Investing in Education Jobs & Economic Opportunity National Security News & Updates Protecting Our Environment Protecting the Post Office Supporting Our Seniors Uncategorized Veterans Meta Log in Entries feed Comments feed WordPress.org Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow

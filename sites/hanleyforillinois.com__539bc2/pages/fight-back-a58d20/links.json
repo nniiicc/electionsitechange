@@ -1,13 +1,82 @@
 [
-"http://elections.il.gov/",
-"https://designedtorun.com/",
-"https://hanleyforillinois.com/",
-"https://hanleyforillinois.com/endorsements",
-"https://hanleyforillinois.com/issues",
-"https://hanleyforillinois.com/meet-patrick",
-"https://instagram.com/patrickrocquehanley",
-"https://mobilize.us/hanleyforillinois",
-"https://secure.actblue.com/donate/hanleyforillinois",
-"https://tiktok.com/@patrickrocquehanley",
-"https://youtube.com/@HanleyforIllinois"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "$36",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "$9",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Chip in today",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Donate!",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "Endorsements!",
+"href": "https://www.hanleyforillinois.com/endorsements"
+},
+{
+"text": "Join the team",
+"href": "https://mobilize.us/hanleyforillinois"
+},
+{
+"text": "Learn more",
+"href": "https://www.hanleyforillinois.com/issues"
+},
+{
+"text": "Meet Patrick",
+"href": "https://www.hanleyforillinois.com/meet-patrick"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/hanleyforillinois"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "See All Endorsements",
+"href": "https://www.hanleyforillinois.com/endorsements"
+},
+{
+"text": "[image: Patrick Hanley - building the next generation of Democratic leadership]",
+"href": "https://www.hanleyforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@patrickrocquehanley"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HanleyforIllinois"
+},
+{
+"text": "www.elections.il.gov",
+"href": "http://www.elections.il.gov"
+}
 ]

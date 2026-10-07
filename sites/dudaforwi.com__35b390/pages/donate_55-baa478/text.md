@@ -1,3 +1,3 @@
-Five multiples of 11 for Senate District 11.
+$55 for SD-11 Five multiples of 11 for Senate District 11.
 Secure donation via ActBlue, amount already selected.
-Tap the button to continue to the secure ActBlue donation page, with $55 already selected.
+Give $55 via ActBlue Tap the button to continue to the secure ActBlue donation page, with $# already selected.

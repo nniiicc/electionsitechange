@@ -1,7 +1,11 @@
 {
  "description": "Duran for Minnesota State Representative District 2A",
  "final_url": "https://duranforhouse.com/candidate-search",
+ "fingerprint": "b73953c9d6f9b007a4b1c1c93bb2a2782f026951",
+ "format": 3,
  "paid_for_by": "Paid for by Duran for House P",
  "title": "Candidate Search",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024"
+ ]
 }

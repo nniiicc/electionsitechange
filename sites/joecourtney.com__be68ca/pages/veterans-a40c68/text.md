@@ -1,8 +1,7 @@
-Our region is proud to be the home of more veterans than any other in Connecticut.
+Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact VETERANS Keeping The Promise to our Veterans Our region is proud to be the home of more veterans than any other in Connecticut.
 Joe has fought tirelessly to ensure that all those who have worn our nation’s uniform have the support, care, benefits, and recognition they deserve.
 From the day-to-day work of helping veterans cut through the red tape that too often gets in the way of their earned benefits to working with Republicans and Democrats to pass new legislation to fulfill our promise to our veterans, Joe has always stood by eastern Connecticut’s veterans.
-Learn more about Joe’s work:
-Made a long-sought plan to expand veterans clinics a reality.
+Learn more about Joe’s work: Made a long-sought plan to expand veterans clinics a reality.
 After hearing from veterans across the region about difficulty getting care and support from the small New London veterans clinic, Joe pushed VA officials to find a bigger and more suitable space.
 As a result, a new site was secured and every step of the way, Joe was there working with the VA and contractors to keep the project moving.
 Today, the new clinic has nearly tripled in size with new services and facilities to meet the needs of eastern Connecticut’s veterans.
@@ -23,3 +22,4 @@ Yet for too long the Coast Guard, and all those who have served in it, have been
 When Joe took office, plans for a new museum in New London were stalled and handcuffed by restrictions on federal funding that kept this project from moving forward.
 Joe made it a priority to give the Coast Guard the museum it deserved, and through his determination passed legislation to scale back that policy, unlocking critical support for exhibits and artifact preservation.
 This year alone, he secured $50 million to support these efforts.
+Courtney for Congress PO Box 1372 Vernon CT 06066 PH: (860) 885-4052 Home Meet Joe Joe’s Priorities Campaign News Donate Join Joe Contact Paid for and Authorized by Joe Courtney for Congress

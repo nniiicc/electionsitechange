@@ -1,5 +1,4 @@
-MEET CODY YORK
-The Granite State way of life runs deep through Cody’s veins.
+Skip to content Meet Cody Priorities Endorsements News Contact Newsletter GET INVOLVED DONATE MEET CODY YORK The Granite State way of life runs deep through Cody’s veins.
 The only son of a self-employed contractor and a speech pathologist, he was raised in a house built by his father and uncle on a dirt road in Canterbury.
 Growing up, he watched his parents work long hours and sometimes weekends to build a comfortable life for their family — made possible by a scrappy New Hampshire lifestyle that rewarded hard work and encouraged neighbors to support one another.
 And though Cody’s childhood certainly looked a lot like other young men in small towns, complete with the occasional backyard skeet shooting and a deep passion for music, that rugged culture is what truly shaped him into an ambitious young man who approaches every task with rigor and diligence.
@@ -17,3 +16,6 @@ As young adults leave New Hampshire amid housing struggles, longtime homeowners 
 You won’t find any national politics, grand statements, or cheap catchphrases in this campaign.
 This election is about delivering material improvements to the lives of Granite Staters, using the Legislature as a partner and resource for local governments rather than a harbinger of rules and decrees.
 Over the coming months, he hopes to earn your support in this fight to bring pure New Hampshire grit and tenacity to the State House.
+Paid for by Cody York For State Rep, Treasurer Stephen Caine PO Box 153 Canterbury, NH 03224 Facebook Instagram Donate by Mail Cody York For State Rep PO Box 153 Canterbury, NH 03224 Designed with WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

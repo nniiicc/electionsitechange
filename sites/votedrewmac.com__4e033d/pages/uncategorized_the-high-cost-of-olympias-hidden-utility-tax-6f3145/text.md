@@ -1,5 +1,4 @@
-The High Cost of Olympia’s Hidden Utility Tax
-April 24, 2026
-Washingtonians are living through a relentless affordability crisis.
+Skip to content Home About Donate Issues Endorsements Get In Touch Home About Donate Issues Endorsements Get In Touch The High Cost of Olympia’s Hidden Utility Tax April 24, 2026 Washingtonians are living through a relentless affordability crisis.
 From the grocery aisle to the gas pump, the cost of living has moved from “concerning” to “unsustainable.” Our state consistently ranks among the top three most expensive for gas, often a full dollar above the national average.
-Meanwhile, the average household income is roughly half of what is required to qualify for a median-priced home.
+Meanwhile, the average household income is roughly half of what is required to qualify for a median-priced home. < Back Paid for by Committee to Re-elect Drew MacEwen PO Box 651 UNION, WA 98592 Drew MacEwen is a former member of the United States Navy Force.
+Use of Drew MacEwen’s military rank, job titles, and photographs in uniform does not imply endorsement by the Navy or the Department of Defense. © # Committee to Re-elect Drew MacEwen | Privacy Policy

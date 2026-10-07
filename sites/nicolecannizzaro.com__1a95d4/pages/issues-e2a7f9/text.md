@@ -1,23 +1,3 @@
-top of page
-About Nicole
-Issues
-Public Safety
-Protecting Reproductive Rights
-Fighting Federal Overreach
-Protecting Consumers
-Clean Energy and Environment
-Civil and Voting Rights
-Data Centers
-Endorsements
-Volunteer
-More
-Use tab to navigate through the menu items.
-Contribute
-ISSUES
-Public Safety
-Protecting Reproductive Rights
-Taking On Big Corporations and Protecting Customers
-Fighting Federal Overreach
-Clean Energy + Environment
-Civil + Voting Rights
-bottom of page
+top of page About Nicole Issues Public Safety Protecting Reproductive Rights Fighting Federal Overreach Protecting Consumers Clean Energy and Environment Civil and Voting Rights Data Centers Endorsements Volunteer More Use tab to navigate through the menu items.
+Contribute ISSUES Public Safety Protecting Reproductive Rights Taking On Big Corporations and Protecting Customers Fighting Federal Overreach Clean Energy + Environment Civil + Voting Rights Contact Nicole Paid for and Authorized by the Committee to Elect Nicole Cannizzaro P.O.
+Box 35652, Las Vegas, NV 89133 | (702) 703 - 9188 | www.nicolecannizzaro.com bottom of page

@@ -1,7 +1,11 @@
 {
- "description": "Aviso de privacidad de votesaira.com, incluido c\u00f3mo tratamos los n\u00fameros de tel\u00e9fono m\u00f3vil recopilados a trav\u00e9s de nuestro programa de mensajes de texto.",
+ "description": "Aviso de privacidad de votesaira.com, incluido cómo tratamos los números de teléfono móvil recopilados a través de nuestro programa de mensajes de texto.",
  "final_url": "https://www.sairadraper.com/es/privacy",
- "paid_for_by": null,
- "title": "Aviso de privacidad \u2014 Saira Draper para el Distrito 44 del Senado",
- "years_mentioned": []
+ "fingerprint": "461cdef87af973962af1d0a84e222085521081f8",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Aviso de privacidad — Saira Draper para el Distrito 44 del Senado",
+ "years_mentioned": [
+  "2026"
+ ]
 }

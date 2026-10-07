@@ -1,4 +1,10 @@
 [
-"https://johngaskey.com/",
-"https://johngaskey.com/meet-john"
+{
+"text": "Get Involved",
+"href": "https://www.johngaskey.com/#join-team"
+},
+{
+"text": "Learn More About John",
+"href": "https://www.johngaskey.com/meet-john"
+}
 ]

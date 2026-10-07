@@ -1,11 +1,38 @@
 [
-"https://maxinedibertforhouse.com/",
-"https://maxinedibertforhouse.com/cart",
-"https://maxinedibertforhouse.com/donate",
-"https://maxinedibertforhouse.com/get-involved",
-"https://maxinedibertforhouse.com/issues",
-"https://maxinedibertforhouse.com/our-district",
-"https://maxinedibertforhouse.com/vote",
-"https://secure.anedot.com/maxine/donate",
-"https://termsfeed.com/privacy-policy-generator"
+{
+"text": "0",
+"href": "https://www.maxinedibertforhouse.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.maxinedibertforhouse.com/donate"
+},
+{
+"text": "Donate today",
+"href": "https://secure.anedot.com/maxine/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.maxinedibertforhouse.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.maxinedibertforhouse.com/issues"
+},
+{
+"text": "Our District",
+"href": "https://www.maxinedibertforhouse.com/our-district"
+},
+{
+"text": "Terms Feed Free Privacy Policy Generator.",
+"href": "https://www.termsfeed.com/privacy-policy-generator/"
+},
+{
+"text": "Vote",
+"href": "https://www.maxinedibertforhouse.com/vote"
+},
+{
+"text": "[image: Maxine For Alaska]",
+"href": "https://www.maxinedibertforhouse.com/"
+}
 ]

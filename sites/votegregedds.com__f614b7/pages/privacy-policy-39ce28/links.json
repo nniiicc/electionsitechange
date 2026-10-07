@@ -1,14 +1,78 @@
 [
-"http://google.com/settings/ads",
-"http://networkadvertising.org/managing/opt_out.asp",
-"https://elegantthemes.com/",
-"https://facebook.com/gregeddsrowancounty",
-"https://google.com/settings/ads/onweb",
-"https://instagram.com/gregoryedds",
-"https://support.google.com/adwordspolicy/answer/143465",
-"https://votegregedds.com/",
-"https://votegregedds.com/home-updated",
-"https://votegregedds.com/privacy-policy",
-"https://votegregedds.com/terms-conditions",
-"https://wordpress.org/"
+{
+"text": "Ads Settings",
+"href": "http://www.google.com/settings/ads"
+},
+{
+"text": "Click here to return to the home page",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "DoubleClick opt-out page",
+"href": "https://www.google.com/settings/ads/onweb#display_optout"
+},
+{
+"text": "Elegant Themes",
+"href": "https://www.elegantthemes.com"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/gregeddsrowancounty/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/gregoryedds/"
+},
+{
+"text": "Home",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "Home Updated",
+"href": "https://votegregedds.com/home-updated/"
+},
+{
+"text": "Network Advertising Initiative opt-out page",
+"href": "http://www.networkadvertising.org/managing/opt_out.asp"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegregedds.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votegregedds.com/privacy-policy/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegregedds.com/terms-conditions"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://votegregedds.com/terms-conditions/"
+},
+{
+"text": "Vote Greg Edds",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "WordPress",
+"href": "https://www.wordpress.org"
+},
+{
+"text": "[image: Greg Edds NC House - 76]",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "[image]",
+"href": "https://votegregedds.com/"
+},
+{
+"text": "greg@gregedds.com",
+"href": "mailto:greg@gregedds.com"
+},
+{
+"text": "policy requirements",
+"href": "https://support.google.com/adwordspolicy/answer/143465"
+}
 ]

@@ -1,4 +1,4 @@
-Following this evening’s State of the Union Address by President Joe Biden, Jim Marter, Congressional Candidate in Illinois 14, released the following statements.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 01 Mar Following this evening’s State of the Union Address by President Joe Biden, Jim Marter, Congressional Candidate in Illinois 14, released the following statements.
 “President Biden failed to acknowledge the real problems we’re facing in our country.
 His speech was out of touch with the results of his own failed policies.
 In Illinois, we have felt these challenges directly, at the gas pumps, in grocery stores and in our bank accounts.
@@ -10,3 +10,4 @@ I am for freedom.
 I’m stepping up to bring leadership to Congress this year.
 As Americans we all need to stand up and not only pray for our leaders, but encourage them to make the right choices when it comes to policy.
 I look forward to doing my part to restore principled American leadership for a more free and prosperous America,” said Marter.
+Share:

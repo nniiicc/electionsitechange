@@ -1,7 +1,9 @@
 {
  "description": "Andrew Pruski's campaign",
  "final_url": "https://www.andrewpruski.com/",
- "paid_for_by": null,
+ "fingerprint": "a9ad6279c54f3f9130b1b7e918ab8188f446c0ff",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Andrew Pruski",
  "years_mentioned": []
 }

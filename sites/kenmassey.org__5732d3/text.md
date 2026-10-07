@@ -1,60 +1,37 @@
-Public Safety
-A decade as a medic.
-Two decades supporting fire, police, and EMS from the council seat.
-Public safety isn't a talking point — it's Ken's life story.
-A Record of Service
-A career built on showing up.
+Skip to main content Home About Ken District 8 Endorsements Events Contact Donate Home About Ken District 8 Endorsements Events Contact Donate Service to communities Always.
+From the back of an ambulance to the mayor's office, Ken Massey has spent his career showing up — for patients, for neighbors, and for the communities of Senate District 8.
+Donate Meet Ken Public Safety Fiscal Responsibility Mental Health Advocacy Practical Leadership Economic Opportunity Service Over Politics A Record of Service A career built on showing up .
 Ken's experience reads less like a resume and more like a long stretch of stepping in where communities needed him.
-20+
-Years in Elected Office
-10
-Years as a Medic
-14+
-Years Leading Farmington SAFE
-5
-District 8 Communities Served
-Where Ken Stands
-Five priorities.
+20 + Years in Elected Office 10 Years as a Medic 14 + Years Leading Farmington SAFE 5 District 8 Communities Served Where Ken Stands Five priorities.
 One mission.
 Ken's politics are practical, not performative.
 Here's what he'll carry into Lansing — and the record behind each one.
-01
-02
-Balanced budgets.
+01 Public Safety A decade as a medic.
+Two decades supporting fire, police, and EMS from the council seat.
+Public safety isn't a talking point — it's Ken's life story.
+02 Fiscal Responsibility Balanced budgets.
 Strong bond ratings.
 Respect for every taxpayer dollar.
 Ken believes good government delivers services without wasting trust.
-03
-Ken helped found Farmington SAFE to break the stigma around depression and suicide.
+03 Mental Health Ken helped found Farmington SAFE to break the stigma around depression and suicide.
 More than a decade of "let's talk about it" — and counting.
-04
-A scientist's discipline.
+04 Practical Leadership A scientist's discipline.
 A mayor's experience.
 Ken brings facts, listens to residents, and works across the aisle to deliver results.
-05
-Decades in biotech and venture development.
+05 Economic Opportunity Decades in biotech and venture development.
 Helped attract major investment and jobs to Farmington Hills.
 Ken knows how growth actually happens.
-Senate District 8
-The district has changed.
+A Personal Mission Turning loss into a lifeline.
+After losing his stepson Graham to suicide, Ken helped start Farmington SAFE — a community task force devoted to conversation, awareness, and prevention.
+The work has continued for more than a decade.
+Learn more at FarmingtonSAFE.com → Senate District 8 The district has changed.
 Ken's service hasn't.
 The newly redrawn District 8 brings together communities Ken has served his entire career — Farmington and Farmington Hills as home base, plus Livonia, Northville, Northville Township, and most of Novi.
 The winner of the 2026 race will begin serving the new district in 2027.
-Explore District 8
-Endorsements
-Trusted by the people he's served.
+Explore District 8 Endorsements Trusted by the people he's served .
 Ken's record speaks for itself — and the people who've worked alongside him are stepping forward to say so.
-Former Deputy Fire Chief, Farmington Hills Fire Rescue
-"I'm supporting Ken Massey for the state senate because integrity still matters."
-Farmington Hills City Council
-"I've seen Ken work behind the scenes quietly in this community for many years… not to grab the limelight, but to do the right thing."
-President, Farmington Area Republicans
-"Ken Massey is absolutely the kind of leader we need in Michigan representing our area."
-From the Campaign
-Campaign Launch Highlights
-Watch Ken's full campaign launch speech, or browse photos from the night he officially announced his run for Senate District 8 — surrounded by family, friends, supporters, and public-safety leaders from across the area.
-View Full Gallery →
-We're in a race.
+Kevin Bersche Former Deputy Fire Chief, Farmington Hills Fire Rescue "I'm supporting Ken Massey for the state senate because integrity still matters." 0:47 video Jon Aldred Farmington Hills City Council "I've seen Ken work behind the scenes quietly in this community for many years… not to grab the limelight, but to do the right thing." 0:49 video Fritz Beiermeister President, Farmington Area Republicans "Ken Massey is absolutely the kind of leader we need in Michigan representing our area." 0:42 video See all endorsements From the Campaign Campaign Launch Highlights Watch the Launch Speech · 17 min Watch Ken's full campaign launch speech, or browse photos from the night he officially announced his run for Senate District 8 — surrounded by family, friends, supporters, and public-safety leaders from across the area.
+Full speech · 26 photos View Full Gallery → ▸ Read the full transcript of Ken's launch speech ~ 7 min read We're in a race.
 I want to start out by simply saying good evening, my friends, my neighbors, my fellow Michiganders.
 Thank you for being here tonight.
 Your presence sends an important and powerful message — that Michigan's future matters, and together we are ready to build something better.
@@ -78,10 +55,11 @@ And despite our state's incredible strengths, too many young people graduate and
 Honestly, we love them — but I am very tired of having to travel to the Dallas area to visit our grandkids.
 This has got to change.
 And the only way that it's going to change is to make Michigan the place to stay.
-One: economic opportunities for all.
+Three simple principles One: economic opportunities for all.
 Two: safe, healthy, and prosperous communities.
 Three: protecting individual liberties and responsible government.
-We must help working families get ahead again.
+1.
+Economic Opportunities for Everybody We must help working families get ahead again.
 Our government does not create prosperity — working people create prosperity.
 That means we have to lower the tax burden on our families and our businesses.
 We have to encourage investment and create an environment where entrepreneurs can thrive.
@@ -97,7 +75,8 @@ We can create jobs and create talent right here in Michigan if we build the skil
 Let's expand apprenticeships, technical training, and career opportunities.
 Let's make Michigan the place where young people want to build a career, buy a home, raise a family, and pursue their dreams.
 We need to expand broadband access across the state so that every student, worker, and small business has access to the digital economy.
-One of the first driving principles of any elected official is the safety, health, and welfare of the community.
+2.
+Safe, Healthy, and Prosperous Communities One of the first driving principles of any elected official is the safety, health, and welfare of the community.
 To do that, we have to strengthen our communities.
 Everyone deserves to live in a safe neighborhood, and that starts with supporting law enforcement and all of our first responders that protect us.
 Across our state, departments are struggling to recruit and retain qualified officers.
@@ -130,14 +109,15 @@ We must strengthen our families.
 That means supporting foster care.
 I would like to make adoption easier and ensure every child grows up in a safe and loving home.
 Every kid deserves a forever family.
-We have to restore trust in our government.
+3.
+Protect Our Liberty and Responsible Government We have to restore trust in our government.
 Government needs to live within its means, just like we and our families do.
 One important lesson I learned during my years on city council and as mayor is that government must limit debt, spend taxpayer dollars responsibly, and remain accountable to the people it serves.
 Every dollar from our taxpayers should be treated with respect and used wisely.
 Government also needs to ensure that we protect the rights that our Constitution provides us.
 That includes protecting the rights of workers to pursue opportunities and make a good living; defending the constitutional rights of law-abiding citizens; and ensuring public safety measures are implemented in a way that respects due process and individual freedoms.
 Liberty and responsibility are not opposing views — they are complementary, and a free society requires both.
-As I close, I want to say I have a vision for Michigan.
+A vision for Michigan As I close, I want to say I have a vision for Michigan.
 My friends, this election is not about specific political parties.
 It is about electing good candidates who have vision and the desire to usher in common-sense changes.
 I'm proud to be endorsed by the Farmington Hills Professional Firefighters, the Farmington Hills Police Officers Association, and the Farmington Area Republicans.
@@ -159,13 +139,13 @@ Together we build a Michigan that is stronger, safer, more prosperous, and full 
 Together we make Michigan great and move it forward again.
 Thank you.
 God bless you, and God bless Michigan.
-Upcoming
-Meet Ken in person
-Community events, meet-and-greets, and town halls across Farmington, Farmington Hills, Livonia, Novi, and Northville.
-All events
-Upcoming
-New events are being scheduled
-Sign up to be notified as new events are announced.
+Upcoming Meet Ken in person Community events, meet-and-greets, and town halls across Farmington, Farmington Hills, Livonia, Novi, and Northville.
+All events Upcoming New events are being scheduled Sign up to be notified as new events are announced.
+Get event updates Build the campaign.
 Defend the district.
 A serious Senate run in District 8 takes a serious campaign.
 Donate, volunteer, or sign up to stay connected.
+Donate Now Get Involved Ken Massey Republican candidate for Michigan State Senate District 8.
+Experienced leadership and service to communities.
+Campaign About Ken District 8 Endorsements Events Photos & Videos Engage Donate Request a Yard Sign Volunteer Newsletter Contact ElectKen@KenMassey.org All contact options Paid for by CTE Ken Massey, PO Box 7036, Novi, MI 48376 © 2026 Ken Massey for Michigan State Senate.
+All rights reserved.

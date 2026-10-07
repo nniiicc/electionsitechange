@@ -1,11 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/reidbeamanforsc",
-"https://instagram.com/reidbeamanforsc",
-"https://reidbeamanforsc.com/",
-"https://reidbeamanforsc.com/contact",
-"https://reidbeamanforsc.com/news",
-"https://reidbeamanforsc.com/sc-house-district-87-map",
-"https://secure.actblue.com/donate/votesforbeaman",
-"https://tiktok.com/@reidbeamanforsc"
+{
+"text": "Contact",
+"href": "https://www.reidbeamanforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesforbeaman"
+},
+{
+"text": "News",
+"href": "https://www.reidbeamanforsc.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "SC House District 87 Map",
+"href": "https://www.reidbeamanforsc.com/sc-house-district-87-map"
+},
+{
+"text": "[image: Reid Beaman for SC]",
+"href": "https://www.reidbeamanforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@reidbeamanforsc"
+}
 ]

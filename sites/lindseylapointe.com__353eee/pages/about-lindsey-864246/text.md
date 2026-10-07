@@ -1,4 +1,4 @@
-An advocate for the middle class and working families.
+About Lindsey Issues News Events Contact Donate Select Page An advocate for the middle class and working families.
 Lindsey has dedicated her life to helping the people of Illinois.
 She followed her mother into a career in social work after hearing at her mother’s funeral how many lives she touched.
 As a social worker, Lindsey worked with children with special needs, adults with disabilities, and seniors in need of help.
@@ -10,3 +10,5 @@ In an extraordinarily difficult 2020, she has pushed for COVID-19 relief for sma
 As we move forward with social justice reforms, Lindsey is leading productive discussions to embrace understanding, compassion and acceptance in the face of racism and discrimination.
 Lindsey will never stop fighting for a better Illinois.
 We can always count on her for help.
+Contact Us Email: lapointefor19@gmail.com Mail: PO Box 30161 Chicago, IL 60630 Phone: (847) 794-8816 Quick Links Home Donate Volunteer Yard Sign Stay Connected Follow Follow Paid for by Friends of LaPointe.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.

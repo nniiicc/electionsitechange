@@ -1,13 +1,8 @@
-Jamie Ager Raises Over $340,000 in Quarter 3, Outraising Incumbent Three to One
-October 14, 2025
-Share this post:
-Fairview, NC — Democratic candidate for North Carolina’s 11th Congressional District, Jamie Ager, has announced that his campaign outraised Republican incumbent Chuck Edwards $340,511 to $98,608 in the third fundraising quarter – a more than three-to-one margin.
+Skip to content Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Menu Jamie Ager Raises Over $340,000 in Quarter 3, Outraising Incumbent Three to One October 14, 2025 Share this post: Share on Facebook Share on Bluesky Share on X (Twitter) Share on Email Copy to Clipboard Fairview, NC — Democratic candidate for North Carolina’s 11th Congressional District, Jamie Ager, has announced that his campaign outraised Republican incumbent Chuck Edwards $340,511 to $98,608 in the third fundraising quarter – a more than three-to-one margin.
 “I’m proud of the campaign we’ve put together since launching in late July,” said Ager.
-“This campaign is about bringing people together from across Western North Carolina around our shared values, and our strong start is proof of our momentum.”
-Ager’s campaign fundraising came from over 4,500 individual contributions and no corporate PAC money.
+“This campaign is about bringing people together from across Western North Carolina around our shared values, and our strong start is proof of our momentum.” Ager’s campaign fundraising came from over 4,500 individual contributions and no corporate PAC money.
 In addition to overall fundraising, Ager also leads in cash on hand, with $227,722 compared to $205,513.
-About Jamie Ager
-Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
+About Jamie Ager Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
 Born in Fairview and raised on his family’s Hickory Nut Gap Farm, Jamie has spent his life growing food, building community, and working with people.
 From a young age, Jamie was taught the values of public service, hard work, and neighborliness.
 Jamie graduated from A.C.
@@ -22,4 +17,4 @@ As the proud father of three sons, Jamie cares deeply about our future.
 He’s concerned about big challenges like recovering from Hurricane Helene, affordability for working families, and preserving our environment and culture.
 He’s also outspoken about the need to support local businesses and putting Western North Carolina first.
 He’s never been afraid to stand up for what’s right, even if it means speaking out against his own party or taking on extremists.
-###
+### Return to all press Paid for by Ager for Congress Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. team@agerforcongress.com PO Box 64 Fairview, NC 28730 Copyright © #–# Ager for Congress | Privacy Policy | Media

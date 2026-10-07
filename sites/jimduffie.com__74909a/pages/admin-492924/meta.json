@@ -1,7 +1,9 @@
 {
  "description": "Admin on Jim Duffie for Congress. Official campaign website and digital hub for Jim Duffie's U.",
  "final_url": "https://jimduffie.com/admin",
- "paid_for_by": null,
+ "fingerprint": "ec5a1778a7e0082867b37bf76cefe9dda5ca5468",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Admin | Jim Duffie for Congress",
  "years_mentioned": []
 }

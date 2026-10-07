@@ -1,20 +1,82 @@
 [
-"http://facebook.com/KevinAbelForChange",
-"https://abelforgeorgia.com/",
-"https://abelforgeorgia.com/about",
-"https://abelforgeorgia.com/cart",
-"https://abelforgeorgia.com/endorsements",
-"https://abelforgeorgia.com/get-involved",
-"https://abelforgeorgia.com/home",
-"https://abelforgeorgia.com/platform",
-"https://abelforgeorgia.com/privacy-policy",
-"https://abelforgeorgia.com/terms-of-use",
-"https://duewestdesign.com/",
-"https://instagram.com/Abel4Ga",
-"https://secure.actblue.com/donate/kawebsite",
-"https://secure.actblue.com/donate/kawebsite?amount=1000",
-"https://secure.actblue.com/donate/kawebsite?amount=250",
-"https://secure.actblue.com/donate/kawebsite?amount=2500",
-"https://secure.actblue.com/donate/kawebsite?amount=3300",
-"https://secure.actblue.com/donate/kawebsite?amount=500"
+{
+"text": "0",
+"href": "https://www.abelforgeorgia.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.abelforgeorgia.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/kawebsite"
+},
+{
+"text": "Donate $1000",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=1000"
+},
+{
+"text": "Donate $250",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=250"
+},
+{
+"text": "Donate $2500",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=2500"
+},
+{
+"text": "Donate $3300",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=3300"
+},
+{
+"text": "Donate $500",
+"href": "https://secure.actblue.com/donate/kawebsite?amount=500"
+},
+{
+"text": "Donate OTHER",
+"href": "https://secure.actblue.com/donate/kawebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.abelforgeorgia.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.abelforgeorgia.com/get-involved"
+},
+{
+"text": "Platform",
+"href": "https://www.abelforgeorgia.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.abelforgeorgia.com/privacy-policy"
+},
+{
+"text": "Site Credit",
+"href": "https://www.duewestdesign.com/"
+},
+{
+"text": "Subscribe",
+"href": "https://www.abelforgeorgia.com/home#subscribe"
+},
+{
+"text": "Terms of Use",
+"href": "https://www.abelforgeorgia.com/terms-of-use"
+},
+{
+"text": "Volunteer Today",
+"href": "https://www.abelforgeorgia.com/get-involved"
+},
+{
+"text": "[image: Kevin Abel for Georgia]",
+"href": "https://www.abelforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/KevinAbelForChange"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Abel4Ga"
+}
 ]

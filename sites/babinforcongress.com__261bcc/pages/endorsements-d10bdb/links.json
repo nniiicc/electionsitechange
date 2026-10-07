@@ -1,22 +1,90 @@
 [
-"http://afpscorecard.org/",
-"http://cclub.org/",
-"http://eagleforum.org/",
-"http://nrlc.org/",
-"http://texasconservativeview.com/",
-"http://texasrighttolife.com/",
-"http://thsc.org/",
-"http://twitter.com/babin4congress",
-"http://txfbagfund.org/endorsement.aspx",
-"http://txvalues.org/",
-"https://babinforcongress.com/",
-"https://babinforcongress.com/about",
-"https://babinforcongress.com/endorsements",
-"https://babinforcongress.com/join",
-"https://babinforcongress.com/the-latest/babin-files",
-"https://facebook.com/BabinForCongress",
-"https://facebook.com/crhcpac",
-"https://home.nra.org/",
-"https://numbersusa.com/content/my/congress/14248/overview",
-"https://secure.winred.com/dr-brian-babin-for-congress/donate"
+{
+"text": "\"C\" Club of Houston",
+"href": "http://www.cclub.org"
+},
+{
+"text": "AbouT Brian",
+"href": "https://www.babinforcongress.com/about"
+},
+{
+"text": "Americans for Prosperity",
+"href": "http://afpscorecard.org/#member#B001291#house"
+},
+{
+"text": "Conservative Republicans of Harris County",
+"href": "https://www.facebook.com/crhcpac/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/dr-brian-babin-for-congress/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.babinforcongress.com/endorsements"
+},
+{
+"text": "JOIN TEAM BABIN",
+"href": "https://www.babinforcongress.com/join"
+},
+{
+"text": "NEWS",
+"href": "https://www.babinforcongress.com/the-latest/babin-files"
+},
+{
+"text": "National Eagle Forum",
+"href": "http://www.eagleforum.org"
+},
+{
+"text": "National Rifle Association",
+"href": "https://home.nra.org"
+},
+{
+"text": "National Right to Life",
+"href": "http://www.nrlc.org"
+},
+{
+"text": "Numbers USA",
+"href": "https://www.numbersusa.com/content/my/congress/14248/overview?reportcard=#CONGRESS"
+},
+{
+"text": "Priorities",
+"href": "https://www.babinforcongress.com/"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.babinforcongress.com/join"
+},
+{
+"text": "Texas Conservative View",
+"href": "http://www.texasconservativeview.com"
+},
+{
+"text": "Texas Farm Bureau AgFund",
+"href": "http://www.txfbagfund.org/endorsement.aspx"
+},
+{
+"text": "Texas Home School Coalition",
+"href": "http://www.thsc.org"
+},
+{
+"text": "Texas Right to Life",
+"href": "http://www.texasrighttolife.com"
+},
+{
+"text": "Texas Values",
+"href": "http://txvalues.org"
+},
+{
+"text": "[image]",
+"href": "http://www.twitter.com/babin4congress"
+},
+{
+"text": "[image]",
+"href": "https://www.babinforcongress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/BabinForCongress"
+}
 ]

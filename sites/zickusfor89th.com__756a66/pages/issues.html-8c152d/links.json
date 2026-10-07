@@ -1,27 +1,162 @@
 [
-"https://bsky.app/profile/zickusfor89th.bsky.social",
-"https://facebook.com/profile.php?id=61590208576269",
-"https://instagram.com/zickusfor89th",
-"https://zickusfor89th.com/accessibility.html",
-"https://zickusfor89th.com/affordability-housing.html",
-"https://zickusfor89th.com/campaign-comparison.html",
-"https://zickusfor89th.com/cost-of-living.html",
-"https://zickusfor89th.com/get-involved.html",
-"https://zickusfor89th.com/house-bill-positions.html",
-"https://zickusfor89th.com/index.html",
-"https://zickusfor89th.com/issues-archive.html",
-"https://zickusfor89th.com/issues.html",
-"https://zickusfor89th.com/local-issues.html",
-"https://zickusfor89th.com/meet-meegan.html",
-"https://zickusfor89th.com/priorities.html",
-"https://zickusfor89th.com/privacy.html",
-"https://zickusfor89th.com/property-rights-pa233.html",
-"https://zickusfor89th.com/public-record.html",
-"https://zickusfor89th.com/schools-education.html",
-"https://zickusfor89th.com/tariff-costs.html",
-"https://zickusfor89th.com/the-choice.html",
-"https://zickusfor89th.com/things-meegan-is-thinking-about.html",
-"https://zickusfor89th.com/top-10-priorities.html",
-"https://zickusfor89th.com/voter-information.html",
-"https://zickusfor89th.com/water-land-community.html"
+{
+"text": "Accessibility",
+"href": "https://zickusfor89th.com/accessibility.html"
+},
+{
+"text": "Affordability & Housing",
+"href": "https://zickusfor89th.com/affordability-housing.html"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/zickusfor89th.bsky.social"
+},
+{
+"text": "Browse the Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Compare",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Compare candidate positions",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61590208576269"
+},
+{
+"text": "Get Involved",
+"href": "https://zickusfor89th.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "How do you register and vote in District 89?",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "How does Michigan policy affect household costs?",
+"href": "https://zickusfor89th.com/cost-of-living.html"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/zickusfor89th/"
+},
+{
+"text": "Issue & article archive",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Issues",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Issues Library",
+"href": "https://zickusfor89th.com/issues-archive.html"
+},
+{
+"text": "Local Issues",
+"href": "https://zickusfor89th.com/local-issues.html"
+},
+{
+"text": "MEEGAN ZICKUSFOR THE 89TH",
+"href": "https://zickusfor89th.com/index.html"
+},
+{
+"text": "Meegan Zickus and Joe Moss: Compare the Candidates",
+"href": "https://zickusfor89th.com/campaign-comparison.html"
+},
+{
+"text": "Meet Meegan",
+"href": "https://zickusfor89th.com/meet-meegan.html"
+},
+{
+"text": "Positions",
+"href": "https://zickusfor89th.com/issues.html"
+},
+{
+"text": "Priorities",
+"href": "https://zickusfor89th.com/priorities.html"
+},
+{
+"text": "Privacy",
+"href": "https://zickusfor89th.com/privacy.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/affordability-housing.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/cost-of-living.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/house-bill-positions.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/property-rights-pa233.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/schools-education.html"
+},
+{
+"text": "Read the published statement →",
+"href": "https://zickusfor89th.com/water-land-community.html"
+},
+{
+"text": "Send a correction",
+"href": "mailto:ZickusJD@gmail.com"
+},
+{
+"text": "State Issues",
+"href": "https://zickusfor89th.com/house-bill-positions.html"
+},
+{
+"text": "The Choice",
+"href": "https://zickusfor89th.com/the-choice.html"
+},
+{
+"text": "Things Meegan is Thinking About",
+"href": "https://zickusfor89th.com/things-meegan-is-thinking-about.html"
+},
+{
+"text": "Top 10 Priorities",
+"href": "https://zickusfor89th.com/top-10-priorities.html"
+},
+{
+"text": "Voter Info",
+"href": "https://zickusfor89th.com/voter-information.html"
+},
+{
+"text": "Water, Land & Community",
+"href": "https://zickusfor89th.com/water-land-community.html"
+},
+{
+"text": "What Tariffs Mean for Your Budget",
+"href": "https://zickusfor89th.com/tariff-costs.html"
+},
+{
+"text": "What are the education issues in House District 89?",
+"href": "https://zickusfor89th.com/schools-education.html"
+},
+{
+"text": "What has happened with Ottawa County legal costs and settlements?",
+"href": "https://zickusfor89th.com/public-record.html"
+},
+{
+"text": "What is Michigan Public Act 233?",
+"href": "https://zickusfor89th.com/property-rights-pa233.html"
+},
+{
+"text": "ZickusJD@gmail.com",
+"href": "mailto:ZickusJD@gmail.com"
+}
 ]

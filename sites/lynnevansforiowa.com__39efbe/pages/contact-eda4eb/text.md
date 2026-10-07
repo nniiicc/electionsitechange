@@ -1,5 +1,4 @@
-Copyright © 2025-2026 - All Rights Reserved.
+HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT More HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT HOME MEET LYNN ISSUES ENDORSEMENTS CONTRIBUTE VOLUNTEER GET A YARD SIGN UPCOMING EVENTS CONTACT Contact Senator Evans Copyright © #-# - All Rights Reserved.
 Paid for by K.
 Lynn Evans Campaign Committee.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+PRIVACY POLICY PRESS KIT TERMS AND CONDITIONS

@@ -1,14 +1,82 @@
 [
-"https://facebook.com/janeforflorida",
-"https://instagram.com/janeforflorida",
-"https://janeforflorida.com/",
-"https://janeforflorida.com/about",
-"https://janeforflorida.com/issues",
-"https://janeforflorida.com/privacy-policy",
-"https://janeforflorida.com/volunteer",
-"https://secure.actblue.com/donate/ja-website",
-"https://secure.actblue.com/donate/ja-website?amount=10",
-"https://secure.actblue.com/donate/ja-website?amount=100",
-"https://secure.actblue.com/donate/ja-website?amount=25",
-"https://x.com/JaneforFlorida"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/ja-website?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/ja-website?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/ja-website?amount=25"
+},
+{
+"text": "About",
+"href": "https://janeforflorida.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ja-website"
+},
+{
+"text": "Endorsements",
+"href": "https://janeforflorida.com/#endorsements"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "Home",
+"href": "https://janeforflorida.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "Issues",
+"href": "https://janeforflorida.com/issues/"
+},
+{
+"text": "On Facebook",
+"href": "https://www.facebook.com/janeforflorida/"
+},
+{
+"text": "On Instagram",
+"href": "https://www.instagram.com/janeforflorida/"
+},
+{
+"text": "On X",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ja-website"
+},
+{
+"text": "Privacy Policy",
+"href": "https://janeforflorida.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://janeforflorida.com/volunteer/"
+},
+{
+"text": "Voting Info",
+"href": "https://janeforflorida.com/#voting-info"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JaneforFlorida"
+},
+{
+"text": "[image]",
+"href": "https://janeforflorida.com"
+}
 ]

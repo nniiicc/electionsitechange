@@ -1,10 +1,4 @@
-Socials
-Contact Us
-Leave a Message
-About
-Since 1999, Rep.
+Skip to content Elect Dan Frankel Menu Close Home About Dan Issues Open menu Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com Donate Now Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Email ElectFrankel@gmail.com Socials Contact Us Leave a Message Submit About Since 1999, Rep.
 Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
-Explore
-Contact
-© Copyright 2022 – Rep.
-Dan Frankel
+Explore Home About Dan Issues Equality and Justice Environment Firearms Policy Reform Government Reform Reproductive Rights & Healthcare In the News Contact Contact ElectFrankel@gmail.com © Copyright # – Rep.
+Dan Frankel Site by Imagebox Search Search Recent Posts Some Useful Links for You to Get Started Recent Comments A WordPress Commenter on Some Useful Links for You to Get Started Archives March 2022 Categories Uncategorized Elect Dan Frankel Proudly powered by WordPress .

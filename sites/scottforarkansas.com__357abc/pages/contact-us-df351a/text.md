@@ -1,4 +1,4 @@
-This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Phone: 4793088260 email:information@scottforarkansas.com
-Copyright © 2025 Scott for Arkansas - All Rights Reserved.
-Powered by
+Home 2026 Election Scott in the Press Photo Gallery About Scott Check Your Voter Status House District Maps Legislative Service Legislative News Endorsements and Awards Our 2025 Session Bills Legislative Calendar More Home 2026 Election Scott in the Press Photo Gallery About Scott Check Your Voter Status House District Maps Legislative Service Legislative News Endorsements and Awards Our 2025 Session Bills Legislative Calendar Home 2026 Election Scott in the Press Photo Gallery About Scott Check Your Voter Status House District Maps Legislative Service Legislative News Endorsements and Awards Our 2025 Session Bills Legislative Calendar Follow Scott on Social Media Contact Us Get involved!
+Name* Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Scott Richardson, Arkansas State Representative Phone: 4793088260 email: information@scottforarkansas.com Donate Copyright © # Scott for Arkansas - All Rights Reserved.
+Powered by Contact Us

@@ -1,9 +1,12 @@
 {
- "description": "Your State Senator",
+ "description": "",
  "final_url": "https://www.frankfarry.com/",
- "paid_for_by": "Paid for by Friends of Frank Farry Privacy Policy | Terms &amp; Conditions &times;",
+ "fingerprint": "e8733e5cb4500ffc34ae01c29aaa5843fe00fd20",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Frank Farry Privacy Policy",
  "title": "Frank Farry for State Senate",
  "years_mentioned": [
+  "2008",
   "2022"
  ]
 }

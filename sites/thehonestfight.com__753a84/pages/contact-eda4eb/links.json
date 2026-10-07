@@ -1,10 +1,66 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://thehonestfight.com/",
-"https://thehonestfight.com/about",
-"https://thehonestfight.com/contact",
-"https://thehonestfight.com/get-involved",
-"https://thehonestfight.com/the-plan",
-"https://twitter.com/wix"
+{
+"text": "About",
+"href": "https://www.thehonestfight.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.thehonestfight.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.thehonestfight.com/contact"
+},
+{
+"text": "For Colorado",
+"href": "https://www.thehonestfight.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.thehonestfight.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.thehonestfight.com"
+},
+{
+"text": "Home",
+"href": "https://www.thehonestfight.com/contact"
+},
+{
+"text": "Jeff Birdsall",
+"href": "https://www.thehonestfight.com"
+},
+{
+"text": "SUBSCRIBE",
+"href": "mailto:thehonsetfight@gmail.com?subject=I+want+to+join+The+Honest+Fight%21"
+},
+{
+"text": "State",
+"href": "https://www.thehonestfight.com"
+},
+{
+"text": "The Plan",
+"href": "https://www.thehonestfight.com/the-plan"
+},
+{
+"text": "Thehonestfight@gmail.com",
+"href": "mailto:Thehonestfight@gmail.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.thehonestfight.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

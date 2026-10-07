@@ -1,15 +1,58 @@
 [
-"https://citizensforjasonortitay.com/",
-"https://citizensforjasonortitay.com/?blackhole=8ddb412520",
-"https://citizensforjasonortitay.com/about",
-"https://citizensforjasonortitay.com/contact",
-"https://citizensforjasonortitay.com/legislation",
-"https://citizensforjasonortitay.com/local-impact",
-"https://citizensforjasonortitay.com/priorities",
-"https://citizensforjasonortitay.com/privacy-policy-terms",
-"https://citizensforjasonortitay.com/volunteer",
-"https://facebook.com/citizensforjasonortitay",
-"https://politics.raisethemoney.com/en/citizens-for-jason-ortitay",
-"https://truefitmarketing.com/",
-"https://youtube.com/@jasonortitay8791"
+{
+"text": "About",
+"href": "https://citizensforjasonortitay.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://citizensforjasonortitay.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://politics.raisethemoney.com/en/citizens-for-jason-ortitay"
+},
+{
+"text": "Home",
+"href": "https://citizensforjasonortitay.com/"
+},
+{
+"text": "Jason Ortitay",
+"href": "https://citizensforjasonortitay.com/?blackhole=558b5ac26a"
+},
+{
+"text": "Legislation",
+"href": "https://citizensforjasonortitay.com/legislation/"
+},
+{
+"text": "Local Impact",
+"href": "https://citizensforjasonortitay.com/local-impact/"
+},
+{
+"text": "Priorities",
+"href": "https://citizensforjasonortitay.com/priorities/"
+},
+{
+"text": "Privacy Policy and Terms",
+"href": "https://citizensforjasonortitay.com/privacy-policy-terms/"
+},
+{
+"text": "True Fit Marketing",
+"href": "https://truefitmarketing.com"
+},
+{
+"text": "Volunteer",
+"href": "https://citizensforjasonortitay.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://citizensforjasonortitay.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/citizensforjasonortitay"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@jasonortitay8791"
+}
 ]

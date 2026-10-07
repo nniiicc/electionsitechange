@@ -1,7 +1,26 @@
 [
-"https://bendavismn.com/",
-"https://bendavismn.com/about",
-"https://bendavismn.com/donations",
-"https://bendavismn.com/elementor-2171",
-"https://square.link/u/ez2rhcYU?src=embed"
+{
+"text": "About",
+"href": "https://bendavismn.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://bendavismn.com/elementor-2171/"
+},
+{
+"text": "Donate",
+"href": "https://square.link/u/ez2rhcYU?src=embed"
+},
+{
+"text": "Donations",
+"href": "https://bendavismn.com/donations/"
+},
+{
+"text": "Home",
+"href": "https://bendavismn.com/"
+},
+{
+"text": "[image: Ben Davis for Minnesota]",
+"href": "https://bendavismn.com/"
+}
 ]

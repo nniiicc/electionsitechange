@@ -1,4 +1,5 @@
-Representative Annie Menz Believes in
-Conserving Oklahoma's Natural Resources
-Protecting our land today means preserving it for future generations.
+Skip navigation menu Home About Issues News Contact Donate Home About Issues News Contact Donate Lower Costs Protecting Health Care Access Investing in Our Children Supporting Veterans and Public Servants Protecting Property Rights and Oklahoma Values Conserving Oklahoma's Natural Resources Honest Government That Listens Representative Annie Menz Believes in Conserving Oklahoma's Natural Resources Protecting our land today means preserving it for future generations.
 I support responsible wildfire mitigation, conservation projects, invasive species management, and policies that safeguard Oklahoma's natural resources while respecting private landowners.
+Privacy Policy How to Contact Rep.
+Annie Menz Representative Annie Menz is a working mom, veteran, and constituent services expert who meets people where they are, prioritizes transparency, and puts service into action.
+Powered by RUN! website builder Paid for and Authorized by Friends of Annie Menz 2026 You need to enable JavaScript to run this app.

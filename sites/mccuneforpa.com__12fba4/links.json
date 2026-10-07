@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61588147930565",
-"https://garrityforpa.com/",
-"https://jameshayesforpa.com/",
-"https://mccuneforpa.com/",
-"https://mccuneforpa.com/about",
-"https://mccuneforpa.com/donate",
-"https://mccuneforpa.com/sample-page",
-"https://mccuneforpa.com/vol",
-"https://mccuneforpa.com/where-i-stand",
-"https://richeyforpa.com/"
+{
+"text": "About",
+"href": "https://mccuneforpa.com/about/"
+},
+{
+"text": "Book a Call",
+"href": "https://mccuneforpa.com/sample-page/"
+},
+{
+"text": "Book your Call",
+"href": "https://mccuneforpa.com/sample-page/"
+},
+{
+"text": "Donate",
+"href": "https://mccuneforpa.com/donate/"
+},
+{
+"text": "Home",
+"href": "https://mccuneforpa.com/"
+},
+{
+"text": "James Hayes - Congress PA-12",
+"href": "https://jameshayesforpa.com/"
+},
+{
+"text": "Jason Richey - Lt. Governor",
+"href": "https://richeyforpa.com/"
+},
+{
+"text": "Stacy Garrity - Governor",
+"href": "https://garrityforpa.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://mccuneforpa.com/vol/"
+},
+{
+"text": "Where I stand",
+"href": "https://mccuneforpa.com/where-i-stand/"
+},
+{
+"text": "[tooltip: facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588147930565"
+}
 ]

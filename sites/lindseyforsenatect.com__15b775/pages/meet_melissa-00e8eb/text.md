@@ -1,5 +1,4 @@
-Meet Melissa
-Melissa Lindsey is a lifelong resident of New Fairfield, a dedicated member of the community and a successful business manager.
+Meet Melissa Issues Events Volunteer Contribute Meet Melissa Melissa Lindsey is a lifelong resident of New Fairfield, a dedicated member of the community and a successful business manager.
 She and her husband have been raising their three children—Makayla, Samantha, and Liam—while remaining actively involved in local schools, youth sports, and community activities.
 Melissa earned her Bachelor’s Degree in Mathematics from Western Connecticut State University.
 She has spent more than 15 years as a successful businesswoman and office manager, helping to run and operate her family’s small business in Danbury.
@@ -13,3 +12,5 @@ Melissa has also been a dedicated volunteer in youth athletics.
 As the coordinator of the New Fairfield Youth Field Hockey program, she expanded the program to include players from third through fifth grade, more than doubling participation and creating new opportunities for young athletes to learn teamwork, discipline, and confidence.
 Melissa believes the current state government has lost sight of its fundamental responsibility: representing the will of the people with transparency and accountability.
 She is running to represent Connecticut's 24th Senate District to help restore common sense, strengthen local communities, and ensure that the voices of residents are heard in Hartford.
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Contribute Paid for by Lindsey for Senate, Dustin Bingham Treasurer.
+Approved by Melissa Lindsey Powered by CampaignPartner.com - Political Campaign Websites Home Meet Melissa Issues Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

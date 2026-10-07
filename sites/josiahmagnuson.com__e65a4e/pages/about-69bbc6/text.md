@@ -1,5 +1,5 @@
-About Josiah
-Josiah Magnuson, his beautiful wife LeeAnn, and their two young children live on Hwy. 11 near Fingerville, SC.
+0 Skip to Content Home About Issues Record Contact Contribute Open Menu Close Menu Home About Issues Record Contact Contribute Open Menu Close Menu Home About Issues Record Contact Contribute About Josiah Josiah Magnuson , his beautiful wife LeeAnn, and their two young children live on Hwy.
+11 near Fingerville, SC.
 Josiah was born in Greenville as the son of a Baptist pastor.
 He was shaped by his early years as God opened ministry opportunities and the family followed the Lord on a pilgrimage to multiple states.
 Homeschooled through his sophomore year, Josiah graduated from Kingsway Christian School in Orrville, Ohio in 2010.
@@ -12,7 +12,7 @@ In 2021, the company was recognized as one of the 25 fastest-growing companies i
 Since 2018, Josiah has been an active member of Mountain View Baptist Church (north of Cowpens, SC) where LeeAnn’s family attends.
 He currently serves as a Sunday School teacher for the junior boys.
 He also served from 2019 to 2023 as an executive board member of Hope Remains Ranch in Wellford, SC, a Christian equine ministry providing therapy and healing to young people and families.
-He is the author of a twelve-week Bible study course on God and government, Biblical Civics, which is available on Amazon.
+He is the author of a twelve-week Bible study course on God and government, Biblical Civics , which is available on Amazon .
 Though he's not an attorney and doesn't consider himself a politician, Josiah has long been active in the political process.
 As a teen, he was motivated by the writings of Thomas Jefferson and other American Founders.
 Josiah became an avid researcher of history and often tuned in to conservative talk radio shows like Russ Cassell and Rush Limbaugh.
@@ -36,7 +36,7 @@ These themes figured prominently in President Trump's State of the Union address
 One example of this "real America" as President Trump explained is the "Cajun Navy" in Louisiana and Texas that volunteered to rescue victims of Hurricane Harvey.
 The Virtue Solution Project aims to replicate this volunteer spirit across America, putting into practice the values the Founders told us would preserve liberty.
 The movement has been largely successful, sparking conferences on "localism" and personal responsibility and inspiring many patriots across the country to run for state and local office.
-In the midst of these projects, Josiah has remained active in the SC Republican Party, regularly serving as a state convention delegate since 2011.
+In the midst of these projects, Josiah has remained active in the SC Republican Party , regularly serving as a state convention delegate since 2011.
 He has been an advocate for closed primaries, strong conservative leadership, and a robust party involvement at the community level.
 Josiah sees the vision of America's Founders as the right course for our country.
 This vision requires limits on government.
@@ -47,3 +47,6 @@ As your representative, Josiah Magnuson fights for your values.
 He is a voice of courage in Columbia.
 You can be confident in his record of leadership!
 Please feel free to call or text him with questions or input at 864-420-7933.
+Stand with Josiah today!
+Contribute Paid for by Magnuson for House, P.O.
+Box 212, Campobello SC 29322 Privacy Policy | Terms and Conditions

@@ -1,19 +1,82 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfLEaB7Hvno7UKBVUIwU-6bESY_G1Qr3l4PYP7yko4NcmyI8Q/viewform?usp=sharing&ouid=114075386527332857368",
-"https://facebook.com/RobforPA",
-"https://instagram.com/Rob4PA",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://robforpa.com/",
-"https://robforpa.com/about",
-"https://robforpa.com/cdn-cgi/l/email-protection",
-"https://robforpa.com/get-involved",
-"https://robforpa.com/labor-endorsements",
-"https://robforpa.com/news",
-"https://robforpa.com/privacy-policy",
-"https://robforpa.com/terms-conditions",
-"https://secure.winred.com/rob-for-pa/donate",
-"https://secure.winred.com/rob-for-pa/storefront",
-"https://twitter.com/Rob4PA",
-"https://youtube.com/@RobforPA"
+{
+"text": "About",
+"href": "https://robforpa.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/rob-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RobforPA"
+},
+{
+"text": "Get Involved",
+"href": "https://robforpa.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://robforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/Rob4PA"
+},
+{
+"text": "Labor Endorsements",
+"href": "https://robforpa.com/labor-endorsements/"
+},
+{
+"text": "News",
+"href": "https://robforpa.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://robforpa.com/privacy-policy/"
+},
+{
+"text": "Request a Yard Sign >",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfLEaB7Hvno7UKBVUIwU-6bESY_G1Qr3l4PYP7yko4NcmyI8Q/viewform?usp=sharing&ouid=114075386527332857368"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/rob-for-pa/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://robforpa.com/terms-conditions/"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Vote",
+"href": "https://robforpa.com/#vote"
+},
+{
+"text": "X",
+"href": "https://twitter.com/Rob4PA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@RobforPA"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@robforpa.com"
+},
+{
+"text": "[image: Logo - Rob for PA]",
+"href": "https://robforpa.com/"
+}
 ]

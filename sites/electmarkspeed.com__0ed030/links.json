@@ -1,7 +1,30 @@
 [
-"https://electmarkspeed.com/",
-"https://electmarkspeed.com/contact",
-"https://electmarkspeed.com/get-involved",
-"https://facebook.com/pages/category/Public---Government-Service/Elect-Mark-Speed-126343279207178",
-"https://secure.actblue.com/donate/markspeed"
+{
+"text": "Contact",
+"href": "https://www.electmarkspeed.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/markspeed"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electmarkspeed.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.electmarkspeed.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/pages/category/Public---Government-Service/Elect-Mark-Speed-126343279207178/"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.electmarkspeed.com"
+},
+{
+"text": "info@electmarkspeed.com",
+"href": "mailto:info@electmarkspeed.com"
+}
 ]

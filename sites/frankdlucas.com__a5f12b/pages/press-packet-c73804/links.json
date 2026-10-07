@@ -1,60 +1,246 @@
 [
-"https://facebook.com/FrankLucasOK03",
-"https://frankdlucas.com/",
-"https://frankdlucas.com/about",
-"https://frankdlucas.com/contact",
-"https://frankdlucas.com/frank-lucas-a-product-of-oklahoma-values-conservative-voice-of-reason",
-"https://frankdlucas.com/frank-lucas-deeply-honored-to-earn-overwhelming-support-of-oklahomas-third-district",
-"https://frankdlucas.com/frank-lucas-endorses-president-trump",
-"https://frankdlucas.com/frank-lucas-welcomes-president-trump-to-oklahoma",
-"https://frankdlucas.com/issues",
-"https://frankdlucas.com/lucas-presses-usda-to-clarify-federal-funding-disparities-for-cattle-producers",
-"https://frankdlucas.com/news",
-"https://frankdlucas.com/president-trump-endorses-frank-lucas-for-congress",
-"https://frankdlucas.com/press-packet",
-"https://frankdlucas.com/press-packet/00060j-lucas-rgb-cc",
-"https://frankdlucas.com/press-packet/2014-0527-0457-2",
-"https://frankdlucas.com/press-packet/2014-0527-0459-2-2",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-35",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-36",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-37",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-38",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-39",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-40",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-41",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-42",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-43",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-44",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-45",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-48",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-50",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-51",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-52",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-53",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-54",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-55",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-56",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-57",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-59",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-61",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-62",
-"https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-63",
-"https://frankdlucas.com/press-packet/dsc_9049-2",
-"https://frankdlucas.com/press-packet/dsc_9102-2",
-"https://frankdlucas.com/press-packet/dsc_9139-2",
-"https://frankdlucas.com/press-packet/dsc_9142-2",
-"https://frankdlucas.com/press-packet/frank-d-lucas-098-2",
-"https://frankdlucas.com/press-packet/frank-d-lucas-111-2",
-"https://frankdlucas.com/press-packet/frank-d-lucas-18-2",
-"https://frankdlucas.com/press-packet/frank-d-lucas-7-2",
-"https://frankdlucas.com/press-packet/lucas-manufact-truck1-rgb-cc-3",
-"https://frankdlucas.com/press-packet/lucas-manufact-truck3-rgb-cc-3",
-"https://frankdlucas.com/press-packet/lucas-manufact-truck4-rgb-cc",
-"https://frankdlucas.com/press-packet/lucas-orangeshirt-rgb-cc-3",
-"https://frankdlucas.com/press-packet/lucas-windmill-rgb-cc-2",
-"https://frankdlucas.com/press-packet/lucas_park_shoot_003-rgb-cc-3-2",
-"https://frankdlucas.com/press-packet/lucas_park_shoot_005-rgb-cc",
-"https://frankdlucas.com/press-packet/lucas_park_shoot_008-rgb-cc",
-"https://secure.anedot.com/lucas-for-congress/pg-site-homepage",
-"https://twitter.com/FrankDLucas"
+{
+"text": "About Frank",
+"href": "https://frankdlucas.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://frankdlucas.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/lucas-for-congress/pg-site-homepage"
+},
+{
+"text": "Frank Lucas",
+"href": "https://frankdlucas.com/"
+},
+{
+"text": "Frank Lucas Endorses President Trump",
+"href": "https://frankdlucas.com/frank-lucas-endorses-president-trump/"
+},
+{
+"text": "Frank Lucas Welcomes President Trump to Oklahoma",
+"href": "https://frankdlucas.com/frank-lucas-welcomes-president-trump-to-oklahoma/"
+},
+{
+"text": "Frank Lucas: A Product of Oklahoma Values & Conservative Voice of Reason",
+"href": "https://frankdlucas.com/frank-lucas-a-product-of-oklahoma-values-conservative-voice-of-reason/"
+},
+{
+"text": "Frank Lucas: ‘Deeply Honored to Earn Overwhelming Support of Oklahoma’s Third District’",
+"href": "https://frankdlucas.com/frank-lucas-deeply-honored-to-earn-overwhelming-support-of-oklahomas-third-district/"
+},
+{
+"text": "Issues",
+"href": "https://frankdlucas.com/issues/"
+},
+{
+"text": "Lucas presses USDA to clarify federal funding disparities for cattle producers",
+"href": "https://frankdlucas.com/lucas-presses-usda-to-clarify-federal-funding-disparities-for-cattle-producers/"
+},
+{
+"text": "President Trump Endorses Frank Lucas for Congress",
+"href": "https://frankdlucas.com/president-trump-endorses-frank-lucas-for-congress/"
+},
+{
+"text": "Press Packet",
+"href": "https://frankdlucas.com/press-packet/"
+},
+{
+"text": "The Latest",
+"href": "https://frankdlucas.com/news/"
+},
+{
+"text": "X",
+"href": "javascript:void(0)"
+},
+{
+"text": "[image: Frank Lucas]",
+"href": "https://frankdlucas.com/"
+},
+{
+"text": "[image: lucas-logo]",
+"href": "https://frankdlucas.com/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/00060j-lucas-rgb-cc/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/2014-0527-0457-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/2014-0527-0459-2-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-35/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-36/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-37/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-38/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-39/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-40/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-41/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-42/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-43/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-44/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-45/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-48/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-50/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-51/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-52/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-53/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-54/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-55/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-56/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-57/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-59/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-61/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-62/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/congressman-frank-lucas-around-his-ranch-in-western-oklahoma-63/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/dsc_9049-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/dsc_9102-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/dsc_9139-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/dsc_9142-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/frank-d-lucas-098-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/frank-d-lucas-111-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/frank-d-lucas-18-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/frank-d-lucas-7-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas-manufact-truck1-rgb-cc-3/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas-manufact-truck3-rgb-cc-3/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas-manufact-truck4-rgb-cc/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas-orangeshirt-rgb-cc-3/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas-windmill-rgb-cc-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas_park_shoot_003-rgb-cc-3-2/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas_park_shoot_005-rgb-cc/"
+},
+{
+"text": "[image]",
+"href": "https://frankdlucas.com/press-packet/lucas_park_shoot_008-rgb-cc/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/FrankDLucas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FrankLucasOK03/"
+}
 ]

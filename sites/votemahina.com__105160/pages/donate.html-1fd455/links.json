@@ -1,12 +1,50 @@
 [
-"https://secure.actblue.com/donate/vote-mahina-1",
-"https://votemahina.com/",
-"https://votemahina.com/_blank",
-"https://votemahina.com/about-me.html",
-"https://votemahina.com/contact.html",
-"https://votemahina.com/donate.html",
-"https://votemahina.com/experience.html",
-"https://votemahina.com/press.html",
-"https://votemahina.com/priority-issues.html",
-"https://votemahina.com/questionnaires.html"
+{
+"text": "About Me",
+"href": "https://www.votemahina.com/about-me.html"
+},
+{
+"text": "Contact",
+"href": "https://www.votemahina.com/contact.html"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/vote-mahina-1"
+},
+{
+"text": "Donate",
+"href": "https://www.votemahina.com/donate.html"
+},
+{
+"text": "Experience",
+"href": "https://www.votemahina.com/experience.html"
+},
+{
+"text": "Home",
+"href": "https://www.votemahina.com/"
+},
+{
+"text": "Press",
+"href": "https://www.votemahina.com/press.html"
+},
+{
+"text": "Priority Issues",
+"href": "https://www.votemahina.com/priority-issues.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.votemahina.com/questionnaires.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+},
+{
+"text": "[image: RE-ELECT MAHINA POEPOE DISTRICT 13 STATE HOUSE REP]",
+"href": "https://www.votemahina.com/"
+},
+{
+"text": "this link",
+"href": "https://secure.actblue.com/donate/vote-mahina-1"
+}
 ]

@@ -1,10 +1,14 @@
 {
  "description": "Listed here are some options to get the food and healthcare you need.",
  "final_url": "https://votevarian2026.com/resources.html",
- "paid_for_by": null,
+ "fingerprint": "8ddcbfbfdda8b7df980d71a442ddfb7226ecccfa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Resources and help | VoteVarian2026",
  "years_mentioned": [
+  "2009",
   "2014",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

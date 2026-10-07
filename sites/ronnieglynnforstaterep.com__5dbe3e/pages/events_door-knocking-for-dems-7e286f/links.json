@@ -1,18 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+for+Dems&dates=20220908T220000Z%2F20221002T010000Z",
-"https://facebook.com/Ronniefor67",
-"https://instagram.com/ronniefor67?hl=en",
-"https://ronnieglynnforstaterep.com/",
-"https://ronnieglynnforstaterep.com/2026-legislative-priorities",
-"https://ronnieglynnforstaterep.com/cart",
-"https://ronnieglynnforstaterep.com/events",
-"https://ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn",
-"https://ronnieglynnforstaterep.com/events/door-knocking-for-dems?format=ical",
-"https://ronnieglynnforstaterep.com/events/election-night-celebration",
-"https://ronnieglynnforstaterep.com/issues",
-"https://ronnieglynnforstaterep.com/pressreleases",
-"https://ronnieglynnforstaterep.com/volunteer",
-"https://ronnieglynnforstaterep.com/what-voters-need-to-know",
-"https://ronnieglynnforstaterep.com/yard-sign-request",
-"https://secure.actblue.com/donate/ronnieforstaterep"
+{
+"text": "0",
+"href": "https://www.ronnieglynnforstaterep.com/cart"
+},
+{
+"text": "2026 Legislative Priorities",
+"href": "https://www.ronnieglynnforstaterep.com/2026-legislative-priorities"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ronnieglynnforstaterep.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ronnieforstaterep"
+},
+{
+"text": "Events",
+"href": "https://www.ronnieglynnforstaterep.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+for+Dems&dates=20220908T220000Z%2F20221002T010000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knocking-for-dems?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.ronnieglynnforstaterep.com/issues"
+},
+{
+"text": "Next Next August 3 Door Knock for Ronnie Glynn",
+"href": "https://www.ronnieglynnforstaterep.com/events/door-knock-for-ronnie-glynn"
+},
+{
+"text": "Press Releases",
+"href": "https://www.ronnieglynnforstaterep.com/pressreleases"
+},
+{
+"text": "Previous Previous August 4 Election Night Celebration",
+"href": "https://www.ronnieglynnforstaterep.com/events/election-night-celebration"
+},
+{
+"text": "Volunteer",
+"href": "https://www.ronnieglynnforstaterep.com/volunteer"
+},
+{
+"text": "What Voters Need to Know",
+"href": "https://www.ronnieglynnforstaterep.com/what-voters-need-to-know"
+},
+{
+"text": "Yard Sign Request",
+"href": "https://www.ronnieglynnforstaterep.com/yard-sign-request"
+},
+{
+"text": "[image: Ronnie Glynn for State Rep]",
+"href": "https://www.ronnieglynnforstaterep.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Ronniefor67"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ronniefor67/?hl=en"
+}
 ]

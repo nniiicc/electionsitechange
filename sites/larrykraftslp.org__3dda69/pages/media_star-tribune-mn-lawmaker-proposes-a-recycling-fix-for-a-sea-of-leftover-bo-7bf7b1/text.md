@@ -1,6 +1,3 @@
-Previous
-Previous
-Larry Kraft Announces Candidacy for Re-election in Minnesota House District 46A
-Next
-Next
-Written By Larry Kraft
+0 Skip to Content Vote Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Open Menu Close Menu Vote Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Open Menu Close Menu Folder: Vote Back Register to vote Vote early Where to vote Track your absentee ballot District map About Vision Legislation Endorsements Media Get Involved DONATE Star Tribune: MN lawmaker proposes a recycling fix for a sea of leftover boat shrink wrap (10/23) Oct 28 Written By Larry Kraft Link to Star Tribune article Larry Kraft Previous Previous Larry Kraft Announces Candidacy for Re-election in Minnesota House District 46A Next Next My Star Tribune op-ed: Viewing Minnesota's future with a climate lens (8/23) I'd love to connect and hear your ideas about our community! email: larrykraftslp@gmail.com phone/text: 952-715-7535 DONATE Prepared and paid for by the Committee to Elect Larry Kraft, P.O.
+Box 16522, St.
+Louis Park, MN 55416.

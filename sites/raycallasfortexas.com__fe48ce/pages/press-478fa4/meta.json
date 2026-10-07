@@ -1,8 +1,10 @@
 {
  "description": "Get campaign, policy, and media updates from the Ray Callas for Texas House District 21 campaign. Learn more about the Veteran, Conservative, and Trusted Leader fighting to earn your support in Southeast Texas.",
  "final_url": "https://www.raycallasfortexas.com/press",
- "paid_for_by": null,
- "title": "PRESS \u2014 Ray Callas for Texas",
+ "fingerprint": "e60a520575d471d6c6169c9066908a48027e26df",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "PRESS — Ray Callas for Texas",
  "years_mentioned": [
   "2025",
   "2026"

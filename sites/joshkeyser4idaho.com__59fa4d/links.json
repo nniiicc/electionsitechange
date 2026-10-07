@@ -1,13 +1,58 @@
 [
-"https://facebook.com/joshkeyserforidaho",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/Josh4Idaho",
-"https://joshkeyser4idaho.com/",
-"https://joshkeyser4idaho.com/about",
-"https://joshkeyser4idaho.com/contact",
-"https://joshkeyser4idaho.com/values",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/josh-keyser-for-idaho/donate",
-"https://x.com/JAKeyser"
+{
+"text": "About",
+"href": "https://joshkeyser4idaho.com/about"
+},
+{
+"text": "Contact",
+"href": "https://joshkeyser4idaho.com/contact"
+},
+{
+"text": "Find out more",
+"href": "https://joshkeyser4idaho.com/values"
+},
+{
+"text": "Give",
+"href": "https://secure.anedot.com/josh-keyser-for-idaho/donate"
+},
+{
+"text": "Home",
+"href": "https://joshkeyser4idaho.com/"
+},
+{
+"text": "Josh Keyser RepublicanConservativeJosh Keyser Republican ConservativeJosh Keyser Republican ConservativeJosh Keyser Republican Conservative",
+"href": "https://joshkeyser4idaho.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Values",
+"href": "https://joshkeyser4idaho.com/values"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/joshkeyserforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Josh4Idaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/JAKeyser"
+},
+{
+"text": "joshkeyser4idaho@gmail.com",
+"href": "mailto:joshkeyser4idaho@gmail.com"
+}
 ]

@@ -1,4 +1,2 @@
-Paid for by Tony Thompson for Iowa
-Copyright © All Rights Reserved
-Terms of Service
-Tony Thompson for Iowa Privacy Info
+Tony Thompson for Iowa Home About Tony Issues Volunteer Events Donate privacy Terms and Conditions vote2026 Home About Tony Issues Events Early Voting Donate Now Volunteer Newsletter Request a Sign Highlighted Events NOON Oct 4: Iowa Unity Coalition Canvass (Polk City) 6:00PM Oct 10: OctTonyFest in Polk City Oct 14: Early Voting Begins!
+Paid for by Tony Thompson for Iowa Copyright © All Rights Reserved Terms of Service Tony Thompson for Iowa Privacy Info Privacy policy | Privacy policy OK

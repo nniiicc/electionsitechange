@@ -1,24 +1,11 @@
-LATEST NEWS
-Senate Democrats Highlight Key Legislation of the 2025 Session
-Senate Democrats passed bills on economy, education, health care, jobs, public safety, housing, and more Carson City, NV: At the start of the 83rd Legislative Session, Senate Democrats pledged to work on the issues faced by Nevada’s working families.
-Working with...
-Nevada’s workers’ compensation system may see some changes
-This was published on the Las Vegas Review Journal on April 12, 2023.
+(775) 722-6534 skipd@sbcglobal.net Facebook X Facebook X SKIP IS RUNNING AGAIN IN NOV 2026!
+HOME MEET SKIP GOALS NEWS CONTACT DONATE Select Page LATEST NEWS Follow Follow Senate Democrats Highlight Key Legislation of the 2025 Session Sep 12, 2025 | News Senate Democrats passed bills on economy, education, health care, jobs, public safety, housing, and more Carson City, NV: At the start of the 83rd Legislative Session, Senate Democrats pledged to work on the issues faced by Nevada’s working families.
+Working with... read more Nevada’s workers’ compensation system may see some changes Apr 13, 2023 | News This was published on the Las Vegas Review Journal on April 12, 2023.
 Voting along party lines, the Senate Committee on Commerce and Labor passed a heavily amended bill Wednesday that will make significant changes to the workers’ compensation system.
-Senate Bill 274,...
-Nevada workers could sue over bad-faith insurance denials
-This was published on the Las Vegas Review Journal on March 29, 2023.
+Senate Bill 274,... read more Nevada workers could sue over bad-faith insurance denials Mar 29, 2023 | News This was published on the Las Vegas Review Journal on March 29, 2023.
 By Jessica Hill Las Vegas Review-Journal Reno Police Department Detective Janira Varty was injured in 2019 during a car accident when she slid on black ice while on duty.
-Afterward, her entire body...
-Daly Introduces Bill to Stabilize Rents
-Article originally published on https://www.nevadacurrent.com.
+Afterward, her entire body... read more Daly Introduces Bill to Stabilize Rents Mar 28, 2023 | News Article originally published on https://www.nevadacurrent.com.
 When she first started living there a decade ago, Jeanneil Marzan paid $645 a month to rent a space for her manufactured home at Sierra Royal Mobile Park.
-Overtime, rent slowly increased to the current...
-Senate committee hears proposal to make fake electoral certificates a felony
-This was published on the Las Vegas Review Journal on February 21, 2023 By Jessica Hill Las Vegas Review-Journal Nevada Democratic Sen.
-Skip Daly of Sparks wants people who submit fake Electoral College certificates to be convicted of a felony and sentenced up to 10...
-Former Assemblyman Richard “Skip” Daly Wins Key Race in Nevada Senate District 13
-Longtime Labor Leader Elected to Represent Working Families in Northern Nevada Immediate Release Sparks, NV — Former Assemblyman Richard “Skip” Daly has secured enough votes to win election to the Nevada Senate, has declared victory over his Republican opponent, and...
-Richard “Skip” Daly Announces for State Senate District 13
-SENATE DEMOCRATS ENDORSE NORTHERN NEVADA LABOR LEADERSparks, NV – Former State Assemblyman and Northern Nevada Labor Leader Richard “Skip” Daly has announced that he will run for the State Senate in District 13.
-A lifelong resident of Northern Nevada and the Business...
+Overtime, rent slowly increased to the current... read more Senate committee hears proposal to make fake electoral certificates a felony Feb 21, 2023 | News This was published on the Las Vegas Review Journal on February 21, 2023 By Jessica Hill Las Vegas Review-Journal Nevada Democratic Sen.
+Skip Daly of Sparks wants people who submit fake Electoral College certificates to be convicted of a felony and sentenced up to 10... read more Former Assemblyman Richard “Skip” Daly Wins Key Race in Nevada Senate District 13 Nov 10, 2022 | News Longtime Labor Leader Elected to Represent Working Families in Northern Nevada Immediate Release Sparks, NV — Former Assemblyman Richard “Skip” Daly has secured enough votes to win election to the Nevada Senate, has declared victory over his Republican opponent, and... read more Richard “Skip” Daly Announces for State Senate District 13 Nov 29, 2021 | News SENATE DEMOCRATS ENDORSE NORTHERN NEVADA LABOR LEADERSparks, NV – Former State Assemblyman and Northern Nevada Labor Leader Richard “Skip” Daly has announced that he will run for the State Senate in District 13.
+A lifelong resident of Northern Nevada and the Business... read more CONTACT (775) 722-6534 skipd@sbcglobal.net Follow Follow MEET SKIP GOALS NEWS Donate PAID FOR AND AUTHORIZED BY DALY FOR SENATE DISTRICT 13 • 2180 4TH STREET, SPARKS, NV 89431 POWERED BY NERD POWER MEDIA Automated page speed optimizations for fast site performance

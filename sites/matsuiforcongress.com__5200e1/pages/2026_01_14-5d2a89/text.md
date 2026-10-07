@@ -1,3 +1,3 @@
-After Minnesota shooting, Matsui, other Democrats call for Kristi Noem’s impeachment January 14, 2026 Reps.
+About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact DONATE Campaign News After Minnesota shooting, Matsui, other Democrats call for Kristi Noem’s impeachment January 14, 2026 Reps.
 Doris Matsui and Mike Thompson want to impeach Homeland Secretary Kristin Noem.
-Read More »
+Read More » MAKE A CONTRIBUTION $15 $25 $50 $100 ANY AMOUNT About Doris Issues Endorsements News Get Involved District 7 Media Contact About Doris Issues Endorsements News Get Involved District 7 Media Contact Facebook X-twitter Instagram Flickr © # ALL RIGHTS RESERVED ••• PAID FOR BY MATSUI FOR CONGRESS Privacy Policy

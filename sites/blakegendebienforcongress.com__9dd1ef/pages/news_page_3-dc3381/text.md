@@ -1,44 +1,22 @@
-In The News
-The latest news articles, interviews, and press releases from Blake.
-Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them
-August 26, 2026
-LISBON, NY — Canada announced retaliatory tariffs Tuesday on nearly $20 billion in American goods.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate In The News The latest news articles, interviews, and press releases from Blake.
+Gendebien: Trump’s Trade War with Canada Won’t Lower Costs, It Will Raise Them August 26, 2026 Press Release LISBON, NY — Canada announced retaliatory tariffs Tuesday on nearly $20 billion in American goods.
 The move came in response to President Trump's 50% tariff on Canadian imports over the weekend, after trade talks between the two countries collapsed.
 Blake Gendebien, Democratic candidate for New York's 21st Congressional District, called for an end to a trade war that is hurting the North Country.
-Gendebien adapts for a tightening congressional race
-August 24, 2026
-Democratic candidate sits down for a wide-ranging interview on his goals for the district and his opponent’s rhetoric
-NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District
-August 19, 2026
-LISBON, N.Y. — New York State United Teachers (NYSUT), the statewide union representing more than 600,000 teachers, school-related professionals, higher education faculty, and healthcare workers, today endorsed Blake Gendebien, the Democratic candidate for New York's 21st Congressional District, in the November general election.
-WNYT/SurveyUSA poll: Gendebien leads NY-21 congressional race
-August 13, 2026
-The race is to succeed Elise Stefanik.
+Read More Gendebien adapts for a tightening congressional race August 24, 2026 News Article Democratic candidate sits down for a wide-ranging interview on his goals for the district and his opponent’s rhetoric Read More NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District August 19, 2026 Press Release LISBON, N.Y. — New York State United Teachers (NYSUT), the statewide union representing more than 600,000 teachers, school-related professionals, higher education faculty, and healthcare workers, today endorsed Blake Gendebien, the Democratic candidate for New York's 21st Congressional District, in the November general election.
+Read More WNYT/SurveyUSA poll: Gendebien leads NY-21 congressional race August 13, 2026 News Article The race is to succeed Elise Stefanik.
 A NewsChannel 13 poll conducted by SurveyUSA shows Gendebien ahead of Republican Anthony Constantino among likely voters.
-LETTER: Gendebien is best choice to represent region
-August 8, 2026
-He comported himself with candor and thoughtfulness, offering reasoned responses to participants’ questions, never dodging those concerning complex and difficult issues.
+Read More LETTER: Gendebien is best choice to represent region August 8, 2026 News Article He comported himself with candor and thoughtfulness, offering reasoned responses to participants’ questions, never dodging those concerning complex and difficult issues.
 Selfless and humble, he presents as a person of integrity, unimpressed with power and position but driven instead by his passion for his home — and ours — northern and central New York.
-Blake Gendebien Campaign Releases New Tv Ad, “Working Together”
-August 7, 2026
-LISBON, N.Y. — Blake Gendebien, a second-generation dairy farmer, today released a new television advertisement, "Working Together," highlighting his record leading his dairy co-op and drawing a contrast with Anthony Constantino's refusal to break with party leadership even as farmers struggle with rising costs.
-Gendebien seeks to bring farm values to Congress
-August 3, 2026
-OGDENSBURG — Nestled way up in a corner of the North Country where moose crossing signs outnumber gas stations, dairy farmer Blake Gendebien embodies the Democratic Party’s next great hope.
-LETTER: Gendebien has what it takes
-July 29, 2026
-Blake clearly has both the direct knowledge and the experience to work as our representative in the House for all of us dealing with the daily tasks of feeding our families, handling health issues and other matters important in our lives.
-‘Primary care is not a luxury’: North Star’s Carthage, Philadelphia closure plans scrutinized
-July 29, 2026
-Also in attendance was congressional candidate Blake Gendebien, a Lisbon-area dairy farmer who is running as a Democrat in New York’s 21st Congressional District.
+Read More Blake Gendebien Campaign Releases New Tv Ad, “Working Together” August 7, 2026 Press Release LISBON, N.Y. — Blake Gendebien, a second-generation dairy farmer, today released a new television advertisement, "Working Together," highlighting his record leading his dairy co-op and drawing a contrast with Anthony Constantino's refusal to break with party leadership even as farmers struggle with rising costs.
+Read More Gendebien seeks to bring farm values to Congress August 3, 2026 News Article OGDENSBURG — Nestled way up in a corner of the North Country where moose crossing signs outnumber gas stations, dairy farmer Blake Gendebien embodies the Democratic Party’s next great hope.
+Read More LETTER: Gendebien has what it takes July 29, 2026 News Article Blake clearly has both the direct knowledge and the experience to work as our representative in the House for all of us dealing with the daily tasks of feeding our families, handling health issues and other matters important in our lives.
+Read More ‘Primary care is not a luxury’: North Star’s Carthage, Philadelphia closure plans scrutinized July 29, 2026 News Article Also in attendance was congressional candidate Blake Gendebien, a Lisbon-area dairy farmer who is running as a Democrat in New York’s 21st Congressional District.
 “It’s 2026.
 Why is healthcare getting worse?” he said.
 “When you lose your primary care, it’s not just an inconvenience.
 It’s the difference between catching something early with your doctor and ending up in an emergency room because you had nowhere else to go.
 Primary care is supposed to be the front door to the healthcare system and when that door closes, people don’t stop getting sick.
-They just end up sicker and they end up costing the system more before anyone catches it.”
-North Star Health Alliance cuts draw community pushback at Carthage public hearing
-July 29, 2026
-Congressional candidate Blake Gendebein also spoke at the hearing, warning of the downstream effects of losing primary care access.
+They just end up sicker and they end up costing the system more before anyone catches it.” Read More North Star Health Alliance cuts draw community pushback at Carthage public hearing July 29, 2026 News Article Congressional candidate Blake Gendebein also spoke at the hearing, warning of the downstream effects of losing primary care access.
 “When you lose your primary care, it’s not just an inconvenience.
 It’s the difference between catching something early with your doctor and ending up in the emergency room because you have nowhere else to go,” Gendebein said.
+Read More < 1 2 3 4 5 … 9 > Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

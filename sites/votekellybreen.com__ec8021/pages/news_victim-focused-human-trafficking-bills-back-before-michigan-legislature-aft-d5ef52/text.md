@@ -1,6 +1,5 @@
-Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck
-Michigan Advance | January 21, 2026
-A key legislator behind an effort to overhaul Michigan’s human trafficking laws said she is hopeful — but not confident — that the Republican House majority will move reintroduced versions of the bills after they floundered during a previous chaotic lame duck session.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck Michigan Advance | January 21, 2026 A key legislator behind an effort to overhaul Michigan’s human trafficking laws said she is hopeful — but not confident — that the Republican House majority will move reintroduced versions of the bills after they floundered during a previous chaotic lame duck session.
 Still, state Rep.
 Kelly Breen (D-Novi) said the package was important enough to try again, considering the many obstacles victims of human trafficking face when they try to restart their lives after years or sometimes decades of abuse.
-Read More >
+Read More > Kelly Breen January 21, 2026 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Fallout over Trump post depicting himself as Jesus-like figure Kelly Breen April 15, 2026 Next Michigan lawmakers decry Trump moves against education department Kelly Breen February 17, 2025 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

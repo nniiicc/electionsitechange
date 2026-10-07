@@ -1,6 +1,4 @@
-Elect Karla Daniels Hooper
-for Georgia State Representative, District 113
-Proud Democrat.
+Top Home Meet Karla Issues Voting Info Contact Donate Elect Karla Daniels Hooper for Georgia State Representative, District 113 Proud Democrat.
 Trusted Leadership.
 Newton First.
 Welcome to the official website of Karla Daniels Hooper, your candidate for Georgia State Representative, District 113.
@@ -11,3 +9,6 @@ She believes in the power of collective action and is committed to turning words
 Join Karla Daniels Hooper in her mission to bring about real change for Newton County.
 Together, we can shape a future that honors our values, nurtures our families, and celebrates the potential of our community.
 Thank you for your support.
+On November 3, 2026 vote for Karla Daniels Hooper for Georgia State Representative, District 113 COUNTING DOWN TO Elect Karla!
+Support the Campaign Privacy Terms Political advertisement paid for and approved by Campaign to Elect Karla Daniels Hooper..
+Powered by OnlineCandidate.com .

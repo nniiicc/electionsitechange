@@ -1,5 +1,4 @@
-Why I Run for Office
-I run to bring the voices, ideas, and concerns of our district to Montpelier.
+0 Skip to Content Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Open Menu Close Menu Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Open Menu Close Menu Meet Emilie Why I Run Legislative Priorities Endorsements Get Involved Get in Touch Donate Why I Run for Office I run to bring the voices, ideas, and concerns of our district to Montpelier.
 I am continually inspired by the people I volunteer with and the community members I talk to.
 We live in a special community, where neighbors do help neighbors, and where many of us fight to ensure everyone feels welcome and safe.
 I will always do my part by representing these values in Montpelier.
@@ -20,3 +19,5 @@ I will always strive to have one foot in the state house and one foot in our com
 My favorite Ruth Bader Ginsberg quote is “Fight for the things that you care about, but do it in a way that will lead others to join you.” My father, Gerald Krasnow, served two terms as a VT State Representative and did that with honesty and humor.
 He taught me how impactful that can be and I intend to follow his lead.
 I am committed to lifting up the needs and the strengths of South Burlington every step of the way.
+Donate Paid for by Emilie Krasnow for South Burlington PO Box 2142, South Burlington, VT 05407.
+Ann Pugh, Treasurer

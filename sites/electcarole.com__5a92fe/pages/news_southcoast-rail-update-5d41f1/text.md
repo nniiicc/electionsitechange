@@ -1,16 +1,1 @@
-Skip to content
-Menu
-Home
-Meet Carole
-Events
-Photos
-News
-Fall River Housing Navigation Guide
-Hot Jobs
-Press Release
-Southcoast Rail Update
-Contact
-Keeping Up With Carole
-Southcoast Rail Update
-Download (PDF, 175KB)
-Download (PDF, 182KB)
+Skip to content Menu Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Southcoast Rail Update Download (PDF, 175KB) Download (PDF, 182KB) Sitemap Home Meet Carole Events Photos News Fall River Housing Navigation Guide Hot Jobs Press Release Southcoast Rail Update Contact Keeping Up With Carole Recent Posts 10/5/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/28/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 9/15/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 8/31/2026 Weekly Hot Jobs from the Fall River MassHire Career Center 4/6/2026 Weekly Hot Jobs from the Fall River MassHire Career Center Sign up to the Newsletter Email Address Find it 2016 Carole Fiola State Representative, The 6th Bristol District Fall River Marketing

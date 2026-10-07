@@ -1,5 +1,4 @@
-Meet Representative Tracy Miller
-Tracy Miller is serving her first term representing District 45 in the Utah House of Representatives.
+0 Skip to Content Home Meet Tracy Priorities Events Endorsements Results Contact Donate Open Menu Close Menu Home Meet Tracy Priorities Events Endorsements Results Contact Donate Open Menu Close Menu Home Meet Tracy Priorities Events Endorsements Results Contact Donate Meet Representative Tracy Miller Tracy Miller is serving her first term representing District 45 in the Utah House of Representatives.
 Tracy has lived in South Jordan for the past 20 years.
 She is the proud mother of three children and one daughter-in-law and has been married to her husband, Mike, for 30 years.
 She left her career in healthcare administration when her second child was born and loves being with her kids.
@@ -17,3 +16,8 @@ Tracy has a track record of being a positive, consistent voice of reason for our
 She asks the hard questions, listens intently, and collaborates with others on solutions.
 Her focus is good policy - not politics.
 With a proven record of public service and deep legislative knowledge and relationships, Tracy will continue to be an effective voice for our community at the State Capitol.
+Stay Updated With Tracy Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Subscribe Sign up with your email address to receive my newsletter.
+Email Address Sign Up Thank you!
+Site Information Copyright # All Rights Reserved Privacy Policy Paid for by Committee To Elect Tracy Miller

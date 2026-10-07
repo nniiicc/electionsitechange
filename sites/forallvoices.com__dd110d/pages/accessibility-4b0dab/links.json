@@ -1,33 +1,154 @@
 [
-"https://facebook.com/CMoralesCAGov?view_public_for=103680042208119",
-"https://forallvoices.com/",
-"https://forallvoices.com/accessibility",
-"https://forallvoices.com/contact-us",
-"https://forallvoices.com/district-map",
-"https://forallvoices.com/es/accessibility",
-"https://forallvoices.com/ja/accessibility",
-"https://forallvoices.com/ko/accessibility",
-"https://forallvoices.com/meet-cristian",
-"https://forallvoices.com/platform",
-"https://forallvoices.com/privacy-policy",
-"https://forallvoices.com/vi/accessibility",
-"https://forallvoices.com/volunteer",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf",
-"https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf",
-"https://forallvoices.com/zh/accessibility",
-"https://gab.com/CMoralesCAGov",
-"https://gettr.com/user/cmoralescagov",
-"https://instagram.com/cmoralescagov",
-"https://linkedin.com/in/cmoralescagov",
-"https://parler.com/user/CMoralesCAGov",
-"https://rumble.com/c/c-1317224",
-"https://secure.winred.com/cristian-morales-for-congress/donate-today",
-"https://tiktok.com/@cmoralescagov?lang=en",
-"https://twitter.com/CMoralesCaGov",
-"https://userway.org/",
-"https://youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+{
+"text": "Accessibility",
+"href": "https://forallvoices.com/accessibility/"
+},
+{
+"text": "Chinese",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-ch.pdf"
+},
+{
+"text": "Contact",
+"href": "https://forallvoices.com/contact-us/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/cristian-morales-for-congress/donate-today"
+},
+{
+"text": "District Map",
+"href": "https://forallvoices.com/district-map/"
+},
+{
+"text": "English",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-for-Congress-2026-en.pdf"
+},
+{
+"text": "Español",
+"href": "https://forallvoices.com/es/accessibility/"
+},
+{
+"text": "Home",
+"href": "https://forallvoices.com/"
+},
+{
+"text": "Japanese",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-jp.pdf"
+},
+{
+"text": "Korean",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-kr.pdf"
+},
+{
+"text": "Meet Cristian",
+"href": "https://forallvoices.com/meet-cristian/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "Platform",
+"href": "https://forallvoices.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://forallvoices.com/privacy-policy/"
+},
+{
+"text": "Search",
+"href": "javascript:void(0)"
+},
+{
+"text": "Spanish",
+"href": "https://forallvoices.com/wp-content/uploads/2026/08/Cristian-Morales-para-el-Congreso-2026-es.pdf"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://forallvoices.com/vi/accessibility/"
+},
+{
+"text": "UserWay Website Accessibility Widget",
+"href": "https://userway.org/"
+},
+{
+"text": "Vietnamese",
+"href": "https://forallvoices.com/wp-content/uploads/2026/09/Cristian-Morales-for-Congress-2026-vietnamese.pdf"
+},
+{
+"text": "Volunteer",
+"href": "https://forallvoices.com/volunteer/"
+},
+{
+"text": "[image: Cristian Morales for Congress]",
+"href": "https://forallvoices.com/"
+},
+{
+"text": "[image]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/CMoralesCAGov/?view_public_for=103680042208119"
+},
+{
+"text": "[tooltip: Gab]",
+"href": "https://gab.com/CMoralesCAGov"
+},
+{
+"text": "[tooltip: Gettr]",
+"href": "https://www.gettr.com/user/cmoralescagov"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/cmoralescagov/"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "https://www.linkedin.com/in/cmoralescagov/"
+},
+{
+"text": "[tooltip: Parler]",
+"href": "https://parler.com/user/CMoralesCAGov"
+},
+{
+"text": "[tooltip: Rumble]",
+"href": "https://rumble.com/c/c-1317224"
+},
+{
+"text": "[tooltip: TikTok]",
+"href": "https://www.tiktok.com/@cmoralescagov?lang=en"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/CMoralesCaGov"
+},
+{
+"text": "[tooltip: Youtube]",
+"href": "https://www.youtube.com/channel/UC_L9DxCqB9mlAjzsfRUqNvA"
+},
+{
+"text": "info@forallvoices.com",
+"href": "mailto:info@forallvoices.com"
+},
+{
+"text": "website accessibility",
+"href": "https://userway.org"
+},
+{
+"text": "中文 (简体)",
+"href": "https://forallvoices.com/zh/accessibility/"
+},
+{
+"text": "日本語",
+"href": "https://forallvoices.com/ja/accessibility/"
+},
+{
+"text": "한국어",
+"href": "https://forallvoices.com/ko/accessibility/"
+}
 ]

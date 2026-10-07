@@ -1,5 +1,4 @@
-Death With Dignity
-The New Hampshire motto of “Live Free or Die” is a unique one.
+0 Skip to Content Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Open Menu Close Menu Meet Claudia Issues Endorsements Voting Info Contact Donate Death With Dignity The New Hampshire motto of “Live Free or Die” is a unique one.
 It’s descriptive of a state in which its residents could live life freely, in a state of bliss, with no rules, regulations, or requirements.
 That is not the case here, or likely anywhere.
 At the very least, with a motto of “Live Free or Die,” you would expect NH to be one of the first states to have a Death with Dignity Law in place.
@@ -13,5 +12,6 @@ There are very stringent criteria, safeguards, and steps necessary before any as
 What it does do is help those with terminal illnesses and a life expectancy of less than six months end their pain and suffering in a compassionate, humane manner.
 It puts the decision in their own hands, allowing them to make their own choice.
 And importantly, having the option does not always mean someone will use it.
-According to Deathwithdignity.org, one in three people who choose Death with Dignity ultimately choose not to end their lives.
+According to Deathwithdignity.org , one in three people who choose Death with Dignity ultimately choose not to end their lives.
 For some, simply knowing they have the ability to make that choice, if they want it, is enough to provide comfort.
+PAID FOR BY CLAUDIA FOR A UNITED COMMUNITY | 9 SOUTH POLICY ST, SALEM, NH 03079 | CLAUDIA DEFURIA, TREASURER.

@@ -1,29 +1,122 @@
 [
-"http://calvertcountymd.gov/",
-"http://calvertcountymd.gov/100/Economic-Development",
-"http://calvertcountymd.gov/104/FireRescueEMS",
-"http://calvertcountymd.gov/121/Public-Works",
-"http://calvertcountymd.gov/130/Public-Transportation",
-"http://calvertcountymd.gov/132/Water-and-Sewer",
-"http://calverthealth.org/",
-"http://calvertnet.k12.md.us/",
-"http://circuitcourt.co.cal.md.us/",
-"http://dhr.maryland.gov/local-offices/calvert-county",
-"http://dllr.maryland.gov/county/smd",
-"http://mdcourts.gov/district/directories/courtmap.html",
-"http://registers.maryland.gov/main/calvert.html",
-"https://calvertcountymd.gov/103/Finance-and-Budget",
-"https://calvertcountymd.gov/836/General-Services",
-"https://calvertlibrary.info/",
-"https://facebook.com/jeffrielongjr",
-"https://instagram.com/jeffrielongjr",
-"https://jeffrielong.com/",
-"https://jeffrielong.com/about",
-"https://jeffrielong.com/calvert-resoruces",
-"https://jeffrielong.com/platform",
-"https://jeffrielong.com/prince-georges-resources",
-"https://jeffrielong.com/scholarship",
-"https://jeffrielong.com/updates",
-"https://secure.actblue.com/donate/friends-of-jeffrie-long-2",
-"https://twitter.com/jeffrielongjr"
+{
+"text": "About",
+"href": "https://www.jeffrielong.com/about"
+},
+{
+"text": "Calvert County",
+"href": "https://www.jeffrielong.com/calvert-resoruces"
+},
+{
+"text": "Click To View",
+"href": "http://circuitcourt.co.cal.md.us/"
+},
+{
+"text": "Click To View",
+"href": "http://dhr.maryland.gov/local-offices/calvert-county/"
+},
+{
+"text": "Click To View",
+"href": "http://registers.maryland.gov/main/calvert.html"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/100/Economic-Development"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/104/FireRescueEMS"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/121/Public-Works"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/130/Public-Transportation"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertcountymd.gov/132/Water-and-Sewer"
+},
+{
+"text": "Click To View",
+"href": "http://www.calverthealth.org/"
+},
+{
+"text": "Click To View",
+"href": "http://www.calvertnet.k12.md.us/"
+},
+{
+"text": "Click To View",
+"href": "http://www.dllr.maryland.gov/county/smd/"
+},
+{
+"text": "Click To View",
+"href": "http://www.mdcourts.gov/district/directories/courtmap.html#CALVERT"
+},
+{
+"text": "Click To View",
+"href": "https://calvertlibrary.info/"
+},
+{
+"text": "Click To View",
+"href": "https://www.calvertcountymd.gov/103/Finance-and-Budget"
+},
+{
+"text": "Click To View",
+"href": "https://www.calvertcountymd.gov/836/General-Services"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/friends-of-jeffrie-long-2"
+},
+{
+"text": "Issues",
+"href": "https://www.jeffrielong.com/platform"
+},
+{
+"text": "Jeffrie E.",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.jeffrielong.com/updates"
+},
+{
+"text": "Long, Jr",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "Prince George's County",
+"href": "https://www.jeffrielong.com/prince-georges-resources"
+},
+{
+"text": "Scholarship",
+"href": "https://www.jeffrielong.com/scholarship"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/jeffrielongjr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jeffrielongjr/"
+},
+{
+"text": "[image: JeffLongFinal-03.png]",
+"href": "https://www.jeffrielong.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jeffrielongjr"
+},
+{
+"text": "jeffrie.long@house.state.md.us",
+"href": "mailto:jeffrie.long@house.state.md.us"
+}
 ]

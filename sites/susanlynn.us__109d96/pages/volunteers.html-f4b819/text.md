@@ -1,10 +1,1 @@
-Home
-Links
-BIO
-Yard signs
-Car Door Magnets
-donate today
-Volunteer to help
-re-elect susan lynn
-Sign up below join our team.
-submit >
+Home Links BIO Yard signs Car Door Magnets donate today Volunteer to help re-elect susan lynn Sign up below join our team. submit > friends of susan lynn support this website Capitol office: 425 5th Avenue North, Suite 426, Cordell Hull Bldg., Nashville, TN 37243 | (615) 741-7462 | rep.susan.lynn@capitol.tn.gov

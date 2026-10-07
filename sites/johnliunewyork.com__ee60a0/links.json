@@ -1,7 +1,42 @@
 [
-"http://instagram.com/liu4newyork",
-"https://johnliunewyork.com/",
-"https://johnliunewyork.com/about",
-"https://ragtag.org/",
-"https://secure.actblue.com/donate/john-liu-2"
+{
+"text": "About",
+"href": "https://www.johnliunewyork.com/about"
+},
+{
+"text": "Check back for updates!",
+"href": "https://www.johnliunewyork.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-liu-2"
+},
+{
+"text": "[image: Empowered by Ragtag]",
+"href": "https://ragtag.org/"
+},
+{
+"text": "[image: John Liu for New York]",
+"href": "https://www.johnliunewyork.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/liu4newyork"
+},
+{
+"text": "funds@johnliunewyork.com",
+"href": "mailto:funds@johnliunewyork.com"
+},
+{
+"text": "lisa@johnliunewyork.com",
+"href": "mailto:lisa@johnliunewyork.com"
+},
+{
+"text": "press@johnliunewyork.com",
+"href": "mailto:press@johnliunewyork.com"
+},
+{
+"text": "volunteers@johnliunewyork.com",
+"href": "mailto:volunteers@johnliunewyork.com"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "Candidate for Utah State Legislature",
  "final_url": "https://move.forwardwith.us/events",
- "paid_for_by": null,
+ "fingerprint": "8c1a74f11d33d9074b620f3fe140b54ace3b0851",
+ "format": 3,
+ "paid_for_by": "",
  "title": "James Rich for Utah House District 6",
- "years_mentioned": []
+ "years_mentioned": [
+  "2039"
+ ]
 }

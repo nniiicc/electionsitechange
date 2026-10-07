@@ -1,50 +1,202 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform",
-"https://facebook.com/rickformn",
-"https://instagram.com/rickformn",
-"https://rickformn.com/",
-"https://rickformn.com/about-rick",
-"https://rickformn.com/contact-us",
-"https://rickformn.com/issues",
-"https://rickformn.com/privacy-policy",
-"https://rickformn.com/wp-content/uploads/2025/03/1.png",
-"https://rickformn.com/wp-content/uploads/2025/03/10.png",
-"https://rickformn.com/wp-content/uploads/2025/03/11.png",
-"https://rickformn.com/wp-content/uploads/2025/03/12.png",
-"https://rickformn.com/wp-content/uploads/2025/03/13.png",
-"https://rickformn.com/wp-content/uploads/2025/03/14.png",
-"https://rickformn.com/wp-content/uploads/2025/03/15.png",
-"https://rickformn.com/wp-content/uploads/2025/03/16.png",
-"https://rickformn.com/wp-content/uploads/2025/03/17.png",
-"https://rickformn.com/wp-content/uploads/2025/03/18.png",
-"https://rickformn.com/wp-content/uploads/2025/03/19.png",
-"https://rickformn.com/wp-content/uploads/2025/03/2.png",
-"https://rickformn.com/wp-content/uploads/2025/03/20.png",
-"https://rickformn.com/wp-content/uploads/2025/03/21.png",
-"https://rickformn.com/wp-content/uploads/2025/03/22.png",
-"https://rickformn.com/wp-content/uploads/2025/03/23.png",
-"https://rickformn.com/wp-content/uploads/2025/03/24.png",
-"https://rickformn.com/wp-content/uploads/2025/03/25.png",
-"https://rickformn.com/wp-content/uploads/2025/03/27.png",
-"https://rickformn.com/wp-content/uploads/2025/03/28.png",
-"https://rickformn.com/wp-content/uploads/2025/03/29.png",
-"https://rickformn.com/wp-content/uploads/2025/03/3.png",
-"https://rickformn.com/wp-content/uploads/2025/03/30.png",
-"https://rickformn.com/wp-content/uploads/2025/03/31.png",
-"https://rickformn.com/wp-content/uploads/2025/03/32.png",
-"https://rickformn.com/wp-content/uploads/2025/03/33.png",
-"https://rickformn.com/wp-content/uploads/2025/03/34.png",
-"https://rickformn.com/wp-content/uploads/2025/03/35.png",
-"https://rickformn.com/wp-content/uploads/2025/03/36.png",
-"https://rickformn.com/wp-content/uploads/2025/03/37.png",
-"https://rickformn.com/wp-content/uploads/2025/03/4.png",
-"https://rickformn.com/wp-content/uploads/2025/03/5.png",
-"https://rickformn.com/wp-content/uploads/2025/03/6.png",
-"https://rickformn.com/wp-content/uploads/2025/03/7.png",
-"https://rickformn.com/wp-content/uploads/2025/03/8.png",
-"https://rickformn.com/wp-content/uploads/2025/03/9.png",
-"https://secure.actblue.com/donate/richard-olson-1",
-"https://sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day",
-"https://youtube.com/@RickforMN"
+{
+"text": "About Rick",
+"href": "https://rickformn.com/about-rick/"
+},
+{
+"text": "CHIP IN $20 for RICK",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "Contact Us",
+"href": "https://rickformn.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/richard-olson-1"
+},
+{
+"text": "Issues",
+"href": "https://rickformn.com/issues/"
+},
+{
+"text": "Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScVDaR-q2eS6A-xzDy0QJZAhVNPaE98iBJcj-OelZyCWepYKA/viewform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://rickformn.com/privacy-policy/"
+},
+{
+"text": "Rick Olson for State Senate",
+"href": "https://rickformn.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeplFBDPa7BNoGY0qt5rxznkLvBwEM4dX0TYXJf-HTKi0qfrg/viewform"
+},
+{
+"text": "Voting Locations",
+"href": "https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/voting-locations-before-election-day/"
+},
+{
+"text": "[image: Rick Olson for State Senate]",
+"href": "https://rickformn.com/"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/1.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/10.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/11.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/12.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/13.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/14.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/15.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/16.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/17.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/18.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/19.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/2.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/20.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/21.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/22.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/23.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/24.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/25.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/27.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/28.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/29.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/3.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/30.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/31.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/32.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/33.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/34.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/35.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/36.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/37.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/4.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/5.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/6.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/7.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/8.png"
+},
+{
+"text": "[image]",
+"href": "https://rickformn.com/wp-content/uploads/2025/03/9.png"
+},
+{
+"text": "facebook",
+"href": "https://www.facebook.com/rickformn/"
+},
+{
+"text": "instagram",
+"href": "https://www.instagram.com/rickformn/"
+},
+{
+"text": "youtube",
+"href": "https://www.youtube.com/@RickforMN"
+}
 ]

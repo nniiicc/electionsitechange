@@ -1,32 +1,4 @@
-top of page
-Proven, Local LEADERSHIP
-Current State Representative for House District 39
-30+ Year Resident Of Our Community
-Husband, Father & Grandfather
-Get to know Doug Bankson
-Leadership
-Responsibility
-Integrity
-A PROVEN Local Leader
-YOU Can TRUST
-• State Representative for House District 39
-• Former Apopka Vice Mayor & City Commissioner
-• Former Chairman of Chamber of Commerce
-• Senior Pastor
-•Police Chaplain
-• Founder of K-12 Private School
-• Resident of District 39
-for over 30 years
-Commonsense Priorities
-FOR EVERYDAY FLORIDIANS
-COMBATING INFLATION
-with lower taxes & a balanced budget
-BUILDING FLORIDA’S ECONOMY
-with better job opportunities
-ENSURING ATTAINABLE HOUSING
-and lowering insurance costs
-PROTECTING THE ENVIRONMENT
-and fighting for our springs
-SUPPORTING OUR SCHOOLS
-and giving parents a voice in education
-bottom of page
+top of page ABOUT WHY I'M RUNNING THE ISSUES LEGISLATIVE HISTORY CONTACT DONATE More Use tab to navigate through the menu items.
+Proven, Local LEADERSHIP Current State Representative for House District 39 30+ Year Resident Of Our Community Husband, Father & Grandfather Get to know Doug Bankson Leadership Responsibility Integrity A PROVEN Local Leader YOU Can TRUST • State Representative for House District 39 • Former Apopka Vice Mayor & City Commissioner • Former Chairman of Chamber of Commerce • Senior Pastor • Police Chaplain • Founder of K-12 Private School • Resident of District 39 for over 30 years ​ Learn More About Doug Donate Donate Now The issues Read More » VOLUNTEER Join Team Bankson » Commonsense Priorities FOR EVERYDAY FLORIDIANS COMBATING INFLATION with lower taxes & a balanced budget BUILDING FLORIDA’S ECONOMY with better job opportunities ENSURING ATTAINABLE HOUSING and lowering insurance costs PROTECTING THE ENVIRONMENT and fighting for our springs SUPPORTING OUR SCHOOLS and giving parents a voice in education View Doug's Priorities ABOUT WHY I'M RUNNING THE ISSUES LEGISLATIVE HISTORY CONTACT DONATE More Use tab to navigate through the menu items.
+Join Team Bankson Let's Go!
+Paid by Doug Bankson, Republican, for State House. © # Doug Bankson Campaign Get Involved (407) 476-6787 bottom of page

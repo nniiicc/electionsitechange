@@ -1,5 +1,4 @@
-Assemblywoman Laurie Davies
-Laurie, like so many Californians, wasn’t born here.
+0 Skip to Content Welcome About Laurie Meet Laurie The District Legislation The Issues The Issues Attack Responses Endorsements Media Photos Video B-Roll Advertisements Memo Stay In Touch English CONTRIBUTE TODAY Open Menu Close Menu Welcome About Laurie Meet Laurie The District Legislation The Issues The Issues Attack Responses Endorsements Media Photos Video B-Roll Advertisements Memo Stay In Touch English CONTRIBUTE TODAY Open Menu Close Menu Welcome Folder: About Laurie Back Meet Laurie The District Legislation Folder: The Issues Back The Issues Attack Responses Endorsements Folder: Media Back Photos Video B-Roll Advertisements Memo Stay In Touch English Back CONTRIBUTE TODAY Assemblywoman Laurie Davies Laurie, like so many Californians, wasn’t born here.
 She visited California multiple times as a child, and it was during those trips she knew she wanted to live here as soon as she could.
 Laurie was born in Wisconsin, where she and her three brothers and one sister were raised by her parents Richard and Lois Davies.
 Her parents instilled in her the value of hard work and the importance of family.
@@ -25,3 +24,5 @@ Laurie was elected to the California State Assembly in 2020.
 In Sacramento, Laurie fights to keep prices affordable, our neighborhoods safe, and our coastline clean.
 She serves on the military, accountability, transportation, and water, parks, & wildlife committees.
 Laurie lives in Laguna Niguel with her husband, Neil.
+Learn About Laurie's Endorsements CONNECT WITH LAURIE ON SOCIAL MEDIA!
+Paid for by Laurie Davies for Assembly 2026 FPPC # 1477105 Terms of Use ‍ ‍ Privacy Policy

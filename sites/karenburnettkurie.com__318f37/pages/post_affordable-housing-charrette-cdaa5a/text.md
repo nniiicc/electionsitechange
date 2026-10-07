@@ -1,5 +1,5 @@
-Affordable Housing Charrette
-Recently the Washington Valley Housing Coalition organized an affordable housing charette in Ossipee, NH.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search Affordable Housing Charrette Karen Burnett-Kurie Oct 9, 2024 2 min read Recently the Washington Valley Housing Coalition organized an affordable housing charette in Ossipee, NH.
 There were two nights of public input, gathering feedback from the public regarding if county land should be used for creating housing.
 If so, how should this development address local housing needs?
 The idea was to provide housing for local people who are struggling to enter the housing market because of high prices and lack of inventory.
@@ -26,3 +26,6 @@ All the 'experts' volunteered.
 And the process expenses were paid for by the sponsors.
 So no money or commitment came from the county and no cost has been passed to anyone for this charette.
 We should be grateful for the wealth of information benefitting all of us at no cost.
+Affordability Housing Recent Posts See All Is Local Spending Really Out of Control?
+One Country Project Debunks Rural Health Fund Myths AARP’s Top 100 Places to Live in the U.S. for Older Adults Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

@@ -1,5 +1,4 @@
-As Your District 17 Representative I Will:
-Vote to Fully Fund Idaho Public Schools and Universities.
+0 Skip to Content Donate About Get in touch Volunteer Endorsements Donate Open Menu Close Menu Donate About Get in touch Volunteer Endorsements Donate Open Menu Close Menu Donate About Get in touch Volunteer Endorsements Donate As Your District 17 Representative I Will: Vote to Fully Fund Idaho Public Schools and Universities.
 Our investments in public education are an investment in the future of Idaho.
 By funding school infrastructure, we ensure that every child has a safe space to learn and grow.
 By funding teacher salaries and continuing education, we encourage high-quality educators to teach and stay in Idaho schools.
@@ -21,3 +20,4 @@ Idahoans deserve privacy and dignity when consulting their doctors about their m
 Fight for access to high-quality affordable child care.
 As a mom to three, I am acutely aware of the need for high-quality and affordable child care.
 As it stands, we have a shortage of care providers, and the care that is available is out of reach for many.
+Paid for by Megan Egbert for Idaho // Carrie Semmelroth, Treasurer Let's Get in Touch

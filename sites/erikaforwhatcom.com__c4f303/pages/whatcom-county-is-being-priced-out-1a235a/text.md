@@ -1,13 +1,5 @@
-top of page
-Whatcom County Is Being Priced Out
-Families Are Struggling to Keep Up
-Washington is now the 5th most expensive state in the nation, and Bellingham has been ranked as the most expensive small city in America.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate Whatcom County Is Being Priced Out Families Are Struggling to Keep Up Washington is now the 5th most expensive state in the nation , and Bellingham has been ranked as the most expensive small city in America .
 While families are living paycheck to paycheck, rising taxes, regulations, and the increasing cost of everyday necessities continue to put pressure on household budgets.
-The Reality Facing Local Families
-- Rising housing costs
-- Increasing grocery prices
-- Higher property taxes
-- Increased taxes on goods and services
-- Gas prices exceeding $6 per gallon!!!
+The Reality Facing Local Families Rising housing costs Increasing grocery prices Higher property taxes Increased taxes on goods and services Gas prices exceeding $6 per gallon!!!
 Whatcom County residents simply cannot afford more financial burdens.
-bottom of page
+Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

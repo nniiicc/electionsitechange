@@ -1,5 +1,6 @@
-March 2023 Letter
-Criminal Justice held two public hearings on eleven bills.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Prisons, Boycotts, and Budgets Prisons, Boycotts, and Budgets Prisons, Boycotts, and Budgets Mar 31, 2023 Mar 31, 2023 March 2023 Letter The Prison - 1 March 2023 - 15:56 - Concord, NH - Taken by Rep.
+Alissandra Murray The Prison - 1 March 2023 - 15:56 - Concord, NH - Taken by Rep.
+Alissandra Murray Criminal Justice held two public hearings on eleven bills.
 Ten of which were bills that had crossed over from the Senate early.
 The committee voted on thirty six bills, throughout two non-consecutive days this month.
 The deadline for bills to crossovers from their respective bodies was April the sixth.
@@ -87,5 +88,4 @@ With the sixth being the deadline to act on House bills, we will be forced to ei
 There will be no opportunity to move that it return to committee for more work if that is deemed necessary by the House.
 That means that we will have to be in session until the House can take an up or down vote on either the budget, or some form of continuing resolution.
 With the numbers as tight as they are, and the budget in a tighter position with the Republican majority rolling back taxes on the business class, it could end up being hard to find consensus among the House.
-We shall see next month.
-Back to all
+We shall see next month. ‹ The State Budget ‹ The State Budget ‹ The State Budget Tough Subjects, Cold Days › Tough Subjects, Cold Days › Tough Subjects, Cold Days › Back to all

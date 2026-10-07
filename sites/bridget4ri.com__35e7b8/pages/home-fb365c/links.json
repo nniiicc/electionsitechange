@@ -1,13 +1,58 @@
 [
-"https://bridget4ri.com/",
-"https://bridget4ri.com/contact",
-"https://bridget4ri.com/endorsements",
-"https://bridget4ri.com/home",
-"https://bridget4ri.com/issues",
-"https://bridget4ri.com/meet-bridget",
-"https://bridget4ri.com/search",
-"https://bridget4ri.com/vote",
-"https://facebook.com/Bridget4RI",
-"https://secure.actblue.com/donate/bridget4ri",
-"https://twitter.com/bridget4RI"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bridget4ri"
+},
+{
+"text": "Endorsements",
+"href": "https://bridget4ri.com/endorsements"
+},
+{
+"text": "Get in Touch",
+"href": "https://bridget4ri.com/contact"
+},
+{
+"text": "Home",
+"href": "https://bridget4ri.com/home"
+},
+{
+"text": "Issues",
+"href": "https://bridget4ri.com/issues"
+},
+{
+"text": "Meet Bridget",
+"href": "https://bridget4ri.com/meet-bridget"
+},
+{
+"text": "Say Hello",
+"href": "https://bridget4ri.com/contact"
+},
+{
+"text": "Voting Info",
+"href": "https://bridget4ri.com/vote"
+},
+{
+"text": "[image: Bridget Valverde - RI State Senator]",
+"href": "https://bridget4ri.com/"
+},
+{
+"text": "[image: email-32.png]",
+"href": "https://bridget4ri.com/contact"
+},
+{
+"text": "[image: facebook-4-32.png]",
+"href": "https://www.facebook.com/Bridget4RI"
+},
+{
+"text": "[image: facebook]",
+"href": "https://www.facebook.com/Bridget4RI/"
+},
+{
+"text": "[image: twitterwhite-32.png]",
+"href": "https://twitter.com/bridget4RI"
+},
+{
+"text": "[no text]",
+"href": "https://bridget4ri.com/search"
+}
 ]

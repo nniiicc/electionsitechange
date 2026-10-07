@@ -1,15 +1,58 @@
 [
-"https://clydeforcongress.com/en-espanol",
-"https://clydeforcongress.com/endorsements",
-"https://clydeforcongress.com/home",
-"https://clydeforcongress.com/issues",
-"https://clydeforcongress.com/privacy",
-"https://clydeforcongress.com/volunteer",
-"https://facebook.com/ClydeJonesForCongress",
-"https://instagram.com/clydejonesforcongress",
-"https://mobilize.us/clydejonesforcongress",
-"https://myinfo.alabamavotes.gov/VoterView",
-"https://secure.actblue.com/donate/clyde-jones-al",
-"https://sos.alabama.gov/alabama-votes/voter/register-to-vote",
-"https://tiktok.com/@clydeforcongress"
+{
+"text": "Check My Voter Registration",
+"href": "https://myinfo.alabamavotes.gov/VoterView"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clyde-jones-al"
+},
+{
+"text": "En Español",
+"href": "https://clydeforcongress.com/en-espanol"
+},
+{
+"text": "Endorsements",
+"href": "https://clydeforcongress.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/clydejonesforcongress/"
+},
+{
+"text": "Home",
+"href": "https://clydeforcongress.com/home"
+},
+{
+"text": "Issues",
+"href": "https://clydeforcongress.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://clydeforcongress.com/privacy"
+},
+{
+"text": "Register To Vote",
+"href": "https://www.sos.alabama.gov/alabama-votes/voter/register-to-vote"
+},
+{
+"text": "TERMS OF USE",
+"href": "https://clydeforcongress.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://clydeforcongress.com/volunteer"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.facebook.com/ClydeJonesForCongress"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.instagram.com/clydejonesforcongress"
+},
+{
+"text": "[image: social media icon]",
+"href": "https://www.tiktok.com/@clydeforcongress"
+}
 ]

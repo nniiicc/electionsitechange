@@ -1,4 +1,4 @@
-| We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
+UT 74 VOTE ABOUT Posts Experience Contact Not like the last recession 3/19/2020 Graphics published by the Wall Street Journal Daily Shot 2019 03 18 We are in Recession The United States moved into recession because of COVID-19 and subsequent governmental actions.
 It hasn't been confirmed by official statistics, that will take time.
 A recession is defined as two consecutive quarters of falling Gross Domestic Product (GDP).
 The first quarter of 2020 will show a small drop in GDP because of COVID-19 personal distancing measures and impacts to nonessential business implemented by governments in March.
@@ -48,4 +48,5 @@ Secure credit when times are good.
 Third, change is inevitable.
 We can't always predict the source of change, but we can adapt and be responsive to change.
 Our world changed in the matter of a few months.
-The more quickly we make adjustments, the quicker we will begin the process of recovering. | |
+The more quickly we make adjustments, the quicker we will begin the process of recovering.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

@@ -1,5 +1,4 @@
-Why We’re Running: A Real Alternative for Maryland
-Marylanders deserve a government that solves real problems—housing, healthcare, schools, transit, clean air and water—not another round of two-party trench warfare.
+0 Skip to Content Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Open Menu Close Menu Open Menu Close Menu Home About Meet Andy Meet Owen Why We Are Running Campaign Plan Media News Livestream Podcast Get Involved Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Issues Priorities Platform Donate Home Folder: About Back Meet Andy Meet Owen Why We Are Running Campaign Plan Folder: Media Back News Livestream Podcast Folder: Get Involved Back Events Volunteer Take Action Yard Signs Bumper Stickers Merchandise Folder: Issues Back Priorities Platform Donate Why We’re Running: A Real Alternative for Maryland Marylanders deserve a government that solves real problems—housing, healthcare, schools, transit, clean air and water—not another round of two-party trench warfare.
 The current system concentrates power, narrows debate, and blocks practical solutions.
 We’re running to change the incentives: to open Maryland’s politics to more voices, more ideas, and better outcomes.
 The two-party system is destroying our country and our state.
@@ -16,8 +15,7 @@ Most Maryland voters have very little say to determine their present or future.
 Most residents live in counties or districts where one party controls the vast majority of elected offices, and elections are determined in the primary.
 One quarter of the General Assembly is appointed, not elected, and the decades-long Democratic Party supermajority makes politicians in both parties responsive to donors, party leaders, and national narratives.
 Despite that power (or because of it), Democrats have been unable or unwilling to address sky-high rental eviction rates, incarceration patterns, and economic inequality.
-A Case for Multiparty Democracy
-More parties on the ballot mean more ideas on the table, more communities represented, and more voters engaged in the process.
+A Case for Multiparty Democracy More parties on the ballot mean more ideas on the table, more communities represented, and more voters engaged in the process.
 All of these things lead to more responsive candidates and elected officials.
 More parties in power increase the chance for compromise.
 When there are more voices representing more communities, resources are distributed more equitably, and opportunities increase for everyone.
@@ -25,8 +23,7 @@ Multiparty democracies are more collaborative.
 A multiparty system will not solve all that ails our democracy, and it cannot single-handedly abolish big money influence, but it can be better.
 More justice, more democracy, more peace, and a better approach to the climate and inequality crises are possible.
 This campaign is about building that future.
-Why the Green Party
-We are seeking the nomination of the Maryland Green Party, because the party has a track record of working for the people and against the powerful.
+Why the Green Party We are seeking the nomination of the Maryland Green Party, because the party has a track record of working for the people and against the powerful.
 The Maryland Green Party has been on the ballot for 25 years.
 We have run over 130 races for state, local, and federal offices.
 We have run candidates that raise issues ignored by the Democrats and Republicans.
@@ -46,3 +43,7 @@ Maryland needs a party that recognizes and stands by the truth that reparations 
 Maryland needs a Green Party that stands for climate and environmental policies that force polluters to pay instead of communities.
 Maryland needs a party that will change the game, not maintain more of the same.
 That is why we are proud to run as Green Party candidates and seek the nomination of a party we have each been a part of for a decade.
+Like what you see?
+Join the movement.
+DONATE volunteer Green Party Candidates for Governor & Lt.
+Governor 2026 Send us an email at andy@gogreen2026.com Contact News Press Kit Authority: Campaign Donations for Andy Ellis, Brian Bittner Treasurer

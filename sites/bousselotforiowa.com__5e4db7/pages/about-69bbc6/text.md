@@ -1,5 +1,4 @@
-Meet Mike
-Mike is an Iowan.
+Home Meet Mike Volunteer Donate Donate Meet Mike Mike is an Iowan.
 He grew up here, went to school here, and has made his life here in business and in public service.
 Mike is a small business owner who has built workforce housing throughout Iowa.
 Today, he lives in Ankeny and serves in the Iowa State Senate.
@@ -18,3 +17,4 @@ He has made his life, business, and public service here in Iowa.
 He serves on the Board of Directors of the Iowa Sports Foundation, which hosts the Iowa Games, co-founded Professionals for Charity, and is an active member of St.
 Luke the Evangelist Catholic Church in Ankeny.
 Growing up in Davenport, both of Mike’s parents came from farm families, working for and retiring from John Deere.
+Home Meet Mike Volunteer Donate Donate Paid for by Bousselot for Iowa Privacy Policy | Terms & Conditions

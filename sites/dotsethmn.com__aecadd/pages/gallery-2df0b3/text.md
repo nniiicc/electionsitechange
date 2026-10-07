@@ -1,24 +1,2 @@
-Home
-Who
-Endorsements
-Issues
-Gallery
-Ads
-Volunteer
-Donate
-Social
-Shop
-Home
-Who
-Endorsements
-Issues
-Gallery
-Ads
-Volunteer
-Donate
-Social
-Shop
-Gallery
-Jeff is out and about
-Enjoy these shots of Jeff, family, and even some from on the campaign trail.
-Scroll to top
+Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Home Who Endorsements Issues Gallery Ads Volunteer Donate Social Shop Gallery Jeff is out and about Enjoy these shots of Jeff, family, and even some from on the campaign trail.
+Donate Here Online • PayPal • Check Contact Jeff Call me at 218-485-1168 Email me at [email protected] Prepared and Paid for by Dotseth Volunteer Committee PO Box 2 Kettle River Minnesota 55757 Log out | Edit Scroll to top

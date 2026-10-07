@@ -1,12 +1,46 @@
 [
-"http://instagram.com/wisconsinlarson",
-"https://bsky.app/profile/chrisjlarson.bsky.social",
-"https://facebook.com/VoteChrisLarson",
-"https://maps.legis.wisconsin.gov/Home/SingleEmbed?house=s&district=7",
-"https://myvote.wi.gov/",
-"https://secure.actblue.com/donate/chris-larson-1",
-"https://substack.com/@wisconsinlarson",
-"https://voteforlarson.org/",
-"https://voteforlarson.org/about-chris",
-"https://voteforlarson.org/volunteer"
+{
+"text": "About Chris",
+"href": "https://voteforlarson.org/about-chris/"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/chrisjlarson.bsky.social"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chris-larson-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteChrisLarson"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/wisconsinlarson"
+},
+{
+"text": "Substack",
+"href": "https://substack.com/@wisconsinlarson"
+},
+{
+"text": "Volunteer",
+"href": "https://voteforlarson.org/volunteer/"
+},
+{
+"text": "Voter Information",
+"href": "https://myvote.wi.gov/"
+},
+{
+"text": "[image: District 7 Map]",
+"href": "https://maps.legis.wisconsin.gov/Home/SingleEmbed/?house=s&district=7"
+},
+{
+"text": "[image: Vote for Larson]",
+"href": "https://voteforlarson.org/"
+},
+{
+"text": "info@voteforlarson.org",
+"href": "mailto:info@voteforlarson.org"
+}
 ]

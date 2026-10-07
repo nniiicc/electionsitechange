@@ -1,25 +1,146 @@
 [
-"http://politicia-demo.pbminfotech.com/demo1",
-"https://facebook.com/JanelleKSarauw",
-"https://instagram.com/teamsarauw",
-"https://sarauwforcongress.com/",
-"https://sarauwforcongress.com/about",
-"https://sarauwforcongress.com/contact-us",
-"https://sarauwforcongress.com/faq",
-"https://sarauwforcongress.com/full-platform",
-"https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament",
-"https://sarauwforcongress.com/our-history",
-"https://sarauwforcongress.com/principle-stability-in-the-future-with-activity",
-"https://sarauwforcongress.com/service",
-"https://sarauwforcongress.com/service-category/government",
-"https://sarauwforcongress.com/service/healthcare-medicaid",
-"https://sarauwforcongress.com/service/prescription-drug-costs",
-"https://sarauwforcongress.com/service/rum-cover-over-gers",
-"https://sarauwforcongress.com/service/veterans-care",
-"https://sarauwforcongress.com/services",
-"https://secure.actblue.com/donate/sarauw26for26",
-"https://statcounter.com/",
-"https://tiktok.com/@sarauw.for.congress",
-"https://vivote.gov/voters/register-to-vote",
-"https://whatsapp.com/channel/0029Vb7dyngEQIamNyZLt70Z"
+{
+"text": "About",
+"href": "https://sarauwforcongress.com/about/"
+},
+{
+"text": "Call for help: +1 340-642-0876",
+"href": "tel:+1%20340-642-0876"
+},
+{
+"text": "Contact Us",
+"href": "https://sarauwforcongress.com/contact-us/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/sarauw26for26"
+},
+{
+"text": "E-mail us: info@sarauwforcongress.com",
+"href": "mailto:info@sarauwforcongress.com"
+},
+{
+"text": "FAQ",
+"href": "https://sarauwforcongress.com/faq/"
+},
+{
+"text": "Full Platform",
+"href": "https://sarauwforcongress.com/full-platform/"
+},
+{
+"text": "Government",
+"href": "https://sarauwforcongress.com/service-category/government/"
+},
+{
+"text": "Healthcare & Medicaid",
+"href": "https://sarauwforcongress.com/service/healthcare-medicaid/"
+},
+{
+"text": "Home",
+"href": "https://sarauwforcongress.com/"
+},
+{
+"text": "How to invent a law & pass it in parliament",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "Issues",
+"href": "https://sarauwforcongress.com/services/"
+},
+{
+"text": "July 20, 2020",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+},
+{
+"text": "June 10, 2020",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "Our History",
+"href": "https://sarauwforcongress.com/our-history/"
+},
+{
+"text": "Politicia",
+"href": "http://politicia-demo.pbminfotech.com/demo1/"
+},
+{
+"text": "Prescription Drug Costs",
+"href": "https://sarauwforcongress.com/service/prescription-drug-costs/"
+},
+{
+"text": "Previous ServiceRum Cover-Over & GERS",
+"href": "https://sarauwforcongress.com/service/rum-cover-over-gers/"
+},
+{
+"text": "Principle stability in the future with activity",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+},
+{
+"text": "Rum Cover-Over & GERS",
+"href": "https://sarauwforcongress.com/service/rum-cover-over-gers/"
+},
+{
+"text": "Sarauw For Congress",
+"href": "https://sarauwforcongress.com"
+},
+{
+"text": "Services",
+"href": "https://sarauwforcongress.com/service/"
+},
+{
+"text": "Veterans Care",
+"href": "https://sarauwforcongress.com/service/veterans-care/"
+},
+{
+"text": "[image: Sarauw For Congress]",
+"href": "https://sarauwforcongress.com/"
+},
+{
+"text": "[image: web analytics]",
+"href": "https://statcounter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://sarauwforcongress.com/full-platform/"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/sarauw26for26"
+},
+{
+"text": "[no text]",
+"href": "https://vivote.gov/voters/register-to-vote/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JanelleKSarauw"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teamsarauw/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@sarauw.for.congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.whatsapp.com/channel/0029Vb7dyngEQIamNyZLt70Z"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/JanelleKSarauw"
+},
+{
+"text": "[tooltip: How to invent a law & pass it in parliament]",
+"href": "https://sarauwforcongress.com/how-to-invent-a-law-pass-it-in-parliament/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/teamsarauw/"
+},
+{
+"text": "[tooltip: Principle stability in the future with activity]",
+"href": "https://sarauwforcongress.com/principle-stability-in-the-future-with-activity/"
+}
 ]

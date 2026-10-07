@@ -1,21 +1,94 @@
 [
-"https://facebook.com/WillsforIowa",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=86&pid=13794",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=86&pid=13794&type=fm",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=87&pid=13794",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=87&pid=13794&type=fm",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=88&pid=13794",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=88&pid=13794&type=fm",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89",
-"https://legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89&pid=13794",
-"https://secure.anedot.com/wills-for-iowa/donate",
-"https://twitter.com/willsforiowa",
-"https://willsforiowa.com/",
-"https://willsforiowa.com/about-me",
-"https://willsforiowa.com/arounddistrictone",
-"https://willsforiowa.com/connect-with-me",
-"https://willsforiowa.com/forum",
-"https://willsforiowa.com/legislative-priorities",
-"https://willsforiowa.com/members",
-"https://willsforiowa.com/news"
+{
+"text": "86th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=86&pid=13794"
+},
+{
+"text": "86th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=86&pid=13794&type=fm"
+},
+{
+"text": "87th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=87&pid=13794"
+},
+{
+"text": "87th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=87&pid=13794&type=fm"
+},
+{
+"text": "88th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=88&pid=13794"
+},
+{
+"text": "88th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=88&pid=13794&type=fm"
+},
+{
+"text": "89th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89"
+},
+{
+"text": "89th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89&pid=13794"
+},
+{
+"text": "90th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89"
+},
+{
+"text": "90th General Assembly",
+"href": "https://www.legis.iowa.gov/legislation/findLegislation/findBillBySponsorOrManager?ga=89&pid=13794"
+},
+{
+"text": "Around District Ten",
+"href": "https://www.willsforiowa.com/arounddistrictone"
+},
+{
+"text": "Connect with Me",
+"href": "https://www.willsforiowa.com/connect-with-me"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/wills-for-iowa/donate"
+},
+{
+"text": "Forum",
+"href": "https://www.willsforiowa.com/forum"
+},
+{
+"text": "Home",
+"href": "https://www.willsforiowa.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.willsforiowa.com/legislative-priorities"
+},
+{
+"text": "Meet John",
+"href": "https://www.willsforiowa.com/about-me"
+},
+{
+"text": "Members",
+"href": "https://www.willsforiowa.com/members"
+},
+{
+"text": "Newsletters",
+"href": "https://www.willsforiowa.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/WillsforIowa/"
+},
+{
+"text": "[image: Logo.jpg]",
+"href": "https://www.willsforiowa.com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/willsforiowa"
+},
+{
+"text": "willsforiowa@gmail.com",
+"href": "mailto:willsforiowa@gmail.com"
+}
 ]

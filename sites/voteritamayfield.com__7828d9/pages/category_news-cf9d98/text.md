@@ -1,24 +1,9 @@
-Your support is APPRECIATED!!!!
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Category: news May 19, 2025 Please Join Us On June 10th! news by staff 0 comments Your support is APPRECIATED!!!!
 If unable to attend, please support my re-election.
-Checks can be mailed to: Friends of Rita […]
-Category: news
-Sierra Club Endorsed
-I am honored by the endorsement of Sierra Club Illinois!
-Protecting our environment is very important to me and appreciate […]
-Please Join Our Holiday Kick Event!
-You are invited to a holiday kick off event in support of Rita, Erin and Mary on December 7th in […]
-Gun Safety Report Card A+
-“We congratulate you on receiving an A+ on the Gun Violence Prevention Action Committee’s 2021 Gun Safety Report Card and […]
-2022 Campaign Kick Off!
-Celebrate the 2022 campaign kickoff for Lake County legislators at a fundraiser on Thursday, May 26th.
-The event takes place […]
-Please join in support of Rita on March 26th
-Please join speaker Emanuel “Chris” Welch in support of State Representative Rita Mayfield on March 26th.
-Free event for all my volunteers!
-Along with Sam Yingling for State Senate and Joyce Mason for State Representative, we are holding an appreciation event Saturday […]
-Please Join Us on January 29th
-You are invited to a celebration of Rep.
+Checks can be mailed to: Friends of Rita […] Read more >> February 6, 2024 February 6, 2024 Sierra Club Endorsed news by staff 0 comments I am honored by the endorsement of Sierra Club Illinois!
+Protecting our environment is very important to me and appreciate […] Read more >> November 3, 2023 Please Join Our Holiday Kick Event! news by staff 0 comments You are invited to a holiday kick off event in support of Rita, Erin and Mary on December 7th in […] Read more >> July 21, 2022 Please Join in Support of Rita on September 17th! news by staff 0 comments Read more >> July 21, 2022 July 21, 2022 Gun Safety Report Card A+ news by staff 0 comments “We congratulate you on receiving an A+ on the Gun Violence Prevention Action Committee’s 2021 Gun Safety Report Card and […] Read more >> May 1, 2022 May 1, 2022 2022 Campaign Kick Off! news by staff 0 comments Celebrate the 2022 campaign kickoff for Lake County legislators at a fundraiser on Thursday, May 26th.
+The event takes place […] Read more >> February 16, 2022 February 16, 2022 Please join in support of Rita on March 26th news by staff 0 comments Please join speaker Emanuel “Chris” Welch in support of State Representative Rita Mayfield on March 26th.
+Read more >> February 15, 2022 March 1, 2022 Free event for all my volunteers! news by staff 0 comments Along with Sam Yingling for State Senate and Joyce Mason for State Representative, we are holding an appreciation event Saturday […] Read more >> November 29, 2021 November 29, 2021 Please Join Us on January 29th news by staff 0 comments You are invited to a celebration of Rep.
 Rita Mayfield on Saturday, January 29th at 6:30pm.
-The event will be […]
-November is Native American Heritage Month
-November is Native American Heritage Month, a time to celebrate the diverse culture and traditions of indigenous people, and a […]
+The event will be […] Read more >> November 23, 2021 November is Native American Heritage Month news by staff 0 comments November is Native American Heritage Month, a time to celebrate the diverse culture and traditions of indigenous people, and a […] Read more >> Posts navigation Older posts Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

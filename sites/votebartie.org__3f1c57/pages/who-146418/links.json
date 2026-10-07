@@ -1,8 +1,34 @@
 [
-"https://secure.actblue.com/donate/votebartie",
-"https://votebartie.org/home",
-"https://votebartie.org/private-policy",
-"https://votebartie.org/termsandconditions",
-"https://votebartie.org/where",
-"https://votebartie.org/who"
+{
+"text": "Home",
+"href": "https://votebartie.org/home"
+},
+{
+"text": "Power This Campaign Foward!",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votebartie.org/private-policy"
+},
+{
+"text": "Stand With Us Today!",
+"href": "https://secure.actblue.com/donate/votebartie"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://votebartie.org/termsandconditions"
+},
+{
+"text": "Terms of Service",
+"href": "https://votebartie.org/termsandconditions"
+},
+{
+"text": "Where I Stand.",
+"href": "https://votebartie.org/where"
+},
+{
+"text": "Who Am I?",
+"href": "https://votebartie.org/who"
+}
 ]

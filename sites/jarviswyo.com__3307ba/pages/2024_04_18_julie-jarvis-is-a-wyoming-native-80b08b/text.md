@@ -1,6 +1,6 @@
-Wyoming roots run deeper.
+Video Learn More About Julie Julie’s Views Contribute Donate Request a Yard Sign Volunteer Contact About Julie Julie Jarvis is a Wyoming native April 18, 2024 Wyoming roots run deeper.
 A fourth-generation Basque Wyomingite, born and raised on a small farm outside of Buffalo, Julie lives and loves the Wyoming way.
 She grew up practicing conservative values – faith, family, sports, fishing, honesty, hunting, and living below your means.
 With the work ethic of a farm kid, she graduated Buffalo High School as a valedictorian while working two jobs, then played DII intercollegiate soccer and volleyball.
 Throughout her life, she’s worked in many of Wyoming’s proudest industries: concrete, oil and gas industry bookkeeping, lifeguarding, coaching, and across education.
-She is now the Director of Teaching and Learning in the Natrona County School District.
+She is now the Director of Teaching and Learning in the Natrona County School District. previous Julie Jarvis represents the people next Julie Jarvis fights for parents’ rights Latest News Meet Julie Jarvis Julie Jarvis fights for true freedom Julie Jarvis fights for parents’ rights Categories About Julie Paid for by Friends of Julie Jarvis Contact julie@jarviswyo.com Friends of Julie Jarvis PO Box 511 Casper, WY 82602 Popular Links Meet Julie Julie’s Views Contact Contact form 1 News Contact

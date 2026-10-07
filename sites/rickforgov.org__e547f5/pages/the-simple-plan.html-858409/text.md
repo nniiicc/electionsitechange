@@ -1,5 +1,4 @@
-TAKING IT BACK and THE SIMPLE PLAN:
-The Good Life is under serious threat, and working-class Nebraskans aren't to blame.
+Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear Menu RICK BEARD FOR GOVERNOR Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear TAKING IT BACK and THE SIMPLE PLAN: The Good Life is under serious threat, and working-class Nebraskans aren't to blame.
 We want decent-paying jobs, the ability to raise a family, affordable health care, clean air, and clean water.
 How are people supposed to get ahead when Nebraska fights minimum wage increases while giving tax breaks to corporations that underpay our workers?
 Property taxes keep rising while expenses outrun wages.
@@ -29,7 +28,8 @@ Imagine how many people would leave the state if alcohol was made illegal.
 Below is a list of actions for key issues in Nebraska.
 1.
 Eliminate the ability for corporations, PACs, and special interest groups to funnel money into elections and to our elected officials.
-This will be accomplished through legislation similar but not limited to The Montana Plan I-94 and Hawaii's S.B. 2471.
+This will be accomplished through legislation similar but not limited to The Montana Plan I-94 and Hawaii's S.B.
+2471.
 This is probably the most critical and important action we can take to recover our state.
 Corporate and special interest groups give money to our elected representatives to uphold their wishes over the will of the voters.
 If you've ever wondered why our votes aren't respected, this is why.
@@ -38,7 +38,7 @@ The Montana Plan uses the state's authority to define what powers corporations g
 This is a top issue for voters across the entire country, with very little open discussion regarding this in Nebraska.
 This is how we actually deal with and remove the corruption in Nebraska politics.
 2.
-Enact a statewide ban on new data center permits and require intense environmental impact studies on all data centers.
+Enact a statewide pause on new data center permits and require intense environmental impact studies on all data centers.
 We will have state auditors run full audits on all data centers receiving tax incentives through the ImagiNE Nebraska Act.
 By enforcing sections 33, 37, and 66 of the ImaginNE Nebraska Act, Nebraska can recapture years of tax credits from corporations failing to uphold their requirements set forth in the legislation.
 This is fairly cut and dry and appears it will not require extensive litigation and large funding from the state.
@@ -48,28 +48,22 @@ Now that the humanity ending threat of AI data centers has surfaced and been pub
 When other candidates and elected officials do not champion this or similar policy, it's obviously because they are getting paid off by the corporations building the data centers and power plants.
 3.
 Immediately fire the entire Medical Cannabis Board and personally take over all of their duties and responsibilities as governor.
-My short term plan to immediately implement a functioning and highly profitable medical cannabis program for Nebraska looks like this.
-a.
-Due to recent federal rescheduling of cannabis from schedule one to schedule three, Nebraska can begin by importing medical cannabis products from other states with medical cannabis programs and production.
-b.
+My short term plan to immediately implement a functioning and highly profitable medical cannabis program for Nebraska looks like this. a.
+Due to recent federal rescheduling of cannabis from schedule one to schedule three, Nebraska can begin by importing medical cannabis products from other states with medical cannabis programs and production. b.
 Like state run liquor programs, Nebraska will have a state run cannabis program with wholesale, retail, testing, enforcement, and distribution.
 We start this systems as we license Nebraska farmers to grow medical cannabis in controlled environments (indoors).
 This creates a system that is more profitable for the state with wholesale profit AND sales tax revenue, regulated with oversight that prevents bad players, cartel, and out of state corporations from taking profits that should remain in Nebraska.
-We can't afford to dismiss this serious revenue stream for Nebraska, especially considering the condition of our state's finances.
-***We put cannabis profits and tax revenue directly into our schools, preventing further levy and property tax increases.
-This is a real solution to our runaway property taxes, for the farms and the metros.***
-c.
+We can't afford to dismiss this serious revenue stream for Nebraska, especially considering the condition of our state's finances. ***We put cannabis profits and tax revenue directly into our schools, preventing further levy and property tax increases.
+This is a real solution to our runaway property taxes, for the farms and the metros.*** c.
 Nebraska immediately starts making revenue before investing in heavy infrastructure.
 This all happens through licensing existing hemp and CBD shops to sell medical cannabis while giving doctors the protections they need to write recommendations for patients.
-We import the bulk of products to start while our farms and processors are licensed and come into production.
-d.
+We import the bulk of products to start while our farms and processors are licensed and come into production. d.
 The federal rescheduling also makes possible medical cannabis contracts with the Unites States Government (Veterans) and biomass export to other states or countries for processing.
-The potential profits are too good to ignore considering the struggles our farmers are experiencing.
-e.
+The potential profits are too good to ignore considering the struggles our farmers are experiencing. e.
 Donald Trump, who most of our rural farming communities voted for, rescheduled cannabis making it a legal and viable crop for Nebraska.
-Let's grow!
-f.
-Stop arresting citizens for cannabis possession. 23% of all drug arrests in the US are for cannabis, mostly for low level possession charges.
+Let's grow! f.
+Stop arresting citizens for cannabis possession.
+23% of all drug arrests in the US are for cannabis, mostly for low level possession charges.
 This needs to end.
 4.
 Kick start Nebraska's new industrial hemp business with incentives for growers, processors, and production centers.
@@ -77,20 +71,14 @@ We'll connect homebuilders and hemp product manufacturers to create new building
 Blocks, 4x8 panels, flooring, roofing, insulation, rope, yarn, bio-diesel, chicken feed, and fabric for clothing can all be made from hemp.
 Unlike any other state, Nebraska is poised to do this with its heavy agricultural infrastructure, highly capable farmers, and the environment to realistically grow heavy crops of hemp.
 Dr.
-Santra, a hemp research doctor at UNL, confirms through his many studies that Nebraska is the perfect setting for a successful industrial hemp business.
-a.
-When we remove the lobby money that works against a successful hemp industry we will start seeing real change and business options for our farms.
-b.
-We can be leaders in renewable green building supplies and the. hemp textile industry, creating rural revenue while cleaning nitrates from our soil and water through hemp farming.
-c.
+Santra, a hemp research doctor at UNL, confirms through his many studies that Nebraska is the perfect setting for a successful industrial hemp business. a.
+When we remove the lobby money that works against a successful hemp industry we will start seeing real change and business options for our farms. b.
+We can be leaders in renewable green building supplies and the. hemp textile industry, creating rural revenue while cleaning nitrates from our soil and water through hemp farming. c.
 I will work with our universities to promote industrial hemp curriculum to our students, future farmers, and future Nebraska hemp industry professionals.
 5.
-Promote local, alternative food production for rural and urban communities through state and federal programs.
-a.
-Establish Greenhouses and container grow systems in grade schools, high schools, churches, hospitals, jails, old folks homes, restaurants, and community gardens.
-b.
-Develop and promote school programs that teach our children how to grow food for themselves and for their community.
-To summarize.....
+Promote local, alternative food production for rural and urban communities through state and federal programs. a.
+Establish Greenhouses and container grow systems in grade schools, high schools, churches, hospitals, jails, old folks homes, restaurants, and community gardens. b.
+Develop and promote school programs that teach our children how to grow food for themselves and for their community. ​ To summarize.....
 Property tax relief will come from state cannabis revenue going to our schools and preventing levy hikes.
 We will use sections 33, 37, and 66 from the ImagiNE Nebraska Act to recapture unqualified tax credits from corporations.
 These two sources alone can correct our budget issues within a couple years.
@@ -103,3 +91,4 @@ Alternative Healthcare through medical cannabis lightens the load of our healthc
 Criminal Justice Reform happens when we stop arresting and jailing our citizens for cannabis possession.
 No more for profit policing.
 Infrastructure Updates become possible when we free up tax dollars and have matching funds for federal infrastructure assistance.
+Proudly powered by Weebly Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear

@@ -1,4 +1,4 @@
-Last session, I authored legislation to put an end to sanctuary cities in the State of Texas.
+Home About Issues News Take Action Contact Donate Home About Issues News Take Action Contact Donate ELIZABETH CUSTY November 17, 2016 Eliminating Sanctuary Cities in Texas is Long Overdue ELIZABETH CUSTY November 17, 2016 Last session, I authored legislation to put an end to sanctuary cities in the State of Texas.
 Unfortunately, we were one vote shy of passing this crucial legislation in the Texas Senate.
 Shortly after the session, Kate Steinle was murdered by a previously incarcerated criminal alien that was on the streets due to San Fransisco's unwillingness to honor an immigration detainer.
 Her tragic death led to a national uproar highlighting why we cannot have policies that allow for violent criminal aliens to walk our streets freely.
@@ -23,3 +23,14 @@ Statewide conservative leaders including Governor Greg Abbott, Attorney General 
 Senator Ted Cruz have also voiced support for passing this measure.
 This legislation will reinstate trust in the legal system and protect our citizens by giving us another tool in the tool box to combat criminal aliens.
 With your help, we can pass a strong bill that will save lives and ensure local entities are beholden to the rule of law.
+Newer Post Charles Perry Joins Trending Today USA to Discuss Sanctuary Cities Older Post WATCH: First General Election Debate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Get Updates!
+Thank you!
+Back to Top © Copyright # Charles Perry for State Senate.
+All rights reserved.
+NOT CREATED AT STATE EXPENSE.
+Pol.
+Adv.
+Pd. for by Charles Perry Campaign P.O.
+Box 94806 Lubbock, Texas 79493

@@ -1,5 +1,5 @@
-FOR IMMEDIATE RELEASE — September 23, 2026
-The UFOA represents over 5,000 active and retired FDNY Lieutenants, Captains, Battalion Chiefs, Deputy Chiefs, and Chief Medical Officers.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Uniformed Fire Officers Assoc.
+Endorse Congresswoman Nicole Malliotakis by Team Nicole on Sep 23, 2026 FOR IMMEDIATE RELEASE — September 23, 2026 The UFOA represents over 5,000 active and retired FDNY Lieutenants, Captains, Battalion Chiefs, Deputy Chiefs, and Chief Medical Officers.
 Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) was endorsed for a fourth term in Congress by the Uniformed Fire Officer Association (UFOA) of the FDNY.
 The UFOA represents over 5,000 active and retired FDNY Lieutenants, Captains, Battalion Chiefs, Deputy Chiefs, and Chief Medical Officers.
 In their endorsement, the UFOA wrote, “Following a thorough evaluation, we are confident that you stand out as the candidate who most deeply understands the needs of New York’s fire officers.
@@ -7,9 +7,8 @@ You have consistently advocated for our members and organization.
 Your work to help fund the WTC Health Program, No Tax on Overtime, and increasing the SALT deduction cap has significantly impacted our members.
 “The UFOA looks forward to continuing our collaborative relationship on the critical issues impacting our membership.
 Please lean on our expertise whenever we can assist in protecting and enhancing the quality of life across your district.
-We stand ready to support your campaign and wish you every success.”
-Congresswoman Nicole Malliotakis said, “I want to thank the members of the Uniformed Fire Officers Association for their endorsement.
+We stand ready to support your campaign and wish you every success.” Congresswoman Nicole Malliotakis said, “I want to thank the members of the Uniformed Fire Officers Association for their endorsement.
 The 25th anniversary of the terrorist attacks on 9/11 is a stark reminder of the dangers the FDNY face daily and the losses the UFOA faced in the wake of the attacks.
 “I was proud to have secured over $9 million for FDNY in both Staten Island and Brooklyn, including $5 million that will be used to develop a training facility in our district, so our first responders have the skills they need to save lives.
 “I will always be a vocal advocate for the funding, training and resources they need to do their job.
-In addition, I will continue my mission to ensure that 9/11 first responders and survivors have the coverage and care they need and deserve from the World Trade Center Health Center.”
+In addition, I will continue my mission to ensure that 9/11 first responders and survivors have the coverage and care they need and deserve from the World Trade Center Health Center.” share PREVIOUS ARTICLE Malliotakis Endorsed by Correction Officers Benevolent Association STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

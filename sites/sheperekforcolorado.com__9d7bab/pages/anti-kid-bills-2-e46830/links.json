@@ -1,16 +1,70 @@
 [
-"https://foxnews.com/category/politics/judiciary/supreme-court",
-"https://leg.colorado.gov/bills/HB26-1322",
-"https://leg.colorado.gov/bills/SB26-097",
-"https://leg.colorado.gov/bills/hb19-1129",
-"https://secure.anedot.com/sheperek-for-colorado/donate",
-"https://sheperekforcolorado.com/",
-"https://sheperekforcolorado.com/about-mike",
-"https://sheperekforcolorado.com/crazy-bills",
-"https://sheperekforcolorado.com/donatetemp",
-"https://sheperekforcolorado.com/get-involved-2",
-"https://sheperekforcolorado.com/page2-2",
-"https://sheperekforcolorado.com/the-blog",
-"https://sheperekforcolorado.com/the-issues",
-"https://sheperekforcolorado.com/why-im-running"
+{
+"text": "About Mike",
+"href": "https://sheperekforcolorado.com/about-mike/"
+},
+{
+"text": "Contact",
+"href": "https://sheperekforcolorado.com/get-involved-2/"
+},
+{
+"text": "Crazy Bills",
+"href": "https://sheperekforcolorado.com/crazy-bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/sheperek-for-colorado/donate"
+},
+{
+"text": "HB19-1129",
+"href": "https://leg.colorado.gov/bills/hb19-1129"
+},
+{
+"text": "HB26-1322",
+"href": "https://leg.colorado.gov/bills/HB26-1322"
+},
+{
+"text": "Legislative Philosophy",
+"href": "https://sheperekforcolorado.com/donatetemp/"
+},
+{
+"text": "Main_Menu",
+"href": "https://sheperekforcolorado.com/page2-2/"
+},
+{
+"text": "Michael_Sheperek@icloud.com",
+"href": "mailto:Michael_Sheperek@icloud.com"
+},
+{
+"text": "SB26-097",
+"href": "https://leg.colorado.gov/bills/SB26-097"
+},
+{
+"text": "SheperekForColorado",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "Supreme Court",
+"href": "https://www.foxnews.com/category/politics/judiciary/supreme-court"
+},
+{
+"text": "The Issues",
+"href": "https://sheperekforcolorado.com/the-issues/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://sheperekforcolorado.com/why-im-running/"
+},
+{
+"text": "[image]",
+"href": "https://sheperekforcolorado.com"
+},
+{
+"text": "[no text]",
+"href": "https://leg.colorado.gov/bills/hb19-1129"
+},
+{
+"text": "blog",
+"href": "https://sheperekforcolorado.com/the-blog/"
+}
 ]

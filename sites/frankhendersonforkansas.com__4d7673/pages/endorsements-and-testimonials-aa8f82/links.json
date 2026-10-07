@@ -1,13 +1,66 @@
 [
-"https://berniesanders.com/endorse",
-"https://facebook.com/FrankHendersonForKansas",
-"https://frankhendersonforkansas.com/",
-"https://frankhendersonforkansas.com/endorsements-and-testimonials",
-"https://frankhendersonforkansas.com/priorities",
-"https://frankhendersonforkansas.com/request-a-sign",
-"https://frankhendersonforkansas.com/volunteer",
-"https://frankhendersonforkansas.com/voter-resources",
-"https://instagram.com/kansashd6",
-"https://secure.actblue.com/donate/frank-henderson-4ksh6",
-"https://votevets.org/candidates"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/frank-henderson-4ksh6"
+},
+{
+"text": "Donation.",
+"href": "https://secure.actblue.com/donate/frank-henderson-4ksh6"
+},
+{
+"text": "Endorsements & Testimonials",
+"href": "https://frankhendersonforkansas.com/endorsements-and-testimonials"
+},
+{
+"text": "Here",
+"href": "https://frankhendersonforkansas.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://frankhendersonforkansas.com/"
+},
+{
+"text": "Priorities",
+"href": "https://frankhendersonforkansas.com/priorities"
+},
+{
+"text": "Request a Sign",
+"href": "https://frankhendersonforkansas.com/request-a-sign"
+},
+{
+"text": "Sen. Bernie Sanders",
+"href": "https://berniesanders.com/endorse/"
+},
+{
+"text": "Share why you're voting for Frank!",
+"href": "https://frankhendersonforkansas.com/endorsements-and-testimonials#whyfrank"
+},
+{
+"text": "Volunteer",
+"href": "https://frankhendersonforkansas.com/volunteer"
+},
+{
+"text": "Vote Vets",
+"href": "https://votevets.org/candidates"
+},
+{
+"text": "Voter Resources",
+"href": "https://frankhendersonforkansas.com/voter-resources"
+},
+{
+"text": "[image: Frank Henderson for Kansas House District 6 logo]",
+"href": "https://frankhendersonforkansas.com/"
+},
+{
+"text": "[image]",
+"href": "https://berniesanders.com/endorse/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/FrankHendersonForKansas/"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/kansashd6/"
+}
 ]

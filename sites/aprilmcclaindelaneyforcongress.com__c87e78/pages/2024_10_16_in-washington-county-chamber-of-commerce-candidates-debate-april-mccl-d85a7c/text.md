@@ -1,8 +1,5 @@
-For Immediate Release:
-October 16, 2024
-Contact:
-[email protected]
-Gaithersburg, MD – At today’s Washington County Chamber of Commerce Debate, April McClain Delaney underscored her understanding of economic issues affecting Maryland’s 6th District, and emphasized her commitment to infrastructure investment, rural broadband expansion, and lowering costs for working families.
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer Press Releases In Washington County Chamber of Commerce Candidates Debate, April McClain Delaney Touts Economic Agenda, Holds Neil Parrott Accountable for Anti-Choice, Extreme Positions Oct 16, 2024 For Immediate Release: October 16, 2024 Contact: [email protected] Gaithersburg, MD – At today’s Washington County Chamber of Commerce Debate , April McClain Delaney underscored her understanding of economic issues affecting Maryland’s 6th District, and emphasized her commitment to infrastructure investment, rural broadband expansion, and lowering costs for working families.
 In contrast, Neil Parrott doubled down on his extreme agenda, continuing to distort his record on the critical issue of reproductive choice, and even pushed false, partisan attacks regarding FEMA’s response efforts in North Carolina.
 Throughout the debate McClain Delaney continued to reiterate her common sense, common ground approach.
 Highlighting her proven experience in economic development, McClain Delaney pointed to her tenure at the Department of Commerce, where she spearheaded efforts to improve infrastructure and expand broadband access in underserved areas, reaffirmed her commitment to lowering healthcare costs by empowering Medicare to negotiate drug prices, and her commitment to advancing comprehensive, bipartisan immigration reform.
@@ -10,5 +7,11 @@ In stark contrast, Neil Parrott repeated false claims on his record, stating, �
 I definitely do, I always have.” McClain Delaney pushed back, reminding Parrott of his legislative record, that includes multiple stances on banning abortion, specifically a Personhood Amendment which Parrott co-sponsored, and includes no exceptions.
 Parrott also joined in on the partisan attacks regarding FEMA’s hurricane response efforts, repeating baseless claims that FEMA’s budget had been diverted to support undocumented immigrants.
 “It’s embarrassing what’s happening,” said Neil Parrott.
-“They spent $2 billion dollars from their budget to house and feed illegal aliens, and now we don’t have the resources that we need for North Carolina for our own people.” McClain Delaney pushed back on Parrott’s misinformation: “To politicize, at such a hard time, when we are dealing with all these storms is not a good thing to do… coming together, not in a partisan way, is really important… so let’s not play partisanship with that.”
-###
+“They spent $2 billion dollars from their budget to house and feed illegal aliens, and now we don’t have the resources that we need for North Carolina for our own people.” McClain Delaney pushed back on Parrott’s misinformation: “To politicize, at such a hard time, when we are dealing with all these storms is not a good thing to do… coming together, not in a partisan way, is really important… so let’s not play partisanship with that.” ### Up Next Neil Parrott Holds Fundraiser with Disgraced Former Trump-Nominee, Stephen Moore Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

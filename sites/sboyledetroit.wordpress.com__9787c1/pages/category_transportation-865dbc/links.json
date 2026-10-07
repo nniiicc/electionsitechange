@@ -1,14 +1,70 @@
 [
-"https://automattic.com/cookies",
-"https://facebook.com/",
-"https://instagram.com/stephenboylenow",
-"https://sboyledetroit.wordpress.com/",
-"https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency",
-"https://sboyledetroit.wordpress.com/about",
-"https://sboyledetroit.wordpress.com/category/transportation",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F11%2F06%2Fpublic-transportation-dependency%2F&signup_flow=account",
-"https://wordpress.com/reader/feeds/164296814",
-"https://wordpress.com/start"
+{
+"text": "About",
+"href": "https://sboyledetroit.wordpress.com/about/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/"
+},
+{
+"text": "Get started",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/stephenboylenow/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F11%2F06%2Fpublic-transportation-dependency%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsboyledetroit.wordpress.com%2F2025%2F11%2F06%2Fpublic-transportation-dependency%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Nov 6.2025",
+"href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "Public Transportation Dependency",
+"href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fsboyledetroit.wordpress.com"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "Transportation",
+"href": "https://sboyledetroit.wordpress.com/category/transportation/"
+},
+{
+"text": "View site in Reader",
+"href": "https://wordpress.com/reader/feeds/164296814"
+},
+{
+"text": "[image: Public Transportation Dependency]",
+"href": "https://sboyledetroit.wordpress.com/2025/11/06/public-transportation-dependency/"
+},
+{
+"text": "[image: Stephen Boyle for State Representative District 8]",
+"href": "https://sboyledetroit.wordpress.com/"
+},
+{
+"text": "[image]Stephen Boyle for State Representative District 8",
+"href": "https://sboyledetroit.wordpress.com"
+},
+{
+"text": "[no text]",
+"href": "https://wordpress.com/start/"
+}
 ]

@@ -1,21 +1,110 @@
 [
-"https://facebook.com/votestrada",
-"https://linkedin.com/in/joe-strada",
-"https://secure.anedot.com/joe-strada-campaign/donate",
-"https://secure.anedot.com/joe-strada-campaign/donate?amount=100",
-"https://secure.anedot.com/joe-strada-campaign/donate?amount=25",
-"https://secure.anedot.com/joe-strada-campaign/donate?amount=5",
-"https://secure.anedot.com/joe-strada-campaign/donate?amount=50",
-"https://secure.anedot.com/joe-strada-campaign/donate?amount=500",
-"https://starsandstripesmarketing.com/",
-"https://starsandstripesmarketing.com/client/crm?org=joe-strada",
-"https://votestrada.com/",
-"https://votestrada.com/accessibility",
-"https://votestrada.com/contact",
-"https://votestrada.com/endorsements",
-"https://votestrada.com/meet-joe",
-"https://votestrada.com/priorities",
-"https://votestrada.com/privacy-policy",
-"https://votestrada.com/terms",
-"https://x.com/VoteStrada"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate?amount=500"
+},
+{
+"text": "About Joe",
+"href": "https://votestrada.com/meet-joe"
+},
+{
+"text": "Accessibility",
+"href": "https://votestrada.com/accessibility"
+},
+{
+"text": "Admin↗",
+"href": "https://starsandstripesmarketing.com/client/crm?org=joe-strada"
+},
+{
+"text": "Contact",
+"href": "https://votestrada.com/contact"
+},
+{
+"text": "Contact the campaign",
+"href": "https://votestrada.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate"
+},
+{
+"text": "Contribute now",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://votestrada.com/endorsements"
+},
+{
+"text": "Meet Joe",
+"href": "https://votestrada.com/meet-joe"
+},
+{
+"text": "Meet Joe›",
+"href": "https://votestrada.com/meet-joe"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.anedot.com/joe-strada-campaign/donate"
+},
+{
+"text": "Priorities",
+"href": "https://votestrada.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votestrada.com/privacy-policy"
+},
+{
+"text": "Read Joe's story",
+"href": "https://votestrada.com/meet-joe"
+},
+{
+"text": "Terms and conditions",
+"href": "https://votestrada.com/terms"
+},
+{
+"text": "[image: Joe Strada for Congress]",
+"href": "https://votestrada.com/"
+},
+{
+"text": "[image]View all issues",
+"href": "https://votestrada.com/priorities"
+},
+{
+"text": "[image]Website proudly created by Stars and Stripes Marketing",
+"href": "https://starsandstripesmarketing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votestrada"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/joe-strada/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VoteStrada"
+}
 ]

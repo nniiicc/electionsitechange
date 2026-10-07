@@ -1,7 +1,11 @@
 {
  "description": "Discover upcoming community events hosted by Plaidsylvania, including town halls and local gatherings. Stay informed and participate in local initiatives.",
  "final_url": "https://www.plaidsylvania.com/events",
+ "fingerprint": "b3f11fcf4ebb7e9d2eb3c344e6a5ac71774a3569",
+ "format": 3,
  "paid_for_by": "Paid for by Plaidsylvania Made with Squarespace",
- "title": "Events | Join Community Events Today \u2014 Plaidsylvania",
- "years_mentioned": []
+ "title": "Events | Join Community Events Today — Plaidsylvania",
+ "years_mentioned": [
+  "2026"
+ ]
 }

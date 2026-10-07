@@ -1,155 +1,54 @@
-Privacy and data protection
-This Privacy & Data Protection Policy explains howBlankenship for A Better Ohio (“the Campaign,” “we,” “us,” or “our”) collects,uses, shares, and protects information about you when you visit our website,sign up to get involved, donate through ActBlue, or otherwise interact with thecampaign online or offline.
+HOME ISSUES EVENTS #CONNECT Donate Meet Mason #TEAMMASON Donate Privacy and data protection This Privacy & Data Protection Policy explains howBlankenship for A Better Ohio (“the Campaign,” “we,” “us,” or “our”) collects,uses, shares, and protects information about you when you visit our website,sign up to get involved, donate through ActBlue, or otherwise interact with thecampaign online or offline.
 By using this website or providing your information to theCampaign, you agree to the practices described in this Policy.
 This Policy isnot intended as legal advice, and it may be updated from time to time.
 1.
-Who we are
-This website is operated by Blankenship 4 A Better Ohio, apolitical campaign committee based in Ohio.
-If you have any questions about this Policy or how yourinformation is used, you can contact us at:
-· Email: blankenship4ohio@gmail.com
-· Mailing address: PO Box 20, Pataskala, OH 43062
-2.
-Information we collect
-We may collect information about you in three main ways:
-· information you provide directly,
-· information collected automatically through youruse of the site, and
-· information we receive from third parties.
-2.(i) Information you provide directly
-You may choose to provide us with information, including:
-Contact and “Get In Touch” forms
-· Name
-· Email address
-· Phone number (optional)
-· City / ZIP code (optional)
-· Your campaign interest or connection to thecampaign
-· The content of your message or any attachmentsyou choose to send
-Volunteer/ Get Involved forms
-· Name
-· Contact information
-· Availability and areas of interest
-· Skills, experience, and preferences you chooseto share
-Event sign-ups
-· Name
-· Contact information
-· Event preferences and RSVP details
-Donations (via ActBlue)
-If you choose to donate, your payment is processed throughActBlue, a third-party fundraising platform for Democratic campaigns andcauses.
-When you donate through ActBlue, they collect information such as:
-Name
-· Mailing address
-· Email address
-· Phone Number
-· Occupation and employer (as required by campaignfinance law)
-· Donation amount, date, and payment method
-We receive certain donation-related information from ActBluefor reporting, compliance, and campaign records, but we do not collect or storeyour full payment card details on our own servers.
+Who we are This website is operated by Blankenship 4 A Better Ohio, apolitical campaign committee based in Ohio.
+If you have any questions about this Policy or how yourinformation is used, you can contact us at: · Email: blankenship4ohio@gmail.com · Mailing address: PO Box 20, Pataskala, OH 43062 2.
+Information we collect We may collect information about you in three main ways: · information you provide directly, · information collected automatically through youruse of the site, and · information we receive from third parties.
+2.(i) Information you provide directly You may choose to provide us with information, including: Contact and “Get In Touch” forms · Name · Email address · Phone number (optional) · City / ZIP code (optional) · Your campaign interest or connection to thecampaign · The content of your message or any attachmentsyou choose to send Volunteer/ Get Involved forms · Name · Contact information · Availability and areas of interest · Skills, experience, and preferences you chooseto share Event sign-ups · Name · Contact information · Event preferences and RSVP details Donations (via ActBlue) If you choose to donate, your payment is processed throughActBlue, a third-party fundraising platform for Democratic campaigns andcauses.
+When you donate through ActBlue, they collect information such as: Name · Mailing address · Email address · Phone Number · Occupation and employer (as required by campaignfinance law) · Donation amount, date, and payment method We receive certain donation-related information from ActBluefor reporting, compliance, and campaign records, but we do not collect or storeyour full payment card details on our own servers.
 Your use of ActBlue isgoverned by ActBlue’s own terms and privacy policy, which we encourage you toreview.
-Communications
-If you email us, call us, or contact us through social mediaor other channels, we may keep records of those communications.
-Information collected automatically
-When you visit our website, we may automatically collectcertain information using cookies or similar technologies, such as:
-· IP address
-· Browser type and version
-· Device type and operating system
-· Referring website or campaign (for example,which link or ad you clicked)
-· Pages you view and the time and date of yourvisit
-· Approximate location (based on IP address)
-If we use analytics tools, they may also collect and processthis information on our behalf.
-· Information from third parties
-· We may receive information about you from:
-· ActBlue, related to donations you make to theCampaign
-· Email or SMS tools used to send campaign updates
-· Publicly available voter registration ordemographic data, as permitted by law
-· Social media platforms when you interact withour pages, posts, or ads
-How we use your information
-· We may use the information we collect for thefollowing purposes:
-· To operate and improve the campaign
-· Respond to your questions, comments, or requests
-· Manage volunteer sign-ups and eventparticipation
-· Plan outreach, canvassing, and organizingactivities
-· Administer and track donations where permittedby law
-· To communicate with you
-· Send campaign updates, newsletters, eventinvitations, and calls to action
-· Provide reminders about voting, events, or keycampaign dates
-· Contact you regarding your volunteer interest orother ways to support the campaign
-· To comply with legal obligations
-· Meet federal, state, and local campaign financereporting requirements
-· Respond to lawful requests from regulators orlaw enforcement
-· To improve our website and outreach
-· Analyze how visitors use the site
-· Measure and improve the effectiveness of ourcontent and outreach
-· Personalize or tailor content, emails, or adsthat you may see
-We process your information based on your consent (whererequired), our legitimate interest in running and promoting the campaign, andour legal obligations under applicable campaign finance and data protectionlaws.
-How we share your information
-We do not sell your personal information for profit.
-We mayshare your information in the following limited circumstances:
-· Service providers and vendors
-· With trusted companies that perform services onour behalf, such as:
-· Web hosting and website tools (including ourwebsite platform and integrations)
-· Email delivery and SMS platforms
-· Analytics providers
-· ActBlue, which processes donations and relateddata for the Campaign
-· These providers are only allowed to use yourinformation to perform services.
-· No mobile information will be shared by us with thirdparties/affiliates for marketing/promotional purposes.
+Communications If you email us, call us, or contact us through social mediaor other channels, we may keep records of those communications.
+Information collected automatically When you visit our website, we may automatically collectcertain information using cookies or similar technologies, such as: · IP address · Browser type and version · Device type and operating system · Referring website or campaign (for example,which link or ad you clicked) · Pages you view and the time and date of yourvisit · Approximate location (based on IP address) If we use analytics tools, they may also collect and processthis information on our behalf. · Information from third parties · We may receive information about you from: · ActBlue, related to donations you make to theCampaign · Email or SMS tools used to send campaign updates · Publicly available voter registration ordemographic data, as permitted by law · Social media platforms when you interact withour pages, posts, or ads How we use your information · We may use the information we collect for thefollowing purposes: · To operate and improve the campaign · Respond to your questions, comments, or requests · Manage volunteer sign-ups and eventparticipation · Plan outreach, canvassing, and organizingactivities · Administer and track donations where permittedby law · To communicate with you · Send campaign updates, newsletters, eventinvitations, and calls to action · Provide reminders about voting, events, or keycampaign dates · Contact you regarding your volunteer interest orother ways to support the campaign · To comply with legal obligations · Meet federal, state, and local campaign financereporting requirements · Respond to lawful requests from regulators orlaw enforcement · To improve our website and outreach · Analyze how visitors use the site · Measure and improve the effectiveness of ourcontent and outreach · Personalize or tailor content, emails, or adsthat you may see We process your information based on your consent (whererequired), our legitimate interest in running and promoting the campaign, andour legal obligations under applicable campaign finance and data protectionlaws.
+How we share your information We do not sell your personal information for profit.
+We mayshare your information in the following limited circumstances: · Service providers and vendors · With trusted companies that perform services onour behalf, such as: · Web hosting and website tools (including ourwebsite platform and integrations) · Email delivery and SMS platforms · Analytics providers · ActBlue, which processes donations and relateddata for the Campaign · These providers are only allowed to use yourinformation to perform services. · No mobile information will be shared by us with thirdparties/affiliates for marketing/promotional purposes.
 Text messagingoriginator opt-in data and consent will not be shared by us with any third partiesCampaign or as otherwise required by law.
-Compliance with law
-With government agencies or regulatory bodies when we arelegally required to report donor information or when responding to lawfulrequests, subpoenas, or court orders.
-Successor campaign or committee
-If there is a transition to a successor campaign committeeor a related political committee, your information may be transferred as partof that transition, consistent with applicable law.
-With your consent
-When you expressly ask or authorize us to share yourinformation in a specific way.
-Cookies, tracking, and online advertising
-Our website may use cookies and similar technologies to:
-· Remember your preferences and settings
-· Understand how you navigate the site
-· Measure the effectiveness of our content andoutreach
-· Support online advertising or social mediacampaigns
-You may be able to manage cookies through your browsersettings, including blocking or deleting them.
+Compliance with law With government agencies or regulatory bodies when we arelegally required to report donor information or when responding to lawfulrequests, subpoenas, or court orders.
+Successor campaign or committee If there is a transition to a successor campaign committeeor a related political committee, your information may be transferred as partof that transition, consistent with applicable law.
+With your consent When you expressly ask or authorize us to share yourinformation in a specific way.
+Our website may use cookies and similar technologies to: · Remember your preferences and settings · Understand how you navigate the site · Measure the effectiveness of our content andoutreach · Support online advertising or social mediacampaigns You may be able to manage cookies through your browsersettings, including blocking or deleting them.
 Some features of the site maynot function properly if cookies are disabled.
 If we use third-party analytics or advertising partners(such as Google or Meta/Facebook), they may independently collect or receiveinformation from your browser or device and use it to provide measurementservices and target ads.
 Their use of your information is governed by their ownprivacy policies.
-Email, SMS, and other communications
-If you choose to provide your email address or phone number:
-We may send you campaign updates, action alerts, fundraisingappeals, event invitations, and other communications.
+Email, SMS, and other communications If you choose to provide your email address or phone number: We may send you campaign updates, action alerts, fundraisingappeals, event invitations, and other communications.
 You can opt out of campaign emails at any time by clickingthe “unsubscribe” link in our emails.
 For SMSor text messages no mobile information will be shared by us with thirdparties/affiliates for marketing/promotional purposes.
 Text messagingoriginator opt-in data and consent will not be shared by us with any thirdparties.
 We may still send you non-promotional communications relatedto specific interactions (for example, confirming a donation via ActBlue orresponding to a direct inquiry).
-Data security
-We use reasonable physical, technical, and organizationalsafeguards to protect your information against accidental or unlawfuldestruction, loss, alteration, access, or disclosure.
+Data security We use reasonable physical, technical, and organizationalsafeguards to protect your information against accidental or unlawfuldestruction, loss, alteration, access, or disclosure.
 However, no method of transmission or storage is completelysecure, and we cannot guarantee absolute security.
 You are responsible forkeeping any passwords or access credentials confidential and for limitingaccess to your devices.
-Data retention
-We retain personal information for as long as reasonablynecessary to:
-Operate the campaign and maintain records of our activities
-Comply with legal, accounting, and reporting obligations(including campaign finance requirements)
-Resolve disputes and enforce our rights
-When information is no longer needed, we will delete it orde-identify it, consistent with our legal obligations and technicalcapabilities.
-Children’s privacy
-This website is intended for adults and is not directed tochildren under the age of 13.
+Data retention We retain personal information for as long as reasonablynecessary to: Operate the campaign and maintain records of our activities Comply with legal, accounting, and reporting obligations(including campaign finance requirements) Resolve disputes and enforce our rights When information is no longer needed, we will delete it orde-identify it, consistent with our legal obligations and technicalcapabilities.
+Children’s privacy This website is intended for adults and is not directed tochildren under the age of 13.
 We do not knowingly collect personal informationfrom children under 13.
 If we learn that we have collected personal informationfrom a child under 13, we will take reasonable steps to delete it as soon aspossible.
 Parents or guardians who believe their child has providedinformation to us may contact us using the details in Section 1.
-Your choices and rights
-Depending on where you live and the laws that apply, you mayhave certain rights over your personal information, such as:
-Accessing the personal information we hold about you
-Requesting that we correct or update inaccurate information
-Requesting that we delete certain information, subject tolegal obligations
-Opting out of certain types of processing, such as marketingemails or texts
-To exercise these rights, please contact us at the emailaddress listed in Section 1.
+Your choices and rights Depending on where you live and the laws that apply, you mayhave certain rights over your personal information, such as: Accessing the personal information we hold about you Requesting that we correct or update inaccurate information Requesting that we delete certain information, subject tolegal obligations Opting out of certain types of processing, such as marketingemails or texts To exercise these rights, please contact us at the emailaddress listed in Section 1.
 We may need to verify your identity beforefulfilling your request and may be unable to delete information that we mustkeep for legal or reporting purposes.
-Third-party websites and links
-Our website may contain links to third-party websites,platforms, or services, including ActBlue and social media sites.
+Third-party websites and links Our website may contain links to third-party websites,platforms, or services, including ActBlue and social media sites.
 We are notresponsible for the privacy practices or content of those websites.
 We encourage you to review the privacy policies of anythird-party sites you visit, especially when making donations or providingpersonal information.
-International visitors
-This website is intended for individuals located in theUnited States.
+International visitors This website is intended for individuals located in theUnited States.
 If you access the site from outside the U.S., you understandthat your information may be transferred to, stored, and processed in theUnited States, where data protection laws may differ from those in yourcountry.
-Changes to this Policy
-We may update this Privacy & Data Protection Policy fromtime to time to reflect changes in our practices, legal requirements, ortechnology.
+Changes to this Policy We may update this Privacy & Data Protection Policy fromtime to time to reflect changes in our practices, legal requirements, ortechnology.
 When we do, we will update the “Last updated” date at thetop of the Policy.
 Significant changes may also be highlighted on the website.Your continued use of the website after changes are posted means you accept therevised Policy.
-How to contact us
-If you have any questions, concerns, or requests related tothis Privacy & Data Protection Policy or our handling of your information,please contact:
-· Email: blankenship4ohio@gmail.com
-· Mailing address: PO Box 20, Pataskala, OH 43062
-By using this site, you agree to our Privacy & DataProtection Policy.
+How to contact us If you have any questions, concerns, or requests related tothis Privacy & Data Protection Policy or our handling of your information,please contact: · Email: blankenship4ohio@gmail.com · Mailing address: PO Box 20, Pataskala, OH 43062 By using this site, you agree to our Privacy & DataProtection Policy. ‍ Join our newsletter to stay up to date on the campaign.
+Subscribe By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company.
+Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+Get campaign texts — events, voting info, and more. 💬 Sign up for text updates Find A Page Meet Mason Issues Donate Events Contact # TeamMason Follow us Facebook Instagram Twitter LinkedIn © # Mason Blankenship Campaign.
+All right reserved.
+SMS Terms & Conditions Privacy Policy Terms of Service Cookies Settings PAID FOR BY BLANKENSHIP 4 A BETTER OHIO

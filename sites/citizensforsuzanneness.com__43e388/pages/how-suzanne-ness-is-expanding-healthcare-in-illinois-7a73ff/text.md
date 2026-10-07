@@ -1,4 +1,4 @@
-As I have grown up, one of my pivotal “adulting” milestones was scheduling my own physical.
+Skip to content Search for: HOME ABOUT PLATFORM ENDORSEMENTS EVENTS VOLUNTEER FOLLOW THE MONEY DONATE CONTACT Previous Next How Suzanne Ness is Expanding Healthcare in Illinois As I have grown up, one of my pivotal “adulting” milestones was scheduling my own physical.
 Although it seems insignificant in hindsight, calling up a new doctor’s office and navigating the confusing world of health insurance was a daunting task to my young adult self.
 I remember being asked a bunch of questions with foreign acronyms, leaving me frustrated and overwhelmed.
 Thankfully, I was fortunate enough to have a support system of people to guide me through this process, and my insurance was accepted, allowing me to get the care I needed.
@@ -18,5 +18,9 @@ Suzanne has and will continue to work to expand healthcare access for Illinoisan
 She has our back, and I am proud to stand with a leader who makes receiving equal, fair, and affordable treatment a top-priority.
 Finances and a lack of transparency should not stand in the way of people receiving treatment.
 Suzanne unequivocally shares this belief and is a staunch advocate for Illinoisans so that everyone can live a thriving life.
-If you want to see your eligibility for this medical debt relief, do not hesitate to email us at vote4suzanneness@gmail.com.
+If you want to see your eligibility for this medical debt relief, do not hesitate to email us at vote4suzanneness@gmail.com .
 We are here for you!
+By Roxie S | 2026-09-10T15:57:22+00:00 August 22, 2024 | Healthcare , Uncategorized | Comments Off on How Suzanne Ness is Expanding Healthcare in Illinois Share This Story, Choose Your Platform!
+Facebook LinkedIn Email Contact Our Team Address: P.O.
+Box 2633 Crystal Lake, IL 60014 Email: vote4suzanneness@gmail.com Call 224-208-8775 Connect with Team Ness Copyright | Citizens For Suzanne Ness | Privacy Policy Page load link This website uses cookies and third party services.
+Settings OK Go to Top

@@ -1,12 +1,66 @@
 [
-"https://facebook.com/Vote4MichelleDavis",
-"https://instagram.com/vote4michelledavis",
-"https://secure.winred.com/friends-of-michelle-davis/donate-today",
-"https://vote4michelledavis.com/",
-"https://vote4michelledavis.com/about",
-"https://vote4michelledavis.com/endorsements",
-"https://vote4michelledavis.com/privacy",
-"https://vote4michelledavis.com/terms",
-"https://vote4michelledavis.com/volunteer",
-"https://x.com/vote4mdavis"
+{
+"text": "ABOUT",
+"href": "https://www.vote4michelledavis.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today"
+},
+{
+"text": "DONATE NOW TO SEND MICHELLE TO THE STATE SENATE",
+"href": "https://secure.winred.com/friends-of-michelle-davis/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.vote4michelledavis.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "ISSUES",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.vote4michelledavis.com/volunteer"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.vote4michelledavis.com/privacy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.vote4michelledavis.com/terms"
+},
+{
+"text": "[image: Davis (1)]",
+"href": "https://www.facebook.com/Vote4MichelleDavis/"
+},
+{
+"text": "[image: Davis (2)]",
+"href": "https://x.com/vote4mdavis"
+},
+{
+"text": "[image: Davis (5)]",
+"href": "https://www.instagram.com/vote4michelledavis/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/Vote4MichelleDavis/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vote4michelledavis/"
+},
+{
+"text": "[image: Michelle-Davis-Logo.png]",
+"href": "https://www.vote4michelledavis.com"
+},
+{
+"text": "[image: Twitter X]",
+"href": "https://x.com/vote4mdavis"
+}
 ]

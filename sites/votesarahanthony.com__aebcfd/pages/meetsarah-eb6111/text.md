@@ -1,9 +1,8 @@
-Sarah’s working for a better future for our communities.
-Meet Sarah
-Senator Sarah Anthony has always fought for equity and opportunity for all Michiganders, including the most vulnerable among us.
+top of page Home Meet Sarah Priorities Endorsements Events News Media Volunteer More Use tab to navigate through the menu items.
+DONATE DONATE DONATE Sarah’s working for a better future for our communities.
+Meet Sarah Senator Sarah Anthony has always fought for equity and opportunity for all Michiganders, including the most vulnerable among us.
 Throughout her 20 year career in public service, Sarah has made history multiple times, serving as mid-Michigan’s first African American woman to be elected to the Michigan House of Representatives and the Michigan Senate.
-In 2023, she became the first Black woman to chair the powerful Senate Appropriations Committee.
-As Chair of the House Democratic Caucus, she earned a reputation as a pragmatic, effective legislator, where she passed multiple bills into law with substantial bipartisan, stakeholder, and community support.
+In 2023, she became the first Black woman to chair the powerful Senate Appropriations Committee. ​ As Chair of the House Democratic Caucus, she earned a reputation as a pragmatic, effective legislator, where she passed multiple bills into law with substantial bipartisan, stakeholder, and community support.
 She fights to strengthen education, expand health care, reform Michigan’s criminal justice system, support workers and uplift small businesses.
 Under her leadership, she has passed bills addressing college affordability, workforce developments, support for veterans, and housing issues.
 Before serving in the Capitol, Anthony was the youngest Black woman to serve on a County Commission in the United States.
@@ -17,3 +16,7 @@ For her work in the Capitol, she has been recognized nationally in such publicat
 She has been named “Legislator of the Year” from business, nonprofit, education and social justice groups.
 Senator Anthony was born and raised in Lansing’s south side.
 She has a bachelor’s degree from Central Michigan University and earned a master’s degree from Western Michigan University.
+Call (517) 234-3050 Email Info@votesarahanthony.com Follow Join the Movement We love our volunteers!
+Sign up today!
+Support Our Volunteers $10 Lunch for a Volunteer $25 T-Shirt For a Volunteer $60 100 Stamps You can also donate by mail.
+Checks payable to Sarah Anthony for State Senate PO Box 12267 Lansing, MI 48901 Submit Paid for by Sarah Anthony for State Senate | PO Box 12267 Lansing, MI 48901 | WebSite © # bottom of page

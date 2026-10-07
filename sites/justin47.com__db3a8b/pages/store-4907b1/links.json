@@ -1,30 +1,134 @@
 [
-"https://justin47.com/",
-"https://justin47.com/about",
-"https://justin47.com/cdn-cgi/l/email-protection",
-"https://justin47.com/contact",
-"https://justin47.com/district",
-"https://justin47.com/donate",
-"https://justin47.com/events",
-"https://justin47.com/platform",
-"https://justin47.com/store",
-"https://justin47.com/store/just-griffis-water-bottle",
-"https://justin47.com/store/justin-griffis-beanie-ribbed-knit-embroidered",
-"https://justin47.com/store/justin-griffis-campaign-logo-polo-shirt",
-"https://justin47.com/store/justin-griffis-campaign-t-shirt",
-"https://justin47.com/store/justin-griffis-campaign-toddler-t-shirt-michigan-outline-logo",
-"https://justin47.com/store/justin-griffis-embroidered-campaign-logo-full-zip-hooded-sweatshirt",
-"https://justin47.com/store/justin-griffis-for-michigan-house-flat-bill-cap",
-"https://justin47.com/store/justin-griffis-for-michigan-house-hoodie",
-"https://justin47.com/store/justin-griffis-for-michigan-house-kids-tee",
-"https://justin47.com/store/justin-griffis-for-michigan-house-mug",
-"https://justin47.com/store/justin-griffis-for-michigan-house-sticker",
-"https://justin47.com/store/justin-griffis-for-michigan-house-women-s-tee",
-"https://justin47.com/store/justin-griffis-michigan-campaign-logo-baseball-hat",
-"https://justin47.com/store/justin-griffis-name-car-magnet",
-"https://justin47.com/store/justin-griffis-rocks-glass",
-"https://justin47.com/store/justin-griffis-under-armour-embroidered-campaign-polo",
-"https://justin47.com/store/kiss-cut-vinyl-decals",
-"https://justin47.com/volunteer",
-"https://justin47.com/vote"
+{
+"text": "About",
+"href": "https://justin47.com/about"
+},
+{
+"text": "About Justin",
+"href": "https://justin47.com/about"
+},
+{
+"text": "Contact",
+"href": "https://justin47.com/contact"
+},
+{
+"text": "District",
+"href": "https://justin47.com/district"
+},
+{
+"text": "Donate",
+"href": "https://justin47.com/donate"
+},
+{
+"text": "Events",
+"href": "https://justin47.com/events"
+},
+{
+"text": "Home",
+"href": "https://justin47.com/"
+},
+{
+"text": "Platform",
+"href": "https://justin47.com/platform"
+},
+{
+"text": "Store",
+"href": "https://justin47.com/store"
+},
+{
+"text": "The 47th District",
+"href": "https://justin47.com/district"
+},
+{
+"text": "Volunteer",
+"href": "https://justin47.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://justin47.com/vote"
+},
+{
+"text": "Voter Info",
+"href": "https://justin47.com/vote"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@justin47.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@justin47.com"
+},
+{
+"text": "[image: Just Griffis Water Bottle] Just Griffis Water Bottle $34.98",
+"href": "https://justin47.com/store/just-griffis-water-bottle"
+},
+{
+"text": "[image: Justin Griffis Campaign Logo Polo Shirt] Justin Griffis Campaign Logo Polo Shirt $50.88–$69.20",
+"href": "https://justin47.com/store/justin-griffis-campaign-logo-polo-shirt"
+},
+{
+"text": "[image: Justin Griffis Campaign T-Shirt ] Justin Griffis Campaign T-Shirt $17.99–$30.99",
+"href": "https://justin47.com/store/justin-griffis-campaign-t-shirt"
+},
+{
+"text": "[image: Justin Griffis Embroidered Campaign Logo Full-Zip Hooded Sweatshirt] Justin Griffis Embroidered Campaign Logo Full-Zip Hooded Sweatshirt $96.50–$116.58",
+"href": "https://justin47.com/store/justin-griffis-embroidered-campaign-logo-full-zip-hooded-sweatshirt"
+},
+{
+"text": "[image: Justin Griffis Michigan Campaign Logo Baseball Hat] Justin Griffis Michigan Campaign Logo Baseball Hat $56.33",
+"href": "https://justin47.com/store/justin-griffis-michigan-campaign-logo-baseball-hat"
+},
+{
+"text": "[image: Justin Griffis Name Car Magnet ] Justin Griffis Name Car Magnet $8.99",
+"href": "https://justin47.com/store/justin-griffis-name-car-magnet"
+},
+{
+"text": "[image: Justin Griffis Rocks Glass ] Justin Griffis Rocks Glass $30.80",
+"href": "https://justin47.com/store/justin-griffis-rocks-glass"
+},
+{
+"text": "[image: Justin Griffis Under Armour Embroidered Campaign Polo] Justin Griffis Under Armour Embroidered Campaign Polo $127.38–$132.28",
+"href": "https://justin47.com/store/justin-griffis-under-armour-embroidered-campaign-polo"
+},
+{
+"text": "[image: Justin Griffis beanie | Ribbed knit embroidered] Justin Griffis beanie | Ribbed knit embroidered $38.98",
+"href": "https://justin47.com/store/justin-griffis-beanie-ribbed-knit-embroidered"
+},
+{
+"text": "[image: Justin Griffis campaign toddler t-shirt | Michigan outline logo] Justin Griffis campaign toddler t-shirt | Michigan outline logo $32.68",
+"href": "https://justin47.com/store/justin-griffis-campaign-toddler-t-shirt-michigan-outline-logo"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Flat Bill Cap ] Justin Griffis for Michigan House Flat Bill Cap $38.99",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-flat-bill-cap"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Hoodie ] Justin Griffis for Michigan House Hoodie $53.95–$64.05",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-hoodie"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Kids Tee ] Justin Griffis for Michigan House Kids Tee $17.45",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-kids-tee"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Mug] Justin Griffis for Michigan House Mug $12.33",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-mug"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Sticker] Justin Griffis for Michigan House Sticker $3.99",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-sticker"
+},
+{
+"text": "[image: Justin Griffis for Michigan House Women's Tee ] Justin Griffis for Michigan House Women's Tee $34.88–$65.38",
+"href": "https://justin47.com/store/justin-griffis-for-michigan-house-women-s-tee"
+},
+{
+"text": "[image: Justin Griffis for Michigan House] Justin Griffis State Representative · MI 47",
+"href": "https://justin47.com/"
+},
+{
+"text": "[image: Kiss-Cut Vinyl Decals] Kiss-Cut Vinyl Decals $3.02–$10.67",
+"href": "https://justin47.com/store/kiss-cut-vinyl-decals"
+}
 ]

@@ -1,4 +1,5 @@
-Contáctanos
-¿Tienes alguna pregunta o comentario para la campaña? ¡Nos encantaría oír de ti!
+EN ES HT ZH Facebook Twitter Instagram Ella es Ayanna Prioridades Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Eventos Voluntarios Tienda Donar Ella es Ayanna Eventos Información de votantes Voluntarios Tienda Donar Contáctanos ¿Tienes alguna pregunta o comentario para la campaña? ¡Nos encantaría oír de ti!
 Llena el formulario en esta página y un miembro de nuestro oficina se pondrá en contacto contigo lo antes posible.
-Para consultas de prensa, comunícate con [email protected].
+Para consultas de prensa, comunícate con [email protected] .
+Nombre * Apellido * Correo electrónico * Envía tu mensaje Enviar Contribuye hoy Ayanna es una persistente defensora del pueblo. ¿Quieres unirte a su lucha contribuyendo hoy?
+Nuestra contribución promedio este año $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Ella es Ayanna Voluntarios Tienda Donar Síguenos Facebook Twitter Instagram Contribuye Por Correo Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Pagado por el Comité Electoral de Ayanna Pressley Contacto Privacidad Made with Middle Seat

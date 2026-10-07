@@ -1,11 +1,5 @@
-Back to All Events
-Join Bell County Democratic candidates for a Breakfast Meet & Greet at Neon Moon Restaurant on August 28 at 10:00 AM!
+0 Skip to Content FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Open Menu Close Menu FAQ Donate About Issues Trust Texans Initiative Endorsements Events Shop Get Involved Back to All Events Breakfast Meet & Greet - Reaching Out To Our Community Friday, August 28, 2026 10:00 AM 11:30 AM Neon Moon Restaurant 3701 South W S Young Drive Killeen, Texas, 76542 United States (map) Google Calendar ICS Join Bell County Democratic candidates for a Breakfast Meet & Greet at Neon Moon Restaurant on August 28 at 10:00 AM!
 Hosted by Reaching Out to Our Community, this will be a great opportunity to meet your local Democratic candidates.
 Bring your questions and your appetite!
-Previous
-Previous
-August 22
-Band Together For Texas - Bell County Democratic Kickoff
-Next
-Next
-September 3
+Previous Previous August 22 Band Together For Texas - Bell County Democratic Kickoff Next Next September 3 Central Texas State Fair - Volunteer Opportunity Amelia for Texas Pol.
+Ad paid for by the Amelia for Texas Campaign © # Amelia for Texas info@ameliafortexas.com

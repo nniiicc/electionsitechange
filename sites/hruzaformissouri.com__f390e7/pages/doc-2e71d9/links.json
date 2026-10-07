@@ -1,12 +1,46 @@
 [
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/author/george",
-"https://hruzaformissouri.com/category/campaign-updates",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/its-yard-sign-time",
-"https://hruzaformissouri.com/the-issues",
-"https://hruzaformissouri.com/tv",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://hruzaformissouri.com/category/campaign-updates/"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://hruzaformissouri.com/its-yard-sign-time/"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "george",
+"href": "https://hruzaformissouri.com/author/george/"
+},
+{
+"text": "← Previous Post",
+"href": "https://hruzaformissouri.com/tv/"
+}
 ]

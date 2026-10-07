@@ -1,4 +1,4 @@
-Over the last eight months, I have received more communication from the district about the Speaker of the House than any other topic.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements August 16, 2017 Jeff Frazier Sit-Rep #12 - The Vote Not Taken August 16, 2017 Jeff Frazier Over the last eight months, I have received more communication from the district about the Speaker of the House than any other topic.
 Some think he should be replaced; some think he is the only one with any sense.
 Spending the 140 days of the regular session immersed in the culture and process of the legislature has given me a slightly different perspective on the issue than I had going in, one I feel deserves sharing.
 The problem with singling out one member of the legislature, one leadership team, or one Speaker of the House as being the problem is that it assumes that the problem lies with the person and not with the power itself.
@@ -32,3 +32,15 @@ I say bring on the tough votes.
 I want to hear the bills, even if I disagree with them.
 The process is more important than any one representative, and it must be honored.
 Let us take the hard votes, and if we can’t take them and come back to you with a good explanation as to why we voted the way we did, then you deserve better representation.
+August 16, 2017 Jeff Frazier Jeff Frazier Sit-Rep #13 - What We Leave Behind Sit-Rep #11 - The Ugly - The Culture of Fear and Lack of Communication Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

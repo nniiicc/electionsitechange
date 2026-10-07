@@ -1,5 +1,4 @@
-Meet Michele
-State Representative Michele Grim is a tireless advocate fighting to level the playing field for everyday people.
+0 Skip to Content MICHELE GRIM FOR OHIO About CONTRIBUTE Open Menu Close Menu MICHELE GRIM FOR OHIO About CONTRIBUTE Open Menu Close Menu About CONTRIBUTE Meet Michele State Representative Michele Grim is a tireless advocate fighting to level the playing field for everyday people.
 A career public health professional and former Toledo City Councilwoman, Michele represents Ohio’s 43rd House District, which encompasses part of Lucas County.
 Michele knows our families deserve a life they can afford – and she isn’t afraid to take on the special interests standing in our way.
 Michele has a proven track record of delivering results for working families.
@@ -12,3 +11,4 @@ Working closely with our local communities and members of both parties, Michele 
 Dr.
 Michele Grim is a graduate of the University of Toledo with a bachelor’s degree in women and gender studies and a master’s degree in public health, and earned her doctorate in law and policy from Northeastern University.
 She lives in Toledo with her husband Ben Krompak.
+Paid for by Friends of Michele Grim

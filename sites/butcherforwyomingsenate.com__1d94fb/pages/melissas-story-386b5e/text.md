@@ -1,5 +1,4 @@
-Melissa’s Story
-Melissa Butcher’s roots in Wyoming run deep.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Melissa’s Story mdbutcher 2026-08-15T11:11:44-06:00 Melissa’s Story Melissa Butcher’s roots in Wyoming run deep.
 Born in Sheridan, she grew up traveling the state with her dad during road construction seasons, gaining an early appreciation for Wyoming’s landscapes, industries, and the people who do the work that keeps communities going.
 For more than 30 years, she has built her life and career in Sheridan County, with experience spanning business ownership, public service, and work with communities across Wyoming.
 Melissa and her husband, Mike, own and operate local businesses including a campground and a bakery/café that has become a gathering place in Ranchester and Sheridan.
@@ -20,3 +19,4 @@ A trained vocalist, she has performed in bands, community theater productions, a
 She and Mike are founding members of The InstaGators, a 7-piece local band they’ve been playing in together for over a decade.
 Melissa is running for the Wyoming Senate because she believes the job is clear: listen carefully, stay connected to your community, understand the real conditions people are facing, and make steady, responsible decisions that help communities succeed.
 She brings a perspective shaped by hands-on experience, working in Wyoming’s economy, supporting projects tied to the state’s core industries, running small businesses, and helping communities solve problems, with a clear focus on making sure hard work leads to real opportunity for Wyoming families and communities.
+Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

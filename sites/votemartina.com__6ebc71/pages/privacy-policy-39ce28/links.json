@@ -1,14 +1,54 @@
 [
-"https://facebook.com/VoteMartinaPA",
-"https://instagram.com/votemartinapa",
-"https://secure.anedot.com/friends-of-martina-white/web",
-"https://twitter.com/VoteMartinaPA",
-"https://votemartina.com/",
-"https://votemartina.com/about",
-"https://votemartina.com/contact",
-"https://votemartina.com/endorsements",
-"https://votemartina.com/news",
-"https://votemartina.com/priorities",
-"https://votemartina.com/privacy",
-"https://votemartina.com/privacy-policy"
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.anedot.com/friends-of-martina-white/web"
+},
+{
+"text": "Contact",
+"href": "https://votemartina.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-martina-white/web"
+},
+{
+"text": "Endorsements",
+"href": "https://votemartina.com/endorsements/"
+},
+{
+"text": "Meet Martina",
+"href": "https://votemartina.com/about/"
+},
+{
+"text": "News",
+"href": "https://votemartina.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://votemartina.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votemartina.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy | Terms and Conditions.",
+"href": "https://votemartina.com/privacy"
+},
+{
+"text": "[image]",
+"href": "https://votemartina.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/VoteMartinaPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteMartinaPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votemartinapa"
+}
 ]

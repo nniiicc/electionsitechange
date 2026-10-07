@@ -1,126 +1,874 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Birthday+Bash+with+Spencer+Lewis+and+Ground+Game+Georgia&dates=20260910T233000Z%2F20260911T013000Z&location=Newnan%2C+Georgia%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260902T210000Z%2F20260903T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260903T210000Z%2F20260904T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260904T180000Z%2F20260904T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260930T210000Z%2F20261001T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Coweta+County&dates=20260910T210000Z%2F20260911T010000Z&location=Newnan%2C+Georgia%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+FAyette+County&dates=20260906T180000Z%2F20260907T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+FAyette+County&dates=20260911T180000Z%2F20260911T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260905T150000Z%2F20260905T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260909T210000Z%2F20260910T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260910T210000Z%2F20260911T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260912T150000Z%2F20260912T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260913T180000Z%2F20260914T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260916T210000Z%2F20260917T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260917T210000Z%2F20260918T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260918T180000Z%2F20260918T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260919T150000Z%2F20260919T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260920T180000Z%2F20260921T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260923T210000Z%2F20260924T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260924T210000Z%2F20260925T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260925T180000Z%2F20260925T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260926T150000Z%2F20260926T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260927T180000Z%2F20260928T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Rally+with+Mayor+Keisha+Lance+Bottoms+in+Milner%2C+GA&dates=20260912T160000Z%2F20260912T220000Z&location=276+Old+Alabama+Road%2C+Milner%2C+Georgia%2C+30257%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Reddit+AMA+with+r%2Fpolitics&dates=20260904T150000Z%2F20260904T220000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Serve+the+People%3A+Canvass+with+Maura+and+Ground+Game+Georgia+in+Newnan&dates=20260913T210000Z%2F20260913T230000Z&location=Newnan%2C+Georgia%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260908T223000Z%2F20260909T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260922T223000Z%2F20260923T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260929T223000Z%2F20260930T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Texting+and+Postcard+Writing+Party+with+Maura+Keller&dates=20260915T223000Z%2F20260916T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States",
-"http://maps.google.com/?q=+Newnan%2C+Georgia+United+States",
-"http://maps.google.com/?q=185+Kathi+Avenue+Fayetteville%2C+Georgia%2C+30214+United+States",
-"http://maps.google.com/?q=276+Old+Alabama+Road+Milner%2C+Georgia%2C+30257+United+States",
-"https://bsky.app/profile/maurakellerforga.bsky.social",
-"https://facebook.com/MauraKellerforGeorgia",
-"https://instagram.com/maurakellerforgeorgia",
-"https://linkedin.com/in/maura-keller-68581424",
-"https://maurakeller.com/",
-"https://maurakeller.com/about",
-"https://maurakeller.com/cart",
-"https://maurakeller.com/contact",
-"https://maurakeller.com/early-voting",
-"https://maurakeller.com/endorsements",
-"https://maurakeller.com/events",
-"https://maurakeller.com/events/canvass-09-02",
-"https://maurakeller.com/events/canvass-09-02?format=ical",
-"https://maurakeller.com/events/canvass-09-04",
-"https://maurakeller.com/events/canvass-09-04?format=ical",
-"https://maurakeller.com/events/canvass-09-05",
-"https://maurakeller.com/events/canvass-09-05?format=ical",
-"https://maurakeller.com/events/canvass-09-06",
-"https://maurakeller.com/events/canvass-09-06?format=ical",
-"https://maurakeller.com/events/canvass-09-08",
-"https://maurakeller.com/events/canvass-09-08?format=ical",
-"https://maurakeller.com/events/canvass-09-09",
-"https://maurakeller.com/events/canvass-09-09?format=ical",
-"https://maurakeller.com/events/canvass-09-10",
-"https://maurakeller.com/events/canvass-09-10?format=ical",
-"https://maurakeller.com/events/canvass-09-11",
-"https://maurakeller.com/events/canvass-09-11?format=ical",
-"https://maurakeller.com/events/canvass-09-12",
-"https://maurakeller.com/events/canvass-09-12?format=ical",
-"https://maurakeller.com/events/canvass-09-13",
-"https://maurakeller.com/events/canvass-09-13?format=ical",
-"https://maurakeller.com/events/canvass-09-16",
-"https://maurakeller.com/events/canvass-09-16?format=ical",
-"https://maurakeller.com/events/canvass-09-17",
-"https://maurakeller.com/events/canvass-09-17?format=ical",
-"https://maurakeller.com/events/canvass-09-18",
-"https://maurakeller.com/events/canvass-09-18?format=ical",
-"https://maurakeller.com/events/canvass-09-19",
-"https://maurakeller.com/events/canvass-09-19?format=ical",
-"https://maurakeller.com/events/canvass-09-20",
-"https://maurakeller.com/events/canvass-09-20?format=ical",
-"https://maurakeller.com/events/canvass-09-23",
-"https://maurakeller.com/events/canvass-09-23?format=ical",
-"https://maurakeller.com/events/canvass-09-24",
-"https://maurakeller.com/events/canvass-09-24?format=ical",
-"https://maurakeller.com/events/canvass-09-25",
-"https://maurakeller.com/events/canvass-09-25?format=ical",
-"https://maurakeller.com/events/canvass-09-26",
-"https://maurakeller.com/events/canvass-09-26?format=ical",
-"https://maurakeller.com/events/canvass-09-27",
-"https://maurakeller.com/events/canvass-09-27?format=ical",
-"https://maurakeller.com/events/canvass-09-30",
-"https://maurakeller.com/events/canvass-09-30?format=ical",
-"https://maurakeller.com/events/canvass-coweta-09-10",
-"https://maurakeller.com/events/canvass-coweta-09-10?format=ical",
-"https://maurakeller.com/events/canvass-coweta-09-12",
-"https://maurakeller.com/events/canvass-coweta-09-12?format=ical",
-"https://maurakeller.com/events/rally-with-keisha-milner",
-"https://maurakeller.com/events/rally-with-keisha-milner?format=ical",
-"https://maurakeller.com/events/reddit-ama-r-politics",
-"https://maurakeller.com/events/reddit-ama-r-politics?format=ical",
-"https://maurakeller.com/events/spencer-birthday-bash",
-"https://maurakeller.com/events/spencer-birthday-bash?format=ical",
-"https://maurakeller.com/events/texting-tuesdays-9-15",
-"https://maurakeller.com/events/texting-tuesdays-9-15?format=ical",
-"https://maurakeller.com/events/texting-tuesdays-9-22",
-"https://maurakeller.com/events/texting-tuesdays-9-22?format=ical",
-"https://maurakeller.com/events/texting-tuesdays-9-29",
-"https://maurakeller.com/events/texting-tuesdays-9-29?format=ical",
-"https://maurakeller.com/events/texting-tuesdays-9-8",
-"https://maurakeller.com/events/texting-tuesdays-9-8?format=ical",
-"https://maurakeller.com/events?category=Coweta",
-"https://maurakeller.com/events?category=Fayette",
-"https://maurakeller.com/events?category=Lamar",
-"https://maurakeller.com/events?category=Political+Action",
-"https://maurakeller.com/events?category=Town+Hall",
-"https://maurakeller.com/events?category=Volunteer",
-"https://maurakeller.com/issues",
-"https://maurakeller.com/join",
-"https://maurakeller.com/meet",
-"https://maurakeller.com/news",
-"https://maurakeller.com/privacy-policy",
-"https://maurakeller.com/take-action",
-"https://maurakeller.com/volunteer",
-"https://maurakeller.com/yardsigns",
-"https://mvp.sos.ga.gov/s",
-"https://reddit.com/r/maurakeller",
-"https://secure.actblue.com/donate/mkellerwebsite",
-"https://tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1",
-"https://x.com/MauraKellerGA",
-"https://youtube.com/@GetMoreWithMaura"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+newnan%2C+georgia+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=276+old+alabama+road+milner%2C+georgia%2C+30257+united+states"
+},
+{
+"text": "0",
+"href": "https://maurakeller.com/cart"
+},
+{
+"text": "Back",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "Birthday Bash with Spencer Lewis and Ground Game Georgia",
+"href": "https://maurakeller.com/events/spencer-birthday-bash"
+},
+{
+"text": "Canvass with the Fayette Young Dems",
+"href": "https://maurakeller.com/events/young-dems-canvass"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Coweta County",
+"href": "https://maurakeller.com/events/canvass-coweta-09-10"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | FAyette County",
+"href": "https://maurakeller.com/events/canvass-09-06"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | FAyette County",
+"href": "https://maurakeller.com/events/canvass-09-11"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-05"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-09"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-10"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-12"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-13"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-16"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-17"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-18"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-19"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-20"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-23"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-24"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-25"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-26"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-27"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-09-27-ra354"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-10-25"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign | Fayette County",
+"href": "https://maurakeller.com/events/canvass-11-1"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign!",
+"href": "https://maurakeller.com/events/canvass-09-04"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign!",
+"href": "https://maurakeller.com/events/canvass-09-08"
+},
+{
+"text": "Canvass with the Maura Keller for Congress Campaign!",
+"href": "https://maurakeller.com/events/canvass-09-30"
+},
+{
+"text": "Contact",
+"href": "https://maurakeller.com/contact"
+},
+{
+"text": "Contact Us",
+"href": "https://maurakeller.com/contact"
+},
+{
+"text": "Coweta",
+"href": "https://maurakeller.com/events?category=Coweta"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mkellerwebsite"
+},
+{
+"text": "Early Voting",
+"href": "https://maurakeller.com/early-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://maurakeller.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://maurakeller.com/events"
+},
+{
+"text": "Fayette",
+"href": "https://maurakeller.com/events?category=Fayette"
+},
+{
+"text": "Fayette County Democratic Committee",
+"href": "http://maps.google.com?q=185+kathi+avenue+fayetteville%2C+georgia%2C+30214+united+states"
+},
+{
+"text": "Folder: About",
+"href": "https://maurakeller.com/about"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://maurakeller.com/take-action"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Birthday+Bash+with+Spencer+Lewis+and+Ground+Game+Georgia&dates=20260910T233000Z%2F20260911T013000Z&location=Newnan%2C+Georgia%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Fayette+Young+Dems&dates=20261007T210000Z%2F20261008T000000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260903T210000Z%2F20260904T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260904T180000Z%2F20260904T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign%21&dates=20260930T210000Z%2F20261001T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Coweta+County&dates=20260910T210000Z%2F20260911T010000Z&location=Newnan%2C+Georgia%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+FAyette+County&dates=20260906T180000Z%2F20260907T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+FAyette+County&dates=20260911T180000Z%2F20260911T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260905T150000Z%2F20260905T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260909T210000Z%2F20260910T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260910T210000Z%2F20260911T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260912T150000Z%2F20260912T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260913T180000Z%2F20260914T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260916T210000Z%2F20260917T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260917T210000Z%2F20260918T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260918T180000Z%2F20260918T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260919T150000Z%2F20260919T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260920T180000Z%2F20260921T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260923T210000Z%2F20260924T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260924T210000Z%2F20260925T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260925T180000Z%2F20260925T200000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260926T150000Z%2F20260926T203000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20260927T180000Z%2F20260928T013000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20261011T210000Z%2F20261012T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20261025T210000Z%2F20261026T010000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+with+the+Maura+Keller+for+Congress+Campaign+%7C+Fayette+County&dates=20261101T220000Z%2F20261102T020000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rally+with+Mayor+Keisha+Lance+Bottoms+in+Milner%2C+GA&dates=20260912T160000Z%2F20260912T220000Z&location=276+Old+Alabama+Road%2C+Milner%2C+Georgia%2C+30257%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Reddit+AMA+with+r%2Fpolitics&dates=20260904T150000Z%2F20260904T220000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Serve+the+People%3A+Canvass+with+Maura+and+Ground+Game+Georgia+in+Newnan&dates=20260913T210000Z%2F20260913T230000Z&location=Newnan%2C+Georgia%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260908T223000Z%2F20260909T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260922T223000Z%2F20260923T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20260929T223000Z%2F20260930T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20261006T223000Z%2F20261007T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+Tuesdays+with+Maura+Keller&dates=20261013T223000Z%2F20261014T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Texting+and+Postcard+Writing+Party+with+Maura+Keller&dates=20260915T223000Z%2F20260916T003000Z&location=185+Kathi+Avenue%2C+Fayetteville%2C+Georgia%2C+30214%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-04?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-05?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-06?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-08?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-09?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-10?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-11?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-16?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-17?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-18?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-19?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-20?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-23?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-24?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-25?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-26?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-27-ra354?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-27?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-09-30?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-10-25?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-11-1?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-coweta-09-10?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/canvass-coweta-09-12?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/rally-with-keisha-milner?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/reddit-ama-r-politics?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/spencer-birthday-bash?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-6?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-15?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-22?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-29?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://maurakeller.com/events/young-dems-canvass?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://maurakeller.com/issues"
+},
+{
+"text": "Join",
+"href": "https://maurakeller.com/join"
+},
+{
+"text": "Lamar",
+"href": "https://maurakeller.com/events?category=Lamar"
+},
+{
+"text": "Meet Maura",
+"href": "https://maurakeller.com/meet"
+},
+{
+"text": "News",
+"href": "https://maurakeller.com/news"
+},
+{
+"text": "Political Action",
+"href": "https://maurakeller.com/events?category=Political+Action"
+},
+{
+"text": "Privacy Policy/Terms of Service",
+"href": "https://maurakeller.com/privacy-policy"
+},
+{
+"text": "Rally with Mayor Keisha Lance Bottoms in Milner, GA",
+"href": "https://maurakeller.com/events/rally-with-keisha-milner"
+},
+{
+"text": "Read more →",
+"href": "https://maurakeller.com/events/young-dems-canvass"
+},
+{
+"text": "Reddit AMA with r/politics",
+"href": "https://maurakeller.com/events/reddit-ama-r-politics"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://maurakeller.com/yardsigns"
+},
+{
+"text": "Serve the People: Canvass with Maura and Ground Game Georgia in Newnan",
+"href": "https://maurakeller.com/events/canvass-coweta-09-12"
+},
+{
+"text": "Text Bank",
+"href": "https://maurakeller.com/events?tag=Text+Bank"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-6"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-22"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-29"
+},
+{
+"text": "Texting Tuesdays with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
+},
+{
+"text": "Texting and Postcard Writing Party with Maura Keller",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-15"
+},
+{
+"text": "Town Hall",
+"href": "https://maurakeller.com/events?category=Town+Hall"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-04"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-05"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-06"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-08"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-09"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-10"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-11"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-12"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-13"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-16"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-17"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-18"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-19"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-20"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-23"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-24"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-25"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-26"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-27"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-27-ra354"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-09-30"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-10-25"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-11-1"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-coweta-09-10"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/canvass-coweta-09-12"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/rally-with-keisha-milner"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/reddit-ama-r-politics"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/spencer-birthday-bash"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-6"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-15"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-22"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-29"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
+},
+{
+"text": "View Event →",
+"href": "https://maurakeller.com/events/young-dems-canvass"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/events?category=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/events?tag=Volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://maurakeller.com/volunteer"
+},
+{
+"text": "[image: Birthday Bash with Spencer Lewis and Ground Game Georgia]",
+"href": "https://maurakeller.com/events/spencer-birthday-bash"
+},
+{
+"text": "[image: Canvass with the Fayette Young Dems]",
+"href": "https://maurakeller.com/events/young-dems-canvass"
+},
+{
+"text": "[image: Canvass with the Fayette Young Dems] Oct 7",
+"href": "https://maurakeller.com/events/young-dems-canvass"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Coweta County]",
+"href": "https://maurakeller.com/events/canvass-coweta-09-10"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | FAyette County]",
+"href": "https://maurakeller.com/events/canvass-09-06"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | FAyette County]",
+"href": "https://maurakeller.com/events/canvass-09-11"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-05"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-09"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-10"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-12"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-13"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-16"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-17"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-18"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-19"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-20"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-23"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-24"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-25"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-26"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-27"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-09-27-ra354"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-10-25"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign | Fayette County]",
+"href": "https://maurakeller.com/events/canvass-11-1"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign!]",
+"href": "https://maurakeller.com/events/canvass-09-04"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign!]",
+"href": "https://maurakeller.com/events/canvass-09-08"
+},
+{
+"text": "[image: Canvass with the Maura Keller for Congress Campaign!]",
+"href": "https://maurakeller.com/events/canvass-09-30"
+},
+{
+"text": "[image: Maura Keller]",
+"href": "https://maurakeller.com/"
+},
+{
+"text": "[image: Rally with Mayor Keisha Lance Bottoms in Milner, GA]",
+"href": "https://maurakeller.com/events/rally-with-keisha-milner"
+},
+{
+"text": "[image: Reddit AMA with r/politics]",
+"href": "https://maurakeller.com/events/reddit-ama-r-politics"
+},
+{
+"text": "[image: Serve the People: Canvass with Maura and Ground Game Georgia in Newnan]",
+"href": "https://maurakeller.com/events/canvass-coweta-09-12"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-13"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-10-6"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-22"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-29"
+},
+{
+"text": "[image: Texting Tuesdays with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-8"
+},
+{
+"text": "[image: Texting and Postcard Writing Party with Maura Keller]",
+"href": "https://maurakeller.com/events/texting-tuesdays-9-15"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maurakellerforga.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MauraKellerforGeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maurakellerforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/maura-keller-68581424/"
+},
+{
+"text": "[no text]",
+"href": "https://www.reddit.com/r/maurakeller/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maurakellerforgeorgia?_t=ZT-8tGE40vFvHG&_r=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GetMoreWithMaura"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/MauraKellerGA"
+},
+{
+"text": "maura@maurakeller.com",
+"href": "mailto:maura@maurakeller.com"
+}
 ]

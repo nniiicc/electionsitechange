@@ -1,35 +1,134 @@
 [
-"https://facebook.com/NickAllenForMD",
-"https://instagram.com/nickallenformd",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0444?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0554?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0598?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0860?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0983?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1424?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1532?ys=2026rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0674?ys=2024RS&search=True",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0791?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1188?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0107?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0173?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0273?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0475?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0480?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0494?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0513?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0564?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0571?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0698?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0699?ys=2025RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0969?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1028?ys=2024RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1137?ys=2026RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0346?ys=2026RS",
-"https://nickallenformd.com/",
-"https://nickallenformd.com/cookie-policy",
-"https://nickallenformd.com/legislation",
-"https://nickallenformd.com/privacy-policy",
-"https://nickallenformd.com/terms-and-conditions",
-"https://tiktok.com/@nickallenformd?lang=en"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/NickAllenForMD/"
+},
+{
+"text": "Get Involved",
+"href": "https://nickallenformd.com/#get-involved"
+},
+{
+"text": "HB 0571",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0571?ys=2026RS"
+},
+{
+"text": "HB 107",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0107?ys=2026RS"
+},
+{
+"text": "HB 1137",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1137?ys=2026RS"
+},
+{
+"text": "HB 1532",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1532/?ys=2026rs"
+},
+{
+"text": "HB 564",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0564?ys=2026RS"
+},
+{
+"text": "HB 969",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0969?ys=2026RS"
+},
+{
+"text": "HB1028/SB0951",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb1028?ys=2024RS"
+},
+{
+"text": "HB1424",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1424?ys=2025RS"
+},
+{
+"text": "HB1461/SB674",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0674?ys=2024RS&search=True"
+},
+{
+"text": "HB1526",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB1188?ys=2024RS"
+},
+{
+"text": "HB273",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0273?ys=2025RS"
+},
+{
+"text": "HB444",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0444/?ys=2026rs"
+},
+{
+"text": "HB475",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0475?ys=2025RS"
+},
+{
+"text": "HB480/SB286",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0480?ys=2023RS"
+},
+{
+"text": "HB494",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0494?ys=2025RS"
+},
+{
+"text": "HB513",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0513?ys=2025RS"
+},
+{
+"text": "HB554/SB553",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0554?ys=2023rs"
+},
+{
+"text": "HB598/SB413",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0598?ys=2024RS"
+},
+{
+"text": "HB698",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0698?ys=2025RS"
+},
+{
+"text": "HB699",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0699?ys=2025RS"
+},
+{
+"text": "HB860",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0860?ys=2024RS"
+},
+{
+"text": "HB983",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0983?ys=2023rs"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/nickallenformd/"
+},
+{
+"text": "Legislation",
+"href": "https://nickallenformd.com/legislation/"
+},
+{
+"text": "Meet Nick",
+"href": "https://nickallenformd.com/#about-nick-allen"
+},
+{
+"text": "Priorities",
+"href": "https://nickallenformd.com/#priorities"
+},
+{
+"text": "SB 35 and HB 173",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0173?ys=2026RS"
+},
+{
+"text": "SB0346",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0346?ys=2026RS"
+},
+{
+"text": "SB0791",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0791?ys=2026RS"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@nickallenformd?lang=en"
+},
+{
+"text": "[image]",
+"href": "https://nickallenformd.com"
+}
 ]

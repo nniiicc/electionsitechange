@@ -1,5 +1,4 @@
-About Ken
-Having grown up in the 48th District, attending Jefferson County Public Schools (Wilder, Kammerer, Ballard), serving as Louisville Metro Councilman from 2003-2014 and as State Representative for District 48 for four (4) terms, Ken understands the issues facing his neighbors and leverages his business and government experience to stand up for families.
+About Ken Accomplishments Issues & Actions Get Involved How to Vote in the General Election Donate Contact Select Page About Ken Having grown up in the 48th District, attending Jefferson County Public Schools (Wilder, Kammerer, Ballard), serving as Louisville Metro Councilman from 2003-2014 and as State Representative for District 48 for four (4) terms, Ken understands the issues facing his neighbors and leverages his business and government experience to stand up for families.
 For many years, Ken managed his family’s aerial surveying and mapping company and was elected as national president of his business association working with state and federal government officials.
 He developed the skill of fixing problems, finding solutions and creating opportunities to better serve his clients.
 Prior to running his company, he was in the finance industry for 10 years.
@@ -9,4 +8,6 @@ He has coached middle and high school girls’ sports and has volunteered his ti
 Ken has been influenced by the strong women in his family which served as a basis for him to push for legislation and programs to help families.
 Ken and his wife, Ann, have raised two daughters and he enjoys precious time with his family, at the beach, and flying.
 “I believe in supporting families by helping to provide resources and keeping you in mind when making sound policy and funding decisions.
-Through my leadership positions, you have a seat at the table and your voice is heard.”
+Through my leadership positions, you have a seat at the table and your voice is heard.” Phone: 502.276.5659 | PO Box 6573, Louisville, KY 40206 © Fleming for Kentucky # - #.
+All Rights Reserved.
+PAID FOR BY KEN FLEMING

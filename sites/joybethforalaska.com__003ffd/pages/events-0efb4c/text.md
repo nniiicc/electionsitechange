@@ -1,11 +1,12 @@
 Thank you District 34 for Turning Out!
 We won the Primary with 52.99%!!
-Signed in as:
-filler@godaddy.com
-Please check back regularly for events.
-If you can't make it due to other obligations , but want to support the campaign:
-Kid Friendly Spring BBQ in Two Rivers!
-Paid for by: Friends of Joy Beth Cottle
-390 Goldstream Rd Fairbanks AK 99712
-Copyright © 2026 Friends of Joy Beth Cottle - All Rights Reserved.
-joybeth@joybethforalaska.com
+Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer More Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Bio Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Account My Account Sign out Sign In My Account Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Joy Beth Cottle For State House District 34 Events Please check back regularly for events.
+If you can't make it due to other obligations , but want to support the campaign: Contribute Now!
+Conversation and Coffee with Cottle Stop by Alaska Coffee Roasting Co at 4001 Geist Rd on October 25th from 10-11 and share your concerns, talk to the candidate, and caffeinate!
+Fundraiser Hosted by the Hopkins Family - details tbd October 11th Conversation and Coffee with Cottle Stop by Little Owl 2.0 at 418 3rd St on October 7th from 10-11 and share your concerns, talk to the candidate, and caffeinate!
+Conversation and Coffee with Cottle Stop by Crave at 235 Santa Claus Ln on September 20th from 11-12 and share your concerns, talk to the candidate, and caffeinate!
+Humble Roots Meet and Greet Joint Fundraiser Featuring Four of Alaska's empowered women Wednesday September 2, 2026 at the lovely home of Marty Rutherford, 2371 Loussac Dr, Anchorage, AK 99517 - Live music provided Tanana Valley Fair July 31-August 9 Stop by our booth in the Borealis Building to warm up by the fire, talk to Joy Beth, and pick up a yard sign or magnet!
+Salcha Fair June 27th Come out to the Salcha Fairgrounds and enjoy fun, crafts, and most importantly, the people!
+BBQ at the Home of Edward Alexander June 7th BBQ in Two Rivers May 23 Kid Friendly Spring BBQ in Two Rivers!
+Auction and Potluck at the home of Sean and Sharon May 22 Campaign Kickoff March 4th Turtle Club at 6 PM!
+Related News and Articles Events Endorsements Privacy Policy Sign up for updates Volunteer Paid for by: Friends of Joy Beth Cottle 390 Goldstream Rd Fairbanks AK 99712 (907)388-6280 Copyright © # Friends of Joy Beth Cottle - All Rights Reserved. joybeth@joybethforalaska.com

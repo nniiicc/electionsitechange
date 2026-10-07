@@ -1,17 +1,14 @@
-The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
-The two-bill package of legislation is designed to…
-As details emerge about the travesty in Lewiston, I want to send my deepest condolences to the community.
-Passing common sense gun legislation is our…
-Together with the governor, our priorities tie nicely together for a brighter Michigan future and for the wellbeing of Michiganders.
-Let’s continue to prioritize positive…
-TODAY!!!
+Home About News Volunteer Donate Contact Contribute Family Home All Posts Family Home About News Volunteer Donate Contact Family Law News Rights & Obligations June 5, 2024 House Criminal Justice Committee holds hearing on Messiah’s Law by webmaster 0 Comments The Michigan House Criminal Justice Committee met Tuesday, Jun 4th, 2024 for a hearing on Messiah’s Law.
+The two-bill package of legislation is designed to… Continue reading Family October 27, 2023 My deepest condolences to the Lewiston community. by webmaster 0 Comments As details emerge about the travesty in Lewiston, I want to send my deepest condolences to the community.
+Passing common sense gun legislation is our… Continue reading Family Law News January 27, 2023 State of the State by webmaster 0 Comments Together with the governor, our priorities tie nicely together for a brighter Michigan future and for the wellbeing of Michiganders.
+Let’s continue to prioritize positive… Continue reading Family News Priorities & Structure June 8, 2022 Introducing the 4 Pillars Project. by webmaster 0 Comments TODAY!!!
 History was MADE!!
 Cathedral of Faith Church, Grace Emmanuel Baptist Church, Mt.
-Carmel Baptist Church in partnership with GHS and the City of Flint…
-Join State Representative Neeley and Friends at the 18th Golden Egg Hunt on Saturday April 16th, from 11am – 1pm
-March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/
-God blessed my husband and I to take the pain of losing our mothers with the vision of sharing with other mothers.
-Today the vision…
-Yesterday we introduced bills for EQUAL pay for everyone
-Today I cast many vote on a package that will LOWER prescription drugs!
-Please join Representative Cynthia Neeley for coffee and conversation on Monday, March 15th at 9:30 a.m. at Dom’s Diner located at 3833 Corunna Road in…
+Carmel Baptist Church in partnership with GHS and the City of Flint… Continue reading Family News April 14, 2022 18th Annual Golden Egg Hunt by webmaster 0 Comments Join State Representative Neeley and Friends at the 18th Golden Egg Hunt on Saturday April 16th, from 11am – 1pm Continue reading Family News Priorities & Structure March 9, 2022 Encouraging all children to read… by webmaster 0 Comments March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/ Continue reading Family News February 13, 2022 Celebrating Mothers by webmaster 0 Comments God blessed my husband and I to take the pain of losing our mothers with the vision of sharing with other mothers.
+Today the vision… Continue reading Family News March 25, 2021 We Introduced bills for EQUAL pay for everyone by webmaster 0 Comments Yesterday we introduced bills for EQUAL pay for everyone Continue reading Family News Priorities & Structure March 24, 2021 Voting to lower prescriptions by webmaster 0 Comments Today I cast many vote on a package that will LOWER prescription drugs!
+Continue reading Family News Priorities & Structure March 8, 2021 Coffee & Conversation with Representative Cynthia Neeley by webmaster 0 Comments Please join Representative Cynthia Neeley for coffee and conversation on Monday, March 15th at 9:30 a.m. at Dom’s Diner located at 3833 Corunna Road in… Continue reading Posts pagination Page 1 Page 2 > Search Search for: Categories Election (5) Family (15) Law (5) News (34) Priorities & Structure (11) Rights & Obligations (8) Recent Posts Election, News Rep.
+Neeley and Mayor Neeley welcomes VP Kamala Harris to Flint for Rally.
+October 7, 2024 Election, News Attending the 2024 Democratic National Convention August 26, 2024 Tags articles law news Opinions politics Topics Calendar October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Oct twitter facebook youtube Useful Links Home About Cynthia News Volunteer Privacy Policy Contact Contact Info 1809 James P Cole Blvd Flint, MI 48503 (810) 458-3936 cynthia@cynthianeeley.com Stay in Touch Paid for by Committee to Elect Cynthia R.
+Neeley, 2305 Begole St.
+Flint, MI 48504 | ©#.
+All Rights Reserved.

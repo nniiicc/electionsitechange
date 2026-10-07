@@ -1,9 +1,50 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://facebook.com/SenatorTimNangle",
-"https://facebook.com/TimNangleforMaineSenate",
-"https://instagram.com/senatortimnangle",
-"https://nangleformaine.com/",
-"https://nangleformaine.com/join-the-campaign",
-"https://nangleformaine.com/my-record"
+{
+"text": ".",
+"href": "https://www.nangleformaine.com/my-record"
+},
+{
+"text": "Home",
+"href": "https://www.nangleformaine.com/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://www.nangleformaine.com/join-the-campaign"
+},
+{
+"text": "Maine Clean Elections",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "My Record",
+"href": "https://www.nangleformaine.com/my-record"
+},
+{
+"text": "NangleforMaine@gmail.com",
+"href": "mailto:NangleforMaine@gmail.com"
+},
+{
+"text": "See more about Tim's legislative record here",
+"href": "https://www.nangleformaine.com/my-record"
+},
+{
+"text": "[image: Tim Nangle Maine Senate logo]",
+"href": "https://www.nangleformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/SenatorTimNangle"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/TimNangleforMaineSenate"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/senatortimnangle/"
+}
 ]

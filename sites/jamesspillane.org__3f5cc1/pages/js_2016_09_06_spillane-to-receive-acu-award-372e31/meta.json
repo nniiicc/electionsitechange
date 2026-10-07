@@ -1,9 +1,12 @@
 {
  "description": "The American Conservative Union Foundation has sent a letter informing Candidate for and current State Representative James Spillane that he has earned an ACU Ratings Award for his excellent voting record in the 2016 session",
  "final_url": "https://jamesspillane.org/js/2016/09/06/spillane-to-receive-acu-award/",
- "paid_for_by": null,
+ "fingerprint": "598212d4ac66b59c6ea0e2e73297c4987db1e6cf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Spillane to Receive ACU Award | James Spillane for NH State Representative",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2026"
  ]
 }

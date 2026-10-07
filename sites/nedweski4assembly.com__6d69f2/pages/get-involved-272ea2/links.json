@@ -1,8 +1,42 @@
 [
-"https://donorbox.org/nedweski-for-wi-state-assembly",
-"https://myvote.wi.gov/en-us/Register-To-Vote",
-"https://nedweski4assembly.com/",
-"https://nedweski4assembly.com/get-involved",
-"https://nedweski4assembly.com/meet-amanda",
-"https://nedweski4assembly.com/platform"
+{
+"text": "DONATE!",
+"href": "https://donorbox.org/nedweski-for-wi-state-assembly"
+},
+{
+"text": "Email Amanda",
+"href": "mailto:amanda4office@gmail.com?subject=Email+from+Website"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.nedweski4assembly.com/get-involved"
+},
+{
+"text": "I’ll Host a Fundraiser!",
+"href": "mailto:amanda4office@gmail.com?subject=I+Want+to+Host+a+Fundraiser+for+Amanda%21"
+},
+{
+"text": "I’ll Volunteer!",
+"href": "mailto:amanda4office@gmail.com?subject=I+Want+to+Host+a+Volunteer+for+Amanda%21"
+},
+{
+"text": "MEET AMANDA",
+"href": "https://www.nedweski4assembly.com/meet-amanda"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.nedweski4assembly.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://myvote.wi.gov/en-us/Register-To-Vote"
+},
+{
+"text": "[image]",
+"href": "https://www.nedweski4assembly.com"
+},
+{
+"text": "amanda4office@gmail.com",
+"href": "mailto:amanda4office@gmail.com"
+}
 ]

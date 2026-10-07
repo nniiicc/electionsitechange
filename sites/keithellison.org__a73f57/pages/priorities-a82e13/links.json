@@ -1,18 +1,86 @@
 [
-"https://bsky.app/profile/keithellison.bsky.social",
-"https://facebook.com/ellisoncampaign",
-"https://instagram.com/ellisoncampaign",
-"https://keithellison.org/",
-"https://keithellison.org/about",
-"https://keithellison.org/affording-your-life",
-"https://keithellison.org/cart",
-"https://keithellison.org/endorsements",
-"https://keithellison.org/fighting-fraud",
-"https://keithellison.org/priorities",
-"https://keithellison.org/protecting-the-health-and-safety-of-minnesotans",
-"https://keithellison.org/standing-up-to-donald-trump",
-"https://keithellison.org/volunteer",
-"https://secure.actblue.com/donate/keith-ellison?amount=25",
-"https://tiktok.com/@keithforag",
-"https://twitter.com/keithellison"
+{
+"text": "0",
+"href": "https://www.keithellison.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.keithellison.org/about"
+},
+{
+"text": "Affording Your Life",
+"href": "https://www.keithellison.org/affording-your-life"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/keith-ellison?amount=25"
+},
+{
+"text": "Endorsements",
+"href": "https://www.keithellison.org/endorsements"
+},
+{
+"text": "Fighting Fraud",
+"href": "https://www.keithellison.org/fighting-fraud"
+},
+{
+"text": "Keith’s Priorities",
+"href": "https://www.keithellison.org/priorities"
+},
+{
+"text": "Learn More",
+"href": "https://www.keithellison.org/affording-your-life"
+},
+{
+"text": "Learn More",
+"href": "https://www.keithellison.org/fighting-fraud"
+},
+{
+"text": "Learn More",
+"href": "https://www.keithellison.org/protecting-the-health-and-safety-of-minnesotans"
+},
+{
+"text": "Learn More",
+"href": "https://www.keithellison.org/standing-up-to-donald-trump"
+},
+{
+"text": "Public Safety & Health",
+"href": "https://www.keithellison.org/protecting-the-health-and-safety-of-minnesotans"
+},
+{
+"text": "Standing up to Trump",
+"href": "https://www.keithellison.org/standing-up-to-donald-trump"
+},
+{
+"text": "Volunteer",
+"href": "https://www.keithellison.org/volunteer"
+},
+{
+"text": "[image: Keith Ellison for Attorney General]",
+"href": "https://www.keithellison.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/keithellison.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/keithellison"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ellisoncampaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ellisoncampaign/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@keithforag"
+},
+{
+"text": "campaign@keithellison.org",
+"href": "mailto:campaign@keithellison.org"
+}
 ]

@@ -1,13 +1,11 @@
-Justin
-Meet
-I was born and raised in Greenville and Transfer, Pennsylvania, where my family had lived for eight generations.
+0 Skip to Content HOME ABOUT ENDORSEMENTS PLATFORM VOLUNTEER CONTACT DONATE Open Menu Close Menu HOME ABOUT ENDORSEMENTS PLATFORM VOLUNTEER CONTACT DONATE Open Menu Close Menu HOME ABOUT ENDORSEMENTS PLATFORM VOLUNTEER CONTACT DONATE Justin Meet I was born and raised in Greenville and Transfer, Pennsylvania, where my family had lived for eight generations.
 After my graduation from Reynolds High School in 1998, I continued my education at ITT Technical Institute and took additional classes at Youngstown State University.
 I started working at the age of 15, earning my way through school.
 My early jobs included bagging groceries at Giant Eagle and working at Trinity Industries (the old Steel Car plant), where I loaded steel plates into a furnace all day.
 I would attend classes all morning at ITT, then head straight to Trinity for the evening shift- a work ethic that has never left me.
 After completing my education, I answered the call to serve my country.
 I joined the Army, completing basic training at Fort Jackson and Flight Operations Specialist training at Fort Rucker.
-I went on to serve in South Korea with the 6th Cavalry, then stateside at Fort Hood, Texas, with the 4th Infantry Division.
+I went on to serve in South Korea with the 6th Cavalry , then stateside at Fort Hood, Texas, with the 4th Infantry Division.
 In 2006 I deployed to Iraq, supporting combat operations during Operation Iraqi Freedom.
 After my active duty tour, I continued my service in the Army Reserves with the 377th Engineer Company in Butler, Pa.
 For the past 15 years I have worked as a senior automation engineer.
@@ -29,3 +27,6 @@ We need someone who will hold wealthy elite to the highest standards, and act sw
 We need someone who will not sell out our votes.
 We need someone who will show up and listen to us, here in our district.
 I do not think these are tall demands.
+Read my positions DONATE CONTACT PRIVACY POLICY/TERMS OF SERVICE Mail check contributions to: Justin Wagner For Congress PO Box 121 Mercer PA 16137 PAID FOR BY JUSTIN WAGNER FOR CONGRESS The views/opinions/imagery presented on this website do not represent the views of The U.S.
+Department of Defense. ©# Wagner for Congress.
+All rights reserved.

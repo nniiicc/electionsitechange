@@ -1,38 +1,206 @@
 [
-"https://bsky.app/profile/herreraformissouri.bsky.social",
-"https://cookiedatabase.org/tcf/purposes",
-"https://dor.mo.gov/",
-"https://facebook.com/profile.php?id=61576755631122",
-"https://instagram.com/jordanherreraforcongress",
-"https://iwillvote.com/votinginfo/MO",
-"https://jordanjherrera.com/",
-"https://jordanjherrera.com/about",
-"https://jordanjherrera.com/contact",
-"https://jordanjherrera.com/events",
-"https://jordanjherrera.com/home",
-"https://jordanjherrera.com/issues",
-"https://jordanjherrera.com/message-from-the-candidate",
-"https://jordanjherrera.com/privacy-statement-us",
-"https://jordanjherrera.com/terms-and-conditions",
-"https://jordanjherrera.com/volunteer",
-"https://jordanjherrera.com/vote",
-"https://linkedin.com/in/jordan-herrera-5a819a207",
-"https://movotesportal.sos.mo.gov/movotes/voter/login.aspx",
-"https://nerotechsolutions.com/",
-"https://s1.sos.mo.gov/voteridhelp",
-"https://secure.actblue.com/donate/jordan-herrera-1",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true",
-"https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true",
-"https://sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AbsenteeBallotRequestForm.pdf",
-"https://sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AcceptableFormsVoterID.pdf",
-"https://sos.mo.gov/elections/goVoteMissouri/localelectionauthority",
-"https://sos.mo.gov/elections/govotemissouri/register",
-"https://sos.mo.gov/voterid",
-"https://store.jordanjherrera.com/",
-"https://threads.com/@jordanherreraforcongress",
-"https://tiktok.com/@herreraformissouri?lang=en",
-"https://voteroutreach.sos.mo.gov/portal"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=100&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=25&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=250&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=5&express_lane=true"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1?amount=50&express_lane=true"
+},
+{
+"text": "(573) 751-6387",
+"href": "tel:+15737516387"
+},
+{
+"text": "573-526-VOTE (8683)",
+"href": "tel:+15735268683"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about"
+},
+{
+"text": "About",
+"href": "https://jordanjherrera.com/about/"
+},
+{
+"text": "Check Voter Registration",
+"href": "https://voteroutreach.sos.mo.gov/portal"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://jordanjherrera.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events"
+},
+{
+"text": "Events",
+"href": "https://jordanjherrera.com/events/"
+},
+{
+"text": "Home",
+"href": "https://jordanjherrera.com/"
+},
+{
+"text": "Home",
+"href": "https://jordanjherrera.com/home"
+},
+{
+"text": "I Will Vote",
+"href": "https://iwillvote.com/votinginfo/MO"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://jordanjherrera.com/issues/"
+},
+{
+"text": "Local Election Authority",
+"href": "https://www.sos.mo.gov/elections/goVoteMissouri/localelectionauthority"
+},
+{
+"text": "Merch",
+"href": "https://store.jordanjherrera.com"
+},
+{
+"text": "Message from Jordan",
+"href": "https://jordanjherrera.com/message-from-the-candidate/"
+},
+{
+"text": "Message from the Candidate",
+"href": "https://jordanjherrera.com/message-from-the-candidate"
+},
+{
+"text": "Military Voting",
+"href": "https://movotesportal.sos.mo.gov/movotes/voter/login.aspx"
+},
+{
+"text": "Missouri Department of Revenue",
+"href": "https://dor.mo.gov/"
+},
+{
+"text": "Missouri Secretary of State",
+"href": "https://www.sos.mo.gov/voterid"
+},
+{
+"text": "Nerotech Solutions LLC",
+"href": "https://nerotechsolutions.com"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/jordan-herrera-1"
+},
+{
+"text": "Phone: +1 816-287-2326",
+"href": "tel:+18162872326"
+},
+{
+"text": "Privacy Statement",
+"href": "https://jordanjherrera.com/privacy-statement-us"
+},
+{
+"text": "Register Now!",
+"href": "https://www.sos.mo.gov/elections/govotemissouri/register"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AbsenteeBallotRequestForm.pdf"
+},
+{
+"text": "Request Help Here",
+"href": "https://s1.sos.mo.gov/voteridhelp"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://jordanjherrera.com/terms-and-conditions"
+},
+{
+"text": "VitalRecordsInfo@health.mo.gov",
+"href": "mailto:VitalRecordsInfo@health.mo.gov"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://jordanjherrera.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote"
+},
+{
+"text": "Vote",
+"href": "https://jordanjherrera.com/vote/"
+},
+{
+"text": "Voter ID Information",
+"href": "https://www.sos.mo.gov/voterid"
+},
+{
+"text": "[image: Jordan J Herrera]",
+"href": "https://jordanjherrera.com"
+},
+{
+"text": "[image]",
+"href": "https://jordanjherrera.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/herreraformissouri.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576755631122"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jordanherreraforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/jordan-herrera-5a819a207"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jordanherreraforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@herreraformissouri?lang=en"
+},
+{
+"text": "https://dor.mo.gov/",
+"href": "https://dor.mo.gov/"
+},
+{
+"text": "provisional ballot.",
+"href": "https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri/AcceptableFormsVoterID.pdf"
+}
 ]

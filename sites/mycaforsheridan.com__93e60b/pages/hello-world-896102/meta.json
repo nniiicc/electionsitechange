@@ -1,8 +1,10 @@
 {
  "description": "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
  "final_url": "https://mycaforsheridan.com/hello-world/",
- "paid_for_by": "Paid for by Myca For Sheridan | Copyright 2026 Page load link Go to Top",
- "title": "Hello world! \u2013 Myca Sturtevant \u2013 Republican for WY House District 29",
+ "fingerprint": "27e301433c59f6e38ac846c9f42e7f2239c151bd",
+ "format": 3,
+ "paid_for_by": "Paid for by Myca For Sheridan",
+ "title": "Hello world! – Myca Sturtevant – Republican for WY House District 29",
  "years_mentioned": [
   "2026"
  ]

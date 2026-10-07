@@ -1,16 +1,102 @@
 [
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/464?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/466?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/469?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/471?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/473?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/474?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/476?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke",
-"https://app.proximityimpact.com/web-volunteer-form/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke",
-"https://facebook.com/profile.php?id=100063918811250",
-"https://instagram.com/reinkeforidaho",
-"https://proximityimpact.com/",
-"https://reinkeforidaho.com/",
-"https://voteidaho.gov/voter-registration"
+{
+"text": "$100",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$1000",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$15",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$35",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$50",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$500",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "$750",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "Brent Reinke",
+"href": "https://reinkeforidaho.com"
+},
+{
+"text": "Contribute",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "Donate",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "Other",
+"href": "https://app.proximityimpact.com/payment-donation/link/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/464?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/466?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/469?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/471?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/473?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/474?name=Brent+D-Reinke"
+},
+{
+"text": "Register",
+"href": "https://app.proximityimpact.com/event-registration-public/70/d49be3ed-25d8-40da-959d-613e0099448d/476?name=Brent+D-Reinke"
+},
+{
+"text": "Register to Vote",
+"href": "https://voteidaho.gov/voter-registration/"
+},
+{
+"text": "Volunteer",
+"href": "https://app.proximityimpact.com/web-volunteer-form/d49be3ed-25d8-40da-959d-613e0099448d?name=Brent+D-Reinke"
+},
+{
+"text": "[image]",
+"href": "https://proximityimpact.com/"
+},
+{
+"text": "[image]",
+"href": "https://reinkeforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100063918811250"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/reinkeforidaho/"
+},
+{
+"text": "reinkeforidaho@gmail.com",
+"href": "mailto:reinkeforidaho@gmail.com"
+}
 ]

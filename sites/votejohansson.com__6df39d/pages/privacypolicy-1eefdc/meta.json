@@ -1,9 +1,12 @@
 {
  "description": "Vote Johansson website privacy policy",
  "final_url": "https://www.votejohansson.com/privacypolicy",
+ "fingerprint": "8775ca21cc70aa63154b5d8ade07ce615505a6d0",
+ "format": 3,
  "paid_for_by": "Paid for by Jamie Johansson for Assembly 2026 Share by:",
  "title": "Vote Johansson Privacy Policy",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

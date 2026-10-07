@@ -1,9 +1,11 @@
-NEWS &
-UPDATES
-NEWS FROM THE CAMPAIGN
-Loading news...
-STAY INFORMED
-Get the latest campaign updates, news, and event invitations delivered to your inbox.
-DONATE NOW
-CALIFORNIA STATE SENATE SD-36
-UPDATES
+HOME ABOUT ISSUES ENDORSEMENTS NEWS GALLERY DONATE HOME ABOUT ISSUES ENDORSEMENTS NEWS GALLERY DONATE NOW CALIFORNIA STATE SENATE SD-36 NEWS & UPDATES TONY IN THE NEWS TV • NBC Bay Area Fix 911 Act: Transparency for Next-Gen 911 Project February 12, 2026 NEWS • Sacramento Bee Government Accountability and Transparency in Sacramento February 12, 2026 OP-ED • New York Post California's Dangerous Climate Preening January 27, 2026 NEWS • Orange County Register California Lawmaker Wants Legislature to OK Regulatory Rules with Massive Price Tags January 26, 2026 OP-ED • Orange County Register California Voters Passed Prop 36.
+Sacramento Has Failed to Deliver November 21, 2025 TV • Inside California Politics "The People's Voice Was Heard": GOP Lawmaker Slams Newsom Over Prop 36 Funding November 10, 2025 TV • Spectrum News 1 Proposition 50 Loss Could Be a Rallying Cry for Trump November 4, 2025 TV • KCRA Gov.
+Newsom to Ramp Up State Law Enforcement Presence in Major Cities August 28, 2025 TV • Spectrum News 1 GOP State Sen.
+Tony Strickland Talks Latest on Redistricting Battle August 27, 2025 OP-ED • FOX News Newsom's Backroom Gerrymander Gamble Betrays Voters, Dismantles Democracy August 21, 2025 NEWS • CalMatters Newsom Redistricting: Republican Lawsuit Challenge August 19, 2025 NEWS • The Center Square California Legislature Targets Costly Regulations June 12, 2025 NEWS • Los Angeles Times New Rules Would Severely Limit Gas-Powered Appliances in Southern California June 4, 2025 TV • FOX News Blue State Republican Thankful for Move to Scrap Gas Car Ban May 23, 2025 TV • KCRA California High-Speed Rail's Budget Gap: Bakersfield to Merced May 19, 2025 OP-ED • Sacramento Bee Will Newsom Finally Listen to California's Clear Call for Public Safety?
+May 11, 2025 OP-ED • FOX News Gavin Newsom Is the One Wreaking Chaos on California May 1, 2025 NEWS • The Daily Journal Prop.
+36 Funds Rejected in Party-Line State Senate Vote April 11, 2025 OP-ED • Orange County Register Defund the High-Speed Rail Project to Lower Gas Taxes April 4, 2025 NEWS FROM THE CAMPAIGN Loading news...
+STAY INFORMED Get the latest campaign updates, news, and event invitations delivered to your inbox.
+SUBSCRIBE JOIN THE FIGHT Help Tony Strickland bring common sense back to Sacramento.
+DONATE NOW VOLUNTEER Footer WORKING FOR CALIFORNIA NAVIGATE HOME ABOUT ISSUES ENDORSEMENTS NEWS GALLERY VOLUNTEER ISSUES LETTING TAXPAYERS KEEP THEIR MONEY CUTTING WASTE & LOWERING COSTS KEEPING COMMUNITIES SAFE ELECTION INTEGRITY CONTACT info@stricklandforsenate.com 18685 Main Street, Suite 101-389 Huntington Beach, CA 92648 DONATE TO THE CAMPAIGN 🇺🇸 PRIVACY POLICY TERMS & CONDITIONS © 2026 Tony Strickland for Senate 2026.
+All rights reserved.
+PAID FOR BY TONY STRICKLAND FOR SENATE 2026 ID#1467958

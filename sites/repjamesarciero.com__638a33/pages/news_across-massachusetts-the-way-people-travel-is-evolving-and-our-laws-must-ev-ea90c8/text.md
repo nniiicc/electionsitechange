@@ -1,11 +1,8 @@
-Across Massachusetts, The Way People Travel is Evolving, and Our Laws Must Evolve with It
-Op-Ed from the Office of State Representative James Arciero
-Published on August 12, 2026
-BOSTON - Electric bicycles, scooters, mopeds, and other micromobility devices have become an increasingly common part of daily life.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Across Massachusetts, The Way People Travel is Evolving, and Our Laws Must Evolve with It Aug 12 Written By James Arciero Op-Ed from the Office of State Representative James Arciero Published on August 12, 2026 BOSTON - Electric bicycles, scooters, mopeds, and other micromobility devices have become an increasingly common part of daily life.
 For many residents, they are an essential part of how they get around the Commonwealth.
 But Massachusetts laws were previously not designed to address today's rapidly changing transportation landscape.
 Communities, law enforcement agencies, manufacturers, and riders have all been left without clear guidance about where these devices belong, how they should be regulated, and what safety standards should apply.
-That is why I was proud to be a part of the Commonwealth's first comprehensive statewide framework for micromobility, included in the House's recently passed economic development bill H.5562.
+That is why I was proud to be a part of the Commonwealth's first comprehensive statewide framework for micromobility, included in the House's recently passed economic development bill H.5562 .
 Building on Governor Healey's original bill, The Ride Safe Act (S.3077), the House strengthened the legislation by incorporating recommendations from the Special Commission on Micromobility to provide clearer statewide standards and additional safety protections.
 Last session, the Legislature established the Special Commission on Micromobility to study these issues and recommend a path forward.
 As House Chair of the Joint Committee on Transportation, I had the privilege of serving on that commission alongside my senate co-chair, State Senator Brendan Crighton, MassDOT leadership, transportation officials, public safety leaders, municipal representatives, industry stakeholders, and advocates.
@@ -25,3 +22,4 @@ While this legislation represents an important first step, there is still more w
 The details of implementing and enforcing these policies must be carefully developed in collaboration with municipalities, law enforcement, industry stakeholders, and the public.
 As micromobility technology continues to evolve, so too must our approach to regulating it.
 I look forward to working with my colleagues in the Senate to advance this legislation and continue building a transportation system that is safe and reliable for our communities.
+James Arciero Next Next State Representative Arciero and the Massachusetts House Pass Micromobility Safety Framework included in Economic Development Bill Paid for by the Committee to Elect Jim Arciero

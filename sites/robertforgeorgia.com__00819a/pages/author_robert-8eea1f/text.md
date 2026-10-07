@@ -1,19 +1,3 @@
-Representative Robert Dawson
-About
-Accomplishments
-Donate
-Events
-News
-Instagram
-Facebook
-Sign in
-Subscribe
-Robert Dawson
-2026 Legislative Session
-AJC Op-Ed: How to move forward after ‘big beautiful bill’ put Georgia in a pinch
-Meet Robert
-Rep.
-Dawson @ University of Georgia
-Rep.
-Dawson elected to Harvard Extension Alumni Association Board of Directors
-Chatt Hills Day @ the Capitol
+Representative Robert Dawson About Accomplishments Donate Events News Instagram Facebook Sign in Subscribe Robert Dawson http://electdawson.com 2026 Legislative Session 13 Sep 2026 AJC Op-Ed: How to move forward after ‘big beautiful bill’ put Georgia in a pinch 18 Sep 2025 3 min read Meet Robert 09 Sep 2025 4 min read Rep.
+Dawson @ University of Georgia 02 Sep 2025 2 min read Rep.
+Dawson elected to Harvard Extension Alumni Association Board of Directors 15 Jul 2025 1 min read Chatt Hills Day @ the Capitol 18 Apr 2025 1 min read Sign up Privacy Policy Contact Sign up for Text Messages # © robertforgeorgia.com | All Rights Reserved | Paid for by Dawson for Georgia, LLC

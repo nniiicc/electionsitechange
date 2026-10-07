@@ -1,33 +1,154 @@
 [
-"https://facebook.com/profile.php?id=61572128818159",
-"https://youtube.com/@ZacharyMartinPolitics",
-"https://zac4sd.com/",
-"https://zac4sd.com/about",
-"https://zac4sd.com/afford",
-"https://zac4sd.com/blog",
-"https://zac4sd.com/blog/criminal-justice-public-safety",
-"https://zac4sd.com/blog/economic-development-rapid-city",
-"https://zac4sd.com/blog/education-reform",
-"https://zac4sd.com/blog/elections-voting-integrity",
-"https://zac4sd.com/blog/flock-cameras-fourth-amendment",
-"https://zac4sd.com/blog/food-agriculture-rural",
-"https://zac4sd.com/blog/gambling",
-"https://zac4sd.com/blog/gender-sex-protecting-children",
-"https://zac4sd.com/blog/government-accountability",
-"https://zac4sd.com/blog/immigration-border",
-"https://zac4sd.com/blog/land-use-property-rights",
-"https://zac4sd.com/blog/medical-freedom-food-integrity",
-"https://zac4sd.com/blog/property-tax-relief-without-the-sales-tax-hike",
-"https://zac4sd.com/blog/religious-liberty",
-"https://zac4sd.com/blog/second-amendment",
-"https://zac4sd.com/blog/shared-parenting-where-i-stand",
-"https://zac4sd.com/blog/the-path-back",
-"https://zac4sd.com/blog/why-im-running",
-"https://zac4sd.com/get-involved",
-"https://zac4sd.com/platform",
-"https://zac4sd.com/platform/family-court-reform",
-"https://zac4sd.com/press-kit",
-"https://zac4sd.com/privacy",
-"https://zac4sd.com/terms",
-"https://zacharymartin.substack.com/"
+{
+"text": "About",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "About Zac",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "Afford to Live Here",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "Affordability",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "August 24, 2026Parents Decide. Teachers Teach. Where I Stand on Education.School started today. This afternoon I will ask my nine year old what he learned and he will say nothing. The real version of that question is one I cannot answer either, and fixing that is most of my education plan.Pillar J: EducationEducation",
+"href": "https://zac4sd.com/blog/education-reform"
+},
+{
+"text": "August 27, 2026The Cameras Went Up Without a VoteSummerset is standing up a Flock camera network over its neighborhoods, its businesses, and Stagebarn Middle School. South Dakota has no law governing any of it. The public review is September 3.Pillar P: Surveillance & PrivacySurveillance & PrivacyFourth Amendment",
+"href": "https://zac4sd.com/blog/flock-cameras-fourth-amendment"
+},
+{
+"text": "Blog",
+"href": "https://zac4sd.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://zac4sd.com/get-involved#donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61572128818159"
+},
+{
+"text": "Family Court Reform",
+"href": "https://zac4sd.com/platform/family-court-reform"
+},
+{
+"text": "Get Involved",
+"href": "https://zac4sd.com/get-involved"
+},
+{
+"text": "Host an Event",
+"href": "https://zac4sd.com/get-involved#host"
+},
+{
+"text": "June 13, 2026Due Process Is the Line: Where I Stand on GunsAn accusation is not a conviction. I learned that in a family court room, and it is how I read every gun bill that comes through Pierre.Pillar D: Second AmendmentSecond AmendmentGun Rights",
+"href": "https://zac4sd.com/blog/second-amendment"
+},
+{
+"text": "June 13, 2026Grow What We Already Love: Where I Stand on Rapid City's EconomyPierre found a way to move in one session when data centers came asking. Nobody has ever filed a bill for the laundromat in North Rapid.Pillar H: Economy & Rapid CityEconomyRapid City",
+"href": "https://zac4sd.com/blog/economic-development-rapid-city"
+},
+{
+"text": "June 13, 2026Religious Liberty Is the Law, Not the Exception to ItThe First Amendment protects exercise, not just belief. Almost nobody in American politics argues against belief anymore. The pressure lands on practice.Pillar N: Religious LibertyReligious Liberty",
+"href": "https://zac4sd.com/blog/religious-liberty"
+},
+{
+"text": "June 13, 2026The Path BackSix states have a Shared Parenting presumption. None of them answered the question of what happens to the parent who already lost time and has since done the work.Shared ParentingFamily Court Reform",
+"href": "https://zac4sd.com/blog/the-path-back"
+},
+{
+"text": "June 13, 2026The State Should Not Balance Its Budget on Broken HomesSJR 504 is on your November ballot. If it passes, every phone in South Dakota becomes a casino, and I am asking you to vote no.Pillar M: GamblingGamblingFamilies First",
+"href": "https://zac4sd.com/blog/gambling"
+},
+{
+"text": "June 13, 2026Where I Stand on Crime and Public SafetyTough on violent crime, smart on the rest. South Dakota already chose the expensive option, roughly 737 million dollars of it, and got a revolving door for the money.Pillar K: Public SafetyPublic SafetyCriminal Justice",
+"href": "https://zac4sd.com/blog/criminal-justice-public-safety"
+},
+{
+"text": "June 13, 2026Where I Stand on Elections and Voting IntegrityIn March 2025 a bill I fought for died in the South Dakota House by one vote. Thirty-five to thirty-four. That is why I do not shrug when somebody says a single ballot cannot matter.Pillar C: Election IntegrityElection IntegrityVoting",
+"href": "https://zac4sd.com/blog/elections-voting-integrity"
+},
+{
+"text": "June 13, 2026Where I Stand on Food, Agriculture, and Rural South DakotaThere is not a section line anywhere in District 32. We still eat three times a day, which makes food policy city policy.Pillar L: Ag & RuralAgricultureRural",
+"href": "https://zac4sd.com/blog/food-agriculture-rural"
+},
+{
+"text": "June 13, 2026Where I Stand on Gender, Biological Sex, and Protecting ChildrenA phone in a backpack reaches anything on the internet. A shelf in the children's section holds whatever somebody decided to put there. A girls' locker room is private only if the law says so.Pillar E: Protecting ChildrenProtecting Children",
+"href": "https://zac4sd.com/blog/gender-sex-protecting-children"
+},
+{
+"text": "June 13, 2026Where I Stand on Government AccountabilityGovernment behaves differently when nobody is watching. I learned that in rooms where the state was making enormous decisions about my own family, and it is why this plank exists.Pillar O: AccountabilityAccountabilityTransparency",
+"href": "https://zac4sd.com/blog/government-accountability"
+},
+{
+"text": "June 13, 2026Where I Stand on Immigration and Border SecurityThe southern border is about a thousand miles from Pennington County. Washington owns the border. Pierre owns what happens inside South Dakota, and I am running to take care of our end.Pillar F: ImmigrationImmigrationBorder Security",
+"href": "https://zac4sd.com/blog/immigration-border"
+},
+{
+"text": "June 13, 2026Where I Stand on Medical Freedom, Public Health, and Food IntegrityThe body is the citizen's, not the state's. I am not running to relitigate 2020, I am running to make sure South Dakota never repeats it.Pillar I: Medical FreedomMedical FreedomFood Integrity",
+"href": "https://zac4sd.com/blog/medical-freedom-food-integrity"
+},
+{
+"text": "June 13, 2026Why I'm Running: A Letter to District 32Eight years ago a family court case brought my son to Rapid City, and I followed him here. Here is the honest reason I am on your ballot for State House, District 32.Why I'm Running",
+"href": "https://zac4sd.com/blog/why-im-running"
+},
+{
+"text": "June 13, 2026Your Land Is Your Land: Where I Stand on Property Rights and Eminent DomainHJR 5001 passed the House sixty-two to five, then died in the Senate. It will not be on your ballot. I would have voted yes, and I will support filing it again in 2027.Pillar G: Property RightsProperty RightsEminent Domain",
+"href": "https://zac4sd.com/blog/land-use-property-rights"
+},
+{
+"text": "May 17, 2026Property Tax Relief Without the Sales Tax HikeSB 245 trades one tax for another. About a third of South Dakotans rent, and they pay the new sales tax while seeing none of the property tax benefit.Pillar B: Taxes & BudgetProperty TaxSpending Discipline",
+"href": "https://zac4sd.com/blog/property-tax-relief-without-the-sales-tax-hike"
+},
+{
+"text": "May 17, 2026Where I Stand on Shared ParentingThirty-five to thirty-four. That is how close South Dakota came in March 2025, and both of District 32's seated representatives voted no.Pillar A: Life & FamilyShared ParentingFamily Court Reform",
+"href": "https://zac4sd.com/blog/shared-parenting-where-i-stand"
+},
+{
+"text": "Platform",
+"href": "https://zac4sd.com/platform"
+},
+{
+"text": "Press Kit",
+"href": "https://zac4sd.com/press-kit"
+},
+{
+"text": "Privacy",
+"href": "https://zac4sd.com/privacy"
+},
+{
+"text": "Substack",
+"href": "https://zacharymartin.substack.com"
+},
+{
+"text": "Terms",
+"href": "https://zac4sd.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://zac4sd.com/get-involved#volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "Yard Signs",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ZacharyMartinPolitics"
+},
+{
+"text": "Zac.MartinSD House 32",
+"href": "https://zac4sd.com/"
+}
 ]

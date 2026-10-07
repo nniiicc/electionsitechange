@@ -1,9 +1,5 @@
-top of page
-EVENTS
-Join the Momentum
-- Aug 19, 2026, 5:00 PM – 7:00 PM286 Station Ave, 286 Station Ave, South Yarmouth, MA 02664, USAWave & Walk Wednesdays Join us every other Wednesday evening for a little visibility, a lot of conversation, and some good old-fashioned door knocking.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+EVENTS Join the Momentum Multiple Dates Wed, Aug 19 Wave and Walk Wednesdays / 286 Station Ave Details Aug 19, 2026, 5:00 PM – 7:00 PM 286 Station Ave, 286 Station Ave, South Yarmouth, MA 02664, USA Wave & Walk Wednesdays Join us every other Wednesday evening for a little visibility, a lot of conversation, and some good old-fashioned door knocking.
 We’ll begin with a public standout, waving signs and showing the district that this campaign's momentum is growing.
-From there, we’ll head into th
-- Thu, Jun 18
-- Thu, Nov 13
-bottom of page
+From there, we’ll head into th Thu, Jun 18 Kick Off to Summer Event / The Cultural Center of Cape Cod Learn more Jun 18, 2026, 5:00 PM – 7:00 PM The Cultural Center of Cape Cod, 307 Old Main St, South Yarmouth, MA 02664, USA This campaign is about trusted local leadership, practical solutions, and protecting the communities we all care about - we hope you will join us!
+Thu, Nov 13 Campaign Kickoff Fundraiser / Dennis Learn more Nov 13, 2025, 5:00 PM – 7:00 PM Dennis, 36 Hope Ln, Dennis, MA 02638, USA Join us at Encore to kick off Chris's campaign SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

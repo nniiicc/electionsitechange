@@ -1,5 +1,4 @@
-2026 - Data Centers & the Threat to Rural Indiana
-Data centers are creating significant debate in our communities.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2026 - Data Centers & the Threat to Rural Indiana Mar 23 Written By John Bartlett for IN State Rep Dist 33 Data centers are creating significant debate in our communities.
 Lawmakers at the state and local levels are looking to attract them as a means of generating revenue for local government.
 However, there are significant issues their installation pose which we must address.
 Data centers have become very tempting to local governments.
@@ -49,3 +48,4 @@ As laws are currently written, they will suck our wells dry and force our people
 The legislature has been unwilling to force regulations protecting the people for fear of data centers locating elsewhere.
 Further, with their ill-conceived property tax law from 2025, the legislature has made it so that local governments will not be able to resist making the deal with the devil to sell our communities out so they can continue to afford basic services.
 We must change the laws to force regulation on data centers locating in Indiana so that people still have water and can afford their electric bills.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2026 - The Plan to Replace Property Tax with Something Worse Next Next 2025 - Motorcade for Medicaid part 2 Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

@@ -1,5 +1,5 @@
-Education Is Where the Future Begins
-For more than five decades, the Equal Educational Opportunities Act has carried a promise that should be pretty simple: every child deserves a real opportunity to learn, grow, and succeed.
+top of page HOME WHERE I STAND ON THE ISSUES ABOUT DREW SERVICE BEFORE SELF POLICY & PERSPECTIVE BLOG GET INVOLVED More Use tab to navigate through the menu items.
+Policy, Philosophy & Thoughts Search Education Is Where the Future Begins Drew Howells Aug 24 4 min read For more than five decades, the Equal Educational Opportunities Act has carried a promise that should be pretty simple: every child deserves a real opportunity to learn, grow, and succeed.
 Not just the children who live in the right ZIP code, speak the right language, come from the right family, or happen to fit neatly into systems that were designed with students like them in mind.
 Every child deserves that opportunity, because education is not simply another government program.
 I believe education is essential infrastructure.
@@ -17,7 +17,7 @@ Good public policy works the other way around.
 We recognize human difference from the beginning, and we build systems flexible enough to serve the people who actually use them.
 That is especially important in education, because children are not interchangeable parts moving through an assembly line.
 They are individuals, and the job of a good school system should be to help each of them develop the tools they need to succeed.
-This is where one of my deepest governing philosophies comes in: infinite diversity in infinite combinations.
+This is where one of my deepest governing philosophies comes in: infinite diversity in infinite combinations .
 I have always loved that phrase because it describes much more than tolerance.
 Diversity is not something we reluctantly make room for after everything else has been decided.
 It is one of the fundamental sources of strength in a healthy society.
@@ -62,3 +62,7 @@ Every child deserves a school that sees their potential instead of defining them
 That is not just education policy.
 It is an investment in Utah’s economy, our communities, our democracy, and the generations that will come after us.
 Education is where the future begins, and dignity is how we build it.
+Recent Posts See All We Are Building Data Centers Blind Medical cannabis, patient dignity, and regulatory accountability A vision for the future that is bold enough to matter Howells for Utah HD39 We can only achieve success in this campaign with your support.
+Please consider making a donation through ActBlue—it's quick and makes a BIG impact.
+Every dollar matters!
+Follow my Linktree - https://linktr.ee/HowellsForUtah © # by Howells for Utah HD39 Accessibility Statement Use of military rank, job titles, photographs in uniform, and references to military service does not imply endorsement by the Department of Defense, the Department of the Air Force, the Department of the Army, the National Guard, or any military service branch. bottom of page

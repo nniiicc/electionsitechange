@@ -1,9 +1,3 @@
-Contact
-Mailing Address
-Donations and correspondence can be sent to:
-Patrick Ahrens for Assembly 2024
-1700 Tribute Road, Suite 201
-Sacramento, CA 95815
-Email us
-Sign Up For Info & Updates
-"*" indicates required fields
+Skip to content Home About Issues Gallery Contact Home About Issues Gallery Contact Donate Volunteer Instagram Facebook-f Contact Mailing Address Donations and correspondence can be sent to: Patrick Ahrens for Assembly 2024 1700 Tribute Road, Suite 201 Sacramento, CA 95815 Email us patrick@patrickahrens.com Sign Up For Info & Updates " * " indicates required fields Your Name * Email * Phone * Consent field * By providing your phone number, you agree to receive text messages from this organization.
+Message and data rates may apply.
+Message frequency varies. * Endorse Our Campaign Instagram Facebook-f Patrick Ahrens for Assembly 2026 • ID#1476866 Privacy Policy Home About Issues Gallery Contact Home About Issues Gallery Contact Donate Volunteer Instagram Facebook-f

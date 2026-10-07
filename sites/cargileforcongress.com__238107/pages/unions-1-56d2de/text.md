@@ -1,5 +1,4 @@
-Unions
-Unions are, by nature, republican organizations.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Unions en español Unions are, by nature, republican organizations.
 They are not democracies with a mob-like majority vote.
 Instead, they elect representatives, who in turn represent them in collective bargaining.
 This is a textbook republican system that mirrors our own form of government.
@@ -29,9 +28,13 @@ These Officials were elected to represent their constituents, the taxpayers.
 So, when a Public Union is directly engaged in the election of that same Public Official, the People (the taxpayers), have no one representing them!
 Their representative (the elected Public Official) now represents the Public Union who funded their election!
 This is UNCONSTITUTIONAL!
-Article 4, Sect. 4 clearly states that the Federal Government is supposed to provide a Republican (representative) form of government, and in the case of Public Unions, the People have no representation.
+Article 4, Sect.
+4 clearly states that the Federal Government is supposed to provide a Republican (representative) form of government, and in the case of Public Unions, the People have no representation.
 Union members are taxpayers too!
 Therefore, at the end of the day, the only people sitting at the negotiating table are the Union leaders and the politicians, but the taxpayer is paying for it all!
 So, while you may have a good pension and benefits, at what cost does it come?
 Our country is being invaded, our cost of living has skyrocketed, our families and children are being destroyed and our streets are full of crime.
 We can do better.
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

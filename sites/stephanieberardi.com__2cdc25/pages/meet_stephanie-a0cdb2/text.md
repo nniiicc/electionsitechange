@@ -1,5 +1,4 @@
-Meet Stephanie
-Stephanie Berardi is an entrepreneur, mother, forward thinker, and experienced leader who understands the challenges facing small businesses and the communities they serve.
+Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Meet Stephanie Stephanie Berardi is an entrepreneur, mother, forward thinker, and experienced leader who understands the challenges facing small businesses and the communities they serve.
 She has lived in the 154th district for 15 years with her family.
 Stephanie began her career as a radio personality with Disney, where she spent more than a decade developing the communication and leadership skills that would ultimately help her launch her own business, Stylin Steph Productions, an event-planning company.
 After earning a Master’s Degree in Sustainability from the University of Pennsylvania, Stephanie made it her mission to work in the environmental sector.
@@ -16,3 +15,5 @@ She was also appointed as a Subject Matter Expert (SME) for the Energy Programs 
 Throughout her career, Stephanie has remained committed to helping people, solving problems, and making government work more effectively for the communities it serves.
 After eight years in state government, Stephanie brings a unique combination of communications, business, environmental, and public-service experience.
 She is ready to put that experience to work helping create thoughtful, practical, and smart legislation for Pennsylvania.
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Paid for by Friends of Stephanie Berardi.
+Powered by CampaignPartner.com - Political Campaign Websites Home Meet Stephanie Issues Events News Contribute Make Endorsement Yard Signs Volunteer Close Menu

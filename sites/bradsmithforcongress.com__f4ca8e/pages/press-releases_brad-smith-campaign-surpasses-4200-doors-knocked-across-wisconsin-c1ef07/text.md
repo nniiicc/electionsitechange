@@ -1,10 +1,8 @@
-Brad Smith Campaign Surpasses 4,200 Doors Knocked Across Wisconsin's 6th District
-Mequon, WI - June 23, 2026 — The Brad Smith for Congress campaign continues to build momentum across Wisconsin's 6th Congressional District, surpassing 4,200 doors knocked as volunteers engage voters in communities throughout the District.
+0 Skip to Content About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Folder: Learn More Back Hear from Brad Priorities and Positions Endorsements Press Releases Folder: Get Involved Back Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Brad Smith Campaign Surpasses 4,200 Doors Knocked Across Wisconsin's 6th District Jun 23 Written By Brad Smith Mequon, WI - June 23, 2026 — The Brad Smith for Congress campaign continues to build momentum across Wisconsin's 6th Congressional District, surpassing 4,200 doors knocked as volunteers engage voters in communities throughout the District.
 Since launching, the campaign's volunteer team has knocked on 4,254 doors, creating thousands of opportunities to listen to voters and have meaningful conversations about the issues facing Wisconsin families, workers, businesses, and communities.
 "We've always believed campaigns are built one conversation at a time," Smith said.
 "Every door knocked is an opportunity to listen, learn, and earn trust.
-That's the work we're committed to doing every day."
-The campaign's growing grassroots operation is one of several indicators of its continued growth.
+That's the work we're committed to doing every day." The campaign's growing grassroots operation is one of several indicators of its continued growth.
 Smith was the first Democratic candidate to file nomination papers and collected the largest number of approved nomination signatures among all candidates seeking a place on the ballot, gathering them in just 10 days.
 The campaign has also led all challengers to the incumbent in fundraising, with overwhelming support coming from individual donors throughout Wisconsin's 6th District.
 In recent weeks, the campaign has continued to expand its coalition of supporters while building relationships with local, state, and federal leaders.
@@ -12,5 +10,4 @@ Earlier this month, Smith was invited to speak at the WisDems Convention, where 
 The campaign continues to focus on the metrics that matter most: voter contact, grassroots engagement, fundraising, and coalition-building.
 Together, those efforts are creating a campaign with the strength and reach needed to compete across the District.
 "One message we continue to hear from voters and community leaders is that people are looking for a candidate who can bring people together and build the coalition needed to defeat Glenn Grothman," Smith said.
-"We're honored by that confidence, and we're going to keep working every day to earn it."
-Media Contact
+"We're honored by that confidence, and we're going to keep working every day to earn it." Media Contact brian@bradsmithforcongress.com Media Kit Link Brad Smith Previous Previous Brad Smith Campaign Continues to Earn Support Across Wisconsin's 6th District Next Next State Senator Jodi Habush Sinykin Endorses Brad Smith for Congress Paid for by Citizens for Brad Smith Media Resources ‍ | ‍ Press Releases

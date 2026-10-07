@@ -1,32 +1,25 @@
-Earth’s climate has been changing since the planet formed and it has been warming – on and off – since the last Ice Age, when a glacier more than a mile thick covered most of North America.
+Home About Issues News Volunteer Donate Global Warming and Climate Change Earth’s climate has been changing since the planet formed and it has been warming – on and off – since the last Ice Age, when a glacier more than a mile thick covered most of North America.
 Despite increasingly hysterical attempts by leftist politicians to stifle debate and punish contrary viewpoints, questions over the impact of human activity on this natural phenomenon are, in my opinion, dubious, political and unconvincing.
 Whether or not we chose to impose policies that send our energy prices soaring and impoverish our economy, one thing is certain: the earth will continue to warm and cool as it has for four billion years.
-Inconvenient Questions
-Heartland Institute – New York, New York – March 9, 2009
-I must admit to being a little nervous to accept your kind invitation to come to New York to discuss global warming.
+Inconvenient Questions Heartland Institute – New York, New York – March 9, 2009 I must admit to being a little nervous to accept your kind invitation to come to New York to discuss global warming.
 I remember that it was right here in this city a year and a half ago that no less an authority than Robert F.
-Kennedy Jr. said that those of us who still have some questions over their theories of man-made global warming are “liars,” “crooks,” “corporate toadies,” “flat-earthers” and then he made this remarkable statement: “This is treason and we need to start treating them now as traitors.”
-Ah, the dispassionate language of science and reason.
+Kennedy Jr. said that those of us who still have some questions over their theories of man-made global warming are “liars,” “crooks,” “corporate toadies,” “flat-earthers” and then he made this remarkable statement: “This is treason and we need to start treating them now as traitors.” Ah, the dispassionate language of science and reason.
 I certainly don’t want to die a traitor’s death, so I want the record to be very clear: I believe that the earth’s climate is changing and that our planet is warming.
 I must tell you that this is a somewhat sore subject for me.
-You see, it was me – and not Al Gore – who discovered the theory of Global Climate Change, and yet all you ever hear is, “Al Gore said this” and “Al Gore said that.”
-My climate change discovery came in the fall of 1964, when Miss Conroy took our third grade class to the Museum of Natural History.
+You see, it was me – and not Al Gore – who discovered the theory of Global Climate Change, and yet all you ever hear is, “Al Gore said this” and “Al Gore said that.” My climate change discovery came in the fall of 1964, when Miss Conroy took our third grade class to the Museum of Natural History.
 It was there that we saw the panorama of dinosaurs tromping around the steamy swamps that are now part of Wyoming.
 That panorama was right next to the exhibit of the Wooly Mammoths foraging on glaciers that were also once the same part of Wyoming.
-And I thought to myself, “Gee, those dinosaurs are swell.” And then I thought to myself, “Good God, the climate must have changed.”
-I never got a Nobel Prize for that discovery.
+And I thought to myself, “Gee, those dinosaurs are swell.” And then I thought to myself, “Good God, the climate must have changed.” I never got a Nobel Prize for that discovery.
 In fact, I later found out that Miss Conroy never even nominated me!
 So, instead of jetting around the world in a fleet of Gulfstream jets to tell people they need to feel guilty about driving to work, I have to take the subway.
 And I don’t get paid $100,000 a speech for my original discovery.
 But then again, I don’t have Al Gore’s electricity bills either, so I guess it all balances out.
-(You have to admit a certain Helmslyesqe quality to it all: “We don’t conserve – only the little people conserve.)
-Anyway, a few years after making my discovery about planetary climate change, I got to high school in the 1970’s and learned from the Al Gores of the time that we foolish mortals were plunging ourselves into another ice age.
+(You have to admit a certain Helmslyesqe quality to it all: “We don’t conserve – only the little people conserve.) Anyway, a few years after making my discovery about planetary climate change, I got to high school in the 1970’s and learned from the Al Gores of the time that we foolish mortals were plunging ourselves into another ice age.
 It was, after all, beyond dispute.
 All the scientists agreed.
 By the way, you may have seen the Washington Times story last year about the researcher who had stumbled upon a lurid story in the Washington Post dated July 9, 1971.
 It included the scary headline: “U.S.
-Scientist Sees New Ice Age Coming.”
-The scientist based this on a scientific climate model developed by a young research associate named James Hansen.
+Scientist Sees New Ice Age Coming.” The scientist based this on a scientific climate model developed by a young research associate named James Hansen.
 They warned that continued carbon emissions over the next ten years could trigger a run-away ice age.
 And it was rather amusing, because a few months before this old newspaper clipping surfaced, the very same James Hansen had published a paper claiming that continued carbon emissions over the next ten years could trigger a run-away greenhouse effect.
 For those in the liberal elite who jet to environmental conferences in Gulfstream jets and drive around in Hummers singing the praises of hybrids and bicycles, the Left now sells indulgences – you can actually calculate your carbon sins on-line and they’ll gladly tell you how much money to send them (all major credit cards accepted) to assuage your conscience.
@@ -66,8 +59,7 @@ Meanwhile, solar radiation has increased a small but measurable five hundredths 
 Now, I’m just thinking out loud here, but do you think it’s possible that as the sun gets slightly warmer, the planets do too?
 This would be a little scary in its own right, except for the second inconvenient question: If global warming is caused by your SUV, why is it that we have ample historical records of periods in our recent history when the planet’s temperature was warmer than it is today?
 During the Medieval Warm Period, from about 900 to 1300 AD, we know that wine grapes were thriving in northern Britain and Newfoundland — and that the temperature in Greenland was hot enough to support a prosperous agricultural economy for nearly 500 years.
-That’s why they called it “Greenland.”
-That period was brought to an end by the Little Ice Age that lasted from 1300 until 1850.
+That’s why they called it “Greenland.” That period was brought to an end by the Little Ice Age that lasted from 1300 until 1850.
 We know that during colonial times, Boston and New York Harbors routinely froze over in winter and during Elizabethan times, an annual Winter Festival was held on top of the Thames River, which froze solid every year.
 And finally, the third inconvenient question: If global warming is caused by your SUV, why is it that increases in atmospheric carbon dioxide always follow increases in global temperatures by several hundred years?
 Again, I’m just thinking out loud here, but is it possible that if CO2 increases follow temperature increases that might possibly mean that increased CO2 is a byproduct of increasing temperatures – not a cause.
@@ -134,13 +126,11 @@ In the last three years, 2/3 of a million more people moved out of California th
 Outbound U-HAUL rates are now between six and seven times the cost of renting the same truck to move in to California.
 You cannot blame the national economy for these developments – for these you must look to state public policy.
 I was struck by the Governor’s speech to the United Nations as he was imposing this lunacy.
-He told them:
-“Last year in California, we enacted groundbreaking greenhouse gas emission standards.
+He told them: “Last year in California, we enacted groundbreaking greenhouse gas emission standards.
 “We enacted the world’s first low carbon fuel standard.
 “Do I believe California’s standards will solve global warming?
 No.
-“What we’re doing is changing the dynamic, preparing the way and encouraging the future…”
-So even the individual most responsible for this economically catastrophic public policy ADMITS that it’s not going to solve global warming.
+“What we’re doing is changing the dynamic, preparing the way and encouraging the future…” So even the individual most responsible for this economically catastrophic public policy ADMITS that it’s not going to solve global warming.
 He just wants to set an example.
 And in that singular respect, I believe that he has succeeded beyond his wildest dreams.
 There is one other thing that strikes me on this issue, and that is how puny is the amount of carbon dioxide produced by human enterprise, compared to simple, natural processes.
@@ -160,11 +150,8 @@ But I feel compelled to warn you that if the Luddite Left finally succeeds in wr
 People love to watch events in California – in much the same way that people love to gawk at car wrecks.
 You feel guilty about it, of course, and you know you shouldn’t stare, but you just can’t help yourselves.
 But you do anyway and there’s at least a respectable reason for it.
-When you drive by that wreck, you can tell your children, “Kids, that’s what happens when you don’t pay attention when you drive.”
-And California’s wreck is a good time to remind voters, “Kids, that’s what happens when you don’t pay attention when you vote.”
-While we’re on that subject, the Obama Administration has just unveiled its budget, a $3.6 TRILLION monstrosity that includes some $650 billion in business taxes.
-They call it “cap and trade” but they mean, “cap and tax.”
-The problem with business taxes, of course, is that businesses don’t pay them.
+When you drive by that wreck, you can tell your children, “Kids, that’s what happens when you don’t pay attention when you drive.” And California’s wreck is a good time to remind voters, “Kids, that’s what happens when you don’t pay attention when you vote.” While we’re on that subject, the Obama Administration has just unveiled its budget, a $3.6 TRILLION monstrosity that includes some $650 billion in business taxes.
+They call it “cap and trade” but they mean, “cap and tax.” The problem with business taxes, of course, is that businesses don’t pay them.
 Business taxes can only possibly be paid in one of three ways: by us as consumers through higher prices; but us as employees through lower wages and by us as investors through lower earnings on what’s left of our 401-K’s.
 And the President’s cap and tax plan is going to cost about $2,100 for every man, woman and child in the nation, or about $8,400 out of the purchasing power of an average family of four in the worst economy in a generation.
 Now before the nation follows California off the cliff, perhaps we should first ask how these policies are working in California.
@@ -187,3 +174,4 @@ As the impact of these policies is felt, people will begin paying close attentio
 Abraham Lincoln put it this way.
 He said, if the voters get their backsides too close to the fire, they’ll just have to sit on the blisters a while.
 Our nation has some very painful blisters to sit on for a while, but in the process, like Coleridge’s Ancient Mariner, a sadder but a wiser nation we’ll rise the morrow morn.
+Thank you for your support! $5 $20 $50 $100 Other Contact the campaign Privacy Policy Terms and Conditions PAID FOR BY MCCLINTOCK FOR CONGRESS

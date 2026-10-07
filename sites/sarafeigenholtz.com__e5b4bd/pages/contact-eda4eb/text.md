@@ -1,26 +1,2 @@
-Home
-Meet Sara
-Issues
-Community Safety
-Reproductive Rights
-Environment
-Mental Health
-Housing
-LGBTQ+ rights
-Transportation
-Endorsements
-Volunteer
-Contact
-Donate
-Contact
-Home
-Contact
-Phone
-312-772-3014
-Email
-press@sarafeigenholtz.com
-Address
-3023 N.
-Clark St., #785
-Chicago, IL 60657
-Send Us a Message
+Home Meet Sara Issues Community Safety Reproductive Rights Environment Mental Health Housing LGBTQ+ rights Transportation Endorsements Volunteer Contact Donate Contact Home Contact Phone 312-772-3014 Email press@sarafeigenholtz.com Address 3023 N.
+Clark St., #785 Chicago, IL 60657 Send Us a Message Navigation Home Meet Sara Donate Volunteer Contact Paid for by Citizens for Sara Feigenholtz A copy of our report filed with the State Board of Elections is (or will be) available on the board's official website or for purchase from the State Board of Elections, Springfield, Illinois.

@@ -1,12 +1,66 @@
 [
-"http://facebook.com/bobbylevyfororegon",
-"https://bobbylevyfororegon.com/",
-"https://bobbylevyfororegon.com/?avia-element-paging=3",
-"https://bobbylevyfororegon.com/endorsements",
-"https://bobbylevyfororegon.com/issues",
-"https://bobbylevyfororegon.com/wp-content/uploads/2021/11/IMG_2701-1030x687.jpeg",
-"https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Floor-hz2-1030x686.jpg",
-"https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Office-hz1-1030x687.jpg",
-"https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Office-hz4-1030x687.jpg",
-"https://secure.anedot.com/friends-of-bobby-levy/donate"
+{
+"text": "1",
+"href": "https://bobbylevyfororegon.com/"
+},
+{
+"text": "3",
+"href": "https://bobbylevyfororegon.com/?avia-element-paging=3"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-bobby-levy/donate"
+},
+{
+"text": "ENDORSE BOBBY",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "Endorsement Form",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "Endorsements",
+"href": "https://bobbylevyfororegon.com/endorsements/"
+},
+{
+"text": "FACEBOOK",
+"href": "http://www.facebook.com/bobbylevyfororegon"
+},
+{
+"text": "Issues",
+"href": "https://bobbylevyfororegon.com/issues/"
+},
+{
+"text": "Link to Facebook",
+"href": "http://www.facebook.com/bobbylevyfororegon"
+},
+{
+"text": "Meet Bobby",
+"href": "https://bobbylevyfororegon.com/#meetbobby"
+},
+{
+"text": "Volunteer",
+"href": "https://bobbylevyfororegon.com/endorsements/#volunteer"
+},
+{
+"text": "[image: Bobby Levy for Oregon]",
+"href": "https://bobbylevyfororegon.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.com/wp-content/uploads/2021/11/IMG_2701-1030x687.jpeg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Floor-hz2-1030x686.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Office-hz1-1030x687.jpg"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://bobbylevyfororegon.com/wp-content/uploads/2021/11/Levy-Office-hz4-1030x687.jpg"
+}
 ]

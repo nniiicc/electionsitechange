@@ -1,8 +1,4 @@
-Initiative & Referendum Series,
-Part 2 of 4
-By Shane Klakken, Montana House District 37
-May 13, 2026
-This Wasn’t Built for You.
+top of page News Principles Calendar About Menu Close Donate Initiative & Referendum Series, Part 2 of 4 By Shane Klakken, Montana House District 37 May 13, 2026 This Wasn’t Built for You.
 It Was Built to Go Around You.
 In my last editorial I told you that Montana’s initiative and referendum process puts real stress on our republican form of government.
 This week I want to tell you where that process came from.
@@ -44,3 +40,7 @@ What that means practically is this: a ballot measure that would devastate agric
 The Progressives who designed this system knew exactly what they were building.
 They were building a bypass.
 Next editorial, I’ll show you who’s driving through it right now — and what they’re bringing with them.
+Back to Updates Stay Connected with Shane Be part of the conversation and stay informed about upcoming events, legislative updates, and community news across Montana.
+Subscribe Now Or connect on social media: Socials Contact Info Tel. ‭+1 (406) 217-6107 ‬P.O.
+Box PO Box 128 Grass Range, MT 59032 Resources News Principles Calendar Newsletter Navigation Home About Contact Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken.
+News Principles Calendar About bottom of page

@@ -1,9 +1,12 @@
 {
  "description": "Visit the post for more.",
  "final_url": "https://www.stephenflynch.com/supporting-our-veterans/",
- "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright &copy;2020 All Rights Reserved Follow Follow",
+ "fingerprint": "40833ab8ef9f30daefde37776bc872be56e75a3f",
+ "format": 3,
+ "paid_for_by": "Paid for by Lynch for Congress Contact Us Privacy Policy Copyright ©# All Rights Reserved Follow Follow",
  "title": "Supporting Our Veterans | Stephen F Lynch",
  "years_mentioned": [
+  "2020",
   "2021",
   "2025"
  ]

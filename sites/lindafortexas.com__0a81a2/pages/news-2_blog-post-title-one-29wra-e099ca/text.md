@@ -1,12 +1,12 @@
-Linda Sworn In as House Representative
-Austin, Texas - Texas Representative Linda Garcia proudly begins her first legislative session, representing House District 107 with a commitment to addressing the needs of her constituents and fostering meaningful progress for the state of Texas.
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect Linda Sworn In as House Representative Jan 16 Written By Linda Garcia Austin, Texas - Texas Representative Linda Garcia proudly begins her first legislative session, representing House District 107 with a commitment to addressing the needs of her constituents and fostering meaningful progress for the state of Texas.
 The 89th Legislative Session, which officially began this week, marks the start of a collaborative journey toward building stronger communities and addressing critical issues.
 “I am deeply honored to represent the people of House District 107, and I am ready to get to work for our families, businesses, and neighborhoods,” said Representative Garcia.
-This legislative session presents tremendous opportunity to create policies that reflect our shared values and aspirations, and I am dedicated to ensuring that every voice in our district is heard and represented.”
-Representative Garcia'‘s legislative priorities for the session include financial literacy and empowerment, economic development, and education.
+This legislative session presents tremendous opportunity to create policies that reflect our shared values and aspirations, and I am dedicated to ensuring that every voice in our district is heard and represented.” Representative Garcia'‘s legislative priorities for the session include financial literacy and empowerment, economic development, and education.
 “This session, I aim to focus on practical solutions that benefit everyone in our community,” Garcia added.
-“Whether it’s through investing in our schools, supporting small businesses, or building a stronger economy for Texas, I’m committed to making a real difference.”
-Representative Garcia encourages constituents to stay engaged and share their ideas and feedback throughout the legislative session.
+“Whether it’s through investing in our schools, supporting small businesses, or building a stronger economy for Texas, I’m committed to making a real difference.” Representative Garcia encourages constituents to stay engaged and share their ideas and feedback throughout the legislative session.
 To stay updated on Representative Garcia’s initiatives and the progress of the legislative session, please visit capitol.texas.gov.
 About State Representative Linda Garcia: Linda Garcia represents Texas House District 107m, which encompasses parts of Dallas, Mesquite and Garland.
 A longtime community advocate and leader, Garcia is committed to championing policies that empower families, strengthen communities, and create an economy of opportunity for all Texans.
+Linda Garcia Previous Previous Rep.
+Garcia to Champion Financial and AI Innovation LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

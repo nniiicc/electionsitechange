@@ -1,11 +1,46 @@
 [
-"http://mikekennedyforutah.com/",
-"https://mikekennedyforutah.com/",
-"https://mikekennedyforutah.com/contact",
-"https://mikekennedyforutah.com/issues",
-"https://mikekennedyforutah.com/meet-mike",
-"https://mikekennedyforutah.com/news",
-"https://mikekennedyforutah.com/team",
-"https://secure.winred.com/mike-kennedy-for-utah/donation",
-"https://wordpress.org/"
+{
+"text": "Contact",
+"href": "https://mikekennedyforutah.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/mike-kennedy-for-utah/donation/"
+},
+{
+"text": "Home",
+"href": "https://mikekennedyforutah.com/"
+},
+{
+"text": "Join the Team",
+"href": "https://mikekennedyforutah.com/team/"
+},
+{
+"text": "Meet Mike",
+"href": "https://mikekennedyforutah.com/meet-mike/"
+},
+{
+"text": "Mike Kennedy for Utah",
+"href": "https://mikekennedyforutah.com/"
+},
+{
+"text": "News",
+"href": "https://mikekennedyforutah.com/news/"
+},
+{
+"text": "Powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Results & Priorities",
+"href": "https://mikekennedyforutah.com/issues/"
+},
+{
+"text": "[image: Mike Kennedy for Utah]",
+"href": "https://mikekennedyforutah.com/"
+},
+{
+"text": "www.mikekennedyforutah.com",
+"href": "http://mikekennedyforutah.com"
+}
 ]

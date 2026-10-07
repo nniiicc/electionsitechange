@@ -1,28 +1,134 @@
 [
-"https://adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs",
-"https://alanforutah.com/es",
-"https://alanforutah.com/es/accountable-government",
-"https://alanforutah.com/es/district-61",
-"https://alanforutah.com/es/get-involved",
-"https://alanforutah.com/es/meet-alan",
-"https://alanforutah.com/es/priorities",
-"https://alanforutah.com/es/privacy",
-"https://alanforutah.com/es/sms-terms",
-"https://alanforutah.com/es/vote",
-"https://alanforutah.com/schools-uvu",
-"https://census.gov/library/stories/2024/04/public-school-spending.html",
-"https://census.gov/newsroom/press-releases/2026/school-system-finances.html",
-"https://facebook.com/alanforutah",
-"https://fox13now.com/news/politics/utah-isnt-planning-to-roll-out-child-care-worker-subsidies-despite-a-bill-that-calls-for-it",
-"https://instagram.com/alanforutah",
-"https://kjzz.com/news/eye-on-your-money/committee-will-urge-utah-lawmakers-to-act-after-22-million-in-cuts-to-childcare-program",
-"https://kutv.com/news/eye-on-your-money/900-utah-families-to-lose-child-care-assistance-after-federal-funding-cuts",
-"https://le.utah.gov/~2024/bills/static/HB0461.html",
-"https://le.utah.gov/~2025/bills/static/HB0382.html",
-"https://le.utah.gov/~2026/bills/static/HB0525.html",
-"https://provo.edu/student-services/suicide-prevention/hope-squads",
-"https://secure.actblue.com/donate/alan-jimenez-1",
-"https://ushe.edu/reinvestment2025",
-"https://uvu.edu/news/2025/ushe-2025-strategic-reinvestment.html",
-"https://vote.utah.gov/es"
+{
+"text": "01Oficina del Censo de EE.UU.Gasto actual por alumno en escuelas públicas (FY2024)↗",
+"href": "https://www.census.gov/newsroom/press-releases/2026/school-system-finances.html"
+},
+{
+"text": "02Oficina del Censo de EE.UU.Cifras de gasto de FY2022 y comparación histórica↗",
+"href": "https://www.census.gov/library/stories/2024/04/public-school-spending.html"
+},
+{
+"text": "03AdoptAClassroom.orgEncuesta nacional de gasto docente 2025↗",
+"href": "https://www.adoptaclassroom.org/2025/06/09/2025-teacher-survey-spending-stats-classroom-needs/"
+},
+{
+"text": "04Utah Valley UniversityPlan de reinversión estratégica 2025–26↗",
+"href": "https://www.uvu.edu/news/2025/ushe-2025-strategic-reinvestment.html"
+},
+{
+"text": "05Sistema de Educación Superior de UtahAprobación de la Junta y materiales de reinversión estatal↗",
+"href": "https://ushe.edu/reinvestment2025/"
+},
+{
+"text": "06Distrito Escolar de la Ciudad de ProvoHope Squads y sus orígenes en Provo↗",
+"href": "https://provo.edu/student-services/suicide-prevention/hope-squads/"
+},
+{
+"text": "07KUTV900 familias perderán la asistencia para el cuidado infantil tras un recorte federal (sept. 2026)↗",
+"href": "https://kutv.com/news/eye-on-your-money/900-utah-families-to-lose-child-care-assistance-after-federal-funding-cuts"
+},
+{
+"text": "08KJZZEl comité asesor de la Oficina de Cuidado Infantil pide a los líderes estatales cubrir la brecha (sept. 2026)↗",
+"href": "https://kjzz.com/news/eye-on-your-money/committee-will-urge-utah-lawmakers-to-act-after-22-million-in-cuts-to-childcare-program"
+},
+{
+"text": "09Legislatura de UtahH.B. 461 (2024), la ley de subsidios para trabajadores de cuidado infantil↗",
+"href": "https://le.utah.gov/~2024/bills/static/HB0461.html"
+},
+{
+"text": "10FOX 13Subsidios para trabajadores de cuidado infantil en pausa por falta de fondos↗",
+"href": "https://www.fox13now.com/news/politics/utah-isnt-planning-to-roll-out-child-care-worker-subsidies-despite-a-bill-that-calls-for-it"
+},
+{
+"text": "11Legislatura de UtahH.B. 382 (2025), fondos para subsidios a trabajadores de cuidado infantil↗",
+"href": "https://le.utah.gov/~2025/bills/static/HB0382.html"
+},
+{
+"text": "12Legislatura de UtahH.B. 525 (2026), programa piloto de subsidios para trabajadores de cuidado infantil↗",
+"href": "https://le.utah.gov/~2026/bills/static/HB0525.html"
+},
+{
+"text": "AJAlan JimenezCÁMARA DE UTAH · DISTRITO 61",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Conozca a Alan",
+"href": "https://alanforutah.com/es/meet-alan"
+},
+{
+"text": "Cómo Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "Distrito 61",
+"href": "https://alanforutah.com/es/district-61"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "Donar ↗",
+"href": "https://secure.actblue.com/donate/alan-jimenez-1"
+},
+{
+"text": "EN",
+"href": "https://alanforutah.com/schools-uvu"
+},
+{
+"text": "English",
+"href": "https://alanforutah.com/schools-uvu"
+},
+{
+"text": "Facebook ↗",
+"href": "https://www.facebook.com/alanforutah"
+},
+{
+"text": "Inicio",
+"href": "https://alanforutah.com/es"
+},
+{
+"text": "Instagram ↗",
+"href": "https://www.instagram.com/alanforutah/"
+},
+{
+"text": "Participe",
+"href": "https://alanforutah.com/es/get-involved"
+},
+{
+"text": "Privacidad",
+"href": "https://alanforutah.com/es/privacy"
+},
+{
+"text": "Propuestas",
+"href": "https://alanforutah.com/es/priorities"
+},
+{
+"text": "Términos de Textos",
+"href": "https://alanforutah.com/es/sms-terms"
+},
+{
+"text": "Unirse a la Campaña",
+"href": "https://alanforutah.com/es/get-involved"
+},
+{
+"text": "Ver las Garantías de Servicio →",
+"href": "https://alanforutah.com/es/accountable-government"
+},
+{
+"text": "Votar",
+"href": "https://alanforutah.com/es/vote"
+},
+{
+"text": "alanforutah@outlook.com",
+"href": "mailto:alanforutah@outlook.com"
+},
+{
+"text": "¿Se mudó? Actualice su registro antes del 23 oct. →",
+"href": "https://vote.utah.gov/es/"
+},
+{
+"text": "← Todas las propuestas",
+"href": "https://alanforutah.com/es/priorities"
+}
 ]

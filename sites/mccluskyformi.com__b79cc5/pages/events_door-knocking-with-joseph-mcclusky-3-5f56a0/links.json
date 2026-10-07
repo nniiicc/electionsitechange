@@ -1,23 +1,94 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260828T180000Z%2F20260828T233000Z&location=515+Maple+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States",
-"http://maps.google.com/?q=515+Maple+Avenue+Holland%2C+Michigan%2C+49423+United+States",
-"https://facebook.com/profile.php?id=61577899130009",
-"https://instagram.com/mccluskyformi",
-"https://mccluskyformi.com/",
-"https://mccluskyformi.com/about-joseph",
-"https://mccluskyformi.com/cart",
-"https://mccluskyformi.com/contact",
-"https://mccluskyformi.com/endorsements",
-"https://mccluskyformi.com/espanol",
-"https://mccluskyformi.com/events",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3?format=ical",
-"https://mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4",
-"https://mccluskyformi.com/media",
-"https://mccluskyformi.com/platform",
-"https://mccluskyformi.com/privacy-policy",
-"https://mobilize.us/mccluskyformi/event/1016825",
-"https://secure.actblue.com/donate/mccluskywebsite",
-"https://tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1",
-"https://x.com/mccluskyformi"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=515+maple+avenue+holland%2C+michigan%2C+49423+united+states"
+},
+{
+"text": "0",
+"href": "https://www.mccluskyformi.com/cart"
+},
+{
+"text": "About Joseph",
+"href": "https://www.mccluskyformi.com/about-joseph"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.mccluskyformi.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mccluskywebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mccluskyformi.com/endorsements"
+},
+{
+"text": "Espanol",
+"href": "https://www.mccluskyformi.com/espanol"
+},
+{
+"text": "Events",
+"href": "https://www.mccluskyformi.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Door+Knocking+with+Joseph+McClusky&dates=20260828T180000Z%2F20260828T233000Z&location=515+Maple+Avenue%2C+Holland%2C+Michigan%2C+49423%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-3?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.mccluskyformi.com/media"
+},
+{
+"text": "Next Next September 1 Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-4"
+},
+{
+"text": "Platform",
+"href": "https://www.mccluskyformi.com/platform"
+},
+{
+"text": "Previous Previous August 27 Door Knocking with Joseph McClusky",
+"href": "https://www.mccluskyformi.com/events/door-knocking-with-joseph-mcclusky-2"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.mccluskyformi.com/privacy-policy"
+},
+{
+"text": "[image: Joseph McClusky for State Representative]",
+"href": "https://www.mccluskyformi.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577899130009"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mccluskyformi/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@mccluskyformi86?_r=1&_t=ZT-95c6RvlFJi1"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mccluskyformi"
+},
+{
+"text": "https://www.mobilize.us/mccluskyformi/event/1016825/",
+"href": "https://www.mobilize.us/mccluskyformi/event/1016825/"
+}
 ]

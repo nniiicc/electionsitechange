@@ -1,15 +1,11 @@
-My goal is to make myself available in person in as many communities all across our 16-county district as possible.
+Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS More Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS Community Visits & Events My goal is to make myself available in person in as many communities all across our 16-county district as possible.
 Please stop by if you're free, to ask me anything and let me know your concerns.
 Email me at campaign@juliedahlberg.com if you would like to set up a visit when I'm in your community.
 Check back for updates & new events.
-ZAPATA & SURROUNDING COMMUNITIES
-COTULLA & SURROUNDING COMMUNITIES
-CARRIZO SPRINGS & SURROUNDING COMMUNITIES
-Event Details
-Weather permitting...
-KYLE
-CONCEPCION
-More Events
-Political Ad.
+WEDNESDAY, SEPTEMBER 30 ZAPATA VISITS 9 AM ZAPATA & SURROUNDING COMMUNITIES WEDNESDAY, SEPTEMBER 30 ZAPATA VISITS 9 AM ZAPATA & SURROUNDING COMMUNITIES WEDNESDAY, SEPTEMBER 30 COTULLA VISITS 4 PM COTULLA & SURROUNDING COMMUNITIES WEDNESDAY, SEPTEMBER 30 COTULLA VISITS 4 PM COTULLA & SURROUNDING COMMUNITIES THURSDAY, OCTOBER 1 CARRIZO SPRINGS VISITS 8 am CARRIZO SPRINGS & SURROUNDING COMMUNITIES Event Details THURSDAY, OCTOBER 1 CARRIZO SPRINGS VISITS Weather permitting...
+8 am CARRIZO SPRINGS & SURROUNDING COMMUNITIES THURSDAY, OCTOBER 1 KYLE VISITS 5 PM KYLE Event Details THURSDAY, OCTOBER 1 KYLE VISITS Weather permitting...
+5 PM KYLE FRIDAY, OCTOBER 2 FIESTA DEL RANCHO 5 PM CONCEPCION Event Details FRIDAY, OCTOBER 2 FIESTA DEL RANCHO Weather permitting...
+5 PM CONCEPCION More Events News & Articles Political Ad.
 Pd. by Julie Dahlberg for Texas Senate Campaign.
-Copyright © 2026 Julie for Texas Senate - All Rights Reserved.
+Copyright © # Julie for Texas Senate - All Rights Reserved.
+Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS

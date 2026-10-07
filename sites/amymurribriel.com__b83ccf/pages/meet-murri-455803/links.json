@@ -1,10 +1,38 @@
 [
-"https://amymurribriel.com/",
-"https://amymurribriel.com/accomplishments",
-"https://amymurribriel.com/get-involved",
-"https://amymurribriel.com/issues",
-"https://amymurribriel.com/meet-murri",
-"https://amymurribriel.com/privacy-policy",
-"https://amymurribriel.com/terms-and-conditions",
-"https://secure.actblue.com/donate/friends-for-murri-briel-1"
+{
+"text": "Accomplishments",
+"href": "https://amymurribriel.com/accomplishments/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-for-murri-briel-1"
+},
+{
+"text": "Get Involved",
+"href": "https://amymurribriel.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://amymurribriel.com/"
+},
+{
+"text": "Issues",
+"href": "https://amymurribriel.com/issues/"
+},
+{
+"text": "Meet Murri",
+"href": "https://amymurribriel.com/meet-murri/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://amymurribriel.com/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://amymurribriel.com/terms-and-conditions/"
+},
+{
+"text": "friendsformurribriel@gmail.com",
+"href": "mailto:friendsformurribriel@gmail.com"
+}
 ]

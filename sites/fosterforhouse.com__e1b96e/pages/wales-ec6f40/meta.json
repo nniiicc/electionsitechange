@@ -1,9 +1,9 @@
 {
  "description": "Explore Wales and join Neal Foster&#39;s campaign for State House. Check out the photo gallery and connect with the community.",
  "final_url": "https://fosterforhouse.com/wales",
- "paid_for_by": null,
+ "fingerprint": "785aaac161b08167cc582f01ac4133291f82a992",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Wales",
- "years_mentioned": [
-  "2020"
- ]
+ "years_mentioned": []
 }

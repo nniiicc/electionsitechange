@@ -1,11 +1,38 @@
 [
-"https://facebook.com/dane.watro",
-"https://imforwatro.com/",
-"https://imforwatro.com/connect",
-"https://imforwatro.com/donate",
-"https://imforwatro.com/endorsements",
-"https://imforwatro.com/meet",
-"https://imforwatro.com/priorities",
-"https://imforwatro.com/volunteer",
-"https://pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot.html"
+{
+"text": "Connect",
+"href": "https://imforwatro.com/connect/"
+},
+{
+"text": "Donate TODAY",
+"href": "https://imforwatro.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://imforwatro.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/dane.watro"
+},
+{
+"text": "Meet Dane",
+"href": "https://imforwatro.com/meet/"
+},
+{
+"text": "Priorities",
+"href": "https://imforwatro.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://imforwatro.com/volunteer/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.pa.gov/en/agencies/vote/voter-support/mail-in-and-absentee-ballot.html"
+},
+{
+"text": "[image]",
+"href": "https://imforwatro.com"
+}
 ]

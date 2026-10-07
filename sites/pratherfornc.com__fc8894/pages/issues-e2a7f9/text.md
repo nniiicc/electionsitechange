@@ -1,7 +1,7 @@
-I promise, you’ll always know where I stand.
+Skip to content Home About Issues Endorsements News Volunteer Donate EN ES Home About Issues Endorsements News Volunteer Donate EN ES Menu I promise, you’ll always know where I stand.
 I ran for the legislature to fight for Buncombe County—and all of us who live in the mountains—and protect what matters most to working families.
 To read about where I stand on an issue, click on a platform plank.
-Every child in North Carolina deserves the best possible education we can give them.
+Better Education Good Government Affordable Healthcare A Clean Environment Equality For All Every child in North Carolina deserves the best possible education we can give them.
 North Carolina used to be known across the South as a leader in public education.
 We can be again.
 We must do better preparing our young people to be healthy, caring, and productive members of our community.
@@ -34,3 +34,4 @@ Disparate impacts of pollution on our most vulnerable residents.
 We cannot address any of these issues without addressing the unequal way in which they impact our communities.
 We must work to ensure that all our neighbors—regardless of race, gender, age, or socioeconomic condition—have equal access to high quality healthcare, education, jobs, and protection from climate change.
 Only when we all stand together will we be able to lift each other up.
+PO Box 1961, Enka, NC 28728 team@pratherfornc.com Paid for by Prather for NC | Privacy Policy | Website design by Express Lane Strategies .

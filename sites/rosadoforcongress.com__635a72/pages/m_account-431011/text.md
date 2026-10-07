@@ -1,12 +1,5 @@
-Signed in as:
-filler@godaddy.com
-Sign out
-Signed in as:
-filler@godaddy.com
-Account
-Sign out
-Sign in to your account to access your profile, history, and any private pages you've been granted access to.
-Not a member?
+Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press More Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Sign In Create Account My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@godaddy.com Home Donate Now Platform About me FCC/USAC Complaint Connect Register to Vote Events Español Volunteer Blog Media Contact Press Account My Account Sign out Sign In My Account Account sign in Sign in to your account to access your profile, history, and any private pages you've been granted access to.
+Sign in Reset password Not a member?
 Create account.
-Copyright © 2026 Rosado for Congress - All Rights Reserved.
-Powered by
+Copyright © # Rosado for Congress - All Rights Reserved.
+Donate Now Register to Vote Volunteer Powered by

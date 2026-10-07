@@ -1,14 +1,11 @@
-Image 1 of 8
-Image 2 of 8
-Image 3 of 8
-Image 4 of 8
-Image 5 of 8
-Image 6 of 8
-Image 7 of 8
-Image 8 of 8
-$21.37
+0 Skip to Content Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu Rigsby 4 Representative About Contact Donate Topics Voter Info Swag & Merch Open Menu Close Menu About Contact Donate Topics Voter Info Swag & Merch Swag & Merch › Trucker Cap (2 Color Options) Image 1 of 8 Image 2 of 8 Image 3 of 8 Image 4 of 8 Image 5 of 8 Image 6 of 8 Image 7 of 8 Image 8 of 8 Trucker Cap (2 Color Options) $21.37 Trucker caps are perfect for merchandising—they're versatile and fit almost any occasion.
+A 100% polyester front and 100% nylon mesh weave back make these hats super durable through regular wear and tear.
+They come in one size with an adjustable plastic snap closure: 22.8" (58cm).
+The cap's front has six rows of visor stitching.
+Pick any (or all) of the color variations and start customizing them with your original designs. .: Material: 100% polyester foam front with 100% nylon mesh weave back .: One size fits most (22.8"/58cm) .: Seven color combinations to pick from .: Adjustable plastic snap closure .: Six row stitching on visor .: Please note: Creases on the hat will straighten out naturally once unpackaged and worn Color: Select Color Blue/Red Dark Navy Size: Select Size One size Add To Cart Added!
 Trucker caps are perfect for merchandising—they're versatile and fit almost any occasion.
 A 100% polyester front and 100% nylon mesh weave back make these hats super durable through regular wear and tear.
 They come in one size with an adjustable plastic snap closure: 22.8" (58cm).
 The cap's front has six rows of visor stitching.
-Pick any (or all) of the color variations and start customizing them with your original designs.
+Pick any (or all) of the color variations and start customizing them with your original designs. .: Material: 100% polyester foam front with 100% nylon mesh weave back .: One size fits most (22.8"/58cm) .: Seven color combinations to pick from .: Adjustable plastic snap closure .: Six row stitching on visor .: Please note: Creases on the hat will straighten out naturally once unpackaged and worn Rigsby 4 Representative Paid for by Friends of Amy Rigsby Location: Fairfield, Licking, & Perry Counties, Ohio Contact: AmyR4Ohio@gmail.com Send Donation Checks to: Friends of Amy Rigsby, P.O.
+Box 43, Amanda, OH 43102

@@ -1,24 +1,2 @@
-Skip to content
-Home
-Meet Dave
-Issues
-Contact
-Donate
-(opens in a new tab)
-Contact
-Name
-*
-First
-Last
-Email
-*
-Phone
-*
-Message
-*
-Home
-Meet Dave
-Issues
-Contact
-Donate
-(opens in a new tab)
+Skip to content Home Meet Dave Issues Contact Donate (opens in a new tab) Contact Name * First Last Email * Phone * Message * Submit Paid for by Dave Craven for NC By providing your phone number, you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number from Dave Craven.
+PRIVACY POLICY Home Meet Dave Issues Contact Donate (opens in a new tab)

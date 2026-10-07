@@ -1,21 +1,12 @@
-ABOUT BARBARA HANEY
-Ph.D. in Economics and Public Finance, University of Notre Dame
-Barbara Haney is a longtime North Pole resident, former FNSB Assembly Member who championed and preserved the FNSB Tax Cap, and former UAF faculty with a PhD from the University of Notre Dame.
+Home About Barbara Contribute Privacy Policy Contact BARBARA HANEY Republican Candidate for Alaska House -District 33 Moose Creek ~ North Pole ~ Chena Lakes ~ Newby ~ Plack ~ Badger "North Pole is my home.
+I will fight for it with everything I have." CONTRIBUTE VOLUNTEER STAY INFORMED ABOUT BARBARA HANEY Ph.D. in Economics and Public Finance, University of Notre Dame Barbara Haney is a longtime North Pole resident, former FNSB Assembly Member who championed and preserved the FNSB Tax Cap, and former UAF faculty with a PhD from the University of Notre Dame.
 With 20+ years of substantial legislative staff experience in Illinois and Alaska since 1984, she is a serious researcher who gets things done.
 She will examine the structural components of state spending to reduce the size and scope of government, not simply cut line items.
 Barbara knows HD33 because she lives it every day.
-MY PERSONAL STORY
-As a military widow whose husband is buried at Jefferson Barracks National Cemetery, Barbara has since remarried.
+MY PERSONAL STORY As a military widow whose husband is buried at Jefferson Barracks National Cemetery, Barbara has since remarried.
 She knows firsthand the struggles of military families in the Interior and remains deeply committed to honoring our veterans, supporting Eielson AFB, and fighting for military families.
 She is proudly pro-life, a strong defender of parents’ rights and school choice, and a champion for subsistence and resource rights against federal overreach.
-WHY BARBARA HANEY
-• Former FNSB Assembly Member — Championed & preserved the FNSB Tax Cap,
-• Chaired Regional Emergency Services Committee
-• 20+ years of substantial legislative staff experience — Illinois & Alaska since 1984
-• PhD, Univ. of Notre Dame — Former UAF Faculty — Founding member of IDEA
-• North Pole resident — knows HD33 because she lives it every day
-ACCOMPLISHMENTS ON ASSEMBLY
-I have been an enthusiastic supporter of the borough tax revenue cap throughout my years living in the borough and have continued that work on the assembly.
+WHY BARBARA HANEY • Former FNSB Assembly Member — Championed & preserved the FNSB Tax Cap, • Chaired Regional Emergency Services Committee • 20+ years of substantial legislative staff experience — Illinois & Alaska since 1984 • PhD, Univ. of Notre Dame — Former UAF Faculty — Founding member of IDEA • North Pole resident — knows HD33 because she lives it every day ACCOMPLISHMENTS ON ASSEMBLY I have been an enthusiastic supporter of the borough tax revenue cap throughout my years living in the borough and have continued that work on the assembly.
 I voted against holding the May 7th election to break the tax cap and was part of a voter education campaign to help borough voters defeat the measure.
 I worked actively to support and pass the renewal of the tax cap.
 I have helped with several code enforcement cases and have consistently voted to preserve the integrity of neighborhoods.
@@ -36,3 +27,4 @@ Starting first with employee parking, I sponsored an ordinance to restore parkin
 I further worked with city businesses to relax parking regulations in the city of Fairbanks to accommodate the Downtown Plan.
 I have also worked to stop the construction of roundabouts in areas with a high volume of truck traffic to continue access to trucks where industry and recreation would be hindered by their construction.I worked on the controversial climate action plan and brought it into conformity with the powers of the borough aimed at reducing costs to borough building.
 I have supported resolutions on the natural gas line and any other measures to reduce the cost of energy to homes and businesses.
+CONTRIBUTE NOW Haney for Alaska House PO Box 10139, Fairbanks, AK 99710 Paid for by Haney for Alaska House · PO Box 10139, Fairbanks, AK 99710 powered by SnapPages

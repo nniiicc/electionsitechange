@@ -1,6 +1,3 @@
-Issues
-Vote
-Election Day
-Add to Calendar
-Waterbury Town Clerk elections information page
-Additional questions regarding absentee ballots can be directed to the Waterbury Town Clerk's office at .
+Skip to content for Home Meet Issues Contact Vote Get Involved for Home Meet Issues Contact Vote Get Involved Vote Michael "DiGi" DiGiovancarlo for State Representative · Independent Democrat Get Involved Election Day Early Voting starts Save the Date Find your polling place Read more → Join the Team or Send a Message Don't fill this out: Name * Email * Phone ZIP Code How would you like to help? (optional) Volunteer Doorknocking Phone Calls Request a Lawn Sign Help with Events Message (optional) Send Thanks — we'll be in touch soon.
+Issues Read more → Vote Election Day Add to Calendar Early Voting Add to Calendar Waterbury City Hall, 235 Grand St Find Your Polling Place Get an Absentee Ballot Check Registration Register to Vote Waterbury Town Clerk elections information page Additional questions regarding absentee ballots can be directed to the Waterbury Town Clerk's office at . , Independent Democrat , Proudly people-funded — participating in Connecticut's Citizens' Election Program .
+Connecticut's Citizens' Election Program

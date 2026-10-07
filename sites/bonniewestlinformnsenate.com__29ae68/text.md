@@ -1,8 +1,4 @@
-Bonnie Westlin
-Candidate for MN Senate District 42
-Plymouth, Maple Grove, Medicine Lake
-ENDORSED
-I’m Senator Bonnie Westlin, and I’m running for re-election to continue to represent Plymouth, Maple Grove, and Medicine Lake in the State Senate.
+About Bonnie Legislative Issues Events Endorsements Vote Contact Us DONATE Select Page Bonnie Westlin Candidate for MN Senate District 42 Plymouth, Maple Grove, Medicine Lake ENDORSED Register to Vote Donate I’m Senator Bonnie Westlin , and I’m running for re-election to continue to represent Plymouth, Maple Grove, and Medicine Lake in the State Senate.
 I have worked hard for our community, securing critical funding for all three cities in my district.
 I authored the largest increase in special education funding in our state’s history, and passed laws to improve our elections, provide greater transparency in campaign finance, and support our democracy.
 I’ve also voted for critical fraud prevention measures, including establishing an independent office of inspector general and the Medicaid Fraud Prevention Act.
@@ -10,19 +6,13 @@ I helped deliver nation-leading tax credits for families with kids, and I’ve w
 I believe our common values bind us together as a community and should always serve as our guide for making our state work better for all of us, no matter what we look like, where we come from or what our economic status is.
 It’s time to reject the politics of division.
 I will continue to be a leader who works to bring us together, not tear us apart.
-I’m Senator Bonnie Westlin and I’m asking for your vote again in November to continue the good work for our community and for our state.
-I’m asking for your vote.
+I’m Senator Bonnie Westlin and I’m asking for your vote again in November to continue the good work for our community and for our state. register to vote Donate Priorities & Issues Get Involved First Name * Last Name * Email * Phone * Address Address Address Address Address Address State Alabama Alaska Arkansas Arizona California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Address I would Like to... host lawn sign help put up/take down lawn signs help with social media host/participate in district doorknocks help make phone calls host/co-host a fundraiser/house party write postcards texting Walk In A Parade Other Other I would like to get updates and news via email Yes No Submit If you are human, leave this field blank. Δ I’m asking for your vote.
 And I’d love your help!
 Ready to roll up your sleeves?
 Below are a few ways you can contribute and volunteer.
-Host a precinct party
-Walk in a Parade
-Host District Doorknocks
-Help make Phone Calls
-Make an Endorsement
-Put up Lawn Signs
-Walk in Parades
-I’m asking for your vote.
+N Host a precinct party N Walk in a Parade N Host District Doorknocks N Help make Phone Calls N Make an Endorsement N Put up Lawn Signs N Walk in Parades I’m asking for your vote.
 And I’d love your help!
 Ready to roll up you sleeves?
 Below are a few ways you can contribute and volunteer.
+N Host a precinct party N Walk in a Parade N Host District Doorknocks N Help make Phone Calls N Make an Endorsement N Put up Lawn Signs Get Involved First Name * Last Name * Email * Phone * Address Address Address Address Address Address State Alabama Alaska Arkansas Arizona California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Address I would Like to... host lawn sign help put up/take down lawn signs help with social media host/participate in district doorknocks help make phone calls host/co-host a fundraiser/house party write postcards texting Walk In A Parade Other Other I would like to get updates and news via email Yes No Submit If you are human, leave this field blank. Δ Prepared and Paid for by Bonnie Westlin for MN Senate, P.O.
+Box 46214 Plymouth, MN 55446 Phone: 612-500-8989 Follow Follow Follow Follow

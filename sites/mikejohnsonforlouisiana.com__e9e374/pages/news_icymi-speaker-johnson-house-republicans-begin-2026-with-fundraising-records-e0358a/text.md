@@ -1,27 +1,25 @@
-ICYMI: Speaker Johnson, House Republicans Begin 2026 with Fundraising Records
-April 20, 2026
-WASHINGTON, D.C. - Speaker Mike Johnson and House Republicans set fundraising records in the first three months of 2026, staying on offense to begin the election year.
-Find a recap of fundraising coverage below in case you missed it:
-"There's even more good news on the GOP fundraising front.
-Not only did the National Republican Congressional Committee (NRCC) report that Q1 fundraising for swing-district Republicans far outstripped Democrat fundraising, but House Speaker Mike Johnson set a fundraising record in the first quarter, too.
-...
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE ICYMI: Speaker Johnson, House Republicans Begin 2026 with Fundraising Records Apr 20 Written By Greg Steele April 20, 2026 WASHINGTON, D.C. - Speaker Mike Johnson and House Republicans set fundraising records in the first three months of 2026, staying on offense to begin the election year.
+Find a recap of fundraising coverage below in case you missed it: Townhall: Speaker Mike Johnson Sets Fundraising Record With $34 Million Haul in the First Quarter of 2026 "There's even more good news on the GOP fundraising front.
+Not only did the National Republican Congressional Committee (NRCC) report that Q1 fundraising for swing-district Republicans far outstripped Democrat fundraising, but House Speaker Mike Johnson set a fundraising record in the first quarter, too. ...
 "This historic fundraising benefits vulnerable incumbents, known as the NRCC Patriots.
-On average, Speaker Johnson's fundraising efforts sent nearly $200,000 to each Patriot, which makes Johnson the difference-maker in these races.
-...
-...
-"With Speaker Johnson driving record fundraising and directing resources to the most competitive races, the GOP is positioning itself to not just defend its majority but expand it."
-Punchbowl: Q1 numbers from Speaker Johnson
+On average, Speaker Johnson's fundraising efforts sent nearly $200,000 to each Patriot, which makes Johnson the difference-maker in these races. ...
+"The Speaker's endorsed Super PAC Congressional Leadership Fund, along with the $# million raised this cycle means more than $# million has been raised for House Republicans heading into the midterms. ...
+"With Speaker Johnson driving record fundraising and directing resources to the most competitive races, the GOP is positioning itself to not just defend its majority but expand it." Punchbowl: Q1 numbers from Speaker Johnson "Speaker Mike Johnson raised $34 million in the first quarter, his best fundraising quarter ever.
 "Team Johnson says this is the largest election-year quarter ever by a GOP speaker or minority leader.
 Johnson has doled out $18 million to incumbents and nearly $30 million to the NRCC.
-"Johnson’s 2025-26 cycle total is now more than $116 million raised."
+"Johnson’s 2025-26 cycle total is now more than $116 million raised." Daily Signal: SCOOP: Trump and Johnson to Discuss Midterms at White House Following Record Fundraising Haul "The speaker raised over $34 million in the first quarter, breaking Republican leadership fundraising records as the party prepares for the midterm cycle.
 The Republican war chest is expected to help the party go on the offensive despite the historical disadvantage majority parties often have going into midterm elections.
-"The speaker has given nearly $30 million to the NRCC and a record-setting $18 million directly to incumbents in the House.
-Overall, this cycle, he has given over $64 million toward the midterms to “defend and grow the House GOP majority.”"
-"The broader House Republican fundraising network is also reporting strong numbers.
-"Top Republican leaders have also posted sizable fundraising totals in the first quarter, led by Speaker Mike Johnson, whose $34 million set a record.
-"Hudson also highlighted the first-quarter fundraising performance from vulnerable GOP incumbents in swing seats– dubbed the "NRCC Patriots"-- as a sign of early financial strength heading into the midterms."
-The sum does not include funds raised by Johnson’s endorsed super PAC.
-...
-"Johnson has distributed over $64 million to members, campaigns, committees, and state parties this midterm election, as he fights to keep the House majority."
-Fox News: NRCC reporting record $47.1 million quarter, record $28.1 million raised in March
-...
+"The speaker has given nearly $# million to the NRCC and a record-setting $# million directly to incumbents in the House.
+Overall, this cycle, he has given over $# million toward the midterms to “defend and grow the House GOP majority.”" CBS: House GOP's campaign arm touts record $47 million fundraising haul in first three months of 2026 "The broader House Republican fundraising network is also reporting strong numbers.
+Outside groups aligned with House GOP leadership, including the Congressional Leadership Fund super PAC and the American Action Network, have raised nearly $# million so far this cycle.
+"Top Republican leaders have also posted sizable fundraising totals in the first quarter, led by Speaker Mike Johnson, whose $# million set a record.
+According to NRCC, he has now raised more than $# million in hard dollars for House Republicans this cycle.
+"Hudson also highlighted the first-quarter fundraising performance from vulnerable GOP incumbents in swing seats– dubbed the "NRCC Patriots"-- as a sign of early financial strength heading into the midterms." Washington Examiner: Mike Johnson raises $500,000 to fight Spanberger’s gerrymandering push in Virginia "Apart from raking in $# for the Virginia effort, Johnson also raised $# million in the first quarter of this year.
+The sum does not include funds raised by Johnson’s endorsed super PAC. ...
+"Johnson has distributed over $64 million to members, campaigns, committees, and state parties this midterm election, as he fights to keep the House majority." Fox News: NRCC reporting record $# million quarter, record $# million raised in March "The House Speaker Mike Johnson-backed Congressional Leadership Fund (CLF) and its nonprofit American Action Network (AAN) have raised a combined $# million thus far in the 2025-2026 cycle. ...
+"Top House GOP leaders have also posted eye-catching numbers, according to the NRCC: Johnson himself raised $# million in the first quarter and more than $# million in hard dollars this cycle" Greg Steele Previous Previous Speaker Johnson Surpasses Record $# Million Raised for 2026 Midterms Next Next Speaker Johnson Raises $34 Million in First Quarter, Sets New Record to Begin 2026 Election Year Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

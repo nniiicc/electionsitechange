@@ -1,9 +1,6 @@
-ACCOMPLISHMENTS
-ACCOMPLISHMENTS
-During his time as Governor, Brad Little has recorded historic achievements when it comes to saving Idahoans more of their hard-earned money, investing in our future, and defending the values Idaho families hold dear.
+Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Accomplishments Meet Brad Volunteer Updates CHIP IN Menu ACCOMPLISHMENTS ACCOMPLISHMENTS During his time as Governor, Brad Little has recorded historic achievements when it comes to saving Idahoans more of their hard-earned money, investing in our future, and defending the values Idaho families hold dear.
 Check out Gov.
-Brad Little’s top 10 latest accomplishments:
-1.
+Brad Little’s top 10 latest accomplishments : 1.
 Cutting red tape – Gov.
 Little cut or simplified a whopping 95-percent of Idaho regulations, easing burdens on small businesses and citizens.
 Under Gov.
@@ -22,7 +19,7 @@ Making America Great Again – Gov.
 Little has collaborated with President Trump on implementing his agenda in Idaho.
 From increasing wages to workforce development, Gov.
 Brad Little’s LAUNCH Program is a national model for putting Trump’s America’s Talent Strategy Plan into action.
-5.
+5 .
 Securing the Border and Our Communities – Idaho is already one of the safest states in the nation, and Gov.
 Little is leading Idaho by working with law enforcement and President Trump in new ways to fight the influence of Mexico drug cartels in our state.
 No other state performed more missions to the border than Idaho, and our Operation No Return is removing dangerous illegal alien criminals from Idaho communities.
@@ -42,7 +39,9 @@ He did it without raising taxes on people and businesses.
 Promoting election integrity and freedom – Gov.
 Little has promoted additional election integrity measures and new resources to protect us against cyber-attacks by bad actors in China, Russia, and elsewhere.
 Under Gov.
-Little’s watch, Idaho is a top 10 state for Overall Freedom, Economic Freedom, Regulatory Policy Freedom, Gun Rights, and Occupational Freedom, and Health Insurance Freedom
-10.
+Little’s watch, Idaho is a top 10 state for Overall Freedom, Economic Freedom, Regulatory Policy Freedom, Gun Rights, and Occupational Freedom, and Health Insurance Freedom 10.
 Defending Idaho Values – From defending women’s sports to promoting pro-life policies to making sure our children learn to love America, Idahoans can depend on Gov.
 Little to protect the common sense values that have defined Idaho for generations and will continue to make Idaho successful for generations to come..
+Help Governor Little Achieve More for Idaho Become A Volunteer!
+P.O.
+Box 2664 Boise, ID 83701 (208) 513-3154 Paid for by Brad Little for Governor, Vicki Risch Treasurer Privacy Policy

@@ -1,4 +1,4 @@
-Nathan Nelson grew up on a dairy farm east of Hinckley.
+Home About Me Contact Us Donate More Home About Me Contact Us Donate Home About Me Contact Us Donate Nathan Nelson grew up on a dairy farm east of Hinckley.
 In 2018, he and his wife Suzanna chose to expand their herd of angus beef cattle, and to sell the dairy cows.
 They are the third generation to own and operate their farm.
 Nathan has been involved in his community; he is active in his church and he served on his township board for 9 years.
@@ -11,4 +11,5 @@ This is a two-year leadership course through a partnership with the University o
 He has served as your State Representative for the last year and has worked for you in keeping and preserving our heritage and values that are important for our area.
 In his spare time, Nathan enjoys spending time with his family, hunting, fishing and making maple syrup.
 He loves giving back to the area that he grew up in to create a strong community for future generations.
-Your support and contributions will enable us to meet our goals.
+Photo Gallery Contribute Your support and contributions will enable us to meet our goals.
+Donate Now Prepared and paid for by Nathan Nelson for House PO Box 671 Hinckley, MN 55037

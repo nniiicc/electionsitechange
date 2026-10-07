@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.steve-parsons.com/about",
- "paid_for_by": null,
- "title": "About \u2014 SteveParsonsLibertarian.com",
+ "fingerprint": "72b8179f1d9ab0ccb22bb9a7176c5c07bb6cfeb8",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "About — SteveParsonsLibertarian.com",
  "years_mentioned": [
-  "2016"
+  "2016",
+  "2024"
  ]
 }

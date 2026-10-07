@@ -1,12 +1,46 @@
 [
-"http://fb.me/marykunesh4mn",
-"https://dps.mn.gov/divisions/dvs/forms-documents/Documents/MV_SpecialPlatesApplication.pdf",
-"https://dps.mn.gov/divisions/ojp/Documents/missing-murdered-indigenous-women-task-force-report.pdf",
-"https://marykunesh.com/",
-"https://marykunesh.com/about",
-"https://marykunesh.com/donate",
-"https://marykunesh.com/elections-2026",
-"https://marykunesh.com/joinus",
-"https://marykunesh.com/vision",
-"https://twitter.com/MaryKunesh9"
+{
+"text": "About",
+"href": "https://marykunesh.com/about/"
+},
+{
+"text": "Contribute",
+"href": "https://marykunesh.com/donate/"
+},
+{
+"text": "Election 2026",
+"href": "https://marykunesh.com/elections-2026/"
+},
+{
+"text": "Facebook",
+"href": "http://fb.me/marykunesh4mn"
+},
+{
+"text": "Home",
+"href": "https://marykunesh.com/"
+},
+{
+"text": "Join Us",
+"href": "https://marykunesh.com/joinus/"
+},
+{
+"text": "Order yours here",
+"href": "https://dps.mn.gov/divisions/dvs/forms-documents/Documents/MV_SpecialPlatesApplication.pdf"
+},
+{
+"text": "Read the report here",
+"href": "https://dps.mn.gov/divisions/ojp/Documents/missing-murdered-indigenous-women-task-force-report.pdf"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/MaryKunesh9"
+},
+{
+"text": "Vision",
+"href": "https://marykunesh.com/vision/"
+},
+{
+"text": "[image: Mary Kunesh for Minnesota State Senate]",
+"href": "https://marykunesh.com/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://www.steve4ncsenate.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "b54f57dcbc0cec66474b6cab3b38cac39efaa6b8",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

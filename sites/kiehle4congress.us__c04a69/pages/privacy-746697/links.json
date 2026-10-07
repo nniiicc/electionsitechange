@@ -1,4 +1,10 @@
 [
-"https://instagram.com/about/legal/privacy",
-"https://kiehle4congress.us/"
+{
+"text": "Back",
+"href": "https://kiehle4congress.us/"
+},
+{
+"text": "https://instagram.com/about/legal/privacy/",
+"href": "https://instagram.com/about/legal/privacy/"
+}
 ]

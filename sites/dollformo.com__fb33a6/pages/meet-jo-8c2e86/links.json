@@ -1,8 +1,30 @@
 [
-"https://dollformo.com/",
-"https://dollformo.com/cart",
-"https://dollformo.com/get-involved",
-"https://dollformo.com/issues",
-"https://dollformo.com/meet-jo",
-"https://secure.actblue.com/donate/doll-for-missouri"
+{
+"text": "0",
+"href": "https://www.dollformo.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/doll-for-missouri"
+},
+{
+"text": "Get Involved",
+"href": "https://www.dollformo.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.dollformo.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.dollformo.com/issues"
+},
+{
+"text": "Meet Jo",
+"href": "https://www.dollformo.com/meet-jo"
+},
+{
+"text": "[image: Jo Doll for State Rep]",
+"href": "https://www.dollformo.com/"
+}
 ]

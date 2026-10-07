@@ -1,5 +1,5 @@
-(From the party that's NOT in the Epstein files)
-I've been a Nebraskan since 1972.
+G-D2TBD14C94 Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear Menu RICK BEARD FOR GOVERNOR Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear Our Team (From the party that's NOT in the Epstein files) Rick building vertical grow systems for alternative urban food production in North Omaha.
+Campaign Manager Marion Beard Campaign manager RICK BEARD I've been a Nebraskan since 1972.
 As a child, my father was an international exporter of Nebraska-made agricultural equipment.
 My mom worked for the Social Security Administration as a claims representative and instilled in me the importance of a government that provides care and benefits for its people.
 When I was 21, a part time holiday job brought on a long career in food, wine, and eventually cannabis.
@@ -23,3 +23,4 @@ Then we heard even more accounts of addiction transference-- people getting off 
 It was awesome to see a community find a solution to a deadly problem through cannabis legalization.
 Again, we saw issues with early Oklahoma legislation such as excessive licensing and insufficient background checks.
 Now that we've seen what legislation succeeds and what fails for about 30 years, we can draft forward thinking, pro-Nebraska, pro-Nebraskan, "full-access whole-plant" cannabis legislation that protects and benefits our citizens with extensive background checks, seed to sale tracking, rigorous product testing, and safe, proven distribution and retail models.
+I agree to receiving marketing and promotional materials * Subscribe to Newsletter Proudly powered by Weebly Home Team The Simple Plan Press/Media Contact Events T-Shirts and Gear

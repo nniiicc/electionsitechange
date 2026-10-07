@@ -1,9 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61563231940175",
-"https://facebook.com/profile.php?id=61563231940175&sk=events",
-"https://henslinforhouse.com/",
-"https://henslinforhouse.com/about",
-"https://henslinforhouse.com/endorsements",
-"https://secure.actblue.com/donate/henslinforhouse"
+{
+"text": "About",
+"href": "https://www.henslinforhouse.com/about"
+},
+{
+"text": "Contact",
+"href": "mailto:henslinforhousemn@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/henslinforhouse"
+},
+{
+"text": "Endorsements",
+"href": "https://www.henslinforhouse.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/profile.php?id=61563231940175&sk=events"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "[image: Henslin for House]",
+"href": "https://www.henslinforhouse.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61563231940175"
+},
+{
+"text": "henslinforhousemn@gmail.com",
+"href": "mailto:henslinforhousemn@gmail.com"
+}
 ]

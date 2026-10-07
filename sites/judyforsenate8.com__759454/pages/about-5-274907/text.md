@@ -1,6 +1,4 @@
-top of page
-Upcoming Events
-- Multiple DatesTitusville CanvassingSep 12, 2026, 9:00 AM – Oct 31, 2026, 12:00 PM2440 S Washington Ave, Titusville, FL 32780, USAMore info
-- Multiple DatesWeekly Volunteer CallsSep 15, 2026, 5:30 PM – Oct 27, 2026, 6:30 PMRegister for LinkMore info
-- Multiple DatesBrevard CanvassingSep 19, 2026, 9:00 AM – Oct 31, 2026, 12:00 PM2440 S Washington Ave, Titusville, FL 32780, USAMore info
-bottom of page
+top of page ABOUT ISSUES EVENTS VOLUNTEER NEWSLETTER CONTACT More Use tab to navigate through the menu items.
+DONATE Upcoming Events Multiple Dates Deltona Canvassing Oct 09, 2026, 4:30 PM – 10:00 PM Register for Location More info RSVP Multiple Dates Titusville Canvassing Oct 10, 2026, 9:00 AM – Nov 28, 2026, 12:00 PM 2440 S Washington Ave, Titusville, FL 32780, USA More info RSVP Multiple Dates Brevard Canvassing Oct 10, 2026, 9:00 AM – Nov 21, 2026, 12:00 PM 2440 S Washington Ave, Titusville, FL 32780, USA More info RSVP Meet Judy at the Deltona Women's Club Forum!
+Oct 10, 2026, 6:00 PM – 9:00 PM 1049 E Normandy Blvd, 1049 E Normandy Blvd, Deltona, FL 32725, USA More info Learn more Canvassing with Bale Dalton Oct 11, 2026, 9:00 AM – 12:00 PM Location is TBD More info RSVP Multiple Dates Weekly Volunteer Calls Oct 13, 2026, 5:30 PM – Nov 24, 2026, 6:30 PM Register for Link More info RSVP Early Voting Tabling & Sign Waving Oct 19, 2026, 7:00 AM – Oct 31, 2026, 7:00 PM Location is TBD More info RSVP Canvass with Bale Dalton Oct 24, 2026, 5:00 PM – 9:30 PM Register for Location More info RSVP ABOUT EVENTS PRIORITIES CONTACT PAID FOR BY JUDY NGYING, DEMOCRAT FOR FLORIDA SENATE DISTRICT 8 © # JUDY NGYING.
+ALL RIGHTS RESERVED. | PRIVACY POLICY Website by: Clover’s Creative Strategy & Design bottom of page

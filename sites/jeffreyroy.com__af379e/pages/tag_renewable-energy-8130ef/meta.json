@@ -1,9 +1,20 @@
 {
  "description": "Posts about renewable-energy written by Jeffrey Roy",
  "final_url": "https://jeffreyroy.com/tag/renewable-energy/",
- "paid_for_by": null,
+ "fingerprint": "6d75c4dbfc07bf91e84bbd54ca914ccb31c24dec",
+ "format": 3,
+ "paid_for_by": "",
  "title": "renewable-energy |",
  "years_mentioned": [
-  "2024"
+  "1983",
+  "2006",
+  "2007",
+  "2008",
+  "2010",
+  "2011",
+  "2014",
+  "2021",
+  "2024",
+  "2025"
  ]
 }

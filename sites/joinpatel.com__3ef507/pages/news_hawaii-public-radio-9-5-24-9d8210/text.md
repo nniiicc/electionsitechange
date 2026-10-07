@@ -1,5 +1,2 @@
-Hawaii Public Radio 9.5.24
-Lawmakers reflect on federal recovery efforts and community impact in Lahaina post-wildfire
-Written By Tambara Garrick
-Previous
-Next
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Hawaii Public Radio 9.5.24 Sep 5 Written By Tambara Garrick Lawmakers reflect on federal recovery efforts and community impact in Lahaina post-wildfire Tambara Garrick Previous Previous KITV 9.23.24 Next Next KHON2 8.28.24 Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

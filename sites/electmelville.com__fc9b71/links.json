@@ -1,28 +1,118 @@
 [
-"https://designedtorun.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSeAYuQLwWrO5i6ZtWLB4umoXsxLfeRsA-qqOPoDj-nn59O7PA/viewform",
-"https://electmelville.com/",
-"https://electmelville.com/about",
-"https://electmelville.com/contact",
-"https://electmelville.com/district",
-"https://electmelville.com/donate",
-"https://electmelville.com/events",
-"https://electmelville.com/news",
-"https://electmelville.com/priorities",
-"https://electmelville.com/tm-website-terms-and-conditions.pdf",
-"https://electmelville.com/volunteer",
-"https://facebook.com/profile.php?id=61588205559945",
-"https://instagram.com/electmelville",
-"https://mobilize.us/themelvillecommittee",
-"https://sec.state.ma.us/OVR",
-"https://sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?Action=Register",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
-"https://secure.actblue.com/donate/tom-melville-1",
-"https://secure.actblue.com/donate/tom-melville-1?amount=10",
-"https://secure.actblue.com/donate/tom-melville-1?amount=100",
-"https://secure.actblue.com/donate/tom-melville-1?amount=25",
-"https://secure.actblue.com/donate/tom-melville-1?amount=250",
-"https://secure.actblue.com/donate/tom-melville-1?amount=50",
-"https://youtube.com/@ElectMelville/shorts"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/tom-melville-1?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.electmelville.com/about"
+},
+{
+"text": "All residents of the 9th Norfolk are encouraged to submit questions. What do you want your next state rep to answer?",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeAYuQLwWrO5i6ZtWLB4umoXsxLfeRsA-qqOPoDj-nn59O7PA/viewform"
+},
+{
+"text": "Check if you're registered to vote",
+"href": "https://www.sec.state.ma.us/OVR/"
+},
+{
+"text": "Contact",
+"href": "https://www.electmelville.com/contact"
+},
+{
+"text": "District",
+"href": "https://www.electmelville.com/district"
+},
+{
+"text": "Donate",
+"href": "https://www.electmelville.com/donate"
+},
+{
+"text": "Early voting locations",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm"
+},
+{
+"text": "Events",
+"href": "https://www.electmelville.com/events"
+},
+{
+"text": "News",
+"href": "https://www.electmelville.com/news"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/tom-melville-1"
+},
+{
+"text": "Priorities",
+"href": "https://www.electmelville.com/priorities"
+},
+{
+"text": "Privacy Policy and Terms and Conditions",
+"href": "https://www.electmelville.com/tm-website-terms-and-conditions.pdf"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://www.sec.state.ma.us/OVR/Pages/CheckEligibility.aspx?Action=Register"
+},
+{
+"text": "Request a mail ballot",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+},
+{
+"text": "Sign up",
+"href": "https://www.mobilize.us/themelvillecommittee/"
+},
+{
+"text": "Visit Tom's YouTube",
+"href": "https://www.youtube.com/@ElectMelville"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electmelville.com/volunteer"
+},
+{
+"text": "Volunteer Here",
+"href": "https://www.mobilize.us/themelvillecommittee/"
+},
+{
+"text": "[image: Elect Tom Melville to MA House 9th Norfolk District]",
+"href": "https://www.electmelville.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588205559945"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/electmelville"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectMelville/shorts"
+},
+{
+"text": "tom@electmelville.com",
+"href": "mailto:tom@electmelville.com"
+}
 ]

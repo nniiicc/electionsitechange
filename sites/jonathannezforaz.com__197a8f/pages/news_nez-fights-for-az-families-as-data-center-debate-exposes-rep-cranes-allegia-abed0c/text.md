@@ -1,18 +1,24 @@
-PRESS RELEASE
-Nez Fights for AZ Families as Data Center Debate Exposes Rep.
-Crane’s Allegiance to Billionaires
-FLAGSTAFF, AZ - New reporting in the Washington Sun highlighted Jonathan Nez’s plan to claw back tax breaks for data centers in Congress.
+Skip navigation menu About Agenda Press Endorsements Volunteer Events Donate About Agenda Press Endorsements Volunteer Events Donate PRESS RELEASE Eli Crane Votes Against Making Housing More Affordable for Arizonans PRESS RELEASE Former Transportation Sec.
+Pete Buttigieg Endorses Jonathan Nez Media Advisory Jonathan Nez to Host Rural Healthcare Roundtable in Winslow, AZ Media Advisory Jonathan Nez to Host Flagstaff Small Business Round Table and Tour Fact sheet The True Costs of Rep.
+Eli ‘High Costs’ Crane and Republican Policies on Rural Arizonans PRESS RELEASE Jonathan Nez Responds to President Trump’s Statements Regarding Pope Leo XIV PRESS RELEASE Jonathan Nez Blasts Eli Crane For Voting Against Bipartisan Bills to Lower Housing Costs PRESS RELEASE Congressman Eli “High Costs” Crane Refuses To Hold Arizona Townhalls PRESS RELEASE Congressman Eli Crane’s Response to Arizonans Seeking Answers: “I Hope it Works Out” PRESS RELEASE Congressman Eli Crane Applauds the State of High Costs PRESS RELEASE Jonathan Nez Named to “Red To Blue” Program PRESS RELEASE Congressman Eli Crane Votes to Let Tariffs Raise Costs on Arizona Families PRESS RELEASE Congressman Eli “Higher Costs” Crane Votes To Increase Arizonans’ Healthcare Costs PRESS RELEASE Congressman Eli Crane Again Fails to Deliver for Rural Arizonans PRESS RELEASE Jonathan Nez Defends Head Start Amid Proposed Cuts PRESS RELEASE All Fat, No Cattle: Eli Crane Silent as Trump Buys Foreign Beef and Ignores Our Ranchers PRESS RELEASE Jonathan Nez Slams Crane on Endless War, OBBBA Vote after Federal Debt Surpasses 40 Trillion PRESS RELEASE The Cost of Crane: He Rubber-Stamps Tariffs that are Crippling Arizona Families, Small Businesses PRESS RELEASE Jonathan Nez: Arizona’s Water isn’t just a Worry, it’s a Crisis.
+Eli Crane Has Failed Us.
+PRESS RELEASE As Arizona Water Crisis Deepens, Rep.
+Crane Stands with Washington Bureaucrats Making it Worse PRESS RELEASE As Lake Mead Reaches Lowest Level Ever, Jonathan Nez Rips Rep.
+Crane, Trump Admin.
+Over Inaction PRESS RELEASE ICYMI: Poll Shows Dem.
+Jonathan Nez Tied with Rep.
+Eli Crane in District Trump Won by Double Digits PRESS RELEASE Jonathan Nez Reaffirms Commitment to Arizona Workers, Labor Unions Ahead of Labor Day PRESS RELEASE Hypocrisy: Rep.
+Crane Once Opposed Deadly, Costly "Forever Wars." His Website Update Says Otherwise PRESS RELEASE Nez Highlights Plan for Rural Arizona, Crane Once Again Doesn’t Show Up to Answer Tough Q’s PRESS RELEASE Congressman Eli Crane Just Voted to Continue the War Driving Up Costs … Again PRESS RELEASE Rep.
+Crane Takes Money from Mega Donor as his Campaign Continues to be Bankrolled by DC Elite PACs PRESS RELEASE Nez Pledges to Introduce Legislation to Claw Back OBBBA Tax Breaks for Data Centers PRESS RELEASE “Trying to fool his constituents”: Congressman Crane Takes Credit for Something He Voted Against PRESS RELEASE ICYMI: Congressman Eli Crane Covers Up the Epstein Files After Epstein Enablers Flood Him with Cash PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires PRESS RELEASE Nez Helps Cut Ribbon for New Hospital Serving Rural Arizona PRESS RELEASE Nez Slams Crane’s Harmful Policies as Jobs Report Shows Arizona Workers Getting Squeezed Sep 30 2026 PRESS RELEASE Nez Fights for AZ Families as Data Center Debate Exposes Rep.
+Crane’s Allegiance to Billionaires FLAGSTAFF, AZ - New reporting in the Washington Sun highlighted Jonathan Nez’s plan to claw back tax breaks for data centers in Congress.
 Jonathan Nez is ready to fight for Arizona families while Congressman Eli Crane is too beholden to billionaire interests to stand up for his constituents.
-From the Washington Sun:
-In Arizona, Jonathan Nez, a Democrat running for a GOP-leaning Arizona seat, is pledging to claw back ‘the billions in tax breaks’ that Republican Rep.
+From the Washington Sun: In Arizona, Jonathan Nez, a Democrat running for a GOP-leaning Arizona seat, is pledging to claw back ‘the billions in tax breaks’ that Republican Rep.
 Eli Crane ‘gave the data centers,’” read the report in the Washington Sun.
-“In an interview, the former Navajo president said the issue has touched a nerve with voters because ‘the folks that are pushing data centers are large corporations’ and ‘there’s a negative perspective on the billionaires and the wealthy, the elite in this country.’
-“Some of these data centers that are being built right now, folks didn’t know about it, and now once they find out what’s happening, they feel like they’ve been lied to,” [Nez] said.
+“In an interview, the former Navajo president said the issue has touched a nerve with voters because ‘the folks that are pushing data centers are large corporations’ and ‘there’s a negative perspective on the billionaires and the wealthy, the elite in this country.’ “Some of these data centers that are being built right now, folks didn’t know about it, and now once they find out what’s happening, they feel like they’ve been lied to,” [Nez] said.
 Just last week Nez announced his plan to offer legislation clawing back data center tax breaks as one of his first bills in Congress.
 Nez is the first public figure to call for clawing back the massive tax breaks.
 Nez’s legislation would direct the billions in tax breaks Congressman Crane and Congress gave to data centers in the One Big Beautiful Bill Act towards a working class tax cut and new technology that helps conserve our precious water.
 Crane, on the other hand, continues to work for the country’s powerful and elite.
 He hands out massive tax breaks to large corporations and billionaires that want to build data centers despite Americans being starkly against them.
-SEE ALSO:
-- Lincoln Institute of Land Policy: Data Drain: The Land and Water Impacts of the AI Boom (10/27/25)
-- Phoenix New Times: Epstein enabler donated to Arizona congressman ahead of files release (9/25/26)
+SEE ALSO: Lincoln Institute of Land Policy: Data Drain: The Land and Water Impacts of the AI Boom (10/27/25) Phoenix New Times: Epstein enabler donated to Arizona congressman ahead of files release (9/25/26) Privacy Policy JONATHAN NEZ FOR CONGRESS PO BOX 1854 FLAGSTAFF, AZ 86002 General Inquiries info@jonathannezforaz.com Press & Media press@jonathannezforaz.com Powered by RUN! website builder PAID FOR BY JONATHAN NEZ FOR CONGRESS You need to enable JavaScript to run this app.

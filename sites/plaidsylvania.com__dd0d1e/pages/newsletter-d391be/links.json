@@ -1,8 +1,30 @@
 [
-"https://paypal.biz/plaidsylvania",
-"https://plaidsylvania.com/",
-"https://plaidsylvania.com/cart",
-"https://plaidsylvania.com/events",
-"https://plaidsylvania.com/newsletter",
-"https://squarespace.com/"
+{
+"text": "0",
+"href": "https://www.plaidsylvania.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.biz/plaidsylvania"
+},
+{
+"text": "Events",
+"href": "https://www.plaidsylvania.com/events"
+},
+{
+"text": "Plaidsylvania",
+"href": "https://www.plaidsylvania.com/"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "Subscribe to Edward's Newsletter",
+"href": "https://www.plaidsylvania.com/newsletter"
+},
+{
+"text": "[image: Plaidsylvania]",
+"href": "https://www.plaidsylvania.com/"
+}
 ]

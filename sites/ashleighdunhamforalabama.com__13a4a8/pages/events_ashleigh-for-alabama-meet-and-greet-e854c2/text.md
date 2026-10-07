@@ -1,11 +1,3 @@
-Back to All Events
-Join Merri Gardunia and friends for a meet-and-greet in honor of AshLeigh Meyer Dunham for Supreme Court.
+0 Skip to Content Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Open Menu Close Menu Campaign Merch Events News Donate About Contact Endorsements Back to All Events AshLeigh for Alabama Meet-and-Greet Sunday, August 9, 2026 5:30 PM 7:30 PM 609 Beth Road New Market, Alabama, 35761 United States (map) Google Calendar ICS Join Merri Gardunia and friends for a meet-and-greet in honor of AshLeigh Meyer Dunham for Supreme Court.
 Can’t make it?
-Make a contribution to AshLeigh’s campaign here: https://donate.campaigndeputy.com/donate/merriforashleigha
-Previous
-Previous
-July 31
-Mahjong for the Matriarchy
-Next
-Next
-August 23
+Make a contribution to AshLeigh’s campaign here: https://donate.campaigndeputy.com/donate/merriforashleigha Previous Previous July 31 Mahjong for the Matriarchy Next Next August 23 Meet-and-Greet AshLeigh for Alabama DONATE Paid for by AshLeigh for Alabama Location PO BOX 170 Shannon, AL 35142 Contact Email: info@ashleighforalabama.com Phone: (205) 239 9991 Instagram | TikTok | Facebook

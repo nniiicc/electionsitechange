@@ -1,17 +1,62 @@
 [
-"http://eepurl.com/gBmbNv",
-"https://facebook.com/joellaforkansas",
-"https://joellaforkansas.com/",
-"https://joellaforkansas.com/about",
-"https://joellaforkansas.com/issues",
-"https://joellaforkansas.com/issues/budget-and-economic-equity",
-"https://joellaforkansas.com/issues/criminal-justice-reform",
-"https://joellaforkansas.com/issues/education",
-"https://joellaforkansas.com/issues/environment",
-"https://joellaforkansas.com/issues/healthcare",
-"https://joellaforkansas.com/issues/sensible-gun-laws-that-save-lives",
-"https://joellaforkansas.com/issues/zero-discrimination",
-"https://joellaforkansas.com/privacy-policy",
-"https://secure.actblue.com/donate/jo-ella-for-kansas-1",
-"https://twitter.com/joellahoye"
+{
+"text": "About Me",
+"href": "https://joellaforkansas.com/about/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jo-ella-for-kansas-1"
+},
+{
+"text": "Education",
+"href": "https://joellaforkansas.com/issues/education/"
+},
+{
+"text": "Environment",
+"href": "https://joellaforkansas.com/issues/environment/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/joellaforkansas"
+},
+{
+"text": "Healthcare",
+"href": "https://joellaforkansas.com/issues/healthcare/"
+},
+{
+"text": "Jo Ella Hoye for Kansas",
+"href": "https://joellaforkansas.com"
+},
+{
+"text": "My Priorities",
+"href": "https://joellaforkansas.com/issues/"
+},
+{
+"text": "Newsletter",
+"href": "http://eepurl.com/gBmbNv"
+},
+{
+"text": "Privacy Policy",
+"href": "https://joellaforkansas.com/privacy-policy"
+},
+{
+"text": "Sensible Gun Laws That Save Lives",
+"href": "https://joellaforkansas.com/issues/sensible-gun-laws-that-save-lives/"
+},
+{
+"text": "Tax Relief for Kansans",
+"href": "https://joellaforkansas.com/issues/budget-and-economic-equity/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/joellahoye"
+},
+{
+"text": "Working for You",
+"href": "https://joellaforkansas.com/issues/criminal-justice-reform/"
+},
+{
+"text": "Zero Discrimination",
+"href": "https://joellaforkansas.com/issues/zero-discrimination/"
+}
 ]

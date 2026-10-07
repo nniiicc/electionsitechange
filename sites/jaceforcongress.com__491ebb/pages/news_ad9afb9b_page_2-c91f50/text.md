@@ -1,16 +1,1 @@
-January 27, 2026
-|
-Endorsement
-January 26, 2026
-|
-Endorsement
-January 23, 2026
-|
-Endorsement
-January 21, 2026
-|
-Endorsement
-January 20, 2026
-|
-Endorsement
-Help fight for President Trump's America First Agenda
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate News January 27, 2026 | Endorsement Texans for Strong Borders Announces Endorsement of Jace Yarbrough for Congress Read More January 26, 2026 | Endorsement Texas State Representative Brian Harrison Endorses Jace Yarbrough for Congress Read More January 23, 2026 | Endorsement Congressman Lance Gooden and Freedom Caucus Fund Endorse Jace Yarbrough for Congress Read More January 21, 2026 | Endorsement Texas Governor Greg Abbott Endorses Jace Yarbrough for Congress Read More January 20, 2026 | Endorsement Texas State Representative Daniel Alders Endorses Jace Yarbrough for Congress Read More Previous Next Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

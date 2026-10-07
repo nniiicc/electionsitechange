@@ -1,25 +1,7 @@
-$96.50–$116.58
-This medium‑weight full‑zip hoodie brings everyday comfort with a subtle, lived‑in look.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis Embroidered Campaign Logo Full-Zip Hooded Sweatshirt $96.50–$116.58 This medium‑weight full‑zip hoodie brings everyday comfort with a subtle, lived‑in look.
 The reactive‑dyed fabric holds color longer so the hoodie stays rich wash after wash.
 A jersey‑lined hood and matching flat drawcord add cozy layering details, while the split pouch pocket and ribbed cuffs with spandex keep warmth where you want it.
 The front features a small, chest‑level design for a low‑profile, wearable vibe that fits into casual routines — from weekend coffee runs to late‑night studio sessions.
 Thoughtfully finished with a tear‑away label for itch‑free wear and OEKO‑TEX compliance for safer textiles.
-Product features
-- Reactive-dyed fabric keeps colors vivid over time
-- 80% ringspun cotton / 20% polyester medium‑heavy (275 g/m²) for warmth and structure
-- Jersey-lined hood with matching flat drawcords and #5 nickel cadmium zipper
-- Split pouch pocket plus ribbed cuffs and waistband with 5% spandex for secure fit
-- Tear-away label, OEKO‑TEX standard met, and USMCA-certified sourcing
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
-Product features
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
+Product features - Reactive-dyed fabric keeps colors vivid over time - 80% ringspun cotton / 20% polyester medium‑heavy (275 g/m²) for warmth and structure - Jersey-lined hood with matching flat drawcords and #5 nickel cadmium zipper - Split pouch pocket plus ribbed cuffs and waistband with 5% spandex for secure fit - Tear-away label, OEKO‑TEX standard met, and USMCA-certified sourcing Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Tumble dry: low heat - Iron, steam or dry: low heat - Do not dryclean Option * XS / Heather Grey — $96.50 L / Heather Grey — $96.50 L / White — $96.50 M / Heather Grey — $96.50 M / White — $96.50 S / Heather Grey — $96.50 S / White — $96.50 XL / Heather Grey — $96.50 XL / White — $96.50 XS / White — $96.50 2XL / Heather Grey — $113.55 2XL / White — $113.55 3XL / Heather Grey — $116.58 3XL / White — $116.58 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

@@ -1,11 +1,46 @@
 [
-"http://tiktok.com/@wendymorganforpa",
-"https://facebook.com/share/g/1BKy3EguRg?mibextid=wwXlfr",
-"https://instagram.com/wendymorganforpa",
-"https://morganforpa.com/",
-"https://morganforpa.com/about",
-"https://morganforpa.com/contact-8",
-"https://morganforpa.com/donate-2",
-"https://morganforpa.com/the-issues",
-"https://morganforpa.com/voting-and-legislation"
+{
+"text": "About",
+"href": "https://www.morganforpa.com/about"
+},
+{
+"text": "About the Mom",
+"href": "https://www.morganforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.morganforpa.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://www.morganforpa.com/donate-2"
+},
+{
+"text": "HOME",
+"href": "https://www.morganforpa.com"
+},
+{
+"text": "The Issues",
+"href": "https://www.morganforpa.com/the-issues"
+},
+{
+"text": "Voting and Legislation",
+"href": "https://www.morganforpa.com/voting-and-legislation"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/g/1BKy3EguRg/?mibextid=wwXlfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wendymorganforpa"
+},
+{
+"text": "[image: TikTok ]",
+"href": "http://www.tiktok.com/@wendymorganforpa"
+},
+{
+"text": "mswendymorgan@gmail.com",
+"href": "mailto:mswendymorgan@gmail.com"
+}
 ]

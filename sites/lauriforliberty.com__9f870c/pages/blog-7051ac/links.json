@@ -1,38 +1,314 @@
 [
-"http://eepurl.com/jmvTI2",
-"https://donorbox.org/lauri-for-liberty",
-"https://facebook.com/LauriForLiberty",
-"https://instagram.com/lauri4liberty",
-"https://lauriforliberty.com/",
-"https://lauriforliberty.com/about",
-"https://lauriforliberty.com/blog",
-"https://lauriforliberty.com/blog/all-indiana-politics-interviews-lauri-shillings",
-"https://lauriforliberty.com/blog/holdem-accountable-podcast-interview-with-lauri-shillings",
-"https://lauriforliberty.com/blog/indiana-drew-a-line-and-it-wasnt-on-a-map",
-"https://lauriforliberty.com/blog/indiana-libertarian-secretary-of-state-candidate-campaigns-in-fort-wayne",
-"https://lauriforliberty.com/blog/indiana-libertarians-nominate-lauri-shillings-for-secretary-of-state",
-"https://lauriforliberty.com/blog/indy-politics-lauri-shillings-pitches-transparency-tech-upgrades-in-hotly-watched-secretary-of-state-race",
-"https://lauriforliberty.com/blog/interview-with-abdul-hakim-shabazz",
-"https://lauriforliberty.com/blog/interview-with-liberty-dad",
-"https://lauriforliberty.com/blog/interview-with-rob-kendall",
-"https://lauriforliberty.com/blog/interview-with-steve-guinn-on-whbu",
-"https://lauriforliberty.com/blog/its-time-indianas-secretary-of-state-served-the-people",
-"https://lauriforliberty.com/blog/libertarian-candidate-for-indiana-secretary-of-state-lauri-shillings-talks-election-bid",
-"https://lauriforliberty.com/blog/libertarians-pick-indiana-secretary-of-state-candidate",
-"https://lauriforliberty.com/blog/low-voter-turnout-is-a-policy-failure",
-"https://lauriforliberty.com/blog/response-to-the-indiana-secretary-of-state-partnering-with-turning-point-usa",
-"https://lauriforliberty.com/blog/shillings-visits-hancock-county",
-"https://lauriforliberty.com/blog/the-secretary-of-states-office-is-about-service-not-politics",
-"https://lauriforliberty.com/blog/voting-access-for-hoosiers-with-disabilities",
-"https://lauriforliberty.com/blog/wibc-tony-katz-indianas-secretary-of-state-race-is-a-four-way-mess",
-"https://lauriforliberty.com/blog/wlfi-meet-lauri-shillings",
-"https://lauriforliberty.com/blog?offset=1764260216667",
-"https://lauriforliberty.com/cart",
-"https://lauriforliberty.com/events",
-"https://lauriforliberty.com/issues",
-"https://lauriforliberty.com/media-kit",
-"https://lauriforliberty.com/volunteer",
-"https://lauriforliberty.com/vote-indiana",
-"https://x.com/LauriforLiberty",
-"https://youtube.com/@LauriforLiberty"
+{
+"text": "0",
+"href": "https://www.lauriforliberty.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lauriforliberty.com/about"
+},
+{
+"text": "All Indiana Politics interviews Lauri Shillings",
+"href": "https://www.lauriforliberty.com/blog/all-indiana-politics-interviews-lauri-shillings"
+},
+{
+"text": "Contact",
+"href": "https://www.lauriforliberty.com/volunteer"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Donate",
+"href": "https://donorbox.org/lauri-for-liberty"
+},
+{
+"text": "Events",
+"href": "https://www.lauriforliberty.com/events"
+},
+{
+"text": "Hold’em Accountable Podcast interview with Lauri Shillings",
+"href": "https://www.lauriforliberty.com/blog/holdem-accountable-podcast-interview-with-lauri-shillings"
+},
+{
+"text": "Home",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "Indiana Drew a Line, and It Wasn’t on a Map.",
+"href": "https://www.lauriforliberty.com/blog/indiana-drew-a-line-and-it-wasnt-on-a-map"
+},
+{
+"text": "Indiana Libertarians nominate Lauri Shillings for secretary of state",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarians-nominate-lauri-shillings-for-secretary-of-state"
+},
+{
+"text": "Indy Politics: Lauri Shillings pitches transparency, tech upgrades in hotly watched Secretary of State race",
+"href": "https://www.lauriforliberty.com/blog/indy-politics-lauri-shillings-pitches-transparency-tech-upgrades-in-hotly-watched-secretary-of-state-race"
+},
+{
+"text": "Interview with Abdul-Hakim Shabazz",
+"href": "https://www.lauriforliberty.com/blog/interview-with-abdul-hakim-shabazz"
+},
+{
+"text": "Interview with Liberty Dad",
+"href": "https://www.lauriforliberty.com/blog/interview-with-liberty-dad"
+},
+{
+"text": "Interview with Rob Kendall",
+"href": "https://www.lauriforliberty.com/blog/interview-with-rob-kendall"
+},
+{
+"text": "Interview with Steve Guinn on WHBU",
+"href": "https://www.lauriforliberty.com/blog/interview-with-steve-guinn-on-whbu"
+},
+{
+"text": "Issues",
+"href": "https://www.lauriforliberty.com/issues"
+},
+{
+"text": "It’s Time Indiana’s Secretary of State Served the People",
+"href": "https://www.lauriforliberty.com/blog/its-time-indianas-secretary-of-state-served-the-people"
+},
+{
+"text": "Libertarian candidate for Indiana Secretary of State Lauri Shillings talks election bid",
+"href": "https://www.lauriforliberty.com/blog/libertarian-candidate-for-indiana-secretary-of-state-lauri-shillings-talks-election-bid"
+},
+{
+"text": "Libertarians pick Indiana secretary of state candidate.",
+"href": "https://www.lauriforliberty.com/blog/libertarians-pick-indiana-secretary-of-state-candidate"
+},
+{
+"text": "Low Voter Turnout Is a Policy Failure",
+"href": "https://www.lauriforliberty.com/blog/low-voter-turnout-is-a-policy-failure"
+},
+{
+"text": "Media & Press Inquiry",
+"href": "https://www.lauriforliberty.com/media-kit"
+},
+{
+"text": "News",
+"href": "https://www.lauriforliberty.com/blog"
+},
+{
+"text": "Older Posts",
+"href": "https://www.lauriforliberty.com/blog?offset=1764260216667"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/all-indiana-politics-interviews-lauri-shillings"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/holdem-accountable-podcast-interview-with-lauri-shillings"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/indiana-drew-a-line-and-it-wasnt-on-a-map"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarian-secretary-of-state-candidate-campaigns-in-fort-wayne"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarians-nominate-lauri-shillings-for-secretary-of-state"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/indy-politics-lauri-shillings-pitches-transparency-tech-upgrades-in-hotly-watched-secretary-of-state-race"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/interview-with-abdul-hakim-shabazz"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/interview-with-liberty-dad"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/interview-with-rob-kendall"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/interview-with-steve-guinn-on-whbu"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/its-time-indianas-secretary-of-state-served-the-people"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/libertarian-candidate-for-indiana-secretary-of-state-lauri-shillings-talks-election-bid"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/libertarians-pick-indiana-secretary-of-state-candidate"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/low-voter-turnout-is-a-policy-failure"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/response-to-the-indiana-secretary-of-state-partnering-with-turning-point-usa"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/shillings-visits-hancock-county"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/the-secretary-of-states-office-is-about-service-not-politics"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/voting-access-for-hoosiers-with-disabilities"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/wibc-tony-katz-indianas-secretary-of-state-race-is-a-four-way-mess"
+},
+{
+"text": "Read More",
+"href": "https://www.lauriforliberty.com/blog/wlfi-meet-lauri-shillings"
+},
+{
+"text": "Response to the Indiana Secretary of State partnering with Turning Point USA",
+"href": "https://www.lauriforliberty.com/blog/response-to-the-indiana-secretary-of-state-partnering-with-turning-point-usa"
+},
+{
+"text": "Shillings Visits Hancock County",
+"href": "https://www.lauriforliberty.com/blog/shillings-visits-hancock-county"
+},
+{
+"text": "Sign up for our newsletter",
+"href": "http://eepurl.com/jmvTI2"
+},
+{
+"text": "The Secretary of State’s Office is about Service, not Politics",
+"href": "https://www.lauriforliberty.com/blog/the-secretary-of-states-office-is-about-service-not-politics"
+},
+{
+"text": "Voting",
+"href": "https://www.lauriforliberty.com/vote-indiana"
+},
+{
+"text": "Voting Access for Hoosiers with Disabilities",
+"href": "https://www.lauriforliberty.com/blog/voting-access-for-hoosiers-with-disabilities"
+},
+{
+"text": "WIBC: Tony Katz: Indiana’s Secretary Of State Race Is A Four-Way Mess",
+"href": "https://www.lauriforliberty.com/blog/wibc-tony-katz-indianas-secretary-of-state-race-is-a-four-way-mess"
+},
+{
+"text": "WLFI: Meet Lauri Shillings",
+"href": "https://www.lauriforliberty.com/blog/wlfi-meet-lauri-shillings"
+},
+{
+"text": "WPTA: Indiana Libertarian secretary of state candidate campaigns in Fort Wayne",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarian-secretary-of-state-candidate-campaigns-in-fort-wayne"
+},
+{
+"text": "[image: All Indiana Politics interviews Lauri Shillings]",
+"href": "https://www.lauriforliberty.com/blog/all-indiana-politics-interviews-lauri-shillings"
+},
+{
+"text": "[image: Hold’em Accountable Podcast interview with Lauri Shillings]",
+"href": "https://www.lauriforliberty.com/blog/holdem-accountable-podcast-interview-with-lauri-shillings"
+},
+{
+"text": "[image: Indiana Drew a Line, and It Wasn’t on a Map.]",
+"href": "https://www.lauriforliberty.com/blog/indiana-drew-a-line-and-it-wasnt-on-a-map"
+},
+{
+"text": "[image: Indiana Libertarians nominate Lauri Shillings for secretary of state]",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarians-nominate-lauri-shillings-for-secretary-of-state"
+},
+{
+"text": "[image: Indy Politics: Lauri Shillings pitches transparency, tech upgrades in hotly watched Secretary of State race]",
+"href": "https://www.lauriforliberty.com/blog/indy-politics-lauri-shillings-pitches-transparency-tech-upgrades-in-hotly-watched-secretary-of-state-race"
+},
+{
+"text": "[image: Interview with Abdul-Hakim Shabazz]",
+"href": "https://www.lauriforliberty.com/blog/interview-with-abdul-hakim-shabazz"
+},
+{
+"text": "[image: Interview with Liberty Dad]",
+"href": "https://www.lauriforliberty.com/blog/interview-with-liberty-dad"
+},
+{
+"text": "[image: Interview with Rob Kendall]",
+"href": "https://www.lauriforliberty.com/blog/interview-with-rob-kendall"
+},
+{
+"text": "[image: Interview with Steve Guinn on WHBU]",
+"href": "https://www.lauriforliberty.com/blog/interview-with-steve-guinn-on-whbu"
+},
+{
+"text": "[image: It’s Time Indiana’s Secretary of State Served the People]",
+"href": "https://www.lauriforliberty.com/blog/its-time-indianas-secretary-of-state-served-the-people"
+},
+{
+"text": "[image: Lauri Shillings for Indiana Secretary of State ]",
+"href": "https://www.lauriforliberty.com/"
+},
+{
+"text": "[image: Libertarian candidate for Indiana Secretary of State Lauri Shillings talks election bid]",
+"href": "https://www.lauriforliberty.com/blog/libertarian-candidate-for-indiana-secretary-of-state-lauri-shillings-talks-election-bid"
+},
+{
+"text": "[image: Libertarians pick Indiana secretary of state candidate.]",
+"href": "https://www.lauriforliberty.com/blog/libertarians-pick-indiana-secretary-of-state-candidate"
+},
+{
+"text": "[image: Low Voter Turnout Is a Policy Failure]",
+"href": "https://www.lauriforliberty.com/blog/low-voter-turnout-is-a-policy-failure"
+},
+{
+"text": "[image: Response to the Indiana Secretary of State partnering with Turning Point USA]",
+"href": "https://www.lauriforliberty.com/blog/response-to-the-indiana-secretary-of-state-partnering-with-turning-point-usa"
+},
+{
+"text": "[image: Shillings Visits Hancock County]",
+"href": "https://www.lauriforliberty.com/blog/shillings-visits-hancock-county"
+},
+{
+"text": "[image: The Secretary of State’s Office is about Service, not Politics]",
+"href": "https://www.lauriforliberty.com/blog/the-secretary-of-states-office-is-about-service-not-politics"
+},
+{
+"text": "[image: Voting Access for Hoosiers with Disabilities]",
+"href": "https://www.lauriforliberty.com/blog/voting-access-for-hoosiers-with-disabilities"
+},
+{
+"text": "[image: WIBC: Tony Katz: Indiana’s Secretary Of State Race Is A Four-Way Mess]",
+"href": "https://www.lauriforliberty.com/blog/wibc-tony-katz-indianas-secretary-of-state-race-is-a-four-way-mess"
+},
+{
+"text": "[image: WLFI: Meet Lauri Shillings]",
+"href": "https://www.lauriforliberty.com/blog/wlfi-meet-lauri-shillings"
+},
+{
+"text": "[image: WPTA: Indiana Libertarian secretary of state candidate campaigns in Fort Wayne]",
+"href": "https://www.lauriforliberty.com/blog/indiana-libertarian-secretary-of-state-candidate-campaigns-in-fort-wayne"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/LauriForLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lauri4liberty"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@LauriforLiberty"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/LauriforLiberty"
+}
 ]

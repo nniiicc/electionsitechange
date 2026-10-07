@@ -1,14 +1,9 @@
-Farmer Jamie Ager Officially Files for Congress in North Carolina’s 11th Congressional District
-December 1, 2025
-Share this post:
-Raleigh, NC — Today, fourth-generation farmer and Western North Carolina native Jamie Ager officially filed to run against Congressman Chuck Edwards in the 11th Congressional District.
+Skip to content Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Menu Farmer Jamie Ager Officially Files for Congress in North Carolina’s 11th Congressional District December 1, 2025 Share this post: Share on Facebook Share on Bluesky Share on X (Twitter) Share on Email Copy to Clipboard Raleigh, NC — Today, fourth-generation farmer and Western North Carolina native Jamie Ager officially filed to run against Congressman Chuck Edwards in the 11th Congressional District.
 Ager launched his campaign on July 31st, and has focused on tackling increasing costs, fighting damaging cuts to healthcare coverage, and getting Western North Carolina the funds it needs to recover from Hurricane Helene.
 “I’ve been humbled by the incredible support we’ve received from every county here in the mountains since announcing earlier this year,” said Ager.
 “Chuck Edwards has failed to lead Western North Carolina during the most challenging period in our recent history.
-From failing to deliver Helene recovery, to selling out our farmers, to cutting crucial benefits folks here rely on — it’s clear Chuck Edwards isn’t cut out to represent us in Congress.”
-Ager outraised the Republican incumbent, Edwards, by more than a three-to-one margin in the third quarter and led in cash on hand in what is considered to be one of, if not the most competitive Congressional race in North Carolina.
-About Jamie Ager
-Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
+From failing to deliver Helene recovery, to selling out our farmers, to cutting crucial benefits folks here rely on — it’s clear Chuck Edwards isn’t cut out to represent us in Congress.” Ager outraised the Republican incumbent, Edwards, by more than a three-to-one margin in the third quarter and led in cash on hand in what is considered to be one of, if not the most competitive Congressional race in North Carolina.
+About Jamie Ager Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
 Born in Fairview and raised on his family’s Hickory Nut Gap Farm, Jamie has spent his life growing food, building community, and working with people.
 From a young age, Jamie was taught the values of public service, hard work, and neighborliness.
 Jamie graduated from A.C.
@@ -23,4 +18,4 @@ As the proud father of three sons, Jamie cares deeply about our future.
 He’s concerned about big challenges like recovering from Hurricane Helene, affordability for working families, and preserving our environment and culture.
 He’s also outspoken about the need to support local businesses and putting Western North Carolina first.
 He’s never been afraid to stand up for what’s right, even if it means speaking out against his own party or taking on extremists.
-###
+### Return to all press Paid for by Ager for Congress Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. team@agerforcongress.com PO Box 64 Fairview, NC 28730 Copyright © #–# Ager for Congress | Privacy Policy | Media

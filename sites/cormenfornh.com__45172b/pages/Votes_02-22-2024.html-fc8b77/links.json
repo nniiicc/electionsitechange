@@ -1,11 +1,38 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/02-15-2024.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://gencourt.state.nh.us/bill_Status/pdf.aspx?id=26039&q=billVersion",
-"https://youtube.com/watch?v=okndfxKHvXM&t=26729s"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "February 15",
+"href": "https://cormenfornh.com/Votes/02-15-2024.html#HB154"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "a terrific floor speech",
+"href": "https://www.youtube.com/watch?v=okndfxKHvXM&t=26729s"
+},
+{
+"text": "here",
+"href": "https://www.gencourt.state.nh.us/bill_Status/pdf.aspx?id=26039&q=billVersion"
+}
 ]

@@ -1,4 +1,5 @@
-That sonogram is of our youngest, Michael.
+Home MEET JOSH Join the Team!
+Endorsements DONATE Vote No on Amendment 3 VOTE NO ON AMENDMENT 3 That sonogram is of our youngest, Michael.
 He had the hiccups and was moving around - all the fun things babies do!
 However, at 19 weeks along, it still would have been legal to end his life in 29 states.
 Amendment 3 would add Missouri to that list.
@@ -11,10 +12,7 @@ Your daughter could go in with her 30-year-old abuser and receive an abortion an
 The bedrock of our nation is the Right to Life.
 How can we dehumanize society even further by not recognizing that sonogram above as life that must be protected?
 Amendment 3 does not reflect Missouri values.
-For all these reasons, I urge you to protect mothers and unborn lives and VOTE NO on Amendment 3.
-~Josh
-Copyright © 2024 Hurlbert for Missouri.
+For all these reasons, I urge you to protect mothers and unborn lives and VOTE NO on Amendment 3. ~Josh Copyright © # Hurlbert for Missouri.
 All Rights Reserved.
-PAID FOR BY HURLBERT FOR MISSOURI,
-ASHLEY HURLBERT, TREASURER.
+PAID FOR BY HURLBERT FOR MISSOURI, ASHLEY HURLBERT, TREASURER.
 Powered by GoDaddy Website Builder

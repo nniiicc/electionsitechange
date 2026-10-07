@@ -1,5 +1,4 @@
-My story
-Like you, I paid attention to state and national politics because I understand how policy affects our daily lives.
+0 Skip to Content Home My Story The Issues Endorsements Donate Contact Join the Fight Open Menu Close Menu Open Menu Close Menu Home My Story The Issues Endorsements Donate Contact Join the Fight Home My Story The Issues Endorsements Donate Contact Join the Fight My story Like you, I paid attention to state and national politics because I understand how policy affects our daily lives.
 My husband and I have built careers outside the traditional nine-to-five world, which means we don’t have employer-sponsored health insurance or retirement benefits.
 We know what it means to make sacrifices and plan for the future without the security that many people take for granted.
 At the same time, my parents are getting older, and my daughter is three years old.
@@ -18,4 +17,9 @@ That's why my vote isn’t for sale.
 My voice isn’t for sale.
 And I won’t be bought by corporations, lobbyists, or wealthy special interests.
 I’m running to represent the people of House District 120.
-When I get to the State Capitol, those are the people I will answer to.
+When I get to the State Capitol, those are the people I will answer to. while I can’t change what’s happening in Washington, I can help protect Georgia by working to flip the state legislature blue.
+Join me in my fight→ Suzanna for state house 120 P.O.
+Box 48002 Athens, GA 30604 706-540-6664 info.karatassosdistrict120@gmail.com Donate Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!

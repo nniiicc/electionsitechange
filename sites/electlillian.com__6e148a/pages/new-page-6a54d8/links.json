@@ -1,25 +1,98 @@
 [
-"https://app.leg.wa.gov/BillSummary?BillNumber=1128&Year=2026",
-"https://app.leg.wa.gov/BillSummary?BillNumber=2464&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=2475&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/BillSummary?BillNumber=5847&Chamber=Senate&Year=2025",
-"https://app.leg.wa.gov/BillSummary?BillNumber=5855&Year=2026",
-"https://app.leg.wa.gov/billsummary?BillNumber=1556&Initiative=False&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=1651&Initiative=false&Year=2025",
-"https://app.leg.wa.gov/billsummary?BillNumber=2105&Year=2025&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=2218&Year=2025&Initiative=False",
-"https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2025&Initiative=false",
-"https://electlillian.com/",
-"https://electlillian.com/about",
-"https://electlillian.com/cart",
-"https://electlillian.com/contact",
-"https://electlillian.com/donate",
-"https://electlillian.com/endorsements",
-"https://electlillian.com/get-involved",
-"https://electlillian.com/new-page",
-"https://electlillian.com/priorities",
-"https://facebook.com/ElectLillian",
-"https://instagram.com/friendsoflillianortizself",
-"https://linkedin.com/in/ortiz-self-lillian-b1b65a35",
-"https://mobile.twitter.com/reportizself"
+{
+"text": "0",
+"href": "https://www.electlillian.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electlillian.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.electlillian.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electlillian.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electlillian.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electlillian.com/get-involved"
+},
+{
+"text": "HB 1128",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=1128&Year=2026"
+},
+{
+"text": "HB 1556",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1556&Initiative=False&Year=2025"
+},
+{
+"text": "HB 1651",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=1651&Initiative=false&Year=2025"
+},
+{
+"text": "HB 2105",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=2105&Year=2025&Initiative=false"
+},
+{
+"text": "HB 2218",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2218&Year=2025&Initiative=False"
+},
+{
+"text": "HB 2464",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=2464&Year=2025&Initiative=false"
+},
+{
+"text": "HB 2475",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=2475&Year=2025&Initiative=false"
+},
+{
+"text": "Home",
+"href": "https://www.electlillian.com/"
+},
+{
+"text": "Priorities",
+"href": "https://www.electlillian.com/priorities"
+},
+{
+"text": "Record",
+"href": "https://www.electlillian.com/new-page"
+},
+{
+"text": "SB 5847",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=5847&Chamber=Senate&Year=2025"
+},
+{
+"text": "SB 5855",
+"href": "https://app.leg.wa.gov/BillSummary/?BillNumber=5855&Year=2026"
+},
+{
+"text": "The Millionaires Tax",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=6346&Year=2025&Initiative=false"
+},
+{
+"text": "[image: Re-Elect Rep. Lillian Ortiz-Self for State Representative]",
+"href": "https://www.electlillian.com/"
+},
+{
+"text": "[no text]",
+"href": "https://mobile.twitter.com/reportizself"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ElectLillian/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/friendsoflillianortizself/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/ortiz-self-lillian-b1b65a35/"
+}
 ]

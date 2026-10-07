@@ -1,15 +1,70 @@
 [
-"http://facebook.com/profile.php?id=100080430794414",
-"http://google.com/calendar/event?action=TEMPLATE&text=Summer+Soiree&dates=20260611T210000Z%2F20260611T230000Z",
-"https://electsarahpounds.com/",
-"https://electsarahpounds.com/campaign-trail",
-"https://electsarahpounds.com/campaign-trail/canvass-kickoff",
-"https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8?format=ical",
-"https://electsarahpounds.com/cart",
-"https://electsarahpounds.com/contact",
-"https://electsarahpounds.com/endorsements",
-"https://electsarahpounds.com/home",
-"https://electsarahpounds.com/in-the-news",
-"https://electsarahpounds.com/priorities",
-"https://secure.actblue.com/donate/sarah-pounds-1"
+{
+"text": "0",
+"href": "https://electsarahpounds.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://electsarahpounds.com/campaign-trail"
+},
+{
+"text": "Contact",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/sarah-pounds-1"
+},
+{
+"text": "Endorsements",
+"href": "https://electsarahpounds.com/endorsements"
+},
+{
+"text": "Get in Touch",
+"href": "https://electsarahpounds.com/contact"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Summer+Soiree&dates=20260611T210000Z%2F20260611T230000Z"
+},
+{
+"text": "ICS",
+"href": "https://electsarahpounds.com/campaign-trail/tc3c5rj4um51k7czrvezfrsz0b2ns8?format=ical"
+},
+{
+"text": "In the News",
+"href": "https://electsarahpounds.com/in-the-news"
+},
+{
+"text": "Meet Sarah",
+"href": "https://electsarahpounds.com/home#home-about"
+},
+{
+"text": "On the Campaign Trail",
+"href": "https://electsarahpounds.com/campaign-trail"
+},
+{
+"text": "Previous Previous May 17 Canvass Kickoff!",
+"href": "https://electsarahpounds.com/campaign-trail/canvass-kickoff"
+},
+{
+"text": "Priorities",
+"href": "https://electsarahpounds.com/priorities"
+},
+{
+"text": "Volunteer Here",
+"href": "mailto:Campaign@ElectSarahPounds.com?subject=I%27d+like+to+help+volunteer%21"
+},
+{
+"text": "[image: Elect Sarah Pounds]",
+"href": "https://electsarahpounds.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/profile.php?id=100080430794414"
+}
 ]

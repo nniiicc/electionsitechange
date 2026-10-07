@@ -1,19 +1,102 @@
 [
-"https://data.census.gov/",
-"https://electionresults.sd.gov/",
-"https://facebook.com/profile.php?id=61572128818159",
-"https://sdlegislature.gov/Statutes/36-1C",
-"https://sdsos.gov/elections-voting",
-"https://youtube.com/@ZacharyMartinPolitics",
-"https://zac4sd.com/",
-"https://zac4sd.com/about",
-"https://zac4sd.com/afford",
-"https://zac4sd.com/blog",
-"https://zac4sd.com/get-involved",
-"https://zac4sd.com/platform",
-"https://zac4sd.com/platform/family-court-reform",
-"https://zac4sd.com/press-kit",
-"https://zac4sd.com/privacy",
-"https://zac4sd.com/terms",
-"https://zacharymartin.substack.com/"
+{
+"text": "About",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "About Zac",
+"href": "https://zac4sd.com/about"
+},
+{
+"text": "Afford to Live Here",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "Affordability",
+"href": "https://zac4sd.com/afford"
+},
+{
+"text": "Blog",
+"href": "https://zac4sd.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://zac4sd.com/get-involved#donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61572128818159"
+},
+{
+"text": "Family Court Reform",
+"href": "https://zac4sd.com/platform/family-court-reform"
+},
+{
+"text": "Get Involved",
+"href": "https://zac4sd.com/get-involved"
+},
+{
+"text": "Host an Event",
+"href": "https://zac4sd.com/get-involved#host"
+},
+{
+"text": "Join the team",
+"href": "https://zac4sd.com/get-involved#volunteer"
+},
+{
+"text": "Platform",
+"href": "https://zac4sd.com/platform"
+},
+{
+"text": "Press Kit",
+"href": "https://zac4sd.com/press-kit"
+},
+{
+"text": "Privacy",
+"href": "https://zac4sd.com/privacy"
+},
+{
+"text": "SD Secretary of State",
+"href": "https://sdsos.gov/elections-voting/"
+},
+{
+"text": "SD Secretary of State official canvass",
+"href": "https://electionresults.sd.gov/"
+},
+{
+"text": "South Dakota Codified Law",
+"href": "https://sdlegislature.gov/Statutes/36-1C"
+},
+{
+"text": "Substack",
+"href": "https://zacharymartin.substack.com"
+},
+{
+"text": "Terms",
+"href": "https://zac4sd.com/terms"
+},
+{
+"text": "US Census Bureau, American Community Survey, table B25003",
+"href": "https://data.census.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://zac4sd.com/get-involved#volunteer"
+},
+{
+"text": "Yard Sign",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "Yard Signs",
+"href": "https://zac4sd.com/get-involved#signs"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ZacharyMartinPolitics"
+},
+{
+"text": "Zac.MartinSD House 32",
+"href": "https://zac4sd.com/"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Madison+Rigby+Fundraiser&dates=20220928T210000Z%2F20220928T230000Z&location=119+East+Main+Street%2C+Madison%2C+WI%2C+53703%2C+United+States",
-"http://maps.google.com/?q=119+East+Main+Street+Madison%2C+WI%2C+53703+United+States",
-"http://secure.actblue.com/donate/clintattherigby",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp",
-"https://clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly",
-"https://clintonforassembly.com/events/madison-rigby-fundraiser?format=ical",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=119+east+main+street+madison%2C+wi%2C+53703+united+states"
+},
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Madison+Rigby+Fundraiser&dates=20220928T210000Z%2F20220928T230000Z&location=119+East+Main+Street%2C+Madison%2C+WI%2C+53703%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/madison-rigby-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next October 2 Join Rep Mark Spreitzer and Congressman Mark Pocan for an event supporting Clinton Anderson for Assembly",
+"href": "https://www.clintonforassembly.com/events/join-rep-mark-spreitzer-and-congressman-mark-pocan-for-an-event-supporting-clinton-anderson-for-assembly"
+},
+{
+"text": "Previous Previous September 25 Come Knock on Doors in Beloit",
+"href": "https://www.clintonforassembly.com/events/come-knock-on-doors-in-beloit-39aa5-9scs9-yh8wb-geshn-5ynjp"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+},
+{
+"text": "secure.actblue.com/donate/clintattherigby",
+"href": "http://secure.actblue.com/donate/clintattherigby"
+}
 ]

@@ -1,17 +1,14 @@
-Free Electricity, Lower Property Taxes & Protecting Our Environment
-Companies that want to invest in Ohio should invest in Ohioans first.
+Skip to main content Skip to footer Opens in a new tab Home Meet Vivek Meet Rob The Plan In The News Endorsements Press Releases Latest News Action Center Get Involved Events Team Store War Room Donate Donate Using Crypto Donate Press Release Vivek’s Ohioans-First Data Center Pledge August 6, 2026 Free Electricity, Lower Property Taxes & Protecting Our Environment Companies that want to invest in Ohio should invest in Ohioans first.
 Vivek has laid out a real plan to ensure data center projects improve the lives of the people who live nearby, not just generate profits for large corporations.
-Three Non-Negotiable Requirements
-- Eliminate electricity bills.
+Three Non-Negotiable Requirements Eliminate electricity bills.
 Data centers must ensure nearby Ohio families receive free electricity by providing power or compensation.
-- Cut property taxes.
+Cut property taxes.
 Future data centers must pay their full property taxes, with those revenues used to provide property tax relief for Ohio homeowners.
-- Protect Ohio’s environment and farmland.
+Protect Ohio’s environment and farmland.
 Data centers must comply with strict air and water quality standards, minimize and recycle water use, and prioritize brownfield and industrial sites so we protect Ohio’s fertile farmland.
 If a project fails to meet any one of these three requirements, it will not be built.
 Period.
-A Message from Vivek
-A top concern I hear from Ohioans across our state – second only to property taxes – is the accelerating pace of data center expansion.
+A Message from Vivek A top concern I hear from Ohioans across our state – second only to property taxes – is the accelerating pace of data center expansion.
 Key citizen concerns about data centers include rising electric bills, noise, pollution, and the absence of clearly defined economic benefits for Ohio families.
 The data center industry has badly failed to earn the trust of millions of everyday Ohioans who are struggling with electric bills and property taxes, wondering why large corporations receive property tax abatements while ordinary homeowners don’t receive the same.
 There are hundreds of data centers already across our state, and the pace of construction is accelerating.
@@ -58,3 +55,17 @@ In sum, my administration will eliminate electricity costs and reduce property t
 No data center will be built in Ohio without actualizing these commitments.
 I look forward to signing legislation in early 2027 to turn this vision into reality.
 The op-ed above ran in The Columbus Dispatch on Thursday, August 6.
+Home Meet Vivek Meet Rob The Plan Endorsements Press Releases Latest News Get Involved Events War Room Team Store Media Kit Donate Donate Using Crypto Contact Us By providing your phone number, you are consenting to receive calls and recurring SMS/MMS messages, including auto dialed and automated calls and texts, to that number from Vivek Ramaswamy and Rob McColley for Ohio.
+Reply HELP for help, STOP to end.
+Msg & data rates may apply.
+Terms and conditions/ privacy policy apply.
+Contributions to Vivek Ramaswamy and Rob McColley for Ohio are not deductible for federal income tax purposes.
+Corporate contributions are prohibited.
+Partnerships, LLCs, and other unincorporated entities may contribute, but must include the name of one or more owners to whom to attribute the contribution and in what proportion.
+Ohio law requires that all contributors must provide their name and address regardless of the amount of the contribution.
+We also collect contributors’ employer and occupation information to report as required.
+State employees are prohibited from donating and should disregard any contribution request.
+All donations are final unless prohibited by relevant law.
+By contributing, you are affirming that you are a United States citizen, that the funds are in your name, and are not provided by any other person or entity.
+Press Inquiries Privacy Policy Terms & Conditions 471 E Broad St Ste 1510 Columbus, OH 43215 Paid for by Vivek Ramaswamy and Rob McColley for Ohio How would you like to donate?
+Crypto Credit Card

@@ -1,12 +1,54 @@
 [
-"https://facebook.com/karenumbergerfornhrep",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkarenumberger.com%2F&t=HOME",
-"https://karenumberger.com/",
-"https://karenumberger.com/about",
-"https://karenumberger.com/about/endorsements",
-"https://karenumberger.com/donate",
-"https://karenumberger.com/issues",
-"https://karenumberger.com/links",
-"https://karenumberger.com/news",
-"https://x.com/intent/tweet?text=HOME&url=https%3A%2F%2Fkarenumberger.com%2F"
+{
+"text": "ABOUT",
+"href": "https://karenumberger.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://karenumberger.com/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://karenumberger.com/about/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/karenumbergerfornhrep/"
+},
+{
+"text": "HOME",
+"href": "https://karenumberger.com/"
+},
+{
+"text": "ISSUES",
+"href": "https://karenumberger.com/issues/"
+},
+{
+"text": "LINKS",
+"href": "https://karenumberger.com/links/"
+},
+{
+"text": "NEWS",
+"href": "https://karenumberger.com/news/"
+},
+{
+"text": "[image: Karen Umberger for State Representative]",
+"href": "https://karenumberger.com/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=HOME&body=https%3A%2F%2Fkarenumberger.com%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkarenumberger.com%2F&t=HOME"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=HOME&url=https%3A%2F%2Fkarenumberger.com%2F"
+},
+{
+"text": "karen@karenumberger.com",
+"href": "mailto:karen@karenumberger.com"
+}
 ]

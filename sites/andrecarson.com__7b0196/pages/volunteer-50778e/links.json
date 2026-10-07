@@ -1,11 +1,42 @@
 [
-"http://amg-designs.com/",
-"https://andrecarson.com/",
-"https://andrecarson.com/on-the-issues",
-"https://andrecarson.com/volunteer",
-"https://facebook.com/CarsonforCongress",
-"https://indianavoters.in.gov/PublicSite/PublicMain.aspx",
-"https://instagram.com/andre4congress",
-"https://secure.ngpvan.com/x0dAra8PqE69j7N9DaHywA2",
-"https://twitter.com/andre4congress"
+{
+"text": "AMG Designs",
+"href": "http://www.amg-designs.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/x0dAra8PqE69j7N9DaHywA2"
+},
+{
+"text": "On The Issues",
+"href": "https://andrecarson.com/on-the-issues/"
+},
+{
+"text": "Register to Vote",
+"href": "https://indianavoters.in.gov/PublicSite/PublicMain.aspx"
+},
+{
+"text": "Volunteer",
+"href": "https://andrecarson.com/volunteer/"
+},
+{
+"text": "[image: Andre Carson for Congress]",
+"href": "https://andrecarson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/andre4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarsonforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andre4congress/"
+},
+{
+"text": "campaign@andrecarson.com",
+"href": "mailto:campaign@andrecarson.com"
+}
 ]

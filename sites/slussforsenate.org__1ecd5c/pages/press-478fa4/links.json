@@ -1,13 +1,66 @@
 [
-"https://facebook.com/jared.sluss",
-"https://instagram.com/jaredsluss",
-"https://secure.actblue.com/donate/slussforsenate",
-"https://slussforsenate.org/",
-"https://slussforsenate.org/images/Logo.svg",
-"https://slussforsenate.org/press",
-"https://slussforsenate.org/privacy",
-"https://slussforsenate.org/terms",
-"https://slussforsenate.org/yard-sign",
-"https://threads.com/@jaredsluss",
-"https://tiktok.com/@jaredsluss"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/slussforsenate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.slussforsenate.org/#get-involved"
+},
+{
+"text": "ISSUES",
+"href": "https://www.slussforsenate.org/#issues"
+},
+{
+"text": "MEET JARED",
+"href": "https://www.slussforsenate.org/#meet-jared"
+},
+{
+"text": "Press",
+"href": "https://www.slussforsenate.org/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.slussforsenate.org/privacy"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.slussforsenate.org/yard-sign"
+},
+{
+"text": "SHARE YOUR STORY",
+"href": "https://www.slussforsenate.org/#share-your-story"
+},
+{
+"text": "Terms & SMS Program",
+"href": "https://www.slussforsenate.org/terms"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.slussforsenate.org/#volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jared.sluss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jaredsluss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jaredsluss"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@jaredsluss"
+},
+{
+"text": "← Back to campaign",
+"href": "https://www.slussforsenate.org/"
+},
+{
+"text": "↓ Get",
+"href": "https://www.slussforsenate.org/images/Logo.svg"
+}
 ]

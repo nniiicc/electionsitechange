@@ -1,4 +1,4 @@
-Contact Us or Get Involved!
+Skip navigation menu Home About Contact | Volunteer Priorities Endorsements Donate Home About Contact | Volunteer Priorities Endorsements Donate Contact Us or Get Involved!
 For the past eight years, I have worked to build strong relationships, bring people together, and help address the challenges facing our community.
 Advocacy has been a lifelong commitment for me, and I believe everyone deserves a voice and a champion in government, no matter where they come from, how they worship, or who they support at the ballot box.
 I was boots on the ground years before I first ran for office and volunteered my time as a Troy City Council member and Mayor Pro Tem.
@@ -13,4 +13,9 @@ My campaign is grassroots—powered by conversations at the doorstep, community 
 The overwhelming majority of my donors are people from our community and grassroots organizations who believe in our shared future.
 I invite you to join our campaign.
 I especially encourage young people to get involved and make their voices heard.
-For students seeking volunteer hours, I would be honored to earn your support, and I am happy to provide a letter of recommendation! - Theresa
+For students seeking volunteer hours, I would be honored to earn your support, and I am happy to provide a letter of recommendation! - Theresa First Name First Name Last Name Last Name Email Email Phone Phone Address Line 1 Address Line 1 Address Line 2 Address Line 2 City City ZIP Code ZIP Code Please check one or more of the following: Canvass (Knock Doors) Lawn Signs House Party Other Comments Comments 0 / 255 By submitting this form, you agree to receive phone calls, text messages, or emails from Theresa Brooks for State Senate.
+Message frequency varies.
+Message and data rates may apply.
+Reply STOP to opt out.
+Submit Powered by RUN! website builder info@drbrooksforsenate.com Paid For By Dr.
+Theresa Brooks for State Senate PO Box 281 Troy, MI 48099 You need to enable JavaScript to run this app.

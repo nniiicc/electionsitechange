@@ -1,24 +1,10 @@
-Endorsements
-Community Supporters
-Additional Endorsements:
-- Steve Hallfin, Former SLP City Council
-- Sue Sanger, Former SLP City Council
-- Sue Santa, Former SLP City Council
-- Jim Brimeyer, Former SLP City Council
-- Ken Morrison, Former SLP School Board
-- Keith Broady, Former SLP School Board
-- Ellen Dustman, Former Hopkins School Board
-Awards
-- Children’s Defense Fund – Children’s Champion
-- MN Association for Justice – Consumer Protection & Civil Justice Award
-- League of Minnesota Cities – Legislator of Distinction
-- Conservation Minnesota – 100% rating
-- Citizen League – Civic Leadership Award
-- National Center for Victims of Crime – Child Protection Award
-- MN Supreme Court – Administration of Justice and Leadership Award, 2013, and Purple Gavel Award, 2015
-- Youth Intervention Program Association – Legislative Champion for Youth
-- MN Legal Aid – Pro Bono Publico Award
-- MN Chiefs of Police Association – Legislator Recognition Award
-- MN Fire Chiefs Association – Fire Chiefs Award
-- MN Coalition Against Sexual Assault – AWARE Award
-- Voices for Racial Justice – Champion for Racial Equity
+0 Skip to Content Home Endorsements About Volunteer Policy DONATE Open Menu Close Menu Home Endorsements About Volunteer Policy DONATE Open Menu Close Menu Home Endorsements About Volunteer Policy DONATE Endorsements Community Supporters Dawanna Witt, Hennepin County Sheriff Keith Ellison, Attorney General Heather Edelson, Hennepin County Commissioner James Hovland, Edina Mayor Zaynab Mohamed, Senator Tim Brausen, St.
+Louis Park City Councilmember Yolanda Farris, St.
+Louis Park City Councilmember James Pierce, Edina City Councilmember Kaj Thompson, Hopkins School Board Susie Kaufman, St.
+Louis Park School Board Rep.
+Samakab Hussein Johanna Hyman, Hopkins School Board Colin Cox, St.
+Louis Park School Board Erin Murphy, Senate Majority Leader Scott Dibble, Senator John Hoffman, Senator Heather Gustafson, Senator Judy Seeberger, Senator Bonnie Westlin, Senator Doron Clark, Senator Melisa López Franzen, Former State Senator Jeff Jacobs, Former St.
+Louis Park Mayor Jason Gadd, Former Hopkins Mayor Gene Maxwell, Former Hopkins Mayor Abdihakim Ibrahim, Former St.
+Louis Park School Board Member Molly Cummings, Former Metropolitan Council Member and Hopkins Mayor Kathy Sheran, Former State Senator Steve Kelly, Former MN State Senator Alan Silver, Former St.
+Louis Park School Board Member Meta Webb, St.
+Louis Park Community Member Additional Endorsements: Steve Hallfin, Former SLP City Council Sue Sanger, Former SLP City Council Sue Santa, Former SLP City Council Jim Brimeyer, Former SLP City Council Ken Morrison, Former SLP School Board Keith Broady, Former SLP School Board Ellen Dustman, Former Hopkins School Board Awards Children’s Defense Fund – Children’s Champion MN Association for Justice – Consumer Protection & Civil Justice Award League of Minnesota Cities – Legislator of Distinction Conservation Minnesota – 100% rating Citizen League – Civic Leadership Award National Center for Victims of Crime – Child Protection Award MN Supreme Court – Administration of Justice and Leadership Award, 2013, and Purple Gavel Award, 2015 Youth Intervention Program Association – Legislative Champion for Youth MN Legal Aid – Pro Bono Publico Award MN Chiefs of Police Association – Legislator Recognition Award MN Fire Chiefs Association – Fire Chiefs Award MN Coalition Against Sexual Assault – AWARE Award Voices for Racial Justice – Champion for Racial Equity About ‍ ‍ Endorsements ‍ ‍ Volunteer ‍ ‍ Donate ‍ Photos ron@ronlatz.org Prepared and paid for by the Latz for Senate Volunteer Committee, 4530 Douglas Ave, Golden Valley, MN 55416-3527

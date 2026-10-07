@@ -1,16 +1,8 @@
-Senator Bradley will continue to focus on commonsense solutions to address the challenges in our public schools, health care system and local economy, while continuing to champion civil and equal rights.
-As a small business owner, Senator Bradley prioritizes making Charlotte a place for business to thrive and creating more opportunity for ALL.
-Lowering Costs for Families:
-Reduce the financial burden on families by lowering the cost of childcare, expanding paid family and medical leave, and making everyday necessities more affordable.
-Protecting Public Schools:
-Ensure students gain the skills needed to succeed in the workforce and strengthen our local economy.
-Public Safety:
-Keep our communities safe through smart policies and strong partnership.
+top of page Meet Woodson Issues Media Social Media News Video More Contact Us Endorsements Join the Team More Use tab to navigate through the menu items.
+DONATE VOLUNTEER Senator Bradley will continue to focus on commonsense solutions to address the challenges in our public schools, health care system and local economy, while continuing to champion civil and equal rights.
+As a small business owner, Senator Bradley prioritizes making Charlotte a place for business to thrive and creating more opportunity for ALL. ​Lowering Costs for Families: Reduce the financial burden on families by lowering the cost of childcare, expanding paid family and medical leave, and making everyday necessities more affordable. ​ Protecting Public Schools: Ensure students gain the skills needed to succeed in the workforce and strengthen our local economy. ​ Public Safety: Keep our communities safe through smart policies and strong partnership.
 In her first term in the legislature, Senator Bradley has already sponsored bills that would have major impacts on affordability, education and safety for all North Carolinians.
-As a freshman senator, she sponsored more legislation than any other freshman senator in the chamber.
-Protect NC Prosperity and Health Act (SB 625)
-Creates and funds new North Carolina programs—similar to DHHS and NCDOJ—to replace federal consumer protection and public safety watchdog services that were cut.
-Safe Schools Transparency Act (SB 628)
-Requires schools to quickly and clearly inform parents and law enforcement about serious threats, improving safety and transparency.
-NC Victims of Crime Assistance Act (SB 719)
-Creates a state fund to support crime victims after major cuts to federal funding—paid for by criminal court costs and marriage license fees.
+As a freshman senator, she sponsored more legislation than any other freshman senator in the chamber. ​ ​​​ Protect NC Prosperity and Health Act (SB 625) ​Creates and funds new North Carolina programs—similar to DHHS and NCDOJ—to replace federal consumer protection and public safety watchdog services that were cut. ​ Safe Schools Transparency Act (SB 628) Requires schools to quickly and clearly inform parents and law enforcement about serious threats, improving safety and transparency. ​ NC Victims of Crime Assistance Act (SB 719) Creates a state fund to support crime victims after major cuts to federal f unding—paid for by criminal court costs and marriage license fees.
+BRADLEY'S BILLS FULL LIST of legislation Senator Bradley has been working on to help all citizens of North Carolina.
+CURRENT COMMITTEES Appropriations on General Government and Information Technology Education/Higher Education Pensions and Retirement and Aging Regulatory Reform Revenue Laws Study Committee Woodson Bradley for NC 1001 Wade Ave, Ste 323 Raleigh, NC 27605 Meet Woodson Issues News DONATE Designed by cwkwebsites Paid for by Woodson Bradley for NC Contact Us!
+Facebook TikTok Instagram bottom of page

@@ -1,11 +1,42 @@
 [
-"https://facebook.com/profile.php?id=61588328631444",
-"https://instagram.com/voterenoabihai",
-"https://support.wix.com/en/article/creating-a-privacy-policy",
-"https://votereno.com/",
-"https://votereno.com/blank",
-"https://votereno.com/contact-8",
-"https://votereno.com/endorsements",
-"https://votereno.com/meet-reno",
-"https://votereno.com/priorities"
+{
+"text": "Contact",
+"href": "https://www.votereno.com/contact-8"
+},
+{
+"text": "Creating a Privacy Policy",
+"href": "https://support.wix.com/en/article/creating-a-privacy-policy"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votereno.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votereno.com"
+},
+{
+"text": "Meet Reno",
+"href": "https://www.votereno.com/meet-reno"
+},
+{
+"text": "Paid for and authorized by Friends of Reno Abihai, P.O. Box 19116 Honolulu, HI 96817",
+"href": "https://www.votereno.com/blank"
+},
+{
+"text": "Priorities",
+"href": "https://www.votereno.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61588328631444"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voterenoabihai/"
+},
+{
+"text": "[image]",
+"href": "https://www.votereno.com"
+}
 ]

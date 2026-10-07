@@ -1,29 +1,170 @@
 [
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/in-the-district?page=0",
-"https://garamendi.org/in-the-district?page=1",
-"https://garamendi.org/in-the-district?page=2",
-"https://garamendi.org/in-the-district?page=3",
-"https://garamendi.org/in-the-district?page=4",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-delivers-address-el-cerrito-rotary-club",
-"https://garamendi.org/news/meeting-richmond-council-industries",
-"https://garamendi.org/news/meeting-sikh-leaders-el-sobrante-gurdwara-sahib",
-"https://garamendi.org/news/meeting-students-and-teachers-richmond-high-school",
-"https://garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities",
-"https://garamendi.org/news/roundtable-faith-leaders",
-"https://garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents",
-"https://garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems",
-"https://garamendi.org/news/tour-richmond-builds-career-technical-training-center",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 2",
+"href": "https://www.garamendi.org/in-the-district?page=1"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/in-the-district?page=0"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/in-the-district?page=4"
+},
+{
+"text": "March 22, 2022 Meeting with Sikh Leaders at the El Sobrante Gurdwara Sahib READ MORE",
+"href": "https://www.garamendi.org/news/meeting-sikh-leaders-el-sobrante-gurdwara-sahib"
+},
+{
+"text": "March 22, 2022 Meeting with students and teachers at Richmond High School READ MORE",
+"href": "https://www.garamendi.org/news/meeting-students-and-teachers-richmond-high-school"
+},
+{
+"text": "March 22, 2022 Meeting with the Richmond Council on Industries READ MORE",
+"href": "https://www.garamendi.org/news/meeting-richmond-council-industries"
+},
+{
+"text": "March 22, 2022 Tour of Berkley Field Station to discuss new job opportunities for Contra Costa Residents READ MORE",
+"href": "https://www.garamendi.org/news/tour-berkley-field-station-discuss-new-job-opportunities-contra-costa-residents"
+},
+{
+"text": "March 22, 2022 Tour of Richmond Build's Career Technical Training Center READ MORE",
+"href": "https://www.garamendi.org/news/tour-richmond-builds-career-technical-training-center"
+},
+{
+"text": "March 23, 2022 Garamendi delivers address to El Cerrito Rotary Club READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-delivers-address-el-cerrito-rotary-club"
+},
+{
+"text": "March 23, 2022 Meeting with Vallejo City leaders about future employment opportunities READ MORE",
+"href": "https://www.garamendi.org/news/meeting-vallejo-city-leaders-about-future-employment-opportunities"
+},
+{
+"text": "March 23, 2022 Roundtable with faith leaders READ MORE",
+"href": "https://www.garamendi.org/news/roundtable-faith-leaders"
+},
+{
+"text": "March 23, 2022 Tour of local manufacturer Earthquake Protection Systems READ MORE",
+"href": "https://www.garamendi.org/news/tour-local-manufacturer-earthquake-protection-systems"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/in-the-district?page=2"
+},
+{
+"text": "Page 1",
+"href": "https://www.garamendi.org/in-the-district?page=0"
+},
+{
+"text": "Page 3",
+"href": "https://www.garamendi.org/in-the-district?page=2"
+},
+{
+"text": "Page 4",
+"href": "https://www.garamendi.org/in-the-district?page=3"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/in-the-district?page=4"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/in-the-district?page=0"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

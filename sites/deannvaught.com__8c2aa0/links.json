@@ -1,13 +1,66 @@
 [
-"https://deannvaught.com/",
-"https://deannvaught.com/about",
-"https://deannvaught.com/awards",
-"https://deannvaught.com/committees",
-"https://deannvaught.com/contact",
-"https://deannvaught.com/ideals",
-"https://donorbox.org/deann-vaught-s-re-election-campaign",
-"https://facebook.com/DeAnnVaughtHD4",
-"https://instagram.com/dvaught33?hl=en",
-"https://twitter.com/wix",
-"https://wix.com/"
+{
+"text": "AWARDS",
+"href": "https://www.deannvaught.com/awards"
+},
+{
+"text": "About",
+"href": "https://www.deannvaught.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.deannvaught.com/about"
+},
+{
+"text": "COMMITTEES",
+"href": "https://www.deannvaught.com/committees"
+},
+{
+"text": "Contact",
+"href": "https://www.deannvaught.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://donorbox.org/deann-vaught-s-re-election-campaign"
+},
+{
+"text": "DeAnn Vaught",
+"href": "https://www.deannvaught.com"
+},
+{
+"text": "For District 87",
+"href": "https://www.deannvaught.com"
+},
+{
+"text": "Home",
+"href": "https://www.deannvaught.com"
+},
+{
+"text": "IDEALS",
+"href": "https://www.deannvaught.com/ideals"
+},
+{
+"text": "State Representative",
+"href": "https://www.deannvaught.com"
+},
+{
+"text": "Up",
+"href": "https://www.deannvaught.com"
+},
+{
+"text": "Wix.com",
+"href": "https://wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/DeAnnVaughtHD4"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/dvaught33/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+}
 ]

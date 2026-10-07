@@ -1,4 +1,4 @@
-A third‑generation Idaho native, Brenda H.
+Home About Donations Gallery Contact Brenda More Home About Donations Gallery Contact Brenda Home About Donations Gallery Contact Brenda About Me My background A third‑generation Idaho native, Brenda H.
 Quick, grew up attending public schools across the state and learning the values that define Idaho: hard work, personal responsibility, and a deep commitment to community.
 As a single mother to one amazing son — an Eagle Scout — she understands firsthand the challenges and opportunities facing Idaho families today.
 She loves the outdoors, enjoys boating, and rarely passes up a chance to spend time with her dogs exploring the open spaces that make Idaho home.
@@ -23,5 +23,5 @@ As a product of Idaho’s public schools and a mother who has guided her own chi
 And with a deep appreciation for the small businesses that form the backbone of Idaho’s economy, she is dedicated to expanding opportunity, reducing barriers, and helping local entrepreneurs thrive.
 Rooted in Idaho’s past and committed to its future, Brenda H.
 Quick is ready to bring her experience, integrity, skills and dedication to the State Senate — working every day to ensure Idaho remains a place where families can succeed, businesses can grow, and communities can flourish.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Connect With Us Quick For Idaho Copyright © # Quick For Idaho - All Rights Reserved.
+Powered by

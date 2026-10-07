@@ -1,165 +1,69 @@
-IN THE news
-New California Law Bars Law Enforcement From Interfering in State Elections
-Hemet & San Jacinto Chronicle | May 28, 2026
-California law enforcement agencies are now barred from interfering with state elections under a new law signed Wednesday by Gov.
+top of page HOME ABOUT GAIL PRIORITIES ENDORSEMENTS PRESS VOTING GET INVOLVED More Use tab to navigate through the menu items.
+DONATE 28TH ASSEMBLY DISTRICT IN THE news Local politicians secure $5m for youth mental health centers San Jose Mercury | July 12, 2026 Berman and Assemblymember Gail Pellerin worked to secure the funding for the statewide network of youth‑designed, youth‑centered mental health.
+READ MORE California Dems claim win over Trump in Supreme Court ruling on ballots Politico | June 29, 2026 The court’s decision allowing states to count mail-in ballots that arrive after Election Day was especially closely watched in California.
+READ MORE Leader of California Assembly elections committee defends state's process | CA Politics 360 KCRA3 | June 14, 2026 The leader of the California Assembly’s Elections Committee defended the state’s elections system...
+READ MORE Santa Cruz Pride Parade delivers large, vibrant turnout for 51st installment Santa Cruz Sentinel | June 7, 2026 Thousands of rainbow flags flew through downtown Santa Cruz Sunday as community members turned out to celebrate Santa Cruz’s 51st annual Pride Parade.
+READ MORE New California Law Bars Law Enforcement From Interfering in State Elections The Pajaronian | June 3, 2026 Across Santa Cruz County elections for state and federal representation Tuesday night, there are few surprises, and a few expected results.
+READ MORE New California Law Bars Law Enforcement From Interfering in State Elections Hemet & San Jacinto Chronicle | May 28, 2026 California law enforcement agencies are now barred from interfering with state elections under a new law signed Wednesday by Gov.
 Gavin Newsom, a measure that takes effect immediately ahead of the June 2 primary.
-Celebrating The First “Official” Same Sex Marriage in Santa Cruz County in 2008 featuring Gail Groves, Dinah Phillips, and Gail Pellerin
-KSQD Radio | February 26, 2026
-Gail, Dinah and Gail join the show to share about the importance of that day back in June of 2008 when many couples legally declared their love for one another for the first time.
-California voters approve congressional redistricting measure
-The Center Square | November 5, 2025
-"'It’s very exciting to see the enthusiasm, the results look amazing and California has spoken,” Assemblymember Gail Pellerin, D-Santa Cruz and chair of the Assembly Elections Committee...'This is just a really pivotal election...'"
-California leaders hope for high voter turnout for Prop. 50
-The Center Square | November 4, 2025
-"'It is a little puzzling why they want to send observers to a state-only election, but certainly, that is their right,' Pellerin told The Center Square.
-'I believe they're going to find that elections are run very smoothly in California...'"
-Monterey Bay Central Labor Council expands Labor Day celebration with rally, march
-Santa Cruz Sentinel | September 1, 2025
-"Pellerin said there was hope in the form of Proposition 50, a California initiative on the November ballot that will redraw the California congressional maps in response to the Texas legislature’s proposal..."
-California lawmaker seeks to clarify elections officials’ role in certification
-Court House News | March 26, 2025
-"California officials say that over 30 jurisdictions across the country have refused to certify local election results or threatened to since 2020.
+READ MORE June 2 state primary: So many candidates, so few choices.
+Plus, our local recommendations Santa Cruz Sentinel | May 16, 2026 Did you read through all the names on your June 2 primary ballot?
+All the names?
+READ MORE Supreme Court ruling on mail-in ballot could change voting practice nationwide abc10 | March 23, 2026 The pending ruling by the high court case could change how decades-long voting practice is implemented nationwide and in California READ MORE Celebrating The First “Official” Same Sex Marriage in Santa Cruz County in 2008 featuring Gail Groves, Dinah Phillips, and Gail Pellerin KSQD Radio | February 26, 2026 Gail, Dinah and Gail join the show to share about the importance of that day back in June of 2008 when many couples legally declared their love for one another for the first time.
+READ MORE Surfer statue ‘to honor the women of the water’ proposed for Pleasure Point Lookout | February 17, 2026 The approximately 17-foot-tall monument with a female figure wearing a wetsuit and holding a longboard is proposed for a bluff along East Cliff Drive.
+READ MORE Election Conversations: Assemblymember Gail Pellerin, California NCSL | November 21, 2025 "Pellerin recently spoke with NCSL about how working as an election official impacts her role in the Assembly, how Prop 50 came to be and what the Elections Committee will focus on in 2026... " ​ ​ ​ READ MORE California voters approve congressional redistricting measure The Center Square | November 5, 2025 "'It’s very exciting to see the enthusiasm, the results look amazing and California has spoken,” Assemblymember Gail Pellerin, D-Santa Cruz and chair of the Assembly Elections Committee...'This is just a really pivotal election ...' " ​ ​ ​ READ MORE California leaders hope for high voter turnout for Prop.
+50 The Center Square | November 4, 2025 "'It is a little puzzling why they want to send observers to a state-only election, but certainly, that is their right,' Pellerin told The Center Square.
+'I believe they're going to find that elections are run very smoothly in California ...' " ​ ​ ​ READ MORE What does Prop 50 mean for Santa Cruz County?
+Santa Cruz Local | October 15, 2025 "' If Donald Trump and the MAGA machine are able to steal unchecked power for two more years, they’ll have free rein to keep up their harmful policies and authoritarian power grabs,' Pellerin said.... " ​ ​ ​ READ MORE Tenth Annual NAMIWalks Silicon Valley Takes Place in History Park EIN Presswire | October 4, 2025 " NAMI-Santa Clara County reminds us every day that prevention and compassion save lives...Their dedication helps connect people with care to build a stronger, healthier community for all of us... " ​ ​ ​ READ MORE Monterey Bay Central Labor Council expands Labor Day celebration with rally, march Santa Cruz Sentinel | September 1, 2025 " Pellerin said there was hope in the form of Proposition 50 , a California initiative on the November ballot that will redraw the California congressional maps in response to the Texas legislature’s proposal... " ​ ​ READ MORE Laird, Pellerin secure $4.5 million for Santa Cruz library project Santa Cruz Sentinel | July 18, 2025 " The state funding was secured through the efforts of Assemblymember Gail Pellerin and state Sen.
+John Laird.
+“We are deeply grateful to Senator Laird and Assemblymember Pellerin... " ​ ​ READ MORE A community united: cleanup day draws hundreds The Pajaronian | May 10, 2025 " Hundreds of people gathered Saturday morning on beaches, in neighborhoods and along riverways to participate in the second-annual Pitch In All Santa Cruz Cleanup Day. " ​ ​ READ MORE California lawmaker seeks to clarify elections officials’ role in certification Court House News | March 26, 2025 " California officials say that over 30 jurisdictions across the country have refused to certify local election results or threatened to since 2020.
 That hasn’t happened yet in the Golden State.
-A bill introduced in the Legislature intends to keep it that way."
-Lace up, Santa Cruz – it’s time to fight whatever Trump throws at us, and that’s what I’ll be doing in Sacramento
-Lookout | December 1, 2024
-"California will not let our values regarding protecting our environment, standing up for our immigrants who contribute to our economy and communities, supporting LGBTQ+ rights and safeguarding our special education programs be obliterated..."
-Pellerin will speak at environmental town hall in Felton
-Lookout | November 13, 2024
-Assemblymember Gail Pellerin will speak at the Valley Women’s Club Environmental Committee’s 23rd annual Environmental Town Hall on Saturday, Nov. 16.
-State Assembly, District 28 Live Election Results
-KQED | November 5, 2024
-"State Assembly members represent their communities at the California Legislature in Sacramento.
-The 80 members of the state Assembly write and vote on state bills, serve on policy committees and vote on the annual state budget."
-Familiar names highlight state races in 2024 general election
-Lookout | October 7, 2024
-"Incumbent and longtime Santa Cruz county clerk Gail Pellerin is running for reelection against Republican challenger and retired Monte Sereno mayor Liz Lawler, the same opponent Pellerin faced in the previous election — and beat 68% to 32%."
-Health care workers name Pellerin ‘Assemblymember of the Year’
-Lookout | September 25, 2024
-"Santa Cruz Democrat Gail Pellerin has been named “Assemblymember of the Year” by the National Union of Healthcare Workers for her work fighting for parity in how mental health is treated compared to other health conditions."
-Banana slug takes next step to becoming California's state slug
-KSBW | April 16, 2024
-"I'm honored today.
-I want to introduce the iconic Sammy, the official mascot at UC Santa Cruz, who may soon get a job promotion as a future ambassador for our state," said California State Assemblymember Gail Pellerin, who introduced the bill."
-At 46%, Santa Cruz County's primary turnout is among the highest in California
-Lookout | March 18, 2024
-"Santa Cruz County also outperformed its neighboring counties, San Benito, Santa Clara, San Mateo and Monterey, a trend the region has observed in each primary and most general elections since 2012."
-Commitment 2024: Rematch for Assembly District 28 between Gail Pellerin and Liz Lawler
-KSBW 8 | February 27, 2024
-"So far, she's introduced 40 bills, 13 of which have passed; she's authored multiple bills that address California's election system.
-In upcoming legislation, Pellerin is taking aim at artificial intelligence and the impact it could have on elections."
-Editorial | Reelect Panetta to Congress; Laird to state Senate; Pellerin, Rivas, Addis to Assembly
-Santa Cruz Sentinel | February 16, 2024
-"Pellerin was a widely admired election supervisor in Santa Cruz County, and she continues to be a strong voice in Sacramento on voting rights and mental health support, as well as climate change."
-Assemblymember Gail Pellerin leads fight to ban deep fake political ads
-Morgan Hill Times | February 14, 2024
-"As an example, Pellerin cited one recent ad that used artificial intelligence to create a voice that sounded like President Joe Biden.
-“We have to stay ahead of the deep fakes and bad actors that are out there trying to wreak chaos with our elections,” Pellerin said."
-Reproductive Freedom for All California Releases Final Slate of Endorsements
-Reproductive Freedom for All | February 1, 2024
-"These candidates and incumbents are prepared to continue advancing our reproductive freedoms in California.
-With Republicans threatening a nationwide abortion ban and the Supreme Court considering two abortion-related cases this year—the impacts of which would reverberate even into reproductive freedom states like ours—we need all hands on deck to fight for our fundamental rights."
-California bills for affordable housing, reproductive rights and mental health take effect in 2024
-King City Rustler | January 3, 2024
-"California has some of the strongest voting laws in the nation and continues working to make elections more accessible for all... allows voters with a disability to complete a regular ballot outside of any polling place — known as curbside voting — and removes the requirement for a voter to declare under oath that they are unable to mark their ballot in order to receive assistance doing so."
-Ahead of 2024 election, California to take aim at AI threats, disinformation
-Bloomberg | December 15, 2023
-“California lawmakers are exploring legislation to further crack down on deepfakes, including broader bans of the use of artificial intelligence..."We have the internet that is so quick and easy to spread false disinformation and misinformation.
-And now AI is putting this at a whole new level,” said Assemblymember Gail Pellerin (D), who chairs the state Assembly Elections Committee."
-Ahead of 2024 election, California to take aim at AI threats, disinformation
-KCRA3 | November 7, 2023
-“These disinformation narratives aren’t just undermining our voter's faith in our election system, they're making the lives more dangerous for elections officials," said Democratic Assemblymember Gail Pellerin, who leads the Assembly's election committee after spending decades as the chief elections official in Santa Cruz County. ”
-State Assemblymember Gail Pellerin running for second term
-San Jose Inside | November 1, 2023
-“Gail Pellerin filed election paperwork for most of her adult career as the chief elections officer in Santa Cruz County, but she’s getting used to the process now from the other side of the desk.
+A bill introduced in the Legislature intends to keep it that way. " ​ ​ READ MORE CA lawmakers go to work on affordability, battling Trump Cal Matters | January 6, 2025 "After a restful holiday break I’m returning to your inboxes — and state lawmakers are also returning to Sacramento today to begin the new legislative session in earnest." ​ ​ READ MORE Wave of Women Lawmakers Brings California Close to Gender Parity The Mercury News | December 2, 2024 ""That means women will comprise 49% of the state's legislature, or exactly one seat shy of gender parity." ​ ​ READ MORE Lace up, Santa Cruz – it’s time to fight whatever Trump throws at us, and that’s what I’ll be doing in Sacramento ​ Lookout | December 1, 2024 "California will not let our values regarding protecting our environment, standing up for our immigrants who contribute to our economy and communities, supporting LGBTQ+ rights and safeguarding our special education programs be obliterated..." ​ ​ READ MORE Pellerin will speak at environmental town hall in Felton Lookout | November 13, 2024 Assemblymember Gail Pellerin will speak at the Valley Women’s Club Environmental Committee’s 23rd annual Environmental Town Hall on Saturday, Nov.
+16.
+READ MORE State Assembly, District 28 Live Election Results KQED | November 5, 2024 "State Assembly members represent their communities at the California Legislature in Sacramento.
+The 80 members of the state Assembly write and vote on state bills, serve on policy committees and vote on the annual state budget." ​ READ MORE Familiar names highlight state races in 2024 general election Lookout | October 7, 2024 "Incumbent and longtime Santa Cruz county clerk Gail Pellerin is running for reelection against Republican challenger and retired Monte Sereno mayor Liz Lawler, the same opponent Pellerin faced in the previous election — and beat 68% to 32%." ​ READ MORE Health care workers name Pellerin ‘Assemblymember of the Year’ Lookout | September 25, 2024 "Santa Cruz Democrat Gail Pellerin has been named “Assemblymember of the Year” by the National Union of Healthcare Workers for her work fighting for parity in how mental health is treated compared to other health conditions." ​ READ MORE Governor Newsom signs bills to combat deepfake election content Desert Sun | September 17, 2024 "Taking action to address the use of deepfakes and other deceptive digitally generated or altered content in election campaigns, Governor Gavin Newsom today signed three measures" ​ READ MORE A banana slug is inching its way to becoming California's official state slug.
+So is a crab.
+Desert Sun | August 30, 2024 "California is about to bestow an honor on a type of mollusk that resembles a fruit and a crustacean often served with a side of butter." ​ READ MORE Meet California State Assemblymember Gail Pellerin Spectrum News | August 19, 2024 "Representing California's 28th District, State Assemblymember Gail Pellerin was inspired to run for office because she noticed a lack of women representing Santa Cruz County. " ​ READ MORE 8,000 foster youth in California may have nowhere to go as early as September 30 YouthToday | August 15, 2024 "NIA’s website states, “The Foster Family Agency Accountability Act (AB 2496), sponsored by NAIC, is necessary to avoid a shutdown of California’s foster family agencies." ​ READ MORE Gail Pellerin Addresses New State Housing Laws GoodTimes | June 27 , 2024 "We need housing in the right places where the people are needing the housing, working in those communities. " ​ READ MORE Banana slug takes next step to becoming California's state slug KSBW | April 16, 2024 "I'm honored today.
+I want to introduce the iconic Sammy, the official mascot at UC Santa Cruz, who may soon get a job promotion as a future ambassador for our state," said California State Assemblymember Gail Pellerin, who introduced the bill." READ MORE At 46%, Santa Cruz County's primary turnout is among the highest in California Lookout | March 18, 2024 "Santa Cruz County also outperformed its neighboring counties, San Benito, Santa Clara, San Mateo and Monterey, a trend the region has observed in each primary and most general elections since 2012." READ MORE Democracy Leaders Introduce Solutions to Curb Emerging Digital Threats Common Cause | March 13, 2024 " AB 2839, from Assemblymember Gail Pellerin.
+Keeps misleading deepfakes out of campaign ads and independent expenditures close to Election Day, protecting candidates and elections officials. " READ MORE Commitment 2024: Rematch for Assembly District 28 between Gail Pellerin and Liz Lawler KSBW 8 | February 27, 2024 "So far, she's introduced 40 bills, 13 of which have passed; she's authored multiple bills that address California's election system.
+In upcoming legislation, Pellerin is taking aim at artificial intelligence and the impact it could have on elections." READ MORE Editorial | Reelect Panetta to Congress; Laird to state Senate; Pellerin, Rivas, Addis to Assembly Santa Cruz Sentinel | February 16, 2024 "Pellerin was a widely admired election supervisor in Santa Cruz County, and she continues to be a strong voice in Sacramento on voting rights and mental health support, as well as climate change." READ MORE Assemblymember Gail Pellerin leads fight to ban deep fake political ads Morgan Hill Times | February 14, 2024 "As an example, Pellerin cited one recent ad that used artificial intelligence to create a voice that sounded like President Joe Biden.
+“We have to stay ahead of the deep fakes and bad actors that are out there trying to wreak chaos with our elections,” Pellerin said." READ MORE Reproductive Freedom for All California Releases Final Slate of Endorsements Reproductive Freedom for All | February 1, 2024 "These candidates and incumbents are prepared to continue advancing our reproductive freedoms in California.
+With Republicans threatening a nationwide abortion ban and the Supreme Court considering two abortion-related cases this year—the impacts of which would reverberate even into reproductive freedom states like ours—we need all hands on deck to fight for our fundamental rights." READ MORE California bills for affordable housing, reproductive rights and mental health take effect in 2024 King City Rustler | January 3, 2024 "California has some of the strongest voting laws in the nation and continues working to make elections more accessible for all... allows voters with a disability to complete a regular ballot outside of any polling place — known as curbside voting — and removes the requirement for a voter to declare under oath that they are unable to mark their ballot in order to receive assistance doing so." READ MORE Ahead of 2024 election, California to take aim at AI threats, disinformation Bloomberg | December 15, 2023 “California lawmakers are exploring legislation to further crack down on deepfakes, including broader bans of the use of artificial intelligence..."We have the internet that is so quick and easy to spread false disinformation and misinformation.
+And now AI is putting this at a whole new level,” said Assemblymember Gail Pellerin (D), who chairs the state Assembly Elections Committee." READ MORE Ahead of 2024 election, California to take aim at AI threats, disinformation KCRA3 | November 7, 2023 “These disinformation narratives aren’t just undermining our voter's faith in our election system, they're making the lives more dangerous for elections officials," said Democratic Assemblymember Gail Pellerin, who leads the Assembly's election committee after spending decades as the chief elections official in Santa Cruz County. ” READ MORE State Assemblymember Gail Pellerin running for second term San Jose Inside | November 1, 2023 “Gail Pellerin filed election paperwork for most of her adult career as the chief elections officer in Santa Cruz County, but she’s getting used to the process now from the other side of the desk.
 “I feel like it has been a great year,” Pellerin said in a phone interview this week.
 “I sent 10 bills to the governor and he signed all of them.
-So I’ve got a 100% batting record there.””
-In first Assembly session, Pellerin picks fight with Northern California conservatives
-Lookout Santa Cruz | October 23, 2023
-“Assemblymember Gail Pellerin, a former Santa Cruz County clerk, ended thelegislative session with 10 of her bills signed into law.
+So I’ve got a 100% batting record there.”” READ MORE In first Assembly session, Pellerin picks fight with Northern California conservatives Lookout Santa Cruz | October 23, 2023 “Assemblymember Gail Pellerin, a former Santa Cruz County clerk, ended thelegislative session with 10 of her bills signed into law.
 Of those, six focused onvoting.
-One bill, AB 969, takes direct aim at a controversy over a Shasta Countyplan to hand-count ballots in an upcoming special election.”
-Newsom Signs Five Election-reform Bills Written by Assemblymember Pellerin
-San Jose Inside | October 16, 2023
-“Five of the bills were authored by Assemblymember Gail Pellerin, D-Santa Cruz, chair of the Assembly Elections Committee and a former Santa Cruz County clerk, the position that administers elections.Pellerin’s district includes portions of northern Santa Cruz County, sections of South San Jose and Santa Clara Counties and the cities of Los Gatos, Morgan Hill, Santa Cruz and Scotts Valley.”
-The California Legislature has the backs of the LGBTQIA+ community — here’s how
-Lookout Santa Cruz | September 23, 2023
-"Three of Santa Cruz County’s state legislators — Assemblymember Dawn Addis, Sen.
+One bill, AB 969, takes direct aim at a controversy over a Shasta Countyplan to hand-count ballots in an upcoming special election.” READ MORE Newsom Signs Five Election-reform Bills Written by Assemblymember Pellerin San Jose Inside | October 16, 2023 “Five of the bills were authored by Assemblymember Gail Pellerin, D-Santa Cruz, chair of the Assembly Elections Committee and a former Santa Cruz County clerk, the position that administers elections.Pellerin’s district includes portions of northern Santa Cruz County, sections of South San Jose and Santa Clara Counties and the cities of Los Gatos, Morgan Hill, Santa Cruz and Scotts Valley.” READ MORE The California Legislature has the backs of the LGBTQIA+ community — here’s how Lookout Santa Cruz | September 23, 2023 "Three of Santa Cruz County’s state legislators — Assemblymember Dawn Addis, Sen.
 John Laird and Assemblymember Gail Pellerin — proudly outline strides our state has made in assuring that the rights of LGBTQIA+ people are protected.
-That includes codifying same-sex marriage, offering support for students in schools and for foster students..."
-Assemblymember Gail Pellerin named head of elections committee
-Morgan Hill Times | July 5, 2023
-“I’m honored to have the confidence of the speaker and continue to work to ensure that California is the gold standard for secure, accurate, transparent and accessible elections,” Pellerin said.
-“I look forward to continuing the work to improve the voter experience, ensure voting system integrity and enhance the accuracy of our voter rolls.”
-Shasta County's decision to ditch Dominion triggers state Assembly bill
-Record Spotligtht | May 4, 2023
-"Introduced on Feb. 14, Pellerin’s Assembly Bill 969 would require a county board of supervisors to have both a transition plan and a replacement contract with a state-certified system in place before terminating an existing voting system contract."
-State legislators announce formation of Central Coast Caucus
-Santa Cruz Sentinel | March 26, 2023
-"A group of state legislators have band together to raise the profile of Santa Cruz County and other Central Coast communities as they grapple with an historically destructive winter storm season and a growing number of coastal issues."
-Santa Cruz County Supervisors approve ordinance banning force against kids
-Pajaronian | March 14, 2023
-"The Santa Cruz County Board of Supervisors on Tuesday unanimously approved an ordinance that would prohibit companies forcibly transporting children.
-Also under the ordinance, families could sue transport companies that use force against their children for $10,000, plus legal costs."
-Silicon Valley community college district could offer free tuition
-San Jose Spotlight | February 20, 2023
-"California Senate Bill 629, introduced by state Sen.
+That includes codifying same-sex marriage, offering support for students in schools and for foster students..." READ MORE Assemblymember Gail Pellerin named head of elections committee Morgan Hill Times | July 5, 2023 “I’m honored to have the confidence of the speaker and continue to work to ensure that California is the gold standard for secure, accurate, transparent and accessible elections,” Pellerin said.
+“I look forward to continuing the work to improve the voter experience, ensure voting system integrity and enhance the accuracy of our voter rolls.” READ MORE WeToo III: Looking for a few good women Capitol Weekly | June 8, 2023 "Women have never achieved parity with their male colleagues in the California Legislature.
+Many advocates believe that could change before the end of the decade, but getting there is hardly a given." READ MORE Shasta County's decision to ditch Dominion triggers state Assembly bill Record Spotligtht | May 4, 2023 "Introduced on Feb.
+14, Pellerin’s Assembly Bill 969 would require a county board of supervisors to have both a transition plan and a replacement contract with a state-certified system in place before terminating an existing voting system contract." READ MORE State legislators announce formation of Central Coast Caucus Santa Cruz Sentinel | March 26, 2023 "A group of state legislators have band together to raise the profile of Santa Cruz County and other Central Coast communities as they grapple with an historically destructive winter storm season and a growing number of coastal issues." READ MORE Santa Cruz County Supervisors approve ordinance banning force against kids Pajaronian | March 14, 2023 "The Santa Cruz County Board of Supervisors on Tuesday unanimously approved an ordinance that would prohibit companies forcibly transporting children.
+Also under the ordinance, families could sue transport companies that use force against their children for $10,000, plus legal costs." READ MORE Silicon Valley community college district could offer free tuition San Jose Spotlight | February 20, 2023 "California Senate Bill 629, introduced by state Sen.
 Dave Cortese, would allow the West Valley-Mission Community College District to stop charging its students tuition and cover other costs such as transportation and books.
-The bill, if approved, would expand access to higher education and open opportunities for low-income students in one of the nation’s most expensive regions, advocates said."
-Local assemblywoman introduces Ocean Life Recovery Act
-Paso Robles Daily News | February 18, 2023
-“Protecting our ocean habitat must happen now before it is too late, I am happy to join Assemblymember Addis on this important legislation,” said bill co-author Assemblymember Gail Pellerin (D-Santa Cruz)."
-You are not ‘totally alone in this’: NAMI’s 40 years of working to support those living with mental illness
-Lookout | February 14, 2023
-"The organization on the front lines of mental health awareness, advocacy and education has been around for four decades, but the work has ratcheted up exponentially in recent years."
-Opinion: Recruiting a Legislature that looks like California (finally)
-Mercury News | December 16, 2022
-"In a dramatic 92% increase since 2017, 50 women (the majority women of color) now serve, an historic high-water mark of 42%.
-For the first time, a majority of our legislators are women, people of color or LGBTQ+..."
-Pellerin Starts Strong in Bid for Historic Assembly Seat
-Scotts Valley Press Banner | November 10, 2022
-"The new 28th Assembly District, a product of the recent decennial redistricting process, still represents north Santa Cruz County, but no longer counts mid-county or the southern coastal region as part of its footprint...."
-Nov. 8, 2022 Election: Pellerin Starts Strong
-Good Times | November 8, 2022
-"Former Santa Cruz County Clerk Gail Pellerin appears poised to become the first woman from the county to hold a seat on the State Assembly, with early returns showing 62.67% of Santa Clara County voters supporting her run..."
-A Lookout View: Vote Gail Pellerin for Assembly District 28
-Lookout Santa Cruz | November 3, 2022
-"Gail Pellerin is a homegrown and well-loved politician who will best represent Santa Cruz County interests in Sacramento.
-She is a connector, a listener and someone with the skills and longtime political..."
-Pellerin vs.
-Lawler: What each Assembly District 28 candidate is learning on the ‘other side of the hill’
-Lookout Santa Cruz | October 24, 2022
-"Democracy is on the ballot,” she said.
-“I have been a fighter for voting rights and reproductive rights and LGBTQ community rights and safe community rights most of my entire adult life and I am out there..."
-Will women rule in the 2022 California election?
-Lookout Santa Cruz | September 21, 2022
-"While female candidates still face challenges, voters could elect a record number of women to the state Legislature in November.
-The roster of female lawmakers could rise to 45 of the 120 seats, according to a CalMatters analysis..."
-Our California and Bay Area endorsements for the Nov. 8 general election election ballot
-San Jose Mercury | September 13, 2022
-"Here are our recommendations so far for the Nov. 8 election.
+The bill, if approved, would expand access to higher education and open opportunities for low-income students in one of the nation’s most expensive regions, advocates said." READ MORE Local assemblywoman introduces Ocean Life Recovery Act Paso Robles Daily News | February 18, 2023 “Protecting our ocean habitat must happen now before it is too late, I am happy to join Assemblymember Addis on this important legislation,” said bill co-author Assemblymember Gail Pellerin (D-Santa Cruz)." READ MORE You are not ‘totally alone in this’: NAMI’s 40 years of working to support those living with mental illness Lookout | February 14, 2023 "The organization on the front lines of mental health awareness, advocacy and education has been around for four decades, but the work has ratcheted up exponentially in recent years." READ MORE Opinion: Recruiting a Legislature that looks like California (finally) Mercury News | December 16, 2022 "In a dramatic 92% increase since 2017, 50 women (the majority women of color) now serve, an historic high-water mark of 42%.
+For the first time, a majority of our legislators are women, people of color or LGBTQ+..." READ MORE Election roundup | Santa Cruz County clerk certifies November election results Santa Cruz Sentinel | December 7, 2022 "Yard signs have come down, candidate emails have gone mute, all of the eligible outstanding ballots have been processed – the 2022 election cycle has officially come to an end." READ MORE A new class of Legislators emerges Politico | November 28, 2022 "That’s a good thing, too, because we’re one week away from the Dec.
+5 organizing session, where legislators will gather in Sacramento for the first time to be sworn-in and cast leadership votes..." READ MORE Pellerin Starts Strong in Bid for Historic Assembly Seat Scotts Valley Press Banner | November 10, 2022 "The new 28th Assembly District, a product of the recent decennial redistricting process, still represents north Santa Cruz County, but no longer counts mid-county or the southern coastal region as part of its footprint...." READ MORE ELECTION 2022: Photo Finish San Jose Inside | November 9, 2022 "There were no surprises in the Assembly races, since Democrats outnumber all other parties and independents combined in the county. ..." ​ READ MORE Democrats leading three state Assembly races affecting Santa Cruz County Santa Cruz Sentinel | November 9, 2022 "Unofficial election night results, last updated early Wednesday morning, show Santa Cruzan Gail Pellerin, a Democrat running for the newly drawn State Assembly District 28..." READ MORE Nov.
+8, 2022 Election: Pellerin Starts Strong Good Times | November 8, 2022 "Former Santa Cruz County Clerk Gail Pellerin appears poised to become the first woman from the county to hold a seat on the State Assembly, with early returns showing 62.67% of Santa Clara County voters supporting her run..." READ MORE A Lookout View: Vote Gail Pellerin for Assembly District 28 Lookout Santa Cruz | November 3, 2022 "Gail Pellerin is a homegrown and well-loved politician who will best represent Santa Cruz County interests in Sacramento.
+She is a connector, a listener and someone with the skills and longtime political..." READ MORE KSCO Good Morning Monterey Bay Interview with Gail Pellerin for Assembly KSCO | October 29, 2022 "Good Morning Monterey Bay airs Monday-Friday 6:00am-9:00am on KSCO Radio 1080 AM/104.1 FM in Santa Cruz, CA.
+This upbeat and fun talk radio show is hosted by Rosemary Chalmers and Alex Shaffer..." LISTEN HERE Pellerin vs.
+Lawler: What each Assembly District 28 candidate is learning on the ‘other side of the hill’ Lookout Santa Cruz | October 24, 2022 "Democracy is on the ballot,” she said.
+“I have been a fighter for voting rights and reproductive rights and LGBTQ community rights and safe community rights most of my entire adult life and I am out there..." READ MORE Will women rule in the 2022 California election?
+Lookout Santa Cruz | September 21, 2022 "While female candidates still face challenges, voters could elect a record number of women to the state Legislature in November.
+The roster of female lawmakers could rise to 45 of the 120 seats, according to a CalMatters analysis..." READ MORE Our California and Bay Area endorsements for the Nov.
+8 general election election ballot San Jose Mercury | September 13, 2022 "Here are our recommendations so far for the Nov.
+8 election.
 Click on the links to read the full editorials.
-Bookmark this page to return to view additional recommendations as they are published...."
-All candidates for California State Assembly District 28 complete Ballotpedia’s Candidate Connection survey
-Ballotpedia | September 6, 2022
-"Both of the candidates running in the November 8, 2022, general election for California State Assembly District 28 —Gail Pellerin (D) and Liz Lawler (R)— completed Ballotpedia’s Candidate Connection survey. ..."
-Santa Cruz County primary election 2022 guide
-Lookout Santa Cruz | April 27, 2022
-"Election season is ramping up ahead of the statewide primary June 7.
+Bookmark this page to return to view additional recommendations as they are published...." READ MORE All candidates for California State Assembly District 28 complete Ballotpedia’s Candidate Connection survey Ballotpedia | September 6, 2022 "Both of the candidates running in the November 8, 2022, general election for California State Assembly District 28 —Gail Pellerin (D) and Liz Lawler (R)— completed Ballotpedia’s Candidate Connection survey. ..." READ MORE A (very) early general election preview: 4 things to know about the November battles ahead Lookout Santa Cruz | July 7, 2022 "Election season may be in a lull, but it’s not over.
+In fact, a few political showdowns are still heating up.
+Here’s what you need to know as the Nov 8th..." READ MORE Roe v.
+Wade decision: 600-plus Santa Cruzans gather at courthouse to oppose SCOTUS ruling Lookout Santa Cruz | June 24, 2022 "The nation woke up to a new reality Friday as the U.S.
+Supreme Court overturned Roe v.
+Wade.
+In Santa Cruz, a progressive county within a sanctuary state..." READ MORE Primary Turnout Reaches 36%, Santa Clara County and State Races Set for November San Jose Inside | June 14, 2022 "Likewise, newcomer Gail Pellerin, former Santa Cruz County clerk, is likely to ride a wave of hometown support..." READ MORE Pellerin, Lawler hold lead in 28th Assembly District election Morgan Hill Times | June 9, 2022 "Retired Santa Cruz County Clerk Gail Pellerin holds a steady lead in the four-way race for the 28th Assembly District, according to election officials..." READ MORE Santa Cruz’s Pellerin leading in 28th Assembly District race San Jose Mercury News | June 8, 2022 "The unofficial election results from the California Secretary of State office show Pellerin, a Democrat, has 18,083, or 34.2%, of votes counted..." READ MORE Pellerin jumps into first in race for lower house seat San Lorenzo Valley Press Banner | June 8, 2022 "Santa Cruz County election results showed Pellerin racking up 7,254 votes, ahead of Lawler’s 2,793, Rennie’s 2,392 and UC Santa Cruz student..." READ MORE Election 2022 Results: Strong beginning for longtime county clerk Lookout Santa Cruz | June 7, 2022 "Santa Cruz’s Gail Pellerin has emerged so far in the pole position for the November election, chalking up 34.2% of the vote, with apparently..." READ MORE Off The Lip Radio Show, Episode #464: Gail Pellerin Off the Lip Radio | May 25, 2022 "Gail Pellerin is vying for the 28th State Assembly District, covering parts of Santa Clara and Santa Cruz Counties, and who faces enormous challenges..." READ MORE KSQD 28th Assembly District Candidates Forum KSQD | May 25, 2022 "Three of the four candidates for the 28th State Assembly District appeared in a radio forum answering questions about everything from climate change to..." READ MORE Editorial | Elect Pellerin for District 28 Assembly Santa Cruz Sentinel | May 20, 2022 Pellerin can do that – and has shown she is an impartial and independent leader in voting rights, the state’s mental health crisis, gender equity..." READ MORE Spotlight on the new District 28: Assembly candidates weigh in on housing, climate, education and fentanyl The Sacramento Bee | May 20, 2022 The candidates for the newly created State Assembly District 28, who spoke at a Lookout-moderated forum last week, elaborate on who they are..." READ MORE NARAL Pro-Choice California Endorses 10 Future Leaders for Reproductive Freedom for the California State Assembly The Sacramento Bee | May 15, 2022 " It is in that context that NARAL Pro-Choice California released its latest slate of endorsements, this time for 10 State Assembly candidates ..." READ MORE Editorial: Pellerin’s experience gives her the edge for state Assembly seat The Mercury News | May 12, 2022 "Pellerin, who has Stone’s endorsement, is energetic, possesses strong people skills and is widely known for her long-standing advocacy for more women in leadership roles..." READ MORE Gail Pellerin for Assembly District 28: We need an experienced, empathetic Santa Cruz leader — and a dog in Sacto Lookout Santa Cruz | May 12, 2022 "A voting-rights champion with experience in state and local government, she says she has the connections needed to make change happen..." READ MORE Santa Cruz County primary election 2022 guide Lookout Santa Cruz | April 27, 2022 "Election season is ramping up ahead of the statewide primary June 7.
 We know that untangling all the ballot information, positions up for election and deadlines can be a hassle to say the least.
-Luckily, Lookout has you covered."
-Primary Election Calendar for Santa Cruz County
-Lookout Santa Cruz | April 27, 2022
-"Election season is ramping up ahead of the statewide primary June 7.
+Luckily, Lookout has you covered." READ MORE Primary Election Calendar for Santa Cruz County Lookout Santa Cruz | April 27, 2022 "Election season is ramping up ahead of the statewide primary June 7.
 We know that untangling all the ballot information, positions up for election and deadlines can be a hassle to say the least.
-Luckily, Lookout has you covered."
-Filing in before the deadline: 28th Assembly candidates speak up
-Santa Cruz Sentinel | March 16, 2022
-"Pellerin, Santa Cruz County’s last clerk with a democratic party affiliation, announced her candidacy with a bang on Monday, boasting the endorsement of Stone himself."
-‘What about me?’: She wanted a Santa Cruz woman in Sacramento, so veteran politico Gail Pellerin called her own number
-Lookout Santa Cruz | March 13, 2022
-"That’s why the noted advocate for voting rights and mental health awareness is attempting to become the first area woman to ever earn an elected seat in state government."
-Former Santa Cruz County clerk Gail Pellerin announces Assembly run
-Santa Cruz Sentinel | March 14, 2022
-"The former county clerk launched a campaign website this weekend asking the community she served for nearly three decades to elect her as 28th District assembly member."
+Luckily, Lookout has you covered." READ MORE Gail Pellerin to receive Common Cause Democracy Heroes Award Common Cause | April 7, 2022 "Come celebrate Common Cause’s 50 years of fighting for a better democracy and learn up-to-date, inside information about the state of American democracy as we head into the 2022 elections." READ MORE Filing in before the deadline: 28th Assembly candidates speak up Santa Cruz Sentinel | March 16, 2022 "Pellerin, Santa Cruz County’s last clerk with a democratic party affiliation, announced her candidacy with a bang on Monday , boasting the endorsement of Stone himself." READ MORE Former Santa Cruz County Clerk Running For Assembly Patch Santa Cruz | March 16, 2022 "Former Santa Cruz County Clerk and Registrar of Voters Gail Pellerin will run for State Assembly as a Democrat, Pellerin announced Monday." READ MORE ‘What about me?’: She wanted a Santa Cruz woman in Sacramento, so veteran politico Gail Pellerin called her own number Lookout Santa Cruz | March 13, 2022 "That’s why the noted advocate for voting rights and mental health awareness is attempting to become the first area woman to ever earn an elected seat in state government." READ MORE Former Santa Cruz County clerk Gail Pellerin announces Assembly run Santa Cruz Sentinel | March 14, 2022 "The former county clerk launched a campaign website this weekend asking the community she served for nearly three decades to elect her as 28th District assembly member." READ MORE New entries to Calif.
+Assembly District 28 race as Mark Stone announces plans to retire KION 5/46 | March 12, 2022 "Gail Pellerin served as the chief election official for the last 27 years, navigating the elections office through the wildfires and pandemic in 2020." ​ READ MORE Former County Clerk Gail Pellerin Running for Assembly Good Times | March 15, 2022 "Former County Clerk Gail Pellerin is running for the 28th Assembly District in the upcoming June 7 primary after receiving the nod from Mark Stone." ​ READ MORE Last hurrah for the ‘head of democracy and love’: Gail Pellerin bids her adieu Lookout | December 22, 2020 "Like a grand opera or a well-scripted summer blockbuster, the final act of Gail Pellerin’s long career as Santa Cruz County Clerk was the most dramatic." READ MORE Voting On Wheels — New VoteMobile Cruises Through Santa Cruz County KAZU | October 28, 2020 "Like a grand opera or a well-scripted summer blockbuster, the final act of Gail Pellerin’s long career as Santa Cruz County Clerk was the most dramatic." READ MORE Secretary Of State, Santa Cruz County Clerk to Discuss Election Changes Security at Friday Event KAZU | October 28, 2020 "And election officials and voter-rights advocates are continuing to sound the alarm about risks to elections integrity posed by hacking, voter..." READ MORE PAID FOR and authorized BY GAIL PELLERIN FOR ASSEMBLY PO Box 4100, Santa Cruz CA, 95063 | ‪(408) 214-4521 ‬ | info@gailpellerinforassembly.com | FPPC ID#1476812 bottom of page

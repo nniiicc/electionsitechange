@@ -1,18 +1,70 @@
 [
-"https://bosformissouri.com/",
-"https://bosformissouri.com/contact",
-"https://bosformissouri.com/contribute",
-"https://bosformissouri.com/events",
-"https://bosformissouri.com/home",
-"https://bosformissouri.com/issues",
-"https://bosformissouri.com/issues/sample_issue",
-"https://bosformissouri.com/issues/small-farms-growth",
-"https://bosformissouri.com/meet_bradley",
-"https://bosformissouri.com/news",
-"https://bosformissouri.com/photos",
-"https://bosformissouri.com/view-endorsements",
-"https://bosformissouri.com/volunteer",
-"https://bosformissouri.com/vote",
-"https://bosformissouri.com/yard-sign",
-"https://campaignpartner.com/"
+{
+"text": "Contact",
+"href": "https://www.bosformissouri.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.bosformissouri.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bosformissouri.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bosformissouri.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.bosformissouri.com/"
+},
+{
+"text": "Home",
+"href": "https://www.bosformissouri.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.bosformissouri.com/issues"
+},
+{
+"text": "Meet Bradley",
+"href": "https://www.bosformissouri.com/meet_bradley"
+},
+{
+"text": "News",
+"href": "https://www.bosformissouri.com/news"
+},
+{
+"text": "Next: Small farms growth »",
+"href": "https://www.bosformissouri.com/issues/small-farms-growth"
+},
+{
+"text": "Photos",
+"href": "https://www.bosformissouri.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bosformissouri.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.bosformissouri.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.bosformissouri.com/yard-sign"
+},
+{
+"text": "[image: Bradley Bos State Representative]",
+"href": "https://www.bosformissouri.com/"
+},
+{
+"text": "« Previous: Education",
+"href": "https://www.bosformissouri.com/issues/sample_issue"
+}
 ]

@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.voteranjeev.com/veterans",
- "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 \u00a9 Copyright 2025",
- "title": "Supporting our Veterans \u2014 Vote Ranjeev",
- "years_mentioned": []
+ "fingerprint": "d78a0205fdd7a0d2fbf48ed07cc45a5c6f093bda",
+ "format": 3,
+ "paid_for_by": "Paid for by Friends of Ranjeev Puri PO Box 871007 Canton, MI 48187 © Copyright #",
+ "title": "Supporting our Veterans — Vote Ranjeev",
+ "years_mentioned": [
+  "2025"
+ ]
 }

@@ -1,4 +1,4 @@
-Meet Britney Tennant, Candidate for House District 11.
+top of page Home Meet Britney Get Involved Donate Meet Britney Tennant, Candidate for House District 11 .
 Britney Tennant is a 5th generation Wyomingite who has spent her life in Cheyenne.
 Britney understands what the best of Wyoming looks like.
 It’s communities helping and holding each other up, and public and private entities working together to ensure opportunity, health, and stability for working families.
@@ -21,3 +21,5 @@ She lives in the heart of House District 11 with Cameron, her partner Scott, and
 Wyoming is special—and I'll fight to keep it that way.
 Future generations deserve the same opportunities we've had, and Wyomingites have long asked for the solutions to make that possible.
 I promise to fight for them and to never lose sight of the belief that our best days are still ahead.
+PRIVACY POLICY | MEDIA INQUIRIES | DONATE | I WILL VOTE | ASK BRITNEY (307) 222-8157 If donating by mail, make checks payable to: Tennant for Wyoming P.O.
+Box 2262 Cheyenne, WY 82003 PAID FOR BY TENNANT FOR WYOMING bottom of page

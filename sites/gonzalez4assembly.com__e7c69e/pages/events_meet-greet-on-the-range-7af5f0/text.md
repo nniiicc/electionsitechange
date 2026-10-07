@@ -1,5 +1,3 @@
-Back to All Events
-Join Jeff Gonzalez for a “Meet & Greet on the Range.” Click for the flyer for more details on the event.
-Next
-Next
-August 3
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Back to All Events Meet & Greet "On the Range" Thursday, July 25, 2024 5:30 PM 7:30 PM Google Calendar ICS Join Jeff Gonzalez for a “Meet & Greet on the Range.” Click for the flyer for more details on the event.
+Next Next August 3 Campaign HQ Grand Opening MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

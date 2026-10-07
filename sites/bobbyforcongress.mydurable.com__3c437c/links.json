@@ -1,6 +1,26 @@
 [
-"https://bobbyforcongress.mydurable.com/",
-"https://bobbyforcongress.mydurable.com/donate",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "Bobby For Congress",
+"href": "https://bobbyforcongress.mydurable.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://bobbyforcongress.mydurable.com/donate"
+},
+{
+"text": "Learn More",
+"href": "https://bobbyforcongress.mydurable.com/"
+},
+{
+"text": "More info",
+"href": "https://bobbyforcongress.mydurable.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+}
 ]

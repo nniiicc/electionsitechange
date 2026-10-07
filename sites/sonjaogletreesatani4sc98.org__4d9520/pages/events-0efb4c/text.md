@@ -1,3 +1,3 @@
-Copyright © 2025 Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Together, Let's Move 98 Forward Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy More Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy Home Donate About Issues Sponsorships Volunteer Events Videos Privacy Policy Hello Welcome Join me and the Dorchester County Democratic Party at our upcoming events View Calendar Join Us!
+Volunteer to Help Make a Difference Click on the links below Volunteer to Phone Bank Volunteer to Canvass Copyright © # Sonja Ogletree Satani For SC House 98 - All Rights Reserved.
+Donate Privacy Policy

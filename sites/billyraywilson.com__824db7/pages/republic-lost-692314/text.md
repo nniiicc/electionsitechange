@@ -1,9 +1,8 @@
-Recently, while browsing the Internet, I came across a documentary titled “What if the US broke up in 2026?” Sadly, the documentary is video only without the ability to print the text.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Republic Lost / Blog Post / By Billy Ray Wilson Recently, while browsing the Internet, I came across a documentary titled “ What if the US broke up in 2026? ” Sadly, the documentary is video only without the ability to print the text.
 Believe it or not, this subject has been on my mind much of my lifetime due to my research on how European investors broke up Europe and other lands before coming to North America in the 1600s and, sadly, in the 1700s became the owners of the primary financial institutions in the future United States.
 The documentary begins by identifying the United States as large and powerful, under one flag, the Stars and Stripes, extending from the Atlantic to the Pacific Oceans, the Gulf of Mexico, and bordered by Mexico and Canada on the North American Continent.
 We are all Americans, but not all are citizens of the United States.
-Like President George Washington, I do not believe in “of America.”
-The documentary is quite timely in that it breaks down the United States into possibly nine states, with some of the new states having greater populations than some existing countries.
+Like President George Washington, I do not believe in “of America.” The documentary is quite timely in that it breaks down the United States into possibly nine states, with some of the new states having greater populations than some existing countries.
 Moreover, the narrator addressed the multiple regions of the United States with different customs and cultures, economic power, religion, and regional languages and traditions.
 It is a must-see video that addresses the reality of centuries-old ambitions by multiple investors to break up the United States and or make North America the same as the European Union.
 In approximately 920 BCE, Hebrews from Mesopotamia began their quest, like the offshoot religion “The Church of Latter-Day Saints (Mormons),” to gather followers for their new religion despite their declared goal of establishing one god instead of the many worshipped in Mesopotamia.
@@ -44,12 +43,12 @@ House of Representatives, I will strive to rekindle the vision of the United Sta
 In the United States, we have no masters.
 It is up to each individual to make their lives better or remain a ward of a socialist state.
 Thank you for allowing the transmittal of this communication.
-Post Script:
-Six a.m., February 28, 2026, NBC News reported that the United States armed forces just attacked the country of Iran without a Declaration of War or congressional approval.
+Post Script: Six a.m., February 28, 2026, NBC News reported that the United States armed forces just attacked the country of Iran without a Declaration of War or congressional approval.
 The State of Israel has launched a preemptive strike against Iran to remove threats against the State of Israel.
 So much for our country’s Constitutional Republic.
 Jews and Christian Nationalists now control the United States.
 And, of course, we have a convicted felon as President and political parties that care more about power than the preservation of the United States.
-BILLY RAY WILSON
-DEFENDER OF THE U.S.
-CONSTITUTION
+BILLY RAY WILSON DEFENDER OF THE U.S.
+CONSTITUTION ← Previous Post Next Post → Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

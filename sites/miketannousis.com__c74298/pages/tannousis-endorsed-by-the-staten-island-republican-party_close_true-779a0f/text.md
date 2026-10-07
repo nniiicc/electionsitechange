@@ -1,13 +1,11 @@
-The Clear Choice
-The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis in his bid to succeed fellow Republican Nicole Malliotakis as the representative from the 64th Assembly District (East Shore/Bay Ridge).
+Skip to Content Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE Endorsements Tannousis Endorsed by the Staten Island Republican Party by Team Tannousis on Jan 07, 2020 The Clear Choice The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis in his bid to succeed fellow Republican Nicole Malliotakis as the representative from the 64th Assembly District (East Shore/Bay Ridge).
 Tannousis was a prosecutor for seven years including three at the Richmond County District Attorney’s Office where he successfully tried major felony cases including the retrial of the Ramada Inn murder case.
 “Mike is the clear choice to succeed Nicole Malliotakis,” said SIGOP Chairman Brendan T.
 Lantry.
 “We need experienced candidates like Mike to fight against the radical progressive agenda that enacted the so-called bail reform among many other measures that compromised public safety in Staten Island and across New York State.
-As a former prosecutor, I know Mike has the tenacity and the knowledge to take on the Democrat majority in Albany.”
-Tannousis announced his entrance into the race in August and had also recently received the endorsement of the Staten Island and Brooklyn Conservative Parties.
+As a former prosecutor, I know Mike has the tenacity and the knowledge to take on the Democrat majority in Albany.” Tannousis announced his entrance into the race in August and had also recently received the endorsement of the Staten Island and Brooklyn Conservative Parties.
 The Executive’s Committee’s endorsement means he will have its seal of approval when the full County Committee is expected to vote in February.
 “I am incredibly grateful to Chairman Lantry and the SIGOP Executive Committee for their support,” said Mike Tannousis.
 “He and his team are doing so much to elect Republicans across the borough, and I am honored to carry their banner this year.
 One-party rule in Albany has been a disaster as we are seeing now that violent offenders are being released back onto the streets without bail.
-I promise to stand up for common sense, conservative values in the Assembly and be a voice for the needs of Staten Island and Brooklyn.”
+I promise to stand up for common sense, conservative values in the Assembly and be a voice for the needs of Staten Island and Brooklyn.” share NEXT ARTICLE Detectives’ Union Endorses Mike Tannousis for State Assembly PREVIOUS ARTICLE Mike Tannousis: 5 Reasons Why I’m Running Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

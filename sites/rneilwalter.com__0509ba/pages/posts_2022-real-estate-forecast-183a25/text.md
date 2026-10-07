@@ -1,4 +1,4 @@
-| Real estate markets in 2021 showed historic gains as prices soared on low inventory.
+UT 74 VOTE ABOUT Posts Experience Contact 2022 Real estate forecast 2/1/2022 Real estate markets in 2021 showed historic gains as prices soared on low inventory.
 Looking ahead, these six drivers will impact housing markets in 2022.
 Population Shifts The trend toward the south and the intermountain west accelerated as employers became more flexible with work-from-home options and higher-ed has expanded online learning.
 Migration that favored large urban centers with high concentrations of employment and education is now leaning toward recreation, tourism, and open space.
@@ -23,4 +23,4 @@ In 2022, wages, home values, and materials are all expected to rise.
 It is a challenging time for housing affordability.
 Conclusion While we won’t solve the affordability problem in 2022, we do know that over a lifetime, owning beats renting consistently.
 Long-term housing stability and closing the wealth gap in the United States both point to home ownership.
-For more information please visit https://erabrokers.com/research/ | |
+For more information please visit https://erabrokers.com/research/ Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

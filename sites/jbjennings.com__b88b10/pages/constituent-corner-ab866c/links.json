@@ -1,32 +1,174 @@
 [
-"https://baltimore-county-community-planning-bc-gis.hub.arcgis.com/pages/grant-opportunities",
-"https://baltimorecountymd.gov/departments/planning/masterplanning",
-"https://eastcountytimes.com/politics/jennings-no-superintendent-contracts-until-audit-is-updated",
-"https://facebook.com/senatorjennings",
-"https://instagram.com/senatorjbjennings",
-"https://jbjennings.com/",
-"https://jbjennings.com/aboutjb",
-"https://jbjennings.com/affordablehousing",
-"https://jbjennings.com/budget",
-"https://jbjennings.com/cart",
-"https://jbjennings.com/constituent-corner",
-"https://jbjennings.com/contact",
-"https://jbjennings.com/dayscove",
-"https://jbjennings.com/dda",
-"https://jbjennings.com/donations",
-"https://jbjennings.com/energy",
-"https://jbjennings.com/legislation-1",
-"https://jbjennings.com/md-150-eastern-blvd-safety-review-from-md-43-to-earls-rd",
-"https://jbjennings.com/midge-slidedeck",
-"https://jbjennings.com/oak-crest-trafficconcern",
-"https://jbjennings.com/perryhall250",
-"https://jbjennings.com/rockfieldmanor2026",
-"https://jbjennings.com/s/2025_MDOT_SHA-zwlz.pdf",
-"https://jbjennings.com/s/2026_CPCN9748_Appeal_JBJ.pdf",
-"https://jbjennings.com/services",
-"https://jbjennings.com/stateagencies",
-"https://lp.constantcontactpages.com/sl/N7jPfEv",
-"https://threads.com/@senatorjbjennings",
-"https://wypr.org/wypr-news/2025-12-17/days-cove-rubble-landfill-in-white-marsh-withdraws-bid-to-double-bird-river-discharge",
-"https://x.com/JBJenningsUSA"
+{
+"text": "0",
+"href": "https://www.jbjennings.com/cart"
+},
+{
+"text": "Baltimore County CTP Meeting",
+"href": "https://www.jbjennings.com/s/2025_MDOT_SHA-zwlz.pdf"
+},
+{
+"text": "Budget",
+"href": "https://www.jbjennings.com/budget"
+},
+{
+"text": "Chesapeake Bay Trust",
+"href": "https://www.linkedin.com/company/chesapeake-bay-trust/"
+},
+{
+"text": "Chesapeake Legal Alliance",
+"href": "https://www.linkedin.com/company/chesapeake-legal-alliance/"
+},
+{
+"text": "Constituent Corner",
+"href": "https://www.jbjennings.com/constituent-corner"
+},
+{
+"text": "Contact",
+"href": "https://www.jbjennings.com/contact"
+},
+{
+"text": "Days Cove MDE Permit",
+"href": "https://www.jbjennings.com/dayscove"
+},
+{
+"text": "Days Cove Rubble Landfill in White Marsh withdraws bid to double Bird River discharge | WYPR",
+"href": "https://www.wypr.org/wypr-news/2025-12-17/days-cove-rubble-landfill-in-white-marsh-withdraws-bid-to-double-bird-river-discharge"
+},
+{
+"text": "Deadline: May 1, 2026 at 3 p.m.",
+"href": "https://baltimore-county-community-planning-bc-gis.hub.arcgis.com/pages/grant-opportunities"
+},
+{
+"text": "Donate",
+"href": "https://www.jbjennings.com/donations"
+},
+{
+"text": "Energy Update",
+"href": "https://www.jbjennings.com/energy"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/senatorjennings/"
+},
+{
+"text": "Gunpowder RIVERKEEPER",
+"href": "https://www.linkedin.com/company/gunpowder-riverkeeper/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/senatorjbjennings/"
+},
+{
+"text": "JB.Jennings@senate.maryland.gov",
+"href": "mailto:JB.Jennings@senate.maryland.gov"
+},
+{
+"text": "Legislation",
+"href": "https://www.jbjennings.com/legislation-1"
+},
+{
+"text": "MDOT Slides",
+"href": "https://www.jbjennings.com/md-150-eastern-blvd-safety-review-from-md-43-to-earls-rd"
+},
+{
+"text": "Maryland Department of the Environment",
+"href": "https://www.linkedin.com/company/maryland-department-of-the-environment/"
+},
+{
+"text": "Maryland Office of the Attorney General",
+"href": "https://www.linkedin.com/company/maryand-office-of-the-attorney-general/"
+},
+{
+"text": "Master Plan 2030.",
+"href": "https://www.baltimorecountymd.gov/departments/planning/masterplanning"
+},
+{
+"text": "Meet J.B.",
+"href": "https://www.jbjennings.com/aboutjb"
+},
+{
+"text": "Midge Update",
+"href": "https://www.jbjennings.com/midge-slidedeck"
+},
+{
+"text": "More About the Meeting",
+"href": "https://app.indigov.com/pub/outreach/56124c84-1956-4d72-9171-3d4c41e353a6"
+},
+{
+"text": "Need to reach a local or state agency? Click here.",
+"href": "https://www.jbjennings.com/stateagencies"
+},
+{
+"text": "Newsletter",
+"href": "https://www.jbjennings.com/"
+},
+{
+"text": "Patrick DeArmey",
+"href": "https://www.linkedin.com/in/patrick-dearmey-06b8b43a/"
+},
+{
+"text": "Perry Hall 250",
+"href": "https://www.jbjennings.com/perryhall250"
+},
+{
+"text": "Presentation",
+"href": "https://www.jbjennings.com/oak-crest-trafficconcern"
+},
+{
+"text": "Read the Appeal Here",
+"href": "https://www.jbjennings.com/s/2026_CPCN9748_Appeal_JBJ.pdf"
+},
+{
+"text": "Read the Letter Here",
+"href": "https://www.jbjennings.com/dda"
+},
+{
+"text": "Read the Letter, Press Release, and Press Here",
+"href": "https://www.jbjennings.com/affordablehousing"
+},
+{
+"text": "Rockfield Manor",
+"href": "https://www.jbjennings.com/rockfieldmanor2026"
+},
+{
+"text": "Senate Bill 999",
+"href": "https://www.eastcountytimes.com/politics/jennings-no-superintendent-contracts-until-audit-is-updated/"
+},
+{
+"text": "Services",
+"href": "https://www.jbjennings.com/services"
+},
+{
+"text": "State of Maryland",
+"href": "https://www.linkedin.com/company/state-of-maryland/"
+},
+{
+"text": "Theaux Le Gardeur",
+"href": "https://www.linkedin.com/in/theaux-le-gardeur-63263627/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@senatorjbjennings"
+},
+{
+"text": "View the Letter Here",
+"href": "https://www.jbjennings.com/s/2026_Amtrak_Concern.pdf"
+},
+{
+"text": "X",
+"href": "https://x.com/JBJenningsUSA"
+},
+{
+"text": "[image: Senator J.B. Jennings]",
+"href": "https://www.jbjennings.com/"
+},
+{
+"text": "https://lnkd.in/gBJnCAiu",
+"href": "https://lnkd.in/gBJnCAiu"
+},
+{
+"text": "newsletter",
+"href": "https://lp.constantcontactpages.com/sl/N7jPfEv"
+}
 ]

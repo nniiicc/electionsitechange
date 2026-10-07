@@ -1,10 +1,2 @@
-Back to All Events
-Please join us for our FINAL fundraiser for Megan Coy at the Grindstone Taphouse on October 15th at 5:30PM
-Donate and RSVP here: https://secure.actblue.com/donate/10.1berea
-Previous
-Previous
-October 10
-North Royalton Canvass with Megan Coy and Courtney Scheff
-Next
-Next
-October 17
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Berea Fundraiser!
+Thursday, October 15, 2026 5:30 PM 6:30 PM Grindstone Taphouse 826 Front St Berea OH USA (map) Google Calendar ICS Please join us for our FINAL fundraiser for Megan Coy at the Grindstone Taphouse on October 15th at 5:30PM Donate and RSVP here: https://secure.actblue.com/donate/10.1berea Previous Previous October 10 North Royalton Canvass with Megan Coy and Courtney Scheff Next Next October 17 Berea Canvass with Megan Coy and Courtney Scheff Paid for by Friends of Megan Coy

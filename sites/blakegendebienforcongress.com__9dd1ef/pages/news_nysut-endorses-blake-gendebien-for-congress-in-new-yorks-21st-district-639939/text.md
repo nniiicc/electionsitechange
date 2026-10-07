@@ -1,20 +1,15 @@
-NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District
-August 19, 2026
-NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District
-LISBON, N.Y. — New York State United Teachers (NYSUT), the statewide union representing more than 600,000 teachers, school-related professionals, higher education faculty, and healthcare workers, today endorsed Blake Gendebien, the Democratic candidate for New York’s 21st Congressional District, in the November general election.
+Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate Meet Blake Issues News Get Involved Endorsements Media Yard Sign Store Donate NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District August 19, 2026 Press Release NYSUT Endorses Blake Gendebien for Congress in New York’s 21st District LISBON, N.Y. — New York State United Teachers (NYSUT), the statewide union representing more than 600,000 teachers, school-related professionals, higher education faculty, and healthcare workers, today endorsed Blake Gendebien, the Democratic candidate for New York’s 21st Congressional District, in the November general election.
 Public education has always been close to home for Gendebien.
 His mother was a public school teacher, and his father served as president of the local school board.
 Gendebien himself was later elected president of the Lisbon Central School Board, and he will be a champion for public education in Congress.
 “I’m the product of North Country public schools, and so are my kids,” said Gendebien.
 “I learned early on that New York has the best public schools in the country because of the people who show up every day to teach our kids, and I’m not going to let anyone in Washington shortchange them.
 As a former school board president, I know what our districts need: full funding, not vouchers or charter programs that take money away from the kids who need it most.
-This endorsement means a lot to me, and I’m going to fight for our teachers and our students the way they’ve always fought for our community.”
-“As a farmer, small business owner and neighbor, Blake Gendebien understands that strong public schools and strong communities go hand in hand,” said NYSUT President Melinda Person.
+This endorsement means a lot to me, and I’m going to fight for our teachers and our students the way they’ve always fought for our community.” “As a farmer, small business owner and neighbor, Blake Gendebien understands that strong public schools and strong communities go hand in hand,” said NYSUT President Melinda Person.
 “He has listened to educators and families across the North Country and understands what working families actually need.
-NYSUT is proud to endorse him for Congress and help send a strong voice for North Country communities to Washington.”
-Gendebien is running to represent New York’s 21st Congressional District, a seat that stretches across the North Country & Upstate NY and has emerged as one of the most competitive House races in the country this cycle.
-###
-Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+NYSUT is proud to endorse him for Congress and help send a strong voice for North Country communities to Washington.” Gendebien is running to represent New York’s 21st Congressional District, a seat that stretches across the North Country & Upstate NY and has emerged as one of the most competitive House races in the country this cycle.
+### Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
 Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
 For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
 He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.
+Donate Paid for by Blake for The North Country General Inquiries: info@blakeforny.com Press Inquiries: press@blakeforny.com Blake for The North Country PO Box 39, Lisbon, NY 13658 Privacy Policy Copyright © # ↑

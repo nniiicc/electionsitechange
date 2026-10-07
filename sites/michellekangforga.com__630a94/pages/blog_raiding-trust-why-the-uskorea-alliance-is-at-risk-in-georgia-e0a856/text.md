@@ -1,5 +1,4 @@
-Raiding Trust: Why the U.S.–Korea Alliance Is at Risk in Georgia
-A major federal raid in Georgia exposed deep flaws in U.S. immigration and labor policy.
+0 Skip to Content About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu About Michelle Meet Michelle What Michelle Stands For Endorsements Get Involved Get Involved Mobilize Dashboard Donate Voter Resources Media Events In the News Interviews Blog Podcast 2026 Campaign Connect English Donate Open Menu Close Menu Folder: About Michelle Back Meet Michelle What Michelle Stands For Endorsements Folder: Get Involved Back Get Involved Mobilize Dashboard Donate Voter Resources Folder: Media Back Events In the News Interviews Blog Podcast 2026 Campaign Connect English Back Donate Raiding Trust: Why the U.S.–Korea Alliance Is at Risk in Georgia Sep 11 Written By Michelle Kang A major federal raid in Georgia exposed deep flaws in U.S. immigration and labor policy.
 We need urgent visa reform to protect global partnerships and Georgia’s economic future.
 On September 4, U.S. immigration authorities carried out a large-scale raid at the Hyundai–LG Energy Solution joint battery plant construction site in Bryan County, Georgia.
 More than 450 people were detained, including over 300 South Koreans, with multiple federal agencies—ATF, ICE, FBI, DEA, HSI, and IRS - and Georgia State Patrol involved.
@@ -19,5 +18,10 @@ At the same time, I call on Korean companies to live up to their responsibility 
 They must adapt to U.S. business practices and regulations, ensuring strict compliance with worker protections, fair wages, benefits, compensation standards and environmental protection.
 The U.S. seeks to grow as a global hub for manufacturing, and the Trump administration has pressured foreign countries to invest through unprecedented tariffs and trade policies.
 But for long-term success, our relationship must be built on mutual respect, accountability, and shared prosperity.
-As your next state representative, I will serve as a watchdog for transparency, accountability, and fairness in how global business is conducted in Georgia—ensuring that both American workers and international partners thrive together.
-— Michelle Kang, Democratic Candidate for Georgia House District 99
+As your next state representative, I will serve as a watchdog for transparency, accountability, and fairness in how global business is conducted in Georgia—ensuring that both American workers and international partners thrive together. — Michelle Kang, Democratic Candidate for Georgia House District 99 Michelle Kang Previous Previous The First Amendment Is Under Attack and We Can’t Stay Silent!
+Next Next When Healthcare Becomes Personal: Why Medicaid Matters for Georgia Families Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Keep in Touch Sign up with your email address to receive news and updates.
+Email Address Sign Up We respect your privacy.
+Thank you!
+Donate contact Volunteer Checks payable to: Friends of Michelle Kang, Inc Send checks to: PO Box 3772, Suwanee, GA 30024 For press or media inquiries, please contact press@michellekangforga.com Website by Blum Creative Privacy Policy | Terms of Use

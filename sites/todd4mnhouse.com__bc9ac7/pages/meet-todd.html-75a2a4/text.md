@@ -1,8 +1,6 @@
-MEET TODD
-Todd was born and raised in southwestern Minnesota, in the Lakefield area.
+Home On the Issues Meet Todd Join Us DONATE TODAY MEET TODD Todd was born and raised in southwestern Minnesota, in the Lakefield area.
 He grew up as a farm boy and went to a rural Lutheran school until eighth grade.
-In Lakefield High School (now defunct), he was active in many student activities, including the Future Farmers of America (FFA).
-Todd attended college at the University of Minnesota on the Morris campus, graduating with a Bachelor of Arts in Physics and Computer Science.
+In Lakefield High School (now defunct), he was active in many student activities, including the Future Farmers of America (FFA). ﻿ Todd attended college at the University of Minnesota on the Morris campus, graduating with a Bachelor of Arts in Physics and Computer Science.
 After graduation, he married his high school sweetheart Kaye.
 He would later augment his education with an M.S. from Carlson School of Management in 2006.
 Todd and his wife moved into the local area in 1988, working as software engineers for electric utilities.
@@ -15,7 +13,5 @@ He applied to the New Hope Police Reserve program (a volunteer position) in 2007
 Todd has been active in local Republican politics for three decades.
 In 2004, he took over the treasurer position for Senate District 45 (predecessor to the current Senate District 43) and maintained that position for 18 years.
 In that time, he has been treasurer for several local campaigns, and also held other local leadership positions.
-LET'S TRY SOMETHING DIFFERENT
-Let's change the direction of Minnesota!
-Common sense and moderation in spending
-Let taxpayers keep more of their own earnings
+LET'S TRY SOMETHING DIFFERENT Let's change the direction of Minnesota!
+Common sense and moderation in spending Let taxpayers keep more of their own earnings DONATE GET INVOLVED Prepared and paid for by Hesemann Campaign Committee Address: 4709 Hillsboro Ave N, New Hope, MN 55428

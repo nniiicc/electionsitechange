@@ -1,22 +1,86 @@
 [
-"https://calendar.google.com/calendar/ical/c_987119db7968085a461aaf08205d3ec1dd9e5b601d1a91707cca338cf2820d3a%40group.calendar.google.com/public/basic.ics",
-"https://calendar.google.com/calendar/r?cid=c_987119db7968085a461aaf08205d3ec1dd9e5b601d1a91707cca338cf2820d3a%40group.calendar.google.com",
-"https://facebook.com/profile.php?id=61591201561117",
-"https://facebook.com/share/p/19VotzxFbK",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwilsonwv.com%2F%23events",
-"https://linkedin.com/in/s-marshall-wilson-bb8ba420",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Fwilsonwv.com%2F%23events",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=10",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=100",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=25",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=250",
-"https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=50",
-"https://wilsonwv.com/delegate-record.html",
-"https://wvgazettemail.com/coronavirus/lawmakers-file-petition-with-state-supreme-court-over-governors-actions-during-pandemic/article_009e51a9-70da-5bb3-8e48-e4e37f658448.html",
-"https://x.com/intent/tweet?text=Join+Marshall+Wilson+for+US+Senate+at+an+upcoming+campaign+event+in+West+Virginia%21&url=https%3A%2F%2Fwilsonwv.com%2F%23events&via=smarshallwilson",
-"https://x.com/smarshallwilson",
-"https://youtube.com/watch?v=sNRiU25UnYA"
+{
+"text": "$10",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0?amount=50"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/wilson-for-us-senate/6d531dd2-49db-4d06-bc4c-669fb2be53a0"
+},
+{
+"text": "Petition for Writ of Mandamus",
+"href": "https://www.wvgazettemail.com/coronavirus/lawmakers-file-petition-with-state-supreme-court-over-governors-actions-during-pandemic/article_009e51a9-70da-5bb3-8e48-e4e37f658448.html"
+},
+{
+"text": "Privacy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/profile.php?id=61591201561117"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwilsonwv.com%2F%23events"
+},
+{
+"text": "full delegate record",
+"href": "https://wilsonwv.com/delegate-record.html"
+},
+{
+"text": "in",
+"href": "https://www.linkedin.com/in/s-marshall-wilson-bb8ba420/"
+},
+{
+"text": "in Share on LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwilsonwv.com%2F%23events"
+},
+{
+"text": "▶ Watch the Full Forum →",
+"href": "https://www.youtube.com/watch?v=sNRiU25UnYA"
+},
+{
+"text": "▶ Watch the Interview →",
+"href": "https://www.facebook.com/share/p/19VotzxFbK/"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/smarshallwilson"
+},
+{
+"text": "𝕏 Share on X",
+"href": "https://x.com/intent/tweet?text=Join+Marshall+Wilson+for+US+Senate+at+an+upcoming+campaign+event+in+West+Virginia%21&url=https%3A%2F%2Fwilsonwv.com%2F%23events&via=smarshallwilson"
+},
+{
+"text": "📲 Add to Apple / Outlook Calendar",
+"href": "https://calendar.google.com/calendar/ical/c_987119db7968085a461aaf08205d3ec1dd9e5b601d1a91707cca338cf2820d3a%40group.calendar.google.com/public/basic.ics"
+},
+{
+"text": "🗓️ Add to Google Calendar",
+"href": "https://calendar.google.com/calendar/r?cid=c_987119db7968085a461aaf08205d3ec1dd9e5b601d1a91707cca338cf2820d3a%40group.calendar.google.com"
+}
 ]

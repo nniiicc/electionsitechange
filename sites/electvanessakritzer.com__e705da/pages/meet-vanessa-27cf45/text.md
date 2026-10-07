@@ -1,6 +1,4 @@
-MEET VANESSA
-About Vanessa Kritzer
-Vanessa Kritzer is running for State Representative after serving for nearly 7 years on the Redmond City Council, including the past several years as City Council President.
+0 Skip to Content Home Meet Vanessa Endorsements Priorities Get Involved Donate Open Menu Close Menu Home Meet Vanessa Endorsements Priorities Get Involved Donate Open Menu Close Menu Home Meet Vanessa Endorsements Priorities Get Involved Donate MEET VANESSA About Vanessa Kritzer Vanessa Kritzer is running for State Representative after serving for nearly 7 years on the Redmond City Council, including the past several years as City Council President.
 In her time on the Council, she has worked with leaders across the 45th legislative district to advance local policies that help our communities be more affordable, sustainable, and inclusive.
 Vanessa also serves as the Executive Director of the Washington Association of Land Trusts, which unites more than 35 conservation groups across the state to protect and steward our beautiful lands and waterways.
 She has lead advocacy efforts that have helped to protect thousands of acres of forest, maintain access to locally grown food, restore salmon habitat, increase access to trails and parks for everyone, and make our communities more resilient to climate change.
@@ -42,3 +40,4 @@ As we saw increasing threats to our immigrant communities from the Trump Adminis
 She has also taken action to protect our residents’ data privacy and constitutional rights at this challenging time.
 When she’s not change-making, Vanessa loves spending her free time taking her family out to play in parks and hike the trails near her home in Redmond and beyond.
 She also enjoys volunteering, supporting local art, and playing strategic board games.
+To contact the campaign call (425) 286-8683 or email us at info@electvanessakritzer.com PAID FOR BY: VOTE VANESSA KRITZER, PO BOX 106 KIRKLAND, WA 98083 Copyright © # Vote Vanessa Kritzer Privacy Policy

@@ -1,30 +1,154 @@
 [
-"https://docs.google.com/forms/d/1YE0uUQC3UXUNbWlw3xsDZ-ampfWLhf9bR_RV0497pCA/viewform?ts=629fa2aa&edit_requested=true",
-"https://facebook.com/votemorelle",
-"https://instagram.com/josephmorelle?hl=en",
-"https://secure.numeroinc.com/contribute/General-Joe-Morelle-for-Congress",
-"https://termsfeed.com/blog/cookies/%23What_Are_Cookies",
-"https://termsfeed.com/privacy-policy-generator",
-"https://twitter.com/votemorelle",
-"https://votemorelle.com/",
-"https://votemorelle.com/anti-corruption-and-democracy-reform",
-"https://votemorelle.com/combating-opioid-addiction",
-"https://votemorelle.com/common-sense-gun-reform",
-"https://votemorelle.com/early-voting",
-"https://votemorelle.com/expanding-access-to-higher-edu",
-"https://votemorelle.com/fighting-for-us",
-"https://votemorelle.com/fixing-healthcare",
-"https://votemorelle.com/honoring-our-veterans",
-"https://votemorelle.com/improving-k12-education",
-"https://votemorelle.com/jointheteam",
-"https://votemorelle.com/lgbtq-rights",
-"https://votemorelle.com/media",
-"https://votemorelle.com/meet-joe",
-"https://votemorelle.com/news",
-"https://votemorelle.com/privacy-policy",
-"https://votemorelle.com/protecting-aging-americans",
-"https://votemorelle.com/protecting-our-environment",
-"https://votemorelle.com/uplifting-families",
-"https://votemorelle.com/vote-by-mail",
-"https://votemorelle.com/womens-rights"
+{
+"text": "ABOUT JOE",
+"href": "https://www.votemorelle.com"
+},
+{
+"text": "ANTI-CORRUPTION AND DEMOCRACY REFORM",
+"href": "https://www.votemorelle.com/anti-corruption-and-democracy-reform"
+},
+{
+"text": "About Joe",
+"href": "https://www.votemorelle.com/meet-joe"
+},
+{
+"text": "COMBATING OPIOID ADDICTION",
+"href": "https://www.votemorelle.com/combating-opioid-addiction"
+},
+{
+"text": "COMBATING THE CLIMATE CRISIS",
+"href": "https://www.votemorelle.com/protecting-our-environment"
+},
+{
+"text": "COMMON SENSE GUN REFORM",
+"href": "https://www.votemorelle.com/common-sense-gun-reform"
+},
+{
+"text": "CONTACT",
+"href": "https://www.votemorelle.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.numeroinc.com/contribute/General-Joe-Morelle-for-Congress"
+},
+{
+"text": "EARLY VOTING GUIDE",
+"href": "https://www.votemorelle.com/early-voting"
+},
+{
+"text": "EXPANDING ACCESS TO HIGHER EDUCATION",
+"href": "https://www.votemorelle.com/expanding-access-to-higher-edu"
+},
+{
+"text": "Early Voting",
+"href": "https://www.votemorelle.com/early-voting"
+},
+{
+"text": "FIGHTING FOR US",
+"href": "https://www.votemorelle.com/fighting-for-us"
+},
+{
+"text": "FIXING HEALTH CARE",
+"href": "https://www.votemorelle.com/fixing-healthcare"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votemorelle/"
+},
+{
+"text": "HONORING OUR VETERANS",
+"href": "https://www.votemorelle.com/honoring-our-veterans"
+},
+{
+"text": "IMPROVING K-12 EDUCATION",
+"href": "https://www.votemorelle.com/improving-k12-education"
+},
+{
+"text": "INTERNSHIPS",
+"href": "https://docs.google.com/forms/d/1YE0uUQC3UXUNbWlw3xsDZ-ampfWLhf9bR_RV0497pCA/viewform?ts=629fa2aa&edit_requested=true"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/josephmorelle/?hl=en"
+},
+{
+"text": "JOIN THE TEAM",
+"href": "https://www.votemorelle.com/jointheteam"
+},
+{
+"text": "LGBTQ+ RIGHTS",
+"href": "https://www.votemorelle.com/lgbtq-rights"
+},
+{
+"text": "Media",
+"href": "https://www.votemorelle.com/media"
+},
+{
+"text": "News",
+"href": "https://www.votemorelle.com/news"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.votemorelle.com/privacy-policy"
+},
+{
+"text": "PROTECTING AGING AMERICANS",
+"href": "https://www.votemorelle.com/protecting-aging-americans"
+},
+{
+"text": "Privacy Policy Generator",
+"href": "https://www.termsfeed.com/privacy-policy-generator/"
+},
+{
+"text": "Protecting Our Environment",
+"href": "https://www.votemorelle.com/protecting-our-environment"
+},
+{
+"text": "TAKE ACTION",
+"href": "https://www.votemorelle.com"
+},
+{
+"text": "TermsFeed website",
+"href": "https://www.termsfeed.com/blog/cookies/%23What_Are_Cookies"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/votemorelle"
+},
+{
+"text": "UPLIFTING FAMILIES",
+"href": "https://www.votemorelle.com/uplifting-families"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://www.votemorelle.com/vote-by-mail"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votemorelle.com/jointheteam"
+},
+{
+"text": "WOMEN'S RIGHTS",
+"href": "https://www.votemorelle.com/womens-rights"
+},
+{
+"text": "[image: FB]",
+"href": "https://www.facebook.com/votemorelle/"
+},
+{
+"text": "[image: INSTAGRAM]",
+"href": "https://www.instagram.com/josephmorelle/?hl=en"
+},
+{
+"text": "[image: TWITTER]",
+"href": "https://twitter.com/votemorelle"
+},
+{
+"text": "[image: jmfc logo 2020.png]",
+"href": "https://www.votemorelle.com"
+},
+{
+"text": "info@votemorelle.com",
+"href": "mailto:info@votemorelle.com"
+}
 ]

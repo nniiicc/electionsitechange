@@ -1,8 +1,26 @@
 [
-"https://jillbillingsforassembly.com/",
-"https://jillbillingsforassembly.com/about",
-"https://jillbillingsforassembly.com/get-involved",
-"https://jillbillingsforassembly.com/issues",
-"https://jillbillingsforassembly.com/privacy-policy",
-"https://secure.actblue.com/donate/jill-billings-1"
+{
+"text": "About",
+"href": "https://www.jillbillingsforassembly.com/about"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jillbillingsforassembly.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.jillbillingsforassembly.com/issues"
+},
+{
+"text": "Make a Donation",
+"href": "https://secure.actblue.com/donate/jill-billings-1"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.jillbillingsforassembly.com/privacy-policy"
+},
+{
+"text": "[image: Billings-Final-Logo-web-2.jpg]",
+"href": "https://www.jillbillingsforassembly.com"
+}
 ]

@@ -1,17 +1,66 @@
 [
-"http://michaelformnsenate.com/",
-"https://facebook.com/MichaelForMN",
-"https://instagram.com/michaelkreun",
-"https://michaelformnsenate.com/",
-"https://michaelformnsenate.com/about",
-"https://michaelformnsenate.com/contact",
-"https://michaelformnsenate.com/contribute",
-"https://michaelformnsenate.com/endorsements",
-"https://michaelformnsenate.com/issues",
-"https://michaelformnsenate.com/media",
-"https://michaelformnsenate.com/privacy-policy",
-"https://michaelformnsenate.com/terms",
-"https://secure.winred.com/campaign-fund-of-michael-kreun/donate-today1?sc=winred-directory&money_bomb=false&recurring=false",
-"https://tiktok.com/@michaelkreun",
-"https://youtube.com/@michaelkreun"
+{
+"text": "About",
+"href": "https://www.michaelformnsenate.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.michaelformnsenate.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.michaelformnsenate.com/contribute"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/campaign-fund-of-michael-kreun/donate-today1?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Endorsements",
+"href": "https://www.michaelformnsenate.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.michaelformnsenate.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.michaelformnsenate.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.michaelformnsenate.com/privacy-policy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.michaelformnsenate.com/terms"
+},
+{
+"text": "Terms and Conditions.",
+"href": "https://www.michaelformnsenate.com/terms"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MichaelForMN"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/michaelkreun"
+},
+{
+"text": "[image: MKreun_Logo.jpg]",
+"href": "https://www.michaelformnsenate.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@michaelkreun"
+},
+{
+"text": "[image: YouTube]",
+"href": "https://www.youtube.com/@michaelkreun"
+},
+{
+"text": "www.MichaelForMNSenate.com",
+"href": "http://www.michaelformnsenate.com"
+}
 ]

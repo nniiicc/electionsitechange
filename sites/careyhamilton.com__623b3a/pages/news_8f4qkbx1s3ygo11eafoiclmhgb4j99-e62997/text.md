@@ -1,2 +1,3 @@
-Hamilton supports increasing teacher salaries (2020) Jul 1 Written By Carey Hamilton Hamilton supported an amendment to HB1007 to appropriate $186M to public schools to increase teacher salaries.
-Public Education Carey Hamilton
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Hamilton supports increasing teacher salaries (2020) Jul 1 Written By Carey Hamilton Hamilton supported an amendment to HB1007 to appropriate $186M to public schools to increase teacher salaries.
+Public Education Carey Hamilton Previous Previous Hamilton supports reasonable accommodations for pregnant employees (2020).
+Next Next Hamilton supports restoring funds to public schools (2020) Paid for and authorized by the Committee to Elect Carey Hamilton

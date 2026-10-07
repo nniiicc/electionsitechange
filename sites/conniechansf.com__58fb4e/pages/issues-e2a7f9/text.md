@@ -1,5 +1,4 @@
-Connie Chan's Working People's Plan
-Connie Chan has spent her career fighting for working people in San Francisco.
+Skip navigation menu Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Meet Connie Working People's Plan Get Involved Endorsements News Media Merch Store 關於陳詩敏 Español Donate Connie Chan's Working People's Plan Connie Chan has spent her career fighting for working people in San Francisco.
 And she has seen time and again how powerful special interests are able to rig the rules to benefit the wealthy and well-connected.
 Connie is a lifelong public servant.
 Her partner is a San Francisco firefighter.
@@ -17,7 +16,9 @@ Washington must stop mortgaging our future for the whims and wants of billionair
 Now, more than ever, is the time to fight for an America that puts working people first.
 Because, our country has always been strongest when we have fair rules for everyone, and everyone has a fair shot at success.
 As our Congressmember, Connie will fight to empower working families, support strong communities and economic opportunity, reform a broken tax and budget system, and restore the fundamental rights that make everything else possible.
-This plan is for the people of San Francisco and we want to hear from you.
+A PLAN FOR WORKING FAMILIES Learn More A PLAN FOR WORKING PEOPLE Learn More A PLAN FOR AFFORDABLE COMMUNITIES Learn More A PLAN TO RESTORE DEMOCRACY AND THE PROMISE OF AMERICA Learn More foreign policy Learn More This plan is for the people of San Francisco and we want to hear from you.
 Send us your suggestions, feedback and ideas - because your voice matters to our campaign.
 We want to thank the hundreds of neighbors, community members, labor, non-profit and small business leaders, policy experts and every day working people who inspired and contributed to this plan.
 Connie is running for Congress to be a voice for all of us.
+Privacy Policy campaign@conniechansf.com Connie Chan for Congress Office: 3043 24th St, San Francisco, CA 94110 Mailing: 912 Cole St #368, San Francisco, CA 94117 Privacy Policy & Terms of Service Connie Chan for Congress will not take money from corporate PACs, AIPAC or its lobbyists and representatives, the NRA or lobbyists and executives from pharma, PG&E, fossil fuel or tobacco companies.
+Paid for by Connie Chan for Congress You need to enable JavaScript to run this app.

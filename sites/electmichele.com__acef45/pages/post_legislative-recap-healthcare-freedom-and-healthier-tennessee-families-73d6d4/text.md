@@ -1,5 +1,6 @@
-Legislative Recap: Healthcare Freedom and Healthier Tennessee Families
-Tennessee families are paying more for prescriptions, waiting longer for care, and facing a system rigged in favor of the largest middlemen.
+top of page Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items.
+DONATE SUPPORT MICHELE'S FIGHT FOR CONSERVATIVE VALUES All Posts Search Legislative Recap: Healthcare Freedom and Healthier Tennessee Families Team Reneau Jun 14 2 min read Tennessee families are paying more for prescriptions, waiting longer for care, and facing a system rigged in favor of the largest middlemen.
 This session, the General Assembly took targeted, system-focused action to fix it.
 The FAIR Rx Act, HB 1959, is the most significant pharmacy reform Tennessee has passed in a generation.
 The Freedom, Access, and Integrity in Registered Pharmacy Act prohibits a single company from owning both a pharmacy and a pharmacy benefits manager, or both a pharmacy and a health insurer.
@@ -21,3 +22,5 @@ The legislature also banned kratom, also known as gas station heroin, with HB 16
 We directed $205 million to utilize Shared Savings for health care initiatives, including funding Rural Health Transformation Resiliency Grants, and provided $230 million to TennCare to cover increasing costs associated with medical inflation.
 Health care freedom is not a slogan.
 It is the principle that you, your family, and your doctor, not government and not corporate middlemen, should make the decisions that affect your body and your life, free from coercion, pressure, or manipulation.
+Recent Posts See All Citizen's Voices: A Digital Collection of Community Op-Eds Legislative Recap: Investments in Rural Tennessee and Hamilton County Legislative Recap: Protecting Women - The Riley Gaines Women's Safety and Protection Act © # Paid for by Friends to Elect Michele Reneau, Treasurer Laura Davis EMAIL MICHELE Terms of Use | Privacy Policy Meet Michele Issues News Join Team Michele More...
+Use tab to navigate through the menu items. bottom of page

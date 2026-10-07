@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://metzgerformissouri.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "4a6241a6b9b947bd9cb9846291c2a6371f50cda4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

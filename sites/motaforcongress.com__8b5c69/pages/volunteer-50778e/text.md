@@ -1,3 +1,2 @@
-Sign up to
-Get Involved
-You may be required by law to put a legal disclaimer here, if you intend to send text messages to people whose number you collect.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Sign up to Get Involved First Name First Name Last Name Last Name Email Email Phone Phone You may be required by law to put a legal disclaimer here, if you intend to send text messages to people whose number you collect.
+Submit hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

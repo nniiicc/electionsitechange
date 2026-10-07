@@ -1,52 +1,374 @@
 [
-"https://bonfire.com/store/andy-ellis-for-governor",
-"https://facebook.com/profile.php?id=100087765158737",
-"https://forms.gle/fQcpjtDTinWrcEWx5",
-"https://forms.gle/reX3fD7vTMC5SkhP8",
-"https://gogreen2026.com/",
-"https://gogreen2026.com/about-1",
-"https://gogreen2026.com/campaign-plan",
-"https://gogreen2026.com/cart",
-"https://gogreen2026.com/contact",
-"https://gogreen2026.com/donate",
-"https://gogreen2026.com/events",
-"https://gogreen2026.com/get-involved",
-"https://gogreen2026.com/issues-2",
-"https://gogreen2026.com/media",
-"https://gogreen2026.com/meet-andy",
-"https://gogreen2026.com/meet-owen",
-"https://gogreen2026.com/news",
-"https://gogreen2026.com/news/ban-data-center-statement",
-"https://gogreen2026.com/news/call-for-debate",
-"https://gogreen2026.com/news/data-center-ban-special-session",
-"https://gogreen2026.com/news/data-center-eo-statement",
-"https://gogreen2026.com/news/edu-platform-release",
-"https://gogreen2026.com/news/ellis-andrews-win-nomination",
-"https://gogreen2026.com/news/ellis-calls-for-data-center-debates",
-"https://gogreen2026.com/news/ellis-campaign-releases-mpt-records-showing-broadcaster-has-two-paths-to-a-four-candidate-debate-on-october-6",
-"https://gogreen2026.com/news/ellis-renews-call-for-data-center-ban",
-"https://gogreen2026.com/news/ellis-supreme-courts-data-center-ruling-proves-marylands-petition-process-is-broken-by-design",
-"https://gogreen2026.com/news/ellisandrews-campaign-announces-data-center-policy",
-"https://gogreen2026.com/news/ellisandrews-campaign-files-finance-report",
-"https://gogreen2026.com/news/june-23-avail",
-"https://gogreen2026.com/news/new-poll-shows-nine-percent-of-maryland-voters-undecided-in-2022-rematch-ellis-renews-call-for-four-candidate-debates",
-"https://gogreen2026.com/news/news-moore-on-surrounded",
-"https://gogreen2026.com/news/preakness-bad-bet",
-"https://gogreen2026.com/news/primary-results",
-"https://gogreen2026.com/news/public-broadcasting-commission-chairs-campaign-contributions-raise-questions-about-conflict-of-interests",
-"https://gogreen2026.com/news/statement-from-maryland-gubernatorial-candidate-andy-ellis-calls-for-open-debates-amidst-conflict-of-interest",
-"https://gogreen2026.com/news/taylor-frazier-mccollum-joins-campaign",
-"https://gogreen2026.com/news?offset=1773325672642",
-"https://gogreen2026.com/platform",
-"https://gogreen2026.com/press-kit",
-"https://gogreen2026.com/priorities",
-"https://gogreen2026.com/take-action",
-"https://gogreen2026.com/volunteer",
-"https://gogreen2026.com/why-we-are-running",
-"https://instagram.com/gogreenmd",
-"https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W",
-"https://twitter.com/gogreen2026",
-"https://youtube.com/@GoGreen2026",
-"https://youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5",
-"https://youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+{
+"text": "0",
+"href": "https://www.gogreen2026.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "Bumper Stickers",
+"href": "https://forms.gle/fQcpjtDTinWrcEWx5"
+},
+{
+"text": "Campaign Plan",
+"href": "https://www.gogreen2026.com/campaign-plan"
+},
+{
+"text": "Contact",
+"href": "https://www.gogreen2026.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.gogreen2026.com/donate"
+},
+{
+"text": "ELLIS CAMPAIGN RENEWS CALL FOR STATEWIDE DATA CENTER BAN",
+"href": "https://www.gogreen2026.com/news/ellis-renews-call-for-data-center-ban"
+},
+{
+"text": "Ellis Campaign Releases MPT Records Showing Broadcaster Has Two Paths to a Four-Candidate Debate on October 6",
+"href": "https://www.gogreen2026.com/news/ellis-campaign-releases-mpt-records-showing-broadcaster-has-two-paths-to-a-four-candidate-debate-on-october-6"
+},
+{
+"text": "Ellis Campaign Responds to Moore's \"Surrounded\" Appearance, Renews Call to Open Debates on Maryland Public Television",
+"href": "https://www.gogreen2026.com/news/news-moore-on-surrounded"
+},
+{
+"text": "Ellis Challenges Moore and Cox to Four-Candidate Data Center Debate After MACo Forum Excludes Half the Ballot",
+"href": "https://www.gogreen2026.com/news/ellis-calls-for-data-center-debates"
+},
+{
+"text": "Ellis/Andrews Campaign Announces Data Center Policy",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-announces-data-center-policy"
+},
+{
+"text": "Ellis/Andrews Campaign Files Finance Report",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-files-finance-report"
+},
+{
+"text": "Ellis/Andrews Campaign Releases Eight-Point Education Justice Platform",
+"href": "https://www.gogreen2026.com/news/edu-platform-release"
+},
+{
+"text": "Ellis: Preakness Snub Proves Maryland's Horse Racing Gamble Was a Losing Bet",
+"href": "https://www.gogreen2026.com/news/preakness-bad-bet"
+},
+{
+"text": "Ellis: Supreme Court's Data Center Ruling Proves Maryland's Petition Process Is Broken by Design",
+"href": "https://www.gogreen2026.com/news/ellis-supreme-courts-data-center-ruling-proves-marylands-petition-process-is-broken-by-design"
+},
+{
+"text": "Events",
+"href": "https://www.gogreen2026.com/events"
+},
+{
+"text": "Folder: About",
+"href": "https://www.gogreen2026.com/about-1"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.gogreen2026.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.gogreen2026.com/issues-2"
+},
+{
+"text": "Folder: Media",
+"href": "https://www.gogreen2026.com/media"
+},
+{
+"text": "Green Party Campaign Reacts to Primary Election Results",
+"href": "https://www.gogreen2026.com/news/primary-results"
+},
+{
+"text": "Green Party Candidate Andy Ellis Calls for Series of Gubernatorial Debates Featuring All Four Candidates on the November Ballot",
+"href": "https://www.gogreen2026.com/news/call-for-debate"
+},
+{
+"text": "Green Party Candidate for Governor Andy Ellis Calls on General Assembly to Stop New Data Centers in August Special Session",
+"href": "https://www.gogreen2026.com/news/data-center-ban-special-session"
+},
+{
+"text": "Home",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "It's Official: Ellis/Andrews Ticket Wins the Green Party Nomination for Governor and Lt. Governor",
+"href": "https://www.gogreen2026.com/news/ellis-andrews-win-nomination"
+},
+{
+"text": "It’s Time To Ban New Data Centers in Maryland",
+"href": "https://www.gogreen2026.com/news/ban-data-center-statement"
+},
+{
+"text": "Livestream",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt8u_rS0DwYJE_G0fqXRK_CM"
+},
+{
+"text": "Meet Andy",
+"href": "https://www.gogreen2026.com/meet-andy"
+},
+{
+"text": "Meet Owen",
+"href": "https://www.gogreen2026.com/meet-owen"
+},
+{
+"text": "Merchandise",
+"href": "https://www.bonfire.com/store/andy-ellis-for-governor/"
+},
+{
+"text": "New Poll Shows Nine Percent of Maryland Voters Undecided in 2022 Rematch; Ellis Renews Call for Four-Candidate Debates",
+"href": "https://www.gogreen2026.com/news/new-poll-shows-nine-percent-of-maryland-voters-undecided-in-2022-rematch-ellis-renews-call-for-four-candidate-debates"
+},
+{
+"text": "News",
+"href": "https://www.gogreen2026.com/news"
+},
+{
+"text": "Older Posts",
+"href": "https://www.gogreen2026.com/news?offset=1773325672642"
+},
+{
+"text": "PUBLIC BROADCASTING COMMISSION CHAIR’S CAMPAIGN CONTRIBUTIONS RAISE QUESTIONS ABOUT CONFLICT OF INTERESTS",
+"href": "https://www.gogreen2026.com/news/public-broadcasting-commission-chairs-campaign-contributions-raise-questions-about-conflict-of-interests"
+},
+{
+"text": "Platform",
+"href": "https://www.gogreen2026.com/platform"
+},
+{
+"text": "Podcast",
+"href": "https://www.youtube.com/playlist?list=PLImCTFA_6wt-i1kHB1V-XT9mVhXVibxD5"
+},
+{
+"text": "Press Kit",
+"href": "https://www.gogreen2026.com/press-kit"
+},
+{
+"text": "Priorities",
+"href": "https://www.gogreen2026.com/priorities"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ban-data-center-statement"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/call-for-debate"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/data-center-ban-special-session"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/data-center-eo-statement"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/edu-platform-release"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellis-andrews-win-nomination"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellis-calls-for-data-center-debates"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellis-campaign-releases-mpt-records-showing-broadcaster-has-two-paths-to-a-four-candidate-debate-on-october-6"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellis-renews-call-for-data-center-ban"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellis-supreme-courts-data-center-ruling-proves-marylands-petition-process-is-broken-by-design"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-announces-data-center-policy"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-files-finance-report"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/june-23-avail"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/new-poll-shows-nine-percent-of-maryland-voters-undecided-in-2022-rematch-ellis-renews-call-for-four-candidate-debates"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/news-moore-on-surrounded"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/preakness-bad-bet"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/primary-results"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/public-broadcasting-commission-chairs-campaign-contributions-raise-questions-about-conflict-of-interests"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/statement-from-maryland-gubernatorial-candidate-andy-ellis-calls-for-open-debates-amidst-conflict-of-interest"
+},
+{
+"text": "Read More",
+"href": "https://www.gogreen2026.com/news/taylor-frazier-mccollum-joins-campaign"
+},
+{
+"text": "STATEMENT FROM MARYLAND GUBERNATORIAL CANDIDATE ANDY ELLIS CALLS FOR OPEN DEBATES AMIDST CONFLICT OF INTEREST",
+"href": "https://www.gogreen2026.com/news/statement-from-maryland-gubernatorial-candidate-andy-ellis-calls-for-open-debates-amidst-conflict-of-interest"
+},
+{
+"text": "STATEMENT FROM MARYLAND GUBERNATORIAL CANDIDATE ANDY ELLIS RESPONDING TO GOVERNOR MOORE’S “EXECUTIVE ORDER”",
+"href": "https://www.gogreen2026.com/news/data-center-eo-statement"
+},
+{
+"text": "Shut Out of State-Run Primaries, Maryland Green Party to Hold Its Own Nominating Process in July",
+"href": "https://www.gogreen2026.com/news/june-23-avail"
+},
+{
+"text": "Take Action",
+"href": "https://www.gogreen2026.com/take-action"
+},
+{
+"text": "Taylor Frazier McCollum Joins Ellis/Andrews Campaign as Data Center Organizer",
+"href": "https://www.gogreen2026.com/news/taylor-frazier-mccollum-joins-campaign"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gogreen2026.com/volunteer"
+},
+{
+"text": "Why We Are Running",
+"href": "https://www.gogreen2026.com/why-we-are-running"
+},
+{
+"text": "Yard Signs",
+"href": "https://forms.gle/reX3fD7vTMC5SkhP8"
+},
+{
+"text": "[image: Andy Ellis For Governor 2026]",
+"href": "https://www.gogreen2026.com/"
+},
+{
+"text": "[image: ELLIS CAMPAIGN RENEWS CALL FOR STATEWIDE DATA CENTER BAN]",
+"href": "https://www.gogreen2026.com/news/ellis-renews-call-for-data-center-ban"
+},
+{
+"text": "[image: Ellis Campaign Releases MPT Records Showing Broadcaster Has Two Paths to a Four-Candidate Debate on October 6]",
+"href": "https://www.gogreen2026.com/news/ellis-campaign-releases-mpt-records-showing-broadcaster-has-two-paths-to-a-four-candidate-debate-on-october-6"
+},
+{
+"text": "[image: Ellis Campaign Responds to Moore's \"Surrounded\" Appearance, Renews Call to Open Debates on Maryland Public Television]",
+"href": "https://www.gogreen2026.com/news/news-moore-on-surrounded"
+},
+{
+"text": "[image: Ellis Challenges Moore and Cox to Four-Candidate Data Center Debate After MACo Forum Excludes Half the Ballot]",
+"href": "https://www.gogreen2026.com/news/ellis-calls-for-data-center-debates"
+},
+{
+"text": "[image: Ellis/Andrews Campaign Announces Data Center Policy]",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-announces-data-center-policy"
+},
+{
+"text": "[image: Ellis/Andrews Campaign Files Finance Report]",
+"href": "https://www.gogreen2026.com/news/ellisandrews-campaign-files-finance-report"
+},
+{
+"text": "[image: Ellis/Andrews Campaign Releases Eight-Point Education Justice Platform]",
+"href": "https://www.gogreen2026.com/news/edu-platform-release"
+},
+{
+"text": "[image: Ellis: Preakness Snub Proves Maryland's Horse Racing Gamble Was a Losing Bet]",
+"href": "https://www.gogreen2026.com/news/preakness-bad-bet"
+},
+{
+"text": "[image: Ellis: Supreme Court's Data Center Ruling Proves Maryland's Petition Process Is Broken by Design]",
+"href": "https://www.gogreen2026.com/news/ellis-supreme-courts-data-center-ruling-proves-marylands-petition-process-is-broken-by-design"
+},
+{
+"text": "[image: Green Party Campaign Reacts to Primary Election Results]",
+"href": "https://www.gogreen2026.com/news/primary-results"
+},
+{
+"text": "[image: Green Party Candidate Andy Ellis Calls for Series of Gubernatorial Debates Featuring All Four Candidates on the November Ballot]",
+"href": "https://www.gogreen2026.com/news/call-for-debate"
+},
+{
+"text": "[image: Green Party Candidate for Governor Andy Ellis Calls on General Assembly to Stop New Data Centers in August Special Session]",
+"href": "https://www.gogreen2026.com/news/data-center-ban-special-session"
+},
+{
+"text": "[image: It's Official: Ellis/Andrews Ticket Wins the Green Party Nomination for Governor and Lt. Governor]",
+"href": "https://www.gogreen2026.com/news/ellis-andrews-win-nomination"
+},
+{
+"text": "[image: It’s Time To Ban New Data Centers in Maryland]",
+"href": "https://www.gogreen2026.com/news/ban-data-center-statement"
+},
+{
+"text": "[image: New Poll Shows Nine Percent of Maryland Voters Undecided in 2022 Rematch; Ellis Renews Call for Four-Candidate Debates]",
+"href": "https://www.gogreen2026.com/news/new-poll-shows-nine-percent-of-maryland-voters-undecided-in-2022-rematch-ellis-renews-call-for-four-candidate-debates"
+},
+{
+"text": "[image: PUBLIC BROADCASTING COMMISSION CHAIR’S CAMPAIGN CONTRIBUTIONS RAISE QUESTIONS ABOUT CONFLICT OF INTERESTS]",
+"href": "https://www.gogreen2026.com/news/public-broadcasting-commission-chairs-campaign-contributions-raise-questions-about-conflict-of-interests"
+},
+{
+"text": "[image: STATEMENT FROM MARYLAND GUBERNATORIAL CANDIDATE ANDY ELLIS CALLS FOR OPEN DEBATES AMIDST CONFLICT OF INTEREST]",
+"href": "https://www.gogreen2026.com/news/statement-from-maryland-gubernatorial-candidate-andy-ellis-calls-for-open-debates-amidst-conflict-of-interest"
+},
+{
+"text": "[image: STATEMENT FROM MARYLAND GUBERNATORIAL CANDIDATE ANDY ELLIS RESPONDING TO GOVERNOR MOORE’S “EXECUTIVE ORDER”]",
+"href": "https://www.gogreen2026.com/news/data-center-eo-statement"
+},
+{
+"text": "[image: Shut Out of State-Run Primaries, Maryland Green Party to Hold Its Own Nominating Process in July]",
+"href": "https://www.gogreen2026.com/news/june-23-avail"
+},
+{
+"text": "[image: Taylor Frazier McCollum Joins Ellis/Andrews Campaign as Data Center Organizer]",
+"href": "https://www.gogreen2026.com/news/taylor-frazier-mccollum-joins-campaign"
+},
+{
+"text": "[no text]",
+"href": "https://open.spotify.com/show/2qN13BbzOAZSJkBr3IBM7W"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gogreen2026"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100087765158737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/gogreenmd/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GoGreen2026"
+},
+{
+"text": "andy@gogreen2026.com",
+"href": "mailto:andy@gogreen2026.com"
+}
 ]

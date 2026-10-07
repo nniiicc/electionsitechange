@@ -1,78 +1,306 @@
 [
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2017&act=227",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2017&act=294",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=148",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=289",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=352",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=528",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=550",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=1",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=189",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=2",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=358",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=481",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=++53&page=author",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=+157&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=+163&page=author",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=++43&page=author",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+101&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+292&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+305&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+399&page=author",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=++46&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+358&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+392&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+421&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+186&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+364&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+446&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+485&page=author",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+503&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+512&page=bill",
-"http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+515&page=bill",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2020&act=115",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2020&act=14",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=315",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=318",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=347",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=477",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=478",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=480",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=520",
-"https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=536",
-"https://arc-sos.state.al.us/ucp/L0884783.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L0884785.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L0899177.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L0925580.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L0931010.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L0932138.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1246949.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1249444.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1254854.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1271900.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1271901.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1271927.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1274795.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1274819.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1279219.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1285174.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1285182.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286147.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286157.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286162.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286165.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286185.AI1.pdf",
-"https://arc-sos.state.al.us/ucp/L1286195.AI1.pdf",
-"https://campaignpartner.com/",
-"https://clydechambliss.com/",
-"https://clydechambliss.com/about_clyde",
-"https://clydechambliss.com/contact",
-"https://clydechambliss.com/home",
-"https://clydechambliss.com/in-clydes-own-words",
-"https://clydechambliss.com/issues",
-"https://clydechambliss.com/legislation",
-"https://clydechambliss.com/news",
-"https://facebook.com/ClydeChambliss",
-"https://instagram.com/senator.clyde.chambliss?hl=en",
-"https://twitter.com/search?q=clyde_chambliss&src=typd"
+{
+"text": "(Act No. 2015-157)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=+157&page=bill"
+},
+{
+"text": "(Act No. 2015-163)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=+163&page=author"
+},
+{
+"text": "(Act No. 2015-53)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2015&act=++53&page=author"
+},
+{
+"text": "(Act No. 2016-101)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+101&page=bill"
+},
+{
+"text": "(Act No. 2016-292)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+292&page=bill"
+},
+{
+"text": "(Act No. 2016-305)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+305&page=bill"
+},
+{
+"text": "(Act No. 2016-399)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=+399&page=author"
+},
+{
+"text": "(Act No. 2016-43)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2016&act=++43&page=author"
+},
+{
+"text": "(Act No. 2017-227)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2017&act=227"
+},
+{
+"text": "(Act No. 2017-294)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2017&act=294"
+},
+{
+"text": "(Act No. 2017-358)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+358&page=bill"
+},
+{
+"text": "(Act No. 2017-392)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+392&page=bill"
+},
+{
+"text": "(Act No. 2017-421)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=+421&page=bill"
+},
+{
+"text": "(Act No. 2017-46)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2017&act=++46&page=bill"
+},
+{
+"text": "(Act No. 2018-148)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=148"
+},
+{
+"text": "(Act No. 2018-289)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=289"
+},
+{
+"text": "(Act No. 2018-352)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=352"
+},
+{
+"text": "(Act No. 2018-528)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=528"
+},
+{
+"text": "(Act No. 2018-550)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2018&act=550"
+},
+{
+"text": "(Act No. 2019-1)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=1"
+},
+{
+"text": "(Act No. 2019-186)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+186&page=bill"
+},
+{
+"text": "(Act No. 2019-189)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=189"
+},
+{
+"text": "(Act No. 2019-2)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=2"
+},
+{
+"text": "(Act No. 2019-364)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+364&page=bill"
+},
+{
+"text": "(Act No. 2019-481)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=481"
+},
+{
+"text": "(Act No. 2019-485)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+485&page=author"
+},
+{
+"text": "(Act No. 2019-503)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+503&page=bill"
+},
+{
+"text": "(Act No. 2019-512)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+512&page=bill"
+},
+{
+"text": "(Act No. 2019-515)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+515&page=bill"
+},
+{
+"text": "(Act No. 2020-115)",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2020&act=115"
+},
+{
+"text": "(Act No.2019-358)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2019&act=358"
+},
+{
+"text": "(Act. No 2019-446)",
+"href": "http://arc-sos.state.al.us/cgi/actdetail.mbr/detail?year=2019&act=+446&page=bill"
+},
+{
+"text": "About Clyde",
+"href": "https://www.clydechambliss.com/about_clyde"
+},
+{
+"text": "Act 2022-122",
+"href": "https://arc-sos.state.al.us/ucp/L0899177.AI1.pdf"
+},
+{
+"text": "Act 2022-287",
+"href": "https://arc-sos.state.al.us/ucp/L0925580.AI1.pdf"
+},
+{
+"text": "Act 2022-356",
+"href": "https://arc-sos.state.al.us/ucp/L0931010.AI1.pdf"
+},
+{
+"text": "Act 2022-409",
+"href": "https://arc-sos.state.al.us/ucp/L0932138.AI1.pdf"
+},
+{
+"text": "Act 2022-49",
+"href": "https://arc-sos.state.al.us/ucp/L0884785.AI1.pdf"
+},
+{
+"text": "Act 2022-50",
+"href": "https://arc-sos.state.al.us/ucp/L0884783.AI1.pdf"
+},
+{
+"text": "Act 2023-131",
+"href": "https://arc-sos.state.al.us/ucp/L1254854.AI1.pdf"
+},
+{
+"text": "Act 2023-310",
+"href": "https://arc-sos.state.al.us/ucp/L1271927.AI1.pdf"
+},
+{
+"text": "Act 2023-320",
+"href": "https://arc-sos.state.al.us/ucp/L1271900.AI1.pdf"
+},
+{
+"text": "Act 2023-321",
+"href": "https://arc-sos.state.al.us/ucp/L1271901.AI1.pdf"
+},
+{
+"text": "Act 2023-350",
+"href": "https://arc-sos.state.al.us/ucp/L1274819.AI1.pdf"
+},
+{
+"text": "Act 2023-364",
+"href": "https://arc-sos.state.al.us/ucp/L1274795.AI1.pdf"
+},
+{
+"text": "Act 2023-414",
+"href": "https://arc-sos.state.al.us/ucp/L1279219.AI1.pdf"
+},
+{
+"text": "Act 2023-477",
+"href": "https://arc-sos.state.al.us/ucp/L1285174.AI1.pdf"
+},
+{
+"text": "Act 2023-479",
+"href": "https://arc-sos.state.al.us/ucp/L1285182.AI1.pdf"
+},
+{
+"text": "Act 2023-516",
+"href": "https://arc-sos.state.al.us/ucp/L1286185.AI1.pdf"
+},
+{
+"text": "Act 2023-522",
+"href": "https://arc-sos.state.al.us/ucp/L1286162.AI1.pdf"
+},
+{
+"text": "Act 2023-528",
+"href": "https://arc-sos.state.al.us/ucp/L1286195.AI1.pdf"
+},
+{
+"text": "Act 2023-531",
+"href": "https://arc-sos.state.al.us/ucp/L1286157.AI1.pdf"
+},
+{
+"text": "Act 2023-534",
+"href": "https://arc-sos.state.al.us/ucp/L1286165.AI1.pdf"
+},
+{
+"text": "Act 2023-547",
+"href": "https://arc-sos.state.al.us/ucp/L1286147.AI1.pdf"
+},
+{
+"text": "Act 2023-73",
+"href": "https://arc-sos.state.al.us/ucp/L1246949.AI1.pdf"
+},
+{
+"text": "Act 2023-92",
+"href": "https://arc-sos.state.al.us/ucp/L1249444.AI1.pdf"
+},
+{
+"text": "Act No. 2020-14",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2020&act=14"
+},
+{
+"text": "Act No. 2021-315",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=315"
+},
+{
+"text": "Act No. 2021-318",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=318"
+},
+{
+"text": "Act No. 2021-347",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=347"
+},
+{
+"text": "Act No. 2021-477",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=477"
+},
+{
+"text": "Act No. 2021-478",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=478"
+},
+{
+"text": "Act No. 2021-480",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=480"
+},
+{
+"text": "Act No. 2021-520",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=520"
+},
+{
+"text": "Act No. 2021-536",
+"href": "https://arc-sos.state.al.us/cgi/actdetail.mbr/detail?page=act&year=2021&act=536"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.clydechambliss.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.clydechambliss.com/home"
+},
+{
+"text": "In Clyde's Own Words",
+"href": "https://www.clydechambliss.com/in-clydes-own-words"
+},
+{
+"text": "Legislation",
+"href": "https://www.clydechambliss.com/legislation"
+},
+{
+"text": "News",
+"href": "https://www.clydechambliss.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.clydechambliss.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.clydechambliss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/search?q=clyde_chambliss&src=typd"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ClydeChambliss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senator.clyde.chambliss/?hl=en"
+}
 ]

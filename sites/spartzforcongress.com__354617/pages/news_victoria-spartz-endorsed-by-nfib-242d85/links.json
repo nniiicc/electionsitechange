@@ -1,14 +1,66 @@
 [
-"https://facebook.com/spartzforcongress",
-"https://instagram.com/spartzforcongress",
-"https://spartzforcongress.com/",
-"https://spartzforcongress.com/about",
-"https://spartzforcongress.com/donate",
-"https://spartzforcongress.com/internships",
-"https://spartzforcongress.com/issues",
-"https://spartzforcongress.com/news",
-"https://spartzforcongress.com/news/spartz-endorsed-by-in-right-to-life",
-"https://spartzforcongress.com/news/why-is-jd-ford-lying",
-"https://spartzforcongress.com/privacy-policy",
-"https://spartzforcongress.com/volunteer"
+{
+"text": "About",
+"href": "https://www.spartzforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://www.spartzforcongress.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/spartzforcongress/"
+},
+{
+"text": "Home",
+"href": "https://www.spartzforcongress.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/spartzforcongress/"
+},
+{
+"text": "Internships",
+"href": "https://www.spartzforcongress.com/internships/"
+},
+{
+"text": "Issues",
+"href": "https://www.spartzforcongress.com/issues/"
+},
+{
+"text": "News",
+"href": "https://www.spartzforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.spartzforcongress.com/privacy-policy/"
+},
+{
+"text": "Spartz Endorsed by IN Right to Life",
+"href": "https://www.spartzforcongress.com/news/spartz-endorsed-by-in-right-to-life/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spartzforcongress.com/volunteer/"
+},
+{
+"text": "Why is J.D. Ford lying about Victoria Spartz",
+"href": "https://www.spartzforcongress.com/news/why-is-jd-ford-lying/"
+},
+{
+"text": "[image: Spartz for Congress white logo]",
+"href": "https://www.spartzforcongress.com"
+},
+{
+"text": "[image: Victoria Spartz logo]",
+"href": "https://www.spartzforcongress.com"
+},
+{
+"text": "info@spartzforcongress.com",
+"href": "mailto:info@spartzforcongress.com"
+},
+{
+"text": "info@spartzforcongress.com",
+"href": "mailto:info@spartzforcongress.com?subject=Email+Click"
+}
 ]

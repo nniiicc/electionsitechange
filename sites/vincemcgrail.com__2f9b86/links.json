@@ -1,15 +1,70 @@
 [
-"https://facebook.com/profile.php?id=61560676476228",
-"https://heyvictor.com/",
-"https://secure.actblue.com/donate/vincemcgrail",
-"https://secure.actblue.com/donate/vincemcgrail?amount=150",
-"https://secure.actblue.com/donate/vincemcgrail?amount=25",
-"https://secure.actblue.com/donate/vincemcgrail?amount=250",
-"https://secure.actblue.com/donate/vincemcgrail?amount=5",
-"https://secure.actblue.com/donate/vincemcgrail?amount=50",
-"https://vincemcgrail.com/",
-"https://vincemcgrail.com/accessibility-statement",
-"https://vincemcgrail.com/issues",
-"https://vincemcgrail.com/meet-vince",
-"https://vincemcgrail.com/volunteer"
+{
+"text": "$150",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount=150"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount=50"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://vincemcgrail.com/accessibility-statement/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@vincemcgrail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vincemcgrail"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount="
+},
+{
+"text": "Home",
+"href": "https://vincemcgrail.com/"
+},
+{
+"text": "Issues",
+"href": "https://vincemcgrail.com/issues/"
+},
+{
+"text": "Meet Vince",
+"href": "https://vincemcgrail.com/meet-vince/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/vincemcgrail?amount="
+},
+{
+"text": "Volunteer",
+"href": "https://vincemcgrail.com/volunteer/"
+},
+{
+"text": "[image: logo for Vince McGrail for Ohio House District 61] [image: logo for Vince McGrail for Ohio House District 61]",
+"href": "https://vincemcgrail.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61560676476228"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+}
 ]

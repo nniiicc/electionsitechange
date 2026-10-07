@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.grayforassembly.com/endorsements/",
- "paid_for_by": null,
+ "fingerprint": "a2ae0e3c87e5cdaf8575f95ae11a58619219cd2d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Latest News",
  "years_mentioned": [
-  "2022"
+  "2022",
+  "2032"
  ]
 }

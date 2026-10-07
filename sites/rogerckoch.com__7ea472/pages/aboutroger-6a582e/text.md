@@ -1,23 +1,23 @@
-Get to Know Koch
-“I tend to focus my energy on what I ‘CAN’ do versus what I ‘have’ done.” Koch uses his past experiences as building blocks to help those in need of assistance.
-Roger Koch
-Current Service
-As Veteran Integration Program Coordinator at Freeman/Ozark Center in Joplin, MO, Roger works daily to connect veterans with the resources and benefits they have earned.
+0 Skip to Content Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact Open Menu Close Menu Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact Open Menu Close Menu Home Sample Ballot Endorsements Meet & Greet Speech About Roger Contact Get to Know Koch “I tend to focus my energy on what I ‘CAN’ do versus what I ‘have’ done.” Koch uses his past experiences as building blocks to help those in need of assistance.
+Roger Koch Current Service As Veteran Integration Program Coordinator at Freeman/Ozark Center in Joplin, MO, Roger works daily to connect veterans with the resources and benefits they have earned.
 His passion for veteran benefits, overall mental health advocacy, and his refusal to accept financial cutbacks to our schools are some of his key points motivating him to seek change.
-Combat Veteran
-“I spent two decades serving this country, and I am not done serving,” said Koch.
+Combat Veteran “I spent two decades serving this country, and I am not done serving,” said Koch.
 “The people of District 162 deserve a representative who will stand up for veterans, fight for our children’s future, and make sure no one in these communities is left without being heard.
-I am your Republican Representative and represent is exactly what I intend to do!”
-Background & Achievements
-A proud 1984 graduate of Carl Junction High School and alumnus of Missouri Southern State University, Koch went on to serve two decades in the United States Army as a Combat Veteran before retiring.
+I am your Republican Representative and represent is exactly what I intend to do! ” Background & Achievements A proud 1984 graduate of Carl Junction High School and alumnus of Missouri Southern State University, Koch went on to serve two decades in the United States Army as a Combat Veteran before retiring.
 Following his military career, he dedicated himself to the next generation by teaching and coaching in Joplin Schools.
-- Named Missouri Mental Health Champion
-- Inducted into the Carl Junction Sports Wall of Fame
-- Inducted into the Missouri Sports Hall of Fame
-- Representative and Mentor for Jasper and Newton County Veterans Courts
-- Board member of Charlie 22 (local non-profit that serves Veterans and their Families)
-- Member of the Veterans of Foreign Wars (VFW)
-- Member of the Elks Lodge
-- Member of the Veterans Advisory Board
-- Past Carterville City Council member
-Roger and Jen Koch
+Named Missouri Mental Health Champion Inducted into the Carl Junction Sports Wall of Fame Inducted into the Missouri Sports Hall of Fame Representative and Mentor for Jasper and Newton County Veterans Courts Board member of Charlie 22 (local non-profit that serves Veterans and their Families) Member of the Veterans of Foreign Wars (VFW) Member of the Elks Lodge Member of the Veterans Advisory Board Past Carterville City Council member View fullsize View fullsize Roger and Jen Koch Election Day – Aug.
+4, 2026 Roger and Jen with results in hand at the Carthage, MO Courthouse Roger with his Mom Sharon Koch and sons Clayton and Brendan Family waiting patiently for the results to come in!
+Victory smiles all around!
+Brendan and Ashley and children greet Roger and Jen back at home after a great night!
+Roger with Clayton and Merrita greet Roger and Jen back home after the results are in!
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Roger’s Accomplishments Missouri Mental Health Champion Roger Koch, MO Mental Health Champion Show Me the Ozarks Magazine article Inducted into the Missouri Sports Hall of Fame Inducted into the Carl Junction Sports Wall of Fame Roger's Favorite Jacket!
+Roger, Part of the Elite 11 at Carl Junction HS Carl Junction's Roger Koch accepts the Elite 11 Award from MO Sports Hall of Fame Chairman Dan Nelson Our Elite 11 Award winners, left to right: Lamar's Laramie Todd, Evangel's Edward Sands, Glendale's Max Oeser, SBU's Kendrick Payne, Carl Junction's Roger Koch, Branson's Jeff Howard, Aurora's Charles Burbridge, Camdenton's Nick Bruck, Ozark's Sam Block, Missouri Southern's Joe Bettasso, and Webb City's Matt Berry.
+Oct.
+18, 2025 Honoring Roger Koch 🏈 From the Bulldog football field to service in the U.S. military, and now a career dedicated to helping veterans transition back into civilian life — your journey reflects true leadership, service, and excellence.
+Carl Junction Schools and the entire Bulldog community are proud to call you one of our own.
+(Carl Junction Bulldog Athletics) Proud Veteran Missouri Veterans Recognition United States Army Jen & Roger with his veteran's portrait Roger Koch - Veteran Candidate Filing Day Jen and Roger Koch at the State Capitol With Governor Mike Kehoe With Governor Mike Parson Roger has a new tractor!
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Slide 15 Slide 15 (current slide) Slide 16 Slide 16 (current slide) Slide 17 Slide 17 (current slide) Slide 18 Slide 18 (current slide) Slide 19 Slide 19 (current slide) Slide 20 Slide 20 (current slide) Roger and Jen, proud parents of four sons and daughters-in-law and grandparents to nine grandchildren!
+With Roger's Mom Sharon who is also a Carl Junction High graduate and former CJ School employee!
+Chief!
+Roger and Jen's precious pet Chief!
+Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) Slide 7 Slide 7 (current slide) Slide 8 Slide 8 (current slide) Slide 9 Slide 9 (current slide) Slide 10 Slide 10 (current slide) Slide 11 Slide 11 (current slide) Slide 12 Slide 12 (current slide) Slide 13 Slide 13 (current slide) Slide 14 Slide 14 (current slide) Slide 15 Slide 15 (current slide) Slide 16 Slide 16 (current slide) Slide 17 Slide 17 (current slide) Slide 18 Slide 18 (current slide) Slide 19 Slide 19 (current slide) Slide 20 Slide 20 (current slide) Slide 21 Slide 21 (current slide) Slide 22 Slide 22 (current slide) Slide 23 Slide 23 (current slide) Slide 24 Slide 24 (current slide) We celebrated our Grandson Hudson during the Freeman Walk for Autism, April 18th, with the “Hudson’s Autism World Tour Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) rogerckoch.com © # Paid for by Roger Koch for Missouri State Representative, Merrita Bailey, Treasurer rogerkoch.staterepresentative@gmail.com

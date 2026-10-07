@@ -1,5 +1,4 @@
-About Nick
-Nick Pachota is a father, grandfather, first responder and small business owner who currently serves as the conservative Mayor of Venice.
+Skip to content DONATE TODAY About Nick Nick Pachota is a father, grandfather, first responder and small business owner who currently serves as the conservative Mayor of Venice.
 During his time as Mayor Nick earned a reputation for being a Republican leader who puts citizens first by cutting taxes, supporting local law enforcement, firefighters and paramedics, standing up to developers and special interests, and working to protect the cultural institutions that make our community special.
 For Nick, government service is a continuation of his lifelong commitment to serving others.
 Growing up in the hospitality industry, Nick regularly picked up shifts at the family restaurant, serving fresh Florida seafood to neighbors and visitors alike.
@@ -16,3 +15,11 @@ Protecting the right to life, banishing political and social agendas from our li
 Nick and his wife Kate live in Venice and have two grown daughters.
 Nick is a graduate of Cardinal Mooney High School and is a co-owner of the Venice Pier Group, which includes Sharky’s on the Pier, Fins at Sharky’s, Snook Haven, Siesta Beach Eats on Siesta Key, and The Nest at Bay Park in Sarasota.
 Nick has been an adjunct instructor for Sarasota County Public Schools, primarily based in North Port, for over a decade working in the Emergency Medical Services education program.
+DONATE TODAY Join Nick’s Team " * " indicates required fields How to Join Host a gathering Place a sign at home and/or office Send an email to friends & family Post a message of support on social media Display a window cling on vehicle First Name * Last Name Email * Phone Number Consent * Sign up for text updates!
+By participating, you agree to the terms & privacy policy for recurring autodialed campaign & donation messages from Nick Pachota Campaign to the phone number you provide.
+Donations may be solicited by text.
+No consent required to buy.
+Msg & data rates may apply.
+Message frequency may vary.
+Text STOP to stop receiving messages.
+Text HELP for support. * SUBMIT Paid by Nick Pachota, Republican, for State House, District 74.

@@ -1,6 +1,8 @@
-STATE HOUSE — Sen.
+Skip to content Skip to footer Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact donate Posted January 13, 2025 Press Release: Sen.
+Vargas sworn in as General Assembly convenes Home Meet Lammis Endorsements Platform Volunteer In the News 2025 Recap Contact STATE HOUSE — Sen.
 Lammis J.
-Vargas (D-Dist. 28, Cranston, Providence) was formally sworn into office today as the 2025-2026 term of the Rhode Island General Assembly convened.
+Vargas (D-Dist.
+28, Cranston, Providence) was formally sworn into office today as the 2025-2026 term of the Rhode Island General Assembly convened.
 Senator Vargas will serve as a member of the Senate Finance Committee and as secretary of the Environment and Agriculture Committee.
 She is also expected to be named as a member of a new Senate Committee on Artificial Intelligence and Emerging Technologies.
 The Finance Committee handles all matters relating to revenue, appropriations and taxes.
@@ -15,3 +17,6 @@ She works as the chief administrative officer for the city of Somerville, Mass.,
 A cancer survivor and daughter of immigrants from Colombia, Senator Vargas is a lifelong Rhode Islander who grew up in Central Falls.
 She holds a bachelor’s degree in justice studies from Rhode Island College.
 Senator Vargas lives in Cranston with her husband, who is an Army Reserve veteran, and their two children.
+You May Also Like Posted November 7, 2024 Lammis Vargas Becomes Senator-Elect From District 28 Posted October 3, 2024 Vargas and team reopen Edgewood Highland Playground Vote for strong, progressive leadership in the RI State House and an advocate who will fight for your health, housing, safety, environment, and education.
+#teamlammis Facebook Instagram X-twitter Get Involved Meet Lammis Endorsements Platform Volunteer Contribute Contact Stay Tuned for Updates I have read and agree to the terms & conditions Leave this field empty if you're human: Copyright ©️ # Friends of Lammis J.
+Vargas | All Rights Reserved | Website Development & Design by J&R Marketing | Privacy Policy

@@ -1,4 +1,6 @@
-| Leadership in Action Leadership is about action above words.
+Home Legislation About News & Events Contact Thank you for any amount.
+Menu Home Legislation About News & Events Contact Thank you for any amount.
+Voter Information Register and find a polling place Volunteer Won't you consider helping us Leadership in Action Leadership is about action above words.
 For legislators, it is about introducing, moving, and passing bills.
 Simply being in the room is not enough.
 I am running for state representative because we need someone who will move bills forward and create laws on the issues that matter most to us.
@@ -7,35 +9,20 @@ Most of my bill ideas come from people in our district who have offered great so
 We figure it out and work together to see what we can done either with state agencies or through legislation.
 I have crafted policy and collaborated with other legislators to protect the most vulnerable members of our society--from infants and foster kids to sexual assault victims.
 I authored and helped shepherd over 100 bills into public law over my 10-year tenure.
-Among them were initiatives to bring more money to the classroom and money for the South Shore Expansion Projects. | |
-That work was born of many conversations with you and my own passion
-to lift up our community and our entire state.
-You can rely on me to listen
-to you thoughtfully, work hard to represent you in Indianapolis, and
-come home with tangible results.
-2026 Endorsements:
-1.
-Hoosiers for Quality Education
-2.
-Indiana Chamber of Commerce
-3.
-Indiana Professional Fire Fighters
-4.
-Indiana Right to Life
-5.
-Indiana State Police Alliance
-6.
-Iron Workers Local 395
-7.
-NFIB: National Federation of Independent Business
-8.
-Northern Indiana Building & Construction Trades Council
-9.
-Operating Engineers Local 100
-Julie Olthoff
-9309 Clay St.
-Crown Point, IN 46307
-219-730-8356
-votersforjulie@gmail.com
+Among them were initiatives to bring more money to the classroom and money for the South Shore Expansion Projects.
+That work was born of many conversations with you and my own passion to lift up our community and our entire state.
+You can rely on me to listen to you thoughtfully, work hard to represent you in Indianapolis, and come home with tangible results .
+2026 Endorsements: 1.
+Hoosiers for Quality Education 2.
+Indiana Chamber of Commerce 3.
+Indiana Professional Fire Fighters 4.
+Indiana Right to Life 5.
+Indiana State Police Alliance 6.
+Iron Workers Local 395 7.
+NFIB: National Federation of Independent Business 8.
+Northern Indiana Building & Construction Trades Council 9.
+Operating Engineers Local 100 State* Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District Of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Contact Julie Olthoff 9309 Clay St.
+Crown Point, IN 46307 219-730-8356 votersforjulie@gmail.com Julie Olthoff is the Republican candidate for Indiana State Representative District 19, which consists of Crown Point, Winfield, Porter County side of Lakes of Four Seasons, parts of Merrillville and most of Hobart.
+SITE MAP Home Legislation About News © # Voters for Julie Olthoff.
 All rights reserved.
 Paid for by Voters for Julie Olthoff

@@ -1,7 +1,22 @@
 [
-"https://castroforcongress.com/privacy-policy",
-"https://facebook.com/JoaquinCastroTX",
-"https://instagram.com/joaquincastrotx",
-"https://secure.actblue.com/donate/jc4",
-"https://x.com/JoaquinCastrotx"
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/jc4"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoaquinCastroTX/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/joaquincastrotx"
+},
+{
+"text": "Privacy",
+"href": "https://castroforcongress.com/privacy-policy/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/JoaquinCastrotx"
+}
 ]

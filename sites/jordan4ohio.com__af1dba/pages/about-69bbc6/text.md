@@ -1,5 +1,4 @@
-About Jordan
-My name is Jordan Haire and I am running for Ohio State Rep for the 47th District.
+0 Skip to Content About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now Open Menu Close Menu About Jordan Issues 47th District Donate Now About Jordan My name is Jordan Haire and I am running for Ohio State Rep for the 47th District.
 As a mental health counselor for the last 13 years, and in listening to and working with hundreds of different people one thing is clear: the systems that were meant to support us are failing us, over and over again.
 The current political climate is focused on division-red vs blue-when in reality it is going to take all of us to come together and overhaul the system that has become misguided and harmful.
 I was raised right here, in Fairfield and Ross, attending Hamilton Badin High School, and grew up in the Catholic Church.
@@ -13,3 +12,4 @@ I don’t want my community to see increased utilities costs, increased stress t
 Add this issue on top of rising health insurance costs, rising prices, and rising property taxes.
 Within a week of expressing my concerns and digging deeper into the problem I found a solution: run for office and advocate for our community in Columbus.
 As your state representative, I pledge to listen to every voter interested in my race, and even those who might oppose me, to represent the interest of all Ohioans.
+Get Involved Donate Jordan 4 Ohio Paid for by Friends of Jordan Haire Made with Squarespace

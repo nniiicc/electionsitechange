@@ -1,12 +1,42 @@
 [
-"http://iapn.org/",
-"https://facebook.com/wix",
-"https://iapn.org/platform",
-"https://iapn.org/projects-6-1",
-"https://instagram.com/wix",
-"https://janinehansen.com/contact",
-"https://janinehansen.com/resume",
-"https://linkedin.com/company/wix-com",
-"https://nevadafamilies.org/",
-"https://twitter.com/wix"
+{
+"text": "BIOGRAPHY",
+"href": "https://www.janinehansen.com/resume"
+},
+{
+"text": "CONTACT",
+"href": "https://www.janinehansen.com/contact"
+},
+{
+"text": "Independent American Party of Nevada",
+"href": "http://www.iapn.org/"
+},
+{
+"text": "Nevada Families for Freedom",
+"href": "https://www.nevadafamilies.org/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/company/wix-com"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "https://www.iapn.org/platform",
+"href": "https://www.iapn.org/platform"
+},
+{
+"text": "https://www.iapn.org/projects-6-1",
+"href": "https://www.iapn.org/projects-6-1"
+}
 ]

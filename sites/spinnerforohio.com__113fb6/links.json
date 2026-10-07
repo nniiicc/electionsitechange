@@ -1,12 +1,58 @@
 [
-"https://facebook.com/share/1CwAAEA33h",
-"https://instagram.com/spinnerforohio?igsh=MXZodGxwbWFmd3c4Yg%3D%3D",
-"https://secure.actblue.com/donate/spinnerforohio",
-"https://spinnerforohio.com/",
-"https://spinnerforohio.com/about",
-"https://spinnerforohio.com/endorsements",
-"https://spinnerforohio.com/team-1",
-"https://spinnerforohio.com/the-bee",
-"https://wix.com/",
-"https://youtube.com/@spinnerforohio"
+{
+"text": "About",
+"href": "https://www.spinnerforohio.com/about"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/spinnerforohio"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spinnerforohio"
+},
+{
+"text": "Endorsements",
+"href": "https://www.spinnerforohio.com/endorsements"
+},
+{
+"text": "Full List of Endorsements",
+"href": "https://www.spinnerforohio.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.spinnerforohio.com"
+},
+{
+"text": "Issues",
+"href": "https://www.spinnerforohio.com/team-1"
+},
+{
+"text": "J. Noah Spinner for Ohio State Representative",
+"href": "https://www.spinnerforohio.com"
+},
+{
+"text": "SpinnerForOhio@gmail.com",
+"href": "mailto:SpinnerForOhio@gmail.com"
+},
+{
+"text": "The \"Bee\"",
+"href": "https://www.spinnerforohio.com/the-bee"
+},
+{
+"text": "Wix",
+"href": "https://www.wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1CwAAEA33h/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/spinnerforohio?igsh=MXZodGxwbWFmd3c4Yg%3D%3D"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@spinnerforohio"
+}
 ]

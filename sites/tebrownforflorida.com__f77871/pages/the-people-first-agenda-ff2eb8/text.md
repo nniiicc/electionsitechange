@@ -1,9 +1,7 @@
-The People First Agenda
-Putting People Before Politics.
+Skip to content Meet Te Brown Issues Policies Career Center Volunteer Donate Open main menu Donate Home Meet Te Brown Issues Policies Career Center Volunteer Donate Instagram Facebook X The People First Agenda Putting People Before Politics.
 Delivering Results That Matter.
 A bold agenda focused on lowering the cost of living, making housing and childcare more affordable, protecting seniors and veterans, creating jobs, protecting the healthcare system, strengthening communities, and putting families first.
-The People First Agenda
-1.
+The People First Agenda 1.
 Affordability & Homeownership — Lower the barriers to buying a home, build more affordable housing, and address the cost of living.
 2.
 Healthcare That Works — Increase transparency, lower prescription and healthcare costs, and protect patients from unnecessary costs.
@@ -18,10 +16,8 @@ Safe & Strong Communities — Support law enforcement, address crime, and make c
 7.
 Education & Opportunity — Expand educational choices and make sure children have pathways to careers, trades, college, or entrepreneurship.
 8.
-Accountability in Washington — Make government live within its means, eliminate waste, and demand measurable results
-“I’m Listening.
-I’m Ready to Act.”
-Your concerns are not just messages—they’re the issues I intend to fight to address.
+Accountability in Washington — Make government live within its means, eliminate waste, and demand measurable results “I’m Listening.
+I’m Ready to Act.” Your concerns are not just messages—they’re the issues I intend to fight to address.
 Send me your concerns, ideas, and priorities.
 Together, we can build a People’s First Agenda that delivers results.
-Email me your concerns and ideas at info@tmbrownforcongress.com
+Email me your concerns and ideas at info@tmbrownforcongress.com Get Email Updates Subscribe Home Meet Te Brown Issues Policies Events Volunteer Donate Paid for by Te Brown for Congress 20200 West Dixie Highway Suite 902, Aventura, FL, 33180 Email: info@tmbrownforcongress.com Phone: 305-930-4802

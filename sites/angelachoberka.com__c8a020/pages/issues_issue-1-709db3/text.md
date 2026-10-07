@@ -1,12 +1,1 @@
-AN AFFORDABLE ECONOMY
-Protect Workers’ Rights
-- Eliminate Utah’s “Right to Work” policy
-- Allow collaborative and collective bargaining
-Lower Costs
-- Remove the state sales tax on food
-- Create smart, locally-focused housing policy to make homeownership affordable
-- Fully fund and protect SNAP benefits for low-income families
-Expand Healthcare Access
-- Fully fund Medicaid services
-- Keep politicians out of the examination room
-- Advocate for universal healthcare
+Skip navigation menu Meet Angela Issues Get Involved Events Contact Donate Issues Meet Angela Issues Get Involved Events Contact Donate Issues AN AFFORDABLE ECONOMY STRONGER COMMUNITIES A THRIVING ENVIRONMENT AN AFFORDABLE ECONOMY Protect Workers’ Rights Eliminate Utah’s “Right to Work” policy Allow collaborative and collective bargaining Lower Costs Remove the state sales tax on food Create smart, locally-focused housing policy to make homeownership affordable Fully fund and protect SNAP benefits for low-income families Expand Healthcare Access Fully fund Medicaid services Keep politicians out of the examination room Advocate for universal healthcare Privacy Policy angela@angelachoberka.com Powered by RUN! website builder Paid for by the Committee to Elect Angela Choberka You need to enable JavaScript to run this app.

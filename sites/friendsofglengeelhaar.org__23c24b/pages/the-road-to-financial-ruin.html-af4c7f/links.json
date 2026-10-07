@@ -1,7 +1,42 @@
 [
-"https://friendsofglengeelhaar.org/",
-"https://friendsofglengeelhaar.org/blog-index.php",
-"https://friendsofglengeelhaar.org/events.html",
-"https://friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=ecm"
+{
+"text": "Maryland Taxpayer Cost Tracker",
+"href": "https://www.friendsofglengeelhaar.org/maryland-taxpayer-cost-tracker.html"
+},
+{
+"text": "[image]",
+"href": "https://www.friendsofglengeelhaar.org/"
+},
+{
+"text": "about",
+"href": "https://www.friendsofglengeelhaar.org/#meetglen"
+},
+{
+"text": "back",
+"href": "https://www.friendsofglengeelhaar.org/blog-index.php"
+},
+{
+"text": "blog",
+"href": "https://www.friendsofglengeelhaar.org/blog-index.php"
+},
+{
+"text": "contact",
+"href": "https://www.friendsofglengeelhaar.org/#contact"
+},
+{
+"text": "endorsements",
+"href": "https://www.friendsofglengeelhaar.org/#endorsements"
+},
+{
+"text": "events",
+"href": "https://www.friendsofglengeelhaar.org/events.html"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=ecm"
+},
+{
+"text": "issues",
+"href": "https://www.friendsofglengeelhaar.org/#issues"
+}
 ]

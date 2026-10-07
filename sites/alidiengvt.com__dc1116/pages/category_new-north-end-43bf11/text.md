@@ -1,6 +1,15 @@
-Happy Spring
-Dear Neighbors, Happy Spring!
+Menu Ali Dieng For Vermont House of Representatives – Chittenden 18 Primary Menu Skip to content Home Our Priorities Donate Get Involved Blog Media Search Search for: New North End Happy Spring Posted on March 24, 2021 Dear Neighbors, Happy Spring!
 I hope that you are enjoying these beautiful sunny days.
 Let’s also stay mindful that we are still under a state of emergency, requiring masking and distancing, especially as the variant has been detected in Burlington.
 I hope that many people have received their Covid vaccines or will soon.
-Let’s stay Read More …
+Let’s stay Read More … Categories New North End Bike Lane Proposal Posted on May 28, 2020 January 6, 2021 Hello Neighbors, The New North End City Councilors Paulino, Carpenter and Dieng have been in communication with members of the Burlington Walk/Bike Council & Local Motion, an organization working to build quality of life by encouraging walking and biking, about their proposal to the City of Burlington that is primarily intended to achieve two objectives: Read More … Categories Ali , New North End COVID-19 Message Posted on March 31, 2020 January 6, 2021 The impact of this outbreak cannot be seen or felt fully as of yet but we have to stay positive and hopeful by continuing the level of support and by stepping up to lend a hand in any way we can.
+Read More … Categories Ali , New North End Social Empathy for the Underprivileged Posted on February 16, 2020 January 6, 2021 The City has prioritized equity reports over the past couple of years and has allocated enough resources for the gathering, design, and distribution of such reports.
+Let’s ask ourselves, who is better off having access to such a report?
+How does it affect the quality of life of our residents?
+How did it ensure the Read More … Categories Ali , New North End Franklin Square Update Posted on January 30, 2020 January 6, 2021 Since 1961 the Burlington Housing Authority (BHA) has been providing vital services around housing affordability, Rental Assistance and low income property maintenance for many towns in Chittenden County.
+Tonight, Franklin Square residents were extremely happy to learn from both the City of Burlington’s Department of Public Works (DPW) and BHA about the process and timeline Read More … Categories Ali , New North End Street Updates and Dog Park Discussion Posted on September 12, 2019 January 6, 2021 As an employee of the BSD, I witness every single day much love, dedication and quality care from teachers, administrators, staff, volunteers and community partners in delivering top notch education of the 21st century and multiple pathways for excellence.
+I wanted to take the time today to provide some updates specific to some issues in the New North End, Ward 7 in particular.
+Read More … Categories Ali , New North End Post navigation ← Older posts DONATE I am running for the Vermont House of Representitives - Chittenden 18.
+Please consider making a donation to help our campaign.
+Search for: RESOLUTION Parks Arts and Cutlure Committee To Create A Dog Task Force Priorities Donate Volunteer Media ©# Ali Dieng, All rights reserved.
+Website hosting by Champlain Hosting Scroll Up Home Our Priorities Donate Get Involved Blog Media

@@ -1,7 +1,9 @@
 {
  "description": "Upcoming events you won't want to miss!",
  "final_url": "https://electwaynecockrell.org/events/",
- "paid_for_by": null,
+ "fingerprint": "8c22e12b29c80e0a1db753b866c4f8e4acab8d04",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | Elect Wayne Cockrell",
  "years_mentioned": []
 }

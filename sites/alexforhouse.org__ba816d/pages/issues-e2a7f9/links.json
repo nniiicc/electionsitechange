@@ -1,13 +1,102 @@
 [
-"https://alexforhouse.org/",
-"https://alexforhouse.org/endorsements",
-"https://alexforhouse.org/issues",
-"https://alexforhouse.org/media",
-"https://alexforhouse.org/meetalex",
-"https://alexforhouse.org/volunteer",
-"https://alexforhouse.org/vote-early",
-"https://facebook.com/alexforhouse",
-"https://instagram.com/alexfalconrt",
-"https://secure.actblue.com/donate/alexforhouse",
-"https://twitter.com/alexfalconrt"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/alexforhouse"
+},
+{
+"text": "Economy & Labor",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Economy & Labor",
+"href": "https://www.alexforhouse.org/issues#economy"
+},
+{
+"text": "Education",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Education",
+"href": "https://www.alexforhouse.org/issues#education"
+},
+{
+"text": "Endorsements",
+"href": "https://www.alexforhouse.org/endorsements"
+},
+{
+"text": "Environment",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Environment",
+"href": "https://www.alexforhouse.org/issues#environment"
+},
+{
+"text": "Equal Rights",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Equal Rights",
+"href": "https://www.alexforhouse.org/issues#equal-rights"
+},
+{
+"text": "Healthcare",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Healthcare",
+"href": "https://www.alexforhouse.org/issues#healthcare"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforhouse.org/meetalex"
+},
+{
+"text": "Public Safety",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "Public Safety",
+"href": "https://www.alexforhouse.org/issues#public-safety"
+},
+{
+"text": "The Issues",
+"href": "https://www.alexforhouse.org/issues"
+},
+{
+"text": "VOTE EARLY",
+"href": "https://www.alexforhouse.org/vote-early"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexforhouse.org/volunteer"
+},
+{
+"text": "[image: 24 x 36 sign png small.jpg]",
+"href": "https://www.alexforhouse.org"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/alexforhouse"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/alexfalconrt/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/alexfalconrt"
+},
+{
+"text": "[no text]",
+"href": "https://www.alexforhouse.org/media"
+},
+{
+"text": "alexforhouse@gmail.com",
+"href": "mailto:alexforhouse@gmail.com"
+}
 ]

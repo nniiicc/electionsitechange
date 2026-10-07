@@ -1,5 +1,4 @@
-Duck River Update
-As we experience historic drought conditions in Hickman and Lewis Counties, it is clear that this issue cannot be ignored.
+0 Skip to Content Home News About Issues The District Join Us Donate Open Menu Close Menu Open Menu Close Menu Home News About Issues The District Join Us Donate Home News About Issues The District Join Us Donate Mark Cavers 9/9/24 Mark Cavers 9/9/24 Duck River Update As we experience historic drought conditions in Hickman and Lewis Counties, it is clear that this issue cannot be ignored.
 We must demand immediate action to ensure that the Duck River and her tributaries remain healthy and vibrant long after we are gone.
 Middle Tennessee continues to experience significant residential and industrial growth, creating more opportunities for our residents to build better lives.
 While we enjoy a slower pace and quieter life in Dickson, Hickman and Lewis Counties, the impact of this rapid growth is still felt indirectly in our communities.
@@ -14,8 +13,8 @@ We must demand immediate action to ensure that the Duck River and her tributarie
 Farmers from Shady Grove to Only and all points in between depend on us to protect and preserve their way of life as fervently and aggressively as we promote and recruit new industry and economic growth.
 I am committed to being part of the solution—working with our state’s leaders and local communities to ensure the preservation of Duck River for generations to come.
 Together, we can protect what makes Middle Tennessee special while fostering sustainable growth.
-You can read more about my efforts here and here.
+You can read more about my efforts here and here .
 I will keep you updated as we push forward with this important work, and I encourage you to share your thoughts and concerns by emailing me at jodybarrettfortn@gmail.com or visiting my Facebook page.
-Sincerely,
-Jody Barrett
-State Representative, 69th District
+Sincerely, Jody Barrett State Representative, 69th District Read More Privacy Policy and Terms of Use Copyright # Jody Barrett for State Representative.
+All Rights Reserved.
+Paid for by Jody Barrett for State Representative Jane Ellen Tomlinson, Treasurer

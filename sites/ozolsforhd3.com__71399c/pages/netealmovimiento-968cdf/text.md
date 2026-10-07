@@ -1,0 +1,7 @@
+top of page Home About Me/My Story Issues Ballot Guide Join the Movement Events Endorsements Press Clips Español Asuntos Mi Historia Únete al Movimiento Donate Únete al Movimiento Impulsada por la gente, alimentada por miembros de la comunidad que se preocupan profundamente por construir un mejor futuro para el Distrito 3.
+Escribir Postales Recoge un paquete, escribe algunas notas personales a tus vecinos sobre por qué apoyas a Gena, y entrégalas antes de la fecha límite.
+Toma tan solo 30 minutos.
+Organizar una Reunión en Casa Reúne a tus vecinos en tu casa para que puedan conocer a Gena Ozols, hacer preguntas y aprender sobre el gobierno local.
+Hacer Campaña por Gena Únete a un lanzamiento de campaña puerta a puerta o a una sesión semanal, recibe una capacitación rápida, y toca puertas con un compañero para hablar con los votantes.
+Llamadas Telefónicas Haz llamadas a votantes usando un guion que te proporcionamos, desde donde te sea más conveniente.
+Nombre * Apellido Correo electrónico * Teléfono * Me interesa * Tocar Puertas Escribir postales Hacer campaña por Gena Llamadas telefónicas Organizar una reunión en casa Submit I want to hear from you Email: O zolsForHd3@gmail.com Phone: ‪(720) 739-0985‬ PO Box 1878 Englewood, CO 80110 Stay Updated Get campaign news & event updates * Join I want to subscribe to your mailing list. * Connect Donate Paid for by Gena for HD3: Agent Emily Mahoney bottom of page

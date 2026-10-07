@@ -1,7 +1,5 @@
-The Illusion of Fiscal Responsibility: A Call for Republican Accountability in Property Tax Escalation
-Rep.
-Eleana Colby, Merrimack District 9
-In its unwavering commitment to serving the interests of the wealthy, the New Hampshire GOP has abandoned its constituents.
+0 Skip to Content About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign The Illusion of Fiscal Responsibility: A Call for Republican Accountability in Property Tax Escalation Rep.
+Eleana Colby, Merrimack District 9 In its unwavering commitment to serving the interests of the wealthy, the New Hampshire GOP has abandoned its constituents.
 The State of New Hampshire’s budget crisis is an entirely self-inflicted wound, created by repeated and purposeful fiscal mismanagement of the Republican controlled Legislature and Governor.
 Over a period of eight years, the State reduced the business profits tax five times and the business enterprise tax four times for an estimated loss of $1 billion in revenue.
 More than three-quarters of these taxes are paid by only 2% of all business taxpayers, all large corporations.
@@ -35,3 +33,4 @@ These direct revenue reductions contradict claims that there will be no impact o
 The false assertion that municipalities and school districts are “spending like drunken sailors” with “runaway budgets” serves only as a scapegoat for Republican lawmakers who must be held accountable for their long history of financial mismanagement.
 We deserve a budget that genuinely meets the needs of our community without compromising our health, safety, or education.
 It’s time for the wealthiest to contribute their fair share instead of depending on handouts from everyday, hardworking Granite Staters.
+Paid for by Colby For NH 2025

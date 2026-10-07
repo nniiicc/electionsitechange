@@ -1,10 +1,38 @@
 [
-"https://electtimmerrick.com/",
-"https://electtimmerrick.com/endorsements",
-"https://electtimmerrick.com/events",
-"https://electtimmerrick.com/volunteer",
-"https://facebook.com/ElectTimMerrick",
-"https://instagram.com/electtimmerrick",
-"https://secure.actblue.com/donate/timfornc-website",
-"https://x.com/electtimmerrick"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/timfornc-website"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://electtimmerrick.com/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://electtimmerrick.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ElectTimMerrick"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/electtimmerrick/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/electtimmerrick"
+},
+{
+"text": "PLATFORM",
+"href": "https://electtimmerrick.com/#stand"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://electtimmerrick.com/volunteer/"
+},
+{
+"text": "[image: Elect Tim Merrick]",
+"href": "https://electtimmerrick.com/"
+}
 ]

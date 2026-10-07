@@ -1,7 +1,9 @@
 {
  "description": "Watch a new video message from James Julius, candidate for Pennsylvania State Representative in House District 45.",
  "final_url": "https://www.james4pa.com/a",
- "paid_for_by": null,
+ "fingerprint": "f845083739aa5c66b8427c1a092c722565abe281",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Watch: A New Message from James Julius | PA District 45",
  "years_mentioned": []
 }

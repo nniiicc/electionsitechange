@@ -1,78 +1,322 @@
 [
-"https://988lifeline.org/",
-"https://agrilifeextension.tamu.edu/",
-"https://agrilifeextension.tamu.edu/counties/lubbock-county",
-"https://burrows4tx.com/",
-"https://burrows4tx.com/about",
-"https://burrows4tx.com/house-district-83-2",
-"https://burrows4tx.com/issues",
-"https://burrows4tx.com/latest-news",
-"https://burrows4tx.com/volunteer",
-"https://co.borden.tx.us/page/Emergency.Management",
-"https://comptroller.texas.gov/",
-"https://comptroller.texas.gov/taxes/property-tax/exemptions",
-"https://comptroller.texas.gov/taxes/property-tax/exemptions/local-gov-relief.php",
-"https://d24-h.tamu.edu/",
-"https://depts.ttu.edu/mvp",
-"https://depts.ttu.edu/scholarships",
-"https://dps.texas.gov/",
-"https://drivetexas.org/",
-"https://glo.texas.gov/veterans/veterans-cemeteries/lubbock",
-"https://gov.texas.gov/business/page/small-business",
-"https://guides.sll.texas.gov/consumer-protection",
-"https://hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-seniors-aging",
-"https://highered.texas.gov/",
-"https://lubbockcad.org/",
-"https://lubbockcad.org/Portals/0/online%20homestead%20application%20filing_1.pdf",
-"https://lubbockcad.org/forms",
-"https://lubbockcad.org/protest-information",
-"https://lubbockeda.org/u-s-small-business-administration",
-"https://lubbocksbdc.org/",
-"https://lubbocksheriff.com/emergency-management",
-"https://mealsonwheelstexas.org/",
-"https://member.everbridge.net/453003085616484/login",
-"https://mylubbock.us/230/New-Business-Resources",
-"https://mylubbock.us/277/Emergency-Management",
-"https://occc.texas.gov/consumers",
-"https://report.iwatchtx.org/iwatchtexas",
-"https://sba.gov/district/west-texas",
-"https://sboe.texas.gov/",
-"https://secure.winred.com/burrows-for-texas/website",
-"https://southplainscollege.edu/",
-"https://spcaa.org/",
-"https://tcfp.texas.gov/fire-department-by-region",
-"https://tdem.texas.gov/",
-"https://tdem.texas.gov/recovery/resources-for-texas-citizens",
-"https://tdem.texas.gov/regions/region-1",
-"https://tea.texas.gov/",
-"https://tea.texas.gov/texas-schools/general-information/school-district-locator",
-"https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx",
-"https://texas.gov/public-safety/cyber-safety-corner",
-"https://texasadvocacyproject.org/",
-"https://texasagriculture.gov/",
-"https://texasagriculture.gov/Grants-Services/Rural-Economic-Development/State-Office-of-Rural-Health/Rural-Health-Programs",
-"https://texasagriculture.gov/grantsservices.aspx",
-"https://texasattorneygeneral.gov/",
-"https://texasattorneygeneral.gov/consumer-protection",
-"https://texasattorneygeneral.gov/crime-victims",
-"https://texasattorneygeneral.gov/human-trafficking-section",
-"https://texasready.gov/",
-"https://tfsweb.tamu.edu/",
-"https://tfsweb.tamu.edu/elibrary-item/ready-set-go-your-personal-wildfire-action-plan",
-"https://tfsweb.tamu.edu/wildfire-and-other-disasters/burn-bans-and-information/fire-danger",
-"https://tfsweb.tamu.edu/wildfire-and-other-disasters/communities-prevention-and-preparedness",
-"https://trs.texas.gov/",
-"https://trs.texas.gov/pension-benefits",
-"https://ttu.edu/",
-"https://ttuhsc.edu/",
-"https://ttuhsc.edu/rural-affairs/rural-health/default.aspx",
-"https://tvc.texas.gov/",
-"https://tvc.texas.gov/claims",
-"https://tvc.texas.gov/claims/family-survivors",
-"https://twc.texas.gov/",
-"https://twdb.texas.gov/publications/shells/doc/Droughtresources.pdf",
-"https://txcc.texas.gov/",
-"https://txssc.txstate.edu/",
-"https://weather.gov/lub",
-"https://wtc.edu/"
+{
+"text": "(806) 795-0635",
+"href": "tel:(806)%20795-0635"
+},
+{
+"text": "988 Suicide & Crisis Lifeline",
+"href": "https://988lifeline.org/"
+},
+{
+"text": "About",
+"href": "https://burrows4tx.com/about/"
+},
+{
+"text": "AskTED online Texas education directory",
+"href": "https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx"
+},
+{
+"text": "Borden County Emergency Management Coordinator",
+"href": "https://www.co.borden.tx.us/page/Emergency.Management"
+},
+{
+"text": "City of Lubbock New Business Resources",
+"href": "https://www.mylubbock.us/230/New-Business-Resources"
+},
+{
+"text": "City of Lubbock Office of Emergency Management",
+"href": "https://www.mylubbock.us/277/Emergency-Management"
+},
+{
+"text": "Claims Department",
+"href": "https://tvc.texas.gov/claims/"
+},
+{
+"text": "Community Prevention & Preparedness",
+"href": "https://tfsweb.tamu.edu/wildfire-and-other-disasters/communities-prevention-and-preparedness/"
+},
+{
+"text": "Crime Victims’ Services",
+"href": "https://www.texasattorneygeneral.gov/crime-victims"
+},
+{
+"text": "Cyber Safety Corner",
+"href": "https://www.texas.gov/public-safety/cyber-safety-corner/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/burrows-for-texas/website"
+},
+{
+"text": "Drive Texas",
+"href": "https://drivetexas.org/"
+},
+{
+"text": "Family & Survivors",
+"href": "https://tvc.texas.gov/claims/family-survivors/"
+},
+{
+"text": "Financing & Capital for Small Businesses, West Texas District",
+"href": "https://www.sba.gov/district/west-texas"
+},
+{
+"text": "Fire Danger",
+"href": "https://tfsweb.tamu.edu/wildfire-and-other-disasters/burn-bans-and-information/fire-danger/"
+},
+{
+"text": "Fire Departments by Region",
+"href": "https://www.tcfp.texas.gov/fire-department-by-region"
+},
+{
+"text": "Governor’s Office of Small Business Assistance",
+"href": "https://gov.texas.gov/business/page/small-business"
+},
+{
+"text": "Grants & Services",
+"href": "https://texasagriculture.gov/grantsservices.aspx"
+},
+{
+"text": "Home",
+"href": "https://burrows4tx.com/"
+},
+{
+"text": "Homestead Filing Information",
+"href": "https://lubbockcad.org/Portals/0/online%20homestead%20application%20filing_1.pdf"
+},
+{
+"text": "House District 83",
+"href": "https://burrows4tx.com/house-district-83-2/"
+},
+{
+"text": "Human Trafficking Section",
+"href": "https://www.texasattorneygeneral.gov/human-trafficking-section"
+},
+{
+"text": "Issues",
+"href": "https://burrows4tx.com/issues/"
+},
+{
+"text": "LBKAlert emergency notification system",
+"href": "https://member.everbridge.net/453003085616484/login"
+},
+{
+"text": "Latest News",
+"href": "https://burrows4tx.com/latest-news/"
+},
+{
+"text": "Local Government Relief for Disabled Veterans Exemption",
+"href": "https://comptroller.texas.gov/taxes/property-tax/exemptions/local-gov-relief.php"
+},
+{
+"text": "Lubbock CAD Forms",
+"href": "https://lubbockcad.org/forms"
+},
+{
+"text": "Lubbock Central Appraisal District",
+"href": "https://lubbockcad.org/"
+},
+{
+"text": "Lubbock County",
+"href": "https://agrilifeextension.tamu.edu/counties/lubbock-county/"
+},
+{
+"text": "Lubbock County Sheriff’s Office",
+"href": "https://lubbocksheriff.com/emergency-management"
+},
+{
+"text": "Lubbock Economic Development Alliance",
+"href": "https://lubbockeda.org/u-s-small-business-administration/"
+},
+{
+"text": "Lubbock Small Business Development Center",
+"href": "https://www.lubbocksbdc.org/"
+},
+{
+"text": "Meals on Wheels",
+"href": "https://www.mealsonwheelstexas.org/"
+},
+{
+"text": "Military & Veterans Programs",
+"href": "https://www.depts.ttu.edu/mvp/"
+},
+{
+"text": "National Weather Service Lubbock",
+"href": "https://www.weather.gov/lub/"
+},
+{
+"text": "Over 65 Property Tax Exemptions",
+"href": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"
+},
+{
+"text": "Pension Benefits",
+"href": "https://www.trs.texas.gov/pension-benefits"
+},
+{
+"text": "Property Tax Exemptions Information",
+"href": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"
+},
+{
+"text": "Protest Resources & Deadlines",
+"href": "https://lubbockcad.org/protest-information"
+},
+{
+"text": "Resources for Texans",
+"href": "https://www.tdem.texas.gov/recovery/resources-for-texas-citizens"
+},
+{
+"text": "Scholarships Information",
+"href": "https://www.depts.ttu.edu/scholarships/"
+},
+{
+"text": "South Plains College",
+"href": "https://www.southplainscollege.edu/"
+},
+{
+"text": "South Plains Community Action Partnership",
+"href": "https://www.spcaa.org/"
+},
+{
+"text": "Teacher Retirement System of Texas",
+"href": "https://www.trs.texas.gov/"
+},
+{
+"text": "Texas A&M AgriLife Extension",
+"href": "https://agrilifeextension.tamu.edu/"
+},
+{
+"text": "Texas A&M Forest Service",
+"href": "https://tfsweb.tamu.edu/"
+},
+{
+"text": "Texas Advocacy Project",
+"href": "https://www.texasadvocacyproject.org/"
+},
+{
+"text": "Texas Attorney General Consumer Protection",
+"href": "https://www.texasattorneygeneral.gov/consumer-protection"
+},
+{
+"text": "Texas Comptroller of Public Accounts",
+"href": "https://comptroller.texas.gov/"
+},
+{
+"text": "Texas Cyber Command",
+"href": "https://www.txcc.texas.gov/"
+},
+{
+"text": "Texas Department of Agriculture",
+"href": "https://texasagriculture.gov/"
+},
+{
+"text": "Texas Department of Agriculture, Rural Health Programs",
+"href": "https://texasagriculture.gov/Grants-Services/Rural-Economic-Development/State-Office-of-Rural-Health/Rural-Health-Programs"
+},
+{
+"text": "Texas Department of Public Safety",
+"href": "https://www.dps.texas.gov/"
+},
+{
+"text": "Texas District 2 4-H & Youth Development South Plains",
+"href": "https://d24-h.tamu.edu/"
+},
+{
+"text": "Texas Division of Emergency Management",
+"href": "https://tdem.texas.gov/"
+},
+{
+"text": "Texas Division of Emergency Management, Region 1",
+"href": "https://www.tdem.texas.gov/regions/region-1"
+},
+{
+"text": "Texas Education Agency",
+"href": "https://tea.texas.gov/"
+},
+{
+"text": "Texas Health & Human Services Commission Programs for Seniors & Aging",
+"href": "https://www.hhs.texas.gov/services/health/medicaid-chip/medicaid-chip-programs-services/programs-seniors-aging"
+},
+{
+"text": "Texas Higher Education Coordinating Board",
+"href": "https://www.highered.texas.gov/"
+},
+{
+"text": "Texas Office of Consumer Credit Commissioner",
+"href": "https://occc.texas.gov/consumers/"
+},
+{
+"text": "Texas Office of the Attorney General",
+"href": "https://www.texasattorneygeneral.gov/"
+},
+{
+"text": "Texas Ready",
+"href": "https://texasready.gov/"
+},
+{
+"text": "Texas School District Locator",
+"href": "https://tea.texas.gov/texas-schools/general-information/school-district-locator"
+},
+{
+"text": "Texas School Safety Center",
+"href": "https://txssc.txstate.edu/"
+},
+{
+"text": "Texas State Board of Education",
+"href": "https://sboe.texas.gov/"
+},
+{
+"text": "Texas State Law Library Consumer Guide",
+"href": "https://guides.sll.texas.gov/consumer-protection"
+},
+{
+"text": "Texas Tech Health Sciences Center",
+"href": "https://www.ttuhsc.edu/"
+},
+{
+"text": "Texas Tech Health Sciences Center, Rural & Community Health",
+"href": "https://www.ttuhsc.edu/rural-affairs/rural-health/default.aspx"
+},
+{
+"text": "Texas Tech University",
+"href": "https://www.ttu.edu/"
+},
+{
+"text": "Texas Tech University Military & Veteran Programs",
+"href": "https://www.depts.ttu.edu/mvp/"
+},
+{
+"text": "Texas Veterans Commission",
+"href": "https://tvc.texas.gov/"
+},
+{
+"text": "Texas Water Development Board’s Drought Resources",
+"href": "https://www.twdb.texas.gov/publications/shells/doc/Droughtresources.pdf"
+},
+{
+"text": "Texas Workforce Commission",
+"href": "https://www.twc.texas.gov/"
+},
+{
+"text": "Volunteer",
+"href": "https://burrows4tx.com/volunteer/"
+},
+{
+"text": "West Texas State Veterans Cemetery in Lubbock",
+"href": "https://www.glo.texas.gov/veterans/veterans-cemeteries/lubbock"
+},
+{
+"text": "Western Texas College",
+"href": "https://www.wtc.edu/"
+},
+{
+"text": "Wildfire Action Plan",
+"href": "https://tfsweb.tamu.edu/elibrary-item/ready-set-go-your-personal-wildfire-action-plan/"
+},
+{
+"text": "[image: Republican Dustin Burrows]",
+"href": "https://burrows4tx.com/"
+},
+{
+"text": "iWatch Texas",
+"href": "https://report.iwatchtx.org/iwatchtexas/"
+}
 ]

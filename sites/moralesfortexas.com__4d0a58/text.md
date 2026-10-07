@@ -1,14 +1,10 @@
-PROTECT BIG BEND - FUND PUBLIC SCHOOLS - SAFEGUARD OUR FREEDOMS
-JOIN OUR CAMPAIGN
-ENDORSED BY:
-MEET EDDIE
-Heriberto “Eddie” Morales Jr., a lifelong Eagle Pass resident, spending decades delivering real results for South and West Texas through his work as an attorney, business owner, and legislator.
+top of page Menu Close Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS DONATE PROTECT BIG BEND - FUND PUBLIC SCHOOLS - SAFEGUARD OUR FREEDOMS Name Zip Code Phone Email Submit JOIN OUR CAMPAIGN ENDORSED BY: MEET EDDIE Heriberto “Eddie” Morales Jr., a lifelong Eagle Pass resident, spending decades delivering real results for South and West Texas through his work as an attorney, business owner, and legislator.
 Eddie has passed key legislation on border security, healthcare, education, and infrastructure while remaining a trusted voice for rural and border communities...
-ABOUT HD 74
-Texas House District 74 spans 11 counties, stretching from Maverick to El Paso — from vibrant cities like Del Rio and Eagle Pass to rural communities like Presidio and Pecos.
+LEARN MORE ISSUES ISSUES ABOUT HD 74 ABOUT HD 74 Texas House District 74 spans 11 counties, stretching from Maverick to El Paso — from vibrant cities like Del Rio and Eagle Pass to rural communities like Presidio and Pecos.
 Our campaign is committed to representing every corner of this district and every voice within it.
-We’re showing up in every county with energy and purpose, sharing our vision, listening to our neighbors, and building common ground across the region we call home.
-COUNTIES IN HD 74
-Brewster • Culberson • El Paso • Hudspeth • Jeff Davis • Kinney • Maverick • Presidio • Reeves • Terrell • Val Verde
-IN THE NEWS
-@MORALESFORTEXAS
+We’re showing up in every county with energy and purpose, sharing our vision, listening to our neighbors, and building common ground across the region we call home. ​ COUNTIES IN HD 74 Brewster • Culberson • El Paso • Hudspeth • Jeff Davis • Kinney • Maverick • Presidio • Reeves • Terrell • Val Verde NEWS IN THE NEWS SUPPORTING FEDERAL REIMBURSEMENT FOR TEXAS' BORDER SECURITY OPERATIONS As legislators that successfully won re-election in the two most competitive seats in the state, we agree that Governor Abbott is right...
+STATEMENT ON SECURING $2 MILLION REIMBURSEMENT TO EAGLE PASSFOR STATE TAKEOVER OF SHELBY PARK Austin, TX - Eagle Pass was the center of one of the most unprecedented humanitarian crises we have seen in our lifetime.
+I was proud to...
+SUL ROSS STATE RIO GRANDE COLLEGE EXPANSION TO A FOUR-YEAR COLLEGE PASSED TEXAS HOUSE AND SENATE Austin, TX - Today, the Texas Senate unanimously passed House Bill 1022, paving the way for Sul Ross State University Rio Grande College... @MORALESFORTEXAS ​ ​ Load more DONATE Meet Eddie ISSUES ABOUT HD 74 NEWS ENDORSEMENTS PRIVACY POLICY Pol.
+Adv.
+Paid for by the Eddie Morales Campaign TERMS & CONDITIONS bottom of page

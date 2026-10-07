@@ -1,5 +1,9 @@
-Everlee Updates 6/17
-An update from Everlee’s attorney from today’s setback.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Everlee Updates 6/17 Jun 17 Written By Grace Abitz An update from Everlee’s attorney from today’s setback.
 Good news will follow as another update came in saying she is likely to be released tomorrow.
 My goal is to keep the public informed on each step of the case so they can arrive at their own informed conclusions.
 The following text is from Attorney Marc Christopher.
@@ -30,6 +34,6 @@ We will be prepared for the June 30 hearing and will continue pressing the Court
 I know this news is incredibly disappointing.
 It certainly is for me.
 Please know that we remain fully engaged in the case and will continue fighting aggressively for Everlee’s release and for a fair resolution of these proceedings.
-I will provide another update as soon as we receive any additional information.”
-Since receiving this update this afternoon, Marc also provided an update around 9pm this evening that the DHS had contacted him and it is likely that Everlee will be released tomorrow.
+I will provide another update as soon as we receive any additional information.” Since receiving this update this afternoon, Marc also provided an update around 9pm this evening that the DHS had contacted him and it is likely that Everlee will be released tomorrow.
 Please keep the Wihongi’s in your thoughts.
+Grace Abitz https://www.graceabitz.com Previous Previous Comenius Project Greenville Next Next Everlee Immigration Update Made with Squarespace

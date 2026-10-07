@@ -1,7 +1,9 @@
 {
  "description": "- BURKE IN THE 8TH -",
  "final_url": "https://burke4congress.us/m/login?r=%2Fm%2Faccount",
- "paid_for_by": null,
+ "fingerprint": "8bb4a1adf735e16bfa4e977c222ed55b982b3f69",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Login",
  "years_mentioned": []
 }

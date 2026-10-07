@@ -1,16 +1,15 @@
-Issues
-Education
-Erica attended Nevada public schools and watched her father, a teacher of over 40 years, dedicate his life to educating and caring for students in Nevada.
+Skip to content Chip in $5 to elect Erica Roth Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Facebook Twitter Instagram Linkedin Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Home 2026 Endorsements Issues Housing Climate Justice Education Reproductive Freedom Meet Erica Volunteer Issues Education Erica attended Nevada public schools and watched her father, a teacher of over 40 years, dedicate his life to educating and caring for students in Nevada.
 Working to protect both our teachers and students is personal for Erica.
-Endorsed By:
-Erica has earned the support of Washoe County teachers because they know she will fight for every child to get the education they deserve!
-When elected, Erica will:
-- Work to increase funding for public schools.
-- Support smaller class sizes and greater resources for our teachers.
-- Increase financial support and opportunity for higher education and trade schools.
-- Make schools safer for LGBTQ students through proper accommodations.
+Will you join me?
+Education is the foundation of our democracy and necessary for our students to succeed. $25 $50 $100 $250 $500 Other Endorsed By: Erica has earned the support of Washoe County teachers because they know she will fight for every child to get the education they deserve!
+When elected, Erica will: Work to increase funding for public schools.
+Support smaller class sizes and greater resources for our teachers.
+Increase financial support and opportunity for higher education and trade schools.
+Make schools safer for LGBTQ students through proper accommodations.
 What can you do?
-- Vote for candidates who will support our public schools and our educators.
-- Speak out and vote against school voucher programs attempting to siphon taxpayer money from public schools.
-- Make sure that your friends and family show up on Election Day, vote by mail, or vote early!
-- Volunteer with candidates you support to help them reach as many voters as possible.
+Vote for candidates who will support our public schools and our educators.
+Speak out and vote against school voucher programs attempting to siphon taxpayer money from public schools.
+Make sure that your friends and family show up on Election Day, vote by mail, or vote early!
+Volunteer with candidates you support to help them reach as many voters as possible.
+Learn more about other important issues Reproductive Freedom Learn More Education Learn More Housing is a Human Right Learn More Climate Justice Learn More Join Us Email Phone Zip Send Facebook Twitter Instagram Linkedin Send Checks to 550 W Plumb Lane Ste B, #214 Reno, NV 89509 Get Started Meet Erica Issues Media Contact Email Zip Stay In Touch!
+Paid for By The Committee to Elect Erica for Nevada Contact Us Name Phone Email Zip Reason for Contact Voter Questions Press Inquiry Volunteer Interest Other Message Submit Join My Mailing List We’ll send you updates on the 2025 legislative session, and exciting campaign announcements. * indicates required Email Address * First Name Last Name Phone Number /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

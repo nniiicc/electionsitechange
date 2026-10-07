@@ -1,6 +1,5 @@
-OTTAWA, IL, UNITED STATES, August 14, 2024 — The Marter for Congress Campaign has sent the following letter to the Lauren Underwood Campaign, challenging her to a series of debates, beginning at the historic Lincoln-Douglas Debate Site located in Illinois’ 14th District.
-The letter reads:
-I, Jim Marter, Republican candidate for Illinois 14th Congressional District, challenge the Hon.
+Skip to content (815)-585-8006 info@Marter4Congress.US Donate Home Meet Jim Volunteer Press Releases Issues Endorsements Videos Donate 14 Aug OTTAWA, IL, UNITED STATES, August 14, 2024 — The Marter for Congress Campaign has sent the following letter to the Lauren Underwood Campaign, challenging her to a series of debates, beginning at the historic Lincoln-Douglas Debate Site located in Illinois’ 14th District.
+The letter reads: I, Jim Marter, Republican candidate for Illinois 14th Congressional District, challenge the Hon.
 Lauren Underwood, Representative in the Congress of the United States of America of the 14th District of Illinois, to a series of seven debates before Election Day.
 There are seven Counties represented in the District and I believe strongly that the people of all seven counties of the 14th Congressional District should have an opportunity to hear directly from Democratic Congresswoman Lauren Underwood and Republican Nominee Jim Marter, in the form of a public appearance on a comprehensive exchange of policies and contrasts between each candidate, giving all voters a chance to be well informed before they vote.
 All Debates shall be in person with both Democratic Rep.
@@ -17,6 +16,4 @@ I and the people of Illinois’ 14th District strongly believe in fairness and e
 I firmly believe that a rigorous debate sets our nation apart and has kept us FREE for two-hundred and forty-eight years.
 I believe in FREEDOM, as did our 16th President, Abraham Lincoln, who at the conclusion of his Gettysburg address, regarded the sacrifice of those who died, shall not have died in vain, “…that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth.” Abraham Lincoln, November 19, 1863.
 I welcome and look forward to a response from Representative Lauren Underwood.
-Sincerely,
-Jim Marter
-Republican Nominee for US CONGRESS in the 14th Congressional District of Illinois
+Sincerely, Jim Marter Republican Nominee for US CONGRESS in the 14th Congressional District of Illinois Share:

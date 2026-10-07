@@ -1,3 +1,3 @@
-Volunteer with Team Barringer
-Interested in helping us make it across the finish line?
+Skip to content Home About Priorities Volunteer Donate Events Home About Priorities Endorsements Volunteer Events Donate Menu Volunteer with Team Barringer Interested in helping us make it across the finish line?
 Fill out your contact information and interests below and we’ll be sure to let you know about volunteer opportunities as we have them.
+Home About Priorities Volunteer Donate Events PAID FOR BY PAUL BARRINGER FOR CONGRESS Paul Barringer for Congress PO Box 114 Sanford, NC 27330 Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. | Privacy Policy | Media

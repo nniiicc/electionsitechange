@@ -1,14 +1,66 @@
 [
-"https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Abc0631f2-1c57-3861-8936-4f6370887908",
-"https://facebook.com/voteforcarla",
-"https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest",
-"https://twitter.com/voteforcarla",
-"https://voteforcarla.com/",
-"https://voteforcarla.com/campaign-launch-gallery",
-"https://voteforcarla.com/contact",
-"https://voteforcarla.com/donate",
-"https://voteforcarla.com/meet-carla",
-"https://voteforcarla.com/on-the-issues",
-"https://voteforcarla.com/voter-information",
-"https://voteforcarla.com/ways-to-help"
+{
+"text": "Contact",
+"href": "https://voteforcarla.com/contact/"
+},
+{
+"text": "District 61 Voter Information",
+"href": "https://voteforcarla.com/voter-information/"
+},
+{
+"text": "Donate",
+"href": "https://voteforcarla.com/donate/"
+},
+{
+"text": "LIKE AND SHARE our Facebook page: Vote for Carla.",
+"href": "https://www.facebook.com/voteforcarla"
+},
+{
+"text": "Media",
+"href": "https://voteforcarla.com/campaign-launch-gallery/"
+},
+{
+"text": "Meet Carla",
+"href": "https://voteforcarla.com/meet-carla/"
+},
+{
+"text": "On The Issues",
+"href": "https://voteforcarla.com/on-the-issues/"
+},
+{
+"text": "Sign up for updates",
+"href": "https://voteforcarla.com/"
+},
+{
+"text": "To contribute to the campaign, please visit our donate page here.",
+"href": "https://voteforcarla.com/donate/"
+},
+{
+"text": "Ways To Help",
+"href": "https://voteforcarla.com/ways-to-help/"
+},
+{
+"text": "[image]",
+"href": "https://voteforcarla.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/voteforcarla"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteforcarla"
+},
+{
+"text": "contact@voteforcarla.com",
+"href": "mailto:contact@voteforcarla.com"
+},
+{
+"text": "here",
+"href": "https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest"
+},
+{
+"text": "here.",
+"href": "https://documentcloud.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3Abc0631f2-1c57-3861-8936-4f6370887908"
+}
 ]

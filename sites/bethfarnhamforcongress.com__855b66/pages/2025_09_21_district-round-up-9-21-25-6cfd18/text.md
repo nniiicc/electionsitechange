@@ -1,9 +1,9 @@
-Dear Neighbor,
-Thank you for reading my District Round-up.
+Skip to content Menu Close Priorities Meet Beth Contact Beth donate Join us !
+District Round-up , Gun Safety , Our Precious Democracy , Uncategorized · September 21, 2025 District Round-up 9.21.25 Dear Neighbor, Thank you for reading my District Round-up.
 As your candidate for Pennsylvania’s 13th Congressional District, it is my honor and pleasure to deliver to you where I’ve been and what issues I’ve tackled in the past week.
 Criss-crossing the counties of Adams, Franklin, Fulton, Bedford, Cambria, Blair, Huntingdon, Mifflin, Juniata, Perry, Cumberland, and Somerset gives me great opportunities to meet with voters, hear what is on your hearts and minds, and the chance to voice my fight for Everyday Americans.
-If you would like to contribute to my campaign, please donate here: https://secure.actblue.com/donate/beth-fa,rnham-for-congress-1
-The attack on Free Speech calls for a national strike.
+If you would like to contribute to my campaign, please donate here: https://secure.actblue.com/donate/beth-fa,rnham-for-congress-1 The attack on Free Speech calls for a national strike.
+You read that right.
 For the US government to prevent criticism of the US president is deeply unAmerican.
 And the power of the American people is our LABOR.
 You see, when the business of America comes to a grinding halt, so does the gravy train of the ultra wealthy, and the consequently, the power they exert over us.
@@ -12,8 +12,7 @@ A Democratic majority in both houses can impeach Trump and Vance then vote them 
 Hakeem Jeffries, or whichever new Democratic Speaker of the House would be elected, could then be sworn in as POTUS.
 Until the Republican-controlled Congress is back under Democratic control, the Republicans will keep abandoning their power to Trump who abuses his power of the presidency to trample our American rights and to grift more wealth.
 Republican legislators who no longer want to be under Trump’s thumb are looking for an “out” but they don’t want to call attention to themselves.
-With a Democratic Congress and White House:
-Cabinet members like RFK, Jr., Kash Patel, Pete Hegseth, Kristy Noem, Linda McMahon, Marco Rubio, and other Trump picks can be impeached and voted out of office, or simply replaced under the new administration.
+With a Democratic Congress and White House: Cabinet members like RFK, Jr., Kash Patel, Pete Hegseth, Kristy Noem, Linda McMahon, Marco Rubio, and other Trump picks can be impeached and voted out of office, or simply replaced under the new administration.
 New cabinet members who actually care about the health and safety of this country can be nominated and voted in.
 The One Big Beautiful Bill Act can be nullified.
 A new bill through which the ultra wealthy pay their fair share in taxes can be enacted.
@@ -36,57 +35,35 @@ On Sunday, my family attended the Gettysburg DFA/Blue Storm Action picnic.
 It was a lovely afternoon of politics, friendship, and good food.
 I appreciated having the opportunity to speak.
 Afterwards, my family visited the National Military Park of Gettysburg.
-On Monday, I noted the rising cost of groceries with the following post-
-Are you enjoying the rising cost of groceries like coffee and meat?
+On Monday, I noted the rising cost of groceries with the following post- Are you enjoying the rising cost of groceries like coffee and meat?
 If so, be sure to thank President Trump for his emotionally-driven tariff tweets and his mass deportation campaign!
-Since Trump’s bizarro tariff tweets in April and his zeal to remove taxpaying undocumented immigrant workers from the country, the prices of:
-Coffee increased 26%
-Beef increased 14%
-Oranges increased 17%
-Bananas increased 6%
-Chicken increased 6%
-Chocolate Chip Cookies increased 5%
-Potato Chips increased 4%
-Milk increased 4%
-“Core goods inflation – as measured by “Commodities Less Food & Energy” – increased 0.3 percent from July to August and 1.5 percent over the year, continuing its upward trend since January.
+Since Trump’s bizarro tariff tweets in April and his zeal to remove taxpaying undocumented immigrant workers from the country, the prices of: Coffee increased 26% Beef increased 14% Oranges increased 17% Bananas increased 6% Chicken increased 6% Chocolate Chip Cookies increased 5% Potato Chips increased 4% Milk increased 4% “Core goods inflation – as measured by “Commodities Less Food & Energy” – increased 0.3 percent from July to August and 1.5 percent over the year, continuing its upward trend since January.
 Throughout 2024, year-over-year core goods inflation was negative; from January to March, it hovered around 0; and starting in April, it accelerated.
 Goods, as compared to services, are most likely to be affected by tariffs as businesses pass on costs to consumers.
-While there continues to be month-to-month volatility across detailed categories of goods, it’s clear that Trump’s tariffs have contributed to rising prices.” https://tinyurl.com/bhyt8b2c
-In other words, Trump doesn’t lead with expertise like an advisory panel who could guide him in tariff policy.
+While there continues to be month-to-month volatility across detailed categories of goods, it’s clear that Trump’s tariffs have contributed to rising prices.” https://tinyurl.com/bhyt8b2c In other words, Trump doesn’t lead with expertise like an advisory panel who could guide him in tariff policy.
 In fact, he just doesn’t care.
 Why?
 Because he is ultra-wealthy and can afford his ruined t-bone steaks for breakfast, lunch, and dinner.
 Meanwhile, farmers in Pennsylvania don’t have enough workers to pick the produce because deported workers don’t show up for work.
 “In Tioga County, where President Donald Trump won 75 percent of the vote in 2024, farmers are losing patience with the White House’s promise of a quick solution for farm workers.
-Their urgent need is highlighted by stories like those of a multigenerational dairy farm that sold off all its dairy cows because the owner could not find workers and another where a farmer’s job listings have received no responses.” https://tinyurl.com/58etz4c7
-And our own US Representative, multimillionaire John Joyce, never has to pinch pennies, especially regarding groceries.
+Their urgent need is highlighted by stories like those of a multigenerational dairy farm that sold off all its dairy cows because the owner could not find workers and another where a farmer’s job listings have received no responses.” https://tinyurl.com/58etz4c7 And our own US Representative, multimillionaire John Joyce, never has to pinch pennies, especially regarding groceries.
 But I care.
 I fight for Everyday Americans like the hard-working families, retirees on a fixed income, veterans, public school students, young adults just making their way, and everyone who is not an ultra-wealthy person, but sometimes has to make tough choices when affordability declines.
 I won’t let a president of the United States make rogue policies that harm us.
 I’ll make sure to keep such a person in line.
 So please voted for me, Beth Farnham, on November 3rd, 2026 because you know I’ll vote for you.
-And together, we #ChooseDemocracy!
+And together, we #ChooseDemocracy !
 On Wednesday, I noted Constitution Day, but I didn’t feel like celebrating.
 Today is Constitution Day.
 While the Republican-controlled Congress is simply abandoning President Trump to violate it, from wresting their power of the purse for himself, to executive orders that defy the 14th Amendment and due process, to annulling the First Amendment, to avoiding the accountability of the Emoluments Clause, I find it difficult to celebrate.
 Read this Oath of Office that they swore on Bibles and know these people have betrayed it, and consequently, the American people.
 “I do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties of the office on which I am about to enter.
-So help me God.”
-While making a mockery of every American Revolutionary, veteran, and Civil Rights activist who ever sacrificed in the name of Democracy, they trample The Law that we had heretofore agreed to be bound by.
+So help me God.” While making a mockery of every American Revolutionary, veteran, and Civil Rights activist who ever sacrificed in the name of Democracy, they trample The Law that we had heretofore agreed to be bound by.
 Yet the rest of us can at least draw upon its spirit which we find between the commas of The Preamble.
-“We the People of the United States,
-in Order to form a more perfect Union,
-establish Justice,
-insure domestic Tranquility,
-provide for the common defence,
-promote the general Welfare,
-and secure the Blessings of Liberty to ourselves and our Posterity,
-do ordain and establish this Constitution for the United States of America”
-When every subsequent generation adopts those 52 words, then our nation is secured and restabilized.
+“We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America” When every subsequent generation adopts those 52 words, then our nation is secured and restabilized.
 Perhaps when the cost of living rises too high, when too many jobs are lost, when the poorest among us die at an accelerated rate having lost the healthcare and food assistance they deserved, our friends, family, neighbors, fellow congregants will stop being mouthpieces for the ultra wealthy and remember what our government was truly about – Of The People, By The People, For The People.
 Maybe then, they too will #ChooseDemocracy .
-FYI – House again votes to surrender tariff powers to Trump – Live Updates – POLITICO https://share.google/so9DnqfB3rxLAXy7e
-That same day, I met with the commissioners of Perry County.
+FYI – House again votes to surrender tariff powers to Trump – Live Updates – POLITICO https://share.google/so9DnqfB3rxLAXy7e That same day, I met with the commissioners of Perry County.
 Many thanks to the Perry County Chamber of Commerce in conjunction with the Duncannon EMS for hosting their Commissioners’ Breakfast today.
 It was great to hear from all three commissioners – Frank Campbell, Brenda Watson, and Bill Lyons, as well as from the voters in the audience.
 Of importance to the people of Perry County are clearly Infrastructure, Rural Broadband Access, and Healthcare.
@@ -100,10 +77,18 @@ Together, we #ChooseDemocracy !
 On Thursday, I spoke at the Cambria County Democratic Committee picnic.
 Many thanks to the Cambria County Democratic Party for hosting their summer picnic and inviting me to speak.
 It was a beautiful afternoon to fight for our precious Democracy and meet voters who care about our country.
-Together, we #ChooseDemocracy
-Many thanks to Campaign Manager Jack Stansbury for the photos.
+Together, we #ChooseDemocracy Many thanks to Campaign Manager Jack Stansbury for the photos.
 If you’re like me, you love this country as much as I do and work to make a positive difference.
 In the midst of this Constitutional Crisis, please consider reaching out to your local Democratic committees or Democratic candidates so that we can strengthen our Democracy instead of letting it slide into fascism.
 We don’t just #ChooseDemocracy, we choose Pennsylvania, we choose The United States of America, we choose Humanity and I am deeply glad to work along side you.
-Sincerely,
-Beth
+Sincerely, Beth Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Discover more from Beth Farnham for Congress Subscribe to get the latest posts sent to your email.
+Type your email… Subscribe Latest posts PA Licensed Daycares Must Accept Unvaccinated Children You can ask other parents what their vaccine philosophy is, then make decisions about who your children play with.
+You can also vote for legislators at the state and federal… District Round-up , healthcare , Our Precious Democracy , Uncategorized · October 4, 2026 Pro-lifers Don’t Really Care About “Life of the Mother” Ever since Roe v.
+Wade was overturned in 2022, many conservative states imposed very restrictive abortion bans, based on the heartbeat bill that Texas created in 2021, using vague language… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 27, 2026 The Most Terrifying Conversation I Ever Had With Voters So I asked, “What is on your heart and mind at the federal level of government?” They responded, “Nothing, really.” I got specific.
+“How are you doing with the price… District Round-up , healthcare , Our Precious Democracy , Uncategorized · September 20, 2026 Get updates Spam-free subscription, we guarantee.
+This is just a friendly ping when new content is out. ← Back Thank you for your response. ✨ Name (required) Email (required) Subscribe Submitting form Δ Menu Close Priorities Meet Beth Contact Beth donate Join us !
+Paid for by BETH FARNHAM FOR CONGRESS Designed by WordPress Discover more from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Get the latest post from Beth Farnham for Congress Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading Subscribe Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

@@ -1,5 +1,4 @@
-Tiffany Brault: Local Leader with Local Roots
-Tiffany Brault was born and raised in Fond du Lac.
+0 Skip to Content Tiffany Brault for Wisconsin State Assembly Home About Issues Donate Voter Information Open Menu Close Menu Tiffany Brault for Wisconsin State Assembly Home About Issues Donate Voter Information Open Menu Close Menu Home About Issues Donate Voter Information Tiffany Brault: Local Leader with Local Roots Tiffany Brault was born and raised in Fond du Lac.
 She attended area schools and graduated with a bachelor’s degree from Marian University.
 Following her college graduation, Tiffany worked in public and school libraries in Dodge County, but eventually left the workforce to become a stay-at-home parent due to high child care costs.
 Tiffany currently works as a substitute teacher in the Fond du Lac School District.
@@ -20,21 +19,19 @@ Tiffany and her husband Andy have three children, a senior cat named Jasmine, an
 Tiffany enjoys reading, singing, and playing board games.
 The most likely places you’ll find her outside of work and meetings is at a local thrift store, or at the library.
 Tiffany Brault is an active member of our community.
-Leader
-Tiffany is a Fond du Lac native who has stepped up to serve her community in local government.
+Leader Tiffany is a Fond du Lac native who has stepped up to serve her community in local government.
 She is a member of both the Fond du Lac City Council and the Fond du Lac County Board.
 She is currently City Council Vice President, having served as President for the past two years.
-Volunteer
-Tiffany is an active volunteer.
+Volunteer Tiffany is an active volunteer.
 She is a member of the Water Monitors, a citizen group that collects data on Fond du Lac County waterways.
 She has volunteered for Challenge Day, an anti-bullying workshop for high school students.
 She regularly helps out at area events.
 And she has sung over ten semesters with the South Shore Chorale.
-Mom
-Tiffany is the mom of three amazing children who are regularly recognized for being leaders in their schools, at Boys and Girls Club, and in extra-curricular activities.
+Mom Tiffany is the mom of three amazing children who are regularly recognized for being leaders in their schools, at Boys and Girls Club, and in extra-curricular activities.
 Tiffany gave up a career she loved in libraries to become a stay-at-home mom, and she is forever grateful that she’s been able to dedicate so much of her life to raising some really great kids.
 Join Tiffany’s campaign!
 We can’t do it without you!
 If you would like to help Tiffany become our Representative for Wisconsin State Assembly, join her team!
 We would love to have your help with voter outreach, fundraising, hosting events, or work behind the scenes.
 Please fill out the form if you can help!
+Tiffany Brault for Wisconsin State Assembly Paid for by Friends of Tiffany Brault Donate Donate

@@ -1,11 +1,42 @@
 [
-"http://form.jotform.com/shreymshah1/workforce-development-survey",
-"https://chourasia4nh.com/",
-"https://chourasia4nh.com/blog",
-"https://chourasia4nh.com/community-service",
-"https://chourasia4nh.com/endorsements",
-"https://chourasia4nh.com/in-the-news",
-"https://chourasia4nh.com/legislative",
-"https://facebook.com/profile.php?id=61593832103172",
-"https://secure.actblue.com/donate/chourasia4nh"
+{
+"text": "Blog",
+"href": "https://chourasia4nh.com/blog/"
+},
+{
+"text": "Community",
+"href": "https://chourasia4nh.com/community-service/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chourasia4nh"
+},
+{
+"text": "Endorsements",
+"href": "https://chourasia4nh.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61593832103172"
+},
+{
+"text": "Home",
+"href": "https://chourasia4nh.com/"
+},
+{
+"text": "In the News",
+"href": "https://chourasia4nh.com/in-the-news/"
+},
+{
+"text": "Legislative",
+"href": "https://chourasia4nh.com/legislative/"
+},
+{
+"text": "[image: Chourasia for NH]",
+"href": "https://chourasia4nh.com/"
+},
+{
+"text": "form.jotform.com/shreymshah1/workforce-development-survey",
+"href": "http://form.jotform.com/shreymshah1/workforce-development-survey"
+}
 ]

@@ -1,19 +1,74 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Canvass+Training+at+North+Ridgeville+Public+Library&dates=20260725T170000Z%2F20260725T190000Z&location=35700+Bainbridge+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States",
-"http://maps.google.com/?q=35700+Bainbridge+Road+North+Ridgeville%2C+Ohio%2C+44039+United+States",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h?format=ical",
-"https://joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://mobilize.us/joemillerforstatesenate/event/985004",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=35700+bainbridge+road+north+ridgeville%2C+ohio%2C+44039+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Canvass+Training+at+North+Ridgeville+Public+Library&dates=20260725T170000Z%2F20260725T190000Z&location=35700+Bainbridge+Road%2C+North+Ridgeville%2C+Ohio%2C+44039%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/event-one-rg2bh-mx2wm-bs79h?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next July 26 Canvass with Team Miller in Norwalk",
+"href": "https://www.joemillerforohio.com/events-1/event-two-w7zrh-s4xbg-yxlcg"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+},
+{
+"text": "https://www.mobilize.us/joemillerforstatesenate/event/985004/",
+"href": "https://www.mobilize.us/joemillerforstatesenate/event/985004/"
+}
 ]

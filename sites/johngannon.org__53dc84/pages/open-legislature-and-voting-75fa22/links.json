@@ -1,18 +1,74 @@
 [
-"https://boisestatepublicradio.org/post/idaho-democrats-move-toward-presidential-primary-format",
-"https://facebook.com/pages/John-Gannon-for-District-17/274793189281912",
-"https://idahostatesman.com/opinion/readers-opinion/article81481592.html",
-"https://johngannon.org/",
-"https://johngannon.org/about",
-"https://johngannon.org/blog",
-"https://johngannon.org/contact",
-"https://johngannon.org/education",
-"https://johngannon.org/government-page-program",
-"https://johngannon.org/neighborhood-involvement",
-"https://johngannon.org/open-legislature-and-voting",
-"https://johngannon.org/press-releases",
-"https://johngannon.org/quality-of-life",
-"https://johngannon.org/southwest-ada-well-issues",
-"https://johngannon.org/student-resources",
-"https://johngannon.org/subscribe"
+{
+"text": "About John Gannon",
+"href": "https://johngannon.org/about/"
+},
+{
+"text": "Blog",
+"href": "https://johngannon.org/blog/"
+},
+{
+"text": "Connect on Facebook",
+"href": "https://www.facebook.com/pages/John-Gannon-for-District-17/274793189281912"
+},
+{
+"text": "Contact",
+"href": "https://johngannon.org/contact/"
+},
+{
+"text": "Education",
+"href": "https://johngannon.org/education/"
+},
+{
+"text": "Government Page Program",
+"href": "https://johngannon.org/government-page-program/"
+},
+{
+"text": "Home",
+"href": "https://johngannon.org/"
+},
+{
+"text": "Neighborhood Involvement",
+"href": "https://johngannon.org/neighborhood-involvement/"
+},
+{
+"text": "News",
+"href": "https://johngannon.org/subscribe/"
+},
+{
+"text": "Open Legislature and Voting",
+"href": "https://johngannon.org/open-legislature-and-voting/"
+},
+{
+"text": "Press Releases",
+"href": "https://johngannon.org/press-releases/"
+},
+{
+"text": "Quality of Life",
+"href": "https://johngannon.org/quality-of-life/"
+},
+{
+"text": "Resources",
+"href": "https://johngannon.org/student-resources/"
+},
+{
+"text": "Southwest Ada Well Issues",
+"href": "https://johngannon.org/southwest-ada-well-issues/"
+},
+{
+"text": "[image: Gannon State Rep. District 17A]",
+"href": "https://johngannon.org"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/pages/John-Gannon-for-District-17/274793189281912"
+},
+{
+"text": "https://boisestatepublicradio.org/post/idaho-democrats-move-toward-presidential-primary-format#stream/0",
+"href": "https://boisestatepublicradio.org/post/idaho-democrats-move-toward-presidential-primary-format#stream/0"
+},
+{
+"text": "https://www.idahostatesman.com/opinion/readers-opinion/article81481592.html",
+"href": "https://www.idahostatesman.com/opinion/readers-opinion/article81481592.html"
+}
 ]

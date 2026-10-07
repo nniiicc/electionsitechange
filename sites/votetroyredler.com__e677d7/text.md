@@ -1,16 +1,11 @@
-Dedicated Leadership for South Dakota District 17 House of Representatives
-Empowering our community with common sense solutions
-Vote Republican Troy Redler for House on November 2nd
-Meet Troy Redler
-Dedicated Republican candidate for South Dakota House of Representatives.
-- Experienced pharmacist and business owner.
-- Community leader committed to service and growth.
-- Family-oriented, married with four children.
-Support Troy Redler's Vision
-Join Troy Redler in his campaign for a stronger, safer South Dakota.
-Meet Troy Redler
-I believe leadership starts with listening and is strengthened by real‑world experience.
-My values have been shaped by years of hands‑on work in healthcare and long‑term care operations, where responsibility, trust, and attention to detail are not optional—they are essential.In my personal life my wife, Sara Redler, and I met in undergraduate school and completed our Doctor of Pharmacy degrees at Creighton University.
+Vote for Troy Redler Home Contact Dedicated Leadership for South Dakota District 17 House of Representatives Empowering our community with common sense solutions Learn More Vote Republican Troy Redler for House on November 2nd Click HERE Support the Campaign: Join Us in Driving Meaningful Change Today Meet Troy Redler Dedicated Republican candidate for South Dakota House of Representatives.
+Experienced pharmacist and business owner.
+Community leader committed to service and growth.
+Family-oriented, married with four children.
+Support Troy Redler's Vision Join Troy Redler in his campaign for a stronger, safer South Dakota.
+Meet Troy Redler ﻿ I believe leadership starts with listening and is strengthened by real‑world experience.
+My values have been shaped by years of hands‑on work in healthcare and long‑term care operations, where responsibility, trust, and attention to detail are not optional—they are essential.
+In my personal life my wife, Sara Redler, and I met in undergraduate school and completed our Doctor of Pharmacy degrees at Creighton University.
 Together we have worked diligently to make our Pharmacy a success together.
 We hope to make our family pharmacy a third generation owned and operated company.
 Together we spend our time raising our 4 children.
@@ -29,8 +24,7 @@ I believe the best outcomes come from engaging people directly, understanding th
 Above all, I believe leadership is about service—not status.
 It means being accessible, prepared, and willing to be accountable.
 I approach every responsibility with humility, integrity, and a commitment to serve others with the same care and diligence I bring to my professional work.
-Vision Statement:
-I believe leadership starts with listening.
+Vision Statement: ﻿ I believe leadership starts with listening.
 Strong communities are built when people take the time to understand one another, respect different viewpoints, and work together toward practical solutions.
 I value open communication, personal responsibility, and showing up consistently for the people I serve.
 I was raised with the belief that integrity matters—that your word should mean something and that decisions should be guided by honesty, fairness, and accountability.
@@ -43,10 +37,13 @@ Good leadership means trusting communities, supporting local problem‑solving, 
 Above all, I believe leadership is about service.
 It means being willing to learn, to collaborate, and to put the interests of the community ahead of personal ambition.
 My goal is to approach every responsibility with humility, respect, and a genuine commitment to doing what is right.
-Contact Information
-Dedicated Republican candidate for South Dakota.
-Troy Redler
-Owner Redler's LTC Pharmacy
-Experienced pharmacist and business owner.
-Meet Troy Redler
-Dedicated Republican candidate for SD House of Representatives.
+Contact Information Dedicated Republican candidate for South Dakota.
+Troy Redler Owner Redler's LTC Pharmacy Experienced pharmacist and business owner.
+Meet Troy Redler Dedicated Republican candidate for SD House of Representatives.
+Contacts 509 Firethorn Trail, Dakota Dunes, SD 57049 712-560-2219 tredler@redlersltc.com Contact Troy Subject Submit Thank you!
+We have received your submission.
+Error Bad respond Join Troy Redler in building a brighter future for South Dakota.
+Paid for by Troy Redler for House of Representatives © Copyright # Network Solutions, LLC.
+All rights reserved.
+All registered trademarks herein are the property of their respective owners.
+Vote Republican Troy Redler for House on November 2nd

@@ -1,17 +1,8 @@
-A Voice for Unity
-Gina is an educator with more than 20 years of experience working with youth and families and is an advocate for equitable funding for education, economic development, and the need for affordable and safe housing.
+top of page Home Meet Gina Special Election 2021 State Representative Curry Platform & Legislation Economic Development Trade Education Opportunities Public Education Opportunities Affordable & Secure Housing Resources & Voting Get Involved More Use tab to navigate through the menu items.
+A Voice for Unity DONATE About LEARN MORE ​ Gina is an educator with more than 20 years of experience working with youth and families and is an advocate for equitable funding for education, economic development, and the need for affordable and safe housing.
 Prior to being elected State Representative, Gina worked as a Diversity Equity and Inclusion/Racial Equity consultant and trainer, as a small business owner of Coach Your Vision LLC, and diligently served in many community-based roles including serving as Vice President of the Upper Darby School Board, where she was first elected in 2017 and re-elected in 2019.
 She brings to Harrisburg a strong understanding of community needs, fairness and grassroots advocacy in education and real estate/housing, which will help her fight for equity for all Pennsylvanians.
-Meet Gina
-A changemaker with a vision for equity
-Bringing
-RESULTS
-Back Home
-Committees & Caucuses
-- Children & Youth
-- Transportation
-- Education
-- Local Government
-- Pennsylvania Legislative Black Caucus
-- Southeast Delegation
-- Animal Protection Caucus
+Meet Gina A changemaker with a vision for equity Diverse by example: Increasing diversity in academia Rep.
+Curry & Senator Kearney Blood Drive - More than 90 Lives to Be Saved from Donations Cannabis and Social Justice: The Impacts of Criminalization Black & Diverse Business Forum For Local Entrepreneurs and Business Owners Healing Racial Trauma: Where Do We Begin?
+Donating thousands of Feminine Hygiene Products and shedding a light on Period Poverty Identifying maternity deserts in Delaware County Bringing RESULTS Back Home Committees & Caucuses Children & Youth Transportation Education Local Government Pennsylvania Legislative Black Caucus Southeast Delegation Animal Protection Caucus $25,000 to the Upper Darby & Sellers Memorial Library $101.4 Million in public school funding to Upper Darby and William Penn SD (a 20% increase) $1.3 Million in transportation projects to Upper Darby $50,000 to Local EMS & Fire Companies $20,000 in public safety grants LEARN MORE Focused on COMMUNITY Community Events on Issues THAT MATTER 2022 ENDORSEMENTS Endorsed by Educators and Labor Unions Be the Change Join our campaign CONTACT DONATE VOTE Paid for by Friends of Gina H.
+Curry PO BOX 1241 Lansdowne PA 19050 bottom of page

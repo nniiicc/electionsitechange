@@ -1,72 +1,314 @@
 [
-"http://eepurl.com/i7ZZBQ",
-"http://mailto@erica.roth@asm.state.nv.us/",
-"http://voteericaroth.com.dream.website/",
-"http://voteericaroth.com.dream.website/issues",
-"http://voteericaroth.com.dream.website/media",
-"http://voteericaroth.com.dream.website/meet-erica",
-"https://docs.google.com/forms/d/e/1FAIpQLSfHqUlBSiyi9FBay0972jbNOjdBJ8ATWpwCMDLSAlsXsuwRaA/viewform?usp=header",
-"https://facebook.com/voteericaroth",
-"https://instagram.com/voteericaroth",
-"https://leg.state.nv.us/assembly/committees/testify-before-a-committee",
-"https://leg.state.nv.us/docs/NELIS/PLTUserManual.pdf",
-"https://linkedin.com/in/ericarothesq",
-"https://nvsos.gov/sos/elections/election-information/2024-election-information",
-"https://registertovote.nv.gov/",
-"https://secure.actblue.com/donate/ws-roth",
-"https://secure.actblue.com/donate/ws-roth?amount=100",
-"https://secure.actblue.com/donate/ws-roth?amount=25",
-"https://secure.actblue.com/donate/ws-roth?amount=250",
-"https://secure.actblue.com/donate/ws-roth?amount=5",
-"https://secure.actblue.com/donate/ws-roth?amount=50",
-"https://secure.actblue.com/donate/ws-roth?amount=500",
-"https://t.co/3se77w393Y",
-"https://t.co/5qy5TL2CBB",
-"https://t.co/6FJxL3nDu6",
-"https://t.co/EPRRz7L6iT",
-"https://t.co/JHFYk9v7he",
-"https://t.co/JbAIvRDEWV",
-"https://t.co/LK5JM55iqy",
-"https://t.co/NSNpbP28cF",
-"https://t.co/Qm2ntAhc6G",
-"https://t.co/RAbjaMtfAJ",
-"https://t.co/WG6JHZjATL",
-"https://t.co/ZVCKdUDNW5",
-"https://t.co/eYqtYz8da1",
-"https://t.co/kVrXA4VGkX",
-"https://t.co/o4lt9OhjIs",
-"https://t.co/wRA8dB8AoD",
-"https://t.co/wkOtJXBjmA",
-"https://twitter.com/OurTownReno/status/1885777864966242588?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth",
-"https://twitter.com/VoteEricaRoth/status/1735378140875104348?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1850626204820455499?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1882501576302227884?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1884715611407688123?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1886868103889609184?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1891590958929563877?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1899916127020749259?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1904561516730261809?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1905706686691905632?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1906030121162805353?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth/status/1907105149904105575?ref_src=twsrc%5Etfw",
-"https://twitter.com/VoteEricaRoth?ref_src=twsrc%5Etfw",
-"https://twitter.com/hashtag/NVLeg?src=hash&ref_src=twsrc%5Etfw",
-"https://twitter.com/hashtag/NVleg?src=hash&ref_src=twsrc%5Etfw",
-"https://twitter.com/hashtag/ReproductiveFreedom?src=hash&ref_src=twsrc%5Etfw",
-"https://twitter.com/hashtag/nvleg?src=hash&ref_src=twsrc%5Etfw",
-"https://twitter.com/nvassemblydems/status/1854720198324166810?ref_src=twsrc%5Etfw",
-"https://twitter.com/nvassemblydems/status/1886513660908212676?ref_src=twsrc%5Etfw",
-"https://twitter.com/nvassemblydems/status/1902153471308263923?ref_src=twsrc%5Etfw",
-"https://twitter.com/nvassemblydems?ref_src=twsrc%5Etfw",
-"https://voteericaroth.com/",
-"https://voteericaroth.com/2026-endorsements",
-"https://voteericaroth.com/climate-justice",
-"https://voteericaroth.com/constituents",
-"https://voteericaroth.com/education",
-"https://voteericaroth.com/housing",
-"https://voteericaroth.com/issues",
-"https://voteericaroth.com/meet-erica",
-"https://voteericaroth.com/reproductive-freedom",
-"https://voteericaroth.com/volunteer"
+{
+"text": "#NVLeg",
+"href": "https://twitter.com/hashtag/NVLeg?src=hash&ref_src=twsrc%5Etfw"
+},
+{
+"text": "#NVleg",
+"href": "https://twitter.com/hashtag/NVleg?src=hash&ref_src=twsrc%5Etfw"
+},
+{
+"text": "#ReproductiveFreedom",
+"href": "https://twitter.com/hashtag/ReproductiveFreedom?src=hash&ref_src=twsrc%5Etfw"
+},
+{
+"text": "#nvleg",
+"href": "https://twitter.com/hashtag/nvleg?src=hash&ref_src=twsrc%5Etfw"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=50"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=500"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.voteericaroth.com/2026-endorsements/"
+},
+{
+"text": "<<<<< Resources for Constituents >>>>>",
+"href": "https://www.voteericaroth.com/constituents/"
+},
+{
+"text": "@VoteEricaRoth",
+"href": "https://twitter.com/VoteEricaRoth?ref_src=twsrc%5Etfw"
+},
+{
+"text": "@nvassemblydems",
+"href": "https://twitter.com/nvassemblydems?ref_src=twsrc%5Etfw"
+},
+{
+"text": "April 1, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1907105149904105575?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Chip in $5 to elect Erica Roth",
+"href": "https://secure.actblue.com/donate/ws-roth?amount=5"
+},
+{
+"text": "Climate Justice",
+"href": "https://www.voteericaroth.com/climate-justice/"
+},
+{
+"text": "Contact Me",
+"href": "http://mailto@erica.roth@asm.state.nv.us"
+},
+{
+"text": "Create a free legislative tracker",
+"href": "https://www.leg.state.nv.us/docs/NELIS/PLTUserManual.pdf"
+},
+{
+"text": "December 14, 2023",
+"href": "https://twitter.com/VoteEricaRoth/status/1735378140875104348?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Education",
+"href": "https://www.voteericaroth.com/education/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/voteericaroth"
+},
+{
+"text": "February 1, 2025",
+"href": "https://twitter.com/OurTownReno/status/1885777864966242588?ref_src=twsrc%5Etfw"
+},
+{
+"text": "February 17, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1891590958929563877?ref_src=twsrc%5Etfw"
+},
+{
+"text": "February 3, 2025",
+"href": "https://twitter.com/nvassemblydems/status/1886513660908212676?ref_src=twsrc%5Etfw"
+},
+{
+"text": "February 4, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1886868103889609184?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Giving in person testimony",
+"href": "https://www.leg.state.nv.us/assembly/committees/testify-before-a-committee/"
+},
+{
+"text": "Help with state agency",
+"href": "http://mailto@erica.roth@asm.state.nv.us"
+},
+{
+"text": "Home",
+"href": "https://www.voteericaroth.com/"
+},
+{
+"text": "Housing",
+"href": "https://www.voteericaroth.com/housing/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/voteericaroth/"
+},
+{
+"text": "Issues",
+"href": "https://www.voteericaroth.com/issues/"
+},
+{
+"text": "January 23, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1882501576302227884?ref_src=twsrc%5Etfw"
+},
+{
+"text": "January 29, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1884715611407688123?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Learn About Erica's Vision for Nevada",
+"href": "http://www.voteericaroth.com.dream.website/issues/"
+},
+{
+"text": "Learn More",
+"href": "https://registertovote.nv.gov"
+},
+{
+"text": "Learn More",
+"href": "https://www.nvsos.gov/sos/elections/election-information/2024-election-information"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteericaroth.com/climate-justice/"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteericaroth.com/education/"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteericaroth.com/housing/"
+},
+{
+"text": "Learn More",
+"href": "https://www.voteericaroth.com/reproductive-freedom/"
+},
+{
+"text": "Leaving public comment on legislation",
+"href": "https://www.leg.state.nv.us/assembly/committees/testify-before-a-committee/"
+},
+{
+"text": "Linkedin",
+"href": "https://www.linkedin.com/in/ericarothesq/"
+},
+{
+"text": "March 12, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1899916127020749259?ref_src=twsrc%5Etfw"
+},
+{
+"text": "March 19, 2025",
+"href": "https://twitter.com/nvassemblydems/status/1902153471308263923?ref_src=twsrc%5Etfw"
+},
+{
+"text": "March 25, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1904561516730261809?ref_src=twsrc%5Etfw"
+},
+{
+"text": "March 28, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1905706686691905632?ref_src=twsrc%5Etfw"
+},
+{
+"text": "March 29, 2025",
+"href": "https://twitter.com/VoteEricaRoth/status/1906030121162805353?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Media",
+"href": "http://www.voteericaroth.com.dream.website/media/"
+},
+{
+"text": "Meet Erica",
+"href": "http://www.voteericaroth.com.dream.website/meet-erica/"
+},
+{
+"text": "Meet Erica",
+"href": "https://www.voteericaroth.com/meet-erica/"
+},
+{
+"text": "November 8, 2024",
+"href": "https://twitter.com/nvassemblydems/status/1854720198324166810?ref_src=twsrc%5Etfw"
+},
+{
+"text": "October 27, 2024",
+"href": "https://twitter.com/VoteEricaRoth/status/1850626204820455499?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/ws-roth"
+},
+{
+"text": "Reproductive Freedom",
+"href": "https://www.voteericaroth.com/reproductive-freedom/"
+},
+{
+"text": "Request a meeting",
+"href": "http://mailto@erica.roth@asm.state.nv.us"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/VoteEricaRoth"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfHqUlBSiyi9FBay0972jbNOjdBJ8ATWpwCMDLSAlsXsuwRaA/viewform?usp=header"
+},
+{
+"text": "Volunteer",
+"href": "https://www.voteericaroth.com/volunteer/"
+},
+{
+"text": "[image: Intuit Mailchimp]",
+"href": "http://eepurl.com/i7ZZBQ"
+},
+{
+"text": "[image]",
+"href": "http://www.voteericaroth.com.dream.website/"
+},
+{
+"text": "https://t.co/JHFYk9v7he",
+"href": "https://t.co/JHFYk9v7he"
+},
+{
+"text": "https://t.co/NSNpbP28cF",
+"href": "https://t.co/NSNpbP28cF"
+},
+{
+"text": "https://t.co/Qm2ntAhc6G",
+"href": "https://t.co/Qm2ntAhc6G"
+},
+{
+"text": "https://t.co/eYqtYz8da1",
+"href": "https://t.co/eYqtYz8da1"
+},
+{
+"text": "pic.twitter.com/3se77w393Y",
+"href": "https://t.co/3se77w393Y"
+},
+{
+"text": "pic.twitter.com/5qy5TL2CBB",
+"href": "https://t.co/5qy5TL2CBB"
+},
+{
+"text": "pic.twitter.com/6FJxL3nDu6",
+"href": "https://t.co/6FJxL3nDu6"
+},
+{
+"text": "pic.twitter.com/EPRRz7L6iT",
+"href": "https://t.co/EPRRz7L6iT"
+},
+{
+"text": "pic.twitter.com/JbAIvRDEWV",
+"href": "https://t.co/JbAIvRDEWV"
+},
+{
+"text": "pic.twitter.com/LK5JM55iqy",
+"href": "https://t.co/LK5JM55iqy"
+},
+{
+"text": "pic.twitter.com/RAbjaMtfAJ",
+"href": "https://t.co/RAbjaMtfAJ"
+},
+{
+"text": "pic.twitter.com/WG6JHZjATL",
+"href": "https://t.co/WG6JHZjATL"
+},
+{
+"text": "pic.twitter.com/ZVCKdUDNW5",
+"href": "https://t.co/ZVCKdUDNW5"
+},
+{
+"text": "pic.twitter.com/kVrXA4VGkX",
+"href": "https://t.co/kVrXA4VGkX"
+},
+{
+"text": "pic.twitter.com/o4lt9OhjIs",
+"href": "https://t.co/o4lt9OhjIs"
+},
+{
+"text": "pic.twitter.com/wRA8dB8AoD",
+"href": "https://t.co/wRA8dB8AoD"
+},
+{
+"text": "pic.twitter.com/wkOtJXBjmA",
+"href": "https://t.co/wkOtJXBjmA"
+}
 ]

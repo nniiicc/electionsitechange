@@ -1,22 +1,94 @@
 [
-"https://facebook.com/marymargaretoliver",
-"https://instagram.com/repmmoliver",
-"https://legis.ga.gov/api/legislation/document/20252026/239665",
-"https://marymargaretoliver.org/",
-"https://marymargaretoliver.org/about",
-"https://marymargaretoliver.org/news-and-press",
-"https://marymargaretoliver.org/newsletters",
-"https://marymargaretoliver.org/post/georgia-child-welfare-agencys-surveillance-tools-raise-privacy-concerns",
-"https://marymargaretoliver.org/post/special-session-recap-and-happy-4th",
-"https://marymargaretoliver.org/post/summer-fun-and-summer-work",
-"https://marymargaretoliver.org/request-a-yard-sign",
-"https://marymargaretoliver.org/voting-info",
-"https://performhy.com/",
-"https://phhp.ufl.edu/academics/phd-and-professional-programs/public-health-phd/phd-public-health-social-and-behavioral-sciences/meet-our-sbs-phd-students/alexandra-rodriguez",
-"https://saportareport.com/georgia-legislature-first-in-nation-to-link-arts-and-mental-health/columnists/maria_saporta",
-"https://saportareport.com/new-study-says-georgia-can-lead-in-brain-health-innovation/columnists/maria_saporta",
-"https://secure.actblue.com/donate/mary-margaret-oliver-3",
-"https://twitter.com/mmo_mary",
-"https://woodruffcenter.org/neuroarts",
-"https://woodruffcenter.org/uncategorized/woodruff-arts-center-launches-arts-health-laboratory-georgias-neuroarts-coalition-in-partnership-with-the-neuroarts-blueprint-initiative-to-study-the-impact-of-the-arts-on-the-brain-and-bo"
+{
+"text": "About Mary Margaret",
+"href": "https://www.marymargaretoliver.org/about"
+},
+{
+"text": "Alex Rodriguez,",
+"href": "https://phhp.ufl.edu/academics/phd-and-professional-programs/public-health-phd/phd-public-health-social-and-behavioral-sciences/meet-our-sbs-phd-students/alexandra-rodriguez/"
+},
+{
+"text": "Back to News",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-margaret-oliver-3"
+},
+{
+"text": "GRA released a report",
+"href": "https://saportareport.com/new-study-says-georgia-can-lead-in-brain-health-innovation/columnists/maria_saporta/"
+},
+{
+"text": "Georgia NeuroArts Coalition",
+"href": "https://www.woodruffcenter.org/uncategorized/woodruff-arts-center-launches-arts-health-laboratory-georgias-neuroarts-coalition-in-partnership-with-the-neuroarts-blueprint-initiative-to-study-the-impact-of-the-arts-on-the-brain-and-bo/"
+},
+{
+"text": "Home",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "House Resolution 1007",
+"href": "https://www.legis.ga.gov/api/legislation/document/20252026/239665"
+},
+{
+"text": "Newsletters",
+"href": "https://www.marymargaretoliver.org/newsletters"
+},
+{
+"text": "Performance Hypothesis.",
+"href": "https://performhy.com/"
+},
+{
+"text": "Press",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.marymargaretoliver.org/request-a-yard-sign"
+},
+{
+"text": "Saporta Report",
+"href": "https://saportareport.com/georgia-legislature-first-in-nation-to-link-arts-and-mental-health/columnists/maria_saporta/"
+},
+{
+"text": "Voting Info",
+"href": "https://www.marymargaretoliver.org/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/mmo_mary"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/marymargaretoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmmoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "[image]August 28, 2026Summer Fun and Summer Work",
+"href": "https://www.marymargaretoliver.org/post/summer-fun-and-summer-work"
+},
+{
+"text": "[image]June 28, 2026Special Session Recap and Happy 4th!",
+"href": "https://www.marymargaretoliver.org/post/special-session-recap-and-happy-4th"
+},
+{
+"text": "[image]September 9, 2026Georgia child welfare agency's surveillance tools raise privacy concerns",
+"href": "https://www.marymargaretoliver.org/post/georgia-child-welfare-agencys-surveillance-tools-raise-privacy-concerns"
+},
+{
+"text": "chosen as one of the 11",
+"href": "https://www.woodruffcenter.org/neuroarts/"
+},
+{
+"text": "mmo@mmolaw.com",
+"href": "mailto:mmo@mmolaw.com"
+}
 ]

@@ -1,16 +1,66 @@
 [
-"https://529.wa.gov/howgetworks",
-"https://app.leg.wa.gov/billsummary?BillNumber=2309&Year=2023&Initiative=false",
-"https://app.leg.wa.gov/billsummary?BillNumber=2374&Initiative=false&Year=2023",
-"https://facebook.com/GerryPollet",
-"https://gerrypollet.com/",
-"https://gerrypollet.com/about",
-"https://gerrypollet.com/endorsements",
-"https://gerrypollet.com/issues",
-"https://gerrypollet.com/media",
-"https://gerrypollet.com/news-1",
-"https://instagram.com/electpollet",
-"https://secure.actblue.com/donate/gerry-pollet-2",
-"https://studentaid.gov/h/apply-for-aid/fafsa",
-"https://wsac.wa.gov/wasfa"
+{
+"text": "< Back",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "About Gerry",
+"href": "https://www.gerrypollet.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/gerry-pollet-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.gerrypollet.com/endorsements"
+},
+{
+"text": "Free Application for Federal Student Aid (FAFSA)",
+"href": "https://studentaid.gov/h/apply-for-aid/fafsa"
+},
+{
+"text": "Guaranteed Education Tuition program",
+"href": "https://529.wa.gov/howgetworks"
+},
+{
+"text": "Issues",
+"href": "https://www.gerrypollet.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.gerrypollet.com/media"
+},
+{
+"text": "News",
+"href": "https://www.gerrypollet.com/news-1"
+},
+{
+"text": "Washington Application for State Financial Aid (WAFSA)",
+"href": "https://wsac.wa.gov/wasfa"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/GerryPollet"
+},
+{
+"text": "[image: GerryPollet-Logo2.png]",
+"href": "https://www.gerrypollet.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electpollet/"
+},
+{
+"text": "bill",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2309&Year=2023&Initiative=false"
+},
+{
+"text": "bill",
+"href": "https://app.leg.wa.gov/billsummary?BillNumber=2374&Initiative=false&Year=2023"
+},
+{
+"text": "info@gerrypollet.com",
+"href": "mailto:info@gerrypollet.com"
+}
 ]

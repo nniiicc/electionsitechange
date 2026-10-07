@@ -1,17 +1,15 @@
-Issues
-Restore Wisconsin’s Housing Affordability
-Restore Wisconsin
-“A Home You Can Buy When You’re Young, and Keep When You’re Old”
-Rising property taxes are forcing some seniors on fixed incomes out of the homes they’ve lived in for decades.
+Jon Aleckson for Assembly homepage Homepage About At Home On the Trail Issues Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Donate Homepage About At Home On the Trail Issues + Housing Affordability Data Centers & AI Civics Education Stronger Farms Schools & Teachers Get involved Facebook Issues Restore Wisconsin’s Housing Affordability Restore Wisconsin “A Home You Can Buy When You’re Young, and Keep When You’re Old” Rising property taxes are forcing some seniors on fixed incomes out of the homes they’ve lived in for decades.
 It’s unfair.
 Young people can no longer afford to build a starter home.
 If elected to the Assembly, Jon is committed to a targeted property tax freeze for seniors and a plan to get more starter homes for young families.
 Restoring Wisconsin means restoring the dream of homeownership for every generation.
 Jon’s two-part plan addresses both ends of the crisis.
-- IMMEDIATE: Double the Homestead Tax Credit for qualifying seniors: up to $1,000 in annual relief, no constitutional change needed.
-- LONG-TERM: Permanent property tax freeze for income-qualified seniors via Constitutional Amendment.
+IMMEDIATE : Double the Homestead Tax Credit for qualifying seniors: up to $1,000 in annual relief, no constitutional change needed.
+LONG-TERM : Permanent property tax freeze for income-qualified seniors via Constitutional Amendment.
 Jon will start that fight now.
-- YOUNG FAMILIES: First in line for federal ROAD to Housing Act funds: cuts red tape, builds starter homes, caps hedge fund ownership at 350 single-family homes.
-Restore Wisconsin
-“A home you can buy when you’re young and keep when you’re old.
-That’s what Restore Wisconsin means.”
+YOUNG FAMILIES : First in line for federal ROAD to Housing Act funds: cuts red tape, builds starter homes, caps hedge fund ownership at 350 single-family homes.
+Restore Wisconsin “A home you can buy when you’re young and keep when you’re old.
+That’s what Restore Wisconsin means.” Get Involved Donate Wisconsin State Assembly District 50 Donate Today Or mail a contribution to: Aleckson for Assembly 2920 Town Hall Rd Mt Horeb, WI 53572 Paid for by Aleckson for Assembly.
+Not authorized by any candidate or candidate’s committee.
+Primary: August 11, 2026 · General: November 3, 2026 © # Jon Aleckson for Assembly.
+All rights reserved. info@jonaleckson.com

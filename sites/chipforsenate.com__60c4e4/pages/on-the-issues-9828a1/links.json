@@ -1,7 +1,34 @@
 [
-"https://chipforsenate.com/",
-"https://chipforsenate.com/about-chip",
-"https://chipforsenate.com/in-the-community",
-"https://chipforsenate.com/on-the-issues",
-"https://legislature.maine.gov/bills/search_ps.asp"
+{
+"text": "ABOUT CHIP",
+"href": "https://www.chipforsenate.com/about-chip"
+},
+{
+"text": "CONTACT",
+"href": "https://www.chipforsenate.com"
+},
+{
+"text": "HOME",
+"href": "https://www.chipforsenate.com"
+},
+{
+"text": "IN THE COMMUNITY",
+"href": "https://www.chipforsenate.com/in-the-community"
+},
+{
+"text": "Just click here",
+"href": "https://legislature.maine.gov/bills/search_ps.asp"
+},
+{
+"text": "ON THE ISSUES",
+"href": "https://www.chipforsenate.com/on-the-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.chipforsenate.com/on-the-issues"
+},
+{
+"text": "curryforsenate@gmail.com",
+"href": "mailto:curryforsenate@gmail.com"
+}
 ]

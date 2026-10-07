@@ -1,9 +1,9 @@
 {
  "description": "Explore candidate endorsements for Joyce for New York, highlighting political endorsements and the support she has received.",
  "final_url": "https://joycefornewyork.com/endorsements",
- "paid_for_by": null,
+ "fingerprint": "48225680c2c2429d5ffc7491ac1909d6d3b092cb",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

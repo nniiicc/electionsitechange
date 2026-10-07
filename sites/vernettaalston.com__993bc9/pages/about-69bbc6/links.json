@@ -1,14 +1,54 @@
 [
-"https://deathpenaltyinfo.org/stories/north-carolina-racial-justice-act",
-"https://facebook.com/vernettaalstonNC",
-"https://instagram.com/vernettaalston?hl=en",
-"https://ncleg.gov/Members/Biography/H/765",
-"https://ncpolicywatch.com/2021/05/14/i-represented-an-innocent-man-on-death-row-heres-why-nc-must-end-the-death-penalty",
-"https://twitter.com/vernettaalston?lang=en",
-"https://vernettaalston.com/",
-"https://vernettaalston.com/about",
-"https://vernettaalston.com/donate",
-"https://vernettaalston.com/events",
-"https://vernettaalston.com/join",
-"https://vernettaalston.com/privacypolicy"
+{
+"text": "About",
+"href": "https://www.vernettaalston.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://www.vernettaalston.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.vernettaalston.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.vernettaalston.com"
+},
+{
+"text": "Join",
+"href": "https://www.vernettaalston.com/join"
+},
+{
+"text": "Privacy Policy & Terms of Service",
+"href": "https://www.vernettaalston.com/privacypolicy"
+},
+{
+"text": "Racial Justice Act",
+"href": "https://deathpenaltyinfo.org/stories/north-carolina-racial-justice-act"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/vernettaalstonNC"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/vernettaalston/?hl=en"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/vernettaalston?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.vernettaalston.com"
+},
+{
+"text": "exonerated and released from Death Row",
+"href": "https://ncpolicywatch.com/2021/05/14/i-represented-an-innocent-man-on-death-row-heres-why-nc-must-end-the-death-penalty/"
+},
+{
+"text": "here.",
+"href": "https://www.ncleg.gov/Members/Biography/H/765"
+}
 ]

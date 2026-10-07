@@ -1,7 +1,9 @@
 {
  "description": "Learn more about New York State Senator Patricia Fahy.",
  "final_url": "https://www.patriciafahy.com/meetpat",
- "paid_for_by": null,
+ "fingerprint": "86492963f13ed403739ce4ef79dec9a2ad241b8f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Pat | Patricia Fahy For State Senate",
  "years_mentioned": [
   "2012",
@@ -9,6 +11,8 @@
   "2019",
   "2022",
   "2024",
-  "2025"
+  "2025",
+  "2026",
+  "2030"
  ]
 }

@@ -1,37 +1,33 @@
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Skip to content Wyoming Senator Cheri Steinmetz SD3 Menu Home Bio News Calendar Sponsor/Co-sponsor Bills + BILLS 2026 Bills 2025 Bills 2024 Bills 2023 Bills 2022 Bills 2021 Bills 2020 Bills 2019 Bills 2018 Bills 2017 Position on the Issues Articles of Interest Endorsements Wyoming Senator Cheri Steinmetz SD3 | News BILLS 2026 Published on: February 6, 2026 March 12, 2026 by Admin &nbsp Category: Bills The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-Bills and Status
-Bills and Status: (All links will update as they come available) … All 2026 Bills … Audio Broadcast … (LSO) Legislative Services Office The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Bills and Status Published on: February 6, 2026 February 6, 2026 by Admin &nbsp Category: Bills , Legislation Bills and Status: (All links will update as they come available) … All 2026 Bills … Audio Broadcast … (LSO) Legislative Services Office The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach...
-Bills 2025
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Bills 2025 Published on: January 8, 2025 September 3, 2025 by Admin &nbsp Category: Bills The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-Bills 2024
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Bills 2024 Published on: January 22, 2024 April 4, 2024 by Admin &nbsp Category: Bills , Budget , Legislation The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-Bills 2023
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Bills 2023 Published on: January 11, 2023 March 7, 2024 by Admin &nbsp Category: Bills , Legislation The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-Public Participation
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Public Participation Published on: January 7, 2023 January 11, 2023 by Admin &nbsp Category: Legislation The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-State Senator Cheri Steinmetz Seeks Re-election
-LINGLE, WY – I will seek re-election for Wyoming State Senate District 3, which includes Goshen, Niobrara, and Weston Counties, in the upcoming Republican Primary election on August 16th.
+Read More State Senator Cheri Steinmetz Seeks Re-election Published on: April 23, 2022 by Admin &nbsp Category: Announcement LINGLE, WY – I will seek re-election for Wyoming State Senate District 3, which includes Goshen, Niobrara, and Weston Counties, in the upcoming Republican Primary election on August 16th.
 Clearly, challenges lie ahead and we are equal to them.
 As a free people we have the responsibility to decide...
-Bills 2022
-The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+Read More Bills 2022 Published on: March 4, 2022 April 23, 2022 by Admin &nbsp Category: Bills , Budget , Legislation The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
 You are welcome to share this useful tool with your constituents as we approach the session.
 Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to...
-News Release 2-14-2022
-For Release Immediately Contact Senator Cheri E.
+Read More News Release 2-14-2022 Published on: February 15, 2022 February 15, 2022 by Admin &nbsp Category: Budget , Legislation For Release Immediately Contact Senator Cheri E.
 Steinmetz To Reach (307) 534-5342 Contact Representative JD Williams Wyoming House District 2 To Reach (307) 340-6006 Steinmetz and Williams return to Cheyenne as Wyoming Legislature convenes 2022 Budget Session CHEYENNE – Senator Cheri Steinmetz and Representative JD Williams will continue to...
-Special Session
-11/06/2021 -The Wyoming Legislature’s seven-day Special Session ended Wednesday evening, November 3, 2021.
+Read More Special Session Published on: November 6, 2021 February 15, 2022 by Admin &nbsp Category: Government Overreach 11/06/2021 -The Wyoming Legislature’s seven-day Special Session ended Wednesday evening, November 3, 2021.
 There were three bills against vaccine mandates introduced, which were weakened by both the House and the Senate, and two of the three were killed.
 The only bill which passed, HB 1002, is a resolution essentially...
+Read More Posts navigation More Articles Older posts Address Cheri Steinmetz P.O.
+Box 101 Lingle, WY 82223 307-534-5342 Email Contact Wyoming Larger government equals less individual freedom and prosperity.
+We must address the structural budget deficit without increasing taxes.
+Select Menu Home Donate Contact Committees 2026 - Senate Corporations, Elections & Political Subdivisions 2026 - Senate Labor, Health & Social Services "Paid for by the Committee to Elect Steinmetz for Senate" © # Cheri Steinmetz Senate District 3.
+All rights reserved.

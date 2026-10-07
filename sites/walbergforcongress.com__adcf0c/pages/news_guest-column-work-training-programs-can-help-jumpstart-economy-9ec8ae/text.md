@@ -1,6 +1,4 @@
-Guest Column: Work training programs can help jumpstart economy
-From Heritage Newspapers:
-For many Americans, the dream of a comfortable middle-class existence seems increasingly out of reach.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Guest Column: Work training programs can help jumpstart economy 22 July News SHARE Guest Column: Work training programs can help jumpstart economy From Heritage Newspapers : For many Americans, the dream of a comfortable middle-class existence seems increasingly out of reach.
 I’ve heard from many people at my town hall meetings and coffee hours who are disappointed with the inability of a big federal government to help bring the dream back.
 Washington is actually making it tougher to make ends meet through misguided policies which raise household costs while decreasing take-home pay.
 For example, the President’s health-care law has increased a family health plan in Michigan by 9.5 percent and the President’s new carbon regulations will, in his own words, “necessarily increase energy costs” for all households.
@@ -20,3 +18,7 @@ Just as our workforce is training for existing and future jobs, Congress must al
 My colleagues and I in the House have already passed dozens of jobs related bills, including legislation to increase worker’s wages by restoring the 40-hour work week changed under the President’s health care law a bipartisan bill to invest in ports and waterway related infrastructure projects important to manufacturers and farmers in Michigan, and legislation which would make paying for college and getting a good education easier.
 The federal government should focus on helping individuals attain an education and become trained for the modern workforce, while implementing policies that encourage hiring and economic growth.
 Congress needs to remain committed and show a good-faith effort to reforming federal policies which will help grow a healthy economy, expand opportunity and help more people find and keep a good-paying job.
+Read the full article here .
+GO BACK Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

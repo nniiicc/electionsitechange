@@ -1,8 +1,4 @@
-The Constitution
-The Constitution Limits My Power—It Doesn’t Give Me the Right to Rule Over You
-By Delegate Chris Anders
-97th District, West Virginia House of Delegates
-Two hundred and fifty years ago, Patrick Henry stood in a Virginia church and declared: “Give me liberty, or give me death.” That fiery cry was not a political slogan—it was a declaration of purpose.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate The Constitution Mar 24 Written By ₿ The Constitution Limits My Power—It Doesn’t Give Me the Right to Rule Over You By Delegate Chris Anders 97th District, West Virginia House of Delegates Two hundred and fifty years ago, Patrick Henry stood in a Virginia church and declared: “Give me liberty, or give me death.” That fiery cry was not a political slogan—it was a declaration of purpose.
 It was a reminder that freedom is worth fighting for, even when the price is high.
 As a member of the West Virginia House of Delegates, I take that same message seriously.
 I didn’t swear an oath to a political party or to follow the latest polling data.
@@ -49,4 +45,4 @@ But like him, I believe we must choose freedom over the false comfort of governm
 I believe parents—not bureaucrats, not lawmakers—know what’s best for their children.
 And I will fight with everything I have to make sure that never changes.
 Because at the heart of our Republic is a simple, powerful truth: Liberty belongs to the people—not the government.
-And it’s time we started acting like it.
+And it’s time we started acting like it. ₿ Previous Previous Anders Votes Against the State Budget Next Next Health Committee anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

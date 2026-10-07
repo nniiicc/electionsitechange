@@ -1,11 +1,4 @@
-sheila4ohio.com
-Home
-Meet Sheila
-The Issues
-Endorsements
-Get Involved
-Voter Info
-Privacy Policy
-Accessibility Statement
-More
-The organizations and individuals who believe Sheila will best serve you, the people of the 83rd District.
+top of page sheila4ohio.com Home Meet Sheila The Issues Endorsements Get Involved Voter Info Privacy Policy Accessibility Statement More Use tab to navigate through the menu items.
+DONATE AFSCME (American Federation of State, County and Municipal Employees) Ohio Federation of Teachers Click the logos to read the letters of endorsement Ohio Education Association Letters The Matriots Blue Ohio Endorsements The organizations and individuals who believe Sheila will best serve you, the people of the 83rd District. < Back sheila4ohio.com Home Meet Sheila The Issues Endorsements Get Involved Voter Info Privacy Policy Accessibility Statement If you want to contribute to Sheila's campaign by mail, send your check to: Friends to Elect Coressel P.O.
+Box 214 Ada, Oh 45810 DONATE Paid for by Friends To Elect Sheila Coressel.
+Powered and secured by Wix bottom of page

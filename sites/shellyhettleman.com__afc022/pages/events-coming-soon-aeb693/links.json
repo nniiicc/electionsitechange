@@ -1,20 +1,74 @@
 [
-"https://facebook.com/shellyhettlemanforsenate",
-"https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2",
-"https://shellyhettleman.com/",
-"https://shellyhettleman.com/about-shelly",
-"https://shellyhettleman.com/events-coming-soon",
-"https://shellyhettleman.com/issues",
-"https://shellyhettleman.com/issues/education",
-"https://shellyhettleman.com/issues/environment",
-"https://shellyhettleman.com/issues/health",
-"https://shellyhettleman.com/issues/jobs",
-"https://shellyhettleman.com/issues/public-safety",
-"https://shellyhettleman.com/issues/seniors",
-"https://shellyhettleman.com/resources-scholarships",
-"https://shellyhettleman.com/shelly-in-the-news",
-"https://shellyhettleman.com/stay-in-touch",
-"https://shellyhettleman.com/updates",
-"https://twitter.com/shellyhettleman",
-"https://webintech.com/"
+{
+"text": "About Shelly",
+"href": "https://shellyhettleman.com/about-shelly/"
+},
+{
+"text": "Better Public Education",
+"href": "https://shellyhettleman.com/issues/education/"
+},
+{
+"text": "Events",
+"href": "https://shellyhettleman.com/events-coming-soon/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/shellyhettlemanforsenate/"
+},
+{
+"text": "Health & Wellness",
+"href": "https://shellyhettleman.com/issues/health/"
+},
+{
+"text": "Issues",
+"href": "https://shellyhettleman.com/issues/"
+},
+{
+"text": "Jobs, Housing & Economic Development",
+"href": "https://shellyhettleman.com/issues/jobs/"
+},
+{
+"text": "Our Debt to Seniors",
+"href": "https://shellyhettleman.com/issues/seniors/"
+},
+{
+"text": "Protecting the Environment & Our Democracy",
+"href": "https://shellyhettleman.com/issues/environment/"
+},
+{
+"text": "Public Safety & Criminal Justice",
+"href": "https://shellyhettleman.com/issues/public-safety/"
+},
+{
+"text": "Resources & Scholarships",
+"href": "https://shellyhettleman.com/resources-scholarships/"
+},
+{
+"text": "Shelly in the News",
+"href": "https://shellyhettleman.com/shelly-in-the-news/"
+},
+{
+"text": "Stay in Touch",
+"href": "https://shellyhettleman.com/stay-in-touch/"
+},
+{
+"text": "Support Shelly",
+"href": "https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/shellyhettleman"
+},
+{
+"text": "Updates from Shelly",
+"href": "https://shellyhettleman.com/updates/"
+},
+{
+"text": "Web Interactive Technologies",
+"href": "https://www.webintech.com/"
+},
+{
+"text": "[image: Shelly Hettleman]",
+"href": "https://shellyhettleman.com/"
+}
 ]

@@ -1,8 +1,7 @@
-To Serve my Priorities and return Government to the People, I propose the following Bills.
+Skip to content Skip to sidebar Skip to footer Menu Close Home About Ask David Virtual Rally Volunteer Events Close Home About Ask David Virtual Rally Volunteer Events Youtube Instagram Get in Touch Home About Ask David Virtual Rally Volunteer Events Proposed Bills June 19, 2025 To Serve my Priorities and return Government to the People, I propose the following Bills.
 I dare any sitting Legislator to propose them before I can.
 1.
-No Strings Act (aka: Voice of the People Act)
-This Act would outlaw certain controls on funds distributed by the Federal Government when those controls extend beyond the specific scope of the project for which those funds were granted.
+No Strings Act (aka: Voice of the People Act) This Act would outlaw certain controls on funds distributed by the Federal Government when those controls extend beyond the specific scope of the project for which those funds were granted.
 All previous Controls, Limitations, or Laws Dictated to States through “Conditional Grants” as well as all previous agreements between States a Federal entity shall immediately become null and void.
 This bill will also contain provisions blocking Federal Funds from being distributed to Non-Government Agencies that are not under a specific and limited contract and subject to full audit.
 Today nearly every Federal Grant comes with limitations that extend beyond the specific scope of the project that the grant was issued for.
@@ -10,7 +9,7 @@ Federal grants fund many projects.
 However, that mechanism is costly and severely flawed.
 If the people wish to continue the practice of having the Federal Government collect and redistribute money, we the people should not simultaneously be extorted into creating laws which the Federal Government could not enact by other means.
 For example, the Federal Government can not create a Federal Speed Limit legally under the Constitution (see 10th Amendment).
-However, if the Federal Government makes changing the State Speed Limit part of the “Grant Contract,” then that equates to “The State doing it voluntarily.” This is an abusive and back handed way of avoiding the 10th Amendment.
+However, if the Federal Government makes changing the State Speed Limit part of the “Grant Contract,” then that equates to “The State doing it voluntarily.” This is an abusive and back handed way of avoiding the 10th Amendment .
 Often there are good reasons for certain controls on distributed funds.
 However those controls should only relate to the specific project the funds are issued for.
 The real goals of this legislation are to return control to the States and Local authorities, reduce to size of federal bureaucracy, and reduce the federal government’s budget (resulting the transfer hundreds of billions of dollars back to state, local and individual citizen control).
@@ -33,12 +32,10 @@ In the video below Senator Rand Paul talks about the Federal Reserve and the SBA
 In addition to the losses taxpayers experience due to the corruption of these rogue administrators, the overhead costs to maintain these administrators and their staff are enormous.
 The No More Strings Act will save hundreds of billions of dollars per year (if not over $1 Trillion) that can go back to local economies without strings.
 Did you know that the Federal Government doesn’t even know how many Agencies there are?
-They actually say, “There is no authoritative list of government agencies.” and; “The United States Government Manual lists 96 independent executive units and 220 components of the executive departments.
-An even more inclusive listing comes from USA.gov, which lists 137 independent executive agencies and 268 units in the Cabinet.“
-This Act will eliminate the need for numerous government agencies that exist solely to skim funds off of your taxes before redistributing your money to things you may not support, and/or control you in ways that you do not approve of.
-2.
-Minimum Employment Act (aka: Full Time Wage Act)
-This Act will require employers with locations in more than one State (by same name, or ownership) to employ a minimum of 80% full time employees (percentage may vary).
+They actually say, “ There is no authoritative list of government agencies. ” and; “ The United States Government Manual lists 96 independent executive units and 220 components of the executive departments.
+An even more inclusive listing comes from USA.gov, which lists 137 independent executive agencies and 268 units in the Cabinet. “ This Act will eliminate the need for numerous government agencies that exist solely to skim funds off of your taxes before redistributing your money to things you may not support, and/or control you in ways that you do not approve of.
+HR_No_Strings_Act_IH-1.pdf 2.
+Minimum Employment Act (aka: Full Time Wage Act) This Act will require employers with locations in more than one State (by same name, or ownership) to employ a minimum of 80% full time employees (percentage may vary).
 Certain exceptions will be made for temporary employees and employers with sporadic operations.
 Many people have been demanding a higher minimum wage in this country for a long time.
 Any good business person knows that when a business is forced to increase costs in one area due to random factors (like increased minimum wage by government) they will take actions to maintain their profit margin (which is very small to begin with for most business owners).
@@ -57,10 +54,9 @@ Don’t you want health care, retirement savings and vacation time to be availab
 Or would it be better to just get them a couple more dollars per week to help them pay for the benefits their employers are keeping from them?
 Most Small Businesses in this country already provide full time work to most, or all, of their employees and therefore employee benefits as required by law.
 It is the large corporations who are abusing American Workers by keeping hours down and withholding benefits.
-It is time we really started protecting the common worker and small businesses.
+It is time we really started protecting the common worker and small businesses .
 3.
-Anti-Racism Act
-Since 1865 the United States of America has created 20 Constitutional Amendments enacting Acts (laws) intended to create equality among Human Beings.
+Anti-Racism Act Since 1865 the United States of America has created 20 Constitutional Amendments enacting Acts (laws) intended to create equality among Human Beings .
 Unfortunately, since that time corrupt politicians, in league with individuals committed to perpetuating hate and division between groups of humans, have continued to enact policies and laws that specifically categorize and divide Humans.
 They use these groupings to give certain groups preferred, or unfavored, status in Federally sponsored programs and in the ways laws are enforced.
 Every time a federal program earmarks funds for a group of Humans based on criteria described in one of these 20 Amendments or Acts (ie race, creed, color, religion, sex, sexual preference, or national origin) it VIOLATES Federal Law and contributes to “systematic racism.” The Anti-Racism Act will help end “systematic racism” and all “systematic discrimination” by outlawing it at the Federal level.
@@ -71,10 +67,14 @@ The Anti-Racism Act will END “systematic racism” by mandating retroactively 
 As such, all currently active laws, programs and documents that make reference to any subgroup of Human Beings must be amended to remove said references, or be terminated.
 The Anti-Racism Act will also outlaw any future legislation, or government program, from specifying, or naming, any group of Humans defined by race, creed, color, religion, sex, sexual preference, national origin, or any other general grouping that will be used to determine qualification, preference of qualification, treatment within, or funding level of participants for any government related program or activity.
 4.
-Prosecutorial Requirements for US Attorneys
-This legislation would require Federal District Attorneys to take a minimum number of all cases brought to them by Local, State, or Federal law enforcement to trial.
+Prosecutorial Requirements for US Attorneys This legislation would require Federal District Attorneys to take a minimum number of all cases brought to them by Local, State, or Federal law enforcement to trial.
 I like a number of around 98%, but that can be negotiated.
 This will stop communist prosecutors in their tracks.
 They either take criminals to trial or lose their jobs.
 I would seek to apply this legislation to all District Attorneys, but that would be unconstitutional.
 Instead, I would push for State and local jurisdictions to enact their own similar law.
+Table of Contents Recent Posts Uncategorized Andrea Salinas Congressional Record October 1, 2026 Uncategorized, Civic Participation, Electoral Education, Government Policy, Political Analysis Willamette Week 9/29/26 September 29, 2026 David is a Patriot Servant Leader focused on constitutional government, accountable leadership and citizens rights.
+Links Home About FAQs Ask David News Volunteer Events Legal Privacy Policy Terms of Services Contact +1 (503) 714-8086‬ info@RussIsForUS.com PO Box 21, Dundee, OR 97115 Socials Facebook X-twitter Youtube Instagram © # David Russ Is For US.
+Paid for by David Russ Is For US.
+Some images, audio, video, or written content may be created or enhanced using artificial intelligence (AI) tools.
+Site Managed by David Russ

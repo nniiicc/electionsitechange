@@ -1,55 +1,13 @@
-The issues facing Michigan families are deeply connected.
+0 Skip to Content Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate Open Menu Close Menu Meet Sarah On the Campaign Trail Endorsements Priorities In the News Contact Donate The issues facing Michigan families are deeply connected.
 Strong schools help children succeed and communities thrive.
 Good jobs make it possible to build a stable life.
 Affordable housing, healthcare, childcare and utilities determine whether families can get ahead.
-My priorities always come back to one goal:
-Building a Michigan that works better for everyday families.
-Priorities
-Making Life More Affordable
-Everything I care about comes back to affordability.
+My priorities always come back to one goal: Building a Michigan that works better for everyday families.
+Priorities Making Life More Affordable Everything I care about comes back to affordability.
 Michigan families should not have to work harder every year simply to fall further behind.
-In Lansing, I will fight to:
-- Lower household costs, including utilities, healthcare, childcare and groceries
-- Create good-paying jobs and strengthen worker protections
-- Expand housing people can afford
-- Hold corporations and utilities accountable for unfair price increases
-Strong Public Schools
-As a parent with four children who attend public schools, I know that education policy shapes our children’s opportunities and our communities’ futures.
-In Lansing, I will fight to:
-- Fully and predictably fund public schools
-- Recruit and retain excellent educators
-- Expand career and technical education, apprenticeships and skilled-trades pathways
-- Protect school employees’ collective-bargaining rights
-- Reduce the overreliance on standardized testing
-Housing People Can Afford
-I have spent years working on housing policy in Oakland County because families, seniors and young people should be able to find a home they can afford in the communities they love.
-That work has helped:
-- Support more than 1,100 mixed-income homes
-- Leverage $30 million in public investment into more than $300 million in total development
-I will take that experience to Lansing as I fight to:
-- Expand housing choices for families, seniors, and young people while respecting local infrastructure and community character
-- Encourage development in places that make the most sense, including brownfield redevelopment whenever possible
-Good Jobs and a Strong Economy
-Michigan’s economy should create stability - not just growth on paper.
-In Lansing, I will fight to:
-- Support unions, prevailing wage and collective bargaining
-- Expand apprenticeships, skilled-trades training and career pathways
-- Invest in advanced manufacturing, clean energy and emerging industries
-- Protect workers as automation and AI change the workplace
-- Make childcare more accessible so parents can fully participate in the workforce
-Protecting Michigan’s Water and Environment
-Michigan’s water, land and Great Lakes are part of who we are, and protecting them is both an environmental responsibility and an economic necessity.
-In Lansing, I will fight to:
-- Hold polluters accountable and support Polluter Pay policies
-- Address PFAS and aging water infrastructure
-- Protect communities from poorly planned industrial development
-- Require strong safeguards for data centers, including recycled water, renewable energy, transparency and community involvement
-- Prioritize brownfields over farmland and undeveloped greenfields
-Healthcare People Can Afford
-No family should delay care, ration medication or risk financial ruin because someone gets sick.
-In Lansing, I will fight to:
-- Protect and expand access to affordable coverage
-- Lower prescription-drug and out-of-pocket costs
-- Support reproductive freedom
-- Strengthen mental-health services
-- Improve staffing, transparency and accountability in long-term care
+In Lansing, I will fight to: Lower household costs, including utilities, healthcare, childcare and groceries Create good-paying jobs and strengthen worker protections Expand housing people can afford Hold corporations and utilities accountable for unfair price increases Strong Public Schools As a parent with four children who attend public schools, I know that education policy shapes our children’s opportunities and our communities’ futures.
+In Lansing, I will fight to: Fully and predictably fund public schools Recruit and retain excellent educators Expand career and technical education, apprenticeships and skilled-trades pathways Protect school employees’ collective-bargaining rights Reduce the overreliance on standardized testing Housing People Can Afford I have spent years working on housing policy in Oakland County because families, seniors and young people should be able to find a home they can afford in the communities they love.
+That work has helped: Support more than 1,100 mixed-income homes Leverage $30 million in public investment into more than $300 million in total development I will take that experience to Lansing as I fight to: Expand housing choices for families, seniors, and young people while respecting local infrastructure and community character Encourage development in places that make the most sense, including brownfield redevelopment whenever possible Good Jobs and a Strong Economy Michigan’s economy should create stability - not just growth on paper.
+In Lansing, I will fight to: Support unions, prevailing wage and collective bargaining Expand apprenticeships, skilled-trades training and career pathways Invest in advanced manufacturing, clean energy and emerging industries Protect workers as automation and AI change the workplace Make childcare more accessible so parents can fully participate in the workforce Protecting Michigan’s Water and Environment Michigan’s water, land and Great Lakes are part of who we are, and protecting them is both an environmental responsibility and an economic necessity.
+In Lansing, I will fight to: Hold polluters accountable and support Polluter Pay policies Address PFAS and aging water infrastructure Protect communities from poorly planned industrial development Require strong safeguards for data centers, including recycled water, renewable energy, transparency and community involvement Prioritize brownfields over farmland and undeveloped greenfields Healthcare People Can Afford No family should delay care, ration medication or risk financial ruin because someone gets sick.
+In Lansing, I will fight to: Protect and expand access to affordable coverage Lower prescription-drug and out-of-pocket costs Support reproductive freedom Strengthen mental-health services Improve staffing, transparency and accountability in long-term care Meet Sarah Priorities Get in Touch Donate Here Volunteer Here Paid for by Committee to Elect Sarah Pounds, PO Box 80086 Rochester, MI 48308

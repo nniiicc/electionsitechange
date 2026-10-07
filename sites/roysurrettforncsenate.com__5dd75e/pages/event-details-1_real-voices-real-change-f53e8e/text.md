@@ -1,5 +1,1 @@
-Wed, Sep 16
-Carteret County Democratic Headquarters
-Meet and Greet your NC State Senate District 2 Candidate, Roy Surrett
-Sep 16, 2026, 6:00 PM – 8:00 PM
-Carteret County Democratic Headquarters, 700 Arendell St, Morehead City, NC 28557, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Real Voices, Real Change Wed, Sep 16 | Carteret County Democratic Headquarters Meet and Greet your NC State Senate District 2 Candidate, Roy Surrett Registration is closed See other events Time & Location Sep 16, 2026, 6:00 PM – 8:00 PM Carteret County Democratic Headquarters, 700 Arendell St, Morehead City, NC 28557, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

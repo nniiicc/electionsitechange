@@ -1,9 +1,8 @@
-District 58 continues to deserve someone like Kimberly Berfield – a person who will champion the issues which matter most to you.
+Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts Meet Kim Issues Accomplishments Join Kim’s Krewe Endorsements Precincts The Issues District 58 continues to deserve someone like Kimberly Berfield – a person who will champion the issues which matter most to you.
 She will stand up for our community and the values that have enabled us to become a gem on the gulf coast of Florida.
 Growing up in Pinellas County, Kim understands the challenges facing families inside and out.
 Learn more about where Kimberly stands . . .
-Our Community
-Our community possesses some of the finest beaches in Florida that are world destinations.
+Our Community Our community possesses some of the finest beaches in Florida that are world destinations.
 Florida coastal charm with quaint historical areas and pristine waters of beauty are perfect for relaxing, boating, fishing and nature sports in the state ties us to our past while propelling us into the future.
 We must safeguard our shared natural heritage for future generations.
 While mother nature has blessed us with the beauty and benefits of the waterfronts, she has also challenged us through her fury of weather.
@@ -13,8 +12,7 @@ While tort reform with homeowners’ insurance, benefits for retrofitting or har
 We must remain steadfast in our position on tort reform, continue to address issues which Pinellas’s residents are being ejected from Citizen’s Insurance Company.
 Additionally, it is imperative to preserve attainable housing in our community.
 To sustain our community’s old Florida charm and growth we must fight to ensure we do not experience the reduction tourism dollars received to rejuvenate our hallmark economy.
-Quality of Life
-Florida’s family unit is consistently under attack whether it be our ethics system, inflation, or our educational system.
+Quality of Life Florida’s family unit is consistently under attack whether it be our ethics system, inflation, or our educational system.
 Enabling young people to embrace their family heritage, traditions and beliefs without repercussions must occur with an environment of preservation at the state level.
 Our young people need to be able to learn the basics to compete on a world stage.
 Our children and youth should be able to read at their grade level and the government should not stand between their parents and their child.
@@ -23,8 +21,7 @@ Our logistical system continues to have greater demands placed on it as we evolv
 This system is not just for daily transportation, but for the moving of personal goods, orders placed, growth of businesses and ________________.
 Florida must strategically create a better logistical system to accept, distribute and transport supplies to further develop a demand industry before neighboring states claim it.
 Proactively securing this type of supply chain by leveraging all our resources (roadways, ports, airports, railways and our waterways) we will protect our citizens against shortages while identifying a stronger revenue source to stabilize our economy.
-Financial Stability
-Lower taxes and responsible government spending are critical to ensure our economy thrives.
+Financial Stability Lower taxes and responsible government spending are critical to ensure our economy thrives.
 Identifying tax incentives will permit our small businesses to hire more people, as well as empowering citizens to experience a more prosperous life.
 Our state continues to meet economic challenges ranging from the days of the COVID-19 outbreak to the aftermath of mother nature.
 Our beaches and small businesses have had a real impact during these challenging times.
@@ -32,4 +29,7 @@ Eliminating taxes like the tax businesses pay on rent for commercial property, f
 We and our families are just as impacted by the challenges as our business community, which supports our quality of life.
 The government needs to stop taking money out of our pockets – we hardworking Floridians – to pay for more government.
 Whether that reduction is realized through eliminating taxes on items like diapers or suspending the gasoline tax; providing tax breaks for disaster preparedness, back to school, tools for skilled works or on your homeowner’s insurance, each dollar is essential for families today.
-There are no results matching your search
+There are no results matching your search Kimberly Berfield for State House 2519 North McMullen Booth Road Suite 510 Clearwater, FL 33761 Menu Menu Meet Kim The Issues Accomplishments Endorsements Precincts Meet Kim The Issues Accomplishments Endorsements Precincts Ways to Support Menu Join Kim’s Krewe Endorse Kim Join Kim’s Krewe Endorse Kim Contributions are not deductible as charitable contributions for federal income tax purposes.
+The maximum contribution is $1,000 per individual or business, per election.
+Paid by Kimberly "Kim" Berfield, Republican, for State Representative District 58.
+Copyright © # – # Kimberly “Kim” Berfield – All Rights Reserved.

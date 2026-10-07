@@ -1,6 +1,22 @@
 [
-"https://ericmooreforgasenate.org/",
-"https://ericmooreforgasenate.org/contact-us",
-"https://ericmooreforgasenate.org/privacy-policy",
-"https://ericmooreforgasenate.org/upcoming-events"
+{
+"text": "Contact us",
+"href": "https://www.ericmooreforgasenate.org/contact-us/"
+},
+{
+"text": "Home",
+"href": "https://www.ericmooreforgasenate.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ericmooreforgasenate.org/privacy-policy/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.ericmooreforgasenate.org/upcoming-events/"
+},
+{
+"text": "[image]",
+"href": "https://www.ericmooreforgasenate.org/"
+}
 ]

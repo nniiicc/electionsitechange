@@ -1,8 +1,4 @@
-On The Issues
-Flock Cameras
-In Depth
-Libertarian Governor Candidate Ken Krawchuk Calls for a Statewide Ban on Flock Cameras
-Militia Hill, PA – At a roadside rally today, Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, called for an immediate statewide ban on the use of Flock Safety cameras and similar surveillance technology until responsible, controlling, statewide legislation is enacted.
+Home Events Press Releases Issues Education Taxes Elections Abortion Crime Gun Control Drugs Welfare LGBT Environment Constitution Shutdowns Flock Cameras Data Centers Responses to Facebook Questions Volunteer Donate Campaign Songs Socials   Select Page On The Issues Flock Cameras In Depth Libertarian Governor Candidate Ken Krawchuk Calls for a Statewide Ban on Flock Cameras Militia Hill, PA – At a roadside rally today, Ken Krawchuk, the Pennsylvania Libertarian gubernatorial candidate, called for an immediate statewide ban on the use of Flock Safety cameras and similar surveillance technology until responsible, controlling, statewide legislation is enacted.
 “It’s a fact that technology has stolen our privacy.
 Ever since Richard Nixon’s tapes were forced to be made public, I’ve always assumed that everything we do or say online or in person is monitored.
 But these Flock cameras have taken surveillance to a new, dangerous level.
@@ -31,10 +27,7 @@ Social media abounds with stories of citizens disabling, blocking, cutting down,
 While I understand that reasonable people may be goaded into doing unreasonable things, I cannot in clear conscience condemn them.
 The very idea of being constantly tracked by the government is abhorrent, so the patriotic reaction we’re seeing should surprise no one.
 “All that said, the solution isn’t to shoot cameras or over-regulate the development of new technology, but rather to ruthlessly enforce property rights and place strict, unyielding limits on government power.
-Specifically:
-· On the private front: Legally recognize that you own your own likeness and biometric data, meaning it cannot be marketed to anyone ever without your explicit, written permission.
-· On the government front: Prohibit any government agency from entering into contracts that allow local citizen data to be shared, pooled, or handed over to any other government entity without a pre-existing, specific, individualized warrant.
-· On all fronts: Demand strong audit trails of all uses of Flock cameras and their ilk.
+Specifically: · On the private front: Legally recognize that you own your own likeness and biometric data, meaning it cannot be marketed to anyone ever without your explicit, written permission. · On the government front: Prohibit any government agency from entering into contracts that allow local citizen data to be shared, pooled, or handed over to any other government entity without a pre-existing, specific, individualized warrant. · On all fronts: Demand strong audit trails of all uses of Flock cameras and their ilk.
 These audits must be readily and freely available to the public at large along with the warrants or contracts that authorized their use.
 The spirit of the Fourth Amendment demands no less.
 And since no other candidates are focused on corralling the burgeoning surveillance state, the only way to retain your privacy is to vote Libertarian.
@@ -46,10 +39,7 @@ Senate in 2024, placing third in a field of five, and receiving more than enough
 Founded in 1971, the Libertarian Party is the third largest political party in the state and the nation, with over 200 elected and appointed officials currently serving in office in Pennsylvania alone, and many more nationwide.
 Libertarians believe that you have the inalienable right to conduct your life as you see fit, without interference, so long as you respect the rights and property of others.
 It’s the Golden Rule on a political level.
-For more information about the Libertarian Party, the public is invited to contact the Krawchuk/Thomas campaign at KenK4Pa.com, Campaign@KenK4Pa.com, or (224) Krawchuk (224-572-9248), the Libertarian Party of Pennsylvania at LpPa.org or (800) R-RIGHTS, or the National Libertarian Party at Lp.org or (202) 333-0008.
-– end –
-Postscript: To help drive the message home with humor, at the Militia Hill rally Ken delivered the following message to the assembled crowd, verbatim:
-“Everyone knows how much I love puns, so on the lighter side—as if there is such a thing when it comes to spying on citizens!—here’s an example of Dad jokes meeting the Fourth Amendment.
+For more information about the Libertarian Party, the public is invited to contact the Krawchuk/Thomas campaign at KenK4Pa.com, Campaign@KenK4Pa.com, or (224) Krawchuk (224-572-9248), the Libertarian Party of Pennsylvania at LpPa.org or (800) R-RIGHTS, or the National Libertarian Party at Lp.org or (202) 333-0008. – end – ​ Postscript: To help drive the message home with humor, at the Militia Hill rally Ken delivered the following message to the assembled crowd, verbatim: “Everyone knows how much I love puns, so on the lighter side—as if there is such a thing when it comes to spying on citizens!—here’s an example of Dad jokes meeting the Fourth Amendment.
 Brace yourself!
 I have some bad news: Pennsylvania is all Flocked up.
 We’re all Flocked.
@@ -63,4 +53,4 @@ Enough of this Flocking nonsense!
 Don’t let them Flock us any further.
 Stop the contracts, stop the sharing, and stop them NOW before we’re all completely Flocked.
 If you don’t want to get Flocked again, there’s only one choice: Vote Libertarian.
-Vote KenK4Pa.com.”
+Vote KenK4Pa.com.” Home Events Press Releases Issues Volunteer Donate Campaign Songs Socials Facebook X RSS Designed by Elegant Themes | Powered by WordPress

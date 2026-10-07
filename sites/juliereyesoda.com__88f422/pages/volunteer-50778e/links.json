@@ -1,13 +1,50 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSesHXN7Z_QmK5L_URSaBaYV6KIJsg39rJ_7cvpj6Y3x322QVg/viewform",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fjuliereyesoda&sa=D&sntz=1&usg=AOvVaw3-DA1ce1h7dUPuRLyKq116",
-"https://google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fjuliereyesoda%2F&sa=D&sntz=1&usg=AOvVaw3gU1_eKMvyoPN_9qHZ2Tej",
-"https://juliereyesoda.com/2026-endorsements",
-"https://juliereyesoda.com/contact-me",
-"https://juliereyesoda.com/donate",
-"https://juliereyesoda.com/home",
-"https://juliereyesoda.com/how-do-i-vote-general",
-"https://juliereyesoda.com/in-the-news",
-"https://juliereyesoda.com/the-issues",
-"https://juliereyesoda.com/volunteer"
+{
+"text": "2026 Endorsements",
+"href": "https://www.juliereyesoda.com/2026-endorsements"
+},
+{
+"text": "Contact Me",
+"href": "https://www.juliereyesoda.com/contact-me"
+},
+{
+"text": "Donate",
+"href": "https://www.juliereyesoda.com/donate"
+},
+{
+"text": "Home",
+"href": "https://www.juliereyesoda.com/home"
+},
+{
+"text": "How do I vote? (General)",
+"href": "https://www.juliereyesoda.com/how-do-i-vote-general"
+},
+{
+"text": "In the News",
+"href": "https://www.juliereyesoda.com/in-the-news"
+},
+{
+"text": "The Issues",
+"href": "https://www.juliereyesoda.com/the-issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.juliereyesoda.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fjuliereyesoda&sa=D&sntz=1&usg=AOvVaw3-DA1ce1h7dUPuRLyKq116"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fjuliereyesoda%2F&sa=D&sntz=1&usg=AOvVaw3gU1_eKMvyoPN_9qHZ2Tej"
+},
+{
+"text": "[image]",
+"href": "https://www.juliereyesoda.com/home"
+},
+{
+"text": "[tooltip: Open Google Forms, Come Volunteer for Julie Reyes Oda's Campaign in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSesHXN7Z_QmK5L_URSaBaYV6KIJsg39rJ_7cvpj6Y3x322QVg/viewform"
+}
 ]

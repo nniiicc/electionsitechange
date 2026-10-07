@@ -1,27 +1,138 @@
 [
-"http://facebook.com/PoindexterForCongress",
-"https://bsky.app/profile/poindexterforcongress.com",
-"https://instagram.com/PoindexterForCongress",
-"https://mobilize.us/brianpoindexter",
-"https://poindexterforcongress.com/",
-"https://poindexterforcongress.com/brian-poindexters-working-class-story",
-"https://poindexterforcongress.com/get-involved",
-"https://poindexterforcongress.com/healthcare-that-makes-sense",
-"https://poindexterforcongress.com/made-in-america",
-"https://poindexterforcongress.com/news-media",
-"https://poindexterforcongress.com/privacy-policy",
-"https://poindexterforcongress.com/terms-of-service",
-"https://poindexterforcongress.com/the-economy-and-cost-of-living",
-"https://poindexterforcongress.com/workers-rights-and-unions",
-"https://poindexterforcongress.com/yard-signs",
-"https://secure.actblue.com/donate/poindexter_web",
-"https://secure.actblue.com/donate/poindexter_web?amount=10",
-"https://secure.actblue.com/donate/poindexter_web?amount=100",
-"https://secure.actblue.com/donate/poindexter_web?amount=25",
-"https://secure.actblue.com/donate/poindexter_web?amount=250",
-"https://secure.actblue.com/donate/poindexter_web?amount=50",
-"https://threads.com/@poindexterforcongress",
-"https://tiktok.com/@poindexterforcongress",
-"https://x.com/bpforcongress",
-"https://youtube.com/@poindexterforcongress"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/poindexter_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/poindexter_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/poindexter_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/poindexter_web?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/poindexter_web?amount=50"
+},
+{
+"text": "Brian's Story",
+"href": "https://poindexterforcongress.com/brian-poindexters-working-class-story/"
+},
+{
+"text": "Brian's Working-Class Story",
+"href": "https://poindexterforcongress.com/brian-poindexters-working-class-story/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/poindexter_web"
+},
+{
+"text": "Events",
+"href": "https://www.mobilize.us/brianpoindexter/"
+},
+{
+"text": "Healthcare",
+"href": "https://poindexterforcongress.com/healthcare-that-makes-sense/"
+},
+{
+"text": "Healthcare That Makes Sense Healthcare shouldn’t disappear because a job does. The system is confusing by design, and working families pay the price.",
+"href": "https://poindexterforcongress.com/healthcare-that-makes-sense/"
+},
+{
+"text": "Made in America We shouldn’t reward companies for shipping jobs overseas. If corporations want the benefits of this country, they should invest in American workers and communities.",
+"href": "https://poindexterforcongress.com/made-in-america/"
+},
+{
+"text": "Made in USA",
+"href": "https://poindexterforcongress.com/made-in-america/"
+},
+{
+"text": "News/Media",
+"href": "https://poindexterforcongress.com/news-media/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/poindexter_web"
+},
+{
+"text": "Privacy Policy",
+"href": "https://poindexterforcongress.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://poindexterforcongress.com/privacy-policy/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://poindexterforcongress.com/yard-signs/"
+},
+{
+"text": "Terms of Service",
+"href": "https://poindexterforcongress.com/terms-of-service"
+},
+{
+"text": "Terms of Service",
+"href": "https://poindexterforcongress.com/terms-of-service/"
+},
+{
+"text": "The Economy",
+"href": "https://poindexterforcongress.com/the-economy-and-cost-of-living/"
+},
+{
+"text": "The Economy and Cost of Living Working families are paying more while corporations post record profits. An economy that works should work for the people who power it.",
+"href": "https://poindexterforcongress.com/the-economy-and-cost-of-living/"
+},
+{
+"text": "Volunteer",
+"href": "https://poindexterforcongress.com/get-involved/"
+},
+{
+"text": "Workers Rights",
+"href": "https://poindexterforcongress.com/workers-rights-and-unions/"
+},
+{
+"text": "Workers’ Rights & Unions Every worker deserves the freedom to organize without intimidation. Strong unions mean safer workplaces, fair pay, and stronger communities.",
+"href": "https://poindexterforcongress.com/workers-rights-and-unions/"
+},
+{
+"text": "[image]",
+"href": "https://poindexterforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/PoindexterForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/poindexterforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/PoindexterForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@poindexterforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@poindexterforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@poindexterforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/bpforcongress"
+},
+{
+"text": "info@poindexterforcongress.com",
+"href": "mailto:info@poindexterforcongress.com"
+}
 ]

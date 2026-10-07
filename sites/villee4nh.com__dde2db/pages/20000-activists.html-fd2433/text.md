@@ -1,4 +1,4 @@
-Archived Essay: What Can 20,000 Liberty Activists Accomplish?
+Home Issues Issues 20,000 Activists Article 83 Drugs End of Life Grandfathering LPNH Tweets Pandemic Response Secession Veto List Libertarianism Lose the Hate Lose the Fear Contact Donate Archived Essay: What Can 20,000 Liberty Activists Accomplish?
 Below is an essay by Jason Sorens, circa 2003, explaining why he believed 20,000 liberty activists would be enough to bring about a libertarian government in a small population state.
 The original essay is available via the Internet Archive Wayback Machine.
 As I explain on the home page, I believe his reasoning was flawed.
@@ -55,8 +55,7 @@ Finally, these numbers include PAC contributions, not just contributions from in
 Currently, the LP receives the vast majority of contributions from individuals, but if a libertarian party were to have a chance of winning, undoubtedly contributions from PACs would increase.
 Accordingly, it appears that there are several states where the FSP would have a chance of winning majorities in the state legislature and the governorship.
 States that fulfill the criteria of less than about 1.2 million population and less than $10.4 million or thereabouts major-party spending in any of the last four election cycles are all potential targets: Wyoming, Alaska, North Dakota, Vermont, Delaware, Hawaii, Montana, Idaho, New Hampshire.
-Of course, some of these states may be less desirable on other grounds: in socialistic Hawaii it's unlikely that any libertarian party could get many more votes than its core membership number. [See note above.]
-So much for the mathematical possibilities.
+Of course, some of these states may be less desirable on other grounds: in socialistic Hawaii it's unlikely that any libertarian party could get many more votes than its core membership number. [See note above.] So much for the mathematical possibilities.
 Possibilities, however, are not the full story: they must be actualized.
 The histories of the PQ and of American third parties give some indication of what we should try to effect.
 In 1960s Quebec, the population was moving dramatically to the left and toward sovereignty.
@@ -107,7 +106,7 @@ The candidate to get the least number of first-preference votes is eliminated, a
 Then the candidate with the least number of first-preference votes after this distribution is eliminated, and his second-preference (after the first distribution) votes are distributed.
 And so on, until a candidate gets an absolute majority of first-preference votes.
 This method eliminates the "wasted vote" problem, because if your favored candidate doesn't have a chance of winning, you can still vote for him, and your second-preference or third-preference vote will still count for someone else who may.
-In addition, there's already a significant nonpartisan institute in the U.S. pushing this reform, the Center for Voting and Democracy (FairVote).
+In addition, there's already a significant nonpartisan institute in the U.S. pushing this reform, the Center for Voting and Democracy ( FairVote ).
 The danger in this system is that Democrat and Republican voters could team up to oppose us.
 However, I think this is unlikely -- currently, third-party candidates do very well when they are facing just one other candidate, because many (most?) Republicans and Democrats would rather vote for a third-party candidate, any third-party candidate, than the candidate of the opposing party.
 I anticipate that those voters who don't give the FSP's political party their first-preference votes will give them their second-preference votes.

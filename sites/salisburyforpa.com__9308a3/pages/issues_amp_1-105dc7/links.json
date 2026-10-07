@@ -1,11 +1,38 @@
 [
-"https://salisburyforpa.com/?amp=1",
-"https://salisburyforpa.com/?page_id=3580&preview=true&amp=1",
-"https://salisburyforpa.com/?page_id=3581&preview=true&amp=1",
-"https://salisburyforpa.com/issue-environment?amp=1",
-"https://salisburyforpa.com/issue-infrastructure?amp=1",
-"https://salisburyforpa.com/issue-nonprofit-support?amp=1",
-"https://salisburyforpa.com/issues-blight?amp=1",
-"https://salisburyforpa.com/issues?noamp=mobile",
-"https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+{
+"text": "Exit mobile version",
+"href": "https://salisburyforpa.com/issues/?noamp=mobile"
+},
+{
+"text": "[image][image: Site icon] Salisbury for PA 34",
+"href": "https://salisburyforpa.com/?amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/?page_id=3580&preview=true&amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/?page_id=3581&preview=true&amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-environment/?amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-infrastructure/?amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issue-nonprofit-support/?amp=1"
+},
+{
+"text": "[no text]",
+"href": "https://salisburyforpa.com/issues-blight/?amp=1"
+},
+{
+"text": "click now to donate",
+"href": "https://secure.actblue.com/donate/people-for-abigail-salisbury-2"
+}
 ]

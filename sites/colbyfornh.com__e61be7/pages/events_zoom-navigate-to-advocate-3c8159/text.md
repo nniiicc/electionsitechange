@@ -1,6 +1,2 @@
-Back to All Events
-Join Representative Colby for an online zoom session where we will take a tour of the New Hampshire General Court Website, learn how to contact NH House and Senate Committees, track bills, offer online testimony, and more!
-To sign up, simply email ColbyForNH@gmail.com
-Previous
-Previous
-December 11
+0 Skip to Content About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Open Menu Close Menu About Policy Taking Action Events Support the Campaign Contact Legislative Updates Donate to Campaign Back to All Events ZOOM: Navigate to Advocate: How to Testify Online Sunday, January 4, 2026 6:00 PM 7:00 PM Google Calendar ICS Join Representative Colby for an online zoom session where we will take a tour of the New Hampshire General Court Website, learn how to contact NH House and Senate Committees, track bills, offer online testimony, and more!
+To sign up, simply email ColbyForNH@gmail.com Tagged: NH Politics , New Hampshire , Politics , State House , State Government , online bill tracker , testimony , Legislation , House of Represenatives , Senate , Policy , Online , trainings , zoom Previous Previous December 11 Legislative Preview 2026 Paid for by Colby For NH 2025

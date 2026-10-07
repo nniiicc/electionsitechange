@@ -1,4 +1,3 @@
-The World Cup in Somerville
-See how we accommodated the World Cup in town!
-Upcoming events
-Benefiting small businesses
+0 Skip to Content In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Issues Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate Open Menu Close Menu In the Community Will's Story The District Folder: Issues Back Issues On the Ongoing Genocide in Gaza On The Supreme Court's TPS Ruling Endorsements Get Involved Canvassing & Phonebanking Donate The World Cup in Somerville See how we accommodated the World Cup in town!
+Upcoming events Benefiting small businesses Paid for by the Mbah Committee 42A Linden Ave.
+#2, Somerville MA 02143 Get Involved Donate

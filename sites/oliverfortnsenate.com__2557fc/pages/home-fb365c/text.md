@@ -1,8 +1,4 @@
-Senator
-Charlane Oliver
-An authentic
-champion for
-the People.
+0 Skip to Content Home About Meet Charlane Our Campaign Join Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE Open Menu Close Menu Home About Meet Charlane Our Campaign Join Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE Open Menu Close Menu Home Folder: About Back Meet Charlane Our Campaign Folder: Join Back Volunteer Oliver Fellows Stand Together TN Shop Apparel News Contact DONATE Senator Charlane Oliver An authentic champion for the People.
 Servant Leader.
 Community Organizer.
 Wife.
@@ -13,9 +9,9 @@ Charlane has spent two decades on the frontlines of racial justice, voting right
 In May 2026, Senator Oliver became a national symbol of resistance when she stood atop her Senate desk singing "Lift Every Voice and Sing" in protest of a racially gerrymandered congressional map designed to erase Black political representation in Tennessee.
 She is the lone progressive voice in the Tennessee State Senate, where she champions a bold legislative agenda that uplifts working-class families, centers racial justice, challenges corporate power, protects marginalized communities, supports women and survivors, and strengthens democracy.
 She leads the Senate Democratic Caucus as Vice-Chairwoman and the Tennessee Black Caucus of State Legislators as Vice-Chair.
-#StandTogetherTN
-UPCOMING EVENTS
-Join our movement.
-ENDORSED BY
-Sign up for my Newsletter
-Receive news alerts and the latest happenings on my campaign.
+#StandTogetherTN UPCOMING EVENTS Register Join our movement.
+LET'S DO THIS ENDORSED BY Sign up for my Newsletter Receive news alerts and the latest happenings on my campaign.
+Subscribe Follow The People’s Senator.
+#ItsOurTime Paid for by People’s Choice to Elect Charlane Oliver.
+Christiane Buggs, Treasurer.
+DONATE Connect with Charlane Subscribe Join Our Movement Contact Me

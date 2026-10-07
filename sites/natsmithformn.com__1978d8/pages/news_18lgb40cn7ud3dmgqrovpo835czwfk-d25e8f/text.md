@@ -1,6 +1,5 @@
-It's Time to Make Fighting Fraud in Minnesota Easier
-MN State Senate candidate Nat Smith on when it comes to protecting tax dollars, as your next state senator, I want to better protect whistleblowers and expand fraud prosecution
-When public dollars are stolen, communities lose more than money.
+0 Skip to Content About Events Priorities District 33 News Endorsements Get Involved Volunteer Request a Lawn Sign Contact Us Donate Open Menu Close Menu About Events Priorities District 33 News Endorsements Get Involved Volunteer Request a Lawn Sign Contact Us Donate Open Menu Close Menu About Events Priorities District 33 News Endorsements Folder: Get Involved Back Volunteer Request a Lawn Sign Contact Us Donate It's Time to Make Fighting Fraud in Minnesota Easier Sep 13 Written By Nat Smith MN State Senate candidate Nat Smith on when it comes to protecting tax dollars, as your next state senator, I want to better protect whistleblowers and expand fraud prosecution The Politics Chicks Attorney Nat Smith is running to unseat state Sen.
+Karin Housley in Minnesota Senate District 33 When public dollars are stolen, communities lose more than money.
 People lose access to services they depend on—and faith that government can deliver on its promises.
 Protecting those dollars belongs in any serious conversation about making life more affordable.
 In this guest essay, Nat Smith, a candidate for Minnesota State Senate District 33, shares how his work as an attorney representing whistleblowers has shaped his approach to public service.
@@ -21,7 +20,7 @@ So, I got to work with key partners to address that need.
 This past legislative session I worked directly with Senator Ron Latz to help introduce amendments to the Minnesota False Claims Act which would take an essential next step in Minnesota’s anti-fraud response by protecting whistleblowers and expanding the scope of fraud we can combat.
 This proposal would establish greater protections for those who see and identify fraud up close, so it can be promptly reported and properly investigated and prosecuted, all with no added cost to taxpayers.
 I look forward to advancing this bill in the Senate next year.
-Growing up I learned early on about the challenges people face in accessing care as my parents practiced geriatric and pediatric medicine.
+Volunteers alongside Nat Smith and State Auditor Julie Blaha at an organized doorknock in August Growing up I learned early on about the challenges people face in accessing care as my parents practiced geriatric and pediatric medicine.
 Inspired by my dad’s experiences as a geriatric physician who saw fraud, waste, and abuse impacting our seniors and aging population, I’ve dedicated my career to working with whistleblowers to expose fraud and recover our taxpayer dollars from criminals.
 Government programs exist to serve people.
 They are funded by taxpayers who expect their money to be spent responsibly.
@@ -63,7 +62,7 @@ This district and Minnesota are long overdue for a change and new voices in the 
 Change comes when ordinary people decide they are done accepting a system that works for the few while everyone else struggles just to keep up.
 We need elected officials in office who are ready to take on the challenges we’re facing today and deliver results for the people they represent.
 I’m ready to do the hard work and advocacy to deliver for Minnesota.
-While people may not agree on every issue, they consistently tell me they want leaders who listen, show up, work hard, and put results ahead of politics.
+Nat Smith with his wife and newborn daughter at the Minnesota Capitol on the first day of candidate filing in May While people may not agree on every issue, they consistently tell me they want leaders who listen, show up, work hard, and put results ahead of politics.
 An independent voice for common sense solutions.
 As the eldest child in a family of service members, teachers, and healthcare providers, their experiences have given me a deep appreciation for public service, the value of education, and the importance of affordable and accessible healthcare.
 These are priorities that are worth fighting for.
@@ -73,4 +72,5 @@ They deserve to know that someone is.
 That’s the conviction, tenacity, and resolve I’ll bring to the State Senate.
 Nat Smith is an attorney and candidate for Minnesota State Senate District 33 who has spent more than a decade working with whistleblowers to expose fraud and protect taxpayer dollars.
 He lives in Stillwater with his wife and daughter.
-Learn more about his campaign at natsmithformn.com.
+Learn more about his campaign at natsmithformn.com .
+Nat Smith Previous Previous Nat Smith Pledges to Continue Fighting Fraud in First Digital Ad Next Next Nat Smith Outraises Republican Incumbent Karin Housley in 2026 Contact the Campaign Email us Follow us PREPARED AND PAID FOR BY NAT SMITH FOR MN STATE SENATE COMMITTEE PO Box 116, Stillwater, MN 55082 Photo Gallery | Privacy Policy

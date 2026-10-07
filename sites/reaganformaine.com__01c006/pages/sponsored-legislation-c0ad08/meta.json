@@ -1,7 +1,9 @@
 {
  "description": "Explore sponsored legislation in Maine, including vital human trafficking penalties, nuclear reactors initiatives, and solar energy testing legislation.",
  "final_url": "https://reaganformaine.com/sponsored-legislation",
- "paid_for_by": null,
+ "fingerprint": "16858cce00f4a83206011508dfe5fc1d4955393a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Sponsored Legislation",
  "years_mentioned": []
 }

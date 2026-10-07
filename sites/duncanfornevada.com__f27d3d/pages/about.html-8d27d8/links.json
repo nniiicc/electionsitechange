@@ -1,7 +1,50 @@
 [
-"https://duncanfornevada.com/about.html",
-"https://duncanfornevada.com/get-involved.html",
-"https://duncanfornevada.com/index.html",
-"https://duncanfornevada.com/issues.html",
-"https://nvsos.gov/sosvoterservices/Registration/Step0.aspx"
+{
+"text": "Contact us",
+"href": "https://www.duncanfornevada.com/get-involved.html#contact"
+},
+{
+"text": "Donate",
+"href": "https://www.duncanfornevada.com/get-involved.html#donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.duncanfornevada.com/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.duncanfornevada.com/index.html"
+},
+{
+"text": "Issues",
+"href": "https://www.duncanfornevada.com/issues.html"
+},
+{
+"text": "Join the campaign",
+"href": "https://www.duncanfornevada.com/get-involved.html"
+},
+{
+"text": "Meet Katie",
+"href": "https://www.duncanfornevada.com/about.html"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.nvsos.gov/sosvoterservices/Registration/Step0.aspx"
+},
+{
+"text": "Request a yard sign",
+"href": "https://www.duncanfornevada.com/get-involved.html#yardsign"
+},
+{
+"text": "See where Katie stands",
+"href": "https://www.duncanfornevada.com/issues.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.duncanfornevada.com/get-involved.html#volunteer"
+},
+{
+"text": "[image: Katherine Katie Duncan for Nevada Assembly District 6]",
+"href": "https://www.duncanfornevada.com/index.html"
+}
 ]

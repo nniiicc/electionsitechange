@@ -1,12 +1,46 @@
 [
-"https://facebook.com/SenatorReady",
-"https://instagram.com/JustinReady",
-"https://justinready.com/",
-"https://justinready.com/meet-justin",
-"https://justinready.com/news",
-"https://justinready.com/priorities",
-"https://justinready.com/privacy-policy",
-"https://secure.anedot.com/friends-of-justin-ready/contribute",
-"https://secure.anedot.com/friends-of-justin-ready/golffundraiser26",
-"https://twitter.com/JustinReady"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/friends-of-justin-ready/contribute"
+},
+{
+"text": "Meet Justin",
+"href": "https://www.justinready.com/meet-justin"
+},
+{
+"text": "News",
+"href": "https://www.justinready.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.justinready.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.justinready.com/privacy-policy"
+},
+{
+"text": "Ready Fall Festival",
+"href": "https://secure.anedot.com/friends-of-justin-ready/golffundraiser26"
+},
+{
+"text": "Return To News >",
+"href": "https://www.justinready.com/news"
+},
+{
+"text": "[image: Senator Justin Ready]",
+"href": "https://www.justinready.com"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/SenatorReady%20"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/JustinReady"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/JustinReady%20"
+}
 ]

@@ -1,20 +1,134 @@
 [
-"https://bsky.app/intent/compose?text=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families+https%3A%2F%2Ftravisjackstevens.com%2F",
-"https://bsky.app/profile/travisjack.bsky.social",
-"https://facebook.com/share/1HC2UrpKYr",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2F&quote=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families",
-"https://instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl",
-"https://linkedin.com/sharing/share-offsite?url=https%3A%2F%2Ftravisjackstevens.com%2F&summary=Travis+Jack+Stevens+for+U.S.+Senate%3A+no+one+above+the+law%2C+an+end+to+forever+wars%2C+real+rules+for+AI%2C+and+health+care+and+housing+for+everyone.&title=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families",
-"https://travisjackstevens.com/",
-"https://travisjackstevens.com/about",
-"https://travisjackstevens.com/contact",
-"https://travisjackstevens.com/donate",
-"https://travisjackstevens.com/news",
-"https://travisjackstevens.com/news/coons-arms-vote-delaware-accountability",
-"https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition",
-"https://travisjackstevens.com/platform",
-"https://travisjackstevens.com/volunteer",
-"https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2F&text=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families",
-"https://x.com/travisjackseven",
-"https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+{
+"text": "About",
+"href": "https://travisjackstevens.com/about"
+},
+{
+"text": "Bluesky",
+"href": "https://bsky.app/intent/compose?text=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families+https%3A%2F%2Ftravisjackstevens.com%2F"
+},
+{
+"text": "Chip In Now →",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Chip In →",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Contact",
+"href": "https://travisjackstevens.com/contact"
+},
+{
+"text": "Coons voted to send 1,000-lb bombs to Gaza →",
+"href": "https://travisjackstevens.com/news/coons-arms-vote-delaware-accountability"
+},
+{
+"text": "Donate",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://travisjackstevens.com/donate"
+},
+{
+"text": "End the WarsCongress, not the president, decides on war. I'll vote to end the Iran war, with no blank checks and no forever war.",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftravisjackstevens.com%2F&quote=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families"
+},
+{
+"text": "Get in Touch",
+"href": "https://travisjackstevens.com/contact"
+},
+{
+"text": "Health Care, Housing, and Education for EveryoneDebt forgiveness for all, and free education for all going forward — paid for by making the richest pay their fair share.",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Home",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "How to Vote →",
+"href": "https://travisjackstevens.com/news/how-to-sign-delaware-ballot-petition"
+},
+{
+"text": "Join the Campaign",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ftravisjackstevens.com%2F&summary=Travis+Jack+Stevens+for+U.S.+Senate%3A+no+one+above+the+law%2C+an+end+to+forever+wars%2C+real+rules+for+AI%2C+and+health+care+and+housing+for+everyone.&title=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families"
+},
+{
+"text": "News",
+"href": "https://travisjackstevens.com/news"
+},
+{
+"text": "No One Is Above the LawI am a survivor of human trafficking and abuse; two-tier justice is not abstract to me. I want full investigations into possible crimes and self-enrichment in this administration, with the courts deciding the facts. Full release of the Epstein Files. Accountability is how we make sure it never happens again.",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Our Platform",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Platform",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Read Travis's full story→",
+"href": "https://travisjackstevens.com/about"
+},
+{
+"text": "Read the Full Platform→",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Real Rules for AIAI is being rolled out with almost no rules. David Robinson, who led the writing of OpenAI's safety reports, wrote on October 3: \"If this is the situation, then the time for trial and error is over.\" I'll fight for independent safety testing before release, legal liability when their products cause harm, notice and retraining for workers whose jobs are replaced, and power bills paid by the companies, not by families. I won't take a dime from AI or tech companies or their executives.",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Sign Up to Volunteer",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "View Full Platform",
+"href": "https://travisjackstevens.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://travisjackstevens.com/volunteer"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/tweet?url=https%3A%2F%2Ftravisjackstevens.com%2F&text=Travis+Jack+Stevens+for+U.S.+Senate+%E2%80%94+Fighting+for+Delaware+Families"
+},
+{
+"text": "[image: Travis Jack Stevens for U.S. Senate — official campaign logo]",
+"href": "https://travisjackstevens.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/travisjack.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1HC2UrpKYr/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/travisjackstevens?igsh=b2picjNhZjNocnRl"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/travisjackseven"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@travisstevens2840?si=YItXHRojvSvoX5Jf"
+}
 ]

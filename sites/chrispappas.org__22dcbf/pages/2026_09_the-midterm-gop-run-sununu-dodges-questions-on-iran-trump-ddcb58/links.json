@@ -1,40 +1,190 @@
 [
-"https://act.chrispappas.org/signup/take_action_pappas_campaign",
-"https://americanjournalnews.com/sununu-profits-from-iran-venezuela-wars-as-gas-prices-surge",
-"https://bsky.app/profile/chrispappasnh.bsky.social",
-"https://chrispappas.org/",
-"https://chrispappas.org/2026/09/icymi-pappas-launches-fight-tour-underscores-burden-of-sununu-backed-tariffs-war-in-iran-increasing-costs",
-"https://chrispappas.org/about",
-"https://chrispappas.org/category/press-release",
-"https://chrispappas.org/contact",
-"https://chrispappas.org/endorsements",
-"https://chrispappas.org/news",
-"https://chrispappas.org/priorities",
-"https://chrispappas.org/priority/anti-corruption-agenda",
-"https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint",
-"https://chrispappas.org/privacy-policy",
-"https://cnbc.com/2026/09/07/gas-prices-labor-day-record-high-road-trip.html",
-"https://congress.gov/votes/house/119-2/114",
-"https://congress.gov/votes/house/119-2/85",
-"https://facebook.com/pappasfornh",
-"https://instagram.com/pappasfornh",
-"https://middleseat.co/",
-"https://npr.org/2026/09/21/nx-s1-5975468/diesel-the-fuel-the-u-s-economy-runs-on-hits-record-high",
-"https://secure.actblue.com/donate/cps_web",
-"https://secure.actblue.com/donate/cps_web?amount=10",
-"https://secure.actblue.com/donate/cps_web?amount=100",
-"https://secure.actblue.com/donate/cps_web?amount=25",
-"https://secure.actblue.com/donate/cps_web?amount=250",
-"https://secure.actblue.com/donate/cps_web?amount=500",
-"https://soundcloud.com/avclips2026/march-2026-sununu-when-asked/s-dBQgEBgwF3i?si=7ed0d10aec0f4fb59f06c6cdce8e0451",
-"https://store.chrispappas.org/",
-"https://substack.com/@chrispappasnh",
-"https://threads.com/@pappasfornh",
-"https://tiktok.com/@chrispappasnh",
-"https://wabcradio.com/episode/fmr-sen-john-sununu-im-looking-to-take-my-seat-in-the-senate-back-03-08-26?nocache=1773137151&jet_blog_ajax=1",
-"https://wmur.com/article/pappas-suspending-federal-gas-tax-bill-03102026/70704515",
-"https://x.com/MollyJongFast/status/2103950670357577772",
-"https://x.com/chrispappasnh",
-"https://youtube.com/@ChrisPappasNH",
-"https://youtube.com/watch?v=pM6khrHgGbo&feature=youtu.be"
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$#",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/cps_web?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/cps_web?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/cps_web?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/cps_web?amount=250"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/cps_web?amount=500"
+},
+{
+"text": "Anti-Corruption Agenda",
+"href": "https://chrispappas.org/priority/anti-corruption-agenda/"
+},
+{
+"text": "Bsky",
+"href": "https://bsky.app/profile/chrispappasnh.bsky.social"
+},
+{
+"text": "Chris Pappas for Senate [image: Chris Pappas U.S. Senate]",
+"href": "https://chrispappas.org"
+},
+{
+"text": "Contact",
+"href": "https://chrispappas.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Endorsements",
+"href": "https://chrispappas.org/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/pappasfornh/"
+},
+{
+"text": "Home",
+"href": "https://chrispappas.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pappasfornh/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrispappas.org/about/"
+},
+{
+"text": "Middle Seat",
+"href": "https://middleseat.co"
+},
+{
+"text": "News",
+"href": "https://chrispappas.org/news/"
+},
+{
+"text": "Other amount",
+"href": "https://secure.actblue.com/donate/cps_web"
+},
+{
+"text": "Press Release",
+"href": "https://chrispappas.org/category/press-release/"
+},
+{
+"text": "Priorities",
+"href": "https://chrispappas.org/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://store.chrispappas.org/"
+},
+{
+"text": "Substack",
+"href": "https://substack.com/@chrispappasnh"
+},
+{
+"text": "Take Action",
+"href": "https://act.chrispappas.org/signup/take_action_pappas_campaign/"
+},
+{
+"text": "Tax Cuts and Lower Costs Blueprint",
+"href": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"
+},
+{
+"text": "Terms of Service and Privacy Policy",
+"href": "https://chrispappas.org/privacy-policy/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@pappasfornh"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@chrispappasnh"
+},
+{
+"text": "X",
+"href": "https://x.com/chrispappasnh"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@ChrisPappasNH"
+},
+{
+"text": "[image]",
+"href": "https://x.com/MollyJongFast/status/2103950670357577772"
+},
+{
+"text": "confronted",
+"href": "https://x.com/MollyJongFast/status/2103950670357577772"
+},
+{
+"text": "diesel",
+"href": "https://www.npr.org/2026/09/21/nx-s1-5975468/diesel-the-fuel-the-u-s-economy-runs-on-hits-record-high"
+},
+{
+"text": "gas",
+"href": "https://www.cnbc.com/2026/09/07/gas-prices-labor-day-record-high-road-trip.html"
+},
+{
+"text": "important and critical",
+"href": "https://soundcloud.com/avclips2026/march-2026-sununu-when-asked/s-dBQgEBgwF3i?si=7ed0d10aec0f4fb59f06c6cdce8e0451"
+},
+{
+"text": "launched",
+"href": "https://chrispappas.org/2026/09/icymi-pappas-launches-fight-tour-underscores-burden-of-sununu-backed-tariffs-war-in-iran-increasing-costs/"
+},
+{
+"text": "profiting",
+"href": "https://americanjournalnews.com/sununu-profits-from-iran-venezuela-wars-as-gas-prices-surge/"
+},
+{
+"text": "relief",
+"href": "https://www.wmur.com/article/pappas-suspending-federal-gas-tax-bill-03102026/70704515"
+},
+{
+"text": "repeatedly",
+"href": "https://www.congress.gov/votes/house/119-2/85"
+},
+{
+"text": "success",
+"href": "https://www.youtube.com/watch?v=pM6khrHgGbo&feature=youtu.be"
+},
+{
+"text": "very effective",
+"href": "https://wabcradio.com/episode/fmr-sen-john-sununu-im-looking-to-take-my-seat-in-the-senate-back-03-08-26/?nocache=1773137151&jet_blog_ajax=1"
+},
+{
+"text": "voted",
+"href": "https://www.congress.gov/votes/house/119-2/114"
+}
 ]

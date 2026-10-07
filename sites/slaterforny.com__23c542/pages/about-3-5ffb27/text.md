@@ -1,5 +1,5 @@
-About Matt Slater
-Matt Slater was elected to represent New York State’s 94th Assembly District in November 2022.
+top of page Home Volunteer Lawn Sign About Matt Issues Latest News Latest Petitions Clean Slate Petition Cashless Bail Petition Gas Tax Petition MTA Tax Petition Netflix Tax Petition Stop the CCP Stop NYSEG Rate Hike More Use tab to navigate through the menu items.
+DONATE About Matt Slater Matt Slater was elected to represent New York State’s 94th Assembly District in November 2022.
 Previously, he was elected Yorktown Supervisor in 2019 and reelected in 2021.
 As Town Supervisor, Matt Slater balanced Yorktown’s budget through spending cuts and economic growth and cut town taxes for the first time in three decades.
 In fact, he cut town taxes two times in his three years as Town Supervisor.
@@ -11,11 +11,10 @@ Prior to his election as Yorktown Supervisor, Slater was Chief of Staff for New 
 Slater earned his undergraduate degree from St.
 Anselm College in New Hampshire and a graduate degree from Marist College.
 Matt Slater and his wife Kellie reside in Yorktown with their two children, Charlie and Elizabeth.
-Matt Slater for New York
-Matt and his wife Kellie have a son, Charlie and daughter, Elizabeth.
-Born and raised in Yorktown, Matt Slater is committed to making our town a better place to live, work and raise a family.
-Matt’s mother, Kathy, and his grandmother, Elinor, still reside in Matt’s childhood home off London Road.
-Matt is committed to:
-- Protecting Taxpayers.
-- Growing the Economy.
-- Better Place to Live.
+Matt Slater for New York Matt and his wife Kellie have a son, Charlie and daughter, Elizabeth. ​ Born and raised in Yorktown, Matt Slater is committed to making our town a better place to live, work and raise a family. ​ Matt’s mother, Kathy, and his grandmother, Elinor, still reside in Matt’s childhood home off London Road.
+Matt is committed to: ​ Protecting Taxpayers.
+Growing the Economy.
+Better Place to Live.
+SUPPORT MATT Leadership that's making a difference .
+Donate Leadership that's making a difference.
+Friends of Matt Slater 2026 334 Underhill Ave., Ste 4B Yorktown Heights, NY 10598 ​ (914) 302-4134 matt@slaterforny.com ​ © Paid for by Friends of Matt Slater # ​ Privacy Policy Join Team Slater ​​Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law. bottom of page

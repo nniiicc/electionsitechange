@@ -1,58 +1,270 @@
 [
-"https://carldemaio.com/",
-"https://carldemaio.com/about",
-"https://carldemaio.com/contact",
-"https://carldemaio.com/district",
-"https://carldemaio.com/follow",
-"https://carldemaio.com/news/briefing-ca-election-integrity-initiative-2",
-"https://carldemaio.com/news/briefing-carl-demaio-files-ca-election-integrity-initiative",
-"https://carldemaio.com/news/ca-democrats-move-to-gut-prop-13-to-make-it-easier-to-raise-your-taxes",
-"https://carldemaio.com/news/ca-democrats-place-two-measures-on-2024-ballot-to-gut-prop-13-how-to-fight-back",
-"https://carldemaio.com/news/ca-media-censorship-the-top-5-stories-this-week-that-californias-liberal-media-refuses-to-cover-11-03",
-"https://carldemaio.com/news/ca-media-censorship-the-top-5-stories-this-week-that-californias-liberal-media-refuses-to-cover-11-10",
-"https://carldemaio.com/news/ca-politicians-ask-state-supreme-court-to-strip-citizens-of-initiative-rights",
-"https://carldemaio.com/news/ca-voter-id-initiative-faces-go-no-go-decision-for-2024-heres-how-to-help",
-"https://carldemaio.com/news/california-takes-center-stage-in-2024-presidential-race",
-"https://carldemaio.com/news/carl-demaio-announces-strategic-voting-campaign-to-defeat-asm-maienschein-for-his-aca-13-vote",
-"https://carldemaio.com/news/carl-demaio-backs-signature-drive-to-repeal-prop-19-death-tax",
-"https://carldemaio.com/news/carl-demaio-releases-the-first-round-of-voter-guide-endorsements-for-the-2024-election",
-"https://carldemaio.com/news/censored-top-5-stories-this-week-that-cas-liberal-media-refuses-to-cover-10-27",
-"https://carldemaio.com/news/gavin-newsom-diverts-4-5m-in-taxpayer-money-to-help-elect-democrats-in-central-valley",
-"https://carldemaio.com/news/gavin-newsoms-poll-numbers-plummet-are-ca-voters-finally-waking-up",
-"https://carldemaio.com/news/latest-fbi-2022-stats-prove-massive-crime-wave-in-california",
-"https://carldemaio.com/news/living-in-ca-imposes-a-26-478-72-cost-of-living-penalty-on-typical-middle-class-family",
-"https://carldemaio.com/news/top-10-common-sense-bills-rejected-by-californias-democrat-dominated-legislature-in-2023",
-"https://carldemaio.com/news/top-10-worst-laws-california-democrats-approved-in-2023",
-"https://carldemaio.com/news/watchdog-group-launches-investigation-into-manipulation-of-californias-2022-redistricting-maps",
-"https://carldemaio.com/news?7d7c9d59_page=1",
-"https://carldemaio.com/news?7d7c9d59_page=3",
-"https://carldemaio.com/privacy-policy",
-"https://facebook.com/carldemaio",
-"https://instagram.com/carldemaioca",
-"https://rcahelp.org/",
-"https://reformcalifornia.org/",
-"https://reformcalifornia.org/campaigns",
-"https://reformcalifornia.org/campaigns/election-integrity-initiative",
-"https://reformcalifornia.org/campaigns/end-homelessness",
-"https://reformcalifornia.org/campaigns/restore-public-safety",
-"https://reformcalifornia.org/campaigns/school-board-reform",
-"https://reformcalifornia.org/campaigns/stop-the-tax-hikes",
-"https://reformcalifornia.org/events",
-"https://reformcalifornia.org/news",
-"https://reformcalifornia.org/podcast",
-"https://reformcalifornia.org/volunteer",
-"https://reformcalifornia.org/voter-guides",
-"https://reformcalifornia.org/voter-guides-list",
-"https://secure.carldemaio.com/contribute",
-"https://secure.carldemaio.com/contribute?amount=100",
-"https://secure.carldemaio.com/contribute?amount=1000",
-"https://secure.carldemaio.com/contribute?amount=25",
-"https://secure.carldemaio.com/contribute?amount=250",
-"https://secure.carldemaio.com/contribute?amount=50",
-"https://secure.carldemaio.com/contribute?amount=500",
-"https://secure.carldemaio.com/contribute?amount=5000",
-"https://secure.reformcalifornia.org/storefront",
-"https://twitter.com/carldemaio",
-"https://twitter.com/carldemaio?ref_src=twsrc%5Etfw",
-"https://youtube.com/@carldemaioCA"
+{
+"text": "$1,000",
+"href": "https://secure.carldemaio.com/contribute?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.carldemaio.com/contribute?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.carldemaio.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.carldemaio.com/contribute?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.carldemaio.com/contribute?amount=5000"
+},
+{
+"text": "$50",
+"href": "https://secure.carldemaio.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.carldemaio.com/contribute?amount=500"
+},
+{
+"text": ">> Carl's Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": ">> Carl’s Social Media",
+"href": "https://carldemaio.com/follow"
+},
+{
+"text": ">> Carl’s Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "About",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "About Carl DeMaio",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "Contact",
+"href": "https://carldemaio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "District",
+"href": "https://carldemaio.com/district"
+},
+{
+"text": "End Homelessness",
+"href": "https://reformcalifornia.org/campaigns/end-homelessness"
+},
+{
+"text": "Events",
+"href": "https://reformcalifornia.org/events"
+},
+{
+"text": "FAQs",
+"href": "https://rcahelp.org/"
+},
+{
+"text": "Get Reform California's Voter Guide Here >> |",
+"href": "https://www.reformcalifornia.org/voter-guides-list"
+},
+{
+"text": "More Campaigns",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Next",
+"href": "https://carldemaio.com/news?7d7c9d59_page=3"
+},
+{
+"text": "Other",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": "Previous",
+"href": "https://carldemaio.com/news?7d7c9d59_page=1"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carldemaio.com/privacy-policy"
+},
+{
+"text": "Protect Public Safety",
+"href": "https://reformcalifornia.org/campaigns/restore-public-safety"
+},
+{
+"text": "Reform CA",
+"href": "https://reformcalifornia.org/"
+},
+{
+"text": "Reform California",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "Reform Our Schools",
+"href": "https://reformcalifornia.org/campaigns/school-board-reform"
+},
+{
+"text": "Restore Election Integrity",
+"href": "https://reformcalifornia.org/campaigns/election-integrity-initiative"
+},
+{
+"text": "Stop the Tax Hikes",
+"href": "https://reformcalifornia.org/campaigns/stop-the-tax-hikes"
+},
+{
+"text": "Store",
+"href": "https://secure.reformcalifornia.org/storefront/"
+},
+{
+"text": "Tweets by carldemaio",
+"href": "https://twitter.com/carldemaio?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://reformcalifornia.org/volunteer"
+},
+{
+"text": "Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "[image: Briefing: CA Election Integrity Initiative][image: Briefing: CA Election Integrity Initiative]Nov 8, 2023Briefing: CA Election Integrity InitiativeCarl DeMaio gives a virtual briefing on the campaign to enact an Election Integrity Initiative",
+"href": "https://carldemaio.com/news/briefing-ca-election-integrity-initiative-2"
+},
+{
+"text": "[image: Briefing: Carl DeMaio Files CA Election Integrity Initiative][image: Briefing: Carl DeMaio Files CA Election Integrity Initiative]Aug 16, 2023Briefing: Carl DeMaio Files CA Election Integrity Initiative",
+"href": "https://carldemaio.com/news/briefing-carl-demaio-files-ca-election-integrity-initiative"
+},
+{
+"text": "[image: CA Democrats Move to Gut Prop 13 to Make It Easier to Raise Your Taxes][image: CA Democrats Move to Gut Prop 13 to Make It Easier to Raise Your Taxes]Sep 6, 2023CA Democrats Move to Gut Prop 13 to Make It Easier to Raise Your TaxesCA Democrats want to raise taxes — and want to prevent voters from blocking their tax hike schemes at the ballot box",
+"href": "https://carldemaio.com/news/ca-democrats-move-to-gut-prop-13-to-make-it-easier-to-raise-your-taxes"
+},
+{
+"text": "[image: CA Democrats Place Two Measures on 2024 Ballot to Gut Prop 13 – How to Fight Back][image: CA Democrats Place Two Measures on 2024 Ballot to Gut Prop 13 – How to Fight Back]Sep 15, 2023CA Democrats Place Two Measures on 2024 Ballot to Gut Prop 13 – How to Fight BackCA Democrats have come up with a dirty trick to prevent voters from blocking their tax hike schemes at the ballot box",
+"href": "https://carldemaio.com/news/ca-democrats-place-two-measures-on-2024-ballot-to-gut-prop-13-how-to-fight-back"
+},
+{
+"text": "[image: CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/03)][image: CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/03)]Nov 3, 2023CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/03)This is our list of the top 5 stories this week that California’s liberal media REFUSES to cover",
+"href": "https://carldemaio.com/news/ca-media-censorship-the-top-5-stories-this-week-that-californias-liberal-media-refuses-to-cover-11-03"
+},
+{
+"text": "[image: CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/10)][image: CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/10)]Nov 10, 2023CA MEDIA CENSORSHIP: The Top 5 Stories This Week That California’s Liberal Media Refuses to Cover (11/10)This is our list of the top 5 stories this week that California’s liberal media REFUSES to cover",
+"href": "https://carldemaio.com/news/ca-media-censorship-the-top-5-stories-this-week-that-californias-liberal-media-refuses-to-cover-11-10"
+},
+{
+"text": "[image: CA Politicians Ask State Supreme Court to Strip Citizens of Initiative Rights][image: CA Politicians Ask State Supreme Court to Strip Citizens of Initiative Rights]Oct 5, 2023CA Politicians Ask State Supreme Court to Strip Citizens of Initiative RightsGavin Newsom and CA Democrat politicians have filed for an “Emergency Injunction” to block the Taxpayer Protection Act",
+"href": "https://carldemaio.com/news/ca-politicians-ask-state-supreme-court-to-strip-citizens-of-initiative-rights"
+},
+{
+"text": "[image: CA Voter ID Initiative Faces Go/No Go Decision for 2024 – Here’s How To Help][image: CA Voter ID Initiative Faces Go/No Go Decision for 2024 – Here’s How To Help]Nov 2, 2023CA Voter ID Initiative Faces Go/No Go Decision for 2024 – Here’s How To HelpCarl DeMaio's CA Voter ID Initiative has only 5 months to collect over 1 million signatures",
+"href": "https://carldemaio.com/news/ca-voter-id-initiative-faces-go-no-go-decision-for-2024-heres-how-to-help"
+},
+{
+"text": "[image: CENSORED: Top 5 Stories This Week That CA’s Liberal Media Refuses to Cover (10/27)][image: CENSORED: Top 5 Stories This Week That CA’s Liberal Media Refuses to Cover (10/27)]Oct 27, 2023CENSORED: Top 5 Stories This Week That CA’s Liberal Media Refuses to Cover (10/27)CA MEDIA CENSORSHIP: These are the top 5 stories this week that California’s liberal media refuses to cover",
+"href": "https://carldemaio.com/news/censored-top-5-stories-this-week-that-cas-liberal-media-refuses-to-cover-10-27"
+},
+{
+"text": "[image: California Takes Center Stage in 2024 Presidential Race][image: California Takes Center Stage in 2024 Presidential Race]Sep 27, 2023California Takes Center Stage in 2024 Presidential RaceCarl DeMaio says the candidates’ focus on CA is due to the state’s primary election date moving earlier in the cycle",
+"href": "https://carldemaio.com/news/california-takes-center-stage-in-2024-presidential-race"
+},
+{
+"text": "[image: Carl DeMaio Announces “Strategic Voting” Campaign to Defeat Asm. Maienschein for His ACA-13 Vote][image: Carl DeMaio Announces “Strategic Voting” Campaign to Defeat Asm. Maienschein for His ACA-13 Vote]Sep 11, 2023Carl DeMaio Announces “Strategic Voting” Campaign to Defeat Asm. Maienschein for His ACA-13 VoteDeMaio will use its voter guide & paid ads to mobilize Republicans & Independents to provide margin to beat Maienschein",
+"href": "https://carldemaio.com/news/carl-demaio-announces-strategic-voting-campaign-to-defeat-asm-maienschein-for-his-aca-13-vote"
+},
+{
+"text": "[image: Carl DeMaio Backs Signature Drive to Repeal Prop 19 “Death Tax”][image: Carl DeMaio Backs Signature Drive to Repeal Prop 19 “Death Tax”]Oct 9, 2023Carl DeMaio Backs Signature Drive to Repeal Prop 19 “Death Tax”Carl DeMaio says repealing the Death Tax will lower taxes, save generational properties, & help grieving families",
+"href": "https://carldemaio.com/news/carl-demaio-backs-signature-drive-to-repeal-prop-19-death-tax"
+},
+{
+"text": "[image: Carl DeMaio Releases the First Round of Voter Guide Endorsements for the 2024 Election][image: Carl DeMaio Releases the First Round of Voter Guide Endorsements for the 2024 Election]Aug 22, 2023Carl DeMaio Releases the First Round of Voter Guide Endorsements for the 2024 ElectionFirst wave includes support for 35 “priority” candidates & opposition to Gov. Newsom’s 3 statewide ballot initiatives",
+"href": "https://carldemaio.com/news/carl-demaio-releases-the-first-round-of-voter-guide-endorsements-for-the-2024-election"
+},
+{
+"text": "[image: DeMaio Exposes $26,478.72 “Cost-of-Living Penalty” on Typical Middle-Class Family in CA][image: DeMaio Exposes $26,478.72 “Cost-of-Living Penalty” on Typical Middle-Class Family in CA]Nov 9, 2023DeMaio Exposes $26,478.72 “Cost-of-Living Penalty” on Typical Middle-Class Family in CAStudy calculates the total higher costs paid by Californians versus national averages",
+"href": "https://carldemaio.com/news/living-in-ca-imposes-a-26-478-72-cost-of-living-penalty-on-typical-middle-class-family"
+},
+{
+"text": "[image: Election Integrity Initiative]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: End Homelessness]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Gavin Newsom Diverts $4.5M in Taxpayer Money to Help Elect Democrats in Central Valley][image: Gavin Newsom Diverts $4.5M in Taxpayer Money to Help Elect Democrats in Central Valley]Aug 31, 2023Gavin Newsom Diverts $4.5M in Taxpayer Money to Help Elect Democrats in Central ValleyDeMaio argues the reason is to help fund voter contact and turnout operations that will exclusively benefit Democrats",
+"href": "https://carldemaio.com/news/gavin-newsom-diverts-4-5m-in-taxpayer-money-to-help-elect-democrats-in-central-valley"
+},
+{
+"text": "[image: Gavin Newsom’s Poll Numbers Plummet - Are CA Voters Finally Waking Up? ][image: Gavin Newsom’s Poll Numbers Plummet - Are CA Voters Finally Waking Up? ]Nov 15, 2023Gavin Newsom’s Poll Numbers Plummet - Are CA Voters Finally Waking Up? Newsom has hit an all-time low approval rating in California and faces poor favorability nationally",
+"href": "https://carldemaio.com/news/gavin-newsoms-poll-numbers-plummet-are-ca-voters-finally-waking-up"
+},
+{
+"text": "[image: Latest FBI 2022 Stats Prove Massive Crime Wave in California][image: Latest FBI 2022 Stats Prove Massive Crime Wave in California]Nov 1, 2023Latest FBI 2022 Stats Prove Massive Crime Wave in CaliforniaNew report by the FBI shows crime rates spiked a staggering 13% in California in 2022 alone",
+"href": "https://carldemaio.com/news/latest-fbi-2022-stats-prove-massive-crime-wave-in-california"
+},
+{
+"text": "[image: Restore Public Safety]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: School Board Reform]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Stop the Tax Hikes]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Top 10 Common-Sense Bills Rejected by California’s Democrat-Dominated Legislature in 2023 ][image: Top 10 Common-Sense Bills Rejected by California’s Democrat-Dominated Legislature in 2023 ]Sep 20, 2023Top 10 Common-Sense Bills Rejected by California’s Democrat-Dominated Legislature in 2023 CA Democrats killed common-sense bills dealing with the crime wave, tax relief, homelessness, school reform, & more",
+"href": "https://carldemaio.com/news/top-10-common-sense-bills-rejected-by-californias-democrat-dominated-legislature-in-2023"
+},
+{
+"text": "[image: Top 10 Worst Laws California Democrats Approved in 2023 ][image: Top 10 Worst Laws California Democrats Approved in 2023 ]Oct 12, 2023Top 10 Worst Laws California Democrats Approved in 2023 CA Democrat politicians show no remorse as they double-down on their terrible policies with a bunch of new bad laws",
+"href": "https://carldemaio.com/news/top-10-worst-laws-california-democrats-approved-in-2023"
+},
+{
+"text": "[image: Watchdog Group Launches Investigation into Manipulation of California’s 2022 Redistricting Maps][image: Watchdog Group Launches Investigation into Manipulation of California’s 2022 Redistricting Maps]Oct 25, 2023Watchdog Group Launches Investigation into Manipulation of California’s 2022 Redistricting MapsWatchdog has found probable cause that CA's redistricting process was “corrupted and manipulated” by special interests",
+"href": "https://carldemaio.com/news/watchdog-group-launches-investigation-into-manipulation-of-californias-2022-redistricting-maps"
+},
+{
+"text": "[image]",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "…More Campaigns!",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@carldemaioCA"
+}
 ]

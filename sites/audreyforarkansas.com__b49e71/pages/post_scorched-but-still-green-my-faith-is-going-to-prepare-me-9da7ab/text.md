@@ -1,5 +1,5 @@
-Scorched, but Still Green: My Faith is Going to Prepare Me
-This Sunday, I got invited by Dr.
+top of page HOME MEET AUDREY QUALIFICATIONS PLATFORM GET INVOLVED DISTRICT 35 EVENTS More Use tab to navigate through the menu items.
+DONATE The Future Can’t Wait Blog Search Scorched, but Still Green: My Faith is Going to Prepare Me Audrey Willis Jan 4 3 min read This Sunday, I got invited by Dr.
 Alfreda Robinson to worship at Mount Pilgrim, Pastor (Representative) Nicks church (I was just there two weeks ago).
 The sermon, “Scorched, But Still Green,” landed on me like a word for this season of my life and this season of Arkansas politics.
 The message was simple, but not soft: life will scorch you, but it doesn’t get to define you.
@@ -56,5 +56,6 @@ We can be scorched by the system and still stay green for the people.
 That’s the work.
 That’s the calling.
 And that’s exactly why I’m running.
-So cheers to being more like a pine tree :)
-Audrey for Arkansas: Because the Future Can’t Wait.
+So cheers to being more like a pine tree :) Audrey for Arkansas: Because the Future Can’t Wait.
+Recent Posts See All My Season of Preparation: What Joshep Taught Me About This Campaign Yesterday, I went to go visit the family at Faith International with Pastor Anthony King, and I walked out knowing without question that God is putting me in these places to speak directly to this sea From a Fireside Chat to Front Porches in District 35: What Rob Carter’s AI Talk Made Crystal Clear for Our Campaign Where I Stand: New Arkansas Laws Taking Effect in 2026 JOIN THE CONVERSATION: Terms & Conditions | Privacy Policy | Accessibility Statement © # by the committee to elect Audrey P.
+Willis for Arkansas State Representative bottom of page

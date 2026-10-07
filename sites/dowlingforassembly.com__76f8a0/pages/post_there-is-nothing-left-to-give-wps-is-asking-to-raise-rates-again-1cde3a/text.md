@@ -1,12 +1,11 @@
-There Is Nothing Left to Give | WPS is Asking to Raise Rates Again
-There is nothing left to give.
+top of page hello@dowlingforassembly.com (920) 268-4734‬ Home WI Assembly District 53 About Endorsements Proven Record Experience Contact Video Message Merch Events & Community Conversations Request A Yard Sign File Share Notifications Members Blog More Use tab to navigate through the menu items.
+All Posts Flock Cameras Data Centers Housing Fixed Income Search There Is Nothing Left to Give | WPS is Asking to Raise Rates Again Rachael Dowling #ago 4 min read There is nothing left to give.
 That's what kept running through my head when I started reading about Wisconsin Public Service's proposed rate increases for 2027 and 2028.
 WPS is asking the Public Service Commission of Wisconsin to approve another increase in electric and natural gas rates.
 According to WPS, a typical residential electric customer would pay about $11 more per month in 2027 and another $5 more per month in 2028.
 For natural gas customers, WPS projects about another $7 per month in 2027.
 Maybe someone looks at $11 and thinks...
-"It's only $11."
-But that's the problem.
+"It's only $11." But that's the problem.
 It's $11 here.
 Another $20 there.
 More at the grocery store.
@@ -15,8 +14,7 @@ More for insurance.
 More for housing.
 More when the car breaks.
 More when an appliance dies.
-And eventually, families run out of places to find "just a little more."
-I know what that looks like.
+And eventually, families run out of places to find "just a little more." I know what that looks like.
 In May of 2022, our dryer broke.
 Josh tried fixing it himself, and he actually got it working again.
 For about a month.
@@ -58,13 +56,11 @@ Go without.
 I understand why a company might make a smaller package so someone can afford the purchase.
 But that doesn't make the underlying affordability problem disappear.
 It just makes the package smaller.
-And we've all had enough of "shrink-flation."
-And now we're talking about another utility increase.
+And we've all had enough of "shrink-flation." And now we're talking about another utility increase.
 WPS says these increases are necessary to support investments in reliability, Wisconsin's energy grid and other infrastructure.
 The company also says its proposal incorporates $132 million in savings from federal tax credits and earnings sharing.
 Those arguments deserve to be part of the conversation.
-But so does this:
-Can customers afford it?
+But so does this: Can customers afford it?
 That's one of the reasons we have the Public Service Commission.
 WPS has made its request.
 The Commission has not made its final decision.
@@ -79,37 +75,29 @@ You don't need to be an energy expert.
 You are the person paying the bill.
 That matters.
 Public comments for the WPS rate case are open through October 5, 2026.
-You can call, or file a comment online:
-Phone: (608) 266-5481
-General toll-free: (888) 816-3831
-File A Comment Online: Click Here
-The case is: Wisconsin Public Service CorporationPSC Docket 6690-UR-129
-We're tired.
+You can call, or file a comment online: Phone: (608) 266-5481 General toll-free: (888) 816-3831 File A Comment Online: Click Here The case is: Wisconsin Public Service CorporationPSC Docket 6690-UR-129 We're tired.
 Families have squeezed pennies out of just about every expense they can.
 At some point, the answer cannot continue to be asking households to find a few more.
 Not sure what to say?
-Use this template:
-Public Comment Regarding WPS Rate Case 6690-UR-129
-I am writing to ask the Public Service Commission to consider the impact another utility rate increase would have on Wisconsin households as it reviews WPS Docket 6690-UR-129.
+Use this template: Public Comment Regarding WPS Rate Case 6690-UR-129 I am writing to ask the Public Service Commission to consider the impact another utility rate increase would have on Wisconsin households as it reviews WPS Docket 6690-UR-129.
 My household cannot simply continue absorbing higher monthly expenses.
 Like many families, we have already looked for places to cut costs.
-Groceries, housing, transportation, insurance, utilities and everyday necessities have all placed increasing pressure on our household budget.
-[ADD 2-3 SENTENCES ABOUT YOUR OWN SITUATION HERE.
+Groceries, housing, transportation, insurance, utilities and everyday necessities have all placed increasing pressure on our household budget. [ADD 2-3 SENTENCES ABOUT YOUR OWN SITUATION HERE.
 Examples: Are you living on a fixed income?
 Raising children?
 Cutting grocery expenses?
 Delaying repairs?
 Working additional hours?
 Turning down the heat?
-Struggling with medical or childcare expenses?]
-I understand that maintaining a safe and reliable energy system costs money and that necessary infrastructure must be maintained.
+Struggling with medical or childcare expenses?] I understand that maintaining a safe and reliable energy system costs money and that necessary infrastructure must be maintained.
 However, affordability must also be a serious consideration.
 An additional monthly charge may appear relatively small when considered by itself, but families do not pay their electric bill in isolation.
 We pay it alongside every other household expense that has increased.
 There comes a point when there is simply nothing left to cut.
 I respectfully ask the Commission to closely scrutinize the costs included in WPS's request and approve only those increases that are demonstrated to be necessary and reasonable.
 Please consider the real financial circumstances of the customers who ultimately have to pay these rates.
-Thank you for considering my comments.
-[YOUR NAME]
-[CITY]
-WPS Customer
+Thank you for considering my comments. [YOUR NAME] [CITY] WPS Customer Tags: WPS Rate Increase Public Service Commission of Wisconsin Recent Posts See All Why I’m Running for Wisconsin State Assembly | What’s the Next Move?
+Federal Vaccine Guidelines Changed.
+Should Wisconsin Change Too?
+We’re All on a Fixed Income CONTACT Please contact Rachael Dowling by using this form: First Name * Last Name * Email * Subject Leave us a message...
+Submit hello@dowlingforassembly.com (920) 268-4734‬ JOIN THE MAILING LIST Enter your email here * Yes, subscribe me to your newsletter. * Subscribe Treasurer Debra Wenzel ​ Paid For By Rachael Dowling © # by Rachael Dowling bottom of page

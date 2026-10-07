@@ -1,17 +1,5 @@
-MADELEINE'S
-ENDORSEMENTS
-Organizations
-AFSCME DC47
-Emgage
-Era Yes
-Feminist Majority
-GIFFORDS
-Greater Reading PAC
-Jewish Democratic Council of America
-LCV Action Fund
-MCDC
-National Organization for Women PAC
-PA AFL-CIO
-Planned Parenthood Action Fund
-Progressive Turnout Project
-Sierra Club
+Skip to content Home Meet Mad Priorities Endorsements News Home Meet Mad Priorities Endorsements News Facebook X-twitter Instagram Youtube VOLUNTEER VOLUNTEER DONATE DONATE Donate Donate MADELEINE'S ENDORSEMENTS Organizations AFSCME DC47 Emgage Era Yes Feminist Majority GIFFORDS Greater Reading PAC Jewish Democratic Council of America LCV Action Fund MCDC National Organization for Women PAC PA AFL-CIO Planned Parenthood Action Fund Progressive Turnout Project Sierra Club Get Involved By submitting your cell phone number you are agreeing to receive periodic text messages from this organization.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+Home Meet Mad Priorities Endorsements Volunteer Donate Facebook X-twitter Instagram Youtube PO Box 444, Glenside, PA 19038 | 445-444-2253 PAID FOR BY Mad 4 PA PAC Privacy Policy Contact Latest Updates Home Meet Mad Priorities Endorsements News Home Meet Mad Priorities Endorsements News Volunteer Volunteer Donate Donate Facebook X-twitter Youtube Instagram

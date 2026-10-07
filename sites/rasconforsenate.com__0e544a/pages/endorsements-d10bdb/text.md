@@ -1,75 +1,23 @@
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate we are proudly supporting Sarah Rascón for State Senate Sarah is proud to have received the following endorsements for her campaign for California State Senate.
 "I have been proud to fight for the people of this community as a labor leader and State Senator.
 Sarah Rascón has the heart, determination and values that working families need.
-I am proud to endorse her, and I'm asking you to stand with me."
-we are proudly supporting
-Sarah Rascón for State Senate
-Sarah is proud to have received the following endorsements for her campaign for California State Senate.
-"I'm proud to endorse Sarah Rascón for State Senate because she has spent her career fighting for communities too often left behind.
-At a time when too many Angelenos are living paycheck to paycheck while corporate interests put profits ahead of people, Sarah will stand up for everyday Californians and deliver real results."
-Assemblymember Tina McKinnor
-"Sarah Rascón has spent her career delivering real results for families like those she grew up with.
+I am proud to endorse her, and I'm asking you to stand with me." Senator María Elena Durazo "I'm proud to endorse Sarah Rascón for State Senate because she has spent her career fighting for communities too often left behind.
+At a time when too many Angelenos are living paycheck to paycheck while corporate interests put profits ahead of people, Sarah will stand up for everyday Californians and deliver real results." Assemblymember Tina McKinnor "Sarah Rascón has spent her career delivering real results for families like those she grew up with.
 She knows what working families need to get ahead — and what it takes to protect immigrant communities.
-That's the leadership Sacramento needs, and why I'm proud to endorse Sarah Rascón for State Senate."
-Assemblymember celeste rodriguez
-“Sarah Rascón has spent her life delivering for our communities, and I’m proud to endorse her for State Senate.
-She brings the heart, experience, and bold leadership we need to make housing, opportunity, and environmental justice real for families across our neighborhoods."
-Assemblymember Patrick Ahrens
-“I’m proud to endorse Sarah Rascón for State Senate.
+That's the leadership Sacramento needs, and why I'm proud to endorse Sarah Rascón for State Senate." Assemblymember celeste rodriguez “Sarah Rascón has spent her life delivering for our communities, and I’m proud to endorse her for State Senate .
+She brings the heart, experience, and bold leadership we need to make housing, opportunity, and environmental justice real for families across our neighborhoods." Assemblymember Patrick Ahrens “I’m proud to endorse Sarah Rascón for State Senate.
 Like me, Sarah was raised in a working-class family in Los Angeles and relied on government programs to get by.
 These experiences have grounded and shaped us as leaders who truly reflect the communities we serve.
-I know she will bring that lived experience, passion, and commitment for equity and opportunity to Sacramento, and I’m honored to stand with her.”
-Los Angeles Community College District Board Member Nichelle Henderson
-"Sarah Rascón understands that government should work for working families, not corporate special interests.
+I know she will bring that lived experience, passion, and commitment for equity and opportunity to Sacramento, and I’m honored to stand with her.” Los Angeles Community College District Board Member Nichelle Henderson "Sarah Rascón understands that government should work for working families, not corporate special interests.
 This is one of the most progressive districts in California, and we deserve a leader who will fight for our values, protect our immigrant communities, and keep pushing for a future rooted in equity, justice, and opportunity.
-I am proud to support Sarah Rascón for State Senate."
-Former Assemblymember Wendy Carrillo
-“Sarah Rascón is the progressive leader we need in Sacramento, a champion who will never back down when our communities are on the line.
-Sarah will be a fearless advocate for tenants, immigrants, workers, and LGBTQ+ Californians and I'm proud to support her campaign for State Senate.”
-Community Leader Maebe Pudlo
-“Sarah Rascón is committed to empowering our native communities and working with us to preserve the natural lands around Los Angeles.
+I am proud to support Sarah Rascón for State Senate." Former Assemblymember Wendy Carrillo “Sarah Rascón is the progressive leader we need in Sacramento, a champion who will never back down when our communities are on the line.
+Sarah will be a fearless advocate for tenants, immigrants, workers, and LGBTQ+ Californians and I'm proud to support her campaign for State Senate.” Community Leader Maebe Pudlo “Sarah Rascón is committed to empowering our native communities and working with us to preserve the natural lands around Los Angeles.
 We’ve collaborated on enhancing the LA River and its tributaries, and helping to ensure our outdoor recreational spaces can be enjoyed for future generations of Angelenos.
-I’m proud to endorse Sarah Rascón because she is an unwavering leader.”
-Tribal President, Fernandeño Tataviam Band of Mission Indians Rudy Ortega, Jr.
-Fiona Ma
-California Treasurer, CPA
-Alex Lee
-Assemblymember
-Kenneth Mejia
-Los Angeles City Controller
-Eunisses Hernandez
-Los Angeles city councilmember
-Ysabel Jurado
-Los Angeles city councilmember
-Dr.
-Rocío Rivas
-LAUSD Board Member
-Karla Griego
-LAUSD Board Member
-Richard Polanco
-Former State Senator
-Lana Negrete
-Santa Monica Councilmember
-Jessica Craven
-Community activist and author
-Elected & Community Leaders
-- Former Mayor of Burbank Marsha Ramos
-- Former Mayor of Sierra Madre Rachelle Pastor Arizmendi*
-- Former Los Angeles City Councilmember* Mitch O’Farrell
-- Irma R.
-Muñoz, Environmental and Community Leader, Founder and CEO of Mujeres de la Tierra*
-- Jessa Calderon, Director of Land, Water, & Climate Justice at Sacred Places Institute for Indigenous Peoples
-- Angela Mooney D’Arcy, Executive Director and Founder of Sacred Places Institute for Indigenous Peoples
-- Raul Macias, Community Leader, Organizer, and Founder, Anahuak Youth Sports Association*
-- Dr.
-Laura Fierro, Solutions Counseling Center CEO*
-- Anthea Raymond, Friends of Ave 26 Founder & Former LA County Beach Commissioner*
-- Neel Sannappa, Chair CADEM Progressive Caucus
-- Rev.
-Zachary Hoover, Former Executive Director, LA Voice
-- Genesis Coronado, Community Leader
-- Stephanie Bartron
-- Steve Appleton
-- Diane White
-- Omar Medina
-- Marcos Trinidad
-*Titles for ID purposes only
+I’m proud to endorse Sarah Rascón because she is an unwavering leader.” Tribal President, Fernandeño Tataviam Band of Mission Indians Rudy Ortega, Jr.
+Fiona Ma California Treasurer, CPA Alex Lee Assemblymember Kenneth Mejia Los Angeles City Controller Eunisses Hernandez Los Angeles city councilmember Ysabel Jurado Los Angeles city councilmember Dr.
+Rocío Rivas LAUSD Board Member Karla Griego LAUSD Board Member Richard Polanco Former State Senator Lana Negrete Santa Monica Councilmember Jessica Craven Community activist and author Elected & Community Leaders Former Mayor of Burbank Marsha Ramos Former Mayor of Sierra Madre Rachelle Pastor Arizmendi* Former Los Angeles City Councilmember* Mitch O’Farrell Irma R.
+Muñoz , Environmental and Community Leader, Founder and CEO of Mujeres de la Tierra* Jessa Calderon, Director of Land, Water, & Climate Justice at Sacred Places Institute for Indigenous Peoples Angela Mooney D’Arcy, Executive Director and Founder of Sacred Places Institute for Indigenous Peoples Raul Macias, Community Leader, Organizer, and Founder, Anahuak Youth Sports Association* Dr.
+Laura Fierro, Solutions Counseling Center CEO* Anthea Raymond, Friends of Ave 26 Founder & Former LA County Beach Commissioner* Neel Sannappa, Chair CADEM Progressive Caucus Rev.
+Zachary Hoover, Former Executive Director, LA Voice Genesis Coronado , Community Leader Stephanie Bartron Steve Appleton Diane White Omar Medina Marcos Trinidad *Titles for ID purposes only Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E.
+Ocean Blvd., Ste.
+814, Long Beach, CA 90802 You need to enable JavaScript to run this app.

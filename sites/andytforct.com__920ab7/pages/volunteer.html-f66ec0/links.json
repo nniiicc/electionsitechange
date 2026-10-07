@@ -1,6 +1,26 @@
 [
-"https://andytforct.com/about.html",
-"https://andytforct.com/donate.html",
-"https://andytforct.com/index.html",
-"https://andytforct.com/volunteer.html"
+{
+"text": "About Andy",
+"href": "https://www.andytforct.com/about.html"
+},
+{
+"text": "AndyTforCT@gmail.com",
+"href": "mailto:AndyTforCT@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://www.andytforct.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://www.andytforct.com/index.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.andytforct.com/volunteer.html"
+},
+{
+"text": "[image: Andy Tedford for State Rep logo]",
+"href": "https://www.andytforct.com/index.html"
+}
 ]

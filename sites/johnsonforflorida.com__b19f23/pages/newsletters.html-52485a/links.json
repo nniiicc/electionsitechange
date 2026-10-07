@@ -1,51 +1,214 @@
 [
-"https://dos.fl.gov/elections",
-"https://facebook.com/ChadJohnsonCampaign",
-"https://johnsonforflorida.com/contact.html",
-"https://johnsonforflorida.com/index.html",
-"https://johnsonforflorida.com/issues.html",
-"https://johnsonforflorida.com/meet-chad.html",
-"https://johnsonforflorida.com/news.html",
-"https://johnsonforflorida.com/newsletters.html",
-"https://johnsonforflorida.com/precincts.html",
-"https://johnsonforflorida.com/volunteer.html",
-"https://mailchi.mp/03eab7fb3dc7/newsletter-from-rep-chad-johnson-12774155",
-"https://mailchi.mp/138eecff8d5a/campaign-update-from-chad-johnson-12720470",
-"https://mailchi.mp/28c5bb175305/newsletter-from-chad-johnson-12710508",
-"https://mailchi.mp/32687d780cc3/newsletter-from-rep-chad-johnson-12725854",
-"https://mailchi.mp/330b6918e28f/newsletter-from-rep-chad-johnson-12772385",
-"https://mailchi.mp/4654c7fa3796/campaign-update-from-chad-johnson-12698380?e=14270da309",
-"https://mailchi.mp/46c14ae5797e/chad-johnson-endorsed-by-rep-chuck-clemons-12668849",
-"https://mailchi.mp/5207e6b9ba81/chad-johnson-endorsed-by-rep-stan-mcclain",
-"https://mailchi.mp/52a566935610/newsletter-from-rep-chad-johnson-12774008",
-"https://mailchi.mp/568d1195be85/newsletter-from-rep-chad-johnson-12773264",
-"https://mailchi.mp/707e80501b48/newsletter-from-chad-johnson",
-"https://mailchi.mp/7839d0f9b29e/newsletter-from-rep-chad-johnson-12772847",
-"https://mailchi.mp/79bb0485e6f3/happy-labor-day",
-"https://mailchi.mp/7f1acd1f2548/newsletter-from-rep-chad-johnson",
-"https://mailchi.mp/815dc2520149/newsletter-from-rep-chad-johnson-12773857",
-"https://mailchi.mp/82bbb63f76ef/newsletter-from-rep-chad-johnson-12775660",
-"https://mailchi.mp/89f92571d0cd/newsletter-from-rep-chad-johnson-12773126",
-"https://mailchi.mp/996cbe52a900/campaign-update-from-chad-johnson-12692550?e=%5BUNIQID%5D",
-"https://mailchi.mp/ac1d31994536/newsletter-from-rep-chad-johnson-12773368",
-"https://mailchi.mp/b16b9f72ec08/newsletter-from-rep-chad-johnson-12773312",
-"https://mailchi.mp/b79f25b81f5f/newsletter-from-rep-chad-johnson-12773209",
-"https://mailchi.mp/c0a4a36939c3/newsletter-from-rep-chad-johnson-12773532",
-"https://mailchi.mp/c123e83fb3a1/newsletter-from-rep-chad-johnson-12773730",
-"https://mailchi.mp/c1c2543397ed/newsletter-from-rep-chad-johnson-12773574",
-"https://mailchi.mp/c94fda637bc2/newsletter-from-rep-chad-johnson-12773808",
-"https://mailchi.mp/e4e77b8b42b3/chad-johnson-endorsed-by-rep-ryan-chamberlin?e=%5BUNIQID%5D",
-"https://mailchi.mp/ebc83f5a9598/campaign-update-from-chad-johnson-12688647",
-"https://mailchi.mp/ede350da4ff7/newsletter-from-rep-chad-johnson-12772333",
-"https://mailchi.mp/f6273f01d83b/newsletter-from-rep-chad-johnson-12772500",
-"https://mailchi.mp/f940dad24b63/newsletter-from-rep-chad-johnson-12773669",
-"https://myfloridahouse.gov/FileStores/Web/District/DistrictMaps/small/HD_22.pdf",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=100",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=1000",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=25",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=300",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=50",
-"https://secure.anedot.com/chad-johnson-campaign/web-donations?recurring=false&amount=500",
-"https://twitter.com/Chad4House"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=100"
+},
+{
+"text": "$1000",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=1000"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=25"
+},
+{
+"text": "$300",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=300"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations/?recurring=false&amount=500"
+},
+{
+"text": "Campaign Volunteers",
+"href": "https://johnsonforflorida.com/volunteer.html"
+},
+{
+"text": "Contact",
+"href": "https://johnsonforflorida.com/contact.html"
+},
+{
+"text": "Contact Chad",
+"href": "https://johnsonforflorida.com/contact.html"
+},
+{
+"text": "Contributions",
+"href": "https://secure.anedot.com/chad-johnson-campaign/web-donations"
+},
+{
+"text": "District 22 Map",
+"href": "https://www.myfloridahouse.gov/FileStores/Web/District/DistrictMaps/small/HD_22.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://johnsonforflorida.com/index.html#image01-8c"
+},
+{
+"text": "Find Your Precinct",
+"href": "https://johnsonforflorida.com/precincts.html"
+},
+{
+"text": "Florida Division of Elections",
+"href": "https://dos.fl.gov/elections/"
+},
+{
+"text": "Meet Chad",
+"href": "https://johnsonforflorida.com/meet-chad.html"
+},
+{
+"text": "News",
+"href": "https://johnsonforflorida.com/news.html"
+},
+{
+"text": "News and Events",
+"href": "https://johnsonforflorida.com/news.html"
+},
+{
+"text": "Newsletters",
+"href": "https://johnsonforflorida.com/newsletters.html"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/03eab7fb3dc7/newsletter-from-rep-chad-johnson-12774155"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/138eecff8d5a/campaign-update-from-chad-johnson-12720470"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/28c5bb175305/newsletter-from-chad-johnson-12710508"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/32687d780cc3/newsletter-from-rep-chad-johnson-12725854"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/330b6918e28f/newsletter-from-rep-chad-johnson-12772385"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/4654c7fa3796/campaign-update-from-chad-johnson-12698380?e=14270da309"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/46c14ae5797e/chad-johnson-endorsed-by-rep-chuck-clemons-12668849"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/5207e6b9ba81/chad-johnson-endorsed-by-rep-stan-mcclain"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/52a566935610/newsletter-from-rep-chad-johnson-12774008"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/568d1195be85/newsletter-from-rep-chad-johnson-12773264"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/707e80501b48/newsletter-from-chad-johnson"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/7839d0f9b29e/newsletter-from-rep-chad-johnson-12772847"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/79bb0485e6f3/happy-labor-day"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/7f1acd1f2548/newsletter-from-rep-chad-johnson"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/815dc2520149/newsletter-from-rep-chad-johnson-12773857"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/82bbb63f76ef/newsletter-from-rep-chad-johnson-12775660"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/89f92571d0cd/newsletter-from-rep-chad-johnson-12773126"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/996cbe52a900/campaign-update-from-chad-johnson-12692550?e=%5BUNIQID%5D"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/ac1d31994536/newsletter-from-rep-chad-johnson-12773368"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/b16b9f72ec08/newsletter-from-rep-chad-johnson-12773312"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/b79f25b81f5f/newsletter-from-rep-chad-johnson-12773209"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/c0a4a36939c3/newsletter-from-rep-chad-johnson-12773532"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/c123e83fb3a1/newsletter-from-rep-chad-johnson-12773730"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/c1c2543397ed/newsletter-from-rep-chad-johnson-12773574"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/c94fda637bc2/newsletter-from-rep-chad-johnson-12773808"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/e4e77b8b42b3/chad-johnson-endorsed-by-rep-ryan-chamberlin?e=%5BUNIQID%5D"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/ebc83f5a9598/campaign-update-from-chad-johnson-12688647"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/ede350da4ff7/newsletter-from-rep-chad-johnson-12772333"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/f6273f01d83b/newsletter-from-rep-chad-johnson-12772500"
+},
+{
+"text": "READ THE NEWSLETTER",
+"href": "https://mailchi.mp/f940dad24b63/newsletter-from-rep-chad-johnson-12773669"
+},
+{
+"text": "The Issues",
+"href": "https://johnsonforflorida.com/issues.html"
+},
+{
+"text": "Volunteer",
+"href": "https://johnsonforflorida.com/volunteer.html"
+},
+{
+"text": "[image: Chad Johnson for State Representative]",
+"href": "https://johnsonforflorida.com/index.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/Chad4House"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ChadJohnsonCampaign/"
+}
 ]

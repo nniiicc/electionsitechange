@@ -1,12 +1,50 @@
 [
-"https://amysantiagori.com/",
-"https://amysantiagori.com/about",
-"https://amysantiagori.com/about-amy",
-"https://amysantiagori.com/cart",
-"https://amysantiagori.com/get-involved",
-"https://amysantiagori.com/new-dropdown",
-"https://amysantiagori.com/support",
-"https://facebook.com/profile.php?id=61577485904523",
-"https://instagram.com/amysantiagori",
-"https://secure.actblue.com/donate/amyfordistrict7"
+{
+"text": "0",
+"href": "https://www.amysantiagori.com/cart"
+},
+{
+"text": "About Amy",
+"href": "https://www.amysantiagori.com/about-amy"
+},
+{
+"text": "Amy Santiago for RI District 7",
+"href": "https://www.amysantiagori.com/"
+},
+{
+"text": "AmySantiagoRI@Gmail.com",
+"href": "mailto:AmySantiagoRI@Gmail.com"
+},
+{
+"text": "Back",
+"href": "https://www.amysantiagori.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amyfordistrict7%20"
+},
+{
+"text": "Folder: About",
+"href": "https://www.amysantiagori.com/new-dropdown"
+},
+{
+"text": "Get Involved",
+"href": "https://www.amysantiagori.com/get-involved"
+},
+{
+"text": "Support",
+"href": "https://www.amysantiagori.com/support"
+},
+{
+"text": "Why I am running",
+"href": "https://www.amysantiagori.com/about"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61577485904523"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/amysantiagori/"
+}
 ]

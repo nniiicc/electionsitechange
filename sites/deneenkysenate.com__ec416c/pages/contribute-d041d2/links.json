@@ -1,7 +1,34 @@
 [
-"http://meridianpursuit.com/",
-"https://deneenkysenate.com/",
-"https://deneenkysenate.com/contribute",
-"https://facebook.com/deneenkysenate",
-"https://twitter.com/@MatthewDeneen1"
+{
+"text": "CONTACT",
+"href": "mailto:matthew.deneen@lrc.ky.gov"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.deneenkysenate.com/contribute"
+},
+{
+"text": "Email Us",
+"href": "mailto:DeneenKYStateSenate@gmail.com"
+},
+{
+"text": "Meridian Pursuit",
+"href": "http://www.meridianpursuit.com"
+},
+{
+"text": "[image]",
+"href": "https://www.deneenkysenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/@MatthewDeneen1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/deneenkysenate"
+},
+{
+"text": "[no text]",
+"href": "mailto:matthew.deneen@lrc.ky.gov"
+}
 ]

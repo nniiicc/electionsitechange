@@ -1,20 +1,4 @@
-Endorsements
-This page will be updated as 2026 Endorsements are made.
-Scroll
-United States Senator (D-OR)
-United States Representative (D-OR)
-Attorney General
-Senate President
-Senate Majority Leader
-Senator
-House Majority Leader
-Representative
-Salem Mayor-Elect & City Councilor
-Salem Council President
-Salem City Councilor
-Monmouth Mayor
-Monmouth Council President
-Monmouth City Councilor
-Independence Mayor
-Independence City Councilor
-Polk County Commissioner
+Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Scroll Endorsements This page will be updated as 2026 Endorsements are made.
+Endorsements Federal Elected Officials Ron Wyden United States Senator (D-OR) Jeff Merkley United States Senator (D-OR) Andrea Salinas United States Representative (D-OR) Oregon State Elected Officials Dan Rayfield Attorney General Oregon State Legislators Rob Wagner Senate President Kayse Jama Senate Majority Leader James Manning Jr.
+Senator Ben Bowman House Majority Leader Tom Andersen Representative Paul Evans Representative Lesly Munoz Representative Local Elected Officials Vanessa Nordyke Salem Mayor-Elect & City Councilor Linda Nishokia Salem Council President Micki Varney Salem City Councilor Cecelia Koontz Monmouth Mayor Jon Carey Monmouth Council President Chris Lopez Monmouth City Councilor Carol McKiel Monmouth City Councilor John Oberst Monmouth City Councilor Kate Schwarzler Independence Mayor Shannon Corr Independence City Councilor Marilyn Morton Independence City Councilor Evan Sorce Independence City Councilor Jeremy Gordon Polk County Commissioner Would you be willing to endorse Deb for Senate District 10?
+I will endorse Deb for Senate District 10 I will make a statement of support Organizational Endorsements A Partial List of Endorsements DONATE Friends of Deb Patterson PO Box 8, Salem, OR 97308 (503) 400-5224 deb@debpattersonor.org Hours Home About Deb Priorities Endorsements Get Involved Donate Oregon Voter Registration FRIENDS OF DEB PATTERSON, PO BOX 8, SALEM, OR 97308 DEB@DEBPATTERSONOR.ORG Paid for by Friends of Deb Patterson, PAC ID #18821 ©# Friends of Deb Patterson

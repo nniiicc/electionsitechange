@@ -1,21 +1,78 @@
 [
-"https://actionnetwork.org/forms/subscribe-liz-bennett",
-"https://lizbennett.com/",
-"https://lizbennett.com/endorsers",
-"https://lizbennett.com/team/-kirsten-running-marquardt",
-"https://lizbennett.com/team/aime-wichtendahl",
-"https://lizbennett.com/team/claire-celsi",
-"https://lizbennett.com/team/jennifer-vavra-borcherding",
-"https://lizbennett.com/team/judy-ryan",
-"https://lizbennett.com/team/kimberly-graham",
-"https://lizbennett.com/team/libby-slappey",
-"https://lizbennett.com/team/marti-anderson",
-"https://lizbennett.com/team/mary-wolfe",
-"https://lizbennett.com/team/michelle-lecompte",
-"https://lizbennett.com/team/rob-hogg",
-"https://lizbennett.com/team/stacey-walker",
-"https://lizbennett.com/team/teresa-zalweski-white",
-"https://lizbennett.com/video",
-"https://secure.actblue.com/donate/runliz",
-"https://senate.iowa.gov/senator/bennett/recent-newsletters"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/runliz"
+},
+{
+"text": "Email Signup",
+"href": "https://actionnetwork.org/forms/subscribe-liz-bennett/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.lizbennett.com/endorsers"
+},
+{
+"text": "Home",
+"href": "https://www.lizbennett.com"
+},
+{
+"text": "Legislative Updates",
+"href": "https://www.senate.iowa.gov/senator/bennett/recent-newsletters/"
+},
+{
+"text": "Video",
+"href": "https://www.lizbennett.com/video"
+},
+{
+"text": "[image: Aime Wichtendahl]",
+"href": "https://www.lizbennett.com/team/aime-wichtendahl"
+},
+{
+"text": "[image: Claire Celsi]",
+"href": "https://www.lizbennett.com/team/claire-celsi"
+},
+{
+"text": "[image: Jennifer Vavra-Borcherding]",
+"href": "https://www.lizbennett.com/team/jennifer-vavra-borcherding"
+},
+{
+"text": "[image: Judy Ryan]",
+"href": "https://www.lizbennett.com/team/judy-ryan"
+},
+{
+"text": "[image: Kimberly Graham]",
+"href": "https://www.lizbennett.com/team/kimberly-graham"
+},
+{
+"text": "[image: Kirsten Running-Marquardt]",
+"href": "https://www.lizbennett.com/team/-kirsten-running-marquardt"
+},
+{
+"text": "[image: Libby Slappey]",
+"href": "https://www.lizbennett.com/team/libby-slappey"
+},
+{
+"text": "[image: Marti Anderson]",
+"href": "https://www.lizbennett.com/team/marti-anderson"
+},
+{
+"text": "[image: Mary Wolfe]",
+"href": "https://www.lizbennett.com/team/mary-wolfe"
+},
+{
+"text": "[image: Michelle LeCompte]",
+"href": "https://www.lizbennett.com/team/michelle-lecompte"
+},
+{
+"text": "[image: Rob Hogg]",
+"href": "https://www.lizbennett.com/team/rob-hogg"
+},
+{
+"text": "[image: Stacey Walker]",
+"href": "https://www.lizbennett.com/team/stacey-walker"
+},
+{
+"text": "[image: Teresa Zalweski-White]",
+"href": "https://www.lizbennett.com/team/teresa-zalweski-white"
+}
 ]

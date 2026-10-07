@@ -1,42 +1,29 @@
-Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom
-Campaign Statement ⬩ September 30, 2026
-New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district.
+0 Skip to Content News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Volunteer Events Join us Merch Donate Open Menu Close Menu News About Platform Endorsements Folder: Volunteer Back Events Join us Merch Donate Tens of Thousands of Bronx Residents Set to Lose Insurance as Medicaid Cuts Loom Campaign Statement ⬩ September 30, 2026 New York's 15th Congressional District has 510,000 Medicaid enrollees, more than any other congressional district.
 That's 71% of our district's residents.
 Starting in January, Trump's Medicaid cuts are coming for our neighbors.
-Fighting for Every Black Child Means Fighting for Socialism
-Campaign Statement ⬩ September 29, 2026
-Nikole Hannah-Jones couldn’t beat the segregated education system alone.
+Read More Fighting for Every Black Child Means Fighting for Socialism Campaign Statement ⬩ September 29, 2026 Nikole Hannah-Jones couldn’t beat the segregated education system alone.
 That fight requires a collective, organized struggle for working-class power.
 New York City has one of the most segregated school systems in America.
 In the richest city in the world, that’s no accident.
 It’s the system working as designed.
-Kujegi Camara, a Poet and Bronx Gambian Community Leader, Endorses Andre Easton
-Campaign Statement ⬩ September 15, 2026
-“What does it mean to be Muslim, to be Black, to be of immigrant heritage, and to also say that we have every right to exist here, every right to be here, and to flourish here?”
-Ritchie Torres One of 33 Democrats to Vote to Block Federal Funding to Universities That Divest From Israel
-Campaign Statement ⬩ September 4, 2026
-“Torres belongs to a political establishment that has cleared the way for our tax dollars to fund Israel's genocide against the Palestinian people—instead of funding our needs here at home.”
-“With the support of 8 Democrats, the House passed a resolution condemning socialism.
-As Fred Hampton put it, ‘If you're afraid of socialism, you’re afraid of yourself.’”
-Every School Year, We Send Our Students Back Into a System In Crisis
-Campaign Statement⬩ August 28, 2026
-“In two weeks, Bronx K–12 students go back to school.
+Read More The Rich Aren't Getting Richer Because They Work Hard.
+They're Getting Rich Because We Do.
+Campaign Statement ⬩ September 22, 2026 “Since 2019, the richest 0.1% of NYC took more than half of all the city's income growth.
+For the bottom 90%, our real incomes fell by 3.2%.” Read More Kujegi Camara, a Poet and Bronx Gambian Community Leader, Endorses Andre Easton Campaign Statement ⬩ September 15, 2026 “What does it mean to be Muslim, to be Black, to be of immigrant heritage, and to also say that we have every right to exist here, every right to be here, and to flourish here?” Read More Can Bronx School Teacher Andre Easton Take His Crusade Against Poverty From the Classroom to Congress?
+News ⬩ September 10, 2026 Read More Ritchie Torres One of 33 Democrats to Vote to Block Federal Funding to Universities That Divest From Israel Campaign Statement ⬩ September 4, 2026 “Torres belongs to a political establishment that has cleared the way for our tax dollars to fund Israel's genocide against the Palestinian people—instead of funding our needs here at home.” Read More House Passes Resolution Condemning Socialism Campaign Statement ⬩ September 2, 2026 “With the support of 8 Democrats, the House passed a resolution condemning socialism.
+As Fred Hampton put it, ‘If you're afraid of socialism, you’re afraid of yourself.’” Read More Fordham Graduate Student Workers Endorse Andre Easton Press Release ⬩ September 2, 2026 “We’re proud to back a candidate rooted in working-class struggle and committed to labor, housing, and dignity for Bronx communities.” Read More P ierre Damas Bel Takes His Own Life After Being Shackled By ICE Campaign Statement⬩ September 1, 2026 “Pierre Damas Bel could have been one of my students.
+Pierre was a Haitian youth who took his life after ICE shackled him with an ankle monitor.” Read More Crypto Super PAC That Bankrolled Trump Sends Ritchie Torres $300,000 Campaign Statement ⬩ August 31 , 2026 “How can Torres claim to fight Trump when Trump's billionaires are paying for his campaign?” Read More Every School Year, We Send Our Students Back Into a System In Crisis Campaign Statement⬩ August 28, 2026 “In two weeks, Bronx K–12 students go back to school.
 So do I.
 I've taught high school English in the South Bronx for the past 12 years.
-Every school year, I watch as we send our students back into a system in crisis.”
-Former Harlem Council Member Kristin Richardson Jordan Endorses Andre Easton for Congress in NY-15
-Press Release ⬩ August 27, 2026
-"Unlike the current occupant of this seat, whose career has been defined by a calculated alignment with power rather than the people, Andre Easton will not trade his principles for political expediency.”
-Ritchie Torres' Unconditional Support For Israel Is a Minority Position
-Campaign Statement⬩ August 14, 2026
-“I'm with the majority on this one: end all US aid to Israel, and kick AIPAC out of our elections once and for all.
-The billionaire pro-Israel lobbyists know they are losing this argument.”
-Montefiore Nurses Fired As AI Implementation Increases
-Campaign Statement⬩ August 12, 2026
-1 in 4 Bronx residents lives with at least one chronic illness.
+Every school year, I watch as we send our students back into a system in crisis.” Read More Former Harlem Council Member Kristin Richardson Jordan Endorses Andre Easton for Congress in NY-15 Press Release ⬩ August 27, 2026 "Unlike the current occupant of this seat, whose career has been defined by a calculated alignment with power rather than the people, Andre Easton will not trade his principles for political expediency.” Read More In the Richest City on Earth, Parents Can't Afford Childcare Campaign Statement ⬩ August 17, 2026 “We have the resources to fully fund childcare.
+But that money goes to war and tax breaks for the ultra-wealthy—not working families.” Read More Ritchie Torres' Unconditional Support For Israel Is a Minority Position Campaign Statement⬩ August 14, 2026 “I'm with the majority on this one: end all US aid to Israel, and kick AIPAC out of our elections once and for all.
+The billionaire pro-Israel lobbyists know they are losing this argument.” Read More Jose Chajon-Raxon Dies While Detained at Delaney Hall Campaign Statement⬩ August 13, 2026 On August 12th, ICE announced that Jose Chajon-Raxon had died at Delany Hall nearly a month earlier, reportedly after suffering a medical emergency.
+Read More Montefiore Nurses Fired As AI Implementation Increases Campaign Statement⬩ August 12, 2026 1 in 4 Bronx residents lives with at least one chronic illness.
 It's clear that the Bronx needs our nurses.
 I condemn Montefiore's push to replace healthcare workers with AI.
-Court Rules Fulton and Elliott-Chelsea Demolition Can Proceed
-Press Release ⬩ July 18, 2026
-"I oppose the plan to demolish NYCHA's Fulton and Chelsea-Elliott Houses.
-Instead of fighting to fully fund NYCHA repairs and expand our public housing stock, city and federal officials are pushing privatization…”
+Read More Julian Pagan Dies In City Custody At Bronx Hall of Justice Campaign Statement⬩ August 7, 2026 “New York does not have the death penalty under state law.
+But mass incarceration itself is a death sentence.” Read More Court Rules Fulton and Elliott-Chelsea Demolition Can Proceed Press Release ⬩ July 18, 2026 "I oppose the plan to demolish NYCHA's Fulton and Chelsea-Elliott Houses.
+Instead of fighting to fully fund NYCHA repairs and expand our public housing stock, city and federal officials are pushing privatization…” Read More Ritchie Torres Must Lose! w/ Andre Easton News ⬩ July 9, 2026 Watch Here The Bronx is Still Burning for a Rent Freeze News ⬩ June 9, 2026 Read More Andre Easton Brings Classroom-Style Learning and Socialist Values to His Congressional Campaign News ⬩ December 8, 2025 Read More Rep.
+Ritchie Torres Challenged By Bronx School Teacher Andre Easton News ⬩ December 4, 2025 Watch Here AIPAC Over Affordability: Democratic Candidates Come Under Fire for Support of Israel News ⬩ December 1, 2025 Read More Mamdani’s Win Has Progressives Eyeing NYC House Seats News ⬩ November 29, 2025 Read More The Bronx Needs Socialism News⬩ November 29, 2025 Listen Here In the Bronx, Concerns of Affordability and Last Minute Voter Registration Propelled Mamdani to Victory News ⬩ November 14, 2025 Read More Goodbye, Ritchie Torres?
+Meet the Socialist Taking on His Bronx Seat News ⬩ November 8, 2025 Read More Saturdays with Renee ft.
+Andre Easton News ⬩ November 8, 2025 Watch Here Multiple Challengers Emerge for Ritchie Torres’ Congressional Seat in the Bronx News ⬩ November 6, 2025 Read More AIPAC Hack Ritchie Torres Gets a New Challenger News ⬩ November 6, 2025 Watch Here info@andreforthebronx.nyc PAID FOR BY ANDRE EASTON FOR CONGRESS 2026

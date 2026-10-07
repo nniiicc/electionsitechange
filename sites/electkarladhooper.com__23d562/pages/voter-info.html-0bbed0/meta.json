@@ -1,7 +1,9 @@
 {
  "description": "Voting and voter registration information.",
  "final_url": "https://electkarladhooper.com/voter-info.html",
- "paid_for_by": null,
+ "fingerprint": "00c51bcbb637f8e5b01f53a9908de1598a92f99c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voting Information | Karla Daniels Hooper for Georgia State Representative, District 113",
  "years_mentioned": [
   "2026"

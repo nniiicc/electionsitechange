@@ -1,21 +1,11 @@
-Skip navigation menu
-Community member, Mother, fighter
-Join the fight for our values
-Working for our community
-Julie Zimmerman is running to represent South Carolina House District 71 because she understands what’s at stake and she’s ready to fight for the families who call this district home.
-Our priorities
-Fighting for Our Community
-These are some of the top priorities our campaign is focused on.
-Responsible Growth & Smart Use of Tax Dollars
-Protecting Natural Resources & Wildlife
-Strong Public Education for Every Child
-Mental Health Support: Schools & Communities
-Protecting Civil Rights and Freedoms
-Fighting for Women's Rights
-Make a plan to vote!
-Election Day
-November 3rd
-Early In-Person Voting
-Oct 19th - Oct 31st, Mon -Sat
-Mail-in Voting
-Apply by Oct 23rd
+Skip navigation menu About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter Join the fight for our values First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your phone number, you agree to receive informational text messages from Julie Z for SC.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Please review the Privacy Policy and Terms https://juliezforsc.com/privacy-policy/ About Volunteer Events & Take Action Media News House District 71 Map Julie in Action Donate Community member, Mother, fighter Join the fight for our values First Name First Name Last Name Last Name Email Email Phone Phone ZIP Code ZIP Code Submit By providing your phone number, you agree to receive informational text messages from Julie Z for SC.
+Message and data rates may apply.
+Message frequency varies.
+Reply HELP to request help or STOP to opt out of text messages.
+Please review the Privacy Policy and Terms https://juliezforsc.com/privacy-policy/ Working for our community Julie Zimmerman is running to represent South Carolina House District 71 because she understands what’s at stake and she’s ready to fight for the families who call this district home.
+We’re grateful for your donations! $ 10 $ 25 $ 50 $ 100 $ 250 Other $ 10 $ 25 $ 50 $ 100 $ 250 Other House District 71 Survey Tell us your thoughts Take the Survey Read below for some of our top priorities Responsible Growth & Smart Use of Tax Dollars Protecting Natural Resources & Wildlife Strong Public Education for Every Child Mental Health Support: Schools & Communities Protecting Civil Rights and Freedoms Fighting for Women's Rights Vote Make a plan to vote!
+Election Day November 3rd Early In-Person Voting Oct 19th - Oct 31st, Mon -Sat Mail-in Voting Apply by Oct 23rd Check if you're registered to vote Register to vote Request a mail ballot Early voting locations Contact JulieZforSC@gmail.com Mail us at: Julie Z for SC PO Box 243 Irmo, SC, 29063 Powered by RUN! website builder Paid for by the Julie Z for SC campaign You need to enable JavaScript to run this app.

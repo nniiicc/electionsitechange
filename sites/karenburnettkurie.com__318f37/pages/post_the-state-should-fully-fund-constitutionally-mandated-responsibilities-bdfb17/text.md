@@ -1,6 +1,5 @@
-The State Should Fully Fund Constitutionally Mandated Responsibilities
-Updated: Oct 22, 2024
-Letter to the Editor: It was good to read what our representatives Peternel and Cordelli have to say about education funding.
+top of page KAREN BURNETT-KURIE NH HOUSE REPRESENTATIVE FOR DISTRICT 7 OSSIPEE/ TUFTONBORO/WOLFEBORO HOME GET TO KNOW KAREN PRIORITIES KAREN'S COMMENTARIES CONNECT WITH KAREN DONATE More Use tab to navigate through the menu items.
+All Posts Affordability Fair Taxation Education Natural Environment Local Rights & Control Health Care Child Care Housing Search The State Should Fully Fund Constitutionally Mandated Responsibilities Karen Burnett-Kurie Dec 17, 2023 2 min read Updated: Oct 22, 2024 Letter to the Editor: It was good to read what our representatives Peternel and Cordelli have to say about education funding.
 We in fact need to hear from them more often since we send them to Concord to represent our interests.
 Sadly, they are not representing our interests well on this topic.
 Let us be clear, state funding of education has been non existent or totally inadequate forever.
@@ -27,4 +26,6 @@ Plus, as was noted previously, the state already mandates any number of unfunded
 Peternel and Cordelli are serious about other constitutional freedoms and obligations.
 They should be equally dedicated to fully meeting NH's state responsibility for education funding.
 In fact, New Hampshire should fully cover constitutionally required expenses before they spend money on things which are not legally mandated.
-Karen Burnett-Kurie
+Karen Burnett-Kurie Education Fair Taxation Recent Posts See All Is Local Spending Really Out of Control?
+NH Better Served by Quality Education & Lower Property Taxes Educational Freedom Accounts Part 2: Paid for by Friends of Karen Burnett-Kurie for House of Representatives.
+PO Box 1652 Wolfeboro NH 03894, Zoe Dubois, Fiscal Agent. bottom of page

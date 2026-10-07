@@ -1,39 +1,6 @@
-STEPHEN’S NEWSLETTER
-I’m committed to keeping our community informed and being accountable to you.
+0 Skip to Content About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE Open Menu Close Menu About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE Open Menu Close Menu About Working For You Issues Team Work Newsletter Media Volunteer Contact DONATE STEPHEN’S NEWSLETTER I’m committed to keeping our community informed and being accountable to you.
 My weekly ‘in-session’ and monthly newsletters are posted on social media and emailed to over 12,000 (and counting) community members in our House District 63.
 Here you’ll find updates on the latest legislative issues as well as my voting record on every bill.
 If you are not currently receiving my newsletter, click here to sign up.
 Click the links to view Stephen’s newsletters.
-2026 Legislative Session: Week 7 Report
-2026 Legislative Session: Week 6 Report
-2026 Legislative Session: Week 5 Report
-2026 Legislative Session: Week 4 Report
-2026 Legislative Session: Week 3 Report
-2026 Legislative Session: Week 2 Report
-2026 Legislative Session: Week 1 Report
-2025 Legislative Session: Week 7 Report
-2025 Legislative Session: Week 6 Report
-2025 Legislative Session: Week 5 Report
-2025 Legislative Session: Week 4 Report
-2025 Legislative Session: Week 3 Report
-2025 Legislative Session: Week 2 Report
-2025 Legislative Session: Week 1 Report
-2024 Legislative Session: Week 7 Report
-2024 Legislative Session: Week 6 Report
-2024 Legislative Session: Week 5 Report
-2024 Legislative Session: Week 4 Report
-2024 Legislative Session: Week 3 Report
-2024 Legislative Session: Week 2 Report
-2024 Legislative Session: Week 1 Report
-2023 Legislative Session: Week 7 Report
-2023 Legislative Session: Week 6 Report
-2023 Legislative Session: Week 5 Report
-2023 Legislative Session: Week 4 Report
-2023 Legislative Session: Week 3 Report
-2023 Legislative Session: Week 2 Report
-2023 Legislative Session: Week 1 Report
-2022 Legislative Session: Week 7 Report
-2022 Legislative Session: Week 6 Report
-2022 Legislative Session: Week 5 Report
-2022 Legislative Session: Week 4 Report
-2022 Legislative Session: Week 3 Report
+July 2026 June 2026 May 2026 April 2026 2026 Legislative Session: Week 7 Report 2026 Legislative Session: Week 6 Report 2026 Legislative Session: Week 5 Report 2026 Legislative Session: Week 4 Report 2026 Legislative Session: Week 3 Report 2026 Legislative Session: Week 2 Report 2026 Legislative Session: Week 1 Report December 2025 November 2025 October 2025 October Special Session September 2025 August 2025 Summer 2025 2025 Legislative Session: Week 7 Report 2025 Legislative Session: Week 6 Report 2025 Legislative Session: Week 5 Report 2025 Legislative Session: Week 4 Report 2025 Legislative Session: Week 3 Report 2025 Legislative Session: Week 2 Report 2025 Legislative Session: Week 1 Report December 2024 November 2024 September 2024 August 2024 August Special Session Summer 2024 2024 Legislative Session: Week 7 Report 2024 Legislative Session: Week 6 Report 2024 Legislative Session: Week 5 Report 2024 Legislative Session: Week 4 Report 2024 Legislative Session: Week 3 Report 2024 Legislative Session: Week 2 Report 2024 Legislative Session: Week 1 Report December 2023 November 2023 October 2023 September 2023 2023 Legislative Session: Week 7 Report 2023 Legislative Session: Week 6 Report 2023 Legislative Session: Week 5 Report 2023 Legislative Session: Week 4 Report 2023 Legislative Session: Week 3 Report 2023 Legislative Session: Week 2 Report 2023 Legislative Session: Week 1 Report December 2022 November 2022 October 2022 September 2022 August 2022 July 2022 June 2022 May 2022 2022 Legislative Session: Week 7 Report 2022 Legislative Session: Week 6 Report 2022 Legislative Session: Week 5 Report 2022 Legislative Session: Week 4 Report 2022 Legislative Session: Week 3 Report 2022 Legislative Session: Week 2 Report 2022 Legislative Session: Week 1 Report Site Navigation Home About Issues Newsletter Volunteer Contact Endorsements Media Connect Copyright #; All rights reserved; Paid for by Friends of Stephen Whyte

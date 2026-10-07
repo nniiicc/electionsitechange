@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with the Kentucky political calendar, featuring Boone County events and insights from Jason Ellis for the Kentucky House.",
  "final_url": "https://ellisky66.com/calendar",
- "paid_for_by": null,
+ "fingerprint": "e151dcca035257d1a8b066b17caef22ecc0b5c6c",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Kentucky Political Calendar - Boone County Events",
  "years_mentioned": []
 }

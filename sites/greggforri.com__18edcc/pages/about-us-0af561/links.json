@@ -1,6 +1,30 @@
 [
-"https://greggforri.com/",
-"https://greggforri.com/about-us",
-"https://greggforri.com/contact",
-"https://secure.actblue.com/donate/amoreweb"
+{
+"text": "About",
+"href": "https://greggforri.com/about-us/"
+},
+{
+"text": "Contact",
+"href": "https://greggforri.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amoreweb"
+},
+{
+"text": "Home",
+"href": "https://greggforri.com/"
+},
+{
+"text": "[image: Gregg Amore]",
+"href": "https://greggforri.com/"
+},
+{
+"text": "[image: Gregg Amore] [image: Gregg Amore] [image: Gregg Amore] [image: Gregg Amore]",
+"href": "https://greggforri.com/"
+},
+{
+"text": "hello@greggforri.com",
+"href": "mailto:hello@greggforri.com"
+}
 ]

@@ -1,18 +1,78 @@
 [
-"https://bronxdefenders.org/",
-"https://eli4ny.com/",
-"https://eli4ny.com/about-eli",
-"https://eli4ny.com/cart",
-"https://eli4ny.com/community-survey",
-"https://eli4ny.com/endorsements",
-"https://eli4ny.com/get-involved",
-"https://eli4ny.com/platform",
-"https://eli4ny.com/press",
-"https://eli4ny.com/signup",
-"https://eli4ny.com/vote",
-"https://facebook.com/eli4ny",
-"https://instagram.com/elinorthrup4ny?hl=en",
-"https://secure.actblue.com/donate/en-web",
-"https://thebronxcannabishub.org/",
-"https://x.com/EliNorthrup"
+{
+"text": "0",
+"href": "https://www.eli4ny.com/cart"
+},
+{
+"text": "About Eli",
+"href": "https://www.eli4ny.com/about-eli"
+},
+{
+"text": "Back",
+"href": "https://www.eli4ny.com/"
+},
+{
+"text": "Community survey",
+"href": "https://www.eli4ny.com/community-survey"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/en-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.eli4ny.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.eli4ny.com/get-involved"
+},
+{
+"text": "Platform",
+"href": "https://www.eli4ny.com/platform"
+},
+{
+"text": "Press",
+"href": "https://www.eli4ny.com/press"
+},
+{
+"text": "Sign up for our emails",
+"href": "https://www.eli4ny.com/signup"
+},
+{
+"text": "Stay in the loop",
+"href": "https://www.eli4ny.com/signup"
+},
+{
+"text": "The Bronx Cannabis Hub",
+"href": "https://thebronxcannabishub.org/"
+},
+{
+"text": "The Bronx Defenders",
+"href": "https://www.bronxdefenders.org/"
+},
+{
+"text": "Vote",
+"href": "https://www.eli4ny.com/vote"
+},
+{
+"text": "[image: Eli for NY]",
+"href": "https://www.eli4ny.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/eli4ny"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/elinorthrup4ny/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/EliNorthrup"
+},
+{
+"text": "info@eli4ny.com",
+"href": "mailto:info@eli4ny.com"
+}
 ]

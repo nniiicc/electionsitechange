@@ -1,16 +1,66 @@
 [
-"https://ashleypainter.com/",
-"https://ashleypainter.com/about",
-"https://ashleypainter.com/news",
-"https://ashleypainter.com/terms-conditions",
-"https://ashleypainter.com/the-opponent",
-"https://facebook.com/ashleypaintersc",
-"https://healthcare.gov/medicaid-chip/childrens-health-insurance-program",
-"https://heylo.com/invite/3lTzyjaj",
-"https://instagram.com/ashleybelongsinthehouse",
-"https://postandcourier.com/uncovered/sc-government-waste-and-corruption-revelations-confront-culture-resistant-to-change/article_6ff06e66-7b94-11eb-93d3-4b9ca50c06e3.html",
-"https://scvotes.gov/",
-"https://secure.actblue.com/donate/ashleypainter117",
-"https://secure.actblue.com/donate/painterct",
-"https://unitedforalice.org/state-overview-mobile/south-carolina"
+{
+"text": "About",
+"href": "https://ashleypainter.com/about"
+},
+{
+"text": "CHIP program",
+"href": "https://www.healthcare.gov/medicaid-chip/childrens-health-insurance-program/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ashleypainter117"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/painterct"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/ashleypaintersc/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/ashleybelongsinthehouse/"
+},
+{
+"text": "Four out of ten",
+"href": "https://www.unitedforalice.org/state-overview-mobile/south-carolina"
+},
+{
+"text": "Messaging Terms & Conditions and Privacy Policy",
+"href": "https://ashleypainter.com/terms-conditions/"
+},
+{
+"text": "News",
+"href": "https://ashleypainter.com/news"
+},
+{
+"text": "Privacy Policy & Terms",
+"href": "https://ashleypainter.com/terms-conditions/"
+},
+{
+"text": "The Opponent",
+"href": "https://ashleypainter.com/the-opponent/"
+},
+{
+"text": "[image: Elect Ashley Painter]",
+"href": "https://ashleypainter.com/"
+},
+{
+"text": "go here",
+"href": "https://heylo.com/invite/3lTzyjaj"
+},
+{
+"text": "political perks",
+"href": "https://www.postandcourier.com/uncovered/sc-government-waste-and-corruption-revelations-confront-culture-resistant-to-change/article_6ff06e66-7b94-11eb-93d3-4b9ca50c06e3.html"
+},
+{
+"text": "this link",
+"href": "https://secure.actblue.com/donate/ashleypainter117"
+},
+{
+"text": "www.scvotes.gov",
+"href": "https://www.scvotes.gov/"
+}
 ]

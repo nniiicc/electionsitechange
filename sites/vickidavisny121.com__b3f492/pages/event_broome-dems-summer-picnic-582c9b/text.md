@@ -1,13 +1,4 @@
-- This event has passed.
-Broome Dems Summer Picnic
-July 23 @ 5:30 pm - 7:30 pm
-Join us at Traditions outside under the big tent for our Annual Summer Picnic and Fundraiser!
-Tickets:
-- Individuals – $60
-- Young Democrats – $55
-- Students – $30
-Sponsorships:
-- Gold (including 8 tickets) – $750
-- Platinum (including 10 tickets) – $900
-Special Guest Speaker to be announced!
-Buy tickets online: secure.actblue.com/donate/bcdcpicnic2026
+Skip to content Donate Now Donate Now Vicki Davis for NY Assembly 121 Platform Events Volunteer News Endorsements Map of NY121 Contact Vicki Davis for NY Assembly 121 Donate Now Donate Now Platform Events Volunteer News Endorsements Map of NY121 Contact « All Events This event has passed.
+Broome Dems Summer Picnic July 23 @ 5:30 pm - 7:30 pm « Otsego County Democratic Committee Picnic Madison County Fair » Join us at Traditions outside under the big tent for our Annual Summer Picnic and Fundraiser!
+Tickets: Individuals – $60 Young Democrats – $55 Students – $30 Sponsorships: Gold (including 8 tickets) – $750 Platinum (including 10 tickets) – $900 Special Guest Speaker to be announced!
+Buy tickets online: secure.actblue.com/donate/bcdcpicnic2026 Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: July 23 Time: 5:30 pm - 7:30 pm Website: https://www.facebook.com/events/2461703061015160 Organizer Broome County Democratic Party View Organizer Website Venue Traditions at the Glen 4101 Watson Blvd Johnson City , NY 13790 United States + Google Map « Otsego County Democratic Committee Picnic Madison County Fair » Copyright © # Vicki Davis for NY Assembly District 121 Scroll to Top

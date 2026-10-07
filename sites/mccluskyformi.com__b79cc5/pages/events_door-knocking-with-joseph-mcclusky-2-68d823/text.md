@@ -1,11 +1,3 @@
-Back to All Events
-Come out and knock doors with Joseph McClusky!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Door Knocking with Joseph McClusky Thursday, August 27, 2026 5:00 PM 7:30 PM 609 Blackbass Avenue Holland, Michigan, 49423 United States (map) Google Calendar ICS Come out and knock doors with Joseph McClusky!
 Knocking doors is out we get out the vote and win elections.
-Bring a friend!
-Previous
-Previous
-August 26
-Door Knocking with Joseph McClusky
-Next
-Next
-August 28
+Bring a friend! https://www.mobilize.us/mccluskyformi/event/1016824/ Previous Previous August 26 Door Knocking with Joseph McClusky Next Next August 28 Door Knocking with Joseph McClusky Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

@@ -1,5 +1,6 @@
-ISSUES
-As our Attorney General, Michael Gates will fight for our families, our communities, and our safety.
+Home Meet Michael Issues Endorsements Press Releases En Espanol ENDORSE → DONATE → Home Meet Michael Issues Endorsements Press Releases En Espanol ENDORSE MICHAEL!
+DONATE TODAY!
+ISSUES As our Attorney General, Michael Gates will fight for our families, our communities, and our safety.
 As Attorney General, Michael Gates will make public safety his top priority.
 Californians deserve to feel safe in their neighborhoods – whether walking to work, sending their kids to school, or running a small business.
 For too long, Sacramento politicians have weakened law enforcement, reduced accountability, and left communities to deal with the consequences.
@@ -10,106 +11,45 @@ The will of the people will be heard, crime will be illegal again.
 Michael Gates has a proven record of standing up for public safety.
 As Huntington Beach City Attorney, he created the city’s first-ever local criminal prosecution program to ensure crimes - especially quality-of-life offenses - were taken seriously.
 The result: reduced crime and safer streets.
-As Attorney General, he will:
-- Prioritize prosecution of violent and repeat offenders
-- Enforce existing laws that Sacramento refuses to enforce
-- Restore accountability throughout the criminal justice system
-- Partner with local prosecutors and law enforcement to keep communities safe
-Public safety isn’t partisan; it’s fundamental.
-PUBLIC SAFETY COMES FIRST
-Safe Families, Safe Communities, Making Crime Illegal Again
-Sacramento’s one-size-fits-all mandates do real harm – overriding local voters while forcing development into environmentally sensitive and fire-prone areas.
-Michael Gates believes that local governments – not Sacramento bureaucrats – are best positioned to make land-use and housing decisions that balance growth, safety, infrastructure, and environmental protection.
-As Attorney General, Michael Gates will:
-- Defend the constitutional authority of cities and counties to control zoning, land use, and housing decisions
-- Push back against state mandates that override local plans and voter-approved city charters
-- Enforce environmental laws where high-density development threatens coastal zones, wildlife habitats, water supplies, and fire-risk areas
-- Protect communities from being forced to build in areas that endanger public safety and quality of life
-Michael Gates will stand up for communities that want smart growth, real environmental protection, and solutions that reflect local realities – not political mandates from Sacramento.
-PROTECTING LOCAL CONTROL FROM SACRAMENTO OVERREACH
-Standing up to Sacramento to protect our communities
-Police officers are the guardians of law and order.
-When they are handcuffed by politicians, communities suffer.
-As Attorney General, Michael Gates will:
-- Defend law enforcement officers who are sued for doing their jobs
-- Restore prosecutorial support for policing, not second-guessing
-- Reject policies that force police to act as social workers instead of crime fighters
-- Ensure officers have the backing and resources they need to keep communities safe
-Supporting law enforcement means safer neighborhoods and greater trust between communities and those who protect them.
-SUPPORTING LAW ENFORCEMENT, NOT UNDERMINING THEM
-Fully-funding - not defunding - the police, Defending our Officers in Court
-California has poured hundreds of billions of taxpayer dollars into high-profile programs, yet $250 billion has been lost and unaccounted for due to fraud, waste, and mismanagement.
-Just some examples include:
-- More than $24 billion spent on homelessness programs, the crisis has grown worse, not better, raising serious questions about oversight, transparency, and results.
-- At least $18 billion in the California High-Speed Rail project, yet there is still no continuous passenger rail line connecting major cities, and billions more in cost overruns and delays.
-- $32.6 billion in verified unemployment insurance fraud, money that was stolen from hardworking Californians while families and small businesses were barely hanging on.
-As Attorney General, Michael Gates will:
-- Investigate and prosecute fraud at every level.
-- Demand full transparency with real public reporting and independent audits.
-- Hold public officials and private contractors accountable when they misuse funds.
-- Partner with federal and local law enforcement to dismantle complex fraud schemes that drain California’s economy.
-- Defend taxpayers by suing to recover lost funds and strengthening enforcement tools to prevent future abuse.
+As Attorney General, he will: Prioritize prosecution of violent and repeat offenders Enforce existing laws that Sacramento refuses to enforce Restore accountability throughout the criminal justice system Partner with local prosecutors and law enforcement to keep communities safe Public safety isn’t partisan; it’s fundamental.
+PUBLIC SAFETY COMES FIRST Safe Families, Safe Communities, Making Crime Illegal Again Sacramento’s one-size-fits-all mandates do real harm – overriding local voters while forcing development into environmentally sensitive and fire-prone areas. ﻿ Michael Gates believes that local governments – not Sacramento bureaucrats – are best positioned to make land-use and housing decisions that balance growth, safety, infrastructure, and environmental protection.
+As Attorney General, Michael Gates will: Defend the constitutional authority of cities and counties to control zoning, land use, and housing decisions Push back against state mandates that override local plans and voter-approved city charters Enforce environmental laws where high-density development threatens coastal zones, wildlife habitats, water supplies, and fire-risk areas Protect communities from being forced to build in areas that endanger public safety and quality of life Michael Gates will stand up for communities that want smart growth, real environmental protection, and solutions that reflect local realities – not political mandates from Sacramento.
+PROTECTING LOCAL CONTROL FROM SACRAMENTO OVERREACH Standing up to Sacramento to protect our communities Police officers are the guardians of law and order.
+When they are handcuffed by politicians, communities suffer .
+As Attorney General, Michael Gates will: Defend law enforcement officers who are sued for doing their jobs Restore prosecutorial support for policing, not second-guessing Reject policies that force police to act as social workers instead of crime fighters Ensure officers have the backing and resources they need to keep communities safe Supporting law enforcement means safer neighborhoods and greater trust between communities and those who protect them.
+SUPPORTING LAW ENFORCEMENT, NOT UNDERMINING THEM Fully-funding - not defunding - the police, Defending our Officers in Court California has poured hundreds of billions of taxpayer dollars into high-profile programs, yet $250 billion has been lost and unaccounted for due to fraud, waste, and mismanagement.
+Just some examples include: More than $24 billion spent on homelessness programs , the crisis has grown worse, not better, raising serious questions about oversight, transparency, and results.
+At least $18 billion in the California High-Speed Rail project , yet there is still no continuous passenger rail line connecting major cities , and billions more in cost overruns and delays. $32.6 billion in verified unemployment insurance fraud , money that was stolen from hardworking Californians while families and small businesses were barely hanging on .
+As Attorney General, Michael Gates will: Investigate and prosecute fraud at every level.
+Demand full transparency with real public reporting and independent audits.
+Hold public officials and private contractors accountable when they misuse funds.
+Partner with federal and local law enforcement to dismantle complex fraud schemes that drain California’s economy.
+Defend taxpayers by suing to recover lost funds and strengthening enforcement tools to prevent future abuse.
 California families deserve a government that protects their hard-earned money, enforces the law, and delivers real results, putting fraudsters in handcuffs, not just getting hands slapped.
-COMBATING FRAUD, WASTE, AND MISMANAGEMENT IN CALIFORNIA
-Restoring Accountability, Protecting Taxpayers, and Ending the Culture of Waste
-As Attorney General, Michael will aggressively enforce and defend all federal laws to protect our young girls and parents in our sports and education systems.
-While he was City Attorney of Huntington Beach, Michael led the charge to protect the parents and children by drafting a "Parents' Right To Know" Ordinance, which was adopted by City Council.
+COMBATING FRAUD, WASTE, AND MISMANAGEMENT IN CALIFORNIA Restoring Accountability, Protecting Taxpayers, and Ending the Culture of Waste As Attorney General, Michael will aggressively enforce and defend all federal laws to protect our young girls and parents in our sports and education systems.
+While he was City Attorney of Huntington Beach, Michael led the charge to protect the parents and children by drafting a "Parents' Right To Know" Ordinance , which was adopted by City Council.
 He also sued the State of California challenging the AB 1955 - a new state law that mandated teachers and educators keep secrets from parents regarding their children's gender issues.
-As Attorney General, Michael Gates will:
-- Enforce Title IX statewide in all sports and education
-- Protect girls’ sports by keeping boys out of girls' sports
-- Defend parents’ rights to be informed and involved in their children’s education
-- Continue to enforce parents' Constitutional rights against misguided state laws like AB 1955
-- Protect parents' First Amendment rights as they protect their children when addressing School Boards at meetings
-Michael has a record of protecting parents and will protect our young girls - including keeping boys out of all girls’ sports in California - by ensuring that all of sports and education systems throughout the state comply with Title IX.
+As Attorney General, Michael Gates will: Enforce Title IX statewide in all sports and education Protect girls’ sports by keeping boys out of girls' sports Defend parents’ rights to be informed and involved in their children’s education Continue to enforce parents' Constitutional rights against misguided state laws like AB 1955 Protect parents' First Amendment rights as they protect their children when addressing School Boards at meetings Michael has a record of protecting parents and will protect our young girls - including keeping boys out of all girls’ sports in California - by ensuring that all of sports and education systems throughout the state comply with Title IX.
 He will do this on day one of taking office.
-DEFENDING TITLE IX AND PARENTS' RIGHTS
-PROTECTING OUR YOUNG GIRLS AND UPHOLDING PARENTS’ RIGHTS
-California has spent tens of billions of dollars on homelessness – and the crisis has only grown worse.
-Michael Gates believes homelessness should be addressed with compassion, accountability, and results.
+DEFENDING TITLE IX AND PARENTS' RIGHTS PROTECTING OUR YOUNG GIRLS AND UPHOLDING PARENTS’ RIGHTS California has spent tens of billions of dollars on homelessness – and the crisis has only grown worse.
+Michael Gates believes homelessness should be addressed with compassion, accountability, and results .
 The current system rewards failure, traps people in addiction and mental illness, and leaves communities unsafe.
-As Attorney General, he will focus on fixing what Gavin Newsom broke by:
-- Demanding transparency and accountability for homelessness spending
-- Supporting treatment-first solutions for addiction and severe mental illness
-- Enforcing laws against open drug use, encampments, and trafficking
-- Expanding programs that move people off the streets, into treatment, and back into society
-Compassion without accountability has failed.
+As Attorney General, he will focus on fixing what Gavin Newsom broke by: Demanding transparency and accountability for homelessness spending Supporting treatment-first solutions for addiction and severe mental illness Enforcing laws against open drug use, encampments, and trafficking Expanding programs that move people off the streets, into treatment, and back into society Compassion without accountability has failed.
 Real solutions require both.
-Tackling the Homelessness Issue
-Enforcing Existing Camping and Loitering Laws to End Homelessness.
+Tackling the Homelessness Issue Enforcing Existing Camping and Loitering Laws to End Homelessness.
 Recent incidents, including a dog named Maya being registered and participating in multiple election cycles, have raised legitimate concerns about whether election laws are being consistently enforced.
 Michael Gates has a proven record for fighting for election integrity during his time at the U.S.
-Department of Justice and during his time as City Attorney for Huntington Beach.
-Michael knows from experience that safeguarding election integrity means enforcing the law without fear or favor, investigating irregularities wherever they occur, and ensuring every lawful vote is counted.
-As Attorney General, Michael Gates will:
-- Investigate all credible complaints of election irregularities and alleged violations of California election law
-- Enforce existing election laws to ensure voter rolls are accurate, secure, and lawfully maintained
-- Hold accountable any individual or agency that fails to comply with election integrity requirements
-- Protect lawful access to the ballot while preventing fraud, abuse, and administrative failures
-- Ensure California’s elections are conducted fairly, transparently, and in full compliance with the law
-Michael Gates will fight to restore confidence in California’s elections, ensuring an election system that is fair, accessible, honest, and operates with integrity for every voter.
-ENSURING ELECTION INTEGRITY
-CALIFORNIANS DESERVE CONFIDENCE THAT OUR ELECTION SYSTEM IS HONEST, LAWFUL, AND WORTHY OF THE PUBLIC’S TRUST.
+Department of Justice and during his time as City Attorney for Huntington Beach. ﻿ Michael knows from experience that safeguarding election integrity means enforcing the law without fear or favor, investigating irregularities wherever they occur, and ensuring every lawful vote is counted.
+As Attorney General, Michael Gates will: Investigate all credible complaints of election irregularities and alleged violations of California election law Enforce existing election laws to ensure voter rolls are accurate, secure, and lawfully maintained Hold accountable any individual or agency that fails to comply with election integrity requirements Protect lawful access to the ballot while preventing fraud, abuse, and administrative failures Ensure California’s elections are conducted fairly, transparently, and in full compliance with the law Michael Gates will fight to restore confidence in California’s elections, ensuring an election system that is fair, accessible, honest, and operates with integrity for every voter.
+ENSURING ELECTION INTEGRITY CALIFORNIANS DESERVE CONFIDENCE THAT OUR ELECTION SYSTEM IS HONEST, LAWFUL, AND WORTHY OF THE PUBLIC’S TRUST.
 The right to keep and bear arms is a constitutional right, not a privilege handed out by Sacramento politicians.
-Michael Gates believes California’s Attorney General should focus on prosecuting violent criminals, gang members, drug traffickers and repeat offenders – not targeting responsible gun owners who follow the law.
-Too often, Sacramento politicians pass laws that punish law-abiding citizens while doing nothing to stop the criminals driving violence in our communities.
+Michael Gates believes California’s Attorney General should focus on prosecuting violent criminals, gang members, drug traffickers and repeat offenders – not targeting responsible gun owners who follow the law. ﻿ Too often, Sacramento politicians pass laws that punish law-abiding citizens while doing nothing to stop the criminals driving violence in our communities.
 Public safety comes from enforcing the law, supporting police and holding dangerous people accountable.
-As Attorney General, Michael Gates will:
-- Defend the Second Amendment rights of law-abiding Californians
-- Oppose unconstitutional attacks on the right to keep and bear arms
-- Streamline processes for CCWs
-- Focus enforcement on violent criminals, gangs and repeat offenders – not responsible gun owners
-- Support law enforcement efforts to get illegal guns out of the hands of criminals
-- Fight back against Sacramento politicians who use public safety as an excuse to weaken constitutional rights
-Michael Gates will defend the Constitution, protect law-abiding Californians and make sure the Attorney General’s Office targets criminals – not responsible gun owners.
-DEFENDING THE SECOND AMENDMENT
-PROTECTING THE CONSTITUTIONAL RIGHTS OF LAW-ABIDING CALIFORNIANS
-Protecting our environment requires more than slogans.
+As Attorney General, Michael Gates will: Defend the Second Amendment rights of law-abiding Californians Oppose unconstitutional attacks on the right to keep and bear arms Streamline processes for CCWs Focus enforcement on violent criminals, gangs and repeat offenders – not responsible gun owners Support law enforcement efforts to get illegal guns out of the hands of criminals ﻿ Fight back against Sacramento politicians who use public safety as an excuse to weaken constitutional rights Michael Gates will defend the Constitution, protect law-abiding Californians and make sure the Attorney General’s Office targets criminals – not responsible gun owners.
+DEFENDING THE SECOND AMENDMENT PROTECTING THE CONSTITUTIONAL RIGHTS OF LAW-ABIDING CALIFORNIANS Protecting our environment requires more than slogans.
 It requires enforcing the laws on the books and respecting the role of local communities in safeguarding the places they call home.
-Too often, Sacramento’s one-size-fits-all mandates sidestep environmental protections, override local decision-making, and pressure communities to accept projects that threaten sensitive habitats, water resources, and public safety.
-Michael Gates believes local governments - not Sacramento bureaucrats - are best positioned to evaluate environmental impacts, balance growth with conservation, and protect their communities under existing state law.
-As Attorney General, he will focus on fixing what Gavin Newsom broke by:
-- Defend the authority of cities and counties to make land-use decisions that reflect local environmental conditions and community priorities
-- Hold state agencies and developers accountable when they attempt to bypass environmental review or undermine local protections
-- Protect sensitive coastal zones, wildlife habitats, water supplies, and high fire-risk areas from reckless or unlawful development
-- Preserve local control so communities can protect public safety, environmental quality, and quality of life
+Too often, Sacramento’s one-size-fits-all mandates sidestep environmental protections, override local decision-making, and pressure communities to accept projects that threaten sensitive habitats, water resources, and public safety. ﻿ Michael Gates believes local governments - not Sacramento bureaucrats - are best positioned to evaluate environmental impacts, balance growth with conservation, and protect their communities under existing state law.
+As Attorney General, he will focus on fixing what Gavin Newsom broke by: Defend the authority of cities and counties to make land-use decisions that reflect local environmental conditions and community priorities Hold state agencies and developers accountable when they attempt to bypass environmental review or undermine local protections Protect sensitive coastal zones, wildlife habitats, water supplies, and high fire-risk areas from reckless or unlawful development Preserve local control so communities can protect public safety, environmental quality, and quality of life Michael Gates will fight for responsible growth, real environmental protection, and the rule of law, ensuring that decisions affecting our environment are made with respect for local communities – and without pressure from Sacramento.
+ENFORCING ENVIRONMENTAL LAWS GIVING LOCAL AGENCIES - NOT SACRAMENTO BUREAUCRATS - CONTROL TO PROTECT THEIR BEAUTIFUL COMMUNITIES.
+DONATE TODAY!
+Paid for by Gates for Attorney General 2026 FPPC ID: 1486227 PRIVACY POLICY

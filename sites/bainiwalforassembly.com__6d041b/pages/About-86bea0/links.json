@@ -1,12 +1,54 @@
 [
-"http://bainiwalforassembly.com/",
-"https://bainiwalforassembly.com/",
-"https://bainiwalforassembly.com/About/About",
-"https://bainiwalforassembly.com/About/Donate",
-"https://bainiwalforassembly.com/About/Get-Involved",
-"https://bainiwalforassembly.com/About/Issues",
-"https://facebook.com/hsbforassembly",
-"https://instagram.com/hsbforassembly",
-"https://linkedin.com/in/hsbforassembly",
-"https://twitter.com/hsbforassembly"
+{
+"text": "+1",
+"href": "tel:+1%20212%20736%203100"
+},
+{
+"text": "+1 408 590 0116",
+"href": "tel:+1%20212%20736%203100"
+},
+{
+"text": "About me",
+"href": "https://bainiwalforassembly.com/About/About/"
+},
+{
+"text": "Contacts",
+"href": "https://bainiwalforassembly.com/About/Get-Involved/"
+},
+{
+"text": "Donate",
+"href": "https://bainiwalforassembly.com/About/Donate/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/hsbforassembly"
+},
+{
+"text": "Home",
+"href": "https://bainiwalforassembly.com/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/hsbforassembly"
+},
+{
+"text": "Issues",
+"href": "https://bainiwalforassembly.com/About/Issues/"
+},
+{
+"text": "LinkedIn",
+"href": "https://linkedin.com/in/hsbforassembly"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/hsbforassembly"
+},
+{
+"text": "bainiwalforassembly.com",
+"href": "http://bainiwalforassembly.com"
+},
+{
+"text": "info@bainiwalforassembly.com",
+"href": "mailto:INFO@EXAMPLE.COM"
+}
 ]

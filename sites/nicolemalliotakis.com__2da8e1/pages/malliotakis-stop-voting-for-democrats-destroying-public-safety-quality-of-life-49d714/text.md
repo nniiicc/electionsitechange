@@ -1,5 +1,3 @@
-The lawlessness we see in New York City today is a direct result of policies put in place by Democrats.
+Skip to Content Menu Menu Assemblywoman Nicole Malliotakis Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us Explore Accomplishments The Issues Endorsements Meet Nicole News In the News Watch Op-Eds Press Releases Take Action Volunteer Request a Sign Stay Informed Contact Us DONATE DONATE Nicole Malliotakis Malliotakis: Stop Voting for Democrats Destroying Public Safety & Quality of Life by Team Nicole on Mar 22, 2024 The lawlessness we see in New York City today is a direct result of policies put in place by Democrats.
 The solution is simple: stop voting for them!
-STAND WITH NICOLE
-by Team Nicole on
-Mar 22, 2024
+Watch share NEXT ARTICLE Malliotakis: We continue looking for ways to Ax the Congestion Pricing Tax PREVIOUS ARTICLE Op-Ed: Pass Violet’s Law to cut government waste and animal cruelty STAND WITH NICOLE Email Address * Zip Code * I'M IN! Δ get involved donate now Paid for by Nicole for New York COPYRIGHT © # PRIVACY POLICY powered by Back to top

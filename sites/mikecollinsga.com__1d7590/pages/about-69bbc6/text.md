@@ -1,4 +1,4 @@
-Mike is a small business owner, America First fighter, and Georgia’s Conservative Workhorse from Jackson, Georgia.
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE MEET MIKE Mike is a small business owner, America First fighter, and Georgia’s Conservative Workhorse from Jackson, Georgia.
 Mike started his first trucking business at age 25, starting out with one semi-truck and growing to employ over one hundred drivers today.
 Mike has led three successful businesses that have grown Georgia’s economy and helped families live and prosper.
 In Congress, Collins took the work ethic he learned from sweeping floors after class at his dad’s shop to being a relentless fighter for common sense Conservative policies.
@@ -11,6 +11,4 @@ Knowing that President Trump would need a Republican Congress to deliver the Ame
 Mike and his wife Leigh Ann have three kids: Dakota, Dylan and Summer, and six grandkids.
 They enjoy giving back to their community, where Mike has served as President of the Butts County Chamber of Commerce, Chairman of the Board of Directors for Georgia’s Associated Credit Union and Georgia Motor Trucking Association.
 They attend Rock Springs Church in Milner.
-PAID FOR BY MIKE COLLINS FOR SENATE
-PO Box 2184
-Alpharetta, GA 30005
+TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

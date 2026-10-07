@@ -1,13 +1,62 @@
 [
-"https://mercantile.wordpress.org/product/wordpress-pennant",
-"https://tx126.net/",
-"https://tx126.net/cart",
-"https://tx126.net/my-account",
-"https://tx126.net/my-account/lost-password",
-"https://tx126.net/product-category/uncategorized",
-"https://tx126.net/product/door",
-"https://tx126.net/product/yardsign",
-"https://tx126.net/register",
-"https://tx126.net/wp-content/uploads/2020/01/yard-sign-and-house.jpg",
-"https://tx126.net/wp-content/uploads/2020/01/yard-sign.jpg"
+{
+"text": "Add to cart",
+"href": "https://mercantile.wordpress.org/product/wordpress-pennant/"
+},
+{
+"text": "Cancel reply",
+"href": "https://www.tx126.net/product/yardsign/#respond"
+},
+{
+"text": "Create an account",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Door Hanger",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "Home",
+"href": "https://www.tx126.net"
+},
+{
+"text": "Lost Password?",
+"href": "https://www.tx126.net/my-account/lost-password/"
+},
+{
+"text": "Register",
+"href": "https://www.tx126.net/register/"
+},
+{
+"text": "Uncategorized",
+"href": "https://www.tx126.net/product-category/uncategorized/"
+},
+{
+"text": "View Product",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[image: Lisa for TX 126]",
+"href": "https://www.tx126.net/"
+},
+{
+"text": "[image: Yard Sign - Image 2]",
+"href": "https://www.tx126.net/wp-content/uploads/2020/01/yard-sign.jpg"
+},
+{
+"text": "[image: Yard Sign]",
+"href": "https://www.tx126.net/wp-content/uploads/2020/01/yard-sign-and-house.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.tx126.net/product/door/"
+},
+{
+"text": "[tooltip: View Cart]",
+"href": "https://www.tx126.net/cart/"
+},
+{
+"text": "logged in",
+"href": "https://www.tx126.net/my-account/"
+}
 ]

@@ -1,17 +1,13 @@
-Aaron Ford Jetted Out of State...Again, While Governor Lombardo Continues Delivering for Nevada
-FOR IMMEDIATE RELEASE
-June 25, 2026
-Contact: press@joelombardofornv.com
-LAS VEGAS, NV - Aaron Ford spent last night in Washington, D.C. rubbing shoulders with Democratic donors and D.C. political insiders - once again doing anything but working in the state he was elected to serve in.
+0 Skip to Content Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Results Results Nevadans Working Together Get Involved Media Press Releases Photos Endorsements Coalitions DONATE Open Menu Close Menu Get to Know Joe Merch Store Folder: Results Back Results Nevadans Working Together Get Involved Folder: Media Back Press Releases Photos Endorsements Coalitions DONATE Aaron Ford Jetted Out of State...Again, While Governor Lombardo Continues Delivering for Nevada FOR IMMEDIATE RELEASE June 25, 2026 Contact: press@joelombardofornv.com LAS VEGAS, NV - Aaron Ford spent last night in Washington, D.C. rubbing shoulders with Democratic donors and D.C. political insiders - once again doing anything but working in the state he was elected to serve in.
 Ford has now spent MORE than 420 days out of state while serving in elected office, repeatedly prioritizing his own political ambitions over Nevadans.
 Ironically, this is the very same day Aaron Ford "sat down" with Channel 2 via his hotel room in Washington, D.C. to talk about lowering costs for Nevadans.
 If Ford can't be bothered to be in Nevada and do the job he was elected to do, why should Nevadans believe he is serious about fighting for them on issues that matter most?
 The contrast couldn't be clearer.
 Governor Joe Lombardo was doing the job Nevadans elected him to do: delivering results here at home.
-This week alone, new employment data showed Nevada leads the nation in year-over-year job growth for the 11th consecutive month, a result of Governor Lombardo focusing on growing and diversifying Nevada's economy, attracting new investment, and creating opportunity for Nevada families.
+This week alone, new employment data showed Nevada leads the nation in year-over-year job growth for the 11th consecutive month , a result of Governor Lombardo focusing on growing and diversifying Nevada's economy, attracting new investment, and creating opportunity for Nevada families.
 Under his leadership, Nevada has surpassed 1.6 million jobs for the first time in state history and attracted more than $6 billion in private-sector investment.
 While Governor Lombardo continues working to strengthen Nevada's economy, lower costs, expand housing opportunities, and create good-paying jobs, Aaron Ford continues collecting frequent flyer miles and spending his time on the national political circuit.
-"Instead of working for the people who elected him, Aaron Ford is once again jet-setting off to anywhere but Nevada," said Halee Dobbins, Spokeswoman for the Joe Lombardo Campaign.
+"Instead of working for the people who elected him, Aaron Ford is once again jet-setting off to anywhere but Nevada," said Halee Dobbins, Spokeswoman for the Joe Lombardo Campaign .
 "Despite a record of being out of state for 420 days, Ford has no intentions of slowing down and is doubling down on being absent from the state.
-Meanwhile, Governor Lombardo is right here in Nevada delivering results - from leading the nation in job growth to attracting billions in investment and creating new opportunities for hardworking Nevadans and their families."
-###
+Meanwhile, Governor Lombardo is right here in Nevada delivering results - from leading the nation in job growth to attracting billions in investment and creating new opportunities for hardworking Nevadans and their families." ### Privacy Policy Contact Us Lombardo for Governor P.O.
+Box 371176 Las Vegas, NV 89137 info@joelombardofornv.com

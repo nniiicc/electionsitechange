@@ -1,14 +1,54 @@
 [
-"https://campaignpartner.com/",
-"https://facebook.com/fishbein4ct",
-"https://fishbein4ct.com/",
-"https://fishbein4ct.com/about_craig",
-"https://fishbein4ct.com/home",
-"https://fishbein4ct.com/info@fishbein4ct.com",
-"https://fishbein4ct.com/lawn-signs",
-"https://fishbein4ct.com/legislation",
-"https://fishbein4ct.com/news",
-"https://fishbein4ct.com/photos",
-"https://fishbein4ct.com/privacy-policy",
-"https://instagram.com/ccfishbein"
+{
+"text": "ABOUT",
+"href": "https://www.fishbein4ct.com/about_craig"
+},
+{
+"text": "HOME",
+"href": "https://www.fishbein4ct.com/home"
+},
+{
+"text": "LAWN SIGNS",
+"href": "https://www.fishbein4ct.com/lawn-signs"
+},
+{
+"text": "LEGISLATION",
+"href": "https://www.fishbein4ct.com/legislation"
+},
+{
+"text": "NEWS",
+"href": "https://www.fishbein4ct.com/news"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.fishbein4ct.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fishbein4ct.com/privacy-policy"
+},
+{
+"text": "[image: CRAIG FISHBEIN STATE REPRESENTATIVE (Wallingford - Middlefield)]",
+"href": "https://www.fishbein4ct.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/fishbein4ct/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ccfishbein/"
+},
+{
+"text": "https://fishbein4ct.com/",
+"href": "https://fishbein4ct.com/"
+},
+{
+"text": "info@fishbein4ct.com",
+"href": "https://www.fishbein4ct.com/info@fishbein4ct.com"
+}
 ]

@@ -1,4 +1,5 @@
-James Sanders Jr. fue elegido para el Senado del Estado de Nueva York el 13 de septiembre de 2012.
+Skip to content Menu Home About En Español Videos Donations Photos Contact Senator James Sanders Jr.
+En Español James Sanders Jr. fue elegido para el Senado del Estado de Nueva York el 13 de septiembre de 2012.
 Representa al Distrito Senatorial 10 en Queens, que incluye los barrios del sur de Jamaica, Rochdale Village, Rosedale, Richmond Hill, South Ozone Park, Springfield Gardens y la mayoría de los Rockaways.
 El senador Sanders es el demócrata de mayor rango en el Comité de Servicios Civiles & Pensiones.
 También es miembro del Comité de Comercio, Desarrollo Económico y la Pequeña Empresa, Comité de Bancos, Comité de Seguros, Comité de Trabajo, Comité de Veteranos, Seguridad Nacional y Asuntos Militares, Comité de Turismo y Asuntos Culturales, y el Comité de Carreras, Juegos de Azar y Apuestas.
@@ -22,3 +23,8 @@ Como padre de dos hijos, Sanders vió de primera mano cómo el progreso económi
 El senador sirvió en la Junta Comunitaria Escolar del Distrito 27 en Queens durante diez años, siete como presidente, – el primer afro-americano en hacerlo.
 En su tiempo libre, Sanders ha tomado un curso de capacitación para el desarrollo económico de la comunidad ofrecido por Neighborhoods Work, un programa financiado con fondos federales, y está a punto de terminarlo, con solo un trabajo final pendiente antes de recibir su certificado.
 Ahora en su segundo mandato, el senador Sanders, un veterano, servidor público de toda la vida, defensor de la educación y defensor de las familias obreras, promete abordar esta sesión legislativa con un renovado interés en traer oportunidades y recursos económicos al pueblo del sudeste de Queens.
+Like Loading...
+Visit Sen.
+James Sanders Jr. on Social Media View StateSenatorJamesSandersJr’s profile on Facebook View jsandersnyc’s profile on Twitter View senator.james.sanders’s profile on Instagram Website Powered by WordPress.com .
+Senator James Sanders Jr.
+Copy shortlink Manage subscriptions Sign up Log in Report this content %d

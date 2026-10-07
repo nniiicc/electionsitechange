@@ -1,9 +1,3 @@
-Back to All Events
-Stop by Dan and Suzie Bell’s house for a fundraiser for Eureka Springs native Max Deitchler - hosted by friends, family, and supporters of Max in Eureka Springs.
-Previous
-Previous
-June 26
-Attorney Fundraiser - 06.26.25
-Next
-Next
-August 19
+0 Skip to Content About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Get Involved Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Open Menu Close Menu About Folder: Get Involved Back Register to Vote Volunteer Events Contact Map of District 20 Max's Election Work Donate Back to All Events Eureka Springs Fundraiser Thursday, July 31, 2025 6:00 PM 8:00 PM Google Calendar ICS Stop by Dan and Suzie Bell’s house for a fundraiser for Eureka Springs native Max Deitchler - hosted by friends, family, and supporters of Max in Eureka Springs.
+Previous Previous June 26 Attorney Fundraiser - 06.26.25 Next Next August 19 Neighborhood Meet & Greet - east Fayetteville Sign up for updates Contact P.O.
+Box 8423, Fayetteville, AR 72703 Paid for by Max for Arkansas.

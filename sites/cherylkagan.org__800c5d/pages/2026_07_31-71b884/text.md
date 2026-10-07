@@ -1,3 +1,4 @@
-July 31, 2026 Bethesda Today By Ceoli Jacoby Montgomery County Question A not written in ‘plain language,’ District 17 senator argues Dist. 17 Sen.
-Cheryl Kagan (D-Rockville) is raising concerns about the suggested text of a proposed Montgomery County ballot …
-Continue Reading
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute July 31, 2026 Home 2026 July Day: July 31, 2026 July 31, 2026 In The News Kagan says proposed ballot question text may violate state law she sponsored July 31, 2026 Bethesda Today By Ceoli Jacoby Montgomery County Question A not written in ‘plain language,’ District 17 senator argues Dist.
+17 Sen.
+Cheryl Kagan (D-Rockville) is raising concerns about the suggested text of a proposed Montgomery County ballot … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

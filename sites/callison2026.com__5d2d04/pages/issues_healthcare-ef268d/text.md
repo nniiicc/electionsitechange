@@ -1,5 +1,4 @@
-- Californians deserve access to appropriate physical and mental health care.
+Home About District Survey Sign Me Up Home About District Survey Sign Me Up DONATE VOLUNTEER Healthcare Californians deserve access to appropriate physical and mental health care.
 I will work in collaboration with federal, local, private, and non profit groups to ensure no physical or mental health care need is unmet in this state.
-- I support easing the strain on doctors who want to practice outside of the system to provide access to care for all.
-- I support maternity leave and extending current family leave to a length beneficial to mother and child.This includes creating and expanding postpartum benefits and services, as well as initiating small-group counseling for one year after birth.
-Gun rights must be protected under the Constitution while ensuring responsible safety measures.
+I support easing the strain on doctors who want to practice outside of the system to provide access to care for all.
+I support maternity leave and extending current family leave to a length beneficial to mother and child.This includes creating and expanding postpartum benefits and services, as well as initiating small-group counseling for one year after birth. get involved Related Issues Second Amendment Gun rights must be protected under the Constitution while ensuring responsible safety measures. learn more Cannabis Lower fees, fair regulations, and federal legalization can grow the cannabis industry and create opportunity. learn more Prev Economic Opportunity Public Safety Next Paid for by Callison for Assembly 2026, FPPC ID #1483879.

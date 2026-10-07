@@ -1,12 +1,50 @@
 [
-"https://americansforprosperity.org/wp-content/uploads/2021/08/21-185200_AFP-SD_2021_Scorecard_V04_FINAL.pdf",
-"https://facebook.com/OdenbachForSDHouse",
-"https://facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fscott.odenbach%2Fposts%2F999666470488986&show_text=true&width=500",
-"https://instagram.com/scottodenbach",
-"https://scottodenbach.com/",
-"https://scottodenbach.com/issues-record",
-"https://scottodenbach.com/join",
-"https://scottodenbach.com/meet-scott",
-"https://secure.winred.com/friends-of-scott-odenbach/donate",
-"https://statcounter.com/"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-scott-odenbach/donate"
+},
+{
+"text": "Follow",
+"href": "https://instagram.com/scottodenbach"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/OdenbachForSDHouse"
+},
+{
+"text": "Join",
+"href": "https://scottodenbach.com/join/"
+},
+{
+"text": "Learn More",
+"href": "https://scottodenbach.com/meet-scott/"
+},
+{
+"text": "Meet Scott",
+"href": "https://scottodenbach.com/meet-scott/"
+},
+{
+"text": "News",
+"href": "https://scottodenbach.com/issues-record/"
+},
+{
+"text": "View Here",
+"href": "https://americansforprosperity.org/wp-content/uploads/2021/08/21-185200_AFP-SD_2021_Scorecard_V04_FINAL.pdf"
+},
+{
+"text": "View Here",
+"href": "https://scottodenbach.com/issues-record/"
+},
+{
+"text": "View Here",
+"href": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fscott.odenbach%2Fposts%2F999666470488986&show_text=true&width=500"
+},
+{
+"text": "[image: web analytics]",
+"href": "https://statcounter.com/"
+},
+{
+"text": "[image]",
+"href": "https://scottodenbach.com/"
+}
 ]

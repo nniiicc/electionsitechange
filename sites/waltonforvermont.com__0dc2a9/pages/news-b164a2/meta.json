@@ -1,7 +1,11 @@
 {
  "description": "News, notes, policy work, project updates, and field dispatches from Walton for Vermont.",
  "final_url": "https://www.waltonforvermont.com/news",
- "paid_for_by": null,
+ "fingerprint": "01ffd60c572295b4a658b772465e79ace692872e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Campaign Journal | Walton for Vermont",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

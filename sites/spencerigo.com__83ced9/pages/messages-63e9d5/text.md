@@ -1,4 +1,4 @@
-Mesabi - the Ojibwe word for Giant in which our great range was given its name.
+Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo More Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo Home Meet Spencer Issues "Go" for Igo Donate Messages Join Team Igo MESABI THE OJIBWE WORD FOR GIANT Mesabi - the Ojibwe word for Giant in which our great range was given its name.
 The iron range is a living breathing history of the American dream.
 From the first settlers who tamed the forests, to the miners who opened the ground and built a nation, they too were giants.
 Today we all stand upon their shoulders looking to the future.
@@ -18,6 +18,7 @@ We will usher in a new era of prosperity that will emulate across our State.
 We will bring our best days to reality and be the next generation of giants whose shoulders our children will stand on.
 I am asking for you to join me in my re-election to the Minnesota House of Representatives so I can be our voice to share the story of our home.
 Thank you.
+Future Together we can make the lives of all, better for good.
 Past.
 The past has shaped us and led us to the present.
 Present.
@@ -37,3 +38,5 @@ This task, this vision, this future is one that I know we all share.
 Your voices are more important than ever for us to spread this message that by uniting and working together the future is ours decide.
 I ask you now, will you come together with your fellow neighbors of our great range and northland to set a new precedent of change.
 A change that can make the lives of all, better for good.
+Paid and prepared for by the Spencer Igo Campaign Committee PO Box 634, Grand Rapids, MN 55744 Powered by "Go" for Igo I need you to "GO" for Igo!
+Donate to Team Igo

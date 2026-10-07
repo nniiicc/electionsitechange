@@ -1,8 +1,3 @@
-top of page
-Meet the Candidate / Benton County
-Tue, Mar 24
-|Boswell Community Center
-Come out and meet the American First Candidate for District 6!
+top of page Menu Close Home Meet Jay Platform Volunteer Donate Contact Home Meet Jay Platform Volunteer Donate Contact Menu Close Meet the Candidate / Benton County Tue, Mar 24 | Boswell Community Center Come out and meet the American First Candidate for District 6!
 This is a Public Meet and Greet for you to meet with Jay and share your concerns!
-Registration is closed
-bottom of page
+Registration is closed See other events Time & Location Mar 24, 2026, 6:00 PM – 8:00 PM Boswell Community Center, 108 E Main St, Boswell, IN 47921, USA Share this event ​ Paid for by Committee to Elect James "Jay" Starkey Privacy Policy Home Meet Jay Platform Volunteer Donate Contact bottom of page

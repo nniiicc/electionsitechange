@@ -1,9 +1,54 @@
 [
-"http://voterandyprice.com/",
-"http://yourschool.edu/",
-"http://yourserviceprovider.com/",
-"https://facebook.com/RandyPriceforSenate",
-"https://twitter.com/RandyPriceSD13",
-"https://voterandyprice.com/",
-"https://voterandyprice.com/privacy-policy"
+{
+"text": "About",
+"href": "https://www.voterandyprice.com/#About"
+},
+{
+"text": "Endorsements",
+"href": "https://www.voterandyprice.com/#Endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.voterandyprice.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.voterandyprice.com/#Platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voterandyprice.com/privacy-policy"
+},
+{
+"text": "SUPPORT",
+"href": "https://www.voterandyprice.com/#SUPPORT"
+},
+{
+"text": "[image]",
+"href": "https://www.voterandyprice.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/RandyPriceSD13"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RandyPriceforSenate/"
+},
+{
+"text": "info@voterandyprice.com",
+"href": "mailto:info@voterandyprice.com"
+},
+{
+"text": "www.VoteRandyPrice.com",
+"href": "http://www.voterandyprice.com/"
+},
+{
+"text": "yourSchool.edu",
+"href": "http://yourschool.edu/"
+},
+{
+"text": "yourServiceProvider.com",
+"href": "http://yourserviceprovider.com/"
+}
 ]

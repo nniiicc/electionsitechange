@@ -1,36 +1,202 @@
 [
-"http://instagram.com/samantha4queens",
-"http://x.com/samantha4queens",
-"https://act.samanthaforqueens.com/events",
-"https://amny.com/news/g-train-weekend-service-forest-hills-push",
-"https://consumeraffairs.com/movers/best-states-for-public-education.html",
-"https://mta.info/map/5256",
-"https://nycvotes.turbovote.org/check-your-registration/voter-info",
-"https://nysenate.gov/legislation/bills/2025/A1281",
-"https://nysenate.gov/legislation/bills/2025/A1727",
-"https://nysenate.gov/legislation/bills/2025/A1971/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A2299/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A270",
-"https://nysenate.gov/legislation/bills/2025/A3506/amendment/B",
-"https://nysenate.gov/legislation/bills/2025/A4181",
-"https://nysenate.gov/legislation/bills/2025/A4877/amendment/A",
-"https://nysenate.gov/legislation/bills/2025/A5427",
-"https://nysenate.gov/legislation/bills/2025/A5899",
-"https://nysenate.gov/legislation/bills/2025/A5995",
-"https://nysenate.gov/legislation/bills/2025/A6100",
-"https://nysenate.gov/legislation/bills/2025/A6265",
-"https://nysenate.gov/legislation/bills/2025/A6309",
-"https://nysenate.gov/legislation/bills/2025/A6664",
-"https://nysenate.gov/legislation/bills/2025/A8908",
-"https://nysenate.gov/legislation/bills/2025/A8953",
-"https://samanthaforqueens.com/",
-"https://samanthaforqueens.com/cart",
-"https://samanthaforqueens.com/espanol",
-"https://samanthaforqueens.com/home",
-"https://samanthaforqueens.com/press",
-"https://secure.actblue.com/donate/samantha4queens",
-"https://secure.actblue.com/donate/samantha4queens?amount=10",
-"https://secure.actblue.com/donate/samantha4queens?amount=100",
-"https://secure.actblue.com/donate/samantha4queens?amount=37",
-"https://secure.actblue.com/donate/samantha4queens?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/samantha4queens?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/samantha4queens?amount=100"
+},
+{
+"text": "$37",
+"href": "https://secure.actblue.com/donate/samantha4queens?amount=37"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/samantha4queens?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.samanthaforqueens.com/cart"
+},
+{
+"text": "18th in K-12 performance and our SUNY and CUNY s",
+"href": "https://www.consumeraffairs.com/movers/best-states-for-public-education.html"
+},
+{
+"text": "A1281",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1281"
+},
+{
+"text": "A1727)",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "A1971",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1971/amendment/A"
+},
+{
+"text": "A2299B",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A2299/amendment/B"
+},
+{
+"text": "A270",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A270"
+},
+{
+"text": "A3506B",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A3506/amendment/B"
+},
+{
+"text": "A4181",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4181"
+},
+{
+"text": "A4877",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A4877/amendment/A"
+},
+{
+"text": "A5427",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5427"
+},
+{
+"text": "A5899), an",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5899"
+},
+{
+"text": "A5995",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A5995"
+},
+{
+"text": "A6100",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6100"
+},
+{
+"text": "A6265",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6265"
+},
+{
+"text": "A6309",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6309"
+},
+{
+"text": "A6664",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6664"
+},
+{
+"text": "A8908",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8908"
+},
+{
+"text": "A8953",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A8953"
+},
+{
+"text": "About",
+"href": "https://www.samanthaforqueens.com/home#about"
+},
+{
+"text": "Check registration",
+"href": "https://nycvotes.turbovote.org/check-your-registration/voter-info"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/samantha4queens"
+},
+{
+"text": "District 37",
+"href": "https://www.samanthaforqueens.com/home#district-37"
+},
+{
+"text": "Donate",
+"href": "https://www.samanthaforqueens.com/home#donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.samanthaforqueens.com/#endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.samanthaforqueens.com/espanol"
+},
+{
+"text": "Join Us",
+"href": "https://www.samanthaforqueens.com/home#joinus"
+},
+{
+"text": "Mets agree",
+"href": "https://www.amny.com/news/g-train-weekend-service-forest-hills-push/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.actblue.com/donate/samantha4queens"
+},
+{
+"text": "Our Platform",
+"href": "https://www.samanthaforqueens.com/home#platform"
+},
+{
+"text": "Press",
+"href": "https://www.samanthaforqueens.com/press"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://act.samanthaforqueens.com/events"
+},
+{
+"text": "VOLUNTEER!",
+"href": "https://act.samanthaforqueens.com/events"
+},
+{
+"text": "[image: Samantha for Queens]",
+"href": "https://www.samanthaforqueens.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/samantha4queens"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/samantha4queens"
+},
+{
+"text": "and",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6664"
+},
+{
+"text": "and P",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "ap fr",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6664"
+},
+{
+"text": "chers",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "ekly",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6664"
+},
+{
+"text": "id",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "ment,",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "publi",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A1727"
+},
+{
+"text": "se bi",
+"href": "https://www.nysenate.gov/legislation/bills/2025/A6664"
+},
+{
+"text": "subway map, AD 37 is",
+"href": "https://www.mta.info/map/5256"
+}
 ]

@@ -1,38 +1,258 @@
 [
-"https://facebook.com/kassayforassembly",
-"https://instagram.com/kassayforassembly",
-"https://kassayforassembly.com/",
-"https://kassayforassembly.com/endorsements",
-"https://kassayforassembly.com/events",
-"https://kassayforassembly.com/issues",
-"https://kassayforassembly.com/news",
-"https://kassayforassembly.com/volunteer",
-"https://kassayforassembly.com/voter-resources",
-"https://sites.newpaltz.edu/news/2021/02/alumni-interview-series-launches-with-one-on-one-conversations-about-finding-success-after-graduation",
-"https://tbrnewsmedia.com/2024-democratic-primary-results",
-"https://tbrnewsmedia.com/as-port-jeff-braces-for-heightened-flooding-work-begins-to-manage-water-problem",
-"https://tbrnewsmedia.com/be-their-guest-the-fox-and-the-owl-inn-celebrate-10th-anniversary-in-port-jefferson",
-"https://tbrnewsmedia.com/castaways-in-port-jefferson-celebrates-grand-opening-with-ribbon-cutting",
-"https://tbrnewsmedia.com/d-day-remembrance-event-in-port-jefferson-station",
-"https://tbrnewsmedia.com/edward-jones-office-cuts-ribbon-on-new-location-in-port-jefferson",
-"https://tbrnewsmedia.com/kassay-and-sheprow-triumph-in-port-jeff-board-of-trustees-election",
-"https://tbrnewsmedia.com/kassay-sheprow-sworn-in-as-trustees",
-"https://tbrnewsmedia.com/locals-craft-homemade-masks-for-healthcare-workers-during-pandemic",
-"https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay",
-"https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay-port-jeff-trustee-on-climate-resilience-planning",
-"https://tbrnewsmedia.com/pedal-powered-party-experience-heads-to-port-jefferson",
-"https://tbrnewsmedia.com/pjv-updates-public-on-emergency-response-traffic-and-new-sbu-internship-program",
-"https://tbrnewsmedia.com/port-jeff-teams-up-with-relic-for-beach-cleanup-baskets",
-"https://tbrnewsmedia.com/port-jeff-village-hosts-e-waste-recycling-event-at-perry-street-lot",
-"https://tbrnewsmedia.com/port-jefferson-celebrates-arbor-day-with-native-long-island-tree-planting",
-"https://tbrnewsmedia.com/port-jefferson-chamber-of-commerce-hosts-ribbon-cutting-for-ivory-main",
-"https://tbrnewsmedia.com/port-jefferson-deputy-mayor-rebecca-kassay-announces-run-for-nys-assembly",
-"https://tbrnewsmedia.com/port-jefferson-village-hosts-a-workshop-on-flood-prevention-in-the-wake-of-worsening-storm-surges",
-"https://tbrnewsmedia.com/rally-against-proposed-education-cuts",
-"https://tbrnewsmedia.com/rebecca-kassay-announces-candidacy-for-new-york-state-assembly",
-"https://tbrnewsmedia.com/six-acre-park-committee-presents-its-vision",
-"https://tbrnewsmedia.com/stony-brook-village-center-celebrates-spring-with-ribbon-cuttings-grand-openings-anniversaries-and-renovations",
-"https://tbrnewsmedia.com/time-to-think-spring-community-garden-beds-are-up-for-grabs",
-"https://tbrnewsmedia.com/uptown-port-jeff-undergoes-transformation",
-"https://youtube.com/@kassayforassembly"
+{
+"text": "Endorsements",
+"href": "https://www.kassayforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "INFO@KASSAYFORASSEMBLY.COM",
+"href": "mailto:INFO@KASSAYFORASSEMBLY.COM"
+},
+{
+"text": "In the News",
+"href": "https://www.kassayforassembly.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.kassayforassembly.com/issues"
+},
+{
+"text": "SUNY New Paltz News (2/1/21)",
+"href": "https://sites.newpaltz.edu/news/2021/02/alumni-interview-series-launches-with-one-on-one-conversations-about-finding-success-after-graduation/"
+},
+{
+"text": "Times Beacon Record (1/21/22)",
+"href": "https://tbrnewsmedia.com/time-to-think-spring-community-garden-beds-are-up-for-grabs/"
+},
+{
+"text": "Times Beacon Record (10/5/23)",
+"href": "https://tbrnewsmedia.com/edward-jones-office-cuts-ribbon-on-new-location-in-port-jefferson/"
+},
+{
+"text": "Times Beacon Record (10/8/22)",
+"href": "https://tbrnewsmedia.com/uptown-port-jeff-undergoes-transformation/"
+},
+{
+"text": "Times Beacon Record (11/15/24)",
+"href": "https://tbrnewsmedia.com/rebecca-kassay-announces-candidacy-for-new-york-state-assembly/"
+},
+{
+"text": "Times Beacon Record (2/8/24)",
+"href": "https://tbrnewsmedia.com/rally-against-proposed-education-cuts/"
+},
+{
+"text": "Times Beacon Record (3/26/20)",
+"href": "https://tbrnewsmedia.com/locals-craft-homemade-masks-for-healthcare-workers-during-pandemic/"
+},
+{
+"text": "Times Beacon Record (3/8/24)",
+"href": "https://tbrnewsmedia.com/castaways-in-port-jefferson-celebrates-grand-opening-with-ribbon-cutting/"
+},
+{
+"text": "Times Beacon Record (4/12/24)",
+"href": "https://tbrnewsmedia.com/port-jefferson-deputy-mayor-rebecca-kassay-announces-run-for-nys-assembly/"
+},
+{
+"text": "Times Beacon Record (4/13/23)",
+"href": "https://tbrnewsmedia.com/as-port-jeff-braces-for-heightened-flooding-work-begins-to-manage-water-problem/"
+},
+{
+"text": "Times Beacon Record (4/2/23)",
+"href": "https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay-port-jeff-trustee-on-climate-resilience-planning/"
+},
+{
+"text": "Times Beacon Record (4/5/24)",
+"href": "https://tbrnewsmedia.com/stony-brook-village-center-celebrates-spring-with-ribbon-cuttings-grand-openings-anniversaries-and-renovations/"
+},
+{
+"text": "Times Beacon Record (5/1/24)",
+"href": "https://tbrnewsmedia.com/port-jefferson-celebrates-arbor-day-with-native-long-island-tree-planting/"
+},
+{
+"text": "Times Beacon Record (5/12/22)",
+"href": "https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay/"
+},
+{
+"text": "Times Beacon Record (5/20/22)",
+"href": "https://tbrnewsmedia.com/six-acre-park-committee-presents-its-vision/"
+},
+{
+"text": "Times Beacon Record (6/10/23)",
+"href": "https://tbrnewsmedia.com/pedal-powered-party-experience-heads-to-port-jefferson/"
+},
+{
+"text": "Times Beacon Record (6/14/24)",
+"href": "https://tbrnewsmedia.com/d-day-remembrance-event-in-port-jefferson-station/"
+},
+{
+"text": "Times Beacon Record (6/16/21)",
+"href": "https://tbrnewsmedia.com/port-jeff-teams-up-with-relic-for-beach-cleanup-baskets/"
+},
+{
+"text": "Times Beacon Record (6/22/22)",
+"href": "https://tbrnewsmedia.com/kassay-and-sheprow-triumph-in-port-jeff-board-of-trustees-election/"
+},
+{
+"text": "Times Beacon Record (6/23/24)",
+"href": "https://tbrnewsmedia.com/be-their-guest-the-fox-and-the-owl-inn-celebrate-10th-anniversary-in-port-jefferson/"
+},
+{
+"text": "Times Beacon Record (6/25/24)",
+"href": "https://tbrnewsmedia.com/2024-democratic-primary-results/"
+},
+{
+"text": "Times Beacon Record (6/28/24)",
+"href": "https://tbrnewsmedia.com/port-jefferson-village-hosts-a-workshop-on-flood-prevention-in-the-wake-of-worsening-storm-surges/"
+},
+{
+"text": "Times Beacon Record (6/6/23)",
+"href": "https://tbrnewsmedia.com/port-jefferson-chamber-of-commerce-hosts-ribbon-cutting-for-ivory-main/"
+},
+{
+"text": "Times Beacon Record (7/7/22)",
+"href": "https://tbrnewsmedia.com/kassay-sheprow-sworn-in-as-trustees/"
+},
+{
+"text": "Times Beacon Record (8/11/23)",
+"href": "https://tbrnewsmedia.com/port-jeff-village-hosts-e-waste-recycling-event-at-perry-street-lot/"
+},
+{
+"text": "Times Beacon Record (9/9/23)",
+"href": "https://tbrnewsmedia.com/pjv-updates-public-on-emergency-response-traffic-and-new-sbu-internship-program/"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.kassayforassembly.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kassayforassembly.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kassayforassembly.com/voter-resources"
+},
+{
+"text": "[image: 271678686_265785238999085_4097712271100661525_n-700x525.jpg]",
+"href": "https://tbrnewsmedia.com/time-to-think-spring-community-garden-beds-are-up-for-grabs/"
+},
+{
+"text": "[image: Alumni_Int_Series.png]",
+"href": "https://sites.newpaltz.edu/news/2021/02/alumni-interview-series-launches-with-one-on-one-conversations-about-finding-success-after-graduation/"
+},
+{
+"text": "[image: C-4-scaled-e1680187996398-700x906.jpg]",
+"href": "https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay-port-jeff-trustee-on-climate-resilience-planning/"
+},
+{
+"text": "[image: Castaway-group-picture-scaled-e1709916026741-700x492.jpg]",
+"href": "https://tbrnewsmedia.com/castaways-in-port-jefferson-celebrates-grand-opening-with-ribbon-cutting/"
+},
+{
+"text": "[image: Edward-Jones-2-421x357.jpg]",
+"href": "https://tbrnewsmedia.com/edward-jones-office-cuts-ribbon-on-new-location-in-port-jefferson/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kassayforassembly"
+},
+{
+"text": "[image: IMG_1734.png]",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "[image: IMG_2123.jpeg]",
+"href": "https://tbrnewsmedia.com/rally-against-proposed-education-cuts/"
+},
+{
+"text": "[image: IMG_9400-scaled-e1657221391580-544x357.jpg]",
+"href": "https://tbrnewsmedia.com/kassay-sheprow-sworn-in-as-trustees/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kassayforassembly/"
+},
+{
+"text": "[image: Ivory-Main-700x525.jpeg]",
+"href": "https://tbrnewsmedia.com/port-jefferson-chamber-of-commerce-hosts-ribbon-cutting-for-ivory-main/"
+},
+{
+"text": "[image: P1071870-e1713196798660-700x366.jpg]",
+"href": "https://tbrnewsmedia.com/port-jefferson-deputy-mayor-rebecca-kassay-announces-run-for-nys-assembly/"
+},
+{
+"text": "[image: Photo-by-Marvin-Tejada-700x660.png]",
+"href": "https://tbrnewsmedia.com/rebecca-kassay-announces-candidacy-for-new-york-state-assembly/"
+},
+{
+"text": "[image: Pic-1-Food-workshop-group-photo--scaled.jpg]",
+"href": "https://tbrnewsmedia.com/port-jefferson-village-hosts-a-workshop-on-flood-prevention-in-the-wake-of-worsening-storm-surges/"
+},
+{
+"text": "[image: Port-Jeff-Village-Hall_Suttonw-700x467.jpg]",
+"href": "https://tbrnewsmedia.com/six-acre-park-committee-presents-its-vision/"
+},
+{
+"text": "[image: Screen Shot 2024-10-13 at 6.52.32 PM.png]",
+"href": "https://tbrnewsmedia.com/pjv-updates-public-on-emergency-response-traffic-and-new-sbu-internship-program/"
+},
+{
+"text": "[image: Screen-Shot-2020-03-25-at-10.36.04-AM.png]",
+"href": "https://tbrnewsmedia.com/locals-craft-homemade-masks-for-healthcare-workers-during-pandemic/"
+},
+{
+"text": "[image: Snaden-copySchwarting-copyKassay-copy-700x327.png]",
+"href": "https://tbrnewsmedia.com/as-port-jeff-braces-for-heightened-flooding-work-begins-to-manage-water-problem/"
+},
+{
+"text": "[image: The-Fox-and-the-Owl-Inn-ribbon-cutting-700x525.jpeg]",
+"href": "https://tbrnewsmedia.com/be-their-guest-the-fox-and-the-owl-inn-celebrate-10th-anniversary-in-port-jefferson/"
+},
+{
+"text": "[image: Wend-Wellness-476x357.jpg]",
+"href": "https://tbrnewsmedia.com/stony-brook-village-center-celebrates-spring-with-ribbon-cuttings-grand-openings-anniversaries-and-renovations/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@kassayforassembly"
+},
+{
+"text": "[image: cover-700x467.jpg]",
+"href": "https://tbrnewsmedia.com/uptown-port-jeff-undergoes-transformation/"
+},
+{
+"text": "[image: cutting-the-ribbon-700x525.jpg]",
+"href": "https://tbrnewsmedia.com/pedal-powered-party-experience-heads-to-port-jefferson/"
+},
+{
+"text": "[image: e-waste-PHOTO3-scaled-e1691694810206-700x391.jpeg]",
+"href": "https://tbrnewsmedia.com/port-jeff-village-hosts-e-waste-recycling-event-at-perry-street-lot/"
+},
+{
+"text": "[image: image2-476x357.jpeg]",
+"href": "https://tbrnewsmedia.com/d-day-remembrance-event-in-port-jefferson-station/"
+},
+{
+"text": "[image: kassay1779p5-e1655931649639-700x515.png]",
+"href": "https://tbrnewsmedia.com/kassay-and-sheprow-triumph-in-port-jeff-board-of-trustees-election/"
+},
+{
+"text": "[image: port-jeff-village-arbor-day-2024_53680425573_o-536x357.jpg]",
+"href": "https://tbrnewsmedia.com/port-jefferson-celebrates-arbor-day-with-native-long-island-tree-planting/"
+},
+{
+"text": "[image: relic-2-julianne-mosher-700x467.jpg]",
+"href": "https://tbrnewsmedia.com/port-jeff-teams-up-with-relic-for-beach-cleanup-baskets/"
+},
+{
+"text": "[image: rome-fao-united-nations-326x235.jpg]",
+"href": "https://tbrnewsmedia.com/one-on-one-with-rebecca-kassay/"
+},
+{
+"text": "[image: vote-3569999_1280.jpg]",
+"href": "https://tbrnewsmedia.com/2024-democratic-primary-results/"
+}
 ]

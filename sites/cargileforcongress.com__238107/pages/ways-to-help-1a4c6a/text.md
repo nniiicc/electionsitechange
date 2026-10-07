@@ -1,32 +1,5 @@
-Home
-Media
-About
-Issues
-Our District
-Next Steps
-Donate
-SHOP
-Back
-Register to Vote
-Join the Team
-Contact
-Home
-Media
-About
-Issues
-Our District
-Next Steps
-Register to Vote
-Join the Team
-Contact
-Mike Cargile for Congress
-Donate
-SHOP
-Register to Vote
-PLEASE REGISTER TO VOTE
-Register to vote
-HERE
-Not sure if you are registered yet?
-Check your voter registration
-HERE
-.
+Home Media About Issues Our District Next Steps Donate SHOP Back Register to Vote Join the Team Contact Home Media About Issues Our District Next Steps Register to Vote Join the Team Contact Mike Cargile for Congress Donate SHOP Register to Vote PLEASE REGISTER TO VOTE Register to vote HERE Not sure if you are registered yet?
+Check your voter registration HERE .
+Unlike my opponent, Norma Torres… I am Pro-God, Pro-Family, Pro-Life, Pro-Jobs, Pro-Police and I will always put… America First!
+“At no other time in our nation’s history have our foundational principles been under greater assault than now.
+Join with me as we rise to meet the challenge and restore faith in our great Republic!” Mike.Cargile@outlook.com Hours HOME Media About Issues Our District Ways to Help Join the Team Contact Donate Now

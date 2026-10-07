@@ -1,38 +1,13 @@
-LATEST NEWS
-Mike Tannousis PREVIOUS ENDORSEMENTS
-- Police Benevolent Association
-- Detectives Endowment Association
-- Sergeants Benevolent Association
-- Lieutenants Benevolent Association
-- Captains Endowment Association
-- Port Authority Police Benevolent Association
-- Supreme Court Officers Association
-- NYS Court Clerks Association
-- Protect Our Police PAC
-- National 10-13 Organizations
-- Retired Sergeants Association
-- Staten Island & Brooklyn Republican Parties
-- Staten Island & Brooklyn Conservative Parties
-- National Federation of Independent Business
-Mike Tannousis PARTY & UNION ENDORSEMENTS
-- Police Benevolent Association
-- Detectives Endowment Association
-- Sergeants Benevolent Association
-- Lieutenants Benevolent Association
-- Captains Endowment Association
-- Port Authority Police Benevolent Association
-- Supreme Court Officers Association
-- NYS Court Clerks Association
-- Protect Our Police PAC
-- National 10-13 Organizations
-- Retired Sergeants Association
-- Staten Island & Brooklyn Republican Parties
-- Staten Island & Brooklyn Conservative Parties
-- National Federation of Independent Business
-ENDORSED BY ALL OF OUR MOST TRUSTED LEADERS
-- Borough President James Oddo
-- State Senator Andrew Lanza
-- Minority Leader Steven Matteo
-- Councilman Joe Borelli
-- Assemblywoman Nicole Malliotakis
-- Assemblyman Mike Reilly
+Skip to Content Menu Menu Mike Tannousis for State Assembly Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate Meet Mike Explore Newsroom Events Get Involved Volunteer Request a Sign Contact Us Donate DONATE DONATE A FIGHTER FOR STATEN ISLAND & BROOKLYN Mike Tannousis is a lifelong Staten Islander, and the son of Greek immigrants that came to America to seek a better life.
+DONATE NOW MEET MIKE STAND WITH MIKE LATEST NEWS Endorsements BREAKING: Police Benevolent Association Endorses Mike Tannousis for State Assembly “Your commitment to addressing the issues affecting New York City police officers is well recognized, and it will be an honor to have you representing our members in the Assembly.” Endorsements BREAKING: Port Authority PBA Endorses Mike Tannousis for State Assembly “As a lifelong Staten Island resident, you are committed to public service and focused on improving the quality of life for all you serve.” Featured Tannousis Wins Republican Primary for State Assembly We have great news!
+Mike Tannousis has won the Republican Primary for the 64th Assembly District.
+It was a hard-fought campaign and after the absentee ballots were counted we maintained a commanding lead!
+Endorsements Sergeants Benevolent Association Endorses Mike Tannousis for State Assembly “Law enforcement is about integrity.
+There is no question that Mike Tannousis has the integrity to do the job and to support law enforcement.” – Ed Mullins, SBA President Endorsements Detectives’ Union Endorses Mike Tannousis for State Assembly As a former Assistant District Attorney for both the Bronx and Staten Island DA offices, Michael Tannousis has a proven record of standing up for law enforcement and the safety of our community.
+Endorsements Tannousis Endorsed by the Staten Island Republican Party The Executive Committee of the Richmond County Republican Committee unanimously gave its support to Michael Tannousis.
+Featured Mike Tannousis: 5 Reasons Why I’m Running Former prosecutor and candidate for State Assembly Mike Tannousis outlines why he’s running to represent Staten Island & Brooklyn.
+Learn more.
+Endorsements Tannousis Endorsed by the Staten Island & Brooklyn Conservative Party The executive committees have jointly nominated and endorsed Tannousis in the 2020 election for the Assembly’s 64th District.
+Policy Former Prosecutor Mike Tannousis Blasts Radical Bail Reform Law For the past eight years as a prosecutor, I have seen defendants coming into the criminal justice system every single day.
+It has become a revolving door.
+VISIT NEWSROOM Mike Tannousis PREVIOUS ENDORSEMENTS Police Benevolent Association Detectives Endowment Association Sergeants Benevolent Association Lieutenants Benevolent Association Captains Endowment Association Port Authority Police Benevolent Association Supreme Court Officers Association NYS Court Clerks Association Protect Our Police PAC National 10-13 Organizations Retired Sergeants Association Staten Island & Brooklyn Republican Parties Staten Island & Brooklyn Conservative Parties National Federation of Independent Business Mike Tannousis PARTY & UNION ENDORSEMENTS Police Benevolent Association Detectives Endowment Association Sergeants Benevolent Association Lieutenants Benevolent Association Captains Endowment Association Port Authority Police Benevolent Association Supreme Court Officers Association NYS Court Clerks Association Protect Our Police PAC National 10-13 Organizations Retired Sergeants Association Staten Island & Brooklyn Republican Parties Staten Island & Brooklyn Conservative Parties National Federation of Independent Business ENDORSED BY ALL OF OUR MOST TRUSTED LEADERS Borough President James Oddo State Senator Andrew Lanza Minority Leader Steven Matteo Councilman Joe Borelli Assemblywoman Nicole Malliotakis Assemblyman Mike Reilly Volunteer Donate PAID FOR BY TANNOUSIS 2026 COPYRIGHT © # PRIVACY POLICY CONTACT US Political Website Design by Back to top

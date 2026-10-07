@@ -1,4 +1,8 @@
-Vermont Suffers in Trade War with Canada
-Over the last few days, I’ve received multiple requests to reach out to Canadians on behalf of Vermonters.
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE Uncategorized Vermont Suffers in Trade War with Canada Posted on September 2, 2026 September 2, 2026 Author Martine Larocque Gulick Over the last few days, I’ve received multiple requests to reach out to Canadians on behalf of Vermonters.
 This is likely due to the fact that my family roots are Canadian, I serve in the Vermont Senate, and I speak French.
-For these reasons, both television and radio news outlets have reached out to interview Read More …
+For these reasons, both television and radio news outlets have reached out to interview Read More … Categories Uncategorized Why the August 11 primary is important Posted on July 9, 2026 July 9, 2026 Author Steve For voters in the Chittenden Central Senate District, the August primary election is the election that matters most.
+Read More … Categories Uncategorized June Action Call ft.
+Senator Martine Gulick Posted on June 19, 2026 July 9, 2026 Author Steve This month, we are highlighting our work to ban Paraquat, a pesticide that is heavily linked to Parkinson’s disease.
+Read More … Categories Uncategorized Work From The Past Biennium Posted on June 19, 2026 June 19, 2026 Author Steve As the primary approaches this August 11th, it is important to remember what is at stake.
+Read More … Categories Uncategorized A Step Toward Education Reform Posted on June 10, 2026 June 19, 2026 Author Steve Attempting a fix to the system, when the undergirding is still shaky, and the very structure is riddled with inequality will be a challenge.
+Read More … Categories Uncategorized DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

@@ -1,7 +1,42 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLScjGOtuNmjkx-NpHadshG87lyj8UQWzd6cZ_hfRSgfhy2vJZw/viewform?usp=publish-editor",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flyndaformo&sa=D&sntz=1&usg=AOvVaw1nzPa_OaOJ73XlBMextoez",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100081820337877&sa=D&sntz=1&usg=AOvVaw1EpMeB4Ap2gyuJHqcq3OtN",
-"https://sites.google.com/corbinconsultants.com/lynda-jones4mo/about-lynda",
-"https://sites.google.com/corbinconsultants.com/lynda-jones4mo/home"
+{
+"text": "About Lynda",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/about-lynda"
+},
+{
+"text": "Become a Volunteer!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjGOtuNmjkx-NpHadshG87lyj8UQWzd6cZ_hfRSgfhy2vJZw/viewform?usp=publish-editor"
+},
+{
+"text": "FaceBook",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100081820337877&sa=D&sntz=1&usg=AOvVaw1EpMeB4Ap2gyuJHqcq3OtN"
+},
+{
+"text": "Home",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/home"
+},
+{
+"text": "Learn About Lynda!",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/about-lynda"
+},
+{
+"text": "Lynda Jones For MO",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/home"
+},
+{
+"text": "Support Lynda!",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flyndaformo&sa=D&sntz=1&usg=AOvVaw1nzPa_OaOJ73XlBMextoez"
+},
+{
+"text": "Support the Campaign!",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Flyndaformo&sa=D&sntz=1&usg=AOvVaw1nzPa_OaOJ73XlBMextoez"
+},
+{
+"text": "[image]",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/home"
+},
+{
+"text": "[image]Lynda Jones For MO",
+"href": "https://sites.google.com/corbinconsultants.com/lynda-jones4mo/home"
+}
 ]

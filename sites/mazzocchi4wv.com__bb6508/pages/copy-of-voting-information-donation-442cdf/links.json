@@ -1,10 +1,42 @@
 [
-"https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace",
-"https://mazzocchi4wv.com/",
-"https://mazzocchi4wv.com/copy-of-voting-information-donation",
-"https://mazzocchi4wv.com/general-8",
-"https://mazzocchi4wv.com/my-beliefs",
-"https://mazzocchi4wv.com/projects-8",
-"https://mazzocchi4wv.com/voting-information-donation",
-"https://ovr.sos.wv.gov/Register/Landing"
+{
+"text": "About Me",
+"href": "https://www.mazzocchi4wv.com"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.mazzocchi4wv.com/general-8"
+},
+{
+"text": "Check Your Registration & Polling Location",
+"href": "https://apps.sos.wv.gov/Elections/Voter/FindMyPollingPlace"
+},
+{
+"text": "Delegate, WV House District 31",
+"href": "https://www.mazzocchi4wv.com"
+},
+{
+"text": "Donate",
+"href": "https://www.mazzocchi4wv.com/voting-information-donation"
+},
+{
+"text": "Election Information",
+"href": "https://www.mazzocchi4wv.com/copy-of-voting-information-donation"
+},
+{
+"text": "In the Community",
+"href": "https://www.mazzocchi4wv.com/projects-8"
+},
+{
+"text": "Issues",
+"href": "https://www.mazzocchi4wv.com/my-beliefs"
+},
+{
+"text": "Margitta Mazzocchi",
+"href": "https://www.mazzocchi4wv.com"
+},
+{
+"text": "Register to Vote",
+"href": "https://ovr.sos.wv.gov/Register/Landing"
+}
 ]

@@ -1,9 +1,6 @@
-Senatorial and Delegate Scholarships
-Bill Name
-Higher Education - Part-time Senatorial and Delegate Scholarships-Alterations
-Bill Number
-HB 901
-Year
-2024
-Priorities Areas: Vulnerable Communities, Economic Development
-HB 901: Higher Education - Part-time Senatorial and Delegate Scholarships-Alterations allows students with documented disabilities to request a waiver to the 6-credit minimum eligibility requirement for Senatorial and Delegate scholarships, thereby making the scholarship more inclusive for residents of Maryland.
+0 Skip to Content Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Legislation Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants 2026 Election 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Opportunities Scholarships Volunteer Contact Open Menu Close Menu Home About Folder: Legislation Back Lead Sponsored Legislation Cosponsored and Supported Legislation Capital Grants Folder: 2026 Election Back 2026 Campaign Announcement 2026 Campaign Endorsements 2026 Organization Endorsements 2026 Campaign Events In District 16 Folder: Opportunities Back Scholarships Volunteer Contact Senatorial and Delegate Scholarships Bill Name Higher Education - Part-time Senatorial and Delegate Scholarships-Alterations Bill Number HB 901 Year 2024 Priorities Areas : Vulnerable Communities, Economic Development Learn More HB 901: Higher Education - Part-time Senatorial and Delegate Scholarships-Alterations allows students with documented disabilities to request a waiver to the 6-credit minimum eligibility requirement for Senatorial and Delegate scholarships, thereby making the scholarship more inclusive for residents of Maryland.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join Sarah Wolek Sign-up for an email newsletter from Delegate Wolek!
+First Name Last Name Email Address Join Now Thank you!
+By Authority: Friends of Sarah Wolek; Oliver Hanson, Treasurer.

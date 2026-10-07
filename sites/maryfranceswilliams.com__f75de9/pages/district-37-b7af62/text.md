@@ -1,1 +1,3 @@
-Georgia State House District 37 runs right through the heart of Marietta, Georgia, including the communities of Fair Oaks, Cheatham Hill, parts of East Cobb, and downtown Marietta.
+Meet Mary Frances Serving You Priorities Voting Community Voices Meet Mary Frances Serving You Priorities Voting Georgia House District 37 Community Voices Scroll cobb co.
+House District 37 Georgia State House District 37 runs right through the heart of Marietta, Georgia, including the communities of Fair Oaks, Cheatham Hill, parts of East Cobb, and downtown Marietta.
+District-Banner District-Map Follow Me on Instagram Sign Up Contact Us Paid for by Friends and Neighbors of Mary Frances Williams 1000 Whitlock Ave NW, Ste 320 PMB 249 Marietta, GA 30064 (770) 424-9084 info@maryfranceswilliams.com

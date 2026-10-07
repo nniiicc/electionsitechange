@@ -1,10 +1,42 @@
 [
-"https://emilygise.com/",
-"https://emilygise.com/district-map",
-"https://emilygise.com/meet-emily",
-"https://emilygise.com/offer-support",
-"https://emilygise.com/the-campaign-trail",
-"https://emilygise.com/top-priorities",
-"https://okhouse.maps.arcgis.com/apps/webappviewer/index.html?id=40094b4913ff416796a71725fce78488&query=Proposed_HD_8269%2CDistrict_1%2C90",
-"https://okvoterportal.okelections.gov/"
+{
+"text": "Click here to find your polling location",
+"href": "https://okvoterportal.okelections.gov/"
+},
+{
+"text": "District Map",
+"href": "https://emilygise.com/district-map"
+},
+{
+"text": "Home",
+"href": "https://emilygise.com/"
+},
+{
+"text": "Meet Emily",
+"href": "https://emilygise.com/meet-emily"
+},
+{
+"text": "Offer Support",
+"href": "https://emilygise.com/offer-support"
+},
+{
+"text": "Request a yard sign",
+"href": "https://emilygise.com/offer-support#f7779d07-2e34-410c-9c80-b5e26d9d6cce"
+},
+{
+"text": "The Campaign Trail",
+"href": "https://emilygise.com/the-campaign-trail"
+},
+{
+"text": "Top Priorities",
+"href": "https://emilygise.com/top-priorities"
+},
+{
+"text": "View District Interactive Map",
+"href": "https://okhouse.maps.arcgis.com/apps/webappviewer/index.html?id=40094b4913ff416796a71725fce78488&query=Proposed_HD_8269%2CDistrict_1%2C90"
+},
+{
+"text": "[image: EmilyGise]",
+"href": "https://emilygise.com/"
+}
 ]

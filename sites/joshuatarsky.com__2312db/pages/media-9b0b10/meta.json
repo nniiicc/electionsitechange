@@ -1,7 +1,9 @@
 {
  "description": "Find out what the campaign is up to in the media. Read press releases from the campaign or various articles featuring the campaign.",
  "final_url": "https://www.joshuatarsky.com/media",
- "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 \u200b info@joshtarsky",
+ "fingerprint": "4d357dd9eba7ee2deee1d01a1fb0a3cfdbbe128c",
+ "format": 3,
+ "paid_for_by": "Paid For By The Committee to Elect Joshua Tarsky PO Box 920581 Needham, MA 02492 ​ info@joshtarsky",
  "title": "2024 Media | Joshua Tarsky",
  "years_mentioned": [
   "2015",

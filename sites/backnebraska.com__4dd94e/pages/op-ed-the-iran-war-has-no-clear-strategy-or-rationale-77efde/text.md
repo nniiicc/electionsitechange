@@ -1,6 +1,4 @@
-Op-Ed: The Iran War has no clear strategy or rationale
-By: Chris Backemeyer
-One hundred eighty-one days.
+Skip to content DONATE TODAY TO SUPPORT CHRIS BACKEMEYER → Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Facebook X-twitter Instagram Youtube VOLUNTEER DONATE August 27, 2026 Op-Ed: The Iran War has no clear strategy or rationale Op-Ed: The Iran War has no clear strategy or rationale By: Chris Backemeyer One hundred eighty-one days.
 Come tomorrow, that’s how long Americans will have been fighting a war with Iran that the White House still can’t explain.
 Time and again, we’re told the United States doesn’t have enough money.
 Not enough to protect Medicaid.
@@ -46,3 +44,7 @@ Somehow, that “fiscal responsibility” never seems to apply when it comes to 
 Sending Americans into harm’s way and committing billions month after month requires debate, scrutiny, and accountability.
 One hundred eighty-one days in, with no clear rationale and no clear strategy, Americans deserve an answer: Why are we still spending roughly $1 billion a day bombing Iran while so many challenges here at home go unanswered?
 Chris Backemeyer is the Democratic nominee for Congress in Nebraska’s 1st Congressional District.
+### Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch Home Priorities Events Meet Chris Media Inquiry Contact Messaging and Visual Assets Merch PAID FOR BY Backemeyer for Nebraska If donating by mail, make checks payable to: Backemeyer for Nebraska PO Box 6124, Lincoln, NE 68506.
+Home Meet Chris Priorities Latest News Endorsements Events Merch Home Meet Chris Priorities Latest News Endorsements Events Merch Donate Facebook X-twitter Instagram Youtube Experience to lead.
+The courage to stand up to Trump.
+Lower costs ★ Stop the chaos ★ End corruption CONTINUE TO WEBSITE →

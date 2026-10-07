@@ -1,5 +1,4 @@
-PRIORities
-Retirement
-Americans deserve to live in dignity and security after working nearly their entire lives.
-The 2026 Social Security Trustees Report shows the Social Security retirement trust fund depleted by 2032.
+Skip navigation menu About Issues Volunteer Contact Donate About Issues Volunteer Contact Donate Economic Security Families Community-based Projects Universal Health care Housing for All Immigration Reform Democracy Reform Student Loan Forgiveness and Tuition Costs Education Reform Environmental Justice Small Businesses Foreign Policy Retirement PRIORities Retirement Americans deserve to live in dignity and security after working nearly their entire lives.
+The 2026 Social Security Trustees Report shows the Social Security retirement trust fund depleted by 2032 .
 This means policymakers can continue to do nothing and ensure benefits are reduced.
+Or, they can protect the benefits workers and families have earned. hello@motaforcongress.com Powered by RUN! website builder Paid for by Samantha Mota for Congress You need to enable JavaScript to run this app.

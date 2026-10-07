@@ -1,10 +1,11 @@
-is a third-generation Westchester native, was born on Nov. 22, 1953, in Mount Vernon and has resided in the City of Rye for over 37 years.
+Skip to content become a donor to George's Campaign → become a founding donor → Menu Home Meet George Priorities Menu Home Meet George Priorities Facebook Twitter Instagram Volunteer Contribute Meet George George Latimer he/him/his is a third-generation Westchester native, was born on Nov.
+22, 1953, in Mount Vernon and has resided in the City of Rye for over 37 years.
 Rep.
 Latimer was elected to the U.S.
 House of Representatives in 2024 and has been a strong and outspoken voice against the Trump Administration.
 Often taking to the floor of the House of Representatives and on national television, he has criticized the administration’s mistreatment of immigrants, erratic tariff policies, abuse of allies, attempts to rollback voting rights, and self-dealing to enrich themselves, family, and friends.
 His office has also fought for and won more than $3 million in federal funds returned to taxpayers through casework services.
-In the 119th Congress, Rep.
+In the 119 th Congress, Rep.
 Latimer sits on the House Foreign Affairs Committee and the House Committee on Small Business.
 During his first term, Rep.
 Latimer has introduced several pieces of legislation, including the Transparency and Predictability in Small Business Opportunities Act which focuses on increasing federal government transparency in small businesses contracting; the SBIR Administrative Funding Act to facilitate long-term agency planning; the Hybrid Vehicle Battery Safety Act of 2026 to address electric vehicle safety after local deadly incidents; the Home Mortgage Interest Credit Act of 2026 and the Senior Accessible Housing Tax Credit Act of 2026 to make home buying and remaining in a home while aging a more reachable goal; and the Protecting Our Integrity and Nation from Tyranny (POINT) Act to rein in executive power over federal elections.
@@ -41,8 +42,13 @@ Latimer took office as Westchester County Executive in January 2018 and won re-e
 During his tenure as County Executive, Latimer has upheld his impressive record of progressive achievements including three consecutive County property tax cuts and credit rating stabilization.
 He brought many long-standing infrastructure projects to fruition, including the historic Elijah J.
 Miller House, Sprain Ridge Pool, New Rochelle Family Court and the North and South County Trailways.
-Latimer broke-ground on Memorial Field in Mount Vernon, and unveiled the County’s 9/11 First Responders Memorial on the 20th Anniversary of the September 11 attacks.
+Latimer broke-ground on Memorial Field in Mount Vernon, and unveiled the County’s 9/11 First Responders Memorial on the 20 th Anniversary of the September 11 attacks.
 Latimer has worked with all stakeholders on key social justice reforms, including the Police Reform and Reimagining Task Force, banning Gay Conversion Therapy, clinic access to help women safely access health care, funding black maternal health care initiatives, banning gun shows on couty property, signing the Anti-Wage Theft Law and the Wage History Anti-Discrimination Law among others.
 He has worked to electrify the County’s Bee-Line Bus Fleet, and modernize all County facilities for a green future.
 George Latimer has always been driven by his belief that government can be a force for good, but we need effective leaders who listen to all constituents and are committed to achieving progressive results.
 He is running for Congress to bring new energy and his real world experience to Washington, standing up to Republican extremism and demanding more of all our elected leaders in these challenging times.
+Get Involved Let's Win This Together.
+First Name Last Name Email Zipcode Submit or Donate $20 Home Meet George Priorities Home Meet George Priorities Volunteer Donate George Latimer For Congress P.O.
+Box 789 White Plains, NY 10602 Paid for by George Latimer for Congress Facebook Twitter Instagram Copyright #.
+All rights reserved.
+Privacy Policy Contact Us Press Inquiries

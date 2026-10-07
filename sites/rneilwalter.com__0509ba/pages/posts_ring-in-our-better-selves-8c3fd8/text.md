@@ -1,4 +1,4 @@
-| As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
+UT 74 VOTE ABOUT Posts Experience Contact Ring in our Better Selves 1/1/2023 As we reflect on the passing year and express wishes for a safe and happy new year, Alfred Tennyson's poem "In Memoriam" has special meaning.
 The poem was written after the passing of a dear friend, Arthur Henry Hallam in 1833 at age 22.
 Tennyson's poem stretches 2,916 lines organized into 133 sections.
 It took him 17 years to compose.
@@ -6,4 +6,5 @@ The first two verses of the hymn, "Ring Out, Wild Bells" come from the first two
 Tennyson then in the subsequent stanzas invites us to ring out and let go of the challenges of the time with the tolling of the bells, all of which are appropriate for our day.
 "Ring out the grief that saps the mind," "Ring out the feud of rich and poor," "Ring out a slowly dying cause, And ancient forms of party strife;" "Ring out the want, the care, the sin, The faithless coldness of the times;" "Ring out false pride in place and blood, The civic slander and the spite; "Ring out old shapes of foul disease;" "Ring out the narrowing lust of gold;" "Ring out the thousand wars of old," Tennyson, simultaneously invites us to ring in our better natures and hope for a redeemed future and the prophesied Millennium: "Ring in the true." "Ring in redress to all mankind." "Ring in the nobler modes of life, With sweeter manners, purer laws." "Ring in the common love of good." "Ring in the thousand years of peace." "Ring in the Christ that is to be." Tennyson understood that the teachings of Jesus Christ were the solution to the challenges of their day.
 As we face grief, feuds, political strife, indifference, pride, pandemic, and war in our day, Tennyson's assertion still rings true.
-We too can look forward to peace and remember that there is much good in the year ahead. | |
+We too can look forward to peace and remember that there is much good in the year ahead.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

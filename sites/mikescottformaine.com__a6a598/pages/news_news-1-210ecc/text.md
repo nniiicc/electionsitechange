@@ -1,7 +1,4 @@
-Endorsement Announcement
-Professional Fire Fighters of Maine Endorsement
-Why PFFMaine Supports Mike Scott for Maine’s District 20 Senate Seat
-Augusta, ME — The Professional Firefighters of Maine (PFFMaine) proudly endorses Mike Scott for Maine’s State Senate in District 20.
+Skip navigation menu About Issues News Endorsements Volunteer Contact About Issues News Endorsements Volunteer Contact PRESS RELEASE Mike Scott's Campaign Announcement Endorsement Announcement Professional Fire Fighters of Maine Endorsement NEWS ARTICLE Petition Submission Endorsement Announcement Maine AFL-CIO Endorsement Feb 16 2026 Endorsement Announcement Professional Fire Fighters of Maine Endorsement Why PFFMaine Supports Mike Scott for Maine’s District 20 Senate Seat Augusta, ME — The Professional Firefighters of Maine (PFFMaine) proudly endorses Mike Scott for Maine’s State Senate in District 20.
 As a dedicated leader in the fire and emergency services community, Mike exemplifies the qualities Maine needs in its leadership—steadfast commitment, proven advocacy, and a genuine desire to serve his community.
 Mike Scott’s 30-year career as a firefighter in Auburn is a testament to his dedication and leadership.
 Rising through the ranks to become Battalion Chief, he has demonstrated resilience, integrity, and a deep commitment to protecting and serving the citizens of Auburn.
@@ -25,4 +22,5 @@ Kilton Webb and Senate President Mattie Daughtry, Scott’s leadership has alrea
 The choice in this election is clear.
 Mike Scott is not a career politician—he is a dedicated public servant committed to making Maine a better place for retirees, families, and workers.
 Maine’s future depends on leaders who show up, work hard, and find solutions.
-Mike Scott embodies these qualities, and PFFMaine stands behind him as he seeks to represent District 20 with honor and resolve.
+Mike Scott embodies these qualities, and PFFMaine stands behind him as he seeks to represent District 20 with honor and resolve. mikescottformaine@gmail.com Powered by RUN! website builder Paid for and authorized by the candidate.
+You need to enable JavaScript to run this app.

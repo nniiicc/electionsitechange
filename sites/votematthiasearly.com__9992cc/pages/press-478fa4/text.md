@@ -1,12 +1,6 @@
-For media and press inquiries contact info@votematthiasearly.com or call 512-843-3571.
-Boilerplate
-About Matthias Early for Texas House
-Matthias Early is a 21-year-old community advocate and Democratic nominee for Texas House District 20.
+Donate Today To Support Change In TX HD-20!
+Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press More Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press Home Donate About Candidate Bio About TX HD-20 Contact Issues Affordable Healthcare Education Investment Workforce Development Take Action Endorsements Voter Info Press Downloadable Assets Downloadable Press Realeases News, Events, and Statements For media and press inquiries contact info@votematthiasearly.com or call 512-843-3571.
+Press Kit Downloadable Assets For Media and Press Headshot (Portrait) (jpg) Download Headshot (closeup) (jpg) Download Campaign Logo (png) Download Press Releases Boilerplate About Matthias Early for Texas House Matthias Early is a 21-year-old community advocate and Democratic nominee for Texas House District 20.
 Inspired by his family’s legacy of service and his own experiences overcoming health challenges, Matthias is fighting for affordable healthcare, strong public schools, and good-paying jobs for all Texans.
-Website: https://voteMatthiasEarly.com/
-Vote Matthias Early
-PO Box 2209, Georgetown, TX 78627
-Pol.
+W ebsite: https://voteMatthiasEarly.com/ Download PDF Donate Candidate Bio Contact Take Action Endorsements Voter Info Press Vote Matthias Early PO Box 2209, Georgetown, TX 78627 Pol.
 Ad Paid For By Matthias Early for Texas HD 20
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

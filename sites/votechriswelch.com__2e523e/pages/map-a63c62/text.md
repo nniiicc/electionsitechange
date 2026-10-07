@@ -1,3 +1,2 @@
-Illinois State Representative • Speaker of the House
-7th District Map
-The 7th District of Illinois includes all or portions of River Forest, Forest Park, Maywood, Bellwood, Broadview, Hillside, Berkeley, Westchester, La Grange Park, Melrose Park, Western Springs, and Northlake.
+Meet Chris Priorities News Get Involved Donate Meet Chris Priorities News Get Involved Donate Illinois State Representative • Speaker of the House 7th District Map The 7th District of Illinois includes all or portions of River Forest, Forest Park, Maywood, Bellwood, Broadview, Hillside, Berkeley, Westchester, La Grange Park, Melrose Park, Western Springs, and Northlake.
+Meet Chris Priorities News Donate Volunteer District Map © Copyright #•Paid for by The People for Emanuel “Chris” Welch

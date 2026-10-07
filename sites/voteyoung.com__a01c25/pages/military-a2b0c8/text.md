@@ -1,5 +1,4 @@
-Strengthen National Security and Support Our Military
-Families in Chester and Berks Counties deserve a strong America that deters enemies, secures our borders, and honors those who serve.
+HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM HOME PRIORITIES YOUNG AMERICANS PLAN FIX HEALTHCARE FIX HOUSING FIX PERSONAL DEBT THE OPEN CHAIR EVENTS MORE CONVERSATIONS WITH CONSTITUENTS MEDIA UPDATES VOLUNTEER FELLOWSHIP PROGRAM DONATE Strengthen National Security and Support Our Military Families in Chester and Berks Counties deserve a strong America that deters enemies, secures our borders, and honors those who serve.
 Weak leadership in Washington has emboldened adversaries like China, allowed fentanyl to flood our communities, and left our military under-resourced while wasting billions on failed policies abroad.
 Pennsylvania has a proud tradition of service, and we cannot afford to let down our guard.
 As a West Point graduate, former Infantry Officer, current Lieutenant Colonel in the Army National Guard, and Army Chaplain who has led soldiers through real crises and supported families in times of loss, I have seen the human cost of weak defense policies.
@@ -17,3 +16,5 @@ Depending on hostile nations for oil and resources weakens the country and expos
 Using Pennsylvania’s natural gas, nuclear, and innovative energy resources strengthens the economy, supports jobs, and improves security.
 I am a fourth-generation Pennsylvanian with deep roots in this community.
 Unlike career politicians who have overseen weakness abroad and instability at home, I will bring disciplined leadership and practical solutions to Congress, focused on America’s security and support for those who serve.
+PAID FOR BY MARTY YOUNG FOR CONGRESS P.O.
+Box 7 Pocopson, PA 19366-9998 info@voteyoung.com HOME DONATE VOLUNTEER PRIVACY & TERMS Share by:

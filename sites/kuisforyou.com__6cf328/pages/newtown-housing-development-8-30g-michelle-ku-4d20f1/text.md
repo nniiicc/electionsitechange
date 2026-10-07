@@ -1,8 +1,10 @@
-8-30g Is Broken — and HB 8002 Doesn’t Fix It.
+Skip to content MICHELLE EMBREE KU FOR NEWTOWN Search About About Michelle Photos Accomplishments A Clear Choice for Newtown Common Sense.
+Real Backbone.
+Get Involved Volunteer!
+Subscribe Contact News Latest Posts Facebook Feed Instagram Feed Newtown Bee: Letters to the Editor Issues Affordable Housing Action Not Talk Strong Schools Healthcare Traffic Regarding Property Taxes Home 8-30g Is Broken — and HB 8002 Doesn’t Fix It .
 Here’s What Newtown Deserves Instead.
 I.
-The Problem is Here
-In 2025, Newtown’s Planning and Zoning Commission fielded multiple simultaneous 8-30g applications — including a 136-unit proposal, a 300-unit proposal, and the recently approved 67-unit Kelmendi Apartments on Mount Pleasant Road.
+The Problem is Here In 2025, Newtown’s Planning and Zoning Commission fielded multiple simultaneous 8-30g applications — including a 136-unit proposal, a 300-unit proposal, and the recently approved 67-unit Kelmendi Apartments on Mount Pleasant Road.
 While some were denied, the denials themselves carry legal risk: rejected 8-30g applications can be appealed to the courts, where the burden of proof shifts to the town.
 These are all driven by a single Connecticut statute – Connecticut General Statute 8-30g, passed in 1989 and largely unchanged since.
 Under it, any town where less than 10% of its housing stock is deed-restricted as affordable loses meaningful control over certain development decisions.
@@ -12,13 +14,13 @@ Land has been developed, infrastructure has aged, and the nature of the housing 
 Yet the law has remained essentially frozen in time, still operating on the same assumptions, the same formulas, and the same enforcement mechanisms it had in 1989.
 Meanwhile, towns like Newtown are left managing its consequences with almost no tools and very little help from Hartford.
 Instead of changing 8-30g to keep up with the changing landscape, in the 2025 legislative session, HB-8002 was passed, presumably to help towns meet affordable housing requirements under 8-30g.
-I am running for State Representative because Newtown deserves a voice in Hartford that understands not just that this law exists, but exactly how it works, where it fails, and what an honest fix looks like. 8-30g was written to solve a real problem.
+I am running for State Representative because Newtown deserves a voice in Hartford that understands not just that this law exists, but exactly how it works, where it fails, and what an honest fix looks like.
+8-30g was written to solve a real problem.
 It has never solved it.
 The math, the missing housing, and the missed opportunities all tell the same story.
 Let me walk you through it.
 II.
-What 8-30g Was Meant to Do
-To understand why 8-30g needs to be fixed, it helps to understand why it was created in the first place – and to give it its due.
+What 8-30g Was Meant to Do To understand why 8-30g needs to be fixed, it helps to understand why it was created in the first place – and to give it its due.
 In the decades following World War II, many Connecticut suburbs used zoning as a quiet but effective tool of exclusion.
 Minimum lot sizes, prohibitions on multi-family housing, and restrictive building codes kept land prices high and effectively shut out lower and middle-income families.
 The result was a state increasingly divided between wealthy suburbs that had insulated themselves from economic diversity and urban centers absorbing a disproportionate share of the state’s affordable housing burden.
@@ -36,8 +38,7 @@ It does.
 The question is whether 8-30g, as currently written, is actually delivering it – and whether the reforms in HB 8002 go far enough to fix what is broken.
 On both counts, the evidence is not encouraging.
 III.
-The Math Is Rigged — The Denominator Trap
-Here is the central flaw in 8-30g that almost no one in Hartford wants to talk about plainly: the law is mathematically designed so that most towns can never reach the 10% threshold, no matter how much housing gets built.
+The Math Is Rigged — The Denominator Trap Here is the central flaw in 8-30g that almost no one in Hartford wants to talk about plainly: the law is mathematically designed so that most towns can never reach the 10% threshold, no matter how much housing gets built.
 To understand why, consider how the calculation works.
 The state measures affordability as a percentage – affordable units divided by total housing units.
 To reach the 10% threshold and earn an exemption from 8-30g, a town must grow its affordable units faster than it grows its total housing stock.
@@ -67,8 +68,7 @@ After forty years, 8-30g has not moved 83% of Connecticut’s towns above the th
 At some point, that is no longer a compliance problem.
 It is a design problem – and HB 8002 does nothing to fix it.
 IV.
-The Invisible Affordable Housing — Mobile Homes Don’t Count
-There is another counting problem in 8-30g that is rarely discussed, and it hits Newtown with particular force.
+The Invisible Affordable Housing — Mobile Homes Don’t Count There is another counting problem in 8-30g that is rarely discussed, and it hits Newtown with particular force.
 Newtown has a significant mobile home population.
 These are working families, seniors on fixed incomes, and long-time residents living in manufactured housing communities scattered across town – people who have built their lives here, paid taxes here, and by any honest measure are living in affordable housing right now.
 Their monthly housing costs are a fraction of what a comparable apartment or single-family home would cost in Newtown’s current market.
@@ -92,8 +92,7 @@ The families living in Newtown’s mobile home parks already have roofs over the
 Any honest reform of 8-30g must close this gap.
 I will push in Hartford for a counting methodology that credits existing manufactured housing communities toward a town’s affordable housing percentage – without requiring individual residents or park owners to navigate a bureaucratic deed restriction process that was never designed with them in mind.
 V.
-Infrastructure Isn’t an Excuse — It’s a Real Constraint
-When Newtown residents raise concerns about density and development, they are sometimes motivated by NIMBYism – a reflexive resistance to change, to new neighbors, to anything that might alter the character of the town they know.
+Infrastructure Isn’t an Excuse — It’s a Real Constraint When Newtown residents raise concerns about density and development, they are sometimes motivated by NIMBYism – a reflexive resistance to change, to new neighbors, to anything that might alter the character of the town they know.
 That is a real phenomenon and it deserves to be named honestly.
 But it is not the only force at work, and treating every concern as NIMBYism is intellectually lazy and politically convenient for those who prefer not to engage with the harder questions.
 Newtown is not a compact urban grid.
@@ -119,8 +118,7 @@ A 5% bump in school construction reimbursement does not cover any of that.
 If the state is serious about solving the housing crisis rather than simply offloading it onto municipalities, it must put real, specified dollars behind its mandates – not placeholder programs and future guidelines.
 You cannot demand the destination without helping to build the road.
 VI.
-What HB 8002 Gets Right — And Where It Falls Short
-HB-8002 is not a horrible law.
+What HB 8002 Gets Right — And Where It Falls Short HB-8002 is not a horrible law.
 It is an incomplete one.
 The legislation that Governor Lamont signed in November 2025 contains some real improvements over the status quo.
 Requiring municipalities to create housing growth plans, or participate in regional ones, is a meaningful step toward making towns accountable for their role in the statewide housing crisis rather than simply reacting to whatever developers propose.
@@ -156,8 +154,7 @@ HB-8002 helps Connecticut move in the right direction.
 But moving in the right direction, while leaving 8-30g with its structural flaws intact, is not the same as solving the problem.
 Newtown deserves a representative in Hartford who is well-equipped to do more than just vote “no” – we need someone to make the argument, to build coalitions, and work with others to solve the problem.
 VII.
-A Smarter Path Forward — Six Concrete Solutions
-The goal of this piece is not to argue that Newtown should be exempt from Connecticut’s housing crisis or absolved of its responsibility to be part of the solution.
+A Smarter Path Forward — Six Concrete Solutions The goal of this piece is not to argue that Newtown should be exempt from Connecticut’s housing crisis or absolved of its responsibility to be part of the solution.
 It isn’t.
 The goal is to argue that the solution has to actually work – that it has to produce genuinely affordable housing, in the right places, in a way that is mathematically achievable and financially honest about what it asks of communities.
 The current framework does not meet that standard.
@@ -209,8 +206,7 @@ That spirit is worth protecting.
 The Vermont model proves that when the state invests in building local capacity rather than simply mandating local outcomes, communities become partners in solving the housing crisis rather than reluctant subjects of it.
 I will advocate for Connecticut to create a similar nonprofit capacity grant program — putting resources directly into the hands of organizations working within communities like Newtown to find solutions that actually fit.
 VIII.
-Newtown Needs to be Part of the Discussion in Hartford – Not Just a “No” Vote
-The units are coming.
+Newtown Needs to be Part of the Discussion in Hartford – Not Just a “No” Vote The units are coming.
 The applications are already filed, the hearings already underway, the legal framework already in place.
 The question before Newtown is not whether it will grow but how — whether that growth will be planned or reactive, whether it will strengthen the community or strain it, whether it will produce housing that genuinely serves working families or simply housing that satisfies a developer’s bottom line while moving Newtown no closer to a goal it has no realistic path to reach.
 Those are not questions that can be answered from Newtown’s municipal building alone.
@@ -222,3 +218,6 @@ A voice that says: the law is broken, here is specifically how, and here is what
 Connecticut has spent nearly forty years trying to solve its housing crisis with a statute that 83% of its towns cannot comply with.
 It is time to stop measuring failure and start building something that works.
 Newtown’s families — the ones who grew up here, the ones who want to stay, the ones who work here but cannot afford to live here — deserve nothing less.
+Facebook Instagram Bluesky YouTube Paid for by the Ku Is For You Committee.
+Brian Hartgraves Treasurer.
+Approved by Michelle Embree Ku.

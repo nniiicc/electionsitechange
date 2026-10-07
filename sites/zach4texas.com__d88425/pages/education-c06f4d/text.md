@@ -1,5 +1,4 @@
-Education
-Every kid in Texas deserves a shot.
+Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Education Every kid in Texas deserves a shot.
 Right now, too many aren’t getting one.
 Zach is a dad of four, and all four of his kids go to Richardson ISD.
 He’s sat in the parent-teacher conferences and seen what our teachers pull off with what they’re given.
@@ -24,16 +23,17 @@ But the Basic Allotment, the core funding every district depends on to keep the 
 Most of the new money comes with strings that limit how schools can use it.
 At the same time, the Legislature set aside up to $1 billion for vouchers that send public dollars to private schools with little accountability.
 Zach believes that’s the wrong priority.
-What Zach will fight for in Austin:
-- Real funding for the basics.
+What Zach will fight for in Austin: Real funding for the basics.
 Raise core operating funding, keep it tied to actual costs, and fund schools based on enrollment instead of daily attendance.
-- Keep good teachers in the classroom.
+Keep good teachers in the classroom.
 Competitive pay, real mentoring, paid residencies, and clear pathways to full certification.
-- Catch problems early.
+Catch problems early.
 Spot reading and math gaps sooner, and fund the tutoring and small-group help that gets kids back on track.
-- Fully fund our highest-need students.
+Fully fund our highest-need students.
 Students with disabilities and other high-need kids deserve evaluations, specialized instruction, language services, and transportation, paid for in full.
-- Hold every dollar accountable.
+Hold every dollar accountable.
 Any program that takes public money, including vouchers, should report every year on what it spends, who it serves, and how students actually do.
 Public schools are where Zach’s kids, and most kids in this district, get their start.
 He’s running to make sure the state stops shortchanging them.
+2600 N Central Expy, Suite 200, Richardson, TX 75080 214-414-3808 Paid Political Advertisement, Zach Herbert for Texas Campaign Zach Herbert is a former member of the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, the Department of Defense or any branch of U.S. government.

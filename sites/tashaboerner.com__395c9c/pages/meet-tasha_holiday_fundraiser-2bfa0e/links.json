@@ -1,18 +1,86 @@
 [
-"http://bit.ly/holiday4tasha",
-"http://eepurl.com/c8gBO9",
-"http://google.com/calendar/event?action=TEMPLATE&text=Holiday+Fundraiser+for+Tasha&dates=20191208T230000Z%2F20191209T010000Z",
-"http://instagram.com/tashaboerner",
-"https://efundraisingconnections.com/c/TashaBoernerforAssembly2026",
-"https://facebook.com/Tasha4Assembly",
-"https://flickr.com/photos/derekhumphrey/albums/72177720312376632",
-"https://secure.anedot.com/tashaboernerhorvathforassembly2020/holidayfundraiser",
-"https://tashaboerner.com/",
-"https://tashaboerner.com/about-tasha",
-"https://tashaboerner.com/issues",
-"https://tashaboerner.com/meet-tasha",
-"https://tashaboerner.com/meet-tasha/holiday fundraiser?format=ical",
-"https://tashaboerner.com/meet-tasha/january-2020",
-"https://tashaboerner.com/meet-tasha/moms4tasha",
-"https://tashaboerner.com/yourpriorities"
+{
+"text": "About",
+"href": "https://tashaboerner.com/about-tasha"
+},
+{
+"text": "Back to All Events",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/tashaboernerhorvathforassembly2020/holidayfundraiser"
+},
+{
+"text": "Contribute",
+"href": "https://www.efundraisingconnections.com/c/TashaBoernerforAssembly2026/"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Holiday+Fundraiser+for+Tasha&dates=20191208T230000Z%2F20191209T010000Z"
+},
+{
+"text": "Home",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "ICS",
+"href": "https://tashaboerner.com/meet-tasha/holiday%20fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://tashaboerner.com/issues"
+},
+{
+"text": "Meet Tasha",
+"href": "https://tashaboerner.com/meet-tasha"
+},
+{
+"text": "Moms for Tasha Fundraiser",
+"href": "https://tashaboerner.com/meet-tasha/moms4tasha"
+},
+{
+"text": "Newsletter sign-up",
+"href": "http://eepurl.com/c8gBO9"
+},
+{
+"text": "PHOTOS",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632/"
+},
+{
+"text": "Walking to Win with #TeamTasha - January",
+"href": "https://tashaboerner.com/meet-tasha/january-2020"
+},
+{
+"text": "Your priorities",
+"href": "https://tashaboerner.com/yourpriorities"
+},
+{
+"text": "[image: Tasha Boerner for Assembly 2024]",
+"href": "https://tashaboerner.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/tashaboerner"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Tasha4Assembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/derekhumphrey/albums/72177720312376632"
+},
+{
+"text": "[no text]",
+"href": "mailto:tasha@tasha4assembly.com"
+},
+{
+"text": "http://bit.ly/holiday4tasha",
+"href": "http://bit.ly/holiday4tasha"
+},
+{
+"text": "tasha@tashaboerner.com",
+"href": "mailto:tasha@tashaboerner.com"
+}
 ]

@@ -1,13 +1,70 @@
 [
-"https://facebook.com/people/Forbes-For-Louisiana/61593868861430",
-"https://instagram.com/forbesforlouisiana",
-"https://patforbes.com/",
-"https://patforbes.com/about-pat",
-"https://patforbes.com/district-maps",
-"https://patforbes.com/terms-privacy",
-"https://secure.actblue.com/donate/patrick-forbes-2",
-"https://sos.la.gov/elections-voting/online-voter-registration",
-"https://tiktok.com/@forbesforlouisiana?_r=1&_t=ZT-98dro5TcMiE",
-"https://voterportal.sos.la.gov/",
-"https://x.com/forbesforla?s=11"
+{
+"text": "Contact",
+"href": "https://www.patforbes.com#contact%20us"
+},
+{
+"text": "District Maps",
+"href": "https://www.patforbes.com/district-maps"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/patrick-forbes-2"
+},
+{
+"text": "Get Involved",
+"href": "https://www.patforbes.com#volunteer%20call%20to%20action"
+},
+{
+"text": "Issues",
+"href": "https://www.patforbes.com/about-pat"
+},
+{
+"text": "Meet Pat",
+"href": "https://www.patforbes.com#about-pat"
+},
+{
+"text": "Terms & Privacy policy",
+"href": "https://www.patforbes.com/terms-privacy"
+},
+{
+"text": "Terms & Privacy policy.",
+"href": "https://www.patforbes.com/terms-privacy"
+},
+{
+"text": "VIEW THE ISSUES",
+"href": "https://www.patforbes.com/about-pat"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.patforbes.com#volunteer%20call%20to%20action"
+},
+{
+"text": "Voter Registration Link",
+"href": "https://www.sos.la.gov/elections-voting/online-voter-registration"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.patforbes.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Forbes-For-Louisiana/61593868861430/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/forbesforlouisiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@forbesforlouisiana?_r=1&_t=ZT-98dro5TcMiE"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/forbesforla?s=11"
+},
+{
+"text": "https://voterportal.sos.la.gov/",
+"href": "https://voterportal.sos.la.gov/"
+}
 ]

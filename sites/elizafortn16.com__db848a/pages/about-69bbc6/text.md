@@ -1,6 +1,4 @@
-Meet Eliza Boles
-Motivated by life experience
-Eliza Boles is a law librarian, educator, mother of three, and lifelong East Tennessean running for the Tennessee House of Representatives because she believes working families deserve a government that works for them again.
+0 Skip to Content Eliza Boles for TN House 16 Home About Eliza Legislative Priorities Contribute to the Campaign Open Menu Close Menu Eliza Boles for TN House 16 Home About Eliza Legislative Priorities Contribute to the Campaign Open Menu Close Menu Home About Eliza Legislative Priorities Contribute to the Campaign Meet Eliza Boles Motivated by life experience Eliza Boles is a law librarian, educator, mother of three, and lifelong East Tennessean running for the Tennessee House of Representatives because she believes working families deserve a government that works for them again .
 Raised in Mosheim, Tennessee by her grandmother on a fixed income, Eliza learned early what it means to work hard, stretch every dollar, and rely on the strength of community.
 Programs like Medicaid and strong public schools helped make it possible for her to pursue opportunities that once felt out of reach.
 A first-generation college graduate, Eliza earned her law degree from the University of Tennessee before going on to complete a Master’s in Library Science.
@@ -13,3 +11,9 @@ This is why Eliza is running.
 In the legislature, she will fight to expand Medicaid, strengthen and fully fund public schools, protect reproductive freedom, and support working families through practical policies like paid parental leave and affordable childcare.
 Eliza believes Tennessee’s future should not belong only to the wealthy, well-connected, or politically powerful.
 It should belong to the teachers, nurses, parents, service workers, small business owners, and everyday people who keep this state running.
+She is running to make sure the voices of average Tennesseans are heard again.
+Help Eliza support working families elizafortn16@gmail.com Contact the campaign!
+I would love to hear from you!
+What concerns do you have about the future of Tennessee?
+How can I help?
+Reach out if you have questions, want to get involved, or need media content.

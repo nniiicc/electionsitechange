@@ -6,4 +6,6 @@ We are watching our rights stripped away, our civil liberties attacked, and our 
 We cannot meet this moment with politics as usual—or the usual politicians.
 My mission in Washington will be to confront the chaos head‑on, defend our freedoms, and stop the march toward authoritarianism.
 And I believe we can prevail — if we STAND TOGETHER and fight.
-Paid for by Casey Shepard for Congress.
+Meet Casey Casey's Vision Why Casey?
+Stay Connected!
+DONATE TO THE CAUSE Paid for by Casey Shepard for Congress.

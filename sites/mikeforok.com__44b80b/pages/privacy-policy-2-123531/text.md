@@ -1,6 +1,5 @@
-Privacy Policy
-MAZZEI FOR GOVERNOR – 2026 TEXT/SMS/MMS PRIVACY POLICY
-We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
+Mike Mazzei for governor Official Campaign Website Menu Meet Mike Home Why Mike Endorsements Where Mike Stands The Issues The Plan FAQ Where Mike stands, issue by issue Get Involved Volunteer & Stay Informed Join the Team Work on the campaign Donate Store Mazzei gear & merch Events & Contact Request Mike for Your Event News & Events (918) 807-4201 media@mikeforok.com P.O.
+Box 700118, Tulsa, OK 74170 Donate Privacy Policy MAZZEI FOR GOVERNOR – 2026 TEXT/SMS/MMS PRIVACY POLICY We are offering a mobile messaging program (the “Program”), subject to these Mobile Messaging Terms and Conditions (the “Terms”).
 If you do not wish to continue participating in the program or no longer agree to these Terms, you can reply “HELP” or “STOP” to any mobile message from Us in order to opt out of the Program at any time.
 By entering your phone number and checking the box, you consent to join a recurring SMS/MMS text messaging Program that will provide alerts, donation requests, updates, and other important information.
 By participating, you agree to the Terms & Privacy Policy for auto-dialed messages from Mazzei for Governor to the phone number you provide.
@@ -16,4 +15,9 @@ If We, in Our sole discretion, believe that any such information is untrue, inac
 This Privacy Policy is strictly limited to the Program and has no effect on any other privacy policy(ies) that may govern the relationship between you and Us in other contexts.
 Please make sure you review those separate Privacy Policies, located on our website, to understand those governing terms.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-For additional information, please submit inquiries to contact@mikeforok.com
+For additional information, please submit inquiries to contact@mikeforok.com Building a Better Future for Oklahoma Lower taxes.
+Better schools.
+Safer communities.
+Leadership that respects your work and your values.
+Campaign Priorities Eliminating Property Tax For Seniors & Veterans Protecting Oklahoma Land Education That Works More High Paying Jobs Government Accountability Priorities Eliminating Property Tax For Seniors & Veterans Protecting Oklahoma Land Education That Works More High Paying Jobs Government Accountability Get Involved Attend an Event Volunteer Join the Team Share Your Story Stay Informed Shop the Store Experience Built His Business from Scratch 12 Years in the State Senate Senate Finance Chairman Oklahoma Secretary of the Budget Proven Results for Taxpayers The Campaign Why I’m Running The Issues The Plan FAQ Social Media Facebook X Instagram Truth Social Authorized & Paid for by Mazzei for Governor – 2026 media@mikeforok.com | (918) 807-4201 P.O.
+Box 700118, Tulsa, OK 74170 Back To Top

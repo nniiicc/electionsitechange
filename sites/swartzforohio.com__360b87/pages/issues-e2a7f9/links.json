@@ -1,28 +1,166 @@
 [
-"https://swartzforohio.com/about",
-"https://swartzforohio.com/campaignfinancereform",
-"https://swartzforohio.com/contact",
-"https://swartzforohio.com/datacenters",
-"https://swartzforohio.com/donate",
-"https://swartzforohio.com/education",
-"https://swartzforohio.com/energy",
-"https://swartzforohio.com/environment",
-"https://swartzforohio.com/farmers",
-"https://swartzforohio.com/freedom",
-"https://swartzforohio.com/healthcare",
-"https://swartzforohio.com/i-73",
-"https://swartzforohio.com/immigration",
-"https://swartzforohio.com/infrastructure",
-"https://swartzforohio.com/issues",
-"https://swartzforohio.com/labor",
-"https://swartzforohio.com/lgbtq",
-"https://swartzforohio.com/madeinamerica",
-"https://swartzforohio.com/oh87",
-"https://swartzforohio.com/ohio-public-bank",
-"https://swartzforohio.com/opioidcrisis",
-"https://swartzforohio.com/platform-issues/immigration",
-"https://swartzforohio.com/taxes",
-"https://swartzforohio.com/veterans",
-"https://swartzforohio.com/voting",
-"https://swartzforohio.com/womenshealthcare"
+{
+"text": "About Craig",
+"href": "https://www.swartzforohio.com/about"
+},
+{
+"text": "Constitutional Rights",
+"href": "https://www.swartzforohio.com/freedom"
+},
+{
+"text": "Data Centers",
+"href": "https://www.swartzforohio.com/datacenters"
+},
+{
+"text": "Donate",
+"href": "https://www.swartzforohio.com/donate"
+},
+{
+"text": "Education",
+"href": "https://www.swartzforohio.com/education"
+},
+{
+"text": "Energy",
+"href": "https://www.swartzforohio.com/energy"
+},
+{
+"text": "Environment",
+"href": "https://www.swartzforohio.com/environment"
+},
+{
+"text": "Farmers",
+"href": "https://www.swartzforohio.com/farmers"
+},
+{
+"text": "Healthcare",
+"href": "https://www.swartzforohio.com/healthcare"
+},
+{
+"text": "How To Help",
+"href": "https://www.swartzforohio.com/contact"
+},
+{
+"text": "I-73 Bypass",
+"href": "https://www.swartzforohio.com/i-73"
+},
+{
+"text": "Immigration",
+"href": "https://www.swartzforohio.com/immigration"
+},
+{
+"text": "Infrastructure",
+"href": "https://www.swartzforohio.com/infrastructure"
+},
+{
+"text": "Issues",
+"href": "https://www.swartzforohio.com/issues"
+},
+{
+"text": "LGBTQ",
+"href": "https://www.swartzforohio.com/lgbtq"
+},
+{
+"text": "Labor in Ohio",
+"href": "https://www.swartzforohio.com/labor"
+},
+{
+"text": "Made in America",
+"href": "https://www.swartzforohio.com/madeinamerica"
+},
+{
+"text": "Ohio Public Bank",
+"href": "https://www.swartzforohio.com/ohio-public-bank"
+},
+{
+"text": "Ohio's 87th District",
+"href": "https://www.swartzforohio.com/oh87"
+},
+{
+"text": "Opioid Crisis",
+"href": "https://www.swartzforohio.com/opioidcrisis"
+},
+{
+"text": "Taxes",
+"href": "https://www.swartzforohio.com/taxes"
+},
+{
+"text": "Voting Rights",
+"href": "https://www.swartzforohio.com/voting"
+},
+{
+"text": "Women's Healthcare",
+"href": "https://www.swartzforohio.com/womenshealthcare"
+},
+{
+"text": "[image: Energy_White.png]",
+"href": "https://www.swartzforohio.com/energy"
+},
+{
+"text": "[image: SwartzForCongress_Campaign Finance.png]",
+"href": "https://www.swartzforohio.com/campaignfinancereform"
+},
+{
+"text": "[image: SwartzForCongress_Civil Rights.png]",
+"href": "https://www.swartzforohio.com/voting"
+},
+{
+"text": "[image: SwartzForCongress_Constitution .png]",
+"href": "https://www.swartzforohio.com/freedom"
+},
+{
+"text": "[image: SwartzForCongress_Education.png]",
+"href": "https://www.swartzforohio.com/education"
+},
+{
+"text": "[image: SwartzForCongress_Environment.png]",
+"href": "https://www.swartzforohio.com/environment"
+},
+{
+"text": "[image: SwartzForCongress_Healthcare.png]",
+"href": "https://www.swartzforohio.com/healthcare"
+},
+{
+"text": "[image: SwartzForCongress_Infrastructure.png]",
+"href": "https://www.swartzforohio.com/infrastructure"
+},
+{
+"text": "[image: SwartzForCongress_LGBTQ.png]",
+"href": "https://www.swartzforohio.com/lgbtq"
+},
+{
+"text": "[image: SwartzForCongress_Made in USA.png]",
+"href": "https://www.swartzforohio.com/womenshealthcare"
+},
+{
+"text": "[image: SwartzForCongress_Ohio Labor.png]",
+"href": "https://www.swartzforohio.com/labor"
+},
+{
+"text": "[image: SwartzForCongress_Opiods.png]",
+"href": "https://www.swartzforohio.com/opioidcrisis"
+},
+{
+"text": "[image: SwartzForCongress_Taxes.png]",
+"href": "https://www.swartzforohio.com/taxes"
+},
+{
+"text": "[image: SwartzForCongress_Women.png]",
+"href": "https://www.swartzforohio.com/womenshealthcare"
+},
+{
+"text": "[image: SwartzForOhio_Infrastructure.png]",
+"href": "https://www.swartzforohio.com/i-73"
+},
+{
+"text": "[image: Swartz_Icons_Farmers.png]",
+"href": "https://www.swartzforohio.com/platform-issues/immigration"
+},
+{
+"text": "[image: Swartz_Icons_Veterans.png]",
+"href": "https://www.swartzforohio.com/veterans"
+},
+{
+"text": "[image: immigration_White.png]",
+"href": "https://www.swartzforohio.com/immigration"
+}
 ]

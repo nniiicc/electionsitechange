@@ -1,14 +1,58 @@
 [
-"https://2cdemocrats.org/",
-"https://facebook.com/profile.php?id=61557453941737",
-"https://idahodems.org/find-your-county-party",
-"https://idahodems.org/where-we-stand",
-"https://instagram.com/letishiasilva",
-"https://letishiasilvaofidaho.com/",
-"https://letishiasilvaofidaho.com/about-us",
-"https://letishiasilvaofidaho.com/cdn-cgi/l/email-protection",
-"https://letishiasilvaofidaho.com/contact-us",
-"https://letishiasilvaofidaho.com/issues",
-"https://letishiasilvaofidaho.com/voter-resources",
-"https://twitter.com/SilvaLetishia"
+{
+"text": "2C Dems",
+"href": "https://www.2cdemocrats.org"
+},
+{
+"text": "About",
+"href": "https://letishiasilvaofidaho.com/about-us"
+},
+{
+"text": "Contact",
+"href": "https://letishiasilvaofidaho.com/contact-us"
+},
+{
+"text": "Find Your County Party",
+"href": "https://idahodems.org/find-your-county-party/"
+},
+{
+"text": "Home",
+"href": "https://letishiasilvaofidaho.com/"
+},
+{
+"text": "Idaho Democratic Party",
+"href": "https://idahodems.org/where-we-stand/#platform"
+},
+{
+"text": "Issues",
+"href": "https://letishiasilvaofidaho.com/issues"
+},
+{
+"text": "Voter Resources",
+"href": "https://letishiasilvaofidaho.com/voter-resources"
+},
+{
+"text": "[email protected]",
+"href": "mail:letishiaforidaho@gmail.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:letishiaforidaho@gmail.com"
+},
+{
+"text": "[image: Letishia Silva of Idaho]",
+"href": "https://letishiasilvaofidaho.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/SilvaLetishia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61557453941737"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/letishiasilva"
+}
 ]

@@ -1,17 +1,70 @@
 [
-"https://facebook.com/derrickvanorden",
-"https://flickr.com/photos/189069049@N06",
-"https://instagram.com/derrickvanorden",
-"https://secure.winred.com/van-orden-for-congress/official-launch",
-"https://store.vanordenforcongress.com/storefront",
-"https://twitter.com/derrickvanorden",
-"https://vanordenforcongress.com/",
-"https://vanordenforcongress.com/about",
-"https://vanordenforcongress.com/get-involved",
-"https://vanordenforcongress.com/issues",
-"https://vanordenforcongress.com/join-a-coalition",
-"https://vanordenforcongress.com/news",
-"https://vanordenforcongress.com/privacy-policy",
-"https://vanordenforcongress.com/terms-and-conditions",
-"https://youtube.com/channel/UCuH-KwQagDN0sxrl3NXiMQg/about"
+{
+"text": "About",
+"href": "https://www.vanordenforcongress.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/van-orden-for-congress/official-launch/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/derrickvanorden"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/derrickvanorden/"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/189069049@N06/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/derrickvanorden/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/channel/UCuH-KwQagDN0sxrl3NXiMQg/about"
+},
+{
+"text": "Get Involved",
+"href": "https://www.vanordenforcongress.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://www.vanordenforcongress.com/issues/"
+},
+{
+"text": "Join a Coalition",
+"href": "https://www.vanordenforcongress.com/join-a-coalition/"
+},
+{
+"text": "News",
+"href": "https://www.vanordenforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.vanordenforcongress.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.vanordenforcongress.com/storefront/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.vanordenforcongress.com/terms-and-conditions/"
+},
+{
+"text": "[image: Derrick Van Orden for Congress]",
+"href": "https://www.vanordenforcongress.com/"
+},
+{
+"text": "derrickvanordenforcongress@gmail.com",
+"href": "mailto:derrickvanordenforcongress@gmail.com"
+},
+{
+"text": "vanordenforcongresscontact@gmail.com",
+"href": "mailto:vanordenforcongresscontact@gmail.com"
+}
 ]

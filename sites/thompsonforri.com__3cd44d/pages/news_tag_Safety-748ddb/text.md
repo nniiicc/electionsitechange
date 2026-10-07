@@ -1,3 +1,3 @@
-New law mandates safe entrance and exit points for construction workers at jobsites
-“Construction is an inherently dangerous industry and it is vitally important that we ensure the safety and well-being of construction workers.
+0 Skip to Content Home News About Contact Donate Open Menu Close Menu Home News About Contact Donate Open Menu Close Menu Home News About Contact Donate Brian Thompson 7/9/25 Brian Thompson 7/9/25 New law mandates safe entrance and exit points for construction workers at jobsites “Construction is an inherently dangerous industry and it is vitally important that we ensure the safety and well-being of construction workers.
 This bill closes a loophole that allows entrance and exit points to be locked during work hours, which currently prevents the safe entrance or egress of workers in case of emergency….
+Read More contact donate Paid for by Friends of Brian Thompson (401) 601-1888

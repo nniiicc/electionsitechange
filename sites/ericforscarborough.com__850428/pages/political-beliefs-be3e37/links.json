@@ -1,13 +1,50 @@
 [
-"https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl",
-"https://docs.google.com/forms/d/e/1FAIpQLSeJ42sqDc_MqOK5b7rEF_iTJ-_cgXoVoCGLVax16pGxcaCQPQ/viewform?usp=header",
-"https://ericforscarborough.com/",
-"https://ericforscarborough.com/about",
-"https://ericforscarborough.com/cart",
-"https://ericforscarborough.com/endorsements",
-"https://ericforscarborough.com/join-us",
-"https://ericforscarborough.com/political-beliefs",
-"https://ericforscarborough.com/political-philosophy",
-"https://facebook.com/people/Eric-for-Scarborough/61588279958458",
-"https://instagram.com/ericforscarborough"
+{
+"text": "0",
+"href": "https://ericforscarborough.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://ericforscarborough.com/about"
+},
+{
+"text": "Donate $5",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Donate $5 to the Maine Clean Elections Fund",
+"href": "https://apps1.web.maine.gov/cgi-bin/online/ethics/cleanelection/home.pl"
+},
+{
+"text": "Endorsements",
+"href": "https://ericforscarborough.com/endorsements"
+},
+{
+"text": "Eric! for Scarborough!",
+"href": "https://ericforscarborough.com/"
+},
+{
+"text": "Join Us!",
+"href": "https://ericforscarborough.com/join-us"
+},
+{
+"text": "Join us! Get involved!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSeJ42sqDc_MqOK5b7rEF_iTJ-_cgXoVoCGLVax16pGxcaCQPQ/viewform?usp=header"
+},
+{
+"text": "Philosophy",
+"href": "https://ericforscarborough.com/political-philosophy"
+},
+{
+"text": "Policies",
+"href": "https://ericforscarborough.com/political-beliefs"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Eric-for-Scarborough/61588279958458/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ericforscarborough/"
+}
 ]

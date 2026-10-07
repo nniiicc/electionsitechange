@@ -1,22 +1,17 @@
-Recently, I had the opportunity to engage in a discussion with Steve Sherlock and Franklin Matters concerning audits and transparency.
+Skip to content Home Bio Contact Endorsements/Testimonials In the news Nuclear power a clean energy option?
+Newsletter Opioid Coalition Photos/Video Priorities Economy and Jobs Education Civility in Government Strategic planning Speeches A farm story – Six Pillars 2006 Adaptation to Life – Bates College Class Speech (1983) Americans look out for one another – graduation 2010 Arts Advocacy Day in Franklin Creativity, civility and responsibility – graduation 2011 Floor remarks on Healthcare reform Franklin Memorial Day Ceremony – 2014 Genocide Education Act – 2021 HMMS All In Reading and Veteran’s Day Event – 2014 Horace Mann dedication remarks Library dedications Maiden speech on H1566 – online legal notices Manufacturing Roundtable at Worcester Regional Chamber of Commerce Medway High Civics Day Remarks Next-generation roadmap for Massachusetts climate policy Offshore wind and clean energy act Pay it forward – Six Pillar Induction Remarks on Step therapy and patient safety Tear down some more walls – Graduation 2008 The Pluto Class – Graduation 2007 What are you doing for justice? – Six Pillars 2010 State House Tours Blog posts Donate ← Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency The world shifted on its axis → What’s up with the audit?
+Posted on June 15, 2026 by Jeffrey Roy Recently, I had the opportunity to engage in a discussion with Steve Sherlock and Franklin Matters concerning audits and transparency.
 Steve has compiled a comprehensive resource on this topic, which includes a video recording of our conversation, accompanied by detailed show notes and links to pertinent documents.
 This resource enables citizens to examine legislative activities and assess how tax dollars are being utilized.
-In the session, we talk about:
-- Background on the audit issue
-- What info is available today including annual audits
-- The Supreme Judicial Court hearing on the Auditor vs. the Attorney General
-- Legislation enhancing the audit process in light of the decision
-- Records request process outlined
-The show notes include links to the presentation doc and supporting material.
+In the session, we talk about: Background on the audit issue What info is available today including annual audits The Supreme Judicial Court hearing on the Auditor vs. the Attorney General Legislation enhancing the audit process in light of the decision Records request process outlined The show notes include links to the presentation doc and supporting material.
 The recording runs about 47 minutes, so let’s watch and/or listen in.
-Video link – https://youtu.be/EakyZVjB64c
-Audio link – https://franklin-ma-matters.captivate.fm/episode/fm-1764-state-rep-jeff-roy-explains-the-audit-issue-06-11-26/
-————–
-Presentation document – https://drive.google.com/file/d/1TfRPWL7MprCn0AGkEiai7KmH6o_9eLdv/view?usp=drive_link
-Audit types – https://en.wikipedia.org/wiki/Audit
-What is the “GAGAS” or Yellow book ? https://www.gao.gov/yellowbook
-Details of the legislation discussed H.5469 – https://malegislature.gov/Bills/194/H5469 Note: H.5469 is now before the MA Senate where they will need to review and decide before moving to the Governor.
-Representative Roy’s House page – https://malegislature.gov/People/Profile/JNR1
-The full Supreme Judicial Court (SJC) video session – https://www.youtube.com/watch?v=EvtF3hgWgOc
-SJC audit ruling (extracted from the full docket)
-The link to the Climate bill public website reference: BU Student generate project archive with the info on the development of the major MA climate legislation passed in 2022 by Gov Baker – “Chapter 179, An Act Driving Clean Energy and Offshore Wind” https://sites.bu.edu/masslaw/2023/02/10/chapter-179-an-act-driving-clean-energy-and-offshore-wind/
+Video link – https://youtu.be/EakyZVjB64c Audio link – https://franklin-ma-matters.captivate.fm/episode/fm-1764-state-rep-jeff-roy-explains-the-audit-issue-06-11-26/ ————– Presentation document – https://drive.google.com/file/d/1TfRPWL7MprCn0AGkEiai7KmH6o_9eLdv/view?usp=drive_link Audit types – https://en.wikipedia.org/wiki/Audit What is the “GAGAS” or Yellow book ? https://www.gao.gov/yellowbook Details of the legislation discussed H.5469 – https://malegislature.gov/Bills/194/H5469 Note: H.5469 is now before the MA Senate where they will need to review and decide before moving to the Governor.
+Representative Roy’s House page – https://malegislature.gov/People/Profile/JNR1 The full Supreme Judicial Court (SJC) video session – https://www.youtube.com/watch?v=EvtF3hgWgOc SJC audit ruling (extracted from the full docket) https://drive.google.com/file/d/1dnJpSOKv4_edgRaBQT_V77cz7Ta0FKl7/view?usp=drive_link The link to the Climate bill public website reference: BU Student generate project archive with the info on the development of the major MA climate legislation passed in 2022 by Gov Baker – “Chapter 179, An Act Driving Clean Energy and Offshore Wind” https://sites.bu.edu/masslaw/2023/02/10/chapter-179-an-act-driving-clean-energy-and-offshore-wind/ Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Email a link to a friend (Opens in new window) Email Share on LinkedIn (Opens in new window) LinkedIn Like Loading...
+Related This entry was posted in Uncategorized .
+Bookmark the permalink . ← Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency The world shifted on its axis → Like on Facebook Like on Facebook Facebook Facebook Recent posts The world shifted on its axis What’s up with the audit?
+Rep.
+Roy Among Climate Leaders Honored for their Work in Energy Efficiency Governor signs climate and energy bill Franklin Observer online debate question #7: Housing for seniors Search this site Search for: Blog at WordPress.com.
+Reblog Subscribe Subscribed jeffreyroy.com Sign me up Have a WordPress.com account?
+Log in now. jeffreyroy.com Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

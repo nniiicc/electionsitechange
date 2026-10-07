@@ -1,13 +1,54 @@
 [
-"http://facebook.com/",
-"http://instagram.com/",
-"http://x.com/",
-"https://go.azsos.gov/4xpf",
-"https://janetweninger.com/",
-"https://janetweninger.com/cart",
-"https://janetweninger.com/contact",
-"https://janetweninger.com/home",
-"https://janetweninger.com/meet-janet",
-"https://janetweninger.com/privacy",
-"https://secure.winred.com/janet-for-arizona-house/donate"
+{
+"text": "0",
+"href": "https://www.janetweninger.com/cart"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/janet-for-arizona-house/donate"
+},
+{
+"text": "GET IN TOUCH",
+"href": "https://www.janetweninger.com/contact"
+},
+{
+"text": "Issues",
+"href": "https://www.janetweninger.com/#issues"
+},
+{
+"text": "Meet Janet",
+"href": "https://www.janetweninger.com/meet-janet"
+},
+{
+"text": "Privacy Policy can be found here.",
+"href": "https://www.janetweninger.com/privacy"
+},
+{
+"text": "SIGN MY PETITION",
+"href": "https://go.azsos.gov/4xpf"
+},
+{
+"text": "[image: Janet Weninger for Arizona House]",
+"href": "https://www.janetweninger.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.janetweninger.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "http://x.com"
+},
+{
+"text": "janet@janetweninger.com",
+"href": "mailto:janet@janetweninger.com"
+}
 ]

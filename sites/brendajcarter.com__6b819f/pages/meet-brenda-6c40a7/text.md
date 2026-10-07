@@ -1,5 +1,4 @@
-Meet Representative Brenda Carter
-I hold a bachelor’s degree in business administration and a master’s in public administration.
+EDUCATED | EXPERIENCED | PASSIONATE YnJlbmRhamNhcnRlcjI5QGdtYWlsLmNvbQ== NTg2LTcwMS0wNDMx Hours of Operation: Mon - Fri 9:00am - 5:00pm Home MEET BRENDA ENDORSEMENTS ISSUES VOLUNTEER COVID-19 CONTRIBUTE PRIVACY POLICY Hours of Operation: Mon - Fri 9:00am - 5:00pm Button Meet Representative Brenda Carter I hold a bachelor’s degree in business administration and a master’s in public administration.
 In addition, I am a licensed insurance producer/solicitor.
 I joined the Improved Benevolent Protective Order of Elks in 1975, where I held various local, state, and national positions.
 In 1997, I co-organized the now-historic Million Woman March.
@@ -18,54 +17,8 @@ As a result of my work with the Poverty and Homelessness Task Force, I founded a
 I am the first woman to represent House District 53.
 I am married to Pontiac City Council Pro Tem Emeritus Randy Carter.
 I am a member of Delta Sigma Theta Sorority, Inc., Pontiac Alumnae Chapter, and New Mount Moriah International Church.
-PERSONAL
-- Married to Randy Carter, City Councilman of District 4, Pontiac
-- They have 6 children and 7 grandchildren
-- Worships at New Mount Moriah International Church
-- Attended Michigan State, Fiscal Consultant, Michigan Political Leadership Program
-- Spring Arbor College, Business Administration
-- Oakland University, Masters in Public Administration
-PUBLIC SERVICE
-- State Representative, Michigan House District 53
-- Minority Vice Chair, Michigan House Insurance Committee
-- Member, Health Policy Committee
-- Member, Joint Committee on Administrative Rules
-- Secretary, National Council of Insurance Legislators
-- Vice Chair, NCSL Banking, Financial Services and Insurance Standing Committee
-- Founder and Co-Chair, bipartisan, bicameral Poverty and Homelessness Caucus
-- Former President, Pontiac School District Board of Education
-- Former President, Michigan Association of School Boards
-- Former Interim Assistant to the City Manager, City of Troy
-MEMBERSHIPS
-- Delta Sigma Theta Sorority, Inc. – Pontiac Alumnae Chapter
-- Michigan Shiga Sister State Board of Directors
-- Pontiac Democratic Club
-- Michigan Democratic Party
-- Golden Opportunity Club
-- La Amistad Seniors Club
-- Pontiac Optimist Club
-- Pontiac Rotary Club
-- Pontiac Loyal Order of Moose 182
-- Pontiac VFW Post 1370 Auxiliary
-- Pontiac Eagles
-AWARDS
-- 2026 Oakland County Black Excellence Award Recipient
-- 2026 Mother Ella Mae Murphy Legacy Award
-- 2026 Reparations Advocacy Honoree
-- 2025 Legislator of the Year, Michigan Health Purchasers Coalition
-- 2023 Demand a Seat Lawmaker of the Year
-- Golden Gun Lock Award Recipient
-- 2022 Oakland University Alumni Community Engagement Award
-- 2021 Grand Temple Officer’s Award
-- 2019 WONder Woman
-- 2018 Black History Award
-- 2017 Diversity Champion
-- 2017 Japanese Delegation Award Recipient
-- 2015 New Mount Moriah International Church Board Member Excellence Award
-- 2015 Oakland University Outstanding MPA
-- 2015 Centro Multicultural La Familia Community Advocate Award
-- 2015 Michigan Chronicle Woman of Excellence
-Lets Talk!
-I'm here to help
-Please give me a call if you want to talk, ask questions, volunteer, or have any concerns.
+PERSONAL Married to Randy Carter, City Councilman of District 4, Pontiac They have 6 children and 7 grandchildren Worships at New Mount Moriah International Church ﻿Attended Michigan State, Fiscal Consultant, Michigan Political Leadership Program Spring Arbor College, Business Administration Oakland University, Masters in Public Administration PUBLIC SERVICE State Representative, Michigan House District 53 Minority Vice Chair, Michigan House Insurance Committee Member, Health Policy Committee Member, Joint Committee on Administrative Rules Secretary, National Council of Insurance Legislators Vice Chair, NCSL Banking, Financial Services and Insurance Standing Committee Founder and Co-Chair, bipartisan, bicameral Poverty and Homelessness Caucus Former President, Pontiac School District Board of Education Former President, Michigan Association of School Boards Former Interim Assistant to the City Manager, City of Troy MEMBERSHIPS Delta Sigma Theta Sorority, Inc. – Pontiac Alumnae Chapter Michigan Shiga Sister State Board of Directors Pontiac Democratic Club Michigan Democratic Party Golden Opportunity Club La Amistad Seniors Club Pontiac Optimist Club Pontiac Rotary Club Pontiac Loyal Order of Moose 182 Pontiac VFW Post 1370 Auxiliary Pontiac Eagles AWARDS 2026 Oakland County Black Excellence Award Recipient 2026 Mother Ella Mae Murphy Legacy Award 2026 Reparations Advocacy Honoree 2025 Legislator of the Year, Michigan Health Purchasers Coalition 2023 Demand a Seat Lawmaker of the Year Golden Gun Lock Award Recipient 2022 Oakland University Alumni Community Engagement Award 2021 Grand Temple Officer’s Award 2019 WONder Woman 2018 Black History Award 2017 Diversity Champion 2017 Japanese Delegation Award Recipient 2015 New Mount Moriah International Church Board Member Excellence Award 2015 Oakland University Outstanding MPA 2015 Centro Multicultural La Familia Community Advocate Award 2015 Michigan Chronicle Woman of Excellence Lets Talk!
+I'm here to help Please give me a call if you want to talk, ask questions, volunteer, or have any concerns.
 You can also fill out the contact form or email me.
+IN DISTRICT: 586-701-0431 brendajcarter29@gmail.com IN LANSING: 517-373-2577 brendacarter@house.mi.gov Name Phone Email Message SUBMIT Paid for by CTE Brenda J.
+Carter 86 W Yale Avenue, Pontiac, MI 48340 586-701-0431, brendajcarter29@gmail.com

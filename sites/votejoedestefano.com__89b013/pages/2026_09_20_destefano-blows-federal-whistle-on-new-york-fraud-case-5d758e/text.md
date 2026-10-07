@@ -1,16 +1,13 @@
-September 20, 2026 · Latest News
-DeStefano Blows Federal Whistle On New York Fraud Case
-Assemblyman Joseph DeStefano has escalated his push for an investigation into the Seneca Babcock Community Association by filing a formal whistleblower complaint through President Trump’s fraud reporting portal, saying he was left with little choice after months without action from New York officials.
+← Home Donate September 20, 2026 · Latest News DeStefano Blows Federal Whistle On New York Fraud Case Assemblyman Joseph DeStefano has escalated his push for an investigation into the Seneca Babcock Community Association by filing a formal whistleblower complaint through President Trump’s fraud reporting portal, saying he was left with little choice after months without action from New York officials.
 The Long Island lawmaker said he submitted the complaint after Gov.
 Kathy Hochul and Attorney General Letitia James failed to respond to his earlier requests for a state investigation into the Erie County nonprofit, whose financial practices came under scrutiny following a South Shore Press investigation.
 “Our taxpayers deserve answers,” DeStefano said.
-“When the state refuses to act, we have an obligation to take the information to whatever agency will.”
-The South Shore Press investigation found the government-funded nonprofit had years of missing or incomplete financial filings before its longtime executive director resigned and the organization announced it would shut down most of its operations.
+“When the state refuses to act, we have an obligation to take the information to whatever agency will.” The South Shore Press investigation found the government-funded nonprofit had years of missing or incomplete financial filings before its longtime executive director resigned and the organization announced it would shut down most of its operations.
 DeStefano said the federal complaint fits within President Donald Trump’s broader effort to root out government fraud, waste and corruption by encouraging whistleblowers to report suspected abuse involving taxpayer dollars.
 The Assemblyman said he hopes federal investigators will review not only the circumstances surrounding Seneca Babcock but also whether similar problems exist elsewhere in New York, especially on Long Island where residents are among the highest taxed in the nation.
 “This could very well be the tip of the iceberg,” DeStefano previously said.
-“New York spends hundreds of millions of dollars more than Minnesota on these types of services, and it is incumbent on government to make sure taxpayers are not getting ripped off.”
-Earlier this year, DeStefano sent letters to Hochul, James, and State Comptroller Thomas DiNapoli citing a rare auditor’s “disclaimer of opinion,” which indicated financial records were insufficient to verify how public funds were spent.
+“New York spends hundreds of millions of dollars more than Minnesota on these types of services, and it is incumbent on government to make sure taxpayers are not getting ripped off.” Earlier this year, DeStefano sent letters to Hochul, James, and State Comptroller Thomas DiNapoli citing a rare auditor’s “disclaimer of opinion,” which indicated financial records were insufficient to verify how public funds were spent.
 He argued the finding alone justified a comprehensive investigation.
 With no public indication that state authorities have opened such a probe, DeStefano said the federal whistleblower complaint represents the next step in seeking accountability and ensuring taxpayer-funded nonprofit organizations receive meaningful oversight.
-Related
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related Discover more from joedestefano2026 Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading %d

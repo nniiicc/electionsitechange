@@ -1,11 +1,4 @@
-Contact Us
-For any legislative and constituent service matters, please reach out to us via the information below:
-Phone: (410) 841-3520
-Email: marlon.amprey@house.maryland.gov
-Mail:
-House Office Building
-6 Bladen St, Room 314, Annapolis, MD 21401
-For any campaign-related correspondence, please fill out the form below and we will get back to you as soon as possible.
+0 Skip to Content Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home About Meet Marlon Meet the Team 2026 End of Session Letter Legislative Matters Policy Goals Legislative Accomplishments Resources Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Blog Videos In the News Newsletter Social Media Policy Contact Us Volunteer Volunteer Sign-Up Sign Request Donate Voting Information Open Menu Close Menu Home Folder: About Back Meet Marlon Meet the Team 2026 End of Session Letter Folder: Legislative Matters Back Policy Goals Legislative Accomplishments Folder: Resources Back Community Funding Scholarships Energy and Utility Assistance Food Assistance Legal Assistance Senior and Older Adult Assistance Events Folder: Blog Back Videos In the News Newsletter Social Media Policy Contact Us Folder: Volunteer Back Volunteer Sign-Up Sign Request Donate Voting Information Contact Us For any legislative and constituent service matters, please reach out to us via the information below: Phone: (410) 841-3520 Email: marlon.amprey@house.maryland.gov Mail: House Office Building 6 Bladen St, Room 314, Annapolis, MD 21401 For any campaign-related correspondence, please fill out the form below and we will get back to you as soon as possible.
 We look forward to hearing from you!
 By providing your phone number and or email and clicking 'Submit,' you agree to receive SMS/email updates from Citizens For Marlon Amprey.
 Message frequency may vary.
@@ -14,4 +7,4 @@ Reply STOP to opt out.
 Reply HELP for help.
 Consent is not a condition of purchase.
 Donations may be solicited.
-Your information will not be sold or shared with third parties for promotional or marketing purposes."
+Your information will not be sold or shared with third parties for promotional or marketing purposes." Authority: Citizens for Marlon Amprey, Treasurer, Ryan Galloway.

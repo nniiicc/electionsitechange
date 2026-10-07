@@ -1,3 +1,6 @@
-New York League of Conservation Voters is proud to endorse Scott Gray for New York State Assembly.
+Please ensure Javascript is enabled for purposes of website accessibility Skip to main content Skip to header right navigation Skip to site footer friendsofgray@gmail.com Make A Campaign Donation Scott Gray for Assembly | New York State Assembly, 116th District Experienced Businessman and Legislator asks for the North Country Vote Menu Home Latest News Photos Contact Donate New York League of Conservation Voters Issues Endorsements For Scott Gray October 19, 2022 by admin New York League of Conservation Voters is proud to endorse Scott Gray for New York State Assembly.
 As chair of the Jefferson County Board of Legislature, Scott worked hard to enact protections for the county coastline, and by working across the aisle he demonstrated what we at the League have long understood: the environment is not a partisan issue.
 We are confident that, if elected, Scott will be instrumental in passing legislation to shore up our natural resources and help build a sustainable ecosystem.
+Previous Post: Assembly candidate for River District says top down approach to economic development needs to be decentralized Next Post: Assembly Minority Leader Will Barclay Endorses Scott Gray Ready to start your project?
+Start by doing what’s necessary, then do what’s possible.
+Work With Us Friends of Scott Gray PO Box 825 Watertown NY 13601 Make A Donation Copyright Friends of Gray · All Rights Reserved

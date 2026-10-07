@@ -1,22 +1,94 @@
 [
-"http://webserver.rilin.state.ri.us/BillText19/HouseText19/H5125A.htm",
-"http://webserver.rilin.state.ri.us/BillText19/SenateText19/S0152A.htm",
-"https://facebook.com/MurrayforRI",
-"https://murrayforri.com/",
-"https://murrayforri.com/about",
-"https://murrayforri.com/cart",
-"https://murrayforri.com/contact",
-"https://murrayforri.com/news",
-"https://murrayforri.com/news/category/Health",
-"https://murrayforri.com/news/lops",
-"https://murrayforri.com/news/tag/Health",
-"https://murrayforri.com/news/tag/Reproductive+Health",
-"https://murrayforri.com/news/win",
-"https://murrayforri.com/news?author=5bbfde755e0ed80e08628864",
-"https://murrayforri.com/term-highlights",
-"https://providencejournal.com/news/20181014/campaign-2018-poll-hot-button-issues-divide-ri-voters-lawmakers-and-catholic-church",
-"https://rewire.news/article/2019/01/15/elections-matter-rhode-island-legislators-primed-to-safeguard-abortion-rights",
-"https://rewire.news/article/2019/04/04/this-could-be-the-next-state-to-secure-roe-protections",
-"https://rewire.news/author/auditi-guha",
-"https://secure.actblue.com/donate/murray4senate"
+{
+"text": "0",
+"href": "https://www.murrayforri.com/cart"
+},
+{
+"text": "25/26 Term Highlights",
+"href": "https://www.murrayforri.com/term-highlights"
+},
+{
+"text": "About",
+"href": "https://www.murrayforri.com/about"
+},
+{
+"text": "Auditi Guha",
+"href": "https://rewire.news/author/auditi-guha/"
+},
+{
+"text": "Contact",
+"href": "https://www.murrayforri.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/murray4senate"
+},
+{
+"text": "Health",
+"href": "https://www.murrayforri.com/news/category/Health"
+},
+{
+"text": "Health",
+"href": "https://www.murrayforri.com/news/tag/Health"
+},
+{
+"text": "Home",
+"href": "https://www.murrayforri.com/"
+},
+{
+"text": "Michael Beauregard",
+"href": "https://www.murrayforri.com/news?author=5bbfde755e0ed80e08628864"
+},
+{
+"text": "News",
+"href": "https://www.murrayforri.com/news"
+},
+{
+"text": "Next Next Murray wins state Senate seat",
+"href": "https://www.murrayforri.com/news/win"
+},
+{
+"text": "Previous Previous Brewery to open in Woonsocket as city, state leaders look to revitalize area",
+"href": "https://www.murrayforri.com/news/lops"
+},
+{
+"text": "Reproductive Health",
+"href": "https://www.murrayforri.com/news/tag/Reproductive+Health"
+},
+{
+"text": "S 152A,",
+"href": "http://webserver.rilin.state.ri.us/BillText19/SenateText19/S0152A.htm"
+},
+{
+"text": "[image: Melissa Murray]",
+"href": "https://www.murrayforri.com/"
+},
+{
+"text": "[image] Michael Beauregard",
+"href": "https://www.murrayforri.com/news?author=5bbfde755e0ed80e08628864"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MurrayforRI/"
+},
+{
+"text": "[no text]",
+"href": "mailto:murrayforri@gmail.com"
+},
+{
+"text": "a 2018 poll",
+"href": "https://www.providencejournal.com/news/20181014/campaign-2018-poll-hot-button-issues-divide-ri-voters-lawmakers-and-catholic-church"
+},
+{
+"text": "legislation, which would protect abortion rights",
+"href": "https://rewire.news/article/2019/01/15/elections-matter-rhode-island-legislators-primed-to-safeguard-abortion-rights/"
+},
+{
+"text": "read more.",
+"href": "https://rewire.news/article/2019/04/04/this-could-be-the-next-state-to-secure-roe-protections/"
+},
+{
+"text": "version",
+"href": "http://webserver.rilin.state.ri.us/BillText19/HouseText19/H5125A.htm"
+}
 ]

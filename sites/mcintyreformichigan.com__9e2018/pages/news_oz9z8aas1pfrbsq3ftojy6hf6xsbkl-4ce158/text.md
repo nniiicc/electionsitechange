@@ -1,3 +1,4 @@
-Back to School Social
-Join Lisa McIntyre for State House, and our Plymouth-Canton School Board candidates for a fun Back to School Social as we kick off a new school year together! 🍎
-Come meet Lisa, get to know our candidates for school board, connect with fellow community members, and enjoy a relaxed evening with neighbors and friends.
+0 Skip to Content Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Open Menu Close Menu Meet Lisa Priorities Endorsements Get Involved Media News Back to School Social Event Sep 10 Written By Lisa McIntyre Join Lisa McIntyre for State House, and our Plymouth-Canton School Board candidates for a fun Back to School Social as we kick off a new school year together! 🍎 Come meet Lisa, get to know our candidates for school board, connect with fellow community members, and enjoy a relaxed evening with neighbors and friends.
+Lisa McIntyre Previous Previous Pints and Politics Next Next Ice Cream Social Meet Lisa Priorities Endorsements Get Involved News Donate Privacy Donate Now Lisa McIntyre is a candidate running for State Representative for Michigan House District 22 Copyright © #.
+All Rights Reserved.
+Paid for by Friends of Lisa McIntyre for Michigan - PO Box 641 - Northville MI 48167

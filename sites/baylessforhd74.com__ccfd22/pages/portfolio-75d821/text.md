@@ -1,19 +1,15 @@
-Bayless for HD 74
-My Portfolio
-Welcome to my portfolio.
+top of page Bayless for HD 74 Menu Close Home Portfolio My Portfolio Welcome to my portfolio.
 Here you’ll find a selection of my work.
 Explore my projects to learn more about what I do.
 About Dr.
-Trenin Bayless
-Welcome to the digital home of Dr.
+Trenin Bayless Welcome to the digital home of Dr.
 Trenin Bayless, a dedicated professional in Montana's metallurgy and materials science field.
 This platform showcases Dr.
 Trenin’s commitment to advancing his work in hydrometallurgy, rare earth extraction, and critical materials while also nurturing the next generation of scientists and engineers.
 Beyond his academic and research endeavors, Trenin focuses on contributing to community development and offering support to students, aspiring professionals, and the local community.
 With his extensive experience and forward-thinking mindset, Dr.
 Trenin Bayless provides valuable insights and guidance for those navigating the complexities of science, education, and community engagement.
-Trenin Bayless: A Dedication to Science, Education, and Community Service
-Dr.
+Trenin Bayless: A Dedication to Science, Education, and Community Service Dr.
 Trenin Bayless is a dedicated scientist, educator, and community advocate who has made significant contributions across multiple fields throughout his career.
 Running for the Montana Legislature’s House District 74 in 2024, Dr.
 Trenin Bayless brings a wealth of knowledge and experience, blending his scientific background with his passion for community engagement to address the needs and aspirations of his fellow Montanans.
@@ -22,8 +18,7 @@ Trenin Bayless’s journey in materials science began with a deep-rooted interes
 His expertise in metallurgy, particularly in hydrometallurgy and rare earth extraction, has been instrumental in guiding advanced research projects that explore the extraction and processing of critical materials.
 Over the past three years, he has had the privilege of mentoring a diverse group of graduate students, including those from Ghana, Laos, and the Middle East.
 Dr.
-Trenin takes great pride in their achievements, having provided guidance and support that has helped them grow as professionals and scientists.
-Holding a PhD in Materials Science and Engineering from Montana Tech, Dr.
+Trenin takes great pride in their achievements, having provided guidance and support that has helped them grow as professionals and scientists. ​ Holding a PhD in Materials Science and Engineering from Montana Tech, Dr.
 Trenin’s educational journey is marked by his commitment to excellence and a pursuit of knowledge.
 His doctoral research, funded by the Army Research Labs, allowed him to delve deeply into advanced topics in materials science, contributing to the field in meaningful ways.
 In addition to his PhD, he holds a Master’s degree in Biomedical Engineering from the University of Bridgeport, with a specialization in biomaterials, and a Bachelor’s degree in Physics from the University of Montana.
@@ -69,3 +64,4 @@ As he campaigns for the Montana Legislature, he brings with him a unique blend o
 His journey is one of perseverance, dedication, and a relentless pursuit of excellence, and he is eager to bring his skills and experience to bear in addressing the challenges facing Montana.
 Through his work in materials science, education, and community engagement, Dr.
 Trenin Bayless is poised to make a meaningful impact as a representative who listens, understands, and fights for the future of House District 74.
+Bayless for HD 74 bottom of page

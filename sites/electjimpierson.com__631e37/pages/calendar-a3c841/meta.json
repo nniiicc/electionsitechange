@@ -1,7 +1,9 @@
 {
- "description": "View upcoming events, candidate forums, community meetings, and campaign activities for Jim Pierson, candidate for Washington State Representative in Washington\u2019s 35th Legislative District.",
+ "description": "View upcoming events, candidate forums, community meetings, and campaign activities for Jim Pierson, candidate for Washington State Representative in Washington’s 35th Legislative District.",
  "final_url": "https://www.electjimpierson.com/calendar",
- "paid_for_by": "Paid for by Vote 4 Jim Pierson | PO Box 41 East Olympia, WA 98540 Home About Endorsements Platform Newsletters Calendar Volunteer Blog Voter Feedback b",
+ "fingerprint": "a23d0cc19f055124fa8cd20d89d64843ae3adff2",
+ "format": 3,
+ "paid_for_by": "Paid for by Vote 4 Jim Pierson",
  "title": "Calendar | Elect Jim Pierson",
  "years_mentioned": []
 }

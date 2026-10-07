@@ -1,4 +1,8 @@
-Why Run?
+Skip navigation menu Why Run?
+Why Now?
+About Issues Events Data Center Invasion Defense Action Plan Donate Why Run?
+Why Now?
+About Issues Events Data Center Invasion Defense Action Plan Donate Why Run?
 Why Now?
 Right now, while working families struggle to afford groceries and healthcare, the programs that help them survive are under attack.
 These programs save lives when we fund them.
@@ -60,4 +64,4 @@ The Republican status quo has kept us struggling to survive.
 It's time we thrive.
 There's so much work ahead, but if even one of these experiences resonates with you, if you remember your own hot pink lunch card, or you've worried about a loved one's addiction, or you've fought to get your kid the services they need, then you understand why I'm running.
 We deserve a representative who's lived these struggles, not just voted on them.
-Together, we can build that future.
+Together, we can build that future. kyle@pennsylvaniansoverprofits.com Powered by RUN! website builder Paid for by the Committee To Elect Kyle Devlin You need to enable JavaScript to run this app.

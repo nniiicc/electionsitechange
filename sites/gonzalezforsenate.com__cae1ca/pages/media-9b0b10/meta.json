@@ -1,7 +1,11 @@
 {
  "description": "Video and photos from Guillermo Gonzalez's campaign for State Senate across District 16.",
  "final_url": "https://www.gonzalezforsenate.com/media",
- "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 &copy; 2026 Guillermo Gonzalez for Senate 2026",
+ "fingerprint": "aa881f6820217ea071ee7127ae096cd1e95c3b12",
+ "format": 3,
+ "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026",
  "title": "Media | Gonzalez for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

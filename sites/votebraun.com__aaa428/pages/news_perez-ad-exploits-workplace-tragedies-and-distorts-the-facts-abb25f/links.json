@@ -1,14 +1,58 @@
 [
-"https://facebook.com/VoteBraun",
-"https://instagram.com/votebraun",
-"https://secure.anedot.com/john-braun-for-congress/donate",
-"https://votebraun.com/",
-"https://votebraun.com/about",
-"https://votebraun.com/events",
-"https://votebraun.com/issues",
-"https://votebraun.com/news",
-"https://votebraun.com/privacy-policy",
-"https://votebraun.com/terms-and-conditions",
-"https://votebraun.com/volunteer",
-"https://x.com/votejohnbraun"
+{
+"text": "About",
+"href": "https://www.votebraun.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/john-braun-for-congress/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votebraun.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.votebraun.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votebraun.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.votebraun.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebraun.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votebraun.com/terms-and-conditions"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votebraun.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.votebraun.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteBraun/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votebraun/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/votejohnbraun"
+},
+{
+"text": "‍",
+"href": "https://votebraun.com/privacy-policy/"
+}
 ]

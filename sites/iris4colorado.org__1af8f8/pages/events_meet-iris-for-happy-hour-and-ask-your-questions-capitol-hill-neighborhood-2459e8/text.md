@@ -1,1 +1,3 @@
-Back to All Events Meet Iris for Happy Hour and Ask Your Questions - Capitol Hill Neighborhood Sunday, June 7, 2026 4:00 PM 6:00 PM Hudson Hill 619 East 13th Avenue Denver, CO, 80203 (map) Google Calendar ICS
+0 Skip to Content Home About Iris in the Press Endorsements Volunteer DONATE Open Menu Close Menu DONATE Home About Iris in the Press Endorsements Volunteer Open Menu Close Menu Home About Iris in the Press Endorsements Volunteer DONATE Back to All Events Meet Iris for Happy Hour and Ask Your Questions - Capitol Hill Neighborhood Sunday, June 7, 2026 4:00 PM 6:00 PM Hudson Hill 619 East 13th Avenue Denver, CO, 80203 (map) Google Calendar ICS Previous Previous June 7 Canvass HD6 for Iris - Congress Park/ Cheesman Park Next Next June 8 JCRC Forum Paid for by Iris4Colorado.
+Registered Agent Iris Halpern.
+Phone: (303) 351-1162 PO Box 6071 Denver, CO 80206 Iris.halpern@iris4colorado.com PRIVACY POLICY TERMS & CONDITIONS

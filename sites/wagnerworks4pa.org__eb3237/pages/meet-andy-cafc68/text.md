@@ -1,5 +1,4 @@
-MEET ANDY WAGNER
-I’m a dedicated educator and public servant.
+DONATE TO BECOME A FOUNDING MEMBER OF OUR CAMPAIGN NOW > MEET ANDY OUR PLATFORM VOLUNTEER DONATE MEET ANDY OUR PLATFORM VOLUNTEER DONATE MEET ANDY WAGNER I’m a dedicated educator and public servant.
 As a teacher, I’ve seen firsthand how education transforms lives.
 My campaign is built on service, transparency, and a deep commitment to the people of the 128th District.
 I’ve lived in this district for over 20 years.
@@ -10,10 +9,9 @@ From earning All-Area honors on the football field at Boyertown High School to r
 That work ethic carried through my college and professional career.
 At Lycoming College, I earned a degree in History and certification in secondary education while competing in both football and lacrosse.
 I was honored with All-Conference recognition in lacrosse and selected to play in the USILA North/South All-Star game.
-STRONG LEADERSHIP LIFTS OTHERS UP
-As the first head coach of the Perkiomen Valley High School lacrosse program, I led the Vikings to multiple state and conference playoff appearances.
+STRONG LEADERSHIP LIFTS OTHERS UP As the first head coach of the Perkiomen Valley High School lacrosse program, I led the Vikings to multiple state and conference playoff appearances.
 Under my guidance, players earned All-American, All-State, and All-Conference honors.
-I was proud to be named Coach of the Year multiple times by The Pottstown Mercury and The Times Herald.
+I was proud to be named Coach of the Year multiple times by The Pottstown Mercury and The Times Herald .
 Today, I continue to lead and inspire young athletes as the Head Boys Lacrosse Coach at Daniel Boone High School.
 My commitment to service extends into the classroom.
 I’ve taught in alternative education, special education, vocational programs, and now serve as an online instructor.
@@ -22,3 +20,11 @@ I don’t just talk about hard work - I live it.
 From the classroom to the field to the community, I lead by example.
 District 128 deserves a representative who shows up, puts in the work, and delivers results.
 I’m ready to serve.
+FIRST NAME LAST NAME EMAIL* CELL (optional) Join the Team JOIN US SMS Terms: By providing your phone number and opting-in, you agree to receive periodic automated text messages about donating and voter contact.
+Msg Frequency varies.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+For questions, please reach out to wagnerworks4pa@gmail.com.
+Your mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+To learn more about Wagner Action Committees' personal information handling practices, review the Privacy Notice here.
+HOME MEET ANDY PRIVACY DONATE PLATFORM GET INVOLVED | CONTACT US

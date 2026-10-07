@@ -1,6 +1,4 @@
-New Voice, New Vision
-Join Us in Shaping a Better Future
-Representative Sheila Clark Nelson attended Richmond County Public Schools and graduated from Lucy C.
+Skip to content Home About News Donate Contact Home About News Donate Contact New Voice, New Vision Join Us in Shaping a Better Future Representative Sheila Clark Nelson attended Richmond County Public Schools and graduated from Lucy C.
 Laney High School in 1974.
 In February 1979, she began her career at the Augusta Main Post Office, where she held several positions throughout her years of dedicated service.
 After more than 34 years of commitment, she retired in May 2013.
@@ -16,16 +14,14 @@ During her time in office, she was an active member of the Georgia Democratic Ca
 She was celebrated as a “New Voice” who kept her constituents informed and engaged.
 Her personal joys include attending sporting events, shopping, and traveling.
 Representative Nelson is the devoted mother of Marcus Nelson, Joycelyn Mack, and Jacquelyn Nelson; the loving grandmother of Marcus Jr. and Myiesha Nelson, Desean, Casey, and Kyrie Mack, and Jayla Lewis; and the cherished great-grandmother of Messiah Nelson.
-Our Vision for a Better Tomorrow for ALL Georgians
-We’re committed to transparency and community-driven initiatives.
-Our goals are clear: help Georgians have affordable healthcare, support a Quality Education for all Students, and support working Georgians, while working to increase Georgia’s minimum wage.
+Our Vision for a Better Tomorrow for ALL Georgians We’re committed to transparency and community-driven initiatives.
+Our goals are clear: help Georgians have affordable healthcare , support a Quality Education for all Students , and support working Georgians, while working to increase Georgia’s minimum wage .
 Through honest dialogue and engaging events, we aim to connect with you and empower your participation in the democratic process.
-Meet The Team
-Our team is passionate and committed, bringing diverse backgrounds and experiences.
+Meet The Team Our team is passionate and committed, bringing diverse backgrounds and experiences.
 Each member plays a vital role in our mission, ensuring we connect with our community effectively.
-Hazel Striggles
-Campaign Manager
-Stay Updated with Us
-Get all the latest news and updates right in your inbox.
+Hazel Striggles Campaign Manager hazelstriggles@sheilaclarknelson.com Stay Updated with Us Get all the latest news and updates right in your inbox.
 Sign up for our newsletter to learn about events, important announcements, and ways you can support our campaign.
 Filling out the form below is quick and straightforward!
+Sign Up Connect with us Facebook Instagram This is not an official website or account of the Georgia House of Representatives, the Georgia Senate, the Georgia General Assembly, or the State of Georgia and is not monitored or reviewed by anyone on behalf of such entities.
+Statements made or actions taken on this website or account reflect only the personal opinions of the person making such statements or taking such action. © # Shelia Nelson Campaign.
+All rights reserved.

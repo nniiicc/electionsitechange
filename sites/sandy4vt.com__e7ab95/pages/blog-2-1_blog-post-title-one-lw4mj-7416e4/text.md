@@ -1,5 +1,4 @@
-Priorities vs Power: Vermont’s Struggle to Balance Economics and Education
-In his recent op-ed featured in the Manchester Journal, "Rhetoric vs Responsibility,” Mike Rice gave his rationale for voting to override the Governor's Veto on H.877, which raised property taxes by nearly 14% across the state.
+0 Skip to Content Home Meet Sandy Pinsonault Ideas & Positions Endorsements Contact Us Press & News I Want to Support Sandy Open Menu Close Menu Home Meet Sandy Pinsonault Ideas & Positions Endorsements Contact Us Press & News I Want to Support Sandy Open Menu Close Menu Home Meet Sandy Pinsonault Ideas & Positions Endorsements Contact Us Press & News I Want to Support Sandy Priorities vs Power: Vermont’s Struggle to Balance Economics and Education Aug 8 Written By Sandy Pinsonault In his recent op-ed featured in the Manchester Journal, "Rhetoric vs Responsibility,” Mike Rice gave his rationale for voting to override the Governor's Veto on H.877, which raised property taxes by nearly 14% across the state.
 He indicated a strong preference for “a more collaborative process” in Montpelier, and reported that he, along with other representatives, have received divisive and even threatening responses after this legislative session.
 I would like to go on record to unequivocally denounce any and all disrespectful, hateful, or violent language toward my opponent, or any of our representatives in Montpelier.
 The unfortunate dynamics of national politics have seemingly crept into our local legislative environment, which is very troubling.
@@ -32,4 +31,4 @@ Having served my community for over 30 years, I believe that experience and the 
 While Rice's commitment to education is commendable, his current policy proposals and decisions risk alienating exactly those he intended to help.
 As a community, together, we must demand more balanced solutions that will ensure an equitable, quality education without compromising the financial security of Vermont families who foot the bill.
 Compromise is not a dirty word, it’s good politics.
-It simply means, as Mick Jagger put it, “You can’t always get what you want.”
+It simply means, as Mick Jagger put it, “You can’t always get what you want.” Sandy Pinsonault Paid for by Sandy Pinsonault for VT State Representative Bennington/Rutland District PO Box 888, Dorset, VT 05251 (802) 613-2880 | Sandy@sandy4VT.com

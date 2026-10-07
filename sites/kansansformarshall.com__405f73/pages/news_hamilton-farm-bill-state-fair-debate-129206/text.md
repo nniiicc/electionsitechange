@@ -1,8 +1,10 @@
-Hutchinson, KS — At today’s State Fair debate, Adam Hamilton revealed the following:
-- Hamilton revealed he would vote against the Farm Bill in order to protect welfare fraud.
-- Hamilton will vote for Chuck Schumer as Senate Democrat Leader — falling directly in line with the same leadership that aggressively attacks Kansas ag, cattle, and the oil and gas industry.
-- Hamilton refused to apologize for or defend his sermons calling on Christians to repent for eating beef because cows hurt the environment.
-- On voter ID and supporting the oil and gas industry, Hamilton remained totally silent.
+Skip to content DOC MARSHALL U.S.
+SENATE · KANSAS The record About Doc Voter info Yard signs In the News Contribute Contribute ✕ The record About Doc Voter info Yard signs In the News Contribute Press release Adam Hamilton Will Not Support Farm Bill, and Will Vote for Schumer September 12, 2026 For immediate release Hutchinson, KS — At today’s State Fair debate, Adam Hamilton revealed the following: Hamilton revealed he would vote against the Farm Bill in order to protect welfare fraud.
+Hamilton will vote for Chuck Schumer as Senate Democrat Leader — falling directly in line with the same leadership that aggressively attacks Kansas ag, cattle, and the oil and gas industry.
+Hamilton refused to apologize for or defend his sermons calling on Christians to repent for eating beef because cows hurt the environment.
+On voter ID and supporting the oil and gas industry, Hamilton remained totally silent.
 “Kansas farmers can’t afford a Senator who won’t support the Farm Bill and hates the cattle industry,” said Senator Roger Marshall.
-“As a 5th generation farm kid who has fought tirelessly to keep agriculture first and provide certainty for the future, Kansas ag producers know I will always be their biggest advocate both in Kansas and in Washington, D.C.”
-Press contact
+“As a 5th generation farm kid who has fought tirelessly to keep agriculture first and provide certainty for the future, Kansas ag producers know I will always be their biggest advocate both in Kansas and in Washington, D.C.” ### Press contact [email protected] ← Back to In the News DOC MARSHALL U.S.
+SENATE · KANSAS (opens in a new tab) (opens in a new tab) Archive Bills filed Contact Yard signs Press inquiries Campaign office Kansas Voter info Register to vote ↗ (opens in a new tab) Polling place lookup ↗ (opens in a new tab) County clerks ↗ (opens in a new tab) FEC C00576173 · Senate committee — registered 2015 Paid for by Kansans for Marshall PO Box 1588, Great Bend, KS 67530 Press: [email protected] Not authorized by any candidate or candidate’s committee other than Kansans for Marshall.
+Contributions to Kansans for Marshall are not tax deductible as charitable contributions for federal income tax purposes.
+Privacy Terms CCPA · CPRA Accessibility · WCAG 2.2 AA

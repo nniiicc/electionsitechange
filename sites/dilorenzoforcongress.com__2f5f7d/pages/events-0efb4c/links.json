@@ -1,14 +1,66 @@
 [
-"https://dilorenzoforcongress.com/",
-"https://dilorenzoforcongress.com/about",
-"https://dilorenzoforcongress.com/contact",
-"https://dilorenzoforcongress.com/events",
-"https://dilorenzoforcongress.com/issues",
-"https://dilorenzoforcongress.com/news",
-"https://dilorenzoforcongress.com/privacy-policy",
-"https://facebook.com/profile.php?id=61581636031540",
-"https://instagram.com/dilorenzo4nh",
-"https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate",
-"https://truthsocial.com/@DiLorenzo4NH",
-"https://x.com/DiLorenzo4NH"
+{
+"text": "Click Here To Donate Today!",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate"
+},
+{
+"text": "Contact",
+"href": "https://dilorenzoforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/anthony-dilorenzo-for-congress/website-donate"
+},
+{
+"text": "Events",
+"href": "https://dilorenzoforcongress.com/events/"
+},
+{
+"text": "Issues",
+"href": "https://dilorenzoforcongress.com/issues/"
+},
+{
+"text": "Meet Anthony",
+"href": "https://dilorenzoforcongress.com/about/"
+},
+{
+"text": "News",
+"href": "https://dilorenzoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dilorenzoforcongress.com/privacy-policy/"
+},
+{
+"text": "RSVP",
+"href": "mailto:events@dilorenzoforcongress.com?subject=RSVP+for+Auburn+Pitts+GOTV+Rally&body="
+},
+{
+"text": "RSVP",
+"href": "mailto:events@dilorenzoforcongress.com?subject=RSVP+for+Gilmanton+Meet+and+Greet&body="
+},
+{
+"text": "RSVP",
+"href": "mailto:events@dilorenzoforcongress.com?subject=RSVP+for+Madison+Meet+and+Greet&body="
+},
+{
+"text": "[image]",
+"href": "https://dilorenzoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://truthsocial.com/@DiLorenzo4NH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61581636031540"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dilorenzo4nh/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DiLorenzo4NH"
+}
 ]

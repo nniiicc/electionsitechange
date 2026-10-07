@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with the Avard for Senate campaign. Volunteer, ask a question, or share what matters most to you.",
  "final_url": "https://kevinavard.com/contact",
+ "fingerprint": "8be1f5d96942326f20509249eb6a02df8398f7e8",
+ "format": 3,
  "paid_for_by": "Paid for by Kevin Avard for Senate",
- "title": "Contact \u2014 Senator Kevin Avard",
- "years_mentioned": []
+ "title": "Contact — Senator Kevin Avard",
+ "years_mentioned": [
+  "2026"
+ ]
 }

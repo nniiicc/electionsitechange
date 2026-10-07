@@ -1,17 +1,8 @@
-Armando Montero was raised here in Arizona, and he’s a proud product of our public schools.
+Home Meet Armando Issues Take Action Endorsements DONATE Give now to help Armando win!
+A fresh perspective for Arizona Email List Home Page First Name Last Name Zip Code Phone Number Email Address I'm in Meet Armando Armando Montero was raised here in Arizona, and he’s a proud product of our public schools.
 In 2020, he made history as the youngest person ever elected to the Tempe Union High School District Governing Board at 19 years old.
 After years of being on the receiving end of attacks on public education from the State Legislature, Armando decided to run for the AZ House of Representatives to put partisan politics aside, bring a new energy and a fresh perspective to the State Capitol.
-Armando's Story
-Armando brings six years of policy experience, managing public budgets and building real results.
-After seeing firsthand what happens when Arizona fails to invest in students and educators, he's running for Arizona House of Representatives to take action on the issues we are all facing every day, including:
-- Revitalizing Arizona's Economy
-- Fully-funding Education and Encouraging Job Growth
-- Affordable Housing and Protections for Renters
-- Water and a Livable Arizona
-- Accessible, Affordable Healthcare
-Learn more
-U.S.
-House of Representatives, CD-4
-Arizona Attorney General
-Mayor of Tempe
-View more
+Armando's Story The Issues Armando brings six years of policy experience, managing public budgets and building real results.
+After seeing firsthand what happens when Arizona fails to invest in students and educators, he's running for Arizona House of Representatives to take action on the issues we are all facing every day, including: Revitalizing Arizona's Economy Fully-funding Education and Encouraging Job Growth Affordable Housing and Protections for Renters Water and a Livable Arizona Accessible, Affordable Healthcare Learn more Contribute Now $# $# $# $# $#,# Other If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+Proudly Endorsed By: Congressman Greg Stanton U.S.
+House of Representatives, CD-4 Kris Mayes Arizona Attorney General Mayor Corey Woods Mayor of Tempe View more Home Meet Armando Issues Take Action Endorsements DONATE Volunteer Paid for by Montero for Arizona Authorized by Armando Montero Home Meet Armando Issues Take Action Endorsements DONATE

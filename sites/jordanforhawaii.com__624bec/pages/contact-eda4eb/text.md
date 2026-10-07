@@ -1,8 +1,2 @@
-top of page
-Email: conleyfitness@gmail.com
-Phone: 808-492-2213
-CONTACT
-Get in Touch
-For any inquiries or press-related matters, please feel free to reach out to us at:
-bottom of page
-Phone: 808-492-2213
+top of page Jordan Conley FOR 2026 US HOUSE REPRESENTATIVE Email: conleyfitness@gmail.com Phone: 808-492-2213 Home About Build the Coalition Contact CONTACT Get in Touch For any inquiries or press-related matters, please feel free to reach out to us at: Jordan Conley conleyfitness@gmail.com 808-492-2213 Jordan Conley - FOR 2026 US HOUSE OF REPRESENTATIVES - Terms & Conditions Privacy Policy Accessibility Statement © # by Jordan Conley.
+Powered and secured by Wix bottom of page

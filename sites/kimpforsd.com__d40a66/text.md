@@ -1,10 +1,6 @@
-Republican leadership for South Dakota District 10
-Petterson
-Kim Petterson is running to bring practical, commonsense leadership to South Dakota — focused on strengthening local communities, supporting working families, and protecting the freedoms and opportunities that make our state a great place to live, work, and raise the next generation.
+Home Meet Kim Platform Get Involved Contribute Volunteer Republican leadership for South Dakota District 10 Kim Petterson Kim Petterson is running to bring practical, commonsense leadership to South Dakota — focused on strengthening local communities, supporting working families, and protecting the freedoms and opportunities that make our state a great place to live, work, and raise the next generation.
 Her campaign is rooted in balance, accountability, and solutions that put South Dakotans first — not political extremes.
-By providing your mobile number, you consent to receive recurring campaign messages from Team Petterson.
-A Vision For District 10
-Kim’s campaign will focus on defending freedom, supporting families, and giving a strong, grounded voice to the people of District 10.
+Contribute Now Join the Team By providing your mobile number, you consent to receive recurring campaign messages from Team Petterson.
+A Vision For District 10 Kim’s Priorities Kim’s campaign will focus on defending freedom, supporting families, and giving a strong, grounded voice to the people of District 10.
 Rooted in South Dakota’s conservative values of hard work, personal responsibility, and respect for tradition.
-Fuel the campaign
-Your support helps Kim reach every voter in District 10.
+Read Full Platform Families First Protecting Parental Rights Learn more Rural Economy Defending Small Businesses Learn more South Dakota Values Fighting For Property Tax Reform Learn more Fuel the campaign Your support helps Kim reach every voter in District 10. $20 $50 $100 $250 Other Make a secure contribution Kim Petterson for South Dakota District 10 Paid for by Kim Petterson For South Dakota Privacy Policy Terms Contact Use of military, uniformed services, or other imagery does not imply endorsement.

@@ -1,16 +1,58 @@
 [
-"https://barkerforiowa.com/",
-"https://barkerforiowa.com/cart",
-"https://barkerforiowa.com/contact",
-"https://barkerforiowa.com/join-us",
-"https://barkerforiowa.com/news",
-"https://barkerforiowa.com/newsletter",
-"https://barkerforiowa.com/s/Privacy-Policy.pdf",
-"https://barkerforiowa.com/s/Social-Media-Policy.pdf",
-"https://barkerforiowa.com/s/Terms-of-Service.pdf",
-"https://facebook.com/BarkerForIowa",
-"https://instagram.com/barkerforiowa",
-"https://secure.winred.com/barker-for-iowa/donate-today?exitintent=true",
-"https://twitter.com/brettbarker",
-"https://youtube.com/@barkerforiowa"
+{
+"text": "0",
+"href": "https://www.barkerforiowa.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.barkerforiowa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/barker-for-iowa/donate-today?exitintent=true"
+},
+{
+"text": "Join us",
+"href": "https://www.barkerforiowa.com/join-us"
+},
+{
+"text": "News",
+"href": "https://www.barkerforiowa.com/news"
+},
+{
+"text": "Newsletter",
+"href": "https://www.barkerforiowa.com/newsletter"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.barkerforiowa.com/s/Privacy-Policy.pdf"
+},
+{
+"text": "Social Media Policy",
+"href": "https://www.barkerforiowa.com/s/Social-Media-Policy.pdf"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.barkerforiowa.com/s/Terms-of-Service.pdf"
+},
+{
+"text": "[image: Barker for Iowa]",
+"href": "https://www.barkerforiowa.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/brettbarker"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BarkerForIowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/barkerforiowa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@barkerforiowa"
+}
 ]

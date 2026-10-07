@@ -1,11 +1,4 @@
-My goal is to make certain the state government works effectively to benefit the citizens of New Hampshire and not overstep its authority.
-STATE PRIMARY ELECTION
-Tuesday, September 08, 2026
-STATE GENERAL & FEDERAL ELECTIONS
-Tuesday, November 3, 2026
-HUDSON VOTING LOCATIONS
-Ward 1:
-Hudson Memorial School, 1 Memorial Dr
-Ward 2:
-Alvirne High School, 200 Derry Rd
-For more info: https://www.hudsonnh.gov/
+Skip to content Wherry for New Hampshire Home Legislative Scorecards Campaign Finance Information Appearances Information My goal is to make certain the state government works effectively to benefit the citizens of New Hampshire and not overstep its authority.
+STATE PRIMARY ELECTION Tuesday, September 08, 2026 STATE GENERAL & FEDERAL ELECTIONS Tuesday, November 3, 2026 HUDSON VOTING LOCATIONS Ward 1: Hudson Memorial School, 1 Memorial Dr Ward 2: Alvirne High School, 200 Derry Rd For more info: https://www.hudsonnh.gov/ Wherry for New Hampshire 37 James Way, Hudson, NH 03051 GET IN TOUCH Instagram Flickr Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website Wherry for New Hampshire Copy shortlink Manage subscriptions Sign up Log in Report this content

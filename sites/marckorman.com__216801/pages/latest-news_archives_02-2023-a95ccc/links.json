@@ -1,247 +1,1006 @@
 [
-"http://dls.maryland.gov/pubs/prod/NoPblTabMtg/AcctImplBrdNom/Application-Information-Sheet.pdf",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fbill-filing-deadline.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fco-equal-branches-of-government.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fthe-governors-bills.html",
-"http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fthe-state-of-the-state.html",
-"https://aib.maryland.gov/Pages/Blueprint-plans.aspx",
-"https://docs.google.com/forms/d/e/1FAIpQLSdrnPjbziJT3yrnAqG3hm9qoHWtRQ5OlXbhPmSkwsRzXoNQhw/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLSe3MUcPQcz7qQabE6DoWubz6rsDnIHybr4fELwr7ftEJs4vlQ/viewform",
-"https://facebook.com/Marc.Korman.Campaign",
-"https://govappointments.maryland.gov/",
-"https://governor.maryland.gov/press/pages/Secretary-of-Appointments-Tisha-Edwards-Presents-Historically-Diverse-Group-of-Green-Bag-Appointments-to-Governor-Wes-Moore.aspx",
-"https://htv-prod-media.s3.amazonaws.com/files/state-of-the-state-speech-for-collins-1675276296.pdf",
-"https://marckorman.com/",
-"https://marckorman.com/1/feed",
-"https://marckorman.com/about-marc.html",
-"https://marckorman.com/airplane-noise.html",
-"https://marckorman.com/animal-welfare.html",
-"https://marckorman.com/budget.html",
-"https://marckorman.com/cdn-cgi/l/email-protection",
-"https://marckorman.com/civil-rights--civil-liberties.html",
-"https://marckorman.com/contact.html",
-"https://marckorman.com/contribute.html",
-"https://marckorman.com/covid-19.html",
-"https://marckorman.com/economic-prosperity.html",
-"https://marckorman.com/education.html",
-"https://marckorman.com/energy--environment.html",
-"https://marckorman.com/healthcare.html",
-"https://marckorman.com/issues.html",
-"https://marckorman.com/latest-news.html",
-"https://marckorman.com/latest-news/archives/01-2014",
-"https://marckorman.com/latest-news/archives/01-2015",
-"https://marckorman.com/latest-news/archives/01-2016",
-"https://marckorman.com/latest-news/archives/01-2017",
-"https://marckorman.com/latest-news/archives/01-2018",
-"https://marckorman.com/latest-news/archives/01-2019",
-"https://marckorman.com/latest-news/archives/01-2020",
-"https://marckorman.com/latest-news/archives/01-2021",
-"https://marckorman.com/latest-news/archives/01-2022",
-"https://marckorman.com/latest-news/archives/01-2023",
-"https://marckorman.com/latest-news/archives/01-2024",
-"https://marckorman.com/latest-news/archives/01-2025",
-"https://marckorman.com/latest-news/archives/01-2026",
-"https://marckorman.com/latest-news/archives/02-2014",
-"https://marckorman.com/latest-news/archives/02-2015",
-"https://marckorman.com/latest-news/archives/02-2016",
-"https://marckorman.com/latest-news/archives/02-2017",
-"https://marckorman.com/latest-news/archives/02-2018",
-"https://marckorman.com/latest-news/archives/02-2019",
-"https://marckorman.com/latest-news/archives/02-2020",
-"https://marckorman.com/latest-news/archives/02-2021",
-"https://marckorman.com/latest-news/archives/02-2022",
-"https://marckorman.com/latest-news/archives/02-2023",
-"https://marckorman.com/latest-news/archives/02-2024",
-"https://marckorman.com/latest-news/archives/02-2025",
-"https://marckorman.com/latest-news/archives/02-2026",
-"https://marckorman.com/latest-news/archives/03-2014",
-"https://marckorman.com/latest-news/archives/03-2015",
-"https://marckorman.com/latest-news/archives/03-2016",
-"https://marckorman.com/latest-news/archives/03-2017",
-"https://marckorman.com/latest-news/archives/03-2018",
-"https://marckorman.com/latest-news/archives/03-2019",
-"https://marckorman.com/latest-news/archives/03-2020",
-"https://marckorman.com/latest-news/archives/03-2021",
-"https://marckorman.com/latest-news/archives/03-2022",
-"https://marckorman.com/latest-news/archives/03-2023",
-"https://marckorman.com/latest-news/archives/03-2024",
-"https://marckorman.com/latest-news/archives/03-2025",
-"https://marckorman.com/latest-news/archives/03-2026",
-"https://marckorman.com/latest-news/archives/04-2015",
-"https://marckorman.com/latest-news/archives/04-2016",
-"https://marckorman.com/latest-news/archives/04-2017",
-"https://marckorman.com/latest-news/archives/04-2018",
-"https://marckorman.com/latest-news/archives/04-2019",
-"https://marckorman.com/latest-news/archives/04-2020",
-"https://marckorman.com/latest-news/archives/04-2021",
-"https://marckorman.com/latest-news/archives/04-2022",
-"https://marckorman.com/latest-news/archives/04-2023",
-"https://marckorman.com/latest-news/archives/04-2024",
-"https://marckorman.com/latest-news/archives/04-2025",
-"https://marckorman.com/latest-news/archives/04-2026",
-"https://marckorman.com/latest-news/archives/05-2013",
-"https://marckorman.com/latest-news/archives/05-2014",
-"https://marckorman.com/latest-news/archives/05-2015",
-"https://marckorman.com/latest-news/archives/05-2016",
-"https://marckorman.com/latest-news/archives/05-2017",
-"https://marckorman.com/latest-news/archives/05-2018",
-"https://marckorman.com/latest-news/archives/05-2019",
-"https://marckorman.com/latest-news/archives/05-2020",
-"https://marckorman.com/latest-news/archives/05-2021",
-"https://marckorman.com/latest-news/archives/05-2022",
-"https://marckorman.com/latest-news/archives/05-2023",
-"https://marckorman.com/latest-news/archives/05-2024",
-"https://marckorman.com/latest-news/archives/05-2025",
-"https://marckorman.com/latest-news/archives/05-2026",
-"https://marckorman.com/latest-news/archives/06-2013",
-"https://marckorman.com/latest-news/archives/06-2014",
-"https://marckorman.com/latest-news/archives/06-2015",
-"https://marckorman.com/latest-news/archives/06-2016",
-"https://marckorman.com/latest-news/archives/06-2017",
-"https://marckorman.com/latest-news/archives/06-2019",
-"https://marckorman.com/latest-news/archives/06-2020",
-"https://marckorman.com/latest-news/archives/06-2021",
-"https://marckorman.com/latest-news/archives/06-2022",
-"https://marckorman.com/latest-news/archives/06-2023",
-"https://marckorman.com/latest-news/archives/06-2024",
-"https://marckorman.com/latest-news/archives/06-2025",
-"https://marckorman.com/latest-news/archives/06-2026",
-"https://marckorman.com/latest-news/archives/07-2013",
-"https://marckorman.com/latest-news/archives/07-2015",
-"https://marckorman.com/latest-news/archives/07-2016",
-"https://marckorman.com/latest-news/archives/07-2017",
-"https://marckorman.com/latest-news/archives/07-2018",
-"https://marckorman.com/latest-news/archives/07-2019",
-"https://marckorman.com/latest-news/archives/07-2020",
-"https://marckorman.com/latest-news/archives/07-2021",
-"https://marckorman.com/latest-news/archives/07-2023",
-"https://marckorman.com/latest-news/archives/07-2024",
-"https://marckorman.com/latest-news/archives/07-2025",
-"https://marckorman.com/latest-news/archives/07-2026",
-"https://marckorman.com/latest-news/archives/08-2013",
-"https://marckorman.com/latest-news/archives/08-2015",
-"https://marckorman.com/latest-news/archives/08-2016",
-"https://marckorman.com/latest-news/archives/08-2017",
-"https://marckorman.com/latest-news/archives/08-2018",
-"https://marckorman.com/latest-news/archives/08-2019",
-"https://marckorman.com/latest-news/archives/08-2020",
-"https://marckorman.com/latest-news/archives/08-2021",
-"https://marckorman.com/latest-news/archives/08-2022",
-"https://marckorman.com/latest-news/archives/08-2023",
-"https://marckorman.com/latest-news/archives/08-2024",
-"https://marckorman.com/latest-news/archives/08-2025",
-"https://marckorman.com/latest-news/archives/09-2013",
-"https://marckorman.com/latest-news/archives/09-2015",
-"https://marckorman.com/latest-news/archives/09-2016",
-"https://marckorman.com/latest-news/archives/09-2017",
-"https://marckorman.com/latest-news/archives/09-2018",
-"https://marckorman.com/latest-news/archives/09-2019",
-"https://marckorman.com/latest-news/archives/09-2020",
-"https://marckorman.com/latest-news/archives/09-2021",
-"https://marckorman.com/latest-news/archives/09-2022",
-"https://marckorman.com/latest-news/archives/09-2023",
-"https://marckorman.com/latest-news/archives/09-2024",
-"https://marckorman.com/latest-news/archives/09-2025",
-"https://marckorman.com/latest-news/archives/10-2014",
-"https://marckorman.com/latest-news/archives/10-2015",
-"https://marckorman.com/latest-news/archives/10-2016",
-"https://marckorman.com/latest-news/archives/10-2017",
-"https://marckorman.com/latest-news/archives/10-2018",
-"https://marckorman.com/latest-news/archives/10-2019",
-"https://marckorman.com/latest-news/archives/10-2020",
-"https://marckorman.com/latest-news/archives/10-2021",
-"https://marckorman.com/latest-news/archives/10-2022",
-"https://marckorman.com/latest-news/archives/10-2023",
-"https://marckorman.com/latest-news/archives/10-2024",
-"https://marckorman.com/latest-news/archives/10-2025",
-"https://marckorman.com/latest-news/archives/11-2014",
-"https://marckorman.com/latest-news/archives/11-2015",
-"https://marckorman.com/latest-news/archives/11-2016",
-"https://marckorman.com/latest-news/archives/11-2017",
-"https://marckorman.com/latest-news/archives/11-2018",
-"https://marckorman.com/latest-news/archives/11-2019",
-"https://marckorman.com/latest-news/archives/11-2020",
-"https://marckorman.com/latest-news/archives/11-2021",
-"https://marckorman.com/latest-news/archives/11-2022",
-"https://marckorman.com/latest-news/archives/11-2023",
-"https://marckorman.com/latest-news/archives/11-2024",
-"https://marckorman.com/latest-news/archives/11-2025",
-"https://marckorman.com/latest-news/archives/12-2014",
-"https://marckorman.com/latest-news/archives/12-2015",
-"https://marckorman.com/latest-news/archives/12-2016",
-"https://marckorman.com/latest-news/archives/12-2017",
-"https://marckorman.com/latest-news/archives/12-2018",
-"https://marckorman.com/latest-news/archives/12-2020",
-"https://marckorman.com/latest-news/archives/12-2021",
-"https://marckorman.com/latest-news/archives/12-2022",
-"https://marckorman.com/latest-news/archives/12-2023",
-"https://marckorman.com/latest-news/archives/12-2024",
-"https://marckorman.com/latest-news/archives/12-2025",
-"https://marckorman.com/latest-news/bill-filing-deadline",
-"https://marckorman.com/latest-news/category/all",
-"https://marckorman.com/latest-news/category/legislative-session-update",
-"https://marckorman.com/latest-news/category/monthly-update",
-"https://marckorman.com/latest-news/category/news-clip",
-"https://marckorman.com/latest-news/co-equal-branches-of-government",
-"https://marckorman.com/latest-news/the-governors-bills",
-"https://marckorman.com/latest-news/the-state-of-the-state",
-"https://marckorman.com/pepco.html",
-"https://marckorman.com/preserving-our-success.html",
-"https://marckorman.com/public-safety.html",
-"https://marckorman.com/questionnaires.html",
-"https://marckorman.com/scholarship.html",
-"https://marckorman.com/seniors.html",
-"https://marckorman.com/subscribe.html",
-"https://marckorman.com/transportation.html",
-"https://mgaleg.maryland.gov/meeting_material/2023/b&t%20-%20133191414553074053%20-%20Agenda%20and%20Briefing%20material.pdf",
-"https://mgaleg.maryland.gov/mgawebsite/Budget/Analyses",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&clip=APP_2_21_2023_meeting_1&ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&ys=2023RS&clip=APP_1_24_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Ff34b0debb11c43429611f3e2896eb8611d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D1233004",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&ys=2023RS&clip=APP_2_7_2023_meeting_2&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F70eb8d3a46df4989b4084ea51de9b66e1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5093569",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=b%26t&clip=APP_1_25_2023_meeting_2&ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=ecm&ys=2023RS&clip=ECM_2_9_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F73f736a2249549fca2e7668de42e9abb1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5793973",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=ent&ys=2023RS&clip=ENV_2_8_2023_meeting_2&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Fe0cbc06cfcae450bbc73e1cfde04961e1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5079429",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=hgo&ys=2023RS&clip=HGO_2_15_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F822b47c2b8bd4ac6bd055ed7fab36b691d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D2595227",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_1_26_2023_meeting_1&ys=2023rs&E+Combined+Docs.pdf%3Ffbclid=IwAR21W0PXU1QCKOsTQpPDpBJ0O6GmbttygMfmMMxGnRAA94ZNJzLPzzfhQB0",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_20_2023_meeting_1&ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_2_2023_meeting_1&ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_8_2023_meeting_1&ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2023RS&clip=WAM_2_15_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F75d18ccafcdc4897883752d7b6efce281d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D7498401",
-"https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2023RS&clip=WAM_2_8_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Fdcc8f4b1fb8044e7b687b30eed9691a81d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D11899901",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0058?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0068?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0074?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0161?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0243?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0380?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0448?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0498?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0546?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0547?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0548?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0549?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0550?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0551?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0552?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0553?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0554?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0556?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0705?ys=2023RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house",
-"https://mgaleg.maryland.gov/mgawebsite/Members/Details/korman01?activeTab=divLegislation",
-"https://montgomeryparks.org/montgomery-parks-to-present-traffic-study-results-for-little-falls-parkway-pilot-project-at-virtual-public-meeting-on-wednesday-february-15-2022-at-7-p-m",
-"https://mta.maryland.gov/marc-brunswick-study",
-"https://myemail.constantcontact.com/Want-to-Help-Ariana-Get-To-The-Senate--Here-s-What-You-Can-Do----.html?soid=1134728218909&aid=qtVM9f99YrQ",
-"https://purplelinemd.com/public-involvement/community-advisory-teams-cats",
-"https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnb8wpeX0y5Gju-G4GY2FFLipZ9NpUvg_nVIMJ7Dt1EOoyTKwi27x03Gg8an0owyLGMMSoxYDJcyqvJQOy-JELQSnbz451Naep5R8x5R-Vq19ETJSO7xdF3cNNelPBwc-y98fIDX4gMRNYpPnDCVrIYSfniPYXeS6z5D_S9PmqVxmB9h7bZZa4ZTcM-6y67NlppGHsDgI0B5pGia0U7SJBDSoJiTO1LJtM4EHom2tRxdx93ynNLkQrEQxHvi73CYLPHk0w5NoMRw94IOomhedUZd09tEHhB25NhlQ8JFie3KbVIr0oy8wAPg5ydYZgiF5q0XsezsEd6UPNdxZeFJwD2TLnsLwrNFXJF4FwHcNWjFXCJaOHSyaS8o3gD5hHf0xW_mV83hs0sgVZTGVCNX5zqNvniRNGlSQJueFy0VP-F-i9zp2iPKFfz31JJtVbZszWIyCItL5weNd6wk240V0WccFpPb2jhZ26JKnawPqH4COaMbmPMm_5fEvqTAJFDN35SbabhmSeJDfoTCOKoOquDtChl8NkXTbKkOzloqp3fwmdDuAq0gozpNEOep7SMykBa7joOiqM2CmneKMbdxwOyaNvC-KslwrzJ9HmTyX8vDwutkskDjJ5MfBz3NXQQGgNYkQWlvmzJ8lAu4-5KMIJqxQbuDykrh57zFT-z7da5XzLXlHMHetBMw0t4u-WKb8XBkNUqq_52BaQfB2EoSmMHaa0Unlq-4G3N8AA4cHt1D5P0y6y8mBlwfxWVEaGxx_G1RKL6k8KPtAM2OQ10lO15YcdQba3rmHv7a7J55hDE1XvpJYql5WgZwDtGXfd9gQSLSq6EjC47LSMDdDpLSGC6HMyNZz4mT-FjgPGl6_k7iqssv3JgJ628VHU_yyVgKv7RI98PAEkg5bmWbS2tAbYBd4CLTOG7EGXcq3hIZJcgvsBijy7prHWIEBfk7uhi_Jj1Gwz8rAHavl4U9p9kOLfFr6XmY7VQnig7bF9M_h1B1EmxjErHNv1zPTegu8SClE6bDgy64dHnOr15rYyiNbSA_zSSovUJHRDJ6mpMm1m0uVk8TAyjZaaB71JxpNOJK3FM&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D",
-"https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnbDoQ2mnqVaQT1oamo8i4VZFQvOYbjxeuejMxDB2wWDk2OnNTLiMdhAx3PwC_71yu7vkIu89mjmTlMfade4MJM9OCYolduj3Hd3GssR2CJfxmm4WSqn9G0J7uOO8SA839tPtvLOZYL2h_35McKJmA79rmLt2AA-9t7UJSAg1PJR0woqNejtZVgIYg0ohPYw9Ra1yosQQwKHpKvMEpFZS50HD4vOSwTBS0g4EhHb-_M9FVt47510yIO16QRuR3EUaG0hITfu1ydtazz2bBAfyIv_ewqMRrNb07tfUHBBG9G_qDf7ItmtlFineTRUgPUqLQoggfCm8KZ1hfyKh10xbHRgJFKh7SQ2LmCW7Wp3jas57ovApRouwsBTfrWgWGEZJ8DG_aRCc6bQqsUP32RXTaTciLSot7xNfw1S9Qy2Ea9O18dhY0kpaRj4QgDeBec7KvKKJtHj7aGQHWzDkeWdxME8BLOHAzxz4KSd3F4064EnzESoRMW_XZJ1hl16VIYI3D4sBetmSuOQcL_Ts2_2PjlfAattCq0G227eypiuPj3xOR21U4tKP8Y-3D4jKbuiEQ2EIZlhhme6uU1R5by_EqDpsxFQ_fZZ6LBJYn5cvwkALszwG-X8CHyTNBpYDWdkIEl7WEAuU-Rf0-XRFv27chNMLD5yjoajNtW9nWScVOBfu_-jiduOETQEpvcQQB_oyJfYs0NLrbVfHxMjC_sd2gdARDSgkaOsM9LqvPj-WWMM3k5PptQLUK-0234Y6MifsoUyZBLLPxF8CTYxd1VZXxRnEUK8m2FN0_RjUPmzXM0xljVJ5RP1ddEtszMcP6nP_FdEPUu1v1EKOiM8zUvTMMDNLlBkFWQ7EUI3XmSJcVdVkN73heyeq0knOdSWQa2Rx57KWf15WaNjiwImG4yvl3BsdQtcY_-WlNl5do1tH8y-upyOzCJtqL1fP0f4Q4Cvt14M5CjEf6amf0j1bkOGFLvpJphV-tEUQu9_659_w6Xe5wmkgM331amMUXRuGFyPxlTI7q6hitPvNPMGOM6EYYWGA0U9l02ORnMrJwnAAJzSCQU56hdz8GcF9cgUreuYL9E&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D",
-"https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnbP_GOcR-wKXkKZ7AXQe8r-uBrhZre9v5kMcKJLVjspUusDbomeJn4tCse8iMTIJ2mAORm-qIs6Uv9cTFuyxYuilHZRZJvLv_niCG5cSrlCRz0goPbLYHeWrtciVCmOH1iMx-_kxLJc5m-Xo-gRdCPYuzTp97JoR84F3snOZnYfkWSvlICS9vv7i5AmczuOozOitWh9XlQduKwnEvtlpjzCqC3sTIJaYuJBukDUtuY00Ok3zhXZFzPVeM8BU4qBOamtbSxLDZvjLvENyRJ0IuEcBWKL7hmLVWkj5n3eBxZJex6-6bdtUbosuqAZEcbLeGNxsdEkNIk6ID1ZBHaIJP7aiNtadb_Qu-2rL1IBuo67OC-ZsLw_Kg0KMiCXA1IX5wGTMno_F1S0WXnz1ZF3tGUyWxB9jpl5rng0Yq4DHXg3yG8iC8fv9fnTCJkeLmw_te6SfiGicF6kzwcxZqCI_fd19Qoh-7RnKhOckwLcD1X5LZYUID8G6wxjAFKzxK6Ijrqvk_c1FDYNEBdPQzudfXNJtXQd5GMjkATjyVfg5ZaxY1TJSgSl6ilWQPbGOZN55MYZ3ven2g5kwxT30kgRJesZq5nNd0SLCC-MeuI1JatXJieSWtgGjv2HAC0U0pRl6EsE8i8u7MoTb3tERaBH_kJDKigtrhtJJJRhdJKTaAh9TvqfoWf9Sl12w1hyLE1nIbjNfYuMhrmR1EwBxHOvT11M5xEHuyG8EIGOUBFMSvseXHl-kS3aP3zpoZf42PmPvWkcsXA0ZTWKCwhMnG0AZRr5O6Qkb7qwrALVp-fJxTMfMmCiUcvIS4ZSeB8d_Ti3oqWkgvVecCm1N0cKf1a6uvgkWmrdBWw4aUQtRvPYpmetRt3VFSnxgev7RHGlaFKFjpzHN_av1yAXw6EV0QNvXNTLeI8C5ABAlo8eJEY1HMTDDv0L8qk6hfX-UI8E7e8Hr1MkzND0tWbQmAI9AHkJvFIcLjQILPi7AJV4HviTSQTIJFnP3-DHiI5vAWbrU1-SC_P8GI7EOpuVhs%3D&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D",
-"https://tinyurl.com/3dj8utkd",
-"https://tinyurl.com/3ns7w8zh",
-"https://tinyurl.com/mryt3n8z",
-"https://twitter.com/mkorman",
-"https://whitehouse.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law",
-"https://youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A",
-"https://youtube.com/channel/UCqELNxEkj2ZNATl4eXWouRw",
-"https://youtube.com/watch?app=desktop&v=Ede8pUza5b4"
+{
+"text": "About Marc",
+"href": "https://www.marckorman.com/about-marc.html"
+},
+{
+"text": "Access to Banking Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0548?ys=2023RS"
+},
+{
+"text": "Airplane Noise",
+"href": "https://www.marckorman.com/airplane-noise.html"
+},
+{
+"text": "All",
+"href": "https://www.marckorman.com/latest-news/category/all"
+},
+{
+"text": "Animal Welfare",
+"href": "https://www.marckorman.com/animal-welfare.html"
+},
+{
+"text": "April 2015",
+"href": "https://www.marckorman.com/latest-news/archives/04-2015"
+},
+{
+"text": "April 2016",
+"href": "https://www.marckorman.com/latest-news/archives/04-2016"
+},
+{
+"text": "April 2017",
+"href": "https://www.marckorman.com/latest-news/archives/04-2017"
+},
+{
+"text": "April 2018",
+"href": "https://www.marckorman.com/latest-news/archives/04-2018"
+},
+{
+"text": "April 2019",
+"href": "https://www.marckorman.com/latest-news/archives/04-2019"
+},
+{
+"text": "April 2020",
+"href": "https://www.marckorman.com/latest-news/archives/04-2020"
+},
+{
+"text": "April 2021",
+"href": "https://www.marckorman.com/latest-news/archives/04-2021"
+},
+{
+"text": "April 2022",
+"href": "https://www.marckorman.com/latest-news/archives/04-2022"
+},
+{
+"text": "April 2023",
+"href": "https://www.marckorman.com/latest-news/archives/04-2023"
+},
+{
+"text": "April 2024",
+"href": "https://www.marckorman.com/latest-news/archives/04-2024"
+},
+{
+"text": "April 2025",
+"href": "https://www.marckorman.com/latest-news/archives/04-2025"
+},
+{
+"text": "April 2026",
+"href": "https://www.marckorman.com/latest-news/archives/04-2026"
+},
+{
+"text": "August 2013",
+"href": "https://www.marckorman.com/latest-news/archives/08-2013"
+},
+{
+"text": "August 2015",
+"href": "https://www.marckorman.com/latest-news/archives/08-2015"
+},
+{
+"text": "August 2016",
+"href": "https://www.marckorman.com/latest-news/archives/08-2016"
+},
+{
+"text": "August 2017",
+"href": "https://www.marckorman.com/latest-news/archives/08-2017"
+},
+{
+"text": "August 2018",
+"href": "https://www.marckorman.com/latest-news/archives/08-2018"
+},
+{
+"text": "August 2019",
+"href": "https://www.marckorman.com/latest-news/archives/08-2019"
+},
+{
+"text": "August 2020",
+"href": "https://www.marckorman.com/latest-news/archives/08-2020"
+},
+{
+"text": "August 2021",
+"href": "https://www.marckorman.com/latest-news/archives/08-2021"
+},
+{
+"text": "August 2022",
+"href": "https://www.marckorman.com/latest-news/archives/08-2022"
+},
+{
+"text": "August 2023",
+"href": "https://www.marckorman.com/latest-news/archives/08-2023"
+},
+{
+"text": "August 2024",
+"href": "https://www.marckorman.com/latest-news/archives/08-2024"
+},
+{
+"text": "August 2025",
+"href": "https://www.marckorman.com/latest-news/archives/08-2025"
+},
+{
+"text": "Bill Filing Deadline",
+"href": "https://www.marckorman.com/latest-news/bill-filing-deadline"
+},
+{
+"text": "Broadband Expansion Incentive Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0551?ys=2023RS"
+},
+{
+"text": "Budget",
+"href": "https://www.marckorman.com/budget.html"
+},
+{
+"text": "COVID-19",
+"href": "https://www.marckorman.com/covid-19.html"
+},
+{
+"text": "Civil Rights & Civil Liberties",
+"href": "https://www.marckorman.com/civil-rights--civil-liberties.html"
+},
+{
+"text": "Clean Transportation and Energy Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0550?ys=2023RS"
+},
+{
+"text": "Co-Equal Branches of Government",
+"href": "https://www.marckorman.com/latest-news/co-equal-branches-of-government"
+},
+{
+"text": "Contact",
+"href": "https://www.marckorman.com/contact.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.marckorman.com/contribute.html"
+},
+{
+"text": "December 2014",
+"href": "https://www.marckorman.com/latest-news/archives/12-2014"
+},
+{
+"text": "December 2015",
+"href": "https://www.marckorman.com/latest-news/archives/12-2015"
+},
+{
+"text": "December 2016",
+"href": "https://www.marckorman.com/latest-news/archives/12-2016"
+},
+{
+"text": "December 2017",
+"href": "https://www.marckorman.com/latest-news/archives/12-2017"
+},
+{
+"text": "December 2018",
+"href": "https://www.marckorman.com/latest-news/archives/12-2018"
+},
+{
+"text": "December 2020",
+"href": "https://www.marckorman.com/latest-news/archives/12-2020"
+},
+{
+"text": "December 2021",
+"href": "https://www.marckorman.com/latest-news/archives/12-2021"
+},
+{
+"text": "December 2022",
+"href": "https://www.marckorman.com/latest-news/archives/12-2022"
+},
+{
+"text": "December 2023",
+"href": "https://www.marckorman.com/latest-news/archives/12-2023"
+},
+{
+"text": "December 2024",
+"href": "https://www.marckorman.com/latest-news/archives/12-2024"
+},
+{
+"text": "December 2025",
+"href": "https://www.marckorman.com/latest-news/archives/12-2025"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://www.marckorman.com/economic-prosperity.html"
+},
+{
+"text": "Education",
+"href": "https://www.marckorman.com/education.html"
+},
+{
+"text": "Energy & Environment",
+"href": "https://www.marckorman.com/energy--environment.html"
+},
+{
+"text": "Fair Wage Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0549?ys=2023RS"
+},
+{
+"text": "Family Prosperity Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0547?ys=2023RS"
+},
+{
+"text": "February 2014",
+"href": "https://www.marckorman.com/latest-news/archives/02-2014"
+},
+{
+"text": "February 2015",
+"href": "https://www.marckorman.com/latest-news/archives/02-2015"
+},
+{
+"text": "February 2016",
+"href": "https://www.marckorman.com/latest-news/archives/02-2016"
+},
+{
+"text": "February 2017",
+"href": "https://www.marckorman.com/latest-news/archives/02-2017"
+},
+{
+"text": "February 2018",
+"href": "https://www.marckorman.com/latest-news/archives/02-2018"
+},
+{
+"text": "February 2019",
+"href": "https://www.marckorman.com/latest-news/archives/02-2019"
+},
+{
+"text": "February 2020",
+"href": "https://www.marckorman.com/latest-news/archives/02-2020"
+},
+{
+"text": "February 2021",
+"href": "https://www.marckorman.com/latest-news/archives/02-2021"
+},
+{
+"text": "February 2022",
+"href": "https://www.marckorman.com/latest-news/archives/02-2022"
+},
+{
+"text": "February 2023",
+"href": "https://www.marckorman.com/latest-news/archives/02-2023"
+},
+{
+"text": "February 2024",
+"href": "https://www.marckorman.com/latest-news/archives/02-2024"
+},
+{
+"text": "February 2025",
+"href": "https://www.marckorman.com/latest-news/archives/02-2025"
+},
+{
+"text": "February 2026",
+"href": "https://www.marckorman.com/latest-news/archives/02-2026"
+},
+{
+"text": "Health Care for Heroes Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0553?ys=2023RS"
+},
+{
+"text": "Healthcare",
+"href": "https://www.marckorman.com/healthcare.html"
+},
+{
+"text": "Home",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "House of Delegates' YouTube channel",
+"href": "https://www.youtube.com/channel/UCqELNxEkj2ZNATl4eXWouRw"
+},
+{
+"text": "Innovation Economy Infrastructure Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0552?ys=2023RS"
+},
+{
+"text": "Issues",
+"href": "https://www.marckorman.com/issues.html"
+},
+{
+"text": "January 2014",
+"href": "https://www.marckorman.com/latest-news/archives/01-2014"
+},
+{
+"text": "January 2015",
+"href": "https://www.marckorman.com/latest-news/archives/01-2015"
+},
+{
+"text": "January 2016",
+"href": "https://www.marckorman.com/latest-news/archives/01-2016"
+},
+{
+"text": "January 2017",
+"href": "https://www.marckorman.com/latest-news/archives/01-2017"
+},
+{
+"text": "January 2018",
+"href": "https://www.marckorman.com/latest-news/archives/01-2018"
+},
+{
+"text": "January 2019",
+"href": "https://www.marckorman.com/latest-news/archives/01-2019"
+},
+{
+"text": "January 2020",
+"href": "https://www.marckorman.com/latest-news/archives/01-2020"
+},
+{
+"text": "January 2021",
+"href": "https://www.marckorman.com/latest-news/archives/01-2021"
+},
+{
+"text": "January 2022",
+"href": "https://www.marckorman.com/latest-news/archives/01-2022"
+},
+{
+"text": "January 2023",
+"href": "https://www.marckorman.com/latest-news/archives/01-2023"
+},
+{
+"text": "January 2024",
+"href": "https://www.marckorman.com/latest-news/archives/01-2024"
+},
+{
+"text": "January 2025",
+"href": "https://www.marckorman.com/latest-news/archives/01-2025"
+},
+{
+"text": "January 2026",
+"href": "https://www.marckorman.com/latest-news/archives/01-2026"
+},
+{
+"text": "July 2013",
+"href": "https://www.marckorman.com/latest-news/archives/07-2013"
+},
+{
+"text": "July 2015",
+"href": "https://www.marckorman.com/latest-news/archives/07-2015"
+},
+{
+"text": "July 2016",
+"href": "https://www.marckorman.com/latest-news/archives/07-2016"
+},
+{
+"text": "July 2017",
+"href": "https://www.marckorman.com/latest-news/archives/07-2017"
+},
+{
+"text": "July 2018",
+"href": "https://www.marckorman.com/latest-news/archives/07-2018"
+},
+{
+"text": "July 2019",
+"href": "https://www.marckorman.com/latest-news/archives/07-2019"
+},
+{
+"text": "July 2020",
+"href": "https://www.marckorman.com/latest-news/archives/07-2020"
+},
+{
+"text": "July 2021",
+"href": "https://www.marckorman.com/latest-news/archives/07-2021"
+},
+{
+"text": "July 2023",
+"href": "https://www.marckorman.com/latest-news/archives/07-2023"
+},
+{
+"text": "July 2024",
+"href": "https://www.marckorman.com/latest-news/archives/07-2024"
+},
+{
+"text": "July 2025",
+"href": "https://www.marckorman.com/latest-news/archives/07-2025"
+},
+{
+"text": "July 2026",
+"href": "https://www.marckorman.com/latest-news/archives/07-2026"
+},
+{
+"text": "June 2013",
+"href": "https://www.marckorman.com/latest-news/archives/06-2013"
+},
+{
+"text": "June 2014",
+"href": "https://www.marckorman.com/latest-news/archives/06-2014"
+},
+{
+"text": "June 2015",
+"href": "https://www.marckorman.com/latest-news/archives/06-2015"
+},
+{
+"text": "June 2016",
+"href": "https://www.marckorman.com/latest-news/archives/06-2016"
+},
+{
+"text": "June 2017",
+"href": "https://www.marckorman.com/latest-news/archives/06-2017"
+},
+{
+"text": "June 2019",
+"href": "https://www.marckorman.com/latest-news/archives/06-2019"
+},
+{
+"text": "June 2020",
+"href": "https://www.marckorman.com/latest-news/archives/06-2020"
+},
+{
+"text": "June 2021",
+"href": "https://www.marckorman.com/latest-news/archives/06-2021"
+},
+{
+"text": "June 2022",
+"href": "https://www.marckorman.com/latest-news/archives/06-2022"
+},
+{
+"text": "June 2023",
+"href": "https://www.marckorman.com/latest-news/archives/06-2023"
+},
+{
+"text": "June 2024",
+"href": "https://www.marckorman.com/latest-news/archives/06-2024"
+},
+{
+"text": "June 2025",
+"href": "https://www.marckorman.com/latest-news/archives/06-2025"
+},
+{
+"text": "June 2026",
+"href": "https://www.marckorman.com/latest-news/archives/06-2026"
+},
+{
+"text": "Keep Our Heroes Home Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0554?ys=2023RS"
+},
+{
+"text": "Latest News",
+"href": "https://www.marckorman.com/latest-news.html"
+},
+{
+"text": "Legislative Session Update",
+"href": "https://www.marckorman.com/latest-news/category/legislative-session-update"
+},
+{
+"text": "March 2014",
+"href": "https://www.marckorman.com/latest-news/archives/03-2014"
+},
+{
+"text": "March 2015",
+"href": "https://www.marckorman.com/latest-news/archives/03-2015"
+},
+{
+"text": "March 2016",
+"href": "https://www.marckorman.com/latest-news/archives/03-2016"
+},
+{
+"text": "March 2017",
+"href": "https://www.marckorman.com/latest-news/archives/03-2017"
+},
+{
+"text": "March 2018",
+"href": "https://www.marckorman.com/latest-news/archives/03-2018"
+},
+{
+"text": "March 2019",
+"href": "https://www.marckorman.com/latest-news/archives/03-2019"
+},
+{
+"text": "March 2020",
+"href": "https://www.marckorman.com/latest-news/archives/03-2020"
+},
+{
+"text": "March 2021",
+"href": "https://www.marckorman.com/latest-news/archives/03-2021"
+},
+{
+"text": "March 2022",
+"href": "https://www.marckorman.com/latest-news/archives/03-2022"
+},
+{
+"text": "March 2023",
+"href": "https://www.marckorman.com/latest-news/archives/03-2023"
+},
+{
+"text": "March 2024",
+"href": "https://www.marckorman.com/latest-news/archives/03-2024"
+},
+{
+"text": "March 2025",
+"href": "https://www.marckorman.com/latest-news/archives/03-2025"
+},
+{
+"text": "March 2026",
+"href": "https://www.marckorman.com/latest-news/archives/03-2026"
+},
+{
+"text": "Maryland Department of Planning, Maryland Automobile Insurance Fund, Maryland Environmental Service",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_2_2023_meeting_1&ys=2023rs"
+},
+{
+"text": "May 2013",
+"href": "https://www.marckorman.com/latest-news/archives/05-2013"
+},
+{
+"text": "May 2014",
+"href": "https://www.marckorman.com/latest-news/archives/05-2014"
+},
+{
+"text": "May 2015",
+"href": "https://www.marckorman.com/latest-news/archives/05-2015"
+},
+{
+"text": "May 2016",
+"href": "https://www.marckorman.com/latest-news/archives/05-2016"
+},
+{
+"text": "May 2017",
+"href": "https://www.marckorman.com/latest-news/archives/05-2017"
+},
+{
+"text": "May 2018",
+"href": "https://www.marckorman.com/latest-news/archives/05-2018"
+},
+{
+"text": "May 2019",
+"href": "https://www.marckorman.com/latest-news/archives/05-2019"
+},
+{
+"text": "May 2020",
+"href": "https://www.marckorman.com/latest-news/archives/05-2020"
+},
+{
+"text": "May 2021",
+"href": "https://www.marckorman.com/latest-news/archives/05-2021"
+},
+{
+"text": "May 2022",
+"href": "https://www.marckorman.com/latest-news/archives/05-2022"
+},
+{
+"text": "May 2023",
+"href": "https://www.marckorman.com/latest-news/archives/05-2023"
+},
+{
+"text": "May 2024",
+"href": "https://www.marckorman.com/latest-news/archives/05-2024"
+},
+{
+"text": "May 2025",
+"href": "https://www.marckorman.com/latest-news/archives/05-2025"
+},
+{
+"text": "May 2026",
+"href": "https://www.marckorman.com/latest-news/archives/05-2026"
+},
+{
+"text": "Monthly Update",
+"href": "https://www.marckorman.com/latest-news/category/monthly-update"
+},
+{
+"text": "News Clip",
+"href": "https://www.marckorman.com/latest-news/category/news-clip"
+},
+{
+"text": "November 2014",
+"href": "https://www.marckorman.com/latest-news/archives/11-2014"
+},
+{
+"text": "November 2015",
+"href": "https://www.marckorman.com/latest-news/archives/11-2015"
+},
+{
+"text": "November 2016",
+"href": "https://www.marckorman.com/latest-news/archives/11-2016"
+},
+{
+"text": "November 2017",
+"href": "https://www.marckorman.com/latest-news/archives/11-2017"
+},
+{
+"text": "November 2018",
+"href": "https://www.marckorman.com/latest-news/archives/11-2018"
+},
+{
+"text": "November 2019",
+"href": "https://www.marckorman.com/latest-news/archives/11-2019"
+},
+{
+"text": "November 2020",
+"href": "https://www.marckorman.com/latest-news/archives/11-2020"
+},
+{
+"text": "November 2021",
+"href": "https://www.marckorman.com/latest-news/archives/11-2021"
+},
+{
+"text": "November 2022",
+"href": "https://www.marckorman.com/latest-news/archives/11-2022"
+},
+{
+"text": "November 2023",
+"href": "https://www.marckorman.com/latest-news/archives/11-2023"
+},
+{
+"text": "November 2024",
+"href": "https://www.marckorman.com/latest-news/archives/11-2024"
+},
+{
+"text": "November 2025",
+"href": "https://www.marckorman.com/latest-news/archives/11-2025"
+},
+{
+"text": "October 2014",
+"href": "https://www.marckorman.com/latest-news/archives/10-2014"
+},
+{
+"text": "October 2015",
+"href": "https://www.marckorman.com/latest-news/archives/10-2015"
+},
+{
+"text": "October 2016",
+"href": "https://www.marckorman.com/latest-news/archives/10-2016"
+},
+{
+"text": "October 2017",
+"href": "https://www.marckorman.com/latest-news/archives/10-2017"
+},
+{
+"text": "October 2018",
+"href": "https://www.marckorman.com/latest-news/archives/10-2018"
+},
+{
+"text": "October 2019",
+"href": "https://www.marckorman.com/latest-news/archives/10-2019"
+},
+{
+"text": "October 2020",
+"href": "https://www.marckorman.com/latest-news/archives/10-2020"
+},
+{
+"text": "October 2021",
+"href": "https://www.marckorman.com/latest-news/archives/10-2021"
+},
+{
+"text": "October 2022",
+"href": "https://www.marckorman.com/latest-news/archives/10-2022"
+},
+{
+"text": "October 2023",
+"href": "https://www.marckorman.com/latest-news/archives/10-2023"
+},
+{
+"text": "October 2024",
+"href": "https://www.marckorman.com/latest-news/archives/10-2024"
+},
+{
+"text": "October 2025",
+"href": "https://www.marckorman.com/latest-news/archives/10-2025"
+},
+{
+"text": "Online registration",
+"href": "https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnbP_GOcR-wKXkKZ7AXQe8r-uBrhZre9v5kMcKJLVjspUusDbomeJn4tCse8iMTIJ2mAORm-qIs6Uv9cTFuyxYuilHZRZJvLv_niCG5cSrlCRz0goPbLYHeWrtciVCmOH1iMx-_kxLJc5m-Xo-gRdCPYuzTp97JoR84F3snOZnYfkWSvlICS9vv7i5AmczuOozOitWh9XlQduKwnEvtlpjzCqC3sTIJaYuJBukDUtuY00Ok3zhXZFzPVeM8BU4qBOamtbSxLDZvjLvENyRJ0IuEcBWKL7hmLVWkj5n3eBxZJex6-6bdtUbosuqAZEcbLeGNxsdEkNIk6ID1ZBHaIJP7aiNtadb_Qu-2rL1IBuo67OC-ZsLw_Kg0KMiCXA1IX5wGTMno_F1S0WXnz1ZF3tGUyWxB9jpl5rng0Yq4DHXg3yG8iC8fv9fnTCJkeLmw_te6SfiGicF6kzwcxZqCI_fd19Qoh-7RnKhOckwLcD1X5LZYUID8G6wxjAFKzxK6Ijrqvk_c1FDYNEBdPQzudfXNJtXQd5GMjkATjyVfg5ZaxY1TJSgSl6ilWQPbGOZN55MYZ3ven2g5kwxT30kgRJesZq5nNd0SLCC-MeuI1JatXJieSWtgGjv2HAC0U0pRl6EsE8i8u7MoTb3tERaBH_kJDKigtrhtJJJRhdJKTaAh9TvqfoWf9Sl12w1hyLE1nIbjNfYuMhrmR1EwBxHOvT11M5xEHuyG8EIGOUBFMSvseXHl-kS3aP3zpoZf42PmPvWkcsXA0ZTWKCwhMnG0AZRr5O6Qkb7qwrALVp-fJxTMfMmCiUcvIS4ZSeB8d_Ti3oqWkgvVecCm1N0cKf1a6uvgkWmrdBWw4aUQtRvPYpmetRt3VFSnxgev7RHGlaFKFjpzHN_av1yAXw6EV0QNvXNTLeI8C5ABAlo8eJEY1HMTDDv0L8qk6hfX-UI8E7e8Hr1MkzND0tWbQmAI9AHkJvFIcLjQILPi7AJV4HviTSQTIJFnP3-DHiI5vAWbrU1-SC_P8GI7EOpuVhs%3D&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D"
+},
+{
+"text": "Online registration",
+"href": "https://tinyurl.com/mryt3n8z"
+},
+{
+"text": "Pepco",
+"href": "https://www.marckorman.com/pepco.html"
+},
+{
+"text": "Preserving Our Success",
+"href": "https://www.marckorman.com/preserving-our-success.html"
+},
+{
+"text": "Public Safety",
+"href": "https://www.marckorman.com/public-safety.html"
+},
+{
+"text": "Questionnaires",
+"href": "https://www.marckorman.com/questionnaires.html"
+},
+{
+"text": "Read it here",
+"href": "https://www.whitehouse.gov/briefing-room/statements-releases/2023/01/30/fact-sheet-president-biden-kicks-off-major-baltimore-rail-tunnel-project-funded-by-bipartisan-infrastructure-law/"
+},
+{
+"text": "Scholarship",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "Seniors",
+"href": "https://www.marckorman.com/seniors.html"
+},
+{
+"text": "September 2013",
+"href": "https://www.marckorman.com/latest-news/archives/09-2013"
+},
+{
+"text": "September 2015",
+"href": "https://www.marckorman.com/latest-news/archives/09-2015"
+},
+{
+"text": "September 2016",
+"href": "https://www.marckorman.com/latest-news/archives/09-2016"
+},
+{
+"text": "September 2017",
+"href": "https://www.marckorman.com/latest-news/archives/09-2017"
+},
+{
+"text": "September 2018",
+"href": "https://www.marckorman.com/latest-news/archives/09-2018"
+},
+{
+"text": "September 2019",
+"href": "https://www.marckorman.com/latest-news/archives/09-2019"
+},
+{
+"text": "September 2020",
+"href": "https://www.marckorman.com/latest-news/archives/09-2020"
+},
+{
+"text": "September 2021",
+"href": "https://www.marckorman.com/latest-news/archives/09-2021"
+},
+{
+"text": "September 2022",
+"href": "https://www.marckorman.com/latest-news/archives/09-2022"
+},
+{
+"text": "September 2023",
+"href": "https://www.marckorman.com/latest-news/archives/09-2023"
+},
+{
+"text": "September 2024",
+"href": "https://www.marckorman.com/latest-news/archives/09-2024"
+},
+{
+"text": "September 2025",
+"href": "https://www.marckorman.com/latest-news/archives/09-2025"
+},
+{
+"text": "Serving Every Region Through Vocational Exploration Act of 2023",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0546?ys=2023RS"
+},
+{
+"text": "Subscribe",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "The Arbitration Reform for State Employees Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0380?ys=2023RS"
+},
+{
+"text": "The Board of Public Works Transparency Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0498?ys=2023RS"
+},
+{
+"text": "The Governor recently released his so-called \"green bag\" appointments",
+"href": "https://governor.maryland.gov/press/pages/Secretary-of-Appointments-Tisha-Edwards-Presents-Historically-Diverse-Group-of-Green-Bag-Appointments-to-Governor-Wes-Moore.aspx"
+},
+{
+"text": "The Governor's Bills",
+"href": "https://www.marckorman.com/latest-news/the-governors-bills"
+},
+{
+"text": "The Maryland Rail Investment Act hearing",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0074?ys=2023RS"
+},
+{
+"text": "The Maryland State Agency Transparency Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0058?ys=2023RS"
+},
+{
+"text": "The Net Metering Flexibility Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0068?ys=2023RS"
+},
+{
+"text": "The Northeast Maryland Waste Disposal Authority Sunset Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0161?ys=2023RS"
+},
+{
+"text": "The State and Federal Transportation Funding Act hearing was last week",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&ys=2023RS&clip=APP_1_24_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Ff34b0debb11c43429611f3e2896eb8611d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D1233004"
+},
+{
+"text": "The State of the State",
+"href": "https://www.marckorman.com/latest-news/the-state-of-the-state"
+},
+{
+"text": "The Teacher Pay Parity Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0448?ys=2023RS"
+},
+{
+"text": "The Young Readers Program Expansion Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0243?ys=2023RS"
+},
+{
+"text": "The first is the Speaker's constitutional amendment to enshrine reproductive freedom in the state constitution",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0705?ys=2023RS"
+},
+{
+"text": "Transportation",
+"href": "https://www.marckorman.com/transportation.html"
+},
+{
+"text": "You can read the speech here",
+"href": "https://htv-prod-media.s3.amazonaws.com/files/state-of-the-state-speech-for-collins-1675276296.pdf"
+},
+{
+"text": "[email protected]",
+"href": "mailto:keller.johnw@gmail.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:marc@marckorman.com"
+},
+{
+"text": "[email protected]",
+"href": "mailto:tuckermanlane@montgomerycountymd.gov"
+},
+{
+"text": "[image: MARC KORMAN]",
+"href": "https://www.marckorman.com/"
+},
+{
+"text": "[image] RSS Feed",
+"href": "https://www.marckorman.com/1/feed"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fbill-filing-deadline.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fco-equal-branches-of-government.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fthe-governors-bills.html"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/share?url=https%3A%2F%2Fwww.marckorman.com%2F1%2Fpost%2F2023%2F02%2Fthe-state-of-the-state.html"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mkorman"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Marc.Korman.Campaign"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UC2sckyTl1N7812TWHuMVT-A"
+},
+{
+"text": "cannabis reform legislation",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0556?ys=2023RS"
+},
+{
+"text": "here",
+"href": "http://dls.maryland.gov/pubs/prod/NoPblTabMtg/AcctImplBrdNom/Application-Information-Sheet.pdf"
+},
+{
+"text": "here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdrnPjbziJT3yrnAqG3hm9qoHWtRQ5OlXbhPmSkwsRzXoNQhw/viewform"
+},
+{
+"text": "here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe3MUcPQcz7qQabE6DoWubz6rsDnIHybr4fELwr7ftEJs4vlQ/viewform"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/meeting_material/2023/b&t%20-%20133191414553074053%20-%20Agenda%20and%20Briefing%20material.pdf"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Budget/Analyses"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&ys=2023RS&clip=APP_2_7_2023_meeting_2&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F70eb8d3a46df4989b4084ea51de9b66e1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5093569"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=b%26t&clip=APP_1_25_2023_meeting_2&ys=2023rs"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=ecm&ys=2023RS&clip=ECM_2_9_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F73f736a2249549fca2e7668de42e9abb1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5793973"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=ent&ys=2023RS&clip=ENV_2_8_2023_meeting_2&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Fe0cbc06cfcae450bbc73e1cfde04961e1d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D5079429"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=hgo&ys=2023RS&clip=HGO_2_15_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F822b47c2b8bd4ac6bd055ed7fab36b691d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D2595227"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_1_26_2023_meeting_1&ys=2023rs&E+Combined+Docs.pdf%3Ffbclid=IwAR21W0PXU1QCKOsTQpPDpBJ0O6GmbttygMfmMMxGnRAA94ZNJzLPzzfhQB0"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2023RS&clip=WAM_2_15_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2F75d18ccafcdc4897883752d7b6efce281d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D7498401"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=w%26m&ys=2023RS&clip=WAM_2_8_2023_meeting_1&url=https%3A%2F%2Fmgahouse.maryland.gov%2Fmga%2Fplay%2Fdcc8f4b1fb8044e7b687b30eed9691a81d%3Fcatalog%2F03e481c7-8a42-4438-a7da-93ff74bdaa4c%26playfrom%3D11899901"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Index/house"
+},
+{
+"text": "here",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/korman01/?activeTab=divLegislation"
+},
+{
+"text": "here",
+"href": "https://montgomeryparks.org/montgomery-parks-to-present-traffic-study-results-for-little-falls-parkway-pilot-project-at-virtual-public-meeting-on-wednesday-february-15-2022-at-7-p-m/"
+},
+{
+"text": "here",
+"href": "https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnb8wpeX0y5Gju-G4GY2FFLipZ9NpUvg_nVIMJ7Dt1EOoyTKwi27x03Gg8an0owyLGMMSoxYDJcyqvJQOy-JELQSnbz451Naep5R8x5R-Vq19ETJSO7xdF3cNNelPBwc-y98fIDX4gMRNYpPnDCVrIYSfniPYXeS6z5D_S9PmqVxmB9h7bZZa4ZTcM-6y67NlppGHsDgI0B5pGia0U7SJBDSoJiTO1LJtM4EHom2tRxdx93ynNLkQrEQxHvi73CYLPHk0w5NoMRw94IOomhedUZd09tEHhB25NhlQ8JFie3KbVIr0oy8wAPg5ydYZgiF5q0XsezsEd6UPNdxZeFJwD2TLnsLwrNFXJF4FwHcNWjFXCJaOHSyaS8o3gD5hHf0xW_mV83hs0sgVZTGVCNX5zqNvniRNGlSQJueFy0VP-F-i9zp2iPKFfz31JJtVbZszWIyCItL5weNd6wk240V0WccFpPb2jhZ26JKnawPqH4COaMbmPMm_5fEvqTAJFDN35SbabhmSeJDfoTCOKoOquDtChl8NkXTbKkOzloqp3fwmdDuAq0gozpNEOep7SMykBa7joOiqM2CmneKMbdxwOyaNvC-KslwrzJ9HmTyX8vDwutkskDjJ5MfBz3NXQQGgNYkQWlvmzJ8lAu4-5KMIJqxQbuDykrh57zFT-z7da5XzLXlHMHetBMw0t4u-WKb8XBkNUqq_52BaQfB2EoSmMHaa0Unlq-4G3N8AA4cHt1D5P0y6y8mBlwfxWVEaGxx_G1RKL6k8KPtAM2OQ10lO15YcdQba3rmHv7a7J55hDE1XvpJYql5WgZwDtGXfd9gQSLSq6EjC47LSMDdDpLSGC6HMyNZz4mT-FjgPGl6_k7iqssv3JgJ628VHU_yyVgKv7RI98PAEkg5bmWbS2tAbYBd4CLTOG7EGXcq3hIZJcgvsBijy7prHWIEBfk7uhi_Jj1Gwz8rAHavl4U9p9kOLfFr6XmY7VQnig7bF9M_h1B1EmxjErHNv1zPTegu8SClE6bDgy64dHnOr15rYyiNbSA_zSSovUJHRDJ6mpMm1m0uVk8TAyjZaaB71JxpNOJK3FM&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D"
+},
+{
+"text": "here",
+"href": "https://tinyurl.com/3dj8utkd"
+},
+{
+"text": "here",
+"href": "https://www.mta.maryland.gov/marc-brunswick-study"
+},
+{
+"text": "here (starting at 1:11:10).",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=app&clip=APP_2_21_2023_meeting_1&ys=2023rs"
+},
+{
+"text": "https://www.marckorman.com/scholarship.html",
+"href": "https://www.marckorman.com/scholarship.html"
+},
+{
+"text": "https://www.purplelinemd.com/public-involvement/community-advisory-teams-cats",
+"href": "https://www.purplelinemd.com/public-involvement/community-advisory-teams-cats"
+},
+{
+"text": "now available online",
+"href": "https://aib.maryland.gov/Pages/Blueprint-plans.aspx"
+},
+{
+"text": "project website",
+"href": "https://r20.rs6.net/tn.jsp?f=001IiN7zpWA9RK812QovDC1sCWchXG1vFhvDt_H49DMh8jZO70Crq8aK_mI0_r0BTnbDoQ2mnqVaQT1oamo8i4VZFQvOYbjxeuejMxDB2wWDk2OnNTLiMdhAx3PwC_71yu7vkIu89mjmTlMfade4MJM9OCYolduj3Hd3GssR2CJfxmm4WSqn9G0J7uOO8SA839tPtvLOZYL2h_35McKJmA79rmLt2AA-9t7UJSAg1PJR0woqNejtZVgIYg0ohPYw9Ra1yosQQwKHpKvMEpFZS50HD4vOSwTBS0g4EhHb-_M9FVt47510yIO16QRuR3EUaG0hITfu1ydtazz2bBAfyIv_ewqMRrNb07tfUHBBG9G_qDf7ItmtlFineTRUgPUqLQoggfCm8KZ1hfyKh10xbHRgJFKh7SQ2LmCW7Wp3jas57ovApRouwsBTfrWgWGEZJ8DG_aRCc6bQqsUP32RXTaTciLSot7xNfw1S9Qy2Ea9O18dhY0kpaRj4QgDeBec7KvKKJtHj7aGQHWzDkeWdxME8BLOHAzxz4KSd3F4064EnzESoRMW_XZJ1hl16VIYI3D4sBetmSuOQcL_Ts2_2PjlfAattCq0G227eypiuPj3xOR21U4tKP8Y-3D4jKbuiEQ2EIZlhhme6uU1R5by_EqDpsxFQ_fZZ6LBJYn5cvwkALszwG-X8CHyTNBpYDWdkIEl7WEAuU-Rf0-XRFv27chNMLD5yjoajNtW9nWScVOBfu_-jiduOETQEpvcQQB_oyJfYs0NLrbVfHxMjC_sd2gdARDSgkaOsM9LqvPj-WWMM3k5PptQLUK-0234Y6MifsoUyZBLLPxF8CTYxd1VZXxRnEUK8m2FN0_RjUPmzXM0xljVJ5RP1ddEtszMcP6nP_FdEPUu1v1EKOiM8zUvTMMDNLlBkFWQ7EUI3XmSJcVdVkN73heyeq0knOdSWQa2Rx57KWf15WaNjiwImG4yvl3BsdQtcY_-WlNl5do1tH8y-upyOzCJtqL1fP0f4Q4Cvt14M5CjEf6amf0j1bkOGFLvpJphV-tEUQu9_659_w6Xe5wmkgM331amMUXRuGFyPxlTI7q6hitPvNPMGOM6EYYWGA0U9l02ORnMrJwnAAJzSCQU56hdz8GcF9cgUreuYL9E&c=MeeCqlehhmvpGcY9_DwSn220REBTa4CF7hZQQgvCuYdyWv_QFAwg4A%3D%3D&ch=xLDUHYaUW0u4YhTYkqEDk9y4SxtPMeUcRR-7KVs6RKd8YpDB1wNv7Q%3D%3D"
+},
+{
+"text": "project website",
+"href": "https://tinyurl.com/3ns7w8zh"
+},
+{
+"text": "sign up to receive updates",
+"href": "https://www.marckorman.com/subscribe.html"
+},
+{
+"text": "the Governor's Appointments Office",
+"href": "https://govappointments.maryland.gov/"
+},
+{
+"text": "the Maryland Insurance Administration, the Transportation Secretary's office, the Washington Metropolitan Transit Authority (WMATA or Metro), and the Department of Agriculture",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_20_2023_meeting_1&ys=2023rs"
+},
+{
+"text": "the Maryland Port Administration, the Maryland Aviation Administration",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Committees/Media/false?cmte=t%26e&clip=TAE_2_8_2023_meeting_1&ys=2023rs"
+},
+{
+"text": "the Serving Every Region through Vocational Exploration (SERVE) Act",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0546?ys=2023RS"
+},
+{
+"text": "watch it here",
+"href": "https://www.youtube.com/watch?app=desktop&v=Ede8pUza5b4"
+},
+{
+"text": "you can click here to lend your support",
+"href": "https://myemail.constantcontact.com/Want-to-Help-Ariana-Get-To-The-Senate--Here-s-What-You-Can-Do----.html?soid=1134728218909&aid=qtVM9f99YrQ"
+}
 ]

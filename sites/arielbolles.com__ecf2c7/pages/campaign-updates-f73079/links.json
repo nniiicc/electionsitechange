@@ -1,19 +1,86 @@
 [
-"https://arielbolles.com/",
-"https://arielbolles.com/about",
-"https://arielbolles.com/campaign-updates",
-"https://arielbolles.com/contact",
-"https://arielbolles.com/endorsements-testimonials",
-"https://arielbolles.com/priorities",
-"https://facebook.com/people/Ari-for-Addison-3/61575731889965",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781018673-O75AZXJMHTDMJF2X0Y3C/PXL_20260625_133200570.jpg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781018757-KRPNL5XEKDO2720JN4JU/PXL_20260625_133308254.MP.jpg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781345522-WEOZZ8ATFMHVD71TGGLT/PXL_20260604_133242498.jpg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781345653-603MVNHVLUXZ8SE270G3/PXL_20260604_140321207.MP.jpg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782378006-A01URS658RXOSXHOZCCX/PXL_20260613_202150254.jpg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782542844-A8A13B6KXZJOQYWX40EY/IMG_20260624_152735.jpeg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782929085-92KN5UTM6XGKMK3WO3LK/IMG_20260627_212643.jpeg",
-"https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782929282-GUVNSGIBJWY57HGKFRQT/PXL_20260627_171958222.jpg",
-"https://instagram.com/ari_for_addison3",
-"https://secure.actblue.com/donate/ariel-bolles"
+{
+"text": "About",
+"href": "https://www.arielbolles.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.arielbolles.com/contact"
+},
+{
+"text": "Contact Ariel",
+"href": "https://www.arielbolles.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/ariel-bolles"
+},
+{
+"text": "Endorsements & testimonials",
+"href": "https://www.arielbolles.com/endorsements-testimonials"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/people/Ari-for-Addison-3/61575731889965/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ari_for_addison3"
+},
+{
+"text": "Priorities",
+"href": "https://www.arielbolles.com/priorities"
+},
+{
+"text": "Support my campaign",
+"href": "https://secure.actblue.com/donate/ariel-bolles"
+},
+{
+"text": "Updates",
+"href": "https://www.arielbolles.com/campaign-updates"
+},
+{
+"text": "View fullsize [image: A house party in Ferrisburgh][image: A house party in Ferrisburgh]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782542844-A8A13B6KXZJOQYWX40EY/IMG_20260624_152735.jpeg"
+},
+{
+"text": "View fullsize [image: Door knocking in Vergennes][image: Door knocking in Vergennes]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782378006-A01URS658RXOSXHOZCCX/PXL_20260613_202150254.jpg"
+},
+{
+"text": "View fullsize [image: IMG_20260627_212643.jpeg][image: IMG_20260627_212643.jpeg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782929085-92KN5UTM6XGKMK3WO3LK/IMG_20260627_212643.jpeg"
+},
+{
+"text": "View fullsize [image: PXL_20260604_133242498.jpg][image: PXL_20260604_133242498.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781345522-WEOZZ8ATFMHVD71TGGLT/PXL_20260604_133242498.jpg"
+},
+{
+"text": "View fullsize [image: PXL_20260604_140321207.MP.jpg][image: PXL_20260604_140321207.MP.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781345653-603MVNHVLUXZ8SE270G3/PXL_20260604_140321207.MP.jpg"
+},
+{
+"text": "View fullsize [image: PXL_20260625_133200570.jpg][image: PXL_20260625_133200570.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781018673-O75AZXJMHTDMJF2X0Y3C/PXL_20260625_133200570.jpg"
+},
+{
+"text": "View fullsize [image: PXL_20260625_133308254.MP.jpg][image: PXL_20260625_133308254.MP.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782781018757-KRPNL5XEKDO2720JN4JU/PXL_20260625_133308254.MP.jpg"
+},
+{
+"text": "View fullsize [image: PXL_20260627_171958222.jpg][image: PXL_20260627_171958222.jpg]",
+"href": "https://images.squarespace-cdn.com/content/v1/5b3fc35b89c1728b5ffb53f9/1782782929282-GUVNSGIBJWY57HGKFRQT/PXL_20260627_171958222.jpg"
+},
+{
+"text": "[image: Ariel Bolles for Addison-3]",
+"href": "https://www.arielbolles.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Ari-for-Addison-3/61575731889965/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ari_for_addison3"
+}
 ]

@@ -1,5 +1,4 @@
-Get to know Sara
-Sara Kiewiet grew up in Casper, Wyoming.
+0 Skip to Content Home About Contact CONTRIBUTE Open Menu Close Menu Home About Contact CONTRIBUTE Open Menu Close Menu Home About Contact CONTRIBUTE Get to know Sara Sara Kiewiet grew up in Casper, Wyoming.
 She is the product of public schools, was a dancer, gymnast, and cheerleader, and the daughter of a mechanic who taught her to work for what she wanted.
 She earned a full academic scholarship to the University of Wyoming, where she served in student government and was a member of Kappa Kappa Gamma.
 She was selected as the College of Business’s commencement speaker.
@@ -12,3 +11,4 @@ They share their home with two dogs and a cat that thinks it's a dog.
 When it came time to choose where to raise their family, Sara and Justin chose Johnson County, specifically for the Blue Valley schools.
 Sara has served as PTO secretary at her daughter's middle school for three years and has watched district budgets tighten and programs disappear.
 She's running for the Kansas House because Kansas families shouldn't have to wonder whether the schools they moved here for will still be exceptional when their kids graduate.
+Paid for by Kiewiet for Kansas, Christi Pribula, Treasurer. info@kiewietforkansas.com Privacy Policy, Terms of Use

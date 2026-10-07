@@ -1,9 +1,9 @@
 {
  "description": "Latest updates and news from Calvert For Congress to support Ken Calvert&#39;s political campaign.",
  "final_url": "https://calvertforcongress.com/news",
- "paid_for_by": "Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright \u00a9 2022 Calvert For Congress - All Rights Reserved",
+ "fingerprint": "d40e95a3169fd6a412a58d4c777d77bf4520ab88",
+ "format": 3,
+ "paid_for_by": "Paid for by the Calvert for Congress Committee FEC ID: C00257337 Copyright © # Calvert For Congress - All Rights Reserved",
  "title": "NEWS",
- "years_mentioned": [
-  "2022"
- ]
+ "years_mentioned": []
 }

@@ -1,9 +1,9 @@
-Wow.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+End of Session 2026 Wow.
 What a ride.
 The 2026 legislative session of the Maryland General Assembly has come to a close, and this session was the busiest I can recall – something that’s always a thrill even if it can be exhausting, because it means I’m working hard for my constituents and my state like my colleagues are, which is exactly why I ran for office in the first place.
 This session I continued my work as Chair of the Baltimore County Delegation Community Affairs Subcommittee, Vice Chair of the Maryland Legislative Transit Caucus, member of the Women Legislators of Maryland and Maryland Legislative Latino Caucus, associate member of the Maryland Legislative LGBTQ+ Caucus, and Maryland delegate to the Chesapeake Bay Commission.
-Labor Subcommittee
-However, there were many changes this session as well with Speaker Emerita Adrienne Jones stepping down and Speaker Joseline Peña-Melnyk taking over the position.
+Labor Subcommittee However, there were many changes this session as well with Speaker Emerita Adrienne Jones stepping down and Speaker Joseline Peña-Melnyk taking over the position.
 She had big shoes to fill but I believe she has shown she more than deserves the role and has served the people of Maryland the General Assembly spectacularly with natural leadership.
 Part of her goals upon becoming Speaker was to create a new committee, changing the Health and Government Operations Committee into just the Health Committee and creating the Government, Labor, and Elections Committee (or GLE).
 I was honored to accept an appointment to this new committee, and as much as I will always miss my colleagues in the Environment and Transportation Committee, I find my work in GLE to be incredibly rewarding.
@@ -16,8 +16,7 @@ The Maryland Workforce Apprenticeship Utilization Act (HB0864/SB0964) requires a
 There were also several bills that my subcommittee worked on that passed the House but failed to pass the Senate, including Fraud Prevention, Prevailing Wage, and Living Wage – Prohibitions, Penalties, and Enforcement (HB0299), which I defended on the House Floor.
 This bill would have provided stronger enforcement for Maryland’s Workplace Fraud Law, following the recommendations of the Joint Enforcement Task Force on Workplace Fraud.
 Unfortunately, the Senate Finance Committee significantly weakened the bill, then the Senate failed to pass it anyway.
-Affordability, Accountability, and Opportunity
-Moving from my committee work to the General Assembly as a whole, the guiding principles of this session’s legislative priorities in the House were threefold: Affordability, Accountability, and Opportunity.
+Affordability, Accountability, and Opportunity Moving from my committee work to the General Assembly as a whole, the guiding principles of this session’s legislative priorities in the House were threefold: Affordability, Accountability, and Opportunity.
 Being able to actually afford to live – and not just scrape by – in our state is a prerequisite for anything and everything else.
 While Maryland has always had a comparatively high cost of living and is facing an affordability crisis across many sectors that needs addressing, our economy and our people have been suffering especially as of late from the effects of inflation and a federal administration that has been raising the price of every day necessities through tariffs and conflicts abroad.
 The nation has been hurt by this, but Maryland has been hit particularly hard by the unrestrained cuts to government services and mass layoffs in the federal workforce given the high percentage of our state’s population who work – or used to work – for the federal government.
@@ -49,8 +48,7 @@ I’m very proud that my bill Property Tax Credit – Retail Service Station Con
 This bill is a boon to local business owners in this tough economy (and the neighborhoods those businesses operate in) by allowing county and local jurisdictions to set up a property tax credit for gas station owners wanting to convert their properties into other uses – especially in an economy that in which demand for fossil fuels is decreasing and its costs are increasing – but may currently be deterred by the potentially high costs of environmental remediation associated with cleaning up after underground gas tanks.
 This necessity often leads to old gas stations essentially being abandoned, leading to blight and decreased property values in communities.
 A tax credit will be both an assistance and an incentive for these gas station owners to convert these old stations into other types of properties that would be both more beneficial for the community and for themselves (which cannot include discount stores, self-storage facilities, and liquor and tobacco stores).
-Health Care
-This session I was able to continue to fight for universal healthcare in Maryland with Public Health – Universal Health Care Program – Study and Commission (HB1316), my legislation that would have established a study to determine the effectiveness and financial efficiency of implementing a universal health care program in our state.
+Health Care This session I was able to continue to fight for universal healthcare in Maryland with Public Health – Universal Health Care Program – Study and Commission (HB1316), my legislation that would have established a study to determine the effectiveness and financial efficiency of implementing a universal health care program in our state.
 This bill charges our community partner, District 44’s own Hilltop Institute, with conducting the study and working with a new advisory commission that analyzes their findings and works with them to submit a written report to the Governor and appropriate legislative committees by June 1, 2029.
 The commission would comprise of public officials and healthcare stakeholders from the provider and payer sides, with the hope of creating an all-encompassing report to work on our current system’s problems.
 Maryland’s current patchwork system of private and public plans fails Marylanders, producing worse outcomes with increasing numbers of residents facing medical debt and nation-leading wait times.
@@ -67,10 +65,9 @@ From this package, I would like to highlight two specific bills that will help m
 Public Health – Office of Health Care Quality Information and Maryland Health Centralization Commission (HB1372) – which fully passed the legislature – requires health care facility inspection information to be made available to the public on Maryland’s Quality Reporting website, providing clear and accessible information and allowing for the public to make informed decisions on the quality of health care facilities.
 It also provides stronger oversight for facility licensing boards by establishing a new Maryland Department of Health Centralization Commission to oversee the collaboration between the Department of Health and the health occupations licensing boards, centralizing the two and allowing them to operate more efficiently.
 Another bill that passed this session, Emergency Room Services and Post-Acute Care – Coverage and Facility Studies (HB1563), requires insurers to report more data on why they denied claims (with particular emphasis on denied claims for hospital stays and post-acute care), authorizes the Maryland Insurance Commissioner to review any insurance carrier that has an extensive history of denied claims for emergency department services, and studies ways to improve patient experience (looking specifically at bed availability and the patient discharge process).
-Data Centers
-Given the state’s openness to the development of artificial intelligence and the now paused Woodlawn Data Center proposal, I know that concerns around the increasing number of data centers were near the top of your minds going into this session.
+Data Centers Given the state’s openness to the development of artificial intelligence and the now paused Woodlawn Data Center proposal, I know that concerns around the increasing number of data centers were near the top of your minds going into this session.
 I hear your concerns that data centers not only impact their environment with their noise and emissions, but also contribute to skyrocketing energy costs via their dependence on local energy grids.
-In response, I proposed the Data Center Planning and Transparency Act (HB1411), which promoted transparency around both the entities behind data centers and the processes at the state and local levels that lead to their approval and construction.
+In response, I proposed the Data Center Planning and Transparency Act (HB1411) , which promoted transparency around both the entities behind data centers and the processes at the state and local levels that lead to their approval and construction.
 It would have established a protocol of disclosure reports that the administrators behind data centers must complete before applying for permits or submitting plans for their construction.
 In these reports, companies would have been required to provide an explanation for their location decision and details on how their operations will impact the power grid.
 The disclosure report would offer the public the chance to influence plans before they are set.
@@ -78,8 +75,7 @@ It also stipulates that there be a zoning plan submitted at the county level, co
 The bill also stipulated that when looking for state assistance like grants or tax breaks, any application or permit submitted to the state must be in compliance with the disclosure report requirements.
 This legislation did not set out to ban data centers or prevent the state from investing in AI and other important emerging technologies, but sought to increase transparency and promote community trust in the process.
 While this bill did not pass through committee, some of the transparency principles were incorporated into the RELIEF act, and I am more committed than ever to working for transparency around data centers.
-Other Bills
-One of the bills I introduced this session came to me from a constituent who experienced a terrible tragedy.
+Other Bills One of the bills I introduced this session came to me from a constituent who experienced a terrible tragedy.
 During the interim Myles Thornton met with me to share the story of how his daughter, Dimeka Thornton, was tragically killed in my district when a car fleeing a police pursuit drove the wrong way onto I-695 and crashed into her.
 Police pursuits are incredibly dangerous and unfortunately, Ms.
 Thornton is not the only Marylander to have died in one recently.
@@ -103,8 +99,7 @@ As a result, the number of people using the renter’s tax credit for example ha
 My bill Property Tax Credits – Renters’ Tax Credit, Homeowners’ Tax Credit, and Homestead Tax Credit – Altering Eligibility and Amount (HB1427) proposed to increase both the income limits and credit amounts to better align with the cost of living in 2026 and to offset the cost by implementing a $300,000 income cap to the currently uncapped Homestead Tax Credit.
 Every Maryland resident deserves the dignity and safety of stable and affordable housing.
 While Maryland is in a tough budgetary spot and this bill wasn’t able to pass this session, it did start a conversation and provide useful information that we can use to help guide future actions.
-ICE
-A major concern for many of my constituents that I must address and that extends beyond just a single bill has been the inhumane and unnecessary actions of federal Immigrations and Customs Enforcement under the current federal administration.
+ICE A major concern for many of my constituents that I must address and that extends beyond just a single bill has been the inhumane and unnecessary actions of federal Immigrations and Customs Enforcement under the current federal administration.
 Over the past year, many of my constituents have watched in horror as ICE has terrorized and harassed communities based on politics or skin color, torn entire families apart, and made their true motivations of racism, xenophobia, and partisan targeting abundantly clear.
 The unconstitutional and frankly immoral actions being undertaken by ICE do not serve a legitimate law enforcement purpose and Maryland should take no part in supporting, facilitating, or participating in them.
 I also recognize that any action requires a multifaceted approach in order to best protect our communities from this harm.
@@ -114,8 +109,7 @@ Additionally, both the House and Senate have passed Correctional Services – Pr
 This would include sites like the proposed DHS warehouse in Washington County, which Attorney General Anthony Brown sued to halt in February.
 The Maryland Values Act of 2026 (SB0810), which expands the list of “sensitive locations” that ICE is banned from to include courthouses, requires the reporting of ICE activities in schools, and bars school employees from sharing information about their students and their families with ICE, also passed the legislature, as did the Data Privacy Act (HB0711), which prohibits data controllers like online platforms from knowingly selling their consumers’ data to those who wish to use it for immigration enforcement, and the No Kings Act (HB0351), which allows individuals or the Attorney General to bring a court action against federal law enforcement officers, including ICE, who violate rights under the U.S.
 Constitution or laws.
-State Budget
-In addition to funding for key issues I’ve already touched on, like lowering utility rates and improving childcare services, the $70.8 billion state budget we passed this year addressed several other important topics despite the precarious economic state we are currently facing.
+State Budget In addition to funding for key issues I’ve already touched on, like lowering utility rates and improving childcare services, the $70.8 billion state budget we passed this year addressed several other important topics despite the precarious economic state we are currently facing.
 While I can’t go over everything line by line in this letter or I would be using an awful lot of paper, I can feature a few more highlights here.
 Of some particular personal importance to me, we put funding into safety improvements for cyclists and pedestrians – an issue I know my constituents care about – as well as expanding Baltimore bus service and modernizing the MTA’s Light Rail system.
 Transportation-wise, the budget also makes accelerating the building of a new Key Bridge a priority, which will improve regional mobility and alleviate some of the increased traffic congestion in the Baltimore area.
@@ -129,7 +123,8 @@ It is an unfair reality, and I hope there is an understanding that we, as a legi
 However, I know that nobody is seeking platitudes right now, so I will only say that I will continue to support the program in any way I can.
 I also want to acknowledge the tireless efforts of advocates that not only made a difference in reversing some cuts but made a deep impression on me and my colleagues, and I’m grateful to know so many Marylanders care about their fellow community members’ well-being.
 On a happier note, one of my favorite parts of writing my End of Session Letter is reporting on the funding we were able to secure for projects in my district in the form of Legislative Bond Initiatives, or LBIs.
-The District 44 team were able to allot a total of $60,000 in the budget to Dewey Loman Post No. 109 of the American Legion for the replacing the flooring in their Meeting Hall, $500,000 to the Catonsville Emergency Assistance Food Pantry for building a new food pantry facility and renovating existing spaces, $200,000 to the National Center on Institutions and Alternatives for infrastructural and programming upgrades to their Youth in Transition School Therapeutic Campus, $180,000 to the Security Woodlawn Business Association for renovations to their headquarters that will provide new resources for local businesses, and $200,000 for Woodlawn High School to replace their almost two decade old scoreboard and public address system.
+The District 44 team were able to allot a total of $60,000 in the budget to Dewey Loman Post No.
+109 of the American Legion for the replacing the flooring in their Meeting Hall, $500,000 to the Catonsville Emergency Assistance Food Pantry for building a new food pantry facility and renovating existing spaces, $200,000 to the National Center on Institutions and Alternatives for infrastructural and programming upgrades to their Youth in Transition School Therapeutic Campus, $180,000 to the Security Woodlawn Business Association for renovations to their headquarters that will provide new resources for local businesses, and $200,000 for Woodlawn High School to replace their almost two decade old scoreboard and public address system.
 We are all so proud to be able to garner funding for projects that will benefit our constituents and communities so directly even with such a tight budget this year.
 Unfortunately, because of the tight budget constraints, we weren’t able to fund all the projects requested, but we will continue to push for these in future years.
 And so, finally, I want to thank you.
@@ -137,6 +132,9 @@ Thank you for following my work this session.
 Thank you for being so engaged with the legislative process – your input is invaluable to our work here in Annapolis and guides everything I do here as your representative, along with the rest of my colleagues.
 I am proud of the work we accomplished this session and invigorated to further that work through the interim and into next year’s legislative session.
 I am glad to have you along for the journey.
-All my very best,
-Delegate Sheila Ruth
-District 44B, Baltimore County
+All my very best, Delegate Sheila Ruth District 44B, Baltimore County Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

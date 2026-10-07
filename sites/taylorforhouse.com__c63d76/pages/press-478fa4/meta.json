@@ -1,9 +1,12 @@
 {
  "description": "Articles from the press featuring Rory. Includes articles from the Indianola Independent Advocate and the Des Moines Register.",
  "final_url": "https://taylorforhouse.com/press/",
- "paid_for_by": null,
+ "fingerprint": "4d58a43cbed569a9c6c92b3c8214194c5fc9eab0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Press - Rory Taylor for Iowa House District 22 | Democrat",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

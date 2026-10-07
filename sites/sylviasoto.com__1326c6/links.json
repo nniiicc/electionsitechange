@@ -1,13 +1,58 @@
 [
-"https://facebook.com/vote4soto",
-"https://instagram.com/vote4sylviasoto",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/sylvia-soto-for-texas/donate-today",
-"https://secure.winred.com/sylvia-soto-for-texas/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://sylviasoto.com/",
-"https://sylviasoto.com/donate-1",
-"https://sylviasoto.com/gallery",
-"https://sylviasoto.com/meet-me",
-"https://sylviasoto.com/volunteer"
+{
+"text": "DONTATE TODAY",
+"href": "https://secure.winred.com/sylvia-soto-for-texas/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Donate",
+"href": "https://sylviasoto.com/donate-1"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/sylvia-soto-for-texas/donate-today"
+},
+{
+"text": "Gallery",
+"href": "https://sylviasoto.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://sylviasoto.com/"
+},
+{
+"text": "Learn more",
+"href": "https://sylviasoto.com/meet-me"
+},
+{
+"text": "Meet Me",
+"href": "https://sylviasoto.com/meet-me"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://sylviasoto.com/volunteer"
+},
+{
+"text": "VoteSylviaSoto@gmail.com",
+"href": "mailto:VoteSylviaSoto@gmail.com"
+},
+{
+"text": "[image: Sylvia Soto for Texas]",
+"href": "https://sylviasoto.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/vote4soto/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4sylviasoto/"
+}
 ]

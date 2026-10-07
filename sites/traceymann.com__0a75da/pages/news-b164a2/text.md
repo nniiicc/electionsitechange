@@ -1,4 +1,5 @@
-(SALINA, KS) – Former Lt.
+Where I Stand Pro-Life Pro-Gun Agriculture Support Trump Rural Revitalization Border Security Get to Know Tracey Life of a Kansan News Contact CONTRIBUTE News News Press Releases Former Lt.
+Governor Tracey Mann Announces Candidacy for Congress: Mann announces his campaign to bring conservative values and a voice for Kansas agriculture to Washington (SALINA, KS) – Former Lt.
 Governor and fifth generation Kansan, Tracey Mann, today announced his candidacy for Kansas’ First Congressional District.
 “America faces urgent threats to our freedom.
 While President Trump is doing his best to right the ship, too many Washington politicians want to redefine our founding values and ideals.
@@ -18,12 +19,13 @@ Tracey supports President Trump’s efforts to build the wall and curb illegal i
 “I will fight to restore fiscal discipline in Congress and will support sound agricultural policy.
 My experience in agriculture and business has taught me that politicians don’t create jobs; risk-takers and entrepreneurs create jobs.
 In Congress, I will do everything in my power to help job creators succeed.
-But above all, I will put Kansans and our Kansas values first.”
-Tracey Mann served as the 50th Lt.
+But above all, I will put Kansans and our Kansas values first.” Tracey Mann served as the 50th Lt.
 Governor of the great state of Kansas.
 A fifth generation Kansan, he was born and raised on his family farm just south of Quinter.
 He attended Kansas State University where he studied Agricultural Economics and was elected Student Body President.
 After college, Tracey started a career in commercial real estate.
 Tracey has served on the Board of Directors of many Kansas organizations including: Kansas Agriculture and Rural Leadership (KARL), Kansas Chamber of Commerce, and The City Teen Center in Salina.
 Tracey and his wife Audrey live in Salina with their 4 children (Quincy, Austin, Whitney and Elise).
-###
+### Item Link List Item 1 Main Office P.O.
+Box 1084 Salina, KS 67402 Contact 785-236-7802 info@traceymann.com Contribute Paid for by Mann for Congress, Inc.
+Share by:

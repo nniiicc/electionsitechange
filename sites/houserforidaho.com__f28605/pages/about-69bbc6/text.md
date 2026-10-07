@@ -1,13 +1,11 @@
-The Oath Never Expires
-I didn’t spend my career climbing the political ladder.
+Skip to content Home About Platform Contact Donate Facebook Instagram Threads Bluesky The Oath Never Expires I didn’t spend my career climbing the political ladder.
 I spent it ready to lay down my life for this country.
 When you raise your right hand and volunteer to serve, you don’t do it for the political party.
 You do it for the Constitution and for your neighbors.
 You learn very quickly that when the chips are down, it doesn’t matter if the person next to you is a Republican or a Democrat-it only matters that you have each other’s backs.
 That is the spirit I am bringing to this campaign.
-I am not here to represent a party boss; I am here to represent you.
-Why I Walked Away from the Two-Party System
-For years, I was a registered Democrat.
+I am not here to represent a party boss; I am here to represent you .
+Why I Walked Away from the Two-Party System For years, I was a registered Democrat.
 I was even recruited to run as one.
 But in 2025, I made the hardest decision of my political life: I walked away.
 I realized that the Democratic Party-just like the Republican Party-no longer represented my interests or the interests of working Idahoans.
@@ -16,10 +14,9 @@ I saw that both major parties have become clubs for the wealthy, funded by corpo
 They represent money.
 They represent power.
 They do not represent the Veteran waiting for healthcare, the small farmer being squeezed by conglomerates, or the family struggling with inflation while the rich “borrow and die” to avoid taxes.
-So, I changed my registration to Unaffiliated.
+So, I changed my registration to Unaffiliated .
 I am running as an independent because I answer to no one but the voters of Idaho.
-The 25-Year Problem
-Mike Simpson has been in office for 25 years.
+The 25-Year Problem Mike Simpson has been in office for 25 years .
 He was first elected when dial-up internet was the cutting edge.
 In that quarter-century, he has become a creature of Washington.
 He votes for massive omnibus spending bills he hasn’t read.
@@ -28,10 +25,12 @@ He voted to make it illegal for Medicare to negotiate lower drug prices for our 
 Mike Simpson should be enjoying his twilight years.
 Instead, he is clinging to power, passing rules for a future he won’t have to live in.
 He is mortgaging our children’s future to pay for a bloated bureaucracy today.
-A Fair Deal for Idaho
-I am not interested in being a politician for life.
+A Fair Deal for Idaho I am not interested in being a politician for life.
 I believe in term limits.
 I believe that fresh blood is the only cure for a stagnant system.
 Washington is broken.
 Sending the same people back for another 25 years won’t fix it.
-My name is Emre Houser, and I am asking for your vote-not as a partisan, but as a patriot.
+My name is Emre Houser , and I am asking for your vote-not as a partisan, but as a patriot.
+For People, not Powerful Interests PO Box 163, Boise, ID 83701 Facebook Instagram Threads Bluesky Home About Platform Contact Donate Paid for by Houser For Idaho Emre Houser is a former member of the U.S.
+Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Air Force, the Department of Defense or any branch of U.S. government.

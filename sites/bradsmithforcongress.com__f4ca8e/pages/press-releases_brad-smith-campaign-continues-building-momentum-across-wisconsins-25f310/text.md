@@ -1,10 +1,8 @@
-Brad Smith Campaign Continues Building Momentum Across Wisconsin's 6th District
-Mequon, WI - June 7, 2026 — Wisconsin's 6th Congressional District continues to see growing momentum behind Brad Smith's campaign as supporters from across the District unite around a candidate focused on bringing people together and building the coalition needed to win.
+0 Skip to Content About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Learn More Hear from Brad Priorities and Positions Endorsements Press Releases Get Involved Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Open Menu Close Menu About Brad Folder: Learn More Back Hear from Brad Priorities and Positions Endorsements Press Releases Folder: Get Involved Back Volunteer Join an Event Request Yard Sign Shop Contact Us Donate Brad Smith Campaign Continues Building Momentum Across Wisconsin's 6th District Jun 7 Written By Brad Smith Mequon, WI - June 7, 2026 — Wisconsin's 6th Congressional District continues to see growing momentum behind Brad Smith's campaign as supporters from across the District unite around a candidate focused on bringing people together and building the coalition needed to win.
 While some campaigns highlight paid polling, the Smith campaign remains focused on the fundamentals that win elections: organization, fundraising, and coalition-building.
 "We're focused on the work," Smith said.
 "Campaigns are won by organizing communities, building coalitions, talking directly with voters, and earning trust.
-That's what we've been doing since day one, and that's what we'll continue doing every day until Election Day."
-The campaign has demonstrated grassroots strength throughout the race.
+That's what we've been doing since day one, and that's what we'll continue doing every day until Election Day." The campaign has demonstrated grassroots strength throughout the race.
 Smith was the first Democratic candidate to file nomination papers and collected the largest number of approved nomination signatures among all candidates seeking a place on the ballot, gathering them in just 10 days.
 The campaign has also reached thousands of voters across the District through direct voter contact efforts.
 Smith has led all challengers to the incumbent in fundraising, with the overwhelming majority of contributions coming from individual supporters throughout the District.
@@ -14,4 +12,4 @@ The growing support behind Smith reflects a broader reality taking shape in the 
 What was once considered a safe Republican district is receiving increased attention as political observers note a more competitive environment than in previous election cycles.
 "People from different backgrounds don't have to agree on everything," Smith said.
 "But they do agree that our communities deserve a representative who listens, shows up, and focuses on results.
-The support we're receiving from every corner of the 6th District shows people are ready to move forward together."
+The support we're receiving from every corner of the 6th District shows people are ready to move forward together." Media Contact brian@bradsmithforcongress.com Media Kit Link Brad Smith Previous Previous State Senator Jodi Habush Sinykin Endorses Brad Smith for Congress Next Next As Filing Closes, Smith Campaign Demonstrates Strong Grassroots Organization in WI-06 Paid for by Citizens for Brad Smith Media Resources ‍ | ‍ Press Releases

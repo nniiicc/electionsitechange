@@ -1,5 +1,4 @@
-Elect The Clown, Watch The Circus
-President Donald Trump addressed the nation Wednesday night, the subject the war with Iran.
+Skip to content Elect The Clown, Watch The Circus President Donald Trump addressed the nation Wednesday night, the subject the war with Iran.
 He did not offer anything of substance on the matter, neither a possible ending to the war, nor big-picture details on strategy, just like he did not offer a cogent reason for starting the war.
 We’ve been the Peace Candidate since our 2014 candidacy for the US Senate, and that hasn’t changed: this war remains illegal and immoral.
 Illegal because it was not declared by Congress as mandated by the Constitution.
@@ -15,4 +14,6 @@ We elected him anyway.
 We elected the clown, and every day we have a front row seat to the circus.
 It’s time for common sense in these uncommon times.
 It’s time to send me, Gaylon Kent, to Congress.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

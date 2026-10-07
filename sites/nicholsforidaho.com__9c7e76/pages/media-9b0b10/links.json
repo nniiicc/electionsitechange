@@ -1,17 +1,66 @@
 [
-"https://facebook.com/nicholsforidaho",
-"https://instagram.com/nicholsforidaho",
-"https://nicholsforidaho.com/",
-"https://nicholsforidaho.com/about",
-"https://nicholsforidaho.com/contact",
-"https://nicholsforidaho.com/donate",
-"https://nicholsforidaho.com/endorsements-awards",
-"https://nicholsforidaho.com/for-the-record",
-"https://nicholsforidaho.com/issues",
-"https://nicholsforidaho.com/media",
-"https://nicholsforidaho.com/photos",
-"https://nicholsforidaho.com/social-media-policy",
-"https://nicholsforidaho.com/voter-guide",
-"https://nicholsforidaho.com/wp-content/uploads/2026/05/qr-code.png",
-"https://twitter.com/nicholsforidaho"
+{
+"text": "About",
+"href": "https://nicholsforidaho.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://nicholsforidaho.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://nicholsforidaho.com/donate/"
+},
+{
+"text": "Endorsements & Awards",
+"href": "https://nicholsforidaho.com/endorsements-awards/"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/nicholsforidaho"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/nicholsforidaho/"
+},
+{
+"text": "Home",
+"href": "https://nicholsforidaho.com/"
+},
+{
+"text": "Issues",
+"href": "https://nicholsforidaho.com/issues/"
+},
+{
+"text": "My Record",
+"href": "https://nicholsforidaho.com/for-the-record/"
+},
+{
+"text": "Newsletters",
+"href": "https://nicholsforidaho.com/media/"
+},
+{
+"text": "Photos",
+"href": "https://nicholsforidaho.com/photos/"
+},
+{
+"text": "Social Media Comment Policy",
+"href": "https://nicholsforidaho.com/social-media-policy/"
+},
+{
+"text": "Voter Information",
+"href": "https://nicholsforidaho.com/voter-guide/"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com"
+},
+{
+"text": "[image]",
+"href": "https://nicholsforidaho.com/wp-content/uploads/2026/05/qr-code.png"
+}
 ]

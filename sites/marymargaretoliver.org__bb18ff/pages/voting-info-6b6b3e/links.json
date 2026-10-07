@@ -1,23 +1,94 @@
 [
-"https://dekalbcountyga.gov/sites/default/files/users/user3597/Absentee%20Instructions%20(2021).pdf",
-"https://dekalbcountyga.gov/sites/default/files/users/user3667/AbsenteeBallotPDF.pdf",
-"https://dekalbcountyga.gov/sites/default/files/users/user3667/Polling%20Place%20Report%202023-09-25%20v3.pdf",
-"https://dekalbcountyga.gov/voter-registration-elections/absentee-information",
-"https://dekalbcountyga.gov/voter-registration-elections/early-voting",
-"https://dekalbcountyga.gov/voter-registration-elections/general-election-information",
-"https://dekalbgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=3d306f8fddd84509aaa4e735f3168df8",
-"https://facebook.com/marymargaretoliver",
-"https://instagram.com/repmmoliver",
-"https://marymargaretoliver.org/",
-"https://marymargaretoliver.org/about",
-"https://marymargaretoliver.org/news-and-press",
-"https://marymargaretoliver.org/newsletters",
-"https://marymargaretoliver.org/request-a-yard-sign",
-"https://marymargaretoliver.org/voting-info",
-"https://mvp.sos.ga.gov/",
-"https://mvp.sos.ga.gov/MVP",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/mary-margaret-oliver-3",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://twitter.com/mmo_mary"
+{
+"text": "About Mary Margaret",
+"href": "https://www.marymargaretoliver.org/about"
+},
+{
+"text": "Absentee Ballot Application.",
+"href": "https://www.dekalbcountyga.gov/sites/default/files/users/user3667/AbsenteeBallotPDF.pdf"
+},
+{
+"text": "Advance Voting Locations",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/early-voting"
+},
+{
+"text": "Click Here.",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/absentee-information"
+},
+{
+"text": "Confirm your registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/mary-margaret-oliver-3"
+},
+{
+"text": "Election Day Polling Places",
+"href": "https://www.dekalbcountyga.gov/sites/default/files/users/user3667/Polling%20Place%20Report%202023-09-25%20v3.pdf"
+},
+{
+"text": "Home",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "Marking and Returning an Absentee Ballot",
+"href": "https://www.dekalbcountyga.gov/sites/default/files/users/user3597/Absentee%20Instructions%20(2021).pdf"
+},
+{
+"text": "My Voter Page",
+"href": "https://www.mvp.sos.ga.gov/MVP"
+},
+{
+"text": "My Voter Page.",
+"href": "https://www.mvp.sos.ga.gov/"
+},
+{
+"text": "Newsletters",
+"href": "https://www.marymargaretoliver.org/newsletters"
+},
+{
+"text": "Press",
+"href": "https://www.marymargaretoliver.org/news-and-press"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.marymargaretoliver.org/request-a-yard-sign"
+},
+{
+"text": "Voting Info",
+"href": "https://www.marymargaretoliver.org/voting-info"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/mmo_mary"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/marymargaretoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/repmmoliver"
+},
+{
+"text": "[image]",
+"href": "https://www.marymargaretoliver.org/"
+},
+{
+"text": "click here.",
+"href": "https://www.dekalbcountyga.gov/voter-registration-elections/general-election-information"
+},
+{
+"text": "interactive map",
+"href": "https://dekalbgis.maps.arcgis.com/apps/instant/lookup/index.html?appid=3d306f8fddd84509aaa4e735f3168df8"
+},
+{
+"text": "mmo@mmolaw.com",
+"href": "mailto:mmo@mmolaw.com"
+},
+{
+"text": "submit an application online",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+}
 ]

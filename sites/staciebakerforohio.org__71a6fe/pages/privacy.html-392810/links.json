@@ -1,16 +1,74 @@
 [
-"https://aboutads.info/choices",
-"https://facebook.com/ads/preferences",
-"https://facebook.com/privacy/policy",
-"https://secure.actblue.com/",
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/contact.html",
-"https://staciebakerforohio.org/datadeletion.html",
-"https://staciebakerforohio.org/events.html",
-"https://staciebakerforohio.org/get-involved.html",
-"https://staciebakerforohio.org/privacy.html",
-"https://staciebakerforohio.org/terms.html",
-"https://staciebakerforohio.org/volunteer.html"
+{
+"text": "About",
+"href": "https://www.staciebakerforohio.org/#about"
+},
+{
+"text": "Announcements",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker for Ohio",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.staciebakerforohio.org/contact.html"
+},
+{
+"text": "Data Deletion",
+"href": "https://www.staciebakerforohio.org/datadeletion.html"
+},
+{
+"text": "Data Deletion page",
+"href": "https://www.staciebakerforohio.org/datadeletion.html"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Events",
+"href": "https://www.staciebakerforohio.org/events.html"
+},
+{
+"text": "Get Involved",
+"href": "https://www.staciebakerforohio.org/get-involved.html"
+},
+{
+"text": "Home",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Platform",
+"href": "https://www.staciebakerforohio.org/#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staciebakerforohio.org/privacy.html"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.staciebakerforohio.org/terms.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.staciebakerforohio.org/volunteer.html"
+},
+{
+"text": "actblue.com",
+"href": "https://secure.actblue.com"
+},
+{
+"text": "admin@nationalsystems.org",
+"href": "mailto:admin@nationalsystems.org"
+},
+{
+"text": "citizensforstaciebaker@gmail.com",
+"href": "mailto:citizensforstaciebaker@gmail.com"
+},
+{
+"text": "facebook.com/privacy/policy",
+"href": "https://www.facebook.com/privacy/policy"
+}
 ]

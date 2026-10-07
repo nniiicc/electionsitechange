@@ -1,5 +1,4 @@
-Immigration
-Just saying the word “immigration” can turn a conversation into a confrontation these days.
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Equality and Freedom Immigration Immigration Just saying the word “immigration” can turn a conversation into a confrontation these days.
 I don't believe it has to.
 We can secure our borders, enforce our immigration laws, and still treat people with fairness and basic human dignity.
 We can believe people who are here without legal status must follow our laws and believe everyone deserves due process.
@@ -8,16 +7,14 @@ We can believe our immigration laws should be enforced and believe families dese
 As a nurse, I know every person deserves humane treatment.
 That doesn't mean ignoring the law.
 It means believing that how we enforce our laws matters.
-What I'll Fight For in Congress
-I will support securing our borders and enforcing the immigration laws already on the books.
+What I'll Fight For in Congress I will support securing our borders and enforcing the immigration laws already on the books.
 I will fight for due process and humane treatment for people in federal immigration custody, including access to necessary medical care and legal counsel.
 I will demand transparency when families in our district cannot find out where a loved one is being held or what is happening with their case.
 I will work to keep families together whenever the law allows it and make sure our immigration policies recognize the realities of the communities I represent, including our farmers, small businesses, hospitals, and employers.
 Our rural communities need workers, families, and customers to thrive, and our policies should recognize the people who help keep those communities strong.
 We don't need to choose between secure borders and basic human decency.
 We can do both.
-Your Representative Should Represent You
-Members of Congress routinely work with federal agencies on behalf of their constituents.
+Your Representative Should Represent You Members of Congress routinely work with federal agencies on behalf of their constituents.
 That's part of the job.
 We know what happens when someone from our own community is taken into federal immigration custody.
 Families call their representative's office looking for answers, and they are met with silence, unanswered calls, or a conversation that ends before they can get the help they need.
@@ -39,3 +36,6 @@ Those aren't Democratic values.
 They aren't Republican values.
 They're American values.
 And they're the values I'll bring with me to Congress to be your voice.
+Privacy Policy jennifer@jentodd2026.us | 618-251-1428 Friends for Jennifer Todd P.O.
+Box 3 Glen Carbon, IL 62034 Powered by RUN! website builder Paid for by Friends for Jennifer Todd.
+You need to enable JavaScript to run this app.

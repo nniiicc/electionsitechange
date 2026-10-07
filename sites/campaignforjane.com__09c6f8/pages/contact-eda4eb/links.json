@@ -1,8 +1,30 @@
 [
-"https://campaignforjane.com/",
-"https://campaignforjane.com/cart",
-"https://campaignforjane.com/contact",
-"https://campaignforjane.com/endorsements-testimonials",
-"https://facebook.com/campaignforjane2024",
-"https://instagram.com/janewis2024"
+{
+"text": "0",
+"href": "https://www.campaignforjane.com/cart"
+},
+{
+"text": "CONTACT",
+"href": "https://www.campaignforjane.com/contact"
+},
+{
+"text": "Endorsements & Testimonials",
+"href": "https://www.campaignforjane.com/endorsements-testimonials"
+},
+{
+"text": "HOME",
+"href": "https://www.campaignforjane.com/"
+},
+{
+"text": "[image: Campaign For Jane]",
+"href": "https://www.campaignforjane.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/campaignforjane2024"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/janewis2024/"
+}
 ]

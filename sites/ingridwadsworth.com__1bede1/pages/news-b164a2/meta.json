@@ -1,7 +1,11 @@
 {
  "description": "Ingrid Wadsworth in the News",
  "final_url": "https://ingridwadsworth.com/news",
- "paid_for_by": null,
+ "fingerprint": "92e52be9fb013a6fde733c144a3788fb7b142e9a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

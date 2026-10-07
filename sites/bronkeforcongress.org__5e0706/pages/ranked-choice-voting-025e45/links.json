@@ -1,17 +1,74 @@
 [
-"https://ballotpedia.org/Ranked-choice_voting_(RCV)",
-"https://bronkeforcongress.org/",
-"https://bronkeforcongress.org/about-us",
-"https://bronkeforcongress.org/contact",
-"https://bronkeforcongress.org/info",
-"https://bronkeforcongress.org/jim-bronke",
-"https://bronkeforcongress.org/resume",
-"https://facebook.com/",
-"https://facebook.com/jvbronke",
-"https://greatbrook.com/ranked-choice-voting-the-good-the-opaque-the-end-game",
-"https://instagram.com/",
-"https://instagram.com/jimbronke?hl=en",
-"https://linkedin.com/in/james-bronke-4164958",
-"https://rankmivote.org/",
-"https://x.com/"
+{
+"text": "About us",
+"href": "https://www.bronkeforcongress.org/about-us/"
+},
+{
+"text": "Advocate for Ranked Choice Voting in Michigan | Rank MI Vote",
+"href": "https://rankmivote.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.bronkeforcongress.org/contact/"
+},
+{
+"text": "Home",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "Info",
+"href": "https://www.bronkeforcongress.org/info/"
+},
+{
+"text": "Jim Bronke",
+"href": "https://www.bronkeforcongress.org/jim-bronke/"
+},
+{
+"text": "Ranked Choice Voting Pros and Cons",
+"href": "https://greatbrook.com/ranked-choice-voting-the-good-the-opaque-the-end-game/"
+},
+{
+"text": "Ranked-choice voting (RCV) - Ballotpedia",
+"href": "https://ballotpedia.org/Ranked-choice_voting_(RCV)"
+},
+{
+"text": "Resume",
+"href": "https://www.bronkeforcongress.org/resume/"
+},
+{
+"text": "[image]",
+"href": "https://www.bronkeforcongress.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/jvbronke"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jimbronke/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/james-bronke-4164958/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:jim@bronkeforcongress.org"
+},
+{
+"text": "[no text]",
+"href": "mailto:mail@example.com"
+}
 ]

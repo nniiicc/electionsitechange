@@ -1,8 +1,30 @@
 [
-"https://instagram.com/karina_justfiguringitout",
-"https://karinajustfiguringitout.com/",
-"https://secure.actblue.com/donate/karinajustfiguringitout",
-"https://startersites.io/blocksy/app",
-"https://startersites.io/blocksy/charity/privacy-policy",
-"https://tiktok.com/@karina_justfiguringitout"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/karinajustfiguringitout"
+},
+{
+"text": "Donate Here!",
+"href": "https://secure.actblue.com/donate/karinajustfiguringitout"
+},
+{
+"text": "Endorse Karina",
+"href": "mailto:karinacampaign1@gmail.com"
+},
+{
+"text": "[image: Karina Just Figuring it Out]",
+"href": "https://karinajustfiguringitout.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/karina_justfiguringitout/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@karina_justfiguringitout"
+},
+{
+"text": "karinacampaign1@gmail.com",
+"href": "mailto:contact@yourwebsite.com"
+}
 ]

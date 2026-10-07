@@ -1,19 +1,78 @@
 [
-"https://betsyforgeorgia.com/",
-"https://betsyforgeorgia.com/about-district-54",
-"https://betsyforgeorgia.com/blog",
-"https://betsyforgeorgia.com/contact-us",
-"https://betsyforgeorgia.com/endorsements-3",
-"https://betsyforgeorgia.com/join-the-team",
-"https://betsyforgeorgia.com/mailing-list",
-"https://betsyforgeorgia.com/platform",
-"https://betsyforgeorgia.com/vote",
-"https://facebook.com/BetsyforGeorgia",
-"https://instagram.com/betsyforgeorgia",
-"https://mvp.sos.ga.gov/s",
-"https://secure.actblue.com/donate/betsy-holland-for-georgia-1",
-"https://securemyabsenteeballot.sos.ga.gov/s",
-"https://wordpress.org/",
-"https://wordpress.org/plugins/vk-all-in-one-expansion-unit",
-"https://wordpress.org/themes/lightning"
+{
+"text": "Betsy For Georgia",
+"href": "https://betsyforgeorgia.com"
+},
+{
+"text": "Betsy For Georgia",
+"href": "https://betsyforgeorgia.com/"
+},
+{
+"text": "Blog",
+"href": "https://betsyforgeorgia.com/blog/"
+},
+{
+"text": "Contact Us",
+"href": "https://betsyforgeorgia.com/contact-us/"
+},
+{
+"text": "District 54",
+"href": "https://betsyforgeorgia.com/about-district-54/"
+},
+{
+"text": "Endorsements",
+"href": "https://betsyforgeorgia.com/endorsements-3/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BetsyforGeorgia"
+},
+{
+"text": "Georgia My Voter Page",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/betsyforgeorgia/"
+},
+{
+"text": "Join the Team!",
+"href": "https://betsyforgeorgia.com/join-the-team/"
+},
+{
+"text": "Lightning Theme",
+"href": "https://wordpress.org/themes/lightning/"
+},
+{
+"text": "My Priorities",
+"href": "https://betsyforgeorgia.com/platform/"
+},
+{
+"text": "Sign up for Betsy For Georgia Updates and News!",
+"href": "https://betsyforgeorgia.com/mailing-list/"
+},
+{
+"text": "VK All in One Expansion Unit",
+"href": "https://wordpress.org/plugins/vk-all-in-one-expansion-unit/"
+},
+{
+"text": "Voting Information",
+"href": "https://betsyforgeorgia.com/vote/"
+},
+{
+"text": "WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "[image: Betsy for Georgia]",
+"href": "https://betsyforgeorgia.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/betsy-holland-for-georgia-1"
+},
+{
+"text": "here.",
+"href": "https://securemyabsenteeballot.sos.ga.gov/s/"
+}
 ]

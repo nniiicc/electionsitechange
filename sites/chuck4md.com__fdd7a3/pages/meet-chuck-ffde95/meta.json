@@ -1,7 +1,9 @@
 {
  "description": "Find upcoming events where you can meet Chuck Borges, ask questions, and connect with the campaign across Southern Maryland.",
  "final_url": "https://chuck4md.com/meet-chuck/",
- "paid_for_by": null,
+ "fingerprint": "52ae7c01a044f8c3435a161be1375fcd3af2508f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Meet Chuck Borges | Events in Southern Maryland",
  "years_mentioned": []
 }

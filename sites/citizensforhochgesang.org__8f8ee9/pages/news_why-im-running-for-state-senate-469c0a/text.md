@@ -1,8 +1,13 @@
-Mar 1, 2026
-Why I'm Running for State Senate
-I was born in Dubois County and grew up in Jasper.
-I left in 2010, came home in 2023 to put down roots, and found out the hard way how decisions get made around here.
-I was born in a hospital just outside Jasper.
+Skip to content Brad Hochgesang for State Senate Donate Join Us Home / News / Why Im Running For State Senate News Loading campaign updates Gathering the latest campaign announcements and articles.
+Brad Hochgesang Do the homework.
+Ask the people.
+Fight for their answer.
+I intend to prove it.
+Contact: [email protected] Explore News Our District Events About & Priorities The Record Media & Press Shirts & Signs Support Contact Us Stay in the loop Campaign updates, straight from Brad.
+Email address ZIP code Sign me up Prefer to chip in?
+Choose how to donate.
+Follow us on social media Facebook YouTube Instagram Paid for by Citizens For Hochgesang ← Back to News Mar 1, 2026 Why I'm Running for State Senate I was born in Dubois County and grew up in Jasper.
+I left in 2010, came home in 2023 to put down roots, and found out the hard way how decisions get made around here. campaign announcement why I'm running district 48 Jasper Dubois County I was born in a hospital just outside Jasper.
 Dubois County, technically, since my parents were living in Jasper at the time.
 Either way, this is home, and it's where I grew up.
 I left in December 2010.
@@ -73,3 +78,4 @@ If I get something wrong, I'll own it.
 That's not a campaign promise.
 That's just how I was raised, and it's how I'd do this job.
 I intend to prove it.
+Support this work

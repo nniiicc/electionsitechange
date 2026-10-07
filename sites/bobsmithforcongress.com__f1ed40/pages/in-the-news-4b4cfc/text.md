@@ -1,25 +1,13 @@
-Press Releases
-Bob Smith Calls for Immediate State & Federal Investigation Into Oil Covering South Coast Beaches
-FOR IMMEDIATE RELEASE July 20, 2026 SANTA BARBARA, CA. —
-Bob Smith, candidate for California’s 24th Congressional District, called for an immediate, coordinated state and federal investigation into the unusually heavy oil and tar washing onto South Coast beaches.
-Bob Smith Emerges From Primary In Strong Position, Advances To General Election
-FOR IMMEDIATE RELEASE Voters Signal Desire for New Leadership, Practical Solutions, and Results
-June 6, 2026 SANTA BARBARA, CA. — Congressional candidate Bob Smith
-In The News
-Carbajal’s Housing Spin Is Why Voters Are Tired of Politics
-Opinion – Independent.com – Carbajal’s Housing Spin Is Why Voters Are Tired of Politics
-June 5, 2026 SANTA BARBARA, CA. — Central Coast Needs Results
-Watch: Attacking Trump’s “Illegal War”
-santabarbaranewsmakers.com In wide-ranging interview, the five-term SB Democrat distances himself from Swalwell, forecasts a mid-term wave election, and waffles on...
-A Commander Steps Forward: Meet Bob Smith, a New Voice for the Central Coast
-www.sbcurrent.comBy Bonnie Donovan At a time when voters across the Central Coast increasingly question whether Washington understands their lives, a new candidate is...
-Central Coast Families Deserve Better Than Rhetoric on Healthcare
-Independent.comBy Bob Smith The Santa Barbara Independent published a full-length op-ed today by retired U.S.
-Navy Commander and Republican congressional candidate Bob...
-GOP Labor Day Event Focuses on Election as Bob Smith Announces Challenge to Carbajal
-24th Congressional District candidate Bob Smith and other Republicans call for changes in federal and state leadership Noozhawk.com by Nick Forselles, Noozhawk Staff...
-Bob Smith of Carpinteria announces candidacy for 24th Congressional District Monday
-KEYT News Channel CENTRAL COAST REGION, Calif. – On Monday, retired U.S.
-Navy officer and Senior Engineering Fellow at a Washington D.C.-based defense contractor, Bob...
-Sign Up For The Latest
-MEDIA CATEGORIES
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE Press Releases Bob Smith Calls for Immediate State & Federal Investigation Into Oil Covering South Coast Beaches FOR IMMEDIATE RELEASE July 20, 2026 SANTA BARBARA, CA. — Bob Smith, candidate for California’s 24th Congressional District, called for an immediate, coordinated state and federal investigation into the unusually heavy oil and tar washing onto South Coast beaches. read more Bob Smith Emerges From Primary In Strong Position, Advances To General Election FOR IMMEDIATE RELEASE Voters Signal Desire for New Leadership, Practical Solutions, and Results June 6, 2026 SANTA BARBARA, CA. — Congressional candidate Bob Smith read more In The News Carbajal’s Housing Spin Is Why Voters Are Tired of Politics Opinion – Independent.com – Carbajal’s Housing Spin Is Why Voters Are Tired of Politics June 5, 2026 SANTA BARBARA, CA. — Central Coast Needs Results read more Watch: Attacking Trump’s “Illegal War” santabarbaranewsmakers.com In wide-ranging interview, the five-term SB Democrat distances himself from Swalwell, forecasts a mid-term wave election, and waffles on... read more A Commander Steps Forward: Meet Bob Smith, a New Voice for the Central Coast www.sbcurrent.comBy Bonnie Donovan At a time when voters across the Central Coast increasingly question whether Washington understands their lives, a new candidate is... read more Central Coast Families Deserve Better Than Rhetoric on Healthcare Independent.comBy Bob Smith The Santa Barbara Independent published a full-length op-ed today by retired U.S.
+Navy Commander and Republican congressional candidate Bob... read more GOP Labor Day Event Focuses on Election as Bob Smith Announces Challenge to Carbajal 24th Congressional District candidate Bob Smith and other Republicans call for changes in federal and state leadership Noozhawk.com by Nick Forselles, Noozhawk Staff... read more Bob Smith of Carpinteria announces candidacy for 24th Congressional District Monday KEYT News Channel CENTRAL COAST REGION, Calif. – On Monday, retired U.S.
+Navy officer and Senior Engineering Fellow at a Washington D.C.-based defense contractor, Bob... read more Sign Up For The Latest MEDIA CATEGORIES • In The News • Bob Talks • Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

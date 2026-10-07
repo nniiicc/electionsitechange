@@ -1,18 +1,12 @@
-by Dale Washburn | Apr 7, 2026 | News
-The House reconvened at the State Capitol on Tuesday, March 31, 2026, for the final week of the legislative session.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 12 Legislative Session Recap 2026 by Dale Washburn | Apr 7, 2026 | News The House reconvened at the State Capitol on Tuesday, March 31, 2026, for the final week of the legislative session.
 We met on Tuesday and Thursday to complete our work, with committees also wrapping up remaining legislation.
 Late nights on the House floor marked the...
-by Dale Washburn | Mar 31, 2026 | News
-My fellow House members and I reconvened at the Gold Dome on Monday, March 23, marking Legislative Day 36 of the 2026 legislative session.
+Week 11 Legislative Session Recap 2026 by Dale Washburn | Mar 31, 2026 | News My fellow House members and I reconvened at the Gold Dome on Monday, March 23, marking Legislative Day 36 of the 2026 legislative session.
 It proved to be a full and productive stretch, featuring three legislative days alongside two committee workdays as we continued...
-by Dale Washburn | Mar 24, 2026 | News
-The Georgia House of Representatives reconvened on Monday, March 16, for Legislative Day 32 and the start of the 10th week of the 2026 legislative session.
+Week 10 Legislative Session Recap 2026 by Dale Washburn | Mar 24, 2026 | News The Georgia House of Representatives reconvened on Monday, March 16, for Legislative Day 32 and the start of the 10th week of the 2026 legislative session.
 Following Monday’s legislative day, House committees met for a productive committee workday on Tuesday to review...
-by Dale Washburn | Mar 18, 2026 | News
-On Monday, March 9, 2026, the House returned to the Gold Dome following a long legislative day on Friday that stretched into the early hours of Saturday morning.
+Week 9 Legislative Session Recap 2026 by Dale Washburn | Mar 18, 2026 | News On Monday, March 9, 2026, the House returned to the Gold Dome following a long legislative day on Friday that stretched into the early hours of Saturday morning.
 By the end of the week, the Georgia General Assembly reached Legislative Day 31, meaning that only nine...
-by Dale Washburn | Mar 10, 2026 | News
-My colleagues and I returned to the Georgia State Capitol on Monday, March 2, for the busiest stretch of the 2026 legislative session so far, leading up to Legislative Day 28, Crossover Day, the key deadline for bills and resolutions to pass out of their originating...
-by Dale Washburn | Mar 3, 2026 | News
-On Monday, February 23, 2026, my House colleagues and I returned to the State Capitol for the seventh week of the legislative session.
-We began with our first committee workday, spending long hours reviewing and advancing legislation for placement on a Rules Calendar...
+Week 8 Legislative Session Recap 2026 by Dale Washburn | Mar 10, 2026 | News My colleagues and I returned to the Georgia State Capitol on Monday, March 2, for the busiest stretch of the 2026 legislative session so far, leading up to Legislative Day 28, Crossover Day, the key deadline for bills and resolutions to pass out of their originating...
+Week 7 Legislative Session Recap 2026 by Dale Washburn | Mar 3, 2026 | News On Monday, February 23, 2026, my House colleagues and I returned to the State Capitol for the seventh week of the legislative session.
+We began with our first committee workday, spending long hours reviewing and advancing legislation for placement on a Rules Calendar... « Older Entries Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

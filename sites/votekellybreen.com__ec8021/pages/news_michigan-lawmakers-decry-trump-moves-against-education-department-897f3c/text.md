@@ -1,7 +1,8 @@
-Michigan Advance | February 17, 2025
-For the second time in a week, Democratic lawmakers in Michigan laid out the consequences if the Trump administration’s plans to defund the U.S.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Michigan lawmakers decry Trump moves against education department Michigan Advance | February 17, 2025 For the second time in a week, Democratic lawmakers in Michigan laid out the consequences if the Trump administration’s plans to defund the U.S.
 Department of Education are allowed to proceed.
 On Friday, state Sen.
 Mallory McMorrow (D-Royal Oak), and state Reps.
 Kelly Breen (D-Novi) and state Rep.
 Matt Koleszar (D-Plymouth), held a news conference at the Sheet Metal Workers Local 80 union hall in Southfield to generally condemn the administration’s actions with the department as well as specifically criticize Linda McMahon, President Donald Trump’s nominee to be education secretary.
+Read More > Kelly Breen February 17, 2025 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Victim-focused human trafficking bills back before Michigan Legislature after dying in lame duck Kelly Breen January 21, 2026 Next Court funding legislation on its way to Governor Whitmer Kelly Breen May 10, 2024 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

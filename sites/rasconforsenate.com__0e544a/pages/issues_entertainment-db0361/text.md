@@ -1,5 +1,4 @@
-Small Businesses and the Entertainment Industry
-California, and Los Angeles in particular, has long been the epicenter of global entertainment but today our legacy is at risk.
+Skip navigation menu About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate About Endorsements Priorities What Voters Need To Know News Media Events Get Involved Canvass Donate Advancing Environmental and Social Justice Ensuring Housing Access and Affordability Workforce Development and Career Pathways Children and Family Welfare Small Businesses and the Entertainment Industry Health Care Immigration Corporate Accountability Gun Safety Small Businesses and the Entertainment Industry California, and Los Angeles in particular, has long been the epicenter of global entertainment but today our legacy is at risk.
 Over the past five years, film production in Los Angeles has plummeted by 30%, with 2024 marking one of the lowest production years since the pandemic.
 This issue is personal for me—my husband is a proud artist who relies on a thriving entertainment industry, just like many of our local small businesses.
 I will be a fierce advocate for strengthening our creative economy and keeping those jobs in Los Angeles.
@@ -11,3 +10,6 @@ To secure California’s creative future, we must modernize our approach as the 
 Hollywood today is more than traditional film and television—it includes digital content, live experiences, gaming, and a highly technical workforce.
 What it means to work in entertainment includes many definitions, and our policies must evolve to reflect this new reality.
 That means expanding and updating our tax credit programs, streamlining permitting, and investing in training programs that reflect the industry's future.
+Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E.
+Ocean Blvd., Ste.
+814, Long Beach, CA 90802 You need to enable JavaScript to run this app.

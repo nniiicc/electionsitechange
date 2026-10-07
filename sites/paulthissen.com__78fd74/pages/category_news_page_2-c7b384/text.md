@@ -1,11 +1,7 @@
-by lftcrtv | Oct 10, 2020 | News
-Read full article here: https://www.mankatofreepress.com/opinion/letters_to_the_editor/justice-thissen-serves-with-integrity-thoughtfulness/article_1e5b7e76-073e-11eb-a90e-1799c28ea2ce.html
-by lftcrtv | Oct 6, 2020 | News
-Read Full Article: https://www.duluthnewstribune.com/opinion/columns/6691182-Minnesota-Supreme-Court-Incumbents-View-Return-sound-judgment-valuable-experience-to-the-court
-by lftcrtv | Sep 28, 2020 | News
-Read here: Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme...
-by lftcrtv | Sep 24, 2020 | News
-In these uncertain times, Minnesotans are looking for fairness, stability, basic justice and common sense from the courts.
+Home About Paul News Social Media Feed Social Share FAQs Join Contribute Select Page Justice Thissen serves with integrity, thoughtfulness by lftcrtv | Oct 10, 2020 | News Read full article here: https://www.mankatofreepress.com/opinion/letters_to_the_editor/justice-thissen-serves-with-integrity-thoughtfulness/article_1e5b7e76-073e-11eb-a90e-1799c28ea2ce.html October 3rd | Cafe Libre | Paul Thissen | Minnesota Supreme Court by lftcrtv | Oct 6, 2020 | News Minnesota Supreme Court Incumbent’s View: Return sound judgment, valuable experience to the court by lftcrtv | Oct 6, 2020 | News Read Full Article: https://www.duluthnewstribune.com/opinion/columns/6691182-Minnesota-Supreme-Court-Incumbents-View-Return-sound-judgment-valuable-experience-to-the-court Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme Court by lftcrtv | Sep 28, 2020 | News Read here: Why Paul Thissen isn’t waging a normal campaign for Minnesota Supreme...
+State Constitution by lftcrtv | Sep 24, 2020 | News In these uncertain times, Minnesotans are looking for fairness, stability, basic justice and common sense from the courts.
 With all the heated rhetoric about the United States Supreme Court, we can take comfort as Minnesotans that our state founders adopted an...
-by lftcrtv | Sep 24, 2020 | News
-Read here: https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court
+Reader Opinion: Thissen for supreme court by lftcrtv | Sep 24, 2020 | News Read here: https://www.brainerddispatch.com/opinion/letters/6671171-Reader-Opinion-Thissen-for-supreme-court « Older Entries Next Entries » Search for: Recent Posts Don’t forget the Minnesota Supreme Court race on the back of the ballot.
+Here’s who’s running.
+KAXE: Meet Supreme Court Justice Paul Thissen Running For His First Election After Appointment in 2018 KMRS/KKOK: COMMUNITY CONNECTION WITH ASSOCIATE JUSTICE PAUL THISSEN StarTribune: Elect Paul Thissen in Minnesota’s only statewide judicial race.
+Justice Thissen Endorsement Letter Recent Comments Archives October 2020 September 2020 July 2020 June 2020 Categories Events News Meta Log in Entries feed Comments feed WordPress.org Privacy Policy

@@ -1,5 +1,4 @@
-A Southern Illinois Voice with a Purpose
-Chip Markel is a lifelong resident of Southern Illinois and a military veteran.
+Home Meet Chip Issues Get Involved Chip’s Plan Newsroom / Press Donate Meet Chip Markel Home Meet Chip Markel Home Meet Chip Issues Get Involved Chip’s Plan Newsroom / Press Donate A Southern Illinois Voice with a Purpose Chip Markel is a lifelong resident of Southern Illinois and a military veteran.
 He served in the United States Navy receiving an honorable discharge in 1982.
 Chip is proud to have received a letter of commendation from the Command Carrier Strike Force SEVENTH Fleet/Commander Carrier Group Five Rear Admiral for outstanding performance during an Operational Propulsion Plant Recertification Examination for professionalism and outstanding devotion to duty during the exam.
 In 1985, Chip began a 27 year career with the Illinois Department of Corrections.
@@ -21,3 +20,5 @@ This campaign isn’t about politics.
 It’s about people—our families, our future, and our shared home in Southern Illinois.
 Join Chip in this fight.
 Because together, we can bring common sense—and real solutions—back to Springfield.
+Campaign HQ Address 856 Cardinal Road Carbondale, IL 62901 Contact Information Phone: (123) 456-78-90 Email: [email protected] > © # Chip Markel for State Rep.
+All Rights Reserved. – Paid for by “Friends for Chip Markel”.

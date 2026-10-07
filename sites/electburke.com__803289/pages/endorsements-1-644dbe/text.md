@@ -1,24 +1,5 @@
-WHO’S BACKING BURKE?
-2026 ENDORSEMENTS
-U.A.
-Plumbers & Steamfitters Local 22
-Communications Workers of America AFL-CIO Local 1122
-Lackawanna Fire PAC
-Police Benevolent Association of New York State
-Erie County Democratic Committee
-Sierra Club
-Plasterers & Cement Masons Union
-Ironworkers Local Union No. 6
-American Federation of State, County, and Municipal Employees, Council 35
-WNY CAP Council UAW Region 9
-CSEA Local 1000
-AFL-CIO
-New york State Teachers Union
-New York State Public Employees Federation AFL-CIO
-United Brotherhood of Carpenters and Joiners of America
-New York State Troopers
-United Steelworkers
-Amalgamated Transit Union Local 1342
-International Brotherhood of Electrical Workers Local 41
-International Union of Operating Engineers Local 17
-Buffalo Professional Firefighters
+0 Skip to Content BURKE FOR ASSEMBLY 2026 HOME CONTACT US JOIN TEAM BURKE LAWN SIGN REQUEST INSTAGRAM FACEBOOK 2026 ENDORSEMENTS DONATE Open Menu Close Menu BURKE FOR ASSEMBLY 2026 HOME CONTACT US JOIN TEAM BURKE LAWN SIGN REQUEST INSTAGRAM FACEBOOK 2026 ENDORSEMENTS DONATE Open Menu Close Menu HOME Folder: CONTACT US Back JOIN TEAM BURKE LAWN SIGN REQUEST INSTAGRAM FACEBOOK 2026 ENDORSEMENTS DONATE WHO’S BACKING BURKE?
+2026 ENDORSEMENTS International Union of Painters and Allied Trades of America and Canada, AFL-CIO-CLC District Council #4 U.A.
+Plumbers & Steamfitters Local 22 Communications Workers of America AFL-CIO Local 1122 Lackawanna Fire PAC Police Benevolent Association of New York State Erie County Democratic Committee Sierra Club Plasterers & Cement Masons Union Ironworkers Local Union No.
+6 American Federation of State, County, and Municipal Employees, Council 35 WNY CAP Council UAW Region 9 CSEA Local 1000 AFL-CIO New york State Teachers Union New York State Public Employees Federation AFL-CIO United Brotherhood of Carpenters and Joiners of America New York State Troopers United Steelworkers Amalgamated Transit Union Local 1342 International Brotherhood of Electrical Workers Local 41 International Union of Operating Engineers Local 17 Buffalo Professional Firefighters Return to Home Page Home Please make checks payable to: Burke for Assembly P.O.
+Box 1202 Buffalo New York 14220 Contact Information Campaign Number: (716) 249-0522 Campaign E-mail: info@electburke.com © # Burke for Assembly, Paid for by Burke for Assembly

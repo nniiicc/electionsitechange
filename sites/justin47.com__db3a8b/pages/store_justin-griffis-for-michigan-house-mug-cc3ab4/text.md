@@ -1,21 +1,8 @@
-$12.33
-Morning coffee tastes steadier when the world feels familiar.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis for Michigan House Mug $12.33 Morning coffee tastes steadier when the world feels familiar.
 This glossy ceramic mug carries a bold, hometown message with a clean Michigan outline and confident red typography — a quiet declaration on your desk, kitchen counter, or campaign table.
 The smooth C-handle sits comfortably in hand while the vibrant print resists fading, so every sip keeps the design vivid.
 Choose 11oz for a compact daily cup or 15oz when you need an extra pour.
 Lead- and BPA-free materials and dishwasher- and microwave-safe construction mean you can use it often without worry.
 It settles into routines — early strategy sessions, neighborhood meetups, or slow weekend mornings — adding a touch of local pride to each moment.
-Product features
-- Microwave-safe for quick reheats
-- Dishwasher-safe for easy cleaning
-- Vibrant, long-lasting color printing
-- Glossy white ceramic with comfortable C-handle
-- Available in 11oz and 15oz sizes; lead- and BPA-free
-Care instructions
-- Clean in dishwasher or wash by hand with warm water and dish soap
-Product features
-- Microwave-safe for quick reheats
-- Dishwasher-safe for easy cleaning
-- Vibrant, long-lasting color printing
-- Glossy white ceramic with comfortable C-handle
-Care instructions
+Product features - Microwave-safe for quick reheats - Dishwasher-safe for easy cleaning - Vibrant, long-lasting color printing - Glossy white ceramic with comfortable C-handle - Available in 11oz and 15oz sizes; lead- and BPA-free Care instructions - Clean in dishwasher or wash by hand with warm water and dish soap Option * 11oz — $12.33 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

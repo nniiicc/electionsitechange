@@ -1,5 +1,4 @@
-Governor Gaslights Us to Protect Predatory Republican Budgeting
-Looks like Brad Little brought something back from his trip to Washington, D.C. last week: tips on how to distort the truth while keeping a straight face.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Governor Gaslights Us to Protect Predatory Republican Budgeting Feb 5 Written By Elle Casner Looks like Brad Little brought something back from his trip to Washington, D.C. last week: tips on how to distort the truth while keeping a straight face.
 On his Facebook page, he’s crowing about a “structurally balanced budget” that has slashed $155 million to accommodate President Trump’s tax grift for his fellow billionaires, and family.
 Little doubles down, saying he’ll “protect” public education, and public safety, and infrastructure.
 What?
@@ -14,9 +13,8 @@ Oh, and that’s on top of $450 million in cuts last year that Republicans can�
 I am not going to get into the weeds here.
 Frankly “the weeds” are where all the snakes hide.
 But there’s no way Idaho absorbs all these cuts without slashing health care, infrastructure, public safety and public education.
-Next year, by the way, is when you will hear the Republican chorus about “living within our means” and “making hard choices” and lots of nonsense about “bootstraps.”
-To be clear, these severe cuts do NOT harm everybody.
-These cuts only harm regular Idahoans working one or two jobs trying to make decent lives for their families.
+Next year, by the way, is when you will hear the Republican chorus about “living within our means” and “making hard choices” and lots of nonsense about “bootstraps.” To be clear, these severe cuts do NOT harm everybody.
+These cuts only harm regular Idahoans working one or two jobs trying to make decent lives for their families .
 These cuts do not hurt wealthy folks–like billionaires, lobbyists, and grifters.
 By the way, I think it’s a good idea to cut taxes on tips, seniors, and overtime.
 I’d like to see those cuts potentially offset by reconsidering the ones that only benefited the wealthy.
@@ -30,3 +28,7 @@ But I want Idaho to know that if I were governor, right now, I wouldn’t be lyi
 I would not be cutting more.
 I would also revisit last year’s corrupt tax gifts for the rich.
 And I wouldn’t lie about protecting public education when I knew damn well that bad Republican decisions mean that Idaho will make the cuts next year–after the election.
+Donate Elle Casner Previous Previous Please contact U.S.
+Sens.
+Risch and Crapo to tell them to vote NO on the Save Act.
+Next Next Stop Trump and His Confederacy of Cruelty TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

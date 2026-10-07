@@ -1,18 +1,11 @@
-| FOR IMMEDIATE RELEASE |
-| info@ronformnag.com |
-OCTOBER 7, 2025
-Acclaimed Minnesota Lawyer Ron Schutz Launches Campaign for Attorney General
-Minnesotans deserve better – it’s time to get tough on crime, root out fraud, and restore integrity to the Attorney General’s office
-MINNEAPOLIS -- Ron Schutz, one of Minnesota’s most respected lawyers and a nationally recognized leader in the legal field, announced his candidacy for Attorney General on Tuesday.
-Schutz, a veteran and longtime community leader, said he is entering the race because Minnesotans deserve an Attorney General who will “protect citizens, defend their rights, and restore integrity to the state’s top law office.”
-“Minnesotans deserve better,” Schutz said.
+Home Meet Priorities Accomplishments Fact or Fiction News Contact Take Action DONATE TODAY FOR IMMEDIATE RELEASE info@ronformnag.com OCTOBER 7, 2025 Acclaimed Minnesota Lawyer Ron Schutz Launches Campaign for Attorney General Minnesotans deserve better – it’s time to get tough on crime, root out fraud, and restore integrity to the Attorney General’s office MINNEAPOLIS -- Ron Schutz, one of Minnesota’s most respected lawyers and a nationally recognized leader in the legal field, announced his candidacy for Attorney General on Tuesday.
+Schutz, a veteran and longtime community leader, said he is entering the race because Minnesotans deserve an Attorney General who will “protect citizens, defend their rights, and restore integrity to the state’s top law office.” “Minnesotans deserve better,” Schutz said.
 “Our state has been harmed by leaders who are soft on crime, who have allowed a culture of fraud to infect state government, and who have demonized our law enforcement officers.
 Under Keith Ellison’s watch, violent crime has surged, billions in taxpayer money have been lost, and once-vibrant cities are becoming ghost towns.
 Meanwhile, ‘Defund the Police’ Democrats side with criminals instead of law-abiding citizens.
 The time for real leadership is now.
 I will be tough on crime, aggressively pursue fraud, return stolen tax dollars to the people of Minnesota, and ensure fairness in women’s and girls’ sports.
-That’s why I’m running.”
-Schutz is currently a partner and the immediate past Chairman of Robins Kaplan LLP, a national litigation firm headquartered in Minnesota.
+That’s why I’m running.” Schutz is currently a partner and the immediate past Chairman of Robins Kaplan LLP, a national litigation firm headquartered in Minnesota.
 Schutz brings a unique combination of courtroom success, military service, and civic leadership to his campaign.
 A former U.S.
 Army JAG Corps Captain, he tried 20 felony jury trials during his service.
@@ -27,4 +20,6 @@ A graduate of Marquette University (magna cum laude, mechanical engineering) and
 Schutz and his wife, Janet – his high school sweetheart – have three adult children.
 An avid outdoorsman and endurance athlete, he has completed marathons, triathlons, and climbing expeditions on mountains from Kilimanjaro to the Italian Alps.
 “In every chapter of my life – as a soldier, as a lawyer, as a community leader, and as a husband and father – I have fought for fairness, accountability, and justice,” Schutz said.
-“Now I’m ready to fight for the people of Minnesota as their Attorney General.”
+“Now I’m ready to fight for the people of Minnesota as their Attorney General.” ### www.ronformnag.com Ron for MN AG 216 Myrtle St W P.O.
+Box 132 ﻿Stillwater, MN 55082-4830 Email info@RonForMNAG.com Press info@RonForMNAG.comPress Kit Join Us Priorities Meet Ron Contact Us News, Media & Press Kit Take Action Our App Accomplishments Copyright ©# | Privacy Policy Prepared and Paid for by Ron for MN AG ﻿P.O.
+Box 132, Stillwater, MN 55082-4830

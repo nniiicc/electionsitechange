@@ -1,6 +1,4 @@
-Meet
-Mark Benjamin
-Mark Benjamin is a husband, father, coach, former dishwasher, and small business owner who knows the value of hard work.
+0 Skip to Content Meet Mark Issues Events Lawn Signs Get Involved DONATE Open Menu Close Menu Meet Mark Issues Events Lawn Signs Get Involved DONATE Open Menu Close Menu Meet Mark Issues Events Lawn Signs Get Involved DONATE Meet Mark Benjamin Mark Benjamin is a husband, father, coach, former dishwasher, and small business owner who knows the value of hard work.
 Mark Benjamin is a Conservative Republican, prior small business owner, and longtime community volunteer running for the 131st Assembly District seeking to represent the voters of Ontario, Seneca, Cayuga, Cortland, Madison, Broome, and Chenango counties in the New York State Assembly.
 He has called Seneca County home for over two decades, where he has built his life around hard work, family, and giving back.
 His career reflects a firm commitment to upstate New York.
@@ -21,3 +19,5 @@ Together, they’ve built a life rooted in opportunity, perseverance, and commun
 Their son, Henrey, is a junior at Waterloo High School, where he’s a member of the National Honor Society and student-athlete.
 Mark is running to bring a common-sense perspective to Albany.
 He is focused on reducing costs for families, supporting small businesses, and giving our rural communities a voice.
+DONATE Media Contact Privacy Policy Mark Benjamin for Assembly P.O.
+Box 25 Waterloo, NY 13165 Info@mark4assembly.com ©# All Rights Reserved PAID FOR BY FRIENDS OF MARK BENJAMIN

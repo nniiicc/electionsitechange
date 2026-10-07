@@ -1,14 +1,54 @@
 [
-"http://facebook.com/wix",
-"https://blundell4indiana.com/",
-"https://blundell4indiana.com/accessibility-statement",
-"https://blundell4indiana.com/endorsements",
-"https://blundell4indiana.com/get-involved",
-"https://blundell4indiana.com/meet-kacey",
-"https://blundell4indiana.com/platform",
-"https://blundell4indiana.com/privacy-policy",
-"https://blundell4indiana.com/terms-and-conditions",
-"https://secure.actblue.com/donate/blundell4indiana",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site",
-"https://wix.com/"
+{
+"text": "Accessibility Statement",
+"href": "https://www.blundell4indiana.com/accessibility-statement"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/blundell4indiana"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.blundell4indiana.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.blundell4indiana.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.blundell4indiana.com"
+},
+{
+"text": "KACEY BLUNDELL",
+"href": "https://www.blundell4indiana.com"
+},
+{
+"text": "MEET KACEY",
+"href": "https://www.blundell4indiana.com/meet-kacey"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.blundell4indiana.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.blundell4indiana.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.blundell4indiana.com/terms-and-conditions"
+},
+{
+"text": "Wix",
+"href": "https://wix.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/wix"
+},
+{
+"text": "“Accessibility: Adding an Accessibility Statement to Your Site”.",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+}
 ]

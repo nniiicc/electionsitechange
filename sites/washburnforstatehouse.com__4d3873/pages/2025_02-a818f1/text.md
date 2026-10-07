@@ -1,16 +1,11 @@
-by Dale Washburn | Feb 28, 2025 | News
-The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
+888.888.8888 name@email.com Facebook Instagram Facebook Instagram MEET DALE PRIORITIES Public Office NEWS Contact Sign Up for Capitol Updates Select Page Week 7 Legislative Session Recap 2025 by Dale Washburn | Feb 28, 2025 | News The Georgia House of Representatives reconvened at the State Capitol on Monday, February 24th to resume our legislative duties.
 During our seventh week of session, we convened for four legislative days, while Tuesday was set aside for a committee workday.
 While the...
-by Dale Washburn | Feb 24, 2025 | News
-The Georgia House of Representatives began the sixth week of the 2025 legislative session on Tuesday, February 18th after Presidents’ Day on Monday.
+Week 6 Legislative Session Recap 2025 by Dale Washburn | Feb 24, 2025 | News The Georgia House of Representatives began the sixth week of the 2025 legislative session on Tuesday, February 18th after Presidents’ Day on Monday.
 By the end of the week, we reached Legislative Day 21, meaning that we are now more than halfway through the session....
-by Dale Washburn | Feb 14, 2025 | News
-This week, my colleagues and I returned to the Georgia State Capitol on Monday, February 10th to kick off the fifth week of the 2025 legislative session.
+Week 5 Legislative Session Recap 2025 by Dale Washburn | Feb 14, 2025 | News This week, my colleagues and I returned to the Georgia State Capitol on Monday, February 10th to kick off the fifth week of the 2025 legislative session.
 The Georgia House of Representatives has been hard at work, addressing the issues that matter most to you and...
-by Dale Washburn | Feb 7, 2025 | News
-The Georgia House of Representatives returned to the State Capitol on Monday, February 3rd to begin the fourth week of the 2025 legislative session.
+Week 4 Legislative Session Recap 2025 by Dale Washburn | Feb 7, 2025 | News The Georgia House of Representatives returned to the State Capitol on Monday, February 3rd to begin the fourth week of the 2025 legislative session.
 With Monday marking Legislative Day 10, my colleagues and I are now more than a quarter of the way through the 40-day...
-by Dale Washburn | Feb 3, 2025 | News
-This week, members of the Georgia House of Representatives returned to the State Capitol following a winter storm that impacted much of the southern part of the state.
-One of our primary responsibilities this week was to hear from Chief Justice Michael Boggs of the...
+Week 3 Legislative Session Recap 2025 by Dale Washburn | Feb 3, 2025 | News This week, members of the Georgia House of Representatives returned to the State Capitol following a winter storm that impacted much of the southern part of the state.
+One of our primary responsibilities this week was to hear from Chief Justice Michael Boggs of the... « Older Entries Search for: Recent Posts Week 12 Legislative Session Recap 2026 Week 11 Legislative Session Recap 2026 Week 10 Legislative Session Recap 2026 Week 9 Legislative Session Recap 2026 Week 8 Legislative Session Recap 2026 Recent Comments Archives April 2026 March 2026 February 2026 January 2026 April 2025 March 2025 February 2025 January 2025 December 2024 April 2024 March 2024 February 2024 January 2024 April 2023 March 2023 February 2023 January 2023 April 2022 March 2022 February 2022 January 2022 March 2020 February 2020 March 2019 February 2019 January 2019 Categories News Uncategorized Meta Log in Entries feed Comments feed WordPress.org Facebook Instagram © # Dale Washburn for State House | Website by Pipeline Social Media

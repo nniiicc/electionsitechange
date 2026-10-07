@@ -1,28 +1,9 @@
-In the News
-Digital IDs will become available this year for Illinois residents.
+Skip to content Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Volunteer Contribute Home About Alexi’s Priorities News In the News Contact Home About Alexi’s Priorities News In the News Contact Contribute In the News Digital IDs will become available this year for Illinois residents.
 Here’s what to know.
-The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
-Secretary
-Seniors have safe driving records overall, and should be treated that way
-Glance at the next driver you see weaving through expressway traffic at an obscenely — and dangerous — high speed.
-Chances are, the driver is
-Alexi Giannoulias: Competent governance is a good political strategy
-If Democrats are looking for a new political priority, we should consider administrative competence and innovation.
-It’s not very sexy, but in a world of
-Lurie Children’s Hospital celebrates transplant milestone
-CHICAGO — Leadership at Lurie Children’s Hospital of Chicago on Friday celebrated a record number of pediatric transplants performed for families over the course of
-Illinois installs DMV kiosks at 15 grocery stores for license renewals, vehicle stickers
-The Illinois Secretary of State’s office has installed 15 “fast lane” DMV kiosks at grocery stores across the state, so drivers can renew their licenses
-Teen voter registration surges after Illinois’ pre-registration law took effect
-Marking National Teen Voter Registration Day, Illinois Secretary of State Alexi Giannoulias reported that nearly 50,000 16- and 17-year-olds have taken advantage of a new
-New Illinois program urges teens to raise awareness about organ donation
-A new program launched Tuesday, aiming to teach teens about organ donation and encourage them to serve as organ and tissue donation ambassadors.
-The Lifesaving
-Illinois to launch ‘food truck’ DMVs this month, starting in Chicago and several suburbs
-While it won’t be serving any food, a new kind of “food” truck will be dishing out licenses and other driver services in Illinois starting
-Secretary of state brings the DMV to the driver
-Renewing a driver’s license or applying for a Real ID might become a little easier with the rollout of a DMV on wheels.
-The Illinois
-Chicago will be location for state’s first electric-powered mobile DMV, Illinois Secretary of State says
-Illinois Secretary of State Alexi Giannoulias has announced a new mobile unit that will bring the Department of Motor Vehicle’s services to you.
-According to
+January 13, 2025 The Illinois Secretary of State’s office announced Monday that it is working to bring the digital ID feature to residents, beginning with Apple users.
+Secretary Read More » Seniors have safe driving records overall, and should be treated that way January 12, 2025 Glance at the next driver you see weaving through expressway traffic at an obscenely — and dangerous — high speed.
+Chances are, the driver is Read More » Alexi Giannoulias: Competent governance is a good political strategy December 17, 2024 If Democrats are looking for a new political priority, we should consider administrative competence and innovation.
+It’s not very sexy, but in a world of Read More » Lurie Children’s Hospital celebrates transplant milestone October 18, 2024 CHICAGO — Leadership at Lurie Children’s Hospital of Chicago on Friday celebrated a record number of pediatric transplants performed for families over the course of Read More » Illinois installs DMV kiosks at 15 grocery stores for license renewals, vehicle stickers October 17, 2024 The Illinois Secretary of State’s office has installed 15 “fast lane” DMV kiosks at grocery stores across the state, so drivers can renew their licenses Read More » Teen voter registration surges after Illinois’ pre-registration law took effect September 11, 2024 Marking National Teen Voter Registration Day, Illinois Secretary of State Alexi Giannoulias reported that nearly 50,000 16- and 17-year-olds have taken advantage of a new Read More » New Illinois program urges teens to raise awareness about organ donation September 3, 2024 A new program launched Tuesday, aiming to teach teens about organ donation and encourage them to serve as organ and tissue donation ambassadors.
+The Lifesaving Read More » Illinois to launch ‘food truck’ DMVs this month, starting in Chicago and several suburbs June 14, 2024 While it won’t be serving any food, a new kind of “food” truck will be dishing out licenses and other driver services in Illinois starting Read More » Secretary of state brings the DMV to the driver June 12, 2024 Renewing a driver’s license or applying for a Real ID might become a little easier with the rollout of a DMV on wheels.
+The Illinois Read More » Chicago will be location for state’s first electric-powered mobile DMV, Illinois Secretary of State says June 12, 2024 Illinois Secretary of State Alexi Giannoulias has announced a new mobile unit that will bring the Department of Motor Vehicle’s services to you.
+According to Read More » Page 1 Page 2 Page 3 Page 4 Page 5 Videos Press Releases Endorsements Facebook Twitter Instagram Youtube About News Contact Contribute About News Contact Contribute Terms of Use Privacy Policy Terms of Use Privacy Policy Paid for by Citizens for Giannoulias

@@ -1,18 +1,3 @@
-See Who’s Supporting Luis Salazar’s Campaign
-Thank you to all of the organizations and individuals endorsing my campaign for Florida State House Representative, District 64
-We Stand with Luis
-Senator Brian Nathan
-State Representative Mitch Rosenwald (HD-98)
-Senator Carlos Guillermo Smith
-Representative Johanna López
-Florida Education Association
-Engage Y’all
-Ironworkers Local 397
-The Hillsborough Society
-Florida Jewish Democrats (Hillsborough County)
-West Central Florida Labor Council (AFL-CIO)
-International Brotherhood of Electrical Workers (Local 915)
-The American Federation of Labor and Congress of Industrial Organizations
-Equality Florida
-Would you like to join these noble organizations and individuals in supporting Luis’ fight for Florida’s future?
+Skip to content Luis Salazar for Florida State House Representative About Policy Donate Volunteer Events Endorsements Instagram Facebook Bluesky Endorsements See Who’s Supporting Luis Salazar’s Campaign Thank you to all of the organizations and individuals endorsing my campaign for Florida State House Representative, District 64 We Stand with Luis Senator Brian Nathan Find out more… State Representative Mitch Rosenwald (HD-98) Find out More… Senator Carlos Guillermo Smith Find out more… Representative Johanna López Find out More… Florida Education Association Find out More… Engage Y’all Find out more… Ironworkers Local 397 Find out More… The Hillsborough Society Find out more… Florida Jewish Democrats (Hillsborough County) Find out More… West Central Florida Labor Council (AFL-CIO) Find out more… International Brotherhood of Electrical Workers (Local 915) Find out More… The American Federation of Labor and Congress of Industrial Organizations Find out more… Equality Florida Find out More… Would you like to join these noble organizations and individuals in supporting Luis’ fight for Florida’s future?
 Click the link below to get started.
+Endorse Today ENDORSE LUIS SALAZAR Instagram Facebook Bluesky

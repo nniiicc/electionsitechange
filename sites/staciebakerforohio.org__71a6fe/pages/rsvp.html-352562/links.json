@@ -1,6 +1,30 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/",
-"https://staciebakerforohio.org/privacy.html",
-"https://staciebakerforohio.org/terms.html"
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "Back to the campaign homepage",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.staciebakerforohio.org/privacy.html"
+},
+{
+"text": "Stacie Baker for Ohio Senate",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.staciebakerforohio.org/terms.html"
+},
+{
+"text": "← Back to Campaign Site",
+"href": "https://www.staciebakerforohio.org/"
+},
+{
+"text": "← Back to Event",
+"href": "https://www.staciebakerforohio.org/#event"
+}
 ]

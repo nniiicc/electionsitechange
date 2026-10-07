@@ -1,9 +1,13 @@
 {
  "description": "Join us at one of our next events.",
  "final_url": "https://www.ronnieglynnforstaterep.com/events",
- "paid_for_by": null,
- "title": "Campaign Events \u2014 Ronnie Glynn for State Rep",
+ "fingerprint": "a710ee9ef985ac851ce20d48e2c6b27cb4fe59c2",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Campaign Events — Ronnie Glynn for State Rep",
  "years_mentioned": [
+  "2022",
+  "2024",
   "2026"
  ]
 }

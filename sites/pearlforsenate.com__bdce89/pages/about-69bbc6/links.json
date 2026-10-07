@@ -1,11 +1,42 @@
 [
-"https://facebook.com/howardpearlsenate",
-"https://pearlforsenate.com/",
-"https://pearlforsenate.com/about",
-"https://pearlforsenate.com/contact",
-"https://pearlforsenate.com/issues",
-"https://pearlforsenate.com/privacy",
-"https://secure.winred.com/friends-of-howard-pearl/donate-today",
-"https://secure.winred.com/friends-of-howard-pearl/donate-today?exitintent=true",
-"https://twitter.com/HowardPearlNH"
+{
+"text": "About",
+"href": "https://www.pearlforsenate.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.pearlforsenate.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-howard-pearl/donate-today"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-howard-pearl/donate-today?exitintent=true"
+},
+{
+"text": "Home",
+"href": "https://www.pearlforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.pearlforsenate.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.pearlforsenate.com/privacy/"
+},
+{
+"text": "[image: Howard Pearl for State Senate]",
+"href": "https://www.pearlforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/HowardPearlNH"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/howardpearlsenate/"
+}
 ]

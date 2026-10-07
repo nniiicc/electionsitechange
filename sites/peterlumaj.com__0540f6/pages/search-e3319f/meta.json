@@ -1,7 +1,9 @@
 {
  "description": "Search for news, events, issues, and more from Peter Lumaj's campaign.",
  "final_url": "https://peterlumaj.com/search",
- "paid_for_by": null,
+ "fingerprint": "2cfccb1ae73d099c3deabf1c4e51b800e9ffa411",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Search - Peter Lumaj Campaign | Peter Lumaj | Secretary of the State",
  "years_mentioned": []
 }

@@ -1,5 +1,1 @@
-Sat, Jul 18
-Walker Gym
-Booth featuring FREE Children's Activity and the opportunity to Meet the Candidate
-Jul 18, 2026, 3:00 PM – 5:00 PM
-Walker Gym, 824 N Oakum St, Edenton, NC 27932, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Sno Day - Let's Celebrate Sat, Jul 18 | Walker Gym Booth featuring FREE Children's Activity and the opportunity to Meet the Candidate Time & Location Jul 18, 2026, 3:00 PM – 5:00 PM Walker Gym, 824 N Oakum St, Edenton, NC 27932, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

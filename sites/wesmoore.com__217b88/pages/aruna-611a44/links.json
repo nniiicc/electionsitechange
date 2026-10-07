@@ -1,26 +1,134 @@
 [
-"https://apolloartistry.com/",
-"https://secure.actblue.com/donate/wes-web",
-"https://secure.actblue.com/donate/wes-web?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/wes-web?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/wes-web?amount=250&express_lane=true",
-"https://secure.actblue.com/donate/wes-web?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/wes-web?amount=500&express_lane=true",
-"https://support.wesmoore.com/a/volunteer",
-"https://wesmoore.com/",
-"https://wesmoore.com/about",
-"https://wesmoore.com/accessibility",
-"https://wesmoore.com/accomplishments",
-"https://wesmoore.com/aruna",
-"https://wesmoore.com/bluesky",
-"https://wesmoore.com/cdn-cgi/l/email-protection",
-"https://wesmoore.com/facebook",
-"https://wesmoore.com/instagram",
-"https://wesmoore.com/news",
-"https://wesmoore.com/privacy-policy",
-"https://wesmoore.com/shop",
-"https://wesmoore.com/twitter",
-"https://wesmoore.com/volunteer",
-"https://wesmoore.com/work-with-us",
-"https://wesmoore.com/youtube"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/wes-web?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/wes-web?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/wes-web?amount=250&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/wes-web?amount=50&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/wes-web?amount=500&express_lane=true"
+},
+{
+"text": "About",
+"href": "https://wesmoore.com/about"
+},
+{
+"text": "Accessibility",
+"href": "https://wesmoore.com/accessibility"
+},
+{
+"text": "Accomplishments",
+"href": "https://wesmoore.com/accomplishments"
+},
+{
+"text": "Accomplishments",
+"href": "https://wesmoore.com/accomplishments/"
+},
+{
+"text": "Chip in $25 to Re-Elect Wes Moore Chip in $25 to Re-Elect Wes Moore",
+"href": "https://secure.actblue.com/donate/wes-web?amount=25&express_lane=true"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@wesmoore.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/wes-web"
+},
+{
+"text": "Donate Donate",
+"href": "https://secure.actblue.com/donate/wes-web"
+},
+{
+"text": "Donate OTHER Donate OTHER",
+"href": "https://secure.actblue.com/donate/wes-web"
+},
+{
+"text": "Facebook",
+"href": "https://wesmoore.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://wesmoore.com"
+},
+{
+"text": "Instagram",
+"href": "https://wesmoore.com/instagram"
+},
+{
+"text": "Meet Aruna",
+"href": "https://wesmoore.com/aruna/"
+},
+{
+"text": "Meet Wes",
+"href": "https://wesmoore.com/about/"
+},
+{
+"text": "News",
+"href": "https://wesmoore.com/news"
+},
+{
+"text": "News",
+"href": "https://wesmoore.com/news/"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Notice",
+"href": "https://wesmoore.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wesmoore.com/privacy-policy"
+},
+{
+"text": "Shop",
+"href": "https://wesmoore.com/shop"
+},
+{
+"text": "Volunteer",
+"href": "https://support.wesmoore.com/a/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://wesmoore.com/volunteer"
+},
+{
+"text": "Work With us",
+"href": "https://wesmoore.com/work-with-us"
+},
+{
+"text": "Youtube",
+"href": "https://wesmoore.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@wesmoore.com"
+},
+{
+"text": "[image]",
+"href": "https://wesmoore.com"
+},
+{
+"text": "[no text]",
+"href": "https://wesmoore.com/bluesky"
+},
+{
+"text": "[no text]",
+"href": "https://wesmoore.com/twitter"
+}
 ]

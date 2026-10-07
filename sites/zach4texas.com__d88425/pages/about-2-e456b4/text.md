@@ -1,4 +1,4 @@
-Zach has lived in District 112 for over a decade with his wife of 20 years and his four children.
+Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Home About Issues Education Workers Rights Economic Opportunity Healthcare Access FAQ Endorsements Donate Events Voting Get Involved/Contact Zach has lived in District 112 for over a decade with his wife of 20 years and his four children.
 He is a business owner and active in his local chamber of commerce.
 Zach grew up in Dallas and East Texas, majored in Theology and Business Administration at Southern Nazarene University, and graduated from Pepperdine University School of Law in 2009.
 After passing the Texas Bar, he joined the Marine Corps and became a Judge Advocate, or military lawyer.
@@ -11,3 +11,5 @@ The Richardson Chamber of Commerce recognized his firm as the Member Company of 
 At home, Zach makes it a point to never be too serious, believing that laughter and playfulness are key ingredients in family life.
 He truly values the moments he spends with each of his kids, often engaging in activities that allow him to connect with them on their level.
 When the day winds down, you might find Zach and his family snuggled up on the couch for family movie night.
+Donate Now 2600 N Central Expy, Suite 200, Richardson, TX 75080 214-414-3808 Paid Political Advertisement, Zach Herbert for Texas Campaign Zach Herbert is a former member of the United States Marine Corps.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Marine Corps, the Department of Defense or any branch of U.S. government.

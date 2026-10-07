@@ -1,6 +1,4 @@
-Protecting our Children
-Critical Race Theory, Gender Identity , Sexual Orientation, and Social Justice Indoctrination of our children in schools
-I am a strong advocate for transparency in our K-12 education system, and believe parents have the right to know what is being taught to their kids.
+0 Skip to Content GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM DONATE Open Menu Close Menu Open Menu Close Menu DONATE GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM GALLERY A BETTER WAY ABOUT ME MY HISTORY IN KANSAS POLICIES ENDORSEMENTS EVENT GALLERY EVENT CALENDAR CAMPAIGN VISIT YARD SIGN REQUEST FORM DONATE Protecting our Children Critical Race Theory, Gender Identity , Sexual Orientation, and Social Justice Indoctrination of our children in schools I am a strong advocate for transparency in our K-12 education system, and believe parents have the right to know what is being taught to their kids.
 Moreover, school administrators have an obligation to be transparent with parents regarding course content and course curriculum in K-12 public schools.
 In 2022, Governor Kelly vetoed legislation that would establish a “parent’s bill of rights” that would give parents more access to the content and curriculum in the K-12 classroom.
 In essence, greater transparency of what is being taught to our children, and access to these materials.
@@ -12,3 +10,9 @@ Parents have the right to know and approve/disapprove if these topics are part o
 Parent’s rights supersede school administration rights!
 We need to allow kids to be kids, and not force-feed these social engineering topics on students K-12.
 Schools should focus on Mathematics, Science, Languages, History, Technology and those topics that will enable our children to compete as adults later in life!
+Get in touch with us!
+P.O.
+Box 92 Lansing, KS 66043 Buehler4Kansas - Home | Facebook David.Buehler@Buehler4kansas.com Disclaimer: David Buehler served in the U.S.
+Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply an endorsement by the Department of the Navy or the Department of Defense.
+Paid for by Buehler4Kansas, Hitomi Morford, Treasurer

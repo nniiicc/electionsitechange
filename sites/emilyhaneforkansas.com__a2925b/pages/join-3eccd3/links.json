@@ -1,11 +1,42 @@
 [
-"http://eepurl.com/PELt8ykl7R",
-"https://docs.google.com/forms/d/e/1FAIpQLScJGCoZjGZsEYKjBOMWaI-2Cups-208kDnfPsU2QhTAmSVP8w/viewform?usp=publish-editor",
-"https://emilyhaneforkansas.com/",
-"https://emilyhaneforkansas.com/about",
-"https://emilyhaneforkansas.com/join",
-"https://emilyhaneforkansas.com/priorities",
-"https://facebook.com/profile.php?id=61590706384990",
-"https://kansasvoterinfo.gov/VoterView",
-"https://secure.actblue.com/donate/emily-hane-1"
+{
+"text": "About",
+"href": "https://www.emilyhaneforkansas.com/about"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/emily-hane-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-hane-1"
+},
+{
+"text": "Home",
+"href": "https://www.emilyhaneforkansas.com"
+},
+{
+"text": "Join",
+"href": "https://www.emilyhaneforkansas.com/join"
+},
+{
+"text": "Priorities",
+"href": "https://www.emilyhaneforkansas.com/priorities"
+},
+{
+"text": "Stay in Touch",
+"href": "http://eepurl.com/PELt8ykl7R"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScJGCoZjGZsEYKjBOMWaI-2Cups-208kDnfPsU2QhTAmSVP8w/viewform?usp=publish-editor"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590706384990"
+},
+{
+"text": "check that you are registered to vote",
+"href": "https://kansasvoterinfo.gov/VoterView"
+}
 ]

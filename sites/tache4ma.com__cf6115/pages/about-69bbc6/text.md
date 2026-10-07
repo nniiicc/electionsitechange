@@ -1,5 +1,4 @@
-MEET JOE TACHE
-Joe Tache is a youth worker, community organizer, and socialist based in Boston.
+0 Skip to Content Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE Open Menu Close Menu Our Program Nuestro Programa Nosso Programa About Joe Acerca de Joe Sobre Joe News Events Merch Album Vote GET INVOLVED PARTICIPA PARTICIPE DONATE MEET JOE TACHE Joe Tache is a youth worker, community organizer, and socialist based in Boston.
 For over ten years, Joe has been part of — and been shaped by — organizations and movements in Massachusetts.
 Joe has worked alongside dedicated activists in movements against worker exploitation, war, police brutality, gentrification, and many other issues.
 He dedicates much of his time to writing and educating about the root cause of these issues: capitalism.
@@ -21,3 +20,5 @@ He has also supported the growth of the PSL and the socialist movement throughou
 During this time, Joe has also organized and taught political education classes on crucial topics such as Black history and the immigrant rights movement, emphasizing the need for us to understand our history so that we can shape our collective future.
 Shaped by a decade of experience in the struggle, Joe Tache is running for U.S.
 Senator in Massachusetts, determined not only to build a successful campaign, but to build a working class party and movement capable of winning the society we all deserve.
+Contact Us Privacy Policy For press inquiries, please contact press@tache4ma.com Press Kit PAID FOR BY JOE TACHE FOR SENATE ©# Joe Tache for Senate.
+All rights reserved.

@@ -1,6 +1,6 @@
-By Shirley Weber
-The San Diego Union Tribune
-We are in a historic and dark moment for the vote in America today.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page [The San Diego Union Tribune] Opinion: Rebuilding trust in our election systems will take hard work.
+I’m ready for that responsibility.
+Feb 21, 2021 By Shirley Weber The San Diego Union Tribune We are in a historic and dark moment for the vote in America today.
 Donald Trump and his allies’ relentless and baseless attacks on our democratic systems have had the intended effect: widespread, toxic mistrust.
 Leading up to Election Day, an October poll by UC Berkeley’s Institute of Governmental Studies found that 40 percent of the likely California voters who were surveyed doubted the election would be conducted fairly.
 That mistrust did not grant Trump a second term.
@@ -29,3 +29,4 @@ My office will also work to improve transparency in our elections, lobbyist regi
 We will also monitor and improve the Secretary of State Office’s cybersecurity policies to ensure our elections are protected.
 It will take time and concerted effort to restore trust in our democratic systems, but I would not have taken the opportunity to become California’s secretary of state if I did not think such restoration is possible.
 California can continue to be a national leader in running inclusive, trustworthy and transparent elections — and our democracy needs a leader now, more than ever.
+Read More Facebook X

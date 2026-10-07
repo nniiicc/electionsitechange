@@ -1,15 +1,11 @@
-Our Priorities
-Empowered by our commander and chief the majority in Harrisburg continues to take aim at women’s reproductive rights, and the environment among other critical issues in an attempt to reverse progress.
+Meet Kristine Endorsements News & Events Get Involved Select Page Our Priorities Empowered by our commander and chief the majority in Harrisburg continues to take aim at women’s reproductive rights, and the environment among other critical issues in an attempt to reverse progress.
 Continue reading below to see where Kristine stands on these and other critical issues.
-Our Priorities
-Empowered by our commander and chief the majority in Harrisburg continues to take aim at women’s reproductive rights, and the environment among other critical issues in an attempt to reverse progress.
+Our Priorities Empowered by our commander and chief the majority in Harrisburg continues to take aim at women’s reproductive rights, and the environment among other critical issues in an attempt to reverse progress.
 Continue reading below to see where Kristine stands on these and other critical issues.
-Access to Affordable Healthcare & Prescription Medication
-Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
+Access to Affordable Healthcare & Prescription Medication Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
 We cannot continue to rely on crowdfunding as a solution to surging healthcare premiums and the rising costs of necessary surgeries, prescriptions, and medical treatments.
 Kristine is committed to working diligently and across party lines to negotiate with insurance lobbyists and big pharma to create affordable healthcare options and reduce the cost of prescription medication.
-Women’s Reproductive Rights & Equal Access to Healthcare
-While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
+Women’s Reproductive Rights & Equal Access to Healthcare While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
 Casey.
 Like many women, Kristine believed that this decision established a woman’s right to choose as a fundamental and immovable right.
 It has been 28 years since Planned Parenthood v.
@@ -17,41 +13,36 @@ Casey, 47 years since Roe v.
 Wade, and yet again she finds herself on the front lines of an ongoing battle to protect a woman’s right to choose.
 When two bills introduced by anti-abortion extremists came to a vote in the legislature, Kristine aggressively opposed them and championed the principles of Roe v.
 Wade and protecting a woman’s access to affordable reproductive healthcare here in Pennsylvania.
-Further Access to Opioid Disaster Relief
-Kristine understands that the hardships of physical sickness, mental illness, and drug addiction do not discriminate.
+Further Access to Opioid Disaster Relief Kristine understands that the hardships of physical sickness, mental illness, and drug addiction do not discriminate.
 Just last year Chester County lost 150 lives, proving that Chester County is not immune.
 In Harrisburg, Kristine actively serves on the Human Services Committee and has voted on multiple occasions to provide greater access to effective treatment options and create opportunities for individuals in recovery to rebuild their lives.
-Protecting the Environment & Our Natural Resources
-Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
+Protecting the Environment & Our Natural Resources Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
 As a mother and grandmother, Kristine knows just how important it is to protect our natural resources for future generations.
 In addition, she is committed to a green energy future that does not rely on carbon-based energy sources and the pipelines needed to transport oil and gas to distant market.
 She believes we need to get to that future in a safe and sustainable manner that includes a just transition for workers.
 Until we get to that future, she strongly supports taxing fracking and making the cost of oil and gas products more reflective of the health and environmental costs related to the extraction, transportation and manufacturing of petrochemicals.
-Access to Affordable Higher Education
-Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
+Access to Affordable Higher Education Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
 At the height of the recession in 2016, the average student loan debt for college graduates in Pennsylvania was the second highest state in the nation.
 Affordable higher education is the key to not only creating a clear pathway for the next generation of Pennsylvanians to achieve financial stability, it is also necessary to maintain our economic prosperity.
 That is why Kristine supports making Pennsylvania’s community colleges and PASHE state universities tuition-free for Pennsylvania families who need help securing higher education for their children.
 She also backs Attorney General Josh Shapiro’s mission to protect Pennsylvania students from predatory lenders and will work to create access to affordable funding options.
-Keeping Students Safe & Funding Our Nation's Future
-Red Flag Laws & Keeping Our Communities Safe
-41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
+Keeping Students Safe & Funding Our Nation's Future Kristine joins many of her constituents in believing an investment in public education is an investment in the future of our economy.
+Many who live in our community have seen the benefit of property values maintained by the quality of our schools here in Chester County.
+Kristine is committed to ensuring Chester County students are afforded every opportunity to receive the highest level of education possible and the state lives up to its constitutional duty to fully fund a public education system that works for everyone.
+Red Flag Laws & Keeping Our Communities Safe 41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
 Still, gun rights legislation continues to be brushed aside.
 Kristine is actively working to bring red flag law legislation to a vote.
 This legislation includes laws that allow authorities to take precautions with individuals whose family members claim they are dangerous or suicidal.
 Additionally, Kristine has proposed three new common sense gun reform laws including making it a crime to possess a firearm while intoxicated, creating a statewide assault weapons buy-back program and implementing penalties for anyone who ignores a private or commercial property owner’s ban on possessing fire arms on their property.
-Creating Transparency & Putting Community First
-During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
+Creating Transparency & Putting Community First During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
 Since her election Kristine has never missed a session day in Harrisburg.
 In the district, she has tackled more than 1400 constituent service inquiries and requests.
 She has held 7 town halls, 3 open houses and organized 5 sessions to effectively inform constituents about Real ID, APPRISE, Victoria’s Law & SEPTA Senior Key Cards.
 Kristine also instituted monthly email updates to bring awareness to the day-to-day battles being waged in Harrisburg and staffed weekly satellite office hours in local libraries because she understands that this job is 24/7 and her constituents come first.
-Access to Affordable Healthcare & Prescription Medication
-Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
+Access to Affordable Healthcare & Prescription Medication Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
 We cannot continue to rely on crowdfunding as a solution to surging healthcare premiums and the rising costs of necessary surgeries, prescriptions, and medical treatments.
 Kristine is committed to working diligently and across party lines to negotiate with insurance lobbyists and big pharma to create affordable healthcare options and reduce the cost of prescription medication.
-Women’s Reproductive Rights & Equal Access to Healthcare
-While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
+Women’s Reproductive Rights & Equal Access to Healthcare While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
 Casey.
 Like many women, Kristine believed that this decision established a woman’s right to choose as a fundamental and immovable right.
 It has been 28 years since Planned Parenthood v.
@@ -59,41 +50,35 @@ Casey, 47 years since Roe v.
 Wade, and yet again she finds herself on the front lines of an ongoing battle to protect a woman’s right to choose.
 When two bills introduced by anti-abortion extremists came to a vote in the legislature, Kristine aggressively opposed them and championed the principles of Roe v.
 Wade and protecting a woman’s access to affordable reproductive healthcare here in Pennsylvania.
-Further Access to Opioid Disaster Relief
-Kristine understands that the hardships of physical sickness, mental illness and drug addiction do not discriminate.
+Further Access to Opioid Disaster Relief Kristine understands that the hardships of physical sickness, mental illness and drug addiction do not discriminate.
 Just last year Chester County lost 150 lives, proving that Chester County is not immune.
-In Harrisburg, Kristine actively serves on the Human Services Committee, and has voted on multiple occasions to provide greater access to effective treatment options and create opportunities for individuals in recovery to rebuild their lives
-Protecting the Environment & Our Natural Resources
-Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
+In Harrisburg, Kristine actively serves on the Human Services Committee, and has voted on multiple occasions to provide greater access to effective treatment options and create opportunities for individuals in recovery to rebuild their lives Protecting the Environment & Our Natural Resources Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
 As a mother and grandmother, Kristine knows just how important it is to protect our natural resources for future generations.
 In addition, she is committed to a green energy future that does not rely on carbon-based energy sources and the pipelines needed to transport oil and gas to distant market.
 She believes we need to get to that future in a safe and sustainable manner that includes a just transition for workers.
 Until we get to that future, she strongly supports taxing fracking and making the cost of oil and gas products more reflective of the health and environmental costs related to the extraction, transportation and manufacturing of petrochemicals.
-Access to Affordable Higher Education
-Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
+Access to Affordable Higher Education Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
 At the height of the recession in 2016, the average student loan debt for college graduates in Pennsylvania was the second highest state in the nation.
 Affordable higher education is the key to not only creating a clear pathway for the next generation of Pennsylvanians to achieve financial stability, it is also necessary to maintain our economic prosperity.
 That is why Kristine supports making Pennsylvania’s community colleges and PASHE state universities tuition-free for Pennsylvania families who need help securing a higher education for their children.
 She also backs Attorney General Josh Shapiro’s mission to protect Pennsylvania students from predatory lenders and will work to create access to affordable funding options.
-Keeping Students Safe & Funding Our Nation's Future
-Red Flag Laws & Keeping Our Communities Safe
-41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
+Keeping Students Safe & Funding Our Nation's Future Kristine joins many of her constituents in believing an investment in public education is an investment in the future of our economy.
+Many who live in our community have seen the benefit of property values maintained by the quality of our schools here in Chester County.
+Kristine is committed to ensuring Chester County students are afforded every opportunity to receive the highest level of education possible and the state lives up to its constitutional duty to fully fund a public education system that works for everyone.
+Red Flag Laws & Keeping Our Communities Safe 41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
 Still, gun rights legislation continues to be brushed aside.
 Kristine is actively working to bring red flag law legislation to a vote.
 This legislation includes laws that allow authorities to take precautions with individuals whose family members claim they are dangerous or suicidal.
 Additionally, Kristine has proposed three new common sense gun reform laws including making it a crime to possess a firearm while intoxicated, creating a statewide assault weapons buy-back program and implementing penalties for anyone who ignores a private or commercial property owner’s ban on possessing fire arms on their property.
-Creating Transparency & Putting Community First
-During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
+Creating Transparency & Putting Community First During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
 Since her election Kristine has never missed a session day in Harrisburg.
 In the district, she has tackled more than 1400 constituent service inquiries and requests.
 She has held 7 town halls, 3 open houses and organized 5 sessions to effectively inform constituents about Real ID, APPRISE, Victoria’s Law & SEPTA Senior Key Cards.
 Kristine also instituted monthly email updates to bring awareness to the day-to-day battles being waged in Harrisburg and staffed weekly satellite office hours in local libraries because she understands that this job is 24/7 and her constituents come first.
-Access to Affordable Healthcare & Prescription Medication
-Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
+Access to Affordable Healthcare & Prescription Medication Over the past two years, Kristine supported Governor Wolf’s decision to expand Medicaid, a plan that helped deliver services to over 70,000 Pennsylvanians, but millions of Americans are still only one diagnosis away from homelessness due to our nation’s healthcare crisis.
 We cannot continue to rely on crowdfunding as a solution to surging healthcare premiums and the rising costs of necessary surgeries, prescriptions, and medical treatments.
 Kristine is committed to working diligently and across party lines to negotiate with insurance lobbyists and big pharma to create affordable healthcare options and reduce the cost of prescription medication.
-Women’s Reproductive Rights & Equal Access to Healthcare
-While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
+Women’s Reproductive Rights & Equal Access to Healthcare While at the University of Pennsylvania, Kristine was a student of Kathryn Kolbert’s — the attorney who later successfully argued Planned Parenthood v.
 Casey.
 Like many women, Kristine believed that this decision established a woman’s right to choose as a fundamental and immovable right.
 It has been 28 years since Planned Parenthood v.
@@ -101,32 +86,29 @@ Casey, 47 years since Roe v.
 Wade, and yet again she finds herself on the front lines of an ongoing battle to protect a woman’s right to choose.
 When two bills introduced by anti-abortion extremists came to a vote in the legislature, Kristine aggressively opposed them and championed the principles of Roe v.
 Wade and protecting a woman’s access to affordable reproductive healthcare here in Pennsylvania.
-Further Access to Opioid Disaster Relief
-Kristine understands that the hardships of physical sickness, mental illness and drug addiction do not discriminate.
+Further Access to Opioid Disaster Relief Kristine understands that the hardships of physical sickness, mental illness and drug addiction do not discriminate.
 Just last year Chester County lost 150 lives, proving that Chester County is not immune.
-In Harrisburg, Kristine actively serves on the Human Services Committee, and has voted on multiple occasions to provide greater access to effective treatment options and create opportunities for individuals in recovery to rebuild their lives
-Protecting the Environment & Our Natural Resources
-Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
+In Harrisburg, Kristine actively serves on the Human Services Committee, and has voted on multiple occasions to provide greater access to effective treatment options and create opportunities for individuals in recovery to rebuild their lives Protecting the Environment & Our Natural Resources Based on her voting history, Kristine has been named one of the highest rated Pennsylvania State Representatives by Clean Water Action, PennEnvironment, and Citizens for Pennsylvania’s Future and has won the endorsement of Conservation Voters of Pennsylvania.
 As a mother and grandmother, Kristine knows just how important it is to protect our natural resources for future generations.
 In addition, she is committed to a green energy future that does not rely on carbon-based energy sources and the pipelines needed to transport oil and gas to distant market.
 She believes we need to get to that future in a safe and sustainable manner that includes a just transition for workers.
 Until we get to that future, she strongly supports taxing fracking and making the cost of oil and gas products more reflective of the health and environmental costs related to the extraction, transportation and manufacturing of petrochemicals.
-Access to Affordable Higher Education
-Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
+Access to Affordable Higher Education Faced with the task of preparing her college bound children for financial stability, Kristine has a deep understanding of the challenges families face finding appropriate affordable higher education for their children.
 At the height of the recession in 2016, the average student loan debt for college graduates in Pennsylvania was the second highest state in the nation.
 Affordable higher education is the key to not only creating a clear pathway for the next generation of Pennsylvanians to achieve financial stability, it is also necessary to maintain our economic prosperity.
 That is why Kristine supports making Pennsylvania’s community colleges and PASHE state universities tuition-free for Pennsylvania families who need help securing a higher education for their children.
 She also backs Attorney General Josh Shapiro’s mission to protect Pennsylvania students from predatory lenders and will work to create access to affordable funding options.
-Keeping Students Safe & Funding Our Nation's Future
-Red Flag Laws & Keeping Our Communities Safe
-41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
+Keeping Students Safe & Funding Our Nation's Future Kristine joins many of her constituents in believing an investment in public education is an investment in the future of our economy.
+Many who live in our community have seen the benefit of property values maintained by the quality of our schools here in Chester County.
+Kristine is committed to ensuring Chester County students are afforded every opportunity to receive the highest level of education possible and the state lives up to its constitutional duty to fully fund a public education system that works for everyone.
+Red Flag Laws & Keeping Our Communities Safe 41 mass shootings took place in the U.S. in 2019, and in October of last year 11 Pennsylvanians lost their lives in the Pittsburgh Synagogue shooting.
 Still, gun rights legislation continues to be brushed aside.
 Kristine is actively working to bring red flag law legislation to a vote.
 This legislation includes laws that allow authorities to take precautions with individuals whose family members claim they are dangerous or suicidal.
 Additionally, Kristine has proposed three new common sense gun reform laws including making it a crime to possess a firearm while intoxicated, creating a statewide assault weapons buy-back program and implementing penalties for anyone who ignores a private or commercial property owner’s ban on possessing fire arms on their property.
-Creating Transparency & Putting Community First
-During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
+Creating Transparency & Putting Community First During Kristine’s campaign in 2018 she vowed to treat her state representative position as a service to her community and vowed to create more transparency.
 Since her election Kristine has never missed a session day in Harrisburg.
 In the district, she has tackled more than 1400 constituent service inquiries and requests.
 She has held 7 town halls, 3 open houses and organized 5 sessions to effectively inform constituents about Real ID, APPRISE, Victoria’s Law & SEPTA Senior Key Cards.
 Kristine also instituted monthly email updates to bring awareness to the day-to-day battles being waged in Harrisburg and staffed weekly satellite office hours in local libraries because she understands that this job is 24/7 and her constituents come first.
+DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor DONATE HOME MEET KRISTINE OUR PRIORITIES ENDORSEMENTS GET INVOLVED LATEST NEWS Landmark Reform for Victims of Child Sex Abuse Back in Session Frackers Must Be Taxed VIDEO – Kristine Speaks to the House Floor Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

@@ -1,41 +1,7 @@
-ISSUES
-CHANGE NOW AGENDA
-BRANDON WILKE
-for
-State Representative
-Economics
-- Eliminate State Income Tax & Personal Property Tax
-- Make Assessment of Property Value an Objective Formula
-- Slash Missouri’s Bloated Budget & Cut Federal Funding Strings
-- Support Affordability Initiatives
-- Lower Utility Rates
-- Ban Hidden Fees
-Education & Culture
-- Return Control of Education to Parents
-- Support School Choice and Alternative Access to Education
-- Increase Quality of Student Outcomes: Testing and Grades
-- Focus on Academic Fundamentals
-- Increase Ratio of Teachers to Administrators
-Crime & Safety
-- Maintain Local Control of Police and First Responders
-- Oppose the City-County Merger
-Elections
-- Secure Elections:
-- Paper Ballots
-- Hand-Counting
-- Require State ID to Vote
-- Clean-up Voter Rolls
-- Reform the Initiative Petition Process to Stop Out-of-State Billionaires from Buying Changes to the Missouri Constitution
-Support Veterans
-- The Only Reason We Have This Constitutional Republic Is Because of Their Sacrifice.
-- Veteran Healthcare and Dignity
-Life & Health
-- Defend Life.
-Life Begins at Conception
-- Protect Medical Freedom.
-No Mandates
-Government Reform
-- Curb the Influence of Lobbyists & Special Interests in Jefferson City
-- Eliminate Corporate Welfare, i.e., Giving Selective Tax Breaks to Certain Businesses or Industries but Not Others.
-- Require Bills to be Short and Easy to Understand for the Average Citizen
-- Oppose Better Together to Maintain Local Control
+top of page Home Media Blog Mission Issues Events Notifications Use tab to navigate through the menu items.
+DONATE ISSUES CHANGE NOW AGENDA BRANDON WILKE for State Representative Economics Eliminate State Income Tax & Personal Property Tax Make Assessment of Property Value an Objective Formula Slash Missouri’s Bloated Budget & Cut Federal Funding Strings Support Affordability Initiatives Lower Utility Rates​ Ban Hidden Fees ​ ​ Education & Culture ​ Return Control of Education to Parents Support School Choice and Alternative Access to Education Increase Quality of Student Outcomes: Testing and Grades Focus on Academic Fundamentals Increase Ratio of Teachers to Administrators ​ Crime & Safety Maintain Local Control of Police and First Responders Oppose the City-County Merger ​ Elections Secure Elections: Paper Ballots Hand-Counting Require State ID to Vote Clean-up Voter Rolls Reform the Initiative Petition Process to Stop Out-of-State Billionaires from Buying Changes to the Missouri Constitution ​ Support Veterans The Only Reason We Have This Constitutional Republic Is Because of Their Sacrifice.
+Veteran Healthcare and Dignity ​ ​ ​ ​ Life & Health Defend Life.
+Life Begins at Conception Protect Medical Freedom.
+No Mandates ​ ​ ​ Government Reform Curb the Influence of Lobbyists & Special Interests in Jefferson City Eliminate Corporate Welfare, i.e., Giving Selective Tax Breaks to Certain Businesses or Industries but Not Others.
+Require Bills to be Short and Easy to Understand for the Average Citizen Oppose Better Together to Maintain Local Control ​ ​ ​ Brandon Wilke for Missouri State Representative CHANGE NOW.
+Contact: (314) 749-4529 citizensforbrandonwilke@gmail.com Citizens for Wilke 2355 Thunderbird Ave Florissant, MO 63033 DONATE Privacy Policy Accessibility Statement Paid for by Citizens for Wilke, Brandon Wilke, Treasurer ​ © # Citizens for Brandon Wilke for State Representative bottom of page

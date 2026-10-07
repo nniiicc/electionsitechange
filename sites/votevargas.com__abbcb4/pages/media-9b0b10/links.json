@@ -1,10 +1,42 @@
 [
-"https://instagram.com/vargasforcongress",
-"https://secure.actblue.com/donate/juanvargasforca-main",
-"https://vargas.house.gov/",
-"https://votevargas.com/",
-"https://votevargas.com/cart",
-"https://votevargas.com/contact",
-"https://votevargas.com/media",
-"https://votevargas.com/meet-juan"
+{
+"text": "0",
+"href": "https://www.votevargas.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.votevargas.com/"
+},
+{
+"text": "CONTRIBUTE →",
+"href": "https://secure.actblue.com/donate/juanvargasforca-main"
+},
+{
+"text": "Contact",
+"href": "https://www.votevargas.com/contact"
+},
+{
+"text": "Media",
+"href": "https://www.votevargas.com/media"
+},
+{
+"text": "Meet Juan",
+"href": "https://www.votevargas.com/meet-juan"
+},
+{
+"text": "[image: Juan Vargas for U.S. Congress]",
+"href": "https://www.votevargas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vargasforcongress"
+},
+{
+"text": "click here",
+"href": "https://vargas.house.gov/"
+},
+{
+"text": "erin.chapman@votevargas.com",
+"href": "mailto:erin.chapman@votevargas.com"
+}
 ]

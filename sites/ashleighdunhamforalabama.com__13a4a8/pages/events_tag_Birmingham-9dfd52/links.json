@@ -1,22 +1,102 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Birmingham+Meet-and-Greet&dates=20260711T190000Z%2F20260711T210000Z&location=5145+7th+Court+South%2C+Birmingham%2C+Alabama%2C+35212%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Mahjong+for+the+Matriarchy&dates=20260731T230000Z%2F20260801T020000Z&location=Green+Trails+Clubhouse+2920+Henry+Pass%2C++Hoover%2C+Alabama+35244+",
-"http://maps.google.com/?q=5145+7th+Court+South+Birmingham%2C+Alabama%2C+35212+United+States",
-"http://maps.google.com/?q=Green+Trails+Clubhouse+2920+Henry+Pass++Hoover%2C+Alabama+35244",
-"https://ashleighdunhamforalabama.com/",
-"https://ashleighdunhamforalabama.com/about",
-"https://ashleighdunhamforalabama.com/cart",
-"https://ashleighdunhamforalabama.com/contact",
-"https://ashleighdunhamforalabama.com/endorsements",
-"https://ashleighdunhamforalabama.com/events",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh",
-"https://ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh?format=ical",
-"https://ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx",
-"https://ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx?format=ical",
-"https://ashleighdunhamforalabama.com/news",
-"https://ashleighforalsupremecourt.printful.me/",
-"https://donate.campaigndeputy.com/donate/website-ashleigh-may",
-"https://facebook.com/profile.php?id=61576377703240",
-"https://instagram.com/ashleighforalabama",
-"https://tiktok.com/@ashleigh_dunham?lang=en"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5145+7th+court+south+birmingham%2C+alabama%2C+35212+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=green+trails+clubhouse+2920+henry+pass++hoover%2C+alabama+35244++"
+},
+{
+"text": "0",
+"href": "https://www.ashleighdunhamforalabama.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ashleighdunhamforalabama.com/about"
+},
+{
+"text": "Birmingham Meet-and-Greet",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "Campaign Merch",
+"href": "https://ashleighforalsupremecourt.printful.me/"
+},
+{
+"text": "Contact",
+"href": "https://www.ashleighdunhamforalabama.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://donate.campaigndeputy.com/donate/website-ashleigh-may"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ashleighdunhamforalabama.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ashleighdunhamforalabama.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61576377703240"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Birmingham+Meet-and-Greet&dates=20260711T190000Z%2F20260711T210000Z&location=5145+7th+Court+South%2C+Birmingham%2C+Alabama%2C+35212%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Mahjong+for+the+Matriarchy&dates=20260731T230000Z%2F20260801T020000Z&location=Green+Trails+Clubhouse+2920+Henry+Pass%2C++Hoover%2C+Alabama+35244+"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx?format=ical"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/ashleighforalabama"
+},
+{
+"text": "Mahjong for the Matriarchy",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "News",
+"href": "https://www.ashleighdunhamforalabama.com/news"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@ashleigh_dunham?lang=en"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "View Event →",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "[image: AshLeigh for Alabama]",
+"href": "https://www.ashleighdunhamforalabama.com/"
+},
+{
+"text": "[image: Birmingham Meet-and-Greet]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-two-w7zrh-s4xbg-6w4mx"
+},
+{
+"text": "[image: Mahjong for the Matriarchy]",
+"href": "https://www.ashleighdunhamforalabama.com/events/event-three-mz467-9slf2-xjpjh"
+},
+{
+"text": "info@ashleighforalabama.com",
+"href": "mailto:joinus@ashleighforalabama.com"
+}
 ]

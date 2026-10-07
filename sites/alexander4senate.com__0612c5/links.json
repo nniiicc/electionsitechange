@@ -1,11 +1,42 @@
 [
-"https://alexander4senate.com/",
-"https://alexander4senate.com/about",
-"https://alexander4senate.com/cart",
-"https://alexander4senate.com/policy",
-"https://alexander4senate.com/volunteer",
-"https://alexander4senate.com/yard-signs",
-"https://facebook.com/alexander4senate",
-"https://instagram.com/alexander4senate",
-"https://secure.actblue.com/donate/alexander4senatehome"
+{
+"text": "0",
+"href": "https://www.alexander4senate.com/cart"
+},
+{
+"text": "About Alexander",
+"href": "https://www.alexander4senate.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/alexander4senatehome"
+},
+{
+"text": "Learn More About Alexander",
+"href": "https://www.alexander4senate.com/about"
+},
+{
+"text": "Policy",
+"href": "https://www.alexander4senate.com/policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.alexander4senate.com/volunteer"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.alexander4senate.com/yard-signs"
+},
+{
+"text": "[image: Alexander for Senate]",
+"href": "https://www.alexander4senate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/alexander4senate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/alexander4senate/"
+}
 ]

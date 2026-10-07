@@ -1,6 +1,4 @@
-Priority Detail
-Property Taxes & Rural Services
-Relief that lasts, for the land and the barns, without gutting the schools, ambulances, and county roads that make rural life work.
+Skip to content Brad Hochgesang for State Senate Donate Join Us Home / Platform / Property Taxes ← Back to About & Priorities Priority Detail Property Taxes & Rural Services Relief that lasts, for the land and the barns, without gutting the schools, ambulances, and county roads that make rural life work.
 Senate Bill 1 delivered real farmland relief, and I'll say that plainly: about an 11% cut to farmland bills after three straight years of double-digit increases.
 But it was a down payment, not the fix.
 It helped the dirt and left the barns out.
@@ -15,4 +13,11 @@ The costs landed on local budgets: the county roads our grain trucks run on, the
 A tax cut that shows up as a longer ambulance response isn't much of a win.
 The state collects zero property tax and sits on reserves.
 Real reform pairs relief with a state backstop for rural schools and emergency services.
-Related links
+Related links Read: Property Tax Fine Print Brad Hochgesang Do the homework.
+Ask the people.
+Fight for their answer.
+I intend to prove it.
+Contact: [email protected] Explore News Our District Events About & Priorities The Record Media & Press Shirts & Signs Support Contact Us Stay in the loop Campaign updates, straight from Brad.
+Email address ZIP code Sign me up Prefer to chip in?
+Choose how to donate.
+Follow us on social media Facebook YouTube Instagram Paid for by Citizens For Hochgesang

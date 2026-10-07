@@ -1,22 +1,14 @@
-WHAT IS PAT CURRY SAVING ABOUT THE EDUCATION BILLS?
-PART 1: VOUCHERS
-This post originally appeared on Dead Dillo.
-(This is the first in a series of posts I plan to write about what my Texas House Representative, Pat Curry – District 56, is saying about the education bills that are being considered by the Texas Legislature. – ABT)
-Pat Curry (TX House District 56) was recently interviewed by Duke Machado of the Hispanic Republicans of McLennan County.
-Here’s the link: https://www.facebook.com/share/v/16aZdvSs9v/
-In it, Machado opens with a question about public education,
-“Let’s start with this education package that just passed.
-How do you unfold that to people who, for some reason, are not happy with the passage of that?”
-Curry replies,
-“I think so many people are concentrating just on school choice.
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 WHAT IS PAT CURRY SAVING ABOUT THE EDUCATION BILLS?
+PART 1: VOUCHERS This post originally appeared on Dead Dillo .
+(This is the first in a series of posts I plan to write about what my Texas House Representative, Pat Curry – District 56, is saying about the education bills that are being considered by the Texas Legislature. – ABT) Pat Curry (TX House District 56) was recently interviewed by Duke Machado of the Hispanic Republicans of McLennan County.
+Here’s the link: https://www.facebook.com/share/v/16aZdvSs9v/ In it, Machado opens with a question about public education, “Let’s start with this education package that just passed.
+How do you unfold that to people who, for some reason, are not happy with the passage of that?” Curry replies, “I think so many people are concentrating just on school choice.
 The fact of the matter is that there’s an entire package of bills that are really, really good for public schools.
 School choice is a test.
-It’s 100,000 students, out of 6 million in the whole state, most of whom are going to be special ed…none of whom are going to be the wealthy, the way that it’s laid out.”
-I agree with Curry that there are some potentially good things in HB 2, the school funding bill that passed the Texas House last week.
+It’s 100,000 students, out of 6 million in the whole state, most of whom are going to be special ed…none of whom are going to be the wealthy, the way that it’s laid out.” I agree with Curry that there are some potentially good things in HB 2, the school funding bill that passed the Texas House last week.
 Some of the other bills in the “package” he mentions might also turn out OK, some, to me, are pretty questionable.
 I will go into those in later posts.
-I agree with Curry that we should not concentrate on “just” on what he calls “school choice.” (I would call it “school vouchers.”)
-At the same time though… we ARE planning to spend a BILLION dollars of our money on this voucher program, so I do think it is worth a minute to examine our representative’s thoughts about it.
+I agree with Curry that we should not concentrate on “just” on what he calls “school choice.” (I would call it “school vouchers.”) At the same time though… we ARE planning to spend a BILLION dollars of our money on this voucher program, so I do think it is worth a minute to examine our representative’s thoughts about it.
 First, I’m not sure what Mr.
 Curry means by “school choice is a test.” Does he mean we are just testing it out to see if it works?
 If so, there’s nothing in the bill that specifies how we would know if it is working or not.
@@ -30,18 +22,16 @@ Some studies, notably from Florida, show a slight gain for public schools who fa
 Other states, notably Louisiana and Indiana, show losses in math and not much difference in reading following implementation of voucher and voucher-like programs.
 So, perhaps Curry’s confidence is justified, perhaps not.
 Regardless, however, of what measure he might be thinking we will use to see whether this voucher program “works,” I don’t see anything in the bill that indicates in any way that we are going to stop using vouchers if they don’t work.
-There is not a sunset clause of any kind to suggest that we are even going to take a look at how things are going in a few years and see if we are getting whatever it is we think we are paying for…
-Curry also says that probably most of the students who will be served by the vouchers will be Special Ed students.
+There is not a sunset clause of any kind to suggest that we are even going to take a look at how things are going in a few years and see if we are getting whatever it is we think we are paying for… Curry also says that probably most of the students who will be served by the vouchers will be Special Ed students.
 Well.
 Maybe.
 But I don’t see any particularly good reason to think so.
 It is true that if more students apply for the vouchers than we can accommodate with the billion dollars we have set aside, that there will be a lottery.
-And, in the case of a lottery, it is true that the first priority to receive voucher money will be “Children with disabilities from families earning at or below 500% of the federal poverty level (FPL).”
-However, that does not necessarily mean that most of the recipients will be special ed students – at least it doesn’t look that way if you use McLennan County for an example.
+And, in the case of a lottery, it is true that the first priority to receive voucher money will be “Children with disabilities from families earning at or below 500% of the federal poverty level (FPL).” However, that does not necessarily mean that most of the recipients will be special ed students – at least it doesn’t look that way if you use McLennan County for an example.
 For special ed students to take advantage of school vouchers there would need to be a private school available that serves special ed students.
 There may be some private schools in McLennan County that serve special ed students, but if there are, it is not at all obvious from doing a web search.
-The Texas Private School Association website does not list any McLennan County schools in their list of schools that serve students with special needs.
-If you go to the Wacoprivateschools.com website and click on the “special needs schools” category, you get no listings.
+The Texas Private School Association website does not list any McLennan County schools in their list of schools that serve students with special needs .
+If you go to the Wacoprivateschools.com website and click on the “ special needs schools ” category, you get no listings.
 If you google, “What private schools in McLennan County serve special ed students?”- you don’t get any specific listings.
 If you use ChatGPT you find that Reicher “Provides accommodations for learning differences, including small class sizes and individualized support,” and Waco Montessori School “Utilizes the Montessori method, which can be beneficial for neurodivergent students,” and not much else.
 That’s not an exhaustive search of course.
@@ -71,3 +61,4 @@ Since there is no sunset provision, it will be up to us, the voters, to elect re
 Note: This blog post was updated on 4.21.25.
 It previously stated that the 20% cap on applicants from families making more than 500% of the federal poverty guidelines expired at the end of the 2026-2027 school year.
 That was amended during House floor discussion so that the 20% cap does not expire.
+Tagged Public Schools Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

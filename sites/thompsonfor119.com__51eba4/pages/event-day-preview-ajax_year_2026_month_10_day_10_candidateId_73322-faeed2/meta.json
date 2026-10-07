@@ -1,7 +1,11 @@
 {
  "description": "",
  "final_url": "https://www.upballot.com/event-day-preview-ajax?year=2026&month=10&day=10&candidateId=73322",
- "paid_for_by": null,
+ "fingerprint": "d3121ab437736092542d7306214d49ebffc6d836",
+ "format": 3,
+ "paid_for_by": "",
  "title": "",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

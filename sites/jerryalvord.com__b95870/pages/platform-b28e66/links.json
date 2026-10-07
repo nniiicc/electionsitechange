@@ -1,10 +1,38 @@
 [
-"https://facebook.com/AlvordforOKSenate",
-"https://jerryalvord.com/",
-"https://jerryalvord.com/about-jerry-alvord",
-"https://jerryalvord.com/contact",
-"https://jerryalvord.com/endorsement",
-"https://jerryalvord.com/news",
-"https://jerryalvord.com/platform",
-"https://secure.anedot.com/friends-of-jerry-alvord-for-state-senate-2022/donate"
+{
+"text": "About Jerry Alvord",
+"href": "https://www.jerryalvord.com/about-jerry-alvord"
+},
+{
+"text": "Contact",
+"href": "https://www.jerryalvord.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/friends-of-jerry-alvord-for-state-senate-2022/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jerryalvord.com/endorsement"
+},
+{
+"text": "Home",
+"href": "https://www.jerryalvord.com"
+},
+{
+"text": "News",
+"href": "https://www.jerryalvord.com/news"
+},
+{
+"text": "Platform",
+"href": "https://www.jerryalvord.com/platform"
+},
+{
+"text": "[image: JerryAlvord_Signage2.jpg]",
+"href": "https://www.jerryalvord.com"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/AlvordforOKSenate/"
+}
 ]

@@ -1,19 +1,74 @@
 [
-"https://secure.actblue.com/donate/stella-pollard-1",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=10",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=100",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=20",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=25",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=250",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=5",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=50",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=500",
-"https://secure.actblue.com/donate/stella-pollard-1?amount=other",
-"https://stellarpollard.com/",
-"https://stellarpollard.com/?share=facebook",
-"https://stellarpollard.com/?share=twitter",
-"https://stellarpollard.com/blog-feed",
-"https://stellarpollard.com/community-issues",
-"https://stellarpollard.com/stella-on-tiktok",
-"https://wordpress.com/"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=20"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=250"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=500"
+},
+{
+"text": "CommunityIssues",
+"href": "https://stellarpollard.com/community-issues/"
+},
+{
+"text": "Donate #ago",
+"href": "https://secure.actblue.com/donate/stella-pollard-1"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/stella-pollard-1?amount=other"
+},
+{
+"text": "Powered by WordPress.com",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Share on Facebook (Opens in new window) Facebook",
+"href": "https://stellarpollard.com/?share=facebook"
+},
+{
+"text": "Share on X (Opens in new window) X",
+"href": "https://stellarpollard.com/?share=twitter"
+},
+{
+"text": "Stella for KY",
+"href": "https://stellarpollard.com/"
+},
+{
+"text": "Stella’sBlogs",
+"href": "https://stellarpollard.com/blog-feed/"
+},
+{
+"text": "Stella’sVideos",
+"href": "https://stellarpollard.com/stella-on-tiktok/"
+},
+{
+"text": "← Back",
+"href": "https://stellarpollard.com/"
+}
 ]

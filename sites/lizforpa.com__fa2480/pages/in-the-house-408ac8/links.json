@@ -1,24 +1,110 @@
 [
-"http://facebook.com/lizforpa",
-"https://legis.state.pa.us/",
-"https://legis.state.pa.us/CFDocs/Legis/CSM/DisplayMemos.cfm?Chamber=H&MemberID=1834&SPick=20210",
-"https://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=2&CteeBody=H",
-"https://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=24&CteeBody=H",
-"https://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=30&CteeBody=H",
-"https://legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=48&CteeBody=H",
-"https://lizforpa.com/",
-"https://lizforpa.com/cart",
-"https://lizforpa.com/community-survey",
-"https://lizforpa.com/contact",
-"https://lizforpa.com/home",
-"https://lizforpa.com/in-the-61st",
-"https://lizforpa.com/in-the-house",
-"https://lizforpa.com/in-the-news",
-"https://lizforpa.com/priorities",
-"https://lizforpa.com/team-liz",
-"https://lizforpa.com/vote",
-"https://pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx",
-"https://secure.ngpvan.com/4_XaBf0vOEiSjNnd3nrKWg2",
-"https://vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx",
-"https://youtube.com/playlist?list=PLjtqNtfs0bgWHK4t2_JcE0FjGCJskjkgu"
+{
+"text": "0",
+"href": "https://www.lizforpa.com/cart"
+},
+{
+"text": "Agriculture & Rural Affairs",
+"href": "https://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=2&CteeBody=H"
+},
+{
+"text": "Children & Youth",
+"href": "https://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=48&CteeBody=H"
+},
+{
+"text": "Contact",
+"href": "https://www.lizforpa.com/contact"
+},
+{
+"text": "Current Sponsored Legislation",
+"href": "https://www.legis.state.pa.us/CFDocs/Legis/CSM/DisplayMemos.cfm?Chamber=H&MemberID=1834&SPick=20210"
+},
+{
+"text": "DONATE",
+"href": "https://secure.ngpvan.com/4_XaBf0vOEiSjNnd3nrKWg2"
+},
+{
+"text": "Home",
+"href": "https://www.lizforpa.com/"
+},
+{
+"text": "Home",
+"href": "https://www.lizforpa.com/home"
+},
+{
+"text": "In the 61st",
+"href": "https://www.lizforpa.com/in-the-61st"
+},
+{
+"text": "In the House",
+"href": "https://www.lizforpa.com/in-the-house"
+},
+{
+"text": "In the News",
+"href": "https://www.lizforpa.com/in-the-news"
+},
+{
+"text": "Judiciary",
+"href": "https://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=24&CteeBody=H"
+},
+{
+"text": "Liz’s Priorities",
+"href": "https://www.lizforpa.com/priorities"
+},
+{
+"text": "Local Government",
+"href": "https://www.legis.state.pa.us/cfdocs/cteeInfo/Index.cfm?Code=30&CteeBody=H"
+},
+{
+"text": "On the Issues",
+"href": "https://www.lizforpa.com/priorities"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.pavoterservices.pa.gov/Pages/VoterRegistrationApplication.aspx"
+},
+{
+"text": "Request a Mail Ballot",
+"href": "https://www.vote.pa.gov/Voting-in-PA/Pages/Mail-and-Absentee-Ballot.aspx"
+},
+{
+"text": "Search House Votes",
+"href": "https://www.legis.state.pa.us"
+},
+{
+"text": "Survey",
+"href": "https://www.lizforpa.com/community-survey"
+},
+{
+"text": "Team Liz",
+"href": "https://www.lizforpa.com/team-liz"
+},
+{
+"text": "Volunteer",
+"href": "https://www.lizforpa.com/team-liz"
+},
+{
+"text": "Vote",
+"href": "https://www.lizforpa.com/vote"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.lizforpa.com/vote"
+},
+{
+"text": "[image: RE-ELECT Liz for PA]",
+"href": "https://www.lizforpa.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/lizforpa"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/playlist?list=PLjtqNtfs0bgWHK4t2_JcE0FjGCJskjkgu"
+},
+{
+"text": "[no text]",
+"href": "mailto:lizforpa@gmail.com"
+}
 ]

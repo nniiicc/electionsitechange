@@ -1,7 +1,1 @@
-4
-Jun
-Tuesday, 2:34 PM · 2024
-Paid for by Committee to
-Re-elect Mike Petersen
-Re-elect Mike Petersen
-Powered by CampaignPartner.com - Political Campaign Websites
+Home Meet Mike Introduction Video Policy Positions Endorsements News News / Recognized as a "Parental Rights Champion" by Utah Parents United 4 Jun Tuesday, 2:34 PM · 2024 Recognized as a "Parental Rights Champion" by Utah Parents United Privacy Subscribe Paid for by Committee to Re-elect Mike Petersen Powered by CampaignPartner.com - Political Campaign Websites Home Meet Mike Introduction Video Policy Positions Endorsements News Close Menu

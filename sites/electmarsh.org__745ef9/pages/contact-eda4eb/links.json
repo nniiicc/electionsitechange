@@ -1,6 +1,22 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfAljMovXmBx9ORdnYe6mqQhqoqlz_RbzNcj26pBySGaxg7KA/viewform",
-"https://electmarsh.org/contact",
-"https://electmarsh.org/donate",
-"https://electmarsh.org/home"
+{
+"text": "Contact",
+"href": "https://www.electmarsh.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.electmarsh.org/donate"
+},
+{
+"text": "Home",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "MARSH for MI",
+"href": "https://www.electmarsh.org/home"
+},
+{
+"text": "[tooltip: Open Google Forms, ElectionSite in new window]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfAljMovXmBx9ORdnYe6mqQhqoqlz_RbzNcj26pBySGaxg7KA/viewform"
+}
 ]

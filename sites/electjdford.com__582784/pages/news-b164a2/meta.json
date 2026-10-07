@@ -1,7 +1,13 @@
 {
- "description": "Read the latest news, announcements, and campaign updates from Elect J.D. Ford to Congress in Indiana\u2019s 5th District.",
+ "description": "Read the latest news, announcements, and campaign updates from Elect J.D. Ford to Congress in Indiana’s 5th District.",
  "final_url": "https://www.electjdford.com/news",
- "paid_for_by": null,
- "title": "News & Updates | Elect J.D. Ford to Congress | Indiana\u2019s 5th District",
- "years_mentioned": []
+ "fingerprint": "9a66f3d9a069efc227242ab4ef50c1a006707a06",
+ "format": 3,
+ "paid_for_by": "authorized by the Neighbors to Elect J",
+ "title": "News & Updates | Elect J.D. Ford to Congress | Indiana’s 5th District",
+ "years_mentioned": [
+  "1983",
+  "2025",
+  "2026"
+ ]
 }

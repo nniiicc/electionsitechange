@@ -1,10 +1,42 @@
 [
-"https://andygorlich.com/",
-"https://andygorlich.com/contact-draft-page",
-"https://andygorlich.com/i-appreciate-however-you-can-help",
-"https://andygorlich.com/privacy-policy",
-"https://delaware.gov/",
-"https://elections.delaware.gov/",
-"https://elections.delaware.gov/maps/rd/2023/sussex/rep-district-36.pdf",
-"https://ivote.de.gov/"
+{
+"text": "Andy Gorlich",
+"href": "https://andygorlich.com/"
+},
+{
+"text": "Check Your Voter Registration Status",
+"href": "https://ivote.de.gov/"
+},
+{
+"text": "Contact Andy",
+"href": "https://andygorlich.com/contact-draft-page/"
+},
+{
+"text": "DONATE",
+"href": "https://andygorlich.com/i-appreciate-however-you-can-help/"
+},
+{
+"text": "Delaware Department of Elections",
+"href": "https://elections.delaware.gov/"
+},
+{
+"text": "Delaware House District 36 Map",
+"href": "https://elections.delaware.gov/maps/rd/2023/sussex/rep-district-36.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://andygorlich.com/privacy-policy/"
+},
+{
+"text": "[image: Andy Gorlich Logo]",
+"href": "https://andygorlich.com/"
+},
+{
+"text": "[image]",
+"href": "https://delaware.gov/"
+},
+{
+"text": "andy@andygorlich.com",
+"href": "mailto:andy@andygorlich.com"
+}
 ]

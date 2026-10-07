@@ -1,9 +1,14 @@
 {
  "description": "Review Zach Mako's voting record on public education funding for Pennsylvania HD-183.",
  "final_url": "https://www.dkt4pa.com/current-reps-voting-record/public-education",
- "paid_for_by": null,
+ "fingerprint": "baf19d76e95f06ee28098c4f184fb6522c7441aa",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mako's Voting Record on Public Education | Deirdre Kamber Todd for PA House",
  "years_mentioned": [
-  "2023"
+  "2023",
+  "2024",
+  "2025",
+  "2026"
  ]
 }

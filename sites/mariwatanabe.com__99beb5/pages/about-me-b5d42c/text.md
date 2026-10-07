@@ -1,4 +1,4 @@
-I am Mari Watanabe, a third-generation Japanese American Democrat raised in the Pacific Northwest, proud to call House District 34 my home for almost twenty years.
+0 Skip to Content Home About Me Priorities Endorsements Contact DONATE NOW Open Menu Close Menu Home About Me Priorities Endorsements Contact DONATE NOW Open Menu Close Menu Home About Me Priorities Endorsements Contact DONATE NOW I am Mari Watanabe, a third-generation Japanese American Democrat raised in the Pacific Northwest, proud to call House District 34 my home for almost twenty years.
 My journey has been shaped by resilience and service, values instilled by my parents, Matsue and Samuel Watanabe, who endured forced internment during World War II under Executive Order 9066.
 Stripped of everything, they rebuilt their lives with strength and pride, inspiring my siblings and I to pursue education, community, and a deep sense of purpose.
 Growing up, I grappled with balancing my Japanese heritage while navigating predominantly white schools.
@@ -9,7 +9,7 @@ After college, I launched a corporate career, eventually moving to Oregon to wor
 While I found success, I longed for something deeper: a chance to serve my community.
 This calling led me to nonprofit work, beginning as Executive Director of the Japanese American Museum of Oregon and later as Executive Director of Partners in Diversity (PID).
 At PID, I championed diversity, equity, and inclusion, recognizing that a diverse workforce strengthens businesses and communities.
-Through programs like Say Hey, which connects professionals of color, I fostered community bonds and a sense of belonging.
+Through programs like Say Hey , which connects professionals of color, I fostered community bonds and a sense of belonging.
 PID’s Breakfast for Champions training equipped employers with tools to build inclusive workplaces.
 My work was fueled by a commitment to diversity and a passion for economic development, understanding that inclusive, thriving businesses create stability and opportunity for all.
 In addition to my work at PID, I have served on numerous boards, including the Oregon Commission on Asian and Pacific Islander Affairs, advocating for policies that expand workforce pathways for immigrants and support communities of color.
@@ -20,3 +20,6 @@ These awards remind me of the work yet to be done, and I am prepared to bring my
 I believe in an inclusive, transparent government that uplifts every voice and serves as a true advocate for all Oregonians.
 Outside work, I recharge by hiking Oregon’s beautiful trails, enjoying the arts, and spending time with family and friends.
 My home in House District 34 is where I find inspiration for the journey ahead.
+I am Mari Watanabe.
+I'm committed to realizing Oregon's full potential, where diversity flourishes, opportunities abound, and everyone feels a sense of belonging.
+Mari Watanabe For House District 34

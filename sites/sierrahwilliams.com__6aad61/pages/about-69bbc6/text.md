@@ -1,4 +1,4 @@
-Hello Neighbor!
+Skip to content About Priorities Contact Gallery Endorsements Sierrah Williams for Oregon State Senate Donate Hello Neighbor!
 I am running for State Senator – so I want to share with you a bit about who I am and why I am running.
 I grew up in Sweet Home, and I love our rainy weather and beautiful green forests.
 I worked as a lifeguard at the Sweet Home Pool, and I graduated as valedictorian from the Sweet Home High School.
@@ -16,5 +16,4 @@ I started to get involved in local community and political groups such as East L
 I wanted to have my voice heard and help out in any small way I could.
 I know that we are stronger when we work together, and I wanted to be a part of “together.” At this moment, that desire to be involved led to my candidacy for Senate – we needed a Democratic voice at the table, and I was ready to be that voice however unexpectedly I arrived here.
 I love our community, and I would be honored to be your Senator.
-Sincerely,
-Sierrah Williams
+Sincerely, Sierrah Williams Sierrah Williams for Oregon State Senate Paid for by Sierrah Williams for Senate District 6 ID #24911 Designed with WordPress Facebook Mail Sierrah Williams for Oregon State Senate Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

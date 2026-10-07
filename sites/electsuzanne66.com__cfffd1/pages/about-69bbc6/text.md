@@ -1,4 +1,6 @@
-Suzanne Lovig is a community-focused leader, a small business owner, and a dedicated public servant with a proven record of results.
+Sign Up for Office Hours Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Home About What I Stand For Contact What’s Cooking?
+Announcements & Upcoming Events Suzanne Lovig is a community-focused leader, a small business owner, and a dedicated public servant with a proven record of results.
 A longtime Woodbury resident and mother of two, Suzanne brings entrepreneurial grit, financial discipline, and a people-first leadership style to everything she does.
 In 1993, Suzanne and her husband, Dave, launched TopNotch Painting LLC.
 Over the years, they built a company with an exceptional reputation for superior quality and customer service.
@@ -16,11 +18,13 @@ And, she is now excited to announce that she and her husband Dave, are soon to b
 Suzanne combines compassion with accountability, and vision with execution.
 She is prepared to focus on affordability, advocate for fair state funding, and protect the character and future of our towns.
 Suzanne Lovig is ready to serve — and ready to deliver meaningful results.
-She is running to:
-- Improve Affordability – Addressing the financial pressures that families feel daily by finding ways to reduce healthcare and utility costs.
-- Secure Fair State Funding – Ensuring District 66 receives its fair share from the state so that we do not have to make up shortfalls through local taxes.
+She is running to: Improve Affordability – Addressing the financial pressures that families feel daily by finding ways to reduce healthcare and utility costs.
+Secure Fair State Funding – Ensuring District 66 receives its fair share from the state so that we do not have to make up shortfalls through local taxes.
 This is especially true for Region 14 and Region 20 schools, where funding per student depends on multiple cost-sharing and reimbursement streams.
-- Proactively take action to make regulations work for each of our communities because if we don’t make them work for us, the state will dictate how we must proceed.
+Proactively take action to make regulations work for each of our communities because if we don’t make them work for us, the state will dictate how we must proceed.
 Suzanne brings a balanced approach — compassion for families, discipline in budgeting, and the backbone to ask tough questions in Hartford.
 She believes in collaboration, transparency, and results.
-And, to top it all off, she is well known for her cooking skills, with many of her dishes being inspired by her Abuela’s secret recipes!!
+And, to top it all off, she is well known for her cooking skills , with many of her dishes being inspired by her Abuela’s secret recipes!!
+I Want To Hear From You ← Back I Want to Hear From You Thank you for reaching out.
+You'll hear from us soon.
+Sincerely, Suzanne and the Campaign Team Name (required) Email (required) Phone number ​ ​ Message SUBMIT Paid for by ElectSuzanne66, John Piacenza Treasurer Sign Up for Office Hours

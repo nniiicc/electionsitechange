@@ -1,17 +1,5 @@
-ABOUT
--Public and Private School Educated
--1997 Punahou High School
--2001 University of San Diego (BBA)
--2003-2008 Intracorp
--2008-2010 World travels
--2010 Managed Census Team
--2011 Cofounded Sustainable Coastlines
--2018 Joined Clean Water and Natural Lands Commission
--2019 Joined Parley for the Oceans
-Current Highlights:
-Raising kids, falling deeper in love with wife, surfing, foiling, snowboarding, skydiving, supporting kids in their skateboarding endeavors, traveling, listening to music, and learning to DJ with the kids.
-Kahi's Story
-Raised with a strong emphasis on family values, Kahi has focused his life on serving the community.
+0 Skip to Content PEOPLE FOR PACARRO Help Kahi Win District 19 District 19 Concerns Campaign Pillars HD 19 Survey About Kahi About Kahi Volunteer Contact Endorsements Donate Open Menu Close Menu PEOPLE FOR PACARRO Help Kahi Win District 19 District 19 Concerns Campaign Pillars HD 19 Survey About Kahi About Kahi Volunteer Contact Endorsements Donate Open Menu Close Menu Help Kahi Win Folder: District 19 Back District 19 Concerns Campaign Pillars HD 19 Survey Folder: About Kahi Back About Kahi Volunteer Contact Endorsements Donate ABOUT -Public and Private School Educated -1997 Punahou High School -2001 University of San Diego (BBA) -2003-2008 Intracorp -2008-2010 World travels -2010 Managed Census Team -2011 Cofounded Sustainable Coastlines -2018 Joined Clean Water and Natural Lands Commission -2019 Joined Parley for the Oceans Current Highlights: Raising kids, falling deeper in love with wife, surfing, foiling, snowboarding, skydiving, supporting kids in their skateboarding endeavors, traveling, listening to music, and learning to DJ with the kids.
+Kahi's Story Raised with a strong emphasis on family values, Kahi has focused his life on serving the community.
 As a youth, playing multiple sports while also falling in love with the ocean, Kahi continued to find himself in leadership roles.
 Entering into Punahou School in the 7th grade was a rough transition from public school but a necessary task that cemented his grit and creativity.
 After graduating in 1997, Kahi flourished in college life at the University of San Diego where he earned a degree in Business Administration with a minor in Philosophy.
@@ -32,7 +20,7 @@ Today, Kahi continues his involvment with SCH as a board member.
 Currently, Kahi works for a nonprofit similar to SCH but one that focuses more globally.
 Parley for the Oceans is working to replace plastic altogether through a program called “Parley Materials”.
 Kahi’s work is focused on the education side of this work, through managing teams globally that execute cleanups and educational events in schools and in the community.
-He is also the Chair of the City and Countys’ Clean Water and Natural Lands Commission, where he volunteers his time to protect land from development, increase public access, and protect watersheds.
+He is also the Chair of the City and Countys’ Clean Water and Natural Lands Commission , where he volunteers his time to protect land from development, increase public access, and protect watersheds.
 The CWNL Commission has protected multiple properties in District 19 including in Kuliʻouʻou, Wailupe Natural Preserve, and Kanewai Spring.
 Kahi also serves as the head of Water Quality as a board member for the Hawaii Kai Marina Board Association.
 His family of four resides in Kaʻalakei Valley between Kuliʻouʻou and Hahaiʻone.
@@ -40,3 +28,4 @@ Their free time is spent out on their boat in Maunalua Bay snorkeling, surfing, 
 On land, you can find them volunteering with nonprofits, playing in the neighborhood, or supporting their kids at the skatepark.
 Get to know him more.
 Reach out below.
+Donate Paid for by People for Pacarro PO BOX 240289 Honolulu, HI 96824

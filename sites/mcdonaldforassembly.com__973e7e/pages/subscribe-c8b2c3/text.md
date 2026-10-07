@@ -1,10 +1,2 @@
-Home
-About Me
-Accomplishments
-108th District
-Endorsements
-Videos
-Contact
-Voter Information
-Events
-More
+top of page DONATE SUBSCRIBE MY FINANCIAL DISCLOSURE Home About Me Accomplishments 108th District Endorsements Videos Contact Voter Information Events More Use tab to navigate through the menu items.
+JOIN MY EMAIL LIST John McDonald - NYS ASSEMBLY - 108th DISTRICT • Cohoes • Green Island • East Greenbush • North Greenbush • Rensselaer • Troy • Waterford • Watervliet Paid for by McDonald for Assembly bottom of page

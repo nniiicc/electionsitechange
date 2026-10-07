@@ -1,11 +1,54 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/MikeScottforMaineSenate",
-"https://mikescottformaine.com/",
-"https://mikescottformaine.com/about",
-"https://mikescottformaine.com/contact",
-"https://mikescottformaine.com/endorsements",
-"https://mikescottformaine.com/issues",
-"https://mikescottformaine.com/news",
-"https://mikescottformaine.com/volunteer"
+{
+"text": "About",
+"href": "https://www.mikescottformaine.com/about"
+},
+{
+"text": "About me",
+"href": "https://www.mikescottformaine.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.mikescottformaine.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mikescottformaine.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.mikescottformaine.com/issues"
+},
+{
+"text": "Join Us",
+"href": "https://www.mikescottformaine.com/volunteer"
+},
+{
+"text": "News",
+"href": "https://www.mikescottformaine.com/news"
+},
+{
+"text": "Priorities",
+"href": "https://www.mikescottformaine.com/issues"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mikescottformaine.com/volunteer"
+},
+{
+"text": "[image: Mike Scott for Maine logo]",
+"href": "https://www.mikescottformaine.com/"
+},
+{
+"text": "[image: Mike Scott for Maine]",
+"href": "https://www.mikescottformaine.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/MikeScottforMaineSenate"
+}
 ]

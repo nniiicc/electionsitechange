@@ -1,9 +1,13 @@
 {
  "description": "2026 election dates, registration, and voter ID for Tennessee House District 91.",
  "final_url": "https://www.torreyharris.com/vote",
+ "fingerprint": "e49164ed9d456f99c22aa702fbf9edab2abff976",
+ "format": 3,
  "paid_for_by": "PAID FOR BY COMMITTEE TO ELECT TORREY HARRIS",
- "title": "Vote 2026 \u2014 Rep. Torrey C. Harris",
+ "title": "Vote 2026 — Rep. Torrey C. Harris",
  "years_mentioned": [
-  "2026"
+  "2025",
+  "2026",
+  "2027"
  ]
 }

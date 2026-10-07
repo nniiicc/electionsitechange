@@ -1,6 +1,4 @@
-Skip navigation menu
-Why I'm running for the District O Senate seat
-I’m running for the District O Senate seat to help swing the pendulum of state government power back toward us, the Alaskans whose government it is.
+Skip navigation menu Home Issues About Endorsements Contact Donate About Dr Peter bauer Forward to a better future for Alaska Home Issues About Endorsements Contact Donate About Dr Peter bauer Forward to a better future for Alaska Why I'm running for the District O Senate seat I’m running for the District O Senate seat to help swing the pendulum of state government power back toward us, the Alaskans whose government it is.
 Too much of our state’s wealth is disappearing into murky deals and speculative big corp tax breaks while the educational, medical, and physical infrastructure on which we depend are all short changed.
 A career in military service afforded LeeAnn and me the security of retired pay and affordable health care coverage.
 Every Alaskan should have that, too.
@@ -16,32 +14,27 @@ We deserve a more transparent and accountable government than we have now.
 That means lawmakers who listen to YOU and legislate for you and your family.
 As I run for office, I want to listen and learn what needs and solutions you have in mind.
 And that won’t change when I’m your state Senator.
-Beginnings
-From the woods to a career of service
-Dr Pete grew up in rural Northern Minnesota, the eldest of four children.
+Beginnings Dr Pete during his Family Practice internship From the woods to a career of service Dr Pete grew up in rural Northern Minnesota, the eldest of four children.
 In addition to hunting and fishing after school, he earned a private pilot license at age 17.
 Thanks primarily to financial aid as well as working two full-time summers jobs, he was the first in his lineage to attend college.
 He graduated summa cum laude from Bemidji State University with a degree in chemistry.
-Having been accepted for both USAF pilot training and Mayo Medical School, the future Dr Pete had a tough decision to make.
+Having been accepted for both USAF pilot training and Mayo Medical School , the future Dr Pete had a tough decision to make.
 He chose medicine.
 In 1985, He earned an MD, followed by an internship in Family Medicine at the University of North Dakota Grand Forks.
 From there, he combined his two professional passions by becoming a USAF flight surgeon.
 "Nobody is born with bootstraps.
 For many, bootstraps come in the form of financial aid and I'm an example of that.
-Without accessible grant and loan programs, there would have been no higher education and no career of service."
-Career and experience
-Air Force to NASA to Alaska
-During his 20 year Air Force career, Dr Pete earned a Master of Public Health degree at the University of Utah, board certification from the American Board of Preventive Medicine in both Aerospace Medicine and Occupational Medicine, and graduated from two professional military education programs: Air Command & Staff College and Air War College.
+Without accessible grant and loan programs, there would have been no higher education and no career of service." Peter Bauer, MD, MPH Colonel, USAF (Retired) NASA Flight Surgeon Career and experience Dr.
+Bauer commanded the 52nd Aerospace Medicine Squadron in Germany from Aug 1998 - Nov 2000 Air Force to NASA to Alaska During his 20 year Air Force career, Dr Pete earned a Master of Public Health degree at the University of Utah, board certification from the American Board of Preventive Medicine in both Aerospace Medicine and Occupational Medicine, and graduated from two professional military education programs: Air Command & Staff College and Air War College.
 He served two overseas assignments including a command tour.
 He was deployed to Operations Desert Shield and Southern Watch, and logged combat sorties from Germany over the Balkans during Operation Allied Force.
-Following his command tour, he was selected for a special duty assignment as a flight surgeon to the astronauts and their families at NASA Johnson Space Center, where he remained until his USAF retirement in the rank of Colonel.
+Following his command tour, he was selected for a special duty assignment as a flight surgeon to the astronauts and their families at NASA Johnson Space Center , where he remained until his USAF retirement in the rank of Colonel.
 Being one of a small cadre of US physicians practicing Space Medicine, he remained at JSC Medical Operations as a civil servant, supporting the Space Shuttle, International Space Station, Commercial Crew, and Constellation (now Artemis) programs.
-During the course of his USAF and NASA careers, he logged over 1400 hours as a flight surgeon crewmember in aircraft as varied as the F-4D Phantom, F-16D, and NASA's "Vomit Comet."
-When an opportunity arose to finally move to Alaska by way of a contract DoD flight surgeon position at Joint Base Elmendorf-Richardson in late 2017, he took early retirement from NASA.
+During the course of his USAF and NASA careers, he logged over 1400 hours as a flight surgeon crewmember in aircraft as varied as the F-4D Phantom, F-16D, and NASA's "Vomit Comet." When an opportunity arose to finally move to Alaska by way of a contract DoD flight surgeon position at Joint Base Elmendorf-Richardson in late 2017, he took early retirement from NASA.
 With the end of the DoD contract in 2023, he fully retired from medical practice.
 While having more time to enjoy novice hockey, cross country skiing, hiking, and flying around Alaska, he also became increasingly dismayed at the widening gap between government and the people it exists to serve.
 LeeAnn and Dr Pete decided to "un-retire" to begin one more career of service to bring transparency and accountability back to state governance.
 Dr Pete and his wife LeeAnn live in the Mat-Su Borough.
-Peter Bauer, MD, MPH
-Colonel, USAF (Retired)
-NASA Flight Surgeon
+Peter Bauer is a retired officer of the US Air Force.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the US Air Force, the Department of Defense or any branch of U.S. government.
+Powered by RUN! website builder Paid for by Dr Pete for Alaska, 1150 S Colony Way, Ste 3, PMB 353, Palmer, AK 99645 You need to enable JavaScript to run this app.

@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.bosformissouri.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "c7f9f33f648d4cc5f211f761ba1f0af2a2065823",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

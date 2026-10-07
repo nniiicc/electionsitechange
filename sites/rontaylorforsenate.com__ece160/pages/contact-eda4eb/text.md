@@ -1,8 +1,2 @@
-Contact
-Please get in touch with any media, donation and volunteer inquiries.
-Email
-rontaylorforsenate@gmail.com
-Phone
-(208) 720-8912
-Mail
-PO Box 3172, Hailey, ID 83333
+0 Skip to Content About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Open Menu Close Menu About Priorities Updates Contact Press Kit Donate Contact Please get in touch with any media, donation and volunteer inquiries.
+Email rontaylorforsenate@gmail.com Phone (208) 720-8912 Mail PO Box 3172, Hailey, ID 83333 rontaylorforsenate@gmail.com (208) 720-8912 Paid for by Ron Taylor for Senate Michelle Stennett, Treasurer

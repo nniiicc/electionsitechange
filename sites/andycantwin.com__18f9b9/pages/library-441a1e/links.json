@@ -1,13 +1,50 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/index.html",
-"https://andycantwin.com/library/goodnight",
-"https://andycantwin.com/library/lobbyist",
-"https://andycantwin.com/library/vote",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://secure.actblue.com/donate/andybowline"
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "[image: Don't Let the Lobbyist Write the Bill cover: a small bald man in a grey suit grinning and holding up a blank piece of paper] Don't Let the Lobbyist Write the Bill Read now",
+"href": "https://andycantwin.com/library/lobbyist/"
+},
+{
+"text": "[image: Goodnight, Government cover: a windowsill view of a North Carolina town at dusk with a sleeping cat] Goodnight, Government Read now",
+"href": "https://andycantwin.com/library/goodnight/"
+},
+{
+"text": "[image: Your Vote Fucking Matters cover: a child standing on books reaching up to drop a ballot into a red, white, and blue ballot box] Your Vote F*cking Matters Read now",
+"href": "https://andycantwin.com/library/vote/"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "← back to the chaos",
+"href": "https://andycantwin.com/index.html"
+}
 ]

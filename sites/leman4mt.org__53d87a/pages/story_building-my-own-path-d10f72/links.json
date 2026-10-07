@@ -1,11 +1,58 @@
 [
-"https://facebook.com/leman4mt",
-"https://facebook.com/profile.php?id=61588004535584",
-"https://leman4mt.org/",
-"https://leman4mt.org/donate",
-"https://leman4mt.org/privacy",
-"https://leman4mt.org/terms",
-"https://nextdoor.com/page/greg-leman-for-montana",
-"https://x.com/grillnggreg",
-"https://youtube.com/@GregLeman4Montana"
+{
+"text": "Donate",
+"href": "https://leman4mt.org/donate"
+},
+{
+"text": "Donate to the Campaign",
+"href": "https://leman4mt.org/donate"
+},
+{
+"text": "Greg Leman",
+"href": "https://leman4mt.org"
+},
+{
+"text": "Home",
+"href": "https://leman4mt.org"
+},
+{
+"text": "Issues",
+"href": "https://leman4mt.org#issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://leman4mt.org/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://leman4mt.org/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://leman4mt.org#volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://nextdoor.com/page/greg-leman-for-montana"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588004535584"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@GregLeman4Montana"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/grillnggreg"
+},
+{
+"text": "facebook.com/leman4mt",
+"href": "https://facebook.com/leman4mt"
+},
+{
+"text": "← Back to Greg's Story",
+"href": "https://leman4mt.org#why-greg"
+}
 ]

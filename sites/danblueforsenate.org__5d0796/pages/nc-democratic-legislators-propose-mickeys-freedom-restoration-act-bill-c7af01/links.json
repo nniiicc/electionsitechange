@@ -1,14 +1,54 @@
 [
-"https://danblueforsenate.org/",
-"https://danblueforsenate.org/about",
-"https://danblueforsenate.org/category/bills",
-"https://danblueforsenate.org/category/sourced",
-"https://danblueforsenate.org/issues",
-"https://danblueforsenate.org/news-and-events",
-"https://danblueforsenate.org/volunteer",
-"https://facebook.com/danbluenc",
-"https://medium.com/@DanBlueNC",
-"https://secure.actblue.com/donate/dan-blue-1",
-"https://tampabay.com/news/florida-politics/2023/04/19/desantis-disney-politics-rival-north-carolina-trump",
-"https://twitter.com/DanBlueNC"
+{
+"text": "Bills",
+"href": "https://danblueforsenate.org/category/bills/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-blue-1"
+},
+{
+"text": "Follow",
+"href": "https://medium.com/@DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/DanBlueNC"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/danbluenc"
+},
+{
+"text": "Home",
+"href": "https://danblueforsenate.org/"
+},
+{
+"text": "Issues",
+"href": "https://danblueforsenate.org/issues/"
+},
+{
+"text": "Meet Dan Blue",
+"href": "https://danblueforsenate.org/about/"
+},
+{
+"text": "News and Events",
+"href": "https://danblueforsenate.org/news-and-events/"
+},
+{
+"text": "Read Full Article",
+"href": "https://www.tampabay.com/news/florida-politics/2023/04/19/desantis-disney-politics-rival-north-carolina-trump/"
+},
+{
+"text": "Sourced",
+"href": "https://danblueforsenate.org/category/sourced/"
+},
+{
+"text": "Volunteer",
+"href": "https://danblueforsenate.org/volunteer/"
+},
+{
+"text": "[image: Dan Blue For Senate]",
+"href": "https://danblueforsenate.org/"
+}
 ]

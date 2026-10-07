@@ -1,17 +1,70 @@
 [
-"https://facebook.com/joshwheelerforidaho",
-"https://legislature.idaho.gov/sessioninfo/2024/legislation/H0741",
-"https://legislature.idaho.gov/sessioninfo/2024/legislation/HR007",
-"https://legislature.idaho.gov/sessioninfo/2024/legislation/SJM102",
-"https://voteidaho.gov/online-voter-tools",
-"https://wheelerforidaho.com/",
-"https://wheelerforidaho.com/about-josh",
-"https://wheelerforidaho.com/blog",
-"https://wheelerforidaho.com/campaign",
-"https://wheelerforidaho.com/campaign-updates",
-"https://wheelerforidaho.com/contact",
-"https://wheelerforidaho.com/donate",
-"https://wheelerforidaho.com/volunteer",
-"https://wheelerforidaho.com/voting-record",
-"https://wheelerforidaho.com/why-i-am-running"
+{
+"text": "(208) 360-3926",
+"href": "tel:(208)%20360-3926"
+},
+{
+"text": "About Josh",
+"href": "https://www.wheelerforidaho.com/about-josh/"
+},
+{
+"text": "Blog",
+"href": "https://www.wheelerforidaho.com/blog/"
+},
+{
+"text": "Campaign",
+"href": "https://www.wheelerforidaho.com/campaign/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://www.wheelerforidaho.com/campaign-updates/"
+},
+{
+"text": "Contact",
+"href": "https://www.wheelerforidaho.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.wheelerforidaho.com/donate/"
+},
+{
+"text": "H741",
+"href": "https://legislature.idaho.gov/sessioninfo/2024/legislation/H0741"
+},
+{
+"text": "Home",
+"href": "https://www.wheelerforidaho.com/"
+},
+{
+"text": "House Resolution 7",
+"href": "https://legislature.idaho.gov/sessioninfo/2024/legislation/HR007"
+},
+{
+"text": "SJM102",
+"href": "https://legislature.idaho.gov/sessioninfo/2024/legislation/SJM102"
+},
+{
+"text": "Volunteer",
+"href": "https://www.wheelerforidaho.com/volunteer/"
+},
+{
+"text": "Voting Record",
+"href": "https://www.wheelerforidaho.com/voting-record/"
+},
+{
+"text": "Why I Am Running",
+"href": "https://www.wheelerforidaho.com/why-i-am-running/"
+},
+{
+"text": "[image]",
+"href": "https://voteidaho.gov/online-voter-tools/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/joshwheelerforidaho"
+},
+{
+"text": "[image] Wheeler For Idaho",
+"href": "https://www.wheelerforidaho.com/"
+}
 ]

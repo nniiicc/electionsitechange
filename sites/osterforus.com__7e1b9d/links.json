@@ -1,20 +1,98 @@
 [
-"https://amiregistered.vote.nyc/",
-"https://assembly.state.ny.us/mem/search",
-"https://bsky.app/profile/osterforus.bsky.social",
-"https://facebook.com/profile.php?id=61585222245586",
-"https://instagram.com/osterforus",
-"https://oster-for-us.solidarity.tech/",
-"https://oster-for-us.solidarity.tech/online-meet-up",
-"https://osterforus.com/",
-"https://osterforus.com/block-builders",
-"https://osterforus.com/volunteer",
-"https://secure.actblue.com/donate/osterforus",
-"https://secure.actblue.com/donate/osterforus?amount=10",
-"https://secure.actblue.com/donate/osterforus?amount=100",
-"https://secure.actblue.com/donate/osterforus?amount=250",
-"https://secure.actblue.com/donate/osterforus?amount=33",
-"https://secure.actblue.com/donate/osterforus?amount=50",
-"https://tiktok.com/@osterforus?lang=en",
-"https://x.com/osterforus"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/osterforus/?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/osterforus/?amount=100"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/osterforus/?amount=250"
+},
+{
+"text": "$33",
+"href": "https://secure.actblue.com/donate/osterforus/?amount=33"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/osterforus/?amount=50"
+},
+{
+"text": "About",
+"href": "https://osterforus.com/#about"
+},
+{
+"text": "BE A BLOCK BUILDER",
+"href": "https://www.osterforus.com/block-builders/"
+},
+{
+"text": "Check to see if you are a District 33 resident",
+"href": "https://assembly.state.ny.us/mem/search/"
+},
+{
+"text": "Check your voter registration status!",
+"href": "https://amiregistered.vote.nyc"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/osterforus"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/osterforus/"
+},
+{
+"text": "EMAIL US",
+"href": "mailto:osterforus@gmail.com"
+},
+{
+"text": "EVENTS",
+"href": "https://oster-for-us.solidarity.tech"
+},
+{
+"text": "MEET OSTER",
+"href": "https://oster-for-us.solidarity.tech/online-meet-up"
+},
+{
+"text": "PLATFORM",
+"href": "https://osterforus.com/#issues"
+},
+{
+"text": "SUPPORT",
+"href": "https://www.osterforus.com/volunteer/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.osterforus.com/volunteer/"
+},
+{
+"text": "[image: Oster For Us]",
+"href": "https://www.osterforus.com"
+},
+{
+"text": "[image: magnifico]",
+"href": "https://www.osterforus.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/osterforus.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61585222245586"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/osterforus/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@osterforus?lang=en"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/osterforus"
+}
 ]

@@ -1,8 +1,58 @@
 [
-"https://facebook.com/stecforsenate",
-"https://secure.winred.com/stec-for-senate/donate-today",
-"https://stecforsenate.com/",
-"https://stecforsenate.com/about-dan",
-"https://stecforsenate.com/contact",
-"https://twitter.com/danstec"
+{
+"text": "About Dan",
+"href": "https://www.stecforsenate.com/about-dan"
+},
+{
+"text": "Carry Petitions",
+"href": "mailto:dan@stecforsenate.com?subject=Volunteer+-+Carry+Petitions"
+},
+{
+"text": "Contact",
+"href": "https://www.stecforsenate.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stec-for-senate/donate-today"
+},
+{
+"text": "Home",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "Lawn Sign Request",
+"href": "mailto:dan@stecforsenate.com?subject=Lawn+Sign+Request"
+},
+{
+"text": "Make Phone Calls",
+"href": "mailto:dan@stecforsenate.com?subject=Volunteer+-+Make+phone+calls"
+},
+{
+"text": "Other",
+"href": "mailto:dan@stecforsenate.com?subject=I+would+like+to+volunteer"
+},
+{
+"text": "SENATOR DAN STEC",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/stecforsenate/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/danstec"
+},
+{
+"text": "[no text]",
+"href": "https://www.stecforsenate.com"
+},
+{
+"text": "dan@stecforsenate.com",
+"href": "mailto:dan@stecforsenate.com"
+},
+{
+"text": "stecforsenate@gmail.com",
+"href": "mailto:dan@stecforsenate.com"
+}
 ]

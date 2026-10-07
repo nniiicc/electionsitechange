@@ -1,22 +1,94 @@
 [
-"https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunset+Cocktails+%26%23038%3B+Company&dates=20260326T213000Z%2F20260327T000000Z&details=Join+us+for+our+fundraising+event.&location=185+Banyan+Blvd+West+Palm+Beach%2C+FL+33401",
-"https://debadeimy4congress.com/",
-"https://debadeimy4congress.com/?method=ical&id=3475",
-"https://debadeimy4congress.com/contact",
-"https://debadeimy4congress.com/events",
-"https://debadeimy4congress.com/issues",
-"https://debadeimy4congress.com/mec-category/fundraiser",
-"https://debadeimy4congress.com/meet-deb-adeimy",
-"https://debadeimy4congress.com/news",
-"https://debadeimy4congress.com/photo-gallery",
-"https://debadeimy4congress.com/privacy-policy",
-"https://debadeimy4congress.com/site-map",
-"https://debadeimy4congress.com/videos",
-"https://facebook.com/DebAdeimyCongress",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F",
-"https://instagram.com/debadeimy",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F",
-"https://secure.winred.com/deborah-adeimy-for-congress/win2026",
-"https://secure.winred.com/deborah-adeimy-for-congress/win26",
-"https://x.com/intent/tweet?url=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F"
+{
+"text": "+ Add to Google Calendar",
+"href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sunset+Cocktails+%26%23038%3B+Company&dates=20260326T213000Z%2F20260327T000000Z&details=Join+us+for+our+fundraising+event.&location=185+Banyan+Blvd+West+Palm+Beach%2C+FL+33401"
+},
+{
+"text": "+ iCal / Outlook export",
+"href": "https://debadeimy4congress.com/?method=ical&id=3475"
+},
+{
+"text": "Contact Us",
+"href": "https://debadeimy4congress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/deborah-adeimy-for-congress/win2026"
+},
+{
+"text": "Events",
+"href": "https://debadeimy4congress.com/events"
+},
+{
+"text": "Fundraiser",
+"href": "https://debadeimy4congress.com/mec-category/fundraiser/"
+},
+{
+"text": "HOT News",
+"href": "https://debadeimy4congress.com/news/"
+},
+{
+"text": "Home",
+"href": "https://debadeimy4congress.com/"
+},
+{
+"text": "Issues",
+"href": "https://debadeimy4congress.com/issues/"
+},
+{
+"text": "Meet Deborah",
+"href": "https://debadeimy4congress.com/meet-deb-adeimy/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://debadeimy4congress.com/photo-gallery/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://debadeimy4congress.com/privacy-policy/"
+},
+{
+"text": "RSVP Online",
+"href": "https://secure.winred.com/deborah-adeimy-for-congress/win26"
+},
+{
+"text": "Site Map",
+"href": "https://debadeimy4congress.com/site-map"
+},
+{
+"text": "Videos",
+"href": "https://debadeimy4congress.com/videos/"
+},
+{
+"text": "[image: DEBORAH ADEIMY For U.S. Congress]",
+"href": "https://debadeimy4congress.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/DebAdeimyCongress"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/debadeimy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/DebAdeimyCongress"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:?subject=Sunset+Cocktails+&+Company=&body=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F"
+},
+{
+"text": "[tooltip: Linkedin]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F"
+},
+{
+"text": "[tooltip: X Social Network]",
+"href": "https://x.com/intent/tweet?url=https%3A%2F%2Fdebadeimy4congress.com%2Fevents%2Fsunset-cocktails-company%2F"
+}
 ]

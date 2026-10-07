@@ -1,13 +1,12 @@
-Hi.
+0 Skip to Content MEET BRION Priorities Get Involved Vote Endorsements DONATE Open Menu Close Menu MEET BRION Priorities Get Involved Vote Endorsements DONATE Open Menu Close Menu MEET BRION Priorities Get Involved Vote Endorsements DONATE Hi.
 I’m brion.
 Born and raised in the Northeast Metro, Brion was raised in a household where the values of community service and sacrifice for the common good were central tenets of life.
 She spent 20 years serving our neighbors with developmental disabilities.
 For a decade, Brion was responsible for billing government-funded services with an impeccable audit record, ensuring every taxpayer dollar went directly to supporting our vulnerable neighbors.
-This work drives Brion's passion to serve on the Human Services Policy Committee, where they passed bills to further independence and access to community resources while putting a stop to fraud.
+This work drives Brion's passion to serve on the Human Services Policy Committee , where they passed bills to further independence and access to community resources while putting a stop to fraud.
 In 2026, Brion was a top negotiator when critical human services and fraud-related legislation was hanging in the balance.
 They got the job done.
-A Journey through Public Safety
-Service to community called to Brion, and she wanted to do something more to help people directly.
+A Journey through Public Safety Service to community called to Brion, and she wanted to do something more to help people directly.
 While working full-time at Northeast Residence, they started classes at Century College, finishing with an Associate's degree in Investigative Sciences for Law Enforcement with a Certificate in Investigations and a 4.0 GPA.
 Brion then joined the White Bear Lake Police Department as a Volunteer Police Reserve Officer.
 They rose to the rank of Reserve Sergeant, responsible for local event coordination and training other reserve officers.
@@ -33,5 +32,5 @@ Brion has now represented the district for four years.
 In this role, they serve currently serve on the Human Services, Public Safety, and Judiciary committees.
 She is also an Assistant Floor Leader for the House DFL Caucus, ensuring the team always puts its best foot forward when making decisions.
 District 36B includes Vadnais Heights, White Bear Lake, Gem Lake, Birchwood Village and parts of White Bear Township.
-A New Chapter in Serving the Community
-As your elected State Representative, Brion will once again serve the community with honor, integrity and dedication.
+A New Chapter in Serving the Community As your elected State Representative, Brion will once again serve the community with honor, integrity and dedication.
+PRIORITIES Prepared and paid for by the Brion (Curran) for House committee PO Box 10621 - 2223 5th Street White Bear Lake, MN 55110 brion@brioncurran.com

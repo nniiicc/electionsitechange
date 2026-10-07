@@ -1,9 +1,9 @@
-We all have a tendency in this country to take shortcuts when deciding who to vote for.
+Skip to content Home Issues About Contact Volunteer Newsletter Signup Donate Home Issues About Contact Volunteer Newsletter Signup Donate Menu Issues Home Issues We all have a tendency in this country to take shortcuts when deciding who to vote for.
 Many decide that they’ll just vote for everyone in one party and never anybody from the others, and they stay that way the rest of their lives.
 While that’s certainly easy, it’s not necessarily the best way to get people who really represent you.
 Democracy takes work, and that includes looking at each candidate individually to decide who you think is actually the better choice.
 Whether you vote for me or not, I want to make sure you know where I stand on the issues that I think matter most to Idahoans.
-The increased cost of living for Nampa residents, and all Idahoans, affects all of us, whether we think of ourselves as being on the left, the right, or neither.
+Housing Costs The increased cost of living for Nampa residents, and all Idahoans, affects all of us, whether we think of ourselves as being on the left, the right, or neither.
 The biggest chunk of our personal budgets is usually our rent or mortgage, and the cost of housing has increased dramatically over the past 10 years.
 The economic forces behind this are complicated, as they often are, but basic supply and demand is a big part of it.
 So, we need to increase the supply of quality, affordable housing in a way that’s responsible and sustainable.
@@ -14,7 +14,7 @@ This might mean housing vouchers and rental assistance, stronger renter’s prot
 We need to study all the options, and choose the most promising ones, regardless of whether it fits with our political ideology.
 This isn’t a left vs. right issue.
 This is about taking care of each other, and helping folks to have the dignity of being able to take care of themselves.
-Nampa’s public schools are still reeling from years of budgets that fall short of their needs, culminating in multiple school closures.
+Education Nampa’s public schools are still reeling from years of budgets that fall short of their needs, culminating in multiple school closures.
 Now, the Republicans in the state legislature have enacted a voucher scheme, which essentially takes money from the public school system and gives it to families to use for private, often religious schools.
 This hurts our public schools at a time when they need support more than ever.
 That’s bad enough.
@@ -26,7 +26,7 @@ The voucher program is already one of the main drivers of our budget shortfall, 
 Instead of subsidizing private religious schools at the expense of ordinary families (not to mention our balanced budget) we should let these private schools sink or swim on their own.
 Idaho has an obligation to its citizens to provide quality education to all its children, whether they’re barely scraping by in a remote region or flourishing in Boise.
 Public education is a cornerstone of a flourishing and equitable society, and we must do better.
-Healthcare has become a bigger issue than ever in Idaho in recent years.
+Healthcare Healthcare has become a bigger issue than ever in Idaho in recent years.
 Federal attempts to increase access to the Medicaid program were rejected by our legislature for purely political reasons.
 In response, a grassroots effort to put Medicaid expansion on the ballot was successful.
 Ever since then, our Republican legislators have worked hard to reduce Medicaid coverage for Idahoans, as well as to make initiatives even harder to get on the ballot.
@@ -42,7 +42,7 @@ Some businesses even report this situation has resulted in them declining to ope
 We need to encourage and support health providers in rural areas.
 We need to honor the mandate given by Idahoans to expand access to the Medicaid program.
 And we need to increase access to quality women’s health care, which includes abortion procedures.
-You read that right.
+Fiscal Responsibility You read that right.
 The GOP has lost the right to claim they are the party of fiscal responsibility.
 Their insistence on tax breaks for wealthy individuals and corporations, their fondness for leaving federal dollars on the table out of “principles”, and their irresponsible school voucher scheme have all endangered our long tradition of having a balanced budget.
 A tradition established in the very foundational document of the state of Idaho, our state constitution.
@@ -55,7 +55,7 @@ If they did, we’d see those priorities reflected in the budget.
 We can pay for the things we think are important without hurting ordinary Idahoans to do it.
 We can have a government that works for the people, and not just the big businesses.
 We just need the will to get it done.
-Lesbian, gay, bisexual, transgender, queer, intersex, and asexual people are… people.
+LGBTQ Lesbian, gay, bisexual, transgender, queer, intersex, and asexual people are… people.
 And that’s all that matters.
 All anybody is asking for is that we be civil to each other.
 That we treat each other fairly.
@@ -67,7 +67,7 @@ We need to enact those same protections that we extend to everyone else.
 It won’t cost us anything.
 We won’t have to give up anything.
 There’s enough room in Idaho and in our hearts for everyone.
-I can’t believe that I have to say this, but reading books is a pretty good thing.
+Libraries I can’t believe that I have to say this, but reading books is a pretty good thing.
 Encouraging our kids to read is even better.
 Books let us experience the world through the eyes of others, allowing us to see points of view we otherwise might never imagine.
 I’ve never heard someone say that they regret having read a book as a child.
@@ -82,7 +82,7 @@ These attacks on librarians are not about protecting children or anyone else.
 They are about intolerance towards the gay and trans community.
 These attempts to ban books say more about the book-banners than they do about anyone else.
 Stop the book bans, let the librarians and teachers do their jobs, and leave the “culture wars” out of our libraries.
-I think we are past the point where we can really debate whether climate change is real.
+Climate Change I think we are past the point where we can really debate whether climate change is real.
 The evidence is all around, from vanishing ice sheets to changing ocean currents.
 We don’t even need to go to the oceans or the poles to see the proof.
 We’re seeing it here in Idaho with our own eyes, every day.
@@ -102,3 +102,5 @@ We can work with agriculture and industry to reduce their emissions of carbon di
 It’s all possible, and there’s no reason any of it has to have any negative impact on the economy or our daily lives.
 We don’t need to ban hamburgers or take away your pickup truck.
 We just have to be thoughtful about how we do it, and be willing to change.
+The Footer Message If you’ve made it down here to the bottom, you should consider volunteering or donating !
+Contact Info Address: PO Box 1134, Nampa ID, 83653 Mobile: (208) 350-8041 Email: cliff@cliff-for-idaho.org Copyright © # - WordPress Theme by Creative Themes Privacy Policy Paid for by Cliff Hohman for Idaho, Melissa Quinn Treasurer

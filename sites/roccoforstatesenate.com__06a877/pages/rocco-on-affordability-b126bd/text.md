@@ -1,13 +1,14 @@
-Affordability Is Not a Slogan.
+Skip to content R Rocco for State Senate SD65 Toggle menu About Issues News Donate $75 for Free Get Involved Contact Donate WHAT'S NEW!?!
+DONATE $75 for FREE Homepage · News Affordability Is Not a Slogan.
 It Is the Rent, the Tabs, and the School Bill.
-Rocco for State Senate — SD 65
-Minnesota is not expensive because families suddenly forgot how to budget.
+September 22, 2026 · Steve Affordability Is Not a Slogan.
+It Is the Rent, the Tabs, and the School Bill.
+Rocco for State Senate — SD 65 Minnesota is not expensive because families suddenly forgot how to budget.
 It is expensive because one party has run the state for most of the last fifty years and treated your paycheck as a slush fund.
 In that half-century Minnesota has had one Republican governor — Tim Pawlenty.
 Democrats have held the House, Senate, and governor’s office together more than fifteen times.
 Every time they lock the trifecta, taxes go up, pet projects get funded, and working people are told to feel grateful.
-The tax file
-Minnesota’s top personal income-tax rate is 9.85 percent — among the highest in the country.
+The tax file Minnesota’s top personal income-tax rate is 9.85 percent — among the highest in the country.
 The Tax Foundation ranks the state’s tax code 44th for competitiveness.
 General-fund collections eat a larger share of personal income here than in almost every other state.
 That is not a talking point.
@@ -26,14 +27,13 @@ Rocco’s position is the opposite.
 Transportation money should move cars and freight, not lecture commuters.
 If a project does not cut travel time for the majority, it is a hobby.
 Hobbies should not be paid with tab fees.
-Schools: more money, same unions, kids who still cannot read
-Minnesota spends about $17,100 per public-school pupil.
+Schools: more money, same unions, kids who still cannot read Minnesota spends about $17,100 per public-school pupil .
 That is not a poor state.
-On the 2024 Minnesota Comprehensive Assessments, fewer than half of students were proficient — about 45 percent in math and 50 percent in reading.
+On the 2024 Minnesota Comprehensive Assessments, fewer than half of students were proficient — about 45 percent in math and 50 percent in reading .
 On demographically adjusted NAEP rankings, Minnesota falls to the middle of the pack and near the bottom third in fourth-grade reading.
 Thirteen states beat Minnesota on fourth-grade reading while spending less per student.
 The system still takes the full allocation for a child who cannot read at grade level, then fights any parent who wants that money to follow the student to a private school, a charter that works, or a tutor.
-Minnesota has no ESA and no voucher.
+Minnesota has no ESA and no voucher .
 Families get a limited tax credit and deduction.
 Other states now run universal choice.
 Here the teachers union keeps the check.
@@ -53,18 +53,16 @@ Minnesota has run historic fraud through feeding programs, housing, and Medicaid
 Juries convict.
 Judges toss verdicts.
 Defendants bounce to the next grant.
-Rocco will push two hard rules:
-- A yearly statewide audit of major spending — human services, education, transportation, and every program that has already produced a scandal.
+Rocco will push two hard rules: A yearly statewide audit of major spending — human services, education, transportation, and every program that has already produced a scandal.
 No more waiting for the FBI to do the Legislature’s job.
 If you cannot find the gap in the budget, you cannot close it.
-- If you are kicked off a public program for alleged fraud, you do not get on another state program until the original fraud conviction is overturned.
+If you are kicked off a public program for alleged fraud, you do not get on another state program until the original fraud conviction is overturned.
 Not a cousin’s LLC.
 Not a rebranded nonprofit.
 Not a new “community partner” with the same officers.
 One case, one lockout, until a court wipes the conviction.
 That is how you stop the carousel.
-What affordability means in SD 65
-Cut the tax appetite.
+What affordability means in SD 65 Cut the tax appetite.
 Stop funding hobbies with tab fees and gas taxes.
 Make school money portable.
 Audit every year.
@@ -74,3 +72,9 @@ If you want a cheaper Minnesota, you do not vote for the people who priced it.
 Stop voting for the same people who got us in this mess in the first place.
 Stop voting BLUE no matter who.
 Vote RED instead, and together we can make a better tomorrow.
+Topics: affordability , audit the state , et projects , gas tax , pet projects , school choice , spending , taxes From the campaign Latest News September 23, 2026 Restore the Flag Minnesota Actually Loved September 23, 2026 The War on Cops: Let Cops Be Cops Again September 23, 2026 Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes See all news → Minnesota voters Donate $75.
+Get $75 Back.
+Minnesota’s Political Contribution Refund may return up to $# of your campaign donation—making your support possibly free.
+Learn How It Works ← Minnesota Fraud Is Not a Glitch.
+It Is a Business Model.
+Transportation Proposal: Restoring Sanity to Minnesota’s Commuter Routes → Paid for by Rocco for State Senate, PO Box 270172, Saint Paul, MN 55127-0172 © # Rocco for State Senate

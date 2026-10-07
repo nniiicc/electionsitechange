@@ -1,7 +1,11 @@
 {
  "description": "Find upcoming campaign events and volunteer opportunities with Lauren Jewett for Congress.",
  "final_url": "https://www.laurenjewett.com/events",
- "paid_for_by": "Paid for by the Committee to Elect Lauren Jewett for Congress \u00a9 Copyright 2026",
+ "fingerprint": "15347b0f891f33160852ac2422551c6b314ff5d6",
+ "format": 3,
+ "paid_for_by": "Sponsored by: Bishop Soule & Brenda Ann Palmer Refreshments will be provided",
  "title": "Events | Lauren Jewett for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

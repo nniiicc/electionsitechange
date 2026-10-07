@@ -1,19 +1,74 @@
 [
-"https://aboutads.info/",
-"https://cassieblausey.com/",
-"https://cassieblausey.com/about",
-"https://cassieblausey.com/accessibility-statement",
-"https://cassieblausey.com/cdn-cgi/l/email-protection",
-"https://cassieblausey.com/endorsements-distinctions",
-"https://cassieblausey.com/es/inicio",
-"https://cassieblausey.com/join",
-"https://cassieblausey.com/priorities",
-"https://cassieblausey.com/privacy-policy",
-"https://cassieblausey.com/sitemap",
-"https://cassieblausey.com/terms-of-service",
-"https://facebook.com/cassieblausey",
-"https://google.com/policies/privacy/partners",
-"https://instagram.com/cassieblausey",
-"https://secure.actblue.com/donate/cassieblausey",
-"https://tools.google.com/dlpage/gaoptout"
+{
+"text": "Accessibility Statement",
+"href": "https://cassieblausey.com/accessibility-statement/"
+},
+{
+"text": "Chip in to Flip District 29",
+"href": "https://secure.actblue.com/donate/cassieblausey"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/cassieblausey"
+},
+{
+"text": "En Español",
+"href": "https://cassieblausey.com/es/inicio/"
+},
+{
+"text": "Endorsements & Distinctions",
+"href": "https://cassieblausey.com/endorsements-distinctions/"
+},
+{
+"text": "Join Cassie",
+"href": "https://cassieblausey.com/join/"
+},
+{
+"text": "Link To Facebook Page",
+"href": "https://www.facebook.com/cassieblausey"
+},
+{
+"text": "Link To Instagram Page",
+"href": "https://www.instagram.com/cassieblausey/"
+},
+{
+"text": "Meet Cassie",
+"href": "https://cassieblausey.com/about/"
+},
+{
+"text": "Priorities",
+"href": "https://cassieblausey.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://cassieblausey.com/privacy-policy/"
+},
+{
+"text": "Sitemap",
+"href": "https://cassieblausey.com/sitemap/"
+},
+{
+"text": "Terms of Service",
+"href": "https://cassieblausey.com/terms-of-service/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:cassie@cassieblausey.com"
+},
+{
+"text": "[image]",
+"href": "https://cassieblausey.com"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout/",
+"href": "https://tools.google.com/dlpage/gaoptout/"
+},
+{
+"text": "https://www.google.com/policies/privacy/partners/",
+"href": "https://www.google.com/policies/privacy/partners/"
+},
+{
+"text": "www.aboutads.info",
+"href": "https://www.aboutads.info"
+}
 ]

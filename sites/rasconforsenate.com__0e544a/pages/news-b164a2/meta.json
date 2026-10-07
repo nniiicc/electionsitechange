@@ -1,7 +1,12 @@
 {
- "description": "Read the latest coverage of Sarah Rasc\u00f3n\u2019s run for State Senate \u2014 press, opinion, and local reporting on the issues facing our community in 2026.",
+ "description": "Read the latest coverage of Sarah Rascón’s run for State Senate — press, opinion, and local reporting on the issues facing our community in 2026.",
  "final_url": "https://www.rasconforsenate.com/news",
+ "fingerprint": "c77bd9dd20901d48d1166fa93ea9fd9d023c6db5",
+ "format": 3,
  "paid_for_by": "Paid for by Rascon for State Senate 2026 FPPC #1481478 249 E",
- "title": "Sarah Rasc\u00f3n in the News | State Senate District 26 2026",
- "years_mentioned": []
+ "title": "Sarah Rascón in the News | State Senate District 26 2026",
+ "years_mentioned": [
+  "2025",
+  "2026"
+ ]
 }

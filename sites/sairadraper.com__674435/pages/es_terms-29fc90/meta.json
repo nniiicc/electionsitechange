@@ -1,7 +1,11 @@
 {
- "description": "T\u00e9rminos de servicio de votesaira.com, incluidos los t\u00e9rminos y condiciones del programa de mensajes de texto.",
+ "description": "Términos de servicio de votesaira.com, incluidos los términos y condiciones del programa de mensajes de texto.",
  "final_url": "https://www.sairadraper.com/es/terms",
- "paid_for_by": null,
- "title": "T\u00e9rminos de servicio \u2014 Saira Draper para el Distrito 44 del Senado",
- "years_mentioned": []
+ "fingerprint": "c3020bb3f1bdc8a849f0af6fbb91551d24528c32",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Términos de servicio — Saira Draper para el Distrito 44 del Senado",
+ "years_mentioned": [
+  "2026"
+ ]
 }

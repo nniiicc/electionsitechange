@@ -1,9 +1,30 @@
 [
-"https://martinezforqueens.com/",
-"https://martinezforqueens.com/about",
-"https://martinezforqueens.com/cart",
-"https://martinezforqueens.com/endorsements",
-"https://martinezforqueens.com/media",
-"https://martinezforqueens.com/priorities",
-"https://secure.actblue.com/donate/martinezforqueens-web"
+{
+"text": "0",
+"href": "https://www.martinezforqueens.com/cart"
+},
+{
+"text": "About Patrick",
+"href": "https://www.martinezforqueens.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/martinezforqueens-web"
+},
+{
+"text": "Endorsements",
+"href": "https://www.martinezforqueens.com/endorsements"
+},
+{
+"text": "Media",
+"href": "https://www.martinezforqueens.com/media"
+},
+{
+"text": "Priorities",
+"href": "https://www.martinezforqueens.com/priorities"
+},
+{
+"text": "[image: Patrick Martinez]",
+"href": "https://www.martinezforqueens.com/"
+}
 ]

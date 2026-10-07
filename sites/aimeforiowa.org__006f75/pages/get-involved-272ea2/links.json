@@ -1,14 +1,62 @@
 [
-"https://aimeforiowa.org/",
-"https://aimeforiowa.org/about",
-"https://aimeforiowa.org/contact",
-"https://aimeforiowa.org/donate",
-"https://aimeforiowa.org/endorsements",
-"https://aimeforiowa.org/get-involved",
-"https://aimeforiowa.org/house-party",
-"https://aimeforiowa.org/policy",
-"https://aimeforiowa.org/yard-sign",
-"https://facebook.com/profile.php?id=61554223334630",
-"https://twitter.com/aimeforiowa",
-"https://youtube.com/@aimejwichtendahl5292"
+{
+"text": "About Aime",
+"href": "https://aimeforiowa.org/about/"
+},
+{
+"text": "Contact",
+"href": "https://aimeforiowa.org/contact/"
+},
+{
+"text": "Donate",
+"href": "https://aimeforiowa.org/donate"
+},
+{
+"text": "Donate",
+"href": "https://aimeforiowa.org/donate/"
+},
+{
+"text": "Donate Today",
+"href": "https://aimeforiowa.org/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://aimeforiowa.org/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://aimeforiowa.org/get-involved/"
+},
+{
+"text": "Host House Party",
+"href": "https://aimeforiowa.org/house-party"
+},
+{
+"text": "Policy",
+"href": "https://aimeforiowa.org/policy/"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://aimeforiowa.org/yard-sign"
+},
+{
+"text": "Request Yard Sign",
+"href": "https://aimeforiowa.org/yard-sign/"
+},
+{
+"text": "[image: Vote Aime Wichtendahl for Iowa's Future logo]",
+"href": "https://aimeforiowa.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/aimeforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61554223334630"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@aimejwichtendahl5292"
+}
 ]

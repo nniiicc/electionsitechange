@@ -1,17 +1,70 @@
 [
-"http://facebook.com/bronsonforgovernor",
-"http://instagram.com/bronsonforgovernor",
-"http://tiktok.com/@bronsonforgovernor",
-"https://davebronson.com/",
-"https://davebronson.com/about-dave",
-"https://davebronson.com/about-josh",
-"https://davebronson.com/cart",
-"https://davebronson.com/contact",
-"https://davebronson.com/get-involved",
-"https://davebronson.com/home",
-"https://davebronson.com/policies",
-"https://davebronson.com/privacy-policy",
-"https://secure.anedot.com/bronson-for-governor/donate",
-"https://x.com/alaska4bronson",
-"https://youtube.com/@bronsonforgovernor"
+{
+"text": "0",
+"href": "https://www.davebronson.com/cart"
+},
+{
+"text": "About Dave",
+"href": "https://www.davebronson.com/about-dave"
+},
+{
+"text": "About Josh",
+"href": "https://www.davebronson.com/about-josh"
+},
+{
+"text": "Contact Dave",
+"href": "https://www.davebronson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/bronson-for-governor/donate"
+},
+{
+"text": "Dave and Josh's Policies",
+"href": "https://www.davebronson.com/policies"
+},
+{
+"text": "Donate Today!",
+"href": "https://secure.anedot.com/bronson-for-governor/donate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.davebronson.com/get-involved"
+},
+{
+"text": "Privacy Policy and Terms & Conditions",
+"href": "https://www.davebronson.com/privacy-policy"
+},
+{
+"text": "[image: Dave Bronson for Alaska Governor]",
+"href": "https://www.davebronson.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.davebronson.com/home"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/bronsonforgovernor"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/bronsonforgovernor"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@bronsonforgovernor"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/alaska4bronson"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@bronsonforgovernor"
+},
+{
+"text": "info@davebronson.com",
+"href": "mailto:info@davebronson.com"
+}
 ]

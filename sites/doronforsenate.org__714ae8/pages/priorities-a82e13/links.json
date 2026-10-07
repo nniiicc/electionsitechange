@@ -1,14 +1,58 @@
 [
-"http://instagram.com/doronclark",
-"http://x.com/doronclark",
-"https://bsky.app/profile/doronclark.bsky.social",
-"https://doronforsenate.org/",
-"https://doronforsenate.org/about",
-"https://doronforsenate.org/cart",
-"https://doronforsenate.org/contact-us",
-"https://doronforsenate.org/endorsements",
-"https://doronforsenate.org/events",
-"https://doronforsenate.org/priorities",
-"https://facebook.com/profile.php?id=61571347981522",
-"https://secure.actblue.com/donate/doronforsenate"
+{
+"text": "0",
+"href": "https://www.doronforsenate.org/cart"
+},
+{
+"text": "About Doron",
+"href": "https://www.doronforsenate.org/about"
+},
+{
+"text": "CONTACT / FEEDBACK",
+"href": "https://www.doronforsenate.org/contact-us"
+},
+{
+"text": "Contact Us",
+"href": "https://www.doronforsenate.org/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/doronforsenate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.doronforsenate.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.doronforsenate.org/events"
+},
+{
+"text": "Priorities",
+"href": "https://www.doronforsenate.org/priorities"
+},
+{
+"text": "Request a Lawn Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSemXPYKTVqbQrEuORFR91jdFpWpdsDg_XdNL_tV89t5ZjE2uQ/viewform?usp=header"
+},
+{
+"text": "[image: Doron Clark for Senate]",
+"href": "https://www.doronforsenate.org/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/doronclark"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/doronclark"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doronclark.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61571347981522"
+}
 ]

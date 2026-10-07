@@ -1,109 +1,13 @@
+Skip to content Gonzalo Duran Vice Chairman of the Bronx Conservative Party & Candidate for US Congress in New York’s 15th Congressional District Menu Gonzalo Duran Autobiography Press Videos Articles Press Release Gonzalo In The Press Platforms Veterans Health Safety Housing Education Employment Environment Animal Issues Transportation Civil Engagement Burn Pits – Has Heart Help The Team Volunteer Contribute Events Scheduled Events Event Photos Contact Us Posted on September 11, 2025 April 28, 2026 by Gonzalo Duran Gonzalo Duran in the Press This photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to.
 This featured photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to, please give credit if possible to Elianni Tejada .
-A curated archive of Gonzalo Duran’s appearances in the press and across media, including articles, video segments, radio interviews, and notable mentions.
-Nonprofit Work:
-Featured Video Interviews:
-- NY1 – Fight to House Veterans
-- NY1 – Fighting to Help Other Vets
-- Nasdaq – Opening Bell
-- News 12 – Veterans Day Ceremony
-- News 12 – Santa Hat Program
-- News 12 – New Office
-- YouTube – Devil Dog USA Inc.
-Account
-- New 8 CT – Save A Suit Pop Up
-- Has Heart – Gonzalo Duran Burn Pits
-- CBS News – Equipment Stolen from Devil Dog Mobile
-- CBS News – Donation to Recipuse Equipment
-- CBS News – Marine on a Mission
-- NSSN News – Congressional District 15 Debate
-- BronxNet Open – Golf Program
-- ABC 7 Tiempo I – Veteran Housing Program
-- ABC 7 Tiempo II – Veteran Golf Program
-- Fox and Friends News – Student Veteran Homelessness
-- No Sound Bites Allowed – Congressional Race
-——————————–
-- NY 1 *
-- News 12 *
-- News 12 *
-- News 12 *
-- News 12 *
-- News 12 *
-- CBS News *
-- Political Lens
-- BronxNet Open *
-- BronxNet Open *
-- BronxNet Open *
-- ABC Tiempo Part I *
-- ABC Tiempo Part II *
-- Fox and Friends News*
-Featured Article Interviews:
-- News 12 – Home to be Shelter for Veterans
-- News 12 – Helps Find Housing for Veterans
-- News 12 – Working to House Ex-Military Students
-- DNAInfo – House Cleanup
-- DNAInfo – Home to Help Veterans
-- Fox News – Devil Dog Mobile Broken Into
-- Fox News – Devil Dog USA Inc.
-- DailyNews – Non Profit Helps Veterans
-- DailyNews – Home to Help Veterans
-- News 8 CT – Pop Shop Save A Suit
-- CBS 2 News – Veteran Housing Program
-- BronxTimes – Pre Valentine’s Day
-- BronxTimes – Self Defense Course
-- BronxTimes – Movie Club Program
-- BronxTimes – Hug A Vet Program
-- BronxTimes – Bronx Veteran of the Year
-- BronxTimes – Office Christmas Miracle
-- BronxTimes + Additional Articles
-- 9 & 10 News – Santa Hat Program
-- Norwood News – Remembering Luis Moreno
-- Norwood News – Three Kings Day
-- Norwood News – Everyday is Veteran’s Day for Me
-- Norwood News + Additional Articles
-- Riverdale Press – The Bronx Veteran Political Party
-- Riverdale Press – Santa Program
-- Riverdale Press + Additional Articles
-- The Fordham Ram – Devil Dog USA
-- Courier News Arkansas – Memorial Site
-——————————————-
-Featured Radio Interviews:
-——————————————-
-Political Work:
-Featured Video Interviews:
-- YouTube – Personal Account
-- BronxNet – Bronx is MAGA
-- BronxNet – Congressional Race
-- LA7 Italian Media – Pres Trump’s Policies in NYC
-Featured Article Interviews:
-- NY1 – Public Advocate Interview
-- Daily News – Trump Dept. of VA
-- Daily News – Trump Privatize VA
-- BronxTimes – Running for Mayor 2025
-- BronxTimes – Lithium Battery Plant Protest
-- BronxTimes – Anti Socialism Protest
-- BronxTimes – Conservative Candidate Mixer
-- BronxTimes – Viable Candidate Event 2024
-- BronxTimes – Bronx is MAGA Rally
-- BronxTimes – Trump Momentum
-- BronxTimes – 100th Voter Registration
-- BronxTimes – Joined the Conservative Party
-- BronxTimes – City Council Race 2023
-- BronxTimes – 2025 Campaign Race
-- BronxTimes – Democrat Cooperation
-- BronxTimes + Additional Articles
-- Sing Tao USA – Democratic Endorsement
-- Sing Tao USA – Public Advocate
-- Bronx Journal – Redefining Bronx Conservatism
-- Norwood News – Swimming Pool
-- Norwood News – Civic Engagement
-- Norwood News – Trump Controversy
-- Norwood News – Congressional Race
-- Norwood News – Bringing Back the Conservative Party
-- Norwood News + Additional Articles
-- Riverdale Press – Congressional Race
-- Riverdale Press + Additional Articles
-- Bronx Chronicle – Political Roundup
-- Washington Times – Welcome Back President Trump
-- Panorama Dominican Media – Legal Immigration
-Featured Radio Interviews:
-This photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to, please give credit if possible to Today’s Pixels.
+A curated archive of Gonzalo Duran ’s appearances in the press and across media, including articles, video segments, radio interviews, and notable mentions.
+Nonprofit Work: Featured Video Interviews: NY1 – Fight to House Veterans NY1 – Fighting to Help Other Vets Nasdaq – Opening Bell News 12 – Veterans Day Ceremony News 12 – Santa Hat Program News 12 – New Office YouTube – Devil Dog USA Inc.
+Account New 8 CT – Save A Suit Pop Up Has Heart – Gonzalo Duran Burn Pits CBS News – Equipment Stolen from Devil Dog Mobile CBS News – Donation to Recipuse Equipment CBS News – Marine on a Mission NSSN News – Congressional District 15 Debate BronxNet Open – Golf Program ABC 7 Tiempo I – Veteran Housing Program ABC 7 Tiempo II – Veteran Golf Program Fox and Friends News – Student Veteran Homelessness No Sound Bites Allowed – Congressional Race ——————————– NY 1 * News 12 * News 12 * News 12 * News 12 * News 12 * CBS News * Political Lens BronxNet Open * BronxNet Open * BronxNet Open * ABC Tiempo Part I * ABC Tiempo Part II * Fox and Friends News * Featured Article Interviews: News 12 – Home to be Shelter for Veterans News 12 – Helps Find Housing for Veterans News 12 – Working to House Ex-Military Students DNAInfo – House Cleanup DNAInfo – Home to Help Veterans Fox News – Devil Dog Mobile Broken Into Fox News – Devil Dog USA Inc.
+DailyNews – Non Profit Helps Veterans DailyNews – Home to Help Veterans News 8 CT – Pop Shop Save A Suit CBS 2 News – Veteran Housing Program BronxTime s – Pre Valentine’s Day BronxTime s – Self Defense Course BronxTimes – Movie Club Program BronxTimes – Hug A Vet Program BronxTimes – Bronx Veteran of the Year BronxTimes – Office Christmas Miracle BronxTimes + Additional Articles 9 & 10 News – Santa Hat Program Norwood News – Remembering Luis Moreno Norwood News – Three Kings Day Norwood News – Everyday is Veteran’s Day for Me Norwood News + Additional Articles Riverdale Press – The Bronx Veteran Political Party Riverdale Press – Santa Program Riverdale Press + Additional Articles The Fordham Ram – Devil Dog USA Courier News Arkansas – Memorial Site ——————————————- Nasdaq* Has Heart Michigan* DeWitt Clinton Express * DeWitt Clinton Express * Featured Radio Interviews: 990 WBOB ——————————————- 1010 WINS * The Patriot Radio Nation Network * Political Work: Featured Video Interviews: YouTube – Personal Account BronxNet – Bronx is MAGA BronxNet – Congressional Race LA7 Italian Media – Pres Trump’s Policies in NYC Featured Article Interviews: NY1 – Public Advocate Interview Daily News – Trump Dept. of VA Daily News – Trump Privatize VA BronxTimes – Running for Mayor 2025 BronxTimes – Lithium Battery Plant Protest BronxTimes – Anti Socialism Protest BronxTimes – Conservative Candidate Mixer BronxTimes – Viable Candidate Event 2024 BronxTimes – Bronx is MAGA Rally BronxTimes – Trump Momentum BronxTimes – 100th Voter Registration BronxTimes – Joined the Conservative Party BronxTimes – City Council Race 2023 BronxTimes – 2025 Campaign Race BronxTimes – Democrat Cooperation BronxTimes + Additional Articles Sing Tao USA – Democratic Endorsement Sing Tao USA – Public Advocate Bronx Journal – Redefining Bronx Conservatism Norwood News – Swimming Pool Norwood News – Civic Engagement Norwood News – Trump Controversy Norwood News – Congressional Race Norwood News – Bringing Back the Conservative Party Norwood News + Additional Articles Riverdale Press – Congressional Race Riverdale Press + Additional Articles Bronx Chronicle – Political Roundup Washington Times – Welcome Back President Trump Panorama Dominican Media – Legal Immigration Featured Radio Interviews: 990 WBOB This photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to, please give credit if possible to Today’s Pixels.
+This photo of Gonzalo Duran does not have a copyright on it and those seeking to use it are welcome to.
+Share this: Share Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X Share on LinkedIn (Opens in new window) LinkedIn Share on Pinterest (Opens in new window) Pinterest Share on Tumblr (Opens in new window) Tumblr Share on Reddit (Opens in new window) Reddit Like this: Like Loading… Related Categories Gonzalo In The Press , Information Tags Articles , Gonzalo Duran , In the Press , Interviews , Press , Radio , Videos 9 Replies to “Gonzalo Duran in the Press” Pingback: The Bronx Set to Host NYC's Largest Conservative Event of the Year Pingback: I Have Accepted the NY1 Public Advocate Debate — Will Jumaane Williams Do the Same? – Gonzalo Duran Pingback: Jumaane Williams Declines Debate — and the Gothamist Misleads the Public – Gonzalo Duran Pingback: Gonzalo Duran Contribute Video - Gonzalo Duran Pingback: How A Conservative Held the Line — Even When the Odds Were Against Us - Gonzalo Duran Pingback: Curtis Sliwa Didn’t Fail Us — We Failed Ourselves - Gonzalo Duran Pingback: Conservative Voter Registration: Building a Movement One Neighbor at a Time - Gonzalo Duran Pingback: Jared Konsker: Why I Associate with 3rd Parties Over the Machines - Gonzalo Duran Pingback: Library of Congress Archives Gonzalo Duran’s Website - Gonzalo Duran Leave a Reply Cancel reply Post navigation Previous Post Previous Former Democratic State Committeewoman Rachel Bradshaw Endorses Gonzalo Duran for Public Advocate Next Post Next Candidates: Your Well-Being Matters as Much as Your Policies Social Media View gonzalodurannyc’s profile on Facebook View gonzalodurannyc’s profile on Twitter View gonzalodurannyc’s profile on Instagram View gonzalodurannyc’s profile on Pinterest View gonzalodurannyc’s profile on LinkedIn View @gonzalodurannyc’s profile on YouTube View gonzalodurannyc’s profile on Tumblr Type your email… Subscribe © COPYRIGHT # - PRESENT.
+ALL RIGHTS RESERVED.
+GONZALO DURAN VICE CHAIRMAN OF THE BRONX COUNTY CONSERVATIVE PARTY & (C) DISTRICT LEADER FOR THE 79TH ASSEMBLY DISTRICT.
+Proudly powered by WordPress Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website %d

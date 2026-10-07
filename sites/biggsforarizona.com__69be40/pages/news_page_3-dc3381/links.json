@@ -1,37 +1,174 @@
 [
-"https://biggsforarizona.com/",
-"https://biggsforarizona.com/action-center",
-"https://biggsforarizona.com/endorsements",
-"https://biggsforarizona.com/issues",
-"https://biggsforarizona.com/media-kit",
-"https://biggsforarizona.com/media/andy-biggs-and-sine-kerr-to-headline-campaign-rally-in-pinal-county-on-saturday",
-"https://biggsforarizona.com/meet-andy",
-"https://biggsforarizona.com/meet-sine",
-"https://biggsforarizona.com/news",
-"https://biggsforarizona.com/news/biggs-for-arizona-statement-on-kamalas-favorite-mayor-joining-hobbs-ticket",
-"https://biggsforarizona.com/news/former-arizona-governor-doug-ducey-endorses-andy-biggs-for-governor",
-"https://biggsforarizona.com/news/page/15",
-"https://biggsforarizona.com/news/page/2",
-"https://biggsforarizona.com/news/page/4",
-"https://biggsforarizona.com/news/page/5",
-"https://biggsforarizona.com/press-release/andy-biggs-and-sine-kerr-to-headline-campaign-rally-in-tucson-on-friday",
-"https://biggsforarizona.com/press-release/biggs-for-arizona-releases-new-ad-clear-choice",
-"https://biggsforarizona.com/press-release/katie-hobbss-alleged-pay-to-play-scheme",
-"https://biggsforarizona.com/press-release/katie-hobbss-history-of-protecting-predators-pornographers-comes-under-scrutiny",
-"https://biggsforarizona.com/press-release/media-roundup-sine-kerr-is-a-home-run-lt-gov-pick-for-andy-biggs",
-"https://biggsforarizona.com/press-release/tonight-andy-biggs-and-sine-kerr-to-headline-campaign-rally-in-tucson",
-"https://biggsforarizona.com/privacy-policy",
-"https://biggsforarizona.com/terms-and-conditions",
-"https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf",
-"https://facebook.com/biggsforarizona",
-"https://instagram.com/andybiggsaz?hl=en",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5",
-"https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50",
-"https://secure.winred.com/biggs-for-arizona/storefront",
-"https://x.com/andybiggs4az",
-"https://youtube.com/@BiggsForArizona"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=100"
+},
+{
+"text": "$15",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=15"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona?amount=50"
+},
+{
+"text": "1",
+"href": "https://biggsforarizona.com/news/"
+},
+{
+"text": "15",
+"href": "https://biggsforarizona.com/news/page/15/"
+},
+{
+"text": "2",
+"href": "https://biggsforarizona.com/news/page/2/"
+},
+{
+"text": "4",
+"href": "https://biggsforarizona.com/news/page/4/"
+},
+{
+"text": "5",
+"href": "https://biggsforarizona.com/news/page/5/"
+},
+{
+"text": "Action Center",
+"href": "https://biggsforarizona.com/action-center/"
+},
+{
+"text": "Andy Biggs and Sine Kerr To Headline Campaign Rally in Pinal County on SaturdayAugust 24, 2026 - MediaCritical rural county will host Biggs, Kerr, and other prominent elected officials GILBERT, AZ—The Biggs for Arizona campaign is hosting...Read More →",
+"href": "https://biggsforarizona.com/media/andy-biggs-and-sine-kerr-to-headline-campaign-rally-in-pinal-county-on-saturday/"
+},
+{
+"text": "Biggs for Arizona Releases New Ad: “Clear Choice”August 18, 2026 - Press ReleaseAd contrasts Biggs’ plan to cut taxes and lower costs on Arizonans versus Hobbs’ terrible record on affordability and pushing...Read More →",
+"href": "https://biggsforarizona.com/press-release/biggs-for-arizona-releases-new-ad-clear-choice/"
+},
+{
+"text": "Biggs for Arizona Releases New Ad: “Katie Hobbs is Deceiving Arizonans”August 27, 2026 - NewsGILBERT, AZ—The Biggs for Arizona campaign and the Republican Party of Arizona today released “Katie Hobbs is Deceiving Arizonans”, a new...Read More →",
+"href": "https://biggsforarizona.com/news/biggs-for-arizona-releases-new-ad-katie-hobbs-is-deceiving-arizonans/"
+},
+{
+"text": "Biggs for Arizona Statement on Kamala’s Favorite Mayor Joining Hobbs TicketAugust 11, 2026 - NewsJohn Giles spoke at 2024 DNC Convention, was “impressed” with Biden Admin’s work on border security GILBERT, AZ—The Biggs for...Read More →",
+"href": "https://biggsforarizona.com/news/biggs-for-arizona-statement-on-kamalas-favorite-mayor-joining-hobbs-ticket/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate By Mail",
+"href": "https://biggsforarizona.com/wp-content/uploads/2026/08/Biggs-Contribution-Form.pdf"
+},
+{
+"text": "Donate Online",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Donate →",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Endorsements",
+"href": "https://biggsforarizona.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://biggsforarizona.com/"
+},
+{
+"text": "Issues",
+"href": "https://biggsforarizona.com/issues/"
+},
+{
+"text": "Katie Hobbs’s Alleged Pay-to-Play SchemeAugust 21, 2026 - Press ReleaseDemocrat AG “clears” Democrat Governor, calls for legislative reforms despite Hobbs already having vetoed multiple transparency bills. GILBERT, AZ—Republican nominee...Read More →",
+"href": "https://biggsforarizona.com/press-release/katie-hobbss-alleged-pay-to-play-scheme/"
+},
+{
+"text": "Katie Hobbs’s Culture of Corruption Continues to Haunt CampaignAugust 31, 2026 - Press ReleaseJust when Hobbs thought the Democrat AG had bailed her out, new reporting brings to light additional corruption accusations GILBERT,...Read More →",
+"href": "https://biggsforarizona.com/press-release/katie-hobbss-culture-of-corruption-continues-to-haunt-campaign/"
+},
+{
+"text": "Katie Hobbs’s History of Protecting Predators + Pornographers Comes Under ScrutinyAugust 20, 2026 - Press ReleaseHobbs’s disturbing record of vetoes signals a blatant disregard for Arizona parents and children GILBERT, AZ—Katie Hobbs’s disturbing record of protecting predators and...Read More →",
+"href": "https://biggsforarizona.com/press-release/katie-hobbss-history-of-protecting-predators-pornographers-comes-under-scrutiny/"
+},
+{
+"text": "Katie Hobbs’s Terrible Record on Public Safety in Spotlight at Police ForumAugust 25, 2026 - NewsClear contrast between Biggs’s record of supporting law enforcement while Hobbs endangers Arizonans GILBERT, AZ—Katie Hobbs’s soft record on crime...Read More →",
+"href": "https://biggsforarizona.com/news/katie-hobbss-terrible-record-on-public-safety-in-spotlight-at-police-forum/"
+},
+{
+"text": "Media Kit",
+"href": "https://biggsforarizona.com/media-kit/"
+},
+{
+"text": "Meet Andy",
+"href": "https://biggsforarizona.com/meet-andy/"
+},
+{
+"text": "Meet Sine",
+"href": "https://biggsforarizona.com/meet-sine/"
+},
+{
+"text": "News",
+"href": "https://biggsforarizona.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.anedot.com/biggs-for-arizona/biggsforarizona"
+},
+{
+"text": "Privacy Policy",
+"href": "https://biggsforarizona.com/privacy-policy/"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/biggs-for-arizona/storefront/"
+},
+{
+"text": "TONIGHT: Andy Biggs and Sine Kerr To Headline Campaign Rally in TucsonAugust 7, 2026 - Press ReleaseBiggs returns to hometown for 1st General Election rally in Pima County GILBERT, AZ—The Biggs for Arizona campaign is hosting...Read More →",
+"href": "https://biggsforarizona.com/press-release/tonight-andy-biggs-and-sine-kerr-to-headline-campaign-rally-in-tucson/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://biggsforarizona.com/terms-and-conditions/"
+},
+{
+"text": "[image: Andy Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[image: Biggs for Arizona]",
+"href": "https://biggsforarizona.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/biggsforarizona/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/andybiggsaz/?hl=en"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BiggsForArizona"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/andybiggs4az"
+},
+{
+"text": "←",
+"href": "https://biggsforarizona.com/news/page/2/"
+},
+{
+"text": "→",
+"href": "https://biggsforarizona.com/news/page/4/"
+}
 ]

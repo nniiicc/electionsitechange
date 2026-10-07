@@ -1,16 +1,70 @@
 [
-"https://brookelierman.com/",
-"https://facebook.com/share/1AvsFjomFE",
-"https://marylandeducators.org/",
-"https://marylandnow.org/",
-"https://michelewjohnson.com/",
-"https://michelewjohnson.com/about",
-"https://michelewjohnson.com/endorsements",
-"https://michelewjohnson.com/events",
-"https://michelewjohnson.com/gallery",
-"https://michelewjohnson.com/get-involved",
-"https://michelewjohnson.com/issues",
-"https://secure.actblue.com/donate/michele-w--johnson-1",
-"https://thirdact.org/maryland",
-"https://wesmoore.com/"
+{
+"text": "About",
+"href": "https://www.michelewjohnson.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/michele-w--johnson-1"
+},
+{
+"text": "Donate Now via ActBlue",
+"href": "https://secure.actblue.com/donate/michele-w--johnson-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.michelewjohnson.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.michelewjohnson.com/events"
+},
+{
+"text": "Follow on Facebook",
+"href": "https://www.facebook.com/share/1AvsFjomFE/"
+},
+{
+"text": "FriendsOfMicheleWJohnson37B@gmail.com",
+"href": "mailto:FriendsOfMicheleWJohnson37B@gmail.com"
+},
+{
+"text": "Gallery",
+"href": "https://www.michelewjohnson.com/gallery"
+},
+{
+"text": "Get Involved",
+"href": "https://www.michelewjohnson.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.michelewjohnson.com/issues"
+},
+{
+"text": "Michele W. Johnson",
+"href": "https://www.michelewjohnson.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1AvsFjomFE/"
+},
+{
+"text": "brookelierman.com",
+"href": "https://www.brookelierman.com"
+},
+{
+"text": "marylandeducators.org",
+"href": "https://marylandeducators.org"
+},
+{
+"text": "marylandnow.org",
+"href": "https://marylandnow.org"
+},
+{
+"text": "thirdact.org/maryland",
+"href": "https://thirdact.org/maryland"
+},
+{
+"text": "wesmoore.com",
+"href": "https://wesmoore.com"
+}
 ]

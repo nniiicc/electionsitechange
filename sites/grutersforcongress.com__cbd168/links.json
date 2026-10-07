@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61576458107829",
-"https://grutersforcongress.com/media",
-"https://grutersforcongress.com/privacy-policy",
-"https://instagram.com/sydneygrutersforcongress",
-"https://linkedin.com/company/sydney-gruters-for-congress",
-"https://secure.winred.com/sydney-gruters-for-congress/donate-today",
-"https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=100",
-"https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=3500",
-"https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=50",
-"https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=500",
-"https://truthsocial.com/@realDonaldTrump/posts/116285820638971415",
-"https://x.com/SydneyGrutersFL"
+{
+"text": "$100",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=100"
+},
+{
+"text": "$3,500",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=3500"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today?amount=500"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/sydney-gruters-for-congress/donate-today"
+},
+{
+"text": "Media",
+"href": "https://grutersforcongress.com/media"
+},
+{
+"text": "Privacy Policy",
+"href": "https://grutersforcongress.com/privacy-policy"
+},
+{
+"text": "[image: Should she decide to enter this race, Sydney Gruters has my Complete and Total Endorsement. RUN, SYDNEY, RUN! -@realDonaldTrump]",
+"href": "https://truthsocial.com/@realDonaldTrump/posts/116285820638971415"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576458107829"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sydneygrutersforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/company/sydney-gruters-for-congress/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SydneyGrutersFL"
+}
 ]

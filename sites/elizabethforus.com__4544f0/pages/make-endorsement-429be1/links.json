@@ -1,16 +1,66 @@
 [
-"https://campaignpartner.com/",
-"https://elizabethforus.com/",
-"https://elizabethforus.com/contact",
-"https://elizabethforus.com/contribute",
-"https://elizabethforus.com/events",
-"https://elizabethforus.com/home",
-"https://elizabethforus.com/issues",
-"https://elizabethforus.com/meet_elizabeth",
-"https://elizabethforus.com/news",
-"https://elizabethforus.com/photos",
-"https://elizabethforus.com/view-endorsements",
-"https://elizabethforus.com/volunteer",
-"https://elizabethforus.com/vote",
-"https://elizabethforus.com/yard-sign"
+{
+"text": "CONNECT WITH US",
+"href": "https://www.elizabethforus.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.elizabethforus.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.elizabethforus.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.elizabethforus.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.elizabethforus.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.elizabethforus.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.elizabethforus.com/issues"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://www.elizabethforus.com/meet_elizabeth"
+},
+{
+"text": "News",
+"href": "https://www.elizabethforus.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.elizabethforus.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.elizabethforus.com/vote"
+},
+{
+"text": "Volunteer",
+"href": "https://www.elizabethforus.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.elizabethforus.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.elizabethforus.com/yard-sign"
+},
+{
+"text": "[image: Elizabeth Kirtley US Congress Ohio District 6]",
+"href": "https://www.elizabethforus.com/"
+}
 ]

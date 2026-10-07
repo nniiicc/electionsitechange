@@ -1,27 +1,15 @@
-January 8, 2026
-|
-Endorsement
-Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced that he has earned the endorsement of leading children- and family-focused organizations for his campaign for Congress in Texas’s 32nd Congressional District, including Texas Home School Coalition and Protecting Texas Children.
-Texas Home School Coalition cited Yarbrough’s firsthand experience as a homeschool parent and his commitment to parental choice in education:
-“As a homeschool parent, Jace Yarbrough brings firsthand understanding of the freedoms, responsibilities, and importance of parental choice in education which is why we are proud to support him in his race for U.S.
+Endorsed by President Trump Home About Priorities Get Involved News Endorsements Donate Children and Family Advocacy Groups Endorse Jace Yarbrough for Congress January 8, 2026 | Endorsement Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced that he has earned the endorsement of leading children- and family-focused organizations for his campaign for Congress in Texas’s 32nd Congressional District, including Texas Home School Coalition and Protecting Texas Children. ‍ Texas Home School Coalition cited Yarbrough’s firsthand experience as a homeschool parent and his commitment to parental choice in education: ‍ “As a homeschool parent, Jace Yarbrough brings firsthand understanding of the freedoms, responsibilities, and importance of parental choice in education which is why we are proud to support him in his race for U.S.
 Congressional District - Texas 32.
 Jace is committed to being a voice of reason and trust, standing firmly for parental rights and the freedom of families to direct their children’s education.
-We are confident he will represent Texas families with integrity and conviction.”
-Protecting Texas Children cited Yarbrough’s long record of standing up for children, parents, and families against harmful cultural and political agendas:
-“Protecting Texas Children proudly endorses Jace Yarbrough for Congress because he has demonstrated the courage, clarity, and conviction necessary to defend children in an era when they are increasingly targeted by harmful cultural and political agendas."
-“Jace Yarbrough is firmly opposed to the sexualization and grooming of children and has consistently stood against forces that seek to erode childhood innocence.
+We are confident he will represent Texas families with integrity and conviction.” ‍ Protecting Texas Children cited Yarbrough’s long record of standing up for children, parents, and families against harmful cultural and political agendas: ‍ “Protecting Texas Children proudly endorses Jace Yarbrough for Congress because he has demonstrated the courage, clarity, and conviction necessary to defend children in an era when they are increasingly targeted by harmful cultural and political agendas." ‍ “Jace Yarbrough is firmly opposed to the sexualization and grooming of children and has consistently stood against forces that seek to erode childhood innocence.
 He understands that children deserve protection—not confusion—and that parents, not activists or bureaucrats, should guide a child’s moral and developmental formation.
-His resolve to confront ideologies that undermine biological reality and distort a child’s understanding of truth makes him exactly the kind of leader families need in Washington."
-“Protecting Texas Children strongly supports Jace Yarbrough because he is pro-child, pro-family, and grounded in truth.
+His resolve to confront ideologies that undermine biological reality and distort a child’s understanding of truth makes him exactly the kind of leader families need in Washington." ‍ “Protecting Texas Children strongly supports Jace Yarbrough because he is pro-child, pro-family, and grounded in truth.
 He will defend children from harmful influences, protect parental rights, and uphold the timeless values that make Texas strong.
-We are confident Jace Yarbrough will be a fearless advocate for children and families in Congress, and we are proud to endorse him.”
-A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+We are confident Jace Yarbrough will be a fearless advocate for children and families in Congress, and we are proud to endorse him.” ‍ A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
 A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
-Air Force Reserves and has built a legal career taking on progressive overreach in the courts.
-Following his military service, Yarbrough became a constitutional lawyer, where he challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
-His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology.
-Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
+Air Force Reserves and has built a legal career taking on progressive overreach in the courts. ‍ Following his military service, Yarbrough became a constitutional lawyer, where he challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
+His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology. ‍ Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
 With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
-The Yarbrough family is active in their local church and is raising five children.
-Texas’s 32nd Congressional District encompasses parts of Northern and Eastern Texas, including Camp, Collin, Dallas, Hunt, Rains, Rockwall, Upshur, and Wood Counties.
-Learn more at www.JaceForCongress.com.
+The Yarbrough family is active in their local church and is raising five children. ‍ Texas’s 32nd Congressional District encompasses parts of Northern and Eastern Texas, including Camp, Collin, Dallas, Hunt, Rains, Rockwall, Upshur, and Wood Counties.
+Learn more at www.JaceForCongress.com .
+Support Jace Help fight for President Trump's America First Agenda $5 $25 $50 $100 $150 Other Home About Priorities Get Involved News Endorsements Media Kit Donate Paid for by Jace Yarbrough for Congress PO BOX 1102, Rockwall TX 75087 Privacy Policy

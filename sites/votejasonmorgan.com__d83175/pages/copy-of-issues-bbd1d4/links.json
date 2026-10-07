@@ -1,27 +1,130 @@
 [
-"http://a2gov.org/departments/city-clerk/Elections/Pages/VotingDistricts.aspx",
-"http://aatwp.org/residents/election-information",
-"https://facebook.com/RepJasonMorgan",
-"https://instagram.com/rep_morgan",
-"https://linkedin.com/in/jasontmorgan",
-"https://lyontwp.org/departments/clerk_s_office/election_and_voter_information.php",
-"https://mivoter.org/info",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Home/RegisterToVote",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://plymouthtwp.org/government/departments/clerk/elections_voting.php",
-"https://salem-mi.org/departments/clerk/elections.php",
-"https://secure.actblue.com/donate/morganwebsite1",
-"https://southlyonmi.org/government/clerk_treasurer/index.php",
-"https://superiortownship.org/government/voting-elections",
-"https://tiktok.com/@jasonmorgan?_t=ZP-8xRqJzE8Xmx&_r=1",
-"https://twitter.com/JasonMorganMI",
-"https://twp.northville.mi.us/services/clerk-s-office/faq",
-"https://votejasonmorgan.com/",
-"https://votejasonmorgan.com/about",
-"https://votejasonmorgan.com/copy-of-issues",
-"https://votejasonmorgan.com/endorsements",
-"https://votejasonmorgan.com/get-involved",
-"https://votejasonmorgan.com/issues",
-"https://votejasonmorgan.com/news"
+{
+"text": "About Jason",
+"href": "https://www.votejasonmorgan.com/about"
+},
+{
+"text": "Ann Arbor Township residents",
+"href": "http://aatwp.org/residents/election-information/"
+},
+{
+"text": "Ann Arbor residents",
+"href": "http://www.a2gov.org/departments/city-clerk/Elections/Pages/VotingDistricts.aspx"
+},
+{
+"text": "City of South Lyon",
+"href": "https://www.southlyonmi.org/government/clerk_treasurer/index.php#voterregistration"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/morganwebsite1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejasonmorgan.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejasonmorgan.com/news"
+},
+{
+"text": "Find out Here",
+"href": "https://mivoter.org/info/"
+},
+{
+"text": "Find out here >>",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Find out how and where you can vote, here.",
+"href": "https://mivoter.org/info/"
+},
+{
+"text": "Find your polling place >>",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votejasonmorgan.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votejasonmorgan.com/copy-of-issues"
+},
+{
+"text": "Issues",
+"href": "https://www.votejasonmorgan.com/news"
+},
+{
+"text": "JOIN THE CAMPAIGN!",
+"href": "https://www.votejasonmorgan.com/get-involved"
+},
+{
+"text": "Lyon Township",
+"href": "https://www.lyontwp.org/departments/clerk_s_office/election_and_voter_information.php"
+},
+{
+"text": "Michigan residents",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "News",
+"href": "https://www.votejasonmorgan.com/news"
+},
+{
+"text": "Northville Township residents",
+"href": "https://www.twp.northville.mi.us/services/clerk-s-office/faq"
+},
+{
+"text": "Plymouth Township residents",
+"href": "https://www.plymouthtwp.org/government/departments/clerk/elections_voting.php"
+},
+{
+"text": "Priorities",
+"href": "https://www.votejasonmorgan.com/issues"
+},
+{
+"text": "Salem Township residents",
+"href": "https://www.salem-mi.org/departments/clerk/elections.php"
+},
+{
+"text": "Superior Township residents",
+"href": "https://superiortownship.org/government/voting-elections/"
+},
+{
+"text": "Voting",
+"href": "https://www.votejasonmorgan.com/copy-of-issues"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/RepJasonMorgan/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/rep_morgan/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/jasontmorgan/"
+},
+{
+"text": "[image: Logo - Jason Morgan for State Representative]",
+"href": "https://www.votejasonmorgan.com"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jasonmorgan?_t=ZP-8xRqJzE8Xmx&_r=1"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/JasonMorganMI"
+},
+{
+"text": "click here to see how you can register",
+"href": "https://mvic.sos.state.mi.us/Home/RegisterToVote"
+},
+{
+"text": "votejasonmorgan@gmail.com",
+"href": "mailto:votejasonmorgan@gmail.com"
+}
 ]

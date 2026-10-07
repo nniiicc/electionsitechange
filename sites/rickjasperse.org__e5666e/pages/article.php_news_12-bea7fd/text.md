@@ -1,4 +1,5 @@
-[February 13, 2012] | WEEK 5: Monday, Feb. 6, marked the 15th Legislative Day of the Regular Session of the Georgia General Assembly.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK Report from the Capitol [ February 13, 2012 ] | WEEK 5: Monday, Feb.
+6, marked the 15th Legislative Day of the Regular Session of the Georgia General Assembly.
 Before we went to the Debate Calendar, I had the privilege to take the Speaker?s podium to recognize the 4-H Clubs of Georgia and the 2011-2012 4-H Leadership Team.
 I had the opportunity to tell the members of the Georgia House of Representatives how the 4-H program benefits the youth of our state.?I told fellow legislators that ?Solid research validates that 4-H youth succeed; they stay in school and excel, and they become contributing citizens and leaders in our State,? adding that there are 172,366 members of Georgia 4-H.
 The program assists youth in acquiring knowledge, in developing life skills, and in forming attitudes that will enable them to become self-directing, productive, and contributing citizens.
@@ -39,3 +40,4 @@ These Accountability Courts have been very successful in Pickens County, and thi
 I am out of space again.
 Thank you for the honor of choosing me as your Representative in the Georgia House of Representatives, ?The Peoples House.?
 Please call my office at the State Capitol in Atlanta at 404/656-0188 or at rick@rickjasperse.org.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

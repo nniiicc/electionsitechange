@@ -1,5 +1,4 @@
-Teacher Appreciation Week
-When I am governor, teachers will have my respect and support.
+0 Skip to Content Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Terri Pickens for Governor Learn More Issues About Terri Terri's Blog Endorsements Media Get Involved Events Volunteer Voting Yard Signs Events Contact Us Store English Donate Open Menu Close Menu Folder: Learn More Back Issues About Terri Terri's Blog Endorsements Media Folder: Get Involved Back Events Volunteer Voting Yard Signs Events Contact Us Store English Back Donate Teacher Appreciation Week May 7 Written By Elle Casner When I am governor, teachers will have my respect and support.
 Weirdly, Gov.
 Little claimed the same thing in his “teacher appreciation week” message—not long after he earned a no-confidence vote from teachers for attacking the Idaho Education Association (IEA).
 I love teachers.
@@ -9,8 +8,7 @@ Little keep his “Champion of Education” award.
 Good grief.
 After decades of bad-mouthing unions by rightwing shills, even spineless politicians feel safe attacking them.
 So many folks believe the smears.
-One man recently told me, “Unions made sense 100 years ago, but we don’t need them anymore.”
-I disagree.
+One man recently told me, “Unions made sense #ago, but we don’t need them anymore.” I disagree.
 Today, it’s still easy to fire one worker who asks for a raise or safer conditions.
 Bosses are more likely to negotiate when the workers unite.
 Truth is, I don’t think it’s a coincidence that the billionaire class rose alongside 40 years of attacks on unions.
@@ -32,3 +30,4 @@ That will give communities room to tax themselves—if they so choose—to build
 And, it will finally provide real property tax relief for homeowners and for businesses.
 That’s what I mean when I say “respect and support” teachers.
 I appreciate you!
+Donate Elle Casner Previous Previous Terri Pickens’ primary election victory statement Next Next Gratitude TERRI PICKENS FOR GOVERNOR Paid for by Terri for Idaho PO Box 2128 Boise, ID 83701

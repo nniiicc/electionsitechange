@@ -1,5 +1,4 @@
-Fellowship Spotlight: Ellie Wilson-Wade
-Ellie Wilson-Wade is a third-year political science major with minors in women’s studies and law, jurisprudence and the state.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Fellowship Spotlight: Ellie Wilson-Wade Posted November 7, 2021 By Mennah Abdelwahab Fellowship Spotlight Ellie Wilson-Wade is a third-year political science major with minors in women’s studies and law, jurisprudence and the state.
 This is her second year serving as a Legislative Fellow.
 Throughout her time in the Fellowship, she has gained leadership skills while learning more about the legislative process, service, community work and mutual aid.
 Before joining the Fellowship, Ellie was the Deputy Field Organizer for Jon Ossoff’s 2017 Campaign for Congress and a field intern for Stacey Abram’s gubernatorial campaign.
@@ -8,4 +7,5 @@ Her greatest takeaway from her policy work is the importance of putting the publ
 Ellie first became interested in politics after the 2016 election; her involvement with Ossoff’s 2017 campaign taught her a lot about organizing, campaigning and politics as a whole and encouraged her to pursue a career in politics and government.
 Ellie loves meeting new people and is excited to get to know all the other Fellows.
 Outside of school, Ellie loves to do yoga at M3 Athens.
-She will be participating in the Florence study abroad this summer with UGA’s School of Public and International Affairs and is also completing a service certificate in Legal Disparities and Equity with UGA Law.
+She will be participating in the Florence study abroad this summer with UGA’s School of Public and International Affairs and is also completing a service certificate in Legal Disparities and Equity with UGA Law. ©# Spencer Frye State House 122.
+All Rights Reserved.

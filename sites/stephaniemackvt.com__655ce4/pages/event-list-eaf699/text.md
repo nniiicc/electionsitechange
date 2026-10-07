@@ -1,8 +1,2 @@
-top of page
-Meet Stephanie at Upcoming Events
-- Essex & Junction Family Fun Day!Sun, Jul 26104 Center Rd
-- America250 for Essex: Reading of the Declaration of IndepenenceWed, Jul 081st Republic Brewing
-- Live Stream the UFC Fight with friends of Stephanie MackSun, Jun 14Park Place Tavern
-- Join Stephanie Mack at Shelbune-Charlotte Community Wood Pallet PaintSun, Jun 14Shelburne Bay Boat Ramp
-- Meet & Mingle your Senate Candidate Ashley BartleyFri, Jun 12Milton Grange Hall
-bottom of page
+top of page VT HOUSE • CHITTENDEN 24 Home About Blog Merch Events Donate Meet Stephanie at Upcoming Events Essex & Junction Family Fun Day!
+Sun, Jul 26 104 Center Rd More info Details America250 for Essex: Reading of the Declaration of Indepenence Wed, Jul 08 1st Republic Brewing More info Details Key4Women Tue, Jun 23 KeyBank More info Details Live Stream the UFC Fight with friends of Stephanie Mack Sun, Jun 14 Park Place Tavern More info Details Join Stephanie Mack at Shelbune-Charlotte Community Wood Pallet Paint Sun, Jun 14 Shelburne Bay Boat Ramp More info Details Meet & Mingle your Senate Candidate Ashley Bartley Fri, Jun 12 Milton Grange Hall More info Details Contact information First name * Last name * Email * Address * Phone * Questions or Concerns Submit bottom of page

@@ -1,13 +1,13 @@
-Apr 13
-Collaborating with California to support the development of desalination plants could be a viable approach to addressing water issues in the region.
-Here are some potential actions that Nevada
-Overview of CCSD’s Size and Structure Clark County School District (CCSD) is one of the largest school districts in the United States both in terms of student enrollment and
-May 06
-Clark County School District is the fifth largest school district in the United States, with over 300,000 students and a budget approaching $4B (with a B).
-Breaking down a
-May 10
-Children have no legal capacity to decide their own gender I want to share something that’s been on my mind after a recent conversation I had.
-I just spent
-Apr 19
-Abortion in Nevada is already more available in Nevada than it is in all of Europe Abortion in Nevada is legal up to the 24th week of pregnancy, under the Nevada
-This page constitutes an official notice that I have changed the name of my candidate Facebook page from “Brad Lee Barnhill for no office” to “Nevadans for Barnhill” I
+#YourIndependentVoice brad@electbarnhill.net 702-613-2576 Nevada Secretary of State close menu close menu Home About Independent Endorsements News Announcements Commentary Policy Events Contact Donate Volunteer no Author: electbarnhill Apr 19 electbarnhill 0 Comment Water Management Policy Brad Barnhill’s Sustainable Solutions for Water Conservation Brad Barnhill is dedicated to implementing a water management policy that ensures sustainable use, conservation of our water resources, and potentially developing Apr 13 electbarnhill 0 Comment New Water Projects Collaborating with California to support the development of desalination plants could be a viable approach to addressing water issues in the region.
+Here are some potential actions that Nevada Apr 13 electbarnhill 0 Comment School Choice Means Opportunities Overview of CCSD’s Size and Structure Clark County School District (CCSD) is one of the largest school districts in the United States both in terms of student enrollment and May 06 electbarnhill 0 Comment Breaking Up the CCSD – Brad Barnhill’s Policy Position Clark County School District is the fifth largest school district in the United States, with over 300,000 students and a budget approaching $4B (with a B).
+Breaking down a May 10 electbarnhill 0 Comment Gender Affirming Care Children have no legal capacity to decide their own gender I want to share something that’s been on my mind after a recent conversation I had.
+I just spent Apr 19 electbarnhill 0 Comment The Abortion Issue in Nevada is a Non-Issue Abortion in Nevada is already more available in Nevada than it is in all of Europe Abortion in Nevada is legal up to the 24th week of pregnancy, under the Nevada electbarnhill 0 Comment Notice of change of name of Candidate page This page constitutes an official notice that I have changed the name of my candidate Facebook page from “Brad Lee Barnhill for no office” to “Nevadans for Barnhill” I Posts pagination Previous page Page 1 … Page 5 Page 6 Search Search Recent Posts Election Technology Modernization Voters Can Trust I’ve Asked the Court to Rule on My E-Filing Request Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer How Nevada Election Audits Build Voter Confidence What Nevada Secretary of State Candidates Owe Voters Recent Comments Election Technology Modernization Voters Can Trust - Nevadans for Barnhill on Meet Brad Lee Barnhill – Your Independent Voice Request for Ruling on E-Filing in Barnhill v.
+Aguilar on Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer Pro Se Electronic Filing Delays in Barnhill v.
+Aguilar on A Small Procedural Fight, With a Bigger Point Behind It Pro Se Electronic Filing Delays in Barnhill v.
+Aguilar on While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster Pro Se Electronic Filing Delays in Barnhill v.
+Aguilar on The Lawsuit Is Filed: Barnhill v.
+Aguilar footer logo image About #YourIndependentVoice for Nevada Secretary of State.
+Results, Not Noise.
+Subscribe Me! Δ Explore About Event Blog Policies Contact R SS About (1) Announcements (13) Commentary (16) Policy Positions (15) Contact Us If you have a question or concern, we want to hear it!
+Email brad@electbarnhill.net Phone 702-613-2576 Address 8104 Defiance Ave.
+Las Vegas, NV 89129 Paid for by Nevadans for Barnhill — #YourIndependentVoice Design & Developed by VW Themes srcoll arrow

@@ -1,0 +1,22 @@
+Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Skip to content Chip In to Help Reelect Tina Kotek Donate Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate October 06, 2026 Drazan’s Disastrous Climate Record Lands Her on League of Conservation Voters’ ‘Dirty Dozen in the States’ List PORTLAND, OR – Yesterday, the League of Conservation Voters (LCV) Victory Fund named Republican gubernatorial candidate Christine Drazan to its 2026 “ Dirty Dozen in the States ” list.
+Modeled after LCV Victory Fund’s federal Dirty Dozen list, the twelve named candidates are the worst of the worst at the state and local level on climate issues.
+Christine Drazan, along with the other 11 state and local candidates from across the country, has consistently voted to raise energy costs, kill clean energy jobs, and take funding from corporate polluters.
+“While Donald Trump and Christine Drazan want to roll back Oregon’s environmental protections and force rising energy prices onto consumers, I’m proud to have championed Oregon’s Climate Protection Program and prioritized cutting energy costs for Oregonians,” said Governor Tina Kotek.
+“Unlike Christine Drazan, I will never stop fighting for every Oregonian’s access to clean air and clean water.
+I will always take the climate crisis seriously.” “Christine Drazan has opposed every single major climate win in recent Oregon history,” said Lindsey Scholten, OLCV Executive Director .
+“With the Trump administration threatening our state’s climate protections, Oregon must have a governor who will protect our lands, our environment, and our communities.
+We cannot trust a MAGA ally like Christine Drazan — who will put her big oil and gas donors ahead of working Oregonians — with the keys to the governor’s office.” Christine Drazan’s Disastrous Record on Climate: Drazan led the 2020 House Republican walkout to kill the cap-and-invest bill.
+Drazan promised to repeal Oregon’s Climate Protection Program on Day One, which is projected to add nearly 10,000 jobs and $2.5 billion annually to Oregon’s economy by 2050 by making oil and gas companies pay their fair share.
+Drazan voted against energy efficiency standards that would save Oregonians $35 million on utility bills.
+Drazan voted against the POWER Act, which makes data centers pay their fair share of electricity costs instead of passing them along to families and small businesses.
+Drazan voted against regulations on a harmful pesticide that causes neurological damage in children and farmworkers.
+Drazan voted against an early version of a bill prohibiting public bodies from assisting in the privatization of federally owned land and then missed a vote on the final version.
+This is not Christine Drazan’s first time on the “Dirty Dozens in the States” list.
+In 2022, her anti-environment legislative record landed her among the first six candidates on LCV’s list.
+### ABOUT GOVERNOR KOTEK Governor Tina Kotek has spent her career making history and fighting for others.
+Over the last three years, Governor Kotek has expanded access to affordable childcare, created thousands of new shelter beds, protected abortion access and vote-by-mail, and funded early literacy and summer learning programs.
+She has also been a national leader in pushing back against Donald Trump’s attacks on our communities, our healthcare, and our rights by blocking his illegal attempts to deploy the Oregon National Guard in our communities and working through the night to reverse his decision to strip food assistance from Oregonians by taking away SNAP benefits.
+Governor Kotek is running for reelection to continue defending Oregon values and tackling the state’s biggest challenges – lowering costs, reducing homelessness, strengthening schools, expanding mental health and addiction care, and bringing affordable childcare to every corner of the state.
+Join us!
+Fighting for progress takes all of us.
+Join Team Tina today and become part of the movement fighting for Oregon’s future. press@tinafororegon.com Friends of Tina Kotek PO Box 42307 Portland, OR 97242 (971) 385-0565 Donate Meet Tina Meet Tina Meet Aimee Building Oregon’s Future Together Building Oregon’s Future Together Progress for Oregon Endorsements News Get Involved Donate Paid for by Friends of Tina Kotek, PAC ID 4792.

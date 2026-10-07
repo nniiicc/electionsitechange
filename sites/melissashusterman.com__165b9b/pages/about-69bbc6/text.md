@@ -1,12 +1,10 @@
-Your Neighbor.
+0 Skip to Content About Session Notes Endorsements News Volunteer Donate Open Menu Close Menu About Session Notes Endorsements News Volunteer Donate Open Menu Close Menu About Session Notes Endorsements News Volunteer Donate Your Neighbor.
 Representing You.
 Delivering Results.
 Protecting our Future.
-The New 157th District
-The Pennsylvania Constitution requires the State House and State Senate districts be redrawn each decade after the federal census is completed.
+The New 157th District The Pennsylvania Constitution requires the State House and State Senate districts be redrawn each decade after the federal census is completed.
 In 2022 the 157th District was redrawn and now includes Easttown, Schuylkill, Tredyffrin & Willistown.
-Meet Melissa
-Melissa Shusterman was first elected to Pennsylvania’s 157th District in 2018.
+Meet Melissa Melissa Shusterman was first elected to Pennsylvania’s 157th District in 2018.
 She is now serving her fourth term and her slogan continues to be “Common Sense Before Politics”.
 Melissa’s core priorities include protecting women’s reproductive rights and access to healthcare, improving government accountability and transparency, pushing for gun control reform, promoting the humane treatment of animals, advocating for environmental sustainability, and improving equity in education.
 Melissa serves on the Health, Judiciary, Liquor Control,Rules, State Government and Transportation committees.
@@ -25,3 +23,4 @@ Melissa is a graduate of Conestoga High School, Lafayette College, and American 
 She currently resides in Schuylkill Township with her husband Hans.
 They have one son, Paris.
 Before her election to the General Assembly, Melissa was a small business owner and media producer.
+About | Endorsements Melissa in the News | Volunteer | Contact Paid for by Friends of Melissa Shusterman

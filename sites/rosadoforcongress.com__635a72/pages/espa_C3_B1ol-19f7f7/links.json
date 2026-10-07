@@ -1,22 +1,94 @@
 [
-"https://facebook.com/889127304290965",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/rosadoforcongress",
-"https://rosadoforcongress.com/",
-"https://rosadoforcongress.com/about-me",
-"https://rosadoforcongress.com/blog",
-"https://rosadoforcongress.com/connect",
-"https://rosadoforcongress.com/espa%C3%B1ol",
-"https://rosadoforcongress.com/events",
-"https://rosadoforcongress.com/fcc%2Fusac-complaint",
-"https://rosadoforcongress.com/m/account",
-"https://rosadoforcongress.com/m/create-account",
-"https://rosadoforcongress.com/media-contact",
-"https://rosadoforcongress.com/platform",
-"https://rosadoforcongress.com/press",
-"https://rosadoforcongress.com/volunteer",
-"https://secure.winred.com/rosado-for-congress/primary_donation_page",
-"https://tiktok.com/@rosadoforcongress1",
-"https://vr.dcboe.org/213324797239968?agency_code=12",
-"https://x.com/Rosado4Congress"
+{
+"text": "About me",
+"href": "https://rosadoforcongress.com/about-me"
+},
+{
+"text": "Blog",
+"href": "https://rosadoforcongress.com/blog"
+},
+{
+"text": "Connect",
+"href": "https://rosadoforcongress.com/connect"
+},
+{
+"text": "Create Account",
+"href": "https://rosadoforcongress.com/m/create-account"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/rosado-for-congress/primary_donation_page"
+},
+{
+"text": "Español",
+"href": "https://rosadoforcongress.com/espa%C3%B1ol"
+},
+{
+"text": "Events",
+"href": "https://rosadoforcongress.com/events"
+},
+{
+"text": "FCC/USAC Complaint",
+"href": "https://rosadoforcongress.com/fcc%2Fusac-complaint"
+},
+{
+"text": "Home",
+"href": "https://rosadoforcongress.com/"
+},
+{
+"text": "Media Contact",
+"href": "https://rosadoforcongress.com/media-contact"
+},
+{
+"text": "My Account",
+"href": "https://rosadoforcongress.com/m/account"
+},
+{
+"text": "Platform",
+"href": "https://rosadoforcongress.com/platform"
+},
+{
+"text": "Press",
+"href": "https://rosadoforcongress.com/press"
+},
+{
+"text": "Register to Vote",
+"href": "https://vr.dcboe.org/213324797239968?agency_code=12"
+},
+{
+"text": "Sign In",
+"href": "https://rosadoforcongress.com/m/account"
+},
+{
+"text": "Volunteer",
+"href": "https://rosadoforcongress.com/volunteer"
+},
+{
+"text": "[image: Rosado for Congress]",
+"href": "https://rosadoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/889127304290965"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/rosadoforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@rosadoforcongress1"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/Rosado4Congress"
+},
+{
+"text": "https://secure.winred.com/rosado-for-congress/primary_donation_page",
+"href": "https://secure.winred.com/rosado-for-congress/primary_donation_page"
+}
 ]

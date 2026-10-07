@@ -1,5 +1,6 @@
-Natural Rights
-While I could write a book on natural rights, and have, it is a very simple concept.
+top of page For U.S.
+House Home About Issues Get Involved Contact Other Projects More Use tab to navigate through the menu items.
+Alec Pavlik Natural Rights While I could write a book on natural rights, and have , it is a very simple concept.
 Our rights do not come from government, they belong to us naturally, which is of extreme importance to anyone who believes God created nature.
 You are born with some degree of autonomy, implying you have a life and a personal property.
 As these are inherent to everyone, everyone has a right to life and their property.
@@ -16,5 +17,8 @@ How many Americans would give up their guns if the 2nd Amendment were amended?
 How many would deny Christ if the 1st Amendment were amended?
 How many already comply with unconstitutional laws, knowing full well it is wrong, but act out the lie to avoid confrontation?
 All this is possible, and liberty will only remain if we remember the beliefs of the revolution that gave us the U.S.
-Constitution.
-“…that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”
+Constitution. “…that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” Home About Me Issues Get Involved Contact Save America.
+Restore the Constitution.
+Alec Pavlik Terms & Conditions / Accessibility Financial Disclosure © # by Alec Pavlik.
+Powered and secured by Wix Write-In Alec Pavlik for U.S.
+House of Representatives District 6 (FL-06) PavlikCampaign@protonmail.com ​ bottom of page

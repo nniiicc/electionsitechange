@@ -1,21 +1,78 @@
 [
-"http://facebook.com/audreyforarkansas",
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&title=Stainless+Steel+Water+Bottle",
-"http://pinterest.com/pin/create/button?url=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F22e53e_1f43490f7e1845a5bf333f2784508a91~mv2.jpg%2Fv1%2Ffill%2Fw_4000%2Ch_4000%2Cal_c%2Cq_85%2F22e53e_1f43490f7e1845a5bf333f2784508a91~mv2.jpg&description=Stainless+Steel+Water+Bottle",
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle",
-"https://audreyforarkansas.com/",
-"https://audreyforarkansas.com/blog",
-"https://audreyforarkansas.com/donation",
-"https://audreyforarkansas.com/get-involved",
-"https://audreyforarkansas.com/meet-audrey",
-"https://audreyforarkansas.com/platform",
-"https://audreyforarkansas.com/qualifications",
-"https://audreyforarkansas.com/team-4",
-"https://audreyforarkansas.com/terms-and-conditions",
-"https://instagram.com/audreyforarkansas",
-"https://linkedin.com/in/audreypwillis",
-"https://tiktok.com/@audreyforarkansas",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&text=Stainless+Steel+Water+Bottle%0A",
-"https://x.com/audreyforAR",
-"https://youtube.com/@AudreyForArkansas"
+{
+"text": "DISTRICT 35",
+"href": "https://www.audreyforarkansas.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://www.audreyforarkansas.com/donation"
+},
+{
+"text": "EVENTS",
+"href": "https://www.audreyforarkansas.com/team-4"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.audreyforarkansas.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.audreyforarkansas.com"
+},
+{
+"text": "MEET AUDREY",
+"href": "https://www.audreyforarkansas.com/meet-audrey"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.audreyforarkansas.com/platform"
+},
+{
+"text": "QUALIFICATIONS",
+"href": "https://www.audreyforarkansas.com/qualifications"
+},
+{
+"text": "Terms & Conditions | Privacy Policy | Accessibility Statement",
+"href": "https://www.audreyforarkansas.com/terms-and-conditions"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@audreyforarkansas"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/audreyforAR"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@AudreyForArkansas"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/audreyforarkansas"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/audreyforarkansas/"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/audreypwillis/"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&media=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F22e53e_1f43490f7e1845a5bf333f2784508a91~mv2.jpg%2Fv1%2Ffill%2Fw_4000%2Ch_4000%2Cal_c%2Cq_85%2F22e53e_1f43490f7e1845a5bf333f2784508a91~mv2.jpg&description=Stainless+Steel+Water+Bottle"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&title=Stainless+Steel+Water+Bottle"
+},
+{
+"text": "[no text]",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.audreyforarkansas.com%2Fproduct-page%2Fstainless-steel-water-bottle&text=Stainless+Steel+Water+Bottle%0A"
+}
 ]

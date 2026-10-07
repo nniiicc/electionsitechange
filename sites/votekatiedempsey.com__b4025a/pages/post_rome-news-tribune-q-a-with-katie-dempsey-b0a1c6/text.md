@@ -1,12 +1,12 @@
-Rome News Tribune: Q&A with Katie Dempsey
-About 60% of Floyd County voters are in state House District 13.
+top of page Home Meet Katie Updates District 13 Contact Request a Yard Sign More Use tab to navigate through the menu items.
+All Posts From Katie News Search Rome News Tribune: Q&A with Katie Dempsey Katie Dempsey May 14, 2022 3 min read About 60% of Floyd County voters are in state House District 13.
 It covers all of Rome, the Silver Creek community and points east.
 Republicans Brad Barnes and Luke Martin are challenging incumbent Katie Dempsey.
 There are no Democrats seeking the seat so the winner of the May 24 primary will be unopposed in November.
 The candidates were each sent several questions about their qualifications and how they would govern in the Georgia General Assembly.
 Their responses will be published as they are returned.
 Dempsey, a former small business owner, was first elected in 2006.
-More about her platform is available at VoteKatieDempsey.com.
+More about her platform is available at VoteKatieDempsey.com .
 What makes you the best candidate to represent the district in the Georgia House?
 I have always put the City of Rome and Floyd County first.
 I am the only candidate in the race that is a lifelong Republican, the only candidate to be endorsed by the National Rifle Association, the Georgia Chamber of Commerce, and the Georgia Life Alliance.
@@ -16,7 +16,8 @@ In addition to my legislative work, I serve on the Department of Behavioral Heal
 I previously served on the Rome Floyd Planning Commission for 15 years as well as a member of the Rome City Commission.
 The only thing the Legislature is required to do is pass a budget.
 What are your budget priorities?
-Making sure that Georgia remains the No. 1 State to Do Business is my primary goal.
+Making sure that Georgia remains the No.
+1 State to Do Business is my primary goal.
 Georgia’s Constitution requires that the legislature pass a balanced budget and it is important that we continue to do so while investing in needs that will keep our state a great place to live, work, and play.
 I will remain focused on education, child advocacy, mental health, senior and veterans’ services, as well as workforce development to support recruitment and retention in education, healthcare, and law enforcement.
 It appears that Roe v Wade will be overturned, throwing the abortion issue back to the states.
@@ -33,4 +34,7 @@ I helped craft and support multiple measures this session to alleviate the press
 We also delivered a historic one-time tax return to all Georgia taxpayers and reduced taxes on military retiree pay, helping to ensure that more veterans make Georgia their permanent home.
 I am committed to working to overcome barriers to access safe housing and increase employability.
 We must continue to promote wellness incentives, and increase educational options for additional doctors, nurses, and support staff.
-It is imperative that we increase access to timely care while decreasing the costs of healthcare in our state.
+It is imperative that we increase access to timely care while decreasing the costs of healthcare in our state. https://www.northwestgeorgianews.com/rome/news/politics/q-a-with-katie-dempsey/article_c5b45912-d2c2-11ec-9844-073eb607ef0a.html Recent Posts See All Coosa Valley News: Rep.
+Dempsey Attends Elder Abuse Symposium as Honored Guest Collaboration between law enforcement and the private sector are helping investigators get results and prosecute elder abuse cases by...
+Rome News-Tribune: More Protection in New Lead Rules Rep.
+Dempsey Attends GEEARS Leaders Do Lunch Event Paid for by Friends of Katie Dempsey bottom of page

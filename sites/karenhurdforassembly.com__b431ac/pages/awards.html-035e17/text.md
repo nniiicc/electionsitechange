@@ -1,15 +1,1 @@
-KAREN HURD FOR ASSEMBLY
-Home
-PLATFORM
-Legislative Work
-Biography
-Donate
-Contact
-Awards
-Home
-PLATFORM
-Legislative Work
-Biography
-Donate
-Contact
-Awards
+KAREN HURD FOR ASSEMBLY Home PLATFORM Legislative Work Biography Donate Contact Awards Legislative Awards and Certificates Proudly powered by Weebly Home PLATFORM Legislative Work Biography Donate Contact Awards

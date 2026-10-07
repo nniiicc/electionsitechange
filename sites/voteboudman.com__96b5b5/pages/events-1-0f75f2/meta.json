@@ -1,7 +1,9 @@
 {
  "description": "Get to know Bobbi Boudman Host a lawn sign, Host a neighborhood party, Where is the candidate?",
  "final_url": "https://www.voteboudman.com/events-1",
- "paid_for_by": null,
+ "fingerprint": "7bd403efc5a9307fede8a492ee04022b2e1e3cf5",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Events | VoteBoudman",
  "years_mentioned": [
   "2026"

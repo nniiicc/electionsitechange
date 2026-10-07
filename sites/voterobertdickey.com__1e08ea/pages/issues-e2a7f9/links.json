@@ -1,8 +1,34 @@
 [
-"https://voterobertdickey.com/",
-"https://voterobertdickey.com/about-robert",
-"https://voterobertdickey.com/author/notrotten",
-"https://voterobertdickey.com/constituent-services",
-"https://voterobertdickey.com/contact-robert",
-"https://voterobertdickey.com/issues"
+{
+"text": "About Robert",
+"href": "https://voterobertdickey.com/about-robert/"
+},
+{
+"text": "Constituent Services",
+"href": "https://voterobertdickey.com/constituent-services/"
+},
+{
+"text": "Contact Robert",
+"href": "https://voterobertdickey.com/contact-robert/"
+},
+{
+"text": "Home",
+"href": "https://voterobertdickey.com"
+},
+{
+"text": "Home",
+"href": "https://voterobertdickey.com/"
+},
+{
+"text": "Issues",
+"href": "https://voterobertdickey.com/issues/"
+},
+{
+"text": "Steve Allen",
+"href": "https://voterobertdickey.com/author/notrotten/"
+},
+{
+"text": "[image: State Representative Robert Dickey Logo]",
+"href": "https://voterobertdickey.com/"
+}
 ]

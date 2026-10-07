@@ -1,18 +1,70 @@
 [
-"https://blaineforindiana.org/",
-"https://blaineforindiana.org/cart",
-"https://blaineforindiana.org/contact",
-"https://blaineforindiana.org/endorsements",
-"https://blaineforindiana.org/events",
-"https://blaineforindiana.org/platformpolicy",
-"https://blaineforindiana.org/volunteer",
-"https://blaineforindiana.org/whoiam",
-"https://bsky.app/profile/blaineforindiana.bsky.social",
-"https://facebook.com/people/Blaine-For-Indiana/61588594534180",
-"https://indianavoters.in.gov/",
-"https://instagram.com/blaineforindiana",
-"https://secure.actblue.com/donate/blaine-for-indiana",
-"https://tiktok.com/@blaine_for_indiana",
-"https://twitch.tv/blaineforindiana",
-"https://youtube.com/@BlaineForIndiana/shorts"
+{
+"text": "0",
+"href": "https://www.blaineforindiana.org/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.blaineforindiana.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/blaine-for-indiana"
+},
+{
+"text": "Endorsements",
+"href": "https://www.blaineforindiana.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.blaineforindiana.org/events"
+},
+{
+"text": "Info on Voting",
+"href": "https://indianavoters.in.gov"
+},
+{
+"text": "My platform",
+"href": "https://www.blaineforindiana.org/platformpolicy"
+},
+{
+"text": "Platform & Policy",
+"href": "https://www.blaineforindiana.org/platformpolicy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.blaineforindiana.org/volunteer"
+},
+{
+"text": "Who I Am",
+"href": "https://www.blaineforindiana.org/whoiam"
+},
+{
+"text": "[image: Blaine for Indiana]",
+"href": "https://www.blaineforindiana.org/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/blaineforindiana.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Blaine-For-Indiana/61588594534180/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/blaineforindiana/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@blaine_for_indiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitch.tv/blaineforindiana"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@BlaineForIndiana/shorts"
+}
 ]

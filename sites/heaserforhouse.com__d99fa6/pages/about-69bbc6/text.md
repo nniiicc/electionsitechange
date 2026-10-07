@@ -1,5 +1,4 @@
-About Jason Heaser
-I grew up in Minneiska, a small town outside of Winona.
+0 Skip to Content Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate Open Menu Close Menu Home About Platform Endorsements Events Connect Donate About Jason Heaser I grew up in Minneiska, a small town outside of Winona.
 It had two bars and a church.
 The church has since closed but the bars are doing fine.
 Growing up in a small town taught me the value of hard work and community.
@@ -37,16 +36,14 @@ The Army showed me the strength of diversity both in people and in thought.
 While each unit has a commander, no unit is a monolith.
 It takes direction, understanding, and effort to accomplish every mission.
 I look forward to using all of my experiences to protect, provide, and progress Minnesota values as a Representative of 34A.
-The Army taught me seven core values
-Loyalty.
+The Army taught me seven core values Loyalty.
 Duty.
 Respect.
 Selfless Service.
 Honor.
 Integrity.
 Personal Courage.
-FAMILY LIFE:
-My family is the joy in my life.
+FAMILY LIFE : My family is the joy in my life.
 My spouse, Leah Erickson, is also a criminal prosecutor with the Minnesota Attorney General’s Office.
 She is a brilliant attorney who often humbles me by the quickness of her mind.
 Together, we have a blended family of three wonderful children.
@@ -79,3 +76,6 @@ He also retired from the Navy Reserve as a Captain after 30 years.
 Army-Navy football games are always interesting in our household.
 I will fight to ensure that every family in Minnesota is able to feel secure in their homes, community, and livelihood.
 It takes direction, understanding, and effort to accomplish every mission.
+Donate Now!
+Prepared and paid for by the Heaser for House Committee: 12299 Champlin Dr, Unit 124, Champlin, MN 55316 Jason Heaser is a retired member of the US Army.
+Use of job titles, rank, and photographs in uniform do not imply endorsement by the Department of the Army or the Department of Defense.

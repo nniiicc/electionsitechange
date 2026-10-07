@@ -1,6 +1,2 @@
-top of page
-Canvassing with the Candidate
-Date and time is TBD
-|Location is TBD
-Let's get out into the community and chat with Blount County neighbors about their hopes and fears while informing people about Hilary's platform.
-bottom of page
+top of page Home Donate Updates & News Events Volunteer Log In Donate Canvassing with the Candidate Date and time is TBD | Location is TBD Let's get out into the community and chat with Blount County neighbors about their hopes and fears while informing people about Hilary's platform.
+RSVP Time & Location Date and time is TBD Location is TBD Guests See All About the event Show More RSVP Share this event bottom of page

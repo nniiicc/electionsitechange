@@ -1,15 +1,62 @@
 [
-"https://bsky.app/profile/mariaforpasenate.bsky.social",
-"https://facebook.com/MariaforPA",
-"https://instagram.com/mariaforpa",
-"https://mariaforpasenate.com/",
-"https://mariaforpasenate.com/about-6",
-"https://mariaforpasenate.com/blank",
-"https://mariaforpasenate.com/general-6-1",
-"https://secure.actblue.com/donate/maria-for-pa-1",
-"https://senatorcollett.com/breaking-ground-at-the-lansdale-ymca-sen-collett-celebrates-2-5m-investment-in-community-recreation",
-"https://senatorcollett.com/senator-collett-announces-over-1-5m-in-safety-mental-health-grants-for-montgomery-bucks-counties",
-"https://senatorcollett.com/senator-collett-celebrates-877000-in-community-revitalization-funding",
-"https://senatorcollett.com/senator-collett-state-reps-celebrate-5-8-million-for-public-safety-infrastructure-projects-across-montgomery-county",
-"https://threads.com/@mariaforpa"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/maria-for-pa-1"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.mariaforpasenate.com/blank"
+},
+{
+"text": "HOME",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "Highlight: $1.5M in Safety & Mental Health Grants",
+"href": "https://www.senatorcollett.com/senator-collett-announces-over-1-5m-in-safety-mental-health-grants-for-montgomery-bucks-counties/"
+},
+{
+"text": "Highlight: $2.5M Investment in Community Recreation",
+"href": "https://www.senatorcollett.com/breaking-ground-at-the-lansdale-ymca-sen-collett-celebrates-2-5m-investment-in-community-recreation/"
+},
+{
+"text": "Highlight: $5.8 Million for Public Safety & Infrastructure Projects",
+"href": "https://www.senatorcollett.com/senator-collett-state-reps-celebrate-5-8-million-for-public-safety-infrastructure-projects-across-montgomery-county/"
+},
+{
+"text": "Highlight: $877,000 In Community Revitalization Funding",
+"href": "https://www.senatorcollett.com/senator-collett-celebrates-877000-in-community-revitalization-funding/"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:finn@mariaforpasenate.com?subject=Collett+Campaign+Inquiry"
+},
+{
+"text": "OUR DISTRICT",
+"href": "https://www.mariaforpasenate.com/about-6"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.mariaforpasenate.com/general-6-1"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.mariaforpasenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/MariaforPA/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mariaforpa/"
+},
+{
+"text": "[image]",
+"href": "https://bsky.app/profile/mariaforpasenate.bsky.social"
+},
+{
+"text": "[image]",
+"href": "https://www.threads.com/@mariaforpa"
+}
 ]

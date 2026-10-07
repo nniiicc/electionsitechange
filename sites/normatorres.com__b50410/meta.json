@@ -1,7 +1,11 @@
 {
  "description": "Congressswoman Norma Torres represents the hard-working families of the Inland Empire in Congress.",
  "final_url": "https://www.normatorres.com/",
- "paid_for_by": null,
+ "fingerprint": "3c815a6b5affbe0f40ade002c5939ac1e8667b03",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Norma Torres for Congress",
- "years_mentioned": []
+ "years_mentioned": [
+  "2020"
+ ]
 }

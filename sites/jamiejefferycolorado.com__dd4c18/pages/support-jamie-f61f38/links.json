@@ -1,8 +1,30 @@
 [
-"https://jamiejefferycolorado.com/",
-"https://jamiejefferycolorado.com/contact-us",
-"https://jamiejefferycolorado.com/endorsements",
-"https://jamiejefferycolorado.com/jamie-for-sd-1",
-"https://jamiejefferycolorado.com/support-jamie",
-"https://secure.actblue.com/donate/jamie-jeffery-1"
+{
+"text": "About Jamie",
+"href": "https://www.jamiejefferycolorado.com/"
+},
+{
+"text": "Contact us",
+"href": "https://www.jamiejefferycolorado.com/contact-us/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jamiejefferycolorado.com/endorsements/"
+},
+{
+"text": "Jamie for SD1",
+"href": "https://www.jamiejefferycolorado.com/jamie-for-sd-1/"
+},
+{
+"text": "Support Jamie",
+"href": "https://www.jamiejefferycolorado.com/support-jamie/"
+},
+{
+"text": "Want to make a donation?",
+"href": "https://secure.actblue.com/donate/jamie-jeffery-1"
+},
+{
+"text": "[image]",
+"href": "https://www.jamiejefferycolorado.com/"
+}
 ]

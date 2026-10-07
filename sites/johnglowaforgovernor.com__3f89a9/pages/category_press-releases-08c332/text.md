@@ -1,4 +1,5 @@
-FOR IMMEDIATE RELEASE August 6, 2025 John M.
-Glowa, Sr. announces an independent bid for governor of Maine State retiree and longtime environmental and wildlife
-FOR IMMEDIATE RELEASE May 1, 2025 Former gubernatorial candidate and longtime wildlife advocate considers another run for the Blaine House Former democratic gubernatorial candidate and
-FOR IMMEDIATE RELEASE April 21, 2025 Possible Maine 2026 gubernatorial candidate testifies against repealing Maine gun safety laws On April 16, 2025, former Democratic gubernatorial
+Skip to content Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Contribute Press Releases Home / Press Releases John Glowa, Sr.
+Announces Gubernatorial Candidacy FOR IMMEDIATE RELEASE August 6, 2025 John M.
+Glowa, Sr. announces an independent bid for governor of Maine State retiree and longtime environmental and wildlife Read More » Reforming Maine’s Dysfunctional Government FOR IMMEDIATE RELEASE May 1, 2025 Former gubernatorial candidate and longtime wildlife advocate considers another run for the Blaine House Former democratic gubernatorial candidate and Read More » Gun Safety FOR IMMEDIATE RELEASE April 21, 2025 Possible Maine 2026 gubernatorial candidate testifies against repealing Maine gun safety laws On April 16, 2025, former Democratic gubernatorial Read More » John Glowa, Sr., Independent for Governor 2026 – A campaign focused on truth, experience, and putting people before politics.
+Join us in reshaping Maine’s government to work for everyone.
+Quick Link Home About Issues News Press Releases Events Contact Home About Issues News Press Releases Events Contact Recent Posts ICE and the Federal Government Energy Yahoo News Maine Morning Star Spectrum News Contact Us Phone: 207-660-3801 Email: johnglowaforgovernor@gmail.com Copyright © # All Right Reserved

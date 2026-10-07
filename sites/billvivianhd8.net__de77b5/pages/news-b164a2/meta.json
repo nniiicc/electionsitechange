@@ -1,10 +1,13 @@
 {
  "description": "Bill Vivian in the News",
  "final_url": "https://www.billvivianhd8.net/news",
- "paid_for_by": null,
+ "fingerprint": "e6dc1b8327c3ee91baffc93a27b3503d29f125e9",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News",
  "years_mentioned": [
   "2013",
+  "2024",
   "2026"
  ]
 }

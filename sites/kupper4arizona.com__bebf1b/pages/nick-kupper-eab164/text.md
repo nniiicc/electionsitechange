@@ -1,9 +1,6 @@
-ABOUT ME
-Nick Kupper
-NICK KUPPER
-I was born a dreamer, raised near the rainy forests of the Pacific Northwest.
-My father, a Vietnam veteran and truck driver, and my mother, a student loan default prevention officer, encouraged me and taught me and my three brothers the importance of hard work, family and patriotism.
-I have always been a dreamer.
+top of page Nick Kupper for LD25 State House Home Nick Kupper Get Involved Issues Contact More Use tab to navigate through the menu items.
+Log In CONTRIBUTE NOW ABOUT ME Nick Kupper NICK KUPPER I was born a dreamer, raised near the rainy forests of the Pacific Northwest.
+My father, a Vietnam veteran and truck driver, and my mother, a student loan default prevention officer, encouraged me and taught me and my three brothers the importance of hard work, family and patriotism. ​ I have always been a dreamer.
 Some of those dreams — like traveling to Mars as an astronaut — have fallen by the wayside.
 Others have come true, like marrying the girl I fell in love with in high school.
 Crystal and I married at 19, despite some people telling us that our dream of a solid marriage was near-impossible.
@@ -26,4 +23,7 @@ We need lawmakers the way they used to be — servants from outside the world of
 I still dream that such things are possible and I still fight for a day when that dream is a reality.
 As your state representative in Arizona’s 25th legislative district I fight for you every day.
 "I care about doing the hard things so I can take care of others.
-I am happy to serve so that someone else doesn't have to"
+I am happy to serve so that someone else doesn't have to" Support Our Cause CONTACT SIGN PETITION Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Paid for by Kupper4Arizona © # Kupper4Arizona.
+ALL RIGHTS RESERVED.
+Approved by Nick Kupper bottom of page

@@ -1,29 +1,15 @@
-Securing our Safety and Defending our Rights
-Our community and state as a whole have experienced unprecedented trauma caused by Operation Metro Surge and the unconstitutional violation of our rights at a massive scale.
+0 Skip to Content Home About Issues A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Open Menu Close Menu Home About Issues A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Open Menu Close Menu Home About Folder: Issues Back A Healthy Minnesota Making our Lives Affordable: A New Deal for Minnesota Education for a Stable Future Expanding Transit Options and Protecting our Environment Securing our Safety and Defending our Rights Endorsements Contact Hunter Contribute Securing our Safety and Defending our Rights Our community and state as a whole have experienced unprecedented trauma caused by Operation Metro Surge and the unconstitutional violation of our rights at a massive scale.
 Never before have people in our state been forced to hide in their homes, fear being racially profiled and illegally detained by federal agents while going to the grocery store or picking their kids up from school, or endure brutal tactics from their own government while court orders for their release go ignored.
 We must protect our immigrant and refugee neighbors who contribute to our communities and make Minnesota the vibrant, prosperous state we love.
 The human and constitutional rights of every Minnesotan are at stake and we need to implement strong safeguards to protect our communities going forward.
 In Minnesota, no one’s human rights are negotiable.
-Defending constitutional rights and community prosperity
-In the aftermath of the federal government’s politically motivated attack on our state, we need to enact strong protections for our immigrant and refugee communities and establish safeguards to protect the human rights of all Minnesotans.
+Defending constitutional rights and community prosperity In the aftermath of the federal government’s politically motivated attack on our state, we need to enact strong protections for our immigrant and refugee communities and establish safeguards to protect the human rights of all Minnesotans.
 We are seeing increased use of AI in domestic surveillance and a lack of accountability for infringing on our constitutional rights.
-- Empower Minnesotans whose constitutional rights are violated by federal agents to sue the federal government for remedy
-- Prohibit use of facial recognition and increasingly AI-based domestic surveillance tools to collect data from public and private sources by government entities
-- No one should have to fear going to the hospital to seek medical care, commuting to and from work, attending their houses of worship, voting at their polling locations, or going to school.
+Empower Minnesotans whose constitutional rights are violated by federal agents to sue the federal government for remedy Prohibit use of facial recognition and increasingly AI-based domestic surveillance tools to collect data from public and private sources by government entities No one should have to fear going to the hospital to seek medical care, commuting to and from work, attending their houses of worship, voting at their polling locations, or going to school.
 These places are supposed to be safe environments for everyone and must be protected as sensitive locations.
-- Support developing proactive policies to ensure continued economic security, ongoing access to healthcare, and housing stability for affected communities in the event of future Metro Surge operations
-- Continue to actively work to protect the human rights of our LGBTQ+ community members, especially our trans community members, and strongly oppose efforts to deprive us of equal rights
-- Pass an inclusive Equal Rights Amendment to the MN State Constitution
-uplifting community safety
-Everyone deserves to feel safe in our community.
+Support developing proactive policies to ensure continued economic security, ongoing access to healthcare, and housing stability for affected communities in the event of future Metro Surge operations Continue to actively work to protect the human rights of our LGBTQ+ community members, especially our trans community members, and strongly oppose efforts to deprive us of equal rights Pass an inclusive Equal Rights Amendment to the MN State Constitution uplifting community safety Everyone deserves to feel safe in our community.
 I believe in community based interventions that take an evidence-based, public health approach to safety.
-- Fund community-centered violence prevention initiatives
-- Increase funding for Burnsville’s behavioral response unit to help people compassionately navigate through mental health crises
-- Invest in chemical dependency prevention, education, and treatment accessibility
-Supporting our first responders
-Our first responders have incredibly difficult jobs and are there for us when we need them the most.
+Fund community-centered violence prevention initiatives Increase funding for Burnsville’s behavioral response unit to help people compassionately navigate through mental health crises Invest in chemical dependency prevention, education, and treatment accessibility Supporting our first responders Our first responders have incredibly difficult jobs and are there for us when we need them the most.
 Burnsville Fire, EMS, and Police deserve to be supported and have all resources available to keep us safe.
-- Fully fund equipment and facility needs for first responders
-- Invest in confidential mental health support resources to help first responders navigate through the trauma they endure on a daily basis
-- Ensure a living wage for first responders
-- Increase funding to alleviate financial hardships if first responders develop cancer or other health conditions linked to occupational hazardous chemical exposure
+Fully fund equipment and facility needs for first responders Invest in confidential mental health support resources to help first responders navigate through the trauma they endure on a daily basis Ensure a living wage for first responders Increase funding to alleviate financial hardships if first responders develop cancer or other health conditions linked to occupational hazardous chemical exposure Prepared and Paid for by Hunter Cantrell for MN House Committee 1609 County Rd 42 W.
+#373 Burnsville, MN 55306

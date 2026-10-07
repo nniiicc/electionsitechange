@@ -1,17 +1,1 @@
-Back to All Events
-People-Powered Candidates
-Tyler Farnsworth - US House of Representatives District 2
-Brandon Young - Utah House of Representatives District 14
-Anne Berbert - Utah House of Representatives District 15
-Abigail Treasure - Utah House of Representatives District 16
-Scott Troxel - Utah House of Representatives District 18
-Dakota Wurth - Senate District 5
-Garrett Rushforth - Senate District 7
-Jorge Quinones - School Board
-Previous
-Previous
-April 10
-Davis Derby Gala
-Next
-Next
-April 22
+0 Skip to Content Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Open Menu Close Menu Home FAQ Contact Events Donate Back to All Events Davis County: Let's Talk Tuesday, April 21, 2026 7:00 PM 8:15 PM Clearfield Community Arts 140 Center Street Clearfield, UT, 84015 United States (map) Google Calendar ICS People-Powered Candidates Tyler Farnsworth - US House of Representatives District 2 Brandon Young - Utah House of Representatives District 14 Anne Berbert - Utah House of Representatives District 15 Abigail Treasure - Utah House of Representatives District 16 Scott Troxel - Utah House of Representatives District 18 Dakota Wurth - Senate District 5 Garrett Rushforth - Senate District 7 Jorge Quinones - School Board Previous Previous April 10 Davis Derby Gala Next Next April 22 How to Win in Northern Utah Brandon Young for House District 14 Donate

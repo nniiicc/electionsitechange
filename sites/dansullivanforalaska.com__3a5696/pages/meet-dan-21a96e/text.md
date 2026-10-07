@@ -1,5 +1,4 @@
-Meet Dan
-Dan Sullivan was sworn in as Alaska’s eighth U.S.
+Skip to content Meet Dan Media News Media Center Endorsements Vote Join the Team Facebook Instagram YouTube X Donate Chip in now to stand with Dan! $25 $50 $100 $250 Other Meet Dan Dan Sullivan was sworn in as Alaska’s eighth U.S.
 Senator on January 6, 2015, and reelected in November 2020.
 He serves on the Armed Services; Commerce, Science, and Transportation; Environment and Public Works; and Veterans’ Affairs Committees.
 Recognized as one of the Senate’s most effective legislators, the University of Virginia’s Center for Effective Lawmaking consistently ranks Dan among the Senate’s top 10 most effective members.
@@ -21,3 +20,9 @@ His Pro-Bono Work to Empower and Represent (POWER) Act has enabled thousands of 
 Dan earned a B.A. in economics from Harvard and a joint law and Master of Science in foreign service degree from Georgetown.
 He and his wife, Julie Fate Sullivan, have been married for over 30 years and live in Anchorage, Alaska.
 They have three daughters.
+Connect Facebook Instagram YouTube X HQ Address: 3030 Denali St Suite #8, Anchorage, AK 99503 Mailing Address: 3705 Arctic Blvd #447, Anchorage, Alaska 99503 info@danforak.com © Copyright #.
+All Rights Reserved.
+Any use of military rank, job titles, and photographs in uniform do not imply endorsement by the Department of War.
+Do Not Sell or Share My Personal Information .
+This site is protected by reCAPTCHA.
+Paid for by Alaskans for Dan Sullivan | Terms & Conditions | Privacy Policy Meet Dan News Media Join the Team

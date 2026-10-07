@@ -1,3 +1,3 @@
-October 3, 2026
-★ Wellington Town Hall★ The Sumner Center 1:00 PM- 3:00 PM 101 S Washington Ave Wellington, KS 67152
-October
+Skip to content Issues News Events Store Vote Donate Issues News Events Store Vote Donate Where we're going October 12, 2026 ★ Wichita Town Hall ★ The Sedgwick County Zoo Cargill Learning Center 6:30 PM – 8:00 PM 5555 W Zoo Blvd Wichita, KS 67212 This program is not affiliated with or endorsed by the Sedgwick County Zoo.
+October 20, 2026 ★ Pratt Town Hall ★ The Municipal Building 6:00 PM – 7:30 PM 117 W 3rd St Pratt, KS 67124 October Sedgwick County, Wichita and surrounding Metro.
+Additional Times and Locations TBD Where we've been Donate PO Box 781004 Wichita, KS 67207 PAID FOR BY TYNDELL FOR CONGRESS Privacy Policy Privacy Policy Site by Kinetic Strategies Get in touch Facebook Instagram Youtube Tiktok info@katyforkansas.com Tyndell Campaign Headquarters 7803 E Osie St, Suite 110 Wichita, KS 67207 Mon–Fri: 10 AM – 2 PM (Mon & Thu also 5 – 7 PM) Sat–Sun: 10 AM – 4 PM Issues News Events Store Vote Donate Issues News Events Store Vote Donate

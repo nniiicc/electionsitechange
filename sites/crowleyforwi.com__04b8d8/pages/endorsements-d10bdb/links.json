@@ -1,16 +1,62 @@
 [
-"https://bsky.app/profile/davidcrowley4wi.bsky.social",
-"https://crowleyforwi.com/",
-"https://crowleyforwi.com/Record",
-"https://crowleyforwi.com/davids-story",
-"https://crowleyforwi.com/privacy",
-"https://designedtorun.com/",
-"https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing",
-"https://facebook.com/CrowleyForWi",
-"https://facebook.com/OCLocal1848",
-"https://flickr.com/photos/davidcrowleymke",
-"https://instagram.com/crowleyforwi",
-"https://secure.actblue.com/donate/dc-web",
-"https://store.crowleyforwi.com/",
-"https://x.com/DavidCCrowley"
+{
+"text": "Donate now »",
+"href": "https://secure.actblue.com/donate/dc-web"
+},
+{
+"text": "Events",
+"href": "https://www.crowleyforwi.com/events"
+},
+{
+"text": "Flickr",
+"href": "https://www.flickr.com/photos/davidcrowleymke/"
+},
+{
+"text": "Google Drive",
+"href": "https://drive.google.com/drive/folders/1Z41i_SW2PnYc02Yb-HCAsBPXsQ3XkroH?usp=sharing"
+},
+{
+"text": "Privacy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.crowleyforwi.com/privacy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Store",
+"href": "https://store.crowleyforwi.com/"
+},
+{
+"text": "[image: David Crowley for Governor of Wisconsin | Official Campaign]",
+"href": "https://www.crowleyforwi.com/"
+},
+{
+"text": "[image: Oak Creek Local 1848 Logo]Oak Creek Firefighters Local 1848",
+"href": "https://www.facebook.com/OCLocal1848/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidcrowley4wi.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/CrowleyForWi"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/crowleyforwi"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/DavidCCrowley"
+},
+{
+"text": "info@crowleyforwi.com",
+"href": "mailto:info@crowleyforwi.com"
+}
 ]

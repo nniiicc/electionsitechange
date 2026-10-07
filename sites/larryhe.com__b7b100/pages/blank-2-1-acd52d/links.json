@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=61587171132417",
-"https://instagram.com/dr.larry_he?igsh=YmNwMHhoemV3ZWhi",
-"https://larryhe.com/",
-"https://larryhe.com/about",
-"https://larryhe.com/blank-2-1",
-"https://larryhe.com/donate",
-"https://larryhe.com/find-your-poll-site",
-"https://larryhe.com/get-involved",
-"https://larryhe.com/platform",
-"https://larryhe.com/products",
-"https://larryhe.com/video-blogs",
-"https://tiktok.com/@dr.larry_he?is_from_webapp=1&sender_device=pc"
+{
+"text": "About Dr. Larry He",
+"href": "https://www.larryhe.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.larryhe.com/donate"
+},
+{
+"text": "Find Your Poll Site",
+"href": "https://www.larryhe.com/find-your-poll-site"
+},
+{
+"text": "Get Involved",
+"href": "https://www.larryhe.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.larryhe.com"
+},
+{
+"text": "Platform",
+"href": "https://www.larryhe.com/platform"
+},
+{
+"text": "Products",
+"href": "https://www.larryhe.com/products"
+},
+{
+"text": "Testimonials",
+"href": "https://www.larryhe.com/blank-2-1"
+},
+{
+"text": "Video Blogs",
+"href": "https://www.larryhe.com/video-blogs"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61587171132417"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/dr.larry_he?igsh=YmNwMHhoemV3ZWhi"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@dr.larry_he?is_from_webapp=1&sender_device=pc"
+},
+{
+"text": "[image: c44b558d5072246d510dad9fbb0b2869]",
+"href": "mailto:friendsoflarryhe@gmail.com"
+}
 ]

@@ -1,88 +1,10 @@
-Elected Officials
-Wes Moore
-Governor
-Chris Van Hollen
-Senator
-Angela Alsobrooks
-Senator
-Aruna Miller
-Lieutenant Governor
-Anthony Brown
-Attorney General
-Hakeem Jeffries
-House Democratic Leader
-Katherine Clark
-House Democratic Whip
-Pete Aguilar
-House Democratic Caucus Chair
-Nancy Pelosi
-Fmr.
-Speaker of the House
-Johnny Olszewski
-Member of Congress MD-02
-Sarah Elfreth
-Member of Congress MD-03
-Glenn Ivey
-Member of Congress MD-04
-Steny Hoyer
-Member of Congress MD-05
-Kweisi Mfume
-Member of Congress MD-07
-Jamie Raskin
-Member of Congress MD-08
-Sarah McBride
-Member of Congress DE-AL
-Marc Elrich
-Montgomery County Executive
-John McCarthy
-Montgomery County State's Attorney
-Jan Gardner
-Former Frederick County Executive
-Karen Lewis Young
-State Senator, SD-3
-Katie Fry Hester
-State Senator, SD-9
-Craig Zucker
-State Senator, SD-14
-Cheryl Kagan
-State Senator, SD-17
-Ben Kramer
-State Senator, SD-19
-Karen Simpson
-House of Delegates, HD-3
-Natalie Ziegler
-House of Delegates, HD-9A
-Lily Qi
-House of Delegates, HD-15
-Joe Vogel
-House of Delegates, HD-17
-Laurie-Anne Sayles
-Montgomery County Councilmember
-Kate Stewart
-Montgomery County Councilmember
-Sidney Katz
-Montgomery County Councilmember
-Marilyn Balcombe
-Montgomery County Councilmember
-Dawn Luedtke
-Montgomery County Councilmember
-Gabe Albornoz
-Former Montgomery County Councilmember
-MC Keegan-Ayer
-Frederick County Councilmember
-Jerry Donald
-Frederick County Councilmember
-Kavonte Duckett
-Frederick County Councilmember
-Derek Shackelford
-Frederick City Councilmember
-Sarah Hempel Irani
-Frederick City Councilmember
-Lisa Henderson
-Gaithersburg City Councilmember
-Monique Ashton
-Rockville Mayor
-Adam Van Grack
-Rockville City Councilmember
-Joel Rubin
-Former Vice Mayor, Chevy Chase
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Toggle Mobile Menu Donate Now!
+Meet April Endorsements Campaign News In the News Press Releases Get Involved Get Updates Volunteer April McClain Delaney Endorsements Elected Officials Wes Moore Governor Chris Van Hollen Senator Angela Alsobrooks Senator Aruna Miller Lieutenant Governor Anthony Brown Attorney General Hakeem Jeffries House Democratic Leader Katherine Clark House Democratic Whip Pete Aguilar House Democratic Caucus Chair Nancy Pelosi Fmr.
+Speaker of the House Johnny Olszewski Member of Congress MD-02 Sarah Elfreth Member of Congress MD-03 Glenn Ivey Member of Congress MD-04 Steny Hoyer Member of Congress MD-05 Kweisi Mfume Member of Congress MD-07 Jamie Raskin Member of Congress MD-08 Sarah McBride Member of Congress DE-AL Marc Elrich Montgomery County Executive John McCarthy Montgomery County State's Attorney Jan Gardner Former Frederick County Executive Karen Lewis Young State Senator, SD-3 Katie Fry Hester State Senator, SD-9 Craig Zucker State Senator, SD-14 Cheryl Kagan State Senator, SD-17 Ben Kramer State Senator, SD-19 Karen Simpson House of Delegates, HD-3 Natalie Ziegler House of Delegates, HD-9A Lily Qi House of Delegates, HD-15 Joe Vogel House of Delegates, HD-17 Laurie-Anne Sayles Montgomery County Councilmember Kate Stewart Montgomery County Councilmember Sidney Katz Montgomery County Councilmember Marilyn Balcombe Montgomery County Councilmember Dawn Luedtke Montgomery County Councilmember Gabe Albornoz Former Montgomery County Councilmember MC Keegan-Ayer Frederick County Councilmember Jerry Donald Frederick County Councilmember Kavonte Duckett Frederick County Councilmember Derek Shackelford Frederick City Councilmember Sarah Hempel Irani Frederick City Councilmember Lisa Henderson Gaithersburg City Councilmember Monique Ashton Rockville Mayor Adam Van Grack Rockville City Councilmember Joel Rubin Former Vice Mayor, Chevy Chase Organizations Planned Parenthood Action Fund Reproductive Freedom for All League of Conservation Voters American Federation of Government Employees UFCW Local 1994 MCGEO Maryland & DC State Council of Machinists and Aerospace Workers NEWDem Action Fund Defend the Vote Elect Democratic Women National Committee to Preserve Social Security and Medicare Montgomery County Muslim Council Committee to Protect Health Care Contribute Now Donate to the Campaign!
+We've launched our campaign and are looking for your support!
+Donate today to become a founding donor.
+Click on an option to get started.
+If you've saved your payment information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# Other Join Her Campaign!
+Meet April Endorsements Campaign News Get Involved April McClain Delaney Facebook April McClain Delaney Twitter April McClain Delaney Instagram April McClain Delaney YouTube Contact Us [email protected] Address April McClain Delaney for Congress PO Box 83940 Gaithersburg, MD 20883-83940 Accessibility Statement PAID FOR BY APRIL MCCLAIN DELANEY FOR CONGRESS Site made with ❤️ by Landslide Digital I'll never stop fighting for you.
+Donate now!
+Jump to Content Toggle High Contrast Toggle Font Size

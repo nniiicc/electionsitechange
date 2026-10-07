@@ -1,3 +1,10 @@
 [
-"http://peggymayfield.com/"
+{
+"text": "peggy@peggymayfield.com",
+"href": "mailto:Peggy@peggymayfield.com"
+},
+{
+"text": "www.peggymayfield.com",
+"href": "http://www.peggymayfield.com"
+}
 ]

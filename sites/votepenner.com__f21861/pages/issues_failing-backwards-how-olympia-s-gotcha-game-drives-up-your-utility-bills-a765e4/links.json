@@ -1,14 +1,66 @@
 [
-"https://facebook.com/RepJoshPenner",
-"https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039216&isFinding=false&sp=false",
-"https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039327&isFinding=false&sp=false",
-"https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039395&isFinding=false&sp=false",
-"https://votepenner.com/",
-"https://votepenner.com/accessibility",
-"https://votepenner.com/briefings",
-"https://votepenner.com/issues/protecting-our-communities",
-"https://votepenner.com/issues/the-truth-about-olympias-failure-on-the-fentanyl-crisis",
-"https://votepenner.com/issues/the-unacceptable-tragedy-of-state-neglect",
-"https://votepenner.com/submit-a-bill",
-"https://x.com/theJoShPENNER"
+{
+"text": "Accessibility Statement",
+"href": "https://votepenner.com/accessibility"
+},
+{
+"text": "Briefings",
+"href": "https://votepenner.com/briefings"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/RepJoshPenner"
+},
+{
+"text": "Idea",
+"href": "https://votepenner.com/submit-a-bill"
+},
+{
+"text": "Josh PennerFor Representative R",
+"href": "https://votepenner.com/"
+},
+{
+"text": "Protecting Our CommunitiesThe Threat to Local Control Unelected transit agencies attempted to seize control over land use decisions that belong to our communities. These agenc...Read full breakdown→",
+"href": "https://votepenner.com/issues/protecting-our-communities"
+},
+{
+"text": "Read the briefing and watch the speech→",
+"href": "https://votepenner.com/issues/the-unacceptable-tragedy-of-state-neglect"
+},
+{
+"text": "Record",
+"href": "https://votepenner.com/#accountability-index"
+},
+{
+"text": "Submit an Idea",
+"href": "https://votepenner.com/submit-a-bill"
+},
+{
+"text": "The Briefing",
+"href": "https://votepenner.com/briefings"
+},
+{
+"text": "The Record",
+"href": "https://votepenner.com/#accountability-index"
+},
+{
+"text": "The Truth About Olympia's Failure on the Fentanyl CrisisA Silent Killer in Our Living Rooms Every parent knows the drill. You watch your toddler's every move. You check the floor for small toys or stray pie...Read full breakdown→",
+"href": "https://votepenner.com/issues/the-truth-about-olympias-failure-on-the-fentanyl-crisis"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/theJoShPENNER"
+},
+{
+"text": "🏛️ Washington State State Auditor's Office Audit Finding City of Cheney Electric Utility Compliance \"City management said it was unable to obtain guidance from Commerce...\" SAO Report 1039395 View PDF →",
+"href": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039395&isFinding=false&sp=false"
+},
+{
+"text": "🏛️ Washington State State Auditor's Office Compliance Penalty Klickitat County PUD No. 1 Audit Report \"District management was unable to obtain clarifications or guidance...\" SAO Report 1039216 View PDF →",
+"href": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039216&isFinding=false&sp=false"
+},
+{
+"text": "🏛️ Washington State State Auditor's Office Reporting Error Pend Oreille County PUD No. 1 Compliance State legally requires complex 25-year projections, but agency refuses to supply mathematical formula. SAO Report 1039327 View PDF →",
+"href": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1039327&isFinding=false&sp=false"
+}
 ]

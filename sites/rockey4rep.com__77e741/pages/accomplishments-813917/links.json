@@ -1,8 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61558486495608",
-"https://rockey4rep.com/",
-"https://rockey4rep.com/2814-2",
-"https://rockey4rep.com/accomplishments",
-"https://rockey4rep.com/donation/volunteering",
-"https://secure.anedot.com/josh-rockey-for-state-rep/donate"
+{
+"text": "Accomplishments",
+"href": "https://rockey4rep.com/accomplishments/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/josh-rockey-for-state-rep/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://rockey4rep.com/2814-2/"
+},
+{
+"text": "Volunteering",
+"href": "https://rockey4rep.com/donation/volunteering/"
+},
+{
+"text": "[image: Rockey for State Rep][image: Rockey for State Rep]",
+"href": "https://rockey4rep.com/"
+},
+{
+"text": "[tooltip: ]",
+"href": "https://www.facebook.com/profile.php?id=61558486495608"
+}
 ]

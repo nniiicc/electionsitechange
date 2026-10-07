@@ -1,35 +1,134 @@
 [
-"https://abi.org/feed-item/health-care-costs-number-one-cause-of-bankruptcy-for-american-families",
-"https://aclu.org/issues/juvenile-justice/juvenile-justice-school-prison-pipeline",
-"https://axios.com/2023/07/20/texas-abortion-ban-infant-mortality-rate",
-"https://census.gov/library/publications/2022/acs/acsbr-013.html",
-"https://dallasnews.com/news/politics/2022/06/03/texas-leads-nation-in-mass-shootings-and-gun-statistics-point-to-why",
-"https://data.census.gov/table?tid=ACSST5Y2020.S1501&g=010XX00US%240400000",
-"https://dshs.texas.gov/sites/default/files/chs/hprc/publications/WomensHealthProviders.pdf",
-"https://gunsensevoter.org/candidates/a12c52014f0edfa2c88c17c9b0b040102940f90e591b265ab056f5bd79f98aba",
-"https://justice.gov/crs/highlights/2021-hate-crime-statistics",
-"https://melissaforcongress.com/",
-"https://melissaforcongress.com/2026-election-newsletter",
-"https://melissaforcongress.com/?page_id=3",
-"https://melissaforcongress.com/about-cd38",
-"https://melissaforcongress.com/about-melissa",
-"https://melissaforcongress.com/chat-rsvp",
-"https://melissaforcongress.com/cookie-policy",
-"https://melissaforcongress.com/events",
-"https://melissaforcongress.com/home/election-2026-videos",
-"https://melissaforcongress.com/platform",
-"https://melissaforcongress.com/volunteer",
-"https://policies.google.com/privacy",
-"https://publichealth.jhu.edu/2023/analysis-suggests-2021-texas-abortion-ban-resulted-in-nearly-9800-extra-live-births-in-state-in-year-after-law-went-into-effect",
-"https://secure.actblue.com/donate/MelissaForCongress2024",
-"https://sentencingproject.org/research/us-criminal-justice-data",
-"https://statesman.com/story/news/politics/politifact/2022/01/09/texas-turned-down-100-billion-when-decided-not-expand-medicaid/8858664002",
-"https://statista.com/statistics/1184621/presidential-election-voter-turnout-rate-state",
-"https://taxfoundation.org/tariffs-trump-trade-war",
-"https://texastribune.org/2023/05/10/texas-gun-fatalities-laws",
-"https://texastribune.org/2023/05/24/ken-paxton-attorney-general-investigations-lawsuits",
-"https://thehill.com/business/4092685-inflation-slowed-to-3-percent-in-june",
-"https://theweek.com/greg-abbott/1013145/texas-gov-abbotts-border-inspections-prompt-mexico-to-move-lucrative-trade-link",
-"https://wonder.cdc.gov/controller/saved/D76/D292F153",
-"https://wpconsent.com/powered-by"
+{
+"text": "18% uninsured residents",
+"href": "https://www.census.gov/library/publications/2022/acs/acsbr-013.html"
+},
+{
+"text": "50% of Texas counties do not have a women’s health provider",
+"href": "https://www.dshs.texas.gov/sites/default/files/chs/hprc/publications/WomensHealthProviders.pdf"
+},
+{
+"text": "About",
+"href": "https://melissaforcongress.com/about-melissa/"
+},
+{
+"text": "About CD38",
+"href": "https://melissaforcongress.com/about-cd38/"
+},
+{
+"text": "About Melissa",
+"href": "https://melissaforcongress.com/about-melissa/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/MelissaForCongress2024"
+},
+{
+"text": "Events",
+"href": "https://melissaforcongress.com/events/"
+},
+{
+"text": "Gun Sense Candidate by Everytown for Gun Safety and Moms Demand Action, organizations that advocate for common-sense gun safety measures while respecting the Second Amendment.",
+"href": "https://gunsensevoter.org/candidates/a12c52014f0edfa2c88c17c9b0b040102940f90e591b265ab056f5bd79f98aba/"
+},
+{
+"text": "Infant mortality increased by 11%",
+"href": "https://www.axios.com/2023/07/20/texas-abortion-ban-infant-mortality-rate"
+},
+{
+"text": "Newsletter",
+"href": "https://melissaforcongress.com/2026-election-newsletter/"
+},
+{
+"text": "Our voter turnout ranked 44 out of 50 states in 2020 with only a 60% turnout.",
+"href": "https://www.statista.com/statistics/1184621/presidential-election-voter-turnout-rate-state/"
+},
+{
+"text": "Platform",
+"href": "https://melissaforcongress.com/platform/"
+},
+{
+"text": "Powered by (opens in a new window)",
+"href": "https://wpconsent.com/powered-by/"
+},
+{
+"text": "Request a Sign",
+"href": "https://melissaforcongress.com/chat-rsvp/"
+},
+{
+"text": "Texas had an increase in 9,800 births",
+"href": "https://publichealth.jhu.edu/2023/analysis-suggests-2021-texas-abortion-ban-resulted-in-nearly-9800-extra-live-births-in-state-in-year-after-law-went-into-effect#:~:text=Departments-,Analysis%20Suggests%202021%20Texas%20Abortion%20Ban%20Resulted%20in%20Nearly%209%2C800,After%20Law%20Went%20Into%20Effect"
+},
+{
+"text": "Texas has had more mass shootings than any other state",
+"href": "https://www.dallasnews.com/news/politics/2022/06/03/texas-leads-nation-in-mass-shootings-and-gun-statistics-point-to-why/"
+},
+{
+"text": "Texas is more dangerous than it has been in decades",
+"href": "https://www.texastribune.org/2023/05/10/texas-gun-fatalities-laws/"
+},
+{
+"text": "Texas ranks 49th in high school graduation rate with 84.4%",
+"href": "https://data.census.gov/table?tid=ACSST5Y2020.S1501&g=010XX00US%240400000"
+},
+{
+"text": "Videos",
+"href": "https://melissaforcongress.com/home/election-2026-videos/"
+},
+{
+"text": "Volunteer",
+"href": "https://melissaforcongress.com/volunteer/"
+},
+{
+"text": "[image: Melissa For Congress]",
+"href": "https://melissaforcongress.com/"
+},
+{
+"text": "accounts for the majority of hate crimes",
+"href": "https://www.justice.gov/crs/highlights/2021-hate-crime-statistics"
+},
+{
+"text": "cost Americans $80 billion in new taxes",
+"href": "https://taxfoundation.org/tariffs-trump-trade-war/"
+},
+{
+"text": "cost Texas billions in lost revenue",
+"href": "https://theweek.com/greg-abbott/1013145/texas-gov-abbotts-border-inspections-prompt-mexico-to-move-lucrative-trade-link"
+},
+{
+"text": "denied an estimated $100 billion in additional federal funding for healthcare",
+"href": "https://www.statesman.com/story/news/politics/politifact/2022/01/09/texas-turned-down-100-billion-when-decided-not-expand-medicaid/8858664002/"
+},
+{
+"text": "gun violence being the number one cause of death among kids aged 1 to 18",
+"href": "https://wonder.cdc.gov/controller/saved/D76/D292F153"
+},
+{
+"text": "incarceration rate of 443 inmates per 100k",
+"href": "https://www.sentencingproject.org/research/us-criminal-justice-data/"
+},
+{
+"text": "medical debt is the number one cause of bankruptcy",
+"href": "https://www.abi.org/feed-item/health-care-costs-number-one-cause-of-bankruptcy-for-american-families"
+},
+{
+"text": "melissa@melissaforcongress.com",
+"href": "mailto:melissa@melissaforcongress.com"
+},
+{
+"text": "policies.google.com (opens in a new window)",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "school to prison pipeline",
+"href": "https://www.aclu.org/issues/juvenile-justice/juvenile-justice-school-prison-pipeline"
+},
+{
+"text": "the US has managed to bring it down to a more desirable level",
+"href": "https://thehill.com/business/4092685-inflation-slowed-to-3-percent-in-june/"
+},
+{
+"text": "the top legal official in Texas has been under felony indictment for eight years",
+"href": "https://www.texastribune.org/2023/05/24/ken-paxton-attorney-general-investigations-lawsuits/"
+}
 ]

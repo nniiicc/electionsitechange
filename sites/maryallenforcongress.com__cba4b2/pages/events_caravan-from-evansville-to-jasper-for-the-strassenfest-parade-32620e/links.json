@@ -1,28 +1,114 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Caravan+from+Evansville+to+Jasper+for+the+Strassenfest+parade&dates=20260802T141500Z%2F20260802T143000Z&location=808+Southeast+3rd+Street%2C+Evansville%2C+Indiana%2C+47713%2C+United+States",
-"http://maps.google.com/?q=808+Southeast+3rd+Street+Evansville%2C+Indiana%2C+47713+United+States",
-"http://mobilize.us/maryallenforcongress/event/994004",
-"https://bsky.app/profile/maryallen4congress.bsky.social",
-"https://facebook.com/share/1Chr644Ucy",
-"https://indianavoters.in.gov/",
-"https://instagram.com/maryallenforcongress",
-"https://maryallenforcongress.com/",
-"https://maryallenforcongress.com/cart",
-"https://maryallenforcongress.com/events",
-"https://maryallenforcongress.com/events/caravan-from-evansville-to-jasper-for-the-strassenfest-parade?format=ical",
-"https://maryallenforcongress.com/events/strassenfest-parade",
-"https://maryallenforcongress.com/events/work-the-gate-at-the-vanderburgh-county-fair",
-"https://maryallenforcongress.com/eventsvolunteer",
-"https://maryallenforcongress.com/knowyourvote",
-"https://maryallenforcongress.com/meetmary",
-"https://maryallenforcongress.com/press-releases-1",
-"https://maryallenforcongress.com/priorities",
-"https://secure.actblue.com/donate/mary-allen-1",
-"https://secure.actblue.com/donate/marymerch",
-"https://secure.ngpvan.com/nsziOJ9h4Ueq4u2mFDoNAg2",
-"https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2",
-"https://take-bac-congress.us/",
-"https://threads.net/maryallenforcongress",
-"https://tiktok.com/@maryallen4congress",
-"https://youtube.com/@MaryAllenForCongress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=808+southeast+3rd+street+evansville%2C+indiana%2C+47713+united+states"
+},
+{
+"text": "0",
+"href": "https://www.maryallenforcongress.com/cart"
+},
+{
+"text": "ActBlue",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mary-allen-1"
+},
+{
+"text": "Events",
+"href": "https://www.maryallenforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Caravan+from+Evansville+to+Jasper+for+the+Strassenfest+parade&dates=20260802T141500Z%2F20260802T143000Z&location=808+Southeast+3rd+Street%2C+Evansville%2C+Indiana%2C+47713%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.maryallenforcongress.com/events/caravan-from-evansville-to-jasper-for-the-strassenfest-parade?format=ical"
+},
+{
+"text": "Know Your Vote",
+"href": "https://www.maryallenforcongress.com/knowyourvote"
+},
+{
+"text": "Learn More",
+"href": "https://www.take-bac-congress.us/"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.maryallenforcongress.com/meetmary"
+},
+{
+"text": "Merch",
+"href": "https://secure.actblue.com/donate/marymerch"
+},
+{
+"text": "Next Next August 2 Strassenfest parade",
+"href": "https://www.maryallenforcongress.com/events/strassenfest-parade"
+},
+{
+"text": "Press Releases",
+"href": "https://www.maryallenforcongress.com/press-releases-1"
+},
+{
+"text": "Previous Previous July 21 Work the gate at the Vanderburgh County Fair",
+"href": "https://www.maryallenforcongress.com/events/work-the-gate-at-the-vanderburgh-county-fair"
+},
+{
+"text": "Priorities",
+"href": "https://www.maryallenforcongress.com/priorities"
+},
+{
+"text": "Register",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Sign up",
+"href": "https://secure.ngpvan.com/o5fGkWx1RkaFX7i1q4lN7w2"
+},
+{
+"text": "[image: Mary Allen for Congress]",
+"href": "https://www.maryallenforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/maryallen4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1Chr644Ucy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/maryallenforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@maryallen4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@MaryAllenForCongress/videos"
+},
+{
+"text": "http://mobilize.us/maryallenforcongress/event/994004/",
+"href": "http://mobilize.us/maryallenforcongress/event/994004/"
+},
+{
+"text": "https://secure.actblue.com/donate/marymerch",
+"href": "https://secure.actblue.com/donate/marymerch"
+},
+{
+"text": "mary@maryallenforcongress.com",
+"href": "mailto:mary@maryallenforcongress.com"
+}
 ]

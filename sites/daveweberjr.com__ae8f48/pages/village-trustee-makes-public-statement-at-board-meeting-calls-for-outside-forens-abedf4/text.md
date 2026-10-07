@@ -1,4 +1,4 @@
-An internal issue among Northport Village officials surfaced at Tuesday’s Board of Trustees meeting, highlighting a culture of mistrust and a call for transparency.
+Close Skip to content HOME A STRONGER 12th ABOUT DAVE NEWS & MEDIA CONTACT DONATE October 21, 2021 Village Trustee makes public statement at board meeting, calls for outside forensic audit COURTESY OF: Northport Journal An internal issue among Northport Village officials surfaced at Tuesday’s Board of Trustees meeting, highlighting a culture of mistrust and a call for transparency.
 “This is my platform and this is why the residents of Northport elected me to be in this seat,” said Trustee Dave Weber before reading a letter addressed to Mayor Damon McMullen aloud to the room, during the time usually allotted to his routine commissioner’s report.
 Both the mayor and Village Attorney Stu Besen stopped Weber from reading the letter – which relayed events that occurred during an executive session on September 21 – in its entirety, stating that any details related to that private meeting could not be disclosed to the public.
 With that in mind, Trustee Weber stuck to the “meat and potatoes” of the issue, explaining that his concerns pertain to exactly that – a breach of confidentiality during an executive session and a need for a forensic audit performed by an outside firm.
@@ -10,3 +10,9 @@ And before that, in 2009, former Village Treasurer Mary Claire Krumholz paid her
 In response to the latest discrepancy, Trustee Weber is calling for a full forensic audit, or financial review, by an independent company that has no ties to Village officials or anyone within the Treasury Department.
 In his letter to the Mayor, he notes that proposals from two well-qualified firms were set to take place in private meetings this week, but they were cancelled by the Mayor the day before.
 Mayor McMullen then sent a memo to the board, Village attorneys, and other Village officials including Treasurer Len Marchese, Payroll Clerk Siobhan Costello, and Police Chief Chris Hughes, all who were not privy to the information discussed at the executive session and should not, under Village code, be given this kind of private information, said Weber.
+READ FULL ARTICLE Share this post Facebook LinkedIn Telegram WhatsApp Email Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Name Email SUBSCRIBEFOR UPDATES © # Dave Weber.
+All Rights Reserved.
+Paid for by Friends of Dave Weber.
+CONTRIBUTE TO MY CAMPAIGN

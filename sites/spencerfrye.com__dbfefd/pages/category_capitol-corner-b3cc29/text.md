@@ -1,6 +1,4 @@
-Category: Capitol Corner
-Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage
-High blood pressure.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Category: Capitol Corner Georgia’s Silent Epidemic: The Case for Maternal Mental Health Coverage October 2, 2026 Madison Lowe Capitol Corner Tagged Healthcare High blood pressure.
 Diabetes.
 Infections.
 Preterm labor.
@@ -8,416 +6,225 @@ Pregnancy loss.
 These aren’t the most common complications with childbirth; perinatal mood and anxiety disorders are.
 Perinatal mood and anxiety disorder affects one in five pregnant and postpartum women nationwide.
 PMADs are mental health conditions that occur during pregnancy and up to one year postpartum.
-They include, but […]
-Protecting Georgia’s Artists in the Age of Generative Artificial Intelligence
-With the growing influence of artificial intelligence, generative media has become increasingly popular.
+They include, but […] Protecting Georgia’s Artists in the Age of Generative Artificial Intelligence May 2, 2026 Joshua Thornton Capitol Corner Tagged Youth & AI With the growing influence of artificial intelligence, generative media has become increasingly popular.
 The use of generative AI has completely changed the way many people consume art, and made creating it more accessible than ever before.
-Yet, for many younger artists in Athens and across Georgia, AI has taken creative opportunities away and expanded risks. […]
-Misallocated Funding and the Crisis in Georgia’s Prison System
-The Georgia prison system has a longstanding history of human rights abuses, and state legislation has been proven time and time again to be ineffective in resolving this issue.
+Yet, for many younger artists in Athens and across Georgia, AI has taken creative opportunities away and expanded risks. […] Misallocated Funding and the Crisis in Georgia’s Prison System April 25, 2026 Prarti Satya Capitol Corner Tagged Criminal Justice The Georgia prison system has a longstanding history of human rights abuses, and state legislation has been proven time and time again to be ineffective in resolving this issue.
 It is no secret that Georgia has a high incarceration rate.
-It ranked in the top ten states in incarceration rates per 100,000 residents, according to […]
-Expand New Energy Sources, Not the Old.
-In December, Georgia Power proposed an expansion that would create an additional 10,000 megawatts of energy generation to the grid of Georgia.
+It ranked in the top ten states in incarceration rates per 100,000 residents, according to […] Expand New Energy Sources, Not the Old.
+April 17, 2026 Anna-Jewel Taylor Capitol Corner , Uncategorized Tagged Environment In December, Georgia Power proposed an expansion that would create an additional 10,000 megawatts of energy generation to the grid of Georgia.
 This initiative was proposed because Georgia Power estimated that 80% of future demand will come from data centers.
-To accomplish Georgia Power’s goal, the Public Service Commission (PSC) approved building five new methane […]
-Economic Incentives and Workforce Gaps: Rethinking Georgia’s Film Tax Credit Model
-In the past two decades, Georgia has become the epicenter of many film and television productions, rivaling Hollywood in many blockbuster productions.
-However, Georgia also has influence within the award-winning sector tied to these productions, such as the Peabody Awards, which has played a major role in honoring excellence within storytelling that properly reflects current […]
-The Negative Impacts of Private Prisons on Georgia
-Ninety five thousand Georgia residents are currently incarcerated.
+To accomplish Georgia Power’s goal, the Public Service Commission (PSC) approved building five new methane […] Economic Incentives and Workforce Gaps: Rethinking Georgia’s Film Tax Credit Model April 10, 2026 Courtney Navarro Capitol Corner Tagged Labor & Economic Development In the past two decades, Georgia has become the epicenter of many film and television productions, rivaling Hollywood in many blockbuster productions.
+However, Georgia also has influence within the award-winning sector tied to these productions, such as the Peabody Awards, which has played a major role in honoring excellence within storytelling that properly reflects current […] The Negative Impacts of Private Prisons on Georgia April 10, 2026 Aubrey Skinner Capitol Corner Tagged Civil Rights Ninety five thousand Georgia residents are currently incarcerated.
 Roughly 15% of them reside in one of Georgia’s four private prison facilities.
 Third-party companies own and operate private prisons for profit under government contracts to house inmates. ‘Tough on crime’ policies, like enacting mandatory minimum sentences and three-strike laws, drove the rise of these facilities.
-These […]
-Powering Down: The Hidden Energy Crisis in Athens Homes
-Energy insecurity is becoming a serious issue for many families in Athens, Georgia.
+These […] Powering Down: The Hidden Energy Crisis in Athens Homes March 27, 2026 Rebecca McAdam Capitol Corner Tagged Environment Energy insecurity is becoming a serious issue for many families in Athens, Georgia.
 It affects how people live day to day, how they spend their money, and even their health.
 While most people depend on energy (like electricity and heating), not everyone can afford it.
-In Athens, this challenge is growing faster than in many […]
-Closing the Gap: Aligning Georgia’s Schools with Workforce Needs
-With programs such as the Zell Miller and HOPE scholarships making college education more accessible to Georgia students, university enrollment is often presented as the primary path to success.
+In Athens, this challenge is growing faster than in many […] Closing the Gap: Aligning Georgia’s Schools with Workforce Needs March 27, 2026 Faith Tucker Capitol Corner Tagged Labor & Economic Development With programs such as the Zell Miller and HOPE scholarships making college education more accessible to Georgia students, university enrollment is often presented as the primary path to success.
 This approach can leave students who would thrive in trades without a clear direction.
-Georgia’s high schools are not providing adequate career counseling and exposure to […]
-The Fight Against Forever Chemicals is Far From Over
-Polyfluoroalkyl substances (more commonly known as PFAS) are in our drinking water, our soil, and our rivers.
+Georgia’s high schools are not providing adequate career counseling and exposure to […] The Fight Against Forever Chemicals is Far From Over March 24, 2026 Samir Handa Capitol Corner Tagged Environment Polyfluoroalkyl substances (more commonly known as PFAS) are in our drinking water, our soil, and our rivers.
 Georgia is no stranger to PFAS.
 For nearly a century, just about every manufacturing process imaginable has used these chemicals.
 So why should Georgians care now?
-Six public water systems in Georgia alone were found to have levels […]
-Encoding AI into Education
-The introduction of artificial intelligence (AI) has offered new horizons for advancement in research and technology.
+Six public water systems in Georgia alone were found to have levels […] Encoding AI into Education March 8, 2026 Ashley Brown Capitol Corner Tagged Youth & AI The introduction of artificial intelligence (AI) has offered new horizons for advancement in research and technology.
 Its ability to efficiently analyze data and synthesize information has significantly increased the speed at which insights can be generated.
-As AI becomes increasingly integrated into the modern workforce, The Georgia General Assembly recognized AI literacy as an essential […]
-Reforming Prison Labor to Strengthen Reentry in Georgia
-Georgia’s incarceration rate stands at 881 per 100,000 people, giving the state one of the highest incarceration rates in the democratic world.
+As AI becomes increasingly integrated into the modern workforce, The Georgia General Assembly recognized AI literacy as an essential […] Reforming Prison Labor to Strengthen Reentry in Georgia March 8, 2026 Aishwarya Yaddanapudi Capitol Corner Tagged Criminal Justice Georgia’s incarceration rate stands at 881 per 100,000 people, giving the state one of the highest incarceration rates in the democratic world.
 That statistic demands reflection.
-It is important not only to understand how many people are incarcerated, but also what preparation exists for their return home and whether the system supports long-term public safety. […]
-When EMS is the Real Emergency
-When you call 911, you expect help to be on the way.
+It is important not only to understand how many people are incarcerated, but also what preparation exists for their return home and whether the system supports long-term public safety. […] When EMS is the Real Emergency February 21, 2026 Ruhee Merchant Capitol Corner Tagged Healthcare When you call 911, you expect help to be on the way.
 Fast.
 But in Athens, ambulance services are not operated publicly as in most Georgia counties.
 Instead, they remain under a tight private grip.
 This hinders transparency, accountability, and even life-saving medical care at a time when every second counts.
-Before 2009, Piedmont Athens […]
-Connecting Georgia: The Case for High-Speed Rail
-Imagine traveling from Atlanta to Savannah in only 75 minutes or commuting from Atlanta to Athens in under 30.
+Before 2009, Piedmont Athens […] Connecting Georgia: The Case for High-Speed Rail February 13, 2026 Ben Brown Capitol Corner Tagged Environment Imagine traveling from Atlanta to Savannah in only 75 minutes or commuting from Atlanta to Athens in under 30.
 Imagine never having to drive on state routes 316 or 78 between Atlanta and Athens or I-16 heading to Savannah.
 To many Georgians, these proposals sound like science fiction.
-However, by investing in high-speed passenger railways, […]
-Meaningful Tax Reform That Doesn’t Break the Bank
-The plan to eliminate Georgia’s income tax has sparked much debate at the state Capitol.
+However, by investing in high-speed passenger railways, […] Meaningful Tax Reform That Doesn’t Break the Bank February 6, 2026 Carter Ray Capitol Corner Tagged Housing The plan to eliminate Georgia’s income tax has sparked much debate at the state Capitol.
 Eliminating income taxes might sound appealing, but it only means increasing taxes somewhere else.
 Last year, Burt Jones, the Republican Lieutenant Governor, announced a new study committee to find a way to end Georgia’s state income tax.
-Republicans recently unveiled […]
-Growth over Punishment: Ending Georgia’s School-to-Prison Pipeline
-In 2012, Creekside Elementary School called the police to report an alleged assault against their principal.
+Republicans recently unveiled […] Growth over Punishment: Ending Georgia’s School-to-Prison Pipeline February 6, 2026 Ella Colker Capitol Corner Tagged Civil Rights In 2012, Creekside Elementary School called the police to report an alleged assault against their principal.
 When the officer arrived on scene, he witnessed a kindergarten student throwing a tantrum and damaging school property.
 He subsequently placed the young girl in handcuffs and brought her down to the police station.
-At just six years old, […]
-Rapid Expansion of Georgia Detention Centers is Leading to Real Issues for Georgians
-In 2025, the Trump Administration deported over 605,000 immigrants in efforts led by the Department of Homeland Security.
+At just six years old, […] Rapid Expansion of Georgia Detention Centers is Leading to Real Issues for Georgians January 30, 2026 Alex Young Capitol Corner In 2025, the Trump Administration deported over 605,000 immigrants in efforts led by the Department of Homeland Security.
 As a result of these deportations, detention centers around the country have reached maximum capacity.
 The facilities are now expanding to meet the rising influx of prisoners.
-This places a considerable amount of strain on the cities […]
-Analyzing Wealth Disparities and Housing Insecurity in Athens
-The wealth disparity within college towns is nothing new.
+This places a considerable amount of strain on the cities […] Analyzing Wealth Disparities and Housing Insecurity in Athens December 5, 2025 Luiza Douglas Capitol Corner Tagged Housing The wealth disparity within college towns is nothing new.
 Although in Athens, the problem persists alarmingly, despite county efforts.
 Athens has the eighth-highest income inequality in the country.
 This situation contributes to a typical pattern in college towns, given that with a growing student population comes a growing demand for housing.
-According to the Gini […]
-Ban “LGBTQ+ Panic” Defenses
-Year by year, lesbian, gay, transgender, and queer (LGBTQ+) people grow more comfortable with who they are and embrace their identity publicly.
+According to the Gini […] Ban “LGBTQ+ Panic” Defenses December 5, 2025 Joey Briggs Capitol Corner Tagged Civil Rights Year by year, lesbian, gay, transgender, and queer (LGBTQ+) people grow more comfortable with who they are and embrace their identity publicly.
 So much so that roughly one tenth of Americans identify as LGBTQ+.
 While LGBTQ+ people’s existence, acceptance, and inclusion pose no threat to society, some Republicans have argued otherwise.
-Some of them construe […]
-From Chalkboards to Chatbots: Teachers and AI Literacy
-Teachers have guided the evolution of learning in the 21st century, moving students from pen and paper to online learning platforms and, recently, to Artificial Intelligence (AI) and Large Language Models (LLMs).
+Some of them construe […] From Chalkboards to Chatbots: Teachers and AI Literacy November 21, 2025 Emma Thompson Capitol Corner Tagged Youth & AI Teachers have guided the evolution of learning in the 21st century, moving students from pen and paper to online learning platforms and, recently, to Artificial Intelligence (AI) and Large Language Models (LLMs).
 Computers and machines designed to perform jobs that previously required humans are referred to as AI.
-LLMs learn patterns from large amounts of […]
-The Key To Student Success Starts With A Home
-Consistent and safe housing lies at the heart of a quality education for students.
+LLMs learn patterns from large amounts of […] The Key To Student Success Starts With A Home November 15, 2025 Sibley Durisch Capitol Corner Tagged Housing Consistent and safe housing lies at the heart of a quality education for students.
 In 2022, 17.1% of students in the United States under the age of 18 experienced a form of unstable housing, a percentage representative of 12.1 million students.
-Graduation rates vary among students considered homeless, with numbers ranging from 45% to 86% […]
-Georgia Must In-Cyst: Bringing Comprehensive Menstrual Education to Georgia
-In the wake of Roe v.
+Graduation rates vary among students considered homeless, with numbers ranging from 45% to 86% […] Georgia Must In-Cyst: Bringing Comprehensive Menstrual Education to Georgia November 15, 2025 Kate Bergquist Capitol Corner Tagged Civil Rights In the wake of Roe v.
 Wade being overturned, the United States was alerted to how shockingly little the American public knew about their own reproductive health.
 For years, students have been struggling to find adequate educational material surrounding puberty, specifically menstruation.
-Too often, menstruation gets pushed aside, with teachers who cannot engage their students […]
-Powering the Next Generation Through Free Broadband Access
-When the school day ends, learning shouldn’t stop.
+Too often, menstruation gets pushed aside, with teachers who cannot engage their students […] Powering the Next Generation Through Free Broadband Access November 8, 2025 Archita Gaur Capitol Corner Tagged Youth & AI When the school day ends, learning shouldn’t stop.
 Yet for too many students in Athens, opportunities close when Wi-Fi drops.
 Homework, online research, and college applications all depend on a steady internet connection.
 However, many families in House District 122 still lack reliable, fast internet access.
-The COVID-19 pandemic made it clear that broadband is […]
-Narcan in Every Hand: A Life-Saving Move for Georgia
-Georgia is in the midst of a devastating opioid epidemic.
+The COVID-19 pandemic made it clear that broadband is […] Narcan in Every Hand: A Life-Saving Move for Georgia October 31, 2025 Megan Dooley Capitol Corner Tagged Housing Georgia is in the midst of a devastating opioid epidemic.
 Between 2019 and 2022, the state saw a 76% rise in opioid-related deaths, including a 308% surge in fatalities involving fentanyl.
 In 2022 alone, overdoses claimed the lives of over 2,000 Georgians.
 This crisis is not just one of Georgia’s.
-Across the nation, 80,391 individuals […]
-Ban the Box: How Fair Chance Hiring Expands Employment Opportunities
-“Have you ever been convicted of a crime?” For the 4.6 million Georgians with criminal histories, this question on a job application may be the greatest barrier to moving forward.
+Across the nation, 80,391 individuals […] Ban the Box: How Fair Chance Hiring Expands Employment Opportunities October 31, 2025 Emma Thomas Capitol Corner Tagged Criminal Justice “Have you ever been convicted of a crime?” For the 4.6 million Georgians with criminal histories, this question on a job application may be the greatest barrier to moving forward.
 Even after an individual serves their sentence, their criminal record can become a lifetime obstacle to unemployment.
-This has broad implications, as stable work is […]
-Leave the Safety On: Implementing Universal Background Checks in Georgia
-There is one thing in Georgia that kills a new person every four hours.
+This has broad implications, as stable work is […] Leave the Safety On: Implementing Universal Background Checks in Georgia October 24, 2025 Addison Denney Capitol Corner Tagged Civil Rights There is one thing in Georgia that kills a new person every four hours.
 One thing that costs each Georgian $2,229 per person each year.
 One thing that is the second leading cause of death in Georgia’s children.
-The irreparable consequences of gun violence in Georgia continue to show that the time for gun control […]
-Elevating Georgia’s Working Class by Restricting Noncompete Agreements
-The most fundamental idea of a market economy is that competition benefits everyone.
+The irreparable consequences of gun violence in Georgia continue to show that the time for gun control […] Elevating Georgia’s Working Class by Restricting Noncompete Agreements October 17, 2025 Liam Martin Capitol Corner Tagged Labor & Economic Development The most fundamental idea of a market economy is that competition benefits everyone.
 However, by allowing many noncompetes to be enforceable, Georgia stifles the very market principles it exalts with its ‘right-to-work’ law.
 In reality, Georgia laws do not protect workers or the free market.
 They protect corporations.
-On a macroeconomic scale, many studies have […]
-The Domino Effect of Poverty: How Athens Can Better Help Its Most Helpless
-Many Athens residents don’t need to look at poverty statistics, food insecurity reports or homelessness rates to recognize the reality of hardship—they feel it every day.
+On a macroeconomic scale, many studies have […] The Domino Effect of Poverty: How Athens Can Better Help Its Most Helpless September 26, 2025 Eli King Capitol Corner Tagged Labor & Economic Development Many Athens residents don’t need to look at poverty statistics, food insecurity reports or homelessness rates to recognize the reality of hardship—they feel it every day.
 Choosing unhealthy food because fresh, organic options are priced out of reach.
 Passing through downtown Athens and seeing homeless neighbors huddled on benches, asking for money or food.
-Feeling […]
-Paying the Price: How SB 63 Criminalizes Poverty in Georgia
-Imagine being jailed for weeks—not because you are convicted of a crime, but simply because you can’t afford to pay your way out.
+Feeling […] Paying the Price: How SB 63 Criminalizes Poverty in Georgia April 6, 2025 Ariana Malik Capitol Corner Tagged Criminal Justice Imagine being jailed for weeks—not because you are convicted of a crime, but simply because you can’t afford to pay your way out.
 This rings true for 93% of those arrested in Fulton County, who are impoverished.
-Unfortunately, this is not unique to Georgia; it reflects a broader national issue known as the criminalization of […]
-Fostering Fresh Starts: Outlawing Juvenile Life-Without-Parole Sentences
-The United States of America is the only country in the world that sentences children to life behind bars without the opportunity to get out.
-Children as young as 13 years old have had to face the reality that they will not step foot outside of the gates of a correctional institution for the rest […]
-Get Out the GVRA
-Voter suppression is an aspect of elections in the United States that is well-known by many Americans, especially people of color.
+Unfortunately, this is not unique to Georgia; it reflects a broader national issue known as the criminalization of […] Fostering Fresh Starts: Outlawing Juvenile Life-Without-Parole Sentences March 31, 2025 Sophie Dechant Capitol Corner Tagged Criminal Justice The United States of America is the only country in the world that sentences children to life behind bars without the opportunity to get out.
+Children as young as 13 years old have had to face the reality that they will not step foot outside of the gates of a correctional institution for the rest […] Get Out the GVRA March 31, 2025 Lauren Park Capitol Corner Tagged Voting Rights Voter suppression is an aspect of elections in the United States that is well-known by many Americans, especially people of color.
 Throughout our electoral history, there has been a continuous push and pull with voting rights.
 The Voting Rights Act of 1965 was a landmark piece of legislation that prohibited racial discrimination in elections.
-However, […]
-Rising Waters, Rising Urgency: A Georgia Coastal Resilience Plan
-Hurricane season in the Atlantic Ocean is from June 1 to Nov. 30.
+However, […] Rising Waters, Rising Urgency: A Georgia Coastal Resilience Plan March 14, 2025 Elle Moss Capitol Corner Tagged Environment Hurricane season in the Atlantic Ocean is from June 1 to Nov.
+30.
 While most hurricanes are downgraded to tropical storms before they make landfall in Georgia, the wrath of these storms is felt through severe thunderstorms, flooding, property damage and power outages.
-On September 27, 2024, Hurricane Helene entered Georgia as a category two […]
-Modernizing Georgia’s Education Funding
-My mother and I have lived surprisingly similar lives.
+On September 27, 2024, Hurricane Helene entered Georgia as a category two […] Modernizing Georgia’s Education Funding March 1, 2025 Sibley Durisch Capitol Corner Tagged Education My mother and I have lived surprisingly similar lives.
 We were both born and raised in the Atlanta area, grew up eating at the Varsity on special occasions, attended Braves games with our families, shopped at the same malls as teenagers, and I currently attend her alma mater, the University of Georgia.
-However, our most […]
-Censorship Threatens Education
-Free speech is the cornerstone of American democracy.
+However, our most […] Censorship Threatens Education February 21, 2025 Sarah Kate Maher Capitol Corner Tagged Education Free speech is the cornerstone of American democracy.
 As such, it’s driven change that has been crucial to individual freedom.
 Freedom is brought about partly through education, which censorship threatens.
 Measures that diminish and censor education have been implemented nationwide and are actively threatening the quality of American education.
-Censorship, as defined by the American […]
-Ending Gender-Based Violence Through Education
-In Georgia, gender-based violence (GBV) is an issue that transcends mere statistics and poses serious infringements of human rights, drastically impacting individuals and their families.
+Censorship, as defined by the American […] Ending Gender-Based Violence Through Education February 14, 2025 Emily Hwang Capitol Corner Tagged Education In Georgia, gender-based violence (GBV) is an issue that transcends mere statistics and poses serious infringements of human rights, drastically impacting individuals and their families.
 As we navigate a post-COVID-19 world, we must face the disturbing reality that domestic violence cases have risen significantly.
 The General Assembly must address this situation immediately.
-To tackle this […]
-Carceral Employment Opportunities or Modern-Day Slavery?
-Georgia remains one of seven states where incarcerated individuals usually receive no pay for their labor, even though many of them work full-time supporting state functions.
+To tackle this […] Carceral Employment Opportunities or Modern-Day Slavery?
+February 7, 2025 Rachel Scott Capitol Corner Tagged Criminal Justice Georgia remains one of seven states where incarcerated individuals usually receive no pay for their labor, even though many of them work full-time supporting state functions.
 This practice of unpaid inmate labor is not only exploitative but also runs contrary to our foundational values of fairness and justice.
-Georgia must take a critical step forward […]
-Let All Georgians Vote
-Voting in the U.S. allows citizens to voice their concerns by electing officials who defend their rights.
+Georgia must take a critical step forward […] Let All Georgians Vote January 31, 2025 Olivia Kosobud Capitol Corner Tagged Voting Rights Voting in the U.S. allows citizens to voice their concerns by electing officials who defend their rights.
 Although felons make up a sizable population in the U.S., some states, including Georgia, limit their right to vote.
-Felon disenfranchisement has a substantial impact on the Black community since, in the South, one in five Black individuals […]
-Georgia Must Invest in Telehealth
-In a state where nearly a third of rural residents lack the bandwidth to join a Zoom call, Georgia’s promise that telehealth can solve the mental health crisis falls flat.
+Felon disenfranchisement has a substantial impact on the Black community since, in the South, one in five Black individuals […] Georgia Must Invest in Telehealth January 24, 2025 Nate Levy Capitol Corner Tagged Healthcare In a state where nearly a third of rural residents lack the bandwidth to join a Zoom call, Georgia’s promise that telehealth can solve the mental health crisis falls flat.
 As COVID-19-era internet access expansion policies expire, Georgians are left to grapple with the third-worst mental healthcare infrastructure in the nation.
-Recent telehealth legislation has […]
-Parking Minimums Mean Minimal Housing
-Imagine standing in a Walmart parking lot.
+Recent telehealth legislation has […] Parking Minimums Mean Minimal Housing January 17, 2025 Adam Brantley Capitol Corner Tagged Housing Imagine standing in a Walmart parking lot.
 Think about its size.
 Now, consider the number of spots typically occupied.
 On a typical day, there will be plenty of empty spaces.
 This raises the question: Why is that parking lot so large if there are many empty spaces?
-This size is due to parking minimums or […]
-Will We Need Taller Boots?
-Stormwater Runoff Is a Problem
-A new challenge is arising in areas of Georgia with dense urban growth.
+This size is due to parking minimums or […] Will We Need Taller Boots?
+Stormwater Runoff Is a Problem January 10, 2025 Matthew Fern Capitol Corner Tagged Environment A new challenge is arising in areas of Georgia with dense urban growth.
 As compact growth becomes the norm, so do problems with urban stormwater runoff.
 Studies have found that flooding could become 7.9% more “flashy” by the end of the century—but this is in large part if we continue with high carbon emissions.
-The […]
-Georgia’s Unhoused Populations Are Targets of Voter Suppression
-Since the 2020 election, Georgia has been a focal point of voter suppression and discrimination.
+The […] Georgia’s Unhoused Populations Are Targets of Voter Suppression January 10, 2025 Ellie Smith Capitol Corner Tagged Voting Rights Since the 2020 election, Georgia has been a focal point of voter suppression and discrimination.
 The voters of Georgia have suffered constant attacks on their voting rights, the most recent of which was signed into law by Gov.
 Brian Kemp in May 2024.
-Senate Bill 189 is the latest in a string of bills disguised […]
-Voting?
+Senate Bill 189 is the latest in a string of bills disguised […] Voting?
 An obstacle to overcome.
-“I’m a Georgia Voter” is the catchphrase on stickers voters receive after successfully casting their votes.
+January 10, 2025 Eliana Mendez Capitol Corner Tagged Voting Rights “I’m a Georgia Voter” is the catchphrase on stickers voters receive after successfully casting their votes.
 However, despite being eligible, many people do not get the chance to receive this sticker.
 After the 2020 elections, despite having the votes counted three times, state legislators passed SB 202.
-This law restricts dropbox locations, tightens identification requirements, […]
-Doulas Transform Maternal Outcomes
-Maternal mortality, a statistic representing racial inequities and healthcare failures, refers to “the death of a woman while pregnant or within 42 days of termination of pregnancy.” Within the U.S., death from pregnancy or pregnancy-related issues was 22.3 deaths per 100,000 live births in 2022.
-When disaggregated for race, data shows that Black women faced […]
-Advancing Digital Literacy Education for Georgia’s Next Generation
-In a 2022 report, McKinsey & Company noted that “at least 50 percent of Gen Zers see news on social media daily” and “up to 15 percent of people aged 18-24 regularly get their news from TikTok.” Moreover, a December 2023 survey showed around 43 percent of individuals aged 18 to 29 expressed a significant […]
-Migrating Away From an Exclusionary Healthcare System
-Life, liberty, and the pursuit of happiness: the cost of the ‘American Dream.’ Immigrants are historically excluded from this right as they are repeatedly subjected to healthcare barriers in the form of identity and status verification, exacerbated by a lack of translated resources and services.
-Even more, navigating a new and foreign healthcare system is […]
-Feeding Futures: Food Insecurity and Education Outcomes
-Georgia’s schools have a fuel problem, but it’s not school buses or generators that need sustenance.
+This law restricts dropbox locations, tightens identification requirements, […] Doulas Transform Maternal Outcomes December 20, 2024 Sara Anis Ali Capitol Corner Tagged Healthcare Maternal mortality, a statistic representing racial inequities and healthcare failures, refers to “the death of a woman while pregnant or within 42 days of termination of pregnancy.” Within the U.S., death from pregnancy or pregnancy-related issues was 22.3 deaths per 100,000 live births in 2022.
+When disaggregated for race, data shows that Black women faced […] Advancing Digital Literacy Education for Georgia’s Next Generation December 15, 2024 Sophia Beasley Capitol Corner Tagged Education In a 2022 report, McKinsey & Company noted that “at least 50 percent of Gen Zers see news on social media daily” and “up to 15 percent of people aged 18-24 regularly get their news from TikTok.” Moreover, a December 2023 survey showed around 43 percent of individuals aged 18 to 29 expressed a significant […] Migrating Away From an Exclusionary Healthcare System December 9, 2024 Ruhee Merchant Capitol Corner Tagged Healthcare Life, liberty, and the pursuit of happiness: the cost of the ‘American Dream.’ Immigrants are historically excluded from this right as they are repeatedly subjected to healthcare barriers in the form of identity and status verification, exacerbated by a lack of translated resources and services.
+Even more, navigating a new and foreign healthcare system is […] Feeding Futures: Food Insecurity and Education Outcomes November 22, 2024 Patrick Allen Capitol Corner Tagged Education Georgia’s schools have a fuel problem, but it’s not school buses or generators that need sustenance.
 Instead, the harsh reality is that 22% of Georgia children have faced food insecurity at some point in the past 12 months.
-In Georgia’s already underfunded public schools, chronic food insecurity among students hinders academic success and stunts economic […]
-Data Centers: Incentives vs.
-Reality
-With the rise of mobile connectivity, much of our daily lives now reside on the digital cloud.
+In Georgia’s already underfunded public schools, chronic food insecurity among students hinders academic success and stunts economic […] Data Centers: Incentives vs.
+Reality November 15, 2024 Lorelai Ashley Capitol Corner Tagged Environment With the rise of mobile connectivity, much of our daily lives now reside on the digital cloud.
 While the cloud may seem invisible to the average user, the thousands of data centers and physical servers that power it across the U.S. are not.
 These facilities process, manage and store millions of terabytes daily.
-Across Atlanta, […]
-A Minimum Wage That Doesn’t Cover the Minimum Costs
-Georgia’s minimum wage is $5.15, but for most employment in Georgia, the federal minimum wage of $7.25 applies due to the Fair Labor Standards Act (FLSA).[1,2] This wage is even lower if one is considered a tipped employee, decreasing the number to $2.13.[3] This is also possible due to the fact that Georgia does not […]
-Addressing Immigration
-Immigration has been a long-standing controversial issue throughout American history, let alone the world.
+Across Atlanta, […] A Minimum Wage That Doesn’t Cover the Minimum Costs April 22, 2024 Francesca Mariano Capitol Corner Georgia’s minimum wage is $5.15, but for most employment in Georgia, the federal minimum wage of $7.25 applies due to the Fair Labor Standards Act (FLSA).[1,2] This wage is even lower if one is considered a tipped employee, decreasing the number to $2.13.[3] This is also possible due to the fact that Georgia does not […] Addressing Immigration April 3, 2024 Halimata Bah Capitol Corner Immigration has been a long-standing controversial issue throughout American history, let alone the world.
 A touchy subject in the House and the Senate, the U.S. has not had too many bills and laws regarding immigration.
-One particular bill created massive change for the future of immigrants, especially during its time, the Immigration Reform and Control […]
-A Mother’s Touch: The Case for Extended Paid Maternal Leave in Georgia
-The health of a newborn depends on the health of the mother.
-This was the finding of research conducted by the Longitudinal Study of Australian Children.[1] The study investigated the associations between maternal health both during pregnancy and up to 15 months from childbirth and children’s health outcomes during infancy and adolescence.[Ibid] The results of […]
-Adequate Composting Infrastructure in Georgia
-Imagine a world where every business in Georgia was to replace its single-use plastics with biodegradable and compostable alternatives.
+One particular bill created massive change for the future of immigrants, especially during its time, the Immigration Reform and Control […] A Mother’s Touch: The Case for Extended Paid Maternal Leave in Georgia March 24, 2024 Ian Roberts Capitol Corner The health of a newborn depends on the health of the mother.
+This was the finding of research conducted by the Longitudinal Study of Australian Children.[1] The study investigated the associations between maternal health both during pregnancy and up to 15 months from childbirth and children’s health outcomes during infancy and adolescence.[Ibid] The results of […] Adequate Composting Infrastructure in Georgia March 17, 2024 Aarov Malhotra Capitol Corner Imagine a world where every business in Georgia was to replace its single-use plastics with biodegradable and compostable alternatives.
 Imagine that all containers and to-go cutlery were made of plant-derived plastic.
-Although it would be easy to assume that the change would be advantageous for the environment, such a situation could lead to an increase […]
-Taxation Without Benefits: Lowering the Annual EV Registration Fee
-Georgia has one of the highest annual taxes on electric vehicles (EVs) in the nation.
+Although it would be easy to assume that the change would be advantageous for the environment, such a situation could lead to an increase […] Taxation Without Benefits: Lowering the Annual EV Registration Fee February 21, 2024 Nora Anderson Capitol Corner Georgia has one of the highest annual taxes on electric vehicles (EVs) in the nation.
 Currently, the fee for non-commercial alternative fuel vehicles (AFVs) is $210.87 and $316.40 for commercial AFVs.[1] These fees are determined based on a formula that changes annually, and has continuously increased over the past couple of years.
-These steep prices […]
-Adequate Staffing and Funding for Correctional Facilities
-A radio, a set of keys, and a baton.
+These steep prices […] Adequate Staffing and Funding for Correctional Facilities February 21, 2024 Maleah Dubose Capitol Corner A radio, a set of keys, and a baton.
 For most corrections officers in Georgia, these three items are the only resources they have during their shifts in state prison units.[1] According to the Department of Justice, the federal baseline inmate-to-corrections-officer ratio is 15:1.
-In the state of Georgia, some understaffed prisons are experiencing a […]
-Fellow Spotlight: Ashton Sellers
-This week’s fellow spotlight goes to Ashton Sellers!
+In the state of Georgia, some understaffed prisons are experiencing a […] Fellow Spotlight: Ashton Sellers February 14, 2024 Wally Stover III Capitol Corner This week’s fellow spotlight goes to Ashton Sellers!
 Ashton is a third year from Ellijay, Georgia, majoring in English and minoring in Political Science and International Affairs.
-Ashton has been a member of the UGA Young Democrats, active in the community through canvassing, and involved in several volunteering opportunities at the local ACC jail […]
-How Tele-health Can Prevent Maternity Care Deserts
-Currently, fewer than half of the rural hospitals in the nation have maternal units.
-More than 2.2 million women of childbearing age across 1,119 US counties live in maternity care deserts without hospitals offering obstetric care or birth centers.[1] The rapid closure of rural hospital maternity wards in 2023 is exacerbating the issue with mothers […]
-How Walkable Cities Can Save Lives and Transform Communities
-As pedestrian fatalities surge to an unprecedented high, it is time to critically examine the measures required to transform Georgia cities into walkable communities.
-A 2023 report by the Governors Highway Safety Association (GHSA) estimated that approximately 7,500 pedestrians had been killed while commuting on U.S. highways.[1] This number represents a 40-year peak in nationwide […]
-Tackling Affordable Childcare and Its Gender Related Discrepancies
-Who pays the price when childcare is hard to come by?
+Ashton has been a member of the UGA Young Democrats, active in the community through canvassing, and involved in several volunteering opportunities at the local ACC jail […] How Tele-health Can Prevent Maternity Care Deserts February 14, 2024 Saanvikha Saravanan Capitol Corner Currently, fewer than half of the rural hospitals in the nation have maternal units.
+More than 2.2 million women of childbearing age across 1,119 US counties live in maternity care deserts without hospitals offering obstetric care or birth centers.[1] The rapid closure of rural hospital maternity wards in 2023 is exacerbating the issue with mothers […] How Walkable Cities Can Save Lives and Transform Communities February 7, 2024 Niamh Dempsey Capitol Corner As pedestrian fatalities surge to an unprecedented high, it is time to critically examine the measures required to transform Georgia cities into walkable communities.
+A 2023 report by the Governors Highway Safety Association (GHSA) estimated that approximately 7,500 pedestrians had been killed while commuting on U.S. highways.[1] This number represents a 40-year peak in nationwide […] Tackling Affordable Childcare and Its Gender Related Discrepancies January 31, 2024 Nicole Cortes Capitol Corner Who pays the price when childcare is hard to come by?
 Georgia’s failure to adequately support working families in need of affordable childcare options hurts the economy and drives women out of the workforce.
-In the state of Georgia, affordable childcare options are hard to come by as early childcare professionals and staffers continue […]
-A Case for Tuition-Free Technical Schools in Georgia
-In the aftermath of the COVID-19 Pandemic, the U.S. economy experienced a rapid rebound that few had expected. [1] People clamored for goods and services that had been put on hold to slow the transmission of COVID-19; however, consumers would be kept waiting.
-The shortage of skilled workers was already on the rise; however, the […]
-Adopting Full Medicaid Expansion in Georgia
-As one of ten states that have not adopted full Medicaid expansion, Georgia leads as one of the country’s top states for uninsured rates.
-While the uninsured rate in Georgia has seen a downward trend over time, the trend has been too slow to account for the critical necessity for immediate action.[1] Today, 1.2 million […]
-Rural Healthcare Providers in Georgia
-Healthcare in rural Georgia is in desperate need of a change because due to limited access. 89 Georgia counties have been identified as Primary Care Health Professional Shortage Areas.[1] More specifically, as of 2020, 9 counties had no physicians; 82 counties had no OB/GYN physicians; 65 counties had no pediatric physicians; and 90 counties had […]
-Addressing Mandatory Minimums, Non-Violent Drug Offenses
-America has a prison problem.
+In the state of Georgia, affordable childcare options are hard to come by as early childcare professionals and staffers continue […] A Case for Tuition-Free Technical Schools in Georgia January 18, 2024 Anthony Tringali Capitol Corner In the aftermath of the COVID-19 Pandemic, the U.S. economy experienced a rapid rebound that few had expected. [1] People clamored for goods and services that had been put on hold to slow the transmission of COVID-19; however, consumers would be kept waiting.
+The shortage of skilled workers was already on the rise; however, the […] Adopting Full Medicaid Expansion in Georgia December 26, 2023 Bianca Medeiros pinto Capitol Corner As one of ten states that have not adopted full Medicaid expansion, Georgia leads as one of the country’s top states for uninsured rates.
+While the uninsured rate in Georgia has seen a downward trend over time, the trend has been too slow to account for the critical necessity for immediate action.[1] Today, 1.2 million […] Rural Healthcare Providers in Georgia December 6, 2023 Caroline Oliver Capitol Corner Healthcare in rural Georgia is in desperate need of a change because due to limited access.
+89 Georgia counties have been identified as Primary Care Health Professional Shortage Areas.[1] More specifically, as of 2020, 9 counties had no physicians; 82 counties had no OB/GYN physicians; 65 counties had no pediatric physicians; and 90 counties had […] Addressing Mandatory Minimums, Non-Violent Drug Offenses November 26, 2023 Meera Srinivasan Capitol Corner America has a prison problem.
 As of 2020, nearly one out of every 100 Americans were incarcerated [1].
 Nearly 63% of those incarcerated are serving sentences equal to or longer than ten years [2].
-The issue of mass incarceration in America is due to many complex and intertwined factors and policies, with one such policy […]
-Schedule F Civil Service Appointments and Their Potential Effects
-In October 2020, then-President Trump signed Executive Order 13957, creating a new federal job classification known as Schedule F appointments.
+The issue of mass incarceration in America is due to many complex and intertwined factors and policies, with one such policy […] Schedule F Civil Service Appointments and Their Potential Effects November 16, 2023 Justin Cohen Capitol Corner In October 2020, then-President Trump signed Executive Order 13957, creating a new federal job classification known as Schedule F appointments.
 In simple terms, Schedule F was designed to make it far easier for political officials to fire and discipline non-political policy-focused government workers.
-While the legal basis for the executive order originates from an interpretation […]
-Reforming Georgia’s Cash Bail System
-A terrible new trend has taken over America’s prison systems in the past fifty years.
+While the legal basis for the executive order originates from an interpretation […] Reforming Georgia’s Cash Bail System October 29, 2023 Kaitlyn Muzio Capitol Corner A terrible new trend has taken over America’s prison systems in the past fifty years.
 Mass incarceration, or the exponential growth in this nation’s prison population, first started to become an apparent problem in the 1970’s.
-Unfortunately, this trend was only further inflamed by political pressure aimed to combat the uptick in crime by adding stricter sentencing laws and requiring law enforcement agencies to be tougher on crime
-Cybersecurity Challenges in Georgia’s Elections
-Georgia’s elections have become heavily scrutinized.
+Unfortunately, this trend was only further inflamed by political pressure aimed to combat the uptick in crime by adding stricter sentencing laws and requiring law enforcement agencies to be tougher on crime Cybersecurity Challenges in Georgia’s Elections October 23, 2023 Anna Rachwalski Capitol Corner Georgia’s elections have become heavily scrutinized.
 After Joe Biden won the presidency due to a narrow lead in Georgia, and the senatorial election of Raphael Warnock determined control of the Senate, the state’s role in national politics cannot be ignored [1].
-Recently, former President Donald Trump, and 19 other defendants, were charged by a grand […]
-Adequate Funding for Public School Transportation
-For many public school students, the school day starts by riding on the bus.
-Indeed, adequate school transportation is essential for the 932,693 students in Georgia who ride the bus daily.[1] Unfortunately, to the detriment of these students and school transportation employees, the Georgia General Assembly has consistently underfunded transportation costs for decades and the […]
-Addressing Police Brutality
-It has happened again.
+Recently, former President Donald Trump, and 19 other defendants, were charged by a grand […] Adequate Funding for Public School Transportation October 13, 2023 Andy Wyatt Capitol Corner For many public school students, the school day starts by riding on the bus.
+Indeed, adequate school transportation is essential for the 932,693 students in Georgia who ride the bus daily.[1] Unfortunately, to the detriment of these students and school transportation employees, the Georgia General Assembly has consistently underfunded transportation costs for decades and the […] Addressing Police Brutality April 21, 2023 Jessica Evans Capitol Corner It has happened again.
 On Friday, January 27th, a disturbing video was released of the violent arrest of Memphis resident Tyre Nichols.
-According to a statement from the Memphis Police Department, twenty days prior to the video’s release Nichols was returning back to his home in Memphis when he was pulled over for reckless driving […]
-Long-Term Care in Georgia
-As the population of the United States ages, the need for long-term care services will continue to grow, placing more strain on the current system.
-The Association for Community Living estimates that 70% of individuals over the age of 65 will need to access some form of long-term care services.[1] Long-term care facilities include nursing […]
-Automatic Sealing of Eviction Records
-Within the context of the current housing crisis, evictions have become an even more salient issue among Georgians and hold far more lasting consequences than anticipated.
-Over the past year, nearly 3.5% of the residents that constitute the five counties in the metro Atlanta region have had evictions filed against them.[1] Though this percentage may […]
-Re-Evaluating QBE Funding
-Proper funding for our schools is of utmost importance.
+According to a statement from the Memphis Police Department, twenty days prior to the video’s release Nichols was returning back to his home in Memphis when he was pulled over for reckless driving […] Long-Term Care in Georgia March 26, 2023 Caroline Oliver Capitol Corner As the population of the United States ages, the need for long-term care services will continue to grow, placing more strain on the current system.
+The Association for Community Living estimates that 70% of individuals over the age of 65 will need to access some form of long-term care services.[1] Long-term care facilities include nursing […] Automatic Sealing of Eviction Records March 20, 2023 Khushi Mehta Capitol Corner Within the context of the current housing crisis, evictions have become an even more salient issue among Georgians and hold far more lasting consequences than anticipated.
+Over the past year, nearly 3.5% of the residents that constitute the five counties in the metro Atlanta region have had evictions filed against them.[1] Though this percentage may […] Re-Evaluating QBE Funding February 26, 2023 Erendira Lucas Capitol Corner Proper funding for our schools is of utmost importance.
 Students must have access to all the resources they need to succeed in life.
 Georgia’s current system for funding public education is based on the Quality Basic Education Act (QBE).
-Initially passed in 1985, this formula remains responsible for “distributing nearly $11 billion to…1.6 million public […]
-Mental Health Resources in School
-In the past few years, the number of middle and high school students dealing with mental health issues has increased.
+Initially passed in 1985, this formula remains responsible for “distributing nearly $11 billion to…1.6 million public […] Mental Health Resources in School February 20, 2023 Gitzel Anguiano Capitol Corner In the past few years, the number of middle and high school students dealing with mental health issues has increased.
 Teachers cannot successfully teach if mental health is not being addressed.
 Kids’ basic needs being met needs to be prioritized.
 The COVID-19 pandemic exacerbated many mental health struggles for all age groups.
-Children suffering […]
-Food or Rent?
-Tackling Georgia’s Housing Crisis
-When one thinks of Georgia, they typically envision the “Empire State of The South” where almost everyone has a roof over their head, incomes remain high, and there is a sense of overall economic well-being.
-For middle and higher-income individuals in the state, this is indeed true, but for lower-income individuals, the ability to buy […]
-Addressing Food Insecurity in Athens
-One in every five people in Athens-Clarke County is experiencing food insecurity.[1] In the past decade, many local Athens organizations and nonprofits have made individual efforts to reduce this problem.
+Children suffering […] Food or Rent?
+Tackling Georgia’s Housing Crisis February 13, 2023 Wally Stover III Capitol Corner When one thinks of Georgia, they typically envision the “Empire State of The South” where almost everyone has a roof over their head, incomes remain high, and there is a sense of overall economic well-being.
+For middle and higher-income individuals in the state, this is indeed true, but for lower-income individuals, the ability to buy […] Addressing Food Insecurity in Athens February 5, 2023 Catalina Macedo Giang Capitol Corner One in every five people in Athens-Clarke County is experiencing food insecurity.[1] In the past decade, many local Athens organizations and nonprofits have made individual efforts to reduce this problem.
 However, despite a common goal, no system has been able to unite these actors’ work.
-One solution to this problem is establishing a “Food Policy […]
-ICE Facilities in Georgia
-During his campaign, President Biden vowed to end all privately-run detention facilities, including immigration detention facilities.[1] The United States immigration system uses detention facilities to keep individuals suspected of visa violations, illegal entry, or any kind of immigration violation.
+One solution to this problem is establishing a “Food Policy […] ICE Facilities in Georgia January 30, 2023 Dinah Gorayeb Capitol Corner During his campaign, President Biden vowed to end all privately-run detention facilities, including immigration detention facilities.[1] The United States immigration system uses detention facilities to keep individuals suspected of visa violations, illegal entry, or any kind of immigration violation.
 The U.S.
-Department of Homeland Security (DHS) has two detainment offices: Immigration and Customs Enforcement (ICE), […]
-The Potential for Clean Energy in Georgia
-As carbon dioxide levels on our planet continue to increase, many states have enacted legislation to reduce gas production.
+Department of Homeland Security (DHS) has two detainment offices: Immigration and Customs Enforcement (ICE), […] The Potential for Clean Energy in Georgia January 22, 2023 Riley Batz Capitol Corner As carbon dioxide levels on our planet continue to increase, many states have enacted legislation to reduce gas production.
 Although a state with a massive opportunity to produce clean power instead of carbon dioxide, Georgia has fallen behind in the race to decrease carbon dioxide levels.
 Data recorded in 2019 by the U.S.
-Energy Information […]
-Progressive Prosecution as a Solution to Georgia’s Incarceration Rate
-Georgia has the fourth-highest prison incarceration rate in the country.
-In 2021, Georgia’s prison incarceration rate was 968 inmates per 100,000 people — well above the national average of 664 per 100,000.[1] Furthermore, in both jail and prison incarceration, ethnic disparities can be observed, with Blacks and Latinos being overrepresented while Whites are underrepresented.[2] On […]
-The Recent Threat to Affirmative Action
-The use of the Equal Protection Clause of the Fourteenth Amendment in college admissions has been the subject of criticism, mainly for using race as a positive factor in the admissions process.
+Energy Information […] Progressive Prosecution as a Solution to Georgia’s Incarceration Rate December 4, 2022 Carlos Lopez Ramirez Capitol Corner Georgia has the fourth-highest prison incarceration rate in the country.
+In 2021, Georgia’s prison incarceration rate was 968 inmates per 100,000 people — well above the national average of 664 per 100,000.[1] Furthermore, in both jail and prison incarceration, ethnic disparities can be observed, with Blacks and Latinos being overrepresented while Whites are underrepresented.[2] On […] The Recent Threat to Affirmative Action December 4, 2022 John Bush, Jr.
+Capitol Corner The use of the Equal Protection Clause of the Fourteenth Amendment in college admissions has been the subject of criticism, mainly for using race as a positive factor in the admissions process.
 Despite the clear necessity for diversity throughout this country’s education system, Students for Fair Admissions, Inc.
-(SFFA), filed suit against the University of […]
-School-to-Prison Pipeline
-A national trend is pushing students who misbehave out of public schools and into the juvenile and criminal justice systems.
+(SFFA), filed suit against the University of […] School-to-Prison Pipeline November 13, 2022 Liliana Chanler Capitol Corner A national trend is pushing students who misbehave out of public schools and into the juvenile and criminal justice systems.
 The school-to-prison pipeline (STPP) is a result of the objective application of harsh disciplinary measures and the overuse of referrals to law enforcement that set up vulnerable students for failure.
-These policies include zero-tolerance school […]
-Importance of Telehealth and Telemedicine Services in Georgia
-A 2019 study by the Commonwealth Fund ranked Georgia 42nd for state healthcare system performance with the biggest problems being affordability and accessibility of healthcare statewide.[1] A large portion of Georgians, especially those residing in rural communities, lack access to quality, affordable healthcare.[2] Telehealth and telemedicine have the potential to provide immediate access to a healthcare […]
-The Possibilities for Rail Expansion in Georgia
-The United States is on the brink of a major expansion in freight and passenger rail lines.
-Thanks in part to a $66 billion rail investment in the 2021 Infrastructure Investment and Jobs Act, Georgia lawmakers have the opportunity to pursue new statewide rail projects.[1] In the past 10 years, Georgia’s population grew by over […]
-Continuums of Care
-Homelessness has chronically plagued Georgia’s urban areas, but with the efforts of non-profit organizations and increased funding allocations, homelessness numbers in Atlanta have dropped 38% since 2020.[1] Unfortunately, surrounding rural areas cannot say the same.
-As of 2018, one-third of those experiencing homeless on a given night live in rural Georgia.[2] The Department of […]
-Closing the Homework Gap with Chromebooks
-The “homework gap” is a term FCC Commissioner Jessica Rosenworcel used to describe students’ difficulty getting online at home to complete school assignments.[1] With 93% of students participating in some form of virtual education during the COVID-19 pandemic, the issue was thrust into mainstream conversation.[2] The homework gap stems from a lack of internet […]
-“Constitutional Carry”: An Alarming Step Towards Increasing Gun Violence
-This past March marked one year since the shooting of three Atlanta-based spas, which led to the deaths of eight individuals, of whom six were women of Asian descent. [1] That same year, 2021, the state of Georgia was ranked 9th in the nation for its high rate of gun violence.[2] Despite the continued increase […]
-The U.S.’s Response to Ukraine
-In just a month, the entire state of the world has changed.
+These policies include zero-tolerance school […] Importance of Telehealth and Telemedicine Services in Georgia November 7, 2022 Kelley Downes Capitol Corner A 2019 study by the Commonwealth Fund ranked Georgia 42nd for state healthcare system performance with the biggest problems being affordability and accessibility of healthcare statewide.[1] A large portion of Georgians, especially those residing in rural communities, lack access to quality, affordable healthcare.[2] Telehealth and telemedicine have the potential to provide immediate access to a healthcare […] The Possibilities for Rail Expansion in Georgia November 7, 2022 Aidan Rickaby Capitol Corner The United States is on the brink of a major expansion in freight and passenger rail lines.
+Thanks in part to a $66 billion rail investment in the 2021 Infrastructure Investment and Jobs Act, Georgia lawmakers have the opportunity to pursue new statewide rail projects.[1] In the past 10 years, Georgia’s population grew by over […] Continuums of Care October 19, 2022 Juliana Hartley Capitol Corner Homelessness has chronically plagued Georgia’s urban areas, but with the efforts of non-profit organizations and increased funding allocations, homelessness numbers in Atlanta have dropped 38% since 2020.[1] Unfortunately, surrounding rural areas cannot say the same.
+As of 2018, one-third of those experiencing homeless on a given night live in rural Georgia.[2] The Department of […] Closing the Homework Gap with Chromebooks October 19, 2022 Lauren Kim Capitol Corner The “homework gap” is a term FCC Commissioner Jessica Rosenworcel used to describe students’ difficulty getting online at home to complete school assignments.[1] With 93% of students participating in some form of virtual education during the COVID-19 pandemic, the issue was thrust into mainstream conversation.[2] The homework gap stems from a lack of internet […] “Constitutional Carry”: An Alarming Step Towards Increasing Gun Violence April 17, 2022 Inaara Lalani Capitol Corner This past March marked one year since the shooting of three Atlanta-based spas, which led to the deaths of eight individuals, of whom six were women of Asian descent. [1] That same year, 2021, the state of Georgia was ranked 9th in the nation for its high rate of gun violence.[2] Despite the continued increase […] The U.S.’s Response to Ukraine April 17, 2022 Susannah Long Capitol Corner In just a month, the entire state of the world has changed.
 Russia has invaded and started a gruesome war with Ukraine.
 Many countries worldwide have been responding with caution to avoid another world war with the fear of mutually assured destruction.
-Being one of the Western countries on which Ukraine relies, the US’s response […]
-Obstacles to Obtaining Driver’s Licenses for Undocumented Immigrants
-A privilege that many Americans often take for granted is the ability to obtain a driver’s license.
+Being one of the Western countries on which Ukraine relies, the US’s response […] Obstacles to Obtaining Driver’s Licenses for Undocumented Immigrants April 3, 2022 Catie Gelting Capitol Corner A privilege that many Americans often take for granted is the ability to obtain a driver’s license.
 In fact, most of the U.S.’s infrastructure is so dependent on a car-based transportation economy, that obtaining a driver’s license has become a near-mandatory rite of passage for teenagers.
-However, the right to a driver’s license is not […]
-Equalization Across Georgia Districts
-Georgia’s schools are unfairly funded throughout the state.
+However, the right to a driver’s license is not […] Equalization Across Georgia Districts April 3, 2022 Gitzel Anguiano Capitol Corner Georgia’s schools are unfairly funded throughout the state.
 Public education is funded predominantly by local tax revenue, which includes money derived from property taxes within districts.
-Oftentimes, districts with greater property wealth raise significantly more than districts with less, leading to districts with a great population of lower-income residents having fewer resources for their schools. […]
-Giving Credit Where It Is Due: How Carbon Cap-And-Trade Could Help Georgians
-Janisse Ray, in her autobiography “Ecology of a Cracker Childhood,” discusses her childhood growing up in south Georgia, surrounded by the towering longleaf pines of the South.
+Oftentimes, districts with greater property wealth raise significantly more than districts with less, leading to districts with a great population of lower-income residents having fewer resources for their schools. […] Giving Credit Where It Is Due: How Carbon Cap-And-Trade Could Help Georgians March 27, 2022 Caroline Solomon Capitol Corner Janisse Ray, in her autobiography “Ecology of a Cracker Childhood,” discusses her childhood growing up in south Georgia, surrounded by the towering longleaf pines of the South.
 Through stories of her family and of Georgia’s natural history, she describes the significance of the Georgia landscape to her.
-Though many of Ray’s cherished longleaf pine forests […]
-Georgia Aims to Criminalize Teaching American History
-On March 8th, 2021, Senator Carden Summers of the 13th District introduced Senate Bill 613, also known as the “Common Humanity in Private Education Act.”[1] The bill claims that an increasing number of private and nonpublic schools in Georgia have “embraced curricula and programs based in critical race theory,” which has caused these schools to […]
-New Report Discusses the Rise of Electric Vehicles in 2022
-A new report from Bankrate discusses the rise of electric vehicles in the past several years, while addressing common concerns about electric vehicles.
+Though many of Ray’s cherished longleaf pine forests […] Georgia Aims to Criminalize Teaching American History March 20, 2022 Ellie Wilson-Wade Capitol Corner On March 8th, 2021, Senator Carden Summers of the 13th District introduced Senate Bill 613, also known as the “Common Humanity in Private Education Act.”[1] The bill claims that an increasing number of private and nonpublic schools in Georgia have “embraced curricula and programs based in critical race theory,” which has caused these schools to […] New Report Discusses the Rise of Electric Vehicles in 2022 March 6, 2022 Mennah Abdelwahab Capitol Corner A new report from Bankrate discusses the rise of electric vehicles in the past several years, while addressing common concerns about electric vehicles.
 As the article explains, electric vehicles sales have increased by 40% annually in the past several years.
 Currently, there are 59 electric vehicle models available for Americans to purchase.
-This falls behind […]
-Getting Georgia Online: The Importance of Broadband Expansion
-Broadband has become an essential infrastructure for Americans, which means accessibility and affordability is a critical issue facing politicians.
-The Federal Communication Commission (FCC) defines broadband internet as a minimum of 25 megabits per second (Mbps) download speed, the time it takes to receive data such as loading a web page, and 3 Mbps upload […]
-Georgia Assembly Aims to Silence Georgia Schools
-The Georgia Assembly is aiming to silence schools that acknowledge and discuss the ongoing presence of racism and oppression present in the United States.
+This falls behind […] Getting Georgia Online: The Importance of Broadband Expansion February 27, 2022 Ashni Patel Capitol Corner Broadband has become an essential infrastructure for Americans, which means accessibility and affordability is a critical issue facing politicians.
+The Federal Communication Commission (FCC) defines broadband internet as a minimum of 25 megabits per second (Mbps) download speed, the time it takes to receive data such as loading a web page, and 3 Mbps upload […] Georgia Assembly Aims to Silence Georgia Schools February 20, 2022 Isabel Archer Capitol Corner The Georgia Assembly is aiming to silence schools that acknowledge and discuss the ongoing presence of racism and oppression present in the United States.
 In the 2021-2022 Georgia Legislative Session, House Bill 888 was introduced and assigned to the Education House Committee.
-This bill is sponsored by Powell (32nd), Leverett (33rd), Jasperse (11th), Washburn (141st), […]
-Safe Schools For All: How Georgia Fails to Protect LGBTQ+ Students
-On January 21, 2022, a student at Oglethorpe Avenue Elementary School in Athens had their artwork, which featured a pride flag, removed after a parent complained and compared the artwork to hanging a Nazi flag.[1] This local incident is reflective of the issues LGBTQ+ students face across the state and the nation.
-LGBTQ+ students in […]
-Fellowship Spotlight: Keegan Cardman
-Keegan Cardman is a third-year political science major with a minor in international affairs.
+This bill is sponsored by Powell (32nd), Leverett (33rd), Jasperse (11th), Washburn (141st), […] Safe Schools For All: How Georgia Fails to Protect LGBTQ+ Students February 6, 2022 Riley Grube Capitol Corner On January 21, 2022, a student at Oglethorpe Avenue Elementary School in Athens had their artwork, which featured a pride flag, removed after a parent complained and compared the artwork to hanging a Nazi flag.[1] This local incident is reflective of the issues LGBTQ+ students face across the state and the nation.
+LGBTQ+ students in […] Fellowship Spotlight: Keegan Cardman February 6, 2022 Mennah Abdelwahab Capitol Corner Keegan Cardman is a third-year political science major with a minor in international affairs.
 She was first motivated to enter politics after meeting her Representative on a school trip to D.C. in 8th grade.
 Through the Fellowship, she aims to gain a robust understanding of the political sphere, from the policy-making process to communications.
-By […]
-A Systemic Failure: The Child Care Crisis
-In March 2020, as the COVID-19 pandemic began to ravage the United States and schools moved online, parents were left with an immediate crisis and an important decision to make: how to care for their children while providing economic stability for their families.
-While exacerbated by the sudden changes caused by the pandemic, this impossible […]
-CVS v.
-Doe: Ensuring Access to Life-Saving Medication for All
-Equitable access to healthcare, especially medication, is a right all Americans should enjoy.
+By […] A Systemic Failure: The Child Care Crisis January 30, 2022 Julia Hawkins Capitol Corner In March 2020, as the COVID-19 pandemic began to ravage the United States and schools moved online, parents were left with an immediate crisis and an important decision to make: how to care for their children while providing economic stability for their families.
+While exacerbated by the sudden changes caused by the pandemic, this impossible […] CVS v.
+Doe: Ensuring Access to Life-Saving Medication for All December 5, 2021 Keegan Cardman Capitol Corner Equitable access to healthcare, especially medication, is a right all Americans should enjoy.
 Those living with diseases such as HIV, in particular, deserve the same protection afforded to those unafflicted.
 The United States Supreme Court is currently preparing to hear a case regarding this kind of protection in CVS Pharmacy Inc. v.
 Doe.
-The respondents, […]
-The Disproportionate Impact of COVID-19 on Communities of Color
-As of early October, over 700,000 Americans have died as a result of the coronavirus.[1] While the average number of COVID-19 related deaths in the state has decreased since the introduction of vaccines, Georgia was home to five out of ten counties in the nation with the highest numbers of COVID-19 related mortalities just last […]
-Revisiting Georgia’s Three Strikes Laws
-The three-strikes law is a law for habitual offenders that imposes mandatory sentences for people convicted of their third felony.
-In 1993, the state of Washington passed the first three-strikes law in the United States, followed by California in 1994.1 That same year, Congress passed the Violent Crime Control and Law Enforcement Act of 1994, […]
-A New Encampment to Provide New Hope for Athens’ Unhoused Community Members
-Growing up in Athens, it was not unusual to pass tents when driving near the 10 Loop and Highway 78.
+The respondents, […] The Disproportionate Impact of COVID-19 on Communities of Color November 21, 2021 Ciera Thomas Capitol Corner As of early October, over 700,000 Americans have died as a result of the coronavirus.[1] While the average number of COVID-19 related deaths in the state has decreased since the introduction of vaccines, Georgia was home to five out of ten counties in the nation with the highest numbers of COVID-19 related mortalities just last […] Revisiting Georgia’s Three Strikes Laws November 7, 2021 Bo Robinson Capitol Corner The three-strikes law is a law for habitual offenders that imposes mandatory sentences for people convicted of their third felony.
+In 1993, the state of Washington passed the first three-strikes law in the United States, followed by California in 1994.1 That same year, Congress passed the Violent Crime Control and Law Enforcement Act of 1994, […] A New Encampment to Provide New Hope for Athens’ Unhoused Community Members November 7, 2021 Kate Thompson Capitol Corner Growing up in Athens, it was not unusual to pass tents when driving near the 10 Loop and Highway 78.
 We always called it “Tent City.” It has been years since I have seen tents pitched on that hill.
 Recently, I heard this name again as it was mentioned by a friend.
-I was unaware […]
-Food Deserts Starve the State and Its Residents
-As the COVID-19 pandemic continues to disproportionately affect low-income communities, the lack of proper access to food only serves to worsen this disparity.
+I was unaware […] Food Deserts Starve the State and Its Residents October 24, 2021 Dinah Gorayeb Capitol Corner As the COVID-19 pandemic continues to disproportionately affect low-income communities, the lack of proper access to food only serves to worsen this disparity.
 Food deserts occur where there is little access to healthy food, typically due to limited public transportation.
 These deserts are prevalent in low-income and rural communities.
-Since there is a lack of […]
-Fellowship Spotlight: Gitzel Anguiano
-Gitzel Anguiano is a third-year at the University of Georgia studying international affairs and public relations with a minor in French.
+Since there is a lack of […] Fellowship Spotlight: Gitzel Anguiano October 24, 2021 Mennah Abdelwahab Capitol Corner Gitzel Anguiano is a third-year at the University of Georgia studying international affairs and public relations with a minor in French.
 She is also pursuing a public affairs communication certificate.
-Gitzel is involved in a number of organizations on campus including Speak Out for Species, Hispanic Student Association, Young Democrats, Student Government Association and the […]
-Fellowship Spotlight: Catie Gelting
-Catie Gelting is a fourth-year at the University of Georgia studying international affairs and philosophy with a minor in political science.
+Gitzel is involved in a number of organizations on campus including Speak Out for Species, Hispanic Student Association, Young Democrats, Student Government Association and the […] Fellowship Spotlight: Catie Gelting October 10, 2021 Mennah Abdelwahab Capitol Corner Catie Gelting is a fourth-year at the University of Georgia studying international affairs and philosophy with a minor in political science.
 She is a member of the philosophy club and a non-religious member of the Bahai’i Student Association.
-Catie is also the Historian for UGA’s Demosthenian Literary Society, where she keeps records of meetings, historic […]
-The Toll of COVID-19 on Women in the Workplace
-“We can do it!”––the iconic poster of Rosie the Riveter looms over girls and women in schools and workplaces alike.
+Catie is also the Historian for UGA’s Demosthenian Literary Society, where she keeps records of meetings, historic […] The Toll of COVID-19 on Women in the Workplace April 25, 2021 Vanisha Kudumuri Capitol Corner “We can do it!”––the iconic poster of Rosie the Riveter looms over girls and women in schools and workplaces alike.
 But can they really do it?
 Even as higher education and male-dominated industries have become more accessible for women, the pillars of the patriarchy stand tall with the wage gap and the glass ceiling.
-This […]
+This […] Posts navigation Older posts ©# Spencer Frye State House 122.
+All Rights Reserved.

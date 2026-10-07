@@ -1,7 +1,9 @@
 {
  "description": "Scan QR code or enter the email address: votegigifor52@gmail.com in your banking app to pay",
  "final_url": "https://www.votegigihayes52.com/blank",
- "paid_for_by": "Paid For By The Committee To Elect GiGi Hayes&nbsp; P",
+ "fingerprint": "d83b70ab4a62d0dbb439814fae4e33b831507418",
+ "format": 3,
+ "paid_for_by": "Paid For By The Committee To Elect GiGi Hayes P",
  "title": "Zelle | Elect GiGi Hayes",
  "years_mentioned": []
 }

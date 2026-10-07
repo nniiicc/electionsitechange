@@ -1,14 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/reidbeamanforsc",
-"https://instagram.com/reidbeamanforsc",
-"https://reidbeamanforsc.com/",
-"https://reidbeamanforsc.com/about",
-"https://reidbeamanforsc.com/contact",
-"https://reidbeamanforsc.com/news/lexington-resident-reid-beaman-announces-campaign-for-sc-house-district-87",
-"https://reidbeamanforsc.com/sc-house-district-87-map",
-"https://secure.actblue.com/donate/votesforbeaman",
-"https://thestate.com/news/politics-government/election/article315252159.html",
-"https://tiktok.com/@reidbeamanforsc",
-"https://wach.com/news/local/lexington-resident-reid-beaman-announces-bid-for-sc-house-district-87-seat"
+{
+"text": "About",
+"href": "https://www.reidbeamanforsc.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.reidbeamanforsc.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesforbeaman"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Read more",
+"href": "https://wach.com/news/local/lexington-resident-reid-beaman-announces-bid-for-sc-house-district-87-seat"
+},
+{
+"text": "Read more",
+"href": "https://www.reidbeamanforsc.com/news/lexington-resident-reid-beaman-announces-campaign-for-sc-house-district-87"
+},
+{
+"text": "Read more",
+"href": "https://www.thestate.com/news/politics-government/election/article315252159.html"
+},
+{
+"text": "SC House District 87 Map",
+"href": "https://www.reidbeamanforsc.com/sc-house-district-87-map"
+},
+{
+"text": "[image: Reid Beaman for SC]",
+"href": "https://www.reidbeamanforsc.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/reidbeamanforsc"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@reidbeamanforsc"
+}
 ]

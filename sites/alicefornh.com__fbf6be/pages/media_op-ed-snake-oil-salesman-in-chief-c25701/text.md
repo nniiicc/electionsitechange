@@ -1,5 +1,4 @@
-Op-Ed: Snake Oil Salesman in Chief
-Donald Trump’s presidency has been sold to the public like a miracle cure.
+0 Skip to Content About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Alice for New Hampshire Donate Open Menu Close Menu About Priorities Media Donate Op-Ed: Snake Oil Salesman in Chief Feb 7 Written By Alice Wade Donald Trump’s presidency has been sold to the public like a miracle cure.
 He promised to fix inflation, end the war in Ukraine in 24 hours, and "Make America Great Again." But as with any snake oil salesman, the promises never matched reality.
 Trump claims to have a mandate, a supposed endorsement of his vision for America.
 But with a razor-thin victory margin and less than 50% of the popular vote, his win is far from a landslide.
@@ -45,3 +44,5 @@ Neither is threatening to withhold disaster relief aid because a state is blue o
 While he is off playing golf, Democrats need to show their focus on the real issues people are dealing with like affordable housing, healthcare, and fair wages.
 We cannot wait for someone to hand us the perfect strategy on a silver platter.
 The time to act is now.
+Alice Wade Previous Previous Fosters: Dover Rep.
+Alice Wade fights for trans people against national trends Next Next Op-Ed: New Hampshire’s Political Engagement Paradox Paid for by Alice for New Hampshire 133 Washington St, PO Box #457 Dover, New Hampshire 03821 CONTACT Alice.Wade@gc.nh.gov

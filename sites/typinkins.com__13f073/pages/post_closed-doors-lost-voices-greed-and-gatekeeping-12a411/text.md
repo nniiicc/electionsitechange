@@ -1,14 +1,11 @@
-Closed Doors, Lost Voices, Greed and Gatekeeping
-How Institutional Power and Political Elitism Are Suffocating Mississippi’s Democratic Future
-For months, I wrestled with writing this piece, and even more with the thought of sharing it.
+top of page DONATE VOLUNTEER HOME ABOUT TY ISSUES FULCRUM PRESS RELEASES VOTE TRANSPARENCY All Posts Search Closed Doors, Lost Voices, Greed and Gatekeeping Jul 5, 2025 15 min read How Institutional Power and Political Elitism Are Suffocating Mississippi’s Democratic Future For months, I wrestled with writing this piece, and even more with the thought of sharing it.
 But sometimes you must have the courage to tell your own story—to speak your own truth.
 Not the story others try to write for you.
 Not the story that feels comfortable and safe.
 Not the version that’s been filtered through political operatives, party talking points, or editorial gatekeepers.
 Just the truth, plain and unvarnished.
 So, here’s mine.
-The Gatekeeper's Greeting
-On a warm Spring morning in 2023, not long after I’d announced my candidacy for the U.S.
+The Gatekeeper's Greeting On a warm Spring morning in 2023, not long after I’d announced my candidacy for the U.S.
 Senate, I was behind the wheel of my black Chevy Tahoe headed north along Highway 61, deep in the Mississippi Delta.
 I had just reached the stretch of road where the highway expands from two lanes to four, right before merging into the Highway 82 Greenville Bypass.
 The sun had barely cleared the horizon.
@@ -46,8 +43,7 @@ And here I was, in 2023, being told by an elected official that the people would
 That’s not democracy.
 That’s political plantationism.
 And I didn’t spend 21 years in uniform fighting for this country—only to come home and be told I needed to ask for permission to serve the very people who raised me.
-Closed Doors: A System Rigged From Within
-The phone call with Representative Rosebud wasn’t an anomaly.
+Closed Doors: A System Rigged From Within The phone call with Representative Rosebud wasn’t an anomaly.
 It was a warning.
 The closed doors of our political system aren’t always physical—they’re ideological, procedural, and personal.
 In Mississippi, too many political insiders treat the ballot like their own private property.
@@ -60,10 +56,9 @@ Support will evaporate.
 Allies will go silent.
 Donors will be warned off.
 You won’t get a fair shot—you’ll get shut out.
-Lost Voices: The Collateral Damage of Control
-But this isn’t just about me.
+Lost Voices: The Collateral Damage of Control But this isn’t just about me.
 This is about every bold, qualified, community-rooted Mississippian who has ever been told to “wait your turn.” It’s about the single mother who organizes in her neighborhood, the veteran who served this country with honor, the schoolteacher with solutions and heart—but no political pedigree.
-When the political establishment guards the gates so tightly, we don’t just lose candidates—we lose voices.
+When the political establishment guards the gates so tightly, we don’t just lose candidates—we lose voices .
 We lose perspective.
 We lose energy.
 We lose hope.
@@ -72,8 +67,7 @@ That’s not just a missed opportunity—that’s political abandonment.
 That’s what happens when gatekeeping silences potential before it even has the chance to speak.
 And it gets to a point where the party doesn’t just lack a bench—it’s created a climate where the next generation of leaders is too intimidated to even step up to bat, afraid they’ll be punished, ignored, or publicly ridiculed for daring to lead without permission.
 And everyday people in this state begin to feel that politics isn’t for them—it’s for the already anointed.
-Greed: When Money Talks, Democracy Walks
-Let’s be real—money is the grease in the political machine.
+Greed: When Money Talks, Democracy Walks Let’s be real—money is the grease in the political machine.
 But in Mississippi, that grease has become glue.
 National committees and party insiders aren’t asking who’s the most rooted in the community.
 They’re asking who’s raised the most money—before the race has even begun.
@@ -105,8 +99,7 @@ So much for supporting rural candidates.
 When the mission says “uplift the overlooked,” but the money goes to the already-entrenched, that’s not grassroots strategy—it’s gatekeeping dressed up as generosity.When money talks, democracy walks.And in this case, it walked right past the people who needed it most.
 But this wasn’t just about money—it was about control.
 And control, in Mississippi politics, is enforced through gatekeeping.
-Gatekeeping: A Party That Eats Its Own
-The phrase I heard on that call—“You need to go through us gatekeepers”—continued to echo in my mind.
+Gatekeeping: A Party That Eats Its Own The phrase I heard on that call—“You need to go through us gatekeepers”—continued to echo in my mind.
 Because it wasn’t just about me.
 It was a confession.
 An admission that some party insiders don’t see themselves as public servants—they see themselves as landlords of democracy.
@@ -121,8 +114,7 @@ It was the summer Fannie Lou Hamer, a sharecropper from Ruleville in the Mississ
 She didn’t bring money.
 She didn’t bring a political machine.
 She brought moral clarity and a demand for justice.
-She stood before the nation and declared, “I’m sick and tired of being sick and tired.”
-Sixty years later, I walked into the 2024 DNC in Chicago not as a spectator, but as a delegate—a son of the Mississippi Delta, just like Fannie Lou.
+She stood before the nation and declared, “I’m sick and tired of being sick and tired.” Sixty years later, I walked into the 2024 DNC in Chicago not as a spectator, but as a delegate—a son of the Mississippi Delta, just like Fannie Lou.
 I had spent more than a year on the campaign trail, sharing my story, challenging power, and stepping up to serve in a U.S.
 Senate race no one else dared to enter.
 I was now the Democratic Nominee.
@@ -143,11 +135,9 @@ She looked rattled and asked if I’d heard what had just been said at our own M
 I told her no—I’d been with the Hawaii delegation in a different ballroom.
 She leaned in and said that Mississippi’s longest-serving, highest-ranking elected Democrat had just stood before the delegation and declared he wouldn’t support my campaign.
 His reason?
-“He hasn’t earned it.”
-I was stunned.
+“He hasn’t earned it.” I was stunned.
 As the sunlight poured through the windows of the skybridge, her words hung in the air like a cold wind.
-“He hasn’t earned it.”
-This, during the 60th anniversary of Freedom Summer.
+“He hasn’t earned it.” This, during the 60th anniversary of Freedom Summer.
 I thought about the 21 years I served on active duty in the U.S.
 Army.
 The 36 months I spent at war—missing birthdays, funerals, and first steps.
@@ -162,14 +152,12 @@ I thought about how, during my time working at the White House, his office would
 And I thought about how he was the very first person I told I planned to run for the U.S.
 Senate—six months before I announced—and how I asked him for his support.
 And I wondered what Fannie Lou Hamer would say if she were here to witness what that same Democratic establishment had just done to a Delta son who dared to step forward.
-Still—“he hasn’t earned it.”
-I left the skybridge and made my way to a table in the second-floor foyer of the Hyatt, where I was scheduled to meet with the Chair of the Mississippi Democratic Party.
+Still—“he hasn’t earned it.” I left the skybridge and made my way to a table in the second-floor foyer of the Hyatt, where I was scheduled to meet with the Chair of the Mississippi Democratic Party.
 I needed answers.
 As I sat down and prepared to ask the hard question, another young Mississippian approached our table—an ambitious leader from East Mississippi, part of a new generation trying to break through.
 I politely asked him to give us a moment.
 Then I turned to the Chair and asked: Was it true that my own Congressman stood before a room full of Democrats and told them not to support me?
-The Chair looked me in the eyes and said, “Yes.”
-Let me be clear: it wasn’t the lack of support that bothered me.
+The Chair looked me in the eyes and said, “Yes.” Let me be clear: it wasn’t the lack of support that bothered me.
 People have a right to back whomever they choose.
 That’s democracy.
 What stung deeply was knowing that he didn’t just withhold support—he actively encouraged others to do the same.
@@ -180,11 +168,9 @@ Senate.
 That wasn’t neutrality.
 That was sabotage.
 And as “he hasn’t earned it” echoed in my mind, it felt eerily familiar.
-Months earlier, on April 13th, at the Mississippi Democratic Party’s 2nd Congressional District Convention in Vicksburg, the then-chair introduced me by saying, “We support Democrats, but they have to earn it.”
-Those same side-eyes, whispered doubts, and closed doors followed me throughout the campaign—echoed by insiders and party elites more committed to preserving their own power than supporting someone fighting for working Mississippians.
+Months earlier, on April 13th, at the Mississippi Democratic Party’s 2nd Congressional District Convention in Vicksburg, the then-chair introduced me by saying, “We support Democrats, but they have to earn it.” Those same side-eyes, whispered doubts, and closed doors followed me throughout the campaign—echoed by insiders and party elites more committed to preserving their own power than supporting someone fighting for working Mississippians.
 When I asked the State Chair why this resistance persisted, he told me candidly: some folks felt like I was trying to walk straight to the head of the table.
-In other words, I wasn’t “waiting my turn.”
-But when the table has been set for the same few people over and over—while others are left out in the cold—you come to realize that maybe the goal isn’t to wait your turn.
+In other words, I wasn’t “waiting my turn.” But when the table has been set for the same few people over and over—while others are left out in the cold—you come to realize that maybe the goal isn’t to wait your turn.
 Maybe the goal is to build a new table altogether—one with enough seats for everyone.
 A table where lived experience matters just as much as connections, where service counts more than status, and where the doors aren’t guarded by gatekeepers—but opened by the people themselves.
 I wasn’t running for the U.S.
@@ -195,14 +181,13 @@ And I believed, deep in my bones, that I could be someone Mississippians could c
 As a Delta boy, I was trying to step up and make a difference.
 I didn’t expect him to hand me anything.
 But I never expected him to stand in my way either—especially when no one else had stepped up.
-And I started to wonder:
-Was growing up poor in the Mississippi Delta a scarlet letter to some?
+And I started to wonder: Was growing up poor in the Mississippi Delta a scarlet letter to some?
 Was I from the wrong social class in their eyes?
 Was my military service not enough—as echoed by one insider who said, “We don’t give a f**k about your service”?
 Was being the first in my family to graduate high school and earn two law degrees not enough?
 Was standing beside a single mother in the dead of winter as she prepared to walk into court to fight her eviction not enough?
 Was fighting for and winning millions of dollars for poor farmworkers in the Delta as a lawyer not enough?
-And was it not enough when, in 2023, the party chair asked me to pause my Senate campaign and run for Secretary of State—at the last minute, with less than 60 days until Election Day—because no one else would step up to give voters an option at the polls?
+And was it not enough when, in 2023, the party chair asked me to pause my Senate campaign and run for Secretary of State—at the last minute, with less than # days until Election Day—because no one else would step up to give voters an option at the polls?
 Was that deliberate sacrifice not enough of a commitment to the cause?
 Not enough of a demonstration of loyalty?
 In that moment, the phrase “he hasn’t earned it” stopped sounding like a critique of qualifications—and started sounding like a defense of hierarchy.
@@ -211,8 +196,7 @@ A message: this party isn’t built to welcome you.
 It’s built to outlast you.
 Because in the end, it wasn’t just political.
 It was personal.But even more than that—it was a symptom of gatekeeping.A party culture that, far too often, devours its own.
-When the Referees Join the Other Team
-And then, just a few weeks later—as if to drive the point home—another blow came from a different direction.
+When the Referees Join the Other Team And then, just a few weeks later—as if to drive the point home—another blow came from a different direction.
 A man named Other Cain, a member of the Mississippi Democratic Party Executive Committee—someone whose role is supposed to be rooted in neutrality and support—publicly posted this about me: “Ty Pinkins is DOA.
 Campaign is over.
 Going against the grain.
@@ -222,8 +206,7 @@ Rookie mistake.
 Sit at someone’s feet.
 Study to show thyself approved.
 Learn something.
-Arrogance is never the answer.”
-This wasn’t just personal—it was political malpractice.
+Arrogance is never the answer.” This wasn’t just personal—it was political malpractice.
 The irony?
 The same Executive Committee member who launched that attack also served on the party’s Committee for Young Democrats, the Committee for Affirmative Action, the Committee for Campaigns, and the Committee for Party Development.
 These are the very committees tasked with building the future of the party, fostering inclusion, and developing the next generation of leaders.
@@ -236,8 +219,7 @@ No Republican could have launched a more condescending or dismissive attack.
 I was the Democratic Nominee.
 The only candidate standing between a Republican stronghold and six more years of neglect for Mississippi’s working families.
 And yet it was leaders within my own party who were leading the opposition.
-What We’re Fighting For: A Better Way
-Mississippi deserves better.
+What We’re Fighting For: A Better Way Mississippi deserves better.
 So does our democracy.
 We need a political culture that rewards courage—not compliance.
 One that empowers local communities—not national consultants.
@@ -286,5 +268,9 @@ For a better future.
 Let’s build it together.
 Join the movement.
 Share this message.
-And support this campaign by visiting www.TyPinkins.com
-~Ty
+And support this campaign by visiting www.TyPinkins.com ~Ty Recent Posts See All Why I’m Leaving the Democratic Party and Running as an Independent When the System Fails the People, You Don’t Have to Stay in It For too long, working families in Mississippi—and across this country—have...
+“But What About…”: How Whataboutism Is Breaking American Politics From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land HOME ABOUT TY JOIN US NEWS ISSUES PRIVACY POLICY TERMS OF SERVICE DONATE VOLUNTEER DONATE BY MAIL ​ T y Pinkins for U.S.
+Senate P.O.
+Box 4525 Jackson, MS 39296 ​ ​ FEC ID: C00830554 Contributions to Ty Pinkins for U.S.
+Senate are not tax deductible.
+PAID FOR BY TY PINKINS FOR CONGRESS bottom of page

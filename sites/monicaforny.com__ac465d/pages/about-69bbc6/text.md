@@ -1,5 +1,4 @@
-Meet Monica
-Monica R.
+0 Skip to Content About Issues Join Team Martinez Vote Contribute Open Menu Close Menu About Issues Join Team Martinez Vote Contribute Open Menu Close Menu About Issues Join Team Martinez Vote Contribute Meet Monica Monica R.
 Martinez has devoted her life to public service, rooted in the belief that if individuals are given the opportunity to thrive through education and information, every dream can become a reality.
 In 2010, after serving as a High School teacher, Martinez was selected to lead the administration of Brentwood’s East Middle School as Assistant Principal, where she dedicated much of her time to enriching the lives of her students.
 Martinez's public service career began as a Suffolk County Legislator in 2014.
@@ -13,11 +12,13 @@ Elected in 2022 to represent the newly drawn Fourth Senatorial District, Martine
 In 2023, she championed the Suffolk County Water Quality Restoration Act to address pollution and protect local water resources.
 Additionally, Monica introduced legislation to criminalize the threat of disseminating intimate images, building on her prior work to protect victims from online harassment.
 Throughout her tenure, Senator Martinez has tirelessly fought to ensure that our schools receive full funding and remains deeply connected to the communities she serves.
-About the District
-Senate District 4 encompasses parts of the Town of Babylon and the Town of Islip in Suffolk County, including the Villages of Amityville, Lindenhurst, Brightwaters, and Islandia.
+About the District Senate District 4 encompasses parts of the Town of Babylon and the Town of Islip in Suffolk County, including the Villages of Amityville, Lindenhurst, Brightwaters, and Islandia.
 With a population of 325,503 residents, this district plays a critical role in local governance and community representation.
 As a lifelong resident of Long Island, I have a proven track record of delivering results for our community.
 Throughout my career as an elected official, I have consistently advocated for policies which support working families, improve public safety, and protect our environment.
 My experience in securing funding for critical programs, such as the $350 million allocated for gun violence prevention, and my commitment to strengthening workers' rights, demonstrates my ability to achieve meaningful outcomes.
 I have always prioritized engaging with constituents to understand their concerns, ensuring their voices are heard in Albany.
 I remain dedicated to continuing this work and advancing initiatives that will have a lasting, positive impact on the lives of Long Island residents.
+Monica for NY About Join Team Martinez Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join our Email List Email Address Sign Up Thank you!

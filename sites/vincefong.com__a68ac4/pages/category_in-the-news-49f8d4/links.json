@@ -1,22 +1,98 @@
 [
-"https://facebook.com/VinceFongCA",
-"https://instagram.com/fongressman",
-"https://secure.anedot.com/vince-fong-for-congress/donate",
-"https://vincefong.com/",
-"https://vincefong.com/540m-federal-investment-to-revamp-central-valley-water-infrastructure",
-"https://vincefong.com/about",
-"https://vincefong.com/category/in-the-news",
-"https://vincefong.com/category/news",
-"https://vincefong.com/category/press-release",
-"https://vincefong.com/congressman-fong-demands-transparency-on-537-3m-high-speed-rail-change-order",
-"https://vincefong.com/congressman-vince-fong-appointed-to-house-homeland-security-committee-for-119th-congress",
-"https://vincefong.com/contact",
-"https://vincefong.com/fong-bill-to-support-firefighting-drones-headed-for-senate",
-"https://vincefong.com/gallery",
-"https://vincefong.com/issues",
-"https://vincefong.com/privacy",
-"https://vincefong.com/rep-fong-urges-newsom-carb-to-reconsider-cap-and-invest-plan-amid-gas-price-concerns",
-"https://vincefong.com/support",
-"https://vincefong.com/terms",
-"https://x.com/vfong"
+{
+"text": "About",
+"href": "https://vincefong.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://vincefong.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/vince-fong-for-congress/donate"
+},
+{
+"text": "Gallery",
+"href": "https://vincefong.com/gallery/"
+},
+{
+"text": "Home",
+"href": "https://vincefong.com/"
+},
+{
+"text": "In the News",
+"href": "https://vincefong.com/category/in-the-news/"
+},
+{
+"text": "Issues",
+"href": "https://vincefong.com/issues/"
+},
+{
+"text": "Join Us",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Join Vince",
+"href": "https://vincefong.com/support/"
+},
+{
+"text": "Menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "News",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Posts",
+"href": "https://vincefong.com/category/news/"
+},
+{
+"text": "Press Releases",
+"href": "https://vincefong.com/category/press-release/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://vincefong.com/privacy/"
+},
+{
+"text": "Terms of Use",
+"href": "https://vincefong.com/terms/"
+},
+{
+"text": "[image: Vince Fong for Congress]",
+"href": "https://vincefong.com/"
+},
+{
+"text": "[tooltip: $540M Federal Investment to Revamp Central Valley Water Infrastructure]",
+"href": "https://vincefong.com/540m-federal-investment-to-revamp-central-valley-water-infrastructure/"
+},
+{
+"text": "[tooltip: Congressman Fong demands transparency on $537.3M high-speed rail change order]",
+"href": "https://vincefong.com/congressman-fong-demands-transparency-on-537-3m-high-speed-rail-change-order/"
+},
+{
+"text": "[tooltip: Congressman Vince Fong appointed to House Homeland Security Committee for 119th Congress]",
+"href": "https://vincefong.com/congressman-vince-fong-appointed-to-house-homeland-security-committee-for-119th-congress/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/VinceFongCA/"
+},
+{
+"text": "[tooltip: Fong bill to support firefighting drones headed for Senate]",
+"href": "https://vincefong.com/fong-bill-to-support-firefighting-drones-headed-for-senate/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/fongressman/"
+},
+{
+"text": "[tooltip: Rep. Fong urges Newsom, CARB to reconsider cap-and-invest plan amid gas price concerns]",
+"href": "https://vincefong.com/rep-fong-urges-newsom-carb-to-reconsider-cap-and-invest-plan-amid-gas-price-concerns/"
+},
+{
+"text": "[tooltip: X (Twitter)]",
+"href": "https://x.com/vfong"
+}
 ]

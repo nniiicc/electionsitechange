@@ -1,5 +1,4 @@
-June 2024 Letter
-The golden glisten of the summer sun shone bright this month as the House finished it’s business before the summer recess of July.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Onward Onward Onward Jul 1, 2024 Jul 1, 2024 June 2024 Letter Perennials - 18 June 2024 - 16:05 - Peterborough, NH - Taken by Jonah Perennials - 18 June 2024 - 16:05 - Peterborough, NH - Taken by Jonah The golden glisten of the summer sun shone bright this month as the House finished it’s business before the summer recess of July.
 It handled sixty three bills from the various committees of conference.
 Including the bail compromise long debated by the committee which I serve on, and the contentious issue of cannabis legislation, through legislation I cosponsored this session.
 HB1633, relative to the legalization and regulation of cannabis was one of the most closely debated pieces of legislation during the 2024 legislative session.
@@ -54,7 +53,7 @@ In the sentence leading up to his making of the motion he cited the amount of pe
 There were several members signed up to speak, but how is that a reason to restrict debate?
 It’s not.
 The only reason you would want to restrict debate is because you know you would lose it.
-So, with a combination of Republicans who will never support legalization of any kind, and Democrats who wanted to live in fantasy land, the bill was tabled by a vote of 178-173.
+The Death of Legalization - 13 June 2024 - 16:05 - Concord, NH - Taken by Jonah The Death of Legalization - 13 June 2024 - 16:05 - Concord, NH - Taken by Jonah So, with a combination of Republicans who will never support legalization of any kind, and Democrats who wanted to live in fantasy land, the bill was tabled by a vote of 178-173.
 Five votes stopped us from cannabis legalization.
 Five, votes.
 What a gut punch to all those who put sweat and tears into getting us to this point.
@@ -78,7 +77,7 @@ I am proud to have an 100 percent attendance record in committee, and on the flo
 I am proud of the thousands of people who have reached out to express their appreciation and support; but statistics aside I am most proud to have brought the vision I had into reality.
 This is a non stop job of ups and downs.
 The downs are hard but the ups make it all worth it.
-Peter and I both signed up to run for re-election to the 169th General Court on the 5th.
+Signup Day - 5 June 2024 - 15:14 - Peterborough, NH - Taken by Jill Schaffer Hammond Signup Day - 5 June 2024 - 15:14 - Peterborough, NH - Taken by Jill Schaffer Hammond Peter and I both signed up to run for re-election to the 169th General Court on the 5th.
 Two years ago I was a nineteen year old dreamer, who was confident dreams could become reality if the people came together to do it.
 The dream of an education system that educates our children with not an education, but a good one.
 The dream of an economy where you can get by on one job.
@@ -92,4 +91,4 @@ The people of this State, it’s land, it’s history - are worth fighting for.
 We must not let the apathy which those in power try to peddle overtake our mind.
 It is time to put our back up straight, set our voice on fire, and walk righteously onto the political battlefield to save this great State of ours.
 Onward.
-Back to all
+Linda and I - 13 June 2024 - 16:09 - Concord, NH - Taken by Damond Ford Linda and I - 13 June 2024 - 16:09 - Concord, NH - Taken by Damond Ford ‹ Re-Election ‹ Re-Election ‹ Re-Election The Final Stretch › The Final Stretch › The Final Stretch › Back to all

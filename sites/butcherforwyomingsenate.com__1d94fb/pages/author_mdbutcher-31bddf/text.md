@@ -1,4 +1,16 @@
-Two Different Approaches to Wyoming’s Future
-As we head into tomorrow’s Republican primary, I want to say thank you.
+Skip to content Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate Toggle Navigation Where I Stand Pledge About Updates Support Volunteer Donate About mdbutcher This author has not yet filled in any details.
+So far mdbutcher has created 8 blog entries.
+Two Different Approaches to Wyoming’s Future mdbutcher 2026-08-17T18:04:48-06:00 August 17, 2026 | Campaign , Leadership and Service , Stewardship Conservatism | As we head into tomorrow’s Republican primary, I want to say thank you.
 Thank you to everyone who opened a door, stopped to visit, came to a meet-and-greet, asked a hard question, or shared what’s important to you.
-Thank [...]
+Thank [...] Read More Protecting Life, Respecting Liberty mdbutcher 2026-08-15T08:00:49-06:00 August 14, 2026 | Issues | I believe unborn human life has inherent worth and deserves protection.
+I also believe pregnancy can present extraordinarily difficult circumstances involving a woman’s health and life, developing human life, medical judgment, constitutional rights, and the proper limits of government.
+I [...] Read More Experience, Humility and Public Service mdbutcher 2026-08-13T13:20:53-06:00 August 10, 2026 | Leadership and Service , Stewardship Conservatism | Funny how quickly incumbency starts looking different once it's yours.
+A few years ago, candidates were saying, "Drain the swamp.
+Vote them all out.
+Career politicians are the problem." Now some of those same people are incumbents - and suddenly [...] Read More A Family Story Behind My Second Amendment Values mdbutcher 2026-07-31T21:04:30-06:00 July 29, 2026 | Issues , Second Amendment | When people ask where my support for the Second Amendment comes from, the answer starts at home.
+I grew up in my dad's gun shop.
+The shop was part of our house, so firearms were simply part of everyday life. [...] Read More Why Stability Matters for Wyoming’s Future mdbutcher 2026-06-24T15:18:41-06:00 June 24, 2026 | Campaign | Yesterday, I participated in the Wyoming Business Alliance Policy & Prosperity Summit, joining business and industry leaders from across Wyoming for a series of conversations about the opportunities and challenges facing our state.
+Throughout the day, one theme kept surfacing: [...] Read More Why Solving Problems Across Differences Is a Conservative Value mdbutcher 2026-05-29T13:37:00-06:00 May 29, 2026 | Stewardship Conservatism | I’ve spent most of my career working across northern Wyoming, facilitating difficult conversations around community issues.
+And here’s something I know for certain: Communities and economies do not get stronger when people stop listening to each other.
+They get stronger [...] Read More A Conversation About the Work Ahead mdbutcher 2026-04-30T21:27:07-06:00 April 14, 2026 | Campaign | Today I had the chance to sit down with Jake on the Cowboy State Daily Morning Show for a short conversation about this campaign and what I’m hearing across the district.It’s a quick listen, but I appreciated the chance to [...] Read More Melissa Butcher Announces Run for Wyoming Senate District 21 mdbutcher 2026-04-08T08:44:22-06:00 March 9, 2026 | Campaign | Melissa Butcher, a Sheridan County business owner, announced today she will run as a Republican for the Wyoming Senate in District 21, bringing her experience in business leadership, collaborative problem-solving, and economic stewardship to the Legislature.
+Over the coming months, [...] Read More Butcher for Wyoming PO Box 293 Ranchester, WY 82839 JOIN THE CAMPAIGN DONATE Paid for by Butcher for Wyoming | Copyright # | All Rights Reserved Page load link Go to Top

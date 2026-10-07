@@ -1,9 +1,34 @@
 [
-"http://websterforsenate.com/",
-"https://facebook.com/WebsterforSenate",
-"https://secure.winred.com/webster-for-iowa/donate-today?exitintent=true",
-"https://websterforsenate.com/",
-"https://websterforsenate.com/about",
-"https://websterforsenate.com/issues",
-"https://websterforsenate.com/privacy-policy"
+{
+"text": "About",
+"href": "https://websterforsenate.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/webster-for-iowa/donate-today?exitintent=true"
+},
+{
+"text": "Envelope",
+"href": "mailto:scott@websterforsenate.com"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/WebsterforSenate"
+},
+{
+"text": "Home",
+"href": "https://websterforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://websterforsenate.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://websterforsenate.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "http://websterforsenate.com"
+}
 ]

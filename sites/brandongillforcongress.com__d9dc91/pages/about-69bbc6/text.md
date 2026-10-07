@@ -1,5 +1,5 @@
-Meet Brandon Gill
-It is the honor of a lifetime to serve as your Congressman for Texas’ 26th District and to serve alongside President Trump.
+Endorsed by President Donald J.
+Trump Meet Brandon Issues Endorsements Press Releases Volunteer Shop DONATE Donate brandongillforcongress.com Donate Meet Brandon Issues Endorsements Press Releases Volunteer Shop Donate Meet Brandon Gill It is the honor of a lifetime to serve as your Congressman for Texas’ 26th District and to serve alongside President Trump.
 My calling to serve is deeply rooted in Texas values and family heritage.
 Since I was born—on a United States Air Force base—I’ve had a deep and abiding love for this country and the principles it stands for.
 And it started with my family.
@@ -34,3 +34,16 @@ As your Congressman, I’ve worked to defend President Trump and advance our Ame
 Together, we successfully stopped the largest tax hike in American history, secured the southern border, and ended funding for woke Leftist projects.
 Now, there is more work to be done.
 I’m running for re-election so all of our children can live in a better Texas—and a better America.
+Join Us By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions Get Updates Opt-In to text updates PO Box 270032 Flower Mound, TX 75027 Paid for by Brandon Gill for Texas brandongillforcongress.com Privacy Policy By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages to the phone number you provide.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions . © # brandongillforcongress.com - All Rights Reserved.

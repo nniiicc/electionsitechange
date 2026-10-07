@@ -1,3 +1,3 @@
-early voting In-Person Early Voting has begun.
+0 Skip to Content Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store More Media District Map Contact Vote Jobs DONATE Open Menu Close Menu Vote Meet Delia Issues Volunteer Merch Store Folder: More Back Media District Map Contact Vote Jobs DONATE early voting In-Person Early Voting has begun.
 To find out where and when you can vote early, click on the link below according to where you live in the district.
-SELECT YOUR county BELOW TO find an early voting site near you Suburban Cook COunty Chicago DUPAGE REGISTER TO VOTE vote by mail Voter resources
+SELECT YOUR county BELOW TO find an early voting site near you Suburban Cook COunty Chicago DUPAGE REGISTER TO VOTE vote by mail Voter resources MEET DELIA DONATE CONTACt media Read our Privacy Policy and Terms & Conditions Paid for by United with Delia for Congress

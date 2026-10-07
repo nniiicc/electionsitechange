@@ -1,10 +1,4 @@
-Back to All Events
-Come join us for a meet and greet with Clinton Anderson at the Evansville VFW.
+0 Skip to Content Home About Issues Events Endorsements Donate Open Menu Close Menu Open Menu Close Menu Home About Issues Events Endorsements Donate Home About Issues Events Endorsements Donate Back to All Events Meet and Greet in Evansville for Clinton Anderson Thursday, October 13, 2022 4:00 PM 7:00 PM VFW Post 6905 179 East Main Street Evansville, WI, 53536 United States (map) Google Calendar ICS Come join us for a meet and greet with Clinton Anderson at the Evansville VFW.
 The event is hosted by State Senator Janis Ringhand and Evansville City Council President Jim Brooks.
-Previous
-Previous
-October 12
-Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League
-Next
-Next
-April 28
+Previous Previous October 12 Candidate Forum Hosted by LWV Wisconsin, Beloit NAACP, and Beloit League Next Next April 28 2024 Campaign Kickoff Email: admin@clintonforassembly.com Phone: +1 (608) 302-7913 Donate Paid for by Friends of Clinton Anderson 2282 Bootmaker Dr.
+Beloit, WI 53511

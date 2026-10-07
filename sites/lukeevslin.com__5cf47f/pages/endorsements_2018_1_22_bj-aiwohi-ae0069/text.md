@@ -1,4 +1,3 @@
-Justin Kollar
-Kaua'i County Prosecuting Attorney
-Luke’s local roots give him the humility and drive to work for a better Kauai.
+Home About Luke Blog Issues Contribute Home About Luke Blog Issues Contribute Luke Evslin for Hawai'i State House Justin Kollar Kaua'i County Prosecuting Attorney Luke’s local roots give him the humility and drive to work for a better Kauai.
 His drive to serve our community is impressive and I am confident he will represent our shared values with grace and integrity as a member of our Council.
+John Teschner January 22, 2018 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr 0 Likes Previous Sabra Kauka Luke Evslin January 23, 2018 Next Mina Morita John Teschner January 22, 2018 Instagram Twitter Facebook Friends of Luke Evslin PO Box 662074 Lihuʻe, HI 96766 Luke@LukeEvslin.com

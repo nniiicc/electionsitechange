@@ -1,9 +1,38 @@
 [
-"https://drive.google.com/file/d/183vuB3qcHMehd4mDRux89q9qNerVdlHt/view?usp=sharing",
-"https://quylo.uicore.co/running-event",
-"https://sabinamatos.com/",
-"https://sabinamatos.com/about-sabina-matos",
-"https://sabinamatos.com/es/media",
-"https://sabinamatos.com/media",
-"https://secure.actblue.com/donate/friends-of-sabina-matos-2"
+{
+"text": "About Sabina Matos",
+"href": "https://www.sabinamatos.com/about-sabina-matos/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-sabina-matos-2"
+},
+{
+"text": "Español",
+"href": "https://www.sabinamatos.com/es/media/"
+},
+{
+"text": "Join the Campaign",
+"href": "https://secure.actblue.com/donate/friends-of-sabina-matos-2"
+},
+{
+"text": "Media Room",
+"href": "https://www.sabinamatos.com/media/"
+},
+{
+"text": "Video Content",
+"href": "https://drive.google.com/file/d/183vuB3qcHMehd4mDRux89q9qNerVdlHt/view?usp=sharing"
+},
+{
+"text": "[image: Sabina Matos]",
+"href": "https://www.sabinamatos.com/"
+},
+{
+"text": "[image: Sabina Matos] [image: Sabina Matos] [image: Sabina Matos] [image: Sabina Matos]",
+"href": "https://www.sabinamatos.com/"
+},
+{
+"text": "[image]",
+"href": "https://quylo.uicore.co/running-event/"
+}
 ]

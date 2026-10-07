@@ -1,15 +1,9 @@
-Ager on Edwards Withdrawal
-August 5, 2026
-Share this post:
-Fairview, NC — Democratic candidate for NC-11 JAMIE AGER made the following statement on the withdrawal of Congressman Chuck Edwards from his reelection bid:
-“This campaign has never been about any one person.
+Skip to content Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Home Info Meet Jamie Platform Voter Info News News Press Releases Volunteer Events Store Donate Menu Ager on Edwards Withdrawal August 5, 2026 Share this post: Share on Facebook Share on Bluesky Share on X (Twitter) Share on Email Copy to Clipboard Fairview, NC — Democratic candidate for NC-11 JAMIE AGER made the following statement on the withdrawal of Congressman Chuck Edwards from his reelection bid: “This campaign has never been about any one person.
 It’s always been about Western North Carolina and our communities getting the leadership and representation we deserve.
 That has not changed.
 “For too long, we’ve been forgotten by politicians who sell us a false bill of goods, then go to Congress to treat D.C. as their personal playground while we get left behind.
 My heart goes out to the young women who took these roles to serve our community.
-“No matter who we face in November, I’m confident we can win this race and deliver what I’ve been talking about since day one: Hurricane Helene recovery, lower costs, and an end to the corruption in Washington.”
-About Jamie Ager
-Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
+“No matter who we face in November, I’m confident we can win this race and deliver what I’ve been talking about since day one: Hurricane Helene recovery, lower costs, and an end to the corruption in Washington.” About Jamie Ager Jamie Ager is a fourth-generation farmer, entrepreneur, and proud son of Western North Carolina.
 Born in Fairview and raised on his family’s Hickory Nut Gap Farm, Jamie has spent his life growing food, building community, and working with people.
 From a young age, Jamie was taught the values of public service, hard work, and neighborliness.
 Jamie graduated from A.C.
@@ -24,4 +18,4 @@ As the proud father of three sons, Jamie cares deeply about our future.
 He’s concerned about big challenges like recovering from Hurricane Helene, affordability for working families, and preserving our environment and culture.
 He’s also outspoken about the need to support local businesses and putting Western North Carolina first.
 He’s never been afraid to stand up for what’s right, even if it means speaking out against his own party or taking on extremists.
-###
+### Return to all press Paid for by Ager for Congress Website proudly designed by Express Lane Strategies with real human labor & creativity, not artificial intelligence. team@agerforcongress.com PO Box 64 Fairview, NC 28730 Copyright © #–# Ager for Congress | Privacy Policy | Media

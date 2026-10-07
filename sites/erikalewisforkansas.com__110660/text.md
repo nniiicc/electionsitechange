@@ -1,5 +1,5 @@
-Putting People Before Politics
-Welcome, and thank you for visiting.
+Home Meet Erika Photos Issues Contribute Volunteer Yard Signs Contact Support Our Campaign Make a Contribution Today Click Here to Contribute Join the Campaign Become a Volunteer Click Here to Sign Up Show Your Support!
+Request a Yard Sign Click Here to Request a Sign Putting People Before Politics Welcome, and thank you for visiting.
 My name is Erika Lewis, and I am running to represent Kansas House District 98 because I believe our communities deserve practical leadership, honest conversations, and solutions that put people first.
 Whether you're a lifelong Republican, Democrat, Independent, or someone who feels disconnected from politics altogether, you're welcome here.
 Like many families across Kansas, I've experienced the challenges facing our communities firsthand.
@@ -12,3 +12,6 @@ Together, we can strengthen our schools, support working families, promote respo
 I invite you to explore this website, learn more about my vision for District 98, and discover how you can become part of this campaign.
 Whether through your vote, your ideas, your volunteer efforts, or your financial support, your involvement matters.
 Let's build a stronger future for Kansas—together.
+Make a Donation Our campaign is powered by your donations. $# $# $# $# $# $# $1000 Other Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+Meet Erika Issues Photos Volunteer Yard Signs Contact Contribute Privacy (316) 247-2255 PO Box 28, Haysville, KS 67060 Paid for by Erika Lewis for Kansas Treasurer: Christine Pruitt Powered by CampaignPartner.com - Political Campaign Websites Home Meet Erika Issues Volunteer Yard Signs Contact Contribute Close Menu

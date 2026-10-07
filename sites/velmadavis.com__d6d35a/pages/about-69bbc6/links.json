@@ -1,17 +1,66 @@
 [
-"https://chapters.assistanceleague.org/chapter/wichita",
-"https://facebook.com/profile.php?id=61582422245043",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/vdavis4kansas",
-"https://kansasappleseed.org/",
-"https://onenationovercharged.com/",
-"https://plannedparenthood.org/",
-"https://sedgwickcountydemocraticwomen.com/",
-"https://velmadavis.com/",
-"https://velmadavis.com/about",
-"https://velmadavis.com/contact",
-"https://velmadavis.com/donate",
-"https://velmadavis.com/privacy-policy",
-"https://velmadavis.com/terms-of-use",
-"https://velmadavis.com/voting"
+{
+"text": "About",
+"href": "https://velmadavis.com/about"
+},
+{
+"text": "Assistance League of Wichita",
+"href": "https://chapters.assistanceleague.org/chapter/wichita/"
+},
+{
+"text": "Contact",
+"href": "https://velmadavis.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://velmadavis.com/donate"
+},
+{
+"text": "Home",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Kansas Appleseed",
+"href": "https://www.kansasappleseed.org/"
+},
+{
+"text": "One Nation Overcharged",
+"href": "https://onenationovercharged.com/"
+},
+{
+"text": "Planned Parenthood",
+"href": "https://www.plannedparenthood.org/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://velmadavis.com/privacy-policy"
+},
+{
+"text": "Sedgwick County Democratic Women",
+"href": "https://sedgwickcountydemocraticwomen.com/"
+},
+{
+"text": "Terms of Use",
+"href": "https://velmadavis.com/terms-of-use"
+},
+{
+"text": "Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91Velma Davis for KS House of Rep - Dist 91",
+"href": "https://velmadavis.com/"
+},
+{
+"text": "Voting",
+"href": "https://velmadavis.com/voting"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61582422245043"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vdavis4kansas/"
+}
 ]

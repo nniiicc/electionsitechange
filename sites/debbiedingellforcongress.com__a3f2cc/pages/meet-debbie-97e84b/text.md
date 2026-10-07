@@ -1,7 +1,4 @@
-Debbie Dingell is a
-tireless fighter
-for Working Families in Michigan
-She knows that we can accomplish more by working together on critical issues like protecting our Great Lakes, lowering the costs of healthcare, improving our infrastructure, and creating jobs by supporting manufacturing and leveling the playing field for our workers.
+Skip to content Debbie Dingell for Congress Working, Listening, and Delivering Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Facebook page opens in new window X page opens in new window DONATE Meet Debbie Issues Endorsements The District Get Involved 2026 Request A Yard Sign Volunteer Store Meet Debbie Debbie Dingell is a tireless fighter for Working Families in Michigan She knows that we can accomplish more by working together on critical issues like protecting our Great Lakes, lowering the costs of healthcare, improving our infrastructure, and creating jobs by supporting manufacturing and leveling the playing field for our workers.
 A noted leader in improving civility in our public discourse, she strongly believes that we can disagree with one another without being disagreeable.
 With values instilled by her Catholic education, Debbie’s activism started at a young age and took root in her passion for issues important to women and children.
 Prior to being elected to Congress, she successfully fought to have women included in federally-funded health research and advocated for greater awareness of issues directly related to women’s health, including breast cancer and women’s heart health.
@@ -25,3 +22,4 @@ She has told her personal story on how she was raised in a household with someon
 This inspired her to found the Bipartisan Working Group to End Domestic Violence, which has rallied support around the re-authorization of the Violence Against Women Act and the narrowing of the dangerous “boyfriend loophole.” As Co-Chair of the Medicare for All Caucus, Debbie has also been a leader on the fight for Medicare For All, and her advocacy on the issue led to the first Congressional hearings on her bill.
 Her hard work has not gone unnoticed.
 She was recognized as one of the 25 hardest-working Members of Congress, as well as one of the 100 most influential women in Michigan by Crain’s Magazine and one of the 100 most influential women in Washington, DC by the Washingtonian magazine.
+Stand with Debbie JOIN THE TEAM View this profile on Instagram Debbie Dingell (@ debbiedingell ) • Instagram photos and videos Debbie Dingell Tweets by DebDingell $10 $25 $50 $100 DONATE Meet Debbie Issues Endorsements The District Get Involved reach us at info@debbiedingellforcongress.com Paid for by Debbie Dingell for Congress Go to Top Join the Team! ×

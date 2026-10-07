@@ -1,5 +1,4 @@
-by promoting conservative, free market principles, keeping unemployment at an all-time low, and ensuring opportunity for all of our citizens
-VALUES
-by championing the unborn, promoting religious freedom and the Second Amendment, and holding to family values that make Alabama and America great
-FAMILIES
-by working to make certain our children receive a first-class education, stopping illegal immigration, strengthening healthcare, and improving access to rural broadband
+top of page HOME MEET LARRY ISSUES More Use tab to navigate through the menu items.
+Senator Larry Stutts JOIN OUR MAILING LIST!
+JOBS by promoting conservative, free market principles, keeping unemployment at an all-time low, and ensuring opportunity for all of our citizens VALUES by championing the unborn, promoting religious freedom and the Second Amendment, and holding to family values that make Alabama and America great FAMILIES by working to make certain our children receive a first-class education, stopping illegal immigration, strengthening healthcare, and improving access to rural broadband Re-Elect Larry Stutts Play Video Watch Now Facebook Twitter Pinterest Tumblr Copy Link Link Copied Close Send Your information was sent successfully!
+Funded by Stutts for Senate | PO Box 1014 | Tuscumbia, AL 35674 JOIN LARRY'S CONVERSATION: HOME MEET LARRY ISSUES More Use tab to navigate through the menu items. bottom of page

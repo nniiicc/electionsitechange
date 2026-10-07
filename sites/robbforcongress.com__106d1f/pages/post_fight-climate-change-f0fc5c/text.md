@@ -1,7 +1,4 @@
-Fight Climate Change
-Updated: Mar 22
-This Is the Only Earth We Get
-I grew up in Cleveland, Ohio, less than a mile from Lake Erie.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Fight Climate Change Jun 2, 2025 2 min read Updated: Mar 22 This Is the Only Earth We Get I grew up in Cleveland, Ohio, less than a mile from Lake Erie.
 Every summer, we’d head down to the water.
 Swim.
 Sit in the sun.
@@ -30,11 +27,7 @@ And it’s preventable.
 But instead of acting, too many politicians take money from companies that profit from pollution, and then pretend nothing is wrong.
 That’s not leadership.
 That’s a choice.
-Here’s what needs to change:
-- We need to move to clean energy like wind and solar that creates jobs and reduces pollution
-- We need to protect our land and water so communities aren’t left dealing with the consequences
-- And we need to hold polluters accountable when they put people’s health at risk
-Because no one should get rich by making your air or water unsafe.
+Here’s what needs to change: We need to move to clean energy like wind and solar that creates jobs and reduces pollution We need to protect our land and water so communities aren’t left dealing with the consequences And we need to hold polluters accountable when they put people’s health at risk Because no one should get rich by making your air or water unsafe.
 This isn’t about politics.
 It’s about control over your own life.
 When your air is polluted, you don’t get to opt out.
@@ -53,4 +46,4 @@ It’s about the world we leave behind.
 We don’t get a second Earth.
 And we don’t get to ignore what’s happening.
 The question isn’t whether we can act.
-It’s whether we will.
+It’s whether we will. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

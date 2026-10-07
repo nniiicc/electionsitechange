@@ -1,15 +1,78 @@
 [
-"https://davidsandersindiana.com/",
-"https://davidsandersindiana.com/about-david",
-"https://davidsandersindiana.com/campaign-photos",
-"https://davidsandersindiana.com/campaign-videos",
-"https://davidsandersindiana.com/david-in-the-news",
-"https://davidsandersindiana.com/events",
-"https://davidsandersindiana.com/on-the-issues",
-"https://facebook.com/SandersforIndianaSenate",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/davidfordistrict23",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+{
+"text": "About David",
+"href": "https://davidsandersindiana.com/about-david"
+},
+{
+"text": "CAMPAIGN VIDEOS",
+"href": "https://davidsandersindiana.com/campaign-videos"
+},
+{
+"text": "Campaign Photos",
+"href": "https://davidsandersindiana.com/campaign-photos"
+},
+{
+"text": "David in the News",
+"href": "https://davidsandersindiana.com/david-in-the-news"
+},
+{
+"text": "Events",
+"href": "https://davidsandersindiana.com/events"
+},
+{
+"text": "Home",
+"href": "https://davidsandersindiana.com/"
+},
+{
+"text": "Learn More",
+"href": "https://davidsandersindiana.com/about-david"
+},
+{
+"text": "On the Issues",
+"href": "https://davidsandersindiana.com/on-the-issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Read my Positions",
+"href": "https://davidsandersindiana.com/on-the-issues"
+},
+{
+"text": "Support the Campaign",
+"href": "https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://davidsandersindiana.com/about-david"
+},
+{
+"text": "[image]",
+"href": "https://davidsandersindiana.com/on-the-issues"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SandersforIndianaSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/davidfordistrict23/"
+},
+{
+"text": "donate today",
+"href": "https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+}
 ]

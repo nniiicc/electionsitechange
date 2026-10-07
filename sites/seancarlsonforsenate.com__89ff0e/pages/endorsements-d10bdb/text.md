@@ -1,12 +1,7 @@
-"I am proud to endorse Sean Carlson as the next state Senator to represent our community in Lansing.
+Skip navigation menu Home Meet Sean Priorities Endorsements Get Involved News Donate Endorsements Home Meet Sean Priorities Endorsements Get Involved News Donate Endorsements "I am proud to endorse Sean Carlson as the next state Senator to represent our community in Lansing.
 Throughout his decades of public service to our community, state, and country, Sean has shown time and again that he has the leadership, integrity, and commitment to fight for all of us.
 Now more than ever, Lansing needs proven leaders like Sean Carlson.
-I look forward to doing everything I can to support his candidacy."
-"Sean is an innovative leader who will be ready on day one to fight for Oakland County families in Lansing."
-OAKLAND COUNTY EXECUTIVE DAVE COULTER
-"Sean brings the kind of leadership and integrity our communities deserve.
+I look forward to doing everything I can to support his candidacy." STATE SENATOR ROSEMARY BAYER "Sean is an innovative leader who will be ready on day one to fight for Oakland County families in Lansing." OAKLAND COUNTY EXECUTIVE DAVE COULTER "Sean brings the kind of leadership and integrity our communities deserve.
 He works tirelessly and gets results.
-I look forward to supporting his campaign for Senate and working with him in Lansing."
-STATE REPRESENTATIVE KELLY BREEN
-"Sean is a leader who gets things done.
-I'm ready to work with him in Lansing to bring down costs, expand opportunity, and ensure every family has access to strong schools and good-paying jobs."
+I look forward to supporting his campaign for Senate and working with him in Lansing." STATE REPRESENTATIVE KELLY BREEN "Sean is a leader who gets things done.
+I'm ready to work with him in Lansing to bring down costs, expand opportunity, and ensure every family has access to strong schools and good-paying jobs." STATE REPRESENTATIVE JASON MORGAN Noah Arbit State representative Brenda Carter State Representative Jeremy Moss State Senator Marcia Gershenson Oakland county commissioner Gwen Markham oakland county commissioner Angela Powell Oakland county commissioner Linnie Taylor Oakland county commissioner Lisa Dilg south lyon city council member Powered by RUN! website builder Paid for by Sean Carlson for State Senate PO Box 217, 1150 Atlantic Street Milford, MI 48381 You need to enable JavaScript to run this app.

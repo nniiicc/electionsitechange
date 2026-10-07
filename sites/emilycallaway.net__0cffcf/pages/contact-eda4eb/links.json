@@ -1,11 +1,46 @@
 [
-"https://emilycallaway.net/",
-"https://emilycallaway.net/about",
-"https://emilycallaway.net/contact",
-"https://emilycallaway.net/issues",
-"https://emilycallaway.net/privacy-policy",
-"https://emilycallaway.net/volunteer",
-"https://facebook.com/EmilyCallawayforKYHouse37",
-"https://ryvall.com/",
-"https://secure.anedot.com/42a32f63-2dbb-430f-8187-d112ab5fb15c/811964b5-be14-4626-9dd2-2feb790befbb"
+{
+"text": "About",
+"href": "https://www.emilycallaway.net/about"
+},
+{
+"text": "Contact",
+"href": "https://www.emilycallaway.net/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/42a32f63-2dbb-430f-8187-d112ab5fb15c/811964b5-be14-4626-9dd2-2feb790befbb"
+},
+{
+"text": "Home",
+"href": "https://www.emilycallaway.net/"
+},
+{
+"text": "Issues",
+"href": "https://www.emilycallaway.net/issues"
+},
+{
+"text": "Powered by Ryvall",
+"href": "https://ryvall.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.emilycallaway.net/privacy-policy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.emilycallaway.net/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/EmilyCallawayforKYHouse37"
+},
+{
+"text": "[no text]",
+"href": "https://secure.anedot.com/42a32f63-2dbb-430f-8187-d112ab5fb15c/811964b5-be14-4626-9dd2-2feb790befbb"
+},
+{
+"text": "[no text]",
+"href": "https://www.emilycallaway.net/contact"
+}
 ]

@@ -1,9 +1,38 @@
 [
-"https://mauricewest.com/",
-"https://mauricewest.com/cart",
-"https://mauricewest.com/contact",
-"https://mauricewest.com/donations-1",
-"https://mauricewest.com/meet-maurice",
-"https://mauricewest.com/platform",
-"https://secure.actblue.com/donate/westforrockford"
+{
+"text": "0",
+"href": "https://www.mauricewest.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.mauricewest.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mauricewest.com/donations-1"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/westforrockford"
+},
+{
+"text": "Home",
+"href": "https://www.mauricewest.com/"
+},
+{
+"text": "Meet Maurice",
+"href": "https://www.mauricewest.com/meet-maurice"
+},
+{
+"text": "Platform",
+"href": "https://www.mauricewest.com/platform"
+},
+{
+"text": "[image: MAURICE WEST FOR MAYOR]",
+"href": "https://www.mauricewest.com/"
+},
+{
+"text": "info@mauricewest.com",
+"href": "mailto:info@mauricewest.com"
+}
 ]

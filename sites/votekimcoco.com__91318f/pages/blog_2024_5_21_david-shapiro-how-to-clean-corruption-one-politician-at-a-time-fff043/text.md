@@ -1,2 +1,4 @@
-David Shapiro: How to clean corruption?
-One politician at a time Originally published in the Star-Advertiser May 19, 2024 Kim Coco IwamotoMay 21, 2024 Facebook0 Twitter Tumblr 0 Likes
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me David Shapiro: How to clean corruption?
+One politician at a time Originally published in the Star-Advertiser May 19, 2024 Kim Coco Iwamoto May 21, 2024 Facebook 0 Twitter Tumblr 0 Likes Previous The Headlines Speak For Themselves Kim Coco Iwamoto July 12, 2024 Next Column: Don’t pass more tax cuts for wealthy Kim Coco Iwamoto April 11, 2024 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

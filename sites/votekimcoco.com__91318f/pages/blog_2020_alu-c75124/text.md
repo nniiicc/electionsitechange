@@ -1,5 +1,4 @@
-ACADEMIC LABOR UNITED STANDS FOR EQUALITY
-July 21, 2020 – Here's a little known fact.
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me ACADEMIC LABOR UNITED STANDS FOR EQUALITY July 21, 2020 – Here's a little known fact.
 Hawaii State law prevents Academic Labor United from negotiating fair wages and benefits for more than 1,000 University of Hawaii graduate assistants.
 Why shouldn't they have the same labor rights as many other campus employees and professors do?
 The University must be a place of equality and access that sets the foundation for all to write their own success story.
@@ -8,14 +7,11 @@ And those who teach, grade and perform other educator duties should be able to o
 This endorsement from Academic Labor United is acknowledgment of an idea whose time has come.
 Universities across the nation are awakening to the obvious fact that graduate assistants are performing the valuable work of educators.
 I believe that all unions, and all those elected into office with the help of unions, should stand in solidarity with ALU - and with any worker who seeks to earn a livable wage.
-P.S. - Read our July 21 campaign newsletter here.
+P.S. - Read our July 21 campaign newsletter here .
 Join us and let your voice be heard at the August 8 election for State House Representative of District 26.
 The 26th State House District encompasses McCully, Kaheka, Ala Moana, Kakaako, and Downtown Honolulu.
-Issued by Academic Labor United
-ACADEMIC LABOR UNITED ENDORSES KIM COCO IWAMOTO
-FOR STATE REPRESENTATIVE
-Academic Labor United has voted to formally endorse Kim Coco Iwamoto for State Representative, House District 26.
-ALU’s goal is to formally unionize more than 1,000 graduate assistants at the University of Hawaiʻi.
+Issued by Academic Labor United ACADEMIC LABOR UNITED ENDORSES KIM COCO IWAMOTO FOR STATE REPRESENTATIVE Academic Labor United has voted to formally endorse Kim Coco Iwamoto for State Representative, House District 26.
+ALU’s goal is to formally unionize more than 1,000 graduate assistants at the University of Hawaiʻi .
 However, state law exempts graduate students from the right to collective bargaining and so we must seek legislative action before forming a union.
 Kim Coco has demonstrated her support of and commitment to workers and our rights.
 Impending austerity measures and changing university policy is certain to place undue burden on already underpaid, overworked GAs.
@@ -27,6 +23,10 @@ At age ten, Kim Coco Iwamoto began working, delivering newspapers after school f
 She became an advocate for workers’ rights after she had been terminated from her job for being transgender at a time when laws permitted employers to discriminate on this basis.
 In response, Kim Coco enrolled in law school, passed the bar in Hawaiʻi, then became an active member of the coalition that expanded worker protections throughout the state.
 Kim Coco Iwamoto has attracted hundreds of volunteers to her campaign - they share her recognition that the Legislature’s status quo leadership has led Hawaiʻi to the precipice of economic disaster.
-She is fully in support of the unionization of all workers in Hawaiʻi including student workers.
+She is fully in support of the unionization of all workers in Hawaiʻi including student workers .
 Kim Coco champions a politics in service of working class people, not tourism, the Chamber of Commerce, and CEOs.
 Recently, she has worked in service of raising the Hawaiʻi minimum wage to a living wage and ending housing insecurity.
+Kim Coco Iwamoto July 21, 2020 Facebook 0 Twitter Tumblr 0 Likes Previous PONO HAWAI`I INITIATIVE SAYS NO TO THE STATUS QUO Kim Coco Iwamoto July 29, 2020 Next WE ALL AGREE WITH MRS.
+HARADA Kim Coco Iwamoto July 17, 2020 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

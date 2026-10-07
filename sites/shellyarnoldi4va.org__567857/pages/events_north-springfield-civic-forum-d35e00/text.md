@@ -1,0 +1,6 @@
+SA Shelly Arnoldi for Virginia's 8th Home About Priorities Events Endorsements Get Involved Donate ← All Events Town Hall North Springfield Civic Association Candidate Forum Time & Location 📅 Wednesday, October 7, 2026, 7:30 PM – 9:00 PM 📍 North Springfield Elementary School North Springfield Elementary School, 7602 Heming Ct, North Springfield, VA 22151, USA About the Event North Springfield Civic Association Candidate Forum NSCA General Meetings are held at North Springfield Elementary School, 7602 Heming Cr, Springfield, VA 22151.
+You do not need to be a NSCA member to attend.
+For individuals perferring to attend the meeing virtually, use the following information: Zoom Link: Go to [Facebeook](https://www.facebook.com/groups/425706394208940) page for link RSVP for This Event Email * Name * Phone ZIP Code Number of Guests Just me 2 guests 3 guests 4 guests 5+ guests Notes (optional) RSVP Now Shelly Arnoldi Candidate for Virginia's 8th Congressional District.
+Integrity.
+Courage.
+Commitment. 📞 (202) 285-7474 ✉ [email protected] X / Twitter Facebook Campaign About Shelly Priorities Get Involved Events Donate Stay Informed Join the Campaign Endorsed by the Libertarian Party of Northern Virginia Paid for by Shelly Arnoldi for Virginia.

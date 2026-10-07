@@ -1,16 +1,6 @@
-Contact
-For General Inquires:
-E-mail: Info@MikeKennedyforUtah.com
-Phone: (801) 210-1656
-For Media Inquiries:
-E-mail: Joe@TacticalCampaigns.com
-Approved Campaign Headshots and Photos
-Click below on an image to open it in a new tab.
+Skip to the content Mike Kennedy for Utah Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Close Menu Home Meet Mike Results & Priorities News Join the Team Contact Donate Contact Contact For General Inquires: E-mail: Info@MikeKennedyforUtah.com Phone: (801) 210-1656 For Media Inquiries: E-mail: Joe@TacticalCampaigns.com Approved Campaign Headshots and Photos Click below on an image to open it in a new tab.
 Desktop users can right-click to save, and mobile users can press and hold on a touch screen to save.
-Help put Utah ahead of special interests.
-Mike Kennedy for Utah • 55 N Merchant Street #1324 • American Fork, UT 84003
-Paid for by Mike Kennedy for Utah
-Contributions to Mike Kennedy for Utah are not deductible for Federal income tax purposes.
+Help put Utah ahead of special interests. $17.76 $25 $50 $100 $1000 $3500 Donate Home Meet Mike Issues News Join the Team Donate Mike Kennedy for Utah • 55 N Merchant Street #1324 • American Fork, UT 84003 Paid for by Mike Kennedy for Utah Contributions to Mike Kennedy for Utah are not deductible for Federal income tax purposes.
 Funds received in response to this solicitation are subject to federal contribution limits.
 Contributions from corporations, foreign nationals without green cards, and federal government contractors are prohibited.
-Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer for individuals whose contributions exceed $200 in an election cycle.
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer for individuals whose contributions exceed $200 in an election cycle. © 2026 Mike Kennedy for Utah Powered by WordPress To the top ↑ Up ↑

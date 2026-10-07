@@ -1,33 +1,270 @@
 [
-"https://2amike4congress.org/",
-"https://2amike4congress.org/library",
-"https://2amike4congress.org/melting-dollar",
-"https://2amike4congress.org/news",
-"https://2amike4congress.org/news/the-dollar-in-your-wallet",
-"https://2amike4congress.org/papers",
-"https://2amike4congress.org/papers/health-insurance-scam",
-"https://2amike4congress.org/papers/open-the-books",
-"https://2amike4congress.org/papers/restore-sound-money",
-"https://2amike4congress.org/papers/restore-the-militia",
-"https://2amike4congress.org/papers/wealthy-again",
-"https://facebook.com/people/The-Committee-to-Elect-Michael-Stoddard-to-Congress/61592288286352",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2F%3Fv%3D3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fhealth-insurance-scam%3Fv%3D3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fopen-the-books%3Fv%3D3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-sound-money%3Fv%3D3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-the-militia%3Fv%3D3",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fwealthy-again%3Fv%3D3",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=10",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=100",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=25",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=250",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=50",
-"https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=500",
-"https://twitter.com/intent/tweet?text=It+Was+Never+Insurance.+End+the+Health+Insurance+Scam%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fhealth-insurance-scam%3Fv%3D3",
-"https://twitter.com/intent/tweet?text=Make+Americans+Wealthy+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fwealthy-again%3Fv%3D3",
-"https://twitter.com/intent/tweet?text=Michael+Stoddard+%E2%80%94+C.P.A.+%26+C.F.P.%2C+Libertarian+for+Congress+in+Utah%27s+3rd+District.+Sound+money%2C+honest+budgets%2C+a+fighting+chance+for+the+working+class.&url=https%3A%2F%2F2amike4congress.org%2F%3Fv%3D3",
-"https://twitter.com/intent/tweet?text=Restore+Accountability.+Open+the+Books%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fopen-the-books%3Fv%3D3",
-"https://twitter.com/intent/tweet?text=Restore+Sound+Money.+Make+America+Affordable+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-sound-money%3Fv%3D3",
-"https://twitter.com/intent/tweet?text=Restore+the+Militia+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-the-militia%3Fv%3D3",
-"https://x.com/MikeAuditUSGov"
+{
+"text": "$ Melting Dollar",
+"href": "https://2amike4congress.org/melting-dollar"
+},
+{
+"text": "$10",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.anedot.com/the-committee-to-elect-michael-stoddard-to-congress/donate?source_code=website&amount=500"
+},
+{
+"text": "01Issues",
+"href": "https://2amike4congress.org/#issues"
+},
+{
+"text": "02Meet Mike",
+"href": "https://2amike4congress.org/#bio"
+},
+{
+"text": "03Papers",
+"href": "https://2amike4congress.org/papers"
+},
+{
+"text": "04Library",
+"href": "https://2amike4congress.org/library"
+},
+{
+"text": "05News",
+"href": "https://2amike4congress.org/news"
+},
+{
+"text": "06Volunteer",
+"href": "https://2amike4congress.org/#volunteer"
+},
+{
+"text": "801-899-9569",
+"href": "tel:+18018999569"
+},
+{
+"text": "Chip in →",
+"href": "https://2amike4congress.org/#donate"
+},
+{
+"text": "Donate",
+"href": "https://2amike4congress.org/#donate"
+},
+{
+"text": "Donate →",
+"href": "https://2amike4congress.org/#donate"
+},
+{
+"text": "Explore reading and YouTube list →",
+"href": "https://2amike4congress.org/library#lib-open-the-books"
+},
+{
+"text": "Explore reading and YouTube list →",
+"href": "https://2amike4congress.org/library#lib-restore-sound-money"
+},
+{
+"text": "Explore reading and YouTube list →",
+"href": "https://2amike4congress.org/library#lib-restore-the-militia"
+},
+{
+"text": "Issues",
+"href": "https://2amike4congress.org/#issues"
+},
+{
+"text": "Library",
+"href": "https://2amike4congress.org/library"
+},
+{
+"text": "Meet Mike",
+"href": "https://2amike4congress.org/#bio"
+},
+{
+"text": "News",
+"href": "https://2amike4congress.org/news"
+},
+{
+"text": "Open the full library →",
+"href": "https://2amike4congress.org/library"
+},
+{
+"text": "Papers",
+"href": "https://2amike4congress.org/papers"
+},
+{
+"text": "Position Papers",
+"href": "https://2amike4congress.org/papers"
+},
+{
+"text": "Press inquiries",
+"href": "mailto:info@2amike4congress.org"
+},
+{
+"text": "Read the full position paper →",
+"href": "https://2amike4congress.org/papers/health-insurance-scam"
+},
+{
+"text": "Read the full position paper →",
+"href": "https://2amike4congress.org/papers/open-the-books"
+},
+{
+"text": "Read the full position paper →",
+"href": "https://2amike4congress.org/papers/restore-sound-money"
+},
+{
+"text": "Read the full position paper →",
+"href": "https://2amike4congress.org/papers/restore-the-militia"
+},
+{
+"text": "Read the full position paper →",
+"href": "https://2amike4congress.org/papers/wealthy-again"
+},
+{
+"text": "Read the paper",
+"href": "https://2amike4congress.org/papers/restore-sound-money"
+},
+{
+"text": "Read the planks",
+"href": "https://2amike4congress.org/#issues"
+},
+{
+"text": "Run the numbers →",
+"href": "https://2amike4congress.org/melting-dollar"
+},
+{
+"text": "The Dollar in Your Wallet",
+"href": "https://2amike4congress.org/news/the-dollar-in-your-wallet"
+},
+{
+"text": "View all posts →",
+"href": "https://2amike4congress.org/news"
+},
+{
+"text": "Volunteer",
+"href": "https://2amike4congress.org/#volunteer"
+},
+{
+"text": "[image: Michael Stoddard campaign eagle emblem] MICHAEL STODDARD Libertarian · Utah 3rd District",
+"href": "https://2amike4congress.org/"
+},
+{
+"text": "[image] MICHAEL STODDARD",
+"href": "https://2amike4congress.org/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/people/The-Committee-to-Elect-Michael-Stoddard-to-Congress/61592288286352/"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/MikeAuditUSGov"
+},
+{
+"text": "f",
+"href": "https://www.facebook.com/people/The-Committee-to-Elect-Michael-Stoddard-to-Congress/61592288286352/"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2F%3Fv%3D3"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fhealth-insurance-scam%3Fv%3D3"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fopen-the-books%3Fv%3D3"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-sound-money%3Fv%3D3"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-the-militia%3Fv%3D3"
+},
+{
+"text": "f Share on Facebook",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2amike4congress.org%2Fissues%2Fwealthy-again%3Fv%3D3"
+},
+{
+"text": "info@2amike4congress.org",
+"href": "mailto:info@2amike4congress.org"
+},
+{
+"text": "№ 01 Accountability Restore Accountability. Open the Books! 0 read 4 articles 1 watch",
+"href": "https://2amike4congress.org/library#lib-open-the-books"
+},
+{
+"text": "№ 02 Sound Money Restore Sound Money. Make America Affordable Again! 3 read 3 articles 2 watch",
+"href": "https://2amike4congress.org/library#lib-restore-sound-money"
+},
+{
+"text": "№ 03 Second Amendment Restore the Militia 3 read 4 articles 2 watch",
+"href": "https://2amike4congress.org/library#lib-restore-the-militia"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=It+Was+Never+Insurance.+End+the+Health+Insurance+Scam%21&body=It+Was+Never+Insurance.+End+the+Health+Insurance+Scam%21+%E2%80%94+where+Mike+stands.+Read+it%3Ahttps%3A%2F%2F2amike4congress.org%2Fissues%2Fhealth-insurance-scam%3Fv%3D3"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=Make+Americans+Wealthy+Again%21&body=Make+Americans+Wealthy+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3Ahttps%3A%2F%2F2amike4congress.org%2Fissues%2Fwealthy-again%3Fv%3D3"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=Restore+Accountability.+Open+the+Books%21&body=Restore+Accountability.+Open+the+Books%21+%E2%80%94+where+Mike+stands.+Read+it%3Ahttps%3A%2F%2F2amike4congress.org%2Fissues%2Fopen-the-books%3Fv%3D3"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=Restore+Sound+Money.+Make+America+Affordable+Again%21&body=Restore+Sound+Money.+Make+America+Affordable+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3Ahttps%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-sound-money%3Fv%3D3"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=Restore+the+Militia&body=Restore+the+Militia+%E2%80%94+where+Mike+stands.+Read+it%3Ahttps%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-the-militia%3Fv%3D3"
+},
+{
+"text": "✉ Email a link",
+"href": "mailto:?subject=Share&body=Michael+Stoddard+%E2%80%94+C.P.A.+&+C.F.P.%2C+Libertarian+for+Congress+in+Utah%27s+3rd+District.+Sound+money%2C+honest+budgets%2C+a+fighting+chance+for+the+working+class.https%3A%2F%2F2amike4congress.org%2F%3Fv=3"
+},
+{
+"text": "𝕏",
+"href": "https://x.com/MikeAuditUSGov"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=It+Was+Never+Insurance.+End+the+Health+Insurance+Scam%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fhealth-insurance-scam%3Fv%3D3"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=Make+Americans+Wealthy+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fwealthy-again%3Fv%3D3"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=Michael+Stoddard+%E2%80%94+C.P.A.+%26+C.F.P.%2C+Libertarian+for+Congress+in+Utah%27s+3rd+District.+Sound+money%2C+honest+budgets%2C+a+fighting+chance+for+the+working+class.&url=https%3A%2F%2F2amike4congress.org%2F%3Fv%3D3"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=Restore+Accountability.+Open+the+Books%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Fopen-the-books%3Fv%3D3"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=Restore+Sound+Money.+Make+America+Affordable+Again%21+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-sound-money%3Fv%3D3"
+},
+{
+"text": "𝕏 Post on X",
+"href": "https://twitter.com/intent/tweet?text=Restore+the+Militia+%E2%80%94+where+Mike+stands.+Read+it%3A&url=https%3A%2F%2F2amike4congress.org%2Fissues%2Frestore-the-militia%3Fv%3D3"
+}
 ]

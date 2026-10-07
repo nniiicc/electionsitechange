@@ -1,7 +1,34 @@
 [
-"https://facebook.com/JakeAshbyforNYSSenate",
-"https://jake-ashby.com/",
-"https://jake-ashby.com/about-jake",
-"https://secure.anedot.com/jakeashby/donate",
-"https://secure.anedot.com/jakeashby/volunteer"
+{
+"text": "About Jake",
+"href": "https://www.jake-ashby.com/about-jake"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jakeashby/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jake-ashby.com"
+},
+{
+"text": "Jake@Jake-Ashby.com",
+"href": "mailto:jake@jake-ashby.com"
+},
+{
+"text": "Volunteer",
+"href": "https://secure.anedot.com/jakeashby/volunteer"
+},
+{
+"text": "[image: ASHBY-logo.png]",
+"href": "https://www.jake-ashby.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JakeAshbyforNYSSenate"
+},
+{
+"text": "​",
+"href": "tel:(518)%20272-6149"
+}
 ]

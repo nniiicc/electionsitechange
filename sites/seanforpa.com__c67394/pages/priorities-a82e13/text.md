@@ -1,9 +1,3 @@
-Sean Dougherty’s Priorities for the Northeast
-Sean Dougherty’s Priorities for the Northeast
-As our state representative, Northeast Democrat Sean Dougherty goes to work every day to fight for the priorities we all share.
-In Harrisburg, Sean is working to:
-- Lower prices and make life more affordable
-- Keep our community safe and our justice system fair
-- Fund our schools and teachers so students thrive
-- Increase good-paying jobs with fair wages that support families
-To keep our community strong and safe, we need to keep Sean Dougherty fighting for us.
+Home Priorities About Sean Donate Select Page Sean Dougherty’s Priorities for the Northeast Sean Dougherty’s Priorities for the Northeast As our state representative, Northeast Democrat Sean Dougherty goes to work every day to fight for the priorities we all share.
+In Harrisburg, Sean is working to: Lower prices and make life more affordable Keep our community safe and our justice system fair Fund our schools and teachers so students thrive Increase good-paying jobs with fair wages that support families To keep our community strong and safe, we need to keep Sean Dougherty fighting for us.
+Paid for by Dougherty for State Rep Follow Follow

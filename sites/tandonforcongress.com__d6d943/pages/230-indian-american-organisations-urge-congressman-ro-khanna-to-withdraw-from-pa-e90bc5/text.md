@@ -1,6 +1,6 @@
-WASHINGTON: A record number of 230 Indian-American organisations in the US have urged Democratic Congressman Ro Khanna to withdraw from the Congressional Caucus on Pakistan, saying it was contrary to both American principles and India’s geo-strategic interests.
+Home Chinese Vietnamese Volunteering Donation Sign-Up Contact News Ro Khanna News 230 Indian-American organisations urge RO Khanna to withdraw from Pakistan Caucus January 6, 2020 WASHINGTON: A record number of 230 Indian-American organisations in the US have urged Democratic Congressman Ro Khanna to withdraw from the Congressional Caucus on Pakistan, saying it was contrary to both American principles and India’s geo-strategic interests.
 Khanna, 42, became the first Indian-American to have joined the Congressional Pakistan Caucus last month.
-He is also the member Congressional Caucus on India and Indian Americans, which is the largest country-specific caucus in the House of Representatives.
+He is also the member Congressional Caucus on India and Indian Americans , which is the largest country-specific caucus in the House of Representatives .
 In a letter submitted to the Indian-American lawmaker on Monday, Hindu and Indian-American organisations, professional associations and community leaders urged Khanna to withdraw from the Congressional Pakistan Caucus.
 A copy of the letter was released by the Hindu American Foundation (HAF).
 “As a leading member of the House India Caucus, Foreign Affairs Committee, and a champion of human rights, we are deeply troubled that you joined the Congressional Pakistan Caucus,” the letter stated.
@@ -11,6 +11,6 @@ Pakistan has shown a complete and utter disregard for human rights and religious
 We further urge you to write directly to Pakistani Prime Minister Imran Khan and meet with (Pakistan) Ambassador Asad Majeed Khan to address Pakistan’s ongoing use of terrorism to destabilise the region and its rampant and severe human rights violations,” it said.
 The letter further raises concerns with Congressman’s recent tweet on Hindutva and asked him to issue a clarification on the matter.
 Khanna, in a tweet last month, said that “it is the duty of every American politician of Hindu faith to stand for pluralism, reject Hindutva, and speak for equal rights for Hindus, Muslims, Sikhs, Buddhist and Christians”, triggering divisive views among the Indian-American community.
-The community members also urged Khanna to make a formal statement for the Congressional record, highlighting the ethnic cleansing of Kashmiri Pandits, who were driven out from their homes by Pakistan-sponsored terror campaign three decades ago.
+The community members also urged Khanna to make a formal statement for the Congressional record, highlighting the ethnic cleansing of Kashmiri Pandits , who were driven out from their homes by Pakistan-sponsored terror campaign three decades ago.
 The members said that they looked forward to Khanna following through on the assurances he made on Sunday about working to address the suffering of both Indian and Pakistani religious minorities at the hands of the Pakistan government.
-Source: The Economic Times
+Source : The Economic Times admin previous Schwab Abandons San Francisco next Ro Khanna, the anti-poverty crusader and messiah of plurality PAID FOR BY TANDON FOR CONGRESS Contact 1-800-700-600 ritesh@tandonforcongress.com Popular Links Home News How Can You Help Volunteering Donation Contact Terms & Conditions Privacy Policy

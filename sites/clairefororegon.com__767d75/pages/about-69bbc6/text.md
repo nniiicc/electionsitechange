@@ -1,5 +1,4 @@
-About Claire
-Claire Lynn is a seventh generation Oregonian and a proud Siuslaw High School graduate.
+0 Skip to Content Home About Priorities Endorsements Volunteer Contact District Map Donate Today Open Menu Close Menu Home About Priorities Endorsements Volunteer Contact District Map Donate Today Open Menu Close Menu Home About Priorities Endorsements Volunteer Contact District Map Donate Today About Claire Claire Lynn is a seventh generation Oregonian and a proud Siuslaw High School graduate.
 Claire’s family has been logging on the Oregon Coast for six generations, and still operates R&R King Logging/Crown Alaska Inc. based out of Florence.
 Claire was raised on the North Fork of the Siuslaw River where her family runs a cow-calf operation and produces their own hay in the summers.
 Claire grew up with a love for the outdoors, spending every fall hunting and fishing with her Dad.
@@ -19,3 +18,4 @@ Claire is currently a Court Appointed Special Advocate (CASA) in Lane County adv
 Claire considers herself blessed to still have both sets of grandparents in her life — Bobby and Kay King in Florence, and Gary and Karin Waggoner in Reedsport.
 Claire and her husband, Brodey, currently live outside of Elmira.
 She is running for State Representative to ensure families like hers can continue to live, work and thrive on Oregon’s South-Central Coast.
+Get Involved Donate Volunteer Contact Mailing Address Claire for Oregon PO Box 611, Elmira, OR 97437 Privacy Policy PAID FOR BY CLAIRE FOR OREGON © #

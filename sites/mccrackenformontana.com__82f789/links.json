@@ -1,6 +1,22 @@
 [
-"https://mccrackenformontana.com/",
-"https://mccrackenformontana.com/cart",
-"https://secure.anedot.com/mccracken-for-montana/donate",
-"https://twitter.com/mccracken4MT"
+{
+"text": "0",
+"href": "https://www.mccrackenformontana.com/cart"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/mccracken-for-montana/donate"
+},
+{
+"text": "Home",
+"href": "https://www.mccrackenformontana.com/"
+},
+{
+"text": "McCracken for Montana",
+"href": "https://www.mccrackenformontana.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/mccracken4MT"
+}
 ]

@@ -1,24 +1,21 @@
-State Lawmakers Field Bills to Empower Judges to Rethink Long Sentences
-The Providence Journal
-April 10, 2024
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Author: Meghan Kallman Homepage Meghan Kallman By Meghan Kallman April 25, 2024 State Lawmakers Field Bills to Empower Judges to Rethink Long Sentences State Lawmakers Field Bills to Empower Judges to Rethink Long Sentences The Providence Journal April 10, 2024 By Meghan Kallman January 30, 2024 Rhode Island needs robust, healthy public transit.
+RIPTA needs $110m to stay on track.
 Rhode Island needs robust, healthy public transit.
 RIPTA needs $110m to stay on track.
 Funding public transit is key to economic development, attracting talent, including younger workers, and will help solve staffing shortages.
 It’s essential to meeting Rhode Island’s climate goals, and a lifeline for the elderly and people with disabilities.
-Meghan E Kallman and Alana DiMario
-The Boston Globe, January 9, 2024
-Rhode Island carpenters union fights wage theft & tax fraud at annual tax day of action
-Carpenters Union Local 330 hosted their fourth-annual Tax Day of Action event, demanding lawmakers address rampant wage theft and employer tax fraud in Rhode Island.
+Meghan E Kallman and Alana DiMario The Boston Globe, January 9, 2024 By Meghan Kallman April 26, 2023 Rhode Island carpenters union fights wage theft & tax fraud at annual tax day of action Rhode Island carpenters union fights wage theft & tax fraud at annual tax day of action Carpenters Union Local 330 hosted their fourth-annual Tax Day of Action event, demanding lawmakers address rampant wage theft and employer tax fraud in Rhode Island.
 With tens of millions in lost tax revenue and wages, political leaders and union workers gathered to push for legislative change.
-UpriseRI
-April 19, 2023
-Strong, independent courts are vital to public safety
-Rhode Island must tell Immigration and Customs Enforcement to stop arresting suspected undocumented immigrants in municipal and state courtrooms and let public safety institutions do their jobs, without interference
-The Boston Globe
-April 5, 2023
-RIPTA’s R-Line fare-free pilot boosts ridership by 40%
-Rhode Island Public Transit Authority’s (RIPTA) R-Line free-fare pilot program has led to a 40% increase in ridership within six months.
+UpriseRI April 19, 2023 By Meghan Kallman April 26, 2023 Strong, independent courts are vital to public safety Strong, independent courts are vital to public safety Rhode Island must tell Immigration and Customs Enforcement to stop arresting suspected undocumented immigrants in municipal and state courtrooms and let public safety institutions do their jobs, without interference The Boston Globe April 5, 2023 By Meghan Kallman April 26, 2023 RIPTA’s R-Line fare-free pilot boosts ridership by 40% RIPTA’s R-Line fare-free pilot boosts ridership by 40% Rhode Island Public Transit Authority’s (RIPTA) R-Line free-fare pilot program has led to a 40% increase in ridership within six months.
 Launched in September 2022, the one-year pilot aims to study the costs and benefits of fare-free service, with findings suggesting better access to shopping and savings for passengers.
-UpriseRI
-March 31, 2023
-© Paid for by Friends of Meghan Kallman 2023
+UpriseRI March 31, 2023 By Meghan Kallman April 26, 2023 Workplace retirement programs build economic security Workplace retirement programs build economic security.
+AARP, April 2023 By Meghan Kallman April 26, 2023 Bill promotes housing development close to public transit hubs Bill promotes housing development close to public transit hubs.
+Sen.
+Meghan Kallman proposes zoning designation that connects people with easy access to buses or trains Rhode Island Current March 30, 2023 By Meghan Kallman April 26, 2023 Opinion: Good public transportation is what RI should be known for.
+Here’s why Opinion: Good public transportation is what RI should be known for.
+Here’s why The Providence Journal March 3, 2023 By Meghan Kallman April 26, 2023 How can RI reduce the number of women in prison?
+Panel says transitional housing is a start.
+How can RI reduce the number of women in prison?
+Panel says transitional housing is a start.
+The Providence Journal January 21, 2023 By Meghan Kallman May 14, 2022 Senate bill would create state Department of Housing Senate bill would create state Department of Housing: Senator Meghan Kallman introduces Create Homes Act, calling for $300 million in federal funds to launch effort to buy and build more homes in Rhode Island The Boston Globe May 13, 2022 Posts navigation 1 2 3 4 Search Search for: Search October 2026 M T W T F S S 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 « Jul <iframe src="https://forms.oneswitchboard.com/meghan4ri/email-signup" width="100%" height="-75" frameborder="0" style="border:0" allowfullscreen></iframe> Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

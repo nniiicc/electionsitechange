@@ -1,47 +1,23 @@
-Awards and Recognition
-Emerging Legislative Leaders Program (2011)
-The State Legislative Leaders Foundation selected Jason for its Emerging Legislative Leaders Program designed specifically for the next generation of leaders in our state legislatures.
+top of page JASON ROJAS STATE REPRESENTATIVE About Jason Why I Serve Issues Our District Awards Volunteer Contact More Use tab to navigate through the menu items.
+Awards and Recognition Emerging Legislative Leaders Program (2011) The State Legislative Leaders Foundation selected Jason for its Emerging Legislative Leaders Program designed specifically for the next generation of leaders in our state legislatures.
 Each year the program selects 50 of the best and brightest state legislators from across the nation to take part in 4 days of challenging professional development programs led by a team of professors at the Darden School School of Business at the University of Virginia.
-The program covers ethics, education, leadership, conflict resolution, history and political theory.
-Children's Champion (2011)
-The Connecticut Early Childhood Alliance recognized Jason as a Children's Champion in for his advocacy and support for expanding early high-quality early childhood programs that are essential to preparing children for life-long learning.
-HARC Governmental Leadership Award (2012)
-HARC Inc., a nonprofit organization dedicated to improving the lives of people with intellectual disability (ID) and their families, selected Jason for the Governmental Leadership Award for his support and advocacy for the civil rights of individuals with disabilities.
-Jason has visited a number of group homes in the district to have dinner with residents and staff to learn more about their needs and how the state can better support individuals with intellectual disabilities and their families.
-https://www.courant.com/news/connecticut/hc-xpm-2012-07-13-hcrs-63107hc-east-hartford-20120708-story.html
-First for Kids Legislative Leadership Award (2013)
-Connecticut Voices for Children selected Jason for its First for Kids Legislative Leadership Award for his advocacy and deep understanding of education reform, family violence prevention, increasing racial and socio-economic diversity in school choice, improving access to affordable housing and policies for improving intervention for at-risk youths.
-Connecticut Association for Adult and Continuing Education (2013)
-The Connecticut Association for Adult and Continuing Education honored Jason for his work in improving remedial education programs for first generation and low-income students at Manchester Community Colleges and other community colleges in Connecticut.
-Legislative Literacy Advocate Award (2013)
-The Connecticut Reading Association presented its 2013 Legislative Literacy Advocate Award to Jason for his groundbreaking work in creating CT Kindergarten to Third Grade Literacy Initiative.
-The program has improved reading success for thousands of students all over CT and also helped teachers across the state improve in how they teach reading.
-https://www.courant.com/community/hartford/hc-xpm-2013-04-12-hcrs-73364hc-greater-hartford-20130408-story.html
-Connecticut Farm Bureau Legislative Award (2014)
-In 2014, the Connecticut Farm Bureau selected Jason for its Legislative Award for his work in leading the passage of a complete overhaul of Connecticut’s Public Act 490 program which is critical to ensuring the preservation of farm, forest or open space.
+The program covers ethics, education, leadership, conflict resolution, history and political theory. ​ ​ Children's Champion (2011) The Connecticut Early Childhood Alliance recognized Jason as a Children's Champion in for his advocacy and support for expanding early high-quality early childhood programs that are essential to preparing children for life-long learning. ​ HARC Governmental Leadership Award (2012) HARC Inc., a nonprofit organization dedicated to improving the lives of people with intellectual disability (ID) and their families, selected Jason for the Governmental Leadership Award for his support and advocacy for the civil rights of individuals with disabilities.
+Jason has visited a number of group homes in the district to have dinner with residents and staff to learn more about their needs and how the state can better support individuals with intellectual disabilities and their families. https://www.courant.com/news/connecticut/hc-xpm-2012-07-13-hcrs-63107hc-east-hartford-20120708-story.html First for Kids Legislative Leadership Award (2013) Connecticut Voices for Children selected Jason for its First for Kids Legislative Leadership Award for his advocacy and deep understanding of education reform, family violence prevention, increasing racial and socio-economic diversity in school choice, improving access to affordable housing and policies for improving intervention for at-risk youths.
+Connecticut Association for Adult and Continuing Education (2013) The Connecticut Association for Adult and Continuing Education honored Jason for his work in improving remedial education programs for first generation and low-income students at Manchester Community Colleges and other community colleges in Connecticut.
+Legislative Literacy Advocate Award (2013)​ The Connecticut Reading Association presented its 2013 Legislative Literacy Advocate Award to Jason for his groundbreaking work in creating CT Kindergarten to Third Grade Literacy Initiative.
+The program has improved reading success for thousands of students all over CT and also helped teachers across the state improve in how they teach reading. https://www.courant.com/community/hartford/hc-xpm-2013-04-12-hcrs-73364hc-greater-hartford-20130408-story.html ​ Connecticut Farm Bureau Legislative Award (2014) In 2014, the Connecticut Farm Bureau selected Jason for its Legislative Award for his work in leading the passage of a complete overhaul of Connecticut’s Public Act 490 program which is critical to ensuring the preservation of farm, forest or open space.
 Jason also authored legislation that supported Overbrook Farm on Hillstown Road.
-Connecticut Community Development Association (2015)
-The Connecticut Community Development Association selected Jason as its Legislator of the Year for his support and advocacy of community development programs and funding.
-Jason helped strengthen policies that support and increased funding for affordable housing, expanded access to health & human services and resulted in more investment in our public municipal infrastructure. https://www.courant.com/community/east-hartford/rnw-eh-mr-award-for-rojas-0604-20150527-story.html
-Council of State Governments Henry Toll Fellowship (2016)
-The Council of State Governments selected Jason for a Henry Toll Fellowship.
+Connecticut Community Development Association (2015) The Connecticut Community Development Association selected Jason as its Legislator of the Year for his support and advocacy of community development programs and funding.
+Jason helped strengthen policies that support and increased funding for affordable housing, expanded access to health & human services and resulted in more investment in our public municipal infrastructure. https://www.courant.com/community/east-hartford/rnw-eh-mr-award-for-rojas-0604-20150527-story.html Council of State Governments Henry Toll Fellowship (2016) The Council of State Governments selected Jason for a Henry Toll Fellowship.
 The fellowship is one of the nation’s premier leadership development programs for state government officials.
 The Toll Fellows Program targets 48 outstanding rising state government officials from all three branches of service for an intensive five-day “leadership boot camp” that is designed as a “graduate” level learning program focused on conflict resolution, communication, community service and leadership development.
-CCM Legislator of the Year (2018)
-The Connecticut Conference of Municipalities selected Jason as its Legislator of the Year for his consistent work and advocacy for Connecticut’s towns and cities.
+CCM Legislator of the Year (2018) The Connecticut Conference of Municipalities selected Jason as its Legislator of the Year for his consistent work and advocacy for Connecticut’s towns and cities.
 Jason has served as the House Chairperson of the Finance, Revenue and Bonding Committee and the Planning and Development Committee.
 Both committees wield significant influence over policy and funding for local governments.
-Jason was given this award for his deep commitment and understanding of the needs of the town and city governments in his district and across the state.
-https://www.ccm-ct.org/rojaslogan
-Connecticut Voice for Children "First for Kids" Honoree (2018)
-Connecticut Voices for Children named Jason a “First for Kids” Honoree along with Rep.
+Jason was given this award for his deep commitment and understanding of the needs of the town and city governments in his district and across the state. https://www.ccm-ct.org/rojaslogan ​ Connecticut Voice for Children "First for Kids" Honoree (2018) Connecticut Voices for Children named Jason a “First for Kids” Honoree along with Rep.
 Vincent Candelora (R).
-Jason and Vincent, both senior members of the Finance, Revenue and Bonding Committee, were presented with the Bipartisan Legislative Leadership Award for their leadership on fiscal policy issues and willingness to work in a bipartisan, constructive manner to seek effective reforms for Connecticut’s economy.
-Alliance of YMCA Legislative Champion Award (2019)
-The Alliance of YMCA’s selected Jason as a Legislative Champions for his assistance in securing $1.5 million to renovate the Lois Nolan Larson Community Center in Mayberry Village.
-The building is home to a YMCA Early Childhood.
-AARP Legislative Achievement Award (2019)
-The Association of Retired Persons (AARP) selected Jason for its Legislative Achievement Award for his continued work on expanding the availability of retirement programs for CT residents.
-Connecticut Retail Merchants Association Legislator of the Year (2019)
-The Connecticut Retail Merchants Association selected Jason as its Legislator of the Year for his work on small business issues as Chairperson of the Finance, Revenue and Bonding.
-The associations noted Jason’s willingness to look at all sides of the issues before his committee, for his open-door policy and his willingness to work with members of the association.
+Jason and Vincent, both senior members of the Finance, Revenue and Bonding Committee, were presented with the Bipartisan Legislative Leadership Award for their leadership on fiscal policy issues and willingness to work in a bipartisan, constructive manner to seek effective reforms for Connecticut’s economy. ​ Alliance of YMCA Legislative Champion Award (2019) The Alliance of YMCA’s selected Jason as a Legislative Champions for his assistance in securing $1.5 million to renovate the Lois Nolan Larson Community Center in Mayberry Village.
+The building is home to a YMCA Early Childhood. https://www.journalinquirer.com/politics_and_government/bond-commision-approves-m-for-mayberry-ymca/article_3e726b10-3f82-11e8-a068-7ff06fc176ac.html ​ AARP Legislative Achievement Award (2019) The Association of Retired Persons (AARP) selected Jason for its Legislative Achievement Award for his continued work on expanding the availability of retirement programs for CT residents. ​ Connecticut Retail Merchants Association Legislator of the Year (2019) The Connecticut Retail Merchants Association selected Jason as its Legislator of the Year for his work on small business issues as Chairperson of the Finance, Revenue and Bonding.
+The associations noted Jason’s willingness to look at all sides of the issues before his committee, for his open-door policy and his willingness to work with members of the association. ​ ​ START SHAPING OUR FUTURE Support Connecticut ISSUES VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+Home About Jason News Volunteer Contact Jason Rojas - STATE REPRESENTATIVE - Paid for by Rojas 2024, Awet Tsegai, Treasurer.
+Approved by Jason Rojas East Hartford Manchester reprojas2022@gmail.com 860-895-8374 bottom of page

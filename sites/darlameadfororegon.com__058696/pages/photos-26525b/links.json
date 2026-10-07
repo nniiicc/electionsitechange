@@ -1,29 +1,110 @@
 [
-"https://campaignpartner.com/",
-"https://darlameadfororegon.com/",
-"https://darlameadfororegon.com/contact",
-"https://darlameadfororegon.com/contribute",
-"https://darlameadfororegon.com/events",
-"https://darlameadfororegon.com/home",
-"https://darlameadfororegon.com/issues",
-"https://darlameadfororegon.com/meet_darla",
-"https://darlameadfororegon.com/news",
-"https://darlameadfororegon.com/photos",
-"https://darlameadfororegon.com/view-endorsements",
-"https://darlameadfororegon.com/volunteer",
-"https://darlameadfororegon.com/vote",
-"https://darlameadfororegon.com/yard-sign",
-"https://facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580",
-"https://i.campaignpartner.net/images/cdn_queue/153290/067da38c51b94e8f956f3a11986c6db0.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/2ca94f3f512e47dfab71c438b16f21d6.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/3b769add7e8041cfbf92608eb302dc45.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/70cbf5892f9446dd878efbc0e81137f3.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/7d161df519fe456abe518be5d3acf0e1.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/84f67a90598f4d5db908510b4637c606.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/942f89b49c2747ebaa387c28d0946ff8.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/9d6d2cb25d224ea4b9fae65ec2343af5.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/d5905d211f3843799e3ba64d85e26236.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/e1a40193af8e4440b57a1e377cb7030b.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/153290/e8fe3ea2356d41ccbc714ca348f3db3a.jpg",
-"https://instagram.com/darlamead4oregon"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.darlameadfororegon.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.darlameadfororegon.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.darlameadfororegon.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.darlameadfororegon.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.darlameadfororegon.com/home"
+},
+{
+"text": "Meet Darla",
+"href": "https://www.darlameadfororegon.com/meet_darla"
+},
+{
+"text": "News",
+"href": "https://www.darlameadfororegon.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.darlameadfororegon.com/photos"
+},
+{
+"text": "Priorities",
+"href": "https://www.darlameadfororegon.com/issues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.darlameadfororegon.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.darlameadfororegon.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.darlameadfororegon.com/yard-sign"
+},
+{
+"text": "[image: Darla Mead]",
+"href": "https://www.darlameadfororegon.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/067da38c51b94e8f956f3a11986c6db0.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/2ca94f3f512e47dfab71c438b16f21d6.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/3b769add7e8041cfbf92608eb302dc45.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/70cbf5892f9446dd878efbc0e81137f3.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/7d161df519fe456abe518be5d3acf0e1.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/84f67a90598f4d5db908510b4637c606.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/942f89b49c2747ebaa387c28d0946ff8.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/9d6d2cb25d224ea4b9fae65ec2343af5.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/d5905d211f3843799e3ba64d85e26236.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/e1a40193af8e4440b57a1e377cb7030b.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/153290/e8fe3ea2356d41ccbc714ca348f3db3a.jpg"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Darla-Mead-for-Oregon-HD51/61587617819580/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/darlamead4oregon/"
+}
 ]

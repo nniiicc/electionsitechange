@@ -1,36 +1,138 @@
 [
-"https://facebook.com/shellyhettlemanforsenate",
-"https://leg.colorado.gov/bills/sb21-260",
-"https://legislature.maine.gov/billtracker",
-"https://pluribusnews.com/news-and-events/maryland-climate-aligned-transportation-bill-gains-momentum-in-senate",
-"https://pro.stateaffairs.com/IL/bill/e1a1caf0-e6f5-4018-b959-629cf0fda91e",
-"https://pro.stateaffairs.com/MA/bill/4af55c59-6234-4b88-8b4d-240c153caf11",
-"https://pro.stateaffairs.com/MD/bill/3316a0ab-4a97-46c9-981b-543aff1aeace",
-"https://pro.stateaffairs.com/NY/bill/65673c0e-6950-427a-9c79-f66ee3b3abb0",
-"https://pro.stateaffairs.com/md/directory/legislator/8722",
-"https://revisor.mn.gov/bills/93/2023/0/HF/2887",
-"https://rmi.org/the-domino-effect-states-prioritize-affordable-transportation-choices-over-traffic",
-"https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2",
-"https://shellyhettleman.com/",
-"https://shellyhettleman.com/2026/04/03/maryland-climate-aligned-transportation-bill-gains-momentum-in-senate",
-"https://shellyhettleman.com/2026/04/10/legislature-passes-bill-for-jewish-muslim-heritage-months",
-"https://shellyhettleman.com/2026/04/21/2774",
-"https://shellyhettleman.com/2026/05/07/apg-federal-credit-union-hosts-ribbon-cutting-ceremony-for-third-baltimore-county-branch",
-"https://shellyhettleman.com/2026/07/22/maryland-prisons-rank-among-nations-worst-for-killings",
-"https://shellyhettleman.com/about-shelly",
-"https://shellyhettleman.com/events-coming-soon",
-"https://shellyhettleman.com/issues",
-"https://shellyhettleman.com/issues/education",
-"https://shellyhettleman.com/issues/environment",
-"https://shellyhettleman.com/issues/health",
-"https://shellyhettleman.com/issues/jobs",
-"https://shellyhettleman.com/issues/public-safety",
-"https://shellyhettleman.com/issues/seniors",
-"https://shellyhettleman.com/resources-scholarships",
-"https://shellyhettleman.com/shelly-in-the-news",
-"https://shellyhettleman.com/stay-in-touch",
-"https://shellyhettleman.com/updates",
-"https://tmtcoalition.org/tca",
-"https://twitter.com/shellyhettleman",
-"https://webintech.com/"
+{
+"text": "APG Federal Credit Union Hosts Ribbon-Cutting Ceremony for Third Baltimore County Branch",
+"href": "https://shellyhettleman.com/2026/05/07/apg-federal-credit-union-hosts-ribbon-cutting-ceremony-for-third-baltimore-county-branch/"
+},
+{
+"text": "About Shelly",
+"href": "https://shellyhettleman.com/about-shelly/"
+},
+{
+"text": "Better Public Education",
+"href": "https://shellyhettleman.com/issues/education/"
+},
+{
+"text": "Colorado",
+"href": "https://leg.colorado.gov/bills/sb21-260"
+},
+{
+"text": "Events",
+"href": "https://shellyhettleman.com/events-coming-soon/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/shellyhettlemanforsenate/"
+},
+{
+"text": "Health & Wellness",
+"href": "https://shellyhettleman.com/issues/health/"
+},
+{
+"text": "Illinois",
+"href": "https://pro.stateaffairs.com/IL/bill/e1a1caf0-e6f5-4018-b959-629cf0fda91e"
+},
+{
+"text": "Issues",
+"href": "https://shellyhettleman.com/issues/"
+},
+{
+"text": "Jobs, Housing & Economic Development",
+"href": "https://shellyhettleman.com/issues/jobs/"
+},
+{
+"text": "Legislature Passes Bill for Jewish & Muslim Heritage Months",
+"href": "https://shellyhettleman.com/2026/04/10/legislature-passes-bill-for-jewish-muslim-heritage-months/"
+},
+{
+"text": "Maine",
+"href": "https://legislature.maine.gov/billtracker/#Paper/1138?legislature=132"
+},
+{
+"text": "Mark Edelson",
+"href": "https://pro.stateaffairs.com/md/directory/legislator/8722"
+},
+{
+"text": "Maryland climate-aligned transportation bill gains momentum in Senate",
+"href": "https://shellyhettleman.com/2026/04/03/maryland-climate-aligned-transportation-bill-gains-momentum-in-senate/"
+},
+{
+"text": "Maryland prisons rank among nation’s worst for killings",
+"href": "https://shellyhettleman.com/2026/07/22/maryland-prisons-rank-among-nations-worst-for-killings/"
+},
+{
+"text": "Massachusetts",
+"href": "https://pro.stateaffairs.com/MA/bill/4af55c59-6234-4b88-8b4d-240c153caf11"
+},
+{
+"text": "Minnesota",
+"href": "https://www.revisor.mn.gov/bills/93/2023/0/HF/2887/"
+},
+{
+"text": "New York",
+"href": "https://pro.stateaffairs.com/NY/bill/65673c0e-6950-427a-9c79-f66ee3b3abb0"
+},
+{
+"text": "Our Debt to Seniors",
+"href": "https://shellyhettleman.com/issues/seniors/"
+},
+{
+"text": "Protecting the Environment & Our Democracy",
+"href": "https://shellyhettleman.com/issues/environment/"
+},
+{
+"text": "Public Safety & Criminal Justice",
+"href": "https://shellyhettleman.com/issues/public-safety/"
+},
+{
+"text": "Read the full article",
+"href": "https://pluribusnews.com/news-and-events/maryland-climate-aligned-transportation-bill-gains-momentum-in-senate/"
+},
+{
+"text": "Resources & Scholarships",
+"href": "https://shellyhettleman.com/resources-scholarships/"
+},
+{
+"text": "Shelly in the News",
+"href": "https://shellyhettleman.com/shelly-in-the-news/"
+},
+{
+"text": "Stay in Touch",
+"href": "https://shellyhettleman.com/stay-in-touch/"
+},
+{
+"text": "Support Shelly",
+"href": "https://secure.ngpvan.com/vBZbTz_p_EWzT_sJxFw1Vg2"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/shellyhettleman"
+},
+{
+"text": "Updates from Shelly",
+"href": "https://shellyhettleman.com/updates/"
+},
+{
+"text": "Web Interactive Technologies",
+"href": "https://www.webintech.com/"
+},
+{
+"text": "Wrapping it Up",
+"href": "https://shellyhettleman.com/2026/04/21/2774/"
+},
+{
+"text": "[image: Shelly Hettleman]",
+"href": "https://shellyhettleman.com/"
+},
+{
+"text": "been introduced",
+"href": "https://rmi.org/the-domino-effect-states-prioritize-affordable-transportation-choices-over-traffic/"
+},
+{
+"text": "coalition",
+"href": "https://tmtcoalition.org/tca"
+},
+{
+"text": "legislation",
+"href": "https://pro.stateaffairs.com/MD/bill/3316a0ab-4a97-46c9-981b-543aff1aeace"
+}
 ]

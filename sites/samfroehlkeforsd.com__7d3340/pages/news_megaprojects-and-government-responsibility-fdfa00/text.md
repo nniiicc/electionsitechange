@@ -1,9 +1,5 @@
-24
-Dec
-Wednesday, 9:22 PM · 2025
-Megaprojects and government responsibility
-As someone seeking legislative office, I should clearly state my view of what state policy should be regarding data centers:
-There needs to be no special treatment to entice them to come here.
+Meet Sam Platform Yard Signs and Highway Signs News and Articles News and Articles / Megaprojects and government responsibility 24 Dec Wednesday, 9:22 PM · 2025 Megaprojects and government responsibility Industrialization in Deuel County is reaching a fever pitch these days, and everyone from Washington to Clear Lake appears to know how we should feel about it.
+As someone seeking legislative office, I should clearly state my view of what state policy should be regarding data centers: There needs to be no special treatment to entice them to come here.
 These are massive companies, and can sink or swim on their own merits, neither helped nor hindered by the state government.
 I am not as entirely against the data center project as I am sure some would like me to be.
 An individual, a private business, or even a publicly traded corporation, should be entitled to the right of building what they wish on their own property.
@@ -32,3 +28,4 @@ And maybe they're wrong; maybe this has been the opportunity of a lifetime, one 
 Maybe none of us know what we're talking about, and we shouldn't be speaking against what we're told is progress.
 But that's democracy.
 And that's a hell of a lot more valuable than a data center.
+Yard Signs and Highway Signs Contact Paid for by Sam Froehlke for House Powered by CampaignPartner.com - Political Websites Home Meet Sam Platform News and Articles Yard Signs and Highway Signs Contact Close Menu

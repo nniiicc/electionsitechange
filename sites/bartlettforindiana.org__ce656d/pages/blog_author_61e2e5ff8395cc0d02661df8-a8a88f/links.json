@@ -1,27 +1,162 @@
 [
-"https://bartlettforindiana.org/",
-"https://bartlettforindiana.org/aboutjohn",
-"https://bartlettforindiana.org/blog",
-"https://bartlettforindiana.org/blog/2024-agriculture",
-"https://bartlettforindiana.org/blog/2024-economic-development-for-rural-indiana",
-"https://bartlettforindiana.org/blog/2024-education-policy-1",
-"https://bartlettforindiana.org/blog/2024-medicaidnursing-home-crisis",
-"https://bartlettforindiana.org/blog/2024-property-taxes",
-"https://bartlettforindiana.org/blog/2024-property-taxes-part-2-the-braunbeckwith-proposal",
-"https://bartlettforindiana.org/blog/2024-proposed-amendment-to-eliminate-bail",
-"https://bartlettforindiana.org/blog/2024-rural-health-care",
-"https://bartlettforindiana.org/blog/2024-state-income-taxes",
-"https://bartlettforindiana.org/blog/2025-motorcade-for-medicaid",
-"https://bartlettforindiana.org/blog/2025-motorcade-for-medicaid-part-2",
-"https://bartlettforindiana.org/blog/2026-data-centers-amp-the-threat-to-rural-indiana",
-"https://bartlettforindiana.org/blog/2026-the-plan-to-replace-property-tax-with-something-worse",
-"https://bartlettforindiana.org/blog/hr-1134",
-"https://bartlettforindiana.org/blog/rural-indiana-economy",
-"https://bartlettforindiana.org/cart",
-"https://bartlettforindiana.org/issues",
-"https://bartlettforindiana.org/volunteer",
-"https://facebook.com/BartlettForIN",
-"https://indianaruralsummit.org/",
-"https://secure.actblue.com/donate/bartlett-for-indiana-1",
-"https://twitter.com/bartlettforIn"
+{
+"text": "0",
+"href": "https://www.bartlettforindiana.org/cart"
+},
+{
+"text": "2022 - HB 1134",
+"href": "https://www.bartlettforindiana.org/blog/hr-1134"
+},
+{
+"text": "2024 - Agriculture",
+"href": "https://www.bartlettforindiana.org/blog/2024-agriculture"
+},
+{
+"text": "2024 - Economic Development for Rural Indiana",
+"href": "https://www.bartlettforindiana.org/blog/2024-economic-development-for-rural-indiana"
+},
+{
+"text": "2024 - Education Policy",
+"href": "https://www.bartlettforindiana.org/blog/2024-education-policy-1"
+},
+{
+"text": "2024 - Medicaid/Nursing Home Crisis",
+"href": "https://www.bartlettforindiana.org/blog/2024-medicaidnursing-home-crisis"
+},
+{
+"text": "2024 - Property Taxes part 2 - the Braun/Beckwith Proposal",
+"href": "https://www.bartlettforindiana.org/blog/2024-property-taxes-part-2-the-braunbeckwith-proposal"
+},
+{
+"text": "2024 - Proposed Amendment to Eliminate Bail",
+"href": "https://www.bartlettforindiana.org/blog/2024-proposed-amendment-to-eliminate-bail"
+},
+{
+"text": "2024 - Rural Health Care",
+"href": "https://www.bartlettforindiana.org/blog/2024-rural-health-care"
+},
+{
+"text": "2024 - Rural Indiana Economy",
+"href": "https://www.bartlettforindiana.org/blog/rural-indiana-economy"
+},
+{
+"text": "2024 - State Income Taxes",
+"href": "https://www.bartlettforindiana.org/blog/2024-state-income-taxes"
+},
+{
+"text": "2024-Property taxes",
+"href": "https://www.bartlettforindiana.org/blog/2024-property-taxes"
+},
+{
+"text": "2025 - Motorcade for Medicaid",
+"href": "https://www.bartlettforindiana.org/blog/2025-motorcade-for-medicaid"
+},
+{
+"text": "2025 - Motorcade for Medicaid part 2",
+"href": "https://www.bartlettforindiana.org/blog/2025-motorcade-for-medicaid-part-2"
+},
+{
+"text": "2026 - Data Centers & the Threat to Rural Indiana",
+"href": "https://www.bartlettforindiana.org/blog/2026-data-centers-amp-the-threat-to-rural-indiana"
+},
+{
+"text": "2026 - The Plan to Replace Property Tax with Something Worse",
+"href": "https://www.bartlettforindiana.org/blog/2026-the-plan-to-replace-property-tax-with-something-worse"
+},
+{
+"text": "About John",
+"href": "https://www.bartlettforindiana.org/aboutjohn"
+},
+{
+"text": "Blog",
+"href": "https://www.bartlettforindiana.org/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bartlett-for-indiana-1"
+},
+{
+"text": "Indiana Rural Summit",
+"href": "https://indianaruralsummit.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.bartlettforindiana.org/issues"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-agriculture"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-economic-development-for-rural-indiana"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-education-policy-1"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-medicaidnursing-home-crisis"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-property-taxes"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-property-taxes-part-2-the-braunbeckwith-proposal"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-proposed-amendment-to-eliminate-bail"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-rural-health-care"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2024-state-income-taxes"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2025-motorcade-for-medicaid"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2025-motorcade-for-medicaid-part-2"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2026-data-centers-amp-the-threat-to-rural-indiana"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/2026-the-plan-to-replace-property-tax-with-something-worse"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/hr-1134"
+},
+{
+"text": "Read More",
+"href": "https://www.bartlettforindiana.org/blog/rural-indiana-economy"
+},
+{
+"text": "Take Action",
+"href": "https://www.bartlettforindiana.org/volunteer"
+},
+{
+"text": "[image: John Bartlett for State Rep]",
+"href": "https://www.bartlettforindiana.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bartlettforIn"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BartlettForIN"
+}
 ]

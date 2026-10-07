@@ -1,5 +1,4 @@
-Photo credit: John Pavolitz
-| This is a difficult message to write on this most special and uniquely American holiday.
+Meet Kristine Endorsements News & Events Get Involved Select Page When will the empty chair be at our table? by KHoward | Nov 30, 2022 | News | 0 comments Photo credit: John Pavolitz This is a difficult message to write on this most special and uniquely American holiday.
 Make no mistake, I will be breaking bread with my family and giving thanks for the blessings life has given.
 However, there is a cloud in my heart knowing other families will gather today grieving for someone they have lost cruelly and unnecessarily to the insanity of gun violence.
 In the last few days, we have seen gun deaths and injuries at a Walmart in Chesapeake, Virginia; a popular LGBTQ bar in Colorado Springs; young members of the University of Virginia football team; kids headed home for the Thanksgiving Holiday at Timberlake High School in Texas; and the ongoing daily toll on our streets in urban, suburban, and rural American that are so frequent they rarely make headlines beyond the local news outlets where they occur.
@@ -11,4 +10,9 @@ I can only speak for myself and can you assure in my capacity as a state legisla
 Holidays are meant to be joyous and celebratory times in our lives.
 They are also times when we can have amplified moments of reflection and inspiration.
 May all of you have a blessed and joyful time with your families and friends and remember those with empathy and understanding who have an empty chair at their table.
-Thanks for reading, Kristine |
+Thanks for reading, Kristine Search for: Latest News Don’t fix what’s not broke!
+April 28, 2023 It’s Child Abuse Prevention Month – again.
+Has anything changed since last year?
+April 28, 2023 A dangerous tune!
+April 16, 2023 You are the first to know… March 17, 2023 When will the empty chair be at our table?
+November 30, 2022 Facebook Twitter Instagram ©# Paid for and authorized by Committee to Elect Kristine.

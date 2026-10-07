@@ -1,12 +1,54 @@
 [
-"https://facebook.com/",
-"https://instagram.com/",
-"https://mikefordelaware.com/",
-"https://mikefordelaware.com/donate-today",
-"https://mikefordelaware.com/volunteer",
-"https://mikefordelaware.com/wp-login.php",
-"https://pinterest.com/",
-"https://secure.winred.com/friends-of-mike-simpler-4de14/donate-today?exitintent=true",
-"https://tickettailor.com/events/friendsofmikesimplerde14/2452373",
-"https://twitter.com/"
+{
+"text": "Buy Tickets",
+"href": "https://www.tickettailor.com/events/friendsofmikesimplerde14/2452373"
+},
+{
+"text": "Donate Today",
+"href": "https://mikefordelaware.com/donate-today/"
+},
+{
+"text": "Home",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "Log in",
+"href": "https://mikefordelaware.com/wp-login.php"
+},
+{
+"text": "SUPPORT MIKE",
+"href": "https://secure.winred.com/friends-of-mike-simpler-4de14/donate-today?exitintent=true"
+},
+{
+"text": "Volunteer",
+"href": "https://mikefordelaware.com/volunteer/"
+},
+{
+"text": "[image]",
+"href": "https://mikefordelaware.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com"
+},
+{
+"text": "[no text]",
+"href": "https://pinterest.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com"
+},
+{
+"text": "[no text]",
+"href": "javascript:void(0)"
+},
+{
+"text": "info@mikefordelaware.com",
+"href": "mailto:info@mikefordelaware.com"
+}
 ]

@@ -1,5 +1,5 @@
-ABOUT ANNA
-I am a mom, USAF veteran, and wife.
+top of page MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+ABOUT ANNA I am a mom, USAF veteran, and wife.
 I also happen to be one of the youngest members of Congress.
 My upbringing was very different from the majority of those on Capitol Hill.
 I didn’t come from a political pedigree, wealth, or an Ivy League education.
@@ -49,4 +49,6 @@ And I know this is because I directly contradict their false narratives about fa
 No one is hurt more by these radical policies than the tens of millions of poor and often minority Americans trapped in cycles of poverty and violence perpetuated by decades of failed big-government programs.
 I learned this lesson the hard way—through lived experience.
 After fulfilling every one of my campaign promises during my first term, I am running for Congress again because I want to enact reforms that create real solutions to these real-world problems.
-I will fight every day against the elitist political establishment that has, for far too long, left average Americans behind.”
+I will fight every day against the elitist political establishment that has, for far too long, left average Americans behind.” DONATE MEET ANNA WORKING FOR YOU NEWS ENDORSEMENTS MEDIA PHOTOS CONTACT More Use tab to navigate through the menu items.
+Anna Paulina Luna for Congress 1201 Gandy Boulevard North PO Box 23064 St.
+Petersburg, FL 33742 PRIVACY POLICY PAID FOR BY ANNA PAULINA LUNA FOR CONGRESS bottom of page

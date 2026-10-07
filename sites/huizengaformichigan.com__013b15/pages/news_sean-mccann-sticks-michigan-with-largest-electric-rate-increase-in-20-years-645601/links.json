@@ -1,18 +1,70 @@
 [
-"https://facebook.com/BillHuizenga",
-"https://foxnews.com/politics/michigan-gov-whitmer-signs-sweeping-green-energy-bill-forcing-transition-fossil-fuels",
-"https://huizengaformichigan.com/",
-"https://huizengaformichigan.com/about",
-"https://huizengaformichigan.com/issues",
-"https://huizengaformichigan.com/join",
-"https://huizengaformichigan.com/news",
-"https://huizengaformichigan.com/privacy-policy",
-"https://huizengaformichigan.com/terms-and-conditions",
-"https://instagram.com/billhuizenga",
-"https://legislature.mi.gov/(S(ewjc4hfsdx2pvpz3zze0epkk))/documents/2023-2024/Journal/Senate/pdf/2023-SJ-11-08-099.pdf",
-"https://legislature.mi.gov/(S(um0jxucybxx5f4cns5wquuqo))/documents/2023-2024/Journal/Senate/pdf/2023-SJ-10-26-094.pdf",
-"https://mlive.com/news/2026/06/consumers-energy-asks-for-largest-electric-rate-increase-in-more-than-20-years-again.html",
-"https://secure.winred.com/huizenga-for-congress/contribute",
-"https://twitter.com/billhuizenga",
-"https://youtube.com/@HuizengaForCongress"
+{
+"text": "About",
+"href": "https://huizengaformichigan.com/about/"
+},
+{
+"text": "Back to News",
+"href": "https://huizengaformichigan.com/news"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/huizenga-for-congress/contribute"
+},
+{
+"text": "Issues",
+"href": "https://huizengaformichigan.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://huizengaformichigan.com/join/"
+},
+{
+"text": "News",
+"href": "https://huizengaformichigan.com/news/"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://huizengaformichigan.com/privacy-policy"
+},
+{
+"text": "TERMS AND CONDITIONS",
+"href": "https://huizengaformichigan.com/terms-and-conditions"
+},
+{
+"text": "[image: Huizenga for Congress]",
+"href": "https://huizengaformichigan.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/billhuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BillHuizenga"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/billhuizenga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@HuizengaForCongress"
+},
+{
+"text": "double",
+"href": "https://www.foxnews.com/politics/michigan-gov-whitmer-signs-sweeping-green-energy-bill-forcing-transition-fossil-fuels"
+},
+{
+"text": "reports",
+"href": "https://www.mlive.com/news/2026/06/consumers-energy-asks-for-largest-electric-rate-increase-in-more-than-20-years-again.html"
+},
+{
+"text": "voted",
+"href": "https://www.legislature.mi.gov/(S(ewjc4hfsdx2pvpz3zze0epkk))/documents/2023-2024/Journal/Senate/pdf/2023-SJ-11-08-099.pdf"
+},
+{
+"text": "voted",
+"href": "https://www.legislature.mi.gov/(S(um0jxucybxx5f4cns5wquuqo))/documents/2023-2024/Journal/Senate/pdf/2023-SJ-10-26-094.pdf"
+}
 ]

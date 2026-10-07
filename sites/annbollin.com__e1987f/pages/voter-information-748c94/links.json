@@ -1,12 +1,46 @@
 [
-"https://annbollin.com/",
-"https://annbollin.com/about",
-"https://annbollin.com/contact-us",
-"https://annbollin.com/endorsements",
-"https://annbollin.com/theissues",
-"https://annbollin.com/volunteer-1",
-"https://annbollin.com/voter-information",
-"https://milivcounty.gov/elections/early-voting",
-"https://oakgov.com/government/clerk-register-of-deeds/elections-voting/voter-information",
-"https://secure.anedot.com/ann-bollin-for-state-rep/donate"
+{
+"text": "About",
+"href": "https://www.annbollin.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://www.annbollin.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/ann-bollin-for-state-rep/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.annbollin.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.annbollin.com/"
+},
+{
+"text": "The Issues",
+"href": "https://www.annbollin.com/theissues"
+},
+{
+"text": "Volunteer",
+"href": "https://www.annbollin.com/volunteer-1"
+},
+{
+"text": "Voter Information",
+"href": "https://www.annbollin.com/voter-information"
+},
+{
+"text": "[image: Ann Bollin for Michigan State Representative]",
+"href": "https://www.annbollin.com/"
+},
+{
+"text": "https://milivcounty.gov/elections/early-voting/",
+"href": "https://milivcounty.gov/elections/early-voting/"
+},
+{
+"text": "https://www.oakgov.com/government/clerk-register-of-deeds/elections-voting/voter-information",
+"href": "https://www.oakgov.com/government/clerk-register-of-deeds/elections-voting/voter-information"
+}
 ]

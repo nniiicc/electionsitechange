@@ -1,10 +1,42 @@
 [
-"http://adworxcreative.com/",
-"https://facebook.com/rodneycreechohiohouse",
-"https://instagram.com/rodney_creech_oh",
-"https://rodneycreech.com/",
-"https://rodneycreech.com/about",
-"https://rodneycreech.com/contact",
-"https://secure.anedot.com/rodney-creech-for-state-representative/donate",
-"https://x.com/RodneyCreechOH"
+{
+"text": "ABOUT",
+"href": "https://www.rodneycreech.com/about/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.rodneycreech.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodney-creech-for-state-representative/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/rodneycreechohiohouse"
+},
+{
+"text": "HOME",
+"href": "https://www.rodneycreech.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/rodney_creech_oh/"
+},
+{
+"text": "Twitter",
+"href": "https://x.com/RodneyCreechOH"
+},
+{
+"text": "[image: Creech for Rep]",
+"href": "https://www.rodneycreech.com/"
+},
+{
+"text": "rodney@rodneycreech.com",
+"href": "mailto:rodney@rodneycreech.com"
+},
+{
+"text": "© # All Rights Reserved. Website designed by ADWORX Creative",
+"href": "http://www.adworxcreative.com"
+}
 ]

@@ -1,106 +1,430 @@
 [
-"http://kmaland.com/news/iowa-senate-approves-bill-prohibiting-dnr-stocking-of-private-ponds/article_a7e26f3e-35f7-11e9-a8a4-7b8ccae8ecf0.html",
-"http://kmaland.com/news/senate-confirms-skinner-as-director-of-iowa-prisons/article_9e77305a-5a55-11ea-8892-072084c9af49.html",
-"https://belltimescourier.com/2023/02/03/critics-ia-proposal-would-politicize-attorney-generals-office",
-"https://businessrecord.com/lawmakers-discuss-child-care-challenges-solutions-during-iowa-womens-foundations-solutions-summit",
-"https://cbs2iowa.com/news/local/bill-allowing-college-athletes-to-be-compensated-gets-first-ok-in-the-iowa-senate",
-"https://cbs2iowa.com/news/local/bill-causing-union-decertification-for-employer-errors-sparks-debate",
-"https://cbs2iowa.com/news/local/gop-lawmakers-looking-to-pass-bill-discouraging-local-govts-from-cutting-police-budgets",
-"https://cbs2iowa.com/news/local/gov-reynolds-joins-women-leaders-in-discussing-pro-life-movement",
-"https://cbs2iowa.com/news/local/iowa-joins-growing-list-of-states-introducing-legislation-compensating-college-athletes",
-"https://cbs2iowa.com/news/local/us-labor-department-iowa-cant-legally-expand-child-labor-hours",
-"https://dailyiowan.com/2019/02/19/lawmakers-try-to-expand-cbd-program",
-"https://desmoinesregister.com/story/money/business/2023/09/01/iowa-unemployment-benefit-cuts-still-debated-as-helpful-harmful-kim-reynolds-workforce-development/70672244007",
-"https://desmoinesregister.com/story/money/business/2024/02/16/bill-labeled-union-busting-moves-forward-in-iowa-senate-teamsters-labor-union-perb/72597865007",
-"https://desmoinesregister.com/story/news/2019/09/25/injured-iowa-workers-face-delays-getting-hearing-dates/2441045001",
-"https://desmoinesregister.com/story/news/elections/2020/10/14/iowa-election-2020-nate-boulton-toya-johnston-senate-district-16-candidates-des-moines/5681740002",
-"https://desmoinesregister.com/story/news/elections/2020/11/03/iowa-election-2020-senate-district-16-nate-boulton-toya-johnson-northeast-des-moines-pleasant-hill/3742238001",
-"https://desmoinesregister.com/story/news/investigations/2019/05/29/mental-health-iowa-nurse-beating-firing-state-worker-rights-independence-mental-health-institute/3355368002",
-"https://desmoinesregister.com/story/news/local/altoona/2020/04/07/sen-boulton-slowing-spread-staying-home/2954416001",
-"https://desmoinesregister.com/story/news/local/community/2020/02/16/sen-boulton-sponsoring-legislation-help-kids-health/2861740001",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/03/09/nate-boulton-opportunities-not-barriers-needed-iowas-working-poor/5004998002",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/03/27/sen-boulton-getting-through-our-public-health-crisis/2922924001",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/05/01/sen-boulton-looking-ahead-safely-ending-crisis/3061374001",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/05/08/sen-boulton-iowa-not-ready-reopen/3091292001",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/06/05/sen-boulton-solutions-racial-injustice-must-new/3150648001",
-"https://desmoinesregister.com/story/news/local/des-moines/2020/06/19/sen-boulton-iowa-deserves-stronger-response/3218893001?for-guid=ab5eb1b2-483a-11ea-a2bf-12e73711888f",
-"https://desmoinesregister.com/story/news/local/des-moines/2022/04/19/first-presbyterian-church-des-moines-closing-covid-membership-finances/9467446002",
-"https://desmoinesregister.com/story/news/politics/2020/02/18/medicaid-food-stamps-iowa-bill-puts-work-requirements-recipients/4793802002",
-"https://desmoinesregister.com/story/news/politics/2021/02/10/iowa-legislators-again-propose-name-image-likeness-bill-college-athletes/4460039001",
-"https://desmoinesregister.com/story/news/politics/2021/10/21/nonpartisan-agency-releasing-second-set-iowa-redistricting-maps-october-21/8522097002",
-"https://desmoinesregister.com/story/news/politics/2022/08/25/iowa-unemployment-taxes-business-drop-2023-kim-reynolds/7886587001",
-"https://desmoinesregister.com/story/news/politics/2022/11/18/dems-pick-jennifer-konfrst-zach-wahls-to-lead-party-in-iowa-statehouse/69651125007",
-"https://desmoinesregister.com/story/news/politics/2023/02/09/pieper-lewis-sex-trafficking-case-prompts-bipartisan-iowa-bill-on-victim-restitution/69888624007",
-"https://desmoinesregister.com/story/news/politics/2023/04/17/iowa-senate-votes-to-limit-pain-and-suffering-in-truck-driving-lawsuits/70121982007",
-"https://desmoinesregister.com/story/news/politics/2023/04/18/iowa-senate-passes-child-labor-bill-letting-teens-work-more-jobs-longer-hours/70121615007",
-"https://desmoinesregister.com/story/news/politics/2024/04/19/iowa-tax-deal-lowering-income-rate-set-to-pass-legislature-kim-reynolds/73379866007",
-"https://desmoinesregister.com/story/news/politics/2026/04/29/bill-dotzler-says-farewell-after-30-years-in-the-iowa-legislature/89606100007",
-"https://desmoinesregister.com/story/news/politics/elections/2026/04/25/house-district-39-candidates-pleasant-hill-des-moines-nate-boulton-troy-clark/89489751007",
-"https://desmoinesregister.com/story/opinion/columnists/iowa-view/2024/03/22/iowa-workforce-crisis-unemployment-benefits-tyson-plant-perry/73047506007",
-"https://desmoinesregister.com/story/sports/2021/06/30/nil-legislation-iowa-athletic-departments-cyclones-hawkeyes-bohannon-ncaa-name-image-likeness/7795180002",
-"https://espn.com/college-sports/story/_/id/32445468/nil-laws-add-new-variable-recruiting-decisions",
-"https://globegazette.com/news/state-and-regional/iowa-bill-granting-student-athletes-control-of-their-names-likeness/article_f2e6e244-ac00-5764-910b-d74b8485fd78.html",
-"https://iowacapitaldispatch.com/2020/05/08/workers-compensation-should-cover-essential-workers-who-suffer-infection",
-"https://iowacapitaldispatch.com/2020/06/03/iowa-senate-president-rules-police-de-escalation-training-measure-out-of-order",
-"https://iowacapitaldispatch.com/2022/01/25/senators-renew-effort-to-create-state-protections-for-pregnant-workers",
-"https://iowapublicradio.org/post/senate-bill-requires-some-iowans-work-medicaid-snap-access",
-"https://iowapublicradio.org/show/river-to-river/2021-04-12/late-census-data-complicates-iowa-redistricting",
-"https://iowapublicradio.org/state-government-news/2022-01-25/senate-bill-would-let-iowa-governor-pick-majority-of-district-judicial-nominating-commissioners",
-"https://iowapublicradio.org/state-government-news/2022-03-23/iowa-house-and-senate-republicans-approve-unemployment-cuts",
-"https://iowastatedaily.com/news/iowa-senate-house-bill-medicaid-work-requirements-governor-kim-reynolds-senator-representatives/article_3af7888a-636b-11ea-9382-6752016161b8.html",
-"https://kboeradio.com/bee-bill-sails-through-iowa-senate",
-"https://kcci.com/amp/article/iowa-state-agencies-restructuring-bill/42911900",
-"https://kcci.com/article/iowa-lawmakers-react-federal-scrutiny-surrounding-child-labor-bill/43935173",
-"https://kcci.com/article/proposed-bill-would-allow-college-athletes-to-be-paid-for-endorsements/30901046",
-"https://kcrg.com/2021/04/30/pretty-bombshell-report-lawmakers-react-to-i9-investigation-finding-large-overtime-payments-and-around-100-open-positions-in-corrections",
-"https://kcrg.com/2023/05/17/us-dept-labor-iowa-child-labor-bill-inconsistent-with-federal-law",
-"https://kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback",
-"https://kiwaradio.com/local-news/bill-would-let-16-17-year-olds-operate-carnival-rides-in-iowa",
-"https://kiwaradio.com/local-news/iowa-lawmakers-pass-bill-to-shield-businesses-from-covid-19-related-lawsuits",
-"https://kiwaradio.com/local-news/senate-votes-45-3-to-confirm-governors-nominee-to-lead-state-prisons",
-"https://ktvo.com/news/local/iowa-state-senators-are-showing-john-deere-strikers-their-support-by-visiting-john-deere",
-"https://kwwl.com/2020/04/19/iowa-lawmakers-file-osha-complaint-over-working-conditions-at-tyson-plant-in-waterloo",
-"https://kwwl.com/2021/02/05/state-lawmakers-re-new-push-to-allow-student-athletes-to-profit-off-their-image",
-"https://nateboulton.com/",
-"https://nateboulton.com/contact",
-"https://nateboulton.com/home/resources",
-"https://nateboulton.com/leading-in-the-legislature-and-in-our-community",
-"https://nateboulton.com/more-about-nate",
-"https://nateboulton.com/recent-news-stories",
-"https://nateboulton.com/support-the-campaign",
-"https://news.bloomberglaw.com/daily-labor-report/dol-hamstrung-in-response-to-state-child-labor-law-rollbacks",
-"https://newsweek.com/iowa-bill-relaxing-back-child-labor-laws-sparks-outrage-this-just-crazy-1779821?amp=1",
-"https://newtondailynews.com/news/local/2023/10/28/union-workers-end-strike-at-thombert-after-new-contract-is-signed",
-"https://qctimes.com/news/state-and-regional/govt-and-politics/effort-to-limit-public-land-moves-forward/article_cc39199f-14c9-589c-8659-6ff38fa151c1.html",
-"https://qctimes.com/news/state-and-regional/govt-and-politics/iowa-gov-reynolds-open-to-making-felons-pay-all-restitution/article_f5ee3f04-a239-5142-b4fd-6fdc5cd20b94.html",
-"https://radioiowa.com/2020/06/18/iowa-law-now-shields-most-businesses-from-covid-19-lawsuits",
-"https://radioiowa.com/2021/03/22/senate-republicans-send-two-gun-related-bills-to-iowa-governor",
-"https://radioiowa.com/2023/02/28/iowa-may-join-23-other-states-in-making-assault-on-sports-official-a-felony",
-"https://radioiowa.com/2023/08/16/lawmakers-suggest-new-rules-for-iowa-veterans-fund-grants",
-"https://radioiowa.com/2024/01/10/legislative-panel-reviews-proposed-rules-for-iowas-six-week-abortion-ban",
-"https://radioiowa.com/2024/02/19/bill-to-require-labeling-of-manufactured-meat",
-"https://si.com/college/2021/02/03/iowa-name-image-likeness-bill-ncaa",
-"https://siouxcityjournal.com/news/state-and-regional/govt-and-politics/iowa-lawmakers-eye-changing-jobless-benefits/article_ca4363ed-03db-50b5-b563-42ef35de028d.html",
-"https://siouxcityjournal.com/news/state-and-regional/iowa-legislature-cuts-length-of-time-for-unemployment-benefits-to-16-weeks/article_c3822025-1c29-59f1-85c2-d5b95e86e1bd.html",
-"https://siouxlandproud.com/news/iowa-news/gov-reynolds-decision-to-keep-meatpacking-plants-open-in-iowa-has-sparked-heated-debate-from-lawmakers-workers",
-"https://subscribe.wordpress.com/",
-"https://thegazette.com/lawmakers-iowa-faculty-say-athletes-should-be-allowed-to-profit-20210204",
-"https://thegazette.com/news/iowa-amusement-park-became-a-political-force-before-accident",
-"https://thegazette.com/state-government/feds-iowas-youth-labor-bill-would-violate-federal-rules",
-"https://thegazette.com/state-government/latest-income-tax-cuts-moving-at-iowa-capitol-likely-to-become-law/%20",
-"https://thegazette.com/subject/news/government/iowa-legislature-college-university-sports-ncaa-athlete-money-trust-fund-20200122",
-"https://thegazette.com/subject/news/government/iowa-legislature-honeybee-state-insect-designation-senate-vote-20200311",
-"https://thegazette.com/subject/news/government/iowa-senate-approves-welfare-work-requirements-20200303",
-"https://weareiowa.com/article/news/health/coronavirus/bill-looks-to-protect-iowa-businesses-local-governments-covid-19-lawsuits-pandemic/524-69f93b00-b0ee-4277-8ed4-82c2fffbfe43",
-"https://weareiowa.com/article/news/local/legislators-propose-bill-to-pay-college-athletes/524-40296e88-f273-4986-adc0-6e60d7a087f8",
-"https://weareiowa.com/article/news/local/local-politics/iowa-legislature-2021-special-session-redistrict-maps-updates-democrats-republicans-statehouse-house-senate/524-9768cec0-0c7c-4774-8a25-e18c18d5d19c",
-"https://who13.com/news/local-universities-navigate-new-nil-policy-for-student-athletes",
-"https://who13.com/news/unemployment-changes-stalls-at-the-statehouse-iowa-gop-disagree-on-waiting-period",
-"https://who13.com/sports/local-lawmakers-have-one-thing-in-common-despite-opposing-views/amp",
-"https://whotv.com/news/iowa-senate-calls-for-trust-funds-for-student-athletes",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fnateboulton.com%2Frecent-news-stories%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fnateboulton.com%252Frecent-news-stories%252F",
-"https://wordpress.com/start",
-"https://wp.me/PaBk11-3k"
+{
+"text": "A leader in and for Our Community",
+"href": "https://nateboulton.com/leading-in-the-legislature-and-in-our-community/"
+},
+{
+"text": "Contact",
+"href": "https://nateboulton.com/contact/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PaBk11-3k"
+},
+{
+"text": "Donate",
+"href": "https://nateboulton.com/support-the-campaign/"
+},
+{
+"text": "Home",
+"href": "https://nateboulton.com/"
+},
+{
+"text": "Links and Resources",
+"href": "https://nateboulton.com/home/resources/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fnateboulton.com%252Frecent-news-stories%252F"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "More About Nate",
+"href": "https://nateboulton.com/more-about-nate/"
+},
+{
+"text": "Nate Boulton for Iowa House",
+"href": "https://nateboulton.com/"
+},
+{
+"text": "Recent News Stories",
+"href": "https://nateboulton.com/recent-news-stories/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fnateboulton.com%2Frecent-news-stories%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "[image: Nate Boulton for Iowa House]",
+"href": "https://nateboulton.com/"
+},
+{
+"text": "[image]Nate Boulton for Iowa House",
+"href": "https://nateboulton.com"
+},
+{
+"text": "[tooltip: Create a website or blog at WordPress.com]",
+"href": "https://wordpress.com/"
+},
+{
+"text": "http://www.kmaland.com/news/iowa-senate-approves-bill-prohibiting-dnr-stocking-of-private-ponds/article_a7e26f3e-35f7-11e9-a8a4-7b8ccae8ecf0.html",
+"href": "http://www.kmaland.com/news/iowa-senate-approves-bill-prohibiting-dnr-stocking-of-private-ponds/article_a7e26f3e-35f7-11e9-a8a4-7b8ccae8ecf0.html"
+},
+{
+"text": "http://www.kmaland.com/news/senate-confirms-skinner-as-director-of-iowa-prisons/article_9e77305a-5a55-11ea-8892-072084c9af49.html",
+"href": "http://www.kmaland.com/news/senate-confirms-skinner-as-director-of-iowa-prisons/article_9e77305a-5a55-11ea-8892-072084c9af49.html"
+},
+{
+"text": "https://belltimescourier.com/2023/02/03/critics-ia-proposal-would-politicize-attorney-generals-office/",
+"href": "https://belltimescourier.com/2023/02/03/critics-ia-proposal-would-politicize-attorney-generals-office/"
+},
+{
+"text": "https://cbs2iowa.com/news/local/bill-allowing-college-athletes-to-be-compensated-gets-first-ok-in-the-iowa-senate",
+"href": "https://cbs2iowa.com/news/local/bill-allowing-college-athletes-to-be-compensated-gets-first-ok-in-the-iowa-senate"
+},
+{
+"text": "https://cbs2iowa.com/news/local/bill-causing-union-decertification-for-employer-errors-sparks-debate",
+"href": "https://cbs2iowa.com/news/local/bill-causing-union-decertification-for-employer-errors-sparks-debate"
+},
+{
+"text": "https://cbs2iowa.com/news/local/gop-lawmakers-looking-to-pass-bill-discouraging-local-govts-from-cutting-police-budgets",
+"href": "https://cbs2iowa.com/news/local/gop-lawmakers-looking-to-pass-bill-discouraging-local-govts-from-cutting-police-budgets"
+},
+{
+"text": "https://cbs2iowa.com/news/local/gov-reynolds-joins-women-leaders-in-discussing-pro-life-movement",
+"href": "https://cbs2iowa.com/news/local/gov-reynolds-joins-women-leaders-in-discussing-pro-life-movement"
+},
+{
+"text": "https://cbs2iowa.com/news/local/iowa-joins-growing-list-of-states-introducing-legislation-compensating-college-athletes",
+"href": "https://cbs2iowa.com/news/local/iowa-joins-growing-list-of-states-introducing-legislation-compensating-college-athletes"
+},
+{
+"text": "https://cbs2iowa.com/news/local/us-labor-department-iowa-cant-legally-expand-child-labor-hours",
+"href": "https://cbs2iowa.com/news/local/us-labor-department-iowa-cant-legally-expand-child-labor-hours"
+},
+{
+"text": "https://dailyiowan.com/2019/02/19/lawmakers-try-to-expand-cbd-program/",
+"href": "https://dailyiowan.com/2019/02/19/lawmakers-try-to-expand-cbd-program/"
+},
+{
+"text": "https://globegazette.com/news/state-and-regional/iowa-bill-granting-student-athletes-control-of-their-names-likeness/article_f2e6e244-ac00-5764-910b-d74b8485fd78.html",
+"href": "https://globegazette.com/news/state-and-regional/iowa-bill-granting-student-athletes-control-of-their-names-likeness/article_f2e6e244-ac00-5764-910b-d74b8485fd78.html"
+},
+{
+"text": "https://iowacapitaldispatch.com/2020/05/08/workers-compensation-should-cover-essential-workers-who-suffer-infection/",
+"href": "https://iowacapitaldispatch.com/2020/05/08/workers-compensation-should-cover-essential-workers-who-suffer-infection/"
+},
+{
+"text": "https://iowacapitaldispatch.com/2020/06/03/iowa-senate-president-rules-police-de-escalation-training-measure-out-of-order/",
+"href": "https://iowacapitaldispatch.com/2020/06/03/iowa-senate-president-rules-police-de-escalation-training-measure-out-of-order/"
+},
+{
+"text": "https://kboeradio.com/bee-bill-sails-through-iowa-senate/",
+"href": "https://kboeradio.com/bee-bill-sails-through-iowa-senate/"
+},
+{
+"text": "https://kiwaradio.com/local-news/bill-would-let-16-17-year-olds-operate-carnival-rides-in-iowa/",
+"href": "https://kiwaradio.com/local-news/bill-would-let-16-17-year-olds-operate-carnival-rides-in-iowa/"
+},
+{
+"text": "https://kiwaradio.com/local-news/iowa-lawmakers-pass-bill-to-shield-businesses-from-covid-19-related-lawsuits/",
+"href": "https://kiwaradio.com/local-news/iowa-lawmakers-pass-bill-to-shield-businesses-from-covid-19-related-lawsuits/"
+},
+{
+"text": "https://kiwaradio.com/local-news/senate-votes-45-3-to-confirm-governors-nominee-to-lead-state-prisons/",
+"href": "https://kiwaradio.com/local-news/senate-votes-45-3-to-confirm-governors-nominee-to-lead-state-prisons/"
+},
+{
+"text": "https://ktvo.com/news/local/iowa-state-senators-are-showing-john-deere-strikers-their-support-by-visiting-john-deere",
+"href": "https://ktvo.com/news/local/iowa-state-senators-are-showing-john-deere-strikers-their-support-by-visiting-john-deere"
+},
+{
+"text": "https://kwwl.com/2020/04/19/iowa-lawmakers-file-osha-complaint-over-working-conditions-at-tyson-plant-in-waterloo/",
+"href": "https://kwwl.com/2020/04/19/iowa-lawmakers-file-osha-complaint-over-working-conditions-at-tyson-plant-in-waterloo/"
+},
+{
+"text": "https://kwwl.com/2021/02/05/state-lawmakers-re-new-push-to-allow-student-athletes-to-profit-off-their-image/",
+"href": "https://kwwl.com/2021/02/05/state-lawmakers-re-new-push-to-allow-student-athletes-to-profit-off-their-image/"
+},
+{
+"text": "https://news.bloomberglaw.com/daily-labor-report/dol-hamstrung-in-response-to-state-child-labor-law-rollbacks",
+"href": "https://news.bloomberglaw.com/daily-labor-report/dol-hamstrung-in-response-to-state-child-labor-law-rollbacks"
+},
+{
+"text": "https://qctimes.com/news/state-and-regional/govt-and-politics/effort-to-limit-public-land-moves-forward/article_cc39199f-14c9-589c-8659-6ff38fa151c1.html",
+"href": "https://qctimes.com/news/state-and-regional/govt-and-politics/effort-to-limit-public-land-moves-forward/article_cc39199f-14c9-589c-8659-6ff38fa151c1.html"
+},
+{
+"text": "https://qctimes.com/news/state-and-regional/govt-and-politics/iowa-gov-reynolds-open-to-making-felons-pay-all-restitution/article_f5ee3f04-a239-5142-b4fd-6fdc5cd20b94.html",
+"href": "https://qctimes.com/news/state-and-regional/govt-and-politics/iowa-gov-reynolds-open-to-making-felons-pay-all-restitution/article_f5ee3f04-a239-5142-b4fd-6fdc5cd20b94.html"
+},
+{
+"text": "https://siouxcityjournal.com/news/state-and-regional/govt-and-politics/iowa-lawmakers-eye-changing-jobless-benefits/article_ca4363ed-03db-50b5-b563-42ef35de028d.html",
+"href": "https://siouxcityjournal.com/news/state-and-regional/govt-and-politics/iowa-lawmakers-eye-changing-jobless-benefits/article_ca4363ed-03db-50b5-b563-42ef35de028d.html"
+},
+{
+"text": "https://siouxcityjournal.com/news/state-and-regional/iowa-legislature-cuts-length-of-time-for-unemployment-benefits-to-16-weeks/article_c3822025-1c29-59f1-85c2-d5b95e86e1bd.html",
+"href": "https://siouxcityjournal.com/news/state-and-regional/iowa-legislature-cuts-length-of-time-for-unemployment-benefits-to-16-weeks/article_c3822025-1c29-59f1-85c2-d5b95e86e1bd.html"
+},
+{
+"text": "https://who13.com/news/local-universities-navigate-new-nil-policy-for-student-athletes/",
+"href": "https://who13.com/news/local-universities-navigate-new-nil-policy-for-student-athletes/"
+},
+{
+"text": "https://who13.com/news/unemployment-changes-stalls-at-the-statehouse-iowa-gop-disagree-on-waiting-period/",
+"href": "https://who13.com/news/unemployment-changes-stalls-at-the-statehouse-iowa-gop-disagree-on-waiting-period/"
+},
+{
+"text": "https://who13.com/sports/local-lawmakers-have-one-thing-in-common-despite-opposing-views/amp/",
+"href": "https://who13.com/sports/local-lawmakers-have-one-thing-in-common-despite-opposing-views/amp/"
+},
+{
+"text": "https://whotv.com/news/iowa-senate-calls-for-trust-funds-for-student-athletes/",
+"href": "https://whotv.com/news/iowa-senate-calls-for-trust-funds-for-student-athletes/"
+},
+{
+"text": "https://www.businessrecord.com/lawmakers-discuss-child-care-challenges-solutions-during-iowa-womens-foundations-solutions-summit/",
+"href": "https://www.businessrecord.com/lawmakers-discuss-child-care-challenges-solutions-during-iowa-womens-foundations-solutions-summit/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/money/business/2023/09/01/iowa-unemployment-benefit-cuts-still-debated-as-helpful-harmful-kim-reynolds-workforce-development/70672244007/",
+"href": "https://www.desmoinesregister.com/story/money/business/2023/09/01/iowa-unemployment-benefit-cuts-still-debated-as-helpful-harmful-kim-reynolds-workforce-development/70672244007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/money/business/2024/02/16/bill-labeled-union-busting-moves-forward-in-iowa-senate-teamsters-labor-union-perb/72597865007/",
+"href": "https://www.desmoinesregister.com/story/money/business/2024/02/16/bill-labeled-union-busting-moves-forward-in-iowa-senate-teamsters-labor-union-perb/72597865007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/2019/09/25/injured-iowa-workers-face-delays-getting-hearing-dates/2441045001/",
+"href": "https://www.desmoinesregister.com/story/news/2019/09/25/injured-iowa-workers-face-delays-getting-hearing-dates/2441045001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/elections/2020/10/14/iowa-election-2020-nate-boulton-toya-johnston-senate-district-16-candidates-des-moines/5681740002/",
+"href": "https://www.desmoinesregister.com/story/news/elections/2020/10/14/iowa-election-2020-nate-boulton-toya-johnston-senate-district-16-candidates-des-moines/5681740002/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/elections/2020/11/03/iowa-election-2020-senate-district-16-nate-boulton-toya-johnson-northeast-des-moines-pleasant-hill/3742238001/",
+"href": "https://www.desmoinesregister.com/story/news/elections/2020/11/03/iowa-election-2020-senate-district-16-nate-boulton-toya-johnson-northeast-des-moines-pleasant-hill/3742238001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/investigations/2019/05/29/mental-health-iowa-nurse-beating-firing-state-worker-rights-independence-mental-health-institute/3355368002/#=",
+"href": "https://www.desmoinesregister.com/story/news/investigations/2019/05/29/mental-health-iowa-nurse-beating-firing-state-worker-rights-independence-mental-health-institute/3355368002/#="
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/altoona/2020/04/07/sen-boulton-slowing-spread-staying-home/2954416001/",
+"href": "https://www.desmoinesregister.com/story/news/local/altoona/2020/04/07/sen-boulton-slowing-spread-staying-home/2954416001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/community/2020/02/16/sen-boulton-sponsoring-legislation-help-kids-health/2861740001/",
+"href": "https://www.desmoinesregister.com/story/news/local/community/2020/02/16/sen-boulton-sponsoring-legislation-help-kids-health/2861740001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/09/nate-boulton-opportunities-not-barriers-needed-iowas-working-poor/5004998002/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/09/nate-boulton-opportunities-not-barriers-needed-iowas-working-poor/5004998002/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/27/sen-boulton-getting-through-our-public-health-crisis/2922924001/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/27/sen-boulton-getting-through-our-public-health-crisis/2922924001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/01/sen-boulton-looking-ahead-safely-ending-crisis/3061374001/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/01/sen-boulton-looking-ahead-safely-ending-crisis/3061374001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/08/sen-boulton-iowa-not-ready-reopen/3091292001/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/08/sen-boulton-iowa-not-ready-reopen/3091292001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/05/sen-boulton-solutions-racial-injustice-must-new/3150648001/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/05/sen-boulton-solutions-racial-injustice-must-new/3150648001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/19/sen-boulton-iowa-deserves-stronger-response/3218893001/?for-guid=ab5eb1b2-483a-11ea-a2bf-12e73711888f&utm_source=desmoinesregister-Daily%20Briefing&utm_medium=email&utm_campaign=daily_briefing&utm_term=list_article_headline",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/19/sen-boulton-iowa-deserves-stronger-response/3218893001/?for-guid=ab5eb1b2-483a-11ea-a2bf-12e73711888f"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/local/des-moines/2022/04/19/first-presbyterian-church-des-moines-closing-covid-membership-finances/9467446002/",
+"href": "https://www.desmoinesregister.com/story/news/local/des-moines/2022/04/19/first-presbyterian-church-des-moines-closing-covid-membership-finances/9467446002/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2020/02/18/medicaid-food-stamps-iowa-bill-puts-work-requirements-recipients/4793802002/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2020/02/18/medicaid-food-stamps-iowa-bill-puts-work-requirements-recipients/4793802002/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2021/02/10/iowa-legislators-again-propose-name-image-likeness-bill-college-athletes/4460039001/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2021/02/10/iowa-legislators-again-propose-name-image-likeness-bill-college-athletes/4460039001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2021/10/21/nonpartisan-agency-releasing-second-set-iowa-redistricting-maps-october-21/8522097002/?fbclid=IwAR2er9_5HOQfPXgluZ85UztBjf9gVw8IsCmp_8sJ_imUG8BTjU_Ge5FozZk",
+"href": "https://www.desmoinesregister.com/story/news/politics/2021/10/21/nonpartisan-agency-releasing-second-set-iowa-redistricting-maps-october-21/8522097002/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2022/08/25/iowa-unemployment-taxes-business-drop-2023-kim-reynolds/7886587001/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2022/08/25/iowa-unemployment-taxes-business-drop-2023-kim-reynolds/7886587001/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2022/11/18/dems-pick-jennifer-konfrst-zach-wahls-to-lead-party-in-iowa-statehouse/69651125007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2022/11/18/dems-pick-jennifer-konfrst-zach-wahls-to-lead-party-in-iowa-statehouse/69651125007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2023/02/09/pieper-lewis-sex-trafficking-case-prompts-bipartisan-iowa-bill-on-victim-restitution/69888624007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2023/02/09/pieper-lewis-sex-trafficking-case-prompts-bipartisan-iowa-bill-on-victim-restitution/69888624007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2023/04/17/iowa-senate-votes-to-limit-pain-and-suffering-in-truck-driving-lawsuits/70121982007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2023/04/17/iowa-senate-votes-to-limit-pain-and-suffering-in-truck-driving-lawsuits/70121982007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2023/04/18/iowa-senate-passes-child-labor-bill-letting-teens-work-more-jobs-longer-hours/70121615007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2023/04/18/iowa-senate-passes-child-labor-bill-letting-teens-work-more-jobs-longer-hours/70121615007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2024/04/19/iowa-tax-deal-lowering-income-rate-set-to-pass-legislature-kim-reynolds/73379866007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2024/04/19/iowa-tax-deal-lowering-income-rate-set-to-pass-legislature-kim-reynolds/73379866007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/2026/04/29/bill-dotzler-says-farewell-after-30-years-in-the-iowa-legislature/89606100007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/2026/04/29/bill-dotzler-says-farewell-after-30-years-in-the-iowa-legislature/89606100007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/news/politics/elections/2026/04/25/house-district-39-candidates-pleasant-hill-des-moines-nate-boulton-troy-clark/89489751007/",
+"href": "https://www.desmoinesregister.com/story/news/politics/elections/2026/04/25/house-district-39-candidates-pleasant-hill-des-moines-nate-boulton-troy-clark/89489751007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2024/03/22/iowa-workforce-crisis-unemployment-benefits-tyson-plant-perry/73047506007/",
+"href": "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2024/03/22/iowa-workforce-crisis-unemployment-benefits-tyson-plant-perry/73047506007/"
+},
+{
+"text": "https://www.desmoinesregister.com/story/sports/2021/06/30/nil-legislation-iowa-athletic-departments-cyclones-hawkeyes-bohannon-ncaa-name-image-likeness/7795180002/",
+"href": "https://www.desmoinesregister.com/story/sports/2021/06/30/nil-legislation-iowa-athletic-departments-cyclones-hawkeyes-bohannon-ncaa-name-image-likeness/7795180002/"
+},
+{
+"text": "https://www.iowapublicradio.org/post/senate-bill-requires-some-iowans-work-medicaid-snap-access#stream/0",
+"href": "https://www.iowapublicradio.org/post/senate-bill-requires-some-iowans-work-medicaid-snap-access#stream/0"
+},
+{
+"text": "https://www.iowapublicradio.org/show/river-to-river/2021-04-12/late-census-data-complicates-iowa-redistricting",
+"href": "https://www.iowapublicradio.org/show/river-to-river/2021-04-12/late-census-data-complicates-iowa-redistricting"
+},
+{
+"text": "https://www.iowapublicradio.org/state-government-news/2022-01-25/senate-bill-would-let-iowa-governor-pick-majority-of-district-judicial-nominating-commissioners",
+"href": "https://www.iowapublicradio.org/state-government-news/2022-01-25/senate-bill-would-let-iowa-governor-pick-majority-of-district-judicial-nominating-commissioners"
+},
+{
+"text": "https://www.iowapublicradio.org/state-government-news/2022-03-23/iowa-house-and-senate-republicans-approve-unemployment-cuts",
+"href": "https://www.iowapublicradio.org/state-government-news/2022-03-23/iowa-house-and-senate-republicans-approve-unemployment-cuts"
+},
+{
+"text": "https://www.iowastatedaily.com/news/iowa-senate-house-bill-medicaid-work-requirements-governor-kim-reynolds-senator-representatives/article_3af7888a-636b-11ea-9382-6752016161b8.html",
+"href": "https://www.iowastatedaily.com/news/iowa-senate-house-bill-medicaid-work-requirements-governor-kim-reynolds-senator-representatives/article_3af7888a-636b-11ea-9382-6752016161b8.html"
+},
+{
+"text": "https://www.kcci.com/amp/article/iowa-state-agencies-restructuring-bill/42911900",
+"href": "https://www.kcci.com/amp/article/iowa-state-agencies-restructuring-bill/42911900"
+},
+{
+"text": "https://www.kcci.com/article/iowa-lawmakers-react-federal-scrutiny-surrounding-child-labor-bill/43935173",
+"href": "https://www.kcci.com/article/iowa-lawmakers-react-federal-scrutiny-surrounding-child-labor-bill/43935173"
+},
+{
+"text": "https://www.kcci.com/article/proposed-bill-would-allow-college-athletes-to-be-paid-for-endorsements/30901046#",
+"href": "https://www.kcci.com/article/proposed-bill-would-allow-college-athletes-to-be-paid-for-endorsements/30901046"
+},
+{
+"text": "https://www.kcrg.com/2021/04/30/pretty-bombshell-report-lawmakers-react-to-i9-investigation-finding-large-overtime-payments-and-around-100-open-positions-in-corrections/",
+"href": "https://www.kcrg.com/2021/04/30/pretty-bombshell-report-lawmakers-react-to-i9-investigation-finding-large-overtime-payments-and-around-100-open-positions-in-corrections/"
+},
+{
+"text": "https://www.kcrg.com/2023/05/17/us-dept-labor-iowa-child-labor-bill-inconsistent-with-federal-law/",
+"href": "https://www.kcrg.com/2023/05/17/us-dept-labor-iowa-child-labor-bill-inconsistent-with-federal-law/"
+},
+{
+"text": "https://www.kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback/https://www.kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback/",
+"href": "https://www.kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback/"
+},
+{
+"text": "https://www.newsweek.com/iowa-bill-relaxing-back-child-labor-laws-sparks-outrage-this-just-crazy-1779821?amp=1",
+"href": "https://www.newsweek.com/iowa-bill-relaxing-back-child-labor-laws-sparks-outrage-this-just-crazy-1779821?amp=1"
+},
+{
+"text": "https://www.newtondailynews.com/news/local/2023/10/28/union-workers-end-strike-at-thombert-after-new-contract-is-signed/",
+"href": "https://www.newtondailynews.com/news/local/2023/10/28/union-workers-end-strike-at-thombert-after-new-contract-is-signed/"
+},
+{
+"text": "https://www.radioiowa.com/2020/06/18/iowa-law-now-shields-most-businesses-from-covid-19-lawsuits/",
+"href": "https://www.radioiowa.com/2020/06/18/iowa-law-now-shields-most-businesses-from-covid-19-lawsuits/"
+},
+{
+"text": "https://www.radioiowa.com/2021/03/22/senate-republicans-send-two-gun-related-bills-to-iowa-governor/",
+"href": "https://www.radioiowa.com/2021/03/22/senate-republicans-send-two-gun-related-bills-to-iowa-governor/"
+},
+{
+"text": "https://www.radioiowa.com/2023/02/28/iowa-may-join-23-other-states-in-making-assault-on-sports-official-a-felony/",
+"href": "https://www.radioiowa.com/2023/02/28/iowa-may-join-23-other-states-in-making-assault-on-sports-official-a-felony/"
+},
+{
+"text": "https://www.radioiowa.com/2023/08/16/lawmakers-suggest-new-rules-for-iowa-veterans-fund-grants/",
+"href": "https://www.radioiowa.com/2023/08/16/lawmakers-suggest-new-rules-for-iowa-veterans-fund-grants/%20"
+},
+{
+"text": "https://www.radioiowa.com/2024/01/10/legislative-panel-reviews-proposed-rules-for-iowas-six-week-abortion-ban/",
+"href": "https://www.radioiowa.com/2024/01/10/legislative-panel-reviews-proposed-rules-for-iowas-six-week-abortion-ban/"
+},
+{
+"text": "https://www.radioiowa.com/2024/02/19/bill-to-require-labeling-of-manufactured-meat/",
+"href": "https://www.radioiowa.com/2024/02/19/bill-to-require-labeling-of-manufactured-meat/"
+},
+{
+"text": "https://www.si.com/college/2021/02/03/iowa-name-image-likeness-bill-ncaa",
+"href": "https://www.si.com/college/2021/02/03/iowa-name-image-likeness-bill-ncaa"
+},
+{
+"text": "https://www.siouxlandproud.com/news/iowa-news/gov-reynolds-decision-to-keep-meatpacking-plants-open-in-iowa-has-sparked-heated-debate-from-lawmakers-workers/",
+"href": "https://www.siouxlandproud.com/news/iowa-news/gov-reynolds-decision-to-keep-meatpacking-plants-open-in-iowa-has-sparked-heated-debate-from-lawmakers-workers/"
+},
+{
+"text": "https://www.thegazette.com/lawmakers-iowa-faculty-say-athletes-should-be-allowed-to-profit-20210204",
+"href": "https://www.thegazette.com/lawmakers-iowa-faculty-say-athletes-should-be-allowed-to-profit-20210204"
+},
+{
+"text": "https://www.thegazette.com/news/iowa-amusement-park-became-a-political-force-before-accident/",
+"href": "https://www.thegazette.com/news/iowa-amusement-park-became-a-political-force-before-accident/"
+},
+{
+"text": "https://www.thegazette.com/state-government/feds-iowas-youth-labor-bill-would-violate-federal-rules/",
+"href": "https://www.thegazette.com/state-government/feds-iowas-youth-labor-bill-would-violate-federal-rules/"
+},
+{
+"text": "https://www.thegazette.com/state-government/latest-income-tax-cuts-moving-at-iowa-capitol-likely-to-become-law/",
+"href": "https://www.thegazette.com/state-government/latest-income-tax-cuts-moving-at-iowa-capitol-likely-to-become-law/%20"
+},
+{
+"text": "https://www.thegazette.com/subject/news/government/iowa-legislature-college-university-sports-ncaa-athlete-money-trust-fund-20200122",
+"href": "https://www.thegazette.com/subject/news/government/iowa-legislature-college-university-sports-ncaa-athlete-money-trust-fund-20200122"
+},
+{
+"text": "https://www.thegazette.com/subject/news/government/iowa-legislature-honeybee-state-insect-designation-senate-vote-20200311",
+"href": "https://www.thegazette.com/subject/news/government/iowa-legislature-honeybee-state-insect-designation-senate-vote-20200311"
+},
+{
+"text": "https://www.thegazette.com/subject/news/government/iowa-senate-approves-welfare-work-requirements-20200303",
+"href": "https://www.thegazette.com/subject/news/government/iowa-senate-approves-welfare-work-requirements-20200303"
+},
+{
+"text": "https://www.weareiowa.com/article/news/health/coronavirus/bill-looks-to-protect-iowa-businesses-local-governments-covid-19-lawsuits-pandemic/524-69f93b00-b0ee-4277-8ed4-82c2fffbfe43?fbclid=IwAR3xTY15bvmXLZwi3oIrbRGDZfLCYoBmDZYIXg-1BNgRvhPJX3jzSPf801s",
+"href": "https://www.weareiowa.com/article/news/health/coronavirus/bill-looks-to-protect-iowa-businesses-local-governments-covid-19-lawsuits-pandemic/524-69f93b00-b0ee-4277-8ed4-82c2fffbfe43"
+},
+{
+"text": "https://www.weareiowa.com/article/news/local/legislators-propose-bill-to-pay-college-athletes/524-40296e88-f273-4986-adc0-6e60d7a087f8",
+"href": "https://www.weareiowa.com/article/news/local/legislators-propose-bill-to-pay-college-athletes/524-40296e88-f273-4986-adc0-6e60d7a087f8"
+},
+{
+"text": "https://www.weareiowa.com/article/news/local/local-politics/iowa-legislature-2021-special-session-redistrict-maps-updates-democrats-republicans-statehouse-house-senate/524-9768cec0-0c7c-4774-8a25-e18c18d5d19c",
+"href": "https://www.weareiowa.com/article/news/local/local-politics/iowa-legislature-2021-special-session-redistrict-maps-updates-democrats-republicans-statehouse-house-senate/524-9768cec0-0c7c-4774-8a25-e18c18d5d19c"
+},
+{
+"text": "tps://iowacapitaldispatch.com/2022/01/25/senators-renew-effort-to-create-state-protections-for-pregnant-workers/",
+"href": "https://iowacapitaldispatch.com/2022/01/25/senators-renew-effort-to-create-state-protections-for-pregnant-workers/"
+},
+{
+"text": "www.espn.com/college-sports/story/_/id/32445468/nil-laws-add-new-variable-recruiting-decisions?fbclid=IwAR1iKwfQz0S4_VncxJzfluJhIcNVWMkPh8QoG9PfedO_mWOZOUYUUCYQUH0",
+"href": "https://www.espn.com/college-sports/story/_/id/32445468/nil-laws-add-new-variable-recruiting-decisions"
+}
 ]

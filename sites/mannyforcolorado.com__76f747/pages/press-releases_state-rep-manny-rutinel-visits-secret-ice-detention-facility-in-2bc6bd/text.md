@@ -1,0 +1,11 @@
+0 Skip to Content Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us More How to Vote Contact Press Retro Battle Game Fellowships English Donate Open Menu Close Menu Meet Manny Issues Join Us Folder: More Back How to Vote Contact Press Retro Battle Game Fellowships English Back Donate State Rep.
+Manny Rutinel Visits Secret ICE Detention Facility in Frederick, Demands Answers for Colorado's 8th District Press Release Mar 6 Written By 3/6/26 FREDERICK, COLO. — Yesterday evening, State Representative and CO-08 congressional candidate Manny Rutinel visited the ICE “hold room” facility in Frederick, Colorado, one of at least nine previously undisclosed detention sites federal data shows have been quietly operating across the state.
+More than 3,000 people have been held in these facilities, including children as young as one year old, in some cases for weeks at a time, all in violation of ICE's own rules.
+Rutinel made the visit to shed light on these dark facilities.
+ICE officials refused to answer the door when he visited.
+“Clearly, these are secretive facilities that ICE doesn’t want the public to know about, operating outside of ICE’s own guidelines, so we're going to do our part to put the pressure on our Congressional members to investigate and to subpoena where necessary to find out why these facilities are here.
+Gabe Evans has failed to do that, and Coloradans deserve better,” stated Rutinel.
+The visit follows a letter from State Rep.
+Rutinel’s office, cosigned by 31 legislative colleagues and reshared by over 1000 grassroots supporters, which also called for transparency and oversight into these secret ICE detention facilities.
+Raw video of the visit is available upon request.
+Previous Previous STATE OF THE RACE: Manny Momentum in CO-08 Continues Next Next STATE OF THE RACE: Manny Momentum in CO-08 Contact Privacy Policy Media Meet Manny Paid for by Manny Rutinel for Congress PO Box 1013 Commerce City, CO 80022 Email Us × Will you chip in to help flip CO-08? $# $# $# $# Other Amount If you've saved your payment information with ActBlue Express, your donation may go through immediately.

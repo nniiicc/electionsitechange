@@ -1,16 +1,78 @@
 [
-"https://donorbox.org/price-for-mo",
-"https://facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d",
-"https://mohousedems.com/calendar",
-"https://upballot.com/",
-"https://upballot.com/Tiffany-Price",
-"https://upballot.com/Tiffany-Price/about",
-"https://upballot.com/Tiffany-Price/events",
-"https://upballot.com/Tiffany-Price/events?view=cards",
-"https://upballot.com/Tiffany-Price/get-involved",
-"https://upballot.com/Tiffany-Price/issues",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=75039",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=75039",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Tiffany",
+"href": "https://www.upballot.com/Tiffany-Price/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://donorbox.org/price-for-mo"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/Tiffany-Price/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/Tiffany-Price/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/Tiffany-Price"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/Tiffany-Price/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: Tiffany Price Logo]",
+"href": "https://www.upballot.com/Tiffany-Price/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=75039"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=75039"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61558724284176&mibextid=LQQJ4d"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/Tiffany-Price/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/Tiffany-Price/events?view=cards"
+},
+{
+"text": "electtiffanyprice@gmail.com",
+"href": "mailto:electtiffanyprice@gmail.com"
+},
+{
+"text": "tel:(816) 386-3060",
+"href": "tel:(816)%20386-3060"
+}
 ]

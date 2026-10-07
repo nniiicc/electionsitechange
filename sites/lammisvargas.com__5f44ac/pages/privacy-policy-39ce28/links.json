@@ -1,44 +1,206 @@
 [
-"https://behance.net/themerex",
-"https://cloudflare.com/privacypolicy",
-"https://envato.com/privacy",
-"https://eugdpr.org/",
-"https://facebook.com/LammisJVargas",
-"https://facebook.com/ThemeRexStudio",
-"https://facebook.com/privacy",
-"https://hetzner.com/rechtliches/datenschutz",
-"https://instagram.com/senatorlammisvargas",
-"https://instagram.com/themerex_net",
-"https://jandrmarketing.com/",
-"https://lammisvargas.com/",
-"https://lammisvargas.com/2024/07",
-"https://lammisvargas.com/2024/08",
-"https://lammisvargas.com/2024/09",
-"https://lammisvargas.com/2024/10",
-"https://lammisvargas.com/2024/11",
-"https://lammisvargas.com/2025-legislative-recap",
-"https://lammisvargas.com/2025/01",
-"https://lammisvargas.com/2026/01",
-"https://lammisvargas.com/2026/06",
-"https://lammisvargas.com/bills-gain-traction-in-general-assembly",
-"https://lammisvargas.com/contact",
-"https://lammisvargas.com/dedicated-funding-for-ripta-is-a-practical-path-forward",
-"https://lammisvargas.com/endorsements",
-"https://lammisvargas.com/in-the-news",
-"https://lammisvargas.com/meet-lammis",
-"https://lammisvargas.com/platform",
-"https://lammisvargas.com/privacy-policy",
-"https://lammisvargas.com/rhode-islands-need-for-bilingual-teachers-is-urgent-this-fund-could-help-fix-the-pipeline-legislators-say",
-"https://lammisvargas.com/volunteer",
-"https://pinterest.com/themerex0063",
-"https://secure.actblue.com/donate/friends-of-lammis-j--vargas-senate28",
-"https://themerex.net/",
-"https://ticksy.com/privacy-policy",
-"https://tools.google.com/dlpage/gaoptout",
-"https://twitter.com/ThemerexThemes",
-"https://twitter.com/lammisjvargas",
-"https://twitter.com/privacy",
-"https://youtube.com/channel/UCnFisBimrK2aIE-hnY70kCA",
-"https://youtube.com/static?template=privacy_guidelines",
-"https://zoho.com/privacy.html"
+{
+"text": "2025 Recap",
+"href": "https://lammisvargas.com/2025-legislative-recap/"
+},
+{
+"text": "August 2024",
+"href": "https://lammisvargas.com/2024/08/"
+},
+{
+"text": "Bills gain traction in General...",
+"href": "https://lammisvargas.com/bills-gain-traction-in-general-assembly/"
+},
+{
+"text": "CloudFlare Privacy Policy",
+"href": "https://www.cloudflare.com/privacypolicy/"
+},
+{
+"text": "Contact",
+"href": "https://lammisvargas.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/friends-of-lammis-j--vargas-senate28"
+},
+{
+"text": "Dedicated funding for RIPTA is...",
+"href": "https://lammisvargas.com/dedicated-funding-for-ripta-is-a-practical-path-forward/"
+},
+{
+"text": "EU GDPR Information Portal.",
+"href": "https://www.eugdpr.org/"
+},
+{
+"text": "Endorsements",
+"href": "https://lammisvargas.com/endorsements/"
+},
+{
+"text": "Envato Privacy Policy",
+"href": "https://envato.com/privacy/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/LammisJVargas/"
+},
+{
+"text": "Facebook Privacy Policy",
+"href": "https://www.facebook.com/privacy/"
+},
+{
+"text": "Google Analytics Opt-out",
+"href": "https://tools.google.com/dlpage/gaoptout/"
+},
+{
+"text": "Hetzner Data Privacy Policy",
+"href": "https://www.hetzner.com/rechtliches/datenschutz"
+},
+{
+"text": "Home",
+"href": "https://lammisvargas.com/"
+},
+{
+"text": "In the News",
+"href": "https://lammisvargas.com/in-the-news/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/senatorlammisvargas/"
+},
+{
+"text": "J&R Marketing",
+"href": "https://www.jandrmarketing.com/"
+},
+{
+"text": "January 2025",
+"href": "https://lammisvargas.com/2025/01/"
+},
+{
+"text": "January 2026",
+"href": "https://lammisvargas.com/2026/01/"
+},
+{
+"text": "July 2024",
+"href": "https://lammisvargas.com/2024/07/"
+},
+{
+"text": "June 19, 2026",
+"href": "https://lammisvargas.com/bills-gain-traction-in-general-assembly/"
+},
+{
+"text": "June 2026",
+"href": "https://lammisvargas.com/2026/06/"
+},
+{
+"text": "June 24, 2026",
+"href": "https://lammisvargas.com/rhode-islands-need-for-bilingual-teachers-is-urgent-this-fund-could-help-fix-the-pipeline-legislators-say/"
+},
+{
+"text": "June 3, 2026",
+"href": "https://lammisvargas.com/dedicated-funding-for-ripta-is-a-practical-path-forward/"
+},
+{
+"text": "Meet Lammis",
+"href": "https://lammisvargas.com/meet-lammis/"
+},
+{
+"text": "November 2024",
+"href": "https://lammisvargas.com/2024/11/"
+},
+{
+"text": "October 2024",
+"href": "https://lammisvargas.com/2024/10/"
+},
+{
+"text": "Platform",
+"href": "https://lammisvargas.com/platform/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lammisvargas.com/privacy-policy/"
+},
+{
+"text": "Rhode Island’s need for bili...",
+"href": "https://lammisvargas.com/rhode-islands-need-for-bilingual-teachers-is-urgent-this-fund-could-help-fix-the-pipeline-legislators-say/"
+},
+{
+"text": "September 2024",
+"href": "https://lammisvargas.com/2024/09/"
+},
+{
+"text": "Ticksy Privacy Policy",
+"href": "https://ticksy.com/privacy-policy/"
+},
+{
+"text": "Twitter Privacy Policy",
+"href": "https://twitter.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://lammisvargas.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/lammisjvargas"
+},
+{
+"text": "YouTube Privacy Policy",
+"href": "https://www.youtube.com/static?template=privacy_guidelines"
+},
+{
+"text": "Zoho Privacy Policy",
+"href": "https://www.zoho.com/privacy.html"
+},
+{
+"text": "[image: Bills gain traction in General Assembly]",
+"href": "https://lammisvargas.com/bills-gain-traction-in-general-assembly/"
+},
+{
+"text": "[image: Dedicated funding for RIPTA is a practical path forward]",
+"href": "https://lammisvargas.com/dedicated-funding-for-ripta-is-a-practical-path-forward/"
+},
+{
+"text": "[image: Lammis Vargas]",
+"href": "https://lammisvargas.com/"
+},
+{
+"text": "[image: Rhode Island’s need for bilingual teachers is urgent. This fund could help fix the pipeline, legislators say.]",
+"href": "https://lammisvargas.com/rhode-islands-need-for-bilingual-teachers-is-urgent-this-fund-could-help-fix-the-pipeline-legislators-say/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/ThemerexThemes"
+},
+{
+"text": "[no text]",
+"href": "https://www.behance.net/themerex"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ThemeRexStudio"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/themerex_net/"
+},
+{
+"text": "[no text]",
+"href": "https://www.pinterest.com/themerex0063"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCnFisBimrK2aIE-hnY70kCA"
+},
+{
+"text": "donate",
+"href": "https://secure.actblue.com/donate/friends-of-lammis-j--vargas-senate28"
+},
+{
+"text": "https://themerex.net",
+"href": "https://themerex.net"
+},
+{
+"text": "« Jun",
+"href": "https://lammisvargas.com/2026/06/"
+}
 ]

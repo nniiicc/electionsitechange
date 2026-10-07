@@ -1,17 +1,8 @@
-Back to All Events
-The Pennington County Democrats are thrilled to co-host this year’s Roundup, featuring keynote speaker Ken Martin, Chair of the DNC!
-We’re shaking things up with exciting new activities:
-- Live Auction
-- Dessert Dash
-- Paddle Auction
-- Silent Auction
-Prizes include tropical getaways, a half beef, original artwork, spa packages, and more—yours for the right bid!
-🎟 Tickets available starting August 15.
+0 Skip to Content About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu About Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Take Action Contact Me Get Involved Host a Yard Sign Donate → Open Menu Close Menu Folder: About Back Meet Nicole Media Vision For South Dakota Endorsements Scorecards Legislative Work Calendar & Events Bulletin Folder: Take Action Back Contact Me Get Involved Host a Yard Sign Donate → Back to All Events 2025 Pennington County Democrats Roundup Saturday, September 27, 2025 5:00 PM 9:00 PM DoubleTree by Hilton Rapid City Downtown Convention Center 505 North 5th Street Rapid City, SD, 57701 United States (map) Google Calendar ICS The Pennington County Democrats are thrilled to co-host this year’s Roundup, featuring keynote speaker Ken Martin, Chair of the DNC !
+We’re shaking things up with exciting new activities: Live Auction Dessert Dash Paddle Auction Silent Auction Prizes include tropical getaways, a half beef, original artwork, spa packages, and more—yours for the right bid! 🎟 Tickets available starting August 15 .
 Don’t miss one of the biggest Democratic gatherings of the year!
-Previous
-Previous
-August 26
-Women’s Equality Day: Celebrating South Dakota Women in Politics
-Next
-Next
-January 10
+RSVP on Facebook → Get Tickets → Previous Previous August 26 Women’s Equality Day: Celebrating South Dakota Women in Politics Next Next January 10 Beers Before Pierre Will you chip in and support our vision?
+Every contribution helps me communicate with voters, distribute campaign materials, organize volunteers, and build the campaign we need to win re-election.
+Whether you give $25, $50, or another amount, your support helps ensure District 32 continues to have a thoughtful and effective voice in Pierre.
+Donate now. → Donating by mail?
+Click here. → $25 $50 $75 $100 $250 $500 Home | Donate | Contact

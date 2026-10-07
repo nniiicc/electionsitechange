@@ -1,11 +1,9 @@
-Over the past several weeks, I’ve spent time talking with people across our communities — parents, healthcare workers, veterans, retirees, small business owners, educators, tradespeople, and working families.
-And regardless of political affiliation, I keep hearing the same thing:
-People are exhausted
-Families are working harder, budgeting more carefully, and still feeling like they are falling behind.
+Skip to content Dr.
+Kathy Richardson for State Representative Washington 28th District Home Meet Dr Kathy Richardson Priorities I Stand with: Veterans and Military Families Healthcare Providers and first Responders Small Business Owners Educators and Students Updates from the Trail Get Involved Contact Me Donate People Are Exhausted June 9, 2026 Over the past several weeks , I’ve spent time talking with people across our communities — parents, healthcare workers, veterans, retirees, small business owners, educators, tradespeople, and working families.
+And regardless of political affiliation, I keep hearing the same thing: People are exhausted Families are working harder, budgeting more carefully, and still feeling like they are falling behind.
 The cost of groceries, gas, utilities, insurance, housing, childcare, and healthcare continues to rise.
 Small businesses are trying to survive increasing operating costs while families are making difficult choices about what they can and cannot afford.
-Many people are asking a simple question:
-How much more can working families absorb?
+Many people are asking a simple question: How much more can working families absorb?
 Washington is a beautiful state filled with innovative people, strong communities, and hardworking families.
 But many residents feel that state government has become increasingly disconnected from the financial realities facing ordinary people.
 Families have to live within their means every day.
@@ -21,11 +19,11 @@ They want to keep serving their communities, employing local workers, and contri
 Some business owners have already moved operations out of Washington.
 Others are considering it.
 Others are quietly wondering how much longer they can continue.
-That should concern all of us.
+That should concern all of us .
 Because when businesses struggle, communities struggle.
 And when people with the means to leave the state begin relocating elsewhere, it raises important long-term questions about the sustainability of our tax structure and future state budgets.
 These are not partisan concerns.
-They are real-life concerns.
+They are real-life concerns .
 People want safe communities, affordable living, responsible stewardship of taxpayer dollars, and leadership that understands the impact policies have on everyday families.
 They want practical solutions, accountability, and transparency.
 Most importantly, they want to feel heard again.
@@ -33,7 +31,8 @@ As I continue talking with people throughout the district, I will keep listening
 Because leadership begins there.
 Not with political talking points.
 Not with social media arguments.
-But with listening to the people we are elected to serve.
-— Dr.
-Kathleen Richardson
-Candidate for Washington State House of Representatives, 28th Legislative District Position 1
+But with listening to the people we are elected to serve. — Dr.
+Kathleen Richardson Candidate for Washington State House of Representatives, 28th Legislative District Position 1 Meet Kathy Volunteer Donate Join the campaign Kathy Richardson Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Instagram Facebook X Dr.
+Kathy Richardson for State Representative Washington 28th District Info@electkathyrichardson.com Paid for by Friends of Kathy Richardson PO Box 64345, UP, WA 98464

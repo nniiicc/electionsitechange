@@ -1,21 +1,78 @@
 [
-"https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei",
-"https://facebook.com/JoeMossforOCC",
-"https://facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&t=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI",
-"https://joemoss.com/",
-"https://joemoss.com/about",
-"https://joemoss.com/blog",
-"https://joemoss.com/contact",
-"https://joemoss.com/district-map",
-"https://joemoss.com/endorsements",
-"https://joemoss.com/jobs",
-"https://joemoss.com/terms",
-"https://joemoss.com/volunteer",
-"https://lakeshorenonprofits.org/about",
-"https://linkedin.com/in/joe-moss",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&title=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI&summary=I+am+inviting+local+NGO+Lakeshore+Nonprofit+Alliance+%28%22LNA%22%29+to+abolish+DEI+in+their+organization+and+publicly+support+colorblind+equality+in+their+programs%2C+practices%2C+and+policies.%0D%0A%0D%0ALNA+has+publicly+committed+to%3A%0D%0A%0D%0A+%09Operate+with+a+DEI+agenda%0D%0A+%09Advan",
-"https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&title=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI",
-"https://secure.winred.com/joemoss/donate",
-"https://x.com/JoeMoss",
-"https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&text=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI"
+{
+"text": "About",
+"href": "https://joemoss.com/about"
+},
+{
+"text": "Contact",
+"href": "https://joemoss.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://joemoss.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/joemoss/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://joemoss.com/endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JoeMossforOCC"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&t=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI"
+},
+{
+"text": "Jobs",
+"href": "https://joemoss.com/jobs"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/joe-moss/"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&title=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI&summary=I+am+inviting+local+NGO+Lakeshore+Nonprofit+Alliance+%28%22LNA%22%29+to+abolish+DEI+in+their+organization+and+publicly+support+colorblind+equality+in+their+programs%2C+practices%2C+and+policies.%0D%0A%0D%0ALNA+has+publicly+committed+to%3A%0D%0A%0D%0A+%09Operate+with+a+DEI+agenda%0D%0A+%09Advan"
+},
+{
+"text": "News",
+"href": "https://joemoss.com/blog"
+},
+{
+"text": "Reddit",
+"href": "https://reddit.com/submit?url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&title=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI"
+},
+{
+"text": "Terms",
+"href": "https://joemoss.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://joemoss.com/volunteer"
+},
+{
+"text": "WhatsApp",
+"href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei"
+},
+{
+"text": "X",
+"href": "https://x.com/JoeMoss"
+},
+{
+"text": "X",
+"href": "https://x.com/intent/post?url=https%3A%2F%2Fjoemoss.com%2Finvitation-to-lakeshore-nonprofit-alliance-to-abolish-dei&text=Invitation+to+Lakeshore+Nonprofit+Alliance+to+Abolish+DEI"
+},
+{
+"text": "[image: Joe Moss Logo] [image: Joe Moss Logo]",
+"href": "https://joemoss.com/"
+},
+{
+"text": "https://lakeshorenonprofits.org/about/",
+"href": "https://lakeshorenonprofits.org/about/"
+}
 ]

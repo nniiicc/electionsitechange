@@ -1,6 +1,7 @@
-For Our Neighbors Benefit Gala
-When the TCU fires ripped through our communities, Tuolumne was especially hard hit in Chinese Camp.
+0 Skip to Content Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home About About CA5 Español Inicio Conoce A Michael Temas Issues Events News Endorsements Donate Open Menu Close Menu Home Folder: About Back About CA5 Folder: Español Back Inicio Conoce A Michael Temas Issues Events News Endorsements Donate For Our Neighbors Benefit Gala Nov 15 Written By Michael Masuda When the TCU fires ripped through our communities, Tuolumne was especially hard hit in Chinese Camp.
 The night I heard I stopped everything to rally the amazing organizing team so we could determine how best to help our neighbors.
 What started as a spaghetti feed turned into an event that exceeded all of our expectations.
 A successful and beautifully touching Gala which brought together Chicken Ranch Casino as our host and Black Oak Casino as a host sponsor among so many others to show some real people power to raise upward of $100,000.00 - every cent of which to directly benefit the hardest hit in Chinese Camp.
 It was an honor to work with the organizing team that made something out of nothing, and go to work for the people of CA5 with real action.
+Michael Masuda Previous Previous I’m a dog person, how about you?
+Navigation Media Issues Volunteer California District 05 Endorsements Blog Contact Us Proudly paid for by Masuda for Congress‍ Committee ID #C00905133 Privacy Policy and Terms & Conditions

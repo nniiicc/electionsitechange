@@ -1,5 +1,4 @@
-NH House minority leader Alexis Simpson makes the case for changing the leadership this November in Concord
-When I ran a non-profit with a food pantry on the Seacoast, I met people who had jobs, sometimes two or three of them, and still couldn’t make the math work at the end of the month.
+Why I Serve News Donate Why I Serve News Donate Dennis Malloy August 6, 2026 Concord Has Failed to Lower Costs Dennis Malloy August 6, 2026 NH House minority leader Alexis Simpson makes the case for changing the leadership this November in Concord When I ran a non-profit with a food pantry on the Seacoast, I met people who had jobs, sometimes two or three of them, and still couldn’t make the math work at the end of the month.
 That was years ago, and it has only gotten harder.
 In New Hampshire, if you work hard and play by the rules, you should be able to build a good life and leave a better one for your kids.
 As I travel the state and talk with people at their doors and in their communities, I hear the same worry: the promise that hard work can pay off feels farther away every year.
@@ -36,3 +35,6 @@ As campaign season begins, don’t settle for slogans.
 Ask every candidate who knocks on your door one question: How will you make New Hampshire more affordable?
 Granite Staters deserve leaders with real solutions, not political distractions, and House Democrats are ready to make affordability the Legislature’s top priority.
 House Democratic Leader Alexis Simpson, D-Exeter, represents Rockingham County District 33.
+Newer Post The Danger of CACR 12 Older Post May 16, 2026 NH House Report Have a question or comment for Dennis Malloy?
+Contact information: dennis@dennismalloy.com 10 Van Etten Drive Greenland, NH 03840 603 970 1827 Dennis Malloy, Rockingham District 24, NH House of Representatives.
+Back to Top Donate dennis@dennismalloy.com Powered by Squarespace

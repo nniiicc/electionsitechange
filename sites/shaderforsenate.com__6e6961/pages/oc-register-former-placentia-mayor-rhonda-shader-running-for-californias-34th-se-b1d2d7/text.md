@@ -1,10 +1,8 @@
-OC Register: Former Placentia Mayor Rhonda Shader running for California’s 34th Senate District
-After an unsuccessful bid for the seat in 2022, former Placentia Mayor Rhonda Shader is making another run for California’s 34th Senate District in 2026.
+Skip to content Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE × Home Meet Rhonda Issues Endorsements News Gallery Contact DONATE OC Register: Former Placentia Mayor Rhonda Shader running for California’s 34th Senate District Orange County Register | February 8, 2025 After an unsuccessful bid for the seat in 2022, former Placentia Mayor Rhonda Shader is making another run for California’s 34th Senate District in 2026.
 Shader, a Republican, said she’s running because she’s seen the impact of state laws on cities and residents and wants to play a role in shaping policy.
 A longtime North Orange County resident, Shader served on the Placentia City Council for eight years before terming out last year.
 “I really feel that Sacramento is not representing north Orange County well,” she said.
-“I’m a business owner, and I feel strongly that our businesses are not being supported … by the regulations that are coming out of our government.”
-That’s why Shader said she’s pledged to visit 100 businesses in 100 days across the 34th District, which includes the northern Orange County cities of Santa Ana, Anaheim, Placentia, Fullerton, Buena Park, La Habra and parts of Orange, and South Whittier in Los Angeles County.
+“I’m a business owner, and I feel strongly that our businesses are not being supported … by the regulations that are coming out of our government.” That’s why Shader said she’s pledged to visit 100 businesses in 100 days across the 34th District, which includes the northern Orange County cities of Santa Ana, Anaheim, Placentia, Fullerton, Buena Park, La Habra and parts of Orange, and South Whittier in Los Angeles County.
 “I’m going directly to them to find out where they need help, where things have hurt and to see if there are things that we can do to try to change that,” she said.
 So far, Shader has visited about 20 businesses and said many have shared similar concerns about the “lack of thought” behind some regulations coming out of Sacramento.
 One example Shader pointed to is the $20 an-hour minimum wage requirement for fast food workers, which took effect last April.
@@ -28,4 +26,4 @@ Homelessness is an epidemic in California, with billions of dollars spent each y
 “I think a lot of it is accountability.
 We’ve thrown a lot of money at it — and it does take money because we’re helping people … that have really serious needs,” she said.
 Shader said she’s unsure yet about cutting homelessness funding but said she supports requiring organizations that receive it to demonstrate measurable success.
-Continue reading at: Orange County Register
+Continue reading at: Orange County Register Share on Facebook 𝕏 Share on X Share on Email DONATE Quickly & Securely Online JOIN RHONDA Endorse | Volunteer | Yard Sign LATEST NEWS Los Angeles wants to cut the costal cleanup team RHONDA SHADER ENDORSED BY GOP UNION CAUCUS Endorsement Highlights Shader’s Commitment to Working Families A Conversation with Past Mayor and Past Chamber Chair Rhonda Shader 2026 Senate Candidate Rhonda Shader, SD-34 candidate, 2026 primary election questionnaire Leadership That Delivers: From City Hall to Real Impact Guest: Rhonda Shader Rhonda Shader Interview All News Paid for by Rhonda Shader for Senate 2026 - Campaign ID # 1460521 Privacy Policy | Terms of Use Scroll To Top

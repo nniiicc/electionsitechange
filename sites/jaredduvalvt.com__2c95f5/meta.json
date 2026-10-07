@@ -1,7 +1,11 @@
 {
  "description": "Jared Duval is running for State Representative for Montpelier (Washington-4 district)",
  "final_url": "https://www.jaredduvalvt.com/",
- "paid_for_by": null,
+ "fingerprint": "0bb4a7365a3d4296fc38d5c9596f8d5e38863771",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Jared for House 2026",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

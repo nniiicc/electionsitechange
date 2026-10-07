@@ -1,19 +1,86 @@
 [
-"https://micahaiu.com/",
-"https://micahaiu.com/about-micah",
-"https://micahaiu.com/contact",
-"https://micahaiu.com/contribute",
-"https://micahaiu.com/issues",
-"https://micahaiu.com/media/home-1.jpg",
-"https://micahaiu.com/media/home-2.jpg",
-"https://micahaiu.com/media/home-3.jpg",
-"https://micahaiu.com/media/home-4.jpg",
-"https://micahaiu.com/media/home-5.jpg",
-"https://micahaiu.com/media/home-6.jpg",
-"https://micahaiu.com/media/home-7.jpg",
-"https://micahaiu.com/media/home-8.jpg",
-"https://micahaiu.com/photos",
-"https://micahaiu.com/privacy",
-"https://micahaiu.com/terms",
-"https://micahaiu.com/volunteer"
+{
+"text": "About Micah",
+"href": "https://www.micahaiu.com/about-micah"
+},
+{
+"text": "Contact",
+"href": "https://www.micahaiu.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.micahaiu.com/contribute"
+},
+{
+"text": "Home",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.micahaiu.com/issues"
+},
+{
+"text": "Photos",
+"href": "https://www.micahaiu.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.micahaiu.com/privacy"
+},
+{
+"text": "Read about the issues",
+"href": "https://www.micahaiu.com/issues"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.micahaiu.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://www.micahaiu.com/volunteer"
+},
+{
+"text": "[image: 2024 campaign flyer: condominium legislation summary — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-6.jpg"
+},
+{
+"text": "[image: 2024 campaign flyer: public safety and care-home measures — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-2.jpg"
+},
+{
+"text": "[image: 2024 campaign flyer: rockfall mitigation and Moanalua Valley testimonial — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-3.jpg"
+},
+{
+"text": "[image: 2024 reelection flyer: condominium costs and SB 2600 — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-5.jpg"
+},
+{
+"text": "[image: 2024 reelection flyer: first-term legislative accomplishments — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-1.jpg"
+},
+{
+"text": "[image: 2024 reelection flyer: neighborhood safety and Lee Kunimitsu testimonial — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-4.jpg"
+},
+{
+"text": "[image: Historical campaign flyer: working families, grandparents, and community priorities — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-7.jpg"
+},
+{
+"text": "[image: Historical reelection flyer: working families and Aiu family photograph — open full-size image]",
+"href": "https://www.micahaiu.com/media/home-8.jpg"
+},
+{
+"text": "[image: Micah Poʻokela Kim Aiu, House District 32]Hawaiʻi State HouseDistrict 32 · 2026",
+"href": "https://www.micahaiu.com/"
+},
+{
+"text": "vote@micahaiu.com",
+"href": "mailto:vote@micahaiu.com"
+},
+{
+"text": "www.micahaiu.com",
+"href": "https://www.micahaiu.com/"
+}
 ]

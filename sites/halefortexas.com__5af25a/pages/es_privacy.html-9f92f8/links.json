@@ -1,16 +1,78 @@
 [
-"https://halefortexas.com/",
-"https://halefortexas.com/es/44.html",
-"https://halefortexas.com/es/about.html",
-"https://halefortexas.com/es/endorsements.html",
-"https://halefortexas.com/es/index.html",
-"https://halefortexas.com/es/merchandise.html",
-"https://halefortexas.com/es/privacy.html",
-"https://halefortexas.com/es/social.html",
-"https://halefortexas.com/es/terms.html",
-"https://halefortexas.com/es/volunteer.html",
-"https://halefortexas.com/privacy.html",
-"https://halefortexas.com/vi/privacy.html",
-"https://halefortexas.com/zh/privacy.html",
-"https://secure.winred.com/alexander-hale-for-congress/donate"
+{
+"text": "44",
+"href": "https://www.halefortexas.com/es/44.html"
+},
+{
+"text": "Conoce a Alexander",
+"href": "https://www.halefortexas.com/es/about.html"
+},
+{
+"text": "Donar",
+"href": "https://secure.winred.com/alexander-hale-for-congress/donate"
+},
+{
+"text": "EN",
+"href": "https://www.halefortexas.com/privacy.html"
+},
+{
+"text": "ES",
+"href": "https://www.halefortexas.com/es/privacy.html"
+},
+{
+"text": "Endosos",
+"href": "https://www.halefortexas.com/es/endorsements.html"
+},
+{
+"text": "HALE PARA TEXAS",
+"href": "https://www.halefortexas.com/es/index.html"
+},
+{
+"text": "Inicio",
+"href": "https://www.halefortexas.com/es/index.html"
+},
+{
+"text": "Noticias",
+"href": "https://www.halefortexas.com/es/index.html#news"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.halefortexas.com/es/privacy.html"
+},
+{
+"text": "Prioridades",
+"href": "https://www.halefortexas.com/es/index.html#issues"
+},
+{
+"text": "Redes Sociales",
+"href": "https://www.halefortexas.com/es/social.html"
+},
+{
+"text": "Tienda",
+"href": "https://www.halefortexas.com/es/merchandise.html"
+},
+{
+"text": "Términos de Servicio",
+"href": "https://www.halefortexas.com/es/terms.html"
+},
+{
+"text": "VI",
+"href": "https://www.halefortexas.com/vi/privacy.html"
+},
+{
+"text": "Voluntario",
+"href": "https://www.halefortexas.com/es/volunteer.html"
+},
+{
+"text": "https://halefortexas.com",
+"href": "https://halefortexas.com"
+},
+{
+"text": "info@halefortexas.com",
+"href": "mailto:info@halefortexas.com"
+},
+{
+"text": "中文",
+"href": "https://www.halefortexas.com/zh/privacy.html"
+}
 ]

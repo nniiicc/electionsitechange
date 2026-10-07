@@ -1,7 +1,11 @@
 {
- "description": "Vote for Dr. B\u00e1ez for Congress in the San Antonio congressional election. Join the campaign for a better Texas!",
+ "description": "Vote for Dr. Báez for Congress in the San Antonio congressional election. Join the campaign for a better Texas!",
  "final_url": "https://www.drbaezforcongress.com/congressional-candidate/san-marcos-tx",
+ "fingerprint": "36c0bcf0bd25eb5c2a8adcc577d0eca35350de62",
+ "format": 3,
  "paid_for_by": "PAID FOR BY DR",
- "title": "Congressional Candidate | San Marcos, TX | Dr. B\u00e1ez for Congress",
- "years_mentioned": []
+ "title": "Congressional Candidate | San Marcos, TX | Dr. Báez for Congress",
+ "years_mentioned": [
+  "1954"
+ ]
 }

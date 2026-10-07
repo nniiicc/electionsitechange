@@ -1,4 +1,5 @@
-House Bill 3: Medicaid and KCHIP would be required to comply with certain pharmacy reimbursement requirements under this bill.
+Skip to primary sidebar Skip to content Skip to footer Erika Hancock State Rep for Kentucky's 57th District Home Meet Erika Erika’s Update!
+Appearances News Contact Contribute You are here: Home / Uncategorized / Bills That Passed the House the Week of February 16 by on February 20, 2026 Bills That Passed the House the Week of February 16 House Bill 3: Medicaid and KCHIP would be required to comply with certain pharmacy reimbursement requirements under this bill.
 House Bill 4: This bill would criminalize conduct with a minor with the intent to manipulate the child into engaging in sexual conduct, a practice also known as grooming.
 There would be enhanced penalties for grooming a child under the age of 14 or if the adult is in a position of authority over the minor.
 House Bill 6: This bill seeks to increase access to affordable child care for Kentuckians.
@@ -44,3 +45,7 @@ A 30-day notice with reason would be required, and the faculty member would be g
 House Bill 508: This bill seeks to put an end to bad actors assisting veterans with accessing benefits by requiring transparency and accountability for the industry.
 House Bill 562: This bill would create a new alternative diploma for Kentucky public school students with severe disabilities that would make them more eligible for employment.
 House Joint Resolution 25: This resolution would establish Kentucky as a “Food is Medicine” state to launch a dedicated initiative to integrate health care and agriculture to improve the health of Kentuckians.
+Primary Sidebar Sign Up for Erika's Updates!
+"Erika’s Update" is a newsletter sent out weekly during the legislative session and monthly the rest of the year.
+Footer Connect with Erika!
+Contact Us | LRC | Facebook | BlueSky Instagram | Threads | YouTube | Contribute Copyright © # · Paid for by Hancock for State Representative

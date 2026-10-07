@@ -1,57 +1,30 @@
-Meet Matt
-Why Matt wants to be your representative
-A Career of Service to the Community
-2026
-Appointed to the Inspector General Legislative Advisory Commission to help select and oversee the new inspector general to root out fraud in Minnesota.
+0 Skip to Content Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Get Involved Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Matt's Work Delivering Results at the Capitol Matt In The News Priorities Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Open Menu Close Menu Folder: Get Involved Back Stay in Touch Upcoming Events I Want a Sign Volunteer Meet Matt Folder: Matt's Work Back Delivering Results at the Capitol Matt In The News Folder: Priorities Back Summary Making Life More Affordable Lowering Property Taxes Producing Real Results from Government Standing Up for Minnesotans Making Housing More Affordable Making Our Neighborhoods Safer Making Schools More Successful Endorsements Make a Donation Meet Matt Matt’s a Midwestern Democrat and a proud Blaine resident.
+Born and raised in the northern suburbs, he graduated from the University of Minnesota with his business and law degrees.
+Matt’s already proven he can get bills passed at the Capitol—and he’s worked with Republicans and Democrats to do it.
+“I’m running for re-election because I still believe in government’s ability to solve community problems.
+I've tackled tough challenges at the local, state, and national level.
+During my time in the Minnesota House, I’ve proven that by building bridges and working with people from different backgrounds, we can actually get results.” -Matt Why Matt wants to be your representative A Career of Service to the Community 2026 Appointed to the Inspector General Legislative Advisory Commission to help select and oversee the new inspector general to root out fraud in Minnesota.
 Selected for the Melissa Hortman Emerging Leaders Program, an annual conference for approximately 50 up-and-coming legislators from across the country sponsored by the State Legislative Leaders Foundation.
-2025
-2024
-Appointed to represent Minnesota on the State and Local Taxation Task Force for the National Conference of State Legislatures.
-Brought his first two standalone bills to the House floor that were signed into law by the Governor:
-- The Veterans and Military Affairs Policy Bill which passed the Minnesota House unanimously!
-- The Minnesota Cooperative Housing Act which passed the Minnesota House 128-1.
-2023
-Hit the ground running in the Minnesota House authoring 24 bills that became law and receiving the following honors:
-- League of Minnesota Cities Legislator of Distinction
-- Clean Water Action Minnesota Ambassador Award
-- MICAH Community Hero Award
-2022
-Led Minnesota Afterschool Advance to a record $1.8 million in afterschool programs and computer devices paid for in a calendar year.
+2025 2024 Appointed to represent Minnesota on the State and Local Taxation Task Force for the National Conference of State Legislatures.
+Brought his first two standalone bills to the House floor that were signed into law by the Governor: The Veterans and Military Affairs Policy Bill which passed the Minnesota House unanimously!
+The Minnesota Cooperative Housing Act which passed the Minnesota House 128-1.
+2023 Hit the ground running in the Minnesota House authoring 24 bills that became law and receiving the following honors: League of Minnesota Cities Legislator of Distinction Clean Water Action Minnesota Ambassador Award MICAH Community Hero Award Learn more about Matt’s results at the Capitol.
+2022 Led Minnesota Afterschool Advance to a record $1.8 million in afterschool programs and computer devices paid for in a calendar year.
 Elected to the Minnesota Houses of Representatives representing Blaine and Lexington.
-2021
-Struck a deal between Democrats and Republicans to repeal laws that prevented both high school students and seniors on social security from getting unemployment insurance.
-Read a column from the Blaine Life newspaper about this victory for older and younger workers
-Secured a 40% increase in funding for workforce development programs for East African youth from the Minnesota Legislature.
-2020
-Delivered computers to over 1,300 families to help with distance learning during the pandemic.
-2019
-Named co-chair of Leadership Twin Cities.
-2018
-Founded Minnesota Afterschool Advance which has connected more than 1,500 youth in over 200 cities (Blaine included!) with afterschool programs and computers
-2017
-Joined the Minneapolis NCAA Final Four planning team as a volunteer working on logistics and community outreach efforts.
-2015
-Began working for Step Up to help low-income high school students explore careers through professional internships.
-2014
-Helped write a new law to create Public Benefit Corporations: for-profit companies that also must achieve a social purpose like paying fair wages or helping the environment.
-2012
-Honored as a White House Campus Champions of Change finalist for his community work.
-2011
-Started a nonprofit social enterprise that provided both a safe place after school and jobs for local youth.
-2009
-Awarded the Key to the City of Brooklyn Park for increasing activities and employment for teens which helped reduce violent crime by 40%.
-2007
-Founded the multi-city initiative Brooklyn Bridge Alliance for Youth that is still going strong today.
-2005
-Appointed first youth liaison to Brooklyn Park’s Citizen Long-Range Improvement Committee at the age of 16, launching Matt’s career of service.
+2021 Struck a deal between Democrats and Republicans to repeal laws that prevented both high school students and seniors on social security from getting unemployment insurance .
+Read a column from the Blaine Life newspaper about this victory for older and younger workers Secured a 40% increase in funding for workforce development programs for East African youth from the Minnesota Legislature.
+2020 Delivered computers to over 1,300 families to help with distance learning during the pandemic.
+Listen to a podcast about Matt’s innovative response to help families in the early days of the pandemic 2019 Named co-chair of Leadership Twin Cities .
+2018 Founded Minnesota Afterschool Advance which has connected more than 1,500 youth in over 200 cities (Blaine included!) with afterschool programs and computers Read about Matt’s work in the news 2017 Joined the Minneapolis NCAA Final Four planning team as a volunteer working on logistics and community outreach efforts.
+2015 Began working for Step Up to help low-income high school students explore careers through professional internships.
+2014 Helped write a new law to create Public Benefit Corporations : for-profit companies that also must achieve a social purpose like paying fair wages or helping the environment.
+Read an op-ed Matt wrote on the topic 2012 Honored as a White House Campus Champions of Change finalist for his community work.
+2011 Started a nonprofit social enterprise that provided both a safe place after school and jobs for local youth.
+2009 Awarded the Key to the City of Brooklyn Park for increasing activities and employment for teens which helped reduce violent crime by 40%.
+2007 Founded the multi-city initiative Brooklyn Bridge Alliance for Youth that is still going strong today.
+2005 Appointed first youth liaison to Brooklyn Park’s Citizen Long-Range Improvement Committee at the age of 16, launching Matt’s career of service.
 “This experience shows what can happen when people across generations and across political parties band together to right a wrong.
-This is how democracy is supposed to work.”
-— Matt in the Blaine Life newspaper about his efforts to secure
-unemployment benefits for seniors and high school students
-Matt’s Leadership in the Community
-Current Board and Community Involvement
-- Blaine Festival Committee
-- Children’s Law Center Volunteer Attorney
-- Minnesota Amateur Sports Commission (governing body of the National Sports Center)
-- Church of St.
-Timothy’s Social Justice Committee
+This is how democracy is supposed to work.” — Matt in the Blaine Life newspaper about his efforts to secure unemployment benefits for seniors and high school students Matt’s Leadership in the Community Current Board and Community Involvement Blaine Festival Committee Children’s Law Center Volunteer Attorney Minnesota Amateur Sports Commission (governing body of the National Sports Center) Church of St.
+Timothy’s Social Justice Committee Learn about Matt’s path to the Minnesota House of Representatives Matt is the champion we need at the State Capitol Join Us Donate Volunteer Media Resources Contact Matt Prepared and Paid for by the Committee for Matt Norris for Minnesota.
+P.O.
+Box 490868, Blaine, MN 55449

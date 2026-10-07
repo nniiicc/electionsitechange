@@ -1,7 +1,11 @@
 {
  "description": "Dr. Brown for House District 99's campaign",
  "final_url": "https://www.brownfor99.com/about",
+ "fingerprint": "433a8c073c8619dabf42e9dd34ed0fcd5a795a62",
+ "format": 3,
  "paid_for_by": "Paid for By the Dr",
- "title": "Meet Dr. Brown \u2014 Dr. Brown for House District 99",
- "years_mentioned": []
+ "title": "Meet Dr. Brown — Dr. Brown for House District 99",
+ "years_mentioned": [
+  "2026"
+ ]
 }

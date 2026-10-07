@@ -1,9 +1,8 @@
-You can look up your early voting and election day polling locations here at vote.nyc:
-The deadline to register to vote for the November 7th general election is Saturday, October 28th.
-Register to vote or update your voter registration (dmv.ny.gov)Find out if you are registered to vote (nycvotersearch.com)
-NYC voters may request an absentee ballot for a number of reasons.
-Absentee Ballot registration deadlines:
-- October 23rd: Last day for board of elections to receive absentee ballot application by letter, telefax, or through the absentee request portal.
-- November 6th: Final day to apply in person for an absentee ballot.
-- November 7th: Final day to postmark your completed absentee ballot and put it in the mail.
-- November 7th, 9pm: Final day to deliver your absentee ballot in person to a poll site in your county or your County Board of Elections.
+Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce More Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate Home Meet Joyce Joyce Xie Endorsements Priorities What I'm Fighting For Upcoming Events Volunteer Volunteer for Joyce How to Vote How to Vote for Joyce Donate How to Vote for Joyce In November Find Your Polling Place You can look up your early voting and election day polling locations here at vote.nyc: Find my poll site (vote.nyc) Register to Vote The deadline to register to vote for the November 7th general election is Saturday, October 28th.
+Register to vote or update your voter registration (dmv.ny.gov) Find out if you are registered to vote (nycvotersearch.com) Voting Absentee NYC voters may request an absentee ballot for a number of reasons .
+Absentee Ballot registration deadlines: October 23rd : Last day for board of elections to receive absentee ballot application by letter, telefax, or through the absentee request portal.
+November 6th : Final day to apply in person for an absentee ballot.
+November 7th : Final day to postmark your completed absentee ballot and put it in the mail.
+November 7th, 9pm : Final day to deliver your absentee ballot in person to a poll site in your county or your County Board of Elections.
+Apply for an absentee ballot (nycabsentee.com) Find out more Copyright © # Joyce For New York State Assembly District 49 - All Rights Reserved.
+Privacy Policy

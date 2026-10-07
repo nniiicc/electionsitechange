@@ -1,7 +1,11 @@
 {
  "description": "View and download photos from the campaign.",
  "final_url": "https://chrisrogersforassembly.com/gallery/",
- "paid_for_by": "Paid for by Chris Rogers for Assembly 2026 | FPPC #1477090 Made by Zac Maybury Scroll to top Scroll to top Scroll to top",
- "title": "Gallery - Chris Rogers for AssemblyScroll to top",
- "years_mentioned": []
+ "fingerprint": "9c44d92a5f3e97bddca2ba11d73ae193e203b1b6",
+ "format": 3,
+ "paid_for_by": "Paid for by Chris Rogers for Assembly 2026",
+ "title": "Gallery - Chris Rogers for Assembly",
+ "years_mentioned": [
+  "2026"
+ ]
 }

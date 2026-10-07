@@ -1,12 +1,8 @@
-LEGISLATION
-Below is a list of legislative bills for which Delegate Denise Roberts is the primary sponsor during the 2026 Legislative Session in Annapolis.
+top of page HOME ABOUT MEET DENISE MY LINKS MEET MY TEAM VOTER RESOURCES KEY ISSUES ENDORSEMENTS OUR DISTRICT SERVICES SCHOLARSHIPS NEWS SINE DIE STATEMENT NEWS & UPDATES LEGISLATION END OF SESSION LETTER EVENTS GET INVOLVED STORE DONATE CONTACT More Use tab to navigate through the menu items.
+LEGISLATION Below is a list of legislative bills for which Delegate Denise Roberts is the primary sponsor during the 2026 Legislative Session in Annapolis.
 Click the button below to view more comprehensive details of all sponsored and co-sponsored bills.
-HB 368 - Prince George's County - Supplemental Homeowners' Property Tax Credit - Required PG 412-26
-HB 901 - Temporary Recognition of Autism Diagnoses in Schools
-HB 902 - Retire in Maryland Tax Relief Act
-HB 905 - Recipients of State and Local Government Funding - Reporting (Buy Maryland Reporting Requirements)
-HB 1029 - Real Property - Termination of Residential Real Estate Contracts - Contingency Clauses
-HB 1035 - State Procurement - Competitive Sealed Bids and Proposals - In-State Evaluation Preference
-HB 1097 - Public High Schools - Sports Injury Recordkeeping and Reporting – Requirements
-HB 1235 - Financial Institutions - Mortgage Servicers - Insurance Proceeds
-HB 1291 - The Mary Joseph Continuity of Care Act - Public Health - Maryland Medical Assistance Program
+HB 368 - Prince George's County - Supplemental Homeowners' Property Tax Credit - Required PG 412-26 ​ ​ HB 901 - Temporary Recognition of Autism Diagnoses in Schools HB 902 - Retire in Maryland Tax Relief Act HB 905 - Recipients of State and Local Government Funding - Reporting (Buy Maryland Reporting Requirements) ​ ​ HB 1029 - Real Property - Termination of Residential Real Estate Contracts - Contingency Clauses ​ ​ HB 1035 - State Procurement - Competitive Sealed Bids and Proposals - In-State Evaluation Preference HB 1097 - Public High Schools - Sports Injury Recordkeeping and Reporting – Requirements ​ ​ HB 1235 - Financial Institutions - Mortgage Servicers - Insurance Proceeds HB 1291 - The Mary Joseph Continuity of Care Act - Public Health - Maryland Medical Assistance Program ​ ​ CLICK HERE Legislative Contact Information DELEGATE DENISE G.
+ROBERTS Democrat, District 25 Prince George's County ​ Lowe House Office Building Room 204 6 Bladen St., Annapolis, MD 21401 (410) 841-3707 1-800-492-7122, ext.
+3377 denise.roberts@house.maryland.gov Friends of Denise Roberts 1300 Mercantile, Suite 100N Largo, MD 20774 (301) 660-3421 hello@deniseformaryland.com ​ Campaign Treasurer William Spruill, Jr. ​ Campaign Manager Mel Spruill Join My Email List Stay connected and be the first to know about updates and announcements.
+Email * Subscribe I want to subscribe to your mailing list.
+By Authority: Friends of Denise Roberts, Treasurer, William Spruill, Jr. bottom of page

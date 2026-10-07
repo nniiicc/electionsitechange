@@ -1,35 +1,7 @@
-From Newton to Fall River, 28 Local, Regional, and State Leaders Endorse Ed Markey for Reelection
-July 1, 2025
-BOSTON— Representing leadership from local, regional, and state government from Acushnet, Attleboro, Boston, Brookline, Dover, Fall River, Franklin, Freetown, Holliston, Hopkinton, Lakeville, Mansfield, Medfield, Medway, Millis, Needham, New Bedford, North Attleboro, Rochester, Sherborn, Somerset, Swansea, Taunton, Watertown, and Westport, more than two dozen former and current state senators and state representatives, district attorneys, mayors, and more are endorsing Ed Markey for reelection to the U.S.
+English English Español Português 繁體中文 Meet Ed Endorsements Issues & Priorities The Latest Volunteer Donate From Newton to Fall River, 28 Local, Regional, and State Leaders Endorse Ed Markey for Reelection July 1, 2025 BOSTON— Representing leadership from local, regional, and state government from Acushnet, Attleboro, Boston, Brookline, Dover, Fall River, Franklin, Freetown, Holliston, Hopkinton, Lakeville, Mansfield, Medfield, Medway, Millis, Needham, New Bedford, North Attleboro, Rochester, Sherborn, Somerset, Swansea, Taunton, Watertown, and Westport, more than two dozen former and current state senators and state representatives, district attorneys, mayors, and more are endorsing Ed Markey for reelection to the U.S.
 Senate.
 “I am deeply grateful to have the support of these tremendous leaders who are dedicated to fighting every day for the health, safety, and futures of Massachusetts communities,” said Markey.
-“From fighting to expand health care, to protecting our environment, to defending civil rights and liberties, to supporting our students and their education, these dedicated public servants are improving the lives of our families, businesses, and neighborhoods, and I want to continue partnering with them in the United States Senate.”
-- Paul Coogan, Mayor, Fall River
-- Ruthanne Fuller, Mayor, Newton
-- Michael Rodrigues, State Senator, 1st Bristol and Plymouth
-- Jeff Roy, State Representative, 10th Norfolk
-- James Arena-DeRosa, State Representative, 8th Middlesex
-- Jim Hawkins, State Representative, 2nd Bristol
-- Kevin Honan, State Representative, 17th Suffolk
-- John Lawn, State Representative, 10th Middlesex
-- Bill MacGregor, State Representative, 10th Suffolk
-- Steve Ouellette, State Representative, 8th Bristol
-- Amy Mah Sangiolo, State Representative, 11th Middlesex
-- Brian Murray, State Representative, 10th Worcester
-- Adam Scanlon, State Representative, 14th Bristol
-- Greg Schwartz, State Representative, 12th Middlesex
-- Alan Silvia, State Representative, 7th Bristol
-- Josh Tarsky, State Representative, 13th Norfolk
-- Tommy Vitolo, State Representative, 15th Norfolk
-- Marian Ryan District Attorney, Middlesex County
-- Paul Heroux, Sheriff, Bristol County
-- Peter Koutoujian, Sheriff, Middlesex County
-- Joan Menard, former State Senator, First Bristol and Plymouth
-- Marc Pacheco, former State Senator, 3rd Bristol and Plymouth
-- Kay Khan, former State Representative, 11th Middlesex
-- Ruth Balser, former State Representative, 12th Middlesex
-- Bill Bowles, former State Representative, 2nd Bristol
-- Paul Schmid, former State Representative, 8th Bristol
-- Thomas Hoye Jr., Registrar of Probate and former Mayor of Taunton
-- Bob Nunes, former Mayor of Taunton
-###
+“From fighting to expand health care, to protecting our environment, to defending civil rights and liberties, to supporting our students and their education, these dedicated public servants are improving the lives of our families, businesses, and neighborhoods, and I want to continue partnering with them in the United States Senate.” Paul Coogan, Mayor, Fall River Ruthanne Fuller, Mayor, Newton Michael Rodrigues, State Senator, 1st Bristol and Plymouth Jeff Roy, State Representative, 10th Norfolk James Arena-DeRosa, State Representative, 8th Middlesex Jim Hawkins, State Representative, 2nd Bristol Kevin Honan, State Representative, 17th Suffolk John Lawn, State Representative, 10th Middlesex Bill MacGregor, State Representative, 10th Suffolk Steve Ouellette, State Representative, 8th Bristol Amy Mah Sangiolo, State Representative, 11th Middlesex Brian Murray, State Representative, 10th Worcester Adam Scanlon, State Representative, 14th Bristol Greg Schwartz, State Representative, 12th Middlesex Alan Silvia, State Representative, 7th Bristol Josh Tarsky, State Representative, 13th Norfolk Tommy Vitolo, State Representative, 15th Norfolk Marian Ryan District Attorney, Middlesex County Paul Heroux, Sheriff, Bristol County Peter Koutoujian, Sheriff, Middlesex County Joan Menard, former State Senator, First Bristol and Plymouth Marc Pacheco, former State Senator, 3rd Bristol and Plymouth Kay Khan, former State Representative, 11th Middlesex Ruth Balser, former State Representative, 12th Middlesex Bill Bowles, former State Representative, 2nd Bristol Paul Schmid, former State Representative, 8th Bristol Thomas Hoye Jr., Registrar of Probate and former Mayor of Taunton Bob Nunes, former Mayor of Taunton ### Your Support Makes the Difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Click here to make an Offline Donation .
+Gear Up for the Campaign Jobs & Justice T-Shirt $30.00 Green New Deal Tote $30.00 Comeback T-Shirt $30.00 Green New Deal Hat $30.00 Shop Our Store Store Privacy Policy Contact Us Volunteer Paid For By The Markey Committee © # - Ed Markey.
+All Rights Reserved.

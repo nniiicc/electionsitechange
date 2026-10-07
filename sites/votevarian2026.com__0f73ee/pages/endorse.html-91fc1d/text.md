@@ -1,30 +1,19 @@
-ENDORSEMENTS
-Please show your support by providing an endorsement for the candidacy of KEITH VARIAN for FL-16.
+Top VARIAN for Congress US FL-14 'Steady Hands, Strong Future' About ↓ Press Lithia/BigBend/WestTampa Fuel Tax Coalition Home ↓ Blueprint Small Business The Next 250 Years ↓ Compare Events Issues 3 Min.
+Politics Contact RESOURCES ↓ Additional Help Donate ↓ medicaid ENDORSEMENTS Please show your support by providing an endorsement for the candidacy of KEITH VARIAN for FL-16.
 Scroll down to read endorsements and the letters of recommendation.
 Endorse KEITH VARIAN!
-EXAMPLE OF ENDORSER QUOTE
-I believe that [KEITH VARIAN] is the best choice for our community.
+EXAMPLE OF ENDORSER QUOTE I believe that [KEITH VARIAN] is the best choice for our community.
 But it's not just KEITH VARIAN['s EXPERIENCE that makes them the right candidate for the job.
 HE truly cares about our community and is passionate about making positive changes that will benefit all of us.
-I have no doubt that KEITH VARIAN will bring fresh ideas and a new perspective to the FL-14,
-and will work tirelessly to make our city a better place to live, work, and raise a family.
-I urge you to join me in supporting KEITH VARIAN in the upcoming election.
-— Chris M.
-LIST OF ENDORSERS
-The below 3 columns can hold a list of names.
+I have no doubt that KEITH VARIAN will bring fresh ideas and a new perspective to the FL-14, and will work tirelessly to make our city a better place to live, work, and raise a family.
+I urge you to join me in supporting KEITH VARIAN in the upcoming election. — Chris M.
+LIST OF ENDORSERS The below 3 columns can hold a list of names.
 They do not auto-flow, so you have to enter into each column.
-- Name 1
-- Name 2
-- Name 3
-- Name 4
-- Name 5
-- Name 6
-- Name 7
-- Name 8
-- Name 9
-- Name 10
-- Name 11
-- Name 12
-Ready to Endorse KEITH VARIAN for FL-14?
+Name 1 Name 2 Name 3 Name 4 Name 5 Name 6 Name 7 Name 8 Name 9 Name 10 Name 11 Name 12 Ready to Endorse KEITH VARIAN for FL-14?
 Join the above citizens, organizations and respected leaders in supporting KEITH VARIAN by providing your endorsement below!
 Unless otherwise indicated in your submission, we will consider your endorsement as permission to use on this website, literature, and newspaper articles.
+This is a ★ Select Endorsement Type Personal Endorsement Professional Endorsement Organization Endorsement First Name: ★ Last Name: ★ Email: ★ Phone: ★ Organization: Street Address: Street Address 2: City: State: Zip: Endorsement Quote: ★ To help prevent spam, please answer this math question: 2+3?
+Translate COUNTING DOWN TO Election Day Support the Campaign Events 1916 Irish Pub I'll be doing a meet and greet next Friday night 07-17-2026 Florida farm to school conference Connecting students with locally grown Florida commodities 04-07-2026 Read More...
+3 Min.
+Politics Hypothetical Scenario 20 Jul 2026, 18:39 Home/Auto State Mandated Insurance Rate Reductions 04 Jul 2026, 13:10 Refilling Strategic Petroleum Reserve(SPR) 21 Jun 2026, 16:35 Read More...
+Privacy Terms Print Page Political advertisement paid for and approved by Keith Varian the FL-14 INDEPENDENT(NPA) Candidate as a Write-In Powered by OnlineCandidate.com

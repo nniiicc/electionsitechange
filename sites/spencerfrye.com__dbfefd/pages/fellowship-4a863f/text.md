@@ -1,5 +1,5 @@
-Our History
-In 2011, we recruited students from the Athens area to campaign for our election to the Georgia House of Representatives.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate The Spencer Frye Fellowship The Spencer Frye Fellowship offers approximately 30 UGA students each year the opportunity to actively see their impact in state politics, grow as young professionals, and make a few friends along the way.
+Since 2011 Our History In 2011, we recruited students from the Athens area to campaign for our election to the Georgia House of Representatives.
 Their commitment was truly inspiring, and many desired to continue their work as the agenda turned to passing impactful legislation.
 Shortly after, the Spencer Frye Fellowship was born.
 Over 95% of the campaign staff returned, fulfilling leadership roles within the office.
@@ -8,3 +8,5 @@ Only Rep.
 Frye had a pool of young professionals managing a legislative office.
 Today, in Rep.
 Frye’s eighth term, the Fellowship continues to introduce young leaders to policymaking and serve the Athens community.
+Leadership 2026-2027 Sophie Dechant Chief of Staff Patrick Allen Legislative Director Aubrey Skinner Communications Director Eliana Mendez Fellowship Director Addison Denney Political Director Senior Staff 2026-2027 Joey Briggs Legislative Staff Emma Thomas Legislative Staff Liam Martin Communications Staff Eli King Legislative Staff Megan Dooley Legislative Staff Kate Bergquist Research Staff Current Fellows Aishwarya Yaddanapudi Research Fellow Akshara Singh Research Fellow Carter Ray Research Fellow Elle Moss Research Fellow Poorvi Iyer Legislative Fellow Natalya Huallanca Legislative Fellow Morgan Niederer Legislative Fellow Margaret Monk Legislative Fellow Madison Lowe Legislative Fellow Lexie Shadix Legislative Fellow Kaden Vail Legislative Fellow Jaylee Pace Legislative Fellow Fiona Leary Legislative Fellow Eve Weizenecker Legislative Fellow Emma Pastor Legislative Fellow Eden- Levitt Horne Legislative Fellow Celina Simone Legislative Fellow Bianca Orfila-Molinet Legislative Fellow Anya Biswas Legislative Fellow Taylor Williams Communications Fellow Nora Grady Communications Fellow Lucy Thompson Communications Fellow Logan McCahill Communications Fellow Kaitlyn Kirksey Communications Fellow Addie Goode Communications Fellow Copyright ©# Spencer Frye State House 122.
+All Rights Reserved.

@@ -1,9 +1,7 @@
-Aspen Times: Boebert: “I am more than an advocate for the 2nd Amendment, I am an advocate for freedom.”
-Lauren Boebert, owner of Shooters Bar and Grill, is challenging Rep.
+Menu About Accomplishments Endorsements News Media Get Involved store Facebook Twitter Instagram Youtube Donate Vote ← back to all news Aspen Times: Boebert: “I am more than an advocate for the 2nd Amendment, I am an advocate for freedom.” 12.9.2019 - News Article Lauren Boebert, owner of Shooters Bar and Grill, is challenging Rep.
 Scott Tipton (R-Colo.) for the GOP nomination next year but her ultimate fight is against someone else.
 In the news release announcing her campaign, Boebert called out a group of Democratic representatives known as The Squad, most notably Rep.
-Alexandria Ocasio-Cortez (D-N.Y.), famous for championing the Green New Deal.
-“(Ocasio-Cortez) is putting on a progressive, socialist narrative to our people.
+Alexandria Ocasio-Cortez (D-N.Y.), famous for championing the Green New Deal. “(Ocasio-Cortez) is putting on a progressive, socialist narrative to our people.
 I’m going to be the one who changes that conversation back to the Constitution, and what this country was founded on,” Boebert said in an interview.
 Boebert doesn’t think Republicans, in particular Tipton, are fighting hard enough against the Democratic majority in the House of Representatives.
 Garfield County Sheriff Lou Vallario gave an early endorsement to Boebert.
@@ -29,3 +27,18 @@ Boebert hopes to inspire a conservative movement that she already sees growing o
 “This isn’t about anything other than people, and empowering them, encouraging them, paving the way and giving them permission to step into positions like this and make a difference in their communities,” Boebert said.
 Boebert is the first Republican to announce a challenge to Tipton.
 Democrat Diane Mitsch Bush, who lost to Tipton in 2018, is running for the seat again.
+Read the full article here.
+Join Us First Name* Last Name* Email Address* Mobile Number Zip Code* I'm In I would like to receive text messages from Lauren Boebert for Congress By entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed marketing messages from Lauren Boebert for Congress to the phone number you provide.
+No consent is required to buy.
+Msg&data rates may apply.
+Text JOIN to 80306 to opt in.
+Reply HELP for help or STOP to opt out at any time.
+SMS information is not rented, sold, or shared.
+Donate Facebook Twitter Instagram Youtube Home About Lauren Accomplishments Endorsements News Media Get Involved Pledge store Contact Lauren Boebert for Congress PO Box 2026 Elizabeth, CO 80107 Paid for By Lauren Boebert for Congress.
+Approved by Lauren Boebert. copyright Lauren Boebert for Congress, All Rights Reserved. | Privacy Policy By providing your mobile phone number, you are giving your express written consent to receive calls and SMS/MMS messages, including autodialed and automated calls and texts, to that number from Lauren for CO.
+Msg frequency varies.
+Msg & data rates may apply.
+Text STOP to stop receiving messages.
+Text HELP for support or e-mail info@laurenforcolorado.com .
+SMS Terms & Conditions | Privacy Policy .

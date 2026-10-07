@@ -1,13 +1,62 @@
 [
-"https://bobbysbrand.com/",
-"https://electkristiangrant.com/",
-"https://electkristiangrant.com/endorsements",
-"https://electkristiangrant.com/get-involved",
-"https://electkristiangrant.com/legislation",
-"https://electkristiangrant.com/meet-kg",
-"https://electkristiangrant.com/the-work-ahead",
-"https://facebook.com/KristianGrantforStateRep",
-"https://instagram.com/repkristiangrant",
-"https://secure.actblue.com/donate/electkgwebsite",
-"https://x.com/RepKristianG"
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/electkgwebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://electkristiangrant.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/KristianGrantforStateRep/"
+},
+{
+"text": "Get Involved",
+"href": "https://electkristiangrant.com/get-involved/"
+},
+{
+"text": "Get Involved →",
+"href": "https://electkristiangrant.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://electkristiangrant.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/repkristiangrant/"
+},
+{
+"text": "Legislation",
+"href": "https://electkristiangrant.com/legislation/"
+},
+{
+"text": "Meet KG",
+"href": "https://electkristiangrant.com/meet-kg/"
+},
+{
+"text": "Site by Bobby's Brand",
+"href": "https://bobbysbrand.com"
+},
+{
+"text": "The Work Ahead",
+"href": "https://electkristiangrant.com/the-work-ahead/"
+},
+{
+"text": "Twitter / X",
+"href": "https://x.com/RepKristianG"
+},
+{
+"text": "[image: Kristian Grant for State House]",
+"href": "https://electkristiangrant.com/"
+},
+{
+"text": "[image: Kristian Grant]",
+"href": "https://electkristiangrant.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/KristianGrantforStateRep/"
+}
 ]

@@ -1,13 +1,46 @@
 [
-"https://efundraisingconnections.com/c/GraceyVanDerMark",
-"https://graceyforassembly.com/",
-"https://graceyforassembly.com/?page_id=3",
-"https://graceyforassembly.com/about",
-"https://graceyforassembly.com/endorsements",
-"https://graceyforassembly.com/news",
-"https://graceyforassembly.com/photos",
-"https://graceyforassembly.com/privacy-policy",
-"https://graceyforassembly.com/volunteer",
-"https://graceyforassembly.com/yard-signs",
-"https://kookykluwe.com/"
+{
+"text": "About",
+"href": "https://graceyforassembly.com/about/"
+},
+{
+"text": "DONATE",
+"href": "https://www.efundraisingconnections.com/c/GraceyVanDerMark"
+},
+{
+"text": "Endorsements",
+"href": "https://graceyforassembly.com/endorsements/"
+},
+{
+"text": "Gracey's Opponent",
+"href": "https://kookykluwe.com"
+},
+{
+"text": "Home",
+"href": "https://graceyforassembly.com/"
+},
+{
+"text": "News",
+"href": "https://graceyforassembly.com/news/"
+},
+{
+"text": "Photos",
+"href": "https://graceyforassembly.com/photos/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://graceyforassembly.com/?page_id=3"
+},
+{
+"text": "Privacy Policy",
+"href": "https://graceyforassembly.com/privacy-policy/"
+},
+{
+"text": "Volunteer",
+"href": "https://graceyforassembly.com/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://graceyforassembly.com/yard-signs/"
+}
 ]

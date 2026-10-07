@@ -1,8 +1,6 @@
-Montana’s Election Weak Spots: Absentee Abuse, Same-Day Voting, and Ballot Delays
-While machine errors can be verified with paper ballots and hand counting, the far bigger threat lies in the cracks of our system — where laws are ignored, deadlines are stretched, and registration loopholes are exploited.
+Skip to content Articles / Issues Endorsements Support Me Contributions Volunteer Your Voice, Your Ideas Learn More My Stance State Constitution Montana Code Annotated Republican Party Platform Learn to Track Bills About Contact Montana’s Election Weak Spots: Absentee Abuse, Same-Day Voting, and Ballot Delays By Trevor Walter | November 3, 2025 While machine errors can be verified with paper ballots and hand counting, the far bigger threat lies in the cracks of our system — where laws are ignored, deadlines are stretched, and registration loopholes are exploited.
 If we want to restore confidence in our election process, we need to look beyond the machines and address other vulnerabilities; only then will Montanans truly trust the system.
-Absentee Voting: Convenience at the Cost of Security
-Absentee voting was designed as a convenience for individuals who are unable to vote in person, not standard practice.
+Absentee Voting: Convenience at the Cost of Security Absentee voting was designed as a convenience for individuals who are unable to vote in person, not standard practice.
 However, what began as a small percentage of ballots has now become the dominant voting method in Montana, and with this shift, the risks have increased.
 Before the pandemic, between 65–73% of Montana voters cast their ballots early or by mail.
 By 2020, that number skyrocketed to more than 97%.
@@ -19,10 +17,10 @@ In 2021, Montana lawmakers passed a law (House Bill 530) to restrict paid third-
 A court later struck it down after finding the state had not presented evidence of any fraud tied to those activities.
 While no widespread fraud was found, the risk of improper handling remains when hundreds of thousands of ballots move outside official supervision.
 Integrity isn’t about catching fraud after it happens; it’s about designing a system that prevents it from happening at all.
-Same-Day Registration: A Recipe for Chaos
-Montana’s same-day registration policy allows voters to register and vote on the same day; however, this well-intentioned idea creates some serious problems.
+Same-Day Registration: A Recipe for Chaos Montana’s same-day registration policy allows voters to register and vote on the same day; however, this well-intentioned idea creates some serious problems.
 On the surface, it appears to expand access, but in reality, it overwhelms election workers and introduces opportunities for mistakes.
-In the 2016 presidential election, more than 12,000 Montanans registered to vote and cast their ballots on Election Day. 2020 saw record absentee turnouts — over 8,000 voters registered at the last minute.
+In the 2016 presidential election, more than 12,000 Montanans registered to vote and cast their ballots on Election Day.
+2020 saw record absentee turnouts — over 8,000 voters registered at the last minute.
 The result?
 Long lines, exhausted election workers, and results delayed for hours.
 When people see lines stretching for hours and results coming late, faith in the process falters.
@@ -31,8 +29,7 @@ Election workers have described 14-hour days followed by an additional 30 hours 
 And because counties cannot release results until everyone in line has voted, the surge of last-minute registrants can delay results by hours—or even days.
 It’s simple: voter registration should close at least a week before Election Day.
 That’s how we give officials time to verify eligibility, prevent errors, and ensure that election night results reflect the will of legal voters — not the chaos of a midnight paperwork rush.
-Ballot Delays and Chain-of-Custody Concerns
-Absentee overload and same-day registration combine to create a final problem: slow and delayed election results.
+Ballot Delays and Chain-of-Custody Concerns Absentee overload and same-day registration combine to create a final problem: slow and delayed election results.
 Montana law allows counties to begin processing absentee ballots the day before the election, but when tens of thousands of ballots arrive on Election Day — and lines of registrants stretch late into the night — counting can’t even begin until hours after polls close.
 In 2022, some counties didn’t post any results until after 10:30 PM.
 Gallatin County once estimated it wouldn’t report final numbers until 3:00 AM.
@@ -41,8 +38,7 @@ And because Montana accepts overseas and military votes for up to six days after
 The longer it takes to count, the more public trust erodes.
 And the longer it takes for ballots to arrive after Election Day, the more opportunity for mishandling.
 We should enforce strict deadlines: ballots must arrive by Election Day to be counted, period.
-Restoring Confidence Starts With Accountability
-Montanans believe in hard work, personal responsibility, and fair play, and we should demand the same from our elections.
+Restoring Confidence Starts With Accountability Montanans believe in hard work, personal responsibility, and fair play, and we should demand the same from our elections.
 That means ending permanent absentee status and requiring voters to request mail ballots for each election in which they are eligible to participate.
 It means closing voter registration a week before Election Day to give election officials the time they need to verify eligibility.
 And it means enforcing ballot deadlines to protect the integrity of the count.
@@ -52,3 +48,18 @@ We can’t afford to let convenience trump confidence or chaos replace order.
 Free and fair elections were never meant to be easy.
 They were intended to be honest.
 And it’s time Montana got back to that standard.
+Posted in Welfare ← Legislative Poison Pills: How Good Laws Get Killed in the Shadows Interim Study Committees: Stop Studying the Problem — Start Solving It → Recent Posts The Treasure State Still Has Treasure — It’s Time to Use It Trevor Walter Receives A+ Endorsement from Montana Conservative Alliance Real Progress Starts with the Right Team in Helena Opposition to Geoengineering and Weather Modification Protect the Taxpayer, Limit the Government Jesus Didn’t Avoid Politics — He Redefined Leadership Montana’s Prosperity Depends on Industry, Not Vacation Homes A Simpler, More Affordable Approach to Healthcare HB 680 — A Bad Deal for Montana’s Historic Treasures Vetting Candidates Doesn’t Divide Republicans — Dishonesty Does Interim Study Committees: Stop Studying the Problem — Start Solving It Montana’s Election Weak Spots: Absentee Abuse, Same-Day Voting, and Ballot Delays Legislative Poison Pills: How Good Laws Get Killed in the Shadows Trust in Elections Starts with Hand Counting Ballots Citizen Accountability: Holding Politicians Responsible Freedom Starts Around the Dinner Table with a Strong Family End Perpetual Property Taxes and Restore True Homeownership Are Preservatives and Adjuvants the Hidden Risk in Vaccines?
+Liberty’s Partner: Personal Responsibility in Montana’s Constitution Judges Aren’t Nonpartisan and Voters Deserve to Know Where They Stand Get In Touch!
+406-902-9490 120 S Main St., Sheridan, MT 59749 [email protected] Quick Links Your Voice, Your Ideas My Stance Contributions Endorsements Volunteer About Contact Support My Campaign Important Resources The Constitution of the State of Montana Platform of the Montana Republican Party Montana Code Annotated Article II: Declaration of Rights Section 3.
+INALIENABLE RIGHTS.
+All persons are born free and have certain inalienable rights.
+They include the right to a clean and healthful environment and the rights of pursuing life’s basic necessities, enjoying and defending their lives and liberties, acquiring, possessing and protecting property, and seeking their safety, health and happiness in all lawful ways.
+In enjoying these rights, all persons recognize corresponding responsibilities.
+Please login to view gated documents Email * Login Don't have an account?
+Create your own account to access documents Click here to sign up Your information is safe and secure.
+We never share or sell your data View Privacy Policy Check Your Email We sent a 6-digit verification code to Change email Enter Verification Code 0/6 Verify & Login Verifying...
+Didn't receive the code?
+Resend Code Resend available in # s Code expires in # minutes Check Your Email We sent a verification link to Change email Click the link in your email to verify your account and log in automatically.
+Link expires in 15 minutes Access Granted You now have access to this document.
+Click the button below to begin viewing.
+Open Document

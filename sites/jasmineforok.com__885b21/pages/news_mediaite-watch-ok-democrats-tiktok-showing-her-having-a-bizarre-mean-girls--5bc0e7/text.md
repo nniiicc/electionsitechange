@@ -1,12 +1,17 @@
-mediaite: “WATCH: OK Democrat’s TikTok Showing Her Having a Bizarre ‘Mean Girls’-Style Meltdown Goes Viral After She Wins Senate Primary”
-David GilmourAug 27th, 2026, 9:18 am
-Full article here.
-A bizarre TikTok showing Oklahoma Democratic Senate nominee N’Kiyla Jasmine Thomas screaming around a pink bedroom before adding a former Republican senator to a Mean Girls-inspired “Burn Book” has gone viral after she won her party’s primary.
+0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA mediaite: “WATCH: OK Democrat’s TikTok Showing Her Having a Bizarre ‘Mean Girls’-Style Meltdown Goes Viral After She Wins Senate Primary” Aug 27 Written By Nkiyla Thomas (Screengrab via TikTok) David Gilmour Aug 27th, 2026, 9:18 am Full article here .
+A bizarre TikTok showing Oklahoma Democratic Senate nominee N’Kiyla Jasmine Thomas screaming around a pink bedroom before adding a former Republican senator to a Mean Girls -inspired “Burn Book” has gone viral after she won her party’s primary.
 Thomas, a democratic socialist and nurse, defeated attorney Jim Priest in the Democratic runoff Tuesday, setting up a general election contest against Rep.
-Kevin Hern (R-OK) for the seat vacated by Markwayne Mullin, who is now serving as secretary of Homeland Security.
+Kevin Hern (R-OK) for the seat vacated by Markwayne Mullin , who is now serving as secretary of Homeland Security.
 But within a day of the 31-year-old Thomas securing the nomination, Republicans resurfaced a September 2025 video from her TikTok account that quickly drew attention and mockery from MAGA pundits and users online.
-In the clip, Thomas imitates a scene from the 2004 comedy Mean Girls, running around a pink bedroom as the soundtrack of screaming ripped from the film plays in the background.
-She pulls a pink book out of a drawer bearing the words “Burn Book.”
-She then tapes a photograph of Mullin, who was serving in the Senate at the time, into the book and writes underneath it while reading aloud: “Markwayne Mullin is a terrible senator.”
-In the 2004 film, the Burn Book is a pink scrapbook used by the film’s central clique, the Plastics, to compile vicious rumors and insults about fellow students and teachers at their fictional high school.
-The old TikTok rapidly spread across social media Thursday as GOP commentators seized on the footage, although notably haven’t acknowledged the very clear Mean Girls parallel:
+In the clip, Thomas imitates a scene from the 2004 comedy Mean Girls , running around a pink bedroom as the soundtrack of screaming ripped from the film plays in the background.
+She pulls a pink book out of a drawer bearing the words “Burn Book.” She then tapes a photograph of Mullin, who was serving in the Senate at the time, into the book and writes underneath it while reading aloud: “Markwayne Mullin is a terrible senator.” @jasmineforok Stop trying to make Mullin happen.
+He’s not fetch. 🙅🏽‍♀️ #BurnBook2025 #jasmineforok #nkiylaforok #fyp #reginageorgepolitics Shout out to @Y2K Party House ♬ original sound - N’Kiyla “Jasmine” Thomas In the 2004 film, the Burn Book is a pink scrapbook used by the film’s central clique, the Plastics, to compile vicious rumors and insults about fellow students and teachers at their fictional high school.
+The old TikTok rapidly spread across social media Thursday as GOP commentators seized on the footage, although notably haven’t acknowledged the very clear Mean Girls parallel: These people are cray-cray. — Ted Cruz (@tedcruz) August 27, 2026 This is N’Kiyla Jasmine Thomas.
+She just won a runoff election in Oklahoma and is now the Democratic candidate for US Senate.
+Get women out of politics; they are making a joke of our institutions! https://t.co/EaXhMrRe4q — PJ Masculinity (@pjalphareacts) August 26, 2026 honestly just expecting scenes like this to be 3 of the 4 nights of the DNC in 2028. — Scott Jennings (@ScottJenningsKY) August 27, 2026 You are kidding — Miranda Devine (@mirandadevine) August 27, 2026 Beginning to look like Dems won’t win a senate seat in Oklahoma — David Weigel (@daveweigel) August 27, 2026 WTF? — Catturd ™ (@catturd2) August 26, 2026 🚨 HOLY SHREDDER! 🚨 You CANNOT make this up!
+N’Kiyla Jasmine Thomas—who literally just won the Oklahoma Senate Democratic Primary last night—is already going viral, and it’s for the most ABSURD video you will see all week.
+This is who the Far-Left wants representing you?!
+The Radical Left is sending total chaos to our state capitals, folks.
+Unbelievable.
+Watch this clip before they try to take it down!
+What is even happening to the Democrat party?! 👇🔥 https://t.co/j6GpMbFKRq — Ryan Fournier (@RyanAFournier) August 27, 2026 Trending News Social Media Nkiyla Thomas Previous Previous Tangle news: “Resurfaced TikTok of Democratic nominee for Oklahoma’s Senate seat goes viral.” Next Next hindustan times: “N'kiyla Jasmine Thomas' husband and kids: All we know as Democratic socialist wins primary runoff for Oklahoma Senate” Grassroots, community-driven, people-powered. © # Paid for By N'Kiyla For OK All Rights Reserved.

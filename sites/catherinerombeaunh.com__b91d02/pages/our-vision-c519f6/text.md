@@ -1,5 +1,4 @@
-Meet Catherine
-Community is a choice.
+Rombeau for Rep About Priorities Join the Team Follow Catherine on Facebook Donate Thank you for voting Back Meet Catherine Contact Back My Goals in Concord Rombeau for Rep About Meet Catherine Contact Priorities My Goals in Concord Join the Team Follow Catherine on Facebook for NH State Rep Donate Thank you for voting Meet Catherine Community is a choice.
 I believe deeply in community commitment.
 As a current State Representative in Concord, I serve as the Deputy Ranking Member of the Judiciary Committee as well as a voting member of the General Session.
 Closer to home, as a former Bedford Town Councilor, I helped direct strategy and funding for our core municipal services.
@@ -17,3 +16,6 @@ I have met amazing people in this town—parents, teachers, professionals, folks
 Each of you deserves to be heard.
 I am ready to listen to your hopes and fears about what comes next, whether it’s over email, phone or coffee.
 I look forward to many more years of paying your commitment forward, and to serving as your state representative from Bedford.
+About Meet Catherine Contact Priorities My Goals in Concord Ways to Help Join the Team Follow Catherine on Facebook Donate Support the Campaign Paid for by Friends of Catherine Rombeau Fiscal Agent Catherine A.
+Rombeau P.O.
+Box 10012, Bedford NH 03110

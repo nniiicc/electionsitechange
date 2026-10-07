@@ -1,11 +1,3 @@
-HOME
-PRIORITIES
-ENDORSEMENTS
-GET INVOLVED
-BACKGROUND
-More
-US Senator Ron Wyden
-US Senator Jeff Merkley
-State Senator Deb Patterson
-Mayor Elect Vanessa Nordyke
-Salem City Councilors Linda Nishioka and Paul Tigan
+top of page DONATE HOME PRIORITIES ENDORSEMENTS GET INVOLVED BACKGROUND More Use tab to navigate through the menu items.
+2026 Endorsements US Senator Ron Wyden US Senator Jeff Merkley State Senator Deb Patterson Mayor Elect Vanessa Nordyke Salem City Councilors Linda Nishioka and Paul Tigan HOME PRIORITIES ENDORSEMENTS GET INVOLVED BACKGROUND More Use tab to navigate through the menu items.
+DONATE JOIN THE CONVERSATION: Phone: ‪(503) 877-4470‬ Email: tom@electtomandersen.com ​ Friends of Tom Andersen PO Box 1064, Salem, OR 97308. ​ © # Elect Tom Andersen ​ Paid for by Friends of Tom Andersen, PAC ID #16690 bottom of page

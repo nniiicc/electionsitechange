@@ -1,5 +1,1 @@
-Paid for by Beck for Minnesota House
-575 Hidden Ln
-Hastings, MN 55033
-Email
-Beck4MN@gmail.com
+Home Meet William On the Issues Join Us Events DONATE TODAY Paid for by Beck for Minnesota House 575 Hidden Ln Hastings, MN 55033 Email Beck4MN@gmail.com On the Issues About Us Join Us Campaign Photos ﻿ Copyright ©# | Privacy Policy

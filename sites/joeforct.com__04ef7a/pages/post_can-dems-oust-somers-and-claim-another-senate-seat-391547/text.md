@@ -1,7 +1,5 @@
-Can Dems oust Somers and claim another Senate seat?
-Updated: Apr 24
-By Paul Choiniere
-With the announcement by former state Rep.
+top of page ABOUT PRIORITIES PRESS Menu Close All Posts Can Dems oust Somers and claim another Senate seat?
+Alisha Rayner Dec 21, 2025 4 min read Updated: Apr 24 By Paul Choiniere With the announcement by former state Rep.
 Joe de la Cruz that he will seek the nomination to run for state Senate in the 18th District, incumbent Republican Sen.
 Heather Somers faces her most serious challenge since first elected to the seat in 2016.
 Trying to wrestle the 18th District from the Republicans should be a high priority for Democrats.
@@ -50,5 +48,7 @@ Somers’ opposition to the recently passed affordable housing bill could hurt.
 The incumbent must walk a tight rope of trying to boost MAGA turnout in the district’s blue-collar communities without running as a MAGA candidate.
 As state Senate races go, this should be a good one.
 Paul Choiniere is the former editorial page editor of The Day, now retired.
-He can be reached at p.choiniere@yahoo.com.
-The original article can be found at: https://theday.com/news/824982/can-dems-oust-somers-and-claim-another-senate-seat/#
+He can be reached at p.choiniere@yahoo.com .
+The original article can be found at: https://theday.com/news/824982/can-dems-oust-somers-and-claim-another-senate-seat/# Recent Posts See All Game on: Sen.
+Heather Somers, with Trump around her neck, will have the race of her life in Connecticut's 18th District Joe de la Cruz announces state senate campaign for 18th District Joe de la Cruz, a 'breath of fresh air' in Hartford A CCESSIBILITY STATEMENT PRIVACY POLICY TERMS & CONDITIONS ABOUT PRIORITIES PRESS Menu Close X INSTAGRAM FACEBOOK © # Paid for by Joe for CT, Approved by Joe de la Cruz.
+ABOUT PRIORITIES PRESS ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 ALEN BLANCO HARNANDEZ 2035 bottom of page

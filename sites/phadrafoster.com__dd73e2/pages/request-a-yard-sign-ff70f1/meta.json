@@ -1,9 +1,9 @@
 {
  "description": "Request a yard sign to show your support for Phadra Foster&#39;s campaign for Alabama Senate District 25.",
  "final_url": "https://phadrafoster.com/request-a-yard-sign",
- "paid_for_by": "Paid for by the Committee to Elect Phadra Foster | P",
+ "fingerprint": "58c5f640fdca2934570cb1624482111474f07c44",
+ "format": 3,
+ "paid_for_by": "Paid for by the Committee to Elect Phadra Foster",
  "title": "Request a Yard Sign",
- "years_mentioned": [
-  "2026"
- ]
+ "years_mentioned": []
 }

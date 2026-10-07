@@ -1,9 +1,4 @@
-FOR IMMEDIATE RELEASE
-September 19, 2016
-Contact: Mike Trujillo
-818-968-6048
-State Senator Isadore Hall Files Motion for a Protective Order
-Tries to delay revealing court testimony while denying his neighbors justice.
+Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Home About Endorsements Media Connect News Volunteer Internships Issues Campaign Updates Donate Previous Next State Senator Isadore Hall Files Motion for a Protective Order FOR IMMEDIATE RELEASE September 19, 2016 Contact: Mike Trujillo mhtrujillo@gmail.com 818-968-6048 State Senator Isadore Hall Files Motion for a Protective Order Tries to delay revealing court testimony while denying his neighbors justice.
 SAN PEDRO, CA – On primary election night in June, State Senator Isadore Hall was served with a subpoena to testify in the case against his current landlord and political donor at the Alameda Court Housing complex.
 In a recent development, Senator Hall asked the court for a protective order to avoid testifying in the case.
 Hall argues he should be immune from discovery and his deposition because he is “a top government official”.
@@ -15,4 +10,7 @@ In opposition to the protective order, Senator Hall’s neighbor swears under oa
 She said that Senator Hall was allowed to park his cars in places other tenants were towed from and that Senator Hall met frequently with the landlord until the eviction lawsuit was filed.
 The trial is scheduled in October and Hall’s neighbors have waited for their day in court for almost two years.
 On Thursday, September 22, 2016, the court will decide if Hall can avoid testifying or if Hall’s neighbors will have to wait until the Senator’s November election to have their fraud trial heard.
-Find the opposition to the protective order filed by the counsel for the Plaintiffs, Senator Hall’s neighbors, in the Alameda Court Case here and the declaration made by one of the tenants specifically about Senator Hall’s special treatment here.
+Find the opposition to the protective order filed by the counsel for the Plaintiffs, Senator Hall’s neighbors, in the Alameda Court Case here and the declaration made by one of the tenants specifically about Senator Hall’s special treatment here .
+Michael Soneff 2016-09-19T12:28:53-07:00 September 19th, 2016 | Uncategorized | Share This Story, Choose Your Platform!
+Facebook Twitter Linkedin Reddit Tumblr Google+ Pinterest Email Related Posts Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities Nanette Barragán Releases Statement on the 50th Anniversary of the Voting Rights Act Nanette Barragán Releases Statement on the 50th Anniversary of the Voting Rights Act Like Nanette On Facebook Follow Nanette on Twitter Tweets by @MayorPTBarragan Popular Recent CLCV & LCV Action Fund Endorse Nanette Barragán for Congress December 11th, 2015 Labor Leader and Civil Rights Icon Dolores Huerta Endorses Nanette Barragán in CA-44 June 24th, 2016 Assemblymember Mike Gatto Endorses Nanette Barragán for Congress June 20th, 2016 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities October 3rd, 2016 ICYMI: Our Revolution Backs Nanette Barragán for Congress September 29th, 2016 Daily Breeze Endorses Nanette Barragán in CA-44 September 28th, 2016 Mail: 1840 S.
+Gaffey Street, #421 San Pedro, CA 90731 Phone: 424-206-3963 or Email: info@barraganforcongress.com

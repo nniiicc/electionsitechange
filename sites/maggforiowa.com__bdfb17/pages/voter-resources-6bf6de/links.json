@@ -1,20 +1,98 @@
 [
-"http://tiktok.com/@magg4iowa",
-"https://docs.google.com/forms/d/e/1FAIpQLScvBpW1F2OXm0THPkO2H0LbAO78pbxIoHglDiV69QTPlcFFKQ/viewform?usp=sf_link",
-"https://facebook.com/profile.php?id=61584272174038",
-"https://instagram.com/bradmaggforiowahouse",
-"https://maggforiowa.com/",
-"https://maggforiowa.com/copy-of-the-issues",
-"https://maggforiowa.com/meet-brad",
-"https://maggforiowa.com/the-district",
-"https://maggforiowa.com/voter-resources",
-"https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration",
-"https://secure.actblue.com/donate/brad-magg-for-iowa-1",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html",
-"https://sos.iowa.gov/elections/voterinformation/index.html",
-"https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://voterready.iowa.gov/",
-"https://voterready.iowa.gov/resource/vote",
-"https://wix.com/"
+{
+"text": "ABSENTEE VOTING INFORMATION",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "CONTACT",
+"href": "mailto:Brad@maggforiowa.com?subject=Reaching+out+about+your+campaign%21"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/brad-magg-for-iowa-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/brad-magg-for-iowa-1"
+},
+{
+"text": "FIND MY POLLING PLACE",
+"href": "https://sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+},
+{
+"text": "Home",
+"href": "https://www.maggforiowa.com"
+},
+{
+"text": "MORE VOTER INFORMATION",
+"href": "https://sos.iowa.gov/elections/voterinformation/index.html"
+},
+{
+"text": "Meet Brad",
+"href": "https://www.maggforiowa.com/meet-brad"
+},
+{
+"text": "REGISTER TO VOTE ONLINE",
+"href": "https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2FVoterRegistration"
+},
+{
+"text": "The District",
+"href": "https://www.maggforiowa.com/the-district"
+},
+{
+"text": "The Issues",
+"href": "https://www.maggforiowa.com/copy-of-the-issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScvBpW1F2OXm0THPkO2H0LbAO78pbxIoHglDiV69QTPlcFFKQ/viewform?usp=sf_link"
+},
+{
+"text": "VOTER READY: A GUIDE TO VOTING IN IOWA",
+"href": "https://voterready.iowa.gov/"
+},
+{
+"text": "VOTER REGISTRATION STATUS",
+"href": "https://sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "VOTING ON ELECTION DAY",
+"href": "https://voterready.iowa.gov/resource/vote/"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.maggforiowa.com/voter-resources"
+},
+{
+"text": "Wix",
+"href": "https://wix.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61584272174038"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/bradmaggforiowahouse/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://www.tiktok.com/@magg4iowa"
+},
+{
+"text": "[image: Vote Brad Magg for the Iowa House]",
+"href": "https://www.maggforiowa.com"
+},
+{
+"text": "[no text]",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScvBpW1F2OXm0THPkO2H0LbAO78pbxIoHglDiV69QTPlcFFKQ/viewform?usp=sf_link"
+},
+{
+"text": "[no text]",
+"href": "https://secure.actblue.com/donate/brad-magg-for-iowa-1"
+},
+{
+"text": "[no text]",
+"href": "mailto:Brad@MaggforIowa.com?subject=Reaching+out+about+your+campaign%21"
+}
 ]

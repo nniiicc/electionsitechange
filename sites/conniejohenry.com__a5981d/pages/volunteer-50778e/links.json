@@ -1,11 +1,58 @@
 [
-"https://conniejohenry.com/",
-"https://conniejohenry.com/kansas-state-representative-district-37",
-"https://conniejohenry.com/video",
-"https://conniejohenry.com/volunteer",
-"https://facebook.com/",
-"https://pinterest.com/",
-"https://secure.winred.com/connie-jo-henry/donate",
-"https://x.com/",
-"https://youtube.com/"
+{
+"text": "Connie Jo Henry",
+"href": "https://www.conniejohenry.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/connie-jo-henry/donate"
+},
+{
+"text": "Education",
+"href": "https://www.conniejohenry.com/kansas-state-representative-district-37/#education_anchor"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/"
+},
+{
+"text": "Healthcare",
+"href": "https://www.conniejohenry.com/kansas-state-representative-district-37/#health_care_anchor"
+},
+{
+"text": "Home",
+"href": "https://www.conniejohenry.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.conniejohenry.com/kansas-state-representative-district-37/"
+},
+{
+"text": "Pinterest",
+"href": "https://www.pinterest.com/"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://www.conniejohenry.com/kansas-state-representative-district-37/#reproductive_rights_anchor"
+},
+{
+"text": "Video",
+"href": "https://www.conniejohenry.com/video/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.conniejohenry.com/volunteer/"
+},
+{
+"text": "X",
+"href": "https://x.com/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/"
+},
+{
+"text": "info@conniejohenry.com",
+"href": "mailto:info@conniejohenry.com"
+}
 ]

@@ -1,7 +1,4 @@
-Terms of Service
-& Privacy Policy
-Terms of Service:
-Eileen for Colorado’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Terms of Service & Privacy Policy Terms of Service: Eileen for Colorado’s mobile campaigns provide subscribers with updates, event invitations, donation asks, and voting reminders.
 You can cancel the SMS service at any time.
 Just text "STOP".
 After this, you will no longer receive SMS messages from us.
@@ -21,17 +18,17 @@ Message frequency varies, and standard message and data rates may apply.
 To stop receiving text messages, reply with the word STOP.
 We may confirm your opt-out by text message.
 For support or assistance, please email us at info@eileenforcolorado.com.
-Privacy Policy:
-Eileen for Colorado is committed to protecting your privacy online.
+Privacy Policy: Eileen for Colorado is committed to protecting your privacy online.
 This 10DLC & Toll-Free Privacy Policy is in addition to and supplements all other privacy and data security obligations of "Eileen for Colorado’", including our operations, employment and website privacy policies (collectively, our “Privacy Policy”).
 It describes our obligations and practices of how we collect and use customer consent and opt-ins for our texting and/or email services and programs.
 This 10DLC & Toll-Free Privacy Policy applies to SMS and MMS texts from Eileen for Colorado.
-CATEGORIES OF INFORMATION COLLECTED:
-We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
-HOW WE USE THE INFORMATION COLLECTED:
-In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
-TO WHOM DO WE SHARE THE INFORMATION COLLECTED:
-Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+CATEGORIES OF INFORMATION COLLECTED: We will collect your name, phone number and indication of consent to receive text (SMS and MMS).
+HOW WE USE THE INFORMATION COLLECTED: In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
+TO WHOM DO WE SHARE THE INFORMATION COLLECTED: Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
 Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices and applicable law.
 We suggest that you periodically review the Privacy Policy for amendments.
+GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

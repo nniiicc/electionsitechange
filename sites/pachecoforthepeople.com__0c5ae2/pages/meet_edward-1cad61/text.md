@@ -1,6 +1,4 @@
-Meet Edward
-Edward “Ed” Pacheco: A Bridge Builder for the 9th Bristol District
-For over 20 years, Ed Pacheco has lived in Dartmouth.
+Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Meet Edward Edward “Ed” Pacheco: A Bridge Builder for the 9th Bristol District For over 20 years, Ed Pacheco has lived in Dartmouth.
 As a youth, Ed grew up in New Bedford and remembers his roots.
 As a husband, a father of six daughters, a homeowner, and a small business owner, Ed doesn't need a briefing on the struggles of the 9th Bristol District.
 He lives them, side by side with you, every day.
@@ -11,3 +9,4 @@ Common Sense Representation: The 9th Bristol District faces a crossroads: an agi
 Solving these problems requires more than a party-line vote; it requires a bridge builder.
 Ed is headed to Beacon Hill to be a moderate, balanced voice who puts results over rhetoric.
 He isn't interested in political games—he’s interested in the people.
+Voter Information Endorsements Yard Signs Events Photos Contact Privacy Policy Committee to Elect Edward Pacheco Powered by CampaignPartner.com - Political Campaign Websites Home Issues 2026 Ballot Questions Positions Meet Ed Yard Signs Fundraiser Events Contribute Volunteer Professional Endorsement Voter Endorsements News Photos Contact Endorsements Close Menu

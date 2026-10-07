@@ -1,6 +1,5 @@
-Our first ad released: "I carry these stories"
-Updated: Jun 12
-I’m running for State Senate because everywhere I go it’s the same quiet heartbreak.
+top of page About Erika About Erika Contact About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog Menu Close Donate All Posts News Affordability Mental Health Schools Taxes Corruption & Accountability Our first ad released: "I carry these stories" Campaign Staff Jun 8 1 min read Updated: Jun 12 I’m running for State Senate because everywhere I go it’s the same quiet heartbreak.
 People trying to afford groceries or being priced out of their own hometown.
 I carry their stories because they deserve to be heard in Olympia.
 You should be able to work hard and build a life without the constant fear of one bill wiping you out.
+Recent Posts See All Erika Creydt is different: she cares Erika in the Bellingham Metro News I am strongly opposed to a state income tax for working families Paid for by Erika Creydt for Senate - PO Box 764, Lynden, WA 98264 About Erika About Erika Contact Issues Whatcom County is being priced out Protecting Mental Health Schools Protecting Our Agricultural Heritage Addressing the Housing Crisis The Water Adjudication Protecting Washington's Competitive Adva Get Involved Events Blog bottom of page

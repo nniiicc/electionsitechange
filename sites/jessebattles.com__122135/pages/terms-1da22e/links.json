@@ -1,9 +1,62 @@
 [
-"https://facebook.com/JesseBattlesAL",
-"https://jessebattles.com/",
-"https://jessebattles.com/privacy",
-"https://jessebattles.com/terms",
-"https://jessebattles.com/vote",
-"https://onyxstudios.co/",
-"https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles"
+{
+"text": "About",
+"href": "https://www.jessebattles.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/jeese-battles-for-alabama-state-senate-district-10/jesse-battles"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/JesseBattlesAL/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.jessebattles.com/#updates"
+},
+{
+"text": "Get a Yard Sign",
+"href": "https://www.jessebattles.com/#volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "How to Vote",
+"href": "https://www.jessebattles.com/vote"
+},
+{
+"text": "Jesse’s Values",
+"href": "https://www.jessebattles.com/#values"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jessebattles.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jessebattles.com/terms"
+},
+{
+"text": "The Plan",
+"href": "https://www.jessebattles.com/#issues"
+},
+{
+"text": "Videos",
+"href": "https://www.jessebattles.com/#videos"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jessebattles.com/#volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.jessebattles.com/#top"
+},
+{
+"text": "[image]Built by Onyx Studio",
+"href": "https://onyxstudios.co"
+}
 ]

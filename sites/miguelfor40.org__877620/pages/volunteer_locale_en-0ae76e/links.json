@@ -1,13 +1,54 @@
 [
-"https://bonfire.com/store/miguel-for-40",
-"https://miguelfor40.org/",
-"https://miguelfor40.org/meet-miguel",
-"https://miguelfor40.org/platform",
-"https://miguelfor40.org/request-miguel-signs",
-"https://miguelfor40.org/upcoming-campaign-events",
-"https://miguelfor40.org/volunteer",
-"https://miguelfor40.org/volunteer?locale=es",
-"https://miguelfor40.org/voter",
-"https://solidarity.tech/",
-"https://zeffy.com/embed/donation-form/miguel-para-el-pueblo?modal=true%22"
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/embed/donation-form/miguel-para-el-pueblo?modal=true%22"
+},
+{
+"text": "ES (Español)",
+"href": "https://www.miguelfor40.org/volunteer?locale=es"
+},
+{
+"text": "Events",
+"href": "https://www.miguelfor40.org/upcoming-campaign-events"
+},
+{
+"text": "Get Miguel swag",
+"href": "https://www.bonfire.com/store/miguel-for-40/"
+},
+{
+"text": "Get a window/yard sign",
+"href": "https://www.miguelfor40.org/request-miguel-signs"
+},
+{
+"text": "In the news",
+"href": "https://www.miguelfor40.org#section_7169"
+},
+{
+"text": "Miguel's story",
+"href": "https://www.miguelfor40.org/meet-miguel"
+},
+{
+"text": "Platform",
+"href": "https://www.miguelfor40.org/platform"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Volunteer",
+"href": "https://www.miguelfor40.org/volunteer"
+},
+{
+"text": "Voting info",
+"href": "https://www.miguelfor40.org/voter"
+},
+{
+"text": "[image] Miguel for 40",
+"href": "https://www.miguelfor40.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+}
 ]

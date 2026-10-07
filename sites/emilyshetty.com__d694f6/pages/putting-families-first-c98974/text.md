@@ -1,7 +1,8 @@
-Putting Families First
-Montgomery County is an extraordinary community to live and raise a family in.
+0 Skip to Content Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Folder: Priorities Back Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Folder: Join Team Shetty Back Join Team Shetty About D18 Contact Us Putting Families First Montgomery County is an extraordinary community to live and raise a family in.
 Our schools, beautiful parks, vibrant local economy and easy access to public transportation are some of the reasons that many families choose to move to our diverse community.
 However, far too many people in our community are being squeezed by our excessively high cost of living.
 From sky-high rents, to unaffordable pre-school and college tuition, many families are struggling to get by.
 As your Delegate, Emily has passionately supported numerous pieces of legislation to protect vulnerable members of our community, pass meaningful tenant protections, assisted thousands of constituents with direct casework needs, and proudly voted to raise the minimum wage to $15/hour.
 If reelected, Emily will take this fight further and will work to advance each of these efforts in Annapolis.
+Friends of Emily Shetty PO Box 642 Kensington, MD 20895 By authority: Friends of Emily Shetty.
+Bob Levering, Treasurer.

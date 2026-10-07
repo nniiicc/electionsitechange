@@ -1,14 +1,58 @@
 [
-"https://facebook.com/votewu",
-"https://genefortexas.com/",
-"https://genefortexas.com/events",
-"https://genefortexas.com/get-involved",
-"https://genefortexas.com/issues",
-"https://genefortexas.com/meet-gene",
-"https://genefortexas.com/press",
-"https://genefortexas.com/privacy",
-"https://genefortexas.com/support",
-"https://instagram.com/genefortexas",
-"https://secure.actblue.com/donate/gene-wu-webpage",
-"https://twitter.com/GeneforTexas"
+{
+"text": "Chip in",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/gene-wu-webpage"
+},
+{
+"text": "Events",
+"href": "https://genefortexas.com/events"
+},
+{
+"text": "Gene WuDemocrat for Texas House",
+"href": "https://genefortexas.com/"
+},
+{
+"text": "Get Involved",
+"href": "https://genefortexas.com/get-involved"
+},
+{
+"text": "Invest in the Campaign →",
+"href": "https://genefortexas.com/support"
+},
+{
+"text": "Issues",
+"href": "https://genefortexas.com/issues"
+},
+{
+"text": "Meet Gene",
+"href": "https://genefortexas.com/meet-gene"
+},
+{
+"text": "Press & media kit",
+"href": "https://genefortexas.com/press"
+},
+{
+"text": "Privacy",
+"href": "https://genefortexas.com/privacy"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/GeneforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votewu"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/genefortexas/"
+},
+{
+"text": "gene@genefortexas.com",
+"href": "mailto:gene@genefortexas.com"
+}
 ]

@@ -1,38 +1,198 @@
 [
-"https://facebook.com/tracyclarkfornc",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://greensboro-nc.gov/departments/executive/city-manager-s-office/gsoroadto10k",
-"https://instagram.com/tracyclarkfornc",
-"https://linkedin.com/in/tracyboyerclark",
-"https://ncchamber.com/wp-content/uploads/Housing_Supply_Gap_Analysis.pdf",
-"https://ncleg.gov/BillLookUp/2025/H101",
-"https://ncleg.gov/BillLookUp/2025/H102",
-"https://ncleg.gov/BillLookUp/2025/H245",
-"https://ncleg.gov/BillLookUp/2025/H360",
-"https://ncleg.gov/BillLookUp/2025/H404",
-"https://ncleg.gov/BillLookUp/2025/H467",
-"https://ncleg.gov/BillLookUp/2025/H603",
-"https://ncleg.gov/BillLookUp/2025/H626",
-"https://ncleg.gov/BillLookUp/2025/H627",
-"https://ncleg.gov/BillLookUp/2025/H798",
-"https://ncleg.gov/BillLookUp/2025/H879",
-"https://ncleg.gov/BillLookUp/2025/H976",
-"https://ncleg.gov/BillLookUp/2025/H990",
-"https://secure.actblue.com/donate/tracy-clark-1",
-"https://tracyclarkfornc.com/",
-"https://tracyclarkfornc.com/about-me",
-"https://tracyclarkfornc.com/community-safety",
-"https://tracyclarkfornc.com/contact%2Fsupport",
-"https://tracyclarkfornc.com/early-childhood-dev",
-"https://tracyclarkfornc.com/economic-development",
-"https://tracyclarkfornc.com/endorsements",
-"https://tracyclarkfornc.com/healthcare",
-"https://tracyclarkfornc.com/housing-1",
-"https://tracyclarkfornc.com/motivation-to-serve",
-"https://tracyclarkfornc.com/nc-house-district-57",
-"https://tracyclarkfornc.com/public-education",
-"https://wcnc.com/video/news/preparing-for-summer-heat/275-377d28d9-bc94-49d7-b8e0-b39cbae6aee8",
-"https://wfae.org/energy-environment/2025-06-13/charlotte-handing-out-fans-exploring-a-c-mandate-to-counter-rising-heat-in-city",
-"https://wunc.org/environment/2025-08-21/landlords-cooling-standards-ac-extreme-heat",
-"https://youtube.com/@RepTracyClark"
+{
+"text": "About Me",
+"href": "https://tracyclarkfornc.com/about-me"
+},
+{
+"text": "Affordable Housing in Rural Areas.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H245"
+},
+{
+"text": "Air Conditioning for Rental Properties.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H879"
+},
+{
+"text": "Community Safety",
+"href": "https://tracyclarkfornc.com/community-safety"
+},
+{
+"text": "Contact/Support",
+"href": "https://tracyclarkfornc.com/contact%2Fsupport"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/tracy-clark-1"
+},
+{
+"text": "Early Childhood Dev.",
+"href": "https://tracyclarkfornc.com/early-childhood-dev"
+},
+{
+"text": "Economic Development",
+"href": "https://tracyclarkfornc.com/economic-development"
+},
+{
+"text": "Endorsements",
+"href": "https://tracyclarkfornc.com/endorsements"
+},
+{
+"text": "Expand Access to Cold Weather Shelters/Funds.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H798"
+},
+{
+"text": "Fair & Affordable Housing Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H404"
+},
+{
+"text": "Greensboro’s Road to 10,000",
+"href": "https://www.greensboro-nc.gov/departments/executive/city-manager-s-office/gsoroadto10k"
+},
+{
+"text": "HB 101 Prop. Tax Appeal Process Transparency.",
+"href": "https://ncleg.gov/BillLookUp/2025/H101"
+},
+{
+"text": "HB 102 Real Property Appraisal - Owner Notification.",
+"href": "https://ncleg.gov/BillLookUp/2025/H102"
+},
+{
+"text": "HB 245",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H245"
+},
+{
+"text": "HB 360",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H360"
+},
+{
+"text": "HB 404",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H404"
+},
+{
+"text": "HB 467",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H467"
+},
+{
+"text": "HB 603",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H603"
+},
+{
+"text": "HB 626",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H626"
+},
+{
+"text": "HB 627",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H627"
+},
+{
+"text": "HB 798",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H798"
+},
+{
+"text": "HB 976",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H976"
+},
+{
+"text": "Healthcare",
+"href": "https://tracyclarkfornc.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "Homeowner Protection Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H360"
+},
+{
+"text": "Housing",
+"href": "https://tracyclarkfornc.com/housing-1"
+},
+{
+"text": "Housing Choice Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H626"
+},
+{
+"text": "Motivation to Serve",
+"href": "https://tracyclarkfornc.com/motivation-to-serve"
+},
+{
+"text": "NC House District 57",
+"href": "https://tracyclarkfornc.com/nc-house-district-57"
+},
+{
+"text": "Notice Requirements for Landlord Fees.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H990"
+},
+{
+"text": "Public Education",
+"href": "https://tracyclarkfornc.com/public-education"
+},
+{
+"text": "Reenact Low-Income Housing Tax Credits.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H467"
+},
+{
+"text": "Regulation of Accessory Dwelling Units.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H627"
+},
+{
+"text": "Rep. Tracy ClarkRep. Tracy ClarkRep. Tracy ClarkRep. Tracy Clark",
+"href": "https://tracyclarkfornc.com/"
+},
+{
+"text": "Uniform Partition of Heirs Property Act.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H976"
+},
+{
+"text": "WCNC: Air conditioning is not a requirement in NC rentals, but one lawmaker is hoping to change that",
+"href": "https://www.wcnc.com/video/news/preparing-for-summer-heat/275-377d28d9-bc94-49d7-b8e0-b39cbae6aee8"
+},
+{
+"text": "WFAE: Charlotte handing out fans, exploring AC mandate to counter rising heat in city",
+"href": "https://www.wfae.org/energy-environment/2025-06-13/charlotte-handing-out-fans-exploring-a-c-mandate-to-counter-rising-heat-in-city"
+},
+{
+"text": "WUNC: Landlords in NC are not required to provide AC. Why not?",
+"href": "https://www.wunc.org/environment/2025-08-21/landlords-cooling-standards-ac-extreme-heat"
+},
+{
+"text": "Workforce Housing Loans-Preconstruction Costs.",
+"href": "https://www.ncleg.gov/BillLookUp/2025/H603"
+},
+{
+"text": "[image]",
+"href": "https://www.wcnc.com/video/news/preparing-for-summer-heat/275-377d28d9-bc94-49d7-b8e0-b39cbae6aee8"
+},
+{
+"text": "[image]",
+"href": "https://www.wfae.org/energy-environment/2025-06-13/charlotte-handing-out-fans-exploring-a-c-mandate-to-counter-rising-heat-in-city"
+},
+{
+"text": "[image]",
+"href": "https://www.wunc.org/environment/2025-08-21/landlords-cooling-standards-ac-extreme-heat"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tracyclarkfornc/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/tracyboyerclark/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@RepTracyClark"
+},
+{
+"text": "source",
+"href": "https://ncchamber.com/wp-content/uploads/Housing_Supply_Gap_Analysis.pdf"
+}
 ]

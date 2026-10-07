@@ -1,59 +1,270 @@
 [
-"https://bsky.app/profile/sairaforgeorgia.bsky.social",
-"https://facebook.com/votesaira",
-"https://gadems.info/voprovol",
-"https://georgiademocrat.org/",
-"https://georgiademocrat.org/2026-dpg-slate",
-"https://instagram.com/votesaira",
-"https://mvp.sos.ga.gov/s",
-"https://revupga.thegao.org/",
-"https://sairadraper.com/",
-"https://sairadraper.com/accessibility",
-"https://sairadraper.com/articles",
-"https://sairadraper.com/canvass",
-"https://sairadraper.com/district",
-"https://sairadraper.com/do-not-contact",
-"https://sairadraper.com/draper-paper",
-"https://sairadraper.com/draper-paper?page=2",
-"https://sairadraper.com/endorsements",
-"https://sairadraper.com/es/draper-paper",
-"https://sairadraper.com/events",
-"https://sairadraper.com/get-help",
-"https://sairadraper.com/get-involved",
-"https://sairadraper.com/in-the-news",
-"https://sairadraper.com/news",
-"https://sairadraper.com/news/cdc",
-"https://sairadraper.com/news/crossover",
-"https://sairadraper.com/news/doge",
-"https://sairadraper.com/news/draper-paper-draper-paper-and-we-re-off",
-"https://sairadraper.com/news/draper-paper-draper-paper-are-you-ready-to-knock-doors",
-"https://sairadraper.com/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday",
-"https://sairadraper.com/news/draper-paper-draper-paper-the-voting-rights-act-is-dead-what-s-next-in-georgia",
-"https://sairadraper.com/news/draper-paper-draper-paper-week-4-recap",
-"https://sairadraper.com/news/draper-paper-draper-paper-weeks-1-3-the-most-important-election-issue-no-one-is-talking-about-until-now",
-"https://sairadraper.com/news/draper-paper-new-event-new-appointment-new-year",
-"https://sairadraper.com/news/draper-paper-the-draper-paper-i-m-running",
-"https://sairadraper.com/news/draper-paper-the-draper-paper-voting-information",
-"https://sairadraper.com/news/draper-paper-the-draper-paper-week-9",
-"https://sairadraper.com/news/draper-paper-town-hall-tomorrow",
-"https://sairadraper.com/news/draper-paper-you-are-invited-support-tanya-miller-for-georgia-attorney-general",
-"https://sairadraper.com/news/federal-layoffs",
-"https://sairadraper.com/news/fulton-county-raid-jan-2026",
-"https://sairadraper.com/news/housing",
-"https://sairadraper.com/news/ice-raids",
-"https://sairadraper.com/news/protecting-kids",
-"https://sairadraper.com/news/running-for-sd-44",
-"https://sairadraper.com/news/state-budget",
-"https://sairadraper.com/news/tort-reform",
-"https://sairadraper.com/news/trump",
-"https://sairadraper.com/news/voting-and-elections",
-"https://sairadraper.com/privacy",
-"https://sairadraper.com/terms",
-"https://sairadraper.com/vi/draper-paper",
-"https://sairadraper.com/vote",
-"https://sairadraper.com/work-with-saira",
-"https://secure.actblue.com/donate/saira-for-sd44-website",
-"https://threads.com/@votesaira",
-"https://tiktok.com/@votesaira",
-"https://youtube.com/@votesaira"
+{
+"text": "888-730-5816",
+"href": "tel:+18887305816"
+},
+{
+"text": "Accessibility",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "All",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Articles",
+"href": "https://www.sairadraper.com/articles"
+},
+{
+"text": "CDC2",
+"href": "https://www.sairadraper.com/news/cdc"
+},
+{
+"text": "Canvass",
+"href": "https://www.sairadraper.com/canvass"
+},
+{
+"text": "Confirm your voter registration",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "Contact",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+},
+{
+"text": "Crossover",
+"href": "https://www.sairadraper.com/news/crossover"
+},
+{
+"text": "Crossover2",
+"href": "https://www.sairadraper.com/news/crossover"
+},
+{
+"text": "DOGE",
+"href": "https://www.sairadraper.com/news/doge"
+},
+{
+"text": "Democratic Party of Georgia website",
+"href": "https://georgiademocrat.org/"
+},
+{
+"text": "Democrats running for statewide office",
+"href": "https://georgiademocrat.org/2026-dpg-slate/"
+},
+{
+"text": "District 44",
+"href": "https://www.sairadraper.com/district"
+},
+{
+"text": "Do Not Contact",
+"href": "https://www.sairadraper.com/do-not-contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/saira-for-sd44-website"
+},
+{
+"text": "Draper Paper",
+"href": "https://www.sairadraper.com/draper-paper"
+},
+{
+"text": "Draper Paper Weeks 1-3: The most important election issue no one is talking about – until now.",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-weeks-1-3-the-most-important-election-issue-no-one-is-talking-about-until-now"
+},
+{
+"text": "Draper Paper: And we're off!",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-and-we-re-off"
+},
+{
+"text": "Draper Paper: Are you Ready to Knock Doors?",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-are-you-ready-to-knock-doors"
+},
+{
+"text": "Draper Paper: Join me at Lazy Betty 😋 on Monday",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-join-me-at-lazy-betty-on-monday"
+},
+{
+"text": "Draper Paper: The Voting Rights Act is Dead. What’s next in Georgia?",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-the-voting-rights-act-is-dead-what-s-next-in-georgia"
+},
+{
+"text": "Draper Paper: Week 4 Recap",
+"href": "https://www.sairadraper.com/news/draper-paper-draper-paper-week-4-recap"
+},
+{
+"text": "Endorsements",
+"href": "https://www.sairadraper.com/endorsements"
+},
+{
+"text": "English",
+"href": "https://www.sairadraper.com/draper-paper"
+},
+{
+"text": "Español",
+"href": "https://www.sairadraper.com/es/draper-paper"
+},
+{
+"text": "Events",
+"href": "https://www.sairadraper.com/events"
+},
+{
+"text": "Federal Layoffs3",
+"href": "https://www.sairadraper.com/news/federal-layoffs"
+},
+{
+"text": "Fulton County Raid Jan 2026",
+"href": "https://www.sairadraper.com/news/fulton-county-raid-jan-2026"
+},
+{
+"text": "Get Help",
+"href": "https://www.sairadraper.com/get-help"
+},
+{
+"text": "Get Involved",
+"href": "https://www.sairadraper.com/get-involved"
+},
+{
+"text": "Housing",
+"href": "https://www.sairadraper.com/news/housing"
+},
+{
+"text": "Ice Raids",
+"href": "https://www.sairadraper.com/news/ice-raids"
+},
+{
+"text": "In The News",
+"href": "https://www.sairadraper.com/in-the-news"
+},
+{
+"text": "Learn more about voter protection volunteering",
+"href": "https://gadems.info/voprovol"
+},
+{
+"text": "Meet Saira",
+"href": "https://www.sairadraper.com/#about"
+},
+{
+"text": "New event, new appointment, new year!",
+"href": "https://www.sairadraper.com/news/draper-paper-new-event-new-appointment-new-year"
+},
+{
+"text": "News + Events",
+"href": "https://www.sairadraper.com/news"
+},
+{
+"text": "Older →",
+"href": "https://www.sairadraper.com/draper-paper?page=2"
+},
+{
+"text": "Privacy Notice",
+"href": "https://www.sairadraper.com/privacy"
+},
+{
+"text": "Protecting Kids",
+"href": "https://www.sairadraper.com/news/protecting-kids"
+},
+{
+"text": "REV UP Georgia",
+"href": "https://revupga.thegao.org/"
+},
+{
+"text": "Read our full accessibility statement",
+"href": "https://www.sairadraper.com/accessibility"
+},
+{
+"text": "Running For Sd 44",
+"href": "https://www.sairadraper.com/news/running-for-sd-44"
+},
+{
+"text": "Saira Draper for State Senate District 44 for SD44",
+"href": "https://www.sairadraper.com/"
+},
+{
+"text": "State Budget",
+"href": "https://www.sairadraper.com/news/state-budget"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.sairadraper.com/terms"
+},
+{
+"text": "The Draper Paper: I'm running!",
+"href": "https://www.sairadraper.com/news/draper-paper-the-draper-paper-i-m-running"
+},
+{
+"text": "The Draper Paper: Voting Information",
+"href": "https://www.sairadraper.com/news/draper-paper-the-draper-paper-voting-information"
+},
+{
+"text": "The Draper Paper: Week 9",
+"href": "https://www.sairadraper.com/news/draper-paper-the-draper-paper-week-9"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.sairadraper.com/vi/draper-paper"
+},
+{
+"text": "Tort Reform",
+"href": "https://www.sairadraper.com/news/tort-reform"
+},
+{
+"text": "Town Hall Tomorrow",
+"href": "https://www.sairadraper.com/news/draper-paper-town-hall-tomorrow"
+},
+{
+"text": "Trump3",
+"href": "https://www.sairadraper.com/news/trump"
+},
+{
+"text": "Vote Early",
+"href": "https://www.sairadraper.com/vote"
+},
+{
+"text": "Voting And Elections",
+"href": "https://www.sairadraper.com/news/voting-and-elections"
+},
+{
+"text": "Voting And Elections6",
+"href": "https://www.sairadraper.com/news/voting-and-elections"
+},
+{
+"text": "Work with Saira",
+"href": "https://www.sairadraper.com/work-with-saira"
+},
+{
+"text": "You are invited! Support Tanya Miller for Georgia Attorney General",
+"href": "https://www.sairadraper.com/news/draper-paper-you-are-invited-support-tanya-miller-for-georgia-attorney-general"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/sairaforgeorgia.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesaira/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@votesaira"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@votesaira"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com"
+},
+{
+"text": "info@votesaira.com",
+"href": "mailto:info@votesaira.com?subject=Website+Contact+Inquiry"
+}
 ]

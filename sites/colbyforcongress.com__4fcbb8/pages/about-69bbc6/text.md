@@ -1,4 +1,4 @@
-My name is Colby Watson.
+top of page VOTER INFO DONATE Home Meet Colby Issues Housing Economy Healthcare Corruption, Integrity, Accountability Education and Strong Schools Safe Communities Veterans Border & Immigration Foreign Policy Rights, Liberty, Freedoms Data Centers & AI Energy & Enviroment Events More Contact News More Use tab to navigate through the menu items. press to zoom press to zoom press to zoom press to zoom 1/8 My name is Colby Watson.
 I'm a husband, father, and small business owner.
 I was born and raised in Union County, where I learned early that hard work wasn't optional, it was simply a way of life.
 My first job was in masonry, and it taught me that anything worth building starts with a strong foundation.
@@ -20,3 +20,5 @@ While these challenges have continued to grow, too many elected officials have s
 I realized that no one is coming to fix these problems for us.
 If we want a better future for ourselves, our children, and the generations that follow, then we have to do the work.
 That's why I'm running for Congress: to restore trust, rebuild opportunity, and help build a government that once again works for the people.
+Colby Watson Colby Watson for Congress 2026 Contact: info@colbyforcongress.com Paid for by Colby Watson for Congress, without a cent of corporate interest money.
+Home About Issues Events Contact Shop Privacy Policy bottom of page

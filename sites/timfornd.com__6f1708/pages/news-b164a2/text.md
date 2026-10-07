@@ -1,15 +1,8 @@
-News
-DesLauriers, Mihalick top District 3 Republican House race
-JILL SCHRAMM, Associate Editor jschramm@minotdailynews.com District 3 Republicans chose two new candidates over an endorsed incumbent and his running mate to advance in the race for the North Dakota House of Representatives in the Tuesday, June 9, primary.
-Unofficial…
-Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
-BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North…
-District 3 House Candidates Tim Mihalick and Blaine DesLauriers Join Rob Port on Plain Talk
-Plain Talk Podcast | Rob Port & Chad Oban Tim Mihalick and Blaine DesLauriers joined Rob Port and Chad Oban on Plain Talk to discuss their campaigns for the North Dakota House of Representatives in District 3.
-Tune in to Plain Talk Episode 670 to hear from…
-Minot candidates announce joint run for ND House in District 3
-MDN Staff | Minot Daily News Tim Mihalick and Blaine DesLauriers have announced their joint candidacy for the North Dakota House of Representatives in District 3.
-The announcement stated this Republican ticket brings decades of leadership experience, deep community…
-Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3
-MINOT, ND – Tim Mihalick and Blaine DesLauriers today announced their joint candidacy for the North Dakota House of Representatives.
-This republican ticket brings decades of leadership experience, deep community involvement, and a shared commitment to strengthening…
+Meet Tim Priorities News Get Involved Vote Contact DONATE News DesLauriers, Mihalick top District 3 Republican House race JILL SCHRAMM, Associate Editor jschramm@minotdailynews.com District 3 Republicans chose two new candidates over an endorsed incumbent and his running mate to advance in the race for the North Dakota House of Representatives in the Tuesday, June 9, primary.
+Unofficial… Read More Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North… Read More District 3 House Candidates Tim Mihalick and Blaine DesLauriers Join Rob Port on Plain Talk Plain Talk Podcast | Rob Port & Chad Oban Tim Mihalick and Blaine DesLauriers joined Rob Port and Chad Oban on Plain Talk to discuss their campaigns for the North Dakota House of Representatives in District 3.
+Tune in to Plain Talk Episode 670 to hear from… Read More Minot candidates announce joint run for ND House in District 3 MDN Staff | Minot Daily News Tim Mihalick and Blaine DesLauriers have announced their joint candidacy for the North Dakota House of Representatives in District 3.
+The announcement stated this Republican ticket brings decades of leadership experience, deep community… Read More Tim Mihalick and Blaine DesLauriers Announce Joint Campaign for North Dakota House of Representatives in District 3 MINOT, ND – Tim Mihalick and Blaine DesLauriers today announced their joint candidacy for the North Dakota House of Representatives.
+This republican ticket brings decades of leadership experience, deep community involvement, and a shared commitment to strengthening… Read More SUPPORT TIM IN HIS CAMPAIGN DONATE TODAY $25 $500 $50 $750 $100 $1,000 $200 Other STAY UP TO DATE Follow Tim on the Campaign Trail  Follow Tim on the Campaign Trail  Tim Mihalick for ND PO Box 1967 Minot, ND 58701 Contact Tim Name (Required) First Last Email (Required) Phone Comments (Required) Please let us know what's on your mind.
+Have a question for us?
+Ask away.
+Submit PAID FOR BY TIM MIHALICK FOR ND, BROCK DESLAURIERS, TREASURER

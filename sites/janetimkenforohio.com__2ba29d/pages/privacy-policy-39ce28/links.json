@@ -1,11 +1,26 @@
 [
-"http://google.com/privacy/ads",
-"http://networkadvertising.org/choices",
-"https://google.com/ads/preferences",
-"https://google.com/settings/ads/onweb",
-"https://janetimkenforohio.com/",
-"https://janetimkenforohio.com/cdn-cgi/l/email-protection",
-"https://janetimkenforohio.com/privacy-policy",
-"https://secure.winred.com/timken-for-ohio/donate-today",
-"https://support.google.com/ads/answer/2662922?hl=en"
+{
+"text": "<< Back to site",
+"href": "https://www.janetimkenforohio.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/timken-for-ohio/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.janetimkenforohio.com/privacy-policy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:max@foundationstrategies.com"
+},
+{
+"text": "https://support.google.com/ads/answer/2662922?hl=en",
+"href": "https://support.google.com/ads/answer/2662922?hl=en"
+},
+{
+"text": "janetimkenforohio.com",
+"href": "https://janetimkenforohio.com"
+}
 ]

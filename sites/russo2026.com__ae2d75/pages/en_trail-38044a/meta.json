@@ -1,7 +1,11 @@
 {
- "description": "Follow public moments from the Russo\u2013Rodriguez 2026 campaign trail.",
+ "description": "Follow public moments from the Russo–Rodriguez 2026 campaign trail.",
  "final_url": "https://russo2026.com/en/trail",
- "paid_for_by": null,
- "title": "Campaign Trail | Russo\u2013Rodriguez 2026",
- "years_mentioned": []
+ "fingerprint": "3110935386adc3f77001501f0e10951926ed581b",
+ "format": 3,
+ "paid_for_by": "",
+ "title": "Campaign Trail | Russo–Rodriguez 2026",
+ "years_mentioned": [
+  "2026"
+ ]
 }

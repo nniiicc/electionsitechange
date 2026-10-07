@@ -1,10 +1,5 @@
-Conservative Character
-Trusted Transparency
-Defending East Texans
-Joanne Shofner: The True Texas Conservative Woman
-Joanne and David Shofner with their three rescue dogs: Buddy, Blonde Buddy and Stella
-“It is an honor to meet you!”
-Joanne Shofner is a conservative candidate for these serious times running for State Representative.
+Home Priorities Where is District 11?
+Join Joanne Follow Joanne Representative Reports Invest in Integrity Select Page Conservative Character Trusted Transparency Defending East Texans Joanne Shofner: The True Texas Conservative Woman Joanne and David Shofner with their three rescue dogs: Buddy, Blonde Buddy and Stella “It is an honor to meet you!” Joanne Shofner is a conservative candidate for these serious times running for State Representative.
 She is prepared to defend and protect the rights of children, parents and the Texas borders.
 As a 7th-generation Texan with East Texas roots, she shares the District 11’s conservative values of life, liberty, and freedom.
 She is loyally passionate about God, family, community, and the Lone Star State.
@@ -40,5 +35,10 @@ Together, they share six grandchildren.
 David has served Fredonia Rotary Club and Nacogdoches Humane Society as President in past years.
 Additionally, he has served on both civic and private boards in Nacogdoches and Nacogdoches County.
 Today, he is pleased to serve on the Vestry of Christ Episcopal Church, the Finance Committee of Christ Episcopal Church and the Board of Zoning Adjustments for the City of Nacogdoches.
-IN THE NEWS
-To access the articles click on the images below.
+Learn more Where is District 11?
+Join Joanne Get A Yard Sign IN THE NEWS To access the articles click on the images below.
+DONATE TODAY- INVEST IN INTEGRITY 936-556-0670 638A N.
+University Drive #177 Nacogdoches TX, 75961 Pol.
+Ad.
+Paid for by Joanne Shofner for Texans Follow Follow Follow Joanne Shofner For Texans.
+Privacy Policy .

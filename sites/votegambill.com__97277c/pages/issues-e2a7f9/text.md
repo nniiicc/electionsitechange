@@ -1,40 +1,12 @@
-LOOKING BACK
-"It's an honor to serve our community in the State House, and I am proud of our accomplishments over the last 8 years.
+HOME ABOUT MY RECORD VOLUNTEER CONTACT REPORT WASTEFUL SPENDING DONATE MY RECORD LOOKING BACK "It's an honor to serve our community in the State House, and I am proud of our accomplishments over the last 8 years.
 I promised you that I would work every day to champion our conservative values and keep Cartersville and Bartow County the best place to live, work, and raise a family.
-I have kept my word.
-"
-- State Rep.
-Matthew Gambill
-- Made Georgia’s teachers the highest paid in the Southeast with nearly $10,000 in raises over the last eight years
-- Expanded statewide literacy efforts with literacy coaches to ensure students read on grade level by third grade
-- Supported the PSC and Georgia Power freeze on power rates
-- Passed the Heartbeat Bill - the strongest pro-life law in the country
-- Supported efforts to strengthen election integrity
-- Served as Floor Leader for Governor Kemp and carried or co-sponsored every piece of his legislative package
-- Lowered the state income tax, delivered income tax rebates (including carrying this year’s rebate bill), suspended the gas tax, and provided property tax relief refunds
-- Carried all three Top State for Talent bills to align workforce development so Georgia students pursue high-demand, high-skill, high-wage jobs
-- Advanced tort reform, lawsuit reform, and insurance reform to help reduce rates
-- Protected businesses from COVID liability lawsuits and kept Georgia open for business
-- Recognized numerous citizens for their various accomplishments
-- Backed efforts to keep our local and state economy strong - all while cutting taxes and budgeting in a fiscally conservative way
-- Saved girls’ sports
-"I have also been proud to back numerous other measures that are making an impact for our state and community."
-- State Rep.
-Matthew Gambill
-- Lowered school tax on seniors in Bartow County and continue working on senior school tax relief in Cartersville/Bartow County
-- Lowered property tax on seniors in the city of Cartersville
-- Capped property taxes for Bartow County (including the 3% annual assessed-value increase limit tied to CPI that took effect this year) and carried local legislation increasing homestead exemptions for Cartersville, Bartow County, and Bartow County Schools
-- Established the Honor & Remember Flag as the state’s official emblem for the sacrifice and service of the Armed Forces
-- Secured the state acquisition of the 14,000-acre Pine Log Mountain Wildlife Management Area in Bartow County - one of the state’s largest land purchases - permanently conserving the land for public use including hiking, hunting, fishing, horseback riding, and camping (worked with Georgia DNR, the Governor’s Office, and local officials)
-- Supported Georgia businesses by reducing government bureaucracy
-- Expanded HOPE Scholarship eligibility
-- Created the Support Our Troops license plate and the Boys & Girls Club license plate
-- Updated Georgia law to increase consumer protection and fraud reduction
-- Supported legislation calling for Congressional Term Limits
-- Designated the intersection of Hwy 113 and Joe Frank Harris Parkway as Sgt.
-Stanley Thomas Bradley Veterans Memorial Intersection
-Most importantly, I pride myself on constituent services and being responsive to the needs of the citizens of House Disitrct 15.
+I have kept my word. " - State Rep.
+Matthew Gambill Made Georgia’s teachers the highest paid in the Southeast with nearly $10,000 in raises over the last eight years Expanded statewide literacy efforts with literacy coaches to ensure students read on grade level by third grade Supported the PSC and Georgia Power freeze on power rates Passed the Heartbeat Bill - the strongest pro-life law in the country Supported efforts to strengthen election integrity Served as Floor Leader for Governor Kemp and carried or co-sponsored every piece of his legislative package Lowered the state income tax, delivered income tax rebates (including carrying this year’s rebate bill), suspended the gas tax, and provided property tax relief refunds Carried all three Top State for Talent bills to align workforce development so Georgia students pursue high-demand, high-skill, high-wage jobs Advanced tort reform, lawsuit reform, and insurance reform to help reduce rates Protected businesses from COVID liability lawsuits and kept Georgia open for business Recognized numerous citizens for their various accomplishments Backed efforts to keep our local and state economy strong - all while cutting taxes and budgeting in a fiscally conservative way Saved girls’ sports " I have also been proud to back numerous other measures that are making an impact for our state and community." - State Rep.
+Matthew Gambill Lowered school tax on seniors in Bartow County and continue working on senior school tax relief in Cartersville/Bartow County Lowered property tax on seniors in the city of Cartersville Capped property taxes for Bartow County (including the 3% annual assessed-value increase limit tied to CPI that took effect this year) and carried local legislation increasing homestead exemptions for Cartersville, Bartow County, and Bartow County Schools Established the Honor & Remember Flag as the state’s official emblem for the sacrifice and service of the Armed Forces Secured the state acquisition of the 14,000-acre Pine Log Mountain Wildlife Management Area in Bartow County - one of the state’s largest land purchases - permanently conserving the land for public use including hiking, hunting, fishing, horseback riding, and camping (worked with Georgia DNR, the Governor’s Office, and local officials) ﻿ Supported Georgia businesses by reducing government bureaucracy Expanded HOPE Scholarship eligibility Created the Support Our Troops license plate and the Boys & Girls Club license plate Updated Georgia law to increase consumer protection and fraud reduction Supported legislation calling for Congressional Term Limits Designated the intersection of Hwy 113 and Joe Frank Harris Parkway as Sgt.
+Stanley Thomas Bradley Veterans Memorial Intersection Most importantly, I pride myself on constituent services and being responsive to the needs of the citizens of House Disitrct 15.
 That has been and will continue to be my goal.
 If you reach out to me for help, I am going to respond because I care and am deeply involved in my community.
 The evidence of that is abundant.
 I represent EVERYONE.
+HOME ABOUT MY RECORD VOLUNTEER CONTACT REPORT WASTEFUL SPENDING DONATE Follow Us Paid for by Matthew Gambill for State House P.O.
+Box 487, Cartersville, GA 30120 matthew@votegambill.com (770) 655-0046 Share by:

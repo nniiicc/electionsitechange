@@ -1,7 +1,6 @@
-My name is Southey Blanton
-Born and raised in North Carolina
-Proud supporter of public schools
-Believer in every single North Carolinian
-Your next senator in NC Senate District 25
-Endorsements
-Paid for by Southey 4 Senate
+Skip to content Home Why Run?
+Contact Issues Classrooms Volunteer Shirts Donate Navigation Menu Navigation Menu Home Why Run?
+Contact Issues Classrooms Volunteer Shirts Donate My name is Southey Blanton Born and raised in North Carolina Proud supporter of public schools Believer in every single North Carolinian Your next senator in NC Senate District 25 Endorsements Make a Donation!
+Paid for by Southey 4 Senate Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

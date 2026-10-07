@@ -1,25 +1,106 @@
 [
-"http://garydaniels.org/gd/donate",
-"http://twitter.com/gldanielsnh",
-"https://atr.org/pledge-database",
-"https://citizensalliancenh.org/",
-"https://cnht.org/news/about/the-pledge",
-"https://facebook.com/electdaniels",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fcampaign-2024%2Fendorsements%2F&t=ENDORSEMENTS",
-"https://garydaniels.org/gd",
-"https://garydaniels.org/gd/about-gary",
-"https://garydaniels.org/gd/campaign-2024/endorsements",
-"https://garydaniels.org/gd/events",
-"https://garydaniels.org/gd/events/get-updates",
-"https://garydaniels.org/gd/goals",
-"https://garydaniels.org/gd/videos",
-"https://garydaniels.org/gd/volunteer",
-"https://garydaniels.org/gd/wp-content/uploads/2022/11/Sununu_Endorsement.pdf",
-"https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00",
-"https://granitestatetaxpayers.org/gst/wp-content/uploads/2024/09/GSTCandidateSurvey2024Name.pdf",
-"https://nhcornerstone.org/endorsements/cornerstone-general-election-endorsements-2024",
-"https://nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results",
-"https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf",
-"https://rebuildnh.com/guideyear/2024/page/3",
-"https://x.com/intent/tweet?text=ENDORSEMENTS&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fcampaign-2024%2Fendorsements%2F"
+{
+"text": "ABOUT",
+"href": "https://garydaniels.org/gd/about-gary/"
+},
+{
+"text": "Americans for Tax Reform (ATR Pledge)",
+"href": "https://www.atr.org/pledge-database/"
+},
+{
+"text": "Citizens Alliance of New Hampshire (CANH)",
+"href": "https://www.citizensalliancenh.org/"
+},
+{
+"text": "Coalition of NH Taxpayers Anti-Broadbased Tax Pledge",
+"href": "https://www.cnht.org/news/about/the-pledge/"
+},
+{
+"text": "Cornerstone Policy Research (CPR)",
+"href": "https://www.nhcornerstone.org/endorsements/cornerstone-general-election-endorsements-2024/"
+},
+{
+"text": "DONATE",
+"href": "http://garydaniels.org/gd/donate/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://garydaniels.org/gd/campaign-2024/endorsements/"
+},
+{
+"text": "EVENTS",
+"href": "https://garydaniels.org/gd/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/electdaniels/"
+},
+{
+"text": "GET UPDATES",
+"href": "https://garydaniels.org/gd/events/get-updates/"
+},
+{
+"text": "Governor Chris Sununu",
+"href": "https://garydaniels.org/gd/wp-content/uploads/2022/11/Sununu_Endorsement.pdf"
+},
+{
+"text": "Granite State Taxpayers “Gold” Award (GST) – 100%",
+"href": "https://granitestatetaxpayers.org/gst/wp-content/uploads/2024/09/GSTCandidateSurvey2024Name.pdf"
+},
+{
+"text": "HOME",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "ISSUES",
+"href": "https://garydaniels.org/gd/goals/"
+},
+{
+"text": "NH Liberty Alliance (NHLA)",
+"href": "https://www.nhliberty.org/home/2024-2025-biennium-candidate-endorsements-and-results/"
+},
+{
+"text": "NH Right to Life (NHRTL)",
+"href": "https://nhrtlpac.org/wp-content/uploads/2024/10/2024-general-voting-guide-v4.pdf"
+},
+{
+"text": "Press Signup",
+"href": "https://garydaniels.us8.list-manage.com/subscribe?u=64dcc0960539c99ef07d0501b&id=97d4efdf00"
+},
+{
+"text": "ReBuild NH – A+",
+"href": "https://rebuildnh.com/guideyear/2024/page/3/"
+},
+{
+"text": "VIDEOS",
+"href": "https://garydaniels.org/gd/videos/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://garydaniels.org/gd/volunteer/"
+},
+{
+"text": "X",
+"href": "http://www.twitter.com/gldanielsnh"
+},
+{
+"text": "[image: Gary Daniels]",
+"href": "https://garydaniels.org/gd/"
+},
+{
+"text": "[tooltip: Send over email]",
+"href": "mailto:?subject=ENDORSEMENTS&body=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fcampaign-2024%2Fendorsements%2F"
+},
+{
+"text": "[tooltip: Share on Facebook]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fcampaign-2024%2Fendorsements%2F&t=ENDORSEMENTS"
+},
+{
+"text": "[tooltip: Share on X]",
+"href": "https://x.com/intent/tweet?text=ENDORSEMENTS&url=https%3A%2F%2Fgarydaniels.org%2Fgd%2Fcampaign-2024%2Fendorsements%2F"
+},
+{
+"text": "gary@garydaniels.org",
+"href": "mailto:gary@garydaniels.org"
+}
 ]

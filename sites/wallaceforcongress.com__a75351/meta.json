@@ -1,7 +1,9 @@
 {
  "description": "Rachel is running for U.S. Congress in Pennsylvania's 9th Congressional District.",
  "final_url": "https://www.wallaceforcongress.com/",
- "paid_for_by": "PAID FOR BY WALLACE FOR CONGRESS",
+ "fingerprint": "a79eae18a9025d22116bfd03a82a2f5e710b64db",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY WALLACE FOR CONGRESS You need to enable JavaScript to run this app",
  "title": "Rachel Wallace For Congress",
  "years_mentioned": [
   "2019",

@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.electweinberg.com/news/candidate-weinberg-officially-on-to-general-election",
+ "fingerprint": "c832105a2d000c0d54f2f5018dae2c2b86582af6",
+ "format": 3,
  "paid_for_by": "Paid for by Weinberg for Arizona",
  "title": "Candidate Jacob Weinberg Officially on to General Election",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

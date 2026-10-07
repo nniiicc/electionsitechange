@@ -1,17 +1,2 @@
-See Why Our Neighbors Support Dave for the Utah House
-Click below to read the full endorsements.
-United States Congressman
-Salt Lake County Council
-Ron Bigelow
-Former Utah House Representative, Former West Valley City Mayor
-West Valley City friend for over 30 years
-West Valley City Resident
-West Valley City Resident
-Friend and professional acquaintance
-West Valley City friend for over 30 years
-Former co-worker
-West Valley City Resident
-Professional acquaintance
-Operations Manager
-West Valley City Community Ambassador
-West Valley City friend for over 30 years
+0 Skip to Content Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Blog Meet Dave Parke Affordability in Utah Get Involved Donate Open Menu Close Menu Meet Dave Key Priorities Endorsements Folder: Blog Back Meet Dave Parke Affordability in Utah Get Involved Donate Utah Reagan Caucus See Why Our Neighbors Support Dave for the Utah House Click below to read the full endorsements.
+Burgess Owens United States Congressman Carlos Moreno Salt Lake County Council Utah Reagan Caucus Ron Bigelow Former Utah House Representative, Former West Valley City Mayor Layne Christensen West Valley City friend for over 30 years Melanie Proctor West Valley City Resident Sharon Hutchinson Sharon Hutchinson West Valley City Resident Wade Meyer Friend and professional acquaintance Kim Stevens West Valley City friend for over 30 years Jenny Schluter Former co-worker Kim Barns West Valley City Resident Dean Jones Professional acquaintance Sheiree Miller Operations Manager Jim Vesock West Valley City Community Ambassador Wayne Watts West Valley City friend for over 30 years Sign Up For Updates Sign Up For Updates - Paid for by Campaign to Elect Dave Parke -

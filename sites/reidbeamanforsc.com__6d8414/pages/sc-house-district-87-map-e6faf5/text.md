@@ -1,5 +1,2 @@
-Skip navigation menu
-SC House District 87 Map
-To see a more interactive district map and zoom in to the street level visit https://www.scstatehouse.gov/maps/house/HD87.pdf
-House District 87 Survey
-Tell Reid what matters most to you by taking the survey below today!
+Skip navigation menu About SC House District 87 Map Events & Take Action Issues News Donate SC House District 87 Map About SC House District 87 Map Events & Take Action Issues News Donate SC House District 87 Map To see a more interactive district map and zoom in to the street level visit https://www.scstatehouse.gov/maps/house/HD87.pdf House District 87 Survey Tell Reid what matters most to you by taking the survey below today!
+Take the survey Contact Reach Reid at votesforbeaman@gmail.com Powered by RUN! website builder Paid for by Votes for Beaman You need to enable JavaScript to run this app.

@@ -1,14 +1,12 @@
-Final Legislative Update of the 2024 Session!
-(with Rep.
-Arsenault)
-Note: This final update was published in the Williston Observer as a two-part series.
-Article #1:
-Around 2:15 am on Saturday, May 11 the Vermont House of Representatives adjourned for the 2024 session, which also concluded the biennium.
+top of page Support Erin - donate now!
+Home About Erin Legislative Updates 2022 Campaign 2020 Campaign Support for Erin Get Involved More Use tab to navigate through the menu items.
+All Posts Search Final Legislative Update of the 2024 Session! (with Rep.
+Arsenault) ekmcguire May 30, 2024 13 min read Note: This final update was published in the Williston Observer as a two-part series.
+Article #1 : Around 2:15 am on Saturday, May 11 the Vermont House of Representatives adjourned for the 2024 session, which also concluded the biennium.
 We are grateful to the Williston community for trusting us to represent you in Montpelier.
 We appreciate this opportunity to share some of the important work of this session.
 Of course, there is much more nuance than we can fit in this column and we are always happy to answer questions and talk further.
-The Budget
-The most essential and challenging work of government is how we invest our public dollars.
+The Budget The most essential and challenging work of government is how we invest our public dollars.
 Our budget was only 0.46% greater than the governor’s proposed budget, in part because we invested about $17 million in flood and disaster relief for hard hit communities across the state.
 In H.883, we targeted our available dollars at the priorities we heard about over and over: housing, climate resilience, health care, and public safety.
 Our Appropriations Committees had to make tough choices to put our limited dollars where they can make the biggest difference.
@@ -16,8 +14,7 @@ The legislature passed a balanced budget, despite double-digit health care incre
 Just before we wrote this, we were notified that Vermont health insurance companies are again requesting double-digit increases in health insurance premiums.
 Health care costs are driving out-of-control growth in every budget, from a family’s budget to school district budgets to the state budget.
 We’ll focus more on our efforts to address skyrocketing healthcare costs in our article next week but this is work that will take many years (and much of it should be done federally).
-Protecting Vermonters: Public Safety and Criminal Justice Reform
-Retail theft was a focus for much of the session.
+Protecting Vermonters: Public Safety and Criminal Justice Reform Retail theft was a focus for much of the session.
 The House Judiciary Committee heard from numerous retail shop owners and employees that the brazenness with which a small group of offenders repeatedly steal items from their stores was partly due to the fact that there is little to no accountability for these thefts.
 H.534 addresses this concern with harsher penalties for repeat offenses of retail theft.
 We also know that the larger issue is the current court backlog.
@@ -33,8 +30,7 @@ There is still a strong desire and commitment at DCF to implement this change, b
 S.58 requires DCF to submit bi-monthly reports on their progress through April 1, 2025.
 Other provisions in the bill include the addition of xylazine to the list of regulated drugs and the creation of a felony charge for selling xylazine.
 In addition, the bill eliminates the so-called ostrich defense (or willful blindness), which has allowed drug dealers to escape accountability by arguing that they did not know that the drugs they were selling contained fentanyl.
-Vermont Ghost Gun Act
-At the intersection of drug laws and public safety, you will often find guns.
+Vermont Ghost Gun Act At the intersection of drug laws and public safety, you will often find guns.
 The legislature acknowledged that intersection by passing S.209, the Vermont Ghost Gun Act.
 Vermont law enforcement officers have noted an increase in untraceable firearms – ghost guns – being used in the commission of various crimes, but mainly related to the drug trade.
 S.209 prohibits possession, sale, or transfer of firearms without a serial number.
@@ -44,18 +40,14 @@ Under S.209, a person can still make a firearm on their own, but must bring it t
 They would then undergo a background check before the gun is returned to them.
 This bill also includes an important provision that bans firearms at polling places during elections and early voting.
 The Constitutionality of this law is well-established and the current political climate warrants increased protections of poll workers, candidates, and voters to ensure free and fair elections.
-Tackling Domestic and Sexual Violence
-Data from December 2023 showed that 40% of all calls to law enforcement for a violent crime involved domestic violence.
-The legislature passed H.27, which adds “coercive controlling behavior” to the definition of abuse in the civil statute, making it something for which survivors may request a relief from abuse order – commonly referred to as an “RFA.”
-Before H.27 became law (it was signed by the Governor this month), Vermont statute required that seekers of relief from abuse orders be physically harmed or in fear of imminent physical harm.
+Tackling Domestic and Sexual Violence Data from December 2023 showed that 40% of all calls to law enforcement for a violent crime involved domestic violence.
+The legislature passed H.27, which adds “coercive controlling behavior” to the definition of abuse in the civil statute, making it something for which survivors may request a relief from abuse order – commonly referred to as an “RFA.” Before H.27 became law (it was signed by the Governor this month), Vermont statute required that seekers of relief from abuse orders be physically harmed or in fear of imminent physical harm.
 With H.27, there is now a clearer pathway out of an abusive situation before physical violence occurs.
 We also passed H.173, which is an act relating to prohibiting manipulating a child for the purpose of sexual contact.
-While you may think that this behavior is already prohibited, the House Judiciary Committee learned that a few changes to existing laws could strengthen the prosecution’s case when dealing with instances of what some call “grooming.”
-The changes to statute contained within this bill arose from the diligent work of the Committee for Protecting Students from Sexual Exploitation.
+While you may think that this behavior is already prohibited, the House Judiciary Committee learned that a few changes to existing laws could strengthen the prosecution’s case when dealing with instances of what some call “grooming.” The changes to statute contained within this bill arose from the diligent work of the Committee for Protecting Students from Sexual Exploitation.
 That group – created by Act 5 of 2018 – was charged with exploring how the behaviors we’ve described as “manipulating” could be made unlawful in schools.
 H.173 provides a useful tool for law enforcement and prosecutors to investigate and stop these abusive behaviors.
-Protecting Vermonters Online
-The legislature also focused on digital safety through the passage of H.121, one of the strongest data privacy laws in the country.
+Protecting Vermonters Online The legislature also focused on digital safety through the passage of H.121, one of the strongest data privacy laws in the country.
 Every day we disclose, intentionally or not, a tremendous amount of personal information.
 Social media platforms, search engines, cell phones, health trackers, stores (both online and brick-and-mortar), and other data brokers are collecting not just our names, addresses, and Social Security numbers, but also our shopping habits, blood pressure, gait and sleep quality, fingerprints, our travel routes, who our friends are and their interests, and so much more.
 This personal and biometric data belongs to us, yet it is harvested, packaged, and sold by (and sometimes stolen from) these data brokers without our knowledge or permission.
@@ -72,17 +64,13 @@ Despite bigger challenges and high levels of political tension this session, it�
 The people we encounter in the legislative process – fellow legislators, state government employees, advocates, State House staff, legislative counsel, and so many more – are incredibly thoughtful and hardworking.
 Next week, we will focus on the interrelated issues of housing, Act 250 reform, healthcare, and education (including education finance).
 Rep.
-Erin Brady (Vice Chair, Education Committee)
-Rep.
-Angela Arsenault (Judiciary Committee)
-Article #2:
-We sincerely appreciate those who joined us at the library last Wednesday evening for another community conversation.
+Erin Brady (Vice Chair, Education Committee) Rep.
+Angela Arsenault (Judiciary Committee) Article #2 : We sincerely appreciate those who joined us at the library last Wednesday evening for another community conversation.
 Hosting these open dialogues over the last two years has been a bright spot for both of us.
 We have gotten to know members of our community and are grateful that so many in Williston care deeply about our collective future and devote themselves to a range of town positions, boards, and volunteer organizations.
 Last week we wrote about significant legislation that passed this session to protect Vermonters, including several public safety bills, an important financial investment in our court system so that justice is served in a more timely manner, and robust data privacy legislation to protect Vermonters online, especially kids.
 Also receiving a great deal of attention this session were the interrelated and complex challenges of housing, healthcare access, and funding for our education system.
-Housing Impacts All Aspects of Our Economy
-The housing crisis is a national problem that is garnering long overdue attention and analysis.
+Housing Impacts All Aspects of Our Economy The housing crisis is a national problem that is garnering long overdue attention and analysis.
 Housing affordability is understandably a top priority for Vermonters.
 With high costs of labor and materials and a shrinking workforce, the cost of building has increased dramatically, to the point where a builder cannot build an “affordable” $300,000 house.
 Truly affordable housing often requires governmental financial investment to reduce the price so that our nurses, mental health workers, teachers, tradespeople, and others of average income can afford the rental or purchase price.
@@ -100,15 +88,13 @@ The bill incorporates broad areas of agreement between environmentalists, develo
 Towns will work with their regional planning commissions on a future land use map to identify areas for growth and conservation.
 In the Senate, many housing provisions were added to the bill including several temporary housing exemptions to enable denser housing in the near term.
 We appreciate the ongoing feedback and input we received from Williston’s Planning and Zoning Office that helped us understand the impact of policies on Williston and protect the opportunities we have here for smart growth and economic development.
-Climate Resiliency Is Critical to Our Future
-In the wake of the devastating floods last summer that caused over $1 billion in damage and disrupted so many lives, Vermonters have been grappling with the long-term effects of the floods and more frequent extreme weather events.
+Climate Resiliency Is Critical to Our Future In the wake of the devastating floods last summer that caused over $1 billion in damage and disrupted so many lives, Vermonters have been grappling with the long-term effects of the floods and more frequent extreme weather events.
 The complex climate change work we all face is not just about reducing emissions and repairing harm; it’s also about making our communities more climate-resilient and better prepared for a rapidly changing future.
 We passed critical bills to address the climate crisis, including S.213, which would establish a new state permitting system for building in river corridors, H.289, a bill that would update the state’s renewable energy standard by requiring utilities to make a quicker transition to renewable energy (this has already been vetoed by Governor Scott).
 We also passed S.259, the Climate Superfund Act, which would require the largest carbon polluters (those responsible for more than one billion tons of greenhouse gas emissions) to help cover the cost of adaptation, recovery, and resilience, necessitated by the harm they’ve caused.
 Vermont’s treasurer and Agency of Natural Resources would work together to identify the overall costs, then essentially bill the fossil fuel companies for a portion of that total.
 This fund follows the existing “polluter pays” model, which has withstood legal challenges for many years.
-Healthcare is Essential and Rising Healthcare Costs Impact all Vermonters
-With double-digit increases in health care rates every year, out-of-control health care costs are squeezing every budget – from your family budget to school budgets and our state budget.
+Healthcare is Essential and Rising Healthcare Costs Impact all Vermonters With double-digit increases in health care rates every year, out-of-control health care costs are squeezing every budget – from your family budget to school budgets and our state budget.
 The legislature continued to tackle healthcare costs but we still have a long way to go.
 Like housing, healthcare affordability is a complex challenge that intersects with federal policy.
 For several years, the Governor has recommended state mental health budgets that don’t keep pace with inflation.
@@ -126,8 +112,7 @@ Increasing eligibility for the Medicare Savings Program (MSP) allows this benefi
 With an investment of $4.7 million state dollars, this proposal will also draw down significant federal support, resulting in nearly $50 million of benefits for Vermonters and the providers who care for them.
 The MSP provides a crucial lifeline for older adults and people living with disabilities, allowing them to afford health care and keep more of their hard-earned Social Security income to spend on basic needs like housing, food, and medicine.
 Vermont’s Office of the Healthcare Advocate is an important and free resource for anyone with questions or experiencing challenges navigating Medicaid or Medicare.
-Transforming Our Public Education System and Funding to Support All Students
-We are at an inflection point in education for a variety of complex reasons and if you follow education news nationally, you know our challenges are not unique.
+Transforming Our Public Education System and Funding to Support All Students We are at an inflection point in education for a variety of complex reasons and if you follow education news nationally, you know our challenges are not unique.
 Several Vermont communities struggled to pass school budgets this year (some are still trying), and it was difficult to see our incredible CVSD teachers and staff feel that so acutely this year.
 This cycle is hard on morale and culture in schools and is exacerbated in the age of social-media and other online forums.
 Many voters want to “send Montpelier a message.” We are listening.
@@ -135,14 +120,14 @@ This challenging budget year created a sense of urgency around establishing a mo
 We know that at least $50 million in increased education spending in Vermont this year is direct mental health services provided to students in schools.
 Schools are the provider of last resort, tasked with handling multi-generational poverty, pandemic learning loss, and the impact of social media that we are just beginning to understand.
 The House Education Committee heard extensive testimony from over 100 witnesses this session, including school board members, teachers, principals, superintendents, Agency of Education officials, legislators from both sides of the aisle and all corners of the state, the Chamber of Commerce, national education research experts, and education leaders in other states.
-The Committee also collaborated with the Ways and Means Committee as the legislature wrestles with how to fund and deliver a high quality education.
+The Committee also collaborated with the Ways and Means Committee as the legislature wrestles with how to fund and deliver a high quality education .
 The result was the Commission on the Future of Public Education – an integral part of this year’s Yield Bill, which sets the property tax rates.
 This Commission is charged with examining Vermont’s public school system: the structure, cost drivers, the size of the system, and the services provided in schools.
 After robust engagement with the education field as well as the public, the Commission will make recommendations about how Vermont can deliver and fund a high quality education for all Vermont students in our rapidly changing world.
 Vermont’s education funding formula is unique and complex and derives from a landmark legal case, the 1997 Brigham decision that found that our state constitution requires “substantially equal educational opportunity to all students,” regardless of where they live.
 Each school district’s education spending is determined at a local level but our resources are pooled in a statewide education fund and taxes must be levied in order to raise the funds for all approved school budgets across the state.
 Our system is over 200 years in the making, so coherent change will take time.
-We are deeply committed to transforming Vermont’s education system into a right-sized, strong public education system that supports all students and uses our precious statewide resources sustainably and efficiently.
+We are deeply committed to transforming Vermont’s education system into a right-sized, strong public education system that supports all students and uses our precious statewide resources sustainably and efficiently .
 In the immediate term, the legislature passed H.871 as a next step towards restarting Vermont’s state-level school construction program.
 Deferred facilities costs were another factor in rising school budgets this year, yet we have had a moratorium on state aid for school construction since 2007.
 The bill will help create a new program that incentivizes projects that address cost drivers in education such as number of schools, energy/heating costs, and replacing school buildings at the end of their lifespan.
@@ -153,6 +138,5 @@ With another major child care tuition assistance eligibility expansion coming in
 We are honored to represent Williston and strive to be accessible and responsive.
 Please reach out anytime with your questions, concerns, or ideas.
 Rep.
-Erin Brady (Vice Chair, Education Committee)
-Rep.
-Angela Arsenault (Judiciary Committee)
+Erin Brady (Vice Chair, Education Committee) Rep.
+Angela Arsenault (Judiciary Committee) Recent Posts See All April 2024: Education Funding Update and School Budget Revote Notes from Seat 146: March 2024 (mid-session) Legislative Update Notes from Seat 146: January 2024 Legislative Update Paid for by Erin Brady for Williston ~ 48 Brookside Drive, Williston VT 05495 ~ contact@erinbradyforwilliston.com bottom of page

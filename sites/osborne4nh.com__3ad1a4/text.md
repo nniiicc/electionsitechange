@@ -1,18 +1,13 @@
-Guiding the Granite State’s Conservative Charge
-Jason Osborne has represented Auburn, Chester, and Sandown in the New Hampshire House since 2014.
+Skip to content Home News About Speaker’s Campaign Donate Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name Layout Email Name * Email * Submit Guiding the Granite State’s Conservative Charge Jason Osborne has represented Auburn, Chester, and Sandown in the New Hampshire House since 2014.
 He embodies the state’s “Live Free or Die” motto through his advocacy for limited government, opposition to tax increases, and support for personal freedoms.
 Since December 2020, he has served as Majority Leader of the New Hampshire House where he leads the Republican caucus in advancing conservative priorities such as fiscal responsibility, public safety, and reducing government intrusion amid a strengthened GOP majority.
-Read More About Jason
-Latest News
-- Rep.
-Jason Osborne: Democrats want your vote in November, just not on taxes New Hampshire House Majority Leader Jason Osborne has an op-ed in the New Hampshire Union Leader laying out three occasions this year when Democrats in…
-- Osborne: “One In Three Democrats Just Voted For A Socialist” AUBURN, N.H. – House Majority Leader Jason Osborne today pointed to the Democratic primary for United States Senate, where democratic socialist Karishma Manzur took nearly…
-- Osborne: “You Can’t Fix Property Taxes By Suing The Voters” AUBURN, N.H. – Deputy Majority Leader Joe Sweeney today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House,…
-- SWEENEY: Why Osborne Is My Choice for Speaker NH Journal has published an op-ed from Rep.
-Sweeney announcing support for House Majority Leader Jason Osborne in the race to succeed retiring Speaker Sherman…
-- Osborne: “Winning The Argument Is Only Part Of The Job” AUBURN, N.H. – Turning Point Action today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House.
-One hundred…
-- Osborne: “Nobody’s Property Tax Bill Went Up By Accident” AUBURN, N.H. – House Majority Leader Jason Osborne today announced five more public endorsements in his campaign for Speaker of the New Hampshire House.
-One…
-Keeping New Hampshire Free
-As Majority Leader, Jason Osborne has delivered real results that strengthen New Hampshire’s freedom and prosperity:
+Read More About Jason Latest News September 19, 2026 Rep.
+Jason Osborne: Democrats want your vote in November, just not on taxes New Hampshire House Majority Leader Jason Osborne has an op-ed in the New Hampshire Union Leader laying out three occasions this year when Democrats in… September 9, 2026 Osborne: “One In Three Democrats Just Voted For A Socialist” AUBURN, N.H. – House Majority Leader Jason Osborne today pointed to the Democratic primary for United States Senate, where democratic socialist Karishma Manzur took nearly… September 1, 2026 Osborne: “You Can’t Fix Property Taxes By Suing The Voters” AUBURN, N.H. – Deputy Majority Leader Joe Sweeney today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House,… August 31, 2026 SWEENEY: Why Osborne Is My Choice for Speaker NH Journal has published an op-ed from Rep.
+Sweeney announcing support for House Majority Leader Jason Osborne in the race to succeed retiring Speaker Sherman… August 24, 2026 Osborne: “Winning The Argument Is Only Part Of The Job” AUBURN, N.H. – Turning Point Action today endorsed House Majority Leader Jason Osborne in his campaign for Speaker of the New Hampshire House.
+One hundred… August 17, 2026 Osborne: “Nobody’s Property Tax Bill Went Up By Accident” AUBURN, N.H. – House Majority Leader Jason Osborne today announced five more public endorsements in his campaign for Speaker of the New Hampshire House.
+One… See all news Join The Team $25 $100 $250 $500 $1,000 Keeping New Hampshire Free As Majority Leader, Jason Osborne has delivered real results that strengthen New Hampshire’s freedom and prosperity: Expanded School Choice : Led the passage of the nation’s most comprehensive Education Freedom Accounts program, empowering thousands of families with greater control over their children’s education and putting parents—not bureaucrats—in charge.
+Protected the New Hampshire Advantage : Guided the House to multiple balanced budgets without introducing broad-based income or sales taxes, while securing property tax relief and responsible spending to keep our state the best place to live, work, and raise a family.
+Reduced Government Overreach : Championed landmark reforms to safeguard individual rights, improve criminal justice, lower energy costs for families and businesses, and push back against unnecessary regulations—ensuring Granite Staters keep more of their hard-earned freedom.
+Read More About Jason Paid for by Friends of Jason Osborne 65 Miner Rd Auburn NH 03032 Chairman Jason Osborne Jason@Osborne4NH.com 603 391 2138 © # Friends of Jason Osborne Privacy Policy Search for:

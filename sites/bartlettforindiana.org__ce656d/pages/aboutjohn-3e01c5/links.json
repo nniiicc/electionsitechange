@@ -1,12 +1,42 @@
 [
-"https://bartlettforindiana.org/",
-"https://bartlettforindiana.org/aboutjohn",
-"https://bartlettforindiana.org/blog",
-"https://bartlettforindiana.org/cart",
-"https://bartlettforindiana.org/issues",
-"https://bartlettforindiana.org/volunteer",
-"https://facebook.com/BartlettForIN",
-"https://indianaruralsummit.org/",
-"https://secure.actblue.com/donate/bartlett-for-indiana-1",
-"https://twitter.com/bartlettforIn"
+{
+"text": "0",
+"href": "https://www.bartlettforindiana.org/cart"
+},
+{
+"text": "About John",
+"href": "https://www.bartlettforindiana.org/aboutjohn"
+},
+{
+"text": "Blog",
+"href": "https://www.bartlettforindiana.org/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/bartlett-for-indiana-1"
+},
+{
+"text": "Indiana Rural Summit",
+"href": "https://indianaruralsummit.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.bartlettforindiana.org/issues"
+},
+{
+"text": "Take Action",
+"href": "https://www.bartlettforindiana.org/volunteer"
+},
+{
+"text": "[image: John Bartlett for State Rep]",
+"href": "https://www.bartlettforindiana.org/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/bartlettforIn"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BartlettForIN"
+}
 ]

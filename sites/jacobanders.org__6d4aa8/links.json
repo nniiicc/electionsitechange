@@ -1,14 +1,66 @@
 [
-"https://ballotpedia.org/Jacob_Anders",
-"https://facebook.com/jacobanders.gov",
-"https://jacobanders.org/aboutme",
-"https://jacobanders.org/campaign",
-"https://jacobanders.org/donate",
-"https://jacobanders.org/howpay",
-"https://jacobanders.org/press",
-"https://jacobanders.org/support",
-"https://jacobanders.org/whitepapers",
-"https://paypal.me/redwolf915",
-"https://x.com/jacobkanders",
-"https://youtube.com/@jacob-anders"
+{
+"text": "Anders4USA@gmail.com",
+"href": "mailto:Anders4USA@gmail.com"
+},
+{
+"text": "Ballotpedia",
+"href": "https://ballotpedia.org/Jacob_Anders"
+},
+{
+"text": "Donate",
+"href": "https://www.paypal.me/redwolf915"
+},
+{
+"text": "Donate via PayPal",
+"href": "https://www.paypal.me/redwolf915"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/jacobanders.gov"
+},
+{
+"text": "How do we pay for this?",
+"href": "https://jacobanders.org/howpay"
+},
+{
+"text": "Meet Jacob (About)",
+"href": "https://jacobanders.org/aboutme"
+},
+{
+"text": "Platform and Policy",
+"href": "https://jacobanders.org/campaign"
+},
+{
+"text": "Press",
+"href": "https://jacobanders.org/press"
+},
+{
+"text": "Read Whitepapers",
+"href": "https://jacobanders.org/whitepapers"
+},
+{
+"text": "Regional Roots",
+"href": "https://jacobanders.org/donate"
+},
+{
+"text": "Support the Campaign - Donate Today",
+"href": "https://www.paypal.me/redwolf915"
+},
+{
+"text": "Supporters & Endorsements",
+"href": "https://jacobanders.org/support"
+},
+{
+"text": "Want A Free Yard Sign? Email Me",
+"href": "mailto:Anders4USA@gmail.com"
+},
+{
+"text": "X (Twitter)",
+"href": "https://x.com/jacobkanders"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@jacob-anders"
+}
 ]

@@ -1,8 +1,7 @@
-Vermont Housing Trends
-The General Assembly received a briefing this past Friday about the current trends in housing across Vermont.
+for Vermont House, Chittenden 15 About Troy Contact Donate Blog Troy Headrick / Uncategorized / Vermont Housing Trends December 3, 2023 The General Assembly received a briefing this past Friday about the current trends in housing across Vermont.
 As our community here in Burlington is about to select new leadership, it is critical that we ask questions from a well informed perspective.
 Information here was provided by The Vermont Housing Finance Agency (VHFA), Capstone Community Action, and the Vermont Housing Conservation Board.
-The full presentation is available at the Vermont Legislative Joint Fiscal Office website within their list of recent briefings.
+The full presentation is available at the Vermont Legislative Joint Fiscal Office website within their list of recent briefings .
 I’ll post a few slides here along with some brief comments.
 So many of the concerns I hear Burlingtonians discuss can be sourced to our housing crisis.
 The increased visibility of our fellow Vermonters who are suffering from opioid use disorder, the inability of those we love to stay in Vermont due to low availability and increasingly high costs of rent and mortgages, and the impact on our workforce when employers are unable to recruit or retain workers due to the many hurdles involved with finding and affording housing — all of these can be directly sourced to this crisis.
@@ -25,12 +24,13 @@ We can however consider a few factors that are impacting the amount of housing a
 We can also hold employers accountable for bringing Vermont wages out of compression and in line with what comparable salaries are across the country.
 The amount of short term rentals have most certainly increased across the state.
 Burlington recently passed an ordinance that seeks to end the ability for landlords to utilize many of their properties as short term rentals.
-It will be critical that we enforce this ordinance and I will work to create legislation that replicates Burlington’s ordinance into state wide policy.
+It will be critical that we enforce this ordinance and I will work to create legislation that replicates Burlington’s ordinance into state wide policy .
 We can encourage our employers to respond to the need for more competitive wages here in Burlington and across the state.
 Wages are not keeping up with the cost of living and certainly not with the cost of home ownership.
 As we watch to see what happens with the Vermont State College system, we must support our UVM workers locally as they find increasing leverage through the unions that are developing across the entire campus workforce.
 In my estimation, morale at UVM is at an all time low.
 This is evidenced by the fact that nearly every employee has overwhelming voted to form a union for collective bargaining.
+I belong to UVM Staff United and am pleased that we raised the minimum wage for all workers included within our bargaining unit to a minimum of $20 per hour.
 The UVM administration is currently stalling continued negotiations that would evaluate our outdated system for job classification and compensation.
 Our initial contract tabled those decisions until this past summer of 2023 and the response from UVM to resuming those negotiations has been nothing but concerning.
 Recruiting and retaining a skilled workforce will require all employers to reconcile decades of compressed wages.
@@ -57,4 +57,4 @@ We have a simple choice between building more housing in our neighborhoods or wi
 In short, it becomes critical to shift our prevailing paradigm of Not In My Backyard (NIMBY) to Yes In My Backyard (YIMBY).
 As you consider the factors outlined within this post, please do not hesitate to contact me for continued discussion.
 As I’ve already stated, the solutions to these factors that will remain outside of our control will most certainly require collaborative head scratching and plenty of compromise.
-Know that I am committed to those conversations.
+Know that I am committed to those conversations. < My Statement on the November 25th Shooting of Three Palestinian Students > (Some of) my 2024 Legislative Priorities Donate I pledge to reject donations from all corporations as well as contributions from oil, gas, and coal industry executives, lobbyists, and PACs Connect with Troy Paid for by Friends of Troy Headrick for Vermont Privacy Policy

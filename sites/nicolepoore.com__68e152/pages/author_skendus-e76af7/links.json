@@ -1,145 +1,678 @@
 [
-"http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf",
-"http://elections.delaware.gov/services/voter/absentee/index.shtml",
-"http://elections.delaware.gov/services/voter/placestoregister.shtml",
-"http://elections.delaware.gov/voter/specialneeds.shtml",
-"http://writersblockservices.com/",
-"https://baytobaynews.com/stories/new-delaware-data-center-bill-introduced-senate-to-vote-on-sb-1-this-week,318955",
-"https://facebook.com/NicolePooreSenate",
-"https://ivote.de.gov/voterlogin.aspx",
-"https://nicolepoore.com/",
-"https://nicolepoore.com/12th-district",
-"https://nicolepoore.com/about-nicole",
-"https://nicolepoore.com/about-senator-poore",
-"https://nicolepoore.com/accessibility",
-"https://nicolepoore.com/announcement-from-delaware-dmv",
-"https://nicolepoore.com/author/skendus",
-"https://nicolepoore.com/author/skendus/page/2",
-"https://nicolepoore.com/author/skendus/page/3",
-"https://nicolepoore.com/author/skendus/page/39",
-"https://nicolepoore.com/category/economy",
-"https://nicolepoore.com/category/energy-and-environment",
-"https://nicolepoore.com/category/health-care",
-"https://nicolepoore.com/category/legislation",
-"https://nicolepoore.com/category/legislation/consumer_protection",
-"https://nicolepoore.com/category/legislation/crime",
-"https://nicolepoore.com/category/legislation/crime-and-public-safety",
-"https://nicolepoore.com/category/legislation/eco_policy",
-"https://nicolepoore.com/category/legislation/education",
-"https://nicolepoore.com/category/legislation/energy",
-"https://nicolepoore.com/category/legislation/guns",
-"https://nicolepoore.com/category/legislation/health",
-"https://nicolepoore.com/category/legislation/joint-sunset-committee",
-"https://nicolepoore.com/category/legislation/open_gov",
-"https://nicolepoore.com/category/legislation/social-policy",
-"https://nicolepoore.com/category/news",
-"https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter",
-"https://nicolepoore.com/category/traffic-alerts",
-"https://nicolepoore.com/category/uncategorized",
-"https://nicolepoore.com/contact",
-"https://nicolepoore.com/delaware-democrat-values",
-"https://nicolepoore.com/delaware-voting-information",
-"https://nicolepoore.com/donate-2",
-"https://nicolepoore.com/emergency-closure-of-lorewood-grove-road",
-"https://nicolepoore.com/endorsements-2",
-"https://nicolepoore.com/feb-2026-legislative-updates",
-"https://nicolepoore.com/home",
-"https://nicolepoore.com/january-2026-updates-from-senator-poore",
-"https://nicolepoore.com/legislative-recap-april-2026",
-"https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city",
-"https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly",
-"https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates",
-"https://nicolepoore.com/take-control-estate-planning-seminar",
-"https://nicolepoore.com/volunteer",
-"https://nicolepoore.com/wp-content/uploads/2025/12/DMV.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/0205226-1.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/0205226-10.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/0205226-11.png",
-"https://nicolepoore.com/wp-content/uploads/2026/02/0205226-5.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/0205226-9.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-2.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-3.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-4.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-6.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-7.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/02072026-8.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/02/Estate-Seminar.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-1.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-10.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-11.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-12.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-2.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-3.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-4.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-5.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-7.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-8.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04062026-9.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/04/04102026.png",
-"https://nicolepoore.com/wp-content/uploads/2026/05/05232026.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-1.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-10.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-11.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-12.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-13.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-14.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-15.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-16.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-17.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-18.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-19.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-2.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-20.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-3.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-4.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-5.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-6.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-7.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-8.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/06/06132026-9.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/08/08072026-1.png",
-"https://nicolepoore.com/wp-content/uploads/2026/08/08072026-2.png",
-"https://nicolepoore.com/wp-content/uploads/2026/08/08072026-3.png",
-"https://nicolepoore.com/wp-content/uploads/2026/08/08072026-4.jpg",
-"https://nicolepoore.com/wp-content/uploads/2026/08/08072026-5.jpg",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_ckYBVtxmJbEnr5yMsjydfvwuwQ267qy5Wqb-aq_uGSwtlYXZ434HjdpwcQaMm2uga2ggUlyn7h81Df2huc2FNAV6wG-TtLLkPE5q1VfDhNuS5VnJVM6BkOHovcc5dWRh_NrJpG8h20IYHeSUs1d4fR3g1hV6d6c2zhB0r9zXoZM0BIflpKOymabZMQPwWruRlVLkrrEWVvtB6oQIIKAeHhKvsru_mdzy5_qRyvcC5Xz-pea8NzG4QuifbNfaQj28hxH-xWiggiUEu-49cv5s9IKfks3Pj1_oPR86RVcAXcCovfHFwCOmfHZthIXg20xiREmHl-hnTZOnmSfJWwFTFxgNiOFacTJJYtDYAb9_7UluwZR6xWEDbCr0zUjDDJgEDbmfFu_AtO9lZjI8JZsXGY_IiHUr9eUYMHBg-c8uUxYIqXop0t2LZj-Tq6Qrls9vVl8bXbT830ALsvgIYtuJfGnbULnAtiJIDT08Beq4tTHUXp10SrutBkM9O-qaegExUzX88RlGo4_LM4O2lGifMAM%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_codPNyOiWqSNMllTWChspZN2FR5-Mwl509AWPBjneooE5UCDdxTitiPWVmNKkdo4kdWBu3Bj7_cbmPDeK3C_CnP4BS1GVhiQ5m6gnBTnldDacQRro2Z_RK9M0HBKRFrgFQ%3D%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_crevINbUkbEN3Ruq0uok6NE61hrTknvtPNPRuW3gGZw33dPcddIiqEEIODls9xrk22JZ6XPyKBa9TQtEG6yusOTccCpaJ4Z40BF-F6CEqbUyGca7qETbp-sW4BBovlf6Bw%3D%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGUvAm14And9-Jg063zATLAPlW-qMYRYmjnkMrwDu0P-KFKcY3D_FyhP1P_1A414ckykk8_ItLbflRdmSLQePJvAsxUxZwjTsDHHoDKyVrIFB5lE4UPkyy8PFY3y3pmOTIw%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGXxT2r-q3db_U-GDl_bNlJ5bImo7Zdx5vGcdPiRgcbqXMPOVZy746bK-AiCqQo6QhoPykiYNGRnT8EvwCkrigyMtEK-zGS5Q-3Qw0akRqzCY0_VLYKgwgLqJiOAX3tuAXg%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGXxT2r-q3db_rIgzWLX9mMWdx5rw6pwGUwPRfNZH1daMmJ-thslgeyrhrdRna-OCa7vchFHT5jZiANryi-5E8Bpdj-097kWPvvGtMc5CfSPP30uZMQkBGiL9sCVKkyxuFw%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGdSo09t-2OLLEguBjnIv4ht5I31Rld9gVPQQ-zgKHvoYYipUoIpyRefG4rXsEKLmAQmHeba9kBOOCwcK4fpL3Fr9X_9A0vUWy39AZ8rmTBJleSOyUVmLh9k%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGdSo09t-2OLLVBYQ0gX7KtzzdkyWKxvnrxAtvIEzMPSGd_n1YFie7s7zY9L18wZDKOARlAsV85WQ034pcmR8Cl8DW5CNwJqrgZWkyd0Vt01HRJNi7El385Tp9lcPFuP0uI9iMHXxIlnFi9kvbCM2gFg%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001GIZNvz94liw2_atQ8nWNTfzpAtTGvNXeIyPgvMMu9VsU8e1tzI2SDhkJtwPVEK5ZHTbZJSLZgIx1H_rICQnZZ1dKlV0NyZgPhvHyee3ZlkEBAZSB_V_PcKlVECe3kxEJE568gRL0dKwJw-ujSNowNG9YeJUyvLiBAvrBC_IYs_JmBcJKnGtTHw%3D%3D&c=kEfoB3oDRm36nj0jb_oZ-v6selGD5c7cKvPmNzVhTivkVOYTe_SClQ%3D%3D&ch=p61spfZdrsm1Cnfqwa4hRh4S3U3nkXdDUJptBrQb4vEQjaHADBXXXA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001GIZNvz94liw2_atQ8nWNTfzpAtTGvNXeIyPgvMMu9VsU8e1tzI2SDu1GP7HadX3lkjrfAMwG9VJkNgMJyq1mLie2H8ZelqPLjs4IHx3KYcMPkIclJa1jJWqb6l7-0xKVaBdBy3MPzb18_OHn8_eUKxwKKTQAb_dfMPx20lNV1OUmoT2Zs195HA%3D%3D&c=kEfoB3oDRm36nj0jb_oZ-v6selGD5c7cKvPmNzVhTivkVOYTe_SClQ%3D%3D&ch=p61spfZdrsm1Cnfqwa4hRh4S3U3nkXdDUJptBrQb4vEQjaHADBXXXA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfA5qRDoFDvxjUpAk5Rc_uBuCpTou68VJrxUO2_XzAkrq3G-RYVyyLh0MOk44s0W-rGyEgfzrmnDPTgY9YE8ssLwhFJ6OHWhZKntcott_iPquJ7bMZsGKpC6Qxy_GIYkCYBgXCtMT9BkLo%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfAJVkMHmszkaIBsZHO9kWxCWCleH6GbE8ZN_ukX2yX_kzbnp4bjlkkP0UzItnvF9zReJ8Vpcw1RTEHNT6NjdnelYANidE21_DvMbaP9LIOWmzyLR6YWnYVHJDFIYYPjbSMZwIw5FgcAoGla5jiGI3IXZNFQaZnnKYyUcKBdX9UFHo%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfAjPmgCODGxiaYgY6V_eiWyqTlmGR6HljjzTWptN_FEVseR2L2d8akgoni3tKP8wZpfV0ERCjbo5jK89iW6qfeY7Q91Mr7Y1SbV4vRoi2otu-bsj2gbQoojEI4pa0Qb_ezqhbygEsI0d4%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5crQGvk_iaeDVrSAY9BUVkUkfdcvHyTYrqtf-xp4NHd9RFH3wP6E34FtccrmJyuaCbFop71gJ9zzm3BnHIZ27z9rf_x07bBLKlFLQVpyG70C3kzS06gT6aj3A8OQgfyOA%3D%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5crQGvk_iaeI_B9_ghDykn-VZIb7VuHgd6q8NymZSlzPBtaqAqYIRo34HRVzH3BkqAF0oTwv46QGM7UZD5Wurt-WdqdUnvM5zsAoNkeJu6lA0T5G6Bk6991e6StV9sEIw%3D%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzgywGhEhmu1W3NglYQ2WiMPBaxeuqw6K-BtcUTclK1X84UtSLAVYrJLO8WzX6SU9Ju2H_eeq0KQmieELj1oG6joA3rjQZJCp6n7WLDFvzoOqvnh5A3tf8WLTnKQVXjs0mQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzofEzk9sO34vBnjovKcOjAdR4GTIgqlscPTXFzUYHW_wwR9iE65NCrVPNrLwCYZrwsZijknLuhePr7QB_F3-iX8pfYZBjZpEQpM4qQpzLd1REGlHSMuXIK5srO7NIuo_CQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzofEzk9sO34vyRUWL_Hda2-20dBFsIeQXtliT_hf28ufSZESKyTFfoHemVKZqWNmx-Z5ty8UPUUeUZMqOjML6Pt8FTuhkrFdSREJJ4DFr6tbHSZ1opTolRw4qx0_QOSnXQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVK-xX2MAgJW2k1xVS9_-5LhRGNRHw8r5injHXWlxwDqtYut4pyqOJ4d0U2lg8i2FAWib12J-QkBoNJqvW-iG0-5pJ12Urb3nvYabr8abK5gY%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVMndCxziPo7hzysYy7-Z-ir4GHfFBtga3AzWGTGMr82dJeiC1Gb0BtDVriemnvVsflVqwYgz3A9FrMID1OHu_IDibLDiGVSEQgiPk3KbfVxZTuTdNPdKCKIFtMuZxZ1oYu0Jvcm3wn02h8MqcVnW8gg%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVjAfCntbu63azrqlXqCtBIQGhKl0s3Ep_a91FsliMRteGfCWx-bSmw-tA33XhOkHO8bDypL5xTqNUtdqOq3kjKE6NtgDL4mFEs94-sRfzvK4JsvMF7G7cCjjKzqvrxULQyNzPsJ7r1GrMDJlaWbovQyO-uTIwActUmDe9-jZiQUxqATTEEytqDw%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVq74H2gX-bUtcFpG4vuDb04tYVxf3in4s54KkJeIWLzfw-espWj16Z7WHNBde-7nEe5Rh1cSzapw9tOWBS0OO2w%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVvb6Gm3IJl71_Rz0-LgLuwNtlfIdqpQYfbk3ESFv2_RjAQFHE7-F3iBca3bgyby1lPXJKIk2qVRVdJBuUq54kdVLIA_h9bNeK0nJAMXvQ-gI%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzpJN24n8v7P47MJW3X4V5ffNUsDlcZYUxjxdnWPpnwv8bsGIIbG-dC9DWBCdq-SR1Kq7tBDVDl261qszJ3NMASlnVKBpYOlF1w%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001orwW-q3GnvTgNGCpns-Gmz0QPJGwJmki7VmjTLXMABiZvQPwd3Xfw5XEzzwk_I_V3jnSvbY4ax5zjsaJ18NAfs2odlgTIonfBaKKCB8acFpOGUVTSeH16lMzEbXGx4HuuhUGvKw7dgB1YJj5QRshlK9Qv6SJOE5vf__7dw00zpXsDXv0TL59-Q%3D%3D&c=ZFzmAe3LBRkgM1VKr2IsqwwCQSnTRcvd_XZDWECGjS-na89m9PnK3g%3D%3D&ch=Bj5G4a00PRjj9PDVV41d14uLEXGoXwsDT1K53wBAjBWsi6UqsIeCHA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001orwW-q3GnvTgNGCpns-Gmz0QPJGwJmki7VmjTLXMABiZvQPwd3Xfw61a59Tn7uUZvqWuIaPVn4kQORMWGWm9InPt7gjhV3umo8a-Wsu1cplSS4ufYBfHdXs-unWKfH2JLpw2W4igzOgBRnfwTLHYrWFrfv0ecVYs2J0rTr1TC6viMa1ociDdKA%3D%3D&c=ZFzmAe3LBRkgM1VKr2IsqwwCQSnTRcvd_XZDWECGjS-na89m9PnK3g%3D%3D&ch=Bj5G4a00PRjj9PDVV41d14uLEXGoXwsDT1K53wBAjBWsi6UqsIeCHA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLTJ9RMQc7fTUMGf_YNO1jgYOjTPn03J1arIf-t_JXihCuASdsw1cOvi0MpBVWq6nuBMC-CxU69NOCfBEetOSI_m61EkwDMsMy6KNE0xFAS91YLL1mDh5sEZGA0mESViCAw%3D%3D&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLVAEIe6Ww0PL92yNuiZ-evEJwvuhG98eGniRmrbKM7SmZwEYkFSfYgaaCiLTcYStIcnipBskMw1GfJdCr8a0SLZJmwgBg0NqyOepRI6WxRTN&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLVa44113Z3JUaURr9st5AkOxkED1ntJKhQ1lh3n-01cXuPCbedEyBrtpyoMSgOPfpV2v_spMURIhXkvdVQ6tPa3aFCC3PYOLZA7gSz6AzCgEzx6NtK0_2tKHGE8QlMLEuA%3D%3D&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkGQOvVqdkBO21ClA48CzOPjjUemULiQYXBVdOj14M4a7mELBEEWOLg8L7mJZGgn7i-NqYDHatXfFf1LFiGvCRo-kAe2WkMJknQYFRt00n6tHfyPleLt6kA4LHRCEopIRPQ%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkGQOvVqdkBO2WS9wFMYuS1XdqRKWpKtOkWMrgK1Wlxz6Lb0sOD5gvWKTqNaqraWTFfyOcxXSFdTdrDns0XPtyFXIua9jWAf3fj6B5ShJVq6mHW9QzEDxDjCdRlme5npJEg%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkH_B-8PU-q2wDtaVb06Qez3KShEVUR6Dc0a4BV72RTCbAEMWio8Zq9QZvex0B8sC-caPyQ7lYEyaJlG2_b8agBz1pPv8ils7AJdIabaBMUgPaOwZqMAdX6sAlASGSkIq_A%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkH_B-8PU-q2wJhfjpZdTDluHgfDWrU_GBr-1piGfzAI9oAu2PnBVQy9gIeRMq4zJZZd_ih1F2Oa2-s1S8NJid4YX6GQ4-6Pa9lM8HH420xwOr0IZbECtOH4%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkIXDhfmy3LbZxMe5RxBcBpAO3ahK71eXdgwxwcdgVSJGhljnv_-bsH_elfQhHe7rMJhNbPRpsfT3e_BZUSIPNXxqVRNHtKqM98HOHcx2DDVy&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkKqNF1Ve3tDTH419svs6s_fIGTF2yZt_4_MRNY-3Lh-wA_lVdEdGY-50RmxFkBA7EcNInzTUagg6wFEwjb0c-dqMHubI7q9Ouy39ykw7jloBZJPdpCNrjA697Qx-a7aT75jK64HSI2mmib9TgsAwUop5ibh_O9-ge23uz9Ku0Io0xZ6_bgwO_31qT6TZUMTf9UCwemrBV3nOaIp42NpM4ZwKQplohIlCtYqbUMC8ljQ_0_J2-IrHihv-HDwxRHKo2j9wyDRAgSghgN9FdvfG9IjwKR6hpewrmPlTFXQXflKXgBn0kFPu1Ed28ipD5nCq-trz6k2zbl4I3sl17dmvYFz3rMNSCWdAgTp4Mnwherf1h6jPuLGb96qQ3Uo8hXXyNg%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001uEnp6a7NPSpf6BAeqkgLhgX_7FYLV7H0oCGCv8NDTAK0a0zuRiIHVzmvKfTM65QD1aJtjNif8hGc_ySlT-elN8ip0ICEkojBW0klfEZUK8kZ93gW_qc0IAbN2rQyx74L3KdF5OUcyQBe86N9NTJoeW-u4D6-f5HU0u3ctlmWPM82RxSXJOUOCozBWAswJNNdotfeSmY07HRtYSkwiEdl-hzXNnhVTpcSArZhuVgdCBjG013czUT_AoY6WfxXWSRbM53EV0ytaduOiIyEPI6pOoc5Zf43-TV8KY8VPE19XxapfLWyjc6eowI5KYR2uJ9heg_0xasKeVqbAIVlRqrc2mGUWFy9uPsNBOrf9EMbINDp9s6KhvhTirVUNbso8crGZcBhTaH41OT6E2gYwT7NyqdLpDZJTjpSJOQdETlgsbbejUwZApdidh9SLZhB1syrAFAXed4mkby7yBw9fbOrYuCFXJk6giy6lS_dKqJ19Wp-f9ZU9j02r6fVRta4W8GC3fcEmUsre-kqUiJ9WhEGmVdqUeH2HAUYfaVsUeupnkWVuTMsMrdZH0rb5avjJTT1VDkSWbzQUIWNEst7GOg-aP4ER12f1EAEupgPaM4zXwhieucwSrJgZwAjhbTuSU9aIwxKl5pNunf8lGsGONvBEtOWDtq2nJdWvx0Z1nSP2Zb_lQuqedx1tvc7Fhw4lX2dLSrGNe3uvUC50SNkCOwPzV3dSerDHqYtHw6WHfxf0h860dkaDKkqQDVV3SQy61xjeWvIzXJSDxrE7A__lxUNHQ%3D%3D&c=MiLUr2shhB6_zdgnXntRjEVdr-zOjgHsYH552sqQXgk9L-0OaPIYlA%3D%3D&ch=xEFbxWwvTU_9R7lHGXG3Duj4zIwsv7miN0IHrbAItXGtRXKdSBwx_w%3D%3D",
-"https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001uEnp6a7NPSpf6BAeqkgLhgX_7FYLV7H0oCGCv8NDTAK0a0zuRiIHVzmvKfTM65QDeRg3d9K3KtafsC2ShC8132CfqoO4EFKHlMjBA6lBSsbiimLJp5zukVOAcAJHiLdQhZ2vbM3ar_jZ1fUAirbR-TDzn9_icXFBtsEggValYC2kSxvDfiw5Lo1AzPdxmJKzDjKZmpiLDQ964e_s_QLEAitD53AolJ6ib-NlKQYYptq9xJezoXMBsDdRul2flMp8oKU-AScBVw9D9nOSuZn2iaDunc7R7tBeLpBSMDZ9fJ8NZZJz2EASXqEz3sp4Wr9TDH_-efPvHdUIe3LM_aATOcLBeymv4uCsRHYzIrC8iMyHpPSRWM-85cU2OkBqyJsdSWxA49DJXflkHPWnwq0DmW2RM8nLoo-OYnhtPUSzQ0zo8YOjW1sf_VqG8C2cZ0lwqcPBbpXUzveDKb0xNPUO2SxIQxkv-vzFNMHOunwavnWgF-qHeWLz3MuGdRxPRVH_aUt2FevBCc2wR-ILbKpVhxqWjs1eAyI9iRhyQ13vqHq35epuI7mwwqT_8oiU1_vzocZZsKOyujieKOn4OYB10R8jn-6ZVcdSVBkDfvNHunIis4kx_5Im9M6yJ_TVOvV5aDwFFaC60-8z98Ofn83mz1qNmVFldJD2mULNblw4W_-1TzivNGzx6W-37M_DCcXnDRum-hVKMF7lfWnWR087iB0u8ECE9xUFXIdqVC3t6eLgloSTiM1LAM3F4jcBS0NCrvRI7kcUO-9uEd8L1e-tklYjL6Of2bN8&c=MiLUr2shhB6_zdgnXntRjEVdr-zOjgHsYH552sqQXgk9L-0OaPIYlA%3D%3D&ch=xEFbxWwvTU_9R7lHGXG3Duj4zIwsv7miN0IHrbAItXGtRXKdSBwx_w%3D%3D",
-"https://tinyurl.com/dxd2s7jb",
-"https://twitter.com/NicolePoore12",
-"https://youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+{
+"text": "12th District",
+"href": "https://nicolepoore.com/12th-district/"
+},
+{
+"text": "2",
+"href": "https://nicolepoore.com/author/skendus/page/2/"
+},
+{
+"text": "2016 Delaware Election Calendar",
+"href": "http://elections.delaware.gov/calendar/2016ElectionCalendar.pdf"
+},
+{
+"text": "3",
+"href": "https://nicolepoore.com/author/skendus/page/3/"
+},
+{
+"text": "39",
+"href": "https://nicolepoore.com/author/skendus/page/39/"
+},
+{
+"text": "About",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "About Senator Poore",
+"href": "https://nicolepoore.com/about-nicole/"
+},
+{
+"text": "Accessibility",
+"href": "https://nicolepoore.com/accessibility/"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://nicolepoore.com/accessibility"
+},
+{
+"text": "Announcement from Delaware DMV",
+"href": "https://nicolepoore.com/announcement-from-delaware-dmv/"
+},
+{
+"text": "April 11, 2026",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "April 7, 2026",
+"href": "https://nicolepoore.com/legislative-recap-april-2026/"
+},
+{
+"text": "August 7, 2026",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Bay to Bay news for covering this legislation",
+"href": "https://baytobaynews.com/stories/new-delaware-data-center-bill-introduced-senate-to-vote-on-sb-1-this-week,318955"
+},
+{
+"text": "Business & Economic Development/Policy",
+"href": "https://nicolepoore.com/category/legislation/eco_policy/"
+},
+{
+"text": "Charity Crossing",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGdSo09t-2OLLEguBjnIv4ht5I31Rld9gVPQQ-zgKHvoYYipUoIpyRefG4rXsEKLmAQmHeba9kBOOCwcK4fpL3Fr9X_9A0vUWy39AZ8rmTBJleSOyUVmLh9k%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D"
+},
+{
+"text": "Consumer Protection",
+"href": "https://nicolepoore.com/category/legislation/consumer_protection/"
+},
+{
+"text": "Contact",
+"href": "https://nicolepoore.com/contact/"
+},
+{
+"text": "Contact Senator Poore",
+"href": "mailto:info@nicolepoore.com"
+},
+{
+"text": "Crime and Public Safety",
+"href": "https://nicolepoore.com/category/legislation/crime-and-public-safety/"
+},
+{
+"text": "Criminal Law and Courts",
+"href": "https://nicolepoore.com/category/legislation/crime/"
+},
+{
+"text": "December 30, 2025",
+"href": "https://nicolepoore.com/announcement-from-delaware-dmv/"
+},
+{
+"text": "Delaware Democrat Values",
+"href": "https://nicolepoore.com/delaware-democrat-values/"
+},
+{
+"text": "Delaware Polling Place Locator",
+"href": "https://ivote.de.gov/voterlogin.aspx"
+},
+{
+"text": "Delaware Voting Information",
+"href": "https://nicolepoore.com/delaware-voting-information/"
+},
+{
+"text": "Donate",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "Economy",
+"href": "https://nicolepoore.com/category/economy/"
+},
+{
+"text": "Education",
+"href": "https://nicolepoore.com/category/legislation/education/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove Road",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Emergency Closure of Lorewood Grove…",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "Endorsements",
+"href": "https://nicolepoore.com/endorsements-2/"
+},
+{
+"text": "Energy and Environment",
+"href": "https://nicolepoore.com/category/energy-and-environment/"
+},
+{
+"text": "Energy and Environment",
+"href": "https://nicolepoore.com/category/legislation/energy/"
+},
+{
+"text": "FAQs About Senator Poore",
+"href": "https://nicolepoore.com/about-senator-poore/"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_crevINbUkbEN3Ruq0uok6NE61hrTknvtPNPRuW3gGZw33dPcddIiqEEIODls9xrk22JZ6XPyKBa9TQtEG6yusOTccCpaJ4Z40BF-F6CEqbUyGca7qETbp-sW4BBovlf6Bw%3D%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001GIZNvz94liw2_atQ8nWNTfzpAtTGvNXeIyPgvMMu9VsU8e1tzI2SDu1GP7HadX3lkjrfAMwG9VJkNgMJyq1mLie2H8ZelqPLjs4IHx3KYcMPkIclJa1jJWqb6l7-0xKVaBdBy3MPzb18_OHn8_eUKxwKKTQAb_dfMPx20lNV1OUmoT2Zs195HA%3D%3D&c=kEfoB3oDRm36nj0jb_oZ-v6selGD5c7cKvPmNzVhTivkVOYTe_SClQ%3D%3D&ch=p61spfZdrsm1Cnfqwa4hRh4S3U3nkXdDUJptBrQb4vEQjaHADBXXXA%3D%3D"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001orwW-q3GnvTgNGCpns-Gmz0QPJGwJmki7VmjTLXMABiZvQPwd3Xfw5XEzzwk_I_V3jnSvbY4ax5zjsaJ18NAfs2odlgTIonfBaKKCB8acFpOGUVTSeH16lMzEbXGx4HuuhUGvKw7dgB1YJj5QRshlK9Qv6SJOE5vf__7dw00zpXsDXv0TL59-Q%3D%3D&c=ZFzmAe3LBRkgM1VKr2IsqwwCQSnTRcvd_XZDWECGjS-na89m9PnK3g%3D%3D&ch=Bj5G4a00PRjj9PDVV41d14uLEXGoXwsDT1K53wBAjBWsi6UqsIeCHA%3D%3D"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLVa44113Z3JUaURr9st5AkOxkED1ntJKhQ1lh3n-01cXuPCbedEyBrtpyoMSgOPfpV2v_spMURIhXkvdVQ6tPa3aFCC3PYOLZA7gSz6AzCgEzx6NtK0_2tKHGE8QlMLEuA%3D%3D&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D"
+},
+{
+"text": "Facebook",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001uEnp6a7NPSpf6BAeqkgLhgX_7FYLV7H0oCGCv8NDTAK0a0zuRiIHVzmvKfTM65QDeRg3d9K3KtafsC2ShC8132CfqoO4EFKHlMjBA6lBSsbiimLJp5zukVOAcAJHiLdQhZ2vbM3ar_jZ1fUAirbR-TDzn9_icXFBtsEggValYC2kSxvDfiw5Lo1AzPdxmJKzDjKZmpiLDQ964e_s_QLEAitD53AolJ6ib-NlKQYYptq9xJezoXMBsDdRul2flMp8oKU-AScBVw9D9nOSuZn2iaDunc7R7tBeLpBSMDZ9fJ8NZZJz2EASXqEz3sp4Wr9TDH_-efPvHdUIe3LM_aATOcLBeymv4uCsRHYzIrC8iMyHpPSRWM-85cU2OkBqyJsdSWxA49DJXflkHPWnwq0DmW2RM8nLoo-OYnhtPUSzQ0zo8YOjW1sf_VqG8C2cZ0lwqcPBbpXUzveDKb0xNPUO2SxIQxkv-vzFNMHOunwavnWgF-qHeWLz3MuGdRxPRVH_aUt2FevBCc2wR-ILbKpVhxqWjs1eAyI9iRhyQ13vqHq35epuI7mwwqT_8oiU1_vzocZZsKOyujieKOn4OYB10R8jn-6ZVcdSVBkDfvNHunIis4kx_5Im9M6yJ_TVOvV5aDwFFaC60-8z98Ofn83mz1qNmVFldJD2mULNblw4W_-1TzivNGzx6W-37M_DCcXnDRum-hVKMF7lfWnWR087iB0u8ECE9xUFXIdqVC3t6eLgloSTiM1LAM3F4jcBS0NCrvRI7kcUO-9uEd8L1e-tklYjL6Of2bN8&c=MiLUr2shhB6_zdgnXntRjEVdr-zOjgHsYH552sqQXgk9L-0OaPIYlA%3D%3D&ch=xEFbxWwvTU_9R7lHGXG3Duj4zIwsv7miN0IHrbAItXGtRXKdSBwx_w%3D%3D"
+},
+{
+"text": "Feb. 2026 Legislative Updates",
+"href": "https://nicolepoore.com/feb-2026-legislative-updates/"
+},
+{
+"text": "February 28, 2026",
+"href": "https://nicolepoore.com/take-control-estate-planning-seminar/"
+},
+{
+"text": "February 7, 2026",
+"href": "https://nicolepoore.com/feb-2026-legislative-updates/"
+},
+{
+"text": "Guns",
+"href": "https://nicolepoore.com/category/legislation/guns/"
+},
+{
+"text": "Health Care",
+"href": "https://nicolepoore.com/category/health-care/"
+},
+{
+"text": "Health and Social Services",
+"href": "https://nicolepoore.com/category/legislation/health/"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com"
+},
+{
+"text": "Home",
+"href": "https://nicolepoore.com/home/"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_codPNyOiWqSNMllTWChspZN2FR5-Mwl509AWPBjneooE5UCDdxTitiPWVmNKkdo4kdWBu3Bj7_cbmPDeK3C_CnP4BS1GVhiQ5m6gnBTnldDacQRro2Z_RK9M0HBKRFrgFQ%3D%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001GIZNvz94liw2_atQ8nWNTfzpAtTGvNXeIyPgvMMu9VsU8e1tzI2SDhkJtwPVEK5ZHTbZJSLZgIx1H_rICQnZZ1dKlV0NyZgPhvHyee3ZlkEBAZSB_V_PcKlVECe3kxEJE568gRL0dKwJw-ujSNowNG9YeJUyvLiBAvrBC_IYs_JmBcJKnGtTHw%3D%3D&c=kEfoB3oDRm36nj0jb_oZ-v6selGD5c7cKvPmNzVhTivkVOYTe_SClQ%3D%3D&ch=p61spfZdrsm1Cnfqwa4hRh4S3U3nkXdDUJptBrQb4vEQjaHADBXXXA%3D%3D"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001orwW-q3GnvTgNGCpns-Gmz0QPJGwJmki7VmjTLXMABiZvQPwd3Xfw61a59Tn7uUZvqWuIaPVn4kQORMWGWm9InPt7gjhV3umo8a-Wsu1cplSS4ufYBfHdXs-unWKfH2JLpw2W4igzOgBRnfwTLHYrWFrfv0ecVYs2J0rTr1TC6viMa1ociDdKA%3D%3D&c=ZFzmAe3LBRkgM1VKr2IsqwwCQSnTRcvd_XZDWECGjS-na89m9PnK3g%3D%3D&ch=Bj5G4a00PRjj9PDVV41d14uLEXGoXwsDT1K53wBAjBWsi6UqsIeCHA%3D%3D"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLTJ9RMQc7fTUMGf_YNO1jgYOjTPn03J1arIf-t_JXihCuASdsw1cOvi0MpBVWq6nuBMC-CxU69NOCfBEetOSI_m61EkwDMsMy6KNE0xFAS91YLL1mDh5sEZGA0mESViCAw%3D%3D&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D"
+},
+{
+"text": "Instagram",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001uEnp6a7NPSpf6BAeqkgLhgX_7FYLV7H0oCGCv8NDTAK0a0zuRiIHVzmvKfTM65QD1aJtjNif8hGc_ySlT-elN8ip0ICEkojBW0klfEZUK8kZ93gW_qc0IAbN2rQyx74L3KdF5OUcyQBe86N9NTJoeW-u4D6-f5HU0u3ctlmWPM82RxSXJOUOCozBWAswJNNdotfeSmY07HRtYSkwiEdl-hzXNnhVTpcSArZhuVgdCBjG013czUT_AoY6WfxXWSRbM53EV0ytaduOiIyEPI6pOoc5Zf43-TV8KY8VPE19XxapfLWyjc6eowI5KYR2uJ9heg_0xasKeVqbAIVlRqrc2mGUWFy9uPsNBOrf9EMbINDp9s6KhvhTirVUNbso8crGZcBhTaH41OT6E2gYwT7NyqdLpDZJTjpSJOQdETlgsbbejUwZApdidh9SLZhB1syrAFAXed4mkby7yBw9fbOrYuCFXJk6giy6lS_dKqJ19Wp-f9ZU9j02r6fVRta4W8GC3fcEmUsre-kqUiJ9WhEGmVdqUeH2HAUYfaVsUeupnkWVuTMsMrdZH0rb5avjJTT1VDkSWbzQUIWNEst7GOg-aP4ER12f1EAEupgPaM4zXwhieucwSrJgZwAjhbTuSU9aIwxKl5pNunf8lGsGONvBEtOWDtq2nJdWvx0Z1nSP2Zb_lQuqedx1tvc7Fhw4lX2dLSrGNe3uvUC50SNkCOwPzV3dSerDHqYtHw6WHfxf0h860dkaDKkqQDVV3SQy61xjeWvIzXJSDxrE7A__lxUNHQ%3D%3D&c=MiLUr2shhB6_zdgnXntRjEVdr-zOjgHsYH552sqQXgk9L-0OaPIYlA%3D%3D&ch=xEFbxWwvTU_9R7lHGXG3Duj4zIwsv7miN0IHrbAItXGtRXKdSBwx_w%3D%3D"
+},
+{
+"text": "January 17, 2026",
+"href": "https://nicolepoore.com/january-2026-updates-from-senator-poore/"
+},
+{
+"text": "January 2026 Updates from Senator Poore",
+"href": "https://nicolepoore.com/january-2026-updates-from-senator-poore/"
+},
+{
+"text": "Joint Sunset Committee",
+"href": "https://nicolepoore.com/category/legislation/joint-sunset-committee/"
+},
+{
+"text": "June 13, 2026",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "Legislation",
+"href": "https://nicolepoore.com/category/legislation/"
+},
+{
+"text": "Legislative Recap: April 2026",
+"href": "https://nicolepoore.com/legislative-recap-april-2026/"
+},
+{
+"text": "May 23, 2026",
+"href": "https://nicolepoore.com/emergency-closure-of-lorewood-grove-road/"
+},
+{
+"text": "New Air Quality Initiatives Launching in Delaware City",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "New Air Quality Initiatives Launching in Delaware…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "New Air Quality Initiatives Launching…",
+"href": "https://nicolepoore.com/new-air-quality-initiatives-launching-in-delaware-city/"
+},
+{
+"text": "News",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "News/Blog",
+"href": "https://nicolepoore.com/category/news/"
+},
+{
+"text": "Next",
+"href": "https://nicolepoore.com/author/skendus/page/2/"
+},
+{
+"text": "One Month Left of the 153rd General Assembly!",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "One Month Left of the 153rd General…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "One Month Left of the…",
+"href": "https://nicolepoore.com/one-month-left-of-the-153rd-general-assembly/"
+},
+{
+"text": "Open Government/Government Operations",
+"href": "https://nicolepoore.com/category/legislation/open_gov/"
+},
+{
+"text": "REGISTER HERE",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVvb6Gm3IJl71_Rz0-LgLuwNtlfIdqpQYfbk3ESFv2_RjAQFHE7-F3iBca3bgyby1lPXJKIk2qVRVdJBuUq54kdVLIA_h9bNeK0nJAMXvQ-gI%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "Reflecting on Progress: What’s Next for Us? – 2026 Legislative Updates",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Reflecting on Progress: What’s Next for Us?…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Reflecting on Progress: What’s Next…",
+"href": "https://nicolepoore.com/reflecting-on-progress-whats-next-for-us-2026-legislative-updates/"
+},
+{
+"text": "Registering to Vote",
+"href": "http://elections.delaware.gov/services/voter/placestoregister.shtml"
+},
+{
+"text": "SB 312",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfAjPmgCODGxiaYgY6V_eiWyqTlmGR6HljjzTWptN_FEVseR2L2d8akgoni3tKP8wZpfV0ERCjbo5jK89iW6qfeY7Q91Mr7Y1SbV4vRoi2otu-bsj2gbQoojEI4pa0Qb_ezqhbygEsI0d4%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D"
+},
+{
+"text": "Senate Bill 198",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGdSo09t-2OLLVBYQ0gX7KtzzdkyWKxvnrxAtvIEzMPSGd_n1YFie7s7zY9L18wZDKOARlAsV85WQ034pcmR8Cl8DW5CNwJqrgZWkyd0Vt01HRJNi7El385Tp9lcPFuP0uI9iMHXxIlnFi9kvbCM2gFg%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D"
+},
+{
+"text": "Senate Bill 319",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfA5qRDoFDvxjUpAk5Rc_uBuCpTou68VJrxUO2_XzAkrq3G-RYVyyLh0MOk44s0W-rGyEgfzrmnDPTgY9YE8ssLwhFJ6OHWhZKntcott_iPquJ7bMZsGKpC6Qxy_GIYkCYBgXCtMT9BkLo%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D"
+},
+{
+"text": "Senate agendas",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkGQOvVqdkBO2WS9wFMYuS1XdqRKWpKtOkWMrgK1Wlxz6Lb0sOD5gvWKTqNaqraWTFfyOcxXSFdTdrDns0XPtyFXIua9jWAf3fj6B5ShJVq6mHW9QzEDxDjCdRlme5npJEg%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "Senator Poore 12th District Newsletter",
+"href": "https://nicolepoore.com/category/news/senator-poore-12th-district-newsletter/"
+},
+{
+"text": "Social Policy",
+"href": "https://nicolepoore.com/category/legislation/social-policy/"
+},
+{
+"text": "Take Control Estate Planning Seminar",
+"href": "https://nicolepoore.com/take-control-estate-planning-seminar/"
+},
+{
+"text": "The Writer's Block",
+"href": "http://writersblockservices.com/"
+},
+{
+"text": "Traffic Alerts",
+"href": "https://nicolepoore.com/category/traffic-alerts/"
+},
+{
+"text": "Uncategorized",
+"href": "https://nicolepoore.com/category/uncategorized/"
+},
+{
+"text": "Volunteer",
+"href": "https://nicolepoore.com/volunteer/"
+},
+{
+"text": "Voters with Special Needs",
+"href": "http://elections.delaware.gov/voter/specialneeds.shtml"
+},
+{
+"text": "Voting by Absentee Ballot",
+"href": "http://elections.delaware.gov/services/voter/absentee/index.shtml"
+},
+{
+"text": "[image: Image - Art on the Green - Battery Park - Saturday, September 26, 2026 10 a.m. - 4 p.m.][image: Image - Art on the Green - Battery Park - Saturday, September 26, 2026 10 a.m. - 4 p.m.]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/08/08072026-2.png"
+},
+{
+"text": "[image: Image showing Child with Autism Warning Sign application][image: Image showing Child with Autism Warning Sign application]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/08/08072026-4.jpg"
+},
+{
+"text": "[image: Image showing Easterseals Caregivers Conference in Dover on August 26][image: Image showing Easterseals Caregivers Conference in Dover on August 26]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/08/08072026-3.png"
+},
+{
+"text": "[image: Image showing Explore Delaware Schools, a new public portal that brings together school information, attendance boundaries, available school profile and performance information, and interactive mapping tools into one place][image: Image showing Explore Delaware Schools, a new public portal that brings together school information, attendance boundaries, available school profile and performance information, and interactive mapping tools into one place]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/08/08072026-5.jpg"
+},
+{
+"text": "[image: Map showing Emergency Closure of Lorewood Grove Road][image: Map showing Emergency Closure of Lorewood Grove Road]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/05/05232026.jpg"
+},
+{
+"text": "[image: Nicole Poore standing with two others at Glasgow Park][image: Nicole Poore standing with two others at Glasgow Park]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-17.jpg"
+},
+{
+"text": "[image: Nicole Poore standing with two others.][image: Nicole Poore standing with two others.]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-2.jpg"
+},
+{
+"text": "[image: Nicole and others posing for photo at Delaware State University’s Scholarship Ball][image: Nicole and others posing for photo at Delaware State University’s Scholarship Ball]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-20.jpg"
+},
+{
+"text": "[image: Nicole petting a dog at Pride Month event][image: Nicole petting a dog at Pride Month event]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-7.jpg"
+},
+{
+"text": "[image: People with Nicole Poore at Pride Month event][image: People with Nicole Poore at Pride Month event]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-6.jpg"
+},
+{
+"text": "[image: Photo of Senator Poore with text discussing economic development][image: Photo of Senator Poore with text discussing economic development]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-1.jpg"
+},
+{
+"text": "[image: Sen. Nicole Poore 2026 LEGISLATIVE HIGHLIGHTS SB 319: Expanding coverage for menopause and perimenopause care HB 1: Establishing the Delaware Department of Veterans Affairs SB 312: Enhancing transparency by eliminating NDAs for data center development SB 12: Breaking down preauthorization barriers for providers and patients HB 201: Strengthening protections for victims of human trafficking by removing practical barriers that prevent victims from getting convictions HB 75: Allows survivors of sexual abuse to file civil lawsuits against their abusers at any time, regardless of previous statute of limitations. Coming back in 2027.][image: Sen. Nicole Poore 2026 LEGISLATIVE HIGHLIGHTS SB 319: Expanding coverage for menopause and perimenopause care HB 1: Establishing the Delaware Department of Veterans Affairs SB 312: Enhancing transparency by eliminating NDAs for data center development SB 12: Breaking down preauthorization barriers for providers and patients HB 201: Strengthening protections for victims of human trafficking by removing practical barriers that prevent victims from getting convictions HB 75: Allows survivors of sexual abuse to file civil lawsuits against their abusers at any time, regardless of previous statute of limitations. Coming back in 2027.]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/08/08072026-1.png"
+},
+{
+"text": "[image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District] [image: Senator Nicole Poore - Delaware 12th District][image: Senator Nicole Poore - Delaware 12th District]",
+"href": "https://nicolepoore.com/"
+},
+{
+"text": "[image: Senator Nicole Poore on boat with Secretary Patterson][image: Senator Nicole Poore on boat with Secretary Patterson]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-8.jpg"
+},
+{
+"text": "[image: Senator Poore and Rep. Melissa Minor-Brown at 302nd Quartermaster Platoon of the Delaware Army National Guard][image: Senator Poore and Rep. Melissa Minor-Brown at 302nd Quartermaster Platoon of the Delaware Army National Guard]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-15.jpg"
+},
+{
+"text": "[image: Senator Poore standing with a man in Colonial attire at Old New Castle Day][image: Senator Poore standing with a man in Colonial attire at Old New Castle Day]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-19.jpg"
+},
+{
+"text": "[image: Senator Poore standing with people at Glasgow Park][image: Senator Poore standing with people at Glasgow Park]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-16.jpg"
+},
+{
+"text": "[image: Senator Poore standing with people in front of a fire truck at Goodwill Fire Company][image: Senator Poore standing with people in front of a fire truck at Goodwill Fire Company]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-13.jpg"
+},
+{
+"text": "[image: Senator Poore standing with people in front of a fire truck at Port Penn Fire Company][image: Senator Poore standing with people in front of a fire truck at Port Penn Fire Company]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-14.jpg"
+},
+{
+"text": "[image: Senator Poore standing with two people in Colonial attire at Old New Castle Day][image: Senator Poore standing with two people in Colonial attire at Old New Castle Day]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-18.jpg"
+},
+{
+"text": "[image: Senator Poore with people at Delaware City Bicentennial celebration][image: Senator Poore with people at Delaware City Bicentennial celebration]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-10.jpg"
+},
+{
+"text": "[image: Senator Poore with people at Delaware City Bicentennial celebration][image: Senator Poore with people at Delaware City Bicentennial celebration]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-11.jpg"
+},
+{
+"text": "[image: Senator Poore with people at Delaware City Bicentennial celebration][image: Senator Poore with people at Delaware City Bicentennial celebration]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-12.jpg"
+},
+{
+"text": "[image: Senator Poore with people at Delaware City Bicentennial celebration][image: Senator Poore with people at Delaware City Bicentennial celebration]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-9.jpg"
+},
+{
+"text": "[image: Senator speaking in DE senate.][image: Senator speaking in DE senate.]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-3.jpg"
+},
+{
+"text": "[image: Students from Brandywine, Dover Air Base, and Cape Henlopen schools robotics team in Legislative Hall][image: Students from Brandywine, Dover Air Base, and Cape Henlopen schools robotics team in Legislative Hall]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-4.jpg"
+},
+{
+"text": "[image: students from Brandywine, Dover Air Base, and Cape Henlopen schools robotics team in Legislative Hall][image: students from Brandywine, Dover Air Base, and Cape Henlopen schools robotics team in Legislative Hall]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/06/06132026-5.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2025/12/DMV.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/0205226-1.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/0205226-10.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/0205226-11.png"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/0205226-5.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/0205226-9.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-2.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-3.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-4.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-6.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-7.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/02072026-8.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/02/Estate-Seminar.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-1.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-10.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-11.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-12.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-2.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-3.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-4.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-5.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-7.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-8.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04062026-9.jpg"
+},
+{
+"text": "[image][image]",
+"href": "https://nicolepoore.com/wp-content/uploads/2026/04/04102026.png"
+},
+{
+"text": "[no text]",
+"href": "https://nicolepoore.com/donate-2/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NicolePoore12"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NicolePooreSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCFbf4tuyFYIBDtJino2CLJg?feature=watch"
+},
+{
+"text": "admin",
+"href": "https://nicolepoore.com/author/skendus/"
+},
+{
+"text": "click here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVK-xX2MAgJW2k1xVS9_-5LhRGNRHw8r5injHXWlxwDqtYut4pyqOJ4d0U2lg8i2FAWib12J-QkBoNJqvW-iG0-5pJ12Urb3nvYabr8abK5gY%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "click here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVMndCxziPo7hzysYy7-Z-ir4GHfFBtga3AzWGTGMr82dJeiC1Gb0BtDVriemnvVsflVqwYgz3A9FrMID1OHu_IDibLDiGVSEQgiPk3KbfVxZTuTdNPdKCKIFtMuZxZ1oYu0Jvcm3wn02h8MqcVnW8gg%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "daily Senate agendas",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5crQGvk_iaeDVrSAY9BUVkUkfdcvHyTYrqtf-xp4NHd9RFH3wP6E34FtccrmJyuaCbFop71gJ9zzm3BnHIZ27z9rf_x07bBLKlFLQVpyG70C3kzS06gT6aj3A8OQgfyOA%3D%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D"
+},
+{
+"text": "de.gov/EDGE",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVq74H2gX-bUtcFpG4vuDb04tYVxf3in4s54KkJeIWLzfw-espWj16Z7WHNBde-7nEe5Rh1cSzapw9tOWBS0OO2w%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "de.gov/women",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzpJN24n8v7P47MJW3X4V5ffNUsDlcZYUxjxdnWPpnwv8bsGIIbG-dC9DWBCdq-SR1Kq7tBDVDl261qszJ3NMASlnVKBpYOlF1w%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "elizabeth.bowen@delaware.gov",
+"href": "mailto:elizabeth.bowen@delaware.gov"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGUvAm14And9-Jg063zATLAPlW-qMYRYmjnkMrwDu0P-KFKcY3D_FyhP1P_1A414ckykk8_ItLbflRdmSLQePJvAsxUxZwjTsDHHoDKyVrIFB5lE4UPkyy8PFY3y3pmOTIw%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGXxT2r-q3db_U-GDl_bNlJ5bImo7Zdx5vGcdPiRgcbqXMPOVZy746bK-AiCqQo6QhoPykiYNGRnT8EvwCkrigyMtEK-zGS5Q-3Qw0akRqzCY0_VLYKgwgLqJiOAX3tuAXg%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001CAiEeYqWeu_bzehEpw-wDCu1JbumdhPXaxqb35xHRtyLS_87F8TlGXxT2r-q3db_rIgzWLX9mMWdx5rw6pwGUwPRfNZH1daMmJ-thslgeyrhrdRna-OCa7vchFHT5jZiANryi-5E8Bpdj-097kWPvvGtMc5CfSPP30uZMQkBGiL9sCVKkyxuFw%3D%3D&c=E3U-kLwvRe3hwz2I2xFYqX00sbdYYLpXjg1Y_n6WJ8JdvsxV7fUSWw%3D%3D&ch=JvYDiwZ7YUQ2huYu8cQxPREOV8c4uRt3Y9visRu-GMHhuo60Na7brQ%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5MEaPC4bHfAJVkMHmszkaIBsZHO9kWxCWCleH6GbE8ZN_ukX2yX_kzbnp4bjlkkP0UzItnvF9zReJ8Vpcw1RTEHNT6NjdnelYANidE21_DvMbaP9LIOWmzyLR6YWnYVHJDFIYYPjbSMZwIw5FgcAoGla5jiGI3IXZNFQaZnnKYyUcKBdX9UFHo%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001TP8WliwgEYkav0cSn40QnB-IwJeWML3AcFJHVu1PFaZnvMlj4SHfU5crQGvk_iaeI_B9_ghDykn-VZIb7VuHgd6q8NymZSlzPBtaqAqYIRo34HRVzH3BkqAF0oTwv46QGM7UZD5Wurt-WdqdUnvM5zsAoNkeJu6lA0T5G6Bk6991e6StV9sEIw%3D%3D&c=hdErbK04H3rhXIjrMQrwH8mUtLrMIvXetlYEbrh1sxMUjs3wGjYmJg%3D%3D&ch=6NrkII8lXFVXKjTqSAdo4F1NgSj29PXMsClvPeXFxYyeKHaX9h7TbQ%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzgywGhEhmu1W3NglYQ2WiMPBaxeuqw6K-BtcUTclK1X84UtSLAVYrJLO8WzX6SU9Ju2H_eeq0KQmieELj1oG6joA3rjQZJCp6n7WLDFvzoOqvnh5A3tf8WLTnKQVXjs0mQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzofEzk9sO34vBnjovKcOjAdR4GTIgqlscPTXFzUYHW_wwR9iE65NCrVPNrLwCYZrwsZijknLuhePr7QB_F3-iX8pfYZBjZpEQpM4qQpzLd1REGlHSMuXIK5srO7NIuo_CQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzofEzk9sO34vyRUWL_Hda2-20dBFsIeQXtliT_hf28ufSZESKyTFfoHemVKZqWNmx-Z5ty8UPUUeUZMqOjML6Pt8FTuhkrFdSREJJ4DFr6tbHSZ1opTolRw4qx0_QOSnXQ%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001nEEbyiHQ-J_i-VJ4PluCsMnb1m9vxx9CVh-dVJFWjHWxU5FVkPuwzonQtvn4BsBVjAfCntbu63azrqlXqCtBIQGhKl0s3Ep_a91FsliMRteGfCWx-bSmw-tA33XhOkHO8bDypL5xTqNUtdqOq3kjKE6NtgDL4mFEs94-sRfzvK4JsvMF7G7cCjjKzqvrxULQyNzPsJ7r1GrMDJlaWbovQyO-uTIwActUmDe9-jZiQUxqATTEEytqDw%3D%3D&c=bjOf5PAskRDUZXW-4CecFjwo5_Xex89fT3RdDkPXJbyAa8i2YpLJtg%3D%3D&ch=9SqYSa3cDoNFdlJ0MdwBv8wiNGbtz3K-J1jIvrdgjw6gL6bVrfqeRA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkGQOvVqdkBO21ClA48CzOPjjUemULiQYXBVdOj14M4a7mELBEEWOLg8L7mJZGgn7i-NqYDHatXfFf1LFiGvCRo-kAe2WkMJknQYFRt00n6tHfyPleLt6kA4LHRCEopIRPQ%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkH_B-8PU-q2wDtaVb06Qez3KShEVUR6Dc0a4BV72RTCbAEMWio8Zq9QZvex0B8sC-caPyQ7lYEyaJlG2_b8agBz1pPv8ils7AJdIabaBMUgPaOwZqMAdX6sAlASGSkIq_A%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkH_B-8PU-q2wJhfjpZdTDluHgfDWrU_GBr-1piGfzAI9oAu2PnBVQy9gIeRMq4zJZZd_ih1F2Oa2-s1S8NJid4YX6GQ4-6Pa9lM8HH420xwOr0IZbECtOH4%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkIXDhfmy3LbZxMe5RxBcBpAO3ahK71eXdgwxwcdgVSJGhljnv_-bsH_elfQhHe7rMJhNbPRpsfT3e_BZUSIPNXxqVRNHtKqM98HOHcx2DDVy&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "here",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001rPP0X4IVhY-ROavu_zaOJbm7a4bEWByFZ_r-mcXH4jiPjoVCOYhAkKqNF1Ve3tDTH419svs6s_fIGTF2yZt_4_MRNY-3Lh-wA_lVdEdGY-50RmxFkBA7EcNInzTUagg6wFEwjb0c-dqMHubI7q9Ouy39ykw7jloBZJPdpCNrjA697Qx-a7aT75jK64HSI2mmib9TgsAwUop5ibh_O9-ge23uz9Ku0Io0xZ6_bgwO_31qT6TZUMTf9UCwemrBV3nOaIp42NpM4ZwKQplohIlCtYqbUMC8ljQ_0_J2-IrHihv-HDwxRHKo2j9wyDRAgSghgN9FdvfG9IjwKR6hpewrmPlTFXQXflKXgBn0kFPu1Ed28ipD5nCq-trz6k2zbl4I3sl17dmvYFz3rMNSCWdAgTp4Mnwherf1h6jPuLGb96qQ3Uo8hXXyNg%3D%3D&c=tOi-6zKnN1GyQhAAh9Gw0j3xOvJmhiuzK67LYz5ZV2HsSlm0LungdA%3D%3D&ch=-RB8vyYkCHCQAkU7RBMChiVhLg-HI_nfePQaAMumgSlzDO86iEPVMA%3D%3D"
+},
+{
+"text": "here.",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=0019X8QCmf8isrYp4EiFgZpXHSQTsBZgnL4UaP2zdpQVdx1clOJTmg_ckYBVtxmJbEnr5yMsjydfvwuwQ267qy5Wqb-aq_uGSwtlYXZ434HjdpwcQaMm2uga2ggUlyn7h81Df2huc2FNAV6wG-TtLLkPE5q1VfDhNuS5VnJVM6BkOHovcc5dWRh_NrJpG8h20IYHeSUs1d4fR3g1hV6d6c2zhB0r9zXoZM0BIflpKOymabZMQPwWruRlVLkrrEWVvtB6oQIIKAeHhKvsru_mdzy5_qRyvcC5Xz-pea8NzG4QuifbNfaQj28hxH-xWiggiUEu-49cv5s9IKfks3Pj1_oPR86RVcAXcCovfHFwCOmfHZthIXg20xiREmHl-hnTZOnmSfJWwFTFxgNiOFacTJJYtDYAb9_7UluwZR6xWEDbCr0zUjDDJgEDbmfFu_AtO9lZjI8JZsXGY_IiHUr9eUYMHBg-c8uUxYIqXop0t2LZj-Tq6Qrls9vVl8bXbT830ALsvgIYtuJfGnbULnAtiJIDT08Beq4tTHUXp10SrutBkM9O-qaegExUzX88RlGo4_LM4O2lGifMAM%3D&c=jcfKA3ppnC01KU8SO8FcS6dlvS7JhCCJkdyfdPrUsgFfDOn3LLKbdQ%3D%3D&ch=E6mAJvBzUjNOsw0Rsxm7bLxnbbHpOJ_grgfMfd_ZRtrwIQwLd4Df4A%3D%3D"
+},
+{
+"text": "https://tinyurl.com/dxd2s7jb",
+"href": "https://tinyurl.com/dxd2s7jb"
+},
+{
+"text": "info@nicolepoore.com",
+"href": "mailto:info@nicolepoore.com"
+},
+{
+"text": "myDMV.delaware.gov",
+"href": "https://pjo7do8ab.cc.rs6.net/tn.jsp?f=001po6CBb3R5qHdh2Z6VC6_4Xnqm02KuqoRINiaqX7ot0HbFtuIdT8kLVAEIe6Ww0PL92yNuiZ-evEJwvuhG98eGniRmrbKM7SmZwEYkFSfYgaaCiLTcYStIcnipBskMw1GfJdCr8a0SLZJmwgBg0NqyOepRI6WxRTN&c=phitOyDVNBpfTQH4dH8XNZ4XkqVlpPASlChuLq168kABA4WfvS-GVQ%3D%3D&ch=Ct8WevSUynppLzgysrbdl5D1hTEtLehN9swbJSCaqa6_6e-qYqJanw%3D%3D"
+},
+{
+"text": "nicole.poore@delaware.gov",
+"href": "mailto:nicole.poore@delaware.gov"
+}
 ]

@@ -1,14 +1,6 @@
-press release
-Feb 14, 2026
-Former State Senator and Democratic Gubernatorial Candidate Jack Hatch Endorses Josh Turek for U.S.
-Senate
-FOR IMMEDIATE RELEASE
-February 14, 2026
-CONTACT: press@turek4iowa.com
-Former State Senator and Democratic Gubernatorial Candidate Jack Hatch Endorses Josh Turek for U.S.
-Senate
-Hatch joins more than 50 other former and current elected leaders endorsing Turek
-Des Moines, IA – Today, former State Senator and 2014 Democratic Gubernatorial Candidate Jack Hatch endorsed Josh Turek for U.S.
+Skip to main Meet Josh Platform Store Endorsements Latest News Volunteer How to Vote Donate 1 Return To All News press release Feb 14, 2026 Former State Senator and Democratic Gubernatorial Candidate Jack Hatch Endorses Josh Turek for U.S.
+Senate FOR IMMEDIATE RELEASE February 14, 2026 CONTACT: press@turek4iowa.com Former State Senator and Democratic Gubernatorial Candidate Jack Hatch Endorses Josh Turek for U.S.
+Senate Hatch joins more than 50 other former and current elected leaders endorsing Turek Des Moines, IA – Today, former State Senator and 2014 Democratic Gubernatorial Candidate Jack Hatch endorsed Josh Turek for U.S.
 Senate.
 “Josh Turek is the real thing.
 He has turned personal adversity into stunning success as a member of the 2016 & 2020 gold medal wheelchair basketball Paralympics team, and won a “red” legislative district, not once but twice in 2022 and 2024.
@@ -22,5 +14,6 @@ He also served six nonconsecutive terms in the Iowa House of Representatives and
 With endorsements from dozens of leaders across the state, we are building the momentum we need to take on Ashley Hinson in November and ensure that Iowans can once again have a Senator who is fighting for them,” said four-time Paralympian and state representative Josh Turek.
 Former Sen.
 Hatch joins a growing list of leaders to endorse Turek.
-The full list can be found here: turek4iowa.com/endorsements/.
-###
+The full list can be found here: turek4iowa.com/endorsements/ .
+### ### Home About Platform Endorsements News Sign Up Volunteer How to Vote Store Donate PO.
+Box 1005, Council Bluffs, IA 51502 info@turek4iowa.com Privacy Policy Terms of Service Paid for by Josh Turek for Iowa

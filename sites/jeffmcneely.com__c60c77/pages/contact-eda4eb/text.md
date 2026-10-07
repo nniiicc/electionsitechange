@@ -1,6 +1,4 @@
-Don’t hesitate to reach out using the contact information below, or send a message using the form.
+Skip to content Jeff McNeely NC House Representative Jeff McNeely: District 84 Menu + × expanded collapsed Home About Get Involved Gallery Radio Show Donate Contact Contact Don’t hesitate to reach out using the contact information below, or send a message using the form.
 I love to talk to my constituents and learn what they need me to help them with.
-Contact Me
-4000 Taylorsville Hwy
-Statesville, NC 28625
-mcneely6464@gmail.com
+Get in Touch 4000 Taylorsville Hwy Statesville , NC 28625 USA mcneely6464@gmail.com Send Us a Message ← Back Thank you for your response. ✨ Name (required) Email (required) Message (required) Submit Δ Contact Me 4000 Taylorsville Hwy Statesville, NC 28625 mcneely6464@gmail.com Facebook Twitter Instagram LinkedIn DONATE NOW Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Jeff McNeely , Create a website or blog at WordPress.com Jeff McNeely Copy shortlink Manage subscriptions Sign up Log in Report this content %d

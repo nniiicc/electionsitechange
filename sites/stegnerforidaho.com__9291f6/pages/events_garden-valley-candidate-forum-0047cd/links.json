@@ -1,19 +1,82 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Garden+Valley+Candidate+Forum&dates=20261012T220000Z%2F20261012T230000Z&location=1074+Banks+Lowman+Road%2C+Garden+Valley%2C+Idaho%2C+83622%2C+United+States",
-"http://instagram.com/stegnerforidaho",
-"http://maps.google.com/?q=1074+Banks+Lowman+Road+Garden+Valley%2C+Idaho%2C+83622+United+States",
-"https://facebook.com/StegnerforIdaho",
-"https://stegnerforidaho.com/",
-"https://stegnerforidaho.com/cart",
-"https://stegnerforidaho.com/donate",
-"https://stegnerforidaho.com/events",
-"https://stegnerforidaho.com/events/2026-gubernatorial-candidate-forum",
-"https://stegnerforidaho.com/events/garden-valley-candidate-forum?format=ical",
-"https://stegnerforidaho.com/events/idaho-falls-city-club-governors-candidate-forum",
-"https://stegnerforidaho.com/get-involved",
-"https://stegnerforidaho.com/media",
-"https://stegnerforidaho.com/meet-john",
-"https://stegnerforidaho.com/priorities",
-"https://stegnerforidaho.com/privacy-policy",
-"https://stegnerforidaho.com/terms"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1074+banks+lowman+road+garden+valley%2C+idaho%2C+83622+united+states"
+},
+{
+"text": "0",
+"href": "https://www.stegnerforidaho.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.stegnerforidaho.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.stegnerforidaho.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.stegnerforidaho.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Garden+Valley+Candidate+Forum&dates=20261012T220000Z%2F20261012T230000Z&location=1074+Banks+Lowman+Road%2C+Garden+Valley%2C+Idaho%2C+83622%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.stegnerforidaho.com/events/garden-valley-candidate-forum?format=ical"
+},
+{
+"text": "Media",
+"href": "https://www.stegnerforidaho.com/media"
+},
+{
+"text": "Meet John",
+"href": "https://www.stegnerforidaho.com/meet-john"
+},
+{
+"text": "Next Next October 15 Idaho Falls City Club Governors Candidate Forum",
+"href": "https://www.stegnerforidaho.com/events/idaho-falls-city-club-governors-candidate-forum"
+},
+{
+"text": "Previous Previous October 6 2026 Gubernatorial Candidate Forum",
+"href": "https://www.stegnerforidaho.com/events/2026-gubernatorial-candidate-forum"
+},
+{
+"text": "Priorities",
+"href": "https://www.stegnerforidaho.com/priorities"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.stegnerforidaho.com/privacy-policy"
+},
+{
+"text": "Terms & conditions",
+"href": "https://www.stegnerforidaho.com/terms"
+},
+{
+"text": "[image: John Stegner for Governor]",
+"href": "https://www.stegnerforidaho.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/stegnerforidaho"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/StegnerforIdaho"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@stegnerforidaho.com"
+}
 ]

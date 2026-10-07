@@ -1,5 +1,4 @@
-- June 2, 2026
-Columbia, MS — Democratic congressional nominee Michael A.
+Skip to content Home About Me Issues Contact News Menu Home About Me Issues Contact News donate Home About Me Issues Contact News Donate Menu Home About Me Issues Contact News Donate June 2, 2026 Chiaradio Attends Law Enforcement Unity & Prayer Day in Columbia Columbia, MS — Democratic congressional nominee Michael A.
 Chiaradio attended the First Annual Law Enforcement Unity & Prayer Day in Columbia this weekend, joining community members, faith leaders, and local officials for a day focused on prayer, fellowship, and support for law enforcement officers and their families.
 The event was organized by Caymen Watts and brought together people from a variety of backgrounds to recognize the service and sacrifice of the men and women who help keep Mississippi communities safe.
 Chiaradio said the event served as a reminder that Americans often have far more in common than political rhetoric would suggest.
@@ -9,11 +8,7 @@ Throughout his campaign, Chiaradio has emphasized the importance of community en
 He believes that meaningful progress is most often achieved when people come together to focus on common challenges and shared goals.
 The campaign continues to engage with communities throughout Mississippi’s 3rd Congressional District as it builds momentum heading into the 2026 election.
 To support Michael A.
-Chiaradio’s campaign for Congress, please visit: https://secure.actblue.com/donate/michael-a-chiaradio
-- 1-800-700-600
-- info@thecentersolutionsparty.com
-- 60 East 65th Street, New York City, NY 10065
-Paid for by Michael A.
+Chiaradio’s campaign for Congress, please visit: https://secure.actblue.com/donate/michael-a-chiaradio Facebook-f Twitter Youtube Home About Me Issues Contact News Home About Me Issues Contact News Get In Touch 1-800-700-600 info@thecentersolutionsparty.com 60 East 65th Street, New York City, NY 10065 Useful Links Stay Informed Tiktok Instagram Facebook Youtube Home About Me Issues Contact News Donate Home About Me Issues Contact News Donate HOME ABOUT ME ISSUES CONTACT NEWS DONATE SHOP Donate Paid for by Michael A.
 Chiaradio for Congress 2026, Inc.
 Contributions are not tax deductible.
-Contributions are not tax deductible.
+Privacy Policy

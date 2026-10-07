@@ -1,5 +1,4 @@
-Defending against federal threats
-To call this an unprecedented time is a profound understatement.
+Home About Endorsements Priorities Contact Donate Home About Endorsements Priorities Contact Donate Defending against federal threats To call this an unprecedented time is a profound understatement.
 This is the emergency our founders were worried about and our federal checks and balances are in serious question.
 But what can we do at the state level?
 Fight against federal over-reach in the courts and in our laws.
@@ -19,3 +18,4 @@ Without Italy and Germany’s financial straits in the 1930s, we might never hav
 Washington isn’t in a state of crisis.
 But federal funding is being cut–vital things like Medicaid, CDC, disaster relief, even funding for roads and bridges.
 We have to do the work–and yes, all of us will need to share the burden–of making sure we don’t let intentional federal neglect create crises here.
+Paid for by Scully for State Rep PO Box 23026, Seattle, WA 98102

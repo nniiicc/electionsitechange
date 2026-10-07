@@ -1,7 +1,9 @@
 {
  "description": "Make an Endorsement",
  "final_url": "https://kimformaryland.com/make-endorsement",
- "paid_for_by": null,
+ "fingerprint": "2d5bde041faa674927b69913876560cbccb45815",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Make Endorsement",
  "years_mentioned": []
 }

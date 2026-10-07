@@ -1,20 +1,78 @@
 [
-"http://facebook.com/LowndesForFL",
-"http://instagram.com/LowndesForFL",
-"https://john-lowndes-for-state-senate.solidarity.tech/volunteer-with-john-lowndes-for-state-senate",
-"https://johnlowndesforflorida.com/",
-"https://johnlowndesforflorida.com/cart",
-"https://johnlowndesforflorida.com/endorsements",
-"https://johnlowndesforflorida.com/getinvolved",
-"https://johnlowndesforflorida.com/meet-john",
-"https://johnlowndesforflorida.com/priorities",
-"https://johnlowndesforflorida.com/privacy-policy",
-"https://secure.actblue.com/donate/johnlowndes",
-"https://secure.actblue.com/donate/johnlowndes?amount=100",
-"https://secure.actblue.com/donate/johnlowndes?amount=1000",
-"https://secure.actblue.com/donate/johnlowndes?amount=25",
-"https://secure.actblue.com/donate/johnlowndes?amount=250",
-"https://secure.actblue.com/donate/johnlowndes?amount=50",
-"https://secure.actblue.com/donate/johnlowndes?amount=500",
-"https://statecraftdigital.com/"
+{
+"text": "$1,000",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/johnlowndes?amount=500"
+},
+{
+"text": "0",
+"href": "https://www.johnlowndesforflorida.com/cart"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/johnlowndes"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/johnlowndes"
+},
+{
+"text": "Endorsements",
+"href": "https://www.johnlowndesforflorida.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://john-lowndes-for-state-senate.solidarity.tech/volunteer-with-john-lowndes-for-state-senate"
+},
+{
+"text": "Get Involved",
+"href": "https://www.johnlowndesforflorida.com/getinvolved"
+},
+{
+"text": "Meet John",
+"href": "https://www.johnlowndesforflorida.com/meet-john"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.johnlowndesforflorida.com/privacy-policy"
+},
+{
+"text": "Priorities",
+"href": "https://www.johnlowndesforflorida.com/priorities"
+},
+{
+"text": "SITE BY STATECRAFT MEDIA",
+"href": "https://www.statecraftdigital.com"
+},
+{
+"text": "[image: John Lowndes For Florida Senate]",
+"href": "https://www.johnlowndesforflorida.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/LowndesForFL"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/LowndesForFL"
+}
 ]

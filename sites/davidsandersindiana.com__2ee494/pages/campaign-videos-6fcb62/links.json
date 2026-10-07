@@ -1,11 +1,38 @@
 [
-"https://davidsandersindiana.com/",
-"https://davidsandersindiana.com/about-david",
-"https://davidsandersindiana.com/campaign-photos",
-"https://davidsandersindiana.com/campaign-videos",
-"https://davidsandersindiana.com/david-in-the-news",
-"https://davidsandersindiana.com/events",
-"https://davidsandersindiana.com/on-the-issues",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+{
+"text": "About David",
+"href": "https://davidsandersindiana.com/about-david"
+},
+{
+"text": "CAMPAIGN VIDEOS",
+"href": "https://davidsandersindiana.com/campaign-videos"
+},
+{
+"text": "Campaign Photos",
+"href": "https://davidsandersindiana.com/campaign-photos"
+},
+{
+"text": "David in the News",
+"href": "https://davidsandersindiana.com/david-in-the-news"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/david-sanders-for-indiana-1"
+},
+{
+"text": "Events",
+"href": "https://davidsandersindiana.com/events"
+},
+{
+"text": "Home",
+"href": "https://davidsandersindiana.com/"
+},
+{
+"text": "On the Issues",
+"href": "https://davidsandersindiana.com/on-the-issues"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

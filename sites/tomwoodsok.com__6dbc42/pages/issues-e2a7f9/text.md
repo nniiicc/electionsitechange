@@ -1,6 +1,4 @@
-The Woods Agenda
-As a State Senator, Woods will focus on Five key issues:
-Supporting Education – Tom’s grandfather was a public-school superintendent, and his grandmother is a retired teacher.
+Home About Issues Get Involved Contact Donate Select Page The Woods Agenda As a State Senator, Woods will focus on Five key issues: Supporting Education – Tom’s grandfather was a public-school superintendent, and his grandmother is a retired teacher.
 His family instilled in him that education is the key if you want a better future in the world.
 We must stop the brain drain of some of the best and brightest educators in the state.
 That’s because every child in Oklahoma should have access to a quality education.
@@ -20,3 +18,4 @@ He’ll stand up for our values, freedoms and traditional, rural ways of life.
 Supporting Small Business – Tom will fight to cut red tape and taxes.
 He will stand up against tax and spend legislation that increases inflation and dampens business growth.
 As a small business owner himself, he is committed to supporting a strong economy in Oklahoma.
+Authorized and Paid for by Tom Woods for State Senate 2026

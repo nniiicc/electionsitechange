@@ -1,22 +1,24 @@
-Michele is the Democratic nominee for the Maine State Senate District 35 which includes the towns of Ogunquit, York, Kittery, Eliot, and South Berwick
-A fourth term member of the Maine House of Representatives, Michele will bring experience and expertise to the role of Senator at a time when continuity, compassion, and proven leadership skills are crucial.
-Get Updates - Get Involved
-Subscribe to my email list!
-Michele Meyer
-Representative
-ME House District 150
-all of Eliot, part of Kittery, part of South Berwick
-ABOUT MICHELE
-Michele is serving her fourth term in the Maine House of Representatives.
+top of page HOME ABOUT CONTACT CONTRIBUTE NEWS FIND MY DISTRICT More Use tab to navigate through the menu items. info@MicheleforMaine.com 207-438-9197 Michele is the Democratic nominee for the Maine State Senate District 35 which includes the towns of Ogunquit, York, Kittery, Eliot, and South Berwick A fourth term member of the Maine House of Representatives, Michele will bring experience and expertise to the role of Senator at a time when continuity, compassion, and proven leadership skills are crucial.
+Email Newsletter - 6/20/26 A decisive win.
+A simple ask.
+Election Results The impact of $5 Read the Newsletter Get Updates - Get Involved Subscribe to my email list!
+Subscribe “Healthy communities start with a people-centered approach to government .
+The skills I’ve developed and refined over the course of my nursing career- critical thinking, active listening, collaboration & compassion- have proven essential in my work in state government–a solid foundation for effective, impactful public service. ​ ​My policy work as the three-term Chair of the Joint Standing Committee on Health and Human Services has prioritized access to quality healthcare for all Mainers, the well-being and security of older and disabled residents, the safety and stability of Maine children and their families, addressing food & housing insecurity & building and strengthening our healthcare workforce and delivery system. ​ As a proud member of the House Democratic caucus, I have delivered on my promise for property tax relief, increased education funding, and environmental protection.
+My priorities remain squarely on lifting up and improving the lives of the people I represent.
+I have worked hard to ensure the work of state government is focused on the needs of the people through solution-focused policies grounded in the values of compassion, well-being and justice.
+That’s how good government happens”. — Michele Meyer, Representative for Maine House District 150 Maine State House Michele Meyer with Students Maine State House 1/7 Michele Meyer Representative ME House District 150 all of Eliot, part of Kittery, part of South Berwick ABOUT MICHELE Michele is serving her fourth term in the Maine House of Representatives.
 A Registered Nurse, her experience as a healthcare professional informs her role as a now four term member of the Joint Standing Committee on Health and Human Services, where she has been the House Chair for three terms.
-Her committee’s wide ranging focus includes child welfare, domestic violence, poverty and food insecurity, safe drinking water, housing insecurity, substance use disorder, lead testing expansion, nursing home and community based care, aging in place, child care, the healthcare workforce shortage, Medicaid, social safety net programs, and addressing the impact of the social determinants of health on the well being of Mainers across the lifespan.
-Eliot residents for over 30 years, Michele and husband Jay own and operate a small family farm just off of Eliot’s Route 101, a winding road with a two-century history of farming and related businesses.
+Her committee’s wide ranging focus includes child welfare, domestic violence, poverty and food insecurity, safe drinking water, housing insecurity, substance use disorder, lead testing expansion, nursing home and community based care, aging in place, child care, the healthcare workforce shortage, Medicaid, social safety net programs, and addressing the impact of the social determinants of health on the well being of Mainers across the lifespan. ​ Eliot residents for over 30 years, Michele and husband Jay own and operate a small family farm just off of Eliot’s Route 101, a winding road with a two-century history of farming and related businesses.
 Organic growers, they raise Nubian dairy goats and are licensed maple syrup producers.
-Back Fields Farm is proudly under conservation easement and will forever remain farmland and forest.
-Representative Meyer and her colleagues in the legislature have worked toward fulfilling the promise of affordable healthcare, reigning in skyrocketing prescription drug costs, lifting up low income Maine families, protecting reproductive rights, advancing common sense gun safety reform, providing property tax relief, & increasing municipal revenue sharing as well as education funding.
+Back Fields Farm is proudly under conservation easement and will forever remain farmland and forest. press to zoom press to zoom press to zoom press to zoom 1/38 Representative Meyer and her colleagues in the legislature have worked toward fulfilling the promise of affordable healthcare, reigning in skyrocketing prescription drug costs, lifting up low income Maine families, protecting reproductive rights, advancing common sense gun safety reform, providing property tax relief, & increasing municipal revenue sharing as well as education funding.
 Michele has been proud to vote for new laws that keep Maine on pace with our changing world: increasing our renewable energy goals with the intention of creating jobs and combatting climate change.
 Michele is committed to using her office to improve lives and strengthen Maine families.
-A proud mother and grandmother, she believes we owe our children and theirs every opportunity for happy, healthy, productive lives here in this uniquely beautiful place we call home.
-.
+A proud mother and grandmother, she believes we owe our children and theirs every opportunity for happy, healthy, productive lives here in this uniquely beautiful place we call home. .
 To see all bills, joint resolutions, and orders that Rep.
 Meyer has sponsored or cosponsored to date and for news about Michele posted by the Maine House Democratic Office click here.
+Contact Michele NEWS & PRESS Gearing up for a State Senate race Property taxes and the rising cost of living in Maine: Rep.
+Meyer Mainspring celebrates impact on fighting hunger, poverty in Seacoast Rep.
+Meyer: Keeping children safe by keeping families strong Commentary: Bill can be part of solution to attracting, retaining Maine direct care workers Rep.
+Meyer: Delivering direct relief to Maine people with free community college, more Read More To play, press and hold the enter key.
+To stop, release the enter key.
+CONTACT MICHELE Send a Message Submit Thanks for contacting Michele! info@MicheleforMaine.com 207-438-9197 Eliot, Maine ©# Paid for and authorized by Michele for Maine bottom of page

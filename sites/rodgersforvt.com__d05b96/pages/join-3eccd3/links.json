@@ -1,11 +1,62 @@
 [
-"https://facebook.com/johnrodgersvt",
-"https://rodgersforvt.com/",
-"https://rodgersforvt.com/about",
-"https://rodgersforvt.com/join",
-"https://rodgersforvt.com/priorities",
-"https://rodgersforvt.com/privacy",
-"https://rodgersforvt.com/terms",
-"https://secure.anedot.com/rodgersforvermont/donate",
-"https://x.com/johnrodgersvt"
+{
+"text": "ABOUT",
+"href": "https://www.rodgersforvt.com/about"
+},
+{
+"text": "CHIP IN $25 NOW TO RE-ELECT JOHN RODGERS",
+"href": "https://secure.anedot.com/rodgersforvermont/donate"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rodgersforvermont/donate"
+},
+{
+"text": "HOME",
+"href": "https://www.rodgersforvt.com"
+},
+{
+"text": "JOIN",
+"href": "https://www.rodgersforvt.com/join"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.rodgersforvt.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.rodgersforvt.com/privacy"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://www.rodgersforvt.com/terms"
+},
+{
+"text": "Terms & Conditions.",
+"href": "https://www.rodgersforvt.com/terms"
+},
+{
+"text": "[image: GF-Rogers-Logo-Final.png]",
+"href": "https://www.rodgersforvt.com"
+},
+{
+"text": "[image: GF-Rogers-Logo-Final.png]",
+"href": "https://www.rodgersforvt.com/join"
+},
+{
+"text": "[image: Rodgers social (1)]",
+"href": "https://www.facebook.com/johnrodgersvt/"
+},
+{
+"text": "[image: Rodgers social (2)]",
+"href": "https://x.com/johnrodgersvt"
+},
+{
+"text": "[image: Rodgers social (3)]",
+"href": "https://x.com/johnrodgersvt"
+},
+{
+"text": "[image: Rodgers social]",
+"href": "https://www.facebook.com/johnrodgersvt/"
+}
 ]

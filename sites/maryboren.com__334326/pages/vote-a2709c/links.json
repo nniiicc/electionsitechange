@@ -1,28 +1,138 @@
 [
-"http://linkedin.com/in/mary-boren-senator-96ba3897",
-"http://maryboren.com/",
-"https://31a607c5-6430-4607-a0f7-fae39af765dc.filesusr.com/ugd/a67321_0ecee6a917574bd1aa00156000b64d04.pdf",
-"https://badvoter.org/",
-"https://drive.google.com/drive/folders/1iix5sLL-86MYIJqtTJWpSyAs8srJjTC1",
-"https://drive.google.com/drive/u/0/folders/1iix5sLL-86MYIJqtTJWpSyAs8srJjTC1",
-"https://facebook.com/SenatorMaryBoren",
-"https://instagram.com/senator_boren",
-"https://maryboren.com/",
-"https://maryboren.com/about",
-"https://maryboren.com/copy-of-mary-s-work",
-"https://maryboren.com/donate",
-"https://maryboren.com/donate-join",
-"https://maryboren.com/file-share",
-"https://maryboren.com/marys-work",
-"https://maryboren.com/vote",
-"https://ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf",
-"https://oklahoma.gov/content/dam/ok/en/elections/forms/voter-registration-application.pdf",
-"https://oksenate.gov/senator-press-releases/mary-b.-boren",
-"https://oksenate.gov/senators/mary-b-boren",
-"https://okvoterportal.okelections.us/Home/RegWizard",
-"https://sos.ok.gov/notary/search.aspx",
-"https://vote.org/",
-"https://vote.org/absentee-ballot",
-"https://vote.org/pledge-to-register",
-"https://youtu.be/zjUhhj2RG9U"
+{
+"text": "BAD VOTER LOOK UP",
+"href": "https://www.badvoter.org"
+},
+{
+"text": "BECOME A NOTARY TO NOTARIZE BALLOTS",
+"href": "https://www.sos.ok.gov/notary/search.aspx"
+},
+{
+"text": "COMPLETE A MANO",
+"href": "https://www.ok.gov/elections/documents/Oklahoma%20Voter%20Registration%20Application%20form%20v4-20%20SEB%20web.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.maryboren.com/donate"
+},
+{
+"text": "File Share",
+"href": "https://www.maryboren.com/file-share"
+},
+{
+"text": "HOME",
+"href": "https://www.maryboren.com"
+},
+{
+"text": "INSCRÍBASE PARA VOTAR",
+"href": "https://youtu.be/zjUhhj2RG9U"
+},
+{
+"text": "INSCRÍBASE PARA VOTAR INSTRUCCIONES",
+"href": "https://31a607c5-6430-4607-a0f7-fae39af765dc.filesusr.com/ugd/a67321_0ecee6a917574bd1aa00156000b64d04.pdf"
+},
+{
+"text": "INSTRUCCIONES COMPLETAS",
+"href": "https://drive.google.com/drive/folders/1iix5sLL-86MYIJqtTJWpSyAs8srJjTC1"
+},
+{
+"text": "KIT - VOLUNTARIO DE REGISTRO",
+"href": "https://drive.google.com/drive/folders/1iix5sLL-86MYIJqtTJWpSyAs8srJjTC1"
+},
+{
+"text": "Mary's Work",
+"href": "https://www.maryboren.com/marys-work"
+},
+{
+"text": "Meet Mary",
+"href": "https://www.maryboren.com/about"
+},
+{
+"text": "Mire el video para ver cómo registrarse para votar",
+"href": "https://youtu.be/zjUhhj2RG9U"
+},
+{
+"text": "Offical Senate Page (click)",
+"href": "https://oksenate.gov/senator-press-releases/mary-b.-boren"
+},
+{
+"text": "PRINT & FILL PAPER FORM",
+"href": "https://oklahoma.gov/content/dam/ok/en/elections/forms/voter-registration-application.pdf"
+},
+{
+"text": "REGISTER TO VOTE ONLINE",
+"href": "https://okvoterportal.okelections.us/Home/RegWizard"
+},
+{
+"text": "REGISTRARSE PARA VOTAR EN LINEA",
+"href": "https://www.vote.org/pledge-to-register/"
+},
+{
+"text": "Senate Profile",
+"href": "https://oksenate.gov/senators/mary-b-boren"
+},
+{
+"text": "Sign Up with Mary's Team",
+"href": "https://www.maryboren.com/donate-join"
+},
+{
+"text": "TEXT REMINDER - TO VOTE",
+"href": "https://www.vote.org"
+},
+{
+"text": "Under 18? PLEDGE TO VOTE",
+"href": "https://www.vote.org/pledge-to-register/"
+},
+{
+"text": "Updates",
+"href": "https://www.maryboren.com/copy-of-mary-s-work"
+},
+{
+"text": "VOTE BY MAIL SIGN - UP",
+"href": "https://www.vote.org/absentee-ballot/"
+},
+{
+"text": "VOTER REGISTRATION TOOL KIT",
+"href": "https://drive.google.com/drive/u/0/folders/1iix5sLL-86MYIJqtTJWpSyAs8srJjTC1"
+},
+{
+"text": "Vote / ¡Votar!",
+"href": "https://www.maryboren.com/vote"
+},
+{
+"text": "WHO'S NOT VOTING & WHY",
+"href": "https://www.vote.org/pledge-to-register/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/SenatorMaryBoren/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/senator_boren/"
+},
+{
+"text": "[image: Linkedin]",
+"href": "http://www.linkedin.com/in/mary-boren-senator-96ba3897"
+},
+{
+"text": "[image]",
+"href": "https://www.maryboren.com"
+},
+{
+"text": "senatormaryboren@gmail.com",
+"href": "mailto:senatormaryboren@gmail.com"
+},
+{
+"text": "© # Approved and Paid for by Friends of Mary 2026 All Rights Reserved. maryboren.com",
+"href": "http://maryboren.com"
+},
+{
+"text": "¿MUY JOVEN? HAZ LA PROMESA",
+"href": "https://www.vote.org/pledge-to-register/"
+},
+{
+"text": "¿QUIÉN NO ESTÁ VOTANDO? (EN INGLÉS)",
+"href": "https://www.vote.org/pledge-to-register/"
+}
 ]

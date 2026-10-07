@@ -1,15 +1,62 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSe5Y7-UxK_Wk1i0VyNjYj06mxFAtuApam6z-BIuccWCm8Knrw/viewform",
-"https://facebook.com/Officialtraceytackett",
-"https://instagram.com/official_tracey_tackett",
-"https://tiktok.com/@tracey.tackett?lang=en",
-"https://traceytackett.org/",
-"https://traceytackett.org/about",
-"https://traceytackett.org/cart",
-"https://traceytackett.org/endorsements",
-"https://traceytackett.org/events",
-"https://traceytackett.org/issues",
-"https://traceytackett.org/press-releases",
-"https://traceytackett.org/support",
-"https://zeffy.com/en-US/donation-form/friends-of-tracey-tackett"
+{
+"text": "0",
+"href": "https://www.traceytackett.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.traceytackett.org/about"
+},
+{
+"text": "Donate",
+"href": "https://www.zeffy.com/en-US/donation-form/friends-of-tracey-tackett"
+},
+{
+"text": "Endorsements",
+"href": "https://www.traceytackett.org/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.traceytackett.org/events"
+},
+{
+"text": "Home",
+"href": "https://www.traceytackett.org/"
+},
+{
+"text": "Issues",
+"href": "https://www.traceytackett.org/issues"
+},
+{
+"text": "Press Releases",
+"href": "https://www.traceytackett.org/press-releases"
+},
+{
+"text": "Support",
+"href": "https://www.traceytackett.org/support"
+},
+{
+"text": "Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSe5Y7-UxK_Wk1i0VyNjYj06mxFAtuApam6z-BIuccWCm8Knrw/viewform"
+},
+{
+"text": "[image: Tracey Tackett for Congress]",
+"href": "https://www.traceytackett.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Officialtraceytackett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/official_tracey_tackett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@tracey.tackett?lang=en"
+},
+{
+"text": "friendsoftraceytackett@yahoo.com",
+"href": "mailto: Friendsoftraceytackett@yahoo.com"
+}
 ]

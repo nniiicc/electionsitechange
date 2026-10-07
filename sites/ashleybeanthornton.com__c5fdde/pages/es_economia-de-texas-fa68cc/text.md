@@ -1,7 +1,9 @@
-La economía de Texas debería funcionar para TODO de nosotros.
+Ir al contenido Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Ashley Bean Thornton para el Distrito 56 de la Cámara de Representantes de Texas Economía de Texas La economía de Texas debería funcionar para TODO de nosotros.
 Texas tiene una economía en auge, pero ¿está en auge para todos nosotros?
 Texas puede estar atrayendo nuevos empleos — pero ¿es suficiente la paga de esos empleos para mantener a una familia?
 Si queremos que nuestra economía siga creciendo, necesitamos reinvertir una parte de los beneficios de ese crecimiento en las personas que lo hacen posible.
 La gente que vive y trabaja a tiempo completo en lo que el gobernador Abbott llama “el mejor clima de negocios de Estados Unidos” no debería tener dificultades para pagar vivienda, atención médica, cuidado infantil y artículos básicos de uso diario.
 Texas puede ser amigable con los negocios y con los trabajadores.
 Puede ser pro-crecimiento y pro-familia.
+Profundizar Únete a la campaña Donar Suscríbete al boletín informativo Donar Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín Inicio EN/ES English Spanish FB IG Blog Tienda Voluntario Boletín informativo Letrero de jardín El Texas que queremos Trabajando juntos La Economía de Texas Escuelas públicas sólidas Facebook Instagram Info@AshleyBeanThornton.com Publicidad política pagada por ABT para TEX.
+4300 W Waco Drive, Suite 2B, Apartado postal 193 • Waco, Texas 76710 © #-# Campaña Thornton for Texas Términos del servicio | Política de privacidad | Descargo de responsabilidad | Sitio web creado por Mariposa de los medios digitales

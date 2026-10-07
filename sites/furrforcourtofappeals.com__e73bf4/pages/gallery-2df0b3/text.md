@@ -1,6 +1,6 @@
-I want to be a judge for my community and to do that I must be in my community.
+Home About Donate Gallery Endorsements Terms and Conditions Privacy Policy Home About Donate Gallery Endorsements Terms and Conditions Privacy Policy My community I want to be a judge for my community and to do that I must be in my community.
 Here is a small sample of some of the events that I have attended and some of the people I have met!
-Sparring for my Brown Belt.
+Find out more Photo Gallery Sparring for my Brown Belt.
 I had the opportunity to talk to the Delaware City Republican Party meeting.
 It was a great time with great people!
 I attended the Morgan County Women’s GOP Club Luncheon.
@@ -12,6 +12,7 @@ The Beautiful Christmas lights at downtown Mt.
 Vernon!
 I had the honor of serving.
 This is from Basic Training at Fort Dix, New Jersey.
-Show More
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Show More Citizens for Furr 740-817-2381 Copyright © # Furr for 5th District Court of Appeals - All Rights Reserved.
+Paid for by Citizens for Furr Powered by Announcement Welcome!
+Check out my new announcement.
+Learn more

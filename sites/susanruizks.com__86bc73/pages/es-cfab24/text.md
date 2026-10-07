@@ -1,33 +1,13 @@
-Rep.
-Susan Ruiz, KS HD 23
-Manténgase al tanto de las Elecciones en el 2026
-Desde las elecciones federales hasta las elecciones locales, su voto importa.
+Skip to content Inicio Acerca Prioridades Únase English Contribuir » Rep.
+Susan Ruiz, KS HD 23 Manténgase al tanto de las Elecciones en el 2026 Desde las elecciones federales hasta las elecciones locales, su voto importa.
 Haga un plan para votar y hacer oír su voz en el 2026.
-Mi misión es seguir representando a la gente del Distrito 23
-En el 2018 inicié mi carrera en la política para asegurarme de que todos los habitantes de Kansas tuvieran una representación justa en nuestra legislatura estatal.
+Conozca mis prioridades Mi misión es seguir representando a la gente del Distrito 23 En el 2018 inicié mi carrera en la política para asegurarme de que todos los habitantes de Kansas tuvieran una representación justa en nuestra legislatura estatal.
 Gracias al apoyo de la comunidad, tuve el honor de ser la primera representante LGBTQ en los más de 150 años de historia de nuestro Estado.
 Durante ese tiempo, fuí miembro del Comité de Veteranos y Militares, Comité de Presupuesto de Servicios Sociales y el Comité de Servicios para Niños y Ancianos.
 Hemos trabajado duro para volver a poner a Kansas en el camino correcto después de los desastrosos años del exgobernador Brownback.
-Ahora más que nunca, debemos continuar haciendo este importante trabajo.
-//// Conozca a Susan Ruiz /////
-Mi misión es seguir representando a la comunidad del Distrito 23
-En el 2018 inicié mi carrera en la política para asegurarme de que todos los habitantes de Kansas tuvieran una representación justa en nuestra legislatura estatal.
+Ahora más que nunca, debemos continuar haciendo este importante trabajo. //// Conozca a Susan Ruiz ///// Mi misión es seguir representando a la comunidad del Distrito 23 En el 2018 inicié mi carrera en la política para asegurarme de que todos los habitantes de Kansas tuvieran una representación justa en nuestra legislatura estatal.
 Gracias al apoyo de la comunidad, tuve el honor de ser la primera representante LGBTQ en los más de 150 años de historia de nuestro Estado.
 Durante ese tiempo, fuí miembro del Comité de Veteranos y Militares, Comité de Presupuesto de Servicios Sociales y el Comité de Servicios para Niños y Ancianos.
 Hemos trabajado duro para volver a poner a Kansas en el camino correcto después de los desastrosos años del exgobernador Brownback.
-Ahora más que nunca, debemos continuar haciendo este importante trabajo.
-Orgullosa de ser respaldada por:
-//// Mi Plataforma //////
-Una mirada a mis prioridades
-Mi prioridad es garantizar que todos los habitantes de Kansas disfruten de una buena calidad de vida y tengan las mismas oportunidades de éxito.
-Para lograr esto, identifiqué las siguientes prioridades legislativas:
-Defender el Derecho
-al Voto
-Invertir en las Escuelas Publicas de Kansas
-Garantizar la Igualdad de todos
-Promover la Expansion de Medicaid
-Promover acceso a los Servicios de Salud Mental
-Proporcionar más servicios de Educacion Infantil
-Mejorar servicios para nuestros Veteranos
-Abordar el Cambio Climatico
-Despenalizar el uso del Cannabis
+Ahora más que nunca, debemos continuar haciendo este importante trabajo. // Conozca más sobre Susan » Orgullosa de ser respaldada por: //// Mi Plataforma ////// Una mirada a mis prioridades Mi prioridad es garantizar que todos los habitantes de Kansas disfruten de una buena calidad de vida y tengan las mismas oportunidades de éxito.
+Para lograr esto, identifiqué las siguientes prioridades legislativas: // Lea mas información sobre mis prioridades » // Comparta sus prioridades conmigo » Defender el Derecho al Voto Invertir en las Escuelas Publicas de Kansas Garantizar la Igualdad de todos Promover la Expansion de Medicaid Promover acceso a los Servicios de Salud Mental Proporcionar más servicios de Educacion Infantil Mejorar servicios para nuestros Veteranos Abordar el Cambio Climatico Despenalizar el uso del Cannabis Estoy aquí para luchar por un mejor Kansas Contribuya Hoy » Copyright © # Susan Ruiz for Kansas - Vote on November 3, 2026 Paid for by Susan Ruiz for Kansas | Tim Quinn, Treasurer _ Get in touch: Email | Facebook | Twitter

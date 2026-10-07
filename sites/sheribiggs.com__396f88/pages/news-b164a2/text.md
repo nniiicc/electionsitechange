@@ -1,50 +1,33 @@
-NEWS
-Tuesday, June 25, 2024
-ANDERSON, SC –
-Lieutenant Colonel Sheri Biggs has won the Republican nomination for South Carolina's Third Congressional District.
+HOME ABOUT PLATFORM GET INVOLVED NEWS DONATE NEWS NEWS Sheri Biggs Wins Republican Nomination in SC-03 Tuesday, June 25, 2024 ANDERSON, SC – Lieutenant Colonel Sheri Biggs has won the Republican nomination for South Carolina's Third Congressional District.
 With her victory in the runoff, Biggs becomes the first Republican woman to secure the party's nomination in the district; and, with a victory in November, Biggs would be only the second Republican woman to serve in Congress from South Carolina.
-Wednesday, June 19, 2024
-ANDERSON, SC – After winning last night's televised debate, Lieutenant Colonel Sheri Biggs has called her opponent, Mark Burns, a fraud and is demanding Burns admit the truth about his questionable campaign loan arrangement, his failure to file the required federal financial disclosure, his delinquent taxes, and his residency.
-Tuesday, June 18, 2024
-ANDERSON, SC – Seven sheriffs from across South Carolina's Third Congressional District have endorsed Lieutenant Colonel Sheri Biggs in her bid for Congress.
+READ MORE After Debate Win, Sheri Biggs Demands Burns Confess the Truth Wednesday, June 19, 2024 ANDERSON, SC – After winning last night's televised debate, Lieutenant Colonel Sheri Biggs has called her opponent, Mark Burns, a fraud and is demanding Burns admit the truth about his questionable campaign loan arrangement, his failure to file the required federal financial disclosure, his delinquent taxes, and his residency.
+READ MORE Seven Sheriffs in SC03 Endorse Sheri Biggs for Congress Tuesday, June 18, 2024 ANDERSON, SC – Seven sheriffs from across South Carolina's Third Congressional District have endorsed Lieutenant Colonel Sheri Biggs in her bid for Congress.
 The endorsements highlight Biggs’ integrity, unwavering support for law enforcement, and commitment to upholding conservative values.
-Tuesday, June 11, 2024
-ANDERSON, SC – Lieutenant Colonel Sheri Biggs, Conservative Republican candidate for Congress, has secured her position in the June 25 runoff in South Carolina's Third Congressional District, after securing 30% of the vote in today's Republican Primary Election.
+READ MORE Sheri Biggs Secures Runoff Position in SC-03 Race Tuesday, June 11, 2024 ANDERSON, SC – Lieutenant Colonel Sheri Biggs, Conservative Republican candidate for Congress, has secured her position in the June 25 runoff in South Carolina's Third Congressional District, after securing 30% of the vote in today's Republican Primary Election.
 In her election night speech, Biggs highlighted her unique experience and careers in the military and healthcare, while also drawing a stark contrast with her opposition in the runoff.
-Thursday, May 30, 2024
-ANDERSON, SC –
-Sheri Biggs, Republican Candidate for South Carolina's Third Congressional District, issued the following statement on President Trump's New York trial verdict:
-“Truly, a stain on our nation’s history!
+READ MORE Sheri Biggs Issues Statement on President Trump Trail Verdict Thursday, May 30, 2024 ANDERSON, SC – Sheri Biggs, Republican Candidate for South Carolina's Third Congressional District, issued the following statement on President Trump's New York trial verdict: “Truly, a stain on our nation’s history!
 Politicization of our justice system should never happen," Sheri Biggs said.
 "I have stood with President Trump from day one.
 I still stand with President Trump.
-We must win the election and restore integrity to our judicial system."
-Wednesday, May 1, 2024
-ANDERSON, SC – Conservative Republican candidate for Congress Sheri Biggs has launched a new television ad in South Carolina’s Third Congressional District focusing on the crisis at the Southern Border, described in the ad as the “border war.”
-“Mission Focused,” the third television ad from Biggs’ campaign, details the harsh realities of the illegal immigration invasion, career politicians’ attempts to exploit the border for political photo opportunities, and the necessity to utilize Biggs’ military experience and mission-focused leadership to win the border war.
-Wednesday, April 24, 2024
-ANDERSON, SC – Conservative South Carolina Governor Henry McMaster has endorsed Lieutenant Colonel Sheri Biggs in her race for South Carolina’s Third Congressional District.
+We must win the election and restore integrity to our judicial system." READ MORE “Border War” Focus of New Sheri Biggs TV Ad in South Carolina’s Third Congressional District Race Wednesday, May 1, 2024 ANDERSON, SC – Conservative Republican candidate for Congress Sheri Biggs has launched a new television ad in South Carolina’s Third Congressional District focusing on the crisis at the Southern Border, described in the ad as the “border war.” “Mission Focused,” the third television ad from Biggs’ campaign, details the harsh realities of the illegal immigration invasion, career politicians’ attempts to exploit the border for political photo opportunities, and the necessity to utilize Biggs’ military experience and mission-focused leadership to win the border war.
+READ MORE Governor Henry McMaster Endorses Sheri Biggs for Congress Wednesday, April 24, 2024 ANDERSON, SC – Conservative South Carolina Governor Henry McMaster has endorsed Lieutenant Colonel Sheri Biggs in her race for South Carolina’s Third Congressional District.
 In his endorsement of Biggs, Governor McMaster highlighted Biggs’ faith, military service, and commitment to work with President Trump on the most pressing issues facing the nation.
-Thursday, April 11, 2024
-ANDERSON, SC – Citing her unique education and career experiences as well as her commitment to the rule of law, Edgefield County Sheriff Jody Rowland endorsed Republican Sheri Biggs today for South Carolina's Third Congressional District.
+READ MORE Edgefield County Sheriff Jody Rowland Endorses Sheri Biggs for Congress Thursday, April 11, 2024 ﻿ ANDERSON, SC – Citing her unique education and career experiences as well as her commitment to the rule of law, Edgefield County Sheriff Jody Rowland endorsed Republican Sheri Biggs today for South Carolina's Third Congressional District.
 The endorsement is the most significant by a law enforcement official in the district to date and highlights the growing momentum for Biggs heading in the campaign’s homestretch.
-Tuesday, April 9, 2024
-ANDERSON, SC –
-Conservative Republican Sheri Biggs has launched the second television ad of her campaign for South Carolina's Third Congressional District.
+READ MORE Sheri Biggs Launches New TV Ad Tuesday, April 9, 2024 ANDERSON, SC – Conservative Republican Sheri Biggs has launched the second television ad of her campaign for South Carolina's Third Congressional District.
 The 60-second ad, entitled "Healing Our Nation," showcases Biggs, a board certified psychiatric mental health nurse practitioner and a Lieutenant Colonel in the Air National Guard, as a counselor to Uncle Sam and addresses many issues facing the nation today.
-Friday, April 5, 2024
-ANDERSON, SC – Conservative Republican Sheri Biggs announced today that her campaign has set a new quarterly fundraising record for South Carolina's Third Congressional District.
+READ MORE Sheri Biggs Announces Record-Breaking Haul in SC's 3rd Congressional District Race Friday, April 5, 2024 ANDERSON, SC – Conservative Republican Sheri Biggs announced today that her campaign has set a new quarterly fundraising record for South Carolina's Third Congressional District.
 In the first quarter of 2024, the Sheri Biggs for Congress campaign brought in over $400k in total receipts, the most ever in a quarter by a congressional candidate in the district.
-Tuesday, March 26, 2024
-ANDERSON, SC – Sheri Biggs – a dedicated servant leader with an extensive background in healthcare, military service, and community involvement – officially filed her candidacy paperwork to appear on the Republican ballot for South Carolina’s Third Congressional District.
-Tuesday, March 19, 2024
-ANDERSON, SC – Over 100 veterans in South Carolina have joined together to launch an effort in support of Lieutenant Colonel Sheri Biggs’ Republican candidacy for South Carolina’s Third Congressional District.
+READ MORE Sheri Biggs Officially Files for SC's 3rd Congressional District Tuesday, March 26, 2024 ANDERSON, SC – Sheri Biggs – a dedicated servant leader with an extensive background in healthcare, military service, and community involvement – officially filed her candidacy paperwork to appear on the Republican ballot for South Carolina’s Third Congressional District.
+READ MORE Over 100 Veterans Launch Coalition in Support of Sheri Biggs in South Carolina’s Third Congressional District Tuesday, March 19, 2024 ﻿ ANDERSON, SC – Over 100 veterans in South Carolina have joined together to launch an effort in support of Lieutenant Colonel Sheri Biggs’ Republican candidacy for South Carolina’s Third Congressional District.
 The Veterans for Sheri Biggs Coalition is composed of former service members with a broad spectrum of branches, lengths of service, and ages represented.
 The group believes that Biggs, a Lieutenant Colonel in the Air National Guard, best represents the interests of active and retired military as well as their families.
 The coalition is committed to rallying support for Biggs in advance of the June 11th Republican Primary.
-Thursday, February 29, 2024
-ANDERSON, SC – Conservative Republican congressional candidate Sheri Biggs today launched the first television ad post-Presidential Primary in South Carolina.
+READ MORE Sheri Biggs Launches First TV Ad Thursday, February 29, 2024 ﻿ ANDERSON, SC – Conservative Republican congressional candidate Sheri Biggs today launched the first television ad post-Presidential Primary in South Carolina.
 The spot, entitled “Already Running,” highlights Biggs’ career in the military and in healthcare, as well as her conservative bona fides including her support of President Donald Trump.
-Thursday, January 18, 2024
-ANDERSON, SC – Sheri Biggs – a lieutenant colonel in the Air National Guard, a board certified family nurse practitioner, and board certified psychiatric mental health nurse practitioner, Salem resident, and a pro-life, pro-Second Amendment lifelong Republican – announced she is running to serve South Carolina’s Third Congressional District, a position currently held by Congressman Jeff Duncan.
+READ MORE Lieutenant Colonel, Board Certified Family Nurse Practitioner, and Board Certified Psychiatric Mental Health Nurse Practitioner Sheri Biggs Announces Candidacy for South Carolina’s Third Congressional District Thursday, January 18, 2024 ﻿ ANDERSON, SC – Sheri Biggs – a lieutenant colonel in the Air National Guard, a board certified family nurse practitioner, and board certified psychiatric mental health nurse practitioner, Salem resident, and a pro-life, pro-Second Amendment lifelong Republican – announced she is running to serve South Carolina’s Third Congressional District, a position currently held by Congressman Jeff Duncan.
 Duncan announced yesterday that he is not seeking re-election this year.
+READ MORE PAID FOR BY SHERI BIGGS FOR CONGRESS Download the official headshot of Sheri Biggs here .
+Press Inquires: Please email press@sheribiggs.com Sheri Biggs for Congress PO Box 2685 Anderson, SC 29622 Sheri Biggs is a member of the Air National Guard.
+Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Privacy Policy Share by:

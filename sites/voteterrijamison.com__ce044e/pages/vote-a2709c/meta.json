@@ -1,7 +1,9 @@
 {
  "description": "Voter Information",
  "final_url": "https://www.voteterrijamison.com/vote",
- "paid_for_by": null,
+ "fingerprint": "1633c3ced72cf9cab4a422eda65c5bda97b0c14f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Information",
  "years_mentioned": [
   "2024"

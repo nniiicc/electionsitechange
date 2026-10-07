@@ -1,7 +1,9 @@
 {
  "description": "Request a Yard Sign",
  "final_url": "https://www.toddforfl4.com/yard-sign",
- "paid_for_by": null,
+ "fingerprint": "4cb9d97119d22bf4415ce6b1d6f89febc9732ea6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Request a Yard Sign",
  "years_mentioned": []
 }

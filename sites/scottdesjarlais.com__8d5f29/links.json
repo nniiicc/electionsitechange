@@ -1,14 +1,74 @@
 [
-"http://changethislink.com/",
-"https://facebook.com/drscottdesjarlais",
-"https://scottdesjarlais.com/",
-"https://scottdesjarlais.com/about_scott",
-"https://scottdesjarlais.com/endorsements",
-"https://scottdesjarlais.com/endorsements-2",
-"https://scottdesjarlais.com/issues",
-"https://scottdesjarlais.com/news-2",
-"https://scottdesjarlais.com/volunteer",
-"https://secure.anedot.com/desjarlais-for-congress/general-fund-c20e80656b131663d1cf7",
-"https://secure.winred.com/friends-of-scott-desjarlais/website-donate",
-"https://twitter.com/tndesjarlais"
+{
+"text": "About Dr. Scott",
+"href": "https://scottdesjarlais.com/about_scott/"
+},
+{
+"text": "DONATE HERE »",
+"href": "https://secure.winred.com/friends-of-scott-desjarlais/website-donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-scott-desjarlais/website-donate"
+},
+{
+"text": "Endorsements",
+"href": "https://scottdesjarlais.com/endorsements-2/"
+},
+{
+"text": "Home",
+"href": "https://scottdesjarlais.com/"
+},
+{
+"text": "Issues",
+"href": "https://scottdesjarlais.com/issues/"
+},
+{
+"text": "[image: Recognitions]",
+"href": "http://changethislink.com"
+},
+{
+"text": "[image: icon-donate-164]",
+"href": "https://secure.anedot.com/desjarlais-for-congress/general-fund-c20e80656b131663d1cf7"
+},
+{
+"text": "[image: icon-updates-164]",
+"href": "http://changethislink.com"
+},
+{
+"text": "[image: icon-volunteer-164]",
+"href": "http://changethislink.com"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/endorsements/"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/issues/"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/news-2/"
+},
+{
+"text": "[image]",
+"href": "https://scottdesjarlais.com/volunteer/"
+},
+{
+"text": "[tooltip: Email]",
+"href": "mailto:info@scottdesjarlais.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/drscottdesjarlais/"
+},
+{
+"text": "[tooltip: Twitter]",
+"href": "https://twitter.com/tndesjarlais"
+}
 ]

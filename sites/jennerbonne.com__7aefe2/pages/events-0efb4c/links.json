@@ -1,11 +1,46 @@
 [
-"http://instagram.com/repjenri35",
-"http://x.com/repjenri35",
-"https://facebook.com/profile.php?id=61564238183768",
-"https://jennerbonne.com/",
-"https://jennerbonne.com/blog",
-"https://jennerbonne.com/donate",
-"https://jennerbonne.com/events",
-"https://jennerbonne.com/feed",
-"https://wakefieldwebsites.com/"
+{
+"text": "Blog",
+"href": "https://jennerbonne.com/blog/"
+},
+{
+"text": "Donate",
+"href": "https://jennerbonne.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://jennerbonne.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61564238183768"
+},
+{
+"text": "Home",
+"href": "https://jennerbonne.com/"
+},
+{
+"text": "Instagram",
+"href": "http://instagram.com/repjenri35"
+},
+{
+"text": "Make a Donation",
+"href": "https://jennerbonne.com/donate/"
+},
+{
+"text": "RSS",
+"href": "https://jennerbonne.com/feed/"
+},
+{
+"text": "Wakefield Websites",
+"href": "https://www.wakefieldwebsites.com"
+},
+{
+"text": "X",
+"href": "http://x.com/repjenri35"
+},
+{
+"text": "[image: Jen Nerbonne For State Representative]",
+"href": "https://jennerbonne.com/"
+}
 ]

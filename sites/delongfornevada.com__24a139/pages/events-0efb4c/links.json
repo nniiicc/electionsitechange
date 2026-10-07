@@ -1,81 +1,398 @@
 [
-"https://delongfornevada.com/",
-"https://delongfornevada.com/about",
-"https://delongfornevada.com/contact",
-"https://delongfornevada.com/event-details/2024-campaign-kickoff-fundraiser",
-"https://delongfornevada.com/event-details/coffee-and-a-conversation-with-rich-delong",
-"https://delongfornevada.com/event-details/coffee-with-constituents",
-"https://delongfornevada.com/event-details/coffee-with-constituents-2",
-"https://delongfornevada.com/event-details/coffee-with-constituents-3",
-"https://delongfornevada.com/event-details/coffee-with-constituents-7",
-"https://delongfornevada.com/event-details/coffee-with-constituents-8",
-"https://delongfornevada.com/event-details/coffee-with-rich-3",
-"https://delongfornevada.com/event-details/coffee-with-the-candidate",
-"https://delongfornevada.com/event-details/coffee-with-the-candidate-1",
-"https://delongfornevada.com/event-details/coffee-with-your-assemblyman",
-"https://delongfornevada.com/event-details/coffee-with-your-assemblyman-2",
-"https://delongfornevada.com/event-details/coffee-with-your-assemblyman-3",
-"https://delongfornevada.com/event-details/coffee-with-your-assemblyman-4",
-"https://delongfornevada.com/event-details/coffee-with-your-assemblyman-rich-delong",
-"https://delongfornevada.com/event-details/community-coffee-event-with-rich-delong",
-"https://delongfornevada.com/event-details/delong-fundraiser-hosted-by-nevada-mining-association",
-"https://delongfornevada.com/event-details/general-election-campaign-kickoff",
-"https://delongfornevada.com/events",
-"https://delongfornevada.com/issues",
-"https://delongfornevada.com/news",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff",
-"https://secure.winred.com/delongfornevada/donate",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "2024 Campaign Kickoff Fundraiser",
+"href": "https://www.delongfornevada.com/event-details/2024-campaign-kickoff-fundraiser"
+},
+{
+"text": "About",
+"href": "https://www.delongfornevada.com/about"
+},
+{
+"text": "Coffee and a Conversation with Rich Delong",
+"href": "https://www.delongfornevada.com/event-details/coffee-and-a-conversation-with-rich-delong"
+},
+{
+"text": "Coffee with Constituents",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents"
+},
+{
+"text": "Coffee with Constituents",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-2"
+},
+{
+"text": "Coffee with Constituents",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-3"
+},
+{
+"text": "Coffee with Constituents",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-7"
+},
+{
+"text": "Coffee with Constituents",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-8"
+},
+{
+"text": "Coffee with Rich",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-rich-3"
+},
+{
+"text": "Coffee with the Candidate",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-the-candidate"
+},
+{
+"text": "Coffee with the Candidate",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-the-candidate-1"
+},
+{
+"text": "Coffee with your Assemblyman",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman"
+},
+{
+"text": "Coffee with your Assemblyman",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-2"
+},
+{
+"text": "Coffee with your Assemblyman",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-3"
+},
+{
+"text": "Coffee with your Assemblyman",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-4"
+},
+{
+"text": "Coffee with your Assemblyman Rich Delong",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-rich-delong"
+},
+{
+"text": "Community Coffee Event with Rich DeLong",
+"href": "https://www.delongfornevada.com/event-details/community-coffee-event-with-rich-delong"
+},
+{
+"text": "Contact",
+"href": "https://www.delongfornevada.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/delongfornevada/donate"
+},
+{
+"text": "DeLong Fundraiser Hosted by Nevada Mining Association",
+"href": "https://www.delongfornevada.com/event-details/delong-fundraiser-hosted-by-nevada-mining-association"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/2024-campaign-kickoff-fundraiser"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-and-a-conversation-with-rich-delong"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-2"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-3"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-7"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-constituents-8"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-rich-3"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-the-candidate"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-the-candidate-1"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-2"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-3"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-4"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/coffee-with-your-assemblyman-rich-delong"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/community-coffee-event-with-rich-delong"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/delong-fundraiser-hosted-by-nevada-mining-association"
+},
+{
+"text": "Details",
+"href": "https://www.delongfornevada.com/event-details/general-election-campaign-kickoff"
+},
+{
+"text": "Events",
+"href": "https://www.delongfornevada.com/events"
+},
+{
+"text": "General Election Campaign Kickoff",
+"href": "https://www.delongfornevada.com/event-details/general-election-campaign-kickoff"
+},
+{
+"text": "Home",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "Issues",
+"href": "https://www.delongfornevada.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.delongfornevada.com/news"
+},
+{
+"text": "[image: DeLongGE-1.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[image: DelongGE-3.png]",
+"href": "https://www.delongfornevada.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2F2024-campaign-kickoff-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-and-a-conversation-with-rich-delong"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-7"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-constituents-8"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-rich-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-the-candidate-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-2"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-3"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-4"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcoffee-with-your-assemblyman-rich-delong"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fcommunity-coffee-event-with-rich-delong"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fdelong-fundraiser-hosted-by-nevada-mining-association"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.delongfornevada.com%2Fevent-details%2Fgeneral-election-campaign-kickoff"
+}
 ]

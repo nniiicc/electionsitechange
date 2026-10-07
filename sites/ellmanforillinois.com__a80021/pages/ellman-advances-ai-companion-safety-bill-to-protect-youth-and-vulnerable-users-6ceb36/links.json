@@ -1,20 +1,78 @@
 [
-"http://youtube.com/",
-"https://airtable.com/shrBA6UCO1KJsCesP",
-"https://cdc.gov/suicide/facts/index.html",
-"https://ellmanforillinois.com/",
-"https://ellmanforillinois.com/about-laura",
-"https://ellmanforillinois.com/ellman-bill-to-ensure-fair-access-to-digital-discounts",
-"https://ellmanforillinois.com/ellman-proposes-plan-to-ban-toxic-herbicide-linked-to-parkinsons-disease",
-"https://ellmanforillinois.com/endorsements",
-"https://ellmanforillinois.com/get-involved",
-"https://ellmanforillinois.com/my-vision",
-"https://ellmanforillinois.com/policies-that-matter",
-"https://ellmanforillinois.com/the-21st-district",
-"https://facebook.com/EllmanforIL",
-"https://ilga.gov/Legislation/BillStatus?DocNum=316&GAID=18&DocTypeID=SB&LegId=157798&SessionID=114",
-"https://illinoissenatedemocrats.com/caucus-news/27-senator-laura-ellman-news/6839-ellman-advances-ai-companion-safety-bill-to-protect-youth-and-vulnerable-users",
-"https://instagram.com/statesenatorlauraellman",
-"https://secure.actblue.com/donate/teamellman22",
-"https://twitter.com/EllmanForIL"
+{
+"text": "ABOUT LAURA",
+"href": "https://ellmanforillinois.com/about-laura/"
+},
+{
+"text": "Centers for Disease Control and Prevention",
+"href": "https://www.cdc.gov/suicide/facts/index.html"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.actblue.com/donate/teamellman22"
+},
+{
+"text": "Democrats",
+"href": "https://www.illinoissenatedemocrats.com/caucus-news/27-senator-laura-ellman-news/6839-ellman-advances-ai-companion-safety-bill-to-protect-youth-and-vulnerable-users"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://ellmanforillinois.com/endorsements/"
+},
+{
+"text": "Ellman bill to ensure fair access to digital discounts",
+"href": "https://ellmanforillinois.com/ellman-bill-to-ensure-fair-access-to-digital-discounts/"
+},
+{
+"text": "Ellman proposes plan to ban toxic herbicide linked to Parkinson’s disease",
+"href": "https://ellmanforillinois.com/ellman-proposes-plan-to-ban-toxic-herbicide-linked-to-parkinsons-disease/"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://ellmanforillinois.com/get-involved/"
+},
+{
+"text": "ISSUES",
+"href": "https://ellmanforillinois.com/policies-that-matter/"
+},
+{
+"text": "MY VISION",
+"href": "https://ellmanforillinois.com/my-vision/"
+},
+{
+"text": "REQUEST A YARD SIGN",
+"href": "https://airtable.com/shrBA6UCO1KJsCesP"
+},
+{
+"text": "Senate Bill 316",
+"href": "https://www.ilga.gov/Legislation/BillStatus?DocNum=316&GAID=18&DocTypeID=SB&LegId=157798&SessionID=114"
+},
+{
+"text": "Source: Illinois Senate",
+"href": "https://www.illinoissenatedemocrats.com/caucus-news/27-senator-laura-ellman-news/6839-ellman-advances-ai-companion-safety-bill-to-protect-youth-and-vulnerable-users"
+},
+{
+"text": "THE 21ST DISTRICT",
+"href": "https://ellmanforillinois.com/the-21st-district/"
+},
+{
+"text": "[image: Laura Ellman]",
+"href": "https://ellmanforillinois.com/"
+},
+{
+"text": "[no text]",
+"href": "http://www.youtube.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/EllmanForIL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/EllmanforIL/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/statesenatorlauraellman/"
+}
 ]

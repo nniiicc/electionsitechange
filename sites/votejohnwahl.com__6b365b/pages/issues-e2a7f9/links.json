@@ -1,9 +1,38 @@
 [
-"https://republicfirm.com/campaign360",
-"https://secure.winred.com/john-wahl-for-alabama/donate-today",
-"https://votejohnwahl.com/",
-"https://votejohnwahl.com/about",
-"https://votejohnwahl.com/issues",
-"https://votejohnwahl.com/scheduling-request",
-"https://votejohnwahl.com/volunteer"
+{
+"text": "About",
+"href": "https://votejohnwahl.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/john-wahl-for-alabama/donate-today"
+},
+{
+"text": "Home",
+"href": "https://votejohnwahl.com/"
+},
+{
+"text": "Issues",
+"href": "https://votejohnwahl.com/issues/"
+},
+{
+"text": "RepublicFirm",
+"href": "https://republicfirm.com/campaign360"
+},
+{
+"text": "Schedule",
+"href": "https://votejohnwahl.com/scheduling-request/"
+},
+{
+"text": "Volunteer",
+"href": "https://votejohnwahl.com/volunteer/"
+},
+{
+"text": "Volunteer today",
+"href": "https://votejohnwahl.com/volunteer/"
+},
+{
+"text": "[image: John Wahl for Lieutenant Governor]",
+"href": "https://votejohnwahl.com/"
+}
 ]

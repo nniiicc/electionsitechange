@@ -1,9 +1,10 @@
-Lansing's Don Johnson Fieldhouse gets big boost for renovations in state budget
-https://www.lansingstatejournal.com/story/news/education/2025/10/15/lansing-don-johnson-fieldhouse-state-budget-renovations/86687421007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=undefined&gca-ft=0&gca-ds=sophi
-'Unbought and unbossed': Lansing Sen.
-Sarah Anthony talks groundbreaking leadership role, congressional run
-https://www.lansingstatejournal.com/story/news/local/2023/03/06/lansing-senator-sarah-anthony-congressional-candidacy-appropriations-committee/69958611007/
-Anthony: It’s time for a bipartisan solution to lower property taxes
-https://www.detroitnews.com/story/opinion/2026/02/12/anthony-its-time-for-a-bipartisan-solution-to-lower-property-taxes/88628447007/?gnt-cfr=1&gca- cat=p&gca-uir=false&gca-epti=z116326p119850c119850u117726e009200v116326&gca-ft=426&gca-ds=sophi
-Michigan Senate OKs medical debt plan to cap interest, limit collections
-https://bridgemi.com/michigan-government/michigan-senate-oks-medical-debt-plan-to-cap-interest-limit-collections/
+top of page Home Meet Sarah Priorities Endorsements Events News Media Volunteer More Use tab to navigate through the menu items.
+DONATE DONATE DONATE LATEST NEWS Lansing's Don Johnson Fieldhouse gets big boost for renovations in state budget https://www.lansingstatejournal.com/story/news/education/2025/10/15/lansing-don-johnson-fieldhouse-state-budget-renovations/86687421007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=undefined&gca-ft=0&gca-ds=sophi 'Unbought and unbossed': Lansing Sen.
+Sarah Anthony talks groundbreaking leadership role, congressional run https://www.lansingstatejournal.com/story/news/local/2023/03/06/lansing-senator-sarah-anthony-congressional-candidacy-appropriations-committee/69958611007/ Anthony: It’s time for a bipartisan solution to lower property taxes https://www.detroitnews.com/story/opinion/2026/02/12/anthony-its-time-for-a-bipartisan-solution-to-lower-property-taxes/88628447007/?gnt-cfr=1&gca- cat=p&gca-uir=false&gca-epti=z116326p119850c119850u117726e009200v116326&gca-ft=426&gca-ds=sophi Michigan Senate OKs medical debt plan to cap interest, limit collections https://bridgemi.com/michigan-government/michigan-senate-oks-medical-debt-plan-to-cap-interest-limit-collections/ Featured Posts The Militias Against Masks Will Michigan Democrats Really Turn Out After a Virtual Campaign?
+Recent Posts Lansing's Don Johnson Fieldhouse gets big boost for renovations in state budget 'Unbought and unbossed': Lansing Sen.
+Sarah Anthony talks groundbreaking leadership role, congressional run Anthony: It’s time for a bipartisan solution to lower property taxes Michigan Senate OKs medical debt plan to cap interest, limit collections EGGERT: Democrats name next chair of Senate budget committee, other leadership posts LSJ: Dems claim two of three Lansing-area Senate seats STATE SEN-ELECT SARAH ANTHONY ELECTION NIGHT REMARKS Gun violence is preventable.
+Four steps Lansing could take to save lives.
+Sarah Anthony: For Michigan, jobs and justice hinge on climate action The Militias Against Masks Join the Movement We love our volunteers!
+Sign up today!
+Support Our Volunteers $10 Lunch for a Volunteer $25 T-Shirt For a Volunteer $60 100 Stamps You can also donate by mail.
+Checks payable to Sarah Anthony for State Senate PO Box 12267 Lansing, MI 48901 Submit Paid for by Sarah Anthony for State Senate | PO Box 12267 Lansing, MI 48901 | WebSite © # bottom of page

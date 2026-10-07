@@ -1,4 +1,5 @@
-Our country is reeling from watching the brutal and public murder of Charlie Kirk – a man who literally talked the talk and walked the walk, speaking his convictions and living them unapologetically.
+Home About News Priorities and Issues Videos Endorsements Get Involved Contact Us Endorse Senator Bob Hall!
+CHR $ Order and Chaos: Reweaving the Fabric of Belonging: In Memory of Charlie Kirk October 14, 2025 Tweet Our country is reeling from watching the brutal and public murder of Charlie Kirk – a man who literally talked the talk and walked the walk, speaking his convictions and living them unapologetically.
 Charlie was more than a political figure; he was a devoted husband, a loving father, a loyal son, and a mentor to countless young people across the United States and the world.
 He championed Judeo-Christian conservative principles, the sanctity of free speech, and the enduring relevance of faith in public life.
 His boldness in confronting cultural myths and challenging progressive orthodoxy made him a target to the Marxists and deranged—but also a symbol of unwavering conviction to a faith in God, the constitutional right of free speech in open debate, and the free exchange of ideas.
@@ -66,3 +67,7 @@ We honor him not only by mourning his loss but by rebuilding the cultural founda
 Let us not allow his voice to be silenced in vain.
 Let us speak truth, pursue belonging, and rebuild a society where people are known, needed, and never forgotten.
 We all should emulate Charlie Kirk’s beliefs and passion for Jesus and the Biblical principles on which America was founded.
+Get the Capitol Hall Report Email Address Zip Code Keep me informed Thanks for subscribing! * Valid Email Address required.
+Home CHR About Priorities and Issues Endorsements News Trusted Conservative Get Involved Get Involved Endorse Senator Hall!
+Contact Us Privacy $ Email Address Zip Code Sign up Thanks for subscribing! * Valid Email Address required Political Advertising Paid for by Texans for Bob Hall, P.O.
+Box 513, Canton, Texas 75103, Mike Slaton, Treasurer Site by Vici Media Group

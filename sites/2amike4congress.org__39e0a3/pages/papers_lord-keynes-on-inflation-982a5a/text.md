@@ -1,25 +1,24 @@
-Lord Keynes Tells the Truth About Inflation
-The hidden inflation tax, indicted by the unlikeliest of witnesses.
+MICHAEL STODDARD Libertarian · Utah 3rd District Issues Meet Mike Papers Library News Volunteer $ Melting Dollar Chip in → Chip in → Menu MICHAEL STODDARD ✕ 01 Issues 02 Meet Mike 03 Papers 04 Library 05 News 06 Volunteer $ Melting Dollar Chip in → ← All position papers Michael Stoddard for Congress · 3rd District Supporting paper Sound Money Lord Keynes Tells the Truth About Inflation PDF Download the full paper ↓ ↗ Share paper Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options… Plank Restore Sound Money.
+Make America Affordable Again! → · Paper 6 / 6 Executive summary The hidden inflation tax, indicted by the unlikeliest of witnesses.
 John Maynard Keynes — architect of the modern activist state, and no friend of hard money — warned in 1919 that by debauching the currency a government can 'confiscate, secretly and unobserved, an important part of the wealth of its citizens,' enriching the connected while impoverishing the worker and the saver, and overturning the foundations of society in a way 'not one man in a million is able to diagnose.' If even Keynes saw it, the inflation tax is no goldbug's hobbyhorse — it is the warning at the center of this whole plank.
-Everything I have to say about money, a man who was no friend of sound money said better a century ago.
+Papers in this plank Restore Sound Money.
+Make America Affordable Again! · 6 papers Main Ending the Hidden Tax and Restoring Honest Money → Support The Coinage Act of 1792, Annotated → Support Gresham's Law as a Price Control → Support The 15-to-1 Mistake → Support Money & Banking: An Indictment → Support Lord Keynes Tells the Truth About Inflation — you're reading this Everything I have to say about money, a man who was no friend of sound money said better a century ago.
 John Maynard Keynes — the principal architect of the modern activist state — wrote the two paragraphs below in The Economic Consequences of the Peace in 1919.
 They are offered precisely because their author cannot be dismissed as a goldbug or a partisan of hard money.
 I ask you only to read them.
 Lenin is said to have declared that the best way to destroy the Capitalist System was to debauch the currency.
 By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens.
-By this method they not only confiscate, but they confiscate arbitrarily; and, while the process impoverishes many, it actually enriches some.
+By this method they not only confiscate, but they confiscate arbitrarily ; and, while the process impoverishes many, it actually enriches some.
 The sight of this arbitrary rearrangement of riches strikes not only at security, but at confidence in the equity of the existing distribution of wealth.
 Those to whom the system brings windfalls, beyond their deserts and even beyond their expectations or desires, become “profiteers,” who are the object of the hatred of the bourgeoisie, whom the inflationism has impoverished, not less than of the proletariat.
 As the inflation proceeds and the real value of the currency fluctuates wildly from month to month, all permanent relations between debtors and creditors, which form the ultimate foundation of capitalism, become so utterly disordered as to be almost meaningless; and the process of wealth-getting degenerates into a gamble and a lottery.
 Lenin was certainly right.
 There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency.
-The process engages all the hidden forces of economic law on the side of destruction, and does it in a manner which not one man in a million is able to diagnose.
-— John Maynard Keynes, The Economic Consequences of the Peace (1919), 235–236
-“Lord Keynes was an Optimist.” — Mike Stoddard
-That is the whole case.
+The process engages all the hidden forces of economic law on the side of destruction, and does it in a manner which not one man in a million is able to diagnose. — John Maynard Keynes, The Economic Consequences of the Peace (1919), 235–236 “Lord Keynes was an Optimist.” — Mike Stoddard That is the whole case.
 Inflation is a tax no one votes for — levied in the dark, falling hardest on the worker, the saver, and the old.
 The specific reforms it calls for — honest measurement of the currency’s loss, full indexation of the tax code, an end to financing deficits by debasing the dollar, and the freedom to hold honest money — are set out in my companion papers.
 This page is only the warning.
 Keynes, of all people, gave it.
 I mean to heed it.
-Restore Sound Money Now! — Sound-Money Mike
+Restore Sound Money Now! — Sound-Money Mike Go deeper Books, articles & talks on sound money Open the reading list → Previous ← Money & Banking: An Indictment Next paper Restoring the Constitutional Militia and the People's Forgotten Foundation → MICHAEL STODDARD FOR CONGRESS '26 A sound-money campaign for Utah's 3rd District — a C.P.A. who has spent his career auditing government and studying how honest money protects working families.
+Campaign Issues Meet Mike Position Papers News Volunteer Get involved Donate Volunteer Press inquiries HQ 515 Commerce Rd Orem, Utah 84058 info@2amike4congress.org 801-899-9569 © # Michael Stoddard for Congress · Paid for by the Committee to Elect Michael Stoddard to Congress f 𝕏 ↗ Share this campaign Share ✕ ⧉ Copy link 𝕏 Post on X f Share on Facebook ✉ Email a link ↗ More options…

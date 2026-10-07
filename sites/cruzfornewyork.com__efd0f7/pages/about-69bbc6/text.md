@@ -1,5 +1,4 @@
-Meet Catalina Cruz
-Catalina is leading the way to a brighter future for all New Yorkers.
+0 Skip to Content Home About Priorities Endorsements News Volunteer English Donate Open Menu Close Menu Home About Priorities Endorsements News Volunteer English Donate Open Menu Close Menu Home About Priorities Endorsements News Volunteer English Back Donate Meet Catalina Cruz Catalina is leading the way to a brighter future for all New Yorkers.
 Catalina is a DREAMer, an attorney, and an advocate.
 She is a proven leader with a remarkable track record of winning rights and resources for our communities.
 She was first elected in 2018 to represent our community's 39th Assembly District (Corona, Elmhurst, Jackson Heights, and now also Rego Park, Maspeth).
@@ -15,3 +14,4 @@ She holds a BA from the John Jay College of Criminal Justice and a JD from the C
 As a licensed attorney, she has dedicated her career to advocating for tenant protections, immigration reform, and workers' rights in both nonprofit and government sectors.
 The work to protect our families and ensure their future has never been more important and Catalina is leading the way.
 Join us to re-elect Catalina to the Assembly as she blazes a new path for us all!
+Paid for by Catalina for NY Contact Us info@CruzforNewYork.com PO Box 353 Jackson Heights, NY 11372 Donate Volunteer News

@@ -1,8 +1,7 @@
-In The News: The cyber threat is already here.
+Skip to content Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate Donate Join Vince Menu Home About Issues Gallery News Posts Press Releases In the News Contact Join Us Donate In The News: The cyber threat is already here.
 It’s time to answer the wake-up call.
-July 22, 2026
-By Congressman Vince Fong
-In June, an Iranian-linked hacker group allegedly targeted water systems in Bakersfield, Visalia and Chico.
+July 22, 2026 “The cyber threat is already here.
+It’s time to answer the wake-up call.” By Congressman Vince Fong In June, an Iranian-linked hacker group allegedly targeted water systems in Bakersfield, Visalia and Chico.
 Think about that for a moment.
 Not a major financial hub.
 Not Silicon Valley.
@@ -21,3 +20,4 @@ One flaw had remained hidden in a widely used system for 27 years.
 Another survived more than five million automated tests without detection.
 American AI labs assess that China is only months behind in developing comparable capabilities.
 That window is closing quickly, and the implications for our critical infrastructure are profound.
+Continue reading at at www.Bakersfield.com Share on Facebook Facebook 𝕏 Share on X X Share on Linkedin Linkedin Donate Join Us Stay up to date Email Stay Connected, Join the Newsletter Email Donate Join Us Paid for by Vince Fong for Congress Privacy Policy | Terms of Use Scroll To Top

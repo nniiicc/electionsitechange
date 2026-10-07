@@ -1,6 +1,4 @@
-The Future of Idaho's Water
-March 14, 2024
-During this legislative session, we supported legislation that updates a critical boundary in Idaho’s Eastern Snake Plain Aquifer (ESPA).
+Skip to main content Jerald Raymond Menu About Voting Record Endorsements Updates Donate Volunteer Search the site Expand Search The Future of Idaho's Water March 14, 2024 During this legislative session, we supported legislation that updates a critical boundary in Idaho’s Eastern Snake Plain Aquifer (ESPA).
 This boundary, also known as Rule 50, defines an area of common groundwater and creates an administrative border for the Department of Water Resources to administer water rights conjunctively.
 The current line reflects the best available science in the mid-1990s.
 Today, we know a lot more about the ESPA.
@@ -42,3 +40,4 @@ Sen.
 Julie VanOrden represents District 30 (Bingham and Butte counties).
 Rep.
 Stephanie Mickelsen represents District 32 (Bonneville County).
+Home Updates The Future of Idaho's Water House Seat 31A Jerald Raymond Paige Nelson - Treasurer © # Back to top

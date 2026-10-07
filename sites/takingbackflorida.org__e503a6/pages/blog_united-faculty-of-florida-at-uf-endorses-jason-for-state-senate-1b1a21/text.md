@@ -1,5 +1,4 @@
-United Faculty of Florida at UF endorses Jason for State Senate
-United Faculty of Florida-University of Florida (UFF-UF) is proud to endorse Jason Bellamy-Fults for Florida State Senate District 6.
+0 Skip to Content About Jason Platform Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Get Involved Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE Open Menu Close Menu About Jason Platform Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Get Involved Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE Open Menu Close Menu About Jason Folder: Platform Back Agriculture Amendment 3 Data Centers Elder Care Energy Healthcare Surveillance Folder: Get Involved Back Volunteer Tell Your Story Campaign Calendar Printable Handout Endorsements Blog Contact DONATE United Faculty of Florida at UF endorses Jason for State Senate Jul 1 Written By Jason Bellamy-Fults United Faculty of Florida-University of Florida (UFF-UF) is proud to endorse Jason Bellamy-Fults for Florida State Senate District 6.
 Jason Bellamy-Fults is an educator, union leader, and lifelong advocate for working people in Gainesville and beyond.
 As a member of our own campus community, Jason understands firsthand the challenges facing Florida's workers and their families, and he understands the unprecedented challenges that UF faculty currently face in the fight for quality higher education.
 He is a proven fighter against efforts to weaken faculty unions and to take local control away from our community.
@@ -16,6 +15,14 @@ He will be a strong advocate for UF faculty, staff, and students in the Florida 
 We encourage all UFF-UF members, their families, and all working people to support Jason Bellamy-Fults for State Senate.
 Visit www.takingbackflorida.org to learn more, donate, and volunteer for Jason Bellamy-Fults for State Senate District 6.
 Together, we can elect a leader who will fight for us, and help build a Florida that works for everyone.
-In Solidarity,
-Michelle Nolan and Meera Sitharam, Co-Presidents
-United Faculty of Florida-University of Florida (UFF-UF)
+In Solidarity, Michelle Nolan and Meera Sitharam, Co-Presidents United Faculty of Florida-University of Florida (UFF-UF) Jason Bellamy-Fults Previous Previous Bellamy-Fults campaign joins the majority of Floridians in calling for Medicaid expansion Next Next Jason receives statewide endorsement from unions representing Florida educators Paid for by Jason Bellamy-Fults, Democrat for State Senate D-6 806 NW 33rd Ave.
+Gainesville, FL 32609 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+First Name Last Name Email Address Subscribe Thanks for contacting the Jason Bellamy-Fults for Senate District 6 campaign.
+Interested volunteers can fill out this form .
+Jason has a proven track record of community service and advocacy for working Floridians.
+We believe that his background and demonstrated civic leadership will put District 6 residents back in the driver's seat and help end the special interest domination of our state capitol.
+Together, we can create thriving, affordable Florida communities where everyone is valued.
+We want to hear from you!
+Let us know what kind of Florida you want to live in and what actions you want to see from our state leaders.
+We'll be in touch, Jason Bellamy-Fults for SD6 Donate

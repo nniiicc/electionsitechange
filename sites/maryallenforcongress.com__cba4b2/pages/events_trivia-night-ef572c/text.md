@@ -1,11 +1,5 @@
-Back to All Events
-Let's have a fun evening of friendly competition together at Trivia Night!
+0 Skip to Content Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Open Menu Close Menu Meet Mary Press Releases Know Your Vote Priorities Events Merch Donate Back to All Events Trivia Night Monday, April 20, 2026 5:30 PM 8:30 PM Myriad Brewing Company 8245 High Pointe Drive Newburgh, IN, 47630 United States (map) Google Calendar ICS Let's have a fun evening of friendly competition together at Trivia Night!
 Whether you want to compete or just support the campaign and hang out.
-A donation of $25 is requested.
-Previous
-Previous
-April 18
-Knox County Canvassing - Phonebanking is also an option.
-Next
-Next
-April 25
+A donation of $# is requested.
+Source: https://secure.ngpvan.com/ur35uB3SbEiDBG5oH3_GWA2 Previous Previous April 18 Knox County Canvassing - Phonebanking is also an option.
+Next Next April 25 Meet Mary at the Library - Owen Co REGISTER TO VOTE Register Take BAC Learn More Paid for by Mary Allen for Congress VOLUNTEER Sign up Donate ActBlue Checks payable to: Mary Allen for Congress PO Box 202 Evansville, IN 47702 Contact mary@maryallenforcongress.com (812) 202-6080

@@ -1,39 +1,25 @@
-Change I need.
+home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate home plan non-Profit Initiatives about why the 7th? why me? contact blog Store volunteer donate Change I need.
 Change we all deserve.
 Lean on Me, Chicago.
 Lien on Me.
-INDEPENDENT
-Progressive.
+INDEPENDENT Progressive.
 Centrist.
 Egalitarian.
-Compassionate-
-Secular Humanist.
+Compassionate- Secular Humanist.
 Disabled.
 Poor.
-Lien Choi
-he/him
-For all WORKING people
-Campaign Finance Reform
-Universal Healthcare
-Global Climate Change
-Universal Basic Income
-Freedom and Access to Opportunities, Human Rights and Choice for all Americans
-Solid Plan
-Detailed
-Unlike other candidates, I have a solid and detailed plan to bring about the change we need.
+Lien Choi he/him For all WORKING people Campaign Finance Reform Universal Healthcare Global Climate Change Universal Basic Income Freedom and Access to Opportunities, Human Rights and Choice for all Americans Solid Plan Detailed Unlike other candidates, I have a solid and detailed plan to bring about the change we need.
 I am willing to bypass longstanding broken systems if need be by promoting and using all of my resources to invest in non-profit organizations to fill in the enormous gaps in social and environmental justice and basic services.
 I would demand international cooperation to resolve major crises (global climate change, renewable energy, migrant, etc.).
 For example a North American Energy Agreement between Mexico, the US and Canada.
 Most of all, the dialog has to start regarding changing of "norms" to bring about dire services and serious change.
-Unity
-I am a progressive-centrist who strongly values diverse perspectives and the importance of listening to others.
+Unity I am a progressive-centrist who strongly values diverse perspectives and the importance of listening to others.
 Through open dialogue and genuine understanding, we can recognize that we have more in common than not.
 It is only through unity and collaboration that we can strive for policies and solutions that will truly benefit everyone.
 By embracing the power of inclusivity and recognizing the worth of each individual, we can create a community where all opinions are respected and considered.
 Together, we can work towards addressing the true needs and concerns that plague our society, and lift EVERYONE up.
 Starting here in the 7th.
-Independent
-I am not bound by party politics or special interests and will focus solely on representing your interests.
+Independent I am not bound by party politics or special interests and will focus solely on representing your interests.
 I WILL NOT TAKE ONE PENNY FROM SPECIAL INTEREST.
 I am sick of being the victim.
 It is time to put someone in office who is going through the struggle, who knows the struggle.
@@ -154,9 +140,5 @@ VOTE INDEPENDENT!
 Thank you for your time and consideration.
 I hope you have a wonderful day.
 As an independent candidate, I am beholden to no one but you.
-With my unique life experience, perspectives and detailed initiatives, I will bring the change we all desperately need and deserve.
-Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
-Matthew 25:40
-Contact me
-Please feel free to inquire for campaign details or participation
-Lienchoi.IL@gmail.com
+With my unique life experience, perspectives and detailed initiatives, I will bring the change we all desperately need and deserve. donate help Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.
+Matthew 25:40 Contact me Please feel free to inquire for campaign details or participation Lienchoi.IL@gmail.com Your name Your email* Message* Submit

@@ -1,11 +1,38 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://youtube.com/live/NtuomhcdZkE?si=7CZ3GiLwdM6QTq6L&t=14660",
-"https://youtube.com/live/NtuomhcdZkE?t=18520s",
-"https://youtube.com/live/NtuomhcdZkE?t=19095s"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "here",
+"href": "https://www.youtube.com/live/NtuomhcdZkE?si=7CZ3GiLwdM6QTq6L&t=14660"
+},
+{
+"text": "here",
+"href": "https://www.youtube.com/live/NtuomhcdZkE?t=18520s"
+},
+{
+"text": "moving speech",
+"href": "https://www.youtube.com/live/NtuomhcdZkE?t=19095s"
+}
 ]

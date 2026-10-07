@@ -1,9 +1,34 @@
 [
-"http://facebook.com/kimbeckerforct",
-"http://instagram.com/kimbeckerforct",
-"https://kimbeckerforct.com/",
-"https://kimbeckerforct.com/about-kim",
-"https://kimbeckerforct.com/endorsements",
-"https://kimbeckerforct.com/volunteer",
-"https://kimbeckerforct.com/voter-information"
+{
+"text": "About Kim",
+"href": "https://www.kimbeckerforct.com/about-kim"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kimbeckerforct.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kimbeckerforct.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kimbeckerforct.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://www.kimbeckerforct.com/voter-information"
+},
+{
+"text": "[image: Kim-Becker-for-CT-logo]",
+"href": "https://www.kimbeckerforct.com"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/kimbeckerforct"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/kimbeckerforct"
+}
 ]

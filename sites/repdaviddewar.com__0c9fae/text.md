@@ -1,6 +1,8 @@
-About David
+Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote About David David Dewar is on a mission to bring truth & transparency to how political office holders are voting on policies.
+His main weapon for uncovering their record is at the link (SCROLLCARD ).
+Many politicians have not been honest with their constituents and voted differently than their campaign promise.
 David Dewar grew up in the south suburbs of Chicago (Calumet Park) and moved to Chicago's Mt.
-Greenwood community 40 years ago.
+Greenwood community #ago.
 He started his career in real estate investment properties and foreclosures in the 80s and 90s.
 David also worked in the mortgage industry as a mortgage broker and as a real estate broker to match up with his real estate investments.
 In the mid-90s David transitioned to helping properly cover families in the life insurance industry, his genuine passion is helping to educate and protect families.
@@ -14,7 +16,8 @@ David is now running as a TRUMP KIRK MAGA RED INTERNATIONAL MOVEMENT within the 
 David's motto is "WE THE PEOPLE, NOT THEY THE POLITICIANS" David will put policies over party politics and put the "C" back in "Common sense” laws for the community and the State of Illinois.
 David's genuine passion is to help educate and protect families just like his business practice.
 He vows to do the same as the next Illinois Representative in the 35th District!
-We the People, Not They the Politicians
-Dave the DEWAR (DOER), Gets it Done!
-Issue Comparison
-Upcoming Events!
+We the People, Not They the Politicians Dave the DEWAR (DOER), Gets it Done!
+Issue Comparison Upcoming Events!
+District Map Lets Support Police and REPEAL the Safe-T-Act House Bill 3653!
+Sign Up for Updates First name Last name Email Zip/Postal Message Thanks for signing up!
+Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Close Menu

@@ -1,19 +1,78 @@
 [
-"http://al.com/news/index.ssf/2017/09/23_violations_found_at_mobile.html",
-"http://heritage.org/marriage-and-family/report/adoption-foster-care-and-conscience-protection",
-"http://lfo.state.al.us/",
-"https://campaignpartner.com/",
-"https://clydechambliss.com/",
-"https://clydechambliss.com/about_clyde",
-"https://clydechambliss.com/contact",
-"https://clydechambliss.com/home",
-"https://clydechambliss.com/in-clydes-own-words",
-"https://clydechambliss.com/issues",
-"https://clydechambliss.com/legislation",
-"https://clydechambliss.com/news",
-"https://facebook.com/ClydeChambliss",
-"https://instagram.com/senator.clyde.chambliss?hl=en",
-"https://legiscan.com/AL/text/HB24/2017",
-"https://twitter.com/search?q=clyde_chambliss&src=typd",
-"https://usatoday.com/story/opinion/2018/02/26/if-nra-owns-republicans-planned-parenthood-owns-democrats-christian-schneider-column/372679002"
+{
+"text": "About Clyde",
+"href": "https://www.clydechambliss.com/about_clyde"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Child Placing Inclusion Act",
+"href": "https://legiscan.com/AL/text/HB24/2017"
+},
+{
+"text": "Contact",
+"href": "https://www.clydechambliss.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.clydechambliss.com/home"
+},
+{
+"text": "In Clyde's Own Words",
+"href": "https://www.clydechambliss.com/in-clydes-own-words"
+},
+{
+"text": "Legislation",
+"href": "https://www.clydechambliss.com/legislation"
+},
+{
+"text": "News",
+"href": "https://www.clydechambliss.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.clydechambliss.com/issues"
+},
+{
+"text": "Senate Bill 207",
+"href": "mailto:http://alisondb.legislature.state.al.us/ALISON/SearchableInstruments/2017RS/PrintFiles/SB207-int.pdf"
+},
+{
+"text": "[image]",
+"href": "https://www.clydechambliss.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/search?q=clyde_chambliss&src=typd"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ClydeChambliss/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/senator.clyde.chambliss/?hl=en"
+},
+{
+"text": "clyde.chambliss@alsenate.gov",
+"href": "mailto:clyde.chambliss@alsenate.gov"
+},
+{
+"text": "died after being trapped",
+"href": "http://www.al.com/news/index.ssf/2017/09/23_violations_found_at_mobile.html"
+},
+{
+"text": "spent over $50 million",
+"href": "https://www.usatoday.com/story/opinion/2018/02/26/if-nra-owns-republicans-planned-parenthood-owns-democrats-christian-schneider-column/372679002/"
+},
+{
+"text": "www.lfo.state.al.us",
+"href": "http://www.lfo.state.al.us"
+},
+{
+"text": "“Adoption, Foster Care, and Conscience Protection,”",
+"href": "http://www.heritage.org/marriage-and-family/report/adoption-foster-care-and-conscience-protection#_ftn27"
+}
 ]

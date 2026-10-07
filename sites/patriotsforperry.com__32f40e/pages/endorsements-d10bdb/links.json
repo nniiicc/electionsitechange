@@ -1,16 +1,58 @@
 [
-"https://facebook.com/ScottPerryforCongress",
-"https://ignite-strategies.com/",
-"https://instagram.com/patriotsforperry",
-"https://patriotsforperry.com/",
-"https://patriotsforperry.com/about",
-"https://patriotsforperry.com/contact",
-"https://patriotsforperry.com/endorsements",
-"https://patriotsforperry.com/issues",
-"https://patriotsforperry.com/terms-and-conditions",
-"https://patriotsforperry.com/volunteer",
-"https://patriotsforperry.com/voting",
-"https://secure.winred.com/ScottPerry/donate",
-"https://twitter.com/patriotsperry",
-"https://youtu.be/9yc1PobfXUw"
+{
+"text": "About",
+"href": "https://patriotsforperry.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://patriotsforperry.com/contact/"
+},
+{
+"text": "DESIGN BY IGNITE STRATEGIES",
+"href": "https://ignite-strategies.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/ScottPerry/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://patriotsforperry.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/ScottPerryforCongress/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/patriotsforperry/"
+},
+{
+"text": "Issues",
+"href": "https://patriotsforperry.com/issues/"
+},
+{
+"text": "SEE OUR PRIVACY POLICY | TERMS AND CONDITIONS",
+"href": "https://patriotsforperry.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://patriotsforperry.com/volunteer/"
+},
+{
+"text": "Voting",
+"href": "https://patriotsforperry.com/voting/"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/patriotsperry"
+},
+{
+"text": "Youtube",
+"href": "https://youtu.be/9yc1PobfXUw"
+},
+{
+"text": "[image: Patriots for Perry Website] [image: Patriots for Perry Website]",
+"href": "https://patriotsforperry.com/"
+}
 ]

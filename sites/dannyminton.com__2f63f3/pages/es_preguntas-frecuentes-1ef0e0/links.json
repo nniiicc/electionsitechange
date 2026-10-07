@@ -1,30 +1,162 @@
 [
-"https://ballotpedia.org/Danny_Minton",
-"https://ballotpedia.org/Jake_Ellzey",
-"https://ballotpedia.org/Texas'_6th_Congressional_District_election,_2026",
-"https://dannyfortexas.com/es",
-"https://dannyfortexas.com/es/como-votar",
-"https://dannyfortexas.com/es/contacto",
-"https://dannyfortexas.com/es/mi-historia",
-"https://dannyfortexas.com/es/preguntas-frecuentes",
-"https://dannyfortexas.com/es/prioridades",
-"https://dannyfortexas.com/es/privacidad",
-"https://dannyfortexas.com/es/respaldos",
-"https://dannyfortexas.com/es/terminos",
-"https://dannyfortexas.com/es/voluntarios",
-"https://dannyfortexas.com/faq",
-"https://dannyfortexas.com/vi/cau-hoi-thuong-gap",
-"https://data.capitol.texas.gov/dataset/planc2333",
-"https://facebook.com/profile.php?id=61579091540344",
-"https://instagram.com/dannyfortexas",
-"https://sacurrent.com/news/texas-news/more-than-1-2-million-texans-voter-registrations-are-suspended",
-"https://secure.actblue.com/donate/danny-minton-2",
-"https://sos.state.tx.us/elections/voter/important-election-dates.shtml",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://tiktok.com/@dannyfortexas",
-"https://usnews.com/news/us/articles/2026-09-02/fact-focus-texans-listed-as-suspense-voters-can-still-cast-a-ballot-if-they-confirm-their-address",
-"https://vote411.org/texas",
-"https://votetexas.gov/",
-"https://votetexas.gov/voting/need-id.html",
-"https://youtube.com/@Dannyfortexas/shorts"
+{
+"text": "--Días:--Horas:--Minutos:--Segundospara el Día de la Elección",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "Ballotpedia: Danny Minton",
+"href": "https://ballotpedia.org/Danny_Minton"
+},
+{
+"text": "Ballotpedia: Jake Ellzey",
+"href": "https://ballotpedia.org/Jake_Ellzey"
+},
+{
+"text": "Ballotpedia: elección del Distrito 6 de Texas, 2026",
+"href": "https://ballotpedia.org/Texas'_6th_Congressional_District_election,_2026"
+},
+{
+"text": "Comuníquese con la campaña",
+"href": "https://www.dannyfortexas.com/es/contacto/"
+},
+{
+"text": "Consejo Legislativo de Texas: plan PLANC2333",
+"href": "https://data.capitol.texas.gov/dataset/planc2333"
+},
+{
+"text": "Contacto",
+"href": "https://www.dannyfortexas.com/es/contacto/"
+},
+{
+"text": "Cómo Votar",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "Danny MintonforCongressDistrict 6",
+"href": "https://www.dannyfortexas.com/es/"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/dannyfortexas"
+},
+{
+"text": "English",
+"href": "https://www.dannyfortexas.com/faq/"
+},
+{
+"text": "Español",
+"href": "https://www.dannyfortexas.com/es/preguntas-frecuentes/"
+},
+{
+"text": "Inicio",
+"href": "https://www.dannyfortexas.com/es/"
+},
+{
+"text": "Inscríbase como voluntario",
+"href": "https://www.dannyfortexas.com/es/voluntarios/"
+},
+{
+"text": "Mi Historia",
+"href": "https://www.dannyfortexas.com/es/mi-historia/"
+},
+{
+"text": "Oficinas de elecciones de los condados del Distrito 6",
+"href": "https://www.dannyfortexas.com/es/como-votar/#counties"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.dannyfortexas.com/es/privacidad/"
+},
+{
+"text": "Preguntas",
+"href": "https://www.dannyfortexas.com/es/preguntas-frecuentes/"
+},
+{
+"text": "Prioridades",
+"href": "https://www.dannyfortexas.com/es/prioridades/"
+},
+{
+"text": "Respaldos",
+"href": "https://www.dannyfortexas.com/es/respaldos/"
+},
+{
+"text": "San Antonio Current: más de 1.2 millones de registros suspendidos",
+"href": "https://www.sacurrent.com/news/texas-news/more-than-1-2-million-texans-voter-registrations-are-suspended/"
+},
+{
+"text": "Secretaría de Estado de Texas: fechas importantes",
+"href": "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"
+},
+{
+"text": "Secretaría de Estado de Texas: ¿Estoy registrado?",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Tiếng Việt",
+"href": "https://www.dannyfortexas.com/vi/cau-hoi-thuong-gap/"
+},
+{
+"text": "Términos de SMS",
+"href": "https://www.dannyfortexas.com/es/terminos/"
+},
+{
+"text": "VOTE411 (League of Women Voters Education Fund)",
+"href": "https://www.vote411.org/texas"
+},
+{
+"text": "Vea la guía completa para votar",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "Vea las seis prioridades",
+"href": "https://www.dannyfortexas.com/es/prioridades/"
+},
+{
+"text": "Verificación de AP: los votantes en suspensión sí pueden votar",
+"href": "https://www.usnews.com/news/us/articles/2026-09-02/fact-focus-texans-listed-as-suspense-voters-can-still-cast-a-ballot-if-they-confirm-their-address"
+},
+{
+"text": "Verifique si su dirección está en el Distrito 6",
+"href": "https://www.dannyfortexas.com/es/#district"
+},
+{
+"text": "Voluntarios",
+"href": "https://www.dannyfortexas.com/es/voluntarios/"
+},
+{
+"text": "Votar",
+"href": "https://www.dannyfortexas.com/es/como-votar/"
+},
+{
+"text": "VoteTexas.gov (Secretaría de Estado de Texas)",
+"href": "https://www.votetexas.gov/"
+},
+{
+"text": "VoteTexas.gov: identificación requerida",
+"href": "https://www.votetexas.gov/voting/need-id.html"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61579091540344"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@dannyfortexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Dannyfortexas/shorts"
+},
+{
+"text": "district6@dannyfortexas.com",
+"href": "mailto:district6@dannyfortexas.com"
+},
+{
+"text": "¿Distrito 6?",
+"href": "https://www.dannyfortexas.com/es/#district"
+}
 ]

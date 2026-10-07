@@ -1,14 +1,70 @@
 [
-"http://get-involved/",
-"http://williamsforiowa.com/",
-"http://williamsforiowa.com/about",
-"http://williamsforiowa.com/carroll-county-republican-party-chair-brings-fiscally-conservative-approach",
-"http://williamsforiowa.com/contact",
-"http://williamsforiowa.com/contribute",
-"http://williamsforiowa.com/get-involved",
-"http://williamsforiowa.com/news",
-"http://williamsforiowa.com/priorities",
-"http://williamsforiowa.com/veteran-local-republican-williams-seeks-senate-seat",
-"https://facebook.com/Williams-for-Iowa-105310477673365",
-"https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+{
+"text": "ABOUT",
+"href": "http://williamsforiowa.com/about/"
+},
+{
+"text": "Absentee Ballot Request",
+"href": "https://sos.iowa.gov/elections/electioninfo/absenteeinfo.html"
+},
+{
+"text": "CONTACT",
+"href": "http://williamsforiowa.com/contact/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "http://williamsforiowa.com/contribute"
+},
+{
+"text": "Carroll County Republican Party Chair Brings Fiscally Conservative Approach To 6th District Senate Campaign",
+"href": "http://williamsforiowa.com/carroll-county-republican-party-chair-brings-fiscally-conservative-approach/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Williams-for-Iowa-105310477673365"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://get-involved"
+},
+{
+"text": "GET INVOLVED",
+"href": "http://williamsforiowa.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "http://williamsforiowa.com/"
+},
+{
+"text": "NEWS",
+"href": "http://williamsforiowa.com/news/"
+},
+{
+"text": "PRIORITIES",
+"href": "http://williamsforiowa.com/priorities/"
+},
+{
+"text": "Read More »",
+"href": "http://williamsforiowa.com/carroll-county-republican-party-chair-brings-fiscally-conservative-approach/"
+},
+{
+"text": "Read More »",
+"href": "http://williamsforiowa.com/veteran-local-republican-williams-seeks-senate-seat/"
+},
+{
+"text": "Veteran Local Republican Williams Seeks Senate Seat",
+"href": "http://williamsforiowa.com/veteran-local-republican-williams-seeks-senate-seat/"
+},
+{
+"text": "[image: carrollTimes]",
+"href": "http://williamsforiowa.com/veteran-local-republican-williams-seeks-senate-seat/"
+},
+{
+"text": "[image: kcim]",
+"href": "http://williamsforiowa.com/carroll-county-republican-party-chair-brings-fiscally-conservative-approach/"
+},
+{
+"text": "[image]",
+"href": "http://williamsforiowa.com/"
+}
 ]

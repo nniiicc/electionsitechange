@@ -1,5 +1,4 @@
-OHIO 36th District
-Donate Now
-Every responsible citizen should be concerned about the cost of healthcare.
-From pharmaceutical policies that have us paying more than the other countries to skyrocketing premiums and deductibles, this has to be a top priority.
-read more..
+OHIO 36th District Donate Now Home Common Sense Donate Contact Volunteer Home Common Sense Donate Contact Volunteer The Politics of Common Sense Home / Common Sense Common Sense Healthcare in Health Care Every responsible citizen should be concerned about the cost of healthcare.
+From pharmaceutical policies that have us paying more than the other countries to skyrocketing premiums and deductibles, this has to be a top priority. read more..
+Corruption (1) Education (1) Energy (1) Environment (1) Gun Safety (1) Health Care (1) Immigration (1) Labor (1) Wages (1) December 2025 (1) February 2025 (1) March 2024 (1) March 2020 (1) February 2020 (2) January 2020 (1) Home Common Sense Donate Contact Volunteer Paid for by the Charles J.
+Horn Campaign Committee Copyright # by Chuck For Ohio | Privacy Statement | Terms Of Use Back to top

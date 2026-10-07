@@ -1,10 +1,6 @@
-June 10, 2026 Maryland Matters By: Christine Condon and William J.
+Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up Contribute June 10, 2026 Home 2026 June Day: June 10, 2026 June 10, 2026 In The News Political notes: An AI adviser, a new hand on racing panel reins, lawmakers talk shop June 10, 2026 Maryland Matters By: Christine Condon and William J.
 Ford Gov.
 Wes Moore’s (D) newest senior adviser will aim to improve Maryland’s use of AI technology.
-Michael Boyce, who started as Moore’s senior adviser for responsible artificial intelligence …
-Continue Reading
-June 10, 2026 Dear Friend: In these crazy times, when elections and democracy are threatened, it is important that we all speak out and stay engaged.
-There are so many ways to vote-- choose the one that works best for …
-Continue Reading
-June 10 2026 Maryland Reporter by Cynthia Prairie ELECTIONS BOARD ISSUES GUIDELINE TO ADDRESS MAIL-IN BALLOT ERROR: Maryland’s five-member state election board unanimously approved a set of public guidelines Tuesday laying out how thousands of mail-in ballots will be tabulated for …
-Continue Reading
+Michael Boyce, who started as Moore’s senior adviser for responsible artificial intelligence … Continue Reading June 10, 2026 Legislative & Community Updates Make it count June 10, 2026 Dear Friend: In these crazy times, when elections and democracy are threatened, it is important that we all speak out and stay engaged.
+There are so many ways to vote-- choose the one that works best for … Continue Reading June 10, 2026 In The News State Roundup: Elections board issues guide to address mail-in ballot problem; Farmers seek federal aid after devastating freeze; 22,000 sign up for special butterfly ID June 10 2026 Maryland Reporter by Cynthia Prairie ELECTIONS BOARD ISSUES GUIDELINE TO ADDRESS MAIL-IN BALLOT ERROR: Maryland’s five-member state election board unanimously approved a set of public guidelines Tuesday laying out how thousands of mail-in ballots will be tabulated for … Continue Reading Home About Services & Resources Updates Email Sign Up By Authority: Citizens Helping Elect Cheryl Kagan (C.H.E.C.K.) Michael Frazier, Chair; Neil Burka, Treasurer. ©# Sen.
+Cheryl Kagan Search Home About Biography Legislative Session Overviews 9-1-1 Job Descriptions Services & Resources District 17 Casework Portal Scholarships Share Your Thoughts Community Resources Human Resources Links Updates Kagan in the News Community Updates Press Releases Email Sign Up (410) 841-3134 Cheryl.Kagan@senate.state.md.us

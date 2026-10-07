@@ -1,6 +1,5 @@
-Meet Dr.
-Pan
-Dr.
+0 Skip to Content About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate Open Menu Close Menu About Issues News Endorsements Store Get Involved Media Donate Meet Dr.
+Pan Dr.
 Richard Pan is a proud father, small business owner, educator, and public health advocate, who dedicated his life to building healthy communities, no matter how difficult the challenge.
 The son of Taiwanese immigrants, Dr.
 Pan realized the American Dream through hard work and a good public school education.
@@ -35,4 +34,8 @@ He will demand that science and facts guide federal policies on health care, pub
 Dr.
 Pan will strive to make the federal government work for the American people.
 Pitch in!
-Our campaign is nothing without the support of grassroots supporters like you — make a contribution today to power our campaign to the finish line!
+Our campaign is nothing without the support of grassroots supporters like you — make a contribution today to power our campaign to the finish line! $10 $100 $1000 $3500 Other ABOUT ‍ ‍ ISSUES ‍ ‍ NEWS ‍ ‍ ENDORSEMENTS ‍ GET INVOLVED ‍ PAID FOR BY Dr.
+Richard Pan for Congress Prefer to donate by check?
+2701 Del Paso Road, Ste 130-159 Sacramento CA 95835 © Copyright #.
+All Rights Reserved.
+SMS Opt-In | Terms & Conditions | Privacy Policy | Contact Us

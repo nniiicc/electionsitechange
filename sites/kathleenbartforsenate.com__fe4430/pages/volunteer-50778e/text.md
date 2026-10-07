@@ -1,4 +1,3 @@
-Volunteer
-with Us
-We’re building a community‑driven movement focused on accountability, protecting women and families, preventing fraud, and ensuring responsible use of taxpayer dollars.
+0 Skip to Content About Issues Donate Contact & Volunteer Open Menu Close Menu About Issues Donate Contact & Volunteer Open Menu Close Menu About Issues Donate Contact & Volunteer Volunteer with Us We’re building a community‑driven movement focused on accountability, protecting women and families, preventing fraud, and ensuring responsible use of taxpayer dollars.
 If you believe in these priorities, we’d love to have you involved — whether you can volunteer, spread the word, or simply stay informed.
+Prepared and paid for by campaign for Kathleen Bart for Senate 66 kathleenbartforsenate@Gmail.com

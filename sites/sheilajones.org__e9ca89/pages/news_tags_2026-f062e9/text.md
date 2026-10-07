@@ -1,21 +1,3 @@
-top of page
-DONATE
-Home
-About
-News & Announcements
-Community Awards
-District 60 | 2022 Race
-2022 Endorsements
-Events
-Free Services & Programs
-Contact
-All Posts
-Capitol News
-Community Event
-Legislation
-Under the Gold Dome | January 12
-The Georgia General Assembly started the first day of the 2026 legislative session on Monday, January 12, 2026.
+top of page DONATE Home About News & Announcements Community Awards District 60 | 2022 Race 2022 Endorsements Events Free Services & Programs Contact All Posts Capitol News Community Event Legislation Under the Gold Dome | January 12 The Georgia General Assembly started the first day of the 2026 legislative session on Monday, January 12, 2026.
 The House of Representatives along with the Senate, make up our state lawmaking body called the Georgia General Assembly.
-Capitol News
-Jan 17
-bottom of page
+Capitol News Jan 17 3 min read Reach Out Call 404-542-8683 Email sheilajones_jones@yahoo.com Address 3246 Amhurst Drive NW Atlanta, GA 30318 bottom of page

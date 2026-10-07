@@ -1,63 +1,10 @@
-Respaldos
-- Zohran MamdaniAlcalde de la Ciudad de Nueva York
-- Las corporaciones y los multimillonarios están haciendo todo lo posible para oprimir a la clase trabajadora.
+Saltar al contenido principal Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos English Merch Donar Respaldos Claire Valdez me acompañó desde el primer día porque entiende cómo se logran los cambios: construyendo poder, elevando las expectativas y cumpliendo con la gente trabajadora.
+Proviene del movimiento sindical y sabe cómo convertir la lucha en logros concretos en materia de vivienda, atención médica y derechos laborales.
+Ese es el tipo de compañera que necesito en el Congreso, y por eso me enorgullece apoyarla.
+Zohran Mamdani Alcalde de la Ciudad de Nueva York Las corporaciones y los multimillonarios están haciendo todo lo posible para oprimir a la clase trabajadora.
 La única manera de afrontar las crisis que tenemos por delante es teniendo más trabajadores que nos representen en los centros de poder.
 Por eso me enorgullece apoyar a Claire Valdez, miembro del sindicato UAW, en su candidatura al Congreso.
 Claire luchará con todas sus fuerzas por la dignidad, la equidad y la justicia para todos los trabajadores.
 Esta es precisamente la forma en que el movimiento obrero puede hacer frente a la avaricia corporativa y la desigualdad: eligiendo a más representantes de nuestra propia clase.
 El sindicato UAW está entusiasmado de enviar a Claire al Congreso para que defienda los intereses de la clase trabajadora.
-Shawn FainPresidente, United Auto Workers
-- Zohran MamdaniMayor of New York City
-- Bernie SandersSenator
-- Shawn FainPresident, United Auto Workers
-- Emily GallagherAssemblymember
-- Phara Souffrant ForrestAssemblymember
-- Zephyr TeachoutLaw Professor
-- Jabari BrisportState Senator
-- Diana MorenoAssemblymember
-- Marcela MitaynesAssemblymember
-- Sarahana ShresthaAssemblymember
-- Chi OsséCouncil Member
-- Jamaal BowmanFormer Congressman
-- Marti Gould CummingsState Committee Member
-- Cynthia NixonActor & Activist
-- Ro KhannaCongressman
-- Sara NelsonInternational President of the Association of Flight Attendants-CWA
-- Kristen GonzalezState Senator
-- Chris RabbDemocratic Nominee for PA-03
-- Shahana HanifCouncil Member
-- Mike GianarisState Senator
-- United Auto Workers, Region 9A
-- NYC DSA
-- Justice Democrats
-- Jewish Voice for Peace Action
-- Christopher Street Project
-- DRUM Beats
-- International Federation of Professional & Technical Engineers
-- Leaders We Deserve
-- Gays Get Political
-- PAL PAC
-- Sunrise Movement NYC
-- Gurley Flynn Society
-- AFGE Local 3369
-- Organization of Staff Analysts
-- Sunrise Movement
-- American Pakistani Public Affairs Committee
-- Association of Flight Attendants-CWA
-- Hindus for Human Rights Action
-- New American Leaders Action Fund
-- Our Revolution
-- Emgage Action
-- US Campaign for Palestinian Rights Action
-- OPEIU Local 153
-- Muslim Democratic Club of NY
-- Oil for Change Action
-- Gen-Z for Change
-- Voters for Animal Rights
-- Bricklayers and Allied Craftworkers Local 1
-- Common Defense
-- Progressive Change Campaign Committee
-- Planned Parenthood Action Fund
-- ACMER Merit PAC
-- CIR/SEIU
-- New York State Public Employees Federation
+Shawn Fain Presidente, United Auto Workers Zohran Mamdani Mayor of New York City Bernie Sanders Senator Shawn Fain President, United Auto Workers Emily Gallagher Assemblymember Phara Souffrant Forrest Assemblymember Zephyr Teachout Law Professor Jabari Brisport State Senator Diana Moreno Assemblymember Marcela Mitaynes Assemblymember Sarahana Shrestha Assemblymember Chi Ossé Council Member Jamaal Bowman Former Congressman Marti Gould Cummings State Committee Member Cynthia Nixon Actor & Activist Ro Khanna Congressman Sara Nelson International President of the Association of Flight Attendants-CWA Kristen Gonzalez State Senator Chris Rabb Democratic Nominee for PA-03 Shahana Hanif Council Member Mike Gianaris State Senator United Auto Workers, Region 9A NYC DSA Justice Democrats Jewish Voice for Peace Action Christopher Street Project DRUM Beats International Federation of Professional & Technical Engineers Leaders We Deserve Gays Get Political PAL PAC Sunrise Movement NYC Gurley Flynn Society AFGE Local 3369 Organization of Staff Analysts Sunrise Movement American Pakistani Public Affairs Committee Association of Flight Attendants-CWA Hindus for Human Rights Action New American Leaders Action Fund Our Revolution Emgage Action US Campaign for Palestinian Rights Action OPEIU Local 153 Muslim Democratic Club of NY Oil for Change Action Gen-Z for Change Voters for Animal Rights Bricklayers and Allied Craftworkers Local 1 Common Defense Progressive Change Campaign Committee Planned Parenthood Action Fund ACMER Merit PAC CIR/SEIU New York State Public Employees Federation Donar Ser Voluntario Asuntos Acerca de Claire Respaldos Trabajos General inquiries: info@clairevaldezforcongress.com Media inquiries: press@clairevaldezforcongress.com 223 Bedford Ave Ste A PMB 1118 Brooklyn, NY 11211 Paid for by Claire Valdez for Congress Photography: Kara McCurdy Design: Andrea Guinn, Aneesh Bhoopathy This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

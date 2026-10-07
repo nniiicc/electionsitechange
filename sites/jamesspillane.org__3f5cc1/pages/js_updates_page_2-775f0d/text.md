@@ -1,28 +1,17 @@
-Jun 27, 2018
-James Spillane is the proud recipient of the Ebenezer Mudgett Champion of Freedom Award.
-Please click for a larger view of the award…
-Oct 26, 2016
-On October 18, 2016 James received the endorsement of the NH Job Creation Alliance because of his steadfast opposition to new broad-based taxes.
-See the letter below: [click for larger view]
-Oct 13, 2016
-Representative Spillane has proven to be a very effective legislator in the NH House.
+james@jamesspillane.org Facebook X Facebook X HOME About James Bills Sponsored ISSUES ENDORSEMENTS DONATE HOW TO HELP Campaign Literature and Signs Write a Letter EVENTS Voting Information 2026 UPDATES Select Page Spillane Recipient of Ebenezer Mudgett Champion of Freedom Award Jun 27, 2018 James Spillane is the proud recipient of the Ebenezer Mudgett Champion of Freedom Award.
+Please click for a larger view of the award… Spillane Endorsed by Job Creation Alliance Oct 26, 2016 On October 18, 2016 James received the endorsement of the NH Job Creation Alliance because of his steadfast opposition to new broad-based taxes.
+See the letter below: [click for larger view] Rep.
+Sanborn Endorses James Spillane Oct 13, 2016 Representative Spillane has proven to be a very effective legislator in the NH House.
 While many freshman Reps take some time to “learn the ropes,” James immediately demonstrated a strong understanding of policy, an impressive ability to articulate his...
-Sep 6, 2016
-The American Conservative Union Foundation has sent a letter informing Candidate for and current State Representative James Spillane that he has earned an ACU Ratings Award for his excellent voting record in the 2016 session of the New Hampshire General Court.
+Spillane to Receive ACU Award Sep 6, 2016 The American Conservative Union Foundation has sent a letter informing Candidate for and current State Representative James Spillane that he has earned an ACU Ratings Award for his excellent voting record in the 2016 session of the New Hampshire General Court.
 The ACU...
-Mar 30, 2016
-WMUR-TV did this piece on James Spillane’s new group, NH Veteran Sportman Foundation, which helps pay for hunting and fishing licenses for our Veterans.
+Spillane Founds Group to Help Vets Hunt Mar 30, 2016 WMUR-TV did this piece on James Spillane’s new group, NH Veteran Sportman Foundation, which helps pay for hunting and fishing licenses for our Veterans.
 Watch the video on WMUR-TV’s website: Local group buys fishing, hunting licenses for veterans in need...
-Mar 30, 2016
+James Spillane on Chattin’ with Jeanine Part 2 Mar 30, 2016 If the above video does not appear on your device, use this direct...
+James Spillane with Josh Moore Mar 30, 2016 James appeared on Walking Tall with Josh Moore.
 If the above video does not appear on your device, use this direct...
-Mar 30, 2016
-James appeared on Walking Tall with Josh Moore.
+James Spillane on Chattin’ with Jeanine Mar 17, 2016 James appeared on the Chattin’ with Jeanine Show, hosted by Representative Jeanine Notter.
 If the above video does not appear on your device, use this direct...
-Mar 17, 2016
-James appeared on the Chattin’ with Jeanine Show, hosted by Representative Jeanine Notter.
-If the above video does not appear on your device, use this direct...
-Oct 27, 2014
-Here are scorecards for the two major second amendment groups in New Hampshire.
-Gun Owners of NH Grades NH Firearms Coalition Grades
-Aug 17, 2014
-James marched in the Deerfield Old Home Day Parade and was joined by Marilinda Garcia and Gary Lambert, candidates for US Congress District 2, and Jim Adams, candidate for Executive Council District 4.
+Second Amendment Scorecards Released Oct 27, 2014 Here are scorecards for the two major second amendment groups in New Hampshire.
+Gun Owners of NH Grades NH Firearms Coalition Grades Deerfield Old Home Day Parade Aug 17, 2014 James marched in the Deerfield Old Home Day Parade and was joined by Marilinda Garcia and Gary Lambert, candidates for US Congress District 2, and Jim Adams, candidate for Executive Council District 4. « Older Entries Next Entries » SEARCH THIS SITE Search for: HOW TO READ Click on the Titles to reveal the full article and social sharing icons.
+UPDATES Cole and Spillane: Elections, Air Rifles (w/ Northeast Airguns and Sig Sauer Academy), and Veterans August 4, 2026 CACR 15 – Fundamental Right to Hunt, Fish, and Harvest Game August 4, 2026 Dedication of the Salt Marsh Pond Access Road for Representative Harry Bean August 4, 2026 How New Hampshire Led America to Independence July 2, 2026 Spillane Cited as Most Effective May 23, 2026 Facebook X Copyright © # • James Spillane for State Representative • Rockingham District 2 • 16 Swamp Road, Deerfield NH 03037 • Fiscal Agent James Spillane

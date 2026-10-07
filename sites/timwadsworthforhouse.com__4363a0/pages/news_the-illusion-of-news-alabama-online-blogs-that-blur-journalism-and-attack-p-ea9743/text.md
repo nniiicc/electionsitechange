@@ -1,7 +1,4 @@
-The Illusion of News: Alabama Online Blogs that Blur Journalism and Attack Politics
-FOR IMMEDIATE RELEASE - April 13, 2026:
-By: Tim Wadsworth, Member, Alabama House of Representatives and Attorney
-In today’s fast-moving digital world, it’s easier than ever to publish information, and harder than ever for people to know what’s real and what’s not.
+Skip to main content Re-Elect Tim Wadsworth for House District 14 Re-Elect Tim Wadsworth for House District 14 Home About Tim Priorities News The Illusion of News: Alabama Online Blogs that Blur Journalism and Attack Politics FOR IMMEDIATE RELEASE - April 13, 2026: By: Tim Wadsworth, Member, Alabama House of Representatives and Attorney In today’s fast-moving digital world, it’s easier than ever to publish information, and harder than ever for people to know what’s real and what’s not.
 Here in Alabama, we’re seeing more and more online blogs that present themselves as “news,” but in reality, many are political propaganda pieces designed to sway or mislead voters, not inform them.
 Let me say this plainly.
 These sites are not held to the same standards as traditional media.
@@ -50,8 +47,7 @@ We, the taxpayers, are inadvertently paying for someone else’s political ambit
 You’ll also see questionable “polls” with no real transparency.
 You’ll see hit pieces designed to tear others down.
 All of this adds up to one thing: confusion and deception for voters.
-People try to stay informed, but instead they’re being fed a mix of truth, spin, and sometimes outright falsehoods… all presented as “news.”
-Now, to be clear, not every online outlet is like this.
+People try to stay informed, but instead they’re being fed a mix of truth, spin, and sometimes outright falsehoods… all presented as “news.” Now, to be clear, not every online outlet is like this.
 There are good, honest journalists doing important work every day.
 However, the rise of these politically-driven blogs means we all have to be more careful about what we read and who we trust.
 We need to vote for candidates who understand business and how to solve problems, candidates with servants’ hearts, and who are not tied to political tomfoolery.
@@ -62,4 +58,4 @@ At the end of the day, if we want better government, we have to start with bette
 Alabama laws need to be reformed to require more transparency in online blogs.
 In Alabama, we have too much fake news.
 And for the voters’ sake, that needs to change.
-This is not a legal advertisement, but here is the disclaimer anyway: "No representation is made that the quality of the legal services to be performed is greater than the quality of legal services performed by other lawyers."
+This is not a legal advertisement, but here is the disclaimer anyway: "No representation is made that the quality of the legal services to be performed is greater than the quality of legal services performed by other lawyers." General Election: Tuesday, November 3, 2026 © # / Paid for by: Committee to Elect Tim Wadsworth, 1175 Helicon Rd., Arley, AL 35541

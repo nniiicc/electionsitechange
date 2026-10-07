@@ -1,6 +1,4 @@
-Events
-More events coming soon!
-No events in this range
-Try a different date range, or check back soon for new events.
-Paid for by Christopher Dean For Wisconsin
-Powered by CampaignPartner.com - Political Campaign Websites
+Meet Christopher Issues News Volunteer Home Contribute Events Yard Signs Events More events coming soon!
+#ago This Week This Month ‹ Previous Tue Sep 1 2026 - Wed Sep 30 2026 Next › No events in this range Try a different date range, or check back soon for new events.
+VOLUNTEER CONTRIBUTE VOTING INFO Get Updates Thank you for signing up!
+News Christopher Dean Pledges to Support Congressional Term Limits State Senate candidate hospitalized after finding envelope with 'white substance' on property Candidates across the political spectrum hit the fair to engage with voters before the primaries Christopher Dean announces run for State Senate District 15 Endorsements Yard Signs Events Photos Contact Paid for by Christopher Dean For Wisconsin Powered by CampaignPartner.com - Political Campaign Websites Home Meet Christopher Issues Endorsements Contribute Volunteer News Yard Signs Contact Close Menu

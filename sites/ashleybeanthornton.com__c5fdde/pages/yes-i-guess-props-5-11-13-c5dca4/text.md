@@ -1,15 +1,13 @@
-Yes...I Guess: Props 5, 11 & 13
-(Early Voting for the November 4 election starts Monday (October 20,2025).
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 Yes...I Guess: Props 5, 11 & 13 ( Early Voting for the November 4 election starts Monday (October 20,2025).
 This will be our opportunity to vote on 17 proposed amendments to the Texas Constitution.
 That’s a lot of propositions!
 I am working through the list a few at a time and sharing how I plan to vote.
-Here are links to the ones I have done so far:
-You are not allowed to take your phone with you into the polls, but you are allowed to take a piece of paper with notes.
+Here are links to the ones I have done so far: Investing in Texas: Props 1, 4 & 14 Never Will We Ever: Props 2, 6 & 8 Who Deserves a (TAX) Break Today?
+Props 7, 9, 10 & 17 Yes…I Guess: Props 5, 11, & 13 Bail Reform: Prop 3 Who Judges the Judges?
+Prop 12 No Thanks to Dumb Political Games: Props 15 & 16 You are not allowed to take your phone with you into the polls, but you are allowed to take a piece of paper with notes.
 For what it’s worth, here’s a printable version of what I have figured out so far.
-I will update it every time I post till it is finished.: Propositions and How ABT is voting.
-Thank you! – ABT)
-How I Plan to vote and why:
-I guess I am probably going to end up voting YES on these three, but I don’t feel good about them.
+I will update it every time I post till it is finished.: Propositions and How ABT is voting .
+Thank you! – ABT) How I Plan to vote and why: I guess I am probably going to end up voting YES on these three, but I don’t feel good about them.
 All three propositions help people who legitimately need tax relief, which is good.
 But, they are not very precise and they will also end up giving relief to some folks who don’t really need it.
 I worry that we are leaving tax revenue on the table that we need now and might need even more in the future.
@@ -46,17 +44,7 @@ I think something like a “circuit breaker” would be a better approach than t
 I will probably vote YES on these three propositions because some people really do need the relief right now, but I don’t feel good about them.
 We need to be smarter going forward or we are going to dig ourselves into a hole I doubt we will want to dig out of later.
 I think circuit breaker strategies would be smarter, but we have to elect people who are willing to think creatively and to help those who need it, while requiring people who have the means to pay their fair share.
-Resources:
-- Ballot Language – Ballot Language for the November 4, 2025 Constitutional Amendment
-Election
-- Every Texan – What’s on the Ballot?
-Every Texan’s Take on the 2025 Constitutional
-Amendments
-- Houston Chronicle – Texas constitutional amendments: What you need to know
-- League of Women Voters
-- LoneStar Left – Texas 2025 Constitutional Amendments Ballot Guide And Vote
-Recommendations
-- Texas Policy Research – Texas 2025 Constitutional Amendments Explained: Ballot Guide &
-Vote Recommendations
-- Texas Tribune – 17 statewide propositions will appear on the November ballot.
+Resources: Ballot Language – Ballot Language for the November 4, 2025 Constitutional Amendment Election Every Texan – What’s on the Ballot?
+Every Texan’s Take on the 2025 Constitutional Amendments Houston Chronicle – Texas constitutional amendments: What you need to know League of Women Voters LoneStar Left – Texas 2025 Constitutional Amendments Ballot Guide And Vote Recommendations Texas Policy Research – Texas 2025 Constitutional Amendments Explained: Ballot Guide & Vote Recommendations Texas Tribune – 17 statewide propositions will appear on the November ballot.
 Here’s what Texas voters need to know.
+Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

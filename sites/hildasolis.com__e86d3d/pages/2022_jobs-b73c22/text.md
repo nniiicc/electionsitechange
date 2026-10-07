@@ -1,14 +1,9 @@
-Hilda Solis recognizes the importance of a strong workforce as she served as the
-Secretary of Labor under President Obama.
-Establishing New Department of Workforce
-and Economic Development
-Hilda Solis quickly identified how the COVID-19 pandemic affected the economy and workforce, which led her to author a motion to establish a new department of workforce and economic development with the aim to better train and equip our workforce for long and successful careers.
-Apprenticeship programs to Promote Equity in the Workforce
-Hilda Solis demanded the County to develop a plan to create a network of apprenticeship programs.
+Skip to content Home Join Team Hilda Supporters Gallery Donate Home | Jobs Hilda Solis recognizes the importance of a strong workforce as she served as the Secretary of Labor under President Obama.
+Investing in Youth Training Programs Hilda Solis authored a motion to ensure that up to 10,000 young adults can continue getting work experiences that lead to entry-level jobs at a time when COVID-19 related economic hardships fell disproportionately on young adults.
+Establishing New Department of Workforce and Economic Development Hilda Solis quickly identified how the COVID-19 pandemic affected the economy and workforce, which led her to author a motion to establish a new department of workforce and economic development with the aim to better train and equip our workforce for long and successful careers.
+Apprenticeship programs to Promote Equity in the Workforce Hilda Solis demanded the County to develop a plan to create a network of apprenticeship programs.
 The aim of this was to provide more hands-on training programs in robust industries for those facing barriers to employment, including formerly incarcerated individuals, youth transitioning out of foster care, and people experiencing homelessness.
-Innovative Programs to Support Small Businesses
-Hilda Solis established innovative programs to support small businesses in the First District.
+Innovative Programs to Support Small Businesses Hilda Solis established innovative programs to support small businesses in the First District.
 Those programs provided First District small businesses microloans and other needed services with the aim to prevent displacement, and ensured that local dollars stayed local.
-Employment Program to Help Women, Communities of Color
-and Disadvantaged Populations
-Hilda Solis created a pilot program with Women in Non Traditional Employment Roles to help facilitate a high quality training program for women seeking opportunities related to crafts and apprenticeship positions.
+Employment Program to Help Women, Communities of Color and Disadvantaged Populations Hilda Solis created a pilot program with Women in Non Traditional Employment Roles to help facilitate a high quality training program for women seeking opportunities related to crafts and apprenticeship positions.
+Contact info@hildasolis.com 10643 Valley Blvd., Suite C #144 El Monte, CA 91731 Join the Movement Join Team Hilda Endorse Hilda Donate Paid for by Solis for Congress

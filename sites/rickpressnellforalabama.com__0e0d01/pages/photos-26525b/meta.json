@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.rickpressnellforalabama.com/photos",
- "paid_for_by": null,
+ "fingerprint": "ba2a8e33b7e4e022036f16452606073c052985ef",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": [
   "2026"

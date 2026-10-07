@@ -1,26 +1,114 @@
 [
-"http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events",
-"http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true",
-"http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&xml=true",
-"http://linkedin.com/lee-havis-b91b134",
-"https://%20lee@havisforsenate.com/",
-"https://facebook.com/profile.php?id=61591156301259",
-"https://google.com/calendar/render?cid=http%3A%2F%2Fhavisforsenate.com%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26no_html%3Dtrue%26%26",
-"https://havisforsenate.com/",
-"https://havisforsenate.com/2018/07/21/lincoln-day-dinner-with-cong-jim-jordan",
-"https://havisforsenate.com/contact",
-"https://havisforsenate.com/events",
-"https://havisforsenate.com/events/action~agenda/page_offset~-1/request_format~json",
-"https://havisforsenate.com/events/action~agenda/page_offset~1/request_format~json",
-"https://havisforsenate.com/events/action~agenda/request_format~json",
-"https://havisforsenate.com/events/action~month/request_format~json",
-"https://havisforsenate.com/events/action~oneday/request_format~json",
-"https://havisforsenate.com/events/action~week/request_format~json",
-"https://havisforsenate.com/issues",
-"https://havisforsenate.com/news",
-"https://havisforsenate.com/privacy-policy",
-"https://havisforsenate.com/testimonials",
-"https://havisforsenate.com/volunteer",
-"https://secure.anedot.com/havis2022/donate",
-"https://twitter.com/patriotvoting"
+{
+"text": "Add to Apple Calendar",
+"href": "webcal://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
+},
+{
+"text": "Add to Google",
+"href": "https://www.google.com/calendar/render?cid=http%3A%2F%2Fhavisforsenate.com%2F%3Fplugin%3Dall-in-one-event-calendar%26controller%3Dai1ec_exporter_controller%26action%3Dexport_events%26no_html%3Dtrue%26%26"
+},
+{
+"text": "Add to Outlook",
+"href": "webcal://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
+},
+{
+"text": "Add to Timely Calendar",
+"href": "http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events"
+},
+{
+"text": "Add to other calendar",
+"href": "http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&no_html=true"
+},
+{
+"text": "Agenda",
+"href": "https://havisforsenate.com/events/action~agenda/request_format~json/"
+},
+{
+"text": "Contact Us",
+"href": "https://havisforsenate.com/contact/"
+},
+{
+"text": "Day",
+"href": "https://havisforsenate.com/events/action~oneday/request_format~json/"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/havis2022/donate"
+},
+{
+"text": "Events",
+"href": "https://havisforsenate.com/events/"
+},
+{
+"text": "Export to XML",
+"href": "http://havisforsenate.com/?plugin=all-in-one-event-calendar&controller=ai1ec_exporter_controller&action=export_events&xml=true"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61591156301259"
+},
+{
+"text": "Havis For Senate",
+"href": "https://havisforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://havisforsenate.com/issues/"
+},
+{
+"text": "Join the team",
+"href": "https://havisforsenate.com/volunteer/"
+},
+{
+"text": "Lincoln Day Dinner with Cong. Jim Jordan",
+"href": "https://havisforsenate.com/2018/07/21/lincoln-day-dinner-with-cong-jim-jordan/"
+},
+{
+"text": "LinkedIn",
+"href": "http://linkedin.com/lee-havis-b91b134"
+},
+{
+"text": "Mail",
+"href": "https://%20lee@havisforsenate.com"
+},
+{
+"text": "Month",
+"href": "https://havisforsenate.com/events/action~month/request_format~json/"
+},
+{
+"text": "News",
+"href": "https://havisforsenate.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://havisforsenate.com/privacy-policy/"
+},
+{
+"text": "Testimonials",
+"href": "https://havisforsenate.com/testimonials/"
+},
+{
+"text": "Week",
+"href": "https://havisforsenate.com/events/action~week/request_format~json/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/patriotvoting"
+},
+{
+"text": "[image]",
+"href": "https://havisforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://havisforsenate.com/events/action~agenda/page_offset~-1/request_format~json/"
+},
+{
+"text": "[no text]",
+"href": "https://havisforsenate.com/events/action~agenda/page_offset~1/request_format~json/"
+},
+{
+"text": "lee@havisforsenate.com",
+"href": "mailto:lee@havisforsenate.com"
+}
 ]

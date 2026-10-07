@@ -1,7 +1,8 @@
-Batay pou yon ekonomi ki jis
-Ayanna kwè ke nou gen yon fwa nan yon jenerasyon opòtinite pou rekonstrui yon nasyon pi fò ak pi ekitab pandan nap reprann nou de kriz covid-19 lan.
+EN ES HT ZH Facebook Twitter Instagram Rankontre Ayanna Pwoblem Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Toggle Menu Facebook Twitter Instagram Evenman Volontè Magazen Don Rankontre Ayanna Evenman Enfòmasyon pou elektè yo Volontè Kontakte Nou Magazen Don Batay pou yon ekonomi ki jis Ayanna kwè ke nou gen yon fwa nan yon jenerasyon opòtinite pou rekonstrui yon nasyon pi fò ak pi ekitab pandan nap reprann nou de kriz covid-19 lan.
 Sa vle di trvay sendika avèk salè ki jis, règleman ki bay jistis pou moun ki prezante enfimite nan kominote a, vre jis nan swen sante ak lòt ankò.
 Ayanna te prezante lwa sou garanti travay Federal ki ta pou bay bon salè, gwo benefis, pwoteksyon sendikal ak sekirite nan kondisyon travay yon dwa legal nan Amerika.
 Finanse pa gouvènman federal la e aplike nan nivo lokal nan kolaborasyon avèk kominote yo, travay federal yo garanti pwojè kap pote travay nan sektè piblik pou tout granmoun kap chèche travay-paske moun sa yo bezwen bon jistis ekonomik.
 Ayanna travay pou ouvri Tax Credit pou timoun e li ogmante wòl komite yo pou konfronte kòporasyon yo ki ap kondui depans pa jou pou fanmi yo.
 Ayanna konnen sa sa vle di pou gen plizyè travay pou arive fè mwayen yo posib e li ap travay nan yon vizyon kote fanmi yo nan Amerika pa ka sèlman siviv men pwospere.
+Kotize kounia Ayanna se yon enfatigab militan pou moun.
+Eske wap sipòte li pandan wap kotize jodia Kotizasyon nou en mwayenn ane sa $10 $20.53 $100 Ayanna Pressley for Congress – Official Campaign Website of Congresswoman Ayanna Pressley – Representing Massachusetts' 7th Congressional District Rankontre Ayanna Enfòmasyon pou elektè yo Volontè Magazen Don Suiv nou Facebook Twitter Instagram Don pa lapòs Committee to Elect Ayanna Pressley PO Box 240912 Dorchester Center, MA 02124 Prizanchaj pa komite a pou vote Ayanna Pressley Kontakte Konfidansyalite Made with Middle Seat

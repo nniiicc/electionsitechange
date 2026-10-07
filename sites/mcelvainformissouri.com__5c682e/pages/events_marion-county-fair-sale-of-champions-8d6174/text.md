@@ -1,10 +1,3 @@
-Back to All Events
-Roth will be around and would enjoy chatting with you.
+0 Skip to Content Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Open Menu Close Menu Home About Me Endorsements Contact Events Facebook Donate Now Back to All Events Marion County Fair Sale of Champions Saturday, August 2, 2025 9:00 AM 11:30 AM Google Calendar ICS Roth will be around and would enjoy chatting with you.
 Keep an eye out for him at the sale.
-Previous
-Previous
-July 26
-Marion County Fair Parade
-Next
-Next
-August 14
+Previous Previous July 26 Marion County Fair Parade Next Next August 14 Speaking Event: Ralls County Conservative Club Paid for by Committee to Elect Roth McElvain, Treasurer Chad Englehardt mcelvainformissouri@gmail.com

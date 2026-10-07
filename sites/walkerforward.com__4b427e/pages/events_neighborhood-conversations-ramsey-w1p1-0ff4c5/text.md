@@ -1,12 +1,9 @@
-Back to All Events
-Your bock, your voice.
+Skip to Content Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Donate Volunteer Events Yard Sign FAQ Contact News Store 0 0 Open Menu Close Menu Donate Volunteer Events Yard Sign FAQ Contact News Store Back to All Events Neighborhood Conversations: Ramsey W1P1 Thursday, July 23, 2026 5:30 PM 6:30 PM Alpine Park 6600 Alpine Drive Ramsey, Minnesota, 55303 United States (map) Google Calendar ICS Your bock, your voice.
 Come join Brian Walker for a neighborhood conversation in Ramsey W1P1: Alpine Park.
 He’s the MN House 31A candidate, taking on Harry Niska.
 Endorsed by neighbors, DFL candidate.
-Previous
-Previous
-July 21
-Anoka County Fair
-Next
-Next
-July 28
+Previous Previous July 21 Anoka County Fair Next Next July 28 Neighborhood Conversations: Ramsey W4P2 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Leave us your email to stay informed Sign up with your email address to receive news and updates.
+First Name Last Name Email Address Sign Up Thank you!
+Privacy Policy Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward.com (651) 308-2116 EIN : 42-2622637 Walker Forward.

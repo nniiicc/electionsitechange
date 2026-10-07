@@ -1,27 +1,114 @@
 [
-"http://elizabethfiedler.com/",
-"https://elizabethfiedler.com/",
-"https://elizabethfiedler.com/about",
-"https://elizabethfiedler.com/issues",
-"https://elizabethfiedler.com/news",
-"https://elizabethfiedler.com/our-district",
-"https://elizabethfiedler.com/southphillyvotes",
-"https://facebook.com/Fiedler4Philly",
-"https://instagram.com/eliz_fiedler",
-"https://mobilize.us/fiedlerforphilly",
-"https://mobilize.us/nikilsaval",
-"https://nikilsaval.com/",
-"https://phila2ndward.org/",
-"https://phillyfirstward.org/",
-"https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1",
-"https://secure.actblue.com/donate/southphillyvoterproject",
-"https://secure.actblue.com/donate/southphillyvoterproject?amount=100",
-"https://secure.actblue.com/donate/southphillyvoterproject?amount=25",
-"https://secure.actblue.com/donate/southphillyvoterproject?amount=250",
-"https://secure.ngpvan.com/9oIlbILSbU6ZwUxrFXfEcw2",
-"https://secure.ngpvan.com/ii_guiEJJE-7pJfOURmHOA2",
-"https://techforcampaigns.org/",
-"https://twitter.com/Fiedler4Philly",
-"https://ward39a.org/",
-"https://youtube.com/channel/UCwHvnRoS4zFM1J0V2e7FTlg"
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/southphillyvoterproject?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/southphillyvoterproject?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/southphillyvoterproject?amount=250"
+},
+{
+"text": "Contact",
+"href": "https://secure.ngpvan.com/ii_guiEJJE-7pJfOURmHOA2"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/southphillyvoterproject"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-elizabeth-fiedler-1"
+},
+{
+"text": "Elizabeth Fiedler",
+"href": "http://www.elizabethfiedler.com"
+},
+{
+"text": "Elizabeth Fiedler",
+"href": "https://elizabethfiedler.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Fiedler4Philly"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/fiedlerforphilly/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mobilize.us/nikilsaval/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/eliz_fiedler/"
+},
+{
+"text": "Issues",
+"href": "https://elizabethfiedler.com/issues/"
+},
+{
+"text": "Mail",
+"href": "https://secure.ngpvan.com/9oIlbILSbU6ZwUxrFXfEcw2"
+},
+{
+"text": "Meet Elizabeth",
+"href": "https://elizabethfiedler.com/about/"
+},
+{
+"text": "News",
+"href": "https://elizabethfiedler.com/news/"
+},
+{
+"text": "Nikil Saval",
+"href": "https://nikilsaval.com/"
+},
+{
+"text": "Other Amount",
+"href": "https://secure.actblue.com/donate/southphillyvoterproject"
+},
+{
+"text": "Our District",
+"href": "https://elizabethfiedler.com/our-district/"
+},
+{
+"text": "South Philly Voter Project",
+"href": "https://elizabethfiedler.com/southphillyvotes/"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Fiedler4Philly"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/channel/UCwHvnRoS4zFM1J0V2e7FTlg"
+},
+{
+"text": "[image: Elizabeth Fiedler]",
+"href": "https://elizabethfiedler.com/"
+},
+{
+"text": "[image]",
+"href": "https://nikilsaval.com/"
+},
+{
+"text": "[image]",
+"href": "https://phila2ndward.org/"
+},
+{
+"text": "[image]",
+"href": "https://phillyfirstward.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.ward39a.org/"
+}
 ]

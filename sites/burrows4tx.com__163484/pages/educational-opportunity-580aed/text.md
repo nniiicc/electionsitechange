@@ -1,71 +1,27 @@
-Educational Opportunity
-Preparing Every Student for a Bright Future
-Preparing the next generation for success is essential to Texas’ future.
+Skip to content Home About House District 83 Issues Latest News Volunteer Home About House District 83 Issues Latest News Volunteer Donate Issues Educational Opportunity A Stronger Texas Preparing Every Student for a Bright Future Preparing the next generation for success is essential to Texas’ future.
 Under Speaker Burrows’ leadership, education was a top priority during the 89th Legislative Session.
 The Texas House made unprecedented investments in public schools and teachers, expanded educational opportunities for students from the classroom to their careers and passed reforms to strengthen classrooms, empower parents and prepare students for a bright future.
 Lawmakers also advanced higher education reforms to increase affordability, eliminate ideological bias and ensure Texas colleges and universities remain focused on academic excellence, workforce readiness and student success.
-Teachers.
+Historic Investments Teachers.
 Classrooms.
 Students.
 Opportunity.
-Historic Investments in Education
-To strengthen classrooms, support teachers and help more student succeed, Speaker Burrows and the Texas House delivered record-breaking funding for public education last session.
-- The Texas House approved an $8.5 billion boost for public schools—the largest increase in public education funding in state history.
-The plan includes permanent teacher pay raises and major investments for classrooms and improved student outcomes, including:
-- $3.6 billion for record educator pay raises—
-- Expanding the Teacher Incentive Allotment to allow more teachers to earn performance-based pay raises
-- Encouraging teachers to stay in the classroom by more than doubling the pay raise in their fifth year
-- Providing higher pay for experienced teachers in rural areas to address teacher shortages and drive retention in high-needs districts
-- $1.3 billion in new funding to help school districts pay for rising costs such as insurance, retirement contributions and utilities
-- $908 million to strengthen early reading and math skills
-- $622 million to support small and mid-size school districts
-- $486 million for high-quality instructional materials
-- $448 million for early childhood education programs and supports
-- $430 million for school safety improvements
-- $400 million to improve special education services
-- $154 million for Career & Technical Education
-- $46 million for teacher training and certification programs, helping prepare more qualified teachers for Texas classrooms (HB 2)
-- This tremendous investment in public schools was paired with Texas’ first universal school choice program, prioritizing low-income families and families with a child with a disability.
-Supporting Students & Empowering Parents
-Building Stronger Classrooms
-- Banned cell phone use during the school day to reduce distractions and help students stay focused on learning (HB 1481)
-- Strengthened classroom discipline through the Teacher Bill of Rights, giving educators more authority to address disruptive behavior (HB 6)
-- Replaced the STAAR test with shorter assessments throughout the year that better measure student progress and reduce testing pressure (HB 8 - 89th Legislature, Second Called Session)
-- Expanded Career and Technical Education programs so students graduate ready for college, careers or military service (HB 120, HB 2 & HB 20)
-- Made it easier for qualified out-of-state teachers to enter the classroom by allowing temporary Texas teaching certificates (HB 1178)
-- Strengthened special education services by improving funding and helping schools cover the cost of student evaluations (SB 568 & HB 2)
-Empowering Parents
-- Gave parents greater access to school library catalogs, while strengthening standards for materials available in school libraries (SB 13)
-- Affirmed parents as the primary decision-makers in their children’s lives (SJR 34 & SB 12)
-- Protected homeschool families from increased state regulation and preserved parental control over their children’s education (HB 2674)
-- Made school board decisions more transparent by requiring trustee voting records to be published online for public review (SB 413)
-Expanding Learning Opportunities
-- Banned DEI policies in public schools (SB 12)
-- Gave school districts the option to provide time for prayer, religious reading or personal reflection with parental consent (SB 11)
-- Allowed the Ten Commandments to be displayed in Texas classrooms (SB 10)
-- Ensured students complete a personal finance course before graduating so they learn how to manage money responsibly, avoid debt and build a strong financial future (HB 27)
-- Required teaching of the history, atrocities, propaganda and failed ideologies of communist regimes, and how they conflict with the principles of freedom, American values and our constitutional system (SB 24)
-- Strengthened instruction on Texas history and heritage to provide students a foundational understanding of the people, events and values that shaped our state (SB 519)
-- Prevented schools from using instructional materials rejected by the State Board of Education, ensuring taxpayer dollars are spent on high-quality, accurate classroom materials (HB 100)
-Strengthening School Safety
-- Required stronger training, planning and coordination among law enforcement agencies during emergencies (HB 33)
-- Strengthened public school safety, enhancing coordination between schools and local law enforcement, improving security training and broadening the use of school safety funds (HB 121)
-- Expanded the pool of qualified individuals who can serve as armed school security officers (HB 1458)
-- Closed dangerous loopholes by requiring background checks and misconduct reporting for all individuals working in schools, including contractors, subcontractors and service providers (SB 571)
-- Increased school safety funding by nearly $430 million to give districts more resources to keep campuses safe (SB 260 & HB 2)
-- Ended legal protections for schools in cases where school employees sexually abuse students (HB 4623)
-Expanding Higher Education Opportunities
-Higher education opens the door to opportunity for Texans while keeping our state a leader in jobs and innovation.
+The largest increase in public education funding in Texas history. $ # B Dedicated to record educator pay raises. $ # B Strengthening early reading & math skills. $ # M Invested in school safety improvements. $ # M Historic Investments in Education To strengthen classrooms, support teachers and help more student succeed, Speaker Burrows and the Texas House delivered record-breaking funding for public education last session.
+The Texas House approved an $8.5 billion boost for public schools—the largest increase in public education funding in state history.
+The plan includes permanent teacher pay raises and major investments for classrooms and improved student outcomes, including: $3.6 billion for record educator pay raises— Expanding the Teacher Incentive Allotment to allow more teachers to earn performance-based pay raises Encouraging teachers to stay in the classroom by more than doubling the pay raise in their fifth year Providing higher pay for experienced teachers in rural areas to address teacher shortages and drive retention in high-needs districts $1.3 billion in new funding to help school districts pay for rising costs such as insurance, retirement contributions and utilities $908 million to strengthen early reading and math skills $622 million to support small and mid-size school districts $486 million for high-quality instructional materials $448 million for early childhood education programs and supports $430 million for school safety improvements $400 million to improve special education services $154 million for Career & Technical Education $46 million for teacher training and certification programs, helping prepare more qualified teachers for Texas classrooms (HB 2) This tremendous investment in public schools was paired with Texas’ first universal school choice program, prioritizing low-income families and families with a child with a disability.
+Supporting Students & Empowering Parents Building on these transformational investments, the Texas House paired record education funding with reforms that bolster classrooms, support parents and improve student outcomes.
+Building Stronger Classrooms Banned cell phone use during the school day to reduce distractions and help students stay focused on learning (HB 1481) Strengthened classroom discipline through the Teacher Bill of Rights, giving educators more authority to address disruptive behavior (HB 6) Replaced the STAAR test with shorter assessments throughout the year that better measure student progress and reduce testing pressure (HB 8 - 89th Legislature, Second Called Session) Expanded Career and Technical Education programs so students graduate ready for college, careers or military service (HB 120, HB 2 & HB 20) Made it easier for qualified out-of-state teachers to enter the classroom by allowing temporary Texas teaching certificates (HB 1178) Strengthened special education services by improving funding and helping schools cover the cost of student evaluations (SB 568 & HB 2) Empowering Parents Gave parents greater access to school library catalogs, while strengthening standards for materials available in school libraries (SB 13) Affirmed parents as the primary decision-makers in their children’s lives (SJR 34 & SB 12) Protected homeschool families from increased state regulation and preserved parental control over their children’s education (HB 2674) Made school board decisions more transparent by requiring trustee voting records to be published online for public review (SB 413) Expanding Learning Opportunities Banned DEI policies in public schools (SB 12) Gave school districts the option to provide time for prayer, religious reading or personal reflection with parental consent (SB 11) Allowed the Ten Commandments to be displayed in Texas classrooms (SB 10) Ensured students complete a personal finance course before graduating so they learn how to manage money responsibly, avoid debt and build a strong financial future (HB 27) Required teaching of the history, atrocities, propaganda and failed ideologies of communist regimes, and how they conflict with the principles of freedom, American values and our constitutional system (SB 24) Strengthened instruction on Texas history and heritage to provide students a foundational understanding of the people, events and values that shaped our state (SB 519) Prevented schools from using instructional materials rejected by the State Board of Education, ensuring taxpayer dollars are spent on high-quality, accurate classroom materials (HB 100) Strengthening School Safety Required stronger training, planning and coordination among law enforcement agencies during emergencies (HB 33) Strengthened public school safety, enhancing coordination between schools and local law enforcement, improving security training and broadening the use of school safety funds (HB 121) Expanded the pool of qualified individuals who can serve as armed school security officers (HB 1458) Closed dangerous loopholes by requiring background checks and misconduct reporting for all individuals working in schools, including contractors, subcontractors and service providers (SB 571) Increased school safety funding by nearly $430 million to give districts more resources to keep campuses safe (SB 260 & HB 2) Ended legal protections for schools in cases where school employees sexually abuse students (HB 4623) Expanding Higher Education Opportunities Higher education opens the door to opportunity for Texans while keeping our state a leader in jobs and innovation.
 During the 89th Legislative Session, the Texas House delivered major reforms that strengthen accountability, protect Texas colleges and universities from hostile foreign influence and expand opportunities for more students.
-- Improved oversight at Texas public universities by requiring reviews of what students are taught, making sure degree programs prepare students for jobs and creating an Office of the Ombudsman to help address concerns (SB 37)
-- Established a Free College Application Week, making it free for Texans to apply to state universities during the second week of October each year (SB 2231)
-- Created the My Texas Future platform to help students learn about college opportunities, see where they may qualify for admission and apply through a single online portal (SB 2314)
-- Supported student service members by providing early course registration to accommodate military training and drill schedules (HB 102)
-- Improved the Texas Armed Services Scholarship Program so more eligible students can take advantage of its benefits (HB 300)
-- Reduced college costs for ROTC students and corps of cadets members by allowing them to pay in-state tuition rates (HB 5646)
-- Protected Texas research universities from foreign espionage and intellectual property theft by creating the Higher Education Research Security Council (HB 127)
-- Increased funding for the Higher Education Fund to provide more support for public universities (HB 42)
-Building on Historic Progress
-The Texas House delivered record investments and reforms for Texas schools and institutions of higher education during the 89th Legislative Session, and Speaker Burrows remains focused on building on that progress.
+Improved oversight at Texas public universities by requiring reviews of what students are taught, making sure degree programs prepare students for jobs and creating an Office of the Ombudsman to help address concerns (SB 37) Established a Free College Application Week, making it free for Texans to apply to state universities during the second week of October each year (SB 2231) Created the My Texas Future platform to help students learn about college opportunities, see where they may qualify for admission and apply through a single online portal (SB 2314) Supported student service members by providing early course registration to accommodate military training and drill schedules (HB 102) Improved the Texas Armed Services Scholarship Program so more eligible students can take advantage of its benefits (HB 300) Reduced college costs for ROTC students and corps of cadets members by allowing them to pay in-state tuition rates (HB 5646) Protected Texas research universities from foreign espionage and intellectual property theft by creating the Higher Education Research Security Council (HB 127) Increased funding for the Higher Education Fund to provide more support for public universities (HB 42) Building on Historic Progress The Texas House delivered record investments and reforms for Texas schools and institutions of higher education during the 89th Legislative Session, and Speaker Burrows remains focused on building on that progress.
 As the legislature prepares for the 2027 session, Speaker Burrows has directed lawmakers to continue working to improve student outcomes, support teachers, bolster school safety, expand career and technical education opportunities, and make college more affordable.
 The Texas House is working to make sure every student is prepared to succeed in the classroom and equipped to lead in the economy of tomorrow.
+JOIN OUR EMAIL LIST First Name Last Name Email Sign Up By providing my mobile number I consent to receive informational text messages from Dustin Burrows Campaign.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms & Conditions and Privacy Policies.
+POL.
+ADV.
+PAID FOR BY DUSTIN BURROWS CAMPAIGN Mailing Address: Dustin Burrows Campaign P.O.
+Box 2569 | Lubbock, TX 79408 Privacy Policy Terms of Use Contact Donate

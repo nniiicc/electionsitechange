@@ -1,4 +1,4 @@
-Javier Mabrey is an eviction defense lawyer and he represents South West Denver in the Colorado State House.
+Home About Issues Legislation Endorsements HD1 Media Donate More Home About Issues Legislation Endorsements HD1 Media Donate Home About Issues Legislation Endorsements HD1 Media Donate Leer en Español About Javier For Javier, the fight is personal Javier Mabrey is an eviction defense lawyer and he represents South West Denver in the Colorado State House.
 He has represented over three hundred families facing eviction and helped found Community Economic Defense Project in 2020, which has grown into one of the largest anti-poverty organizations in the state.
 For Javier Mabrey tenants’ rights and poverty are personal.
 Javier’s mother, Catherine, was in a near fatal car crash that left her permanently disabled.
@@ -19,4 +19,5 @@ He has passed legislation restricting the predatory practices of debt collectors
 When the legislature is not in session, Javier continues to represent renters facing eviction, discrimination, or harassment from landlords.
 He holds his B.A. from the University of Colorado summa cum laude and his J.D. from U.C.
 Berkeley School of Law.
-PAID FOR BY JAVIER MABREY FOR COLORADO
+To contact Javier, email info@javierforcolorado.com .
+Donate online PAID FOR BY JAVIER MABREY FOR COLORADO Donate

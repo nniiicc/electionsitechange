@@ -1,22 +1,90 @@
 [
-"http://facebook.com/ameliafortexas",
-"http://google.com/calendar/event?action=TEMPLATE&text=Breakfast+Meet+%26+Greet+-+Reaching+Out+To+Our+Community&dates=20260828T150000Z%2F20260828T163000Z&location=3701+South+W+S+Young+Drive%2C+Killeen%2C+Texas%2C+76542%2C+United+States",
-"http://maps.google.com/?q=3701+South+W+S+Young+Drive+Killeen%2C+Texas%2C+76542+United+States",
-"https://ameliafortexas.bbimerch.com/?ctk=19a2699d-9053-44ee-ba0b-703b5a4ae1f0",
-"https://ameliafortexas.com/",
-"https://ameliafortexas.com/about",
-"https://ameliafortexas.com/cart",
-"https://ameliafortexas.com/endorsements",
-"https://ameliafortexas.com/events",
-"https://ameliafortexas.com/events/2n2xzpws8dbcxc9xxmd8lay6txj4g5",
-"https://ameliafortexas.com/events/84y2mf579jzmwj79mltaf5ck39dg2n",
-"https://ameliafortexas.com/events/jpzajrht6a79pkb9fgg3a453ywd56a?format=ical",
-"https://ameliafortexas.com/get-involved",
-"https://ameliafortexas.com/issues",
-"https://ameliafortexas.com/trust-texans-initiative",
-"https://bsky.app/profile/ameliafortexas.bsky.social",
-"https://instagram.com/ameliafortexas",
-"https://secure.actblue.com/donate/amelia-rabroker-1",
-"https://tiktok.com/@ameliafortexas",
-"https://x.com/AmeliaForTexas"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=3701+south+w+s+young+drive+killeen%2C+texas%2C+76542+united+states"
+},
+{
+"text": "0",
+"href": "https://www.ameliafortexas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.ameliafortexas.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ameliafortexas.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amelia-rabroker-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.ameliafortexas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.ameliafortexas.com/events"
+},
+{
+"text": "FAQ",
+"href": "https://www.ameliafortexas.com/faqs-5"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ameliafortexas.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Breakfast+Meet+%26+Greet+-+Reaching+Out+To+Our+Community&dates=20260828T150000Z%2F20260828T163000Z&location=3701+South+W+S+Young+Drive%2C+Killeen%2C+Texas%2C+76542%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.ameliafortexas.com/events/jpzajrht6a79pkb9fgg3a453ywd56a?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.ameliafortexas.com/issues"
+},
+{
+"text": "Next Next September 3 Central Texas State Fair - Volunteer Opportunity",
+"href": "https://www.ameliafortexas.com/events/2n2xzpws8dbcxc9xxmd8lay6txj4g5"
+},
+{
+"text": "Previous Previous August 22 Band Together For Texas - Bell County Democratic Kickoff",
+"href": "https://www.ameliafortexas.com/events/84y2mf579jzmwj79mltaf5ck39dg2n"
+},
+{
+"text": "Shop",
+"href": "https://ameliafortexas.bbimerch.com/?ctk=19a2699d-9053-44ee-ba0b-703b5a4ae1f0"
+},
+{
+"text": "Trust Texans Initiative",
+"href": "https://www.ameliafortexas.com/trust-texans-initiative"
+},
+{
+"text": "[image: Amelia for Texas]",
+"href": "https://www.ameliafortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/ameliafortexas"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/ameliafortexas.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ameliafortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@ameliafortexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AmeliaForTexas"
+}
 ]

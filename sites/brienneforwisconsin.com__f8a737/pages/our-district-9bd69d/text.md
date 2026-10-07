@@ -1,14 +1,3 @@
-- Edgerton
-- Milton
-- Whitewater
-- Part of Janesville, generally east of I-39/90
-- Fulton
-- Harmony
-- Johnstown
-- Lima
-- Milton
-- Jefferson County: Town of Cold Spring
-- Walworth County: Towns of Richmond and Whitewater
-Friends of Brienne
-P.O.
-Box 163, Whitewater, Wisconsin 53190, United States
+Home Upcoming Events Our District Issues Contact More Home Upcoming Events Our District Issues Contact Home Upcoming Events Our District Issues Contact Our District 43rd Assembly District: Interactive Map Places In the 43rd Assembly District Cities Jefferson and Walworth County Towns Rock County Towns Edgerton Milton Whitewater Part of Janesville, generally east of I-39/90 Rock County Towns Jefferson and Walworth County Towns Rock County Towns Fulton Harmony Johnstown Lima Milton Jefferson and Walworth County Towns Jefferson and Walworth County Towns Jefferson and Walworth County Towns Jefferson County: Town of Cold Spring Walworth County: Towns of Richmond and Whitewater Terms and Conditions Privacy Policy Friends of Brienne P.O.
+Box 163, Whitewater, Wisconsin 53190, United States 512-297-8928 Copyright © # Friends of Brienne - All Rights Reserved.
+Powered by

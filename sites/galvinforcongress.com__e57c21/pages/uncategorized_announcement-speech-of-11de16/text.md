@@ -1,18 +1,16 @@
-Galvin Sablan Deleon Guerrero
-Independent Candidate for CNMI Delegate to US Congress
-June 19, 2025
-Good Evening, Buenas Noches, Olomwaay, and Mabuhay.
+Skip to content Facebook Instagram Youtube Tiktok Home Meet Galvin Platform Issues Core Principles News Home Meet Galvin Platform Issues Core Principles News Facebook Instagram Youtube Tiktok Volunteer Donate Announcement Speech of Galvin Sablan Deleon Guerrero Independent Candidate for CNMI Delegate to US Congres s June 19, 2025 Good Evening, Buenas Noches, Olomwaay, and Mabuhay.
 Thank you all very much for being here.
 Seeing all of you–family, friends, loved ones–means so much to me, Velma, and our kids.
 Thank you for your time, your blessing, and your belief in me and in something greater than us—something worth fighting for.
-You see, 50 years ago on June 17, 1975, I had just turned two years old.
+You see, #ago on June 17, 1975, I had just turned two years old.
 Yes, I was born in the 1900s and now I’m 52.
 But something else happened on that day–something extraordinary.
 Just over 5,000 people from 14 small islands in the Western Pacific made a bold choice.
 After centuries of colonization and the devastation of war, our people voted to become a Commonwealth in political union with the United States of America.
-Think about that. 14 tiny islands—8,000 miles away from Washington, DC—negotiated with the most powerful nation on Earth and forged a Covenant built on the promise of local self-government and economic prosperity.
+Think about that.
+14 tiny islands—8,000 miles away from Washington, DC—negotiated with the most powerful nation on Earth and forged a Covenant built on the promise of local self-government and economic prosperity.
 That moment didn’t just change our political status—it became a part of the great American story: of a people united by faith and their God-given right to improve their lives, secure their liberties, and pursue happiness through hard work.
-When I think about what happened 50 years ago, I think about the leaders who fought to launch a future they might never see, to create opportunities for generations to come, and to instill hope among a people who had suffered so much.
+When I think about what happened #ago, I think about the leaders who fought to launch a future they might never see, to create opportunities for generations to come, and to instill hope among a people who had suffered so much.
 Our ancestors who braved vast distances and turbulent waters in their mighty proas.
 My great-grandfather, Gregorio “Kilili” San Nicolas Sablan, the first mayor of Saipan, who survived house arrest during the war, searched for survivors in caves up north after the war, and then helped rebuild our island after liberation from Camp Susupe.
 And the visionaries of the Marianas Political Status Commission—Edward Pangelinan, Vicente Santos, Benjamin Manglona, Bernard Hofschneider, Dr.
@@ -86,3 +84,10 @@ Because the future of the Marianas deserves nothing less than our very best in W
 That is why I humbly ask you to choose me to be your Delegate, because I pledge to give nothing but my best, always fighting for us.
 Thank you.
 May God bless all of you, may God bless the United States of America, and may God bless the Commonwealth of the Northern Mariana Islands.
+Deleon Guerrero: US Support Is a Covenant Commitment, Not a Conditional Deal Times are tough.
+And I commend Governor Apatang, Lt.
+Governor...
+Read More “A Tax on Our Survival”: Deleon Guerrero Condemns Suspension of Duty-Free De Minimis FOR IMMEDIATE RELEASESeptember 4, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Deleon Guerrero Joins National Education Leaders to Restore Funding for Minority-Serving Institutions FOR IMMEDIATE RELEASEOctober 9, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Deleon Guerrero Condemns Halt of Food Benefits, Calls for Immediate Federal Action to Protect CNMI Families FOR IMMEDIATE RELEASEOctober 23, 2025 Saipan, CNMI – Galvin Sablan...
+Read More Load More News Core Values Core Principles Join the Fight © # Copyright Galvin for Congress Stay Informed Here Facebook Instagram Youtube Tiktok Contact Us galvinforcongress@gmail.com Paid for by Galvin for Congress Lucy Deleon Guerrero Neilsen, Treasurer ©# Copyright Galvin for Congress Subscribe to stay informed Name (Required) First Last Email (Required) Submit

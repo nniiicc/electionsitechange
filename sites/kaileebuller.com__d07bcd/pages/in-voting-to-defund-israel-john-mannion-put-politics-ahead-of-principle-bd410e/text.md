@@ -1,6 +1,6 @@
-Central New York’s community has every right to be angry.
+Kitchen Table Solutions Tour Media Blog Issues Volunteer Yard Sign Request Newsletter Sign Up Donate In Voting to Defund Israel, John Mannion Put Politics Ahead of Principle Jul 24, 2026 Back to Blog Central New York’s community has every right to be angry .
 So am I.
-Congressman John Mannion voted for legislation that would have eliminated the United States’ annual $3.3 billion in security assistance to Israel, breaking with decades of bipartisan support for one of America’s closest and most important allies.
+Congressman John Mannion voted for legislation that would have eliminated the United States’ annual $3.3 billion in security assistance to Israel , breaking with decades of bipartisan support for one of America’s closest and most important allies.
 His constituents across New York’s 22nd Congressional District deserve answers.
 Mannion should explain why he voted to weaken Israel while it continues to face threats from Iran, Hamas, Hezbollah, the Houthis, and other terrorist organizations committed to its destruction.
 In a vote in which Democratic leaders, including House Democratic Leader Hakeem Jeffries, opposed this effort, John Mannion broke from party leadership and aligned himself with Representative Rashida Tlaib and the socialist wing of his party.
@@ -20,3 +20,4 @@ I will support Israel’s security, hold Hamas and Iran accountable, and stand a
 I will never support policies that jeopardize Israel’s security or abandon one of America’s closest allies.
 Central New York deserves a representative who says what she means and means what she says.
 When I say I will stand with Israel, I mean it.
+Donate Follow Follow Follow Follow PAID FOR BY Kailee for Congress Privacy Policy | Terms & Conditions Contact us: [email protected]

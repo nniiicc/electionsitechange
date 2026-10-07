@@ -1,1 +1,3 @@
-Call For Action: Special Legislative Session On Condo Insurance and Rent Relief Kim Coco IwamotoAugust 4, 2024
+Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Home Meet Kim Coco Experience District Resources Issues Blog Media Why Kim Coco Events Volunteer Contribute Contact Me Posts by Kim Coco Iwamoto Why I cannot vote for Speaker Nakamura – at this t Kim Coco Iwamoto January 15, 2025 Call For Action: Special Legislative Session On Condo Insurance and Rent Relief Kim Coco Iwamoto August 4, 2024 Campaign Headquarters: (808) 664-3830* • KimCoco@KimCoco.com *If you choose to text Friends of Kim Coco at this number, please indicate SUBSCRIBE, or we will not be able to reply via text.
+You may unsubscribe at any time with STOP Paid for by Friends of Kim Coco • P.O.
+Box 22136 • Honolulu, HI 96823

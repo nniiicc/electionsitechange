@@ -1,14 +1,58 @@
 [
-"https://bsky.app/profile/davidformn40b.bsky.social",
-"https://david-gottfried.com/",
-"https://david-gottfried.com/cart",
-"https://david-gottfried.com/contact",
-"https://david-gottfried.com/endorsements-distinctions",
-"https://david-gottfried.com/meet-david",
-"https://david-gottfried.com/new-dropdown",
-"https://david-gottfried.com/photos",
-"https://david-gottfried.com/vision",
-"https://david-gottfried.com/volunteer",
-"https://facebook.com/profile.php?id=61556122410352",
-"https://secure.actblue.com/donate/dgformn"
+{
+"text": "0",
+"href": "https://www.david-gottfried.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.david-gottfried.com/contact"
+},
+{
+"text": "Contribute to the Cause",
+"href": "https://secure.actblue.com/donate/dgformn"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dgformn"
+},
+{
+"text": "Endorsements & Distinctions",
+"href": "https://www.david-gottfried.com/endorsements-distinctions"
+},
+{
+"text": "Folder: About",
+"href": "https://www.david-gottfried.com/new-dropdown"
+},
+{
+"text": "Meet David",
+"href": "https://www.david-gottfried.com/meet-david"
+},
+{
+"text": "Photos",
+"href": "https://www.david-gottfried.com/photos"
+},
+{
+"text": "Vision",
+"href": "https://www.david-gottfried.com/vision"
+},
+{
+"text": "Volunteer",
+"href": "https://www.david-gottfried.com/volunteer"
+},
+{
+"text": "[image: David Gottfried for MN40B]",
+"href": "https://www.david-gottfried.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/davidformn40b.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61556122410352"
+}
 ]

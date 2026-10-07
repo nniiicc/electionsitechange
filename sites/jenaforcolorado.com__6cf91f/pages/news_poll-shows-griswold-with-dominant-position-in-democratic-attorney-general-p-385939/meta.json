@@ -1,6 +1,8 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.jenaforcolorado.com/news/poll-shows-griswold-with-dominant-position-in-democratic-attorney-general-primary",
+ "fingerprint": "b969f43234848722629adcab856813cdb568b928",
+ "format": 3,
  "paid_for_by": "Paid for by Jena for Colorado",
  "title": "Poll Shows Griswold with dominant position in Democratic Attorney General Primary",
  "years_mentioned": [

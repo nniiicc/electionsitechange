@@ -1,6 +1,4 @@
-Meet REAR ADMIRAL
-eileen laubacher
-Service to country is in my blood.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Meet REAR ADMIRAL eileen laubacher Service to country is in my blood.
 I served in the United States Navy for 34 years.
 I am the daughter and granddaughter of Navy veterans.
 My father retired from the Navy after 37 years of service to our nation, and my grandfather was a frogman in World War II.
@@ -21,8 +19,7 @@ Chris and my two youngest children moved back home, where they graduated from ou
 Meanwhile, I fulfilled my mission in Washington, DC.
 I retired from the Navy in October 2024 and returned to our home in Colorado, looking forward to more time with my husband, children, and our three grandchildren.
 And then I felt the call to serve once more.
-Why I’m Running
-I was 17-years-old when I raised my right hand for the first time and took an oath to support and defend the Constitution against all enemies, foreign and domestic.
+Why I’m Running I was 17-years-old when I raised my right hand for the first time and took an oath to support and defend the Constitution against all enemies, foreign and domestic.
 I took those words, and that responsibility, seriously every day for nearly 4 decades.
 But in all those years, I have never felt as much of a threat to our country, our Constitution, our very democracy, as I do at this time.
 I have frequently said that I would never run for office.
@@ -33,3 +30,7 @@ They deserve a Congressperson who is willing to work tirelessly to make the Gove
 They deserve someone who believes in service before self.
 Lauren Boebert is not that person.
 I am.
+GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

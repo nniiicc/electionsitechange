@@ -1,8 +1,1 @@
-top of page
-Home
-Donate
-Mike's Record
-Get Involved
-Election Info
-Press Releases
-bottom of page
+top of page Home Donate Mike's Record Get Involved Election Info Press Releases Home Donate Mike's Record Get Involved Election Info Press Releases Privacy Policy Authorized & Paid for by Brittingham for State Representative 2026 bottom of page

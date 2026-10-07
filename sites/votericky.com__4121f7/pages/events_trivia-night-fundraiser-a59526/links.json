@@ -1,32 +1,134 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+Fundraiser&dates=20240725T220000Z%2F20240726T000000Z&location=330+West+State+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States",
-"http://maps.google.com/?q=330+West+State+Street+Geneva%2C+IL%2C+60134+United+States",
-"https://rayguncustom.com/collections/ricky-rivard-for-state-rep",
-"https://secure.actblue.com/donate/rivard65",
-"https://secure.actblue.com/donate/trivia12",
-"https://votericky.com/",
-"https://votericky.com/aboutricky",
-"https://votericky.com/cart",
-"https://votericky.com/contact",
-"https://votericky.com/district-map",
-"https://votericky.com/events",
-"https://votericky.com/events/campaign-kick-off",
-"https://votericky.com/events/kane-county-fair-meet-and-greet",
-"https://votericky.com/events/trivia-night-fundraiser?format=ical",
-"https://votericky.com/events?tag=Democrat",
-"https://votericky.com/events?tag=Election",
-"https://votericky.com/events?tag=KCDW",
-"https://votericky.com/events?tag=KCYD",
-"https://votericky.com/events?tag=Kane+County",
-"https://votericky.com/events?tag=Kane+County+Board",
-"https://votericky.com/events?tag=Kane+Dem",
-"https://votericky.com/events?tag=Ricky",
-"https://votericky.com/events?tag=Rivard",
-"https://votericky.com/events?tag=county+board",
-"https://votericky.com/events?tag=fundraiser",
-"https://votericky.com/events?tag=ricky+rivard",
-"https://votericky.com/events?tag=trivia",
-"https://votericky.com/issues",
-"https://votericky.com/news",
-"https://votericky.com/privacy-policy"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=330+west+state+street+geneva%2C+il%2C+60134+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votericky.com/cart"
+},
+{
+"text": "About Ricky",
+"href": "https://www.votericky.com/aboutricky"
+},
+{
+"text": "Back",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votericky.com/events"
+},
+{
+"text": "Contact",
+"href": "https://www.votericky.com/contact"
+},
+{
+"text": "Democrat",
+"href": "https://www.votericky.com/events?tag=Democrat"
+},
+{
+"text": "District Map",
+"href": "https://www.votericky.com/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rivard65"
+},
+{
+"text": "Election",
+"href": "https://www.votericky.com/events?tag=Election"
+},
+{
+"text": "Events",
+"href": "https://www.votericky.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Trivia+Night+Fundraiser&dates=20240725T220000Z%2F20240726T000000Z&location=330+West+State+Street%2C+Geneva%2C+IL%2C+60134%2C+United+States"
+},
+{
+"text": "Home",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.votericky.com/events/trivia-night-fundraiser?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.votericky.com/issues"
+},
+{
+"text": "KCDW",
+"href": "https://www.votericky.com/events?tag=KCDW"
+},
+{
+"text": "KCYD",
+"href": "https://www.votericky.com/events?tag=KCYD"
+},
+{
+"text": "Kane County",
+"href": "https://www.votericky.com/events?tag=Kane+County"
+},
+{
+"text": "Kane County Board",
+"href": "https://www.votericky.com/events?tag=Kane+County+Board"
+},
+{
+"text": "Kane Dem",
+"href": "https://www.votericky.com/events?tag=Kane+Dem"
+},
+{
+"text": "News",
+"href": "https://www.votericky.com/news"
+},
+{
+"text": "Next Next July 14 Campaign Kick-off",
+"href": "https://www.votericky.com/events/campaign-kick-off"
+},
+{
+"text": "Previous Previous July 21 Kane County Fair Meet and Greet",
+"href": "https://www.votericky.com/events/kane-county-fair-meet-and-greet"
+},
+{
+"text": "Privacy Policy & Terns/Conditions",
+"href": "https://www.votericky.com/privacy-policy"
+},
+{
+"text": "Ricky",
+"href": "https://www.votericky.com/events?tag=Ricky"
+},
+{
+"text": "Ricky Rivard for State Rep store",
+"href": "https://www.rayguncustom.com/collections/ricky-rivard-for-state-rep"
+},
+{
+"text": "Ricky Rivard | Putting People First",
+"href": "https://www.votericky.com/"
+},
+{
+"text": "Rivard",
+"href": "https://www.votericky.com/events?tag=Rivard"
+},
+{
+"text": "county board",
+"href": "https://www.votericky.com/events?tag=county+board"
+},
+{
+"text": "fundraiser",
+"href": "https://www.votericky.com/events?tag=fundraiser"
+},
+{
+"text": "https://secure.actblue.com/donate/trivia12",
+"href": "https://secure.actblue.com/donate/trivia12"
+},
+{
+"text": "ricky rivard",
+"href": "https://www.votericky.com/events?tag=ricky+rivard"
+},
+{
+"text": "trivia",
+"href": "https://www.votericky.com/events?tag=trivia"
+}
 ]

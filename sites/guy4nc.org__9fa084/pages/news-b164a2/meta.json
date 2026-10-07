@@ -1,10 +1,13 @@
 {
  "description": "Get the latest campaign news, announcements, and more!",
  "final_url": "https://guy4nc.org/news/",
- "paid_for_by": null,
+ "fingerprint": "d4e9362abda19a7a9ef93cc533451780eca52e1d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "News | Guy Meilleur US House 4",
  "years_mentioned": [
   "2023",
+  "2024",
   "2026"
  ]
 }

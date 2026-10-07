@@ -1,11 +1,42 @@
 [
-"http://facebook.com/squarespace",
-"http://instagram.com/squarespace",
-"http://twitter.com/squarespace",
-"https://mikulski4house.com/",
-"https://mikulski4house.com/cart",
-"https://mikulski4house.com/contact",
-"https://mikulski4house.com/donate",
-"https://mikulski4house.com/gallery",
-"https://secure.anedot.com/mikulski4house-bf68b3c1-69cd-485a-9916-82e8c47770e7/donate"
+{
+"text": "0",
+"href": "https://www.mikulski4house.com/cart"
+},
+{
+"text": "Contact",
+"href": "https://www.mikulski4house.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.mikulski4house.com/donate"
+},
+{
+"text": "Donate for Victory",
+"href": "https://secure.anedot.com/mikulski4house-bf68b3c1-69cd-485a-9916-82e8c47770e7/donate"
+},
+{
+"text": "Gallery",
+"href": "https://www.mikulski4house.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.mikulski4house.com/"
+},
+{
+"text": "[image: Mikulski For House]",
+"href": "https://www.mikulski4house.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/squarespace"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/squarespace"
+}
 ]

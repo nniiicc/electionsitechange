@@ -1,4 +1,7 @@
-I'm delighted to be joining Cheryl Kagan, Kumar Barve, and Jim Gilchrist as part of the state legislative team for District 17.
+Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Home Need Help?
+About Julie Legislation Accomplishments Endorsements News Contact Contribute Julie Palakovich Carr November 7, 2018 News We Did It!
+Julie Palakovich Carr November 7, 2018 News I'm delighted to be joining Cheryl Kagan, Kumar Barve, and Jim Gilchrist as part of the state legislative team for District 17.
 Thank you to the residents of Gaithersburg and Rockville for the opportunity to serve!
 I'm ready to hit the ground running.
 My legislative aide will be Cameron Rhode, who is a resident of Gaithersburg, a freshly minted biologist, a longtime participant of local politics, and fluent in Spanish.
@@ -13,3 +16,5 @@ An official announcement will be issued by the City soon with more details about
 And last but not least, I want to thank Delegate Andrew Platt for his service over the past four years.
 He was a leader of the inaugural class of progressive delegates, a group whose work will continue in the coming years.
 Thank you again for this opportunity!
+Newer Post Delegate Scholarship Funds Available Older Post It's National Voter Registration Day!
+Back to Top Authorized by Friends of Julie Palakovich Carr, Treasurer Yamil Hernandez Contact Julie at Julie@JuliePalakovichCarr.com

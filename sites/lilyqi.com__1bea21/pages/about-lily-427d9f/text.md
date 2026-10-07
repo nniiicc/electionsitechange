@@ -1,5 +1,4 @@
-About Lily
-Lily Qi serves in the Maryland House of Delegates representing Montgomery County, a suburb of Washington, D.C.
+0 Skip to Content Book About Lily Invite Lily to Speak Events Media Contact Open Menu Close Menu Book About Lily Invite Lily to Speak Events Media Contact Open Menu Close Menu Book About Lily Invite Lily to Speak Events Media Contact About Lily Lily Qi serves in the Maryland House of Delegates representing Montgomery County, a suburb of Washington, D.C.
 Born and raised in Shanghai during China’s Cultural Revolution, Lily came to the United States alone in 1989.
 Thirty years later, she became the first Chinese immigrant elected to the Maryland General Assembly.
 At the age of 25, she arrived in Indiana, far from home and from everything she knew, carrying little more than the hope of creating new opportunities for herself.
@@ -14,3 +13,4 @@ Over the years, she has served on numerous nonprofit boards and commissions and 
 Today, Lily continues to share her experiences as an immigrant, mother, community leader, and American who has lived through two very different systems and cultures.
 Her memoir Elected American brings together these experiences—from her childhood in Shanghai and journey to the United States to the unexpected path that eventually led her into public life.
 At its heart, her story is about finding home, building community, and discovering what it means to become American.
+LilyQi.com lilyqiauthor@gmail.com

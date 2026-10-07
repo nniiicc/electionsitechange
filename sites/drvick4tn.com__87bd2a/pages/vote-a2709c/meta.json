@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://drvick4tn.com/vote",
- "paid_for_by": null,
+ "fingerprint": "c6f6fcd50f49eff3d80d9d074fa5b4fa9987d146",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

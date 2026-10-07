@@ -1,22 +1,90 @@
 [
-"https://app.campaign-crypto.com/c4c",
-"https://facebook.com/MikeCollinsGA",
-"https://instagram.com/mikecollinsga",
-"https://mikecollinsga.com/",
-"https://mikecollinsga.com/about",
-"https://mikecollinsga.com/cdn-cgi/l/email-protection",
-"https://mikecollinsga.com/convoy",
-"https://mikecollinsga.com/endorsements",
-"https://mikecollinsga.com/events",
-"https://mikecollinsga.com/media",
-"https://mikecollinsga.com/press",
-"https://mikecollinsga.com/press/mike-collins-for-u-s-senate-launches-new-ad-delivers",
-"https://mikecollinsga.com/press/mike-collins-q2-fundraising-report-shows-strong-grassroots-support-across-georgia",
-"https://mikecollinsga.com/privacy-policy",
-"https://mikecollinsga.com/terms-conditions",
-"https://secure.winred.com/mike-collins/storefront",
-"https://secure.winred.com/mike-collins/website?exitintent=true",
-"https://truthsocial.com/@MikeCollinsGA",
-"https://x.com/mikecollinsga",
-"https://youtube.com/channel/UCjh6vFfsb53dVOGIQxBcdBA"
+{
+"text": "CONTACT US",
+"href": "mailto:contact@mikecollinsga.com"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.winred.com/mike-collins/website?exitintent=true"
+},
+{
+"text": "DONATE WITH CRYPTO",
+"href": "https://app.campaign-crypto.com/c4c/"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://mikecollinsga.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://mikecollinsga.com/events"
+},
+{
+"text": "MEDIA",
+"href": "https://mikecollinsga.com/media"
+},
+{
+"text": "MEDIA INQUIRIES",
+"href": "mailto:press@mikecollinsga.com"
+},
+{
+"text": "MEET MIKE",
+"href": "https://mikecollinsga.com/about"
+},
+{
+"text": "MIKE COLLINS’ Q2 FUNDRAISING REPORT SHOWS STRONG GRASSROOTS SUPPORT ACROSS GEORGIA →",
+"href": "https://mikecollinsga.com/press/mike-collins-q2-fundraising-report-shows-strong-grassroots-support-across-georgia/"
+},
+{
+"text": "PRESS",
+"href": "https://mikecollinsga.com/press"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://mikecollinsga.com/privacy-policy/"
+},
+{
+"text": "STORE",
+"href": "https://secure.winred.com/mike-collins/storefront/"
+},
+{
+"text": "TERMS & CONDITIONS",
+"href": "https://mikecollinsga.com/terms-conditions/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://mikecollinsga.com/convoy"
+},
+{
+"text": "[email protected]",
+"href": "mailto:press@mikecollinsga.com"
+},
+{
+"text": "[image]",
+"href": "https://mikecollinsga.com/"
+},
+{
+"text": "[image]",
+"href": "https://truthsocial.com/@MikeCollinsGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/MikeCollinsGA"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/mikecollinsga/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCjh6vFfsb53dVOGIQxBcdBA"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/mikecollinsga/"
+},
+{
+"text": "← MIKE COLLINS FOR U.S. SENATE LAUNCHES NEW AD: “DELIVERS”",
+"href": "https://mikecollinsga.com/press/mike-collins-for-u-s-senate-launches-new-ad-delivers/"
+}
 ]

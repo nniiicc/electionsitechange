@@ -1,18 +1,78 @@
 [
-"http://apolloartistry.com/",
-"https://johnmoran9.com/",
-"https://johnmoran9.com/cdn-cgi/l/email-protection",
-"https://johnmoran9.com/donate",
-"https://johnmoran9.com/es",
-"https://johnmoran9.com/facebook",
-"https://johnmoran9.com/instagram",
-"https://johnmoran9.com/privacy-policy",
-"https://johnmoran9.com/twitter",
-"https://sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote",
-"https://secure.actblue.com/donate/jmweb?amount=10&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=100&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=25&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=50&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?amount=500&express_lane=true",
-"https://secure.actblue.com/donate/jmweb?express_lane=true"
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/jmweb?amount=10&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/jmweb?amount=100&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/jmweb?amount=25&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/jmweb?amount=50&express_lane=true"
+},
+{
+"text": "$# $#",
+"href": "https://secure.actblue.com/donate/jmweb?amount=500&express_lane=true"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@johnmoran9.com"
+},
+{
+"text": "Donate",
+"href": "https://johnmoran9.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://johnmoran9.com/donate"
+},
+{
+"text": "ES",
+"href": "https://johnmoran9.com/es"
+},
+{
+"text": "Español",
+"href": "https://johnmoran9.com/es"
+},
+{
+"text": "Facebook",
+"href": "https://johnmoran9.com/facebook"
+},
+{
+"text": "Find your November 3rd polling place Find your November 3rd polling place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Find your September 3rd polling place Find your September 3rd polling place",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+},
+{
+"text": "Instagram",
+"href": "https://johnmoran9.com/instagram"
+},
+{
+"text": "Other Amount... Other Amount...",
+"href": "https://secure.actblue.com/donate/jmweb?express_lane=true"
+},
+{
+"text": "POWERED BY APOLLO",
+"href": "http://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://johnmoran9.com/privacy-policy"
+},
+{
+"text": "X-twitter",
+"href": "https://johnmoran9.com/twitter"
+},
+{
+"text": "[image]",
+"href": "https://johnmoran9.com"
+}
 ]

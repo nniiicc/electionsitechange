@@ -1,32 +1,126 @@
 [
-"https://facebook.com/SaraLove4MD",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/sara.love4md",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0016?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0022",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0052?ys=2022RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0102",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0293",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0611?ys=2021RS",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0310?ys=2023rs",
-"https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0896?ys=2025RS",
-"https://saralove2018.us16.list-manage.com/track/click?u=582b34014ea631395f17df16c&id=b3f7ed5735&e=6ee14301fc",
-"https://saralove4md.com/",
-"https://saralove4md.com/animal-protection-1",
-"https://saralove4md.com/biography",
-"https://saralove4md.com/contact",
-"https://saralove4md.com/education",
-"https://saralove4md.com/endorsements",
-"https://saralove4md.com/energy",
-"https://saralove4md.com/gun-safety",
-"https://saralove4md.com/justice-and-safety",
-"https://saralove4md.com/newsletters",
-"https://saralove4md.com/press",
-"https://saralove4md.com/reproductive-rights",
-"https://saralove4md.com/scholarships",
-"https://saralove4md.com/the-environment",
-"https://saralove4md.com/transportation",
-"https://saralove4md.com/voting-information",
-"https://secure.actblue.com/donate/friends-of-sara-love-1",
-"https://x.com/@saralove4MD"
+{
+"text": "Animal Protection",
+"href": "https://saralove4md.com/animal-protection-1"
+},
+{
+"text": "Biography",
+"href": "https://saralove4md.com/biography"
+},
+{
+"text": "Contact",
+"href": "https://saralove4md.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-sara-love-1"
+},
+{
+"text": "Education",
+"href": "https://saralove4md.com/education"
+},
+{
+"text": "Endorsements",
+"href": "https://saralove4md.com/endorsements"
+},
+{
+"text": "Energy",
+"href": "https://saralove4md.com/energy"
+},
+{
+"text": "Gun Safety",
+"href": "https://saralove4md.com/gun-safety"
+},
+{
+"text": "HB 102",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0102"
+},
+{
+"text": "HB 16",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0016?ys=2022RS"
+},
+{
+"text": "HB 22/",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0022"
+},
+{
+"text": "HB 293/SB 200",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0293"
+},
+{
+"text": "HB 379",
+"href": "https://saralove2018.us16.list-manage.com/track/click?u=582b34014ea631395f17df16c&id=b3f7ed5735&e=6ee14301fc"
+},
+{
+"text": "HB 52",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0052?ys=2022RS"
+},
+{
+"text": "HB 611/SB 282",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0611?ys=2021RS"
+},
+{
+"text": "Home",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "Justice and Safety",
+"href": "https://saralove4md.com/justice-and-safety"
+},
+{
+"text": "Newsletters",
+"href": "https://saralove4md.com/newsletters"
+},
+{
+"text": "Press",
+"href": "https://saralove4md.com/press"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://saralove4md.com/reproductive-rights"
+},
+{
+"text": "SB 310/",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0310/?ys=2023rs"
+},
+{
+"text": "SB 896/HB 1152",
+"href": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0896?ys=2025RS"
+},
+{
+"text": "Scholarships",
+"href": "https://saralove4md.com/scholarships"
+},
+{
+"text": "The Environment",
+"href": "https://saralove4md.com/the-environment"
+},
+{
+"text": "Transportation",
+"href": "https://saralove4md.com/transportation"
+},
+{
+"text": "Voting Information",
+"href": "https://saralove4md.com/voting-information"
+},
+{
+"text": "[image: Sara Love for Maryland Delegate]",
+"href": "https://saralove4md.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraLove4MD/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sara.love4md"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/@saralove4MD"
+}
 ]

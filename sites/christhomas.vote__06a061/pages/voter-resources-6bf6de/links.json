@@ -1,22 +1,86 @@
 [
-"http://tiktok.com/@christhomasforpa",
-"http://x.com/ChrisThomasPA",
-"https://berkspa.gov/departments/election-services/voter-information/mail-in-or-absentee-ballot",
-"https://christhomas.vote/",
-"https://christhomas.vote/cart",
-"https://christhomas.vote/platform",
-"https://christhomas.vote/senate-district-24",
-"https://christhomas.vote/volunteer",
-"https://christhomas.vote/voter-resources",
-"https://facebook.com/share/1EHK5pRb6F?mibextid=wwXIfr",
-"https://instagram.com/christhomasforpa",
-"https://montgomerycountypa.gov/3587/Returning-Your-Mail-In-Ballot",
-"https://montgomerycountypa.gov/departments/voter-services/about-department/office-locations-hours",
-"https://pa.gov/agencies/vote/elections/upcoming-elections",
-"https://pa.gov/services/vote/find-your-local-polling-place",
-"https://palegis.us/find-my-legislator",
-"https://pavoterservices.pa.gov/OnlineAbsenteeApplication",
-"https://pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx",
-"https://secure.actblue.com/donate/christhomaspa",
-"https://youtube.com/channel/UCY0grhpUpY_o6Oco_T2KQsw"
+{
+"text": "0",
+"href": "https://christhomas.vote/cart"
+},
+{
+"text": "Apply For Your Mail Ballot",
+"href": "https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineMailInBegin"
+},
+{
+"text": "Berks Drop Box Locations",
+"href": "https://www.berkspa.gov/departments/election-services/voter-information/mail-in-or-absentee-ballot"
+},
+{
+"text": "Check Registration",
+"href": "https://www.pavoterservices.pa.gov/Pages/voterregistrationstatus.aspx"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/christhomaspa"
+},
+{
+"text": "Elected Officials",
+"href": "https://www.palegis.us/find-my-legislator"
+},
+{
+"text": "Election Dates",
+"href": "https://www.pa.gov/agencies/vote/elections/upcoming-elections"
+},
+{
+"text": "Find Polling Place",
+"href": "https://www.pa.gov/services/vote/find-your-local-polling-place"
+},
+{
+"text": "Find a Montco Satellite Office or the Montco Voter Van",
+"href": "https://www.montgomerycountypa.gov/departments/voter-services/about-department/office-locations-hours"
+},
+{
+"text": "Home",
+"href": "https://christhomas.vote/"
+},
+{
+"text": "Montco Drop Box Locations",
+"href": "https://www.montgomerycountypa.gov/3587/Returning-Your-Mail-In-Ballot"
+},
+{
+"text": "Platform",
+"href": "https://christhomas.vote/platform"
+},
+{
+"text": "Senate District 24",
+"href": "https://christhomas.vote/senate-district-24"
+},
+{
+"text": "Volunteer",
+"href": "https://christhomas.vote/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://christhomas.vote/voter-resources"
+},
+{
+"text": "[image: christhomas.vote]",
+"href": "https://christhomas.vote/"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@christhomasforpa"
+},
+{
+"text": "[no text]",
+"href": "http://x.com/ChrisThomasPA"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/share/1EHK5pRb6F/?mibextid=wwXIfr"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/christhomasforpa/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCY0grhpUpY_o6Oco_T2KQsw"
+}
 ]

@@ -1,6 +1,4 @@
-Kevin Martin · The Second Amendment · Crime and Policing
-Point Federal Law at the People Who Have Actually Done Something
-Kevin Martin on why federal firearms enforcement should concentrate on people with a record of violence rather than on paperwork aimed at everyone else.
+Skip to sign-up Home Issues Donate Home The Issues The Second Amendment Point Federal Law at the People Who Have Actually Done… Kevin Martin · The Second Amendment · Crime and Policing Point Federal Law at the People Who Have Actually Done Something Kevin Martin on why federal firearms enforcement should concentrate on people with a record of violence rather than on paperwork aimed at everyone else.
 I am going to try to write about this the way I would talk about it at a kitchen table rather than the way it usually gets written, which is with everyone already angry before the first sentence.
 Here is my starting point.
 The overwhelming majority of people who own firearms in this district will never commit a crime with one.
@@ -12,8 +10,7 @@ They are the ones.
 A small number of people commit a large share of violent crime, and many of them have a documented history before the thing that finally makes the news.
 If both of those are true, then the question for federal law is not complicated.
 Where do you point enforcement?
-Where it currently points
-A lot of federal effort goes into rules that apply to everybody — documentation, transfer procedure, categories of equipment — while cases involving people who are already prohibited from possessing a firearm, and were caught with one anyway, are frequently not pursued.
+Where it currently points A lot of federal effort goes into rules that apply to everybody — documentation, transfer procedure, categories of equipment — while cases involving people who are already prohibited from possessing a firearm, and were caught with one anyway, are frequently not pursued.
 That is the part I find hard to defend from either direction.
 If you believe in gun rights, you should want the prohibited-person cases prosecuted, because every one of those is somebody the law already said should not have it, and failing to enforce that is what generates the pressure for broader restrictions on everyone else.
 If you want fewer shootings, you should want the same thing, because that is where the shootings actually come from.
@@ -22,13 +19,9 @@ The disagreement usually starts somewhere else.
 A GAO review of data from 2011-2017 found that about 181,000 attempted purchases were denied in 2017.
 This was out of 25.6 million background checks, and only a small fraction of these were prosecuted.
 And prosecutions typically occur only when there is strong evidence of intent to violate the law.
-Many of these were resolved with warning notices instead of criminal actions.
-(source - US Government Accountability Office)
-What Congress actually controls
-Federal firearms law, the categories of prohibited persons, the background check system and what feeds into it, ATF's budget and authorities, and federal penalties for trafficking and straw purchases.
+Many of these were resolved with warning notices instead of criminal actions. (source - US Government Accountability Office) What Congress actually controls Federal firearms law, the categories of prohibited persons, the background check system and what feeds into it, ATF's budget and authorities, and federal penalties for trafficking and straw purchases.
 Worth being honest about the limits: Georgia's own firearms law is written in Atlanta, not Washington, and most enforcement is state and local.
-What needs to change
-Prosecute the cases that already exist.
+What needs to change Prosecute the cases that already exist.
 Prohibited person in possession.
 Straw purchases.
 Trafficking.
@@ -46,8 +39,14 @@ It has made a law-abiding person's day longer.
 Say what a proposal will actually do.
 Every measure should have to answer one question: which specific crimes would this have prevented, and how do we know?
 If a proposal cannot answer that, it is a gesture.
-Why I am framing it this way
-Because I think a lot of people on both sides of this are arguing past each other, and I do not think most people are as far apart as the argument sounds.
+Why I am framing it this way Because I think a lot of people on both sides of this are arguing past each other, and I do not think most people are as far apart as the argument sounds.
 I know people in this district who own firearms and would never be careless with them.
 I also know that when something terrible happens, the reaction is to reach for whatever is available, which is usually a new rule for the people who were already following the rules.
 I would rather focus on the small number of people generating the harm and be able to show you the numbers on whether it worked.
+Sources U.S.
+Government Accountability Office — Law Enforcement: Few Individuals Denied Firearms Purchases Are Prosecuted and ATF Should Assess Use of Warning Notices in Lieu of Prosecutions (GAO-18-440) Where Kevin stands on these issues The Second Amendment Keep federal law focused on people who have actually done something, no national gun registry, and apply the Constitution consistently across every right it protects.
+Where he stands → Crime and Policing Fund law enforcement properly, fix the federal side of the pretrial release problem, and appoint judges who read the law as written rather than legislate from the bench.
+Where he stands → It's your turn to be important.
+It only takes a minute to tell Kevin what you need him to focus on.
+Tell Kevin what you expect → No spam, ever.
+PAID FOR BY COMMITTEE TO ELECT KEVIN E MARTIN 4480 SOUTH COBB DRIVE SUITE H PO BOX 373 SMYRNA, GA 30080 The Issues Privacy Policy & Terms and Conditions

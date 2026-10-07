@@ -1,18 +1,5 @@
-Our campaign’s ramping up and we need all hands on deck to deliver a decisive victory in November!
+GET INVOLVED ABOUT JAMES ISSUES VOTE CONTRIBUTE GET INVOLVED ABOUT JAMES ISSUES VOTE CONTRIBUTE VOLUNTEER OR INTERN WITH US Our campaign’s ramping up and we need all hands on deck to deliver a decisive victory in November!
 Sign up for a shift below through our volunteer portal, or fill out our Volunteer Interest Form or Intern Interest Form.
-CONTACT US
-Phone
-845-397-7625
-Email
-SkoufisForNY [at] gmail.com
-2024 Campaign Headquarters
-69 Brookside Ave, Suite 208
-Chester, NY 10918
-Hours:
-Mon-Fri: 9am-8pm
-Sat & Sun: 10am-7pm
-Mailing Address
-Skoufis for Senate
-P.O.
-Box 63
-Highland Mills, NY 10930
+CONTACT US Phone 845-397-7625 Email SkoufisForNY [at] gmail.com 2024 Campaign Headquarters 69 Brookside Ave, Suite 208 Chester, NY 10918 Hours: Mon-Fri: 9am-8pm Sat & Sun: 10am-7pm Mailing Address Skoufis for Senate P.O.
+Box 63 Highland Mills, NY 10930 REQUEST LAWN SIGN JOIN OUR EMAIL LIST Sign up to receive the latest updates from the campaign!
+GET INVOLVED ABOUT JAMES ISSUES MEDIA VOTE CONTRIBUTE Join Email List 845-397-7625 © # Skoufis for NY Senate Paid for by Skoufis for NY Senate

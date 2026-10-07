@@ -1,10 +1,34 @@
 [
-"https://gordonforhouse.com/",
-"https://gordonforhouse.com/?page_id=20147",
-"https://gordonforhouse.com/?page_id=20149",
-"https://gordonforhouse.com/?page_id=20153",
-"https://gordonforhouse.com/?page_id=21019",
-"https://gordonforhouse.com/?page_id=21021",
-"https://politigig.com/",
-"https://secure.anedot.com/team-gordon/donate"
+{
+"text": "About",
+"href": "https://gordonforhouse.com/?page_id=21019"
+},
+{
+"text": "Contact",
+"href": "https://gordonforhouse.com/?page_id=20149"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/team-gordon/donate"
+},
+{
+"text": "Home",
+"href": "https://gordonforhouse.com/"
+},
+{
+"text": "Issues",
+"href": "https://gordonforhouse.com/?page_id=21021"
+},
+{
+"text": "News",
+"href": "https://gordonforhouse.com/?page_id=20153"
+},
+{
+"text": "Politigig",
+"href": "https://politigig.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://gordonforhouse.com/?page_id=20147"
+}
 ]

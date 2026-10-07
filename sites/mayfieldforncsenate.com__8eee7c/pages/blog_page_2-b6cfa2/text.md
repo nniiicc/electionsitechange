@@ -1,29 +1,13 @@
-UPDATED HELENE ASSISTANCE INFO 11/12
-Lots of updates today about resources and funding.
-I particularly want to draw your attention to the Hazard Mitigation Grant Program below, which can provide buyout funds or funds to…
-NCGA UPDATES + UPDATED HELENE ASSISTANCE INFO 10/24
-Today, the legislature unanimously passed the second relief bill for WNC.
-I am grateful for continued attention and funding for WNC – every dollar is needed, and this bill allocates…
-UPDATED HELENE ASSISTANCE INFO 10/15
-Such good news!
+Skip to content About BECOME A MAYFIELD MAJORITY MAKER!
+Donate Endorsements Home Issues News Privacy Policy Thank You Become a Mayfield Majority Maker!
+About NEWS ISSUES ENDORSEMENTS VOLUNTEER DONATE Become a Mayfield Majority Maker!
+Menu News UPDATED HELENE ASSISTANCE INFO 11/12 November 13, 2024 Lots of updates today about resources and funding.
+I particularly want to draw your attention to the Hazard Mitigation Grant Program below, which can provide buyout funds or funds to… Read More UPDATED HELENE ASSISTANCE INFO 11/12 NCGA UPDATES + UPDATED HELENE ASSISTANCE INFO 10/24 October 24, 2024 Today, the legislature unanimously passed the second relief bill for WNC.
+I am grateful for continued attention and funding for WNC – every dollar is needed, and this bill allocates… Read More NCGA UPDATES + UPDATED HELENE ASSISTANCE INFO 10/24 UPDATED HELENE ASSISTANCE INFO 10/15 October 15, 2024 Such good news!
 Water service (non-drinkable) is slowly being restored and has reached downtown.
-The goal is to have running water in all parts of Asheville soon, but that depends…
-Updated Helene Assistance Info 10/7
-**To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
-City Offices and Parks are closed until further notice.**…
-Updated Helene Assistance Info 10/5
-**To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
-City Offices and Parks are closed until further notice.**…
-Updated Helene Assistance Info 10/4
-**To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
-City Offices and Parks are closed until further notice.**…
-Updated Helene Assistance Info 10/3
-Over the last three days, response efforts have moved from initial crisis stage to beginning to operationalize the flow of supplies and resources.
-One of the best Incident Management Teams,…
-Updated Helene Assistance Info 10/2
-To support the safest environment, a curfew is in effect from 7:30 p.m. to 7:30 a.m. in the City of Asheville, and City Offices and Parks will be closed until…
-Updated Helene Assistance Info 10/1
-Water Distribution The City has now opened a new bottled water distribution site at Asheville Middle School in addition to the bulk water distribution still happening in front of City…
-Information about water distribution
-Because State supplies of bottled water have been so slow to arrive, the City of Asheville has ordered bulk water from a separate source, and it has now arrived.
-The…
+The goal is to have running water in all parts of Asheville soon, but that depends… Read More UPDATED HELENE ASSISTANCE INFO 10/15 Updated Helene Assistance Info 10/7 October 7, 2024 **To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
+City Offices and Parks are closed until further notice.**… Read More Updated Helene Assistance Info 10/7 Updated Helene Assistance Info 10/5 October 5, 2024 **To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
+City Offices and Parks are closed until further notice.**… Read More Updated Helene Assistance Info 10/5 Updated Helene Assistance Info 10/4 October 4, 2024 **To support a safe environment, a curfew is in effect from 7:30 PM to 7:30 AM in the City of Asheville.
+City Offices and Parks are closed until further notice.**… Read More Updated Helene Assistance Info 10/4 Updated Helene Assistance Info 10/3 October 3, 2024 Over the last three days, response efforts have moved from initial crisis stage to beginning to operationalize the flow of supplies and resources.
+One of the best Incident Management Teams,… Read More Updated Helene Assistance Info 10/3 Updated Helene Assistance Info 10/2 October 3, 2024 To support the safest environment, a curfew is in effect from 7:30 p.m. to 7:30 a.m. in the City of Asheville, and City Offices and Parks will be closed until… Read More Updated Helene Assistance Info 10/2 Updated Helene Assistance Info 10/1 October 1, 2024 Water Distribution The City has now opened a new bottled water distribution site at Asheville Middle School in addition to the bulk water distribution still happening in front of City… Read More Updated Helene Assistance Info 10/1 Information about water distribution September 30, 2024 Because State supplies of bottled water have been so slow to arrive, the City of Asheville has ordered bulk water from a separate source, and it has now arrived.
+The… Read More Information about water distribution Prev 1 2 3 4 Next ABOUT | ISSUES | PRIVACY POLICY | VOLUNTEER | DONATE Paid for by Julie Mayfield for NC Senate

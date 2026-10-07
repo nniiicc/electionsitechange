@@ -1,14 +1,54 @@
 [
-"https://facebook.com/profile.php?id=100027041330267",
-"https://forakbarali.com/",
-"https://forakbarali.com/cart",
-"https://forakbarali.com/contact",
-"https://forakbarali.com/endorsements",
-"https://forakbarali.com/media",
-"https://forakbarali.com/platform",
-"https://forakbarali.com/voting",
-"https://instagram.com/for.akbarali",
-"https://secure.actblue.com/donate/reelectali26",
-"https://substack.com/@repakbarali",
-"https://threads.net/@for.akbarali"
+{
+"text": "0",
+"href": "https://www.forakbarali.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.forakbarali.com/"
+},
+{
+"text": "CONTACT",
+"href": "https://www.forakbarali.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelectali26"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.forakbarali.com/endorsements"
+},
+{
+"text": "MEDIA",
+"href": "https://www.forakbarali.com/media"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.forakbarali.com/platform"
+},
+{
+"text": "VOTING",
+"href": "https://www.forakbarali.com/voting"
+},
+{
+"text": "[image: Elect Akbar Ali]",
+"href": "https://www.forakbarali.com/"
+},
+{
+"text": "[no text]",
+"href": "https://substack.com/@repakbarali"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100027041330267"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/for.akbarali/"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.net/@for.akbarali"
+}
 ]

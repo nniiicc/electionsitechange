@@ -1,41 +1,166 @@
 [
-"https://cssigniter.com/",
-"https://cssigniter.com/themes/convert",
-"https://facebook.com/IndianaGreenParty",
-"https://greenpartyin.com/",
-"https://greenpartyin.com/apply-for-group-recognition",
-"https://greenpartyin.com/ballot-access-working-grou",
-"https://greenpartyin.com/board",
-"https://greenpartyin.com/bylaws",
-"https://greenpartyin.com/bylaws-working-group",
-"https://greenpartyin.com/cannabis-caucus",
-"https://greenpartyin.com/caucuses",
-"https://greenpartyin.com/civicrm/mailing/view?id=66&reset=1",
-"https://greenpartyin.com/congress-planning-working-group",
-"https://greenpartyin.com/contact",
-"https://greenpartyin.com/contribute",
-"https://greenpartyin.com/fundraising-committee",
-"https://greenpartyin.com/history",
-"https://greenpartyin.com/indiana-green-party-platform",
-"https://greenpartyin.com/local-group",
-"https://greenpartyin.com/media-files",
-"https://greenpartyin.com/our-candidates",
-"https://greenpartyin.com/register-with-ingp",
-"https://greenpartyin.com/registering-to-vote",
-"https://greenpartyin.com/resources",
-"https://greenpartyin.com/run-for-office",
-"https://greenpartyin.com/technology-committee",
-"https://greenpartyin.com/ten-key-values",
-"https://greenpartyin.com/travisforindiana48",
-"https://greenpartyin.com/volunteer",
-"https://greenpartyin.com/volunteer-coordinating-committee",
-"https://greenpartyin.com/who-we-are",
-"https://greenpartyin.com/working-groups",
-"https://greenpartyin.com/wp-content/uploads/2026/05/Addressing-state-child-care-affordability-and-access.pdf",
-"https://greenpartyin.com/wp-content/uploads/2026/05/Addressing-the-addiction-crisis-in-indiana.pdf",
-"https://greenpartyin.com/wp-content/uploads/2026/05/Affordable-Housing-Plan-for-Indiana.pdf",
-"https://greenpartyin.com/wp-content/uploads/2026/05/Animal-abuse-reform-to-protect-our-beloved-pets.pdf",
-"https://greenpartyin.com/wp-content/uploads/2026/05/How-Indiana-state-can-better-care-for-vets.pdf",
-"https://greenpartyin.com/wp-content/uploads/2026/05/Plan-to-Fully-Fund-and-Modernize-Public-Education.pdf",
-"https://linktr.ee/indianagreenparty"
+{
+"text": "Address the State’s Childcare Crisis for Working Families",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/Addressing-state-child-care-affordability-and-access.pdf"
+},
+{
+"text": "Affordability in Housing Plan for Hoosiers",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/Affordable-Housing-Plan-for-Indiana.pdf"
+},
+{
+"text": "Apply for Group Recognition",
+"href": "https://greenpartyin.com/apply-for-group-recognition/"
+},
+{
+"text": "Ballot Access Working Group",
+"href": "https://greenpartyin.com/ballot-access-working-grou/"
+},
+{
+"text": "Bylaws",
+"href": "https://greenpartyin.com/bylaws/"
+},
+{
+"text": "Bylaws Working Group",
+"href": "https://greenpartyin.com/bylaws-working-group/"
+},
+{
+"text": "CSSIgniter",
+"href": "https://www.cssigniter.com/"
+},
+{
+"text": "Cannabis Caucus",
+"href": "https://greenpartyin.com/cannabis-caucus/"
+},
+{
+"text": "Caucuses",
+"href": "https://greenpartyin.com/caucuses/"
+},
+{
+"text": "Commitment to End Animal Abuse",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/Animal-abuse-reform-to-protect-our-beloved-pets.pdf"
+},
+{
+"text": "Congress Planning Working group",
+"href": "https://greenpartyin.com/congress-planning-working-group/"
+},
+{
+"text": "Contact",
+"href": "https://greenpartyin.com/contact/"
+},
+{
+"text": "Contribute to the Indiana Green Party",
+"href": "https://greenpartyin.com/contribute/"
+},
+{
+"text": "Convert - Ignition",
+"href": "https://www.cssigniter.com/themes/convert/"
+},
+{
+"text": "Coordinating Committee",
+"href": "https://greenpartyin.com/board/"
+},
+{
+"text": "Fundraising Committee",
+"href": "https://greenpartyin.com/fundraising-committee/"
+},
+{
+"text": "History",
+"href": "https://greenpartyin.com/history/"
+},
+{
+"text": "Increasing Support for Hoosier Veterans",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/How-Indiana-state-can-better-care-for-vets.pdf"
+},
+{
+"text": "Indiana Green Party Platform",
+"href": "https://greenpartyin.com/indiana-green-party-platform/"
+},
+{
+"text": "Join the Party!",
+"href": "https://greenpartyin.com/register-with-ingp/"
+},
+{
+"text": "LinkTree",
+"href": "https://linktr.ee/indianagreenparty"
+},
+{
+"text": "Local Groups",
+"href": "https://greenpartyin.com/local-group/"
+},
+{
+"text": "Marshall Travis – Indiana House 48",
+"href": "https://greenpartyin.com/travisforindiana48/"
+},
+{
+"text": "Media Files",
+"href": "https://greenpartyin.com/media-files/"
+},
+{
+"text": "Newsletter",
+"href": "https://greenpartyin.com/civicrm/mailing/view/?id=66&reset=1"
+},
+{
+"text": "Northwest Indiana Green Party",
+"href": "https://greenpartyin.com/nwigreens/"
+},
+{
+"text": "Our Candidates",
+"href": "https://greenpartyin.com/our-candidates/"
+},
+{
+"text": "Plan to Address the Mental Health and Addiction Crisis in Indiana",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/Addressing-the-addiction-crisis-in-indiana.pdf"
+},
+{
+"text": "Quality Public Education for All Children",
+"href": "https://greenpartyin.com/wp-content/uploads/2026/05/Plan-to-Fully-Fund-and-Modernize-Public-Education.pdf"
+},
+{
+"text": "Registering to Vote",
+"href": "https://greenpartyin.com/registering-to-vote/"
+},
+{
+"text": "Resources",
+"href": "https://greenpartyin.com/resources/"
+},
+{
+"text": "Run for Office",
+"href": "https://greenpartyin.com/run-for-office/"
+},
+{
+"text": "Technology Committee",
+"href": "https://greenpartyin.com/technology-committee/"
+},
+{
+"text": "Ten Key Values",
+"href": "https://greenpartyin.com/ten-key-values/"
+},
+{
+"text": "Volunteer",
+"href": "https://greenpartyin.com/volunteer/"
+},
+{
+"text": "Volunteer Coordinating Committee",
+"href": "https://greenpartyin.com/volunteer-coordinating-committee/"
+},
+{
+"text": "Who We Are",
+"href": "https://greenpartyin.com/who-we-are/"
+},
+{
+"text": "Working Groups",
+"href": "https://greenpartyin.com/working-groups/"
+},
+{
+"text": "[image: Indiana Green Party]",
+"href": "https://greenpartyin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://linktr.ee/indianagreenparty"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/IndianaGreenParty"
+}
 ]

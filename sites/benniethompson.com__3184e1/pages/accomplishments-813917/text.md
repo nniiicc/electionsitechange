@@ -1,8 +1,26 @@
-The only member of Mississippi’s congressional delegation to vote YES to extend enhanced
-ACA premium tax credits for three years.
+(601) 866-9100 bennie_thompson@bellsouth.net Donate Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Home Meet Bennie Accomplishments Media Events Gallery News and Video Endorsements Get Involved Contact Accomplishments Home Accomplishments Bennie Thompson's Accomplishments Bennie Thompson has a long record of delivering real results for Mississippi’s Second Congressional District, from securing federal funding and strengthening public safety to expanding healthcare access and supporting economic growth.
+Explore the tabs below to learn more about his accomplishments and the impact of his work on the issues that matter most.
+Health Care Broadband & Digital Access Transportation & Infrastructure Health Care The only member of Mississippi’s congressional delegation to vote YES to extend enhanced ACA premium tax credits for three years.
 Fighting to protect affordable coverage for tens of thousands of Mississippi families.
-Standing Up to H.R. 1 (“The Big Ugly Bill”)
-Voted against H.R. 1, a 2025 reconciliation bill, as the only member of the Mississippi
-congressional delegation to do so.
+Standing Up to H.R.
+1 (“The Big Ugly Bill”) Voted against H.R.
+1, a 2025 reconciliation bill, as the only member of the Mississippi congressional delegation to do so.
 Opposed cuts to Medicaid, Medicare, SNAP, and ACA coverage.
 Independent analyses projected major coverage losses and hospital funding risks.
+Broadband & Digital Access Affordable Connectivity Program (ACP) The only Mississippi House Member to vote for the Infrastructure Investment and Jobs Act, which created the Affordable Connectivity Program.
+Helped deliver $30 to $75 per month in internet savings for low-income households across Mississippi’s 2nd District.
+Supported over 100,000 Mississippi families before Congress failed to extend funding.
+Securing $1.2 Billion for Mississippi Broadband Helped protect and deliver $1.2 billion through the Broadband Equity, Access, and Deployment (BEAD) Program.
+Ensured Mississippi’s broadband plan was approved so communities could begin building and expanding last-mile access.
+Pushed for transparency so rural and Delta communities are not left behind.
+Transportation & Infrastructure Modernizing Mississippi’s Infrastructure Major investments delivered for highways, bridges, transit, and aviation across the Second District, including • Freight corridor modernization and major highway resurfacing • Replacement of aging bridges in Central Mississippi • Airport runway rehabilitation and safety upgrades • Bus stop improvements and public transit reliability • Aviation infrastructure investments in rural and Delta communities Agriculture, Education & Workforce Human Services Clean Water, Environment & Resilience Federal Dollars for Mississippi | 2024–2025 Agriculture, Education & Workforce Agriculture Equity & Rural Support Historic discrimination relief delivered to 13,283 Mississippi farmers and ranchers, the highest number of recipients in the nation.
+Education & Research Delivered federal funding to strengthen STEM pathways, university research, and infrastructure resilience, including major investments at higher education institutions.
+Manufacturing & Workforce Development Supported manufacturing extension services, workforce training, automation, and economic competitiveness statewide.
+Human Services Strengthening Rural Health Care Delivered major federal investments to • Expand access to rural health care • Modernize facilities and infrastructure • Support telehealth services • Sustain rural and community hospitals Supporting Families and Children Secured federal funding for • Head Start programs serving families in Hinds and Coahoma Counties • Maternal health initiatives • Opioid treatment and prevention Public Safety & Community Protection Delivered federal funding to support • Juvenile justice reform and system reinvestment • Law enforcement training and victim services • Campus safety and domestic violence prevention • Internet Crimes Against Children task force efforts Clean Water, Environment & Resilience Secured federal investments to • Improve water infrastructure and quality statewide • Support clean manufacturing and economic growth • Deliver disaster recovery and resilience funding for Delta communities Federal Dollars for Mississippi | 2024–2025 Bennie Thompson delivered nearly $4 billion across health care, infrastructure, agriculture, education, broadband, public safety, clean water, and disaster recovery.
+About Congressman Bennie G.
+Thompson is a firm believer of giving back to those whom afforded him an opportunity to serve.
+His 43 years of public service is a testament to his unwavering dedication to fulfill their expectations and to be the resounding voice for the constituents of the Second District of Mississippi.
+105 West Madison Street, P.O.Box 100 Bolton, MS 39041 (601) 866-9100, (866) 423-6643 bennie_thompson@bellsouth.net Quick Links Home Meet Bennie Get Involved Events Video Endorsements Community Corner Contact Latest Posts Bennie Thompson wins Democratic nomination for US… Rep.
+Bennie Thompson wins Mississippi’s Democratic primary Bennie Thompson Defeats Young Challenger in Mississippi… Join Team Thompson Your name Your email Postal Code Copyright © # Bennie Thompson for Congress.
+All Rights Reserved. × Be The First To Know Contact Information In what capacity would you like to participate? × How much would you like to donate?
+Donate Now

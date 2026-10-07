@@ -1,38 +1,222 @@
 [
-"http://electbarnhill.net/about/feed",
-"http://electbarnhill.net/announcements/feed",
-"http://electbarnhill.net/commentary/feed",
-"http://electbarnhill.net/policy-positions/feed",
-"https://electbarnhill.net/",
-"https://electbarnhill.net/about/about-brad",
-"https://electbarnhill.net/announcements/a-small-procedural-fight-with-a-bigger-point-behind-it",
-"https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing",
-"https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit",
-"https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview",
-"https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar",
-"https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster",
-"https://electbarnhill.net/author/electbarnhill",
-"https://electbarnhill.net/blog-with-left-sidebar",
-"https://electbarnhill.net/category/announcements",
-"https://electbarnhill.net/category/commentary",
-"https://electbarnhill.net/commentary/supreme-court-lets-states-use-federal-citizenship-database-for-voter-rolls-what-it-means-for-nevada",
-"https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning",
-"https://electbarnhill.net/contact",
-"https://electbarnhill.net/donation-page",
-"https://electbarnhill.net/endorsements",
-"https://electbarnhill.net/event",
-"https://electbarnhill.net/events",
-"https://electbarnhill.net/get-involved",
-"https://electbarnhill.net/policy-positions",
-"https://electbarnhill.net/promise-kept",
-"https://electbarnhill.net/uncategorized/paper-records-for-nevada-elections",
-"https://facebook.com/profile.php?id=100066477946991",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F",
-"https://instagram.com/electbarnhill",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F&title=Who+Will+Protect+Your+Vote%3F",
-"https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129",
-"https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F&text=Who+Will+Protect+Your+Vote%3F",
-"https://vwthemes.com/",
-"https://x.com/electbarnhill",
-"https://youtube.com/@nevadansforbarnhill"
+{
+"text": "702-613-2576",
+"href": "tel:%20702-613-2576"
+},
+{
+"text": "702-613-2576",
+"href": "tel:702-613-2576"
+},
+{
+"text": "8104 Defiance Ave. Las Vegas, NV 89129",
+"href": "https://maps.google.com/?q=8104+Defiance+Ave.%0ALas+Vegas%2C+NV+89129"
+},
+{
+"text": "A Small Procedural Fight, With a Bigger Point Behind It",
+"href": "https://electbarnhill.net/announcements/a-small-procedural-fight-with-a-bigger-point-behind-it/"
+},
+{
+"text": "About",
+"href": "http://electbarnhill.net/about/feed"
+},
+{
+"text": "About",
+"href": "https://electbarnhill.net/about/about-brad/"
+},
+{
+"text": "Announcements",
+"href": "http://electbarnhill.net/announcements/feed"
+},
+{
+"text": "Announcements",
+"href": "https://electbarnhill.net/category/announcements/"
+},
+{
+"text": "Barnhill Opposes Aguilar's Motion to Stay, Moves to Consolidate NVRA Suit",
+"href": "https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster/"
+},
+{
+"text": "Barnhill v. Aguilar",
+"href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
+},
+{
+"text": "Blog",
+"href": "https://electbarnhill.net/blog-with-left-sidebar/"
+},
+{
+"text": "Commentary",
+"href": "http://electbarnhill.net/commentary/feed"
+},
+{
+"text": "Commentary",
+"href": "https://electbarnhill.net/category/commentary/"
+},
+{
+"text": "Contact",
+"href": "https://electbarnhill.net/contact/"
+},
+{
+"text": "Donate",
+"href": "https://electbarnhill.net/donation-page/"
+},
+{
+"text": "Endorsements",
+"href": "https://electbarnhill.net/endorsements/"
+},
+{
+"text": "Equal Access to the Courthouse Shouldn’t Depend on Having a Lawyer",
+"href": "https://electbarnhill.net/announcements/equal-access-courthouse-pro-se-electronic-filing/"
+},
+{
+"text": "Event",
+"href": "https://electbarnhill.net/event/"
+},
+{
+"text": "Events",
+"href": "https://electbarnhill.net/events/"
+},
+{
+"text": "Formal notice was sent under the National Voter Registration Act",
+"href": "https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit/"
+},
+{
+"text": "Home",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "Independent",
+"href": "https://electbarnhill.net/promise-kept/"
+},
+{
+"text": "I’ve Asked the Court to Rule on My E-Filing Request",
+"href": "https://electbarnhill.net/announcements/request-for-ruling-electronic-filing-barnhill-v-aguilar/"
+},
+{
+"text": "Nevadans for Barnhill - Barnhill Files Federal Lawsuit Against Nevada Secretary of State",
+"href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
+},
+{
+"text": "Next Next post: The Pendulum Stops Here: Why Nevada’s Independents Must Stop Swinging and Start Winning",
+"href": "https://electbarnhill.net/commentary/the-pendulum-stops-here-why-nevadas-independents-must-stop-swinging-and-start-winning/"
+},
+{
+"text": "Policies",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy",
+"href": "https://electbarnhill.net/policy-positions/"
+},
+{
+"text": "Policy Positions",
+"href": "http://electbarnhill.net/policy-positions/feed"
+},
+{
+"text": "Previous Previous post: The Lawsuit Is Filed: Barnhill v. Aguilar",
+"href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
+},
+{
+"text": "Read what the complaint asks the court to do and how this case reached federal court.",
+"href": "https://electbarnhill.net/announcements/the-lawsuit-is-filed-barnhill-v-aguilar/"
+},
+{
+"text": "SCOTUS SAVE Database Ruling: What It Means for Nevada Voters",
+"href": "https://electbarnhill.net/commentary/supreme-court-lets-states-use-federal-citizenship-database-for-voter-rolls-what-it-means-for-nevada/"
+},
+{
+"text": "See what happened after service and what comes next in Barnhill v. Aguilar.",
+"href": "https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview/"
+},
+{
+"text": "Service Is Complete. Here’s What Comes Next in Barnhill v. Aguilar. - Nevadans for Barnhill",
+"href": "https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview/"
+},
+{
+"text": "VW Themes",
+"href": "https://www.vwthemes.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://electbarnhill.net/get-involved/"
+},
+{
+"text": "While the Secretary of State Asks for More Time, I’m Asking the Court to Move Faster",
+"href": "https://electbarnhill.net/announcements/while-the-secretary-of-state-asks-for-more-time-im-asking-the-court-to-move-faster/"
+},
+{
+"text": "Who Will Protect Your Vote?",
+"href": "https://electbarnhill.net/announcements/nevada-voter-roll-lawsuit/"
+},
+{
+"text": "Why Paper Records for Nevada Elections Matter - Nevadans for Barnhill",
+"href": "https://electbarnhill.net/uncategorized/paper-records-for-nevada-elections/"
+},
+{
+"text": "[image: Footer Logo]footer logo image",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill site icon]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[image: Nevadans for Barnhill]",
+"href": "https://electbarnhill.net/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/share?url=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F&text=Who+Will+Protect+Your+Vote%3F"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100066477946991"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Felectbarnhill.net%2Fannouncements%2Fnevada-voter-roll-lawsuit%2F&title=Who+Will+Protect+Your+Vote%3F"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/electbarnhill"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@nevadansforbarnhill"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto: brad@electbarnhill.net"
+},
+{
+"text": "brad@electbarnhill.net",
+"href": "mailto:brad@electbarnhill.net"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0)"
+},
+{
+"text": "close menu",
+"href": "javascript:void(0);"
+},
+{
+"text": "electbarnhill",
+"href": "https://electbarnhill.net/author/electbarnhill/"
+},
+{
+"text": "srcoll arrow",
+"href": "javascript:"
+},
+{
+"text": "were formally served with the lawsuit",
+"href": "https://electbarnhill.net/announcements/service-complete-motion-to-dismiss-preview/"
+}
 ]

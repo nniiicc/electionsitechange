@@ -1,9 +1,12 @@
 {
  "description": "Read Nancy Mannion's campaign newsletters for the latest PA-11 updates, events, endorsements, news, and ways to get involved.",
  "final_url": "https://www.nancymannion.com/Newsletters/",
+ "fingerprint": "d655973f39a70758231f238e4a7bd47091cb5a96",
+ "format": 3,
  "paid_for_by": "Paid for by Citizens for Nancy Mannion",
  "title": "Nancy Mannion Campaign Newsletters | PA-11 Updates",
  "years_mentioned": [
-  "2025"
+  "2025",
+  "2026"
  ]
 }

@@ -1,28 +1,110 @@
 [
-"https://bellcountytx.com/departments/elections/elections.php",
-"https://bluevoterguide.org/state/texas",
-"https://bsky.app/profile/votejustinearly.bsky.social",
-"https://burnetcountyelections.com/",
-"https://co.lampasas.tx.us/page/lampasas.testpage2",
-"https://coryellcountytax.com/elections",
-"https://designedtorun.com/",
-"https://facebook.com/votejustinearly",
-"https://goelect.txelections.civixapps.com/ivis-mvp-ui",
-"https://hamiltoncountytx.gov/page/hamilton.elections",
-"https://instagram.com/votejustinearly",
-"https://millscountytx.gov/page/Elections.Home",
-"https://secure.actblue.com/donate/votejewebsite",
-"https://sos.state.tx.us/elections/voter/reqabbm.shtml",
-"https://store.votejustinearly.com/",
-"https://tiktok.com/@votejustinearly",
-"https://votejustinearly.com/",
-"https://votejustinearly.com/about",
-"https://votejustinearly.com/endorsements",
-"https://votejustinearly.com/issues",
-"https://votejustinearly.com/media-kit",
-"https://votejustinearly.com/news",
-"https://votejustinearly.com/volunteer-slug-2",
-"https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN",
-"https://wilcotx.gov/elections",
-"https://youtube.com/@VoteJustinEarly"
+{
+"text": "Bell County Elections",
+"href": "https://www.bellcountytx.com/departments/elections/elections.php"
+},
+{
+"text": "Burnett County Elections",
+"href": "https://burnetcountyelections.com/"
+},
+{
+"text": "Check if you are registered",
+"href": "https://goelect.txelections.civixapps.com/ivis-mvp-ui/#/login"
+},
+{
+"text": "Coryell County Elections",
+"href": "https://coryellcountytax.com/elections/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votejewebsite"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votejustinearly.com/endorsements"
+},
+{
+"text": "Hamilton County Elections",
+"href": "https://www.hamiltoncountytx.gov/page/hamilton.elections"
+},
+{
+"text": "Home",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votejustinearly.com/issues"
+},
+{
+"text": "Lampasas County Elections",
+"href": "https://www.co.lampasas.tx.us/page/lampasas.testpage2"
+},
+{
+"text": "Media Kit",
+"href": "https://www.votejustinearly.com/media-kit"
+},
+{
+"text": "Meet Justin",
+"href": "https://www.votejustinearly.com/about"
+},
+{
+"text": "Mills County Elections",
+"href": "https://www.millscountytx.gov/page/Elections.Home"
+},
+{
+"text": "News",
+"href": "https://www.votejustinearly.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Register to vote",
+"href": "https://vrrequest.sos.texas.gov/VoterApplication/ConfirmStatusEN"
+},
+{
+"text": "Request Ballot by Mail",
+"href": "https://www.sos.state.tx.us/elections/voter/reqabbm.shtml"
+},
+{
+"text": "Swagshop",
+"href": "https://store.votejustinearly.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejustinearly.com/volunteer-slug-2"
+},
+{
+"text": "Who's On Your Ballot",
+"href": "https://bluevoterguide.org/state/texas"
+},
+{
+"text": "Williamson County Elections",
+"href": "https://www.wilcotx.gov/elections"
+},
+{
+"text": "[image: Justin Early for Congress]",
+"href": "https://www.votejustinearly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/votejustinearly.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@votejustinearly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VoteJustinEarly"
+}
 ]

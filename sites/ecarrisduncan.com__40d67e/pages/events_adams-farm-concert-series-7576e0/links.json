@@ -1,16 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Adam%27s+Farm+Concert+Series+&dates=20240830T210000Z%2F20240831T020000Z",
-"https://ecarrisduncan.com/",
-"https://ecarrisduncan.com/about-me",
-"https://ecarrisduncan.com/cart",
-"https://ecarrisduncan.com/core-issues",
-"https://ecarrisduncan.com/events",
-"https://ecarrisduncan.com/events/adams-farm-concert-series?format=ical",
-"https://ecarrisduncan.com/events/event-three-wfn7w-2tk3k",
-"https://ecarrisduncan.com/events/ratus-riverside-concert-series",
-"https://ecarrisduncan.com/my-story",
-"https://ecarrisduncan.com/services",
-"https://ecarrisduncan.com/updates",
-"https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1",
-"https://visitvermont.com/event/adams-farm-concert-series-green-mountain-ridge-runners-logan-boyd"
+{
+"text": "0",
+"href": "https://www.ecarrisduncan.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Core Issues",
+"href": "https://www.ecarrisduncan.com/core-issues"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/emily-carris-duncan-for-state-representative-1"
+},
+{
+"text": "Events",
+"href": "https://www.ecarrisduncan.com/events"
+},
+{
+"text": "Folder: About Me",
+"href": "https://www.ecarrisduncan.com/about-me"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Adam%27s+Farm+Concert+Series+&dates=20240830T210000Z%2F20240831T020000Z"
+},
+{
+"text": "Home",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.ecarrisduncan.com/events/adams-farm-concert-series?format=ical"
+},
+{
+"text": "My Story",
+"href": "https://www.ecarrisduncan.com/my-story"
+},
+{
+"text": "Next Next September 1 Ratu's Riverside Concert Series",
+"href": "https://www.ecarrisduncan.com/events/ratus-riverside-concert-series"
+},
+{
+"text": "Previous Previous August 20 Wilmington Selectboard Meeting",
+"href": "https://www.ecarrisduncan.com/events/event-three-wfn7w-2tk3k"
+},
+{
+"text": "Services",
+"href": "https://www.ecarrisduncan.com/services"
+},
+{
+"text": "Thoughts + Updates",
+"href": "https://www.ecarrisduncan.com/updates"
+},
+{
+"text": "[image: Emily Carris Duncan]",
+"href": "https://www.ecarrisduncan.com/"
+},
+{
+"text": "info",
+"href": "https://www.visitvermont.com/event/adams-farm-concert-series-green-mountain-ridge-runners-logan-boyd/"
+}
 ]

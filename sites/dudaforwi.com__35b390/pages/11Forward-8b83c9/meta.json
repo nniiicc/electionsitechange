@@ -1,7 +1,9 @@
 {
  "description": "Pan and zoom the interactive Wisconsin map: senate and assembly districts, wards, municipalities, and reporting units. Type any address to see its districts.",
  "final_url": "https://www.dudaforwi.com/11Forward",
- "paid_for_by": "Paid for by Duda for State Senate \u2022 \u2022 campaign@dudaforwi",
+ "fingerprint": "f9140b8a9299e7f2c3c234fca614fd773ee1a59a",
+ "format": 3,
+ "paid_for_by": "Paid for by Duda for State Senate • • campaign@dudaforwi",
  "title": "Interactive Wisconsin District Map | Duda for State Senate",
  "years_mentioned": [
   "2026"

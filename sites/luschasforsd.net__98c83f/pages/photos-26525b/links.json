@@ -1,34 +1,130 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/149540/035445540eb14defab9b6d77e242e6ac.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/0d19d8093fc149aba5eccfc828ca0bdd.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/1eaa652d-04b6-4e49-947f-04d2bc4ac77d.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/20aa8b95f167437e9f9641b353f3c82c.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/26250c23e39747dab48767e19d981b47.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/32d7f15017e54e70ad2e06ee491712d6.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/35836eee289f4c0a926c7a344266827c.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/3bcde9f0fa794a519d895b7827e7882c.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/7ca8bbbdaec641c2a65c1f3386010726.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/7d97a1fedb054dc7b29ab5f1ceb52b77.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/7e39113abfc54a958f7a21250c83f558.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/81428a0739c447c1bd633897b0f0cad4.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/870a5cfac30140df857fd5fb46fae77c.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/aebbcac7967a4409b59d5b970c1fb325.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/b40bba86d6b24f0fa203be3ad25d1264.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/c483d9fd920847c4a5c45f9a3ffea809.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/cb63ef7df35144598d3a59d9034a9161.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/e1ef9509eaed41558dcaac7d581c94d5.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/e4ad353b9c7d45669ab104fdbc9f7533.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/e62206b0eb1d4cf58ff5aebbbeb428ac.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/f28ffd60e0864f51b5e03e1523643112.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/149540/f684a8a61c3e44e8a49437f64dd5b142.jpg",
-"https://luschasforsd.net/",
-"https://luschasforsd.net/contact",
-"https://luschasforsd.net/home",
-"https://luschasforsd.net/issues",
-"https://luschasforsd.net/meet_manuel",
-"https://luschasforsd.net/news",
-"https://luschasforsd.net/photos",
-"https://luschasforsd.net/scorecard",
-"https://luschasforsd.net/view-endorsements"
+{
+"text": "Contact",
+"href": "https://luschasforsd.net/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://luschasforsd.net/view-endorsements"
+},
+{
+"text": "Home",
+"href": "https://luschasforsd.net/home"
+},
+{
+"text": "Meet Manuel",
+"href": "https://luschasforsd.net/meet_manuel"
+},
+{
+"text": "News",
+"href": "https://luschasforsd.net/news"
+},
+{
+"text": "Photos",
+"href": "https://luschasforsd.net/photos"
+},
+{
+"text": "Platform",
+"href": "https://luschasforsd.net/issues"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Scorecard",
+"href": "https://luschasforsd.net/scorecard"
+},
+{
+"text": "[image: A break from planting a few hundred trees.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/cb63ef7df35144598d3a59d9034a9161.jpg"
+},
+{
+"text": "[image: Backpacking the Centennial trail through Custer State Park]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/b40bba86d6b24f0fa203be3ad25d1264.jpg"
+},
+{
+"text": "[image: Backseat driver...]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/870a5cfac30140df857fd5fb46fae77c.jpg"
+},
+{
+"text": "[image: Bow shooting in Big Sioux Rec Area.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/26250c23e39747dab48767e19d981b47.jpeg"
+},
+{
+"text": "[image: Checking cows.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/aebbcac7967a4409b59d5b970c1fb325.jpg"
+},
+{
+"text": "[image: Hitchhiking...]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/7d97a1fedb054dc7b29ab5f1ceb52b77.jpg"
+},
+{
+"text": "[image: I collected signatures outside of the Stampede game to put the data center rezoning on the ballot.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/7e39113abfc54a958f7a21250c83f558.jpg"
+},
+{
+"text": "[image: I drove the strawberry express tractor!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/e1ef9509eaed41558dcaac7d581c94d5.jpg"
+},
+{
+"text": "[image: I got my CDL at age 51 so I could haul grain!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/32d7f15017e54e70ad2e06ee491712d6.jpg"
+},
+{
+"text": "[image: I learned to can applesauce at age 53!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/e4ad353b9c7d45669ab104fdbc9f7533.jpg"
+},
+{
+"text": "[image: I volunteer every year at the Odd Bits class at the Outdoor Campus!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/7ca8bbbdaec641c2a65c1f3386010726.jpg"
+},
+{
+"text": "[image: I was at the Legislature testifying for SB219, accept cash at school events.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/3bcde9f0fa794a519d895b7827e7882c.jpg"
+},
+{
+"text": "[image: Learning to cross country ski at the outdoor campus!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/0d19d8093fc149aba5eccfc828ca0bdd.jpg"
+},
+{
+"text": "[image: Manuel Luschas for House District 2]",
+"href": "https://luschasforsd.net/"
+},
+{
+"text": "[image: My first South Dakota pheasant hunt. Thank you Outdoor Campus!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/35836eee289f4c0a926c7a344266827c.jpg"
+},
+{
+"text": "[image: Our family's pet chickens.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/81428a0739c447c1bd633897b0f0cad4.jpg"
+},
+{
+"text": "[image: Planting trees.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/20aa8b95f167437e9f9641b353f3c82c.jpg"
+},
+{
+"text": "[image: Siting in before deer season.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/e62206b0eb1d4cf58ff5aebbbeb428ac.jpg"
+},
+{
+"text": "[image: Teaching the girls to fix their cars.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/c483d9fd920847c4a5c45f9a3ffea809.jpg"
+},
+{
+"text": "[image: These are some of the high speed boards and packages I designed as a Silicon Valley Engineer!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/f684a8a61c3e44e8a49437f64dd5b142.jpg"
+},
+{
+"text": "[image: Victory after fixing excavator hydraulics!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/f28ffd60e0864f51b5e03e1523643112.jpg"
+},
+{
+"text": "[image: We are blessed to farm poultry with the Bastian family. They created this fun graphic of our flock!]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/1eaa652d-04b6-4e49-947f-04d2bc4ac77d.jpg"
+},
+{
+"text": "[image: We drove our car around with \"Thank God for South Dakota\" written on the back in 2020 when we first moved here.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/149540/035445540eb14defab9b6d77e242e6ac.jpg"
+}
 ]

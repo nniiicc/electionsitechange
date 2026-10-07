@@ -1,18 +1,82 @@
 [
-"http://facebook.com/jantzencraineME",
-"http://instagram.com/jantzencraine",
-"http://threads.com/jantzencraine",
-"http://x.com/jantzencraine",
-"http://youtube.com/@jantzencraine",
-"https://jantzencraine.com/",
-"https://jantzencraine.com/accessibility-statement",
-"https://jantzencraine.com/blog",
-"https://jantzencraine.com/category/all-products",
-"https://jantzencraine.com/get-involved",
-"https://jantzencraine.com/meet-jantzen",
-"https://jantzencraine.com/privacy-policy",
-"https://jantzencraine.com/terms-and-conditions",
-"https://jantzencraine.com/values",
-"https://linkedin.com/in/jantzencraine",
-"https://secure.winred.com/jantzen-craine/donate-today"
+{
+"text": "Accessibility Statement",
+"href": "https://www.jantzencraine.com/accessibility-statement"
+},
+{
+"text": "BLOG",
+"href": "https://www.jantzencraine.com/blog"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/jantzen-craine/donate-today"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jantzencraine.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jantzencraine.com"
+},
+{
+"text": "Jantzen Craine",
+"href": "https://www.jantzencraine.com"
+},
+{
+"text": "MEET JANTZEN",
+"href": "https://www.jantzencraine.com/meet-jantzen"
+},
+{
+"text": "MERCH",
+"href": "https://www.jantzencraine.com/category/all-products"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jantzencraine.com/privacy-policy"
+},
+{
+"text": "Read our Accessibility Statement.",
+"href": "https://www.jantzencraine.com/accessibility-statement"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.jantzencraine.com/terms-and-conditions"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.jantzencraine.com/terms-and-conditions"
+},
+{
+"text": "VALUES",
+"href": "https://www.jantzencraine.com/values"
+},
+{
+"text": "[image: Threads ]",
+"href": "http://threads.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://instagram.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/jantzencraineME"
+},
+{
+"text": "[image]",
+"href": "http://www.x.com/jantzencraine"
+},
+{
+"text": "[image]",
+"href": "http://youtube.com/@jantzencraine"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/jantzencraine"
+},
+{
+"text": "info@jantzencraine.com",
+"href": "mailto:info@jantzencraine.com"
+}
 ]

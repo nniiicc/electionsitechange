@@ -1,37 +1,186 @@
 [
-"https://carldemaio.com/",
-"https://carldemaio.com/about",
-"https://carldemaio.com/contact",
-"https://carldemaio.com/district",
-"https://carldemaio.com/news",
-"https://carldemaio.com/news/demaio-authors-ca-voter-id-initiative---leads-campaign-for-passage",
-"https://carldemaio.com/news/demaio-responds-to-newsoms-dishonest-state-of-state-address",
-"https://carldemaio.com/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family",
-"https://carldemaio.com/privacy-policy",
-"https://facebook.com/carldemaio",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcarldemaio.com%2Fnews%2Fafter-big-win-in-2024-carl-demaio-outlines-reform-california-agenda",
-"https://instagram.com/carldemaioca",
-"https://rcahelp.org/",
-"https://reformcalifornia.org/",
-"https://reformcalifornia.org/campaigns",
-"https://reformcalifornia.org/events",
-"https://reformcalifornia.org/news",
-"https://reformcalifornia.org/podcast",
-"https://reformcalifornia.org/volunteer",
-"https://reformcalifornia.org/voter-guides",
-"https://reformcalifornia.org/voter-guides-list",
-"https://secure.carldemaio.com/contribute",
-"https://secure.carldemaio.com/contribute?amount=100",
-"https://secure.carldemaio.com/contribute?amount=1000",
-"https://secure.carldemaio.com/contribute?amount=25",
-"https://secure.carldemaio.com/contribute?amount=250",
-"https://secure.carldemaio.com/contribute?amount=50",
-"https://secure.carldemaio.com/contribute?amount=500",
-"https://secure.carldemaio.com/contribute?amount=5000",
-"https://secure.reformcalifornia.org/storefront",
-"https://twitter.com/carldemaio",
-"https://twitter.com/carldemaio?ref_src=twsrc%5Etfw",
-"https://twitter.com/intent/tweet?text=+https%3A%2F%2Fcarldemaio.com%2Fnews%2Fafter-big-win-in-2024-carl-demaio-outlines-reform-california-agenda",
-"https://youtube.com/@carldemaioCA",
-"https://youtube.com/channel/UCdNKb-ROfIfCsyLfWEQNuuw?sub_confirmation=1"
+{
+"text": "$1,000",
+"href": "https://secure.carldemaio.com/contribute?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.carldemaio.com/contribute?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.carldemaio.com/contribute?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.carldemaio.com/contribute?amount=250"
+},
+{
+"text": "$5,000",
+"href": "https://secure.carldemaio.com/contribute?amount=5000"
+},
+{
+"text": "$50",
+"href": "https://secure.carldemaio.com/contribute?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.carldemaio.com/contribute?amount=500"
+},
+{
+"text": "About",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "About Carl DeMaio",
+"href": "https://carldemaio.com/about"
+},
+{
+"text": "Browse all articles",
+"href": "https://carldemaio.com/news"
+},
+{
+"text": "Browse all articles",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Contact",
+"href": "https://carldemaio.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "District",
+"href": "https://carldemaio.com/district"
+},
+{
+"text": "Events",
+"href": "https://reformcalifornia.org/events"
+},
+{
+"text": "FAQs",
+"href": "https://rcahelp.org/"
+},
+{
+"text": "Get Reform California's Voter Guide Here >> |",
+"href": "https://www.reformcalifornia.org/voter-guides-list"
+},
+{
+"text": "More Campaigns",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "News",
+"href": "https://reformcalifornia.org/news"
+},
+{
+"text": "Other",
+"href": "https://secure.carldemaio.com/contribute"
+},
+{
+"text": "Podcast",
+"href": "https://reformcalifornia.org/podcast"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carldemaio.com/privacy-policy"
+},
+{
+"text": "Reform CA",
+"href": "https://reformcalifornia.org/"
+},
+{
+"text": "Reform California",
+"href": "https://reformcalifornia.org"
+},
+{
+"text": "Store",
+"href": "https://secure.reformcalifornia.org/storefront/"
+},
+{
+"text": "Tweets by carldemaio",
+"href": "https://twitter.com/carldemaio?ref_src=twsrc%5Etfw"
+},
+{
+"text": "Volunteer",
+"href": "https://reformcalifornia.org/volunteer"
+},
+{
+"text": "Voter Guide",
+"href": "https://reformcalifornia.org/voter-guides"
+},
+{
+"text": "[image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage][image: DeMaio Authors CA Voter ID Initiative - Leads Campaign for Passage]July 17, 2025DeMaio Authors CA Voter ID Initiative - Leads Campaign for PassageThe California Voter ID Initiative has been formally filed with the Secretary of State",
+"href": "https://carldemaio.com/news/demaio-authors-ca-voter-id-initiative---leads-campaign-for-passage"
+},
+{
+"text": "[image: DeMaio Responds to Newsom’s Dishonest State-of-State Address][image: DeMaio Responds to Newsom’s Dishonest State-of-State Address]September 11, 2025DeMaio Responds to Newsom’s Dishonest State-of-State AddressCalifornia Governor Gavin Newsom finally delivered his long-delayed State-of-the State address",
+"href": "https://carldemaio.com/news/demaio-responds-to-newsoms-dishonest-state-of-state-address"
+},
+{
+"text": "[image: Election Integrity Initiative]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: End Homelessness]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family][image: Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class Family]November 13, 2025Living in CA Imposes a $29,753.16 “Cost-of-Living Penalty” on Typical Middle-Class FamilyNew report lays the blame for higher costs on California politicians for costly mandates and negligent policies.",
+"href": "https://carldemaio.com/news/living-in-ca-imposes-a-29-753-16-cost-of-living-penalty-on-typical-middle-class-family"
+},
+{
+"text": "[image: Restore Public Safety]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: School Board Reform]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image: Stop the Tax Hikes]",
+"href": "https://reformcalifornia.org/campaigns"
+},
+{
+"text": "[image]",
+"href": "https://carldemaio.com/"
+},
+{
+"text": "",
+"href": "https://www.instagram.com/carldemaioca"
+},
+{
+"text": "",
+"href": "https://www.facebook.com/carldemaio"
+},
+{
+"text": "Share",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcarldemaio.com%2Fnews%2Fafter-big-win-in-2024-carl-demaio-outlines-reform-california-agenda"
+},
+{
+"text": "Email",
+"href": "mailto:?body=https%3A%2F%2Freformcalifornia.org%2Fnews%2Fafter-big-win-in-2024-carl-demaio-outlines-reform-california-agenda"
+},
+{
+"text": "",
+"href": "https://twitter.com/carldemaio"
+},
+{
+"text": "Tweet",
+"href": "https://twitter.com/intent/tweet?text=+https%3A%2F%2Fcarldemaio.com%2Fnews%2Fafter-big-win-in-2024-carl-demaio-outlines-reform-california-agenda"
+},
+{
+"text": "",
+"href": "https://www.youtube.com/@carldemaioCA"
+},
+{
+"text": " Subscribe to Channel",
+"href": "https://www.youtube.com/channel/UCdNKb-ROfIfCsyLfWEQNuuw?sub_confirmation=1"
+},
+{
+"text": " Subscribe to YouTube Channel",
+"href": "https://www.youtube.com/channel/UCdNKb-ROfIfCsyLfWEQNuuw?sub_confirmation=1"
+}
 ]

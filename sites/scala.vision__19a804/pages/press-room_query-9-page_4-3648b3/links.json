@@ -1,36 +1,162 @@
 [
-"http://maps.google.com/?q=Queens%2C+NY",
-"http://rockawaytimes.com/index.php/columns/7801-editorial-city-council-candidate-says-commuters-need-help",
-"http://rockawaytimes.com/index.php/columns/9120-rockaway-to-nyc-parks-do-better",
-"https://citylimits.org/2021/06/07/five-democrats-look-to-flip-queens-last-gop-council-seat-blue",
-"https://facebook.com/realmikescala",
-"https://instagram.com/scalavision",
-"https://nytimes.com/2021/05/07/nyregion/queens-republicans-democrats.html",
-"https://qchron.com/editions/south/d32-race-hinges-on-expanding-electorate/article_a76d638d-e268-55eb-b9e5-cd352f80fb50.html",
-"https://qchron.com/editions/south/seven-compete-for-district-32/article_7d6ca35b-8e23-5a74-89c9-9fb981d0900c.html",
-"https://rockawave.com/articles/district-32-democratic-debate-recap",
-"https://rockawave.com/articles/editorial-the-wave-endorses",
-"https://rockawave.com/articles/its-my-turn-403",
-"https://rockawave.com/articles/judge-dismisses-case-from-dayton-beach-park-board-of-directors",
-"https://rockawave.com/articles/leadership-counts",
-"https://rockawave.com/articles/page-5-op-ed-12",
-"https://rockawave.com/articles/page-5-op-ed-16",
-"https://rockawave.com/articles/primary-day-june-22",
-"https://rockawave.com/articles/ranked-choice-voting",
-"https://rockawave.com/articles/scalas-rap-15",
-"https://rockawave.com/articles/uniformed-fire-officers-association-endorses-mike-scala-for-city-council",
-"https://rockawaytimes.com/op-ed-the-return-of-democracy",
-"https://scala.vision/",
-"https://scala.vision/issues",
-"https://scala.vision/meet-mike",
-"https://scala.vision/press-room",
-"https://scala.vision/press-room?query-9-page=17",
-"https://scala.vision/press-room?query-9-page=2",
-"https://scala.vision/press-room?query-9-page=3",
-"https://scala.vision/press-room?query-9-page=4&query-1-page=2",
-"https://scala.vision/press-room?query-9-page=5",
-"https://scala.vision/press-room?query-9-page=6",
-"https://scala.vision/volunteer",
-"https://secure.actblue.com/donate/mike-scala",
-"https://twitter.com/mikegscala"
+{
+"text": "1",
+"href": "https://scala.vision/press-room/?cst="
+},
+{
+"text": "17",
+"href": "https://scala.vision/press-room/?query-9-page=17&cst="
+},
+{
+"text": "2",
+"href": "https://scala.vision/press-room/?query-9-page=2&cst="
+},
+{
+"text": "3",
+"href": "https://scala.vision/press-room/?query-9-page=3&cst="
+},
+{
+"text": "5",
+"href": "https://scala.vision/press-room/?query-9-page=5&cst="
+},
+{
+"text": "6",
+"href": "https://scala.vision/press-room/?query-9-page=6&cst="
+},
+{
+"text": "And Then There Was One: G.O.P. Defends Its Last Seat in Queens",
+"href": "https://www.nytimes.com/2021/05/07/nyregion/queens-republicans-democrats.html#new_tab"
+},
+{
+"text": "Close the Loophole That Shortchanges Our Workers",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-12/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "D32 race hinges on expanding electorate",
+"href": "https://www.qchron.com/editions/south/d32-race-hinges-on-expanding-electorate/article_a76d638d-e268-55eb-b9e5-cd352f80fb50.html#new_tab"
+},
+{
+"text": "District 32 Democratic Debate Recap",
+"href": "https://www.rockawave.com/articles/district-32-democratic-debate-recap/#new_tab"
+},
+{
+"text": "Editorial: City Council Candidate Says Commuters Need Help",
+"href": "http://rockawaytimes.com/index.php/columns/7801-editorial-city-council-candidate-says-commuters-need-help#new_tab"
+},
+{
+"text": "Editorial: The Wave Endorses…",
+"href": "https://www.rockawave.com/articles/editorial-the-wave-endorses/#new_tab"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/realmikescala"
+},
+{
+"text": "Five Democrats Look to Flip Queens’ Last GOP Seat Blue",
+"href": "https://citylimits.org/2021/06/07/five-democrats-look-to-flip-queens-last-gop-council-seat-blue/#new_tab"
+},
+{
+"text": "Home",
+"href": "https://scala.vision/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/scalavision"
+},
+{
+"text": "Issues",
+"href": "https://scala.vision/issues/"
+},
+{
+"text": "It’s My Turn",
+"href": "https://www.rockawave.com/articles/its-my-turn-403/#new_tab"
+},
+{
+"text": "Judge Dismisses Case From Dayton Beach Park Board of Directors",
+"href": "https://www.rockawave.com/articles/judge-dismisses-case-from-dayton-beach-park-board-of-directors#new_tab"
+},
+{
+"text": "Leadership Counts",
+"href": "https://www.rockawave.com/articles/leadership-counts/#new_tab"
+},
+{
+"text": "Meet Mike",
+"href": "https://scala.vision/meet-mike/"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=4&cst=&query-1-page=2"
+},
+{
+"text": "Next Page",
+"href": "https://scala.vision/press-room/?query-9-page=5&cst="
+},
+{
+"text": "Op-Ed: The Return of Democracy",
+"href": "https://www.rockawaytimes.com/op-ed-the-return-of-democracy/#new_tab"
+},
+{
+"text": "Op-Ed: When Politics Becomes Politricks",
+"href": "https://www.rockawave.com/articles/page-5-op-ed-16/#new_tab"
+},
+{
+"text": "Press Room",
+"href": "https://scala.vision/press-room/"
+},
+{
+"text": "Previous Page",
+"href": "https://scala.vision/press-room/?query-9-page=3&cst="
+},
+{
+"text": "Primary Day – June 22",
+"href": "https://www.rockawave.com/articles/primary-day-june-22/#new_tab"
+},
+{
+"text": "Queens, NY",
+"href": "http://maps.google.com/?q=Queens%2C+NY"
+},
+{
+"text": "Ranked Choice Voting",
+"href": "https://www.rockawave.com/articles/ranked-choice-voting/#new_tab"
+},
+{
+"text": "Rockaway to NYC Parks—‘Do Better’",
+"href": "http://rockawaytimes.com/index.php/columns/9120-rockaway-to-nyc-parks-do-better#new_tab"
+},
+{
+"text": "Scala’s Rap",
+"href": "https://www.rockawave.com/articles/scalas-rap-15/#new_tab"
+},
+{
+"text": "Seven compete for District 32",
+"href": "https://www.qchron.com/editions/south/seven-compete-for-district-32/article_7d6ca35b-8e23-5a74-89c9-9fb981d0900c.html#new_tab"
+},
+{
+"text": "Twitter",
+"href": "https://www.twitter.com/mikegscala"
+},
+{
+"text": "Uniformed Fire Officers Association Endorses Mike Scala for City Council",
+"href": "https://www.rockawave.com/articles/uniformed-fire-officers-association-endorses-mike-scala-for-city-council/#new_tab"
+},
+{
+"text": "[image: Contribute]",
+"href": "https://secure.actblue.com/donate/mike-scala"
+},
+{
+"text": "[image: Scala for Assembly]",
+"href": "https://scala.vision/"
+},
+{
+"text": "[image: Volunteer to help Mike Scala for New York State Assembly]",
+"href": "https://scala.vision/volunteer/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/realmikescala"
+}
 ]

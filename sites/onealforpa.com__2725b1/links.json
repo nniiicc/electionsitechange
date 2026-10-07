@@ -1,4 +1,38 @@
 [
-"https://onealforpa.com/",
-"https://secure.winred.com/friends-of-tim-oneal/donate"
+{
+"text": "About",
+"href": "https://www.onealforpa.com/#about-section"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.winred.com/friends-of-tim-oneal/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/friends-of-tim-oneal/donate"
+},
+{
+"text": "Donate",
+"href": "https://www.onealforpa.com/#donate-section"
+},
+{
+"text": "Home",
+"href": "https://www.onealforpa.com/#home-section"
+},
+{
+"text": "Issues",
+"href": "https://www.onealforpa.com/#issues-section"
+},
+{
+"text": "Volunteer",
+"href": "https://www.onealforpa.com/#volunteer-section"
+},
+{
+"text": "Welcome",
+"href": "https://www.onealforpa.com/"
+},
+{
+"text": "[image: Tim O'Neal]",
+"href": "https://www.onealforpa.com/"
+}
 ]

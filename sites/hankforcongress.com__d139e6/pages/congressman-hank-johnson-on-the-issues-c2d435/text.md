@@ -1,33 +1,3 @@
-Skip to content
-Home
-About
-Issues
-News
-Contact
-Donate
-Sign Up
-Home
-About
-Issues
-News
-Contact
-Donate
-Sign Up
-Facebook
-Instagram
-Issues
-HANK'S VOTING RECORD › Project Vote Smart
-Armed Services & Veterans' Affairs
-Consumer Protection
-Education
-Energy
-Health Care
-Immigration
-Justice, Civil Liberties, & Government Accountability
-National Security & Foreign Policy
-Seniors and Social Security
-The Economy and Jobs
-The Environment
-CONTRIBUTE
-VOLUNTEER
-SIGN UP
+Skip to content Home About Issues News Contact Donate Sign Up Home About Issues News Contact Donate Sign Up Facebook Instagram Issues HANK'S VOTING RECORD › Project Vote Smart Armed Services & Veterans' Affairs Consumer Protection Education Energy Health Care Immigration Justice, Civil Liberties, & Government Accountability National Security & Foreign Policy Seniors and Social Security The Economy and Jobs The Environment CONTRIBUTE VOLUNTEER SIGN UP Facebook Instagram CONGRESSMAN HANK JOHNSON In his tenth term as U.S.
+Representative for Georgia’s Fourth Congressional District, which includes parts of DeKalb and Gwinnett counties, Congressman Hank Johnson has distinguished himself as a substantive, hard-working legislator who delivers results. › PRIVACY POLICY RECENT POSTS Congressman Johnson Hosts Two Panels at CBCF ALC 55 September 24, 2026 AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision September 16, 2026 Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks August 27, 2026 Paid for by the Committee to Elect Hank Johnson

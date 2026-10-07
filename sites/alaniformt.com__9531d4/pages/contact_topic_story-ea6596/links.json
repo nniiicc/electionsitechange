@@ -1,9 +1,38 @@
 [
-"https://alaniformt.com/get-involved",
-"https://alaniformt.com/{{ k.href }}",
-"https://bsky.app/profile/alanib.bsky.social",
-"https://facebook.com/alaniformt",
-"https://instagram.com/alaniformt",
-"https://linkedin.com/in/alaniformt",
-"https://threads.com/@alaniformt"
+{
+"text": "BlueSky",
+"href": "https://bsky.app/profile/alanib.bsky.social"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/alaniformt/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/alaniformt/"
+},
+{
+"text": "Join the team →",
+"href": "https://alaniformt.com/get-involved"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/alaniformt/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.com/@alaniformt"
+},
+{
+"text": "info@alanibankheadforsenate.com",
+"href": "mailto:info@alanibankheadforsenate.com"
+},
+{
+"text": "press@alanibankheadforsenate.com",
+"href": "mailto:press@alanibankheadforsenate.com"
+},
+{
+"text": "{{ k.title }} {{ k.note }} Open →",
+"href": "https://alaniformt.com/%7B%7B%20k.href%20%7D%7D"
+}
 ]

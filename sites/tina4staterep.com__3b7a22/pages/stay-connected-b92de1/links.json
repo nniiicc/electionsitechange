@@ -1,13 +1,54 @@
 [
-"https://facebook.com/votetina",
-"https://secure.ngpvan.com/oABk3OXq7EqPkdTOxIRT_g2",
-"https://tina4staterep.com/",
-"https://tina4staterep.com/about-tina",
-"https://tina4staterep.com/about-tina-2",
-"https://tina4staterep.com/issues",
-"https://tina4staterep.com/issues-2",
-"https://tina4staterep.com/stay-connected",
-"https://tina4staterep.com/volunteer",
-"https://tina4staterep.com/volunteer-2",
-"https://tina4staterep.com/wp-login.php"
+{
+"text": "About Tina",
+"href": "https://tina4staterep.com/about-tina-2/"
+},
+{
+"text": "About Tina",
+"href": "https://tina4staterep.com/about-tina/"
+},
+{
+"text": "Donate",
+"href": "https://secure.ngpvan.com/oABk3OXq7EqPkdTOxIRT_g2"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votetina"
+},
+{
+"text": "Home",
+"href": "https://tina4staterep.com"
+},
+{
+"text": "Issues",
+"href": "https://tina4staterep.com/issues-2/"
+},
+{
+"text": "Issues",
+"href": "https://tina4staterep.com/issues/"
+},
+{
+"text": "Log in",
+"href": "https://tina4staterep.com/wp-login.php"
+},
+{
+"text": "Re-elect State Representative Tina Davis",
+"href": "https://tina4staterep.com/"
+},
+{
+"text": "Stay Connected",
+"href": "https://tina4staterep.com/stay-connected/"
+},
+{
+"text": "Volunteer",
+"href": "https://tina4staterep.com/volunteer-2/"
+},
+{
+"text": "Volunteer",
+"href": "https://tina4staterep.com/volunteer/"
+},
+{
+"text": "[image] Re-elect State Representative Tina Davis",
+"href": "https://tina4staterep.com/"
+}
 ]

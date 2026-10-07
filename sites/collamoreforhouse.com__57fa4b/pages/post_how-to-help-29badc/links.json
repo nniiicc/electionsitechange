@@ -1,16 +1,102 @@
 [
-"http://facebook.com/collamoreforhouse",
-"http://instagram.com/collamoreforhouse",
-"https://app.unison.io/schedules/5QFQ9Wi2Egq4j3NSB62r0R",
-"https://collamoreforhouse.com/",
-"https://collamoreforhouse.com/blank-10",
-"https://collamoreforhouse.com/blog",
-"https://collamoreforhouse.com/event-list",
-"https://collamoreforhouse.com/post/clean-elections-apology",
-"https://collamoreforhouse.com/post/collamore-statement",
-"https://collamoreforhouse.com/post/letters-to-the-editor",
-"https://lcnme.com/submit-other",
-"https://midcoastvillager.com/site/forms/announcements/letter_editor",
-"https://paypal.com/ncp/payment/HLRL7AJLNLXR8",
-"https://registertovote.sos.maine.gov/"
+{
+"text": "All Posts",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Blog",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Clean Elections Apology",
+"href": "https://www.collamoreforhouse.com/post/clean-elections-apology"
+},
+{
+"text": "Collamore Statement",
+"href": "https://www.collamoreforhouse.com/post/collamore-statement"
+},
+{
+"text": "DONATE",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "DONATE NOW",
+"href": "https://www.paypal.com/ncp/payment/HLRL7AJLNLXR8"
+},
+{
+"text": "Events",
+"href": "https://www.collamoreforhouse.com/event-list"
+},
+{
+"text": "Facebook",
+"href": "http://www.facebook.com/collamoreforhouse"
+},
+{
+"text": "Frequently Asked Questions",
+"href": "https://www.collamoreforhouse.com/blank-10"
+},
+{
+"text": "Home",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "Instagram",
+"href": "http://www.instagram.com/collamoreforhouse"
+},
+{
+"text": "Letters to the Editor",
+"href": "https://www.collamoreforhouse.com/post/letters-to-the-editor"
+},
+{
+"text": "Lincoln County News",
+"href": "https://lcnme.com/submit-other/"
+},
+{
+"text": "Midcoast Villager",
+"href": "https://www.midcoastvillager.com/site/forms/announcements/letter_editor/"
+},
+{
+"text": "PenBay Pilot",
+"href": "mailto:editor@penbaypilot.com"
+},
+{
+"text": "See All",
+"href": "https://www.collamoreforhouse.com/blog"
+},
+{
+"text": "Unison",
+"href": "https://app.unison.io/schedules/5QFQ9Wi2Egq4j3NSB62r0R"
+},
+{
+"text": "[image: Clint-Collamore-logo]",
+"href": "https://www.collamoreforhouse.com"
+},
+{
+"text": "[image: Collamore Statement]",
+"href": "https://www.collamoreforhouse.com/post/collamore-statement"
+},
+{
+"text": "[image: Letters to the Editor]",
+"href": "https://www.collamoreforhouse.com/post/letters-to-the-editor"
+},
+{
+"text": "[no text]",
+"href": "http://www.facebook.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "http://www.instagram.com/collamoreforhouse"
+},
+{
+"text": "[no text]",
+"href": "https://www.collamoreforhouse.com/post/clean-elections-apology"
+},
+{
+"text": "[no text]",
+"href": "mailto:collamoreforhouse@gmail.com?subject=CC"
+},
+{
+"text": "register",
+"href": "https://registertovote.sos.maine.gov/"
+}
 ]

@@ -1,16 +1,14 @@
-WASHINGTON, D.C. – Congresswoman Susie Lee, a member of the bipartisan Problem Solvers Caucus, unveiled an Affordability Agenda — a comprehensive proposal to lower Americans’ cost of living.
-Two of Lee’s bills, the Streamlining Thermal Energy through Advanced Mechanisms (STEAM) Act and the Small Business Child Care Investment Act, were included in the agenda.
+Skip to main content about news volunteer Donate Susie Lee for Congress ICYMI: Congresswoman Lee, Problem Solvers Caucus Release Bipartisan Affordability Agenda Feb 12, 2026 Back to all news WASHINGTON, D.C. – Congresswoman Susie Lee , a member of the bipartisan Problem Solvers Caucus, unveiled an Affordability Agenda — a comprehensive proposal to lower Americans’ cost of living.
+Two of Lee’s bills, the Streamlining Thermal Energy through Advanced Mechanisms (STEAM) Act and the Small Business Child Care Investment Act , were included in the agenda.
 The proposal received overwhelming support from members of the caucus, which is evenly split between Democrats and Republicans.
 “When families can’t afford child care, seniors are forced to choose between buying medicine or paying their electrical bills, and young professionals can’t afford to live on their own, we have a crisis.
-That is exactly what Americans are facing all over this country,” said Congresswoman Susie Lee.
-“This is not a red or blue issue—it is one that requires us to work together on common-sense policies to drive down costs, so hardworking Americans can get ahead.”
-The Affordability Agenda begins with a clear diagnosis of Americans’ increasingly high cost of living:
-“American families are facing an affordability crisis.
-Even as inflation has come down since its 2021 peak, the costs of key expenses like health care, housing, electricity, child care, and groceries remain historically high…Let’s be clear: Both parties played a role in creating this crisis, and both parties will need to be part of the solution.”
-To meet this moment, the framework identifies common-sense policies, including more than 40 bipartisan bills, including two led by Congresswoman Lee, that can deliver immediate relief across five key areas of household budgets: health care, housing, energy, child care, and food.
+That is exactly what Americans are facing all over this country,” said Congresswoman Susie Lee .
+“This is not a red or blue issue—it is one that requires us to work together on common-sense policies to drive down costs, so hardworking Americans can get ahead.” The Affordability Agenda begins with a clear diagnosis of Americans’ increasingly high cost of living: “American families are facing an affordability crisis.
+Even as inflation has come down since its 2021 peak, the costs of key expenses like health care, housing, electricity, child care, and groceries remain historically high…Let’s be clear: Both parties played a role in creating this crisis, and both parties will need to be part of the solution.” To meet this moment, the framework identifies common-sense policies, including more than 40 bipartisan bills, including two led by Congresswoman Lee, that can deliver immediate relief across five key areas of household budgets: health care, housing, energy, child care, and food.
 Each recommendation enjoys broad bipartisan support and is capable of passing both chambers of Congress.
 Lee’s bipartisan, bicameral STEAM Act would help lower energy costs by cutting government red tape and giving geothermal projects the same flexibility as the oil and gas industry to develop on previously disturbed or studied public lands.
 This will put clean energy projects on a more level playing field while creating jobs, cutting emissions, and reducing foreign energy dependence.
 Lee’s bipartisan Small Business Child Care Investment Act would address the child care affordability crisis by allowing non-profit child care centers to access the same types of Small Business Administration (SBA) loans available to for-profit businesses.
 This would help child care providers expand their businesses to meet demand and increase access to affordable, high-quality child care for southern Nevada families.
 The framework also identifies the root causes of persistently high prices, making clear that bringing down costs in the long term will require tackling the structural forces pushing prices higher.
+### 5130 S Fort Apache Rd Ste 215-382 Las Vegas, NV 89148 702-907-7255 Paid for by Susie Lee for Congress home about news volunteer media Donate privacy policy terms Email Us Paid for by Susie Lee for Congress

@@ -1,14 +1,9 @@
-NC Senate District 14: Dan Blue
-Senator Dan Blue answers INDY’s 2024 Primary Election candidate questionnaire and shares how his background allows him to effectively represent District 14.
-Senator Dan Blue joins the Tying it Together with Tim Boyum podcast to talk about his plans to break up the Republican supermajority in the General Assembly.
-A new lawsuit against the state’s new Senate voting districts could move quickly.
-The recently passed Senate maps sweep both Halifax and Martin counties into a sprawling new District 2.
-At an October news conference, Senator Dan Blue said Republicans pulled the six Wilmington precincts with the highest Black population and voter participation out of the New Hanover district.
-State Treasurer Dale Folwell rebuked lawmakers in his own party regarding a new law that shields legislators’ records from the public.
-Senator Dan Blue is looking for more than thoughts and prayers after a mass shooting a year ago in his Hedingham neighborhood.
-Gov.
-Roy Cooper vetoed a GOP bill that would restructure election boards and change how their members are appointed.
-N.C.
+DONATE TODAY Support Senator Blue’s Campaign with a donation of any amount × Dialog window Connect with Senator Blue for the latest updates!
+Notice: JavaScript is required for this content.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Sourced Dan Blue on the Start of the new legislative session May 4, 2024 | News , Sourced Senate Minority Leader Dan Blue talks with Loretta Boniti as North Carolina legislators prepare for the start of the 2024 legislative season. read more NC Senate District 14: Dan Blue Feb 26, 2024 | Elections , Sourced Senator Dan Blue answers INDY’s 2024 Primary Election candidate questionnaire and shares how his background allows him to effectively represent District 14. read more How Democrats hope to take down the GOP supermajority in N.C.
+Feb 7, 2024 | Elections , Podcast , Sourced Senator Dan Blue joins the Tying it Together with Tim Boyum podcast to talk about his plans to break up the Republican supermajority in the General Assembly. read more Federal judge could hear request to block NC’s new Senate districts Nov 27, 2023 | Elections , News , Sourced A new lawsuit against the state’s new Senate voting districts could move quickly.
+The recently passed Senate maps sweep both Halifax and Martin counties into a sprawling new District 2. read more Black Voters Removed from a State Senate District Nov 27, 2023 | Elections , News , Sourced At an October news conference, Senator Dan Blue said Republicans pulled the six Wilmington precincts with the highest Black population and voter participation out of the New Hanover district. read more Folwell criticizes fellow Republicans on public records rollback Oct 27, 2023 | News , Sourced State Treasurer Dale Folwell rebuked lawmakers in his own party regarding a new law that shields legislators’ records from the public. read more Senator Blue: ‘Words without deeds don’t amount to a whole lot’ Oct 27, 2023 | News , Sourced Senator Dan Blue is looking for more than thoughts and prayers after a mass shooting a year ago in his Hedingham neighborhood. read more Republicans Unveil New Congressional and Legislative Maps Oct 20, 2023 | News , Sourced Gov.
+Roy Cooper vetoed a GOP bill that would restructure election boards and change how their members are appointed. read more Cooper vetoes GOP bill shifting appointment power over election boards to legislature Oct 2, 2023 | Bills , Sourced Gov.
+Roy Cooper vetoed a GOP bill that would restructure election boards and change how their members are appointed. read more Republicans Seek More Control Over Elections Oct 2, 2023 | Elections , Sourced N.C.
 House of Representatives followed the N.C.
-Senate in passing legislation that would put the legislature in charge of all election board appointments.
-Due to the delay of North Carolina’s final budget by two months, the implementation of Medicaid expansion for low-income adults will not begin on Oct. 1.
+Senate in passing legislation that would put the legislature in charge of all election board appointments. read more « Older Entries Next Entries » Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

@@ -1,5 +1,4 @@
-Meet Representative Meeks
-Serving the people of New York's Fifth Congressional District has been Congressman Gregory Meeks’ greatest professional honor.
+Skip to main content Main navigation Meet Representative Meeks Endorse Volunteer Social Menu Facebook Twitter Instagram EA Donate Translate this page Meet Representative Meeks Serving the people of New York's Fifth Congressional District has been Congressman Gregory Meeks’ greatest professional honor.
 In his fourteenth term in Congress, he remains focused on making government work for his constituents and the American people.
 Congressman Meeks is a solutions-oriented lawmaker who is respected in Congress, New York State, and worldwide for his bipartisan efforts as an effective common sense leader who gets things done.
 Congressman Meeks views boosting the economy, creating new jobs for the residents of the 5th Congressional District, and greater business access for small, minority, and women-owned enterprises as core to his mission.
@@ -24,3 +23,4 @@ Congressman Meeks earned his bachelor's degree at Adelphi University and receive
 He is a member of the Allen AME Church in St.
 Albans, New York, and is married to Simone-Marie Meeks.
 He has three daughters, Ebony, Aja, and Nia.
+Congressman Gregory Meeks with his wife, Simone-Marie Meeks Facebook Twitter Instagram Paid for by Friends for Gregory Meeks

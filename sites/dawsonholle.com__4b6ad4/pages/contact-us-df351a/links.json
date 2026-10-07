@@ -1,13 +1,58 @@
 [
-"https://dawsonholle.com/",
-"https://dawsonholle.com/about-me-1",
-"https://dawsonholle.com/contact-us",
-"https://dawsonholle.com/donate",
-"https://facebook.com/hashtag/holle2house?epa=HASHTAG",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/holle2house",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/holle2house/donatenow",
-"https://x.com/DawsonHolle"
+{
+"text": "701-214-9506",
+"href": "tel:7012149506"
+},
+{
+"text": "About me",
+"href": "https://dawsonholle.com/about-me-1"
+},
+{
+"text": "Contact Us",
+"href": "https://dawsonholle.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://dawsonholle.com/donate"
+},
+{
+"text": "Donate Now! 👉 Click the link to make a donation and join Team Holle!",
+"href": "https://secure.winred.com/holle2house/donatenow"
+},
+{
+"text": "Home",
+"href": "https://dawsonholle.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image]",
+"href": "https://dawsonholle.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/hashtag/holle2house?epa=HASHTAG"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/holle2house/"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/DawsonHolle"
+},
+{
+"text": "dawsonholle@gmail.com",
+"href": "mailto:dawsonholle@gmail.com"
+}
 ]

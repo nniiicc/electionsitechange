@@ -1,10 +1,42 @@
 [
-"http://dannysterling.com/",
-"http://dannysterling.com/about-danny",
-"http://dannysterling.com/donate",
-"http://dannysterling.com/golf",
-"http://dannysterling.com/volunteer",
-"http://dannysterling.com/wp-content/uploads/2018/05/HD27-Reduced.jpg",
-"https://fb.me/DannySterlingHD27",
-"https://okvoterportal.okelections.us/"
+{
+"text": "About Danny",
+"href": "http://dannysterling.com/about-danny/"
+},
+{
+"text": "Contribute",
+"href": "http://dannysterling.com/donate/"
+},
+{
+"text": "District 27 Map",
+"href": "http://dannysterling.com/wp-content/uploads/2018/05/HD27-Reduced.jpg"
+},
+{
+"text": "Donate",
+"href": "http://dannysterling.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://fb.me/DannySterlingHD27"
+},
+{
+"text": "Golf",
+"href": "http://dannysterling.com/golf/"
+},
+{
+"text": "Home",
+"href": "http://dannysterling.com/"
+},
+{
+"text": "State Voter Tool",
+"href": "https://okvoterportal.okelections.us/"
+},
+{
+"text": "Volunteer",
+"href": "http://dannysterling.com/volunteer/"
+},
+{
+"text": "[image: Danny Sterling]",
+"href": "http://dannysterling.com/"
+}
 ]

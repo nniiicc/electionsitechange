@@ -1,10 +1,3 @@
-Safe Communities
-Keeping Our Communities Safe
-Our families deserve safe neighborhoods and law enforcement officers who have the resources they need to do their jobs.
-During my time in office, I have worked to:
-• Secure funding for local law enforcement and fire departments.
-• Support constitutional bail reform that keeps dangerous offenders off our streets while protecting the rights of the accused.
-• Fight organized retail crime and repeat violent offenders.
-• Support our first responders, including working with local officials during the fentanyl exposure incident involving Mountainair firefighters.
-• Continue advocating for stronger public safety policies that protect victims and our communities.
-• Fund emergency communications equipment and emergency management improvements.
+Skip to content Home How to Help Me Win Issues Safe Communties Growing our Economy Strong Communities Healthcare Protecting our Water Second Amendment 2nd Amendment Endorsements Latest News Meet Stefani Donate ☰ Menu Donate Safe Communities Keeping Our Communities Safe Our families deserve safe neighborhoods and law enforcement officers who have the resources they need to do their jobs.
+During my time in office, I have worked to: • Secure funding for local law enforcement and fire departments. • Support constitutional bail reform that keeps dangerous offenders off our streets while protecting the rights of the accused. • Fight organized retail crime and repeat violent offenders. • Support our first responders, including working with local officials during the fentanyl exposure incident involving Mountainair firefighters. • Continue advocating for stronger public safety policies that protect victims and our communities. • Fund emergency communications equipment and emergency management improvements.
+Stay in Touch Checks payable to "Committee to Elect Stefani Lord" Send donations and correspondence to PO Box 131 Sandia Park, NM 87047 Paid for by the Committee to Elect Stefani Lord ✕ Home How to Help Me Win Issues Safe Communties Growing our Economy Strong Communities Healthcare Protecting our Water Second Amendment 2nd Amendment Endorsements Latest News Meet Stefani

@@ -1,18 +1,66 @@
 [
-"https://facebook.com/sarahclarkny",
-"https://instagram.com/votesarahclark",
-"https://sarahclarkforassembly.com/",
-"https://sarahclarkforassembly.com/about-sarah",
-"https://sarahclarkforassembly.com/category/inthenews",
-"https://sarahclarkforassembly.com/contact",
-"https://sarahclarkforassembly.com/issues",
-"https://sarahclarkforassembly.com/media",
-"https://sarahclarkforassembly.com/n-y-senate-assembly-higher-education-committees-push-for-tuition-assistance-reform",
-"https://sarahclarkforassembly.com/nys-legislators-write-letter-asking-hochul-to-back-task-force-bill-for-missing-women-of-color",
-"https://sarahclarkforassembly.com/subscribe",
-"https://sarahclarkforassembly.com/tag/housing",
-"https://sarahclarkforassembly.com/volunteer",
-"https://sarahclarkforassembly.com/vote",
-"https://secure.actblue.com/donate/votesarah",
-"https://wxxinews.org/local-news/2023-12-18/rochester-gets-a-second-shot-at-rent-control-study"
+{
+"text": "About Sarah",
+"href": "https://sarahclarkforassembly.com/about-sarah/"
+},
+{
+"text": "Contact",
+"href": "https://sarahclarkforassembly.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votesarah"
+},
+{
+"text": "In The News",
+"href": "https://sarahclarkforassembly.com/category/inthenews/"
+},
+{
+"text": "Issues",
+"href": "https://sarahclarkforassembly.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://sarahclarkforassembly.com/media/"
+},
+{
+"text": "N.Y. Senate, Assembly higher education committees push for tuition assistance reform",
+"href": "https://sarahclarkforassembly.com/n-y-senate-assembly-higher-education-committees-push-for-tuition-assistance-reform/"
+},
+{
+"text": "NYS legislators write letter asking Hochul to back task force bill for missing women of color",
+"href": "https://sarahclarkforassembly.com/nys-legislators-write-letter-asking-hochul-to-back-task-force-bill-for-missing-women-of-color/"
+},
+{
+"text": "Subscribe",
+"href": "https://sarahclarkforassembly.com/subscribe/"
+},
+{
+"text": "Volunteer",
+"href": "https://sarahclarkforassembly.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://sarahclarkforassembly.com/vote/"
+},
+{
+"text": "WXXI News",
+"href": "https://www.wxxinews.org/local-news/2023-12-18/rochester-gets-a-second-shot-at-rent-control-study"
+},
+{
+"text": "[image: Sarah Clark for New York State Assembly]",
+"href": "https://sarahclarkforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sarahclarkny/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votesarahclark/"
+},
+{
+"text": "housing",
+"href": "https://sarahclarkforassembly.com/tag/housing/"
+}
 ]

@@ -1,20 +1,82 @@
 [
-"http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F36318%2FLatest-News%2FGillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting",
-"http://twitter.com/share?text=Gillen+to+Honor+Firefighters+During+Township+Supervisor+Meeting&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F36318%2FLatest-News%2FGillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting",
-"https://facebook.com/RepGillen",
-"https://google.com/maps/place/2689+Main+St,+Birdsboro,+PA+19508/@40.2815989,-75.8607771,837m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c67afc6f5df5eb:0xc6d09385e814cb3c!8m2!3d40.2815989!4d-75.8582022!16s%2Fg%2F11fb0dmwzq?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "2689 Main St., Birdsboro, PA 19508",
+"href": "https://www.google.com/maps/place/2689+Main+St,+Birdsboro,+PA+19508/@40.2815989,-75.8607771,837m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89c67afc6f5df5eb:0xc6d09385e814cb3c!8m2!3d40.2815989!4d-75.8582022!16s%2Fg%2F11fb0dmwzq?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D"
+},
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.repgillen.com%2FNews%2F36318%2FLatest-News%2FGillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+},
+{
+"text": "[tooltip: X]",
+"href": "http://twitter.com/share?text=Gillen+to+Honor+Firefighters+During+Township+Supervisor+Meeting&url=https%3A%2F%2Fwww.repgillen.com%2FNews%2F36318%2FLatest-News%2FGillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting"
+},
+{
+"text": "wjones@pahouse.gop.com",
+"href": "mailto:wjones@pahouse.gop.com"
+}
 ]

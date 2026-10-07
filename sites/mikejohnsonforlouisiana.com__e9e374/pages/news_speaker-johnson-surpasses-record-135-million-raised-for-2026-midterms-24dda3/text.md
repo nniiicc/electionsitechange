@@ -1,9 +1,14 @@
-Speaker Johnson Surpasses Record $135 Million Raised for 2026 Midterms
-July 15, 2026
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Speaker Johnson Surpasses Record $# Million Raised for 2026 Midterms Jul 15 Written By Greg Steele July 15, 2026 WASHI NGTO N, D.C. - S peaker Mike Johnson annou nced today he raised $19.1 million in the second quarter of 2026, bringing his total hard-dollar fundraising this year to over $53 million and this cycle to over $135 million.
 This is the most raised in an election year and at this point in a cycle by a Republican Speaker or Leader, and it does not include the hundreds of millions of additional funds raised by the Speaker's endorsed Super PAC, the Congressional Leadership Fund.
 Speaker Johnson has now surpassed over $200 million raised for House Republicans in just over two and a half years since becoming Speaker.
 "While Democrats lunge further into disarray and to the far-left, House Republicans are united, well-funded, and on offense to win the midterms.
 With less than four months to go, we continue to expose the contrast for America before voters this fall – a choice between Republican’s common sense and Democrat’s embrace of crazy and Communism," said Speaker Johnson.
-"Another record-setting fundraising quarter will help us take our message to key districts and place extreme Democrats on notice from coast to coast."
-Today’s announcement builds on the Speaker’s largest fundraising quarter ever to begin the 2026 election year.
+"Another record-setting fundraising quarter will help us take our message to key districts and place extreme Democrats on notice from coast to coast." Today’s announcement builds on the Speaker’s largest fundraising q uarter ever to begin the 2026 election year.
 This cycle, Speaker Johnson has now distributed more than $80 million to Members, campaigns, committees, and state parties, including $38 million to the National Republican Congressional Committee (NRCC), $21 million to incumbents, and $3.9 million to challengers.
+In addition to the Speaker’s record-setting direct fundraising efforts, Speaker Johnson has raised an additional $15.5 million for House Republicans through digital, mail, and Member events this cycle.
+Greg Steele Previous Previous ICYMI: Johnson turns Democrats’ socialist civil war into new weapon for midterms Next Next ICYMI: Speaker Johnson, House Republicans Begin 2026 with Fundraising Records Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

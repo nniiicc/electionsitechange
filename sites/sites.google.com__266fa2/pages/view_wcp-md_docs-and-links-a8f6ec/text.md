@@ -1,17 +1,2 @@
-Embedded Files
-Documents
-- October 2026 meeting announcement
-- August 2026 campaign flyer and mailer
-- June 2026 campaign flyer with candidates
-- December 2025 campaign flyer (new PO Box)
-- August 2025 campaign flyer
-- April 2025 campaign flyer
-- December 2024 campaign flyer
-- October 2023 campaign flyer
-- September 2022 campaign flyer
-- July 2022 campaign flyer
-Links
-- Maryland Public Television's "Vote 2026" page includes an interview with our gubernatorial candidate Cathy White, posted on August 17, 2026.
-Page updated
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation WCP of MD Home Events Contribute Register Docs and Links Videos WCP of MD Home Events Contribute Register Docs and Links Videos More Home Events Contribute Register Docs and Links Videos Documents and Links Documents October 2026 meeting announcement August 2026 campaign flyer and mailer June 2026 campaign flyer with candidates December 2025 campaign flyer (new PO Box) August 2025 campaign flyer April 2025 campaign flyer December 2024 campaign flyer October 2023 campaign flyer September 2022 campaign flyer July 2022 campaign flyer Links Maryland Public Television's "Vote 2026" page includes an interview with our gubernatorial candidate Cathy White, posted on August 17, 2026.
+Authorized by and paid for by Working Class Party Daniel Plattner, Treasurer PO Box 11023, Baltimore, MD 21212 Email: workingclasspartyMD@gmail.com Google Sites Report abuse Page details Page updated Google Sites Report abuse

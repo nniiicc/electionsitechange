@@ -1,5 +1,1 @@
-CONTACT
-Email: Kevin@MannixForOregon.com
-Phone: (503) 308-8668
-Mailing Address: 2009 State Street, Salem, OR 97301
-Visit the campaign office (please call ahead) at 660 Capitol Street NE in Salem
+0 Skip to Content Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home Meet Kevin Priorities Endorsements Volunteer Contact Donate Home Meet Kevin Priorities Endorsements Volunteer Contact Donate CONTACT Email : Kevin@MannixForOregon.com Phone : (503) 308-8668 Mailing Address: 2009 State Street, Salem, OR 97301 Visit the campaign office (please call ahead) at 660 Capitol Street NE in Salem CAMPAIGN OFFICE Call ahead: (503) 308-8668 660 Capitol Street NE, Salem, OR 97301 CONTACT Kevin@MannixForOregon.com Mailing Address: 2009 State Street, Salem, OR 97301 Home | Meet Kevin | Volunteer | Contact ‍ ‍| Privacy Policy © # Paid for by Mannix for Oregon PAC

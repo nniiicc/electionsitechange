@@ -1,15 +1,62 @@
 [
-"https://facebook.com/profile.php?id=61587416104542",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/lucaformontana",
-"https://lucaformontana.com/",
-"https://lucaformontana.com/about",
-"https://lucaformontana.com/donate",
-"https://lucaformontana.com/endorsements",
-"https://lucaformontana.com/hd-5-in-the-news",
-"https://lucaformontana.com/solutions",
-"https://lucaformontana.com/voter-information",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/luca-welle-1"
+{
+"text": "About",
+"href": "https://lucaformontana.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/luca-welle-1"
+},
+{
+"text": "Donate!",
+"href": "https://lucaformontana.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lucaformontana.com/endorsements"
+},
+{
+"text": "Get involved",
+"href": "https://lucaformontana.com/donate#7357c630-7ffa-4466-ad7d-611a72d59d28"
+},
+{
+"text": "HD 5 in the News",
+"href": "https://lucaformontana.com/hd-5-in-the-news"
+},
+{
+"text": "Home",
+"href": "https://lucaformontana.com/"
+},
+{
+"text": "Luca for MontanaLuca for MontanaLuca for MontanaLuca for Montana",
+"href": "https://lucaformontana.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Solutions",
+"href": "https://lucaformontana.com/solutions"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Voter Information",
+"href": "https://lucaformontana.com/voter-information"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587416104542"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/lucaformontana/"
+}
 ]

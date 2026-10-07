@@ -1,9 +1,9 @@
 {
  "description": "Cassandra for Texas&#39; website privacy policy outlines data usage and cookies policy for optimal user experience.",
  "final_url": "https://cassandrafortexas.com/privacy-policy",
- "paid_for_by": null,
+ "fingerprint": "894e4735d7a0712ab747ce081f551b1bb8a2e71e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Privacy Policy",
- "years_mentioned": [
-  "2023"
- ]
+ "years_mentioned": []
 }

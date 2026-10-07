@@ -1,13 +1,50 @@
 [
-"https://cookieadmin.net/",
-"https://griselda4illinois.com/",
-"https://griselda4illinois.com/contact",
-"https://griselda4illinois.com/donate",
-"https://griselda4illinois.com/mailing-list",
-"https://griselda4illinois.com/meet-eyde",
-"https://griselda4illinois.com/meet-griselda",
-"https://griselda4illinois.com/news",
-"https://griselda4illinois.com/platform",
-"https://griselda4illinois.com/volunteer",
-"https://griselda4illinois.com/why-im-running"
+{
+"text": "Campaign News",
+"href": "https://griselda4illinois.com/news/"
+},
+{
+"text": "Contact",
+"href": "https://griselda4illinois.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://griselda4illinois.com/donate/"
+},
+{
+"text": "Get Involved",
+"href": "https://griselda4illinois.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://griselda4illinois.com/"
+},
+{
+"text": "Join the Mailing List",
+"href": "https://griselda4illinois.com/mailing-list/"
+},
+{
+"text": "Meet Eyde",
+"href": "https://griselda4illinois.com/meet-eyde/"
+},
+{
+"text": "Meet Griselda",
+"href": "https://griselda4illinois.com/meet-griselda/"
+},
+{
+"text": "Platform",
+"href": "https://griselda4illinois.com/platform/"
+},
+{
+"text": "Powered by",
+"href": "https://cookieadmin.net/"
+},
+{
+"text": "Why I’m Running",
+"href": "https://griselda4illinois.com/why-im-running/"
+},
+{
+"text": "[image: Griselda for Illinois]",
+"href": "https://griselda4illinois.com/"
+}
 ]

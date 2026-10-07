@@ -1,5 +1,10 @@
-MEET JOSHThe 48th Governor of Pennsylvania
-Every day as Governor, Josh Shapiro has brought people together to get stuff done and protect Pennsylvanians’ fundamental freedoms.
+Skip to Main Content Donate to support Josh Support Josh Shapiro for Governor We need your help to keep Pennsylvania blue! $# $# $# $# $# Other If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+This button leads off-site.
+Donate Meet Josh Meet Austin Press Volunteer Shop Yard Signs ES This button leads off-site.
+Donate This link leads off-site.
+This link leads off-site.
+This link leads off-site.
+This link leads off-site. es MEET JOSH The 48th Governor of Pennsylvania Every day as Governor, Josh Shapiro has brought people together to get stuff done and protect Pennsylvanians’ fundamental freedoms.
 Governor Shapiro believes all Pennsylvanians should have the freedom to chart their own course and the opportunity to succeed – and that is what he has worked to deliver: from creating jobs and putting money back in people’s pockets, to investing in law enforcement and community organizations to improve public safety, to delivering historic funding for our kids’ education, to protecting our freedoms and our democracy.
 Governor Shapiro has delivered results on the issues that matter most; he has shown up in moments of crisis and emergency; and he has proven every day that he is a Governor who fights for all of us.
 Now, Governor Josh Shapiro and Lieutenant Governor Austin Davis are running for reelection to keep getting stuff done and to keep moving our Commonwealth forward.
@@ -10,3 +15,11 @@ As Governor, he has made it a priority to represent all Pennsylvanians, travelin
 He previously served as Pennsylvania’s Attorney General, Chair of the Montgomery County Board of Commissioners, and State Representative.
 From seeing his parents serve others – his father in the Navy and as the local pediatrician and his mother as an educator – to marrying his high-school sweetheart, Lori, and raising four children in the community and traditions they grew up in, to a career fighting for the people of Pennsylvania, Governor Shapiro’s life has been grounded in faith, family, and public service.
 Through it all, Governor Shapiro continues – as he’s done throughout his career – to take on big fights, bring people together to get stuff done, and defend Pennsylvanians’ rights and freedoms.
+Donate By Mail Shapiro for Pennsylvania PO Box 22635 Philadelphia, PA 19110 Paid for by Shapiro for Pennsylvania By participating, you agree to the terms & privacy policy for recurring autodialed marketing messages from Josh Shapiro to the phone number you provide.
+No consent required to buy.
+Msg&data rates may apply.
+Contact Us Invite Josh Donate Volunteer Yard Signs Privacy Policy Accessibility Statement This link leads off-site.
+This link leads off-site.
+This link leads off-site.
+This link leads off-site.
+CLOSE × Support Governor Shapiro’s Reelection Campaign $5 $15 $25 $50 $100 Other

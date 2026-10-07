@@ -1,15 +1,58 @@
 [
-"http://twitter.com/joedforpa",
-"https://amazon.com/Balanced-Spiritual-Diet-Month-long-Spiritually/dp/1508817154",
-"https://facebook.com/joedforpa",
-"https://instagram.com/joedforpa",
-"https://joedforpa.com/",
-"https://joedforpa.com/_files/ugd/77a06d_8a14d585640c49bfa99337e7e1ea5c58.pdf",
-"https://joedforpa.com/about",
-"https://joedforpa.com/contact",
-"https://joedforpa.com/donate",
-"https://joedforpa.com/gallery",
-"https://joedforpa.com/issues",
-"https://joedforpa.com/take-action",
-"https://linkedin.com/in/joe-d-orsie-7a257b64"
+{
+"text": "About",
+"href": "https://www.joedforpa.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.joedforpa.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.joedforpa.com/donate"
+},
+{
+"text": "Gallery",
+"href": "https://www.joedforpa.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.joedforpa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.joedforpa.com/issues"
+},
+{
+"text": "Take Action",
+"href": "https://www.joedforpa.com/take-action"
+},
+{
+"text": "The Balanced Spiritual Diet, a 30 Day Challenge,",
+"href": "https://www.amazon.com/Balanced-Spiritual-Diet-Month-long-Spiritually/dp/1508817154"
+},
+{
+"text": "The Summer of Saints, Profiles of Christian Heroes that will Amaze, Encourage, & Equip (e-Book)",
+"href": "https://www.joedforpa.com/_files/ugd/77a06d_8a14d585640c49bfa99337e7e1ea5c58.pdf"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/joedforpa"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joedforpa"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/joe-d-orsie-7a257b64/"
+},
+{
+"text": "[image: X]",
+"href": "http://www.twitter.com/joedforpa"
+},
+{
+"text": "info@joedforpa.com",
+"href": "mailto:info@joedforpa.com"
+}
 ]

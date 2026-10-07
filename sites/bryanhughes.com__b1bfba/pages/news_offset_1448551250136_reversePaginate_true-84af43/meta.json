@@ -1,12 +1,16 @@
 {
  "description": "",
  "final_url": "https://www.bryanhughes.com/news?offset=1448551250136&reversePaginate=true",
- "paid_for_by": "paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773 &nbsp; &nbsp;",
- "title": "News \u2014 Bryan Hughes",
+ "fingerprint": "b89db4ce34b91589dfb274cce83cb388b7213bb4",
+ "format": 3,
+ "paid_for_by": "paid for by the Bryan Hughes Campaign, PO Box 450, Mineola, Texas 75773",
+ "title": "News — Bryan Hughes",
  "years_mentioned": [
   "2013",
   "2014",
   "2015",
+  "2016",
+  "2017",
   "2020"
  ]
 }

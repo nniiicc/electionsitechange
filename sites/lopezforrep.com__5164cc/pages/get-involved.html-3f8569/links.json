@@ -1,7 +1,26 @@
 [
-"https://lopezforrep.com/donate.html",
-"https://sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx",
-"https://sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
-"https://sec.state.ma.us/ovr",
-"https://town.canton.ma.us/259/Town-Clerk"
+{
+"text": "Check your registration status →",
+"href": "https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx"
+},
+{
+"text": "Donate",
+"href": "https://www.lopezforrep.com/donate.html"
+},
+{
+"text": "Email the Campaign",
+"href": "mailto:lopezforrep@gmail.com"
+},
+{
+"text": "Key election dates & deadlines →",
+"href": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm"
+},
+{
+"text": "Register to vote in Massachusetts →",
+"href": "https://www.sec.state.ma.us/ovr/"
+},
+{
+"text": "Request a mail-in ballot →",
+"href": "https://www.town.canton.ma.us/259/Town-Clerk"
+}
 ]

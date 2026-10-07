@@ -1,19 +1,94 @@
 [
-"https://citizensforhochgesang.org/",
-"https://citizensforhochgesang.org/cdn-cgi/l/email-protection",
-"https://citizensforhochgesang.org/district",
-"https://citizensforhochgesang.org/events",
-"https://citizensforhochgesang.org/facts",
-"https://citizensforhochgesang.org/media",
-"https://citizensforhochgesang.org/news",
-"https://citizensforhochgesang.org/platform",
-"https://citizensforhochgesang.org/store",
-"https://citizensforhochgesang.org/support",
-"https://facebook.com/bradhochgesangforindianastatesenate",
-"https://iga.in.gov/legislative/districts",
-"https://in.gov/sos/elections/voter-information",
-"https://indianavoters.in.gov/",
-"https://instagram.com/bradhochgesang.official",
-"https://transparencyusa.org/in/committee/citizens-for-hochgesang-8230",
-"https://youtube.com/@CitizensforHochgesang"
+{
+"text": "About & Priorities",
+"href": "https://citizensforhochgesang.org/platform"
+},
+{
+"text": "Check or update voter registration",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Check registration",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Confirm district and polling location",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "Events",
+"href": "https://citizensforhochgesang.org/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/bradhochgesangforindianastatesenate"
+},
+{
+"text": "Home",
+"href": "https://citizensforhochgesang.org/"
+},
+{
+"text": "Indiana district map",
+"href": "https://iga.in.gov/legislative/districts"
+},
+{
+"text": "Indiana voter portal",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bradhochgesang.official"
+},
+{
+"text": "Media & Press",
+"href": "https://citizensforhochgesang.org/media"
+},
+{
+"text": "News",
+"href": "https://citizensforhochgesang.org/news"
+},
+{
+"text": "Our District",
+"href": "https://citizensforhochgesang.org/district"
+},
+{
+"text": "Shirts & Signs",
+"href": "https://citizensforhochgesang.org/store"
+},
+{
+"text": "Sign up for campaign volunteer opportunities",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "Support",
+"href": "https://citizensforhochgesang.org/support"
+},
+{
+"text": "The Record",
+"href": "https://citizensforhochgesang.org/facts"
+},
+{
+"text": "View every contribution and expense",
+"href": "https://www.transparencyusa.org/in/committee/citizens-for-hochgesang-8230"
+},
+{
+"text": "Voter info guide",
+"href": "https://www.in.gov/sos/elections/voter-information/"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@CitizensforHochgesang"
+},
+{
+"text": "[email protected]",
+"href": "mailto:campaign@citizensforhochgesang.org"
+},
+{
+"text": "[image: Brad Hochgesang for State Senate campaign logo]Brad Hochgesangfor State Senate",
+"href": "https://citizensforhochgesang.org/"
+}
 ]

@@ -1,11 +1,38 @@
 [
-"https://campaignpartner.com/",
-"https://clydechambliss.com/",
-"https://clydechambliss.com/about_clyde",
-"https://clydechambliss.com/contact",
-"https://clydechambliss.com/home",
-"https://clydechambliss.com/in-clydes-own-words",
-"https://clydechambliss.com/issues",
-"https://clydechambliss.com/legislation",
-"https://clydechambliss.com/news"
+{
+"text": "About Clyde",
+"href": "https://www.clydechambliss.com/about_clyde"
+},
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://www.clydechambliss.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.clydechambliss.com/home"
+},
+{
+"text": "In Clyde's Own Words",
+"href": "https://www.clydechambliss.com/in-clydes-own-words"
+},
+{
+"text": "Legislation",
+"href": "https://www.clydechambliss.com/legislation"
+},
+{
+"text": "News",
+"href": "https://www.clydechambliss.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.clydechambliss.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.clydechambliss.com/"
+}
 ]

@@ -1,9 +1,34 @@
 [
-"http://facebook.com/proutforalaska",
-"http://instagram.com/proutforalaska",
-"https://proutforalaska.com/",
-"https://proutforalaska.com/about",
-"https://proutforalaska.com/cart",
-"https://proutforalaska.com/my-vision",
-"https://secure.winred.com/prout-for-alaska"
+{
+"text": "0",
+"href": "https://www.proutforalaska.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.proutforalaska.com/about"
+},
+{
+"text": "Home",
+"href": "https://www.proutforalaska.com/"
+},
+{
+"text": "My Vision",
+"href": "https://www.proutforalaska.com/my-vision"
+},
+{
+"text": "[image: Sheldon Prout for State House]",
+"href": "https://www.proutforalaska.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/proutforalaska"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/proutforalaska"
+},
+{
+"text": "donate now",
+"href": "https://secure.winred.com/prout-for-alaska/"
+}
 ]

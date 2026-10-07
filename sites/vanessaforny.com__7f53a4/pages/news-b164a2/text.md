@@ -1,36 +1,15 @@
-News & Press
-City & State
-The 2026 Manhattan Power 100
-58.
-Vanessa Aronson, Eli Northrup, Illapa Sairitupac & David Siffert
-Democratic Assembly Nominees
-City & state
-Vanessa Aronson is walking right into the Assembly
-Vanessa Aronson is a shoo-in to fill Alex Bores’ Assembly seat on the east side of Manhattan.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate News & Press City & State The 2026 Manhattan Power 100 58.
+Vanessa Aronson, Eli Northrup, Illapa Sairitupac & David Siffert Democratic Assembly Nominees Read more Sep 8 2026 City & state Vanessa Aronson is walking right into the Assembly Vanessa Aronson is a shoo-in to fill Alex Bores’ Assembly seat on the east side of Manhattan.
 That isn’t a political analysis of a crowded field, but the facts – Aronson is the only Democrat running who has filed petitions for the open seat.
 This means there won’t be a primary, and Aronson will be the Democratic party’s nominee on the ballot in November in a district President Donald Trump lost by 53 points.
-The patch
-UES Candidate Nets 2 Key Endorsements For AD-73 Race
-New York City Comptroller Mark Levine and Assemblymember Keith Powers have formally endorsed a candidate in the Assembly District 73 race to replace Alex Bores.
+Read more Apr 7 2026 Upper east site UES Assembly Candidate Endorsed by Former Neighborhood Elected Official Read more Feb 18 2026 The patch UES Candidate Nets 2 Key Endorsements For AD-73 Race New York City Comptroller Mark Levine and Assemblymember Keith Powers have formally endorsed a candidate in the Assembly District 73 race to replace Alex Bores.
 Levine and Powers are backing Vanessa Aronson in the race to succeed Bores, who decided to run for Congress in New York District 12.
-Forward
-The Maccabees taught us persistence and hope
-Our Town
-Post Election Musings
-Aronson and her family— husband Reid and sons, Levari and Tavi and Bores and his family— wife Darya, new baby Charlie, and mom Lori all in full costume stopped by at Community Unity Initiative’s 2nd annual Halloween Trick or Treater at Shake Shack plaza on East 86th St.
-Our town
-Ready to run for the Bores seat
-Vanessa Aronson, who came in second in a tight CD 4 primary in June and is former president of the Lexington Dem Club, has announced that she’s running for Alex Bores’s Assembly seat next year.
+Read more Feb 17 2026 Forward The Maccabees taught us persistence and hope The goal of antisemitism is, as it has always been, to divide us, isolate us, and snuff out our light.
+Read more Dec # 2025 Our Town Post Election Musings Aronson and her family— husband Reid and sons, Levari and Tavi and Bores and his family— wife Darya, new baby Charlie, and mom Lori all in full costume stopped by at Community Unity Initiative’s 2nd annual Halloween Trick or Treater at Shake Shack plaza on East 86th St.
+Read more Nov 11 2025 Our town Ready to run for the Bores seat Vanessa Aronson, who came in second in a tight CD 4 primary in June and is former president of the Lexington Dem Club, has announced that she’s running for Alex Bores’s Assembly seat next year.
 Heavily armed with a roster of endorsements from local and statewide Democratic leadership, Aronson will be participating in the state’s matching funds program.
-upper east site
-Vanessa Aronson Running for UES Assembly Seat After Narrow City Council Loss
-After becoming a popular choice but ultimately losing to Virginia Maloney in this spring’s City Council primary for District 4, which covers the western half of the Upper East Side and other neighborhoods down to 14th Street, Aronson has once again donned her running shoes and set her sights on Assembly District 73.
-Patch
-There's An Upper East Side Power Swap In The Works
-On Wednesday morning, Vanessa Aronson, who narrowly lost a primary campaign for City Council District 4 to Virginia Maloney, announced she'd be running for Bores's newly opened Assembly seat, and endorsed him.
-politico
-When One Door Closes
-Vanessa Aronson is jumping into the race to succeed Assemblymember Alex Bores months after her narrow second place finish to Virginia Maloney in a Democratic City Council primary on the east side of Manhattan.
-City & state
-Vanessa Aronson is running for Assembly
-Vanessa Aronson, who came in second in a competitive New York City Council primary on the Upper East Side in June, on Tuesday filed to run for Assembly District 73, state campaign finance records show.
+Read more Oct 26 2025 upper east site Vanessa Aronson Running for UES Assembly Seat After Narrow City Council Loss After becoming a popular choice but ultimately losing to Virginia Maloney in this spring’s City Council primary for District 4, which covers the western half of the Upper East Side and other neighborhoods down to 14th Street, Aronson has once again donned her running shoes and set her sights on Assembly District 73.
+Read more Oct 22 2025 Patch There's An Upper East Side Power Swap In The Works On Wednesday morning, Vanessa Aronson , who narrowly lost a primary campaign for City Council District 4 to Virginia Maloney, announced she'd be running for Bores's newly opened Assembly seat, and endorsed him.
+Read more Oct 22 2025 politico When One Door Closes Vanessa Aronson is jumping into the race to succeed Assemblymember Alex Bores months after her narrow second place finish to Virginia Maloney in a Democratic City Council primary on the east side of Manhattan.
+Read more Oct 22 2025 City & state Vanessa Aronson is running for Assembly Vanessa Aronson , who came in second in a competitive New York City Council primary on the Upper East Side in June, on Tuesday filed to run for Assembly District 73, state campaign finance records show.
+Read more Sep 30 2025 vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

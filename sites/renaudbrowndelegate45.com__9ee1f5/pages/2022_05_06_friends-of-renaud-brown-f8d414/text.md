@@ -1,8 +1,9 @@
-Unfortunately, due to rain our first visibility event was cancelled
-Events: https://www.eventbrite.com/e/canvass-in-district-43-tickets-220011880457
-Dates of Interest: May 10 I will attend the Lauraville Improvement Assoc. mtg.
-May 14 – Gather voters at the Waverly Farmer’s Market from 10 am – noon
-May 22 JFX Farmers Market from 10 – 1, Canvass TBD from 12-3
-Published by singer39
-Aspiring and inspiring tenor, teacher, publisher, activist, coach, GREEN
-View more posts
+Skip to content Renaud Brown for Delegate 2026 Running on Education, Housing, Transit and At-will repeal Home Veterans Blog Taxes Immigration Workers Restoration Medicare for All Housing Maryland Green New Deal Transportation: From Oakland to Ocean City Environment District Priorities Back Friends of Renaud Brown Posted by singer39 May 6, 2022 Leave a comment on Friends of Renaud Brown Unfortunately, due to rain our first visibility event was cancelled Events: https://www.eventbrite.com/e/canvass-in-district-43-tickets-220011880457 Dates of Interest: May 10 I will attend the Lauraville Improvement Assoc. mtg.
+May 14 – Gather voters at the Waverly Farmer’s Market from 10 am – noon May 22 JFX Farmers Market from 10 – 1, Canvass TBD from 12-3 Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related Posted by singer39 May 6, 2022 Posted in Uncategorized Published by singer39 Aspiring and inspiring tenor, teacher, publisher, activist, coach, GREEN View more posts Post navigation Previous Post Previous post: Maryland United for Peace & Justice is sponsoring a webinar.
+Ranked Choice Voting: Is it a pathway to more civil politics?
+The event will take place on Saturday, February 19 at 2pm (EST).
+Next Post Next post: Follow the Money Leave a comment Cancel reply Δ Archives Archives Select Month December 2023 (1) July 2023 (1) July 2022 (2) June 2022 (1) May 2022 (1) February 2022 (1) Blog Stats 6,288 hits Renaud Brown for Delegate 2026 , Website Powered by WordPress.com .
+Comment Reblog Subscribe Subscribed Renaud Brown for Delegate 2026 Sign me up Have a WordPress.com account?
+Log in now.
+Renaud Brown for Delegate 2026 Copy shortlink View post in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar %d

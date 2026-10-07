@@ -1,5 +1,4 @@
-2024 - Economic Development for Rural Indiana
-Rural Indiana has become unattractive as a location for businesses to locate for a variety of reasons.
+0 Skip to Content Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate Open Menu Close Menu Issues About John Take Action Blog Donate 2024 - Economic Development for Rural Indiana Jul 24 Written By John Bartlett for IN State Rep Dist 33 Rural Indiana has become unattractive as a location for businesses to locate for a variety of reasons.
 Some of these reasons are part of other issues.
 What can we do to correct what has happened?
 Education has been attacked for 20 years so that we have an undereducated workforce.
@@ -23,3 +22,4 @@ Then with cellular options such as 4G and 5G, many service providers have data l
 There is money coming from the federal government to build our internet infrastructure.
 As a state, we need to ensure this money is distributed to rural and small town areas and spent to build reliable broadband internet infrastructure properly.
 Building fiber optic internet service in rural Indiana will be something major that would attract businesses to locate here.
+John Bartlett for IN State Rep Dist 33 Previous Previous 2024 - Education Policy Next Next 2024 - State Income Taxes Bartlett for Indiana Member of the Indiana Rural Summit Paid for by Bartlett for Indiana, Jennifer Hollems, Treasurer

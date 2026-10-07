@@ -1,5 +1,4 @@
-A Wyoming Story
-For more than 20 years, Rebecca has called Wyoming home.
+Home Meet Rebecca Issues First 100 Days Events Donate Meet Rebecca A Wyoming Story For more than 20 years, Rebecca has called Wyoming home.
 Now she's running for governor to keep it strong, independent, and free.
 For more than 20 years, Rebecca has called Wyoming home, building a life, raising a family, and operating small businesses with her husband, Jonathan.
 She understands the hard work, independence, and personal responsibility that define Wyoming's Western spirit.
@@ -13,6 +12,9 @@ Rebecca is running for Governor to defend limited government, responsible spendi
 She will oppose federal overreach, protect Wyoming's natural-resource industries, and fight unnecessary government interference in the lives of families and small businesses.
 Rebecca has spent years working to elect conservatives and hold the government accountable.
 Now she is ready to bring that same conviction to the Governor's Office and ensure Wyoming remains strong, independent, and free.
-Family, Faith, and Fighting for Wyoming
+Rebecca's Wyoming Family, Faith, and Fighting for Wyoming Rebecca with her husband, Jonathan, and their four daughters near the Grand Tetons.
+Rebecca and Jonathan with President Trump, championing Wyoming's conservative values.
 Ready to help Rebecca win?
 Join the campaign or learn where Rebecca stands on the issues that matter most.
+Join the Movement The Issues Keeping Wyoming strong, independent, and free starts with the people who live here.
+Home Meet Rebecca Issues First 100 Days Events Strong · Independent · Free Paid for by Rebecca for Wyoming Privacy Policy

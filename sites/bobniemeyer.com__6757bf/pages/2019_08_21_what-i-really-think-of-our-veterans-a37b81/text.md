@@ -1,4 +1,4 @@
-To understand why our Veterans are important to America, people need to understand what the concept of “Treasure” is.
+Skip to content Who Is Bob Phoenix Project The Constitution Oregon Needs The Preamble Declaration of Independence Article 1: Bill of Responsibilities Article 2: Bill of Rights Article 3: Executive Branch Article 4: Legislative Branch Article 5: Judicial Branch Article 6: People’s Authority Article 7: Suffrage and Election Integrity Articles Volunteer What I Really Think of Our Veterans To understand why our Veterans are important to America, people need to understand what the concept of “Treasure” is.
 I am sure that many of the people have heard the term “Risk our Nation’s youth and treasure” when this Nation considers going to war.
 If you haven’t, please follow along.
 Picture, if you will, a “Treasure Chest” with many valuable contents.
@@ -15,14 +15,11 @@ The “Value” of what they contributed stays in the chest.
 Those who sacrificed all for this Nation stays in the chest.
 Those who sacrificed by being wounded both physically and mentally stay in the chest.
 And those who have dedicated their careers and significant part of their lives stay in the chest.
-It is up to the People around that chest to help them get out and become part of the living and thriving Americans that the military risked all to protect.
-–For those who gave the last full measure, they shall never have the chance to become a Veteran.
+It is up to the People around that chest to help them get out and become part of the living and thriving Americans that the military risked all to protect. –For those who gave the last full measure, they shall never have the chance to become a Veteran.
 We the People can thank them only with the promise that they will come home and be honored for their service.
 Their “Value” to the People shall remain as part of our Treasure.
-A Treasure that we remember when we sing the National Anthem before events, Pledge Allegiance to the Flag, or celebrate our freedoms through parades or placing flags on the graves of the fallen.
-–For those who were wounded, both physically and mentally, We the People made a promise to help them become Veterans by providing what was required for their return to standing with Americans around the chest.
-A promise that includes healthcare (both physical and mental), training in a new vocation, and help finding a job that will help that Veteran contribute “Value” to the Americans around the chest.
-–For those who learned skills that are not needed outside of the chest or have dedicated their careers to maintaining the “Value” of our Safety and Freedom, We the People made promises to retrain through the GI Bill, vocational help, or pensions that would help our Veterans maintain the “Value” of what they had to leave in the chest.
+A Treasure that we remember when we sing the National Anthem before events, Pledge Allegiance to the Flag, or celebrate our freedoms through parades or placing flags on the graves of the fallen. –For those who were wounded, both physically and mentally, We the People made a promise to help them become Veterans by providing what was required for their return to standing with Americans around the chest.
+A promise that includes healthcare (both physical and mental), training in a new vocation, and help finding a job that will help that Veteran contribute “Value” to the Americans around the chest. –For those who learned skills that are not needed outside of the chest or have dedicated their careers to maintaining the “Value” of our Safety and Freedom, We the People made promises to retrain through the GI Bill, vocational help, or pensions that would help our Veterans maintain the “Value” of what they had to leave in the chest.
 It is the “Value” that I speak of that our Veterans have to this Nation that We the People are obligated to maintain.
 Our elected officials, in many cases, decided not to keep the promises that were given to our Veterans.
 Some elected officials have done nothing but cut holes in the chest and allow the “Value” of what is inside to leak out for the purposes of buying votes to keep themselves in office.
@@ -41,3 +38,5 @@ It is simply “Pride” in our Nation.
 The “Value” of “Pride” is by far the worst thing that can be allowed to leak out of the Treasure Chest.
 For “Pride” is one of the precious few things of “Value” that also exist outside of the chest in our hearts and minds.
 Our Veterans represent that “Pride” and have earned our support because We the People believe in what they did for us all as much as our Veterans believed in America.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook © # | All Rights Reserved | Paid for by the Bob Niemeyer Campaign Discover more from Bob Niemeyer Subscribe now to keep reading and get access to the full archive.
+Type your email… Subscribe Continue reading

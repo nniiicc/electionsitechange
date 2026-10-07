@@ -1,12 +1,42 @@
 [
-"http://facebook.com/vote4lipe",
-"https://instagram.com/vote4jefflipeuhd74",
-"https://vote4jefflipe.com/",
-"https://vote4jefflipe.com/about",
-"https://vote4jefflipe.com/cart",
-"https://vote4jefflipe.com/contact",
-"https://vote4jefflipe.com/donate",
-"https://vote4jefflipe.com/my-platform",
-"https://vote4jefflipe.com/resources",
-"https://wdcutah.org/"
+{
+"text": "0",
+"href": "https://www.vote4jefflipe.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.vote4jefflipe.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.vote4jefflipe.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.vote4jefflipe.com/donate"
+},
+{
+"text": "Jeff Lipe for Utah House District 74",
+"href": "https://www.vote4jefflipe.com/"
+},
+{
+"text": "Platform",
+"href": "https://www.vote4jefflipe.com/my-platform"
+},
+{
+"text": "Resources",
+"href": "https://www.vote4jefflipe.com/resources"
+},
+{
+"text": "Women’s Democratic Club of Utah",
+"href": "https://wdcutah.org/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/vote4lipe"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vote4jefflipeuhd74"
+}
 ]

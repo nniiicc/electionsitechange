@@ -1,37 +1,146 @@
 [
-"https://docs.legis.wisconsin.gov/2023/proposals/ab1006",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab1123",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab1170",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab1182",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab233",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab458",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab471",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab558",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab605",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab858",
-"https://docs.legis.wisconsin.gov/2023/proposals/ab877",
-"https://docs.legis.wisconsin.gov/2023/proposals/sb1098",
-"https://docs.legis.wisconsin.gov/2023/proposals/sb1099",
-"https://docs.legis.wisconsin.gov/2023/proposals/sjr105",
-"https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB265-AA1",
-"https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB267-AA1",
-"https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB268-AA1",
-"https://docs.legis.wisconsin.gov/document/session/2023/REG/AA1-AB266",
-"https://docs.legis.wisconsin.gov/document/session/2023/REG/ASA1-AB689",
-"https://facebook.com/mikebareforassembly",
-"https://instagram.com/MikeBareforStateAssembly",
-"https://instagram.com/mikebareforstateassembly",
-"https://secure.actblue.com/donate/reelectmikebare",
-"https://twitter.com/BareMike",
-"https://twitter.com/baremike",
-"https://votebare.com/",
-"https://votebare.com/about",
-"https://votebare.com/accomplishments",
-"https://votebare.com/contact",
-"https://votebare.com/endorsements",
-"https://votebare.com/in-the-news",
-"https://votebare.com/priorities",
-"https://votebare.com/subscribe",
-"https://votebare.com/vote",
-"https://votebare.com/yardsign"
+{
+"text": "2023 AA1-AB266",
+"href": "https://docs.legis.wisconsin.gov/document/session/2023/REG/AA1-AB266"
+},
+{
+"text": "2023 ASA1-AB689",
+"href": "https://docs.legis.wisconsin.gov/document/session/2023/REG/ASA1-AB689"
+},
+{
+"text": "2023 Assembly Bill 1006",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab1006"
+},
+{
+"text": "2023 Assembly Bill 1123",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab1123"
+},
+{
+"text": "2023 Assembly Bill 1170",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab1170"
+},
+{
+"text": "2023 Assembly Bill 1182",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab1182"
+},
+{
+"text": "2023 Assembly Bill 233",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab233"
+},
+{
+"text": "2023 Assembly Bill 458",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab458"
+},
+{
+"text": "2023 Assembly Bill 471",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab471"
+},
+{
+"text": "2023 Assembly Bill 558",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab558"
+},
+{
+"text": "2023 Assembly Bill 605",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab605"
+},
+{
+"text": "2023 Assembly Bill 858",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab858"
+},
+{
+"text": "2023 Assembly Bill 877",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/ab877"
+},
+{
+"text": "2023 Senate Bill 1098",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/sb1098"
+},
+{
+"text": "2023 Senate Bill 1099",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/sb1099"
+},
+{
+"text": "2023 Senate Joint Resolution 105",
+"href": "https://docs.legis.wisconsin.gov/2023/proposals/sjr105"
+},
+{
+"text": "About",
+"href": "https://www.votebare.com/about"
+},
+{
+"text": "Accomplishments",
+"href": "https://www.votebare.com/accomplishments"
+},
+{
+"text": "Amendment AA1-AB265",
+"href": "https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB265-AA1"
+},
+{
+"text": "Amendment AA1-AB267",
+"href": "https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB267-AA1"
+},
+{
+"text": "Amendment AA1-AB268",
+"href": "https://docs.legis.wisconsin.gov/document/amends/2023/REG/AB268-AA1"
+},
+{
+"text": "Contact",
+"href": "https://www.votebare.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/reelectmikebare"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebare.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.votebare.com"
+},
+{
+"text": "Priorities",
+"href": "https://www.votebare.com/priorities"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.votebare.com/subscribe"
+},
+{
+"text": "Updates",
+"href": "https://www.votebare.com/in-the-news"
+},
+{
+"text": "Vote",
+"href": "https://www.votebare.com/vote"
+},
+{
+"text": "YARD SIGN",
+"href": "https://www.votebare.com/yardsign"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/mikebareforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/MikeBareforStateAssembly/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/mikebareforstateassembly/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/BareMike"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/baremike"
+},
+{
+"text": "[image]",
+"href": "https://www.votebare.com"
+}
 ]

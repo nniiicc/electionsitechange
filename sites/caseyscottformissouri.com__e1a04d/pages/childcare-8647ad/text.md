@@ -1,5 +1,4 @@
-Working Parents Need Help
-Supporting childcare means supporting working families—and strengthening our entire community.
+0 Skip to Content Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home About Meet Casey My Story Why I am Running Endorsements From the Community Issues Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Get Involved Volunteer Events & Outreach Request A Yard Sign Merch Contact Voter Information Election Dates MO Voting Center 2026 Ballot Measures Donate Open Menu Close Menu Home Folder: About Back Meet Casey My Story Why I am Running Endorsements From the Community Folder: Issues Back Public School Rural Hospitals Maternal Healthcare Deserts Our Veterans Mental Health and Suicide Prevention Childcare Folder: Get Involved Back Volunteer Events & Outreach Request A Yard Sign Merch Contact Folder: Voter Information Back Election Dates MO Voting Center 2026 Ballot Measures Donate Working Parents Need Help Supporting childcare means supporting working families—and strengthening our entire community.
 We need affordable, accessible childcare in Northwest Missouri.
 When my girls were little, I spent 18 months driving 20 miles away from Trenton and then another 20 miles to Bethany at the hospital where I worked every morning just to drop my youngest off at daycare so I could keep working.
 That meant 18-hour days, three days a week—for a year and a half—because the daycare my oldest attended had no openings.
@@ -7,3 +6,8 @@ This isn’t just my story; it’s the reality for too many families in our comm
 We have a serious shortage of childcare options, and it’s putting an unsustainable burden on working parents.
 Those of us who have known these struggles understand what working-class Americans and Missourians need because we have lived it.
 We need policies that expand access, lower costs for families, and ensure that the people caring for our children are paid a fair, living wage.
+Stay in the loop Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address get updates from Casey directly to your inbox.
+Email Address Sign Up Thank you!
+Donate ‍ Volunteer ‍ Events Casey Scott For Missouri caseyscottformissouri@gmail.com PAID FOR BY: CASEY SCOTT FOR MISSOURI, DEPUTY TREASURER CYNTHIA SCOTT

@@ -1,4 +1,4 @@
-La comunidad se trata de raíces y, para Max Carter, esas raíces son profundas.
+English Acerca de max Temas Medios Hazte Voluntario Donar Construyendo un Nevada más fuerte La comunidad se trata de raíces y, para Max Carter, esas raíces son profundas.
 Es algo que Max lleva en la sangre.
 Nieto de un pionero del ferrocarril, Max, es tercera generación de Las Vegas.
 Conoce el valle de Las Vegas porque éste lo moldeó.
@@ -22,3 +22,11 @@ En 2019, conmovido por sus propias experiencias, se convirtió en voluntario del
 Max también revolucionó la atención al cuidado de salud de los miembros del sindicato IBEW Local 357 al impulsar y poner en marcha clínicas de atención primaria especializadas.
 Hasta la fecha, hay dos clínicas en funcionamiento que atienden a los miembros y sus familias, y que ponen la atención del paciente por encima de las necesidades de las compañías de seguros.
 Max ha dedicado su carrera y su tiempo a defender y cuidar a los demás en su comunidad, y está listo para servirles como su representante en la Asamblea Estatal para seguir luchando por carreras con salarios dignos, trabajar para proporcionar acceso a una atención médica asequible y seguir trabajando para encontrar formas de lograr una Nevada más sostenible en los años por venir.
+Apoya a Max por los trabajadores de Nevada.
+Al proporcionar su información de contacto, usted da su consentimiento para ser contactado con actualizaciones de la campaña.
+Al enviar este formulario, usted acepta nuestra Aviso de Privacidad y Términos de Uso . ¡Gracias por hacer la diferencia!
+Estaremos en contacto.
+Algo salió mal al enviar el formulario.
+Por favor, inténtalo de nuevo.
+Más información sobre Max Carter Acerca de max temas Medios hazte voluntario Donar DonaR Donate Pagado y autorizado por el Comité para Elegir a Max E.
+Carter II 181 Clayton St, Las Vegas, NV 89110 www.carter4nv.com (702) 338-8603 Aviso de Privacidad y Términos de Uso .

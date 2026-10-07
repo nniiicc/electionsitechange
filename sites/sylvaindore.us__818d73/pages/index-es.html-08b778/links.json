@@ -1,8 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61557299093159",
-"https://mobilize.us/sylvaindore",
-"https://secure.actblue.com/donate/sylvain-dore-1",
-"https://sylvaindore.us/assets/docs/dore-platform-2026.pdf",
-"https://sylvaindore.us/index.html",
-"https://sylvaindore.us/take-action-contact-us"
+{
+"text": "Correo Electrónico",
+"href": "mailto:Team@SylvainDore.us"
+},
+{
+"text": "Donar Ahora — Sea Parte de la Victoria",
+"href": "https://secure.actblue.com/donate/sylvain-dore-1"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61557299093159"
+},
+{
+"text": "Team@SylvainDore.us",
+"href": "mailto:Team@SylvainDore.us"
+},
+{
+"text": "🇺🇸 English",
+"href": "https://sylvaindore.us/index.html"
+},
+{
+"text": "📄 Descargue la Plataforma Obtenga la plataforma completa del Dr. Doré en PDF imprimible — compártala con sus vecinos.",
+"href": "https://sylvaindore.us/assets/docs/dore-platform-2026.pdf"
+},
+{
+"text": "📋 Suscríbase a las Novedades Manténgase informado sobre eventos, noticias y cómo hacer que su voto cuente en 2026.",
+"href": "https://sylvaindore.us/take-action-contact-us/"
+},
+{
+"text": "📣 Difunda el Mensaje Síganos en Facebook y comparta las novedades con sus amigos y su comunidad.",
+"href": "https://www.facebook.com/profile.php?id=61557299093159"
+},
+{
+"text": "🤝 Ser Voluntario Haga campaña puerta a puerta, llame a votantes o ayude en eventos. Regístrese en Mobilize.",
+"href": "https://www.mobilize.us/sylvaindore/"
+}
 ]

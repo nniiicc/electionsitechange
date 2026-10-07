@@ -1,17 +1,66 @@
 [
-"http://bobbypulidofortexas.com/",
-"https://bobbypulidofortexas.com/",
-"https://bobbypulidofortexas.com/creator-hub",
-"https://bobbypulidofortexas.com/issues",
-"https://bobbypulidofortexas.com/meet-bobby",
-"https://bobbypulidofortexas.com/news",
-"https://bobbypulidofortexas.com/privacy-policy",
-"https://bobbypulidofortexas.com/terms-conditions",
-"https://facebook.com/profile.php?id=61578676024907",
-"https://instagram.com/bobbypulidofortexas",
-"https://secure.actblue.com/donate/pulido-website&refcode=website-footer",
-"https://secure.actblue.com/donate/pulido-website&refcode=website-header",
-"https://store.bobbypulidofortexas.com/",
-"https://tiktok.com/@BobbyPulidoforTexas",
-"https://x.com/PulidoforTexas"
+{
+"text": "Creator Hub",
+"href": "https://www.bobbypulidofortexas.com/creator-hub/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pulido-website&refcode=website-footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pulido-website&refcode=website-header"
+},
+{
+"text": "Issues",
+"href": "https://www.bobbypulidofortexas.com/issues/"
+},
+{
+"text": "Meet Bobby",
+"href": "https://www.bobbypulidofortexas.com/meet-bobby/"
+},
+{
+"text": "News",
+"href": "https://www.bobbypulidofortexas.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bobbypulidofortexas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://store.bobbypulidofortexas.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.bobbypulidofortexas.com/terms-conditions"
+},
+{
+"text": "[image: Footer Logo]",
+"href": "https://www.bobbypulidofortexas.com/"
+},
+{
+"text": "[image: logo]",
+"href": "https://www.bobbypulidofortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61578676024907"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bobbypulidofortexas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@BobbyPulidoforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/PulidoforTexas"
+},
+{
+"text": "bobbypulidofortexas.com",
+"href": "http://bobbypulidofortexas.com"
+}
 ]

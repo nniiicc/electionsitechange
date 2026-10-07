@@ -1,7 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61588297151214",
-"https://hannonforcongress.com/donate.html",
-"https://hannonforcongress.com/index.html",
-"https://hannonforcongress.com/speak.html",
-"https://hannonforcongress.com/volunteer.html"
+{
+"text": "Donate",
+"href": "https://hannonforcongress.com/donate.html"
+},
+{
+"text": "Get involved",
+"href": "https://hannonforcongress.com/volunteer.html"
+},
+{
+"text": "Home",
+"href": "https://hannonforcongress.com/index.html"
+},
+{
+"text": "Invite Dennis",
+"href": "https://hannonforcongress.com/speak.html"
+},
+{
+"text": "Join the team",
+"href": "https://hannonforcongress.com/volunteer.html"
+},
+{
+"text": "Volunteer",
+"href": "https://hannonforcongress.com/volunteer.html"
+},
+{
+"text": "[image: Campaign logo]",
+"href": "https://hannonforcongress.com/index.html"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/profile.php?id=61588297151214"
+}
 ]

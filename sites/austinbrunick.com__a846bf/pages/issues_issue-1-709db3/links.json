@@ -1,13 +1,54 @@
 [
-"https://austinbrunick.com/",
-"https://austinbrunick.com/about",
-"https://austinbrunick.com/contact",
-"https://austinbrunick.com/issues",
-"https://austinbrunick.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/profile.php?id=61573326410790",
-"https://pmc.ncbi.nlm.nih.gov/articles/PMC8431639",
-"https://secure.actblue.com/donate/elect-austin-brunick",
-"https://tiktok.com/@austin.brunick.for.d17",
-"https://x.com/AustinBrunick"
+{
+"text": "About",
+"href": "https://www.austinbrunick.com/about"
+},
+{
+"text": "AustinBrunickford17@gmail.com",
+"href": "mailto:AustinBrunickford17@gmail.com"
+},
+{
+"text": "Contact",
+"href": "https://www.austinbrunick.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/elect-austin-brunick"
+},
+{
+"text": "Issues",
+"href": "https://www.austinbrunick.com/issues"
+},
+{
+"text": "National Library of Medicine",
+"href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8431639/#sec5-ijerph-18-08990"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.austinbrunick.com/volunteer"
+},
+{
+"text": "[image: Elect Austin Brunick logo]",
+"href": "https://www.austinbrunick.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.austinbrunick.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61573326410790"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@austin.brunick.for.d17"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/AustinBrunick"
+}
 ]

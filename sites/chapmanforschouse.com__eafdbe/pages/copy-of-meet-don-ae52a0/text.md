@@ -1,11 +1,2 @@
-top of page
-Endorsements For Don Chapman:
-President Donald Trump
-Governor Henry McMaster
-Lieutenant Governor Pamela Evette
-House Representative Anne Thayer
-National Rifle Association (NRA)
-South Carolina Citizens for Life Action
-(864) 940-6676
-PO Box 3969, Anderson, SC 29622
-bottom of page
+top of page Home Endorsements Meet Don My Values Accomplishments Key Issues Contact More Use tab to navigate through the menu items.
+Donate Endorsements For Don Chapman: President Donald Trump Governor Henry McMaster Lieutenant Governor Pamela Evette House Representative Anne Thayer National Rifle Association (NRA) South Carolina Citizens for Life Action View Lieutenant Governor Pamela Evette's Endorsement of Don Chapman View Representative Anne Thayer's Endorsement of Don Chapman don@chapmanforschouse.com (864) 940-6676 PO Box 3969, Anderson, SC 29622 Paid for by Don Chapman for SC House Privacy Policy Resources bottom of page

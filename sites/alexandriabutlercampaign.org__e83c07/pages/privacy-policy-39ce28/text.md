@@ -1,16 +1,12 @@
-Who we are
-This is the website of the Alexandria Butler for Congress Campaign.
+Skip to content About Alex Issues Endorsements Join Us Contact DONATE About Alex Issues Endorsements Join Us Contact DONATE Privacy Policy Who we are This is the website of the Alexandria Butler for Congress Campaign.
 Our website address is: alexandriabutlercampaign.org.
-Comments
-When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 The Gravatar service privacy policy is available here: https://automattic.com/privacy/.
 After approval of your comment, your profile picture is visible to the public in the context of your comment.
-Media
-If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
+Media If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included.
 Visitors to the website can download and extract any location data from images on the website.
-Cookies
-If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
+Cookies If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies.
 These are for your convenience so that you do not have to fill in your details again when you leave another comment.
 These cookies will last for one year.
 If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies.
@@ -23,22 +19,16 @@ If you edit or publish an article, an additional cookie will be saved in your br
 This cookie includes no personal data and simply indicates the post ID of the article you just edited.
 It expires after 1 day.
 Pop-up forms may set cookies to prevent it from being shown for a period of time.
-Embedded content from other websites
-Articles on this site may include embedded content (e.g. videos, images, articles, etc.).
+Embedded content from other websites Articles on this site may include embedded content (e.g. videos, images, articles, etc.).
 Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
-These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
-Third-Party Services
-Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
+Third-Party Services Text opt-in consent data will not be sold or shared with third parties for promotional or marketing purposes.
 Except as otherwise stated in this Privacy Policy, we don’t sell, trade, rent, or otherwise share for marketing purposes your Personal Information with third parties without your consent.
 Our website may contain links to third-party websites or services.
 We are not responsible for the privacy practices or content of such third parties.
 We encourage you to review the privacy policies of those third parties when accessing their websites or services.
-Terms and Conditions /terms-and-conditions
-Who we share your data with
-If you request a password reset, your IP address will be included in the reset email.
+Terms and Conditions /terms-and-conditions Who we share your data with If you request a password reset, your IP address will be included in the reset email.
 Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
-How long we retain your data
-If you leave a comment, the comment and its metadata are retained indefinitely.
+How long we retain your data If you leave a comment, the comment and its metadata are retained indefinitely.
 This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 For users that register on our website (if any), we also store the personal information they provide in their user profile.
 All users can see, edit, or delete their personal information at any time (except they cannot change their username).
@@ -49,9 +39,10 @@ Note that unsubscribing may take up to 10 days.
 By providing your phone number, you are consenting to receive text message updates, including automated text messages, to that number from Alexandria Butler for Congress Campaign.
 Message & Data rates may apply, and message frequency may vary over time.
 Reply “STOP” to opt out of these text message updates.
-What rights you have over your data
-If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
+What rights you have over your data If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us.
 You can also request that we erase any personal data we hold about you.
 This does not include any data we are obliged to keep for administrative, legal, or security purposes.
-Where your data is sent
-Visitor comments may be checked through an automated spam detection service.
+Where your data is sent Visitor comments may be checked through an automated spam detection service.
+Alexandria Butler is a mother, a mentor, and a movement.
+She brings conviction and compassion—standing and fighting for faith, family, freedom, and the forgotten.
+Facebook-f Instagram Quick Links Privacy Policy Terms and Conditions Donate About Alex Issues Endorsements Join Us Contact Privacy Policy Terms and Conditions Donate About Alex Issues Endorsements Join Us Contact Get In Touch EMAIL ALEX Phone: 713-205-7268 PAID FOR BY THE ALEX BUTLER CAMPAIGN

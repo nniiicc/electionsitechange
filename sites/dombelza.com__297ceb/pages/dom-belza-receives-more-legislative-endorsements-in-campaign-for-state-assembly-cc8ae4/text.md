@@ -1,45 +1,11 @@
-The overwhelming choice of Elected Republican
-Legislative Leaders
-Marysville, Calif. – Today, Republican Dom Belza announced new legislative endorsements in his campaign for the State Assembly.
-The newly announced endorsements include:
-Assembly Member Leticia Castillo
-Assembly Member Carl DeMaio
-Senate Republican Leader Brian Jones
-Senator Roger Niello
-Assembly Member David Tangipa
-Assembly Member Alexandra Macedo
-Senator Suzette Valladares
-Assemblyman James Gallagher, one of Belza’s earliest supporters, added,
-“Across the board, people are recognizing Dom’s qualifications and attributes that make him an ideal candidate for State Assembly.
+Home About Issues Media News Volunteer Endorsements Contact Us Home About Issues Media News Volunteer Endorsements Contact Us DONATE ENDORSE DOM BELZA Dom Belza Receives More Legislative Endorsements in Campaign for State Assembly The overwhelming choice of Elected Republican Legislative Leaders Marysville, Calif. – Today, Republican Dom Belza announced new legislative endorsements in his campaign for the State Assembly.
+The newly announced endorsements include: Assembly Member Leticia Castillo Assembly Member Carl DeMaio Senate Republican Leader Brian Jones Senator Roger Niello Assembly Member David Tangipa Assembly Member Alexandra Macedo Senator Suzette Valladares Assemblyman James Gallagher, one of Belza’s earliest supporters, added, “Across the board, people are recognizing Dom’s qualifications and attributes that make him an ideal candidate for State Assembly.
 It’s why he earned my support – and it’s why he has earned overwhelming support from across the Sacramento Valley and from so many conservative leaders in the State Legislature.
-I proudly stand with Dom and encourage my supporters to do the same.”
-Belza now enjoys broad support by Legislative Leaders in both houses of the State Legislature including Senate Republican Leader Brian Jones and Assembly Republican Leader Heath Flora.
+I proudly stand with Dom and encourage my supporters to do the same.” Belza now enjoys broad support by Legislative Leaders in both houses of the State Legislature including Senate Republican Leader Brian Jones and Assembly Republican Leader Heath Flora.
 In endorsing Belza, Senator Republican Leader Brian Jones stated, “Dom Belza has my full endorsement because he is exactly the type of pragmatic leader we need in Sacramento.
-Dom knows the challenges facing California, and he has the combination of experience with results that prove he is ready to get to work on day one.”
-Assemblymember Alexandra Macedo joined in praising Belza’s willingness to stand up for rural values commenting, “As someone who comes from an agricultural background and represents a rural district, I need more leaders I can count on to fight for rural California.
+Dom knows the challenges facing California, and he has the combination of experience with results that prove he is ready to get to work on day one.” Assemblymember Alexandra Macedo joined in praising Belza’s willingness to stand up for rural values commenting, “As someone who comes from an agricultural background and represents a rural district, I need more leaders I can count on to fight for rural California.
 California is at a crossroads, and we need fighters who won’t bend the knee to liberal politicians who are trying to destroy our communities with their San Francisco values.
-Dom Belza will fight for us.”
-Belza now enjoys the support of eighteen members of the Legislature including:
-Juan Alanis, Assemblymember
-Leticia Castillo, Assemblymember
-Phillip Chen, Assemblymember
-Laurie Davies, Assemblymember
-Carl DeMaio, Assemblymember
-Diane Dixon, Assemblymember
-Heath Flora, Assembly Republican Leader
-Jeff Gonzalez, Assemblymember
-Josh Hoover, Assemblymember
-Brian Jones, Senate Republican Leader
-Tom Lackey, Assemblymember
-Alexandra Macedo, Assemblymember
-Roger Niello, Senator
-Joe Patterson, Assemblymember
-Tri Ta, Assemblymember
-David Tangipa, Assemblymember
-Greg Wallis, Assemblymember
-Suzette Valladares, Senator
-For more information about Dom Belza’s campaign, please visit www.DomBelza.com
-Dom has been married to his wife, Julia, for 11 years, and together they have four children: three daughters—Rylee (9), Raegan (7), and Ruby (5)—and one son, Johnny (2).
+Dom Belza will fight for us.” Belza now enjoys the support of eighteen members of the Legislature including: Juan Alanis, Assemblymember Leticia Castillo, Assemblymember Phillip Chen, Assemblymember Laurie Davies, Assemblymember Carl DeMaio, Assemblymember Diane Dixon, Assemblymember Heath Flora, Assembly Republican Leader Jeff Gonzalez, Assemblymember Josh Hoover, Assemblymember Brian Jones, Senate Republican Leader Tom Lackey, Assemblymember Alexandra Macedo, Assemblymember Roger Niello, Senator Joe Patterson, Assemblymember Tri Ta, Assemblymember David Tangipa, Assemblymember Greg Wallis, Assemblymember Suzette Valladares, Senator For more information about Dom Belza’s campaign, please visit www.DomBelza.com Dom has been married to his wife, Julia, for 11 years, and together they have four children: three daughters—Rylee (9), Raegan (7), and Ruby (5)—and one son, Johnny (2).
 Outside of his professional life, Dom is passionate about serving and giving back to his local community.
 This dedication inspired him to run for City Council and he continues to drive his volunteer work through his church and local service groups, including various service organizations and industry groups.
-###
+### Share the Post: Facebook Instagram Youtube Privacy Policy Paid for by Belza for Assembly 2026 FPPC# 1477103 Endorse Dom Belza First Name Last Name Email Address Title Submit

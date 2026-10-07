@@ -1,29 +1,118 @@
 [
-"https://bernieperryman.com/",
-"https://bernieperryman.com/about",
-"https://bernieperryman.com/articles",
-"https://bernieperryman.com/audio-ad-transcripts",
-"https://bernieperryman.com/bills",
-"https://bernieperryman.com/contact",
-"https://bernieperryman.com/donate",
-"https://bernieperryman.com/events",
-"https://bernieperryman.com/photos",
-"https://bernieperryman.com/priorities-survey",
-"https://bernieperryman.com/voting",
-"https://facebook.com/bernieforsenate",
-"https://flickr.com/photos/196266196@N04/with/54942125272",
-"https://instagram.com/bernieforsenate",
-"https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Ffiscal%2Fissuebriefs.asp/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/aRF_LG8ndQWTKDKBiW_RbarPCKAEfWv9neuwKBQH8f4=449",
-"https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fhinfo%2Fnlreleases.htm/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/dUAsPeAOxYAXE_Nghoct3MROk8NQinOCXNIkSz2S9QQ=449",
-"https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fhinfo%2Fpublications.htm/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/Kp92zbdKbM1nR9dOILbfITTohOoQr4ua8Ag3Tzrs5wo=449",
-"https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fnewlaws%2F%23%2Fsearch%2F2021/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/Mz0e6cVFJlhll_zqsG_w7vB_YBKtmy2VHJDBxhJBRvU=449",
-"https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fsessiondaily%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/0tFLxgO3yGxaMnxfD3ewtAnhwMKrvRHSid6a2F7sAHw=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.facebook.com%2FRepBerniePerryman%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/uggvMxBA2-pater3Lkiveui-nvKFHCOwS64XHgOd8uk=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.leg.state.mn.us%2Fhrd%2Fhrd.aspx/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/-fpzq6on7_-m4YBkx6sOpLQwPOWHjFTMMylieYMGxck=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.leg.state.mn.us%2Flive%2F1/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/akvxZimKqZc5Wt6Y4PVXdf_iNL1VnL_K-5xO4BTCdbo=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.mn.gov%2Fmembers%2Fprofile%2F15599/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/HybJp4FNjH_Bjh5IKFdPCLl1sKtB2rH6XxYzjOAHQ44=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2025%2F0%2FHF%2F400%2F%3Fbody=house/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/aWdcao6zmI8nfW6c6jByE59KmZkLLar1UgSSvSF3wg8=449",
-"https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F3379%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/xl49Rx3--ONRd7-AE1BXGhWMA7B-YGISftNVtc6yygI=449",
-"https://x.com/bernieforsenate",
-"https://youtube.com/@BerniePerryman"
+{
+"text": "About",
+"href": "https://bernieperryman.com/about/"
+},
+{
+"text": "Articles",
+"href": "https://bernieperryman.com/articles/"
+},
+{
+"text": "Audio Ad Transcripts",
+"href": "https://bernieperryman.com/audio-ad-transcripts/"
+},
+{
+"text": "Bills",
+"href": "https://bernieperryman.com/bills/"
+},
+{
+"text": "Contact",
+"href": "https://bernieperryman.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://bernieperryman.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://bernieperryman.com/events/"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/bernieforsenate"
+},
+{
+"text": "Follow",
+"href": "https://www.flickr.com/photos/196266196@N04/with/54942125272/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/bernieforsenate/"
+},
+{
+"text": "Follow",
+"href": "https://www.youtube.com/@BerniePerryman"
+},
+{
+"text": "Follow",
+"href": "https://x.com/bernieforsenate"
+},
+{
+"text": "H.F. 3379",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2026%2F0%2FHF%2F3379%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/xl49Rx3--ONRd7-AE1BXGhWMA7B-YGISftNVtc6yygI=449"
+},
+{
+"text": "H.F. 400",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.revisor.mn.gov%2Fbills%2F94%2F2025%2F0%2FHF%2F400%2F%3Fbody=house/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/aWdcao6zmI8nfW6c6jByE59KmZkLLar1UgSSvSF3wg8=449"
+},
+{
+"text": "Home",
+"href": "https://bernieperryman.com/"
+},
+{
+"text": "House Fiscal Analysis",
+"href": "https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Ffiscal%2Fissuebriefs.asp/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/aRF_LG8ndQWTKDKBiW_RbarPCKAEfWv9neuwKBQH8f4=449"
+},
+{
+"text": "House Public Information Services Press Releases",
+"href": "https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fhinfo%2Fnlreleases.htm/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/dUAsPeAOxYAXE_Nghoct3MROk8NQinOCXNIkSz2S9QQ=449"
+},
+{
+"text": "House Public Information Services Publications",
+"href": "https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fhinfo%2Fpublications.htm/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/Kp92zbdKbM1nR9dOILbfITTohOoQr4ua8Ag3Tzrs5wo=449"
+},
+{
+"text": "House Research",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.leg.state.mn.us%2Fhrd%2Fhrd.aspx/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/-fpzq6on7_-m4YBkx6sOpLQwPOWHjFTMMylieYMGxck=449"
+},
+{
+"text": "Live Webcasts and Mobile Stream",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.leg.state.mn.us%2Flive%2F1/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/akvxZimKqZc5Wt6Y4PVXdf_iNL1VnL_K-5xO4BTCdbo=449"
+},
+{
+"text": "New Laws",
+"href": "https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fnewlaws%2F%23%2Fsearch%2F2021/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/Mz0e6cVFJlhll_zqsG_w7vB_YBKtmy2VHJDBxhJBRvU=449"
+},
+{
+"text": "Photos",
+"href": "https://bernieperryman.com/photos/"
+},
+{
+"text": "Priorities Survey",
+"href": "https://bernieperryman.com/priorities-survey/"
+},
+{
+"text": "Rep. Bernie Perryman Facebook page",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.facebook.com%2FRepBerniePerryman%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/uggvMxBA2-pater3Lkiveui-nvKFHCOwS64XHgOd8uk=449"
+},
+{
+"text": "Rep. Bernie Perryman legislative page",
+"href": "https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.house.mn.gov%2Fmembers%2Fprofile%2F15599/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/HybJp4FNjH_Bjh5IKFdPCLl1sKtB2rH6XxYzjOAHQ44=449"
+},
+{
+"text": "Session Daily",
+"href": "https://links-1.govdelivery.com/CL0/http:%2F%2Fwww.house.leg.state.mn.us%2Fsessiondaily%2F/1/0100019d0be8438f-ee50e87f-a96c-4bc5-afd6-bcfbb2170105-000000/0tFLxgO3yGxaMnxfD3ewtAnhwMKrvRHSid6a2F7sAHw=449"
+},
+{
+"text": "Voting",
+"href": "https://bernieperryman.com/voting/"
+},
+{
+"text": "[image: Bernie Perryman for Senate]",
+"href": "https://bernieperryman.com"
+},
+{
+"text": "rep.bernie.perryman@house.mn.gov",
+"href": "mailto:rep.bernie.perryman@house.mn.gov"
+}
 ]

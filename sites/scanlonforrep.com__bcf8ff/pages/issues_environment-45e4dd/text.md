@@ -1,5 +1,4 @@
-Embedded Files
-As an Eagle Scout, protecting our natural resources and being conservation-minded have always been sincere priorities for me.
+Search this site Embedded Files Skip to main content Skip to navigation HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety More HOME DONATE NOW MEET ADAM ISSUES Economic Development Education Environment Healthcare Seniors and Veterans Public Safety Environment As an Eagle Scout, protecting our natural resources and being conservation-minded have always been sincere priorities for me.
 I am especially passionate about ensuring that our residents have access to clean, safe drinking water and that our rivers, ponds, and other local bodies of water are protected from pollution.
 Environmental policy should produce tangible improvements in the communities we represent while preserving our natural resources for future generations.
 I have filed legislation on the following priorities.
@@ -21,8 +20,7 @@ Following the 2024 incident in North Attleborough in which bulls escaped from a 
 Requiring compliance with recognized professional safety and animal-welfare standards can better protect animals, participants, spectators, first responders, and nearby residents.
 Massachusetts should prohibit retail pet shops from selling dogs, cats, rabbits, and guinea pigs while continuing to support responsible adoption through shelters and rescue organizations.
 Reducing the retail market for animals supplied by large-scale commercial breeding operations will strengthen animal-welfare protections and encourage more humane practices across the Commonwealth.
-Successes
-Protect our environment and strengthen climate resilience.
+Successes Protect our environment and strengthen climate resilience.
 I supported the MassReady Act which was passed in the House of Representatives, a comprehensive environmental bond bill that makes historic investments in protecting clean drinking water, preparing communities for flooding and extreme weather, preserving open space, and modernizing critical water and environmental infrastructure.
 The legislation strengthens efforts to address PFAS contamination, supports cities and towns undertaking climate-resilience projects, improves dams and coastal infrastructure, protects forests, wetlands, farmland, and natural habitats, and invests in Massachusetts agriculture, food security, and the commercial fishing industry.
 It also streamlines environmental permitting for priority housing, infrastructure, and climate-resilience projects while maintaining strong environmental protections.
@@ -37,8 +35,4 @@ I supported comprehensive energy affordability legislation that was passed in th
 The legislation expands discounted utility rates for eligible low- and moderate-income households, strengthens protections against predatory competitive electric suppliers, and requires greater oversight of utility spending.
 It also takes a long-term approach to affordability by diversifying our energy supply, accelerating renewable energy and storage projects, modernizing the electric grid, and removing barriers to additional sources of energy, including nuclear power.
 These reforms will help lower utility bills while building a more reliable, affordable, and diversified energy system.
-Fulton Pond in Mansfield
-Falls Pond in North Attleboro
-Attleboro Springs
-Google Sites
-Report abuse
+Fulton Pond in Mansfield Falls Pond in North Attleboro Attleboro Springs ISSUES adam.scanlon@scanlonforstaterepma.com DONATE PRIVACY Google Sites Report abuse Google Sites Report abuse

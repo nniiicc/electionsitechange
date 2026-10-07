@@ -1,4 +1,2 @@
-- This event has passed.
-Woodbury Board of Finance Public Hearing
-March 23 @ 7:00 pm - 8:30 pm
-Public Hearing on FY 2026-27 Town Budget
+Skip to primary navigation Skip to main content Skip to footer Karen Reddington-Hughes State Representative CT66 About Where I Stand News & Updates Our District Bethlehem Litchfield Morris Warren Woodbury Calendar Gallery Get Involved « All Events This event has passed.
+Woodbury Board of Finance Public Hearing March 23 @ 7:00 pm - 8:30 pm « WRTC Shamrock Social CT GOP State Convention » Public Hearing on FY 2026-27 Town Budget Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: March 23 Time: 7:00 pm - 8:30 pm Venue Senior Community Center Woodbury , + Google Map « WRTC Shamrock Social CT GOP State Convention » Footer Vote Karen Reddington-Hughes State Representative for 66th District Our District Bethlehem Litchfield Morris Warren Woodbury Paid for by Reddington-Hughes for 66th, Joseph T Scott treasurer, approved by Karen Reddington-Hughes

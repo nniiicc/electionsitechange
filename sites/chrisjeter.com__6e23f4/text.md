@@ -1,13 +1,8 @@
-Chris Jeter
-Conservative Leadership
-for District 88
-“I am not a politician.
+Home Bio Updates Connect Donate Select Page Chris Jeter Conservative Leadership for District 88 “I am not a politician.
 I am a family man, conservative, small business person and Veteran of the US NAVY.
 I believe elected office should be about serving.
 Too often the individuals chosen to represent us are beholden to party, big business, and special interests.
-As your state representative, I will continue to fight for conservative principles and make state government work for us, not the other way around.” – Chris Jeter
-About Chris
-Chris Jeter is a native Hoosier of humble beginnings who knows the value of hard work.
+As your state representative, I will continue to fight for conservative principles and make state government work for us, not the other way around.” – Chris Jeter About Chris Chris Jeter is a native Hoosier of humble beginnings who knows the value of hard work.
 Born and raised in Hamilton County, his mother worked for an insurance company and his father was a patrolman with the Indiana State Police.
 As a kid, Chris was active in sports and enjoyed speech and history.
 He was a three-year letter winner in varsity high school football where he learned the value of personal responsibility, work ethic, and teamwork.
@@ -22,3 +17,8 @@ Prior to that, he served as Legal Advisor to the Commanding Officer, U.S.
 Naval Support Activity, Naples, Italy, where he provided legal advice to senior Navy officers and civilians on a host of legal issues including labor/employment, fiscal, contract, international, and criminal law.
 Chris was chosen to represent House District 88 in the Indiana General Assembly in 2020, and the district has re-elected him in every election since.
 He serves as Chair of the House Judiciary Committee and co-chairs the state’s Bail and Release Review Commission, leading on public safety, victims’ rights, and constitutional bail reform.
+Read More Volunteer Here Name Email Address Message 12 + 15 = Submit Join Team Jeter Get campaign updates from Chris by email and text.
+It takes 30 seconds to add your name to the team.
+Count Me In Maybe later Open House with Chris Jeter on Tuesday, September 29th.
+RSVP and learn more Dismiss Home Bio Updates Connect Donate Privacy Policy Terms and Conditions Jeter for Indiana | 27 South Main Street, Fortville, IN 46040 Paid for and authorized by Jeter for Indiana. © # Jeter for Indiana.
+All rights reserved.

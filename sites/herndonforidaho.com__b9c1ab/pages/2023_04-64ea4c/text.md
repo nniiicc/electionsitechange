@@ -1,18 +1,17 @@
-Apr 16, 2023 | Legislative News, Policy Analysis
-Scott Herndon’s 2023 Legislative Session in the Idaho Senate.
+Ph.
+(208) 610-2680 Home My Record News Volunteer Donate Select Page Successes and Failures of the 2023 Idaho Legislative Session Apr 16, 2023 | Legislative News , Policy Analysis Scott Herndon’s 2023 Legislative Session in the Idaho Senate.
 Thursday April 6, the Idaho Senate and House convened to consider the governor’s veto of H 314.
 This was to be the last act of this legislative session.
 H 314 barred public libraries and schools...
-Apr 4, 2023 | Legislative News, Policy Analysis
-Conservative Republicans Deliver on Protection of Children.
+Protecting Children from Radical LGBTQ Agenda Apr 4, 2023 | Legislative News , Policy Analysis Conservative Republicans Deliver on Protection of Children.
 Senator Scott Herndon and the conservative Republicans in the Legislature delivered on several key protections for children.
 H71 passed last week and will prohibit transgender surgeries on minors and...
-Apr 3, 2023 | Legislative News, Policy Analysis
-Idaho Senate overrides the governor and delivers property tax relief.
+Idaho Senate Delivers Property Tax Relief Apr 3, 2023 | Legislative News , Policy Analysis Idaho Senate overrides the governor and delivers property tax relief.
 The Idaho Senate last week had a tremendous opportunity and seized the day.
 This year it was the Republicans in the Legislature that drove an effort to ease the burden of property tax for all...
-Apr 1, 2023 | Breaking News, Legislative News
-The MVP of the 2023 legislative session is Senator Scott Herndon (R-Sagle).
+2023 Legislative Session MVP Apr 1, 2023 | Breaking News , Legislative News The MVP of the 2023 legislative session is Senator Scott Herndon (R-Sagle).
 I first met Sen.
 Herndon at the 2022 Idaho Republican Convention in Twin Falls.
 He was seriously impressive is his floor debates regarding the sanctity of life in the state party...
+Search for: Archives August 2025 February 2024 October 2023 September 2023 June 2023 April 2023 March 2023 February 2023 January 2023 November 2022 October 2022 September 2022 November 2021 Categories Breaking News Herndon's Editorial Idaho Money Legislative News Policy Analysis Proper Government Facebook X Paid for by Scott Herndon for Idaho, Paul Herndon, Treasurer.
+View our Privacy Policy .

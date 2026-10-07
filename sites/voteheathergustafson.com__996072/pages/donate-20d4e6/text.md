@@ -1,9 +1,3 @@
-Embedded Files
-CHECK DONATIONS*
-*Please make sure checks are written to "Friends to Elect Heather Henry Gustafson" and please include your name, address, and employer.
-Address:
-Friends to Elect Heather Henry Gustafson
-PO Box 10923
-White Bear Lake, MN 55110
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation DONATE Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate More Home Meet Heather Priorities Contact Endorsements Donate Donate Donate to Heather Gustafson for Senate District 36 Your support now helps us win this election.
+Every dollar counts >> CHECK DONATIONS* *Please make sure checks are written to "Friends to Elect Heather Henry Gustafson" and please include your name, address, and employer.
+Address: Friends to Elect Heather Henry Gustafson PO Box 10923 White Bear Lake, MN 55110 VOTING INFORMATION HERE DONATE Media/press photos Prepared and paid for by Friends to Elect Heather Henry Gustafson, PO Box 10923, White Bear Lake, MN 55110 Google Sites Report abuse Google Sites Report abuse

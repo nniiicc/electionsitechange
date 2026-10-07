@@ -1,16 +1,78 @@
 [
-"https://facebook.com/wix",
-"https://instagram.com/wix",
-"https://strongercnmi.com/",
-"https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site",
-"https://twitter.com/wix",
-"https://voteedarriola.com/",
-"https://voteedarriola.com/about-5",
-"https://voteedarriola.com/accessibility-statement",
-"https://voteedarriola.com/contact",
-"https://voteedarriola.com/get-involved",
-"https://voteedarriola.com/news",
-"https://voteedarriola.com/privacy-policy",
-"https://voteedarriola.com/terms-and-conditions",
-"https://voteedarriola.com/yvettesablan"
+{
+"text": "#9_Yvette_Sablan",
+"href": "https://www.voteedarriola.com/yvettesablan"
+},
+{
+"text": "About",
+"href": "https://www.voteedarriola.com/about-5"
+},
+{
+"text": "About Me",
+"href": "https://www.voteedarriola.com"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://www.voteedarriola.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://www.voteedarriola.com/contact"
+},
+{
+"text": "Edward Camacho Arriola, Jr.",
+"href": "https://www.voteedarriola.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voteedarriola.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.voteedarriola.com/accessibility-statement"
+},
+{
+"text": "News",
+"href": "https://www.voteedarriola.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.voteedarriola.com/privacy-policy"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.voteedarriola.com"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.voteedarriola.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/wix"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image: image.png]",
+"href": "https://strongercnmi.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "[no text]",
+"href": "https://www.voteedarriola.com"
+},
+{
+"text": "edarriolacnmi@gmail.com",
+"href": "mailto:edarriolacnmi@gmail.com"
+},
+{
+"text": "“Accessibility: Adding an Accessibility Statement to Your Site”.",
+"href": "https://support.wix.com/en/article/accessibility-adding-an-accessibility-statement-to-your-site"
+}
 ]

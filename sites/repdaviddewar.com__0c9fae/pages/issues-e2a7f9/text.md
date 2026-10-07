@@ -1,5 +1,4 @@
-Issues
-My Public Policy Plan for Illinois.
+Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Issues My Public Policy Plan for Illinois.
 CORRUPTION: Illinois is the first in the nation for public corruption.
 We need a public integrity Police investigative unit to investigate crooked politicians.
 We need stiffer penalties for corruption.
@@ -39,7 +38,9 @@ The more companies means more tax revenue.
 Jobs equals spending to stimulate the economy.
 FARMS: Illinois biggest crops are corn and soybeans.
 Farmers are under threat over climate change.
-Farm lands want to be used for solar and wind farms. 30% of farms are dedicated to the production of ethanol for fuel. 50% is dedicated to trade.
+Farm lands want to be used for solar and wind farms.
+30% of farms are dedicated to the production of ethanol for fuel.
+50% is dedicated to trade.
 We need to fight the green deal.
 If the Democrats succeed.
 Thousands of farms will shut down including their support such as refineries, truck drivers, gas stations.
@@ -67,7 +68,8 @@ SCHOOL CHOICE: The Illinois public school system (prekindergarten through grade 
 Illinois has 2,072,880 students enrolled in a total of 4,266 schools in 1,070 school districts.
 There are 135,701 teachers in the public schools, or roughly one teacher for every 15 students, compared to the national average of 1:16.
 There was roughly one administrator for every 278 students, compared to the national average of one administrator for every 295 students.
-On average Illinois spent $12,288 per pupil in 2013, which ranked it 14th highest in the nation. 70% of real estate taxes are dedicated to school districts.
+On average Illinois spent $12,288 per pupil in 2013, which ranked it 14th highest in the nation.
+70% of real estate taxes are dedicated to school districts.
 Most of the school budget goes to salaries and pensions.
 The students are left with nothing.
 There are fewer schools because less people are having children.
@@ -99,3 +101,4 @@ Illinois provides only 6 homes for veterans.
 One (Prince Home) only occupies 15.
 For too long veterans homes have been mismanaged contributing to many veteran deaths due to the spread of diseases because of poor healthcare and management.
 We need more funds to build new veteran nursing homes and we need housing vouchers for homeless veterans including placement for permanent homes.
+Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Yard Signs Committee to Elect David Dewar Powered by CampaignPartner.com - Political Campaign Websites Bills Contact Donate Endorsements Issues Scrollcard Volunteer Vote Close Menu

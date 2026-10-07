@@ -1,5 +1,14 @@
 [
-"https://mobilize.us/votejacky21",
-"https://secure.actblue.com/donate/votejacky21",
-"https://votejacky21.com/index.html"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/votejacky21"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.mobilize.us/votejacky21/"
+},
+{
+"text": "← Back to Home",
+"href": "https://votejacky21.com/index.html"
+}
 ]

@@ -1,10 +1,3 @@
-- Capitol Corner: Constitutional Amendments Breakdown 24–36 minutes
-- Hearing Notice: HCR 28 Infertility Awareness 2–3 minutes
-- Capitol Corner: February 2026 7–11 minutes
-- Capitol Corner: November 2025 5–7 minutes
-- Capitol Corner: End of Session 2025 13–19 minutes
-- Capitol Corner: April 2025 14–21 minutes
-- Capitol Corner: January 2025 10–15 minutes
-- Capitol Corner: December 2024 3–5 minutes
-- Capitol Corner: November Voter Guide 8–12 minutes
-- Capitol Corner: August 2024 7–11 minutes
+Marty Joe Murray, Jr Home Biography Legislation Capitol Corner Jobs Press Vimeo Missouri Dem Party Contact Donate Here Category: Capitol Corner Capitol Corner: Constitutional Amendments Breakdown August 3, 2026 24–36 minutes Hearing Notice: HCR 28 Infertility Awareness March 12, 2026 2–3 minutes Capitol Corner: February 2026 February 16, 2026 7–11 minutes Capitol Corner: November 2025 November 12, 2025 5–7 minutes Capitol Corner: End of Session 2025 June 23, 2025 13–19 minutes Capitol Corner: April 2025 April 19, 2025 14–21 minutes Capitol Corner: January 2025 February 3, 2025 10–15 minutes Capitol Corner: December 2024 December 30, 2024 3–5 minutes Capitol Corner: November Voter Guide November 4, 2024 8–12 minutes Capitol Corner: August 2024 September 13, 2024 7–11 minutes Website Biography Opinion Editorials Endorsements Facebook Twitter LinkedIn Instagram YouTube Subscribe Subscribed Marty Joe Murray, Jr Join 840 other subscribers Sign me up Have a WordPress.com account?
+Log in now.
+Marty Joe Murray, Jr View site in Reader Manage subscriptions Sign up Log in Report this content Collapse this bar

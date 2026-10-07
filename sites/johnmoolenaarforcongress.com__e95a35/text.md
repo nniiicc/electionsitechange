@@ -1,10 +1,7 @@
-John Moolenaar is a commonsense leader working for michigan.
-Thanks for following my campaign account!
+0 Skip to Content Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE Open Menu Close Menu Voting Information Issues Get Involved Store News Endorsements Contact Team Moolenaar Updates DONATE John Moolenaar is a commonsense leader working for michigan.
+DONATE NOW Thanks for following my campaign account!
 If you’d like updates on my official work in the u.s.
-House, please follow: Moolenaar.house.gov x.com/RepMoolenaar facebook.com/RepMoolenaar
-Moolenaar Announces 2026 Re-election campaign
-WHY I’M RUNNING
-Hi, I’m John Moolenaar.
+House, please follow: Moolenaar.house.gov x.com/RepMoolenaar facebook.com/RepMoolenaar Moolenaar Announces 2026 Re-election campaign WHY I’M RUNNING Hi, I’m John Moolenaar.
 I’m honored to serve as your congressman for Michigan’s 2nd District, representing 20 incredible counties filled with hardworking families and vibrant communities.
 When I ran for office, I made a commitment to secure the border, cut wasteful Washington spending, rebuild our military, grow our economy and defend the dignity and value of every human life.
 PROMISES MADE - PROMISES KEPT.
@@ -19,4 +16,4 @@ Serving you is one of the greatest honors of my life.
 Together, we can continue building a future that is safer, stronger, and full of opportunity for every American.
 I respectfully ask for your vote and the chance to continue fighting for Michigan and for you.
 Thank you and God Bless America.
-Click here to view Michigan's new Second Congressional District
+Click here to view Michigan's new Second Congressional District What Voters say about John Slide 1 Slide 1 (current slide) Slide 2 Slide 2 (current slide) Slide 3 Slide 3 (current slide) Slide 4 Slide 4 (current slide) Slide 5 Slide 5 (current slide) Slide 6 Slide 6 (current slide) JOIN John’S CAMPAIGN DONATE Paid for by Moolenaar for Congress Privacy Policy

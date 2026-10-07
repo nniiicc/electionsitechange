@@ -1,13 +1,10 @@
-PROTECTING THE ARIZONAWE LOVE
-Stay Connected
-By providing your telephone number and checking this box, you consent to receive calls and text messages.
+DONATE 0 Skip to Content Media Kit Donate Open Menu Close Menu Media Kit Donate Open Menu Close Menu Media Kit Donate PROTECTING THE ARIZONA WE LOVE Request a Yard Sign Stay Connected By providing your telephone number and checking this box, you consent to receive calls and text messages.
 Msg & data rates may apply.
-Msg frequency may vary.
+Msg frequency m ay vary.
 Messaging may include requests for donation.
 Reply “STOP” to opt-out & “HELP” for help.
 View Privacy Policy for more info.
-A Common Sense Leader
-Matt Gress serves as our voice in the Arizona House of Representatives, working every day to get results.
+A Common Sense Leader Matt Gress serves as our voice in the Arizona House of Representatives, working every day to get results.
 As a former public school teacher, school board member, and the state’s budget chief, Matt knows how to solve tough problems.
 Whether it’s more resources and manpower at our border, lower taxes, balanced budgets, protecting our veterans and seniors, increasing teacher pay, advocating for police and public safety, tackling homelessness, or preventing the failed policies of California from taking hold in our state — Matt is 100% focused on the important issues impacting Arizonans.
 As a proud Republican, Matt was elected as State Representative for Arizona’s Fourth Legislative District in 2022 and reelected by an even larger margin in 2024.
@@ -28,4 +25,5 @@ And Matt secured millions for a new scholarship program for spouses and children
 Matt, who lives in Phoenix with his husband Daniel, currently serves as Chairman of the House Education Committee, Chairman of the Joint Legislative Audit Committee, and Vice Chairman of the Appropriations Committee.
 He holds a Masters in Public Administration, with a focus on state and local government finance and public management, from Syracuse University.
 HELP MATT WIN!
-Donate Today
+Donate Today DONATE HERE Paid for by Arizonans for Matt Gress.
+Approved by Matt Gress. })();

@@ -1,8 +1,8 @@
-Posted at 6:08 PM, Jun 15, 2021
-and last updated 6:17 PM, Jun 15, 2021
-LANSING, Mich.
+Home Priorities Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Back A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Home Priorities A Healthier Michigan A More Affordable Michigan A Better Educated Michigan A Tighter-Knit Michigan Endorsements In the News Contact Volunteer Donate REQUEST A YARD SIGN Bi-partisan legislation introduced to support child care providers, parents By: Jennifer Ann Wilson Posted at 6:08 PM, Jun 15, 2021 and last updated 6:17 PM, Jun 15, 2021 LANSING, Mich.
 (WXYZ) — Today, legislation was introduced to provide support to child care providers and parents.
 This comes a day after Gov.
 Gretchen Whitmer announced she wants to use $1.4 billion in federal funding to expand access to high-quality child care and make it more affordable.
 These bills provide insight into how some of the money could be spent.
 For background, Michigan child care subsidies have declined 65 percent in the last 20 years, while your cost for child care has gone up nearly as much in the last year alone.
+Read More > Kelly Breen June 24, 2021 Facebook 0 Twitter LinkedIn 0 Reddit Tumblr Pinterest 0 0 Likes Previous Bipartisan bill package aims to increase childcare access and lower costs Kelly Breen September 21, 2021 Next Child Care Legislation Aims to Grow Access, Create Incentives for Industry Kelly Breen June 17, 2021 WE BELIEVE IN MICHIGAN!
+About | Endorsed | Priorities | Get Together Donate Volunteer PAID FOR BY VOTE KELLY BREEN | 242 LINHART ST., NOVI, MI 4# ©# THE GUERRILLA POLITIC, LLC ALL RIGHTS RESERVED Re-Elect Kelly Breen Meet Kelly

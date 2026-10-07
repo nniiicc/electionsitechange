@@ -1,36 +1,158 @@
 [
-"http://aaspe.net/",
-"http://leahjeanphoto.com/",
-"https://aahiinfo.org/aahi-resources",
-"https://adrianmadaro.com/",
-"https://adrianmadaro.com/category/education",
-"https://adrianmadaro.com/category/equality",
-"https://adrianmadaro.com/category/general",
-"https://adrianmadaro.com/category/mental-health",
-"https://adrianmadaro.com/category/resources",
-"https://adrianmadaro.com/contact",
-"https://adrianmadaro.com/get-involved",
-"https://adrianmadaro.com/meet-adrian",
-"https://adrianmadaro.com/mental-health-backpack-day-1",
-"https://adrianmadaro.com/news-events",
-"https://adrianmadaro.com/resources",
-"https://atask.org/site",
-"https://bagly.org/",
-"https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress",
-"https://facebook.com/adrianforrep",
-"https://fenwayhealth.org/info/locations/the-borum",
-"https://goingclear.com/",
-"https://instagram.com/adrianmadaro",
-"https://instagram.com/asianwomenforhealth",
-"https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e",
-"https://mhanational.org/issues/latinxhispanic-communities-and-mental-health",
-"https://psychology.uga.edu/coping-racial-trauma",
-"https://psychology.uga.edu/sites/default/files/Slide1_4.png",
-"https://secure.actblue.com/donate/adrianmadaro",
-"https://stevefund.org/",
-"https://therapyforblackgirls.com/about",
-"https://thetrevorproject.org/get-help-now",
-"https://thetrevorproject.org/resources/trevor-support-center",
-"https://twitter.com/adrianmadaro",
-"https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health"
+{
+"text": "Asian LifeNet Hotline",
+"href": "http://aaspe.net/"
+},
+{
+"text": "Asian Task Force Against Domestic Violence",
+"href": "https://www.atask.org/site/"
+},
+{
+"text": "Asian Women for Health",
+"href": "https://www.instagram.com/asianwomenforhealth/"
+},
+{
+"text": "BAGLY",
+"href": "https://www.bagly.org/"
+},
+{
+"text": "Boston Web Design",
+"href": "https://goingclear.com"
+},
+{
+"text": "Contact",
+"href": "https://www.adrianmadaro.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Donate Give. If you can.",
+"href": "https://secure.actblue.com/donate/adrianmadaro"
+},
+{
+"text": "Education",
+"href": "https://www.adrianmadaro.com/category/education/"
+},
+{
+"text": "Equality",
+"href": "https://www.adrianmadaro.com/category/equality/"
+},
+{
+"text": "Follow us on Instagram",
+"href": "https://www.instagram.com/adrianmadaro/"
+},
+{
+"text": "Follow us on Twitter",
+"href": "https://twitter.com/adrianmadaro"
+},
+{
+"text": "General",
+"href": "https://www.adrianmadaro.com/category/general/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Get Involved We’d Love to Have your Support.",
+"href": "https://www.adrianmadaro.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com"
+},
+{
+"text": "Home",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "Latest News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Leah Jean Photography",
+"href": "http://leahjeanphoto.com/"
+},
+{
+"text": "Like us on Facebook",
+"href": "https://www.facebook.com/adrianforrep/"
+},
+{
+"text": "Meet Adrian",
+"href": "https://www.adrianmadaro.com/meet-adrian/"
+},
+{
+"text": "Mental Health",
+"href": "https://www.adrianmadaro.com/category/mental-health/"
+},
+{
+"text": "Mental Health Backpack",
+"href": "https://www.adrianmadaro.com/mental-health-backpack-day-1/"
+},
+{
+"text": "News & Events",
+"href": "https://www.adrianmadaro.com/news-events/"
+},
+{
+"text": "Racial Battle Fatigue: What is it and What are the Symptoms?",
+"href": "https://medium.com/racial-battle-fatigue/racial-battle-fatigue-what-is-it-and-what-are-the-symptoms-84f79f49ee1e"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/category/resources/"
+},
+{
+"text": "Resources",
+"href": "https://www.adrianmadaro.com/resources/"
+},
+{
+"text": "The Borum at Fenway Health:",
+"href": "https://fenwayhealth.org/info/locations/the-borum/"
+},
+{
+"text": "The Steve Fund",
+"href": "https://www.stevefund.org/"
+},
+{
+"text": "The Trevor Project",
+"href": "https://www.thetrevorproject.org/get-help-now/"
+},
+{
+"text": "Therapy For Black Girls",
+"href": "https://therapyforblackgirls.com/about/"
+},
+{
+"text": "This page",
+"href": "https://www.mhanational.org/issues/latinxhispanic-communities-and-mental-health"
+},
+{
+"text": "This page",
+"href": "https://youngminds.org.uk/blog/how-racism-impacts-my-mental-health/"
+},
+{
+"text": "Visit this site",
+"href": "https://aahiinfo.org/aahi-resources/"
+},
+{
+"text": "Visit this site",
+"href": "https://psychology.uga.edu/sites/default/files/Slide1_4.png"
+},
+{
+"text": "Visit this site for information on coping",
+"href": "https://cardinalatwork.stanford.edu/faculty-staff-help-center/resources/work-related/coping-traumatic-stress"
+},
+{
+"text": "[image]",
+"href": "https://www.adrianmadaro.com/"
+},
+{
+"text": "here.",
+"href": "https://psychology.uga.edu/coping-racial-trauma"
+},
+{
+"text": "resources and FAQs",
+"href": "https://www.thetrevorproject.org/resources/trevor-support-center/"
+}
 ]

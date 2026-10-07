@@ -1,9 +1,9 @@
-Good evening.
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Pet Happy Hour with Kitty Pryde Good evening.
 This is Dollie, coming to you live from Cat News Network, with an exclusive interview with that well-known feline political operative, Kitty Pryde.
 Mr.
 Pryde is currently embedded in the Ruth household, and is hosting a Pet Happy Hour Sunday evening to raise funds for his minion, Delegate Sheila Ruth.
-So, Mr Pryde…
-Please, it’s Mr.
+So, Mr Pryde… Please, it’s Mr.
 Ruth.
 I’ve been fully adopted by the Ruth household.
 Sorry, Mr.
@@ -24,15 +24,13 @@ And our animal guests will have a chance to introduce themselves and their human
 What has the response been like?
 Of course the response has been great.
 I did say that I’m an excellent event planner, didn’t I?
-We’ve had quite a bit of buzz, and I’d like to especially thank our sponsors:
-- IBEW Local 26
-- Maryland State Education Association/Teachers Association of Baltimore County/Education Support Professionals of Baltimore County
-- Senator Delores Kelley
-- Delegate Dana Stein
-- Joseph Adams
-- Edna French
-Sounds great!
+We’ve had quite a bit of buzz, and I’d like to especially thank our sponsors: IBEW Local 26 Maryland State Education Association/Teachers Association of Baltimore County/Education Support Professionals of Baltimore County Senator Delores Kelley Delegate Dana Stein Joseph Adams Edna French Sounds great!
 How do my viewers sign up?
-Just go to this link: http://bit.ly/RuthPetHappyHour
-Thank you for taking the time to speak with us, Kitty Pryde Ruth.
+Just go to this link: http://bit.ly/RuthPetHappyHour Thank you for taking the time to speak with us, Kitty Pryde Ruth.
 Good luck with the event!
+Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Friends of Sheila Ruth, Bonnie K.
+Smith, Treasurer Home About Sheila Updates Social Media Policy Contact Subscribe Volunteer Donate!
+Subscribe Sign up here to receive my weekly newsletter with community and legislative news, local events, and updates on my work.
+Many people have told me how valuable they find my newsletter.
+View Past Issues Email address:* Leave this field empty if you're human: <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Loading…

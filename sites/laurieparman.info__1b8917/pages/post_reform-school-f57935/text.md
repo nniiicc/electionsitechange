@@ -1,5 +1,5 @@
-"Reform School"
-1/15/26 Air Campaign
-Does anyone remember when "Reform School" was there to straighten out a 15-year-old?
+top of page For IL District 66 Laurie Parman State Representative HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items.
+DONATE Log In All Posts Campaign Education Law Enforcement Search "Reform School" Judi Zapp Feb 5 1 min read 1/15/26 Air Campaign Does anyone remember when " Reform School" was there to straighten out a 15-year-old?
 Today, Illinois law gives them a "get out of jail free card" and quick trip back to the street.
 These young offenders need to experience real consequences for their actions, while they're still young enough to have a chance to build a life.
+Tags: Accountability Matters Law Enforcement Youth Justice Reform Law Enforcement Recent Posts See All Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law Like Laurie on Facebook HOME MEET LAURIE ISSUES BLOG IN THE NEWS ENDORSEMENTS GET INVOLVED Events Notifications My Subscriptions More Use tab to navigate through the menu items. © # Paid for by Elect Laurie Parman for Illinois State Rep District 66 electlaurieparman@gmail.com Subscribe for Updates Subscribe Now Thanks for submitting! bottom of page

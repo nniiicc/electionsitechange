@@ -1,4 +1,4 @@
-My name is Megan Woller, and I am the Democratic nominee for Idaho House District 16A.
+0 Skip to Content About Megan Platform Get Involved Media Donate Open Menu Close Menu About Megan Platform Get Involved Media Donate Open Menu Close Menu About Megan Platform Get Involved Media Donate My name is Megan Woller, and I am the Democratic nominee for Idaho House District 16A.
 I was born in Nampa, raised in Emmett, and have called Boise home since 2011.
 Idaho is more than where I live.
 It's home.
@@ -23,3 +23,10 @@ Whether I'm volunteering in the community, spending time with my family, or perf
 I am running for office because I believe every Idahoan deserves the opportunity to succeed.
 I want to help create an Idaho where families can afford housing and child care, where our public schools are strong, where workers earn a fair living, where health care is accessible, and where future generations can build their lives right here in the communities they love.
 I would be honored to earn your support and the opportunity to serve District 16 in the Idaho House of Representatives.
+Make a Contribution Volunteer Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Join my Mailing List!
+Stay up to date with my campaign and be the first to know about events and volunteer opportunities.
+First Name Last Name Email Address Sign Up Thank you!
+Connect with us on Social Media!
+PO BOX 4672, Boise, ID 83711 208-369-2925 Paid for by Megan For The People | Ali Rabe, Treasurer

@@ -1,5 +1,4 @@
-Redraw Georgia's congressional and state district map
-[December 18, 2023] | Right after Thanksgiving, the Georgia General Assembly returned to the Gold Dome and convened for a special legislative session.
+MEET RICK SUPPORT RICK ISSUES NEED HELP NEWS LINKS ASK RICK SPECIAL LEGISLATIVE SESSION Redraw Georgia's congressional and state district map Representative David Wilkerson (Cobb county) and I share a few light moments in an otherwise tense session. [ December 18, 2023 ] | Right after Thanksgiving, the Georgia General Assembly returned to the Gold Dome and convened for a special legislative session.
 We were called into this special session following a court ruling issued by U.S.
 District Judge Steve Jones instructing the General Assembly to redraw Georgia's congressional and state district maps.
 The House Committee on Reapportionment and Redistricting held several public hearings throughout the special session to hear public testimony on proposed remedial House, Senate, and congressional maps before the legislation reached the House floor for a vote.
@@ -24,3 +23,4 @@ You can reach my Capitol office at 404-656-7153 or rick.jasperse@house.ga.gov.
 Of course, contact me locally at 770-893-2039 or talk to me when you see me in town.
 Marcia and I wish you a Merry Christmas and happy holiday season.
 As always, thank you for allowing me to serve as your representative for House District 11.
+Return to Reports from the Capitol Citizens for Rick Jasperse 89 Apple Valley Lane Jasper GA 30143 (770) 893-2039 Email Rick "Thank you for the opportunity to be your State Representative." Follow Rick on Privacy Statement

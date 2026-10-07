@@ -1,19 +1,6 @@
-Campaign T-Shirt — "Team Alina" NY State Senate Support Tee
-$36.02Price
-This heavyweight, garment-dyed tee brings grassroots energy to your campaign wardrobe.
+top of page HOME MEET ALINA 8-POINT PLAN EVENTS NEWS CONTACT MERCH FOLLOW US GET INVOLVED DONATE Campaign T-Shirt — "Team Alina" NY State Senate Support Tee $36.02 Price Color * White Size * S M L XL 2XL Quantity * Add to Cart Buy Now This heavyweight, garment-dyed tee brings grassroots energy to your campaign wardrobe.
 Soft-worn color and relaxed fit make it comfortable for long canvassing days, phone banks, or community meetups.
 The front’s clean “Team Alina” script reads warm and personal; the back lists campaign details and a scannable QR code so supporters can act in the moment.
 Built to last with double-needle seams, tubular construction, and pre-shrunk ring-spun cotton, it holds up through repeated wears and washes while keeping that broken-in feel.
 Available in many colors and sizes, it’s designed to move with you from door-to-door routes to neighborhood events—practical, purposeful, and quietly proud.
-Product features
-- 100% ring-spun US cotton — soft, durable, pre-shrunk
-- Garment-dyed finish for a soft color and lived-in texture
-- Heavyweight 6.1 oz fabric with relaxed, timeless fit
-- Tubular, seamless body with double-needle stitching for long-lasting wear
-- Sizes S–4XL and 58 color options; sewn-in label for comfort
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Do not bleach
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dryclean
+Product features - 100% ring-spun US cotton — soft, durable, pre-shrunk - Garment-dyed finish for a soft color and lived-in texture - Heavyweight 6.1 oz fabric with relaxed, timeless fit - Tubular, seamless body with double-needle stitching for long-lasting wear - Sizes S–4XL and 58 color options; sewn-in label for comfort Care instructions - Machine wash: cold (max 30C or 90F) - Do not bleach - Tumble dry: low heat - Iron, steam or dry: low heat - Do not dryclean CONTACT info@alinabonsell.com 917-819-2636 PAID FOR BY ALINA FOR NY 2026 FIGHT FOR NY DONATE FOLLOW US bottom of page

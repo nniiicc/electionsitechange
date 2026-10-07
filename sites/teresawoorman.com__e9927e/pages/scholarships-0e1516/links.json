@@ -1,16 +1,78 @@
 [
-"http://twitter.com/teresa_saavedra",
-"https://docs.google.com/forms/d/e/1FAIpQLSd5m6NBLcA72CQBQhD531kQTGDbzyEdMAtzKUbxQng_HAn53g/viewform?usp=header",
-"https://facebook.com/TeresaWoorman",
-"https://forms.gle/qTmVhbW3XL5Qu6GU6",
-"https://instagram.com/teresa_woorman",
-"https://linkedin.com/in/teresawoorman",
-"https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7",
-"https://secure.actblue.com/donate/teresawoorman",
-"https://studentaid.gov/",
-"https://teresawoorman.com/",
-"https://teresawoorman.com/contact-8",
-"https://teresawoorman.com/legislation",
-"https://teresawoorman.com/newsletter",
-"https://teresawoorman.com/scholarships"
+{
+"text": "Contact",
+"href": "https://www.teresawoorman.com/contact-8"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/teresawoorman"
+},
+{
+"text": "Endorsements",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "FAFSA Website",
+"href": "https://studentaid.gov"
+},
+{
+"text": "Get involved!",
+"href": "https://forms.gle/qTmVhbW3XL5Qu6GU6"
+},
+{
+"text": "Home",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Legislation",
+"href": "https://www.teresawoorman.com/legislation"
+},
+{
+"text": "Media",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "Newsletter",
+"href": "https://www.teresawoorman.com/newsletter"
+},
+{
+"text": "Scholarship Application",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSd5m6NBLcA72CQBQhD531kQTGDbzyEdMAtzKUbxQng_HAn53g/viewform?usp=header"
+},
+{
+"text": "Scholarships",
+"href": "https://www.teresawoorman.com/scholarships"
+},
+{
+"text": "Unique Major application",
+"href": "https://studentaid.gov"
+},
+{
+"text": "Verify your permanent residence in District 16",
+"href": "https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7"
+},
+{
+"text": "Video",
+"href": "https://www.teresawoorman.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/TeresaWoorman"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/teresa_woorman/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/teresawoorman/"
+},
+{
+"text": "[image: Twitter]",
+"href": "http://twitter.com/teresa_saavedra"
+},
+{
+"text": "teresa@teresawoorman.com",
+"href": "mailto:teresa@teresawoorman.com"
+}
 ]

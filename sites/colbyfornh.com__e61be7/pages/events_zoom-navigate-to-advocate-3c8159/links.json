@@ -1,30 +1,126 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=ZOOM%3A+Navigate+to+Advocate%3A+How+to+Testify+Online&dates=20260104T230000Z%2F20260105T000000Z",
-"https://bsky.app/profile/colbyfornh.bsky.social",
-"https://colbyfornh.com/",
-"https://colbyfornh.com/cart",
-"https://colbyfornh.com/contact",
-"https://colbyfornh.com/events",
-"https://colbyfornh.com/events/event-demsmonthlymeeting",
-"https://colbyfornh.com/events/zoom-navigate-to-advocate?format=ical",
-"https://colbyfornh.com/events?tag=House+of+Represenatives",
-"https://colbyfornh.com/events?tag=Legislation",
-"https://colbyfornh.com/events?tag=NH+Politics",
-"https://colbyfornh.com/events?tag=New+Hampshire",
-"https://colbyfornh.com/events?tag=Online",
-"https://colbyfornh.com/events?tag=Policy",
-"https://colbyfornh.com/events?tag=Politics",
-"https://colbyfornh.com/events?tag=Senate",
-"https://colbyfornh.com/events?tag=State+Government",
-"https://colbyfornh.com/events?tag=State+House",
-"https://colbyfornh.com/events?tag=online+bill+tracker",
-"https://colbyfornh.com/events?tag=testimony",
-"https://colbyfornh.com/events?tag=trainings",
-"https://colbyfornh.com/events?tag=zoom",
-"https://colbyfornh.com/legislative-updates",
-"https://colbyfornh.com/policy",
-"https://colbyfornh.com/support",
-"https://colbyfornh.com/takingaction",
-"https://facebook.com/ColbyForNH",
-"https://secure.actblue.com/donate/colby"
+{
+"text": "0",
+"href": "https://colbyfornh.com/cart"
+},
+{
+"text": "About",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "ColbyForNH@gmail.com",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Contact",
+"href": "https://colbyfornh.com/contact"
+},
+{
+"text": "Donate to Campaign",
+"href": "https://secure.actblue.com/donate/colby"
+},
+{
+"text": "Events",
+"href": "https://colbyfornh.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=ZOOM%3A+Navigate+to+Advocate%3A+How+to+Testify+Online&dates=20260104T230000Z%2F20260105T000000Z"
+},
+{
+"text": "House of Represenatives",
+"href": "https://colbyfornh.com/events?tag=House+of+Represenatives"
+},
+{
+"text": "ICS",
+"href": "https://colbyfornh.com/events/zoom-navigate-to-advocate?format=ical"
+},
+{
+"text": "Legislation",
+"href": "https://colbyfornh.com/events?tag=Legislation"
+},
+{
+"text": "Legislative Updates",
+"href": "https://colbyfornh.com/legislative-updates"
+},
+{
+"text": "NH Politics",
+"href": "https://colbyfornh.com/events?tag=NH+Politics"
+},
+{
+"text": "New Hampshire",
+"href": "https://colbyfornh.com/events?tag=New+Hampshire"
+},
+{
+"text": "Online",
+"href": "https://colbyfornh.com/events?tag=Online"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/events?tag=Policy"
+},
+{
+"text": "Policy",
+"href": "https://colbyfornh.com/policy"
+},
+{
+"text": "Politics",
+"href": "https://colbyfornh.com/events?tag=Politics"
+},
+{
+"text": "Previous Previous December 11 Legislative Preview 2026",
+"href": "https://colbyfornh.com/events/event-demsmonthlymeeting"
+},
+{
+"text": "Senate",
+"href": "https://colbyfornh.com/events?tag=Senate"
+},
+{
+"text": "State Government",
+"href": "https://colbyfornh.com/events?tag=State+Government"
+},
+{
+"text": "State House",
+"href": "https://colbyfornh.com/events?tag=State+House"
+},
+{
+"text": "Support the Campaign",
+"href": "https://colbyfornh.com/support"
+},
+{
+"text": "Taking Action",
+"href": "https://colbyfornh.com/takingaction"
+},
+{
+"text": "[image: Eleana Colby for State Representative]",
+"href": "https://colbyfornh.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/colbyfornh.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ColbyForNH"
+},
+{
+"text": "online bill tracker",
+"href": "https://colbyfornh.com/events?tag=online+bill+tracker"
+},
+{
+"text": "testimony",
+"href": "https://colbyfornh.com/events?tag=testimony"
+},
+{
+"text": "trainings",
+"href": "https://colbyfornh.com/events?tag=trainings"
+},
+{
+"text": "zoom",
+"href": "https://colbyfornh.com/events?tag=zoom"
+}
 ]

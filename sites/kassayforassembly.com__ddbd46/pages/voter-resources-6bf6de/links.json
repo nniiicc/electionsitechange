@@ -1,17 +1,74 @@
 [
-"https://elections.ny.gov/military-and-overseas-federal-voting",
-"https://elections.ny.gov/request-ballot",
-"https://facebook.com/kassayforassembly",
-"https://instagram.com/kassayforassembly",
-"https://kassayforassembly.com/",
-"https://kassayforassembly.com/endorsements",
-"https://kassayforassembly.com/events",
-"https://kassayforassembly.com/issues",
-"https://kassayforassembly.com/news",
-"https://kassayforassembly.com/volunteer",
-"https://kassayforassembly.com/voter-resources",
-"https://suffolkcountyny.gov/Departments/BOE/2026-General-Locations-and-Timings",
-"https://voterlookup.elections.ny.gov/",
-"https://youtu.be/Tv-sJ6gtPzc?si=0TlvsLnyYUjYBNG0",
-"https://youtube.com/@kassayforassembly"
+{
+"text": "Apply Here",
+"href": "https://elections.ny.gov/request-ballot"
+},
+{
+"text": "Click here",
+"href": "https://elections.ny.gov/military-and-overseas-federal-voting"
+},
+{
+"text": "Click here",
+"href": "https://suffolkcountyny.gov/Departments/BOE/2026-General-Locations-and-Timings"
+},
+{
+"text": "Click here",
+"href": "https://voterlookup.elections.ny.gov/"
+},
+{
+"text": "Click here",
+"href": "https://youtu.be/Tv-sJ6gtPzc?si=0TlvsLnyYUjYBNG0"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kassayforassembly.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "INFO@KASSAYFORASSEMBLY.COM",
+"href": "mailto:INFO@KASSAYFORASSEMBLY.COM"
+},
+{
+"text": "In the News",
+"href": "https://www.kassayforassembly.com/news"
+},
+{
+"text": "Issues",
+"href": "https://www.kassayforassembly.com/issues"
+},
+{
+"text": "Upcoming Events",
+"href": "https://www.kassayforassembly.com/events"
+},
+{
+"text": "Volunteer",
+"href": "https://www.kassayforassembly.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.kassayforassembly.com/voter-resources"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/kassayforassembly"
+},
+{
+"text": "[image: IMG_1734.png]",
+"href": "https://www.kassayforassembly.com"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/kassayforassembly/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@kassayforassembly"
+},
+{
+"text": "info@kassayforassembly.com",
+"href": "mailto:info@kassayforassembly.com?subject=Voter+Assistance+Request"
+}
 ]

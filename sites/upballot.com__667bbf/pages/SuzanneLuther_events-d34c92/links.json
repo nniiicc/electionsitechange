@@ -1,17 +1,86 @@
 [
-"https://facebook.com/profile.php?id=61576204757768",
-"https://instagram.com/suzanneluther4mo",
-"https://mohousedems.com/calendar",
-"https://secure.actblue.com/donate/suzanne-luther",
-"https://upballot.com/",
-"https://upballot.com/SuzanneLuther",
-"https://upballot.com/SuzanneLuther/about",
-"https://upballot.com/SuzanneLuther/events",
-"https://upballot.com/SuzanneLuther/events?view=cards",
-"https://upballot.com/SuzanneLuther/get-involved",
-"https://upballot.com/SuzanneLuther/issues",
-"https://upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=93572",
-"https://upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=93572",
-"https://upballot.com/privacy-policy",
-"https://upballot.com/terms-and-conditions"
+{
+"text": "About Suzanne",
+"href": "https://www.upballot.com/SuzanneLuther/about/"
+},
+{
+"text": "Built on[image: UpBallot Logo]",
+"href": "https://www.upballot.com/"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/suzanne-luther"
+},
+{
+"text": "Events",
+"href": "https://www.upballot.com/SuzanneLuther/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.upballot.com/SuzanneLuther/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.upballot.com/SuzanneLuther"
+},
+{
+"text": "Issues",
+"href": "https://www.upballot.com/SuzanneLuther/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.upballot.com/privacy-policy/"
+},
+{
+"text": "See More",
+"href": "https://www.mohousedems.com/calendar"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.upballot.com/terms-and-conditions/"
+},
+{
+"text": "[image: Suzanne Luther Logo]",
+"href": "https://www.upballot.com/SuzanneLuther/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576204757768"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/suzanneluther4mo"
+},
+{
+"text": "[tooltip: Navigate to November 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=11&candidateId=93572"
+},
+{
+"text": "[tooltip: Navigate to September 2026]",
+"href": "https://www.upballot.com/event-calendar-ajax?year=2026&month=09&candidateId=93572"
+},
+{
+"text": "[tooltip: View Facebook Link]",
+"href": "https://www.facebook.com/profile.php?id=61576204757768"
+},
+{
+"text": "[tooltip: View Instagram Link]",
+"href": "https://www.instagram.com/suzanneluther4mo"
+},
+{
+"text": "[tooltip: View events by Calender view]",
+"href": "https://www.upballot.com/SuzanneLuther/events"
+},
+{
+"text": "[tooltip: View events by Card view]",
+"href": "https://www.upballot.com/SuzanneLuther/events?view=cards"
+},
+{
+"text": "suzannelutherformo@gmail.com",
+"href": "mailto:suzannelutherformo@gmail.com"
+},
+{
+"text": "tel:573-746-0956",
+"href": "tel:573-746-0956"
+}
 ]

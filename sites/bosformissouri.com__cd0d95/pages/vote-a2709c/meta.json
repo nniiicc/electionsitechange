@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.bosformissouri.com/vote",
- "paid_for_by": null,
+ "fingerprint": "9359832cd9e735d137e1cb99305c44da827348d4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": []
 }

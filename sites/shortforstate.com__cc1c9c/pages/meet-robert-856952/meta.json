@@ -1,9 +1,13 @@
 {
  "description": "Meet Robert Short, Republican candidate for Wyoming Secretary of State.",
  "final_url": "https://www.shortforstate.com/meet-robert",
- "paid_for_by": "Paid for by Short for State&nbsp; |&nbsp; P",
+ "fingerprint": "00bece856b944c72e737d7d8a3762292e1cb7f82",
+ "format": 3,
+ "paid_for_by": "Paid for by Short for State",
  "title": "Robert Short for Wyoming Secretary of State | Meet Robert",
  "years_mentioned": [
-  "2014"
+  "2005",
+  "2014",
+  "2026"
  ]
 }

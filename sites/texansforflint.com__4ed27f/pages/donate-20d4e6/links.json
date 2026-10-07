@@ -1,20 +1,98 @@
 [
-"https://facebook.com/FlintforTexas",
-"https://secure.anedot.com/texans-for-flint/donate",
-"https://secure.anedot.com/texans-for-flint/donate?amount=100",
-"https://secure.anedot.com/texans-for-flint/donate?amount=25",
-"https://secure.anedot.com/texans-for-flint/donate?amount=250",
-"https://secure.anedot.com/texans-for-flint/donate?amount=500",
-"https://teamrv-mvp.sos.state.tx.us/MVP/mvp.do",
-"https://texansforflint.com/",
-"https://texansforflint.com/about",
-"https://texansforflint.com/donate",
-"https://texansforflint.com/endorsements",
-"https://texansforflint.com/get-involved",
-"https://texansforflint.com/issues",
-"https://texansforflint.com/join",
-"https://texansforflint.com/privacy-policy",
-"https://texansforflint.com/sms-terms",
-"https://vote.org/register-to-vote/texas",
-"https://x.com/GeorgeBFlint"
+{
+"text": "$100The ConversationFunds the door-to-door work that wins a tossup. One hundred dollars helps our volunteers reach undecided households in Plano and Allen, one honest conversation at a time.Give $100",
+"href": "https://secure.anedot.com/texans-for-flint/donate?amount=100"
+},
+{
+"text": "$250The AirwavesCarries the message beyond the doorstep. Two hundred and fifty dollars helps place the digital and local advertising that reaches the voters a knock cannot, with the same measured tone George brings to everything.Give $250",
+"href": "https://secure.anedot.com/texans-for-flint/donate?amount=250"
+},
+{
+"text": "$25The IntroductionPuts George's record into the hands of neighbors who have not met him yet. Twenty-five dollars helps print and mail the literature that introduces a judge to the voters he hopes to represent.Give $25",
+"href": "https://secure.anedot.com/texans-for-flint/donate?amount=25"
+},
+{
+"text": "$500The Ground GamePowers the get-out-the-vote effort in the final stretch. Five hundred dollars helps organize the phones, the reminders, and the rides that turn support into ballots when early voting opens October 19.Give $500",
+"href": "https://secure.anedot.com/texans-for-flint/donate?amount=500"
+},
+{
+"text": "About",
+"href": "https://www.texansforflint.com/about/"
+},
+{
+"text": "About George",
+"href": "https://www.texansforflint.com/about/"
+},
+{
+"text": "Check Registration & Polling Place",
+"href": "https://teamrv-mvp.sos.state.tx.us/MVP/mvp.do"
+},
+{
+"text": "Donate",
+"href": "https://www.texansforflint.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.texansforflint.com/endorsements/"
+},
+{
+"text": "Get Campaign Updates",
+"href": "https://www.texansforflint.com/join/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.texansforflint.com/get-involved/"
+},
+{
+"text": "Get Updates",
+"href": "https://www.texansforflint.com/join/"
+},
+{
+"text": "Give Another Amount",
+"href": "https://secure.anedot.com/texans-for-flint/donate"
+},
+{
+"text": "Give to the Campaign",
+"href": "https://secure.anedot.com/texans-for-flint/donate"
+},
+{
+"text": "Issues",
+"href": "https://www.texansforflint.com/issues/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.texansforflint.com/privacy-policy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.texansforflint.com/privacy-policy/"
+},
+{
+"text": "Rather volunteer? Stand with George",
+"href": "https://www.texansforflint.com/get-involved/"
+},
+{
+"text": "Register to Vote in Texas",
+"href": "https://www.vote.org/register-to-vote/texas/"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.texansforflint.com/sms-terms"
+},
+{
+"text": "SMS Terms",
+"href": "https://www.texansforflint.com/sms-terms/"
+},
+{
+"text": "Texans for Flint★",
+"href": "https://www.texansforflint.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/FlintforTexas/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/GeorgeBFlint"
+}
 ]

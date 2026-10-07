@@ -1,9 +1,12 @@
 {
  "description": "Get the latest news about Abdul El-Sayed campaign for US Senate.",
  "final_url": "https://abdulforsenate.com/2026/09/independent-focus-groups-show-abdul-overperforming-with-trump-voters/",
+ "fingerprint": "53dc36ff246559fab23e1d9878e094b43d53de39",
+ "format": 3,
  "paid_for_by": "Paid for by Abdul for U",
- "title": "Independent Focus Groups Show Abdul Overperforming With Trump Voters \u2013 Michigan US Senate Candidate 2026",
+ "title": "Independent Focus Groups Show Abdul Overperforming With Trump Voters – Michigan US Senate Candidate 2026",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

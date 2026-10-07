@@ -1,9 +1,42 @@
 [
-"https://corey4nm.com/",
-"https://corey4nm.com/about",
-"https://corey4nm.com/contact",
-"https://corey4nm.com/donate-today",
-"https://corey4nm.com/feed",
-"https://corey4nm.com/issues",
-"https://facebook.com/share/1EMKkbKBdV?mibextid=wwXIfr"
+{
+"text": "About",
+"href": "https://corey4nm.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://corey4nm.com/contact/"
+},
+{
+"text": "Donate Today!",
+"href": "https://corey4nm.com/donate-today/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/share/1EMKkbKBdV/?mibextid=wwXIfr"
+},
+{
+"text": "Home",
+"href": "https://corey4nm.com/"
+},
+{
+"text": "Issues",
+"href": "https://corey4nm.com/issues/"
+},
+{
+"text": "RSS",
+"href": "https://corey4nm.com/feed/"
+},
+{
+"text": "[image: Corry Zimmerman for NM House District 26]",
+"href": "https://corey4nm.com/"
+},
+{
+"text": "corey@corey4nm.com",
+"href": "mailto:"
+},
+{
+"text": "corey@corey4nm.com",
+"href": "mailto:corey@corey4nm.com"
+}
 ]

@@ -1,6 +1,38 @@
 [
-"https://dianepauer.com/",
-"https://dianepauer.com/blog",
-"https://dianepauer.com/contact",
-"https://secure.anedot.com/diane-for-nh/donate"
+{
+"text": "About",
+"href": "https://dianepauer.com#about"
+},
+{
+"text": "Contact",
+"href": "https://dianepauer.com#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/diane-for-nh/donate"
+},
+{
+"text": "Experience",
+"href": "https://dianepauer.com#experience"
+},
+{
+"text": "Issues",
+"href": "https://dianepauer.com#issues"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://dianepauer.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://dianepauer.com/contact"
+},
+{
+"text": "[image: Diane Pauer Campaign Logo] DIANE PAUER",
+"href": "https://dianepauer.com"
+},
+{
+"text": "← Back to all posts",
+"href": "https://dianepauer.com/blog"
+}
 ]

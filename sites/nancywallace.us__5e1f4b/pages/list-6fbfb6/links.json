@@ -1,13 +1,54 @@
 [
-"http://aiso.net/",
-"http://nancywallace.us/",
-"http://nancywallace.us/about/community-peacestopping-police-violence",
-"http://nancywallace.us/contact",
-"http://nancywallace.us/donate",
-"http://nancywallace.us/endorsements",
-"http://nancywallace.us/issues",
-"http://nancywallace.us/list",
-"http://nancywallace.us/list/green-party",
-"http://nancywallace.us/meet-nancy",
-"http://nancywallace.us/vote-for-nancy"
+{
+"text": "AISO",
+"href": "http://www.aiso.net/"
+},
+{
+"text": "Contact",
+"href": "http://www.nancywallace.us/contact/"
+},
+{
+"text": "Donate",
+"href": "http://www.nancywallace.us/donate/"
+},
+{
+"text": "Endorsements",
+"href": "http://www.nancywallace.us/endorsements/"
+},
+{
+"text": "Green Party",
+"href": "http://www.nancywallace.us/list/green-party"
+},
+{
+"text": "Home",
+"href": "http://www.nancywallace.us"
+},
+{
+"text": "Issues",
+"href": "http://www.nancywallace.us/issues/"
+},
+{
+"text": "Join",
+"href": "http://www.nancywallace.us/vote-for-nancy/"
+},
+{
+"text": "Meet Nancy",
+"href": "http://www.nancywallace.us/meet-nancy/"
+},
+{
+"text": "Police",
+"href": "http://www.nancywallace.us/about/community-peacestopping-police-violence/"
+},
+{
+"text": "Teammedia",
+"href": "mailto:jmole@teammedia.com"
+},
+{
+"text": "[image]",
+"href": "http://nancywallace.us"
+},
+{
+"text": "🍁",
+"href": "http://www.nancywallace.us/list"
+}
 ]

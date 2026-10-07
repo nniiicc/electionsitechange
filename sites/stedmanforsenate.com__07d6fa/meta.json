@@ -1,7 +1,9 @@
 {
  "description": "Web site created using create-react-app",
  "final_url": "https://www.stedmanforsenate.com/",
- "paid_for_by": null,
+ "fingerprint": "27cece1c89998af52d49bf09ef45eef3c5abbdd2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Stedman For Senate",
  "years_mentioned": []
 }

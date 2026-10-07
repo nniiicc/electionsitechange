@@ -1,10 +1,42 @@
 [
-"https://jamiekeenandevargas.com/",
-"https://jamiekeenandevargas.com/about",
-"https://jamiekeenandevargas.com/group-canvass",
-"https://jamiekeenandevargas.com/policies",
-"https://jamiekeenandevargas.com/privacy-policy",
-"https://jamiekeenandevargas.com/terms-of-service",
-"https://jamiekeenandevargas.com/town-hall",
-"https://solidarity.tech/"
+{
+"text": "About",
+"href": "https://www.jamiekeenandevargas.com/about"
+},
+{
+"text": "Policies",
+"href": "https://www.jamiekeenandevargas.com/policies"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.jamiekeenandevargas.com/privacy-policy"
+},
+{
+"text": "Solidarity Tech",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "Terms of Service",
+"href": "https://www.jamiekeenandevargas.com/terms-of-service"
+},
+{
+"text": "Town Hall (Oct. 6th)!",
+"href": "https://www.jamiekeenandevargas.com/town-hall"
+},
+{
+"text": "Volunteer",
+"href": "https://www.jamiekeenandevargas.com/group-canvass"
+},
+{
+"text": "[image] Team Jamie Keenan-deVargas",
+"href": "https://www.jamiekeenandevargas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.solidarity.tech"
+},
+{
+"text": "jamie@jamiekeenandevargas.com",
+"href": "mailto:jamie@jamiekeenandevargas.com"
+}
 ]

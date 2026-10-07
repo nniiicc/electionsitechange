@@ -1,33 +1,158 @@
 [
-"https://apolloartistry.com/",
-"https://mobilize.us/texasdemocrats",
-"https://secure.actblue.com/donate/tmfweb",
-"https://treymartinezfischer.com/",
-"https://treymartinezfischer.com/about",
-"https://treymartinezfischer.com/accessibility",
-"https://treymartinezfischer.com/action",
-"https://treymartinezfischer.com/action-hub",
-"https://treymartinezfischer.com/action-hub?e-page-66a39e5=2",
-"https://treymartinezfischer.com/bill-we-love/hb-22",
-"https://treymartinezfischer.com/bill-we-love/hb-4236",
-"https://treymartinezfischer.com/bill-we-love/hb-9",
-"https://treymartinezfischer.com/bill-we-love/hcr-155",
-"https://treymartinezfischer.com/bill-we-love/sb-1555",
-"https://treymartinezfischer.com/bill-we-love/sb-22",
-"https://treymartinezfischer.com/bill-we-love/sb-3059",
-"https://treymartinezfischer.com/bill-we-love/sb-4-sjr-2-sb-23-sjr-85",
-"https://treymartinezfischer.com/cdn-cgi/l/email-protection",
-"https://treymartinezfischer.com/donate",
-"https://treymartinezfischer.com/facebook",
-"https://treymartinezfischer.com/instagram",
-"https://treymartinezfischer.com/issues",
-"https://treymartinezfischer.com/media",
-"https://treymartinezfischer.com/news",
-"https://treymartinezfischer.com/point-of-order/hb-2587",
-"https://treymartinezfischer.com/privacy-policy",
-"https://treymartinezfischer.com/tiktok",
-"https://treymartinezfischer.com/twitter",
-"https://treymartinezfischer.com/youtube",
-"https://treymartinezfischer.us10.list-manage.com/subscribe?u=a9e900b96bf39c0278fc67397&id=3ef8601050",
-"https://votes.txdemocrats.org/my-texas-votes"
+{
+"text": "Accessibility",
+"href": "https://treymartinezfischer.com/accessibility"
+},
+{
+"text": "Action Hub",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "Action Hub",
+"href": "https://treymartinezfischer.com/action-hub/"
+},
+{
+"text": "BILL HB 22",
+"href": "https://treymartinezfischer.com/bill-we-love/hb-22/"
+},
+{
+"text": "BILL HB 2587",
+"href": "https://treymartinezfischer.com/point-of-order/hb-2587/"
+},
+{
+"text": "BILL HB 4236",
+"href": "https://treymartinezfischer.com/bill-we-love/hb-4236/"
+},
+{
+"text": "BILL HB 9",
+"href": "https://treymartinezfischer.com/bill-we-love/hb-9/"
+},
+{
+"text": "BILL HCR 155",
+"href": "https://treymartinezfischer.com/bill-we-love/hcr-155/"
+},
+{
+"text": "BILL SB 1555",
+"href": "https://treymartinezfischer.com/bill-we-love/sb-1555/"
+},
+{
+"text": "BILL SB 22",
+"href": "https://treymartinezfischer.com/bill-we-love/sb-22/"
+},
+{
+"text": "BILL SB 3059",
+"href": "https://treymartinezfischer.com/bill-we-love/sb-3059/"
+},
+{
+"text": "BILL SB 4/SJR 2 & SB 23/SJR 85",
+"href": "https://treymartinezfischer.com/bill-we-love/sb-4-sjr-2-sb-23-sjr-85/"
+},
+{
+"text": "Contact",
+"href": "mailto:contact@treymartinezfischer.com"
+},
+{
+"text": "DONATE DONATE",
+"href": "https://secure.actblue.com/donate/tmfweb"
+},
+{
+"text": "Donate",
+"href": "https://treymartinezfischer.com/donate"
+},
+{
+"text": "Donate Donate",
+"href": "https://treymartinezfischer.com/donate"
+},
+{
+"text": "Facebook-square",
+"href": "https://treymartinezfischer.com/facebook"
+},
+{
+"text": "Home",
+"href": "https://treymartinezfischer.com"
+},
+{
+"text": "Home",
+"href": "https://treymartinezfischer.com/"
+},
+{
+"text": "Instagram",
+"href": "https://treymartinezfischer.com/instagram"
+},
+{
+"text": "Instagram",
+"href": "https://treymartinezfischer.com/twitter"
+},
+{
+"text": "Issues",
+"href": "https://treymartinezfischer.com/issues"
+},
+{
+"text": "Issues",
+"href": "https://treymartinezfischer.com/issues/"
+},
+{
+"text": "Meet Trey",
+"href": "https://treymartinezfischer.com/about"
+},
+{
+"text": "Meet Trey",
+"href": "https://treymartinezfischer.com/about/"
+},
+{
+"text": "News",
+"href": "https://treymartinezfischer.com/media/"
+},
+{
+"text": "News",
+"href": "https://treymartinezfischer.com/news"
+},
+{
+"text": "Page2",
+"href": "https://treymartinezfischer.com/action-hub/?e-page-66a39e5=2"
+},
+{
+"text": "Powered by Apollo",
+"href": "https://apolloartistry.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://treymartinezfischer.com/privacy-policy"
+},
+{
+"text": "Tiktok",
+"href": "https://treymartinezfischer.com/tiktok"
+},
+{
+"text": "VISIT THE TMF ACTION CENTER TO GET INVOLVED VISIT THE TMF ACTION CENTER TO GET INVOLVED",
+"href": "https://treymartinezfischer.com/action"
+},
+{
+"text": "X-twitter",
+"href": "https://treymartinezfischer.com/twitter"
+},
+{
+"text": "Youtube",
+"href": "https://treymartinezfischer.com/youtube"
+},
+{
+"text": "[email protected]",
+"href": "https://treymartinezfischer.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[image: Arrow] Attend a Texas Democrat event Volunteer and get involved with Texas democrats across the state.",
+"href": "https://www.mobilize.us/texasdemocrats/"
+},
+{
+"text": "[image: Arrow] Get Registered to vote in Texas Click here to check your Texas voter registration status and get more voter info",
+"href": "https://votes.txdemocrats.org/my-texas-votes/"
+},
+{
+"text": "[image: Arrow] Subscribe To My Newsletter Add your email to stay up to date with the latest from TMF.",
+"href": "https://treymartinezfischer.us10.list-manage.com/subscribe?u=a9e900b96bf39c0278fc67397&id=3ef8601050"
+},
+{
+"text": "[image]",
+"href": "https://treymartinezfischer.com"
+}
 ]

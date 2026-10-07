@@ -1,2 +1,3 @@
-British liberal rag The Guardian gets called out for being frauds pushing a liberal narrative after repeatedly harassing Mark Finchem about how he no longer has confidence in vote-by-mail.
-Watch now:
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X Mark Finchem Calls the Fake News Frauds November 3, 2022 British liberal rag The Guardian gets called out for being frauds pushing a liberal narrative after repeatedly harassing Mark Finchem about how he no longer has confidence in vote-by-mail.
+Watch now: Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

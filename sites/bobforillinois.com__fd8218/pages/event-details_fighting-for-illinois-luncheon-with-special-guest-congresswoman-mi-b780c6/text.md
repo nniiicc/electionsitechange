@@ -1,7 +1,6 @@
-top of page
-Fighting For Illinois Luncheon with Special Guest Congresswoman Miller (IL 15)
-Sat, Oct 10
-|Yoder's Kitchen
-Join Bob Fioretti as he discusses his priorities and focus as Illinois Attorney General.
+top of page HOME ABOUT BOB BLOG EVENTS ON THE TRAIL WITH BOB FIORETTI VOLUNTEER Fioretti Direct Mail Campaign PODCASTS/MEDIA CONTACT US DONATE Search Fighting For Illinois Luncheon with Special Guest Congresswoman Miller (IL 15) Sat, Oct 10 | Yoder's Kitchen Join Bob Fioretti as he discusses his priorities and focus as Illinois Attorney General.
 Congresswoman Mary Miller will be our special guest.
-bottom of page
+Buy Tickets Time & Location Oct 10, 2026, 12:00 PM – 1:30 PM Yoder's Kitchen, 1195 E Columbia St, Arthur, IL 61911, USA About the event Show More Tickets Ticket type General Admission Price From $50.00 to $1,000.00 Luncheon Ticket $50.00 +$1.25 ticket service fee Quantity 0 Friend of Justice $100.00 +$2.50 ticket service fee Quantity 0 Consumer Advocate $150.00 +$3.75 ticket service fee Quantity 0 More prices (3) Public Safety Champion $250.00 +$6.25 ticket service fee Quantity 0 Integrity Sponsor $500.00 +$12.50 ticket service fee Quantity 0 People's Attorney Sponsor $1,000.00 +$25.00 ticket service fee Quantity 0 Total $0.00 Checkout Share this event EVENTS TeamFioretti@bobforillinois.com​ ​ 773-828-9696 ​ 521 W.
+North Ave Chicago, IL 60610 Paid for by Bob for Illinois.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
+DONATE Facebook X (Twitter) WhatsApp Copy link © # by Veritas Intel Group Powered by GoZoek.com bottom of page

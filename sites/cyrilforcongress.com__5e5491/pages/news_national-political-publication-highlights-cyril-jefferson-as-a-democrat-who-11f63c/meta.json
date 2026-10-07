@@ -1,9 +1,12 @@
 {
- "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to \u201cCustom Link\u201d.",
+ "description": "If you want to link an external news source, open up the accordion for this item on the sidebar and switch the Post Publishing Setting to “Custom Link”.",
  "final_url": "https://www.cyrilforcongress.com/news/national-political-publication-highlights-cyril-jefferson-as-a-democrat-who-can-win-in-red-america",
+ "fingerprint": "31514f7328a561b31c08ce69c3d6cf95c913cf65",
+ "format": 3,
  "paid_for_by": "Paid for by Cyril for Congress committee",
  "title": "National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America",
  "years_mentioned": [
+  "2025",
   "2026"
  ]
 }

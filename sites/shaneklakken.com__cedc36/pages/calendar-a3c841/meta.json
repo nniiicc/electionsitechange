@@ -1,7 +1,9 @@
 {
  "description": "View the calendar of public events, legislative sessions, and community meetings involving Shane Klakken, a Montana state representative. Stay informed about upcoming dates and public activities.",
  "final_url": "https://www.shaneklakken.com/calendar",
- "paid_for_by": "Paid for by Shane Klakken For HD37 (R) &bull; Sam Holmes, Treasurer &bull; PO Box 128 Grass Range, Mt 59032 &copy;2026 by Shane Klakken",
+ "fingerprint": "56248680836d816fb7917a3166befcbab879402a",
+ "format": 3,
+ "paid_for_by": "Paid for by Shane Klakken For HD37 (R) • Sam Holmes, Treasurer • PO Box 128 Grass Range, Mt 59032 ©# by Shane Klakken",
  "title": "Calendar | Shane Klakken",
  "years_mentioned": []
 }

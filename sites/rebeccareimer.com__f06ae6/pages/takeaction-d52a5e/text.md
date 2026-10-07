@@ -1,2 +1,2 @@
-TAKE ACTION TO HELP REBECCA.
-Donate to Rebecca's Campaign commit to voting for rebecca Volunteer For Rebecca's Campaign Get Your Team Reimer Yard Sign ENDORSE REBECCA & HER CAMPAIGN Register to Vote Request Your Absentee Ballot
+0 Skip to Content Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE Open Menu Close Menu Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE Open Menu Close Menu Home Meet Rebecca Policy Priorities Take Action Endorsements Press DONATE TAKE ACTION TO HELP REBECCA.
+Donate to Rebecca's Campaign commit to voting for rebecca Volunteer For Rebecca's Campaign Get Your Team Reimer Yard Sign ENDORSE REBECCA & HER CAMPAIGN Register to Vote Request Your Absentee Ballot DONATE PAID FOR BY FRIENDS OF REBECCA REIMER Privacy Policy﻿

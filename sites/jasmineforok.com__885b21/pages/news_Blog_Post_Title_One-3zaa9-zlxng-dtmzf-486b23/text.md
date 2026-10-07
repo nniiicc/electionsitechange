@@ -1,6 +1,3 @@
-AP news: “Oklahoma primary runoff election results”
-2026 Election Results / AP NEWS
-Oklahoma Republicans return to the polls to settle an expensive nomination fight for governor, while Democrats pick a nominee for U.S.
+0 Skip to Content HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA Open Menu Close Menu HOME ABOUT POLICIES ENDORSEMENTS DONATE VOLUNTEER NEWS MEDIA AP news: “Oklahoma primary runoff election results” ARTICLE Sep 3 Written By Nkiyla Thomas 2026 Election Results / AP NEWS Oklahoma Republicans return to the polls to settle an expensive nomination fight for governor, while Democrats pick a nominee for U.S.
 Senate.
-Written By Nkiyla Thomas
-Next
+RUNOFF ELECTION RESULTS Nkiyla Thomas Next Next Tangle news: “Resurfaced TikTok of Democratic nominee for Oklahoma’s Senate seat goes viral.” Grassroots, community-driven, people-powered. © # Paid for By N'Kiyla For OK All Rights Reserved.

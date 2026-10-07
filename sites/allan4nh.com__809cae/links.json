@@ -1,8 +1,30 @@
 [
-"https://allan4nh.com/",
-"https://ballotpedia.org/Allan_Frank",
-"https://facebook.com/profile.php?id=61591440988701",
-"https://laconiadailysun.com/news/elections/frank-cites-school-funding-healthcare-cost-of-living-as-priorities-in-run-for-state-representative/article_5f1f13c5-6fb4-490f-ad08-23be2764908a.html",
-"https://secure.actblue.com/donate/alfrank4nh",
-"https://yahoo.com/news/politics/articles/republic-keep-served-presidents-both-100000253.html?guccounter=1"
+{
+"text": "About",
+"href": "https://www.allan4nh.com"
+},
+{
+"text": "Click HERE to view my Ballotpedia profile",
+"href": "https://ballotpedia.org/Allan_Frank"
+},
+{
+"text": "Contact",
+"href": "mailto:alfrank4nh@gmail.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/alfrank4nh"
+},
+{
+"text": "Read Article",
+"href": "https://www.laconiadailysun.com/news/elections/frank-cites-school-funding-healthcare-cost-of-living-as-priorities-in-run-for-state-representative/article_5f1f13c5-6fb4-490f-ad08-23be2764908a.html"
+},
+{
+"text": "Read Article",
+"href": "https://www.yahoo.com/news/politics/articles/republic-keep-served-presidents-both-100000253.html?guccounter=1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61591440988701"
+}
 ]

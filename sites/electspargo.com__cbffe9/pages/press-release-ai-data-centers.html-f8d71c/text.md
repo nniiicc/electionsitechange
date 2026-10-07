@@ -1,4 +1,5 @@
-Phoenix is running out of water.
+SPARGO FOR ARIZONA STATE REPRESENTATIVE FOR 2026!
+Home About Issues Gallery Endorsements Press Release Get Involved Donate Now The Problem with AI-Centers and Data Centers in Arizona Home Press Releases Op-Ed By Rick Spargo | AZ House of Representatives, LD3 Candidate | August 21, 2026 Phoenix is running out of water.
 That’s not a distant warning—it’s a present reality shaping every policy decision we make.
 So why are we welcoming one of the most water-intensive industries in the world into the heart of our desert?
 Artificial intelligence data centers are rapidly expanding across the country, and Arizona has become a prime target.
@@ -27,3 +28,7 @@ The bottom line is simple: if an industry cannot thrive without consuming vast a
 Arizona doesn’t need to chase every trend, especially one that risks our long-term water security for minimal local benefit.
 In the desert, survival has always depended on respecting limits.
 It’s time our economic strategy did the same.
+Share: ← Back to Press Releases Paid for by Spargo for Arizona.
+Authorized by Rick Spargo.
+Subscribe Now!
+SUBSCRIBE NOW PAID FOR BY SPARGO FOR ARIZONA AUTHORIZED BY RICK SPARGO Useful Links HOME ABOUT ISSUES GALLERY ENDORSEMENTS CONTACT WATER SECURITY AFFORDABILITY WHO TO VOTE FOR ARIZONA DEMOCRATS PAID FOR SPARGO FOR ARIZONA APPROVED BY RICK SPARGO Design By Xpert Solutions

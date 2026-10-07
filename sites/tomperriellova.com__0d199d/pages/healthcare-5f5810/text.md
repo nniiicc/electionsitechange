@@ -1,4 +1,5 @@
-Every American deserves access to quality, affordable health care.
+Skip navigation menu Home About Issues and Priorities Students Contact More Donate Healthcare You Can Afford Home About Issues and Priorities Students Contact More Donate Healthcare You Can Afford Every American deserves access to quality, affordable health care.
 But more and more families across our region face delays, denials of coverage, and long, expensive drives to find the nearest doctor.
 We cannot let insurance companies keep rationing care, driving up costs, and preventing doctors and nurses from providing the care they have trained their whole lives to provide, because insurance lobbyists paid this Congress to add on layer after layer of red tape and pre-authorizations.
 We need a system that rewards healthcare providers for keeping us healthy, and reverses the slow death of rural healthcare clinics, hospitals, and services.
+Why You Can Trust Tom Tom's Action Plan Privacy Policy Terms & Conditions Media Kit P.O Box 162 Ivy, Virginia 22945 For General Inquiries and Yard Signs: info@tomperriello.com For Media Inquiries: press@tomperriello.com Powered by RUN! website builder PAID FOR BY TOM PERRIELLO FOR CONGRESS You need to enable JavaScript to run this app.

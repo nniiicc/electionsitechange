@@ -1,17 +1,30 @@
 [
-"http://google.com/",
-"http://opera.com/help/tutorials/security/cookies",
-"https://cloudflare.com/cookie-policy",
-"https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en",
-"https://google.com/policies/privacy",
-"https://networksolutions.com/",
-"https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy",
-"https://privacyshield.gov/",
-"https://support.apple.com/guide/safari/privacy-sfri35610/mac",
-"https://support.google.com/chrome/answer/95647?hl=en",
-"https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies",
-"https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences",
-"https://votetroyredler.com/",
-"https://votetroyredler.com/contact",
-"https://votetroyredler.com/privacy-and-cookies-policy"
+{
+"text": "Contact",
+"href": "https://votetroyredler.com/contact/"
+},
+{
+"text": "Home",
+"href": "https://votetroyredler.com/"
+},
+{
+"text": "Network Solutions, LLC.",
+"href": "https://www.networksolutions.com/"
+},
+{
+"text": "Vote for Troy Redler",
+"href": "https://votetroyredler.com/"
+},
+{
+"text": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en",
+"href": "https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
+},
+{
+"text": "https://www.cloudflare.com/cookie-policy/",
+"href": "https://www.cloudflare.com/cookie-policy/"
+},
+{
+"text": "https://www.privacyshield.gov",
+"href": "https://www.privacyshield.gov"
+}
 ]

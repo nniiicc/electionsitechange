@@ -1,8 +1,6 @@
-June 2026
-At the dinner table of my friends Christopher and Zoë's homely home last August, the topic of their upcoming wedding was at hand.
+Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Back to all Dreams from Rome Dreams from Rome Dreams from Rome Aug 1, 2026 Aug 1, 2026 June 2026 Roman Forum - Friday 3 July 2026 0600 - By JoW Roman Forum - Friday 3 July 2026 0600 - By JoW 0:00 / 1:34 At the dinner table of my friends Christopher and Zoë's homely home last August, the topic of their upcoming wedding was at hand.
 "We have to tell you, the location has changed.
-We're getting married in Italy."
-My first thought was "I can't wait to see the pictures".
+We're getting married in Italy." My first thought was "I can't wait to see the pictures".
 I sincerely was overjoyed that my two beautiful friends were going to celebrate their love in a place I knew meant so much to them both, for a variety of reasons.
 In the next instant I heard; “Oh, and you're coming with”.
 I just about fell out of my seat when I heard that.
@@ -21,8 +19,7 @@ As the clock struck a late hour, and we all rose to depart after a lovely meal w
 Finally, I muster the courage to ask.
 Before I can fully finish my thought - "We've already discussed it.
 We have a spare room.
-You are welcome to stay.”
-I like to say, I don't cry much at all.
+You are welcome to stay.” I like to say, I don't cry much at all.
 Tears just happen to fall from my eyes from time to time.
 The ride back that night, may have been one of those times.
 Very shortly after that, I was living in the homely home.
@@ -31,11 +28,10 @@ With short notice, that became March, and as the Spring month came around - so d
 As well as the auxiliary plans surrounding it.
 I had no deadline to leave, and was consistently told I was still welcome to stay - even dubbed an honorary Diloreto by Chris's father by the end.
 And I was honored by their Grace.
-250 years ago, you needed to be a man who owned property, alongside a host of other requirements, in order to serve in office.
+Environment and Agriculture '25-26 - Last day of Committee - Photographer unkn Environment and Agriculture '25-26 - Last day of Committee - Photographer unkn #ago, you needed to be a man who owned property, alongside a host of other requirements, in order to serve in office.
 It was the slow consistent effort by those who believed in a republic, truly representative of those it governs, who changed that paradigm.
 Up until the late 70s, you had to be 21 years old to vote.
-It wasn't until the soldiers fighting the war in Vietnam said, ‘if we're old enough to serve you on the battlefield, we’re old enough to participate in the system that sends us to those battlefields.”
-Only then did the State House open its doors to those over the age of 18.
+It wasn't until the soldiers fighting the war in Vietnam said, ‘if we're old enough to serve you on the battlefield, we’re old enough to participate in the system that sends us to those battlefields.” Only then did the State House open its doors to those over the age of 18.
 Ever since, 18, 19, 20 year-olds have weaseled their way into serving in the the State House one way or the other, participating largely as equals amongst their elders.
 However, unspoken judgment from the puritanical core within the New English spirit looms in many of us still to this day.
 By the coming of Spring in late March, I was working a deck job in Penacook, and doing some topography surveying, while in the throes of what has been described by many with the credibility to say so as; the worst session of the House in decades.
@@ -64,7 +60,9 @@ If you know Carol, you know that she's going to feed you, and won't take no for 
 Our conversation ended with a plan for me to live in one of the apartments on her property, and serve as an extra pair of hands for the management of it.
 The ember in my spirit set aflame once more; and a few days after that, I made the trek to the Town House to file for re-election.
 With full confidence in my ability to continue to weather the craziness of the legislative/personal balance that comes with living a healthy life while in public service.
-Our final session day came a day afterwards on 4 June.
+Family Day - Thursday 4 June 2026 1410 - By Rep.
+Molly Howard Family Day - Thursday 4 June 2026 1410 - By Rep.
+Molly Howard Our final session day came a day afterwards on 4 June.
 For the first time, I was able to wrangle some of my closest family and friends to join me for a day where the full House met in session.
 It's not often I write remarks when descending to the well of the House.
 My philosophy on the matter is, true deliberation isn't scripted, and if you need notes to speak on an issue, don't take the well at the House.
@@ -90,7 +88,7 @@ The overwhelming response from every end of the spectrum of characters in the bo
 Walking down the ten granite steps of our two hundred and seven year-old temple to our States’ constitutional republic, saying my summer goodbyes to the friends, and friendly foes of the session, reflecting on all that has transpired; and all that is to come with the personal balance found more centered than ever before - the 169th General court's regular session had come to a close.
 The following two weeks were spent getting myself into my apartment, building a garden, doing some carpentry and topography surveys for extra cash, meeting with colleagues to recap the session and finding my rhythm as Carol’s assistant.
 All leading up to that which didn't feel real until the day I left; Italy.
-Hopping onto the commuter in Fitchburg the morning of Monday the 22nd, with all my effects in my carry-on and computer bag, I was set for my Boston flight to Philadelphia.
+Movin' - 13 June 2026 19:51 - By JoW Movin' - 13 June 2026 19:51 - By JoW Hopping onto the commuter in Fitchburg the morning of Monday the 22nd, with all my effects in my carry-on and computer bag, I was set for my Boston flight to Philadelphia.
 The night prior had been rocky, and by the point it smoothed out, I had to stay up in order to make my morning train.
 Getting a solid half hour nap in before the crack of dawn.
 By the time I was snug in my seat on the train, with Sade in my ear, singing a song about war (and what he had to go through), I was fast asleep.
@@ -130,7 +128,9 @@ Oh, and did I mention my phone had been dead?
 After exchanging our goodbyes, I took the directions I wrote from the cops’ Italian instructions, and made my way through Napoli in 100° weather on virtually no sleep.
 Retrieving my item, and then getting directions from the Italian security guard for the several buses down the coast to Vietri, with warnings about some of the areas I'd be going through to get there.
 8 o'clock that evening I got off the bus in Vietri Sul Mare.
-Which happened to be in the midst of its annual celebration to the town's patron Saint, John the Baptist.
+The Light of St.
+Peter's Basillica - 2 July 2026 18:18 - By JoW The Light of St.
+Peter's Basillica - 2 July 2026 18:18 - By JoW Which happened to be in the midst of its annual celebration to the town's patron Saint, John the Baptist.
 A mob of people flooded the small town.
 You couldn't move an inch without bumping into somebody.
 This is the first time throughout this arduous journey when I truly felt lost, because while I remembered the town's name; the villa’s address was on my dead phone.
@@ -144,7 +144,7 @@ So I sat on the terrace until Chris's son came out with a charged phone getting 
 We walked the beach as the fireworks and cannon burst throughout the town.
 The bells of the church rung mightily, all of which echoed off the walls of the cliffs of the Amalfi.
 It was stunning and finally all felt real; I am in Italy.
-When I woke up that Thursday morning, I took the best shower of my life, put on new clothes for the first time since I left Monday morning; and putzed around, exploring the villa.
+The Wedding - 27 June 2026 18:21 - By JoW The Wedding - 27 June 2026 18:21 - By JoW When I woke up that Thursday morning, I took the best shower of my life, put on new clothes for the first time since I left Monday morning; and putzed around, exploring the villa.
 Which was originally a papermill in the late 18th century, morphing throughout the years becoming apartments for the family who owns the property after the war, and a tourist spot after that.
 There are generations stacked on top of each other, a theme which was prevalent throughout Italy.
 The plan for that day was Pompeii.
@@ -155,7 +155,7 @@ Everyone attempting to forge different paths through the city of old as we're al
 All I could see were old walls, I couldn't conceptualize where I was in that moment with all that was going on.
 We made it to the museum first and after running around it for a moment, I decided to split off.
 I walked into a sub room with a few items from the dig and was immediately engrossed in an indescribable feeling.
-Staring into the eyes of a bronze mask crafted 2000 years ago.
+Staring into the eyes of a bronze mask crafted #ago.
 I stayed in that room for a moment before finding my way up to the actual site.
 Where the feeling only continued to grow.
 I found myself on the main road into town, where my path crossed with Chris, Zoë and crew.
@@ -178,7 +178,7 @@ Who eventually spread out a quickly dissolving map, where all but where we were 
 Then b-lining it for the maintenance shed nearby, where a group of French students were also waiting out the storm.
 As quickly as it came, it went.
 I found a bus back to Vietri, and watched a rainbow grace the sky.
-The next couple days, including the wedding, I will keep mostly private.
+First Dance - 27 June 2026 18:39 - By JoW First Dance - 27 June 2026 18:39 - By JoW The next couple days, including the wedding, I will keep mostly private.
 Though, I will say it was a ceremony that lived up to the magic of those two incredible beings.
 The music was beautifully performed by Clover.
 The wedding was ordained by Chris's mother in the most special of ways.
@@ -189,13 +189,12 @@ The son of her friend had come up to her earlier that day.
 Thanking Zoë for bringing him along.
 Saying he knew he was just tagging along with his mother, but that it meant a lot Zoë allowed him to come.
 She stopped him; ‘my friend, everyone here, including you and your siblings, are here because your presence was requested.
-No one here is just tagging along.’
-Turning to all those sitting on the terrace with her, she emphasized it again; telling us how much it meant to her to see everyone enjoy the time they had curated to have with this particular group.
+No one here is just tagging along.’ Turning to all those sitting on the terrace with her, she emphasized it again; telling us how much it meant to her to see everyone enjoy the time they had curated to have with this particular group.
 In today’s world, many of us feel unseen.
 As people, we all seek to be seen.
 In that moment, Zoë made every one of us feel seen.
 It’s moments such as those which make life worth living.
-While buying my tickets, Chris and Zoë put the idea of spending a week in Rome in my head, and it didn't take much convincing for me to take some extra days to explore the city of myth alone.
+Trastevere - 28 June 2026 22:22 - By JoW Trastevere - 28 June 2026 22:22 - By JoW While buying my tickets, Chris and Zoë put the idea of spending a week in Rome in my head, and it didn't take much convincing for me to take some extra days to explore the city of myth alone.
 So I got myself a bed, and after we all said our goodbyes in Vietri, I was on a train to Rome.
 The first sign of the city came miles outside of it, when I saw the aqueducts towering over the landscape.
 These monuments of public works, built thousands of years ago, to provide a steady stream of clean water to the city via the fountain system; standing weathered, but tall, as an ancient testament to humanity.
@@ -216,7 +215,7 @@ Who blessed me with the courage to return to the States, showing me the impressi
 Our conversation throughout the two final days was the perfect bookend to a dream from Rome.
 A dream which I will cherish beyond the end of my days.
 A dream which has set my ember ablaze.
-These letters are most often comprised of notes I've taken throughout the month they're being written about.
+Light - 1 July 2026 18:43 - By JoW Light - 1 July 2026 18:43 - By JoW These letters are most often comprised of notes I've taken throughout the month they're being written about.
 Usually time is allocated a day or so before the end of the month to make them into a somewhat coherent narrative.
 With my time in Rome, ending on 3 July, I made the decision to wait until my return to compile the letter.
 I returned, and immediately was rushed to all the business of July, which I will get it to in that letter, not making time to sit down to write it all out until now, the evening of August 1, recording it on August 2.
@@ -232,10 +231,9 @@ Although, after a long discussion, it became clear that it wasn't about that at 
 Italy, was the culmination of years of friendship, family, hard work, and the never-ending gratitude for it all.
 "These are your dreams from Rome.
 You must mention it.
-There is no other way.”
-I return to the States, inspired by my dreams of the Roman reverence for the public good, displayed in a myriad of ways throughout the city.
+There is no other way.” I return to the States, inspired by my dreams of the Roman reverence for the public good, displayed in a myriad of ways throughout the city.
 I am inspired by the temples to civilization dug up from the time of myth.
 I am comforted by the fact that, despite it’s many collapses, it was always rebuilt.
 It's proof to me, as I return to our moment of tumult, that no matter what, humanity will prevail.
 My dream from Rome is that, despite the chaos of the present, one day, we too will be no more than myths and stone.
-Back to all
+Pompeii - 25 June 2026 16:53 - By JoW Pompeii - 25 June 2026 16:53 - By JoW ‹ The Fleeting Nature of the Present ‹ The Fleeting Nature of the Present ‹ The Fleeting Nature of the Present Citizen, or Subject? › Citizen, or Subject? › Citizen, or Subject? › Back to all

@@ -1,5 +1,3 @@
-Wed, Oct 07
-Ventura
-Join us for a meet & greet.
-Oct 07, 2026, 6:00 PM – 7:30 PM
-Ventura, Ventura, CA, USA
+top of page MENU MENU Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Wed, Oct 07 | Ventura Meet & Greet hosted by Saurabh and Madhu Bajaj Join us for a meet & greet.
+RSVP Time & Location Oct 07, 2026, 6:00 PM – 7:30 PM Ventura, Ventura, CA, USA Guests See All About the event Show More RSVP Share this event Home Meet Michael Our Priorities The Plan The Plan Join the Campaign Donate Events Endorsements Michael MacDonald for Assembly District 38 2674 E.
+Main Street, Suite 316 Ventura, CA 93003 info@michaelmacdonaldforassembly.com Paid for by Michael MacDonald for Assembly 2026 | FPPC ID#1488242 bottom of page

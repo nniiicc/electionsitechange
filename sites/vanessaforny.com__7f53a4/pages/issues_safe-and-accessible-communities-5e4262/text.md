@@ -1,7 +1,5 @@
-vanessa believes in
-Safe and Accessible Communities
-Everyone deserves to feel safe in their homes, at their places of worship, on their streets, and in their communities.
+Skip navigation menu Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Home About Issues Assembly District 73 Endorsements Events News Volunteer Contact Us Donate Affordable Communities & Housing Affordable, High-Quality Healthcare Safe and Accessible Communities Strong Public Education Clean and Healthy Communities Championing the LGBTQ+ Community Vibrant Communities Where Seniors Can Age in Place Transparent and Responsive Government vanessa believes in Safe and Accessible Communities Everyone deserves to feel safe in their homes, at their places of worship, on their streets, and in their communities.
 I will support smart, evidence-based strategies to reduce crime, combat antisemitism and other forms of hate, and strengthen trust between communities and those responsible for public safety.
 I will work to improve street safety by strengthening regulations and enforcement around vehicles like mopeds and e-bikes, and by holding large delivery platforms accountable for unsafe practices that put both workers and pedestrians at risk.
 Accessibility must also be central to how we design our communities.
-I will support investments in infrastructure that make our streets safer and more navigable for everyone, including seniors, people with disabilities, and families with strollers.
+I will support investments in infrastructure that make our streets safer and more navigable for everyone, including seniors, people with disabilities, and families with strollers. vanessa@vanessaforny.com Powered by RUN! website builder Paid for by Vanessa for NY You need to enable JavaScript to run this app.

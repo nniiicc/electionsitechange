@@ -1,5 +1,8 @@
+Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS More Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate Julie Dahlberg for Texas Senate It's time to restore and protect our liberty, our families and our hope for the future.
 We can no longer tolerate government systems that reward those who work solely to benefit their own interests, at the expense of our children & grandchildren.
-People often ask me why I decided to run for the Texas Senate.
+SIGN UP FOR EMAIL UPDATES & TO VOLUNTEER SEND A SUGGESTION OR ENDORSEMENT MESSAGE DONATE CAMPAIGN SIGNS Texas Senate District 21 includes: Dimmit, Duval, Caldwell, Jim Hogg, Karnes, La Salle, Live Oak, McMullen, Starr, Webb, Wilson & Zapata counties, and portions of Bexar, Hays, Guadalupe & Travis counties.
+Click the map to zoom in.
+Why I'm Running People often ask me why I decided to run for the Texas Senate.
 The answer isn't that I always dreamed of holding public office.
 In fact, I never did.
 My journey began in 2019 when I volunteered to help manage another candidate's campaign for this very Senate seat.
@@ -20,10 +23,8 @@ We have an opportunity to restore confidence in government through transparency 
 We can protect election integrity so every legal vote counts and every citizen has confidence in the outcome.
 We can secure our long-term water and energy future, strengthen agriculture, eliminate Texas' property tax system and replace it with a fair consumption-based tax system, protect every innocent human life through equal protection under the law, expand economic opportunity, and ensure that future generations inherit a stronger South Texas than the one entrusted to us.
 These aren't isolated issues.
-They're all connected by one guiding principle:
-Faithful stewardship.
-Whether we're talking about taxpayer dollars, water resources, constitutional freedoms, public safety, or the trust citizens place in their elected officials, every decision should begin with one question:
-What does faithful stewardship require of us here?
+They're all connected by one guiding principle: Faithful stewardship.
+Whether we're talking about taxpayer dollars, water resources, constitutional freedoms, public safety, or the trust citizens place in their elected officials, every decision should begin with one question: What does faithful stewardship require of us here?
 That question has guided my work in nonprofits, business, ministry, and community service.
 It is the same question I will ask, as your State Senator.
 I'm not running because I believe I have all the answers.
@@ -34,6 +35,7 @@ It belongs to the people.
 It is simply entrusted to someone for a season.
 If you choose to entrust me with that responsibility, I will work every day to earn your trust through integrity, accountability, transparency, and faithful stewardship.
 Together, I believe we can leave South Texas stronger than we found it - for our children, our grandchildren, and generations yet to come.
-Political Ad.
+Visit the Campaign Shop Campaign Photos - 2022 to present JOIN THE CONVERSATION ON SOCIAL Political Ad.
 Pd. by Julie Dahlberg for Texas Senate Campaign.
-Copyright © 2026 Julie for Texas Senate - All Rights Reserved.
+Copyright © # Julie for Texas Senate - All Rights Reserved.
+Home PRIORITY ISSUES DONATE NEWS & EVENTS MINISTRY SUPPORT PROJECT MEET JULIE Contact SIGNS

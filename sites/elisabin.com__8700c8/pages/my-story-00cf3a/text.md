@@ -1,10 +1,6 @@
-top of page
-Eli's Story
-New Haven Born & Raised
-Former Director of the Progressive Caucus in the Connecticut State House
-Three-Term Member of the New Haven Board of Alders
-Legislative Coordinator at Connecticut Voices for Children
-I was born and raised in New Haven.
+top of page Home Vote for Eli My Story Priorities Record Endorsements In the News More...
+Use tab to navigate through the menu items.
+VOLUNTEER NEW: My Vision For Supporting Our Public Schools Read my recent plans here Eli's Story New Haven Born & Raised Former Director of the Progressive Caucus in the Connecticut State House Three-Term Member of the New Haven Board of Alders Legislative Coordinator at Connecticut Voices for Children I was born and raised in New Haven.
 Growing up, my family and my faith taught me that each of us has an obligation to do everything we can to help other people.
 When I was in high school, I decided I wanted to dedicate my life to public service.
 I tutored at Mauro Sheridan and volunteered to help kids learn English at Elm City Internationals.
@@ -20,14 +16,12 @@ And I saw that working in state and local government offered a path for fighting
 Six years ago, I ran for and won a seat on the New Haven Board of Alders.
 I also helped organize and then directed the Connecticut General Assembly's Progressive Caucus.
 Four years ago, I started working as the Legislative Coordinator at Connecticut Voices for Children.
-Giving it all in Westville Little League back in the day
-Tutoring recently immigrated students at Elm City Internationals
-Knocking on doors in Fair Haven to help people get vaccinated
-Throughout this work, I've been focused on the common goals of making life easier for families, restoring faith in government, and building a safer, more affordable, and more fair future.
+Giving it all in Westville Little League back in the day Tutoring recently immigrated students at Elm City Internationals Knocking on doors in Fair Haven to help people get vaccinated Throughout this work, I've been focused on the common goals of making life easier for families, restoring faith in government, and building a safer, more affordable, and more fair future.
 My approach has been to show up, listen, and figure out how to solve problems together.
 Serving in the state legislature is a chance to help make Connecticut the best it can be—a place with an economy where everyone can build a good life and where we protect the most vulnerable.
 I can't wait to meet you out on the campaign trail in Westville, Amity, Edgewood, West River, Dwight and the Hill to talk with you about your concerns and priorities.
 Together, I know we can build a safer, more affordable, and more fair New Haven and Connecticut, and rebuild our democracy in the process.
-With gratitude and hope,
-Eli
-bottom of page
+With gratitude and hope, Eli Paid for by Friends of Eli Sabin, Jen Quaye-Hudson, Treasurer.
+Ina Silverman, Deputy Treasurer.
+Approved by Eli Sabin.
+Reach out anytime at eli@elisabin.com or 203-980-0335 ​ View our privacy policy here . bottom of page

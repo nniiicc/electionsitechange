@@ -1,11 +1,42 @@
 [
-"https://forms.gle/M454ZXCh81LGCQDf6",
-"https://forms.gle/w9EZiGHUYtLvGokZ7",
-"https://nhlovetttogether.com/",
-"https://nhlovetttogether.com/about",
-"https://nhlovetttogether.com/contact-us",
-"https://nhlovetttogether.com/donate",
-"https://nhlovetttogether.com/get-involved",
-"https://nhlovetttogether.com/get-involved/events",
-"https://secure.actblue.com/donate/lovettfornh"
+{
+"text": "About",
+"href": "https://www.nhlovetttogether.com/about/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.nhlovetttogether.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/lovettfornh"
+},
+{
+"text": "Donate",
+"href": "https://www.nhlovetttogether.com/donate/"
+},
+{
+"text": "Events",
+"href": "https://www.nhlovetttogether.com/get-involved/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.nhlovetttogether.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://www.nhlovetttogether.com/"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/M454ZXCh81LGCQDf6"
+},
+{
+"text": "[image]",
+"href": "https://forms.gle/w9EZiGHUYtLvGokZ7"
+},
+{
+"text": "[no text]",
+"href": "https://www.nhlovetttogether.com/"
+}
 ]

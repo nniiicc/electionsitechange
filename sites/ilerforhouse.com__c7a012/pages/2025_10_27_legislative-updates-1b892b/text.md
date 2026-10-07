@@ -1,5 +1,4 @@
-Legislative Updates
-Last week at the North Carolina General Assembly saw major bills acted on in a short two-day special session.
+Skip to content Common Sense - Competent - Conservative Home About Frank Iler Accomplishments Issues News Legislative Updates Donate Contact Legislative Updates By Frank Iler | October 27, 2025 Last week at the North Carolina General Assembly saw major bills acted on in a short two-day special session.
 They included major investments in Medicaid, salary and bonuses for teachers, state employees, and law enforcement, making essential budget adjustments, and adjusting 2 Congressional districts.
 Senate Bill 405 – Healthcare Investment Act provides $192 million to the Medicaid program, among other provisions.
 It passed 110 – 0 in the House and goes back to the Senate, since it was changed in the House.
@@ -22,3 +21,5 @@ I will add that I encourage all my friends and colleagues to have personal prote
 We should be back in our districts until sometime in November.
 The best part of the job is meeting with and listening to our citizens back home.
 I go to Raleigh when I absolutely must to conduct committee business and attend voting sessions.
+Posted in Legislative Updates © # Frank Iler for N.C.
+House – Brunswick County, N.C. | Powered by Beaver Builder

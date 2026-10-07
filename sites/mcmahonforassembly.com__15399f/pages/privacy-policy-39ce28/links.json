@@ -1,12 +1,46 @@
 [
-"https://facebook.com/McMahonforNYS",
-"https://mcmahonforassembly.com/",
-"https://mcmahonforassembly.com/about-karen",
-"https://mcmahonforassembly.com/contact-us",
-"https://mcmahonforassembly.com/endorsements",
-"https://mcmahonforassembly.com/get-involved",
-"https://mcmahonforassembly.com/the-issues",
-"https://mcmahonforassembly.com/three-ways-to-vote",
-"https://secure.actblue.com/donate/karen-mcmahon",
-"https://x.com/McMahonforNYS"
+{
+"text": "About Karen",
+"href": "https://www.mcmahonforassembly.com/about-karen"
+},
+{
+"text": "Contact Us",
+"href": "https://www.mcmahonforassembly.com/contact-us"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/karen-mcmahon"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcmahonforassembly.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.mcmahonforassembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.mcmahonforassembly.com/"
+},
+{
+"text": "The Issues",
+"href": "https://www.mcmahonforassembly.com/the-issues"
+},
+{
+"text": "Three Ways to Vote",
+"href": "https://www.mcmahonforassembly.com/three-ways-to-vote"
+},
+{
+"text": "[image: Karen McMahon for New York State Assembly]",
+"href": "https://www.mcmahonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/McMahonforNYS/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/McMahonforNYS"
+}
 ]

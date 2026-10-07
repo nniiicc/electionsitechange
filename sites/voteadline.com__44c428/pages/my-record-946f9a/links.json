@@ -1,10 +1,42 @@
 [
-"https://facebook.com/RepAdlineClarke",
-"https://voteadline.com/",
-"https://voteadline.com/about-adline",
-"https://voteadline.com/am-i-in-district-97",
-"https://voteadline.com/gallery",
-"https://voteadline.com/let-me-hear-from-you",
-"https://voteadline.com/my-record",
-"https://voteadline.com/platform"
+{
+"text": "ABOUT ADLINE",
+"href": "https://www.voteadline.com/about-adline"
+},
+{
+"text": "CONTACT",
+"href": "https://www.voteadline.com/let-me-hear-from-you"
+},
+{
+"text": "DISTRICT MAP",
+"href": "https://www.voteadline.com/am-i-in-district-97"
+},
+{
+"text": "Facebook page",
+"href": "https://www.facebook.com/RepAdlineClarke/"
+},
+{
+"text": "GALLERY",
+"href": "https://www.voteadline.com/gallery"
+},
+{
+"text": "HOME",
+"href": "https://www.voteadline.com"
+},
+{
+"text": "MY RECORD",
+"href": "https://www.voteadline.com/my-record"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.voteadline.com/platform"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/RepAdlineClarke/"
+},
+{
+"text": "aclarkehd97@gmail.com",
+"href": "mailto:aclarkehd97@gmail.com"
+}
 ]

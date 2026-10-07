@@ -1,9 +1,30 @@
 [
-"https://geibler.org/",
-"https://geibler.org/about",
-"https://geibler.org/cart",
-"https://geibler.org/contact",
-"https://givebutter.com/geibler-for-maryland-senate-7-zh7u1w",
-"https://squarespace.com/",
-"https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+{
+"text": "0",
+"href": "https://www.geibler.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.geibler.org/about"
+},
+{
+"text": "Contact",
+"href": "https://www.geibler.org/contact"
+},
+{
+"text": "Help Me Win",
+"href": "https://givebutter.com/geibler-for-maryland-senate-7-zh7u1w"
+},
+{
+"text": "Register to Vote",
+"href": "https://voterservices.elections.maryland.gov/OnlineVoterRegistration/InstructionsStep1"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.geibler.org/"
+}
 ]

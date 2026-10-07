@@ -1,6 +1,6 @@
-Meet State Rep.
-Monica Duran
-I am the House Representative for House District 23 and the House Majority Leader.
+top of page About Legislation Leadership and Committees Updates Issues Endorsements More Use tab to navigate through the menu items.
+Contribute Meet State Rep.
+Monica Duran I am the House Representative for House District 23 and the House Majority Leader.
 I am so excited to represent my district and our caucus.
 I learned as a young child how to fight back against injustice, as I watched my mother and her siblings march alongside Dolores Huerta fighting for better working conditions, fair wages, and the right to unionize.
 As a young adult I took on a very personal battle of my own.
@@ -16,9 +16,13 @@ I have led legislation to improve wages for home care workers, maintain sibling 
 I have fought hard to protect the environment, combat climate change, fought for society's most vulnerable, promoted student success, and worked to address the problem of affordable housing.
 During the 2024 legislative session, I co-sponsored numerous bills such as HB24-1174, Concealed Carry Permits & Training, HB24-1122 Protection Orders for Victims Against Crimes, and SB24-218, Modernizing Energy Distribution Systems.
 As we know in the past, Colorado has faced significant climate change issues, and SB24-218, ensures that Colorado is on track to meet it's climate goals.
+To learn more about the bills I have prime sponsored or co-sponsored that help my community click here .
 I currently serve on two committees at the State Capitol: Executive Committee and Legislative Council.
 This session I was also very grateful to earn the support of my colleagues by being elected to serve as the House Majority Leader.
 I am proud to be a member of the Colorado Democratic Latino Caucus, the Colorado Legislative Animal Welfare (CLAW) Caucus, and the Children's Caucus.
 There is still much work to be done, and I look forward to continuing to serve at the Capitol with a focus on protecting survivors of domestic violence, passing common-sense gun safety laws, advancing consumer protections, supporting our small businesses, healthcare including reproductive health care, and protecting our land, air, and water.
 I have met so many neighbors in my community with their own powerful stories during my time as your representative and I am committed to leveling the playing field for all of us.
 I look forward to continuing to work together with you, to create collaborative change in Colorado!
+Subscribe Volunteer Contribute Contact Me Official State Page Gallery Resources Monica PAC Paid for by Duran for Colorado, Registered Agent: Monica Duran; and Monica PAC, Registered Agent: Monica Duran.
+Copyright © # - # .
+All rights reserved. bottom of page

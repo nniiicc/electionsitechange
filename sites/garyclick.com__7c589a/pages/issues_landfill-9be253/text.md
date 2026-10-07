@@ -1,5 +1,4 @@
-Sunny Farms Landfill
-One of the more prominent local issues that demands the attention our state representative is the WINWaste Seneca County Landfill (Sunny Farms Landfill).
+Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Home ❭ On the Issues ❭ Sunny Farms Landfill Sunny Farms Landfill One of the more prominent local issues that demands the attention our state representative is the WINWaste Seneca County Landfill (Sunny Farms Landfill).
 The concerns go far beyond the offensive odor that led neighbors to inform me that they cannot even hang their clothes out to dry.
 Residents justifiably feel like their voices and concerns about public health and environmental safety have been ignored at the expense of a large corporation bringing out of state trash into their community.
 As the state representative of the 88th district, I am committed to advancing the long-term interests of the people of Fostoria over the economic promises that may cost us and our children their health and security.
@@ -15,4 +14,4 @@ My pledge is to do all that is in my power to facilitate these efforts.
 Although many efforts to reign in the landfill and oppose its expansion have met legal roadbloacks, I was proud to issue a letter to the Ohio EPA in 2022 opposing the landfill's bid for expansion.
 I happily added my signature to Senator Bill Reineke's letter to Governor DeWine and the Ohio EPA alongside various local officials requesting that the landfill expansion be denied.
 Lastly, I have advocated for a vote on SB 119 in the House Energy and Natural Resources Committee; a bill of Senator Reineke's which would divert extra resources toward oversight of the landfill, among other things.
-In the meantime, I have been conducting legislative research of my own, exploring alternative options to ensure the safety and well-being of the community without running afoul of federal law.
+In the meantime, I have been conducting legislative research of my own, exploring alternative options to ensure the safety and well-being of the community without running afoul of federal law. « Previous: Unfunded Mandates for Local Municipalities The Committee to Elect Gary Click Jerri Miller, Treasurer Powered by CampaignPartner.com - Political Websites Home About Gary Events News On the Issues Photo Gallery Contact privacy policy Close Menu

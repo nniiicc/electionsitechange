@@ -1,14 +1,58 @@
 [
-"https://amyr4ohio.org/",
-"https://amyr4ohio.org/cart",
-"https://amyr4ohio.org/contact",
-"https://amyr4ohio.org/swag-merch",
-"https://amyr4ohio.org/topics",
-"https://amyr4ohio.org/voter-info",
-"https://canva.com/design/DAG_Po66fNc/zzWFIwEnjHtgqLCOI2cY-A/view?utlId=h9d14013583",
-"https://forms.gle/NiKEM55ypxB4tDbh6",
-"https://ohiohouse.gov/members/district-map",
-"https://olvr.ohiosos.gov/",
-"https://secure.actblue.com/donate/amy-rigsby-2",
-"https://voterlookup.ohiosos.gov/voterlookup.aspx"
+{
+"text": "0",
+"href": "https://www.amyr4ohio.org/cart"
+},
+{
+"text": "About",
+"href": "https://www.amyr4ohio.org/"
+},
+{
+"text": "Contact",
+"href": "https://www.amyr4ohio.org/contact"
+},
+{
+"text": "District Look Up",
+"href": "https://ohiohouse.gov/members/district-map"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/amy-rigsby-2"
+},
+{
+"text": "Learn More Here",
+"href": "https://forms.gle/NiKEM55ypxB4tDbh6"
+},
+{
+"text": "Read my Rights",
+"href": "https://www.canva.com/design/DAG_Po66fNc/zzWFIwEnjHtgqLCOI2cY-A/view?utlId=h9d14013583"
+},
+{
+"text": "Register to Vote",
+"href": "https://olvr.ohiosos.gov/"
+},
+{
+"text": "Rigsby 4 Representative",
+"href": "https://www.amyr4ohio.org/"
+},
+{
+"text": "Swag & Merch",
+"href": "https://www.amyr4ohio.org/swag-merch"
+},
+{
+"text": "Topics",
+"href": "https://www.amyr4ohio.org/topics"
+},
+{
+"text": "Voter Info",
+"href": "https://www.amyr4ohio.org/voter-info"
+},
+{
+"text": "Voter Search",
+"href": "https://voterlookup.ohiosos.gov/voterlookup.aspx"
+},
+{
+"text": "[image: Rigsby 4 Representative]",
+"href": "https://www.amyr4ohio.org/"
+}
 ]

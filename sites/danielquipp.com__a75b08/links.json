@@ -1,5 +1,22 @@
 [
-"https://danielquipp.com/",
-"https://danielquipp.com/media",
-"https://secure.actblue.com/donate/danielquipp"
+{
+"text": "Daniel Quipp for Windham-8",
+"href": "https://danielquipp.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/danielquipp"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/danielquipp"
+},
+{
+"text": "Media",
+"href": "https://danielquipp.com/media"
+},
+{
+"text": "hello@danielquipp.com",
+"href": "mailto:hello@danielquipp.com"
+}
 ]

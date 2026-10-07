@@ -1,16 +1,74 @@
 [
-"https://bsky.app/profile/electsharonmac.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSciJjUWyp6_uUTAg5UHlgZIB2I_8VFydWPss1yrNDHZRB4LrA/viewform",
-"https://docs.google.com/forms/d/e/1FAIpQLScso_X4_UnLYs_ZiJ9NgPJzu7_wDb4heekA8348Rs5NNPxYDA/viewform",
-"https://electsharonmac.com/",
-"https://electsharonmac.com/meet-sharon",
-"https://electsharonmac.com/my-platform",
-"https://electsharonmac.com/my-record",
-"https://electsharonmac.com/privacy-policy",
-"https://electsharonmac.com/services-5",
-"https://electsharonmac.com/stay-in-touch",
-"https://electsharonmac.com/terms-and-conditions",
-"https://facebook.com/electsharonmacdonell",
-"https://instagram.com/electsharonmac",
-"https://secure.actblue.com/donate/electsharonmac26"
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/electsharonmac26"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electsharonmac.com/services-5"
+},
+{
+"text": "Home",
+"href": "https://www.electsharonmac.com"
+},
+{
+"text": "Meet Sharon",
+"href": "https://www.electsharonmac.com/meet-sharon"
+},
+{
+"text": "My Platform",
+"href": "https://www.electsharonmac.com/my-platform"
+},
+{
+"text": "My Record",
+"href": "https://www.electsharonmac.com/my-record"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.electsharonmac.com/privacy-policy"
+},
+{
+"text": "REQUEST YOUR LAWN SIGN",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScso_X4_UnLYs_ZiJ9NgPJzu7_wDb4heekA8348Rs5NNPxYDA/viewform"
+},
+{
+"text": "Sign up for my newsletter below:",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSciJjUWyp6_uUTAg5UHlgZIB2I_8VFydWPss1yrNDHZRB4LrA/viewform"
+},
+{
+"text": "Stay in Touch!",
+"href": "https://www.electsharonmac.com/stay-in-touch"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.electsharonmac.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electsharonmacdonell"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/electsharonmac/"
+},
+{
+"text": "[image: bluesky]",
+"href": "https://bsky.app/profile/electsharonmac.bsky.social"
+},
+{
+"text": "electsharonmac@gmail.com",
+"href": "mailto:electsharonmac@gmail.com"
+},
+{
+"text": "electsharonmac@gmail.com",
+"href": "mailto:electsharonmac@gmail.com?subject=From+your+website"
+},
+{
+"text": "here",
+"href": "https://www.electsharonmac.com/privacy-policy"
+},
+{
+"text": "here",
+"href": "https://www.electsharonmac.com/terms-and-conditions"
+}
 ]

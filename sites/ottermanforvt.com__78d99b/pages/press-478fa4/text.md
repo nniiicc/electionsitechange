@@ -1,18 +1,6 @@
-Press Page
-Want to learn more about Aiden and his press engagements?
+0 Skip to Content Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate Open Menu Close Menu Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate Open Menu Close Menu Home Platform Meet Aiden Press Get Involved!
+Endorsements Donate Press Page Want to learn more about Aiden and his press engagements?
 Find all of Aiden’s articles and Letters to the Editor here!
-Articles
--Topsham Student Leads State Youth Panel, Journal Opinion
-https://jonews.com/topsham-student-leads-state-youth-panel/
--Topsham teen seeks to become youngest legislator in Vermont history, Valley News
-https://vnews.com/2026/07/27/youngest-ever-elected-vermont-lawmaker-democrat/
--Two Ottermans run for same House seat, VT Daily Chronicle
-https://vermontdailychronicle.com/two-ottermans-run-for-same-house-seat/
-Letters to the Editor
--An Ode to Common Sense
--Commission out of Control
-https://docs.google.com/document/d/16DFWQmx4fGhFtW0f2qqqvgr08JguYM9OCr1fG7grlQQ/edit?usp=sharing
--Campaigning with Climate in Mind
-https://docs.google.com/document/d/1D-mcA9H-Jdigj8fJ1vl9LMuRncnR_SwkkzqCMhwFcw8/edit?usp=sharing
--Campaign Announcement
-https://docs.google.com/document/d/1WtlJmW_nGiSleXW82xpIdZPaH42Str1U4HmKQ_gJjOw/edit?usp=sharing
+Articles -Topsham Student Leads State Youth Panel, Journal Opinion https://jonews.com/topsham-student-leads-state-youth-panel/ -Topsham teen seeks to become youngest legislator in Vermont history, Valley News https://vnews.com/2026/07/27/youngest-ever-elected-vermont-lawmaker-democrat/ -Two Ottermans run for same House seat, VT Daily Chronicle https://vermontdailychronicle.com/two-ottermans-run-for-same-house-seat/ Letters to the Editor -An Ode to Common Sense https://docs.google.com/document/d/1GmlJAw1HehisMohE7HXK9K-uJctDG-jDzz2WwEufwPg/edit?usp=sharing/preview -Commission out of Control https://docs.google.com/document/d/16DFWQmx4fGhFtW0f2qqqvgr08JguYM9OCr1fG7grlQQ/edit?usp=sharing -Campaigning with Climate in Mind https://docs.google.com/document/d/1D-mcA9H-Jdigj8fJ1vl9LMuRncnR_SwkkzqCMhwFcw8/edit?usp=sharing -Campaign Announcement https://docs.google.com/document/d/1WtlJmW_nGiSleXW82xpIdZPaH42Str1U4HmKQ_gJjOw/edit?usp=sharing Endorsements (coming soon!) Get Involved ! | About Me | Contact | Donate Paid for by Otterman for Vermont, PO Box 8, Bradford, VT, 05033

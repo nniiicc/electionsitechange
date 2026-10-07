@@ -1,3 +1,4 @@
-Rep.
-Mike Levin introduces new bill to cap Medicare-related premium hikes
-Mike Levin Dominates First CA-49 Debate and Exposes Maryott's Far-Right Positions
+About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate About Mike Agenda Ten Big Steps Endorsements Latest News News & Media Gallery Town Halls Volunteer Donate Stay Updated Latest News View All News & Media Press Releases March 4, 2024 Rep.
+Mike Levin introduces new bill to cap Medicare-related premium hikes October 12, 2022 Mike Levin Dominates First CA-49 Debate and Exposes Maryott's Far-Right Positions 1 2 3 4 Thank you for visiting my campaign website.
+If your intention was to visit my official House of Representatives website, please click here .
+About Mike Agenda Endorsements Latest News Volunteer/Yard Signs Donate Campaign Inquiries: (760) 566-6113 Email: [email protected] Mailing Address: Mike Levin for Congress PO Box 2112 Capistrano Beach, CA 92624 Campaign Media Inquiries: [email protected] Privacy Policy En Español Paid for by Mike Levin for Congress

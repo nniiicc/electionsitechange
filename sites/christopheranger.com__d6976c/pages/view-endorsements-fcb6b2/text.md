@@ -1,4 +1,2 @@
-Endorsements
-Christopher Anger is a true leader.Example Endorsement
-PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE
-Powered by CampaignPartner.com - Political Websites
+Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Christopher Anger is a true leader.
+Example Endorsement Click here to add your endorsement Voter Information Endorsements Yard Signs Events Photos Contact News PAID FOR BY CHRISTOPHER ANGER (CPF) FOR STATE REPRESENTATIVE Powered by CampaignPartner.com - Political Websites Meet Christopher Contract with the People Issues SOLUTIONS Photos Events Contribute News Volunteer Voter Information Endorsements Yard Signs Contact Close Menu

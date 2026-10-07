@@ -1,7 +1,11 @@
 {
  "description": "In Minnesota, you can vote absentee in person, or by mail, through November 2nd. Read more at mnvotes.gov",
  "final_url": "https://www.walkerforward.com/events/vote-early-in-person-or-by-mail",
+ "fingerprint": "3442d5d9e0eb70c571be8091c694ef81fb5e980b",
+ "format": 3,
  "paid_for_by": "Paid for by Walker Forward PO Box 321 Anoka, MN 55303 campaign@walkerforward",
- "title": "Vote Early: In Person or by Mail \u2014 Walker Forward",
- "years_mentioned": []
+ "title": "Vote Early: In Person or by Mail — Walker Forward",
+ "years_mentioned": [
+  "2026"
+ ]
 }

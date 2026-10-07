@@ -1,2 +1,5 @@
-El octavo distrito congresional de Arizona está representado por siete distritos legislativos.
+Ir al contenido EL 8.º DISTRITO DE ARIZONA MERECE UNA REPRESENTANTE QUE SEPA LO QUE SIGNIFICA TRABAJAR DURO.
+Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Acerca de Prioridades Agenda Respaldos Multimedia Multimedia Noticias Recursos Únete Contacto Dona CONÉCTATE LOCALMENTE DISTRITOS LEGISLATIVOS El octavo distrito congresional de Arizona está representado por siete distritos legislativos.
 Encuentre su organización de distrito local, infórmese sobre reuniones, oportunidades de voluntariado y conéctese con los demócratas que trabajan para fortalecer nuestras comunidades.
+LD2 LD3 LD5 LD24 LD27 LD28 LD29 Una campaña de la clase trabajadora para el 8.º Distrito Congresional de Arizona.
+Campaña Acerca de Prioridades Agenda Respaldos Recursos PARTICIPA Voluntariado Contáctanos DONA info@bgp4az.com Facebook Instagram X (Twitter) Globo terráqueo LinkedIn YouTube TikTok Autorizado por Bernadette Greene-Placentia Pagado por Bernadette para el Congreso info@bgp4az.com Copyright # | Todos los derechos reservados | Sitio por Stoke Interactive Spanish English

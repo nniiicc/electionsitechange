@@ -1,5 +1,4 @@
-Van Drew: “A Failure in New Jersey, a Warning for America”
-August 31, 2026 — Last month, New Jersey officials acknowledged a massive failure in the state’s election safeguards.
+TEXT JVD TO 71858 Wins for South Jersey Awards & Endorsements Latest News Events Support Jeff Boots on the Ground Store Donate Van Drew: “A Failure in New Jersey, a Warning for America” August 31, 2026 — Last month, New Jersey officials acknowledged a massive failure in the state’s election safeguards.
 Approximately 6,600 people who self-identified as noncitizens were registered to vote while obtaining driver’s licenses or identification cards.
 Roughly 400 of those noncitizens actually cast ballots in New Jersey elections.
 This breakdown in basic election safeguards should alarm every American.
@@ -47,4 +46,9 @@ When a failure this serious occurs, political attacks are not a substitute for a
 Confidence in our elections depends on transparency, enforceable safeguards, thorough investigations, and meaningful accountability.
 Every lawful American voter deserves confidence that only eligible citizens are participating in our elections.
 We will not stop fighting until that confidence is restored and every lawful vote is protected.
-###
+### Paid for by Van Drew for Congress Privacy Policy Terms & Conditions By checking this box to opt-in you are agreeing to receive recurring text messages from the Van Drew for Congress campaign.
+Message frequency may vary.
+Msg&Data Rates May Apply.
+SMS opt in will not be sold, rented, or shared.
+Reply STOP to cancel.
+Reply HELP for help. https://vandrewforcongress.com/privacy-policy.

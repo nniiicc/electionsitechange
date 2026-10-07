@@ -1,27 +1,158 @@
 [
-"https://facebook.com/profile.php?id=61586552040656",
-"https://mariaforuscongress.com/",
-"https://mariaforuscongress.com/about-the-campaign",
-"https://mariaforuscongress.com/author/949759pwpadmin",
-"https://mariaforuscongress.com/category/campaign",
-"https://mariaforuscongress.com/category/debate",
-"https://mariaforuscongress.com/category/election",
-"https://mariaforuscongress.com/category/leadership",
-"https://mariaforuscongress.com/category/politics",
-"https://mariaforuscongress.com/category/voting",
-"https://mariaforuscongress.com/contact-us",
-"https://mariaforuscongress.com/donate",
-"https://mariaforuscongress.com/events-campaigns",
-"https://mariaforuscongress.com/fact-check-analyzing-claims-from-last-debate",
-"https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal",
-"https://mariaforuscongress.com/introduction-to-our-new-climate-policy",
-"https://mariaforuscongress.com/latest-news",
-"https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future",
-"https://mariaforuscongress.com/meet-the-candidate",
-"https://mariaforuscongress.com/our-party-approach-to-economic-growth",
-"https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities",
-"https://mariaforuscongress.com/streamline-the-process-of-voting-campaign",
-"https://mariaforuscongress.com/we-hosted-the-largest-ever-national-convention",
-"https://mariaforuscongress.com/wp-content/uploads/2026/02/Rack-Card-Final-File-English-VersionV2.pdf",
-"https://secure.anedot.com/maria-for-u-s-congress/donate"
+{
+"text": "949759pwpadmin",
+"href": "https://mariaforuscongress.com/author/949759pwpadmin/"
+},
+{
+"text": "About The Campaign",
+"href": "https://mariaforuscongress.com/about-the-campaign/"
+},
+{
+"text": "Campaign",
+"href": "https://mariaforuscongress.com/category/campaign/"
+},
+{
+"text": "DONATE NOW",
+"href": "https://secure.anedot.com/maria-for-u-s-congress/donate"
+},
+{
+"text": "Debate",
+"href": "https://mariaforuscongress.com/category/debate/"
+},
+{
+"text": "Election",
+"href": "https://mariaforuscongress.com/category/election/"
+},
+{
+"text": "Events",
+"href": "https://mariaforuscongress.com/events-campaigns/"
+},
+{
+"text": "Fact-Check: Analyzing claims from last debate",
+"href": "https://mariaforuscongress.com/fact-check-analyzing-claims-from-last-debate/"
+},
+{
+"text": "Future of healthcare: The reforms proposal",
+"href": "https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal/"
+},
+{
+"text": "HOME",
+"href": "https://mariaforuscongress.com/"
+},
+{
+"text": "Introduction to climate policy for year 2026",
+"href": "https://mariaforuscongress.com/introduction-to-our-new-climate-policy/"
+},
+{
+"text": "Latest News",
+"href": "https://mariaforuscongress.com/latest-news/"
+},
+{
+"text": "Leadership",
+"href": "https://mariaforuscongress.com/category/leadership/"
+},
+{
+"text": "Leadership that helps you revolutionize the future",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "Learn More About Maria’s Top Priorities",
+"href": "https://mariaforuscongress.com/wp-content/uploads/2026/02/Rack-Card-Final-File-English-VersionV2.pdf"
+},
+{
+"text": "MEET MARIA",
+"href": "https://mariaforuscongress.com/meet-the-candidate/"
+},
+{
+"text": "Our party approach to economic growth",
+"href": "https://mariaforuscongress.com/our-party-approach-to-economic-growth/"
+},
+{
+"text": "Our policies are designed to uplift all communities",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "Politics",
+"href": "https://mariaforuscongress.com/category/politics/"
+},
+{
+"text": "Streamline the process of voting & campaign",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "Take Action",
+"href": "https://mariaforuscongress.com/donate/"
+},
+{
+"text": "Voting",
+"href": "https://mariaforuscongress.com/category/voting/"
+},
+{
+"text": "We hosted the largest ever national convention",
+"href": "https://mariaforuscongress.com/we-hosted-the-largest-ever-national-convention/"
+},
+{
+"text": "[image: Crowd with Posters]",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "[image: Father and Son in Street Holding up a Sign]",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "[image: Microscope and Vials]",
+"href": "https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal/"
+},
+{
+"text": "[image: People at Conference]",
+"href": "https://mariaforuscongress.com/we-hosted-the-largest-ever-national-convention/"
+},
+{
+"text": "[image: People sitting and Listening]",
+"href": "https://mariaforuscongress.com/fact-check-analyzing-claims-from-last-debate/"
+},
+{
+"text": "[image: Posters About Our Planet]",
+"href": "https://mariaforuscongress.com/introduction-to-our-new-climate-policy/"
+},
+{
+"text": "[image: Roll of Dollar Bills on American Flag]",
+"href": "https://mariaforuscongress.com/our-party-approach-to-economic-growth/"
+},
+{
+"text": "[image: Voting Stickers 1]",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586552040656"
+},
+{
+"text": "join as volunteer",
+"href": "https://mariaforuscongress.com/contact-us/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/fact-check-analyzing-claims-from-last-debate/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/future-of-healthcare-the-reforms-proposal/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/leadership-that-helps-you-revolutionize-the-future/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/our-party-approach-to-economic-growth/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/our-policies-are-designed-to-uplift-all-communities/"
+},
+{
+"text": "read moreread more",
+"href": "https://mariaforuscongress.com/streamline-the-process-of-voting-campaign/"
+}
 ]

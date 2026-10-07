@@ -1,7 +1,9 @@
 {
  "description": "Pierce County Voter Information!",
  "final_url": "https://www.electmichaelkeaton.com/voter-info",
- "paid_for_by": null,
+ "fingerprint": "b71f0a614784a8278432d71455e25de07e12775f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "VOTER INFO | Elect Michael Keaton",
  "years_mentioned": [
   "2022"

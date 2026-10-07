@@ -1,11 +1,42 @@
 [
-"https://eliz4tx.com/",
-"https://eliz4tx.com/cv",
-"https://eliz4tx.com/meet-eliz",
-"https://eliz4tx.com/platform",
-"https://facebook.com/Eliz4TX",
-"https://instagram.com/eliz4tx",
-"https://linkedin.com/in/eliz-markowitz-8345371a",
-"https://secure.actblue.com/donate/eliz4tx26",
-"https://twitter.com/ElizMarkowitz"
+{
+"text": "ABOUT ME",
+"href": "https://www.eliz4tx.com/meet-eliz"
+},
+{
+"text": "CV",
+"href": "https://www.eliz4tx.com/cv"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/eliz4tx26"
+},
+{
+"text": "HOME",
+"href": "https://www.eliz4tx.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.eliz4tx.com/platform"
+},
+{
+"text": "[image: EM_BlackBannerFinal.png]",
+"href": "https://www.eliz4tx.com"
+},
+{
+"text": "[image: Facebook - White Circle]",
+"href": "https://www.facebook.com/Eliz4TX/"
+},
+{
+"text": "[image: Instagram - White Circle]",
+"href": "https://www.instagram.com/eliz4tx/"
+},
+{
+"text": "[image: LinkedIn - White Circle]",
+"href": "https://www.linkedin.com/in/eliz-markowitz-8345371a"
+},
+{
+"text": "[image: Twitter - White Circle]",
+"href": "https://twitter.com/ElizMarkowitz"
+}
 ]

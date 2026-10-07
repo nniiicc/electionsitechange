@@ -1,7 +1,11 @@
 {
  "description": "Explore Arizona election campaigns with Mike Gannuscio. Engage with candidates, community initiatives, and local events.",
  "final_url": "https://mikegforld30.com/the-campaign-trail",
- "paid_for_by": null,
+ "fingerprint": "d9c32d4e25e2dff0acb3dfd5fa28643154f132bf",
+ "format": 3,
+ "paid_for_by": "",
  "title": "The Campaign Trail",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

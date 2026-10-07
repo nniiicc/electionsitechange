@@ -1,37 +1,234 @@
 [
-"https://facebook.com/RepGillen",
-"https://pahousegop.com/TermsOfUse",
-"https://penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx",
-"https://repgillen.com/",
-"https://repgillen.com/Email-Signup",
-"https://repgillen.com/News/20035/Press-Releases/House-Approves-Budget-Bill-Supported-by-Gillen",
-"https://repgillen.com/News/22905/Press-Releases/Gillen-Tests-Positive-for-COVID-19",
-"https://repgillen.com/News/22921/Press-Releases/Wyomissing-Public-Works-and-Safety-Facility-Project-Receives--1-Million-in-State-Grants--Says-Gillen",
-"https://repgillen.com/News/25314/Press-Releases/Gillen-Offers-His-Own-Priorities-Following-Governor-s-Budget-Address",
-"https://repgillen.com/News/31047/Press-Releases/Gillen-Pleased-State-Budget-Approved-by-House-Makes-Investments-Today-While-Saving-for-Tomorrow",
-"https://repgillen.com/News/32053/Press-Releases/Gillen-Says-Our-Servicemen-and-Women-Remain-Priority-Post-Budget-Address",
-"https://repgillen.com/News/32127/Press-Releases/Gillen-Announces-Community-Improvement-Grants",
-"https://repgillen.com/News/32648/Press-Releases/Gillen-Votes--No--to-2023-24-State-Budget",
-"https://repgillen.com/News/32846/Press-Releases/Chester-County-Manhunt-is-the-Latest-Example-of-Failed-Immigration-Policies",
-"https://repgillen.com/News/33037/Press-Releases/I-Stand-with-Israel",
-"https://repgillen.com/News/33959/Press-Releases/Gillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12",
-"https://repgillen.com/News/35608/Press-Releases/Gillen-Responds-to-Governor-s-2025-26-Budget-Address",
-"https://repgillen.com/News/35663/Press-Releases/Gillen-Announces-Grant-Funding-to-Support-Local-Fire-Companies",
-"https://repgillen.com/News/35770/Press-Releases/Gillen-Announces--750K-for-Key-Transportation-Projects-in-Berks-County",
-"https://repgillen.com/News/36318/Press-Releases/Gillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting",
-"https://repgillen.com/News/37466/Press-Releases/Gillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility",
-"https://repgillen.com/News/37592/Press-Releases/Gillen-Announces-More-Than--117-000-for-Fire-Companies-in-128th-District",
-"https://repgillen.com/News/38219/Press-Releases/Gillen-to-Host-Dedication-of-PFC-Travis-C--Zimmerman-Memorial-Bridge",
-"https://repgillen.com/News/38284/Press-Releases/Gillen-Issues-Statement-on-2026-27-State-Budget",
-"https://repgillen.com/News/38741/Press-Releases/Gillen-Announces-More-Than--1-8-Million-in-LSA-Funding-for-128th-District-Projects",
-"https://repgillen.com/NewsGroup/Press-Releases",
-"https://repgillen.com/PAGovLinks",
-"https://repgillen.com/about",
-"https://repgillen.com/citizenaccess",
-"https://repgillen.com/contact",
-"https://repgillen.com/districtmap",
-"https://repgillen.com/events",
-"https://repgillen.com/livestreams",
-"https://repgillen.com/video/latestvideo",
-"https://revenue.pa.gov/Pages/default.aspx"
+{
+"text": "Bio",
+"href": "https://www.repgillen.com/about"
+},
+{
+"text": "Chester County Manhunt is the Latest Example of Failed Immigration Policies",
+"href": "https://www.repgillen.com/News/32846/Press-Releases/Chester-County-Manhunt-is-the-Latest-Example-of-Failed-Immigration-Policies"
+},
+{
+"text": "Citizens Access Portal",
+"href": "https://www.repgillen.com/citizenaccess"
+},
+{
+"text": "Contact",
+"href": "https://www.repgillen.com/contact"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/20035/Press-Releases/House-Approves-Budget-Bill-Supported-by-Gillen"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/22905/Press-Releases/Gillen-Tests-Positive-for-COVID-19"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/22921/Press-Releases/Wyomissing-Public-Works-and-Safety-Facility-Project-Receives--1-Million-in-State-Grants--Says-Gillen"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/25314/Press-Releases/Gillen-Offers-His-Own-Priorities-Following-Governor-s-Budget-Address"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/31047/Press-Releases/Gillen-Pleased-State-Budget-Approved-by-House-Makes-Investments-Today-While-Saving-for-Tomorrow"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/32053/Press-Releases/Gillen-Says-Our-Servicemen-and-Women-Remain-Priority-Post-Budget-Address"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/32127/Press-Releases/Gillen-Announces-Community-Improvement-Grants"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/32648/Press-Releases/Gillen-Votes--No--to-2023-24-State-Budget"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/32846/Press-Releases/Chester-County-Manhunt-is-the-Latest-Example-of-Failed-Immigration-Policies"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/33037/Press-Releases/I-Stand-with-Israel"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/33959/Press-Releases/Gillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/35608/Press-Releases/Gillen-Responds-to-Governor-s-2025-26-Budget-Address"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/35663/Press-Releases/Gillen-Announces-Grant-Funding-to-Support-Local-Fire-Companies"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/35770/Press-Releases/Gillen-Announces--750K-for-Key-Transportation-Projects-in-Berks-County"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/36318/Press-Releases/Gillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/37466/Press-Releases/Gillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/37592/Press-Releases/Gillen-Announces-More-Than--117-000-for-Fire-Companies-in-128th-District"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/38219/Press-Releases/Gillen-to-Host-Dedication-of-PFC-Travis-C--Zimmerman-Memorial-Bridge"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/38284/Press-Releases/Gillen-Issues-Statement-on-2026-27-State-Budget"
+},
+{
+"text": "Continue Reading",
+"href": "https://www.repgillen.com/News/38741/Press-Releases/Gillen-Announces-More-Than--1-8-Million-in-LSA-Funding-for-128th-District-Projects"
+},
+{
+"text": "District Map",
+"href": "https://www.repgillen.com/districtmap"
+},
+{
+"text": "Events",
+"href": "https://www.repgillen.com/events"
+},
+{
+"text": "Gillen Announces $750K for Key Transportation Projects in Berks County",
+"href": "https://www.repgillen.com/News/35770/Press-Releases/Gillen-Announces--750K-for-Key-Transportation-Projects-in-Berks-County"
+},
+{
+"text": "Gillen Announces Community Improvement Grants",
+"href": "https://www.repgillen.com/News/32127/Press-Releases/Gillen-Announces-Community-Improvement-Grants"
+},
+{
+"text": "Gillen Announces Grant Funding to Support Local Fire Companies",
+"href": "https://www.repgillen.com/News/35663/Press-Releases/Gillen-Announces-Grant-Funding-to-Support-Local-Fire-Companies"
+},
+{
+"text": "Gillen Announces More Than $1.8 Million in LSA Funding for 128th District Projects",
+"href": "https://www.repgillen.com/News/38741/Press-Releases/Gillen-Announces-More-Than--1-8-Million-in-LSA-Funding-for-128th-District-Projects"
+},
+{
+"text": "Gillen Announces More Than $117,000 for Fire Companies in 128th District",
+"href": "https://www.repgillen.com/News/37592/Press-Releases/Gillen-Announces-More-Than--117-000-for-Fire-Companies-in-128th-District"
+},
+{
+"text": "Gillen Announces Tax Assistance Workshop at Berks Encore Douglassville Center on April 12",
+"href": "https://www.repgillen.com/News/33959/Press-Releases/Gillen-Announces-Tax-Assistance-Workshop-at-Berks-Encore-Douglassville-Center-on-April-12"
+},
+{
+"text": "Gillen Backs First Responders, Calls for Fiscal Responsibility",
+"href": "https://www.repgillen.com/News/37466/Press-Releases/Gillen-Backs-First-Responders--Calls-for-Fiscal-Responsibility"
+},
+{
+"text": "Gillen Issues Statement on 2026-27 State Budget",
+"href": "https://www.repgillen.com/News/38284/Press-Releases/Gillen-Issues-Statement-on-2026-27-State-Budget"
+},
+{
+"text": "Gillen Offers His Own Priorities Following Governor’s Budget Address",
+"href": "https://www.repgillen.com/News/25314/Press-Releases/Gillen-Offers-His-Own-Priorities-Following-Governor-s-Budget-Address"
+},
+{
+"text": "Gillen Pleased State Budget Approved by House Makes Investments Today While Saving for Tomorrow",
+"href": "https://www.repgillen.com/News/31047/Press-Releases/Gillen-Pleased-State-Budget-Approved-by-House-Makes-Investments-Today-While-Saving-for-Tomorrow"
+},
+{
+"text": "Gillen Responds to Governor’s 2025-26 Budget Address",
+"href": "https://www.repgillen.com/News/35608/Press-Releases/Gillen-Responds-to-Governor-s-2025-26-Budget-Address"
+},
+{
+"text": "Gillen Says Our Servicemen and Women Remain Priority Post Budget Address",
+"href": "https://www.repgillen.com/News/32053/Press-Releases/Gillen-Says-Our-Servicemen-and-Women-Remain-Priority-Post-Budget-Address"
+},
+{
+"text": "Gillen Tests Positive for COVID-19",
+"href": "https://www.repgillen.com/News/22905/Press-Releases/Gillen-Tests-Positive-for-COVID-19"
+},
+{
+"text": "Gillen Votes ‘No’ to 2023-24 State Budget",
+"href": "https://www.repgillen.com/News/32648/Press-Releases/Gillen-Votes--No--to-2023-24-State-Budget"
+},
+{
+"text": "Gillen to Honor Firefighters During Township Supervisor Meeting",
+"href": "https://www.repgillen.com/News/36318/Press-Releases/Gillen-to-Honor-Firefighters-During-Township-Supervisor-Meeting"
+},
+{
+"text": "Gillen to Host Dedication of PFC Travis C. Zimmerman Memorial Bridge",
+"href": "https://www.repgillen.com/News/38219/Press-Releases/Gillen-to-Host-Dedication-of-PFC-Travis-C--Zimmerman-Memorial-Bridge"
+},
+{
+"text": "Home",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "House Approves Budget Bill Supported by Gillen",
+"href": "https://www.repgillen.com/News/20035/Press-Releases/House-Approves-Budget-Bill-Supported-by-Gillen"
+},
+{
+"text": "I Stand with Israel",
+"href": "https://www.repgillen.com/News/33037/Press-Releases/I-Stand-with-Israel"
+},
+{
+"text": "Latest News",
+"href": "https://www.repgillen.com/NewsGroup/Press-Releases"
+},
+{
+"text": "Livestreams",
+"href": "https://www.repgillen.com/livestreams"
+},
+{
+"text": "PA State Rep. Mark GillenServing PA's 128th Legislative District",
+"href": "https://www.repgillen.com/"
+},
+{
+"text": "PennDOT Forms",
+"href": "https://www.penndot.gov/_layouts/pa.penndot.formsandpubs/formsandpubs.aspx"
+},
+{
+"text": "Property Tax/Rent Rebate",
+"href": "https://www.revenue.pa.gov/Pages/default.aspx"
+},
+{
+"text": "State Government Links",
+"href": "https://www.repgillen.com/PAGovLinks"
+},
+{
+"text": "Subscribe",
+"href": "https://www.repgillen.com/Email-Signup"
+},
+{
+"text": "Terms of use",
+"href": "https://www.pahousegop.com/TermsOfUse"
+},
+{
+"text": "Video",
+"href": "https://www.repgillen.com/video/latestvideo"
+},
+{
+"text": "Wyomissing Public Works and Safety Facility Project Receives $1 Million in State Grants, Says Gillen",
+"href": "https://www.repgillen.com/News/22921/Press-Releases/Wyomissing-Public-Works-and-Safety-Facility-Project-Receives--1-Million-in-State-Grants--Says-Gillen"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/RepGillen/"
+},
+{
+"text": "[tooltip: Go To Last Page]",
+"href": "javascript:%20window.scrollTo(0,0)"
+},
+{
+"text": "[tooltip: Go To Next Page]",
+"href": "javascript:%20window.scrollTo(0,0)"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Dr. Lisa Reynolds is running to represent Oregon House Distrcit 36.",
  "final_url": "https://www.lisafororegon.com/getinvolved",
- "paid_for_by": null,
+ "fingerprint": "48ce5d47ddcd7116c29dfde334f82ce7c26979f2",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Lisa Reynolds for Oregon",
  "years_mentioned": [
   "2020",

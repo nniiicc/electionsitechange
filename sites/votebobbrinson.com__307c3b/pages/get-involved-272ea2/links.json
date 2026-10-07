@@ -1,13 +1,62 @@
 [
-"http://vote.gov/",
-"http://wix.com/templateslp/links",
-"https://facebook.com/VoteBobBrinson",
-"https://instagram.com/votebobbrinson",
-"https://linkedin.com/in/robert-brinson",
-"https://secure.winred.com/friends-to-elect-bob-brinson/donate-today",
-"https://votebobbrinson.com/",
-"https://votebobbrinson.com/endorsements",
-"https://votebobbrinson.com/get-involved",
-"https://votebobbrinson.com/meet-bob",
-"https://votebobbrinson.com/platform"
+{
+"text": "BOB BRINSON",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "Bob@VoteBobBrinson.com",
+"href": "mailto:Bob@VoteBobBrinson.com"
+},
+{
+"text": "DONATE",
+"href": "http://www.wix.com/templateslp/links"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-to-elect-bob-brinson/donate-today"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.votebobbrinson.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.votebobbrinson.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "MEET BOB",
+"href": "https://www.votebobbrinson.com/meet-bob"
+},
+{
+"text": "NC SENATE 2026 (DISTRICT 3)",
+"href": "https://www.votebobbrinson.com"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.votebobbrinson.com/platform"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "http://www.vote.gov"
+},
+{
+"text": "[image: Facebook Social Icon]",
+"href": "https://www.facebook.com/VoteBobBrinson/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votebobbrinson/"
+},
+{
+"text": "[image: Linkedin]",
+"href": "https://www.linkedin.com/in/robert-brinson/?utm="
+},
+{
+"text": "[image]",
+"href": "https://secure.winred.com/friends-to-elect-bob-brinson/donate-today"
+}
 ]

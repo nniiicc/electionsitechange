@@ -1,22 +1,12 @@
-Get Tickets & Sponsorships
-Latest News
-Cross Town Classic
-For Home Run, please contact us at thadjonesforstaterep@gmail.com or call 708-275-1833 Get Tickets & Sponsorships
-Volunteer Meeting On August 29th
-Please join Rep Thaddeus Jones as we volunteer to elect Vice President Kamala Harris the first female President of the United States of America.
+Close Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate Search Search Thaddeus Jones for State Rep Home About Issues Action Center Attend Events Donate Yard Sign Volunteer Contact Donate Latest News Please Join Us On November 1st staff September 22, 2026 Get Tickets & Sponsorships Read More Cross Town Classic staff July 6, 2026 For Home Run, please contact us at thadjonesforstaterep@gmail.com or call 708-275-1833 Get Tickets & Sponsorships Read More March 17th 2026 Sample Ballot staff February 22, 2026 Read More March 17th Sample Ballot staff February 22, 2026 Read More Please Join Us On November 7th staff October 2, 2024 Get Tickets & Sponsorships Read More Volunteer Meeting On August 29th staff August 19, 2024 Please join Rep Thaddeus Jones as we volunteer to elect Vice President Kamala Harris the first female President of the United States of America.
 Get ready and get involved!
-Please join […]
-Please Join Us On August 10th
-Please join us on August 10th for a reception and baseball game with special guest Emanuel “Chris” Welch.
-RSVP by Wednesday July 10th by calling 708-654-6090 or via email to […]
-Please Join Us On June 28th
-LOCATION CHANGE: Event will be held at Mcgee’s Cafe 660 Manistee Calumet City, IL 60409 530pm to 7pm Please join us on Friday June 28th 2024 for a reception in […]
-Priorities
-I will always fight to protect our shared Democratic values and do what is right for our community.
+Please join […] Read More Please Join Us On August 10th staff June 9, 2024 Please join us on August 10th for a reception and baseball game with special guest Emanuel “Chris” Welch.
+RSVP by Wednesday July 10th by calling 708-654-6090 or via email to […] Read More Please Join Us On June 28th staff April 20, 2024 LOCATION CHANGE: Event will be held at Mcgee’s Cafe 660 Manistee Calumet City, IL 60409 530pm to 7pm Please join us on Friday June 28th 2024 for a reception in […] Read More March 19th Sample Ballot staff March 3, 2024 Read More Priorities staff March 1, 2024 I will always fight to protect our shared Democratic values and do what is right for our community.
 Please vote Tuesday March 19th.
-Gun Violence
-We owe it to our children to get dangerous guns off of the streets.
+Read More Gun Violence staff March 1, 2024 We owe it to our children to get dangerous guns off of the streets.
 That is why I continue to fight the extreme agenda of groups like the NRA.
-Community Service
-Community service means always doing what is best for every resident of our district.
+Read More Community Service staff March 1, 2024 Community service means always doing what is best for every resident of our district.
 It is an honor to serve as your State Representative and stand up for our community.
+Read More 1 2 1 2 Back to top Twitter Facebook Instagram Powered by Non-Stop Web Design Paid for by Jones for State Representative.
+A copy of our report filed with the State Board of Elections is (or will be) available for purchase from the State Board of Elections, Springfield, Illinois.
+Text messaging originator opt-in data, emails, and consent will not be shared with any third parties unless required by law. ©# Jones for State Representative Search:

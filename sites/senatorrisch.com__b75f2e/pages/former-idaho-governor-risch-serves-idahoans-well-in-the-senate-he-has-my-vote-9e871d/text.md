@@ -1,6 +1,5 @@
-FORMER IDAHO GOVERNOR: “RISCH SERVES IDAHOANS WELL IN THE SENATE.
-HE HAS MY VOTE.”
-Sen.
+About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign About Jim Get Involved Ratings Issues Articles DONATE Request a Yard Sign Menu FORMER IDAHO GOVERNOR: “RISCH SERVES IDAHOANS WELL IN THE SENATE.
+HE HAS MY VOTE.” Sen.
 Jim Risch and I have traveled much of the same road in Idaho politics and public service.
 We each served in the Legislature, as lieutenant governor, governor and in the U.S.
 Congress.
@@ -28,7 +27,8 @@ Judgment matters.
 Risch has all four, and Idaho benefits because he does.
 As one former governor of this great state speaking about another, I am proud to endorse Risch for reelection.
 He has served Idaho with conviction, integrity and a deep love for our state.
-We need his steady leadership in the United States Senate, and I urge Idahoans to send him back to work.”
-C.L.
+We need his steady leadership in the United States Senate, and I urge Idahoans to send him back to work.” C.L.
 “Butch” Otter is a Republican who served as Idaho governor from 2007 to 2019.
 He also served as a U.S. representative, lieutenant governor and a member of the Idaho House.
+Read More Help Defend Idaho Values DONATE NOW 208-506-5500 [email protected] For all media related inquiries please contact [email protected] PAID FOR BY JIM RISCH FOR U.S.
+SENATE COMMITTEE Privacy Policy

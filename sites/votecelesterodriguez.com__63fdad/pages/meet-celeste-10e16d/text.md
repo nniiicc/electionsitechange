@@ -1,9 +1,8 @@
-Skip navigation menu
-Celeste Rodriguez works every day to solve challenges and respond to San Fernando Valley residents' needs.
+Skip navigation menu About Issues News Endorsements Events Join Us Donate Meet Celeste About Issues News Endorsements Events Join Us Donate Meet Celeste Celeste Rodriguez works every day to solve challenges and respond to San Fernando Valley residents' needs.
 She understands firsthand the hardships working families face.
 As a public servant for over a decade and the Mayor of San Fernando, Celeste has tackled tough issues and delivers resources for affordable housing, community safety, healthcare, and services for veterans, seniors, and children.
 As your Assemblymember, Celeste will work to create meaningful, long-lasting solutions that lead to better futures for all of us.
-Celeste's upbringing shaped her understanding of the struggles and triumphs Northeast Valley families experience.
+Northeast Valley Born and Raised Celeste's upbringing shaped her understanding of the struggles and triumphs Northeast Valley families experience.
 Celeste's family immigrated from Mexico to Pacoima.
 She and her siblings were raised in the Northeast Valley, from North Hills to Sylmar and all the neighborhoods in between.
 Growing up, Celeste’s parents ingrained in her the values of service and social justice.
@@ -19,7 +18,7 @@ After earning her Associate's Degree, she transferred to San Diego State Univers
 While at SDSU, Celeste joined a student-led organization that advocated for higher education funding and against drastic budget cuts to the Cal State University system.
 At age 24, Celeste became a living kidney donor to help save her oldest brother's life, who had been on dialysis for over five years.
 Her family reflected on this life-changing decision when she walked alongside the OneLegacy float in the 2024 Tournament of Roses Parade.
-Celeste Rodriguez is focused on creating and implementing cradle-to-career policies that improve outcomes for our community members.
+Dedicated to Lifting Families Out of Poverty Celeste Rodriguez is focused on creating and implementing cradle-to-career policies that improve outcomes for our community members.
 After graduating college, Celeste joined the Los Angeles Mayor's Homelessness Services Team, where she focused on prevention and helped connect unhoused veterans with much needed resources they earned from their service.
 She continued this work while earning her Master's in Social Work from USC.
 As the LA Mayor's Deputy Director of Community Development Strategies, she led efforts to provide support services and economic development opportunities throughout the city.
@@ -30,10 +29,10 @@ As San Fernando's Mayor, Celeste ensures residents have a voice in their local g
 Celeste works to ensure economic stability in her community by distributing food to families in need and creating a Social Services Coordinator and Economic Development position to help residents access and navigate city resources.
 She has led the creation of a Community and Business Resource Center in City Hall and helped small businesses access grant funding.
 Celeste spearheaded the effort on San Fernando's Homelessness Action Plan and advocated for a dedicated Housing Coordinator and an outreach team.
-Celeste has volunteered with a Committee of Pueblo y Salud, following in the footsteps of her father who has dedicated over 30 years to community organizing.
+Celeste has volunteered with a Committee of Pueblo y Salud , following in the footsteps of her father who has dedicated over 30 years to community organizing.
 The Committee established the March for Justice in the Northeast Valley and aims to teach youth the legacy of non-violent work on behalf of farmworkers.
 Celeste serves on Comisión Femenil of the San Fernando Valley, an all-volunteer, 501 (c)(3) nonprofit organization dedicated to improving the quality of life for Latinas, their families, and their communities through education, leadership development, and community involvement.
 Celeste lives in San Fernando, where she and her husband, Robert, are raising their two children.
 In their spare time, they play charades, have living room dance parties, and play at their local parks.
-Northeast Valley Born and Raised
-Dedicated to Lifting Families Out of Poverty
+Privacy Policy Connect with the campaign: celeste@votecelesterodriguez.com Powered by RUN! website builder Paid for by Celeste Rodriguez for Assembly 2026 FPPC #1477040 1700 Tribute Rd., Ste.
+201, Sacramento, CA 95815 You need to enable JavaScript to run this app.

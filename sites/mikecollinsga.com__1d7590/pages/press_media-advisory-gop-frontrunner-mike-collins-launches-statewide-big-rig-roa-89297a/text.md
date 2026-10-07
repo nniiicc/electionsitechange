@@ -1,93 +1,9 @@
-MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS LAUNCHES STATEWIDE “BIG RIG ROADSHOW” TOUR
-Jackson, GA — U.S.
+Skip to content MEET MIKE MEDIA ENDORSEMENTS VOLUNTEER EVENTS PRESS CONTRIBUTE DONATE WITH CRYPTO STORE Press Release APRIL 28, 2026 FOR IMMEDIATE RELEASE Contact: [email protected] MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS LAUNCHES STATEWIDE “BIG RIG ROADSHOW” TOUR Jackson, GA — U.S.
 Senate candidate Mike Collins is hitting the road for his “Big Rig Roadshow,” a statewide tour across Georgia from Monday, May 4 through Friday, May 8.
 Collins is taking his campaign directly to voters across the state as the U.S.
 Senate primary enters the final stretch.
-Full Big Rig Roadshow tour schedule below:
-MONDAY, MAY 4
-8:00 AM
-Farm to Fork
-120 General Lee Dr
-Ringgold, GA 30736
-12:00 PM
-Floyd County GOP
-420 Broad St
-Rome, GA 30161
-6:00 PM
-1885 Grill
-4438 Cherokee St
-Acworth, GA 30101
-TUESDAY, MAY 5
-8:00 AM
-Chamber of Commerce Atrium
-114 N Peterson Ave, Suite 205
-Douglas, GA 31533
-12:00 PM
-Georgia Museum of Agriculture
-1392 Whiddon Mill Rd
-Tifton, GA 31793
-3:00 PM
-Cordele Historic Museum
-105 East 9th Ave
-Cordele, GA 31015
-6:00 PM
-Merry Acres Inn
-1500 Dawson Rd
-Albany, GA 31707
-WEDNESDAY, MAY 6
-8:00 AM
-Old Post Office
-100 S West St
-Bainbridge, GA 39817
-10:30 AM
-Mr.
-Chick
-1125 US-84
-Cairo, GA 39828
-12:00 PM
-Thomas County GOP HQ
-103 N Crawford St
-Thomasville, GA 31792
-5:00 PM
-Jessie’s Restaurant
-205 N Ashley St
-Valdosta, GA 31601
-THURSDAY, MAY 7
-8:00 AM
-Seagles Restaurant
-105 Osborne St
-St.
-Marys, GA 31558
-10:00 AM
-Hog-N-Bones
-1900 Memorial Dr
-Waycross, GA 31501
-12:00 PM
-Circle F Produce Barn
-5282 Golden Isles Pkwy W
-Baxley, GA 31513
-5:00 PM
-Bernie’s on West Main
-114 W Main St
-Swainsboro, GA 30401
-7:00 PM
-Columbia County GOP HQ
-4487 Columbia Rd
-Evans, GA 30809
-FRIDAY, MAY 8
-10:00 AM
-The Bearded Bean
-37 E Currahee St
-Toccoa, GA 30577
-12:00 PM
-Mama G’s
-777 US-441
-Clayton, GA 30525
-2:30 PM
-Bear Necessities
-1808 S Chestatee St, Suite 201/202
-Dahlonega, GA 30533
-PRESS DETAILS: RSVP to [email protected]
-MEDIA AVAILABILITY: Media interested in attending should RSVP for coordination details.
-BACKGROUND:
-Mike Collins is the only candidate organized in all of Georgia’s 159 counties with over 800 Convoy Captains; endorsements from Laken Riley’s family, National Border Patrol Council, Club for Growth, Turning Point Action, CPAC, and Newt Gingrich; support from more than 180 local and state elected officials and 300 Georgia veterans; and a grassroots network of over 45,000 donors from all 50 states and U.S. territories.
+Full Big Rig Roadshow tour schedule below: MONDAY, MAY 4 8:00 AM Farm to Fork 120 General Lee Dr Ringgold, GA 30736 12:00 PM Floyd County GOP 420 Broad St Rome, GA 30161 6:00 PM 1885 Grill 4438 Cherokee St Acworth, GA 30101 TUESDAY, MAY 5 8:00 AM Chamber of Commerce Atrium 114 N Peterson Ave, Suite 205 Douglas, GA 31533 12:00 PM Georgia Museum of Agriculture 1392 Whiddon Mill Rd Tifton, GA 31793 3:00 PM Cordele Historic Museum 105 East 9th Ave Cordele, GA 31015 6:00 PM Merry Acres Inn 1500 Dawson Rd Albany, GA 31707 WEDNESDAY, MAY 6 8:00 AM Old Post Office 100 S West St Bainbridge, GA 39817 10:30 AM Mr.
+Chick 1125 US-84 Cairo, GA 39828 12:00 PM Thomas County GOP HQ 103 N Crawford St Thomasville, GA 31792 5:00 PM Jessie’s Restaurant 205 N Ashley St Valdosta, GA 31601 THURSDAY, MAY 7 8:00 AM Seagles Restaurant 105 Osborne St St.
+Marys, GA 31558 10:00 AM Hog-N-Bones 1900 Memorial Dr Waycross, GA 31501 12:00 PM Circle F Produce Barn 5282 Golden Isles Pkwy W Baxley, GA 31513 5:00 PM Bernie’s on West Main 114 W Main St Swainsboro, GA 30401 7:00 PM Columbia County GOP HQ 4487 Columbia Rd Evans, GA 30809 FRIDAY, MAY 8 10:00 AM The Bearded Bean 37 E Currahee St Toccoa, GA 30577 12:00 PM Mama G’s 777 US-441 Clayton, GA 30525 2:30 PM Bear Necessities 1808 S Chestatee St, Suite 201/202 Dahlonega, GA 30533 PRESS DETAILS: RSVP to [email protected] MEDIA AVAILABILITY: Media interested in attending should RSVP for coordination details.
+BACKGROUND: Mike Collins is the only candidate organized in all of Georgia’s 159 counties with over 800 Convoy Captains; endorsements from Laken Riley’s family, National Border Patrol Council, Club for Growth, Turning Point Action, CPAC, and Newt Gingrich; support from more than 180 local and state elected officials and 300 Georgia veterans; and a grassroots network of over 45,000 donors from all 50 states and U.S. territories.
+### ← MEDIA ADVISORY: MIKE COLLINS TO HOST 2ND ANNUAL SURF & TURF WITH GEORGIA LEADERS AND SUPPORTERS IN COVINGTON MEDIA ADVISORY: GOP FRONTRUNNER MIKE COLLINS TO HOST ELECTION NIGHT PARTY IN JACKSON → TERMS & CONDITIONS PRIVACY POLICY MEDIA INQUIRIES CONTACT US PAID FOR BY MIKE COLLINS FOR SENATE PO Box 2184 Alpharetta, GA 30005

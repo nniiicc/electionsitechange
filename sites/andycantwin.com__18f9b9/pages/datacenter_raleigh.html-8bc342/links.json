@@ -1,27 +1,126 @@
 [
-"https://andycantwin.com/arcade",
-"https://andycantwin.com/budget?p=44.4",
-"https://andycantwin.com/datacenter",
-"https://andycantwin.com/datacenter/impact.html",
-"https://andycantwin.com/datacenter/raleigh.html",
-"https://andycantwin.com/datacenter/the-fix.html",
-"https://andycantwin.com/datacenter/the-thing.html",
-"https://andycantwin.com/datacenter/the-vote.html",
-"https://andycantwin.com/datacenter/who-pays.html",
-"https://andycantwin.com/newsletter.html",
-"https://andycantwin.com/volunteer.html",
-"https://andycantwin.com/workshop",
-"https://carolinapublicpress.org/76042/gov-stein-signs-nc-budget-as-a-compromise-measure-with-legislators-despite-key-concerns",
-"https://facebook.com/andycantwin",
-"https://instagram.com/andycantwin",
-"https://ncleg.gov/BillLookup/2025/S730",
-"https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.13.html",
-"https://ncleg.gov/Sessions/2015/FiscalNotes/House/PDF/HFN0117v5.pdf",
-"https://ncleg.gov/Sessions/2025/Bills/Senate/PDF/S730v5.pdf",
-"https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina",
-"https://nrc.gov/reactors/new-reactors/advanced/who-were-working-with/pre-application-activities/duke-energy-belews-creek",
-"https://secure.actblue.com/donate/andybowline",
-"https://vpm.org/news/2026-05-11/nc-newsroom-data-center-supply-energy-tax-breaks-north-carolina",
-"https://wunc.org/politics/2026-05-14/nc-budget-roll-back-data-centers-tax-exemption-electricity-purchases",
-"https://wunc.org/politics/2026-06-15/north-carolina-tax-incentives-data-centers-phase-out-proposal"
+{
+"text": "1",
+"href": "https://andycantwin.com/datacenter/the-thing.html"
+},
+{
+"text": "2",
+"href": "https://andycantwin.com/datacenter/impact.html"
+},
+{
+"text": "2026 budget Section 44.4, the electricity repeal, effective on signing for all electricity billed from that date",
+"href": "https://andycantwin.com/budget/?p=44.4"
+},
+{
+"text": "3",
+"href": "https://andycantwin.com/datacenter/who-pays.html"
+},
+{
+"text": "4",
+"href": "https://andycantwin.com/datacenter/the-vote.html"
+},
+{
+"text": "5",
+"href": "https://andycantwin.com/datacenter/raleigh.html"
+},
+{
+"text": "6",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "Bored?",
+"href": "https://andycantwin.com/arcade/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/andybowline"
+},
+{
+"text": "Duke's early site permit application: 600 MW of SMRs near Belews Creek, first unit target 2036 (Dec 2025)",
+"href": "https://news.duke-energy.com/releases/duke-energy-submits-early-site-permit-application-for-potential-new-nuclear-development-in-north-carolina"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/andycantwin"
+},
+{
+"text": "G.S. 105-164.13, the exemption statute (ncleg's posted text doesn't yet reflect the 2026 electricity repeal; the repeal itself is the next link)",
+"href": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-164.13.html"
+},
+{
+"text": "Gov. Stein's signing remarks, Carolina Public Press (June 2026)",
+"href": "https://carolinapublicpress.org/76042/gov-stein-signs-nc-budget-as-a-compromise-measure-with-legislators-despite-key-concerns/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/andycantwin/"
+},
+{
+"text": "NC Newsroom on the $45–57M current total, the ~$450M buildout projection, the 2015 comparison, the local share, and the seven-states-in-perpetuity count (May 2026)",
+"href": "https://www.vpm.org/news/2026-05-11/nc-newsroom-data-center-supply-energy-tax-breaks-north-carolina"
+},
+{
+"text": "NRC docket for the Belews Creek site",
+"href": "https://www.nrc.gov/reactors/new-reactors/advanced/who-were-working-with/pre-application-activities/duke-energy-belews-creek"
+},
+{
+"text": "SB 730 bill page: full text (Fifth Edition), history, and the June 3 House roll call",
+"href": "https://www.ncleg.gov/BillLookup/2025/S730"
+},
+{
+"text": "Section 10 text, p. 11",
+"href": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S730v5.pdf"
+},
+{
+"text": "Section 44.4 in the 2026 budget browser",
+"href": "https://andycantwin.com/budget/?p=44.4"
+},
+{
+"text": "Senate Bill 730, the Ratepayer Protection Act",
+"href": "https://www.ncleg.gov/BillLookup/2025/S730"
+},
+{
+"text": "Sign Up",
+"href": "https://andycantwin.com/newsletter.html"
+},
+{
+"text": "Stein's proposal to phase out the remaining incentives by 2033, WUNC (June 2026)",
+"href": "https://www.wunc.org/politics/2026-06-15/north-carolina-tax-incentives-data-centers-phase-out-proposal"
+},
+{
+"text": "The 2015 fiscal note for H117, the $4M a year projection (PDF)",
+"href": "https://www.ncleg.gov/Sessions/2015/FiscalNotes/House/PDF/HFN0117v5.pdf"
+},
+{
+"text": "Tinkering",
+"href": "https://andycantwin.com/workshop/"
+},
+{
+"text": "Volunteer",
+"href": "https://andycantwin.com/volunteer.html"
+},
+{
+"text": "WUNC on the rollback: Commerce's electricity estimates ($20M now, ~$160M at buildout), the equipment figures, the construction exemption, and H1213 (May 2026)",
+"href": "https://www.wunc.org/politics/2026-05-14/nc-budget-roll-back-data-centers-tax-exemption-electricity-purchases"
+},
+{
+"text": "hello@andycantwin.com",
+"href": "mailto:hello@andycantwin.com"
+},
+{
+"text": "next · stop 6What I'd file in Raleigh",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "stop 6 of this guide",
+"href": "https://andycantwin.com/datacenter/the-fix.html"
+},
+{
+"text": "← back to the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+},
+{
+"text": "← the whole picture",
+"href": "https://andycantwin.com/datacenter/"
+}
 ]

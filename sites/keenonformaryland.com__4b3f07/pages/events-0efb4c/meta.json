@@ -1,7 +1,9 @@
 {
  "description": "Stay updated with upcoming events hosted by Keenon James in District 23, focusing on public safety advocacy and community engagement.",
  "final_url": "https://keenonformaryland.com/events",
- "paid_for_by": null,
+ "fingerprint": "57e4ae56b814ad0229b9cc1fd292727e7eac282b",
+ "format": 3,
+ "paid_for_by": "Authorized by Friends of Keenon James - London Wills, PhD, MBA - Treasurer Events Powered by",
  "title": "Events",
  "years_mentioned": []
 }

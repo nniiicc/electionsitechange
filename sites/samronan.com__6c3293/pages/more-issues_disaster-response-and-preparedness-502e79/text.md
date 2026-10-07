@@ -1,23 +1,21 @@
-DISASTER RESPONSE AND PREPAREDNESS
-FEMA Funding and Manning
-FEMA shall recieve all funding from ICE after it has been abolished by the adminstration.
+top of page Log In DISASTER RESPONSE AND PREPAREDNESS Previous Next FEMA Funding and Manning FEMA shall recieve all funding from ICE after it has been abolished by the adminstration.
 With these elevated funds FEMA shall have full means of responding to disaster in a timely and equitable fashion.
-Furthermore, FEMA will engage in the following activities:
-- FEMA personnel will have the tools, equipment, and resources to rebuild devastated communities, with especial efforts to rebuilding structures in a manner that make them more resilient to what caused their destruction.
-What this means is that buildings and housing destroyed by fires, will have fire retardent materials as their primary construction material, hurricane ravaged comunities, shall be rebuilt with far more sturdy materials, and sea breakers shall be emplaced along the cost, or trees, or both, whichever the situation demands
-- FEMA shall have enough staff, vehicles, and the ability to build temporary shelter, or have the authority to comendere shelter in the form of Convention Centers, Hotels, etc. to ensure total evacuation fo residents from disaster areas.
-- FEMA Shall facilitate the construction of evacuation center, and maintain those centers in all 50 states and within 100 miles of all coastal areas in the United States.
+Furthermore, FEMA will engage in the following activities: FEMA personnel will have the tools, equipment, and resources to rebuild devastated communities, with especial efforts to rebuilding structures in a manner that make them more resilient to what caused their destruction.
+What this means is that buildings and housing destroyed by fires, will have fire retardent materials as their primary construction material, hurricane ravaged comunities, shall be rebuilt with far more sturdy materials, and sea breakers shall be emplaced along the cost, or trees, or both, whichever the situation demands FEMA shall have enough staff, vehicles, and the ability to build temporary shelter, or have the authority to comendere shelter in the form of Convention Centers, Hotels, etc. to ensure total evacuation fo residents from disaster areas.
+FEMA Shall facilitate the construction of evacuation center, and maintain those centers in all 50 states and within 100 miles of all coastal areas in the United States.
 These centers can take any form they need to but shall include: fully equipped Trauma I Ward, child care centers, sleeping/living accommodations for all evacuees assigned to the center, water, and waste management systems, fully functional HVAC systems, storage spaces for evacuees personal effects, food didstribution, and dining facilities.
 Addiitonally it would be ideal to have forms of recreation for evacuees to enjoy, or to keep their minds off of the disaster that befell them.
-Recommendations would be Cinema Space, Library, fitness center
-- FEMA Evacuation Centers shall be standardized according to region, and scale.
+Recommendations would be Cinema Space, Library, fitness center FEMA Evacuation Centers shall be standardized according to region, and scale.
 Ideally all Evacuation centers can function as normal cities or towns for 12 months, whereas larger centers should have provisions to include: food production, manufacturing of safety goods, clothes, and other survival materials.
-- FEMA shall have evacuation plans for all communities in the United States of America, which shall be maintained at the official building where local leadership conducts business (Town hall, Mayors office, etc.)
-- FEMA personnel shall be stationed in regions, or counties, whichever makes the most sense, to conduct audits of evacuation plans, local needs, and to conduct tests, training, or other activities as needed
-- During a disaster FEMA personnel shall have absolute authority to conduct evacuation business.
+FEMA shall have evacuation plans for all communities in the United States of America, which shall be maintained at the official building where local leadership conducts business (Town hall, Mayors office, etc.) FEMA personnel shall be stationed in regions, or counties, whichever makes the most sense, to conduct audits of evacuation plans, local needs, and to conduct tests, training, or other activities as needed During a disaster FEMA personnel shall have absolute authority to conduct evacuation business.
 This, explicitly includes authority over: the military, local, state, and federal law enforcement, emergency response personnel, and all civilians.
-- Given the massive expansion of activities, and responsibility for FEMA, there will need to be new training centers created in all 50 states to keep up with the new demand for trained, skilled adn qualified FEMA personnel.
-- Training of new personnel shall be similar to Military training in that meals, housing, and pay shall be provided for the duration of the training, with the option to commute for those within commuting distance.
-Zombie Apocalypse, Alien Invasion, or AI/Rebot Uprising Response
-FEMA shall be similarly in charge of executing response plans for the above exceptional disasters, and shall have abolsolute authority in the initial 6 months of these disasters occuring.
+Given the massive expansion of activities, and responsibility for FEMA, there will need to be new training centers created in all 50 states to keep up with the new demand for trained, skilled adn qualified FEMA personnel.
+Training of new personnel shall be similar to Military training in that meals, housing, and pay shall be provided for the duration of the training, with the option to commute for those within commuting distance.
+Zombie Apocalypse, Alien Invasion, or AI/Rebot Uprising Response FEMA shall be similarly in charge of executing response plans for the above exceptional disasters, and shall have abolsolute authority in the initial 6 months of these disasters occuring.
 Given that evacuation centers shall be built, maintained, and operational 24/7, their existence may very well be the difference between suriving the apocalypse or being erased!
+STAY INVOLVED Stay updated on Sam's campaign for Congress in Ohio's 15th District.
+Email Address Submit Thanks for subscribing!
+Paid for and owned by SAMUEL RONAN FOR CONGRESS - All Rights Reserved © # Sam Ronan for Congress — Ohio's 15th District.
+Border Crisis America Works Taxation Police Reforms Other Policies Press Releases Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer Facebook Twitter YouTube Get in touch to discuss ways you can get involved.
+Contact Us Volunteer Press Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer More Use tab to navigate through the menu items.
+Home About Ronan Statement Contact Press Releases Issues America Works Border Crisis Police Reforms Taxation & Economics Donate Volunteer bottom of page

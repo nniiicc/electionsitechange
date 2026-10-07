@@ -1,19 +1,2 @@
-Home
-About Deb
-Priorities
-Endorsements
-Get Involved
-Español
-Donate
-Home
-About Deb
-Priorities
-Endorsements
-Get Involved
-Español
-Donate
-Scroll
-Thank you for donating to my campaign.
-Donate to Help Elect Deb Patterson
-Click Here if you would like to send a check instead
-Donate
+Home About Deb Priorities Endorsements Get Involved Español Donate Home About Deb Priorities Endorsements Get Involved Español Donate Scroll Thank you for donating to my campaign.
+Donate to Help Elect Deb Patterson Click Here if you would like to send a check instead Donate DONATE Friends of Deb Patterson PO Box 8, Salem, OR 97308 (503) 400-5224 deb@debpattersonor.org Hours Home About Deb Priorities Endorsements Get Involved Donate Oregon Voter Registration FRIENDS OF DEB PATTERSON, PO BOX 8, SALEM, OR 97308 DEB@DEBPATTERSONOR.ORG Paid for by Friends of Deb Patterson, PAC ID #18821 ©# Friends of Deb Patterson

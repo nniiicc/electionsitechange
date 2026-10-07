@@ -1,14 +1,15 @@
-How the H-1B Program Is Costing Minnesotans Their Jobs, Their Homes, and Their Future
-By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary
-I live in Minnetonka.
+Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Phone-alt Twitter Facebook Tiktok Linkedin 180 Visa Types, One Broken System: June 1, 2026 No Comments How the H-1B Program Is Costing Minnesotans Their Jobs, Their Homes, and Their Future By Tyler Bass | Bass for Congress | Vote August 11th — Republican Primary I live in Minnetonka.
 I want to start there because this issue isn’t abstract to me — it’s something I see with my own eyes, in my own neighborhood, every single day.
 Minnetonka has changed dramatically in the years I’ve lived there.
 A substantial portion of my community — I’d estimate somewhere around 60 percent of my immediate neighbors — has roots in India.
 And I want to be very clear about something before I write another word: these are good people.
 Friendly, hardworking, family-oriented people who I’ve spoken to directly, whose kids play in the same neighborhoods as everyone else’s kids, and who came to Minnesota to build a better life just like everyone else who has ever come to this state.
 I am not writing this blog to attack them.
-I am writing this blog to ask a serious, uncomfortable question that nobody in the political class wants to ask out loud:
-Why has our federal visa system been designed in a way that puts American workers second — and what is it costing the rest of us?
+I am writing this blog to ask a serious, uncomfortable question that nobody in the political class wants to ask out loud: Why has our federal visa system been designed in a way that puts American workers second — and what is it costing the rest of us?
 Because here’s what those neighbors have told me directly, in their own words, during real conversations: they are here on visa programs.
 Many of them are engineers — highly educated, technically skilled professionals working at places like Medtronic, Optum, and Target right here in the Twin Cities.
 And at the same time, many of them have also shared that they are receiving some form of government assistance — food programs, housing assistance, and other state benefits.
@@ -18,8 +19,7 @@ And what I’ve seen raises a very legitimate policy question: when the federal 
 And why are we doing it when there are hundreds of thousands of Minnesotans who want those jobs and can’t get them?
 That is not a hateful question.
 That is the only honest question a representative of this district should be asking.
-The Visa Maze: 180 Types and Counting
-Let’s start with the scale of the problem, because most Americans — and even most politicians — have no idea how large and complicated the federal visa system has become.
+The Visa Maze: 180 Types and Counting Let’s start with the scale of the problem, because most Americans — and even most politicians — have no idea how large and complicated the federal visa system has become.
 There are currently over 180 different categories of visas a person can apply for to come to or remain in the United States.
 Student visas.
 Tourist visas.
@@ -34,8 +34,7 @@ The list is staggering — and within each of those categories are sub-categorie
 The result is a system so complex that even immigration lawyers spend entire careers mastering just a few corners of it.
 And in that complexity, employers — especially large corporations and the consulting firms that serve them — have found enormous opportunity to do something the program was never supposed to allow: replace American workers with cheaper foreign ones, legally and systematically.
 The H-1B visa is the most prominent example, but it is far from the only one.
-What the H-1B Program Was Supposed to Be — and What It Became
-The H-1B visa was created with a simple premise: when an American employer needs a highly specialized worker and genuinely cannot find one domestically, they can bring in a foreign worker on a temporary basis to fill that gap.
+What the H-1B Program Was Supposed to Be — and What It Became The H-1B visa was created with a simple premise: when an American employer needs a highly specialized worker and genuinely cannot find one domestically, they can bring in a foreign worker on a temporary basis to fill that gap.
 That sounds reasonable.
 In limited, genuinely specialized circumstances, it probably is.
 But that is not what the program became.
@@ -56,8 +55,7 @@ The primary jobs hired include software developers, industrial engineers, and bi
 These are Minnesota’s flagship employers.
 They are profitable, well-funded, and deeply embedded in our community.
 And they are systematically choosing to fill technical roles with visa workers rather than the Minnesotans who live, pay taxes, and raise families right next door to their campuses.
-The Wage Suppression Nobody Talks About
-Here is the economic reality that the corporations and their lobbyists don’t want you to think about too carefully.
+The Wage Suppression Nobody Talks About Here is the economic reality that the corporations and their lobbyists don’t want you to think about too carefully.
 The H-1B program requires employers to pay visa workers the “prevailing wage” — a wage determined by the Department of Labor designed to ensure foreign workers aren’t paid below market rates.
 On paper, that sounds like a protection for American workers.
 In practice, as researchers, whistleblowers, and even the federal government itself have acknowledged, it has become a mechanism for suppressing wages across entire industries.
@@ -69,11 +67,9 @@ Existing prevailing wage levels have, for too long, been set dramatically below 
 The Department of Labor itself admitted this in a formal rulemaking, noting the system needs to be modernized to bring foreign worker wages in line with what American workers actually earn.
 That’s not a fringe claim — that is the federal government confirming what American workers have been saying for years.
 And President Trump has called it exactly what it is.
-Trump issued a proclamation stating that the H-1B visa program was being “deliberately exploited to replace, rather than supplement, American workers with lower-paid, lower-skilled labor,” and that this abuse has been used by companies to “artificially suppress wages, resulting in a disadvantageous labor market for American citizens.”
-That’s not rhetoric.
+Trump issued a proclamation stating that the H-1B visa program was being “deliberately exploited to replace, rather than supplement, American workers with lower-paid, lower-skilled labor,” and that this abuse has been used by companies to “artificially suppress wages, resulting in a disadvantageous labor market for American citizens.” That’s not rhetoric.
 That is the documented reality of how the program operates — and it has been operating this way in Minnesota for years.
-The Hidden Machinery: How Corporations Use Middlemen to Cover Their Tracks
-One of the most frustrating aspects of this system is how deliberately obscured it is from public view.
+The Hidden Machinery: How Corporations Use Middlemen to Cover Their Tracks One of the most frustrating aspects of this system is how deliberately obscured it is from public view.
 Many employers hire visa workers using middlemen companies or “outsourcing” firms.
 By going through outsourcing firms, U.S. companies pay less and may avoid some of the negative publicity they would get from openly replacing their seasoned American staff with cheaper foreign hires.
 American companies often use subcontractors, outsourcers, or third-party shell companies to employ H-1B workers, which obscures the total number they hire.
@@ -86,8 +82,7 @@ The judgment echoed a finding from an Equal Employment Opportunity Commission in
 Three American workers sued the company alleging that it used various ruses to fire American workers so they could be replaced by lower-paid Indian workers.
 This is not a hypothetical concern.
 These are court-documented patterns playing out in the very industries — tech, engineering, healthcare IT — that Minnesota’s economy depends on.
-What I’ve Seen in Minnetonka: A Community-Level View
-Let me come back to what I’ve personally witnessed, because I think it illustrates the policy failure in concrete human terms.
+What I’ve Seen in Minnetonka: A Community-Level View Let me come back to what I’ve personally witnessed, because I think it illustrates the policy failure in concrete human terms.
 I have neighbors who are highly educated engineers working at major Twin Cities employers.
 They are here on various visa programs.
 I have spoken to them directly.
@@ -104,8 +99,7 @@ When an engineer working at Medtronic on an H-1B visa is also receiving Minnesot
 American workers — Minnesotans who have lived here their entire lives, who have paid into the system their entire careers — should not be watching their tax dollars support a benefit structure that also covers foreign nationals on corporate work visas.
 That is not a xenophobic observation.
 That is a reasonable demand for fiscal common sense.
-The Paid Family Leave Burden: A State Mandate That’s Crushing Small Business
-I want to take a moment to address the Minnesota Paid Family and Medical Leave program, because it is directly related to this conversation — and because as a small business owner, I feel its impact personally.
+The Paid Family Leave Burden: A State Mandate That’s Crushing Small Business I want to take a moment to address the Minnesota Paid Family and Medical Leave program, because it is directly related to this conversation — and because as a small business owner, I feel its impact personally.
 The new, historic paid leave mandate forces employers to offer 12 weeks of paid medical leave and 12 weeks of paid family leave, maxing out at 20 weeks total in a 52-week period.
 The program is administered by a new state agency with over 400 full-time employees and is paid for through surplus funds and a considerable increase in payroll taxes.
 The program launched in January 2026 with a 0.88 percent payroll tax — 25 percent higher than what was originally proposed when the Legislature passed the law in 2023.
@@ -126,8 +120,7 @@ I want to be clear: I am running for federal office, not state office.
 The paid family leave program is a state mandate and falls outside my direct jurisdiction in Congress.
 If I were running for a state office, I would advocate to repeal or dramatically reform this program because it is a textbook example of a socialist-style government mandate that forces private employers to fund government social programs through payroll taxation — and it is directly hurting the small businesses that are the backbone of Minnesota’s economy.
 What I can do at the federal level is fight against the expansion of federal mandates modeled on programs like this, push back against federal policies that make it easier for states to extend benefit programs to non-citizen visa holders, and work to reform the H-1B system so that the corporations driving this demand aren’t off-loading costs onto small businesses and taxpayers while pocketing the wage savings themselves.
-The Housing Connection: Your Rent Is Going Up Because of Visa-Driven Demand
-I’ve written separately about how Minnesota rents have increased 111 percent since 2013.
+The Housing Connection: Your Rent Is Going Up Because of Visa-Driven Demand I’ve written separately about how Minnesota rents have increased 111 percent since 2013.
 I want to connect that directly to the visa and immigration demand picture, because they are not separate issues.
 According to a report from the U.S.
 Department of Housing and Urban Development, a sharp rise in immigration during the Biden administration played a measurable role in pushing housing demand higher.
@@ -151,8 +144,7 @@ The politicians who expanded these visa programs and the corporations that lobbi
 They don’t have to choose between groceries and rent.
 They don’t have to explain to their adult children why they can’t afford to move out.
 The rest of us do.
-The Health Insurance Premium Nobody Is Talking About
-There’s one more piece of this puzzle that deserves attention, and it’s one that affects every Minnesotan who buys their own health insurance or relies on employer-sponsored coverage.
+The Health Insurance Premium Nobody Is Talking About There’s one more piece of this puzzle that deserves attention, and it’s one that affects every Minnesotan who buys their own health insurance or relies on employer-sponsored coverage.
 When you dramatically expand the pool of people covered under health programs — whether through visa holder eligibility for state-subsidized coverage, through family members of visa workers entering the system, or through any other mechanism that adds people to insurance risk pools — you increase the cost of coverage for everyone already in those pools.
 Minnesota has offered public or private health coverage with state subsidies to all otherwise eligible immigrants regardless of their immigration status, though due to state budget constraints, Minnesota has ended or will pause new enrollment for some immigrant populations.
 So Minnesota taxpayers funded a state health subsidy program expansive enough that even the state itself had to pause new enrollment because it couldn’t afford the cost.
@@ -162,8 +154,7 @@ Small business owners know this intimately.
 Every year, the health insurance renewal comes.
 Every year, the premium is higher.
 Every year, the explanation involves “increased utilization” and “rising claims costs” — which is insurance-industry language for: more people using the system, driving up costs for everyone.
-The Common-Sense Solution: A 1099 Model That Actually Works
-Here’s where I want to offer something different from the typical political answer, because I’m a businessman and I think like one.
+The Common-Sense Solution: A 1099 Model That Actually Works Here’s where I want to offer something different from the typical political answer, because I’m a businessman and I think like one.
 The conversation in Washington about the H-1B program is usually framed as a binary: either you support the program as-is and claim you’re pro-business and pro-innovation, or you want to eliminate it entirely and get accused of being anti-immigration.
 That is a false choice.
 There is a third option that makes far more sense and that would address the core complaints from both American workers and from the employers who genuinely do need specialized skills from time to time.
@@ -203,14 +194,12 @@ The program was deliberately designed, as researchers and advocates have documen
 The result is a generation of American engineers, programmers, and technical professionals who have been systematically passed over, undercut, and in many cases pushed out of their fields entirely.
 I want that to stop.
 And if elected to represent CD3 in Congress, I will fight for exactly that.
-Specifically, I will push for:
-A dramatic reduction in H-1B cap numbers until we can verify that the program is being used as originally intended — to fill genuine, documented gaps — rather than as a mechanism for systematic workforce replacement.
+Specifically, I will push for: A dramatic reduction in H-1B cap numbers until we can verify that the program is being used as originally intended — to fill genuine, documented gaps — rather than as a mechanism for systematic workforce replacement.
 Elimination of the outsourcing loophole that allows corporations to use third-party staffing firms to deploy H-1B workers without full transparency about where they’re placed or what they’re paid.
 Strict enforcement of “Americans first” hiring documentation — meaning employers must demonstrate, with specifics, that they made genuine good-faith efforts to hire American workers before going to the H-1B pipeline.
 A 1099 contractor framework for legitimate specialized foreign expertise, which removes the benefits dependency and long-term employment relationship that currently creates incentives for wage suppression and workforce displacement.
 Consolidation of the visa system from 180+ categories down to a manageable, enforceable structure where every category has a clear purpose, clear limits, and clear accountability.
-What Democrats Want — And Why It Doesn’t Work
-Every time this conversation happens, the Democrats offer the same answer: more programs, more benefits, more government intervention to help people who’ve been left behind by the broken system.
+What Democrats Want — And Why It Doesn’t Work Every time this conversation happens, the Democrats offer the same answer: more programs, more benefits, more government intervention to help people who’ve been left behind by the broken system.
 But here’s the problem with that answer: the broken system is largely their creation.
 The expansion of H-1B program usage during the Biden years.
 The extension of state benefit programs to non-citizen visa holders.
@@ -230,8 +219,7 @@ The corporations that have used the H-1B program to systematically undercut Amer
 That is not isolationism.
 That is not anti-immigration.
 That is common sense governance on behalf of the people who actually live, work, vote, and pay taxes in this district.
-A Final Word to My Minnetonka Neighbors
-I want to close by coming back to where I started: my neighborhood.
+A Final Word to My Minnetonka Neighbors I want to close by coming back to where I started: my neighborhood.
 To the Indian engineers and families who live near me, who have spoken to me honestly about their situations and their lives — I hold no ill will toward you.
 You came to Minnesota because the system invited you here.
 Many of you are contributing to this community in real ways.
@@ -247,3 +235,22 @@ Taxpayers will have programs that are sustainable and accountable.
 That is what I am fighting for.
 And on August 11th, I’m asking you to join me.
 Vote Bass for Congress — August 11th Republican Primary.
+Share: Facebook Twitter Pinterest LinkedIn Tyler Bass Leave a comment Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment. Δ Social Media Facebook-f Youtube Twitter Instagram Most Popular Voter ID October 2, 2026 Americans Should Always Come First October 2, 2026 “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” October 1, 2026 Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+September 6, 2026 Get The Latest Updates Subscribe To Our Weekly Newsletter No spam, notifications only about news & updates.
+Email Address Phone # Name subscribe Categories Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Prev Previous NO MORE RINOS Next Illegal Hires at Hormel Foods Next On Key Related Posts Voter ID Verify Everything, Whoever Wins: Why I Support the SAVE American Act After the 2016 election, Americans spent years arguing about whether the result could be Americans Should Always Come First Who Stands for Lizbeth Medina?
+Lizbeth Medina was 16, a cheerleader at Edna High School in Texas.
+In December 2023 she was supposed to perform “I Went to Film a Nonprofit’s Building.
+I Left With a Trespass Citation.” Where Is the Money Going?
+What I Saw Outside Autism Sibs Universe By Ty Bass, Republican candidate for Congress, Minnesota’s 3rd District First, I want Our Tax Dollars Are Being Offered As Loan Options To Their Treasurer.
+What I Saw Inside Autism Sibs Universe — And Why I’m Calling for Accountability I don’t usually talk about my contracting work on the campaign Let's work together to tackle the fraud!
+Paid for by Tyler Bass For Congress Menu Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Home Donate Now!
+Morrison vs.
+Bass Morrison Stock Trades About Tyler TBASS On Fraud Archives Get Involved Internship & Volunteering Location 2233 Hamline Ave N, Ste 616, Roseville Mn, 55113 763-309-9167 © # All rights reserved

@@ -1,16 +1,66 @@
 [
-"https://automattic.com/cookies",
-"https://facebook.com/kanekellyTX",
-"https://kanekelly.wordpress.com/",
-"https://kanekelly.wordpress.com/about",
-"https://kanekelly.wordpress.com/platform",
-"https://kanekelly.wordpress.com/the-political-process",
-"https://kanekelly.wordpress.com/volunteer",
-"https://subscribe.wordpress.com/",
-"https://wordpress.com/",
-"https://wordpress.com/abuse?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fabout%2F",
-"https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fabout%2F&signup_flow=account",
-"https://wordpress.com/reader/blogs/250107122/posts/1",
-"https://wordpress.com/start",
-"https://wp.me/PgVqhQ-1"
+{
+"text": "About",
+"href": "https://kanekelly.wordpress.com/about/"
+},
+{
+"text": "Copy shortlink",
+"href": "https://wp.me/PgVqhQ-1"
+},
+{
+"text": "Create a free website or blog at WordPress.com.",
+"href": "https://wordpress.com/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/kanekellyTX/"
+},
+{
+"text": "Home",
+"href": "https://kanekelly.wordpress.com/"
+},
+{
+"text": "Log in",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Log in now.",
+"href": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fkanekelly.wordpress.com%2Fabout%2F&signup_flow=account"
+},
+{
+"text": "Manage subscriptions",
+"href": "https://subscribe.wordpress.com/"
+},
+{
+"text": "Platform",
+"href": "https://kanekelly.wordpress.com/platform/"
+},
+{
+"text": "Report this content",
+"href": "https://wordpress.com/abuse/?report_url=https%3A%2F%2Fkanekelly.wordpress.com%2Fabout%2F"
+},
+{
+"text": "Sign up",
+"href": "https://wordpress.com/start/"
+},
+{
+"text": "The Compass",
+"href": "https://kanekelly.wordpress.com/the-political-process/"
+},
+{
+"text": "View post in Reader",
+"href": "https://wordpress.com/reader/blogs/250107122/posts/1"
+},
+{
+"text": "Volunteer",
+"href": "https://kanekelly.wordpress.com/volunteer/"
+},
+{
+"text": "[image]kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+},
+{
+"text": "kanekelly.com",
+"href": "https://kanekelly.wordpress.com"
+}
 ]

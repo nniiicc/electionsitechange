@@ -1,43 +1,170 @@
 [
-"https://bsky.app/profile/villegas4congress.bsky.social",
-"https://designedtorun.com/",
-"https://facebook.com/VillegasforCongress",
-"https://instagram.com/villegasforcongress",
-"https://mobilize.us/randyvillegas/event/1000801",
-"https://mobilize.us/randyvillegas/event/1001284",
-"https://mobilize.us/randyvillegas/event/1001388",
-"https://mobilize.us/randyvillegas/event/1007712",
-"https://mobilize.us/randyvillegas/event/1014886",
-"https://mobilize.us/randyvillegas/event/1014892",
-"https://mobilize.us/randyvillegas/event/1016099",
-"https://mobilize.us/randyvillegas/event/1016180",
-"https://mobilize.us/randyvillegas/event/1019245",
-"https://mobilize.us/randyvillegas/event/1027485",
-"https://mobilize.us/randyvillegas/event/1031660",
-"https://mobilize.us/randyvillegas/event/1040682",
-"https://mobilize.us/randyvillegas/event/1040705",
-"https://mobilize.us/randyvillegas/event/1040708",
-"https://mobilize.us/randyvillegas/event/1040714",
-"https://mobilize.us/randyvillegas/event/1041730",
-"https://mobilize.us/randyvillegas/event/1047903",
-"https://mobilize.us/randyvillegas/event/1048394",
-"https://mobilize.us/randyvillegas/event/1049405",
-"https://mobilize.us/randyvillegas/event/1049747",
-"https://mobilize.us/randyvillegas/event/1052482",
-"https://mobilize.us/randyvillegas/event/877876",
-"https://mobilize.us/randyvillegas/event/920478",
-"https://mobilize.us/randyvillegas/event/921489",
-"https://mobilize.us/randyvillegas/event/934303",
-"https://secure.actblue.com/donate/rvfc-web-2026",
-"https://tiktok.com/@villegasforcongress",
-"https://villegasforcongress.com/",
-"https://villegasforcongress.com/about",
-"https://villegasforcongress.com/endorsements",
-"https://villegasforcongress.com/issues",
-"https://villegasforcongress.com/media",
-"https://villegasforcongress.com/news",
-"https://villegasforcongress.com/privacy-policy",
-"https://villegasforcongress.com/sobre-el-candidato",
-"https://villegasforcongress.com/yard-signs",
-"https://x.com/Villegas_CA22"
+{
+"text": "About",
+"href": "https://www.villegasforcongress.com/about"
+},
+{
+"text": "Conoce a Randy",
+"href": "https://www.villegasforcongress.com/sobre-el-candidato"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/rvfc-web-2026"
+},
+{
+"text": "Endorsements",
+"href": "https://www.villegasforcongress.com/endorsements"
+},
+{
+"text": "Issues",
+"href": "https://www.villegasforcongress.com/issues"
+},
+{
+"text": "Media",
+"href": "https://www.villegasforcongress.com/media"
+},
+{
+"text": "News",
+"href": "https://www.villegasforcongress.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.villegasforcongress.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1000801/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1001284/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1001388/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1007712/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1014886/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1014892/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1016099/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1016180/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1019245/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1027485/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1031660/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1040682/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1040705/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1040708/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1040714/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1041730/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1047903/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1048394/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1049405/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1049747/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/1052482/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/877876/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/920478/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/921489/"
+},
+{
+"text": "RSVP",
+"href": "https://www.mobilize.us/randyvillegas/event/934303/"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.villegasforcongress.com/yard-signs"
+},
+{
+"text": "[image: Randy Villegas for Congress]",
+"href": "https://www.villegasforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/villegas4congress.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/VillegasforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/villegasforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@villegasforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/Villegas_CA22"
+},
+{
+"text": "info@villegasforcongress.com",
+"href": "mailto:info@villegasforcongress.com"
+}
 ]

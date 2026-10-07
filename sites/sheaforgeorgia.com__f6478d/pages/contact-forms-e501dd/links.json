@@ -1,15 +1,70 @@
 [
-"https://facebook.com/sheaforgeorgia",
-"https://instagram.com/sheaforgeorgia",
-"https://secure.ngpvan.com/LTI_3nP0rUu67bOxAuOhPg2",
-"https://sheaforgeorgia.com/",
-"https://sheaforgeorgia.com/cart",
-"https://sheaforgeorgia.com/contact-forms",
-"https://sheaforgeorgia.com/get-updates",
-"https://sheaforgeorgia.com/home",
-"https://sheaforgeorgia.com/meet-shea",
-"https://sheaforgeorgia.com/platform",
-"https://sheaforgeorgia.com/search",
-"https://sheaforgeorgia.com/vote",
-"https://twitter.com/sheaforgeorgia"
+{
+"text": "Cart 0",
+"href": "https://www.sheaforgeorgia.com/cart"
+},
+{
+"text": "Contact Us",
+"href": "https://www.sheaforgeorgia.com/contact-forms"
+},
+{
+"text": "Contribute",
+"href": "https://secure.ngpvan.com/LTI_3nP0rUu67bOxAuOhPg2"
+},
+{
+"text": "Get Updates",
+"href": "https://www.sheaforgeorgia.com/get-updates"
+},
+{
+"text": "Meet Shea",
+"href": "https://www.sheaforgeorgia.com/meet-shea"
+},
+{
+"text": "Platform",
+"href": "https://www.sheaforgeorgia.com/platform"
+},
+{
+"text": "Shea.Roberts@house.ga.gov",
+"href": "mailto:Shea.Roberts@house.ga.gov"
+},
+{
+"text": "Vote",
+"href": "https://www.sheaforgeorgia.com/vote"
+},
+{
+"text": "[image: Shea Roberts Campaign Logo]",
+"href": "https://www.sheaforgeorgia.com/home"
+},
+{
+"text": "[image: Shea Roberts for GA House 52]",
+"href": "https://www.sheaforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/sheaforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sheaforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/sheaforgeorgia/"
+},
+{
+"text": "[no text]",
+"href": "https://www.sheaforgeorgia.com/search"
+},
+{
+"text": "info@sheaforgeorgia.com",
+"href": "mailto:nfo@sheaforgeorgia.com"
+},
+{
+"text": "shea.roberts@house.ga.gov",
+"href": "mailto:shea.roberts@house.ga.gov"
+},
+{
+"text": "shea@sheaforgeorgia.com",
+"href": "mailto:"
+}
 ]

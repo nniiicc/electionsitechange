@@ -1,3 +1,10 @@
-Congresswoman Monica De La Cruz wrote to Homeland Security Secretary Markwayne Mullin asking the department to prioritize religious worker visa applications, citing USCIS processing times of 8.5 and 11.5 months depending on applicant type.
+Skip to content In English Conozca a Mónica Sobre ella Noticias y Medios Texas-15 Temas Involucrarse Colaborar Conviértete en un trabajador electoral Información sobre encuestas y elecciones Comercio Menu Conozca a Mónica Sobre ella Noticias y Medios Texas-15 Temas Involucrarse Colaborar Conviértete en un trabajador electoral Información sobre encuestas y elecciones Comercio DONAR De La Cruz Urges DHS to Speed Religious Worker Visa Processing agosto 1, 2026 Congresswoman Monica De La Cruz wrote to Homeland Security Secretary Markwayne Mullin asking the department to prioritize religious worker visa applications, citing USCIS processing times of 8.5 and 11.5 months depending on applicant type.
 She credited the administration for a January 2026 change that lets certain R-1 workers seek readmission without spending a mandatory year outside the country, then pressed for shorter wait times on top of it, writing that “Churches and faith-based institutions serve as the foundation for our communities.” She also cosponsored the bipartisan Religious Worker Protection Act, which would let DHS extend R-1 status until a permanent residence application is finalized.
-Texas Border Business
+Texas Border Business Facebook Instagram Twitter Al proporcionar tu número de teléfono celular o móvil y optar por participar, estás consintiendo recibir llamadas y mensajes de texto, incluyendo llamadas y mensajes automáticos, a ese número con notificaciones de campaña de Mónica para el Congreso.
+Los usuarios también pueden inscribirse en el programa de SMS enviando la palabra clave ÚNETE al 956.625.0212.
+Después de inscribirte, recibirás una confirmación por mensaje de texto.
+Responde AYUDA para ayuda, DETENER para terminar.
+La frecuencia de los mensajes puede variar.
+Se pueden aplicar tarifas de mensajes y de datos.
+Los Términos y Condiciones/Política de Privacidad se pueden encontrar aquí. here.
+Pagado por Monica for Congress Mailing Address Monica for Congress PO BOX 4605 McAllen, TX 78502 Contact Us Phone: 877-469-1210 Weslaco 1501 W Business 83 Weslaco, TX 78596 Media Kit Spanish English Spanish

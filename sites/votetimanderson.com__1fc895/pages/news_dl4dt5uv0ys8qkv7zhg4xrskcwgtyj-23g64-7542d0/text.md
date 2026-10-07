@@ -1,5 +1,2 @@
-Previous
-Previous
-NTV: Three candidates compete for NE Legislature seat in District 38
-Next
-Next
+0 Skip to Content News Endorsements Donate Open Menu Close Menu News Endorsements Donate Open Menu Close Menu News Endorsements Donate Rural Radio: Tim Anderson Announces Campaign for Nebraska Legislature in District 38 Jun 18 Written By Zach Herr Zach Herr Previous Previous NTV: Three candidates compete for NE Legislature seat in District 38 Next Next Clay County News: Tim Anderson announces campaign for Nebraska Legislature in District 38 Endorsements News Privacy Policy Paid for by Tim Anderson for Legislature | P.O.
+Box 15, Sutton, NE 68979

@@ -1,7 +1,12 @@
 {
  "description": "Jeremy Ferderber is running for election to the Pennsylvania House of Representatives, District 28. Learn about his background here.",
  "final_url": "https://www.ferd4pa.com/about",
- "paid_for_by": null,
+ "fingerprint": "62fb558926b667d070f4debaf0f58cf75482a947",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About | Ferderber For PA",
- "years_mentioned": []
+ "years_mentioned": [
+  "1996",
+  "2000"
+ ]
 }

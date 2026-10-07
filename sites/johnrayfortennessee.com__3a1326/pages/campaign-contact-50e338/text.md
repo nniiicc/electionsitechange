@@ -1,2 +1,4 @@
-Campaign Contact
-If you have questions or want to get involved in our campaign for Tennessee families, JRC wants to hear from you.
+Skip to content About Stay Informed Policy Priorities News & Updates Request E-Newsletter How to Vote Join TeamJRC Contribute Volunteer Media Contact Legislative Contact Campaign Contact About Stay Informed Policy Priorities News & Updates Request E-Newsletter How to Vote Join TeamJRC Contribute Volunteer Media Contact Legislative Contact Campaign Contact Donate Tiktok Instagram Facebook-f Threads X-twitter Campaign Contact If you have questions or want to get involved in our campaign for Tennessee families, JRC wants to hear from you.
+TeamJRC 2501 Oakland Avenue Nashville, TN 37212 (615) 415-4086 Email John Ray Contribute Volunteer Request a Yard Sign Request a T-Shirt Grab a Coffee Invite To a Community Event Request an Event Sponsorship Host a Fundraiser jrclemmons@gmail.com (615) 741-4410 Request E-Newsletter © John Ray Clemmons. | Paid for by Friends of John Ray Clemmons, Sydney U.
+Rogers, Treasurer | Site Designed by Epic Nine © John Ray Clemmons. | Paid for by Friends of John Ray Clemmons, Sydney U.
+Rogers, Treasurer | Site Designed by Epic Nine

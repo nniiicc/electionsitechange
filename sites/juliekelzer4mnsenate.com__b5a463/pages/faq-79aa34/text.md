@@ -1,7 +1,6 @@
-Got Questions?
+Home Meet Julie Endorsements Q&A Media/News Event Photos Issues Vote Contribute Yard Signs Contact Volunteer Got Questions?
 Julie has participated in many forums and interviews.
-Here are her answer to some of the most common questions:
-Tell us a little about yourself.
+Here are her answer to some of the most common questions: Tell us a little about yourself.
 I am a mother to a 20yr old son and 9yr old daughter, I have noticed the education difference with an 11yr gap.
 I have been in the customer service industry since I was 14, including salon management.
 Where I had to organize, lead and coordinate stylists to have our salon running efficiently.
@@ -53,7 +52,8 @@ Building more basic starter homes will also lower the cost, not everyone wants a
 How will you manage the budget?
 Federal cuts from the BBB are projected to cause a $2 billion shift to the state in the next 4 years.
 Start by keeping the programs that help the people, then start cutting what doesn’t.
-In 2019: corporations made up 10.1% of tax revenue, Individual Income Tax 31.9%, Property Tax 22.9%. 15 Fortune 500 companies in Minnesota had a combined profit of $547.26 Billion.
+In 2019: corporations made up 10.1% of tax revenue, Individual Income Tax 31.9%, Property Tax 22.9%.
+15 Fortune 500 companies in Minnesota had a combined profit of $547.26 Billion.
 Corporations need to contribute their fair share.
 What will you do to support agriculture in rural Minnesota?
 I believe that our small family farmers deserve better from our government.
@@ -78,3 +78,4 @@ Small businesses and locally owned farms are going out of business.
 People are struggling to survive with the cost of everything continuing to rise.
 I will be a voice for the people over the party, vote in the peoples best interests and improve our daily lives.
 The government needs to be: of the people, by the people, for the people.
+Endorsements Yard Signs Contribute Issues Volunteer Events Contact Media/News Privacy Policy Prepared and Paid for by the Julie Kelzer for MN Senate Committee PO Box 88 NYA, MN 55368 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Julie Events Issues Yard Signs Contribute Volunteer Contact Make Endorsement Endorsements Close Menu

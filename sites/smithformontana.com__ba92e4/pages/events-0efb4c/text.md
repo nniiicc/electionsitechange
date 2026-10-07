@@ -1,12 +1,2 @@
-Skip to content
-Home
-About
-Issues
-Get Involved
-Home
-About
-Issues
-Get Involved
-Donate
-Donate
-Events
+Skip to content Home About Issues Get Involved Home About Issues Get Involved Donate Donate Events Endorsements Montana AFL-CIO Montana Conservation Voters Montana Federation of Public Employees Big Sky 55+ Western Native Voice Action Fund Planned Parenthood Advocates of Montana Contact Call or Text (406) 534-9879 melissa@smithformontana.com Follow Jki-facebook-light Instagram Tiktok Donate Neighborhood News Subscribe to News Subscribe Email Subscribe Paid for by Friends of Melissa Smith (D), 1335 Naples St, Billings, MT 59105 © # All rights reserved.
+Paid for by Friends of Melissa Smith (D) 1335 Naples St, Billings, MT 5910 © # All rights reserved.

@@ -1,4 +1,4 @@
-| United States of America is still the most powerful economic influence in the world.
+UT 74 VOTE ABOUT Posts Experience Contact Inflation and Geopolitics 3/5/2022 United States of America is still the most powerful economic influence in the world.
 If we choose to "drill baby drill", over the long run we will simultaneously erode Russia's financial ability to wage war on Ukraine and others by driving global energy prices down and slow inflation.
 This would begin the liberation of Eastern Europe from Russian influence through economic policy.
 As natural gas supplies increase, we can re-route liquefied natural gas exports from China to Europe.
@@ -19,4 +19,5 @@ To leverage the economic strength of this country, we need to demonstrate the ki
 A United States Government that is not dependent on its allies or aggressors for financial support would demonstrate the impact for good that free markets, free governments, and free people can make in the 21st century.
 On defense, we should be the most respected nation in the world both because of our capability and our restraint.
 If we can’t lead from the White House, we should lead from the respective states.
-Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people. | |
+Let states set in motion a wave of capitalism and freedom that will demonstrate the influence for good that God given rights protected by Constitutional governance, including life, liberty, property, and the pursuit of happiness can have on the lives of our people.
+Comments are closed. read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

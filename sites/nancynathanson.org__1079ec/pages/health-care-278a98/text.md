@@ -1,5 +1,4 @@
-Health care and human services
-Pharmacy Benefit Managers’ business practices were squeezing pharmacies, paying them less than the cost of the drug for filling a patient’s prescription, and steering patients to more expensive drugs or something other than what their medical professional thinks best.
+0 Skip to Content Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Open Menu Close Menu Home About Priorities Legislative Work In the District Endorsements In the News Contact Nancy Donate & Volunteer Health care and human services Pharmacy Benefit Managers’ business practices were squeezing pharmacies, paying them less than the cost of the drug for filling a patient’s prescription, and steering patients to more expensive drugs or something other than what their medical professional thinks best.
 Pharmacies are going out of business and consumer choice is constrained.
 I passed a bill to rein in unfair business practices and bring transparency to the PBM money stream.
 When Eugene lost its only hospital on 90 days’ notice I jumped in to work with stakeholders on a response to reshape the delivery of urgent, same-day care.
@@ -16,3 +15,6 @@ Human service providers were struggling to meet needs of people who needed careg
 I dug in and passed five bills to reform Oregon’s complicated and antiquated system of background checks.
 When I saw how many forms someone would need to fill out for assistance, and how many different state agencies repeated the work over and over, I wrote the bill that started the work for a unified application system.
 In short, status quo isn’t good enough, and I work to improve it.
+Here’s a list of the bills I’ve passed as the Chief Sponsor.
+Friends of Nancy Nathanson PO Box 41895.
+Eugene, OR 97404 541-632-3417 info@nancynathanson.org Paid for by Friends of Nancy Nathanson

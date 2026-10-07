@@ -1,5 +1,5 @@
-MEET RANDY
-The name Chester and York counties can trust to fight for conservative, common sense values and new jobs.
+top of page HOME MEET RANDY ISSUES NEWS CONTACT DONATE SIGN UP More Use tab to navigate through the menu items.
+MEET RANDY The name Chester and York counties can trust to fight for conservative, common sense values and new jobs.
 Randy Ligon brings over 30 years of experience as a farmer, commercial realtor, businessman, and auctioneer, with deep roots in Chester County, South Carolina, where he has lived most of his life.
 Elected to the South Carolina House of Representatives in 2018, Randy has since been re-elected in 2020, 2022, and 2024.
 In the 2024 election cycle, he gave an early endorsement to President Donald Trump, who, in turn, endorsed Randy in the June primary.
@@ -12,3 +12,4 @@ Today, he is a highly respected benefit auctioneer, known for raising millions f
 His approach, grounded in traditional values and integrity, is a hallmark of his professional and personal life.
 Randy and his wife, Jeannie—a school psychologist and director of special services for Chester County schools for over 25 years—are dedicated members of Westminster Presbyterian Church in Rock Hill.
 Together, they have two grown children and have been married for almost 40 years.
+DONATE NOW PAID FOR BY RANDY LIGON FOR STATE HOUSE ​ Privacy Policy Terms and Conditions ​ Resources bottom of page

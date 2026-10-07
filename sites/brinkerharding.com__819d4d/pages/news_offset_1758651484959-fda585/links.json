@@ -1,46 +1,234 @@
 [
-"https://3newsnow.com/news/local-news/omaha-councilmember-brinker-harding-announces-campaign-for-congress",
-"https://brinkerharding.com/",
-"https://brinkerharding.com/about",
-"https://brinkerharding.com/cart",
-"https://brinkerharding.com/donate",
-"https://brinkerharding.com/endorsements",
-"https://brinkerharding.com/home",
-"https://brinkerharding.com/news",
-"https://brinkerharding.com/news/7ec6foxc5qeofdwow2cceoa1l4judb",
-"https://brinkerharding.com/news/city-councilman-seeks-end-to-homeless-encampments-shelter-staff-stress-broader-approach",
-"https://brinkerharding.com/news/fox-news-omaha-city-councilman-mounts-bid-to-succeed-outgoing-house-republican-rep-don-bacon",
-"https://brinkerharding.com/news/gretna-parade-highlights-some-congressional-candidates-amid-community-celebration",
-"https://brinkerharding.com/news/ketv-omaha-city-councilman-brinker-harding-announces-campaign-for-congress",
-"https://brinkerharding.com/news/klin-omaha-city-council-vp-to-announces-campaign-for-congress",
-"https://brinkerharding.com/news/kmtv-omaha-councilmember-brinker-harding-announces-campaign-for-congress",
-"https://brinkerharding.com/news/knop-election-2026-omaha-councilman-announces-run-for-2nd-congressional-district-seat",
-"https://brinkerharding.com/news/nebraska-examiner-omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-us-house-race",
-"https://brinkerharding.com/news/nebraska-public-media-republican-announces-run-for-nebraska-2nd-district-seat",
-"https://brinkerharding.com/news/omaha-world-herald-omaha-councilman-brinker-harding-launches-campaign-for-second-congressional-district",
-"https://brinkerharding.com/news/release-brinker-harding-announces-campaign-for-congress-in-nebraskas-second-district",
-"https://brinkerharding.com/news/the-hill-omaha-city-council-member-launches-bid-for-bacon-seat-in-house",
-"https://brinkerharding.com/news/washington-examiner-deb-fischer-backs-omaha-city-councilman-for-don-bacons-house-seat",
-"https://brinkerharding.com/news?offset=1756234369293&reversePaginate=true",
-"https://brinkerharding.com/press-resources",
-"https://brinkerharding.com/privacy",
-"https://brinkerharding.com/vision",
-"https://facebook.com/brinkerhardingNE02",
-"https://foxnews.com/politics/omaha-city-councilman-mounts-bid-succeed-outgoing-house-republican-rep-don-bacon",
-"https://instagram.com/brinkerharding",
-"https://ketv.com/article/gretna-parade-highlights-some-congressional-candidates/65517648",
-"https://ketv.com/article/omaha-city-councilman-brinker-harding-nebraska-congress-candidate/65264937",
-"https://klin.com/2025/07/01/omaha-city-council-vp-to-announces-campaign-for-congress",
-"https://knopnews2.com/video/2025/06/30/election-2026-omaha-councilman-announces-run-2nd-congressional-district-seat",
-"https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race",
-"https://nebraskapublicmedia.org/en/news/news-articles/republican-announces-run-for-nebraska-2nd-district-seat",
-"https://omaha.com/news/local/government-politics/elections/article_0c43d4ab-252d-4430-b6fa-39b047a0258f.html",
-"https://thehill.com/homenews/campaign/5379805-omaha-city-councilman-launches-bid-for-bacon-seat-in-house",
-"https://truthsocial.com/@brinkerharding",
-"https://us11.campaign-archive.com/?u=a39604f92ae80c86e58c3a176&id=6bf7a76729",
-"https://washingtonexaminer.com/news/campaigns/congressional/3462080/deb-fischer-backs-omaha-city-councilman-brinker-harding-don-bacon-house-seat",
-"https://wowt.com/2025/07/01/omaha-councilman-reportedly-considering-congressional-run",
-"https://wowt.com/2025/08/23/city-councilman-seeks-end-homeless-encampments-shelter-staff-stress-broader-approach",
-"https://x.com/brinkerharding",
-"https://youtube.com/@Brinker.Harding"
+{
+"text": "0",
+"href": "https://www.brinkerharding.com/cart"
+},
+{
+"text": "About Brinker",
+"href": "https://www.brinkerharding.com/about"
+},
+{
+"text": "Donate",
+"href": "https://www.brinkerharding.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.brinkerharding.com/endorsements"
+},
+{
+"text": "Fox News: Omaha city councilman mounts bid to succeed outgoing House Republican Rep. Don Bacon",
+"href": "https://www.foxnews.com/politics/omaha-city-councilman-mounts-bid-succeed-outgoing-house-republican-rep-don-bacon"
+},
+{
+"text": "In the News",
+"href": "https://www.brinkerharding.com/news"
+},
+{
+"text": "KETV: Gretna parade highlights some congressional candidates amid community celebration",
+"href": "https://www.ketv.com/article/gretna-parade-highlights-some-congressional-candidates/65517648"
+},
+{
+"text": "KETV: Omaha City Councilman Brinker Harding announces campaign for Congress",
+"href": "https://www.ketv.com/article/omaha-city-councilman-brinker-harding-nebraska-congress-candidate/65264937"
+},
+{
+"text": "KLIN: Omaha City Council VP To Announces Campaign For Congress",
+"href": "https://klin.com/2025/07/01/omaha-city-council-vp-to-announces-campaign-for-congress/"
+},
+{
+"text": "KMTV: Omaha Councilmember Brinker Harding announces campaign for congress",
+"href": "https://www.3newsnow.com/news/local-news/omaha-councilmember-brinker-harding-announces-campaign-for-congress"
+},
+{
+"text": "KNOP: Election 2026: Omaha councilman announces run for 2nd Congressional District seat",
+"href": "https://www.knopnews2.com/video/2025/06/30/election-2026-omaha-councilman-announces-run-2nd-congressional-district-seat/"
+},
+{
+"text": "Nebraska Examiner: Omaha City Council VP Brinker Harding jumps into Nebraska 2nd District U.S. House race",
+"href": "https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race/"
+},
+{
+"text": "Nebraska Public Media: Republican announces run for Nebraska 2nd District seat",
+"href": "https://nebraskapublicmedia.org/en/news/news-articles/republican-announces-run-for-nebraska-2nd-district-seat/"
+},
+{
+"text": "Newer Posts",
+"href": "https://www.brinkerharding.com/news?offset=1756234369293&reversePaginate=true"
+},
+{
+"text": "Omaha World-Herald: Omaha Councilman Brinker Harding Launches Campaign for Second Congressional District",
+"href": "https://omaha.com/news/local/government-politics/elections/article_0c43d4ab-252d-4430-b6fa-39b047a0258f.html"
+},
+{
+"text": "Press Resources",
+"href": "https://www.brinkerharding.com/press-resources"
+},
+{
+"text": "Privacy",
+"href": "https://www.brinkerharding.com/privacy"
+},
+{
+"text": "RELEASE: Brinker Harding Announces Campaign for Congress in Nebraska’s Second District",
+"href": "https://us11.campaign-archive.com/?u=a39604f92ae80c86e58c3a176&id=6bf7a76729"
+},
+{
+"text": "Read More",
+"href": "https://klin.com/2025/07/01/omaha-city-council-vp-to-announces-campaign-for-congress/"
+},
+{
+"text": "Read More",
+"href": "https://nebraskaexaminer.com/2025/07/01/omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-u-s-house-race/"
+},
+{
+"text": "Read More",
+"href": "https://nebraskapublicmedia.org/en/news/news-articles/republican-announces-run-for-nebraska-2nd-district-seat/"
+},
+{
+"text": "Read More",
+"href": "https://omaha.com/news/local/government-politics/elections/article_0c43d4ab-252d-4430-b6fa-39b047a0258f.html"
+},
+{
+"text": "Read More",
+"href": "https://thehill.com/homenews/campaign/5379805-omaha-city-councilman-launches-bid-for-bacon-seat-in-house/"
+},
+{
+"text": "Read More",
+"href": "https://us11.campaign-archive.com/?u=a39604f92ae80c86e58c3a176&id=6bf7a76729"
+},
+{
+"text": "Read More",
+"href": "https://www.3newsnow.com/news/local-news/omaha-councilmember-brinker-harding-announces-campaign-for-congress"
+},
+{
+"text": "Read More",
+"href": "https://www.foxnews.com/politics/omaha-city-councilman-mounts-bid-succeed-outgoing-house-republican-rep-don-bacon"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/gretna-parade-highlights-some-congressional-candidates/65517648"
+},
+{
+"text": "Read More",
+"href": "https://www.ketv.com/article/omaha-city-councilman-brinker-harding-nebraska-congress-candidate/65264937"
+},
+{
+"text": "Read More",
+"href": "https://www.knopnews2.com/video/2025/06/30/election-2026-omaha-councilman-announces-run-2nd-congressional-district-seat/"
+},
+{
+"text": "Read More",
+"href": "https://www.washingtonexaminer.com/news/campaigns/congressional/3462080/deb-fischer-backs-omaha-city-councilman-brinker-harding-don-bacon-house-seat/#google_vignette"
+},
+{
+"text": "Read More",
+"href": "https://www.wowt.com/2025/07/01/omaha-councilman-reportedly-considering-congressional-run/"
+},
+{
+"text": "Read More",
+"href": "https://www.wowt.com/2025/08/23/city-councilman-seeks-end-homeless-encampments-shelter-staff-stress-broader-approach/"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.brinkerharding.com/home#join"
+},
+{
+"text": "The Hill: Omaha City Council member launches bid for Bacon seat in House",
+"href": "https://thehill.com/homenews/campaign/5379805-omaha-city-councilman-launches-bid-for-bacon-seat-in-house/"
+},
+{
+"text": "Vision",
+"href": "https://www.brinkerharding.com/vision"
+},
+{
+"text": "WOWT: City Councilman seeks end to homeless encampments, shelter staff stress broader approach",
+"href": "https://www.wowt.com/2025/08/23/city-councilman-seeks-end-homeless-encampments-shelter-staff-stress-broader-approach/"
+},
+{
+"text": "WOWT: Omaha councilman reportedly considering Congressional run",
+"href": "https://www.wowt.com/2025/07/01/omaha-councilman-reportedly-considering-congressional-run/"
+},
+{
+"text": "Washington Examiner: Deb Fischer backs Omaha city councilman for Don Bacon’s House seat",
+"href": "https://www.washingtonexaminer.com/news/campaigns/congressional/3462080/deb-fischer-backs-omaha-city-councilman-brinker-harding-don-bacon-house-seat/#google_vignette"
+},
+{
+"text": "[image: Brinker Harding for Congress]",
+"href": "https://www.brinkerharding.com/"
+},
+{
+"text": "[image: Fox News: Omaha city councilman mounts bid to succeed outgoing House Republican Rep. Don Bacon]",
+"href": "https://www.brinkerharding.com/news/fox-news-omaha-city-councilman-mounts-bid-to-succeed-outgoing-house-republican-rep-don-bacon"
+},
+{
+"text": "[image: KETV: Gretna parade highlights some congressional candidates amid community celebration]",
+"href": "https://www.brinkerharding.com/news/gretna-parade-highlights-some-congressional-candidates-amid-community-celebration"
+},
+{
+"text": "[image: KETV: Omaha City Councilman Brinker Harding announces campaign for Congress]",
+"href": "https://www.brinkerharding.com/news/ketv-omaha-city-councilman-brinker-harding-announces-campaign-for-congress"
+},
+{
+"text": "[image: KLIN: Omaha City Council VP To Announces Campaign For Congress]",
+"href": "https://www.brinkerharding.com/news/klin-omaha-city-council-vp-to-announces-campaign-for-congress"
+},
+{
+"text": "[image: KMTV: Omaha Councilmember Brinker Harding announces campaign for congress]",
+"href": "https://www.brinkerharding.com/news/kmtv-omaha-councilmember-brinker-harding-announces-campaign-for-congress"
+},
+{
+"text": "[image: KNOP: Election 2026: Omaha councilman announces run for 2nd Congressional District seat]",
+"href": "https://www.brinkerharding.com/news/knop-election-2026-omaha-councilman-announces-run-for-2nd-congressional-district-seat"
+},
+{
+"text": "[image: Nebraska Examiner: Omaha City Council VP Brinker Harding jumps into Nebraska 2nd District U.S. House race]",
+"href": "https://www.brinkerharding.com/news/nebraska-examiner-omaha-city-council-vp-brinker-harding-jumps-into-nebraska-2nd-district-us-house-race"
+},
+{
+"text": "[image: Nebraska Public Media: Republican announces run for Nebraska 2nd District seat]",
+"href": "https://www.brinkerharding.com/news/nebraska-public-media-republican-announces-run-for-nebraska-2nd-district-seat"
+},
+{
+"text": "[image: Omaha World-Herald: Omaha Councilman Brinker Harding Launches Campaign for Second Congressional District]",
+"href": "https://www.brinkerharding.com/news/omaha-world-herald-omaha-councilman-brinker-harding-launches-campaign-for-second-congressional-district"
+},
+{
+"text": "[image: RELEASE: Brinker Harding Announces Campaign for Congress in Nebraska’s Second District ]",
+"href": "https://www.brinkerharding.com/news/release-brinker-harding-announces-campaign-for-congress-in-nebraskas-second-district"
+},
+{
+"text": "[image: The Hill: Omaha City Council member launches bid for Bacon seat in House]",
+"href": "https://www.brinkerharding.com/news/the-hill-omaha-city-council-member-launches-bid-for-bacon-seat-in-house"
+},
+{
+"text": "[image: WOWT: City Councilman seeks end to homeless encampments, shelter staff stress broader approach]",
+"href": "https://www.brinkerharding.com/news/city-councilman-seeks-end-to-homeless-encampments-shelter-staff-stress-broader-approach"
+},
+{
+"text": "[image: WOWT: Omaha councilman reportedly considering Congressional run]",
+"href": "https://www.brinkerharding.com/news/7ec6foxc5qeofdwow2cceoa1l4judb"
+},
+{
+"text": "[image: Washington Examiner: Deb Fischer backs Omaha city councilman for Don Bacon’s House seat]",
+"href": "https://www.brinkerharding.com/news/washington-examiner-deb-fischer-backs-omaha-city-councilman-for-don-bacons-house-seat"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/brinkerharding"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/brinkerhardingNE02"
+},
+{
+"text": "[no text]",
+"href": "https://www.truthsocial.com/@brinkerharding"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Brinker.Harding"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/brinkerharding"
+}
 ]

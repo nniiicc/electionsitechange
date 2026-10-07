@@ -1,44 +1,23 @@
-September 10, 2026
-LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
+Skip to content Chris Mann for Kansas Meet Chris Priorities Get Involved News Donate Chris Mann campaign launches Statewide Law Enforcement Advisory Committee September 10, 2026 LAWRENCE, KS – Today, the Chris Mann campaign launched its first statewide coalition of the cycle, Law Enforcement for Chris Mann.
 Mann’s Law Enforcement Advisory Committee, which was also announced today, is spearheading the coalition.
 The Law Enforcement Advisory Committee comprises current and retired sheriffs and chiefs of police, a former U.S. attorney, and a former judge, representing communities across Kansas.
 “As a former police officer and prosecutor, I’m honored to have the backing of current and retired law enforcement leaders across Kansas,” said Chris Mann, candidate for Kansas Attorney General.
-“I’m excited to partner with law enforcement leaders to shape my administration’s policies and ensure our local agencies are supported and able to keep Kansans and our communities safe.”
-The campaign formed the coalition in response to growing concerns from local law enforcement leaders and prosecutors across the state, especially in rural areas, who no longer receive the assistance in investigations and prosecutions they have historically relied on from the Attorney General’s office.
+“I’m excited to partner with law enforcement leaders to shape my administration’s policies and ensure our local agencies are supported and able to keep Kansans and our communities safe.” The campaign formed the coalition in response to growing concerns from local law enforcement leaders and prosecutors across the state, especially in rural areas, who no longer receive the assistance in investigations and prosecutions they have historically relied on from the Attorney General’s office.
 Many communities have seen partisan politics replace the office’s historical focus on partnering with law enforcement to keep Kansans safe.
 “Being an elected official myself, I understand the scar that can be left on a community when elected officials choose politics over having the fortitude and integrity to do the right thing,” said Greg Taylor, Neosho County Sheriff.
-“I’m supporting Chris Mann because I think he is genuinely more interested in the job and actual duties of the Kansas Attorney General than using the office as a political stepping stone.”
-“Chris Mann will bring a unique set of credentials to the Kansas Attorney General‘s office that will serve all people of the state very well.
+“I’m supporting Chris Mann because I think he is genuinely more interested in the job and actual duties of the Kansas Attorney General than using the office as a political stepping stone.” “Chris Mann will bring a unique set of credentials to the Kansas Attorney General‘s office that will serve all people of the state very well.
 He has been a front-line police officer, a dedicated attorney, a crusader against drunk driving, and a strong supporter of accessible mental health services,” said Ellen Hanson, retired Lenexa Chief of Police.
-“He will define the office of Attorney General in a way that will promote justice for all Kansans rather than divisive partisan political causes.”
-The Advisory Committee will help Chris shape his administration’s approach to issues facing law enforcement, including rising rates of violent crime, an increase in scams targeting the elderly, recruitment and retention in local agencies, and the availability of mental health services.
+“He will define the office of Attorney General in a way that will promote justice for all Kansans rather than divisive partisan political causes.” The Advisory Committee will help Chris shape his administration’s approach to issues facing law enforcement, including rising rates of violent crime, an increase in scams targeting the elderly, recruitment and retention in local agencies, and the availability of mental health services.
 “Sheriff offices across Kansas are facing many of the same challenges,” said Byron Roberson, Johnson County Sheriff.
-“I wanted to be part of the conversation and help identify practical ways the Attorney General’s Office can better support our agencies and communities.”
-A Coalition Built on Experience, Commitment to Public Service, and Regional Representation
-The Law Enforcement for Chris Mann Advisory Committee was intentionally built to ensure representation from urban, suburban, and rural communities across Kansas.
+“I wanted to be part of the conversation and help identify practical ways the Attorney General’s Office can better support our agencies and communities.” A Coalition Built on Experience, Commitment to Public Service, and Regional Representation The Law Enforcement for Chris Mann Advisory Committee was intentionally built to ensure representation from urban, suburban, and rural communities across Kansas.
 For too long, politicians in Topeka have pushed one-size-fits-all approaches to law enforcement.
 Chris is dedicated to working with law enforcement on the ground to meet their communities’ unique needs.
 Members of Chris’ law enforcement coalition are diverse in region, years of service, and political affiliation, but are unified in their commitment to electing Chris Mann and returning the Attorney General’s office to one that serves as a partner to Kansas law enforcement.
 “I met Chris about five years ago at the Kansas Association of Chiefs of Police,” said Randy Henderson, retired Reno County Sheriff.
-“I was very impressed with his story, his philosophy, work ethic, and his overall concerns about the people of Kansas.”
-Founding Advisory Committee:
-- Greg Taylor, Neosho County Sheriff (R)
-- Joel Thomas Nickols Jr., Thomas County Sheriff (R)
-- Byron Roberson, Johnson County Sheriff (D)
-- Jay Armbrister, Douglas County Sheriff (D)
-- Randy Henderson, retired Reno County Sheriff (2002-2019) (R)
-- Gary Steed, former Director of the Kansas Commission on Peace Officers’ Standards and Training (2012-2021) and retired Sedgwick County Sheriff (2001-2008) (R)
-- John Douglass, retired Overland Park Chief of Police and former Director of Emergency Services for the Shawnee Mission School District (R)
-- Tarik Khatib, retired Lawrence Chief of Police (D)
-- Ellen Hanson, retired Lenexa Chief of Police (U)
-- Sara Welch, retired 10th District Court Judge (D)
-- Barry Grissom, former U.S.
-Attorney for the District of Kansas (D)
-The Law Enforcement for Chris Mann coalition will continue to expand in the coming weeks, further increasing representation across Kansas’ 105 counties.
+“I was very impressed with his story, his philosophy, work ethic, and his overall concerns about the people of Kansas.” Founding Advisory Committee: Greg Taylor , Neosho County Sheriff (R) Joel Thomas Nickols Jr., Thomas County Sheriff (R) Byron Roberson, Johnson County Sheriff (D) Jay Armbrister, Douglas County Sheriff (D) Randy Henderson , retired Reno County Sheriff (2002-2019) (R) Gary Steed, former Director of the Kansas Commission on Peace Officers’ Standards and Training (2012-2021) and retired Sedgwick County Sheriff (2001-2008) (R) John Douglass, retired Overland Park Chief of Police and former Director of Emergency Services for the Shawnee Mission School District (R) Tarik Khatib, retired Lawrence Chief of Police (D) Ellen Hanson, retired Lenexa Chief of Police (U) Sara Welch, retired 10th District Court Judge (D) Barry Grissom, former U.S.
+Attorney for the District of Kansas (D) The Law Enforcement for Chris Mann coalition will continue to expand in the coming weeks, further increasing representation across Kansas’ 105 counties.
 “I believe in Chris’ vision to be a real partner in public safety, and he will empower and facilitate law enforcement collaborative partnerships across Kansas,” said Tarik Khatib, retired Lawrence Chief of Police.
-“Ultimately, it will be the communities served by law enforcement that will benefit through strengthened relationships and support.”
-About Chris Mann
-Chris Mann has dedicated his life to serving and protecting Kansas communities, first as a police officer and then as a prosecutor.
+“Ultimately, it will be the communities served by law enforcement that will benefit through strengthened relationships and support.” About Chris Mann Chris Mann has dedicated his life to serving and protecting Kansas communities, first as a police officer and then as a prosecutor.
 He followed in his father’s footsteps and became a police officer at just 21.
 Unfortunately, his career was cut short by a drunk driver who struck Chris at 50 mph while Chris was outside his car on a routine car stop.
 The injuries sustained ended Chris’ law enforcement career, but he knew he wanted to continue serving Kansans.
@@ -47,4 +26,6 @@ While prosecuting in Wyandotte County, Chris began volunteering with Mothers Aga
 In 2014, Chris began prosecuting as a Senior Staff Attorney in the Office of the Kansas Securities Commissioner, investigating and prosecuting scam artists and white-collar criminals.
 Chris now owns his own law firm where he represents victims of drunk driving and their families.
 Chris is running for Kansas Attorney General to defend the Constitution, protect the rule of law, and ensure Kansas families are safe.
-###
+### Post navigation Previous: “Kansans need an Attorney General that works for working people,” Chris Mann clinches several new endorsements from organized labor in his race for Kansas Attorney General Next: FIRST AD: Chris Mann highlights record of taking on violent offenders and greedy corporations Meet Chris Priorities Get Involved News Donate Facebook X Instagram PO Box 4005 Overland Park, KS 66204 Info@chrismannforkansas.com Paid for by Chris Mann for Kansas, Jill S.
+Docking Treasurer.
+Privacy Policy

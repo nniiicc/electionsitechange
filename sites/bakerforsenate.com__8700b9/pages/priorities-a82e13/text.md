@@ -1,14 +1,5 @@
-PRIORITIES
-My legislative agenda has always been shaped by the priorities shared by families and communities.
+MEET LISA PRIORITIES ENDORSEMENTS EVENTS VOLUNTEER VOTE CENTER DONATE PRIORITIES My legislative agenda has always been shaped by the priorities shared by families and communities.
 I have heard your concerns about public safety, affordability, and good jobs.
 These matters are central to my efforts on your behalf.
 As a life-long Republican, I pledge to continue to protect our Second Amendment rights, demand election integrity through Voter ID, and ensure our veterans receive the benefits they earned.
-Keeping PA Safe
-- Recruiting and retaining additional law enforcement and first responders by offering new incentives
-- Preventing child abuse and neglect and combating human trafficking by enacting protective measures
-Keeping PA Affordable
-- Battling inflation by ensuring conservative spending levels in the state budget and eliminating waste, fraud, and abuse
-- Fighting rising energy costs by resisting efforts to shut down our energy sector and working to create needed baseload energy
-Keeping PA Competitive
-- Connecting students with family-sustaining jobs and reliable employment prospects by expanding educational opportunities and making technical training more widely available
-- Growing the economy by eliminating burdensome regulations and reforming Pennsylvania’s tax structure and supporting our job creators
+Keeping PA Safe Recruiting and retaining additional law enforcement and first responders by offering new incentives Preventing child abuse and neglect and combating human trafficking by enacting protective measures Keeping PA Affordable Battling inflation by ensuring conservative spending levels in the state budget and eliminating waste, fraud, and abuse Fighting rising energy costs by resisting efforts to shut down our energy sector and working to create needed baseload energy Keeping PA Competitive Connecting students with family-sustaining jobs and reliable employment prospects by expanding educational opportunities and making technical training more widely available Growing the economy by eliminating burdensome regulations and reforming Pennsylvania’s tax structure and supporting our job creators PRIVACY POLICY 570-776-5940 • info@bakerforsenate.com Follow Follow Follow Follow Paid for by Baker for Senate Committee

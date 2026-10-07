@@ -1,9 +1,30 @@
 [
-"http://amyparkscolorado.com/",
-"https://amyparkscolorado.com/",
-"https://amyparkscolorado.com/issues",
-"https://amyparkscolorado.com/meet-amy",
-"https://amyparkscolorado.com/pages/cookie-policy",
-"https://amyparkscolorado.com/volunteer-opportunities",
-"https://secure.anedot.com/committee-to-elect-amy-parks/donate"
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/committee-to-elect-amy-parks/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://www.amyparkscolorado.com/#endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.amyparkscolorado.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.amyparkscolorado.com/issues"
+},
+{
+"text": "Meet Amy",
+"href": "https://www.amyparkscolorado.com/meet-amy"
+},
+{
+"text": "Volunteer Opportunities",
+"href": "https://www.amyparkscolorado.com/volunteer-opportunities"
+},
+{
+"text": "[image: Amy Parks Logo]",
+"href": "http://www.amyparkscolorado.com"
+}
 ]

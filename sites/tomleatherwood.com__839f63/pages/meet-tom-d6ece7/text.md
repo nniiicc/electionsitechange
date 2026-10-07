@@ -1,5 +1,4 @@
-Meet Tom
-Born and raised in Shelby County, Tom Leatherwood was elected State Representative to serve the people of District 99 in 2018.
+Skip to content Tom Leathwood Navigation Home Meet Tom Issues Contact Contribute Home Meet Tom Issues Contact Contribute Meet Tom Born and raised in Shelby County, Tom Leatherwood was elected State Representative to serve the people of District 99 in 2018.
 After earning a Bachelor of Science degree in Geology from the University of Memphis, Tom spent several years in the energy industry.
 After this, he fulfilled a life-long dream of world travel and spent 14 months backpacking to over 20 countries.
 Tom came back home with a greater realization and appreciation of the many freedoms and blessings we enjoy in our nation.
@@ -14,3 +13,4 @@ Tom is honored by the privilege to serve the people of Shelby County by shaping 
 He and his wife, Melissa, have been married for 36 years and are active members of Faith Baptist Church in Bartlett.
 They live in Arlington and Melissa teaches at Lakeland Elementary School.
 They are blessed with five daughters, four sons-in-law, and five grandchildren.
+Join Tom First Name * Last Name * Email * Zip Code * Join PAID FOR BY Committee to Elect Tom Leatherwood

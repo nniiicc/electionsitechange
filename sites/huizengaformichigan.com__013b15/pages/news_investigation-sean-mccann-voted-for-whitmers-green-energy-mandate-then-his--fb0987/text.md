@@ -1,15 +1,12 @@
-HOLLAND, MI. — A new investigative report released today reveals how Sean McCann’s voted to funnel millions to companies he’s personally invested in.
+Donate About Issues News Join Donate News INVESTIGATION: Sean McCann Voted for Whitmer’s Green Energy Mandate.
+Then His ESG Investments Soared September 2, 2026 Back to News HOLLAND, MI. — A new investigative report released today reveals how Sean McCann’s voted to funnel millions to companies he’s personally invested in.
 McCann voted for Whitmer’s sweeping Green New Deal which guaranteed millions in profits for Michigan utility giants DTE Energy Co. and CMS Energy Corp. which Sean McCann is invested in and which, after his vote, have increased in value by 45%.
 Meanwhile, working families are left paying the bill, facing an additional $2,746 a year in utility costs as a result.
-In case you missed it…
-Sean McCann Voted for Whitmer’s Green Energy Mandate.
-Then His ESG Investment Soared
-Townhall | Amy Curtis | September 2, 2026
-Democrat Sean McCann, the Michigan State Senator running for the House in the state’s 4th Congressional District, voted for Gov.
+In case you missed it… Sean McCann Voted for Whitmer’s Green Energy Mandate.
+Then His ESG Investment Soared Townhall | Amy Curtis | September 2, 2026 Democrat Sean McCann, the Michigan State Senator running for the House in the state’s 4th Congressional District, voted for Gov.
 Gretchen Whitmer’s sweeping green energy mandate.
 That mandate will funnel billions to Michigan’s biggest energy players, guaranteeing both massive spending and record profits for these utility monopolies.
-McCann bragged about the vote in a post on X, saying he was “proud” to “move toward a clean energy future.”
-I was proud to vote for legislation to help Michigan move toward a clean energy future yesterday.
+McCann bragged about the vote in a post on X, saying he was “proud” to “move toward a clean energy future.” I was proud to vote for legislation to help Michigan move toward a clean energy future yesterday.
 These bills will increase utility accountability, improve energy reliability and reduce carbon emissions for homes and businesses.
 But at the same time, McCann stands to benefit from this green energy windfall.
 Why?
@@ -30,7 +27,8 @@ Michigan’s green energy plan could cost $386 billion, double your electric bil
 At the same time, Michigan families will have to decide between keeping the lights on and putting food on their table, shares in McCann’s investments went from $310.07 per share to $452.42 per share.
 This isn’t the only time McCann has put himself first.
 During his time on the Kalamazoo City Commission, he voted to give himself a 23 percent pay increase while voting to raise fees and taxes on Kalamazoo residents.
-This includes a 2001 vote to increase wastewater services by four percent, a 2005 vote to increase water revenues by three percent, and championing a $91.5 million tax package that raised property taxes.
+This includes a 2001 vote to increase wastewater services by four percent, a 2005 vote to increase water revenues by three percent, and championing a $# million tax package that raised property taxes.
 While McCann’s investments haven’t earned him millions of dollars, there’s a much simpler question at play here.
 Why was a state lawmaker voting on legislation that could directly benefit companies included in his investment portfolio?
 Michigan voters who will bear the brunt of McCann’s green energy vote in the form of higher utility rates, blackouts, and other problems also deserve to know why McCann put his own interests ahead of theirs.
+Share: PAID FOR BY HUIZENGA FOR CONGRESS PRIVACY POLICY · TERMS AND CONDITIONS About Issues News Join

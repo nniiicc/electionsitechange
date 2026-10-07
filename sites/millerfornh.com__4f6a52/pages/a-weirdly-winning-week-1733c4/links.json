@@ -1,18 +1,66 @@
 [
-"https://bsky.app/profile/wandrme.paxex.aero",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=161&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=26&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=317&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=36&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=393&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=518&txtFormat=html",
-"https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=561&txtFormat=html",
-"https://instagram.com/wandrme",
-"https://millerfornh.com/",
-"https://millerfornh.com/a-weirdly-winning-week",
-"https://millerfornh.com/author/sethmillerworks-net",
-"https://millerfornh.com/category/legislative-update",
-"https://millerfornh.com/taking-it-on-the-chin",
-"https://millerfornh.com/what-the-hell-is-the-point",
-"https://valoroffroad.com/blogs/the-source/how-much-does-a-utv-weight"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/wandrme.paxex.aero"
+},
+{
+"text": "Feb 15, 2025",
+"href": "https://millerfornh.com/a-weirdly-winning-week/"
+},
+{
+"text": "HB174",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=161&txtFormat=html"
+},
+{
+"text": "HB201",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=36&txtFormat=html"
+},
+{
+"text": "HB238",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=317&txtFormat=html"
+},
+{
+"text": "HB249",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=393&txtFormat=html"
+},
+{
+"text": "HB436",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=518&txtFormat=html"
+},
+{
+"text": "HB57",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=26&txtFormat=html"
+},
+{
+"text": "HB677",
+"href": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2025&id=561&txtFormat=html"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/wandrme"
+},
+{
+"text": "Legislative Update",
+"href": "https://millerfornh.com/category/legislative-update/"
+},
+{
+"text": "My minimal research suggests",
+"href": "https://www.valoroffroad.com/blogs/the-source/how-much-does-a-utv-weight"
+},
+{
+"text": "Next: Taking it on the Chin",
+"href": "https://millerfornh.com/taking-it-on-the-chin/"
+},
+{
+"text": "Previous: What the hell is the point?",
+"href": "https://millerfornh.com/what-the-hell-is-the-point/"
+},
+{
+"text": "Seth Miller",
+"href": "https://millerfornh.com/author/sethmillerworks-net/"
+},
+{
+"text": "[image: Miller for NH]",
+"href": "https://millerfornh.com/"
+}
 ]

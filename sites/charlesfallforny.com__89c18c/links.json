@@ -1,16 +1,66 @@
 [
-"http://createscapeent.com/",
-"https://charlesfallforny.com/",
-"https://charlesfallforny.com/accomplishments",
-"https://charlesfallforny.com/endorsements",
-"https://charlesfallforny.com/meet-charles",
-"https://charlesfallforny.com/press",
-"https://facebook.com/CharlesFallforNY",
-"https://linkedin.com/in/charles-dialor-fall-mpa-3a426129",
-"https://secure.actblue.com/donate/charles-fall-for-ny",
-"https://twitter.com/Charlesdfall",
-"https://vote.nyc/",
-"https://vote.nyc/page/early-voting-information",
-"https://vote.nyc/page/find-your-poll-site",
-"https://vote.nyc/page/register-vote"
+{
+"text": "ACCOMPLISHMENTS",
+"href": "https://www.charlesfallforny.com/accomplishments"
+},
+{
+"text": "CreatEscape",
+"href": "http://www.createscapeent.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/charles-fall-for-ny"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.charlesfallforny.com/endorsements"
+},
+{
+"text": "Early Voting Information",
+"href": "https://vote.nyc/page/early-voting-information"
+},
+{
+"text": "Find Your Polling Site",
+"href": "https://vote.nyc/page/find-your-poll-site"
+},
+{
+"text": "HOME",
+"href": "https://www.charlesfallforny.com"
+},
+{
+"text": "Learn More About Voting",
+"href": "https://vote.nyc/"
+},
+{
+"text": "MEET CHARLES",
+"href": "https://www.charlesfallforny.com/meet-charles"
+},
+{
+"text": "MORE ACCOMPLISHMENTS",
+"href": "https://www.charlesfallforny.com/accomplishments"
+},
+{
+"text": "PRESS",
+"href": "https://www.charlesfallforny.com/press"
+},
+{
+"text": "Register To Vote",
+"href": "https://vote.nyc/page/register-vote"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/CharlesFallforNY/"
+},
+{
+"text": "[image: Black LinkedIn Icon]",
+"href": "https://www.linkedin.com/in/charles-dialor-fall-mpa-3a426129/"
+},
+{
+"text": "[image: Black Twitter Icon]",
+"href": "https://twitter.com/Charlesdfall/"
+},
+{
+"text": "[image: FALL_logo1_stack.png]",
+"href": "https://www.charlesfallforny.com"
+}
 ]

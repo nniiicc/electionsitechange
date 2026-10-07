@@ -1,6 +1,26 @@
 [
-"https://boschformo.com/",
-"https://boschformo.com/privacy-policy",
-"https://facebook.com/profile.php?id=61570726912716",
-"https://secure.anedot.com/tim-bosch/donate"
+{
+"text": "About",
+"href": "https://boschformo.com/#about"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/tim-bosch/donate"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61570726912716"
+},
+{
+"text": "Privacy Policy",
+"href": "https://boschformo.com/privacy-policy/"
+},
+{
+"text": "Support",
+"href": "https://boschformo.com/#support"
+},
+{
+"text": "[image: BOSCH FOR STATE REPRESENTATIVE]",
+"href": "https://boschformo.com/"
+}
 ]

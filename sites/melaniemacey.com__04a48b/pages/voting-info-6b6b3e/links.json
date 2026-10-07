@@ -1,28 +1,166 @@
 [
-"https://facebook.com/melaniemaceymichigan",
-"https://heyvictor.com/",
-"https://house.mi.gov/media/District%20Maps/006.pdf",
-"https://instagram.com/melaniemaceymi?igsh=b21rN21hd2JzZ25t",
-"https://melaniemacey.com/",
-"https://melaniemacey.com/accessibility-statement",
-"https://melaniemacey.com/endorsements",
-"https://melaniemacey.com/events",
-"https://melaniemacey.com/issues",
-"https://melaniemacey.com/meet-candidate",
-"https://melaniemacey.com/news",
-"https://melaniemacey.com/volunteer",
-"https://melaniemacey.com/voting-info",
-"https://michigan.gov/sos/elections",
-"https://michigan.gov/sos/elections/voting/early-in-person-voting",
-"https://michigan.gov/sos/elections/voting/register-to-vote",
-"https://michiganvoting.org/rides",
-"https://mvic.sos.state.mi.us/",
-"https://mvic.sos.state.mi.us/AVApplication/Index",
-"https://mvic.sos.state.mi.us/Home/RegisterToVote",
-"https://mvic.sos.state.mi.us/Home/VoteAtHome",
-"https://mvic.sos.state.mi.us/PublicBallot/Index",
-"https://mvic.sos.state.mi.us/RegisterVoter/Index",
-"https://mvic.sos.state.mi.us/Voter/Index",
-"https://mvic.sos.state.mi.us/Voter/index",
-"https://secure.actblue.com/donate/melanie-macey-1"
+{
+"text": "Absentee voting",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome/#online"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://melaniemacey.com/accessibility-statement/"
+},
+{
+"text": "Check Voter Registration Status",
+"href": "https://mvic.sos.state.mi.us/Voter/Index"
+},
+{
+"text": "Contact",
+"href": "mailto:melanie@melaniemacey.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melanie-macey-1?amount="
+},
+{
+"text": "Download District 6 Map",
+"href": "https://www.house.mi.gov/media/District%20Maps/006.pdf"
+},
+{
+"text": "Early voting",
+"href": "https://www.michigan.gov/sos/elections/voting/early-in-person-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://melaniemacey.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://melaniemacey.com/events/"
+},
+{
+"text": "Find My Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/index"
+},
+{
+"text": "Find Your Polling Place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/"
+},
+{
+"text": "Home",
+"href": "https://melaniemacey.com/"
+},
+{
+"text": "In the News",
+"href": "https://melaniemacey.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://melaniemacey.com/issues/"
+},
+{
+"text": "Learn more about Voting in Michigan",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Meet Melanie",
+"href": "https://melaniemacey.com/meet-candidate/"
+},
+{
+"text": "Michigan Department of State",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "Michigan Secretary of State Elections",
+"href": "https://www.michigan.gov/sos/elections"
+},
+{
+"text": "Michigan Voter Information Center",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "Register to Vote",
+"href": "https://mvic.sos.state.mi.us/Home/RegisterToVote/#video"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote"
+},
+{
+"text": "Request Absentee Ballot",
+"href": "https://mvic.sos.state.mi.us/AVApplication/Index"
+},
+{
+"text": "View your sample ballot here",
+"href": "https://mvic.sos.state.mi.us/PublicBallot/Index"
+},
+{
+"text": "Volunteer",
+"href": "https://melaniemacey.com/volunteer/"
+},
+{
+"text": "Vote By Mail",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome/#online"
+},
+{
+"text": "Vote Early",
+"href": "https://www.michigan.gov/sos/elections/voting/early-in-person-voting#WhatIsEarlyVoting"
+},
+{
+"text": "Voting Info",
+"href": "https://melaniemacey.com/voting-info/"
+},
+{
+"text": "[image: Melanie Macey Democrat for State Representative] [image: Melanie Macey Democrat for State Representative]",
+"href": "https://melaniemacey.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/melaniemaceymichigan"
+},
+{
+"text": "[tooltip: Hey Victor]",
+"href": "https://heyvictor.com/"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.instagram.com/melaniemaceymi?igsh=b21rN21hd2JzZ25t"
+},
+{
+"text": "check your polling location",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "local clerk’s office",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/#yourclerk"
+},
+{
+"text": "polling place",
+"href": "https://mvic.sos.state.mi.us/Voter/Index#early-voting-search-section"
+},
+{
+"text": "proof of residency documentation",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote#Residency"
+},
+{
+"text": "register as early as possible",
+"href": "https://www.michigan.gov/sos/elections/voting/register-to-vote#HowToRegister"
+},
+{
+"text": "registered voter",
+"href": "https://mvic.sos.state.mi.us/"
+},
+{
+"text": "request an absentee ballot",
+"href": "https://mvic.sos.state.mi.us/Home/VoteAtHome/#online"
+},
+{
+"text": "sign up for a ride in advance",
+"href": "https://www.michiganvoting.org/rides"
+},
+{
+"text": "update your voting registration address",
+"href": "https://mvic.sos.state.mi.us/RegisterVoter/Index"
+},
+{
+"text": "your local clerk’s office",
+"href": "https://mvic.sos.state.mi.us/Voter/Index/#yourclerk"
+}
 ]

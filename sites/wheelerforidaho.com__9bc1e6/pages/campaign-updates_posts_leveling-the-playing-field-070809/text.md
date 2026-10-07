@@ -1,6 +1,4 @@
-Leveling the Playing Field
-Leveling the Playing Field
-For decades, employers used a college degree as a signal.
+Skip to main content Wheeler For Idaho Menu Why I Am Running About Josh Blog Contact Campaign Voting Record Donate Volunteer Search the site Expand Search Leveling the Playing Field Leveling the Playing Field For decades, employers used a college degree as a signal.
 It didn’t matter if a job actually required a degree.
 Employers used this “paper ceiling” to create a pointless hurdle that blocked people from well-paying jobs.
 We’re pushing back against this short-sightedness in Idaho.
@@ -31,3 +29,4 @@ I know we have Idahoans capable of doing it.
 We owe it to our friends and neighbors to continue improving our state at every level for those who live here.
 Rep.
 Josh Wheeler represents District 35 (Bannock, Bear Lake, Bonneville, Caribou, and Teton Counties) in the Idaho House.
+23 Aug 2024 Home Campaign Updates Leveling the Playing Field Wheeler for Idaho Ben Spencer - Treasurer (208) 360-3926 © # Home About Josh Contact Campaign Back to top

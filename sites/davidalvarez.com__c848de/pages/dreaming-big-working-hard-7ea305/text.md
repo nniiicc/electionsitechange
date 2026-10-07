@@ -1,5 +1,3 @@
-Dreaming Big | Working Hard with David Alvarez is a podcast about people, policy, and the power of opportunity.
+About Media Press Releases News Articles Memos OPPORTUNITY EDU DREAMING BIG | WORKING HARD Donate Dreaming Big | Working Hard with David Alvarez is a podcast about people, policy, and the power of opportunity.
 Hosted by California Assemblymember David Alvarez, each episode dives into the issues shaping our communities, from housing and education to economic and environmental justice.
-Power, Protest, and Preserving Our Culture | S1E3
-We See People on Their Worst Day | S1E2
-David Alvarez & Xochitl Alvarez on Education & the Chula Vista UniVERSITY
+RECENT EPISODES OF DREAMING BIG WORKING HARD Power, Protest, and Preserving Our Culture | S1E3 We See People on Their Worst Day | S1E2 David Alvarez & Xochitl Alvarez on Education & the Chula Vista UniVERSITY VIEW MORE VIDEOS ON YOUTUBE SUBSCRIBE TO DREAMING BIG WORKING HARD For meeting requests and legislative questions, call: (619) 498-8580 For all press inquires: Jeremy Addis-Mills (760) 880-4397 or Jeremy@digitalimpactand.com ‍ For campaign questions: (619) 870-8385 Press Releases Memos News Articles Privacy Statement Paid for David Alvarez for State Assembly 2022 FPPC ID: 1443355 Design & Hosting by Digital Impact &

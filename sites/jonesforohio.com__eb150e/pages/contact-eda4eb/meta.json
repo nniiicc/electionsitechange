@@ -1,7 +1,11 @@
 {
  "description": "Share a question, concern, idea, or media inquiry with the Aaron Jones campaign.",
  "final_url": "https://www.jonesforohio.com/contact",
- "paid_for_by": "PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Arm",
+ "fingerprint": "45a5132737cc35594f6f1d95f07be38e82bf3028",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY FRIENDS OF AARON JONES Use of military rank, unit, title, or photographs in uniform does not imply endorsement by the Department of the Army or the Department",
  "title": "Contact the Campaign | Aaron Jones for Ohio House District 88",
- "years_mentioned": []
+ "years_mentioned": [
+  "2000"
+ ]
 }

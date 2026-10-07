@@ -1,4 +1,4 @@
-| FOR IMMEDIATE RELEASE April 14, 2021 Hendersonville, NC—U.S.
+RUSH $10 TO VIRGINIA FOXX FOR CONGRESS >> Issues Voter Info News Donate News Back to News Page Madison Cawthorn Announces Endorsement of Virginia Foxx for Re-Election in 2022 FOR IMMEDIATE RELEASE April 14, 2021 Hendersonville, NC—U.S.
 Representative Madison Cawthorn (R-NC) today released the following statement endorsing Congresswoman Virginia Foxx (R-NC) for re-election to the United States House of Representatives in North Carolina’s 5th Congressional District in 2022.
 “Virginia Foxx is the kind of conservative woman we need representing western North Carolina in Congress.
 She knows how to get things done for North Carolina and how to stand up for her conservative principles.
@@ -14,4 +14,4 @@ She fights for small-government.
 She’ll stand up to the newest threats to our liberty in the 21st century, including the unchecked power of big tech to marginalize our fellow Americans.
 Virginia stands up for common sense, even when it’s not politically correct.
 She knows what it’s like to run a small business and is completely committed to growing our economy and protecting her constituents from the economic war being waged by nations like China.” “I couldn’t be prouder to endorse Virginia Foxx.
-She deserves the full support of every conservative who cares about the future of our nation.” |
+She deserves the full support of every conservative who cares about the future of our nation.” Previous Next Donate web@virginiafoxx.com | PO Box 2676 Boone, NC 28607 Privacy Policy Paid for by Virginia Foxx for Congress

@@ -1,25 +1,142 @@
 [
-"https://california.ballottrax.net/voter",
-"https://countyofkings.com/departments/administration/elections",
-"https://facebook.com/ValadaoforCongress",
-"https://kernvote.com/",
-"https://kernvote.com/ElectionInformation/AddressLookup?RedirectAction=PollSiteLookup&RedirectController=CurrentElectionInformation&RedirectArea=ElectionInformation",
-"https://registertovote.ca.gov/",
-"https://secure.winred.com/valadao-for-congress",
-"https://secure.winred.com/valadao-for-congress?amount=10",
-"https://secure.winred.com/valadao-for-congress?amount=25",
-"https://secure.winred.com/valadao-for-congress?amount=5",
-"https://secure.winred.com/valadao-for-congress?amount=50",
-"https://tularecoelections.org/elections",
-"https://twitter.com/dgvaladao",
-"https://valadaoforcongress.com/",
-"https://valadaoforcongress.com/about-david",
-"https://valadaoforcongress.com/inicio",
-"https://valadaoforcongress.com/issues",
-"https://valadaoforcongress.com/media",
-"https://valadaoforcongress.com/news",
-"https://valadaoforcongress.com/privacy-policy",
-"https://valadaoforcongress.com/showsupportrequestayardsign",
-"https://valadaoforcongress.com/voter-information",
-"https://voterstatus.sos.ca.gov/"
+{
+"text": "$10",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=10"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/valadao-for-congress/?amount=50"
+},
+{
+"text": "559-624-7300",
+"href": "tel:559-624-7300"
+},
+{
+"text": "559-852-4401",
+"href": "tel:559-852-4401"
+},
+{
+"text": "661-868-3590",
+"href": "tel:661-868-3590"
+},
+{
+"text": "AV1@co.tulare.ca.us",
+"href": "mailto:AV1@co.tulare.ca.us"
+},
+{
+"text": "About David",
+"href": "https://valadaoforcongress.com/about-david/"
+},
+{
+"text": "CLICK HERE",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Click here to find your assigned polling location",
+"href": "https://www.kernvote.com/ElectionInformation/AddressLookup?RedirectAction=PollSiteLookup&RedirectController=CurrentElectionInformation&RedirectArea=ElectionInformation"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/valadao-for-congress/"
+},
+{
+"text": "Elections@CountyofKings.com",
+"href": "mailto:Elections@CountyofKings.com"
+},
+{
+"text": "Español",
+"href": "https://valadaoforcongress.com/inicio/"
+},
+{
+"text": "FAX: 559-737-4498",
+"href": "tel:559-737-4498"
+},
+{
+"text": "FAX: 661-868-3768",
+"href": "tel:661-868-3768"
+},
+{
+"text": "Get Involved",
+"href": "https://valadaoforcongress.com/showsupportrequestayardsign/"
+},
+{
+"text": "Home",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "Issues",
+"href": "https://valadaoforcongress.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://valadaoforcongress.com/media/"
+},
+{
+"text": "News",
+"href": "https://valadaoforcongress.com/news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://valadaoforcongress.com/privacy-policy"
+},
+{
+"text": "TOLL FREE: 1-800-452-8683",
+"href": "tel:1-800-452-8683"
+},
+{
+"text": "TRACK YOUR BALLOT",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Voter Information",
+"href": "https://valadaoforcongress.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "https://valadaoforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/dgvaladao"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/ValadaoforCongress/"
+},
+{
+"text": "[no text]",
+"href": "mailto:"
+},
+{
+"text": "here",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "here",
+"href": "https://registertovote.ca.gov/"
+},
+{
+"text": "here",
+"href": "https://voterstatus.sos.ca.gov/"
+},
+{
+"text": "https://kernvote.com",
+"href": "https://kernvote.com"
+},
+{
+"text": "https://tularecoelections.org/elections",
+"href": "https://tularecoelections.org/elections"
+},
+{
+"text": "https://www.countyofkings.com/departments/administration/elections",
+"href": "https://www.countyofkings.com/departments/administration/elections"
+}
 ]

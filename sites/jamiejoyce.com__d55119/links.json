@@ -1,52 +1,274 @@
 [
-"http://instagram.com/jamiejoyce4congress",
-"http://twitter.com/justjamiejoyce",
-"https://arxiv.org/abs/2306.11932",
-"https://bsky.app/profile/jamiejoyce.bsky.social",
-"https://cnn.com/2026/09/24/politics/cnn-poll-ai-data-centers-vis",
-"https://couriernewsroom.com/wp-content/uploads/sites/257/GBAO-Reckoning-Action-Courier-Survey-Presentation-081026-release.pdf",
-"https://dailymail.com/news/article-15811113/congressional-candidate-jamie-joyce-democrats-epstein.html",
-"https://docs.google.com/document/d/1iwBeStwokBuXBBNXGdQBprL46W0LO-tBYRQMpiLsIpA/edit?usp=drive_link",
-"https://instagram.com/p/DZqPzgjD6-7",
-"https://integrityindex.us/candidate/joyce-jamie",
-"https://integrityindex.us/candidate/lateefah-simon",
-"https://jamiejoyce.com/",
-"https://jamiejoyce.com/-helping-the-district",
-"https://jamiejoyce.com/alameda-needs",
-"https://jamiejoyce.com/albany-needs",
-"https://jamiejoyce.com/berkeley-needs",
-"https://jamiejoyce.com/blog/2026/9/21/the-incumbent-refuses-to-debate",
-"https://jamiejoyce.com/blog/gaza",
-"https://jamiejoyce.com/cart",
-"https://jamiejoyce.com/contact",
-"https://jamiejoyce.com/district-overview",
-"https://jamiejoyce.com/donate",
-"https://jamiejoyce.com/emeryville-needs",
-"https://jamiejoyce.com/endorsements",
-"https://jamiejoyce.com/in-the-news",
-"https://jamiejoyce.com/in-the-news/2026/6/29/jamie-speaks-in-dc-endorsed-by-epstein-survivors",
-"https://jamiejoyce.com/jamies-background",
-"https://jamiejoyce.com/oakland-needs",
-"https://jamiejoyce.com/piedmont-needs",
-"https://jamiejoyce.com/san-leandro-needs",
-"https://jamiejoyce.com/volunteer",
-"https://levernews.com/big-ais-favorite-democrats-are-writing-the-partys-ai-plan",
-"https://linkedin.com/in/justjamiejoyce",
-"https://linkedin.com/in/justjamiejoyce/details/recommendations?detailScreenTabIndex=0",
-"https://mercurynews.com/2026/05/12/in-deep-blue-east-bay-district-simon-challenger-calls-for-democratic-party-overhaul",
-"https://msn.com/en-us/news/politics/blue-district-candidate-launches-fierce-critique-of-democratic-party/ss-AA235kfj?uxmode=ruby",
-"https://themadact.com/",
-"https://themadact.com/about-ai",
-"https://themadact.com/about-elections",
-"https://themadact.com/about-epstein",
-"https://themadact.com/about-ice",
-"https://themadact.com/about-surveillance",
-"https://themadact.com/dark-money",
-"https://themadact.com/title",
-"https://themadact.com/title-i",
-"https://themadact.com/title-ii",
-"https://themadact.com/title-iv",
-"https://themadact.com/title-vii",
-"https://themadact.com/title-viii",
-"https://tiktok.com/@repjamiejoyce"
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title"
+},
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title-i"
+},
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title-ii"
+},
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title-iv"
+},
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title-vii"
+},
+{
+"text": "(read more)",
+"href": "https://www.themadact.com/title-viii"
+},
+{
+"text": "0",
+"href": "https://www.jamiejoyce.com/cart"
+},
+{
+"text": "240+ pages of serious policy",
+"href": "https://www.themadact.com/title-ii"
+},
+{
+"text": "7 in 10 Americans",
+"href": "https://www.cnn.com/2026/09/24/politics/cnn-poll-ai-data-centers-vis"
+},
+{
+"text": "84% of voters",
+"href": "https://couriernewsroom.com/wp-content/uploads/sites/257/GBAO-Reckoning-Action-Courier-Survey-Presentation-081026-release.pdf"
+},
+{
+"text": "AI",
+"href": "https://www.themadact.com/about-ai"
+},
+{
+"text": "AI SuperPAC funded candidates in charge of AI",
+"href": "https://www.levernews.com/big-ais-favorite-democrats-are-writing-the-partys-ai-plan/"
+},
+{
+"text": "Alameda",
+"href": "https://www.jamiejoyce.com/alameda-needs"
+},
+{
+"text": "Albany",
+"href": "https://www.jamiejoyce.com/albany-needs"
+},
+{
+"text": "Anthropic researchers",
+"href": "https://arxiv.org/abs/2306.11932"
+},
+{
+"text": "Back",
+"href": "https://www.jamiejoyce.com/"
+},
+{
+"text": "Berkeley",
+"href": "https://www.jamiejoyce.com/berkeley-needs"
+},
+{
+"text": "DONATE",
+"href": "https://www.jamiejoyce.com/donate"
+},
+{
+"text": "District Overview",
+"href": "https://www.jamiejoyce.com/district-overview"
+},
+{
+"text": "Donate to Jamie's Campaign",
+"href": "https://www.jamiejoyce.com/donate"
+},
+{
+"text": "Emeryville",
+"href": "https://www.jamiejoyce.com/emeryville-needs"
+},
+{
+"text": "Folder: ✔ Serving the District",
+"href": "https://www.jamiejoyce.com/-helping-the-district"
+},
+{
+"text": "ICE",
+"href": "https://www.themadact.com/about-ice"
+},
+{
+"text": "Jamie’s",
+"href": "https://integrityindex.us/candidate/joyce-jamie"
+},
+{
+"text": "MAD Act Website",
+"href": "https://www.themadact.com/"
+},
+{
+"text": "Oakland",
+"href": "https://www.jamiejoyce.com/oakland-needs"
+},
+{
+"text": "Piedmont",
+"href": "https://www.jamiejoyce.com/piedmont-needs"
+},
+{
+"text": "Read more about it.",
+"href": "https://www.jamiejoyce.com/in-the-news/2026/6/29/jamie-speaks-in-dc-endorsed-by-epstein-survivors"
+},
+{
+"text": "San Leandro",
+"href": "https://www.jamiejoyce.com/san-leandro-needs"
+},
+{
+"text": "See more detail about my work in AI here.",
+"href": "https://www.jamiejoyce.com/jamies-background"
+},
+{
+"text": "The MAD Act",
+"href": "https://www.themadact.com/"
+},
+{
+"text": "[image: Jamie Joyce For Congress]",
+"href": "https://www.jamiejoyce.com/"
+},
+{
+"text": "[image: Jamie Joyce is a \"phenomenal leader\" according to a linkedin review][image: Jamie Joyce is a \"phenomenal leader\" according to a linkedin review]",
+"href": "https://www.linkedin.com/in/justjamiejoyce/details/recommendations/?detailScreenTabIndex=0"
+},
+{
+"text": "[image: Jamie Joyce is a \"remarkable leader with a vision and devotion\" according to a Linkedin Review][image: Jamie Joyce is a \"remarkable leader with a vision and devotion\" according to a Linkedin Review]",
+"href": "https://www.linkedin.com/in/justjamiejoyce/details/recommendations/?detailScreenTabIndex=0"
+},
+{
+"text": "[image: Jamie is a \"wonderful and inspiring leader to work under\" according to a linkedin review][image: Jamie is a \"wonderful and inspiring leader to work under\" according to a linkedin review]",
+"href": "https://www.linkedin.com/in/justjamiejoyce/details/recommendations/?detailScreenTabIndex=0"
+},
+{
+"text": "[image]",
+"href": "https://www.dailymail.com/news/article-15811113/congressional-candidate-jamie-joyce-democrats-epstein.html"
+},
+{
+"text": "[image]",
+"href": "https://www.jamiejoyce.com/in-the-news/2026/6/29/jamie-speaks-in-dc-endorsed-by-epstein-survivors"
+},
+{
+"text": "[image]",
+"href": "https://www.mercurynews.com/2026/05/12/in-deep-blue-east-bay-district-simon-challenger-calls-for-democratic-party-overhaul/"
+},
+{
+"text": "[image]",
+"href": "https://www.msn.com/en-us/news/politics/blue-district-candidate-launches-fierce-critique-of-democratic-party/ss-AA235kfj?uxmode=ruby#image=5"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/jamiejoyce4congress"
+},
+{
+"text": "[no text]",
+"href": "http://twitter.com/justjamiejoyce"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamiejoyce.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/justjamiejoyce/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@repjamiejoyce"
+},
+{
+"text": "a drafting issue",
+"href": "https://www.instagram.com/p/DZqPzgjD6-7/"
+},
+{
+"text": "agencies",
+"href": "https://www.themadact.com/about-epstein"
+},
+{
+"text": "debate Jamie",
+"href": "https://www.jamiejoyce.com/blog/2026/9/21/the-incumbent-refuses-to-debate"
+},
+{
+"text": "drafted legislation",
+"href": "https://www.themadact.com/title-vii"
+},
+{
+"text": "endorsed",
+"href": "https://www.jamiejoyce.com/endorsements"
+},
+{
+"text": "endorsement of Epstein survivors",
+"href": "https://www.jamiejoyce.com/endorsements"
+},
+{
+"text": "funding electoral reform",
+"href": "https://www.themadact.com/about-elections"
+},
+{
+"text": "getting more Epstein Files",
+"href": "https://www.themadact.com/about-epstein"
+},
+{
+"text": "government files",
+"href": "https://docs.google.com/document/d/1iwBeStwokBuXBBNXGdQBprL46W0LO-tBYRQMpiLsIpA/edit?usp=drive_link"
+},
+{
+"text": "here",
+"href": "https://www.jamiejoyce.com/district-overview"
+},
+{
+"text": "here",
+"href": "https://www.jamiejoyce.com/jamies-background"
+},
+{
+"text": "incumbent",
+"href": "https://integrityindex.us/candidate/lateefah-simon"
+},
+{
+"text": "read more",
+"href": "https://integrityindex.us/candidate/lateefah-simon"
+},
+{
+"text": "read more",
+"href": "https://www.jamiejoyce.com/blog/gaza"
+},
+{
+"text": "shining a light on dark money",
+"href": "https://www.themadact.com/dark-money"
+},
+{
+"text": "surveillance",
+"href": "https://www.themadact.com/about-surveillance"
+},
+{
+"text": "the MAD Act",
+"href": "https://themadact.com"
+},
+{
+"text": "✔ About Jamie",
+"href": "https://www.jamiejoyce.com/jamies-background"
+},
+{
+"text": "✔ Contact",
+"href": "https://www.jamiejoyce.com/contact"
+},
+{
+"text": "✔ Endorsements",
+"href": "https://www.jamiejoyce.com/endorsements"
+},
+{
+"text": "✔ News",
+"href": "https://www.jamiejoyce.com/in-the-news"
+},
+{
+"text": "✔ Read The MAD Act",
+"href": "https://themadact.com"
+},
+{
+"text": "✔ Volunteer",
+"href": "https://www.jamiejoyce.com/volunteer"
+},
+{
+"text": "❤️ DONATE",
+"href": "https://www.jamiejoyce.com/donate"
+}
 ]

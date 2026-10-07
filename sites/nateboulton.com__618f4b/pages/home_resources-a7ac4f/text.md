@@ -1,2 +1,5 @@
-Links and Resources Use the links below to follow Nate on social media.
-Twitter Instagram Facebook Homepage
+Skip to content Nate Boulton for Iowa House A Proven Leader for Iowa's Working Families.
+Menu Home More About Nate A leader in and for Our Community Recent News Stories Donate Links and Resources Contact Links and Resources Use the links below to follow Nate on social media.
+Twitter Instagram Facebook Homepage Create a website or blog at WordPress.com Nate Boulton for Iowa House Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

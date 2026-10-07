@@ -1,9 +1,38 @@
 [
-"https://priceyharrison.org/",
-"https://priceyharrison.org/about-pricey",
-"https://priceyharrison.org/contact",
-"https://priceyharrison.org/issues",
-"https://priceyharrison.org/voter-resources",
-"https://secure.actblue.com/contribute/page/priceyharrison",
-"https://secure.actblue.com/donate/pricey2026"
+{
+"text": "About Pricey",
+"href": "https://www.priceyharrison.org/about-pricey"
+},
+{
+"text": "Contact",
+"href": "https://www.priceyharrison.org/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/contribute/page/priceyharrison"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pricey2026"
+},
+{
+"text": "Home",
+"href": "https://www.priceyharrison.org"
+},
+{
+"text": "Issues",
+"href": "https://www.priceyharrison.org/issues"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.priceyharrison.org/voter-resources"
+},
+{
+"text": "[image: HarrisonForHouse-logo-web-header.png]",
+"href": "https://www.priceyharrison.org"
+},
+{
+"text": "pricey@priceyharrison.org",
+"href": "mailto:pricey@priceyharrison.org"
+}
 ]

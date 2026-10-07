@@ -1,27 +1,114 @@
 [
-"https://bsky.app/profile/jrclemmons.bsky.social",
-"https://epicnine.com/",
-"https://facebook.com/johnrayfortn",
-"https://instagram.com/jrclemmons",
-"https://johnrayfortennessee.com/",
-"https://johnrayfortennessee.com/about",
-"https://johnrayfortennessee.com/campaign-contact",
-"https://johnrayfortennessee.com/contribute",
-"https://johnrayfortennessee.com/how-to-vote",
-"https://johnrayfortennessee.com/legislative-contact",
-"https://johnrayfortennessee.com/media",
-"https://johnrayfortennessee.com/news-updates",
-"https://johnrayfortennessee.com/policy-priorities",
-"https://johnrayfortennessee.com/request-e-newsletter",
-"https://johnrayfortennessee.com/volunteer",
-"https://ovr.govote.tn.gov/",
-"https://secure.actblue.com/donate/friends-of-john-ray-clemmons-1",
-"https://sos.tn.gov/election-day",
-"https://sos.tn.gov/elections/voter-id-requirements",
-"https://sos.tn.gov/govotetn",
-"https://threads.net/@jrclemmons",
-"https://tiktok.com/@jrclemmonstn",
-"https://tnmap.tn.gov/voterlookup",
-"https://web.go-vote-tn.elections.tn.gov/",
-"https://x.com/jrclemmons"
+{
+"text": "(615) 741-4410",
+"href": "tel:6157414410"
+},
+{
+"text": "About",
+"href": "https://johnrayfortennessee.com/about/"
+},
+{
+"text": "Campaign Contact",
+"href": "https://johnrayfortennessee.com/campaign-contact/"
+},
+{
+"text": "Contribute",
+"href": "https://johnrayfortennessee.com/contribute/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-john-ray-clemmons-1"
+},
+{
+"text": "Election Information",
+"href": "https://sos.tn.gov/election-day"
+},
+{
+"text": "Epic Nine",
+"href": "https://epicnine.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/johnrayfortn"
+},
+{
+"text": "Find Your Polling Location",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "How to Vote",
+"href": "https://johnrayfortennessee.com/how-to-vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/jrclemmons/"
+},
+{
+"text": "Legislative Contact",
+"href": "https://johnrayfortennessee.com/legislative-contact/"
+},
+{
+"text": "Media",
+"href": "https://johnrayfortennessee.com/media/"
+},
+{
+"text": "News & Updates",
+"href": "https://johnrayfortennessee.com/news-updates/"
+},
+{
+"text": "Policy Priorities",
+"href": "https://johnrayfortennessee.com/policy-priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://sos.tn.gov/govotetn"
+},
+{
+"text": "Request E-Newsletter",
+"href": "https://johnrayfortennessee.com/request-e-newsletter/"
+},
+{
+"text": "Threads",
+"href": "https://www.threads.net/@jrclemmons"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@jrclemmonstn"
+},
+{
+"text": "Volunteer",
+"href": "https://johnrayfortennessee.com/volunteer/"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/jrclemmons"
+},
+{
+"text": "[image]",
+"href": "https://johnrayfortennessee.com"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jrclemmons.bsky.social"
+},
+{
+"text": "https://ovr.govote.tn.gov/",
+"href": "https://ovr.govote.tn.gov/"
+},
+{
+"text": "https://sos.tn.gov/elections/voter-id-requirements",
+"href": "https://sos.tn.gov/elections/voter-id-requirements"
+},
+{
+"text": "https://tnmap.tn.gov/voterlookup/",
+"href": "https://tnmap.tn.gov/voterlookup/"
+},
+{
+"text": "https://web.go-vote-tn.elections.tn.gov/",
+"href": "https://web.go-vote-tn.elections.tn.gov/"
+},
+{
+"text": "jrclemmons@gmail.com",
+"href": "mailto:jrclemmons@gmail.com"
+}
 ]

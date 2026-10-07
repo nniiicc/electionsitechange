@@ -1,27 +1,9 @@
-"As a proud New Mexican, I am committed to addressing the critical issues facing our communities.
+top of page Make a Donation Home About Paul Platform Get Involved Resources Register to Vote War on Children Possible Solutions Grassroots Organizations Republican Party of NM Save the Children Documentary News Contact Us More...
+Use tab to navigate through the menu items.
+About Paul The Fighter New Mexico Needs New Mexico 1st Platform Representing the Values & Interests of New Mexicans Get Involved Support Paul Spencer for District 6 "As a proud New Mexican, I am committed to addressing the critical issues facing our communities.
 My mission is to fight for our families and the issues that matter most, such as tackling the lasting effects of the 2020 pandemic, looming food and energy crisis, voter integrity, the economy, the war on children, and the continued push for Environmental Social Governance (ESG) that threatens the sovereignty of all industries, organizations, Local Government entities, and, most importantly, individuals.
 We will be bold in addressing systemic issues that disproportionately affect certain communities, such as poverty, discrimination, and environmental hazards.
-By promoting equity, New Mexico can ensure that all its residents have the chance to lead healthy, fulfilling lives and contribute to the state's growth and prosperity." - Paul Spencer for District 6
-A Vote for Paul Spencer is a Vote for:
-New Mexico First
-Economic Growth
-Border Security
-Job Opportunities
-Supporting Small Business
-Stopping Government Overreach
-2nd Amendment Rights
-Safety of Our Citizens
-Quality Education
-Safe, Clean, Affordable Water
-Quality Healthcare
-Election Integrity
-Parental Rights
-Environmental Advocacy
-Stopping Mandate of EVs
-Development of Local Infrastructure
-Protecting Individual Rights & Freedom
-PEACE, FREEDOM, EQUITY & PROSPERITY
-"I am Paul Spencer, and I am running for Representative for New Mexico House District 6.
+By promoting equity, New Mexico can ensure that all its residents have the chance to lead healthy, fulfilling lives and contribute to the state's growth and prosperity." - Paul Spencer for District 6 The War on Children Possible Solutions A Vote for Paul Spencer is a Vote for: New Mexico First Economic Growth Border Security Job Opportunities Supporting Small Business Stopping Government Overreach 2nd Amendment Rights Safety of Our Citizens Quality Education Safe, Clean, Affordable Water Quality Healthcare Election Integrity Parental Rights Environmental Advocacy Stopping Mandate of EVs Development of Local Infrastructure Protecting Individual Rights & Freedom PEACE, FREEDOM, EQUITY & PROSPERITY Platform About Paul Join the Fight "I am Paul Spencer, and I am running for Representative for New Mexico House District 6.
 I want to make a positive difference in our community, and I need your support!
 I care about the issues that affect us all.
 I want to help our economy grow and keep our neighborhoods safe.
@@ -29,22 +11,28 @@ Right now, things are tough for many of us, and I believe that we can work toget
 We need to find ways to make groceries more affordable for everyone.
 Did you know that New Mexico is one of the most expensive states to buy food?
 I want to change that.
-I also want to help people who are struggling to find good jobs.
+I also want to help people who are struggling to find good jobs .
 We need to make sure that everyone has a chance to succeed.
 And we must work on keeping our communities safe.
 Crime rates are going up, and we need to find solutions to protect our families.
 Our leaders need to be accountable to us.
 We deserve to know how our tax dollars are being spent.
-We also need to improve our education system and make sure that every child has a chance to learn and succeed.
-I am ready to be your voice in the government.
+We also need to improve our education system and make sure that every child has a chance to learn and succeed. ​ I am ready to be your voice in the government.
 But I can't do it alone.
 I need your help and support.
 Together, we can make a real difference in our community.
 Join me on this journey to create a better future.
 Let's stand together for a stronger economy, safer neighborhoods, and a government that listens to us.
 Vote for Paul Spencer, your advocate for change in New Mexico House District 6!
-Paul Spencer's long-standing dedication to community service and advocacy sets him apart as a candidate for New Mexico State Representative in District 6.
+Learn Contact Get Involved Paul Spencer's long-standing dedication to community service and advocacy sets him apart as a candidate for New Mexico State Representative in District 6.
 His commitment to tackling poverty, the looming food and energy crisis, government overreach, and ESG policies that threaten individual sovereignty makes his campaign unique.
-Paul Spencer for New Mexico
-Support Paul Spencer
-Empower New Mexico District 6
+Paul Spencer for New Mexico Latest Updates The War on Children & Possible Solutions The War on Children: The War on Children Video Parents in seven NM school districts left in the dark about kids being ‘transitioned’...
+Taking a Stand for Our Kids: The Truth Behind the Bad Laws in New Mexico Video: Better Together New Mexico - https://bettertogethernewmexico.org/not-my-kid/ As concerned citizens, it is our duty to protect the...
+Piñon Post: "Parents in seven NM school districts left in the dark about kids being ‘transitioned’" Bryan, Wiki Commons.
+Article Source: https://pinonpost.com/parents-in-seven-nm-school-districts-left-in-the-dark-about-kids-being-transit...
+The Washington Stand: "American Doctors Sign Declaration Protecting Children from Gender Procedures" Article Source: https://washingtonstand.com/news/american-doctors-sign-declaration-protecting-children-from-gender-procedures "There have...
+CCIA: "NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books" Concerned for New Mexico - CCIA https://www.youtube.com/watch?v=rPA1VQXTW1o Read More Support Paul Spencer Empower New Mexico District 6 Get the Latest Updates from the Campaign Trail Sign Up!
+Thanks for submitting!
+NEW MEXICO 1ST Let's stand together for a stronger economy, safer neighborhoods, and a government that listens to us! ​ Paid for by the Committee to Elect Paul Spencer ​ P.O.
+Box 533 Bluewater, NM 87005 Get Involved QUICK LINKS About Support Us News Resources Contact © # by Paul Spencer.
+Created by JadeAMarketingLLC bottom of page

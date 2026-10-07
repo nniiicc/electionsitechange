@@ -1,6 +1,4 @@
-PRIORITIES • Fight Corruption • Policy to
-End Gerrymandering
-Why I believe this — and how I’ll fight for it.
+0 Skip to Content Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE Open Menu Close Menu Meet Eric Priorities Get Involved Events Newsroom CONTRIBUTE PRIORITIES • Fight Corruption • Policy to End Gerrymandering Why I believe this — and how I’ll fight for it.
 Politicians should never get to pick their own voters — but that’s exactly what gerrymandering lets them do.
 The people competing for these seats, and the party bosses with their own agendas, should be the last ones allowed to draw the district lines.
 When they draw the maps, they draw themselves safe seats: no real competition, no accountability, and representation built to serve a party instead of you.
@@ -18,8 +16,7 @@ Our politicians would rather weaponize hate than empathize with the people they�
 A lot of people in this very district just had their voice redrawn out from under them, and they deserve empathy, not a victory lap.
 This was never a moment to cheer.
 It was a moment to mourn what we were losing — and to resolve to fix it for good.
-Here’s what I’ll do — and why
-Restore California’s independent commission.
+Here’s what I’ll do — and why Restore California’s independent commission.
 Give the maps back to citizens, where they belong.
 We had the model the whole country looked to.
 We should be leading on fair representation, not abandoning it the first time it’s inconvenient.
@@ -31,13 +28,11 @@ End it nationally, and this game is never played again.
 Ban the mid-decade power grab.
 No more tearing up the lines between censuses to grab a few seats — the trick Texas and California both just pulled.
 Maps get drawn once a decade, by citizens, and left alone.
-The bottom line
-Fair representation means districts that look and feel like the people who live in them — a voice for everyone, not a map built to protect a party.
+The bottom line Fair representation means districts that look and feel like the people who live in them — a voice for everyone, not a map built to protect a party.
 Most of us would rather spend this energy on the real problems in our lives, together.
 End gerrymandering for good and we get back to building better schools, safer towns, and an economy that works, and we hand our kids a democracy where every vote truly counts.
 Politicians shouldn’t pick their voters.
 The voters should pick them.
 Get that right, and there’s almost nothing this country can’t fix.
-SOURCES
-- California’s independent Citizens Redistricting Commission — created by Proposition 11 (2008), extended to congressional maps by Proposition 20 (2010) — and what Proposition 50 (2025) changed: California Legislative Analyst’s Office — Proposition 50 Ballot Analysis (2025)
-- Official text of Proposition 50 (November 4, 2025 special election): California Secretary of State — Proposition 50, Text of Proposed Law
+All Policies Next Policy Return to Top SOURCES California’s independent Citizens Redistricting Commission — created by Proposition 11 (2008), extended to congressional maps by Proposition 20 (2010) — and what Proposition 50 (2025) changed: California Legislative Analyst’s Office — Proposition 50 Ballot Analysis (2025) Official text of Proposition 50 (November 4, 2025 special election): California Secretary of State — Proposition 50, Text of Proposed Law Join the Fight Contribute Contact Us: info@ericjones.us | press@ericjones.us Paid for by Eric Jones for Congress.
+No corporate PAC or special interest money accepted.

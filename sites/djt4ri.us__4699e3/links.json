@@ -1,17 +1,86 @@
 [
-"http://boldgrid.com/",
-"https://djt4ri.us/",
-"https://djt4ri.us/about",
-"https://djt4ri.us/contact",
-"https://djt4ri.us/issues",
-"https://djt4ri.us/news",
-"https://djt4ri.us/privacy-policy",
-"https://djt4ri.us/schedule",
-"https://dreamhost.com/",
-"https://facebook.com/djt4ri",
-"https://instagram.com/djt4ri",
-"https://secure.winred.com/djt4ri/storefront",
-"https://secure.winred.com/djt4ri/support-today",
-"https://twitter.com/djt4ri",
-"https://vote.sos.ri.gov/"
+{
+"text": "About",
+"href": "https://www.djt4ri.us/about/"
+},
+{
+"text": "BoldGrid",
+"href": "http://boldgrid.com/"
+},
+{
+"text": "Contact",
+"href": "https://djt4ri.us/contact/"
+},
+{
+"text": "Contact",
+"href": "https://www.djt4ri.us/contact/"
+},
+{
+"text": "Dana James Traversie",
+"href": "https://www.djt4ri.us/"
+},
+{
+"text": "DreamHost",
+"href": "https://www.dreamhost.com/"
+},
+{
+"text": "Events",
+"href": "https://www.djt4ri.us/schedule/"
+},
+{
+"text": "Home",
+"href": "https://www.djt4ri.us/"
+},
+{
+"text": "Issues",
+"href": "https://www.djt4ri.us/issues/"
+},
+{
+"text": "MORE ABOUT DANA",
+"href": "https://www.djt4ri.us/about/"
+},
+{
+"text": "MORE ON THE ISSUES",
+"href": "https://www.djt4ri.us/issues/"
+},
+{
+"text": "Menu Item",
+"href": "https://twitter.com/djt4ri"
+},
+{
+"text": "Menu Item",
+"href": "https://www.facebook.com/djt4ri"
+},
+{
+"text": "Menu Item",
+"href": "https://www.instagram.com/djt4ri/"
+},
+{
+"text": "Menu Item",
+"href": "mailto:info@djt4ri.us"
+},
+{
+"text": "News",
+"href": "https://www.djt4ri.us/news/"
+},
+{
+"text": "Privacy",
+"href": "https://djt4ri.us/privacy-policy/"
+},
+{
+"text": "Shop",
+"href": "https://secure.winred.com/djt4ri/storefront"
+},
+{
+"text": "Support",
+"href": "https://secure.winred.com/djt4ri/support-today"
+},
+{
+"text": "Vote",
+"href": "https://vote.sos.ri.gov/"
+},
+{
+"text": "[image: Dana James Traversie]",
+"href": "https://www.djt4ri.us/"
+}
 ]

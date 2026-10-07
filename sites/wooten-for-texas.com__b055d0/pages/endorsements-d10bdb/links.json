@@ -1,24 +1,98 @@
 [
-"https://annieslist.com/",
-"https://bluehorizontexas.org/",
-"https://grandparentsforpublicschools.org/",
-"https://momsdemandaction.org/",
-"https://mothersagainstgregabbott.com/directory/denise-wooten",
-"https://plannedparenthoodaction.org/planned-parenthood-texas-votes",
-"https://savetxschools.org/",
-"https://secure.actblue.com/donate/h-denise-wooten-psyd-dem-1",
-"https://texasprogressivecaucus.org/",
-"https://wildfortexas.org/",
-"https://wooten-for-texas.com/",
-"https://wooten-for-texas.com/about",
-"https://wooten-for-texas.com/contact",
-"https://wooten-for-texas.com/copy-of-voter-information",
-"https://wooten-for-texas.com/copy-of-voter-information-1",
-"https://wooten-for-texas.com/copy-of-voter-information-2",
-"https://wooten-for-texas.com/endorsements",
-"https://wooten-for-texas.com/event-list",
-"https://wooten-for-texas.com/general-7",
-"https://wooten-for-texas.com/get-involved",
-"https://wooten-for-texas.com/news",
-"https://wooten-for-texas.com/voter-information"
+{
+"text": "About",
+"href": "https://www.wooten-for-texas.com/about"
+},
+{
+"text": "Articles",
+"href": "https://www.wooten-for-texas.com/news"
+},
+{
+"text": "Contact",
+"href": "https://www.wooten-for-texas.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/h-denise-wooten-psyd-dem-1"
+},
+{
+"text": "Election Information",
+"href": "https://www.wooten-for-texas.com/copy-of-voter-information-2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.wooten-for-texas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.wooten-for-texas.com/event-list"
+},
+{
+"text": "Get Involved",
+"href": "https://www.wooten-for-texas.com/get-involved"
+},
+{
+"text": "HD-63 Map",
+"href": "https://www.wooten-for-texas.com/copy-of-voter-information"
+},
+{
+"text": "Home",
+"href": "https://www.wooten-for-texas.com"
+},
+{
+"text": "Issues",
+"href": "https://www.wooten-for-texas.com/general-7"
+},
+{
+"text": "Mothers Against Greg Abbott",
+"href": "https://mothersagainstgregabbott.com/directory/denise-wooten/"
+},
+{
+"text": "Register to Vote",
+"href": "https://www.wooten-for-texas.com/copy-of-voter-information-1"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.wooten-for-texas.com"
+},
+{
+"text": "Voter Information",
+"href": "https://www.wooten-for-texas.com/voter-information"
+},
+{
+"text": "https://grandparentsforpublicschools.org/",
+"href": "https://grandparentsforpublicschools.org/"
+},
+{
+"text": "https://momsdemandaction.org",
+"href": "https://momsdemandaction.org/"
+},
+{
+"text": "https://mothersagainstgregabbott.com/directory/denise-wooten/",
+"href": "https://mothersagainstgregabbott.com/directory/denise-wooten/"
+},
+{
+"text": "https://savetxschools.org/",
+"href": "https://savetxschools.org/"
+},
+{
+"text": "https://wildfortexas.org/",
+"href": "https://wildfortexas.org/"
+},
+{
+"text": "https://www.annieslist.com",
+"href": "https://www.annieslist.com/"
+},
+{
+"text": "https://www.bluehorizontexas.org",
+"href": "https://www.bluehorizontexas.org/"
+},
+{
+"text": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes",
+"href": "https://www.plannedparenthoodaction.org/planned-parenthood-texas-votes"
+},
+{
+"text": "https://www.texasprogressivecaucus.org",
+"href": "https://www.texasprogressivecaucus.org/"
+}
 ]

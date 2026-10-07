@@ -1,15 +1,54 @@
 [
-"https://bit.ly/mrlpollgreet2",
-"https://facebook.com/melaniefordelaware",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/melaniefordelaware",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election",
-"https://melanierosslevin.com/",
-"https://melanierosslevin.com/issues",
-"https://melanierosslevin.com/meetmelanie",
-"https://melanierosslevin.com/privacy-policy",
-"https://melanierosslevin.com/single-project",
-"https://melanierosslevin.com/volunteer",
-"https://secure.actblue.com/donate/melaniefordelaware",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/melaniefordelaware"
+},
+{
+"text": "Home",
+"href": "https://www.melanierosslevin.com"
+},
+{
+"text": "Issues",
+"href": "https://www.melanierosslevin.com/issues"
+},
+{
+"text": "Join Team Melanie",
+"href": "https://www.melanierosslevin.com/volunteer"
+},
+{
+"text": "Meet Melanie",
+"href": "https://www.melanierosslevin.com/meetmelanie"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.melanierosslevin.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://bit.ly/mrlpollgreet2"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.melanierosslevin.com/single-project"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/melaniefordelaware"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/melaniefordelaware"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.melanierosslevin.com%2Fevent-details-registration%2Fpoll-greeting-general-election"
+}
 ]

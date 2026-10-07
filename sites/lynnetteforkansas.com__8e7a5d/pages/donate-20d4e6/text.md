@@ -1,2 +1,2 @@
-Donate Through Act Blue Donate Through VENMO DONATE BY MAIL Lynnette for Kansas P.O.
-Box 36 Buhler KS 67522
+0 Skip to Content Lynnette For Kansas About Priorities Get Involved Donate Open Menu Close Menu Lynnette For Kansas About Priorities Get Involved Donate Open Menu Close Menu About Priorities Get Involved Donate Donate Through Act Blue Donate Through VENMO DONATE BY MAIL Lynnette for Kansas P.O.
+Box 36 Buhler KS 67522 Paid for by Lynnette for Kansas, Donna Davis, Treasurer About Get Involved Priorities Register to Vote Donate

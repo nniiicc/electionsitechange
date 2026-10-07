@@ -1,8 +1,2 @@
-About
-Endorsements
-Join Us
-More
-Groceries, insurance, and housing all cost more
-Cost of living in Iowa is going up; groceries, insurance and housing
-Lower property taxes and give relief that homeowners and renters can feel
-Allow seniors to stay in their homes
+top of page About Endorsements Join Us More Use tab to navigate through the menu items.
+Donate Property Taxes Are Rising - Iowans Deserve Relief That They Can Feel Groceries, insurance, and housing all cost more Cost of living in Iowa is going up; groceries, insurance and housing Lower property taxes and give relief that homeowners and renters can feel Allow seniors to stay in their homes Paid for by George Pickup for Iowa bottom of page

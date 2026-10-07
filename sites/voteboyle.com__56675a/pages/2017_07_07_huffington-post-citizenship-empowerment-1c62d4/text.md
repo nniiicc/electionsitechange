@@ -1,9 +1,12 @@
-The right to vote is at the core of our identity as Americans, and the foundation of our democratic system – no matter how rancorous our political debates become.
+Skip to content Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Brendan F.
+Boyle | U.S.
+Congress Representing Pennsylvania's 2nd District Facebook Twitter YouTube Instagram Meet Brendan Biography Endorsements News Video Contact Join Team Boyle Register to Vote Find Your Polling Place Check Your Voter Status Donate Huffington Post: Citizenship Empowerment July 7, 2017 February 21, 2018 The right to vote is at the core of our identity as Americans, and the foundation of our democratic system – no matter how rancorous our political debates become.
 Our politics is a battle of ideals, and the ballot box is the playing field, open to all citizens.
 We should do all we can to provide all citizens a fair opportunity to participate in our democracy – and in fact encourage them to do so.
 And this opportunity should be provided to all citizens regardless of the location they happen to live.
 The first step of a truly representative democracy is participation.
-This is why, on the eve of July Fourth and the heels of Immigrant Heritage Month, I was proud to introduce simple, commonsense legislation with House Democratic Chairman Joe Crowley to require that all newly sworn-in U.S. citizens be uniformly provided voter registration forms at naturalization ceremonies: H.R. 3113, the Citizenship Empowerment Act.
+This is why, on the eve of July Fourth and the heels of Immigrant Heritage Month, I was proud to introduce simple, commonsense legislation with House Democratic Chairman Joe Crowley to require that all newly sworn-in U.S. citizens be uniformly provided voter registration forms at naturalization ceremonies: H.R.
+3113, the Citizenship Empowerment Act.
 Currently, only some state and local election officials provide such materials to newly sworn-in citizens.
 The Citizenship Empowerment Act would require officials to provide voter registration forms in the citizenship packets provided to all newly sworn-in U.S. citizens, and allow election officials to set up informational tables outside naturalization ceremonies.
 Many of us take for granted our citizenship and the rights that extolls.
@@ -21,4 +24,5 @@ Abraham Lincoln, in his most notable speech, defined America as a government of 
 Our government exists because its people give it power.
 Without active participation from all its citizens, our government no longer functions the way the Constitution intended.
 We can and must do better.
-Read the full article HERE.
+Read the full article HERE .
+Congressman Brendan Boyle’s bill would set national PFC standard Huffington Post: During Domestic Violence Awareness Month, A Commitment To Supporting Victims Every Day Of The Year Search Search Keep Up with Brendan First Name Last Name Email Back to Top Facebook Twitter YouTube Instagram Paid for by Citizens for Boyle Powered by Fluida & WordPress.

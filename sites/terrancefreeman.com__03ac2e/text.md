@@ -1,12 +1,15 @@
-Terrance Freeman is a husband, father of five, business leader and proven public servant who believes in listening, working with people and getting results.
+Skip to content Home About Priorities Endorsements Register to Vote District 12 In The News Home About Priorities Endorsements Register to Vote District 12 In The News X-twitter Facebook Contribute Common-Sense Leadership That Gets Results Terrance Freeman is a husband, father of five, business leader and proven public servant who believes in listening, working with people and getting results.
+Common-Sense Leadership That Gets Results Terrance Freeman is a husband, father of five, business leader and proven public servant who believes in listening, working with people and getting results.
+Election Day: Tuesday, November 3rd Family.
+Community.
+Service.
 For Terrance Freeman, public service starts with the community he and his family call home.
 As a devoted husband, father of five, business leader and coach, Terrance understands the everyday challenges Jacksonville families face.
 He believes leadership starts with listening, bringing people together and getting things done.
 “Families across Florida are stretched thin by rising costs.
 On the City Council, I delivered the first property tax cut in a decade and fought to ensure every tax dollar is spent wisely.
 In Tallahassee, I’ll keep working to reduce the cost of living by cutting property taxes even further, eliminating wasteful fees and regulations, and giving our first responders and working families the tools they need to succeed.
-Florida should always be a place where the American Dream is within reach.”
-Terrance Freeman is a husband, father of five, business leader, and dedicated public servant.
+Florida should always be a place where the American Dream is within reach.” About Terrance Terrance Freeman is a husband, father of five, business leader, and dedicated public servant.
 The son of an Army veteran and Baptist minister, Terrance learned the values of service, faith, hard work, and leadership at an early age.
 He carried those lessons from the baseball diamond to the classroom, the business world, and public service.
 After a career in professional baseball, Terrance earned his bachelor’s degree from the University of North Florida and a master’s degree in sports psychology from California University of Pennsylvania.
@@ -20,4 +23,4 @@ His colleagues selected him to serve as Council Vice President in 2021 and as Co
 During his time on the Jacksonville City Council, Terrance has focused on affordability, public safety, workforce development, and responsible stewardship of taxpayer dollars.
 He supported Jacksonville’s first property tax rate reduction in nearly a decade, worked to fully fund the Jacksonville Sheriff’s Office and Jacksonville Fire and Rescue Department, and championed the Jacksonville Upward Mobility Program (JUMP) to expand apprenticeship and workforce training opportunities.
 Whether in the classroom, the workplace, or public office, Terrance has built his career around bringing people together, solving problems, and delivering results for Jacksonville families.
-Volunteer for Terrance
+Volunteer for Terrance Name Phone Email I would like to: Selection Boxes Canvass Neighborhoods Put a Sign In My Yard Make Phone Calls Host a Meet & Greet Wave Signs Volunteer Facebook X-twitter Paid by Terrance Freeman, Republican, for State Representative

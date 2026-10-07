@@ -1,13 +1,11 @@
-Welcome to https://christineforarizona.com (the “Site”).
+Skip to content Welcome to https://christineforarizona.com (the “Site”).
 We understand that privacy online is important to users of our Site, especially when conducting business.
 This statement governs our privacy policies concerning those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Christine for Arizona (collectively, “Services”) (“Authorized Customers”).
-“Personally Identifiable Information”
-Refers to any information that can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profile, social security number, and credit card information.
+“Personally Identifiable Information” Refers to any information that can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profile, social security number, and credit card information.
 Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 What Personally Identifiable Information is collected?
 We may collect basic user profile information from all of our Visitors.
-We collect the following additional information from our Authorized Customers: the name, email address, phone number,
-What organizations are collecting the information?
+We collect the following additional information from our Authorized Customers: the name, email address, phone number, What organizations are collecting the information?
 In addition to our direct collection of information, our third-party service vendors (such as credit card companies, clearinghouses, and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers.
 We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them by Visitors and Authorized Customers.
 Some of these third parties may be intermediaries that act solely as links in the distribution chain and do not store, retain, or use the information given to them.
@@ -22,19 +20,12 @@ We also offer the opportunity to “opt-out” of receiving information or being
 How is Personally Identifiable Information stored?
 Personally Identifiable Information collected by Christine for Arizona is securely stored and is not accessible to third parties or employees of Christine for Arizona except for use as indicated above.
 What choices are available to Visitors regarding the information’s collection, use, and distribution?
-Visitors and Authorized Customers may opt-out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at Alexis4ElMirage@gmail.com
-Cookies
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.
-We use “cookies” to collect information.
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
-However, if you do not accept cookies, you may not be able to use some portions of our Service.
-Are Cookies Used on the Site?
+Visitors and Authorized Customers may opt-out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at Alexis4ElMirage@gmail.com A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.
 Cookies are used for a variety of reasons.
 We use Cookies to obtain information about the preferences of our Visitors and the services they select.
 We also use Cookies for security purposes to protect our Authorized Customers.
 For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using https://christineforarizona.com , with the drawback that certain features of the website may not function properly without the aid of cookies.
-Cookies used by our service providers
 Our service providers use cookies, and those cookies may be stored on your computer when you visit our website.
 You can find more details about which cookies are used on our cookies info page.
 How does Christine for Arizona use login information?
@@ -51,32 +42,19 @@ Sensitive information, such as credit card numbers or social security numbers, i
 While we take commercially reasonable measures to maintain a secure site, electronic communications, and databases are subject to errors, tampering, and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 Visitors and Authorized Customers may contact us to update their Personally Identifiable Information.
-Alexis4ElMirage@gmail.com
-Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+Alexis4ElMirage@gmail.com Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting them.
 However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information.
 An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
-Your rights
-These are summarized rights that you have under data protection law
-- The right to access
-- The right to rectification
-- The right to erasure
-- The right to restrict processing
-- The right to object to processing
-- The right to data portability
-- The right to complain to a supervisory authority
-- The right to withdraw consent
-Children’s Privacy
-Our Service does not address “Children”, anyone under the age of 18 years, and we do not knowingly collect personally identifiable information from children under 18 years.
+Your rights These are summarized rights that you have under data protection law The right to access The right to rectification The right to erasure The right to restrict processing The right to object to processing The right to data portability The right to complain to a supervisory authority The right to withdraw consent Children’s Privacy Our Service does not address “Children”, anyone under the age of 18 years, and we do not knowingly collect personally identifiable information from children under 18 years.
 If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please get in touch with us immediately using the contact details provided.
 If we come to know that children below 18 years have provided personal information, we will delete the information from our servers immediately.
 What happens if the Privacy Policy Changes?
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site.
 However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
-Links
-https://christineforarizona.com contains links to other websites.
+Links https://christineforarizona.com contains links to other websites.
 Please note that when you click on one of these links, you are moving to another website.
 We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-Contact Us
-If you have any questions about this Privacy Policy, get in touch with us at info@christineforarizona.com
-Last Updated: February 5, 2026
+Contact Us If you have any questions about this Privacy Policy, get in touch with us at info@christineforarizona.com Last Updated: February 5, 2026 Privacy Policy generated by WPLP Legal Pages © # Christine Scianna for AZ House LD29.
+All Rights Reserved.
+Paid for and Authorized by Christine for Arizona Privacy Policy | Cookie Policy Facebook Mail

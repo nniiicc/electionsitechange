@@ -1,10 +1,34 @@
 [
-"https://joshjamesct.com/",
-"https://joshjamesct.com/about",
-"https://joshjamesct.com/community",
-"https://joshjamesct.com/events",
-"https://joshjamesct.com/involved",
-"https://joshjamesct.com/issues",
-"https://joshjamesct.com/press",
-"https://joshjamesct.com/recognition"
+{
+"text": "About",
+"href": "https://www.joshjamesct.com/about"
+},
+{
+"text": "Community",
+"href": "https://www.joshjamesct.com/community"
+},
+{
+"text": "Events",
+"href": "https://www.joshjamesct.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.joshjamesct.com/involved"
+},
+{
+"text": "Home",
+"href": "https://www.joshjamesct.com"
+},
+{
+"text": "Issues",
+"href": "https://www.joshjamesct.com/issues"
+},
+{
+"text": "Press",
+"href": "https://www.joshjamesct.com/press"
+},
+{
+"text": "Recognition",
+"href": "https://www.joshjamesct.com/recognition"
+}
 ]

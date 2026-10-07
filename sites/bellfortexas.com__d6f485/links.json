@@ -1,12 +1,94 @@
 [
-"https://bellfortexas.com/",
-"https://bellfortexas.com/about",
-"https://bellfortexas.com/cdn-cgi/l/email-protection",
-"https://bellfortexas.com/donate",
-"https://bellfortexas.com/endorse",
-"https://bellfortexas.com/endorsements",
-"https://bellfortexas.com/issues",
-"https://bellfortexas.com/privacy",
-"https://bellfortexas.com/volunteer",
-"https://facebook.com/StateRepKeithBell"
+{
+"text": "Donate",
+"href": "https://www.bellfortexas.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bellfortexas.com/endorse/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bellfortexas.com/volunteer/"
+},
+{
+"text": "Home",
+"href": "https://www.bellfortexas.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bellfortexas.com/issues/"
+},
+{
+"text": "Learn More »",
+"href": "https://www.bellfortexas.com/issues/"
+},
+{
+"text": "Meet Keith",
+"href": "https://www.bellfortexas.com/about/"
+},
+{
+"text": "Meet Keith »",
+"href": "https://www.bellfortexas.com/about/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bellfortexas.com/privacy/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:keith@bellfortexas.com"
+},
+{
+"text": "[image]",
+"href": "https://www.bellfortexas.com/"
+},
+{
+"text": "[image]Balancethe Budget",
+"href": "https://www.bellfortexas.com/issues/#budget"
+},
+{
+"text": "[image]Contribute Now",
+"href": "https://www.bellfortexas.com/donate/"
+},
+{
+"text": "[image]Cut Regulation& Create Jobs",
+"href": "https://www.bellfortexas.com/issues/#jobs"
+},
+{
+"text": "[image]Defend SecondAmendment",
+"href": "https://www.bellfortexas.com/issues/#2a"
+},
+{
+"text": "[image]Endorse Keith",
+"href": "https://www.bellfortexas.com/endorsements/"
+},
+{
+"text": "[image]Ensure PropertyTax Relief",
+"href": "https://www.bellfortexas.com/issues/#tax"
+},
+{
+"text": "[image]Get Involved",
+"href": "https://www.bellfortexas.com/volunteer/"
+},
+{
+"text": "[image]Like Keith",
+"href": "https://www.facebook.com/StateRepKeithBell"
+},
+{
+"text": "[image]ProtectInnocent Life",
+"href": "https://www.bellfortexas.com/issues/#life"
+},
+{
+"text": "[image]ProtectOur Property",
+"href": "https://www.bellfortexas.com/issues/#property"
+},
+{
+"text": "[image]Securethe Border",
+"href": "https://www.bellfortexas.com/issues/#border"
+},
+{
+"text": "[image]StrengthenPublic Schools",
+"href": "https://www.bellfortexas.com/issues/#schools"
+}
 ]

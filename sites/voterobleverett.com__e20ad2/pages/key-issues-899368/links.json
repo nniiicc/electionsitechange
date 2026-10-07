@@ -1,10 +1,50 @@
 [
-"http://upswaymarketing.com/",
-"https://facebook.com/VoteRobLeverett",
-"https://instagram.com/voterobleverett",
-"https://mvp.sos.ga.gov/s",
-"https://secure.anedot.com/rob-leverett-for-state-house/donate-now",
-"https://voterobleverett.com/",
-"https://voterobleverett.com/get-involved",
-"https://voterobleverett.com/key-issues"
+{
+"text": "About",
+"href": "https://www.voterobleverett.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/rob-leverett-for-state-house/donate-now"
+},
+{
+"text": "GEORGIA STATE HOUSE REPRESENTATIVE",
+"href": "https://www.voterobleverett.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.voterobleverett.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.voterobleverett.com"
+},
+{
+"text": "Key Issues",
+"href": "https://www.voterobleverett.com/key-issues"
+},
+{
+"text": "Rob Leverett",
+"href": "https://www.voterobleverett.com"
+},
+{
+"text": "Upsway",
+"href": "http://www.upswaymarketing.com"
+},
+{
+"text": "VOTE",
+"href": "https://mvp.sos.ga.gov/s/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteRobLeverett/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voterobleverett/"
+},
+{
+"text": "rfllaw@elberton.net",
+"href": "mailto:rfllaw@elberton.net"
+}
 ]

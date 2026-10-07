@@ -1,12 +1,50 @@
 [
-"https://ceachus.com/",
-"https://ceachus.com/about",
-"https://ceachus.com/contact-me",
-"https://ceachus.com/copy-of-events",
-"https://ceachus.com/events",
-"https://ceachus.com/get-involved",
-"https://ceachus.com/the-issues",
-"https://facebook.com/chriseachus",
-"https://instagram.com/eachusforassembly",
-"https://secure.actblue.com/donate/friends-of-chris-eachus-for-assembly-1"
+{
+"text": "About",
+"href": "https://www.ceachus.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.ceachus.com/contact-me"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friends-of-chris-eachus-for-assembly-1"
+},
+{
+"text": "Events",
+"href": "https://www.ceachus.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.ceachus.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.ceachus.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ceachus.com/copy-of-events"
+},
+{
+"text": "The Issues",
+"href": "https://www.ceachus.com/the-issues"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.ceachus.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/chriseachus"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/eachusforassembly/"
+},
+{
+"text": "eachusforassembly@gmail.com",
+"href": "mailto:eachusforassembly@gmail.com"
+}
 ]

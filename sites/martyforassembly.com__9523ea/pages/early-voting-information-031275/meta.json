@@ -1,7 +1,9 @@
 {
  "description": "Find essential early voting information, including absentee voting and in-person voting details. Prepare for the elections effectively!",
  "final_url": "https://martyforassembly.com/early-voting-information",
- "paid_for_by": "Paid for by Marty for Assembly Home This website uses cookies",
+ "fingerprint": "e6db7c1ba309283e4b414fc66b61d59b72e44961",
+ "format": 3,
+ "paid_for_by": "Paid for by Marty for Assembly Home",
  "title": "Early Voting Information",
  "years_mentioned": [
   "2026"

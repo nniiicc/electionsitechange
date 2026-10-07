@@ -1,11 +1,46 @@
 [
-"https://electloriwilson.com/",
-"https://electloriwilson.com/about",
-"https://electloriwilson.com/bnb",
-"https://electloriwilson.com/contact",
-"https://electloriwilson.com/get-involved",
-"https://facebook.com/electloriwilson",
-"https://instagram.com/loridwilson?igsh=MTZvNzI5MnYzOWZubQ%3D%3D",
-"https://secure.anedot.com/lori-wilson-for-assembly-2026/donate",
-"https://twitter.com/i/flow/login?redirect_after_login=%2Floridwilson"
+{
+"text": "ABOUT LORI",
+"href": "https://www.electloriwilson.com/about"
+},
+{
+"text": "Bourbon & Beignets",
+"href": "https://www.electloriwilson.com/bnb"
+},
+{
+"text": "CONTACT",
+"href": "https://www.electloriwilson.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/lori-wilson-for-assembly-2026/donate"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.electloriwilson.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/electloriwilson"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/loridwilson/?igsh=MTZvNzI5MnYzOWZubQ%3D%3D"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/i/flow/login?redirect_after_login=%2Floridwilson"
+},
+{
+"text": "[no text]",
+"href": "https://www.electloriwilson.com"
+},
+{
+"text": "info@electloriwilson.com",
+"href": "mailto:info@mysite.com"
+}
 ]

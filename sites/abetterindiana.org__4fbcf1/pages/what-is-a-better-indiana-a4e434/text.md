@@ -1,4 +1,7 @@
-What is A Better Indiana?
+0 Skip to Content Home Meet Jack Our Platform What is A Better Indiana?
+Housing Lower Utility Costs Jobs & Labor Education Reform Agriculture & Rural Communities Healthcare Infrastructure We the People Get Involved Volunteer Contact Endorsements Donate Open Menu Close Menu Home Meet Jack Our Platform What is A Better Indiana?
+Housing Lower Utility Costs Jobs & Labor Education Reform Agriculture & Rural Communities Healthcare Infrastructure We the People Get Involved Volunteer Contact Endorsements Donate Open Menu Close Menu Home Meet Jack Folder: Our Platform Back What is A Better Indiana?
+Housing Lower Utility Costs Jobs & Labor Education Reform Agriculture & Rural Communities Healthcare Infrastructure We the People Folder: Get Involved Back Volunteer Contact Endorsements Donate What is A Better Indiana?
 A Better Indiana doesn’t start in the halls of power.
 It starts in the break rooms, factory floors, farm shops, classrooms, living rooms, and union halls where working people keep this state running.
 It starts with Hoosiers who clock in early, raise their kids, care for their aging parents, and still find the energy to help a neighbor in need.
@@ -26,8 +29,7 @@ Because the people who make Indiana work should finally have someone who works f
 This campaign isn’t about left or right — it’s about up.
 Up for the folks who’ve been ignored, priced out, talked down to, and told to “just work harder” while everything around them gets more expensive.
 Up for renters, seniors, caretakers, students, workers, and families who deserve stability instead of stress.
-And here’s the hopeful part:
-We don’t have to wait for the wealthy to approve it.
+And here’s the hopeful part: We don’t have to wait for the wealthy to approve it.
 We don’t have to beg politicians in Indianapolis to remember us.
 We can build it the same way we’ve built everything else in this state — together.
 With hard work.
@@ -35,3 +37,9 @@ With backbone.
 With neighbors looking out for neighbors.
 That’s the Indiana I know.
 And it’s the Indiana we’re going to build — one conversation, one household, one working family, one Indiana House Seat at a time.
+Starts with all of us.
+Every conversation, every shared story, every neighbor who steps up brings us closer to a Better Indiana.
+This campaign is powered entirely by people — not corporations and not PACs.
+If you believe in this work, now is the time to chip in.
+Your grassroots donation today truly moves this campaign forward.
+DONATE Paid for by Friends of Jack Chance About Meet Jack What is A Better Indiana?﻿ Volunteer Main Issues Housing Healthcare Jobs & Labor Lower Utility Costs Email Jack today! jack.chance@abetterindiana.org

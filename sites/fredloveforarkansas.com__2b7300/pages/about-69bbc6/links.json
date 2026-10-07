@@ -1,8 +1,30 @@
 [
-"https://fredlove.com/",
-"https://fredlove.com/about",
-"https://fredlove.com/issues",
-"https://fredlove.com/merch",
-"https://fredlove.com/volunteer",
-"https://secure.actblue.com/donate/fred-love-for-governor"
+{
+"text": "About",
+"href": "https://www.fredlove.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/fred-love-for-governor"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fredlove.com/volunteer"
+},
+{
+"text": "Home",
+"href": "https://www.fredlove.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.fredlove.com/issues"
+},
+{
+"text": "Merch",
+"href": "https://www.fredlove.com/merch"
+},
+{
+"text": "[image]",
+"href": "https://www.fredlove.com/"
+}
 ]

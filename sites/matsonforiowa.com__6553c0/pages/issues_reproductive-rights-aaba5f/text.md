@@ -1,5 +1,4 @@
-Reproductive Freedom and Maternal Health
-Iowans value the right to make their own personal health care decisions.
+Heather Matson for Iowa Senate Open Menu Meet Heather Issues Endorsements Volunteer Contact Volunteer Donate Reproductive Freedom and Maternal Health Iowans value the right to make their own personal health care decisions.
 Whether it’s access to contraception, IVF, or abortion care, I have always and will always stand up for reproductive freedom.
 Politicians do not belong in your exam room.
 Iowa continues to be a health care desert, especially when it comes to women’s health.
@@ -15,3 +14,6 @@ We need to change the balance in the Iowa Senate to ensure attacks on IVF and co
 I have co-sponsored legislation to codify the right to an abortion in the Iowa Constitution, restore family planning funding to trusted providers across Iowa, and allow pharmacists to dispense birth control without a prescription.
 We also need to do more to support new moms and families.
 I have co-sponsored and voted for legislation to extend postpartum care to new moms on Medicaid from 2 months to 12 months.
+Issues Voting Rights Transparency and Accountability Reproductive Freedom and Maternal Health Public Safety Health Care, Rising Cancer Rates, and Fixing Medicaid Economic Development, Workforce, and Lowering Costs for Iowans Clean Water, Conservation, and Climate Education Back to issues page Next: Transparency and Accountability Follow Heather on Facebook Follow Heather on Twitter Follow Heather on Instagram info@matsonforiowa.com | (515) 201-1877 © # Heather Matson for Iowa Senate.
+All rights reserved.
+Privacy Policy | Website built in Iowa by OVMM Paid for by Heather Matson for Iowa.

@@ -1,10 +1,38 @@
 [
-"https://cormenfornh.com/Media/index.html",
-"https://cormenfornh.com/Votes/02-19-2026.html",
-"https://cormenfornh.com/Votes/index.html",
-"https://cormenfornh.com/about.html",
-"https://cormenfornh.com/contact.html",
-"https://cormenfornh.com/donate.html",
-"https://cormenfornh.com/index.html",
-"https://youtube.com/live/6w-BGQJ_G5c?si=rKtUy3e2dnnw4zTX&t=14183"
+{
+"text": "About",
+"href": "https://cormenfornh.com/about.html"
+},
+{
+"text": "Contact",
+"href": "https://cormenfornh.com/contact.html"
+},
+{
+"text": "Donate",
+"href": "https://cormenfornh.com/donate.html"
+},
+{
+"text": "February 19",
+"href": "https://cormenfornh.com/Votes/02-19-2026.html#HB1130"
+},
+{
+"text": "February 19",
+"href": "https://cormenfornh.com/Votes/02-19-2026.html#HB1775"
+},
+{
+"text": "Home",
+"href": "https://cormenfornh.com/index.html"
+},
+{
+"text": "Media",
+"href": "https://cormenfornh.com/Media/index.html"
+},
+{
+"text": "Votes",
+"href": "https://cormenfornh.com/Votes/index.html"
+},
+{
+"text": "a brief floor speech",
+"href": "https://www.youtube.com/live/6w-BGQJ_G5c?si=rKtUy3e2dnnw4zTX&t=14183"
+}
 ]

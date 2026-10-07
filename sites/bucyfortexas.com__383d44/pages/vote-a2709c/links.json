@@ -1,32 +1,138 @@
 [
-"https://bucyfortexas.com/",
-"https://bucyfortexas.com/about",
-"https://bucyfortexas.com/constituent-resources",
-"https://bucyfortexas.com/get-involved",
-"https://bucyfortexas.com/news",
-"https://bucyfortexas.com/priorities-2",
-"https://bucyfortexas.com/priorities/criminal-justice-reform",
-"https://bucyfortexas.com/priorities/education",
-"https://bucyfortexas.com/priorities/environmental-protection",
-"https://bucyfortexas.com/priorities/gun-violence-prevention",
-"https://bucyfortexas.com/priorities/healthcare",
-"https://bucyfortexas.com/priorities/lgbtq-equality",
-"https://bucyfortexas.com/priorities/local-control",
-"https://bucyfortexas.com/priorities/property-taxes",
-"https://bucyfortexas.com/priorities/voting",
-"https://bucyfortexas.com/privacy",
-"https://bucyfortexas.com/vote",
-"https://facebook.com/BucyForTexas",
-"https://instagram.com/bucyfortexas",
-"https://secure.actblue.com/donate/john-bucy",
-"https://sos.state.tx.us/elections/forms/id/poster-8.5x14-aw-voter.pdf",
-"https://teamrv-mvp.sos.texas.gov/BallotTrackerApp",
-"https://teamrv-mvp.sos.texas.gov/MVP/mvp.do",
-"https://techforcampaigns.org/",
-"https://twitter.com/BucyForTexas",
-"https://tx-williamsoncounty.civicplus.com/445/Register-to-Vote",
-"https://txapps.texas.gov/tolapp/sos/SOSACManager",
-"https://wilcotx.gov/450/Voting-By-Mail",
-"https://wilcotx.gov/DocumentCenter/View/12578/7-38f",
-"https://wilcotx.https://apps.texastribune.org/features/2021/texas-redistricting-map//450/Voting-By-Mail"
+{
+"text": "Change My Name/Address",
+"href": "https://txapps.texas.gov/tolapp/sos/SOSACManager"
+},
+{
+"text": "Criminal Justice Reform",
+"href": "https://bucyfortexas.com/priorities/criminal-justice-reform/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/john-bucy"
+},
+{
+"text": "Education",
+"href": "https://bucyfortexas.com/priorities/education/"
+},
+{
+"text": "Environmental Protection",
+"href": "https://bucyfortexas.com/priorities/environmental-protection/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/BucyForTexas/"
+},
+{
+"text": "For Constituents",
+"href": "https://bucyfortexas.com/constituent-resources/"
+},
+{
+"text": "Get Involved",
+"href": "https://bucyfortexas.com/get-involved/"
+},
+{
+"text": "Gun Violence Prevention",
+"href": "https://bucyfortexas.com/priorities/gun-violence-prevention/"
+},
+{
+"text": "Healthcare",
+"href": "https://bucyfortexas.com/priorities/healthcare/"
+},
+{
+"text": "How to Vote",
+"href": "https://bucyfortexas.com/vote/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/bucyfortexas/"
+},
+{
+"text": "LGBTQ+ Equality",
+"href": "https://bucyfortexas.com/priorities/lgbtq-equality/"
+},
+{
+"text": "Learn more here.",
+"href": "https://www.wilcotx.gov/DocumentCenter/View/12578/7-38f?bidId="
+},
+{
+"text": "Local Control",
+"href": "https://bucyfortexas.com/priorities/local-control/"
+},
+{
+"text": "Meet John",
+"href": "https://bucyfortexas.com/about/"
+},
+{
+"text": "More info and list of acceptable IDs here",
+"href": "https://www.sos.state.tx.us/elections/forms/id/poster-8.5x14-aw-voter.pdf"
+},
+{
+"text": "News",
+"href": "https://bucyfortexas.com/news/"
+},
+{
+"text": "Priorities",
+"href": "https://bucyfortexas.com/priorities-2/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://bucyfortexas.com/privacy/"
+},
+{
+"text": "Property Taxes",
+"href": "https://bucyfortexas.com/priorities/property-taxes/"
+},
+{
+"text": "Re-Elect John Bucy III",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "Register to Vote (First Time)",
+"href": "https://tx-williamsoncounty.civicplus.com/445/Register-to-Vote"
+},
+{
+"text": "Tech for Campaigns",
+"href": "https://www.techforcampaigns.org/"
+},
+{
+"text": "Verify My Registration",
+"href": "https://teamrv-mvp.sos.texas.gov/MVP/mvp.do"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.wilcotx.gov/450/Voting-By-Mail"
+},
+{
+"text": "Voting Rights",
+"href": "https://bucyfortexas.com/priorities/voting/"
+},
+{
+"text": "X",
+"href": "https://twitter.com/BucyForTexas"
+},
+{
+"text": "You can now track the status of your VBM application and your ballot by mail.",
+"href": "https://teamrv-mvp.sos.texas.gov/BallotTrackerApp/#/login"
+},
+{
+"text": "[image: Re-Elect John Bucy III]",
+"href": "https://bucyfortexas.com/"
+},
+{
+"text": "bbm@wilco.org",
+"href": "mailto:bbm@wilco.org"
+},
+{
+"text": "download the application",
+"href": "https://www.wilcotx.gov/450/Voting-By-Mail"
+},
+{
+"text": "johnbucy@bucyfortexas.com",
+"href": "mailto:johnbucy@bucyfortexas.com"
+},
+{
+"text": "use this tool from the Texas Tribune.",
+"href": "https://www.wilcotx.https://apps.texastribune.org/features/2021/texas-redistricting-map//450/Voting-By-Mail"
+}
 ]

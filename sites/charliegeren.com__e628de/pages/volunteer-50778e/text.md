@@ -1,7 +1,9 @@
+Toggle navigation Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Volunteer First Name * Last Name * Email Address * Phone Number Street Address * Street Address Line 2 City * State * Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific Zip Code * How can you help?
+Make Phone Calls Go Door-to-Door Display a Yard Sign Host a Meet-and-Greet Write Letters to the Editor Yes, I would like to receive text messages.
 By submitting this form and signing up for texts, you consent to receive marketing text messages (e.g. event invitations, program updates), polling/voting text messages (e.g., election reminders, opinion polls), and public service announcement text messages (e.g., legislative updates, voter education) from Charlie Geren Campaign at the number provided, including messages sent by autodialer.
 Msg frequency varies.
 Msg & Data Rates May Apply.
 Reply HELP for help.
 Reply STOP to unsubscribe.
-See our Privacy Policy (https://www.charliegeren.com/privacy/) or Terms of Service (https://www.charliegeren.com/privacy/terms-and-conditions/)
-This field is for validation purposes and should be left unchanged.
+See our Privacy Policy (https://www.charliegeren.com/privacy/) or Terms of Service (https://www.charliegeren.com/privacy/terms-and-conditions/) Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
+Box 1440 Fort Worth, TX 76101 Privacy Policy

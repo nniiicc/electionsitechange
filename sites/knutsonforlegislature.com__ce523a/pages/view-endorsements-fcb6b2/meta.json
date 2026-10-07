@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.knutsonforlegislature.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "859c8facbb96e3e4712d9103776371cfc1022564",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": []
 }

@@ -1,7 +1,22 @@
 [
-"https://facebook.com/RuestmanforIL",
-"https://secure.winred.com/friends-of-tim-ruestman/donate-today",
-"https://timruestman.com/",
-"https://timruestman.com/about-1",
-"https://timruestman.com/get-involved"
+{
+"text": "ABOUT",
+"href": "https://www.timruestman.com/about-1"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/friends-of-tim-ruestman/donate-today"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.timruestman.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.timruestman.com"
+},
+{
+"text": "[image: FB.png]",
+"href": "https://www.facebook.com/RuestmanforIL"
+}
 ]

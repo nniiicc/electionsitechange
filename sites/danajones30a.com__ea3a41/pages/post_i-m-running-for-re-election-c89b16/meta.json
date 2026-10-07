@@ -1,7 +1,9 @@
 {
- "description": "Today, I\u2019m proud to announce my campaign for re-election to represent District 30A!",
+ "description": "Today, I’m proud to announce my campaign for re-election to represent District 30A!",
  "final_url": "https://www.danajones30a.com/post/i-m-running-for-re-election",
- "paid_for_by": null,
+ "fingerprint": "cd3e7b474ff97d6074a4b534c9cedea89b302a07",
+ "format": 3,
+ "paid_for_by": "",
  "title": "I'm Running for Re-Election!",
  "years_mentioned": [
   "2025"

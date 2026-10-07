@@ -1,15 +1,54 @@
 [
-"https://bsky.app/profile/wandrme.paxex.aero",
-"https://dot.nh.gov/sites/g/files/ehbemt811/files/imported-files/2022-nh-rail-trail-plans.pdf",
-"https://gc.nh.gov/bill_status/billinfo.aspx?id=1510",
-"https://gc.nh.gov/bill_status/billinfo.aspx?id=2296",
-"https://gc.nh.gov/bill_status/billinfo.aspx?id=2370",
-"https://gc.nh.gov/house/committees/remotetestimony/submitted_testimony.aspx",
-"https://instagram.com/wandrme",
-"https://millerfornh.com/",
-"https://millerfornh.com/author/sethmillerworks-net",
-"https://millerfornh.com/category/legislative-update",
-"https://millerfornh.com/gaslighting-of-the-granite-state-kelly-ayottes-misleading-mess",
-"https://millerfornh.com/spinning-my-wheels-in-committee",
-"https://millerfornh.com/time-to-make-the-sausage"
+{
+"text": "Bluesky",
+"href": "https://bsky.app/profile/wandrme.paxex.aero"
+},
+{
+"text": "HB1410",
+"href": "https://gc.nh.gov/bill_status/billinfo.aspx?id=2296"
+},
+{
+"text": "HB1492",
+"href": "https://gc.nh.gov/bill_status/billinfo.aspx?id=1510"
+},
+{
+"text": "HB1703",
+"href": "https://gc.nh.gov/bill_status/billinfo.aspx?id=2370"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/wandrme"
+},
+{
+"text": "Jan 24, 2026",
+"href": "https://millerfornh.com/spinning-my-wheels-in-committee/"
+},
+{
+"text": "Legislative Update",
+"href": "https://millerfornh.com/category/legislative-update/"
+},
+{
+"text": "Next: Gaslighting of the Granite State: Kelly Ayotte’s Misleading Mess",
+"href": "https://millerfornh.com/gaslighting-of-the-granite-state-kelly-ayottes-misleading-mess/"
+},
+{
+"text": "Previous: Time to Make the Sausage",
+"href": "https://millerfornh.com/time-to-make-the-sausage/"
+},
+{
+"text": "Seth Miller",
+"href": "https://millerfornh.com/author/sethmillerworks-net/"
+},
+{
+"text": "[image: Miller for NH]",
+"href": "https://millerfornh.com/"
+},
+{
+"text": "adverse fiscal impact it will have on surrounding communities",
+"href": "https://www.dot.nh.gov/sites/g/files/ehbemt811/files/imported-files/2022-nh-rail-trail-plans.pdf"
+},
+{
+"text": "remote testimony page",
+"href": "https://gc.nh.gov/house/committees/remotetestimony/submitted_testimony.aspx"
+}
 ]

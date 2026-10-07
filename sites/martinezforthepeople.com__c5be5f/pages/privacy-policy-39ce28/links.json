@@ -1,9 +1,54 @@
 [
-"http://instagram.com/",
-"http://pinterest.com/",
-"http://yelp.com/biz",
-"https://facebook.com/profile.php?id=61588512504810",
-"https://martinezforthepeople.com/",
-"https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac",
-"https://youtube.com/"
+{
+"text": "About Dan",
+"href": "https://www.martinezforthepeople.com/#AboutDan"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac"
+},
+{
+"text": "Issues",
+"href": "https://www.martinezforthepeople.com/#Issues"
+},
+{
+"text": "Support Dan",
+"href": "https://secure.anedot.com/martinez-for-the-people-4badfd37-04e7-4b32-aef8-eba874cbafdf/f815897b-b09c-48ca-adc1-6f21c5f2fcac"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezforthepeople.com/"
+},
+{
+"text": "[image][image][image]",
+"href": "https://www.martinezforthepeople.com/"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/"
+},
+{
+"text": "[no text]",
+"href": "http://pinterest.com/"
+},
+{
+"text": "[no text]",
+"href": "http://yelp.com/biz/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/profile.php?id=61588512504810"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/"
+},
+{
+"text": "[no text]",
+"href": "mailto:campaign@martinezforthepeople.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:dan@martinezforthepeople.com"
+}
 ]

@@ -1,12 +1,54 @@
 [
-"https://bonfire.com/store/pat-legrand-for-nc-senate",
-"https://fvap.gov/uploads/FVAP/Forms/fpca2013.pdf",
-"https://ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx",
-"https://secure.actblue.com/donate/patricia-legrand-1",
-"https://secure.actblue.com/donate/patricia-legrand-1?amount=10",
-"https://secure.actblue.com/donate/patricia-legrand-1?amount=100",
-"https://secure.actblue.com/donate/patricia-legrand-1?amount=20",
-"https://vt.ncsbe.gov/PPLkup",
-"https://youtube.com/live/YGaY1EY5XZw?feature=share",
-"https://youtube.com/live/mdyJ5-w40n8?is=Yfiqcv4u6eL9G3EL"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/patricia-legrand-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/patricia-legrand-1?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.actblue.com/donate/patricia-legrand-1?amount=20"
+},
+{
+"text": "CONTACT",
+"href": "mailto:Operations-LeGrand4NCSenate@proton.me?subject=Website+Contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/patricia-legrand-1"
+},
+{
+"text": "FIND YOUR POLLING PLACE",
+"href": "https://vt.ncsbe.gov/PPLkup/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/patricia-legrand-1"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://www.ncdot.gov/dmv/offices-services/online/Pages/voter-registration-application.aspx"
+},
+{
+"text": "SHOP OUR STORE",
+"href": "https://www.bonfire.com/store/pat-legrand-for-nc-senate/"
+},
+{
+"text": "VOTE BY MAIL",
+"href": "https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf"
+},
+{
+"text": "WATCH LIVE",
+"href": "https://youtube.com/live/YGaY1EY5XZw?feature=share"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/live/mdyJ5-w40n8?is=Yfiqcv4u6eL9G3EL"
+},
+{
+"text": "[image]",
+"href": "https://youtube.com/live/YGaY1EY5XZw?feature=share"
+}
 ]

@@ -1,14 +1,54 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfwPnYy08aMlMbmNFzFf4p-ehBKWEm8f4v6mXBQMYRvk1btOA/viewform",
-"https://kimjamesforutah.org/",
-"https://kimjamesforutah.org/_blank",
-"https://kimjamesforutah.org/about-kim-james.html",
-"https://kimjamesforutah.org/contact-us.html",
-"https://kimjamesforutah.org/donate.html",
-"https://kimjamesforutah.org/hd8-map.html",
-"https://kimjamesforutah.org/kims-opposition.html",
-"https://kimjamesforutah.org/kims-perspectives.html",
-"https://kimjamesforutah.org/volunteer--vote.html",
-"https://le.utah.gov/GIS/findDistrict.jsp",
-"https://vote.utah.gov/register-to-vote-or-update-your-voter-registration"
+{
+"text": "About Kim James",
+"href": "https://www.kimjamesforutah.org/about-kim-james.html"
+},
+{
+"text": "Contact Us",
+"href": "https://www.kimjamesforutah.org/contact-us.html"
+},
+{
+"text": "DONATE",
+"href": "https://www.kimjamesforutah.org/donate.html"
+},
+{
+"text": "Find your district",
+"href": "https://le.utah.gov/GIS/findDistrict.jsp"
+},
+{
+"text": "HD8 MAP",
+"href": "https://www.kimjamesforutah.org/hd8-map.html"
+},
+{
+"text": "HOME",
+"href": "https://www.kimjamesforutah.org/"
+},
+{
+"text": "KIM JAMES FOR UTAH HOUSE DISTRICT 8",
+"href": "https://www.kimjamesforutah.org/"
+},
+{
+"text": "Kim's Opposition",
+"href": "https://www.kimjamesforutah.org/kims-opposition.html"
+},
+{
+"text": "Kim's Perspectives",
+"href": "https://www.kimjamesforutah.org/kims-perspectives.html"
+},
+{
+"text": "REGISTER TO VOTE",
+"href": "https://vote.utah.gov/register-to-vote-or-update-your-voter-registration/"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfwPnYy08aMlMbmNFzFf4p-ehBKWEm8f4v6mXBQMYRvk1btOA/viewform"
+},
+{
+"text": "Volunteer & Vote",
+"href": "https://www.kimjamesforutah.org/volunteer--vote.html"
+},
+{
+"text": "Weebly",
+"href": "https://www.weebly.com/"
+}
 ]

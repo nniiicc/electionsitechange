@@ -1,22 +1,82 @@
 [
-"https://ballotpedia.org/Indiana",
-"https://facebook.com/SaraforIN34",
-"https://in.gov/sos/elections/voter-information/register-to-vote",
-"https://saragullion.com/",
-"https://saragullion.com/about",
-"https://saragullion.com/affordablechildcare",
-"https://saragullion.com/affordablesafehousing",
-"https://saragullion.com/cart",
-"https://saragullion.com/contact",
-"https://saragullion.com/datacenters",
-"https://saragullion.com/endorsements",
-"https://saragullion.com/get-involved",
-"https://saragullion.com/keyissues",
-"https://saragullion.com/mentalhealthcare",
-"https://saragullion.com/morelgbtqprotections",
-"https://saragullion.com/protectionsforimmigrants",
-"https://saragullion.com/raiseminimumwage",
-"https://saragullion.com/reproductivefreedom",
-"https://saragullion.com/stregnthenpubliced",
-"https://secure.actblue.com/donate/sara-gullion-1"
+{
+"text": "0",
+"href": "https://www.saragullion.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.saragullion.com/about"
+},
+{
+"text": "BallotPedia Indiana",
+"href": "https://ballotpedia.org/Indiana"
+},
+{
+"text": "Contact",
+"href": "https://www.saragullion.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sara-gullion-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.saragullion.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.saragullion.com/get-involved"
+},
+{
+"text": "Issues",
+"href": "https://www.saragullion.com/keyissues"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/affordablechildcare"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/affordablesafehousing"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/datacenters"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/mentalhealthcare"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/morelgbtqprotections"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/protectionsforimmigrants"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/raiseminimumwage"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/reproductivefreedom"
+},
+{
+"text": "Learn More",
+"href": "https://www.saragullion.com/stregnthenpubliced"
+},
+{
+"text": "Register to vote or check your status",
+"href": "https://www.in.gov/sos/elections/voter-information/register-to-vote/"
+},
+{
+"text": "Sara Gullion",
+"href": "https://www.saragullion.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SaraforIN34/"
+}
 ]

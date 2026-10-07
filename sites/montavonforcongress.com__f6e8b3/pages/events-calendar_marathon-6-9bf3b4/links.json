@@ -1,23 +1,98 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Montavon%27s+Marathon%3A+Day+6&dates=20261002T120000Z%2F20261002T220000Z&location=4143+Woodmere+Park+Boulevard%2C+Venice%2C+Florida%2C+34293%2C+United+States",
-"http://maps.google.com/?q=4143+Woodmere+Park+Boulevard+Venice%2C+Florida%2C+34293+United+States",
-"https://bsky.app/profile/montavon.bsky.social",
-"https://facebook.com/montavon4congress",
-"https://instagram.com/MontavonforCongress",
-"https://montavonforcongress.com/",
-"https://montavonforcongress.com/cart",
-"https://montavonforcongress.com/cd17",
-"https://montavonforcongress.com/contribute",
-"https://montavonforcongress.com/events-calendar",
-"https://montavonforcongress.com/events-calendar/marathon-5",
-"https://montavonforcongress.com/events-calendar/marathon-6?format=ical",
-"https://montavonforcongress.com/events-calendar/marathon-7",
-"https://montavonforcongress.com/marathon",
-"https://montavonforcongress.com/meet",
-"https://montavonforcongress.com/new-dropdown",
-"https://montavonforcongress.com/platform",
-"https://montavonforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/matthew-montavon-1",
-"https://tiktok.com/@montavon.for.cong",
-"https://youtube.com/@Montavon4Congress/videos"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4143+woodmere+park+boulevard+venice%2C+florida%2C+34293+united+states"
+},
+{
+"text": "0",
+"href": "https://www.montavonforcongress.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "CD 17",
+"href": "https://www.montavonforcongress.com/cd17"
+},
+{
+"text": "Contact",
+"href": "https://www.montavonforcongress.com/contribute"
+},
+{
+"text": "Contribute",
+"href": "https://www.montavonforcongress.com/#getinvolved"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/matthew-montavon-1"
+},
+{
+"text": "Events",
+"href": "https://www.montavonforcongress.com/events-calendar"
+},
+{
+"text": "Folder: About",
+"href": "https://www.montavonforcongress.com/new-dropdown"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Montavon%27s+Marathon%3A+Day+6&dates=20261002T120000Z%2F20261002T220000Z&location=4143+Woodmere+Park+Boulevard%2C+Venice%2C+Florida%2C+34293%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-6?format=ical"
+},
+{
+"text": "Meet Matthew",
+"href": "https://www.montavonforcongress.com/meet"
+},
+{
+"text": "Montavon's Marathon",
+"href": "https://www.montavonforcongress.com/marathon"
+},
+{
+"text": "Next Next October 3 Montavon's Marathon: Day 7",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-7"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.montavonforcongress.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 1 Montavon's Marathon: Day 5",
+"href": "https://www.montavonforcongress.com/events-calendar/marathon-5"
+},
+{
+"text": "The Platform",
+"href": "https://www.montavonforcongress.com/platform"
+},
+{
+"text": "[image: Montavon For Congress]",
+"href": "https://www.montavonforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/montavon.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/montavon4congress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/MontavonforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@montavon.for.cong"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@Montavon4Congress/videos"
+}
 ]

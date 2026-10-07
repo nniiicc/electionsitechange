@@ -1,11 +1,13 @@
-Latest
-Perennial candidate Gretchen Driskell released a partisan attack ad that is riddled with untruths, inaccurate citations, and belittles a bipartisan small business relief program that supported over a million jobs in Michigan.
+Skip to main content Meet Tim Biography Endorsements News Issues Protecting our National Security Fixing the Biden Crises Building a Healthy Economy Fiscal Responsibility Affordable Health Care Defending Our Values Contact Volunteer Store Contribute Latest Latest News Posts ALL NEWS PRESS MEDIA - Any - News Press Media 22 September Press SHARE Driskell Campaign Caught Airing False TV Ad While Attacking Small Business Relief Perennial candidate Gretchen Driskell released a partisan attack ad that is riddled with untruths, inaccurate citations, and belittles a bipartisan small business relief program that supported over a million jobs in Michigan.
 Her attack ad displayed a false claim that...
-Four years ago, Democrat Gretchen Driskell, then mayor of Saline, won election to the state House by defeating a Republican incumbent on GOP turf.
+8 November Press SHARE Walberg Defeats Driskell to Retain Michigan's 7th Congressional District Four years ago, Democrat Gretchen Driskell, then mayor of Saline, won election to the state House by defeating a Republican incumbent on GOP turf.
 She set out on a similar task this year, challenging Republican incumbent Tim Walberg for Michigan's 7th Congressional...
-Jackson, MI - The Walberg for Congress campaign today released a new television ad that highlights Tim's bipartisan work in Congress to combat the heroin epidemic in communities across Michigan's 7th District.
+23 September Press SHARE Walberg Campaign Releases New TV Ad: "Combating Heroin" Jackson, MI - The Walberg for Congress campaign today released a new television ad that highlights Tim's bipartisan work in Congress to combat the heroin epidemic in communities across Michigan's 7th District.
 In the ad, Mike Hirst from Jackson County, tells his...
-Jackson, MI — Congressman Tim Walberg’s campaign is airing its first television advertisement of 2016, which is focused on Tim’s commitment to expanding vocational training.
+3 August Press SHARE Walberg Kicks Off General Election with TV Ad Focused on Vocational Training Jackson, MI — Congressman Tim Walberg’s campaign is airing its first television advertisement of 2016, which is focused on Tim’s commitment to expanding vocational training.
 As Tim said in this television spot, “It’s vital for Michigan workers to get the skills they...
-Jackson, MI- Congressman Tim Walberg is honored to add the Jackson County Chamber of Commerce PAC to his list of endorsements.
+16 September Press SHARE Walberg Gains Support of Local Business Organization Jackson, MI - Congressman Tim Walberg is honored to add the Jackson County Chamber of Commerce PAC to his list of endorsements.
 "It is an honor to have the support of an organization focused on supporting, advocating for, and encouraging existing and...
+Pages 1 2 NEXT Stay in Touch Sign up for Emails Submit CONTRIBUTE VOLUNTEER Join The Team!
+FOLLOW TIM Meet Tim News Issues Contact Volunteer Store Contribute PRIVACY POLICY VIDEO OF TIM WALBERG ON THE CAMPAIGN TRAIL PICTURES OF TIM WALBERG ON THE CAMPAIGN TRAIL P.O.
+Box 1362 Jackson, MI 49204 PAID FOR BY WALBERG FOR CONGRESS

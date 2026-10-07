@@ -1,6 +1,18 @@
 [
-"https://app.reach.vote/join/JNBHTB",
-"https://facebook.com/voteparknc",
-"https://instagram.com/votepark",
-"https://secure.actblue.com/donate/votepark"
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/votepark"
+},
+{
+"text": "[image: Join us on Reach]",
+"href": "https://app.reach.vote/join/JNBHTB"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/voteparknc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/votepark"
+}
 ]

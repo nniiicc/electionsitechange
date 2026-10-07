@@ -1,3 +1,1 @@
-Salisbury for PA 34
-Blog & News
-Exit mobile version
+Salisbury for PA 34 Blog & News Campaign News, Endorsement Update 1684 Views Abigail Salisbury Endorsed by Allegheny County Democratic Committee for Pennsylvania’s 34th State House District February 12, 2024 by Abigail Salisbury Campaign News, Endorsement Update 1834 Views LPAC Endorses Abigail January 16, 2024 by Campaign Team Events 2547 Views Salisbury Hosting Community Meetings This Month January 8, 2024 by Campaign Team About The District 2599 Views $575K+ Awarded to Improve Stormwater Management January 5, 2024 by Campaign Team Salisbury for PA 34 Back to top Exit mobile version

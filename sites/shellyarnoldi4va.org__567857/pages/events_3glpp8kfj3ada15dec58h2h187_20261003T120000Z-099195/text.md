@@ -1,6 +1,4 @@
-← All EventsCommunity
-Alexandria Cars & Coffee at The Haven
-Time & Location
-📅 Saturday, October 3, 2026, 8:00 AM – 10:00 AM
-📍 Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA
-Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA
+SA Shelly Arnoldi for Virginia's 8th Home About Priorities Events Endorsements Get Involved Donate ← All Events Community Alexandria Cars & Coffee at The Haven Time & Location 📅 Saturday, October 3, 2026, 8:00 AM – 10:00 AM 📍 Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA Belle Haven Pizzeria "The Haven", 1401 Belle Haven Rd, Alexandria, VA 22307, USA RSVP for This Event Email * Name * Phone ZIP Code Number of Guests Just me 2 guests 3 guests 4 guests 5+ guests Notes (optional) RSVP Now Shelly Arnoldi Candidate for Virginia's 8th Congressional District.
+Integrity.
+Courage.
+Commitment. 📞 (202) 285-7474 ✉ [email protected] X / Twitter Facebook Campaign About Shelly Priorities Get Involved Events Donate Stay Informed Join the Campaign Endorsed by the Libertarian Party of Northern Virginia Paid for by Shelly Arnoldi for Virginia.

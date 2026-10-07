@@ -1,13 +1,3 @@
-Senator Watters 2026 Legislation (Word Doc)
-Senator Watters 2022 Legislation (Word Doc)
-Senator Watters 2021 Legislation (Word Doc)
-Senator Watters 2018 Legislation (Word Doc)
-Senator Watters 2018 Legislation (PDF)
-Senator Watters 2017 Legislation (Word Doc)
-Senator Watters 2017 Legislation (PDF)
-Senator Watters 2016 Legislation (Word Doc)
-Senator Watters 2016 Legislation (PDF)
-Senator Watters 2013 Legislation (Word Doc)
-Senator Watters 2013 Legislation (PDF)
-Senator Watters 2014 Legislation (Word Doc)
-Senator Watters 2014 Legislation (PDF)
+Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Home About David Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Media News News Newsletters LTEs Photography Take Action Contribute Volunteer Contact Issues Jobs and the Economy Women and Family Issues Public Safety, Equity, and Protecting Families Education The Climate Crisis and Renewable Energy Environment and Cultural Resources Recovery, Harm Reduction, and the Opioid Crisis Legislation Senator Watters 2026 Legislation (Word Doc) Senator Watters 2022 Legislation (Word Doc) Senator Watters 2021 Legislation (Word Doc) Senator Watters 2018 Legislation (Word Doc) Senator Watters 2018 Legislation (PDF) Senator Watters 2017 Legislation (Word Doc) Senator Watters 2017 Legislation (PDF) Senator Watters 2016 Legislation (Word Doc) Senator Watters 2016 Legislation (PDF) Senator Watters 2013 Legislation (Word Doc) Senator Watters 2013 Legislation (PDF) Senator Watters 2014 Legislation (Word Doc) Senator Watters 2014 Legislation (PDF) Back to Top PAID FOR BY THE COMMITTEE TO ELECT DAVID WATTERS.
+FISCAL AGENT.
+19 MAPLE STREET, DOVER, NH 03280

@@ -1,39 +1,194 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Bandy+Campaign+Kickoff&dates=20260623T230000Z%2F20260624T003000Z&location=2423+Kimball+Avenue%2C+Manhattan%2C+KS%2C+66502%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Coffee+with+the+Candidate&dates=20260815T140000Z%2F20260815T160000Z&location=4841+Rockridge+Court%2C+Manhattan%2C+Kansas%2C+66503%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Drinks+%26+Thinks&dates=20261022T000000Z%2F20261022T013000Z&location=418+Poyntz+Avenue%2C+Manhattan%2C+Kansas%2C+66502%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fundraiser+for+Brenda+Bandy&dates=20261007T223000Z%2F20261008T000000Z&location=Manhattan%2C+Kansas%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum&dates=20261003T150000Z%2F20261003T170000Z",
-"http://maps.google.com/?q=+Manhattan%2C+Kansas+United+States",
-"http://maps.google.com/?q=2423+Kimball+Avenue+Manhattan%2C+KS%2C+66502+United+States",
-"http://maps.google.com/?q=418+Poyntz+Avenue+Manhattan%2C+Kansas%2C+66502+United+States",
-"http://maps.google.com/?q=4841+Rockridge+Court+Manhattan%2C+Kansas%2C+66503+United+States",
-"https://bandyforkansas.com/",
-"https://bandyforkansas.com/about-1",
-"https://bandyforkansas.com/calendar",
-"https://bandyforkansas.com/calendar/bandy-campaign-kickoff",
-"https://bandyforkansas.com/calendar/bandy-campaign-kickoff?format=ical",
-"https://bandyforkansas.com/calendar/coffee-with-the-candidate",
-"https://bandyforkansas.com/calendar/coffee-with-the-candidate?format=ical",
-"https://bandyforkansas.com/calendar/drinks-thinks",
-"https://bandyforkansas.com/calendar/drinks-thinks?format=ical",
-"https://bandyforkansas.com/calendar/fundraiser-for-brenda-bandy",
-"https://bandyforkansas.com/calendar/fundraiser-for-brenda-bandy?format=ical",
-"https://bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl",
-"https://bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl?format=ical",
-"https://bandyforkansas.com/calendar?category=Candidate+Forum",
-"https://bandyforkansas.com/calendar?category=Coffee+with+the+candidate",
-"https://bandyforkansas.com/calendar?category=Fundraiser",
-"https://bandyforkansas.com/cart",
-"https://bandyforkansas.com/donate",
-"https://bandyforkansas.com/endorsements",
-"https://bandyforkansas.com/platform",
-"https://bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf",
-"https://bandyforkansas.com/support",
-"https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link",
-"https://exploretock.com/arrow-cocktail-lounge-manhattan",
-"https://facebook.com/profile.php?id=61588817447942",
-"https://instagram.com/bandy4kansas",
-"https://secure.actblue.com/donate/bandykickoff",
-"https://youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+manhattan%2C+kansas+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2423+kimball+avenue+manhattan%2C+ks%2C+66502+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=418+poyntz+avenue+manhattan%2C+kansas%2C+66502+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=4841+rockridge+court+manhattan%2C+kansas%2C+66503+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bandyforkansas.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bandyforkansas.com/about-1"
+},
+{
+"text": "Bandy Campaign Kickoff",
+"href": "https://www.bandyforkansas.com/calendar/bandy-campaign-kickoff"
+},
+{
+"text": "Candidate Forum",
+"href": "https://www.bandyforkansas.com/calendar?category=Candidate+Forum"
+},
+{
+"text": "Coffee with the Candidate",
+"href": "https://www.bandyforkansas.com/calendar/coffee-with-the-candidate"
+},
+{
+"text": "Coffee with the candidate",
+"href": "https://www.bandyforkansas.com/calendar?category=Coffee+with+the+candidate"
+},
+{
+"text": "Donate",
+"href": "https://www.bandyforkansas.com/donate"
+},
+{
+"text": "Drinks & Thinks",
+"href": "https://www.bandyforkansas.com/calendar/drinks-thinks"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bandyforkansas.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bandyforkansas.com/calendar"
+},
+{
+"text": "Fundraiser",
+"href": "https://www.bandyforkansas.com/calendar?category=Fundraiser"
+},
+{
+"text": "Fundraiser for Brenda Bandy",
+"href": "https://www.bandyforkansas.com/calendar/fundraiser-for-brenda-bandy"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Bandy+Campaign+Kickoff&dates=20260623T230000Z%2F20260624T003000Z&location=2423+Kimball+Avenue%2C+Manhattan%2C+KS%2C+66502%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Coffee+with+the+Candidate&dates=20260815T140000Z%2F20260815T160000Z&location=4841+Rockridge+Court%2C+Manhattan%2C+Kansas%2C+66503%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Drinks+%26+Thinks&dates=20261022T000000Z%2F20261022T013000Z&location=418+Poyntz+Avenue%2C+Manhattan%2C+Kansas%2C+66502%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fundraiser+for+Brenda+Bandy&dates=20261007T223000Z%2F20261008T000000Z&location=Manhattan%2C+Kansas%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=League+of+Women+Voters+Forum&dates=20261003T150000Z%2F20261003T170000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/bandy-campaign-kickoff?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/coffee-with-the-candidate?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/drinks-thinks?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/fundraiser-for-brenda-bandy?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl?format=ical"
+},
+{
+"text": "League of Women Voters Forum",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "Media",
+"href": "https://drive.google.com/drive/folders/1g_wxZ5Wb6GAjka_NUNW4zjl3N9oCc1ne?usp=share_link"
+},
+{
+"text": "Platform",
+"href": "https://www.bandyforkansas.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bandyforkansas.com/s/Brenda-Bandy-for-Kansas-State-House-privacy-policy.pdf"
+},
+{
+"text": "Support",
+"href": "https://www.bandyforkansas.com/support"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/bandy-campaign-kickoff"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/coffee-with-the-candidate"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/drinks-thinks"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/fundraiser-for-brenda-bandy"
+},
+{
+"text": "View Event →",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "[image: Bandy Campaign Kickoff]",
+"href": "https://www.bandyforkansas.com/calendar/bandy-campaign-kickoff"
+},
+{
+"text": "[image: Bandy for Kansas]",
+"href": "https://www.bandyforkansas.com/"
+},
+{
+"text": "[image: Coffee with the Candidate]",
+"href": "https://www.bandyforkansas.com/calendar/coffee-with-the-candidate"
+},
+{
+"text": "[image: Fundraiser for Brenda Bandy]",
+"href": "https://www.bandyforkansas.com/calendar/fundraiser-for-brenda-bandy"
+},
+{
+"text": "[no text]",
+"href": "https://www.bandyforkansas.com/calendar/drinks-thinks"
+},
+{
+"text": "[no text]",
+"href": "https://www.bandyforkansas.com/calendar/w95qi8lqf5crx90rutbe5m2pierncl"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61588817447942"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bandy4kansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCHVkxFc4-Q0dooyqL9m6Fhg"
+},
+{
+"text": "brenda@bandyforkansas.com",
+"href": "mailto:brenda@bandyforkansas.com"
+},
+{
+"text": "https://secure.actblue.com/donate/bandykickoff",
+"href": "https://secure.actblue.com/donate/bandykickoff"
+},
+{
+"text": "registration is required.",
+"href": "https://www.exploretock.com/arrow-cocktail-lounge-manhattan"
+}
 ]

@@ -1,154 +1,866 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F18&dates=20250418T220000Z%2F20250419T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F25&dates=20250425T220000Z%2F20250426T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Saturday+4%2F19&dates=20250419T160000Z%2F20250419T200000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Saturday+4%2F26&dates=20250426T160000Z%2F20250426T200000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Sunday+4%2F27&dates=20250427T170000Z%2F20250427T210000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Tuesday+4%2F22&dates=20250422T220000Z%2F20250423T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Wednesday+4%2F23&dates=20250423T220000Z%2F20250424T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Crosby+Meet+and+Greet&dates=20250421T220000Z%2F20250422T000000Z&location=26969+Minnesota+6%2C+Crosby%2C+MN%2C+56441%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Denise+Slipy+for+Senate+Grand+Rapids+Fundraiser&dates=20250417T220000Z%2F20250418T000000Z&location=36+Southeast+10th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20250429T120000Z%2F20250430T010000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Fifty+Lakes+Days&dates=20250621T150000Z%2F20250621T210000Z&location=40447+Town+Hall+Road%2C+Fifty+Lakes%2C+MN%2C+56448%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Saturday+4%2F19&dates=20250419T160000Z%2F20250419T220000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Saturday+4%2F26&dates=20250426T160000Z%2F20250426T220000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Sunday+4%2F27&dates=20250427T170000Z%2F20250427T230000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States",
-"http://google.com/calendar/event?action=TEMPLATE&text=Itasca+Pride&dates=20250622T180000Z%2F20250622T220000Z&location=Grand+Rapids%2C+Minnesota%2C+USA",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Friday+4%2F25&dates=20250425T220000Z%2F20250426T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Saturday+4%2F19&dates=20250419T220000Z%2F20250420T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Saturday+4%2F26&dates=20250426T220000Z%2F20250427T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Sunday+4%2F27&dates=20250427T220000Z%2F20250428T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Tuesday+4%2F22&dates=20250422T220000Z%2F20250423T003000Z",
-"http://google.com/calendar/event?action=TEMPLATE&text=Phonebank+Wednesday+4%2F23&dates=20250423T220000Z%2F20250424T003000Z",
-"http://maps.google.com/?q=+Grand+Rapids%2C+Minnesota+USA",
-"http://maps.google.com/?q=223+Washington+Street+Brainerd%2C+MN%2C+56401+United+States",
-"http://maps.google.com/?q=26969+Minnesota+6+Crosby%2C+MN%2C+56441+United+States",
-"http://maps.google.com/?q=36+Southeast+10th+Street+Grand+Rapids%2C+MN%2C+55744+United+States",
-"http://maps.google.com/?q=40447+Town+Hall+Road+Fifty+Lakes%2C+MN%2C+56448+United+States",
-"http://maps.google.com/?q=809+Northeast+4th+Street+Grand+Rapids%2C+MN%2C+55744+United+States",
-"https://do-something-creative.com/",
-"https://facebook.com/profile.php?id=61574217572943",
-"https://flickr.com/photos/slipy4senate",
-"https://heidijeub.com/",
-"https://secure.actblue.com/donate/denise-slipy-3",
-"https://secure.ngpvan.com/1i3QqkDFUEyXUyGrSsnL8g2",
-"https://secure.ngpvan.com/2JL-iwI-cke46nZ0adSOZA2",
-"https://secure.ngpvan.com/33MoM4aMGU2F6easc_5x4A2",
-"https://secure.ngpvan.com/F6nc5Z2yl02J5Pbq8WqoFw2",
-"https://secure.ngpvan.com/FDxItP7pQEOMaCvVvszaIw2",
-"https://secure.ngpvan.com/GZVwXbr7w0eoRhKBjO71eA2",
-"https://secure.ngpvan.com/HLbhuKroqESjwBoTaR0tqg2",
-"https://secure.ngpvan.com/JtGVBQpJaE-0S3zm2I9Oiw2",
-"https://secure.ngpvan.com/L5nDnulRh0SQmddkkcaVMA2",
-"https://secure.ngpvan.com/NgNlROszMUSgmcWizxFPRQ2",
-"https://secure.ngpvan.com/O--kpSLZXEKrB1ZoBN0ctg2",
-"https://secure.ngpvan.com/P50iVOY8pUe4EW1_fd3v8g2",
-"https://secure.ngpvan.com/PJ47G7zz-Uad1UW3EhXNLg2",
-"https://secure.ngpvan.com/SZj6nyLj2EizgoiY55IcFA2",
-"https://secure.ngpvan.com/Txa5-bBm40mr-dQC2eeNuw2",
-"https://secure.ngpvan.com/UXjw_mgNnUCSYnhK-uwEGw2",
-"https://secure.ngpvan.com/XHnvKt6sU0Gg3xi92MZJXQ2",
-"https://secure.ngpvan.com/Xj2vpqveYkibTNQsCGXOgg2",
-"https://secure.ngpvan.com/YLjMwHOSrk2j1vtQTijXZA2",
-"https://secure.ngpvan.com/ar7AYzOPEEeacwPE3V-DUA2",
-"https://secure.ngpvan.com/bb7FO6rHSUyb1ALyF8CHLA2",
-"https://secure.ngpvan.com/iuFToXWgykOjOpvSqa5Vjg2",
-"https://secure.ngpvan.com/lCCBJv7JR0KUpaUvjQn9Bg2",
-"https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2",
-"https://secure.ngpvan.com/zFk-FkLvZkGjNmyKAXfUJQ2",
-"https://slipy4senate.com/",
-"https://slipy4senate.com/affordability",
-"https://slipy4senate.com/cart",
-"https://slipy4senate.com/contact",
-"https://slipy4senate.com/earlychildhood",
-"https://slipy4senate.com/education",
-"https://slipy4senate.com/endorsements",
-"https://slipy4senate.com/energycostsandtheenvironment",
-"https://slipy4senate.com/events",
-"https://slipy4senate.com/events/5nna83gz6tt69pj",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr?format=ical",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79?format=ical",
-"https://slipy4senate.com/events/5nna83gz6tt69pj-en26w?format=ical",
-"https://slipy4senate.com/events/5nna83gz6tt69pj?format=ical",
-"https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8",
-"https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f",
-"https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f?format=ical",
-"https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8?format=ical",
-"https://slipy4senate.com/events/fifty-lakes-days",
-"https://slipy4senate.com/events/fifty-lakes-days?format=ical",
-"https://slipy4senate.com/events/itasca-pride",
-"https://slipy4senate.com/events/itasca-pride?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt?format=ical",
-"https://slipy4senate.com/events/phonebanking-sunday-46-zler4",
-"https://slipy4senate.com/events/phonebanking-sunday-46-zler4?format=ical",
-"https://slipy4senate.com/events?category=Doorknock",
-"https://slipy4senate.com/events?category=Phonebank",
-"https://slipy4senate.com/healthcare",
-"https://slipy4senate.com/housing",
-"https://slipy4senate.com/innovationandtechnology",
-"https://slipy4senate.com/join-our-cause",
-"https://slipy4senate.com/media",
-"https://slipy4senate.com/meet-denise",
-"https://slipy4senate.com/new-dropdown",
-"https://slipy4senate.com/new-dropdown-1",
-"https://slipy4senate.com/news",
-"https://slipy4senate.com/publicsafetyandjustice",
-"https://slipy4senate.com/transparencyandaccountability",
-"https://slipy4senate.com/workingfamiliesandlabor",
-"https://sos.mn.gov/election-administration-campaigns/elections-calendar/senate-district-6-special-election",
-"https://tiktok.com/@senatorslipy",
-"https://youtube.com/@deniseslipy322"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=+grand+rapids%2C+minnesota+usa"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=223+washington+street+brainerd%2C+mn%2C+56401+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=26969+minnesota+6+crosby%2C+mn%2C+56441+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=36+southeast+10th+street+grand+rapids%2C+mn%2C+55744+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=40447+town+hall+road+fifty+lakes%2C+mn%2C+56448+united+states"
+},
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=809+northeast+4th+street+grand+rapids%2C+mn%2C+55744+united+states"
+},
+{
+"text": "0",
+"href": "https://slipy4senate.com/cart"
+},
+{
+"text": "Affordability",
+"href": "https://slipy4senate.com/affordability"
+},
+{
+"text": "Back",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "Brainerd Doorknock Friday 4/18",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm"
+},
+{
+"text": "Brainerd Doorknock Friday 4/25",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79"
+},
+{
+"text": "Brainerd Doorknock Monday 4/21",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9"
+},
+{
+"text": "Brainerd Doorknock Monday 4/28",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr"
+},
+{
+"text": "Brainerd Doorknock Saturday 4/19",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj"
+},
+{
+"text": "Brainerd Doorknock Saturday 4/26",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf"
+},
+{
+"text": "Brainerd Doorknock Sunday 4/27",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs"
+},
+{
+"text": "Brainerd Doorknock Thursday 4/24",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w"
+},
+{
+"text": "Brainerd Doorknock Tuesday 4/22",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a"
+},
+{
+"text": "Brainerd Doorknock Wednesday 4/23",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj"
+},
+{
+"text": "Contact",
+"href": "https://slipy4senate.com/contact"
+},
+{
+"text": "Crosby Meet and Greet",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f"
+},
+{
+"text": "Denise Slipy for Senate Grand Rapids Fundraiser",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8"
+},
+{
+"text": "Do-Somthing-Creative",
+"href": "https://www.do-something-creative.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/denise-slipy-3"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.actblue.com/donate/denise-slipy-3"
+},
+{
+"text": "Doorknock",
+"href": "https://slipy4senate.com/events?category=Doorknock"
+},
+{
+"text": "Early Childhood",
+"href": "https://slipy4senate.com/earlychildhood"
+},
+{
+"text": "Education",
+"href": "https://slipy4senate.com/education"
+},
+{
+"text": "Election Day",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-zler4"
+},
+{
+"text": "Endorsements",
+"href": "https://slipy4senate.com/endorsements"
+},
+{
+"text": "Energy Costs & the Environment",
+"href": "https://slipy4senate.com/energycostsandtheenvironment"
+},
+{
+"text": "Events",
+"href": "https://slipy4senate.com/events"
+},
+{
+"text": "Fifty Lakes Days",
+"href": "https://slipy4senate.com/events/fifty-lakes-days"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://slipy4senate.com/new-dropdown"
+},
+{
+"text": "Folder: What I'll Fight For",
+"href": "https://slipy4senate.com/new-dropdown-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F18&dates=20250418T220000Z%2F20250419T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Friday+4%2F25&dates=20250425T220000Z%2F20250426T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Saturday+4%2F19&dates=20250419T160000Z%2F20250419T200000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Saturday+4%2F26&dates=20250426T160000Z%2F20250426T200000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Sunday+4%2F27&dates=20250427T170000Z%2F20250427T210000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Tuesday+4%2F22&dates=20250422T220000Z%2F20250423T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Brainerd+Doorknock+Wednesday+4%2F23&dates=20250423T220000Z%2F20250424T003000Z&location=223+Washington+Street%2C+Brainerd%2C+MN%2C+56401%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Crosby+Meet+and+Greet&dates=20250421T220000Z%2F20250422T000000Z&location=26969+Minnesota+6%2C+Crosby%2C+MN%2C+56441%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Denise+Slipy+for+Senate+Grand+Rapids+Fundraiser&dates=20250417T220000Z%2F20250418T000000Z&location=36+Southeast+10th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Election+Day&dates=20250429T120000Z%2F20250430T010000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Fifty+Lakes+Days&dates=20250621T150000Z%2F20250621T210000Z&location=40447+Town+Hall+Road%2C+Fifty+Lakes%2C+MN%2C+56448%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Saturday+4%2F19&dates=20250419T160000Z%2F20250419T220000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Saturday+4%2F26&dates=20250426T160000Z%2F20250426T220000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Sunday+4%2F27&dates=20250427T170000Z%2F20250427T230000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Grand+Rapids+Doorknock+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z&location=809+Northeast+4th+Street%2C+Grand+Rapids%2C+MN%2C+55744%2C+United+States"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Itasca+Pride&dates=20250622T180000Z%2F20250622T220000Z&location=Grand+Rapids%2C+Minnesota%2C+USA"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Friday+4%2F25&dates=20250425T220000Z%2F20250426T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Monday+4%2F21&dates=20250421T220000Z%2F20250422T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Monday+4%2F28&dates=20250428T220000Z%2F20250429T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Saturday+4%2F19&dates=20250419T220000Z%2F20250420T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Saturday+4%2F26&dates=20250426T220000Z%2F20250427T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Sunday+4%2F27&dates=20250427T220000Z%2F20250428T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Thursday+4%2F24&dates=20250424T220000Z%2F20250425T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Tuesday+4%2F22&dates=20250422T220000Z%2F20250423T003000Z"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Phonebank+Wednesday+4%2F23&dates=20250423T220000Z%2F20250424T003000Z"
+},
+{
+"text": "Grand Rapids Doorknock Monday 4/21",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h"
+},
+{
+"text": "Grand Rapids Doorknock Monday 4/28",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t"
+},
+{
+"text": "Grand Rapids Doorknock Saturday 4/19",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp"
+},
+{
+"text": "Grand Rapids Doorknock Saturday 4/26",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f"
+},
+{
+"text": "Grand Rapids Doorknock Sunday 4/27",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x"
+},
+{
+"text": "Grand Rapids Doorknock Thursday 4/24",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz"
+},
+{
+"text": "Health Care",
+"href": "https://slipy4senate.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "Housing",
+"href": "https://slipy4senate.com/housing"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/fifty-lakes-days?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/itasca-pride?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt?format=ical"
+},
+{
+"text": "ICS",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-zler4?format=ical"
+},
+{
+"text": "Innovation & Technology",
+"href": "https://slipy4senate.com/innovationandtechnology"
+},
+{
+"text": "Itasca Pride",
+"href": "https://slipy4senate.com/events/itasca-pride"
+},
+{
+"text": "Join Team Slipy",
+"href": "https://slipy4senate.com/join-our-cause"
+},
+{
+"text": "Local Artist, Heidi Jeub",
+"href": "https://www.heidijeub.com"
+},
+{
+"text": "Media",
+"href": "https://slipy4senate.com/media"
+},
+{
+"text": "Meet Denise",
+"href": "https://slipy4senate.com/meet-denise"
+},
+{
+"text": "News",
+"href": "https://slipy4senate.com/news"
+},
+{
+"text": "Phonebank",
+"href": "https://slipy4senate.com/events?category=Phonebank"
+},
+{
+"text": "Phonebank Friday 4/25",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp"
+},
+{
+"text": "Phonebank Monday 4/21",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr"
+},
+{
+"text": "Phonebank Monday 4/28",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4"
+},
+{
+"text": "Phonebank Saturday 4/19",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt"
+},
+{
+"text": "Phonebank Saturday 4/26",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj"
+},
+{
+"text": "Phonebank Sunday 4/27",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5"
+},
+{
+"text": "Phonebank Thursday 4/24",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg"
+},
+{
+"text": "Phonebank Tuesday 4/22",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw"
+},
+{
+"text": "Phonebank Wednesday 4/23",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr"
+},
+{
+"text": "Public Safety & Justice",
+"href": "https://slipy4senate.com/publicsafetyandjustice"
+},
+{
+"text": "Transparency & Accountability",
+"href": "https://slipy4senate.com/transparencyandaccountability"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/fifty-lakes-days"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/itasca-pride"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x"
+},
+{
+"text": "View Event →",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-zler4"
+},
+{
+"text": "Working Families & Labor",
+"href": "https://slipy4senate.com/workingfamiliesandlabor"
+},
+{
+"text": "[image: Brainerd Doorknock Friday 4/18]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-ft8sm"
+},
+{
+"text": "[image: Brainerd Doorknock Friday 4/25]",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79"
+},
+{
+"text": "[image: Brainerd Doorknock Monday 4/21]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9"
+},
+{
+"text": "[image: Brainerd Doorknock Monday 4/28]",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w-ftl79-9mdsr"
+},
+{
+"text": "[image: Brainerd Doorknock Saturday 4/19]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj"
+},
+{
+"text": "[image: Brainerd Doorknock Saturday 4/26]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf"
+},
+{
+"text": "[image: Brainerd Doorknock Sunday 4/27]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-p4x8h-ynfly-7nrkj-cx2mf-7ccjs"
+},
+{
+"text": "[image: Brainerd Doorknock Thursday 4/24]",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj-en26w"
+},
+{
+"text": "[image: Brainerd Doorknock Tuesday 4/22]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-9t5gj-8fnyz-dgdja-68jk5-l6je9-x8n8a"
+},
+{
+"text": "[image: Brainerd Doorknock Wednesday 4/23]",
+"href": "https://slipy4senate.com/events/5nna83gz6tt69pj"
+},
+{
+"text": "[image: Crosby Meet and Greet]",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8-zc89f"
+},
+{
+"text": "[image: Denise Slipy for MN Senate District 6]",
+"href": "https://slipy4senate.com/"
+},
+{
+"text": "[image: Denise Slipy for Senate Grand Rapids Fundraiser]",
+"href": "https://slipy4senate.com/events/denise-slipy-for-senate-fundraising-event-zhsf8"
+},
+{
+"text": "[image: Election Day]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-zler4"
+},
+{
+"text": "[image: Fifty Lakes Days]",
+"href": "https://slipy4senate.com/events/fifty-lakes-days"
+},
+{
+"text": "[image: Grand Rapids Doorknock Monday 4/21]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h"
+},
+{
+"text": "[image: Grand Rapids Doorknock Monday 4/28]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz-ea46t"
+},
+{
+"text": "[image: Grand Rapids Doorknock Saturday 4/19]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp"
+},
+{
+"text": "[image: Grand Rapids Doorknock Saturday 4/26]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f"
+},
+{
+"text": "[image: Grand Rapids Doorknock Sunday 4/27]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-rgke7-gj4wp-sa96f-8847x"
+},
+{
+"text": "[image: Grand Rapids Doorknock Thursday 4/24]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4-hsp3t-687gc-c4675-4xb9z-ysw7h-pxgjz"
+},
+{
+"text": "[image: Itasca Pride]",
+"href": "https://slipy4senate.com/events/itasca-pride"
+},
+{
+"text": "[image: Phonebank Friday 4/25]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp"
+},
+{
+"text": "[image: Phonebank Monday 4/21]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr"
+},
+{
+"text": "[image: Phonebank Monday 4/28]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5-brhl4"
+},
+{
+"text": "[image: Phonebank Saturday 4/19]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt"
+},
+{
+"text": "[image: Phonebank Saturday 4/26]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj"
+},
+{
+"text": "[image: Phonebank Sunday 4/27]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg-ybzxp-yggtj-hzyk5"
+},
+{
+"text": "[image: Phonebank Thursday 4/24]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr-5ctkg"
+},
+{
+"text": "[image: Phonebank Tuesday 4/22]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw"
+},
+{
+"text": "[image: Phonebank Wednesday 4/23]",
+"href": "https://slipy4senate.com/events/phonebanking-sunday-46-mb5h6-f222n-8hpre-kr32w-99rcc-jm4pf-69363-rzlnh-96bhd-r7rbw-ppg6c-6z343-f86pt-w8haa-dz9xr-sl3gw-wgwhr"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61574217572943"
+},
+{
+"text": "[no text]",
+"href": "https://www.flickr.com/photos/slipy4senate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@senatorslipy"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@deniseslipy322"
+},
+{
+"text": "https://secure.actblue.com/donate/denise-slipy-3",
+"href": "https://secure.actblue.com/donate/denise-slipy-3"
+},
+{
+"text": "https://secure.ngpvan.com/1i3QqkDFUEyXUyGrSsnL8g2",
+"href": "https://secure.ngpvan.com/1i3QqkDFUEyXUyGrSsnL8g2"
+},
+{
+"text": "https://secure.ngpvan.com/2JL-iwI-cke46nZ0adSOZA2",
+"href": "https://secure.ngpvan.com/2JL-iwI-cke46nZ0adSOZA2"
+},
+{
+"text": "https://secure.ngpvan.com/33MoM4aMGU2F6easc_5x4A2",
+"href": "https://secure.ngpvan.com/33MoM4aMGU2F6easc_5x4A2"
+},
+{
+"text": "https://secure.ngpvan.com/F6nc5Z2yl02J5Pbq8WqoFw2",
+"href": "https://secure.ngpvan.com/F6nc5Z2yl02J5Pbq8WqoFw2"
+},
+{
+"text": "https://secure.ngpvan.com/FDxItP7pQEOMaCvVvszaIw2",
+"href": "https://secure.ngpvan.com/FDxItP7pQEOMaCvVvszaIw2"
+},
+{
+"text": "https://secure.ngpvan.com/GZVwXbr7w0eoRhKBjO71eA2",
+"href": "https://secure.ngpvan.com/GZVwXbr7w0eoRhKBjO71eA2"
+},
+{
+"text": "https://secure.ngpvan.com/HLbhuKroqESjwBoTaR0tqg2",
+"href": "https://secure.ngpvan.com/HLbhuKroqESjwBoTaR0tqg2"
+},
+{
+"text": "https://secure.ngpvan.com/JtGVBQpJaE-0S3zm2I9Oiw2",
+"href": "https://secure.ngpvan.com/JtGVBQpJaE-0S3zm2I9Oiw2"
+},
+{
+"text": "https://secure.ngpvan.com/L5nDnulRh0SQmddkkcaVMA2",
+"href": "https://secure.ngpvan.com/L5nDnulRh0SQmddkkcaVMA2"
+},
+{
+"text": "https://secure.ngpvan.com/NgNlROszMUSgmcWizxFPRQ2",
+"href": "https://secure.ngpvan.com/NgNlROszMUSgmcWizxFPRQ2"
+},
+{
+"text": "https://secure.ngpvan.com/O--kpSLZXEKrB1ZoBN0ctg2",
+"href": "https://secure.ngpvan.com/O--kpSLZXEKrB1ZoBN0ctg2"
+},
+{
+"text": "https://secure.ngpvan.com/P50iVOY8pUe4EW1_fd3v8g2",
+"href": "https://secure.ngpvan.com/P50iVOY8pUe4EW1_fd3v8g2"
+},
+{
+"text": "https://secure.ngpvan.com/PJ47G7zz-Uad1UW3EhXNLg2",
+"href": "https://secure.ngpvan.com/PJ47G7zz-Uad1UW3EhXNLg2"
+},
+{
+"text": "https://secure.ngpvan.com/SZj6nyLj2EizgoiY55IcFA2",
+"href": "https://secure.ngpvan.com/SZj6nyLj2EizgoiY55IcFA2"
+},
+{
+"text": "https://secure.ngpvan.com/Txa5-bBm40mr-dQC2eeNuw2",
+"href": "https://secure.ngpvan.com/Txa5-bBm40mr-dQC2eeNuw2"
+},
+{
+"text": "https://secure.ngpvan.com/UXjw_mgNnUCSYnhK-uwEGw2",
+"href": "https://secure.ngpvan.com/UXjw_mgNnUCSYnhK-uwEGw2"
+},
+{
+"text": "https://secure.ngpvan.com/XHnvKt6sU0Gg3xi92MZJXQ2",
+"href": "https://secure.ngpvan.com/XHnvKt6sU0Gg3xi92MZJXQ2"
+},
+{
+"text": "https://secure.ngpvan.com/Xj2vpqveYkibTNQsCGXOgg2",
+"href": "https://secure.ngpvan.com/Xj2vpqveYkibTNQsCGXOgg2"
+},
+{
+"text": "https://secure.ngpvan.com/YLjMwHOSrk2j1vtQTijXZA2",
+"href": "https://secure.ngpvan.com/YLjMwHOSrk2j1vtQTijXZA2"
+},
+{
+"text": "https://secure.ngpvan.com/ar7AYzOPEEeacwPE3V-DUA2",
+"href": "https://secure.ngpvan.com/ar7AYzOPEEeacwPE3V-DUA2"
+},
+{
+"text": "https://secure.ngpvan.com/bb7FO6rHSUyb1ALyF8CHLA2",
+"href": "https://secure.ngpvan.com/bb7FO6rHSUyb1ALyF8CHLA2"
+},
+{
+"text": "https://secure.ngpvan.com/iuFToXWgykOjOpvSqa5Vjg2",
+"href": "https://secure.ngpvan.com/iuFToXWgykOjOpvSqa5Vjg2"
+},
+{
+"text": "https://secure.ngpvan.com/lCCBJv7JR0KUpaUvjQn9Bg2",
+"href": "https://secure.ngpvan.com/lCCBJv7JR0KUpaUvjQn9Bg2"
+},
+{
+"text": "https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2",
+"href": "https://secure.ngpvan.com/lJWQIju4jUuf6FvcM7QIOg2"
+},
+{
+"text": "https://secure.ngpvan.com/zFk-FkLvZkGjNmyKAXfUJQ2",
+"href": "https://secure.ngpvan.com/zFk-FkLvZkGjNmyKAXfUJQ2"
+},
+{
+"text": "https://www.sos.mn.gov/election-administration-campaigns/elections-calendar/senate-district-6-special-election/",
+"href": "https://www.sos.mn.gov/election-administration-campaigns/elections-calendar/senate-district-6-special-election/"
+}
 ]

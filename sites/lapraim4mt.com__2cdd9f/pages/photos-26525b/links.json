@@ -1,9 +1,38 @@
 [
-"https://lapraim4mt.com/",
-"https://lapraim4mt.com/about",
-"https://lapraim4mt.com/cart",
-"https://lapraim4mt.com/contact",
-"https://lapraim4mt.com/photos",
-"https://lapraim4mt.com/privacy-policy",
-"https://secure.winred.com/lapraim-for-montana/donate-today"
+{
+"text": "0",
+"href": "https://www.lapraim4mt.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.lapraim4mt.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.lapraim4mt.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/lapraim-for-montana/donate-today"
+},
+{
+"text": "Donate!",
+"href": "https://secure.winred.com/lapraim-for-montana/donate-today"
+},
+{
+"text": "Home",
+"href": "https://lapraim4mt.com"
+},
+{
+"text": "Photos",
+"href": "https://www.lapraim4mt.com/photos"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.lapraim4mt.com/privacy-policy"
+},
+{
+"text": "[image: lapraim4mt]",
+"href": "https://www.lapraim4mt.com/"
+}
 ]

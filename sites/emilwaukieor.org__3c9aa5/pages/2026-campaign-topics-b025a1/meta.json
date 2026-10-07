@@ -1,7 +1,9 @@
 {
  "description": "",
  "final_url": "https://emilwaukieor.org/2026-campaign-topics",
- "paid_for_by": null,
+ "fingerprint": "21a825025472a2c2a439d9bda04c71c3ad96e3fc",
+ "format": 3,
+ "paid_for_by": "",
  "title": "2026 campaign topics",
  "years_mentioned": [
   "2021",
@@ -9,6 +11,7 @@
   "2023",
   "2024",
   "2025",
-  "2026"
+  "2026",
+  "2030"
  ]
 }

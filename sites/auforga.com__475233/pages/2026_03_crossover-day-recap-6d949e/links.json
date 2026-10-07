@@ -1,73 +1,366 @@
 [
-"http://bentoncreative.com/",
-"https://acgme.org/",
-"https://ajc.com/news/2025/07/georgia-had-third-highest-snap-payment-error-rate-in-country-in-2024",
-"https://arepitacafe.com/",
-"https://ashpublications.org/blood/article/142/Supplement%201/3900/500392/Estimating-Sickle-Cell-Disease-Prevalence-By-State",
-"https://assistedliving.org/memory-care",
-"https://atlantanewsfirst.com/2026/03/07/georgia-house-backs-property-tax-overhaul-after-fiery-debate",
-"https://auforga.com/",
-"https://auforga.com/2026/01/2026-legislative-session-budget-week",
-"https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy",
-"https://auforga.com/2026/03/georgia-public-health-bills-on-foreign-trained-doctors-hiv-drugs-and-school-cellphone-bans-advance",
-"https://auforga.com/2026/03/where-does-gun-safety-legislation-stand-two-weeks-from-sine-die",
-"https://auforga.com/2026/04/today-is-sine-die",
-"https://auforga.com/2026/06/redistricting",
-"https://auforga.com/2026/06/special-session-recap",
-"https://auforga.com/2026/09/summer-recap",
-"https://auforga.com/in-the-news",
-"https://auforga.com/join-teamau",
-"https://auforga.com/meet-michelle",
-"https://auforga.com/news",
-"https://auforga.com/priorities",
-"https://auforga.com/privacy-policy",
-"https://auforga.com/support",
-"https://auforga.com/terms-of-use",
-"https://auforga.com/voter-guide",
-"https://decal.ga.gov/",
-"https://dfcs.georgia.gov/services/snap",
-"https://dhs.georgia.gov/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfnaRmf3LBehREcZaXkBhbpNaw4hEUaMieiouOcbC_GLYJ5eQ/viewform",
-"https://donors.lifesouth.org/donor/schedules/drive_schedule/893672",
-"https://dph.georgia.gov/",
-"https://facebook.com/share/v/18w7J8T8DF",
-"https://families.decal.ga.gov/PreK/Search",
-"https://fns.usda.gov/snap/work-requirements",
-"https://fns.usda.gov/summer/sunbucks",
-"https://fosteringsuccessact.org/",
-"https://gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship",
-"https://gbpi.org/overview-2027-fiscal-year-budget-for-k-12-education",
-"https://gcdd.org/resources/developmental-disabilities-services-and-supports",
-"https://georgia.gov/apply-new-option-waiver-program-now-and-comprehensive-support-waiver-program-comp",
-"https://georgiarecorder.com/2026/01/29/georgia-house-gop-unveils-plan-to-end-property-taxes-for-homeowners",
-"https://georgiarecorder.com/2026/03/03/high-profile-gop-property-tax-overhaul-fails-to-clear-the-house",
-"https://georgiarecorder.com/briefs/house-lawmakers-overwhelmingly-reject-proposal-to-legalize-sports-betting-in-georgia",
-"https://gov.georgia.gov/press-releases/2026-03-03/gov-kemp-signs-amended-budget-provide-tax-relief-fund-georgia-dreams",
-"https://gpb.org/news/2022/10/27/georgia-school-districts-awarded-federal-grants-for-electric-school-buses",
-"https://healthbeat.org/atlanta/2025/11/07/georgia-snap-work-requirements-food-aid-cuts",
-"https://knkx.org/government/2025-07-09/seattle-ballard-food-banks-tacoma-nourish-pierce-county-big-bill-snap-benefits",
-"https://legis.ga.gov/committees/house/88",
-"https://legis.ga.gov/legislation/71020",
-"https://legis.ga.gov/legislation/71103",
-"https://legis.ga.gov/legislation/72145",
-"https://legis.ga.gov/legislation/72233",
-"https://legis.ga.gov/legislation/72234",
-"https://legis.ga.gov/legislation/72294",
-"https://legis.ga.gov/legislation/72644",
-"https://legis.ga.gov/legislation/73253",
-"https://legis.ga.gov/members/house/4983?session=1033",
-"https://legis.ga.gov/members/house/86?session=1033",
-"https://lifesouth.org/",
-"https://login.community.gadoe.org/documents/student-mental-behavioral-health-services-grant",
-"https://medicaid.georgia.gov/",
-"https://medicine.uga.edu/",
-"https://open.spotify.com/show/3wo7y9K2v7dw2yV7LwUHnU?si=f6f167b00f2f4bcf&nd=1&dlsi=ef4c74980ac348de",
-"https://podcasts.apple.com/us/podcast/the-georgia-diagnosis/id1858624671",
-"https://pro.stateaffairs.com/ga/politics/georgia-budget-schools-medicaid-literacy",
-"https://usafacts.org/answers/how-many-people-receive-snap-benefits-in-the-us-every-month/state/georgia",
-"https://wabe.org/what-georgia-bills-passed-and-didnt-on-crossover-day",
-"https://wuga.org/local-news/2021-12-17/uga-welcomes-3-000-plus-new-alums-in-commencement-ceremonies",
-"https://youtu.be/lSMrHSl89qE",
-"https://youtube.com/@AUforGA",
-"https://youtube.com/watch?v=9LVpNt5ZXtE&list=https%3A%2F%2Fwww.youtube.com%2F%40AUforGA"
+{
+"text": "(Click here to watch full video of HB 1324 floor remarks)",
+"href": "https://youtu.be/lSMrHSl89qE"
+},
+{
+"text": "(Image via State Affairs GA, click here to read article)",
+"href": "https://pro.stateaffairs.com/ga/politics/georgia-budget-schools-medicaid-literacy"
+},
+{
+"text": "(Photo credit: Georgia Council on Developmental Disabilities)",
+"href": "https://gcdd.org/resources/developmental-disabilities-services-and-supports"
+},
+{
+"text": "(Photo credit: University of Georgia)",
+"href": "https://www.wuga.org/local-news/2021-12-17/uga-welcomes-3-000-plus-new-alums-in-commencement-ceremonies"
+},
+{
+"text": "(Via Atlanta News First: Click here to watch full video)",
+"href": "https://www.atlantanewsfirst.com/2026/03/07/georgia-house-backs-property-tax-overhaul-after-fiery-debate/"
+},
+{
+"text": "(Via Georgia Public Broadcasting, click here to read full article)",
+"href": "https://www.gpb.org/news/2022/10/27/georgia-school-districts-awarded-federal-grants-for-electric-school-buses"
+},
+{
+"text": "(Via Georgia Recorder, click here to read full article)",
+"href": "https://georgiarecorder.com/2026/03/03/high-profile-gop-property-tax-overhaul-fails-to-clear-the-house/"
+},
+{
+"text": "(Via Georgia Recorder, click here to read full article)",
+"href": "https://georgiarecorder.com/briefs/house-lawmakers-overwhelmingly-reject-proposal-to-legalize-sports-betting-in-georgia/"
+},
+{
+"text": "(Via KNKX Public Radio, click here to read full article)",
+"href": "https://www.knkx.org/government/2025-07-09/seattle-ballard-food-banks-tacoma-nourish-pierce-county-big-bill-snap-benefits"
+},
+{
+"text": "(Via WABE, click here to read full article)",
+"href": "https://www.wabe.org/what-georgia-bills-passed-and-didnt-on-crossover-day/"
+},
+{
+"text": "(Via the Atlanta Journal-Constitution, click here to read full article)",
+"href": "https://www.ajc.com/news/2025/07/georgia-had-third-highest-snap-payment-error-rate-in-country-in-2024/"
+},
+{
+"text": "1.77 million Georgians",
+"href": "https://usafacts.org/answers/how-many-people-receive-snap-benefits-in-the-us-every-month/state/georgia/"
+},
+{
+"text": "770-405-9418",
+"href": "tel:770-405-9418"
+},
+{
+"text": "Apple",
+"href": "https://podcasts.apple.com/us/podcast/the-georgia-diagnosis/id1858624671"
+},
+{
+"text": "Arepita Cafe",
+"href": "https://arepitacafe.com/"
+},
+{
+"text": "Benton Creative.",
+"href": "http://bentoncreative.com"
+},
+{
+"text": "Chair Sharon Cooper",
+"href": "https://www.legis.ga.gov/members/house/86?session=1033"
+},
+{
+"text": "DONATE",
+"href": "https://auforga.com/support/"
+},
+{
+"text": "Deep Dive into Next Week’s Redistricting Special Session",
+"href": "https://auforga.com/2026/06/redistricting/"
+},
+{
+"text": "Department of Early Care and Learning (DECAL)",
+"href": "https://www.decal.ga.gov/"
+},
+{
+"text": "Department of Human Services",
+"href": "https://dhs.georgia.gov/"
+},
+{
+"text": "Department of Public Health",
+"href": "https://dph.georgia.gov/"
+},
+{
+"text": "Economic Prosperity",
+"href": "https://auforga.com/priorities/#economy"
+},
+{
+"text": "Education",
+"href": "https://auforga.com/priorities/#education"
+},
+{
+"text": "Fill out our podcast survey here",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfnaRmf3LBehREcZaXkBhbpNaw4hEUaMieiouOcbC_GLYJ5eQ/viewform"
+},
+{
+"text": "Fiscal Year 2027 state budget",
+"href": "https://www.legis.ga.gov/legislation/72234"
+},
+{
+"text": "From operating room to the Gold Dome: How Georgia’s medical lawmakers shape policy",
+"href": "https://auforga.com/2026/03/from-operating-room-to-the-gold-dome-how-georgias-medical-lawmakers-shape-policy/"
+},
+{
+"text": "Georgia Foster Care Scholarship",
+"href": "https://fosteringsuccessact.org/#:~:text=The%20Fostering%20Success%20Act%20will%20generate%20up,remove%20barriers%20in%20completing%20their%20post%2Dsecondary%20education."
+},
+{
+"text": "Georgia public health bills on foreign-trained doctors, HIV drugs, and school...[image]",
+"href": "https://auforga.com/2026/03/georgia-public-health-bills-on-foreign-trained-doctors-hiv-drugs-and-school-cellphone-bans-advance/"
+},
+{
+"text": "Georgia’s Pre-K program",
+"href": "https://families.decal.ga.gov/PreK/Search"
+},
+{
+"text": "Gold Dome Blood Drive",
+"href": "https://donors.lifesouth.org/donor/schedules/drive_schedule/893672"
+},
+{
+"text": "HB 1001",
+"href": "https://www.legis.ga.gov/legislation/72294"
+},
+{
+"text": "HB 1324",
+"href": "https://www.legis.ga.gov/legislation/73253"
+},
+{
+"text": "HB 717",
+"href": "https://www.legis.ga.gov/legislation/73253"
+},
+{
+"text": "HB 947",
+"href": "https://www.legis.ga.gov/legislation/72145"
+},
+{
+"text": "HOPE scholarships",
+"href": "https://www.gafutures.org/hope-state-aid-programs/hope-zell-miller-scholarships/hope-scholarship/"
+},
+{
+"text": "Health Appropriations subcommittee",
+"href": "https://www.legis.ga.gov/committees/house/88"
+},
+{
+"text": "Healthcare",
+"href": "https://auforga.com/priorities/#healthcare"
+},
+{
+"text": "House Appropriations committee",
+"href": "https://www.legis.ga.gov/committees/house/88"
+},
+{
+"text": "House Resolution 450",
+"href": "https://www.legis.ga.gov/legislation/71020"
+},
+{
+"text": "I was proud to vote NO on this bill",
+"href": "https://www.legis.ga.gov/legislation/72145"
+},
+{
+"text": "In the News",
+"href": "https://auforga.com/in-the-news/"
+},
+{
+"text": "Join #TeamAu",
+"href": "https://auforga.com/join-teamau/"
+},
+{
+"text": "LifeSouth",
+"href": "https://www.lifesouth.org/"
+},
+{
+"text": "Medicaid",
+"href": "https://medicaid.georgia.gov/"
+},
+{
+"text": "Meet Michelle",
+"href": "https://auforga.com/meet-michelle/"
+},
+{
+"text": "NOW-COMP waivers",
+"href": "https://georgia.gov/apply-new-option-waiver-program-now-and-comprehensive-support-waiver-program-comp"
+},
+{
+"text": "NOW/COMP waivers",
+"href": "https://georgia.gov/apply-new-option-waiver-program-now-and-comprehensive-support-waiver-program-comp"
+},
+{
+"text": "News",
+"href": "https://auforga.com/news/"
+},
+{
+"text": "Per the Georgia Recorder",
+"href": "https://georgiarecorder.com/briefs/house-lawmakers-overwhelmingly-reject-proposal-to-legalize-sports-betting-in-georgia/"
+},
+{
+"text": "Priorities",
+"href": "https://auforga.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://auforga.com/privacy-policy/"
+},
+{
+"text": "Public Safety",
+"href": "https://auforga.com/priorities/#safety"
+},
+{
+"text": "Reproductive Rights",
+"href": "https://auforga.com/priorities/#reproductiverights"
+},
+{
+"text": "SUN Bucks",
+"href": "https://www.fns.usda.gov/summer/sunbucks"
+},
+{
+"text": "Special Session Recap",
+"href": "https://auforga.com/2026/06/special-session-recap/"
+},
+{
+"text": "Spotify",
+"href": "https://open.spotify.com/show/3wo7y9K2v7dw2yV7LwUHnU?si=f6f167b00f2f4bcf&nd=1&dlsi=ef4c74980ac348de"
+},
+{
+"text": "Supplemental Nutrition Assistance Program",
+"href": "https://dfcs.georgia.gov/services/snap"
+},
+{
+"text": "Terms of Use",
+"href": "https://auforga.com/terms-of-use/"
+},
+{
+"text": "Threat To Mail-In Ballots",
+"href": "https://auforga.com/2026/09/summer-recap/"
+},
+{
+"text": "Today is Sine Die!",
+"href": "https://auforga.com/2026/04/today-is-sine-die/"
+},
+{
+"text": "University of Georgia School of Medicine",
+"href": "https://medicine.uga.edu/"
+},
+{
+"text": "Voter Guide",
+"href": "https://auforga.com/voter-guide/"
+},
+{
+"text": "Voting Rights",
+"href": "https://auforga.com/priorities/#votingrights"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@AUforGA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/watch?v=9LVpNt5ZXtE&list=https%3A%2F%2Fwww.youtube.com%2F%40AUforGA"
+},
+{
+"text": "[image: Dr. Michelle Au]",
+"href": "https://auforga.com/"
+},
+{
+"text": "[image]Where does gun safety legislation stand two weeks from Sine Die?",
+"href": "https://auforga.com/2026/03/where-does-gun-safety-legislation-stand-two-weeks-from-sine-die/"
+},
+{
+"text": "a new version of a property tax bill",
+"href": "https://www.legis.ga.gov/legislation/72644"
+},
+{
+"text": "amended FY 2026 budget",
+"href": "https://www.legis.ga.gov/legislation/72233"
+},
+{
+"text": "compromise language",
+"href": "https://www.legis.ga.gov/legislation/71103"
+},
+{
+"text": "failed earlier this session",
+"href": "https://georgiarecorder.com/2026/03/03/high-profile-gop-property-tax-overhaul-fails-to-clear-the-house/"
+},
+{
+"text": "failed to receive the 91 vote majority",
+"href": "https://www.legis.ga.gov/legislation/73253"
+},
+{
+"text": "funding for school transportation",
+"href": "https://gbpi.org/overview-2027-fiscal-year-budget-for-k-12-education/"
+},
+{
+"text": "further restrict",
+"href": "https://www.healthbeat.org/atlanta/2025/11/07/georgia-snap-work-requirements-food-aid-cuts/#:~:text=The%20new%20requirements%20for%20SNAP%20in%20Georgia,requirements%20for%20three%20months%20in%20a%2036%2Dmonth%2Dperiod."
+},
+{
+"text": "graduate medical education (GME)",
+"href": "https://www.acgme.org/"
+},
+{
+"text": "highest number of patients with SCD in the country",
+"href": "https://ashpublications.org/blood/article/142/Supplement%201/3900/500392/Estimating-Sickle-Cell-Disease-Prevalence-By-State"
+},
+{
+"text": "in this January newsletter",
+"href": "https://auforga.com/2026/01/2026-legislative-session-budget-week/"
+},
+{
+"text": "memory care",
+"href": "https://www.assistedliving.org/memory-care/"
+},
+{
+"text": "mental health grants",
+"href": "https://login.community.gadoe.org/documents/student-mental-behavioral-health-services-grant"
+},
+{
+"text": "michelle@auforga.com",
+"href": "mailto:michelle@auforga.com"
+},
+{
+"text": "only garnered 63 votes in favor",
+"href": "https://georgiarecorder.com/briefs/house-lawmakers-overwhelmingly-reject-proposal-to-legalize-sports-betting-in-georgia/"
+},
+{
+"text": "phase out property taxes",
+"href": "https://georgiarecorder.com/2026/01/29/georgia-house-gop-unveils-plan-to-end-property-taxes-for-homeowners/#:~:text=By:%20Jill%20Nolin%20%2D%20January%2029,homeowners%20throughout%20our%20great%20state.%E2%80%9D"
+},
+{
+"text": "reach out to our office",
+"href": "mailto: michelle.au@house.ga.gov"
+},
+{
+"text": "reached out to me",
+"href": "https://www.legis.ga.gov/members/house/4983?session=1033"
+},
+{
+"text": "reduce the error rate",
+"href": "https://www.ajc.com/news/2025/07/georgia-had-third-highest-snap-payment-error-rate-in-country-in-2024/"
+},
+{
+"text": "reserve your appointment time here",
+"href": "https://donors.lifesouth.org/donor/schedules/drive_schedule/893672"
+},
+{
+"text": "spoke against this bill",
+"href": "https://youtu.be/lSMrHSl89qE"
+},
+{
+"text": "the full video is archived here",
+"href": "https://www.facebook.com/share/v/18w7J8T8DF/"
+},
+{
+"text": "vote in favor of property tax relief",
+"href": "https://gov.georgia.gov/press-releases/2026-03-03/gov-kemp-signs-amended-budget-provide-tax-relief-fund-georgia-dreams"
+},
+{
+"text": "work requirements",
+"href": "https://www.fns.usda.gov/snap/work-requirements"
+}
 ]

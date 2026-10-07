@@ -1,9 +1,12 @@
 {
  "description": "",
  "final_url": "https://www.tomblakely.com/about.php",
- "paid_for_by": null,
+ "fingerprint": "719c0851cc590190ed400f8b985567b19127db55",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Tom Blakely, Candidate for State Representative",
  "years_mentioned": [
+  "2006",
   "2014",
   "2022"
  ]

@@ -1,119 +1,486 @@
 [
-"http://squarespace.com/",
-"https://americafirstpolicy.com/issues/the-data-center-water-use-hoax",
-"https://ascendanalytics.com/blog/what-rising-capacity-value-declining-energy-value-means-market-design",
-"https://bakerinstitute.org/research/how-investments-can-boost-ercot-reliability-and-cut-emissions",
-"https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
-"https://bracewell.com/resources/texas-senate-bill-6-ushers-in-major-overhaul-of-large-load-interconnection-and-grid-access-rules",
-"https://clearpathaction.org/advance-act-of-2024-s-870",
-"https://compass.beg.utexas.edu/assets/publications/Water_Requirements_for_DC_White_Paper.pdf",
-"https://comptroller.texas.gov/taxes/data-centers",
-"https://comptroller.texas.gov/taxes/sales",
-"https://construction-physics.com/p/i-was-wrong-about-data-center-water",
-"https://dir.texas.gov/shared-technology-services/data-center-services",
-"https://e360.yale.edu/digest/google-natural-gas-data-center",
-"https://eastdaley.com/the-burner-tip/chevron-plans-data-center-power-complex-in-permian-supporting-new-basin-demand",
-"https://eia.gov/todayinenergy/detail.php?id=66464",
-"https://emp.lbl.gov/news/grid-connection-barriers-new-build-power-plants-united-states",
-"https://ercot.com/files/docs/2022/02/17/1092NPRR-19%20Luminant%20Comments%20021722.docx",
-"https://ercot.com/files/docs/2026/03/19/2025-ERCOT-Annual-Report-Final-Single-Pages-March-19-2026.pdf",
-"https://ercot.com/gridinfo/resource/2025",
-"https://ethree.com/wp-content/uploads/2023/05/E3-PUCT_Assessment-of-Market-Reform-Options-to-Enhance-Reliability-of-the-ERCOT-System_11.10.22-Sent.pdf",
-"https://facebook.com/ICTBizJournal",
-"https://facebook.com/WillCampbellForTexas",
-"https://fastdemocracy.com/bill-search/tx/89/bills/TXB00077668",
-"https://flexgen.com/resources/blog/battery-storage-data-centers-shouldnt-sweat-texas-senate-bill-6-sb6",
-"https://globalenergymonitor.org/article/west-texas-oil-patch-companies-plan-gas-power-plants-run-new-data-centers",
-"https://gradientflow.substack.com/p/the-data-center-rebellion-is-here",
-"https://harcresearch.org/news/texas-data-center-boom-could-consume-up-to-161-billion-gallons-of-water-annually-by-2030",
-"https://jeibros.substack.com/p/the-myth-of-water-usage-in-datacenters",
-"https://law.cornell.edu/regulations/texas/34-Tex-Admin-Code-SS-3-295",
-"https://linkedin.com/pulse/hidden-water-crisis-why-data-centers-farms-competing-austin-arrington-bjsge",
-"https://mansfield.energy/2025/07/10/texas-senate-bill-6-data-centers-generator-fuel-plan-becomes-even-more-critical",
-"https://mcguirewoods.com/client-resources/alerts/2025/5/texas-bill-sets-goal-for-power-plants-to-increase-dispatchable-generation",
-"https://nonpublicpolicy.substack.com/p/in-defense-of-the-data-center",
-"https://nrc.gov/about-nrc/governing-laws/advance-act/about-advance-act",
-"https://ntia.gov/press-release/2024/biden-harris-administration-approves-texas-internet-all-initial-proposal",
-"https://powwr.com/blog/how-data-centers-are-driving-demand-growth-in-ercot",
-"https://pubs.usgs.gov/publication/pp1894D/full",
-"https://reddit.com/r/aiwars/comments/1tes0rr",
-"https://rmi.org/local-governments-can-achieve-texas-sized-impacts-from-distributed-energy-assets-and-virtual-power-plants",
-"https://rstreet.org/outreach/testimony-in-opposition-to-allowing-texas-utilities-to-own-generation",
-"https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas",
-"https://tceq.texas.gov/downloads/drinking-water/rg-445.pdf",
-"https://texasgop.org/resolution-on-the-establishment-of-additional-data-centers-in-texas",
-"https://texasnuclearalliance.org/2025/05/30/texas-nuclear-alliance-applauds-passage-of-house-bill-14",
-"https://texastribune.org/2024/12/19/texas-public-utility-commission-performance-credit-power-grid",
-"https://texastribune.org/2026/01/20/texas-top-data-center-market-power-grid",
-"https://texastribune.org/2026/02/02/texas-permian-basin-power-plant-project-data-centers",
-"https://texastribune.org/2026/05/07/texas-republicans-data-centers-rural",
-"https://texastribune.org/series/data-centers-in-texas",
-"https://townhall.com/columnists/yusuf-mahmood/2026/04/04/ai-water-use-thats-a-hoax-n2673759",
-"https://uagetinvolved.org/content/amazon-goes-nuclear-invest-more-500-million-develop-small-modular-reactors",
-"https://upwind.io/industry-research/data-center-powerhouses",
-"https://utilitydive.com/news/conduit-power-bridge-power-texas-data-center-engie/759759",
-"https://utilitydive.com/news/google-intersect-power-co-located-energy-parks-data-center-ferc/735198",
-"https://utilitydive.com/news/texas-puc-performance-credit-mechanism-pcm/736162",
-"https://weil.com/-/media/files/pdfs/2025/july/weil-energy-alert--senate-bill-6-reforms-interconnection-and-colocation-rules-for-data-centers-and-o.pdf",
-"https://willcampbellfortexas.com/",
-"https://willcampbellfortexas.com/about-will-campbell",
-"https://willcampbellfortexas.com/ai-accountability-act",
-"https://willcampbellfortexas.com/birth-tourism-criminalization-act",
-"https://willcampbellfortexas.com/bond-management-act",
-"https://willcampbellfortexas.com/cart",
-"https://willcampbellfortexas.com/data",
-"https://willcampbellfortexas.com/enforcing-parental-rights-and-child-protections",
-"https://willcampbellfortexas.com/family-first-guardianship-accountability",
-"https://willcampbellfortexas.com/female-first-responder-cancer-coverage",
-"https://willcampbellfortexas.com/hjr-for-electing-sos",
-"https://willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas",
-"https://willcampbellfortexas.com/proposed-laws",
-"https://willcampbellfortexas.com/protecting-first-responders",
-"https://willcampbellfortexas.com/protecting-heirs-rights",
-"https://willcampbellfortexas.com/protecting-texans-from-surveillance",
-"https://willcampbellfortexas.com/ptia",
-"https://willcampbellfortexas.com/releases",
-"https://willcampbellfortexas.com/releases/category/Data+Centers",
-"https://willcampbellfortexas.com/releases/category/Energy+and+Infrastructure",
-"https://willcampbellfortexas.com/releases/category/Texas+Energy+Grid",
-"https://willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters",
-"https://willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act",
-"https://willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research",
-"https://willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans",
-"https://willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it",
-"https://willcampbellfortexas.com/releases/protecting-truth-and-identity",
-"https://willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas",
-"https://willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs",
-"https://willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance",
-"https://willcampbellfortexas.com/releases/tag/Data+Centers",
-"https://willcampbellfortexas.com/releases/tag/Energy+Grid",
-"https://willcampbellfortexas.com/releases/tag/Texas+Energy+independence",
-"https://willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan",
-"https://willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses",
-"https://willcampbellfortexas.com/releases/the-end-hopefully-of-race-based-gerrymandering",
-"https://willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment",
-"https://willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act",
-"https://willcampbellfortexas.com/releases/the-tptrp-the-tier-structure-and-rate-coverage",
-"https://willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders",
-"https://willcampbellfortexas.com/releases/we-can-end-property-taxes",
-"https://willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act",
-"https://willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232",
-"https://willcampbellfortexas.com/remote-seller-and-foreign-entity-act",
-"https://willcampbellfortexas.com/solutions",
-"https://willcampbellfortexas.com/texas-data-center-transparency-and-standards-act",
-"https://willcampbellfortexas.com/texas-distributed-power-generation-act",
-"https://willcampbellfortexas.com/texas-election-integrity-and-party-association-act",
-"https://willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act",
-"https://willcampbellfortexas.com/the-fund-system-act",
-"https://willcampbellfortexas.com/the-tles-act",
-"https://willcampbellfortexas.com/tptrp-amendment",
-"https://willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act",
-"https://willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act",
-"https://willcampbellfortexas.com/tptrp-transition-board-act",
-"https://willcampbellfortexas.com/volunteer",
-"https://willcampbellfortexas.com/water-for-sand-branch-act",
-"https://x.com/WillForTexas",
-"https://youtube.com/@WillCampbellforTexas",
-"https://youtube.com/watch?v=TWrbe0DrU24",
-"https://youtube.com/watch?v=uAznOSSwKnY"
+{
+"text": "0",
+"href": "https://www.willcampbellfortexas.com/cart"
+},
+{
+"text": "AI Accountability Act",
+"href": "https://www.willcampbellfortexas.com/ai-accountability-act"
+},
+{
+"text": "About Will",
+"href": "https://www.willcampbellfortexas.com/about-will-campbell"
+},
+{
+"text": "Back",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "Birth Tourism Criminalization Act",
+"href": "https://www.willcampbellfortexas.com/birth-tourism-criminalization-act"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/will-campbell-for-texas/willcampbellfortexas"
+},
+{
+"text": "Data",
+"href": "https://www.willcampbellfortexas.com/data"
+},
+{
+"text": "Data Centers",
+"href": "https://www.willcampbellfortexas.com/releases/category/Data+Centers"
+},
+{
+"text": "Data Centers",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Data+Centers"
+},
+{
+"text": "E3 PUCT Assessment (PDF)",
+"href": "https://www.ethree.com/wp-content/uploads/2023/05/E3-PUCT_Assessment-of-Market-Reform-Options-to-Enhance-Reliability-of-the-ERCOT-System_11.10.22-Sent.pdf"
+},
+{
+"text": "End Property Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/we-can-end-property-taxes"
+},
+{
+"text": "Ending Birth Tourism",
+"href": "https://www.willcampbellfortexas.com/releases/ending-birth-tourism-in-texas-what-the-law-says-what-were-doing-about-it-and-why-it-matters"
+},
+{
+"text": "Ending Corruption in Guardianship Cases",
+"href": "https://www.willcampbellfortexas.com/releases/when-protection-becomes-control-the-reason-for-the-texas-family-first-guardianship-act"
+},
+{
+"text": "Energy Grid",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Energy+Grid"
+},
+{
+"text": "Energy and Infrastructure",
+"href": "https://www.willcampbellfortexas.com/releases/category/Energy+and+Infrastructure"
+},
+{
+"text": "Enforcing Parental Rights and Child Protections",
+"href": "https://www.willcampbellfortexas.com/enforcing-parental-rights-and-child-protections"
+},
+{
+"text": "Enforcing Parental Rights and Local Accountability",
+"href": "https://www.willcampbellfortexas.com/releases/enforcing-your-rights-the-local-accountability-and-compliance-act"
+},
+{
+"text": "Family First Guardianship Accountability",
+"href": "https://www.willcampbellfortexas.com/family-first-guardianship-accountability"
+},
+{
+"text": "Female First Responder Cancer Coverage",
+"href": "https://www.willcampbellfortexas.com/female-first-responder-cancer-coverage"
+},
+{
+"text": "Female First Responder Cancer Protections",
+"href": "https://www.willcampbellfortexas.com/releases/equal-cancer-protections-for-female-first-responders-and-long-term-research"
+},
+{
+"text": "Folder: Proposed Laws",
+"href": "https://www.willcampbellfortexas.com/proposed-laws"
+},
+{
+"text": "Folder: Solutions",
+"href": "https://www.willcampbellfortexas.com/solutions"
+},
+{
+"text": "HJR For Electing SOS",
+"href": "https://www.willcampbellfortexas.com/hjr-for-electing-sos"
+},
+{
+"text": "Holding AI Companies Accountable",
+"href": "https://www.willcampbellfortexas.com/releases/holding-ai-companies-accountable-and-protecting-texans"
+},
+{
+"text": "Next Next The End, Hopefully, of Race Based Gerrymandering",
+"href": "https://www.willcampbellfortexas.com/releases/the-end-hopefully-of-race-based-gerrymandering"
+},
+{
+"text": "Previous Previous The TPTRP - The Tier Structure and Rate Coverage",
+"href": "https://www.willcampbellfortexas.com/releases/the-tptrp-the-tier-structure-and-rate-coverage"
+},
+{
+"text": "Prohibiting The Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/prohibiting-the-kill-switch-in-texas"
+},
+{
+"text": "Prohibiting the Kill Switch in Texas",
+"href": "https://www.willcampbellfortexas.com/releases/prohibiting-the-vehicle-kill-switch-amp-your-vehicle-data-to-foreign-entities-how-texas-will-stop-it"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/protecting-first-responders"
+},
+{
+"text": "Protecting First Responders",
+"href": "https://www.willcampbellfortexas.com/releases/truth-transparency-and-safety-for-texans-and-first-responders"
+},
+{
+"text": "Protecting Heirs Rights",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-whats-yours-improving-heir-and-property-rights-laws-in-texas"
+},
+{
+"text": "Protecting Heirs' Rights",
+"href": "https://www.willcampbellfortexas.com/protecting-heirs-rights"
+},
+{
+"text": "Protecting Texans From Surveillance",
+"href": "https://www.willcampbellfortexas.com/protecting-texans-from-surveillance"
+},
+{
+"text": "Protecting Truth and Identity",
+"href": "https://www.willcampbellfortexas.com/releases/protecting-truth-and-identity"
+},
+{
+"text": "Releases",
+"href": "https://www.willcampbellfortexas.com/releases"
+},
+{
+"text": "Relief for Sand Branch and Seagoville",
+"href": "https://www.willcampbellfortexas.com/releases/relief-for-sand-branch-tx-a-bill-to-build-their-water-and-wastewater-needs"
+},
+{
+"text": "Restricting ALPR Cameras",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-public-surveillance-technology-privacy-security-and-accountability-act"
+},
+{
+"text": "Securing Texas Elections and Closed Primaries",
+"href": "https://www.willcampbellfortexas.com/releases/securing-texas-elections-and-restoring-party-self-governance"
+},
+{
+"text": "Solving For Energy, Water, and Data Centers.",
+"href": "https://www.willcampbellfortexas.com/releases/texas-energy-and-data-center-policy-plan"
+},
+{
+"text": "Squarespace",
+"href": "http://squarespace.com"
+},
+{
+"text": "TPTRP Bond Management Act",
+"href": "https://www.willcampbellfortexas.com/bond-management-act"
+},
+{
+"text": "TPTRP Constitutional Amendment",
+"href": "https://www.willcampbellfortexas.com/tptrp-amendment"
+},
+{
+"text": "TPTRP Constitutional Amendment Breakdown",
+"href": "https://www.willcampbellfortexas.com/releases/the-texas-property-tax-replacement-plan-constitutional-amendment"
+},
+{
+"text": "TPTRP Freeing Business - Reducing Taxes",
+"href": "https://www.willcampbellfortexas.com/releases/texas-property-tax-replacement-what-it-means-for-texas-businesses"
+},
+{
+"text": "TPTRP Remote Seller and Foreign Entity Act",
+"href": "https://www.willcampbellfortexas.com/remote-seller-and-foreign-entity-act"
+},
+{
+"text": "TPTRP Tax Abolition and Conformity Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-tax-abolition-and-conformity-act"
+},
+{
+"text": "TPTRP The Fund System Act",
+"href": "https://www.willcampbellfortexas.com/the-fund-system-act"
+},
+{
+"text": "TPTRP The Sales and Use Tax Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-the-sales-and-use-tax-act"
+},
+{
+"text": "TPTRP The TLES Act",
+"href": "https://www.willcampbellfortexas.com/the-tles-act"
+},
+{
+"text": "TPTRP Transition Board Act",
+"href": "https://www.willcampbellfortexas.com/tptrp-transition-board-act"
+},
+{
+"text": "Texas Data Center Transparency and Standards Act",
+"href": "https://www.willcampbellfortexas.com/texas-data-center-transparency-and-standards-act"
+},
+{
+"text": "Texas Distributed Power Generation Act",
+"href": "https://www.willcampbellfortexas.com/texas-distributed-power-generation-act"
+},
+{
+"text": "Texas Election Integrity and Party Association Act",
+"href": "https://www.willcampbellfortexas.com/texas-election-integrity-and-party-association-act"
+},
+{
+"text": "Texas Energy Grid",
+"href": "https://www.willcampbellfortexas.com/releases/category/Texas+Energy+Grid"
+},
+{
+"text": "Texas Energy and Intelligence Infrastructure Security Board Act",
+"href": "https://www.willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act"
+},
+{
+"text": "Texas Energy independence",
+"href": "https://www.willcampbellfortexas.com/releases/tag/Texas+Energy+independence"
+},
+{
+"text": "The Protecting Truth and Identity Act",
+"href": "https://www.willcampbellfortexas.com/ptia"
+},
+{
+"text": "Volunteer",
+"href": "https://www.willcampbellfortexas.com/volunteer"
+},
+{
+"text": "Water for Sand Branch Act",
+"href": "https://www.willcampbellfortexas.com/water-for-sand-branch-act"
+},
+{
+"text": "Wilson Campbell",
+"href": "https://www.willcampbellfortexas.com/releases?author=6940b32453b62b3eb0434232"
+},
+{
+"text": "[image: Will Campbell For Texas]",
+"href": "https://www.willcampbellfortexas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/WillCampbellForTexas"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@WillCampbellforTexas"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/WillForTexas"
+},
+{
+"text": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+"href": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake"
+},
+{
+"text": "https://clearpathaction.org/advance-act-of-2024-s-870/",
+"href": "https://clearpathaction.org/advance-act-of-2024-s-870/"
+},
+{
+"text": "https://compass.beg.utexas.edu/assets/publications/Water_Requirements_for_DC_White_Paper.pdf",
+"href": "https://compass.beg.utexas.edu/assets/publications/Water_Requirements_for_DC_White_Paper.pdf"
+},
+{
+"text": "https://comptroller.texas.gov/taxes/data-centers/",
+"href": "https://comptroller.texas.gov/taxes/data-centers/"
+},
+{
+"text": "https://comptroller.texas.gov/taxes/sales/",
+"href": "https://comptroller.texas.gov/taxes/sales/"
+},
+{
+"text": "https://dir.texas.gov/shared-technology-services/data-center-services",
+"href": "https://dir.texas.gov/shared-technology-services/data-center-services"
+},
+{
+"text": "https://e360.yale.edu/digest/google-natural-gas-data-center",
+"href": "https://e360.yale.edu/digest/google-natural-gas-data-center"
+},
+{
+"text": "https://eastdaley.com/the-burner-tip/chevron-plans-data-center-power-complex-in-permian-supporting-new-basin-demand",
+"href": "https://eastdaley.com/the-burner-tip/chevron-plans-data-center-power-complex-in-permian-supporting-new-basin-demand"
+},
+{
+"text": "https://emp.lbl.gov/news/grid-connection-barriers-new-build-power-plants-united-states",
+"href": "https://emp.lbl.gov/news/grid-connection-barriers-new-build-power-plants-united-states"
+},
+{
+"text": "https://fastdemocracy.com/bill-search/tx/89/bills/TXB00077668/",
+"href": "https://fastdemocracy.com/bill-search/tx/89/bills/TXB00077668/"
+},
+{
+"text": "https://globalenergymonitor.org/article/west-texas-oil-patch-companies-plan-gas-power-plants-run-new-data-centers",
+"href": "https://globalenergymonitor.org/article/west-texas-oil-patch-companies-plan-gas-power-plants-run-new-data-centers"
+},
+{
+"text": "https://gradientflow.substack.com/p/the-data-center-rebellion-is-here",
+"href": "https://gradientflow.substack.com/p/the-data-center-rebellion-is-here"
+},
+{
+"text": "https://harcresearch.org/news/texas-data-center-boom-could-consume-up-to-161-billion-gallons-of-water-annually-by-2030/",
+"href": "https://harcresearch.org/news/texas-data-center-boom-could-consume-up-to-161-billion-gallons-of-water-annually-by-2030/"
+},
+{
+"text": "https://jeibros.substack.com/p/the-myth-of-water-usage-in-datacenters",
+"href": "https://jeibros.substack.com/p/the-myth-of-water-usage-in-datacenters"
+},
+{
+"text": "https://mansfield.energy/2025/07/10/texas-senate-bill-6-data-centers-generator-fuel-plan-becomes-even-more-critical/",
+"href": "https://mansfield.energy/2025/07/10/texas-senate-bill-6-data-centers-generator-fuel-plan-becomes-even-more-critical/"
+},
+{
+"text": "https://nonpublicpolicy.substack.com/p/in-defense-of-the-data-center",
+"href": "https://nonpublicpolicy.substack.com/p/in-defense-of-the-data-center"
+},
+{
+"text": "https://pubs.usgs.gov/publication/pp1894D/full",
+"href": "https://pubs.usgs.gov/publication/pp1894D/full"
+},
+{
+"text": "https://rmi.org/local-governments-can-achieve-texas-sized-impacts-from-distributed-energy-assets-and-virtual-power-plants/",
+"href": "https://rmi.org/local-governments-can-achieve-texas-sized-impacts-from-distributed-energy-assets-and-virtual-power-plants/"
+},
+{
+"text": "https://texasgop.org/resolution-on-the-establishment-of-additional-data-centers-in-texas/",
+"href": "https://texasgop.org/resolution-on-the-establishment-of-additional-data-centers-in-texas/"
+},
+{
+"text": "https://texasnuclearalliance.org/2025/05/30/texas-nuclear-alliance-applauds-passage-of-house-bill-14/",
+"href": "https://texasnuclearalliance.org/2025/05/30/texas-nuclear-alliance-applauds-passage-of-house-bill-14/"
+},
+{
+"text": "https://townhall.com/columnists/yusuf-mahmood/2026/04/04/ai-water-use-thats-a-hoax-n2673759",
+"href": "https://townhall.com/columnists/yusuf-mahmood/2026/04/04/ai-water-use-thats-a-hoax-n2673759"
+},
+{
+"text": "https://www.americafirstpolicy.com/issues/the-data-center-water-use-hoax",
+"href": "https://www.americafirstpolicy.com/issues/the-data-center-water-use-hoax"
+},
+{
+"text": "https://www.ascendanalytics.com/blog/what-rising-capacity-value-declining-energy-value-means-market-design",
+"href": "https://www.ascendanalytics.com/blog/what-rising-capacity-value-declining-energy-value-means-market-design"
+},
+{
+"text": "https://www.bakerinstitute.org/research/how-investments-can-boost-ercot-reliability-and-cut-emissions",
+"href": "https://www.bakerinstitute.org/research/how-investments-can-boost-ercot-reliability-and-cut-emissions"
+},
+{
+"text": "https://www.bracewell.com/resources/texas-senate-bill-6-ushers-in-major-overhaul-of-large-load-interconnection-and-grid-access-rules/",
+"href": "https://www.bracewell.com/resources/texas-senate-bill-6-ushers-in-major-overhaul-of-large-load-interconnection-and-grid-access-rules/"
+},
+{
+"text": "https://www.construction-physics.com/p/i-was-wrong-about-data-center-water",
+"href": "https://www.construction-physics.com/p/i-was-wrong-about-data-center-water"
+},
+{
+"text": "https://www.eia.gov/todayinenergy/detail.php?id=66464",
+"href": "https://www.eia.gov/todayinenergy/detail.php?id=66464"
+},
+{
+"text": "https://www.ercot.com/files/docs/2022/02/17/1092NPRR-19%20Luminant%20Comments%20021722.docx",
+"href": "https://www.ercot.com/files/docs/2022/02/17/1092NPRR-19%20Luminant%20Comments%20021722.docx"
+},
+{
+"text": "https://www.ercot.com/files/docs/2026/03/19/2025-ERCOT-Annual-Report-Final-Single-Pages-March-19-2026.pdf",
+"href": "https://www.ercot.com/files/docs/2026/03/19/2025-ERCOT-Annual-Report-Final-Single-Pages-March-19-2026.pdf"
+},
+{
+"text": "https://www.ercot.com/gridinfo/resource/2025",
+"href": "https://www.ercot.com/gridinfo/resource/2025"
+},
+{
+"text": "https://www.facebook.com/ICTBizJournal",
+"href": "https://www.facebook.com/ICTBizJournal"
+},
+{
+"text": "https://www.flexgen.com/resources/blog/battery-storage-data-centers-shouldnt-sweat-texas-senate-bill-6-sb6",
+"href": "https://www.flexgen.com/resources/blog/battery-storage-data-centers-shouldnt-sweat-texas-senate-bill-6-sb6"
+},
+{
+"text": "https://www.law.cornell.edu/regulations/texas/34-Tex-Admin-Code-SS-3-295",
+"href": "https://www.law.cornell.edu/regulations/texas/34-Tex-Admin-Code-SS-3-295"
+},
+{
+"text": "https://www.linkedin.com/pulse/hidden-water-crisis-why-data-centers-farms-competing-austin-arrington-bjsge",
+"href": "https://www.linkedin.com/pulse/hidden-water-crisis-why-data-centers-farms-competing-austin-arrington-bjsge"
+},
+{
+"text": "https://www.mcguirewoods.com/client-resources/alerts/2025/5/texas-bill-sets-goal-for-power-plants-to-increase-dispatchable-generation/",
+"href": "https://www.mcguirewoods.com/client-resources/alerts/2025/5/texas-bill-sets-goal-for-power-plants-to-increase-dispatchable-generation/"
+},
+{
+"text": "https://www.nrc.gov/about-nrc/governing-laws/advance-act/about-advance-act",
+"href": "https://www.nrc.gov/about-nrc/governing-laws/advance-act/about-advance-act"
+},
+{
+"text": "https://www.ntia.gov/press-release/2024/biden-harris-administration-approves-texas-internet-all-initial-proposal",
+"href": "https://www.ntia.gov/press-release/2024/biden-harris-administration-approves-texas-internet-all-initial-proposal"
+},
+{
+"text": "https://www.powwr.com/blog/how-data-centers-are-driving-demand-growth-in-ercot",
+"href": "https://www.powwr.com/blog/how-data-centers-are-driving-demand-growth-in-ercot"
+},
+{
+"text": "https://www.reddit.com/r/aiwars/comments/1tes0rr/",
+"href": "https://www.reddit.com/r/aiwars/comments/1tes0rr/"
+},
+{
+"text": "https://www.rstreet.org/outreach/testimony-in-opposition-to-allowing-texas-utilities-to-own-generation/",
+"href": "https://www.rstreet.org/outreach/testimony-in-opposition-to-allowing-texas-utilities-to-own-generation/"
+},
+{
+"text": "https://www.tceq.texas.gov/downloads/drinking-water/rg-445.pdf",
+"href": "https://www.tceq.texas.gov/downloads/drinking-water/rg-445.pdf"
+},
+{
+"text": "https://www.texastribune.org/2024/12/19/texas-public-utility-commission-performance-credit-power-grid/",
+"href": "https://www.texastribune.org/2024/12/19/texas-public-utility-commission-performance-credit-power-grid/"
+},
+{
+"text": "https://www.texastribune.org/2026/01/20/texas-top-data-center-market-power-grid/",
+"href": "https://www.texastribune.org/2026/01/20/texas-top-data-center-market-power-grid/"
+},
+{
+"text": "https://www.texastribune.org/2026/02/02/texas-permian-basin-power-plant-project-data-centers/",
+"href": "https://www.texastribune.org/2026/02/02/texas-permian-basin-power-plant-project-data-centers/"
+},
+{
+"text": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/",
+"href": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+},
+{
+"text": "https://www.texastribune.org/series/data-centers-in-texas/",
+"href": "https://www.texastribune.org/series/data-centers-in-texas/"
+},
+{
+"text": "https://www.uagetinvolved.org/content/amazon-goes-nuclear-invest-more-500-million-develop-small-modular-reactors",
+"href": "https://www.uagetinvolved.org/content/amazon-goes-nuclear-invest-more-500-million-develop-small-modular-reactors"
+},
+{
+"text": "https://www.upwind.io/industry-research/data-center-powerhouses",
+"href": "https://www.upwind.io/industry-research/data-center-powerhouses"
+},
+{
+"text": "https://www.utilitydive.com/news/conduit-power-bridge-power-texas-data-center-engie/759759/",
+"href": "https://www.utilitydive.com/news/conduit-power-bridge-power-texas-data-center-engie/759759/"
+},
+{
+"text": "https://www.utilitydive.com/news/google-intersect-power-co-located-energy-parks-data-center-ferc/735198/",
+"href": "https://www.utilitydive.com/news/google-intersect-power-co-located-energy-parks-data-center-ferc/735198/"
+},
+{
+"text": "https://www.utilitydive.com/news/texas-puc-performance-credit-mechanism-pcm/736162/",
+"href": "https://www.utilitydive.com/news/texas-puc-performance-credit-mechanism-pcm/736162/"
+},
+{
+"text": "https://www.weil.com/-/media/files/pdfs/2025/july/weil-energy-alert--senate-bill-6-reforms-interconnection-and-colocation-rules-for-data-centers-and-o.pdf",
+"href": "https://www.weil.com/-/media/files/pdfs/2025/july/weil-energy-alert--senate-bill-6-reforms-interconnection-and-colocation-rules-for-data-centers-and-o.pdf"
+},
+{
+"text": "https://www.youtube.com/watch?v=TWrbe0DrU24",
+"href": "https://www.youtube.com/watch?v=TWrbe0DrU24"
+},
+{
+"text": "https://www.youtube.com/watch?v=uAznOSSwKnY",
+"href": "https://www.youtube.com/watch?v=uAznOSSwKnY"
+},
+{
+"text": "→ Read Full Bill",
+"href": "https://www.willcampbellfortexas.com/texas-data-center-transparency-and-standards-act"
+},
+{
+"text": "→ Read Full Bill",
+"href": "https://www.willcampbellfortexas.com/texas-distributed-power-generation-act"
+},
+{
+"text": "→ Read Full Bill",
+"href": "https://www.willcampbellfortexas.com/texas-energy-and-intelligence-infrastructure-security-board-act"
+}
 ]

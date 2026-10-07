@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61558795102098",
-"https://instagram.com/jenniferforga100",
-"https://jenniferforga.com/",
-"https://jenniferforga.com/about-4",
-"https://jenniferforga.com/contact-8",
-"https://jenniferforga.com/general-1",
-"https://jenniferforga.com/s-projects-basic",
-"https://secure.actblue.com/donate/jennifer-for-georgia-inc-1"
+{
+"text": "Contact",
+"href": "https://www.jenniferforga.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/jennifer-for-georgia-inc-1"
+},
+{
+"text": "Home",
+"href": "https://www.jenniferforga.com"
+},
+{
+"text": "Merch!",
+"href": "https://www.jenniferforga.com/s-projects-basic"
+},
+{
+"text": "Platform",
+"href": "https://www.jenniferforga.com/general-1"
+},
+{
+"text": "Please consider giving a donation.",
+"href": "https://secure.actblue.com/donate/jennifer-for-georgia-inc-1"
+},
+{
+"text": "Why Jennifer",
+"href": "https://www.jenniferforga.com/about-4"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61558795102098"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jenniferforga100"
+}
 ]

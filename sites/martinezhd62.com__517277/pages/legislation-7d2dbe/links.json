@@ -1,76 +1,298 @@
 [
-"http://https://leg.colorado.gov/bills/hb25-1081",
-"http://https://leg.colorado.gov/bills/hb25-1167",
-"http://https://leg.colorado.gov/bills/hb25-1186",
-"http://https://leg.colorado.gov/bills/hb25-1195",
-"http://https://leg.colorado.gov/bills/hb25-1288",
-"http://https://leg.colorado.gov/bills/sb25-039",
-"http://https://leg.colorado.gov/bills/sb25-040",
-"http://https://leg.colorado.gov/bills/sb25-049",
-"http://https://leg.colorado.gov/bills/sb25-054",
-"http://https://leg.colorado.gov/bills/sb25-067",
-"http://https://leg.colorado.gov/bills/sb25-071",
-"http://https://leg.colorado.gov/bills/sb25-073",
-"http://https://leg.colorado.gov/bills/sb25-176",
-"http://https://leg.colorado.gov/bills/sb25-187",
-"https://campaignpartner.com/",
-"https://facebook.com/martinezinfo",
-"https://instagram.com/martinezforsoco?igshid=ZDdkNTZiNTM%3D",
-"https://leg.colorado.gov/bills/HB26-1006",
-"https://leg.colorado.gov/bills/HB26-1025",
-"https://leg.colorado.gov/bills/HB26-1031",
-"https://leg.colorado.gov/bills/HB26-1090",
-"https://leg.colorado.gov/bills/HB26-1120",
-"https://leg.colorado.gov/bills/HB26-1136",
-"https://leg.colorado.gov/bills/HB26-1193",
-"https://leg.colorado.gov/bills/HB26-1200",
-"https://leg.colorado.gov/bills/HB26-1230",
-"https://leg.colorado.gov/bills/SB26-088",
-"https://leg.colorado.gov/bills/SB26-105",
-"https://leg.colorado.gov/bills/SB26-121",
-"https://leg.colorado.gov/bills/SB26-133",
-"https://leg.colorado.gov/bills/SB26-153",
-"https://leg.colorado.gov/bills/SB26-157",
-"https://leg.colorado.gov/bills/SB26-159",
-"https://leg.colorado.gov/bills/SB26-160",
-"https://leg.colorado.gov/bills/SB26-170",
-"https://leg.colorado.gov/bills/hb23-1037",
-"https://leg.colorado.gov/bills/hb23-1088",
-"https://leg.colorado.gov/bills/hb23-1093",
-"https://leg.colorado.gov/bills/hb23-1139",
-"https://leg.colorado.gov/bills/hb23-1261",
-"https://leg.colorado.gov/bills/hb24-1002",
-"https://leg.colorado.gov/bills/hb24-1048",
-"https://leg.colorado.gov/bills/hb24-1093",
-"https://leg.colorado.gov/bills/hb24-1111",
-"https://leg.colorado.gov/bills/hb24-1249",
-"https://leg.colorado.gov/bills/hb24-1278",
-"https://leg.colorado.gov/bills/hb24-1282",
-"https://leg.colorado.gov/bills/hb24-1314",
-"https://leg.colorado.gov/bills/hb24-1369",
-"https://leg.colorado.gov/bills/hb24-1461",
-"https://leg.colorado.gov/bills/hb25-1023http:",
-"https://leg.colorado.gov/bills/sb23-052",
-"https://leg.colorado.gov/bills/sb23-088",
-"https://leg.colorado.gov/bills/sb23-157",
-"https://leg.colorado.gov/bills/sb23-205",
-"https://leg.colorado.gov/bills/sb23-291",
-"https://leg.colorado.gov/bills/sb24-030",
-"https://leg.colorado.gov/bills/sb24-137",
-"https://leg.colorado.gov/bills/sb24-138",
-"https://leg.colorado.gov/bills/sb24-168",
-"https://leg.colorado.gov/bills/sb24-183",
-"https://martinezhd62.com/",
-"https://martinezhd62.com/contact",
-"https://martinezhd62.com/contribute",
-"https://martinezhd62.com/events",
-"https://martinezhd62.com/home",
-"https://martinezhd62.com/issues",
-"https://martinezhd62.com/legislation",
-"https://martinezhd62.com/meet_matthew",
-"https://martinezhd62.com/news",
-"https://martinezhd62.com/photos",
-"https://martinezhd62.com/view-endorsements",
-"https://martinezhd62.com/volunteer",
-"https://twitter.com/MartinezforSoCo?t=LXDtFq3yjh0UrphjkbR-7g&s=09"
+{
+"text": "Contact",
+"href": "https://www.martinezhd62.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.martinezhd62.com/contribute"
+},
+{
+"text": "Endorsements",
+"href": "https://www.martinezhd62.com/view-endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.martinezhd62.com/events"
+},
+{
+"text": "HB23-1037",
+"href": "https://leg.colorado.gov/bills/hb23-1037"
+},
+{
+"text": "HB23-1088",
+"href": "https://leg.colorado.gov/bills/hb23-1088"
+},
+{
+"text": "HB23-1093",
+"href": "https://leg.colorado.gov/bills/hb23-1093"
+},
+{
+"text": "HB23-1139",
+"href": "https://leg.colorado.gov/bills/hb23-1139"
+},
+{
+"text": "HB23-1261",
+"href": "https://leg.colorado.gov/bills/hb23-1261"
+},
+{
+"text": "HB24-1002",
+"href": "https://leg.colorado.gov/bills/hb24-1002"
+},
+{
+"text": "HB24-1048",
+"href": "https://leg.colorado.gov/bills/hb24-1048"
+},
+{
+"text": "HB24-1093",
+"href": "https://leg.colorado.gov/bills/hb24-1093"
+},
+{
+"text": "HB24-1111",
+"href": "https://leg.colorado.gov/bills/hb24-1111"
+},
+{
+"text": "HB24-1249",
+"href": "https://leg.colorado.gov/bills/hb24-1249"
+},
+{
+"text": "HB24-1278",
+"href": "https://leg.colorado.gov/bills/hb24-1278"
+},
+{
+"text": "HB24-1282",
+"href": "https://leg.colorado.gov/bills/hb24-1282"
+},
+{
+"text": "HB24-1314",
+"href": "https://leg.colorado.gov/bills/hb24-1314"
+},
+{
+"text": "HB24-1369",
+"href": "https://leg.colorado.gov/bills/hb24-1369"
+},
+{
+"text": "HB24-1461",
+"href": "https://leg.colorado.gov/bills/hb24-1461"
+},
+{
+"text": "HB25-1023",
+"href": "https://leg.colorado.gov/bills/hb25-1023http://"
+},
+{
+"text": "HB25-1081",
+"href": "http://https://leg.colorado.gov/bills/hb25-1081"
+},
+{
+"text": "HB25-1167",
+"href": "http://https://leg.colorado.gov/bills/hb25-1167"
+},
+{
+"text": "HB25-1186",
+"href": "http://https://leg.colorado.gov/bills/hb25-1186"
+},
+{
+"text": "HB25-1195",
+"href": "http://https://leg.colorado.gov/bills/hb25-1195"
+},
+{
+"text": "HB25-1288",
+"href": "http://https://leg.colorado.gov/bills/hb25-1288"
+},
+{
+"text": "HB26-1006",
+"href": "https://leg.colorado.gov/bills/HB26-1006"
+},
+{
+"text": "HB26-1025",
+"href": "https://leg.colorado.gov/bills/HB26-1025"
+},
+{
+"text": "HB26-1031",
+"href": "https://leg.colorado.gov/bills/HB26-1031"
+},
+{
+"text": "HB26-1090",
+"href": "https://leg.colorado.gov/bills/HB26-1090"
+},
+{
+"text": "HB26-1120",
+"href": "https://leg.colorado.gov/bills/HB26-1120"
+},
+{
+"text": "HB26-1136",
+"href": "https://leg.colorado.gov/bills/HB26-1136"
+},
+{
+"text": "HB26-1193",
+"href": "https://leg.colorado.gov/bills/HB26-1193"
+},
+{
+"text": "HB26-1200",
+"href": "https://leg.colorado.gov/bills/HB26-1200"
+},
+{
+"text": "HB26-1230",
+"href": "https://leg.colorado.gov/bills/HB26-1230"
+},
+{
+"text": "Home",
+"href": "https://www.martinezhd62.com/home"
+},
+{
+"text": "Issues",
+"href": "https://www.martinezhd62.com/issues"
+},
+{
+"text": "Legislation",
+"href": "https://www.martinezhd62.com/legislation"
+},
+{
+"text": "Meet Matthew",
+"href": "https://www.martinezhd62.com/meet_matthew"
+},
+{
+"text": "News",
+"href": "https://www.martinezhd62.com/news"
+},
+{
+"text": "Photos",
+"href": "https://www.martinezhd62.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "SB23-052",
+"href": "https://leg.colorado.gov/bills/sb23-052"
+},
+{
+"text": "SB23-088",
+"href": "https://leg.colorado.gov/bills/sb23-088"
+},
+{
+"text": "SB23-157",
+"href": "https://leg.colorado.gov/bills/sb23-157"
+},
+{
+"text": "SB23-205",
+"href": "https://leg.colorado.gov/bills/sb23-205"
+},
+{
+"text": "SB23-291",
+"href": "https://leg.colorado.gov/bills/sb23-291"
+},
+{
+"text": "SB24-030",
+"href": "https://leg.colorado.gov/bills/sb24-030"
+},
+{
+"text": "SB24-137",
+"href": "https://leg.colorado.gov/bills/sb24-137"
+},
+{
+"text": "SB24-138",
+"href": "https://leg.colorado.gov/bills/sb24-138"
+},
+{
+"text": "SB24-168",
+"href": "https://leg.colorado.gov/bills/sb24-168"
+},
+{
+"text": "SB24-183",
+"href": "https://leg.colorado.gov/bills/sb24-183"
+},
+{
+"text": "SB25-039",
+"href": "http://https://leg.colorado.gov/bills/sb25-039"
+},
+{
+"text": "SB25-040",
+"href": "http://https://leg.colorado.gov/bills/sb25-040"
+},
+{
+"text": "SB25-049",
+"href": "http://https://leg.colorado.gov/bills/sb25-049"
+},
+{
+"text": "SB25-054",
+"href": "http://https://leg.colorado.gov/bills/sb25-054"
+},
+{
+"text": "SB25-067",
+"href": "http://https://leg.colorado.gov/bills/sb25-067"
+},
+{
+"text": "SB25-071",
+"href": "http://https://leg.colorado.gov/bills/sb25-071"
+},
+{
+"text": "SB25-073",
+"href": "http://https://leg.colorado.gov/bills/sb25-073"
+},
+{
+"text": "SB25-176",
+"href": "http://https://leg.colorado.gov/bills/sb25-176"
+},
+{
+"text": "SB25-187",
+"href": "http://https://leg.colorado.gov/bills/sb25-187"
+},
+{
+"text": "SB26-088",
+"href": "https://leg.colorado.gov/bills/SB26-088"
+},
+{
+"text": "SB26-105",
+"href": "https://leg.colorado.gov/bills/SB26-105"
+},
+{
+"text": "SB26-121",
+"href": "https://leg.colorado.gov/bills/SB26-121"
+},
+{
+"text": "SB26-133",
+"href": "https://leg.colorado.gov/bills/SB26-133"
+},
+{
+"text": "SB26-153",
+"href": "https://leg.colorado.gov/bills/SB26-153"
+},
+{
+"text": "SB26-157",
+"href": "https://leg.colorado.gov/bills/SB26-157"
+},
+{
+"text": "SB26-159",
+"href": "https://leg.colorado.gov/bills/SB26-159"
+},
+{
+"text": "SB26-160",
+"href": "https://leg.colorado.gov/bills/SB26-160"
+},
+{
+"text": "SB26-170",
+"href": "https://leg.colorado.gov/bills/SB26-170"
+},
+{
+"text": "Volunteer",
+"href": "https://www.martinezhd62.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://www.martinezhd62.com/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/martinezforsoco?igshid=ZDdkNTZiNTM%3D"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/MartinezforSoCo?t=LXDtFq3yjh0UrphjkbR-7g&s=09"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/martinezinfo"
+}
 ]

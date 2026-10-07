@@ -1,4 +1,4 @@
-Ray Sorensen was born in Creston, Iowa and raised in Fontanelle, Iowa.
+Home - Vote Bubba About - Bubba Sorensen Donate Iowa HD 23 Newsletters Legis Coffees Ribeyes and Republicans Contact Bubba Merch Biography Ray Sorensen was born in Creston, Iowa and raised in Fontanelle, Iowa.
 Ray was given the nickname "Bubba" by his dad, as he was a chubby baby, and the name stuck.
 Bubba grew up playing sports, showing cattle and drawing.
 His love for artwork carried into a career as a Graphic Designer and a mural artist.
@@ -16,13 +16,12 @@ Bubba won the General Election in 2018 and again in 2020, and after census re-di
 In the election in 2024 Bubba was elected to his fourth term.
 IAHD23 includes all of Adair and Madison Counties, as well as, portions of Dallas, Clarke and Union counties.
 So if you live in these areas, Representative Sorensen looks forward to being your voice at our Capitol!
-The Budget!
+Representative Ray Sorensen's - Standing Committees Appropriations Economic Growth & Technology (Chairman) Economic Growth & Technology (Chairman) The Budget!
 Using sound conservative principals, while still funding our priorities and not funding ongoing expenses with one-time monies.
-I Chair this combined committee that folded Information Technology into Economic Growth.
+Economic Growth & Technology (Chairman) Economic Growth & Technology (Chairman) Economic Growth & Technology (Chairman) I Chair this combined committee that folded Information Technology into Economic Growth.
 We will tackle Workforce, Childcare, Economic Development issues, as well as, Cybersecurity, Broadband expansion and all thing Tech for our State.
-This newly created committee looks to work with the Federal Government on having a bit more say in how the Fed Funds are spent in our State.
-Overseeing matters related to Veterans in our State.
+Federal and Other Funds Federal and Other Funds Federal and Other Funds This newly created committee looks to work with the Federal Government on having a bit more say in how the Fed Funds are spent in our State.
+Veterans Affairs Federal and Other Funds Federal and Other Funds Overseeing matters related to Veterans in our State.
 Although most Veterans issues are tackled by the Feds, we work on issues like the Iowa Veterans Home and the Iowa Veterans Trust Fund.
-Copyright © 2026 Sorensen For Iowa - All Rights Reserved.
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Instagram Copyright © # Sorensen For Iowa - All Rights Reserved.
+Home - Vote Bubba Terms and Conditions Bubba Merch

@@ -1,15 +1,21 @@
 {
  "description": "",
  "final_url": "https://www.charlieforvermont.com/2019-legislative-session-summary",
- "paid_for_by": null,
- "title": "2019 Legislative Session Summary \u2014 Charlie Kimbell - Vermont Rep",
+ "fingerprint": "5a40efeae582d9d03597c8af956dbeb253085a59",
+ "format": 3,
+ "paid_for_by": "authorized by statute or whether the Program should be repealed",
+ "title": "2019 Legislative Session Summary — Charlie Kimbell - Vermont Rep",
  "years_mentioned": [
+  "2007",
   "2017",
   "2018",
   "2019",
   "2020",
   "2021",
   "2022",
-  "2025"
+  "2025",
+  "2026",
+  "2031",
+  "2038"
  ]
 }

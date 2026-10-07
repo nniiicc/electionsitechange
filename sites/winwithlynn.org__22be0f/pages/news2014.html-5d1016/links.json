@@ -1,18 +1,74 @@
 [
-"http://doverpost.com/article/20140311/News/140319920",
-"http://linkedin.com/pub/sean-m-lynn/21/528/5b1",
-"http://progressivedemsdelaware.com/2014/08/13/our-2014-endorsements",
-"http://wdde.org/66456-departing-state-rep-darryl-scott-endorse-sean-lynn-replacement",
-"https://facebook.com/seanlynnforthe31st",
-"https://ivote.de.gov/",
-"https://winwithlynn.org/Lynn_4thJuly.pdf",
-"https://winwithlynn.org/about_sean.html",
-"https://winwithlynn.org/campaign_gallery.html",
-"https://winwithlynn.org/contact_sean.php",
-"https://winwithlynn.org/endorsements.html",
-"https://winwithlynn.org/index.html",
-"https://winwithlynn.org/legislation.html",
-"https://winwithlynn.org/news.html",
-"https://winwithlynn.org/the_issues.html",
-"https://winwithlynn.org/voter_resources.html"
+{
+"text": "About Sean",
+"href": "https://winwithlynn.org/about_sean.html"
+},
+{
+"text": "Campaign News",
+"href": "https://winwithlynn.org/news.html"
+},
+{
+"text": "Contact",
+"href": "https://winwithlynn.org/contact_sean.php"
+},
+{
+"text": "Contact Us",
+"href": "https://winwithlynn.org/contact_sean.php"
+},
+{
+"text": "Dover Post",
+"href": "http://www.doverpost.com/article/20140311/News/140319920"
+},
+{
+"text": "Endorsements",
+"href": "https://winwithlynn.org/endorsements.html"
+},
+{
+"text": "Gallery",
+"href": "https://winwithlynn.org/campaign_gallery.html"
+},
+{
+"text": "Home",
+"href": "https://winwithlynn.org/index.html"
+},
+{
+"text": "Issues",
+"href": "https://winwithlynn.org/the_issues.html"
+},
+{
+"text": "Legislation",
+"href": "https://winwithlynn.org/legislation.html"
+},
+{
+"text": "PDD Website",
+"href": "http://www.progressivedemsdelaware.com/2014/08/13/our-2014-endorsements/"
+},
+{
+"text": "Resources",
+"href": "https://winwithlynn.org/voter_resources.html"
+},
+{
+"text": "WDEL",
+"href": "http://www.wdde.org/66456-departing-state-rep-darryl-scott-endorse-sean-lynn-replacement"
+},
+{
+"text": "We are in spot #20",
+"href": "https://winwithlynn.org/Lynn_4thJuly.pdf"
+},
+{
+"text": "[no text]",
+"href": "http://www.linkedin.com/pub/sean-m-lynn/21/528/5b1"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/seanlynnforthe31st"
+},
+{
+"text": "[no text]",
+"href": "mailto:weallwinwithlynn@gmail.com"
+},
+{
+"text": "iVote.De.Gov",
+"href": "https://ivote.de.gov/"
+}
 ]

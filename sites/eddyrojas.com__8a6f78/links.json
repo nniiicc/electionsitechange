@@ -1,7 +1,22 @@
 [
-"https://donorbox.org/rojas-for-congress",
-"https://eddyrojas.com/",
-"https://eddyrojas.com/about",
-"https://eddyrojas.com/events-1",
-"https://eddyrojas.com/get-involved"
+{
+"text": "ABOUT",
+"href": "https://www.eddyrojas.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://donorbox.org/rojas-for-congress"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.eddyrojas.com/get-involved"
+},
+{
+"text": "ISSUES",
+"href": "https://www.eddyrojas.com/events-1"
+},
+{
+"text": "[image]",
+"href": "https://www.eddyrojas.com"
+}
 ]

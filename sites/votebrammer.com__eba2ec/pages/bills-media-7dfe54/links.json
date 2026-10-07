@@ -1,33 +1,130 @@
 [
-"https://deseret.com/utah/2022/2/17/22939273/zipper-method-merging-benefits-drivers-reduces-congestion-traffic-jam-i-15-utah-legislature-transit",
-"https://deseret.com/utah/2022/2/26/22950953/utah-lake-islands-proposal-lawmakers-environment-utah-lake-authority-development",
-"https://deseret.com/utah/23201832/zipper-merging-law-utah-traffic-road-rage",
-"https://facebook.com/SenatorBradyBrammer",
-"https://fox13now.com/news/local-news/bill-could-open-the-door-to-legalize-medical-use-psychedelics-in-utah",
-"https://fox13now.com/news/local-news/utah-rep-proposes-zipper-method-for-lane-merges",
-"https://heraldextra.com/news/local/2022/apr/26/new-anti-fraud-tools-getting-at-where-stolen-funds-are-hidden",
-"https://heraldextra.com/news/local/2022/jul/22/utah-lake-authority-board-holds-first-meeting",
-"https://kutv.com/news/2news-investigates/case-exposed-by-2news-investigators-part-of-upcoming-house-bill-on-major-fraud",
-"https://le.utah.gov/av/committeeArchive.jsp?timelineID=202190",
-"https://le.utah.gov/av/videoClipTest.jsp?meetingType=committee&offset=5620&stream=https%3A%2F%2Fstream1.utleg.gov%2Fvodvideo%2Fsmil%3ArE110_V214_020822_02.smil%2Fplaylist.m3u8",
-"https://le.utah.gov/~2021/bills/static/HB0113.html",
-"https://le.utah.gov/~2022/bills/static/HB0076.html",
-"https://le.utah.gov/~2022/bills/static/HB0167.html",
-"https://le.utah.gov/~2022/bills/static/HB0229.html",
-"https://le.utah.gov/~2022/bills/static/HB0232.html",
-"https://libertas.org/bill/hb-167-psychotherapy-mental-health-task-force",
-"https://ncregister.com/news/utah-s-new-law-could-be-part-of-winning-pro-life-strategy",
-"https://npr.org/2021/04/07/985089967/utah-law-requires-biological-fathers-to-pay-half-of-pregnancy-related-medical-co",
-"https://nytimes.com/2021/04/06/us/pre-natal-support-law-utah.html",
-"https://reason.com/2022/03/01/all-but-2-utah-legislators-just-voted-to-investigate-the-psychotherapeutic-potential-of-psychedelics",
-"https://sltrib.com/news/environment/2022/03/04/proposed-utah-lake",
-"https://utahpatients.org/what-is-utahs-mental-illness-psychotherapy-drug-task-force",
-"https://votebrammer.com/",
-"https://votebrammer.com/about-brady",
-"https://votebrammer.com/bills-media",
-"https://votebrammer.com/contact",
-"https://votebrammer.com/delivering-results",
-"https://votebrammer.com/endorsements",
-"https://votebrammer.com/privacyterms",
-"https://votebrammer.com/search"
+{
+"text": "Bills & Media",
+"href": "https://www.votebrammer.com/bills-media"
+},
+{
+"text": "Contact",
+"href": "https://www.votebrammer.com/contact"
+},
+{
+"text": "Daily Herald \"Utah Lake Authority Board holds first meeting\"",
+"href": "https://www.heraldextra.com/news/local/2022/jul/22/utah-lake-authority-board-holds-first-meeting/"
+},
+{
+"text": "Delivering Results",
+"href": "https://www.votebrammer.com/delivering-results"
+},
+{
+"text": "Deseret News \"2 bills lawmakers say will steer Utah Lake toward a cleaner future gaining steam in legislature\"",
+"href": "https://www.deseret.com/utah/2022/2/26/22950953/utah-lake-islands-proposal-lawmakers-environment-utah-lake-authority-development"
+},
+{
+"text": "Deseret News \"Do you use the zipper method when you merge? If not, it’s time to learn\"",
+"href": "https://www.deseret.com/utah/2022/2/17/22939273/zipper-method-merging-benefits-drivers-reduces-congestion-traffic-jam-i-15-utah-legislature-transit"
+},
+{
+"text": "Deseret News \"Hey! That jerk flying by in the closing lane isn’t hurting, he’s helping\"",
+"href": "https://www.deseret.com/utah/23201832/zipper-merging-law-utah-traffic-road-rage"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votebrammer.com/endorsements"
+},
+{
+"text": "FOX13 \"Bill could open the door to legalize medical-use psychedelics in Utah\"",
+"href": "https://www.fox13now.com/news/local-news/bill-could-open-the-door-to-legalize-medical-use-psychedelics-in-utah"
+},
+{
+"text": "FOX13 “Utah lawmaker proposes zipper method for lane merges",
+"href": "https://www.fox13now.com/news/local-news/utah-rep-proposes-zipper-method-for-lane-merges"
+},
+{
+"text": "HB 113: Shared Pregnancy Medical Costs",
+"href": "https://le.utah.gov/~2021/bills/static/HB0113.html"
+},
+{
+"text": "HB 167: Mental Illness Psychotherapy Drug Task Force",
+"href": "https://le.utah.gov/~2022/bills/static/HB0167.html"
+},
+{
+"text": "HB 229: Financial Crimes Penalty Enhancement",
+"href": "https://le.utah.gov/~2022/bills/static/HB0229.html"
+},
+{
+"text": "HB 232: Utah Lake Authority",
+"href": "https://le.utah.gov/~2022/bills/static/HB0232.html"
+},
+{
+"text": "HB 76: \"The Zipper Merge Bill\"",
+"href": "https://le.utah.gov/~2022/bills/static/HB0076.html"
+},
+{
+"text": "Herald Extra “Anti-Fraud Tools: Getting at where stolen funds are hidden",
+"href": "https://www.heraldextra.com/news/local/2022/apr/26/new-anti-fraud-tools-getting-at-where-stolen-funds-are-hidden/"
+},
+{
+"text": "Home",
+"href": "https://www.votebrammer.com/"
+},
+{
+"text": "House Judiciary Committee Hearing",
+"href": "https://le.utah.gov/av/videoClipTest.jsp?meetingType=committee&offset=5620&stream=https%3A%2F%2Fstream1.utleg.gov%2Fvodvideo%2Fsmil%3ArE110_V214_020822_02.smil%2Fplaylist.m3u8"
+},
+{
+"text": "House Political Subdivisions Committee Hearing",
+"href": "https://le.utah.gov/av/committeeArchive.jsp?timelineID=202190"
+},
+{
+"text": "KUTV2 “House bill focuses on punishment in major fraud cases",
+"href": "https://kutv.com/news/2news-investigates/case-exposed-by-2news-investigators-part-of-upcoming-house-bill-on-major-fraud"
+},
+{
+"text": "Libertas Review \"HB 167: Psychotherapy Mental Health Task Force\"",
+"href": "https://libertas.org/bill/hb-167-psychotherapy-mental-health-task-force/"
+},
+{
+"text": "Meet Brady",
+"href": "https://www.votebrammer.com/about-brady"
+},
+{
+"text": "NPR “Utah Law Requires Biological Father To Pay Half Of Pregnancy-Related Medical Costs",
+"href": "https://www.npr.org/2021/04/07/985089967/utah-law-requires-biological-fathers-to-pay-half-of-pregnancy-related-medical-co"
+},
+{
+"text": "NYTimes “Utah Will Require Fathers To Help With Pregnancy Bills",
+"href": "https://www.nytimes.com/2021/04/06/us/pre-natal-support-law-utah.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrammer.com/privacyterms"
+},
+{
+"text": "REASON.com \"All But 2 Utah Legislators Just Voted to Investigate the Psychotherapeutic Potential of Psychedelics\"",
+"href": "https://reason.com/2022/03/01/all-but-2-utah-legislators-just-voted-to-investigate-the-psychotherapeutic-potential-of-psychedelics/"
+},
+{
+"text": "SLTrib \"Proposed Utah Lake Authority wins Legislature’s approval\"",
+"href": "https://www.sltrib.com/news/environment/2022/03/04/proposed-utah-lake/"
+},
+{
+"text": "Utah Patients Coalition: \"What is Utah’s Mental Illness Psychotherapy Drug Task Force?\"",
+"href": "https://utahpatients.org/what-is-utahs-mental-illness-psychotherapy-drug-task-force/"
+},
+{
+"text": "Utah's new law could be part of winning pro-life strategy",
+"href": "https://www.ncregister.com/news/utah-s-new-law-could-be-part-of-winning-pro-life-strategy"
+},
+{
+"text": "[image: Brady Brammer]",
+"href": "https://www.votebrammer.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorBradyBrammer"
+},
+{
+"text": "[no text]",
+"href": "https://www.votebrammer.com/search"
+}
 ]

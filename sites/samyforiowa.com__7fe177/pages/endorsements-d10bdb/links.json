@@ -1,10 +1,46 @@
 [
-"http://tiktok.com/@justsamyelbaroudi",
-"https://facebook.com/share/1CgAAzG9Zu",
-"https://samyforiowa.com/",
-"https://samyforiowa.com/about",
-"https://samyforiowa.com/endorsements",
-"https://samyforiowa.com/issues",
-"https://samyforiowa.com/support",
-"https://secure.actblue.com/donate/samy-el-baroudi-1"
+{
+"text": "About",
+"href": "https://www.samyforiowa.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/samy-el-baroudi-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.samyforiowa.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.samyforiowa.com"
+},
+{
+"text": "Issues",
+"href": "https://www.samyforiowa.com/issues"
+},
+{
+"text": "Support",
+"href": "https://www.samyforiowa.com/support"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/share/1CgAAzG9Zu/"
+},
+{
+"text": "[image: TikTok]",
+"href": "http://tiktok.com/@justsamyelbaroudi"
+},
+{
+"text": "connect with me",
+"href": "https://www.samyforiowa.com/support"
+},
+{
+"text": "if",
+"href": "https://www.samyforiowa.com/support"
+},
+{
+"text": "justsamyelbaroudi@gmail.com",
+"href": "mailto:elbaroudisamy@gmail.com?subject=Question+about+campaign"
+}
 ]

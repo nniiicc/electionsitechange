@@ -1,7 +1,9 @@
 {
  "description": "View Endorsements",
  "final_url": "https://www.pachecoforthepeople.com/view-endorsements",
- "paid_for_by": null,
+ "fingerprint": "ac5d37aed2250242724d6c803f5e6660a4b68756",
+ "format": 3,
+ "paid_for_by": "",
  "title": "View Endorsements",
  "years_mentioned": [
   "2026"

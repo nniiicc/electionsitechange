@@ -1,3 +1,5 @@
+HOME ABOUT ISSUES THE DISTRICT NEWS CONTACT DONATE ABOUT Get to Know Todd Todd Jones is a husband, a dad, and a community leader, not a career politician.
+Get to Know Todd Todd Jones is a business executive and community leader, not a career politician.
 Todd Jones is a husband, a dad, and community leader; not a career politician.
 He has proudly served the constituents of Georgia House District 25 since January 2017.
 Since moving to Forsyth County, the Jones Family has been actively involved in the community.
@@ -10,3 +12,4 @@ Todd graduated with a Bachelor in Business Administration, with a specialization
 He and his high school sweetheart, Tracey, have been married for 31 years and have four children: Justin (29), Bryce (26), Colton (24), and Riley (22).
 Tracey’s involvement has been centered around their four children where she has served on the Executive Boards of Shiloh Point Elementary School and Piney Grove Middle School PTAs and was appointed multiple times to the Forsyth County Local School Council Board.
 In addition, Tracey is the founder and owner of Rustic Trace and former co-founder of Pine & Pigment located in the Forsyth Collection.
+HOME ABOUT ISSUES THE DISTRICT NEWS CONTACT DONATE Share by:

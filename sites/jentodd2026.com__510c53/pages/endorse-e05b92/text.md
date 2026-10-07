@@ -1,13 +1,4 @@
-We Support Jennifer Todd for Congress
-Dozens of local organizations and leaders are standing together!
-Skip navigation menu
-We Support Jennifer Todd for Congress
-Dozens of local organizations and leaders are standing together!
-AFL-CIO Illinois
-Citizen Action Illinois
-Coles County Democrats
-Illinois Federation of Teachers
-Illinois Nurses Association
-Justice Coalition
-Mason County Democrats
-Warren County Democrats
+Skip navigation menu Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate Home About Store Volunteer Contact Issues Events News Campaign Updates Endorsements Donate We Support Jennifer Todd for Congress Dozens of local organizations and leaders are standing together!
+AFL-CIO Illinois View Endorsement Citizen Action Illinois View Endorsement Coles County Democrats Paul Davis Democratic Primary Candidate, IL-15 2026 View Endorsement Bonnie Grabenhofer NOW PAC View Endorsement Illinois Federation of Teachers View Endorsement Illinois Nurses Association View Endorsement Justice Coalition View Endorsement Mason County Democrats Kyle Nudo Democratic Primary Candidate, IL-15 2026 View Endorsement Randy Raley Democratic Primary Candidate, IL-15 2026 View Endorsement Ronda Shelton Chair- Logan County Democrats View Endorsement Tracy Van Houten National Women's Political Caucus View Endorsement Warren County Democrats View Endorsement Privacy Policy jennifer@jentodd2026.us | 618-251-1428 Friends for Jennifer Todd P.O.
+Box 3 Glen Carbon, IL 62034 Powered by RUN! website builder Paid for by Friends for Jennifer Todd.
+You need to enable JavaScript to run this app.

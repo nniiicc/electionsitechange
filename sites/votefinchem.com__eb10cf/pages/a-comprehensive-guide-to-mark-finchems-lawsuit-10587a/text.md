@@ -1,4 +1,4 @@
-On Tuesday, I profiled Kari Lake’s lawsuit against Katie Hobbs and a slew of other corrupt bureaucrats in Maricopa County, including the entire Board of Supervisors and Bond villain, Stephen Richer, who poses as Maricopa County’s recorder.
+Skip to content Click here to sign my petition to get on the Ballot Truth Rumble GETTR Gab Telegram Facebook X Home About Issues Endorsements News Contact Donate Donate Click here to sign my petition to get on the Ballot Donate Donate Home About Issues Endorsements News Contact Truth Rumble GETTR Gab Telegram Facebook X A Comprehensive Guide to Mark Finchem’s Lawsuit December 15, 2022 On Tuesday, I profiled Kari Lake’s lawsuit against Katie Hobbs and a slew of other corrupt bureaucrats in Maricopa County, including the entire Board of Supervisors and Bond villain, Stephen Richer, who poses as Maricopa County’s recorder.
 Since so many of my readers considered it worthwhile to have so much legalese broken into small, coherent chunks, I’ve decided I may just profile the rest of the cases.
 Here, I resume with Arizona State Rep.
 Mark Finchem’s lawsuit against Adrian Fontes, who has been certified as the “winner” in the Secretary of State race by a margin of 120,208 votes, Ruben Gallego, the incumbent U.S.
@@ -10,9 +10,9 @@ On page 3, Finchem draws blood by telling it like it is – that a basement dwel
 On page 5, the contest grounds begin.
 Finchem’s team contests that the certified vote totals are unreliable because tabulation machines were not properly certified, nor were they replaced in the aftermath of the 2021 Maricopa County audit.
 Underscoring just how lawless Hobbs is, misconduct allegations begin flying on page 5, and don’t cease until page 12.
-Some highlights:
-Her deliberate or negligent failure resulted in the uninspected and unverified machines to have widespread failures across the State causing election result chaos (page 7).
+Some highlights: Her deliberate or negligent failure resulted in the uninspected and unverified machines to have widespread failures across the State causing election result chaos (page 7).
 Hobbs abused her office of Secretary of State by threatening county officials with criminal charges and indictment for failure to certify a defective election process (page 7).
 Team Finchem hammers Hobbs for intimidating county supervisors who were hesitant to certify compromised elections, focusing on Mohave and Cochise Counties.
 Mohave County certified their election “under duress,” a shocking admission.
-Continue reading: https://skeshel.substack.com/p/a-comprehensive-guide-to-mark-finchems
+Continue reading: https://skeshel.substack.com/p/a-comprehensive-guide-to-mark-finchems Paid for and Authorized by Mark Finchem for AZ Senate This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+Site by Go Right Strategies

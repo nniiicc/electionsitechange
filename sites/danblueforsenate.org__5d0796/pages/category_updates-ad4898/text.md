@@ -1,10 +1,6 @@
-Dan Blue Secures Resounding Reelection Victory for N.C.
-Senate District 14
-North Carolina Senate Leader Dan Blue won reelection to the N.C.
-State Senate’s 14th District.
-Senator Dan Blue joined VP Kamala Harris at a rally in Raleigh, urging NC voters to choose leaders who value unity, integrity, and service over self-interest.
-In the aftermath of Hurricane Helene, Senate Democratic Leader Dan Blue has expressed deep concern for the communities affected, especially those in Western North Carolina.
-NC’s voucher program, which was originally created to give families more choices and help students in struggling schools, is falling far short of some of its key promises.
-The Triangle Central Labor Council and the North Carolina State AFL-CIO announced their endorsement of Senator Dan Blue for re-election in North Carolina’s 14th District.
-For over a decade, Carolina Small Business Development Fund (CSBDF) has worked to promote community and economic development in District 14.
-This infographic shows how Senator Dan Blue works with CSBDF to bolster the economy.
+DONATE TODAY Support Senator Blue’s Campaign with a donation of any amount × Dialog window Connect with Senator Blue for the latest updates!
+Notice: JavaScript is required for this content.
+Home Meet Dan Blue Issues News and Events Volunteer Donate Select Page Updates Dan Blue Secures Resounding Reelection Victory for N.C.
+Senate District 14 Nov 14, 2024 | News , Updates North Carolina Senate Leader Dan Blue won reelection to the N.C.
+State Senate’s 14th District. read more Dan Blue Rallies North Carolinians to Vote for Leadership That Puts People First Oct 31, 2024 | News , Updates Senator Dan Blue joined VP Kamala Harris at a rally in Raleigh, urging NC voters to choose leaders who value unity, integrity, and service over self-interest. read more Leader Blue Stands with Western North Carolina in the Wake of Hurricane Helene Oct 4, 2024 | Updates In the aftermath of Hurricane Helene, Senate Democratic Leader Dan Blue has expressed deep concern for the communities affected, especially those in Western North Carolina. read more The Broken Promise of NC’s Voucher Program Sep 9, 2024 | Updates NC’s voucher program, which was originally created to give families more choices and help students in struggling schools, is falling far short of some of its key promises. read more NC State AFL-CIO Endorses Senator Dan Blue for Re-election Aug 12, 2024 | Updates The Triangle Central Labor Council and the North Carolina State AFL-CIO announced their endorsement of Senator Dan Blue for re-election in North Carolina’s 14th District. read more Promoting Community and Economic Development in NC Senate District 14 Mar 21, 2022 | News , Updates For over a decade, Carolina Small Business Development Fund (CSBDF) has worked to promote community and economic development in District 14.
+This infographic shows how Senator Dan Blue works with CSBDF to bolster the economy. read more Paid for by Citizens for Dan Blue Post Office Box 287, Raleigh NC 27602 Follow Follow Follow

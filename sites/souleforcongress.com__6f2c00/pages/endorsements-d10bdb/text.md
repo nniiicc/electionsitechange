@@ -1,27 +1,17 @@
-Peter Soule
-for Congress
-Endorse Peter today!
-Proudly Endorsed by:
-- State Political Parties American Independent Party
-- Organizations Reform California Biblical Voter Guide Silicon Valley Association of Conservative Republicans Peninsula Conservative Socials
-- Elected Officials Linda Chavez
-President of the Alum Rock School District Board
-Marc Cooper
-Trustee Franklin McKinley School District
-Nicole Gribstad
-Trustee San Jose Unified School District
-Gwan Alisantosa
-Former Board President of Milpitas Unified School District and Member of Santa Clara County Republican Party Central Committee District 3
-- Community Leaders Peter Kuo
-Former Vice Chair of the California Republican Party and current Member of the Santa Clara County Republican Party
-Peter Hernandez
-Former Congressional Candidate
-Robert Howell
-President Silicon Valley Chapter of the California Republican Assembly and Candidate for California Insurance Commissioner
-Vic Marani
-Chairman California American Independent Party
-David Johnson
-Chairman Santa Clara County Republican Party
-Endorsements Welcome!
+0 Skip to Content Common Sense vs Big Tent Issues Events Endorsements About Contact Peter Soule for Congress Donate Open Menu Close Menu Common Sense vs Big Tent Issues Events Endorsements About Contact Peter Soule for Congress Donate Open Menu Close Menu Common Sense vs Big Tent Issues Events Endorsements About Contact Donate Peter Soule for Congress Endorse Peter today!
+"Peter Soule knows what he likes and doesn't like in California politics and he wants to bring his common sense approach to congress.
+He is experienced and thoughtful.
+He will stand against waste and fraud and will represent the best interest of his constituents.
+I recommend him to represent Congressional District 16 in Congress." -David Johnson, Chairman Santa Clara County Republican Party "I have known Peter Soule for over 10 years.
+We have served together on the Republican Central Committee for Santa Clara County.
+Peter has worked diligently to support conservative candidates from those running for school board all the way to President Trump.
+The Silicon Valley Chapter of the California Republican Assembly is proud to endorse him for US Congress." -Robert Howell, President Silicon Valley Chapter of the California Republican Assembly and Candidate for California Insurance Commissioner "Peter Soule actively supports efforts to elect Republicans to office including my campaign for Congressional District 18 in 2024.
+I appointed Peter to represent me on the Santa Clara County Republican Central Committee as my Alternate which he has diligently undertaken.
+I endorse Peter Soule for Congress to represent District 16 and encourage you to support him." -Peter Hernandez – Former Congressional Candidate "The American Independent Party proudly endorses Peter Sundin Soule for Congress.
+A vote for Peter brings independent leadership back to Washington DC." -American Independent Party "I am proud to offer my full and unequivocal endorsement of Peter Soule for Congress.
+He has the integrity, leadership, and commitment to fight for the people of California's 16th District." -Peter Kuo, former Vice Chair of the California Republican Party and current Member of the Santa Clara County Republican Party Proudly Endorsed by: State Political Parties American Independent Party Organizations Reform California Biblical Voter Guide Silicon Valley Association of Conservative Republicans Peninsula Conservative Socials Elected Officials Linda Chavez President of the Alum Rock School District Board Marc Cooper Trustee Franklin McKinley School District Nicole Gribstad Trustee San Jose Unified School District Gwan Alisantosa Former Board President of Milpitas Unified School District and Member of Santa Clara County Republican Party Central Committee District 3 Community Leaders Peter Kuo Former Vice Chair of the California Republican Party and current Member of the Santa Clara County Republican Party Peter Hernandez Former Congressional Candidate Robert Howell President Silicon Valley Chapter of the California Republican Assembly and Candidate for California Insurance Commissioner Vic Marani Chairman California American Independent Party David Johnson Chairman Santa Clara County Republican Party Endorsements Welcome!
 Join the growing list of supporters looking to make a change in our community.
 Add your name as a supporter of our campaign!
+Add my endorsement Sign up for Peter’s Newsletter Keep up with and be fully informed of all that is going his campaign and the updates that impact you.
+Peter Soule for Congress Paid for by Peter Soule for Congress Privacy Policy/Terms and Conditions © Peter Soule for Congress.
+All Rights Reserved. | FEC-1935465 | website design by Conservative Toolbox

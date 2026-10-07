@@ -1,4 +1,7 @@
-NYSEG Sucks!
+0 Skip to Content MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB JOIN US Volunteer Register to Vote Get Your Yard Sign!
+Donate Open Menu Close Menu MEET MICHELE ISSUES POLICY STATEMENTS PRESS ENDORSEMENTS EVENTS BACKROADS BOOK CLUB Folder: JOIN US Back Volunteer Register to Vote Get Your Yard Sign!
+Donate NYSEG Sucks!
 Every single place I go, I hear about people’s crazy high electricbills.
 Then this week, I had my own run in with NYSEG.
 For a house closing, the seller and buyer each called NYSEG to make sure the electricity would smoothly transfer between the two people and there would be no gap in electricity.
@@ -21,6 +24,5 @@ Did they have to get a technician out to some pole?
 Nope!
 They had to hit a switch from their desk.
 So while the crisis was averted for the two women looking to sell and buy a house, this is the craziness that we are consistently paying through the nose for.
-Real Solutions - Not Empty Promises:
-And while Republicans are suggesting a bandaid to address the affordability crisis, in terms of a tax moratorium, Democrats are offering real solutions: a 2-year rate hike moratorium, a cap on how much profit NYSEG/ Central Hudson can rake out of its customers, and a rebate to jump start the winter next fall.
-These are the solutions that don’t forfeit services for our communities but hold the greedy electric utility CEO’s accountable for everything they are taking from us: our money and our time.
+Real Solutions - Not Empty Promises: And while Republicans are suggesting a bandaid to address the affordability crisis, in terms of a tax moratorium, Democrats are offering real solutions: a 2-year rate hike moratorium, a cap on how much profit NYSEG/ Central Hudson can rake out of its customers, and a rebate to jump start the winter next fall.
+These are the solutions that don’t forfeit services for our communities but hold the greedy electric utility CEO’s accountable for everything they are taking from us: our money and our time. info@michelefrazier.com Paid for by Michele Frazier for 51 JOIN US

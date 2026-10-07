@@ -1,12 +1,11 @@
-| The rain held off Saturday for another wonderful Essex Memorial Day Parade.
+Home About Lori Priorities News VOTER INFORMATION Donate Community Resources House Update and Community Forum Invite 5/25/2025 0 Comments The rain held off Saturday for another wonderful Essex Memorial Day Parade.
 I’m grateful for the organizers and volunteers who make this event happen year after year so we can come together to honor and remember those who have paid the ultimate sacrifice protecting our freedoms.
 The legislature is winding up its work (hopefully this week!).
 Rep.
 Dolan and I will share an End of Session Report in the coming weeks summarizing the more impactful legislation passed.
 As always we want to hear your perspectives and answer questions.
 Your engagement helps ensure we are informed about what is important to you.
-Please reach out to me ([email protected]) or Representative Dolan ([email protected]) at any time.
-STATE LEADERS TACKLE FEDERAL POLICY IN VERMONT - JUNE 2, 6 TO 8 PM Join Attorney General Charity Clark, Secretary of State, Sarah Copeland Hanzas, and Treasurer Mike Pieciak, and the Essex House Delegation for a community forum about the impacts of the Trump Administration's actions on Vermont.
+Please reach out to me ( [email protected] ) or Representative Dolan ( [email protected] ) at any time. ​ STATE LEADERS TACKLE FEDERAL POLICY IN VERMONT - JUNE 2, 6 TO 8 PM Join Attorney General Charity Clark, Secretary of State, Sarah Copeland Hanzas, and Treasurer Mike Pieciak, and the Essex House Delegation for a community forum about the impacts of the Trump Administration's actions on Vermont.
 They will share current information about the legal, financial, and policy implications of the federal situation, as well as actions they are taking to respond.
 The current federal climate is raising a lot of questions and uncertainty in Vermont.
 We believe in transparency and collaboration, and we appreciate the opportunity to bring state leaders into our community to share firsthand what is happening and how these challenges are being addressed.
@@ -26,7 +25,10 @@ In conjunction, these measures will help us make significant progress in our hou
 The House will vote on the bill a third time Tuesday before it moves back to the Senate.
 H.454 AN ACT RELATING TO TRANSFORMING VERMONT’S EDUCATION GOVERNANCE, QUALITY, AND FINANCE SYSTEMS The Senate passed out H.454 Friday afternoon on a voice vote.
 The bill passed out of the Senate was largely the House version passed several weeks ago with a few changes.
-Below are a few of the education governance changes and we are still working through the financing changes. https://legislature.vermont.gov/Documents/2026/Docs/JOURNAL/sj250523.pdf?20250523094304 Best, Rep.
-Lori Houghton Expanding the people on the redistricting task force, increasing district size to 8,000 with no minimums and still requiring 3 maps be drawn over the summer for legislators to review and pass next year.
+Below are a few of the education governance changes and we are still working through the financing changes.
+Expanding the people on the redistricting task force, increasing district size to 8,000 with no minimums and still requiring 3 maps be drawn over the summer for legislators to review and pass next year.
 Lowering class size minimums from the House version Removing the requirement for a statewide curriculum and calendar The bill will now move to a Senate and House conference committee.
-You can find the Senate passed version at this link starting on page 1362. |
+You can find the Senate passed version at this link starting on page 1362. https://legislature.vermont.gov/Documents/2026/Docs/JOURNAL/sj250523.pdf?20250523094304 ​ Best, Rep.
+Lori Houghton 0 Comments Leave a Reply. [email protected] | 802-373-0599 paid for by lori houghton for VT house .
+40 School street . essex junction . vt .
+05452 . treasurer bridget meyer Home About Lori Priorities News VOTER INFORMATION Donate Community Resources

@@ -1,27 +1,198 @@
 [
-"https://paulbaileyfortn.com/",
-"https://paulbaileyfortn.com/about",
-"https://paulbaileyfortn.com/backroads-backstories-cameron-sexton",
-"https://paulbaileyfortn.com/backroads-backstories-grand-ole-opry-jamie-dailey",
-"https://paulbaileyfortn.com/backroads-backstories-jobs-for-tennesseans",
-"https://paulbaileyfortn.com/backroads-backstories-john-rose",
-"https://paulbaileyfortn.com/backroads-backstories-meet-us-senate-candidate-dr-manny-sethi",
-"https://paulbaileyfortn.com/capitol-hill-update-4-10-2026",
-"https://paulbaileyfortn.com/capitol-hill-update-4-17-2026",
-"https://paulbaileyfortn.com/capitol-hill-update-4-3-2026",
-"https://paulbaileyfortn.com/contact",
-"https://paulbaileyfortn.com/how-voting-works-in-tennessee",
-"https://paulbaileyfortn.com/journalism-age-social-media",
-"https://paulbaileyfortn.com/lt-gov-randy-mcnally",
-"https://paulbaileyfortn.com/news",
-"https://paulbaileyfortn.com/news/page/1",
-"https://paulbaileyfortn.com/news/page/2",
-"https://paulbaileyfortn.com/news/page/3",
-"https://paulbaileyfortn.com/news/page/5",
-"https://paulbaileyfortn.com/news/page/6",
-"https://paulbaileyfortn.com/news/page/7",
-"https://paulbaileyfortn.com/rsvp",
-"https://paulbaileyfortn.com/telephone-town-hall",
-"https://paulbaileyfortn.com/tennessee-comptroller-justin-p-wilson",
-"https://paulbaileyfortn.com/wp-login.php?action=lostpassword"
+{
+"text": "1",
+"href": "https://paulbaileyfortn.com/news/page/1/"
+},
+{
+"text": "2",
+"href": "https://paulbaileyfortn.com/news/page/2/"
+},
+{
+"text": "3",
+"href": "https://paulbaileyfortn.com/news/page/3/"
+},
+{
+"text": "5",
+"href": "https://paulbaileyfortn.com/news/page/5/"
+},
+{
+"text": "6",
+"href": "https://paulbaileyfortn.com/news/page/6/"
+},
+{
+"text": "7",
+"href": "https://paulbaileyfortn.com/news/page/7/"
+},
+{
+"text": "About Paul",
+"href": "https://paulbaileyfortn.com/about/"
+},
+{
+"text": "Backroads & Backstories: A Conversation with Speaker of the House, Cameron Sexton",
+"href": "https://paulbaileyfortn.com/backroads-backstories-cameron-sexton/"
+},
+{
+"text": "Backroads & Backstories: Get to Know Tennessee 6th District Congressman John Rose",
+"href": "https://paulbaileyfortn.com/backroads-backstories-john-rose/"
+},
+{
+"text": "Backroads & Backstories: Grand Ole Opry Member, Musician Jamie Dailey Shares His Passion for Music",
+"href": "https://paulbaileyfortn.com/backroads-backstories-grand-ole-opry-jamie-dailey/"
+},
+{
+"text": "Backroads & Backstories: Journalism in the Age of Social Media",
+"href": "https://paulbaileyfortn.com/journalism-age-social-media/"
+},
+{
+"text": "Backroads & Backstories: Lt. Gov. Randy McNally Shares His Experience As a Legislative Leader",
+"href": "https://paulbaileyfortn.com/lt-gov-randy-mcnally/"
+},
+{
+"text": "Backroads & Backstories: Meet US Senate Candidate Dr. Manny Sethi",
+"href": "https://paulbaileyfortn.com/backroads-backstories-meet-us-senate-candidate-dr-manny-sethi/"
+},
+{
+"text": "Backroads & Backstories: TN Comptroller of the Treasury Justin P. Wilson Shares His Knowledge of the State’s History",
+"href": "https://paulbaileyfortn.com/tennessee-comptroller-justin-p-wilson/"
+},
+{
+"text": "Backroads & Backstories: TN Secretary of State Tre Hargett Talks About How Voting Works in the State of TN",
+"href": "https://paulbaileyfortn.com/how-voting-works-in-tennessee/"
+},
+{
+"text": "Backroads & Backstories: Telephone Town Hall",
+"href": "https://paulbaileyfortn.com/telephone-town-hall/"
+},
+{
+"text": "Capitol Hill Update 4/10/2026",
+"href": "https://paulbaileyfortn.com/capitol-hill-update-4-10-2026/"
+},
+{
+"text": "Capitol Hill Update 4/17/2026",
+"href": "https://paulbaileyfortn.com/capitol-hill-update-4-17-2026/"
+},
+{
+"text": "Capitol Hill Update 4/3/2026",
+"href": "https://paulbaileyfortn.com/capitol-hill-update-4-3-2026/"
+},
+{
+"text": "Contact",
+"href": "https://paulbaileyfortn.com/contact/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/backroads-backstories-cameron-sexton/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/backroads-backstories-grand-ole-opry-jamie-dailey/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/backroads-backstories-jobs-for-tennesseans/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/backroads-backstories-john-rose/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/backroads-backstories-meet-us-senate-candidate-dr-manny-sethi/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/how-voting-works-in-tennessee/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/journalism-age-social-media/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/lt-gov-randy-mcnally/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/telephone-town-hall/"
+},
+{
+"text": "Continue Reading",
+"href": "https://paulbaileyfortn.com/tennessee-comptroller-justin-p-wilson/"
+},
+{
+"text": "Events",
+"href": "https://paulbaileyfortn.com/rsvp/"
+},
+{
+"text": "Forgot password?",
+"href": "https://paulbaileyfortn.com/wp-login.php?action=lostpassword"
+},
+{
+"text": "Home",
+"href": "https://paulbaileyfortn.com"
+},
+{
+"text": "Home",
+"href": "https://paulbaileyfortn.com/"
+},
+{
+"text": "Jobs for Tennesseans: The Important Role of TN’s Department of Economic & Community Development",
+"href": "https://paulbaileyfortn.com/backroads-backstories-jobs-for-tennesseans/"
+},
+{
+"text": "Weekly Capitol Update",
+"href": "https://paulbaileyfortn.com/news/"
+},
+{
+"text": "[image: Logo]",
+"href": "https://paulbaileyfortn.com"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/backroads-backstories-cameron-sexton/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/backroads-backstories-grand-ole-opry-jamie-dailey/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/backroads-backstories-jobs-for-tennesseans/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/backroads-backstories-john-rose/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/backroads-backstories-meet-us-senate-candidate-dr-manny-sethi/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/how-voting-works-in-tennessee/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/journalism-age-social-media/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/lt-gov-randy-mcnally/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/telephone-town-hall/"
+},
+{
+"text": "[image]",
+"href": "https://paulbaileyfortn.com/tennessee-comptroller-justin-p-wilson/"
+},
+{
+"text": "[no text]",
+"href": "https://paulbaileyfortn.com/news/page/3/"
+},
+{
+"text": "[no text]",
+"href": "https://paulbaileyfortn.com/news/page/5/"
+}
 ]

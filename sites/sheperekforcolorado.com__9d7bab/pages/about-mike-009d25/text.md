@@ -1,5 +1,4 @@
-About Mike
-Mike grew up in Colorado’s West Slope where he went to elementary school in Rico, Colorado.
+Skip to content SheperekForColorado Main_Menu Why I’m Running The Issues Legislative Philosophy Crazy Bills About Mike Donate Contact blog About Mike MichaelSheperekPressKit Download Mike grew up in Colorado’s West Slope where he went to elementary school in Rico, Colorado.
 For high school, the town was so small, they bused the kids to Dolores.
 After Graduating, Mike moved to Boulder, Colorado to pursue higher education.
 At the University of Colorado Boulder, Mike earned degrees in Biology and Electrical Engineering.
@@ -10,3 +9,7 @@ Over the course of his career, he was named on more than 40 patents.
 Mike has been married to his wife, Kim, for 32 years and is the proud father of Alexander.
 He lived in Boulder County for over 40 years before recently moving to Larimer County, just north of Longmont.
 In his free time, Mike enjoys flying (he holds a commercial pilot’s license), playing guitar, hiking, biking, cooking, sewing, writing, and is currently considering building his own experimental airplane.
+The Family Pacific Ocean Sunset Documenting Colorado’s History Flying Colorado (Leadville Airport) Michael_Sheperek@icloud.com P.O.
+Box 324 Ft Lupton, CO 80621 phone: (720) 301-8899 October 5, 2026 5:08 pm Campaign Paid for by Sheperek for Colorado Registered Agent Marge Klein Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

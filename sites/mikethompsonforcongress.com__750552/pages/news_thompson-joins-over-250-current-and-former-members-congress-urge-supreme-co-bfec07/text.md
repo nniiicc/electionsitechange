@@ -1,13 +1,11 @@
-Press Release
-Posted:
-Washington – Rep.
+Skip to main content Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Donate Button Donate Main navigation About show submenu for "About" Biography What has Mike Thompson Accomplished?
+Fourth Congressional District Issues show submenu for "Issues" Bay Delta Conservation Plan Fiscal Responsibility Gun Violence Prevention Health Care Housing Immigration Jobs and the Economy Seniors News Get Involved Endorsements Events Resources THOMPSON JOINS OVER 250 CURRENT AND FORMER MEMBERS OF CONGRESS TO URGE THE SUPREME COURT TO BLOCK PRESIDENT’S EXECUTIVE ORDER LIMITING MAIL VOTING Press Release Posted: September 15, 2026 Washington – Rep.
 Mike Thompson (CA-04) joined current and former Members of Congress in a court filing challenging the legality of an Executive Order by this administration seeking to exert control over mail-in ballots ahead of the 2026 midterm elections.
 In the House, the effort was led by House Administration Ranking Member Joe Morelle (NY-25); Assistant House Minority Leader Joe Neguse (CO-02), who leads the House Democrats’ Litigation Task Force; and Task Force Co-Chairs Oversight Ranking Member Robert Garcia (CA-42) and Judiciary Ranking Member Jamie Raskin (MD-08).
 The group, made up of a bipartisan, bicameral coalition of 261 lawmakers, filed an amicus brief to the Supreme Court challenging the Final Rule issued by the USPS which imposes unconstitutional and unworkable restrictions on mail-in voting.
-Under the rule, the Post Office would intercept and reject mail-in ballots that don’t match names on “citizenship verification lists.”
-“As a combat veteran, I put my life on the line in defense of our country and our constitution.
+Under the rule, the Post Office would intercept and reject mail-in ballots that don’t match names on “citizenship verification lists.” “As a combat veteran, I put my life on the line in defense of our country and our constitution.
 Nothing is more sacred than the right to vote, and I will do everything in my power to protect this right for every citizen,” said Thompson.
-“This executive order would be especially harmful for seniors and members of the military serving our country abroad who disproportionately rely on mail-in voting.”
-The lawsuit argues that the president’s illegal executive order is an attempt to disenfranchise people who depend on mail-in ballots to vote.
+“This executive order would be especially harmful for seniors and members of the military serving our country abroad who disproportionately rely on mail-in voting.” The lawsuit argues that the president’s illegal executive order is an attempt to disenfranchise people who depend on mail-in ballots to vote.
 Approximately one-third of Americans rely on the trusted and secure mail-in ballot system to vote.
-Read the full brief HERE.
+Read the full brief HERE .
+Kicker Menu Volunteer Subscribe Donate PO Box 10541 | Napa, CA 94581 info@mikethompsonforcongress.com | press@mikethompsonforcongress.com Social Media Icons Mike Thompson for Congress on Facebook Mike Thompson for Congress on X Mike Thompson for Congress on Instagram Mike Thompson for Congress on Youtube Mike Thompson for Congress on Bluesky Mike Thompson for Congress on Threads Mike Thompson for Congress on TikTok Authorized & Paid For By Mike Thompson For Congress Footer Privacy Policy Terms & Conditions

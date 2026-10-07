@@ -1,22 +1,4 @@
-Back to All Events
-Fundraiser for Brenda Bandy
-October 7, 2026
-5:30 - 7:00 pm
-Hosted by:
-Usha Reddi & Brian Niehoff
-Tom & Diane Hawk
-Join us for light refreshments and to meet Brenda.
+0 Skip to Content About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Open Menu Close Menu About Platform Endorsements Events Donate Support Media Back to All Events Fundraiser for Brenda Bandy Wednesday, October 7, 2026 5:30 PM 7:00 PM 1801 Westbank Way Manhattan, Kansas United States (map) Google Calendar ICS Fundraiser for Brenda Bandy October 7, 2026 5:30 - 7:00 pm Hosted by: Usha Reddi & Brian Niehoff Tom & Diane Hawk Join us for light refreshments and to meet Brenda.
 This is your chance to flip this seat but it will be close!
-SUGGESTED CONTRIBUTIONS:
-Blue Wave: $1,000
-Supermajority Breaker: $500
-Sponsor: $250
-Supporter: $100
-Guest: $50
-Previous
-Previous
-October 3
-League of Women Voters Forum
-Next
-Next
-October 21
+SUGGESTED CONTRIBUTIONS: Blue Wave: $1,000 Supermajority Breaker: $500 Sponsor: $250 Supporter: $100 Guest: $50 RSVP: https://secure.actblue.com/donate/reddifundraiser Posted In: Fundraiser Previous Previous October 3 League of Women Voters Forum Next Next October 21 Drinks & Thinks Paid for by Bandy for Kansas.
+Carol Adams, Treasurer 1310 Westloop Place STE A PMB 280, Manhattan, KS 66502 brenda@bandyforkansas.com Privacy Policy

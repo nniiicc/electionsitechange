@@ -1,8 +1,10 @@
-The race for the 31st Middlesex District is in full swing, and we are currently interviewing qualified candidates for summer and fall internship positions with the campaign.
+About News Issues Legislation Contact Get Involved Contribute Menu Latest News Summer & Fall Internship Openings July 1, 2014 / in Events , News / by Megan Day The race for the 31st Middlesex District is in full swing, and we are currently interviewing qualified candidates for summer and fall internship positions with the campaign.
 Do you have a passion for politics?
 Have you ever wondered what it’s like to work on a political campaign?
-Are you interested in gaining valuable real-world work experience […]
-Please join us for a fundraiser in support of Michael Day for State Representative Scholar’s 25 School Street Boston, MA 02108 Suggested Contribution $500 $250 $100 $50 For more information or to RSVP, contact Patricia at Patricia@electmikeday.com or click here.
-Please join us and State Senator Jason Lewis as we officially open our headquarters.
+Are you interested in gaining valuable real-world work experience […] Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-07-01 06:22:28 2014-07-01 06:22:28 Summer & Fall Internship Openings Join Us at Scholars in Boston on June 19th June 12, 2014 / in Events , Uncategorized / by Megan Day Please join us for a fundraiser in support of Michael Day for State Representative Scholar’s 25 School Street Boston, MA 02108 Suggested Contribution $500 $250 $100 $50 For more information or to RSVP, contact Patricia at Patricia@electmikeday.com or click here.
+Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-06-12 12:01:35 2014-06-12 12:06:14 Join Us at Scholars in Boston on June 19th Campaign Headquarters Opening: Sat., May 31 May 29, 2014 / in Events , News / by Megan Day Please join us and State Senator Jason Lewis as we officially open our headquarters.
 Bring a friend and help us spread the word about the campaign!
 Saturday, May 31st 3:00 PM 632 Main Street, Winchester For more information, click here.
+Read more http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png 0 0 Megan Day http://electmikeday.com/wp-content/uploads/2014/02/MD1_one_color_blue.png Megan Day 2014-05-29 20:31:05 2014-05-29 20:32:57 Campaign Headquarters Opening: Sat., May 31 Page 11 of 12 « ‹ 9 10 11 12 › Click to Contribute Paid for by the Committee to Elect Michael Day John C.
+Henaghan, Treasurer Scroll to top Loading Comments...
+You must be logged in to post a comment.

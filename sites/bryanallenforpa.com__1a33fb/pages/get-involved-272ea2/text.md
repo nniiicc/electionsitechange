@@ -1,10 +1,3 @@
-Home
-About
-Platform
-Endorsements
-Contact
-Vote
-News
-More
-Join Bryan, Sign Up Now
-Tell us how you’d like to get involved, a member of our team will get in touch soon
+top of page ગુજરાતીમાં વાંચો!
+Home About Platform Endorsements Contact Vote News More Use tab to navigate through the menu items.
+DONATE GET INVOLVED GET INVOLVED Join Bryan, Sign Up Now WAYS TO HELP Tell us how you’d like to get involved, a member of our team will get in touch soon Multi choice Voter Contact Fundraiser/Events Digital Community Building Yard Signs Office Help Other First name * Last name * Email * Phone Zip code * Message Submit Home About Platform Endorsements Contact Vote News Paid for by Bryan Allen for PA PO Box 262 Bensalem, PA 19020 contact@bryanallenforpa.com bottom of page

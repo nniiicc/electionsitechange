@@ -1,15 +1,9 @@
-Kick Off to Summer Event
-Thu, Jun 18
-|The Cultural Center of Cape Cod
-This campaign is about trusted local leadership, practical solutions, and protecting the communities we all care about - we hope you will join us!
-Time & Location
-Jun 18, 2026, 5:00 PM – 7:00 PM
-The Cultural Center of Cape Cod, 307 Old Main St, South Yarmouth, MA 02664, USA
-About The Event
-Kick Off Summer with the Vote Chris Lambton Campaign!
-Join Chris Lambton for a "Kick Off to Summer" event on Thursday, June 18, from 5:00 to 7:00 PM at the Cultural Center of Cape Cod.
-RSVP PLEASE - HERE
-This will be an evening with friends, neighbors, supporters, and community leaders as we gather to celebrate the start of summer and continue building momentum for Chris’s campaign.
+top of page Chris Lambton DONATE FOR STATE REPRESENTATIVE Brewster-Dennis-Yarmouth Home About Priorities Endorsements News Events How to Vote Get Involved Contact More Use tab to navigate through the menu items.
+Kick Off to Summer Event Thu, Jun 18 | The Cultural Center of Cape Cod This campaign is about trusted local leadership, practical solutions, and protecting the communities we all care about - we hope you will join us!
+Time & Location Jun 18, 2026, 5:00 PM – 7:00 PM The Cultural Center of Cape Cod, 307 Old Main St, South Yarmouth, MA 02664, USA About The Event Kick Off Summer with the Vote Chris Lambton Campaign!
+Join Chris Lambton for a " Kick Off to Summer" event on Thursday, June 18, from 5:00 to 7:00 PM at the Cultural Center of Cape Cod.
+RSVP PLEASE - HERE This will be an evening with friends, neighbors, supporters, and community leaders as we gather to celebrate the start of summer and continue building momentum for Chris’s campaign.
 Chris’s campaign is rooted in the belief that Brewster, Dennis, and Yarmouth deserve steady, trusted, locally grounded leadership.
 From protecting the character of our towns to addressing housing, water quality, local infrastructure, schools, and the pressures facing working families, this campaign is about a representative who understands this district.
 The evening will include food, drinks, conversation, and an opportunity to hear directly from Chris about the campaign, the work ahead, and how supporters can help carry this effort through the summer.
+READ MORE Share This Event SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail First name Last name Email Submit DONATE Home Priorities ​ About News Get Involved Contact Chris Lambton - FOR STATE REPRESENTATIVE - Brewster - Dennis - Yarmouth Vote Chris Lambton Terms & Conditions © # Committee to Elect Chris Lambton PO Box 594 DENNIS, MA 02638 info@votelambton.com bottom of page

@@ -1,6 +1,4 @@
-Previous
-Previous
-Fox News: Omaha city councilman mounts bid to succeed outgoing House Republican Rep.
-Don Bacon
-Next
-Next
+0 Skip to Content About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Open Menu Close Menu About Brinker Vision In the News Endorsements Press Resources Request a Yard Sign Washington Examiner: Deb Fischer backs Omaha city councilman for Don Bacon’s House seat Jul 3 Written By Zach Herr Zach Herr Previous Previous Fox News: Omaha city councilman mounts bid to succeed outgoing House Republican Rep.
+Don Bacon Next Next Omaha World-Herald: Omaha Councilman Brinker Harding Launches Campaign for Second Congressional District About Brinker Vision Endorsements Donate Privacy Press inquiries can be sent to press@brinkerharding.com © # Brinker Harding for Congress.
+All Rights Reserved.
+PAID FOR BY BRINKER HARDING FOR CONGRESS

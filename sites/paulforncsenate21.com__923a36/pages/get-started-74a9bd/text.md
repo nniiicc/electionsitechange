@@ -1,4 +1,1 @@
-Phone: 910-751-0435
-Email:
-paulforncsenate21@gmail.com
-All Rights Reserved | Paid for by Paul Taylor for NC Senate District 21
+Home About Paul Advocacies Affordable Housing Advocacy Continuum of Care Nonprofit Cumberland County Housing Justice District 21 Community Empowerment Faith‑based Outreach Fayetteville Community Leader Fayetteville PACK Activism Germany Army Deployment Homelessness Prevention Korea Army Deployment Redistricting Testimony Senior Support Services Veteran Leadership Fayetteville Youth Mentorship Programs Community Leadership Issues & Priorities Photo Gallery Contact Events Give Today Get Started Stay Connected Contact Info Phone: 910-751-0435 Email: paulforncsenate21@gmail.com Service Areas Home About Paul Faith & Legacy Communities of District 21 Community Issues & Surveys Community Engagement Sign-Up Community Support District Map Contact © # All Rights Reserved | Paid for by Paul Taylor for NC Senate District 21 Share by:

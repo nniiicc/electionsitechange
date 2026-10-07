@@ -1,7 +1,4 @@
-LETTERS TO THE EDITOR
-Letter to the Editor: Johansson for Assembly — free of the party machines
-May 29, 2026
-First, everyone that is able please cast a ballot this election as this is a way to let your opinion be known at every level of government.
+ABOUT ISSUES VOLUNTEER ENDORSEMENTS TESTIMONIALS LETTERS TO THE EDITOR MEDIA PHOTOS VIDEO PRESS RELEASES NEWS RESUME DONATE → LETTERS TO THE EDITOR LETTERS TO THE EDITOR Letter to the Editor: Johansson for Assembly — free of the party machines May 29, 2026 First, everyone that is able please cast a ballot this election as this is a way to let your opinion be known at every level of government.
 This election there are three running for California Assembly, all of which have credentials to consider.
 Prior experience and commitments to various listed principles are evident in all three.
 Only one possess the actual experience in working at federal, state and local level.
@@ -12,11 +9,8 @@ He understands our water issues.
 He understands families, farmers, workers and every level of government.
 He deserves independent thoughtful vote as if elected he will be approachable, knowledgeable and most of all will put the north state constituents interests above special interests.
 Turn that ballot in — vote Jamie Johansson for Assembly.
-Bill Connelly, Oroville
-Letter to the Editor: Vote for Johansson to protect north state values
-May 28, 2026
-As a long-time resident of Butte County, retired CPA, and farmer, I am supporting Jamie Johansson for the 3rd Assembly District.
-I first met Jamie in 1998, some 28 years ago, while serving on the Butte County Farm Bureau Board.
+Bill Connelly, Oroville Source: Chico ER → Letter to the Editor: Vote for Johansson to protect north state values May 28, 2026 As a long-time resident of Butte County, retired CPA, and farmer, I am supporting Jamie Johansson for the 3rd Assembly District.
+I first met Jamie in 1998, some #ago, while serving on the Butte County Farm Bureau Board.
 Jamie was new to the board.
 The hot political issues at that time were how to balance farmers’ water rights with domestic household users and how to manage land use.
 We needed a spokesperson to represent the views of Butte County farmers, and Jamie emerged as our representative.
@@ -30,10 +24,7 @@ I’ve watched Jamie rise from a local Farm Bureau member all the way to Preside
 For 14 years, he worked in Sacramento, visiting Washington, D.C., advocating for California farmers.
 Finally, I admire Jamie’s character.
 Besides being knowledgeable, smart, grounded, and committed to north state values, he is, at his core, honest, approachable, and solutions-oriented.
-David Skinner, Chico
-Letter to the Editor: Johansson is the best choice for Assembly
-May 27, 2026
-After nearly four decades in agricultural regulation and resource protection in the north state, I know how important it is to have leaders who truly understand farming, water, and the challenges facing rural communities.
+David Skinner, Chico Source: Chico ER → Letter to the Editor: Johansson is the best choice for Assembly May 27, 2026 After nearly four decades in agricultural regulation and resource protection in the north state, I know how important it is to have leaders who truly understand farming, water, and the challenges facing rural communities.
 Jaime Johansson is simply the best and most qualified candidate to represent our district.
 That is why I strongly support Jamie Johansson for Assembly District 3.
 Jamie doesn’t just talk about supporting agriculture — he lives it every day as a farmer, business owner, and former president of the California Farm Bureau.
@@ -42,13 +33,9 @@ Throughout my career serving Butte and Yuba counties, I worked closely with grow
 Jamie has consistently been a thoughtful, knowledgeable, and effective advocate for north state agriculture and water security.
 He understands that strong rural communities depend on reliable water, reasonable regulations, and policies that allow family farms and local businesses to survive and grow.
 Jamie also knows how to bring people together to solve problems.
-That kind of leadership is badly needed in Sacramento today.
-Our region deserves someone who will fight for agriculture, protect our water rights, and ensure rural voices are heard.
+That kind of leadership is badly needed in Sacramento today. ﻿ Our region deserves someone who will fight for agriculture, protect our water rights, and ensure rural voices are heard.
 I believe Jamie Johansson is the right person for that job, and he has my full support.
-Luis (Louie) Mendoza Jr., Oroville
-Letter to the Editor: Vote for Johansson — ‘a great man for the job’
-May 26, 2026
-Our family has worked alongside the Johansson family since the early 1990s helping manage their olive ranch, and we are proud to support Jamie Johansson for Assembly.
+Luis (Louie) Mendoza Jr., Oroville Source: Chico ER → Letter to the Editor: Vote for Johansson — ‘a great man for the job’ May 26, 2026 Our family has worked alongside the Johansson family since the early 1990s helping manage their olive ranch, and we are proud to support Jamie Johansson for Assembly.
 My father, Andy Rodriguez, was one of the first people Jamie hired when he was learning how to grow olives.
 Back then, Jamie was also working in construction for John Starr at Better Builders.
 Jaime spent countless hours following my dad around the ranch learning the farming business from the ground up.
@@ -57,13 +44,9 @@ They have always supported us through good times and difficult times.
 Today, I continue managing the ranch after all these years.
 They have demonstrated to us that our families are truly familia.
 What people should know about Jamie is that he respects hard work and treats people with dignity no matter where they come from.
-He understands agriculture, small business, and the value of family because he lives it every day.
-Jamie is the same person privately that people see publicly — honest, loyal, hardworking, and committed to the community.
+He understands agriculture, small business, and the value of family because he lives it every day. ﻿ Jamie is the same person privately that people see publicly — honest, loyal, hardworking, and committed to the community.
 We hope Hispanic voters throughout District 3 will join us in supporting a great man for the job.
-David Rodriguez, Oroville
-Letter: Johansson for Assembly — he’s a problem solver
-May 24, 2026
-I am proud to support Jamie Johansson for California State Assembly.
+David Rodriguez, Oroville Source: Chico ER → Letter: Johansson for Assembly — he’s a problem solver May 24, 2026 I am proud to support Jamie Johansson for California State Assembly.
 I have known Jamie for more than two decades, and throughout that time he has consistently demonstrated the kind of leadership our Northern California communities need.
 Jamie listens first and leads with values rooted in the people and communities he serves.
 He understands the real challenges facing families today — making life more affordable, fighting crime, and protecting our region from devastating wildfires.
@@ -73,11 +56,7 @@ What sets Jamie apart is his character.
 He knows how to stand firmly for important values while remaining approachable, respectful, and willing to listen to differing points of view.
 That combination of strength, humility, and integrity is too rare in public life today.
 Jamie Johansson is exactly the type of person we should want representing us.
-Now is the time to support his campaign and help build a better future for our families, our communities and for California.
-John Nock, Chico
-Letter: Johansson’s character, beliefs make him top choice for Assembly
-May 17, 2026
-Several years ago, when we were forming the Alliance for California Business, three of us met to form a group with the intent to sue CARB.
+Now is the time to support his campaign and help build a better future for our families, our communities and for California. ﻿ John Nock, Chico Source: Chico ER → Letter: Johansson’s character, beliefs make him top choice for Assembly May 17, 2026 Several years ago, when we were forming the Alliance for California Business, three of us met to form a group with the intent to sue CARB.
 We had been urged to do this by Bill Wattenberg of KGO Rado and Coast to Coast Radio.
 Rich McGowan, Jamie Johansson and I were the original three.
 Jim Paiva and Ric Cinquini had asked to be included.
@@ -88,11 +67,7 @@ That told me everything that I needed to know about his character.
 Jamie has always been willing to put action behind his beliefs.
 Later Jamie became the President of the California Farm Bureau and throughout the years has continued to be a tireless fighter for farmers, ranchers, businesses and rural communities.
 He understands the challenges facing California because he has lived them.
-I will always back him and fully endorse Jamie Johansson for California Assembly and encourage others to support a leader that will stand up for agriculture and business in Sacramento.
-Bud Caldwell, Chico
-Letter: Jamie Johansson’s proven record of representation
-May 13, 2026
-I have personal experience working with Jamie Johansson.
+I will always back him and fully endorse Jamie Johansson for California Assembly and encourage others to support a leader that will stand up for agriculture and business in Sacramento. ﻿ Bud Caldwell, Chico Source: Chico ER → Letter: Jamie Johansson’s proven record of representation May 13, 2026 I have personal experience working with Jamie Johansson.
 He is an honest, industrious and bright man who can be trusted to perform on the job.
 Jamie’s civic duties have included service on the Oroville City Council and the Butte County Farm Bureau, and as president of the California Farm Bureau.
 Jamie has a passion for serving as a civil servant and giving unselfishly to the community, local and state.
@@ -100,11 +75,7 @@ His tenure as California Farm Bureau president prepared him well to work in Sacr
 Jamie was on the road as CFB president, spending most days engaging, representing, and fighting for small, medium and large farmers in this state.
 What better example of how he would perform as an assembly member in our district?
 Jamie’s record is proven.
-I confidently recommend and invite you to join me in voting for Jamie Johansson, 3rd Assembly District.
-Rich McGowan, Chico
-Letter: Law enforcement speaks up for Jamie Johansson
-May 9, 2026
-As a retired Oroville Police Chief and a former member of the Butte County District Attorney’s Office, we’ve spent our careers serving this community.
+I confidently recommend and invite you to join me in voting for Jamie Johansson, 3rd Assembly District. ﻿ Rich McGowan, Chico Source: Chico ER → Letter: Law enforcement speaks up for Jamie Johansson May 9, 2026 As a retired Oroville Police Chief and a former member of the Butte County District Attorney’s Office, we’ve spent our careers serving this community.
 That’s why we’re writing to strongly support Jamie Johansson for Assembly District 3.
 When Jamie was elected to the Oroville City Council in 2006, Mitch was serving as Chief of Police.
 We saw firsthand the kind of leader he was.
@@ -115,11 +86,7 @@ Since then, we’ve watched Jamie take that same work ethic and leadership far b
 He brings hands-on experience with the critical issues facing our region: fire prevention, water policy, and land management.
 Jamie has been in Sacramento and Washington, D.C., working on legislation, building relationships, and navigating the process of getting things done.
 He is the only candidate in this race who can walk in on day one and be effective.
-We wholeheartedly support Jamie Johansson for Assembly and encourage you to do the same.
-Mitch Brown and Sue Webber-Brown, Oroville
-Letter: Johansson for Assembly: ‘a tireless advocate for agriculture’
-May 6, 2026
-I met Jamie Johansson 15 years ago, under a white canopy tent on a Saturday morning at the Chico Certified Farmers Market.
+We wholeheartedly support Jamie Johansson for Assembly and encourage you to do the same. ﻿ Mitch Brown and Sue Webber-Brown, Oroville Source: Chico ER → Letter: Johansson for Assembly: ‘a tireless advocate for agriculture’ May 6, 2026 I met Jamie Johansson #ago, under a white canopy tent on a Saturday morning at the Chico Certified Farmers Market.
 Little did we know that we’d be neighbors at the market for years to come, showing up, rain or shine, spending those mornings talking about family, small farm and ranch operations, and the challenges faced trying to make it work in California.
 I got to know Jamie as a farmer before he was a candidate for Assembly District 3.
 Over time, Jamie’s leadership and commitment to agriculture took him beyond the market.
@@ -128,13 +95,9 @@ His physical presence at the market became less frequent, but the work he was do
 Jamie remains a trusted friend and a tireless advocate for agriculture and the communities it surrounds.
 What stands out to me most is this: he still shows up.
 Jamie is the only candidate I’ve seen make the effort to come to Elk Creek.
-On the edge of the district in Glenn County off I-5, it’s a place that’s easy to overlook, full of hardworking people who deserve to be heard.
-We pay attention to who shows up, listens, and understands what it takes to keep small farms, ranches and rural communities going.
+On the edge of the district in Glenn County off I-5, it’s a place that’s easy to overlook, full of hardworking people who deserve to be heard. ﻿ We pay attention to who shows up, listens, and understands what it takes to keep small farms, ranches and rural communities going.
 We’re proud to display his sign at Divide Ranch and support Jamie Johansson for Assembly.
-Kathy Landini, Elk Creek
-Letter: Selecting the hardest-working candidates in this election
-May 5, 2026
-Let’s talk about the candidates you will be voting for this upcoming primary.
+Kathy Landini, Elk Creek Source: Chico ER → Letter: Selecting the hardest-working candidates in this election May 5, 2026 Let’s talk about the candidates you will be voting for this upcoming primary.
 I have read and listened (over the last 67 years) to those hoping to represent me in my town, county and state.
 I look for people who can persuade others to the values I hold most dear.
 Those of you who recognize my name at the bottom, know that I believe in conservatism.
@@ -146,13 +109,8 @@ Point in fact, the Warren versus Chico legal constraints put upon our city.
 (It will run out in 2027.) We need leaders who are articulate and able to forward ideas that actually work, not the same old, same old that have not worked.
 This year I have determined that Kasey Reynolds, James Gallagher, Peter Durfee, Jamie Johansson, and Tom van Overbeck will be working hardest for the best interests of this area.
 Mark both ballots you receive, they are not duplicates.
-If you do not vote, then you have no right to complain about the negative conditions you must live in!
-Loretta Ann Torres, Chico
-Letter: Real-world experience makes Johansson the choice
-May 2, 2026
-As a farmer and member of the Butte County Water Commission, I have spent decades focused on one of the most critical issues facing our region: water.
-In California, water policy is complex, high-stakes, and deeply consequential — especially here in the North State, where agriculture is not only a cornerstone of our economy, but a way of life that supports countless businesses and families.
-That is why I am proud to support Jamie Johansson for Assembly.
+If you do not vote, then you have no right to complain about the negative conditions you must live in! ﻿ Loretta Ann Torres, Chico Source: Chico ER → Letter: Real-world experience makes Johansson the choice May 2, 2026 As a farmer and member of the Butte County Water Commission, I have spent decades focused on one of the most critical issues facing our region: water.
+In California, water policy is complex, high-stakes, and deeply consequential — especially here in the North State, where agriculture is not only a cornerstone of our economy, but a way of life that supports countless businesses and families. ﻿ That is why I am proud to support Jamie Johansson for Assembly.
 Jamie is the only farmer in this race, and he brings a level of practical experience, policy expertise, and regional leadership that is totally unmatched.
 I first came to know Jamie as a familiar face at the Chico Farmers Market, where my family and I enjoyed his outstanding olive oil.
 As I’ve gotten to know him personally, I’ve come to respect his character, humility, common sense, and sound judgment.
@@ -161,10 +119,7 @@ As President/CEO of the California Farm Bureau, Jamie led an organization deeply
 Leading a team of eight water attorneys, he was instrumental in working with the Legislature and Governor Jerry Brown’s administration to help shape the Sustainable Groundwater Management Act, one of the most important water policies in California history.
 At this pivotal moment, Assembly District 3 needs proven leadership rooted in real-world experience.
 Jamie Johansson is uniquely qualified for the job.
-Matt Tennis, Chico
-Letter: Former Oroville mayor endorses Jamie Johansson
-May 1, 2026
-As someone who’s had the honor of serving the people as Oroville Mayor from 2011 to 2019 — I’ve seen firsthand what it takes to lead a community through both challenges and opportunities.
+Matt Tennis, Chico Source: Chico ER → Letter: Former Oroville mayor endorses Jamie Johansson May 1, 2026 As someone who’s had the honor of serving the people as Oroville Mayor from 2011 to 2019 — I’ve seen firsthand what it takes to lead a community through both challenges and opportunities.
 This moment is one of those times.
 Following the tragic passing of Doug LaMalfa and the passage of Prop 50, our North State communities are facing important decisions about the future.
 We need leadership that understands our region — not just politically, but personally.
@@ -173,15 +128,11 @@ During my time in local government, I worked closely with people across our regi
 Jamie brings that perspective.
 As a Butte County farmer, he understands the challenges our agricultural community faces because he lives them every day.
 Equally important, he brings proven leadership.
-As President and CEO of the California Farm Bureau, Jamie worked at the highest levels of policy-making — helping pass legislation, advocating for rural communities, and delivering real results.
-In local government, you quickly learn the difference between someone who talks about issues and someone who delivers results, and that person is Jamie Johansson.
+As President and CEO of the California Farm Bureau, Jamie worked at the highest levels of policy-making — helping pass legislation, advocating for rural communities, and delivering real results. ﻿ In local government, you quickly learn the difference between someone who talks about issues and someone who delivers results, and that person is Jamie Johansson.
 Our region cannot afford a learning curve.
 We need steady, experienced leadership that will stand for our communities, protect our way of life, and move the North State forward.
 I strongly encourage you to join me in supporting Jamie Johansson.
-Linda Dahlmeier, Oroville
-Letter: Johansson for Assembly — a leader who shows up
-Apr 28, 2026
-Up here in Berry Creek, we’ve learned what really matters.
+Linda Dahlmeier, Oroville Source: Chico ER → Letter: Johansson for Assembly — a leader who shows up Apr 28, 2026 Up here in Berry Creek, we’ve learned what really matters.
 We’ve lived through wildfire, loss, and the long road of rebuilding.
 And through it all, one thing becomes clear: you remember who shows up.
 That’s why I’m supporting Jamie Johansson for District 3 Assembly.
@@ -197,4 +148,5 @@ He has been to Berry Creek numerous times, most recently to support our Grange.
 In a place like Berry Creek, that means everything.
 We need someone who won’t forget us, who will stand with us, and who will fight for rural communities every step of the way.
 Jamie Johansson is that person.
-I’m proud to support him, and I encourage you to do the same.
+I’m proud to support him, and I encourage you to do the same. ﻿ Terri Brown, Berry Creek Source: Chico ER → (530) 592-0129 info@votejohansson.com P.O.
+Box 46 Durham, CA 95938 Privacy Policy & Terms and Conditions Paid for by Jamie Johansson for Assembly 2026 Share by:

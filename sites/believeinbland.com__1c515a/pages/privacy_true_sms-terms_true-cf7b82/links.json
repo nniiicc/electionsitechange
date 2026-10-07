@@ -1,4 +1,22 @@
 [
-"https://believeinbland.com/?privacy=true&sms-terms=true",
-"https://goodparty.org/"
+{
+"text": "(302) 549-5738",
+"href": "tel:+13025495738"
+},
+{
+"text": "GoodParty.org",
+"href": "https://goodparty.org"
+},
+{
+"text": "Privacy Policy",
+"href": "https://believeinbland.com/?privacy=true&sms-terms=true"
+},
+{
+"text": "SMS Terms",
+"href": "https://believeinbland.com/?privacy=true&sms-terms=true"
+},
+{
+"text": "info@believeinbland.com",
+"href": "mailto:info@believeinbland.com"
+}
 ]

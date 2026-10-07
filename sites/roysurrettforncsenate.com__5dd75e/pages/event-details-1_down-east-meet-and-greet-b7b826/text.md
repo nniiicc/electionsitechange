@@ -1,5 +1,2 @@
-Sun, Sep 06
-Mark and Penny Hooper's Home
-Meet your NC Senate District 2 Candidate, Roy Surrett!
-Sep 06, 2026, 3:00 PM – 5:00 PM
-Mark and Penny Hooper's Home, 273 E City Rd, Smyrna, NC 28579, USA
+top of page Home Issues Policy Events Voting Merch News Contact DONATE Down East Meet and Greet Sun, Sep 06 | Mark and Penny Hooper's Home Meet your NC Senate District 2 Candidate, Roy Surrett!
+Time & Location Sep 06, 2026, 3:00 PM – 5:00 PM Mark and Penny Hooper's Home, 273 E City Rd, Smyrna, NC 28579, USA About the event Show More Share this event Paid for by the Committee to Elect Roy Surrett bottom of page

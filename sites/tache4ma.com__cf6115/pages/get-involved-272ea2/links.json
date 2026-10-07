@@ -1,35 +1,142 @@
 [
-"http://threads.com/@tache4ma",
-"https://docs.google.com/forms/d/e/1FAIpQLSfWGHO8kaKCxh4f858DPc3ks2cF41TuNwT8-MkFucWrrrj94A/viewform",
-"https://drive.google.com/drive/folders/14N3jkWWgJY9Qnkfuo7LGdPXZYZBwvMAZ",
-"https://facebook.com/tache4ma",
-"https://instagram.com/tache4ma",
-"https://pslweb.org/join",
-"https://store.tache4ma.com/",
-"https://tache4ma.com/",
-"https://tache4ma.com/about",
-"https://tache4ma.com/album",
-"https://tache4ma.com/cart",
-"https://tache4ma.com/contact-us",
-"https://tache4ma.com/donate",
-"https://tache4ma.com/es/about",
-"https://tache4ma.com/es/get-involved",
-"https://tache4ma.com/es/our-program",
-"https://tache4ma.com/events",
-"https://tache4ma.com/get-involved",
-"https://tache4ma.com/news",
-"https://tache4ma.com/our-program",
-"https://tache4ma.com/posters-and-materials",
-"https://tache4ma.com/press",
-"https://tache4ma.com/privacy-policy",
-"https://tache4ma.com/pt/about",
-"https://tache4ma.com/pt/get-involved",
-"https://tache4ma.com/pt/our-program",
-"https://tache4ma.com/vote",
-"https://tiktok.com/@tache4ma",
-"https://volunteer.tache4ma.com/artists-for-tache",
-"https://volunteer.tache4ma.com/educators-for-tache",
-"https://volunteer.tache4ma.com/get-your-joe-tache-for-senate-sign",
-"https://volunteer.tache4ma.com/join-team-tache",
-"https://x.com/tache4ma"
+{
+"text": "0",
+"href": "https://www.tache4ma.com/cart"
+},
+{
+"text": "About Joe",
+"href": "https://www.tache4ma.com/about"
+},
+{
+"text": "Acerca de Joe",
+"href": "https://www.tache4ma.com/es/about"
+},
+{
+"text": "Album",
+"href": "https://www.tache4ma.com/album"
+},
+{
+"text": "Artists for Tache",
+"href": "https://volunteer.tache4ma.com/artists-for-tache"
+},
+{
+"text": "Contact Us",
+"href": "https://www.tache4ma.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://www.tache4ma.com/donate"
+},
+{
+"text": "DOWNLOAD POSTERS",
+"href": "https://www.tache4ma.com/posters-and-materials"
+},
+{
+"text": "EVENTS",
+"href": "https://www.tache4ma.com/events"
+},
+{
+"text": "Educators for Tache",
+"href": "https://volunteer.tache4ma.com/educators-for-tache"
+},
+{
+"text": "Events",
+"href": "https://tache4ma.com/events"
+},
+{
+"text": "GET A FREE YARD SIGN",
+"href": "https://volunteer.tache4ma.com/get-your-joe-tache-for-senate-sign"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.tache4ma.com/get-involved"
+},
+{
+"text": "HOST A FUNDRAISER",
+"href": "https://drive.google.com/drive/folders/14N3jkWWgJY9Qnkfuo7LGdPXZYZBwvMAZ"
+},
+{
+"text": "JOIN THE PSL",
+"href": "https://www.pslweb.org/join"
+},
+{
+"text": "Merch",
+"href": "https://store.tache4ma.com/"
+},
+{
+"text": "News",
+"href": "https://www.tache4ma.com/news"
+},
+{
+"text": "Nosso Programa",
+"href": "https://www.tache4ma.com/pt/our-program"
+},
+{
+"text": "Nuestro Programa",
+"href": "https://www.tache4ma.com/es/our-program"
+},
+{
+"text": "Our Program",
+"href": "https://www.tache4ma.com/our-program"
+},
+{
+"text": "PARTICIPA",
+"href": "https://www.tache4ma.com/es/get-involved"
+},
+{
+"text": "PARTICIPE",
+"href": "https://www.tache4ma.com/pt/get-involved"
+},
+{
+"text": "Press Kit",
+"href": "https://www.tache4ma.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.tache4ma.com/privacy-policy"
+},
+{
+"text": "SUBMIT AN IN-KIND DONATION",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfWGHO8kaKCxh4f858DPc3ks2cF41TuNwT8-MkFucWrrrj94A/viewform"
+},
+{
+"text": "Sobre Joe",
+"href": "https://www.tache4ma.com/pt/about"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://volunteer.tache4ma.com/join-team-tache"
+},
+{
+"text": "Vote",
+"href": "https://www.tache4ma.com/vote"
+},
+{
+"text": "[image: Joe Tache for U.S. Senate]",
+"href": "https://www.tache4ma.com/"
+},
+{
+"text": "[no text]",
+"href": "http://threads.com/@tache4ma"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/tache4ma"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tache4ma"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@tache4ma"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/tache4ma"
+},
+{
+"text": "press@tache4ma.com",
+"href": "mailto:press@tache4ma.com"
+}
 ]

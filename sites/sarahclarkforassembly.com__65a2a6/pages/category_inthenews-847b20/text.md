@@ -1,38 +1,22 @@
-Connections: Sarah Clark, candidate for NYS Assembly (WXXI News, October 7, 2024)
-Listen at WXXI News
-Continue reading
-“If you’re a part time worker and you get an extra shift, you can’t take it because there’s no way your provider is going to hold a day for you on the possibility you might make it, knowing that if you don’t, they won’t get compensated.”
-The third would allow for parents to be presumed eligible for child care assistance while their application is underway if they check certain basic boxes.
+Toggle navigation Vote About Sarah In The News Issues Get Involved Volunteer Subscribe Contact Donate In The News October 7, 2024 Connections: Sarah Clark, candidate for NYS Assembly (WXXI News, October 7, 2024) Listen at WXXI News Continue reading October 7, 2024 Advocates push Hochul to sign child care bills geared toward modernizing assistance process “If you’re a part time worker and you get an extra shift, you can’t take it because there’s no way your provider is going to hold a day for you on the possibility you might make it, knowing that if you don’t, they won’t get compensated.” The third would allow for parents to be presumed eligible for child care assistance while their application is underway if they check certain basic boxes.
 Lawmakers stress that getting approved is a lengthy process that often coincides with the stress of beginning a new position.
 “To have to figure out every day what to do with your child as you start a new job or whatever it may be, this is just a huge burden,” Clark said.
-Continue reading
-“The bill was sponsored by Senator Samra Brouk, chair of the Committee on Mental Health, and Assemblywoman Sarah Clark, a member of the Higher Education Committee.”
-Continue reading
-The West Irondequoit Central School District is getting $1 million in state funding to expand its universal pre-k program.
+Continue reading October 1, 2024 Governor Signs Law Requiring Suicide Hotline Info on College ID Cards “The bill was sponsored by Senator Samra Brouk, chair of the Committee on Mental Health, and Assemblywoman Sarah Clark, a member of the Higher Education Committee.” Continue reading September 10, 2024 West Irondequoit pre-k program gets $1m in funding The West Irondequoit Central School District is getting $1 million in state funding to expand its universal pre-k program.
 Assembly Speaker Carl Heastie and Assemblywoman Sarah Clark toured the Pinegrove building Tuesday, a former elementary school in the district at the center of a $6 million plan to renovate three classrooms for universal pre-k.
-Continue reading
-“A driving force behind the Mom Squad is Assembly Member Sarah Clark.
+Continue reading May 22, 2024 New York’s ‘Mom Squad’ sees victories and challenges in state budget “A driving force behind the Mom Squad is Assembly Member Sarah Clark.
 As a member of the Children and Families Committee, she is a staunch advocate for improving the state’s child care system.
 “There’s a lot we can fix around child care to make it easier for families,” she said.
-Clark said child care did not receive the spotlight in …
-Continue reading
-“We put so much more attention to issues that didn’t always get attention,” said Assemb.
+Clark said child care did not receive the spotlight in … Continue reading February 4, 2024 ‘Mom Squad’ focuses on mother/child funding, policies in NYS legislature “We put so much more attention to issues that didn’t always get attention,” said Assemb.
 Sarah Clark (D-Rochester), a mother of three who unveiled the “Mom Squad” in a tweet in January.
 “We were again and again just bringing it up.
-Even when discussing economic development, we raise our hands and say, ‘What about child care?’ We’re bringing issues that haven’t always been in the limelight.”
-Continue reading
-“I know the governor cares a lot about higher education,” said Assemblywoman Sarah Clark (D-Rochester).
+Even when discussing economic development, we raise our hands and say, ‘What about child care?’ We’re bringing issues that haven’t always been in the limelight.” Continue reading January 8, 2024 N.Y.
+Senate, Assembly higher education committees push for tuition assistance reform “I know the governor cares a lot about higher education,” said Assemblywoman Sarah Clark (D-Rochester).
 “We’ve seen it with her willingness to open TAP to part time students, so we’re really hoping.
-If you look at some of these budget items the cost is not huge.”
-Continue reading
-Under a new state law, signed by Gov.
-Kathy Hochul on Dec. 8, a clear protocol is laid out for how a vacancy study is conducted, the results of which determine whether a city qualifies for rent stabilization.
+If you look at some of these budget items the cost is not huge.” Continue reading December 18, 2023 Rochester gets a second shot at rent control study Under a new state law, signed by Gov.
+Kathy Hochul on Dec.
+8, a clear protocol is laid out for how a vacancy study is conducted, the results of which determine whether a city qualifies for rent stabilization.
 Under the bill, landlords would be required to respond, or risk being fined $1,000 and losing their certificate of occupancy.
 Absent a response, a property would be recorded as fully occupied, thus driving down the city vacancy rate and making it more likely to meet the threshold for rent control.
-Continue reading
-“We pass multiple task force bills every year,” said Assemblywoman Sarah Clark.
-“This one is very much focused on BIPOC women and girls who go missing across the state and creating a task force that would really look at the way we use our alert system and various other methods to help find these missing women and girls, because it’s not working particularly for our Black and Brown girls who go missing.”
-Continue reading
-“Oftentimes, what our EMS agents have become is a collection agency,” said Assemblymember Sarah Clark, a co-sponsor of the legislation.
-“Instead of putting time and resources into what they need to do to deliver health care services and make sure people are safe and healthy and getting the medical treatment they need, they’re calling people and tracking down dollars that are owed to them for services provided.”
-Continue reading
+Continue reading October 23, 2023 NYS legislators write letter asking Hochul to back task force bill for missing women of color “We pass multiple task force bills every year,” said Assemblywoman Sarah Clark.
+“This one is very much focused on BIPOC women and girls who go missing across the state and creating a task force that would really look at the way we use our alert system and various other methods to help find these missing women and girls, because it’s not working particularly for our Black and Brown girls who go missing.” Continue reading October 12, 2023 Lawmakers, EMS providers urge Hochul to sign ambulance service payment legislation “Oftentimes, what our EMS agents have become is a collection agency,” said Assemblymember Sarah Clark, a co-sponsor of the legislation.
+“Instead of putting time and resources into what they need to do to deliver health care services and make sure people are safe and healthy and getting the medical treatment they need, they’re calling people and tracking down dollars that are owed to them for services provided.” Continue reading 1 2 3 4 5 Vote About Sarah In The News Issues Volunteer Subscribe Media Contact

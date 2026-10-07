@@ -1,4 +1,5 @@
-Another week of legislating has come and gone in New Hampshire.
+What the hell is the point?
+Feb 7, 2025 — by Seth Miller in Legislative Update Another week of legislating has come and gone in New Hampshire.
 It was, to be blunt, a depressing slog.
 But I’m doing my best to not lose hope, and to not burn out.
 Which takes me to the NH House Transportation Committee meeting of last Tuesday.
@@ -12,8 +13,7 @@ There are plenty of reasons – some good and some terrible – to oppose the bi
 Eventually the conversation came around to the fact that this would be a secondary offense.
 That significantly limits enforcement opportunities.
 And one of the members suggested that, because it was only a secondary offense, it was not worth pursuing.
-He closed his speech with a simple question, “What the hell is the point?”
-I was sitting on the sidelines of this debate.
+He closed his speech with a simple question, “What the hell is the point?” I was sitting on the sidelines of this debate.
 But that line of reasoning pissed me off.
 And so I spoke up.
 The point is we make incremental improvements.
@@ -37,11 +37,11 @@ But guided by the principle of helping when and where I can, I ultimately follow
 Getting this bill approved in this form – significantly toned down from the original – was the best we could deliver for our constituents.
 Sometimes harm reduction is all we can secure.
 Beyond that were several losses.
-A bill demanding “evidence-based” curriculum in public schools (HB129) passed, but NH will continue to ignore the evidence around climate change, refusing even to study its impacts on the state (HB106).
-Other climate-related bills that moved through along party lines – bad news for Granite Staters – were HB189, HB306, and HB526.
+A bill demanding “evidence-based” curriculum in public schools ( HB129 ) passed, but NH will continue to ignore the evidence around climate change, refusing even to study its impacts on the state ( HB106 ).
+Other climate-related bills that moved through along party lines – bad news for Granite Staters – were HB189 , HB306 , and HB526 .
 The last two lost on procedural plays rather than outright defeat.
-A trio of bills (HB60, HB444, HB623) also passed, all of which will further stress the housing market in New Hampshire and increase the likelihood of residents becoming under or unhoused.
-One of the other bills debated on the floor was HB133, a voter suppression bill hiding under the guise of compliance with drivers license rules.
+A trio of bills ( HB60 , HB444 , HB623 ) also passed, all of which will further stress the housing market in New Hampshire and increase the likelihood of residents becoming under or unhoused.
+One of the other bills debated on the floor was HB133 , a voter suppression bill hiding under the guise of compliance with drivers license rules.
 It passed along party lines, as expected.
 But it also gave me my first opportunity to speak on the floor.
 Not my best performance, but I’m happy to have that out of the way and look forward to more as the session progresses.
@@ -59,4 +59,4 @@ It is a silly win, but at this point I’ll take what we can get.
 Next week one of my bills will be heard in the Transportation Committee.
 HB249 legalizes the Safety Stop (a/k/a the Idaho Stop) for cyclists in NH.
 I think it stands a decent chance of getting out of committee, and I have some strong support from residents I’ve worked with to get the word out.
-Here’s hoping…
+Here’s hoping… ← Previous: Pomp and Contradiction Next: A Weirdly Winning* Week → Representing Dover/Strafford County District 21 Contact the campaign: Email me (you’ll need to assemble the parts): seth millerworks net Social Bluesky Instagram Paid for by Miller for NH, 129 Fourth Street, Dover, NH 03820, Fiscal Agent: Seth Miller

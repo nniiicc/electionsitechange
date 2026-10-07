@@ -1,5 +1,4 @@
-About Kathy
-U.S.
+Click here to re-request your vote by mail ballot. × Skip to content Home About Kathy Delivering for Florida News Volunteer Home About Kathy Delivering for Florida News Volunteer Join Us Donate Now About Kathy U.S.
 Representative Kathy Castor is a native Floridian and the first woman elected to represent the people of Hillsborough and Pinellas Counties in Congress.
 Since being elected, Kathy has dedicated her career to serving the Tampa Bay community, building a record of results that has earned trust across the region and across party lines.
 For nearly two decades, she has delivered for Tampa Bay families by strengthening the local economy, securing grants and investments that create good-paying jobs, and fighting to improve quality of life throughout the region.
@@ -12,3 +11,6 @@ She stands up to grow the middle class and boost small business owners, guarante
 She has successfully fought to bring new, good-paying job opportunities to the region by supporting both small businesses and large economic engines, including Port Tampa Bay, the University of South Florida, Moffitt Cancer Center & Research Institute, Tampa International Airport, and federally-qualified community health centers.
 But the work isn’t done.
 Kathy Castor will continue to fight for a diverse and strong Tampa Bay economy that keeps costs for families in check, keeps health care and energy affordable, and protects our way of life.
+Home About Kathy Delivering for Florida News Volunteer Home About Kathy Delivering for Florida News Volunteer Facebook X-twitter Youtube Instagram 301 W Platt Street, #385 Tampa, FL 33606 © # Castor for Congress.
+All rights reserved.
+PAID FOR BY CASTOR FOR CONGRESS Privacy Policy and Terms of Service

@@ -1,7 +1,5 @@
-Meet Johnnie
-Bold Leadership Rooted in Purpose
-Johnnie believes your government should work for you —not the other way around.
-He lives by a core belief: “Our neighbors are the board of directors.” That conviction guides everything he does—from entrepreneurship to education to public service.
+top of page DONATE HOME PRIVACY POLICY MEET JOHNNIE PLATFORM CONTACT Meet Johnnie Bold Leadership Rooted in Purpose Johnnie believes your government should work for you —not the other way around.
+He lives by a core belief: “ Our neighbors are the board of directors. ” That conviction guides everything he does—from entrepreneurship to education to public service.
 Johnnie’s message is simple and clear: South Carolina needs leaders who listen, lead with values, and deliver results.
 Over the last two decades, Johnnie has successfully started and exited 6 independent and private businesses.
 Serving thousands of patients and families and employing hundreds throughout South Carolina his consortium of companies raised the standards of healthcare in SC and was recognized time and again for quality outcomes, innovation and as one of the best places to work.
@@ -12,8 +10,8 @@ With Johnnie Garmon District 115 gets a trusted leader who hasn’t just studied
 Now he’s ready to be your voice for your family, for your freedoms, and for our values to ensure South Carolina’s best days are ahead.
 As a member of James Island Christian Church, those who have worked with and know Johnnie knows he is a man of action, faith, and vision—ready to fight for innovative solutions, champion families, and deliver a brighter future for South Carolina.
 Together, we can bring principled, people - first leadership to Columbia.
-DONATE TODAY
-GET INVOLVED
-Johnnie Garmon is running for State House District 115 to stand up to unchecked growth and deliver real results, not tired talking points, for Lowcountry families.
+Read Johnnie's Plan DONATE TODAY GET INVOLVED Johnnie Garmon is running for State House District 115 to stand up to unchecked growth and deliver real results, not tired talking points, for Lowcountry families.
 Join the team: knock doors with us, host a Meet Johnnie event in your neighborhood or pledge to vote early.
 We will set you up with everything you need.
+First name Last name Email Phone Text me for Updates Submit Thanks for signing up!
+DONATE Info@TogetherWithGarmon.com Election Day: Tuesday, November 3rd • Vote early October 19th through 31st bottom of page

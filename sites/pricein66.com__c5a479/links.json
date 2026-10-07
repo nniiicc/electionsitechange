@@ -1,7 +1,38 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSfm6j7aXpYuCgHkcwZ-6NTvG-EWjJxjIeIH8baFDCYnQYjc3A/viewform?usp=publish-editor",
-"https://facebook.com/profile.php?id=61575924241169",
-"https://indianavoters.in.gov/",
-"https://pricein66.com/",
-"https://secure.actblue.com/donate/pricein66"
+{
+"text": "About",
+"href": "https://pricein66.com/#about"
+},
+{
+"text": "Click to Volunteer!",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfm6j7aXpYuCgHkcwZ-6NTvG-EWjJxjIeIH8baFDCYnQYjc3A/viewform?usp=publish-editor"
+},
+{
+"text": "Contact",
+"href": "https://pricein66.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/pricein66"
+},
+{
+"text": "Introduction",
+"href": "https://pricein66.com/#introduction"
+},
+{
+"text": "Priorities",
+"href": "https://pricein66.com/#priorities"
+},
+{
+"text": "Register to Vote!",
+"href": "https://indianavoters.in.gov/"
+},
+{
+"text": "[image: Ryan Price for Indiana State Representative logo]",
+"href": "https://pricein66.com/"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/profile.php?id=61575924241169"
+}
 ]

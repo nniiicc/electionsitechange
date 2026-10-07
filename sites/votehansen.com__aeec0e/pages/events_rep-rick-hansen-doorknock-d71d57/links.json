@@ -1,18 +1,70 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241009T203000Z%2F20241010T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States",
-"http://maps.google.com/?q=121+10th+Street+Newport%2C+MN%2C+55055+United+States",
-"https://bsky.app/profile/reprickhansen.bsky.social",
-"https://facebook.com/RepRickHansen",
-"https://twitter.com/reprickhansen",
-"https://votehansen.com/",
-"https://votehansen.com/about",
-"https://votehansen.com/cart",
-"https://votehansen.com/donate",
-"https://votehansen.com/events",
-"https://votehansen.com/events/league-of-women-voters-forum-house-district-53b-",
-"https://votehansen.com/events/rep-rick-hansen-doorknock-xsd36",
-"https://votehansen.com/events/rep-rick-hansen-doorknock?format=ical",
-"https://votehansen.com/gallery",
-"https://votehansen.com/volunteer",
-"https://votehansen.com/vote"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=121+10th+street+newport%2C+mn%2C+55055+united+states"
+},
+{
+"text": "0",
+"href": "https://www.votehansen.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Donate",
+"href": "https://www.votehansen.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.votehansen.com/events"
+},
+{
+"text": "Gallery",
+"href": "https://www.votehansen.com/gallery"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Rep+Rick+Hansen+Doorknock&dates=20241009T203000Z%2F20241010T003000Z&location=121+10th+Street%2C+Newport%2C+MN%2C+55055%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock?format=ical"
+},
+{
+"text": "Meet Rick",
+"href": "https://www.votehansen.com/about"
+},
+{
+"text": "Next Next October 16 Rep Rick Hansen Doorknock",
+"href": "https://www.votehansen.com/events/rep-rick-hansen-doorknock-xsd36"
+},
+{
+"text": "Previous Previous September 17 League of Women Voters Forum - House District 53B",
+"href": "https://www.votehansen.com/events/league-of-women-voters-forum-house-district-53b-"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votehansen.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.votehansen.com/vote"
+},
+{
+"text": "[image: Rick Hansen for House]",
+"href": "https://www.votehansen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/reprickhansen.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/reprickhansen"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/RepRickHansen/"
+}
 ]

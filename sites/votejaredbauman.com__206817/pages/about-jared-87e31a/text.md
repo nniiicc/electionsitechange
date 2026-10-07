@@ -1,4 +1,4 @@
-Jared is a dedicated husband, father, and parishioner of Saint Lawrence Catholic Church.
+0 Skip to Content Home About Jared Key Issues Get Involved DONATE Open Menu Close Menu Home About Jared Key Issues Get Involved DONATE Open Menu Close Menu Home About Jared Key Issues Get Involved DONATE DONATE Jared is a dedicated husband, father, and parishioner of Saint Lawrence Catholic Church.
 Jared is a life-long resident of Southwest Louisville.
 He grew up in the Saint Andrews Park neighborhood and attended Saint Polycarp before completing his high school education at Saint Xavier.
 Following high school he studied at the University of Louisville where Jared earned a Bachelor of Science degree.
@@ -15,3 +15,4 @@ Their 16-year-old daughter is also highly motivated by learning and enjoys volle
 Jared worked for a local steel company for two years after graduating from the University of Louisville and is grateful for his experience with the organization.
 For the last 17 years he has worked for an industry leading specialty chemical company where he currently serves as Global Operational Excellence Manager.
 In this role Jared is accountable for leading change, improvement, and growth across global manufacturing operations.
+PAID FOR BY JARED BAUMAN FOR STATE HOUSE.

@@ -1,11 +1,38 @@
 [
-"https://docs.google.com/forms/d/e/1FAIpQLSet3f5dnP-hXjjSyukMyzSGgLOdpAyo2bphwqxmyKx9Kxi7Ng/viewform?usp=sf_link",
-"https://facebook.com/TehlertforIowaHouse",
-"https://instagram.com/repehlert",
-"https://secure.actblue.com/donate/tracy-ehlert-for-iowa-house-1",
-"https://tracyehlert.com/",
-"https://tracyehlert.com/join-the-team",
-"https://tracyehlert.com/tracy-s-issues",
-"https://tracyehlert.com/tracy-s-story",
-"https://youtube.com/@reptracyehlert"
+{
+"text": "Donate Online",
+"href": "https://secure.actblue.com/donate/tracy-ehlert-for-iowa-house-1"
+},
+{
+"text": "Home",
+"href": "https://www.tracyehlert.com"
+},
+{
+"text": "Join the Team",
+"href": "https://www.tracyehlert.com/join-the-team"
+},
+{
+"text": "Sign up to Volunteer",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSet3f5dnP-hXjjSyukMyzSGgLOdpAyo2bphwqxmyKx9Kxi7Ng/viewform?usp=sf_link"
+},
+{
+"text": "Tracy's Issues",
+"href": "https://www.tracyehlert.com/tracy-s-issues"
+},
+{
+"text": "Tracy's Story",
+"href": "https://www.tracyehlert.com/tracy-s-story"
+},
+{
+"text": "[image: Grey Facebook Icon]",
+"href": "https://www.facebook.com/TehlertforIowaHouse/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/repehlert/"
+},
+{
+"text": "[image: Youtube]",
+"href": "https://www.youtube.com/@reptracyehlert"
+}
 ]

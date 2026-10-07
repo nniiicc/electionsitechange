@@ -1,12 +1,58 @@
 [
-"https://facebook.com/profile.php?id=61558854819087",
-"https://guidoneforsenate.com/",
-"https://guidoneforsenate.com/contact",
-"https://guidoneforsenate.com/get-involved",
-"https://guidoneforsenate.com/meet-jason",
-"https://guidoneforsenate.com/meet-jason/out-and-about",
-"https://guidoneforsenate.com/news",
-"https://guidoneforsenate.com/privacy-policy",
-"https://instagram.com/guidoneforctsenate19",
-"https://x.com/ForSenateCTD19"
+{
+"text": "About Me",
+"href": "https://www.guidoneforsenate.com/meet-jason"
+},
+{
+"text": "CONTACT",
+"href": "https://www.guidoneforsenate.com/contact"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.guidoneforsenate.com/get-involved"
+},
+{
+"text": "HOMEPAGE",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "MEET JASON",
+"href": "https://www.guidoneforsenate.com/meet-jason"
+},
+{
+"text": "MY PLAN",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "NEWS",
+"href": "https://www.guidoneforsenate.com/news"
+},
+{
+"text": "OUT & ABOUT",
+"href": "https://www.guidoneforsenate.com/meet-jason/out-and-about"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.guidoneforsenate.com/privacy-policy"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61558854819087"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/guidoneforctsenate19"
+},
+{
+"text": "[image: WHITE LOGO-TRANSPARENT.png]",
+"href": "https://www.guidoneforsenate.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/ForSenateCTD19"
+},
+{
+"text": "info@guidoneforsenate.com",
+"href": "mailto:info@guidoneforsenate.com?subject=Website+Inquiry"
+}
 ]

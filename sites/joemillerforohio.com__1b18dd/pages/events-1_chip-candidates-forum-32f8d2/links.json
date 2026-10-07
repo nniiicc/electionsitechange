@@ -1,20 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=CHIP+Candidates+Forum&dates=20261006T223000Z%2F20261007T013000Z&location=2600+Ashland+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States",
-"http://maps.google.com/?q=2600+Ashland+Avenue+Lorain%2C+Ohio%2C+44052+United+States",
-"https://chiplorain.org/advocacy",
-"https://facebook.com/JoeMillerforOhio",
-"https://instagram.com/joemillerohio",
-"https://joemillerforohio.com/",
-"https://joemillerforohio.com/cart",
-"https://joemillerforohio.com/contact",
-"https://joemillerforohio.com/events-1",
-"https://joemillerforohio.com/events-1/chip-candidates-forum?format=ical",
-"https://joemillerforohio.com/events-1/early-voting-rally-and-fundraiser",
-"https://joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader",
-"https://joemillerforohio.com/issues",
-"https://joemillerforohio.com/joes-listening-tour",
-"https://joemillerforohio.com/meetjoe",
-"https://joemillerforohio.com/privacy-policy",
-"https://secure.actblue.com/donate/friendsofjoemillerohio",
-"https://twitter.com/repjoemiller"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=2600+ashland+avenue+lorain%2C+ohio%2C+44052+united+states"
+},
+{
+"text": "0",
+"href": "https://www.joemillerforohio.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Coalition for Hispanic/Latino Issues & Progress (CHIP)",
+"href": "https://chiplorain.org/advocacy/"
+},
+{
+"text": "Contact",
+"href": "https://www.joemillerforohio.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/friendsofjoemillerohio"
+},
+{
+"text": "Events",
+"href": "https://www.joemillerforohio.com/events-1"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CHIP+Candidates+Forum&dates=20261006T223000Z%2F20261007T013000Z&location=2600+Ashland+Avenue%2C+Lorain%2C+Ohio%2C+44052%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.joemillerforohio.com/events-1/chip-candidates-forum?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.joemillerforohio.com/issues"
+},
+{
+"text": "Joe's Listening Tour",
+"href": "https://www.joemillerforohio.com/joes-listening-tour"
+},
+{
+"text": "Meet Joe",
+"href": "https://www.joemillerforohio.com/meetjoe"
+},
+{
+"text": "Next Next October 7 Early Voting Rally and Fundraiser",
+"href": "https://www.joemillerforohio.com/events-1/early-voting-rally-and-fundraiser"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.joemillerforohio.com/privacy-policy"
+},
+{
+"text": "Previous Previous October 5 Town Hall on Data Centers with Representative Rader",
+"href": "https://www.joemillerforohio.com/events-1/town-hall-on-data-centers-with-representative-rader"
+},
+{
+"text": "[image: Joe Miller For Ohio]",
+"href": "https://www.joemillerforohio.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/repjoemiller"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JoeMillerforOhio/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/joemillerohio/"
+}
 ]

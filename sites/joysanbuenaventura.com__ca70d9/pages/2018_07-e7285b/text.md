@@ -1,14 +1,4 @@
-Legislative year 2018 accomplishments
-HAWAII ISLAND - Along with the long list of Capital Improvement Projects, lawmakers were also able to secure $5.4 million in Grants-In-Aid CIP for Big Island nonprofit organizations.
-Big Island…
-Skip to content
-Monthly Archives: July 2018
-Legislative year 2018 accomplishments
-HAWAII ISLAND - Along with the long list of Capital Improvement Projects, lawmakers were also able to secure $5.4 million in Grants-In-Aid CIP for Big Island nonprofit organizations.
-Big Island…
-Pahoa shelter for Lava evacuees
-The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
-The project began…
-support housing for evacuees
-Rep.
-San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and…
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Search this website Monthly Archives: July 2018 Home > 2018 > July Legislative year 2018 accomplishments Post author: ellen Post published: July 5, 2018 Post category: legislation HAWAII ISLAND - Along with the long list of Capital Improvement Projects, lawmakers were also able to secure $5.4 million in Grants-In-Aid CIP for Big Island nonprofit organizations.
+Big Island… Continue Reading Legislative year 2018 accomplishments Pahoa shelter for Lava evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption / housing The Sacred Heart Shelter, comprises of 20 housing units, a central pavilion, two 8x8 offices, two restrooms, shower facilities for men, women and an ADA compliant facility.
+The project began… Continue Reading Pahoa shelter for Lava evacuees support housing for evacuees Post author: ellen Post published: July 5, 2018 Post category: disaster / eruption Rep.
+San Buenaventura asks Governor to issue executive orders supporting housing for Kilauea eruption evacuees Honolulu, Hawaiʻi – With the Hawaiʻi Island lava flow continuing to expand, destroying homes and… Continue Reading support housing for evacuees Recent Posts Mahalo Veteran Day Address Food Drive Candidate Spotlight MAHALO TO ALL Recent Comments Archives December 2020 October 2020 September 2020 August 2020 July 2020 June 2020 May 2020 September 2018 July 2018 May 2018 April 2018 March 2018 February 2018 Categories agriculture campaign Covid disaster eruption health HOA housing internet legislation transportation Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

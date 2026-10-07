@@ -1,4 +1,4 @@
-Teachers play a vital role in inspiring the next generation of Texas leaders.
+Text JOIN to 55233 for alerts from Team Abbott Bio Issues News Abbott Endorsements Blog Get Involved Endorse Greg Abbott Download the App Contribute Store Abbott Endorsements Select Page Governor Abbott Invests Big in the Educators Shaping the Texas of Tomorrow Jun 18, 2026 Teachers play a vital role in inspiring the next generation of Texas leaders.
 That’s why Governor Greg Abbott has made it a top priority to ensure that those exemplary educators making a profound investment in the future of the Lone Star State are rewarded properly.
 2025 was a landmark year for education.
 Working with the Texas Legislature, Governor Abbott successfully delivered nearly $4 billion for permanent teacher pay raises, and made major enhancements to the merit-based pay program, Teacher Incentive Allotment (TIA).
@@ -21,3 +21,5 @@ In June 2026, Governor Abbott announced that more than $750 million was awarded 
 Since 2019, TIA has awarded nearly $2 billion to highly effective and impactful teachers across the state.
 Governor Abbott remains focused on delivering a Texas of tomorrow that is even brighter than the Texas of today.
 With empowered parents, exemplary teachers, and exceptional academics, the Lone Star State is well on its way to that bold and better future that places Texas at the top when it comes to educating our children.
+Facebook X Instagram Political Ad paid for by Texans for Greg Abbott, PO Box 308, Austin, TX 78767. © #.
+All rights reserved.

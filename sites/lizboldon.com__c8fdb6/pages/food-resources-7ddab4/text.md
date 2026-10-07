@@ -1,159 +1,46 @@
-Food Resources:
-Channel One Regional Food Bank (Food Shelf & Grocery Delivery) 507.287.2350
-131 35th Street SE, Rochester, MN 55904
-Provides indoor shopping Monday–Thursday (8 a–6 p) and Friday (8 a–noon).
+0 Skip to Content Home Meet Liz Priorities Endorsements Contact Us Request a lawn sign!
+Donate Open Menu Close Menu Home Meet Liz Priorities Endorsements Contact Us Request a lawn sign!
+Donate Open Menu Close Menu Home Meet Liz Priorities Endorsements Contact Us Request a lawn sign!
+Donate Food Resources: Channel One Regional Food Bank (Food Shelf & Grocery Delivery) 507.287.2350 131 35th Street SE, Rochester, MN 55904 Provides indoor shopping Monday–Thursday (8 a–6 p) and Friday (8 a–noon).
 Weekly visits are allowed.
 If you are new to Channel One, registration takes a few minutes.
-No appointment is needed, and no identification, proof of address, proof of income, or proof of household size is required.
-https://www.helpingfeedpeople.org/
-125 Live Community Center Pantry 507.287.1404
-125 Elton Hills Dr NW, Rochester MN 55901 Lower Level
-Monday, Tuesday, Thursday and Friday from 1:00pm – 2:30pm and Saturday 11:30 am –12:30 pm.
+No appointment is needed, and no identification, proof of address, proof of income, or proof of household size is required. https://www.helpingfeedpeople.org/ 125 Live Community Center Pantry 507.287.1404 125 Elton Hills Dr NW, Rochester MN 55901 Lower Level Monday, Tuesday, Thursday and Friday from 1:00pm – 2:30pm and Saturday 11:30 am –12:30 pm.
 No income requirements; one bag per household.
 Open to all Members and the public, targeting older adults.
-Photo ID required.
-https://125livemn.org/food-pantry/
-Hosanna Food Ministries (Hosanna’s Pantry) 507.285.0092
-2815 57th ST NW, Rochester MN
-Monthly pantry (4th Saturday of the month 9:00–11:30am) distributing food & personal-care items. https://www.hosannalutheran.org/hosanna-food-ministries
-Life Gate Pantry 507.206.3174
-1310 10th Ave NE, Rochester MN
-1st and 3rd Saturdays of the month 10:00am - 12:00 (noon).
+Photo ID required. https://125livemn.org/food-pantry/ Hosanna Food Ministries (Hosanna’s Pantry) 507.285.0092 2815 57th ST NW, Rochester MN Monthly pantry (4th Saturday of the month 9:00–11:30am) distributing food & personal-care items. https://www.hosannalutheran.org/hosanna-food-ministries Life Gate Pantry 507.206.3174 1310 10th Ave NE, Rochester MN 1st and 3rd Saturdays of the month 10:00am - 12:00 (noon).
 African and Hispanic cultural foods are included in the food served.
-Follow on Facebook at LifeGate Services.
-Oasis Church 507.289.8596
-3819 18th Ave NW Rochester, MN 55901
-Every 3rd Saturday of each month from 10:00am - 11:30am Grocery’s & Warm meal.
-https://www.oasisrochester.org/supermarket-saturday
-Pamoja Pantry 507.226.8101
-829 3rd Ave SE Ste 205, Rochester MN
-We partner with Channel One Food Bank to offer hot, culturally appropriate meals (East African) and a food pantry stocked with culturally appropriate foods.
-The Salvation Army Food Pantry 507.288.3663
-115 1st Ave NE, Rochester MN
-Food Shelf Tuesday & Friday 10:00am - 3:30pm
-Bread Shelf Mon-Friday stocked at 8:00am on Wednesdays
-https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/
-Little Pantries in Rochester
-Northwest – 55901
-Family Promise Rochester, 913 1st St NW, Rochester
-Forager Little Free Pantry 1005 6th St NW, Rochester
-Gloria Dei Lutheran Church Little Pantry 1212 12th Ave NW, Rochester
-Hosanna Lutheran Church Helping Hands Pantry, 2815 57th St NW, Rochester
-Southwest - 55902
-Christ United Methodist 400 5th Ave SW, Rochester
-People of Hope 3703 Country Club Road Southwest, Rochester
-Zumbro Lutheran Church mini pantry, 624 3rd Ave SW, Rochester
-Southeast - 55904
-Hope Summit Christian Church 1315 6th Ave SE, Rochester
-Next Chapter Ministries 720 3rd Ave SE, Rochester
-Redeemer Lutheran Church Little Free Pantry 869 7th Ave SE, Rochester
-Slatterly Neighborhood Little Free Pantry 869 7th Ave SE, Rochester
-Northeast - 55906
-Recovery Is Happening 25 16th St NE, Rochester
-https://www.facebook.com/LittleFreePantriesofRochesterMN/
-Free Bread
-Great Harvest Bread
-North Broadway and 2483 Commerce Drive NW
-Walk in and take what you need from the shelf that is labeled.
-Salvation Army Bread Pantry 507.288.3663
-115 1st Ave NE, Rochester, MN
-Guests are welcome to take bread from our free bread pantry stocked at 8:00am Monday – Friday.
-Pet Pantries
-Hawthrone Education Center (Pet Pantry)
-700 4th Ave SE, Rochester
-Paws & Claws (Bin on backside of building) 507.288.7226
-3224 19th St.
-NW, Rochester
-Free & Prepared Meals
-Community Food Response (CFR) 507.281.5061
-120 1st St NE, Rochester MN (Salvation Army Campus) Prepared meals and take-home dishes (soups, sandwiches, hot meals) no eligibility requirements.
+Follow on Facebook at LifeGate Services. https://lifegateservices.org/ Oasis Church 507.289.8596 3819 18th Ave NW Rochester, MN 55901 Every 3rd Saturday of each month from 10:00am - 11:30am Grocery’s & Warm meal. https://www.oasisrochester.org/supermarket-saturday Pamoja Pantry 507.226.8101 829 3rd Ave SE Ste 205, Rochester MN We partner with Channel One Food Bank to offer hot, culturally appropriate meals (East African) and a food pantry stocked with culturally appropriate foods. https://www.pamojawomen.org The Salvation Army Food Pantry 507.288.3663 115 1st Ave NE, Rochester MN Food Shelf Tuesday & Friday 10:00am - 3:30pm Bread Shelf Mon-Friday stocked at 8:00am on Wednesdays https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/ Little Pantries in Rochester Northwest – 55901 Family Promise Rochester, 913 1st St NW, Rochester Forager Little Free Pantry 1005 6th St NW, Rochester Gloria Dei Lutheran Church Little Pantry 1212 12th Ave NW, Rochester Hosanna Lutheran Church Helping Hands Pantry, 2815 57th St NW, Rochester Southwest - 55902 Christ United Methodist 400 5th Ave SW, Rochester People of Hope 3703 Country Club Road Southwest, Rochester Zumbro Lutheran Church mini pantry, 624 3rd Ave SW, Rochester Southeast - 55904 Hope Summit Christian Church 1315 6th Ave SE, Rochester Next Chapter Ministries 720 3rd Ave SE, Rochester Redeemer Lutheran Church Little Free Pantry 869 7th Ave SE, Rochester Slatterly Neighborhood Little Free Pantry 869 7th Ave SE, Rochester Northeast - 55906 Recovery Is Happening 25 16th St NE, Rochester https://www.facebook.com/LittleFreePantriesofRochesterMN/ Free Bread Great Harvest Bread North Broadway and 2483 Commerce Drive NW Walk in and take what you need from the shelf that is labeled.
+Salvation Army Bread Pantry 507.288.3663 115 1st Ave NE, Rochester, MN Guests are welcome to take bread from our free bread pantry stocked at 8:00am Monday – Friday.
+Pet Pantries Hawthrone Education Center (Pet Pantry) 700 4th Ave SE, Rochester Paws & Claws (Bin on backside of building) 507.288.7226 3224 19th St.
+NW, Rochester Free & Prepared Meals Community Food Response (CFR) 507.281.5061 120 1st St NE, Rochester MN (Salvation Army Campus) Prepared meals and take-home dishes (soups, sandwiches, hot meals) no eligibility requirements.
 No proof of eligibility is required to receive food.
 All who need food are welcome.
 The food we distribute is rescued from hospitals, restaurants, caterers, grocery stores and other commercial kitchens in Rochester.
 In addition to helping people in need, CFR helps reduce the amount of food waste generated by area businesses.
-Drop-in Monday, Wednesday and Friday 4:00pm-6:00pm.
-https://www.communityfoodresponse.org/
-Open Table Food Truck 507.288.2649
-Open Table is a mobile food ministry that serves a meal every Thursday evening to guests in SE Rochester.
+Drop-in Monday, Wednesday and Friday 4:00pm-6:00pm. https://www.communityfoodresponse.org/ Open Table Food Truck 507.288.2649 Open Table is a mobile food ministry that serves a meal every Thursday evening to guests in SE Rochester.
 All are welcome.
 No registration required.
 Anyone who desires a free meal is welcome.
-Summer Locations (June-Oct.):
-5:00 – 5:45pm Parkside Park
-6:00 – 6:30pmEastridge Estates
-Winter Locations (Nov.-May):
-5:00pm Oak Terrace mailboxes
-5:30pm Parkside mailboxes
-6:00pm Eastridge Estates
-https://www.zumbrolutheran.org/open-table
-Salvation Army 507.288.3663
-115 1st First Ave NE, Rochester MN
-Free lunch served Monday - Friday 11:30am – 12:30pm
-https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/
-The Landing 507.884.0423
-426 3rd Ave SE Rochester, MN – Unhoused guests have access to the cafe throughout the day for breakfast / lunch / snacks and are served a hot meal each day during dinner service.
-Community Free & Prepared meals for Seniors
-Family Service Rochester Senior Café (for seniors)
-Senior Cafe 1625 Hwy 14 E, Rochester MN Meals Monday and Tuesday at 11:30am (call by 2:00pm the day before); $4 suggested donation (free if unable to pay)
-https://familyservicerochester.org/Senior-Cafe
-Meals on Wheels 507.287.2010
-Meals on Wheels provides home delivered, dietetically correct, hot, nutritious meals to Rochester seniors.
-https://familyservicerochester.org/Meals-On-Wheels/
-SEMCAC Senior Dining
-Anyone age 60 and over.
+Summer Locations (June-Oct.): 5:00 – 5:45pm Parkside Park 6:00 – 6:30pmEastridge Estates Winter Locations (Nov.-May): 5:00pm Oak Terrace mailboxes 5:30pm Parkside mailboxes 6:00pm Eastridge Estates https://www.zumbrolutheran.org/open-table Salvation Army 507.288.3663 115 1st First Ave NE, Rochester MN Free lunch served Monday - Friday 11:30am – 12:30pm https://centralusa.salvationarmy.org/northern/rochester/programs-and-services/ The Landing 507.884.0423 426 3rd Ave SE Rochester, MN – Unhoused guests have access to the cafe throughout the day for breakfast / lunch / snacks and are served a hot meal each day during dinner service. https://www.thelandingmn.org/ Community Free & Prepared meals for Seniors Family Service Rochester Senior Café (for seniors) Senior Cafe 1625 Hwy 14 E, Rochester MN Meals Monday and Tuesday at 11:30am (call by 2:00pm the day before); $# suggested donation (free if unable to pay) https://familyservicerochester.org/Senior-Cafe Meals on Wheels 507.287.2010 Meals on Wheels provides home delivered, dietetically correct, hot, nutritious meals to Rochester seniors. https://familyservicerochester.org/Meals-On-Wheels/ SEMCAC Senior Dining Anyone age 60 and over.
 Spouses are automatically included regardless of age.
 Diners are given the opportunity to donate toward the cost of the meal.
 Donation guidelines are posted at the sites.
 No one is denied a meal because of inability to contribute.
 Food Stamp EBT, debit and credit cards are welcome.
 A reservation made 24 hours in advance is required.
-Contact your local dining site between the hours of 9:00 a.m. and 12:00 noon to reserve your meal for the following day.
-https://www.semcac.org/senior-dining/
-Church & Community Meal Programs
-Christ United Methodist 507.289.4019, 400 5th Ave SW, Rochester, MN
-Wednesday Soup Dinner 5:20pm (During school year)
-Saturday appetizers at 11:00am, lunch served at 12:00pm (noon), https://cumethodist.com/saturdaynoonmeals/
-St.
-Francis of Assisi Church 507.288.7313, 1114 3rd St SE, Rochester MN
-The Sunday Lunch Program is a weekly, noon meal sponsored by the six Rochester Catholic Parishes and provided at no cost to any needy person in the Rochester Community. https://www.stfrancis-church.org/ministry-and-outreach
-Oasis Church 507.289.8596
-3819 18th Ave NW Rochester, MN 55901
-Every 3rd Saturday of each month from 10:00am - 11:30am Grocery’s & Warm meal.
-https://www.oasisrochester.org/supermarket-saturday
-Peace United Church of Christ
-1503 2nd Ave NE, Rochester MN 55906
-We really look forward to making Tuesday evenings the highlight of your week with a chance to share a meal, enjoy a presentation 6:00pm –7:00 pm (as scheduled) and get to know your Peace Community.
-https://www.peaceunited.us/events
-The Exchange
-3945 10th Ave NW, Rochester MN 55906
-Neighborhood Dinner Thursdays 3:00-5:00.
+Contact your local dining site between the hours of 9:00 a.m. and 12:00 noon to reserve your meal for the following day. https://www.semcac.org/senior-dining/ Church & Community Meal Programs Christ United Methodist 507.289.4019, 400 5th Ave SW, Rochester, MN Wednesday Soup Dinner 5:20pm (During school year) Saturday appetizers at 11:00am, lunch served at 12:00pm (noon), https://cumethodist.com/saturdaynoonmeals/ St.
+Francis of Assisi Church 507.288.7313, 1114 3rd St SE, Rochester MN The Sunday Lunch Program is a weekly, noon meal sponsored by the six Rochester Catholic Parishes and provided at no cost to any needy person in the Rochester Community. https://www.stfrancis-church.org/ministry-and-outreach Oasis Church 507.289.8596 3819 18th Ave NW Rochester, MN 55901 Every 3rd Saturday of each month from 10:00am - 11:30am Grocery’s & Warm meal. https://www.oasisrochester.org/supermarket-saturday Peace United Church of Christ 1503 2nd Ave NE, Rochester MN 55906 We really look forward to making Tuesday evenings the highlight of your week with a chance to share a meal, enjoy a presentation 6:00pm –7:00 pm (as scheduled) and get to know your Peace Community. https://www.peaceunited.us/events The Exchange 3945 10th Ave NW, Rochester MN 55906 Neighborhood Dinner Thursdays 3:00-5:00.
 Prep and dinner served at 5:30.
-Family style meal that you help prepare.
-https://www.exchangeco-op.org/activities
-Oronoco Food Shelf 507.367.4711
-Presbyterian Church of Oronoco, 20 3rd St SW, Oronoco 55960
-2nd & 4th Wednesdays 5-6:30pm.
+Family style meal that you help prepare. https://www.exchangeco-op.org/activities Oronoco Food Shelf 507.367.4711 Presbyterian Church of Oronoco, 20 3rd St SW, Oronoco 55960 2nd & 4th Wednesdays 5-6:30pm.
 We provide a welcoming place with good food options for those in northern Olmsted County.
 Like a small grocery store, we hope that everyone will feel comfortable finding the items they might need for pantry and fridge.
 Will ask for your zip code and the number of people in the household that you are shopping for (seniors, adults, children).
 There is no cost.
-Other Supportive Programs
-Commodity Supplemental Food Program 507-287-2350 or 1-877-500-8699
-Channel One Food Bank (Serves Dodge, Faribault, Fillmore, Freeborn, Goodhue, Houston, Mower, Olmsted, Rice, Steele, Wabasha, Waseca, and Winona counties.)
-A monthly supply of food, nutritionally designed for individuals 60 years of age and older, to enhance monthly groceries.
+Other Supportive Programs Commodity Supplemental Food Program 507-287-2350 or 1-877-500-8699 Channel One Food Bank (Serves Dodge, Faribault, Fillmore, Freeborn, Goodhue, Houston, Mower, Olmsted, Rice, Steele, Wabasha, Waseca, and Winona counties.) A monthly supply of food, nutritionally designed for individuals 60 years of age and older, to enhance monthly groceries.
 Participants select what they need from specific food options.
-Prepare their own meals and do not live in a facility that provides meals. https://www.health.state.mn.us/people/csfp/income.html
-https://www.health.state.mn.us/taxonomy/term/1229
-Diaper Club/Family Resource Center 507.218.3255
-930 40th St NW, Rochester MN
-No income guidelines or ID required.
+Prepare their own meals and do not live in a facility that provides meals. https://www.health.state.mn.us/people/csfp/income.html https://www.health.state.mn.us/taxonomy/term/1229 Diaper Club/Family Resource Center 507.218.3255 930 40th St NW, Rochester MN No income guidelines or ID required.
 May receive diapers up to once per week.
 Thursdays 8:30am-6:00pm.
-Application form https://forms.office.com/r/vir0mZ6VS7
-WIC Assistance (Women’s Infants and Children) 507.328.7555
-2100 Campus Dr SE, Rochester MN
-WIC (Women Infants and Children) serves families with infants and children up to age five and pregnant and postpartum people.
-All families are welcome at WIC, including dads, grandparents, foster parents, and working families.
-https://www.olmstedcounty.gov/residents/services-individuals-families/child-youth/WIC
-Current as of 10/27/2025 10:00am
-Resource list prepared by Three Rivers Community Action Program and Workforce Development, Inc.
+Application form https://forms.office.com/r/vir0mZ6VS7 WIC Assistance (Women’s Infants and Children) 507.328.7555 2100 Campus Dr SE, Rochester MN WIC (Women Infants and Children) serves families with infants and children up to age five and pregnant and postpartum people.
+All families are welcome at WIC, including dads, grandparents, foster parents, and working families. https://www.olmstedcounty.gov/residents/services-individuals-families/child-youth/WIC Current as of 10/27/2025 10:00am Resource list prepared by Three Rivers Community Action Program and Workforce Development, Inc.
+Prepared and paid for by the Neighbors for Liz Boldon Committee, PO Box 7564 Rochester, MN, 55903-7564 Made with Squarespace Resources Senate District 25 Map Look up your district & representatives here Voting info at the MN Secretary of State webpage here Food Resources Anti-Racism Resources Public media/images available here Follow Facebook Instagram YouTube

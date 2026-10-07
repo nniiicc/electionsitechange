@@ -1,12 +1,4 @@
-Back to All Events
-Booth hours:
-- Friday, September 18: 12:00–8:00 p.m.
-- Saturday, September 19: 11:00 a.m.–8:00 p.m.
-- Sunday, September 20: 11:00 a.m.–6:00 p.m.
-Previous
-Previous
-September 6
-Lorain County Organized Labor’s Annual Labor Day Family Celebration
-Next
-Next
-September 25
+0 Skip to Content Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Open Menu Close Menu Issues Meet Joe Events Contact Joe's Listening Tour DONATE Back to All Events Elyria Apple Festival Friday, September 18, 2026 10:00 AM Sunday, September 20, 2026 4:00 PM Ely Square Elyria, Ohio, 44035 United States (map) Google Calendar ICS Booth hours: Friday, September 18: 12:00–8:00 p.m.
+Saturday, September 19: 11:00 a.m.–8:00 p.m.
+Sunday, September 20: 11:00 a.m.–6:00 p.m.
+Previous Previous September 6 Lorain County Organized Labor’s Annual Labor Day Family Celebration Next Next September 25 Willard Hispanic Heritage Month Celebration DONATE Paid for by Friends of Joe Miller ©# FRIENDS OF JOE MILLER PRIVACY POLICY

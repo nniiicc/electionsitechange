@@ -1,5 +1,5 @@
-Transit
-Accessible, well-funded public transit is key to climate resilience and connecting communities.
+Search for: Search × Sign In Email address Password Remember Me × Home Bills News Meet Meghan Values Volunteer Vote In-Person Early Voting and Emergency Voting Vote By Mail Contact Donate DONATE Transit Homepage Transit Transit Transit Accessible, well-funded public transit is key to climate resilience and connecting communities.
 I believe that transit infrastructure, including reliable bus service and bicycle routes, is critical to keeping our neighborhoods and communities healthy, safe, and accessible.
 Many people in Pawtucket depend on public transit, and we must ensure that it is dependable.
-Read Meghan’s Values
+Read Meghan’s Values " Transit Meet Meghan Meghan is committed to bringing the voices of the people of Pawtucket and Providence to the State House.
+Learn More Resources News COVID-19 Resources Vote Census Reading & Resources Newsletter Signup © Paid for by Friends of Meghan Kallman 2023 English Spanish English Skip to content Open toolbar Accessibility Tools Increase Text Decrease Text Grayscale High Contrast Negative Contrast Light Background Links Underline Readable Font Reset

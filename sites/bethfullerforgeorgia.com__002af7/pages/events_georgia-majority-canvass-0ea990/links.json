@@ -1,19 +1,78 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Georgia+Majority+Canvass&dates=20260802T153000Z%2F20260802T173000Z&location=1250+West+Paces+Ferry+Road+Northwest%2C+Atlanta%2C+Georgia%2C+30327%2C+United+States",
-"http://maps.google.com/?q=1250+West+Paces+Ferry+Road+Northwest+Atlanta%2C+Georgia%2C+30327+United+States",
-"https://bethfullerforgeorgia.com/",
-"https://bethfullerforgeorgia.com/articles",
-"https://bethfullerforgeorgia.com/cart",
-"https://bethfullerforgeorgia.com/endorsements",
-"https://bethfullerforgeorgia.com/events",
-"https://bethfullerforgeorgia.com/events/georgia-majority-canvass?format=ical",
-"https://bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch-1",
-"https://bethfullerforgeorgia.com/events/roswell-canvass",
-"https://bethfullerforgeorgia.com/get-involved",
-"https://bethfullerforgeorgia.com/meet-beth",
-"https://bethfullerforgeorgia.com/policy-priorities",
-"https://facebook.com/profile.php?id=61584803198605",
-"https://instagram.com/bethfuller4ga",
-"https://secure.actblue.com/donate/elizabeth-fuller-1",
-"https://secure.ngpvan.com/onNLGgJcT0e5n4hswZHX7w2?emci=31a1f9f5-6980-f111-b337-000d3a1558ce&emdi=d4c6a33b-4081-f111-b337-000d3a1558ce&ceid=567020"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=1250+west+paces+ferry+road+northwest+atlanta%2C+georgia%2C+30327+united+states"
+},
+{
+"text": "0",
+"href": "https://www.bethfullerforgeorgia.com/cart"
+},
+{
+"text": "Articles",
+"href": "https://www.bethfullerforgeorgia.com/articles"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.actblue.com/donate/elizabeth-fuller-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bethfullerforgeorgia.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.bethfullerforgeorgia.com/events"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bethfullerforgeorgia.com/get-involved"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Georgia+Majority+Canvass&dates=20260802T153000Z%2F20260802T173000Z&location=1250+West+Paces+Ferry+Road+Northwest%2C+Atlanta%2C+Georgia%2C+30327%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://www.bethfullerforgeorgia.com/events/georgia-majority-canvass?format=ical"
+},
+{
+"text": "Meet Beth",
+"href": "https://www.bethfullerforgeorgia.com/meet-beth"
+},
+{
+"text": "Next Next August 5 Roswell Canvass",
+"href": "https://www.bethfullerforgeorgia.com/events/roswell-canvass"
+},
+{
+"text": "Policy Priorities",
+"href": "https://www.bethfullerforgeorgia.com/policy-priorities"
+},
+{
+"text": "Previous Previous July 31 North Fulton Dems Canvass Launch",
+"href": "https://www.bethfullerforgeorgia.com/events/north-fulton-dems-canvass-launch-1"
+},
+{
+"text": "[image: Beth Fuller for Georgia | District 53 State House]",
+"href": "https://www.bethfullerforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61584803198605"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bethfuller4ga/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@bethfullerforgeorgia.com"
+},
+{
+"text": "https://secure.ngpvan.com/onNLGgJcT0e5n4hswZHX7w2?emci=31a1f9f5-6980-f111-b337-000d3a1558ce&emdi=d4c6a33b-4081-f111-b337-000d3a1558ce&ceid=567020",
+"href": "https://secure.ngpvan.com/onNLGgJcT0e5n4hswZHX7w2?emci=31a1f9f5-6980-f111-b337-000d3a1558ce&emdi=d4c6a33b-4081-f111-b337-000d3a1558ce&ceid=567020"
+}
 ]

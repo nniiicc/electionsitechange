@@ -1,5 +1,4 @@
-Fighting for Our Environment
-Emily believes that every legislative issue must be examined through the long-term lens of how it impacts the environment.
+0 Skip to Content Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Priorities Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Join Team Shetty Join Team Shetty About D18 Contact Us Open Menu Close Menu Meet Emily Scholarships & Service Folder: Priorities Back Putting Families First Improving Every School Fighting for Our Environment Reducing Traffic Protecting Our Healthcare Standing with Immigrants Folder: Join Team Shetty Back Join Team Shetty About D18 Contact Us Fighting for Our Environment Emily believes that every legislative issue must be examined through the long-term lens of how it impacts the environment.
 If reelected, she will continue to pursue legislation requiring the Department of Legislative Services to include as part of their analysis of each bill the impact the measure would have on the environment and climate change.
 Currently, the Department is required to evaluate every bill’s impact on the state budget.
 Analyzing a bill’s impact on the budget alone does not provide legislators adequate information to understand the deep impact that an effort could have on slowing or accelerating the rate of climate change.
@@ -14,3 +13,5 @@ This will aide in improving resiliency and adaptation to climate change in our u
 As your Delegate, Emily has passed laws to increase composting throughout the state and is an active member of the House of Delegates’ Pathway to Zero Waste Legislative Workgroup.
 She has also passed legislation unanimously through the House to bring the business community to the table to partner to reach our climate mitigation goals.
 If reelected, she will continue to work to advance a variety of environmentally friendly policy issues currently under consideration in the House of Delegates.
+Friends of Emily Shetty PO Box 642 Kensington, MD 20895 By authority: Friends of Emily Shetty.
+Bob Levering, Treasurer.

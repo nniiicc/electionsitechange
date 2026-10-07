@@ -1,5 +1,4 @@
-Make an Impact Today — Donate
-Your donation helps Tiffany reach voters.
+0 Skip to Content Tiffany Brault for Wisconsin State Assembly Home About Issues Donate Voter Information Open Menu Close Menu Tiffany Brault for Wisconsin State Assembly Home About Issues Donate Voter Information Open Menu Close Menu Home About Issues Donate Voter Information Make an Impact Today — Donate Your donation helps Tiffany reach voters.
 Democracy should belong to ALL of us.
 Elections shouldn’t be decided by wealthy donors and special interest groups.
 By donating to local candidates like Tiffany, you help us amplify the voice of working class Wisconsinites at the state level.
@@ -14,3 +13,4 @@ You can help Tiffany reach voters by knocking doors, making phone calls, or addr
 Maybe you’d like to host a fundraiser or meet-and-greet?
 Or would you like Tiffany to come speak to your group?
 Fill out the form and let us know!
+Tiffany Brault for Wisconsin State Assembly Paid for by Friends of Tiffany Brault Donate Donate

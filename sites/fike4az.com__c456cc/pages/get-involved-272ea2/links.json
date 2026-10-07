@@ -1,12 +1,54 @@
 [
-"https://buy.stripe.com/5kQdR28qt38d7QKdWJ87K00",
-"https://fike4az.com/",
-"https://fike4az.com/about",
-"https://fike4az.com/about-9",
-"https://fike4az.com/category/all-products",
-"https://fike4az.com/contact",
-"https://fike4az.com/events-1",
-"https://fike4az.com/general-9",
-"https://fike4az.com/get-involved",
-"https://fike4az.com/my-priorities"
+{
+"text": "About",
+"href": "https://www.fike4az.com/about"
+},
+{
+"text": "Barbara Fike",
+"href": "https://www.fike4az.com"
+},
+{
+"text": "Contact",
+"href": "https://www.fike4az.com/contact"
+},
+{
+"text": "Donate to My Campaign",
+"href": "https://buy.stripe.com/5kQdR28qt38d7QKdWJ87K00"
+},
+{
+"text": "Events",
+"href": "https://www.fike4az.com/events-1"
+},
+{
+"text": "For AZ Representative LD 28",
+"href": "https://www.fike4az.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fike4az.com/get-involved"
+},
+{
+"text": "Get to Know Me",
+"href": "https://www.fike4az.com/about-9"
+},
+{
+"text": "Home",
+"href": "https://www.fike4az.com"
+},
+{
+"text": "My Priorities",
+"href": "https://www.fike4az.com/my-priorities"
+},
+{
+"text": "Running Clean Elections",
+"href": "https://www.fike4az.com/general-9"
+},
+{
+"text": "Shop",
+"href": "https://www.fike4az.com/category/all-products"
+},
+{
+"text": "bfikeazrep@gmail.com",
+"href": "mailto:bfikeazrep@gmail.com"
+}
 ]

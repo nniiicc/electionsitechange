@@ -1,5 +1,4 @@
-January 9, 2021
-This has been quite the week.
+Home Donate Blog News About Connect What a Week January 9, 2021 This has been quite the week.
 I think I know how you feel.
 Frustrated.
 Disappointed.
@@ -10,19 +9,17 @@ In all my life, I have never worked harder than I did over the last two months s
 My days and nights were absolutely consumed by figuring out ways to get to the truth and to figure out what I, as a state legislator, was capable of doing about it.
 Next week, I’ll take inventory of all the letters I signed, lawsuits I joined, and other efforts I made to address this matter.
 But for now, I wanted to share with you a letter I sent to all my Republican colleagues in Harrisburg on January 2 in an attempt to get them to join me to exercise the General Assembly’s authority on your behalf to decertify Pennsylvania’s presidential electors.
-Colleagues-
-As swearing-in day fast approaches, I find myself reflecting on the extraordinary times we live in, and our role as members of the Pennsylvania General Assembly.
+Colleagues- As swearing-in day fast approaches, I find myself reflecting on the extraordinary times we live in, and our role as members of the Pennsylvania General Assembly.
 For the last 10 months we have witnessed the Governor’s contempt for the legislative process, as we moaned and complained about him ignoring our will.
 For the last couple years we have bemoaned the Supreme Court’s overstepping of its proper role, starting with the redistricting fiasco, running through our fight to terminate the disaster emergency, and finally topping it off by undermining every last security feature we built into Act 77.
 I don’t need to remind you what our constituents think about all this – you’re likely hearing their adamant frustration just like I am.
 The aftermath of the 2020 General Election appears to be a tipping point.
 We’ve come to a pivotal and defining moment.
 Over the last few months there have been over two dozen separate efforts by members to “do something” about this election.
-I won’t list them all, but I see the names of those who joined those efforts, including 39 co-sponsors of HR1094 on the very last day of our previous session, 70 members who joined an amicus brief to the US Supreme Court in Texas v Pennsylvania, and 59 members - including six members of our House Republican leadership team - who signed a letter to Congress urging an objection to Pennsylvania’s purported slate of presidential electors.
+I won’t list them all, but I see the names of those who joined those efforts, including 39 co-sponsors of HR1094 on the very last day of our previous session, 70 members who joined an amicus brief to the US Supreme Court in Texas v Pennsylvania , and 59 members - including six members of our House Republican leadership team - who signed a letter to Congress urging an objection to Pennsylvania’s purported slate of presidential electors.
 My question to you is: Did you really mean it?
 If so, then I ask you to reflect on our oath for a moment and consider what it means.
-"I do solemnly swear (or affirm) that I will support, obey and defend the Constitution of the United States and the Constitution of this Commonwealth and that I will discharge the duties of my office with fidelity."
-In light of the actions of the Executive and Judicial branches to contravene and undermine our plenary authority over the appointment of electors of President and Vice President under the Constitution of the United States, what exactly is your plan to “support, obey, and defend” that document?
+"I do solemnly swear (or affirm) that I will support, obey and defend the Constitution of the United States and the Constitution of this Commonwealth and that I will discharge the duties of my office with fidelity." In light of the actions of the Executive and Judicial branches to contravene and undermine our plenary authority over the appointment of electors of President and Vice President under the Constitution of the United States, what exactly is your plan to “support, obey, and defend” that document?
 We only have a few days left to act.
 If we don’t act, what do you think the 2021-22 legislative session be like?
 Let me tell you what it will be like: we will accomplish nothing of significance.
@@ -39,8 +36,7 @@ The way to attempt to put a stop to it is by taking a stand to defend the consti
 Yes, it’s an extraordinary measure, but these are extraordinary times and extraordinary times call for extraordinary action.
 Because we are the caucus of law and order, you can take comfort in the fact that decertifying the electors is perfectly legal and well within our authority as the legislative branch of state government.
 In McPherson v.
-Blacker the Supreme Court of United States held that "The appointment of these electors is thus placed absolutely and wholly with the legislatures of the several States… Whatever provisions may be made by statute, or by the state constitution, to choose electors by the people, there is no doubt of the right of the legislature to resume the power at any time, for it can neither be taken away nor abdicated.”
-The other side doesn’t care about the rule of law, but we do - and decertifying the electors is not a deviation from that fundamental difference between us and them.
+Blacker the Supreme Court of United States held that "The appointment of these electors is thus placed absolutely and wholly with the legislatures of the several States… Whatever provisions may be made by statute, or by the state constitution, to choose electors by the people, there is no doubt of the right of the legislature to resume the power at any time, for it can neither be taken away nor abdicated.” The other side doesn’t care about the rule of law, but we do - and decertifying the electors is not a deviation from that fundamental difference between us and them.
 I also view this as similar to the way I got myself out from under a bully when I was a kid.
 I sat there and just took it for a very long time until one day I’d finally had enough and stood up and punched him square in the mouth.
 He never bothered me again.
@@ -88,10 +84,7 @@ Many of you have stood with me in the hall of the House as I swore my oath the p
 So I ask you once again: Did you really mean it?
 I did.
 I take my oath seriously, and would honor it even if I were the only one among my 64,000 constituents who thought it was the right thing to do, and even if in the end it meant that my time as one of your colleagues might come to an end.
-Respectfully,
-Representative Russ Diamond
-102nd Legislative District
-I repeated this plea to my colleagues on January 4, the day before we convened to be sworn into office in the Hall of the House.
+Respectfully, Representative Russ Diamond 102nd Legislative District I repeated this plea to my colleagues on January 4, the day before we convened to be sworn into office in the Hall of the House.
 While 25-30 of my colleagues were with me, I regret that I could not sway everyone.
 This is how the House of Representatives works.
 Someone has an idea and then does their best to convince everyone else.
@@ -103,4 +96,5 @@ I will continue to fight as hard as I can in our new legislative session to purs
 Finally, I'm sure you're aware of the appalling efforts of Big Tech and social media to shut down conservative voices.
 As such, I ask you to FORWARD or SHARE this message with your friends, family, and fellow patriots so we can all remain in touch with each other.
 We must remain resolute.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

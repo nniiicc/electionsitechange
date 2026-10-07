@@ -1,19 +1,82 @@
 [
-"https://facebook.com/sessionsforcongress",
-"https://petesessions.com/",
-"https://petesessions.com/about",
-"https://petesessions.com/action",
-"https://petesessions.com/cdn-cgi/l/email-protection",
-"https://petesessions.com/contact",
-"https://petesessions.com/district",
-"https://petesessions.com/donate",
-"https://petesessions.com/endorsements",
-"https://petesessions.com/issues",
-"https://petesessions.com/media",
-"https://petesessions.com/news",
-"https://petesessions.com/press",
-"https://petesessions.com/privacy",
-"https://petesessions.com/splash",
-"https://petesessions.com/videos",
-"https://twitter.com/SessionsTX17"
+{
+"text": "Contact",
+"href": "https://www.petesessions.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.petesessions.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.petesessions.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.petesessions.com/action/"
+},
+{
+"text": "Home",
+"href": "https://www.petesessions.com/"
+},
+{
+"text": "Home",
+"href": "https://www.petesessions.com/splash/"
+},
+{
+"text": "In the News",
+"href": "https://www.petesessions.com/news/"
+},
+{
+"text": "Issues",
+"href": "https://www.petesessions.com/issues/"
+},
+{
+"text": "Media",
+"href": "https://www.petesessions.com/media/"
+},
+{
+"text": "Meet Pete",
+"href": "https://www.petesessions.com/about/"
+},
+{
+"text": "Press Releases",
+"href": "https://www.petesessions.com/press/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.petesessions.com/privacy/"
+},
+{
+"text": "TX-17",
+"href": "https://www.petesessions.com/district/"
+},
+{
+"text": "Videos",
+"href": "https://www.petesessions.com/videos/"
+},
+{
+"text": "[email protected]",
+"href": "mailto:info@petesessions.com"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/SessionsTX17"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/sessionsforcongress"
+},
+{
+"text": "[image]",
+"href": "https://www.petesessions.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.petesessions.com/donate/"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@petesessions.com"
+}
 ]

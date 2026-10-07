@@ -1,5 +1,4 @@
-Originally posted by the Northport Journal on Mar 12, 2022
-Transformation.
+Close Skip to content HOME A STRONGER 12th ABOUT DAVE NEWS & MEDIA CONTACT DONATE February 9, 2024 Editorial: A real transformation requires respect, innovation and action COURTESY OF: Northport Journal Originally posted by the Northport Journal on Mar 12, 2022 Transformation.
 It’s a word that has been used a lot lately in regards to the March 15 Northport Village elections, a race that will add four new faces to a board of just five members.
 It’s a complete overhaul, really, and certainly has the potential to be transformative.
 For months, we have reported quietly and unbiasedly on the happenings at Village board meetings and have announced each new candidate to the public as they have revealed their intentions to run.
@@ -15,3 +14,9 @@ This is not a business decision for us, but a decision based on firsthand experi
 The Northport Journal endorses Dave Weber for Mayor and Meghan Dolan for Trustee.
 Above all others, we feel these two candidates will be the most productive, hardworking, innovative and trustworthy leaders.
 We’re basing these endorsements not on campaign slogans, lawn signs or promises, but on actions these candidates have already taken within the Village.
+READ FULL ARTICLE Share this post Facebook LinkedIn Telegram WhatsApp Email Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Name Email SUBSCRIBEFOR UPDATES © # Dave Weber.
+All Rights Reserved.
+Paid for by Friends of Dave Weber.
+CONTRIBUTE TO MY CAMPAIGN

@@ -1,14 +1,58 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=2024+Campaign+Kickoff&dates=20240428T190000Z%2F20240428T210000Z",
-"https://clintonforassembly.com/",
-"https://clintonforassembly.com/about",
-"https://clintonforassembly.com/cart",
-"https://clintonforassembly.com/endorsements",
-"https://clintonforassembly.com/events",
-"https://clintonforassembly.com/events/2024-campaign-kickoff?format=ical",
-"https://clintonforassembly.com/events/clintonturns33",
-"https://clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson",
-"https://clintonforassembly.com/issues",
-"https://facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053",
-"https://secure.actblue.com/donate/clinton-for-45"
+{
+"text": "0",
+"href": "https://www.clintonforassembly.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.clintonforassembly.com/about"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/clinton-for-45"
+},
+{
+"text": "Endorsements",
+"href": "https://www.clintonforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.clintonforassembly.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=2024+Campaign+Kickoff&dates=20240428T190000Z%2F20240428T210000Z"
+},
+{
+"text": "Home",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "ICS",
+"href": "https://www.clintonforassembly.com/events/2024-campaign-kickoff?format=ical"
+},
+{
+"text": "Issues",
+"href": "https://www.clintonforassembly.com/issues"
+},
+{
+"text": "Next Next May 27 Rep. Anderson’s 33rd Birthday Fundraiser",
+"href": "https://www.clintonforassembly.com/events/clintonturns33"
+},
+{
+"text": "Previous Previous October 13 Meet and Greet in Evansville for Clinton Anderson",
+"href": "https://www.clintonforassembly.com/events/meet-and-greet-in-evansville-for-clinton-anderson"
+},
+{
+"text": "[image: Clinton Anderson for Assembly]",
+"href": "https://www.clintonforassembly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/Clinton-Anderson-for-Assembly-District-45-104142868937053"
+}
 ]

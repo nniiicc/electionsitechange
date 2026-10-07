@@ -1,33 +1,122 @@
 [
-"https://bridgemi.com/michigan-government/lawmakers-add-160m-in-earmarks-to-michigan-budget-and-transparency-rules",
-"https://candgnews.com/news/mcfall-named-legislator-of-the-year-by-michigan-municipal-league-7915",
-"https://candgnews.com/news/mcfall-proposes-state-bill-to-support-foster-animals-9328",
-"https://candgnews.com/news/new-bill-seeks-to-establish-statebased-health-care-system-10130",
-"https://candgnews.com/news/state-funds-secured-for-public-safety-education-in-house-district-14-9446",
-"https://facebook.com/VoteMcFall",
-"https://freep.com/story/news/politics/2025/06/25/michigan-lawmaker-decriminalize-psychedelics-ptsd/84330443007",
-"https://housedems.com/mcfalls-ground-emergency-medical-transport-bill-signed-into-law",
-"https://instagram.com/votemcfall",
-"https://michiganpublic.org/politics-government/2025-01-07/amid-backlash-solar-company-wont-build-on-state-land",
-"https://ourmidland.com/news/article/whitmer-michigan-safety-bills-20051528.php",
-"https://secure.actblue.com/donate/mcfall2026",
-"https://secure.actblue.com/donate/mcfall2026?amount=100",
-"https://secure.actblue.com/donate/mcfall2026?amount=1225",
-"https://secure.actblue.com/donate/mcfall2026?amount=25",
-"https://secure.actblue.com/donate/mcfall2026?amount=250",
-"https://secure.actblue.com/donate/mcfall2026?amount=50",
-"https://secure.actblue.com/donate/mcfall2026?amount=500",
-"https://shyft.wtf/",
-"https://votemcfall.com/",
-"https://votemcfall.com/contact",
-"https://votemcfall.com/cookie-policy",
-"https://votemcfall.com/district",
-"https://votemcfall.com/endorsements",
-"https://votemcfall.com/media-coverage",
-"https://votemcfall.com/meet-mike-mcfall",
-"https://votemcfall.com/priorities",
-"https://votemcfall.com/privacy-policy",
-"https://votemcfall.com/volunteer",
-"https://votemcfall.com/yard-sign",
-"https://wemu.org/michigan-news/2025-05-22/ticket-bot-bills-see-michigan-house-committee-hearing"
+{
+"text": "$1,225",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=1225"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=50"
+},
+{
+"text": "$500",
+"href": "https://secure.actblue.com/donate/mcfall2026?amount=500"
+},
+{
+"text": "Contact",
+"href": "https://votemcfall.com/contact/"
+},
+{
+"text": "District",
+"href": "https://votemcfall.com/district/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mcfall2026"
+},
+{
+"text": "Endorsements",
+"href": "https://votemcfall.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/VoteMcFall"
+},
+{
+"text": "Home",
+"href": "https://votemcfall.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/votemcfall/"
+},
+{
+"text": "Media",
+"href": "https://votemcfall.com/media-coverage/"
+},
+{
+"text": "Meet Mike",
+"href": "https://votemcfall.com/meet-mike-mcfall/"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/mcfall2026"
+},
+{
+"text": "Priorities",
+"href": "https://votemcfall.com/priorities/"
+},
+{
+"text": "View Coverage",
+"href": "https://bridgemi.com/michigan-government/lawmakers-add-160m-in-earmarks-to-michigan-budget-and-transparency-rules/"
+},
+{
+"text": "View Coverage",
+"href": "https://housedems.com/mcfalls-ground-emergency-medical-transport-bill-signed-into-law/"
+},
+{
+"text": "View Coverage",
+"href": "https://www.candgnews.com/news/mcfall-named-legislator-of-the-year-by-michigan-municipal-league-7915"
+},
+{
+"text": "View Coverage",
+"href": "https://www.candgnews.com/news/mcfall-proposes-state-bill-to-support-foster-animals-9328"
+},
+{
+"text": "View Coverage",
+"href": "https://www.candgnews.com/news/new-bill-seeks-to-establish-statebased-health-care-system-10130"
+},
+{
+"text": "View Coverage",
+"href": "https://www.candgnews.com/news/state-funds-secured-for-public-safety-education-in-house-district-14-9446"
+},
+{
+"text": "View Coverage",
+"href": "https://www.freep.com/story/news/politics/2025/06/25/michigan-lawmaker-decriminalize-psychedelics-ptsd/84330443007/"
+},
+{
+"text": "View Coverage",
+"href": "https://www.michiganpublic.org/politics-government/2025-01-07/amid-backlash-solar-company-wont-build-on-state-land"
+},
+{
+"text": "View Coverage",
+"href": "https://www.ourmidland.com/news/article/whitmer-michigan-safety-bills-20051528.php"
+},
+{
+"text": "View Coverage",
+"href": "https://www.wemu.org/michigan-news/2025-05-22/ticket-bot-bills-see-michigan-house-committee-hearing"
+},
+{
+"text": "Volunteer",
+"href": "https://votemcfall.com/volunteer/"
+},
+{
+"text": "Yard Signs",
+"href": "https://votemcfall.com/yard-sign/"
+},
+{
+"text": "[image: A campaign logo for Mike McFall featuring his name in bold text. The logo includes an outline of the state of Michigan in orange, positioned to the right of the text. The slogan \"FOR STATE REPRESENTATIVE\" is displayed underneath in a smaller font.]",
+"href": "https://votemcfall.com"
+}
 ]

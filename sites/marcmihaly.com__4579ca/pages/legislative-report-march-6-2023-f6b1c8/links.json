@@ -1,48 +1,194 @@
 [
-"https://accd.vermont.gov/community-development/funding-incentives/better-places",
-"https://accd.vermont.gov/community-development/funding-incentives/downtown-transportation-fund",
-"https://climatechange.vermont.gov/readtheplan",
-"https://dec.vermont.gov/waste-management/solid/materials-mgmt/HHW",
-"https://irs.treasury.gov/freetaxprep",
-"https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT045/ACT045%20As%20Enacted.pdf",
-"https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT046/ACT046%20As%20Enacted.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0010/H-0010%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0045/H-0045%20As%20passed%20by%20the%20House%20Official.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0053/H-0053%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0089/H-0089%20As%20passed%20by%20the%20House%20Official.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0092/H-0092%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0148/H-0148%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0171/H-0171%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0208/H-0208%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0222/H-0222%20As%20Introduced.pdf",
-"https://legislature.vermont.gov/Documents/2024/WorkGroups/House%20Human%20Services/Childcare%20Financing/W~Christopher%20Doss~Vermont%20Early%20Care%20and%20Education%20Financing%20Study%20(RAND%20Report)~1-18-2023.pdf",
-"https://legislature.vermont.gov/Documents/2024/WorkGroups/House%20Judiciary/Bills/H.41/Drafts,%20Amendments,%20and%20Legal%20Documents/H.41~Michele%20Childs~Draft%203.2,%202-16-2023~2-17-2023.pdf",
-"https://legislature.vermont.gov/assets/Legislative-Reports/Vermont-Child-Care-and-Early-Childhood-Education-Systems-Analysis-Final-Report_July-2022.pdf",
-"https://legislature.vermont.gov/bill/status/2024/H.126",
-"https://legislature.vermont.gov/bill/status/2024/H.127",
-"https://legislature.vermont.gov/bill/status/2024/H.145",
-"https://legislature.vermont.gov/bill/status/2024/H.158",
-"https://legislature.vermont.gov/bill/status/2024/H.161",
-"https://legislature.vermont.gov/bill/status/2024/H.165",
-"https://legislature.vermont.gov/bill/status/2024/H.55",
-"https://legislature.vermont.gov/bill/status/2024/H.66",
-"https://legislature.vermont.gov/bill/status/2024/H.67",
-"https://legislature.vermont.gov/bill/status/2024/S.17",
-"https://legislature.vermont.gov/committee/document/2024/15/Bill/436891",
-"https://legislature.vermont.gov/committee/document/2024/15/Bill/438208",
-"https://legislature.vermont.gov/committee/document/2024/15/Bill/438936",
-"https://legislature.vermont.gov/committee/document/2024/15/Bill/441739",
-"https://marcmihaly.com/",
-"https://marcmihaly.com/Issues",
-"https://marcmihaly.com/cart",
-"https://marcmihaly.com/contact",
-"https://marcmihaly.com/flood-response",
-"https://marcmihaly.com/legislative-report",
-"https://marcmihaly.com/meet-marc",
-"https://marcmihaly.com/on-the-issues",
-"https://secure.actblue.com/donate/friends-of-marc-mihaly-1",
-"https://tax.vermont.gov/taxpayer-advocate",
-"https://vermontartscouncil.org/grants/organizations/animating-infrastructure",
-"https://vtlawhelp.org/taxes",
-"https://vtrans.vermont.gov/planning/projects-programs/better-connections"
+{
+"text": "0",
+"href": "https://www.marcmihaly.com/cart"
+},
+{
+"text": "Act 45 of 2021",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT045/ACT045%20As%20Enacted.pdf"
+},
+{
+"text": "Act 46 of 2021",
+"href": "https://legislature.vermont.gov/Documents/2022/Docs/ACTS/ACT046/ACT046%20As%20Enacted.pdf"
+},
+{
+"text": "Animating Infrastructure grants",
+"href": "https://www.vermontartscouncil.org/grants/organizations/animating-infrastructure"
+},
+{
+"text": "Back",
+"href": "https://www.marcmihaly.com/"
+},
+{
+"text": "Better Connections Program",
+"href": "https://vtrans.vermont.gov/planning/projects-programs/better-connections"
+},
+{
+"text": "Better Places Program",
+"href": "https://accd.vermont.gov/community-development/funding-incentives/better-places"
+},
+{
+"text": "Child Care and Early Childhood Education Systems Analysis",
+"href": "https://legislature.vermont.gov/assets/Legislative-Reports/Vermont-Child-Care-and-Early-Childhood-Education-Systems-Analysis-Final-Report_July-2022.pdf"
+},
+{
+"text": "Climate Action Plan",
+"href": "https://climatechange.vermont.gov/readtheplan"
+},
+{
+"text": "Contact",
+"href": "https://www.marcmihaly.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-marc-mihaly-1"
+},
+{
+"text": "Downtown Transportation Fund",
+"href": "https://accd.vermont.gov/community-development/funding-incentives/downtown-transportation-fund"
+},
+{
+"text": "Flood Response",
+"href": "https://www.marcmihaly.com/flood-response"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.marcmihaly.com/Issues"
+},
+{
+"text": "H. 208",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0208/H-0208%20As%20Introduced.pdf"
+},
+{
+"text": "H.10",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0010/H-0010%20As%20Introduced.pdf"
+},
+{
+"text": "H.126",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.126"
+},
+{
+"text": "H.127",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.127"
+},
+{
+"text": "H.145",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.145"
+},
+{
+"text": "H.148",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0148/H-0148%20As%20Introduced.pdf"
+},
+{
+"text": "H.158",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.158"
+},
+{
+"text": "H.161",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.161"
+},
+{
+"text": "H.165",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.165"
+},
+{
+"text": "H.171",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0171/H-0171%20As%20Introduced.pdf"
+},
+{
+"text": "H.222",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0222/H-0222%20As%20Introduced.pdf"
+},
+{
+"text": "H.230",
+"href": "https://legislature.vermont.gov/committee/document/2024/15/Bill/441739#documents-section"
+},
+{
+"text": "H.41",
+"href": "https://legislature.vermont.gov/Documents/2024/WorkGroups/House%20Judiciary/Bills/H.41/Drafts,%20Amendments,%20and%20Legal%20Documents/H.41~Michele%20Childs~Draft%203.2,%202-16-2023~2-17-2023.pdf"
+},
+{
+"text": "H.45",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0045/H-0045%20As%20passed%20by%20the%20House%20Official.pdf"
+},
+{
+"text": "H.53",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0053/H-0053%20As%20Introduced.pdf"
+},
+{
+"text": "H.55",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.55"
+},
+{
+"text": "H.62",
+"href": "https://legislature.vermont.gov/committee/document/2024/15/Bill/436891#documents-section"
+},
+{
+"text": "H.66",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.66"
+},
+{
+"text": "H.67",
+"href": "https://legislature.vermont.gov/bill/status/2024/H.67"
+},
+{
+"text": "H.77",
+"href": "https://legislature.vermont.gov/committee/document/2024/15/Bill/438936#documents-section"
+},
+{
+"text": "H.86",
+"href": "https://legislature.vermont.gov/committee/document/2024/15/Bill/438208#documents-section"
+},
+{
+"text": "H.89",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0089/H-0089%20As%20passed%20by%20the%20House%20Official.pdf"
+},
+{
+"text": "H.92",
+"href": "https://legislature.vermont.gov/Documents/2024/Docs/BILLS/H-0092/H-0092%20As%20Introduced.pdf"
+},
+{
+"text": "Legislative Report",
+"href": "https://www.marcmihaly.com/legislative-report"
+},
+{
+"text": "Meet Marc",
+"href": "https://www.marcmihaly.com/meet-marc"
+},
+{
+"text": "On the Issues",
+"href": "https://www.marcmihaly.com/on-the-issues"
+},
+{
+"text": "S.17",
+"href": "https://legislature.vermont.gov/bill/status/2024/S.17"
+},
+{
+"text": "Taxpayer Advocate",
+"href": "https://tax.vermont.gov/taxpayer-advocate"
+},
+{
+"text": "Vermont Early Care and Education and Financing Study",
+"href": "https://legislature.vermont.gov/Documents/2024/WorkGroups/House%20Human%20Services/Childcare%20Financing/W~Christopher%20Doss~Vermont%20Early%20Care%20and%20Education%20Financing%20Study%20(RAND%20Report)~1-18-2023.pdf"
+},
+{
+"text": "[image: Marc Mihaly for Vermont House]",
+"href": "https://www.marcmihaly.com/"
+},
+{
+"text": "here",
+"href": "https://dec.vermont.gov/waste-management/solid/materials-mgmt/HHW"
+},
+{
+"text": "https://irs.treasury.gov/freetaxprep/",
+"href": "https://irs.treasury.gov/freetaxprep/"
+},
+{
+"text": "https://vtlawhelp.org/taxes",
+"href": "https://vtlawhelp.org/taxes"
+},
+{
+"text": "tax.taxpayeradvocate@vermont.gov",
+"href": "mailto:tax.taxpayeradvocate@vermont.gov"
+}
 ]

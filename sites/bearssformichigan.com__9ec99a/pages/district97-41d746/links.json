@@ -1,17 +1,126 @@
 [
-"http://bearssformichigan.com/",
-"http://bearssformichigan.com/privacy-policy",
-"https://bearssformichigan.com/",
-"https://bearssformichigan.com/author/bearss29",
-"https://bearssformichigan.com/district97",
-"https://bearssformichigan.com/district97/instagram.com/bearssformichigan",
-"https://bearssformichigan.com/get-involved",
-"https://bearssformichigan.com/media",
-"https://bearssformichigan.com/meet-briar",
-"https://bearssformichigan.com/privacy-policy",
-"https://bearssformichigan.com/terms-conditions",
-"https://facebook.com/bearssformichigan",
-"https://instagram.com/bearssformichigan",
-"https://secure.winred.com/bearss4michigan/donate",
-"https://x.com/bearss4michigan"
+{
+"text": "$100",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "&",
+"href": "https://www.bearssformichigan.com/privacy-policy/"
+},
+{
+"text": "97TH DISTRICT",
+"href": "http://bearssformichigan.com/#district-m-anchor"
+},
+{
+"text": "97th District",
+"href": "https://www.bearssformichigan.com/district97/"
+},
+{
+"text": "Bearss29",
+"href": "https://www.bearssformichigan.com/author/bearss29/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "Get Involved",
+"href": "http://bearssformichigan.com/#involved-mobile"
+},
+{
+"text": "Get Involved",
+"href": "https://www.bearssformichigan.com/get-involved/"
+},
+{
+"text": "HOME",
+"href": "https://www.bearssformichigan.com/"
+},
+{
+"text": "Issues",
+"href": "http://bearssformichigan.com/#issues-anchor"
+},
+{
+"text": "Issues",
+"href": "http://bearssformichigan.com/#issues-m-anchor"
+},
+{
+"text": "JOIN THE FIGHTDONATE NOW!",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "Media",
+"href": "https://www.bearssformichigan.com/media/"
+},
+{
+"text": "Meet Briar",
+"href": "https://www.bearssformichigan.com/meet-briar/"
+},
+{
+"text": "OTHER",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.bearssformichigan.com/privacy-policy/"
+},
+{
+"text": "Privacy Policy |",
+"href": "https://www.bearssformichigan.com/privacy-policy/"
+},
+{
+"text": "Read",
+"href": "https://www.bearssformichigan.com/privacy-policy/"
+},
+{
+"text": "SUPPORT THE FIGHT!",
+"href": "https://secure.winred.com/bearss4michigan/donate"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.bearssformichigan.com/terms-conditions/"
+},
+{
+"text": "Terms of Conditions",
+"href": "https://www.bearssformichigan.com/terms-conditions/"
+},
+{
+"text": "View Privacy Policy",
+"href": "http://www.bearssformichigan.com/privacy-policy"
+},
+{
+"text": "[image: Bearss For Michigan Logo] [image: Bearss For Michigan Logo] [image: Bearss For Michigan Logo]",
+"href": "https://www.bearssformichigan.com/"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/bearssformichigan"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://instagram.com/bearssformichigan"
+},
+{
+"text": "[tooltip: Instagram]",
+"href": "https://www.bearssformichigan.com/district97/instagram.com/bearssformichigan"
+},
+{
+"text": "[tooltip: X]",
+"href": "https://x.com/bearss4michigan"
+}
 ]

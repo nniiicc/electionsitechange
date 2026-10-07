@@ -1,21 +1,106 @@
 [
-"https://facebook.com/whisler4carroll",
-"https://google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
-"https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Whisler+For+Delegate",
-"https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Whisler+For+Delegate",
-"https://secure.winred.com/stevewhisler/donate-today",
-"https://technolegs.com/",
-"https://whisler4delegate.com/",
-"https://whisler4delegate.com/about-steve-whisler",
-"https://whisler4delegate.com/endorsements",
-"https://whisler4delegate.com/events",
-"https://whisler4delegate.com/events/list",
-"https://whisler4delegate.com/events/month",
-"https://whisler4delegate.com/events/month/2026-09",
-"https://whisler4delegate.com/events/month/2026-11",
-"https://whisler4delegate.com/events/month?ical=1",
-"https://whisler4delegate.com/events/month?outlook-ical=1",
-"https://whisler4delegate.com/press-and-news",
-"https://whisler4delegate.com/privacy-policy",
-"https://whisler4delegate.com/terms-of-service"
+{
+"text": "410.963.7066",
+"href": "tel:4109637066"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/stevewhisler/donate-today"
+},
+{
+"text": "Endorsements",
+"href": "https://whisler4delegate.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://whisler4delegate.com/events/"
+},
+{
+"text": "Export .ics file",
+"href": "https://whisler4delegate.com/events/month/?ical=1"
+},
+{
+"text": "Export Outlook .ics file",
+"href": "https://whisler4delegate.com/events/month/?outlook-ical=1"
+},
+{
+"text": "Google Calendar",
+"href": "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist"
+},
+{
+"text": "Home",
+"href": "https://whisler4delegate.com/"
+},
+{
+"text": "Join Us On Social Media",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "List",
+"href": "https://whisler4delegate.com/events/list/"
+},
+{
+"text": "Month",
+"href": "https://whisler4delegate.com/events/month/"
+},
+{
+"text": "Nov",
+"href": "https://whisler4delegate.com/events/month/2026-11/"
+},
+{
+"text": "Outlook 365",
+"href": "https://outlook.office.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Whisler+For+Delegate"
+},
+{
+"text": "Outlook Live",
+"href": "https://outlook.live.com/owa?path=%2Fcalendar%2Faction%2Fcompose&rru=addsubscription&url=webcal%3A%2F%2Fwhisler4delegate.com%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Whisler+For+Delegate+Whisler+For+Delegate"
+},
+{
+"text": "Press and News",
+"href": "https://whisler4delegate.com/press-and-news/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://whisler4delegate.com/privacy-policy/"
+},
+{
+"text": "Sep",
+"href": "https://whisler4delegate.com/events/month/2026-09/"
+},
+{
+"text": "Steve",
+"href": "https://whisler4delegate.com/about-steve-whisler/"
+},
+{
+"text": "Terms of Service",
+"href": "https://whisler4delegate.com/terms-of-service/"
+},
+{
+"text": "This Month",
+"href": "https://whisler4delegate.com/events/month/"
+},
+{
+"text": "Website Design and Hosting by Technolegs",
+"href": "https://technolegs.com"
+},
+{
+"text": "[tooltip: Facebook]",
+"href": "https://www.facebook.com/whisler4carroll"
+},
+{
+"text": "[tooltip: Next month]",
+"href": "https://whisler4delegate.com/events/month/2026-11/"
+},
+{
+"text": "[tooltip: Previous month]",
+"href": "https://whisler4delegate.com/events/month/2026-09/"
+},
+{
+"text": "iCalendar",
+"href": "webcal://whisler4delegate.com/?post_type=tribe_events&ical=1&eventDisplay=list"
+},
+{
+"text": "steve@Whisler4Carroll.com",
+"href": "mailto:steve@Whisler4Carroll.com"
+}
 ]

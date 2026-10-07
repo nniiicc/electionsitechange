@@ -1,30 +1,138 @@
 [
-"http://eepurl.com/dabe2z",
-"https://docs.google.com/document/d/1x82AlN03Zw5sScZwqU0JBklrsMWvOvysA4Lv1xFR3KE/edit?usp=sharing",
-"https://drive.google.com/file/d/14zhDL6bGP5ObJ_u6Xz1NGbcS722eMVFt/view?usp=sharing",
-"https://drive.google.com/file/d/15U0D96119mRSwrWPEQdX1_g9g8HBNcpM/view?usp=sharing",
-"https://drive.google.com/file/d/1Fus6zkEr0TKaVFBOT0HuxCUfbbGiIlCu/view?usp=sharing",
-"https://drive.google.com/file/d/1U9NtaD33L0_GoOBkDMhEvXGNs4rV0Si_/view?usp=sharing",
-"https://dylanroberts.org/",
-"https://dylanroberts.org/about",
-"https://dylanroberts.org/cost-of-living",
-"https://dylanroberts.org/education",
-"https://dylanroberts.org/energy-and-climate",
-"https://dylanroberts.org/healthcare",
-"https://dylanroberts.org/issues",
-"https://dylanroberts.org/jobs-and-economy",
-"https://dylanroberts.org/latest-news",
-"https://dylanroberts.org/legislative-roundup",
-"https://dylanroberts.org/media-kit",
-"https://dylanroberts.org/murphy",
-"https://dylanroberts.org/transportation-and-infrastructure",
-"https://dylanroberts.org/vote",
-"https://dylanroberts.org/wp-content/uploads/2020/10/Rep.-Roberts-Sponsored-Bills-2019.pdf",
-"https://dylanroberts.org/wp-content/uploads/2021/07/Rep.-Roberts-Sponsored-Bills-2020.pdf",
-"https://dylanroberts.org/wp-content/uploads/2021/07/Rep.-Roberts-Sponsored-Bills-2021.pdf",
-"https://facebook.com/DylanforColorado",
-"https://instagram.com/dylanroberts_co",
-"https://secure.actblue.com/donate/dylan-roberts-for-colorado-senate",
-"https://twitter.com/Dylan_RobertsCO",
-"https://us16.campaign-archive.com/home?u=458141c4988b5b80dffb36b93&id=afcf400d4b"
+{
+"text": "2019",
+"href": "https://dylanroberts.org/wp-content/uploads/2020/10/Rep.-Roberts-Sponsored-Bills-2019.pdf"
+},
+{
+"text": "2020",
+"href": "https://dylanroberts.org/wp-content/uploads/2021/07/Rep.-Roberts-Sponsored-Bills-2020.pdf"
+},
+{
+"text": "2021",
+"href": "https://dylanroberts.org/wp-content/uploads/2021/07/Rep.-Roberts-Sponsored-Bills-2021.pdf"
+},
+{
+"text": "2022",
+"href": "https://docs.google.com/document/d/1x82AlN03Zw5sScZwqU0JBklrsMWvOvysA4Lv1xFR3KE/edit?usp=sharing"
+},
+{
+"text": "2023",
+"href": "https://drive.google.com/file/d/1U9NtaD33L0_GoOBkDMhEvXGNs4rV0Si_/view?usp=sharing"
+},
+{
+"text": "2024",
+"href": "https://drive.google.com/file/d/1Fus6zkEr0TKaVFBOT0HuxCUfbbGiIlCu/view?usp=sharing"
+},
+{
+"text": "2025",
+"href": "https://drive.google.com/file/d/14zhDL6bGP5ObJ_u6Xz1NGbcS722eMVFt/view?usp=sharing"
+},
+{
+"text": "2026",
+"href": "https://drive.google.com/file/d/15U0D96119mRSwrWPEQdX1_g9g8HBNcpM/view?usp=sharing"
+},
+{
+"text": "About",
+"href": "https://dylanroberts.org/about/"
+},
+{
+"text": "About Dylan",
+"href": "https://dylanroberts.org/about"
+},
+{
+"text": "Affordable Housing & Cost of Living",
+"href": "https://dylanroberts.org/cost-of-living/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/dylan-roberts-for-colorado-senate"
+},
+{
+"text": "Click here",
+"href": "http://eepurl.com/dabe2z"
+},
+{
+"text": "Click here",
+"href": "https://us16.campaign-archive.com/home/?u=458141c4988b5b80dffb36b93&id=afcf400d4b"
+},
+{
+"text": "Education",
+"href": "https://dylanroberts.org/education/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/DylanforColorado"
+},
+{
+"text": "Healthcare",
+"href": "https://dylanroberts.org/healthcare/"
+},
+{
+"text": "Home",
+"href": "https://dylanroberts.org/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/dylanroberts_co/"
+},
+{
+"text": "Issues",
+"href": "https://dylanroberts.org/issues/"
+},
+{
+"text": "Jobs and Economy",
+"href": "https://dylanroberts.org/jobs-and-economy/"
+},
+{
+"text": "Latest News",
+"href": "https://dylanroberts.org/latest-news/"
+},
+{
+"text": "Legislative Roundup",
+"href": "https://dylanroberts.org/legislative-roundup/"
+},
+{
+"text": "Make Your Plan to Vote",
+"href": "https://dylanroberts.org/"
+},
+{
+"text": "Me",
+"href": "https://dylanroberts.org/about/"
+},
+{
+"text": "Media Kit",
+"href": "https://dylanroberts.org/media-kit/"
+},
+{
+"text": "Murphy",
+"href": "https://dylanroberts.org/murphy/"
+},
+{
+"text": "On the Issues",
+"href": "https://dylanroberts.org/issues/"
+},
+{
+"text": "Senate District 8",
+"href": "https://dylanroberts.org/vote/"
+},
+{
+"text": "Transportation and Infrastructure",
+"href": "https://dylanroberts.org/transportation-and-infrastructure/"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Dylan_RobertsCO"
+},
+{
+"text": "Water, Wildfire, Agriculture, Environment",
+"href": "https://dylanroberts.org/energy-and-climate/"
+},
+{
+"text": "[image: Dylan Roberts State Senate_2022 Update_New Colors]",
+"href": "https://dylanroberts.org"
+},
+{
+"text": "[no text]",
+"href": "tel:(970)%20846-3054"
+}
 ]

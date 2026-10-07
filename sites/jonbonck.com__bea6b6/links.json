@@ -1,16 +1,86 @@
 [
-"https://facebook.com/",
-"https://instagram.com/teambonck",
-"https://jonbonck.com/",
-"https://jonbonck.com/coalitions",
-"https://jonbonck.com/endorsements",
-"https://secure.anedot.com/jon-bonck-for-congress/donate?amoun=250",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=100",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=1000",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=1500",
-"https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=50",
-"https://twitter.com/",
-"https://twitter.com/TeamBonck",
-"https://youtube.com/@JonBonckForCongress"
+{
+"text": "$1,000",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=1000"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=100"
+},
+{
+"text": "$1500",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=1500"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/jon-bonck-for-congress/donate?amoun=250"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd?amount=50"
+},
+{
+"text": "About",
+"href": "https://www.jonbonck.com/#About"
+},
+{
+"text": "CONTRIBUTE NOW!",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "CONTRIBUTE TODAY",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "Contribute",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "Custom Amount",
+"href": "https://secure.winred.com/jon-bonck-for-congress/donate-hd"
+},
+{
+"text": "Endorsements",
+"href": "https://www.jonbonck.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://www.jonbonck.com/#GetInvolved"
+},
+{
+"text": "Issues",
+"href": "https://www.jonbonck.com/#Issues"
+},
+{
+"text": "Join a Coalition",
+"href": "https://www.jonbonck.com/coalitions"
+},
+{
+"text": "SEE THEM ALL!",
+"href": "https://www.jonbonck.com/endorsements"
+},
+{
+"text": "[image]",
+"href": "https://www.jonbonck.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/TeamBonck"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/teambonck/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@JonBonckForCongress"
+}
 ]

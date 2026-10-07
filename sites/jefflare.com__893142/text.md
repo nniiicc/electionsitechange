@@ -5,5 +5,4 @@ He also brings expertise as a former Certified Peace Officer and Corrections Off
 In addition to his work, Jeff is a youth lacrosse coach and serves on the Pickerington Youth Lacrosse Board.
 He is a triathlete and cyclocross competitor.
 Jeff and his wife, Amy, have three children, and they enjoy living in Violet Township in Fairfield County.
-Make a Donation
-Paid for by LaRe for Ohio
+Make a Donation Paid for by LaRe for Ohio

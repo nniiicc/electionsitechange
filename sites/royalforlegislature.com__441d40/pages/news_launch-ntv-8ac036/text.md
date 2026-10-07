@@ -1,5 +1,1 @@
-Previous
-Previous
-OMAHA WORLD-HERALD: Omaha lawmaker not seeking reelection, endorses former mayoral candidate for seat
-Next
-Next
+0 Skip to Content Meet Taylor Vision & Platform Endorsements News Contribute Open Menu Close Menu Open Menu Close Menu Meet Taylor Vision & Platform Endorsements News Contribute Meet Taylor Vision & Platform Endorsements News Contribute NTV: Taylor Royal announces candidacy for NE Legislature District 18 Sep 30 Written By Zach Herr Zach Herr Previous Previous OMAHA WORLD-HERALD: Omaha lawmaker not seeking reelection, endorses former mayoral candidate for seat Next Next NEBRASKA EXAMINER: Financial planner, former Omaha mayoral candidate runs for Nebraska Legislative District 18 About Platform Endorsements Donate Privacy PAID FOR BY TAYLOR ROYAL FOR LEGISLATURE | 124 S STARK ST, PO BOX 16, BENNINGTON, NE 68007

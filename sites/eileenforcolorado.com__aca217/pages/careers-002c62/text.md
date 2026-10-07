@@ -1,14 +1,7 @@
-Careers
-Reports To: Field Director
-Salary: $5,000–$8,000/month or $35-60/hour
-Start Date: Rolling basis, as needed
-Position Type: Full-time & Part-time positions available, through November 2026
-Location: Prowers, Morgan, Weld, or Larimer county
-Internships
-Reports To: Deputy Campaign Manager
-Compensation: $20/hour
-Start Date: Rolling basis, as needed
-Position Type: Part-time, through November 2026
-Location: In-person only — based in Colorado’s 4th Congressional District.
+0 Skip to Content Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Press Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Open Menu Close Menu Home About Platform Coalitions Folder: Press Back Campaign Press Releases Eileen in the Media Ads Media Kit Events Store Vote Volunteer Careers Outreach Consultant Reports To: Field Director Salary: $5,000–$8,000/month or $35-60/hour Start Date: Rolling basis, as needed Position Type: Full-time & Part-time positions available, through November 2026 Location: Prowers, Morgan, Weld, or Larimer county Learn more Internships Campaign Intern Reports To: Deputy Campaign Manager Compensation: $20/hour Start Date: Rolling basis, as needed Position Type: Part-time, through November 2026 Location: In-person only — based in Colorado’s 4th Congressional District.
 Interns are expected to work on-site at campaign headquarters and attend in-district events.
 Driver’s license and reliable transportation required.
+Learn more GET INVOLVED WITH TEAM EILEEN Donate Volunteer Contact Privacy Policy/Terms of Service Careers CHECKS CAN BE MAILED TO PO BOX: 9249 S Broadway, #200-172 Highlands Ranch, CO 80129 PAID FOR BY EILEEN FOR COLORADO REAR ADMIRAL EILEEN LAUBACHER (RET) IS A FORMER MEMBER OF THE U.S.
+NAVY.
+USE OF HER MILITARY RANK, JOB TITLES, AND PHOTOGRAPHS IN UNIFORM DOES NOT IMPLY ENDORSEMENT FROM THE DEPARTMENT OF THE NAVY OR THE DEPARTMENT OF DEFENSE. ©# Eileen for Colorado.
+All rights reserved.

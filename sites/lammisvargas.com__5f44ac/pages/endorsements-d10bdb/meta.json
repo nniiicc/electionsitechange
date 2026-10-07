@@ -1,7 +1,11 @@
 {
  "description": "Lammis Vargas is endorsed by the RI Democratic Party, and the list of endorsements continues to grow.",
  "final_url": "https://lammisvargas.com/endorsements/",
- "paid_for_by": null,
+ "fingerprint": "266b95259aa3ae12ea61c77bf892ec39823b6fae",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Endorsements for Candidate Lammis Vargas | RI State Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2025"
+ ]
 }

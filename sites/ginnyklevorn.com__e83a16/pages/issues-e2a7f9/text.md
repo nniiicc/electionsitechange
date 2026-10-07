@@ -1,37 +1,9 @@
-Working to meet our community needs and values.
-Providing for World Class Education
-- Predictable and sustainable annual per-pupil state funding that keeps pace with inflation
-- Fund the State’s portion of special education deficit
-- Provide adequate funding to keep our children and teachers safe at school
-- Make post-secondary education affordable and reduce student debt
-Improving Health and Human Services.
-- Ginny supports doctor-patient privacy and protecting women’s reproductive healthcare
-- Offer Minnesota residents the same healthcare option available to our state’s legislature
-- Implement policies that allow everyone to choose the doctor they want at a cost that doesn’t bankrupt their family
-- Support policies to end addiction and promote public health
-Supporting Small Business.
-- Level the playing field and create a fair tax structure
-- Return our investment dollars to our community
-- Collaborate with business, government, and schools to develop tomorrow’s workforce
-Providing for Best-in-Class Public Safety.
-- Support safe schools that fully serve student and teacher educational needs
-- Protect our safe and welcoming community through best-in-class police and fire protection
-- Stand with police chiefs: Arbitration revision, K12 GIS mapping
-- Mental health response supports
-- Gun violence reduction legislation
-Caring for our Seniors.
-- Co-author Social Security Tax Elimination
-- Promote policies that protect seniors’ ability to live independently in their community
-- Protect the ability to retire with dignity and peace of mind
-- Prepare for growing aging population through development of state policies and training of qualified in-home care
-Protecting our Environment.
-- Support Recycling: traditional and organics
-- Support reduction in the use of fossil fuels
-- Support efforts to clean up creeks, lakes and rivers
-- Support protecting wetlands
-Improving our Transportation.
-- Support comprehensive plan to build and maintain necessary infrastructure
-- Encourage and support mixed transportation methods:
-- Bicycle
-- Car
-- Mass Transit
+Skip to content Search for: Home Meet Ginny Issues Endorsements Volunteer Community DONATE Search for: Home Meet Ginny Issues Endorsements Volunteer Community DONATE Home Meet Ginny Issues Endorsements Volunteer Community DONATE Issues admin 2024-06-11T15:15:56-05:00 Working to meet our community needs and values.
+Providing for World Class Education Predictable and sustainable annual per-pupil state funding that keeps pace with inflation Fund the State’s portion of special education deficit Provide adequate funding to keep our children and teachers safe at school Make post-secondary education affordable and reduce student debt Improving Health and Human Services.
+Ginny supports doctor-patient privacy and protecting women’s reproductive healthcare Offer Minnesota residents the same healthcare option available to our state’s legislature Implement policies that allow everyone to choose the doctor they want at a cost that doesn’t bankrupt their family Support policies to end addiction and promote public health Supporting Small Business.
+Level the playing field and create a fair tax structure Return our investment dollars to our community Collaborate with business, government, and schools to develop tomorrow’s workforce Providing for Best-in-Class Public Safety.
+Support safe schools that fully serve student and teacher educational needs Protect our safe and welcoming community through best-in-class police and fire protection Stand with police chiefs: Arbitration revision, K12 GIS mapping Mental health response supports Gun violence reduction legislation Caring for our Seniors.
+Co-author Social Security Tax Elimination Promote policies that protect seniors’ ability to live independently in their community Protect the ability to retire with dignity and peace of mind Prepare for growing aging population through development of state policies and training of qualified in-home care Protecting our Environment.
+Support Recycling: traditional and organics Support reduction in the use of fossil fuels Support efforts to clean up creeks, lakes and rivers Support protecting wetlands Improving our Transportation.
+Support comprehensive plan to build and maintain necessary infrastructure Encourage and support mixed transportation methods: Bicycle Car Mass Transit Prepared and Paid for by Ginny Klevorn for Representative, 4755 Kingsview Ln N, Plymouth, MN 55446.
+Email Facebook X Instagram Page load link Go to Top

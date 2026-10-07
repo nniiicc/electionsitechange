@@ -1,56 +1,722 @@
 [
-"https://bsky.app/profile/doitjewett.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform",
-"https://facebook.com/electlaurenjewett",
-"https://instagram.com/electlaurenjewett",
-"https://laurenjewett.com/",
-"https://laurenjewett.com/about",
-"https://laurenjewett.com/accessibility",
-"https://laurenjewett.com/cdn-cgi/l/email-protection",
-"https://laurenjewett.com/contact",
-"https://laurenjewett.com/district-voting",
-"https://laurenjewett.com/endorsements",
-"https://laurenjewett.com/events",
-"https://laurenjewett.com/events/1030155",
-"https://laurenjewett.com/events/1034755",
-"https://laurenjewett.com/events/1034789",
-"https://laurenjewett.com/events/1034801",
-"https://laurenjewett.com/events/1034837",
-"https://laurenjewett.com/events/1034894",
-"https://laurenjewett.com/events/1037162",
-"https://laurenjewett.com/events/1039404",
-"https://laurenjewett.com/events/1039462",
-"https://laurenjewett.com/events/1041419",
-"https://laurenjewett.com/events/1042512",
-"https://laurenjewett.com/events/1043478",
-"https://laurenjewett.com/events/1051531",
-"https://laurenjewett.com/events/1055786",
-"https://laurenjewett.com/events/1056179",
-"https://laurenjewett.com/issues",
-"https://laurenjewett.com/privacy-policy",
-"https://laurenjewett.com/volunteer",
-"https://mobilize.us/committeetoelectlaurenjewett",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1030155",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1034755",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1034789",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1034801",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1034837",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1034894",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1037162",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1039404",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1039462",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1041419",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1042512",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1043478",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1051531",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1055786",
-"https://mobilize.us/committeetoelectlaurenjewett/event/1056179",
-"https://secure.numero.ai/contribute/laurenjewett",
-"https://secure.numero.ai/contribute/laurenjewett?amount=100",
-"https://secure.numero.ai/contribute/laurenjewett?amount=25",
-"https://secure.numero.ai/contribute/laurenjewett?amount=250",
-"https://secure.numero.ai/contribute/laurenjewett?amount=50",
-"https://tiktok.com/@electlaurenjewett",
-"https://x.com/ElectLJewett",
-"https://youtube.com/@ElectLaurenJewett"
+{
+"text": "$100",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=25"
+},
+{
+"text": "$250",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=250"
+},
+{
+"text": "$50",
+"href": "https://secure.numero.ai/contribute/laurenjewett?amount=50"
+},
+{
+"text": "Accessibility",
+"href": "https://www.laurenjewett.com/accessibility"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.numero.ai/contribute/laurenjewett"
+},
+{
+"text": "Canvass with Team Lauren - Jefferson",
+"href": "https://www.laurenjewett.com/events/1056179"
+},
+{
+"text": "Canvass with Team Lauren - Lakeview",
+"href": "https://www.laurenjewett.com/events/1055786"
+},
+{
+"text": "Community Town Hall with Lauren Jewett",
+"href": "https://www.laurenjewett.com/events/1051531"
+},
+{
+"text": "Contact",
+"href": "https://www.laurenjewett.com/contact"
+},
+{
+"text": "District & Voting",
+"href": "https://www.laurenjewett.com/district-voting"
+},
+{
+"text": "Endorsements",
+"href": "https://www.laurenjewett.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.laurenjewett.com/events"
+},
+{
+"text": "Friday, Oct 16, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Friday, Oct 16, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034801/"
+},
+{
+"text": "Friday, Oct 16, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034789/"
+},
+{
+"text": "Friday, Oct 23, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Friday, Oct 23, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034801/"
+},
+{
+"text": "Friday, Oct 23, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034789/"
+},
+{
+"text": "Friday, Oct 30, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Friday, Oct 9, 10AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1055786/"
+},
+{
+"text": "Friday, Oct 9, 4:30PM - 5:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057051/"
+},
+{
+"text": "Friday, Oct 9, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Friday, Oct 9, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034801/"
+},
+{
+"text": "Friday, Oct 9, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034789/"
+},
+{
+"text": "Friday, Oct 9, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1051531/"
+},
+{
+"text": "Get a yard sign→ (opens in a new tab)",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "Issues",
+"href": "https://www.laurenjewett.com/issues"
+},
+{
+"text": "Lauren Jewett for Congress - Return to homepage[image: Lauren Jewett for Congress LA-01 campaign logo]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Lauren Jewett for Congress[image: Lauren Jewett for Congress LA-01]",
+"href": "https://www.laurenjewett.com/"
+},
+{
+"text": "Meet Lauren",
+"href": "https://www.laurenjewett.com/about"
+},
+{
+"text": "Monday, Nov 16, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Nov 2, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Nov 2, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034894/"
+},
+{
+"text": "Monday, Nov 23, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Nov 9, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Oct 12, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Oct 12, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034894/"
+},
+{
+"text": "Monday, Oct 12, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057265/"
+},
+{
+"text": "Monday, Oct 19, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Oct 19, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034894/"
+},
+{
+"text": "Monday, Oct 26, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Monday, Oct 26, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034894/"
+},
+{
+"text": "Phone Bank for Lauren Jewett",
+"href": "https://www.laurenjewett.com/events/1030155"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.laurenjewett.com/privacy-policy"
+},
+{
+"text": "Saturday, Oct 10, 10AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 10, 10AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Saturday, Oct 10, 11AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 10, 12PM - 2PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 10, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039404/"
+},
+{
+"text": "Saturday, Oct 10, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 10, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 10, 3:45PM - 6PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1056179/"
+},
+{
+"text": "Saturday, Oct 10, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 10, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 10, 9:45AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1056179/"
+},
+{
+"text": "Saturday, Oct 10, 9AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 10, 9AM - 3PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057080/"
+},
+{
+"text": "Saturday, Oct 17, 10AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 17, 10AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Saturday, Oct 17, 11AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 17, 12PM - 2PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 17, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039404/"
+},
+{
+"text": "Saturday, Oct 17, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 17, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 17, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 17, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 17, 9AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 24, 10AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 24, 10AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Saturday, Oct 24, 11AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 24, 12PM - 2PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 24, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039404/"
+},
+{
+"text": "Saturday, Oct 24, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 24, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 24, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 24, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 24, 9AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "Saturday, Oct 24, 9AM - 3PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057080/"
+},
+{
+"text": "Saturday, Oct 31, 10AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 31, 10AM - 1PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Saturday, Oct 31, 12PM - 2PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 31, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039404/"
+},
+{
+"text": "Saturday, Oct 31, 2PM - 4PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Saturday, Oct 31, 3:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "Saturday, Oct 31, 7:30AM - 11AM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "See all on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/"
+},
+{
+"text": "Sunday, Oct 11, 11AM - 9PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057113/"
+},
+{
+"text": "Sunday, Oct 11, 3:45PM - 6PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1056179/"
+},
+{
+"text": "Sunday, Oct 11, 9:45AM - 12PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1056179/"
+},
+{
+"text": "TEAM JAMIE - Louisiana Tech Candidate Forum",
+"href": "https://www.laurenjewett.com/events/1057011"
+},
+{
+"text": "TEAM JAMIE - New Orleans Canvassing Shifts",
+"href": "https://www.laurenjewett.com/events/1043478"
+},
+{
+"text": "TEAM JAMIE DAVIS- New Orleans Volunteer Trainings",
+"href": "https://www.laurenjewett.com/events/1041419"
+},
+{
+"text": "TEAM JAMIE DAVIS-BLUE SATURDAY -LAKE CHARLES",
+"href": "https://www.laurenjewett.com/events/1057080"
+},
+{
+"text": "TEAM JAMIE DAVIS-COMMUNITY CANVASS-ACADIANA",
+"href": "https://www.laurenjewett.com/events/1037162"
+},
+{
+"text": "TEAM JAMIE DAVIS-EMPOWER TRAINING-STATEWIDE",
+"href": "https://www.laurenjewett.com/events/1039462"
+},
+{
+"text": "TEAM JAMIE DAVIS-FESTIVALS ACADIENS ET CRÉOLES MEETUP-ACADIANA",
+"href": "https://www.laurenjewett.com/events/1057051"
+},
+{
+"text": "TEAM JAMIE DAVIS-Farmer To Table Fundraiser-NEW ORLEANS",
+"href": "https://www.laurenjewett.com/events/1057037"
+},
+{
+"text": "TEAM JAMIE DAVIS-GOTV LAUNCH PARTY -JEFFERSON PARISH",
+"href": "https://www.laurenjewett.com/events/1057145"
+},
+{
+"text": "TEAM JAMIE DAVIS-QUE PASA FEST -JEFFERSON PARISH",
+"href": "https://www.laurenjewett.com/events/1057113"
+},
+{
+"text": "TEAM JAMIE DAVIS-SENATE CANDIDATE TOWN HALL -UL Lafayette",
+"href": "https://www.laurenjewett.com/events/1057265"
+},
+{
+"text": "TEAM JAMIE DAVIS-WEEKLY NEW VOLUNTEER TRAINING-ST. TAMMANY PARISH",
+"href": "https://www.laurenjewett.com/events/1042512"
+},
+{
+"text": "TEAM JAMIE-POSTCARD WRITING-JEFFERSON PARISH",
+"href": "https://www.laurenjewett.com/events/1039404"
+},
+{
+"text": "Team Jamie Davis-Canvass and Phone Bank-CAPITAL REGION",
+"href": "https://www.laurenjewett.com/events/1034755"
+},
+{
+"text": "Team Jamie Davis-Canvass and Phone Bank-CAPITAL REGION",
+"href": "https://www.laurenjewett.com/events/1034801"
+},
+{
+"text": "Team Jamie Davis-Postcard Writing-CAPITAL REGION",
+"href": "https://www.laurenjewett.com/events/1034789"
+},
+{
+"text": "Team Jamie Davis-SUPER SATURDAY-GOTV Activation-CAPITAL REGION",
+"href": "https://www.laurenjewett.com/events/1034837"
+},
+{
+"text": "Team Lauren Weekly Volunteer Call",
+"href": "https://www.laurenjewett.com/events/1034894"
+},
+{
+"text": "Thursday, Oct 15, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Thursday, Oct 15, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Thursday, Oct 15, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Thursday, Oct 22, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Thursday, Oct 22, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Thursday, Oct 22, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Thursday, Oct 29, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Thursday, Oct 29, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Thursday, Oct 29, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Thursday, Oct 8, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Thursday, Oct 8, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Thursday, Oct 8, 6:30PM - 8:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057037/"
+},
+{
+"text": "Thursday, Oct 8, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Tuesday, Nov 3, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Tuesday, Oct 13, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Tuesday, Oct 13, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Tuesday, Oct 13, 6PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057145/"
+},
+{
+"text": "Tuesday, Oct 13, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Tuesday, Oct 20, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Tuesday, Oct 20, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Tuesday, Oct 20, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "Tuesday, Oct 27, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "Tuesday, Oct 27, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Tuesday, Oct 27, 6PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "View & RSVP→ for Canvass with Team Lauren - Jefferson on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1056179/"
+},
+{
+"text": "View & RSVP→ for Canvass with Team Lauren - Lakeview on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1055786/"
+},
+{
+"text": "View & RSVP→ for Community Town Hall with Lauren Jewett on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1051531/"
+},
+{
+"text": "View & RSVP→ for Phone Bank for Lauren Jewett on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1030155/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE - Louisiana Tech Candidate Forum on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057011/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE - New Orleans Canvassing Shifts on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS- New Orleans Volunteer Trainings on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1041419/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-BLUE SATURDAY -LAKE CHARLES on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057080/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-COMMUNITY CANVASS-ACADIANA on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1037162/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-EMPOWER TRAINING-STATEWIDE on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039462/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-FESTIVALS ACADIENS ET CRÉOLES MEETUP-ACADIANA on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057051/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-Farmer To Table Fundraiser-NEW ORLEANS on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057037/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-GOTV LAUNCH PARTY -JEFFERSON PARISH on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057145/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-QUE PASA FEST -JEFFERSON PARISH on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057113/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-SENATE CANDIDATE TOWN HALL -UL Lafayette on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057265/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE DAVIS-WEEKLY NEW VOLUNTEER TRAINING-ST. TAMMANY PARISH on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1042512/"
+},
+{
+"text": "View & RSVP→ for TEAM JAMIE-POSTCARD WRITING-JEFFERSON PARISH on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039404/"
+},
+{
+"text": "View & RSVP→ for Team Jamie Davis-Canvass and Phone Bank-CAPITAL REGION on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034755/"
+},
+{
+"text": "View & RSVP→ for Team Jamie Davis-Canvass and Phone Bank-CAPITAL REGION on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034801/"
+},
+{
+"text": "View & RSVP→ for Team Jamie Davis-Postcard Writing-CAPITAL REGION on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034789/"
+},
+{
+"text": "View & RSVP→ for Team Jamie Davis-SUPER SATURDAY-GOTV Activation-CAPITAL REGION on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034837/"
+},
+{
+"text": "View & RSVP→ for Team Lauren Weekly Volunteer Call on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034894/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.laurenjewett.com/volunteer"
+},
+{
+"text": "Wednesday, Oct 14, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039462/"
+},
+{
+"text": "Wednesday, Oct 14, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1042512/"
+},
+{
+"text": "Wednesday, Oct 14, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Wednesday, Oct 14, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034755/"
+},
+{
+"text": "Wednesday, Oct 21, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039462/"
+},
+{
+"text": "Wednesday, Oct 21, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1042512/"
+},
+{
+"text": "Wednesday, Oct 21, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Wednesday, Oct 21, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034755/"
+},
+{
+"text": "Wednesday, Oct 28, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039462/"
+},
+{
+"text": "Wednesday, Oct 28, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1042512/"
+},
+{
+"text": "Wednesday, Oct 28, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Wednesday, Oct 28, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034755/"
+},
+{
+"text": "Wednesday, Oct 7, 5:30PM - 6:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1039462/"
+},
+{
+"text": "Wednesday, Oct 7, 5:30PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1042512/"
+},
+{
+"text": "Wednesday, Oct 7, 5PM - 7PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1043478/"
+},
+{
+"text": "Wednesday, Oct 7, 5PM - 8PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1034755/"
+},
+{
+"text": "Wednesday, Oct 7, 6:30PM - 7:30PM — sign up on Mobilize (opens in a new tab)",
+"href": "https://www.mobilize.us/committeetoelectlaurenjewett/event/1057011/"
+},
+{
+"text": "Yard Sign",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLScjW7jw_HJbn1SID7BwG_IV_gjStSjfoCibQCosi-OLK8vKeg/viewform"
+},
+{
+"text": "[email protected]",
+"href": "https://www.laurenjewett.com/cdn-cgi/l/email-protection"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/doitjewett.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@electlaurenjewett"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@ElectLaurenJewett"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/ElectLJewett"
+}
 ]

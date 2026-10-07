@@ -1,15 +1,78 @@
 [
-"https://facebook.com/PeteJohnsonMN8A",
-"https://google.com/intl/en/policies/privacy",
-"https://instagram.com/pete_johnson_mn_8a",
-"https://policies.google.com/privacy",
-"https://secure.actblue.com/donate/petej_for_mn8a",
-"https://termsfeed.com/blog/cookies",
-"https://twitter.com/PeteJ_MN8A",
-"https://votepete8a.com/",
-"https://votepete8a.com/accessibility-statement",
-"https://votepete8a.com/contact",
-"https://votepete8a.com/get-involved",
-"https://votepete8a.com/privacy-policy",
-"https://youtube.com/@PeteJohnsonMN8A"
+{
+"text": "About",
+"href": "https://votepete8a.com/#about-pete"
+},
+{
+"text": "Accessibility Statement",
+"href": "https://votepete8a.com/accessibility-statement"
+},
+{
+"text": "Contact",
+"href": "https://votepete8a.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/petej_for_mn8a"
+},
+{
+"text": "Endorsements",
+"href": "https://votepete8a.com/#endorsements"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/PeteJohnsonMN8A/"
+},
+{
+"text": "Get Involved",
+"href": "https://votepete8a.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/pete_johnson_mn_8a/"
+},
+{
+"text": "Open toolbar",
+"href": "javascript:void(0);"
+},
+{
+"text": "Peter.L.JohnsonMN@gmail.com",
+"href": "mailto:Peter.L.JohnsonMN@gmail.com"
+},
+{
+"text": "Priorities",
+"href": "https://votepete8a.com/#priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://votepete8a.com/privacy-policy/"
+},
+{
+"text": "TermsFeed website",
+"href": "https://www.termsfeed.com/blog/cookies/#What_Are_Cookies"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/PeteJ_MN8A"
+},
+{
+"text": "Vote Pete Johnson",
+"href": "https://votepete8a.com/"
+},
+{
+"text": "Youtube",
+"href": "https://www.youtube.com/@PeteJohnsonMN8A"
+},
+{
+"text": "https://policies.google.com/privacy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "votepete8a.com/contact",
+"href": "https://votepete8a.com/contact"
+}
 ]

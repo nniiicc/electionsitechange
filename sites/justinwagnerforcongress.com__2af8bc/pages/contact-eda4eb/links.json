@@ -1,16 +1,66 @@
 [
-"https://bsky.app/profile/justinwagnerpa16.bsky.social",
-"https://docs.google.com/forms/d/e/1FAIpQLSdwAadW5L7Xq_Zt1OLPCGG67S1ZhdQdgj7QO2bYIjLGcw3uHQ/viewform",
-"https://facebook.com/JWforCongress",
-"https://instagram.com/justinwagnerforcongress",
-"https://justinwagnerforcongress.com/",
-"https://justinwagnerforcongress.com/about",
-"https://justinwagnerforcongress.com/cart",
-"https://justinwagnerforcongress.com/contact",
-"https://justinwagnerforcongress.com/endorsements",
-"https://justinwagnerforcongress.com/platform",
-"https://justinwagnerforcongress.com/privacy-policy",
-"https://secure.actblue.com/donate/justin-wagner-3",
-"https://tiktok.com/@justinwagnerforcongress",
-"https://x.com/JustinWagnerPA"
+{
+"text": "0",
+"href": "https://www.justinwagnerforcongress.com/cart"
+},
+{
+"text": "ABOUT",
+"href": "https://www.justinwagnerforcongress.com/about"
+},
+{
+"text": "CONTACT",
+"href": "https://www.justinwagnerforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/justin-wagner-3"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.justinwagnerforcongress.com/endorsements"
+},
+{
+"text": "HOME",
+"href": "https://www.justinwagnerforcongress.com/"
+},
+{
+"text": "PLATFORM",
+"href": "https://www.justinwagnerforcongress.com/platform"
+},
+{
+"text": "PRIVACY POLICY/TERMS OF SERVICE",
+"href": "https://www.justinwagnerforcongress.com/privacy-policy"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSdwAadW5L7Xq_Zt1OLPCGG67S1ZhdQdgj7QO2bYIjLGcw3uHQ/viewform"
+},
+{
+"text": "[image: Justin Wagner For Congress]",
+"href": "https://www.justinwagnerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/justinwagnerpa16.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JWforCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/justinwagnerforcongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@justinwagnerforcongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/JustinWagnerPA"
+},
+{
+"text": "justin@justinwagnerforcongress.com",
+"href": "mailto:justin@justinwagnerforcongress.com?subject=Campaign+Inquiry&body=Hello+Justin%2CI+have+an+inquiry..."
+}
 ]

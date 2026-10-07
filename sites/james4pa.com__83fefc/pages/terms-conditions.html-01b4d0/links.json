@@ -1,20 +1,82 @@
 [
-"https://facebook.com/James4PA",
-"https://james4pa.com/about.html",
-"https://james4pa.com/campaign-faq.html",
-"https://james4pa.com/contribute",
-"https://james4pa.com/district.html",
-"https://james4pa.com/endorsements.html",
-"https://james4pa.com/get-involved",
-"https://james4pa.com/index.html",
-"https://james4pa.com/local-agenda.html",
-"https://james4pa.com/media-resources.html",
-"https://james4pa.com/privacy-policy.html",
-"https://james4pa.com/terms-conditions.html",
-"https://james4pa.com/the-choice.html",
-"https://james4pa.com/volunteer",
-"https://james4pa.com/voter-resources.html",
-"https://james4pa.com/yard-sign",
-"https://x.com/JamesJuliusPA",
-"https://youtube.com/@james4pa"
+{
+"text": "About James",
+"href": "https://www.james4pa.com/about.html"
+},
+{
+"text": "Campaign FAQ",
+"href": "https://www.james4pa.com/campaign-faq.html"
+},
+{
+"text": "Contribute",
+"href": "https://www.james4pa.com/contribute"
+},
+{
+"text": "District 45",
+"href": "https://www.james4pa.com/district.html"
+},
+{
+"text": "Endorsements",
+"href": "https://www.james4pa.com/endorsements.html"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/James4PA/"
+},
+{
+"text": "Get Involved",
+"href": "https://www.james4pa.com/get-involved"
+},
+{
+"text": "Get Involved form",
+"href": "https://www.james4pa.com/get-involved"
+},
+{
+"text": "Local Agenda",
+"href": "https://www.james4pa.com/local-agenda.html"
+},
+{
+"text": "Media Resources",
+"href": "https://www.james4pa.com/media-resources.html"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.james4pa.com/privacy-policy.html"
+},
+{
+"text": "Request a Yard Sign",
+"href": "https://www.james4pa.com/yard-sign"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.james4pa.com/terms-conditions.html"
+},
+{
+"text": "The Choice",
+"href": "https://www.james4pa.com/the-choice.html"
+},
+{
+"text": "Volunteer",
+"href": "https://www.james4pa.com/volunteer"
+},
+{
+"text": "Voter Resources",
+"href": "https://www.james4pa.com/voter-resources.html"
+},
+{
+"text": "X",
+"href": "https://x.com/JamesJuliusPA"
+},
+{
+"text": "YouTube",
+"href": "https://www.youtube.com/@james4pa"
+},
+{
+"text": "[image: James Julius State Representative]",
+"href": "https://www.james4pa.com/index.html"
+},
+{
+"text": "campaign@james4pa.com",
+"href": "mailto:campaign@james4pa.com"
+}
 ]

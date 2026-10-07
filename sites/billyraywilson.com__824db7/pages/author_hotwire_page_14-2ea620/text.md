@@ -1,5 +1,8 @@
-My Homeland is the United States of America, Not the Socialist Country of Israel (Op-Ed)
-From January 14 – January 18, 2014, the Herald-Leader published an article addressing KY State Assemblyman Stumbo and US Senate Candidate, the honorable Ms.
+Skip to content Home About Blog Books Contact Home About Blog Books Contact Billy Ray Wilson My Homeland is the United States of America, Not the Socialist Country of Israel (Op-Ed) Blog Post / By Billy Ray Wilson From January 14 – January 18, 2014, the Herald-Leader published an article addressing KY State Assemblyman Stumbo and US Senate Candidate, the honorable Ms.
 Grimes, controversy over the, alleged, use of the word NAZI during a political campaign rally.
-And, we learned the government of Israel was discussing a law that would make it a
-My Homeland is the United States of America, Not the Socialist Country of Israel (Op-Ed) Read More »
+And, we learned the government of Israel was discussing a law that would make it a My Homeland is the United States of America, Not the Socialist Country of Israel (Op-Ed) Read More » Wards of the Federal Government Blog Post / By Billy Ray Wilson SUBJECT: Notification of intent to seek public office I’m debating seeking the position as Kentucky’s 5th US Congressional District’s representative in the United States House of Representatives, as a Democratic Candidate, to replace the incumbent, the Honorable Harold Rogers (R).
+It is hard to find fault with the assistance to Kentuckians from southern and southeastern Wards of the Federal Government Read More » Un-Truths Blog Post / By Billy Ray Wilson Thirty five years of covert/overt assignment, primarily under the US Federal Government umbrella, taught me my childhood education regarding religion, the Declaration of Independence and the US Constitution, and our leaders were men of integrity, were untruths.
+Beginning with religion, from the womb to nine days after my seventeenth birthday, I was brainwashed regarding words Un-Truths Read More » Candid Talking Paper Blog Post / By Billy Ray Wilson There are a number of emergent actions that must be taken by the United States Congress to assure the physical and economic security of the United States of America.
+The failure to correct the treasonous actions by the Congress of the United States and the White House occupants since May 1948 has brought our nation Candid Talking Paper Read More » ← Previous 1 … 13 14 Home About Blog Books Contact Copyright © # Billy Ray Wilson.
+All Rights Reserved.
+Scroll to Top

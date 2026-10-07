@@ -1,25 +1,3 @@
-Endorsements
-Rep.
+0 Skip to Content About Priorities Legislation District News Endorsements Vote Volunteer Donate Open Menu Close Menu About Priorities Legislation District News Endorsements Vote Volunteer Donate Open Menu Close Menu About Priorities Legislation District News Endorsements Vote Volunteer Donate Endorsements Rep.
 Kathy LaNatra is proud and honored to have earned the endorsements of several unions, organizations, and advocacy groups in the 2026 election cycle.
-Below is the growing list of support from working individuals and family members and organizations, representing a wide range of important issues of concern for constituents:
-- Massachusetts AFL-CIO
-- 1199SEIU Massachusetts
-- United Brotherhood of Carpenters and Joiners of America Local 346
-- International Association of Bridge, Structural, Ornamental, and Reinforcing Iron Workers Local 7
-- Massachusetts Fraternal Order of Police
-- Bricklayers & Allied Craftsmen Local 3
-- Brotherhood of Locomotive Engineers and Trainmen Division 57
-- SEIU Local 509
-- Massachusetts Organization of State Engineers & Scientists
-- Massachusetts Women's Political Caucus
-- Collective Bargaining Relief Association
-- Massachusetts Retirees Association
-- Southeastern Massachusetts Building Trades Council
-- State Police Association of Massachusetts
-- Humane World Action Fund
-- International Association of Fire Fighters Local 144
-- South Shore Realtors®
-- Massachusetts Voters for Animals
-- Environmental League of Massachusetts
-- Massachusetts Nurses Association
-Last updated: September 29th, 2026
+Below is the growing list of support from working individuals and family members and organizations, representing a wide range of important issues of concern for constituents: Massachusetts AFL-CIO 1199SEIU Massachusetts United Brotherhood of Carpenters and Joiners of America Local 346 International Association of Bridge, Structural, Ornamental, and Reinforcing Iron Workers Local 7 Massachusetts Fraternal Order of Police Bricklayers & Allied Craftsmen Local 3 Brotherhood of Locomotive Engineers and Trainmen Division 57 SEIU Local 509 Massachusetts Organization of State Engineers & Scientists Massachusetts Women's Political Caucus Collective Bargaining Relief Association Massachusetts Retirees Association Southeastern Massachusetts Building Trades Council State Police Association of Massachusetts Humane World Action Fund International Association of Fire Fighters Local 144 South Shore Realtors® Massachusetts Voters for Animals Environmental League of Massachusetts Massachusetts Nurses Association Last updated: September 29th, 2026 About Priorities Legislation Volunteer Donate Paid for by the LaNatra Committee

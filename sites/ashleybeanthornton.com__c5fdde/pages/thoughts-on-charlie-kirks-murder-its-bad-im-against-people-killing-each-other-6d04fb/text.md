@@ -1,14 +1,12 @@
-Thoughts on Charlie Kirk’s Murder?
+Skip to content Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Ashley Bean Thornton for Texas House District 56 Thoughts on Charlie Kirk’s Murder?
 It’s bad.
 I’m against people killing each other.
-This post originally appeared on Dead Dillo.
+This post originally appeared on Dead Dillo .
 Charlie Kirk was killed on Wednesday.
 I did not make any specific comments on social media about it.
 I did post on Facebook, “There are several issues I care passionately about when it comes to politics – public education, personal freedom, many things – but even more than I care about any particular issue, I care about us being able to discuss our differences without demonizing, and belittling and shaming and shunning and hating each other.
-Because, brothers and sisters, that leads nowhere good.”
-On Thursday, an old friend posted on my timeline, “Comments on Charlie Kirk’s murder?” My response was, “It’s bad.
-I’m against people killing each other.”
-My friend, actually a couple of my friends, did not think this was a good answer.
+Because, brothers and sisters, that leads nowhere good.” On Thursday, an old friend posted on my timeline, “Comments on Charlie Kirk’s murder?” My response was, “It’s bad.
+I’m against people killing each other.” My friend, actually a couple of my friends, did not think this was a good answer.
 What followed were several comments ranging from concerned to indignant, but with the general theme that if I want to have a leadership role I should say more, that I should not be lazy, that I should not play word games.
 I should be bolder, more of a voice for good.
 I guess my comment hit the wrong nerve on that day when many of us were wearing our nerves on the outside.
@@ -81,3 +79,7 @@ It’s not easy.
 Sometimes it doesn’t feel fair or righteous.
 It feels very often like it is not working.
 But are we OK with the alternative?
+I am against us killing each other.
+More Posts on Pulling together Instead of Pushing Apart “Peace” and “Quiet” are not the same.
+For true peace we need to start talking!
+Read More » January 9, 2025 Wandering the Neighborhood… (2024) Read More » January 14, 2024 The Texas Scorecard – My Enemy (2023) Read More » August 19, 2023 Tagged Pulling together Instead of Pushing Apart Join the Campaign Donate Join the Newsletter Donate Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign Home EN/SP English Spanish FB IG Blog Shop Volunteer Newsletter Yard Sign The Texas We want Working Together The Texas Economy Strong Public Schools Facebook Instagram Info@AshleyBeanThornton.com Political Advertising Paid for ABT for TEX 4300 W Waco Drive Suite 2B Box 193 • Waco, Texas 76710 © #-# Thornton for Texas Campaign Terms of Service | Privacy Policy | Disclaimer | Website by Digital Media Butterfly

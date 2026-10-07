@@ -1,7 +1,46 @@
 [
-"https://cookforgeorgia.com/",
-"https://facebook.com/cookforgeorgia",
-"https://instagram.com/cookforgeorgia",
-"https://secure.anedot.com/daniel-cook-for-state-house/donate",
-"https://x.com/cookforgeorgia"
+{
+"text": "$100",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "$25",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "$250",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "$50",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.anedot.com/daniel-cook-for-state-house/donate"
+},
+{
+"text": "[image: Daniel Cook for State House]",
+"href": "https://cookforgeorgia.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/cookforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/cookforgeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/cookforgeorgia"
+},
+{
+"text": "info@cookforgeorgia.com",
+"href": "mailto:info@cookforgeorgia.com"
+}
 ]

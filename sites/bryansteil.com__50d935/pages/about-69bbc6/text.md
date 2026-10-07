@@ -1,5 +1,4 @@
-Steil is a problem solver and tireless advocate for Southeast Wisconsin
-Congressman Bryan Steil proudly serves the people of Southeast Wisconsin in Congress.
+Skip to content Home About Issues Volunteer Shop Donate Steil is a problem solver and tireless advocate for Southeast Wisconsin Congressman Bryan Steil proudly serves the people of Southeast Wisconsin in Congress.
 Throughout Steil’s service in office, he has been available and accessible to Southeast Wisconsin and is fighting for families and workers.
 He has a history of private sector experience, public service, and community involvement.
 First elected to Congress in 2018, Steil has been a steadfast advocate for Wisconsin values.
@@ -22,3 +21,5 @@ Steil voted to freeze tuition to ensure that students had access to high quality
 Steil is a Janesville native, Craig High School, Georgetown University and University of Wisconsin graduate.
 He is a member of St.
 John Vianney Parish in Janesville.
+Paid for by Steil for Wisconsin, Inc.
+Review Bryan’s Financial Disclosure Privacy Policy Do Not Sell or Share My Personal Information This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.

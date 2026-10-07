@@ -1,14 +1,2 @@
-Professional Background
-- President and Owner Harris-Mckay Realty for 29 years
-- Lifelong commitment to public service, shaped by early leadership through the Jaycees and Future Farmers of America
-- Anniston, Alabama native and entrepreneur who started his first business at age 19
-- President of Harris-McKay Realty for over 29 years, creating jobs and growing a successful small business
-- State and national leadership experience, including President of the Alabama Association of Realtors and service on the National Association of Realtors Board of Directors
-- Proven advocate and negotiator, helping secure a fair settlement for Alabama Realtors following the 2010 BP Gulf oil spill
-- Deeply involved community leader, serving in numerous civic and charitable leadership roles
-Service in the Alabama Senate – District 12 (nearly 4 years):
-- Strong, consistent voice for Northeast Alabama, representing District 12 with integrity and accessibility
-- Advocate for conservative values, supporting policies that protect families, strengthen local communities, and encourage economic growth
-- Champion for small businesses and job creators, bringing real-world business experience to legislative decision-making
-- Focused on constituent service, working directly with local leaders and residents to address district needs
-- Respected relationship-builder, able to work effectively while remaining principled and values-driven
+top of page HOME ABOUT KEITH DONATE BACKGROUND ISSUES Professional Background ​ ​ ​ ​ ​ ​ ​ ​ ​ President and Owner Harris-Mckay Realty for 29 y ears Lifelong commitment to public service, shaped by early leadership through the Jaycees and Future Farmers of America Anniston, Alabama native and entrepreneur who started his first business at age 19 President of Harris-McKay Realty for over 29 years , creating jobs and growing a successful small business State and national leadership experience, including President of the Alabama Association of Realtors and service on the National Association of Realtors Board of Directors Proven advocate and negotiator , helping secure a fair settlement for Alabama Realtors following the 2010 BP Gulf oil spill Deeply involved community leader, serving in numerous civic and charitable leadership roles ​ Service in the Alabama Senate – District 12 (nearly 4 years): ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ Strong, consistent voice for Northeast Alabama , representing District 12 with integrity and accessibility Advocate for conservative values , supporting policies that protect families, strengthen local communities, and encourage economic growth Champion for small businesses and job creators , bringing real-world business experience to legislative decision-making Focused on constituent service , working directly with local leaders and residents to address district needs Respected relationship-builder , able to work effectively while remaining principled and values-driven ​ PAID FOR BY FRIENDS OF KEITH KELLEY | P.O.
+BOX 2633 ANNISTON AL 36202 Contact PO BOX 2633 Anniston, AL 36202 334-261-0846 keith.kelley@alsenate.gov bottom of page

@@ -1,31 +1,138 @@
 [
-"https://facebook.com/VivekGRamaswamy",
-"https://instagram.com/vivekgramaswamy",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_donate-popup",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_footer",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_navbar",
-"https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_navbar-mobile",
-"https://vivekforohio.com/",
-"https://vivekforohio.com/contact-us",
-"https://vivekforohio.com/donate-using-crypto",
-"https://vivekforohio.com/endorsements",
-"https://vivekforohio.com/events",
-"https://vivekforohio.com/get-involved",
-"https://vivekforohio.com/latest-news",
-"https://vivekforohio.com/media-kit",
-"https://vivekforohio.com/meet-rob",
-"https://vivekforohio.com/meet-vivek",
-"https://vivekforohio.com/press-releases",
-"https://vivekforohio.com/privacy",
-"https://vivekforohio.com/store",
-"https://vivekforohio.com/terms",
-"https://vivekforohio.com/the-plan",
-"https://vivekforohio.com/war-room",
-"https://vivekforohio.com/wp-content/uploads/2025/02/VivekForOhio-FullColor-Logo-1.png",
-"https://vivekforohio.com/wp-content/uploads/2025/11/c9388db187587aa7c44dd76a6c5845b91937204a.png",
-"https://vivekforohio.com/wp-content/uploads/2025/12/24e7956693668d55958c38d21ce8c4bd8ab2c388.png",
-"https://vivekforohio.com/wp-content/uploads/2025/12/Vivek-Downloadable-Yard-sign.zip",
-"https://vivekforohio.com/wp-content/uploads/2025/12/Vivek_Ramaswamy_Headshots.zip",
-"https://x.com/VivekGRamaswamy",
-"https://youtube.com/@VivekGRamaswamy"
+{
+"text": "Contact Us",
+"href": "https://vivekforohio.com/contact-us/"
+},
+{
+"text": "Credit Card",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_donate-popup"
+},
+{
+"text": "Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_footer"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_navbar"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/vivek-ramaswamy-for-ohio/website-donate?web_id=vivekforohio_media-kit_navbar-mobile"
+},
+{
+"text": "Donate Using Crypto",
+"href": "https://vivekforohio.com/donate-using-crypto/"
+},
+{
+"text": "Download",
+"href": "https://vivekforohio.com/wp-content/uploads/2025/12/Vivek-Downloadable-Yard-sign.zip"
+},
+{
+"text": "Download All",
+"href": "https://vivekforohio.com/wp-content/uploads/2025/12/Vivek_Ramaswamy_Headshots.zip"
+},
+{
+"text": "Download Logo",
+"href": "https://vivekforohio.com/wp-content/uploads/2025/02/VivekForOhio-FullColor-Logo-1.png"
+},
+{
+"text": "Download Logo",
+"href": "https://vivekforohio.com/wp-content/uploads/2025/11/c9388db187587aa7c44dd76a6c5845b91937204a.png"
+},
+{
+"text": "Download Logo",
+"href": "https://vivekforohio.com/wp-content/uploads/2025/12/24e7956693668d55958c38d21ce8c4bd8ab2c388.png"
+},
+{
+"text": "Endorsements",
+"href": "https://vivekforohio.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://vivekforohio.com/events/"
+},
+{
+"text": "Get Involved",
+"href": "https://vivekforohio.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://vivekforohio.com/"
+},
+{
+"text": "Latest News",
+"href": "https://vivekforohio.com/latest-news/"
+},
+{
+"text": "Media Kit",
+"href": "https://vivekforohio.com/media-kit/"
+},
+{
+"text": "Meet Rob",
+"href": "https://vivekforohio.com/meet-rob/"
+},
+{
+"text": "Meet Vivek",
+"href": "https://vivekforohio.com/meet-vivek/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:press@vivekforohio.com"
+},
+{
+"text": "Press Releases",
+"href": "https://vivekforohio.com/press-releases/"
+},
+{
+"text": "Team Store",
+"href": "https://vivekforohio.com/store/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://vivekforohio.com/terms/"
+},
+{
+"text": "The Plan",
+"href": "https://vivekforohio.com/the-plan/"
+},
+{
+"text": "War Room",
+"href": "https://vivekforohio.com/war-room/"
+},
+{
+"text": "[image: Governor]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[image: Vivek for Ohio]",
+"href": "https://vivekforohio.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/vivekgramaswamy/"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@VivekGRamaswamy"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VivekGRamaswamy"
+},
+{
+"text": "press@vivekforohio.com",
+"href": "mailto:press@vivekforohio.com"
+},
+{
+"text": "privacy policy",
+"href": "https://vivekforohio.com/privacy/"
+}
 ]

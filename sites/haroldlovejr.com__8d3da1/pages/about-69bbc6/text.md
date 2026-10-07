@@ -1,3 +1,6 @@
+0 Skip to Content About Love's Plan Love's Work Contact Us Open Menu Close Menu About Love's Plan Love's Work Contact Us Open Menu Close Menu About Love's Plan Love's Work Contact Us Passion.
+Experience.
+Diligence.
 Harold M.
 Love., Jr. was born in Nashville, TN to the Late Rep.
 Harold M.
@@ -21,3 +24,5 @@ Church.
 On November 21, 2016, he was appointed Pastor of Lee Chapel A.M.E.
 Church in Nashville, TN.
 Love is married to the former Leah Dupree who is an attorney and couple resides in North Nashville.
+Representative Harold M.
+Love, Jr 425 5th Avenue North (615) 741-3831 Nashville, TN 37243 (615) 866-7928

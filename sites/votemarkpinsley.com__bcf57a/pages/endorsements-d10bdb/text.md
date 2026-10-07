@@ -1,26 +1,4 @@
-Skip to main content
-Skip to footer
-Mark is endorsed by:
-Bernie Sanders
-Senator (I-VT)
-Ro Khanna
-CA Congressman
-Steve Santarsiero
-State Senator
-Josh Siegel
-Lehigh County Executive
-Daniel A.
-Buglio
-Lehigh County Coroner
-Sarah Fevig
-Lehigh County Commissioner
-Jon Irons
-Lehigh County Commissioner
-April Riddick
-Lehigh County Commissioner
-Tommy Johns
-South Whitehall Township Commissioner
-Stephen Nathan
-Alternate Member, Zoning Hearing Board for Perkasie Borough
-Alan Jennings
-Former Executive Director, Community Action Lehigh Valley
+Skip to main content Skip to footer DONATE The Candidate The Issues Get In Contact Endorsements Mark is endorsed by: Josh Shapiro Governor of Pennsylvania Bernie Sanders Senator (I-VT) Ro Khanna CA Congressman Steve Santarsiero State Senator Josh Siegel Lehigh County Executive Daniel A.
+Buglio Lehigh County Coroner Sarah Fevig Lehigh County Commissioner Jon Irons Lehigh County Commissioner April Riddick Lehigh County Commissioner Tommy Johns South Whitehall Township Commissioner Stephen Nathan Alternate Member, Zoning Hearing Board for Perkasie Borough Alan Jennings Former Executive Director, Community Action Lehigh Valley Paid for by Friends of Mark Pinsley.
+Military service and photographs in uniform do not imply endorsement by the Department of Defense or Department of the Army .
+The Candidate The issues get involved donate contact Privacy policy Terms and Conditions Copyright # Friends of Mark Pinsley 1855 Valley Forge Road Allentown PA

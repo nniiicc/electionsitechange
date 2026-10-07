@@ -1,21 +1,78 @@
 [
-"https://carlosgimenezforcongress.com/",
-"https://carlosgimenezforcongress.com/contact",
-"https://carlosgimenezforcongress.com/meet-carlos",
-"https://carlosgimenezforcongress.com/privacy-policy",
-"https://carlosgimenezforcongress.com/resources-for-voters",
-"https://carlosgimenezforcongress.com/take-action",
-"https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv",
-"https://dos.myflorida.com/elections/for-voters/voter-registration/register-to-vote-or-update-your-information",
-"https://facebook.com/CarlosGimenezforCongress",
-"https://instagram.com/carlosgimenezfl26",
-"https://keys-elections.org/Polling-Location/Find-Your-Precinct",
-"https://keys-elections.org/m/Voter-Information/Early-Voting",
-"https://keys-elections.org/m/Voter-Information/Vote-by-Mail",
-"https://miamidade.gov/global/service.page?Mduid_service=ser151187731708822",
-"https://miamidade.gov/global/service.page?Mduid_service=ser1511962555914873",
-"https://miamidade.gov/global/service.page?Mduid_service=ser1512065909614490",
-"https://registration.elections.myflorida.com/CheckVoterStatus",
-"https://secure.winred.com/carlos-gimenez-for-congress/donate?recurring=true",
-"https://twitter.com/CarlosGimenezFL"
+{
+"text": "Check Your Voter Status",
+"href": "https://registration.elections.myflorida.com/CheckVoterStatus"
+},
+{
+"text": "Contact",
+"href": "https://carlosgimenezforcongress.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/carlos-gimenez-for-congress/donate/?recurring=true"
+},
+{
+"text": "Issues",
+"href": "https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/"
+},
+{
+"text": "Meet Carlos",
+"href": "https://carlosgimenezforcongress.com/meet-carlos/"
+},
+{
+"text": "Miami-Dade County",
+"href": "https://www.miamidade.gov/global/service.page?Mduid_service=ser151187731708822"
+},
+{
+"text": "Miami-Dade County",
+"href": "https://www.miamidade.gov/global/service.page?Mduid_service=ser1511962555914873"
+},
+{
+"text": "Miami-Dade County",
+"href": "https://www.miamidade.gov/global/service.page?Mduid_service=ser1512065909614490"
+},
+{
+"text": "Monroe County",
+"href": "https://www.keys-elections.org/Polling-Location/Find-Your-Precinct"
+},
+{
+"text": "Monroe County",
+"href": "https://www.keys-elections.org/m/Voter-Information/Early-Voting"
+},
+{
+"text": "Monroe County",
+"href": "https://www.keys-elections.org/m/Voter-Information/Vote-by-Mail"
+},
+{
+"text": "Privacy Policy",
+"href": "https://carlosgimenezforcongress.com/privacy-policy/"
+},
+{
+"text": "Register to Vote or Update Information",
+"href": "https://dos.myflorida.com/elections/for-voters/voter-registration/register-to-vote-or-update-your-information/"
+},
+{
+"text": "Take Action",
+"href": "https://carlosgimenezforcongress.com/take-action/"
+},
+{
+"text": "Vote",
+"href": "https://carlosgimenezforcongress.com/resources-for-voters/"
+},
+{
+"text": "[image: Carlos Gimenez for Congress]",
+"href": "https://carlosgimenezforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/CarlosGimenezFL"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarlosGimenezforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carlosgimenezfl26/"
+}
 ]

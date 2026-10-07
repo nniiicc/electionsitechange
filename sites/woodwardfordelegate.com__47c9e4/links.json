@@ -1,9 +1,42 @@
 [
-"https://facebook.com/woodwardfordelegate",
-"https://google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fwoodwardfordelegate&sa=D&sntz=1&usg=AOvVaw3fawKmR5T74DI0H2sVwGY1",
-"https://google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fwoodwardfordelegate%2F&sa=D&sntz=1&usg=AOvVaw1htoZD6eLoJngf-636o7RF",
-"https://secure.actblue.com/donate/woodwardfordelegate",
-"https://woodwardfordelegate.com/around-the-community",
-"https://woodwardfordelegate.com/events",
-"https://woodwardfordelegate.com/home"
+{
+"text": "Around the Community",
+"href": "https://www.woodwardfordelegate.com/around-the-community"
+},
+{
+"text": "Check us out on Facebook!",
+"href": "https://www.facebook.com/woodwardfordelegate/"
+},
+{
+"text": "Donate",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fwoodwardfordelegate&sa=D&sntz=1&usg=AOvVaw3fawKmR5T74DI0H2sVwGY1"
+},
+{
+"text": "Events",
+"href": "https://www.woodwardfordelegate.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.woodwardfordelegate.com/home"
+},
+{
+"text": "Woodward 4 Delegate",
+"href": "https://www.woodwardfordelegate.com/home"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fwoodwardfordelegate%2F&sa=D&sntz=1&usg=AOvVaw1htoZD6eLoJngf-636o7RF"
+},
+{
+"text": "[image]",
+"href": "mailto:crystal@woodwardfordelegate.com"
+},
+{
+"text": "crystal@woodwardfordelegate.com",
+"href": "mailto:crystal@woodwardfordelegate.com"
+},
+{
+"text": "https://secure.actblue.com/donate/woodwardfordelegate",
+"href": "https://secure.actblue.com/donate/woodwardfordelegate"
+}
 ]

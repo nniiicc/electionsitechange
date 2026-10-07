@@ -1,15 +1,54 @@
 [
-"https://facebook.com/841807132344519",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://secure.actblue.com/donate/waltonforiowa",
-"https://waltonforiowa.com/about-iowa-hd-28",
-"https://waltonforiowa.com/bio",
-"https://waltonforiowa.com/contact",
-"https://waltonforiowa.com/events-1",
-"https://waltonforiowa.com/get-the-facts-3",
-"https://waltonforiowa.com/home",
-"https://waltonforiowa.com/make-your-plan-to-vote",
-"https://waltonforiowa.com/privacy-policy",
-"https://waltonforiowa.com/tom-on-the-issues-1",
-"https://waltonforiowa.com/volunteer"
+{
+"text": "About Iowa HD 28",
+"href": "https://waltonforiowa.com/about-iowa-hd-28"
+},
+{
+"text": "Bio",
+"href": "https://waltonforiowa.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://waltonforiowa.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/waltonforiowa"
+},
+{
+"text": "Events",
+"href": "https://waltonforiowa.com/events-1"
+},
+{
+"text": "Get the Facts",
+"href": "https://waltonforiowa.com/get-the-facts-3"
+},
+{
+"text": "Home",
+"href": "https://waltonforiowa.com/home"
+},
+{
+"text": "Make your Plan to Vote",
+"href": "https://waltonforiowa.com/make-your-plan-to-vote"
+},
+{
+"text": "Privacy Policy",
+"href": "https://waltonforiowa.com/privacy-policy"
+},
+{
+"text": "Tom on the Issues",
+"href": "https://waltonforiowa.com/tom-on-the-issues-1"
+},
+{
+"text": "Volunteer!",
+"href": "https://waltonforiowa.com/volunteer"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/841807132344519"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

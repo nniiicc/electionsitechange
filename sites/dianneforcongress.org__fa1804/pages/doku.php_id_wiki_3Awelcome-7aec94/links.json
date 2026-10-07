@@ -1,31 +1,126 @@
 [
-"https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-"https://dianneforcongress.org/doku.php?do=admin&page=config",
-"https://dianneforcongress.org/doku.php?id=about",
-"https://dianneforcongress.org/doku.php?id=sidebar",
-"https://dianneforcongress.org/doku.php?id=start",
-"https://dianneforcongress.org/doku.php?id=volunteer_-_let_s_work_for_a_greenus",
-"https://dianneforcongress.org/doku.php?id=what_i_stand_for_-_a_greenus",
-"https://dianneforcongress.org/doku.php?id=wiki%3Asyntax",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=backlink",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=edit",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=index",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=login",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=media&ns=wiki",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=recent",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=register",
-"https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=revisions",
-"https://dokuwiki.org/",
-"https://dokuwiki.org/donate",
-"https://dokuwiki.org/faq%3Asidebar",
-"https://dokuwiki.org/faq%3Asupport",
-"https://dokuwiki.org/newsletter",
-"https://dokuwiki.org/plugins",
-"https://dokuwiki.org/teams%3Agetting_involved",
-"https://dokuwiki.org/templates",
-"https://forum.dokuwiki.org/",
-"https://jigsaw.w3.org/css-validator/check/referer?profile=css3",
-"https://php.net/",
-"https://validator.w3.org/check/referer"
+{
+"text": "Backlinks",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=backlink"
+},
+{
+"text": "CC Attribution-Share Alike 4.0 International",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "DokuWiki User Forum",
+"href": "https://forum.dokuwiki.org"
+},
+{
+"text": "FAQ on sidebars",
+"href": "https://www.dokuwiki.org/faq%3Asidebar"
+},
+{
+"text": "Log In",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=login&sectok="
+},
+{
+"text": "Media Manager",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=media&ns=wiki"
+},
+{
+"text": "Old revisions",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=revisions"
+},
+{
+"text": "Recent Changes",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=recent"
+},
+{
+"text": "Register",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=register"
+},
+{
+"text": "Show pagesource",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=edit"
+},
+{
+"text": "Sitemap",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome&do=index"
+},
+{
+"text": "[image: CC Attribution-Share Alike 4.0 International]",
+"href": "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
+},
+{
+"text": "[image: Donate]",
+"href": "https://www.dokuwiki.org/donate"
+},
+{
+"text": "[image: Driven by DokuWiki]",
+"href": "https://dokuwiki.org/"
+},
+{
+"text": "[image: Powered by PHP]",
+"href": "https://php.net"
+},
+{
+"text": "[image: Valid CSS]",
+"href": "https://jigsaw.w3.org/css-validator/check/referer?profile=css3"
+},
+{
+"text": "[image: Valid HTML5]",
+"href": "https://validator.w3.org/check/referer"
+},
+{
+"text": "[image]Dianne Blais for Congress!",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "about",
+"href": "https://dianneforcongress.org/doku.php?id=about"
+},
+{
+"text": "configuration settings",
+"href": "https://dianneforcongress.org/doku.php?do=admin&page=config"
+},
+{
+"text": "getting involved",
+"href": "https://www.dokuwiki.org/teams%3Agetting_involved"
+},
+{
+"text": "newsletter",
+"href": "https://www.dokuwiki.org/newsletter"
+},
+{
+"text": "plugins",
+"href": "https://www.dokuwiki.org/plugins"
+},
+{
+"text": "sidebar",
+"href": "https://dianneforcongress.org/doku.php?id=sidebar"
+},
+{
+"text": "start",
+"href": "https://dianneforcongress.org/doku.php?id=start"
+},
+{
+"text": "support",
+"href": "https://www.dokuwiki.org/faq%3Asupport"
+},
+{
+"text": "syntax page",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Asyntax"
+},
+{
+"text": "templates",
+"href": "https://www.dokuwiki.org/templates"
+},
+{
+"text": "volunteer_-_let_s_work_for_a_greenus",
+"href": "https://dianneforcongress.org/doku.php?id=volunteer_-_let_s_work_for_a_greenus"
+},
+{
+"text": "welcome",
+"href": "https://dianneforcongress.org/doku.php?id=wiki%3Awelcome"
+},
+{
+"text": "what_i_stand_for_-_a_greenus",
+"href": "https://dianneforcongress.org/doku.php?id=what_i_stand_for_-_a_greenus"
+}
 ]

@@ -1,15 +1,9 @@
-Scott's Action Plan
-Infrastructure First
-Make Spartanburg County roads THE priority.
+top of page Home Contact Meet Scott Action Plan Sign Up Donate Scott's Action Plan Infrastructure First Make Spartanburg County roads THE priority.
 Work with state leaders to ensure infrastructure funding is returned home and goes where it is intended.
-Back The Blue
-Always stand shoulder to shoulder with law enforcement and first responders.
+Back The Blue Always stand shoulder to shoulder with law enforcement and first responders.
 Help them do their jobs by supporting them in every way possible and working with our Congressional leadership to fight illegal immigration.
-Conservative Values
-Always protect the right to life and defend our right to bear arms.
-Taxes & Wasteful Spending
-Cut state income taxes and wasteful spending by prioritizing funding for projects that matter to Upstate families and small businesses.
-Quality Education
-For All
-Strongly back teachers, parents, and students.
+Conservative Values Always protect the right to life and defend our right to bear arms.
+Taxes & Wasteful Spending Cut state income taxes and wasteful spending by prioritizing funding for projects that matter to Upstate families and small businesses.
+Quality Education For All Strongly back teachers, parents, and students.
 We need safe schools, more competitive teacher salaries, and protection for parents who need more educational options for their children.
+PO Box 5441, Spartanburg, SC 29301 ​ Paid for by Scott Montgomery for State House ​ Privacy Policy Terms and Conditions bottom of page

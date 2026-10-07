@@ -1,3 +1,2 @@
-By Mail To donate by mail, please make checks payable to:
-Benninghoff For Representative Committee 328 East Lamb Street Bellefonte, PA 16823
-Online To donate online, please click here:
+Meet Kerry Endorsements Volunteer Meet Kerry Endorsements Volunteer Donate Make a Donation Your support will help Kerry deliver his message to the voters.
+By Mail To donate by mail, please make checks payable to: Benninghoff For Representative Committee 328 East Lamb Street Bellefonte, PA 16823 Online To donate online, please click here: Donate Today Paid for by Benninghoff Representative Committee 328 E Lamb St, Bellefonte, PA 16823 © # All Rights Reserved

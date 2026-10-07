@@ -1,16 +1,5 @@
-Joy lives in Hawaiian Paradise Park with her husband “Weldin” Sheldon Lehman and their dog Makamae and cat Kuʻuipo.
+Skip to content home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Menu Close home about meet Joy Puna District issues join us get involved contact donate who’s with Joy Joy San Buenaventura Hawaii State Senate District 2 (Puna) meet joy DONATE Senate district 2 Puna working for a better Puna Issues involving the district District Concerns Hwy 130 and its improvement Funds for keiki wellbeing Improved healthcare (teleMed/clinics) Crime abatement Broadband availability Lava recovery Listening to your needs GET INVOLVED NOW Take the opportunity to have your voice heard by coming to town halls, calling us about your concerns and getting involved.
+Involvement makes the most impact in our community Contact Us Join Friends of Joy San Buenaventura PO BOX 1675 Kea’au, HI 96749 DONATE DONATE Your support is much appreciated and needed Mahalo for your support Meet Joy Joy lives in Hawaiian Paradise Park with her husband “Weldin” Sheldon Lehman and their dog Makamae and cat Kuʻuipo.
 She has represented Hawaii Representative district 4 since 2014 and presently represents Hawaii Senate district 2.
 She was the chair of the Senate Human Services Committee and a member of the Commerce and Consumer Protection Committee in the last legislative session.
-Senate district 2 Puna
-working for a better Puna
-Hwy 130 and its improvement
-Funds for keiki wellbeing
-Improved healthcare (teleMed/clinics)
-Crime abatement
-Broadband availability
-Lava recovery
-Take the opportunity to have your voice heard by coming to town halls, calling us about your concerns and getting involved.
-Involvement makes the most impact in our community
-Join Friends of Joy San Buenaventura
-PO BOX 1675
-Kea’au, HI 96749
+Read More Contact Info Friends of Joy San Buenaventura Address: PO Box 1675 Kea'au Hi 96749 Phone: Frank Commendador 808-217-2215 Email: Joy4Puna joy4puna@outlook.com Opens in your application Follow Us Opens in a new tab Opens in a new tab Opens in a new tab Useful Links register to vote Opens in a new tab redistricting Hawaii Senate Opens in a new tab unemployment insurance information Opens in a new tab Hawaii County assistance programs Opens in a new tab Kīlauea eruption recovery Opens in a new tab Donate Copyright # - emsbmd@yahoo.com

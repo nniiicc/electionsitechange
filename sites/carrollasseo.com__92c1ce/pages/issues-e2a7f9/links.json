@@ -1,17 +1,86 @@
 [
-"https://carrollasseo.com/",
-"https://carrollasseo.com/about",
-"https://carrollasseo.com/contact",
-"https://carrollasseo.com/issues/issue-1",
-"https://carrollasseo.com/issues/issue-2",
-"https://carrollasseo.com/issues/lower-costs-higher-wages",
-"https://carrollasseo.com/issues/standing-up-for-working-families",
-"https://carrollasseo.com/privacy-policy",
-"https://carrollasseo.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/carrollasseo",
-"https://instagram.com/carroll.asseo",
-"https://secure.actblue.com/donate/carroll-asseo-1",
-"https://threads.net/@carroll.asseo",
-"https://tiktok.com/@carroll.asseo"
+{
+"text": "About",
+"href": "https://www.carrollasseo.com/about"
+},
+{
+"text": "Affordable & Accessible Healthcare",
+"href": "https://www.carrollasseo.com/issues/issue-2"
+},
+{
+"text": "Contact",
+"href": "https://www.carrollasseo.com/contact"
+},
+{
+"text": "Contact us directly",
+"href": "mailto:info@carrollasseo.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/carroll-asseo-1"
+},
+{
+"text": "Home",
+"href": "https://www.carrollasseo.com/"
+},
+{
+"text": "Lower Costs & Higher Wages",
+"href": "https://www.carrollasseo.com/issues/lower-costs-higher-wages"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.carrollasseo.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Standing up for Working Families",
+"href": "https://www.carrollasseo.com/issues/standing-up-for-working-families"
+},
+{
+"text": "Stronger Public Schools",
+"href": "https://www.carrollasseo.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.carrollasseo.com/issues/issue-1"
+},
+{
+"text": "View more",
+"href": "https://www.carrollasseo.com/issues/issue-2"
+},
+{
+"text": "View more",
+"href": "https://www.carrollasseo.com/issues/lower-costs-higher-wages"
+},
+{
+"text": "View more",
+"href": "https://www.carrollasseo.com/issues/standing-up-for-working-families"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carrollasseo.com/volunteer"
+},
+{
+"text": "[image: Carroll Asseo for House]",
+"href": "https://www.carrollasseo.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/carrollasseo"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/carroll.asseo"
+},
+{
+"text": "[no text]",
+"href": "https://threads.net/@carroll.asseo"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@carroll.asseo"
+}
 ]

@@ -1,10 +1,2 @@
-We Support Iva !
-- Zach Robinson Former Sandy City Councilmember
-- Friends of Little Cottonwood Canyon
-- UEA PAC Utah Educators Association
-- IBEW Local 354 “We believe Iva’s leadership and commitment to supporting working families, protecting workers’ rights, and expanding opportunities through union apprenticeship and skilled careers align with the mission and values of IBEW Local 354.”
-- Teamsters Local 222
-- Operating Engineers Local 3
-- IBEW Local 57
-- Sierra Club
-- Women's Democratic Club of Utah
+0 Skip to Content About Priorities Endorsements Get Involved Contact Volunteer Calendar Donate Open Menu Close Menu About Priorities Endorsements Get Involved Contact Volunteer Calendar Donate Open Menu Close Menu About Priorities Endorsements Folder: Get Involved Back Contact Volunteer Calendar Donate We Support Iva !
+Zach Robinson Former Sandy City Councilmember Friends of Little Cottonwood Canyon UEA PAC Utah Educators Association Caroline Gleich Former US Senate Candidate & Environmental Activist IBEW Local 354 “We believe Iva’s leadership and commitment to supporting working families, protecting workers’ rights, and expanding opportunities through union apprenticeship and skilled careers align with the mission and values of IBEW Local 354.” Teamsters Local 222 Operating Engineers Local 3 IBEW Local 57 Sierra Club Women's Democratic Club of Utah National Association of Letter Carriers Branch 111 Paid for by Iva Williams

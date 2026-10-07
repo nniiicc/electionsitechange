@@ -1,6 +1,2 @@
-Ben Bakeberg for senate district 54
-Shakopee, Prior Lake, Jordan, Sand Creek, Louisville, Jackson, and Spring Lake Townships
-Ben Bakeberg for senate district 54
-Shakopee, Prior Lake, Jordan, Sand Creek, Louisville, Jackson, and Spring Lake Townships
-Your Voice Has an Impact!
-Click on the link below to fill out our priorities survey:
+Home Meet Ben Priorities Endorsements Photos Events Volunteer Donate Ben Bakeberg for senate district 54 Shakopee, Prior Lake, Jordan, Sand Creek, Louisville, Jackson, and Spring Lake Townships Donate Ben Bakeberg for senate district 54 Shakopee, Prior Lake, Jordan, Sand Creek, Louisville, Jackson, and Spring Lake Townships Donate Your Voice Has an Impact!
+Click on the link below to fill out our priorities survey: Priorities Survey Fraud in State Government “Every single dollar lost to fraud is a dollar taken away from serving our community…” Click Here to Watch Video Real Solutions “This campaign is not about name calling or finger pointing…” Click Here to Watch Video Listening to Your Priorities “I am proud of what we’ve accomplished for our community…” Click Here to Watch Video Follow Follow Follow Contact | Bills | Articles | Voting | Privacy Policy Prepared and Paid for by Bakeberg MN Committee | PO Box 145, Jordan, MN 55352

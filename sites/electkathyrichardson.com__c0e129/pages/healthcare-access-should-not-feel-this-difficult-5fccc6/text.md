@@ -1,4 +1,5 @@
-As a nurse practitioner and healthcare provider, I have watched healthcare become increasingly difficult for patients to navigate.
+Skip to content Dr.
+Kathy Richardson for State Representative Washington 28th District Home Meet Dr Kathy Richardson Priorities I Stand with: Veterans and Military Families Healthcare Providers and first Responders Small Business Owners Educators and Students Updates from the Trail Get Involved Contact Me Donate Healthcare Access Should Not Feel This Difficult August 3, 2026 As a nurse practitioner and healthcare provider, I have watched healthcare become increasingly difficult for patients to navigate.
 And the frustration people feel is growing.
 Patients wait months for appointments.
 Primary care access is limited in many areas.
@@ -14,32 +15,11 @@ Patients should not spend weeks or months trying to access basic care.
 Providers should not feel trapped in systems that prioritize paperwork and administrative complexity over patient care.
 And communities should not lose healthcare access because independent clinics and providers can no longer survive financially.
 The people I speak with want practical healthcare conversations — not political slogans.
-They want:
-- access
-- affordability
-- transparency
-- timely care
-- mental health support
-- support for healthcare workers
-- and systems focused on patients rather than bureaucracy
-Healthcare workers across the state are exhausted.
+They want: access affordability transparency timely care mental health support support for healthcare workers and systems focused on patients rather than bureaucracy Healthcare workers across the state are exhausted.
 Many entered healthcare to help people and now find themselves overwhelmed by staffing shortages, administrative demands, violence in healthcare settings, and systems that increasingly feel disconnected from the needs of both patients and providers.
 That is not healthy for patients or for the future of healthcare itself.
-We need leadership willing to listen not only to large systems and organizations, but also to:
-- frontline providers
-- independent clinics
-- nurses
-- first responders
-- patients
-- caregivers
-- and families trying to navigate the system every day
-Because healthcare policy decisions have very real consequences in people’s lives.
-And increasingly, many people feel those realities are being overlooked.
-—
-Resources for Independent Review
-- Washington State Department of Health
-- Washington State Hospital Association
-- Kaiser Family Foundation (KFF)
-- Centers for Medicare & Medicaid Services
-- Washington Medical Commission Workforce Reports
-- Bureau of Labor Statistics Healthcare Workforce Data
+We need leadership willing to listen not only to large systems and organizations, but also to: frontline providers independent clinics nurses first responders patients caregivers and families trying to navigate the system every day Because healthcare policy decisions have very real consequences in people’s lives.
+And increasingly, many people feel those realities are being overlooked. — Meet Kathy Volunteer Donate Join the Campaign Resources for Independent Review Washington State Department of Health Washington State Hospital Association Kaiser Family Foundation (KFF) Centers for Medicare & Medicaid Services Washington Medical Commission Workforce Reports Bureau of Labor Statistics Healthcare Workforce Data Kathy Richardson Leave a Reply Cancel reply Your email address will not be published.
+Required fields are marked * Comment * Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+Instagram Facebook X Dr.
+Kathy Richardson for State Representative Washington 28th District Info@electkathyrichardson.com Paid for by Friends of Kathy Richardson PO Box 64345, UP, WA 98464

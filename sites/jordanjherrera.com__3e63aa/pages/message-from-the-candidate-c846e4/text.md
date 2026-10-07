@@ -1,12 +1,10 @@
-A Message From Jordan
-Courage to Lead, Change to Believe in.
-“Wake Up the Neighbors.“
-I am not running for Congress because I always dreamed of holding office.
+Phone: +1 816-287-2326 DONATE About Message from Jordan Issues Merch Volunteer Vote Events Contact Message from Jordan Home Message from Jordan A Message From Jordan Courage to Lead, Change to Believe in.
+Jordan Herrera “ Wake Up the Neighbors. “ I am not running for Congress because I always dreamed of holding office.
 I’m running because the fire is already burning and someone has to call it out.
 Someone has to wake up the neighbors.
 From the age of five until I was twelve, I lived in a house where violence was not an isolated incident it was the atmosphere.
 My childhood was broken glass and shouted threats.
-My job, as a child, was to stop the fights when I could.
+My job, as a child, was to stop the fights when I could .
 And when I failed, I ran.
 Barefoot.
 In snow.
@@ -47,10 +45,9 @@ And now I’m running because we deserve more than survival, we deserve transfor
 I am fighting for the America I swore an oath to defend.
 For a government that works for the people who built it and not for billionaires who exploit it.
 For a politics grounded not in profit, but in principle.
-This campaign is about delivering real, tangible solutions:
-- Lowering the cost of living – so no family has to choose between rent and food.
-- Rebuilding the middle class – because dignity should be affordable.
-- Restoring accountability – so government works for the people again.
+This campaign is about delivering real, tangible solutions: Lowering the cost of living – so no family has to choose between rent and food.
+Rebuilding the middle class – because dignity should be affordable.
+Restoring accountability – so government works for the people again.
 I am fighting for the student drowning in debt.
 For the child in a violent home.
 For the veteran facing addiction.
@@ -73,4 +70,11 @@ I’m here to get to work.
 Let’s wake the neighbors.
 Jordan J.
 Herrera, Esq.
-Missouri’s 4th Congressional District
+Candidate for U.S.
+Congress Missouri’s 4th Congressional District Donate Now!
+Every dollar helps to get Jordan into office, help out today! $# $# $# $# $# Other If you’ve saved your payment with ActBlue Express, your donation will go through immediately.
+Donate Now!
+Every dollar helps to get Jordan into office, show your support today! $# $# $# $# $# Other If you’ve saved your payment with ActBlue Express, your donation will go through immediately.
+Home About Message from the Candidate Issues Merch Volunteer Vote Events Contact Privacy Statement Terms and Conditions Jordan J Herrera © # | All rights reserved | Site by Nerotech Solutions LLC | Paid for by Herrera for Congress | Use of military rank, job titles, and photos in uniform do not imply endorsement by The United States Air Force or The Department of War.
+Any opinions expressed are that of Jordan Herrera and no other organization.
+Manage consent

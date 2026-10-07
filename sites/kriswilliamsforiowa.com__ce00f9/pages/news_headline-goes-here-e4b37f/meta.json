@@ -1,7 +1,11 @@
 {
- "description": "If you want to link an external news source, use the \u201clink\u201d icons on the sidebar. Anything linked externally will automatically be listed as \u201cnews\u201d and any article you create on the site itself will\u2026",
+ "description": "If you want to link an external news source, use the “link” icons on the sidebar. Anything linked externally will automatically be listed as “news” and any article you create on the site itself will…",
  "final_url": "https://www.kriswilliamsforiowa.com/news/headline-goes-here",
- "paid_for_by": "Paid for by Kris Williams for Iowa",
+ "fingerprint": "fda2be4ddec995bf53dd7f97066719c271f53cfd",
+ "format": 3,
+ "paid_for_by": "Paid for by Kris Williams for Iowa You need to enable JavaScript to run this app",
  "title": "Weekly update #1",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

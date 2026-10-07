@@ -1,9 +1,12 @@
 {
  "description": "Official campaign website for Elizabeth Kirtley for Congress Ohio District 6",
  "final_url": "https://www.elizabethforus.com/home",
- "paid_for_by": null,
+ "fingerprint": "57d54dc65c653e541e4f8b477242ccabe131a3fe",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Elizabeth Kirtley Congress Ohio District 6",
  "years_mentioned": [
+  "1972",
   "2026"
  ]
 }

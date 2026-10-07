@@ -1,8 +1,12 @@
-top of page
-Protecting Reproductive Rights
-Nearly two years following the Supreme Court's reversal of Roe v. and the constitutional right to choose, millions of Americans are living under extreme state abortion bans.
+top of page Donate Home Page Meet LaMonica Stand with LaMonica Endorsements Priorities Investing in Families Safeguarding Our Communities Preserving Our Environment Creating Jobs & Supporting Small Bus Protecting Reproductive Rights Strengthening Infrastructure & Transport Serving Our Veterans & Seniors Advancing Social Justice Providing Equitable Access to High Quali Promoting Educational Opportunity Terms & conditions Join Our Campaign Privacy Policy Events Protecting Reproductive Rights Nearly two years following the Supreme Court's reversal of Roe v. and the constitutional right to choose, millions of Americans are living under extreme state abortion bans.
 These dangerous laws are putting women’s health and lives at risk and preventing doctors from giving patients the care they’ve been trained to provide.
 Congressional Republicans have indicated their intent to swiftly enact a nationwide abortion ban should they regain control in Washington, overriding our protections in New Jersey and putting the lives of countless women across the country at risk.
 This cannot happen.
 We need to pass a clear, comprehensive law protecting reproductive rights for everyone in the United States, regardless of what state they live in.
-bottom of page
+Priorities Providing Equitable Access to High Quality Healthcare Creating Jobs & Supporting Small Business Advancing Social Justice Promoting Educational Opportunity Safeguarding Our Communities Investing in Families Protecting Our Environment Serving Our Veterans & Seniors J oin Our 2026 Campaign Sign up for email updates so you can stay in the loop.
+Thank you for wanting to be a part of Team McIver.
+By volunteering your time to this great journey, together we can continue to move our community forward.
+First name Last name Email Zip/Postal Code Phone number Join Now Thank you!
+We'll be in touch soon Chip In Every donation makes a big difference. $# $# $# $# $# Other Amount If you’ve saved your payment information with ActBlue Express, your donation will go through immediately.
+Donate Endorsements Priorities Campaign Updates Contact LaMonica For Congress P.O.
+Box 25585 Newark, NJ 07101 info@LaMonicaForCongress.com ​ ​ For Press Inquiries/Media Requests, please contact: LaMonicaMcIverForCongress@gmail.com ​ For Finance Inquiries/Questions, please contact: LaMonicaMcIverForCongress@gmail.com ​ ​ ​ Follow us on Social Media ​ ©# LaMonica For Congress | Website Designed/Created by I con Media Group Paid For By LaMonica McIver For Congress bottom of page

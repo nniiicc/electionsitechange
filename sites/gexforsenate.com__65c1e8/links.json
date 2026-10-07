@@ -1,9 +1,58 @@
 [
-"https://facebook.com/GexForSenate",
-"https://gexforsenate.com/",
-"https://secure.winred.com/gex-for-senate/donate-hd",
-"https://secure.winred.com/gex-for-senate/donate-today",
-"https://stoneridgegroup.com/",
-"https://twitter.com/gexforsenate",
-"https://youtube.com/channel/UCWhjzF5GlgUBbR5dUOCF9OQ"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/gex-for-senate/donate-today"
+},
+{
+"text": "DONATE TODAY",
+"href": "https://secure.winred.com/gex-for-senate/donate-today"
+},
+{
+"text": "DONATE more TODAY",
+"href": "https://secure.winred.com/gex-for-senate/donate-hd"
+},
+{
+"text": "DONATE some TODAY",
+"href": "https://secure.winred.com/gex-for-senate/donate-today"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.gexforsenate.com/#Updates"
+},
+{
+"text": "GET UPDATES",
+"href": "https://www.gexforsenate.com/#VOLUNTEER"
+},
+{
+"text": "HOME",
+"href": "https://www.gexforsenate.com/"
+},
+{
+"text": "TeamGex@GexForSenate.com",
+"href": "mailto:Gex@GexForSenate.com"
+},
+{
+"text": "[image]",
+"href": "https://stoneridgegroup.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/gexforsenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/GexForSenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/channel/UCWhjzF5GlgUBbR5dUOCF9OQ"
+},
+{
+"text": "[no text]",
+"href": "mailto:Gex@GexForSenate.com"
+},
+{
+"text": "[no text]",
+"href": "mailto:TeamGex@GexForSenate.com"
+}
 ]

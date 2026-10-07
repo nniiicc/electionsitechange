@@ -1,15 +1,5 @@
-Back to All Events
-Join me in kicking off 2026 at my Spring Fundraiser with special guest Sean McCann!
+0 Skip to Content Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Open Menu Close Menu Home About Joseph Platform Endorsements Media Events Contact Espanol Privacy Policy DONATE Back to All Events Spring Kickoff Fundraiser Monday, April 13, 2026 6:00 PM 8:00 PM Tulyp Hotel, Tapestry Collection by Hilton 61 East 7th Street Holland, MI 49423 United States (map) Google Calendar ICS Join me in kicking off 2026 at my Spring Fundraiser with special guest Sean McCann!
 We will be at the Tulyp Hotel in Downtown Holland.
 Hors d'Oeuvres will be provided, along with a drink ticket upon purchase of a ticket.
 Tickets can be purchased using the link below.
-Bring a friend!
-https://secure.actblue.com/donate/mccluskyspringlaunch
-For updates and reminders, RSVP on our Facebook Event page: Facebook RSVP
-Previous
-Previous
-March 24
-Meet and Greet with Joseph McClusky
-Next
-Next
-April 25
+Bring a friend! https://secure.actblue.com/donate/mccluskyspringlaunch For updates and reminders, RSVP on our Facebook Event page: Facebook RSVP Previous Previous March 24 Meet and Greet with Joseph McClusky Next Next April 25 Canvassing Kickoff Paid for by the Committee to Elect Joseph McClusky, PO Box 1101, Holland, MI 49422 | Privacy Policy

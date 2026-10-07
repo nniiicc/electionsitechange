@@ -1,7 +1,11 @@
 {
  "description": "Sume su nombre como partidario respaldando a Greg Abdouch para la Asamblea Estatal de California, Distrito 45.",
  "final_url": "https://www.abdouchforca.com/es/endorse-greg",
- "paid_for_by": null,
+ "fingerprint": "c867c782d744a6292077f21eea6c06c8cc77b562",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Respaldar a Greg Abdouch para la Asamblea de CA",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

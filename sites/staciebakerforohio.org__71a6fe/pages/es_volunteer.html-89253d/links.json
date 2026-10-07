@@ -1,17 +1,78 @@
 [
-"https://secure.actblue.com/donate/citizens-for-baker-2026",
-"https://staciebakerforohio.org/announcements.html",
-"https://staciebakerforohio.org/es",
-"https://staciebakerforohio.org/es/contact.html",
-"https://staciebakerforohio.org/es/datadeletion.html",
-"https://staciebakerforohio.org/es/endorsements.html",
-"https://staciebakerforohio.org/es/events.html",
-"https://staciebakerforohio.org/es/get-involved.html",
-"https://staciebakerforohio.org/es/privacy.html",
-"https://staciebakerforohio.org/es/terms.html",
-"https://staciebakerforohio.org/es/volunteer.html",
-"https://staciebakerforohio.org/es/yard-sign.html",
-"https://staciebakerforohio.org/ne/volunteer.html",
-"https://staciebakerforohio.org/so/volunteer.html",
-"https://staciebakerforohio.org/volunteer.html"
+{
+"text": "Anuncios",
+"href": "https://www.staciebakerforohio.org/announcements.html"
+},
+{
+"text": "Baker para Ohio",
+"href": "https://www.staciebakerforohio.org/es/"
+},
+{
+"text": "Carteles",
+"href": "https://www.staciebakerforohio.org/es/yard-sign.html"
+},
+{
+"text": "Contacto",
+"href": "https://www.staciebakerforohio.org/es/contact.html"
+},
+{
+"text": "Donar",
+"href": "https://secure.actblue.com/donate/citizens-for-baker-2026"
+},
+{
+"text": "EN",
+"href": "https://www.staciebakerforohio.org/volunteer.html"
+},
+{
+"text": "ES",
+"href": "https://www.staciebakerforohio.org/es/volunteer.html"
+},
+{
+"text": "Eliminación de Datos",
+"href": "https://www.staciebakerforohio.org/es/datadeletion.html"
+},
+{
+"text": "Eventos",
+"href": "https://www.staciebakerforohio.org/es/events.html"
+},
+{
+"text": "Inicio",
+"href": "https://www.staciebakerforohio.org/es/"
+},
+{
+"text": "Involúcrate",
+"href": "https://www.staciebakerforohio.org/es/get-involved.html"
+},
+{
+"text": "NE",
+"href": "https://www.staciebakerforohio.org/ne/volunteer.html"
+},
+{
+"text": "Plataforma",
+"href": "https://www.staciebakerforohio.org/es/#issues"
+},
+{
+"text": "Política de Privacidad",
+"href": "https://www.staciebakerforohio.org/es/privacy.html"
+},
+{
+"text": "Respaldos",
+"href": "https://www.staciebakerforohio.org/es/endorsements.html"
+},
+{
+"text": "SO",
+"href": "https://www.staciebakerforohio.org/so/volunteer.html"
+},
+{
+"text": "Sobre Stacie",
+"href": "https://www.staciebakerforohio.org/es/#about"
+},
+{
+"text": "Términos de Servicio",
+"href": "https://www.staciebakerforohio.org/es/terms.html"
+},
+{
+"text": "Voluntario",
+"href": "https://www.staciebakerforohio.org/es/volunteer.html"
+}
 ]

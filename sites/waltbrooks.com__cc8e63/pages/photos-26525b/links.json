@@ -1,27 +1,102 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/39280/0c37b576b3974fa4b1c7e64c1a49f876.png",
-"https://i.campaignpartner.net/images/cdn_queue/39280/1d5a1dfa61f744ee98f9b46590490f0b.JPG",
-"https://i.campaignpartner.net/images/cdn_queue/39280/1f726a43f78b4dadbfdd131775e52e7e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/245a5a20330c41c299409aedc4355620.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/29ebbd2da02e4a69b51ccf8c8c583a38.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/2b6eca847b2f4df5a3cc1c6e1c5c5cad.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/39dcf5860f1a44868c8778730cd18f37.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/3c106e458c3544938855fc20ca6c376f.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/3cbd35559138451493ca9ecd716b6359.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/4bafabc8df8948e28cd7a268a50da52a.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/4f4ee27b098f439e959b74fe0dde3c75.png",
-"https://i.campaignpartner.net/images/cdn_queue/39280/7705419c57ae4276829bca951e8a0945.jpeg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/9682eed9414f4a17976c01e1545d5d28.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/ac42b7c18fc945f5af5cd3f42b998da1.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/defd4d6f46e142818fdb1a808208370e.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/39280/e03d646a5bf24d4b9e2d90dcc8b12aa4.jpg",
-"https://waltbrooks.com/",
-"https://waltbrooks.com/about_walt",
-"https://waltbrooks.com/contact",
-"https://waltbrooks.com/home",
-"https://waltbrooks.com/issues",
-"https://waltbrooks.com/news",
-"https://waltbrooks.com/photos",
-"https://waltbrooks.com/previous-newsletters"
+{
+"text": "About Walt",
+"href": "https://www.waltbrooks.com/about_walt"
+},
+{
+"text": "Contact",
+"href": "https://www.waltbrooks.com/contact"
+},
+{
+"text": "Home",
+"href": "https://www.waltbrooks.com/home"
+},
+{
+"text": "News",
+"href": "https://www.waltbrooks.com/news"
+},
+{
+"text": "On the Issues",
+"href": "https://www.waltbrooks.com/issues"
+},
+{
+"text": "Photo Gallery",
+"href": "https://www.waltbrooks.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Previous Newsletters",
+"href": "https://www.waltbrooks.com/previous-newsletters"
+},
+{
+"text": "[image: Chinese coaches studying at the U of U.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/e03d646a5bf24d4b9e2d90dcc8b12aa4.jpg"
+},
+{
+"text": "[image: Elise and I on the House floor]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/4bafabc8df8948e28cd7a268a50da52a.jpeg"
+},
+{
+"text": "[image: Nikola Motors. This company will change our State and our country for the good. I encourage you to look more at this company.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/1d5a1dfa61f744ee98f9b46590490f0b.JPG"
+},
+{
+"text": "[image: Presenting my bill on the House floor]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/defd4d6f46e142818fdb1a808208370e.jpg"
+},
+{
+"text": "[image: Speaking at Heritage Elementary.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/29ebbd2da02e4a69b51ccf8c8c583a38.jpeg"
+},
+{
+"text": "[image: Sworn in by Speaker Hughes.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/3cbd35559138451493ca9ecd716b6359.jpg"
+},
+{
+"text": "[image: Tour Camp Williams via Black Hawk.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/ac42b7c18fc945f5af5cd3f42b998da1.jpg"
+},
+{
+"text": "[image: Walt Brooks]",
+"href": "https://www.waltbrooks.com/"
+},
+{
+"text": "[image: Weekly meeting with rural school superintendents.]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/245a5a20330c41c299409aedc4355620.jpg"
+},
+{
+"text": "[image: With Taylor on the House Floor]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/7705419c57ae4276829bca951e8a0945.jpeg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/0c37b576b3974fa4b1c7e64c1a49f876.png"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/1f726a43f78b4dadbfdd131775e52e7e.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/2b6eca847b2f4df5a3cc1c6e1c5c5cad.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/39dcf5860f1a44868c8778730cd18f37.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/3c106e458c3544938855fc20ca6c376f.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/4f4ee27b098f439e959b74fe0dde3c75.png"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/39280/9682eed9414f4a17976c01e1545d5d28.jpg"
+}
 ]

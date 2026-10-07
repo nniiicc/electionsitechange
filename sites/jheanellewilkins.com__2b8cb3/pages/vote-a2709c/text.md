@@ -1,33 +1,6 @@
-top of page
-Primary Election Day: June 23, 2026
-Vote Early: June 11-18, 2026
-Mail-in ballots: Return by June 23
-Montgomery County Early Voting Sites
-Chair Jheanelle Wilkins'
-2026 Maryland Gubernatorial Primary Endorsements
-Governor
-Wes Moore
-Comptroller
-Brooke Lierman
-Attorney General
-Anthony Brown
-Congress - District 8
-Jamie Raskin
-State Senator - District 20
-Will Smith
-House of Delegates - District 20 (Select all)
-Jheanelle Wilkins
-Lorig Charkoudian
-David Moon
-County Executive
-Will Jawando
-Sheriff
-Will Milam
-Council At Large (Select all)
-Fatmata Barrie
-Marc Elrich
-Laurie-Anne Sayles
-Democratic Central Committee - District 20
-Jimmy Lee Anderson
-Pamela Luckett
-bottom of page
+top of page Meet Jheanelle Issues Vote Get Involved News & Events More Use tab to navigate through the menu items.
+Donate Primary Election Day: June 23, 2026 Vote Early: June 11-18, 2026 Mail-in ballots: Return by June 23 Montgomery County Early Voting Sites Chair Jheanelle Wilkins' 2026 Maryland Gubernatorial Primary Endorsements Governor Wes Moore Comptroller Brooke Lierman Attorney General Anthony Brown Congress - District 8 Jamie Raskin State Senator - District 20 Will Smith House of Delegates - District 20 (Select all) Jheanelle Wilkins Lorig Charkoudian David Moon County Executive Will Jawando Sheriff Will Milam Council At Large (Select all) Fatmata Barrie Marc Elrich Laurie-Anne Sayles Democratic Central Committee - District 20 Jimmy Lee Anderson Pamela Luckett Register to Vote Register Now Request A Mail-In Ballot You can opt in to receive a mail-in ballot in every election!
+Request Find Your Polling Place Find Now Check Your Voter Registration And Ballot Status Check back to top Get Updates!
+P.O.
+Box 7601 Silver Spring, Maryland 20907 ​ (240) 428-4894 jheanelle@jheanellewilkins.com Meet Jheanelle Issues Vote Get Involved News & Events More Use tab to navigate through the menu items.
+By Authority: Friends of Jheanelle Wilkins, Treasurer: David Luckett website by human age digital bottom of page

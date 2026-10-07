@@ -1,19 +1,86 @@
 [
-"https://designedwithbee.com/",
-"https://facebook.com/hruzaformissouri",
-"https://fb.me/e/3zSyXn5O1",
-"https://hruzaformissouri.com/",
-"https://hruzaformissouri.com/about-george",
-"https://hruzaformissouri.com/author/george",
-"https://hruzaformissouri.com/category/campaign-updates",
-"https://hruzaformissouri.com/contact",
-"https://hruzaformissouri.com/face-to-face-with-pattons-71st",
-"https://hruzaformissouri.com/get-involved",
-"https://hruzaformissouri.com/jobs",
-"https://hruzaformissouri.com/labor-day/www.example.com",
-"https://hruzaformissouri.com/the-issues",
-"https://instagram.com/georgehruza",
-"https://linkedin.com/in/george-hruza-657b475",
-"https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f",
-"https://twitter.com/GeorgeHruza"
+{
+"text": "About George",
+"href": "https://hruzaformissouri.com/about-george/"
+},
+{
+"text": "Campaign Updates",
+"href": "https://hruzaformissouri.com/category/campaign-updates/"
+},
+{
+"text": "Contact",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Contact Us",
+"href": "https://hruzaformissouri.com/contact/"
+},
+{
+"text": "Designed with BEE",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/hruza-for-missouri/donate-today-copy-9f6af015b37ffe1f"
+},
+{
+"text": "Follow Us on Facebook",
+"href": "https://www.facebook.com/hruzaformissouri"
+},
+{
+"text": "Get Involved",
+"href": "https://hruzaformissouri.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "Next Post →",
+"href": "https://hruzaformissouri.com/face-to-face-with-pattons-71st/"
+},
+{
+"text": "RSVP Here or Tap \"Reply\"",
+"href": "https://fb.me/e/3zSyXn5O1"
+},
+{
+"text": "The Issues",
+"href": "https://hruzaformissouri.com/the-issues/"
+},
+{
+"text": "[image: Company logo]",
+"href": "https://hruzaformissouri.com/labor-day/www.example.com"
+},
+{
+"text": "[image: Designed with BEE]",
+"href": "https://www.designedwithbee.com/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/hruzaformissouri"
+},
+{
+"text": "[image: George Hruza for Missouri]",
+"href": "https://hruzaformissouri.com/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/georgehruza/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/george-hruza-657b475/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/GeorgeHruza"
+},
+{
+"text": "george",
+"href": "https://hruzaformissouri.com/author/george/"
+},
+{
+"text": "← Previous Post",
+"href": "https://hruzaformissouri.com/jobs/"
+}
 ]

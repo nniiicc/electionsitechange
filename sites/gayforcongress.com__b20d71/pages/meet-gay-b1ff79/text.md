@@ -1,5 +1,4 @@
-Meet Gay Valimont
-Gay Gillespie Valimont is a mother and gun violence prevention activist in Pensacola, Florida who has devoted her life to improving public safety and strengthening her community.
+0 Skip to Content Meet Gay Priorities Volunteer Contact Voter Info Endorsements DONATE Open Menu Close Menu DONATE Meet Gay Priorities Volunteer Contact Voter Info Endorsements Open Menu Close Menu Meet Gay Priorities Volunteer Contact Voter Info Endorsements DONATE Meet Gay Valimont Gay Gillespie Valimont is a mother and gun violence prevention activist in Pensacola, Florida who has devoted her life to improving public safety and strengthening her community.
 Gay earned a bachelor’s degree in Health and Exercise Science from Georgia Southern University, her National Athletic Trainers Association accreditation, and her M.A. in Education from Troy State University before pursuing her career in sports medicine in Atlanta.
 There, she worked for Children’s Healthcare of Atlanta and later Emory Sports Medicine as an athletic trainer.
 As Gay built relationships with her players, they told her about their fears around the everyday gun violence some experienced in their neighborhoods.
@@ -32,3 +31,6 @@ Our district has a rich culture, but we're facing real challenges: rising costs 
 We need someone who understands these struggles because they live them too.
 Unlike part-time representatives, Gay is rooted here.
 She's ready to be a full-time voice for the 1st District in Congress.
+It's time for locals to take back our leadership.
+Join the movement!
+C O N T R I B U T E Follow Gay: Donate Online: DONATE Make checks out to: Gay Valimont for Florida PO Box 1258 Gulf Breeze, FL 32562 Donate By Mail: Privacy Policy PAID FOR BY GAY VALIMONT FOR FLORIDA

@@ -1,10 +1,46 @@
 [
-"https://facebook.com/SenatorJohnJasinski",
-"https://jasinskiforsenate.com/",
-"https://jasinskiforsenate.com/about-john",
-"https://jasinskiforsenate.com/issues",
-"https://jasinskiforsenate.com/john-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24",
-"https://jasinskiforsenate.com/news",
-"https://secure.winred.com/jasinski-for-senate/donate",
-"https://twitter.com/senatorjasinski"
+{
+"text": "About John",
+"href": "https://www.jasinskiforsenate.com/about-john/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/jasinski-for-senate/donate"
+},
+{
+"text": "Home",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.jasinskiforsenate.com/issues/"
+},
+{
+"text": "John Jasinski seeking second term as Minnesota state senator for District 24",
+"href": "https://www.jasinskiforsenate.com/john-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24/"
+},
+{
+"text": "News",
+"href": "https://www.jasinskiforsenate.com/news/"
+},
+{
+"text": "Read more",
+"href": "https://www.jasinskiforsenate.com/john-jasinski-seeking-second-term-as-minnesota-state-senator-for-district-24/"
+},
+{
+"text": "[image][image]",
+"href": "https://www.jasinskiforsenate.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenatorJohnJasinski/"
+},
+{
+"text": "[no text]",
+"href": "https://www.twitter.com/senatorjasinski"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@jasinskiforsenate.com"
+}
 ]

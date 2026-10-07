@@ -1,20 +1,8 @@
-Priorities, built around your life
-Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
-02 🏥Health Care Security
-I will never cut Medicare or Medicaid.
+0 Skip to Content Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Open Menu Close Menu Welcome Affordability Nature Coast Health Care Government Overreach Why Tony Meet Tony Feedback Priorities, built around your life Not slogans — the things that show up on your receipt, your insurance bill, and your kids' future on the Nature Coast.
+02 🏥Health Care Security I will never cut Medicare or Medicaid.
 Never.
-The problem
-- 388,000 Floridians trapped in the Medicaid coverage gap
-- Florida turns away $4 billion in federal funding every year
-- Uninsured rate projected to climb from 10.7% to 16.7% in 2026
-- Prescription drug costs crushing seniors on fixed incomes
-- Our veterans are being failed by a VA system under real strain — mental health wait times rising at 7 in 10 VA medical centers nationwide, and Florida veterans referred to Tampa's Haley hospital caught in that same slowdown - Vet Voice Foundation, Feb. 2026
-- Florida is one of nine states suing to weaken disabled Floridians’ right to community-based care instead of institutions
-Tony's solution
-- Never cut Medicare or Medicaid — full stop
-- Expand Medicaid using the $4 billion in our own tax dollars left on the table by Tallahassee.
-- Fight to lower prescription drug costs for District 53 seniors and families
-- Push state resources to fill the gaps the VA can't — more veteran service officers, mental health crisis support, and housing help for the veterans still waiting on the federal system
-- Defend disabled Floridians’ right to community-based care, not institutions
-Sound like your priorities too?
+The problem 388,000 Floridians trapped in the Medicaid coverage gap Florida turns away $4 billion in federal funding every year Uninsured rate projected to climb from 10.7% to 16.7% in 2026 Prescription drug costs crushing seniors on fixed incomes Our veterans are being failed by a VA system under real strain — mental health wait times rising at 7 in 10 VA medical centers nationwide, and Florida veterans referred to Tampa's Haley hospital caught in that same slowdown - Vet Voice Foundation, Feb.
+2026 Florida is one of nine states suing to weaken disabled Floridians’ right to community-based care instead of institutions Tony's solution Never cut Medicare or Medicaid — full stop Expand Medicaid using the $4 billion in our own tax dollars left on the table by Tallahassee.
+Fight to lower prescription drug costs for District 53 seniors and families Push state resources to fill the gaps the VA can't — more veteran service officers, mental health crisis support, and housing help for the veterans still waiting on the federal system Defend disabled Floridians’ right to community-based care, not institutions donate Sound like your priorities too?
 Tell Tony what matters most to you, or chip in to help carry the message across District 53.
+Share your voice Claude for House District 53 Made with Squarespace Contact tlclaude@claudeforhd53.com (352) 667-3123 Paid for by Tony Claude, Democrat, for Florida House District #53

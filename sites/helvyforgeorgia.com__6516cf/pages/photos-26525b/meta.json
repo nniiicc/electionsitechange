@@ -1,7 +1,9 @@
 {
  "description": "Campaign Photos",
  "final_url": "https://www.helvyforgeorgia.com/photos",
- "paid_for_by": null,
+ "fingerprint": "88434bbc1bc868e330b58b31a652fca1536d6b24",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Photo Gallery",
  "years_mentioned": []
 }

@@ -1,5 +1,4 @@
-BIO
-Randy Udell has a proven track record and the experience we need to represent the 47th District in the Assembly.
+0 Skip to Content Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Bio Bio Bio de Randy Udell Why I'm Running Why I'm Running Porque Me Estoy Postulando Issues Issues Sobre Los Temas Endorsements 47th District Contact Contribute Open Menu Close Menu Home Folder: Bio Back Bio Bio de Randy Udell Folder: Why I'm Running Back Why I'm Running Porque Me Estoy Postulando Folder: Issues Back Issues Sobre Los Temas Endorsements 47th District Contact Contribute BIO Randy Udell has a proven track record and the experience we need to represent the 47th District in the Assembly.
 A Fitchburg resident since 1998, Randy Udell is finishing up his first term as a State Representative from District 47.
 Randy is currently a member of the Committee on Financial Institutions, Committee on Forestry, Parks, and Outdoor Recreation, Committee on Insurance, Law Revision Committee, and the Governor’s Broadband Task Force.
 He has fought to strengthen Wisconsin’s labor protections, expand access to healthcare and childcare, invest in local communities, and strengthen environmental protections.
@@ -16,3 +15,6 @@ He has previously served as Chair and Treasurer of the Second Congressional Dist
 Randy grew up as one of five children in a working-class family in Janesville, and is a fifth generation Wisconsinite.
 As an undergraduate at UW-Whitewater, Randy served as the president of the campus’s Young Democrats and a student senator, in addition to working for Congressman Les Aspin, a longtime representative for Wisconsin’s 1st Congressional District.
 Now retired from a 30-year career in finance and planning as a telecommunications engineer, Randy and his husband Brad live in Fitchburg’s Seminole Forest neighborhood with their rescue dog Cooper.
+I became a legislator to help make sure Wisconsin state government works for everyone.
+I am excited to have the chance to earn your vote on November 3rd to continue that work.
+WHY I'M RUNNING FOLLOW ALONG Contact CONTRIBUTE Paid for by the Committee to Elect Randy Udell © # Committee to elect randy udell — All Rights Reserved photos of randy with politicians and other public figures does not imply an endorsement or affiliation

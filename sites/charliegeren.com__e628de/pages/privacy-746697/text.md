@@ -1,11 +1,9 @@
-Privacy Policy
-This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Charlie Geren Campaign websites that display this policy (the Sites).
+Toggle navigation Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Privacy Policy This Privacy Policy outlines our practices for collection, use, and disclosure of your information that you provide to us when you use our Site and other Charlie Geren Campaign websites that display this policy (the Sites).
 By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy.
 From time to time, we may update this Privacy Policy.
 We encourage you to periodically check this Site for updates.
 Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
-Voluntary Information
-In an effort to grow our grassroots community online, Charlie Geren Campaign may ask you to submit information.
+Voluntary Information In an effort to grow our grassroots community online, Charlie Geren Campaign may ask you to submit information.
 This information will be used to provide you with communications and for other purposes.
 You do not have to provide this information – we only ask that you do so that we can better communicate with you!
 Additionally, when you offer your personal information, we use your information to personalize and customize Web pages and emails to you.
@@ -19,10 +17,9 @@ Voluntary personal information does not include aggregate data (data about a gro
 This policy does not restrict our collection and use of such aggregate information.
 By requesting information to your mobile phone, we may obtain the following information from you in connection with our SMS service: your cell phone number, your carrier’s name, and the date, time and content of your messages, as well as other information that you provide.
 When you voluntarily provide your information to Charlie Geren Campaign , we may share that information with other organizations who may contact you.
-If you would prefer that we not share your information for these purposes, you may opt-out by emailing [email protected].
+If you would prefer that we not share your information for these purposes, you may opt-out by emailing [email protected] .
 The above excludes text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-Automatically Generated Information
-We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
+Automatically Generated Information We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
 This data includes, but is not limited to, information such as IP address, web pages visited before and after visiting the Site, date and time, domain type, type of mobile device you use, your device’s unique ID, web pages you view and links you click on within the Site and interactions with our advertisements delivered by us or advertisements delivered by a third party advertising technology vendor.
 This type of information may be collected using different types of technologies, such as cookies and pixels.
 An IP address, for example, is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet.
@@ -47,8 +44,7 @@ We use various web site analytics tools and technologies regarding activities on
 The overall aim of these tools is to aid in making our Site easy to use, to proactively identify and correct error conditions and to provide more relevant advertising and content to you.
 These tools and technologies are also used to assist Site visitors who report problems in the use of our Site.
 Stored web session data is used in accordance with this Privacy Policy.
-Third Party Features
-For your convenience, we may include or offer third party offers, products or services on our Site.
+Third Party Features For your convenience, we may include or offer third party offers, products or services on our Site.
 Third-party vendors may use cookies or other technologies to serve ads on other web sites based on your visit to this Site and other web sites on the Internet.
 We cannot be responsible for the privacy practices of any web sites or pages not under our control and we do not endorse any of these web sites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
 Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these web sites.
@@ -63,8 +59,7 @@ We cannot guarantee the privacy and safety of these areas and are therefore not 
 Your use of these features is fully at your own risk.
 No mobile information will be shared by us with third parties/affiliates for marketing/promotional purposes.
 All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-Email Signups
-We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
+Email Signups We appreciate your questions and comments about our Site and services and welcome your e-mails and questions submitted to our Site.
 We will share your messages with those within our organization or third party vendors who are most capable of addressing the issues contained in your message.
 We may archive your message for a certain period of time or discard it.
 Submitting your address anywhere on the Site may result in your e-mail address being added to Charlie Geren Campaign ’s e-mail list.
@@ -75,24 +70,21 @@ If you elect to use any feature that includes suggesting a page to a friend or t
 The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you.
 Charlie Geren Campaign will store and use this information in accordance with this Privacy Policy.
 Your friend may contact Charlie Geren Campaign to request the removal of this information from our databases.
-Security
-We employ and maintain technology and security measures designed to protect your personal information.
+Security We employ and maintain technology and security measures designed to protect your personal information.
 However, no data transmission over the Internet can be guaranteed as 100 percent secure.
 As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
-Children
-We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+Children We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
 We do not knowingly collect personal information from children under 18.
-Donations and Purchases
-Some information must be collected when you make a contribution.
+Donations and Purchases Some information must be collected when you make a contribution.
 When you make contributions to Charlie Geren Campaign that aggregate to more than $200 in a single election cycle, federal law requires us to use our “best efforts” to collect your name, mailing address, employer, and occupation.
 As required by law, this information will be publicly disclosed with the Federal Election Commission.
 Credit card information provided may be stored with one of Charlie Geren Campaign ’s third party vendors.
 Any information shared is done at the donor’s own risk.
 All contributions made to the Site are considered final unless the donation is not in compliance with federal election law and/or Federal Election Commission regulations.
 All purchases from the online store are considered contributions to Charlie Geren Campaign .
-Visiting our Site from Outside of the United States
-If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+Visiting our Site from Outside of the United States If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
 The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
 By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
-Contact Us
-Please contact us if you have questions about our Privacy Policy at [email protected].
+Contact Us Please contact us if you have questions about our Privacy Policy at [email protected] .
+Home Meet Charlie Issues Endorsements Volunteer Contact Donate Terms and Conditions Political Ad paid for by Charlie Geren Campaign, Kit Moncrief, Treasurer Charlie Geren Campaign P.O.
+Box 1440 Fort Worth, TX 76101 Privacy Policy

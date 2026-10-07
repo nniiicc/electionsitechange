@@ -1,3 +1,4 @@
-Insurance carriers’ rules about dog breeds have pulled the industry into a new twist in the national debate over racial equity.
+Skip to content Home About Issues Accomplishments News Contact Menu Home About Issues Accomplishments News Contact contribute ACCOMPLISHMENTS Activists Say Racist Legacy Tainting Insurer Attitudes Toward ‘Dangerous’ Dog Breeds Insurance carriers’ rules about dog breeds have pulled the industry into a new twist in the national debate over racial equity.
 Animal rights advocates say the assumption that particular dog breeds are inherently more dangerous is often driven by racial or class animus that associates certain kinds of dogs with certain kinds of people.
-They have dragged insurers into a political dog fight that forces them to defend exclusionary policies in statehouses across the United States…
+They have dragged insurers into a political dog fight that forces them to defend exclusionary policies in statehouses across the United States… Continue Reading Here Sign up for updates Name Email Sign Up Paid for by citizens for Linda holmes P.O.
+Box 6374 | Aurora, IL 60598 Facebook Linkedin

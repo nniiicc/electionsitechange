@@ -1,9 +1,38 @@
 [
-"https://designedtorun.com/",
-"https://mcginnisforok.com/",
-"https://mcginnisforok.com/about",
-"https://mcginnisforok.com/issues",
-"https://mcginnisforok.com/privacy-policy",
-"https://mcginnisforok.com/volunteer",
-"https://secure.actblue.com/donate/meredith-mcginnis-1"
+{
+"text": "About",
+"href": "https://www.mcginnisforok.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/meredith-mcginnis-1"
+},
+{
+"text": "Home",
+"href": "https://www.mcginnisforok.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.mcginnisforok.com/issues"
+},
+{
+"text": "PRIVACY POLICY",
+"href": "https://www.mcginnisforok.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.mcginnisforok.com/volunteer"
+},
+{
+"text": "[image: Meredith McGinnis for Senate logo]",
+"href": "https://www.mcginnisforok.com/"
+},
+{
+"text": "[image: undefined logo]",
+"href": "https://www.mcginnisforok.com/"
+}
 ]

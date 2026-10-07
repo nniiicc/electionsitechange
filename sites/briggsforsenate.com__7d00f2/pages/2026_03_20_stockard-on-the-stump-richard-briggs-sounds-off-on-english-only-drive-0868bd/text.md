@@ -1,6 +1,4 @@
-Stockard on the Stump: Richard Briggs sounds off on English-only driver’s license bill
-March 20, 2026
-Once again, Senator Richard Briggs is demonstrating the kind of courageous, independent thinking that sets him apart in the Tennessee legislature.
+Home About Issues Endorsements News Volunteer Donate Stockard on the Stump: Richard Briggs sounds off on English-only driver’s license bill March 20, 2026 Once again, Senator Richard Briggs is demonstrating the kind of courageous, independent thinking that sets him apart in the Tennessee legislature.
 This time sounding the alarm over a proposed English-only driver’s license testing bill that he believes could seriously harm the state’s economy and international relationships.
 After receiving a letter from Japan’s consul-general raising concerns about the legislation, Dr.
 Briggs took the initiative to reach out directly to Japanese, Korean and British executives, Canadian diplomats, the CEO of Cirrus Aircraft, and representatives of Oak Ridge’s growing nuclear industry.
@@ -15,4 +13,4 @@ Briggs called on Tennessee to be “the little island of common sense” in the 
 This is Dr.
 Briggs at his best, a pragmatic, principled leader willing to speak uncomfortable truths to his own party when the long-term interests of Tennesseans are on the line.
 His willingness to engage directly with the business community and bring their voices into the legislative debate reflects both his integrity and his deep commitment to the people and prosperity of his state.
-Credit: Tennessee Lookout
+Credit: Tennessee Lookout Home About Issues Endorsements News Volunteer Donate Contact Privacy Policy Donations are not tax deductible Paid for by Briggs for Senate

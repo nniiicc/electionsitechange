@@ -1,3 +1,4 @@
-Arizona Senator Carine Werner calls for change within DCS, launches task force Sep 2 Written By Blake Wilson Arizona Senator Carine Werner has called for change within DCS.
+DONATE 0 Skip to Content Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Open Menu Close Menu Meet Carine Priorities Volunteer News Accomplishments GET IN TOUCH Media Kit DONATE Arizona Senator Carine Werner calls for change within DCS, launches task force Sep 2 Written By Blake Wilson Arizona Senator Carine Werner has called for change within DCS.
 She launched a task force and spoke about it with ABC15's Javier Soto.
-Blake Wilson
+Blake Wilson Previous Previous ABC15 sits down with State Senator Carine Werner weeks after first DCS stakeholder meeting Next Next Death of 10-year-old prompts new child abuse task force © Copyright # - Paid For By Werner For AZ.
+Authorized By Carine Werner.

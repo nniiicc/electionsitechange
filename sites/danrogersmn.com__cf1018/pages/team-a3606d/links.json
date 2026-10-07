@@ -1,10 +1,42 @@
 [
-"https://314action.org/",
-"https://cleanwater.org/states/minnesota",
-"https://danrogersmn.com/",
-"https://docs.google.com/forms/d/e/1FAIpQLSfz_KqAMqMkqDZavmTL9B7ku2M51PUEbNiPvSmhvFOG2kGP3g/viewform",
-"https://facebook.com/profile.php?id=61589742307224",
-"https://friendsaction-bwca.org/",
-"https://instagram.com/danrogersmnsenate2",
-"https://secure.actblue.com/donate/dan-rogers-1"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/dan-rogers-1"
+},
+{
+"text": "Home",
+"href": "https://www.danrogersmn.com"
+},
+{
+"text": "Submit Events for Dan",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSfz_KqAMqMkqDZavmTL9B7ku2M51PUEbNiPvSmhvFOG2kGP3g/viewform"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61589742307224"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/danrogersmnsenate2/"
+},
+{
+"text": "[image]",
+"href": "https://cleanwater.org/states/minnesota"
+},
+{
+"text": "[image]",
+"href": "https://friendsaction-bwca.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.314action.org/"
+},
+{
+"text": "📞 218-368-4751",
+"href": "tel:+1-218-368-4751"
+},
+{
+"text": "📧 rogersformnsenate2@gmail.com",
+"href": "mailto:info@mysite.com"
+}
 ]

@@ -1,7 +1,6 @@
-Hawaii boldly chose to take corporate money out of its elections this year.
+0 Skip to Content Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Open Menu Close Menu Events District Biography Issues Endorsements HELP US to WIN Hawaii boldly chose to take corporate money out of its elections this year.
 Pennsylvania can do it too.
-THE PROBLEM
-Too much money in politics.
+THE PROBLEM Too much money in politics.
 The money that decides elections almost never arrives with a name on it.
 It moves from one entity to the next, and by the time you see it, it’s attributed to an unfamiliar group with an ambiguous name, and it takes a lot of work to tell whose money it was or why they spent it.
 None of this is accidental.
@@ -13,9 +12,7 @@ They are made in rooms where the people who paid for the campaign have a chair.
 Hawaii passed a law like this already.
 A similar bill has been drafted here in Pennsylvania.
 I want to pass that bill, stand with Hawaii, and remind everyone that political power belongs only to actual people.
-THE PROPOSAL
-Corporate powers are the key
-States charter and govern corporations.
+THE PROPOSAL Corporate powers are the key States charter and govern corporations.
 They literally decide what corporations are empowered to do.
 This is not a new idea.
 Amidst a tidal wave of chaos filling your news feed, you’ve likely not heard of House Bill 2728.
@@ -27,16 +24,15 @@ Twenty-five members have signed on.
 I want to be sure our bill applies to corporations chartered in other states, but make no mistake: HB 2728 takes us in the right direction.
 Many of our other headaches stem from the problem of too much money in politics.
 This would solve so much, so quickly.
-- Title 15, Corporations and Unincorporated Associations.
+Where it lives Title 15, Corporations and Unincorporated Associations.
 You might expect that it would change the election code, but it does not.
-- Business corporations, nonprofit corporations, and limited liability companies chartered under Pennsylvania law.
+Who it applies to Business corporations, nonprofit corporations, and limited liability companies chartered under Pennsylvania law.
 If elected, I will be asking for clear language and ongoing public communication that this bill will apply to all “foreign” (out of state) corporations like Hawaii’s law does.
-- It repeals the existing grants of general corporate powers and regrants them, excluding any power to directly or indirectly engage in election spending, or to provide anything of value.
-- Referred to the House State Government Committee on August 5, 2026.
+How it works It repeals the existing grants of general corporate powers and regrants them, excluding any power to directly or indirectly engage in election spending, or to provide anything of value.
+Where it stands today Referred to the House State Government Committee on August 5, 2026.
 It has not had a vote.
 Powers and privileges, not rights.
-THE MECHANISM
-The Supreme Court's campaign finance decisions protect the exercise of rights.
+THE MECHANISM The Supreme Court's campaign finance decisions protect the exercise of rights.
 Rights belong to people.
 They exist before government, and government does not hand them out.
 A corporation is different.
@@ -50,9 +46,7 @@ Pennsylvania is unusually well positioned for this, and not by accident.
 Article X of the Pennsylvania Constitution is titled Private Corporations.
 Section 3 provides that all charters of private corporations, and all law prescribing the powers of private corporations, may be revoked, amended or repealed.
 It is written into our constitution.
-THE PRECEDENT
-Hawaii went first
-On May 14, 2026, Hawaii became the first state in the country to enact this approach.
+THE PRECEDENT Hawaii went first On May 14, 2026, Hawaii became the first state in the country to enact this approach.
 It passed their Senate 24 to 0 and their House 50 to 1, in truly bipartisan fashion.
 Rebecca and her team have studied the bill sitting in the PA House, and been in contact with the legislators in Hawaii who wrote the law and moved it through.
 It will solve real problems, and voters love it.
@@ -74,22 +68,24 @@ This district.
 We have already seen people from outside the district trying to influence our elections.
 They want sympathetic judges elected to the Supreme Court, or want us to vote out the incumbent so their industry is finally legalized in Pennsylvania, so we get inundated with postcards, billboards, paid social media posts and more.
 They’re trying to get you to support their interests, whether you can see the big picture behind their plans or not.
-BENEFITS
-What it does not do:
-- It does not restrict any individual.
+BENEFITS What it does not do: It does not restrict any individual.
 Every person keeps every right they have today to give, to spend, to volunteer, and to speak.
-- It does not eliminate PACs.
-- It does not cap contributions.
+It does not eliminate PACs.
+It does not cap contributions.
 That is a separate fight.
-- It does not overturn Citizens United.
+It does not overturn Citizens United.
 No state legislature can.
-POPULAR OPINION
-This is not a contentious question.
+POPULAR OPINION This is not a contentious question.
 72% of Americans said they would support this reform in their own state.
-81% of Democrats. 64% of Republicans. 60% of independents.
+81% of Democrats.
+64% of Republicans.
+60% of independents.
 12% opposed.
 There is no real constituency on the other side of this.
 There is only money.
 Issue One / YouGov, 2025, measured after respondents heard arguments from both sides.
-NEXT STEP: YOUR INPUT
-Contact us using the button below, and tell us your thoughts on this initiative.
+NEXT STEP: YOUR INPUT Contact us using the button below, and tell us your thoughts on this initiative.
+Share your thoughts Site Navigation Home Issues Endorsements Help Us to Win Full Biography PA House District 48 Events Donate Volunteer Sign Up for Email Updates Follow Rebecca on Bluesky Follow Rebecca on Instagram Follow Rebecca on Threads Follow Rebecca on Facebook Paid for by Rebecca MacTaggart for PA.
+PEOPLE FIRST.
+ALWAYS.
+Rebecca MacTaggart for PA Mailing Address: 60 South Lincoln Street Ignite Mailbox #12 Washington, PA 15301 Contact

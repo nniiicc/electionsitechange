@@ -1,24 +1,10 @@
-MUTUAL AID
-Mutual aid is about neighbors helping neighbors.
+Skip to Content Open Menu Close Menu Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Meet Drew Policies Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact 0 0 Donate Open Menu Close Menu Meet Drew Folder: Policies Back Agriculture --Farm Independence --Farm Markets --Farm Security --Farm Supports Economy & Jobs --Business Reform --Consumer Protections --Infrastructure --Labor Rights Family & Community --Child Advocacy --Education --Housing --Senior Accessibility Government & Democracy --Campaign Reform --Congressional Reform --Tax Policy Healthcare --Drug Pricing / Access --EMS --Health Insurance --Parental Care Military & Veterans --Military Funding --Military Parent's Reprieve --Veteran's Assistance Technology & AI --AI-Safety --Civil Rights & AI --Creator Ethics & AI --Data Centers --Human Rights & AI --Workers & AI Endorsements Drew News Volunteer Merch Calendar Contact Donate MUTUAL AID Mutual aid is about neighbors helping neighbors.
 It's not charity — it’s solidarity.
 We recognize that everyone has something to offer, and everyone has the right to get help when they need it.
 Together, we build stronger, more caring communities by sharing what we have and showing up for each other.
 Events like these are much more inspiring for people to be a part of and for people to get engaged with their community and with politics.
-Actions like these allow members of our community to actually do something with their time as we work towards promoting good policy
-What You’ll Find at These Events
-Depending on the event, offerings or activities might be:
-- Free groceries or hot meals
-- Hygiene products & first aid kits
-- Clothing & household goods
-- Skill shares (e.g. resume help, repair basics, cooking demos)
-- Kids’ activities & community board
-- Free books or educational materials
-How You Can Help
-Want to contribute?
-Here’s how:
-- Donate supplies (list top needs)
-- Bring a dish or offer a ride
-- Volunteer your time (set up, breakdown, greeting, etc.)
-- Share events with your neighbors!
-- Invite a friend or family member to come with you
-- Take photos or videos and tag us on social media #williamsforky
+Actions like these allow members of our community to actually do something with their time as we work towards promoting good policy What You’ll Find at These Events Depending on the event, offerings or activities might be: Free groceries or hot meals Hygiene products & first aid kits Clothing & household goods Skill shares (e.g. resume help, repair basics, cooking demos) Kids’ activities & community board Free books or educational materials How You Can Help Want to contribute?
+Here’s how: Donate supplies (list top needs) Bring a dish or offer a ride Volunteer your time (set up, breakdown, greeting, etc.) Share events with your neighbors!
+Invite a friend or family member to come with you Take photos or videos and tag us on social media #williamsforky WANT TO GET INVOLVED?
+WHAT ARE YOUR CONCERNS?
+TELL ME ABOUT IT Meet Drew Contact Us Donate by Mail Mutual Aid Policy Plans Volunteer Terms + Conditions Privacy Policy Paid for by Williams for Kentucky Campaign.

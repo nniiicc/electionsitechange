@@ -1,5 +1,6 @@
-Fix Our Roads!!
-This is in response to this article in Abridged.org.
+top of page HOME MEET NEVA ISSUES ENDORSEMENTS NEWS VOLUNTEER & EVENTS GET YOUR TEAM NEVA T-SHIRT GET YOUR YARD SIGN INTERNSHIP THE DISTRICT More Use tab to navigate through the menu items.
+DONATE All Posts Search Fix Our Roads!!
+Neva Parker Apr 9 2 min read This is in response to this article in Abridged.org .
 For over 20 years I sat through more than my fair share of floor debates for bills to fund transportation that over and over assured members that the money wouldn't be diverted elsewhere.
 And year after year, the roads I used to get to the capitol to sit through those debates got decidedly worse and worse, despite those bills passing.
 Anyone driving Watt Avenue from Roseville through North Highlands and Sacramento will tell you that.
@@ -13,3 +14,6 @@ I'd bet good money that road needs fixed.
 And if it doesn't need fixed now, it definitely needs constant maintenance.
 Just like a personal budget - don't go spending money on "can't miss opportunities" when the toilet keeps overflowing and the roof leaks.
 And to clarify, I support efforts to improve clean energy, but not taking care of roads leads to less efficient gas usage, contributing poorly to the environment and costing drivers more money on gas and car maintenance.
+Recent Posts See All Doodling with Derwinne Team Member Tuesday: Meet Atticus!
+Team Member Tuesday: Meet Lauren!
+Paid for by Neva Parker for Assembly 2026 FPPC #1481228 bottom of page

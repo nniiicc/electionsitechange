@@ -1,11 +1,1 @@
-Embedded Files
-News
-Legislative updates
-Holding Government Accountable: Office of Inspector General
-KSTP: Office of Inspector General Passes
-CBS News: Minnesota's new fraud watchdog committee holds first Capitol meeting
-Sahan Journal: What you need to know about the new office Minnesota lawmakers created to fight fraud
-KSTP: Inspector general bill heads to Senate
-At Issue: Fraud-fighting inspector general bill passes through the House, House Fraud Comittee recap
-Google Sites
-Report abuse
+Search this site Embedded Files Skip to main content Skip to navigation DONATE Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate Heather Gustafson Home Meet Heather Priorities Contact Endorsements Donate More Home Meet Heather Priorities Contact Endorsements Donate News Legislative updates KSTP: Office of Inspector General Passes CBS News: Minnesota Senate passes bill for school meals for all students KARE 11: State sends $300 million in public safety aid Senator Heather Gustafson Votes for $4 Billion in Tax Cuts , Including $325 Million in Public Safety Investments MPR News: Heather Gustafson on Paid Family Medical Leave Senator Heather Gustafson Votes “Yes” on Social Security Tax Relief Senator Heather Gustafson PFAS Bill Passed in Senate Environment, Climate, and Legacy Committee Thursday Senator Heather Gustafson Delivers Nearly $20 Million for Infrastructure Projects in Lino Lakes and White Bear Lake Holding Government Accountable: Office of Inspector General KSTP: Office of Inspector General Passes CBS News: Minnesota's new fraud watchdog committee holds first Capitol meeting Sahan Journal: What you need to know about the new office Minnesota lawmakers created to fight fraud KSTP: Inspector general bill heads to Senate At Issue: Fraud-fighting inspector general bill passes through the House, House Fraud Comittee recap VOTING INFORMATION HERE DONATE Media/press photos Prepared and paid for by Friends to Elect Heather Henry Gustafson, PO Box 10923, White Bear Lake, MN 55110 Google Sites Report abuse Google Sites Report abuse

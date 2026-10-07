@@ -1,35 +1,5 @@
-The Path to RAISE UP South Carolina
-RAISE isn't just an acronym—it's a commitment.
+0 Skip to Content Home Meet Your Candidate Policies and Platform Get Involved Donate Voter Information Quick Facts DONATE TODAY Open Menu Close Menu Open Menu Close Menu Home Meet Your Candidate Policies and Platform Get Involved Donate Voter Information Quick Facts DONATE TODAY Home Meet Your Candidate Policies and Platform Get Involved Donate Voter Information Quick Facts DONATE TODAY The Path to RAISE UP South Carolina RAISE isn't just an acronym—it's a commitment.
 Every policy I support is measured by one question: Will it improve the lives of the people of District 105?
 This platform focuses on practical solutions, fiscal responsibility, and putting people before politics.
 Together, we can build stronger communities and create opportunities for every family to succeed.
-Results Over Rhetoric
-- Transparent, accountable government
-- Fiscal responsibility
-- Constituent accessibility and responsiveness
-- Bipartisan problem-solving when it benefits District 105
-- Measuring success by outcomes, not political talking points
-Affordable, Attainable Housing
-- Expand workforce and starter-home opportunities
-- Protect property owners' rights while encouraging responsible growth
-- Support infrastructure planning before large-scale development
-- Encourage public-private partnerships to increase housing supply
-- Reduce unnecessary regulatory barriers that drive up housing costs
-Infrastructure and Health Care
-- Invest in roads, drainage, and traffic solutions to keep pace with growth
-- Expand access to quality health care, including rural and underserved communities
-- Support maternal health and mental health services
-- Improve broadband access where needed
-- Strengthen emergency preparedness and public safety infrastructure
-Strengthen Families and Social Programs
-- Support veterans, seniors, and working families
-- Increase access to affordable childcare
-- Improve services for people with disabilities
-- Partner with community organizations to address food insecurity and homelessness
-- Promote policies that help families achieve long-term stability
-Education
-- Support strong public schools
-- Increase teacher recruitment and retention
-- Expand career and technical education
-- Strengthen partnerships between schools, businesses, and colleges
-- Prepare students for college, careers, military service, and skilled trades
+R esults Over Rhetoric Transparent, accountable government Fiscal responsibility Constituent accessibility and responsiveness Bipartisan problem-solving when it benefits District 105 Measuring success by outcomes, not political talking points Affordable, Attainable Housing Expand workforce and starter-home opportunities Protect property owners' rights while encouraging responsible growth Support infrastructure planning before large-scale development Encourage public-private partnerships to increase housing supply Reduce unnecessary regulatory barriers that drive up housing costs Infrastructure and Health Care Invest in roads, drainage, and traffic solutions to keep pace with growth Expand access to quality health care, including rural and underserved communities Support maternal health and mental health services Improve broadband access where needed Strengthen emergency preparedness and public safety infrastructure Strengthen Families and Social Programs Support veterans, seniors, and working families Increase access to affordable childcare Improve services for people with disabilities Partner with community organizations to address food insecurity and homelessness Promote policies that help families achieve long-term stability Education Support strong public schools Increase teacher recruitment and retention Expand career and technical education Strengthen partnerships between schools, businesses, and colleges Prepare students for college, careers, military service, and skilled trades DONATE TODAY David Wilson SC House District 105 contact us at: info@VoteWilsonSC.org

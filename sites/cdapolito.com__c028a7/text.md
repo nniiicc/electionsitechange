@@ -1,1 +1,1 @@
-Craig D’Apolito for Tennessee House of Representatives for the 64th District DONATE now at https://secure.actblue.com/raise/221467
+0 Skip to Content Craig D'Apolito - TN64 Home Contact Us About The Issues Open Menu Close Menu Craig D'Apolito - TN64 Home Contact Us About The Issues Open Menu Close Menu Home Contact Us About The Issues Craig D’Apolito for Tennessee House of Representatives for the 64th District DONATE now at https://secure.actblue.com/raise/221467 DApolito for TN64 - Saviik Rasbury, Treasurer

@@ -1,8 +1,13 @@
-Why our policies should make it easier to build and grow here.
-Why I believe most of us have more in common than we’re being shown.
-Change starts when enough people choose to participate.
-Dear Neighbor,
-My name is Jessica Gomes, and I am running for State Representative in District 18 in Cranston.
+Jessica Gomes For Cranston Home Meet Jessica Issues Videos Cranston Resources Volunteer DONATE A Stronger Cranston Built on Community I’m Jessica Gomes, and I’m running for Cranston to build a stronger, safer, and more affordable city for all of us.
+Together, we can move Cranston forward.
+Request A Yard Sign MEET JESSICA REAL CONVERSATIONS.
+A STRONGER RHODE ISLAND.
+GET TO KNOW JESSICA I’m Jessica Gomes, and I’m running for State Representative.
+Before I ask for your vote in November, I want you to hear directly from me.
+Enable sound Why I Spoke Up at the State House Enable sound RHODE ISLAND SHOULD WORK FOR SMALL BUSINESS Why our policies should make it easier to build and grow here.
+Enable sound WHY THE MIDDLE GETS IGNORED Why I believe most of us have more in common than we’re being shown.
+Enable sound YOUR VOTE MATTERS MORE THAN YOU THINK Change starts when enough people choose to participate.
+Watch the full episode here A MESSAGE FROM JESSICA Dear Neighbor, My name is Jessica Gomes, and I am running for State Representative in District 18 in Cranston.
 I grew up in Providence, right on the Cranston line, in the Reservoir Triangle.
 I went to Reservoir Avenue Elementary School, Gilbert Stuart Middle School, and graduated from Classical High School.
 During my school years, I worked and volunteered at John Hope Settlement House, where I learned early how much community matters and how important it is for people to have support, guidance, and opportunity close to home.
@@ -53,9 +58,5 @@ My goal is to bring a practical, community-first voice to the State House.
 I want to help make Rhode Island more affordable, support parents and families, strengthen small businesses, and make sure residents have the information they need to participate with confidence.
 This campaign is about service, accountability, and helping people see the bigger picture so we can make choices that lead to a more affordable Rhode Island and a more prosperous community.
 Thank you for visiting my website, learning more about my story, and considering how you can be part of building a stronger Cranston.
-With gratitude,
-Jessica Gomes
-Candidate for State Representative
-District 18, Cranston
-Jessica Gomes for State Representative, District 18, Cranston, Rhode Island
+With gratitude, Jessica Gomes Candidate for State Representative District 18, Cranston Issues Paid for by Friends of Jessica Gomes Jessica Gomes for State Representative, District 18, Cranston, Rhode Island © # Friends of Jessica Gomes.
 All rights reserved.

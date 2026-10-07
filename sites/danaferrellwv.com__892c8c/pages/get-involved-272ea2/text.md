@@ -1,6 +1,2 @@
-We will soon be providing information about how you can volunteer to be involved in Dana Ferrell’s campaign.
-Skip to content
-Get Involved
-We will soon be providing information about how you can volunteer to be involved in Dana Ferrell’s campaign.
-Copyright © 2018 Dana Ferrell for 39th House of Delegates
-WV 39th House of Delegates
+Skip to content Dana Ferrell WV 39th House of Delegates Home About Dana News and Events Issues Get Involved Campaign Donations Get Involved We will soon be providing information about how you can volunteer to be involved in Dana Ferrell’s campaign.
+Search for: Recent Posts Welcome to the new Dana Ferrell for 39th House of Delegates site Recent Comments Archives April 2018 Contact Us Email dferrell@rsnsports.co Copyright © # Dana Ferrell for 39th House of Delegates

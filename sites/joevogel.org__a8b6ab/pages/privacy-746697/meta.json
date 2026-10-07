@@ -1,7 +1,9 @@
 {
- "description": "In common with other websites, log files are stored on the web server saving details such as the visitor\u2019s IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required, the visitor\u2019s email and a username will be stored on the server.",
+ "description": "In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit. Cookies may be used to remember visitor preferences when interacting with the website. Where registration is required, the visitor’s email and a username will be stored on the server.",
  "final_url": "https://www.joevogel.org/privacy",
- "paid_for_by": null,
+ "fingerprint": "e6b54c7c9176ab12070389d5800142c0faf1ca2d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Privacy Policy",
  "years_mentioned": []
 }

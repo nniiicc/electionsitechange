@@ -1,5 +1,4 @@
-Friends and neighbors,
-Fall has always been one of my favorite seasons.
+Press: Reflecting on Progress: What’s Next… One Month Left of the… Emergency Closure of Lorewood Grove… New Air Quality Initiatives Launching… Legislative Recap: April 2026 info@nicolepoore.com Donate About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter About About Senator Poore FAQs About Senator Poore Delaware Voting Information Endorsements Delaware Democrat Values 12th District Legislation Social Policy Guns Education Consumer Protection Crime and Public Safety Criminal Law and Courts Business & Economic Development/Policy Energy and Environment Health and Social Services Joint Sunset Committee Open Government/Government Operations Contact Volunteer News News/Blog Senator Poore 12th District Newsletter HB 242, SB 206, and What They Mean For You Home Consumer Protection / HB 242, SB 206, and What They Mean For You HB 242, SB 206, and What They Mean For You November 28, 2025 admin Consumer Protection , Legislation , News/Blog , Senator Poore 12th District Newsletter Comments are Closed 0 Friends and neighbors, Fall has always been one of my favorite seasons.
 The air feels a little crisper, the leaves start showing off their colors, and suddenly, there are pumpkins on every porch.
 It’s also the perfect time of year to slow down and spend time with the people we love.
 Whether it’s cheering at a Friday night football game, getting lost in a corn maze, or sharing a pot of chili on a chilly evening, fall has a way of bringing families and neighbors together.
@@ -10,21 +9,15 @@ In the end, these traditions remind us that the best part of fall isn’t the pu
 This season, I hope you’ll make space for those small joys: call a friend, visit a farm, lend a hand to a neighbor, or take a walk and enjoy the quiet comforts of fall.
 As we head into Thanksgiving, may we all find reasons to be grateful and remember what truly matters—holding close the people and the moments that make life rich.
 As always, reach out with any questions, comments, community concerns, or just to say hi.
-I can be reached by email at nicole.poore@delaware.gov, on Facebook , Instagram, or by calling my Senate office at (302) 744-4164.
-Sincerely,
-Nicole Poore
-Senator, District 12
-Wishing everyone a Thanksgiving full of warmth, kindness, and gratitude.
+I can be reached by email at nicole.poore@delaware.gov , on Facebook , Instagram , or by calling my Senate office at (302) 744-4164.
+Sincerely, Nicole Poore Senator, District 12 Wishing everyone a Thanksgiving full of warmth, kindness, and gratitude.
 May we all remember to give thanks for the people and opportunities that enrich our lives.
-HB 242, SB 206, and How They Affect You
-In August, the 153rd General Assembly passed House Bill 242 — legislation that allowed New Castle County to reset the original tax rates set in July.
+HB 242, SB 206, and How They Affect You In August, the 153rd General Assembly passed House Bill 242 — legislation that allowed New Castle County to reset the original tax rates set in July.
 This legislation was the result from our special session held in Legislative Hall after the turbulent outcome of the Tyler Technologies tax reassessments that occurred earlier this year.
 House Bill 242 “split” these rates into residential and non-residential rates, and also provided additional support to Delaware residents by offering payment plans and refunds for those who may have overpaid based off their original assessment.
 We also passed Senate Bill 206, which extended the property tax payment deadline in New Castle County from November 30 to December 31, giving residents the time they need to review their bills with confidence.
-FAQs
-With these changes, many residents have been left confused and questioning what they’re supposed to do regarding their taxes.
-Many of these frequently asked questions are listed below:
-When are my taxes due?
+FAQs With these changes, many residents have been left confused and questioning what they’re supposed to do regarding their taxes.
+Many of these frequently asked questions are listed below: When are my taxes due?
 As soon as the Governor signs Senate Bill 206, school and property taxes will now be due on December 31, 2025.
 When will I receive my revised tax bill?
 Now that the Delaware Supreme Court has issued a final determination in a case that challenged the school districts’ ability to use different tax rates for residential and non-residential properties, New Castle County is able to reissue school and property tax bills accounting for that distinction.
@@ -48,10 +41,8 @@ The amount you previously paid will be credited against the second bill.
 If you have a credit, the amount will be posted to your account.
 You may request a refund if the credit balance is $50 or more.
 A link to request a refund will be available once revised bills are posted on Parcel Search.
-Please note that refunds are issued to the original payee.
-If your mortgage company pays your school and property taxes and is owed a refund, we will refund the mortgage company directly.
-You do not need to request a refund if your mortgage company pays your taxes for you, as the County will be working directly with the mortgage companies to refund your previous overpayment.
-In addition, if you pay your school and property taxes directly to New Castle County and are owed a refund, you may request a refund if the balance of your previous overpayment is over $50.
+Please note that refunds are issued to the original payee. ﻿ ﻿﻿ ﻿If your mortgage company pays your school and property taxes and is owed a refund, we will refund the mortgage company directly.
+You do not need to request a refund if your mortgage company pays your taxes for you, as the County will be working directly with the mortgage companies to refund your previous overpayment.﻿ ﻿﻿ ﻿In addition, if you pay your school and property taxes directly to New Castle County and are owed a refund, you may request a refund if the balance of your previous overpayment is over $50.
 In the alternative, you may have your credit offset against your 2026 sewer bill.
 There will be a refund form available on the website to provide you with these options.
 If you choose not to request a refund or have your credit applied to your 2026 sewer bill, your previous overpayment will remain as a credit on your County account and offset future tax bills.
@@ -76,9 +67,7 @@ How can I change this?
 New Castle County classifies all properties as residential or non-residential for tax billing purposes.
 Within each of these classifications, properties can be classified as residential, farmland, except residential and exempt farmland if residential.
 Properties can be classified as apartment, commercial, exempt commercial, industrial or utility if non-residential.
-If you believe your property has been classified incorrectly, there are two ways to formally request a classification change:
-A property owner can complete this form and return by email to TaxClassificationChallenge@newcastlede.gov; or
-A property owner can email TaxClassificationChallenge@newcastlede.gov with the property’s parcel number or postal address, the reason why the challenged classification is factually erroneous, and a requested remedy.
+If you believe your property has been classified incorrectly, there are two ways to formally request a classification change: A property owner can complete this form and return by email to T axClassificationChallenge@newcastlede.gov ; or A property owner can email TaxClassificationChallenge@newcastlede.gov with the property’s parcel number or postal address, the reason why the challenged classification is factually erroneous, and a requested remedy.
 A certified assessor will review the information and provide a response within 60 days.
 Are appeals officially closed to challenge assessments?
 Is there a possibility they will reopen?
@@ -93,16 +82,14 @@ Operationally, it would destabilize the County’s and the local school district
 Delaware law aims to correct errors in assessed value, offering multiple avenues for taxpayers to contest valuations and classifications.
 Taxpayers were offered to participate in an informal appeal process in November and December 2024 (administered by the County’s third-party reassessment vendor) and can utilize the statutory assessment appeal process (which includes the right to appeal a decision to the Delaware Superior Court).
 Taxpayers can also request corrections or challenge classifications through available administrative remedies.
-Reverting to 1983 values is legally unsupportable and ignores the substantial administrative remedies available to address property owners’ concerns about assessed values or tax liabilities
-Small Business Saturday
-Santa will be visiting Delaware City this holiday season!
+Reverting to 1983 values is legally unsupportable and ignores the substantial administrative remedies available to address property owners’ concerns about assessed values or tax liabilities Small Business Saturday Santa will be visiting Delaware City this holiday season!
 Bring your family to Battery Park this Saturday for free harbor cruises and a chance to pose with St.
 Nick himself.
 The Delaware City Library is will also be hosting a winter coat giveaway at the park while supplies last.
 Thank you to Main Street Delaware Inc. and the Delaware City Library for spreading joy this winter.
 I wish you all a safe and happy weekend as we celebrate our small businesses and all they bring to our community.
 Small Business Saturday is meant to highlight and promote the benefit of shopping locally – offering your support to your neighbors and contributing to our own local economy.
-Past to Present Resale, an amazing small business in Delaware City, has created more than a shop – but has built a sustainable community where up-cycling and second-chance items thrive!
+Past to Present Resale , an amazing small business in Delaware City, has created more than a shop – but has built a sustainable community where up-cycling and second-chance items thrive!
 From clothing and jewelry to home decor and toys, this store celebrates the beauty of reusing and reimagining.
 Thank you, Michele, for bringing such a great business to our community!
 Diva Designs and Crafts and 302 Embroidery will be hosting a Sip and Shop to celebrate Small Business Saturday!
@@ -117,3 +104,8 @@ There is no better place to celebrate the Christmas season than the beautiful to
 This year, the Spirit of Christmas Festival returns with a full day of lights, local art, and food created and served by the small businesses that make our community unique.
 The tree-lighting ceremony at 4 p.m will feature live caroling from the William Penn High School and Delaware Valley Classical School choirs.
 I look forward to coming together with all of you to celebrate the holiday season!
+Prev Next Senator Poore’s Newsletter Latest News Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 New Air Quality Initiatives Launching in Delaware… admin 11 Apr 2026 Legislative Recap: April 2026 admin 7 Apr 2026 About Lifelong New Castle County resident Senator Nicole Poore is a family-oriented professional who consistently demonstrates how hard work, dedication, integrity, and solid family values are paramount to achieving family, personal, and professional goals.
+Contact Senator Poore Quick Links Home 12th District Contact Legislation News/Blog Donate Accessibility Latest Posts Reflecting on Progress: What’s Next for Us?… admin 7 Aug 2026 One Month Left of the 153rd General… admin 13 Jun 2026 Emergency Closure of Lorewood Grove Road admin 23 May 2026 Delaware Voting Information 2016 Delaware Election Calendar Delaware Polling Place Locator Registering to Vote Voters with Special Needs Voting by Absentee Ballot © # Nicole Poore.
+Site design by The Writer's Block .
+Accessibility Statement . × How much would you like to donate?
+Donate Now

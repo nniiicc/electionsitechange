@@ -1,2 +1,7 @@
-University Place – State Representative Mari Leavitt, D-University Place, will join the National Conference of State Legislators’s Task Force on Military and Veterans Affairs.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact The Suburban Times Rep.
+Leavitt Appointed to Serve on NCSL Task Force on Military and Veterans Affairs June 12, 2020 University Place – State Representative Mari Leavitt, D-University Place, will join the National Conference of State Legislators’s Task Force on Military and Veterans Affairs.
 The task force brings together a bipartisan coalition of state legislators from across the country to work on issues affecting military families, communities, and veterans.
+Related reading on marileavitt.com More on National Guard and military family legislation: Rep.
+Leavitt says we can do better for our soldiers, veterans and… More on National Guard and military family legislation: House passes Leavitt bills to support National Guard families and… More on National Guard and military family legislation: Leavitt bills to support military families and veterans headed to… More on National Guard and military family legislation: Proposed state legislation could provide Guardsmen equal pay… For official reference, see Washington Military Department and Rep.
+Mari Leavitt’s official legislative profile .
+Read More « Previous: UP for Arts donates “Forever Friends” to Curran Apple Orchard! » Next: Time’s up for students’ pandemic meal money, but most in WA haven’t enrolled

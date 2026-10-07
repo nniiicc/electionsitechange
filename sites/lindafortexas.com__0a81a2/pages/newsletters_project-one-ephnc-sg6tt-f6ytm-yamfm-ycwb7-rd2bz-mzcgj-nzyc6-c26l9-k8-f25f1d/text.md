@@ -1,6 +1,4 @@
-🔔 HD 107 Weekly Newsletter 🔔
-“ We’ve been hard at work leading up to today’s bill filing deadline, ensuring we advocate for policies that serve HD 107.
-From committee meetings to community engagement, we’re staying busy for you!”
--Linda G.-
-Previous
-Next
+0 Skip to Content Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Priorities Education Funding Healthcare Access Reproductive Rights Infrastructure Development News & Info Newsletters Media Release Connect Open Menu Close Menu Meet Linda Folder: Priorities Back Education Funding Healthcare Access Reproductive Rights Infrastructure Development Folder: News & Info Back Newsletters Media Release Connect 🔔 HD 107 Weekly Newsletter 🔔 View fullsize “ We’ve been hard at work leading up to today’s bill filing deadline, ensuring we advocate for policies that serve HD 107.
+From committee meetings to community engagement, we’re staying busy for you!” -Linda G.- SEE MORE 🔔 Boletín Semanal de HD 107 🔔 Hemos estado trabajando duro hasta hoy, la última día para presentar proyectos de ley, asegurando que abogamos por políticas que sirven HD 107.
+Desde las reuniones del comité hasta la participación de la comunidad, nos mantenemos ocupados por usted! (haga clic en el enlace) Previous Previous March 21 Next Next March 7 LINDA GARCIA | HOUSE REPRESENTATIVE FOR DISTRICT 107 539 W.
+Commerce St. | Suite 4808 | Dallas, TX 75208 All rights reserved ©# House Representative Garcia | Political ad paid by Linda for Texas

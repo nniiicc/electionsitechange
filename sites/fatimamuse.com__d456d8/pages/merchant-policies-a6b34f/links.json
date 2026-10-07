@@ -1,15 +1,54 @@
 [
-"https://fatimamuse.com/",
-"https://fatimamuse.com/about-us",
-"https://fatimamuse.com/contact-us",
-"https://fatimamuse.com/en-espa\u00f1ol",
-"https://fatimamuse.com/get-to-know-the-candidate",
-"https://fatimamuse.com/legal-notice",
-"https://fatimamuse.com/merchant-policies",
-"https://fatimamuse.com/privacy-policy",
-"https://fatimamuse.com/return-and-refund-policy",
-"https://fatimamuse.com/services",
-"https://fatimamuse.com/terms-and-conditions",
-"https://secure.actblue.com/donate/votemuse",
-"https://ueni.com/"
+{
+"text": "About",
+"href": "https://www.fatimamuse.com/get-to-know-the-candidate"
+},
+{
+"text": "Contact",
+"href": "https://www.fatimamuse.com/contact-us"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/votemuse"
+},
+{
+"text": "En Español",
+"href": "https://www.fatimamuse.com/en-espa%C3%B1ol"
+},
+{
+"text": "Get Involved",
+"href": "https://www.fatimamuse.com/about-us"
+},
+{
+"text": "Home",
+"href": "https://www.fatimamuse.com/"
+},
+{
+"text": "Legal Notice",
+"href": "https://www.fatimamuse.com/legal-notice"
+},
+{
+"text": "Merchant Policies",
+"href": "https://www.fatimamuse.com/merchant-policies"
+},
+{
+"text": "Priorities",
+"href": "https://www.fatimamuse.com/services"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.fatimamuse.com/privacy-policy"
+},
+{
+"text": "Refund Policy",
+"href": "https://www.fatimamuse.com/return-and-refund-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.fatimamuse.com/terms-and-conditions"
+},
+{
+"text": "[tooltip: logo]",
+"href": "https://ueni.com/"
+}
 ]

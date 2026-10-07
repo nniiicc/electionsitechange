@@ -1,7 +1,11 @@
 {
  "description": "Kimberly Simmons Robinson Campaign Events",
  "final_url": "https://kimformaryland.com/Events?range=2026-W40",
- "paid_for_by": null,
+ "fingerprint": "fc240fb360c56765b057ad8a0610d21f87c009c0",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Kimberly Simmons Robinson Campaign Events",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

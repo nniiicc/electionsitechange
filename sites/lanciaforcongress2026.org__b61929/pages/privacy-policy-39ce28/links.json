@@ -1,9 +1,30 @@
 [
-"https://facebook.com/profile.php?id=61574624072385",
-"https://instagram.com/lancia_for_congress_2026",
-"https://lanciaforcongress2026.org/",
-"https://lanciaforcongress2026.org/cdn-cgi/l/email-protection",
-"https://lanciaforcongress2026.org/privacy-policy",
-"https://lanciaforcongress2026.org/terms-and-conditions",
-"https://tiktok.com/@lanciaforcongress2026"
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61574624072385"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lancia_for_congress_2026/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://lanciaforcongress2026.org/privacy-policy/"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://lanciaforcongress2026.org/terms-and-conditions/"
+},
+{
+"text": "Tiktok",
+"href": "https://www.tiktok.com/@lanciaforcongress2026"
+},
+{
+"text": "[email protected]",
+"href": "mailto:contact@christopherlancia.com"
+},
+{
+"text": "[image]",
+"href": "https://lanciaforcongress2026.org"
+}
 ]

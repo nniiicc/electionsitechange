@@ -1,11 +1,50 @@
 [
-"https://laura4position1.com/",
-"https://laura4position1.com/about",
-"https://laura4position1.com/contact",
-"https://laura4position1.com/donate",
-"https://laura4position1.com/donation-form.pdf",
-"https://laura4position1.com/faq",
-"https://laura4position1.com/in-her-own-words",
-"https://laura4position1.com/volunteer",
-"https://pdc.wa.gov/rules-enforcement/guidelines-restrictions/contribution-limits"
+{
+"text": "About",
+"href": "https://laura4position1.com/about"
+},
+{
+"text": "Contact",
+"href": "https://laura4position1.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://laura4position1.com/donate"
+},
+{
+"text": "Download Form (PDF)",
+"href": "https://laura4position1.com/donation-form.pdf"
+},
+{
+"text": "FAQs",
+"href": "https://laura4position1.com/faq"
+},
+{
+"text": "Join the Waitlist",
+"href": "https://laura4position1.com/volunteer"
+},
+{
+"text": "Visit our contact page",
+"href": "https://laura4position1.com/contact"
+},
+{
+"text": "Volunteer",
+"href": "https://laura4position1.com/volunteer"
+},
+{
+"text": "WA PDC contribution limits",
+"href": "https://www.pdc.wa.gov/rules-enforcement/guidelines-restrictions/contribution-limits"
+},
+{
+"text": "Watch & Listen",
+"href": "https://laura4position1.com/in-her-own-words"
+},
+{
+"text": "[image: Laura Christensen Colberg for Washington Supreme Court Position One][image: Laura Christensen Colberg for Washington Supreme Court Position One]",
+"href": "https://laura4position1.com/"
+},
+{
+"text": "the contribution form",
+"href": "https://laura4position1.com/donation-form.pdf"
+}
 ]

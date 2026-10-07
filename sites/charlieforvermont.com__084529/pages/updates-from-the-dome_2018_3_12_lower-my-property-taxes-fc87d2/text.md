@@ -1,12 +1,7 @@
-I haven’t met anybody who feels that their property taxes are too low - quite the opposite.
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell March 12, 2018 2/25/2018 - Lower My Property Taxes Charlie Kimbell March 12, 2018 I haven’t met anybody who feels that their property taxes are too low - quite the opposite.
 It may be the one thing on which all Vermonters agree.
 That said, there is no agreement on how to lower them.
-The education funding reform currently being considered in the legislature is an attempt to enact sweeping reforms to the funding system to accomplish four things:
-- make it easier to understand
-- tax people based on income instead of property value
-- make home owners feel the direct impact of school spending decisions
-- make high spending school districts pay more
-The impact of this proposal is huge and the legislature has decided to slow down the consideration of it.
+The education funding reform currently being considered in the legislature is an attempt to enact sweeping reforms to the funding system to accomplish four things: make it easier to understand tax people based on income instead of property value make home owners feel the direct impact of school spending decisions make high spending school districts pay more The impact of this proposal is huge and the legislature has decided to slow down the consideration of it.
 That’s a good thing because residents of the modified, unified Woodstock school district would see a large increase in property (and income) taxes.
 We are a “high spending” district at $18,000 per student.
 People with a high property value (over $400K) and who also receive some relief through and income sensitivity adjustment in a high spending district could see an increase in the adjusted property tax bill of 25-30%.
@@ -28,3 +23,6 @@ That is no easy task.
 And, we are amidst the implementation of Act 46, the impacts of which won’t be fully realized for some time.
 There will be some funding revisions brought forth in this legislative session, though it is not clear the exact form that they will take.
 Stay tuned.
+Newer Post Where do Lottery Proceeds go?
+Thought it went to education.
+Older Post 3/12/2018 - Tax Credits Fund Housing and Community Development DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

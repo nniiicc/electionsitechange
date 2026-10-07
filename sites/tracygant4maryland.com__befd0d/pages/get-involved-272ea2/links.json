@@ -1,13 +1,62 @@
 [
-"https://forms.gle/fU6iVFzk49TVXjBC6",
-"https://tracygant4maryland.com/contact",
-"https://tracygant4maryland.com/district-22",
-"https://tracygant4maryland.com/donate",
-"https://tracygant4maryland.com/endorsements",
-"https://tracygant4maryland.com/get-involved",
-"https://tracygant4maryland.com/home",
-"https://tracygant4maryland.com/meet-tracy",
-"https://tracygant4maryland.com/priorities",
-"https://tracygant4maryland.com/priorities/why-im-running",
-"https://tracygant4maryland.com/vote"
+{
+"text": "CONTACT",
+"href": "https://www.tracygant4maryland.com/contact"
+},
+{
+"text": "DISTRICT 22",
+"href": "https://www.tracygant4maryland.com/district-22"
+},
+{
+"text": "DONATE",
+"href": "https://www.tracygant4maryland.com/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.tracygant4maryland.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.tracygant4maryland.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "JOIN THE CAMPAIGN!",
+"href": "https://forms.gle/fU6iVFzk49TVXjBC6"
+},
+{
+"text": "MEET TRACY",
+"href": "https://www.tracygant4maryland.com/meet-tracy"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.tracygant4maryland.com/priorities"
+},
+{
+"text": "VOTE",
+"href": "https://www.tracygant4maryland.com/vote"
+},
+{
+"text": "VOTE TRACY GANT 2026",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "WHY I'M RUNNING",
+"href": "https://www.tracygant4maryland.com/priorities/why-im-running"
+},
+{
+"text": "[image]",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "[image]VOTE TRACY GANT 2026",
+"href": "https://www.tracygant4maryland.com/home"
+},
+{
+"text": "tracygant4maryland@tracygant4maryland.com",
+"href": "mailto:tracygant4maryland@tracygant4maryland.com"
+}
 ]

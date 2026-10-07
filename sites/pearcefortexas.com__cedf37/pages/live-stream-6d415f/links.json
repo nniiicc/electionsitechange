@@ -1,6 +1,18 @@
 [
-"https://pearcefortexas.com/",
-"https://pearcefortexas.com/admin",
-"https://pearcefortexas.com/endorsements",
-"https://pearcefortexas.com/live-stream"
+{
+"text": "Admin",
+"href": "https://pearcefortexas.com/admin"
+},
+{
+"text": "Endorsements",
+"href": "https://pearcefortexas.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://pearcefortexas.com/"
+},
+{
+"text": "Live Stream",
+"href": "https://pearcefortexas.com/live-stream"
+}
 ]

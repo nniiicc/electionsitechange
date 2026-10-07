@@ -1,5 +1,4 @@
-About Me
-I’m Lindsay Gramlich, and I’m running for Indiana House District 39 in the 2026 election.
+top of page Home About News and Events Latest News Upcoming Events Priorities Affordability Public Education Public Safety Environment & Energy Reproductive Rights Contact Get Involved Voting District Map Merch Donate About Me I’m Lindsay Gramlich, and I’m running for Indiana House District 39 in the 2026 election.
 I am a mom to three wonderful children and two rescue dogs, a wife, a nonprofit CEO, a daughter, sister, friend, and neighbor—and a proud lifelong Hoosier raising my family here in Carmel.
 My interest in public service started early.
 In third grade, a Schoolhouse Rock episode about how a bill becomes a law sparked a curiosity that never faded.
@@ -11,4 +10,4 @@ I am grounded in family, faith, and community.
 The daughter of two retired public school administrators and the granddaughter of Slovakian immigrants, I grew up with a respect for education, hard work, and community.
 With two kids in Carmel Clay Schools and one in daycare, I stay closely connected as a volunteer, civic advocate, and active participant in our nonprofit and education landscape.
 You will often see me around town at school drop-offs, cheering at kids’ activities, visiting the Carmel Farmers Market, or running along the Monon Trail.
-I’m running as your neighbor—because I care deeply about the future we’re building together.
+I’m running as your neighbor—because I care deeply about the future we’re building together. ​ Register to Vote District 39 Map Our mailing address is: Our Community for Lindsay Gramlich PO Box 3863 275 Medical Dr Carmel, IN 46082 United States ​ © # by Lindsay Gramlich for State Representative PAID FOR BY OUR COMMUNITY FOR LINDSAY GRAMLICH bottom of page

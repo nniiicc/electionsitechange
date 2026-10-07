@@ -1,28 +1,126 @@
 [
-"https://facebook.com/VoteLambton",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-2026-08-19-17-00&quote=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://instagram.com/votechrislambton",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-2026-08-19-17-00",
-"https://secure.actblue.com/donate/chrislambtoncommittee",
-"https://tiktok.com/@votelambton",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-2026-08-19-17-00&text=Check+out+this+event.+Hope+to+see+you+there%21",
-"https://votelambton.com/",
-"https://votelambton.com/about-3",
-"https://votelambton.com/about-chris-lambton",
-"https://votelambton.com/chris-lambton-events",
-"https://votelambton.com/chris-lambton-get-involved",
-"https://votelambton.com/chris-lambton-news",
-"https://votelambton.com/chris-lambton-priorities",
-"https://votelambton.com/contact-chris-lambton",
-"https://votelambton.com/events/campaign-kickoff-fundraiser",
-"https://votelambton.com/events/kick-off-to-summer-event-1",
-"https://votelambton.com/events/wave-and-walk-wednesdays-2026-08-19-17-00",
-"https://votelambton.com/howtovote",
-"https://votelambton.com/terms-and-conditions"
+{
+"text": "About",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "About",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Chris Lambton",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Contact",
+"href": "https://www.votelambton.com/contact-chris-lambton"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/chrislambtoncommittee"
+},
+{
+"text": "Details",
+"href": "https://www.votelambton.com/events/wave-and-walk-wednesdays-2026-08-19-17-00"
+},
+{
+"text": "Endorsements",
+"href": "https://www.votelambton.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.votelambton.com/chris-lambton-events"
+},
+{
+"text": "FOR STATE REPRESENTATIVE",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.votelambton.com/chris-lambton-get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.votelambton.com"
+},
+{
+"text": "How to Vote",
+"href": "https://www.votelambton.com/howtovote"
+},
+{
+"text": "Learn more",
+"href": "https://www.votelambton.com/events/campaign-kickoff-fundraiser"
+},
+{
+"text": "Learn more",
+"href": "https://www.votelambton.com/events/kick-off-to-summer-event-1"
+},
+{
+"text": "News",
+"href": "https://www.votelambton.com/chris-lambton-news"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/about-chris-lambton"
+},
+{
+"text": "Priorities",
+"href": "https://www.votelambton.com/chris-lambton-priorities"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.votelambton.com/terms-and-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/VoteLambton"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/votechrislambton"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@votelambton"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-%23-17-00&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-%23-17-00&quote=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fcampaign-kickoff-fundraiser"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fkick-off-to-summer-event-1"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.votelambton.com%2Fevents%2Fwave-and-walk-wednesdays-%23-17-00"
+},
+{
+"text": "info@votelambton.com",
+"href": "mailto:info@votelambton.com"
+}
 ]

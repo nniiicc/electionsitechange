@@ -1,16 +1,58 @@
 [
-"http://view%20here/",
-"https://astutewebsites.com/index.php/get-to-know-me",
-"https://astutewebsites.com/index.php/join-us",
-"https://astutewebsites.com/index.php/sleeves-up-plan",
-"https://budget.illinois.gov/",
-"https://facebook.com/profile.php?id=61578621476395",
-"https://kathyeaston.com/donate",
-"https://kathyeaston.com/get-to-know-me",
-"https://kathyeaston.com/index.php",
-"https://kathyeaston.com/join-our-team",
-"https://kathyeaston.com/kathy-on-the-move",
-"https://kathyeaston.com/sleeves-up-plan",
-"https://kathyeaston.com/talk-to-kathy",
-"https://kathyeaston.com/voter-information"
+{
+"text": "Donate",
+"href": "https://kathyeaston.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61578621476395"
+},
+{
+"text": "Get to Know Me",
+"href": "https://kathyeaston.com/get-to-know-me/"
+},
+{
+"text": "JOIN US!",
+"href": "https://astutewebsites.com/index.php/join-us/"
+},
+{
+"text": "Join Us",
+"href": "https://kathyeaston.com/join-our-team/"
+},
+{
+"text": "Kathy on the Move",
+"href": "https://kathyeaston.com/kathy-on-the-move/"
+},
+{
+"text": "LEARN MORE!",
+"href": "https://astutewebsites.com/index.php/get-to-know-me/"
+},
+{
+"text": "LEARN MORE!",
+"href": "https://astutewebsites.com/index.php/sleeves-up-plan/"
+},
+{
+"text": "Sleeves Up Plan",
+"href": "https://kathyeaston.com/sleeves-up-plan/"
+},
+{
+"text": "Talk to Kathy",
+"href": "https://kathyeaston.com/talk-to-kathy/"
+},
+{
+"text": "VIEW HERE",
+"href": "https://budget.illinois.gov/"
+},
+{
+"text": "Voter Information",
+"href": "https://kathyeaston.com/voter-information/"
+},
+{
+"text": "[image]",
+"href": "http://view%20here"
+},
+{
+"text": "[image]",
+"href": "https://kathyeaston.com/index.php"
+}
 ]

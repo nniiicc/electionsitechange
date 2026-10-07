@@ -1,14 +1,58 @@
 [
-"https://facebook.com/lam4aloha",
-"https://https://www.linkedin.com/in/adriellam",
-"https://instagram.com/lam4aloha",
-"https://lam4aloha.com/",
-"https://lam4aloha.com/about",
-"https://lam4aloha.com/contribute",
-"https://lam4aloha.com/get-involved",
-"https://lam4aloha.com/rss-feeds",
-"https://linkedin.com/in/adriellam",
-"https://secure.winred.com/lam4aloha-congress/donate",
-"https://truthsocial.com/lam4aloha",
-"https://x.com/lam4aloha"
+{
+"text": "About",
+"href": "https://lam4aloha.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://lam4aloha.com/contribute/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/lam4aloha"
+},
+{
+"text": "Get Involved",
+"href": "https://lam4aloha.com/get-involved/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/lam4aloha"
+},
+{
+"text": "Link",
+"href": "https://www.truthsocial.com/lam4aloha"
+},
+{
+"text": "LinkedIn",
+"href": "https://https://www.linkedin.com/in/adriellam"
+},
+{
+"text": "LinkedIn",
+"href": "https://www.linkedin.com/in/adriellam"
+},
+{
+"text": "RSS feeds",
+"href": "https://lam4aloha.com/rss-feeds/"
+},
+{
+"text": "X",
+"href": "https://www.x.com/lam4aloha"
+},
+{
+"text": "[image: lam4aloha.com]",
+"href": "https://lam4aloha.com/"
+},
+{
+"text": "[image]donate with WINRED",
+"href": "https://secure.winred.com/lam4aloha-congress/donate"
+},
+{
+"text": "lam4aloha.com",
+"href": "https://lam4aloha.com"
+},
+{
+"text": "← Back",
+"href": "https://lam4aloha.com/contribute/"
+}
 ]

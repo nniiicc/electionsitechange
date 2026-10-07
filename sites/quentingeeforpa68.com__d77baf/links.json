@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61586126339887&sk=about",
-"https://instagram.com/wix",
-"https://quentingeeforpa68.com/contact",
-"https://quentingeeforpa68.com/events-1",
-"https://quentingeeforpa68.com/get-involved",
-"https://quentingeeforpa68.com/news",
-"https://secure.actblue.com/donate/close-the-divide-1",
-"https://twitter.com/wix"
+{
+"text": "Contact",
+"href": "https://www.quentingeeforpa68.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/close-the-divide-1"
+},
+{
+"text": "Events",
+"href": "https://www.quentingeeforpa68.com/events-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.quentingeeforpa68.com/get-involved"
+},
+{
+"text": "What I believe",
+"href": "https://www.quentingeeforpa68.com/news"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=61586126339887&sk=about"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/wix"
+},
+{
+"text": "[image]",
+"href": "https://www.twitter.com/wix"
+},
+{
+"text": "quentingeeforpa68@gmail.com",
+"href": "mailto:quentingeeforpa68@gmail.com"
+}
 ]

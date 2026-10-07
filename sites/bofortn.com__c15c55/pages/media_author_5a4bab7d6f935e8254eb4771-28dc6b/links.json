@@ -1,41 +1,326 @@
 [
-"https://bofortn.com/",
-"https://bofortn.com/about",
-"https://bofortn.com/bos-bash",
-"https://bofortn.com/cart",
-"https://bofortn.com/community",
-"https://bofortn.com/contact-bo",
-"https://bofortn.com/delivering-for-district-11",
-"https://bofortn.com/endorsements",
-"https://bofortn.com/home",
-"https://bofortn.com/media",
-"https://bofortn.com/media/bluecross-to-build-10-million-healthy-place-playgroundpark-at-riverfront",
-"https://bofortn.com/media/certificate-of-need-law-could-see-immediate-impact",
-"https://bofortn.com/media/chattanooga-site-named-for-new-moccasin-bend-mental-hospital",
-"https://bofortn.com/media/dolly-partons-imagination-library-as-part-of-tennessees-budget-in-2027",
-"https://bofortn.com/media/epb-hosts-first-ever-quantum-in-business-conference-in-chattanooga",
-"https://bofortn.com/media/grant-signing-for-130m-wilcox-bridge-project",
-"https://bofortn.com/media/hamilton-county-mayor-and-senator-speak-on-challenges-ahead-of-governors-race",
-"https://bofortn.com/media/hamilton-county-mayor-weston-wamps-2026-state-of-the-county-address",
-"https://bofortn.com/media/hamilton-county-unveils-larger-12m-medical-examiners-office",
-"https://bofortn.com/media/honoring-chattanooga-restaurants-for-michelin-guide-recognition",
-"https://bofortn.com/media/hoppys-recognized-by-tennessee-senate-after-back-to-back-burger-week-wins",
-"https://bofortn.com/media/kenco-opens-new-innovation-lab-for-warehouse-automation-testing",
-"https://bofortn.com/media/new-tn-legislation-allows-emergency-care-life-force-transport-for-injured-k9s",
-"https://bofortn.com/media/nfib-tennessee-pac-endorses-bo-watson-in-senate-district-11-race",
-"https://bofortn.com/media/officials-seek-public-input-on-mcdonald-farm-state-park",
-"https://bofortn.com/media/orange-grove-center-celebrated-americas-250th-anniversary",
-"https://bofortn.com/media/portion-of-amnicola-highway-named-in-honor-of-k-9-diesel",
-"https://bofortn.com/media/senator-bo-watson-kicks-off-2026-campaign",
-"https://bofortn.com/media/tenn-law-clears-ems-crews-to-treat-transport-injured-police-k-9s",
-"https://bofortn.com/media/volkswagen-launches-2027-atlas-suv-in-chattanooga",
-"https://bofortn.com/media?offset=1778509176204&author=5a4bab7d6f935e8254eb4771",
-"https://bofortn.com/newsletter",
-"https://bofortn.com/priorities",
-"https://bofortn.com/tennessee-today-podcast",
-"https://facebook.com/SenBoWatson",
-"https://instagram.com/bofortennessee",
-"https://linkedin.com/in/bo-watson-a649695",
-"https://secure.anedot.com/11-bo/friends-of-bo-watson",
-"https://x.com/SenBoWatson"
+{
+"text": "0",
+"href": "https://www.bofortn.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.bofortn.com/about"
+},
+{
+"text": "BlueCross To Build $10 Million Healthy Place Playground/Park At Riverfront",
+"href": "https://www.bofortn.com/media/bluecross-to-build-10-million-healthy-place-playgroundpark-at-riverfront"
+},
+{
+"text": "Bo for Tennessee",
+"href": "https://www.bofortn.com/home"
+},
+{
+"text": "Bo's Bash",
+"href": "https://www.bofortn.com/bos-bash"
+},
+{
+"text": "Certificate of Need law could see immediate impact",
+"href": "https://www.bofortn.com/media/certificate-of-need-law-could-see-immediate-impact"
+},
+{
+"text": "Chattanooga site named for new Moccasin Bend mental hospital",
+"href": "https://www.bofortn.com/media/chattanooga-site-named-for-new-moccasin-bend-mental-hospital"
+},
+{
+"text": "Community",
+"href": "https://www.bofortn.com/community"
+},
+{
+"text": "Contact",
+"href": "https://www.bofortn.com/contact-bo"
+},
+{
+"text": "Contact Bo",
+"href": "https://www.bofortn.com/contact-bo"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/11-bo/friends-of-bo-watson"
+},
+{
+"text": "Delivering for District 11",
+"href": "https://www.bofortn.com/delivering-for-district-11"
+},
+{
+"text": "Dolly Parton’s Imagination Library as part of Tennessee’s budget in 2027",
+"href": "https://www.bofortn.com/media/dolly-partons-imagination-library-as-part-of-tennessees-budget-in-2027"
+},
+{
+"text": "EPB hosts first-ever “Quantum in Business” conference in Chattanooga",
+"href": "https://www.bofortn.com/media/epb-hosts-first-ever-quantum-in-business-conference-in-chattanooga"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bofortn.com/endorsements"
+},
+{
+"text": "Grant signing for $130M Wilcox bridge project",
+"href": "https://www.bofortn.com/media/grant-signing-for-130m-wilcox-bridge-project"
+},
+{
+"text": "Hamilton County Mayor Weston Wamp’s 2026 State of The County Address",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-weston-wamps-2026-state-of-the-county-address"
+},
+{
+"text": "Hamilton County Mayor and Senator speak on challenges ahead of Governor’s Race",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-and-senator-speak-on-challenges-ahead-of-governors-race"
+},
+{
+"text": "Hamilton County unveils larger, $12M medical examiner’s office",
+"href": "https://www.bofortn.com/media/hamilton-county-unveils-larger-12m-medical-examiners-office"
+},
+{
+"text": "Honoring Chattanooga restaurants for MICHELIN Guide recognition",
+"href": "https://www.bofortn.com/media/honoring-chattanooga-restaurants-for-michelin-guide-recognition"
+},
+{
+"text": "Hoppy’s recognized by Tennessee Senate after back-to-back Burger Week wins",
+"href": "https://www.bofortn.com/media/hoppys-recognized-by-tennessee-senate-after-back-to-back-burger-week-wins"
+},
+{
+"text": "Kenco Opens New Innovation Lab for Warehouse Automation Testing",
+"href": "https://www.bofortn.com/media/kenco-opens-new-innovation-lab-for-warehouse-automation-testing"
+},
+{
+"text": "Media",
+"href": "https://www.bofortn.com/media"
+},
+{
+"text": "NFIB Tennessee PAC Endorses Bo Watson In Senate District 11 Race",
+"href": "https://www.bofortn.com/media/nfib-tennessee-pac-endorses-bo-watson-in-senate-district-11-race"
+},
+{
+"text": "Newsletter",
+"href": "https://www.bofortn.com/newsletter"
+},
+{
+"text": "Officials Seek Public Input on McDonald Farm State Park",
+"href": "https://www.bofortn.com/media/officials-seek-public-input-on-mcdonald-farm-state-park"
+},
+{
+"text": "Older Posts",
+"href": "https://www.bofortn.com/media?offset=1779042692093&author=5a4bab7d6f935e8254eb4771"
+},
+{
+"text": "Orange Grove Center celebrated America's 250th Anniversary",
+"href": "https://www.bofortn.com/media/orange-grove-center-celebrated-americas-250th-anniversary"
+},
+{
+"text": "Portion Of Amnicola Highway Named in Honor of K-9 Diesel",
+"href": "https://www.bofortn.com/media/portion-of-amnicola-highway-named-in-honor-of-k-9-diesel"
+},
+{
+"text": "Priorities",
+"href": "https://www.bofortn.com/priorities"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/bluecross-to-build-10-million-healthy-place-playgroundpark-at-riverfront"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/certificate-of-need-law-could-see-immediate-impact"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/chattanooga-site-named-for-new-moccasin-bend-mental-hospital"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/dolly-partons-imagination-library-as-part-of-tennessees-budget-in-2027"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/epb-hosts-first-ever-quantum-in-business-conference-in-chattanooga"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/grant-signing-for-130m-wilcox-bridge-project"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-and-senator-speak-on-challenges-ahead-of-governors-race"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-weston-wamps-2026-state-of-the-county-address"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/hamilton-county-unveils-larger-12m-medical-examiners-office"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/honoring-chattanooga-restaurants-for-michelin-guide-recognition"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/hoppys-recognized-by-tennessee-senate-after-back-to-back-burger-week-wins"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/kenco-opens-new-innovation-lab-for-warehouse-automation-testing"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/nfib-tennessee-pac-endorses-bo-watson-in-senate-district-11-race"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/officials-seek-public-input-on-mcdonald-farm-state-park"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/orange-grove-center-celebrated-americas-250th-anniversary"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/portion-of-amnicola-highway-named-in-honor-of-k-9-diesel"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/senator-bo-watson-kicks-off-2026-campaign"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/tenn-law-clears-ems-crews-to-treat-transport-injured-police-k-9s"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/volkswagen-launches-2027-atlas-suv-in-chattanooga"
+},
+{
+"text": "Read More",
+"href": "https://www.bofortn.com/media/walnut-street-bridge-reopens"
+},
+{
+"text": "Senator Bo Watson Kicks Off 2026 Campaign",
+"href": "https://www.bofortn.com/media/senator-bo-watson-kicks-off-2026-campaign"
+},
+{
+"text": "Tenn. law clears EMS crews to treat, transport injured police K-9s",
+"href": "https://www.bofortn.com/media/tenn-law-clears-ems-crews-to-treat-transport-injured-police-k-9s"
+},
+{
+"text": "Tennessee Today Podcast",
+"href": "https://www.bofortn.com/tennessee-today-podcast"
+},
+{
+"text": "Volkswagen launches 2027 Atlas SUV in Chattanooga",
+"href": "https://www.bofortn.com/media/volkswagen-launches-2027-atlas-suv-in-chattanooga"
+},
+{
+"text": "Walnut Street Bridge Reopens",
+"href": "https://www.bofortn.com/media/walnut-street-bridge-reopens"
+},
+{
+"text": "[image: BlueCross To Build $10 Million Healthy Place Playground/Park At Riverfront]",
+"href": "https://www.bofortn.com/media/bluecross-to-build-10-million-healthy-place-playgroundpark-at-riverfront"
+},
+{
+"text": "[image: Certificate of Need law could see immediate impact]",
+"href": "https://www.bofortn.com/media/certificate-of-need-law-could-see-immediate-impact"
+},
+{
+"text": "[image: Chattanooga site named for new Moccasin Bend mental hospital]",
+"href": "https://www.bofortn.com/media/chattanooga-site-named-for-new-moccasin-bend-mental-hospital"
+},
+{
+"text": "[image: Dolly Parton’s Imagination Library as part of Tennessee’s budget in 2027]",
+"href": "https://www.bofortn.com/media/dolly-partons-imagination-library-as-part-of-tennessees-budget-in-2027"
+},
+{
+"text": "[image: EPB hosts first-ever “Quantum in Business” conference in Chattanooga]",
+"href": "https://www.bofortn.com/media/epb-hosts-first-ever-quantum-in-business-conference-in-chattanooga"
+},
+{
+"text": "[image: Grant signing for $130M Wilcox bridge project]",
+"href": "https://www.bofortn.com/media/grant-signing-for-130m-wilcox-bridge-project"
+},
+{
+"text": "[image: Hamilton County Mayor Weston Wamp’s 2026 State of The County Address]",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-weston-wamps-2026-state-of-the-county-address"
+},
+{
+"text": "[image: Hamilton County Mayor and Senator speak on challenges ahead of Governor’s Race]",
+"href": "https://www.bofortn.com/media/hamilton-county-mayor-and-senator-speak-on-challenges-ahead-of-governors-race"
+},
+{
+"text": "[image: Hamilton County unveils larger, $12M medical examiner’s office]",
+"href": "https://www.bofortn.com/media/hamilton-county-unveils-larger-12m-medical-examiners-office"
+},
+{
+"text": "[image: Honoring Chattanooga restaurants for MICHELIN Guide recognition]",
+"href": "https://www.bofortn.com/media/honoring-chattanooga-restaurants-for-michelin-guide-recognition"
+},
+{
+"text": "[image: Hoppy’s recognized by Tennessee Senate after back-to-back Burger Week wins]",
+"href": "https://www.bofortn.com/media/hoppys-recognized-by-tennessee-senate-after-back-to-back-burger-week-wins"
+},
+{
+"text": "[image: Kenco Opens New Innovation Lab for Warehouse Automation Testing]",
+"href": "https://www.bofortn.com/media/kenco-opens-new-innovation-lab-for-warehouse-automation-testing"
+},
+{
+"text": "[image: NFIB Tennessee PAC Endorses Bo Watson In Senate District 11 Race]",
+"href": "https://www.bofortn.com/media/nfib-tennessee-pac-endorses-bo-watson-in-senate-district-11-race"
+},
+{
+"text": "[image: Officials Seek Public Input on McDonald Farm State Park]",
+"href": "https://www.bofortn.com/media/officials-seek-public-input-on-mcdonald-farm-state-park"
+},
+{
+"text": "[image: Orange Grove Center celebrated America's 250th Anniversary]",
+"href": "https://www.bofortn.com/media/orange-grove-center-celebrated-americas-250th-anniversary"
+},
+{
+"text": "[image: Portion Of Amnicola Highway Named in Honor of K-9 Diesel]",
+"href": "https://www.bofortn.com/media/portion-of-amnicola-highway-named-in-honor-of-k-9-diesel"
+},
+{
+"text": "[image: Senator Bo Watson Kicks Off 2026 Campaign]",
+"href": "https://www.bofortn.com/media/senator-bo-watson-kicks-off-2026-campaign"
+},
+{
+"text": "[image: Senator Bo Watson]",
+"href": "https://www.bofortn.com/"
+},
+{
+"text": "[image: Tenn. law clears EMS crews to treat, transport injured police K-9s]",
+"href": "https://www.bofortn.com/media/tenn-law-clears-ems-crews-to-treat-transport-injured-police-k-9s"
+},
+{
+"text": "[image: Volkswagen launches 2027 Atlas SUV in Chattanooga]",
+"href": "https://www.bofortn.com/media/volkswagen-launches-2027-atlas-suv-in-chattanooga"
+},
+{
+"text": "[image: Walnut Street Bridge Reopens]",
+"href": "https://www.bofortn.com/media/walnut-street-bridge-reopens"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SenBoWatson"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bofortennessee/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/bo-watson-a649695/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/SenBoWatson"
+},
+{
+"text": "albert@waterhousepr.com",
+"href": "mailto:albert@waterhousepr.com?subject=Bo+Watson%3A+Media+Inquiry"
+}
 ]

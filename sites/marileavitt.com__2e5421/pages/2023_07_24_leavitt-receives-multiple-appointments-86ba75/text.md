@@ -1,2 +1,7 @@
-Rep.
+Toggle navigation Volunteer Contribute Volunteer Home About About Us Biography Photo Gallery News Endorsements 2024 Endorsements 2022 Endorsements Get Involved Volunteer Endorse Contact Washington State House Democrats Leavitt Receives Multiple Appointments July 24, 2023 Rep.
 Mari Leavitt, D-University Place, is privileged to receive five appointments: one appointment is to the Dept. of Children, Youth and Families’ (DCYF) Partnership Council on Juvenile Justice (WA-PCJJ); the second appointment is to DCYF’s Early Learning Advisory Council (ELAC); the third is to the National Conference of State Legislatures’ (NCSL) Education Standing Committee; the fourth is the Council of State Governments’ (CSG) Housing Committee; and the fifth is to the CSG Western Region Executive Committee.
+Related reading on marileavitt.com More on campaign updates from the 28th District: Check out our press release announcing my campaign for the 28th… More on campaign updates from the 28th District: Educator, PTSA Mom, Business Owner and Former Human Services… More on campaign updates from the 28th District: UP Reps Set Date For Inaugural ‘Coffee & Conversations’ More on campaign updates from the 28th District: Pierce County Benefits From State Budget Plan For official reference, see Rep.
+Mari Leavitt’s official legislative profile and Washington State Legislature .
+Read More « Previous: Governor Signs Rep.
+Leavitt’s Workforce Development Bill Package » Next: Rep.
+Leavitt recognized as 2023 Outstanding Service to Veterans Legislator of the Year

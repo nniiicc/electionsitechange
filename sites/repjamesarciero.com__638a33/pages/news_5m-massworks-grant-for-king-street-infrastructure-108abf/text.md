@@ -1,6 +1,4 @@
-$5M MassWorks grant for King Street infrastructure
-Published November 19, 2025 by The Lowell Sun
-LITTLETON — State Rep.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate $5M MassWorks grant for King Street infrastructure Dec 26 Written By James Arciero Published November 19, 2025 by The Lowell Sun LITTLETON — State Rep.
 James Arciero and state Sen.
 Jamie Eldridge recently announced that the town of Littleton was awarded $5 million through the state’s fiscal 2026 Community One Stop for Growth program.
 The funding, part of the MassWorks Infrastructure Program, will support the next phase of the King Street Common public infrastructure project.
@@ -9,9 +7,10 @@ This phase will create a new internal street network and implement key surface i
 It will also include traffic, pedestrian, and utility upgrades that build on infrastructure installed during phases 1 and 2.
 “This is a major win for Littleton and a critical investment in the town’s future,” said Arciero.
 “These infrastructure upgrades are essential to the long-term growth of Littleton.
-I’m grateful to Governor Maura Healey, Secretary Eric Paley, and Secretary Ed Augustus for their continued commitment to supporting our communities through programs like MassWorks.”
-“The construction of the King Street Common is an important step to enhancing green infrastructure and facilitating a new mixed-use neighborhood for Littleton’s future growth.
+I’m grateful to Governor Maura Healey, Secretary Eric Paley, and Secretary Ed Augustus for their continued commitment to supporting our communities through programs like MassWorks.” “The construction of the King Street Common is an important step to enhancing green infrastructure and facilitating a new mixed-use neighborhood for Littleton’s future growth.
 I especially want to recognize Representative Jim Arciero’s leadership as the previous House Chair of the Joint Committee on Housing, whose advocacy was instrumental in securing an initial $10 million earmark for this project’s infrastructure.
 I’m also grateful to DOER Secretary Eric Paley, EOHLC Secretary Edward Augustus, Town Manager Jim Duggan, and the Littleton Select Board for their commitment to bringing this vision to life,” said Eldridge.
-“Littleton is a leading example for towns across Massachusetts by advancing innovative and sustainable community development.”
-The MassWorks Infrastructure Program is a competitive grant program under the Executive Office of Economic Development and a key component of the broader Community One Stop for Growth platform, which supports housing production, job creation, and community revitalization across the commonwealth.
+“Littleton is a leading example for towns across Massachusetts by advancing innovative and sustainable community development.” The MassWorks Infrastructure Program is a competitive grant program under the Executive Office of Economic Development and a key component of the broader Community One Stop for Growth platform, which supports housing production, job creation, and community revitalization across the commonwealth.
+James Arciero Previous Previous Gov.
+Healey signs bill, supported by Rep.
+Arciero, protecting public transit workers Next Next Representative James Arciero Honored with NMCOG Distinguished Service Paid for by the Committee to Elect Jim Arciero

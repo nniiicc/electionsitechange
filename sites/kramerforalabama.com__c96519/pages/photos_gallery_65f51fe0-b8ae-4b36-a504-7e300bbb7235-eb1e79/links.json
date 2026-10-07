@@ -1,23 +1,86 @@
 [
-"https://campaignpartner.com/",
-"https://i.campaignpartner.net/images/cdn_queue/151890/0528a011-cb6d-44b8-adf8-4dd5a25e45fa.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/425c9ea366b4464c97ac1a480f3d20c3.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/9a16e0c85195449984d4daae95730136.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/ab012397fab44d48875c97127fd2edfd.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/b0794131306e41459b339ae34ea08e9c.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/ba978fbfd2f646049400314be0e734e0.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/bd670b9c79b0456688d559173dc1c918.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/c110e6cc4ad94e3bbcb16bfe24e565aa.jpg",
-"https://i.campaignpartner.net/images/cdn_queue/151890/e54dc309581144f68d3acfc0c6982de8.jpg",
-"https://kramerforalabama.com/",
-"https://kramerforalabama.com/contact",
-"https://kramerforalabama.com/contribute",
-"https://kramerforalabama.com/events",
-"https://kramerforalabama.com/home",
-"https://kramerforalabama.com/issues",
-"https://kramerforalabama.com/meet_katie",
-"https://kramerforalabama.com/photos",
-"https://kramerforalabama.com/volunteer",
-"https://kramerforalabama.com/vote",
-"https://kramerforalabama.com/yard-sign"
+{
+"text": "Campaign Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "Contact",
+"href": "https://kramerforalabama.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://kramerforalabama.com/contribute"
+},
+{
+"text": "Events",
+"href": "https://kramerforalabama.com/events"
+},
+{
+"text": "Home",
+"href": "https://kramerforalabama.com/home"
+},
+{
+"text": "Issues",
+"href": "https://kramerforalabama.com/issues"
+},
+{
+"text": "Meet Katie",
+"href": "https://kramerforalabama.com/meet_katie"
+},
+{
+"text": "Photos",
+"href": "https://kramerforalabama.com/photos"
+},
+{
+"text": "Volunteer",
+"href": "https://kramerforalabama.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://kramerforalabama.com/vote"
+},
+{
+"text": "Yard Signs",
+"href": "https://kramerforalabama.com/yard-sign"
+},
+{
+"text": "[image: Katie Kramer for Alabama State Senate District 8]",
+"href": "https://kramerforalabama.com/"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/0528a011-cb6d-44b8-adf8-4dd5a25e45fa.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/425c9ea366b4464c97ac1a480f3d20c3.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/9a16e0c85195449984d4daae95730136.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/ab012397fab44d48875c97127fd2edfd.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/b0794131306e41459b339ae34ea08e9c.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/ba978fbfd2f646049400314be0e734e0.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/bd670b9c79b0456688d559173dc1c918.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/c110e6cc4ad94e3bbcb16bfe24e565aa.jpg"
+},
+{
+"text": "[image]",
+"href": "https://i.campaignpartner.net/images/cdn_queue/151890/e54dc309581144f68d3acfc0c6982de8.jpg"
+}
 ]

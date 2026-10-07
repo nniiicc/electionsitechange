@@ -1,6 +1,9 @@
-Everlee Immigration Update
-The following text is not my own, but the most thorough update from Everlee’s court hearing today in California:
-“First, despite Everlee having been transferred from California to Arizona more than a month ago, her case had never been formally transferred to the proper Immigration Court.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Everlee Immigration Update Jun 12 Written By Grace Abitz The following text is not my own, but the most thorough update from Everlee’s court hearing today in California: “First, despite Everlee having been transferred from California to Arizona more than a month ago, her case had never been formally transferred to the proper Immigration Court.
 The Immigration Judge acknowledged that this should have been done much earlier and stated that the failure to transfer the case appeared to be the result of a clerical error.
 The Judge expressed frustration that the matter had not been handled properly and apologized to the parties for the delay.
 Second, the Notice to Appear (NTA) filed against Everlee on April 15, 2026 did not contain the specific legal charges explaining why the Department of Homeland Security believed she was inadmissible to the United States.
@@ -26,12 +29,8 @@ Her next hearing is on Wednesday, June 17 at 1:00pm AST.
 DHS has been given an opportunity to review Everlee’s complete criminal history and determine whether it believes any remaining grounds of inadmissibility exist.
 Attorney Christopher remains confident that the review will confirm that the vacated 2014 conviction can no longer support the case and that no other convictions create inadmissibility issues.
 To allow them to continue to detain her they would have to produce criminal records that would require her to be classified as inadmissible.
-The next step will either be:
-1.
-DHS completing its review and taking action before the next hearing
-Or
-2.
+The next step will either be: 1.
+DHS completing its review and taking action before the next hearing Or 2.
 A new hearing being scheduled in Arizona, where the parties can address the charges and Everlee’s request for termination of proceedings.
-June 17th
-While today did not result in an immediate release order, the hearing exposed significant procedural problems in the government’s handling of the case and confirmed that the conviction originally relied upon by DHS has been vacated.
-We will continue to provide updates as additional information becomes available.”
+June 17th While today did not result in an immediate release order, the hearing exposed significant procedural problems in the government’s handling of the case and confirmed that the conviction originally relied upon by DHS has been vacated.
+We will continue to provide updates as additional information becomes available.” Grace Abitz https://www.graceabitz.com Previous Previous Everlee Updates 6/17 Next Next New London FEMA 50% Rule Made with Squarespace

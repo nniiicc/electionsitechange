@@ -1,14 +1,16 @@
-ICYMI: Johnson leads charge in committing millions to NRCC after Vance push
-September 15, 2026
-Washington Examiner: Johnson leads charge in committing millions to NRCC after Vance push
-House Speaker Mike Johnson (R-LA) is investing $13 million in third-quarter fundraising toward the National Republican Congressional Committee and helping Republican House candidates in the midterm elections.
+0 Skip to Content VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE Open Menu Close Menu VOTE HOME ABOUT NEWS ENDORSED CANDIDATES CONTRAST FOR AMERICA STORE DONATE ICYMI: Johnson leads charge in committing millions to NRCC after Vance push Sep 15 Written By Greg Steele September 15, 2026 Washington Examiner: Johnson leads charge in committing millions to NRCC after Vance push House Speaker Mike Johnson (R-LA) is investing $# million in third-quarter fundraising toward the National Republican Congressional Committee and helping Republican House candidates in the midterm elections .
 Vice President JD Vance conferenced with House Republicans on Tuesday, encouraging lawmakers in safe Republican seats to invest in the NRCC and help candidates in more marginal districts.
 In the meeting, various Republicans pledged money to the committee, including Reps.
 Jim Jordan (R-OH) and Brandon Gill (R-TX), who each gave about $1 million, per multiple reports.
 Johnson’s $13 million third-quarter transfer led the pack of pledges announced Tuesday, bringing his total transfer amount in the 2026 cycle up to nearly nine figures.
-His $13 million transfer will go “to incumbents, challengers, and the NRCC,” Johnson’s campaign told the Washington Examiner, “with more to come before the end of the month.”
-“This puts the total transferred by Speaker Johnson for the cycle to nearly $100 million as he leads the fight to defend and grow the majority,” a spokesperson from Johnson’s campaign said.
+His $13 million transfer will go “to incumbents, challengers, and the NRCC,” Johnson’s campaign told the Washington Examiner, “with more to come before the end of the month.” “This puts the total transferred by Speaker Johnson for the cycle to nearly $100 million as he leads the fight to defend and grow the majority,” a spokesperson from Johnson’s campaign said.
 Johnson said in a press conference after the Tuesday morning meeting that Vance “riled up” the House Republicans who were “crammed” in the room.
-The fundraising push from both the executive and legislative Republican leaders comes on the heels of the Republican Party’s midterm convention in Dallas, Texas, where two days of speeches and events sought to fire up the GOP base ahead of November.
+The fundraising push from both the executive and legislative Republican leaders comes on the heels of the Republican Party’s midterm convention in Dallas, Texas , where two days of speeches and events sought to fire up the GOP base ahead of November.
 Vance, the Republican National Committee’s finance chairman, brought in over $2 million during the Dallas convention for the midterm elections, while other Republicans also used the in-person event as a way to capitalize on fundraising opportunities ahead of crucial midterm races.
 Vance’s heavy involvement in rallying momentum and dollars behind House Republicans comes at a crucial point, less than two months before the general election, with mail-in and absentee ballots beginning to roll out.
+Greg Steele Previous Previous Speaker Johnson Discusses Midterms, Kicks off 22-State Campaign Swing Next Next Speaker Johnson To Midterm Convention: Republicans are Fighting to Preserve the Republic; Democrats Want to Tear it All Down Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 Get SMS Alerts 💬 Text WIN to 56056 💬 ENDORSED CANDIDATES HOME ABOUT NEWS STORE DONATE If you’d prefer to donate by check please make your check payable to Mike Johnson for Louisiana and send to: P.O.
+Box 6075 Bossier City, LA 71171 Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up with your email address to receive news and updates.
+Email Address Sign Up Thank you!
+PAID FOR BY MIKE JOHNSON FOR LOUISIANA Privacy Policy Notice of Collection of Personal Information Do Not Sell My Personal Information

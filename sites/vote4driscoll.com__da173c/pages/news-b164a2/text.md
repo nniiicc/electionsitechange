@@ -1,24 +1,5 @@
-MEET BILL
-ENDORSEMENTS
-RESULTS
-VOTING INFO
-DONATE
-GET INVOLVED
-VIDEOS
-HOME
-More
-Since 2017, Bill has represented a large section of The Blue Hills including 'Big Blue' and many of the institutions that call the State Park home.
-Aug 1, 2026
-Results for West Bridgewater in first term as State Senator for West Bridgewater
-Aug 1, 2026
-Results for Milton during the past decade first as State Rep. and now as State Senator for Milton
-Aug 1, 2026
-Results for Braintree in first term as one of the State Senators for Braintree
-Aug 1, 2026
-Details about some of the results for Stoughton during first term as the State Senator for Stoughton
-Aug 1, 2026
-Results delivered for Randolph working with colleagues as a State Rep. starting in 2017 and now State Senator since 2025.
-Aug 1, 2026
-Details about some of the results delivered for Easton during first term as State Senator for Easton
-Aug 1, 2026
-Results for Bridgewater in first term as the State Senator for Bridgewater
+top of page MEET BILL ENDORSEMENTS RESULTS VOTING INFO DONATE GET INVOLVED VIDEOS HOME More Use tab to navigate through the menu items.
+DRISCOLL DELIVERS FOR THE DISTRICT ​ The Blue Hills Since 2017, Bill has represented a large section of The Blue Hills including 'Big Blue' and many of the institutions that call the State Park home.
+Read More Aug 1, 2026 West Bridgewater Results for West Bridgewater in first term as State Senator for West Bridgewater Read More Aug 1, 2026 Milton Results for Milton during the past decade first as State Rep. and now as State Senator for Milton Read More Aug 1, 2026 Braintree Results for Braintree in first term as one of the State Senators for Braintree Read More Aug 1, 2026 Stoughton Details about some of the results for Stoughton during first term as the State Senator for Stoughton Read More Aug 1, 2026 Randolph Results delivered for Randolph working with colleagues as a State Rep. starting in 2017 and now State Senator since 2025.
+Read More Aug 1, 2026 Easton Details about some of the results delivered for Easton during first term as State Senator for Easton Read More Aug 1, 2026 Bridgewater Results for Bridgewater in first term as the State Senator for Bridgewater Read More MEET BILL ENDORSEMENTS RESULTS VOTING INFO DONATE GET INVOLVED VIDEOS HOME More Use tab to navigate through the menu items.
+Senate Office FB Subscribe Now Senate Campaign FB © #-# The Committee to Elect Bill Driscoll Jr. bottom of page

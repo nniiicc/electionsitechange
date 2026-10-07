@@ -1,4 +1,4 @@
-Cherokee map layers
-Georgia outline + Cherokee overlays (SVG)
-Base layers are Georgia and Cherokee County.
+PEOPLE OVER POLITICS About Anthony Events Affordability Tax Math Bills to Watch Cherokee Elections Community Poll Register to Vote Cherokee map layers Georgia outline + Cherokee overlays (SVG) Base layers are Georgia and Cherokee County.
 District layers can be toggled independently.
+State House State Senate US Congress Districts Source links County boundary https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip State House (SLDL) https://www2.census.gov/geo/tiger/TIGER2024/SLDL/tl_2024_13_sldl.zip State Senate (SLDU) https://www2.census.gov/geo/tiger/TIGER2024/SLDU/tl_2024_13_sldu.zip US Congress Districts (CD119) https://www2.census.gov/geo/tiger/TIGER2024/CD/tl_2024_13_cd119.zip Layers are rendered as SVG paths from repo GeoJSON loaded server-side.
+Back to Cherokee County page

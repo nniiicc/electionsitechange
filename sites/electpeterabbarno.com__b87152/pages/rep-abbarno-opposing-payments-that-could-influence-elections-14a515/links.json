@@ -1,24 +1,90 @@
 [
-"http://leg.wa.gov/",
-"https://electpeterabbarno.com/",
-"https://electpeterabbarno.com/abbarno-national-camping-month-a-great-way-to-build-bonds-and-seek-adventure-with-your-family",
-"https://electpeterabbarno.com/about",
-"https://electpeterabbarno.com/category/blog",
-"https://electpeterabbarno.com/category/uncategorized",
-"https://electpeterabbarno.com/es/el-diputado-abbarno-se-opone-a-los-pagos-que-podrian-influir-en-las-elecciones",
-"https://electpeterabbarno.com/issues",
-"https://electpeterabbarno.com/items-of-interest",
-"https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized",
-"https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities",
-"https://electpeterabbarno.com/modifying-school-instructional-material-bill-is-more-big-olympia-and-less-local-control",
-"https://electpeterabbarno.com/peters-blog",
-"https://electpeterabbarno.com/protecting-rural-washington",
-"https://electpeterabbarno.com/rep-abbarno-opposing-payments-that-could-influence-elections",
-"https://electpeterabbarno.com/signup-for-peters-newsletter",
-"https://facebook.com/peter.abbarno",
-"https://instagram.com/peter_abbarno",
-"https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026",
-"https://silveragency.com/",
-"https://sos.wa.gov/elections",
-"https://twitter.com/peterabbarno"
+{
+"text": "ABOUT",
+"href": "https://electpeterabbarno.com/about/"
+},
+{
+"text": "BLOG",
+"href": "https://electpeterabbarno.com/peters-blog/"
+},
+{
+"text": "Blog",
+"href": "https://electpeterabbarno.com/category/blog/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.anedot.com/committee-to-elect-peter-abbarno/re-elect-2026"
+},
+{
+"text": "Follow",
+"href": "https://twitter.com/peterabbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/peter.abbarno"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/peter_abbarno"
+},
+{
+"text": "Get Peter's Newsletter",
+"href": "https://electpeterabbarno.com/signup-for-peters-newsletter/"
+},
+{
+"text": "ISSUES",
+"href": "https://electpeterabbarno.com/issues/"
+},
+{
+"text": "LEGISLATURE",
+"href": "http://leg.wa.gov/"
+},
+{
+"text": "Lewis County Public Health building to be modernized",
+"href": "https://electpeterabbarno.com/lewis-county-public-health-building-to-be-modernized/"
+},
+{
+"text": "Making Home Energy Improvements Work Better for Washington Communities",
+"href": "https://electpeterabbarno.com/making-home-energy-improvements-work-better-for-washington-communities/"
+},
+{
+"text": "NEWS",
+"href": "https://electpeterabbarno.com/items-of-interest/"
+},
+{
+"text": "Next Article →",
+"href": "https://electpeterabbarno.com/abbarno-national-camping-month-a-great-way-to-build-bonds-and-seek-adventure-with-your-family/"
+},
+{
+"text": "Protecting Washington’s Working Lands and Strengthening Rural Communities",
+"href": "https://electpeterabbarno.com/protecting-rural-washington/"
+},
+{
+"text": "The Silver Agency",
+"href": "https://silveragency.com"
+},
+{
+"text": "Uncategorized",
+"href": "https://electpeterabbarno.com/category/uncategorized/"
+},
+{
+"text": "VOTER INFO",
+"href": "https://www.sos.wa.gov/elections/"
+},
+{
+"text": "[image]",
+"href": "https://electpeterabbarno.com/"
+},
+{
+"text": "[image]English",
+"href": "https://electpeterabbarno.com/rep-abbarno-opposing-payments-that-could-influence-elections/"
+},
+{
+"text": "[image]Español (Spanish)",
+"href": "https://electpeterabbarno.com/es/el-diputado-abbarno-se-opone-a-los-pagos-que-podrian-influir-en-las-elecciones/"
+},
+{
+"text": "← Previous Article",
+"href": "https://electpeterabbarno.com/modifying-school-instructional-material-bill-is-more-big-olympia-and-less-local-control/"
+}
 ]

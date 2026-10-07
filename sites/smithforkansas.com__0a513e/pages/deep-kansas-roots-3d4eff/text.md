@@ -1,4 +1,4 @@
-Adam was born and raised in western Kansas.
+Skip to content Skip to content Representative Adam Smith Adam.Smith@House.KS.Gov Adam.Smith@House.KS.Gov Open Menu Home Latest News About Contact Close Menu Close Menu Contribute Donate Now Deep Kansas Roots Adam was born and raised in western Kansas.
 He married Christine in 2007 and their children are Austin, Kaitlyn, and Allison.
 His family is the third generation to own and operate his family’s ranch on the Kansas/Colorado border.
 He is a sixth generation Kansan.
@@ -13,3 +13,5 @@ Adam’s family members have also served on school board, Kansas County Treasure
 Adam’s great-great grandfather Melville Linscott even served in the Kansas House of Representatives in the late 1800’s after his service in the Civil War.
 Leadership and dedication to the community run deep for Adam and his family.
 An adage that gets used often in the Smith family is “don’t point out a problem unless you’re willing to be part of a solution”!
+Capitol Office 300 SW 10th Street Topeka, KS 66612 185-N (First Floor, North Wing) 785-296-0715 Copyright © # All Rights Reserved.
+Resources Kansas Legislature Kansas Historical Society Kansas.gov Search Search for:

@@ -1,22 +1,94 @@
 [
-"http://sos.ks.gov/",
-"https://fvap.gov/",
-"https://fvap.gov/vote?gad_source=1&gad_campaignid=23657610380&gbraid=0AAAAA9WgpgiBJxM7gN9E1HLfg3NDfbw0i",
-"https://kansasvoterinfo.gov/VoterView",
-"https://kdor.ks.gov/Apps/VoterReg",
-"https://ksrevisor.gov/statutes/chapters/ch25/025_011_0022.html",
-"https://ksrevisor.gov/statutes/chapters/ch25/025_012_0015.html",
-"https://ksrevisor.gov/statutes/chapters/ch25/025_012_0016.html",
-"https://lexgoff.com/",
-"https://lexgoff.com/blank",
-"https://lexgoff.com/blank-1",
-"https://lexgoff.com/blank-12",
-"https://lexgoff.com/donate-page",
-"https://lexgoff.com/home-2",
-"https://lexgoff.com/team-members",
-"https://sos.ks.gov/Pubs/Elections/Guides/Provisional-Voting-Guide.pdf",
-"https://sos.ks.gov/elections/county_election_officers.aspx",
-"https://sos.ks.gov/elections/important-election-dates.html",
-"https://sos.ks.gov/forms/elections/AV1.pdf",
-"https://sos.ks.gov/forms/elections/voterregistration.pdf"
+{
+"text": "25-1122(c)",
+"href": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_011_0022.html"
+},
+{
+"text": "25-1122(e)(1)",
+"href": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_011_0022.html"
+},
+{
+"text": "25-1215",
+"href": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_012_0015.html"
+},
+{
+"text": "25-1216(a)",
+"href": "https://www.ksrevisor.gov/statutes/chapters/ch25/025_012_0016.html"
+},
+{
+"text": "About Lex",
+"href": "https://www.lexgoff.com/team-members"
+},
+{
+"text": "Apply for an Advanced Ballot",
+"href": "https://sos.ks.gov/forms/elections/AV1.pdf"
+},
+{
+"text": "Donate",
+"href": "https://www.lexgoff.com/donate-page"
+},
+{
+"text": "Find my voting location",
+"href": "https://kansasvoterinfo.gov/VoterView"
+},
+{
+"text": "HERE",
+"href": "https://kansasvoterinfo.gov/VoterView"
+},
+{
+"text": "HERE",
+"href": "https://www.fvap.gov/vote?gad_source=1&gad_campaignid=23657610380&gbraid=0AAAAA9WgpgiBJxM7gN9E1HLfg3NDfbw0i"
+},
+{
+"text": "HERE",
+"href": "https://www.sos.ks.gov/elections/important-election-dates.html"
+},
+{
+"text": "Home",
+"href": "https://www.lexgoff.com"
+},
+{
+"text": "News",
+"href": "https://www.lexgoff.com/blank-12"
+},
+{
+"text": "Platform",
+"href": "https://www.lexgoff.com/home-2"
+},
+{
+"text": "Provisional voting",
+"href": "https://sos.ks.gov/Pubs/Elections/Guides/Provisional-Voting-Guide.pdf"
+},
+{
+"text": "Social Media",
+"href": "https://www.lexgoff.com#section%208"
+},
+{
+"text": "Voter Education",
+"href": "https://www.lexgoff.com/blank-1"
+},
+{
+"text": "Yard Signs",
+"href": "https://www.lexgoff.com/blank"
+},
+{
+"text": "county election office",
+"href": "https://www.sos.ks.gov/elections/county_election_officers.aspx"
+},
+{
+"text": "fill out a paper form",
+"href": "https://www.sos.ks.gov/forms/elections/voterregistration.pdf"
+},
+{
+"text": "overseas voting",
+"href": "https://www.fvap.gov"
+},
+{
+"text": "register online",
+"href": "https://www.kdor.ks.gov/Apps/VoterReg"
+},
+{
+"text": "sos.ks.gov",
+"href": "http://sos.ks.gov"
+}
 ]

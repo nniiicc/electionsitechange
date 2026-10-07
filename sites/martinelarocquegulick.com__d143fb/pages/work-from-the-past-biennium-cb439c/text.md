@@ -1,5 +1,4 @@
-Dear Chittenden-Central Voters,
-I am thrilled to announce that I am running for a third term in the Vermont State Senate.
+Home Priorities Martine Legislation Endorsements Events Contact DONATE Menu Martine Laroque Gulick for Vermont State Senate Menu Secondary Menu Skip to content Home Priorities Martine Legislation Endorsements Events Contact DONATE Work From The Past Biennium Posted on June 19, 2026 June 19, 2026 Author Steve Dear Chittenden-Central Voters, I am thrilled to announce that I am running for a third term in the Vermont State Senate.
 As the primary approaches this August 11th, it is important to remember what is at stake.
 With high turnover occurring in both the House and the Senate, who we choose to send back for the upcoming biennium is more consequential than ever!
 Over the past session I’ve heard from constituents on a variety of issues.
@@ -25,5 +24,5 @@ I championed a bill to improve literacy and to support libraries.
 The impactful legislation that passed this session will need more work in the coming years, especially H.955, the education bill.
 I am seeking re-election to keep working on what I’ve begun and to keep fighting for children, families and communities.
 You can register to vote and request a ballot here: https://sos.vermont.gov/elections/voters/registration and I ask for your support and your vote on or before August 11th!
-Sincerely,
-Senator Martine Larocque Gulick
+Sincerely, Senator Martine Larocque Gulick Categories Uncategorized Post navigation ← Previous Previous post: Campaign Kickoff Next → Next post: June Action Call ft.
+Senator Martine Gulick DONATE Georgia Lavigne, Treasurer PO Box 3359 Burlington, VT 05408 ©# Martine Gulick for State Senate Instagram Facebook Scroll Up Home 2024 End of Session Report Contact Education Reform and Act 73 School Redistricting Endorsements Events Healthcare Reform Legislative Updates Meet Martine Priorities Home Priorities Martine Legislation Endorsements Events Contact DONATE

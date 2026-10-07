@@ -1,3 +1,4 @@
-Volunteer with Team Charlie!
+0 Skip to Content Home About Charlie News District Map Volunteer Contact Us DONATE HERE Open Menu Close Menu DONATE HERE Home About Charlie News District Map Volunteer Contact Us Open Menu Close Menu Home About Charlie News District Map Volunteer Contact Us DONATE HERE Volunteer with Team Charlie!
 This campaign is powered by our volunteers.
-Sign up below and a member of our team will be in touch!
+Sign up below and a member of our team will be in touch! © # Paid for by Citizens for Charlie Meier.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website(elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

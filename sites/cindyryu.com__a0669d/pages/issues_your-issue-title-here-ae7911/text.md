@@ -1,8 +1,6 @@
-Cindy believes in
-Green Energy & Environmental Protection
-In the state legislature, I co-sponsored the Clean Fuels Act (HB 1091) and supported the package of bills that constituted the Climate Commitment Act (CCA).
-The CCA establishes a cap on greenhouse gas emissions and drives reductions toward a 95% decrease by 2050.
-I also advocated for legislation (HB 1924) to integrate fusion energy into our State Energy Strategy to reduce our state's carbon emissions and increase the stability of our power grid.
-As Mayor of Shoreline, I led the city in becoming the first to implement green garbage and compost pickup.
-I also launched a green business program that included compost services, reducing harmful waste, protecting the environment, and saving utility payers from steep increases in solid waste fees.
-I also led the effort to implement complete street designs that combine roadway safety with city beautification while addressing the environmental impacts of roadway traffic and sewage.
+Skip navigation menu About Issues Endorsements Events Volunteer Contact Donate About Issues Endorsements Events Volunteer Contact Donate Addressing Affordability Fully Funding Education Housing Supporting Small Businesses Consumer Protection Reproductive Rights Community Safety Green Energy & Environmental Protection Closing Equity Gaps Transportation Maintenance and Expansion Cindy believes in Green Energy & Environmental Protection In the state legislature, I co-sponsored the Clean Fuels Act ( HB 1091 ) and supported the package of bills that constituted the Climate Commitment Act (CCA).
+The CCA establishes a cap on greenhouse gas emissions and drives reductions toward a #% decrease by 2050.
+I also advocated for legislation ( HB 1924 ) to integrate fusion energy into our State Energy Strategy to reduce our state's carbon emissions and increase the stability of our power grid.
+As Mayor of Shoreline, I led the city in becoming the first to implement green garbage and compost pickup .
+I also launched a green business program that included compost services, reducing harmful waste, protecting the environment , and saving utility payers from steep increases in solid waste fees.
+I also led the effort to implement complete street designs that combine roadway safety with city beautification while addressing the environmental impacts of roadway traffic and sewage . cindy@cindyryu.com Powered by RUN! website builder Paid for by Friends For Cindy Ryu (D) PO Box 33548 Seattle, WA 98133 You need to enable JavaScript to run this app.

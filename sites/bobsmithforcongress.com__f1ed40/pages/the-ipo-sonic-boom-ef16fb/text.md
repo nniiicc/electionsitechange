@@ -1,11 +1,8 @@
-The IPO Sonic Boom
-www.californiacurrent.org
-By Bob Smith, Commander, U.S.
-Navy (Ret.)
-When SpaceX went public, much of the media focused on one headline: Elon Musk became the world’s first trillionaire.
+EN / ES Donate Why Bob Issues The Choice Op-Eds Get Involved Contact Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use CONTRIBUTE The IPO Sonic Boom www.californiacurrent.org By Bob Smith, Commander, U.S.
+Navy (Ret.) When SpaceX went public, much of the media focused on one headline: Elon Musk became the world’s first trillionaire.
 It is a remarkable achievement and certainly newsworthy.
 But I believe most of the media missed the much bigger story.
-According to reports, approximately 4,400 SpaceX employees became millionaires through company stock ownership.
+According to reports , approximately 4,400 SpaceX employees became millionaires through company stock ownership.
 Think about that for a moment.
 Not 4,400 venture capitalists.
 Not 4,400 hedge fund managers.
@@ -68,8 +65,7 @@ The lesson of SpaceX is not that Elon Musk became ultra-wealthy.
 The lesson is that 4,400 employees became wealthy alongside him.
 Unlike many Silicon Valley IPOs, in which much of the wealth accrued to founders, executives, and software engineers, SpaceX created extraordinary wealth for a much broader manufacturing workforce, including skilled trades.
 We did not even court SpaceX to build manufacturing facilities here on the Central Coast, even though we conduct nearly 100% of their polar orbit launches.
-Think about what that means:
-A welder paid off his mortgage.
+Think about what that means: A welder paid off his mortgage.
 An electrician sent a daughter to college debt-free.
 A machinist started a small business.
 A technician became financially independent.
@@ -80,3 +76,14 @@ We earned that position by producing the technologies, products, energy, and ind
 The question is not whether we still lead today.
 It is whether we are making the decisions that will allow us to keep leading tomorrow.
 Otherwise, we will keep launching someone else’s future.
+Op-Eds Why Bob Issues Media In The News Bob Talks Op-Eds Get Involved Contact Privacy Policy Terms of Use Contribute Campaigns are powered by grassroots supporters.
+Where's My Ballot Takes one minute to confirm your voter registration info.
+VOLUNTEER Winning this race will take a team across the Central Coast By entering your phone number and selecting to opt in, you consent to receive SMS/MMS marketing and polling text messages, donation requests, updates, and other important information to that number from Bob Smith For Congress.
+Msg&data rates may apply.
+Msg frequency varies.
+Reply HELP for help or STOP to opt-out at any time.
+SMS information is not rented, sold, or shared.
+View Privacy Policy and Terms & Conditions.
+Bob Smith is a retired member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy or the Department of Defense.
+Contact Bob’s Campaign Privacy Policy Paid for by Bob Smith for Congress Follow on Facebook Follow on LinkedIn Follow on X Follow on YouTube Follow on Instagram

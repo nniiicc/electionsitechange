@@ -1,8 +1,6 @@
-Rep.
-Lucero Proposes Bill to Stop ESG (Environmental Social Governance)
-According to Klaus Schwab, founder and executive chairman of the World Economic Forum, “The world must act jointly and swiftly to revamp all aspects of our societies and economies, from education to social contracts and working conditions … and every industry, from oil and gas to tech, must be transformed.
-In short, we need a ‘Great Reset’ of capitalism.”
-Progressives continue their quest to fundamentally transform America as former President Obama admitted was his goal.
+top of page All Posts Search Rep.
+Lucero Proposes Bill to Stop ESG (Environmental Social Governance) Apr 7, 2022 2 min read According to Klaus Schwab, founder and executive chairman of the World Economic Forum, “The world must act jointly and swiftly to revamp all aspects of our societies and economies, from education to social contracts and working conditions … and every industry, from oil and gas to tech, must be transformed.
+In short, we need a ‘Great Reset’ of capitalism.” Progressives continue their quest to fundamentally transform America as former President Obama admitted was his goal.
 Their ongoing objective is to replace Free-Market Capitalism with Socialism and replace our Constitutional Republic designed to protect individual liberty with dangerous direct democracy.
 To this end, progressives have evolved their strategy to leverage the influence of large corporations and other businesses to advance their leftist causes.
 Such actions pose a major threat to our freedoms.
@@ -11,5 +9,11 @@ Companies with a higher ESG score will be rewarded for being politically correct
 The second phase of ESG targets individuals similar to the social credit scoring system used by Communist China.
 Progressives are working hard to have financial and other institutions also evaluate individual ESG scores, in addition to credit scores for example, when making decisions to approve loans, etc.
 A recent publication by the Heartland Institute cannot articulate the threat more clear, “The widespread use of ESG, coupled with massive amounts of money printing, allow central banks, financial institutions, corporations, and government to work together to severely restrict individual and economic rights by making an end run around the U.S.
-Constitution and other limits on government power.”
-Because of the threat to us, our individual liberties, and our livelihoods, I chief authored HF 4574 to prohibit financial institutions from discriminating based on ESG and for the State of Minnesota to divest of companies actively engaged in ESG.
+Constitution and other limits on government power.” Because of the threat to us, our individual liberties, and our livelihoods, I chief authored HF 4574 to prohibit financial institutions from discriminating based on ESG and for the State of Minnesota to divest of companies actively engaged in ESG.
+Recent Posts See All State Rep.
+Lucero changes FB page name to "Eric Lucero for MN Senate" SAINT MICHAEL, Minn. — State Rep.
+Eric Lucero, R-Saint Michael, today announced the name change of his campaign Facebook page from "State...
+MCCL State PAC endorses Eric Lucero in run for State Senate Rep.
+Lucero thanks Sen.
+Kiffmeyer for her many years of service ABOUT ERIC MEDIA NEWS PHOTOS CONTACT More Use tab to navigate through the menu items.
+Prepared & Paid for by Lucero for State Senate Committee PO Box 9, Hanover, MN 55341 bottom of page

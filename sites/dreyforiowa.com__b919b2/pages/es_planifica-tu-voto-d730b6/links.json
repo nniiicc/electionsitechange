@@ -1,14 +1,62 @@
 [
-"https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx",
-"https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx",
-"https://dreyforiowa.com/?hsLang=es",
-"https://dreyforiowa.com/es/planifica-tu-voto",
-"https://dreyforiowa.com/highlights?hsLang=es",
-"https://dreyforiowa.com/plan-your-vote",
-"https://dreyforiowa.com/privacy-policy?hsLang=es",
-"https://facebook.com/dreyforiowa",
-"https://instagram.com/catelin_drey",
-"https://rayguncustom.com/collections/drey-for-iowa?srsltid=AfmBOoohWYUYXeZ4zwrkJScUfatPwvsRKxKOlcyDRlGf3f9zxQ8sBmO0",
-"https://secure.actblue.com/donate/dreyforiowa",
-"https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+{
+"text": "(712) 227-1707",
+"href": "tel:17122271707"
+},
+{
+"text": "DONA AHORA",
+"href": "https://secure.actblue.com/donate/dreyforiowa"
+},
+{
+"text": "English",
+"href": "https://dreyforiowa.com/plan-your-vote"
+},
+{
+"text": "Español",
+"href": "https://dreyforiowa.com/es/planifica-tu-voto"
+},
+{
+"text": "Highlights",
+"href": "https://dreyforiowa.com/highlights?hsLang=es"
+},
+{
+"text": "Home",
+"href": "https://dreyforiowa.com?hslang=es"
+},
+{
+"text": "Merch",
+"href": "https://www.rayguncustom.com/collections/drey-for-iowa?srsltid=AfmBOoohWYUYXeZ4zwrkJScUfatPwvsRKxKOlcyDRlGf3f9zxQ8sBmO0"
+},
+{
+"text": "Privacy Policy",
+"href": "https://dreyforiowa.com/privacy-policy?hsLang=es"
+},
+{
+"text": "Verificar mi estado de votante",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/regtovote/search.aspx"
+},
+{
+"text": "[image: Drey for Iowa Logo secondary blue]",
+"href": "https://dreyforiowa.com?hslang=es"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/dreyforiowa"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/catelin_drey/"
+},
+{
+"text": "aquí",
+"href": "https://sos.iowa.gov/elections/pdf/absenteeballotapp.pdf"
+},
+{
+"text": "info@dreyforiowa.com",
+"href": "mailto:info@dreyforiowa.com"
+},
+{
+"text": "¿Donde voto?",
+"href": "https://apps.sos.iowa.gov/elections/voterreg/pollingplace/search.aspx"
+}
 ]

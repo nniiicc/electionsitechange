@@ -1,10 +1,15 @@
 {
  "description": "",
  "final_url": "https://www.ryderfornewyork.com/platform",
+ "fingerprint": "f75c9587b164b87975cdb33c3cde1dd3cd2ab2dd",
+ "format": 3,
  "paid_for_by": "Paid for by Ryder for New York 2026",
- "title": "Platform \u2014 Ryder for New York",
+ "title": "Platform — Ryder for New York",
  "years_mentioned": [
+  "1966",
+  "1969",
   "2010",
-  "2025"
+  "2025",
+  "2026"
  ]
 }

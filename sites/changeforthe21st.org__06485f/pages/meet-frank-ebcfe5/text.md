@@ -1,5 +1,7 @@
-Professional Accomplishments
-After earning his PhD from The University of Pennsylvania medical school he was offered a faculty position and performed groundbreaking research on causes of disease.
+Home News Contact Donate!
+Meet Frank Endorsements More Home News Contact Donate!
+Meet Frank Endorsements Home News Contact Donate!
+Meet Frank Endorsements About Me My Background Professional Accomplishments After earning his PhD from The University of Pennsylvania medical school he was offered a faculty position and performed groundbreaking research on causes of disease.
 His work was published in leading international journals including Proceedings of the National Academy of Sciences, Neuron, the Journal of experimental Medicine and Science.
 Dr.
 Burns established the first diagnostic molecular pathology laboratory at the MCP/Hahnemann (Now Drexel) medical school and latter directed the molecular Pathology and onco-cytogentics laboratories at Thomas Jefferson Medical school.
@@ -14,17 +16,16 @@ Burns developed, patented, and DuPont commercialized several improved diagnostic
 Several of these methods were adopted world-wide by industry and government food safety regulators agencies alike.
 Dr.
 Burns then decided to strike out on his own and formed BioPrimate LLC with its clearly stated objective “Our mission is to unblock the potential of the microbial universe to benefit humanity”.
-Political Activism
-Frank has been a fighter for a better future both inside and outside the laboratory.
+Political Activism Frank has been a fighter for a better future both inside and outside the laboratory.
 In addition to giving testimony at county council and comment before committee at legislative hall in Dover, Dr.
 Burns has organized and/or taken part in multiple marches and protests to urge our elected officials to do the right thing.
 He is not afraid to make politicians of any party feel the heat if they are failing us.
-Volunteering
-Dr.
+Volunteering Dr.
 Burns volunteered with both professional and community organizations including: Chairing divisions in both the American Society for Microbiology and the International Association for Food Protection, mentoring medal winning teams of high school students from across Baltimore in the International Genetically Engineered Machine (IGEM) competition, and with Food Bank of Delaware and The Delaware Medical Reserve Corps (RESPOND DE) at COVIDtesting, vaccination, mass evacuation and informational events.
 Frank lives in Roseville Park with his son Thomas.
 Send him to work for us.
-Vote November 5th
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Vote November 5th Connect With Us Change for the 21st, Dr.
+Frank Burns for Delaware Copyright © # elect Frank Burns Change for the 21st- All Rights Reserved.
+Powered by Frank is on Facebook!
 Follow Frank Burns - Change for the 21st on Facebook for more campaign news.
+Click here to follow

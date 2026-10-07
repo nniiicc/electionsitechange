@@ -1,9 +1,4 @@
-Back to All Events
-Join me and Kathleen Martell at Panorama Park to get to know us and to tell us about the issues that are important to you and your community!
-Previous
-Previous
-June 18
-Launch Party
-Next
-Next
-September 27
+0 Skip to Content Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Open Menu Close Menu Endorsements Events Voting Guide Media GIVE MONTHLY Back to All Events Party in the Park Tuesday, August 26, 2025 5:30 PM 7:30 PM Panorama Park W 35th Ave & Fenton St, Wheat Ridge, CO 80033 (map) Google Calendar ICS Join me and Kathleen Martell at Panorama Park to get to know us and to tell us about the issues that are important to you and your community!
+Source: https://secure.actblue.com/donate/park-party Previous Previous June 18 Launch Party Next Next September 27 Fundraiser for Alexis and Sheila Lieder Contact Alexis Map of District 23 Register to Vote Donate Site paid for by Alexis for Colorado.
+Registered agent: Alexis Hoffkling.
+Website designed by MHW Consulting, L.L.C.

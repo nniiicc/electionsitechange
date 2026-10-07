@@ -1,16 +1,70 @@
 [
-"https://facebook.com/OmyforPA",
-"https://ignite-strategies.com/",
-"https://instagram.com/OmyforPA",
-"https://omyforpa.com/",
-"https://omyforpa.com/privacy-policy",
-"https://omyforpa.com/terms-and-conditions",
-"https://secure.winred.com/omy-for-pa/donate",
-"https://secure.winred.com/omy-for-pa/donate?amount=100&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=1000&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=25&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=250&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=50&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=500&exitintent=true",
-"https://secure.winred.com/omy-for-pa/donate?amount=other&exitintent=true"
+{
+"text": "$100",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=100&exitintent=true"
+},
+{
+"text": "$1000",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=1000&exitintent=true"
+},
+{
+"text": "$25",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=25&exitintent=true"
+},
+{
+"text": "$250",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=250&exitintent=true"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=50&exitintent=true"
+},
+{
+"text": "$500",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=500&exitintent=true"
+},
+{
+"text": "About",
+"href": "https://omyforpa.com/#about"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.winred.com/omy-for-pa/donate"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/OmyforPA/"
+},
+{
+"text": "Home",
+"href": "https://omyforpa.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/OmyforPA/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/omy-for-pa/donate?amount=other&exitintent=true"
+},
+{
+"text": "Privacy Policy",
+"href": "https://omyforpa.com/privacy-policy/"
+},
+{
+"text": "Site by Ignite Strategies",
+"href": "https://ignite-strategies.com"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://omyforpa.com/terms-and-conditions/"
+},
+{
+"text": "Volunteer",
+"href": "https://omyforpa.com/#volunteer"
+},
+{
+"text": "[image: Omy Maldonado | PA 14th Senatorial District] [image: Omy Maldonado | PA 14th Senatorial District]",
+"href": "https://omyforpa.com/"
+}
 ]

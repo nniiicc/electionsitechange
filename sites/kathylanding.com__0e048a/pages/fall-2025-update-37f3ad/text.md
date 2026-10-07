@@ -1,17 +1,28 @@
-Fall 2025 Update
-Pro-Life, Pro-Mother & Father, Pro-Child Priorities:
-While much has been made in the news this summer about the SC Senate bill banning abortion at conception with no exceptions that received a multi-day hearing, the SC House has a solid agenda for protecting life, protecting and assisting young mothers, restoring power back to parents where it belongs, and protecting our children.
+Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate DONATE Meet Kathy Important Issues Media News Videos Weekly Updates 2023 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 7 Week 8 Week 9 Week 10 Week 11 Week 12 Week 13 Week 14 Week 15 Week 16 Week 17 Week 18 Week 19 Week 20 Week 21 Week 22 July 2023 August 2023 September 2023 October 2023 November 2023 December 2023 2024 Week 1 Week 2 Week 3 Week 4 Week 5 Week 6 Week 8 Week 9 Week 10 Week 11 Week 12 Week 14 Week 16 Week 17 Final Week Update First Summer Update June Primary Runoff Announcement End of Session Wrap-Up July Summary Update Fall Update Pre-Election Update End of November Update 2025 End of Year Update End of January Update for the 126th Session February 9th Update February 16th Update February 23rd Update March 2nd Update March 9th Update March 16th Update March 23rd Update March 30th Update April 6th Update April 13th Update April 27th Update May 4th Update May 11th Update June 8th Update Summer Update Fall 2025 Update 2025 Year-End Update 2026 Session 126 - Second Year Week 1 Update January 25th Update February 1st Update March 9th Update March 15th Update March 22nd Update March 29th Update April 6th Update April 19th Update April 26th Update May 3rd Weekly Update May 12th Update May 24th Update June 28th Update August 16th Update Donate Fall 2025 Update Sunday, October 19 , 2025 Happy Fall!
+While we have had some glorious days of slightly cooler and lower humidity weather, maybe you are like me and getting tired of waking up to go to work or start your day in the dark.
+It has been two months since my last email, and as mentioned then, if I do not have meaningful content, I don't want to waste your time.
+A lot has happened in those two months, and I hope this summary will be informative and encourage feedback.
+Also, tomorrow we begin early voting in the Mount Pleasant Municipal Election.
+Voter turnout is usually pitiful for the municipal races, currently leaving a significant number of residents without any representation from Councilmembers who live nearby.
+I will share tips and hopefully motivational stories to encourage voters to show up at the polls between tomorrow and Tuesday, November 4th.
+Please, please go vote this time.
+Last time for the Mayoral/Councilmember Election, we had a painfully low turnout of less than 15% of the population, and it was especially low in the area of District 80 and further up to Carolina Park.
+We can and must do better this time, and I believe early voting will help solve this problem.
+SC House Republican Caucus Retreat: Greenville was the site of the 2025 SC House GOP Caucus Retreat, held on Wednesday, Sept 10th through Friday, September 13th.
+Many of us gathered there to share ideas and hear updates, recap where we are in our goals or "Pillars" for the 126th Session, and discuss upcoming focus areas for January 2026.
+Significant progress was made in the first term of this Session, as evidenced by the graphic below.
+I have summarized these in prior newsletters, but if you have any questions on these bills that were passed, please email me.
+Now our focus is turned to solving the rest of the problems outlined in the "Pillars," along with others that have come to light more recently.
+The chart below shows some of these issues, but is not an exhaustive list. ﻿ Pro-Life, Pro-Mother & Father, Pro-Child Priorities: While much has been made in the news this summer about the SC Senate bill banning abortion at conception with no exceptions that received a multi-day hearing, the SC House has a solid agenda for protecting life, protecting and assisting young mothers, restoring power back to parents where it belongs, and protecting our children.
 As you can see in the chart below, our focus will be on furthering the work that has already been accomplished with the Fetal Heartbeat Law, upheld by the SC Supreme Court, as well as extensive efforts to improve adoption procedures, defund Planned Parenthood, and many other key issues.
-Government Efficiency & Legislative Oversight Healthcare Subcommittee:
-In the last newsletter, I described our subcommittee's efforts to examine the Department of Insurance for the purpose of encouraging efficiency and transparency for the citizens of South Carolina.
+Government Efficiency & Legislative Oversight Healthcare Subcommittee: In the last newsletter, I described our subcommittee's efforts to examine the Department of Insurance for the purpose of encouraging efficiency and transparency for the citizens of South Carolina.
 After my phone call to our Chairman, I was pleased to see that in the last meeting held on Tuesday, September 23rd, he made an announcement at the beginning of the meeting to encourage members to ask questions briefly, saving anything more in-depth for afterward.
 This resulted in us completing the task at hand, over 100 pages of material, which based on prior meetings, would likely have required at least one more meeting at taxpayers' expense.
 If my phone call saved one day's cost to our taxpayers for excessive meetings, I am glad to have helped reduce waste.
 But there is so much more that needs to be done.
 While the DOI did a great job of presenting all of their functions and processes, there are areas where they already agree there could be more streamlining and communication improvements.
 Next, we will be presenting our findings at a full meeting of the Committee on December 10th.
-House Rules Committee Possible Bill:
-Many of you may realize that our current system for presenting amendments to bills being introduced in the Chamber can result in an unlimited number of entries, often designed to make it impossible to ever get to a vote.
+House Rules Committee Possible Bill: Many of you may realize that our current system for presenting amendments to bills being introduced in the Chamber can result in an unlimited number of entries, often designed to make it impossible to ever get to a vote.
 This has been used numerous times, such as the various abortion ban bills, illegal DEI procedures being defunded in our state institutions, the "Help Not Harm" bill preventing gender affirming care, and others.
 The current tools in place to limit the number of amendments primarily focus on "cloture," where, once invoked, no more new amendments can be brought.
 This sometimes happens after there are already 1000+ amendments presented, which we then have to go through, one by one.
@@ -48,8 +59,7 @@ I asked him if we could reduce their responsibility to the major roads and highw
 He said, absolutely it would, and could solve the issue of our highways being so woefully behind in repair and expansion.
 This would require a lot of money being diverted to the local municipalities so they could expand their public works staff, but would make much more sense than keeping this completely unacceptable level of lack of maintenance in perpetuity.
 I am checking into whether this requires a bill, and my suspicion is that it will.
-Mount Pleasant Municipal Election on Tuesday, November 4th:
-The Town of Mount Pleasant will hold its bi-annual election this year, and early voting starts tomorrow at Seacoast Church on Long Point Road.
+Mount Pleasant Municipal Election on Tuesday, November 4th: The Town of Mount Pleasant will hold its bi-annual election this year, and early voting starts tomorrow at Seacoast Church on Long Point Road.
 I strongly encourage everyone to get out and vote.
 This email newsletter goes almost exclusively to conservative voters.
 If everyone reading this email would vote between tomorrow and November 4th, we have an excellent chance of taking back a seat that would allow for a majority of conservative Councilmembers.
@@ -78,13 +88,7 @@ Do you really think at this point that the Post & Courier chooses the most conse
 The answer is no, and many of the social media posts are also trying to "trick" conservatives into being against candidates.
 I am not trying to tell anyone how to vote, just hoping to inform you if you have not had time to research this on your own.
 Feel free to email me by replying to this message if you have specific questions or concerns.
-Here are the candidates' websites:
-https://voteiacofano.com/
-https://www.voteperryrourk.com/
-https://www.craigrussack.com/
-https://briannaharmonfortowncouncil.com/
-Around the District and the Lowcountry:
-Two years ago in front of the Gold Star Families monument at Patriots Point, twin brothers Samuel & Andrew Rowe who live in the District that I represent received a tremendous honor, the Gen.
+Here are the candidates' websites: https://voteiacofano.com/ https://www.voteperryrourk.com/ https://www.craigrussack.com/ https://briannaharmonfortowncouncil.com/ Around the District and the Lowcountry: Two years ago in front of the Gold Star Families monument at Patriots Point, twin brothers Samuel & Andrew Rowe who live in the District that I represent received a tremendous honor, the Gen.
 Carl A.
 Spaatz Award of the Civil Air Patrol.
 As if we were having a moment of déjà vu, their younger brother Cadet Colonel Jackson Rowe received this same incredibly high honor right here at Mount Pleasant Regional Airport on a hot Saturday afternoon recently.
@@ -98,3 +102,21 @@ Bryan Adams also presented Jackson with a US flag flown over the SC State House.
 The Civil Air Patrol is an essential arm of the US Air Force, and is often called upon for search and rescue missions as well as many other critical duties.
 Congratulations to Col.
 Cadet Jackson Rowe for achieving this outstanding award!
+This past Friday morning in Marion Square, the Fourth Brigade of the Washington Light Infantry held a very special ceremony to unveil a bronze plaque on the flagpole honoring the 39 South Carolina Medal of Honor recipients.
+Col.
+Dale Theiling, Chairman of the Board of Field Officers of the Fourth Brigade served as Master of Ceremonies.
+He shared some of the stories of our SC recipients' heroism that led to their being named as Medal of Honor recipients.
+Maj.
+Gen.
+Jim Livingston, MOH, Marines (Ret.) was the Senior Honoree, and along with Donnell Baker, widow of Sgt.
+John Baker, Jr.
+MOH, USA commenced with the unveiling of the plaque.
+He then shared remarks regarding the importance of telling the stories to our young people to inspire them to greatness.I presented the Fourth Brigade of the Washington Light Infantry with both US and SC flags that had been flown over the SC State House, along with Certificates of Authenticity.
+As always, thank you for reading, and please share this email with friends and neighbors who you believe may have an interest.
+They can sign up here by scrolling to the bottom of the first page and submitting their email address.
+Sign Up Now to Stay Connected Stay Connected Last Name Email Address Phone Number Address Zip Code Thank you for signing up.
+We will continue to stay connected and share with you the latest from our campaign.
+Oops, there was an error sending your message.
+Please try again later.
+Copyright, # Kathy Landing kl@kathylanding.com 2114 Sewee Indian Ct., Mt.
+Pleasant, SC 29466 Paid for and approved by Representative Kathy Landing ﻿ for SC State House District 80 Privacy Policy Share by:

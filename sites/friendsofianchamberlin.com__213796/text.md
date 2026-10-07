@@ -1,4 +1,4 @@
-STRONGER.
+0 Skip to Content Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate Open Menu Close Menu Home About Issues Contact Donate STRONGER.
 SAFER.
 SMARTER.
 TOGETHER.
@@ -9,5 +9,5 @@ Who is Ian Running to Represent?
 Ian has three simple priorities: making Ohio more affordable, giving every child the opportunity to succeed, and building stronger communities.
 Ian wants families to keep more of what they earn, students to graduate ready for life, and District 41 to be a place where businesses grow, neighborhoods are safe, and young people choose to stay and raise their families.
 What Are Ian’s Priorities for DISTRICT 41?
-Contact Ian
-Whether you have a question, want to volunteer, or just want more information, fill out the the contact form and we will be in touch.
+More About Ian On the Issues Contact Ian Whether you have a question, want to volunteer, or just want more information, fill out the the contact form and we will be in touch.
+Contact Form Privacy Policy Donate Paid for by Friends of Ian Chamberlin

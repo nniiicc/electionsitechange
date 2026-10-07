@@ -1,13 +1,54 @@
 [
-"https://facebook.com/NealforCongress",
-"https://nealforcongress.com/",
-"https://nealforcongress.com/about",
-"https://nealforcongress.com/endorsements",
-"https://nealforcongress.com/issues",
-"https://nealforcongress.com/privacy-policy",
-"https://nealforcongress.com/search",
-"https://nealforcongress.com/signs",
-"https://nealforcongress.com/volunteer",
-"https://secure.actblue.com/donate/richardneal14",
-"https://twitter.com/NealForCongress"
+{
+"text": "About",
+"href": "https://www.nealforcongress.com/about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/richardneal14"
+},
+{
+"text": "Endorsements",
+"href": "https://www.nealforcongress.com/endorsements"
+},
+{
+"text": "Follow Richie on Facebook →",
+"href": "https://www.facebook.com/NealforCongress"
+},
+{
+"text": "Issues",
+"href": "https://www.nealforcongress.com/issues"
+},
+{
+"text": "Privacy policy",
+"href": "https://www.nealforcongress.com/privacy-policy"
+},
+{
+"text": "Request a Lawn Sign →",
+"href": "https://www.nealforcongress.com/signs"
+},
+{
+"text": "Volunteer",
+"href": "https://www.nealforcongress.com/volunteer"
+},
+{
+"text": "[image: Richard Neal for Congress]",
+"href": "https://www.nealforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/NealForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/NealforCongress/"
+},
+{
+"text": "[no text]",
+"href": "https://www.nealforcongress.com/search"
+},
+{
+"text": "info@nealforcongress.com",
+"href": "mailto:info@nealforcongress.com"
+}
 ]

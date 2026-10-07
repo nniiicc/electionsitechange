@@ -1,5 +1,4 @@
-MEET JOHN
-Rooted in Central Florida.
+0 Skip to Content Meet John Priorities Get Involved Endorsements Events CONTRIBUTE Open Menu Close Menu Meet John Priorities Get Involved Endorsements Events CONTRIBUTE Open Menu Close Menu Meet John Priorities Get Involved Endorsements Events CONTRIBUTE MEET JOHN Rooted in Central Florida.
 Ready to Fight for It in Tallahassee.
 John Lowndes was born in Winter Park and raised in Central Florida, graduating from Edgewater High School before earning his undergraduate degree from Florida State University and a master's degree from the University of Florida focused on politics and refugee issues.
 While in law school at American University in Washington D.C., John met his wife, Julie, who was then working on Capitol Hill.
@@ -11,5 +10,5 @@ As Mayor, John has built a reputation as a thoughtful, steady leader focused on 
 John and Julie have lived in Maitland for over two decades and raised their three children in the community.
 John continues to practice law, serving as in-house counsel to a nonprofit healthcare consortium.
 Now, John is running for State Senate to bring his practical, solutions-oriented approach to Tallahassee, focused on lowering costs, raising wages, and restoring a more balanced and respectful approach to government.
-"What I've found as Mayor of Maitland is that people aren't asking for much. they just want leaders they can trust, and they want things to work."
-— John Lowndes
+"What I've found as Mayor of Maitland is that people aren't asking for much. they just want leaders they can trust, and they want things to work." — John Lowndes DONATE Political advertisement paid for and approved by John Lowndes, Democrat, for Florida Senate District 10.
+PRIVACY POLICY SITE BY STATECRAFT MEDIA

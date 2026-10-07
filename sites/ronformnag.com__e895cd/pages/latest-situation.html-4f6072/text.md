@@ -1,8 +1,6 @@
-Ron Schutz Releases Statement on the Latest Situation in Minneapolis
-MINNEAPOLIS — On Monday afternoon, acclaimed attorney and candidate for Attorney General, Ron Schutz, released the following statement in response to the latest developments in Minneapolis and the need for solutions.
+Home Meet Priorities Accomplishments Fact or Fiction News Contact Take Action DONATE TODAY FOR IMMEDIATE RELEASE info@ronformnag.com January 26, 2026 Ron Schutz Releases Statement on the Latest Situation in Minneapolis MINNEAPOLIS — On Monday afternoon, acclaimed attorney and candidate for Attorney General, Ron Schutz, released the following statement in response to the latest developments in Minneapolis and the need for solutions.
 “Minnesotans have unfortunately woken up to see our state leading the news for the wrong reasons for many weeks.
-First, we endured story after story uncovering the massive fraud many of us have been concerned with for years.”
-“Now, in the wake of a federal law enforcement operation following years of loose enforcement of our nation’s immigration laws, we are in the news for the death of two individuals.
+First, we endured story after story uncovering the massive fraud many of us have been concerned with for years.” “Now, in the wake of a federal law enforcement operation following years of loose enforcement of our nation’s immigration laws, we are in the news for the death of two individuals.
 Regardless of our political affiliations, we must remember that Renee Good and Alex Pretti had family and friends who will never see them again.
 Renee Good and Alex Pretti had family and friends who will never see them again.
 Our hearts go out to them.
@@ -23,4 +21,6 @@ Minnesotans are entitled to a complete and thorough investigation of these shoot
 And that investigation needs to be a joint effort between Federal and cooperative local law enforcement officials.
 We are entitled to know the facts.
 Local law enforcement officials should be those who would actually seek the truth and not simply attack federal officials.
-It is time for our government to work for the people at all levels of government.”
+It is time for our government to work for the people at all levels of government.” ### www.ronformnag.com Ron for MN AG 216 Myrtle St W P.O.
+Box 132 ﻿Stillwater, MN 55082-4830 Email info@RonForMNAG.com Press info@RonForMNAG.comPress Kit Join Us Priorities Meet Ron Contact Us News, Media & Press Kit Take Action Our App Accomplishments Copyright ©# | Privacy Policy Prepared and Paid for by Ron for MN AG ﻿P.O.
+Box 132, Stillwater, MN 55082-4830

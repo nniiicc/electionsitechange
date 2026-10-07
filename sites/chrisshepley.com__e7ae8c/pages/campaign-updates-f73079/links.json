@@ -1,5 +1,22 @@
 [
-"https://chrisshepley.com/",
-"https://chrisshepley.com/campaign-updates",
-"https://secure.winred.com/cte-chris-shepley/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/cte-chris-shepley/donate-today"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/cte-chris-shepley/donate-today"
+},
+{
+"text": "Updates",
+"href": "https://www.chrisshepley.com/campaign-updates"
+},
+{
+"text": "Volunteer Now",
+"href": "https://www.chrisshepley.com/#contact"
+},
+{
+"text": "[image: Chris Shepley for Representative]",
+"href": "https://www.chrisshepley.com/"
+}
 ]

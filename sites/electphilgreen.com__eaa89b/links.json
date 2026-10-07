@@ -1,12 +1,66 @@
 [
-"http://inspirationwebworks.com/",
-"https://electphilgreen.com/",
-"https://electphilgreen.com/about",
-"https://electphilgreen.com/contact",
-"https://electphilgreen.com/contribute",
-"https://electphilgreen.com/endorse",
-"https://electphilgreen.com/endorsements",
-"https://electphilgreen.com/privacy-policy",
-"https://electphilgreen.com/volunteer",
-"https://facebook.com/PGreen084"
+{
+"text": "About Phil",
+"href": "https://www.electphilgreen.com/about"
+},
+{
+"text": "About Phil Green",
+"href": "https://www.electphilgreen.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://www.electphilgreen.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.electphilgreen.com/contribute/"
+},
+{
+"text": "Contribute to my campaign",
+"href": "https://www.electphilgreen.com/contribute"
+},
+{
+"text": "Donate Today",
+"href": "https://www.electphilgreen.com/contribute"
+},
+{
+"text": "ENDORSE PHIL",
+"href": "https://www.electphilgreen.com/endorse"
+},
+{
+"text": "Endorse",
+"href": "https://www.electphilgreen.com/endorse/"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electphilgreen.com/endorsements/"
+},
+{
+"text": "Follow me on Facebook",
+"href": "https://www.facebook.com/PGreen084"
+},
+{
+"text": "Home",
+"href": "https://www.electphilgreen.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electphilgreen.com/volunteer/"
+},
+{
+"text": "Volunteer for my campaign",
+"href": "https://www.electphilgreen.com/volunteer"
+},
+{
+"text": "[image: Elect Phil Green State Representative]",
+"href": "https://www.electphilgreen.com/"
+},
+{
+"text": "[image]",
+"href": "http://www.inspirationwebworks.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.electphilgreen.com/privacy-policy/"
+}
 ]

@@ -1,6 +1,6 @@
-Embedded Files
-Donate $5 for Clean Election Funding!
-Voting is one of the fundamental rights we have as citizens of this state and country.
+Search this site Embedded Files Skip to main content Skip to navigation Donate $5 for Clean Election Funding!
+Donate Today!
+David Haggan for Senate Home Absentee Ballot Information Donate David Haggan for Senate Home Absentee Ballot Information Donate More Home Absentee Ballot Information Donate Absentee Voting Guide Voting is one of the fundamental rights we have as citizens of this state and country.
 Everyone should make an effort to cast a ballot at each election.
 Maine law makes it easy to cast an absentee ballot.
 You don't have to be out-of-town or have any other reason to take advantage of this easy way to vote at a time that is most convenient for you.
@@ -14,9 +14,8 @@ Any registered voter may cast an absentee ballot instead of voting in person at 
 You don't need to have a specific reason or be unable to vote at the voting place on Election Day to receive an absentee ballot.
 What are the steps to voting by absentee ballot?
 1.
-Complete an absentee ballot application to get a ballot; then,
-2.
-Fill out and deliver the ballot back to the municipal clerk, or to the Secretary of State, Division of Elections (if you are a Uniformed Service or Overseas voter).
+Complete an absentee ballot application to get a ballot; then, 2.
+Fill out and deliver the ballot back to the municipal clerk, or to the Secretary of State, Division of Elections (if you are a Uniformed Service or Overseas voter ).
 When can I request a ballot?
 Absentee ballots may be requested beginning 3 months before Election Day, and until the 3rd business day prior to the election, unless special circumstances exist.
 Make your request early to allow enough time for the ballot to be mailed to you.
@@ -27,14 +26,12 @@ Contact the municipal clerk in the town or city where you are registered to vote
 Uniformed Service and Overseas voters will request an absentee ballot directly from the Secretary of State, Division of Elections.
 You can make a telephone request for your own ballot, which will be mailed to the address you provide to the clerk.
 You can request your own ballot electronically using the Secretary of State’s online absentee ballot request service.
-The approved online form can be found at the following web site: http://www.maine.gov/cgi-bin/online/Absentee Ballot/index.pl
-You can make a written request by completing an absentee ballot application.
+The approved online form can be found at the following web site: http://www.maine.gov/cgi-bin/online/Absentee Ballot/index.pl You can make a written request by completing an absentee ballot application.
 Additionally, you can obtain a ballot for an immediate family member in this same way.
 A ballot will be mailed to the voter directly or to an immediate family member making the request.
 Your municipal clerk can tell you who is considered an immediate family member under the law.
 NOTE: Ballots obtained by the voter or an immediate family member do not require witnesses, unless the voter receives assistance from another person in reading or marking the ballot.
-Applications are available starting 3 months before the election from the municipal clerk or online at: http://www.maine.gov/cgi-bin/online/Absentee Ballot/index.pl
-NOTE: If you receive an unsolicited absentee ballot application in the mail from a political party, campaign or advocacy organization, please note that these entities are not affiliated with the State of Maine's Bureau of Corporations, Elections and Commissions or your municipal clerk's office.
+Applications are available starting 3 months before the election from the municipal clerk or online at: http://www.maine.gov/cgi-bin/online/Absentee Ballot/index.pl Follow this link to locate your municipal clerk NOTE: If you receive an unsolicited absentee ballot application in the mail from a political party, campaign or advocacy organization, please note that these entities are not affiliated with the State of Maine's Bureau of Corporations, Elections and Commissions or your municipal clerk's office.
 Thus, they have no way of knowing whether or not you have already requested your absentee ballot.
 You can disregard the mailing, or if you have not yet requested your ballot and you choose to use the form, make sure that the envelope mails the application directly to your municipal clerk for processing.
 Please do not fill out this form and return it to your clerk if you have already requested your absentee ballot by other means, as the review and rejection process of subsequent requests will result in unnecessary work for your municipal clerk.
@@ -48,10 +45,7 @@ The deadline for absentee voting in the presence of the clerk, unless special ci
 When must my voted ballot be returned to my municipal clerk?
 To be counted, voted absentee ballots must be received by the municipal clerk by 8:00 p.m. on Election Day.
 If you plan to use the U.S. mail to receive or return your absentee ballot please note the following U.S.
-Postal Service advisories for mail delivery:
-- Request your ballot no later than 15 days prior to Election Day
-- Return your ballot no later than 7 days prior to Election Day
-The USPS has assured us that all absentee ballots returned to your municipal clerk by mail at least 7 days prior to Election Day are guaranteed to be delivered in time to be cast and counted in the election.
+Postal Service advisories for mail delivery: Request your ballot no later than # days prior to Election Day Return your ballot no later than # days prior to Election Day The USPS has assured us that all absentee ballots returned to your municipal clerk by mail at least # days prior to Election Day are guaranteed to be delivered in time to be cast and counted in the election.
 If you plan to return your ballot outside of the suggested USPS delivery window, we encourage you to drop off your ballot in person or via an absentee ballot drop box at your municipal office (if available) no later than 8 p.m. on Election Day; or plan instead to vote in person at the polls on Election Day.
 Are there any other ways to receive an absentee ballot?
 You may make a written request for a "third person" (someone other than the voter or the voter's immediate family member) to obtain and hand-deliver an absentee ballot.
@@ -81,14 +75,4 @@ How do I request an accessible absentee ballot?
 As of October 2, 2020, the Secretary of State's office is providing an accessible PDF electronic ballot option for any Maine voter who has a print disability and would like to vote independently from home.
 Please visit our Accessible Voting page for more information.
 What if I still have questions?
-For more information please contact:
-Office of the Secretary of State
-Division of Elections
-101 State House Station
-Augusta, ME 04333-0101
-(207) 624-7650
-cec.elections@maine.gov
-www.maine.gov/sos/cec/elec/
-Page updated
-Google Sites
-Report abuse
+For more information please contact: Office of the Secretary of State Division of Elections 101 State House Station Augusta, ME 04333-0101 (207) 624-7650 cec.elections@maine.gov www.maine.gov/sos/cec/elec/ Paid for and authorized by David Haggan Google Sites Report abuse Page details Page updated Google Sites Report abuse

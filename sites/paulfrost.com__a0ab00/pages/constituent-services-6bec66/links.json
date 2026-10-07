@@ -1,12 +1,58 @@
 [
-"https://facebook.com/votepaulfrost",
-"https://paulfrost.com/",
-"https://paulfrost.com/about",
-"https://paulfrost.com/constituent-services",
-"https://paulfrost.com/get-involved",
-"https://paulfrost.com/privacy",
-"https://paulfrost.com/terms",
-"https://sec.state.ma.us/WhereDoIVoteMA/TrackMyBallot",
-"https://sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
-"https://secure.winred.com/the-frost-committee/donate-today"
+{
+"text": "(617) 722-2100",
+"href": "tel:+16177222100"
+},
+{
+"text": "About",
+"href": "https://www.paulfrost.com/about"
+},
+{
+"text": "Constituent Services",
+"href": "https://www.paulfrost.com/constituent-services"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/the-frost-committee/donate-today"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/votepaulfrost"
+},
+{
+"text": "Get Involved",
+"href": "https://www.paulfrost.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.paulfrost.com/"
+},
+{
+"text": "Paul.Frost@mahouse.gov",
+"href": "mailto:Paul.Frost@mahouse.gov"
+},
+{
+"text": "Paul@PaulFrost.com",
+"href": "mailto:Paul@PaulFrost.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.paulfrost.com/privacy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.paulfrost.com/terms"
+},
+{
+"text": "Track Ballot",
+"href": "https://www.sec.state.ma.us/WhereDoIVoteMA/TrackMyBallot"
+},
+{
+"text": "Vote By Mail",
+"href": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm"
+},
+{
+"text": "[image: Paul Frost]",
+"href": "https://www.paulfrost.com/"
+}
 ]

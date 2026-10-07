@@ -1,4 +1,4 @@
-Your Vote Matters.
+0 Skip to Content Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Open Menu Close Menu Home About Issues 88th District Voting Join Us Donate Your Vote Matters.
 The Democrats want nothing more than for you to believe your vote doesn’t matter.
 That the system is rigged.
 That change is hopeless.
@@ -14,11 +14,13 @@ Check your voter registration status: Make sure your information is current befo
 Register to vote or update your address: Moved recently or voting for the first time?
 It only takes a few minutes.
 Vote by mail if it works better for you: Work, family, or life can make Election Day tough; voting by mail is a secure and convenient option.
-This Election Is About Your Future
-We don’t have to accept higher taxes, fewer opportunities, and leadership that answers to political machines instead of working families.
+This Election Is About Your Future We don’t have to accept higher taxes, fewer opportunities, and leadership that answers to political machines instead of working families.
 This election is about sending a message.
 Demanding better priorities.
 Demanding leadership that represents all of Illinois, not just Chicago insiders.
 The most powerful thing you can do is vote.
 Every election is decided by people who show up.
 Be one of them.
+Privacy Policy and Terms of Use Copyright # Regan Deering for Illinois.
+All Rights Reserved.
+Paid for by Regan for Illinois

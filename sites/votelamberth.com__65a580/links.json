@@ -1,8 +1,26 @@
 [
-"https://facebook.com/profile.php?id=100057755542999",
-"https://facebook.com/william.lamberth",
-"https://secure.winred.com/committee-to-elect-william-lamberth/donate-today",
-"https://twitter.com/williamlamberth",
-"https://votelamberth.com/",
-"https://votelamberth.com/privacy-policy"
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/committee-to-elect-william-lamberth/donate-today"
+},
+{
+"text": "Privacy Policy & Terms and Conditions",
+"href": "https://votelamberth.com/privacy-policy"
+},
+{
+"text": "[image: William Lamberth]",
+"href": "https://votelamberth.com"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/williamlamberth"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=100057755542999"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/william.lamberth"
+}
 ]

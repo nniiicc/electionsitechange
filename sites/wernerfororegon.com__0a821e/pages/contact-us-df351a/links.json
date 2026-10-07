@@ -1,16 +1,66 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/ewernerreschke",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://wernerfororegon.com/",
-"https://wernerfororegon.com/about",
-"https://wernerfororegon.com/contact-us",
-"https://wernerfororegon.com/donate",
-"https://wernerfororegon.com/m/account",
-"https://wernerfororegon.com/m/create-account",
-"https://wernerfororegon.com/news",
-"https://wernerfororegon.com/privacy-policy",
-"https://wernerfororegon.com/values",
-"https://x.com/ewernerreschke"
+{
+"text": "About",
+"href": "https://wernerfororegon.com/about"
+},
+{
+"text": "Contact Us",
+"href": "https://wernerfororegon.com/contact-us"
+},
+{
+"text": "Create Account",
+"href": "https://wernerfororegon.com/m/create-account"
+},
+{
+"text": "Donate",
+"href": "https://wernerfororegon.com/donate"
+},
+{
+"text": "Home",
+"href": "https://wernerfororegon.com/"
+},
+{
+"text": "My Account",
+"href": "https://wernerfororegon.com/m/account"
+},
+{
+"text": "News",
+"href": "https://wernerfororegon.com/news"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Privacy Policy",
+"href": "https://wernerfororegon.com/privacy-policy"
+},
+{
+"text": "Sign In",
+"href": "https://wernerfororegon.com/m/account"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Values",
+"href": "https://wernerfororegon.com/values"
+},
+{
+"text": "[image: Werner for Oregon]",
+"href": "https://wernerfororegon.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/ewernerreschke"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/ewernerreschke"
+}
 ]

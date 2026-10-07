@@ -1,11 +1,15 @@
 {
  "description": "Iowa's budget crisis worsens as the majority party continues to prioritize corporate tax cuts over public needs.",
  "final_url": "https://dreyforiowa.com/highlights/near-the-cliffs-edge",
+ "fingerprint": "626cbb2637d16e955c107b56b3831a08cdd5de61",
+ "format": 3,
  "paid_for_by": "Paid for by Drey for Iowa",
- "title": "Near the Cliff\u2019s Edge",
+ "title": "Near the Cliff’s Edge",
  "years_mentioned": [
   "2024",
   "2025",
-  "2027"
+  "2026",
+  "2027",
+  "2030"
  ]
 }

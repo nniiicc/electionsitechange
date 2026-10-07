@@ -1,44 +1,258 @@
 [
-"https://facebook.com/gonzalodurannyc",
-"https://gonzaloduran.nyc/",
-"https://gonzaloduran.nyc/animal-issues",
-"https://gonzaloduran.nyc/author/gonzo-d1_nyc/page/2",
-"https://gonzaloduran.nyc/author/gonzo-d1_nyc/page/22",
-"https://gonzaloduran.nyc/burn-pit-has-heart",
-"https://gonzaloduran.nyc/category/articles",
-"https://gonzaloduran.nyc/category/event-photos",
-"https://gonzaloduran.nyc/category/gonzalo-in-the-press",
-"https://gonzaloduran.nyc/category/press-release",
-"https://gonzaloduran.nyc/category/videos",
-"https://gonzaloduran.nyc/civil-engagement",
-"https://gonzaloduran.nyc/contact",
-"https://gonzaloduran.nyc/contribute",
-"https://gonzaloduran.nyc/education",
-"https://gonzaloduran.nyc/employment",
-"https://gonzaloduran.nyc/environment",
-"https://gonzaloduran.nyc/events",
-"https://gonzaloduran.nyc/gonzalo-duran-autobiography",
-"https://gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party",
-"https://gonzaloduran.nyc/health",
-"https://gonzaloduran.nyc/housing",
-"https://gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website",
-"https://gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media",
-"https://gonzaloduran.nyc/safety",
-"https://gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates",
-"https://gonzaloduran.nyc/seeking-gonzalo-durans-endorsement",
-"https://gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act",
-"https://gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23",
-"https://gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot",
-"https://gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop",
-"https://gonzaloduran.nyc/transportation",
-"https://gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14",
-"https://gonzaloduran.nyc/veterans",
-"https://gonzaloduran.nyc/volunteer",
-"https://gonzalodurannyc.tumblr.com/",
-"https://instagram.com/gonzalodurannyc",
-"https://linkedin.com/in/gonzalodurannyc",
-"https://pinterest.com/gonzalodurannyc",
-"https://twitter.com/gonzalodurannyc",
-"https://wordpress.org/",
-"https://youtube.com/user/@gonzalodurannyc"
+{
+"text": "Animal Issues",
+"href": "https://www.gonzaloduran.nyc/animal-issues/"
+},
+{
+"text": "April 13, 2026April 13, 2026",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+},
+{
+"text": "April 21, 2026April 21, 2026",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "April 23, 2026April 23, 2026",
+"href": "https://www.gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media/"
+},
+{
+"text": "April 25, 2026April 25, 2026",
+"href": "https://www.gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act/"
+},
+{
+"text": "April 28, 2026April 28, 2026",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "April 29, 2026April 29, 2026",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "Articles",
+"href": "https://www.gonzaloduran.nyc/category/articles/"
+},
+{
+"text": "Autobiography",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-autobiography/"
+},
+{
+"text": "Burn Pits – Has Heart",
+"href": "https://www.gonzaloduran.nyc/burn-pit-has-heart/"
+},
+{
+"text": "Civil Engagement",
+"href": "https://www.gonzaloduran.nyc/civil-engagement/"
+},
+{
+"text": "Contact Us",
+"href": "https://www.gonzaloduran.nyc/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://www.gonzaloduran.nyc/contribute/"
+},
+{
+"text": "Education",
+"href": "https://www.gonzaloduran.nyc/education/"
+},
+{
+"text": "Employment",
+"href": "https://www.gonzaloduran.nyc/employment/"
+},
+{
+"text": "Environment",
+"href": "https://www.gonzaloduran.nyc/environment/"
+},
+{
+"text": "Event Photos",
+"href": "https://www.gonzaloduran.nyc/category/event-photos/"
+},
+{
+"text": "Gonzalo Duran",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "Gonzalo Duran – Vice Chairman of the Bronx Conservative Party",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party/"
+},
+{
+"text": "Gonzalo In The Press",
+"href": "https://www.gonzaloduran.nyc/category/gonzalo-in-the-press/"
+},
+{
+"text": "Health",
+"href": "https://www.gonzaloduran.nyc/health/"
+},
+{
+"text": "Housing",
+"href": "https://www.gonzaloduran.nyc/housing/"
+},
+{
+"text": "June 22, 2026June 22, 2026",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "Library of Congress Archives Gonzalo Duran’s Website",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "May 1, 2026May 1, 2026",
+"href": "https://www.gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates/"
+},
+{
+"text": "May 3, 2026May 3, 2026",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party/"
+},
+{
+"text": "May 7, 2026May 7, 2026",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "Mayor Bill de Blasio & Gonzalo Duran Interviewed by Italian Media",
+"href": "https://www.gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media/"
+},
+{
+"text": "Next page",
+"href": "https://www.gonzaloduran.nyc/author/gonzo-d1_nyc/page/2/"
+},
+{
+"text": "Page 2",
+"href": "https://www.gonzaloduran.nyc/author/gonzo-d1_nyc/page/2/"
+},
+{
+"text": "Page 22",
+"href": "https://www.gonzaloduran.nyc/author/gonzo-d1_nyc/page/22/"
+},
+{
+"text": "Press Release",
+"href": "https://www.gonzaloduran.nyc/category/press-release/"
+},
+{
+"text": "Proudly powered by WordPress",
+"href": "https://wordpress.org/"
+},
+{
+"text": "Safety",
+"href": "https://www.gonzaloduran.nyc/safety/"
+},
+{
+"text": "Safety Press Conference with Conservative Party Candidates",
+"href": "https://www.gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates/"
+},
+{
+"text": "Scheduled Events",
+"href": "https://www.gonzaloduran.nyc/events/"
+},
+{
+"text": "Seeking Gonzalo Duran’s Endorsement",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "Senator Chuck Schumer & Gonzalo Duran On the Voting Rights Act",
+"href": "https://www.gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act/"
+},
+{
+"text": "Shery Olivo Secures Her Place on the Bronx Republican Ballot",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "Shery Olivo for the Republican NYS Assembly District 86: Vote June 23",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "Statement on Leadership & Coordination Failures in the Bronx GOP",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "Transportation",
+"href": "https://www.gonzaloduran.nyc/transportation/"
+},
+{
+"text": "United Alliance Party Begins Independent Petitioning on April 14",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+},
+{
+"text": "Veterans",
+"href": "https://www.gonzaloduran.nyc/veterans/"
+},
+{
+"text": "Videos",
+"href": "https://www.gonzaloduran.nyc/category/videos/"
+},
+{
+"text": "View @gonzalodurannyc’s profile on YouTube",
+"href": "https://www.youtube.com/user/@gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Facebook",
+"href": "https://www.facebook.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Instagram",
+"href": "https://www.instagram.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on LinkedIn",
+"href": "https://www.linkedin.com/in/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Pinterest",
+"href": "https://www.pinterest.com/gonzalodurannyc/"
+},
+{
+"text": "View gonzalodurannyc’s profile on Tumblr",
+"href": "https://gonzalodurannyc.tumblr.com"
+},
+{
+"text": "View gonzalodurannyc’s profile on Twitter",
+"href": "https://twitter.com/gonzalodurannyc/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.gonzaloduran.nyc/volunteer/"
+},
+{
+"text": "[image: Early Voting Sign]",
+"href": "https://www.gonzaloduran.nyc/senator-chuck-schumer-gonzalo-duran-on-the-voting-rights-act/"
+},
+{
+"text": "[image: Gonzalo Duran Bronx Conservative Party Vice Chairman]",
+"href": "https://www.gonzaloduran.nyc/gonzalo-duran-vice-chairman-of-the-bronx-conservative-party/"
+},
+{
+"text": "[image: Gonzalo Duran Interviewed by Italian Media]",
+"href": "https://www.gonzaloduran.nyc/mayor-bill-de-blasio-gonzalo-duran-interviewed-by-italian-media/"
+},
+{
+"text": "[image: Gonzalo Duran for New York Congressional District 15 Logo Endorsement]",
+"href": "https://www.gonzaloduran.nyc/seeking-gonzalo-durans-endorsement/"
+},
+{
+"text": "[image: Gonzalo Duran]",
+"href": "https://www.gonzaloduran.nyc/"
+},
+{
+"text": "[image: Library of Congress Archiving Gonzalo Duran's Website]",
+"href": "https://www.gonzaloduran.nyc/library-of-congress-archives-gonzalo-durans-website/"
+},
+{
+"text": "[image: Political Pins]",
+"href": "https://www.gonzaloduran.nyc/statement-on-leadership-coordination-failures-in-the-bronx-gop/"
+},
+{
+"text": "[image: Safety Press Conference]",
+"href": "https://www.gonzaloduran.nyc/safety-press-conference-with-conservative-party-candidates/"
+},
+{
+"text": "[image: Shery Olivo and Gonzalo Duran]",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-for-the-republican-nys-assembly-district-86-vote-june-23/"
+},
+{
+"text": "[image: Shery Olivo]",
+"href": "https://www.gonzaloduran.nyc/shery-olivo-secures-her-place-on-the-bronx-republican-ballot/"
+},
+{
+"text": "[image: The United Alliance Party]",
+"href": "https://www.gonzaloduran.nyc/united-alliance-party-begins-independent-petitioning-on-april-14/"
+}
 ]

@@ -1,6 +1,15 @@
-Texas House District 124 Deserves Another Choice
-A Direct Question about Children Deserves an Answer
-At a recent candidate forum, a candidate was asked whether he supports gender reassignment for children.
+Skip to content L.D.
+Howard for Texas House District 124 2026 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Conservative Independent and Certified Write-in Candidate L.D.
+Howard introduces herself to the audience at the recent Asian American Alliance of San Antonio Candidate Forum held at the Alamo College, presenting a viable 3rd option for frustrated voters.
+(Photo courtesy of the Asian American Alliance of San Antonio) Texas House District 124 Deserves Another Choice A Direct Question about Children Deserves an Answer At a recent candidate forum , a candidate was asked whether he supports gender reassignment for children.
 I listened for a clear answer.
 Instead, I heard a familiar party response.
 I cannot tell you what he believes privately.
@@ -26,8 +35,20 @@ Childhood is the time to be protected while growing into that responsibility.
 So I ask every candidate the question plainly: Do you support irreversible gender-transition surgery for minors—yes or no?
 Families deserve an answer.
 L.D.
-Howard
-Certified Write-In Conservative Independent Candidate
-Texas House District 124 | Greater Lackland and San Antonio’s West Side
-L.D.
+Howard Certified Write-In Conservative Independent Candidate Texas House District 124 | Greater Lackland and San Antonio’s West Side L.D.
 Howard is an independent candidate committed to faith, service, accountability, and bringing people together to solve real problems in District 124.
+Learn More about Where I Stand L.D.
+Howard for Texas House District 124 Privacy Policy Contact Details: P.O.
+Box 760024 San Antonio, TX 78245 Home About News A Direct Question About Children Deserves an Answer LD Howard Launches Independent Write-in Campaign NEWS RELEASE: Leadership Means Showing Up for Texas HD 124 L.D.
+Howard Files for Texas House District 124 NEWS RELEASE: L.
+D.
+Howard Announces Independent Candidacy for Texas House District 124 NEWS RELEASE: Opposing Third Future Takeover of Four Edgewood ISD Campuses L.D.
+Howard Warns of "ADA Funding Black Hole" MEDIA ADVISORY: Candidate L.D.
+Howard to Host "Valentine’s Meet & Greet" for District 124 Independent Candidate L.D.
+Howard Hosts "Tea & Tacos," Calling for History-Making Unity in District 124 Media Advisory: Tea & Breakfast with L.D.
+Howard Op-Ed - Greater Lackland and San Antonio's West Side - LaKeisha D.
+Howard Events Event Details Get Involved Donate Contact Us Search Copyright ©# Team L.
+D.
+Howard for Texas House District 124.
+All Rights Reserved.
+Designed by Sandbank Group, Inc.

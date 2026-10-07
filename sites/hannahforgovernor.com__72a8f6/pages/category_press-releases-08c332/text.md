@@ -1,11 +1,13 @@
-By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
+Skip to content Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Meet Hannah Issues Affordability Education Economic Opportunity Health Care Housing Climate & Energy Accomplishments Endorsements News Volunteer Store Facebook X-twitter Instagram Youtube Tiktok Donate Press Releases September 28, 2026 Hannah Pingree Releases New TV Ad, “We Bought It” – Features Resident of Blueberry Fields Cooperative in Brunswick Read more September 25, 2026 Hannah Pingree Statement on Spike in Heating Oil Costs Read more September 20, 2026 Senator Angus King Endorses Hannah Pingree for Governor Read more September 17, 2026 Hannah Pingree Campaign Tops $4.2 Million in Total Fundraising Read more September 16, 2026 Hannah Pingree Launches Coalition of Republican and Independent Supporters Read more September 15, 2026 Statement from Hannah Pingree on Trump Administration’s Rejection of AI Guardrails Read more September 9, 2026 Hannah Pingree Releases First TV Ad, “Tough” Read more September 7, 2026 Hannah Pingree Statement on Labor Day Read more September 4, 2026 Hannah Pingree Greets Educators at South Portland High School for Back-to-School Week Read more September 3, 2026 Hannah Pingree Reserves $1.8 million in TV Advertising for General Election Read more Spread The Word Let's Go!
+Sign Up For Updates First Name Last Name Cell Phone Zipcode Email Get Updates By participating with your mobile number, you agree to terms & privacy policy and consent to receive messages to support Hannah Pingree for Governor (messages include donation links).
 Message & data rates may apply.
 Message frequency varies.
 Text HELP for help, Text STOP to Opt Out.
-If you have saved your information with ActBlue Express, your donation will go through immediately.
-Hannah Pingree is a lifelong Mainer, leader, and mom who knows how to get things done.
+Will you make a donation today?
+If you have saved your information with ActBlue Express, your donation will go through immediately. $ # $ # $ # $ # $ # Other Facebook X-twitter Instagram Youtube Tiktok Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Home Meet Hannah Endorse Hannah Volunteer Media Kit Contact Us Hannah Pingree is a lifelong Mainer, leader, and mom who knows how to get things done.
 Raised on the island of North Haven, she’s led at every level—serving as Maine’s Speaker of the House, running a small business, chairing her local school board, and directing the Governor’s Office of Policy Innovation and the Future.
 Support Hannah by making a donation online or signing up to volunteer today.
-P.O.
-Box 4821
-Portland ME, 04112
+Hannah Pingree for Governor P.O.
+Box 4821 Portland ME, 04112 Paid for and authorized by Hannah Pingree for Governor All Rights Reserved.
+Copyright #.
+Privacy Policy.

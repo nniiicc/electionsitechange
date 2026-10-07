@@ -1,2 +1,2 @@
-“I’m running for Assembly because I’m ready to do even more for Queens by fighting for housing we can afford, delivering investments in our public schools, and being a proactive and engaged advocate for our community.
-I’m excited to hit the ground running!”
+0 Skip to Content About Patrick Priorities Endorsements Donate Open Menu Close Menu About Patrick Priorities Endorsements Donate Open Menu Close Menu About Patrick Priorities Endorsements Donate DONATE “I’m running for Assembly because I’m ready to do even more for Queens by fighting for housing we can afford, delivering investments in our public schools, and being a proactive and engaged advocate for our community.
+I’m excited to hit the ground running!” Media Paid for by Martinez for Queens

@@ -1,25 +1,7 @@
-$32.68
-A soft, sturdy toddler tee designed for everyday wear with a clean, campaign-style print on the chest.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis campaign toddler t-shirt | Michigan outline logo $32.68 A soft, sturdy toddler tee designed for everyday wear with a clean, campaign-style print on the chest.
 Lightweight but durable cotton holds its shape through play and washes.
 The classic fit and ribbed collar allow easy dressing while the side seams and twill neck tape keep the shirt looking neat and lasting longer.
 Subtle political-styled lettering paired with a small state outline gives a minimalist, civic feel that reads grown-up while remaining kid-friendly.
 Wear it to casual community events, family gatherings, or neighborhood walks to echo local pride in a relaxed, comfortable way.
-Product features
-- 100% cotton solid colors; Sport Grey blended (90/10)
-- Medium-weight fabric (5.3 oz / 180 g/m²) for durability and comfort
-- Twill neck and shoulder tape to prevent stretching
-- 1x1 ribbed collar for easy on/off and shape retention
-- Side seams and classic fit for structure and lasting shape
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dry clean
-Product features
-Care instructions
-- Machine wash: cold (max 30C or 90F)
-- Non-chlorine: bleach as needed
-- Tumble dry: low heat
-- Iron, steam or dry: low heat
-- Do not dry clean
+Product features - 100% cotton solid colors; Sport Grey blended (90/10) - Medium-weight fabric (5.3 oz / 180 g/m²) for durability and comfort - Twill neck and shoulder tape to prevent stretching - 1x1 ribbed collar for easy on/off and shape retention - Side seams and classic fit for structure and lasting shape Care instructions - Machine wash: cold (max 30C or 90F) - Non-chlorine: bleach as needed - Tumble dry: low heat - Iron, steam or dry: low heat - Do not dry clean Option * Light Pink / 4T — $32.68 Light Pink / 2T — $32.68 Light Pink / 3T — $32.68 Light Pink / 5T — $32.68 Light Pink / 6T — $32.68 Sport Grey / 2T — $32.68 Sport Grey / 3T — $32.68 Sport Grey / 4T — $32.68 Sport Grey / 5T — $32.68 Sport Grey / 6T — $32.68 White / 2T — $32.68 White / 3T — $32.68 White / 4T — $32.68 White / 5T — $32.68 White / 6T — $32.68 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

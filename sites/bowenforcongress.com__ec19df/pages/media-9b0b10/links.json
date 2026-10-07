@@ -1,18 +1,86 @@
 [
-"https://bowenforcongress.com/",
-"https://bowenforcongress.com/about",
-"https://bowenforcongress.com/assets/img/carlton-bowen-headshot.jpg",
-"https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf",
-"https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf",
-"https://bowenforcongress.com/cdn-cgi/l/email-protection",
-"https://bowenforcongress.com/datacenter",
-"https://bowenforcongress.com/donate",
-"https://bowenforcongress.com/events",
-"https://bowenforcongress.com/issues",
-"https://bowenforcongress.com/media",
-"https://bowenforcongress.com/volunteer",
-"https://facebook.com/BowenForCongress",
-"https://instagram.com/BowenForCongress",
-"https://tiktok.com/@BowenForCongress",
-"https://x.com/Bowen4Congress"
+{
+"text": "About",
+"href": "https://bowenforcongress.com/about/"
+},
+{
+"text": "BowenForCongress.com",
+"href": "https://bowenforcongress.com"
+},
+{
+"text": "Data Center",
+"href": "https://bowenforcongress.com/datacenter/"
+},
+{
+"text": "Donate",
+"href": "https://bowenforcongress.com/donate/"
+},
+{
+"text": "Download headshot",
+"href": "https://bowenforcongress.com/assets/img/carlton-bowen-headshot.jpg"
+},
+{
+"text": "Download the accountability fact sheet",
+"href": "https://bowenforcongress.com/assets/pdf/box_elder_data_center_accountability_fact_sheet.pdf"
+},
+{
+"text": "Download the programmable-money research memorandum",
+"href": "https://bowenforcongress.com/assets/pdf/cbdc-programmable-money-network-research.pdf"
+},
+{
+"text": "Events",
+"href": "https://bowenforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/BowenForCongress"
+},
+{
+"text": "Get Involved",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "Instagram",
+"href": "https://instagram.com/BowenForCongress"
+},
+{
+"text": "Issues",
+"href": "https://bowenforcongress.com/issues/"
+},
+{
+"text": "Join",
+"href": "https://bowenforcongress.com/volunteer/#join"
+},
+{
+"text": "Media",
+"href": "https://bowenforcongress.com/media/"
+},
+{
+"text": "Read Carlton’s Story",
+"href": "https://bowenforcongress.com/about/#carltons-story"
+},
+{
+"text": "Read the full issue page",
+"href": "https://bowenforcongress.com/datacenter/"
+},
+{
+"text": "TikTok",
+"href": "https://www.tiktok.com/@BowenForCongress"
+},
+{
+"text": "Volunteer",
+"href": "https://bowenforcongress.com/volunteer/"
+},
+{
+"text": "X / Grok",
+"href": "https://x.com/Bowen4Congress"
+},
+{
+"text": "[email protected]",
+"href": "mailto:Press@BowenForCongress.com"
+},
+{
+"text": "[image: Bowen for US Congress]Carlton Bowen for US CongressIndependent American Party • Northern Utah's new CD2",
+"href": "https://bowenforcongress.com/"
+}
 ]

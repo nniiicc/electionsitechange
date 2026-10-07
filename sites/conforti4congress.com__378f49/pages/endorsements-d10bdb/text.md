@@ -1,17 +1,8 @@
-Endorsements
-Endorsed by Leaders, Trusted by Communities.
+Skip to content DONATE Menu Home Meet Niki Issues News Events District 6 Map Endorsements Contact Volunteer Donate Endorsements Endorsed by Leaders, Trusted by Communities.
 Proud to have the support of respected media, community organizations, and public leaders who stand behind Niki Conforti and her commitment to strong leadership, accountable governance, and a better future for Illinois’ 6th Congressional District.
-Media Endorsements
-- Chicago Tribune
-- Daily Herald
-Political & Party Leadership
-- Milton Township Republican Organization Leadership
-- Downers Grove Township Republican Organization Leadership
-- Bremen Township Republican Organization
-- Illinois Federation of Young Republicans
-- Hon.
-Patrick Durante, served Congressman Henry Hyde for 32 years
-- Maggie's List
-Support Niki Conforti and make a difference.
+Media Endorsements Daily Herald Chicago Tribune Chicago Tribune Daily Herald Political & Party Leadership Milton Township Republican Organization Leadership Downers Grove Township Republican Organization Leadership Bremen Township Republican Organization Illinois Federation of Young Republicans Hon.
+Patrick Durante, served Congressman Henry Hyde for 32 years Maggie's List Milton Township Republican Organization Leadership Downers Grove Township Republican Organization Leadership Bremen Township Republican Organization Illinois Federation of Young Republicans Hon.
+Patrick Durante, served Congressman Henry Hyde for 32 years Maggie's List Community & Advocacy Organizations Italian American Police Association United Hellenic Voters of America Arab American Chamber of Commerce ABATE - motorcycles alliance Italian American Police Association United Hellenic Voters of America Arab American Chamber of Commerce ABATE - motorcycles alliance HealthFreedom Illinois Family Action National Women’s Prayer and Voter Army Support Niki Conforti and make a difference.
 Join the growing community of supporters endorsing Niki Conforti.
 Volunteer today and help make a difference!
+Volunteer Home Meet Niki Issues News Events District 6 Map Endorsements Contact Volunteer Donate © # Niki Conforti • Built with GeneratePress

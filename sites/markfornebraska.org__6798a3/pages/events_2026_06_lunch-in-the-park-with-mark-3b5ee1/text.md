@@ -1,10 +1,1 @@
-Back to All Events
-Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD & sign the petition for him to get on the ballot this November.
-*bring your own lunch*
-Previous
-Previous
-July 5
-Kearney Meet & Greet
-Next
-Next
-July 8
+0 Skip to Content Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Open Menu Close Menu Home About Mark Issues FAQ Register to Vote Press News Events Volunteer Contact DONATE Back to All Events Lunch in the Park with Mark Wednesday, July 8, 2026 11:00 AM 1:30 PM 627 Toledo Street Sidney, Nebraska, 69162 (map) Google Calendar ICS Here’s your chance to meet Mark Cohen, Independent Candidate for Nebraska CD & sign the petition for him to get on the ballot this November. *bring your own lunch* Tagged: Event , Meet & Greet Previous Previous July 5 Kearney Meet & Greet Next Next July 8 Yard Party with Dan Osborn Donate info@markfornebraska.org Send checks to: Mark for Nebraska PO Box 81 Lemoyne, NE 69146 Volunteer Contact Terms of Use Privacy Policy PAID FOR AND AUTHORIZED BY MARK FOR NEBRASKA — AN UNINCORPORATED POLITICAL ORGANIZATION © # Mark For Nebraska × Donate to support Mark Cohen $5 $10 $25 $50 $100 Other Continue to website →

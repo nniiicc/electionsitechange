@@ -1,16 +1,62 @@
 [
-"https://facebook.com/loriursopawtucket",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/loriursopawtucket",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2116.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2151.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2178.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2195.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2197.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2397.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2610.pdf",
-"https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2676.pdf",
-"https://x.com/LoriUrsoRI"
+{
+"text": "2151",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2151.pdf"
+},
+{
+"text": "2195",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2195.pdf"
+},
+{
+"text": "2197",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2197.pdf"
+},
+{
+"text": "2397",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2397.pdf"
+},
+{
+"text": "2610",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2610.pdf"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Senate Bill 2116",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2116.pdf"
+},
+{
+"text": "Senate Bill 2178",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2178.pdf"
+},
+{
+"text": "Senate Funding Resolution 2676",
+"href": "https://webserver.rilegislature.gov/BillText/BillText26/SenateText26/S2676.pdf"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/loriursopawtucket"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/loriursopawtucket"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/LoriUrsoRI"
+},
+{
+"text": "sen-urso@rilegislature.gov",
+"href": "mailto:sen-urso@rilegislature.gov"
+}
 ]

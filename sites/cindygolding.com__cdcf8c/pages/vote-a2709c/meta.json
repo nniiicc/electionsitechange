@@ -1,9 +1,12 @@
 {
- "description": "Linn County elections are managed by the Linn County Auditor\u2019s Election Services Office.",
+ "description": "Linn County elections are managed by the Linn County Auditor’s Election Services Office.",
  "final_url": "https://cindygolding.com/vote/",
- "paid_for_by": null,
+ "fingerprint": "8649415c2664b5cb7b402c9e26fc256a71aec745",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Vote - Cindy Golding",
  "years_mentioned": [
-  "2024"
+  "2024",
+  "2026"
  ]
 }

@@ -1,4 +1,4 @@
-If Colorado wants to be an example of vibrant neighborhoods with thriving small businesses and a strong arts community, why isn’t the political establishment focused on making it easier, not harder, for people to participate in local culture?
+Home My Story Public Policy Goals News Connect Get Involved Join an Event Contribute News / Wednesdays With Will (July 1st Edition) 1 Jul Wednesday, 7:00 AM · 2026 Wednesdays With Will (July 1st Edition) If Colorado wants to be an example of vibrant neighborhoods with thriving small businesses and a strong arts community, why isn’t the political establishment focused on making it easier, not harder, for people to participate in local culture?
 This week, an issue was brought to my attention that I take personally.
 Over the weekend, Denver City Council members Sarah Parady and Flor Alvidrez proposed a new tiered tax of 5% to 15% on tickets for live events, including concerts and sporting events.
 At least they are being honest enough to call it a tax this time instead of hiding behind the word "fee." The reality is simple: live entertainment is already expensive.
@@ -22,3 +22,6 @@ Colorado needs leaders who listen and understand how business actually operates,
 We need fewer politicians looking for the next tax increase and more leaders focused on solving problems, not creating them.
 The creative economy deserves advocates, not obstacles.
 I have been, and will always be, one for the state of Colorado.
+Join in on the conversation: Please Like, Share, Post, and continue to push this instagram post across your social media.
+It is gaining the attention that will allow us to be a prominent voice of reason and a piece in stopping this detrimental proposal before it becomes a reality.
+Open with Instagram View on Facebook Home Voter Information Contribute Join an Event Connect Get Involved Privacy Policy Paid for by Committee to Elect William Switzer Registered Agent: Tyler Linnebur Powered by CampaignPartner.com - Political Campaign Websites Home My Story Public Policy Goals News Contribute Get Involved Join an Event Connect Voter Information Close Menu

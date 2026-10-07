@@ -1,7 +1,9 @@
 {
  "description": "Donate to Andrea Zupancich's campaign for Minnesota Senate District 3. Minnesota residents can receive a full refund of up to $75 per person.",
  "final_url": "https://andreaformn.com/donate.html",
- "paid_for_by": null,
+ "fingerprint": "4da976f21e656aa85536ed6eba306a03b1ad8223",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate | Andrea Zupancich for MN Senate District 3",
  "years_mentioned": []
 }

@@ -1,7 +1,6 @@
-Molly
-I own a restaurant in Robyn’s district and am also a resident.
+District Map Voting Merch Gallery Press Home Priorities Quality Education Affordability Data Centers Mental Healthcare Affordable Healthcare Small Business Development Reproductive Freedom Childcare Friend of Labor Care For Our Climate Violence Prevention Justice for All Working Together Endorsements Endorsements Faces of the District Awards Meet Robyn Get Involved Merch Volunteer Knock Doors Request a Yard Sign Reading Wins Contact Donate Select Page Molly More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett I own a restaurant in Robyn’s district and am also a resident.
 When it started becoming very clear on March 14th, 2020 that restaurants were going to have to shut down I felt completely panicked.
 I needed answers and guidance, and my first thought was to call Robyn.
 For days to come she would send me updated information as soon as she could, send me grant and loan applications, and come by to check on me and my restaurant.
 I truly felt more secure knowing that she was in my corner.
-Robyn’s leadership is rooted in her care for other people and I can’t think of a better reason to elect someone. -Molly
+Robyn’s leadership is rooted in her care for other people and I can’t think of a better reason to elect someone. -Molly More Faces of the District Nikki Derek Molly Trevor Erica Laura Olivia Sara Kelly Barb Jody Aliza and Nick Sarah Meg and Michela Garrett  Donate  Volunteer  SD 5 Map Z Vote Facebook Instagram YouTube Paid for by Friends of Robyn Vining Privacy Policy

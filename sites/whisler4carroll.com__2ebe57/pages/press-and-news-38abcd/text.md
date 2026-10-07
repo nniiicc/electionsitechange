@@ -1,21 +1,16 @@
-Press Releases & News
-Mid Maryland Votes – Episode 50 with Steve Whisler
-Carroll County is getting it right for our kids – and here’s why.
-While other school systems cave to Biden-era policies, DEI mandates, and teachers’ unions pushing far-left classroom agendas,…
-Steve Whisler Files for Maryland House of Delegates in District 5
-FOR IMMEDIATE RELEASE March 25, 2025 Steve Whisler Files for Maryland House of Delegates in District 5 Westminster, MD – Steve Whisler, a decorated Navy veteran, former educator, and elected…
-Steve Whisler Speaks at the Carroll County School Board Meeting
-Listen as Steve Whisler speaks about parents’ rights in regard to when or if their children will be introduced to sexually explicit content.
-My Carroll County Times Letter to the Editor
-I’m Steve Whisler, a candidate for the Board of Education, and I ask for your vote.
-As I campaign throughout the county, most ask me to keep political and gender-identity…
-Statement on Redistricting Process in South Carroll
-I appreciate the dozens of emails I receive daily from families affected by the painful process of school redistricting.
-Please keep passing me your concerns and terrific ideas on how…
-My responses to BoE Candidate Questions from Moms for Liberty Carroll County Chapter
-1.
+Skip to content Home Steve Events Press and News Endorsements DONATE Press Releases & News Community Media Center: Steve Whisler (R), Candidate Profile April 27, 2026 Play Video Read More about Community Media Center: Steve Whisler (R), Candidate Profile Mid Maryland Votes – Episode 50 with Steve Whisler November 25, 2025 Carroll County is getting it right for our kids – and here’s why.
+While other school systems cave to Biden-era policies, DEI mandates, and teachers’ unions pushing far-left classroom agendas,… Read More about Mid Maryland Votes – Episode 50 with Steve Whisler Steve Whisler Files for Maryland House of Delegates in District 5 March 25, 2025 FOR IMMEDIATE RELEASE March 25, 2025 Steve Whisler Files for Maryland House of Delegates in District 5 Westminster, MD – Steve Whisler, a decorated Navy veteran, former educator, and elected… Read More about Steve Whisler Files for Maryland House of Delegates in District 5 Steve Whisler Speaks at the Carroll County School Board Meeting January 11, 2024 Listen as Steve Whisler speaks about parents’ rights in regard to when or if their children will be introduced to sexually explicit content.
+Read More about Steve Whisler Speaks at the Carroll County School Board Meeting My Carroll County Times Letter to the Editor November 2, 2022 I’m Steve Whisler, a candidate for the Board of Education, and I ask for your vote.
+As I campaign throughout the county, most ask me to keep political and gender-identity… Read More about My Carroll County Times Letter to the Editor Statement on Redistricting Process in South Carroll September 7, 2022 I appreciate the dozens of emails I receive daily from families affected by the painful process of school redistricting.
+Please keep passing me your concerns and terrific ideas on how… Read More about Statement on Redistricting Process in South Carroll My responses to BoE Candidate Questions from Moms for Liberty Carroll County Chapter August 29, 2022 1.
 Please highlight what qualifications are most important for a BOE member and why.
-Our Board of Education is charged to (1) oversee the Superintendent and senior staff, (2) ensure…
-On School Playgrounds
-School playground maintenance and replacement should be included in the CCPS capital budget.
-When county or state park playgrounds need replaced, we don’t ask local residents to raise funds ……
+Our Board of Education is charged to (1) oversee the Superintendent and senior staff, (2) ensure… Read More about My responses to BoE Candidate Questions from Moms for Liberty Carroll County Chapter On School Playgrounds July 15, 2022 School playground maintenance and replacement should be included in the CCPS capital budget.
+When county or state park playgrounds need replaced, we don’t ask local residents to raise funds …… Read More about On School Playgrounds 1 2 Next » News History April 2026 (1) November 2025 (1) March 2025 (1) January 2024 (1) November 2022 (1) September 2022 (1) August 2022 (1) July 2022 (2) June 2022 (2) May 2022 (1) April 2022 (1) March 2022 (1) Get In Touch!
+410.963.7066 410.963.7066 6766 Ridge Road, Marriottsville, MD 21104 6766 Ridge Road Marriottsville, MD 21104 steve@Whisler4Carroll.com steve@Whisler4Carroll.com Receive Updates Keep In Touch Name (Required) First Last Email (Required) Phone Consent I have read and agree to the Terms of Service and Privacy Policy By providing my mobile number I consent to receive periodic text messages from Friends of Steve Whisler.
+Message frequency may vary.
+Msg & Data rates may apply.
+Text STOP to opt-out.
+Text HELP for help.
+For additional information, please see our Terms of Service and Privacy Policies.
+Keep In Touch Click Here to Leave Your Information Join Us On Social Media Additional Resources Privacy Policy Terms of Service Authorized by: Friends of Steve Whisler Joe Tier, Treasurer Website Design and Hosting by Technolegs © # Friends of Steve Whisler; Joe Tier, Treasurer - All Rights Reserved.
+Scroll To Top

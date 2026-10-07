@@ -1,7 +1,9 @@
 {
- "description": "Loading\u2026",
+ "description": "Loading…",
  "final_url": "https://www.ilikemikesmith.com/community-survey-2/",
- "paid_for_by": null,
+ "fingerprint": "110b18fe9d81e61cbd802c760cb8da010d6f890f",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Community Survey | State Representative Mike Smith",
  "years_mentioned": []
 }

@@ -1,10 +1,5 @@
-Volunteer for Jayla Thomas — District 55
-Join the Movement for Accountable Leadership
-This campaign isn’t backed by insiders — it’s powered by neighbors.
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate Volunteer for Jayla Thomas — District 55 Join the Movement for Accountable Leadership This campaign isn’t backed by insiders — it’s powered by neighbors.
 If you believe in accountability, smart growth, and real results over political theater, we need you with us.
 Volunteering is one of the most powerful ways to make a difference in this election.
-Together, we can:
-- Reach voters across the district
-- Share Jayla’s vision for stronger leadership
-- Build a grassroots network that reflects our community
-Sign up below and let us know how you'd like to get involved.
+Together, we can: Reach voters across the district Share Jayla’s vision for stronger leadership Build a grassroots network that reflects our community Sign up below and let us know how you'd like to get involved.
+Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

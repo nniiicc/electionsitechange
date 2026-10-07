@@ -1,4 +1,4 @@
-The legislative session has hardly begun, but I have some preliminary thoughts on what I’m seeing.
+Search × Skip to content Home About Policy Get Involved Notebook Donate Now Donate Now I Found The Money The legislative session has hardly begun, but I have some preliminary thoughts on what I’m seeing.
 There is, unfortunately, no way for me to physically attend every single committee meeting when it comes to the bills that I favor or oppose.
 I can’t give comment on everything because these little legs can’t run from one building to the next fast enough.
 If I could, you can bet your bacon that every single Senator and Representative would know me by name by the end of the week.
@@ -19,7 +19,7 @@ The money IS there.
 Utah isn’t a wealthy state, no.
 But we aren’t destitute either.
 We have the money to fund essential public services WITHOUT raising taxes.
-What we need is a legislature that will listen when educators tell us the cuts will harm the children they teach, we need a legislature with a cool head that won’t lash out at the judiciary to the tune of over $10 million in taxpayer dollars, we need a legislature that removes roadblocks for future leaders and civic engagement instead of adding obstacles to the mountain we already have to climb to be involved in our own government.
+What we need is a legislature that will listen when educators tell us the cuts will harm the children they teach, we need a legislature with a cool head that won’t lash out at the judiciary to the tune of over $10 million in taxpayer dollars , we need a legislature that removes roadblocks for future leaders and civic engagement instead of adding obstacles to the mountain we already have to climb to be involved in our own government.
 They’re in legislative session right now, so it’s not too late for us to appeal to their better nature and ask them to turn their focus back to what matters: The People.
 Reach out and ask them to reprioritize and re-commit to the people they represent.
 If you’re not sure which bills to tackle but you agree that education funding should come first, pop over to the contact page and shoot me an email.

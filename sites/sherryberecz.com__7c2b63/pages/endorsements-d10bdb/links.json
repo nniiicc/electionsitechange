@@ -1,9 +1,38 @@
 [
-"https://facebook.com/BereczforMichigan",
-"https://instagram.com/bereczformichigan",
-"https://secure.actblue.com/donate/sherry-berecz-1",
-"https://sherryberecz.com/",
-"https://sherryberecz.com/contact",
-"https://sherryberecz.com/endorsements",
-"https://sherryberecz.com/meetsherry"
+{
+"text": "Contact",
+"href": "https://sherryberecz.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/sherry-berecz-1"
+},
+{
+"text": "Endorsements",
+"href": "https://sherryberecz.com/endorsements/"
+},
+{
+"text": "Home",
+"href": "https://sherryberecz.com/"
+},
+{
+"text": "Meet Sherry",
+"href": "https://sherryberecz.com/meetsherry/"
+},
+{
+"text": "[image]",
+"href": "https://sherryberecz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://sherryberecz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/BereczforMichigan"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/bereczformichigan"
+}
 ]

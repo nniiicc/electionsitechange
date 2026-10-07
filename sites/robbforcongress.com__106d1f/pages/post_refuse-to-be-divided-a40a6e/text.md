@@ -1,6 +1,4 @@
-Refuse to Be Divided
-Learning to Trust Each Other Again
-I say this a lot when I speak: faith doesn’t mean we all believe the same thing.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Refuse to Be Divided Mar 22 2 min read Learning to Trust Each Other Again I say this a lot when I speak: faith doesn’t mean we all believe the same thing.
 It means we believe in each other.
 That might sound simple.
 But right now, it feels almost radical.
@@ -14,11 +12,7 @@ Division has become a strategy.
 Some leaders know that if they can keep us angry at each other, we won’t notice what they’re doing.
 If we’re busy fighting our neighbors, we’re not asking harder questions about power, money, or truth.
 So they draw lines.
-- Rural vs urban
-- Left vs right
-- Christian vs non-Christian
-- Citizen vs immigrant
-And the goal is simple: keep us separated.
+Rural vs urban Left vs right Christian vs non-Christian Citizen vs immigrant And the goal is simple: keep us separated.
 Because divided people are easier to control.
 That’s not leadership.
 That’s manipulation.
@@ -33,11 +27,7 @@ We can disagree.
 We can debate.
 We can see the world differently.
 But we don’t have to turn on each other.
-Here’s what that requires:
-- Leaders who tell the truth instead of spreading fear
-- A refusal to scapegoat people just because they’re different
-- A commitment to solving real problems instead of feeding outrage
-This isn’t about pretending our differences don’t matter.
+Here’s what that requires: Leaders who tell the truth instead of spreading fear A refusal to scapegoat people just because they’re different A commitment to solving real problems instead of feeding outrage This isn’t about pretending our differences don’t matter.
 It’s about refusing to let those differences be used against us.
 Because when we start believing the worst about each other, it becomes almost impossible to build anything together.
 And we have too much at stake to let that happen.
@@ -61,4 +51,4 @@ And when we don’t, we stay stuck right where we are.
 We don’t have to agree on everything.
 But we do have to decide what kind of people we’re going to be to each other.
 That’s the real test of faith.
-And it might be the most important decision we make.
+And it might be the most important decision we make. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

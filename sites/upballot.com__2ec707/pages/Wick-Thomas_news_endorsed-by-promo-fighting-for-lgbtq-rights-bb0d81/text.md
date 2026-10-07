@@ -1,4 +1,4 @@
-Yesterday I received the PROMO MIssouri PAC endorsement.
+About Wick Issues Get Involved Events Updates Donate Now Home About Wick Issues Get Involved Events Updates Donate Now July 1, 2024 Endorsed by PROMO - Fighting for LGBTQ Rights Yesterday I received the PROMO MIssouri PAC endorsement.
 With this endorsement, I feel it’s important to talk about my past work with the LGBTQ community.When my parents found out I was queer at 17, I was kicked out of my family that night and found myself suddenly homeless.
 Being LGBTQ was not a safe thing to be in rural MO and KS at the time.
 I had transferred schools and slept in my car or at friends’ houses until I was able to rent an apartment with income from my part-time job.
@@ -17,4 +17,4 @@ As part of the campaign, we have been highlighting LGBTQ book bans, hosting drag
 As a member of the American Library Association's Stonewall Book Award Committee I presented the Stonewall Award in Literature in San Francisco during Pride the year gay marriage was legalized.I have testified against the anti-trans laws frequently and have shown up consistently for PROMO and our community for years.
 This is just my work within the LGBTQ community.
 Over the following weeks, we’ll be highlighting how much of my life I’ve dedicated to making the world a better place for ALL of us, so you understand how passionately I will advocate for our district in Jefferson City.I will put in the work and as the first nonbinary State Representative in Missouri, I will stand up for all of us who have been marginalized by society.
-July 1, 2024
+Support Wick Thomas’s Campaign for Missouri Donate Now Wick Thomas For Missouri PO Box 6601., Kansas City MO 64123-0601 tel:(816) 799-5428 | team@wickthomas.org Clay Jarratt, Treasurer Paid for by Missouri House Democratic Campaign Committee | All Rights Reserved | Privacy Policy | Terms & Conditions Built on

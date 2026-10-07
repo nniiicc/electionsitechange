@@ -1,5 +1,4 @@
-Get to Know Jeremiah Fredrickson
-I grew up a country boy in Amery.
+top of page Home About Issues Contact Menu Close Donate Get to Know Jeremiah Fredrickson I grew up a country boy in Amery.
 My grandpa had a dairy farm and we were always working on his farm or the neighbor’s.
 I love the freedom of living in the country.
 The people are friendly and neighbors take care of each other.
@@ -16,3 +15,8 @@ We need to listen to each other and work together to get things done.
 Ready to Help?
 Thinking about ways that you can help make a positive difference in our community and state?
 Volunteer with our campaign and help bring the needed changes that rural Wisconsin deserves.
+First name * Last name * Email * Phone Message How would you like to help?
+Yard sign Host an event Door knocking Make phone calls Other Send Contact (715) 308-3368 jeremiahfredrickson92@gmail.com © # Paid for by Jeremiah Fredrickson for State Assembly.
+Jordan Fredrickson, Treasurer.
+Privacy Policy.
+Home About Issues Contact bottom of page

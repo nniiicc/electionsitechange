@@ -1,7 +1,5 @@
-10/22 – ASK ME ANYTHING Town Hall – Nashua
-October 22 @ 6:30 pm - 8:00 pm
-Thursday, 10/22, 6:30 PM – 8:00 PM
-Nashua Community College, 505 Amherst Street, Nashua, NH 03063
-Lily’s “Ask Me Anything” town hall, co-sponsored by the Nashua Republican City Committee.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate « All Events 10/22 – ASK ME ANYTHING Town Hall – Nashua October 22 @ 6:30 pm - 8:00 pm « TEAM LILY – Keene City Republican Committee Meeting 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester » Thursday, 10/22, 6:30 PM – 8:00 PM Nashua Community College, 505 Amherst Street, Nashua, NH 03063 Lily’s “Ask Me Anything” town hall, co-sponsored by the Nashua Republican City Committee.
 Free and open to the public.
 Bring your questions.
+Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live Details Date: October 22 Time: 6:30 pm - 8:00 pm Event Category: Events « TEAM LILY – Keene City Republican Committee Meeting 10/25 – Temple Adath Yeshurun Brotherhood Candidates Forum – Manchester » © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

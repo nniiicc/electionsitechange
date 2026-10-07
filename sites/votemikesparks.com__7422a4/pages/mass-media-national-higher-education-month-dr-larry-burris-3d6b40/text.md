@@ -1,6 +1,5 @@
-MASS COMM EDUCATION
-10/21/2024
-This month has been designated National Higher Education Month, and I thought it might not be inappropriate to talk a bit about myself.
+Skip to content 615-525-3198 mikesparkstn@gmail.com 732 Nissan Drive Smyrna, Tn 37167 Home Meet Mike ISSUES News GALLERY Contact Blog X Donate Donate Home Meet Mike ISSUES News GALLERY Contact Blog X Home Meet Mike ISSUES News GALLERY Contact Blog X Donate Mass Media ‘National Higher Education Month’ Dr.
+Larry Burris Leave a Comment / Uncategorized / By admin MASS COMM EDUCATION 10/21/2024 This month has been designated National Higher Education Month, and I thought it might not be inappropriate to talk a bit about myself.
 Actually, not just about me, but about what I and a lot of other mass communications professors do with our students.
 The thousands of students going through the mass communications programs across the country will, in a very short time, be the young men and women making decisions about what you see in newspapers and magazines, hear and see on radio and television, and what you see, hear, read and listen to on the Internet.
 For many years there has been a raging debate in higher education circles about just what the role and function of mass communications instruction is supposed to be.
@@ -26,3 +25,7 @@ It has also been said the pen is mightier than the sword.
 But, now the pen itself has become a sword of awesome proportions and destructive power.
 I, for one, think we are doing a good job teaching our students how to use that power effectively and humanely.
 I’m Larry Burriss.
+Post navigation ← Previous Post Leave a Comment Cancel Reply Your email address will not be published.
+Required fields are marked * Type here..
+Name* Email* Website Save my name, email, and website in this browser for the next time I comment.
+Copyright © # Mike Sparks | Powered by Astra WordPress Theme Copyright © # Mike Sparks | Developed by Prime IT Group

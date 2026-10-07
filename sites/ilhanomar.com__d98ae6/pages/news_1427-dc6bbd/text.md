@@ -1,6 +1,5 @@
-Rep.
-Omar Wins DFL Primary Election
-MINNEAPOLIS – Congresswoman Ilhan Omar released the following statement after resoundingly winning her primary, with over 80% of the vote.
+Skip to content Donate Ilhan’s Record Vision Endorsements Get the Facts News Get Involved Donate Share News Rep.
+Omar Wins DFL Primary Election August 11, 2026 MINNEAPOLIS – Congresswoman Ilhan Omar released the following statement after resoundingly winning her primary, with over 80% of the vote.
 “I am honored that the people of Minnesota’s Fifth District have trusted me to continue to be their voice in Congress.
 “Across the district and across the country, people are making their voices heard: we want to vote for something.
 We are tired of being told that it’s not possible to achieve things that would fundamentally make our lives better.
@@ -22,4 +21,4 @@ I can’t do this work without you.
 From Fridley to Robbinsdale to mighty Hilltop to Minneapolis to Edina to St.
 Louis Park to Golden Valley to New Hope to Crystal to Brooklyn Center to Spring Lake Park to Columbia Heights to St.
 Anthony to Richfield – I am grateful that the Fifth District has my back, and I will always have yours.
-Together as Minnesotans, we need to come together so we can win big in November and send a resounding message to Donald Trump that Minnesotans reject his hateful bigotry and we will always choose a future rooted in hope.”
+Together as Minnesotans, we need to come together so we can win big in November and send a resounding message to Donald Trump that Minnesotans reject his hateful bigotry and we will always choose a future rooted in hope.” Back to all news Join Our Campaign ilhanomar.com Ilhan For Congress PO Box 33079 Washington D.C., 20033 Home Media Toolkit Jobs Store Privacy Policy Contact Us Made by Authentic Paid for by Ilhan for Congress © Copyright #

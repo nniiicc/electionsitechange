@@ -1,4 +1,4 @@
-I am excited to return to the Vermont House of Representatives in January to work on the critical issues facing Vermont.
+Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell - Vermont Rep Legislative Updates 2026 Legislation Passed 2025 Legislation Passed 2025 Legislative Updates 2021 Legislative Session Summary Pension Crisis 2021 Town Meeting Update 2019 Legislative Session Summary 2018 Legislative Session Summary Rural Economic Development Working Group 2018 Town Meeting Update 2017 Legislative Session Wrap Up Updates from the Dome Home About Background Community Involvement Issues Events Donate Charlie Kimbell September 16, 2024 2024 Overview of Critical Legislative Issues Charlie Kimbell September 16, 2024 I am excited to return to the Vermont House of Representatives in January to work on the critical issues facing Vermont.
 Tesha Buss ably served the Windsor-5 district but she decided not to seek reelection.
 I decided to run for “my old seat” because of the urgency of the problems Vermont faces and the need for moderate voices to forge reasonable, sustainable solutions.
 It is going to be a rough legislative session – the State has to tighten its fiscal belt, but at the same time we need financial help to build a new school.
@@ -16,3 +16,4 @@ It’s not at the top of the priority list (I’ve told him that) but he’s rig
 And symbols are important.
 What would a new Vermont flag look like?
 I’ll be exploring this idea in between the more serious discussions in the Capitol.
+Newer Post Education Financing and State Aid for School Construction - Public Forum 10-17-2024 DONATE Back to Top Charlie Kimbell - Vermont State Representative, Windsor-5 email: kbellvt@gmail.com phone: 802-296-1276

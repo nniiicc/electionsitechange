@@ -1,14 +1,12 @@
-Rep.
-James Arciero Honors Patricia Reppucci as a 2026 Commonwealth Heroine
-Press Release from the Office of State Representative James Arciero
-Published on July 1, 2026
-BOSTON – State Representative James Arciero is proud to announce that Patricia "Pat" Reppucci of Westford has been selected for the 2026 Commonwealth Heroines Awards, an annual recognition presented by the Massachusetts Commission on the Status of Women honoring women whose selfless contributions strengthen communities across the Commonwealth.
+0 Skip to Content About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Open Menu Close Menu About District & Issues News Podcasts Newsletter Contact Donate Rep.
+James Arciero Honors Patricia Reppucci as a 2026 Commonwealth Heroine Jul 14 Written By James Arciero Press Release from the Office of State Representative James Arciero Published on July 1, 2026 BOSTON – State Representative James Arciero is proud to announce that Patricia "Pat" Reppucci of Westford has been selected for the 2026 Commonwealth Heroines Awards, an annual recognition presented by the Massachusetts Commission on the Status of Women honoring women whose selfless contributions strengthen communities across the Commonwealth.
 The Commonwealth Heroine Award recognizes women who often work behind the scenes to strengthen their communities through leadership, advocacy, volunteerism, and compassion.
 Each year, members of the Massachusetts Legislature are invited to nominate one woman from their district whose selfless service exemplifies the spirit of a Commonwealth Heroine.
 Since 1974, Pat Reppucci has been a steadfast advocate and volunteer in the Westford community.
 Through her leadership with the Friends of the Cameron Senior Center and her service on the Disability Commission, TREAD Committee, DEI Committee, and Westford Coalition for Non-Violence, she has worked tirelessly to support older adults and strengthen community connections.
 "For more than 50 years, Pat has generously dedicated her time, energy, and compassion to making Westford a stronger, more welcoming community” said Representative Arciero.
-“I am honored to recognize her as my 2026 Commonwealth Heroine and congratulate her on this well-deserved recognition.”
-This year's class is the largest in the program's history, recognizing 147 women from across Massachusetts.
+“I am honored to recognize her as my 2026 Commonwealth Heroine and congratulate her on this well-deserved recognition.” This year's class is the largest in the program's history, recognizing 147 women from across Massachusetts.
 Honorees represent a diverse range of women all united by their extraordinary dedication to making a meaningful difference in their communities and across the Commonwealth.
 Representative Arciero extends his sincere congratulations to Pat Reppucci and his gratitude for her decades of service to the Town of Westford and the Second Middlesex District.
+James Arciero Previous Previous State Representative Arciero and the Massachusetts House Pass Micromobility Safety Framework included in Economic Development Bill Next Next Rep.
+James Arciero recognizes Wendy Gloyd with Commonwealth Pride Award Paid for by the Committee to Elect Jim Arciero

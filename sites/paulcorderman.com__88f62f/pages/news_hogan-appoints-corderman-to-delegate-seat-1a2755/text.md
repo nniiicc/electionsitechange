@@ -1,4 +1,4 @@
-| By Heraldmailmedia.com ANNAPOLIS — Gov.
+Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact Home Meet Paul Issues Safe Neighborhoods & Strong Schools Growth & Development Fiscal Responsibility & Accountability News Contact 2026 Legislative Agenda 2025 End of Session Letter Hogan appoints Corderman to delegate seat 12/24/2017 0 Comments By Heraldmailmedia.com ANNAPOLIS — Gov.
 Larry Hogan appointed Hagerstown City Councilman Paul D.
 Corderman to the Maryland General Assembly on Tuesday.
 Corderman was recommended last week by the Washington County Republican Central Committee to replace Judge Brett Wilson in the House of Delegates.
@@ -13,10 +13,14 @@ The other finalist was Hagerstown Tea Party President Donald "Donny" Ravas, who 
 Corderman said Tuesday that his appointment marks "a new commitment" for both Hagerstown and his family, and said he is excited about serving in Annapolis.
 "I know the challenges the city is facing, and I look forward to working on the state level to meet them," he said.
 Corderman said he plans to meet soon with other members of the county's delegation to the General Assembly to discuss the county's priorities in the upcoming legislative session.
-The 2018 session begins Jan. 10.
+The 2018 session begins Jan.
+10.
 Corderman's pending departure from city government will leave a new vacancy on the Hagerstown City Council.
 The council last week appointed Hagerstown businesswoman Shelley McIntire to fill the seat vacated by Councilman Donald F.
 Munson, who resigned in November.
-McIntire is scheduled to take office Tuesday. | Archives Paid for by Friends of Paul Corderman, treasurer Michael Weiss |
-| Mailing Address P.O.
-Box 3716 Hagerstown, MD 21742 | Telephone District Office Phone 240-313-3929 | |
+McIntire is scheduled to take office Tuesday.
+0 Comments Leave a Reply.
+A rchives February 2026 September 2025 May 2025 April 2025 February 2025 December 2024 April 2024 March 2024 April 2023 May 2021 April 2021 February 2021 September 2020 August 2020 December 2017 March 2016 February 2016 RSS Feed Paid for by Friends of Paul Corderman, treasurer Michael Weiss Contact the Office of Senator Paul D.
+Corderman!
+Mailing Address P.O.
+Box 3716 ​Hagerstown, MD 21742 Telephone District Office Phone 240-313-3929 Email [email protected]

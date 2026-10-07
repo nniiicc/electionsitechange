@@ -1,4 +1,4 @@
-“Everything’s bigger in Texas.” That’s been an unofficial slogan for the Lone Star State for as long as I can remember, and it’s true in so many ways.
+Home About Issues Articles Take Action Donate Endorsements Home About Issues Articles Take Action Donate Endorsements May 10, 2018 Jeff Frazier Sit-Rep #17 - Importance of Local Elections May 10, 2018 Jeff Frazier “Everything’s bigger in Texas.” That’s been an unofficial slogan for the Lone Star State for as long as I can remember, and it’s true in so many ways.
 We have the second largest land mass of any state, and the second largest population.
 We have the 10th largest economy in the world, ahead of Australia and Russia.
 But there is one thing in Texas that isn’t that big - our voter turnout, and low voter turnout can have dire consequences, especially in local elections.
@@ -31,3 +31,15 @@ For those of you in Cedar Park, your candidates for City Council Place 2 are Mel
 You have their names and you know how important this decision is.
 Look them up, decide whose values align with yours.
 Then, for the good of our communities, please vote.
+May 10, 2018 Jeff Frazier Jeff Frazier Sit-Rep #18 - Support Congressman John Carter Sit-Rep #16 - Solving the Property Tax Paradox Join the team!
+TAKE ACTION Back To Top Contact us: Terry@TerryWilsonForTexas.com P.O.
+Box 2302 | Georgetown, TX 78627 Pol.
+Ad.
+Paid for by Terry Wilson Campaign Terry Wilson is a veteran of the U.S.
+Army.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Army or the Department of Defense.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign Up for News Updates!
+Email Address Submit Thank you for signing up to receive news!
+You can join the team by volunteering or donating today.

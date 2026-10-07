@@ -1,15 +1,70 @@
 [
-"https://alexforaz.com/",
-"https://alexforaz.com/contact",
-"https://alexforaz.com/endorsements",
-"https://alexforaz.com/es/respaldos",
-"https://alexforaz.com/join",
-"https://alexforaz.com/meet-alex",
-"https://alexforaz.com/platform",
-"https://alexforaz.com/privacy-policy",
-"https://alexforaz.com/vote",
-"https://facebook.com/AlexForAZ",
-"https://instagram.com/realalexkolodin",
-"https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027",
-"https://x.com/realalexkolodin"
+{
+"text": "Contact",
+"href": "https://www.alexforaz.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alex-for-arizona/donate-15d12401de41057027"
+},
+{
+"text": "English",
+"href": "https://www.alexforaz.com/endorsements"
+},
+{
+"text": "EnglishEN",
+"href": "https://www.alexforaz.com/endorsements"
+},
+{
+"text": "Español",
+"href": "https://www.alexforaz.com/es/respaldos"
+},
+{
+"text": "EspañolES",
+"href": "https://www.alexforaz.com/es/respaldos"
+},
+{
+"text": "Home",
+"href": "https://www.alexforaz.com/"
+},
+{
+"text": "Join",
+"href": "https://www.alexforaz.com/join"
+},
+{
+"text": "Meet Alex",
+"href": "https://www.alexforaz.com/meet-alex"
+},
+{
+"text": "Platform",
+"href": "https://www.alexforaz.com/platform"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.alexforaz.com/privacy-policy"
+},
+{
+"text": "Vote",
+"href": "https://www.alexforaz.com/vote"
+},
+{
+"text": "[image: Alex Kolodin for Secretary of State]",
+"href": "https://www.alexforaz.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/AlexForAZ/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/realalexkolodin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realalexkolodin"
+},
+{
+"text": "campaign privacy policy",
+"href": "https://www.alexforaz.com/privacy-policy"
+}
 ]

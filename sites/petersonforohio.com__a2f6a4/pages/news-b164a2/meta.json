@@ -1,9 +1,12 @@
 {
  "description": "Read the latest news about Ohio State Senator Bob Peterson.",
  "final_url": "https://www.petersonforohio.com/news",
- "paid_for_by": "Paid for by Peterson for Good Government LISA PETERSON, TREASURER,&nbsp;5564 GRASSY BRANCH RD",
- "title": "News \u2014 Bob Peterson for Ohio Senate",
+ "fingerprint": "6f5ff21b6aba64c54e6896ba2fde724420ef941e",
+ "format": 3,
+ "paid_for_by": "Paid for by Peterson for Good Government LISA PETERSON, TREASURER, 5564 GRASSY BRANCH RD",
+ "title": "News — Bob Peterson for Ohio Senate",
  "years_mentioned": [
-  "2018"
+  "2018",
+  "2019"
  ]
 }

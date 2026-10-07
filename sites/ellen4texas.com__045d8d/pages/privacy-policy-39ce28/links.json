@@ -1,10 +1,46 @@
 [
-"https://ellen4texas.com/",
-"https://ellen4texas.com/endorsements",
-"https://ellen4texas.com/event-list",
-"https://ellen4texas.com/getinvolved",
-"https://ellen4texas.com/privacy-policy",
-"https://ellen4texas.com/terms-and-conditions",
-"https://ellen4texas.com/voting",
-"https://secure.anedot.com/ellen4texas/donate"
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.anedot.com/ellen4texas/donate"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.ellen4texas.com/endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://www.ellen4texas.com/event-list"
+},
+{
+"text": "Ellen Fleischmann for State Representative",
+"href": "https://www.ellen4texas.com"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.ellen4texas.com/getinvolved"
+},
+{
+"text": "HOME",
+"href": "https://www.ellen4texas.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ellen4texas.com/privacy-policy"
+},
+{
+"text": "Terms and Conditions",
+"href": "https://www.ellen4texas.com/terms-and-conditions"
+},
+{
+"text": "VOTING",
+"href": "https://www.ellen4texas.com/voting"
+},
+{
+"text": "[image: Sorrells Fleischmann Logo_FNL-2_edited.png]",
+"href": "https://www.ellen4texas.com"
+},
+{
+"text": "info@ellen4texas.com",
+"href": "mailto:info@ellen4texas.com"
+}
 ]

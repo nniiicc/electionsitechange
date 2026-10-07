@@ -1,6 +1,6 @@
-My mom sewed my outfit and prepared the food for my first birthday at Sikiew Refugee Camp.
-Meet May
-A campaign powered by service and accountability.
+Home Meet May Events Endorsements Contact Take Action Donate Now Join the movement and stay connected to campaign updates.
+Menu Home Meet May Events Endorsements Contact Take Action Donate Now Join the movement and stay connected to campaign updates.
+Meet May A campaign powered by service and accountability.
 My family immigrated to the United States in 1999, and we’ve called St.
 Petersburg home since then.
 My North Star has been, and always will be, my mom.
@@ -24,12 +24,12 @@ My mom has given me the tools to grow.
 Together, we can use these skills to help us build a thriving community.
 I invite you to join me in the fight.
 Now is our time to create a better Pinellas County where we can lower our costs, raise our wages, and give all working families and seniors the brighter future they have earned.
+My mom sewed my outfit and prepared the food for my first birthday at Sikiew Refugee Camp.
 My family and I in 1994 in Vietnam.
 Ndiza, my first pet, given to me by a community leader in Zambia.
 Here's us graduating with my graduate degree from UC San Diego.
-Listen First
-I am committed to ensuring that all voices of District 61 are heard, valued, and meaningfully considered.
-Act With Care
-I am committed to the priorities that matter most to the people of District 61 and to work towards practical solutions for our community.
-Report Results
-I am committed to transparent leadership, ensuring the decision-making process is clear and easy to understand.
+Listen First I am committed to ensuring that all voices of District 61 are heard, valued, and meaningfully considered.
+Act With Care I am committed to the priorities that matter most to the people of District 61 and to work towards practical solutions for our community.
+Report Results I am committed to transparent leadership, ensuring the decision-making process is clear and easy to understand.
+Translate Page Select a language to translate this page using Google Translate.
+May Thach Paid for by May Thach, Democrat, for Florida House of Representatives District 61 Explore Meet May Contact Voting Resources Vote by Mail Register to Vote Confirm your district Take Action Donate Now Join the movement and stay connected to campaign updates.

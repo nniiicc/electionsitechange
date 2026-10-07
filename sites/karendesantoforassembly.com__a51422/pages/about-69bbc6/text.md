@@ -1,6 +1,7 @@
-Karen is a State Representative serving Wisconsin’s 40th District, where she brings a strong voice to issues of mental health, rural development, and bipartisan problem-solving in our state legislature.
+DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District DeSanto 40th Assembly District ABOUT ENDORSEMENTS DONATE DeSanto for 40th Assembly Help us campaign today for a better tomorrow!
+Get in Touch Donate Karen is a State Representative serving Wisconsin’s 40th District, where she brings a strong voice to issues of mental health, rural development, and bipartisan problem-solving in our state legislature.
 She is also dedicated to expanding access to quality education, affordable child care, and reliable health insurance for families across the district, recognizing that these are essential to strong communities and a thriving workforce.
-Karen is currently serving as the State Representative for Wisconsin’s 40th District, where she brings a strong voice to issues of mental health, rural development, and bipartisan problem-solving in our state legislature.
+Get to know Karen Karen is currently serving as the State Representative for Wisconsin’s 40th District, where she brings a strong voice to issues of mental health, rural development, and bipartisan problem-solving in our state legislature.
 She is also a nationally recognized nonprofit executive who grew a regional organization from a small $600,000 operation into a multi-site, multi-million-dollar system serving communities across Wisconsin.
 But her story doesn’t stop there.
 She is a Motivational Speaker, an author, and a leadership consultant who helps organizations and individuals unlock their full potential through storytelling, strategy, and connection.
@@ -8,12 +9,5 @@ And for more than 30 years, she has been a world-touring circus performer and ed
 She has served as Director of Clowning for Feld Entertainment and Director of Education Outreach at Circus World Museum, blending creativity and leadership in ways few ever have.
 Her work as the CEO for Boys & Girls Clubs of West Central Wisconsin has been recognized nationally, including being named National Chief Executive Officer of the Year by Boys & Girls Clubs of America.
 What makes her truly unique is this: she brings together the discipline of public service, the strategy of executive leadership, and the creativity of the performing arts to show us how leadership is not just something we manage—but something we embody.
-- Ensure Accessible and affordable health care
-- Invest in protecting and improving our public schools and teacher support
-- Build availability and access to mental health services
-- Create supportive pathways for individuals entering mental health and healthcare professions
-- Protect reproductive freedoms for women
-- Identify Opportunities for small businesses and entrepreneurs
-- Safeguard our State Parks, waterways and rural land areas
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.
+Focused on Our Future Ensure Accessible and affordable health care Invest in protecting and improving our public schools and teacher support Build availability and access to mental health services Create supportive pathways for individuals entering mental health and healthcare professions Protect reproductive freedoms for women Identify Opportunities for small businesses and entrepreneurs Safeguard our State Parks, waterways and rural land areas Scan to donate Stay In Touch Connect with us ENDORSEMENTS DeSanto for Assembly Copyright © # DeSanto for Assembly - All Rights Reserved.
+Powered by

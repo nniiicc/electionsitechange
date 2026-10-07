@@ -1,10 +1,3 @@
-Events
-More events coming soon!
-12
-Oct
-14
-Oct
-14
-Oct
-Paid for by Friends of Donna Mercado Kim
-Powered by CampaignPartner.com - Political Websites
+Home About Donna Events News Community Bulletin Photo Gallery Events More events coming soon!
+#ago This Week This Month ‹ Previous Sun Oct 11 2026 - Sun Oct 18 2026 Next › 12 Oct Monday, 7:00 PM – 8:00 PM Alewa Neighborhood Board Maemae Elementary School cafeteria More info › 14 Oct Wednesday, 6:30 PM – 7:30 PM Moanalua Valley Community Association Meeting 99 Ranch More info › 14 Oct Wednesday, 7:00 PM – 8:00 PM Kalihi Valley Neighborhood Board Kaewai Elementary More info › Get Updates Thank you for signing up!
+CONTRIBUTE VOLUNTEER REGISTER TO VOTE News Legislators Push for Improved Dementia Care Training at Annual Advocacy Day Senator Donna Mercado Kim Produces Bipartisan Report of Higher Education Senator Kim Awarded 2024 Dean McManus Spirit of NFWL Award Senator Kim runs for re-election Where to Get Your COVID-19 Vaccination Now Paid for by Friends of Donna Mercado Kim Powered by CampaignPartner.com - Political Websites Home About Donna Events News Community Bulletin Photo Gallery Close Menu

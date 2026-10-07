@@ -1,19 +1,3 @@
-Labor
-AFSCME Michigan
-Laborers Local 355
-Michigan AFL-CIO
-Michigan Association for Justice
-Michigan Building & Construction Trades Council
-Michigan Nurses Association
-Michigan Professional Firefighters Union
-Northern Midwest Regional Council of Carpenters
-Plumbers & Pipefitters Local 333
-SEIU Michigan
-Teamsters Local 406
-United Food & Commercial Workers Local 951
-United Steelworkers District 1
-Organizations
-Michigan League of Conservation Voters
-Moms Demand Action Gun Sense Candidate Distinction
-Planned Parenthood Advocates of Michigan
-Sierra Club
+Skip to content Jim Haadsma | MI State House District 44 Jim Haadsma is running for State Representative in MI House District 44.
+Primary Menu Meet Jim Priorities Endorsements Get Involved Join our Events Donate Endorsements Labor AFSCME Michigan Laborers Local 355 Michigan AFL-CIO Michigan Association for Justice Michigan Building & Construction Trades Council Michigan Nurses Association Michigan Professional Firefighters Union Northern Midwest Regional Council of Carpenters Plumbers & Pipefitters Local 333 SEIU Michigan Teamsters Local 406 United Food & Commercial Workers Local 951 United Steelworkers District 1 Organizations Michigan League of Conservation Voters Moms Demand Action Gun Sense Candidate Distinction Planned Parenthood Advocates of Michigan Sierra Club Meet Jim Priorities Endorsements Get Involved Join Our Events Donate info@haadsmaformichigan.com 146 S.
+Lincoln Blvd., Battle Creek, MI 49015 Paid for by Committee to Elect Jim Haadsma | 146 S Lincoln Blvd, Battle Creek, MI 49015 Powered by Tech for Campaigns

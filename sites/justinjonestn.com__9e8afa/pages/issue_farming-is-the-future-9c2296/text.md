@@ -1,5 +1,4 @@
-Farming is the Future
-When Justin was first elected to the Tennessee House of Representatives, he was unexpectedly placed on the House Agriculture and Natural Resources committee, despite representing an urban district.
+Skip to content Donate Meet Justin Issues News Meet Justin Issues News Donate Farming is the Future When Justin was first elected to the Tennessee House of Representatives, he was unexpectedly placed on the House Agriculture and Natural Resources committee, despite representing an urban district.
 Undeterred, Justin used the committee as a place to advocate for local farmers and push against corporate land grabs that suppress competition and shutter small farms across Tennessee.
 His tireless advocacy has especially centered the voices of small family farms, and he has been diligent in connecting with Black, brown, and young farmers to ensure equitable access to farming for generations to come.
 This past session, Justin introduced legislation protecting the right of farmers to repair their own equipment, a key component of the national “Right-to-Repair” movement, and making Tennessee one of the leading states to discuss the critical pieces of legislation.
@@ -10,3 +9,4 @@ Despite Republican efforts to make pollution easier in rural communities and ero
 Justin has also visited farms across the state specializing in a range of different areas, and has facilitated roundtable discussions with farmers around key issue needs and policy solutions.
 His commitment to “Farming is the Future” has led him to work with community coalitions, connecting racial and economic justice initiatives with farming empowerment.
 Ultimately, Justin has embraced his assignment on the Agriculture and Natural Resources committee as a perfect intersection to build the rural and urban coalitions necessary to push our state forward into a better future for all Tennesseans.
+Explore other issues Healthcare for All Environmental Justice Challenging Corporate Greed Immigrant and Refugee Justice Protect Kids, Not Guns Democracy Requires Disruptors Meet Justin Issues News Donate Privacy Policy Terms of Use Website designed and developed by IndieTech Solutions Paid for by Justin Jones - Treasurer Lynne Mcfarland

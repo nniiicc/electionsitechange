@@ -1,12 +1,10 @@
-Unchecked federal enforcement is putting constitutional rights and American lives at risk.
-A Letter to the Residents of Illinois’ 7th Congressional District
-To my neighbors across the 7th Congressional District,
-Americans are watching with growing concern as federal immigration enforcement operations under this administration have repeatedly resulted in tragic outcomes and raised serious questions about civil liberties, oversight, and public safety.
-In January 2026, Renée Nicole Good, a 37-year-old U.S. citizen and mother, was fatally shot by a federal immigration agent in Minneapolis during a large enforcement operation.
-Later that same month, Alex Pretti, a 37-year-old American nurse, was also killed by federal agents in Minneapolis, an incident that sparked national protests and renewed scrutiny.
+Skip to content Follow Ford Facebook X-twitter Instagram Youtube DONATE ICE Is a Threat to Civil Rights and Civil Liberties By Ford for Congress Campaign Team / January 20, 2026 Unchecked federal enforcement is putting constitutional rights and American lives at risk.
+A Letter to the Residents of Illinois’ 7th Congressional District To my neighbors across the 7th Congressional District, Americans are watching with growing concern as federal immigration enforcement operations under this administration have repeatedly resulted in tragic outcomes and raised serious questions about civil liberties, oversight, and public safety.
+In January 2026, Renée Nicole Good , a 37-year-old U.S. citizen and mother, was fatally shot by a federal immigration agent in Minneapolis during a large enforcement operation.
+Later that same month, Alex Pretti , a 37-year-old American nurse, was also killed by federal agents in Minneapolis, an incident that sparked national protests and renewed scrutiny.
 These deaths occurred amid a broader enforcement surge that has drawn attention, local pushback, and legal challenges.
 Earlier incidents further illustrate the human cost of unchecked enforcement.
-On New Year’s Eve 2025, Keith Porter Jr., a 43-year-old African American U.S. citizen and father, was killed by an off-duty ICE officer in Los Angeles.
+On New Year’s Eve 2025, Keith Porter Jr. , a 43-year-old African American U.S. citizen and father, was killed by an off-duty ICE officer in Los Angeles.
 In September 2025, Silverio Villegas González was shot and killed by an ICE agent during a traffic stop in a Chicago suburb.
 These events are part of at least eight deaths connected to immigration enforcement actions so far in 2026 alone, prompting protests, official criticism, and deep unease across the country.
 Our country’s founding principles are rooted in the protection of civil rights and civil liberties.
@@ -22,3 +20,8 @@ I believe our government must be accountable, transparent, and focused first on 
 We need leadership that confronts abuses of power, restores balance, and tackles the issues hurting working families every day.
 As your candidate for Congress in Illinois’ 7th District, I will fight for meaningful oversight of federal agencies, protect constitutional rights, and push for policies that ease the burden of inflation, strengthen the economy, expand access to health care, and improve affordability for all families.
 Together, we can ensure our government works for the people and not at their expense.
+SIGN UP TO VOLUNTEER DONATE NOW!
+Previous LA SHAWN K.
+FORD CONDEMNS TRUMP ADMINISTRATION’S TERMINATION OF FEDERAL ADDICTION AND MENTAL HEALTH GRANTS Next IN MEMORY OF REV.
+JESSE JACKSON A PROVEN RECORD issues The Newsroom donate donate Facebook X-twitter Instagram Youtube Privacy Policy Paid for by La Shawn K.
+Ford for Congress Scroll to Top A Proven Record Issues Platform The Newsroom Endorsements Volunteer Contact Us DONATE

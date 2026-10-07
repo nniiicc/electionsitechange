@@ -1,7 +1,6 @@
-Misallocated Funding and the Crisis in Georgia’s Prison System
-The Georgia prison system has a longstanding history of human rights abuses, and state legislation has been proven time and time again to be ineffective in resolving this issue.
+State Representative District 122 Menu About Fellowship Capitol Corner Constituents Priorities Volunteer Donate About Fellowship Capitol Corner Constituents Priorities Volunteer Donate Misallocated Funding and the Crisis in Georgia’s Prison System Posted April 25, 2026 By Prarti Satya Capitol Corner Tagged Criminal Justice The Georgia prison system has a longstanding history of human rights abuses, and state legislation has been proven time and time again to be ineffective in resolving this issue.
 It is no secret that Georgia has a high incarceration rate.
-It ranked in the top ten states in incarceration rates per 100,000 residents, according to data collected in 2023.
+It ranked in the top ten states in incarceration rates per 100,000 residents, according to data collected in 2023 .
 However, a lack of funding proportional to this elevated number of inmates acts as a significant barrier for the state in ensuring the safety and security of prisoners residing in state correctional facilities.
 This frequently manifests itself in sexual assault incidents among highly vulnerable prisoners, such as women and LGBTQ+ individuals.
 It is impossible to patch this issue without adequate funding provided to increase staffing and supervision for incarcerated Georgians.
@@ -25,7 +24,7 @@ However, without proper funding to ensure sufficient supervision, these instance
 For the Department of Corrections to take proper punitive action against perpetrators, there has to be knowledge that such an action has taken place.
 There is simply not enough oversight to ensure proper enforcement.
 There is follow-through on the incidents of violence that are reported.
-At least some of these incidents are being investigated for substantiating evidence.
+At least some of these incidents are being investigated for substantiating evidence .
 However, because of the deficits in staffing, it is impossible for all instances of violence to be properly investigated.
 Additionally, the resource deficit does not allow for the implementation of targeted measures to protect those who are most vulnerable – namely, LGBTI inmates.
 Ultimately, the failure is on the part of state implementation.
@@ -41,10 +40,11 @@ To ensure constitutional conditions for Georgia inmates, funds allocated to the 
 With more workers, conditions within prisons would certainly improve.
 By preventing these employees from becoming incredibly taxed and overworked, any future action toward Georgia prison reform will have increased odds of success.
 Those most vulnerable in the GDC’s system will see a substantial decrease in human rights violations.
-Responsibility for this allocation lies with the GDC’s Budget Services.
+Responsibility for this allocation lies with the GDC’s Budget Services .
 Since there has been an increase in state funding for the GDC, the issue is not in how much money is being budgeted to go to the GDC.
 Rather, the problem lies in how the money is allocated internally.
 The GDC’s Budget Services must shift their priorities to increasing incentives for Georgians to fill the vacancies in prison jobs.
 Diverting the GDC’s funding to this path will bring the state prison system one significant step closer to making sure that inmates are protected during their incarceration.
 Prarti Satya is a third-year at the University of Georgia studying political science and international affairs.
-She is a member of our criminal justice group.
+She is a member of our criminal justice group. ©# Spencer Frye State House 122.
+All Rights Reserved.

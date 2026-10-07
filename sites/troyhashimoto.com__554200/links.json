@@ -1,12 +1,50 @@
 [
-"https://facebook.com/HashimotoForSenate",
-"https://instagram.com/hashimoto4senate",
-"https://secure.actblue.com/donate/troyhashimoto-senate",
-"https://troyhashimoto.com/",
-"https://troyhashimoto.com/about-troy",
-"https://troyhashimoto.com/contact-2",
-"https://troyhashimoto.com/issues2",
-"https://troyhashimoto.com/media",
-"https://troyhashimoto.com/newsletter-signup/%20",
-"https://troyhashimoto.com/volunteer-2"
+{
+"text": "About Troy",
+"href": "https://www.troyhashimoto.com/about-troy/"
+},
+{
+"text": "Contact",
+"href": "https://www.troyhashimoto.com/contact-2/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/troyhashimoto-senate"
+},
+{
+"text": "Email Updates",
+"href": "https://www.troyhashimoto.com/newsletter-signup/%20"
+},
+{
+"text": "Home",
+"href": "https://www.troyhashimoto.com"
+},
+{
+"text": "Issues",
+"href": "https://www.troyhashimoto.com/issues2/"
+},
+{
+"text": "Latest News",
+"href": "https://www.troyhashimoto.com/media/"
+},
+{
+"text": "Media",
+"href": "https://www.troyhashimoto.com/media/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.troyhashimoto.com/volunteer-2/"
+},
+{
+"text": "[image: Troy Hashimoto for State Senate]",
+"href": "https://www.troyhashimoto.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/HashimotoForSenate/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hashimoto4senate/"
+}
 ]

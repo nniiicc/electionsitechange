@@ -1,12 +1,11 @@
-Through The Years
-- Following my graduation from The University of Alabama, I sought an immersive opportunity to engage with the economic and civic landscape of our state’s capital.
+0 Skip to Content The Hazel Floyd Collective Bio The Pillars Signs On Air Contact Open Menu Close Menu The Hazel Floyd Collective Bio The Pillars Signs On Air Contact Open Menu Close Menu Bio The Pillars Signs On Air Contact Through The Years #ago Following my graduation from The University of Alabama, I sought an immersive opportunity to engage with the economic and civic landscape of our state’s capital.
 This led me to the FuelAL program at the Montgomery Area Chamber of Commerce—an organization I first connected with during my undergraduate studies.
 Throughout the program, I conducted regular site visits across the River Region, including Montgomery, Wetumpka, Prattville, Millbrook, and Autaugaville.
 These engagements provided high-level access to regional leadership, corporate tours, and strategic networking events.
 A significant highlight was attending a statewide political conference, where I observed critical dialogues regarding Alabama’s future trajectory.
 This experience deepened my understanding of the delicate balance between preserving our historical heritage and fostering modern urban growth.
 It reinforced my conviction that a robust Chamber of Commerce is not just a business asset, but a vital catalyst for the sustainable urbanization and prosperity of our communities.
-- My journey toward public service began with a dedication to hard work and community engagement.
+College My journey toward public service began with a dedication to hard work and community engagement.
 While studying at Southern Union State Community College, I balanced a rigorous academic load—including membership in Mu Alpha Theta and Sigma Kappa Delta—with full-time employment.
 From managing logistics at Auburn Football games to overseeing operations across multiple locations for a national franchise, these early professional roles instilled in me the "people-first" philosophy I carry today: a commitment to exceptional communication, teamwork, and problem-solving under pressure.
 Beyond the workplace, I have always remained invested in the success of the next generation.
@@ -28,7 +27,7 @@ In early 2025, I took that passion to the Alabama State House.
 Leading a delegation with Generation Action, I lobbied for the passage of HB152.
 By engaging directly with Senators and Representatives in bipartisan dialogue, I helped advocate for a bill that was successfully enacted into law in September 2025.
 This experience provided me with firsthand expertise in how to move the needle in Montgomery and deliver tangible results for the people of Alabama.
-- For me, leadership didn’t start on a stage; it started in the halls of Valley High School and the rehearsals of our marching band.
+High School For me, leadership didn’t start on a stage; it started in the halls of Valley High School and the rehearsals of our marching band.
 I’ve always believed that you get out of a community what you’re willing to put into it, and from a young age, I decided to put in everything I had.
 My time in the Valley High Marching Band taught me the value of discipline and harmony—not just in music, but in leadership.
 Serving as a Section Leader and a PBS instructor, I was honored to be voted Outstanding Band Member by my peers and to receive the inaugural Charles Story Award for service.
@@ -47,7 +46,7 @@ As President of the Key Club, Mu Alpha Theta, and the National Honor Society, I 
 I am a product of the Valley.
 I am a product of our schools, our churches, and our shared values.
 I’m running because I’ve spent my life showing up for this District, and I’m ready to take that same work ethic to Montgomery to fight for the place that raised me.
-- If you ask my family, they’ll tell you I didn’t waste any time picking a career path.
+Early Years If you ask my family, they’ll tell you I didn’t waste any time picking a career path.
 At five years old, I did the math and decided that since the President helps the most people, I would simply have to become the President.
 I’ve been on a mission to serve ever since!
 My first 'constituents' were in the nursery at my church.
@@ -65,3 +64,4 @@ I also took my responsibilities at home just as seriously.
 When I started babysitting, I didn't just want to watch the kids—I wanted to be prepared for anything.
 I headed down to EAMC-Lanier to get my CPR certification, a commitment I’ve kept every year since.
 Whether I’m praying over my peers, helping a child find the perfect book, or keeping my CPR skills sharp, my goal has remained the same: be the person people can count on when it matters most.
+The Hazel Floyd Collective Paid for by The Hazel Floyd Campaign Location PO Box 274 Valley, AL, 36854 Contact hazelpfloyd@outlook.com Scroll to The Top Navigation for More Information

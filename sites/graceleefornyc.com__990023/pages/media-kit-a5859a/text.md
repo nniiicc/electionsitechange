@@ -1,5 +1,4 @@
-Media Kit
-Voters across SD-27 need to read and see on the go that Grace Lee delivers.
+0 Skip to Content Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Open Menu Close Menu Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Open Menu Close Menu Home Meet Grace Endorsements Policy District 27 Contact Us Donate Vote VOLUNTEER Media Kit Voters across SD-27 need to read and see on the go that Grace Lee delivers.
 Grace Lee is a community organizer, daughter of immigrants, mother of three, and is running for State Senate to deliver a more affordable, livable Lower Manhattan.
 Grace has served as the Assemblymember for District 65 since 2023, representing Lower Manhattan, including the Lower East Side, Chinatown, and the Financial District.
 In that time, she has built a proven record of standing up to the powerful and delivering real results: on housing and childcare affordability, community investment, protecting vulnerable communities, and through high-quality constituent services.
@@ -7,42 +6,5 @@ Grace and her husband are raising their three daughters right here in the neighb
 For her, this has never just been a job — it's home.
 In the Senate, she will bring that same focus to lowering costs and protecting tenants and vulnerable communities.
 Grace Lee is an accomplished legislator.
-She cuts through the noise and is able to deliver on her promises:
-- Secured nearly $400 million in emergency funding to keep NYCHA and rent-stabilized families in their homes
-- Passed Good Cause Eviction, cut property taxes in half for Mitchell-Lama developments, and pushed to expand affordable housing production across the city
-- Expanded childcare funding and tax credits to put money back in families’ pockets
-- Spearheaded legislation to hold ICE accountable and protect our immigrant neighbors
-- Sponsored legislation to stop developers from converting affordable housing into luxury mansions
-- Strengthened our hate crimes laws for the first time in 20 years to protect minority and LGBTQIA+ communities
-- Secured over $90 million for community-based organizations serving New York’s most vulnerable communities.
-- Led the fight to make Lunar New Year a statewide school holiday
-- Cracked down on scaffolding and worked to get our parks cleaned, get trash off the street, and get graffiti removed
-Grace Lee’s Vision for Lower Manhattan
-Grace’s Affordability Agenda
-- Build housing New Yorkers can actually afford, and strengthen tenant protections
-- Freeze rent for seniors and people with disabilities
-- Stop utility rate hikes and lower monthly bills by investing in renewable energy
-- Ban hidden junk fees and fight corporate price gouging to keep groceries affordable
-- Lower prescription drug prices and stop corporate greed
-- Establish free child care for all families
-- Make healthcare affordable and accessible for all New Yorkers
-- Simplifying access to congestion pricing exemptions for low-income New Yorkers
-Housing for Our Neighbors
-- Protecting housing security by safeguarding rent-stabilized apartments and strengthening tenant protections
-- Fully funding NYCHA and holding NYCHA accountable to speed up repairs and provide safe living conditions
-- Promoting housing affordability through property tax relief for Battery Park City and Mitchell-Lama residents
-Fighting Trump & Protecting Our Immigrant Neighbors
-- Protect election integrity and fight Republican map rigging
-- Uphold reproductive freedom and healthcare access
-- Defend our civil rights and protect minority communities from federal overreach
-- Fight Trump’s attacks on our clean air and water
-- Protect our small businesses from rising costs due to Trump’s tariffs
-- Stand up against federal cuts to food and rental assistance
-Building Community Resiliency & Infrastructure Needs
-- Investing in our parks and green space to make them cleaner and safer for the community to enjoy
-- Building a resilient waterfront while making sure infrastructure projects are done correctly and with minimum disruption on our lives
-Strengthening Quality of Life & Community Safety
-- Cracking down on illegal cannabis stores, and reining in illegal vendors on Canal Street
-- Removing unwanted scaffolding and cleaning up street graffiti
-- Improving street safety by strengthening traffic camera enforcement at busy intersections
-- Keep our community safe from gun violence
+She cuts through the noise and is able to deliver on her promises: Secured nearly $400 million in emergency funding to keep NYCHA and rent-stabilized families in their homes Passed Good Cause Eviction, cut property taxes in half for Mitchell-Lama developments, and pushed to expand affordable housing production across the city Expanded childcare funding and tax credits to put money back in families’ pockets Spearheaded legislation to hold ICE accountable and protect our immigrant neighbors Sponsored legislation to stop developers from converting affordable housing into luxury mansions Strengthened our hate crimes laws for the first time in 20 years to protect minority and LGBTQIA+ communities Secured over $90 million for community-based organizations serving New York’s most vulnerable communities.
+Led the fight to make Lunar New Year a statewide school holiday Cracked down on scaffolding and worked to get our parks cleaned, get trash off the street, and get graffiti removed Grace Lee’s Vision for Lower Manhattan Grace’s Affordability Agenda Build housing New Yorkers can actually afford, and strengthen tenant protections Freeze rent for seniors and people with disabilities Stop utility rate hikes and lower monthly bills by investing in renewable energy Ban hidden junk fees and fight corporate price gouging to keep groceries affordable Lower prescription drug prices and stop corporate greed Establish free child care for all families Make healthcare affordable and accessible for all New Yorkers Simplifying access to congestion pricing exemptions for low-income New Yorkers Housing for Our Neighbors Protecting housing security by safeguarding rent-stabilized apartments and strengthening tenant protections Fully funding NYCHA and holding NYCHA accountable to speed up repairs and provide safe living conditions Promoting housing affordability through property tax relief for Battery Park City and Mitchell-Lama residents Fighting Trump & Protecting Our Immigrant Neighbors Protect election integrity and fight Republican map rigging Uphold reproductive freedom and healthcare access Defend our civil rights and protect minority communities from federal overreach Fight Trump’s attacks on our clean air and water Protect our small businesses from rising costs due to Trump’s tariffs Stand up against federal cuts to food and rental assistance Building Community Resiliency & Infrastructure Needs Investing in our parks and green space to make them cleaner and safer for the community to enjoy Building a resilient waterfront while making sure infrastructure projects are done correctly and with minimum disruption on our lives Strengthening Quality of Life & Community Safety Cracking down on illegal cannabis stores, and reining in illegal vendors on Canal Street Removing unwanted scaffolding and cleaning up street graffiti Improving street safety by strengthening traffic camera enforcement at busy intersections Keep our community safe from gun violence Media Content Paid for by Grace Lee for New York Meet Grace Endorsements Policy Contact Donate Media Kit Privacy Policy and Terms & Conditions

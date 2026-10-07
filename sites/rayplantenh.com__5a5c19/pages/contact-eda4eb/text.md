@@ -1,37 +1,8 @@
-RAY PLANTE
-About
-Issues
-Service
-Contact
-DONATE
-Get In Touch
-We’d love to hear from you — reach out, ask questions, or join the team.
-Send a Message
-Your Name *
-Email Address *
-Phone Number
-Your Message
-Ways to Get Involved
-Door Knocking
-Phone Banking
-Yard Signs
-Event Help
-Social Media
-Other
-I agree to receive recurring text messages from Ray Plante and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
+RAY PLANTE About Issues Service Contact DONATE Get In Touch We’d love to hear from you — reach out, ask questions, or join the team.
+Send a Message Your Name * Email Address * Phone Number Your Message Ways to Get Involved Door Knocking Phone Banking Yard Signs Event Help Social Media Other I agree to receive recurring text messages from Ray Plante and the Committee to Elect House Republicans about campaign updates, events, volunteer opportunities, and election reminders.
 Msg frequency varies.
 Msg & data rates may apply.
 Reply STOP to opt out, HELP for help.
-See our
-Privacy Policy
-and
-Terms
-.
-Send Message
-Contact Information
-Email
-[email protected]
-Phone
-[phone protected]
-Address
-30 Moose Point Rd, Dunbarton, NH 03046
+See our Privacy Policy and Terms .
+Send Message Contact Information Email [email protected] Phone [phone protected] Address 30 Moose Point Rd, Dunbarton, NH 03046 RAY PLANTE Farm Free or Die QUICK LINKS About Ray Issues Military Service Contact GET IN TOUCH [email protected] 30 Moose Point Rd Paid for by Ray Plante for NH, 30 Moose Point Rd, Dunbarton, NH 03046, Raymond Plante treasurer © # Ray Plante.
+All rights reserved.

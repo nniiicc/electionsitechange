@@ -1,23 +1,3 @@
-SPARGO FOR ARIZONA STATE
-REPRESENTATIVE FOR 2026!
-Home
-About
-Issues
-Gallery
-Endorsements
-Press Release
-Get Involved
-Donate Now
-Endorsements
-Home
-Endorsements
-Endorsement By Amish Shah
-Endorsement By Ginny Dickey
-Endorsement By Matt Grodsky
-Endorsement By Daniel Sheridan
-Endorsement By Anthem Indivisble
-Endorsement By Black Mountain Dems
-Endorsement By SOS Arizona
-Endorsement By North Scottsdale Democrats
-Endorsement By Keep Arizona Student
-Endorsement By AA for the Gifted & Talented Education
+SPARGO FOR ARIZONA STATE REPRESENTATIVE FOR 2026!
+Home About Issues Gallery Endorsements Press Release Get Involved Donate Now Endorsements Home Endorsements Endorsement By Amish Shah Endorsement By Ginny Dickey Endorsement By Matt Grodsky Endorsement By Daniel Sheridan Endorsement By Anthem Indivisble Endorsement By Black Mountain Dems Endorsement By SOS Arizona Endorsement By North Scottsdale Democrats Endorsement By Keep Arizona Student Endorsement By AA for the Gifted & Talented Education Subscribe Now!
+SUBSCRIBE NOW PAID FOR BY SPARGO FOR ARIZONA AUTHORIZED BY RICK SPARGO Useful Links HOME ABOUT ISSUES GALLERY ENDORSEMENTS CONTACT WATER SECURITY AFFORDABILITY WHO TO VOTE FOR ARIZONA DEMOCRATS PAID FOR SPARGO FOR ARIZONA APPROVED BY RICK SPARGO Design By Xpert Solutions

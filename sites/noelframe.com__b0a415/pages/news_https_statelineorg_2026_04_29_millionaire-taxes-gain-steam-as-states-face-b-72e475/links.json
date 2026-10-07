@@ -1,49 +1,218 @@
 [
-"https://app.leg.wa.gov/billsummary?BillNumber=6346&Year=2025&Initiative=false",
-"https://calmatters.org/politics/2026/01/billionaires-tax-health-funding",
-"https://cbpp.org/research/federal-tax/by-the-numbers-harmful-republican-megabill-favors-the-wealthy-and-leaves",
-"https://facebook.com/VoteNoelFrame",
-"https://fiscal.wa.gov/Spending/SpendHistFundYearChart",
-"https://indianacapitalchronicle.com/2026/01/14/indiana-set-to-opt-out-of-some-of-trumps-federal-tax-cuts",
-"https://instagram.com/noelframe",
-"https://itep.org/washington-who-pays-7th-edition",
-"https://linkedin.com/in/noelframe",
-"https://mainemorningstar.com/2026/04/08/maines-democratic-majority-pushes-through-budget-with-millionaire-tax-relief-checks",
-"https://mass.gov/info-details/delivering-on-fair-share-impact-report",
-"https://michiganadvance.com/briefs/millionaire-tax-proposal-for-michigan-schools-pulled-from-2026-ballot-plans",
-"https://msn.com/en-us/money/markets/massachusetts-loses-billions-in-income-after-millionaire-tax/ar-AA1Z4xdw",
-"https://noelframe.com/",
-"https://noelframe.com/about-noel",
-"https://noelframe.com/cart",
-"https://noelframe.com/endorsements",
-"https://noelframe.com/events",
-"https://noelframe.com/folder-issues",
-"https://noelframe.com/get-involved",
-"https://noelframe.com/home",
-"https://noelframe.com/issues/child-welfare",
-"https://noelframe.com/issues/education",
-"https://noelframe.com/issues/environment",
-"https://noelframe.com/issues/equity",
-"https://noelframe.com/issues/fighting-trump",
-"https://noelframe.com/issues/healthcare",
-"https://noelframe.com/issues/homes",
-"https://noelframe.com/issues/prosperity",
-"https://noelframe.com/issues/public-safety",
-"https://noelframe.com/issues/tax-reform",
-"https://noelframe.com/news",
-"https://noelframe.com/news/https/wwwtheguardiancom/profile/andrew-gumbel-75y73",
-"https://noelframe.com/news/tag/NEWS",
-"https://noelframe.com/news?author=5a7a2dfa5ce3508306aede93",
-"https://noelframe.com/organizations-1",
-"https://noelframe.com/policies",
-"https://noelframe.com/privacy-policy",
-"https://nyc.gov/mayors-office/news/2026/04/mayor-mamdani--governor-hochul-announce-state-s-first-pied-a-ter",
-"https://oxfamamerica.org/explore/research-publications/unequal-the-rise-of-a-new-american-oligarchy-and-the-agenda-we-need",
-"https://secure.actblue.com/donate/friends-of-noel-frame-1",
-"https://stateline.org/2025/11/14/shutdown-ends-but-more-federal-chaos-looms-for-states",
-"https://stateline.org/2026/03/18/republican-push-to-increase-sales-taxes-would-fall-hardest-on-lower-income-residents",
-"https://taxnotes.com/featured-news/advocates-push-wealth-taxes-despite-mixed-results/2024/04/01/7j9qk",
-"https://upperleftstrategies.com/",
-"https://washingtonstatestandard.com/2026/04/08/court-battle-set-to-begin-over-was-new-income-tax",
-"https://web-cdn.bsky.app/profile/did:plc:w4u6wzjgf4dypfewx4eh2zsl"
+{
+"text": "$6 billion",
+"href": "https://www.mass.gov/info-details/delivering-on-fair-share-impact-report"
+},
+{
+"text": "0",
+"href": "https://www.noelframe.com/cart"
+},
+{
+"text": "2026 Endorsements",
+"href": "https://www.noelframe.com/organizations-1"
+},
+{
+"text": "ABOUT",
+"href": "https://www.noelframe.com/about-noel"
+},
+{
+"text": "About Noel",
+"href": "https://www.noelframe.com/about-noel"
+},
+{
+"text": "Back",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "Child Welfare",
+"href": "https://www.noelframe.com/issues/child-welfare"
+},
+{
+"text": "Contact",
+"href": "mailto:manager@noelframe.com?subject=Campaign+inquiry"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-noel-frame-1"
+},
+{
+"text": "Economic Prosperity for All of Us",
+"href": "https://www.noelframe.com/issues/prosperity"
+},
+{
+"text": "Education",
+"href": "https://www.noelframe.com/issues/education"
+},
+{
+"text": "Endorse Noel",
+"href": "mailto:manager@noelframe.com?subject=Endorsement"
+},
+{
+"text": "Environment",
+"href": "https://www.noelframe.com/issues/environment"
+},
+{
+"text": "Events",
+"href": "https://www.noelframe.com/events"
+},
+{
+"text": "Fighting Back Against Trump",
+"href": "https://www.noelframe.com/issues/fighting-trump"
+},
+{
+"text": "Folder: 2026 Endorsements",
+"href": "https://www.noelframe.com/endorsements"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.noelframe.com/get-involved"
+},
+{
+"text": "Folder: Issues",
+"href": "https://www.noelframe.com/folder-issues"
+},
+{
+"text": "HOME",
+"href": "https://www.noelframe.com/home"
+},
+{
+"text": "Healthcare Access",
+"href": "https://www.noelframe.com/issues/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "Housing & Homelessness",
+"href": "https://www.noelframe.com/issues/homes"
+},
+{
+"text": "NEWS",
+"href": "https://www.noelframe.com/news/tag/NEWS"
+},
+{
+"text": "News",
+"href": "https://www.noelframe.com/news"
+},
+{
+"text": "Next Next Why families caring for children with disabilities are suing Washington state",
+"href": "https://www.noelframe.com/news/https/wwwtheguardiancom/profile/andrew-gumbel-75y73"
+},
+{
+"text": "POLICIES",
+"href": "https://www.noelframe.com/policies"
+},
+{
+"text": "Privacy Policy | Website Terms & Conditions",
+"href": "https://www.noelframe.com/privacy-policy"
+},
+{
+"text": "Public Safety",
+"href": "https://www.noelframe.com/issues/public-safety"
+},
+{
+"text": "Racial and Social Equity",
+"href": "https://www.noelframe.com/issues/equity"
+},
+{
+"text": "Tax Reform",
+"href": "https://www.noelframe.com/issues/tax-reform"
+},
+{
+"text": "Upper Left Strategies",
+"href": "https://www.noelframe.com/news?author=5a7a2dfa5ce3508306aede93"
+},
+{
+"text": "Volunteer",
+"href": "mailto:manager@noelframe.com?subject=Volunteer+Inquiry"
+},
+{
+"text": "[image: Noel Frame: Democrat for State Senate - 36th LD]",
+"href": "https://www.noelframe.com/"
+},
+{
+"text": "[image] Upper Left Strategies",
+"href": "https://www.noelframe.com/news?author=5a7a2dfa5ce3508306aede93"
+},
+{
+"text": "[no text]",
+"href": "https://web-cdn.bsky.app/profile/did:plc:w4u6wzjgf4dypfewx4eh2zsl"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VoteNoelFrame"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/noelframe/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/noelframe/"
+},
+{
+"text": "analysis",
+"href": "https://www.oxfamamerica.org/explore/research-publications/unequal-the-rise-of-a-new-american-oligarchy-and-the-agenda-we-need/"
+},
+{
+"text": "benefit the wealthy",
+"href": "https://www.cbpp.org/research/federal-tax/by-the-numbers-harmful-republican-megabill-favors-the-wealthy-and-leaves"
+},
+{
+"text": "conference",
+"href": "https://mainemorningstar.com/2026/04/08/maines-democratic-majority-pushes-through-budget-with-millionaire-tax-relief-checks/"
+},
+{
+"text": "court challenge",
+"href": "https://washingtonstatestandard.com/2026/04/08/court-battle-set-to-begin-over-was-new-income-tax/"
+},
+{
+"text": "dozen states",
+"href": "https://www.taxnotes.com/featured-news/advocates-push-wealth-taxes-despite-mixed-results/2024/04/01/7j9qk"
+},
+{
+"text": "https://upperleftstrategies.com",
+"href": "https://upperleftstrategies.com"
+},
+{
+"text": "legislation",
+"href": "https://app.leg.wa.gov/billsummary/?BillNumber=6346&Year=2025&Initiative=false"
+},
+{
+"text": "more regressive",
+"href": "https://stateline.org/2026/03/18/republican-push-to-increase-sales-taxes-would-fall-hardest-on-lower-income-residents/"
+},
+{
+"text": "more than doubled",
+"href": "https://fiscal.wa.gov/Spending/SpendHistFundYearChart"
+},
+{
+"text": "most regressive",
+"href": "https://itep.org/washington-who-pays-7th-edition/"
+},
+{
+"text": "opposing",
+"href": "https://calmatters.org/politics/2026/01/billionaires-tax-health-funding/"
+},
+{
+"text": "pied-à-terre tax",
+"href": "https://www.nyc.gov/mayors-office/news/2026/04/mayor-mamdani--governor-hochul-announce-state-s-first-pied-a-ter"
+},
+{
+"text": "recent IRS data",
+"href": "https://www.msn.com/en-us/money/markets/massachusetts-loses-billions-in-income-after-millionaire-tax/ar-AA1Z4xdw#:~:text=or%20capital%20gains.-,Total%20lost%20income%20was%20also%20higher%20in%202021%20than%202023,tax%20revenue%20in%20eighth%20paragraph.)"
+},
+{
+"text": "reject",
+"href": "https://indianacapitalchronicle.com/2026/01/14/indiana-set-to-opt-out-of-some-of-trumps-federal-tax-cuts/"
+},
+{
+"text": "slashed funds",
+"href": "https://stateline.org/2025/11/14/shutdown-ends-but-more-federal-chaos-looms-for-states/"
+},
+{
+"text": "suspend their campaign",
+"href": "https://michiganadvance.com/briefs/millionaire-tax-proposal-for-michigan-schools-pulled-from-2026-ballot-plans/"
+}
 ]

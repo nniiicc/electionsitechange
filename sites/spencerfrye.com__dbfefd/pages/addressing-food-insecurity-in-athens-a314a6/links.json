@@ -1,24 +1,122 @@
 [
-"http://foodsecurity.org/fpc",
-"https://baynews9.com/fl/tampa/news/2020/11/25/st--petersburg-food-policy-council",
-"https://ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas",
-"https://facebook.com/SpencerFryeStateHouse",
-"https://georgiahealthnews.com/2012/04/athens-fighting-food-deserts",
-"https://onlinemasters.ohio.edu/food-deserts-definition",
-"https://purdue.edu/dffs/localfood/communityfoodsystem/food-councils",
-"https://redandblack.com/athensnews/market-on-the-move-launches-to-combat-food-deserts-in-underserved-communities/article_8c0a7bc2-2f17-11e8-9a3e-1ff8e94f228c.html",
-"https://redandblack.com/opinion/opinion-you-should-care-about-food-deserts-in-athens/article_5f88bef8-8752-11e9-bf5b-4792c4a741e3.html",
-"https://secure.actblue.com/donate/spencerfrye",
-"https://spencerfrye.com/",
-"https://spencerfrye.com/capitol-corner",
-"https://spencerfrye.com/category/capitol-corner",
-"https://spencerfrye.com/constituents",
-"https://spencerfrye.com/fellowship",
-"https://spencerfrye.com/meet-spencer",
-"https://spencerfrye.com/priorities",
-"https://spencerfrye.com/volunteer",
-"https://sustainability.uga.edu/community-engagement/foodshed",
-"https://sustainability.uga.edu/stories/food-insecurity-poverty-and-covid",
-"https://sustainablect.org/fileadmin/media/Content/For_resources/Public_Services/1.How_to_Establish_a_FPC.pdf",
-"https://x.com/spencerfrye"
+{
+"text": "About",
+"href": "https://www.spencerfrye.com/meet-spencer/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/capitol-corner/"
+},
+{
+"text": "Capitol Corner",
+"href": "https://www.spencerfrye.com/category/capitol-corner/"
+},
+{
+"text": "Constituents",
+"href": "https://www.spencerfrye.com/constituents/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/spencerfrye"
+},
+{
+"text": "Fellowship",
+"href": "https://www.spencerfrye.com/fellowship/"
+},
+{
+"text": "Priorities",
+"href": "https://www.spencerfrye.com/priorities/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.spencerfrye.com/volunteer/"
+},
+{
+"text": "[10]",
+"href": "https://www.redandblack.com/athensnews/market-on-the-move-launches-to-combat-food-deserts-in-underserved-communities/article_8c0a7bc2-2f17-11e8-9a3e-1ff8e94f228c.html"
+},
+{
+"text": "[11]",
+"href": "https://sustainability.uga.edu/community-engagement/foodshed/"
+},
+{
+"text": "[12]",
+"href": "http://foodsecurity.org/fpc/"
+},
+{
+"text": "[13]",
+"href": "https://www.baynews9.com/fl/tampa/news/2020/11/25/st--petersburg-food-policy-council"
+},
+{
+"text": "[14]",
+"href": "https://www.purdue.edu/dffs/localfood/communityfoodsystem/food-councils/"
+},
+{
+"text": "[15]",
+"href": "https://www.purdue.edu/dffs/localfood/communityfoodsystem/food-councils/"
+},
+{
+"text": "[16]",
+"href": "https://www.purdue.edu/dffs/localfood/communityfoodsystem/food-councils/"
+},
+{
+"text": "[17]",
+"href": "https://www.purdue.edu/dffs/localfood/communityfoodsystem/food-councils/"
+},
+{
+"text": "[18]",
+"href": "https://www.purdue.edu/dffs/localfood/communityfoodsystem/food-councils/"
+},
+{
+"text": "[19]",
+"href": "https://sustainablect.org/fileadmin/media/Content/For_resources/Public_Services/1.How_to_Establish_a_FPC.pdf"
+},
+{
+"text": "[1]",
+"href": "https://www.redandblack.com/opinion/opinion-you-should-care-about-food-deserts-in-athens/article_5f88bef8-8752-11e9-bf5b-4792c4a741e3.html"
+},
+{
+"text": "[2]",
+"href": "https://www.redandblack.com/opinion/opinion-you-should-care-about-food-deserts-in-athens/article_5f88bef8-8752-11e9-bf5b-4792c4a741e3.html"
+},
+{
+"text": "[3]",
+"href": "https://www.redandblack.com/opinion/opinion-you-should-care-about-food-deserts-in-athens/article_5f88bef8-8752-11e9-bf5b-4792c4a741e3.html"
+},
+{
+"text": "[4]",
+"href": "https://onlinemasters.ohio.edu/food-deserts-definition/"
+},
+{
+"text": "[5]",
+"href": "https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/"
+},
+{
+"text": "[6]",
+"href": "https://www.georgiahealthnews.com/2012/04/athens-fighting-food-deserts/"
+},
+{
+"text": "[7]",
+"href": "https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/"
+},
+{
+"text": "[8]",
+"href": "https://sustainability.uga.edu/stories/food-insecurity-poverty-and-covid/"
+},
+{
+"text": "[9]",
+"href": "https://sustainablect.org/fileadmin/media/Content/For_resources/Public_Services/1.How_to_Establish_a_FPC.pdf"
+},
+{
+"text": "[image: State Representative District 122] State Representative District 122",
+"href": "https://www.spencerfrye.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SpencerFryeStateHouse/"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/spencerfrye"
+}
 ]

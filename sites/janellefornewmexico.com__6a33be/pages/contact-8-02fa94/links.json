@@ -1,11 +1,42 @@
 [
-"https://facebook.com/janellefornm",
-"https://janellefornewmexico.com/",
-"https://janellefornewmexico.com/contact-8",
-"https://janellefornewmexico.com/endorsements",
-"https://janellefornewmexico.com/how-to-vote",
-"https://janellefornewmexico.com/meet-janelle",
-"https://janellefornewmexico.com/priorities",
-"https://secure.actblue.com/donate/janelle-for-new-mexico-19",
-"https://twitter.com/janelle4nm"
+{
+"text": "Contact",
+"href": "https://www.janellefornewmexico.com/contact-8"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/janelle-for-new-mexico-19"
+},
+{
+"text": "Endorsements",
+"href": "https://www.janellefornewmexico.com/endorsements"
+},
+{
+"text": "How to Vote",
+"href": "https://www.janellefornewmexico.com/how-to-vote"
+},
+{
+"text": "Meet Janelle",
+"href": "https://www.janellefornewmexico.com/meet-janelle"
+},
+{
+"text": "Priorities",
+"href": "https://www.janellefornewmexico.com/priorities"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/janellefornm"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://www.twitter.com/janelle4nm"
+},
+{
+"text": "[image: logo.png]",
+"href": "https://www.janellefornewmexico.com"
+},
+{
+"text": "janelle@janellefornewmexico.com",
+"href": "mailto:info@mysite.com"
+}
 ]

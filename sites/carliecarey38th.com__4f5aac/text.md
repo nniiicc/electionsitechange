@@ -1,6 +1,4 @@
-Carlie Carey for the 38th
-Meet Carlie
-Carlie is a proud Sussex County native who grew up in the 38th district.
+0 Skip to Content Platform Contact Me Donate Open Menu Close Menu Platform Contact Me Donate Open Menu Close Menu Platform Contact Me Donate Carlie Carey for the 38th Meet Carlie Carlie is a proud Sussex County native who grew up in the 38th district.
 She was raised by amazing entrepreneur parents who led by example — instilling within her a strong work ethic and a can-do attitude.
 That enthusiasm and dedication have served Carlie well throughout her life and are the foundation of many of her achievements.
 After graduating from Indian River High School, she attended CU-Boulder and obtained a Bachelor of Studio Arts, and if there was a degree in being an adventurer, she’d have gotten that one, too.
@@ -12,3 +10,8 @@ Unsurprisingly to all who knew them, the accolades started in 2014 and continued
 Now, Carlie is a mom of three and owns a ceramics studio.
 She works alongside her husband on their 16-acre farm full of animals and gardens and still has that delusional optimism.
 She built this chapter of life in the 38th the same way she's built every chapter prior - and the same way she'll build the next as your State Representative: with enthusiasm and dedication.
+DONATE Contact Me Want to Volunteer?
+Any support given whether volunteering, donating, or spreading the word helps get Carlie one step closer to Dover where she can be a true voice for THE PEOPLE.
+Thank you so much for contributing to our campaign!
+We couldn't do this without you.
+VOTE LOCAL, vote Carlie Carey Follow Us @carliecarey38th Contact CarlieCarey38th@gmail.com Paid for by Friends of Carlie Carey

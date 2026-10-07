@@ -1,25 +1,142 @@
 [
-"https://capenconsulting.com/",
-"https://congress.gov/",
-"https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
-"https://facebook.com/JohnLoweryNC",
-"https://governor.nc.gov/",
-"https://johnlowerync.com/",
-"https://johnlowerync.com/about",
-"https://johnlowerync.com/donate",
-"https://johnlowerync.com/media",
-"https://johnlowerync.com/privacy",
-"https://nc.gov/your-government/state-organizations",
-"https://nccourts.gov/",
-"https://ncleg.gov/",
-"https://ncleg.gov/About",
-"https://ncleg.gov/FindYourLegislators",
-"https://ncleg.gov/House/PageProgram",
-"https://ncleg.gov/Laws/Constitution",
-"https://ncleg.gov/Legislation",
-"https://ncleg.gov/Members/MemberList/H",
-"https://nctreasurer.gov/",
-"https://sosnc.gov/",
-"https://x.com/JohnLoweryNC",
-"https://youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+{
+"text": "ABOUT",
+"href": "https://www.johnlowerync.com/about"
+},
+{
+"text": "About the General Assembly",
+"href": "https://www.ncleg.gov/About"
+},
+{
+"text": "Bill Information",
+"href": "https://ncleg.gov/Legislation"
+},
+{
+"text": "CHIP IN TO HELP ELECT JOHN LOWERY >>>",
+"href": "https://www.johnlowerync.com/donate"
+},
+{
+"text": "Capen Consulting, LLC",
+"href": "https://www.capenconsulting.com/"
+},
+{
+"text": "Capitol Building Tours",
+"href": "mailto:John.Lowery@ncleg.gov?subject=I+would+like+a+tour+of+the+Capitol+Building..."
+},
+{
+"text": "Careers & Employment",
+"href": "https://eoee.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+},
+{
+"text": "Congress",
+"href": "https://www.congress.gov/"
+},
+{
+"text": "Contact Us",
+"href": "mailto:info@capenconsulting.com?subject=Contact+Us+%5BJohn+Lowery%5D"
+},
+{
+"text": "DONATE",
+"href": "https://www.johnlowerync.com/donate"
+},
+{
+"text": "Email Webmaster",
+"href": "mailto:info@capenconsulting.com"
+},
+{
+"text": "Find Your Legislative District",
+"href": "https://ncleg.gov/FindYourLegislators"
+},
+{
+"text": "Flag Requests",
+"href": "mailto:John.Lowery@ncleg.gov?subject=I+would+like+to+request+an+American+Flag+or+a+North+Carolina+Flag..."
+},
+{
+"text": "Governor's Office",
+"href": "https://governor.nc.gov/"
+},
+{
+"text": "HOME",
+"href": "https://www.johnlowerync.com"
+},
+{
+"text": "Help with a State Agency",
+"href": "mailto:John.Lowery@ncleg.gov?subject=I+need+help+with+a+State+Agency..."
+},
+{
+"text": "House Members",
+"href": "https://www.ncleg.gov/Members/MemberList/H"
+},
+{
+"text": "House Page Program",
+"href": "https://www.ncleg.gov/House/PageProgram"
+},
+{
+"text": "Internships",
+"href": "mailto:info@capenconsulting.com?subject=JOHN+LOWERY%3A+Campaign+Internship+Opportunities"
+},
+{
+"text": "Legislative Building Tours",
+"href": "mailto:John.Lowery@ncleg.gov?subject=I+would+like+a+tour+of+the+Legislative+Building..."
+},
+{
+"text": "MEDIA",
+"href": "https://www.johnlowerync.com/media"
+},
+{
+"text": "NCGA Live Stream",
+"href": "https://www.youtube.com/channel/UC-MHnEY6_Ha-PrivtOcofaw"
+},
+{
+"text": "News & Media Resources",
+"href": "https://www.johnlowerync.com/media"
+},
+{
+"text": "North Carolina Courts",
+"href": "https://www.nccourts.gov/"
+},
+{
+"text": "North Carolina General Assembly",
+"href": "https://ncleg.gov/"
+},
+{
+"text": "Press Inquiries",
+"href": "mailto:info@capenconsulting.com?subject=JOHN+LOWERY%3A+Press+Inquiry"
+},
+{
+"text": "Privacy Policy.",
+"href": "https://www.johnlowerync.com/privacy"
+},
+{
+"text": "Secretary of State's Office",
+"href": "https://www.sosnc.gov/"
+},
+{
+"text": "State Agencies",
+"href": "https://www.nc.gov/your-government/state-organizations"
+},
+{
+"text": "State Constitution",
+"href": "https://www.ncleg.gov/Laws/Constitution"
+},
+{
+"text": "Treasurer's Office",
+"href": "https://www.nctreasurer.gov/"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JohnLoweryNC/"
+},
+{
+"text": "[image: JLowery Logo 2.png]",
+"href": "https://www.johnlowerync.com"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/JohnLoweryNC"
+},
+{
+"text": "[image]",
+"href": "https://www.capenconsulting.com/"
+}
 ]

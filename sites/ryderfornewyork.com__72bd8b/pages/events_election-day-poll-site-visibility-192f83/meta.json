@@ -1,7 +1,11 @@
 {
  "description": "Join Team Ryder outside polling sites across lower Manhattan on Election Day! Pick a time that works, and a member of our team will be in touch with a poll site location and other specifics. First time canvassing? No worries! We'll equip you with the tools and confidence to succeed! Click to RS",
  "final_url": "https://www.ryderfornewyork.com/events/election-day-poll-site-visibility",
+ "fingerprint": "c13ff83534dc5000c3c4ec51d45f9775a442f41a",
+ "format": 3,
  "paid_for_by": "Paid for by Ryder for New York 2026",
- "title": "Election Day Poll Site Visibility \u2014 Ryder for New York",
- "years_mentioned": []
+ "title": "Election Day Poll Site Visibility — Ryder for New York",
+ "years_mentioned": [
+  "2026"
+ ]
 }

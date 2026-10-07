@@ -1,38 +1,178 @@
 [
-"https://data.bls.gov/timeseries/CUUR0000SA0",
-"https://educate.iowa.gov/media/2819/download",
-"https://iowaledger.com/",
-"https://legis.iowa.gov/docs/code/17A.pdf",
-"https://legis.iowa.gov/docs/code/2023/257.8.pdf",
-"https://legis.iowa.gov/docs/code/256.157.pdf",
-"https://legis.iowa.gov/docs/code/256.220.pdf",
-"https://legis.iowa.gov/docs/code/256.41.pdf",
-"https://legis.iowa.gov/docs/code/256.43.pdf",
-"https://legis.iowa.gov/docs/code/256.pdf",
-"https://legis.iowa.gov/docs/code/257.16.pdf",
-"https://legis.iowa.gov/docs/code/257.2.pdf",
-"https://legis.iowa.gov/docs/code/257.8.pdf",
-"https://legis.iowa.gov/docs/code/257.pdf",
-"https://legis.iowa.gov/docs/code/279.13.pdf",
-"https://legis.iowa.gov/docs/code/284.11.pdf",
-"https://legis.iowa.gov/docs/code/284.13.pdf",
-"https://legis.iowa.gov/docs/code/284.2.pdf",
-"https://legis.iowa.gov/docs/code/284.pdf",
-"https://legis.iowa.gov/docs/code/299A.8.pdf",
-"https://legis.iowa.gov/docs/code/299A.pdf",
-"https://legis.iowa.gov/docs/code/8.33.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1600413.pdf",
-"https://legis.iowa.gov/docs/publications/FN/1605430.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/85/HF215.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/90/HF2612.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/HF2783.pdf",
-"https://legis.iowa.gov/docs/publications/LGE/91/SF2201.pdf",
-"https://mohlerforiowa.com/",
-"https://mohlerforiowa.com/agenda.html",
-"https://mohlerforiowa.com/agenda/pay-as-you-go.html",
-"https://mohlerforiowa.com/harris-record.html",
-"https://mohlerforiowa.com/privacy.html",
-"https://mohlerforiowa.com/where-iowa-ranks.html",
-"https://nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher",
-"https://secure.actblue.com/donate/mohlerforiowa"
+{
+"text": "Accountability",
+"href": "https://iowaledger.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/mohlerforiowa"
+},
+{
+"text": "Every bill",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "How the agenda pays for itself",
+"href": "https://mohlerforiowa.com/agenda/pay-as-you-go.html"
+},
+{
+"text": "Issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Privacy",
+"href": "https://mohlerforiowa.com/privacy.html"
+},
+{
+"text": "Rankings and Estimates",
+"href": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher"
+},
+{
+"text": "The Agenda",
+"href": "https://mohlerforiowa.com/agenda.html"
+},
+{
+"text": "The District",
+"href": "https://mohlerforiowa.com/#district"
+},
+{
+"text": "The Harris File",
+"href": "https://mohlerforiowa.com/harris-record.html"
+},
+{
+"text": "The issues",
+"href": "https://mohlerforiowa.com/#issues"
+},
+{
+"text": "Volunteer",
+"href": "https://mohlerforiowa.com/#volunteer"
+},
+{
+"text": "Where Iowa Ranks",
+"href": "https://mohlerforiowa.com/where-iowa-ranks.html"
+},
+{
+"text": "[image: Mohler for Iowa]",
+"href": "https://mohlerforiowa.com/"
+},
+{
+"text": "data.bls.gov",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+},
+{
+"text": "final fiscal note on Senate File 2201",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1605430.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/17A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/2023/257.8.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.157.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.220.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.41.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.43.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/256.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/257.16.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/257.2.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/257.8.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/257.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/279.13.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/284.11.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/284.13.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/284.2.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/284.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/299A.8.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/299A.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/code/8.33.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1605430.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/85/HF215.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/90/HF2612.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/HF2783.pdf"
+},
+{
+"text": "legis.iowa.gov",
+"href": "https://www.legis.iowa.gov/docs/publications/LGE/91/SF2201.pdf"
+},
+{
+"text": "nea.org",
+"href": "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher"
+},
+{
+"text": "note on the Senate-passed version",
+"href": "https://www.legis.iowa.gov/docs/publications/FN/1600413.pdf"
+},
+{
+"text": "own school finance guide",
+"href": "https://educate.iowa.gov/media/2819/download?inline="
+},
+{
+"text": "published",
+"href": "https://data.bls.gov/timeseries/CUUR0000SA0"
+}
 ]

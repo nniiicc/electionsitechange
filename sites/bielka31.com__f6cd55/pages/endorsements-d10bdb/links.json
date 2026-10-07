@@ -1,9 +1,34 @@
 [
-"https://bielka31.com/",
-"https://bielka31.com/about",
-"https://bielka31.com/cart",
-"https://bielka31.com/endorsements",
-"https://bielka31.com/home",
-"https://bielka31.com/priorities",
-"https://secure.actblue.com/donate/john-bielka-1"
+{
+"text": "0",
+"href": "https://www.bielka31.com/cart"
+},
+{
+"text": "Donate today",
+"href": "https://secure.actblue.com/donate/john-bielka-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.bielka31.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://www.bielka31.com/"
+},
+{
+"text": "Home",
+"href": "https://www.bielka31.com/home"
+},
+{
+"text": "Meet John Bielka",
+"href": "https://www.bielka31.com/about"
+},
+{
+"text": "Priorities",
+"href": "https://www.bielka31.com/priorities"
+},
+{
+"text": "[image: Elect John Bielka]",
+"href": "https://www.bielka31.com/"
+}
 ]

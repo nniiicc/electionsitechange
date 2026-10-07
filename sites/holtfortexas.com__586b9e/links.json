@@ -1,9 +1,38 @@
 [
-"https://facebook.com/102681516254070",
-"https://form.jotform.com/231938933048161",
-"https://form.jotform.com/242136786079163",
-"https://holtfortexas.com/",
-"https://holtfortexas.com/bio%2Fpolicies",
-"https://secure.anedot.com/janis-holt-for-texas-campaign/donate",
-"https://x.com/JanisHolt59"
+{
+"text": "Bio/Policies",
+"href": "https://holtfortexas.com/bio%2Fpolicies"
+},
+{
+"text": "Contact Janis",
+"href": "https://form.jotform.com/242136786079163"
+},
+{
+"text": "Home",
+"href": "https://holtfortexas.com/"
+},
+{
+"text": "[image: holtfortexas]",
+"href": "https://holtfortexas.com/"
+},
+{
+"text": "[image]",
+"href": "https://form.jotform.com/231938933048161"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/102681516254070"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/JanisHolt59"
+},
+{
+"text": "donate now!",
+"href": "https://secure.anedot.com/janis-holt-for-texas-campaign/donate"
+},
+{
+"text": "get involved & GET team UPDATES",
+"href": "https://form.jotform.com/231938933048161"
+}
 ]

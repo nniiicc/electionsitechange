@@ -1,7 +1,9 @@
 {
  "description": "Register to vote",
  "final_url": "https://www.electdavidfabrikant.com/vote",
- "paid_for_by": null,
+ "fingerprint": "1e46ab8e4c36101dbf0ba2c25a132b2ddc51e3e4",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Voter Registration Information",
  "years_mentioned": [
   "2026"

@@ -1,13 +1,50 @@
 [
-"https://averyforkansas.com/",
-"https://averyforkansas.com/about",
-"https://averyforkansas.com/contact",
-"https://averyforkansas.com/donate",
-"https://averyforkansas.com/privacy-policy",
-"https://averyforkansas.com/volunteer",
-"https://designedtorun.com/",
-"https://facebook.com/averyrowlandforkansas",
-"https://instagram.com/avery_for_kansas",
-"https://tiktok.com/@kanstransan",
-"https://vivid-focus.com/"
+{
+"text": "About",
+"href": "https://www.averyforkansas.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.averyforkansas.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://www.averyforkansas.com/donate"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.averyforkansas.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Vivid Focus",
+"href": "https://vivid-focus.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.averyforkansas.com/volunteer"
+},
+{
+"text": "[image: Avery Rowland for Kansas]",
+"href": "https://www.averyforkansas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/averyrowlandforkansas"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/avery_for_kansas"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@kanstransan"
+},
+{
+"text": "averyforkansas@gmail.com",
+"href": "mailto:averyforkansas@gmail.com"
+}
 ]

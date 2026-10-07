@@ -1,22 +1,86 @@
 [
-"https://facebook.com/KatrinaForTexas",
-"https://instagram.com/katrinafortexas",
-"https://katrinafortexas.com/",
-"https://katrinafortexas.com/about",
-"https://katrinafortexas.com/conservative-accomplishments-of-the-89th-legislature",
-"https://katrinafortexas.com/endorsements",
-"https://katrinafortexas.com/get-involved",
-"https://katrinafortexas.com/issues",
-"https://katrinafortexas.com/news",
-"https://katrinafortexas.com/newsletter",
-"https://katrinafortexas.com/privacy-policy",
-"https://katrinafortexas.com/wp-content/uploads/2024/10/DonateForm_KatrinaPierson.pdf",
-"https://secure.winred.com/katrina-pierson-campaign/donate",
-"https://secure.winred.com/katrina-pierson-campaign/donate?amount=100",
-"https://secure.winred.com/katrina-pierson-campaign/donate?amount=25",
-"https://secure.winred.com/katrina-pierson-campaign/donate?amount=50",
-"https://secure.winred.com/katrina-pierson-campaign/donate?amount=other",
-"https://secure.winred.com/katrina-pierson-campaign/storefront",
-"https://tickettailor.com/events/katrinapiersonfortexas",
-"https://x.com/katrinapierson"
+{
+"text": "$100.00",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate?amount=100"
+},
+{
+"text": "$25.00",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate?amount=25"
+},
+{
+"text": "$50.00",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://katrinafortexas.com/about/"
+},
+{
+"text": "Accomplishments",
+"href": "https://katrinafortexas.com/conservative-accomplishments-of-the-89th-legislature/"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate"
+},
+{
+"text": "Donate By Mail",
+"href": "https://katrinafortexas.com/wp-content/uploads/2024/10/DonateForm_KatrinaPierson.pdf"
+},
+{
+"text": "Endorsements",
+"href": "https://katrinafortexas.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://www.tickettailor.com/events/katrinapiersonfortexas"
+},
+{
+"text": "Follow",
+"href": "https://www.facebook.com/KatrinaForTexas/"
+},
+{
+"text": "Follow",
+"href": "https://www.instagram.com/katrinafortexas/"
+},
+{
+"text": "Follow",
+"href": "https://x.com/katrinapierson"
+},
+{
+"text": "Follow",
+"href": "mailto:info@katrinafortexas.com"
+},
+{
+"text": "Get Involved",
+"href": "https://katrinafortexas.com/get-involved/"
+},
+{
+"text": "Issues",
+"href": "https://katrinafortexas.com/issues/"
+},
+{
+"text": "News",
+"href": "https://katrinafortexas.com/news/"
+},
+{
+"text": "Newsletter",
+"href": "https://katrinafortexas.com/newsletter/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/katrina-pierson-campaign/donate?amount=other"
+},
+{
+"text": "Privacy Policy",
+"href": "https://katrinafortexas.com/privacy-policy"
+},
+{
+"text": "Store",
+"href": "https://secure.winred.com/katrina-pierson-campaign/storefront/"
+},
+{
+"text": "[image: Katrina Pierson For Texas State Representative]",
+"href": "https://katrinafortexas.com/"
+}
 ]

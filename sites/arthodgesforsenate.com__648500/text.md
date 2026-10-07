@@ -1,12 +1,10 @@
-FAITH FAMILY FREEDOM FUTURE
-"Art Hodges is a Voice of Reason needed in the California Senate”
-...
+0 Skip to Content Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Meet Art About Art Candidate Comparison Photo Gallery 250 Club Media News Events Issues Endorsements District Map Get Involved English DONATE Open Menu Close Menu Home Folder: Meet Art Back About Art Candidate Comparison Photo Gallery 250 Club Folder: Media Back News Events Issues Endorsements District Map Get Involved English Back DONATE FAITH FAMILY FREEDOM FUTURE "Art Hodges is a Voice of Reason needed in the California Senate” ...
 "Art Hodges is a Voice of Reason needed in the California Senate” ...
-Meet Art Hodges
-A Voice of Reason needed in the CA Senate.
+"Art Hodges is a Voice of Reason needed in the California Senate” ...
+Meet Art Hodges A Voice of Reason needed in the CA Senate.
 Art Hodges is a proven leader, from College Class President to School Principal, to College Chancellor, to Pastor, and now Bishop overseeing 350 Churches, Pastors and Ministers in Southern California, he continues to serve the greater Community of Southern California and beyond.
 In 2020-21 he successfully led the effort against Governor Gavin Newsom’s tyrannical response to COVID, winning two decisive US Supreme Court rulings to reopen Houses of Worship once and for all.
 Now he is pledging his life and leadership skills to bring a Voice of Reason to California’s capital, representing the nearly 1 million people of Southern California’s Senate District 18.
-Get Involved
-Join us and help our campaign!
-Nick Shirley & Art Hodges @ CA State Capitol
+Learn more View fullsize CLICK ON IMAGE TO WATCH THE VIDEO MESSAGE FROM ART HODGES Get Involved Join us and help our campaign!
+GO HERE TO JOIN OUR TEAM Nick Shirley & Art Hodges @ CA State Capitol LATEST NEWS Latest News September 20, 2026 Art Hodges Visits Ocean View Church in San Diego September 20, 2026 Read more → September 20, 2026 September 13, 2026 Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future September 13, 2026 Read more → September 13, 2026 September 12, 2026 Honored to address the SoCal IRONMEN Conference — 600 strong September 12, 2026 Read more → September 12, 2026 Contact Us: info@arthodgesforsenate.com DONATE CALIFORNIA ISSUES Privacy Policy Follow Us on Social Media CONNECT WITH US Paid for by Art Hodges for Senate 2026 FPPC ID: 1482587 Copyright © #.
+All Rights Reserved

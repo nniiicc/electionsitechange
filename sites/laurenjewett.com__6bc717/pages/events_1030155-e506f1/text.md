@@ -1,12 +1,10 @@
-← All events
-Phone Bank for Lauren Jewett
-- Where
-- Virtual event
-About this event
-Join us for a virtual phone bank session to support Lauren Jewett's campaign for Louisiana's 1st Congressional District!
+Skip to main content CONTRIBUTE Lauren Jewett for Congress - Return to homepage Open main navigation menu Meet Lauren Issues District & Voting Endorsements Events Volunteer CONTRIBUTE ← All events Phone Bank for Lauren Jewett Available times Thursday, Sep 10, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Sep 15, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Sep 17, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Sep 22, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Sep 24, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Sep 29, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Oct 1, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Oct 6, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Oct 8, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Oct 13, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Oct 15, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Oct 20, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Oct 22, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Oct 27, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Thursday, Oct 29, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Tuesday, Nov 3, 6PM - 8PM — sign up on Mobilize (opens in a new tab) Where Virtual event About this event Join us for a virtual phone bank session to support Lauren Jewett's campaign for Louisiana's 1st Congressional District!
 Lauren is a special education teacher, community leader, and the only Democrat running for Congress against House Majority Leader Steve Scalise.
 Team Lauren is working hard to reach as many voters as possible before the election and we need you help to hit our goal.
 Every conversation can make a difference.
 No experience necessary.
 You can make calls to voters across the district from the comfort of your own home.
 Let’s make some calls and win this together!
+RSVP on Mobilize (opens in a new tab) STAY IN TOUCH Email Zip JOIN US Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Lauren Jewett for Congress Meet Lauren Issues District & Voting Endorsements Events Volunteer Yard Sign Contact Paid for by the Committee to Elect Lauren Jewett for Congress © Copyright #.
+All rights reserved. · Privacy Policy · Accessibility Chip In Now Every contribution makes a difference in our grassroots campaign $ 25 $ 50 $ 100 $ 250 $ 25 $ 50 $ 100 $ 250

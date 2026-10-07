@@ -1,7 +1,4 @@
-Protect Personal Choices
-Updated: Mar 22
-Let People Make Their Own Decisions
-Abortion.
+top of page Home Meet Robb Endorsements Endorsements Our Values Arkansas' 3rd District Store Get Involved Menu Close DONATE Protect Personal Choices Jun 2, 2025 2 min read Updated: Mar 22 Let People Make Their Own Decisions Abortion.
 Gender-affirming care.
 Personal medical choices.
 These are real decisions people are making right now.
@@ -17,18 +14,15 @@ But they are personal.
 And that’s exactly why the government shouldn’t be making these decisions.
 I’m running for Congress because I believe your life is your own.
 Decisions about your body, your family, and your health belong to you, not to politicians.
-Right now, that freedom is being taken away.Not by accident, but by design.
+Right now, that freedom is being taken away.
+Not by accident, but by design.
 In Arkansas and across the country, lawmakers are stepping into the most personal parts of people’s lives.
 They are banning abortion, even in situations where the consequences are severe.
 They are blocking access to gender-affirming care, even when families and doctors agree on what’s needed.
 They are turning private decisions into public battles.
 That’s not compassion.
 That’s control.
-Here’s what I believe:
-- Abortion should be safe and legal, and decisions should be made by patients, their doctors, and their faith, not politicians
-- Gender-affirming care should be available to those who need it, guided by families and medical professionals
-- People deserve privacy, respect, and the freedom to make deeply personal decisions without interference
-You don’t have to agree with every decision someone makes to believe they should be free to make it.
+Here’s what I believe: Abortion should be safe and legal, and decisions should be made by patients, their doctors, and their faith, not politicians Gender-affirming care should be available to those who need it, guided by families and medical professionals People deserve privacy, respect, and the freedom to make deeply personal decisions without interference You don’t have to agree with every decision someone makes to believe they should be free to make it.
 That’s what freedom means.
 As a pastor, I’ve walked with people through some of the hardest moments of their lives.
 I’ve seen the weight of these decisions up close.
@@ -47,4 +41,4 @@ Not just people who make the choices we would make.Not just people who share our
 Everyone.
 Because freedom isn’t about agreement.
 It’s about autonomy.
-And no one should be forced to live under someone else’s decisions about their own body or their own life.
+And no one should be forced to live under someone else’s decisions about their own body or their own life. info@robbforcongress.com PO Box 414 Springdale AR 72765 PAID FOR BY ROBB FOR CONGRESS. © # by Robb for Congress CONTACT US Home Meet Robb Endorsements Our Values Arkansas' 3rd District Store Get Involved bottom of page

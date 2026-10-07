@@ -1,4 +1,2 @@
-Make an
-impact today
-When you choose to give, you become part of something bigger—something powerful.
-impact today
+0 Skip to Content Home Donate Gallery Contact Open Menu Close Menu Home Donate Gallery Contact Open Menu Close Menu Home Donate Gallery Contact Make an impact #ago When you choose to give, you become part of something bigger—something powerful.
+Donate Mikulski for Minnesota House District 53B PO Box 2012 Inver Grove Heights MN 55076 612-282-6054 Paid for by Mikulski 4 MN House mikulski@mikulski4house.com

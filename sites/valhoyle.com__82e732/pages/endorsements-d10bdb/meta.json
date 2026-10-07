@@ -1,7 +1,9 @@
 {
  "description": "Discover the elected endorsers, community leaders, and organizations supporting Val for Congress, and add your name to the list: <img ....",
  "final_url": "https://www.valhoyle.com/endorsements/",
- "paid_for_by": null,
+ "fingerprint": "12203ae7f2eada8fa68bcce92190431e339c0a11",
+ "format": 3,
+ "paid_for_by": "authorized by Val Hoyle for Congress",
  "title": "Endorsements | Val Hoyle for Congress",
  "years_mentioned": [
   "2026"

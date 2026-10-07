@@ -1,5 +1,4 @@
-Endorsed by Executive Councilor Joe Kenney
-I first met State Representative Natalie Wells in 2016 when she was representing the floterial district of Andover, Danbury, Salisbury, Warner and Webster.
+Natalie Wells About Issues Endorsements Contact Donate ← Back to all posts June 30, 2026 Endorsed by Executive Councilor Joe Kenney I first met State Representative Natalie Wells in 2016 when she was representing the floterial district of Andover, Danbury, Salisbury, Warner and Webster.
 Since Andover and Danbury were in my Executive Council district at the time, we were able to work together effectively and successfully.
 In one dramatic instance we worked together to help an Andover family in distress.
 While in the process of building their new home, they were told by state officials they were likely to have to tear it down.
@@ -8,7 +7,6 @@ Natalie is now running for state representative in District 8, which encompasses
 Her dedication to helping families and her follow-through are what she enjoys doing the most.
 If she doesn't have an answer right away, she knows where in state government to get those answers and to resolve constituent conflicts.
 I enthusiastically ask you to support Natalie and return her to the State House by voting for her on Tuesday, September 8th and Tuesday, November 3rd.
-Sincerely,
-Joe Kenney
-Executive Councilor, District 1
-Wakefield, NH
+Sincerely, Joe Kenney Executive Councilor, District 1 Wakefield, NH ← Back to all posts Natalie Wells Republican for State Representative Merrimack 8 Quick Links About Natalie Key Issues Endorsements Contact Get in Touch Email: nataliewells4nh@gmail.com Mail: P.O.
+Box 213, Warner, NH 03278 Paid for by Natalie Wells, PO Box 213, Warner, NH, 03278 © # Natalie Wells.
+All rights reserved.

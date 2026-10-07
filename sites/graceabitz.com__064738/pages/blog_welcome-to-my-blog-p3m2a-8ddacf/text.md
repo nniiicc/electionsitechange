@@ -1,15 +1,17 @@
-Superintendent Meeting at Hortonville HS
-Today I sat down with the HASD Superintendent, Todd Timm, to listen and learn about what the district could offer to upcoming students.
+0 Skip to Content Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Thank you, District 56 Voters!
+General Election - November 3 Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Open Menu Close Menu Contact Assembly 56 Register to Vote Bio Blog Donate with ActBlue!
+Superintendent Meeting at Hortonville HS May 7 Written By Grace Abitz Today I sat down with the HASD Superintendent, Todd Timm, to listen and learn about what the district could offer to upcoming students.
 HASD serves approximately 4281 students from many surrounding rural communities.
-The HASD website is highly informative if you want to learn more about their student services and support systems.
-(https://www.hasd.org/district/) We discussed two poignant topics.
+The HASD website is highly informative if you want to learn more about their student services and support systems. ( https://www.hasd.org/district/ ) We discussed two poignant topics.
 The evolution of their mental health services came first.
 And proper funding in public education is an investment in long-term solutions.
-About 12 years ago after the community lost a student to suicide, educators along with staff asked, “How are we being part of the solution?” This community has grappled with student loss time and again, whether it be from suicide or other unfortunate events.
+About #ago after the community lost a student to suicide, educators along with staff asked, “How are we being part of the solution?” This community has grappled with student loss time and again, whether it be from suicide or other unfortunate events.
 Todd shared that early on therapists were placed in each of the 6 district buildings to remove the transportation barrier to needed support.
 Programming known as “Sources of Strength” that is student led and guided by teachers was implemented in 2015.
-HHS was one of the first schools to adopt the initiative in Wisconsin.
-Over time, their approach is ever-adapting.
+HHS was one of the first schools to adopt the initiative in Wisconsin. ‍ ‍ Over time, their approach is ever-adapting.
 As the 2026 schoolyear concludes, campaigns for identifying healthy and trusted adults are in motion.
 Conversations surrounding Alcohol and Other Drugs, known as AODs, and noting risky behavior are mechanisms to minimize extreme outcomes.
 The effects of social media, the importance of sleep, and food security for all students and families will continue to influence mental health in our community.
@@ -47,3 +49,6 @@ If the family’s financial situation changes for the better, it doesn’t matte
 Fraud and abuse in plain site.
 Additionally, private school students are not required to participate in state testing, so there is no way to track academic data points.
 Students currently on vouchers need a plan to be phased off of them and be reliant on private funds for their private education.
+Grace Abitz https://www.graceabitz.com Previous Previous Everlee Wohongi, Hortonville roots.
+Victim of rogue ICE arrest.
+Next Next Fox Cities Youth Rugby Made with Squarespace

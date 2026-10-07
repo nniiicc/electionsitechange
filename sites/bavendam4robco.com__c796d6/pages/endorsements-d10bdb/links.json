@@ -1,27 +1,154 @@
 [
-"https://aftynbehn.com/",
-"https://bavendam4robco.com/",
-"https://bavendam4robco.com/about",
-"https://bavendam4robco.com/contact",
-"https://bavendam4robco.com/events",
-"https://bavendam4robco.com/issues",
-"https://bavendam4robco.com/news",
-"https://bavendam4robco.com/volunteer",
-"https://bavendam4robco.com/vote",
-"https://bing.com/ck/a?p=81d6455f9dfe19f707e9e403ce63a743d9b5f1018032a15801c099c59c50bed3JmltdHM9MTc5MDU1MzYwMA&ptn=3&ver=2&hsh=4&fclid=109dcea4-5e7f-683d-292c-d90a5a7f665f&psq=howard+bradley&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2hvd2FyZC5icmFkbGV5Ljkv",
-"https://changetn.vote/",
-"https://dardenforcongress.com/",
-"https://designedtorun.com/",
-"https://dixie4tn.com/",
-"https://facebook.com/bavendam4robco",
-"https://gunsensevoter.org/candidates/d587284459a68a2aac10b1afc520900f962faa6b90405d864565d12fb53d95d6",
-"https://hollowayfortn.com/",
-"https://instagram.com/bavendam4robco",
-"https://mentalhealthnow.us/",
-"https://patientsoverprofits.org/",
-"https://sales4congress.com/",
-"https://secure.actblue.com/donate/tamara-bavendam-1",
-"https://thetennesseereport.netlify.app/",
-"https://tiktok.com/@bavendam4robco",
-"https://tnaflcio.org/"
+{
+"text": "About",
+"href": "https://www.bavendam4robco.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.bavendam4robco.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/tamara-bavendam-1"
+},
+{
+"text": "Events",
+"href": "https://www.bavendam4robco.com/events"
+},
+{
+"text": "Home",
+"href": "https://www.bavendam4robco.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.bavendam4robco.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.bavendam4robco.com/news"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "View More",
+"href": "https://changetn.vote/"
+},
+{
+"text": "View More",
+"href": "https://gunsensevoter.org/candidates/d587284459a68a2aac10b1afc520900f962faa6b90405d864565d12fb53d95d6/"
+},
+{
+"text": "View More",
+"href": "https://hollowayfortn.com/"
+},
+{
+"text": "View More",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "View More",
+"href": "https://patientsoverprofits.org/"
+},
+{
+"text": "View More",
+"href": "https://sales4congress.com/"
+},
+{
+"text": "View More",
+"href": "https://thetennesseereport.netlify.app/"
+},
+{
+"text": "View More",
+"href": "https://tnaflcio.org/"
+},
+{
+"text": "View More",
+"href": "https://www.aftynbehn.com/"
+},
+{
+"text": "View More",
+"href": "https://www.bing.com/ck/a?%21=&p=81d6455f9dfe19f707e9e403ce63a743d9b5f1018032a15801c099c59c50bed3JmltdHM9MTc5MDU1MzYwMA&ptn=3&ver=2&hsh=4&fclid=109dcea4-5e7f-683d-292c-d90a5a7f665f&psq=howard+bradley&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2hvd2FyZC5icmFkbGV5Ljkv"
+},
+{
+"text": "View More",
+"href": "https://www.dardenforcongress.com/"
+},
+{
+"text": "View More",
+"href": "https://www.dixie4tn.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bavendam4robco.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bavendam4robco.com/vote"
+},
+{
+"text": "[image: Aftyn Behn]Aftyn BehnState Representative",
+"href": "https://www.aftynbehn.com/"
+},
+{
+"text": "[image: Darden Copeland]Darden CopelandCongressional candidate",
+"href": "https://www.dardenforcongress.com/"
+},
+{
+"text": "[image: Howard Bradley]Howard BradleyFmr. Robertson couty mayor",
+"href": "https://www.bing.com/ck/a?%21=&p=81d6455f9dfe19f707e9e403ce63a743d9b5f1018032a15801c099c59c50bed3JmltdHM9MTc5MDU1MzYwMA&ptn=3&ver=2&hsh=4&fclid=109dcea4-5e7f-683d-292c-d90a5a7f665f&psq=howard+bradley&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2hvd2FyZC5icmFkbGV5Ljkv"
+},
+{
+"text": "[image: Joshua Sales]Joshua Salescongressional candidate",
+"href": "https://sales4congress.com/"
+},
+{
+"text": "[image: Saletta Holloway]Saletta HollowayFormer councilwoman",
+"href": "https://hollowayfortn.com/"
+},
+{
+"text": "[image: Tamara Bavendam For State House]",
+"href": "https://www.bavendam4robco.com/"
+},
+{
+"text": "[image: Vincent Dixie]Vincent Dixiestate representative",
+"href": "https://www.dixie4tn.com/"
+},
+{
+"text": "[no text]",
+"href": "https://changetn.vote/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://gunsensevoter.org/candidates/d587284459a68a2aac10b1afc520900f962faa6b90405d864565d12fb53d95d6/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://mentalhealthnow.us/"
+},
+{
+"text": "[no text]",
+"href": "https://patientsoverprofits.org/"
+},
+{
+"text": "[no text]",
+"href": "https://thetennesseereport.netlify.app/"
+},
+{
+"text": "[no text]",
+"href": "https://tiktok.com/@bavendam4robco"
+},
+{
+"text": "[no text]",
+"href": "https://tnaflcio.org/"
+}
 ]

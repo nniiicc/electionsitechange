@@ -1,18 +1,70 @@
 [
-"https://action.electadamsmith.com/a/endorse",
-"https://action.electadamsmith.com/a/volunteer",
-"https://electadamsmith.com/",
-"https://electadamsmith.com/2024-endorsements",
-"https://electadamsmith.com/?lang=es",
-"https://electadamsmith.com/conozca-a-adam?lang=es",
-"https://electadamsmith.com/contactanos?lang=es",
-"https://electadamsmith.com/contribute",
-"https://electadamsmith.com/endorsements",
-"https://electadamsmith.com/endosos?lang=es",
-"https://electadamsmith.com/prioridades?lang=es",
-"https://facebook.com/adamsmithforcongress",
-"https://instagram.com/electadamsmith/reels?hl=en",
-"https://linkedin.com/in/adam-smith-71218048",
-"https://x.com/electadamsmith?lang=en",
-"https://youtube.com/@AdamSmithforCongress"
+{
+"text": "Conozca a Adam",
+"href": "https://electadamsmith.com/conozca-a-adam/?lang=es"
+},
+{
+"text": "Contactános",
+"href": "https://electadamsmith.com/contactanos/?lang=es"
+},
+{
+"text": "Contribuye",
+"href": "https://electadamsmith.com/contribute"
+},
+{
+"text": "Endosa a Adam",
+"href": "https://action.electadamsmith.com/a/endorse"
+},
+{
+"text": "Endosos",
+"href": "https://electadamsmith.com/endosos/?lang=es"
+},
+{
+"text": "English",
+"href": "https://electadamsmith.com/endorsements/"
+},
+{
+"text": "Español",
+"href": "https://electadamsmith.com/endosos/?lang=es"
+},
+{
+"text": "Prioridades",
+"href": "https://electadamsmith.com/prioridades/?lang=es"
+},
+{
+"text": "Página Principal",
+"href": "https://electadamsmith.com/?lang=es"
+},
+{
+"text": "View Adam’s 2024 endorsements here.",
+"href": "https://electadamsmith.com/2024-endorsements/"
+},
+{
+"text": "Voluntariado",
+"href": "https://action.electadamsmith.com/a/volunteer"
+},
+{
+"text": "[image: Adam Smith for Washington]",
+"href": "https://electadamsmith.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/adamsmithforcongress/"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/electadamsmith/reels/?hl=en"
+},
+{
+"text": "[image]",
+"href": "https://www.linkedin.com/in/adam-smith-71218048/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/@AdamSmithforCongress"
+},
+{
+"text": "[image]",
+"href": "https://x.com/electadamsmith?lang=en"
+}
 ]

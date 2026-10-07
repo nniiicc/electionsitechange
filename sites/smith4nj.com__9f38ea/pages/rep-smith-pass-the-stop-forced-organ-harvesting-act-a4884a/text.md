@@ -1,9 +1,7 @@
-Thwart Xi Jinping’s bid for immortality
-By Rep.
-Chris Smith – Tuesday, May 12, 2026
-OPINION:
-As President Trump prepares to meet General Secretary Xi Jinping in China, Americans should remember that the Chinese Communist Party stands at the center of a pernicious global industry that treats the human body as inventory.
-It generates as much as $1.7 billion a year, hidden behind shady networks of the corrupt and criminal and fueled by the oldest imbalance in medicine: Desperate patients need organs, and there are never enough lawful, voluntary donations to meet demand.
+Skip to content About Endorsements Election Information News Volunteer Contact Donate Rep.
+Smith: Pass the Stop Forced Organ Harvesting Act Thwart Xi Jinping’s bid for immortality By Rep.
+Chris Smith – Tuesday, May 12, 2026 OPINION: As President Trump prepares to meet General Secretary Xi Jinping in China , Americans should remember that the Chinese Communist Party stands at the center of a pernicious global industry that treats the human body as inventory.
+It generates as much as $# billion a year, hidden behind shady networks of the corrupt and criminal and fueled by the oldest imbalance in medicine: Desperate patients need organs, and there are never enough lawful, voluntary donations to meet demand.
 In that shortage, traffickers offer what ethical medicine cannot provide: organs on demand, fast matches, short waits and no hard questions about where that kidney, liver, heart or lung came from.
 This market does not serve the powerless.
 It feeds on them.
@@ -13,7 +11,7 @@ Brokers launder the paperwork.
 Complicit medical systems provide the operating rooms.
 Criminal syndicates find the donors.
 Corrupt officials look the other way — or, worse, participate.
-When the state controls the hospitals, prisons, police and data, as in communist China, a human being can disappear into the system or get buried as a nameless statistic.
+When the state controls the hospitals, prisons, police and data, as in communist China , a human being can disappear into the system or get buried as a nameless statistic.
 Anyone who doubts that lives can be sacrificed for profit and longevity has only to listen to the conversation caught on a hot mic in Beijing in September.
 As Mr.
 Xi, Russian ruler Vladimir Putin and North Korean dictator Kim Jong-un walked together toward a reviewing stand, the world heard an unguarded exchange about organ transplants, biotechnology and possibility of living to 150.
@@ -21,7 +19,7 @@ It was not just macabre small talk among aging autocrats.
 It was a glimpse into a politics that treats human beings as interchangeable parts and power as something to be medically engineered to last forever.
 Autocrats dream of permanence, but forced organ harvesting is not healing.
 It is murder masquerading as medicine.
-Nowhere is the evidence more alarming than in China.
+Nowhere is the evidence more alarming than in China .
 For years, researchers, physicians, journalists, survivors and human rights advocates have warned of a transplant apparatus in China built on secrecy, speed and state control.
 Wait times are measured in days, and there are “on-demand” matches and a bureaucracy that blocks independent auditors.
 The earliest, most persistent allegations centered on prisoners of conscience, especially Falun Gong practitioners, who were detained, dehumanized and allegedly turned into a captive organ pool.
@@ -55,7 +53,11 @@ No one wants a Xi Jinping or Vladimir Putin to live forever.
 Passage of the Stop Forced Organ Harvesting Act will make it clear that the United States will not tolerate a global transplant marketplace built on coercion.
 Tyrants will continue to seek immortality, but not with our expertise or money.
 Not with a dollar of American complicity.
-- Rep.
-Chris Smith, New Jersey Republican, is the co-chair of the Congressional-Executive Commission on Chinaand the Tom Lantos Human Rights Commission.
+Rep.
+Chris Smith, New Jersey Republican, is the co-chair of the Congressional-Executive Commission on China and the Tom Lantos Human Rights Commission.
 He is also chair of the Africa subcommittee of the House Foreign Affairs Committee.
-Pass the Stop Forced Organ Harvesting Act
+Pass the Stop Forced Organ Harvesting Act Post navigation Rep.
+Smith secures federal grant for new police vehicles in Manchester WATCH: Rep.
+Smith delivers remarks for the NJ Coalition Against Human Trafficking’s 2026 Law Enforcement Conference Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

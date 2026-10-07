@@ -1,48 +1,310 @@
 [
-"https://congress.gov/bill/116th-congress/house-bill/2398?q=%7B%22search%22%3A%22hr2398%22%7D",
-"https://congress.gov/bill/116th-congress/house-bill/4374",
-"https://congress.gov/bill/116th-congress/house-bill/5119",
-"https://congress.gov/bill/116th-congress/house-bill/5377",
-"https://congress.gov/bill/116th-congress/house-bill/550",
-"https://congress.gov/bill/116th-congress/house-bill/5553",
-"https://facebook.com/johngaramendi",
-"https://flickr.com/photos/38900629@N06",
-"https://garamendi.org/",
-"https://garamendi.org/about",
-"https://garamendi.org/contact",
-"https://garamendi.org/contribute",
-"https://garamendi.org/contribute?am=100",
-"https://garamendi.org/contribute?am=1000",
-"https://garamendi.org/contribute?am=25",
-"https://garamendi.org/contribute?am=3300",
-"https://garamendi.org/contribute?am=50",
-"https://garamendi.org/contribute?am=500",
-"https://garamendi.org/events",
-"https://garamendi.org/in-the-district",
-"https://garamendi.org/issues",
-"https://garamendi.org/join",
-"https://garamendi.org/news",
-"https://garamendi.org/news/garamendi-files-re-election-californias-3rd-congressional-district",
-"https://garamendi.org/news/garamendi-introduces-oil-rail-safety-bill",
-"https://garamendi.org/news/garamendi-secures-win-california-peach-growers-tariffs-european-union-canned-peaches-and-mixed",
-"https://garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians",
-"https://garamendi.org/news/garamendi-votes-pass-usmca-support-californias-farmers-and-workers",
-"https://garamendi.org/news/garamendi-votes-reduce-veteran-homelessness",
-"https://garamendi.org/news/garamendi-zeldin-reintroduce-aircraft-maintenance-outsourcing-disclosure-act",
-"https://garamendi.org/news/garamendis-world-war-ii-merchant-marine-congressional-gold-medal-act-passes-house",
-"https://garamendi.org/news/house-committee-passes-garamendis-aircraft-maintenance-outsourcing-disclosure-act",
-"https://garamendi.org/news?page=0",
-"https://garamendi.org/news?page=10",
-"https://garamendi.org/news?page=11",
-"https://garamendi.org/news?page=12",
-"https://garamendi.org/news?page=16",
-"https://garamendi.org/news?page=4",
-"https://garamendi.org/news?page=5",
-"https://garamendi.org/news?page=6",
-"https://garamendi.org/news?page=7",
-"https://garamendi.org/news?page=8",
-"https://garamendi.org/news?page=9",
-"https://scottpeters.house.gov/",
-"https://twitter.com/JohnGaramendi",
-"https://youtube.com/user/JohnGaramendi/featured"
+{
+"text": "$100",
+"href": "https://www.garamendi.org/contribute?am=100"
+},
+{
+"text": "$1000",
+"href": "https://www.garamendi.org/contribute?am=1000"
+},
+{
+"text": "$25",
+"href": "https://www.garamendi.org/contribute?am=25"
+},
+{
+"text": "$3300",
+"href": "https://www.garamendi.org/contribute?am=3300"
+},
+{
+"text": "$50",
+"href": "https://www.garamendi.org/contribute?am=50"
+},
+{
+"text": "$500",
+"href": "https://www.garamendi.org/contribute?am=500"
+},
+{
+"text": "About John",
+"href": "https://www.garamendi.org/about"
+},
+{
+"text": "Agriculture",
+"href": "https://www.garamendi.org/issues#agriculture"
+},
+{
+"text": "Contact the Campaign",
+"href": "https://www.garamendi.org/contact"
+},
+{
+"text": "Contribute",
+"href": "https://www.garamendi.org/contribute"
+},
+{
+"text": "Current page 9",
+"href": "https://www.garamendi.org/news?page=8"
+},
+{
+"text": "Education",
+"href": "https://www.garamendi.org/issues#education"
+},
+{
+"text": "Environment",
+"href": "https://www.garamendi.org/issues#environment"
+},
+{
+"text": "Events",
+"href": "https://www.garamendi.org/events"
+},
+{
+"text": "First page « First",
+"href": "https://www.garamendi.org/news?page=0"
+},
+{
+"text": "Garamendi Files for Re-Election to California’s 3rd Congressional District",
+"href": "https://www.garamendi.org/news/garamendi-files-re-election-californias-3rd-congressional-district"
+},
+{
+"text": "Garamendi Introduces Oil-By-Rail Safety Bill",
+"href": "https://www.garamendi.org/news/garamendi-introduces-oil-rail-safety-bill"
+},
+{
+"text": "Garamendi Secures Win for California Peach Growers with Tariffs on European Union Canned Peaches and Mixed Fruit",
+"href": "https://www.garamendi.org/news/garamendi-secures-win-california-peach-growers-tariffs-european-union-canned-peaches-and-mixed"
+},
+{
+"text": "Garamendi Votes to Eliminate Cap on the State and Local Tax Deduction That’s Harming Californians",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "Garamendi Votes to Pass USMCA to Support California’s Farmers and Workers",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-usmca-support-californias-farmers-and-workers"
+},
+{
+"text": "Garamendi Votes to Reduce Veteran Homelessness",
+"href": "https://www.garamendi.org/news/garamendi-votes-reduce-veteran-homelessness"
+},
+{
+"text": "Garamendi, Zeldin Reintroduce Aircraft Maintenance Outsourcing Disclosure Act",
+"href": "https://www.garamendi.org/news/garamendi-zeldin-reintroduce-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "Garamendi’s World War II Merchant Marine Congressional Gold Medal Act Passes House",
+"href": "https://www.garamendi.org/news/garamendis-world-war-ii-merchant-marine-congressional-gold-medal-act-passes-house"
+},
+{
+"text": "H.R.4374",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/4374"
+},
+{
+"text": "H.R.5119",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/5119"
+},
+{
+"text": "H.R.5553",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/5553"
+},
+{
+"text": "Health Care",
+"href": "https://www.garamendi.org/issues#health-care"
+},
+{
+"text": "House Committee Passes Garamendi’s Aircraft Maintenance Outsourcing Disclosure Act",
+"href": "https://www.garamendi.org/news/house-committee-passes-garamendis-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "In the District",
+"href": "https://www.garamendi.org/in-the-district"
+},
+{
+"text": "Issues",
+"href": "https://www.garamendi.org/issues"
+},
+{
+"text": "January 25, 2020",
+"href": "https://www.garamendi.org/news/garamendi-introduces-oil-rail-safety-bill"
+},
+{
+"text": "January 25, 2020",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "January 25, 2020",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-usmca-support-californias-farmers-and-workers"
+},
+{
+"text": "January 25, 2020",
+"href": "https://www.garamendi.org/news/garamendi-votes-reduce-veteran-homelessness"
+},
+{
+"text": "Jobs",
+"href": "https://www.garamendi.org/issues#jobs"
+},
+{
+"text": "John Garamendi Facebook",
+"href": "https://www.facebook.com/johngaramendi"
+},
+{
+"text": "John Garamendi Flickr",
+"href": "https://www.flickr.com/photos/38900629@N06/"
+},
+{
+"text": "John Garamendi Twitter",
+"href": "https://twitter.com/JohnGaramendi"
+},
+{
+"text": "John Garamendi YouTube",
+"href": "https://www.youtube.com/user/JohnGaramendi/featured"
+},
+{
+"text": "Join",
+"href": "https://www.garamendi.org/join"
+},
+{
+"text": "Last page Last »",
+"href": "https://www.garamendi.org/news?page=16"
+},
+{
+"text": "Merchant Mariners of World War II Congressional Gold Medal Act of 2019",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/550"
+},
+{
+"text": "Military Affairs and Foreign Relations",
+"href": "https://www.garamendi.org/issues#military-affairs-and-foreign-relations"
+},
+{
+"text": "News",
+"href": "https://www.garamendi.org/news"
+},
+{
+"text": "Next page Next ›",
+"href": "https://www.garamendi.org/news?page=9"
+},
+{
+"text": "November 22, 2019",
+"href": "https://www.garamendi.org/news/garamendi-files-re-election-californias-3rd-congressional-district"
+},
+{
+"text": "November 22, 2019",
+"href": "https://www.garamendi.org/news/house-committee-passes-garamendis-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "October 11, 2019",
+"href": "https://www.garamendi.org/news/garamendi-secures-win-california-peach-growers-tariffs-european-union-canned-peaches-and-mixed"
+},
+{
+"text": "October 11, 2019",
+"href": "https://www.garamendi.org/news/garamendi-zeldin-reintroduce-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "October 11, 2019",
+"href": "https://www.garamendi.org/news/garamendis-world-war-ii-merchant-marine-congressional-gold-medal-act-passes-house"
+},
+{
+"text": "Page 10",
+"href": "https://www.garamendi.org/news?page=9"
+},
+{
+"text": "Page 11",
+"href": "https://www.garamendi.org/news?page=10"
+},
+{
+"text": "Page 12",
+"href": "https://www.garamendi.org/news?page=11"
+},
+{
+"text": "Page 13",
+"href": "https://www.garamendi.org/news?page=12"
+},
+{
+"text": "Page 5",
+"href": "https://www.garamendi.org/news?page=4"
+},
+{
+"text": "Page 6",
+"href": "https://www.garamendi.org/news?page=5"
+},
+{
+"text": "Page 7",
+"href": "https://www.garamendi.org/news?page=6"
+},
+{
+"text": "Page 8",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "Previous page ‹ Previous",
+"href": "https://www.garamendi.org/news?page=7"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-files-re-election-californias-3rd-congressional-district"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-introduces-oil-rail-safety-bill"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-secures-win-california-peach-growers-tariffs-european-union-canned-peaches-and-mixed"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-eliminate-cap-state-and-local-tax-deduction-thats-harming-californians"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-pass-usmca-support-californias-farmers-and-workers"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-votes-reduce-veteran-homelessness"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendi-zeldin-reintroduce-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/garamendis-world-war-ii-merchant-marine-congressional-gold-medal-act-passes-house"
+},
+{
+"text": "READ MORE",
+"href": "https://www.garamendi.org/news/house-committee-passes-garamendis-aircraft-maintenance-outsourcing-disclosure-act"
+},
+{
+"text": "Rep. Scott Peters",
+"href": "https://scottpeters.house.gov/"
+},
+{
+"text": "Restoring Tax Fairness for States and Localities Act",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/5377"
+},
+{
+"text": "Seniors",
+"href": "https://www.garamendi.org/issues#seniors"
+},
+{
+"text": "Social Justice",
+"href": "https://www.garamendi.org/issues#social-justice"
+},
+{
+"text": "Transportation",
+"href": "https://www.garamendi.org/issues#transportation"
+},
+{
+"text": "Veteran HOUSE Act of 2020",
+"href": "https://www.congress.gov/bill/116th-congress/house-bill/2398?q=%7B%22search%22%3A%22hr2398%22%7D"
+},
+{
+"text": "Veterans",
+"href": "https://www.garamendi.org/issues#veterans"
+},
+{
+"text": "Water",
+"href": "https://www.garamendi.org/issues#water"
+},
+{
+"text": "[image: Logo: John Garamendi for Congress]",
+"href": "https://www.garamendi.org/"
+}
 ]

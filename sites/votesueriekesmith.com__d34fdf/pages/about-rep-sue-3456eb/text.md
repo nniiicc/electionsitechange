@@ -1,5 +1,4 @@
-Leadership Rooted in Service
-Representative Sue Rieke Smith is a third-generation Oregonian and a lifelong advocate for education, equity, and strong communities.
+0 Skip to Content Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Open Menu Close Menu Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Open Menu Close Menu Home About Rep Sue A Plan for Action Fight with Rep Sue Endorsements Leadership Rooted in Service Representative Sue Rieke Smith is a third-generation Oregonian and a lifelong advocate for education, equity, and strong communities.
 With decades of experience in public service, she has dedicated her career to improving opportunities for children and families across Oregon.
 Sue and her younger siblings grew up moving frequently due to her father’s career.
 From Seattle at 10 years old to Kansas City, Kansas nine years later, she learned early on how to be involved and give back to her community.
@@ -19,3 +18,5 @@ During her tenure, both school districts saw gains in academic achievement.
 Representative Sue Rieke Smith retired from the Tigard-Tualatin School District at the end of the 2023-2024 school year after a 25-year career in education.
 Residing in King City, Oregon with Jeff, she continues to support her community through volunteer service and humanitarian work.
 An avid knitter and quilter, she creates and donates handcrafted items for health kits that serve refugees worldwide.
+Vote Sue Rieke Smith for HD26.
+Share Your Voice: sue@votesueriekesmith.com | Follow Our Journey: @sueriekesmithforhd26

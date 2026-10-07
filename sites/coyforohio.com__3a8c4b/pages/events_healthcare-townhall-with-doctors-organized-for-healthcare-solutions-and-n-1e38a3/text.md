@@ -1,8 +1,1 @@
-Paid for by Friends of Megan Coy
-Previous
-Previous
-October 3
-Strongsville Canvass Launch
-Next
-Next
-October 10
+0 Skip to Content Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Open Menu Close Menu Issues Endorsements Meet Megan Contact Events Support the Campaign Back to All Events Healthcare Fundraiser with Megan Coy Sunday, October 4, 2026 11:30 AM 1:00 PM Address Provided Upon RSVP (map) Google Calendar ICS Previous Previous October 3 Strongsville Canvass Launch Next Next October 10 North Royalton Canvass with Megan Coy and Courtney Scheff Paid for by Friends of Megan Coy

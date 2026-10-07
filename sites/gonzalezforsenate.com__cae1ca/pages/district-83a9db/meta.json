@@ -1,7 +1,11 @@
 {
  "description": "California Senate District 16: Kern, Tulare, Kings, and Fresno counties. Check whether your address is in the district.",
  "final_url": "https://www.gonzalezforsenate.com/district",
- "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 &copy; 2026 Guillermo Gonzalez for Senate 2026",
+ "fingerprint": "493f152aee7bb70d8095a2c613cad7f5544c4d26",
+ "format": 3,
+ "paid_for_by": "Paid for by Guillermo Gonzalez for Senate 2026 ID # 1485838 © # Guillermo Gonzalez for Senate 2026",
  "title": "Our District | Gonzalez for Senate",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

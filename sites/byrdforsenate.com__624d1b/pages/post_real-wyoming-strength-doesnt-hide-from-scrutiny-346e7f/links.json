@@ -1,18 +1,78 @@
 [
-"https://bsky.app/profile/byrdforsenate.bsky.social",
-"https://byrdforsenate.com/",
-"https://byrdforsenate.com/blank",
-"https://byrdforsenate.com/blank-1",
-"https://byrdforsenate.com/blog",
-"https://byrdforsenate.com/post/james-byrd-blasts-washington-while-wyoming-families-go-hungry",
-"https://byrdforsenate.com/post/rep--brittany-pettersen-endorses-james-byrd-for-u-s--senate",
-"https://byrdforsenate.com/post/washington-is-passing-the-buck-to-wyoming",
-"https://facebook.com/ByrdForSenate",
-"https://instagram.com/jamesbyrdforsenate",
-"https://secure.actblue.com/donate/james-byrd-1?amount=10",
-"https://secure.actblue.com/donate/james-byrd-1?amount=100",
-"https://secure.actblue.com/donate/james-byrd-1?amount=18.62",
-"https://secure.actblue.com/donate/james-byrd-1?amount=5",
-"https://secure.actblue.com/donate/james-byrd-1?amount=50",
-"https://x.com/ByrdforSenate"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/james-byrd-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/james-byrd-1?amount=100"
+},
+{
+"text": "$18.62",
+"href": "https://secure.actblue.com/donate/james-byrd-1?amount=18.62"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/james-byrd-1?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/james-byrd-1?amount=50"
+},
+{
+"text": "21 TONS OF FOOD IS GONE IN 7 DAYS\": JAMES BYRD BLASTS WASHINGTON FOR FUNDING FOREIGN WARS WHILE WYOMING GOES HUNGRY",
+"href": "https://www.byrdforsenate.com/post/james-byrd-blasts-washington-while-wyoming-families-go-hungry"
+},
+{
+"text": "About",
+"href": "https://www.byrdforsenate.com/blank-1"
+},
+{
+"text": "All Posts",
+"href": "https://www.byrdforsenate.com/blog"
+},
+{
+"text": "Home",
+"href": "https://www.byrdforsenate.com"
+},
+{
+"text": "Issues",
+"href": "https://www.byrdforsenate.com/blank"
+},
+{
+"text": "News",
+"href": "https://www.byrdforsenate.com/blog"
+},
+{
+"text": "Rep. Brittany Pettersen Endorses James Byrd for U.S. Senate",
+"href": "https://www.byrdforsenate.com/post/rep--brittany-pettersen-endorses-james-byrd-for-u-s--senate"
+},
+{
+"text": "See All",
+"href": "https://www.byrdforsenate.com/blog"
+},
+{
+"text": "Washington Is Passing the Buck to Wyoming",
+"href": "https://www.byrdforsenate.com/post/washington-is-passing-the-buck-to-wyoming"
+},
+{
+"text": "[image: Byrd text logo.png]",
+"href": "https://www.byrdforsenate.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ByrdForSenate"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/jamesbyrdforsenate/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/ByrdforSenate"
+},
+{
+"text": "[image: bluesky-circle-black-icon]",
+"href": "https://bsky.app/profile/byrdforsenate.bsky.social"
+}
 ]

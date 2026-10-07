@@ -1,9 +1,34 @@
 [
-"https://electcorychun.com/",
-"https://electcorychun.com/about",
-"https://electcorychun.com/cart",
-"https://electcorychun.com/getinvolved",
-"https://electcorychun.com/priorities",
-"https://electcorychun.com/public-servant",
-"https://secure.actblue.com/donate/friends-of-cory-chun-1"
+{
+"text": "0",
+"href": "https://www.electcorychun.com/cart"
+},
+{
+"text": "About",
+"href": "https://www.electcorychun.com/about"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/friends-of-cory-chun-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.electcorychun.com/getinvolved"
+},
+{
+"text": "Learn More",
+"href": "https://www.electcorychun.com/public-servant"
+},
+{
+"text": "Learn more",
+"href": "https://www.electcorychun.com/priorities"
+},
+{
+"text": "Priorities",
+"href": "https://www.electcorychun.com/priorities"
+},
+{
+"text": "[image: Elect Cory Chun for Hawaiʻi]",
+"href": "https://www.electcorychun.com/"
+}
 ]

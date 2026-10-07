@@ -1,11 +1,38 @@
 [
-"http://facebook.com/lindabrosenthal.uws",
-"https://lindarosenthalfornyc.com/",
-"https://lindarosenthalfornyc.com/cart",
-"https://lindarosenthalfornyc.com/in-the-news",
-"https://lindarosenthalfornyc.com/new-page",
-"https://lindarosenthalfornyc.com/new-page-1",
-"https://secure.actblue.com/donate/linda-rosenthal-1",
-"https://support.squarespace.com/hc/articles/205814638",
-"https://twitter.com/LindaBRosenthal"
+{
+"text": "0",
+"href": "https://www.lindarosenthalfornyc.com/cart"
+},
+{
+"text": "About Linda",
+"href": "https://www.lindarosenthalfornyc.com/new-page-1"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/linda-rosenthal-1"
+},
+{
+"text": "Get Involved",
+"href": "https://www.lindarosenthalfornyc.com/new-page"
+},
+{
+"text": "In the News",
+"href": "https://www.lindarosenthalfornyc.com/in-the-news"
+},
+{
+"text": "Learn more",
+"href": "https://support.squarespace.com/hc/articles/205814638"
+},
+{
+"text": "[image: Your Site Title]",
+"href": "https://www.lindarosenthalfornyc.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/lindabrosenthal.uws"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/LindaBRosenthal"
+}
 ]

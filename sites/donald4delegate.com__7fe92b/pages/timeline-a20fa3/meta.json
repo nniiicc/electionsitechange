@@ -1,11 +1,14 @@
 {
  "description": "",
  "final_url": "https://www.donald4delegate.com/timeline",
- "paid_for_by": null,
+ "fingerprint": "d905291e8162fdf997d36a999755df60ccd6cf89",
+ "format": 3,
+ "paid_for_by": "",
  "title": "TIMELINE | Donald 4 Delegate",
  "years_mentioned": [
   "2015",
   "2025",
-  "2026"
+  "2026",
+  "2036"
  ]
 }

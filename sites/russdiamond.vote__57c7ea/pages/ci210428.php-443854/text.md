@@ -1,10 +1,10 @@
-If you're reading this, you're probably already aware of two constitutional amendments on the May 18 ballot addressing a governor's emergency powers in Pennsylvania.
+Home Donate Blog News About Connect Failure is Not an Option If you're reading this, you're probably already aware of two constitutional amendments on the May 18 ballot addressing a governor's emergency powers in Pennsylvania.
 And you're probably already inclined to vote YES on those two ballot questions.
 To recap, the first amendment offered will allow a concurrent resolution from the General Assembly to terminate a disaster emergency – such as my HR836 last year – to take effect without needing approval from the governor.
 The second amendment offered would reduce the default duration of any disaster emergency from 90 to 21 days and require legislative approval to continue beyond the initial 21 days.
 Click here for a more detailed explanation of these proposals.
 Failure to approve these amendments is not an option, as the ramifications of failure are downright frightening.
-First, you should know that if a constitutional amendment ballot question fails to win approval by the voters, it cannot be placed on the ballot again for five years, according to Article XI Section 1 of the Pennsylvania Constitution, the same section which authorizes amendments to the document.
+First, you should know that if a constitutional amendment ballot question fails to win approval by the voters, it cannot be placed on the ballot again for five years, according to Article XI Section 1 of the Pennsylvania Constitution , the same section which authorizes amendments to the document.
 Five years.
 Think about that for a second.
 If these two amendments don't receive a majority YES vote on May 18, we could be stuck in perpetual disaster emergencies, not just under Tom Wolf but perhaps under whomever succeeds him, until at least the Spring of 2026.
@@ -44,4 +44,5 @@ Stand at the polls to help educate voters on their way in.
 Lead the charge.
 We need all hands on deck.
 Because failure is just not an option.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

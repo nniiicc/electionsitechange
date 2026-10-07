@@ -1,10 +1,7 @@
-The 26th District contains portions of Genesee, Lapeer, Saginaw, and Tuscola counties.
-Genesse County
-Montrose Township, Vienna Township, Thetford Township, Forest Township, Genesee Township, Richfield Township, Davison Township, and the cities of Montrose, Clio, Davison, and Burton.
-Lapeer County
-Rich Township; Burlington Township; Marathon Township; Deerfield Township; North Branch Township; Burnside Township; Oregon Township; Mayfield Township; Arcadia Township; Goodland Township; Elba Township; Lapeer Township; Attica Township; Imlay Township; and the cities of Lapeer and Imlay City.
-Saginaw County
-Richland Township; Thomas Township; James Township; Swan Creek Township; Spaulding Township; Bridgeport Township; Frankenmuth Township; Blumfield Township; St.
+About 26th District Maps Join Our Team Issues Contact Donate About 26th District Maps Join Our Team Issues Contact Republican Candidate for State Representative Donate The 26th District contains portions of Genesee, Lapeer, Saginaw, and Tuscola counties.
+Genesse County Montrose Township, Vienna Township, Thetford Township, Forest Township, Genesee Township, Richfield Township, Davison Township, and the cities of Montrose, Clio, Davison, and Burton.
+Lapeer County Rich Township; Burlington Township; Marathon Township; Deerfield Township; North Branch Township; Burnside Township; Oregon Township; Mayfield Township; Arcadia Township; Goodland Township; Elba Township; Lapeer Township; Attica Township; Imlay Township; and the cities of Lapeer and Imlay City.
+Saginaw County Richland Township; Thomas Township; James Township; Swan Creek Township; Spaulding Township; Bridgeport Township; Frankenmuth Township; Blumfield Township; St.
 Charles Township; Albee Township; Taymouth Township; Birch Run Township; Maple Grove Township; and the city of Frankenmuth.
-Tuscola County
-Wisner Township; Akron Township; Gilford Township; Fairgrove Township; Denmark Township; Juniata Township; Tuscola Township; Vassar Township; Fremont Township; Dayton Township; Arbela Township; Millington Township; Watertown Township; and the city of Vassar.
+Tuscola County Wisner Township; Akron Township; Gilford Township; Fairgrove Township; Denmark Township; Juniata Township; Tuscola Township; Vassar Township; Fremont Township; Dayton Township; Arbela Township; Millington Township; Watertown Township; and the city of Vassar.
+Donate About Join Our Team Issues Contact Paid for by Matthew Bierlein for State Senate, 4724 Hanes Rd, Vassar, MI 48768

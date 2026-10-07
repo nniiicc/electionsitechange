@@ -1,22 +1,14 @@
-For Immediate Release: February 1, 2022
-Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives
-Obama-era State Department employee, former City of Seattle policy advisor, and workforce development consultant would be first person of color to represent district
-SEATTLE– Julia Reed, a workforce policy expert and advocate for youth and racial justice, has announced that she will seek the open House of Representatives seat in Legislative District 36, representing parts of downtown and NW Seattle.
+Home 2026 Endorsements Meet Julia About Julia Legislative Priorities Policy Priorities Endorse Julia 2024 Join our Team Newsroom Privacy Policy Donate Home 2026 Endorsements Meet Julia About Julia Legislative Priorities Policy Priorities Endorse Julia 2024 Join our Team Newsroom Privacy Policy Donate February 1, 2022 Julia Reed Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives Julia Reed February 1, 2022 Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives Julia Reed February 1, 2022 For Immediate Release: February 1, 2022 Democrat Julia Reed to Run for Open 36th Legislative District Seat in State House of Representatives Obama-era State Department employee, former City of Seattle policy advisor, and workforce development consultant would be first person of color to represent district SEATTLE– Julia Reed, a workforce policy expert and advocate for youth and racial justice, has announced that she will seek the open House of Representatives seat in Legislative District 36, representing parts of downtown and NW Seattle.
 The incumbent, Noel Frame, has indicated she will run for State Senate.
 Reed, who grew up in Seattle, began her career in the Obama Administration, working for the State Department before taking a position with the Office of Management and Budget.
 After returning to Seattle, she served as a policy advisor in the Mayor’s office covering issues as diverse as workforce training, creative economy, and public safety.
 She now works for a social impact consulting firm assisting businesses, government and non profits on workforce development and diversity.
-Reed also serves as Chair of the 36th District Democrats
-“I am thrilled for the opportunity to build on my record of service in the state legislature, tackling critical issues of housing affordability, helping workers regain a foothold in a changing economy, and demanding action on the climate crisis,” said Reed.
+Reed also serves as Chair of the 36th District Democrats “I am thrilled for the opportunity to build on my record of service in the state legislature, tackling critical issues of housing affordability, helping workers regain a foothold in a changing economy, and demanding action on the climate crisis,” said Reed.
 “We cannot allow worsening inequities in income, housing, and generational opportunity to continue– undermining the promise and progress we have fought to achieve.
-I’ll bring new perspectives and experience to tackle issues close to home, always rooted in the core progressive values we share.”
-If elected, Reed will be the first person of color to represent the 36th, the Black and bi-racial daughter of public school educators.
+I’ll bring new perspectives and experience to tackle issues close to home, always rooted in the core progressive values we share.” If elected, Reed will be the first person of color to represent the 36th, the Black and bi-racial daughter of public school educators.
 Her father was a longtime teacher and later assistant principal at Seattle’s Cleveland High School and Washington Middle School, her mother an occupational therapist and special education instructor in Shoreline and Edmonds schools.
 “My parents taught me the critical value of education, and lifting and mentoring youth to their full potential,” said Reed.
 “It’s why I have focused so much of my own work on helping create pathways to careers– especially for underrepresented communities– and why I will be a true champion in the legislator for vulnerable young people, from foster kids to those impacted by violence and economic disruption.
-We must do everything we can to help every young person thrive.”
-Reed, a resident of the Lower Queen Anne/ Uptown neighborhood, looks forward to meeting voters door to door as soon as public health guidelines allow for more face to face campaigning.
+We must do everything we can to help every young person thrive.” Reed, a resident of the Lower Queen Anne/ Uptown neighborhood, looks forward to meeting voters door to door as soon as public health guidelines allow for more face to face campaigning.
 “I’m excited to meet with voters in their neighborhoods to discuss the issues and learn more about their priorities, and ideas for the future of our communities,” said Reed.
-“Let’s get started on making a positive difference for all the people in our district.”
-Learn more at votejuliareed.com
-###
+“Let’s get started on making a positive difference for all the people in our district.” Learn more at votejuliareed.com ### Tagged: Press Release Newer Post Seattle Medium features Julia Reed campaign for House of Rep 36th LD Back to Top New Page Paid for by Friends of Julia Reed (D) | 401 2nd Ave S Ste 303 Seattle, WA 98104

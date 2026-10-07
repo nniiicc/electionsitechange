@@ -1,14 +1,2 @@
-top of page
-OHIOANS NEED REPRESENTATION
-AND I WANT TO REPRESENT YOU
-The Ohio Worth Fighting For
-The Ohio Worth Fighting For
-00:27
-Listening Across the District
-00:22
-The Real Cost of Living
-00:24
-A Budget for Our Communities
-00:25
-bottom of page
-AND I WANT TO REPRESENT YOU
+top of page DONATE GET INVOLVED Krista Magaw Home About Issues News Volunteer Events Contact More Use tab to navigate through the menu items.
+Krista Magaw FOR OHIO HOUSE DISTRICT 71 OHIOANS NEED REPRESENTATION AND I WANT TO REPRESENT YOU The Ohio Worth Fighting For Play Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Now Playing The Ohio Worth Fighting For 00:27 Play Video Now Playing Listening Across the District 00:22 Play Video Now Playing The Real Cost of Living 00:24 Play Video Now Playing A Budget for Our Communities 00:25 Play Video Home About Me Get Involved Contact Krista Magaw - FOR DISTRICT 71 - Terms & Conditions Privacy Policy Accessibility Statement © # by Krista Magaw For Ohio ​ Krista Magaw for Ohio PO Box 652 Yellow Springs, Oh 45387 bottom of page

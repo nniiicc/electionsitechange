@@ -1,11 +1,10 @@
-Ending the culture wars.
+Skip to content Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact EN | ES | HT Meet David Meet Gwen Issues From the Trail Media Get Involved Republicans for Jolly Store Contact Donate $5 $10 $20 $50 $100 $250 $500 Other EN | ES | HT Ending the culture wars.
 Florida deserves better than politics built on division.
 We can't move forward together if we're constantly pushed into fights that drive us apart.
-David Jolly believes Florida is exhausted by culture wars that turn neighbors into enemies and distract from real issues like lowering costs, improving schools, and expanding health care access.
+In short David Jolly believes Florida is exhausted by culture wars that turn neighbors into enemies and distract from real issues like lowering costs, improving schools, and expanding health care access.
 His position is to refuse to let differences be weaponized for political gain, choosing instead leadership that values respect over outrage and focuses on solutions that actually improve people's lives.
 He argues that we cannot build a stronger Florida if we are constantly pulled apart by manufactured conflicts, and that moving forward requires focusing on what unites Floridians rather than what divides them.
-Ending the Culture Wars
-Florida is tired of culture wars.
+Ending the Culture Wars Florida is tired of culture wars.
 Across Florida, people are exhausted by politics that turns neighbors into enemies.
 The constant noise.
 The outrage cycles.
@@ -31,11 +30,9 @@ Solutions over slogans.
 People over politics.
 Ending the culture wars isn't just possible.
 It's necessary.
-Moving forward together
-We can't move forward if we're fighting each other.
+Moving forward together We can't move forward if we're fighting each other.
 Florida is ready for something better.
-Frequently asked questions
-Q.
+Get involved Frequently asked questions Q.
 What does Jolly mean by not a zero sum game?
 Extending rights or dignity to LGBTQ+ Floridians does not reduce rights or dignity for non-LGBTQ Floridians.
 Marriage equality didn't weaken anyone's opposite-sex marriages, and workplace protections for LGBTQ employees don't reduce protections for other employees.
@@ -72,3 +69,8 @@ Marriage equality is established by Obergefell v.
 Hodges (2015), but Florida's 2008 anti-marriage-equality amendment remains on the books.
 If Obergefell falls, Florida's own constitutional amendment would re-take effect.
 Jolly's position would protect marriage equality at the state level and support repeal of Florida's 2008 amendment as a precaution.
+Explore this issue In depth David Jolly for Governor - Don't let them use fear to divide us - Believe in Better!
+In depth David Jolly for Governor - They want to break our trust in each other, but we believe in better.
+In depth A New Generation In depth The Free State of Florida Is a Lie | David Jolly About David Jolly · Where David Stands · Video · Commentary · The 2026 Race Join the movement PAID BY DAVID JOLLY, DEMOCRAT FOR GOVERNOR © # David Jolly.
+All rights reserved.
+Built with AVM

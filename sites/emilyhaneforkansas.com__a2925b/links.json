@@ -1,9 +1,30 @@
 [
-"https://emilyhaneforkansas.com/",
-"https://emilyhaneforkansas.com/about",
-"https://emilyhaneforkansas.com/join",
-"https://emilyhaneforkansas.com/priorities",
-"https://facebook.com/profile.php?id=61590706384990",
-"https://secure.actblue.com/donate/emily-hane-1",
-"https://wycovoteskck.gov/2024-primary-election-copy"
+{
+"text": "About",
+"href": "https://www.emilyhaneforkansas.com/about"
+},
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/emily-hane-1"
+},
+{
+"text": "Home",
+"href": "https://www.emilyhaneforkansas.com"
+},
+{
+"text": "Join",
+"href": "https://www.emilyhaneforkansas.com/join"
+},
+{
+"text": "Priorities",
+"href": "https://www.emilyhaneforkansas.com/priorities"
+},
+{
+"text": "Voting Info",
+"href": "https://wycovoteskck.gov/2024-primary-election-copy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590706384990"
+}
 ]

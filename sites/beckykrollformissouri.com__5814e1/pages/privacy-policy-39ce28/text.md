@@ -1,6 +1,4 @@
-Last Updated: February 2020
-Introduction
-UpBallot (including all participating candidates and herein referred to as “UpBallot”) appreciates that privacy is important to you and is committed to protecting the confidentiality of Personal Information and handling Personal Information with integrity and with an understanding of its sensitive nature.
+Privacy Policy Last Updated: February 2020 Introduction UpBallot (including all participating candidates and herein referred to as “UpBallot”) appreciates that privacy is important to you and is committed to protecting the confidentiality of Personal Information and handling Personal Information with integrity and with an understanding of its sensitive nature.
 As such, UpBallot has created this Privacy Policy (the “Privacy Policy” or the “Policy”), and all employees of UpBallot are expected and required to abide by this Privacy Policy.
 This Privacy Policy applies solely to information collected by this website, except where stated otherwise.
 For the purposes of this Policy, Personal Information is information that can be used to directly or indirectly to identify a living individual.
@@ -11,22 +9,19 @@ As such, this Privacy Policy is subject in all respects to local legal and regul
 The UpBallot web site at www.upballot.com (the “Site”) provides you with information about UpBallot, its products and services, and in certain circumstances, allows you to purchase products or services or sign up to receive further information about UpBallot.
 In order to provide you with access to this information about UpBallot, and the ability to purchase products and services offered by or through the Site, certain Personal Information is collected from visitors to the Site.
 This Privacy Policy is designed to inform you about the types of information that are collected, as well as our use of such Personal Information, and sets forth the guidelines UpBallot uses in protecting your privacy.
-This Privacy Policy applies to your use of the Site, any other UpBallot site that is linked from www.upballot.com, as well as your use of UpBallot’s social media web sites and pages, including without limitation, YouTube™, Facebook® , LinkedIn ® , Twitter® , Instagram® , and Google+™, which are all included in the definition of “Site”.
+This Privacy Policy applies to your use of the Site, any other UpBallot site that is linked from www.upballot.com , as well as your use of UpBallot’s social media web sites and pages, including without limitation, YouTube™, Facebook® , LinkedIn ® , Twitter® , Instagram® , and Google+™, which are all included in the definition of “Site”.
 This Privacy Policy shall also be deemed part of the UpBallot Site Terms of Use.
 This Privacy Policy describes the types of Personal Information that UpBallot collects in connection with this Site.
 UpBallot gathers Personal Information and will distribute this information only within UpBallot in an effort to meet your needs and respond to your information requests.
 We note that if you are a UpBallot employee, contractor, supplier, customer or other partner, the use and protection of Personal Information may be subject to additional contractual obligations between us, including without limitation, additional UpBallot policies.
 Personal vs.
-Non-personal Information
-Personal Information
-Personal Information may be collected from you as you use the Site.
+Non-personal Information Personal Information Personal Information may be collected from you as you use the Site.
 Personal Information generally is information that personally identifies you in some way(s).
 Examples include your name, address, birth date, email address, phone number, other data collected when purchasing our products or services, education, employment, credit card, or other credit information.
 Additional examples include information submitted through our call centers, by joining a mailing list, by participating in social media events, contests or surveys, and signing up for email alerts or distributions.
 If during your visit to the this website you submit Personal Information to us, you are choosing to provide us with your Personal Information and you agree that it will be used to provide the information, products or services that you request (including information on additional products and or services which UpBallot reasonably thinks may be of interest to you) and you consent to UpBallot’s use of your personal information to improve or market UpBallot’s products or services.
 UpBallot does not knowingly request or collect Personal Information from any person under the age of 13 and we ask that any individual who is under the age of 13 to refrain from using our Site or submitting any Personal Information.
-Non-Personal Information
-Non-personal information includes general information about your visit to the Site that is not personal information or does not personally identify you.
+Non-Personal Information Non-personal information includes general information about your visit to the Site that is not personal information or does not personally identify you.
 UpBallot’s web server will recognize your domain name, which will be collected to monitor general use of the Site and for improvements to the Site, our products, and services.
 Similarly, cookies provide non-personal information which allows us to track the anonymous use of our Site, including use and traffic statistics each time you visit by placing small data files placed on your hard drive by the Site.
 Cookies also make the Site more convenient and easier to navigate for you, but they do not collect personal information.
@@ -34,8 +29,7 @@ Cookies can be ‘session cookies’ (which are deleted when you close your brow
 Further detail on cookies is discussed below.
 You can disable or reject the use of cookies, by modifying the appropriate settings on your browser.
 Note that by doing so, however, you will likely not enjoy the full functionality of the Site.
-Use, Disclosure and Protection of Personal Information
-It is UpBallot’s intention to obtain Personal Information only by fair and lawful means, and to use the Personal Information to service your needs and requests.
+Use, Disclosure and Protection of Personal Information It is UpBallot’s intention to obtain Personal Information only by fair and lawful means, and to use the Personal Information to service your needs and requests.
 UpBallot will not process Personal Information in a manner incompatible with the purposes for which it was originally collected unless later authorized by the individual from whom the information was collection or unless allowed by law.
 We will not keep Personal Information longer than is necessary for the purposes for which it was originally gathered.
 When do collect and process Personal Information about individuals, we will disclose certain information to those particular individuals on a reasonable and timely basis upon written request of the individuals from whom the Personal Information was collected.
@@ -63,36 +57,29 @@ Google Analytics uses cookies to collect information such as how often users vis
 Although Google Analytics plants a persistent cookie on your web browser to identify you as a unique user the next time you visit the Site, the cookie cannot be used by anyone but Google ® .
 UpBallot does not combine the information collected through the use of Google Analytics with other personally identifiable information.
 UpBallot uses the information we get from Google Analytics only to improve our Site and Services.
-Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use, http://www.google.com/analytic... and the Google Privacy Policy, https://policies.google.com/privacy.
-If you are interested in learning about opting out of Google Analytics, visit: https://tools.google.com/dlpage/gaoptout.
-Opting Out of Marketing Communications
-Your Personal Information may be used to provide you with information regarding additional opportunities and information about UpBallot products and services; and accordingly, by using the Site and providing such Personal Information, you consent to such use.
+Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use, http://www.google.com/analytic... and the Google Privacy Policy, https://policies.google.com/privacy .
+If you are interested in learning about opting out of Google Analytics, visit: https://tools.google.com/dlpage/gaoptout .
+Opting Out of Marketing Communications Your Personal Information may be used to provide you with information regarding additional opportunities and information about UpBallot products and services; and accordingly, by using the Site and providing such Personal Information, you consent to such use.
 However, to the extent required by law, we will provide mechanisms for opting out of mass marketing communications targeted by Personal Information we have collected or otherwise obtain consent in the manner required by applicable law.
 These mechanisms will normally be available on the relevant email or web site, but you may always notify us at the address specified below under “Contact Us”.
 Requests to opt out of communications based on data controlled by third parties must be made through the third party.
 Notwithstanding the foregoing, there may be some jurisdictions requiring stricter opt-in versus opt-out mechanisms relating to these types of communications and we will comply with the applicable laws in such locations.
-External Links; Public Social Media
-This Site may provide links to other third party websites, including social media sites.
+External Links; Public Social Media This Site may provide links to other third party websites, including social media sites.
 These links are provided to you for your convenience only, and you access them at your own risk.
 Even if the third party is affiliated with UpBallot, if you choose to use these links, UpBallot is not responsible for the conditions or results of use, privacy policies or practices, or the content of such external links or the person or entity responsible for them.
 You should review the applicable terms of use and privacy policy provisions of such third party websites before using them.
 Furthermore, any information you submit in a public forum or social marketing site that is publicly available (such as a chat room, public posting or blog, whether or not sponsored by UpBallot) can be read, collected, or used by us as well as others, and could be used to personalize your experience.
 You are responsible for the information you choose to submit through these media, and although we attempt to monitor user-posted content, such user-posted material is not subject to this privacy statement.
 Use of any UpBallot-related social media or marketing site may also be subject to additional policies and terms of use, which you should review before posting any such public information.
-Other UpBallot Sites
-This Privacy Policy is applicable to this Site, as specified above.
+Other UpBallot Sites This Privacy Policy is applicable to this Site, as specified above.
 However, other UpBallot websites may have their own respective privacy policy or other privacy-related terms posted.
 Those other privacy terms and conditions shall apply to privacy-related issues regarding that other site and the use of any services, functionalities or other offerings made in connection with that other site, and this Privacy Policy shall not apply in such circumstances.
-Amendments to this Privacy Policy
-UpBallot may amend this Policy at any time by posting a revised version on this Site, without providing prior notice to you.
+Amendments to this Privacy Policy UpBallot may amend this Policy at any time by posting a revised version on this Site, without providing prior notice to you.
 Any such amendment will be effective at the time it is posted unless a delayed effective date is expressly stated in the revised version.
 Your continued use of this Site after such changes have been posted will constitute your acceptance of the changes.
-Enforceability
-In the event any of the provisions of this Privacy Policy shall be held to be unenforceable, the remaining provisions shall be unimpaired, and the unenforceable provision shall be replaced by such enforceable term or provision as comes closest to the intention underlying the unenforceable term or provision.
+Enforceability In the event any of the provisions of this Privacy Policy shall be held to be unenforceable, the remaining provisions shall be unimpaired, and the unenforceable provision shall be replaced by such enforceable term or provision as comes closest to the intention underlying the unenforceable term or provision.
 This Privacy Policy shall be subject to and do not alter any other agreements you have entered into with UpBallot.
-Applicable Law
-This Site (excluding linked sites) is controlled by UpBallot from its offices within the State of Missouri, United States of America.
+Applicable Law This Site (excluding linked sites) is controlled by UpBallot from its offices within the State of Missouri, United States of America.
 By accessing this Site, you agree that all matters relating to your use of this Site and the terms of this Privacy Policy shall be governed by the statutes and laws of the State of Missouri, and the federal laws of the U.S.A., without regard to the conflicts of laws principles thereof.
 The application of the United Nations Convention of Contracts for the International Sale of Goods, and the model Uniform Computer Information Transactions Act approved by the National Conference of Commissioners on Uniform State Laws (as enacted and/or modified into any state law in the U.S.A.), are expressly excluded and shall not apply.
-Contact Us
-If you have any questions about this Privacy Policy, please contact us at info@upballot.com.
+Contact Us If you have any questions about this Privacy Policy, please contact us at info@upballot.com . ©# UpBallot | Built by Mostly Serious | Privacy Policy | Terms & Conditions

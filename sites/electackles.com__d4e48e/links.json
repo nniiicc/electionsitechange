@@ -1,24 +1,102 @@
 [
-"https://campaignpartner.com/",
-"https://electackles.com/",
-"https://electackles.com/contact",
-"https://electackles.com/contribute",
-"https://electackles.com/contribute?amount=10",
-"https://electackles.com/contribute?amount=100",
-"https://electackles.com/contribute?amount=1000",
-"https://electackles.com/contribute?amount=20",
-"https://electackles.com/contribute?amount=300",
-"https://electackles.com/contribute?amount=3300",
-"https://electackles.com/contribute?amount=50",
-"https://electackles.com/contribute?amount=500",
-"https://electackles.com/events",
-"https://electackles.com/home",
-"https://electackles.com/meet_janene",
-"https://electackles.com/photos",
-"https://electackles.com/platform",
-"https://electackles.com/view-endorsements",
-"https://electackles.com/volunteer",
-"https://electackles.com/vote",
-"https://facebook.com/acklesdublinhouse43",
-"https://secure.actblue.com/donate/committee-to-elect-janene-ackles-dublin-1"
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=10"
+},
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=100"
+},
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=20"
+},
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=300"
+},
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=50"
+},
+{
+"text": "$#",
+"href": "https://electackles.com/contribute?amount=500"
+},
+{
+"text": "$1000",
+"href": "https://electackles.com/contribute?amount=1000"
+},
+{
+"text": "$3300",
+"href": "https://electackles.com/contribute?amount=3300"
+},
+{
+"text": "CLICK TO DONATE TO JANENE ACKLES CAMPAIGN",
+"href": "https://secure.actblue.com/donate/committee-to-elect-janene-ackles-dublin-1"
+},
+{
+"text": "CONTACT",
+"href": "https://electackles.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://electackles.com/contribute"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://electackles.com/view-endorsements"
+},
+{
+"text": "EVENTS",
+"href": "https://electackles.com/events"
+},
+{
+"text": "FACEBOOK",
+"href": "https://www.facebook.com/acklesdublinhouse43"
+},
+{
+"text": "FUNDRAISER",
+"href": "https://electackles.com/contribute"
+},
+{
+"text": "HOME",
+"href": "https://electackles.com/home"
+},
+{
+"text": "MEET JANENE",
+"href": "https://electackles.com/meet_janene"
+},
+{
+"text": "OUR FIGHT",
+"href": "https://electackles.com/platform"
+},
+{
+"text": "Other",
+"href": "https://electackles.com/contribute"
+},
+{
+"text": "PHOTOS",
+"href": "https://electackles.com/photos"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://electackles.com/volunteer"
+},
+{
+"text": "Voter Information",
+"href": "https://electackles.com/vote"
+},
+{
+"text": "[image]",
+"href": "https://electackles.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/acklesdublinhouse43"
+}
 ]

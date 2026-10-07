@@ -1,12 +1,46 @@
 [
-"http://secure.winred.com/cal-warwas-for-house/donate",
-"https://calwarwas.com/",
-"https://calwarwas.com/about",
-"https://calwarwas.com/donate",
-"https://calwarwas.com/issues",
-"https://calwarwas.com/news",
-"https://facebook.com/cal.warwas.for.house",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://revenue.state.mn.us/political-contribution-refund",
-"https://secure.anedot.com/cal-warwas-for-house/6797dc5c-03d3-4246-89ef-b237aa7032d1"
+{
+"text": "About",
+"href": "https://calwarwas.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://calwarwas.com/donate"
+},
+{
+"text": "Donate via Anedot",
+"href": "https://secure.anedot.com/cal-warwas-for-house/6797dc5c-03d3-4246-89ef-b237aa7032d1"
+},
+{
+"text": "Donate via WinRed",
+"href": "http://secure.winred.com/cal-warwas-for-house/donate"
+},
+{
+"text": "Home",
+"href": "https://calwarwas.com/"
+},
+{
+"text": "Issues",
+"href": "https://calwarwas.com/issues"
+},
+{
+"text": "News",
+"href": "https://calwarwas.com/news"
+},
+{
+"text": "Political Contribution Refund (PCR) program",
+"href": "https://www.revenue.state.mn.us/political-contribution-refund"
+},
+{
+"text": "[image: Cal Warwas for Minnesota House]",
+"href": "https://calwarwas.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/cal.warwas.for.house"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

@@ -1,5 +1,22 @@
 [
-"https://facebook.com/profile.php?id=100075830340232",
-"https://secure.anedot.com/traviswilsonmo/donate",
-"https://wilsonforstc.com/"
+{
+"text": "ABOUT",
+"href": "https://www.wilsonforstc.com"
+},
+{
+"text": "CONTACT",
+"href": "https://www.wilsonforstc.com"
+},
+{
+"text": "Donate Now!",
+"href": "https://secure.anedot.com/traviswilsonmo/donate"
+},
+{
+"text": "[image: Black Facebook Icon]",
+"href": "https://www.facebook.com/profile.php?id=100075830340232"
+},
+{
+"text": "travwils@sbcglobal.net",
+"href": "mailto:travwils@sbcglobal.net"
+}
 ]

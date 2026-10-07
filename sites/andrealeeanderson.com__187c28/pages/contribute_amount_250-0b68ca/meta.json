@@ -1,7 +1,9 @@
 {
  "description": "Contribute to the campaign",
  "final_url": "https://andrealeeanderson.com/contribute?amount=250",
- "paid_for_by": null,
+ "fingerprint": "3af050c978716d5087aecd67d49ff20ed5ece002",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Contribute",
  "years_mentioned": []
 }

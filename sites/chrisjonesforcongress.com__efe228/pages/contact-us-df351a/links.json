@@ -1,35 +1,162 @@
 [
-"http://store.chrisjonesforcongress.com/",
-"https://chrisjonesforcongress.com/",
-"https://chrisjonesforcongress.com/about",
-"https://chrisjonesforcongress.com/accountability",
-"https://chrisjonesforcongress.com/affordability",
-"https://chrisjonesforcongress.com/canvassing",
-"https://chrisjonesforcongress.com/community",
-"https://chrisjonesforcongress.com/contact-us",
-"https://chrisjonesforcongress.com/endorsements",
-"https://chrisjonesforcongress.com/events",
-"https://chrisjonesforcongress.com/facebook",
-"https://chrisjonesforcongress.com/in-the-press",
-"https://chrisjonesforcongress.com/instagram",
-"https://chrisjonesforcongress.com/media",
-"https://chrisjonesforcongress.com/opportunity",
-"https://chrisjonesforcongress.com/press-kit",
-"https://chrisjonesforcongress.com/press-releases",
-"https://chrisjonesforcongress.com/priorities",
-"https://chrisjonesforcongress.com/privacy-policy",
-"https://chrisjonesforcongress.com/terms",
-"https://chrisjonesforcongress.com/volunteer",
-"https://chrisjonesforcongress.com/voter-hub",
-"https://chrisjonesforcongress.com/x",
-"https://chrisjonesforcongress.com/yard-sign",
-"https://chrisjonesforcongress.com/youtube",
-"https://goodchange.app/donate/suppo-co",
-"https://goodchange.app/donate/suppo-co?mk=web-3",
-"https://iwillvote.com/register?state=AR",
-"https://secure.actblue.com/donate/chip-in-for-chris",
-"https://secure.actblue.com/donate/chip-in-for-chris?amount=5",
-"https://secure.actblue.com/donate/chrisjones_wsd_r2bpop",
-"https://store.chrisjonesforcongress.com/",
-"https://wponetap.com/"
+{
+"text": "About Chris",
+"href": "https://chrisjonesforcongress.com/about/"
+},
+{
+"text": "Accountability For All",
+"href": "https://chrisjonesforcongress.com/accountability/"
+},
+{
+"text": "Affordability For All",
+"href": "https://chrisjonesforcongress.com/affordability/"
+},
+{
+"text": "CHIP IN TODAY",
+"href": "https://secure.actblue.com/donate/chrisjones_wsd_r2bpop"
+},
+{
+"text": "Canvassing",
+"href": "https://chrisjonesforcongress.com/canvassing/"
+},
+{
+"text": "Click Here!",
+"href": "https://chrisjonesforcongress.com/volunteer/"
+},
+{
+"text": "Contact",
+"href": "https://chrisjonesforcongress.com/contact-us/"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Donate Via ActBlue",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris?amount=5"
+},
+{
+"text": "Donate Via GoodChange",
+"href": "https://goodchange.app/donate/suppo-co"
+},
+{
+"text": "Donate Via GoodChange",
+"href": "https://goodchange.app/donate/suppo-co?mk=web-3"
+},
+{
+"text": "Endorsements",
+"href": "https://chrisjonesforcongress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://chrisjonesforcongress.com/events/"
+},
+{
+"text": "Facebook",
+"href": "https://chrisjonesforcongress.com/facebook/"
+},
+{
+"text": "Get A Yard Sign",
+"href": "https://chrisjonesforcongress.com/yard-sign/"
+},
+{
+"text": "In The Press",
+"href": "https://chrisjonesforcongress.com/in-the-press/"
+},
+{
+"text": "In the Community",
+"href": "https://chrisjonesforcongress.com/community/"
+},
+{
+"text": "Instagram",
+"href": "https://chrisjonesforcongress.com/instagram/"
+},
+{
+"text": "Meet Chris",
+"href": "https://chrisjonesforcongress.com/about/"
+},
+{
+"text": "OneTap",
+"href": "https://wponetap.com/"
+},
+{
+"text": "Opportunity For All",
+"href": "https://chrisjonesforcongress.com/opportunity/"
+},
+{
+"text": "P.O. Box 21803, Little Rock, AR 72221",
+"href": "https://chrisjonesforcongress.com/contact-us/"
+},
+{
+"text": "Press Kit",
+"href": "https://chrisjonesforcongress.com/press-kit/"
+},
+{
+"text": "Press Releases",
+"href": "https://chrisjonesforcongress.com/press-releases/"
+},
+{
+"text": "Priorities",
+"href": "https://chrisjonesforcongress.com/priorities/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://chrisjonesforcongress.com/privacy-policy/"
+},
+{
+"text": "Register to Vote",
+"href": "https://iwillvote.com/register/?state=AR"
+},
+{
+"text": "Store",
+"href": "http://store.chrisjonesforcongress.com/"
+},
+{
+"text": "Store",
+"href": "https://store.chrisjonesforcongress.com/"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://chrisjonesforcongress.com/terms/"
+},
+{
+"text": "Via ActBlue →",
+"href": "https://secure.actblue.com/donate/chip-in-for-chris"
+},
+{
+"text": "Via GoodChange →",
+"href": "https://goodchange.app/donate/suppo-co?mk=web-3"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisjonesforcongress.com/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://chrisjonesforcongress.com/volunteer/"
+},
+{
+"text": "Vote",
+"href": "https://chrisjonesforcongress.com/voter-hub/"
+},
+{
+"text": "Voter Hub",
+"href": "https://chrisjonesforcongress.com/voter-hub/"
+},
+{
+"text": "X-twitter",
+"href": "https://chrisjonesforcongress.com/x/"
+},
+{
+"text": "Youtube",
+"href": "https://chrisjonesforcongress.com/youtube/"
+},
+{
+"text": "[image]",
+"href": "https://chrisjonesforcongress.com"
+}
 ]

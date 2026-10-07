@@ -1,6 +1,4 @@
-(907) 350-2746
-jim@alaskansforarlington.com
-By providing your mobile number and opting in, you agree to receive recurring text messages from Alaskans for Arlington.
+(907) 350-2746 jim@alaskansforarlington.com Home Meet Jim Arlington Issues Community About Me Volunteer Donate Terms and Conditions By providing your mobile number and opting in, you agree to receive recurring text messages from Alaskans for Arlington.
 Messages may be sent using automated technology.
 Message and data rates may apply.
 Message frequency varies.
@@ -16,4 +14,4 @@ Carriers are not liable for delayed or undelivered messages, and the Campaign is
 You must be at least 18 years old or have parental consent to participate.
 These terms may be updated at any time.
 Continued participation constitutes acceptance of any changes.
-Privacy Policy
+Privacy Policy (907) 350-2746 jim@alaskansforarlington.com Paid for by Alaskans for Arlington - 9449 Wren Circle - Eagle River, AK 99577 - Privacy policy - Terms and Conditions

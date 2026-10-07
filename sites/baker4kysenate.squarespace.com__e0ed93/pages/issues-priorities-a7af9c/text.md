@@ -1,5 +1,4 @@
-My Issues & Priorities
-- As we watched the "Big, Beautiful Bill" gut medicare and SNAP, I was reminded just how dependent Kentucky is on Federal assistance for our basic necessities, like food & Healthcare.
+0 Skip to Content Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Joshua Baker for Kentucky State Senate - District 24 Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee Open Menu Close Menu Donate Event Dates & Details Issues & Priorities Join the Team Volunteer Updates Meet the Campaign Committee My Issues & Priorities Health Care & Access to No-Cost Primary Care As we watched the "Big, Beautiful Bill" gut medicare and SNAP, I was reminded just how dependent Kentucky is on Federal assistance for our basic necessities, like food & Healthcare.
 And how wrong that felt.
 We are a state in the wealthiest nation in the world, but we can not provide food and healthcare to all Kentuckians without hoping the dysfunctional federal government sends money.
 Why have a general fund with billions of dollars, sitting inert in Frankfurt, when our own citizens can't afford food and our rural hospitals struggle with slashed budgets?
@@ -11,18 +10,17 @@ Rural folks should have access to outpatient medical care without driving miles 
 Our basic healthcare should not be tied to an insurance company's profit margins.
 Quitting or losing a job should not jeopardize our basic healthcare.
 Relieving this major financial burden can be achieved in a number of ways.
-As I see it, we can fund these solutions in any of one of three ways:
-- Use the existing general fund (currently over $15billion) as a jump start- Why do we put aside billions of dollars every year, if not to use it for the citizens that are paying the taxes?
+As I see it, we can fund these solutions in any of one of three ways: Use the existing general fund (currently over $15billion) as a jump start- Why do we put aside billions of dollars every year, if not to use it for the citizens that are paying the taxes?
 Our leaders would say it is for an emergency.
 Yet, our Legislators treat a lack of necessary healthcare access as discretionary spending instead of the emergency it is.
 Remember y'all, the State's money is paid with OUR taxes and we should decide how they are used.
-- Rebalance our tax codes - Every year Kentucky gives billions to privately held companies in tax abatements and tax incentives.
+Rebalance our tax codes - Every year Kentucky gives billions to privately held companies in tax abatements and tax incentives.
 We’re told this is done to generate economic development, but we must ask if these massive costs are worth it at the expense of our health?
 If KY provided access to primary care, then companies would not need to provide insurance that covers primary healthcare.
 I wonder how much money that would save these companies in return?
-- Use the tax revenue from Recreational Cannabis sales - The estimated tax revenue from a recreational cannabis industry is well over $300 million!
+Use the tax revenue from Recreational Cannabis sales - The estimated tax revenue from a recreational cannabis industry is well over $300 million!
 This can be used to fund clinical access for the entire state (look at Michigan or Colorado for examples) and any additional income (like an increase in tourism and hospitality tax revenue) can be spent on feeding our folks or funding infrastructure upgrades.
-- How many of y'all reading this have worked in a service industry?
+Continue to Work with Kentucky’s Unions to Protect Worker’s Rights How many of y'all reading this have worked in a service industry?
 Specifically a service industry that doesn’t have union representation or job protections as an “at will employee”?
 I've spent my working life seeing the in’s & out’s of the service industry.
 The one thing all of these jobs had in common - we lacked unions and were treated like easily replaced parts.
@@ -37,15 +35,15 @@ On January 11th, 1944 - during the height of WW2, FDR gave a State of the Union 
 These measures would go on to be known as the 2nd Bill of Rights or the Economic Bill of Rights and for 82 years the federal government has failed to adopt these measures.
 We can forge our own future and work to enshrine these rights into our State's constitution.
 All Kentuckians should have these rights.
-- The right to a useful and remunerative job in the industries or shops or farms or mines of the nation.
-- The right to earn enough to provide adequate food and clothing and recreation.
-- The right of every farmer to raise and sell his products at a return which will give him and his family a decent living.
-- The right of every businessman, large and small, to trade in an atmosphere of freedom from unfair competition and domination by monopolies at home or abroad.
-- The right of every family to a decent home.
-- The right to adequate medical care and the opportunity to achieve and enjoy good health.
-- The right to adequate protection from the economic fears of old age, sickness, accident, and unemployment.
-- The right to a good education.
-- Of all of the failures in the most recent State Budget, the Republican supermajority's biggest shame has been its failure to prioritize the public education of our State.
+The right to a useful and remunerative job in the industries or shops or farms or mines of the nation.
+The right to earn enough to provide adequate food and clothing and recreation.
+The right of every farmer to raise and sell his products at a return which will give him and his family a decent living.
+The right of every businessman, large and small, to trade in an atmosphere of freedom from unfair competition and domination by monopolies at home or abroad.
+The right of every family to a decent home.
+The right to adequate medical care and the opportunity to achieve and enjoy good health.
+The right to adequate protection from the economic fears of old age, sickness, accident, and unemployment.
+The right to a good education.
+Investment in Kentucky’s Educators, & Technical Education Of all of the failures in the most recent State Budget, the Republican supermajority's biggest shame has been its failure to prioritize the public education of our State.
 When I was in KY public schools, there was a state-wide pride in the growing success in our education systems.
 When did the funding for students' futures become discretionary spending?
 Legislators voted themselves a raise - yet KY teachers and retirees are denied wage growth that matches the continued increase in cost of living.
@@ -55,7 +53,7 @@ The money to fund our education system already exists, but the Republican superm
 Our current legislature does not want to provide for our public education.
 Bottom line.
 I would propose that State Legislator compensation be capped and any further rate increases must be exceeded by a raise to the salaries of teachers and other public sector employees.
-- Oh boy, this issue is close to my heart and was a primary reason I finally became pissed off enough to run for office.
+Accountability & Transparency at all Levels of Leadership Oh boy, this issue is close to my heart and was a primary reason I finally became pissed off enough to run for office.
 My disdain for bad leadership is hard to understate, we've all had a toxic boss or three that has made our working life miserable.
 While in the Army, I was able to see and experience the qualities that make up good leaders - and bad ones.
 While in the service industries, my skin crawled every time I heard a manager talking about "reducing labor budgets" like the folks being paid are just replaceable numbers on a balance sheet.
@@ -75,7 +73,7 @@ Close door meetings should be left to shady private company dealings, not the ha
 We've all heard the excuses of "there is not enough time, we had to rush things through without public comment".
 We have access to so much technology that invalidates much of this argument.
 Y'all, it's the 21st century and we need a government that can act like it.
-- As a rather rambunctious child, my parents spent a lot of time telling me to, "go outside and play".
+Defend Kentucky’s Natural Environment As a rather rambunctious child, my parents spent a lot of time telling me to, "go outside and play".
 I spent most of my free time as a kid running around the woods of Northern Kentucky.
 My father was an avid outdoorsman, with shelves full of natural wildlife and survival books.
 He patiently taught me everything I had the curiosity to learn.
@@ -94,7 +92,7 @@ The explosion of data centers we’ve seen across the country have been reckless
 The locals where the data centers have already been built are beginning to experience serious issues and have been raising concerns (contaminated water, rising power costs, noise pollution, lack of long term job creation) for years.
 Their cries of concern continue to be disregarded in the name of private profit.
 We need to slow down and ask ourselves if the short-term economic gains are out-weighed by the long-term harm to our environment and our day-to-day lives.
-- Kentucky has a storied history full of lessons about the overreach of concentrated power - whether we want to discuss the bootleggers' response to prohibition, coal mine Union-busters, the FBI's persecution of Black Community groups via CoinTelPro, or today's issues surrounding the tactics of modern day ICE and federal law enforcement.
+Protect Our Communities from Federal Overreach Kentucky has a storied history full of lessons about the overreach of concentrated power - whether we want to discuss the bootleggers' response to prohibition, coal mine Union-busters, the FBI's persecution of Black Community groups via CoinTelPro, or today's issues surrounding the tactics of modern day ICE and federal law enforcement.
 It all involves out-of-state, armed men coming into our neighborhoods and using the threat of violence to demand compliance.
 I oppose all forms of armed overreach that has, unfortunately, become a common tool abused by our Federal Government.
 Trying to police a community that you have no knowledge of is closer to an occupation rather than "protecting and serving".
@@ -102,3 +100,6 @@ If Federal forces cannot cooperate, communicate and follow the lead of local law
 The Federal Government does not have the right to terrorize Kentuckians because of ideological differences.
 I will work with both law enforcement and advocacy groups to ensure that all Kentuckians are protected from Federal Overreach.
 In Kentucky, we have proudly been a safe landing place for refugees fleeing conflict & famine and have often led the nation in the number of refugees accepted - I want us to uphold that tradition and never forget that a part of our National Identity has always been "the great American Melting Pot".
+ENDORSMENT HIGHLIGHTS Visit ActBlue Donate "Power should be held in a glass cage, contained and transparent.” - unknown *#% Human Made.
+Paid for by Joshua Baker for Kentucky State Senate Campaign Committee through Donations from Generous Neighbors like You!
+Follow Us For the most up-to-date campaign news, follow on socials!

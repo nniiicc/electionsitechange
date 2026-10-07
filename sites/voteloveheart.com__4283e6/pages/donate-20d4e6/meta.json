@@ -1,7 +1,9 @@
 {
  "description": "Donate to Tom's Campaign! No amount is too little.",
  "final_url": "https://www.voteloveheart.com/donate",
- "paid_for_by": null,
+ "fingerprint": "fd9167d8d87ebf5e48b1e5c63324bfd19be4354a",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Donate | Thomas Loveheart",
  "years_mentioned": []
 }

@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Brian Lockwood for CA State Assembly District 61",
  "final_url": "https://www.electbrianlockwood.com/",
- "paid_for_by": null,
+ "fingerprint": "9dccdf590ac0fc90201eb35edb316bbfeb21df00",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Brian Lockwood for CA State Assembly District 61",
  "years_mentioned": [
   "2026"

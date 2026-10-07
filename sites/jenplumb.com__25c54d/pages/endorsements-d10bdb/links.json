@@ -1,9 +1,50 @@
 [
-"http://facebook.com/votejenplumb",
-"https://forms.gle/g1NYp3dvRJCPXQPG7",
-"https://instagram.com/vote_jen_plumb",
-"https://jenplumb.com/",
-"https://jenplumb.com/endorsements",
-"https://jenplumb.com/get-involved",
-"https://twitter.com/jennifer_plumb"
+{
+"text": "ABOUT",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "Dr. Jen",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "ENDORSE HERE",
+"href": "https://forms.gle/g1NYp3dvRJCPXQPG7"
+},
+{
+"text": "ENDORSEMENTS",
+"href": "https://www.jenplumb.com/endorsements"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.jenplumb.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "IN THE NEWS",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "PRIORITIES",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "Plumb",
+"href": "https://www.jenplumb.com"
+},
+{
+"text": "[image]",
+"href": "http://www.facebook.com/votejenplumb"
+},
+{
+"text": "[image]",
+"href": "https://twitter.com/jennifer_plumb"
+},
+{
+"text": "[image]",
+"href": "https://www.instagram.com/vote_jen_plumb/"
+}
 ]

@@ -1,8 +1,5 @@
-Cathy Giessel
-for Alaska State Senate
-EXPECT MORE
-A letter to voters
-Many of you have been my neighbors for a long time.
+Skip to content Meet Cathy Issues FAQ Volunteer Contact Meet Cathy Issues FAQ Volunteer Contact DONATE Cathy Giessel for Alaska State Senate EXPECT MORE Would you like to help?
+DONATE VOLUNTEER A letter to voters Many of you have been my neighbors for a long time.
 Some of you have been in the district I have represented for the 16 years that I have served.
 Because of redistricting, some of you are newer to me since the last election in 2022.
 Either way — welcome.
@@ -52,5 +49,5 @@ I have given 16 years to serving the people of this district, and I am asking fo
 If you believe Alaska deserves a senator who puts people first, tells the truth, and works hard every single day — I humbly ask for your vote.
 Thank you for reading this.
 Thank you for caring about Alaska.
-With gratitude and respect,
-Your Alaska State Senator
+With gratitude and respect, Your Alaska State Senator Recent Newsletters Endorsements Meet Cathy Issues FAQ Volunteer Contact Meet Cathy Issues FAQ Volunteer Contact © #.
+Paid for by Giessel for Alaska, 12701 Ridgewood Road, Anchorage, AK 99516.

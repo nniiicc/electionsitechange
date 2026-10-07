@@ -1,10 +1,11 @@
 {
  "description": "",
  "final_url": "https://joncardin.com/economy",
- "paid_for_by": null,
+ "fingerprint": "71eed0ae8da1fd7c09a921092343889c58470f10",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Economy",
  "years_mentioned": [
-  "2020",
   "2023"
  ]
 }

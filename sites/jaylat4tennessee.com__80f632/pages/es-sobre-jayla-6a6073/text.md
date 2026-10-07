@@ -1,4 +1,4 @@
-¿QUIÉN ES JAYLA THOMAS?
+0 Skip to Content Home About Jayla Issues Volunteer Contact Donate Open Menu Close Menu Open Menu Close Menu Home About Jayla Issues Volunteer Contact Donate Home About Jayla Issues Volunteer Contact Donate CERRAR Inicio Sobre Jayla Temas Voluntarios Contacto Donar English ¿QUIÉN ES JAYLA THOMAS?
 Jayla Thomas es una líder empresarial, defensora del sector energético y una persona dedicada a resolver problemas con la comunidad como prioridad, convencida de que liderar significa ir hacia los retos difíciles, no huir de ellos.
 Nacida y criada en Las Vegas, Nevada, y educada en Nueva York, Jayla ha visto de primera mano lo que pasa cuando se busca el crecimiento sin límites ni salvaguardas.
 Desde joven supo que quería hacer de Nashville su hogar, una ciudad definida por su cultura, su comunidad y su carácter.
@@ -30,15 +30,6 @@ Su perspectiva de alguien que viene de fuera no es una debilidad, es su fortalez
 Ha visto cómo se ve el fracaso en otros lugares y está comprometida a luchar para que Nashville no repita esos errores.
 Su liderazgo se basa en la previsión, la rendición de cuentas y una convicción profunda: el progreso debe fortalecer a las comunidades, no borrarlas.
 En el fondo, Jayla Thomas es una constructora de negocios, de sistemas y de comunidades, y una líder decidida a proteger el futuro de Nashville aprendiendo del pasado.
-Contáctanos
-¿Te interesa trabajar con nosotros?
+Contáctanos ¿Te interesa trabajar con nosotros?
 Déjanos algunos datos y nos pondremos en contacto contigo muy pronto. ¡Nos encantará saber de ti!
-Jaylat4tennessee
-UBICACIÓn
-Districto 55
-Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch
-Pagado por Friends of Jayla Thomas Committee
-Ryan Paradis, Tesorero
-Contacto
-jayla@jaylat4tennessee.com
-(615) 994-0200
+Jaylat4tennessee Preguntas frecuentes | Política de privacidad | Términos y condiciones Donar UBICACIÓn Districto 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Pagado por Friends of Jayla Thomas Committee Ryan Paradis, Tesorero Contacto jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Jaylat4tennessee FAQ | Privacy Policy | Terms and Condition Donate Location District 55 Belmont- Berry Hill- Wedgewood-Nolensville Pike Corridor-South Antioch Paid for by Friends of Jayla Thomas Committee Ryan Paradis, Treasurer Contact jayla@jaylat4tennessee.com (615) 994-0200 © 2026 Jayla Thomas Español

@@ -1,12 +1,46 @@
 [
-"https://facebook.com/profile.php?id=61590489601936",
-"https://glavinfornh.org/",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/matthewglavin1980",
-"https://linkedin.com/in/matthew-glavin-75999b20b",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.actblue.com/donate/matthew-glavin",
-"https://tiktok.com/@matthewglavin829",
-"https://x.com/MGlavin"
+{
+"text": "Donate Here",
+"href": "https://secure.actblue.com/donate/matthew-glavin"
+},
+{
+"text": "GlavinforNH@gmail.com",
+"href": "mailto:GlavinforNH@gmail.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[image: Glavin for NH]",
+"href": "https://glavinfornh.org/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61590489601936"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/matthewglavin1980/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/matthew-glavin-75999b20b/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@matthewglavin829"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/MGlavin"
+}
 ]

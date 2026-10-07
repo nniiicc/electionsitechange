@@ -1,7 +1,22 @@
 [
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://philiplouiswing.com/",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms",
-"https://secure.winred.com/wing-for-state-assembly-2026/donate-today"
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/wing-for-state-assembly-2026/donate-today"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "Wing for State Assembly 2026Wing for State Assembly 2026Wing for State Assembly 2026Wing for State Assembly 2026",
+"href": "https://philiplouiswing.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

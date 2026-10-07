@@ -1,8 +1,34 @@
 [
-"https://facebook.com/profile.php?id=61576644280264",
-"https://instagram.com/kelseyforkansas",
-"https://kelsey4kansas.org/",
-"https://kelsey4kansas.org/blank",
-"https://linkedin.com/in/kelsey-stock-754683251",
-"https://secure.actblue.com/donate/kelsey-stock-ks"
+{
+"text": "About",
+"href": "https://www.kelsey4kansas.org#about%20kelsey"
+},
+{
+"text": "Contact Form",
+"href": "https://www.kelsey4kansas.org/blank"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/kelsey-stock-ks"
+},
+{
+"text": "Endorsements",
+"href": "https://www.kelsey4kansas.org#section%201"
+},
+{
+"text": "Home",
+"href": "https://www.kelsey4kansas.org"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61576644280264"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/kelseyforkansas/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/kelsey-stock-754683251/"
+}
 ]

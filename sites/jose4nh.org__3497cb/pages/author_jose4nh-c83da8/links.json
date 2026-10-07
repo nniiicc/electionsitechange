@@ -1,14 +1,70 @@
 [
-"https://godaddy.com/",
-"https://jose4nh.org/",
-"https://jose4nh.org/2018/02",
-"https://jose4nh.org/about",
-"https://jose4nh.org/author/jose4nh",
-"https://jose4nh.org/contact",
-"https://jose4nh.org/endorsements-2",
-"https://jose4nh.org/faq",
-"https://jose4nh.org/hello-world",
-"https://jose4nh.org/news-donations-2",
-"https://jose4nh.org/portfolio",
-"https://jose4nh.org/services"
+{
+"text": "About the Candidate",
+"href": "https://jose4nh.org/about/"
+},
+{
+"text": "Blog Post Title",
+"href": "https://jose4nh.org/hello-world/"
+},
+{
+"text": "Community Service",
+"href": "https://jose4nh.org/services/"
+},
+{
+"text": "Contact my campaign",
+"href": "https://jose4nh.org/contact/"
+},
+{
+"text": "Continue Reading →",
+"href": "https://jose4nh.org/hello-world/"
+},
+{
+"text": "Endorsements",
+"href": "https://jose4nh.org/endorsements-2/"
+},
+{
+"text": "FAQ",
+"href": "https://jose4nh.org/faq/"
+},
+{
+"text": "GoDaddy",
+"href": "https://www.godaddy.com/"
+},
+{
+"text": "Home",
+"href": "https://jose4nh.org/"
+},
+{
+"text": "Jose4NH@Comcast.net",
+"href": "mailto:Jose4NH@Comcast.net"
+},
+{
+"text": "NEWS & DONATIONS",
+"href": "https://jose4nh.org/news-donations-2/"
+},
+{
+"text": "New Hampshire State Rep. For Canterbury and Loudon 2020-2022 2023-2024 2025-2026",
+"href": "https://jose4nh.org/"
+},
+{
+"text": "Photo Gallery",
+"href": "https://jose4nh.org/portfolio/"
+},
+{
+"text": "[image]",
+"href": "https://jose4nh.org/hello-world/"
+},
+{
+"text": "jose4nh",
+"href": "https://jose4nh.org/author/jose4nh/"
+},
+{
+"text": "jose4nh@comcast.net",
+"href": "mailto:jose4nh@comcast.net"
+},
+{
+"text": "« Feb",
+"href": "https://jose4nh.org/2018/02/"
+}
 ]

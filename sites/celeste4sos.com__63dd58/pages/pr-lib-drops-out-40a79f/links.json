@@ -1,21 +1,106 @@
 [
-"https://bsky.app/profile/celeste4sos.bsky.social",
-"https://celeste4sos.com/",
-"https://celeste4sos.com/blog",
-"https://celeste4sos.com/donate",
-"https://celeste4sos.com/events",
-"https://celeste4sos.com/help",
-"https://celeste4sos.com/meet",
-"https://celeste4sos.com/news-archive-1",
-"https://celeste4sos.com/pr-lib-drops-out",
-"https://celeste4sos.com/priorities",
-"https://celeste4sos.com/privacy-policy",
-"https://coloradosos.gov/pubs/elections/vote/generalCandidates.html",
-"https://coloradosun.com/2024/01/27/opinion-colorado-vacancy-committee-elections",
-"https://facebook.com/groups/ColoradoGOP/posts/26133122476330306",
-"https://facebook.com/people/Celeste-Landry/61587657275237",
-"https://instagram.com/celeste4sos",
-"https://lpcolorado.org/2026/03/30/resolution-denouncing-and-nullifying-the-liberty-pledge",
-"https://lpcolorado.org/2026/08/30/press-release-libertarian-party-pushes-for-fair-and-consistent-election-law",
-"https://x.com/celeste4sos"
+{
+"text": "Donate",
+"href": "https://www.celeste4sos.com/donate"
+},
+{
+"text": "Events",
+"href": "https://www.celeste4sos.com/events"
+},
+{
+"text": "Help",
+"href": "https://www.celeste4sos.com/help"
+},
+{
+"text": "Home",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "Meet",
+"href": "https://www.celeste4sos.com/meet"
+},
+{
+"text": "News",
+"href": "https://www.celeste4sos.com/news-archive-1"
+},
+{
+"text": "Newsletters",
+"href": "https://www.celeste4sos.com/blog"
+},
+{
+"text": "Priorities",
+"href": "https://www.celeste4sos.com/priorities"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.celeste4sos.com/privacy-policy"
+},
+{
+"text": "[1]",
+"href": "https://www.celeste4sos.com/pr-lib-drops-out#anchor-1"
+},
+{
+"text": "[2]",
+"href": "https://www.celeste4sos.com/pr-lib-drops-out#footnote2"
+},
+{
+"text": "[3]",
+"href": "https://www.celeste4sos.com/pr-lib-drops-out#footnote3"
+},
+{
+"text": "[4]",
+"href": "https://www.celeste4sos.com/pr-lib-drops-out#footnote4"
+},
+{
+"text": "[5]",
+"href": "https://www.celeste4sos.com/pr-lib-drops-out#footnote5"
+},
+{
+"text": "[image: Bluesky_edited]",
+"href": "https://bsky.app/profile/celeste4sos.bsky.social"
+},
+{
+"text": "[image: Celeste Landry for Secretary of State logo]",
+"href": "https://www.celeste4sos.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/people/Celeste-Landry/61587657275237/"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/celeste4sos/"
+},
+{
+"text": "[image: X ]",
+"href": "https://x.com/celeste4sos"
+},
+{
+"text": "https://coloradosun.com/2024/01/27/opinion-colorado-vacancy-committee-elections/",
+"href": "https://coloradosun.com/2024/01/27/opinion-colorado-vacancy-committee-elections/"
+},
+{
+"text": "https://lpcolorado.org/2026/03/30/resolution-denouncing-and-nullifying-the-liberty-pledge/",
+"href": "https://lpcolorado.org/2026/03/30/resolution-denouncing-and-nullifying-the-liberty-pledge/"
+},
+{
+"text": "https://lpcolorado.org/2026/08/30/press-release-libertarian-party-pushes-for-fair-and-consistent-election-law/",
+"href": "https://lpcolorado.org/2026/08/30/press-release-libertarian-party-pushes-for-fair-and-consistent-election-law/"
+},
+{
+"text": "https://www.celeste4sos.com/",
+"href": "https://www.celeste4sos.com/"
+},
+{
+"text": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+"href": "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+},
+{
+"text": "https://www.facebook.com/groups/ColoradoGOP/posts/26133122476330306/",
+"href": "https://www.facebook.com/groups/ColoradoGOP/posts/26133122476330306/"
+},
+{
+"text": "press@celeste4sos.com",
+"href": "mailto:press@celeste4sos.com"
+}
 ]

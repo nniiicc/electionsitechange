@@ -1,45 +1,9 @@
-Home
-Biography
-Letters
-Sponsored Bills
-In the News
-Videos
-Contact
-Donate
-Home
-Biography
-Letters
-Sponsored Bills
-In the News
-Videos
-Contact
-Donate
-Home
-Biography
-Letters
-Sponsored Bills
-In the News
-Videos
-Contact
-Donate
-Miscellaneous
-Testimony
-House Floor
-Miscellaneous
-Testimony
-House Floor
-Miscellaneous
-Testimony
-House Floor
-Miscellaneous
-Testimony
-House Floor
-Campaign
-Home
-About
-Resources
-Issues
-News
-Connect
-Contact
-Donate
+Videos Videos Videos Videos Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Home Biography Letters Sponsored Bills In the News Videos Contact Donate Miscellaneous Testimony House Floor Demystifying Local Government WMUR CloseUp Interview HB669 Full Debate Interview with The Hill HB377 Floor Speech HB457 Floor Speech Black History Month Speech 2025 March 2025 ‘Listening Session’ Peterborough Parley 2024 SB284 Floor Speech HB148 Floor Speech HB52 Floor Speech HB10 Floor Speech HB669 Testimony HB283 Testimony HB238 Testimony The State We’re In | Young Legislators Peterborough Parley Debate 2022 America’s Ass with Anthony Henry The Moral Obligation of the Moment HB256 Testimony HB210 Testimony HB671 Testimony HB623 Testimony HB468 Testimony HB196 Testimony HB184 Full Hearing HB140 Testimony HB94 Testimony HB89 Testimony Defend The Guard Testimony Black Excellence Dinner 2021 HB509 Testimony MLK Day 2023 - Hancock Congregational Church Keene Juneteenth 2022 HB104, the "Granny D" day bill HB113 - Removing physical fitness requirements for police The remarks given on SB61 NH Constitutional Amendment to ban slavery.
+HB1305 - Reinforcing the right to free speech on campus MLKDay2025 at Reynolds Hall in Peterborough, NH.
+Wheeler for House announcement ad 2022 HB619 Floor Speech Miscellaneous Testimony House Floor Demystifying Local Government WMUR CloseUp Interview HB669 Full Debate Interview with The Hill HB377 Floor Speech HB457 Floor Speech Black History Month Speech 2025 March 2025 ‘Listening Session’ Peterborough Parley 2024 SB284 Floor Speech HB148 Floor Speech HB52 Floor Speech HB10 Floor Speech HB669 Testimony HB283 Testimony HB238 Testimony The State We’re In | Young Legislators Peterborough Parley Debate 2022 America’s Ass with Anthony Henry The Moral Obligation of the Moment HB256 Testimony HB210 Testimony HB671 Testimony HB623 Testimony HB468 Testimony HB196 Testimony HB184 Full Hearing HB140 Testimony HB94 Testimony HB89 Testimony Defend The Guard Testimony Black Excellence Dinner 2021 HB509 Testimony MLK Day 2023 - Hancock Congregational Church Keene Juneteenth 2022 HB104, the "Granny D" day bill HB113 - Removing physical fitness requirements for police The remarks given on SB61 NH Constitutional Amendment to ban slavery.
+HB1305 - Reinforcing the right to free speech on campus MLKDay2025 at Reynolds Hall in Peterborough, NH.
+Wheeler for House announcement ad 2022 HB619 Floor Speech Miscellaneous Testimony House Floor Demystifying Local Government WMUR CloseUp Interview HB669 Full Debate Interview with The Hill HB377 Floor Speech HB457 Floor Speech Black History Month Speech 2025 March 2025 ‘Listening Session’ Peterborough Parley 2024 SB284 Floor Speech HB148 Floor Speech HB52 Floor Speech HB10 Floor Speech HB669 Testimony HB283 Testimony HB238 Testimony The State We’re In | Young Legislators Peterborough Parley Debate 2022 America’s Ass with Anthony Henry The Moral Obligation of the Moment HB256 Testimony HB210 Testimony HB671 Testimony HB623 Testimony HB468 Testimony HB196 Testimony HB184 Full Hearing HB140 Testimony HB94 Testimony HB89 Testimony Defend The Guard Testimony Black Excellence Dinner 2021 HB509 Testimony MLK Day 2023 - Hancock Congregational Church Keene Juneteenth 2022 HB104, the "Granny D" day bill HB113 - Removing physical fitness requirements for police The remarks given on SB61 NH Constitutional Amendment to ban slavery.
+HB1305 - Reinforcing the right to free speech on campus MLKDay2025 at Reynolds Hall in Peterborough, NH.
+Wheeler for House announcement ad 2022 HB619 Floor Speech Miscellaneous Testimony House Floor Demystifying Local Government WMUR CloseUp Interview HB669 Full Debate Interview with The Hill HB377 Floor Speech HB457 Floor Speech Black History Month Speech 2025 March 2025 ‘Listening Session’ Peterborough Parley 2024 SB284 Floor Speech HB148 Floor Speech HB52 Floor Speech HB10 Floor Speech HB669 Testimony HB283 Testimony HB238 Testimony The State We’re In | Young Legislators Peterborough Parley Debate 2022 America’s Ass with Anthony Henry The Moral Obligation of the Moment HB256 Testimony HB210 Testimony HB671 Testimony HB623 Testimony HB468 Testimony HB196 Testimony HB184 Full Hearing HB140 Testimony HB94 Testimony HB89 Testimony Defend The Guard Testimony Black Excellence Dinner 2021 HB509 Testimony MLK Day 2023 - Hancock Congregational Church Keene Juneteenth 2022 HB104, the "Granny D" day bill HB113 - Removing physical fitness requirements for police The remarks given on SB61 NH Constitutional Amendment to ban slavery.
+HB1305 - Reinforcing the right to free speech on campus MLKDay2025 at Reynolds Hall in Peterborough, NH.
+Wheeler for House announcement ad 2022 HB619 Floor Speech Campaign Home About Resources Issues News Connect Contact Donate

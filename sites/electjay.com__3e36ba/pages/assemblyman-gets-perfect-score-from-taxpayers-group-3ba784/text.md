@@ -1,8 +1,7 @@
-Story Appeared on: http://www.vvdailypress.com/article/20151030/NEWS/151039964/0/SEARCH
-The Howard Jarvis Taxpayers Association released its 2015 legislative report card Friday and Assemblyman Jay Obernolte, R-Hesperia,was among only eight lawmakers who received a perfect score.
+Skip to content Search for: Home About Endorsements Issues Media Contribute Home About Endorsements Issues Media Contribute Assemblyman gets perfect score from taxpayers group experienced team Cursus ultrices diam digital solutions Magna augue temp get 24/7 support Nunc quisa volutpat Story Appeared on: http://www.vvdailypress.com/article/20151030/NEWS/151039964/0/SEARCH The Howard Jarvis Taxpayers Association released its 2015 legislative report card Friday and Assemblyman Jay Obernolte, R-Hesperia,was among only eight lawmakers who received a perfect score.
 “It is an honor to receive a 100 percent rating from the Howard Jarvis Taxpayers Association,” Obernolte said.
 The Howard Jarvis Taxpayers Association’s 2015 report card was based on 16 bills with policy issues ranging from new taxes and regulatory burdens to attacks on the initiative process.
 Out of the 120 members of the Legislature, 73 members received an “F” grade, 36 earned an “A” grade and eight members received a perfect score.
 Last month Gov.
 Jerry Brown signed AB 809 authored by Obernolte, which improved access to important tax information by requiring the ballot statement for any local tax ordinance to include the amount of money to be raised annually and the rate and duration of the tax to be levied.
-This bill was supported by both the Howard Jarvis Taxpayers Association and the California Taxpayers Association.
+This bill was supported by both the Howard Jarvis Taxpayers Association and the California Taxpayers Association. about avada business Integer euismod lacus magna uisque curd metus luctus vitae pharet auctor mattis semat. read more 2026 Business Conference book your seat 15-18 December New York City Info@ElectJay.com PAID FOR BY OBERNOLTE FOR CONGRESS Page load link Go to Top

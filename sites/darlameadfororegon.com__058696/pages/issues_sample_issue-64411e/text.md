@@ -1,4 +1,4 @@
-As an oncology nurse navigator, I coordinate my patients' care and support them through cancer treatment, both logistically and emotionally.
+Home Meet Darla Priorities Endorsements Volunteer Events Contribute Home ❭ Priorities ❭ Advocating for Healthcare Advocating for Healthcare As an oncology nurse navigator, I coordinate my patients' care and support them through cancer treatment, both logistically and emotionally.
 Part of my job is making sure they have insurance coverage.
 When insurance companies delay or deny authorization for important tests, imaging, or life-saving treatments, I step in to resolve these issues and keep their care on track.
 Unfortunately, I see these denials and delays far too often.I hear fear and anxiety in my patients' voices when they ask if they will survive long enough to get the insurance approval they need.
@@ -22,3 +22,4 @@ I will work to implement a more accessible and affordable healthcare system.
 I will seek creative solutions in Oregon to ensure everyone has access to affordable care when and where they need it, including reproductive and gender-affirming care.
 Healthcare is a HUMAN RIGHT.
 If elected, I will prioritize fixing healthcare for Oregonians.
+Next: Creating Local Economic Opportunity » Voter Information Endorsements Yard Signs Events Photos Contact Paid for by Darla Mead for Oregon PAC #24806 Powered by CampaignPartner.com - Political Campaign Websites Home Meet Darla Priorities Endorsements Contribute Volunteer News Yard Signs Events Contact Voter Information Close Menu

@@ -1,7 +1,9 @@
 {
  "description": "Bio",
  "final_url": "https://napoleonfor154.com/about",
- "paid_for_by": null,
+ "fingerprint": "bb4d179f89e9c620de6a5f23a2b06abe5029d16e",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About",
  "years_mentioned": []
 }

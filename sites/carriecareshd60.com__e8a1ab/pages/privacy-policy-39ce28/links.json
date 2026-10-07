@@ -1,29 +1,130 @@
 [
-"http://allaboutcookies.org/",
-"http://networkadvertising.org/understanding-online-advertising/how-does-it-work",
-"http://optout.aboutads.info/",
-"https://accountscenter.facebook.com/ads",
-"https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
-"https://carriecareshd60.com/",
-"https://carriecareshd60.com/cart",
-"https://carriecareshd60.com/contact",
-"https://carriecareshd60.com/events",
-"https://carriecareshd60.com/get-involved",
-"https://carriecareshd60.com/issues-priorites",
-"https://carriecareshd60.com/meet-carrie",
-"https://carriecareshd60.com/merchandise",
-"https://carriecareshd60.com/podcast",
-"https://carriecareshd60.com/privacy-policy",
-"https://carriecareshd60.com/support",
-"https://carriecareshd60.com/team-of-volunteers",
-"https://carriecareshd60.com/terms-of-service",
-"https://carriecareshd60.com/videos",
-"https://facebook.com/profile.php?id=61587529167414",
-"https://google.com/intl/en/policies/privacy",
-"https://google.com/settings/ads/anonymous",
-"https://kimmyaltman.com/",
-"https://secure.actblue.com/donate/carrie-syczylo-1",
-"https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data",
-"https://tools.google.com/dlpage/gaoptout",
-"https://vote.gov/register/indiana"
+{
+"text": "0",
+"href": "https://www.carriecareshd60.com/cart"
+},
+{
+"text": "Back",
+"href": "https://www.carriecareshd60.com/"
+},
+{
+"text": "Contact",
+"href": "https://www.carriecareshd60.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/carrie-syczylo-1"
+},
+{
+"text": "Events",
+"href": "https://www.carriecareshd60.com/events"
+},
+{
+"text": "Folder: Support",
+"href": "https://www.carriecareshd60.com/support"
+},
+{
+"text": "Get Involved",
+"href": "https://www.carriecareshd60.com/get-involved"
+},
+{
+"text": "Issues & Priorities",
+"href": "https://www.carriecareshd60.com/issues-priorites"
+},
+{
+"text": "Kimmy",
+"href": "https://www.kimmyaltman.com"
+},
+{
+"text": "Meet Carrie",
+"href": "https://www.carriecareshd60.com/meet-carrie"
+},
+{
+"text": "Merchandise",
+"href": "https://www.carriecareshd60.com/merchandise"
+},
+{
+"text": "Podcast",
+"href": "https://www.carriecareshd60.com/podcast"
+},
+{
+"text": "Policy",
+"href": "https://www.carriecareshd60.com/privacy-policy"
+},
+{
+"text": "Privacy",
+"href": "https://www.carriecareshd60.com/privacy-policy"
+},
+{
+"text": "Purchase Supporting Merchandise",
+"href": "https://www.carriecareshd60.com/merchandise"
+},
+{
+"text": "Register to vote",
+"href": "https://vote.gov/register/indiana"
+},
+{
+"text": "Team of Volunteers",
+"href": "https://www.carriecareshd60.com/team-of-volunteers"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.carriecareshd60.com/terms-of-service"
+},
+{
+"text": "Videos",
+"href": "https://www.carriecareshd60.com/videos"
+},
+{
+"text": "[image: Carrie Syczylo]",
+"href": "https://www.carriecareshd60.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.carriecareshd60.com/privacy-policy"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61587529167414"
+},
+{
+"text": "carriecareshd60@yahoo.com",
+"href": "mailto:carriecareshd60@yahoo.com"
+},
+{
+"text": "http://optout.aboutads.info/",
+"href": "http://optout.aboutads.info/"
+},
+{
+"text": "http://www.allaboutcookies.org",
+"href": "http://www.allaboutcookies.org"
+},
+{
+"text": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work",
+"href": "http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work"
+},
+{
+"text": "https://accountscenter.facebook.com/ads",
+"href": "https://accountscenter.facebook.com/ads"
+},
+{
+"text": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads",
+"href": "https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads"
+},
+{
+"text": "https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data",
+"href": "https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/personalization-and-data"
+},
+{
+"text": "https://tools.google.com/dlpage/gaoptout",
+"href": "https://tools.google.com/dlpage/gaoptout"
+},
+{
+"text": "https://www.google.com/intl/en/policies/privacy/",
+"href": "https://www.google.com/intl/en/policies/privacy/"
+},
+{
+"text": "https://www.google.com/settings/ads/anonymous",
+"href": "https://www.google.com/settings/ads/anonymous"
+}
 ]

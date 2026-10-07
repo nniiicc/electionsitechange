@@ -1,6 +1,26 @@
 [
-"https://facebook.com/profile.php?id=61553135044152",
-"https://heatherstephensonforiowa.com/privacy-policy",
-"https://secure.winred.com/stephenson-for-iowa/donate-today?sc=winred-directory&money_bomb=false&recurring=false",
-"https://twitter.com/Stephenson4Iowa"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/stephenson-for-iowa/donate-today?sc=winred-directory&money_bomb=false&recurring=false"
+},
+{
+"text": "Envelope",
+"href": "mailto:heather@heatherstephensonforiowa.com"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/profile.php?id=61553135044152"
+},
+{
+"text": "Privacy Policy",
+"href": "https://heatherstephensonforiowa.com/privacy-policy"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/Stephenson4Iowa"
+},
+{
+"text": "X-twitter",
+"href": "https://twitter.com/Stephenson4Iowa"
+}
 ]

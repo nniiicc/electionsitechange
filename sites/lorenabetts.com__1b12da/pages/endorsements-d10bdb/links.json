@@ -1,24 +1,98 @@
 [
-"https://350mass.betterfutureproject.org/",
-"https://facebook.com/Lorenabettsforstaterep",
-"https://facebook.com/share/r/1BoJstCZFW",
-"https://facebook.com/share/v/186hK1Lxqr",
-"https://instagram.com/stories/lorenabettsforstaterep",
-"https://lorenabetts.com/",
-"https://lorenabetts.com/districtvoter-info",
-"https://lorenabetts.com/donate",
-"https://lorenabetts.com/endorsements",
-"https://lorenabetts.com/events",
-"https://lorenabetts.com/platform",
-"https://lorenabetts.com/volunteer",
-"https://massalliance.org/",
-"https://masspeaceaction.org/",
-"https://progressivemass.com/",
-"https://secure.actblue.com/donate/lorena-betts-2",
-"https://solidaritylowell.com/lowell-together",
-"https://youtube.com/@lorenabettsforstaterep/videos",
-"https://youtube.com/shorts/NwW-ZVIjzzQ",
-"https://youtube.com/shorts/c_aLeXKTUyc",
-"https://youtube.com/shorts/olaZYC40324",
-"https://youtube.com/shorts/yLkGEUK9mt0"
+{
+"text": "DONATE HERE",
+"href": "https://secure.actblue.com/donate/lorena-betts-2"
+},
+{
+"text": "District/Voter Info",
+"href": "https://lorenabetts.com/districtvoter-info"
+},
+{
+"text": "Donate",
+"href": "https://lorenabetts.com/donate"
+},
+{
+"text": "Endorsements",
+"href": "https://lorenabetts.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://lorenabetts.com/events"
+},
+{
+"text": "Go to Volunteer Page",
+"href": "https://lorenabetts.com/volunteer"
+},
+{
+"text": "Meet Lorena",
+"href": "https://lorenabetts.com/"
+},
+{
+"text": "Platform",
+"href": "https://lorenabetts.com/platform"
+},
+{
+"text": "Volunteer",
+"href": "https://lorenabetts.com/volunteer"
+},
+{
+"text": "[image]",
+"href": "https://350mass.betterfutureproject.org/"
+},
+{
+"text": "[image]",
+"href": "https://lorenabetts.com/"
+},
+{
+"text": "[image]",
+"href": "https://masspeaceaction.org/"
+},
+{
+"text": "[image]",
+"href": "https://solidaritylowell.com/lowell-together/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/r/1BoJstCZFW/"
+},
+{
+"text": "[image]",
+"href": "https://www.facebook.com/share/v/186hK1Lxqr/"
+},
+{
+"text": "[image]",
+"href": "https://www.massalliance.org/"
+},
+{
+"text": "[image]",
+"href": "https://www.progressivemass.com/"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/shorts/NwW-ZVIjzzQ"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/shorts/c_aLeXKTUyc"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/shorts/olaZYC40324"
+},
+{
+"text": "[image]",
+"href": "https://www.youtube.com/shorts/yLkGEUK9mt0"
+},
+{
+"text": "[tooltip: Go to Facebook page]",
+"href": "https://www.facebook.com/Lorenabettsforstaterep"
+},
+{
+"text": "[tooltip: Go to Instagram page]",
+"href": "https://www.instagram.com/stories/lorenabettsforstaterep/"
+},
+{
+"text": "[tooltip: Go to Youtube page]",
+"href": "https://www.youtube.com/@lorenabettsforstaterep/videos"
+}
 ]

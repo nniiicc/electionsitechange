@@ -1,5 +1,26 @@
 [
-"https://give.secure.donateright.com/friends-of-john-corbett/donate",
-"https://votejohncorbett.com/",
-"https://votejohncorbett.com/privacy"
+{
+"text": "About John",
+"href": "https://www.votejohncorbett.com/#AboutArthur"
+},
+{
+"text": "DONATE",
+"href": "https://give.secure.donateright.com/friends-of-john-corbett/donate"
+},
+{
+"text": "Home",
+"href": "https://www.votejohncorbett.com/"
+},
+{
+"text": "Issues",
+"href": "https://www.votejohncorbett.com/#Issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votejohncorbett.com/privacy"
+},
+{
+"text": "Volunteer",
+"href": "https://www.votejohncorbett.com/#Volunteer"
+}
 ]

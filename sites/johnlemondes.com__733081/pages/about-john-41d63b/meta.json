@@ -1,7 +1,9 @@
 {
  "description": "Learn about Assemblyman John Lemondes, committed to the farming community and passionate about New York State Assembly initiatives. Support local leadership!",
  "final_url": "https://johnlemondes.com/about-john",
- "paid_for_by": null,
+ "fingerprint": "88c2384933c51e3570a27ddc4bf0e3318cd4ae40",
+ "format": 3,
+ "paid_for_by": "",
  "title": "About John",
  "years_mentioned": [
   "2014",

@@ -1,10 +1,42 @@
 [
-"https://facebook.com/profile.php?id=100089455034679",
-"https://instagram.com/voteverona_ut",
-"https://mobilize.us/veronamauga",
-"https://secure.actblue.com/donate/committee-to-elect-verona-mauga-1",
-"https://twitter.com/VeronaMauga",
-"https://voteverona.com/",
-"https://voteverona.com/get-involved",
-"https://voteverona.com/privacy-policy"
+{
+"text": "ABOUT VERONA",
+"href": "https://www.voteverona.com"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-verona-mauga-1"
+},
+{
+"text": "EVENTS",
+"href": "https://www.mobilize.us/veronamauga"
+},
+{
+"text": "GET INVOLVED",
+"href": "https://www.voteverona.com/get-involved"
+},
+{
+"text": "HOME",
+"href": "https://www.voteverona.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/profile.php?id=100089455034679"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/voteverona_ut"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/VeronaMauga"
+},
+{
+"text": "verona@voteverona.com",
+"href": "mailto:info@mysite.com"
+},
+{
+"text": "www.voteverona.com/privacypolicy",
+"href": "https://www.voteverona.com/privacy-policy"
+}
 ]

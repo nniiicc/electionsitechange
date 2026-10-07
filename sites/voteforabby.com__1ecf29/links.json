@@ -1,4 +1,18 @@
 [
-"https://facebook.com/voteforabby",
-"https://secure.anedot.com/angelos-for-wyoming/donate"
+{
+"text": "Contact",
+"href": "mailto:team@voteforabby.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/angelos-for-wyoming/donate"
+},
+{
+"text": "facebook.com/voteforabby",
+"href": "https://www.facebook.com/voteforabby"
+},
+{
+"text": "team@voteforabby.com",
+"href": "mailto:team@voteforabby.com"
+}
 ]

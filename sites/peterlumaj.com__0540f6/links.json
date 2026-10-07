@@ -1,18 +1,90 @@
 [
-"https://facebook.com/peterlumaj",
-"https://instagram.com/peterlumaj",
-"https://linkedin.com/in/peter-lumaj",
-"https://peterlumaj.com/",
-"https://peterlumaj.com/about",
-"https://peterlumaj.com/contact",
-"https://peterlumaj.com/endorsements",
-"https://peterlumaj.com/get-involved",
-"https://peterlumaj.com/news",
-"https://peterlumaj.com/press",
-"https://peterlumaj.com/privacy",
-"https://peterlumaj.com/search",
-"https://peterlumaj.com/terms",
-"https://peterlumaj.com/vote",
-"https://x.com/realpeterlumaj",
-"https://youtube.com/@peterlumaj"
+{
+"text": "About",
+"href": "https://peterlumaj.com/about"
+},
+{
+"text": "About Peter",
+"href": "https://peterlumaj.com/about"
+},
+{
+"text": "Contact",
+"href": "https://peterlumaj.com/contact"
+},
+{
+"text": "Endorsements",
+"href": "https://peterlumaj.com/endorsements"
+},
+{
+"text": "Get Involved",
+"href": "https://peterlumaj.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://peterlumaj.com/"
+},
+{
+"text": "Learn More",
+"href": "https://peterlumaj.com/about"
+},
+{
+"text": "News",
+"href": "https://peterlumaj.com/news"
+},
+{
+"text": "Press Kit",
+"href": "https://peterlumaj.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://peterlumaj.com/privacy"
+},
+{
+"text": "Resources",
+"href": "https://peterlumaj.com/press"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://peterlumaj.com/terms"
+},
+{
+"text": "Terms of Service",
+"href": "https://peterlumaj.com/terms"
+},
+{
+"text": "Volunteer",
+"href": "https://peterlumaj.com/get-involved"
+},
+{
+"text": "Voter Information",
+"href": "https://peterlumaj.com/vote"
+},
+{
+"text": "[image: Peter Lumaj | Secretary of the State]",
+"href": "https://peterlumaj.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/peterlumaj"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/peterlumaj/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/peter-lumaj"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/realpeterlumaj"
+},
+{
+"text": "[no text]",
+"href": "https://youtube.com/@peterlumaj"
+},
+{
+"text": "[tooltip: Search]",
+"href": "https://peterlumaj.com/search"
+}
 ]

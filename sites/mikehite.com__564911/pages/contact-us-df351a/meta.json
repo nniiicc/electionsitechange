@@ -1,9 +1,9 @@
 {
  "description": "Help us campaign today for a better tomorrow!",
  "final_url": "https://mikehite.com/contact-us",
- "paid_for_by": null,
+ "fingerprint": "a1554bf23c572e9848fe663fc5d823b68b1ba0f1",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Mike Hite for Council",
- "years_mentioned": [
-  "2022"
- ]
+ "years_mentioned": []
 }

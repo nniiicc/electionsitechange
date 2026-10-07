@@ -1,5 +1,4 @@
-About Lily Tang Williams
-Lily Tang Williams is the Republican nominee for US House of Representatives in New Hampshire’s Second Congressional District 2.
+Skip to content Menu Menu Lily’s Story Priorities Lily’s Priorities Lily’s Affordability Plan News Press Releases Events Campaign Pictures Endorsements Veterans for Lily Small Businesses for Lily Parents for Lily Join Volunteer Request Yard Sign Contact Donate About Lily Tang Williams Lily Tang Williams is the Republican nominee for US House of Representatives in New Hampshire’s Second Congressional District 2.
 Lily Tang Williams is a survivor of Mao’s Communist regime in China.
 Born to poor working-class parents in China’s western Sichuan province, Lily grew up during Mao’s ten-year Cultural Revolution as a child, experiencing extremely poor living conditions, food rationing, social chaos and oppressive Communist restrictions and indoctrination.
 A few years later while studying law in university, she heard about the US Constitution and Declaration of Independence from an American student.
@@ -17,3 +16,5 @@ Her story was included in the Oral History of Communism Project funded by the St
 Recently featured in the documentary film, “The Great Awakening,” she has been speaking to students and parents and inspires people to be involved with the Liberty movement.
 Her one question video to take down gun control post child David Hogg at Dartmouth College has gone viral with millions of views in the country.
 Her final debate video clip in NH-2 has made her known in the whole country as a Republican congressional candidate, and won over a special endorsement from Robert “Bobby” Kennedy Jr.
+Follow me A message from my son Arthur, supporting my run for the US House A message from my daughter Mae, supporting my run for the US House A message from my son Charlie, supporting my run for the US House © # Lily4Congress Committee.
+Paid for by Lily4Congress Committee. | Privacy Policy

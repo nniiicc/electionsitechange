@@ -1,10 +1,38 @@
 [
-"https://facebook.com/profile.php?id=61577003908156",
-"https://mcelvainformissouri.com/",
-"https://mcelvainformissouri.com/about-me",
-"https://mcelvainformissouri.com/cart",
-"https://mcelvainformissouri.com/contat",
-"https://mcelvainformissouri.com/endorsements",
-"https://mcelvainformissouri.com/events",
-"https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+{
+"text": "0",
+"href": "https://www.mcelvainformissouri.com/cart"
+},
+{
+"text": "About Me",
+"href": "https://www.mcelvainformissouri.com/about-me"
+},
+{
+"text": "Contact",
+"href": "https://www.mcelvainformissouri.com/contat"
+},
+{
+"text": "Donate Now",
+"href": "https://secure.winred.com/committee-to-elect-roth-mcelvain/donate-today?exitintent=true"
+},
+{
+"text": "Endorsements",
+"href": "https://www.mcelvainformissouri.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.mcelvainformissouri.com/events"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/profile.php?id=61577003908156"
+},
+{
+"text": "Home",
+"href": "https://www.mcelvainformissouri.com/"
+},
+{
+"text": "[image: Roth McElvain]",
+"href": "https://www.mcelvainformissouri.com/"
+}
 ]

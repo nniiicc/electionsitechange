@@ -1,8 +1,26 @@
 [
-"https://koltonforiowa25.com/cdn-cgi/l/email-protection",
-"https://secure.actblue.com/donate/kolton-jones-1",
-"https://secure.actblue.com/donate/kolton-jones-1?amount=10",
-"https://secure.actblue.com/donate/kolton-jones-1?amount=100",
-"https://secure.actblue.com/donate/kolton-jones-1?amount=25",
-"https://secure.actblue.com/donate/kolton-jones-1?amount=50"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/kolton-jones-1?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/kolton-jones-1?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/kolton-jones-1?amount=25"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/kolton-jones-1?amount=50"
+},
+{
+"text": "Contact",
+"href": "mailto:campaign@koltonjones.com"
+},
+{
+"text": "Contribute Any Amount",
+"href": "https://secure.actblue.com/donate/kolton-jones-1"
+}
 ]

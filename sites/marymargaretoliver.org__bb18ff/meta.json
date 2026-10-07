@@ -1,7 +1,13 @@
 {
  "description": "Rep. Mary Margaret Oliver is a lifelong House District 84 resident, public servant, and attorney.",
  "final_url": "https://www.marymargaretoliver.org/",
- "paid_for_by": null,
+ "fingerprint": "abcd72a8d0bb0423b209c149f74030a26e2fbe07",
+ "format": 3,
+ "paid_for_by": "sponsored by Rep",
  "title": "Georgia State Rep. Mary Margaret Oliver",
- "years_mentioned": []
+ "years_mentioned": [
+  "2024",
+  "2026",
+  "2027"
+ ]
 }

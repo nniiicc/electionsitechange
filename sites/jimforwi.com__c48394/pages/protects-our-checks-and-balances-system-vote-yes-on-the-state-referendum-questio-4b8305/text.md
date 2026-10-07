@@ -1,4 +1,6 @@
-While talking to voters the other day, I was troubled to learn that voters are being sent a misleading card on the two state referendums on the Aug. 13 primary ballot.
+Skip to content Skip to footer Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Home About Jim Jim’s Priorities Jim’s Legislative Record Jim’s Endorsements Campaign News Assembly #98 Map Donate Now!
+Home Donation Events Contacts FAQ About Us Protect Our Checks & Balances System: Vote YES on the State Referendum Questions Posted July 26, 2024 by Jim Piwowarczyk in News , Political Issues While talking to voters the other day, I was troubled to learn that voters are being sent a misleading card on the two state referendums on the Aug.
+13 primary ballot.
 The fiscally responsible position is to vote YES on both referendums.
 As a former police officer of almost 20 years, I put a high premium on honesty and integrity, and I don’t believe this card, which tells people to vote no, passes that test.
 Wisconsin needs transparency in how it spends federal money, and Gov.
@@ -26,5 +28,12 @@ What chance do conservative counties like Washington and Waukesha have under Eve
 All areas of the state deserve an equal opportunity at this money if it needs to be spent at all.
 The misleading card voters are receiving says voting YES would risk the ability of the state to respond quickly in an emergency.
 But Evers spent COVID money on many things that weren’t emergencies, like a railroad museum in Green Bay and an arts center in Milwaukee.
-I’m voting YES on both state referendums because I believe it’s better fiscal policy to have more oversight and restraint over taxpayer dollars.
--Jim Piwowarczyk is a Republican candidate for the 98th Assembly District, which includes Hartford, Erin, Richfield, Merton, Sussex, and Lisbon.
+I’m voting YES on both state referendums because I believe it’s better fiscal policy to have more oversight and restraint over taxpayer dollars. -Jim Piwowarczyk is a Republican candidate for the 98th Assembly District, which includes Hartford, Erin, Richfield, Merton, Sussex, and Lisbon.
+Post navigation Previous post: Prev Washington County Deputy Sheriff’s Association Endorses Jim Piwowarczyk June 27, 2024 Next post: Next NRA ENDORSES JIM PIWOWARCZYK IN GOP PRIMARY FOR 98TH ASSEMBLY July 29, 2024 You May Also Like Posted August 6, 2024 in Endorsements , News , ticker VILLAGE OF SUSSEX TRUSTEE STACY RIEDEL ENDORSES JIM PIWOWARCZYK FOR ASSEMBLY Posted May 3, 2024 in Endorsements , News , ticker Washington County DA Mark Bensen Endorses Jim Piwowarczyk for Assembly How can you help? * indicates required Email Address * First Name Last Name Phone Number Comment?
+Interest?
+Donate?
+Help Door Knock?
+Campaign Volunteer?
+Sign Nomination Paper?
+Request a Yard Sign?
+Go Fishing W/Jim? /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */ PAID FOR BY: JIM FOR WISCONSIN

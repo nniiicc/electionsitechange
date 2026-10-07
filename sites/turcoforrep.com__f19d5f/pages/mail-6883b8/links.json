@@ -1,10 +1,38 @@
 [
-"https://facebook.com/turcoforrep",
-"https://secure.actblue.com/donate/committee-to-elect-jeff-turco-1",
-"https://turcoforrep.com/",
-"https://turcoforrep.com/124567",
-"https://turcoforrep.com/about-3",
-"https://turcoforrep.com/issues",
-"https://turcoforrep.com/mail",
-"https://turcoforrep.com/volunteer"
+{
+"text": "About",
+"href": "https://www.turcoforrep.com/124567"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/committee-to-elect-jeff-turco-1"
+},
+{
+"text": "Endorsements",
+"href": "https://www.turcoforrep.com/about-3"
+},
+{
+"text": "Home",
+"href": "https://www.turcoforrep.com"
+},
+{
+"text": "Issues",
+"href": "https://www.turcoforrep.com/issues"
+},
+{
+"text": "Past Mail",
+"href": "https://www.turcoforrep.com/mail"
+},
+{
+"text": "Volunteer",
+"href": "https://www.turcoforrep.com/volunteer"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/turcoforrep"
+},
+{
+"text": "[image: Turco-logo-quick-1-1.png]",
+"href": "https://www.turcoforrep.com"
+}
 ]

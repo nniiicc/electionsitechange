@@ -1,8 +1,34 @@
 [
-"https://facebook.com/ronforrep",
-"https://ronforohio.com/",
-"https://ronforohio.com/gallery",
-"https://ronforohio.com/privacy-policy",
-"https://ronforohio.com/terms-conditions",
-"https://twitter.com/ronfergusonohio?lang=en"
+{
+"text": "Gallery",
+"href": "https://www.ronforohio.com/gallery"
+},
+{
+"text": "Home",
+"href": "https://www.ronforohio.com"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.ronforohio.com/privacy-policy"
+},
+{
+"text": "Terms & Conditions",
+"href": "https://www.ronforohio.com/terms-conditions"
+},
+{
+"text": "View terms of use",
+"href": "https://www.ronforohio.com/terms-conditions"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/ronforrep/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/ronfergusonohio?lang=en"
+},
+{
+"text": "ronforohio@gmail.com",
+"href": "mailto:ronforohio@gmail.com"
+}
 ]

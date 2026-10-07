@@ -1,7 +1,11 @@
 {
- "description": "CONTENTS\u2026",
+ "description": "CONTENTS…",
  "final_url": "https://kielreid.com/events-3/2026-10-01/",
- "paid_for_by": "PAID FOR BY CTE KIEL REID | PO BOX 96 MUSKEGON, MI 49443 %d",
+ "fingerprint": "d89f9ee63cc3be26958dcfe9b36e889c87d888a5",
+ "format": 3,
+ "paid_for_by": "PAID FOR BY CTE KIEL REID",
  "title": "Events - Kiel Reid for State Representative",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

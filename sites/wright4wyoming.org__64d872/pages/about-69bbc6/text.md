@@ -1,5 +1,7 @@
-Meet Cam Wright
-Cam Wright has spent his life in service — to his country, to education, and to Wyoming’s future.
+0 Skip to Content Home About Priorities Blog Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+In the News Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Open Menu Close Menu Home About Priorities Blog Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+In the News Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Open Menu Close Menu Home About Priorities Folder: Blog Back Meet Cam Education in Wyoming The Promise of America Rural Way of Life & Public Lands Creating More Affordable Housing Access to Rural Healthcare Get Out the Vote!
+Folder: In the News Back Cam Wright Announces Run for House District 46 Petroleum Association of Wyoming Endorses Cam Wright Community Connections Interview - My Hits 106 Contact Donate Meet Cam Wright Cam Wright has spent his life in service — to his country, to education, and to Wyoming’s future.
 Cam enlisted in the United States Navy at 17, immediately after graduating from high school.
 During his enlisted service he rose from E-1 to E-6, serving in covert intelligence operations and analysis roles supporting national security missions.
 After several tours in the Navy, Cam transferred to the Naval Reserve to complete an engineering degree.
@@ -8,8 +10,7 @@ Over the course of a 30-year military career, Cam worked on aircraft avionics sy
 While still on active duty, he served two tours on the faculty of the United States Air Force Academy, where he helped educate and mentor future military leaders.
 Cam enlisted in the United States Navy at 17, immediately after graduating from high school.
 During his enlisted service he rose from E-1 to E-6, serving in covert intelligence operations and analysis roles supporting national security missions.
-After several tours in the Navy, Cam transferred to the
-Naval Reserve to complete an engineering degree.
+After several tours in the Navy, Cam transferred to the Naval Reserve to complete an engineering degree.
 He later returned to active duty in the United States Air Force, where he was commissioned as a Second Lieutenant.
 Over the course of a 30-year military career, Cam worked on aircraft avionics systems and space programs, ultimately retiring at the rank of Lieutenant Colonel.
 While still on active duty, he served two tours on the faculty of the United States Air Force Academy, where he helped educate and mentor future military leaders.
@@ -25,3 +26,9 @@ Cam’s wife comes from a multigenerational Wyoming family, and their son will g
 Cam Wright is running for the Wyoming Legislature because he believes Wyoming deserves leadership that supports strong schools and school choice, protects our freedoms, responsibly manages our public lands and natural resources, and builds an economy where Wyoming families and young people can build their future here at home.
 Photos of military service are included to share Cam’s background and experience.
 They do not imply endorsement by the United States Air Force or any military organization.
+Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Get in Touch!
+Sign up with your email address to receive updates and stay informed.
+First Name Last Name Email Address Sign Up Thank you!
+Follow me on Facebook cam@wright4wyoming.org (307) 223-5686 - Paid for by Wright 4 Wyoming -

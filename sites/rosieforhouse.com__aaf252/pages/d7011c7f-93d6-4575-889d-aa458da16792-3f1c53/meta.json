@@ -1,7 +1,9 @@
 {
  "description": "Rosie Lynch, your candidate for House District 16!",
  "final_url": "https://www.rosieforhouse.com/",
- "paid_for_by": null,
+ "fingerprint": "622bc3b2f4acb89a4909bc5035faa5cd092bfbfe",
+ "format": 3,
+ "paid_for_by": "AUTHORIZED BY ROSIE LYNCH FOR OKLAHOMA STATE HOUSE DISTRICT 16 You need to enable JavaScript to run this app",
  "title": "Rosie Lynch for House",
  "years_mentioned": []
 }

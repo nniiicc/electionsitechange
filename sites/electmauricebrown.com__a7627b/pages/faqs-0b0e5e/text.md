@@ -1,5 +1,4 @@
-Frequently Asked Questions:
-Why is Maurice Brown running for State Assembly?
+0 Skip to Content Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Open Menu Close Menu Donate Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Open Menu Close Menu Donate Here Home About Priorities Get Involved Press Clips Voter Info Campaign Blog Endorsements Local Voices Donate Frequently Asked Questions: Why is Maurice Brown running for State Assembly?
 Syracuse and Central New York deserve real results from Albany.
 Housing costs are rising, utility bills are unpredictable, and wages are not keeping pace.
 Maurice is running to make life more affordable and hold corporate interests accountable.
@@ -7,8 +6,7 @@ Does Maurice Brown support taxing the wealthy?
 Yes.
 Maurice believes the ultra wealthy and large corporations must pay their fair share so working families are not forced to carry the burden alone.
 New York can fund housing, childcare, and healthcare without cutting essential services.
-Learn more about Invest in Our NY, the coalition of organizations focused on ensuring everyone in our society pays their fare share. www.investinourny.org
-What is Maurice Brown’s position on housing?
+Learn more about Invest in Our NY , the coalition of organizations focused on ensuring everyone in our society pays their fare share. www.investinourny.org What is Maurice Brown’s position on housing?
 Maurice believes housing is a human right.
 He supports expanding truly affordable housing, strengthening tenant protections, and passing statewide Good Cause eviction protections.
 How is Maurice Brown different from the incumbent?
@@ -22,10 +20,8 @@ Residents in Syracuse, Van Buren, and Geddes consistently raise concerns about a
 This campaign is centered on delivering practical solutions that address those everyday challenges.
 Who can vote in the Democratic primary?
 Registered Democrats who live in New York State Assembly District 129 are eligible to vote in the June 2026 primary election.
-For more information, visit the Onondaga County Board of Elections’ website.
-(www.onvote.net)
-How can I get involved?
-You can donate, volunteer, host a house meeting, collect petition signatures, or sign up for campaign updates.
+For more information, visit the Onondaga County Board of Elections’ website. (www.onvote.net) How can I get involved?
+You can donate , volunteer , host a house meeting, collect petition signatures, or sign up for campaign updates.
 Building a people powered campaign requires community participation.
 How old is Maurice Brown?
 Maurice Brown is 33 years old.
@@ -34,14 +30,17 @@ He represents a new generation of leadership focused on addressing the challenge
 What experience does Maurice Brown have in government?
 Maurice Brown currently serves on the Onondaga County Legislature where he has worked on issues related to infrastructure, housing, environmental protection, and responsible budgeting.
 He is the chair of the Ways and Means committee of the Onondaga County Legislature.
-In addition his role in elected office, he also serves as the Vice President of the Greater Syracuse Land Bank’s Board.
-He is also a member of several community boards including the Moving People’s Transportation Coalition, The New York Progressive Action Network, The Upstate Progressive PAC, The Greater Syracuse Tenants Network and Welch Terrace.
+In addition his role in elected office, he also serves as the Vice President of the Greater Syracuse Land Bank ’s Board.
+He is also a member of several community boards including the Moving People’s Transportation Coalition , The New York Progressive Action Network , The Upstate Progressive PAC, The Greater Syracuse Tenants Network and Welch Terrace.
 What political party’s are Maurice Brown affiliated with?
-Maurice Brown is a dues paying member of the Central New York Working Families Party but is a registered voter as a Democrat.
+Maurice Brown is a dues paying member of the Central New York Working Families Party but is a registered voter as a Democrat .
 He also serves on the Onondaga County Democratic Committee as one of the two representatives for the 19th Ward’s 7th District ED.
-He’s put a lot of time and effort into building up the local democratic party; however, after the response to his letter calling for more fairness on the committee, he’s no longer primarily focused on building the local democratic party.
+He’s put a lot of time and effort into building up the local democratic party; however, after the response to his letter calling for more fairness on the committee , he’s no longer primarily focused on building the local democratic party.
 What does Maurice Brown consider to be his greatest non-political achievement?
 In college at SUNY Brockport, he was recognized for his football ability and received a conference award.
-He’s also a veteran of the United States Army, who completed two tours of duty to Naval Station Guantanamo, in Cuba.
-He also performed as a stand up comedian both locally at venues like the Funk n Waffles on Marshall Street and the CNY Playhouse.
-The number one accomplishment might be becoming the first of his mother’s children to complete college and walking the stage in front of her and the rest of his family in 2017 at the Onondaga Community College Graduation.
+He’s also a veteran of the United States Army, who completed two tours of duty to Naval Station Guantanamo, in Cuba .
+He also performed as a stand up comedian both locally at venues like the Funk n Waffles on Marshall Street and the CNY Playhouse .
+The number one accomplishment might be becoming the first of his mother’s children to complete college and walking the stage in front of her and the rest of his family in 2017 at the Onondaga Community College Graduation .
+Learn More about our campaign here! ***Military Images and Information Do Not Imply Endorsement by DoD or Service Branch Maurice Brown is a Veteran and a Homeowner in the University Neighborhood of the City of Syracuse and the Legislator for the 15th district of Onondaga County.
+Priorities Press Clips Fun FAQs Donate About Mo Get Involved Local Voices FAQs Paid for by the People for Mo Brown Phone/Text: 315-313-5717.
+Email: Maurice@ElectMauriceBrown.com Mail: 530 Buckingham Ave Syracuse NY 13210

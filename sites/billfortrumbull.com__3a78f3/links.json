@@ -1,9 +1,42 @@
 [
-"http://facebook.com/billfortrumbull",
-"http://instagram.com/billfortrumbull",
-"https://billfortrumbull.com/",
-"https://billfortrumbull.com/cart",
-"https://billfortrumbull.com/meet-bill",
-"https://billfortrumbull.com/teammecca",
-"https://billfortrumbull.com/voting-details"
+{
+"text": "0",
+"href": "https://www.billfortrumbull.com/cart"
+},
+{
+"text": "Get Involved",
+"href": "https://www.billfortrumbull.com/teammecca"
+},
+{
+"text": "Meet Bill",
+"href": "https://www.billfortrumbull.com/meet-bill"
+},
+{
+"text": "Team Mecca",
+"href": "https://www.billfortrumbull.com/teammecca"
+},
+{
+"text": "Volunteer",
+"href": "https://www.billfortrumbull.com/teammecca"
+},
+{
+"text": "Voting Details",
+"href": "https://www.billfortrumbull.com/voting-details"
+},
+{
+"text": "[image: Bill Mecca for Trumbull]",
+"href": "https://www.billfortrumbull.com/"
+},
+{
+"text": "[no text]",
+"href": "http://facebook.com/billfortrumbull"
+},
+{
+"text": "[no text]",
+"href": "http://instagram.com/billfortrumbull"
+},
+{
+"text": "[no text]",
+"href": "mailto:info@billfortrumbull.com"
+}
 ]

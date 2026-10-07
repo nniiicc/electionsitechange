@@ -1,6 +1,5 @@
-nonviolence
-##It is essential that we develop effective alternatives to society's current patterns of violence.
+skip to content Dianne Blais for Congress!
+User Tools Register Log In Site Tools Search Tools Show pagesource Old revisions Backlinks Recent Changes Media Manager Sitemap Register Log In > Recent Changes Media Manager Sitemap Trace: • start • about • volunteer_-_let_s_work_for_a_greenus • what_i_stand_for_-_a_greenus • welcome • anti-racism • environmentalism • nonviolence nonviolence ##It is essential that we develop effective alternatives to society's current patterns of violence.
 We will work to demilitarize and eliminate weapons of mass destruction, without being naive about the intentions of other governments.
 We recognize the need for self-defense and the defense of others who are in danger.
-We promote non-violent methods to oppose practices and policies with which we disagree, and will guide our actions toward lasting personal, community and global peace.##
-nonviolence.txt · Last modified: by 127.0.0.1
+We promote non-violent methods to oppose practices and policies with which we disagree, and will guide our actions toward lasting personal, community and global peace.## nonviolence.txt · Last modified: 2026/03/19 12:15 by 127.0.0.1 Page Tools Show pagesource Old revisions Backlinks Back to top Except where otherwise noted, content on this wiki is licensed under the following license: CC Attribution-Share Alike 4.0 International

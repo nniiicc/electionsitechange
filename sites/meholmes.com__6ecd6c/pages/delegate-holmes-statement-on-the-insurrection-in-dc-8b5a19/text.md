@@ -1,6 +1,8 @@
-Delegate Holmes statement about the insurrection in DC. https://t.co/3FI6CwGDhr
-— diane daniels adoma (@dianeadoma) January 8, 2021
+Skip to content Covid-19 Contact Us Get Involved Home About Marvin Issues District 23 Endorsements Up Coming Events Menu Close Home About Marvin Issues District 23 Endorsements Up Coming Events Covid-19 Contact Us Get Involved Blog Home / Latest News / Delegate Holmes statement on the insurrection in DC.
 Delegate Holmes statement on the insurrection in DC.
-- Post author:admin
-- Post published:January 9, 2021
-- Post category:Latest News
+Post author: admin Post published: January 9, 2021 Post category: Latest News Delegate Holmes statement about the insurrection in DC. https://t.co/3FI6CwGDhr — diane daniels adoma (@dianeadoma) January 8, 2021 Please Share This Share this content Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window Opens in a new window You Might Also Like The Marlton Quarterly September 4, 2021 WUSA9 investigation prompts appraisal bias legislation, now a leading issue in Maryland’s gubernatorial race February 20, 2022 Pepco Reminds Customers of Important Programs and Assistance Available to Aid Those Who Are Behind on Their Energy Bills January 14, 2021 Navigation Home About Marvin Issues District 23 Endorsements Up Coming Events Learn more Covid-19 Contact Us Get Involved Contact Info Delegate Marvin E.
+Holmes, Jr Office Address: 364 House Office Building 6 Bladen Street Annapolis, MD 21401 Phone: (301) 858-3310 Email: marvin.holmes@house.state.md.us Opens in your application Latest News The 23rd District Leadership Team Democratic Sample Ballot October 18, 2022 / 0 Comments What’s Your Home Worth?
+A WUSA9 investigation into appraisal bias July 10, 2022 / 0 Comments By Authority: Friends of Marvin E.
+Holmes, Jr.
+J.
+Frank McGraw, Treasurer © # All Rights Reserved

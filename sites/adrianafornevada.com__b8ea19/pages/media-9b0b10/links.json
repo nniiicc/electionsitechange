@@ -1,16 +1,62 @@
 [
-"https://adrianafornevada.com/",
-"https://adrianafornevada.com/bio",
-"https://adrianafornevada.com/contact",
-"https://adrianafornevada.com/issues",
-"https://adrianafornevada.com/media",
-"https://adrianafornevada.com/photos/Adriana-Guzman-Fralick-Photos.zip",
-"https://adrianafornevada.com/privacy",
-"https://adrianafornevada.com/{{ p.full }}",
-"https://dropbox.com/scl/fi/xu9nemmgqmaksg7wvwo9u/AGF-B-Roll.mov?rlkey=20kndf1qetk72bcr19tixvp8n&e=1&st=v9mijkck&dl=0",
-"https://facebook.com/Fralick4AG",
-"https://secure.winred.com/adriana-for-nevada/donate-today",
-"https://secure.winred.com/adriana-for-nevada/storefront",
-"https://x.com/AdrianaForNV",
-"https://youtube.com/watch?v=wi66_4G1Zy0"
+{
+"text": "Bio",
+"href": "https://adrianafornevada.com/bio"
+},
+{
+"text": "Contact",
+"href": "https://adrianafornevada.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/adriana-for-nevada/donate-today"
+},
+{
+"text": "Download B-roll video",
+"href": "https://www.dropbox.com/scl/fi/xu9nemmgqmaksg7wvwo9u/AGF-B-Roll.mov?rlkey=20kndf1qetk72bcr19tixvp8n&e=1&st=v9mijkck&dl=0"
+},
+{
+"text": "Download all",
+"href": "https://adrianafornevada.com/photos/Adriana-Guzman-Fralick-Photos.zip"
+},
+{
+"text": "Español",
+"href": "https://www.youtube.com/watch?v=wi66_4G1Zy0"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/Fralick4AG/"
+},
+{
+"text": "Home",
+"href": "https://adrianafornevada.com/"
+},
+{
+"text": "Issues",
+"href": "https://adrianafornevada.com/issues"
+},
+{
+"text": "Media",
+"href": "https://adrianafornevada.com/media"
+},
+{
+"text": "Merch",
+"href": "https://secure.winred.com/adriana-for-nevada/storefront/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://adrianafornevada.com/privacy"
+},
+{
+"text": "X",
+"href": "https://x.com/AdrianaForNV"
+},
+{
+"text": "[image: Adriana Guzmán Fralick for Attorney General]",
+"href": "https://adrianafornevada.com/"
+},
+{
+"text": "[no text]",
+"href": "https://adrianafornevada.com/%7B%7B%20p.full%20%7D%7D"
+}
 ]

@@ -1,8 +1,7 @@
-May 8, 2022
-What will the political landscape look like in Pennsylvania on May 18?
+Home Donate Blog News About Connect Don't Get Caught in Josh Shapiro's Trap May 8, 2022 What will the political landscape look like in Pennsylvania on May 18?
 It all depends on what Pennsylvania's Republican voters do on May 17.
 Democrat Josh Shapiro has laid a trap for Republican voters, and it very well could spell disaster for us in the fall.
-First, let's do a little math: as of November 2021, there were 8,727,731 registered voters in the state.
+First, let's do a little math: as of November 2021, there were 8,727,731 registered voters in the state .
 Of those, 4,026,732 were Democrats, 3,421,544 were Republicans, and 1,279,455 were registered with a 3rd party or as an independent.
 In other words, Democrats have roughly 600,000 more registered voters than Republicans do.
 Now a little more math with some geography thrown in: the counties of Allegheny, Bucks, Chester, Delaware, Montgomery, and Philadelphia account for 3,825,232 of Pennsylvania's 8,727,731 total voters.
@@ -23,18 +22,15 @@ It does not matter if you believe what happened on January 6th was an "Insurrect
 And it does not matter if you believe the 2020 General Election was above board or not.
 What matters is the narrative Shapiro and the left - and their lackeys in the media - have already put forth regarding these issues.
 This is what swing voters will rely on to form their opinions in advance of the November General Election.
-It will begin with publication and a rehash of Mastriano being the recipient of a subpoena from the January 6th Select Commission, and the question of whether he has complied or not.
+It will begin with publication and a rehash of Mastriano being the recipient of a subpoena from the January 6th Select Commission, and the question of whether he has complied or not .
 That will be accompanied by repetitive reminders of Mastriano posing with former State Rep.
-Rick Saccone, who infamously proclaimed that the crowd in DC was "storming the capitol."
-Mixed in will be Mastriano's efforts to overturn the election and actually appoint Trump electors to the Electoral College, which Democrat Josh Shapiro and the left have branded "The Big Lie!"
-Again, it doesn't matter whether you believe these narratives are legitimate or not.
+Rick Saccone, who infamously proclaimed that the crowd in DC was " storming the capitol ." Mixed in will be Mastriano's efforts to overturn the election and actually appoint Trump electors to the Electoral College , which Democrat Josh Shapiro and the left have branded "The Big Lie!" Again, it doesn't matter whether you believe these narratives are legitimate or not.
 We can be assured it will be the narrative the left and the media put forward, because they have been pushing it ever since January 6th 2020.
 It's not like they're going to suddenly change course and tell a different story.
 As a result, every Republican on the ballot in Pennsylvania will be forced to defend Mastriano and make "Insurrection!" and "The Big Lie!" the predominant topic of their campaigns.
 This adds up to a sure win for Josh Shapiro and Democrats up and down the ballot.
 Republicans will not only lose the Governor's race, but perhaps also majorities in the PA House and Senate.
-Mastriano is Shapiro's Dream Opponent
-There can be no other reason that Shapiro and the Democrats are now running ads and sending mailers to Republican voters featuring Mastriano and President Trump.
+Mastriano is Shapiro's Dream Opponent There can be no other reason that Shapiro and the Democrats are now running ads and sending mailers to Republican voters featuring Mastriano and President Trump.
 They know that staunch Republicans loved Trump as president, and that lumping Mastriano and Trump together will encourage Republicans to vote for Mastriano.
 It doesn't matter to them that despite Mastriano's claims to the contrary, Trump did NOT ask him to run for Governor.
 If anyone, including Mastriano or Saccone, ends up being nominated by Republicans for statewide office on May 17, Josh Shapiro and the Democrats are ready to pounce.
@@ -47,4 +43,5 @@ There is only one way for Republicans to avoid this ready-made trap laid by Shap
 The future of our Commonwealth depends on it.
 PS: Here's a column by conservative national political reporter Salena Zito which speaks to the dangers of a Mastriano nomination.
 Zito has a long history of understanding Pennsylvania politics, as she was formerly based in Pittsburgh.
-Get campaign updates sent directly to your inbox.
+Subscribe to Facets of Life Get campaign updates sent directly to your inbox.
+PAID FOR BY FRIENDS OF RUSS DIAMOND Privacy Policy

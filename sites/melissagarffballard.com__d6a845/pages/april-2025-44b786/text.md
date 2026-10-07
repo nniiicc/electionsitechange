@@ -1,86 +1,53 @@
-| |
-| |
-| |
-| |
-| |
-| |
-| CHECKING IN AT THE LEGISLATURE: APRIL 2025 |
-| |
-| Dear Friends and Neighbors, Spring is here!
-Check out some of the local Easter events in and around our district by clicking this link.
+Home About Melissa Platforms Results Endorsements In the News Volunteer Contact Donate Newsletters Back Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Back Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Back June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session Home About Melissa Platforms Republican Values Affordable Housing Education Inflation Infrastructure & Economic Development Mental Health Air Quality 2nd Amendment & Rural Utah Values Results Rep.
+Ballard - 2019 General Session Rep.
+Ballard - 2020 General Session Rep.
+Ballard - 2021 General Session Rep.
+Ballard - 2022 General Session Rep.
+Ballard - 2023 General Session Rep.
+Ballard - 2024 General Session Rep.
+Ballard - 2025 General Session Endorsements In the News Volunteer Contact Donate Newsletters June/July 2026 May 2026 April 2026 March 2026 2026 Legislative Session Week 6 2026 Legislative Session Week 5 2026 Legislative Session Week 4 2026 Legislative Session Week 3 2026 Legislative Session Week 2 2026 Legislative Session End of Week 1 2026 Legislative Session Week 1 December 2025 November 2025 October 2025 September 2025 August 2025 July 2025 June 2025 May 2025 April 2025 2025 Legislative Session Week 7 2025 Legislative Session Week 6 2025 Legislative Session Week 5 2025 Legislative Session Week 4 2025 Legislative Session Week 3 2025 Legislative Session Week 2 2025 Legislative Session Week 1 January 2025 December 2024 November 2024 October 2024 Economy Updates October 2024 September 2024 Education Updates September 2024 Summer 2024 2024 Session Overview 2024 Legislative Session Week 7 2024 Legislative Session Week 6 2024 Legislative Session Week 5 2024 Legislative Session Week 4 2024 Legislative Session Week 3 2024 Legislative Session Week 2 2024 Legislative Session Week 1 Christmas 2023 October 2023 September 2023 Summer 2023 Spring 2023 2023 Session Summary 2023 Session Week Six 2023 Session Week Five 2023 Session Week Four 2023 Session Week Three 2023 Session Week Two 2023 Session Week One January 2023 December 2022 November 2022 August/ September 2022 July 2022 June 2022 May 2022 2022 Legislative Session Week 7 2022 Legislative Session Week 6 2022 Legislative Session Week 5 2022 Legislative Session Week 4 2022 Legislative Session Week 3 2022 Legislative Session Week 2 2022 Legislative Session Week 1 December 2021 November 2021 Sept/Oct 2021 Summer 2021 May 2021 2021 Legislative Session: Final Week 2021 Legislative Session: Week 6 2021 Legislative Session Week 5 2021 Legislative Session Week 4 2021 Legislative Session Week 3 2021 Legislative Session Week 2 2021 Legislative Session Week 1 November 2020 October 2020 September 2020 August 2020 July 2020 May 2020 COVID-19 Update 2020 Legislative Session Week 7 2020 Legislative Session Week 6 2020 Legislative Session Week 5 2020 Legislative Session Week 4 2020 Legislative Session Week 3 2020 Legislative Session Week 2 2020 Legislative Session Week 1 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 End Of 2019 Session 2019 Session CHECKING IN AT THE LEGISLATURE: APRIL 2025 Dear Friends and Neighbors, Spring is here!
+Check out some of the local Easter events in and around our district by clicking this link .
 The legislative session has ended, and I've included many summaries of our accomplishments— including reduced taxes and budget summaries.
 I want to thank the Utah Taxpayers Association for awarding me a Friend of the Taxpayer Award with a score of 100%!
 Thank you all for your support, and have a great Easter!
-Warmest regards, Melissa |
-| |
-| |
-| QUICK LINKS See all passed bills this session Utah ranks #1 state for starting a business Utah among least federally dependent states in the nation Check out the Easter egg hunts and other activities in our area!
-BUDGET LINKS EFFICIENCY, TAX CUTS, AND MORE |
-| |
-| |
-| IN THIS ISSUE 1. 2025 General Session Highlights 2.
+Warmest regards, Melissa QUICK LINKS See all passed bills this session Utah ranks #1 state for starting a business Utah among least federally dependent states in the nation Check out the Easter egg hunts and other activities in our area!
+BUDGET LINKS Budget Quick Facts– The pocket card on Utah finances Budget in Bullets– A short, written summary of the top hits in budgeting this year DataViz– Drill down to your heart's content COBI– See every dollar EFFICIENCY, TAX CUTS, AND MORE On the Road Again: Evaluation Seeks to Optimize Travel Time for Inspectors Deseret News– New Poll: How do Utahns feel about the Legislature’s tax cuts this year?
+Deseret News– Gov.
+Cox thinks there’s a smarter way to be tough on crime as prison sentences set to go up in Utah Deseret News– How Utah lawmakers applied federalism in legislation passed this session Deseret News– How the Utah Legislature impacted families this year Criminal Justice legislation represents half of bills introduced this year Water Reuse Report: Colorado River Basin IN THIS ISSUE 1.
+2025 General Session Highlights 2.
 Friend of the Taxpayer Awards 3.
 HB44 is Signed and Touted as Model Legislation for Other States 4.
 Leading the Nation in Self-Reliance 5.
-Utah: The Best Place to Start a Business |
-| |
-| |
-| |
-| 2025 General Session Highlights |
-| |
-| As a body, the Legislature took significant steps this year to improve the lives of Utahns throughout the state.
-We gave teachers a $1,446 pay raise, expanded Career & Technical Education (CTE) programs, and cut taxes to provide relief for families and businesses.
-We invested in transportation, energy production, and water infrastructure while enacting policies to make homeownership more attainable.
+Utah: The Best Place to Start a Business 2025 General Session Highlights As a body, the Legislature took significant steps this year to improve the lives of Utahns throughout the state.
+We gave teachers a $1,446 pay raise , expanded Career & Technical Education ( CTE ) programs , and cut taxes to provide relief for families and businesses.
+We invested in transportation, energy production , and water infrastructure while enacting policies to make homeownership more attainable.
 To keep Utah safe, we increased criminal penalties and cracked down on illegal immigrants who commit crimes.
 We also strengthened our election security while preserving vote-by-mail and put safeguards in place to keep government agencies accountable.
 Over 45% of the budget is dedicated to public education, reaffirming our commitment to students, teachers, and our future workforce.
-These achievements reflect our commitment to building a stronger, safer, and more prosperous Utah. |
-| |
-| |
-| |
-| I was thrilled to be acknowledged by the Utah Taxpayers Association for voting 100% for good policy for Utahns! |
-| |
-| |
-| HB44 is Signed and Touted as Model Legislation for Other States |
-| |
-| I am proud to say my sponsored legislation for land use around private and public airports has been passed into law. 2025 House Bill 44 and 2023 House Bill 206 are being touted as model legislation across the country!
+These achievements reflect our commitment to building a stronger, safer, and more prosperous Utah.
+I was thrilled to be acknowledged by the Utah Taxpayers Association for voting 100% for good policy for Utahns!
+HB44 is Signed and Touted as Model Legislation for Other States I am proud to say my sponsored legislation for land use around private and public airports has been passed into law.
+2025 House Bill 44 and 2023 House Bill 206 are being touted as model legislation across the country!
 I want to thank Senator Weiler and Senator Harper for being the floor sponsors on this important bill, as well as Governor Cox and Lt.
-Governor Henderson for their support. |
-| |
-| |
-| Chris Volzer, Skypark Airport Manager; Brady Frederickson, Senior Aviation Planner Salt Lake City Corporation; Danny Runyan, Skypark Airport Assistant Manager; Matt Maas, Director of UDOT Division of Aeronautics; Ben Sheldon, Skypark Airport Board President and Strawberry Valley Airport Board member; Senator Wayne Harper; John Buck, Sky Ranch Resident; Mark Hudgens, real estate developer and pilot; Senator Todd Weiler; Woods Cross Mayor Ryan Westergard; my husband, Craig Ballard; Lt.
-Governor Deidre Henderson; and Governor Spencer Cox. |
-| |
-| |
-| Leading the Nation in Self-Reliance |
-| |
-| This year, Utah has once again ranked as one of the least federally dependent states in the country.
+Governor Henderson for their support.
+Chris Volzer, Skypark Airport Manager; Brady Frederickson, Senior Aviation Planner Salt Lake City Corporation; Danny Runyan, Skypark Airport Assistant Manager; Matt Maas, Director of UDOT Division of Aeronautics; Ben Sheldon, Skypark Airport Board President and Strawberry Valley Airport Board member; Senator Wayne Harper; John Buck, Sky Ranch Resident; Mark Hudgens, real estate developer and pilot; Senator Todd Weiler; Woods Cross Mayor Ryan Westergard; my husband, Craig Ballard; Lt.
+Governor Deidre Henderson; and Governor Spencer Cox.
+Leading the Nation in Self-Reliance This year, Utah has once again ranked as one of the least federally dependent states in the country.
 Our state constitution requires a balanced budget, and Utah's commitment to fiscal responsibility has kept us on a path of self-reliance and resilience.
-Thanks to our strong economy and our dedication to responsible spending, we have ranked as the fifth least dependent state. |
-| |
-| |
-| |
-| |
-| Utah: The Best Place to Start a Business |
-| |
-| Utah continues to be a leader in economic opportunity and has been ranked the number one state for starting a business.
+Thanks to our strong economy and our dedication to responsible spending, we have ranked as the fifth least dependent state .
+Utah: The Best Place to Start a Business Utah continues to be a leader in economic opportunity and has been ranked the number one state for starting a business.
 We're committed to fostering a pro-business environment through our competitive tax policies, low startup costs, and reduced regulations.
-Thanks to these efforts, Utah can continue to empower innovation, fuel job creation, and support our entrepreneurs. |
-| |
-| |
-| Learn More About Melissa |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| |
-| Copyright © 2025, All rights reserved.
+Thanks to these efforts, Utah can continue to empower innovation, fuel job creation, and support our entrepreneurs.
+Learn More About Melissa Facebook Instagram Email Copyright © #, All rights reserved.
 Paid for by the Committee to Elect Melissa Garff Ballard Want to change how you receive these emails?
-You can update your preferences or unsubscribe from this list. |
+You can update your preferences or unsubscribe from this list .
+Paid for By the Committee to Elect Melissa Garff Ballard Copyright # Register To Vote Newsletter Block This newsletter signup form needs a storage option.
+Edit the block and enter a storage location via the Storage tab.
+Sign up for Melissa's Newsletter Email Address Sign Up Thank you for signing up for Melissa’s newsletter!

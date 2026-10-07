@@ -1,47 +1,42 @@
-The Scott Record
-Congressman Bobby Scott has served Virginia’s Third Congressional District since 1993.
+About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE About Bobby The Scott Record Working For Us News Vote Events Photos Volunteer Contact Us DONATE The Scott Record Congressman Bobby Scott has served Virginia’s Third Congressional District since 1993.
 In Congress, he serves as the Ranking Member or Top Democrat on the House Education and the Workforce Committee.
 From 2019-2023, he served as Chairman of what was then-called the House Committee on Education and Labor.
 He is also a member of the House Budget Committee, and previously served on the House Judiciary Committee.
 He has spent his career in public service fighting for our community, our students, families, workers, seniors, veterans, and our men and women in uniform.
-ENSURING EVERY CHILD HAS ACCESS TO A QUALITY EDUCATION
-As Chairman of the House Education and Labor Committee, Congressman Scott worked with President Biden to draft the education provisions of the American Rescue Plan Act, which helped reopen our schools with the single largest federal investment in K-12 public schools in America’s history and provided billions of dollars to our Historical Black Colleges and Universities.
-In 2015, Congressman Scott was one of the four lead authors of the Every Student Succeeds Act, which updated the Elementary and Secondary Education Act and replaced the No Child Left Behind Act.
+ENSURING EVERY CHILD HAS ACCESS TO A QUALITY EDUCATION As Chairman of the House Education and Labor Committee, Congressman Scott worked with President Biden to draft the education provisions of the American Rescue Plan Act , which helped reopen our schools with the single largest federal investment in K-12 public schools in America’s history and provided billions of dollars to our Historical Black Colleges and Universities.
+In 2015, Congressman Scott was one of the four lead authors of the Every Student Succeeds Act , which updated the Elementary and Secondary Education Act and replaced the No Child Left Behind Act.
 In the FY 2021 government funding bill, he authored a provision restoring the eligibility of incarcerated individuals to receive a Pell Grant.
 Congressman Scott has recently launched the Roadmap to College Student Success (RCSS), which includes several critical bills to improve higher education in America by bringing down the cost of college, making it easier for students to repay their student loans, and to make sure we provide students with the support they need to graduate.
-WORKING TO REFORM OUR NATION’S BROKEN CRIMINAL JUSTICE SYSTEM
-Since his first term in Congress, Congressman Scott has fought for comprehensive, evidence-based criminal justice reform.
-That is why he opposed the 1994 Crime Bill, which contributed to mass incarceration, destroyed communities, and did nothing to reduce crime.
-In 2010, he was the House-sponsor and helped lead House passage of the Fair Sentencing Act, which reduced the draconian sentencing disparity between crack and powder cocaine and was the first significant reduction in a mandatory minimum sentence in more than a generation.
+WORKING TO REFORM OUR NATION’S BROKEN CRIMINAL JUSTICE SYSTEM Since his first term in Congress, Congressman Scott has fought for comprehensive, evidence-based criminal justice reform.
+That is why he opposed the 1994 Crime Bill , which contributed to mass incarceration, destroyed communities, and did nothing to reduce crime.
+In 2010, he was the House-sponsor and helped lead House passage of the Fair Sentencing Act , which reduced the draconian sentencing disparity between crack and powder cocaine and was the first significant reduction in a mandatory minimum sentence in more than a generation.
 In 2014, in the aftermath of the Michael Brown murder in Ferguson, Missouri, he led the efforts to reinstate the Death in Custody Reporting Act to require local, state and federal law enforcement agencies to report to the U.S.
 Department of Justice deaths that occur in custody or the course of arrest.
-In 2015, he introduced the SAFE Justice Act, a bipartisan comprehensive criminal justice reform bill.
+In 2015, he introduced the SAFE Justice Act , a bipartisan comprehensive criminal justice reform bill.
 Several provisions of the SAFE Justice Act were included in the First Step Act, which made many of the provisions of the Fair Sentencing Act retroactive.
-He also led efforts in Congress in 2018 to pass the Juvenile Justice Reform Act, which was the first update and reauthorization of the Juvenile Justice and Delinquency Prevention Act since 2002.
-And in 2022, he led passage of the Justice and Mental Health Collaboration Reauthorization Act, which connects state and local governments with necessary resources to plan and implement initiatives designed to increase public safety, save tax dollars, and improve the lives of people with mental illness and their families.
+He also led efforts in Congress in 2018 to pass the Juvenile Justice Reform Act , which was the first update and reauthorization of the Juvenile Justice and Delinquency Prevention Act since 2002.
+And in 2022, he led passage of the Justice and Mental Health Collaboration Reauthorization Act , which connects state and local governments with necessary resources to plan and implement initiatives designed to increase public safety, save tax dollars, and improve the lives of people with mental illness and their families.
 And earlier this year, he led the introduction of the bipartisan Second Chance Reauthorization Act of 2024 to update reentry grant programs to help individuals successfully reenter society after incarceration.
-ADDRESSING CLIMATE CHANGE, PROTECTING THE ENVIRONMENT, AND BUILDING A RESILIENT HAMPTON ROADS
-Our region is one of the most at-risk in the nation to sea level rise driven by climate change.
+ADDRESSING CLIMATE CHANGE, PROTECTING THE ENVIRONMENT, AND BUILDING A RESILIENT HAMPTON ROADS Our region is one of the most at-risk in the nation to sea level rise driven by climate change.
 Congressman Scott helped secure $400 million for the Norfolk Coastal Storm Risk Management Project through President Biden’s Bipartisan Infrastructure Law to help reduce and manage flooding in Norfolk.
 He has also secured funding for the Virginia Peninsula Coastal Storm Risk Management Feasibility Study to help reduce and manage flooding on the Peninsula.
-Congressman Scott also supported the Inflation Reduction Act, which is the single largest federal investment ever to address climate change and includes language drafted by Congressman Scott for investment and production tax credits for new clean, green energy.
+Congressman Scott also supported the Inflation Reduction Act , which is the single largest federal investment ever to address climate change and includes language drafted by Congressman Scott for investment and production tax credits for new clean, green energy.
 Congressman Scott also authored legislation to create an Interagency Regional Coordinator for Resilience for Defense communities like Hampton Roads.
-The Department of Defense recently announced the selection of the Hampton Roads region as the first defense community in the Interagency Regional Coordinator for Resilience Pilot Program, which aims to increase federal support for collaboration between federal, state, and local entities to enhance climate resilience in defense communities.
-$65 MILLION IN COMMUNITY PROJECT FUNDING FOR HAMPTON ROADS
-Since Congressional Democrats responsibly brought back congressionally directed Community Project Funding, Congressman Scott has secured more than $65 million in Community Project Funding over the last three years for our community.
+The Department of Defense recently announced the selection of the Hampton Roads region as the first defense community in the Interagency Regional Coordinator for Resilience Pilot Program, which aims to increase federal support for collaboration between federal, state, and local entities to enhance climate resilience in defense communities. $65 MILLION IN COMMUNITY PROJECT FUNDING FOR HAMPTON ROADS Since Congressional Democrats responsibly brought back congressionally directed Community Project Funding, Congressman Scott has secured more than $65 million in Community Project Funding over the last three years for our community.
 In the recently enacted FY2024 government funding bill, Congressman Scott secured $15.7 million in funding for community projects across Virginia’s Third Congressional District.
 Projects include the Peninsula Food Bank to secure new cold storage; Hampton Roads Transit to continue to invest in electric buses; the Boys and Girls Club and the YMCA to modernize their buildings; sidewalk improvements in South Norfolk; the Hampton-Newport News Community Services Board to enhance traumatic event response capabilities; and the Peninsula Agency on Aging, Inc. to reduce isolation and improve access to nutrition for older adults.
 Previous community project funding has supported gun violence prevention efforts in Newport News and Hampton, the Elizabeth River Project’s cleanup of toxics at Money Point in Portsmouth, the construction of a new community aquatic facility in Chesapeake, musical education at the nonprofit Soundscapes, and support of local workforce development efforts at Hampton University, Old Dominion University and the Hampton Roads Workforce Council.
-FIGHTING FOR AMERICA’S WORKERS
-As the Top Democrat on the House Education and the Workforce Committee, Congressman Scott is fighting for America’s workers to make sure they have strong wages, a safe working environment, and a dignified retirement.
+FIGHTING FOR AMERICA’S WORKERS As the Top Democrat on the House Education and the Workforce Committee, Congressman Scott is fighting for America’s workers to make sure they have strong wages, a safe working environment, and a dignified retirement.
 He has sponsored the Raise the Wage Act to gradually increase the federal minimum wage from $7.25 an hour to $17 an hour – if enacted, this would be the first increase in the federal minimum wage since 2009; previous versions of Rep Scott's bill have passed the House, but failed in the Senate.
 Congressman Scott has also authored the Protecting the Right to Organize (PRO) Act to protect and strengthen the rights of workers to organize and collectively bargain for higher pay, better benefits and safer working conditions.
 The PRO Act has passed the House, but again, failed in the Senate.
 Congressman Scott also worked to include provisions in the American Rescue Plan that saved the private pension plans of nearly a million retirees.
 Recently, he coauthored the bipartisan Stronger Workforce for America Act to update our federal workforce development and job training programs.
 This bill recently passed the House of Representatives by a large bipartisan majority.
-Congressman Scott also coauthored the Bipartisan Workforce Pell Act, which would allow students to use the Pell Grant to access short-term training programs, like IT or welding, which they are currently prohibited from doing.
-EXPANDING ACCESS TO HEALTHCARE AND LOWERING COSTS FOR SENIORS
-Congressman Scott has been a strong advocate and supporter of President Obama’s Affordable Care Act (ACA).
-He also supported the Inflation Reduction Act, which lowers the cost of healthcare by reducing premiums in the ACA Marketplace, caps the price of insulin at $35 for seniors in Medicare, and lowers the costs of prescription drugs for seniors by finally allowing Medicare to negotiate drug prices.
+Congressman Scott also coauthored the Bipartisan Workforce Pell Act , which would allow students to use the Pell Grant to access short-term training programs, like IT or welding, which they are currently prohibited from doing.
+EXPANDING ACCESS TO HEALTHCARE AND LOWERING COSTS FOR SENIORS Congressman Scott has been a strong advocate and supporter of President Obama’s Affordable Care Act (ACA) .
+He also supported the Inflation Reduction Act , which lowers the cost of healthcare by reducing premiums in the ACA Marketplace, caps the price of insulin at $35 for seniors in Medicare, and lowers the costs of prescription drugs for seniors by finally allowing Medicare to negotiate drug prices.
 As a result of all of these actions, the portion of the US population without insurance is at the lowest in history.
+Paid for by Bobby Scott for Congress P.O.
+Box 251 | Newport News, Virginia 23607 | (757) 245-2000 DONATE Virginia Dems Where Do I Vote?
+VAYD

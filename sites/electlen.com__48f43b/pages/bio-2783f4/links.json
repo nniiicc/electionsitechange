@@ -1,10 +1,38 @@
 [
-"https://electlen.com/",
-"https://electlen.com/bio",
-"https://electlen.com/donate",
-"https://electlen.com/privacy",
-"https://electlen.com/take-a-survey",
-"https://facebook.com/profile.php?id=61586811096855",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://instagram.com/hennessyforgeorgia?igsh=MWo4bHE4enUzcXc0aA%3D%3D"
+{
+"text": "Bio",
+"href": "https://electlen.com/bio"
+},
+{
+"text": "Donate",
+"href": "https://electlen.com/donate"
+},
+{
+"text": "GoDaddy",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+},
+{
+"text": "Home",
+"href": "https://electlen.com/"
+},
+{
+"text": "Privacy",
+"href": "https://electlen.com/privacy"
+},
+{
+"text": "Take a survey",
+"href": "https://electlen.com/take-a-survey"
+},
+{
+"text": "[image: Hennessy For GA-125]",
+"href": "https://electlen.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/profile.php?id=61586811096855"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/hennessyforgeorgia?igsh=MWo4bHE4enUzcXc0aA%3D%3D"
+}
 ]

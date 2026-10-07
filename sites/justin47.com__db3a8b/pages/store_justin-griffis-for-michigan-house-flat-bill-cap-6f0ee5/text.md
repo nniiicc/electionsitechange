@@ -1,15 +1,6 @@
-$38.99
-This structured, high-profile flat bill cap brings a crisp, civic-minded look to casual outfits.
+Justin Griffis State Representative · MI 47 Home About Platform District Events Volunteer Vote Store Contact Donate ← Back to Store Justin Griffis for Michigan House Flat Bill Cap $38.99 This structured, high-profile flat bill cap brings a crisp, civic-minded look to casual outfits.
 Embroidered with a bold campaign-style name and a subtle Michigan silhouette, the cap balances clean design with quiet purpose.
 The vintage-feel 100% cotton twill and five-panel construction give it shape and presence, while the green undervisor and matching sewn eyelets add thoughtful detailing.
 An adjustable snapback ensures a secure fit for most head sizes, making it comfortable for rallies, canvassing days, or everyday wear when you want to show support with understated style.
-Product features
-- 100% cotton twill for a vintage look and durable feel
-- Structured five-panel, high-profile design for defined shape
-- Green undervisor for a distinctive pop of color
-- Sewn eyelets for breathability that blends with the design
-- Adjustable snapback fits head circumferences 55–60 cm
-Care instructions
-Product features
-- Green undervisor for a distinctive pop of color
-Care instructions
+Product features - 100% cotton twill for a vintage look and durable feel - Structured five-panel, high-profile design for defined shape - Green undervisor for a distinctive pop of color - Sewn eyelets for breathability that blends with the design - Adjustable snapback fits head circumferences 55–60 cm Care instructions Option * One size / Grey — $38.99 One size / White — $38.99 Quantity Add to Cart Justin Griffis Common-sense Republican running for Michigan State Representative in the 47th District. f X IG Campaign About Justin Platform The 47th District Events Get Involved Donate Volunteer Voter Info Contact Contact General: [email protected] Press: [email protected] Paid for by Justin Griffis for State Representative · 9175 Dogwood Ln, Dexter, MI 48130 © # Justin Griffis for State Representative.
+All rights reserved.

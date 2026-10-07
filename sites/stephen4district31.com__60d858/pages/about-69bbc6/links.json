@@ -1,7 +1,38 @@
 [
-"https://stephen4district31.com/",
-"https://stephen4district31.com/about",
-"https://stephen4district31.com/endorsements",
-"https://stephen4district31.com/get-involved",
-"https://stephen4district31.com/issues"
+{
+"text": "About",
+"href": "https://stephen4district31.com/about/"
+},
+{
+"text": "Donate",
+"href": "https://stephen4district31.com/get-involved/"
+},
+{
+"text": "Endorsements",
+"href": "https://stephen4district31.com/endorsements/"
+},
+{
+"text": "Get Involved",
+"href": "https://stephen4district31.com/get-involved/"
+},
+{
+"text": "Home",
+"href": "https://stephen4district31.com/"
+},
+{
+"text": "Issues",
+"href": "https://stephen4district31.com/issues/"
+},
+{
+"text": "Where I stand",
+"href": "https://stephen4district31.com/issues/"
+},
+{
+"text": "[image: Stephen for District 31]",
+"href": "https://stephen4district31.com/"
+},
+{
+"text": "stephen@stephen4district31.com",
+"href": "mailto:stephen@stephen4district31.com"
+}
 ]

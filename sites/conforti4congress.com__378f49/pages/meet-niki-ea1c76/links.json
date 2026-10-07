@@ -1,17 +1,70 @@
 [
-"https://conforti4congress.com/",
-"https://conforti4congress.com/contact",
-"https://conforti4congress.com/district6map",
-"https://conforti4congress.com/donate",
-"https://conforti4congress.com/endorsements",
-"https://conforti4congress.com/events",
-"https://conforti4congress.com/issues",
-"https://conforti4congress.com/meet-niki",
-"https://conforti4congress.com/news",
-"https://conforti4congress.com/volunteer",
-"https://economics.uchicago.edu/",
-"https://generatepress.com/",
-"https://iocc.org/",
-"https://m2m.org/",
-"https://publichealth.gwu.edu/"
+{
+"text": "Contact",
+"href": "https://conforti4congress.com/contact/"
+},
+{
+"text": "DONATE",
+"href": "https://conforti4congress.com/donate"
+},
+{
+"text": "District 6 Map",
+"href": "https://conforti4congress.com/district6map/"
+},
+{
+"text": "Donate",
+"href": "https://conforti4congress.com/donate/"
+},
+{
+"text": "Endorsements",
+"href": "https://conforti4congress.com/endorsements/"
+},
+{
+"text": "Events",
+"href": "https://conforti4congress.com/events/"
+},
+{
+"text": "GeneratePress",
+"href": "https://generatepress.com"
+},
+{
+"text": "George Washington University",
+"href": "https://publichealth.gwu.edu/"
+},
+{
+"text": "Home",
+"href": "https://conforti4congress.com/"
+},
+{
+"text": "IOCC",
+"href": "https://iocc.org/"
+},
+{
+"text": "Issues",
+"href": "https://conforti4congress.com/issues/"
+},
+{
+"text": "Meet Niki",
+"href": "https://conforti4congress.com/meet-niki/"
+},
+{
+"text": "Mothers2Mothers",
+"href": "https://m2m.org/"
+},
+{
+"text": "News",
+"href": "https://conforti4congress.com/news/"
+},
+{
+"text": "University of Chicago",
+"href": "https://economics.uchicago.edu/"
+},
+{
+"text": "Volunteer",
+"href": "https://conforti4congress.com/volunteer/"
+},
+{
+"text": "[image: Niki Conforti]",
+"href": "https://conforti4congress.com/"
+}
 ]

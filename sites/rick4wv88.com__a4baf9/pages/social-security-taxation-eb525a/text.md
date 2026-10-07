@@ -1,13 +1,1 @@
-top of page
-Social Security & Taxation
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Encouraging retired persons to move into West Virginia | Pending | House Finance | Committee | 03/04/25 |
-2025 Bills that I have lead or co-sponsored
-| Bill | Title | Status | Committee | Step | Last Action |
-|---|---|---|---|---|---|
-| | Relating to exemptions from excise taxes | Pending | House Finance | Committee | 01/23/24 |
-| | Establishing tax treatment of real property owned by another state government | Pending | House Finance | Committee | 02/15/24 |
-| | Relating to personal income tax social security exemption | Signed | | | Effective Ninety Days from Passage - (June 7, 2024) |
-2024 Bills that I have lead or co-sponsored
-bottom of page
+top of page Donate ABOUT Endorsement and Rankings Employment Education & Licenses Civic Involvement Major Accomplishments/Recognitions ISSUES Veteran Affairs VFDs and EMS Infrastructure & Technology COLAs for WV State Retirees Jobs Education Youth Illegal Drugs/Drug Abuse Elections & Term Limits Energy Government Health Public Safety & Consumer Protection Social Security & Taxation PHOTOS "On the Job" Photos Legislative Photos General Photos Family Photos Social Security & Taxation Bill Title Status Committee Step Last Action HB3103 Encouraging retired persons to move into West Virginia Pending House Finance Committee 03/04/25 2025 Bills that I have lead or co-sponsored Bill Title Status Committee Step Last Action HB5049 Relating to exemptions from excise taxes Pending House Finance Committee 01/23/24 HB5311 Establishing tax treatment of real property owned by another state government Pending House Finance Committee 02/15/24 HB4880 Relating to personal income tax social security exemption Signed Effective Ninety Days from Passage - (June 7, 2024) 2024 Bills that I have lead or co-sponsored · Paid for by The Committee to Elect Rick Hillenbrand · © # All rights reserved – Privacy Policy Hosted and Maintained by WV Printing | Mineral County Print Shop LLC bottom of page

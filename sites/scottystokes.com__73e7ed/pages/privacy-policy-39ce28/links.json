@@ -1,6 +1,22 @@
 [
-"https://facebook.com/Scotty.Stokes.2.",
-"https://scottystokes.com/",
-"https://scottystokes.com/privacy-policy",
-"https://secure.winred.com/scotty-stokes-for-state-house/donate-today"
+{
+"text": "Donate",
+"href": "https://secure.winred.com/scotty-stokes-for-state-house/donate-today"
+},
+{
+"text": "Facebook-f",
+"href": "https://www.facebook.com/Scotty.Stokes.2."
+},
+{
+"text": "Privacy Policy",
+"href": "https://scottystokes.com/privacy-policy/"
+},
+{
+"text": "[image]",
+"href": "https://scottystokes.com"
+},
+{
+"text": "info@scottystokes.com",
+"href": "mailto:info@scottystokes.com"
+}
 ]

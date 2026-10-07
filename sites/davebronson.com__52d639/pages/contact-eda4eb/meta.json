@@ -1,7 +1,11 @@
 {
  "description": "Get in touch with Dave Bronson today!",
  "final_url": "https://www.davebronson.com/contact",
- "paid_for_by": "Paid for by Bronson Church 2026 | PO Box 90938, Anchorage, AK 99509 Contact: info@davebronson",
+ "fingerprint": "651a5e0d899fa15be681914f80d2ce4bda3a7ec7",
+ "format": 3,
+ "paid_for_by": "Paid for by Bronson Church 2026",
  "title": "Contact Dave | Dave Bronson for Alaska Governor",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

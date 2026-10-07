@@ -1,26 +1,158 @@
 [
-"https://cookiedatabase.org/tcf/purposes",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=10",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=100",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=20",
-"https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=50",
-"https://ugasteforillinois.com/",
-"https://ugasteforillinois.com/2026pubevent",
-"https://ugasteforillinois.com/about",
-"https://ugasteforillinois.com/cheers-beers-2026",
-"https://ugasteforillinois.com/contact",
-"https://ugasteforillinois.com/dans-plan-for-illinois",
-"https://ugasteforillinois.com/illinois-fraternal-order-of-police-endorse-dan-ugaste",
-"https://ugasteforillinois.com/in-case-you-missed-it-gop-lawmakers-propose-ways-to-combat-illinois-skyrocketing-property-tax-bills",
-"https://ugasteforillinois.com/in-case-you-missed-it-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib",
-"https://ugasteforillinois.com/issues",
-"https://ugasteforillinois.com/news",
-"https://ugasteforillinois.com/ugaste-endorsed",
-"https://ugasteforillinois.com/ugaste-endorsed-abate-pac",
-"https://ugasteforillinois.com/ugaste-endorsed-chicago-tribune",
-"https://ugasteforillinois.com/ugaste-endorsed-daily-herald",
-"https://ugasteforillinois.com/ugaste-endorsed-illinois-chamber-of-commerce",
-"https://ugasteforillinois.com/volunteer",
-"https://ugasteforillinois.com/wp-login.php"
+{
+"text": "$10",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=100"
+},
+{
+"text": "$20",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=20"
+},
+{
+"text": "$50",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today/donate?amount=50"
+},
+{
+"text": "About",
+"href": "https://ugasteforillinois.com/about/"
+},
+{
+"text": "Cheers & Beers with State Representative Dan Ugaste",
+"href": "https://ugasteforillinois.com/cheers-beers-2026/"
+},
+{
+"text": "Contact",
+"href": "https://ugasteforillinois.com/contact/"
+},
+{
+"text": "Continue Reading Cheers & Beers with State Representative Dan Ugaste",
+"href": "https://ugasteforillinois.com/cheers-beers-2026/"
+},
+{
+"text": "Continue Reading Illinois Fraternal Order of Police Endorse Dan Ugaste",
+"href": "https://ugasteforillinois.com/illinois-fraternal-order-of-police-endorse-dan-ugaste/"
+},
+{
+"text": "Continue Reading In case you missed it: GOP lawmakers propose ways to combat Illinois’ skyrocketing property tax bills",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-gop-lawmakers-propose-ways-to-combat-illinois-skyrocketing-property-tax-bills/"
+},
+{
+"text": "Continue Reading In case you missed it: Rep. Dan Ugaste receives Guardian of Small Business Award from NFIB",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib/"
+},
+{
+"text": "Continue Reading Join us for our Annual Pub Event with State Representative Dan Ugaste!",
+"href": "https://ugasteforillinois.com/2026pubevent/"
+},
+{
+"text": "Continue Reading Ugaste Endorsed: Chicago Tribune",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-chicago-tribune/"
+},
+{
+"text": "Continue Reading Ugaste Endorsed: Illinois Chamber of commerce",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-illinois-chamber-of-commerce/"
+},
+{
+"text": "Continue Reading Ugaste endorsed",
+"href": "https://ugasteforillinois.com/ugaste-endorsed/"
+},
+{
+"text": "Continue Reading Ugaste endorsed – Daily Herald",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-daily-herald/"
+},
+{
+"text": "Continue Reading Ugaste endorsed: ABATE PAC",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-abate-pac/"
+},
+{
+"text": "Dan@UgasteforIllinois.com",
+"href": "mailto:Dan@UgasteforIllinois.com"
+},
+{
+"text": "Dan’s Plan for Illinois",
+"href": "https://ugasteforillinois.com/dans-plan-for-illinois/"
+},
+{
+"text": "Donate",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today"
+},
+{
+"text": "Home",
+"href": "https://ugasteforillinois.com/"
+},
+{
+"text": "Illinois Fraternal Order of Police Endorse Dan Ugaste",
+"href": "https://ugasteforillinois.com/illinois-fraternal-order-of-police-endorse-dan-ugaste/"
+},
+{
+"text": "In case you missed it: GOP lawmakers propose ways to combat Illinois’ skyrocketing property tax bills",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-gop-lawmakers-propose-ways-to-combat-illinois-skyrocketing-property-tax-bills/"
+},
+{
+"text": "In case you missed it: Rep. Dan Ugaste receives Guardian of Small Business Award from NFIB",
+"href": "https://ugasteforillinois.com/in-case-you-missed-it-rep-dan-ugaste-receives-guardian-of-small-business-award-from-nfib/"
+},
+{
+"text": "Issues",
+"href": "https://ugasteforillinois.com/issues/"
+},
+{
+"text": "Join us for our Annual Pub Event with State Representative Dan Ugaste!",
+"href": "https://ugasteforillinois.com/2026pubevent/"
+},
+{
+"text": "Log in",
+"href": "https://ugasteforillinois.com/wp-login.php"
+},
+{
+"text": "News",
+"href": "https://ugasteforillinois.com/news/"
+},
+{
+"text": "Other",
+"href": "https://secure.winred.com/citizens-for-dan-ugaste/donate-today"
+},
+{
+"text": "Read More",
+"href": "https://ugasteforillinois.com/about/"
+},
+{
+"text": "Ugaste Endorsed: Chicago Tribune",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-chicago-tribune/"
+},
+{
+"text": "Ugaste Endorsed: Illinois Chamber of commerce",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-illinois-chamber-of-commerce/"
+},
+{
+"text": "Ugaste endorsed",
+"href": "https://ugasteforillinois.com/ugaste-endorsed/"
+},
+{
+"text": "Ugaste endorsed – Daily Herald",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-daily-herald/"
+},
+{
+"text": "Ugaste endorsed: ABATE PAC",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-abate-pac/"
+},
+{
+"text": "Volunteer",
+"href": "https://ugasteforillinois.com/volunteer/"
+},
+{
+"text": "[image: Dan Ugaste for State Representative]",
+"href": "https://ugasteforillinois.com/"
+},
+{
+"text": "[image]",
+"href": "https://ugasteforillinois.com/ugaste-endorsed-illinois-chamber-of-commerce/"
+},
+{
+"text": "[image]",
+"href": "https://ugasteforillinois.com/ugaste-endorsed/"
+}
 ]

@@ -1,7 +1,9 @@
 {
  "description": "Official campaign website for Shaw Blackmon",
  "final_url": "https://www.shawblackmon.com/home",
- "paid_for_by": "Paid for by Friends of Shaw Blackmon Powered by CampaignPartner",
+ "fingerprint": "b32fd6fc577504e2d65028d8721a2d4462de2f8a",
+ "format": 3,
+ "paid_for_by": "Sponsored by Rep",
  "title": "Shaw Blackmon for State House",
  "years_mentioned": [
   "2026",

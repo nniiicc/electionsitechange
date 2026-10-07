@@ -1,14 +1,58 @@
 [
-"https://email.marketing.godaddy.com/view/1C7OLptQnp5GkZBHxop0dlZs",
-"https://facebook.com/SemesnyeiForMASenate",
-"https://instagram.com/tedsemesnyei",
-"https://secure.winred.com/committee-to-elect-ted-semesnyei/donate-today",
-"https://semesnyei.com/",
-"https://semesnyei.com/about-ted",
-"https://semesnyei.com/blog",
-"https://semesnyei.com/donate",
-"https://semesnyei.com/events-1",
-"https://semesnyei.com/priorities",
-"https://semesnyei.com/sign-up%2Fcontact",
-"https://x.com/UsaReclaim/status/1999480368219718000"
+{
+"text": "About Ted",
+"href": "https://semesnyei.com/about-ted"
+},
+{
+"text": "Click to view our latest newsletter!",
+"href": "https://email.marketing.godaddy.com/view/1C7OLptQnp5GkZBHxop0dlZs"
+},
+{
+"text": "Donate",
+"href": "https://semesnyei.com/donate"
+},
+{
+"text": "Events",
+"href": "https://semesnyei.com/events-1"
+},
+{
+"text": "Home",
+"href": "https://semesnyei.com/"
+},
+{
+"text": "Learn More",
+"href": "https://semesnyei.com/about-ted"
+},
+{
+"text": "News",
+"href": "https://semesnyei.com/blog#7678a1da-db0b-42aa-a6ee-e9a54c32db13"
+},
+{
+"text": "Priorities",
+"href": "https://semesnyei.com/priorities"
+},
+{
+"text": "Sign Up/Contact",
+"href": "https://semesnyei.com/sign-up%2Fcontact"
+},
+{
+"text": "[image: The Next Phase Begins Soon]",
+"href": "https://semesnyei.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/SemesnyeiForMASenate"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/tedsemesnyei"
+},
+{
+"text": "[no text]",
+"href": "https://www.x.com/UsaReclaim/status/1999480368219718000"
+},
+{
+"text": "contribute today to help bring transparency and accountability to Massachusetts!",
+"href": "https://secure.winred.com/committee-to-elect-ted-semesnyei/donate-today"
+}
 ]

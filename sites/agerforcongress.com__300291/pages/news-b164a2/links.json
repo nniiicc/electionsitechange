@@ -1,39 +1,230 @@
 [
-"http://tiktok.com/@jamieagernc",
-"https://agerforcongress.com/",
-"https://agerforcongress.com/about",
-"https://agerforcongress.com/media",
-"https://agerforcongress.com/news",
-"https://agerforcongress.com/platform",
-"https://agerforcongress.com/press",
-"https://agerforcongress.com/privacy",
-"https://agerforcongress.com/volunteer",
-"https://agerforcongress.com/vote",
-"https://apnews.com/article/2016-midterms-democrats-candidates-flip-house-trump-197767b9a23e8828a67647851cb1e323",
-"https://bpr.org/politics-government/2026-03-03/democrats-choose-ager-in-nc-11-primary-race-edwards-wins-gop-nod",
-"https://bsky.app/profile/jamie.agerforcongress.com",
-"https://cardinalpine.com/news/jamie-ager-priorities",
-"https://cardinalpine.com/news/politics/farmer-congress-helene-recovery-cost-of-living",
-"https://carolinajournal.com/challenger-ager-takes-early-lead-in-nc-11-fundraising-over-edwards",
-"https://citizen-times.com/story/news/2026/03/16/what-is-jamie-ager-platform-us-house-candidate-on-fema-iran-wnc-recovery/89115437007",
-"https://citizen-times.com/story/news/local/2025/07/15/jamie-ager-hickory-nut-gap-ceo-and-co-founder-running-for-congress/85211048007",
-"https://citizen-times.com/videos/news/local/2026/05/19/jamie-ager-interview-after-fairview-campaign-rally/90161615007",
-"https://facebook.com/JamieAgerNC",
-"https://facebook.com/JamieAgerNC/events",
-"https://instagram.com/jamieagernc",
-"https://ms.now/chris-jansing-reports/watch/farmer-looking-to-flip-house-seat-in-nc-says-dems-need-to-appeal-more-to-rural-voters-2503325763554",
-"https://secure.actblue.com/donate/agerwebsite",
-"https://smokymountainnews.com/archives/item/39939-jamie-ager-enters-nc-11-race-with-message-of-rural-roots-business-acumen",
-"https://spectrumlocalnews.com/nc/charlotte/news/2026/07/17/western-nc-jamie-ager-chuck-edwards",
-"https://spectrumlocalnews.com/nc/charlotte/news/2026/08/18/jamie-ager-balkcom-chuck-edwards",
-"https://store.agerforcongress.com/",
-"https://thefoodsection.com/he-knows-how-the-sausage-gets-made",
-"https://threads.com/@jamieagernc",
-"https://washingtonpost.com/politics/2026/05/16/north-carolina-democratic-farmer-jamie-ager-wants-win-back-rural-voters",
-"https://wlos.com/news/local/democrat-jamie-ager-rally-asheville-yards-supporters-north-carolina-district-11-congressional-seat-republican-chuck-edwards-incumbent-campaign",
-"https://wlos.com/news/local/jamie-ager-reacts-chuck-edwards-withdrawal-exit-nc-11-congressional-race-house-committee-ethics-report",
-"https://wlos.com/newsletter-daily/jamie-ager-democrat-congressional-campaign-election-11-district-western-north-carolina-jennifer-balkcom-chuck-edwards-community",
-"https://x.com/jamieagernc",
-"https://xpslane.com/",
-"https://youtube.com/@AgerForCongress"
+{
+"text": "Challenger Ager takes early lead in NC-11 fundraising over Edwards",
+"href": "https://www.carolinajournal.com/challenger-ager-takes-early-lead-in-nc-11-fundraising-over-edwards/"
+},
+{
+"text": "Democrat Jamie Ager releases first ad after he gets new Republican opponent",
+"href": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/18/jamie-ager-balkcom-chuck-edwards"
+},
+{
+"text": "Democrats choose Ager in NC-11 primary race; Edwards wins GOP nod",
+"href": "https://www.bpr.org/politics-government/2026-03-03/democrats-choose-ager-in-nc-11-primary-race-edwards-wins-gop-nod"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/agerwebsite"
+},
+{
+"text": "Events",
+"href": "https://www.facebook.com/JamieAgerNC/events"
+},
+{
+"text": "Express Lane Strategies",
+"href": "https://xpslane.com/"
+},
+{
+"text": "Farmer looking to flip House seat in NC says Dems need to appeal more to rural voters",
+"href": "https://www.ms.now/chris-jansing-reports/watch/farmer-looking-to-flip-house-seat-in-nc-says-dems-need-to-appeal-more-to-rural-voters-2503325763554"
+},
+{
+"text": "He knows how the sausage gets made",
+"href": "https://thefoodsection.com/he-knows-how-the-sausage-gets-made/"
+},
+{
+"text": "He spent 25 years as a farmer. Now, he’s running for Congress to fight for Helene recovery and lower costs.",
+"href": "https://cardinalpine.com/news/politics/farmer-congress-helene-recovery-cost-of-living/"
+},
+{
+"text": "He’s a Democrat in Trump country. He says his party became ‘too urban.’",
+"href": "https://www.washingtonpost.com/politics/2026/05/16/north-carolina-democratic-farmer-jamie-ager-wants-win-back-rural-voters/"
+},
+{
+"text": "Hickory Nut Gap Farms CEO Jamie Ager talks Congress run, Iran, FEMA",
+"href": "https://www.citizen-times.com/story/news/2026/03/16/what-is-jamie-ager-platform-us-house-candidate-on-fema-iran-wnc-recovery/89115437007/"
+},
+{
+"text": "Home",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "Jamie Ager discusses Edwards’ exit, what’s next for the NC-11 race",
+"href": "https://wlos.com/news/local/jamie-ager-reacts-chuck-edwards-withdrawal-exit-nc-11-congressional-race-house-committee-ethics-report"
+},
+{
+"text": "Jamie Ager enters NC-11 race with message of rural roots, business acumen",
+"href": "https://smokymountainnews.com/archives/item/39939-jamie-ager-enters-nc-11-race-with-message-of-rural-roots-business-acumen"
+},
+{
+"text": "Jamie Ager rallies supporters in Asheville as NC-11 race heats up",
+"href": "https://wlos.com/news/local/democrat-jamie-ager-rally-asheville-yards-supporters-north-carolina-district-11-congressional-seat-republican-chuck-edwards-incumbent-campaign"
+},
+{
+"text": "Jamie Ager runs as ‘mountain Democrat’ in race against Rep. Edwards",
+"href": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/17/western-nc-jamie-ager-chuck-edwards"
+},
+{
+"text": "Jamie Ager speaks with Asheville Citizen Times after rally",
+"href": "https://www.citizen-times.com/videos/news/local/2026/05/19/jamie-ager-interview-after-fairview-campaign-rally/90161615007/"
+},
+{
+"text": "Jamie Ager vows to secure Helene funding, lower costs, and fight DC corruption",
+"href": "https://cardinalpine.com/news/jamie-ager-priorities/"
+},
+{
+"text": "Jamie Ager, Hickory Nut Gap Farm CEO and co-founder, running for Congress",
+"href": "https://www.citizen-times.com/story/news/local/2025/07/15/jamie-ager-hickory-nut-gap-ceo-and-co-founder-running-for-congress/85211048007/"
+},
+{
+"text": "Media",
+"href": "https://agerforcongress.com/media"
+},
+{
+"text": "Meet Jamie",
+"href": "https://agerforcongress.com/about"
+},
+{
+"text": "News",
+"href": "https://agerforcongress.com/news"
+},
+{
+"text": "Platform",
+"href": "https://agerforcongress.com/platform"
+},
+{
+"text": "Press Releases",
+"href": "https://agerforcongress.com/press"
+},
+{
+"text": "Privacy Policy",
+"href": "https://agerforcongress.com/privacy"
+},
+{
+"text": "Read More",
+"href": "https://apnews.com/article/2016-midterms-democrats-candidates-flip-house-trump-197767b9a23e8828a67647851cb1e323"
+},
+{
+"text": "Read More",
+"href": "https://cardinalpine.com/news/jamie-ager-priorities/"
+},
+{
+"text": "Read More",
+"href": "https://cardinalpine.com/news/politics/farmer-congress-helene-recovery-cost-of-living/"
+},
+{
+"text": "Read More",
+"href": "https://smokymountainnews.com/archives/item/39939-jamie-ager-enters-nc-11-race-with-message-of-rural-roots-business-acumen"
+},
+{
+"text": "Read More",
+"href": "https://spectrumlocalnews.com/nc/charlotte/news/2026/07/17/western-nc-jamie-ager-chuck-edwards"
+},
+{
+"text": "Read More",
+"href": "https://spectrumlocalnews.com/nc/charlotte/news/2026/08/18/jamie-ager-balkcom-chuck-edwards"
+},
+{
+"text": "Read More",
+"href": "https://thefoodsection.com/he-knows-how-the-sausage-gets-made/"
+},
+{
+"text": "Read More",
+"href": "https://wlos.com/news/local/democrat-jamie-ager-rally-asheville-yards-supporters-north-carolina-district-11-congressional-seat-republican-chuck-edwards-incumbent-campaign"
+},
+{
+"text": "Read More",
+"href": "https://wlos.com/news/local/jamie-ager-reacts-chuck-edwards-withdrawal-exit-nc-11-congressional-race-house-committee-ethics-report"
+},
+{
+"text": "Read More",
+"href": "https://wlos.com/newsletter-daily/jamie-ager-democrat-congressional-campaign-election-11-district-western-north-carolina-jennifer-balkcom-chuck-edwards-community"
+},
+{
+"text": "Read More",
+"href": "https://www.bpr.org/politics-government/2026-03-03/democrats-choose-ager-in-nc-11-primary-race-edwards-wins-gop-nod"
+},
+{
+"text": "Read More",
+"href": "https://www.carolinajournal.com/challenger-ager-takes-early-lead-in-nc-11-fundraising-over-edwards/"
+},
+{
+"text": "Read More",
+"href": "https://www.citizen-times.com/story/news/2026/03/16/what-is-jamie-ager-platform-us-house-candidate-on-fema-iran-wnc-recovery/89115437007/"
+},
+{
+"text": "Read More",
+"href": "https://www.citizen-times.com/story/news/local/2025/07/15/jamie-ager-hickory-nut-gap-ceo-and-co-founder-running-for-congress/85211048007/"
+},
+{
+"text": "Read More",
+"href": "https://www.citizen-times.com/videos/news/local/2026/05/19/jamie-ager-interview-after-fairview-campaign-rally/90161615007/"
+},
+{
+"text": "Read More",
+"href": "https://www.ms.now/chris-jansing-reports/watch/farmer-looking-to-flip-house-seat-in-nc-says-dems-need-to-appeal-more-to-rural-voters-2503325763554"
+},
+{
+"text": "Read More",
+"href": "https://www.washingtonpost.com/politics/2026/05/16/north-carolina-democratic-farmer-jamie-ager-wants-win-back-rural-voters/"
+},
+{
+"text": "Store",
+"href": "https://store.agerforcongress.com/"
+},
+{
+"text": "Volunteer",
+"href": "https://agerforcongress.com/volunteer"
+},
+{
+"text": "Voter Info",
+"href": "https://agerforcongress.com/vote"
+},
+{
+"text": "Where Trump is popular, Democrats look to a new crop of candidates to help win back the House",
+"href": "https://apnews.com/article/2016-midterms-democrats-candidates-flip-house-trump-197767b9a23e8828a67647851cb1e323"
+},
+{
+"text": "[image: Ager for Congress]",
+"href": "https://agerforcongress.com/"
+},
+{
+"text": "[no text]",
+"href": "http://tiktok.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/jamie.agerforcongress.com"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/JamieAgerNC/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@jamieagernc"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@AgerForCongress"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/jamieagernc"
+},
+{
+"text": "media@agerforcongress.com",
+"href": "mailto:media@agerforcongress.com"
+},
+{
+"text": "team@agerforcongress.com",
+"href": "mailto:team@agerforcongress.com"
+},
+{
+"text": "‘Strategy is still the same’: Jamie Ager campaigns in Asheville after GOP opponent change",
+"href": "https://wlos.com/newsletter-daily/jamie-ager-democrat-congressional-campaign-election-11-district-western-north-carolina-jennifer-balkcom-chuck-edwards-community"
+}
 ]

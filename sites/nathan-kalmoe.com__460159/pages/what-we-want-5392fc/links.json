@@ -1,23 +1,98 @@
 [
-"http://google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv",
-"http://google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO",
-"https://ballsandstrikes.org/law-politics/citizens-united-supreme-court-state-legislature-reforms",
-"https://docs.legis.wisconsin.gov/2025/proposals/sb1121",
-"https://jerusalemdeclaration.org/",
-"https://nathan-kalmoe.com/contact",
-"https://nathan-kalmoe.com/donate",
-"https://nathan-kalmoe.com/home",
-"https://nathan-kalmoe.com/listening-to-you",
-"https://nathan-kalmoe.com/meet-nathan",
-"https://nathan-kalmoe.com/news-videos",
-"https://nathan-kalmoe.com/scholarship",
-"https://nathan-kalmoe.com/take-action",
-"https://nathan-kalmoe.com/what-we-want",
-"https://nathan-kalmoe.com/wi-history",
-"https://nexusproject.us/",
-"https://no765line.org/",
-"https://pro.stateaffairs.com/wi/interviews/hesselbein-says-dems-can-accomplish-key-priorities-without-raising-taxes",
-"https://thetrace.org/2026/07/baltimore-violence-reduction-strategy",
-"https://wisconsinnetwork.org/news/2025-2027-state-budget-sells-wisconsin-kids-short",
-"https://wpr.org/health/wisconsin-democrats-push-expansive-health-care-agenda"
+{
+"text": "Contact",
+"href": "https://www.nathan-kalmoe.com/contact"
+},
+{
+"text": "Donate!",
+"href": "https://www.nathan-kalmoe.com/donate"
+},
+{
+"text": "Hesselbein led a funding deal with Republicans",
+"href": "https://www.wisconsinnetwork.org/news/2025-2027-state-budget-sells-wisconsin-kids-short"
+},
+{
+"text": "Home",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "Listening to YOU",
+"href": "https://www.nathan-kalmoe.com/listening-to-you"
+},
+{
+"text": "Meet Nathan",
+"href": "https://www.nathan-kalmoe.com/meet-nathan"
+},
+{
+"text": "Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "News & Videos",
+"href": "https://www.nathan-kalmoe.com/news-videos"
+},
+{
+"text": "Scholarship",
+"href": "https://www.nathan-kalmoe.com/scholarship"
+},
+{
+"text": "Sen. Hesselbein did not join Democratic colleagues",
+"href": "https://docs.legis.wisconsin.gov/2025/proposals/sb1121"
+},
+{
+"text": "Take Action!",
+"href": "https://www.nathan-kalmoe.com/take-action"
+},
+{
+"text": "WI History",
+"href": "https://www.nathan-kalmoe.com/wi-history"
+},
+{
+"text": "What We Want",
+"href": "https://www.nathan-kalmoe.com/what-we-want"
+},
+{
+"text": "[image: Facebook]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Ffacebook.com&sa=D&sntz=1&usg=AOvVaw3BCkRzU9i5zG3x7h_Z9aAv"
+},
+{
+"text": "[image: Instagram]",
+"href": "http://www.google.com/url?q=http%3A%2F%2Finstagram.com&sa=D&sntz=1&usg=AOvVaw1mw-jtMPJC-W0LFTWg7LnO"
+},
+{
+"text": "[image]",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "[image]Nathan for WI Senate",
+"href": "https://www.nathan-kalmoe.com/home"
+},
+{
+"text": "antisemitism",
+"href": "https://jerusalemdeclaration.org/"
+},
+{
+"text": "definitions",
+"href": "https://nexusproject.us/"
+},
+{
+"text": "focused deterrence",
+"href": "https://www.thetrace.org/2026/07/baltimore-violence-reduction-strategy/"
+},
+{
+"text": "models in Montana & Hawaii",
+"href": "https://ballsandstrikes.org/law-politics/citizens-united-supreme-court-state-legislature-reforms/"
+},
+{
+"text": "no 765 line",
+"href": "https://no765line.org/"
+},
+{
+"text": "said her policy priorities don't require any new taxes",
+"href": "https://pro.stateaffairs.com/wi/interviews/hesselbein-says-dems-can-accomplish-key-priorities-without-raising-taxes"
+},
+{
+"text": "weak public option",
+"href": "https://www.wpr.org/health/wisconsin-democrats-push-expansive-health-care-agenda"
+}
 ]

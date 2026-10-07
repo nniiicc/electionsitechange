@@ -1,17 +1,70 @@
 [
-"https://facebook.com/TerranceFreemanFL",
-"https://floridapolitics.com/archives/730636-freeman-jax-doge",
-"https://jaxtoday.org/2025/05/14/jacksonville-council-asks-state-doge-to-review-city-finances",
-"https://news4jax.com/news/local/2025/01/08/turning-point-for-jax-council-members-commend-jsos-efforts-in-reducing-citys-murder-rate",
-"https://registertovoteflorida.gov/home",
-"https://secure.anedot.com/terrance-freeman-campaign/donate",
-"https://terrancefreeman.com/",
-"https://terrancefreeman.com/district-12",
-"https://terrancefreeman.com/endorsements",
-"https://terrancefreeman.com/in-the-news",
-"https://terrancefreeman.com/priorities",
-"https://terrancefreeman.com/wp-content/uploads/2025/10/Freeman-4449a.jpg",
-"https://x.com/GovRonDeSantis/status/1922635795036311976",
-"https://x.com/TFreemanJax/status/1918407528846860305",
-"https://x.com/tfreemanjax"
+{
+"text": "About",
+"href": "https://terrancefreeman.com/#about"
+},
+{
+"text": "Contribute",
+"href": "https://secure.anedot.com/terrance-freeman-campaign/donate"
+},
+{
+"text": "District 12",
+"href": "https://terrancefreeman.com/district-12/"
+},
+{
+"text": "Endorsements",
+"href": "https://terrancefreeman.com/endorsements/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/TerranceFreemanFL"
+},
+{
+"text": "Home",
+"href": "https://terrancefreeman.com/"
+},
+{
+"text": "In The News",
+"href": "https://terrancefreeman.com/in-the-news/"
+},
+{
+"text": "Priorities",
+"href": "https://terrancefreeman.com/priorities/"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovoteflorida.gov/home"
+},
+{
+"text": "X-twitter",
+"href": "https://x.com/tfreemanjax"
+},
+{
+"text": "[image]",
+"href": "https://floridapolitics.com/archives/730636-freeman-jax-doge/"
+},
+{
+"text": "[image]",
+"href": "https://jaxtoday.org/2025/05/14/jacksonville-council-asks-state-doge-to-review-city-finances/"
+},
+{
+"text": "[image]",
+"href": "https://terrancefreeman.com"
+},
+{
+"text": "[image]",
+"href": "https://terrancefreeman.com/wp-content/uploads/2025/10/Freeman-4449a.jpg"
+},
+{
+"text": "[image]",
+"href": "https://www.news4jax.com/news/local/2025/01/08/turning-point-for-jax-council-members-commend-jsos-efforts-in-reducing-citys-murder-rate/"
+},
+{
+"text": "[image]",
+"href": "https://x.com/GovRonDeSantis/status/1922635795036311976"
+},
+{
+"text": "[image]",
+"href": "https://x.com/TFreemanJax/status/1918407528846860305"
+}
 ]

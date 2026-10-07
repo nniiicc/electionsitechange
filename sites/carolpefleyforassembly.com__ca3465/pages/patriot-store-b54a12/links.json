@@ -1,66 +1,274 @@
 [
-"https://california.ballottrax.net/voter",
-"https://carolpefleyforassembly.com/",
-"https://carolpefleyforassembly.com/about-carol",
-"https://carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates",
-"https://carolpefleyforassembly.com/ballot-statement",
-"https://carolpefleyforassembly.com/california-state-assembly-district-28",
-"https://carolpefleyforassembly.com/carols-calendar",
-"https://carolpefleyforassembly.com/cart",
-"https://carolpefleyforassembly.com/endorsements",
-"https://carolpefleyforassembly.com/events",
-"https://carolpefleyforassembly.com/get-involved",
-"https://carolpefleyforassembly.com/home-original",
-"https://carolpefleyforassembly.com/host-an-event",
-"https://carolpefleyforassembly.com/housing-mandates",
-"https://carolpefleyforassembly.com/in-the-news",
-"https://carolpefleyforassembly.com/key-priorities",
-"https://carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno",
-"https://carolpefleyforassembly.com/meet-carol",
-"https://carolpefleyforassembly.com/morgan-hill-against-up-zoning",
-"https://carolpefleyforassembly.com/news",
-"https://carolpefleyforassembly.com/patriot-store",
-"https://carolpefleyforassembly.com/patriot-store/accessories",
-"https://carolpefleyforassembly.com/patriot-store/hats",
-"https://carolpefleyforassembly.com/patriot-store/p/america-250-anniversary-cap-blue",
-"https://carolpefleyforassembly.com/patriot-store/p/america-250-commemorative-bow-brooch-special-edition",
-"https://carolpefleyforassembly.com/patriot-store/p/america-250th-anniversary-cotton-twill-cap",
-"https://carolpefleyforassembly.com/patriot-store/p/america-250th-anniversary-v-neck-t-shirt",
-"https://carolpefleyforassembly.com/patriot-store/p/california-bear-flag-pin",
-"https://carolpefleyforassembly.com/patriot-store/p/make-california-great-again-embroidered-hat",
-"https://carolpefleyforassembly.com/patriot-store/p/patriotic-v-neck",
-"https://carolpefleyforassembly.com/patriot-store/p/quality-learning-center-1-800-fraud-custom-novelty-trucker-hat",
-"https://carolpefleyforassembly.com/patriot-store/p/steve-hilton-for-governor-trucker-hat-black",
-"https://carolpefleyforassembly.com/patriot-store/p/steve-hilton-for-governor-trucker-hat-white",
-"https://carolpefleyforassembly.com/patriot-store/p/usa-250th-anniversary-t-shirt-blue",
-"https://carolpefleyforassembly.com/patriot-store/p/yi8z7jz6xta6tsnqc3gfjsmdif05q7",
-"https://carolpefleyforassembly.com/patriot-store/t-shirts",
-"https://carolpefleyforassembly.com/phone-bank-sign-up",
-"https://carolpefleyforassembly.com/pictures",
-"https://carolpefleyforassembly.com/podcast-california-screamin",
-"https://carolpefleyforassembly.com/podcasts",
-"https://carolpefleyforassembly.com/santa-cruz-housing-policy",
-"https://carolpefleyforassembly.com/statewide-ballot-measures",
-"https://carolpefleyforassembly.com/the-issue",
-"https://carolpefleyforassembly.com/volunteer",
-"https://carolpefleyforassembly.com/vote-2026",
-"https://carolpefleyforassembly.com/voter-guide-santa-clara-county",
-"https://carolpefleyforassembly.com/voter-guide-santa-cruz-county",
-"https://carolpefleyforassembly.com/voter-help",
-"https://carolpefleyforassembly.com/weekly-volunteer-meeting",
-"https://carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning",
-"https://conservativetoolbox.com/",
-"https://cpf.nucleuspages.com/landing/volunteer",
-"https://facebook.com/CarolPefleyforAssembly",
-"https://instagram.com/carol.pefley",
-"https://linkedin.com/in/carolpefleyforassembly",
-"https://registertovote.ca.gov/RegisterToVote",
-"https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2",
-"https://sos.ca.gov/elections/polling-place",
-"https://sos.ca.gov/elections/voter-registration/vote-mail",
-"https://sos.ca.gov/elections/who-are-my-representatives",
-"https://tiktok.com/@carolpefleyforassembly",
-"https://x.com/CPefley2026",
-"https://youtube.com/@CaliforniaScreamin",
-"https://youtube.com/@CarolPefleyforAssembly"
+{
+"text": "0",
+"href": "https://www.carolpefleyforassembly.com/cart"
+},
+{
+"text": "About Carol",
+"href": "https://www.carolpefleyforassembly.com/about-carol"
+},
+{
+"text": "Accessories",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/accessories"
+},
+{
+"text": "Almaden Valley",
+"href": "https://www.carolpefleyforassembly.com/almaden-valley-against-aggressive-housing-mandates"
+},
+{
+"text": "Assembly District 28",
+"href": "https://www.carolpefleyforassembly.com/california-state-assembly-district-28"
+},
+{
+"text": "Back",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "Ballot Statement",
+"href": "https://www.carolpefleyforassembly.com/ballot-statement"
+},
+{
+"text": "California Screamin",
+"href": "https://www.carolpefleyforassembly.com/podcast-california-screamin"
+},
+{
+"text": "Carol Pefley for Assembly",
+"href": "https://www.youtube.com/@CarolPefleyforAssembly"
+},
+{
+"text": "Carol's Calendar",
+"href": "https://www.carolpefleyforassembly.com/carols-calendar"
+},
+{
+"text": "Conservative Toolbox",
+"href": "https://conservativetoolbox.com"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Donate Today",
+"href": "https://secure.anedot.com/pefley2026/8234d110-17a5-4877-8a17-291d441ae4a2"
+},
+{
+"text": "Endorsements",
+"href": "https://www.carolpefleyforassembly.com/endorsements"
+},
+{
+"text": "Events",
+"href": "https://www.carolpefleyforassembly.com/events"
+},
+{
+"text": "Find Polling Center",
+"href": "https://www.sos.ca.gov/elections/polling-place"
+},
+{
+"text": "Find my Representative",
+"href": "https://www.sos.ca.gov/elections/who-are-my-representatives"
+},
+{
+"text": "Folder: Get Involved",
+"href": "https://www.carolpefleyforassembly.com/get-involved"
+},
+{
+"text": "Folder: Housing Mandates",
+"href": "https://www.carolpefleyforassembly.com/housing-mandates"
+},
+{
+"text": "Folder: Meet Carol",
+"href": "https://www.carolpefleyforassembly.com/meet-carol"
+},
+{
+"text": "Folder: Podcasts",
+"href": "https://www.carolpefleyforassembly.com/podcasts"
+},
+{
+"text": "Folder: Vote 2026",
+"href": "https://www.carolpefleyforassembly.com/vote-2026"
+},
+{
+"text": "Hats",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/hats"
+},
+{
+"text": "Host an Event",
+"href": "https://www.carolpefleyforassembly.com/host-an-event"
+},
+{
+"text": "In The News",
+"href": "https://www.carolpefleyforassembly.com/in-the-news"
+},
+{
+"text": "Key Priorities",
+"href": "https://www.carolpefleyforassembly.com/key-priorities"
+},
+{
+"text": "Los Gatos-Saratoga-Monte Sereno",
+"href": "https://www.carolpefleyforassembly.com/los-gatos-saratoga-monte-sereno"
+},
+{
+"text": "Morgan Hill",
+"href": "https://www.carolpefleyforassembly.com/morgan-hill-against-up-zoning"
+},
+{
+"text": "News by Carol",
+"href": "https://www.carolpefleyforassembly.com/news"
+},
+{
+"text": "Patriot Store",
+"href": "https://www.carolpefleyforassembly.com/patriot-store"
+},
+{
+"text": "Phone Bank Sign Up",
+"href": "https://www.carolpefleyforassembly.com/phone-bank-sign-up"
+},
+{
+"text": "Pictures",
+"href": "https://www.carolpefleyforassembly.com/pictures"
+},
+{
+"text": "Register to Vote",
+"href": "https://registertovote.ca.gov/RegisterToVote"
+},
+{
+"text": "Replace My Ballot",
+"href": "https://www.sos.ca.gov/elections/voter-registration/vote-mail"
+},
+{
+"text": "Santa Clara County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-clara-county"
+},
+{
+"text": "Santa Cruz",
+"href": "https://www.carolpefleyforassembly.com/santa-cruz-housing-policy"
+},
+{
+"text": "Santa Cruz County Voter Guide",
+"href": "https://www.carolpefleyforassembly.com/voter-guide-santa-cruz-county"
+},
+{
+"text": "Statewide Ballot Measures",
+"href": "https://www.carolpefleyforassembly.com/statewide-ballot-measures"
+},
+{
+"text": "T-Shirts",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/t-shirts"
+},
+{
+"text": "The Issue",
+"href": "https://www.carolpefleyforassembly.com/the-issue"
+},
+{
+"text": "Track My Ballot",
+"href": "https://california.ballottrax.net/voter/"
+},
+{
+"text": "Volunteer",
+"href": "https://cpf.nucleuspages.com/landing/volunteer"
+},
+{
+"text": "Volunteer",
+"href": "https://www.carolpefleyforassembly.com/volunteer"
+},
+{
+"text": "Voter Help",
+"href": "https://www.carolpefleyforassembly.com/voter-help"
+},
+{
+"text": "Weekly Volunteer Meeting",
+"href": "https://www.carolpefleyforassembly.com/weekly-volunteer-meeting"
+},
+{
+"text": "Willow Glen",
+"href": "https://www.carolpefleyforassembly.com/willow-glen-against-aggressive-upzoning"
+},
+{
+"text": "[image: Carol Pefley for California State Assembly District 28]",
+"href": "https://www.carolpefleyforassembly.com/"
+},
+{
+"text": "[image: Sign for The Patriot Store featuring an eagle emblem on the left, a California state outline in the center with the name Carol Peyley and district info, and a bell on the right.]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store"
+},
+{
+"text": "[image]",
+"href": "https://www.carolpefleyforassembly.com/home-original"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/america-250-anniversary-cap-blue"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/america-250-commemorative-bow-brooch-special-edition"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/america-250th-anniversary-cotton-twill-cap"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/america-250th-anniversary-v-neck-t-shirt"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/california-bear-flag-pin"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/make-california-great-again-embroidered-hat"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/patriotic-v-neck"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/quality-learning-center-1-800-fraud-custom-novelty-trucker-hat"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/steve-hilton-for-governor-trucker-hat-black"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/steve-hilton-for-governor-trucker-hat-white"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/usa-250th-anniversary-t-shirt-blue"
+},
+{
+"text": "[no text]",
+"href": "https://www.carolpefleyforassembly.com/patriot-store/p/yi8z7jz6xta6tsnqc3gfjsmdif05q7"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/CarolPefleyforAssembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/carol.pefley/"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/in/carolpefleyforassembly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@carolpefleyforassembly"
+},
+{
+"text": "[no text]",
+"href": "https://www.youtube.com/@CaliforniaScreamin"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/CPefley2026"
+},
+{
+"text": "carol@carolpefleyforassembly.com",
+"href": "mailto:carol@carolpefleyforassembly.com"
+}
 ]

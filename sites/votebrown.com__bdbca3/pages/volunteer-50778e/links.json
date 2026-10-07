@@ -1,13 +1,50 @@
 [
-"https://designedtorun.com/",
-"https://facebook.com/edwardbrownga",
-"https://instagram.com/edwardbrowngeorgia",
-"https://secure.actblue.com/donate/edward-brown-1",
-"https://votebrown.com/",
-"https://votebrown.com/about",
-"https://votebrown.com/contact",
-"https://votebrown.com/issues",
-"https://votebrown.com/privacy-policy",
-"https://votebrown.com/voting-info",
-"https://x.com/@EdwardBrownGA"
+{
+"text": "About",
+"href": "https://www.votebrown.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.votebrown.com/contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/edward-brown-1"
+},
+{
+"text": "Issues",
+"href": "https://www.votebrown.com/issues"
+},
+{
+"text": "Privacy Policy",
+"href": "https://www.votebrown.com/privacy-policy"
+},
+{
+"text": "RUN! website builder",
+"href": "https://designedtorun.com"
+},
+{
+"text": "Voting Info",
+"href": "https://www.votebrown.com/voting-info"
+},
+{
+"text": "[image: Edward Brown for Georgia]",
+"href": "https://www.votebrown.com/"
+},
+{
+"text": "[no text]",
+"href": "https://facebook.com/edwardbrownga/"
+},
+{
+"text": "[no text]",
+"href": "https://instagram.com/edwardbrowngeorgia"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/@EdwardBrownGA"
+},
+{
+"text": "contact@votebrown.com",
+"href": "mailto:contact@votebrown.com"
+}
 ]

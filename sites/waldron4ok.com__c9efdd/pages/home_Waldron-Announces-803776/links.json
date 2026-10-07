@@ -1,11 +1,38 @@
 [
-"https://campaignpartner.com/",
-"https://waldron4ok.com/",
-"https://waldron4ok.com/about_john",
-"https://waldron4ok.com/contact",
-"https://waldron4ok.com/contribute",
-"https://waldron4ok.com/events",
-"https://waldron4ok.com/home",
-"https://waldron4ok.com/issues",
-"https://waldron4ok.com/volunteer"
+{
+"text": "ABOUT JOHN",
+"href": "https://www.waldron4ok.com/about_john"
+},
+{
+"text": "CONTACT",
+"href": "https://www.waldron4ok.com/contact"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://www.waldron4ok.com/contribute"
+},
+{
+"text": "EVENTS",
+"href": "https://www.waldron4ok.com/events"
+},
+{
+"text": "HOME",
+"href": "https://www.waldron4ok.com/home"
+},
+{
+"text": "Political Websites",
+"href": "https://www.campaignpartner.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.waldron4ok.com/volunteer"
+},
+{
+"text": "VOTING INFO",
+"href": "https://www.waldron4ok.com/issues"
+},
+{
+"text": "[image]",
+"href": "https://www.waldron4ok.com/"
+}
 ]

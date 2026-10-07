@@ -1,17 +1,70 @@
 [
-"https://ilga.gov/house/RepBills.asp?MemberID=2907&Primary=True",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=1073&GAID=17&SessionID=112&LegID=142997",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=1247&GAID=17&SessionID=112&LegID=143343",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4231&GAID=16&SessionID=110&LegID=137230",
-"https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4349&GAID=17&SessionID=112&LegID=151254",
-"https://ilikereick.com/about",
-"https://ilikereick.com/contact",
-"https://ilikereick.com/contribute",
-"https://ilikereick.com/get-involved",
-"https://ilikereick.com/home",
-"https://ilikereick.com/legislation",
-"https://ilikereick.com/privacy-policy",
-"https://ilikereick.com/steves-blog",
-"https://ilikereick.com/videos",
-"https://turnkeydigital.com/"
+{
+"text": "About Steve",
+"href": "https://ilikereick.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://ilikereick.com/contact/"
+},
+{
+"text": "Contribute",
+"href": "https://ilikereick.com/contribute"
+},
+{
+"text": "H.B. 1073",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=1073&GAID=17&SessionID=112&LegID=142997"
+},
+{
+"text": "H.B. 4349",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4349&GAID=17&SessionID=112&LegID=151254"
+},
+{
+"text": "HB 1247",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4231&GAID=16&SessionID=110&LegID=137230"
+},
+{
+"text": "Legislation",
+"href": "https://ilikereick.com/legislation/"
+},
+{
+"text": "Other ways to help",
+"href": "https://ilikereick.com/get-involved"
+},
+{
+"text": "Privacy Policy",
+"href": "https://ilikereick.com/privacy-policy/"
+},
+{
+"text": "Steve’s Blog",
+"href": "https://ilikereick.com/steves-blog/"
+},
+{
+"text": "TurnKey Digital.",
+"href": "https://turnkeydigital.com"
+},
+{
+"text": "Videos",
+"href": "https://ilikereick.com/videos/"
+},
+{
+"text": "View Bill(opens in a new tab)",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=1073&GAID=17&SessionID=112&LegID=142997"
+},
+{
+"text": "View Bill(opens in a new tab)",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=1247&GAID=17&SessionID=112&LegID=143343"
+},
+{
+"text": "View Bill(opens in a new tab)",
+"href": "https://ilga.gov/legislation/BillStatus.asp?DocTypeID=HB&DocNum=4349&GAID=17&SessionID=112&LegID=151254"
+},
+{
+"text": "YOU CAN VIEW ALL BILLS I’VE SPONSORED AND CO-SPONSORED HERE(opens in a new tab)",
+"href": "https://ilga.gov/house/RepBills.asp?MemberID=2907&Primary=True"
+},
+{
+"text": "[image: steve reick]",
+"href": "https://ilikereick.com/home"
+}
 ]

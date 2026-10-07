@@ -1,5 +1,4 @@
-Get to Know Mark Legvold: Veteran, Farmer, Educator
-I’m Mark Legvold and I’m running for MN Senate in District 58.
+0 Skip to Content Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Open Menu Close Menu Home Mark's Story Policy Core Values Endorsements Upcoming Events Contact Donate Get to Know Mark Legvold: Veteran, Farmer, Educator I’m Mark Legvold and I’m running for MN Senate in District 58.
 My story centers around the core values I grew up with on the farm and continued in my career in the military and in public education: Work hard, serve others, act with integrity, value learning, and treat others with care and respect.
 I’ve served others my entire professional life.
 Throughout my 33 year career in the military, I had jobs that served others - a firefighter, a cop, a first sergeant, and the senior enlisted leader for my organization.
@@ -23,6 +22,6 @@ Families deserve a voice in the senate of someone who’s had to balance all the
 Someone who believes we deserve to have money at the end of the month, instead of month at the end of our money!
 Veterans and our military families deserve a voice in the senate from someone who has laced up their boots each day and done the hard work to make the country and the state of Minnesota safe, secure, and free.
 We all deserve a voice in the senate from someone who really believes that the best of us is found in good relationships, a common sense approach to policy issues, and someone who knows what public service is about because they’ve served their entire life.
-Real Service, Shared Values
-Mark Legvold has been a member of the Air National Guard.
+Real Service, Shared Values Mark Legvold has been a member of the Air National Guard.
 Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.
+Donate MN Political Contribution Refund Prepared and paid for by the Mark Legvold for Senate Committee PO Box 27, 14 Bridge Square, Northfield, MN 55057 Contact: legvoldcampaign@gmail.com Campaign FAQ Mark in the News Voting FAQ

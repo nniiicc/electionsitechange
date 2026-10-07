@@ -1,9 +1,34 @@
 [
-"https://charleshorst.com/",
-"https://charleshorst.com/blog",
-"https://charleshorst.com/contact-us",
-"https://facebook.com/115876346623189",
-"https://godaddy.com/websites/website-builder?isc=pwugc",
-"https://policies.google.com/privacy",
-"https://policies.google.com/terms"
+{
+"text": "Blog",
+"href": "https://charleshorst.com/blog"
+},
+{
+"text": "Charles Horst Delegate 95th Charles Horst Delegate 95th Charles Horst Delegate 95th Charles Horst Delegate 95th",
+"href": "https://charleshorst.com/"
+},
+{
+"text": "Contact Us",
+"href": "https://charleshorst.com/contact-us"
+},
+{
+"text": "Home",
+"href": "https://charleshorst.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://policies.google.com/privacy"
+},
+{
+"text": "Terms of Service",
+"href": "https://policies.google.com/terms"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/115876346623189"
+},
+{
+"text": "[no text]",
+"href": "https://www.godaddy.com/websites/website-builder?isc=pwugc"
+}
 ]

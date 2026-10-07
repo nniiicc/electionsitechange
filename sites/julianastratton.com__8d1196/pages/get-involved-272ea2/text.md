@@ -1,7 +1,3 @@
-If you've saved your information with ActBlue Express, your donation will go through immediately.
-If donating by mail make checks payable to:
-Juliana for Illinois | PO Box 372, Chicago, IL 60690
-Press InquirIES: press@julianastratton.com
-Contact: info@julianastratton.com
-Privacy Policy | Terms of Service
-Paid for by Juliana for Illinois
+top of page Donate Today to Elect Juliana for U.S.
+Senate Donate to Elect Juliana If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# CHIP IN If donating by mail make checks payable to: Juliana for Illinois | PO Box 372, Chicago, IL 60690 Press InquirIES: press@julianastratton.com Contact: info@julianastratton.com ​ Privacy Policy | Terms of Service Paid for by Juliana for Illinois Donate to Elect Juliana $# $# $# $# $# CHIP IN If you've saved your information with ActBlue Express, your donation will go through immediately.
+Donate to Elect Juliana If you've saved your information with ActBlue Express, your donation will go through immediately. $# $# $# $# $# CHIP IN Donate Meet Juliana Juliana's Priorities Endorsements Get Involved Store Menu Close Donate Sign up bottom of page

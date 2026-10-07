@@ -1,17 +1,2 @@
-$22,800,000
-Police and Public Safety
-$46,000,000
-Health & Social Safety Programs
-$52,720,000
-Environment & Climate Change
-$3,600,000
-Water Reliability
-$6,870,000
-Parks & Libraries
-$3,200,000
-Senior Programs as well as Adults with Disabilities
-$40,000,000
-Domestic Violence Programs
-To learn more about how funding secured by Assemblywoman Rubio has helped our community, read about the success story at Esperanza Villa:
-From tiny home to a home of her own
-San Gabriel Valley’s first tiny home village opens in time for the holidays
+Skip to content Ξ Home Meet Blanca Issues Public Safety & Criminal Justice Housing & Homelessness Education & Youth Domestic Violence Healthcare Aging Consumer Protections Water Climate Change Animal Protection Women’s Issues Our District Media News Photos Awards Events Contact Donate Search for: Assemblywoman Blanca Rubio Delivered Making sure our neighborhoods thrive is a top priority for Blanca.
+Since 2016, she has brought over $326 million to our community, including major funding in the following areas: $65,154,000 Homelessness and Affordable Housing $22,800,000 Police and Public Safety $46,000,000 Health & Social Safety Programs $52,720,000 Environment & Climate Change $3,600,000 Water Reliability $6,870,000 Parks & Libraries $3,200,000 Senior Programs as well as Adults with Disabilities $40,000,000 Domestic Violence Programs To learn more about how funding secured by Assemblywoman Rubio has helped our community, read about the success story at Esperanza Villa: From tiny home to a home of her own San Gabriel Valley’s first tiny home village opens in time for the holidays Facts and background information about Esperanza Villa Home Meet Blanca Media Photos Contact Volunteer Donate Working for you Paid for by Blanca Rubio for Assembly 2024 • FPPC ID #1456604 Site by BSC

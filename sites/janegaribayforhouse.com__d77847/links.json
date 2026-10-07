@@ -1,12 +1,50 @@
 [
-"https://facebook.com/janegaribayforhouse",
-"https://instagram.com/janegaribayforhouse",
-"https://janegaribayforhouse.com/",
-"https://janegaribayforhouse.com/about",
-"https://janegaribayforhouse.com/contact",
-"https://janegaribayforhouse.com/issues",
-"https://janegaribayforhouse.com/issues/fighting-for-our-seniors",
-"https://janegaribayforhouse.com/issues/issue-four",
-"https://janegaribayforhouse.com/issues/issue-three",
-"https://janegaribayforhouse.com/news"
+{
+"text": "About Jane Garibay",
+"href": "https://janegaribayforhouse.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://janegaribayforhouse.com/contact/"
+},
+{
+"text": "Facebook",
+"href": "https://facebook.com/janegaribayforhouse"
+},
+{
+"text": "Fighting For Our Seniors",
+"href": "https://janegaribayforhouse.com/issues/fighting-for-our-seniors/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/janegaribayforhouse/"
+},
+{
+"text": "Issues",
+"href": "https://janegaribayforhouse.com/issues/"
+},
+{
+"text": "Jane M. Garibay",
+"href": "https://janegaribayforhouse.com"
+},
+{
+"text": "Latest News",
+"href": "https://janegaribayforhouse.com/news/"
+},
+{
+"text": "Meet Jane",
+"href": "https://janegaribayforhouse.com/about"
+},
+{
+"text": "Read More",
+"href": "https://janegaribayforhouse.com/about/"
+},
+{
+"text": "Supporting Veterans",
+"href": "https://janegaribayforhouse.com/issues/issue-four/"
+},
+{
+"text": "Working Across the Aisle",
+"href": "https://janegaribayforhouse.com/issues/issue-three/"
+}
 ]

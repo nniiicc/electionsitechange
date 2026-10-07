@@ -1,13 +1,62 @@
 [
-"https://allenforarkansas.com/",
-"https://allenforarkansas.com/about",
-"https://allenforarkansas.com/about-5",
-"https://allenforarkansas.com/allen-events",
-"https://allenforarkansas.com/yard-sign",
-"https://facebook.com/JacobAllenforArkansas?mibextid=wwXIfr&rdid=DxmXuKCFZFW92Yq1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1TPTF5nnCs%2F%3Fmibextid%3DwwXIfr",
-"https://goodchange.app/donate/allenforar",
-"https://instagram.com/allen_for_arkansas",
-"https://iwillvote.com/",
-"https://linkedin.com/in/jacob-allen-continuity-planner",
-"https://tiktok.com/@jacob_allen_for_arkansas"
+{
+"text": "About Me",
+"href": "https://www.allenforarkansas.com/about"
+},
+{
+"text": "DONATE",
+"href": "https://goodchange.app/donate/allenforar"
+},
+{
+"text": "Donation Optional",
+"href": "https://goodchange.app/donate/allenforar"
+},
+{
+"text": "Events",
+"href": "https://www.allenforarkansas.com/allen-events"
+},
+{
+"text": "Home",
+"href": "https://www.allenforarkansas.com"
+},
+{
+"text": "Home",
+"href": "https://www.allenforarkansas.com/yard-sign"
+},
+{
+"text": "SUBSCRIBE",
+"href": "https://www.allenforarkansas.com"
+},
+{
+"text": "Volunteer",
+"href": "https://www.allenforarkansas.com/about-5"
+},
+{
+"text": "Vote",
+"href": "https://iwillvote.com"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JacobAllenforArkansas?mibextid=wwXIfr&rdid=DxmXuKCFZFW92Yq1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1TPTF5nnCs%2F%3Fmibextid%3DwwXIfr"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/allen_for_arkansas/"
+},
+{
+"text": "[image: LinkedIn]",
+"href": "https://www.linkedin.com/in/jacob-allen-continuity-planner/"
+},
+{
+"text": "[image: TikTok]",
+"href": "https://www.tiktok.com/@jacob_allen_for_arkansas"
+},
+{
+"text": "[image: White_300x.png]",
+"href": "https://www.allenforarkansas.com"
+},
+{
+"text": "info@allenforarkansas.com",
+"href": "mailto:info@allenforarkansas.com"
+}
 ]

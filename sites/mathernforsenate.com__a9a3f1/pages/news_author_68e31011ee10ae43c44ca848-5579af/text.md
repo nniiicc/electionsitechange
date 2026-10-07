@@ -1,4 +1,3 @@
-Mathern Calls for a Data Center Pause
-Mathern Pushes to Bring Data Center Deals Out of the Dark.
-Mental Health Remains a Priority for Mathern
-Mental health remains a priority for Senator Tim Mathern as he continues advocating for stronger behavioral health services and improved access to care across North Dakota.
+0 Skip to Content Home News DONATE Open Menu Close Menu Home News DONATE Open Menu Close Menu Home News DONATE Madison Hanson 8/12/26 Madison Hanson 8/12/26 Mathern Calls for a Data Center Pause Read More Madison Hanson 8/12/26 Madison Hanson 8/12/26 Mathern Pushes to Bring Data Center Deals Out of the Dark.
+Read More Madison Hanson 5/26/26 Madison Hanson 5/26/26 Mental Health Remains a Priority for Mathern Mental health remains a priority for Senator Tim Mathern as he continues advocating for stronger behavioral health services and improved access to care across North Dakota.
+Read More Madison Hanson 5/25/26 Madison Hanson 5/25/26 honoring service, family, and community Read More Contact Us contact@mathernforsenate.com Follow Senator Mathern Facebook Instagram

@@ -1,15 +1,62 @@
 [
-"https://facebook.com/thaddeusforstaterep",
-"https://instagram.com/calcity3?hl=en",
-"https://nstopweb.com/",
-"https://secure.actblue.com/donate/thaddeus-2024",
-"https://thaddeusjonesforstaterep.com/",
-"https://thaddeusjonesforstaterep.com/about-thaddeus",
-"https://thaddeusjonesforstaterep.com/contact",
-"https://thaddeusjonesforstaterep.com/donate",
-"https://thaddeusjonesforstaterep.com/events",
-"https://thaddeusjonesforstaterep.com/issues",
-"https://thaddeusjonesforstaterep.com/volunteer",
-"https://thaddeusjonesforstaterep.com/yard-sign",
-"https://twitter.com/repthadeusjones"
+{
+"text": "About",
+"href": "https://www.thaddeusjonesforstaterep.com/about-thaddeus/"
+},
+{
+"text": "Attend Events",
+"href": "https://www.thaddeusjonesforstaterep.com/events/"
+},
+{
+"text": "Contact",
+"href": "https://www.thaddeusjonesforstaterep.com/contact/"
+},
+{
+"text": "Donate",
+"href": "https://www.thaddeusjonesforstaterep.com/donate/"
+},
+{
+"text": "Facebook",
+"href": "https://www.facebook.com/thaddeusforstaterep"
+},
+{
+"text": "Home",
+"href": "https://www.thaddeusjonesforstaterep.com/"
+},
+{
+"text": "Instagram",
+"href": "https://www.instagram.com/calcity3/?hl=en"
+},
+{
+"text": "Issues",
+"href": "https://www.thaddeusjonesforstaterep.com/issues/"
+},
+{
+"text": "Non-Stop Web Design",
+"href": "https://www.nstopweb.com"
+},
+{
+"text": "Thaddeus Jones for State Rep",
+"href": "https://www.thaddeusjonesforstaterep.com"
+},
+{
+"text": "Twitter",
+"href": "https://twitter.com/repthadeusjones"
+},
+{
+"text": "Volunteer",
+"href": "https://www.thaddeusjonesforstaterep.com/volunteer/"
+},
+{
+"text": "Yard Sign",
+"href": "https://www.thaddeusjonesforstaterep.com/yard-sign/"
+},
+{
+"text": "[image: Thaddeus Jones for State Rep]",
+"href": "https://www.thaddeusjonesforstaterep.com/"
+},
+{
+"text": "[image]",
+"href": "https://secure.actblue.com/donate/thaddeus-2024"
+}
 ]

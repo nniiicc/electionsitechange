@@ -1,10 +1,4 @@
-top of page
-Upcoming Events
-- Ravena Canvass with Janet Tweed for AssemblySat, Oct 17Rail To River Brewing
-- Joint Montgomery County CanvassSun, Oct 18Riverlink Park
-- Joint Glenville CanvassSun, Oct 18Collins Park
-- Albany Canvass with Sixth Ward DemocratsSun, Oct 04Albany Campaign Office
-- Scotia Canvass with Schenectady County DemocratsSun, Oct 04Collins Park
-- Albany Canvass with the ACDCSat, Oct 03ACDC HQ
-- Guilderland Canvass with Assemblymember Phil SteckSat, Oct 03Corner Ice Cream
-bottom of page
+top of page Home Meet Pat Record of Results Endorsements Events News Chat With Pat Pat Fahy for State Senate DONATE Request a Lawn Sign!
+Upcoming Events Multiple Dates Daily Remote Phonebanking for Pat Wed, Oct 07 Start Making Calls Now!
+More info RSVP Multiple Dates Weekly Thursday Canvass: Albany Thu, Oct 08 Albany Office More info RSVP Multiple Dates Weekly Friday Canvass: Albany Fri, Oct 09 Albany Office More info RSVP Multiple Dates Weekly Monday Canvass: Albany Mon, Oct 12 Albany Office More info RSVP Multiple Dates Weekly Tuesday Phonebanking for Pat Tue, Oct 13 Albany Office More info RSVP Ravena Canvass with Janet Tweed for Assembly Sat, Oct 17 Rail To River Brewing More info RSVP Joint Montgomery County Canvass Sun, Oct 18 Riverlink Park More info RSVP Joint Glenville Canvass Sun, Oct 18 Collins Park More info RSVP Albany Canvass with Sixth Ward Democrats Sun, Oct 04 Albany Campaign Office More info Details Scotia Canvass with Schenectady County Democrats Sun, Oct 04 Collins Park More info Details Albany Canvass with the ACDC Sat, Oct 03 ACDC HQ More info Details Guilderland Canvass with Assemblymember Phil Steck Sat, Oct 03 Corner Ice Cream More info Details Friends of Patricia Fahy 2026, P.O.
+Box 8282, Albany, NY 12208 pat@patriciafahy.com ​ ​Accessibility Statement © # by Friends of Patricia Fahy 2026. bottom of page

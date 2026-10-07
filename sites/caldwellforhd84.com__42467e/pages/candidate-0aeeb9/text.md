@@ -1,3 +1,6 @@
+0 Skip to Content Home About the Candidate Issues Contact DONATE!
+Open Menu Close Menu Home About the Candidate Issues Contact DONATE!
+Open Menu Close Menu Home About the Candidate Issues Contact DONATE!
 WHO I AM.
 My Montana roots stretch back four generations to 1869, when my great-grandfather immigrated here from Germany.
 Though I was born in California and raised in New Mexico, I spent most of my non-work time as an adult visiting friends and relatives in Montana before finally making it my permanent home.
@@ -13,3 +16,8 @@ I’ve volunteered for many years with the Boy Scouts of America and Civil Air P
 I’m active in my church and local curling club.
 I enjoy skiing, mountain biking, kayaking and traveling throughout the West in my camper van.
 I am a proud father of two sons: Nathan, an Aerospace Engineer, and Brent, an Airline Customer Service Supervisor.
+ROY CALDWELL FOR MONTANA STATE HOUSE INTEGRITY - SERVICE - COMMUNITY About ‍ ‍ Contact ‍ ‍ Donate roymthd84@gmail.com (406) 475-4184 Roy Caldwell is a Veteran of the United States Air Force.
+Use of his military rank, job titles and photographs in uniform does not imply endorsement by the United States Air Force or the Department of War.
+PAID FOR BY CALDWELL FOR MONTANA STATE HOUSE.
+REPUBLICAN.
+PO BOX 9803, HELENA, MT 59604

@@ -1,5 +1,4 @@
-About Lisbeth
-Lisbeth Arescurenaga is a community leader and mental health advocate running for State Representative in Arizona’s Legislative District 24.
+0 Skip to Content Home About A Message to My Community DONATE Open Menu Close Menu Home About A Message to My Community DONATE Open Menu Close Menu Home About A Message to My Community DONATE About Lisbeth Lisbeth Arescurenaga is a community leader and mental health advocate running for State Representative in Arizona’s Legislative District 24.
 She is running to bring lived experience, compassion, and strong community leadership to the Arizona Legislature.
 Born in Peru, Lisbeth immigrated to the United States alone at the age of 15.
 Adjusting to a new country, language, and culture shaped her understanding of how challenging it can be for families to access education, services, and reliable information.
@@ -10,3 +9,4 @@ Her work includes community education, outreach, and voter education initiatives
 Lisbeth’s background in mental health influences how she leads.
 She understands the effects of stress, trauma, and limited access to care, and she believes effective leadership begins with listening and follows with thoughtful action.
 A mother and proud member of the LGBTQ+ community, Lisbeth is running to ensure community voices are reflected in policy and that every family in Legislative District 24 has the opportunity to succeed.
+Paid for by Lisbeth Arescurenaga for Arizona House Contact lisbeth4az@gmail.com

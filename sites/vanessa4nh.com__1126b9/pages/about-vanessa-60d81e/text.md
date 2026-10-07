@@ -1,7 +1,2 @@
-NH State Representative for the Town of Milford
-Hillsborough County Executive Committee Member
-Vice Chairman of Legislative Administration
-Milford Select Board Member
-Realtor
-Copyright © 2026 Vanessa for NH - All Rights Reserved.
+Home Introduction About Vanessa Policies Achievements 2026 Achievements 2025 Endorsements Donate Contact Photos More Home Introduction About Vanessa Policies Achievements 2026 Achievements 2025 Endorsements Donate Contact Photos Home Introduction About Vanessa Policies Achievements 2026 Achievements 2025 Endorsements Donate Contact Photos About Vanessa Political Office NH State Representative for the Town of Milford Hillsborough County Executive Committee Member House Committees Vice Chairman of Legislative Administration Local Government Milford Select Board Member Employment Realtor Copyright © # Vanessa for NH - All Rights Reserved.
 Powered by

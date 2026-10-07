@@ -1,7 +1,4 @@
-9.8.2024
-El blog en español sigue
-The Special Session Property Tax Wars
-As most of you know, The Governor pulled us all back in for a Special Session on August 26th to approve a deal that would cut more local community revenue in the form of minor property tax reductions for property owners.
+Home About Contact Issues Read Select Page Special Session 2024 by lorenaeegarcia | Sep 8, 2024 | Uncategorized 9.8.2024 El blog en español sigue The Special Session Property Tax Wars As most of you know, The Governor pulled us all back in for a Special Session on August 26th to approve a deal that would cut more local community revenue in the form of minor property tax reductions for property owners.
 This deal was brokered between Sen.
 Kirkmeyer, Former Gov.
 Owens, anti-government activist and philanthropist Michael Fields and Governor Polis in order to get two extremely harmful ballot initiative off the ballot, props 50 and 108 that would have devastated local communities.
@@ -23,8 +20,7 @@ While some say this deal has provided a temporary, six-year halt on the property
 While I understand the desire to get something less bad, over the devastating, I believed, and still believe that would could have avoided additional cuts entirely had we fought these measures at the ballot box.
 I hope that we as a community and as a state take this opportunity to recognize how TABOR impacts our ability to create good and fair tax policy in the state.
 I hope you will join me in the fight to reform Colorado’s fiscal policy so we can have a state where everyone can thrive.
-La session especial sobre la guerra de los impuestos a la propiedad
-Como la mayoría de ustedes saben, el Gobernador nos convocó a todos nuevamente a una Sesión Especial el 26 de agosto para aprobar un acuerdo que recortaría más ingresos de las comunidades locales en forma de reducciones menores del impuesto a la propiedad para los propietarios.
+La session especial sobre la guerra de los impuestos a la propiedad Como la mayoría de ustedes saben, el Gobernador nos convocó a todos nuevamente a una Sesión Especial el 26 de agosto para aprobar un acuerdo que recortaría más ingresos de las comunidades locales en forma de reducciones menores del impuesto a la propiedad para los propietarios.
 Este acuerdo fue negociado entre el senador Kirkmeyer, el exgobernador Owens, el activista antigubernamental y filántropo Michael Fields y el gobernador Polis para eliminar de la boleta dos iniciativas electorales extremadamente dañinas, las propuestas 50 y 108, que habrían devastado a las comunidades locales.
 Estas dos iniciativas habrían destruido los ingresos de las comunidades locales al recortar los impuestos a la propiedad en todos los ámbitos y requerir que los gobiernos locales lleven a cabo campañas en todo el condado cada cuatro años para permitir que las comunidades locales utilicen todos los ingresos que se obtienen a través de impuestos locales para servicios comunitarios, incluida la respuesta a emergencias y la financiación de nuestras escuelas públicas locales.
 El acuerdo aprobado por la legislatura le ahorra al propietario promedio alrededor de $65 por año, mientras que aquellos con casas de mayor valor, $2 millones o más, ahorran alrededor de $800 al año.
@@ -43,3 +39,4 @@ Si bien algunos dicen que este acuerdo ha proporcionado un alto temporal de seis
 Si bien entiendo el deseo de conseguir algo menos malo, más allá de lo devastador, creía, y sigo creyendo, que se podrían haber evitado recortes adicionales por completo si hubiésemos luchado contra estas medidas en la boleta.
 Espero que nosotros, como comunidad y como estado, aprovechemos esta oportunidad para reconocer cómo TABOR impacta nuestra capacidad de crear una política fiscal buena y justa en el estado.
 Espero que se unan a mí en la lucha para reformar la política fiscal de Colorado para que podamos tener un estado donde todos puedan prosperar.
+Search Search Facebook Instagram Paid for by LORENAFORCOLORADO

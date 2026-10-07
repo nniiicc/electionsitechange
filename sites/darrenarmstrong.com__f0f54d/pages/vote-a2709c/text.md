@@ -1,51 +1,12 @@
-Vote for Darren Armstrong on March 3rd!
-Vote for conservative Republican Darren Armstrong in the March 3rd primary for North Carolina House of Representatives District 79, representing Beaufort, Pamlico, Hyde, and Dare counties.
-Need help learning where or how to vote?
+Skip to content Meet Darren News Get Involved Contribute Volunteer Contact Photo Gallery Vote Meet Darren News Get Involved Contribute Volunteer Contact Photo Gallery Vote Facebook Instagram Youtube CONTRIBUTE Vote Vote for Darren Armstrong on March 3rd!
+Vote for conservative Republican Darren Armstrong in the March 3rd primary for North Carolina House of Representatives District 79 , representing Beaufort, Pamlico, Hyde, and Dare counties.
+Find Your Polling Place Register to Vote Need help learning where or how to vote?
 Need help getting to the polls?
-Send Us a Message
-"*" indicates required fields
-NC House District 79
-Our district is home to the following counties, zip codes, and towns.
-Beaufort County (including any that overlap with adjacent counties)
-27806 (Aurora)
-27808 (Bath)
-27810 (Belhaven)
-27814 (Blounts Creek)
-27817 (Chocowinity)
-27821 (Edward)
-27834 (Greenville)
-27837 (Grimesland)
-27860 (Pantego)
-27865 (Pinetown)
-27889 (Washington)
-27892 (Williamston)
-27962 (Plymouth)
-28586 (Vanceboro)
-Hyde County, NC
-27824 (Engelhard)
-27826 (Fairfield)
-27875 (Scranton)
-27885 (Swanquarter)
-27960 (Ocracoke)
-Pamlico County (including any that overlap with adjacent counties)
-28509 (Alliance)
-28510 (Arapahoe)
-28515 (Bayboro)
-28529 (Grantsboro)
-28537 (Hobucken)
-28552 (Lowland)
-28556 (Merritt)
-28560 (New Bern)
-28571 (Oriental)
-28583 (Stonewall)
-28587 (Vandemere)
-Southern Portion of Dare County (from Kill Devil Hills south to Hatteras)
-27948 (Kill Devil Hills)
-27959 (Nags Head)
-27968 (Rodanthe)
-27982 (Waves)
-27972 (Salvo)
-27915 (Avon)
-27920 (Buxton)
-27936 (Frisco)
-27943 (Hatteras)
+Send Us a Message " * " indicates required fields First Name * Last Name * Email * Phone Address Street Address City State Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah U.S.
+Virgin Islands Vermont Virginia Washington West Virginia Wisconsin Wyoming Armed Forces Americas Armed Forces Europe Armed Forces Pacific ZIP Code Message * Consent * I certify that I agree with our privacy policy regarding the use of personal information.
+Please do not submit sensitive personal information through the forms on this website. * Submit NC House District 79 Our district is home to the following counties, zip codes, and towns.
+Beaufort County (including any that overlap with adjacent counties) 27806 (Aurora) 27808 (Bath) 27810 (Belhaven) 27814 (Blounts Creek) 27817 (Chocowinity) 27821 (Edward) 27834 (Greenville) 27837 (Grimesland) 27860 (Pantego) 27865 (Pinetown) 27889 (Washington) 27892 (Williamston) 27962 (Plymouth) 28586 (Vanceboro) Hyde County, NC 27824 (Engelhard) 27826 (Fairfield) 27875 (Scranton) 27885 (Swanquarter) 27960 (Ocracoke) Pamlico County (including any that overlap with adjacent counties) 28509 (Alliance) 28510 (Arapahoe) 28515 (Bayboro) 28529 (Grantsboro) 28537 (Hobucken) 28552 (Lowland) 28556 (Merritt) 28560 (New Bern) 28571 (Oriental) 28583 (Stonewall) 28587 (Vandemere) Southern Portion of Dare County (from Kill Devil Hills south to Hatteras) 27948 (Kill Devil Hills) 27959 (Nags Head) 27968 (Rodanthe) 27982 (Waves) 27972 (Salvo) 27915 (Avon) 27920 (Buxton) 27936 (Frisco) 27943 (Hatteras) Facebook Instagram Youtube contact@darrenarmstrong.com We strive to make this site as accessible as possible for all of our visitors.
+If you have any concerns about the accessibility of this website, please contact us or report an accessibility issue to us immediately so we can help you and also improve our website.
+Our email address is contact@darrenarmstrong.com , our phone number is 252-943-3141 and our office is at 336 Circle Grove Farm Rd, Belhaven, NC 27810 .
+In addition to online, all service and information can be acquired via phone, email, or at our office.
+Privacy Policy Accessibility Paid for by Armstrong for HD 79

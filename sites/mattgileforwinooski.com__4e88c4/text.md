@@ -1,12 +1,4 @@
-Skip to content
-Meet Matt
-Issues
-Lawn Signs
-Endorsements
-Donate
-School librarian, labor leader, and Democratic Socialist.
-Loading Comments...
+Skip to content Meet Matt Issues Lawn Signs Endorsements Donate School librarian, labor leader, and Democratic Socialist.
+Matt Gile PO Box 29 Winooski, VT 05404 MattGileForWinooski@gmail.com Donate Follow us Instagram Loading Comments...
 Write a Comment...
-Email (Required)
-Name (Required)
-Website
+Email (Required) Name (Required) Website

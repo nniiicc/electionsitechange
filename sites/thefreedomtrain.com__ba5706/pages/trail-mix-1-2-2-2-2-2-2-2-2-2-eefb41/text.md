@@ -1,6 +1,4 @@
-The Republicans Are Rigging Elections
-5/2/26
-Citizens!
+Skip to content The Republicans Are Rigging Elections 5/2/26 Citizens!
 The Republican Party’s plan to turn our country into an autocracy took its latest step Thursday when Louisiana postponed its Congressional primaries.
 It did this to take advantage of this week’s US Supreme Court opinion upholding a lower court ruling that disallowed specially drawn Congressional districts that favored Black voters.
 This is bad.
@@ -17,4 +15,6 @@ And this is what his bullying and ignorance have gotten us: the Republicans tryi
 This is wrong, but this is America right now.
 The GOP will get away with whatever we let them.
 It is up to you and me – we the people – to say no.
-Thank you for reading,
+Thank you for reading, Get on board today.
+It’s time to make a difference.
+Home Facebook Comments Box Gaylon Kent For Congress , Proudly powered by WordPress.

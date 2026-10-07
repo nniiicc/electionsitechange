@@ -1,4 +1,4 @@
-My days start at 7 a.m. with Democratic Caucus Zoom call, so I’m getting up a little before 6.
+Skip to content Main Menu Home Blog Advocacy Endorsements Contact Donate Donate Notes of a freshman legislator By Tom France / January 23, 2021 My days start at 7 a.m. with Democratic Caucus Zoom call, so I’m getting up a little before 6.
 This past Monday, when the alarm went off, my first thought was, “It’s really bad.” The politics of the Legislature, that is.
 This thought has stayed with me throughout the week.
 With all of two legislative weeks under my belt, what tipped me off?
@@ -32,4 +32,4 @@ When I decided to run for the Legislature, I knew it was likely that Republicans
 After Election Day, it was clear that Republicans would have larger majorities in the Legislature and that the Democratic minority was left with little leverage.
 But knowing these facts in the abstract is far different than watching good arguments be dismissed, harmful bills be enacted and good bills scuttled.
 It’s bad.
-And we’re only in Week 3.
+And we’re only in Week 3. ← Previous Post Next Post → Facebook-f Copyright © # Tom France Representing Montana House District 99 Powered by Tom France Representing Montana House District 99

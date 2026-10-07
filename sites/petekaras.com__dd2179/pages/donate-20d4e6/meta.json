@@ -1,7 +1,9 @@
 {
- "description": "Support Pete Karas\u2019 campaign for Wisconsin Secretary of State. Donate to help challenge the two-party system, empower a third-party candidate, and bring real political reform to Wisconsin.",
+ "description": "Support Pete Karas’ campaign for Wisconsin Secretary of State. Donate to help challenge the two-party system, empower a third-party candidate, and bring real political reform to Wisconsin.",
  "final_url": "https://petekaras.com/donate",
- "paid_for_by": "Paid for by Pete for Wisconsin | vote@petekaras",
+ "fingerprint": "c36075b70c3814396bab717705e110bb023be10f",
+ "format": 3,
+ "paid_for_by": "Paid for by Pete for Wisconsin",
  "title": "Donate",
  "years_mentioned": []
 }

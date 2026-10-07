@@ -1,5 +1,2 @@
-Gun Raffle
-Will be sold at each event or by request via email
-Charter Arms Chic Lady .38 Special Red Revolver
-1 for $10, 3 for $25, 7 for $50, 15 for $100
-Winner must be of age and eligibility to purchase and own a firearm to win, Winner must pick up firearm from Trailhead Guns. 200 ticket limit, Winner drawn October 30th
+Skip navigation menu Home Events Check Your District Voter Information Donate Home Events Check Your District Voter Information Donate Join Us Campaign Events Gun Raffle Will be sold at each event or by request via email Charter Arms Chic Lady .38 Special Red Revolver 1 for $10, 3 for $25, 7 for $50, 15 for $100 Winner must be of age and eligibility to purchase and own a firearm to win, Winner must pick up firearm from Trailhead Guns.
+200 ticket limit, Winner drawn October 30th RSVP Wyo.Reinholz@Gmail.com Powered by RUN! website builder Paid for by "Rah for HD17" You need to enable JavaScript to run this app.

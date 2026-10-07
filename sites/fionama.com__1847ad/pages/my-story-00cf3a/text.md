@@ -1,5 +1,4 @@
-My Story
-My parents came to America with a belief that hard work could turn opportunity into a better life.
+Skip to content Home Endorsements Endorse Fiona Donate Media Videos Photos News Newsletter Press Releases About Fiona My Story Awards Agricultural Tours Recycling Tours Tell Fiona What Matters Why I Am Running ☰ Home Endorsements Endorse Fiona Donate Media Videos Photos News Newsletter Press Releases About Fiona My Story Awards Agricultural Tours Recycling Tours Tell Fiona What Matters Why I Am Running ☰ My Story My parents came to America with a belief that hard work could turn opportunity into a better life.
 It’s a story shared by generations of families who came to this country hoping that if they worked hard, saved what they could, and gave their children a good education, the next generation could have a better life.
 That belief didn’t just shape our family.
 It shaped my sense of purpose.
@@ -115,3 +114,11 @@ A family wondering why everything seems to cost more.
 Those are the people I think about when I make decisions.
 My parents got married with $3,000 and built a life through education, hard work, and opportunity.
 America gave our family an extraordinary chance.
+I want California to remain a place where your hard work can still lead somewhere—where you can afford to raise a family, start a business, own a home, get a good education, and believe your children will have opportunities even greater than your own.
+I’ve had many opportunities to choose a more lucrative path.
+But money has never been what gives my life meaning.
+Helping people does.
+That’s why I chose public service.
+And it’s why I still do.
+Paid for by Fiona Ma for Lieutenant Governor 2026 • FPPC # 1457360 Contact Us | Privacy Policy Please contact Fiona directly at: Fiona@FionaMa.com .
+Correspondence can be sent to Fiona at 1032 Irving Street, #908, San Francisco, CA 94122 For official State Treasurer’s Office business correspondence, please send to the following address: 901 P Street, Sacramento, CA 95814 Scroll to Top About Fiona My Story Why I Am Running About Fiona Awards Agriculture Tours Recycling Tours Endorsements Endorsements Endorse Fiona Media Videos Photos News Newsletter Press Releases Tell Fiona What Matters Donate Instagram Facebook Youtube X-twitter Support Fiona Ma for Lieutenant Governor $100 $250 $500 $1,000 $2,500 $5,000 $9,800 Other

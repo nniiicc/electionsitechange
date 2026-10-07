@@ -1,5 +1,3 @@
-Updates
-Legislative updates, session recaps, and community news
-Get Updates from John
-Sign up for legislative updates and campaign news from District 13.
-GENERAL ELECTION: Tuesday, November 3, 2026|Find your polling place & voting informationGENERAL ELECTION Tue, Nov 3, 2026 ›
+Skip to content GENERAL ELECTION: Tuesday, November 3, 2026 | Find your polling place & voting information GENERAL ELECTION Tue, Nov 3, 2026 › Home About Record Issues Updates Contact Donate Updates Legislative updates, session recaps, and community news March 1, 2025 2025 Legislative Session Update A look at the 2025 legislative session: school choice, conservative judges, dismantling DEI, and the ongoing fight for life.
+Read more → Get Updates from John Sign up for legislative updates and campaign news from District 13.
+Leave blank Sign Up Navigate About Record Issues Updates Donate Contact Connect Facebook PO Box 50658, Greenwood, SC 29649 864.942.8501 johnmccravy@schouse.gov Legal Privacy Policy Terms of Service Paid for by McCravy for House

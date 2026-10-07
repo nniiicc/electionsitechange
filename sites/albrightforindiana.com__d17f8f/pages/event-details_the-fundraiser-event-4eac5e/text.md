@@ -1,12 +1,4 @@
-The Fundraiser event
-Fri, Aug 31
-|San Francisco
-Secure Your Place and Support Our Cause
-Time & Location
-Aug 31, 2035, 6:00 PM – 10:00 PM
-San Francisco, San Francisco, CA 94158, USA
-About the event
-About the Event: I’m an event description.
+top of page About Issues Donate Get Involved Menu Close The Fundraiser event Fri, Aug 31 | San Francisco Secure Your Place and Support Our Cause Buy Tickets Time & Location Aug 31, 2035, 6:00 PM – 10:00 PM San Francisco, San Francisco, CA 94158, USA About the event About the Event: I’m an event description.
 Click here to open up the Event Editor and change my text.
 Simply click me, Manage Event and start editing your event.
 I’m a great place for you to say a little more about your upcoming event.
@@ -17,8 +9,5 @@ Clicking Add lets you create Event titles and descriptions which you can attach 
 To add your own Event Headline, click Add Headline.
 And when you’re done, click Save and your work will be saved in your Event Editor.
 You can choose what events appear on your page.
-Tickets
-- Personal ticket $75.00 +$1.88 ticket service fee
-- Reserve a table $450.00 +$11.25 ticket service fee
-Total
-$0.00
+Show More Tickets Ticket type Personal ticket Price $75.00 +$1.88 ticket service fee Quantity 0 Ticket type Reserve a table Price $450.00 +$11.25 ticket service fee Quantity 0 Total $0.00 Checkout Share this event Keep Updated on Our Latest Events Email * Yes, subscribe me to your newsletter. * Submit Menu About Issues Donate Get Involved Legal Pages Privacy Policy Terms & Conditions Refund Policy Accessibility Statement Social Instagram Facebook Tiktok © # by Anya-Glare foundation.
+Built on Wix Studio™ About Issues Donate Get Involved bottom of page

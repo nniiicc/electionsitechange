@@ -1,6 +1,5 @@
-Meet Jenny Willford
-Acerca de
-Representative Jenny Willford serves Colorado with the guiding principle and belief that government should make life better, safer and more affordable for the people who work hard every day to keep our communities running.
+top of page Donate Meet Jenny Priorities / Issues Affordability Environment Older Adults Health Care Education Legislature Newsroom Speeches & Videos Media Inquiries House District 34 Transparency Get Involved Contact Book Online More Use tab to navigate through the menu items.
+Meet Jenny Willford Acerca de Representative Jenny Willford serves Colorado with the guiding principle and belief that government should make life better, safer and more affordable for the people who work hard every day to keep our communities running.
 Raised by a librarian and a Navy veteran who worked his way through school as a night janitor.
 Jenny moved often as a kid, attending 8 schools before graduating high school including living on her grandfather’s farm in Kentucky and on her grandmother’s property in Wyoming.
 Those early experiences taught her resilience, adaptability and a deep respect for the sacrifices working families make to build stability and a future for their kids.
@@ -13,7 +12,10 @@ There, she championed one of the state’s strongest municipal paid-family-leave
 At the Capitol, Jenny has taken on some of Colorado’s biggest fights including: tackling ozone pollution to improve air quality on the front range; establishing the family affordability tax credit to reduce childhood poverty by 50%; protecting Planned Parenthood funding for medicaid patients; expanding the Family and Medical Leave Insurance (FAMLI) program to provide additional time for families with a child in the NICU; working to end Colorado’s backlog of sexual assault evidence cases; and ensuring that students have free access to menstrual products in schools so that no young person misses class due to basic health needs.
 Her work reflects a core set of values: respecting workers, keeping families stable, giving kids the best possible start and protecting the people who are most vulnerable to both economic and environmental harm.
 Jenny holds a master’s degree in Human Rights and Political Science from the University of Manchester in the United Kingdom and bachelor’s degrees in Women’s Studies and International Studies from the University of Wyoming.
-She is also an entrepreneur and small-business owner who believes creativity, community and economic independence are part of a healthy democracy.
-Jenny lives in Northglenn with her husband, Matt, their two kids, six chickens, two dogs and two cats.
-She finds her grounding outside - fly fishing, camping and exploring the landscapes she is determined to protect for the next generation.
-Jenny is honored to work on behalf of the residents of Northglenn and Thornton as a Colorado State Representative.
+She is also an entrepreneur and small-business owner who believes creativity, community and economic independence are part of a healthy democracy. ​ Jenny lives in Northglenn with her husband, Matt, their two kids, six chickens, two dogs and two cats.
+She finds her grounding outside - fly fishing, camping and exploring the landscapes she is determined to protect for the next generation. ​ Jenny is honored to work on behalf of the residents of Northglenn and Thornton as a Colorado State Representative. ​ ​ Colorado House Bill 25-1291 TNC 3rd Reading, Rep.
+Willford Play Video Preserving Planned Parenthood Funding - Special Session - Rep.
+Willford Play Video Colorado House Bill 25-1291 Floor Speech, Rep.
+Jenny Willford Play Video Rep.
+Willford on Roe v.
+Wade Anniversary Resolution Play Video Meet Jenny Play Video Reproductive Freedom Play Video A Superhero for the Environment Play Video Meet Jenny Watch Now Share Whole Channel This Video Facebook Twitter Pinterest Tumblr Copy Link Link Copied Share Channel Info Close Connect with Jenny! jenny.willford.house@coleg.gov Phone: (303) 866-2931 Paid for by Jenny Willford for Colorado; Registered Agent: Danielle Henry. bottom of page

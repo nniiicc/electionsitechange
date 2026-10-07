@@ -1,5 +1,4 @@
-aipac and campaign financing
-America was founded on the principle of self-government: that the American people should determine the direction of this country, free from outside control or foreign influence.
+DONATE about issues shop news volunteer Request Yard sign aipac and campaign financing issue America was founded on the principle of self-government: that the American people should determine the direction of this country, free from outside control or foreign influence.
 Yet over time, our political system has become increasingly shaped by massive lobbying networks, special interests, and foreign-aligned organizations that pour enormous amounts of money into influencing elections, legislation, and foreign policy decisions.
 The result is a government that too often answers to donors, lobbyists, and international interests before it answers to the American people.
 I believe in free markets, free trade, and free association.
@@ -16,10 +15,10 @@ The Libertarian vision is one of transparency, accountability, and national inde
 Americans deserve to know who is funding political campaigns, shaping legislation, and influencing foreign policy decisions behind closed doors.
 A government that operates openly and answers directly to its own citizens is far less likely to drag the country into unnecessary wars, debt, corruption, and international conflicts that do not serve the American people.
 Free people deserve honest government.
-And honest government begins when American elections belong fully to Americans again.
-a government free from foreign influence
-donate »
-I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
-anti-war,
-anti-spending,
-anti-establishment
+And honest government begins when American elections belong fully to Americans again. a government free from foreign influence « back to issues donate » I believe in the grassroots, small donations from real, working people who want to bring our troops home, bring our money home, and send a big message to Washington donors: KENTUCKY ISN'T FOR SALE.
+THE AMERICA FIRST CANDIDATE anti-war, anti-spending, anti-establishment PAID FOR BY JEREMY TODD FOR KENTUCKY follow: By submitting your cell phone number you are agreeing to receive periodic text messages from our campaign.
+Message and data rates may apply.
+Text HELP for more information.
+Text STOP to stop receiving messages.
+PO Box 176037, Lakeside Park, Kentucky 41017 SUBMIT thank you!
+COPYRIGHT ©# JEREMY TODD FOR KENTUCKY PRIVACY POLICY | CONTACT US about issues home donate » shop news volunteer Request Yard Sign about issues Shop news volunteer

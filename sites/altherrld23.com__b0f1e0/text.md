@@ -1,9 +1,4 @@
-★★★
-★★★
-Serving You With Integrity
-Proverbs 8:20 ‘I walk in the way of righteousness, in the midst of the paths of judgement…
-DONATE TODAY!
-HELP ME MAKE A DIFFERENCE
-About Michelle
-I am a grassroots patriot who stands with and for ‘We the people’, and bringing back American patriotism, pride, and integrity to the office of our elected officials.
+0 Skip to Content Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE Open Menu Close Menu Home Meet Michelle What Michelle Will Fight For Volunteer DONATE ★★★ ★★★ ★★★ Serving You With Integrity Proverbs 8:20 ‘I walk in the way of righteousness, in the midst of the paths of judgement… DONATE TODAY!
+DONATE HELP ME MAKE A DIFFERENCE About Michelle I am a grassroots patriot who stands with and for ‘We the people’, and bringing back American patriotism, pride, and integrity to the office of our elected officials.
 I am a servant leader who will listen to and represent the constituents of Legislative District 23.
+Learn More About Michelle WHAT MICHELLE WILL FIGHT FOR Protect Children Learn more Border Security Learn more Economy Learn more JOIN OUR CAMPAIGN #ago DONATE Contact Us michelle@altherrld23.com Privacy Policy Paid For By ElectMichelleAltherr - Authorized by Michelle Altherr

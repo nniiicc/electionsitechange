@@ -1,7 +1,11 @@
 {
  "description": "Make a financial contribution to support Mike Brittingham's campaign to be House District 19's next Representative.",
  "final_url": "https://www.brittinghamforok.com/donate",
+ "fingerprint": "e12d54171deceeac576dc5d372d5f18d868c78c5",
+ "format": 3,
  "paid_for_by": "Paid for by Brittingham for State Representative 2026 bottom of page",
  "title": "Donate | BrittinghamForOK",
- "years_mentioned": []
+ "years_mentioned": [
+  "2026"
+ ]
 }

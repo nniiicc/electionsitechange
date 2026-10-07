@@ -1,5 +1,4 @@
-“Serving is interwoven into the very fabric of who I am.” -Phil Green
-I grew up in a home where it was expected that we would serve our community.
+Skip to content Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Home About Phil Green Endorsements Endorse Volunteer Contribute Contact Meet Phil Green Fighting for the Forgotten Peninsula “Serving is interwoven into the very fabric of who I am.” -Phil Green I grew up in a home where it was expected that we would serve our community.
 We were active in church, little league and other community organizations.
 When my dad decided to run for and eventually win a seat on the Tuscola County Commissioners, I began to see what a true community servant is.
 In 1995, my dad was sworn in as State Representative of the 84th District, and I enrolled in college.
@@ -20,3 +19,4 @@ Since 2012, our enrollment and our faculty has grown.
 Following five years of successful school administration, Juniata Baptist Church invited me to move onto church Pastoral Staff as the Assistant Pastor.
 At Juniata, I have successfully organized “Wild Game Dinners,” developed a youth basketball league, Upward Basketball, and served the people in our community.
 I am looking forward to serving the people of the 67th District because serving is interwoven into the very fabric of who I am.
+Paid for by Friends of Phil Green • 7650 Trumbower Trl. • Millington, MI 48746 Privacy Policy

@@ -1,15 +1,12 @@
-Whiskey's for Drinking.
-Water's for the People
-Articles
-Whiskey’s for Drinking.
+Skip to content × Home Meet Lyn On The Issues Articles Contact Donate Whiskey's for Drinking.
+Water's for the People Articles Whiskey’s for Drinking.
 Water’s for the People.
-By Lyn Hellegaard
-There’s an old saying out West that stuck because it still fits: whiskey’s for drinking, water’s for fighting.
+By Lyn Hellegaard There’s an old saying out West that stuck because it still fits: whiskey’s for drinking, water’s for fighting.
 Most of us would rather not fight at all.
 We would rather know the well that waters the garden, fills the stock tank, and runs the house will still be ours next year—without a new bill, a new meter, or a new permission slip from someone who does not live here.
 That is not a radical demand.
 It is what Montana’s Constitution already promised.
-Article IX, Section 3 says the waters of this state—surface, underground, flood, and atmospheric—are “the property of the state for the use of its people” and may be appropriated for beneficial use as provided by law.
+Article IX, Section 3 says the waters of this state—surface, underground, flood, and atmospheric—are “the property of the state for the use of its people ” and may be appropriated for beneficial use as provided by law.
 The same section confirms existing rights to that use.
 Article II, Section 3 names acquiring, possessing, and protecting property as an inalienable right.
 You do not own the aquifer.
@@ -64,4 +61,5 @@ The Constitution already chose a side.
 It chose the people’s use.
 Water’s for fighting only when somebody forgets that.
 I don’t intend to.
-Lyn Hellegaard is a former Montana state representative and the Republican candidate for Montana House District 89
+Lyn Hellegaard is a former Montana state representative and the Republican candidate for Montana House District 89 Privacy Policy Paid for by The Lyn Hellegaard Campaign, 3828 Bellecrest Dr, Missoula MT 59801 © # Lyn Hellegaard.
+All rights reserved Powered by Verastly ×

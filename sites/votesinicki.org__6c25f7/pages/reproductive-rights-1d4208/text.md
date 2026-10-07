@@ -1,4 +1,5 @@
-When The Supreme Court ruled that abortion was no longer a protected right, they turned the clock in Wisconsin back to 1849, a time when women were second class citizens.
+Skip to main content Vote on or Before November 8th!
+Home About Chris Issues Reproductive Rights Supporting Wisconsin’s Working Families Endorsements Contact Us When The Supreme Court ruled that abortion was no longer a protected right, they turned the clock in Wisconsin back to 1849, a time when women were second class citizens.
 Women of that era were not allowed to own land, control their own finances, or vote, much less make their own decisions about health care.
 Think about it.
 This law was put into place by rich white landowners.
@@ -11,4 +12,4 @@ Losing the protections afforded by Roe v.
 Wade has the potential for devastating consequences, not only for Wisconsin women, but for pregnant Wisconsinites of every race, creed, sexual orientation, and gender identity.
 The Supreme Court started with Roe v.
 Wade, but what will be next?
-I will fight like hell, not only for the rights of my granddaughter, but for the rights of every little girl, every child, every person in Wisconsin.
+I will fight like hell, not only for the rights of my granddaughter, but for the rights of every little girl, every child, every person in Wisconsin. © # - # Re-Elect Chris Sinicki Powered by Webador

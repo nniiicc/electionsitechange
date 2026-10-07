@@ -1,4 +1,5 @@
-CHELAN — State Rep.
-Mike Steele announced Wednesday, May 6 that he will seek re-election to the Washington House of Representatives, launching a campaign focused on… read more
-https://www.votemikesteele.com/wp-content/uploads/2026/05/Rep-Steele_Mike-2025_900x1200-e1785258702425.jpg992900Mike Steelehttp://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.pngMike Steele2026-05-06 22:18:522026-07-28 17:11:47State Rep.
-Mike Steele seeks another term in 12th Legislative District
+Facebook Mail Home Connect Volunteer Priorities Endorsements About Mike News & Updates Connect Menu Menu State Rep.
+Mike Steele seeks another term in 12th Legislative District News Article CHELAN — State Rep.
+Mike Steele announced Wednesday, May 6 that he will seek re-election to the Washington House of Representatives, launching a campaign focused on… read more May 6, 2026 Share this entry Share on Facebook Share on Twitter Share on LinkedIn Share on Vk Share on Reddit Share by Mail https://www.votemikesteele.com/wp-content/uploads/2026/05/Rep-Steele_Mike-2025_900x1200-e1785258702425.jpg 992 900 Mike Steele http://www.votemikesteele.com/wp-content/uploads/2026/07/mike-steele-logo.png Mike Steele 2026-05-06 22:18:52 2026-07-28 17:11:47 State Rep.
+Mike Steele seeks another term in 12th Legislative District Pages About Mike Connect Endorsements Home News & Updates Priorities Volunteer Categories News Article Press Release Archive July 2026 May 2026 Connect with Mike Steele Citizens to Elect Mike Steele P.O.
+Box 1072 Chelan, WA 98816 Learn More Priorities Endorsements About Mike News & Updates Connect Paid for by Citizens to Elect Mike Steele (R) State Representative Priorities Endorsements About Mike News & Updates Connect Scroll to top

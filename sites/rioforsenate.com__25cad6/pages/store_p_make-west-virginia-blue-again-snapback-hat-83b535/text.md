@@ -1,24 +1,7 @@
+Skip to Content Open Menu Close Menu 0 0 0 0 Open Menu Close Menu Store › Make West Virginia Blue Again Snapback Hat Image 1 of 4 Image 2 of 4 Image 3 of 4 Image 4 of 4 Make West Virginia Blue Again Snapback Hat $45.00 This hat speaks to the true history of West Virginia and is structured with a classic fit, flat brim, and full buckram.
+The adjustable snap closure makes it a comfortable, one-size-fits-most hat.
+Make West Virginia Blue Again! • 80% acrylic, 20% wool • Green Camo is 60% cotton, 40% polyester • Structured, 6-panel, high-profile • 6 embroidered eyelets • Plastic snap closure • Green undervisor • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or Bangladesh Add To Cart Added!
 This hat speaks to the true history of West Virginia and is structured with a classic fit, flat brim, and full buckram.
 The adjustable snap closure makes it a comfortable, one-size-fits-most hat.
-Make West Virginia Blue Again!
-• 80% acrylic, 20% wool
-• Green Camo is 60% cotton, 40% polyester
-• Structured, 6-panel, high-profile
-• 6 embroidered eyelets
-• Plastic snap closure
-• Green undervisor
-• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)
-• Blank product sourced from Vietnam or Bangladesh
-Add To Cart
-Added!
-This hat speaks to the true history of West Virginia and is structured with a classic fit, flat brim, and full buckram.
-The adjustable snap closure makes it a comfortable, one-size-fits-most hat.
-Make West Virginia Blue Again!
-• 80% acrylic, 20% wool
-• Green Camo is 60% cotton, 40% polyester
-• Structured, 6-panel, high-profile
-• 6 embroidered eyelets
-• Plastic snap closure
-• Green undervisor
-• Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm)
-• Blank product sourced from Vietnam or Bangladesh
+Make West Virginia Blue Again! • 80% acrylic, 20% wool • Green Camo is 60% cotton, 40% polyester • Structured, 6-panel, high-profile • 6 embroidered eyelets • Plastic snap closure • Green undervisor • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or Bangladesh “ Be mild with the mild, shrewd with the crafty, confiding to the honest, rough to the ruffian, and a thunderbolt to the liar.
+But in all this, never be unmindful of your own dignity. ” — John Brown RIO PHILLIPS FOR WEST VIRGINIA COPYRIGHT #

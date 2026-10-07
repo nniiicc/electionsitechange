@@ -1,5 +1,4 @@
-Fighting for our Anoka County values
-End Fraud.
+0 Skip to Content About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Open Menu Close Menu About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Open Menu Close Menu About Issues Endorsements 2026 Join Our Team Photos Contact DONATE Fighting for our Anoka County values End Fraud.
 Empower Minnesotans.
 It is an honor to represent the place I’ve spent most of my life.
 House District 31A includes my childhood home in western Andover.
@@ -14,3 +13,6 @@ If we do it right, we can have a state government that keeps Minnesota free and 
 Government that empowers you to live your best life, not government that controls you and dictates what you can do, say, and believe.
 That is what I am working for in St.
 Paul, and I’m asking for your support to continue that service.
+I need your help keep fighting for you!
+DONATE NOW Sign up to our mailing list SUBSCRIBE Harry Niska for Minnesota House Prepared and paid for by Niska for Minnesota House · P.O.
+Box 3 · Anoka, MN 55303 Terms and Conditions

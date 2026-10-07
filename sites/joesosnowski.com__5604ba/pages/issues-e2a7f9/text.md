@@ -1,5 +1,4 @@
-See Where Joe Stands on Issues that Matter to YOU:
-There needs to be balance in state government.
+Skip to content Home Meet Joe Issues Voter Info Contribute Home Meet Joe Issues Voter Info Contribute See Where Joe Stands on Issues that Matter to YOU: There needs to be balance in state government.
 We have seen what happens when there is no balance and one party rule in Springfield.
 From poor fiscal management to bad policies, the Springfield majority has continued to make other states more attractive for both residents and job creators.
 Reforms like Fair Maps, term limits, open governance are essential to fix problems in Illinois.
@@ -18,3 +17,6 @@ I support fair maps.
 Term limits and Fair maps would create a more balanced approach to governance.
 With Fair maps, legislators don’t pick their districts, but rather the voters decide.
 The goal is to have as many balanced districts that are not gerrymandered for political advantage.
+Click here to to learn more about Joe's actions in the Illinois Legislature SIGN UP FOR CAMPAIGN UPDATES: SIGN UP!
+Paid for by Citizens for Joe Sosnowski.
+A copy of our report filed with the State Board of Elections is (or will be) available on the Board’s official website (www.elections.il.gov) or for purchase from the State Board of Elections, Springfield, Illinois.

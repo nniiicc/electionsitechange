@@ -1,20 +1,6 @@
-he safety and well being of everyone in our community is of the utmost importance to me.
-Far too often […]
-Category: news
-Play Ball!
-Crosstown Classic Fundraiser with Rep Rita Mayfield
-Dear Friends, We are excited to host a reception and fundraiser at the upcoming Crosstown Classic Baseball Game between the […]
-Please Join in Support of Rita Mayfield on March 22nd in Springfield
-You are invited to a gathering in support of State Representative Rita Mayfield, Chair Appropriations and Former House Black Caucus […]
-Please Honor Bobbie Drew (retiring after 42 years of service to the state)
-Please Join Rep Rita Mayfield, Rep Thaddeus Jones and Art Turner, Sr. and Art Turner Jr as we toast the […]
-Join in Support of Rita
-Donate Online Donate Online
-ENDORSEMENT: Rita Mayfield for Illinois House in 60th District Democratic primary
-In this far north suburban district, we endorse five-term incumbent Rita Mayfield of Waukegan over environmental activist Diana Burdette, also […]
-National Environmental Group, Sierra Club endorses Rita Mayfield for State Representative
-WAUKEGAN, Ill – Today, Sierra Club Illinois Chapter announced its endorsement of local state Representative Rita Mayfield.
-Sierra Club is […]
-Endorsed by AFSCME Council 31
-I am proud and appreciative to be endorsed by AFSCME Council 31.
-I will always stand up for working families. […]
+Skip to content Toggle mobile menu Home About Rita Endorsements Issues News Take Action Donate Volunteer Get Your Rita Mayfield Yard Sign Contact Search for: Category: news November 23, 2021 November 23, 2021 Gun Safety Report Card A+ news by staff 0 comments he safety and well being of everyone in our community is of the utmost importance to me.
+Far too often […] Read more >> August 3, 2021 August 7, 2021 Play Ball!
+Crosstown Classic Fundraiser with Rep Rita Mayfield news by staff 0 comments Dear Friends, We are excited to host a reception and fundraiser at the upcoming Crosstown Classic Baseball Game between the […] Read more >> February 8, 2021 February 8, 2021 Please Join in Support of Rita Mayfield on March 22nd in Springfield news by staff 0 comments You are invited to a gathering in support of State Representative Rita Mayfield, Chair Appropriations and Former House Black Caucus […] Read more >> December 19, 2020 December 20, 2020 Please Honor Bobbie Drew (retiring after 42 years of service to the state) news by staff 0 comments Please Join Rep Rita Mayfield, Rep Thaddeus Jones and Art Turner, Sr. and Art Turner Jr as we toast the […] Read more >> October 22, 2020 October 22, 2020 Proud to be endorsed by the Sierra Club news by staff 0 comments Read more >> October 22, 2020 Proud to be endorsed by Equality Illinois news by staff 0 comments Read more >> June 29, 2020 June 29, 2020 Join in Support of Rita news by staff 0 comments Donate Online Donate Online Read more >> February 27, 2020 February 27, 2020 ENDORSEMENT: Rita Mayfield for Illinois House in 60th District Democratic primary news by staff 0 comments In this far north suburban district, we endorse five-term incumbent Rita Mayfield of Waukegan over environmental activist Diana Burdette, also […] Read more >> February 18, 2020 February 18, 2020 National Environmental Group, Sierra Club endorses Rita Mayfield for State Representative news by staff 0 comments WAUKEGAN, Ill – Today, Sierra Club Illinois Chapter announced its endorsement of local state Representative Rita Mayfield.
+Sierra Club is […] Read more >> February 6, 2020 February 6, 2020 Endorsed by AFSCME Council 31 news by staff 0 comments I am proud and appreciative to be endorsed by AFSCME Council 31.
+I will always stand up for working families. […] Read more >> Posts navigation Older posts Newer posts Latest News Please Join Us On June 10th!
+I Will Always Stand Up For The Rights Of People Sierra Club Endorsed @2024 Friends of Rita Mayfield Contact us Email: info@voteritamayfield.com Address: 118 N Genesee Waukegan, IL 60079 Quick links About Rita Contact Issues Volunteer Endorsements Follow us Facebook Twitter Linkedin Proudly powered by WordPress | Theme: Airi by aThemes.

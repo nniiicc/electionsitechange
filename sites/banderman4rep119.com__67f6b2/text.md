@@ -1,6 +1,5 @@
-Vote Banderman For District 119
-About Brad
-Brad graduated from Union High School in 1995, where friends knew him as “Bandit”.
+0 Skip to Content Request a Sign 2023 MO Budget Information Donate Open Menu Close Menu Request a Sign 2023 MO Budget Information Donate Open Menu Close Menu Request a Sign 2023 MO Budget Information Donate Vote Banderman For District 119 Request a Sign Donate Now!
+About Brad Brad graduated from Union High School in 1995, where friends knew him as “Bandit”.
 After graduation he completed a Bachelor of Arts in Religion with an emphasis in youth education from Missouri Baptist College in St Louis as well as a few classes at East Central College to complete his degree.
 During High School and College he worked at Bud Anderson Car Dealership as a porter, McDonalds, and Pendaflex; all of which are located in Union.
 After finishing his degree, he accepted a local position as Student Pastor of Bethel Baptist Church in Lonedell and has been working full time in that capacity for 22 years.
@@ -25,12 +24,10 @@ Kyle Banderman, their youngest son, is employed at Dominoes in St.
 Clair and is currently considering his options for his career.
 He enjoys playing card games and computer gaming.
 He is a brainiac and loves to help others.
-Political Affiliation
-Brad is a Republican but prides himself in being an independent and innovative candidate.
+District 119 Political Affiliation Brad is a Republican but prides himself in being an independent and innovative candidate.
 He is proud to hold many of the Republican Parties Platform Principles, but if elected understands that he will be representing a wide range of individuals that hold differing opinions.
 If elected, he promises to be responsive to all the citizens of District 119 and allow principles to guide his decision making processes.
-Campaign Planks
-The campaign planks were written by the candidate and edited by Dr.
+Campaign Planks The campaign planks were written by the candidate and edited by Dr.
 Gavin Hooks.
 Pro Life.
 The ”life begins at conception” view is the only guarantee that we aren’t ending a person’s life.
@@ -89,6 +86,6 @@ Our first responders are not perfect and never will be, and using that as a club
 “Hands off” policing strategies endangers our other first responders, our property, and it encourages more lawlessness.
 We must enforce the laws we have equally and without hesitation.
 We must support all our first responders with the equipment they need, a salary that is commensurate with their risk and an ongoing and active public recognition of the essential and important work that they do.
-Radio Interviews with KPLW
-Brad joins Diane Jones of KLPW for on air interviews.
+Radio Interviews with KPLW Brad joins Diane Jones of KLPW for on air interviews.
 Press the play button to listen to the full unedited radio interviews.
+KPLW 6/30/22 14m20s Brad Banderman KPLW 4/10/23 36m44s Brad Banderman KPLW 5/9/23 34m33s Brad Banderman KPLW 9/23 Brad Banderman KPLW 10/23 Brad Banderman KPLW 4/24 Brad Banderman Contact Brad Paid for by Citizens for Banderman, Megan Affolder, Treasurer

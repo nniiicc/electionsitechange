@@ -1,13 +1,4 @@
-I Will Be at the Bedford Transfer Station from June 6, 2026 through October 31, 2026
-VOLUNTEER
-Contact john@johnschneller.org if you would like to volunteer.
-- Donate to the Campaign
-- Publicly Endorse
-- Make Phone Calls
-- Walk the Neighborhood with Literature
-- Help Plant Signs
-- Put a Sign in Your Yard
-- Host a Coffee Event
-VOTING DATES
-- STATE PRIMARY – SEPTEMBER 8, 2026
-- GENERAL ELECTION – NOVEMBER 3, 2026
+john@johnschneller.org Facebook Facebook HOME ABOUT ENDORSEMENTS EVENTS ISSUES On Education Freedom On Energy On Sanctuary Cities On the Second Amendment On Taxation On Voter ID MEDIA UPDATES MEDIA NEWS CURRENT ISSUES DONATE Select Page EVENTS I Will Be at the Bedford Transfer Station from June 6, 2026 through October 31, 2026 VOLUNTEER Contact john@johnschneller.org if you would like to volunteer.
+Donate to the Campaign Publicly Endorse Make Phone Calls Walk the Neighborhood with Literature Help Plant Signs Put a Sign in Your Yard Host a Coffee Event VOTING DATES STATE PRIMARY – SEPTEMBER 8, 2026 GENERAL ELECTION – NOVEMBER 3, 2026 SEARCH Search for: Click on the article titles to reveal the full text and share buttons.
+RECENT POSTS Vote on November 3 September 30, 2026 Candidates Corner 2026 August 27, 2026 Why Nuclear, Why New Hampshire, Why Now?
+August 26, 2026 US Hits Key Nuclear Milestone With Australian-Led Advanced Reactor – Nuclear For Australia August 24, 2026 Great River Hydro Visit June 19, 2026 Apocalyptic Fantasies Harm Climate Discourse June 8, 2026 Facebook Copyright © # • John Schneller for State Representative • Hillsborough NH District 2 • Fiscal Agent John Schneller

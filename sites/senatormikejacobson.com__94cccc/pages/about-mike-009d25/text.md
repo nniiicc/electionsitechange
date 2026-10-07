@@ -1,3 +1,4 @@
+top of page H O M E ABOUT MIKE ISSUES BLOG More Use tab to navigate through the menu items.
 Senator Mike Jacobson is a life-long Nebraskan, entrepreneur, conservative fighter, and trusted community leader with a proven record of leadership and getting things done.
 Mike understands the challenges families face because he’s faced them himself.
 Mike was born and raised on a share-rented farm near Sutton.
@@ -16,3 +17,6 @@ As the proud parents of two adult children, Mike and his wife Julie have been ma
 Mike has worked to make a positive difference for families in Western Nebraska.
 He is active in his local church and works in support of charitable efforts in the community.
 Senator Jacobson currently serves on Agriculture, General Affairs, and Natural Resources Committees.
+Meet Mike Join me and let's make Nebraska a better place for our families.
+Mike@SenatorMikeJacobson.com Paid for by Mike Jacobson for Legislature Privacy policy here Join Mike's Campaign.
+Subscribe Now Thanks for submitting! bottom of page

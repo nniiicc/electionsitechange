@@ -1,18 +1,5 @@
-top of page
-Wed, Jul 17
-|The 1818 Club
-Gwinnett Business Leaders Fundraiser for Representative Farooq Mughal
-Registration is closed
-Time & Location
-Jul 17, 2024, 5:30 PM – 7:30 PM
-The 1818 Club, 6500 Sugarloaf Pkwy, Duluth, GA 30097, USA
-Guests
-About the event
-Please Join Gwinnett Business Leaders and Elected Officials supporting Representative Farooq Mughal in his re-election campaign in 2024.
-The Host Committee
-- Gwinnett County Commissioner Kirkland Carden
-- State Rep.
-Pedro Marin
-- Former State Senator Curt Thompson
-- City of Suwanee Mayor Pro Temp Linnea Miller
-bottom of page
+top of page Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items.
+CONTRIBUTE SUBSCRIBE Wed, Jul 17 | The 1818 Club Gwinnett Business Leaders Fundraiser for Representative Farooq Mughal Registration is closed See other events Time & Location Jul 17, 2024, 5:30 PM – 7:30 PM The 1818 Club, 6500 Sugarloaf Pkwy, Duluth, GA 30097, USA Guests + 1 other guests About the event Please Join Gwinnett Business Leaders and Elected Officials supporting Representative Farooq Mughal in his re-election campaign in 2024.
+The Host Committee Gwinnett County Commissioner Kirkland Carden State Rep.
+Pedro Marin Former State Senator Curt Thompson City of Suwanee Mayor Pro Temp Linnea Miller Show More Share this event START CHANGING Support Our Cause CONTRIBUTE VOLUNTEER SUBSCRIBE TO OUR NEWSLETTER Get the latest updates from the campaign trail SUBSCRIBE Thanks for submitting!
+MUGHAL FOR GEORGIA 710 Dacula Rd, Ste 4A, #325 Dacula, GA, 30019 fmughalforgeorgia@gmail.com 678-234-3242 Paid and Authorized by Mughal for Georgia, LLC (2022) Home Meet Farooq Voting Information Priorities Petition: HOA Accountability Petition: ICE Accountability Act Petition: NO DHS Detention Facility Legislative Wins News Get Involved Events Contact More Use tab to navigate through the menu items. bottom of page

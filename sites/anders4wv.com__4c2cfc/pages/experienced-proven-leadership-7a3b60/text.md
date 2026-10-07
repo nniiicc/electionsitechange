@@ -1,14 +1,4 @@
-Proven Leadership
-With over 18 years of political experience, Chris is the only choice for the 97th District.
-Over the past two decades, Chris as led fights to-
-- Pass Constitutional Carry in several States
-- Pass Full School Choice
-- Stop Shutdowns, masks and forced vaccinations
-- Stop Red Flag Gun Confiscation
-- Eliminate Taxes
-- Protect Free Speech
-- Pass Life at Conception
-- Stop “Woke” policies and protect our way of life
-Chris has worked on several Presidential, Senatorial and Congressional Campaigns as well as managed over 25 state and local campaigns, only for true conservatives.
+0 Skip to Content About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Petitions Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Open Menu Close Menu About Chris Policy News Get Involved Folder: Petitions Back Stop National Gun Registration in WV Petition to Criminalize Illegal Aliens Donate Proven Leadership With over 18 years of political experience, Chris is the only choice for the 97th District.
+Over the past two decades, Chris as led fights to- Pass Constitutional Carry in several States Pass Full School Choice Stop Shutdowns, masks and forced vaccinations Stop Red Flag Gun Confiscation Eliminate Taxes Protect Free Speech Pass Life at Conception Stop “Woke” policies and protect our way of life Chris has worked on several Presidential, Senatorial and Congressional Campaigns as well as managed over 25 state and local campaigns, only for true conservatives.
 His grasp of legislative rules and procedure, bill drafting, and political experience will enable Chris to hit the ground running starting on Day 1 to fight for conservative principles, the Constitution and you.
-Chris with Kyle Rittenhouse
+Chris with Kyle Rittenhouse anders4wv.com is paid for by Anders 4 WV anders4wv@gmail.com 304-620-4506

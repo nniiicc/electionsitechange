@@ -1,14 +1,5 @@
-Upcoming Events
-Calendar of Events
-Canvassing with Rob
-One Northgate Square, Greensburg
-Canvassing with Rob
-111 Byers Ave, New Stanton, PA 15672
-Canvassing with Rob
-One Northgate Square Greensburg
-Sunday, September 20
-12PM – 2:30PM
-Saturday, September 26
-12PM – 2:30PM
-Sunday, September 27
-12PM – 2:30PM
+Skip to content Vote Rob Francis Progressive for Pennsylvania General Assembly Menu + × expanded collapsed Meet Rob The Issues DONATE Contact Events Events Upcoming Events Register HERE!
+Calendar of Events Canvassing with Rob One Northgate Square, Greensburg Canvassing with Rob 111 Byers Ave, New Stanton, PA 15672 Canvassing with Rob One Northgate Square Greensburg Sunday, September 20 12PM – 2:30PM Saturday, September 26 12PM – 2:30PM Sunday, September 27 12PM – 2:30PM Home Meet Rob The Issues Contact Get Involved DONATE Register to Vote Check Voter Registration Request Mail-in Ballot Facebook Instagram Threads Bluesky TikTok Vote Rob Francis , Blog at WordPress.com.
+Vote Rob Francis Copy shortlink Manage subscriptions Sign up Log in Report this content Loading Comments...
+Write a Comment...
+Email (Required) Name (Required) Website

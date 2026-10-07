@@ -1,15 +1,7 @@
-Thanks to Henry Repeating Arms for allowing Representative Treig Pronschinske and I to tour their plant in Rice Lake.
-Dave Armstrong with REALTORS® Association of Northwestern WI in Madison.
-Testifying with State Senator Dan Feyen on Assembly Bill 890, which makes changes to the Housing Tax Credit program
-Bill signing by Governor Evers of four of my housing bills this session.
-Bill signing for Wisconsin Opportunity Zones
-"Believe you can and you’re halfway there."
-Dave and Family
-(Missing eldest daughter Stephanie Vander Pas)
-Dave Armstrong with the Law Enforcement High School Student Academy
-Paid for by Armstrong for State Assembly, Dave Armstrong, Treasurer
-Dave and Janell with two of the grandkids
-My name is Dave Armstrong.
+Home About Contact Us Dave Armstrong My Track Record 715-790-1327 Thanks to Henry Repeating Arms for allowing Representative Treig Pronschinske and I to tour their plant in Rice Lake.
+Re-Elect Dave Armstrong with REALTORS® Association of Northwestern WI in Madison.
+Working Hard For You Testifying with State Senator Dan Feyen on Assembly Bill 890, which makes changes to the Housing Tax Credit program Bill signing by Governor Evers of four of my housing bills this session.
+Theodore Roosevelt Bill signing for Wisconsin Opportunity Zones "Believe you can and you’re halfway there." Dave and Family (Missing eldest daughter Stephanie Vander Pas) Dave Armstrong with the Law Enforcement High School Student Academy Paid for by Armstrong for State Assembly, Dave Armstrong, Treasurer Dave and Janell with two of the grandkids My name is Dave Armstrong.
 I was elected in 2020 to represent the residents of the 75th Assembly District and did so for two sessions.
 Due to redistricting, my region was renamed the 67th Assembly District in 2024, which I was elected to represent its residents there.
 I am running for reelection to again represent the 67th Assembly District on the November 2026 ballot.
@@ -27,5 +19,6 @@ And after all, why shouldn't we believe that?
 We are Americans”.
 If you share my vision, I urge you to connect with me and help make it happen!
 Together, we can make a meaningful difference-- for our families, our communities, and Wisconsin.
-Meet the Candidate on DrydenWire
-Workforce development hearing: listening to testimony on changes to workers compensation laws
+Meet the Candidate on DrydenWire Contact Us 67th Assembly District Link to bills authored and sponsored Workforce development hearing: listening to testimony on changes to workers compensation laws Copyright © David B Armstrong .
+All Rights Reserved.
+Home About Contact Us View on Mobile

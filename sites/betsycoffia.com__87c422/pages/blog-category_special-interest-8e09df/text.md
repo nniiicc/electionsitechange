@@ -1,2 +1,5 @@
-Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says
-INTERLOCHEN, MI - Saying an “all hands on deck” approach is needed, a state representative from Northern Michigan has asked the Grand Traverse County Prosecutor to accept Attorney General Dana Nessel’s offer to help investigate sexual misconduct and assault claims linked to Interlochen Center for the Arts.
+Skip to main content Home About Policy Events Press & News Get Involved Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says INTERLOCHEN, MI - Saying an “all hands on deck” approach is needed, a state representative from Northern Michigan has asked the Grand Traverse County Prosecutor to accept Attorney General Dana Nessel’s offer to help investigate sexual misconduct and assault claims linked to Interlochen Center for the Arts.
+Read more about Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says Subscribe to Special Interest Campaign Updates Subscribe to stay informed about Betsy's work in the community.
+Get Campaign Updates Donate Help Betsy keep up the fight for our communities.
+Donate Socials & Media Inquiries For Media Inquiries Contact: [email protected] ‌ ‌ ‌ PAID FOR BY COMMITTEE TO ELECT BETSY COFFIA P.O.
+BOX 54, ACME, MI 49690 Powered by Galiant Solutions Inc. © Copyright # - CTE Betsy Coffia Privacy Policy

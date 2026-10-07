@@ -1,4 +1,5 @@
-I know a lot of people in Oklahoma have stopped paying attention to politics.
+Site is Loading, Please wait...
+Skip to content Press Release | News | Past Events | Input From The Voters | Contact Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Menu Close Meet Brandon Wade Policies American Dream Act OK CD2 Issues Calendar/Events Endorsements What is your STORY Search this website Vote for your family, community, and the next generation of Oklahomans I know a lot of people in Oklahoma have stopped paying attention to politics.
 Maybe you’re tired of the arguing.
 Maybe you don’t believe politicians listen.
 Maybe you’ve voted before and nothing seemed to change.
@@ -18,3 +19,4 @@ Your vote is not just about politics.
 It’s about your family, your community, and the kind of Oklahoma we leave to the next generation.
 The people in power count on ordinary people believing their voice doesn’t matter.
 Let’s prove them wrong.
+Search Search Recent News Offical Endorsement Vote for your family, community, and the next generation of Oklahomans Tribal Nations’ inherent right to self-govern and manage fish and wildlife policies Government Shutdown Donate Contact Calendar/Events American Dream Act Endorsements Press Release Copyright # - Brandon Wade for Congress

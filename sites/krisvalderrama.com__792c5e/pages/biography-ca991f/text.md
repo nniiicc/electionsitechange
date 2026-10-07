@@ -1,4 +1,4 @@
-Kris began her career in healthcare as a Respiratory Therapist.
+Home Biography Issues News Scholarships Get Involved Contact Home Biography Issues News Scholarships Get Involved Contact Contribute Biography About Kris Kris began her career in healthcare as a Respiratory Therapist.
 She later combined her love of public service and communications as a Strategic Communications Specialist for multiple organizations and unions, including the American Federation of State, County and Municipal Employees, AFL-CIO (AFSCME) at the International Headquarters in Washington, DC.
 In that role, Kris worked on many issues including child care, home health care and healthcare organizing.
 During her over two decades in the labor movement, Kris was also involved in the Asian Pacific American Labor Alliance, AFL-CIO (APALA).
@@ -11,45 +11,12 @@ Busch.
 She is also a member of the House bipartisan leadership Rules & Executive Nominations Committee; the Legislative Policy Committee which oversees a range of issues including oversight of General Assembly standing committees, and of the rules and procedures of the Maryland House of Delegates and Senate, as well as monitoring general information about the general welfare of state, and about the Maryland State Constitution, statutes and common law.
 Kris previously served on the House Judiciary Committee for eight years, and as Chair of the Law Enforcement and State Appointed Board Committee of the Prince George’s House Delegation for two terms.
 Kris is a member -and former Chair- of the Maryland Legislative Asian American and Pacific Islander Caucus as well as a member of the Women Legislators of Maryland.
-Among Kris’ proudest legislative accomplishments was serving as lead sponsor – and having all become law – of the Time To Care Act (Paid Family Medical Leave), the Equal Pay for Equal Work Act & the Disclosing Sexual Harassment in the Workplace Act.
-- Member/Parishioner, St.
-Columba Church
-- Activist, American Federation of State, County and Municipal Employees
-(AFSCME), AFL-CIO
-- Member/Activist, Asian Pacific American Labor Alliance (APALA), AFL-CIO
-- Chair, Asian Pacific American Democratic Caucus of MD, 1996 -1997
-- Member, Young Democrats of Maryland
-Kris was born in our nation’s capital, Washington D.C., and is a lifelong resident of the 26th Legislative District where she resides in Fort Washington, MD with her husband and two daughters.
+Among Kris’ proudest legislative accomplishments was serving as lead sponsor – and having all become law – of the Time To Care Act (Paid Family Medical Leave), the Equal Pay for Equal Work Act & the Disclosing Sexual Harassment in the Workplace Act. current and past activities Member/Parishioner, St.
+Columba Church Activist, American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO Member/Activist, Asian Pacific American Labor Alliance (APALA), AFL-CIO Chair, Asian Pacific American Democratic Caucus of MD, 1996 -1997 Member, Young Democrats of Maryland Kris was born in our nation’s capital, Washington D.C., and is a lifelong resident of the 26 th Legislative District where she resides in Fort Washington, MD with her husband and two daughters.
 She is a member of St.
 Columba Church.
-- Member, National Philippine Cultural Foundation, Inc.
-Member, NAACP – Prince George’s County Chapter
-- Member, Southern Christian Leadership Conference
-- TV News Anchor & Reporter, Valderrama’s America (Multicultural TV News Magazine)
-- Communications Director, International Chamber of Asian and American Business Executives (ICAB)
-- Board of Directors, Maryland Public-Private Partnership Marketing Corporation
-- Board of Directors (FMR), Family Matters of Greater Washington, Inc.
-(FMGW)
-- Chair, Fund Development Advisory Committee
-- Prince George’s County Local Development Council
-- Governor’s Council on Family Violence Prevention
-- Maryland State Council for Interstate Adult Offender Supervision
-- Criminal Justice Information Advisory Board
-- National Conference of State Legislatures (NCSL), Labor and Economic Development Committee
-- National Conference of State Legislatures (NCSL) Quad Caucus
-- National Asian Pacific American Caucus of State Legislators (NAPACSL),
-2nd Vice-Chair
-- National Philippine Cultural Foundation, Inc.
-- Asian Pacific American Democratic Caucus of Maryland, Former Chair
-- International Chamber of Asian and American Business Executives, Communications Director
-- Prince George’s Chapter of the National Association for the Advancement of Colored People, NAACP
-- Southern Christian Leadership Conference
-- 2022 & 2011 Legislator of the Year Award – Steamfitters UA Local 602
-- Women’s Law Center of Maryland – Dorothy Beatty Memorial Award
-- Filipina Women’s Network – 100 Most Influential Filipina Women in the World
-- Pan Pacific Leaders and Mentors Speaker Award
-- Guiling-Guiling Club Most Outstanding in Government Services
-- First Generation Filipino-American Delegates Award
-- Children’s Hospital Advocacy Award
-- Bachelor of Science | Salisbury University
-- Oxon Hill High School
+Member, National Philippine Cultural Foundation, Inc.
+Member, NAACP – Prince George’s County Chapter Member, Southern Christian Leadership Conference TV News Anchor & Reporter, Valderrama’s America (Multicultural TV News Magazine) Communications Director, International Chamber of Asian and American Business Executives (ICAB) Public Service Board of Directors, Maryland Public-Private Partnership Marketing Corporation Board of Directors (FMR), Family Matters of Greater Washington, Inc.
+(FMGW) Chair, Fund Development Advisory Committee Prince George’s County Local Development Council Governor’s Council on Family Violence Prevention Maryland State Council for Interstate Adult Offender Supervision Criminal Justice Information Advisory Board National Conference of State Legislatures (NCSL), Labor and Economic Development Committee National Conference of State Legislatures (NCSL) Quad Caucus National Asian Pacific American Caucus of State Legislators (NAPACSL), 2nd Vice-Chair National Philippine Cultural Foundation, Inc.
+Asian Pacific American Democratic Caucus of Maryland, Former Chair International Chamber of Asian and American Business Executives, Communications Director Prince George’s Chapter of the National Association for the Advancement of Colored People, NAACP Southern Christian Leadership Conference Awards And Recognition 2022 & 2011 Legislator of the Year Award – Steamfitters UA Local 602 Women’s Law Center of Maryland – Dorothy Beatty Memorial Award Filipina Women’s Network – 100 Most Influential Filipina Women in the World Pan Pacific Leaders and Mentors Speaker Award Guiling-Guiling Club Most Outstanding in Government Services First Generation Filipino-American Delegates Award Children’s Hospital Advocacy Award Education Bachelor of Science | Salisbury University Oxon Hill High School Twitter Facebook Dribbble Youtube Pinterest Medium Twitch Linkedin Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram By authority citizens for Kris Valderrama Treasurer: Abraham Lobo Website Developed by Core Digital Expansion Copyright # Home Biography Useful Links Gallery News Newsletter Issues Bills Passed Contact Email Facebook Instagram BY AUTHORITY: Citizens for Kris Valderrama, Abraham Lobo, Treasurer.
+Website Developed by Core Digital Expansion Copyright #

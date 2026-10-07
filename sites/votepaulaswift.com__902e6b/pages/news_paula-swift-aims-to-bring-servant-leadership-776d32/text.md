@@ -1,37 +1,47 @@
-Los Angeles Sentinel
-Paula Swift Aims to Bring ‘Servant Leadership’ to Congress
-Paula Swift, a first-time congressional candidate in California’s 40th District, says she’s stepping into politics to fill a leadership void she believes has left too many people unheard and underserved.
-“There is a gaping need,” Swift said.
-“There’s a hole for a type of leadership that is actually focused on what the people need versus career politicians that have gotten so far away from connecting with their constituents.”
-Swift points to bold figures like Jasmine Crockett and Hakeem Jeffries as examples of the kind of direct, accountable leadership she admires.
-“They’ve called the current administration’s policies and behaviors on the carpet, and they’re not just sitting by and complicity allowing the carnage to continue.”
-She brings to the race a background in education, consulting, and strategic communications, which she says uniquely equips her to understand and respond to the needs of the people.
+Skip navigation menu Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate Meet Paula Paula's Priorities Endorsements News Events Get Involved Canvass Donate PRESS RELEASE Senator Bob Archulata Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California School Employees Association Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE UDW/AFSCME Local 3930 Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California State Controller Malia Cohen Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Congressman Dave Min Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California Federation of Teachers Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California State Assemblymember Josh Lowenthal Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Garden Grove City Councilwomen Endorse Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California State Senator Tom Umberg Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Congressman Robert Garcia Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Congressman Derek Tran Endorses Dr.
+Paula Swift for California State Assembly District 70 PRESS RELEASE Assemblymember Avelino Valencia Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE SEIU California Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California Democratic Legislative Women’s Caucus Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE California Democratic Party Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Assemblymember Jose Solache Backs Dr.
+Paula Swift for Assembly District 70 Orange County Register Because of redistricting, Paula Swift is now running for a California Legislature seat PRESS RELEASE Dr.
+Paula Swift Announces Campaign for California’s 70th Assembly District The truth oc There was one clear winner—Dr.
+Paula Swift Los Angeles Sentinel Paula Swift Aims to Bring ‘Servant Leadership’ to Congress PRESS RELEASE California State Assemblymember Rick Zbur Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE AFSCME California People Endorses Dr.
+Paula Swift for Assembly District 70 PRESS RELEASE Equality California Endorses Dr.
+Paula Swift for Assembly District 70 Jun 4 2025 Los Angeles Sentinel Paula Swift Aims to Bring ‘Servant Leadership’ to Congress Paula Swift, a first-time congressional candidate in California’s 40th District, says she’s stepping into politics to fill a leadership void she believes has left too many people unheard and underserved.
+“There is a gaping need,” Swift said. “ There’s a hole for a type of leadership that is actually focused on what the people need versus career politicians that have gotten so far away from connecting with their constituents.” Swift points to bold figures like Jasmine Crockett and Hakeem Jeffries as examples of the kind of direct, accountable leadership she admires.
+“They’ve called the current administration’s policies and behaviors on the carpet, and they’re not just sitting by and complicity allowing the carnage to continue.” She brings to the race a background in education, consulting, and strategic communications, which she says uniquely equips her to understand and respond to the needs of the people.
 “I’ve been able to marry my own lived experiences with my educational background,” she said.
-“I can recognize the problem, forecast what might be needed, implement a plan, and communicate it to constituents in a way that’s palatable to them.”
-Swift’s campaign focuses heavily on equity, particularly in education and healthcare.
+“I can recognize the problem, forecast what might be needed, implement a plan, and communicate it to constituents in a way that’s palatable to them.” Swift’s campaign focuses heavily on equity, particularly in education and healthcare.
 Swift supports reversing cuts proposed by the current administration and reinvesting in underserved communities.
 “There is a segment of our society who has been underserved,” she said.
-“We need to put services around those communities, especially focusing on prevention.”
-She also points to the mistrust many in the Black community feel toward the healthcare system.
+“We need to put services around those communities, especially focusing on prevention.” She also points to the mistrust many in the Black community feel toward the healthcare system.
 “There’s this fear or suspicion within the Black community of healthcare professionals,” she said.
 “Providing education is key to helping people understand the importance of preventative medicine.
-Resources should be funneled to areas where people lack access to good healthcare, food security, and equitable education.”
-Economic empowerment is another key pillar of her platform.
+Resources should be funneled to areas where people lack access to good healthcare, food security, and equitable education.” Economic empowerment is another key pillar of her platform.
 She advocates for expanded access to funding and mentorship for small businesses, especially for those without generational wealth.
 “Funding resources need to be available to small businesses so they can get on their feet,” she said.
 “A lot of business owners don’t come from families that have generational wealth.
-They need the same access that others have.”
-Rather than rely on traditional campaign strategies, Swift is focused on showing up in the community and building trust face-to-face.
+They need the same access that others have.” Rather than rely on traditional campaign strategies, Swift is focused on showing up in the community and building trust face-to-face.
 “My primary focus is to get out and meet with the people,” she said.
 “I go to Democratic Club meetings.
 I spend time at events in the community.
-We’ll be knocking on doors, telling people my story, and sharing my vision.”
-She hosts in-home meet and greets across the district, offering voters a chance to ask questions and get to know her beyond campaign slogans.
+We’ll be knocking on doors, telling people my story, and sharing my vision.” She hosts in-home meet and greets across the district, offering voters a chance to ask questions and get to know her beyond campaign slogans.
 “What’s important is getting to know the people and the things that concern them most,” she said.
 “Once I’m elected, I want to maintain that openness and transparency.
-I believe in a servant leadership position.”
-Swift often emphasizes that she’s not a political insider—and that’s by design.
+I believe in a servant leadership position.” Swift often emphasizes that she’s not a political insider—and that’s by design.
 “I jokingly say on the campaign trail that my superpower is that I am not a career politician,” she said.
-“My lived experiences allow me to really connect with the people because I’ve experienced a lot of the things they have.”
-She paid her own way through college and built a career through what she calls “pure hard work, tenacity, and the belief that when we work hard, we should all have equitable access to the American dream.”
-As she campaigns across the 40th District, Swift says she’s listening first—and preparing to lead with purpose, not power.
+“My lived experiences allow me to really connect with the people because I’ve experienced a lot of the things they have.” She paid her own way through college and built a career through what she calls “pure hard work, tenacity, and the belief that when we work hard, we should all have equitable access to the American dream.” As she campaigns across the 40th District, Swift says she’s listening first—and preparing to lead with purpose, not power.
+View the Published Article Here Contact Privacy Policy Election Day is Tuesday, November 3, 2026 Powered by RUN! website builder Paid for by Swift for Assembly 2026 FPPC #1485309 1 W.
+Manchester Blvd., Suite 700, Inglewood, CA 90301 You need to enable JavaScript to run this app.

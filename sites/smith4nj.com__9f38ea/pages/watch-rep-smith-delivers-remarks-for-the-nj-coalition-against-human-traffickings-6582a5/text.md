@@ -1,6 +1,6 @@
-The following are excerpts of remarks delivered by Rep.
-Chris Smith (R-NJ), author of the landmark Trafficking Victims Protection Act (TVPA) of 2000 and four additional anti-human trafficking laws, for the NJ Coalition Against Human Trafficking’s 2026 Law Enforcement Conference in Eatontown, NJ:
-Special thanks to every survivor-leader, law enforcement officer, prosecutor, service provider, and expert for your commitment to ending the scourge of human trafficking.
+Skip to content About Endorsements Election Information News Volunteer Contact Donate WATCH: Rep.
+Smith delivers remarks for the NJ Coalition Against Human Trafficking’s 2026 Law Enforcement Conference The following are excerpts of remarks delivered by Rep.
+Chris Smith (R-NJ), author of the landmark Trafficking Victims Protection Act (TVPA) of 2000 and four additional anti-human trafficking laws, for the NJ Coalition Against Human Trafficking’s 2026 Law Enforcement Conference in Eatontown, NJ: Special thanks to every survivor-leader, law enforcement officer, prosecutor, service provider, and expert for your commitment to ending the scourge of human trafficking.
 I especially want to recognize and thank Gina Cavallo—not only as an organizer, but as a survivor-leader, whose courage and commitment are helping to transform how we respond to human trafficking in New Jersey and across our country.
 When survivors lead, systems improve.
 When law enforcement listens, justice becomes more effective.
@@ -18,7 +18,7 @@ That means recognizing the signs of coercion and exploitation.
 It means understanding how trauma affects memory and behavior.
 It means knowing that a victim may not self-identify.
 And it means approaching every potential victim not as a suspect—but as someone who may be under force, fraud, or coercion.
-As the prime author of the Trafficking Victims Protection Act of 2000, and four subsequent anti-human trafficking laws in 2003, in 2005, in 2016, and 2018, I have long believed that our response must rest on the “3 Ps”: prevention, protection, and prosecution.
+As the prime author of the Trafficking Victims Protection Act of 2000 , and four subsequent anti-human trafficking laws in 2003 , in 2005 , in 2016 , and 2018 , I have long believed that our response must rest on the “3 Ps”: prevention, protection, and prosecution .
 Prevention requires awareness and coordination before the first whistle blows at the World Cup.
 Protection requires strong partnerships between law enforcement and service providers—so that when a victim is identified, there is somewhere safe to take them, someone trained to care for them, and a pathway toward healing.
 And prosecution requires that we go after traffickers aggressively and relentlessly.
@@ -46,7 +46,7 @@ Your presence here sends a powerful message: we absolutely refuse to let traffic
 To the law enforcement officers in this room: thank you, I say again, thank you.
 As you know, trauma-informed policing is not soft on crime—it is smart on crime.
 It leads to stronger cases, greater victim cooperation, and more successful prosecutions.
-To the survivor leaders: thank you for turning unimaginable pain into purpose.
+To the survivor leaders : thank you for turning unimaginable pain into purpose.
 Your love, courage, faith in God and tenacity is an inspiration to us all—especially victims who often fell abandoned, without hope and helpless.
 And to Gina and the NJ Coalition: thank you for building bridges where they are most needed.
 If we do this right—if we prepare thoroughly, train effectively, collaborate deeply, and heed the lessons taught by survivors—we can ensure that the FIFA World Cup 2026 is remembered for extraordinary athletic achievement, not exploitation.
@@ -54,3 +54,9 @@ Let this conference be more than a meeting.
 Let it be a launching point—for vigilance, for partnership, and for justice.
 Together, we can prevent trafficking before it occurs, protect those who are vulnerable, and hold traffickers fully accountable.
 Thank you, and may God bless your work.
+Post navigation Rep.
+Smith: Pass the Stop Forced Organ Harvesting Act Rep.
+Chris Rep.
+Smith Tick Act reauthorization (HR 4348) passes the House of Representatives Get Involved.
+First and Last Name First Last Email Address ZIP Code How Would You Like to Help Chris Smith?
+Make phone calls from home Make phone calls at Campaign HQ Hand Addressing Letters Put a Sign in My Yard How Would You Like to Help Chris Smith (col 2) Volunteering at Events Go door to door in my neighborhood Host a fundraiser Phone * Address * Street Address City VOLUNTEER About Endorsements Election Information News Volunteer Contact Donate Friends of Chris Smith PO Box 1266, Toms River, NJ 08754 Phone: 732-357-0900 E-mail: [email protected] PAID FOR BY FRIENDS OF CHRIS SMITH Privacy Policy

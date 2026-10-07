@@ -1,20 +1,10 @@
-FOR IMMEDIATE RELEASE
-February 2, 2026
-Contact: press@jjr.vote, 786-683-8781
-Miami, FL.- Former state representative and Florida’s Insurance Consumer Advocate, and former Florida Attorney General candidate Sean Shaw announced his endorsement of José Javier Rodríguez for Florida Attorney General, citing Rodríguez’s legal experience, commitment to accountability, and dedication to protecting Florida consumers and working families.
-Shaw’s endorsement reflects confidence in Rodríguez’s understanding of the Attorney General’s role.
-“When I ran for Attorney General, I said Florida needed a different approach - one that stands up to special interests, defends civil rights, protects our kids, and fights for everyday Floridians.
-I believed then, and I believe now, that if you’re doing wrong, you ought to be afraid, because the Attorney General should be willing to hold everyone accountable, no matter who you are,” said Sean Shaw.
-“José Javier Rodríguez embodies that commitment.
+EN ES Home About Priorities Media Endorsements Get involved Donate FOR IMMEDIATE RELEASE February 2, 2026 Contact: press@jjr.vote , 786-683-8781 EN ES Sean Shaw Endorses José Javier Rodríguez for Florida Attorney General Miami, FL.- Former state representative and Florida’s Insurance Consumer Advocate, and former Florida Attorney General candidate Sean Shaw announced his endorsement of José Javier Rodríguez for Florida Attorney General, citing Rodríguez’s legal experience, commitment to accountability, and dedication to protecting Florida consumers and working families. ‍ Shaw’s endorsement reflects confidence in Rodríguez’s understanding of the Attorney General’s role. ‍ “When I ran for Attorney General, I said Florida needed a different approach - one that stands up to special interests, defends civil rights, protects our kids, and fights for everyday Floridians.
+I believed then, and I believe now, that if you’re doing wrong, you ought to be afraid, because the Attorney General should be willing to hold everyone accountable, no matter who you are,” said Sean Shaw. ‍ “José Javier Rodríguez embodies that commitment.
 He has the legal experience, courage, and integrity to aggressively enforce the law, take on corporate and political malfeasance, and protect consumers and workers.
-He understands that the Attorney General’s job is to put the law and the people first, and that’s why I’m proud to endorse him for Attorney General.”
-“I’m grateful for Sean Shaw’s support and for his confidence in my commitment to accountability and the rule of law,” said José Javier Rodríguez.
+He understands that the Attorney General’s job is to put the law and the people first, and that’s why I’m proud to endorse him for Attorney General.” ‍ “I’m grateful for Sean Shaw’s support and for his confidence in my commitment to accountability and the rule of law,” said José Javier Rodríguez.
 “Sean has spent his career standing up for consumers and working families.
-I’m honored to have his support.”
-This endorsement adds to the growing list of respected leaders backing Rodríguez’s campaign, including former Florida Attorney General Bob Butterworth, former U.S.
-Senator Bill Nelson, former Palm Beach County State Attorney Dave Aronberg, and former Miami Beach Mayor Dan Gelber.
-About José Javier Rodríguez
-José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
-He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office.
-Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee.
-###
+I’m honored to have his support.” ‍ This endorsement adds to the growing list of respected leaders backing Rodríguez’s campaign, including former Florida Attorney General Bob Butterworth, former U.S.
+Senator Bill Nelson, former Palm Beach County State Attorney Dave Aronberg, and former Miami Beach Mayor Dan Gelber. ‍ About José Javier Rodríguez ‍ José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
+He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office. ‍ Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee.
+### Home About Priorities Media endorsements Get Involved Donate For all press inquiries, please contact press@jjr.vote Mailing Address: Jose Javier Rodriguez for Florida Attorney General c/o Computare.Partners 701 S.
+Howard Avenue #106-813 Tampa, FL 33606 POLITICAL ADVERTISEMENT PAID FOR AND APPROVED BY JOSE JAVIER RODRIGUEZ, DEMOCRAT, FOR FLORIDA ATTORNEY GENERAL February 2, 2026

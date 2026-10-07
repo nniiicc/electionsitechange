@@ -1,5 +1,2 @@
-Maui Now 5.19.26
-Sne Patel seeks State House of Representatives, West Maui seat
-Written By Tambara Garrick
-Previous
-Next
+0 Skip to Content About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Open Menu Close Menu About Priorities Connect News Take Action Maui Now 5.19.26 May 19 Written By Tambara Garrick Sne Patel seeks State House of Representatives, West Maui seat Tambara Garrick Previous Previous Hawai’i Journalism Initiative 6.6.26 Next Next Hawaii Public Radio 2.18.26 Learn More About Priorities Take Action Connect Contact Donate Instagram Paid for by Friends of Sne Patel P.O.
+Box 10187 Lahaina, HI 96761 © # Friends of Sne Patel

@@ -1,5 +1,3 @@
-Press Release
-Paid Gannon for Rep Dawn King Treasurer
-Enter your email address to subscribe to John's website and receive notifications of new posts by email.
-Email Address
-Subscribe
+Home About About John Gannon Newsroom News Press Releases Issues Southwest Ada Well Issues Education Open Legislature and Voting Neighborhood Involvement Quality of Life Resources Government Page Program Blog Contact Connect on Facebook Press Releases Press Release Paid Gannon for Rep Dawn King Treasurer Subscribe via Email Enter your email address to subscribe to John's website and receive notifications of new posts by email.
+Email Address Subscribe Paid for by Gannon for Rep Dawn King Treasurer © # Gannon State Rep.
+District 17A : John Gannon is member of the Idaho Legislature representing District 17

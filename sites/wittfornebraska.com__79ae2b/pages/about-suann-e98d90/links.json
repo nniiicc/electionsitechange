@@ -1,9 +1,38 @@
 [
-"https://secure.actblue.com/donate/suann-witt-1",
-"https://wittfornebraska.com/",
-"https://wittfornebraska.com/about-suann",
-"https://wittfornebraska.com/contact",
-"https://wittfornebraska.com/endorsements",
-"https://wittfornebraska.com/priorities",
-"https://wittfornebraska.com/volunteer"
+{
+"text": "About SuAnn",
+"href": "https://wittfornebraska.com/about-suann"
+},
+{
+"text": "Contact",
+"href": "https://wittfornebraska.com/contact"
+},
+{
+"text": "Donate Here!",
+"href": "https://secure.actblue.com/donate/suann-witt-1"
+},
+{
+"text": "Donate to SuAnn's Campaign!",
+"href": "https://secure.actblue.com/donate/suann-witt-1"
+},
+{
+"text": "Endorsements",
+"href": "https://wittfornebraska.com/endorsements"
+},
+{
+"text": "Home",
+"href": "https://wittfornebraska.com/"
+},
+{
+"text": "Priorities",
+"href": "https://wittfornebraska.com/priorities"
+},
+{
+"text": "Volunteer",
+"href": "https://wittfornebraska.com/volunteer"
+},
+{
+"text": "[image: Witt for Nebraska]",
+"href": "https://wittfornebraska.com/"
+}
 ]

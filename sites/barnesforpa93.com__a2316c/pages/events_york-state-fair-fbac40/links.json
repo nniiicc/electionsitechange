@@ -1,16 +1,66 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260729T193000Z%2F20260730T000000Z&location=334+Carlisle+Avenue%2C+York%2C+Pennsylvania%2C+17404%2C+United+States",
-"http://maps.google.com/?q=334+Carlisle+Avenue+York%2C+Pennsylvania%2C+17404+United+States",
-"https://barnesforpa93.com/",
-"https://barnesforpa93.com/blog",
-"https://barnesforpa93.com/cart",
-"https://barnesforpa93.com/events",
-"https://barnesforpa93.com/events/oevl251dr2pvhs95g90j6xch26l5gy-fkcjg-nkrte-p2h49-wdhtc",
-"https://barnesforpa93.com/events/red-lion-street-fair",
-"https://barnesforpa93.com/events/york-state-fair?format=ical",
-"https://facebook.com/people/Missy-Barnes-for-PA-93/61578485223105",
-"https://instagram.com/missybarnesforpa93",
-"https://secure.actblue.com/donate/missy-barnes-1",
-"https://squarespace.com/",
-"https://yorkstatefair.com/"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=334+carlisle+avenue+york%2C+pennsylvania%2C+17404+united+states"
+},
+{
+"text": "0",
+"href": "https://barnesforpa93.com/cart"
+},
+{
+"text": "Back to All Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Blog",
+"href": "https://barnesforpa93.com/blog"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/missy-barnes-1"
+},
+{
+"text": "Events",
+"href": "https://barnesforpa93.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=York+State+Fair&dates=20260729T193000Z%2F20260730T000000Z&location=334+Carlisle+Avenue%2C+York%2C+Pennsylvania%2C+17404%2C+United+States"
+},
+{
+"text": "ICS",
+"href": "https://barnesforpa93.com/events/york-state-fair?format=ical"
+},
+{
+"text": "Next Next August 8 Red Lion Street Fair",
+"href": "https://barnesforpa93.com/events/red-lion-street-fair"
+},
+{
+"text": "Previous Previous July 23 Walk and talk at York Township Park",
+"href": "https://barnesforpa93.com/events/oevl251dr2pvhs95g90j6xch26l5gy-fkcjg-nkrte-p2h49-wdhtc"
+},
+{
+"text": "Priorities & Values",
+"href": "https://barnesforpa93.com/#priorities"
+},
+{
+"text": "Squarespace",
+"href": "https://squarespace.com"
+},
+{
+"text": "[image: Forward Together]",
+"href": "https://barnesforpa93.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/people/Missy-Barnes-for-PA-93/61578485223105/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/missybarnesforpa93/"
+},
+{
+"text": "https://www.yorkstatefair.com",
+"href": "https://www.yorkstatefair.com"
+}
 ]

@@ -1,10 +1,38 @@
 [
-"https://amandaforjustice.com/",
-"https://amandaforjustice.com/about",
-"https://amandaforjustice.com/contact",
-"https://amandaforjustice.com/donate",
-"https://amandaforjustice.com/privacy-policy",
-"https://amandaforjustice.com/rsvp",
-"https://amandaforjustice.com/voting-info",
-"https://donorbox.org/amandareichekforjustice"
+{
+"text": "About",
+"href": "https://amandaforjustice.com/about"
+},
+{
+"text": "Contact",
+"href": "https://amandaforjustice.com/contact"
+},
+{
+"text": "DONATE ONLINE AT THIS LINK",
+"href": "https://donorbox.org/amandareichekforjustice"
+},
+{
+"text": "Donate",
+"href": "https://amandaforjustice.com/donate"
+},
+{
+"text": "Home",
+"href": "https://amandaforjustice.com/"
+},
+{
+"text": "Privacy Policy",
+"href": "https://amandaforjustice.com/privacy-policy"
+},
+{
+"text": "RSVP",
+"href": "https://amandaforjustice.com/rsvp"
+},
+{
+"text": "Voting Info",
+"href": "https://amandaforjustice.com/voting-info"
+},
+{
+"text": "[image: Amanda Reichek for Justice]",
+"href": "https://amandaforjustice.com/"
+}
 ]

@@ -1,6 +1,22 @@
 [
-"https://greg-alexander.com/",
-"https://greg-alexander.com/about",
-"https://greg-alexander.com/priorities",
-"https://secure.anedot.com/alexander-for-state-rep/donate"
+{
+"text": "About",
+"href": "https://greg-alexander.com/about/"
+},
+{
+"text": "Contact",
+"href": "https://greg-alexander.com/#contact"
+},
+{
+"text": "Donate",
+"href": "https://secure.anedot.com/alexander-for-state-rep/donate"
+},
+{
+"text": "Home",
+"href": "https://greg-alexander.com/"
+},
+{
+"text": "Priorities",
+"href": "https://greg-alexander.com/priorities/"
+}
 ]

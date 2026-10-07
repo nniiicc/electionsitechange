@@ -1,14 +1,2 @@
-Home
-About
-News
-Contact
-Donate
-May 29, 2026
-Voters Deserve the Truth: Travis Moore is 100% Pro-Life
-Previous Reading
-Protecting Life and Closing Dangerous Loopholes
-Home
-About
-News
-Contact
-Donate
+Home About News Contact Donate May 29, 2026 Voters Deserve the Truth: Travis Moore is 100% Pro-Life Previous Reading Protecting Life and Closing Dangerous Loopholes Leave a Reply Your email address will not be published.Required fields are marked * Comment Name * Email * Website Save my name, email, and website in this browser for the next time I comment.
+SUBMIT Paid for by Travis Moore for House Home About News Contact Donate

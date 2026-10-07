@@ -1,37 +1,19 @@
-In the Media
-[SF Chronicle] California’s elections chief pushes back against GOP efforts to limit voting rights
-SACRAMENTO — President Donald Trump wants California to adopt voter identification requirements, but he faces intense opposition from top Democrats in the state, including the state’s top elections official.
-[CBS News] California Secretary of State Shirley Weber emphasizes the importance of voting
-California Secretary of State Shirley Nash Weber, Ph.D. appeared on KCAL News to talk about the significance of voting as Election Day approaches.
-Sheba Turk reports.
-[OC Register] For Secretary of State Shirley Weber, access to voting was a lesson learned from a young age
-Every so often, Shirley Weber would come home from school and bypass the front door of her Los Angeles home.
+Home About Priorities Endorsements In the Media Get Involved Donate Select Page In the Media [SF Chronicle] California’s elections chief pushes back against GOP efforts to limit voting rights Apr 30, 2025 SACRAMENTO — President Donald Trump wants California to adopt voter identification requirements, but he faces intense opposition from top Democrats in the state, including the state’s top elections official. [CBS News] California Secretary of State Shirley Weber emphasizes the importance of voting Nov 3, 2024 California Secretary of State Shirley Nash Weber, Ph.D. appeared on KCAL News to talk about the significance of voting as Election Day approaches.
+Sheba Turk reports. [OC Register] For Secretary of State Shirley Weber, access to voting was a lesson learned from a young age Aug 30, 2024 Every so often, Shirley Weber would come home from school and bypass the front door of her Los Angeles home.
 She’d take the side yard and enter in the backdoor, careful not to disrupt those gathered in her living room.
 It was Election Day, and people were voting at 351 West 45th St.
-The importance of voting — and access to it — was instilled in Weber, California’s secretary of state, from a young age.
-[NBC News] How 3 Black women secretaries of state are protecting voting rights
-California Secretary of State Shirley Weber knows all too well how the race for voting rights is an intergenerational marathon.
+The importance of voting — and access to it — was instilled in Weber, California’s secretary of state, from a young age. [NBC News] How 3 Black women secretaries of state are protecting voting rights Mar 9, 2022 California Secretary of State Shirley Weber knows all too well how the race for voting rights is an intergenerational marathon.
 She’s the proud daughter of sharecroppers and is the first Black person to hold the position in California after Gov.
-Gavin Newsom nominated her at the end of 2020.
-[CNN] If voters don’t stop it, election deniers could kill American democracy
-As the chief election officers in California and Michigan, we are charged with ensuring and protecting the votes of over 30 million Americans — roughly 20% of the total registered voters in our country.
-We work to make sure that every eligible citizen is registered, has the information they need to vote, has their vote counted correctly and can have rightly placed faith in a complex electoral process — one made more onerous by the continuing Covid-19 pandemic.
-[Democracy Docket] Congress Should Learn From the Golden State
-I am lucky to be the chief elections officer for a state whose governor and legislature support equal access to the ballot.
+Gavin Newsom nominated her at the end of 2020. [CNN] If voters don’t stop it, election deniers could kill American democracy Feb 18, 2022 As the chief election officers in California and Michigan, we are charged with ensuring and protecting the votes of over 30 million Americans — roughly 20% of the total registered voters in our country.
+We work to make sure that every eligible citizen is registered, has the information they need to vote, has their vote counted correctly and can have rightly placed faith in a complex electoral process — one made more onerous by the continuing Covid-19 pandemic. [Democracy Docket] Congress Should Learn From the Golden State Jan 5, 2022 I am lucky to be the chief elections officer for a state whose governor and legislature support equal access to the ballot.
 Every registered voter in California received a mail-in ballot in September’s recall election as they had the previous November, no application or reason required.
 Despite mailing over 22 million ballots, there were no major errors regarding where, or to whom, the ballots were sent.
-Due to its success, California will now permanently mail voters ballots ahead of every election.
-[The Cut] Imagine If We Took Personal Ambition Out of Politics
-After serving two terms on the San Diego Board of Education and four representing California’s 79th Assembly District, Weber is now the third most powerful person in the state.
-She spoke with the Cut about why she had to be recruited to run for office, her greatest professional heartbreak, and how she’s opening the door for the next generation of Black women leaders.
-[Politico] California elections chief wants recall overhaul, possibly as soon as 2022
-“I’m probably the number one person who says we need to look at this process,” Secretary of State Shirley Weber told POLITICO in an interview, calling California an “outlier” in matters like the relatively low threshold to qualify a recall.
-“The process we have is old, it is difficult to implement, it is expensive, and it’s probably not very fair to everyone.”
-[Good Morning America] California Secretary of State Dr.
+Due to its success, California will now permanently mail voters ballots ahead of every election. [The Cut] Imagine If We Took Personal Ambition Out of Politics Dec 17, 2021 After serving two terms on the San Diego Board of Education and four representing California’s 79th Assembly District, Weber is now the third most powerful person in the state.
+She spoke with the Cut about why she had to be recruited to run for office, her greatest professional heartbreak, and how she’s opening the door for the next generation of Black women leaders. [Politico] California elections chief wants recall overhaul, possibly as soon as 2022 Sep 15, 2021 “I’m probably the number one person who says we need to look at this process,” Secretary of State Shirley Weber told POLITICO in an interview, calling California an “outlier” in matters like the relatively low threshold to qualify a recall.
+“The process we have is old, it is difficult to implement, it is expensive, and it’s probably not very fair to everyone.” [Good Morning America] California Secretary of State Dr.
 Shirley Weber joins #GMA3 to offer insight into the governor’s recall election.
-“California has probably the safest elections of any state in the nation…we have a lot of things in place.
-We check, we re-check, we verify…” California Secretary of State @DrShirleyWeber joins #GMA3 to offer insight into the governor’s recall election....
-[The Sacramento Bee] I’ve seen Jim Crow.
-The Senate filibuster is enabling its return
-Foiled by a key tactic of the Jim Crow era, the Senate has officially missed a historic opportunity to combat the most aggressive attacks on voting rights since that time.
-We must end the legislative filibuster in the United States Senate.
+Sep 14, 2021 “California has probably the safest elections of any state in the nation…we have a lot of things in place.
+We check, we re-check, we verify…” California Secretary of State @DrShirleyWeber joins #GMA3 to offer insight into the governor’s recall election.... [The Sacramento Bee] I’ve seen Jim Crow.
+The Senate filibuster is enabling its return Jul 24, 2021 Foiled by a key tactic of the Jim Crow era, the Senate has officially missed a historic opportunity to combat the most aggressive attacks on voting rights since that time.
+We must end the legislative filibuster in the United States Senate. « Older Entries Paid for by Shirley Weber for Secretary of State 2026.
+FPPC # 1456658 Facebook X

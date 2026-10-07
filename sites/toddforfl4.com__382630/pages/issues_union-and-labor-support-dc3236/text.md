@@ -1,9 +1,9 @@
-Union and Labor Support
-Not everyone needs a union, but their wins help everyone—UAW victories raised wages at Hyundai, Honda, and Toyota; Starbucks and Amazon unions spotlight fair practices and led to increased wages throughout their industries.
+Meet Todd Issues Why Run Independent?
+Volunteer Contact Home ❭ Issues ❭ Union and Labor Support Union and Labor Support Not everyone needs a union, but their wins help everyone—UAW victories raised wages at Hyundai, Honda, and Toyota; Starbucks and Amazon unions spotlight fair practices and led to increased wages throughout their industries.
 Labor is a commodity that businesses must invest in; workers sell that labor like any other commodity—strength in numbers via unions levels the field through collective bargaining.
 In FL-04, this means better jobs and security, a bipartisan priority for our district's families.
 Florida's right-to-work laws, enshrined in the state constitution since 1944, have significantly degraded worker rights by prohibiting unions from requiring membership or dues as a condition of employment, leading to lower unionization rates, reduced bargaining power, and diminished wages and benefits.
 Similar to other red states like Alabama, Georgia, and Texas, these laws weaken collective action, resulting in workers earning 3.2% less on average compared to non-right-to-work states—translating to about $1,670 less annually for the typical employee.
 Florida ranks 30th in the nation for worker protections, with poor scores on wages and union rights, reflecting a broader trend in Republican-led states where anti-labor preemption laws have surged, blocking local improvements like higher minimum wages or paid leave.
 Studies confirm that right-to-work laws not only suppress unionization but also harm state economies by eroding worker security, as seen in lower overall compensation and fewer protections against unfair practices.
-In FL-04, this means our working families face unnecessary hardships, and I'll fight to strengthen labor rights to reverse these trends.
+In FL-04, this means our working families face unnecessary hardships, and I'll fight to strengthen labor rights to reverse these trends. « Previous: Diplomatic Foreign Policy Solutions Next: Ranked Choice Voting » Voter Registration Yard Signs Events Contact Privacy Policy Todd Schaefer for Congress Powered by CampaignPartner.com - Political Campaign Websites Home Meet Todd Issues Contribute Volunteer News Yard Signs Events Contact Voter Registration Close Menu

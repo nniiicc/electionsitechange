@@ -1,8 +1,4 @@
-Join
-Lisa Baker's
-Team
-Meet Lisa Baker: A Leader We Rely On For Productive and Practical Results
-State Senator Lisa Baker is proud to serve our area.
+MEET LISA PRIORITIES ENDORSEMENTS EVENTS VOLUNTEER VOTE CENTER DONATE Join Lisa Baker's Team First Name Last Name Phone Email Address 8 + 10 = Sign Up Meet Lisa Baker: A Leader We Rely On For Productive and Practical Results State Senator Lisa Baker is proud to serve our area.
 She has earned respect from constituents and colleagues for her responsible and reasonable approach to legislating and problem-solving.
 One of her defining qualities is accessibility.
 Her Senate district is one of the largest in size, and she travels across it constantly to meet with individuals and groups and to participate in community meetings and events.
@@ -30,3 +26,4 @@ In committees she previously led, she was a champion for workers, veterans, emer
 In line with the sporting heritage of the region, she is a staunch defender of Second Amendment rights.
 Lisa is a resident of Lehman Township, Luzerne County and has been blessed with over 40 years of marriage to her husband, Gary.
 They derive great joy from spending time with their son, daughter-in-law, and two grandchildren.
+PRIVACY POLICY 570-776-5940 • info@bakerforsenate.com Follow Follow Follow Follow Paid for by Baker for Senate Committee

@@ -1,17 +1,82 @@
 [
-"https://cardinaleforassembly.com/",
-"https://cardinaleforassembly.com/about",
-"https://cardinaleforassembly.com/about-3",
-"https://cardinaleforassembly.com/contact",
-"https://cardinaleforassembly.com/events-1",
-"https://cardinaleforassembly.com/events/candidate-night",
-"https://cardinaleforassembly.com/general-9",
-"https://cardinaleforassembly.com/get-involved",
-"https://cardinaleforassembly.com/news",
-"https://facebook.com/JoeCardinaleforassembly",
-"https://instagram.com/joecardinaleforassembly",
-"https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cardinaleforassembly.com%2Fevents%2Fcandidate-night",
-"https://secure.winred.com/joe-cardinale-for-assembly/donate-today",
-"https://twitter.com/CardinaleAD11",
-"https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cardinaleforassembly.com%2Fevents%2Fcandidate-night&text=Check+out+this+event.+Hope+to+see+you+there%21"
+{
+"text": "About",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "About Me",
+"href": "https://www.cardinaleforassembly.com/about"
+},
+{
+"text": "Contact",
+"href": "https://www.cardinaleforassembly.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.winred.com/joe-cardinale-for-assembly/donate-today"
+},
+{
+"text": "Election Information",
+"href": "https://www.cardinaleforassembly.com/about-3"
+},
+{
+"text": "Events",
+"href": "https://www.cardinaleforassembly.com/events-1"
+},
+{
+"text": "FOR NYS ASSEMBLY DISTRICT 11",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "Get Involved",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "Home",
+"href": "https://www.cardinaleforassembly.com/events/candidate-night"
+},
+{
+"text": "JOE CARDINALE",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "News",
+"href": "https://www.cardinaleforassembly.com/news"
+},
+{
+"text": "Privacy",
+"href": "https://www.cardinaleforassembly.com/general-9"
+},
+{
+"text": "SUBSCRIBE",
+"href": "mailto:joecardinaleforassembly@gmail.com"
+},
+{
+"text": "See other events",
+"href": "https://www.cardinaleforassembly.com"
+},
+{
+"text": "VOLUNTEER",
+"href": "https://www.cardinaleforassembly.com/get-involved"
+},
+{
+"text": "[image: Facebook]",
+"href": "https://www.facebook.com/JoeCardinaleforassembly"
+},
+{
+"text": "[image: Instagram]",
+"href": "https://www.instagram.com/joecardinaleforassembly/"
+},
+{
+"text": "[image: Twitter]",
+"href": "https://twitter.com/CardinaleAD11"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.cardinaleforassembly.com%2Fevents%2Fcandidate-night&text=Check+out+this+event.+Hope+to+see+you+there%21"
+},
+{
+"text": "[no text]",
+"href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cardinaleforassembly.com%2Fevents%2Fcandidate-night"
+}
 ]

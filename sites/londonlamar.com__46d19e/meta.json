@@ -1,9 +1,12 @@
 {
  "description": "The Website of State Senator London Lamar",
  "final_url": "https://www.londonlamar.com/",
- "paid_for_by": "Paid for by &nbsp;London Lamar for State Senate Sen",
+ "fingerprint": "f1b02f9769f1ce5261912910d90437c7cf31bc6a",
+ "format": 3,
+ "paid_for_by": "Paid for by London Lamar for State Senate Sen",
  "title": "London for State Senator 2025",
  "years_mentioned": [
+  "2009",
   "2013"
  ]
 }

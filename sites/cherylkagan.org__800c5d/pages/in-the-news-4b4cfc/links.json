@@ -1,116 +1,870 @@
 [
-"http://cherylkagan.org/about",
-"http://cherylkagan.org/community-resources",
-"http://cherylkagan.org/community-updates",
-"http://cherylkagan.org/email-sign-up",
-"http://cherylkagan.org/in-the-news",
-"http://cherylkagan.org/ng911",
-"http://cherylkagan.org/press-releases",
-"http://cherylkagan.org/senatorial-scholarships",
-"https://cherylkagan.org/",
-"https://cherylkagan.org/2026/03/21",
-"https://cherylkagan.org/2026/03/24",
-"https://cherylkagan.org/2026/03/25",
-"https://cherylkagan.org/2026/03/26",
-"https://cherylkagan.org/2026/03/28",
-"https://cherylkagan.org/2026/03/30",
-"https://cherylkagan.org/2026/03/31",
-"https://cherylkagan.org/2026/04/01",
-"https://cherylkagan.org/2026/04/07",
-"https://cherylkagan.org/2026/04/17",
-"https://cherylkagan.org/2026/04/22",
-"https://cherylkagan.org/2026/04/30",
-"https://cherylkagan.org/2026/05/08",
-"https://cherylkagan.org/2026/05/11",
-"https://cherylkagan.org/2026/05/12",
-"https://cherylkagan.org/2026/05/15",
-"https://cherylkagan.org/2026/05/22",
-"https://cherylkagan.org/2026/05/27",
-"https://cherylkagan.org/2026/06/02",
-"https://cherylkagan.org/2026/06/09",
-"https://cherylkagan.org/2026/06/10",
-"https://cherylkagan.org/2026/06/19",
-"https://cherylkagan.org/2026/06/20",
-"https://cherylkagan.org/2026/06/29",
-"https://cherylkagan.org/2026/06/30",
-"https://cherylkagan.org/2026/07/02",
-"https://cherylkagan.org/2026/07/13",
-"https://cherylkagan.org/2026/07/20",
-"https://cherylkagan.org/2026/07/23",
-"https://cherylkagan.org/2026/07/31",
-"https://cherylkagan.org/2026/08/03",
-"https://cherylkagan.org/2026/08/06",
-"https://cherylkagan.org/2026/08/17",
-"https://cherylkagan.org/2026/08/26",
-"https://cherylkagan.org/2026/09/01",
-"https://cherylkagan.org/2026/09/08",
-"https://cherylkagan.org/2026/09/11",
-"https://cherylkagan.org/2026/09/16",
-"https://cherylkagan.org/2026/09/18",
-"https://cherylkagan.org/2026/09/30",
-"https://cherylkagan.org/a-dubious-award-a-redistricting-debate-a-sort-of-parrott-return-in-political-notes",
-"https://cherylkagan.org/a-question-of-church-and-state-dominates-senate-debate-on-charitable-organizations-bill",
-"https://cherylkagan.org/after-missing-most-of-the-session-benson-jones-return-to-praise-affection-flowers",
-"https://cherylkagan.org/ai-powered-statewide-311-approved",
-"https://cherylkagan.org/amar-mukunda-ousted-the-senate-majority-leader-now-he-wants-to-reform-annapolis",
-"https://cherylkagan.org/author/sburket",
-"https://cherylkagan.org/ballot-questions-might-be-more-difficult-for-voters-with-disabilities-to-understand",
-"https://cherylkagan.org/ballot-questions-written-at-a-graduate-school-level-not-plain-language-as-new-law-requires",
-"https://cherylkagan.org/bio",
-"https://cherylkagan.org/board-approves-109-million-voting-machine-contract-despite-concerns",
-"https://cherylkagan.org/casework",
-"https://cherylkagan.org/category/in-the-news",
-"https://cherylkagan.org/constituent-services",
-"https://cherylkagan.org/contact",
-"https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma",
-"https://cherylkagan.org/democratic-states-scramble-to-prevent-potential-trump-administration-interference-in-their-elections",
-"https://cherylkagan.org/democrats-who-sabotage-democracy",
-"https://cherylkagan.org/election-2026-gov-politics-senate-leader-calls-latest-redistricting-effort-from-house-a-nonstarter",
-"https://cherylkagan.org/election-conversations-sen-cheryl-kagan-maryland",
-"https://cherylkagan.org/elections-in-uncertain-times-macocon-prepares-for-november",
-"https://cherylkagan.org/ethics-lead-shot-housing-and-gender-identity-lawmakers-plow-through-bills-on-crossover-day",
-"https://cherylkagan.org/ferguson-special-elections-not-on-the-agenda-for-brief-session-on-redistricting",
-"https://cherylkagan.org/friedson-recognized-with-visionary-award-by-young-artists-of-america-on-strathmore-stage",
-"https://cherylkagan.org/gaithersburgs-old-towne-plaza-renamed-in-honor-of-sidney-katz",
-"https://cherylkagan.org/heres-what-gov-wes-moore-signed-into-law-during-last-bill-ceremony-of-2026",
-"https://cherylkagan.org/house-committee-tacks-redistricting-language-onto-senate-elections-bill",
-"https://cherylkagan.org/house-senate-leaders-draw-hard-line-on-special-session-topics",
-"https://cherylkagan.org/house-sets-target-dates-for-special-session",
-"https://cherylkagan.org/how-the-general-assemblys-redistricting-fight-derailed-a-referendum-on-special-elections",
-"https://cherylkagan.org/human-resources-links",
-"https://cherylkagan.org/in-rockville-remembering-11-who-died-on-9-11",
-"https://cherylkagan.org/interview-first-in-nation-311-statewide-plan-signed-into-law-to-help-911-centers",
-"https://cherylkagan.org/jobs",
-"https://cherylkagan.org/kagan-says-proposed-ballot-question-text-may-violate-state-law-she-sponsored",
-"https://cherylkagan.org/kagan-testifies-on-statewide-311-bill",
-"https://cherylkagan.org/kagans-recommendation-mailer",
-"https://cherylkagan.org/lawmakers-convene-for-what-leaders-hope-is-quick-work-on-a-redistricting-bil",
-"https://cherylkagan.org/legislative-overview",
-"https://cherylkagan.org/macocon-cant-miss-elections-in-uncertain-times",
-"https://cherylkagan.org/maryland-delays-approval-of-new-109m-voting-system-after-rise-of-transparency-concerns",
-"https://cherylkagan.org/maryland-house-tries-to-revive-redistricting-plan-b",
-"https://cherylkagan.org/maryland-redistricting-ballot-question-blocked-by-judge-whats-next",
-"https://cherylkagan.org/maryland-state-senator-kagan-discusses-redistricting-amendment-ruling-video",
-"https://cherylkagan.org/maryland-to-be-the-first-with-a-statewide-311-number",
-"https://cherylkagan.org/md-lawmakers-reaffirm-legislative-priorities",
-"https://cherylkagan.org/moore-closed-primary-election-system-has-run-its-course",
-"https://cherylkagan.org/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut",
-"https://cherylkagan.org/officials-worry-as-they-weigh-impact-of-supreme-courts-conversion-therapy-ruling",
-"https://cherylkagan.org/opinion-heres-what-mcps-must-demonstrate-before-closing-a-school",
-"https://cherylkagan.org/political-notes-an-ai-adviser-a-new-hand-on-racing-panel-reins-lawmakers-talk-sho",
-"https://cherylkagan.org/rockville-council-member-housing-project-suspended-because-of-wootton-hs-closure-updated",
-"https://cherylkagan.org/senate-president-bill-ferguson-did-not-make-gov-moores-latest-campaign-endorsement-list",
-"https://cherylkagan.org/slate-of-maryland-election-reform-bills-set-to-go-into-law-before-november-midterms",
-"https://cherylkagan.org/state-roundup-elections-board-issues-guide-to-address-mail-in-ballot-problem-farmers-seek-federal-aid-after-devastating-freeze-22000-sign-up-for-special-butterfly-id",
-"https://cherylkagan.org/supreme-court-rules-states-can-count-late-arriving-mailed-ballots-rejecting-trump-led-challenge",
-"https://cherylkagan.org/tactical-analysts-lawmakers-skeptical-of-redistricting-in-elections-bill",
-"https://cherylkagan.org/the-politics-hour-md-redistricting-va-primaries-and-one-year-since-trumps-mpd-takeo",
-"https://cherylkagan.org/the-politics-hour-the-d-c-council-weighs-in-on-the-budget-and-the-maryland-general-assembly-wraps-up",
-"https://cherylkagan.org/the-pulse-on-county-budget-cuts-marylands-mail-in-ballot-blunder-mcps-layoffs",
-"https://constantcontact.com/legal/about-constant-contact",
-"https://facebook.com/CherylCKagan",
-"https://instagram.com/cherylckagan",
-"https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan",
-"https://twitter.com/CherylKagan",
-"https://youtube.com/@SenCherylKagan"
+{
+"text": "#MACoCon Can’t-Miss: Elections in Uncertain Times",
+"href": "https://cherylkagan.org/macocon-cant-miss-elections-in-uncertain-times/"
+},
+{
+"text": "9-1-1",
+"href": "http://cherylkagan.org/ng911/"
+},
+{
+"text": "A dubious award, a redistricting debate, a (sort of) Parrott return, in political notes",
+"href": "https://cherylkagan.org/a-dubious-award-a-redistricting-debate-a-sort-of-parrott-return-in-political-notes/"
+},
+{
+"text": "A question of church and state dominates Senate debate on charitable organizations bill",
+"href": "https://cherylkagan.org/a-question-of-church-and-state-dominates-senate-debate-on-charitable-organizations-bill/"
+},
+{
+"text": "AI-powered statewide 311 approved",
+"href": "https://cherylkagan.org/ai-powered-statewide-311-approved/"
+},
+{
+"text": "About",
+"href": "https://cherylkagan.org/bio"
+},
+{
+"text": "After missing most of the session, Benson, Jones return to praise, affection, flowers",
+"href": "https://cherylkagan.org/after-missing-most-of-the-session-benson-jones-return-to-praise-affection-flowers/"
+},
+{
+"text": "Amar Mukunda ousted the Senate majority leader. Now he wants to reform Annapolis.",
+"href": "https://cherylkagan.org/amar-mukunda-ousted-the-senate-majority-leader-now-he-wants-to-reform-annapolis/"
+},
+{
+"text": "April 1, 2026",
+"href": "https://cherylkagan.org/2026/04/01/"
+},
+{
+"text": "April 17, 2026",
+"href": "https://cherylkagan.org/2026/04/17/"
+},
+{
+"text": "April 22, 2026",
+"href": "https://cherylkagan.org/2026/04/22/"
+},
+{
+"text": "April 30, 2026",
+"href": "https://cherylkagan.org/2026/04/30/"
+},
+{
+"text": "April 7, 2026",
+"href": "https://cherylkagan.org/2026/04/07/"
+},
+{
+"text": "August 17, 2026",
+"href": "https://cherylkagan.org/2026/08/17/"
+},
+{
+"text": "August 26, 2026",
+"href": "https://cherylkagan.org/2026/08/26/"
+},
+{
+"text": "August 3, 2026",
+"href": "https://cherylkagan.org/2026/08/03/"
+},
+{
+"text": "August 6, 2026",
+"href": "https://cherylkagan.org/2026/08/06/"
+},
+{
+"text": "Ballot Questions might be more difficult for voters with disabilities to understand",
+"href": "https://cherylkagan.org/ballot-questions-might-be-more-difficult-for-voters-with-disabilities-to-understand/"
+},
+{
+"text": "Ballot questions written at a graduate school level, not plain language, as new law requires",
+"href": "https://cherylkagan.org/ballot-questions-written-at-a-graduate-school-level-not-plain-language-as-new-law-requires/"
+},
+{
+"text": "Biography",
+"href": "http://cherylkagan.org/about/"
+},
+{
+"text": "Board approves $109 million voting machine contract despite concerns",
+"href": "https://cherylkagan.org/board-approves-109-million-voting-machine-contract-despite-concerns/"
+},
+{
+"text": "Community Resources",
+"href": "http://cherylkagan.org/community-resources/"
+},
+{
+"text": "Community Updates",
+"href": "http://cherylkagan.org/community-updates/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/a-dubious-award-a-redistricting-debate-a-sort-of-parrott-return-in-political-notes/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/a-question-of-church-and-state-dominates-senate-debate-on-charitable-organizations-bill/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/after-missing-most-of-the-session-benson-jones-return-to-praise-affection-flowers/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ai-powered-statewide-311-approved/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/amar-mukunda-ousted-the-senate-majority-leader-now-he-wants-to-reform-annapolis/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ballot-questions-might-be-more-difficult-for-voters-with-disabilities-to-understand/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ballot-questions-written-at-a-graduate-school-level-not-plain-language-as-new-law-requires/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/board-approves-109-million-voting-machine-contract-despite-concerns/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/democratic-states-scramble-to-prevent-potential-trump-administration-interference-in-their-elections/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/democrats-who-sabotage-democracy/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/election-2026-gov-politics-senate-leader-calls-latest-redistricting-effort-from-house-a-nonstarter/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/election-conversations-sen-cheryl-kagan-maryland/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/elections-in-uncertain-times-macocon-prepares-for-november/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ethics-lead-shot-housing-and-gender-identity-lawmakers-plow-through-bills-on-crossover-day/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/ferguson-special-elections-not-on-the-agenda-for-brief-session-on-redistricting/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/friedson-recognized-with-visionary-award-by-young-artists-of-america-on-strathmore-stage/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/gaithersburgs-old-towne-plaza-renamed-in-honor-of-sidney-katz/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/heres-what-gov-wes-moore-signed-into-law-during-last-bill-ceremony-of-2026/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/house-committee-tacks-redistricting-language-onto-senate-elections-bill/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/house-senate-leaders-draw-hard-line-on-special-session-topics/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/house-sets-target-dates-for-special-session/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/how-the-general-assemblys-redistricting-fight-derailed-a-referendum-on-special-elections/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/in-rockville-remembering-11-who-died-on-9-11/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/interview-first-in-nation-311-statewide-plan-signed-into-law-to-help-911-centers/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/kagan-says-proposed-ballot-question-text-may-violate-state-law-she-sponsored/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/kagan-testifies-on-statewide-311-bill/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/kagans-recommendation-mailer/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/lawmakers-convene-for-what-leaders-hope-is-quick-work-on-a-redistricting-bil/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/macocon-cant-miss-elections-in-uncertain-times/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/maryland-delays-approval-of-new-109m-voting-system-after-rise-of-transparency-concerns/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/maryland-house-tries-to-revive-redistricting-plan-b/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/maryland-redistricting-ballot-question-blocked-by-judge-whats-next/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/maryland-state-senator-kagan-discusses-redistricting-amendment-ruling-video/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/maryland-to-be-the-first-with-a-statewide-311-number/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/md-lawmakers-reaffirm-legislative-priorities/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/moore-closed-primary-election-system-has-run-its-course/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/officials-worry-as-they-weigh-impact-of-supreme-courts-conversion-therapy-ruling/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/opinion-heres-what-mcps-must-demonstrate-before-closing-a-school/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/political-notes-an-ai-adviser-a-new-hand-on-racing-panel-reins-lawmakers-talk-sho/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/rockville-council-member-housing-project-suspended-because-of-wootton-hs-closure-updated/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/senate-president-bill-ferguson-did-not-make-gov-moores-latest-campaign-endorsement-list/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/slate-of-maryland-election-reform-bills-set-to-go-into-law-before-november-midterms/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/state-roundup-elections-board-issues-guide-to-address-mail-in-ballot-problem-farmers-seek-federal-aid-after-devastating-freeze-22000-sign-up-for-special-butterfly-id/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/supreme-court-rules-states-can-count-late-arriving-mailed-ballots-rejecting-trump-led-challenge/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/tactical-analysts-lawmakers-skeptical-of-redistricting-in-elections-bill/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/the-politics-hour-md-redistricting-va-primaries-and-one-year-since-trumps-mpd-takeo/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/the-politics-hour-the-d-c-council-weighs-in-on-the-budget-and-the-maryland-general-assembly-wraps-up/"
+},
+{
+"text": "Continue Reading",
+"href": "https://cherylkagan.org/the-pulse-on-county-budget-cuts-marylands-mail-in-ballot-blunder-mcps-layoffs/"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/contribute-to-senator-cheryl-kagan"
+},
+{
+"text": "Democratic states scramble to prevent potential Trump administration interference in their elections",
+"href": "https://cherylkagan.org/democratic-states-scramble-to-prevent-potential-trump-administration-interference-in-their-elections/"
+},
+{
+"text": "Democrats Who Sabotage Democracy",
+"href": "https://cherylkagan.org/democrats-who-sabotage-democracy/"
+},
+{
+"text": "District 17 Casework Portal",
+"href": "https://cherylkagan.org/casework/"
+},
+{
+"text": "Election Conversations: Sen. Cheryl Kagan, Maryland",
+"href": "https://cherylkagan.org/election-conversations-sen-cheryl-kagan-maryland/"
+},
+{
+"text": "Elections in Uncertain Times: #MACoCon Prepares for November",
+"href": "https://cherylkagan.org/elections-in-uncertain-times-macocon-prepares-for-november/"
+},
+{
+"text": "Email Sign Up",
+"href": "http://cherylkagan.org/email-sign-up/"
+},
+{
+"text": "Emails are serviced by Constant Contact",
+"href": "https://www.constantcontact.com/legal/about-constant-contact"
+},
+{
+"text": "Ethics, lead shot, housing and gender identity: Lawmakers plow through bills on crossover day",
+"href": "https://cherylkagan.org/ethics-lead-shot-housing-and-gender-identity-lawmakers-plow-through-bills-on-crossover-day/"
+},
+{
+"text": "Ferguson: Special elections not on the agenda for brief session on redistricting",
+"href": "https://cherylkagan.org/ferguson-special-elections-not-on-the-agenda-for-brief-session-on-redistricting/"
+},
+{
+"text": "Friedson Recognized with “Visionary Award” by Young Artists of America on Strathmore Stage",
+"href": "https://cherylkagan.org/friedson-recognized-with-visionary-award-by-young-artists-of-america-on-strathmore-stage/"
+},
+{
+"text": "Gaithersburg’s Old Towne Plaza renamed in honor of Sidney Katz",
+"href": "https://cherylkagan.org/gaithersburgs-old-towne-plaza-renamed-in-honor-of-sidney-katz/"
+},
+{
+"text": "Here’s what Gov. Wes Moore signed into law during last bill ceremony of 2026",
+"href": "https://cherylkagan.org/heres-what-gov-wes-moore-signed-into-law-during-last-bill-ceremony-of-2026/"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org"
+},
+{
+"text": "Home",
+"href": "https://cherylkagan.org/"
+},
+{
+"text": "House committee tacks redistricting language onto Senate elections bill",
+"href": "https://cherylkagan.org/house-committee-tacks-redistricting-language-onto-senate-elections-bill/"
+},
+{
+"text": "House sets target dates for special session",
+"href": "https://cherylkagan.org/house-sets-target-dates-for-special-session/"
+},
+{
+"text": "House, Senate leaders draw hard line on special session topics",
+"href": "https://cherylkagan.org/house-senate-leaders-draw-hard-line-on-special-session-topics/"
+},
+{
+"text": "How the General Assembly’s redistricting fight derailed a referendum on special elections",
+"href": "https://cherylkagan.org/how-the-general-assemblys-redistricting-fight-derailed-a-referendum-on-special-elections/"
+},
+{
+"text": "Human Resources Links",
+"href": "https://cherylkagan.org/human-resources-links/"
+},
+{
+"text": "In Rockville, remembering 11 who died on 9/11",
+"href": "https://cherylkagan.org/in-rockville-remembering-11-who-died-on-9-11/"
+},
+{
+"text": "In The News",
+"href": "https://cherylkagan.org/category/in-the-news/"
+},
+{
+"text": "Interview: First-in-nation 311 statewide plan signed into law to help 911 centers",
+"href": "https://cherylkagan.org/interview-first-in-nation-311-statewide-plan-signed-into-law-to-help-911-centers/"
+},
+{
+"text": "Job Descriptions",
+"href": "https://cherylkagan.org/jobs/"
+},
+{
+"text": "July 13, 2026",
+"href": "https://cherylkagan.org/2026/07/13/"
+},
+{
+"text": "July 2, 2026",
+"href": "https://cherylkagan.org/2026/07/02/"
+},
+{
+"text": "July 20, 2026",
+"href": "https://cherylkagan.org/2026/07/20/"
+},
+{
+"text": "July 23, 2026",
+"href": "https://cherylkagan.org/2026/07/23/"
+},
+{
+"text": "July 31, 2026",
+"href": "https://cherylkagan.org/2026/07/31/"
+},
+{
+"text": "June 10, 2026",
+"href": "https://cherylkagan.org/2026/06/10/"
+},
+{
+"text": "June 19, 2026",
+"href": "https://cherylkagan.org/2026/06/19/"
+},
+{
+"text": "June 2, 2026",
+"href": "https://cherylkagan.org/2026/06/02/"
+},
+{
+"text": "June 20, 2026",
+"href": "https://cherylkagan.org/2026/06/20/"
+},
+{
+"text": "June 29, 2026",
+"href": "https://cherylkagan.org/2026/06/29/"
+},
+{
+"text": "June 30, 2026",
+"href": "https://cherylkagan.org/2026/06/30/"
+},
+{
+"text": "June 9, 2026",
+"href": "https://cherylkagan.org/2026/06/09/"
+},
+{
+"text": "Kagan in the News",
+"href": "http://cherylkagan.org/in-the-news/"
+},
+{
+"text": "Kagan says proposed ballot question text may violate state law she sponsored",
+"href": "https://cherylkagan.org/kagan-says-proposed-ballot-question-text-may-violate-state-law-she-sponsored/"
+},
+{
+"text": "Kagan testifies on statewide 311 bill",
+"href": "https://cherylkagan.org/kagan-testifies-on-statewide-311-bill/"
+},
+{
+"text": "Kagan’s Recommendation Mailer",
+"href": "https://cherylkagan.org/kagans-recommendation-mailer/"
+},
+{
+"text": "Lawmakers convene for what leaders hope is quick work on a redistricting bil",
+"href": "https://cherylkagan.org/lawmakers-convene-for-what-leaders-hope-is-quick-work-on-a-redistricting-bil/"
+},
+{
+"text": "Legislative Session Overviews",
+"href": "https://cherylkagan.org/legislative-overview/"
+},
+{
+"text": "March 21, 2026",
+"href": "https://cherylkagan.org/2026/03/21/"
+},
+{
+"text": "March 24, 2026",
+"href": "https://cherylkagan.org/2026/03/24/"
+},
+{
+"text": "March 25, 2026",
+"href": "https://cherylkagan.org/2026/03/25/"
+},
+{
+"text": "March 26, 2026",
+"href": "https://cherylkagan.org/2026/03/26/"
+},
+{
+"text": "March 28, 2026",
+"href": "https://cherylkagan.org/2026/03/28/"
+},
+{
+"text": "March 30, 2026",
+"href": "https://cherylkagan.org/2026/03/30/"
+},
+{
+"text": "March 31, 2026",
+"href": "https://cherylkagan.org/2026/03/31/"
+},
+{
+"text": "Maryland House tries to revive redistricting plan B",
+"href": "https://cherylkagan.org/maryland-house-tries-to-revive-redistricting-plan-b/"
+},
+{
+"text": "Maryland State Senator Kagan discusses redistricting amendment ruling (VIDEO)",
+"href": "https://cherylkagan.org/maryland-state-senator-kagan-discusses-redistricting-amendment-ruling-video/"
+},
+{
+"text": "Maryland delays approval of new $109M voting system after rise of transparency concerns",
+"href": "https://cherylkagan.org/maryland-delays-approval-of-new-109m-voting-system-after-rise-of-transparency-concerns/"
+},
+{
+"text": "Maryland redistricting ballot question blocked by judge: What’s next",
+"href": "https://cherylkagan.org/maryland-redistricting-ballot-question-blocked-by-judge-whats-next/"
+},
+{
+"text": "Maryland to be the first with a statewide 311 number",
+"href": "https://cherylkagan.org/maryland-to-be-the-first-with-a-statewide-311-number/"
+},
+{
+"text": "May 11, 2026",
+"href": "https://cherylkagan.org/2026/05/11/"
+},
+{
+"text": "May 12, 2026",
+"href": "https://cherylkagan.org/2026/05/12/"
+},
+{
+"text": "May 15, 2026",
+"href": "https://cherylkagan.org/2026/05/15/"
+},
+{
+"text": "May 22, 2026",
+"href": "https://cherylkagan.org/2026/05/22/"
+},
+{
+"text": "May 27, 2026",
+"href": "https://cherylkagan.org/2026/05/27/"
+},
+{
+"text": "May 8, 2026",
+"href": "https://cherylkagan.org/2026/05/08/"
+},
+{
+"text": "Md. lawmakers reaffirm legislative priorities",
+"href": "https://cherylkagan.org/md-lawmakers-reaffirm-legislative-priorities/"
+},
+{
+"text": "Moore issues scores of endorsements, but some incumbent Democrats miss the cut",
+"href": "https://cherylkagan.org/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut/"
+},
+{
+"text": "Moore: Closed primary election system ‘has run its course’",
+"href": "https://cherylkagan.org/moore-closed-primary-election-system-has-run-its-course/"
+},
+{
+"text": "Officials worry as they weigh impact of Supreme Court’s conversion therapy ruling",
+"href": "https://cherylkagan.org/officials-worry-as-they-weigh-impact-of-supreme-courts-conversion-therapy-ruling/"
+},
+{
+"text": "Opinion: Here’s what MCPS must demonstrate before closing a school",
+"href": "https://cherylkagan.org/opinion-heres-what-mcps-must-demonstrate-before-closing-a-school/"
+},
+{
+"text": "Political notes: An AI adviser, a new hand on racing panel reins, lawmakers talk shop",
+"href": "https://cherylkagan.org/political-notes-an-ai-adviser-a-new-hand-on-racing-panel-reins-lawmakers-talk-sho/"
+},
+{
+"text": "Press Releases",
+"href": "http://cherylkagan.org/press-releases/"
+},
+{
+"text": "Rockville Council Member: Housing Project Suspended Because of Wootton HS Closure (Updated)",
+"href": "https://cherylkagan.org/rockville-council-member-housing-project-suspended-because-of-wootton-hs-closure-updated/"
+},
+{
+"text": "Scholarships",
+"href": "http://cherylkagan.org/senatorial-scholarships/"
+},
+{
+"text": "Senate President Bill Ferguson did not make Gov. Moore’s latest campaign endorsement list",
+"href": "https://cherylkagan.org/senate-president-bill-ferguson-did-not-make-gov-moores-latest-campaign-endorsement-list/"
+},
+{
+"text": "Senate leader calls latest redistricting effort from House a nonstarter",
+"href": "https://cherylkagan.org/election-2026-gov-politics-senate-leader-calls-latest-redistricting-effort-from-house-a-nonstarter/"
+},
+{
+"text": "September 1, 2026",
+"href": "https://cherylkagan.org/2026/09/01/"
+},
+{
+"text": "September 11, 2026",
+"href": "https://cherylkagan.org/2026/09/11/"
+},
+{
+"text": "September 16, 2026",
+"href": "https://cherylkagan.org/2026/09/16/"
+},
+{
+"text": "September 18, 2026",
+"href": "https://cherylkagan.org/2026/09/18/"
+},
+{
+"text": "September 30, 2026",
+"href": "https://cherylkagan.org/2026/09/30/"
+},
+{
+"text": "September 8, 2026",
+"href": "https://cherylkagan.org/2026/09/08/"
+},
+{
+"text": "Services & Resources",
+"href": "https://cherylkagan.org/constituent-services/"
+},
+{
+"text": "Share Your Thoughts",
+"href": "https://cherylkagan.org/contact/"
+},
+{
+"text": "Slate of Maryland election reform bills set to go into law before November midterms",
+"href": "https://cherylkagan.org/slate-of-maryland-election-reform-bills-set-to-go-into-law-before-november-midterms/"
+},
+{
+"text": "State Roundup: Elections board issues guide to address mail-in ballot problem; Farmers seek federal aid after devastating freeze; 22,000 sign up for special butterfly ID",
+"href": "https://cherylkagan.org/state-roundup-elections-board-issues-guide-to-address-mail-in-ballot-problem-farmers-seek-federal-aid-after-devastating-freeze-22000-sign-up-for-special-butterfly-id/"
+},
+{
+"text": "Supreme Court rules states can count late-arriving mailed ballots, rejecting Trump-led challenge",
+"href": "https://cherylkagan.org/supreme-court-rules-states-can-count-late-arriving-mailed-ballots-rejecting-trump-led-challenge/"
+},
+{
+"text": "Susan Burket",
+"href": "https://cherylkagan.org/author/sburket/"
+},
+{
+"text": "The Politics Hour: MD redistricting, VA primaries, and one year since Trump’s MPD takeo",
+"href": "https://cherylkagan.org/the-politics-hour-md-redistricting-va-primaries-and-one-year-since-trumps-mpd-takeo/"
+},
+{
+"text": "The Politics Hour: The D.C. Council weighs in on the budget and the Maryland General Assembly wraps up",
+"href": "https://cherylkagan.org/the-politics-hour-the-d-c-council-weighs-in-on-the-budget-and-the-maryland-general-assembly-wraps-up/"
+},
+{
+"text": "[image] (410) 841-3134",
+"href": "tel:410-841-3134"
+},
+{
+"text": "[image] Cheryl.Kagan@senate.state.md.us",
+"href": "mailto:Cheryl.Kagan@senate.state.md.us"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/a-dubious-award-a-redistricting-debate-a-sort-of-parrott-return-in-political-notes/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/a-question-of-church-and-state-dominates-senate-debate-on-charitable-organizations-bill/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/after-missing-most-of-the-session-benson-jones-return-to-praise-affection-flowers/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ai-powered-statewide-311-approved/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/amar-mukunda-ousted-the-senate-majority-leader-now-he-wants-to-reform-annapolis/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ballot-questions-might-be-more-difficult-for-voters-with-disabilities-to-understand/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ballot-questions-written-at-a-graduate-school-level-not-plain-language-as-new-law-requires/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/board-approves-109-million-voting-machine-contract-despite-concerns/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/democratic-states-scramble-to-prevent-potential-trump-administration-interference-in-their-elections/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/democrats-who-sabotage-democracy/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/election-2026-gov-politics-senate-leader-calls-latest-redistricting-effort-from-house-a-nonstarter/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/election-conversations-sen-cheryl-kagan-maryland/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/elections-in-uncertain-times-macocon-prepares-for-november/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ethics-lead-shot-housing-and-gender-identity-lawmakers-plow-through-bills-on-crossover-day/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/ferguson-special-elections-not-on-the-agenda-for-brief-session-on-redistricting/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/friedson-recognized-with-visionary-award-by-young-artists-of-america-on-strathmore-stage/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/gaithersburgs-old-towne-plaza-renamed-in-honor-of-sidney-katz/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/heres-what-gov-wes-moore-signed-into-law-during-last-bill-ceremony-of-2026/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/house-committee-tacks-redistricting-language-onto-senate-elections-bill/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/house-senate-leaders-draw-hard-line-on-special-session-topics/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/house-sets-target-dates-for-special-session/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/how-the-general-assemblys-redistricting-fight-derailed-a-referendum-on-special-elections/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/in-rockville-remembering-11-who-died-on-9-11/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/interview-first-in-nation-311-statewide-plan-signed-into-law-to-help-911-centers/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/kagan-says-proposed-ballot-question-text-may-violate-state-law-she-sponsored/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/kagan-testifies-on-statewide-311-bill/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/kagans-recommendation-mailer/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/lawmakers-convene-for-what-leaders-hope-is-quick-work-on-a-redistricting-bil/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/macocon-cant-miss-elections-in-uncertain-times/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/maryland-delays-approval-of-new-109m-voting-system-after-rise-of-transparency-concerns/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/maryland-house-tries-to-revive-redistricting-plan-b/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/maryland-redistricting-ballot-question-blocked-by-judge-whats-next/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/maryland-state-senator-kagan-discusses-redistricting-amendment-ruling-video/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/maryland-to-be-the-first-with-a-statewide-311-number/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/md-lawmakers-reaffirm-legislative-priorities/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/moore-closed-primary-election-system-has-run-its-course/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/officials-worry-as-they-weigh-impact-of-supreme-courts-conversion-therapy-ruling/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/opinion-heres-what-mcps-must-demonstrate-before-closing-a-school/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/political-notes-an-ai-adviser-a-new-hand-on-racing-panel-reins-lawmakers-talk-sho/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/rockville-council-member-housing-project-suspended-because-of-wootton-hs-closure-updated/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/senate-president-bill-ferguson-did-not-make-gov-moores-latest-campaign-endorsement-list/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/slate-of-maryland-election-reform-bills-set-to-go-into-law-before-november-midterms/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/state-roundup-elections-board-issues-guide-to-address-mail-in-ballot-problem-farmers-seek-federal-aid-after-devastating-freeze-22000-sign-up-for-special-butterfly-id/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/supreme-court-rules-states-can-count-late-arriving-mailed-ballots-rejecting-trump-led-challenge/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/tactical-analysts-lawmakers-skeptical-of-redistricting-in-elections-bill/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/the-politics-hour-md-redistricting-va-primaries-and-one-year-since-trumps-mpd-takeo/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/the-politics-hour-the-d-c-council-weighs-in-on-the-budget-and-the-maryland-general-assembly-wraps-up/"
+},
+{
+"text": "[no text]",
+"href": "https://cherylkagan.org/the-pulse-on-county-budget-cuts-marylands-mail-in-ballot-blunder-mcps-layoffs/"
+},
+{
+"text": "[tooltip: Follow Us on Facebook]",
+"href": "https://www.facebook.com/CherylCKagan"
+},
+{
+"text": "[tooltip: Follow Us on Instagram]",
+"href": "https://www.instagram.com/cherylckagan/"
+},
+{
+"text": "[tooltip: Follow Us on Twitter]",
+"href": "https://twitter.com/CherylKagan"
+},
+{
+"text": "[tooltip: Follow Us on Youtube]",
+"href": "https://www.youtube.com/@SenCherylKagan"
+},
+{
+"text": "‘Crucial’: New Maryland law lets public school students earn a civic excellence seal on their diploma",
+"href": "https://cherylkagan.org/crucial-new-maryland-law-lets-public-school-students-earn-a-civic-excellence-seal-on-their-diploma/"
+},
+{
+"text": "‘Tactical’: Analysts, lawmakers skeptical of redistricting in elections bill",
+"href": "https://cherylkagan.org/tactical-analysts-lawmakers-skeptical-of-redistricting-in-elections-bill/"
+},
+{
+"text": "‘The Pulse’ on county budget cuts, Maryland’s mail-in ballot blunder & MCPS layoffs",
+"href": "https://cherylkagan.org/the-pulse-on-county-budget-cuts-marylands-mail-in-ballot-blunder-mcps-layoffs/"
+}
 ]

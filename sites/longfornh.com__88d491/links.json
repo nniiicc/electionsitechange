@@ -1,5 +1,18 @@
 [
-"https://longfornh.com/",
-"https://secure.actblue.com/donate/long-for-nh-senate-1",
-"https://themeisle.com/"
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/long-for-nh-senate-1"
+},
+{
+"text": "Pat Long for NH Senate",
+"href": "https://www.longfornh.com/"
+},
+{
+"text": "ThemeIsle",
+"href": "https://themeisle.com"
+},
+{
+"text": "[image: Long for NH logo]",
+"href": "https://www.longfornh.com/"
+}
 ]

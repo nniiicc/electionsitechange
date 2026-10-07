@@ -1,37 +1,162 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=Hate+Has+No+Home+Here%3A+Frisco+Town+Hall&dates=20260730T230000Z%2F20260731T010000Z&location=5353+Independence+Parkway%2C+Frisco%2C+Texas%2C+75035%2C+United+States",
-"http://maps.google.com/?q=5353+Independence+Parkway+Frisco%2C+Texas%2C+75035+United+States",
-"https://act.vikkigoodwin.com/hemp",
-"https://bsky.app/profile/vikkigoodwintx.bsky.social",
-"https://facebook.com/VikkiGoodwinTX",
-"https://instagram.com/Goodwin4Texas",
-"https://mobilize.us/sandeepfortexas66/event/987914?referring_vol=11028926&rname=Pooja&timeslot=6148341&referring_participation=52350700&referring_data_signature=v1-c62723ee1a239443&share_medium=copy_link&share_context=signup-form-modal",
-"https://poojafortexas.com/",
-"https://sandeepfortexas.com/",
-"https://secure.actblue.com/donate/vg4lgad",
-"https://store.goodwin4texas.com/",
-"https://threads.com/@Goodwin4Texas",
-"https://tiktok.com/@vikkigoodwintx",
-"https://vikkigoodwin.com/",
-"https://vikkigoodwin.com/cart",
-"https://vikkigoodwin.com/datacenters",
-"https://vikkigoodwin.com/education",
-"https://vikkigoodwin.com/endorsements-1",
-"https://vikkigoodwin.com/endorsements-organizations",
-"https://vikkigoodwin.com/endorsements-public-officials",
-"https://vikkigoodwin.com/endorsements-texas-voters",
-"https://vikkigoodwin.com/events",
-"https://vikkigoodwin.com/events/0726",
-"https://vikkigoodwin.com/events/0730?format=ical",
-"https://vikkigoodwin.com/events/0806phonebank",
-"https://vikkigoodwin.com/healthcare",
-"https://vikkigoodwin.com/housing",
-"https://vikkigoodwin.com/issues",
-"https://vikkigoodwin.com/meet-vikki",
-"https://vikkigoodwin.com/news",
-"https://vikkigoodwin.com/priorities-overview",
-"https://vikkigoodwin.com/privacy",
-"https://vikkigoodwin.com/volunteer",
-"https://vikkigoodwin.com/water",
-"https://x.com/VikkiGoodwinTX"
+{
+"text": "(map)",
+"href": "http://maps.google.com?q=5353+independence+parkway+frisco%2C+texas%2C+75035+united+states"
+},
+{
+"text": "0",
+"href": "https://www.vikkigoodwin.com/cart"
+},
+{
+"text": "About Vikki",
+"href": "https://www.vikkigoodwin.com/meet-vikki"
+},
+{
+"text": "AskMe@VikkiGoodwin.com",
+"href": "mailto:candidate@vikkigoodwin.com"
+},
+{
+"text": "Back",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Cannabis & THC",
+"href": "https://act.vikkigoodwin.com/hemp/"
+},
+{
+"text": "Clean Water",
+"href": "https://www.vikkigoodwin.com/water"
+},
+{
+"text": "Data Centers",
+"href": "https://www.vikkigoodwin.com/datacenters"
+},
+{
+"text": "Donate",
+"href": "https://secure.actblue.com/donate/vg4lgad"
+},
+{
+"text": "Events",
+"href": "https://www.vikkigoodwin.com/events"
+},
+{
+"text": "Folder: Endorsements",
+"href": "https://www.vikkigoodwin.com/endorsements-1"
+},
+{
+"text": "Folder: Priorities",
+"href": "https://www.vikkigoodwin.com/priorities-overview"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=Hate+Has+No+Home+Here%3A+Frisco+Town+Hall&dates=20260730T230000Z%2F20260731T010000Z&location=5353+Independence+Parkway%2C+Frisco%2C+Texas%2C+75035%2C+United+States"
+},
+{
+"text": "Healthcare",
+"href": "https://www.vikkigoodwin.com/healthcare"
+},
+{
+"text": "Home",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "Housing Affordability",
+"href": "https://www.vikkigoodwin.com/housing"
+},
+{
+"text": "ICS",
+"href": "https://www.vikkigoodwin.com/events/0730?format=ical"
+},
+{
+"text": "More Issues",
+"href": "https://www.vikkigoodwin.com/issues"
+},
+{
+"text": "News",
+"href": "https://www.vikkigoodwin.com/news"
+},
+{
+"text": "Next Next August 6 Phone Bank with Team Vikki",
+"href": "https://www.vikkigoodwin.com/events/0806phonebank"
+},
+{
+"text": "Online Store",
+"href": "https://store.goodwin4texas.com/"
+},
+{
+"text": "Organizations",
+"href": "https://www.vikkigoodwin.com/endorsements-organizations"
+},
+{
+"text": "Pooja Sethi",
+"href": "https://www.poojafortexas.com/"
+},
+{
+"text": "Previous Previous July 26 100 Days Out: Austin Organizing Rally with Vikki Goodwin",
+"href": "https://www.vikkigoodwin.com/events/0726"
+},
+{
+"text": "Public Education",
+"href": "https://www.vikkigoodwin.com/education"
+},
+{
+"text": "Public Officials",
+"href": "https://www.vikkigoodwin.com/endorsements-public-officials"
+},
+{
+"text": "RSVP here for more information",
+"href": "https://www.mobilize.us/sandeepfortexas66/event/987914/?referring_vol=11028926&rname=Pooja&timeslot=6148341&referring_participation=52350700&referring_data_signature=v1-c62723ee1a239443&share_medium=copy_link&share_context=signup-form-modal"
+},
+{
+"text": "Read our privacy policy here.",
+"href": "https://www.vikkigoodwin.com/privacy"
+},
+{
+"text": "Sandeep Shrivastava",
+"href": "https://sandeepfortexas.com/"
+},
+{
+"text": "Texas Voters",
+"href": "https://www.vikkigoodwin.com/endorsements-texas-voters"
+},
+{
+"text": "Vikki.Goodwin@house.texas.gov",
+"href": "mailto:Vikki.Goodwin@house.texas.gov"
+},
+{
+"text": "Volunteer",
+"href": "https://www.vikkigoodwin.com/volunteer"
+},
+{
+"text": "[image: Rep. Vikki Goodwin]",
+"href": "https://www.vikkigoodwin.com/"
+},
+{
+"text": "[no text]",
+"href": "https://bsky.app/profile/vikkigoodwintx.bsky.social"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/VikkiGoodwinTX/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.threads.com/@Goodwin4Texas"
+},
+{
+"text": "[no text]",
+"href": "https://www.tiktok.com/@vikkigoodwintx"
+},
+{
+"text": "[no text]",
+"href": "https://x.com/VikkiGoodwinTX"
+}
 ]

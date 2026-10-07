@@ -1,38 +1,11 @@
-SERVICE.
-LEADERSHIP.
+**********RSVP for Victory Tour: Trey Taylor Fundraising Concert********** Home Meet Melva Priorities Community Involvement Donate/Contact Fundraising Concert More Home Meet Melva Priorities Community Involvement Donate/Contact Fundraising Concert Contribute Here Home Meet Melva Priorities Community Involvement Donate/Contact Fundraising Concert Contribute Here SERVICE .
+LEADERSHIP .
 TEXAS VALUES.
-LTC Melva Rivera Pérez (Ret.)
+LTC Melva Pérez (Ret.) for Texas State Representative House District 119 "I served my country for more than two decades...now I'm ready to serve Texas at home by fighting for our families, our values, and our future." LTC Melva Rivera Pérez (Ret.) Get Ready for Melva Rivera Pérez for TXHD 119!
 With 28 years of service, LTC Melva Pérez (Ret.) proudly wore the United States Army uniform - leading soldiers, safeguarding American interests and defending the freedoms we cherish.
 Today, she's answering a new call to serve: fighting for safer streets, stronger communities, and a prosperous future for every family!
-10/1/26 Alamo City Pachyderm - 11 am
-10/5/26 Highland Hills NA Candidate Forum - 6:30 pm
-10/6/26 Southside Lions Park “Neighbors Together” (National Night Out)- 4:30 pm
-10/6/26 Bode Community Center "National Night Out" 6-8 pm
-10/8/26 NEP (Northeast Partnership) 11 am (Olympia Golf Course)
-Pecan Valley NA 6 pm
-10/10/26 Block Walking Event (Converse Area) - 9-5
-10/11/26 New Creation Church - Guest Speaker for Hispanic Heritage Month - 10 am
-10/12/26 Harlandale-McCullum NA - 6:30 pm
-10/13/26 BCRW Fundraiser 5:30-7 pm
-10/14/26 Highland Park NA Candidate Forum - 6:00
-10/17/26 Trey Taylor Concert Fundraiser - 5:30-8:30
-10/18/26 Early Voting Kick-Off Rally (TBD)
-10/19/26 First Day of Early Voting
-10/20/26 Alamo City Republican Women 11 am
-10/24/26 Sponsor Market Day at UniteSA - 9 am-2 pm
-10/26/26 Denver Heights NA - 5 pm
-11/2/26 Highland Hills NA - 6:30 pm
-11/3/26 Election Day
-Block Walk, Phone Bank, Volunteer at the polls, Host an Event, Fundraising, etc
-Tuesday, November 3, 2026
-00
-DaysDays
-HrsHours
-MinsMinutes
-SecsSeconds
-Melva Rivera Perez is a veteran of the U.S.
+Upcoming Events 10/1/26 Alamo City Pachyderm - 11 am 10/5/26 Highland Hills NA Candidate Forum - 6:30 pm 10/6/26 Southside Lions Park “Neighbors Together” (National Night Out)- 4:30 pm 10/6/26 Bode Community Center "National Night Out" 6-8 pm 10/8/26 NEP (Northeast Partnership) 11 am (Olympia Golf Course) Pecan Valley NA 6 pm 10/10/26 Block Walking Event (Converse Area) - 9-5 10/11/26 New Creation Church - Guest Speaker for Hispanic Heritage Month - 10 am 10/12/26 Harlandale-McCullum NA - 6:30 pm 10/13/26 BCRW Fundraiser 5:30-7 pm 10/14/26 Highland Park NA Candidate Forum - 6:00 10/17/26 Trey Taylor Concert Fundraiser - 5:30-8:30 10/18/26 Early Voting Kick-Off Rally (TBD) 10/19/26 First Day of Early Voting 10/20/26 Alamo City Republican Women 11 am 10/24/26 Sponsor Market Day at UniteSA - 9 am-2 pm 10/26/26 Denver Heights NA - 5 pm 11/2/26 Highland Hills NA - 6:30 pm 11/3/26 Election Day Ready to Volunteer?
+Block Walk, Phone Bank, Volunteer at the polls, Host an Event, Fundraising, etc Call us NOW Election Day Tuesday, November 3, 2026 # # Days Days # # Hrs Hours # # Mins Minutes # # Secs Seconds Melva Rivera Perez for HD119 melvarperez4hd119@gmail.com 210-802-8643 Melva Rivera Perez is a veteran of the U.S.
 Army.
 Use of her military service, rank, job titles, & images does not imply endorsement of the US Army or Department of War.
 Melva Rivera Pérez for TXHD 119 Campaign, Political Ad paid by Melva Rivera Pérez Campaign, Roberto Pérez Treasurer
-We use cookies to analyze website traffic and optimize your website experience.
-By accepting our use of cookies, your data will be aggregated with all other user data.

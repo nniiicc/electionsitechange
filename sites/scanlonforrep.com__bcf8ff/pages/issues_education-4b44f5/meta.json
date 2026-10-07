@@ -1,7 +1,9 @@
 {
  "description": "Education",
  "final_url": "https://www.scanlonforrep.com/issues/education",
- "paid_for_by": null,
+ "fingerprint": "1657e85af6092620f1bf62bb5d0028cf5a30f66d",
+ "format": 3,
+ "paid_for_by": "",
  "title": "Education",
  "years_mentioned": []
 }

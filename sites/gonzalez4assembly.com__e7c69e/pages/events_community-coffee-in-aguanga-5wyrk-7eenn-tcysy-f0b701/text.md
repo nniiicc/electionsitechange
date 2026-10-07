@@ -1,14 +1,5 @@
-Back to All Events
-YOU’RE INVITED!
+0 Skip to Content YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS MEDIA NEWS PHOTOS English DONATE Open Menu Close Menu YARD SIGN REQUEST VOLUNTEER HOST AN EVENT ABOUT ISSUES ENDORSEMENTS EVENTS Folder: MEDIA Back NEWS PHOTOS English Back DONATE Back to All Events Community Coffee in Blythe Saturday, July 18, 2026 10:00 AM 12:00 PM Google Calendar ICS YOU’RE INVITED!
 Join Team Gonzalez for a community coffee.
 This is a great opportunity to meet Jeff, learn about his priorities in Sacramento and ask questions.
-What: Community Coffee with Jeff Gonzalez
-Where: Starbucks Coffee, 745 Hobsonway, Blythe, CA
-When: Saturday, July 18, 2026, 10:00 AM 12:00 PM
-Previous
-Previous
-July 17
-Community Coffee in Imperial
-Next
-Next
-September 12
+What : Community Coffee with Jeff Gonzalez Where : Starbucks Coffee, 745 Hobsonway, Blythe, CA When : Saturday, July 18, 2026, 10:00 AM 12:00 PM RSVP Previous Previous July 17 Community Coffee in Imperial Next Next September 12 Coachella Valley Campaign Kickoff MAKE A SECURE DONATION PAID FOR BY JEFF GONZALEZ FOR ASSEMBLY 2026 Military images and information do not imply endorsement by DOD [Department of Defense] or any service branch.
+PRIVACY POLICY & TERMS AND CONDITIONS

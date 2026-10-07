@@ -1,9 +1,3 @@
-In an environment of constant change, Lauren will serve to protect our shared conservative values.
-- Advocate for Pro-Life Policies
-- Defend the Second Amendment
-- Maintain Fiscal Responsibility
-Skip to content
-In an environment of constant change, Lauren will serve to protect our shared conservative values.
-- Advocate for Pro-Life Policies
-- Defend the Second Amendment
-- Maintain Fiscal Responsibility
+Skip to content Vote Lauren McDonald ☰ Meet Lauren Issues Get Involved Donate X Meet Lauren Issues Get Involved Donate Fight for Our Conservative Values Fight for Our Conservative Values In an environment of constant change, Lauren will serve to protect our shared conservative values.
+Advocate for Pro-Life Policies Defend the Second Amendment Maintain Fiscal Responsibility Post navigation Protect Our Quality of Life Latest News Forsyth County News October 18, 2019 Forsyth County Coroner Lauren McDonald Announces State House Campaign Sign Up to Receive Email Updates!
+Email * Phone Zip Code Δ Donate PAID FOR BY MCDONALD FOR GEORGIA

@@ -1,9 +1,13 @@
 {
- "description": "Join Nic Kipke for Breakfast! Wednesday, June 4th, 20257:30am \u2013 9:30am The Rumor Reel1701 Poplar Ridge RoadPasadena, MD 21122 Purchase your tickets or sponsorship online today!",
+ "description": "Join Nic Kipke for Breakfast! Wednesday, June 4th, 20257:30am – 9:30am The Rumor Reel1701 Poplar Ridge RoadPasadena, MD 21122 Purchase your tickets or sponsorship online today!",
  "final_url": "https://kipke.com/kipke-state-senate/",
- "paid_for_by": null,
+ "fingerprint": "a6fb6f23151379420e430f0eed8f4e659de32dd6",
+ "format": 3,
+ "paid_for_by": "",
  "title": "KIPKE STATE SENATE - Nic Kipke",
  "years_mentioned": [
-  "2025"
+  "2021",
+  "2025",
+  "2026"
  ]
 }

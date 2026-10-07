@@ -1,24 +1,106 @@
 [
-"http://google.com/calendar/event?action=TEMPLATE&text=CANCELLED+--+Congressman+Scott%27s+45th+Annual+Labor+Day+Cookout%21&dates=20210906T190000Z%2F20210906T220000Z",
-"https://bobbyscottforcongress.com/",
-"https://bobbyscottforcongress.com/about-bobby",
-"https://bobbyscottforcongress.com/contact",
-"https://bobbyscottforcongress.com/events",
-"https://bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott",
-"https://bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout?format=ical",
-"https://bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer",
-"https://bobbyscottforcongress.com/photos",
-"https://bobbyscottforcongress.com/press-1",
-"https://bobbyscottforcongress.com/search",
-"https://bobbyscottforcongress.com/the-scott-record",
-"https://bobbyscottforcongress.com/volunteer",
-"https://bobbyscottforcongress.com/vote",
-"https://bobbyscottforcongress.com/working-for-us",
-"https://facebook.com/bobbyscottforcongress",
-"https://secure.actblue.com/donate/bobby-scott-3",
-"https://twitter.com/BobbyScott4VA3",
-"https://vaccinate.virginia.gov/?emci=503c0f6a-effe-eb11-b563-501ac57b8fa7&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D",
-"https://vademocrats.org/",
-"https://vayd.org/",
-"https://wevoteva.com/"
+{
+"text": "75th Birthday Gala in Honor of Congressman Bobby Scott",
+"href": "https://www.bobbyscottforcongress.com/events/75th-birthday-gala-in-honor-of-congressman-bobby-scott"
+},
+{
+"text": "About Bobby",
+"href": "https://www.bobbyscottforcongress.com/about-bobby"
+},
+{
+"text": "Back to All Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Contact Us",
+"href": "https://www.bobbyscottforcongress.com/contact"
+},
+{
+"text": "DONATE",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Events",
+"href": "https://www.bobbyscottforcongress.com/events"
+},
+{
+"text": "Google Calendar",
+"href": "http://www.google.com/calendar/event?action=TEMPLATE&text=CANCELLED+--+Congressman+Scott%27s+45th+Annual+Labor+Day+Cookout%21&dates=20210906T190000Z%2F20210906T220000Z"
+},
+{
+"text": "ICS",
+"href": "https://www.bobbyscottforcongress.com/events/congressman-scotts-45th-annual-labor-day-cookout?format=ical"
+},
+{
+"text": "News",
+"href": "https://www.bobbyscottforcongress.com/press-1"
+},
+{
+"text": "Paid for by Bobby Scott for Congress",
+"href": "https://secure.actblue.com/donate/bobby-scott-3"
+},
+{
+"text": "Photos",
+"href": "https://www.bobbyscottforcongress.com/photos"
+},
+{
+"text": "Sunday Afternoon with Rep. Bobby Scott Featuring Special Guest Dr. Rachel Bitecofer",
+"href": "https://www.bobbyscottforcongress.com/events/sunday-afternoon-with-rep-bobby-scott-featuring-special-guest-dr-rachel-bitecofer"
+},
+{
+"text": "The Scott Record",
+"href": "https://www.bobbyscottforcongress.com/the-scott-record"
+},
+{
+"text": "VAYD",
+"href": "https://www.vayd.org/"
+},
+{
+"text": "Virginia Dems",
+"href": "https://vademocrats.org/"
+},
+{
+"text": "Volunteer",
+"href": "https://www.bobbyscottforcongress.com/volunteer"
+},
+{
+"text": "Vote",
+"href": "https://www.bobbyscottforcongress.com/vote"
+},
+{
+"text": "Where Do I Vote?",
+"href": "https://www.wevoteva.com/"
+},
+{
+"text": "Working For Us",
+"href": "https://www.bobbyscottforcongress.com/working-for-us"
+},
+{
+"text": "[image: Bobby Scott for Congress]",
+"href": "https://www.bobbyscottforcongress.com/"
+},
+{
+"text": "[image: FB_logo_white.png]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "[image: twitter_logo_white.png]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://twitter.com/BobbyScott4VA3"
+},
+{
+"text": "[no text]",
+"href": "https://www.bobbyscottforcongress.com/search"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/bobbyscottforcongress"
+},
+{
+"text": "vaccinate.virginia.gov",
+"href": "https://vaccinate.virginia.gov/?emci=503c0f6a-effe-eb11-b563-501ac57b8fa7&emdi=ea000000-0000-0000-0000-000000000001&ceid=%7B%7BContactsEmailID%7D%7D"
+}
 ]

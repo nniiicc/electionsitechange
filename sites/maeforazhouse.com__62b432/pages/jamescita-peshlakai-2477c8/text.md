@@ -1,31 +1,12 @@
-Jamescita Peshlakai
-Matriarch
-I am Navajo of the Tangle People Clan, born for the Red House clan, maternal grandfathers are of the Deer Water clan, and paternal grandfathers are of the Cliff Dweller clan.
+top of page Home Jamescita Peshlakai Mae Peshlakai Policy Legislative District 6 Event RSVP Media Jamescita Peshlakai Matriarch I am Navajo of the Tangle People Clan, born for the Red House clan, maternal grandfathers are of the Deer Water clan, and paternal grandfathers are of the Cliff Dweller clan.
 I was born north of the sacred mountain of the west, Doo'ko'osliid (the San Francisco Peaks).
-Combat War Veteran
-I am a combat veteran of the Persian Gulf War.
+Combat War Veteran I am a combat veteran of the Persian Gulf War.
 I previously served in the Arizona legislature as a Representative and a Senator for this district.
 I earned my bachelor's and master's degrees at NAU in Flagstaff, and I am currently a student at ASU's Sandra Day O'Connor College of Law.
 Knowledge of policies and the legislative process is essential for representing Arizona's citizens.
-Proud Democrat
-Protect our Democracy:
-Countering extremism
-Protect our fundamental rights
-Protect social security and healthcare
-Lower food and energy costs
-Job creation and stability
-Climate change solutions
-Gun violence prevention
-Home ownership and housing affordability
-Protect reproductive rights
-Immigration and humanity
-Tribal sovereignty and inclusion
-Veterans benefits and services
-Who is Arizona?
+Proud Democrat Protect our Democracy: Countering extremism Protect our fundamental rights Protect social security and healthcare Lower food and energy costs Job creation and stability Climate change solutions Gun violence prevention Home ownership and housing affordability Protect reproductive rights Immigration and humanity Tribal sovereignty and inclusion Veterans benefits and services Who is Arizona?
 We are!
-Established Navajo Code Talkers Day in Arizona in 2021
-Taking Care of our Home
-I am committed to civil rights, equity, and justice in Arizona.
+Established Navajo Code Talkers Day in Arizona in 2021 Taking Care of our Home I am committed to civil rights, equity, and justice in Arizona.
 This includes educating our citizens about living together.
 Arizona needs a leader who can lead by educating and building bridges.
 In 2021, I sponsored the legislation (SB1802) that established August 14th as "Arizona Navajo Code Talkers Day", an official state holiday.
@@ -36,3 +17,15 @@ Some folks are seeing their homes valued less than they had hoped in prior years
 Essentially, their nestegg and savings are dwindling before their eyes.
 The American Dream seems lost to us.
 It is not lost; we need to elect people who represent the citizens of our amazing state.
+Contact Us First name Last name Email Phone Attending which action?
+By providing your cell phone number, you agree to receive texts to your number from Jamescita Peshlakai for State Senator - District 6.
+Texts will include messages about fundraising solicitations, campaign activities and updates sent to opted-in subscribers.
+Msg frequency daily.
+Reply STOP to opt-out.
+Reply HELP for help or more information.
+Msg and data rates may apply.
+Terms and Conditions.
+Privacy Policy.
+Submit Privacy Policy Terms & Conditions Paid for by Jamescita Peshlakai for State Senator - District 6, and Mae Peshlakai for AZ House.
+Jamescita Peshlakai and Mae Peshlakai endorse this message.
+Powered and secured by Wix bottom of page

@@ -1,14 +1,14 @@
-| Nearly everyone is talking about housing in Utah.
+UT 74 VOTE ABOUT Posts Experience Contact Housing and Inflation 2/25/2023 Nearly everyone is talking about housing in Utah.
 The high cost of housing is a concern for young families considering purchasing their first home, for parents thinking about the next generation, for seniors on fixed incomes struggling with rising property taxes, for those without a home, and for those who rent.
 Rising housing costs impact both urban and rural communities.
 Much of our future wealth creation and community stability rest on our housing policy over the coming decades.
 Structurally Short Supply In Utah, we are building residential housing at a furious rate.
-Along the Wasatch Front in 2022 we pulled 6,682 home building permits(1) and completed 11,773 multifamily units(2).
+Along the Wasatch Front in 2022 we pulled 6,682 home building permits (1) and completed 11,773 multifamily units (2) .
 That is a an estimated 18,455 new housing units along the Wasatch Front in 2022.
-In Washington County, we pulled 1,934 home building permits(1) and completed 470 multifamily units(2).
+In Washington County, we pulled 1,934 home building permits (1) and completed 470 multifamily units (2) .
 That is an estimated 2,404 new housing units in Washington County.
 Adding 439 home building permits in Iron County, that is approximately 21,000 housing units statewide.
-Utah grew by 61,242 residents last year(3).
+Utah grew by 61,242 residents last year (3) .
 That is 22,269 housing units assuming 2.75 people per household.
 Except it doesn't account for short-term rentals and second homes.
 For generations, owning a home was the American dream.
@@ -61,10 +61,10 @@ Finally, housing is critical to community stability and wealth creation.
 Given the current context of an inflationary economic cycle, a measure of restraint and patience may be the best solution so as to avoid pushing home prices even higher when policies were intended to keep housing costs down.
 (1) ERA Brokers Consolidated 2023 Residential Review.
 Click on the "Residential Market Research" link below for more information.
-(2) NAI Excel \| NAI Vegas 2023 Commercial Real Estate Outlook.
+(2) NAI Excel | NAI Vegas 2023 Commercial Real Estate Outlook.
 Click on the "Commercial and Multi-family Market Research" link below for more information.
 (3) Utah Population Estimates Committee effective July 1, 2022.
-Real estate markets in 2021 showed historic gains as prices soared on low inventory.
+Residential Market Research Commercial and Multi-family Market Research 2022 Real estate forecast 2/1/2022 Real estate markets in 2021 showed historic gains as prices soared on low inventory.
 Looking ahead, these six drivers will impact housing markets in 2022.
 Population Shifts The trend toward the south and the intermountain west accelerated as employers became more flexible with work-from-home options and higher-ed has expanded online learning.
 Migration that favored large urban centers with high concentrations of employment and education is now leaning toward recreation, tourism, and open space.
@@ -89,7 +89,7 @@ In 2022, wages, home values, and materials are all expected to rise.
 It is a challenging time for housing affordability.
 Conclusion While we won’t solve the affordability problem in 2022, we do know that over a lifetime, owning beats renting consistently.
 Long-term housing stability and closing the wealth gap in the United States both point to home ownership.
-For more information please visit https://erabrokers.com/research/ The last twelve months have seen sentiment in residential housing markets change dramatically.
+For more information please visit https://erabrokers.com/research/ 2021 Mid-year real estate update 8/1/2021 The last twelve months have seen sentiment in residential housing markets change dramatically.
 The result is one of the most dynamic and challenging housing markets in memory.
 Following is a brief overview of market conditions over the past twelve months and a look at what to expect in the second half of 2021.
 Summer 2020 The summer of 2020 ended the first wave of COVID-19 cases and with it came a sense that the pandemic might be easing.
@@ -128,7 +128,7 @@ Supply constraints will continue to disrupt builders, but not at the same level 
 Rental demand will remain high and rental units will remain under supplied, causing rents to continue to rise in most markets.
 Price levels are at risk if interest rates rise, remote employees are called back to the office, or builders get ahead of market demand.
 Given the current conditions, we expect prices to rise in the second half of 2021, although more slowly than in the first half of the year.
-For more information visit https://erabrokers.com/research/ One year ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
+For more information visit https://erabrokers.com/research/ Covid economic outlook, one Year Later 3/21/2021 #ago, in March 2020, State and Local Governments put the United States into a recession in response to the global COVID-19 Pandemic.
 From the outset, it was apparent this recession would be unlike the past recession, or any other in our memory (see my post from March 19, 2020).
 It set in motion structural changes in our economy that will last decades.
 V, U, W, K Recovery As soon as the recession was declared, economists tried to describe the shape of the recovery.
@@ -204,7 +204,12 @@ Homeowners, suburban and rural communities, and essential services are winners t
 Urban centers, renters, children, and low wage earners are feeling the downside.
 The policies of the last year are highly inflationary, even if inflation doesn’t show up in traditional consumption items such as food, fuel, or other household purchases.
 Asset prices are rising and will do so until the policy induced stimulus runs out.
-Reduce Your Tax Liability, Buy Commercial Real Estate If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
+Reduce Your Tax Liability, Buy Real Estate 4/2/2020 Reduce Your Tax Liability, Buy Commercial Real Estate The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
+This provision benefits those who need depreciation tax benefits today more than in the future.
+Benefits could be up to 10 times larger in year 1.
+You may be able to offset taxable income for prior years.
+Consult your tax professional to determine what is appropriate for to your situation.
+If you have had strong income or expect to have a significant taxable income this year, investing in real estate may help.
 You can either pay the IRS, or do something they have incentivized you to do that allows you to keep your hard earned income.
 It is not unusual for the tax code to use taxes to incentivize certain types of investment.
 For example, if you make financial contributions to a qualified retirement accounts, those contributions are deductible and reduce your overall taxable income, which reduces the amount of taxes owed in the year you make the investment.
@@ -219,7 +224,8 @@ Instead of being depreciated over 39.5 years, a cost segregation study separates
 For example, 15 year improvements are those improvements that have to be replaced in approximately 15 years because their useful life has been exceeded.
 This may include tenant improvements, the roof, or the HVAC system.
 Segregating improvements into their respective 5, 15, and 39.5 year useful lives provides larger deductions in earlier years relative to a standard 39.5 year depreciation schedule.
-Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable. 2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
+Given that depreciation reduces taxable income and assuming that depreciation today is more valuable than depreciation in the future, accelerated depreciation is valuable.
+2017 Tax Law Allows for Accelerated Depreciation President Trump’s tax law, Tax Cuts and Jobs Act, passed in 2017 made a substantial change to depreciation that benefits commercial real estate owners.
 It allows for 5 and 15 year property designated in a cost segregation study to be fully depreciated in the year the property is put in service.
 That means that if you purchase and put in use a property in 2020 and the property has $500,000 in 5 and 15 year improvements, then the owner could deduct up to $500,000 in depreciation in 2020.
 Also significantly, the tax law in certain cases authorizes you to use the depreciation benefits to offset prior year income.
@@ -242,18 +248,13 @@ Benefits to owning real estate include the ability to depreciate the consumable 
 The depreciation benefits are set by the IRS and were revised in the 2017 Tax Cuts and Jobs Act.
 The revision resulted in the ability to accelerate depreciation and reduce taxable income today.
 This can be a valuable benefit for investors looking to offset taxable income from real estate investments.
-The Tax Cuts and Jobs Act allows for 5 and 15 year property to be fully depreciated in the year the property is put in service.
-This provision benefits those who need depreciation tax benefits today more than in the future.
-Benefits could be up to 10 times larger in year 1.
-You may be able to offset taxable income for prior years.
-Consult your tax professional to determine what is appropriate for to your situation.
-Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
+Working Out Leases And Loans 4/2/2020 Working out Leases and Loans The speed at which the economy stopped in 2020 put tremendous strain on landlord and tenant relationships.
 The Government’s actions to intentionally stop the economy to slow the spread of COVID 19 have closed or otherwise harmed many successful businesses.
 Tenants and landlords are both at risk from the economic impact.
 Property owners and lenders may feel similar tension.
 This discussion can be applied in both contexts, landlord/tenant and lender/owner.
 Landlords and tenants may seem to be at odds, but their interests are more aligned than is readily apparent.
-When a landlord receives notice of a tenant in distress, at least six options can be considered: We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
+When a landlord receives notice of a tenant in distress, at least six options can be considered: Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality We recommend evaluating each situation and identifying the best solution based on the unique circumstances.
 Recognize that with any of these options there are laws and contracts in place that may impact the decision making process.
 The context for discussing these options is commercial real estate, but the principles can be applied to residential scenarios with appropriate deference to applicable law and regulation.
 Option 1: Do Nothing If a tenant requests relief, the landlord is not obligated to grant the relief.
@@ -309,31 +310,30 @@ In considering these options, it is important to make sure than any adjustment i
 Finally, it is critically important that whatever decision is made, document the revised terms in writing signed by the parties as an amendment to the agreement.
 Landlords and tenants can obtain better results as they work together.
 NAI Excel, NAI Vegas, and its affiliates manage over $350 million in real estate assets from Salt Lake to Las Vegas and are available to assist in managing Landlord and Tenant relations.
-Do nothing Waive all or partial rent Extend the lease term Make up payments over time Use the security deposit Improve the credit quality Market research is an important aspect of real estate.
+A Decade of growth 2/8/2020 Market research is an important aspect of real estate.
 In preparing for our Commercial Real Estate Outlook and Residential Review, we took additional time and space to outline fundamental demographic trends that will shape the intermountain region.
-Some highlights: We are excited about the long term fundamentals of our markets.
-Over the next five years, population from Las Vegas to Salt Lake is projected to expand by approximately 350,000 people according to Utah and Nevada official estimates.
-That expansion will require 125,000 housing units.
-The corresponding commercial real estate expansion of Industrial, Office, and Retail is estimated to be 50-60 million square feet to accommodate the same population increase.
-This does not include schools, universities, hospitals, hospitality, and other special use assets.
-The following five years from 2026-2030 are projected to grow by nearly that amount again reaching to 600,000 new people.
-To view the reports see below.
-Download the 2020 NAI Excel \| NAI Vegas Decade in Review here: https://excelcres.com/market-research/ Download the 2020 ERA Brokers Consolidated Residential Review here: https://erabrokers.com/research/ In taking a regional approach (Salt Lake City to Las Vegas), we are better able to see trends moving through local markets and anticipate market changes.
+Some highlights: In taking a regional approach (Salt Lake City to Las Vegas), we are better able to see trends moving through local markets and anticipate market changes.
 Changes in population drive both residential housing units and commercial and industrial expansion.
 Last decade began with an oversupply of residential units, industrial space, office space, and retail space.
 Real estate construction was slow to start because of the oversupply.
 We begin 2020 with tight real estate markets.
 Residential, industrial, office, and retail markets are all tight today.
 Construction over the next decade will outpace construction from the past decade.
-All students are not considered equal, according to this analysis of state support for institutions of Higher Education in Utah.
+We are excited about the long term fundamentals of our markets.
+Over the next five years, population from Las Vegas to Salt Lake is projected to expand by approximately 350,000 people according to Utah and Nevada official estimates.
+That expansion will require 125,000 housing units.
+The corresponding commercial real estate expansion of Industrial, Office, and Retail is estimated to be 50-60 million square feet to accommodate the same population increase.
+This does not include schools, universities, hospitals, hospitality, and other special use assets.
+The following five years from 2026-2030 are projected to grow by nearly that amount again reaching to 600,000 new people.
+To view the reports see below.
+Download the 2020 NAI Excel | NAI Vegas Decade in Review here: https://excelcres.com/market-research/ Download the 2020 ERA Brokers Consolidated Residential Review here: https://erabrokers.com/research/ State Universities receive uneven financial support 5/1/2016 All students are not considered equal, according to this analysis of state support for institutions of Higher Education in Utah.
 When it comes to capital facilities and annual appropriations, the results indicate that students at the University of Utah and Utah State University receive significantly more support from the Utah State Legislature than the other institutions of higher education.
 While some underfunded institutions are catching up, others are falling further behind.
 Some of the discrepancies are justified while others may require a second look.
-Also, for an expanded look at state facilities spending, view this blog post from earlier this year: http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free Capital Expenditures are a unique challenge in state budgets because subdivisions of the state are rarely charged for using the state’s debt or equity for facilities, equipment, and other investment needs.
+Download the white paper by clicking here Also, for an expanded look at state facilities spending, view this blog post from earlier this year: http://rneilwalter.weebly.com/home/state-funded-buildings-are-not-free State funded buildings are not free 1/25/2016 Capital Expenditures are a unique challenge in state budgets because subdivisions of the state are rarely charged for using the state’s debt or equity for facilities, equipment, and other investment needs.
 In an effort to take advantage of the current resource allocation process, state subdivisions lobby for capital expenditure appropriations.
 The result is an inefficient distribution of resources for capital expenditures within state budgets where the most connected, best funded lobbying efforts frequently win.
-This paper proposes changing the capital resource allocation processes by attaching a cost to state appropriated capital expenditures in an effort to increase accountability and efficiency while improving the long-term credit strength of the state.
-Download File When purchasing a home, borrowers are frequently asked if they would like to have the lender pay the origination fee or other closing costs by increasing the mortgage amount.
+This paper proposes changing the capital resource allocation processes by attaching a cost to state appropriated capital expenditures in an effort to increase accountability and efficiency while improving the long-term credit strength of the state. utah_state_capital_resource_allocation__2016_01_21_.pdf File Size: 219 kb File Type: pdf Download File Don't buy down your interest rate when you Buy a home 4/2/2015 When purchasing a home, borrowers are frequently asked if they would like to have the lender pay the origination fee or other closing costs by increasing the mortgage amount.
 Similarly, borrowers may be asked if they want to pay additional money to buy the interest rate down.
 This overview shows why most of the time, neither is the best choice.
 To read the full whitepaper, click here: Bank Financing at Closing Most people think that the lender is charging them the same rate to finance closing costs that they charge for the home loan.
@@ -345,8 +345,4 @@ If you stay in the loan the full 30 years, you may get a great deal--but you hav
 Looking to determine if you should use lender paid closing costs or buy down your interest rate?
 Here is an calculator in Microsoft Excel that can help.
 Closing Cost and Buy Down Calculator.
-Neil | |
-| utah_state_capital_resource_allocation__2016_01_21_.pdf | |
-| File Size: | 219 kb |
-| File Type: | |
-Download File
+Neil read more All Economics Education Energy Politics Public Lands Real Estate Risk Management RSS Feed Proudly powered by Weebly UT 74 VOTE ABOUT Posts Experience Contact

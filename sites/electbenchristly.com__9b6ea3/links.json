@@ -1,23 +1,126 @@
 [
-"https://electbenchristly.com/",
-"https://electbenchristly.com/cart",
-"https://electbenchristly.com/contact",
-"https://electbenchristly.com/endorsements",
-"https://electbenchristly.com/gallery-1-2-1",
-"https://electbenchristly.com/meet",
-"https://electbenchristly.com/news",
-"https://electbenchristly.com/news/blog-post-title-one-d3klg-nggag-632y4-xwpwl-ely4k-wxwe5-7p3xp-5tpma-4ydcm-zl67r-9c2rb-d3jny",
-"https://electbenchristly.com/take-action",
-"https://electbenchristly.com/values",
-"https://electbenchristly.com/values-1",
-"https://electbenchristly.com/volunteer",
-"https://facebook.com/electbenchristly",
-"https://instagram.com/electbenchristly",
-"https://secure.actblue.com/donate/benchristly",
-"https://secure.actblue.com/donate/benchristly?amount=10",
-"https://secure.actblue.com/donate/benchristly?amount=100",
-"https://secure.actblue.com/donate/benchristly?amount=25",
-"https://secure.actblue.com/donate/benchristly?amount=5",
-"https://secure.actblue.com/donate/benchristly?amount=50",
-"https://sos.wa.gov/elections/voters/voter-registration/register-vote-washington"
+{
+"text": "$10",
+"href": "https://secure.actblue.com/donate/benchristly?amount=10"
+},
+{
+"text": "$100",
+"href": "https://secure.actblue.com/donate/benchristly?amount=100"
+},
+{
+"text": "$25",
+"href": "https://secure.actblue.com/donate/benchristly?amount=25"
+},
+{
+"text": "$5",
+"href": "https://secure.actblue.com/donate/benchristly?amount=5"
+},
+{
+"text": "$50",
+"href": "https://secure.actblue.com/donate/benchristly?amount=50"
+},
+{
+"text": "0",
+"href": "https://www.electbenchristly.com/cart"
+},
+{
+"text": "About Ben",
+"href": "https://www.electbenchristly.com/meet"
+},
+{
+"text": "BEN CHRISTLY LAUNCHES CAMPAIGN FOR STATE REPRESENTATIVE, 17TH DISTRICT",
+"href": "https://www.electbenchristly.com/news/blog-post-title-one-d3klg-nggag-632y4-xwpwl-ely4k-wxwe5-7p3xp-5tpma-4ydcm-zl67r-9c2rb-d3jny"
+},
+{
+"text": "Back",
+"href": "https://www.electbenchristly.com/"
+},
+{
+"text": "CONTRIBUTE",
+"href": "https://secure.actblue.com/donate/benchristly"
+},
+{
+"text": "Contact",
+"href": "https://www.electbenchristly.com/contact"
+},
+{
+"text": "Contribute",
+"href": "https://secure.actblue.com/donate/benchristly"
+},
+{
+"text": "ENDORSE TODAY",
+"href": "https://www.electbenchristly.com/endorsements"
+},
+{
+"text": "Endorse",
+"href": "https://www.electbenchristly.com/endorsements"
+},
+{
+"text": "Endorsements",
+"href": "https://www.electbenchristly.com/endorsements"
+},
+{
+"text": "Folder: Take Action",
+"href": "https://www.electbenchristly.com/take-action"
+},
+{
+"text": "LEARN MORE",
+"href": "https://www.electbenchristly.com/values-1"
+},
+{
+"text": "Learn more about my values",
+"href": "https://www.electbenchristly.com/values-1"
+},
+{
+"text": "Media",
+"href": "https://www.electbenchristly.com/gallery-1-2-1"
+},
+{
+"text": "More News",
+"href": "https://www.electbenchristly.com/news"
+},
+{
+"text": "My Values",
+"href": "https://www.electbenchristly.com/values-1"
+},
+{
+"text": "Other",
+"href": "https://secure.actblue.com/donate/benchristly"
+},
+{
+"text": "Read Ben's Story",
+"href": "https://www.electbenchristly.com/meet"
+},
+{
+"text": "Read more →",
+"href": "https://www.electbenchristly.com/news/blog-post-title-one-d3klg-nggag-632y4-xwpwl-ely4k-wxwe5-7p3xp-5tpma-4ydcm-zl67r-9c2rb-d3jny"
+},
+{
+"text": "Volunteer",
+"href": "https://www.electbenchristly.com/volunteer"
+},
+{
+"text": "Voter Registration",
+"href": "https://www.sos.wa.gov/elections/voters/voter-registration/register-vote-washington"
+},
+{
+"text": "Why I'm Running",
+"href": "https://www.electbenchristly.com/values"
+},
+{
+"text": "[image: Ben Christly]",
+"href": "https://www.electbenchristly.com/"
+},
+{
+"text": "[no text]",
+"href": "https://www.facebook.com/electbenchristly/"
+},
+{
+"text": "[no text]",
+"href": "https://www.instagram.com/electbenchristly/"
+},
+{
+"text": "see more endorsements",
+"href": "https://www.electbenchristly.com/endorsements"
+}
 ]
